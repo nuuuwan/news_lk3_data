@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 06:21:33**
+As of **2025-09-16 04:53:54**
 
 ## Newspaper Stats
 
-*Scraped **76,197** Articles*
+*Scraped **76,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,333 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 628
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,615
-islandlk | 4,693
+economynextcom | 4,613
+islandlk | 4,680
 dailymirrorlk | 4,733
-dailyftlk | 5,408
+dailyftlk | 5,394
 adalk | 7,393
 adaderanalk | 9,808
-tamilmirrorlk | 11,399
+tamilmirrorlk | 11,398
 virakesarilk | 12,415
-adaderanasinhalalk | 13,292
+adaderanasinhalalk | 13,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,695 (95.4%) of 76,197 articles have been extended.
+72,662 (95.4%) of 76,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### අදත් හවසට තැනින් තැන වැසි
-
-*2025-09-16 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214616) · `si`
-
-උතුරු, උතුරු-මැද, නැගෙනහිර, ඌව සහ මධ්‍යම පළාත්වල අද (16) අහස වළාකුලින් බරව පවතිනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
-
-ඌව සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/9832564e.json)
-
----
-
-### Exporters press for bureaucratic, labour reforms in 2026 Budget proposals
-
-*2025-09-16 05:30:59* · [`dailyftlk`](https://www.ft.lk/business/Exporters-press-for-bureaucratic-labour-reforms-in-2026-Budget-proposals/34-781756) · `en`
-
-National Chamber of Exporters presents wish list for 2026 Budget
-
-Flags acute shortage of skilled, unskilled labour across export sector; poor access to affordable finance for SMEs
-
-Recommends EDB reimburse 50% of certification costs and grant low interest loans to help exporters meet requirements
-
-Wants tax free profits for products with over 60% local value addition; triple tax deductions for R&D, innovation, and sustainability
-
-Calls for Govt. research and development fund and Sri Lankan Export Import Bank
-
-The National Chamber of Exporters (NCE) yesterday said it has submitted proposals for the 2026 Budget seeking reforms to strengthen exports, attract investment, and boost competitiveness. It said the measures would streamline trade, strengthen Sri Lankan brands, cut compliance costs, promote value addition and innovation, expand SME financing, and address labour shortages by building a skilled workforce.
-
-...
-
-[Data](articles/87a28212.json)
-
----
-
-### Sri Lanka bank foreign assets in reverse gear
-
-*2025-09-16 05:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-foreign-assets-in-reverse-gear-240623/) · `en`
-
-ECONOMYNEXT – Net foreign reserves of Sri Lanka’s banking system have started to go on reverse gear after April 2025, official data show, amid rate cuts and a pick-up in private credit, while central bank net reserves are also struggling to grow.
-
-Net foreign assets of the banking system peaked at around 3.3 billion US dollars in April 2025, just before a rate cut, central bank data show, amid a strong pick up in credit.
-
-In May bank NFA fell to 3.15 billion US dollars, in June to 2.96 billion dollars and in July to 2.90 billion dollars.
-
-Bank net foreign assets fell to a negative 6.4 billion US dollars until April 2022 as the central bank used its own reserves and borrowed reserves to finance imports and maturing debt in a bid to keep rates down.
-
-In April 2022 rates were hike steeply, but India gave ACU dollars to the central bank, which the central bank used in sterilized sales (printing money after intervention) which delayed a correction in the system.
-
-...
-
-[Data](articles/8513d70e.json)
-
----
-
-### Sri Lankan entrepreneurs shine at Forbes Under  30 Summit Asia 2025
-
-*2025-09-16 05:27:58* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-entrepreneurs-shine-at-Forbes-Under-30-Summit-Asia-2025/34-781755) · `en`
-
-From left: Synapse AI Labs Founder Nikin Matharaarachchi, Sozo Co-Founder Gianee De Silva, Silver Aisle Founder Yanika Amarasekera-Siyaguna, Actor/Filmmaker Dinara Punchihewa, and Sozo Co-Founder Dushyantha De Silva
-
-Sri Lanka made its presence felt at the Forbes Under 30 Summit Asia 2025, as four remarkable alumni from the island nation participated in the three-day event held in Thailand. Among them were Sozo Beverages Founders Dushyantha and Gianee De Silva, Silver Aisle Founder Yanika Amarasekera-Siyaguna, Synapse AI Labs Founder Nikin Matharaarachchi, and Actor/Filmmaker Dinara Punchihewa.
-
-The annual summit, now in its sixth edition, brought together hundreds of honorees from the Forbes 30 Under 30 Asia lists (2016–2025) under the theme ‘Jumpstarting The Future’. With panel discussions, cultural showcases, networking opportunities, and performances, the event celebrated innovation and leadership across Asia’s rapidly transforming business and creative landscapes.
-
-...
-
-[Data](articles/124f8ce0.json)
-
----
-
-### Nilendra Weerasinghe joins Panasian Power Board
-
-*2025-09-16 05:26:42* · [`dailyftlk`](https://www.ft.lk/business/Nilendra-Weerasinghe-joins-Panasian-Power-Board/34-781754) · `en`
-
-Panasian Power PLC yesterday announced the appointment of Nilendra Weerasinghe as an Independent Non-Executive Director.
-
-Weerasinghe has over 15 years of experience in investment banking, corporate finance, and strategy. He currently serves as the Chief Financial and Strategy Officer at hSenid Business Solutions PLC, a listed global HR technology company, where he oversees finance, investor relations, and strategic growth initiatives.
-
-Previously, Nilendra held senior leadership roles at NDB Investment Bank, where he was responsible for origination, structuring, and execution of IPOs, M&A, and capital raising transactions across Sri Lanka, Bangladesh, and the Maldives. He has successfully led 18 IPOs raising over $ 200 million and over 20 M&A transactions valued at over $ 300 million.
-
-...
-
-[Data](articles/4023df00.json)
-
----
-
-### CEAT Kelani honours top dealers with ‘Autobahn 2.0’ convention and awards gala
-
-*2025-09-16 05:24:59* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-honours-top-dealers-with-Autobahn-2-0-convention-and-awards-gala/34-781753) · `en`
-
-CEAT’s top 10 dealers in Sri Lanka with the Chairman, Board of Directors and representatives of the senior management of CEAT Kelani Holdings at the Partner Excellence Awards 2024/25
-
-A dazzling celebration of partnership, performance and excellence unfolded at the Shangri-La, Colombo, when CEAT Kelani Holdings, Sri Lanka’s largest manufacturer of pneumatic tyres, hosted its annual dealer convention and awards gala with customary panache.
-
-The event brought together the top 145 dealers of the year along with their families, for an unforgettable evening of recognition and camaraderie. They were joined by members of CEAT’s sales, marketing and export teams as well as the company’s leadership, underscoring the importance of the occasion to the brand’s continuing success story.
-
-...
-
-[Data](articles/f54a3d17.json)
-
----
-
-### e-Courts project kicks off
-
-*2025-09-16 05:21:09* · [`dailyftlk`](https://www.ft.lk/news/e-Courts-project-kicks-off/56-781752) · `en`
-
-From left: Digital Economy Deputy Minister Eng. Eranga Weeraratne, Justice and National Integration Minister Harshana Nanayakkara, Chief Justice Preethi Padman Surasena, Attorney General Parinda Ranasinghe PC, and Judicial Service Commission Members and Supreme Court Judges S. Thuraijara PC and Mahinda Samayawardena
-
-In a historic step towards building a modern, transparent, and citizen-focused judiciary, the Supreme Court of Sri Lanka, in collaboration with the Judicial Service Commission and the Justice Ministry, officially launched the “e-Courts” project, featuring a state-of-the-art Web Portal and an integrated e-Case Management System for all Court Houses.
-
-...
-
-[Data](articles/23089d3f.json)
-
----
-
-### HelpAge Sri Lanka builds second Elders’ Day Care Centre in Laxapathiya, Moratuwa
-
-*2025-09-16 05:16:12* · [`dailyftlk`](https://www.ft.lk/news/HelpAge-Sri-Lanka-builds-second-Elders-Day-Care-Centre-in-Laxapathiya-Moratuwa/56-781751) · `en`
-
-HelpAge Sri Lanka (HASL), is establishing its second Elders’ Day Care Centre in Laxapathiya, Moratuwa to improving the lives of underprivileged senior citizens.
-
-The centre will provide structured day care services for underprivileged elders, offering daily activities, meals, health monitoring, and social engagement. The total project cost is Rs. 16 million, reflecting the scale of support needed to bring this vision to life.
-
-Sri Lanka has the highest ageing population in Southeast Asia, and by 2038, it is projected that 25% of the population will be over 60 years of age. This demographic shift underscores the urgent need for centres of this nature to enable active ageing, social engagement, and holistic support for the elderly.
-
-...
-
-[Data](articles/4b5880d4.json)
-
-[Extended Data](ext_articles/4b5880d4.ext.json)
-
----
-
-### CaFFE launches ‘Janani’ in Matale district to enhance digital literacy of new women councillors
-
-*2025-09-16 05:13:16* · [`dailyftlk`](https://www.ft.lk/news/CaFFE-launches-Janani-in-Matale-district-to-enhance-digital-literacy-of-new-women-councillors/56-781750) · `en`
-
-Commissioner General of Elections Saman Sri Rathnayake addressing the female councillors in the Matale district
-
-‘Janani’, the initiative conducted across 15 districts in 2023 and 2024 (prior to the local authorities poll) by the Campaign for Free and Fair Elections (CaFFE) to enhance the digital literacy of female councillors of local authorities and help them stay safe online was well accepted and a tremendous success.
-
-With a large number of first-time female councillors having been elected to local authorities at the last local authorities poll, CaFFE has heeded the many requests received and with the generous financial support of the Embassy of Switzerland in Sri Lanka will conduct the program in the 10 districts which were left out in the first phase.
-
-...
-
-[Data](articles/976883c9.json)
-
-[Extended Data](ext_articles/976883c9.ext.json)
-
----
-
-### H’tota house seized for alleged ‘Ice’ production
-
-*2025-09-16 05:08:38* · [`dailyftlk`](https://www.ft.lk/news/H-tota-house-seized-for-alleged-Ice-production/56-781749) · `en`
-
-The Kalutara District Crimes Division yesterday uncovered a house in Mayurapura, Hambantota, allegedly used by underworld figures ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’ to manufacture the drug ‘Ice.’
-
-Police said the search of the house uncovered 52 litres of chemicals suspected to be used in producing Ice. One room had been set up as a laboratory, containing four white iron cauldrons, six plastic buckets, and other equipment believed to be linked to narcotics production. A vehicle allegedly used to transport the drugs was also seized. Investigations show it is registered to an organised criminal residing overseas and had previously been in police custody before being released.
-
-Earlier this month, sleuths seized about 50,000kg of chemicals at a residence in Thalawa, Middeniya, suspected to be used for Ice production. Tests by the National Dangerous Drugs Control Board confirmed that 17 of 20 samples taken contained substances used to manufacture methamphetamine.
-
-◼️
-
-[Data](articles/f56ef0fc.json)
-
-[Extended Data](ext_articles/f56ef0fc.ext.json)
-
----
-
-### Court fixes Rambukwella asset case for 1 October
-
-*2025-09-16 05:08:19* · [`dailyftlk`](https://www.ft.lk/news/Court-fixes-Rambukwella-asset-case-for-1-October/56-781748) · `en`
-
-The Colombo High Court yesterday ordered that the case against former Minister Keheliya Rambukwella, his wife, three daughters, and son-in-law over alleged unlawfully acquired assets be recalled on 1 October.
-
-High Court Judge Lanka Jayaratne made the order when the matter was taken up, according to court reporters. During proceedings, the prosecution submitted several documents in open court that had been requested by the defence.
-
-The judge directed the defence to inform the court within two weeks if further documents were required. The case is to be taken up again on October 1.
-
-The indictment names Keheliya Rambukwella, his wife Kusum Priyadarshani Epa, daughters Chamithree Jayanika Rambukwella, Chandula Ramali Rambukwella, and Amali Nayanika Rambukwella, as well as his son-in-law Isuru Pulasthi Bandara Polgasdeniya.
-
-...
-
-[Data](articles/227d50af.json)
-
-[Extended Data](ext_articles/227d50af.ext.json)
-
----
-
-### First-ever EFC National Best Employer Awards up for grabs
-
-*2025-09-16 05:06:07* · [`dailyftlk`](https://www.ft.lk/business/First-ever-EFC-National-Best-Employer-Awards-up-for-grabs/34-781747) · `en`
-
-At a time when Sri Lanka is rediscovering its strength and optimism, the Employers’ Federation of Ceylon (EFC) has announced the launch of the inaugural EFC National Best Employer Awards 2025. This landmark initiative comes at a pivotal moment in the nation’s journey, as organisations and communities embrace resilience, innovation, and purpose.
-
-The awards represent a national movement to honour organisations that redefine what it means to be truly great employers—entities that go beyond profit to create workplaces where people thrive, communities are uplifted, and values are lived with purpose. The programme will recognise those who champion holistic wellbeing while driving sustainable business practices and meaningful social impact.
-
-...
-
-[Data](articles/867621da.json)
-
-[Extended Data](ext_articles/867621da.ext.json)
-
----
-
-### Slim Pharmaceuticals appoints Riza Cassim as CEO
-
-*2025-09-16 05:04:45* · [`dailyftlk`](https://www.ft.lk/business/Slim-Pharmaceuticals-appoints-Riza-Cassim-as-CEO/34-781746) · `en`
-
-Slim Pharmaceuticals Ltd., has announced the appointment of Riza Cassim as its new Chief Executive Officer.
-
-With over three decades of experience across multinational pharmaceutical giants, Cassim brings a wealth of expertise, a proven track record of leadership, and a clear vision for the future of Slim Pharmaceuticals.
-
-...
-
-[Data](articles/4f9e58dc.json)
-
-[Extended Data](ext_articles/4f9e58dc.ext.json)
-
----
-
-### Govt. assures no forced job cuts in CEB reforms: Minister
-
-*2025-09-16 05:01:47* · [`dailyftlk`](https://www.ft.lk/news/Govt-assures-no-forced-job-cuts-in-CEB-reforms-Minister/56-781745) · `en`
-
-Energy Minister Eng. Kumara Jayakody says all employees notified to express their views within two months; stresses process is legal requirement and not move by Govt. to pressure workers
-
-Announces Govt. opted to offer more favourable package, extending Rs. 5 m VRS to all employees without discrimination
-
-Criticises certain trade unions, questioning whether their actions truly represented employee welfare or politically motivated
-
-Energy Minister Eng. Kumara Jayakody yesterday assured that the Government’s restructuring of the Ceylon Electricity Board (CEB) will not undermine employee job security or labour rights, despite trade union concerns and ongoing protest threats.
-
-...
-
-[Data](articles/578b8cb1.json)
-
-[Extended Data](ext_articles/578b8cb1.ext.json)
-
----
-
-### Major transport hubs face overhaul under Clean Sri Lanka program
-
-*2025-09-16 04:59:49* · [`dailyftlk`](https://www.ft.lk/news/Major-transport-hubs-face-overhaul-under-Clean-Sri-Lanka-program/56-781744) · `en`
-
-Colombo Central Bus Terminal gets complete facelift for first time in 60 years, with Rs. 425 m; expects project to be completed by April 2026
-
-Begins renovation of historic Maradana Railway Station as part of broader plan to upgrade 100 stations countrywide via PPP under Dream Destination initiative
-
-Transport, Highways, Ports, and Civil Aviation Minister Bimal Rathnayake reveals plans to set up 50 multimodal transport centres by 2029 with 15 of them expected next year
-
-The Government yesterday launched two landmark transport infrastructure projects; the full redevelopment of the Colombo Central Bus Terminal and the renovation of the historic Maradana Railway Station under the Clean Sri Lanka program and its broader policy vision of “A Thriving Nation – A Beautiful Life.”
-
-...
-
-[Data](articles/27766c39.json)
-
-[Extended Data](ext_articles/27766c39.ext.json)
-
----
-
-### Hakeem calls out Govt.’s Israel foreign policy stance
-
-*2025-09-16 04:57:47* · [`dailyftlk`](https://www.ft.lk/news/Hakeem-calls-out-Govt-s-Israel-foreign-policy-stance/56-781743) · `en`
-
-Slams Govt. statement on Israel’s Qatar strikes as apathetic, one-sided, distorted
-
-Sri Lanka Muslim Congress Leader MP Rauff Hakeem yesterday accused the Government of shielding Israel in its foreign policy, saying the Foreign Ministry’s statement on the recent attack on Qatar downplayed Israeli aggression, ignored international law, and risked undermining Sri Lanka’s ties with key Gulf partners.
-
-“At the time of Israel’s recent attack on Qatar, I was in Tehran, Iran, attending the World Islamic Solidarity Conference on Palestine, which was attended by representatives from more than 50 countries.
-
-While returning from there, I came across a statement issued by the Sri Lankan Ministry of Foreign Affairs following Israel’s attack on Qatar.
-
-Sri Lanka’s Foreign Ministry has demonstrated once again not just how incapable it is or distinguishing between an occupier and the occupied, or between an air attack and an incident, or even worse, between a mercenary behaviour and solidarity with victims.
-
-...
-
-[Data](articles/09ca5441.json)
-
-[Extended Data](ext_articles/09ca5441.ext.json)
-
----
-
-### விஜய் மீது சீமான் விமர்சனம்
-
-*2025-09-16 04:16:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-மீது-சீமான்-விமர்சனம்/175-364661) · `ta`
-
-மக்கள் பிரச்சினைகளை எழுதி வைத்துப் படிப்பது என்பது சரியானது அல்ல என்று த.வெ.க. தலைவர் விஜய் மீது நாம் தமிழர் கட்சியின் தலைமை ஒருங்கிணைப்பாளர் சீமான் விமர்சனத்தை முன்வைத்துள்ளார்.
-
-இது தொடர்பாக சென்னை விமான நிலையத்தில் நேற்று செய்தியாளர்களிடம் அவர் கருத்து தெரிவிக்கையில்,
-
-ஒவ்வொரு தொகுதியிலும், ஒவ்வொரு ஊரிலும் மக்களுக்கு என்ன பிரச்சினை இருக்கிறது என்பதை சொல்லும்போது இதயத்தில் இருந்து வரவேண்டும். அதை எழுதி வைத்துப் படிப்பது என்பது சரியானது அல்ல. அமெரிக்க ஜனாதிபதி ட்ரம்ப்பிடம் எழுதி கொடுத்தால் கூட, மேடையில் ஏறி இதுதான் பிரச்சினை என்பதை படித்து காட்டிவிட்டு சென்றுவிடுவாரே.
-
-தி.மு.க, அ.தி.மு.கவை விட த.வெ.க. தலைவர் விஜய்யை எதிர்ப்பதையே நான் மும்முரம் காட்டுவதாக சொல்கின்றனர். தி.மு.கவை நிறுவியவர் அண்ணா. அ.தி.மு.கவை நிறுவியவர் எம்.ஜி.ஆர். விஜய் இவர்கள் இருவரையும் சேர்த்து தூக்கிக் கொண்டு வருகிறார். இருவரின் படத்தை மேடையில் வைத்துவிட்டால் மட்டும் போதுமா?
-
-...
-
-[Data](articles/7aba7b17.json)
-
----
 
 ### Planning to modernize the Maradana railway station
 
@@ -495,122 +187,6 @@ This is the first time Sri Lanka and Hong Kong has been hostile to the internati
 [Data](articles/08dc5f7d.json)
 
 [Extended Data](ext_articles/08dc5f7d.ext.json)
-
----
-
-### “Bank of Ceylon Stands as a cornerstone of Sri Lanka’s Economic Progress through Capital Formation, Inclusion and Stability”
-
-*2025-09-15 23:14:00* · [`islandlk`](http://island.lk/bank-of-ceylon-stands-as-a-cornerstone-of-sri-lankas-economic-progress-through-capital-formation-inclusion-and-stability/) · `en`
-
-*  In conversation with Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC
-
-Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC a Senior Chartered Accountant and a seasoned professional in the sector, discusses the hospital’s evolution, its collaboration with the country’s largest bank, and the shared vision of advancing healthcare and economic growth in Sri Lanka. In this interview we discuss how Bank of Ceylon has been a strategically, enabling efficient financial operations, supporting medical professionals, and strengthening the hospital’s role as a trusted national institution. In this interview,
-
-*  Lanka Hospitals has established itself as a leading healthcare institution in Sri Lanka. Could you share a brief overview of the hospital’s journey, key areas of service, and its vision for the future?
-
-...
-
-[Data](articles/23040fa3.json)
-
----
-
-### Noeline … once more
-
-*2025-09-15 23:12:00* · [`islandlk`](http://island.lk/noeline-once-more/) · `en`
-
-Noeline Honter’s performance at Gatz, Cinnamon Life, on 24th August, was exceptional.
-
-Backed by the band Terry & The Big Spenders, Noeline enthralled the crowd that included several well-known personalities, with her awesome vocals.
-
-And this is what Noeline had to say: “That was a great night, indeed. Terry and the Big Spenders, undoubtedly, is a top rung outfit, and I couldn’t have done it without their super accompaniment. Terry and Viraj are in a class of their own.
-
-“I was more than delighted with the presence of many of my friends in music that night. My thanks also go out to Sohan who has definitely led the way to make Gatz the most happening place in Colombo.”
-
-Well, Noeline will be at Gatz … once more … and this time the scene is set for Saturday, 20th September.
-
-She will have the band Mirage for company and, I’m told, it will be another evening of great music and captivating vocals.
-
-...
-
-[Data](articles/e2a3ff02.json)
-
----
-
-### Oktoberfest… lots of action in the scene here
-
-*2025-09-15 23:10:00* · [`islandlk`](http://island.lk/oktoberfest-lots-of-action-in-the-scene-here/) · `en`
-
-Oktoberfest is a world-famous German festival and is celebrated annually, generally from late September to early October, and there’s going to be plenty of action in our part of the world, as well.
-
-Most venues in Colombo are gearing up for the Oktoberfest celebrations, with Cinnamon Lakeside planning to give their event a typical Oktoberfest atmosphere … and with all the traditions, as well.
-
-Suzi Flückiger, now residing in Switzerland, and is better known as Suzi Croner to her fans in Sri Lanka, is expected shortly, with a Swiss outfit, for this festival, and will be doing the needful at Cinnamon Lakeside.
-
-In order to create the real Oktoberfest scene, a 14-member crew will be arriving from Switzerland, comprising eight hostesses, a five-piece band, and, of course, Suzi, and they will move into action, from the 23rd to the 28th of September, at the Cinnamon Lakeside.
-
-...
-
-[Data](articles/4f2b84d4.json)
-
----
-
-### Equity (shares): What it means to own a piece of a company
-
-*2025-09-15 22:59:00* · [`islandlk`](http://island.lk/equity-shares-what-it-means-to-own-a-piece-of-a-company/) · `en`
-
-This article is part of a collaborative series by the Securities and Exchange Commission of Sri Lanka (SEC), CFA Society Sri Lanka and the Colombo Stock Exchange (CSE) and which aims to enhance financial literacy and empower individuals with the knowledge and tools to make informed financial decisions and build long-term financial security.
-
-...
-
-[Data](articles/7c140a7e.json)
-
----
-
-### Real estate stocks gain from low interest rates as major land sales go through
-
-*2025-09-15 22:56:00* · [`islandlk`](http://island.lk/real-estate-stocks-gain-from-low-interest-rates-as-major-land-sales-go-through/) · `en`
-
-The CSE recorded a downward trend yesterday due to profit-takings in select stocks, market analysts said.
-
-Low interest rates significantly benefited the real estate sector, for instance. Recently Home Lands executed a major land acquisition at Thunmulla, while last week Prime Lands acquired a major land stretch at Bambalapitiya Station Road to the tune of Rs 3.5 billion, analysts added.
-
-However, due to profit takings both indices moved downwards. The All Share Price Index went down by 257.01 points, while the S and P SL20 declined by 73.66 points. Turnover stood at Rs 4.1 billion with eight crossings.
-
-Those crossings were reported in HNB, which crossed 880,000 shares to the tune of Rs 334 million and its shares traded at Rs 380, Pan Asia Bank 1.8 million shares crossed for Rs 107 million; its shares traded at Rs 57, Singer (Sri Lanka) 991,000 shares crossed for Rs 66.4 million; its shares traded at Rs 67, NTB 220,000 shares crossed for Rs 57.6 million; its shares sold at Rs 262.
-
-...
-
-[Data](articles/b6dd367f.json)
-
----
-
-### Early Bird Tickets launched for Sri Lanka Retail Forum 2025
-
-*2025-09-15 22:55:00* · [`islandlk`](http://island.lk/early-bird-tickets-launched-for-sri-lanka-retail-forum-2025/) · `en`
-
-15th September 2025, Colombo – The Sri Lanka Retailers’ Association (SLRA) has announced the launch of Early Bird ticket sales for the much anticipated Sri Lanka Retail Forum 2025, scheduled for 23rd October 2025 at the Shangri-La Hotel, Colombo.
-
-This year’s forum, themed “Retail Reimagined – Where AI Meets the Human Edge,” is set to be the most dynamic edition yet. More than 450 leaders from retail, technology, fintech, startups, and government will gather to explore how artificial intelligence, data, and human creativity are coming together to transform the retail industry and deliver smarter, more meaningful customer experiences.
-
-Early Bird tickets, priced at LKR 18,000, include full-day access to keynote sessions, panel discussions, networking opportunities, and refreshments. Regular tickets will be priced at LKR 20,000, making this the ideal time for industry professionals to secure their spot.
-
-...
-
-[Data](articles/e4499081.json)
-
----
-
-### CDB celebrates remarkable journey of 30 years
-
-*2025-09-15 22:53:00* · [`islandlk`](http://island.lk/cdb-celebrates-remarkable-journey-of-30-years/) · `en`
-
-Reflecting on a remarkable three-decade journey of pioneering steps, benchmark achievements, and trailblazing initiatives in Sri Lanka’s Non-Banking Finance Industry (NBFI), Citizens Development Business Finance PLC (CDB) marked its 30th anniversary with a series of meaningful celebrations. Commencing on September 4th with a Sarwa Rathrika Pirith ceremony and Heel Danaya the following morning, the events embraced both tradition and unity. On September 8th, team members from across the island gathered for a grand celebration that underscored CDB’s people-centric culture and Sri Lankan roots. A highlight was the opening of the CDB Heritage Pavilion, a creative showcase of its transformative milestones and inspiring journey to becoming a top-tier NBFI. The celebrations seamlessly blended heritage, culture, and innovation, reaffirming CDB’s vision for the future.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/cfcb2517.json)
 
 ---
 
@@ -989,30 +565,6 @@ Especially when the Ceylon Electricity Workers Union (CEB) and all the trade uni
 [Data](articles/73aea13b.json)
 
 [Extended Data](ext_articles/73aea13b.ext.json)
-
----
-
-### Sri Lanka GDP grows 4.9-pct in second quarter 2025
-
-*2025-09-15 18:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-4-9-pct-in-second-quarter-2025-240619/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross domestic product expanded 4.9 percent in the second quarter of 2025, led by the industries sector followed by services and helped by restriction of vehicle imports and lower interest rates, the state statistics office said.
-
-The island nation grew at 4.1 percent in the same quarter last year.
-
-The economy recorded its eighth consecutive positive growth in the April-June quarter, signaling the continuous recovery.
-
-Industry grew 5.8 percent with manufacturing up 16.6 percent and construction up 8.5 percent.
-
-The agriculture sector grew by 2 percent in the second quarter.
-
-Services were up 3.9 percent, with financial services up 12.3 percent, hotels and restaurants up 10.3 percent.
-
-...
-
-[Data](articles/016307ca.json)
-
-[Extended Data](ext_articles/016307ca.ext.json)
 
 ---
 
@@ -2013,5 +1565,523 @@ Transport Minister Bimal Ratnayake stressed that if we do not improve the transp
 [Data](articles/f62ad5ea.json)
 
 [Extended Data](ext_articles/f62ad5ea.ext.json)
+
+---
+
+### New Nepal interim ministers sworn in after protests
+
+*2025-09-15 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112520/new-nepal-interim-ministers-sworn-in-after-protests) · `en`
+
+Nepal’s new interim prime minister unveiled her first ministers on Monday (Sep 15), as the Himalayan nation seeks to restore order after deadly youth-led anti-corruption protests that ousted the previous government.
+
+Under an outdoor awning and against the backdrop of the fire-damaged presidential office, President Ram Chandra Paudel gave the oath of office to three key ministers in a ceremony broadcast on television.
+
+Protests, sparked by a ban on social media and feeding into long-standing economic woes, began on Sep 8 and quickly escalated, with parliament and key government buildings set ablaze.
+
+It was the worst unrest since the end of a decade-long civil war and the abolition of the monarchy in 2008.
+
+At least 72 people were killed in two days of protests, with 191 still recovering in hospital, according to government figures.
+
+...
+
+[Data](articles/65f41a7d.json)
+
+[Extended Data](ext_articles/65f41a7d.ext.json)
+
+---
+
+### 1.5 million Australians threaten 1.5 million
+
+*2025-09-15 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214596) · `si`
+
+According to a report, 1.5 million people living in the coastal areas of Australia by 2050 have to face the influence of sea level.
+
+◼️
+
+[Data](articles/d41d2688.json)
+
+[Extended Data](ext_articles/d41d2688.ext.json)
+
+---
+
+### Prime Minister says that the government does not interfere with the independence of the police
+
+*2025-09-15 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214595) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the government hopes to make the police service into an independent, efficient, friendly and close to the public.
+
+She was addressing the closing ceremony of the 84th Police Interhearterene of the Sri Lanka Police Station at the Colombo Field Force Headquarters.
+
+Sachithra Jayakantan of the Criminal Investigation Division is the best thorns at the 84th Police Interhearterene.. Wijetunga, AMN. Perera, National. Despite the players of Hemantha, the Prime Minister Challenge Shield of Prime Minister for the Overall Succurrence, the Prime Minister was awarded the overall factory.
+
+Prime Minister Dr. Harini Amarasuriya said,
+
+...
+
+[Data](articles/c3d2909b.json)
+
+[Extended Data](ext_articles/c3d2909b.ext.json)
+
+---
+
+### Economic and Investment Summit to focus on drawing investors to Sri Lanka
+
+*2025-09-15 14:00:00* · [`economynextcom`](https://economynext.com/economic-and-investment-summit-to-focus-on-drawing-investors-to-sri-lanka-240556/) · `en`
+
+ECONOMYNEXT – Day two of the Sri Lanka Economic and Investment Summit 2025 will focus on the investment climate and the country’s road forward, its organizer the Ceylon Chamber of Commerce said.
+
+“The session will explore how Sri Lanka can accelerate much-needed reforms, mitigate risks, and unlock new opportunities to position itself as a credible and attractive destination for both local and international investors,” the chamber said.
+
+The session titled “Where Sri Lanka Stands and What Comes Next?” will feature Arjuna Herath – Chairman, Board of Investment of Sri Lanka, Dimuthu Abeyesekera – Chairman, Colombo Stock Exchange, Mangala Wijesinghe – Chairman/CEO, Sri Lanka Export Development Board, and K A Vimalenthirarajah, – Secretary, Ministry of Trade, Commerce and Food Security.
+
+Dialog Axiata Group CEO Supun Weerasinghe will moderate the session.
+
+The summit will be held on December 2-3 at the Shangri-La Hotel Colombo. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/aae972b3.json)
+
+[Extended Data](ext_articles/aae972b3.ext.json)
+
+---
+
+### Increasing ecommerce industry in Sri Lanka!
+
+*2025-09-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225136) · `ta`
+
+Police are paying attention to the rapid rise of enemy sex industry in Sri Lanka. There have been increased concerns about many people, including cyber fraud, exploitation and boys. Foreign women who have come to Sri Lanka on a tourist visa have also been shocked by this.
+
+Ads for hundreds of sex services daily with many websites and mobile processors. It has a variety of features such as direct video services and personal meetings.
+
+Charges for these services vary depending on the type of service. For example, the "mother full body massage" is advertised for about 10,000 rupees. At the same time, the cost of the live video session is charged from 1,000 rupees to Rs 1,000 for 30 minutes and 10,000 rupees. 8,000 to Rs 30,000 for direct meetings.
+
+...
+
+[Data](articles/4a360d7a.json)
+
+[Extended Data](ext_articles/4a360d7a.ext.json)
+
+---
+
+### Another suspected ‘Ice’ production facility uncovered in Hambantota
+
+*2025-09-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112519/another-suspected-ice-production-facility-uncovered-in-hambantota) · `en`
+
+Another house believed to have been used by underworld figures ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’ for manufacturing the drug ‘Ice’ has been uncovered in Mayurapura, Hambantota by the Kalutara District Crimes Division.
+
+The house in question has been discovered following a revelation made by ‘Embilipitiya Suranga,’ a close associate of ‘Kudu Nilanga,’ after he was arrested by the Kalutara District Crime Division, police said.
+
+He had revealed a 20-year-old resident of Kiriyagolla, Wellawaya, named ‘Sampath Bandara’ and the suspect was arrested with ice drugs in Arukgoda, Panadura.
+
+The suspect has then disclosed details about the Mayurapura house where narcotics were allegedly being manufactured and informed police that he was present at the location during the production of the drugs, police said.
+
+The suspect reportedly said that three Iranians were involved in the manufacturing of ‘Ice’ in the house and later sold about 14 kilograms of the drug to Kehelbaddara Padme’s party.
+
+...
+
+[Data](articles/e0782969.json)
+
+[Extended Data](ext_articles/e0782969.ext.json)
+
+---
+
+### Rs. Central Bank Notice of 2000note
+
+*2025-09-15 13:54:35* · [`adalk`](https://www.ada.lk/breaking_news/රු--2000-නෝට්ටුව-ගැන-මහ-බැංකුවෙන්-දැනුම්-දීමක්/11-418507) · `si`
+
+A commemorative note for circulation of Rs.
+
+The new currency note is easily adopted, licensed commercial banks are in the process of calibralization machines (Calibration machines). The new bank's note is issued to gradually circulation through licensed commercial banks in accordance with the progress of this process.
+
+◼️
+
+[Data](articles/94294509.json)
+
+[Extended Data](ext_articles/94294509.ext.json)
+
+---
+
+### Rs. 2000 currency note will be gradually introduced into the banking system: CBSL
+
+*2025-09-15 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112518/rs-2000-currency-note-will-be-gradually-introduced-into-the-banking-system-cbsl) · `en`
+
+The newly issued Rs. 2000 commemorative currency note, released on 29 August 2025 to mark its 75th anniversary, will be gradually introduced into the banking system, the Central Bank of Sri Lanka (CBSL) has announced.
+
+Licensed Commercial Banks are currently calibrating their cash-handling machines to accept and dispense the new note. The CBSL stated that the note will be released into circulation in line with the progress of this process.
+
+The Central Bank requested the cooperation of the public during the transition and assured that the new currency note will be seamlessly accommodated in all banking channels once the calibration process is concluded.
+
+For further information, the public has been requested to contact the CBSL Currency Department, visit the official website, or follow CBSL’s verified social media platforms.
+
+◼️
+
+[Data](articles/75730697.json)
+
+[Extended Data](ext_articles/75730697.ext.json)
+
+---
+
+### “The. 2000 will be gradually circulated. ”
+
+*2025-09-15 13:31:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2000-படிப்படியாக-சுற்றோட்டத்திற்கு-விடப்படும்/175-364621) · `ta`
+
+The Central Bank of Sri Lanka released its 75th anniversary on August 29, 2025. The Central Bank of Sri Lanka has announced that the currency should be circulated.
+
+In order to facilitate the acceptance and distribution of the new currency, licensed commercial banks carry out the process of measurement of their money handling machines. In accordance with the progress of this process. The new currency panel will be gradually circulated through licensed commercial banks.
+
+The Central Bank of Sri Lanka promises to use the cooperation of public cooperation during this period of changing and that the new currency paper will be used by all banks.
+
+◼️
+
+[Data](articles/fb75103e.json)
+
+[Extended Data](ext_articles/fb75103e.ext.json)
+
+---
+
+### US Secretary of State on a visit to Israel in many crises
+
+*2025-09-15 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214594) · `si`
+
+US Secretary of State Marco Reubio has honored Israel to Israel.
+
+He is traveling in the region when the US has disregarded the Hamas's Hamas's attack on the Hamas Political Leaders who remained in Qatar.
+
+Rubio visited the Israeli background to discuss the Israeli attack.
+
+◼️
+
+[Data](articles/5b322f81.json)
+
+[Extended Data](ext_articles/5b322f81.ext.json)
+
+---
+
+### Fitch upgrades Sri Lanka’s People’s Leasing & Finance rating to ‘A
+
+*2025-09-15 13:15:00* · [`economynextcom`](https://economynext.com/fitch-upgrades-sri-lankas-peoples-leasing-finance-rating-to-a-240550/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has upgraded Sri Lanka’s People’s Leasing and Finance PLC’s rating to ‘A(lka)’ from ‘A-(lka)’, the ratings agency said.
+
+The upgrade is due to improved support from its parent, People’s Bank, the country’s second-largest bank, Fitch said.
+
+The finance and leasing company is focused on vehicle financing and other asset-backed loans.
+
+The stock was trading down 20 cents at 23.10 rupees. (Colombo/Sep15/2025)
+
+◼️
+
+[Data](articles/eaf3cfee.json)
+
+[Extended Data](ext_articles/eaf3cfee.ext.json)
+
+---
+
+### Some who have escaped against the Sri Lankan Tamil party will be removed from the party - M. Sumanthiran
+
+*2025-09-15 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225131) · `ta`
+
+In the presidential parliamentary elections, those who have been directly against the party have already been excluded from the party in violation of the party's decisions.
+
+At the same time, a letter has been sent against all those who have worked against the party and some who have fled the local government elections will be excluded from the party.. Said Sumanthiran.
+
+The Central Executive Committee Meeting of the Sri Lanka Tamil National Alliance (TNA) was held on Sunday (14) at the Alayadivembu Cultural Hall in Ampara. He later said this to the media.
+
+The party's moral air action, the presidential parliamentary elections, the three elections, the three elections, have been sent a letter against all those who violated the party's resolutions.
+
+At the same time, some people who contested the local government elections have survived our negligence.. They too will be removed from the party.
+
+...
+
+[Data](articles/ec4c742d.json)
+
+[Extended Data](ext_articles/ec4c742d.ext.json)
+
+---
+
+### Thirty thousand of lakhs have been found in the father-son who behaved
+
+*2025-09-15 13:13:48* · [`adalk`](https://www.ada.lk/breaking_news/සැක-කටයුතු-ලෙස-හැසිරුණු-පිය-පුතු-ලඟ-තිබී-රුපියල්-ලක්ෂ-තිස්පහක්-සොයා-ගැනේ/11-418506) · `si`
+
+The police have been found at least Rs.
+
+Army camp has informed the police to have two suspects in the Uva Kudaoya Army Camp.
+
+The Kuda Oya Police arrested the two in the reserve and was found in their baggage in their bags.
+
+The two were two son born on the Tissamaharama road in Hambantota, 44 and 22. It has been said that the two of them were planning to kill their spouse and that the wife had been mortgaged.
+
+The wife had come to the police on the 15th and said that he was a mental illness and was in prison in connection with an abuse incident.
+
+The 22-year-old son has appeared at the GCE Advanced Excellent Tests of the GCE (Abeyas. Smat Oya Police Station is investigating the police station.
+
+◼️
+
+[Data](articles/d05ac454.json)
+
+[Extended Data](ext_articles/d05ac454.ext.json)
+
+---
+
+### Central Bank Notice of New 2000note
+
+*2025-09-15 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214593) · `si`
+
+The Central Bank of Sri Lanka has issued a statement regarding the commemorative note which was issued Rs.
+
+It is said that the new currency note is easily adaptable to the circulation of the money, that the licensed commercial banks are in the process of calibrating machines.
+
+The Central Bank has informed that the new currency note gradually be issued through licensed commercial banks in accordance with the progress of this process.
+
+With the end of the calibration process, the Central Bank of Sri Lanka (CBSL) has further appreciated the cool of the public through all bank media.
+
+Accordingly, the Central Bank of Sri Lanka (CBSL) has announced that the call of the Department of Definition or Central Bank of Sri Lanka officials of the Central Bank of Sri Lanka or the Central Bank of Sri Lanka's official website of the Central Bank of Sri Lanka or the Central Bank of Sri Lanka.
+
+◼️
+
+[Data](articles/62b2bf6d.json)
+
+[Extended Data](ext_articles/62b2bf6d.ext.json)
+
+---
+
+### Rising oceans to threaten 1.5 million Australians by 2050: Report
+
+*2025-09-15 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112517/rising-oceans-to-threaten-15-million-australians-by-2050-report) · `en`
+
+Rising oceans and flooding caused by climate change will threaten the homes and livelihoods of over a million Australians by 2050, while deaths from heat-related illness will soar, a landmark report warned Monday (Sep 15) ahead of the country’s releasing its emission reduction targets this week.
+
+The long-awaited national climate risk assessment found that rising temperatures will have “cascading, compounding, concurrent” impacts on life in Australia, home to more than 27 million people.
+
+“We are living climate change now. It’s no longer a forecast, a projection or prediction - it is a live reality, and it’s too late to avoid any impacts,” Climate Minister Chris Bowen said.
+
+The report, prepared independently for the government, found that 1.5 million people living in coastal areas will be at risk of sea level rise and coastal flooding by 2050.
+
+By 2090, about three million people will be at risk from rising oceans.
+
+...
+
+[Data](articles/28530ce3.json)
+
+[Extended Data](ext_articles/28530ce3.ext.json)
+
+---
+
+### Govt aims to build independent and people-oriented police service - PM
+
+*2025-09-15 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112516/govt-aims-to-build-independent-and-people-oriented-police-service-pm) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that it is the Government’s expectation to transform the Police Service into an independent, efficient, friendly, and people-oriented service.
+
+The Prime Minister made these remarks while addressing the closing ceremony of the 84th Police Inter-Divisional Athletics meets held on 14 September at the Field Force Headquarters, Colombo, according to the Prime Minister’s Media Division.
+
+At the 84th Police Inter-Divisional Athletics Meets, the award for the Best Female Athlete was presented to Sachithra Jayakanthan of the Criminal Investigation Division, while the awards for the Best Male Athletes were presented to T.G.S. Wijethunga, A.M.N. Perera, and Hemantha.
+
+The Prime Minister’s Challenge Trophy for Overall Runner-Up was presented by the Prime Minister to the Criminal Investigation Department and the President’s Challenge Trophy for Overall Championship to the Special Task Force, the statement said.
+
+...
+
+[Data](articles/2b549148.json)
+
+[Extended Data](ext_articles/2b549148.ext.json)
+
+---
+
+### House in Hambantota to be produced in Hambantota
+
+*2025-09-15 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214592) · `si`
+
+Kehelibodara Padma and Kudu Nilanga have been suspected of producing ice drugs in Sri Lanka.
+
+The residence Embilipitiya Suranga, a close associate of Kudu Nilanga, was a revelation that was arrested in Kalutara District Crimes Division.
+
+He was revealed about a 20-year-old resident of Kirigolla, Kirilegolla, Panadura, Panadura.
+
+The suspect has told the police that the suspect has been revealed to be produced in the ice drug, and he had stayed there at the time of producing the ice.
+
+The suspect has said that three Iranians manufactured the ice drugs and that 14 kg of ice drugs were then sold to Kehelbadara Padma's party.
+
+The suspect has said that the three Iranians have fled the country.
+
+At least 52 liters of chemicals have been found to be used to create the cobi ice drugs at the time of the house.
+
+One of the rooms were preparing a laboratory, including four plastic buckets, six plastic buckets and several other items.
+
+...
+
+[Data](articles/58595ec4.json)
+
+[Extended Data](ext_articles/58595ec4.ext.json)
+
+---
+
+### Increase in internet sex trade in Sri Lanka; Young women targeting tourists
+
+*2025-09-15 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225130) · `ta`
+
+Hundreds of web sites have been launched in Sri Lanka. It has been found that some people involved in the internet are being carried out by the inner box, which has been launched by pages such as marketing trade products on social media.. It is found that women between the ages of 18 to 27 are involved in the sex industry and some are spontaneously involved.. According to the Cyber ​​allegations, the police said that such sex businesses are being carried out in the name of massage services.. Using social media such as WhatsApp and Base Book, carrying out this trade is not only costly, but also the runs of the law.
+
+◼️
+
+[Data](articles/f736ffb4.json)
+
+[Extended Data](ext_articles/f736ffb4.ext.json)
+
+---
+
+### Israel-catter attack; Hakeem criticizes the government
+
+*2025-09-15 12:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேல்-கட்டார்-தாக்குதல்-அரசாங்கத்தை-சாடுகிறார்-ஹக்கீம்/175-364618) · `ta`
+
+Sri Lanka Muslim Congress (SLMC) leader Rauf Hakeem has criticized the government's latest report on Israel's attacks on Qatar, in connection with the current conflict with Palestine.
+
+Hakeem, who issued a statement, accused the Foreign Ministry of Foreign Affairs, "It has once again proven how incompetent it is to distinguish between an occupant and the occupants, between an air strike and an incident, or a worse, mercenary, and the unity of the victims.
+
+He accused Israeli Prime Minister Benjamin Netanyahu and his administration that the government was "in a tactical or strategic conspiracy" in the occupied Palestinian areas, not only in the crimes committed in Gaza, but also in support of Qatar last June.
+
+Hakeem accused the government and the Foreign Ministry exposing the long -term inability to use the recent comments on Qatar, as in previous statements, for the use of ethical and moral standards for Israel and threats to its aggression, long -term aggression and regional stability. "
+
+...
+
+[Data](articles/7a79029f.json)
+
+[Extended Data](ext_articles/7a79029f.ext.json)
+
+---
+
+### Does 'Tekiya' and 'Vaitniya' say Tamil?
+
+*2025-09-15 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225124) · `ta`
+
+Tamil murder is increasing in public places. In some cases there are places where the Tamil language and the knowledgeable people cannot understand what it is, and there are slights and places of misconception.
+
+Kandy National Hospital. There are people who can read only Tamil from the hill, the East and the Northern Province.
+
+For example, two of them can be found above the name boards. One can be found that 'national' is written as 'Tekiya' and 'Vaitniya' to 'Vaidniya'.
+
+◼️
+
+[Data](articles/fae8fa04.json)
+
+[Extended Data](ext_articles/fae8fa04.ext.json)
+
+---
+
+### Govt’s objective is to reduce prison population– Justice Minister
+
+*2025-09-15 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112515/govts-objective-is-to-reduce-prison-population-justice-minister) · `en`
+
+The government’s objective is to reduce the number of people imprisoned in the country, the Minister of Justice and National Integration Harshana Nanayakkara says.
+
+He made these remarks while participating in the 27th Prisoners’ Day ceremony held recently.
+
+Speaking at the event, the Minister stated that the service provided by the Prisoners’ Welfare Association for inmates in prisons is commendable.
+
+He further highlighted the severe issue of prison overcrowding and stressed that it is the government’s responsibility to ensure the necessary facilities to address this problem.
+
+The Minister emphasized that it is extremely important to reduce the number of people imprisoned and to create facilities that protect the human rights of all those imprisoned.
+
+“All people are equal before the law, and as a government, we are committed to upholding the supremacy of the rule of law and building a country based on equality,” Minister Nanayakkara stated.
+
+...
+
+[Data](articles/634fb483.json)
+
+[Extended Data](ext_articles/634fb483.ext.json)
+
+---
+
+### Case against former Minister Keheliya and family members adjourned
+
+*2025-09-15 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112514/case-against-former-minister-keheliya-and-family-members-adjourned) · `en`
+
+The Colombo High Court today (15) ordered the case filed against former Minister Keheliya Rambukwella, his wife, three daughters, and son-in-law, over allegations of illegally acquired assets, to be recalled on October 01.
+
+High Court Judge Lanka Jayaratne issued the order when the case was taken up before court today, said Ada Derana reporter.
+
+During proceedings, the prosecution handed over several documents, previously requested by the defendants for the trial, in open court.
+
+The judge further directed the defendants to notify the court within two weeks if they required any additional documents and fixed the case to be recalled on October 01.
+
+According to the charge sheet, the defendants are accused of committing offences under the Sri Lanka Penal Code by unlawfully acquiring assets during the period between August 13, 2020, and June 24, 2024, while serving in the Ministry of Mass Media and Health.
+
+...
+
+[Data](articles/c6b647bc.json)
+
+[Extended Data](ext_articles/c6b647bc.ext.json)
+
+---
+
+### The first goal is to strengthen traffic
+
+*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்தை-வலுப்படுத்துவதே-முதல்-குறிக்கோள்/175-364616) · `ta`
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said on Monday (15)
+
+Minister Bimal Ratnayake said trains, buses and texies would be built from one place to be booked from one place.
+
+Minister of State also said that the government's aim was to open at least fifty -fifty transport centers in Sri Lanka by 2029.
+
+Minister Bimal Ratnayake said this while addressing the inauguration ceremony at the Central Bus Stand at Pettah.
+
+The project was launched under the leadership of President Anura Kumara Dissanayake. "Our primary goal is to strengthen the country. No matter how many roads are constructed, no matter how many traffic lights are installed, the economy of a country cannot be improved.
+
+In the last thirty to forty years, the public transport system has fallen greatly due to fraud and corruption.
+
+If the president has time, we ask for five minutes to walk in this area to understand how the people of this country use this main bus station.
+
+...
+
+[Data](articles/8af73522.json)
+
+[Extended Data](ext_articles/8af73522.ext.json)
+
+---
+
+### Our primary goal is to strengthen the country's transport.
+
+*2025-09-15 12:05:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-போக்குவரத்தை-வலுப்படுத்துவதே-எங்கள்-முதன்மையான-குறிக்கோள்/175-364616) · `ta`
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said on Monday (15)
+
+Minister Bimal Ratnayake said trains, buses and texies would be built from one place to be booked from one place.
+
+Minister of State also said that the government's aim was to open at least fifty -fifty transport centers in Sri Lanka by 2029.
+
+Minister Bimal Ratnayake said this while addressing the inauguration ceremony at the Central Bus Stand at Pettah.
+
+The project was launched under the leadership of President Anura Kumara Dissanayake. "Our primary goal is to strengthen the country. No matter how many roads are constructed, no matter how many traffic lights are installed, the economy of a country cannot be improved.
+
+In the last thirty to forty years, the public transport system has fallen greatly due to fraud and corruption.
+
+If the president has time, we ask for five minutes to walk in this area to understand how the people of this country use this main bus station.
+
+...
+
+[Data](articles/f6a7070a.json)
+
+[Extended Data](ext_articles/f6a7070a.ext.json)
+
+---
+
+### Scholarships from President Fund to low income students
+
+*2025-09-15 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225121) · `ta`
+
+Scholarships were provided to students from low -income families from the presidential fund.
+
+The President's Fund to provide scholarships for school children from economically disadvantaged families in the Kandy - Mahayawa area was held at the Kandy District Secretariat yesterday (14).
+
+During a field inspection conducted by the President's Fund on 31st May 2025, it was appropriate to implement development projects in order to improve the living standards of the people of the West Grama Niladhari Division of the Kandy - Mahayawa Poornawatta.
+
+Accordingly, in the first phase of the event, 28 students were given scholarships.
+
+◼️
+
+[Data](articles/fcf3748b.json)
+
+[Extended Data](ext_articles/fcf3748b.ext.json)
 
 ---

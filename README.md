@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 00:12:31**
+As of **2025-09-17 01:05:49**
 
 ## Newspaper Stats
 
-*Scraped **76,383** Articles*
+*Scraped **76,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,421
 adaderanalk | 9,850
-tamilmirrorlk | 11,435
+tamilmirrorlk | 11,436
 virakesarilk | 12,445
 adaderanasinhalalk | 13,327
 
@@ -26,23 +26,43 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,467 (96.2%) of 76,383 articles have been extended.
+73,483 (96.2%) of 76,384 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-17 (Wednesday)
+
+### மதுபானசாலையில் வாள்வெட்டு: இருவர் காயம்
+
+*2025-09-17 00:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலையில்-வாள்வெட்டு-இருவர்-காயம்/175-364729) · `ta`
+
+நெடுந்தீவு தனியார் விருந்தக மதுபானசாலையில் நேற்று (16)  இரவு 7.00 மணியளவில் இரண்டு இளைஞர் குழுக்களுக்கிடையில் இடம்பெற்ற  மோதலில் இளைஞர் இருவர் வாள்வெட்டில்  காயமடைந்துள்ளனர்.
+
+நெடுந்தீவு மதுபானசாலையில் இரவு 7.00 மணியளவில் திடீரென புகுந்த இளைஞர்குழு மதுபானசாலைக்குள் இருந்த இளைஞர் குழுமீது வாள்வெட்டு தாக்குதல் மேற்கொண்டதில் இரண்டுபேர் தலையிலும் முகத்திலும் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்றதாக தகவல்கள் தெரிவிக்கின்றன.
+
+குறித்த சம்பவம் தொடர்பில் தகவலறிந்து சம்பவ இடத்துக்கு வந்த  பொலிஸார் மீதும் வாள்வெட்டுக்குழுவினர் தாக்குதல் மேற்கொண்டுவிட்டு தப்பிச்செல்ல முற்பட்டபோது ஒருவர் கைதுசெய்யப்பட்டு நெடுந்தீவு பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டுள்ளதுடன், தப்பிச்சென்றவர்களை தேடி கைது செய்யும் வகையில் பொலிஸார் நடவடிக்கையினை மேற்கொண்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/75324405.json)
+
+---
+
 ### 2025-09-16 (Tuesday)
 
-### පානදුරේ නිලංගගේ බැංකු ගිණුම් දෙකකින් විශාල මුදල් සංසරණයක්
+### Large cash circulation of two bank accounts of Panadura Nilanga's bank accounts
 
 *2025-09-16 23:33:27* · [`adalk`](https://www.ada.lk/breaking_news/පානදුරේ-නිලංගගේ-බැංකු-ගිණුම්-දෙකකින්-විශාල-මුදල්-සංසරණයක්/11-418542) · `si`
 
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මේ වනවිට රැඳවුම් භාරයට පත්කර ප්‍රශ්න කරමින් සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් හා සංවිධානාත්මක අපරාධකරුවෙක් වන පානදුරේ නිලංග නමැත්තාගේ බැංකු ගිණුම් පිළිබඳ වාර්තාවක් කැඳවීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවසර ලබාදුනි.
+The Colombo Magistrate's Court today (16) permitted the CID today (16) to summon with the bank accounts of the nabbed and an organized criminal, an organized criminal in Indonesia.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුවයි. සැකකරුගේ බැංකු ගිණුම් දෙකක් හරහා විශාල වශයෙන් මුදල් සංසරණය වී ඇති බවට තොරතුරු ලැබී ඇතැ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට පැවැසීය.
+After considering the request made by the Criminal Investigation Department. The Criminal Investigations Department (CID) said in court that the suspect has circulated a large amount of money through two bank accounts of the suspect.
 
 ◼️
 
 [Data](articles/f16c22dd.json)
+
+[Extended Data](ext_articles/f16c22dd.ext.json)
 
 ---
 
@@ -59,6 +79,8 @@ Vehicle importers noted that the sector has expanded due to recent government de
 ...
 
 [Data](articles/5a0e869a.json)
+
+[Extended Data](ext_articles/5a0e869a.ext.json)
 
 ---
 
@@ -576,23 +598,27 @@ The order was issued by Mahesh Weeraman, Pradeep Abeyratne and Amali Ranaweera, 
 
 ---
 
-### අවශ්‍යතාවක් ඇතිවුණොත් සහල් ආනයනය කරනවා
+### If there is a need, the rice is imported
 
 *2025-09-16 17:51:59* · [`adalk`](https://www.ada.lk/breaking_news/අවශ්‍යතාවක්-ඇතිවුණොත්-සහල්-ආනයනය-කරනවා/11-418540) · `si`
 
-කීරි සම්බා සහල් හිඟයක් ඇති වීමට ඉඩ නොදෙන බවත් අවශ්‍යතාවක් ඇතිවුවහොත් සහල් ආනයනය කිරීමට හෝ ආදේශක සහල් සඳහා අනුමැතිය හිමිවී ඇති බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක , සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+Cabinet Media Spokesperson Health and Mass Media Spokesperson Dr. Nalinda Jayatissa says that if a hair samba will not be allowed to cause a shortage of rice and imports to the importation of rice.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ අද (16) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවට එක්වෙමිනි.
+The Minister was speaking at a press conference to inform the Cabinet decisions held in the Department of Government Information today.
 
-පසුගිය මහ කන්නයේ මෙට්‍රික් ටොන් ලක්ෂ 25කට ආසන්න සහල් අස්වැන්නක් ලැබී ඇති බව සඳහන් කරන අමාත්‍යවරයා මෙවර යල කන්නයේදී සහල් අස්වැන්න මෙට්‍රික්ටොන් ලක්ෂ 22ක් පමණ අපේක්ෂා කරන බවත් පෙන්වා දුන්නේය.
+The Minister also pointed out that the rice harvest of nearly 2.5 million rice, said that the rice harvest of nearly 25 metric tons of the Maha season.
 
-එසේම මේ වනවිට සියයට 79කට ආසන්න ප්‍රමාණයක් අස්වැන්න නෙලා ඇති අතර අස්වැන්න සම්බන්ධයෙන් තබන ලද ඉලක්කවලට ගොවීන් ළඟා වී ඇත අතර වගා කිරීමේදී මෙම කන්නයේදී නාඩු සියයට 62ක් වන අතර කීරි සම්බා වගා කර ඇත්තේ සියයට 7ක් බවත් අමාත්‍යවරයා සඳහන් කළේය.
+Also, the farmers have reached nearly 79 percent of their targets for the harvest and the farmers have been in the same season, the said Minister said.
 
-තවද කීරිසම්බා වගා කිරීමේ අඩුවක් මිස සමස්ත නිෂ්පාදනයේ අඩුවත් නොවන බව පෙන්වා දුන් අමාත්‍යවරයා මෙම ඇතිවී තිබෙන කීරි සම්බා සහල් ගැටලුව නිරාකරණය කිරීමට රජය මැදිහත් වී ඇති බවත් පැවසීය.
+He also said that the Minister pointed out that the government is not a lack of Caremboba cultivation, but the government has intervened to resolve the Key Samba Rice problem.
 
-...
+The Minister said that the government is prepared to import rice in accordance with the needs of the rice in the market with the needs of the market.
+
+◼️
 
 [Data](articles/e944080d.json)
+
+[Extended Data](ext_articles/e944080d.ext.json)
 
 ---
 
@@ -2019,25 +2045,5 @@ Members of Parliament including Akram Iliyas, Lal Premadilaka, Harsha Prasinghe 
 [Data](articles/a1180974.json)
 
 [Extended Data](ext_articles/a1180974.ext.json)
-
----
-
-### Southern Province first to adopt GovPay for digital payments across all Secretariats
-
-*2025-09-16 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112564/southern-province-first-to-adopt-govpay-for-digital-payments-across-all-secretariats) · `en`
-
-All District and Divisional Secretariats across the Southern Province are now empowered to accept digital payments following the adoption of GovPay, the Government Digital Payments Platform.
-
-This historic milestone was officially launched yesterday (15), at the Matara District Secretariat under the patronage of Eng. Eranga Weeraratna, Deputy Minister of Digital Economy.
-
-Accordingly, the Southern Province has become the first province in the country where all District and Divisional Secretariats are supported through digital payments via GovPay, the Ministry of Digital Economy said.
-
-The ceremonial launch was graced by Members of Parliament Akram Ismail, Lal Premananth and MP Harsha Purasinghe – Board Director of ICTA, Channa De Silva – Chief Executive Officer of LankaPay, Chandana Thilakarathna – District Secretary of Matara, along with many other distinguished guests.
-
-...
-
-[Data](articles/fad7a5b5.json)
-
-[Extended Data](ext_articles/fad7a5b5.ext.json)
 
 ---

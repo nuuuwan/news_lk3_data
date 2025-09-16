@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 19:56:11**
+As of **2025-09-16 20:09:13**
 
 ## Newspaper Stats
 
-*Scraped **76,357** Articles*
+*Scraped **76,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,627
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,416
+adalk | 7,417
 adaderanalk | 9,845
 tamilmirrorlk | 11,433
 virakesarilk | 12,436
-adaderanasinhalalk | 13,322
+adaderanasinhalalk | 13,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,360 (96.1%) of 76,357 articles have been extended.
+73,360 (96.1%) of 76,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
+
+### තෙල් ගබඩා ධාරිතාව වැඩි කරන්න සංස්ථාවෙන් සැලසුම්
+
+*2025-09-16 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214649) · `si`
+
+රට තුළ තෙල් සංචිත ධාරිතාව ඉහළ දැමීම සඳහා තවත් තෙල් ටැංකි 6ක් ස්ථාපිත කිරීමට අවශ්‍ය කටයුතු ආරම්භ කරන බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.
+
+එහි සභාපති ඩී.ජේ රාජකරුණා මහතා සඳහන් කළේ පසුගිය කාලය තුළ ඉදිකිරීම් අතරමග නවතා දමා තිබු තෙල් ටැංකි ඉදිකිරීම් මෙලෙස ආරම්භ කිරීමට කටයුතු කරන බවය.
+
+අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ඩී.ජේ රාජකරුණා මහතා මෙම අදහස් පළ කළේය.
+
+මේ අතර වරායේ සිට කොළොන්නාව තෙල් ගබඩා පර්යන්තය දක්වා නව නළ මාර්ග දෙකක් ඉදිකිරීම සම්බන්ධයෙන් ද ඩී.ජේ රාජකරුණා මහතා එහිදී අදහස් පළකළේය.
+
+◼️
+
+[Data](articles/74d133a6.json)
+
+---
 
 ### Approval of 40,000 Metricton
 
@@ -369,6 +387,22 @@ President Anura Dissanayake will sign the relevant exchange sheets and other doc
 [Data](articles/a0962ef1.json)
 
 [Extended Data](ext_articles/a0962ef1.ext.json)
+
+---
+
+### තම දියණිය අපයෝජනය කළ පියා රිමාන්ඩ්
+
+*2025-09-16 16:21:10* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-අපයෝජනය-කළ-පියා-රිමාන්ඩ්/11-418536) · `si`
+
+වයස අවුරුදු 13 මාස 8ක දැරියක් අපයෝජනය කළැයි කියන දැරියගේ පියා මේ මස 22 දක්වා රිමාන්ඞ් බාරයට පත්කරන්නැයි කුලියාපිටිය මහේස්ත‍්‍රාත් මිහිල් චිරන්තන සතුරුසිංහ මහතා ඊයේ (15දා) නියම කළේය.
+
+එලෙසින් රක්‍ෂිත බන්ධනාගාර ගතවූයේ කුලියාපිටිය බෝගොඩ සංස්කෘතික මධ්‍යස්ථානය අසල පදිංචිකරුවෙකු වූ අධිකාරි මුදියන්සේලාගේ හසිත නුවන් අධිකාරි නැමැත්තෙකි.
+
+මව විදෙස්ගතව ඇති වින්ධිත දැරියගේ වැඩිමහල් සහෝදරිය රැකියාවකට යාම හේතුවෙන් මාරවිල ප‍්‍රදේශයේ කන්‍යාරාමයක නවතා ගොස් සිටියදී එම පාලිකාවක් විසින් ලබාදුන් දුරඇමතුමක් අනුව විමර්ශනය කිරීමෙන් අනතුරුව ස්ථාන කිහිපයකදී සිවු දෙනෙකු විසින් වින්ධිත දැරිය අපයෝජනයට  ලක්කර ඇතැයි අනාවරණයවූ කරුණු අනුව අදාළ සැකකාර පියා අත්අඩංගුවට ගෙන තිබූ බව පොලිසිය අධිකරණයට කරුණු දැක්වීය.
+
+...
+
+[Data](articles/439b5da7.json)
 
 ---
 
@@ -2039,55 +2073,5 @@ However, he said that the professional measures would not be interrupted by any 
 [Data](articles/f96269e5.json)
 
 [Extended Data](ext_articles/f96269e5.ext.json)
-
----
-
-### Deputy Minister reveals the advancement planning of the government
-
-*2025-09-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214625) · `si`
-
-Deputy Minister of Economic Development Anil Jayantha Fernando said Sri Lanka has targeted its economic growth to 6%.
-
-The Deputy Minister said that it could partially contribute partly through record capital expenditure, but delaying the approval of the budget could hinder its performance this year.
-
-Deputy Minister Anil Jayantha stated that Sri Lankans and investors must be hopeful since the economic crisis of the year 2022.
-
-Sri Lanka recorded 5% economic growth in 2024. Anil Jayantha said that this year was slowingly to slow down 4% to 4.5% due to the delay in the passage of the budget.
-
-In 2026, the government is planning to increase its capital expenditure from 8% to Rs 1.4 trillion.
-
-The International Monetary Fund for Sri Lanka in March 2023 is foretold this year's GDP growth.
-
-The economy pointed out that the economy grew 4.9% from the year 2025, said the official data on Monday.
-
-◼️
-
-[Data](articles/00f17265.json)
-
-[Extended Data](ext_articles/00f17265.ext.json)
-
----
-
-### Sri Lanka’s PMI for August expands
-
-*2025-09-16 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112558/sri-lankas-pmi-for-august-expands) · `en`
-
-The Central Bank of Sri Lanka’s (CBSL) Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 55.2 in August 2025.
-
-The CBSL said that most of the sub-indices expanded on a month-on-month basis which contributed to the expansion of the PMI.
-
-The report indicated that the increase in new orders and production was mainly attributable to the manufacture of food and beverage sectors.
-
-Meanwhile, the employment sub-index remained positive in August 2025, indicating favourable employment conditions, as per the CBSL report.
-
-The services Purchasing Manager’s Index (PMI) indicated a further expansion in service activities in August 2025 as reflected by the Business Activity Index, which recorded an index value of 68.9.
-
-Furthermore, new businesses increased in August 2025 primarily due to the expansions observed in wholesale and retail trade, and financial services related activities.
-
-...
-
-[Data](articles/00a50fad.json)
-
-[Extended Data](ext_articles/00a50fad.ext.json)
 
 ---

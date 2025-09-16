@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 04:52:37**
+As of **2025-09-17 01:56:12**
 
 ## Newspaper Stats
 
-*Scraped **76,393** Articles*
+*Scraped **76,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,185 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 629
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,628
+economynextcom | 4,627
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,421
 adaderanalk | 9,850
 tamilmirrorlk | 11,436
-virakesarilk | 12,453
+virakesarilk | 12,445
 adaderanasinhalalk | 13,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,548 (96.3%) of 76,393 articles have been extended.
+73,499 (96.2%) of 76,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய சீனாவுக்கு விஜயம்; பதில் பொலிஸ் மா அதிபராக லலித் பத்திநாயக்க நியமனம்
-
-*2025-09-17 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225275) · `ta`
-
-சீனாவில் நடைபெறும் பொலிஸ் மாநாட்டில் கலந்துக் கொள்வதற்காக, பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய சீனாவிற்கு விஜயமொன்றை மேற்கொண்டுள்ளார்.
-
-இந்நிலையில் பதில் பொலிஸ் மாஅதிபராக சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர் லலித் பத்திநாயக்க நியமிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் உதய குமார வுட்லர் தெரிவித்துள்ளார்.
-
-பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய திங்கட்கிழமை (15) இரவு சீனாவிற்கு சிறப்பு விஜயம் ஒன்றை மேற்கொண்டுள்ளார்.  சீனாவில் இடம்பெறும் பொலிஸ் மாநாட்டில் கலந்துக் கொள்வதற்காக அவர் சீனாவுக்குச் சென்றுள்ளதுடன் , அம்மாநாட்டில் பொலிஸ்மா அதிபர்  பிரியந்த வீரசூரிய உரை ஒன்றை நிகழ்த்தவுள்ளதாகவும்  தெரியவந்துள்ளது.  அதற்கமைய மத்திய மாகாணம் மற்றும் பொலிஸ் நிர்வாகப் பிரிவுக்குப் பொறுப்பான சிரேஷ்ட பொலிஸ்மா அதிபர் லலித் பத்திநாயக்க, பதில் பொலிஸ்மா அதிபராக நியமிக்கப்பட்டுள்ளதாக உதவி பொலிஸ் அத்தியட்சகர் பொலிஸ் ஊடகப் பேச்சாளர் உதயகுமார வுட்லர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/04ab177e.json)
-
----
-
-### கொரிய மொழி தேர்ச்சி பரீட்சைக்கான விண்ணப்ப படிவம் விநியோகம் நள்ளிரவுடன் நிறைவு
-
-*2025-09-17 04:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/225274) · `ta`
-
-தென் கொரியாவின் உற்பத்தி மற்றும் மீன்பிடி துறைகளில் வேலை வாய்ப்புகளுக்கான 2025 ஆம் ஆண்டில் நடத்தப்படவுள்ள கொரிய மொழி தேர்ச்சி பரீட்சைக்கான விண்ணப்ப படிவம் 2025.09.15 முதல் 2025.09.17 நள்ளிரவு வரை நிகழ்நிலை முறையில் வெளியிடப்பட உள்ளன.
-
-பரீட்சைக்குத் தேவையான விண்ணப்பங்களைப் பெறுவதற்கான பதிவை இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் அதிகாரப்பூர்வ வலைத்தளமான www.slbfe.lk மூலம் மேற்கொள்ளலாம்.
-
-...
-
-[Data](articles/fad3cbc0.json)
-
----
-
-### எதிர்க்கட்சி உறுப்பினர்களை குற்றம்சாட்ட பொலிஸார் போதைப்பொருள் வைப்பதாக சாகர காரியவசம் குற்றச்சாட்டு
-
-*2025-09-17 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225273) · `ta`
-
-எதிர்க்கட்சிகளின் உறுப்பினர்களின் வீடுகளுக்கு அத்துமீறிய வகையில் நுழையும் பொலிஸார் அங்கு போதைப்பொருட்களை இரகசியமான முறையில் வைத்து விட்டு பின்னர் கைது செய்கிறார்கள். பொலிஸாரின் செயற்பாடுகள் முறையற்றது என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
-
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் திங்கட்கிழமை (15) நடைபெற்ற தொகுதி அமைப்பாளர்களுடனான கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-எதிர்க்கட்சிகளின் உறுப்பினர்களின் வீடுகளுக்கு அத்துமீறிய வகையில் பொலிஸார் நுழைகிறார்கள். நீதிமன்றத்தின் உத்தரவு இல்லாமல் பொலிஸார் வீடுகளை பரிசோதிக்கிறார்கள்.
-
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் எல்பிட்டிய பிரதேச சபையின் முன்னாள் உறுப்பினர் ஒருவரின் வீடு கடந்த வாரம் பொலிஸாரால் அத்துமீறிய வகையில் பரிசோதிக்கப்பட்டுள்ளது.
-
-எதிர்க்கட்சிகளின் உறுப்பினர்களின் வீடுகளுக்கு அத்துமீறிய வகையில் நுழையும் பொலிஸார் அங்கு போதைப்பொருட்களை இரகசியமான முறையில் வைத்து விட்டு பின்னர் கைது செய்கிறார்கள். பொலிஸாரின் செயற்பாடுகள் முறையற்றது.
-
-...
-
-[Data](articles/8abe4e7a.json)
-
----
-
-### ஜெனிவாவில் மாபெரும் கவனயீர்ப்புப்பேரணி : இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்துமாறு வலியுறுத்தல்
-
-*2025-09-17 04:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225272) · `ta`
-
-தமிழர்களுக்கு எதிராக நிகழ்த்தப்பட்ட இனவழிப்புடன் தொடர்புபட்டதாக இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்தவேண்டும் எனக்கோரி புலம்பெயர் தமிழர்கள் ஒன்றிணைந்து திங்கட்கிழமை (15) ஜெனிவாவில் மாபெரும் கவனயீர்ப்புப்பேரணியொன்றை முன்னெடுத்துள்ளனர்.
-
-nஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஜெனிவாவில் ஆரம்பமானது. தொடக்கநாள் அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை குறித்த எழுத்துமூல அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அவ்வறிக்கை மீதான விவாதம் இடம்பெற்றது.
-
-அதேவேளை பிரிட்டன் தலைமையில் கனடா, மாலாவி, மொன்டெனீக்ரோ மற்றும் வட மெசிடோனியா உள்ளிட்ட இணையனுசரணை நாடுகளால் 'இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்தல்' எனும் தலைப்பில் தயாரிக்கப்பட்டு, வெளியிடப்பட்டுள்ள இலங்கை தொடர்பான புதிய பிரேரணையின் திருத்தங்கள் உள்வாங்கப்படாத 60ஃஎல்.1 எனும் முதல் வரைவு குறித்த கலந்துரையாடல்கள் முன்னெடுக்கப்பட்டுவருகின்றன.
-
-...
-
-[Data](articles/4bab9e2b.json)
-
----
-
-### நீதி, பொறுப்புக்கூறலை உறுதிப்படுத்துவதற்கு சுயாதீன விசாரணையைத் தொடர்ந்து வலியுறுத்தவேண்டும் - அமெரிக்க காங்கிரஸ் உறுப்பினர் சம்மர் லீ
-
-*2025-09-17 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225271) · `ta`
-
-இலங்கையில் இடம்பெற்ற மீறல்கள் தொடர்பில் நீதி மற்றும் பொறுப்புக்கூறலை உறுதிசெய்வதற்கு நாம் சுயாதீன விசாரணையைத் தொடர்ந்து வலியுறுத்திக்கொண்டே இருக்கவேண்டும் என அமெரிக்க காங்கிரஸ் உறுப்பினர் சம்மர் லீ தெரிவித்துள்ளார்.
-
-யாழ். செம்மணி மனிதப்புதைகுழி தொடர்பில் அமெரிக்க காங்கிரஸ் உறுப்பினர்களான ராஜா கிருஷ்ணமூர்த்தி மற்றும் டெபோரா ரோஸ் ஆகியோர் ஏற்கனவே தமது எக்ஸ் தளப்பக்கப் பதிவுகளின் ஊடாக தீவிர கரிசனையை வெளிப்படுத்தியிருந்தனர்.
-
-குறிப்பாக பாதிக்கப்பட்ட தரப்பினரால் நீதி மற்றும் பொறுப்புக்கூறல் என்பன வலியுறுத்தப்படுவதை ஆதரிப்பதாகவும், அவை உறுதிப்படுத்தப்படவேண்டும் எனவும் அவர்கள் வலியுறுத்தியிருந்தனர்.
-
-இவ்வாறானதொரு பின்னணியில் செம்மணி மனிதப்புதைகுழி தொடர்பில் தனது உத்தியோகபூர்வ எக்ஸ் தளப்பக்கத்தில் பதிவொன்றைச் செய்திருக்கும் அமெரிக்க காங்கிரஸ் உறுப்பினர் சம்மர் லீ, அதில் பின்வருமாறு குறிப்பிட்டுள்ளார்.
-
-செம்மணியில் அடையாளங்காணப்பட்ட மனிதப்புதைகுழியில் 140 க்கும் மேற்பட்ட எலும்புக்கூடுகளுடன் குழந்தையின் பால்போத்தல், பாடசாலை புத்தகப்பை, சிறுவர்கள் விளையாடும் பொம்மை என்பன கண்டறியப்பட்டுள்ளன.
-
-...
-
-[Data](articles/baac775c.json)
-
----
-
-### Sri Lanka car registrations fall in Aug, crossovers, trishaws up
-
-*2025-09-17 04:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-registrations-fall-in-aug-crossovers-trishaws-up-240839/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s vehicle registrations grew to 38,240 units in August 2025, from 35,232 units a month earlier, driven by higher volumes of trishaws, motobikes and SUV/crossovers, an analysis of motor vehicle registry data shows.
-
-Three-wheeler registrations rose to 2,497 units in August from 454 in July, while two wheelers rose to 27,585 units from 26,171 units.
-
-“Motor car registrations declined to 2,329 units in August, down from 2,748 units in July,” JB Securities, a Colombo-based brokerage said in analysis of vehicle registry data.
-
-“Pre-owned registrations fell to 1,772 units in August from 2,309 in July.”
-
-In brand new cars, BYDs increased to 354 units up from 244 units the previous month – the main contributor being Dolphin accounting for 307 units.
-
-SUV and crossover registration grew to 3,808 units in August up from 3,299 in July. Brand-new vehicles accounted for 1,866 units, while pre-owned made up 1,940 units.
-
-...
-
-[Data](articles/f5d27ad3.json)
-
-[Extended Data](ext_articles/f5d27ad3.ext.json)
-
----
-
-### இலங்கை மீதான புதிய பிரேரணை: சீனா, பாகிஸ்தானின் கோரிக்கையை பிரிட்டன் நிராகரித்தது
-
-*2025-09-17 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225270) · `ta`
-
-பிரிட்டன் தலைமையிலான தலைமையிலான இணையனுசரணை நாடுகளால் இலங்கை தொடர்பில் சமர்ப்பிக்கப்பட்டுள்ள புதிய பிரேரணை குறித்து நடைபெற்ற உத்தியோகப்பற்றற்ற கலந்துரையாடலின்போது இலங்கையில் இடம்பெற்ற மீறல்கள் தொடர்பான ஆதாரங்களைத் திரட்டும் செயற்திட்டத்தை இரண்டு வருடங்களுக்குப் பிற்போடுமாறு சீனா மற்றும் பாகிஸ்தான் ஆகிய நாடுகள் விடுத்த கோரிக்கையை பிரிட்டன் நிராகரித்துள்ளது.
-
-அதுமாத்திரமன்றி அங்கு கருத்துரைத்த இலங்கை  பிரதிநிதி, நாட்டில் இனப்பிரச்சினை நடைபெறவில்லை எனவும், மாறாக பயங்கரவாத மோதலே நடைபெற்றது எனவும் தெரிவித்துள்ளதுடன் அதனைத் தீர்ப்பதற்கு சிறப்புப் பொறிமுறைகள் எவையும் தேவையில்லை எனக் குறிப்பிட்டுள்ளார்.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஜெனிவாவில் ஆரம்பமானது. தொடக்கநாள் அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை குறித்த எழுத்துமூல அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அவ்வறிக்கை மீதான விவாதம் இடம்பெற்றது.
-
-...
-
-[Data](articles/3db72529.json)
-
----
-
-### நேபாளம், இந்தோனேசியா, பங்களாதேஷ், இலங்கை மக்கள் எழுச்சிகள் எச்சரிக்கைளேயாகும் - மனோகணேசன்
-
-*2025-09-17 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225269) · `ta`
-
-நேபாளம், இந்தோனேசியா, பங்களாதேஷ் மற்றும் இலங்கையில் உருவான மக்கள் எழுச்சிகள் வழக்கத்துக்கு மாறானவை அல்ல. மாறாக அவை சமத்துவமின்மை மேலோங்குகையில் ஏற்படக்கூடிய விளைவினைக் காண்பிக்கும் எச்சரிக்கைகள் ஆகும் என தமிழ் முற்போக்குக் கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான மனோகணேசன் சுட்டிக்காட்டியுள்ளார்.
-
-இலங்கையில் இடம்பெற்ற 'அரகலய' மக்கள் எழுச்சியைத் தொடர்ந்து பின்னர் பங்களாதேஷ் மற்றும் இந்தோனேசியாவிலும், அண்மையில் நேபாளத்திலும் உருவான மக்கள் எழுச்சிப்போராட்டங்கள் தொடர்பில் இந்தியாவுக்கான இலங்கையின் முன்னாள் உயர்ஸ்தானிகர் மிலிந்த மொரகொட இந்திய ஊடகமொன்றுக்கு எழுதியிருக்கும் கட்டுரையை மேற்கோள்காட்டி தனது உத்தியோகபூர்வ எக்ஸ் தளப்பக்கத்தில் செய்திருக்கும் பதிவிலேயே மனோகணேசன் மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
-
-'நேபாளம், இந்தோனேசியா, பங்களாதேஷ் மற்றும் இலங்கையில் உருவான மக்கள் எழுச்சிகள் வழக்கத்துக்கு மாறானவை அல்ல. மாறாக அவை எச்சரிக்கைகளாகும்' என அப்பதிவில் மனோகணேசன் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/88eaa8eb.json)
-
----
-
-### Bangladesh beat Afghanistan by 8 runs
-
-*2025-09-17 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225268) · `ta`
-
-Bangladesh won the Asian Cup match in Abu Dhabi by 8 runs by 8 runs.
-
-Bangladesh scored 154 runs for the loss of 5 wickets in 20 overs.
-
-In response, Afghanistan lost only 146 runs, unable to cope with the Bangladesh team's fast bowlers.
-
-◼️
-
-[Data](articles/88037305.json)
-
-[Extended Data](ext_articles/88037305.ext.json)
-
----
 
 ### Swords at liquor: two injured
 
@@ -2023,5 +1863,189 @@ The accident occurred when a bus carrying employees of a private company collide
 [Data](articles/534173e0.json)
 
 [Extended Data](ext_articles/534173e0.ext.json)
+
+---
+
+### 4 invasion fish species banned
+
+*2025-09-16 13:11:59* · [`adalk`](https://www.ada.lk/breaking_news/ආක්‍රමණ-මත්ස්‍ය-විශේෂ-4ක්-තහනම්-කරයි/11-418526) · `si`
+
+Fisheries, Aquaculture Resources, Minister of Fisheries, Aquatic and Ocean Resources at a special press conference held at a special media briefing held and selling an aggressive foreign fish species to the local aquatic ecosystem and native fish resources.
+
+Secretary to the Ministry Dr. B also. K. The Director General of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chairman of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chief Attorney Susantha Fire Firellemi Wickramaratne.
+
+...
+
+[Data](articles/170b6b3e.json)
+
+[Extended Data](ext_articles/170b6b3e.ext.json)
+
+---
+
+### UN has made a genocide in Gaza
+
+*2025-09-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214633) · `si`
+
+The United Nations Investigation Commission (UN) the Investigation Commission (UN)
+
+A new record contains justice that there is a four-dimensional acts in 2023 with Hamas with Hamas in 2023 with Hamas with Hamas in 2023 with Hamas.
+
+The assassination of members of a group, deliberately cause serious physical and mental harm to them, and prevented child births and preventing their plans.
+
+It is quoted as evidence of the manifesto of Israeli leaders and the behavior of the Israeli Army.
+
+The Israeli Foreign Ministry said that the report condemns the report as "mutable and false".
+
+◼️
+
+[Data](articles/29e50780.json)
+
+[Extended Data](ext_articles/29e50780.ext.json)
+
+---
+
+### Indian High Commissioner Santosh Ja met Namal
+
+*2025-09-16 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225220) · `ta`
+
+The National Organizer of the Indian High Commissioner Santosh Ja has also met MP Namal Rajapaksa.
+
+Bilateral diplomatic relations between India and Sri Lanka have been discussed.
+
+Namal Rajapaksa posted on his X site about meeting the Indian High Commissioner.
+
+Indian High Commissioner Santosh Ja was happy to meet in Colombo yesterday. The PA respectively respects our long -term friendship with India and strong bilateral relations. We are eagerly anticipating this partnership. ”
+
+◼️
+
+[Data](articles/f855ab52.json)
+
+[Extended Data](ext_articles/f855ab52.ext.json)
+
+---
+
+### Israel has committed genocide in Gaza, UN commission of inquiry says
+
+*2025-09-16 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112566/israel-has-committed-genocide-in-gaza-un-commission-of-inquiry-says) · `en`
+
+A United Nations commission of inquiry says Israel has committed genocide against Palestinians in Gaza.
+
+A new report says there are reasonable grounds to conclude that four of the five genocidal acts defined under international law have been carried out since the start of the war with Hamas in 2023: killing members of a group, causing them serious bodily and mental harm, deliberately inflicting conditions calculated to destroy the group, and preventing births.
+
+It cites statements by Israeli leaders, and the pattern of conduct by Israeli forces, as evidence of genocidal intent.
+
+Israel’s foreign ministry said it categorically rejected the report, denouncing it as “distorted and false”.
+
+A spokesperson accused the three experts on the commission of serving as “Hamas proxies” and relying “entirely on Hamas falsehoods, laundered and repeated by others” that had “already been thoroughly debunked”.
+
+...
+
+[Data](articles/111cf338.json)
+
+[Extended Data](ext_articles/111cf338.ext.json)
+
+---
+
+### Tamanna dressed in g-shring underwear
+
+*2025-09-16 12:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஜி-ஸ்ட்ரிங்-உள்ளாடை-அணிந்து-ஆடிய-தமன்னா/54-364692) · `ta`
+
+Aryan Khan's highly anticipated director's debut, The BA*DS of Bollywood series has begun.
+
+The cheering is at its peak as the series is primarily released in Netflix on September 18.
+
+To further excitement, the film crew has released the revolutionary new song, Ghafoor Promo.
+
+Tamanna Patia's shimmering appearance along with the elder villains Shakti Kapoor, Gulshan Grover and Ranjith.
+
+For the first time, Tamanna has been wearing underwear known as G-string.
+
+◼️
+
+[Data](articles/aabfbf30.json)
+
+[Extended Data](ext_articles/aabfbf30.ext.json)
+
+---
+
+### 15 injured in Epitawala accident involving bus and lorry
+
+*2025-09-16 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112565/15-injured-in-epitawala-accident-involving-bus-and-lorry) · `en`
+
+A total of 15 individuals have sustained injuries in an accident involving a private bus and a lorry in Epitawala, along the Horana–Ratnapura main road this morning (16), police stated.
+
+It has been revealed that the bus was transporting employees of a private company.
+
+The injured have been admitted to Idangoda and Ratnapura hospitals.
+
+◼️
+
+[Data](articles/127d729a.json)
+
+[Extended Data](ext_articles/127d729a.ext.json)
+
+---
+
+### Chinese Ambassador to Maithri
+
+*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214631) · `si`
+
+The Chinese Ambassador of Sri Lanka met with former President Maithripala Sirisena.
+
+The meeting was held at the official residence of former President Maithripala Sirisena at Hector Kobbekaduwa Mawatha.
+
+It is reported that the present political situation and the future has held discussions.
+
+The Chinese Ambassador Mahinda Rajapaksa, the former presidents and Ranil Wickremesinghe has also been found before the Chinese Ambassador to the former President Maithripala Sirisena.
+
+According to the provisions of the President's provisions of the President of the Presidents' Arrangements have to be handed over to the government to restore the official quarters given to former presidents.
+
+Accordingly, former President Maithripala Sirisena, the official residence will be handed over after the relevant documents.
+
+◼️
+
+[Data](articles/1cb67be7.json)
+
+[Extended Data](ext_articles/1cb67be7.ext.json)
+
+---
+
+### Bus and lorry collide
+
+*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214632) · `si`
+
+A private bus and a lorry collided in the Epitawela area on the Horana - Ratnapura main road and 15 others suffered injuries.
+
+The bus was revealed as a bus to transport employees of a private institution.
+
+The injured have been admitted to Atalangoda and Ratnapura hospital while Kiriella police are conducting further investigations.
+
+◼️
+
+[Data](articles/df4e2fa5.json)
+
+[Extended Data](ext_articles/df4e2fa5.ext.json)
+
+---
+
+### The Southern Province has become the province of all public services in Sri Lanka
+
+*2025-09-16 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225221) · `ta`
+
+All District and Divisional Secretariats of the Southern Province have no longer started offering services through the Govpay Digital payment platform. With this, the Southern Province has made history as the first province of Sri Lanka to join Govpay.
+
+At a function held at the Matara District Secretariat yesterday (15), 3 District Secretariats and 53 Divisional Secretariats were incorporated into the Govpay site at a function chaired by Digital Economic Minister Eranga Weeratne.
+
+This will enable public banks' Internet Bank/Mobile Bank portals or Fintech applications connected to Govpay safely anywhere.
+
+Members of Parliament including Akram Iliyas, Lal Premadilaka, Harsha Prasinghe and Lanka CEO Sanna de Silva were present at the event.
+
+“As a province, the Southern Province joined Govpay is the main improvement for the public service that has completely digitized the country. This will increase the confidence of the public. ”
+
+...
+
+[Data](articles/a1180974.json)
+
+[Extended Data](ext_articles/a1180974.ext.json)
 
 ---

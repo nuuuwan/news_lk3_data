@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 20:20:59**
+As of **2025-09-16 19:56:11**
 
 ## Newspaper Stats
 
-*Scraped **76,364** Articles*
+*Scraped **76,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,105 +16,21 @@ economynextcom | 4,627
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,417
-adaderanalk | 9,846
+adalk | 7,416
+adaderanalk | 9,845
 tamilmirrorlk | 11,433
-virakesarilk | 12,440
-adaderanasinhalalk | 13,323
+virakesarilk | 12,436
+adaderanasinhalalk | 13,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,367 (96.1%) of 76,364 articles have been extended.
+73,360 (96.1%) of 76,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### තෙල් ගබඩා ධාරිතාව වැඩි කරන්න සංස්ථාවෙන් සැලසුම්
-
-*2025-09-16 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214649) · `si`
-
-රට තුළ තෙල් සංචිත ධාරිතාව ඉහළ දැමීම සඳහා තවත් තෙල් ටැංකි 6ක් ස්ථාපිත කිරීමට අවශ්‍ය කටයුතු ආරම්භ කරන බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.
-
-එහි සභාපති ඩී.ජේ රාජකරුණා මහතා සඳහන් කළේ පසුගිය කාලය තුළ ඉදිකිරීම් අතරමග නවතා දමා තිබු තෙල් ටැංකි ඉදිකිරීම් මෙලෙස ආරම්භ කිරීමට කටයුතු කරන බවය.
-
-අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ඩී.ජේ රාජකරුණා මහතා මෙම අදහස් පළ කළේය.
-
-මේ අතර වරායේ සිට කොළොන්නාව තෙල් ගබඩා පර්යන්තය දක්වා නව නළ මාර්ග දෙකක් ඉදිකිරීම සම්බන්ධයෙන් ද ඩී.ජේ රාජකරුණා මහතා එහිදී අදහස් පළකළේය.
-
-◼️
-
-[Data](articles/74d133a6.json)
-
----
-
-### கடல்சார் பொருட்கள் போக்குவரத்து  விநியோகத் துறை குறித்த பூர்வாங்க வரவு செலவுத்திட்டக் கலந்துரையாடல்
-
-*2025-09-16 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225262) · `ta`
-
-கடல்சார் பொருட்கள் போக்குவரத்து  விநியோகம் தொடர்பான வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடல் செவ்வாய்க்கிழமை (16) ஜனாதிபதி அலுவலகத்தில் தொழில் அமைச்சரும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான கலாநிதி அனில் ஜயந்த பெர்னாண்டோ தலைமையில் நடைபெற்றது.
-
-கடல்சார்  பொருட்கள் போக்குவரத்து விநியோகத் துறையில் ஈடுபட்டுள்ள தரப்பினர்கள் தாம் சார்ந்த துறைகள் தொடர்பான வரவு செலவுத்திட்ட பரிந்துரைகளை  முன்வைத்து, நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப ஜனாதிபதி தலைமையிலான அரசாங்கம் ஆரம்பித்துள்ள திட்டத்திற்கு தங்கள் முழு ஆதரவையும் தெரிவித்தனர்.
-
-மேலும், சுற்றுலாத் துறையை மேம்படுத்துவதில் கடல்சார் கைத்தொழில் துறையின் பங்களிப்பு குறித்து விரிவாக ஆராயப்பட்டது.
-
-இறக்குமதி மற்றும் ஏற்றுமதியை அதிகரிப்பதில் கடல்சார் பொருட்கள் போக்குவரத்து விநியோகத் துறையின் பங்களிப்பு குறித்தும் இதன் போது ஆராயப்பட்டது.  தற்போது செயலிழந்துள்ள துறைமுகங்களை அபிவிருத்தி செய்து வருவாயை ஈட்டுவதற்கும் கவனம் செலுத்தப்பட்டது.
-
-...
-
-[Data](articles/df8a5b7f.json)
-
----
-
-### பிரபல நடிகர் ரொபர்ட் ரெட்ஃபோர்ட் காலமானார்
-
-*2025-09-16 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225261) · `ta`
-
-அமெரிக்க நடிகரும் இயக்குநருமான ரொபர்ட் ரெட்ஃபோர்ட் (89) செவ்வாய்க்கிழமை (16) யூட்டா மாநிலத்தில் உள்ள இல்லத்தில் காலமானார்.
-
-Ordinary People படத்திற்காக ஆஸ்கர் வென்ற அவர், Sundance திரைப்பட விழாவை நிறுவியதாலும் பரவலாக அறியப்பட்டார்.
-
-◼️
-
-[Data](articles/da6afbf6.json)
-
----
-
-### இலங்கை கடற்றொழில் கூட்டுத்தாபனத்தை மூடுவது தொடர்பான செய்தியில் எவ்வித உண்மையும் இல்லை - அமைச்சர் ராமலிங்கம் சந்திரசேகர்
-
-*2025-09-16 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225260) · `ta`
-
-புதிய சாத்தியக்கூற்று ஆய்வு மேற்கொள்ளப்பட்ட பின்னரே ஒலுவில் துறைமுகம் தொடர்பான எதிர்காலத் தீர்மானம் எடுக்கப்படும் என கடற்றொழில், நீரியல் வளங்கள் மற்றும் கடல் வளங்கள் அமைச்சர் ராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
-
-கடற்றொழில், நீரியல் வளங்கள் மற்றும் கடல் வளங்கள் அலுவல்கள் அமைச்சுசார் ஆலோசனைக் குழுக் கூட்டம் அண்மையில் அமைச்சர் ராமலிங்கம் சந்திரசேகர் தலைமையில் பாராளுமன்றத்தில் நடைபெற்றது. இதில் கடற்றொழில், நீரியல் வளங்கள் மற்றும் கடல் வளங்கள்  பிரதியமைச்சர் ரத்ன கமகேவும் கலந்துகொண்டார்.
-
-இதன்போது ஒலுவில் மீன்பிடித் துறைமுகத்தை இயங்கு நிலைக்குக் கொண்டுவருவது குறித்து இங்கு விரிவாகக் கலந்துரையாடப்பட்டது. உரிய ஆய்வுகள் மேற்கொள்ளப்படாமல் ஒலுவில் துறைமுகம் அமைக்கப்பட்டதால் ஏற்பட்டுள்ள பாதிப்புக்களைச் சரிசெய்வதாயின் புதிய சாத்தியக்கூற்று ஆய்வுகள் மேற்கொள்ளப்பட்டு அதன் அடிப்படையிலேயே எதிர்காலத் திட்டமிடல்கள் மேற்கொள்ளப்படும் என அமைச்சர் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/91a0c99f.json)
-
----
-
-### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
-
-*2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
-
-Sri Lanka expects Chinese state energy giant Sinopec to start work on a $3.7 billion refinery this year and is considering the company’s long-standing demand to sell more fuel locally, the energy minister said on Tuesday.
-
-The Sinopec refinery, approved in 2023, will have capacity to process 200,000 barrels of crude oil per day and will be located near the Chinese-built and operated Hambantota port in southern Sri Lanka, Energy Minister Kumara Jayakody said in an interview at his office.
-
-“The land we already have allocated for them, and they have done the other facilities too,” he said. “The government ... we all have the same idea and the same expectation on this project (that it will start this year).”
-
-Sri Lanka’s deputy economic development minister, Anil Jayantha Fernando, separately told Reuters that Sinopec could take about three years to complete the project.
-
-...
-
-[Data](articles/89630496.json)
-
----
 
 ### Approval of 40,000 Metricton
 
@@ -133,22 +49,6 @@ The Minister made this statement in response to a question raised by the journal
 [Data](articles/ba01e7d7.json)
 
 [Extended Data](ext_articles/ba01e7d7.ext.json)
-
----
-
-### யாழ் பல்கலைக்கு 2,234 மில்லியன் செலவில் புதிய கட்டிடம் : துணை சுகாதார விஞ்ஞான பீடத்திற்கு நவீன வசதிகள் - அரசாங்கம்
-
-*2025-09-16 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225259) · `ta`
-
-யாழ்ப்பாணப் பல்கலைக்கழகத்தின் துணை சுகாதார விஞ்ஞான பீடத்திற்கு விரிவுரை மண்டபங்கள், ஆய்வகங்கள் மற்றும் கேட்போர் கூடம் உள்ளிட்ட நவீன வசதிகளுடன் கூடிய புதிய ஐந்து மாடிக் கட்டிடத்தை நிர்மாணிக்க அமைச்சரவை அனுமதி வழங்கியுள்ளது. இதற்காக மதிப்பிடப்பட்ட செலவு 2,234 மில்லியன் ரூபா ஆகும் என அமைச்சரவை பேச்சாளர் தெரிவித்தார்.
-
-கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சர் சமர்ப்பித்த இந்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் அளித்துள்ளது. 2006ஆம் ஆண்டு அரச பல்கலைக்கழகங்களில் துணை சுகாதார விஞ்ஞானம் தொடர்பான பட்டப்படிப்புகள் அறிமுகப்படுத்தப்பட்டன.
-
-அதன்படி, யாழ்ப்பாணப் பல்கலைக்கழகத்தில் மருத்துவ ஆய்வுகூட விஞ்ஞானம், மருந்து வேதியியல் மற்றும் தாதியியல் துறைகளில் மூன்று பட்டப்படிப்புகள் ஆரம்பிக்கப்பட்டன. தற்போது, இங்கு மருத்துவ ஆய்வுகூட விஞ்ஞானம், மருந்து வேதியியல், தாதியியல் மற்றும் உடற்கல்வி ஆகிய நான்கு பாடத்துறைகளில் அனைத்து இனங்களையும் சேர்ந்த 952 மாணவர்கள் கல்வி கற்று வருவதாக அமைச்சரவை பேச்சாளர் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/84ea7292.json)
 
 ---
 
@@ -469,22 +369,6 @@ President Anura Dissanayake will sign the relevant exchange sheets and other doc
 [Data](articles/a0962ef1.json)
 
 [Extended Data](ext_articles/a0962ef1.ext.json)
-
----
-
-### තම දියණිය අපයෝජනය කළ පියා රිමාන්ඩ්
-
-*2025-09-16 16:21:10* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-අපයෝජනය-කළ-පියා-රිමාන්ඩ්/11-418536) · `si`
-
-වයස අවුරුදු 13 මාස 8ක දැරියක් අපයෝජනය කළැයි කියන දැරියගේ පියා මේ මස 22 දක්වා රිමාන්ඞ් බාරයට පත්කරන්නැයි කුලියාපිටිය මහේස්ත‍්‍රාත් මිහිල් චිරන්තන සතුරුසිංහ මහතා ඊයේ (15දා) නියම කළේය.
-
-එලෙසින් රක්‍ෂිත බන්ධනාගාර ගතවූයේ කුලියාපිටිය බෝගොඩ සංස්කෘතික මධ්‍යස්ථානය අසල පදිංචිකරුවෙකු වූ අධිකාරි මුදියන්සේලාගේ හසිත නුවන් අධිකාරි නැමැත්තෙකි.
-
-මව විදෙස්ගතව ඇති වින්ධිත දැරියගේ වැඩිමහල් සහෝදරිය රැකියාවකට යාම හේතුවෙන් මාරවිල ප‍්‍රදේශයේ කන්‍යාරාමයක නවතා ගොස් සිටියදී එම පාලිකාවක් විසින් ලබාදුන් දුරඇමතුමක් අනුව විමර්ශනය කිරීමෙන් අනතුරුව ස්ථාන කිහිපයකදී සිවු දෙනෙකු විසින් වින්ධිත දැරිය අපයෝජනයට  ලක්කර ඇතැයි අනාවරණයවූ කරුණු අනුව අදාළ සැකකාර පියා අත්අඩංගුවට ගෙන තිබූ බව පොලිසිය අධිකරණයට කරුණු දැක්වීය.
-
-...
-
-[Data](articles/439b5da7.json)
 
 ---
 
@@ -2037,5 +1921,173 @@ Citing an instance, papaverine. 300 is available, but in fact, it is a fake prod
 [Data](articles/5742872f.json)
 
 [Extended Data](ext_articles/5742872f.ext.json)
+
+---
+
+### Rescue of bullets from the hotel toilet
+
+*2025-09-16 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-கழிப்பறையில்-இருந்து-தோட்டாக்கள்-மீட்பு/175-364680) · `ta`
+
+Pirikkottai police said that 17 bullets were found from a garbage bin in a hotel toilet in Pettah, Colombo, Colombo.
+
+Employees who saw the bullets in the garbage bin when they went to the toilet have informed the police about this.
+
+According to the police, the police have seized the bullets and found that 9mm of bullets were found.. Police suspect that someone may have entered the toilet and poured bullets in the trash bin.
+
+◼️
+
+[Data](articles/026a4c9b.json)
+
+[Extended Data](ext_articles/026a4c9b.ext.json)
+
+---
+
+### Sri Lanka manufacturing expands at slower rate in August 2025: PMI
+
+*2025-09-16 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-expands-at-slower-rate-in-august-2025-pmi-240710/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing sector expanded at a slower rate to 55.2 in August, compared to 62.2 in July, according to a Purchasing Managers Index compiled by the central bank.
+
+All sub-indices registered lower rates of expansion compared to the previous month.
+
+The growth in the New Orders and Production sub-indices were supported by strong performances in the food and beverages manufacturing sector, CBSL said.
+
+The Employment sub-index remained in the positive territory during August, indicating favourable Employment conditions.
+
+However, Suppliers’ Delivery Time continued to lengthen during the month; “with some respondents reported delays in international shipping”.
+
+“Manufacturing activities over the next three months remain positive, largely underpinned by the anticipated seasonal demand towards the year end.” (Colombo/Sep16/2025)
+
+◼️
+
+[Data](articles/ffb21b45.json)
+
+[Extended Data](ext_articles/ffb21b45.ext.json)
+
+---
+
+### சிறைச்சாலை பஸ் மீது ‘கிளேமோர்‘ தாக்குதல் நடத்த திட்டம்
+
+*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/150-364679) · `ta`
+
+Information on the Clemore bombing targeting the prison bus has been exposed.
+
+Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+
+The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+
+This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+
+During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+
+However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
+
+If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+
+...
+
+[Data](articles/0c770556.json)
+
+[Extended Data](ext_articles/0c770556.ext.json)
+
+---
+
+### Clemore's attack on prison bus
+
+*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/175-364679) · `ta`
+
+Information on the Clemore bombing targeting the prison bus has been exposed.
+
+Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+
+The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+
+This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+
+During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+
+However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
+
+If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+
+...
+
+[Data](articles/3694b4a0.json)
+
+[Extended Data](ext_articles/3694b4a0.ext.json)
+
+---
+
+### Profession of the Electrical Engineering Association escalates
+
+*2025-09-16 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214626) · `si`
+
+The Ceylon Electricity Board (CEB) Executive Committee Member Dhanushka Parakrakarakka Parakasusinghe said that the Ceylon Electricity Board (CEB)
+
+He said that the first course of action taken to work so far was over yesterday and that his union has decided to take up its second step since today.
+
+However, he said that the public measures would not be expected to embarrass the people due to the professional measures.
+
+Accordingly, the involvement of tender committees is informed of other committees, in addition to the work in the future.
+
+He also decided to report sick leave for tomorrow (17) and two teams on the day and tomorrow.
+
+However, he said that the professional measures would not be interrupted by any other activities or any other activities.
+
+◼️
+
+[Data](articles/f96269e5.json)
+
+[Extended Data](ext_articles/f96269e5.ext.json)
+
+---
+
+### Deputy Minister reveals the advancement planning of the government
+
+*2025-09-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214625) · `si`
+
+Deputy Minister of Economic Development Anil Jayantha Fernando said Sri Lanka has targeted its economic growth to 6%.
+
+The Deputy Minister said that it could partially contribute partly through record capital expenditure, but delaying the approval of the budget could hinder its performance this year.
+
+Deputy Minister Anil Jayantha stated that Sri Lankans and investors must be hopeful since the economic crisis of the year 2022.
+
+Sri Lanka recorded 5% economic growth in 2024. Anil Jayantha said that this year was slowingly to slow down 4% to 4.5% due to the delay in the passage of the budget.
+
+In 2026, the government is planning to increase its capital expenditure from 8% to Rs 1.4 trillion.
+
+The International Monetary Fund for Sri Lanka in March 2023 is foretold this year's GDP growth.
+
+The economy pointed out that the economy grew 4.9% from the year 2025, said the official data on Monday.
+
+◼️
+
+[Data](articles/00f17265.json)
+
+[Extended Data](ext_articles/00f17265.ext.json)
+
+---
+
+### Sri Lanka’s PMI for August expands
+
+*2025-09-16 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112558/sri-lankas-pmi-for-august-expands) · `en`
+
+The Central Bank of Sri Lanka’s (CBSL) Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 55.2 in August 2025.
+
+The CBSL said that most of the sub-indices expanded on a month-on-month basis which contributed to the expansion of the PMI.
+
+The report indicated that the increase in new orders and production was mainly attributable to the manufacture of food and beverage sectors.
+
+Meanwhile, the employment sub-index remained positive in August 2025, indicating favourable employment conditions, as per the CBSL report.
+
+The services Purchasing Manager’s Index (PMI) indicated a further expansion in service activities in August 2025 as reflected by the Business Activity Index, which recorded an index value of 68.9.
+
+Furthermore, new businesses increased in August 2025 primarily due to the expansions observed in wholesale and retail trade, and financial services related activities.
+
+...
+
+[Data](articles/00a50fad.json)
+
+[Extended Data](ext_articles/00a50fad.ext.json)
 
 ---

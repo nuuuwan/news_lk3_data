@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 13:40:11**
+As of **2025-09-16 12:55:47**
 
 ## Newspaper Stats
 
-*Scraped **76,281** Articles*
+*Scraped **76,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,137 +16,21 @@ economynextcom | 4,618
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,404
+adalk | 7,402
 adaderanalk | 9,825
-tamilmirrorlk | 11,422
+tamilmirrorlk | 11,419
 virakesarilk | 12,426
-adaderanasinhalalk | 13,309
+adaderanasinhalalk | 13,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,037 (95.7%) of 76,281 articles have been extended.
+72,984 (95.7%) of 76,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### உலகிற்கு எடுத்துச் செல்ல தலையிடுங்கள்:  ஜனாதிபதி
-
-*2025-09-16 13:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகிற்கு-எடுத்துச்-செல்ல-தலையிடுங்கள்-ஜனாதிபதி/175-364694) · `ta`
-
-ஊழலற்ற இலங்கையின் தற்போதைய திட்டமங்கள் குறித்து சர்வதேச சமூகத்தை தெளிவுபடுத்த நடவடிக்கை எடுக்குமாறும் அதன் ஊடாக இலங்கைக்கு  புதிய முதலீடுகளை ஈர்ப்பதற்கான வாய்ப்பு கிடைக்கும் எனவும் ஜனாதிபதி அநுர குமார திசாநாயக்க உலக வங்கி பிரதிநிதிகளிடம் தெரிவித்தார்.
-
-இலங்கைக்கு வருகை தந்துள்ள  உலக வங்கி குழுமத்தின் தெற்காசிய  வலய உப தலைவர் ஜொஹன்னஸ் சட் (Johannes Zutt) உள்ளிட்ட உலக வங்கி பிரதிநிதிகள் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுர குமார திசாநாயக்கவை திங்கட்கிழமை (15) பிற்பகல் சந்தித்தபோது இது தொடர்பில் தெரிவிக்கப்பட்டது.
-
-இலங்கையின் எதிர்கால வளர்ச்சி இலக்குகளை அடைவதில் உலக வங்கி குழுமம் எவ்வாறு ஆதரவை வழங்க முடியும் என்பது குறித்து விரிவான கலந்துரையாடல்கள் நடத்தப்பட்டன.
-
-...
-
-[Data](articles/db9281d2.json)
-
----
-
-### மற்றுமொரு பேருந்து விபத்து : 15 பேர் படுகாயம்
-
-*2025-09-16 13:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-பேருந்து-விபத்து-15-பேர்-படுகாயம்/175-364693) · `ta`
-
-ஹொரனை - இரத்தினபுரி வீதியில் எப்பிட்டவல பகுதியில் இன்று முற்பகல் இடம்பெற்ற பேருந்து விபத்தில் 15 பேர் காயமடைந்துள்ளனர்.
-
-தனியார் நிறுவனம் ஒன்றின் ஊழியர்களை ஏற்றிச் சென்ற பேருந்து ஒன்று, லொறி ஒன்றுடன் மோதியதில் இந்த விபத்து நேர்ந்துள்ளது.
-
-◼️
-
-[Data](articles/534173e0.json)
-
----
-
-### UN has made a genocide in Gaza
-
-*2025-09-16 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214633) · `si`
-
-The United Nations Investigation Commission (UN) the Investigation Commission (UN)
-
-A new record contains justice that there is a four-dimensional acts in 2023 with Hamas with Hamas in 2023 with Hamas with Hamas in 2023 with Hamas.
-
-The assassination of members of a group, deliberately cause serious physical and mental harm to them, and prevented child births and preventing their plans.
-
-It is quoted as evidence of the manifesto of Israeli leaders and the behavior of the Israeli Army.
-
-The Israeli Foreign Ministry said that the report condemns the report as "mutable and false".
-
-◼️
-
-[Data](articles/29e50780.json)
-
-[Extended Data](ext_articles/29e50780.ext.json)
-
----
-
-### Tamanna dressed in g-shring underwear
-
-*2025-09-16 12:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஜி-ஸ்ட்ரிங்-உள்ளாடை-அணிந்து-ஆடிய-தமன்னா/54-364692) · `ta`
-
-Aryan Khan's highly anticipated director's debut, The BA*DS of Bollywood series has begun.
-
-The cheering is at its peak as the series is primarily released in Netflix on September 18.
-
-To further excitement, the film crew has released the revolutionary new song, Ghafoor Promo.
-
-Tamanna Patia's shimmering appearance along with the elder villains Shakti Kapoor, Gulshan Grover and Ranjith.
-
-For the first time, Tamanna has been wearing underwear known as G-string.
-
-◼️
-
-[Data](articles/aabfbf30.json)
-
-[Extended Data](ext_articles/aabfbf30.ext.json)
-
----
-
-### Chinese Ambassador to Maithri
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214631) · `si`
-
-The Chinese Ambassador of Sri Lanka met with former President Maithripala Sirisena.
-
-The meeting was held at the official residence of former President Maithripala Sirisena at Hector Kobbekaduwa Mawatha.
-
-It is reported that the present political situation and the future has held discussions.
-
-The Chinese Ambassador Mahinda Rajapaksa, the former presidents and Ranil Wickremesinghe has also been found before the Chinese Ambassador to the former President Maithripala Sirisena.
-
-According to the provisions of the President's provisions of the President of the Presidents' Arrangements have to be handed over to the government to restore the official quarters given to former presidents.
-
-Accordingly, former President Maithripala Sirisena, the official residence will be handed over after the relevant documents.
-
-◼️
-
-[Data](articles/1cb67be7.json)
-
-[Extended Data](ext_articles/1cb67be7.ext.json)
-
----
-
-### Bus and lorry collide
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214632) · `si`
-
-A private bus and a lorry collided in the Epitawela area on the Horana - Ratnapura main road and 15 others suffered injuries.
-
-The bus was revealed as a bus to transport employees of a private institution.
-
-The injured have been admitted to Atalangoda and Ratnapura hospital while Kiriella police are conducting further investigations.
-
-◼️
-
-[Data](articles/df4e2fa5.json)
-
-[Extended Data](ext_articles/df4e2fa5.ext.json)
-
----
 
 ### Digital signature for state officials
 
@@ -167,22 +51,6 @@ The implementation, which was carried out under the Electronic Transactions Act 
 [Data](articles/91ed8580.json)
 
 [Extended Data](ext_articles/91ed8580.ext.json)
-
----
-
-### Sri Lanka Customs Sitigate
-
-*2025-09-16 12:10:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-රේගුව-සරුවෙයි/11-418524) · `si`
-
-The following is the following 825, the Sri Lanka Customs revenue Rs. 1,471 billion in 8 months.
-
-200 billion of Rs. 231 billion in June this year and Rs. 244 billion in August Rs. 244 billion. They say this is a rapid rate of last year. (I J)
-
-◼️
-
-[Data](articles/c05a12e8.json)
-
-[Extended Data](ext_articles/c05a12e8.ext.json)
 
 ---
 
@@ -438,25 +306,21 @@ However, Suppliers’ Delivery Time continued to lengthen during the month; “w
 
 *2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/150-364679) · `ta`
 
-Information on the Clemore bombing targeting the prison bus has been exposed.
+சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்த திட்டமிட்டிருந்தமை தொடர்பிலான தகவல் அம்பலமாகியுள்ளது.
 
-Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+பாதாள உலகத் தலைவர் ஹரக் கட்டாவை நீதிமன்றத்திற்கு அழைத்து வரும்போது சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்தி கொல்லத் திட்டமிட்டிருந்ததாக  அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+கெஹல்பத்தர பத்மே கமாண்டோ சாலிந்தா உள்ளிட்ட பாதாள உலகக் கும்பலே இந்த திட்டத்தை தீட்டியிருந்துள்ளது.
 
-This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+பாதாள உலக கும்பலுக்கு மிகவும் சக்திவாய்ந்த ஆயுதங்களை விற்பனை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட  இராணுவ லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது இது தெரியவந்தது.
 
-During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+சந்தேகத்திற்குரிய லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது, ​​ பல சந்தர்ப்பங்களில் தன்னை தொலைபேசியில் அழைத்த கமாண்டோ சாலிந்தா, இரண்டு கிளேமோர் குண்டுகளைக் கேட்டு வற்புறுத்தியதாகக் கூறியுள்ளார்.
 
-However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
-
-If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+இருப்பினும், சந்தேகத்திற்குரிய லெப்டினன்ட் கேணல்,  இரண்டு கிளேமோர் குண்டுகளை கமாண்டோ சாலிந்தாவிடம் கொடுத்திருக்கலாம் என்று விசாரணை அதிகாரிகள் சந்தேகிக்கின்றனர்.
 
 ...
 
 [Data](articles/0c770556.json)
-
-[Extended Data](ext_articles/0c770556.ext.json)
 
 ---
 
@@ -550,21 +414,19 @@ The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for Augus
 
 ---
 
-### Shop owner (video connection)
+### நாய் மீது வெந்நீர் ஊற்றிய கடை உரிமையாளர் (வீடியோ இணைப்பு)
 
 *2025-09-16 10:34:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்-மீது-வெந்நீர்-ஊற்றிய-கடை-உரிமையாளர்-வீடியோ-இணைப்பு/76-364677) · `ta`
 
-A security camera in Bogawantalawa was reported on Monday (15).
+ஒரு கடையின் முன் தூங்கிக் கொண்டிருந்த நாய் மீது வெந்நீர் ஊற்றி விரட்டும் சம்பவம், பொகவந்தலாவை நகரில் உள்ள ஒரு பாதுகாப்பு கேமராவில் திங்கட்கிழமை (15) பதிவாகியுள்ளது.
 
-The dog was quietly sleeping in Bogawantalawa, and the owner of the shop gathering old iron items near the shop poured water on the dog.
+பொகவந்தலாவை  நகரில் சுற்றித் திரிந்த அந்த நாய் அமைதியாகத் தூங்கிக் கொண்டிருந்தது, கடைக்கு அருகில் பழைய இரும்புப் பொருட்களை சேகரிக்கும் கடையின் உரிமையாளர் அந்த நாய் மீது வெந்நீர் ஊற்றியுள்ளார்.
 
-A group of people nearby said that the dog, drenched in hot water, ran away from the place where he was screaming in pain.
+சூடான நீரில் நனைந்த நாய், வலியால் அலறிக் கொண்டு தூங்கிக் கொண்டிருந்த இடத்திலிருந்து ஓடிவிட்டதாக அருகிலுள்ள மக்கள் குழு தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/34a59504.json)
-
-[Extended Data](ext_articles/34a59504.ext.json)
 
 ---
 
@@ -783,20 +645,6 @@ The Colombo Stocks Exchange was trading in red; The ASPI was down 0.39 percent, 
 [Data](articles/3c907988.json)
 
 [Extended Data](ext_articles/3c907988.ext.json)
-
----
-
-### මගී ජීවිත තඹයකට මායිම් නොකරමින් ලංගම හා පෞද්ගලික බස් රේස් යයි
-
-*2025-09-16 09:42:25* · [`adalk`](https://www.ada.lk/picture_story/මගී-ජීවිත-තඹයකට-මායිම්-නොකරමින්-ලංගම-හා-පෞද්ගලික-බස්-රේස්-යයි/10-418523) · `si`
-
-මධ්‍යම කදුකරයේ බටහිර බෑවුම් ප්‍රදේශවල (15) දින රාත්‍රියේ සිට ඇදහැලෙන අධික වර්ෂාවද නොතකා හැටන් තලවකැලේ මාර්ගයේ උදෑසන ධාවනය වන මගී ප්‍රවාහන ලංගම සහ පෞද්ගලික බස් රථ තරගෙට ධාවනය කරන අයුරු එම බස් රථ පිටුපසින් ගමන් ගත් වාහනයක සවි කර තිබූ කැමරාවක සටහන් වී තිබුණි.
-
-තලවකැලේ සිට හැටන් දක්වා උදෑසන ධාවනය වන ලංගම සහ පෞද්ගලික බස් රථ වල පාසල් ළමුන්, රාජ්‍ය සේවකයින් ඇතුලු මගීන් විශාල පිරිසක් ගමන් ගන්නා අතර, එම මාර්ගයේ බස් රථයට ගොඩවීමට අපේක්ෂාවෙන් සිටින මගීන් බස් රථවලට නංවා ගැනීම සදහා මගීන්ගේ ජීවිත අවධාවනම පිලිබදවද නොතකා එම බස් රථවල රියදුරන් අධික වේගයෙන් බස් රථ ධාවනය කරවන බවයි එම බස් රථවල ගමන් ගන්නා මගී ජනතාව කියා සිටින්නේ.
-
-◼️
-
-[Data](articles/2749c3b8.json)
 
 ---
 
@@ -2015,5 +1863,161 @@ Signals of a profound reordering of the international system have been apparent 
 [Data](articles/3a921f86.json)
 
 [Extended Data](ext_articles/3a921f86.ext.json)
+
+---
+
+### Budget 2026 imperative: Making housing affordable through tax reform
+
+*2025-09-16 02:36:58* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-imperative-Making-housing-affordable-through-tax-reform/4-781705) · `en`
+
+By incentivising private homeownership through tax relief, the burden shifts from public provision to empowered individual ownership
+
+Housing is a fundamental human need. Yet, for many Sri Lankans, the dream of owning a home remains elusive due to rising property prices, volatility of interest rates, and limited access to affordable financing. In this context, it is both timely and necessary for the Government of Sri Lanka to reintroduce housing loan interest as a qualifying payment relief under personal income tax—reviving a policy that once existed in the Sri Lankan income tax Law.
+
+...
+
+[Data](articles/c2067d3f.json)
+
+[Extended Data](ext_articles/c2067d3f.ext.json)
+
+---
+
+### M.H.M. Ashraff PC: Power of  education to transform communities
+
+*2025-09-16 02:27:34* · [`dailyftlk`](https://www.ft.lk/opinion/M-H-M-Ashraff-PC-Power-of-education-to-transform-communities/14-781704) · `en`
+
+When history remembers leaders, it often lists their victories, their alliances, or their parliamentary debates. But the truest measure of a leader lies in the legacy that endures long after their voice has fallen silent. On 16 September 2025, the day which marks the 25th anniversary of the passing of M.H.M. Ashraff PC, that is the very question that begs a response.
+
+For Ashraff, his enduring legacy was neither in the party he founded nor the speeches he delivered. Rather, it was in the institutions he envisioned and enabled, the most notable of such achievements being the South Eastern University of Sri Lanka (SEUSL). Education was, for him, more than a policy matter. It was the foundation of empowerment, the key to dignity, and the one tool capable of transforming the lives of entire communities. In establishing the SEUSL at Oluvil, he did not merely create a campus. He opened a doorway for thousands who had, until then, been denied access to opportunity.
+
+...
+
+[Data](articles/0eacc91b.json)
+
+[Extended Data](ext_articles/0eacc91b.ext.json)
+
+---
+
+### M.H.M. Ashraff PC: Power of  education to transform communities
+
+*2025-09-16 02:27:34* · [`dailyftlk`](https://www.ft.lk/columns/M-H-M-Ashraff-PC-Power-of-education-to-transform-communities/4-781704) · `en`
+
+When history remembers leaders, it often lists their victories, their alliances, or their parliamentary debates. But the truest measure of a leader lies in the legacy that endures long after their voice has fallen silent. On 16 September 2025, the day which marks the 25th anniversary of the passing of M.H.M. Ashraff PC, that is the very question that begs a response.
+
+For Ashraff, his enduring legacy was neither in the party he founded nor the speeches he delivered. Rather, it was in the institutions he envisioned and enabled, the most notable of such achievements being the South Eastern University of Sri Lanka (SEUSL). Education was, for him, more than a policy matter. It was the foundation of empowerment, the key to dignity, and the one tool capable of transforming the lives of entire communities. In establishing the SEUSL at Oluvil, he did not merely create a campus. He opened a doorway for thousands who had, until then, been denied access to opportunity.
+
+...
+
+[Data](articles/2066908a.json)
+
+[Extended Data](ext_articles/2066908a.ext.json)
+
+---
+
+### National Shoora Council urges UN to suspend Israel from UN
+
+*2025-09-16 02:23:57* · [`dailyftlk`](https://www.ft.lk/opinion/National-Shoora-Council-urges-UN-to-suspend-Israel-from-UN/14-781703) · `en`
+
+The National Shoora Council (NSC) yesterday urged UN Secretary General Antonio Guterres to facilitate the grant of full membership in the UN to Palestine and to suspend Israel from the UN until Israel’s Prime Minister Benjamin Netanyahu is surrendered to the International Criminal Court (ICC) in pursuance of the international
+
+warrant issued by the ICC for the arrest of Israel’s PM. The following is the text of the letter dated 14 September 2025 addressed to the SG of the UN.
+
+“We believe that by now, you are well aware of the despicable chain of unpardonable crimes being committed, for well over a hundred years, by the Zionist regime to destroy Palestine and its multi-religious people! What must have become more clear is that the ongoing cruel facets of genocide of the Palestinians are aimed at establishing a territorially expanding nuclear armed Zionist ethno-religious European colonial power in the Middle East.
+
+...
+
+[Data](articles/092a4303.json)
+
+[Extended Data](ext_articles/092a4303.ext.json)
+
+---
+
+### AI fundamentals: Demystifying technology that’s reshaping our world
+
+*2025-09-16 02:18:45* · [`dailyftlk`](https://www.ft.lk/columns/AI-fundamentals-Demystifying-technology-that-s-reshaping-our-world/4-781702) · `en`
+
+AI won’t replace people. People who understand AI will replace people who don’t
+
+Following my previous articles, many readers reached out with a specific request: explain AI and its impact in language everyone can understand. While AI has sparked widespread interest, the lack of accessible explanations has kept it in the ‘too complex to approach’ category for many, even among executives at major corporations. There’s no shame in acknowledging knowledge gaps; we’re not expected to master every emerging technology overnight. However, staying current with transformational forces isn’t optional in today’s business environment. This article addresses those requests by covering the fundamentals of AI, providing clarity on what it is, how it’s already reshaping our lives, and the vast opportunities it creates for those willing to engage with it.
+
+...
+
+[Data](articles/2213a41d.json)
+
+[Extended Data](ext_articles/2213a41d.ext.json)
+
+---
+
+### 2025-09-15 (Monday)
+
+### Sri Lanka team beat Hong Kong
+
+*2025-09-15 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225180) · `ta`
+
+Sri Lanka won the match against Hong Kong in the Asian Cup on Sunday 15th.
+
+Sri Lanka Captain Sarid Asalanga first chose the field in Dubai.
+
+Accordingly, the Hong Kong team scored 149 runs for the loss of 4 wickets in 20 overs.
+
+In response, the Sri Lankan team made 153 runs for the loss of 6 wickets in 18.5 overs.
+
+◼️
+
+[Data](articles/c1b667e4.json)
+
+[Extended Data](ext_articles/c1b667e4.ext.json)
+
+---
+
+### Sri Lanka beat Sri Lanka
+
+*2025-09-15 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214614) · `si`
+
+Sri Lanka won the match by 4 wickets in a 4 wicket win against Hong Kong.
+
+This was in Dubai as a BC competition, and Sri Lanka was able to reach the first place in the bonus mark.
+
+The 150 runs in the Hong Kong group to Sri Lanka scored 150 runs for the loss of 6 wickets at the end of 18 overs.
+
+The wishes of the Sri Lankan team were able to score 68 runs.
+
+Sri Lanka captain Charith won the toss of the match first, decided to bowl first.
+
+Accordingly, Hong Kong team completed a score of 149 runs for the loss of 4 wickets.
+
+The relationship was collapsed with the loss of a charging of Seshan Ali.
+
+Armyan Rath and Daman also strengthened Hong Kong innings to build 61 runs for the third wicket.
+
+Dammahanth Chameera has taken two wickets in bowling and took the wicket each.
+
+Athumanan Rath scored 48 runs and Drugs and Khan scored 52 not out.
+
+This is the first time Sri Lanka and Hong Kong has been hostile to the international cricket.
+
+◼️
+
+[Data](articles/08dc5f7d.json)
+
+[Extended Data](ext_articles/08dc5f7d.ext.json)
+
+---
+
+### “Bank of Ceylon Stands as a cornerstone of Sri Lanka’s Economic Progress through Capital Formation, Inclusion and Stability”
+
+*2025-09-15 23:14:00* · [`islandlk`](http://island.lk/bank-of-ceylon-stands-as-a-cornerstone-of-sri-lankas-economic-progress-through-capital-formation-inclusion-and-stability/) · `en`
+
+*  In conversation with Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC
+
+Chaaminda Kumarasiri, Group Managing Director of Lanka Hospitals Corporation PLC a Senior Chartered Accountant and a seasoned professional in the sector, discusses the hospital’s evolution, its collaboration with the country’s largest bank, and the shared vision of advancing healthcare and economic growth in Sri Lanka. In this interview we discuss how Bank of Ceylon has been a strategically, enabling efficient financial operations, supporting medical professionals, and strengthening the hospital’s role as a trusted national institution. In this interview,
+
+*  Lanka Hospitals has established itself as a leading healthcare institution in Sri Lanka. Could you share a brief overview of the hospital’s journey, key areas of service, and its vision for the future?
+
+...
+
+[Data](articles/23040fa3.json)
+
+[Extended Data](ext_articles/23040fa3.ext.json)
 
 ---

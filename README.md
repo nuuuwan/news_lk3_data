@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 03:54:43**
+As of **2025-09-17 04:20:23**
 
 ## Newspaper Stats
 
-*Scraped **76,385** Articles*
+*Scraped **76,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 629
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,627
+economynextcom | 4,628
 islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
@@ -26,11 +26,33 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,536 (96.3%) of 76,385 articles have been extended.
+73,539 (96.3%) of 76,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### Sri Lanka car registrations fall in Aug, crossovers, trishaws up
+
+*2025-09-17 04:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-registrations-fall-in-aug-crossovers-trishaws-up-240839/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s vehicle registrations grew to 38,240 units in August 2025, from 35,232 units a month earlier, driven by higher volumes of trishaws, motobikes and SUV/crossovers, an analysis of motor vehicle registry data shows.
+
+Three-wheeler registrations rose to 2,497 units in August from 454 in July, while two wheelers rose to 27,585 units from 26,171 units.
+
+“Motor car registrations declined to 2,329 units in August, down from 2,748 units in July,” JB Securities, a Colombo-based brokerage said in analysis of vehicle registry data.
+
+“Pre-owned registrations fell to 1,772 units in August from 2,309 in July.”
+
+In brand new cars, BYDs increased to 354 units up from 244 units the previous month – the main contributor being Dolphin accounting for 307 units.
+
+SUV and crossover registration grew to 3,808 units in August up from 3,299 in July. Brand-new vehicles accounted for 1,866 units, while pre-owned made up 1,940 units.
+
+...
+
+[Data](articles/f5d27ad3.json)
+
+---
 
 ### Bangladesh beat Afghanistan by 8 runs
 
@@ -2025,23 +2047,5 @@ Accordingly, former President Maithripala Sirisena, the official residence will 
 [Data](articles/1cb67be7.json)
 
 [Extended Data](ext_articles/1cb67be7.ext.json)
-
----
-
-### Bus and lorry collide
-
-*2025-09-16 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214632) · `si`
-
-A private bus and a lorry collided in the Epitawela area on the Horana - Ratnapura main road and 15 others suffered injuries.
-
-The bus was revealed as a bus to transport employees of a private institution.
-
-The injured have been admitted to Atalangoda and Ratnapura hospital while Kiriella police are conducting further investigations.
-
-◼️
-
-[Data](articles/df4e2fa5.json)
-
-[Extended Data](ext_articles/df4e2fa5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 01:05:49**
+As of **2025-09-17 02:07:14**
 
 ## Newspaper Stats
 
-*Scraped **76,384** Articles*
+*Scraped **76,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,50 @@ dailyftlk | 5,409
 adalk | 7,421
 adaderanalk | 9,850
 tamilmirrorlk | 11,436
-virakesarilk | 12,445
+virakesarilk | 12,446
 adaderanasinhalalk | 13,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,483 (96.2%) of 76,384 articles have been extended.
+73,499 (96.2%) of 76,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### மதுபானசாலையில் வாள்வெட்டு: இருவர் காயம்
+### ஆப்கானிஸ்தானை 8 ஓட்டங்களால் வீழ்த்திய பங்களாதேஷ் அணி
+
+*2025-09-17 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225268) · `ta`
+
+அபுதாபியில் 16ஆம் திகதி இரவு நடைபெற்ற ஆசிய கிண்ண கிரிக்கெட் போட்டியில் பங்களாதேஷ் அணி, ஆப்கானிஸ்தானை 8 ஓட்டங்கள் வித்தியாசத்தில் வெற்றி பெற்றது.
+
+முதலில் துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 20 ஓவர்களில் 5 விக்கெட்டுகளை இழந்து 154 ஓட்டங்களை பெற்றது.
+
+பதில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி பங்களாதேஷ் அணியின் வேகப்பந்து வீச்சாளர்களை சமாளிக்க முடியாமல் 146 ஓட்டங்களை மட்டுமே பெற்று தோல்வியடைந்தது.
+
+◼️
+
+[Data](articles/88037305.json)
+
+---
+
+### Swords at liquor: two injured
 
 *2025-09-17 00:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலையில்-வாள்வெட்டு-இருவர்-காயம்/175-364729) · `ta`
 
-நெடுந்தீவு தனியார் விருந்தக மதுபானசாலையில் நேற்று (16)  இரவு 7.00 மணியளவில் இரண்டு இளைஞர் குழுக்களுக்கிடையில் இடம்பெற்ற  மோதலில் இளைஞர் இருவர் வாள்வெட்டில்  காயமடைந்துள்ளனர்.
+Two youths were injured in a sword in a clash between two youth groups at 7.00 pm at the Nedundevu Private Hosiness Liquor Store last night.
 
-நெடுந்தீவு மதுபானசாலையில் இரவு 7.00 மணியளவில் திடீரென புகுந்த இளைஞர்குழு மதுபானசாலைக்குள் இருந்த இளைஞர் குழுமீது வாள்வெட்டு தாக்குதல் மேற்கொண்டதில் இரண்டுபேர் தலையிலும் முகத்திலும் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்றதாக தகவல்கள் தெரிவிக்கின்றன.
+According to reports, two people were injured in the head and face of a youth group who suddenly entered the Nedundevu Liquor Store at 7.00 pm.
 
-குறித்த சம்பவம் தொடர்பில் தகவலறிந்து சம்பவ இடத்துக்கு வந்த  பொலிஸார் மீதும் வாள்வெட்டுக்குழுவினர் தாக்குதல் மேற்கொண்டுவிட்டு தப்பிச்செல்ல முற்பட்டபோது ஒருவர் கைதுசெய்யப்பட்டு நெடுந்தீவு பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டுள்ளதுடன், தப்பிச்சென்றவர்களை தேடி கைது செய்யும் வகையில் பொலிஸார் நடவடிக்கையினை மேற்கொண்டுள்ளனர். (a)
+The police, who came to the scene of the incident, were arrested and detained at the Neduntivu police station when the sword was assaulted and tried to flee and the police took action to search for the fugitives.. (A)
 
 ◼️
 
 [Data](articles/75324405.json)
+
+[Extended Data](ext_articles/75324405.ext.json)
 
 ---
 
@@ -2023,27 +2041,5 @@ The injured have been admitted to Atalangoda and Ratnapura hospital while Kiriel
 [Data](articles/df4e2fa5.json)
 
 [Extended Data](ext_articles/df4e2fa5.ext.json)
-
----
-
-### The Southern Province has become the province of all public services in Sri Lanka
-
-*2025-09-16 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225221) · `ta`
-
-All District and Divisional Secretariats of the Southern Province have no longer started offering services through the Govpay Digital payment platform. With this, the Southern Province has made history as the first province of Sri Lanka to join Govpay.
-
-At a function held at the Matara District Secretariat yesterday (15), 3 District Secretariats and 53 Divisional Secretariats were incorporated into the Govpay site at a function chaired by Digital Economic Minister Eranga Weeratne.
-
-This will enable public banks' Internet Bank/Mobile Bank portals or Fintech applications connected to Govpay safely anywhere.
-
-Members of Parliament including Akram Iliyas, Lal Premadilaka, Harsha Prasinghe and Lanka CEO Sanna de Silva were present at the event.
-
-“As a province, the Southern Province joined Govpay is the main improvement for the public service that has completely digitized the country. This will increase the confidence of the public. ”
-
-...
-
-[Data](articles/a1180974.json)
-
-[Extended Data](ext_articles/a1180974.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 15:55:57**
+As of **2025-09-16 15:08:04**
 
 ## Newspaper Stats
 
-*Scraped **76,320** Articles*
+*Scraped **76,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,408
-adaderanalk | 9,840
-tamilmirrorlk | 11,431
+adaderanalk | 9,839
+tamilmirrorlk | 11,429
 virakesarilk | 12,430
 adaderanasinhalalk | 13,316
 
@@ -26,47 +26,11 @@ adaderanasinhalalk | 13,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,179 (95.9%) of 76,320 articles have been extended.
+73,147 (95.8%) of 76,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### ஜப்பானுடன் இருதரப்பு ஒப்பந்தங்களில் கையெழுத்து
-
-*2025-09-16 15:20:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானுடன்-இருதரப்பு-ஒப்பந்தங்களில்-கையெழுத்து/175-364706) · `ta`
-
-ஜப்பான் அரசிடமிருந்து மொத்தம் 963 மில்லியன் ஜப்பானிய யென் (அண்ணளவாக ரூ. 1.94 பில்லியன்) மானியத்தைப் பெறுவதற்காக, ஜப்பான் நாட்டிற்கான தனது வரவிருக்கும் அரச பயணத்தின் போது, ​​ஜனாதிபதி அனுர குமார திசாநாயக்க முக்கிய இருதரப்பு ஒப்பந்தங்களில் கையெழுத்திட உள்ளார்.
-
-இந்த மானியத்தில் இலங்கையின் பால் உற்பத்தித் துறையை மேம்படுத்துவதற்காக 463 மில்லியன் யென்களும், இலங்கை கடற்படையை வலுப்படுத்துவதற்கான அதிகாரப்பூர்வ பாதுகாப்பு உதவித் திட்டத்திற்காக 500 மில்லியன் யென்களும் அடங்கும்.
-
-பால்வளத் துறை முன்முயற்சியின் கீழ், விலங்கு உற்பத்தி மற்றும் சுகாதாரத் துறையின் திறனை அதிகரிக்க ஜப்பான் நவீன உபகரணங்கள் மற்றும் தொழில்நுட்ப ஆதரவை வழங்கும்.
-
-இதற்கிடையில், விசாரணைகள், கண்காணிப்பு மற்றும் கடல்சார் பாதுகாப்பு நடவடிக்கைகளுக்கு உதவுவதற்காக இலங்கை கடற்படை ட்ரோன்கள் மற்றும் கண்காணிப்பு தொழில்நுட்பத்தைப் பெறும்.
-
-நிதி, திட்டமிடல் மற்றும் பொருளாதார மேம்பாட்டு அமைச்சராகவும் பணியாற்றும் ஜனாதிபதி திசாநாயக்க, தனது விஜயத்தின் போது உத்தியோகபூர்வ பரிமாற்ற ஆவணங்களில் கையெழுத்திடுவார்.
-
-...
-
-[Data](articles/291f32f5.json)
-
----
-
-### திசைகாட்டிக்குள் எட்டாவது உலக அதிசயம்?
-
-*2025-09-16 15:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திசைகாட்டிக்குள்-எட்டாவது-உலக-அதிசயம்/175-364705) · `ta`
-
-வசந்த சமரசிங்க உள்ளிட்ட அமைச்சர்கள் தங்கள் செல்வத்தைப் பெருக்குவது உலகின் எட்டாவது அதிசயம் என்று ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் கவிந்த ஜெயவர்தன இன்று தெரிவித்தார்.
-
-"இந்த அமைச்சர்களின் சம்பளம் கட்சி நிதிக்குச் செல்வதால், அவர்கள் எப்படி கோடீஸ்வரர்களாக மாறினர் என்பது ஆச்சரியமாக இருக்கிறது. இது உண்மையில் உலகின் மற்றொரு அதிசயம்," என்று ஊடகவியலாளர்கள் ஒரு ஊடக சந்திப்பில் எழுப்பிய கேள்விக்கு பதிலளித்த எம்.பி. கூறினார்.
-
-"சில அமைச்சர்களின் சொத்து மதிப்பு அதிகரித்து வருவதால் அவர்கள் உடல் பருமனாகி வருகின்றனர். அவர்கள் இரத்த சர்க்கரை மற்றும் அழுத்தம் போன்ற உடல்நலப் பிரச்சினைகளையும் எதிர்கொள்கின்றனர். அவர்கள் இதற்கு முன்பு ருசித்துப் பார்க்காத சில உணவுகளை சாப்பிட வேண்டியிருப்பதால் அவர்களின் வயிறு வளர்ந்துள்ளது," என்று எம்.பி. மேலும் கூறினார்.
-
-◼️
-
-[Data](articles/a600883a.json)
-
----
 
 ### Namal meets Indian High Commissioner to discuss on-going political developments
 
@@ -84,49 +48,39 @@ He said they look forward to strengthening the partnership between the two count
 
 [Data](articles/bebc2acc.json)
 
-[Extended Data](ext_articles/bebc2acc.ext.json)
-
 ---
 
-### The people of Colombo! Model Thursday
+### கொழும்பு வாழ் மக்களே! ’வியாழன்’ உஷார்
 
 *2025-09-16 14:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வாழ்-மக்களே-வியாழன்-உஷார்/175-364701) · `ta`
 
-The National Water Supply and Drainage Board (NWSDB) has announced a 9 -hour water cut in Colombo on Thursday 18 September.
+தேசிய நீர் வழங்கல் மற்றும் வடிகால் சபை (NWSDB) செப்டம்பர் 18, வியாழக்கிழமை அன்று கொழும்பில் 9 மணி நேர நீர் வெட்டு அறிவித்துள்ளது.
 
-Water supply will be stopped from 10:00 am to 7:00 pm in areas from Colombo 01 to Colombo 15.
+கொழும்பு 01 முதல் கொழும்பு 15 வரை உள்ள பகுதிகளில் காலை 10:00 மணி முதல் மாலை 7:00 மணி வரை நீர் விநியோகம் நிறுத்தப்படும்.
 
-The National Water Supply Board has advised residents to take adequate water in advance and take necessary precautions.
+இப் பகுதிகளில் வசிப்பவர்கள் முன்கூட்டியே போதுமான தண்ணீரை சேமித்து வைத்து தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு தேசிய நீர் வழங்கல் வாரியம் அறிவுறுத்தியுள்ளது.
 
-The public has been asked to cooperate by protecting the water during the barrier and afterwards.
+தடையின் போதும் அதற்குப் பிறகும் தண்ணீரைப் பாதுகாப்பதன் மூலம் பொதுமக்கள் ஒத்துழைக்க வேண்டும் என்றும் கேட்டுக் கொள்ளப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/250c8674.json)
 
-[Extended Data](ext_articles/250c8674.ext.json)
-
 ---
 
-### The publication of ancient Pali grammar
+### புராதன பாளி இலக்கண நூலான பாலவதரோ மீள்பதிப்பின் வெளியீடு
 
 *2025-09-16 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225230) · `ta`
 
-With the support of the Indian Council for Cultural Relations under the Government of India, and the Indian High Commission in Colombo, the Bathbounder Forum has renovated the ancient Pali grammar book, Balavataro.
+இந்திய அரசாங்கத்தின் கீழான கலாசார உறவுகளுக்கான இந்திய பேரவை, மற்றும் கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயம் ஆகியவற்றின் ஆதரவுடன் பாத்பைண்டர் மன்றம் புராதன பாளி இலக்கண நூலான பாலவதரோவை மீள் பதிப்பு செய்துள்ளது.
 
-The book was published at the Sri Dalada House in Kandy on the 13th by the Deputy High Commissioner Satyanchal Pandey and the Badfire Forum.
+இந்நூல் கண்டியில் உள்ள ஶ்ரீ தலதா மாளிகையில் 13 ஆம் திகதி பிரதி உயர் ஸ்தானிகர் சத்யாஞ்சல் பாண்டே மற்றும் பாத்பைண்டர் மன்றத்தினால் வெளியிட்டு வைக்கப்பட்டது.
 
-In addition to the Malwathu Peetha, the Sangha Saranangara Vimaladammapithana Thera, the Malwathu Peetha, the Dr. Niyangoda Vijithari Thera Copies of the book were handed over to the other chariots of the faculty.
-
-Balavataro, the second ancient Pali Nule Balavataro, was published by the Bathfounder Forum, with the support of the Indian Council for Cultural Relations under the Government of India and the Indian High Commission in Colombo.
-
-This book, which has been used as a major source of Pali language studies for many generations in the sects and schools in Sri Lanka, will make it easier for students to learn Pali language in Sri Lanka.
+அத்துடன் மல்வத்து பீடத்தின் அநுநாயக்க தேரர் சங்கைக்குரிய திம்புல்கும்புரே ஶ்ரீ சரணங்கர விமலதம்மபிதன தேரர், மல்வத்து பீடத்தின் அநுநாயக்க தேரர் சங்கைக்குரிய கலாநிதி நியாங்கொட விஜிதஶ்ரீ தேரர், அஸ்கிரிய பீடத்தின் அநுநாயக்க தேரர் சங்கைக்குரிய  வெதருவே தர்மகீர்த்தி ஶ்ரீ இரத்தினபால உபாலி தேரர்,  மற்றும் மல்வத்து & அஸ்கிரிய பீடங்களின் ஏனைய தேரர்களிடம் இந்நூலின் பிரதிகள் கையளிக்கப்பட்டன.
 
 ...
 
 [Data](articles/b10094a5.json)
-
-[Extended Data](ext_articles/b10094a5.ext.json)
 
 ---
 
@@ -144,8 +98,6 @@ It has been found that the issue will be further aggravated with the completion 
 
 [Data](articles/53eef4ae.json)
 
-[Extended Data](ext_articles/53eef4ae.ext.json)
-
 ---
 
 ### Substandard drug imports case: Indictments served on Keheliya and others
@@ -161,8 +113,6 @@ Subsequently, the defense counsel commenced presenting facts in support of the d
 ◼️
 
 [Data](articles/7cba2828.json)
-
-[Extended Data](ext_articles/7cba2828.ext.json)
 
 ---
 
@@ -200,37 +150,17 @@ The Cuddalore Forest Department has initiated action. The people of the area hav
 
 ---
 
-### Sevanagala bumpled to Rs. 7000 pays
+### සෙවනගල ගිනි තැබූ උක් ටොන් එකකට රු. 7000ක් ගෙවයි
 
 *2025-09-16 14:10:46* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-ගිනි-තැබූ-උක්-ටොන්-එකකට-රු--7000ක්-ගෙවයි/11-418530) · `si`
 
-Cabinet approval has been granted to buy a metric tonne for prices of the Sungagala Crops
+සෙවනගල  උක් වගාවන් ගිනි තැබීම නිසා ගැටලුවට පත් උක් ගොවීන් වෙනුවෙන් මෙට්‍රික් ටොන් ඒකක් රුපියල් 7000ක මිලක් යටතේ මිල‍දී ගැනීමට කැබිනට් අනුමැතිය  ලැබී තිබේ.
 
-The proposal made by President Anura Kumara Dissanayake has been approved by the Cabinet. It is estimated that about 19,000 metric tons of sugarcane has been destroyed due to firerooms.
+ජනපති අනුර කුමාර දිසානායක මහතා ඉදිරිපත් කළ යෝජනාවට මෙසේ කැබිනට් අනුමැතිය ලැබී තිබේ. ගිනි තැබීම් නිසා උක් මෙට්‍රික් ටොන් 19000ක් පමණ විනාශ වී ඇති බවට ගණන් බලා තිබේ.
 
 ◼️
 
 [Data](articles/7b04a08e.json)
-
-[Extended Data](ext_articles/7b04a08e.ext.json)
-
----
-
-### Cabinet approves compensation for sugarcane farmers affected by fires at Sevanagala plantations
-
-*2025-09-16 14:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112571/cabinet-approves-compensation-for-sugarcane-farmers-affected-by-fires-at-sevanagala-plantations) · `en`
-
-The Cabinet has granted approval to provide compensation to sugarcane farmers whose crops were damaged due to fires that broke out in the sugarcane plantations of the Sevanagala Sugar Factory.
-
-Accordingly, a committee comprising officials from the Sugarcane Research Institute and the Lanka Sugar (Pvt) Ltd in Sevanagala has been appointed to collect accurate data on the extent of sugarcane destroyed and the farmers affected. Based on this data, compensation of Rs. 7,000 per metric ton of sugarcane destroyed by the fires will be granted to the affected farmers.
-
-The decision has been made following a joint proposal submitted by the President, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, and the Minister of Industries and Entrepreneurship Development.
-
-...
-
-[Data](articles/98c8d842.json)
-
-[Extended Data](ext_articles/98c8d842.ext.json)
 
 ---
 
@@ -247,8 +177,6 @@ The decision has been made following a joint proposal submitted by the President
 ...
 
 [Data](articles/f0599bf8.json)
-
-[Extended Data](ext_articles/f0599bf8.ext.json)
 
 ---
 
@@ -322,8 +250,6 @@ Accordingly, the Cabinet of Ministers has approved the proposal presented by the
 
 [Data](articles/08dcf951.json)
 
-[Extended Data](ext_articles/08dcf951.ext.json)
-
 ---
 
 ### The actress who said without shyness
@@ -368,8 +294,6 @@ However, many Asian countries such as India, Bangladesh, Philippines have formul
 
 [Data](articles/aeb1f6d0.json)
 
-[Extended Data](ext_articles/aeb1f6d0.ext.json)
-
 ---
 
 ### Beth and Nissanga set the record for Virat Kohli
@@ -408,19 +332,17 @@ The arrested Chinese national has been handed over to the tourist police connect
 
 ---
 
-### A foreigner arrested for drone in Kandy
+### கண்டியில் ட்ரோன் விட்ட  வெளிநாட்டவர் கைது
 
 *2025-09-16 13:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-ட்ரோன்-விட்ட-வெளிநாட்டவர்-கைது/76-364696) · `ta`
 
-Dalada House police have arrested a Chinese national who flew from a high security zone near the official residence of the historic Sri Dalada House in Kandy.
+கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகையின் தியவடன நிலமேவின் உத்தியோகபூர்வ இல்லத்திற்கு அருகில் உள்ள உயர் பாதுகாப்பு வலயத்தில் இருந்து ட்ரோன் கேமரா பறக்கவிட்ட சீன நாட்டவரை தலதா மாளிகை பொலிஸார் கைது செய்துள்ளனர்.
 
-The arrested Chinese national has been handed over to the tourist police connected to the Kandy Headquarters Police Station with the drone camera and the equipment used to fly it.
+கைது செய்யப்பட்ட சீன நாட்டவர், ட்ரோன் கேமரா மற்றும் அதைப் பறக்கவிடப் பயன்படுத்தப்பட்ட உபகரணங்களுடன், கண்டி தலைமையக பொலிஸ் நிலையத்துடன் இணைக்கப்பட்ட சுற்றுலா பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
 
 ◼️
 
 [Data](articles/7b101589.json)
-
-[Extended Data](ext_articles/7b101589.ext.json)
 
 ---
 
@@ -462,7 +384,7 @@ The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour w
 
 The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
 
-In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
+In light of this, the NWSDB urges the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
 
 ◼️
 
@@ -596,19 +518,17 @@ The accident occurred when a bus carrying employees of a private company collide
 
 ---
 
-### 4 invasion fish species banned
+### ආක්‍රමණ මත්ස්‍ය විශේෂ 4ක් තහනම් කරයි
 
 *2025-09-16 13:11:59* · [`adalk`](https://www.ada.lk/breaking_news/ආක්‍රමණ-මත්ස්‍ය-විශේෂ-4ක්-තහනම්-කරයි/11-418526) · `si`
 
-Fisheries, Aquaculture Resources, Minister of Fisheries, Aquatic and Ocean Resources at a special press conference held at a special media briefing held and selling an aggressive foreign fish species to the local aquatic ecosystem and native fish resources.
+මෙරට දේශීය ජලජ පරිසර පද්ධතියට සහ ස්වදේශික මත්ස්‍ය සම්පතට දැඩි තර්ජනයක් එල්ල කරන ආක්‍රමණශීලී විදේශීය මත්ස්‍ය විශේෂ හතරක් ආනයනය, ලඟ තබා ගැනීම, අභිජනනය සහ විකිණීම තහනම් කිරීමට පියවර ගැනීමට නියමිත බව ධීවර, ජලජ හා සාගර සම්පත් අමාත්‍ය, රාමලිංගම් චන්ද්‍රසේකර් මහතා ඊයේ (15) පැවති විශේෂ මාධ්‍ය හමුවකදී නිවේදනය කළේය.
 
-Secretary to the Ministry Dr. B also. K. The Director General of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chairman of the National Aquaculture Development Authority (NAQDA), the Director General of the National Aquaculture Development Authority (NAQDA), Chief Attorney Susantha Fire Firellemi Wickramaratne.
+මෙම අවස්ථාව සඳහා අමාත්‍යාංශ ලේකම් ආචාර්ය බී. කේ. කෝලිත කමල් ජිනදාස, ජාතික ජලජීවී වගා සංවර්ධන අධිකාරියේ (NAQDA) සභාපති කිත්සිරි ධර්මප්‍රිය සහ ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත, ඇන්ගිලින් ප්‍රජාව ස්පොර්ටි ෆිශිං සංගමයේ, ප්‍රධාන අනුශාසක, ප්‍රසන්න ප්‍රියකැලුමි වික්‍රමරත්න මහතා යන මහත්වරු ද එක්ව සිටියහ.
 
 ...
 
 [Data](articles/170b6b3e.json)
-
-[Extended Data](ext_articles/170b6b3e.ext.json)
 
 ---
 
@@ -2021,5 +1941,63 @@ This agreement is to be resolved to solve the crisis of Chinese ownership.
 [Data](articles/dd63a99d.json)
 
 [Extended Data](ext_articles/dd63a99d.ext.json)
+
+---
+
+### Several reports from wishes
+
+*2025-09-16 07:37:33* · [`adalk`](https://www.ada.lk/sports/පැතුම්ගෙන්-වාර්තා-කිහිපයක්/9-418515) · `si`
+
+Openers Batsman Path was able to renew several reports on Sri Lanka in Sri Lanka and Hong Kong.
+
+At the same match records were among the highest half-century batsman for Sri Lanka in Twenty20 international competitions.
+
+In the Asian Cup 20, the winners have accumulated four half centuries, which have scored four half centuries in the tournament history.
+
+Koli is shown in 10 innings, but only 8 innings have been spent on the wishes. The opportunity is now the opportunity to pass the most easily past the wishes.
+
+◼️
+
+[Data](articles/c8b92702.json)
+
+[Extended Data](ext_articles/c8b92702.ext.json)
+
+---
+
+### Commissioner General of Elections
+
+*2025-09-16 07:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225187) · `ta`
+
+The Commissioner General of Elections said in Jaffna, the reason why the provincial council election was delayed was due to the passage of the provincial council system, which was a proportional system.
+
+He made this statement when he visited Jaffna on Monday (15) and met with the Elections Commissioner Saman Sri Ratnayake at the Elections Office at the Elections Office.
+
+The reason why the provincial council election was delayed is due to the implementation of the provincial council system that was voted for the provincial council system.. There is a issue of reform definitions by legal draft. If this is resolved, the election will be held immediately. The Department of Elections is ready for it.
+
+Or if the parliament passes a resolution to implement the old system again and again, the election can be held in the old system.. He also said that there is a suitable time
+
+◼️
+
+[Data](articles/33239265.json)
+
+[Extended Data](ext_articles/33239265.ext.json)
+
+---
+
+### Kaushal Silva's group is a serious challenge to Sri Lanka
+
+*2025-09-16 07:27:09* · [`adalk`](https://www.ada.lk/sports/කෞෂාල්-සිල්වාගේ-කණ්ඩායමෙන්-ලංකාවට-දැඩි-අභි‍යෝගයක්/9-418514) · `si`
+
+Sri Lanka records four wickets in four wickets in the Asian Cup. Batting first, Hong Kong scored 149 runs for the loss of 4 wickets at the end of the 4 wickets.
+
+In reply Sri Lanka scored 154 runs for the loss of 6 wickets for 18.5 overs. Sri Lanka's victory of Sri Lanka winning Sri Lanka's victory scored 68 runs in 44 balls with six fours and two sixes.
+
+Still ICC. Sri Lanka's former Sri Lanka's chief trainer, a non-fullest country, is the Chief Guest of Sri Lanka to be a huge challenge to Sri Lanka.
+
+◼️
+
+[Data](articles/ebcf558d.json)
+
+[Extended Data](ext_articles/ebcf558d.ext.json)
 
 ---

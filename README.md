@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 20:09:13**
+As of **2025-09-16 20:38:27**
 
 ## Newspaper Stats
 
-*Scraped **76,359** Articles*
+*Scraped **76,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,116 @@ islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,417
-adaderanalk | 9,845
+adaderanalk | 9,846
 tamilmirrorlk | 11,433
-virakesarilk | 12,436
+virakesarilk | 12,440
 adaderanasinhalalk | 13,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,360 (96.1%) of 76,359 articles have been extended.
+73,381 (96.1%) of 76,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### තෙල් ගබඩා ධාරිතාව වැඩි කරන්න සංස්ථාවෙන් සැලසුම්
+### Increase oil storage capacity
 
 *2025-09-16 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214649) · `si`
 
-රට තුළ තෙල් සංචිත ධාරිතාව ඉහළ දැමීම සඳහා තවත් තෙල් ටැංකි 6ක් ස්ථාපිත කිරීමට අවශ්‍ය කටයුතු ආරම්භ කරන බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.
+The Ceylon Petroleum Corporation (CPC) says that steps will be taken to establish 6 additional tanks to increase the oil reserve capacity in the country.
 
-එහි සභාපති ඩී.ජේ රාජකරුණා මහතා සඳහන් කළේ පසුගිය කාලය තුළ ඉදිකිරීම් අතරමග නවතා දමා තිබු තෙල් ටැංකි ඉදිකිරීම් මෙලෙස ආරම්භ කිරීමට කටයුතු කරන බවය.
+Chairman of the President DJ Karuna stated that the construction of oil tanks that have been stopped in the construction of the construction over the recent past is being started.
 
-අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ඩී.ජේ රාජකරුණා මහතා මෙම අදහස් පළ කළේය.
+Addressing a media briefing today, Lanka Petroleum Corporation Chairman DJ Karuna expressed these views.
 
-මේ අතර වරායේ සිට කොළොන්නාව තෙල් ගබඩා පර්යන්තය දක්වා නව නළ මාර්ග දෙකක් ඉදිකිරීම සම්බන්ධයෙන් ද ඩී.ජේ රාජකරුණා මහතා එහිදී අදහස් පළකළේය.
+Meanwhile, DJ Rajakaratu expressed two new pipes from the port to Kolonnawa Oil Stores Terminal.
 
 ◼️
 
 [Data](articles/74d133a6.json)
+
+[Extended Data](ext_articles/74d133a6.ext.json)
+
+---
+
+### Preliminary budget discussion on the Transport Distribution Department of Maritime Products
+
+*2025-09-16 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225262) · `ta`
+
+The budget preliminary discussion on the distribution of maritime goods was held on Tuesday (16) at the Presidential Office under the patronage of Labor Minister and Deputy Minister of Economic Development Dr. Anil Anil Jayantha Fernando.
+
+The parties involved in the transportation distribution sector have made their full support to the President -led government's plan to build the country's economy.
+
+Moreover, the role of the maritime industry in the development of the tourism industry was extensively investigated.
+
+The contribution of the Maritime Products Transport Department in increasing imports and exports was also investigated.  The focus was also on the development of the now inactivated ports.
+
+By investing in infrastructure, providing competitive -based services and the possibility of Sri Lanka to achieve a significant role in the global maritime trade.
+
+...
+
+[Data](articles/df8a5b7f.json)
+
+[Extended Data](ext_articles/df8a5b7f.ext.json)
+
+---
+
+### Famous actor Robert Redford has passed away
+
+*2025-09-16 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225261) · `ta`
+
+US actor and director Robert Redford (89) passed away on Tuesday (16) at a residence in Utta State.
+
+Ordinary People படத்திற்காக ஆஸ்கர் வென்ற அவர், Sundance திரைப்பட விழாவை நிறுவியதாலும் பரவலாக அறியப்பட்டார்.
+
+◼️
+
+[Data](articles/da6afbf6.json)
+
+[Extended Data](ext_articles/da6afbf6.ext.json)
+
+---
+
+### There is no truth in the news of the closure of the Sri Lanka Fisheries Corporation - Minister Ramalingam Chandrasekhar
+
+*2025-09-16 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225260) · `ta`
+
+Minister of Fisheries, Aquatic Resources and Marine Resources Ramalingam Chandrasekhar said that the future decision on the Oluvil port will be taken only after the new possibility is conducted.
+
+The Ministry of Fisheries, Aquatic Resources and Marine Resources Affairs Advisory Committee held a recent meeting chaired by Minister Ramalingam Chandrasekhar.. Deputy Minister Ratna Kamage of Fisheries, Aquatic Resources and Marine Resources was also present.
+
+It was discussed in detail about the implementation of the Oluvil fishing port.. The Minister said that the new possibilities will be carried out on the basis of a new possibility of remedying the effects of the port of Oluvil without proper studies.
+
+The Deputy Minister also stated that the fishing harbor in the Valaichenai area is scheduled to be set up in 2026 to address the need for a fishing port for the Eastern Province, including the factory for fishing.
+
+...
+
+[Data](articles/91a0c99f.json)
+
+[Extended Data](ext_articles/91a0c99f.ext.json)
+
+---
+
+### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
+
+*2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
+
+Sri Lanka expects Chinese state energy giant Sinopec to start work on a $3.7 billion refinery this year and is considering the company’s long-standing demand to sell more fuel locally, the energy minister said on Tuesday.
+
+The Sinopec refinery, approved in 2023, will have capacity to process 200,000 barrels of crude oil per day and will be located near the Chinese-built and operated Hambantota port in southern Sri Lanka, Energy Minister Kumara Jayakody said in an interview at his office.
+
+“The land we already have allocated for them, and they have done the other facilities too,” he said. “The government ... we all have the same idea and the same expectation on this project (that it will start this year).”
+
+Sri Lanka’s deputy economic development minister, Anil Jayantha Fernando, separately told Reuters that Sinopec could take about three years to complete the project.
+
+...
+
+[Data](articles/89630496.json)
+
+[Extended Data](ext_articles/89630496.ext.json)
 
 ---
 
@@ -67,6 +147,26 @@ The Minister made this statement in response to a question raised by the journal
 [Data](articles/ba01e7d7.json)
 
 [Extended Data](ext_articles/ba01e7d7.ext.json)
+
+---
+
+### New Building for Jaffna University at a cost of 2,234 million
+
+*2025-09-16 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225259) · `ta`
+
+The Cabinet has granted permission to construct a new five -storey building with modern facilities including lecture halls, laboratory and auditorium to the Faculty of Jaffna University of Jaffna.. The estimated cost is 2,234 million rupees, the Cabinet spokesman said.
+
+The proposal submitted by the Minister of Education, Higher Education and Vocational Education has approved the Cabinet. In 2006, state universities were introduced by sub -health science degrees.
+
+Accordingly, three degrees were started in the Department of Medical Laboratory Science, Drug Chemistry and Naturalism at the University of Jaffna. Currently, 952 students from all ethnicity are educated in the four syllabus of medical laboratory science, pharmaceuticals, nursing and physical education, the Cabinet spokesman said.
+
+Although the Cabinet approved the construction of the building for the Faculty of Assistant Health Sciences in 2017, the funds were not allocated due to the financial crisis.
+
+...
+
+[Data](articles/84ea7292.json)
+
+[Extended Data](ext_articles/84ea7292.ext.json)
 
 ---
 
@@ -390,19 +490,27 @@ President Anura Dissanayake will sign the relevant exchange sheets and other doc
 
 ---
 
-### තම දියණිය අපයෝජනය කළ පියා රිමාන්ඩ්
+### Father remanded his daughter abused
 
 *2025-09-16 16:21:10* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-අපයෝජනය-කළ-පියා-රිමාන්ඩ්/11-418536) · `si`
 
-වයස අවුරුදු 13 මාස 8ක දැරියක් අපයෝජනය කළැයි කියන දැරියගේ පියා මේ මස 22 දක්වා රිමාන්ඞ් බාරයට පත්කරන්නැයි කුලියාපිටිය මහේස්ත‍්‍රාත් මිහිල් චිරන්තන සතුරුසිංහ මහතා ඊයේ (15දා) නියම කළේය.
+Kuliyapitiya Magistrate Mihinna Sathurna, the father of the girl who was abused by the 13-month girl was appointed as abusing a 8 month old girl.
 
-එලෙසින් රක්‍ෂිත බන්ධනාගාර ගතවූයේ කුලියාපිටිය බෝගොඩ සංස්කෘතික මධ්‍යස්ථානය අසල පදිංචිකරුවෙකු වූ අධිකාරි මුදියන්සේලාගේ හසිත නුවන් අධිකාරි නැමැත්තෙකි.
+Earlier was remanded, a resident of Kuliyapitiya Cultural Center, a resident of Kuliyapitiya and a resident of Kuliyapitiya.
 
-මව විදෙස්ගතව ඇති වින්ධිත දැරියගේ වැඩිමහල් සහෝදරිය රැකියාවකට යාම හේතුවෙන් මාරවිල ප‍්‍රදේශයේ කන්‍යාරාමයක නවතා ගොස් සිටියදී එම පාලිකාවක් විසින් ලබාදුන් දුරඇමතුමක් අනුව විමර්ශනය කිරීමෙන් අනතුරුව ස්ථාන කිහිපයකදී සිවු දෙනෙකු විසින් වින්ධිත දැරිය අපයෝජනයට  ලක්කර ඇතැයි අනාවරණයවූ කරුණු අනුව අදාළ සැකකාර පියා අත්අඩංගුවට ගෙන තිබූ බව පොලිසිය අධිකරණයට කරුණු දැක්වීය.
+The suspect had arrested that the father had been arrested following a far matched by the parcer in Marawila and had been abused by the elderly sister of the mother abroad.
+
+The girl had been depressed at the Kuliyapitiya Police Division and that the investigatory reports have been placed in the house where the investigation were taken from the house.
+
+Attorneysi demanding the suspect, lawyers pointed out that the girl had lodged a false complaint as the girl rebuked.
+
+ඉදිරිපත්වූ සියලූ කරුණු කෙරෙහි අවධානය යොමුකළ මහේස්ත‍්‍රාත්වරයා සැකකරුයේ ඇප ඉල්ලීම ප‍්‍රතික්‍ෂේප කරමින් ඉදිරිදිනයේ පරීක්‍ෂණ ප‍්‍රගතිය රැගත් වැඩිදුර වාර්තාවක් ඉදිරි දිනයේ ඉදිරිපත් කරන්නැයි පොලිසියට නියම කළේය.
 
 ...
 
 [Data](articles/439b5da7.json)
+
+[Extended Data](ext_articles/439b5da7.ext.json)
 
 ---
 
@@ -1955,123 +2063,5 @@ Citing an instance, papaverine. 300 is available, but in fact, it is a fake prod
 [Data](articles/5742872f.json)
 
 [Extended Data](ext_articles/5742872f.ext.json)
-
----
-
-### Rescue of bullets from the hotel toilet
-
-*2025-09-16 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-கழிப்பறையில்-இருந்து-தோட்டாக்கள்-மீட்பு/175-364680) · `ta`
-
-Pirikkottai police said that 17 bullets were found from a garbage bin in a hotel toilet in Pettah, Colombo, Colombo.
-
-Employees who saw the bullets in the garbage bin when they went to the toilet have informed the police about this.
-
-According to the police, the police have seized the bullets and found that 9mm of bullets were found.. Police suspect that someone may have entered the toilet and poured bullets in the trash bin.
-
-◼️
-
-[Data](articles/026a4c9b.json)
-
-[Extended Data](ext_articles/026a4c9b.ext.json)
-
----
-
-### Sri Lanka manufacturing expands at slower rate in August 2025: PMI
-
-*2025-09-16 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-expands-at-slower-rate-in-august-2025-pmi-240710/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing sector expanded at a slower rate to 55.2 in August, compared to 62.2 in July, according to a Purchasing Managers Index compiled by the central bank.
-
-All sub-indices registered lower rates of expansion compared to the previous month.
-
-The growth in the New Orders and Production sub-indices were supported by strong performances in the food and beverages manufacturing sector, CBSL said.
-
-The Employment sub-index remained in the positive territory during August, indicating favourable Employment conditions.
-
-However, Suppliers’ Delivery Time continued to lengthen during the month; “with some respondents reported delays in international shipping”.
-
-“Manufacturing activities over the next three months remain positive, largely underpinned by the anticipated seasonal demand towards the year end.” (Colombo/Sep16/2025)
-
-◼️
-
-[Data](articles/ffb21b45.json)
-
-[Extended Data](ext_articles/ffb21b45.ext.json)
-
----
-
-### சிறைச்சாலை பஸ் மீது ‘கிளேமோர்‘ தாக்குதல் நடத்த திட்டம்
-
-*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/150-364679) · `ta`
-
-Information on the Clemore bombing targeting the prison bus has been exposed.
-
-Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
-
-The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
-
-This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
-
-During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
-
-However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
-
-If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
-
-...
-
-[Data](articles/0c770556.json)
-
-[Extended Data](ext_articles/0c770556.ext.json)
-
----
-
-### Clemore's attack on prison bus
-
-*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/175-364679) · `ta`
-
-Information on the Clemore bombing targeting the prison bus has been exposed.
-
-Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
-
-The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
-
-This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
-
-During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
-
-However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
-
-If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
-
-...
-
-[Data](articles/3694b4a0.json)
-
-[Extended Data](ext_articles/3694b4a0.ext.json)
-
----
-
-### Profession of the Electrical Engineering Association escalates
-
-*2025-09-16 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214626) · `si`
-
-The Ceylon Electricity Board (CEB) Executive Committee Member Dhanushka Parakrakarakka Parakasusinghe said that the Ceylon Electricity Board (CEB)
-
-He said that the first course of action taken to work so far was over yesterday and that his union has decided to take up its second step since today.
-
-However, he said that the public measures would not be expected to embarrass the people due to the professional measures.
-
-Accordingly, the involvement of tender committees is informed of other committees, in addition to the work in the future.
-
-He also decided to report sick leave for tomorrow (17) and two teams on the day and tomorrow.
-
-However, he said that the professional measures would not be interrupted by any other activities or any other activities.
-
-◼️
-
-[Data](articles/f96269e5.json)
-
-[Extended Data](ext_articles/f96269e5.ext.json)
 
 ---

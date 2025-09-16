@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 16:53:58**
+As of **2025-09-16 16:09:10**
 
 ## Newspaper Stats
 
-*Scraped **76,326** Articles*
+*Scraped **76,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,103 +16,39 @@ economynextcom | 4,618
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,411
+adalk | 7,410
 adaderanalk | 9,840
-tamilmirrorlk | 11,432
+tamilmirrorlk | 11,431
 virakesarilk | 12,430
-adaderanasinhalalk | 13,318
+adaderanasinhalalk | 13,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,200 (95.9%) of 76,326 articles have been extended.
+73,187 (95.9%) of 76,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### Angika Rum amend the Sri Lanka Press Council Act
-
-*2025-09-16 16:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பத்திரிகைப்-பேரவைச்-சட்டத்தைத்-திருத்த-அங்கிகா-ரம்/175-364709) · `ta`
-
-The Cabinet approved by President Anura Kumara Dissanayake has been approved by President Anura Kumara Dissanayake to amend the Sri Lanka Press Association No. 05 of 1973.
-
-The idea submitted by Minister of Health and Media Media Nalinda Jayatissa has been approved.
-
-The Sri Lanka Press Act No. 05 of 1973 was not upgraded to the time of contemporary social and cultural tendencies.
-
-With the development of contemporary communication technology, there is a rapid spread of television, website and social media networks, beyond the newspaper and radio.
-
-So, on the lives of the people on the main impacts. Accordingly, after any newspaper news, after sound/broadcasting through any electronic media,
-
-During the inquiry by the press conference, the results of the inquiry, the results of the inquiry, the results of the issue, and the issuance of the Investigation/Recognition of the Investigation, the Electronic Release/Media/Magazines/Magazines/Magazines/Magazines, etc., etc. Provided by the accompanying.
-
-◼️
-
-[Data](articles/cd390edb.json)
-
-[Extended Data](ext_articles/cd390edb.ext.json)
-
----
-
-### Smpery Mandana again is the number one
-
-*2025-09-16 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214642) · `si`
-
-Indian group Madana has been able to take the lead in the ICC Women's Battle Rankn.
-
-She has been able to lead the rankings on skills shown in the tournament against Australia.
-
-Previously, England's leader Nat sciver-brunt ICC was the leading in one day batting batshibication.
-
-◼️
-
-[Data](articles/2c72f7f5.json)
-
-[Extended Data](ext_articles/2c72f7f5.ext.json)
-
----
-
-### Although not on the bridge, her body's hand bag is on the bridge
-
-*2025-09-16 15:52:12* · [`adalk`](https://www.ada.lk/breaking_news/පාලම-මතින්-ඟගට-නොපැන්නත්-ඇගේ-සිරුර-ග‌ඟේ-අත්-බෑගය-පාලම-උඩ/11-418535) · `si`
-
-The body of a woman who was killed in the Mahaweli River near the Paradiya Police Division was found in a suspicious woman in the Mahaweli River near the Debmbaya Balama.
-
-The deceased is Nissanka Mudiyiyansehi (52) and identified as an unmarried woman employed at the Delthota.
-
-A group of police officers who were traveling near the Gambala Bridge around 11 pm and had taken a delegation of a woman on the bridge.
-
-Police investigations have revealed that the deceased woman had not jumped on the bridge in the bridge, police investigations are conducting further investigations.
-
-◼️
-
-[Data](articles/965ea19b.json)
-
-[Extended Data](ext_articles/965ea19b.ext.json)
-
----
-
-### Inmates killed in Kalutara prison
+### කළුතර බන්ධනාගාරයේ රැඳවියෙක් මරුට
 
 *2025-09-16 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214641) · `si`
 
-The inmate has died, who is being treated with injuries and injuring the Kalutara Prison in the Kalutara Prison.
+කළුතර බන්ධනාගාරයේ බෝ ගසට නැග බිමට පැන තුවාල ලබා ප්‍රතිකාර ලබමින් සිටී රැඳවියෙකු මියගොස් ඇති බව කළුතර උතුර පොලීසිය පවසයි.
 
-The deceased has been identified as Sampkaduwawa, a detainee named Sampkaduwa.
+මෙසේ මියගොස් ඇත්තේ කළුතර වස්කඩුව ප්‍රදේශයේ පදිංචිව සිටී සම්පත් මෙන්ඩිස් නමැති රැඳවියෙකු බව සඳහන් ය.
 
-On July 21, July 21st while the deceased was charged with drugs and jailed on July 21.
+මියගොස් ඇති රැඳවියා මත්කුඩු සම්බන්ධයෙන් චෝදනා ලැබ බන්ධනාගාරගතව සිටියදී ඉකුත් ජුලි 21 වනදා මෙලෙස බන්ධනාගාර පරිශ්‍රයේ ඇති බෝ ගසට නැඟ ඉන් බිමට පැන තිබුණි.
 
-He was admitted to the Nagoda hospital for treatment and remanded after healing.
+ඒ අනුව ඔහුව ප්‍රතිකාර සඳහා නාගොඩ රෝහලට ඇතුළත් කර තිබූ අතර සුවවීමෙන් පසු නැවත බන්ධනාගාරගත කර තිබුණි.
 
-However, the inmate has been taken back to the resurgence of the intentional situation and the inmate has died yesterday.
+කෙසේවෙතත් අදාළ රැඳවියාගේ රෝගී තත්ත්වය නැවත උත්සන්නවීමෙන් යළිත් රෝහල්ගත කර තිබෙන අතර ඊයේ (15) රාත්‍රියේ රැඳවියා මියගොස් තිබේ.
 
 ◼️
 
 [Data](articles/d6332d13.json)
-
-[Extended Data](ext_articles/d6332d13.ext.json)
 
 ---
 
@@ -514,21 +450,19 @@ The arrested Chinese national has been handed over to the tourist police connect
 
 ---
 
-### Reduce the travel study in the bata roundabout
+### ලෝටස් වටරවුමේ ට්‍රැෆික් අඩු කරන්න ශක්‍යතා අධ්‍යනයක්
 
 *2025-09-16 13:55:18* · [`adalk`](https://www.ada.lk/breaking_news/ලෝටස්-වටරවුමේ-ට්‍රැෆික්-අඩු-කරන්න-ශක්‍යතා-අධ්‍යනයක්/11-418528) · `si`
 
-To reduce feasibility study to minimize the high traffic congestion in Lotus Roundabout
+කොළඹ ලෝටස් වටරවුම ආශ්‍රිතව පවතින අධික රථවාහන තදබදය අවම කිරීම වෙනුවෙන් ශක්‍යතා අධ්‍යයක් සිදු කිරීමට
 
-Cabinet approval has been approved. It is expected to find a consulting service.
+කැබිනට් අනුමැතිය ලැබී තිබේ. මේ හරහා උපදේශන සේවා ආයතනයක් සොයා ගැනීමට නියමිතය.
 
-Meanwhile, the cabinet paper, the Minister of Transport and Civil Aviation has been approved using the construction of the local funds.
+මේ අතර ගැටඹේ ගුවන් පාලමේ ඉදිකිරීම් දේශීය අරමුදල් යොදා ගෙන නැවත ආරම්භ කිරීමටද ප්‍රවාහන හා සිවිල් ගුවන් සේවා අමාත්‍යවරයා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබී තිබේ.
 
 ◼️
 
 [Data](articles/4635419c.json)
-
-[Extended Data](ext_articles/4635419c.ext.json)
 
 ---
 
@@ -546,29 +480,21 @@ Cabinet approval has been approved to appoint a committee consisting of several 
 
 ---
 
-### Sergeants, drunk duties, are in the hands of OIC
+### බීමතින් රාජකාරී කළ සැරයන් ඕඅයිසීගේ අතටම හසුවෙයි
 
 *2025-09-16 13:48:23* · [`adalk`](https://www.ada.lk/breaking_news/බීමතින්-රාජකාරී-කළ-සැරයන්-ඕඅයිසීගේ-අතටම-හසුවෙයි/11-418527) · `si`
 
-Anamaduwa had taken place after the police sergeant was taken into custody by the police officer in the area of ​​the Anamaduwa Police Station, following the latter of the Anamaduwa Ordinance.
+ආණමඩුව තෝනිගල පොලිස් මාර්ග බාධකයේ බිමතින් රාජකාරි කල පොලිස් සැරයන් වරයකු එම මාර්ග බාධකය හදිසි පරික්ෂාවකට ලක්කල ආණමඩුව පොලිස්ථානාධිපතිවරයාගේ අතටම අසුවිමේන් පසු පොලිස් භාරයට  ගෙන වෛද්‍ය පරික්ෂණ සදහා යොමු කිරීමට 15 දින සවස කටයුතු කර තිබුුු.ණි
 
-The 59 year old residents of the Kurunegala, who was attached to the Anamaduwa Police Station, has been attached to the Anamaduwa Police Station.
+මෙලෙස බිමතින් රාජකාරි වල නිරතව ඇත්තේ ආණමඩුව පොලිස්ථානයට අනුයුක්තව තෝනිගල මාර්ග බාධකයේ රාජකාරි වල යොදවා සිටි අවුරුදු 59 ක්  පමන වයසැති කුරුණැගල ප්‍රදේශයෙ පදිංචි විවාහක පොලිස් සැරයන්වරයකු බව කියයි.
 
-It is said that the police sergeant has been attached to the Anamaduwa Police Station.
+අදාල පොලිස් සැරයන්වරයා මාස කිපයකට පෙර ආණමඩුව පොලිස්ථානයට අනුයුක්ත කර ඇති අතර ඉන් පසු විවිධ රාජකාරි සදහා යොදවා සිට ඇති බවත් 15 දින තෝනිගල මාර්ග බාධකයට රාජකාරි සදහා යොමු කර සිටි බවද පැවසෙයි.
 
-However, there is a billion of duty and thereafter in the duties of the police station.
+කෙසේ නමුත් එම රාජකාරියට පැමින ඇත්තේද බිමතින් බවද ඉන් පසුව බීමත් රාජකාරි වල යෙදි ඇති බවද කියයි.පසුව අදාල පොලිස් මාර්ග බාධකය ආණමඩුව පොලිස්ථානාධිපතිවරයා හදිසි පරික්ෂාවකට ලක්කර ඇත්තේ 15 දින සවසය.
 
-The sergeant has not even been drinking the police sergeant to even carrying the police sergeant.
-
-Medical reports have confirmed that it was drunk at the medical test. Later, the inquiry commenced on the instructions of the Assistant Superintendent of Police of Anamaduwa.
-
-However, the Anaamaduwa Assistant Superintendent of Anamaduwa was working to commence investigations into the police officer.
-
-◼️
+...
 
 [Data](articles/3ca6819b.json)
-
-[Extended Data](ext_articles/3ca6819b.ext.json)
 
 ---
 
@@ -2043,5 +1969,63 @@ A total of 198,235 foreign nationals visited the country in August which was an 
 [Data](articles/f4cbff17.json)
 
 [Extended Data](ext_articles/f4cbff17.ext.json)
+
+---
+
+### The sky is weighing
+
+*2025-09-16 07:57:21* · [`adalk`](https://www.ada.lk/breaking_news/අහස-වළාකුළින්-බර-වෙයි/11-418518) · `si`
+
+The sky of the northern, northern-dimensional, eastern, Eastern, Uva and Central provinces remain burdensome from the desires.
+
+Several spells of showers can also occur in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+In the Uva and Eastern Provinces, Mullaitivu District. Showers at around the place about 1.00
+
+◼️
+
+[Data](articles/5ee20def.json)
+
+[Extended Data](ext_articles/5ee20def.ext.json)
+
+---
+
+### Nepal’s deadly protests hammer tourism sector as arrivals fall 30%
+
+*2025-09-16 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112549/nepals-deadly-protests-hammer-tourism-sector-as-arrivals-fall-30) · `en`
+
+Nepal’s deadliest protests in decades erupted just as the country entered its peak tourist season, dealing a blow to businesses that had been preparing to welcome trekkers from around the globe to experience its world-famous trails.
+
+Shops, pubs and restaurants lining the neatly organized alleys of places like Thamel — Kathmandu’s bustling tourist hub — remained largely deserted, even after reopening in the aftermath of a violent anti-corruption protest that left 72 dead over 2,000 injured and forced former prime minister K.P. Sharma Oli to resign.
+
+Nepal’s tourism authority, hotel owners and trek organisers said arrivals had fallen by 30% from this time last year, leading to bookings being cancelled.
+
+“I am sitting outside idle because there are no tourists ... Many groups have cancelled in September,” said 49-year-old Ram Chandra Giri, who arranges trekking expeditions and owns a Japanese restaurant.
+
+...
+
+[Data](articles/c69ab2fd.json)
+
+[Extended Data](ext_articles/c69ab2fd.ext.json)
+
+---
+
+### Sri Lanka High Commission to Britain meets with Speaker
+
+*2025-09-16 07:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225189) · `ta`
+
+Sri Lankan High Commissioner to Britain. The Sri Lankan National Flag was mounted in front of the General Assembly building to commemorate the meeting between Speaker Sir Lindsay and the High Commissioner, said the Sri Lankan High Commission in Britain.
+
+The Sri Lankan High Commission further stated that it was discussed between the two of Sri Lanka and British bilateral relations in key sectors such as trade, investment, tourism education and relationships between the two countries.
+
+High Commissioner Senadheera, MP. Recalling the recent visit to Sri Lanka, the British parliamentary delegation led by Yasmin Qureshi, explained to the Speaker the continued parliamentary cooperation between the two countries.
+
+The meeting has been reported to have ended with a positive reference. The Sri Lankan High Commission further stated that both sides have reiterated their commitment to further strengthen the long -term friendship between Sri Lanka and Britain.
+
+◼️
+
+[Data](articles/46938a22.json)
+
+[Extended Data](ext_articles/46938a22.ext.json)
 
 ---

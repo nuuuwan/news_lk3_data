@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 22:10:25**
+As of **2025-09-16 23:20:26**
 
 ## Newspaper Stats
 
-*Scraped **76,374** Articles*
+*Scraped **76,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,174 @@ islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,419
-adaderanalk | 9,847
+adaderanalk | 9,849
 tamilmirrorlk | 11,435
-virakesarilk | 12,442
-adaderanasinhalalk | 13,326
+virakesarilk | 12,445
+adaderanasinhalalk | 13,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,416 (96.1%) of 76,374 articles have been extended.
+73,455 (96.2%) of 76,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### ඉදිරි අයවැය සඳහා වාහන ආනයනකරුවන්ගෙන් යෝජනා කිහිපයක්
+### ஒதுக்கீட்டு சட்ட மூலத்தை பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கு அமைச்சரவை அங்கீகாரம்
+
+*2025-09-16 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225267) · `ta`
+
+2026ஆம் ஆண்டுக்கான ஒதுக்கீட்டுச் சட்டமூலத்தை பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கான முழுமையான கால அட்டவணைக்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது. இச்சட்டமூலத்தை வர்த்தமானியில் வெளியிடுவதற்கும் கடந்த 2025 செப்டெம்பர் 8ஆம் திகதி அமைச்சரவை அங்கீகாரம் வழங்கியிருந்தது.
+
+பிரதமரின் அலுவலகத்தால் தயாரிக்கப்பட்ட 2026ஆம் ஆண்டுக்கான வரவுசெலவுத் திட்டம் குறித்த பாராளுமன்ற அமர்வுகளின் அட்டவணைக்கமைய இந்த சட்டமூலத்தின் முதலாம் வாசிப்பு எதிர்வரும் 26ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும்.
+
+இரண்டாம் வாசிப்பு மற்றும் வரவுசெலவுத் திட்ட உரை நவம்பர் 7ஆம் திகதி நடைபெறும். இரண்டாம் வாசிப்பு மீதான விவாதம் நவம்பர் 8ஆம் திகதி முதல் நவம்பர் 14ஆம் திகதி வரை ஒரு வார காலத்திற்கு நடைபெறும்.
+
+மூன்றாம் வாசிப்பு மீதான விவாதம் நவம்பர் 15ஆம் திகதி முதல் டிசம்பர் 5ஆம் திகதி வரை நடைபெறும். இறுதி வரவுசெலவுத் திட்ட வாக்கெடுப்பு 2025 டிசம்பர் 5ஆம் திகதி இடம்பெறும் என அமைச்சரவை பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/87673d51.json)
+
+---
+
+### Tipper vehicle Woman hurt!
+
+*2025-09-16 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225266) · `ta`
+
+A woman has been injured and a woman has been injured when the accident occurred on the Vavuniya Korawapothana road.
+
+Pedestrians in front of the Vavuniya Daily Market Building took place at 8.30 pm near the Pedes' Kadu.
+
+The woman who went on a motorcycle stands on the roadside ready to leave. The tipper vehicle, which was traveling from the hospital surrounding the hospital, collided with him.
+
+Eyewitnesses said that the driver of the yellow color tipper, which caused the accident, had not stopped the vehicle.
+
+◼️
+
+[Data](articles/0a29c44c.json)
+
+[Extended Data](ext_articles/0a29c44c.ext.json)
+
+---
+
+### Special Mediation Boards for financial disputes to be established – Minister of Justice
+
+*2025-09-16 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112586/special-mediation-boards-for-financial-disputes-to-be-established-minister-of-justice) · `en`
+
+Minister of Justice and National Integration Harshana Nanayakkara stated that measures will be taken to establish special mediation boards (Samatha Mandala) for financial disputes with the aim of reducing the number of such cases brought before the courts.
+
+Under the first phase, special mediation boards dedicated to financial disputes will be established in the districts of Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Monaragala, Minister Nanayakkara said.
+
+He expressed these remarks while participating in a program held at the Mediation Boards Commission on the occasion of the 2025 National Mediation Boards Day.
+
+...
+
+[Data](articles/e18a722d.json)
+
+---
+
+### Sri Lanka targets Indian wedding market with multi-city shows
+
+*2025-09-16 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112585/sri-lanka-targets-indian-wedding-market-with-multi-city-shows) · `en`
+
+Sri Lanka Tourism is aiming to attract the growing Indian wedding market and recently organised multi-city luxury wedding shows across the country for the first time, seeking to position Sri Lanka as a wedding destination for Indian couples, covering cities including Ahmedabad, Mumbai and New Delhi.
+
+Fourteen Sri Lankan exhibitors, including wedding planners and hotels, took part in the shows to engage directly with Indian travel agents, wedding planners and other stakeholders.
+
+“Traditionally, our southern province destinations like Bentota, Hambantota and Weligama have been popular for Indian weddings which have the presence of hotels such as Hilton and Shangri-La that can accommodate large gatherings. However, we are now also promoting emerging destinations like Trincomalee, Pasikudah and Arugam Bay for Indian weddings,” said Buddhika Hewawasam, chairman of the Sri Lanka Tourism Promotion Bureau (SLTPB), while speaking to TTG Asia during the Delhi edition of the wedding shows.
+
+...
+
+[Data](articles/ecfb9305.json)
+
+---
+
+### Court orders Panadura Nilate Banking Reports
+
+*2025-09-16 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214653) · `si`
+
+The Colombo Magistrate's Court today (16) permitted the CID today to call for a report on the bank accounts of Panadura Nilangitiya.
+
+Colombo Chief Magistrate Asanka S.. The order was issued by Bodaragama.
+
+The Criminal Investigation Department (CID) has received a large number of bank accounts with a large number of bank accounts.
+
+The police pointed out that the investigation into the drug trafficking and other crimes performed by the suspect.
+
+Accordingly, the Chief Magistrate issued the orders were issued to the Criminal Investigation Department to issue the two bank accounts and issue the bank accounts to call for reports.
+
+◼️
+
+[Data](articles/7cc5cff1.json)
+
+[Extended Data](ext_articles/7cc5cff1.ext.json)
+
+---
+
+### Yall. Municipal Council not paying electricity bills of fish market
+
+*2025-09-16 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225265) · `ta`
+
+Fish traders faced great difficulties as the electricity of the fish market, which is under Jaffna Municipal Council, was cut off today.
+
+Municipal Council failed to pay electricity bills to the Electricity Board today afternoon. The fishermen faced the difficulty of selling their fish.
+
+Fish traders faced great difficulties without being able to sell night fish, unable to use digital installation scales and wash the water market by motor.
+
+As the Member of Parliament Ilangumaran was brought to the notice of the parliament, the Member of Parliament contacted the Electricity Board and returned the electricity connection.
+
+Fishermen have accused the Municipal Council of failing to repair the basic amenities of the market and pay electricity bills, including shops set up at the Nallur festival for the Jaffna Municipal Council.
+
+◼️
+
+[Data](articles/3fd02971.json)
+
+[Extended Data](ext_articles/3fd02971.ext.json)
+
+---
+
+### Several proposals of vehicle importers for the next budget
 
 *2025-09-16 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214652) · `si`
 
-බැංකු, මූල්‍ය සහ රක්ෂණ ක්ෂේත්‍ර සම්බන්ධ පූර්ව අයවැය සාකච්ඡාවක් කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී අද (16) පස්වරුවේ පැවැත්වුණි.
+A pre-Budgetary discussion on banks, financial and insurance areas, the Minister of Labor and Economic Development Dr. Anil Jayantha Fernando was held at the Presidential Secretariat today (16).
 
-මෙරට ආර්ථික වර්ධන ඉලක්ක සපුරා ගැනීමට ජනාධිපතිවරයා ප්‍රමුඛ රජය ආරම්භ කර ඇති වැඩපිළිවෙළට බැංකු ක්ෂේත්‍රයේ සහාය ලබාදීම පිළිබඳ මෙහිදී පුළුල් ලෙස සාකච්ඡා කෙරුණු අතර, ඊට අදාළ අදහස් සහ යෝජනාද ඉදිරිපත් කෙරිණි.
+It was widely discussed on providing the banking sector to meet the Sri Lankan government led by the President, and the comments and proposals were also present.
 
-ඩිජිටල්කරණ වැඩපිළිවෙළ මගින් බැංකු හා මූල්‍ය ක්ෂේත්‍රයේ කාර්යක්ෂමතාව ඉහළ නැංවීම,  සුළු සහ මධ්‍ය පරිමාණ ව්‍යවසායකයන් ඉලක්ක කර ගනිමින් ක්‍රියාත්මක වැඩපිළිවෙළ පුළුල් කිරීම සහ නව රක්ෂණ ක්‍රම හඳුන්වාදීම ආදිය පිළිබඳව මෙහිදී විශේෂ අවධානය යොමුවිය.
+The digital program focused on expanding the program of banking and financial sector, expanding the program and introducing new insurance schemes.
 
-මෙම සියලු යෝජනා පිළිබඳ ඉදිරි අයවැයේදී අවධානය යොමු කරන බව කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා මෙහිදී සඳහන් කළේය.
+Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando stated that he focuses on all these proposals.
 
-රක්ෂණ ක්ෂේත්‍රයේ පාර්ශ්වකරුවන් හට පූර්ව අයවැය සාකච්ඡාවකට ආරාධනා කළ පළමු අවස්ථාව මෙය බව මෙහිදී සඳහන් කළ එම පාර්ශ්වකරුවෝ එම ආරාධනාව සම්බන්ධයෙන් රජයට සිය ප්‍රසාදය පළ කර තිබුණි.
+The partners who were invited to a preliminary budget discussion in the insurance industry have been invited to the government on the invitation.
 
 ...
 
 [Data](articles/3ff568dc.json)
 
+[Extended Data](ext_articles/3ff568dc.ext.json)
+
 ---
 
-### ”ராஜபக்சேக்கள் அரசியல் பழிவாங்கலுக்கு இலக்காகியுள்ளனர்”
+### “Rajapaksa is aimed at political revenge”.
 
 *2025-09-16 21:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்சேக்கள்-அரசியல்-பழிவாங்கலுக்கு-இலக்காகியுள்ளனர்/175-364727) · `ta`
 
-கடந்த பத்தாண்டுகளில் ராஜபக்ச குடும்பத்தினருக்கு எதிராக சுமத்தப்பட்ட அனைத்து குற்றச்சாட்டுகளின் மொத்த மதிப்பு, வர்த்தக அமைச்சர் வசந்த சமரசிங்கவின் பிரகடனப்கடுத்தப்பட்ட சொத்துக்களுக்கு அருகில் கூட வரவில்லை என்று யாழ்ப்பாண மாவட்ட அமைப்பாளரும், SLPP உறுப்பினருமான ஜி. காசிலிங்கம் கூறியுள்ளார்.
+Jaffna district organizer and SLPP member G.. Said Kasilingam.
 
-X இல் ஒரு பதிவில், ராஜபக்சக்கள் "அரசியல் பழிவாங்கலுக்கு" இலக்காகிவிட்டதாகவும், அவர்கள் வெளிநாடுகளில் மறைத்து வைக்கப்பட்ட செல்வத்தையும் சொத்துக்களையும் வைத்திருப்பதாக மீண்டும் மீண்டும் குற்றச்சாட்டுகள் எழுந்துள்ளதாகவும் காசிலிங்கம் கூறினார்.
+In a post in X, Kasilingam said that the Rajapaksas have been targeted for “political revenge” and that they have repeated allegations that they have wealth and property hidden abroad.
 
-இதுபோன்ற வழக்குகள் தள்ளுபடி செய்யப்பட்டமை அல்லது ஒத்திவைக்கப்பட்டமை இக் குற்றச்சாட்டுகளை "அரசியல் சூழ்ச்சி" என்பதை விட சற்று அதிகமாகவே காட்டுகிறது என்றார்.
+He said that the dismissal or postponed of such cases shows these allegations a little more than "political maneuvering".
 
-பொதுமக்களின் கோபம் ராஜபக்சேக்களுக்கு எதிரான நிரூபிக்கப்படாத குற்றச்சாட்டுகளின் மூலம் "தந்திரமாக தவறாக வழிநடத்தப்படுகிறது" என்று காசிலிங்கம் வாதிட்டார், "உண்மையான வீரர்கள் திரைக்குப் பின்னால் செயல்படுகிறார்கள்" என்றார்.
+Casilingam argued that the anger of the public was "misleading" by unproven allegations against Rajapakse, and said, "The real players are working behind the scenes."
 
 ◼️
 
 [Data](articles/b9623fb4.json)
+
+[Extended Data](ext_articles/b9623fb4.ext.json)
 
 ---
 
@@ -88,19 +206,25 @@ Meanwhile, Minister of Transport, Highways, Ports, and Civil Aviation Bimal Rath
 
 [Data](articles/14afc98b.json)
 
+[Extended Data](ext_articles/14afc98b.ext.json)
+
 ---
 
-### வங்கி, நிதி மற்றும் காப்புறுதித் துறைகள் தொடர்பான வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடல்
+### Budget preliminary discussion on banking, financial and insurance sectors
 
 *2025-09-16 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225264) · `ta`
 
 வங்கி, நிதி மற்றும் காப்புறுதித் துறைகள் தொடர்பான வரவு செலவுத் திட்ட பூர்வாங்கக்  கலந்துரையாடல் இன்று (16) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் கலாநிதி அனில் ஜயந்த பெர்னாண்டோ தலைமையில் இடம்பெற்றது.
 
-இந்நாட்டின் பொருளாதார வளர்ச்சி இலக்குகளை அடைவதற்காக ஜனாதிபதி தலைமையிலான அரசாங்கத்தினால் ஆரம்பிக்கப்பட்ட வேலைத்திட்டத்திற்கு வங்கித் துறையின் ஆதரவை வழங்குதல் பற்றி இங்கு விரிவாக கலந்துரையாடப்பட்டதுடன், அது தொடர்பான ஆலோசனைகளும் பரிந்துரைகளும்  முன்வைக்கப்பட்டன.
+It was extensively discussed with the support of the banking department to provide the support of the banking department to the President -led government's program to achieve the economic development goals of the country and suggestions and recommendations were made.
+
+Increasing the performance of the banking and financial sector through the digitalization program, expanding the project implemented by small and middle -class entrepreneurs, and introducing new insurance systems.. Dr. Anil Jayantha Fernando, Minister of Labor and Deputy Minister of Economic Development, said that all these proposals will be focused on the upcoming budget.
 
 ...
 
 [Data](articles/ea092c74.json)
+
+[Extended Data](ext_articles/ea092c74.ext.json)
 
 ---
 
@@ -1921,131 +2045,5 @@ The implementation, which was carried out under the Electronic Transactions Act 
 [Data](articles/91ed8580.json)
 
 [Extended Data](ext_articles/91ed8580.ext.json)
-
----
-
-### Sri Lanka Customs Sitigate
-
-*2025-09-16 12:10:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-රේගුව-සරුවෙයි/11-418524) · `si`
-
-The following is the following 825, the Sri Lanka Customs revenue Rs. 1,471 billion in 8 months.
-
-200 billion of Rs. 231 billion in June this year and Rs. 244 billion in August Rs. 244 billion. They say this is a rapid rate of last year. (I J)
-
-◼️
-
-[Data](articles/c05a12e8.json)
-
-[Extended Data](ext_articles/c05a12e8.ext.json)
-
----
-
-### Six lost in human traffickers to be taken into custody
-
-*2025-09-16 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214630) · `si`
-
-Six persons who suspect is lost by human traffickers have been taken into custody in the Talaimannar coastal areas.
-
-The group was taken into custody during a special operation conducted on the 13th.
-
-The human traffickers have been illegally brought to Sri Lanka by the Sri Lankan sea to Sri Lanka.
-
-They have been residents of Vavuniya, Madhu and Kokkadichle areas agent between eight and 56 years.
-
-It is reported that they have been dejected and severely disturbed when they were taken to the Navy.
-
-They were handed over to Talaimannar Police for further legal.
-
-◼️
-
-[Data](articles/2208b00e.json)
-
-[Extended Data](ext_articles/2208b00e.ext.json)
-
----
-
-### Former SSP too further remanded
-
-*2025-09-16 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214629) · `si`
-
-The former Superintendent of Police Saturnar Shalm Gamage was remanded until the 30th of this month.
-
-The court issued the court, refusing to request the bail of the suspect.
-
-◼️
-
-[Data](articles/c7a2519e.json)
-
-[Extended Data](ext_articles/c7a2519e.ext.json)
-
----
-
-### ADB’s new procurement rules to require merit point criteria from 2026
-
-*2025-09-16 12:00:00* · [`economynextcom`](https://economynext.com/adbs-new-procurement-rules-to-require-merit-point-criteria-from-2026-240722/) · `en`
-
-ECONOMYNEXT – All internationally advertised contracts financed by the Asian Development Bank (ADB) will be evaluated using merit point criteria (MPC) from 1 January 2026, the international lender said.
-
-“The cheapest bridge is not a bargain if it needs rebuilding in ten years. Quality infrastructure lasts generations. It creates jobs today and opportunities tomorrow,” ADB President Masato Kanda said announcing the procurement reforms at the ADB Business Opportunities Fair.
-
-This is part of a procurement approach that will also introduce broader changes to create more local jobs and increase early engagement with suppliers across Asia and the Pacific.
-
-MPC applies weighted scoring to factors such as quality, experience, technical capability, and innovation, together with proposals to increase local participation and safeguard the environment, ADB said.
-
-“This ensures that contracts are awarded to bidders capable of delivering sustainable results and long-term development impact.
-
-...
-
-[Data](articles/f3d3216a.json)
-
-[Extended Data](ext_articles/f3d3216a.ext.json)
-
----
-
-### Six Sri Lankans abandoned in seas off Talaimannar by traffickers rescued
-
-*2025-09-16 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112563/six-sri-lankans-abandoned-in-seas-off-talaimannar-by-traffickers-rescued) · `en`
-
-The Sri Lanka Navy has taken hold of six Sri Lankans, who were abandoned in seas off Talaimannar by human traffickers.
-
-The group was illegally transported by sea from India and subsequently deserted in the sea area off Sand Dunes, Talaimannar, the Navy stated.
-
-The Navy stated that acting on credible information received by SLNS Thammanna of the North Central Naval Command, a search was carried out in the Sand Dune sea area of Talaimannar.
-
-The operation led to the discovery of the individuals on a remote Sand Dune, where they had been abandoned by human smugglers.
-
-The group was found to be suffering from severe dehydration, the Navy stated.
-
-The individuals, aged between eight and 56 are residents of Vavuniya, Madhu, and Kokkadicholai.
-
-The group has been subsequently handed over to the Talaimannar Police for further legal proceedings.
-
-◼️
-
-[Data](articles/acc382d0.json)
-
-[Extended Data](ext_articles/acc382d0.ext.json)
-
----
-
-### Acting Director of Police Cultural Division SSP Sathish Gamage further remanded
-
-*2025-09-16 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112562/acting-director-of-police-cultural-division-ssp-sathish-gamage-further-remanded) · `en`
-
-The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 30, Ada Derana reporter said.
-
-The Colombo Magistrate’s Court ordered the further remand of the SSP, who was taken into custody under the provisions of the Prevention of Money Laundering Act.
-
-Colombo Chief Magistrate Asanka S. Bodaragama also rejected the suspect’s bail application, said Ada Derana reporter.
-
-The Magistrate issued the order after considering the facts presented by officials of the Bribery Commission and the defense counsel representing the suspect.
-
-SSP Sathish Gamage was arrested and produced before court by the Bribery Commission in connection with allegations of accepting bribes amounting to approximately Rs. 14 million from drug traffickers, organized criminals, and members of the public seeking services from police.
-
-◼️
-
-[Data](articles/db9de6d6.json)
-
-[Extended Data](ext_articles/db9de6d6.ext.json)
 
 ---

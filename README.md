@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 02:07:14**
+As of **2025-09-17 01:56:12**
 
 ## Newspaper Stats
 
-*Scraped **76,385** Articles*
+*Scraped **76,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,18 @@ dailyftlk | 5,409
 adalk | 7,421
 adaderanalk | 9,850
 tamilmirrorlk | 11,436
-virakesarilk | 12,446
+virakesarilk | 12,445
 adaderanasinhalalk | 13,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,499 (96.2%) of 76,385 articles have been extended.
+73,499 (96.2%) of 76,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### ஆப்கானிஸ்தானை 8 ஓட்டங்களால் வீழ்த்திய பங்களாதேஷ் அணி
-
-*2025-09-17 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225268) · `ta`
-
-அபுதாபியில் 16ஆம் திகதி இரவு நடைபெற்ற ஆசிய கிண்ண கிரிக்கெட் போட்டியில் பங்களாதேஷ் அணி, ஆப்கானிஸ்தானை 8 ஓட்டங்கள் வித்தியாசத்தில் வெற்றி பெற்றது.
-
-முதலில் துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 20 ஓவர்களில் 5 விக்கெட்டுகளை இழந்து 154 ஓட்டங்களை பெற்றது.
-
-பதில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி பங்களாதேஷ் அணியின் வேகப்பந்து வீச்சாளர்களை சமாளிக்க முடியாமல் 146 ஓட்டங்களை மட்டுமே பெற்று தோல்வியடைந்தது.
-
-◼️
-
-[Data](articles/88037305.json)
-
----
 
 ### Swords at liquor: two injured
 
@@ -2041,5 +2025,27 @@ The injured have been admitted to Atalangoda and Ratnapura hospital while Kiriel
 [Data](articles/df4e2fa5.json)
 
 [Extended Data](ext_articles/df4e2fa5.ext.json)
+
+---
+
+### The Southern Province has become the province of all public services in Sri Lanka
+
+*2025-09-16 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225221) · `ta`
+
+All District and Divisional Secretariats of the Southern Province have no longer started offering services through the Govpay Digital payment platform. With this, the Southern Province has made history as the first province of Sri Lanka to join Govpay.
+
+At a function held at the Matara District Secretariat yesterday (15), 3 District Secretariats and 53 Divisional Secretariats were incorporated into the Govpay site at a function chaired by Digital Economic Minister Eranga Weeratne.
+
+This will enable public banks' Internet Bank/Mobile Bank portals or Fintech applications connected to Govpay safely anywhere.
+
+Members of Parliament including Akram Iliyas, Lal Premadilaka, Harsha Prasinghe and Lanka CEO Sanna de Silva were present at the event.
+
+“As a province, the Southern Province joined Govpay is the main improvement for the public service that has completely digitized the country. This will increase the confidence of the public. ”
+
+...
+
+[Data](articles/a1180974.json)
+
+[Extended Data](ext_articles/a1180974.ext.json)
 
 ---

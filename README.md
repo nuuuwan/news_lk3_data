@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 22:37:15**
+As of **2025-09-16 22:10:25**
 
 ## Newspaper Stats
 
-*Scraped **76,375** Articles*
+*Scraped **76,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,77 +20,53 @@ adalk | 7,419
 adaderanalk | 9,847
 tamilmirrorlk | 11,435
 virakesarilk | 12,442
-adaderanasinhalalk | 13,327
+adaderanasinhalalk | 13,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,425 (96.1%) of 76,375 articles have been extended.
+73,416 (96.1%) of 76,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### පානදුර නිලංගගේ බැංකු ගිණුම් වාර්තා කැඳවීමට නියෝග
-
-*2025-09-16 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214653) · `si`
-
-අත්අඩංගුවට ගෙන මේ වනවිට රැඳවුම් භාරයට පත්කර සිටින පානදුරේ නිලංග නමැත්තාගේ බැංකු ගිණුම් පිළිබඳ වාර්තාවක් කැඳවීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අවසර ලබාදුනි.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස්. බෝදරගම මහතා විසින් මෙම නියෝගය නිකුත් කළේය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට වාර්තාවක් ඉදිරිපත් කරමින්, වනවිට රඳවාගෙන ප්‍රශ්න කරනු ලබන මෙම සැකකරුගේ බැංකු ගිණුම් දෙකක් හරහා විශාල වශයෙන් මුදල් සංසරණය වී ඇති බවට තොරතුරු ලැබී ඇතැයි සඳහන් කළේය.
-
-මෙම සැකකරු විසින් සිදුකරනු ලබන මත්ද්‍රව්‍ය ජාවාරම් හා අනෙකුත් අපරාධ ක්‍රියා පිළිබඳව වැඩිදුර විමර්ශන සිදුකිරීම සඳහා එම බැංකු ගිණුම් දෙකේ මුදල් සංසරණය වී ඇති ආකාරය පිළිබඳ විමර්ශන සිදුකිරීමට අවශ්‍ය වී තිබෙන බවත් පොලිසිය පෙන්වා දුන්නේය.
-
-ඒ අනුව අදාළ බැංකු ගිණුම් දෙක පරීක්ෂා කර වාර්තා කැඳවීම සඳහා අදාළ බැංකු දෙකට නියෝග නිකුත් කරන ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කළ ඉල්ලීම පිළිගත් ප්‍රධාන මහේස්ත්‍රාත්වරයා අනතුරුව මෙම නියෝග නිකුත් කළේය.
-
-◼️
-
-[Data](articles/7cc5cff1.json)
-
----
-
-### Several proposals of vehicle importers for the next budget
+### ඉදිරි අයවැය සඳහා වාහන ආනයනකරුවන්ගෙන් යෝජනා කිහිපයක්
 
 *2025-09-16 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214652) · `si`
 
-A pre-Budgetary discussion on banks, financial and insurance areas, the Minister of Labor and Economic Development Dr. Anil Jayantha Fernando was held at the Presidential Secretariat today (16).
+බැංකු, මූල්‍ය සහ රක්ෂණ ක්ෂේත්‍ර සම්බන්ධ පූර්ව අයවැය සාකච්ඡාවක් කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී අද (16) පස්වරුවේ පැවැත්වුණි.
 
-It was widely discussed on providing the banking sector to meet the Sri Lankan government led by the President, and the comments and proposals were also present.
+මෙරට ආර්ථික වර්ධන ඉලක්ක සපුරා ගැනීමට ජනාධිපතිවරයා ප්‍රමුඛ රජය ආරම්භ කර ඇති වැඩපිළිවෙළට බැංකු ක්ෂේත්‍රයේ සහාය ලබාදීම පිළිබඳ මෙහිදී පුළුල් ලෙස සාකච්ඡා කෙරුණු අතර, ඊට අදාළ අදහස් සහ යෝජනාද ඉදිරිපත් කෙරිණි.
 
-The digital program focused on expanding the program of banking and financial sector, expanding the program and introducing new insurance schemes.
+ඩිජිටල්කරණ වැඩපිළිවෙළ මගින් බැංකු හා මූල්‍ය ක්ෂේත්‍රයේ කාර්යක්ෂමතාව ඉහළ නැංවීම,  සුළු සහ මධ්‍ය පරිමාණ ව්‍යවසායකයන් ඉලක්ක කර ගනිමින් ක්‍රියාත්මක වැඩපිළිවෙළ පුළුල් කිරීම සහ නව රක්ෂණ ක්‍රම හඳුන්වාදීම ආදිය පිළිබඳව මෙහිදී විශේෂ අවධානය යොමුවිය.
 
-Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando stated that he focuses on all these proposals.
+මෙම සියලු යෝජනා පිළිබඳ ඉදිරි අයවැයේදී අවධානය යොමු කරන බව කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා මෙහිදී සඳහන් කළේය.
 
-The partners who were invited to a preliminary budget discussion in the insurance industry have been invited to the government on the invitation.
+රක්ෂණ ක්ෂේත්‍රයේ පාර්ශ්වකරුවන් හට පූර්ව අයවැය සාකච්ඡාවකට ආරාධනා කළ පළමු අවස්ථාව මෙය බව මෙහිදී සඳහන් කළ එම පාර්ශ්වකරුවෝ එම ආරාධනාව සම්බන්ධයෙන් රජයට සිය ප්‍රසාදය පළ කර තිබුණි.
 
 ...
 
 [Data](articles/3ff568dc.json)
 
-[Extended Data](ext_articles/3ff568dc.ext.json)
-
 ---
 
-### “Rajapaksa is aimed at political revenge”.
+### ”ராஜபக்சேக்கள் அரசியல் பழிவாங்கலுக்கு இலக்காகியுள்ளனர்”
 
 *2025-09-16 21:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்சேக்கள்-அரசியல்-பழிவாங்கலுக்கு-இலக்காகியுள்ளனர்/175-364727) · `ta`
 
-Jaffna district organizer and SLPP member G.. Said Kasilingam.
+கடந்த பத்தாண்டுகளில் ராஜபக்ச குடும்பத்தினருக்கு எதிராக சுமத்தப்பட்ட அனைத்து குற்றச்சாட்டுகளின் மொத்த மதிப்பு, வர்த்தக அமைச்சர் வசந்த சமரசிங்கவின் பிரகடனப்கடுத்தப்பட்ட சொத்துக்களுக்கு அருகில் கூட வரவில்லை என்று யாழ்ப்பாண மாவட்ட அமைப்பாளரும், SLPP உறுப்பினருமான ஜி. காசிலிங்கம் கூறியுள்ளார்.
 
-In a post in X, Kasilingam said that the Rajapaksas have been targeted for “political revenge” and that they have repeated allegations that they have wealth and property hidden abroad.
+X இல் ஒரு பதிவில், ராஜபக்சக்கள் "அரசியல் பழிவாங்கலுக்கு" இலக்காகிவிட்டதாகவும், அவர்கள் வெளிநாடுகளில் மறைத்து வைக்கப்பட்ட செல்வத்தையும் சொத்துக்களையும் வைத்திருப்பதாக மீண்டும் மீண்டும் குற்றச்சாட்டுகள் எழுந்துள்ளதாகவும் காசிலிங்கம் கூறினார்.
 
-He said that the dismissal or postponed of such cases shows these allegations a little more than "political maneuvering".
+இதுபோன்ற வழக்குகள் தள்ளுபடி செய்யப்பட்டமை அல்லது ஒத்திவைக்கப்பட்டமை இக் குற்றச்சாட்டுகளை "அரசியல் சூழ்ச்சி" என்பதை விட சற்று அதிகமாகவே காட்டுகிறது என்றார்.
 
-Casilingam argued that the anger of the public was "misleading" by unproven allegations against Rajapakse, and said, "The real players are working behind the scenes."
+பொதுமக்களின் கோபம் ராஜபக்சேக்களுக்கு எதிரான நிரூபிக்கப்படாத குற்றச்சாட்டுகளின் மூலம் "தந்திரமாக தவறாக வழிநடத்தப்படுகிறது" என்று காசிலிங்கம் வாதிட்டார், "உண்மையான வீரர்கள் திரைக்குப் பின்னால் செயல்படுகிறார்கள்" என்றார்.
 
 ◼️
 
 [Data](articles/b9623fb4.json)
-
-[Extended Data](ext_articles/b9623fb4.ext.json)
 
 ---
 
@@ -112,25 +88,19 @@ Meanwhile, Minister of Transport, Highways, Ports, and Civil Aviation Bimal Rath
 
 [Data](articles/14afc98b.json)
 
-[Extended Data](ext_articles/14afc98b.ext.json)
-
 ---
 
-### Budget preliminary discussion on banking, financial and insurance sectors
+### வங்கி, நிதி மற்றும் காப்புறுதித் துறைகள் தொடர்பான வரவு செலவுத் திட்ட பூர்வாங்கக் கலந்துரையாடல்
 
 *2025-09-16 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225264) · `ta`
 
 வங்கி, நிதி மற்றும் காப்புறுதித் துறைகள் தொடர்பான வரவு செலவுத் திட்ட பூர்வாங்கக்  கலந்துரையாடல் இன்று (16) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் கலாநிதி அனில் ஜயந்த பெர்னாண்டோ தலைமையில் இடம்பெற்றது.
 
-It was extensively discussed with the support of the banking department to provide the support of the banking department to the President -led government's program to achieve the economic development goals of the country and suggestions and recommendations were made.
-
-Increasing the performance of the banking and financial sector through the digitalization program, expanding the project implemented by small and middle -class entrepreneurs, and introducing new insurance systems.. Dr. Anil Jayantha Fernando, Minister of Labor and Deputy Minister of Economic Development, said that all these proposals will be focused on the upcoming budget.
+இந்நாட்டின் பொருளாதார வளர்ச்சி இலக்குகளை அடைவதற்காக ஜனாதிபதி தலைமையிலான அரசாங்கத்தினால் ஆரம்பிக்கப்பட்ட வேலைத்திட்டத்திற்கு வங்கித் துறையின் ஆதரவை வழங்குதல் பற்றி இங்கு விரிவாக கலந்துரையாடப்பட்டதுடன், அது தொடர்பான ஆலோசனைகளும் பரிந்துரைகளும்  முன்வைக்கப்பட்டன.
 
 ...
 
 [Data](articles/ea092c74.json)
-
-[Extended Data](ext_articles/ea092c74.ext.json)
 
 ---
 
@@ -2055,5 +2025,27 @@ The group has been subsequently handed over to the Talaimannar Police for furthe
 [Data](articles/acc382d0.json)
 
 [Extended Data](ext_articles/acc382d0.ext.json)
+
+---
+
+### Acting Director of Police Cultural Division SSP Sathish Gamage further remanded
+
+*2025-09-16 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112562/acting-director-of-police-cultural-division-ssp-sathish-gamage-further-remanded) · `en`
+
+The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 30, Ada Derana reporter said.
+
+The Colombo Magistrate’s Court ordered the further remand of the SSP, who was taken into custody under the provisions of the Prevention of Money Laundering Act.
+
+Colombo Chief Magistrate Asanka S. Bodaragama also rejected the suspect’s bail application, said Ada Derana reporter.
+
+The Magistrate issued the order after considering the facts presented by officials of the Bribery Commission and the defense counsel representing the suspect.
+
+SSP Sathish Gamage was arrested and produced before court by the Bribery Commission in connection with allegations of accepting bribes amounting to approximately Rs. 14 million from drug traffickers, organized criminals, and members of the public seeking services from police.
+
+◼️
+
+[Data](articles/db9de6d6.json)
+
+[Extended Data](ext_articles/db9de6d6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 11:20:20**
+As of **2025-09-16 10:55:29**
 
 ## Newspaper Stats
 
-*Scraped **76,254** Articles*
+*Scraped **76,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,164 +17,64 @@ islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,399
-adaderanalk | 9,823
-tamilmirrorlk | 11,412
+adaderanalk | 9,819
+tamilmirrorlk | 11,411
 virakesarilk | 12,426
-adaderanasinhalalk | 13,302
+adaderanasinhalalk | 13,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,905 (95.6%) of 76,254 articles have been extended.
+72,884 (95.6%) of 76,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### சிறைச்சாலை பஸ் மீது ‘கிளேமோர்‘ தாக்குதல் நடத்த திட்டம்
-
-*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/175-364679) · `ta`
-
-சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்த திட்டமிட்டிருந்தமை தொடர்பிலான தகவல் அம்பலமாகியுள்ளது.
-
-பாதாள உலகத் தலைவர் ஹரக் கட்டாவை நீதிமன்றத்திற்கு அழைத்து வரும்போது சிறைச்சாலை பஸ்ஸை குறிவைத்து கிளேமோர் குண்டுத் தாக்குதலை நடத்தி கொல்லத் திட்டமிட்டிருந்ததாக  அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-கெஹல்பத்தர பத்மே கமாண்டோ சாலிந்தா உள்ளிட்ட பாதாள உலகக் கும்பலே இந்த திட்டத்தை தீட்டியிருந்துள்ளது.
-
-பாதாள உலக கும்பலுக்கு மிகவும் சக்திவாய்ந்த ஆயுதங்களை விற்பனை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட  இராணுவ லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது இது தெரியவந்தது.
-
-சந்தேகத்திற்குரிய லெப்டினன்ட் கேணலிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது, ​​ பல சந்தர்ப்பங்களில் தன்னை தொலைபேசியில் அழைத்த கமாண்டோ சாலிந்தா, இரண்டு கிளேமோர் குண்டுகளைக் கேட்டு வற்புறுத்தியதாகக் கூறியுள்ளார்.
-
-இருப்பினும், சந்தேகத்திற்குரிய லெப்டினன்ட் கேணல்,  இரண்டு கிளேமோர் குண்டுகளை கமாண்டோ சாலிந்தாவிடம் கொடுத்திருக்கலாம் என்று விசாரணை அதிகாரிகள் சந்தேகிக்கின்றனர்.
-
-...
-
-[Data](articles/3694b4a0.json)
-
----
-
-### විදුලි ඉංජිනේරු සංගමයේ වෘත්තිය ක්‍රියාමාර්ගය තවත් තීව්‍ර වෙයි
-
-*2025-09-16 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214626) · `si`
-
-ලංකා විදුලි බල මණ්ඩලය කොටස් හතරකට වෙන් කිරීමට රජය විසින් ගෙන ඇති තීරණයට විරෝධය පළ කරමින් ආරම්භ කර ඇති අකුරට වැඩ කිරීමේ ක්‍රියාමාර්ගය අද (16) සිට තීව්‍ර කරන බව ලංකා විදුලි බල මණ්ඩලයේ ඉංජිනේරු සංගමයේ විධායක කමිටු සාමාජික ධනුෂ්ක පරාක්‍රමසිංහ මහතා පවසයි.
-
-ඒ මහතා පැවසුවේ මෙතෙක් අකුරට වැඩ කිරීමට ගෙන තිබූ පළමු ක්‍රියාමාර්ගය ඊයේ දිනෙන් අවසන් වූ බවත් අද සිට එහි දෙවන පියවරට එළැඹීමට සිය සංගමය තීරණය කළ බවත්ය.
-
-කෙසේ නමුත් අදාළ වෘත්තිය ක්‍රියාමාර්ග හේතුවෙන් ජනතාව අපහසුතාවට පත් කිරීමට බලාපොරොත්තු නොවන බවත් පැවසූ ඒ මහතා සඳහන් කර සිටියේ අදාළ වෘත්තීය ක්‍රියාමාර්ගයන් රජයට දැනෙන අයුරින් සිදු කිරීමට සැලසුම් කළ බවය.
-
-ඒ අනුව ඉදිරියේදී රැකියාවට අමතරව ටෙන්ඩර් කමිටු සඳහා සම්බන්ධ වීම, අනෙකුත් කමිටුවලින් ඉවත් වීමට මේ අනුව කටයුතු කරන බවත් පැවසූ ඒ මහතා සඳහන් කර සිටියේ මෙමගින් අදාළ වෘත්තිය සමිති ක්‍රියාමාර්ගය තීව්‍ර කිරීමේ පණිවිඩය රජය වෙත දන්වන බවය.
-
-...
-
-[Data](articles/f96269e5.json)
-
----
-
-### Deputy Minister reveals the advancement planning of the government
-
-*2025-09-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214625) · `si`
-
-Deputy Minister of Economic Development Anil Jayantha Fernando said Sri Lanka has targeted its economic growth to 6%.
-
-The Deputy Minister said that it could partially contribute partly through record capital expenditure, but delaying the approval of the budget could hinder its performance this year.
-
-Deputy Minister Anil Jayantha stated that Sri Lankans and investors must be hopeful since the economic crisis of the year 2022.
-
-Sri Lanka recorded 5% economic growth in 2024. Anil Jayantha said that this year was slowingly to slow down 4% to 4.5% due to the delay in the passage of the budget.
-
-In 2026, the government is planning to increase its capital expenditure from 8% to Rs 1.4 trillion.
-
-The International Monetary Fund for Sri Lanka in March 2023 is foretold this year's GDP growth.
-
-The economy pointed out that the economy grew 4.9% from the year 2025, said the official data on Monday.
-
-◼️
-
-[Data](articles/00f17265.json)
-
-[Extended Data](ext_articles/00f17265.ext.json)
-
----
-
-### Sri Lanka’s PMI for August expands
-
-*2025-09-16 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112558/sri-lankas-pmi-for-august-expands) · `en`
-
-The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for August 2025 has shown that the manufacturing index expanded to 55.2 in the month of August this year.
-
-◼️
-
-[Data](articles/00a50fad.json)
-
-[Extended Data](ext_articles/00a50fad.ext.json)
-
----
-
-### The owner of the shop that poured hot water over the dog
+### நாய் மீது வெந்நீர் ஊற்றிய கடை உரிமையாளர்
 
 *2025-09-16 10:34:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்-மீது-வெந்நீர்-ஊற்றிய-கடை-உரிமையாளர்/76-364677) · `ta`
 
-A security camera in Bogawantalawa was reported on Monday (15).
+ஒரு கடையின் முன் தூங்கிக் கொண்டிருந்த நாய் மீது வெந்நீர் ஊற்றி விரட்டும் சம்பவம், பொகவந்தலாவை நகரில் உள்ள ஒரு பாதுகாப்பு கேமராவில் திங்கட்கிழமை (15) பதிவாகியுள்ளது.
 
-The dog was quietly sleeping in Bogawantalawa, and the owner of the shop gathering old iron items near the shop poured water on the dog.
+பொகவந்தலாவை  நகரில் சுற்றித் திரிந்த அந்த நாய் அமைதியாகத் தூங்கிக் கொண்டிருந்தது, கடைக்கு அருகில் பழைய இரும்புப் பொருட்களை சேகரிக்கும் கடையின் உரிமையாளர் அந்த நாய் மீது வெந்நீர் ஊற்றியுள்ளார்.
 
-A group of people nearby said that the dog, drenched in hot water, ran away from the place where he was screaming in pain.
+சூடான நீரில் நனைந்த நாய், வலியால் அலறிக் கொண்டு தூங்கிக் கொண்டிருந்த இடத்திலிருந்து ஓடிவிட்டதாக அருகிலுள்ள மக்கள் குழு தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/59ac14ce.json)
 
-[Extended Data](ext_articles/59ac14ce.ext.json)
-
 ---
 
-### 4 children
+### ஒரே பிரசவத்தில் 4 குழந்தைகள் பெற்றெடுத்த தாய்
 
 *2025-09-16 10:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/ஒரே-பிரசவத்தில்-4-குழந்தைகள்-பெற்றெடுத்த-தாய்/53-364676) · `ta`
 
-In the Mumbai state of Mumbai, there is a rare event that has had 4 children in the same delivery.
+மும்பை மராட்டிய மாநிலத்தில் ஒரே பிரசவத்தில் 4 குழந்தைகளை பெற்ற அரிதினும் அரிதான நிகழ்வு நடந்துள்ளது.
 
-Kajal Vikas, 27, was admitted to the Satara Government Hospital with childbirth.
+சத்தாரா அரசு மருத்துவமனையில் காஜல் விகாஸ் (27) என்ற பெண் பிரசவ வலியுடன் அனுமதிக்கப்பட்டார்.
 
-Doctors examined revealed that he was carrying 4 children in the stomach.
+மருத்துவர்கள் பரிசோதனை செய்ததில் அவர் வயிற்றில் 4 குழந்தைகளை சுமந்து வந்தது தெரியவந்தது.
 
-In surgery, 3 female children are born with a baby boy.
+அறுவை சிகிச்சையில் 3 பெண் குழந்தைகள், ஒரு ஆண் குழந்தை பிறந்து நலமுடன் உள்ளனர்.
 
 ◼️
 
 [Data](articles/46b4a7f1.json)
 
-[Extended Data](ext_articles/46b4a7f1.ext.json)
-
 ---
 
-### Sandamali went on the last traveled by the van driving
+### විවාහ ගිවිසගත් පෙම්වතා පැදවූ වෑන් රිය තුළම අවසන් ගමන් ගිය සඳමාලි
 
 *2025-09-16 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214624) · `si`
 
-Two members of two members of two families were a fatal accident in the Southern Expressway.
+පවුල් දෙකක සාමාජිකයන් අටදෙනෙකු ගමන් ගත් වෑන් රථයක් දක්ෂිණ අධිවේගී මාර්ගයේදී ලොරියක ගැටීමෙන් අද (16) අලුයම මාරක අනතුරක් සිදුව තිබුණේ බොහෝදෙනාගේ නෙතට කඳුළක් එක්කරමිනි.
 
-A young girl was killed and three other children were injured.
-
-Pushpumari, a 35-year-old cake, a 35-year-old cake business is a 35 year old cake in Opathaktota.
-
-The van that was on the Thawalama from Thawala to bring the brother of Sandalai to arrive from Israel to the Katunayake airport was crashed.
-
-The accident had occurred when the van collided with a Dipither lorry where the goods were traveling back to Colombo at 9.6km.
-
-The van is driven by the young man who was engaged in the house at the time of the accident.
-
-Sandamali had been in the front left side of the Van and had gone to the survivor of the police and rescue officers and car rescue officers and vehicle policemen had gone to the rescue of the victims.
-
-When the accident had reached the place where they were in the road, the group had taken out of the van and the three children have been hospitalized soon.
-
-...
+◼️
 
 [Data](articles/6377e736.json)
-
-[Extended Data](ext_articles/6377e736.ext.json)
 
 ---
 
@@ -182,37 +82,13 @@ When the accident had reached the place where they were in the road, the group h
 
 *2025-09-16 10:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சேற்றில்-சிக்கிய-பெண்ணின்-சடலம்-யாருடையது/76-364675) · `ta`
 
-The body of a young woman has been found in the Mahaweli Ganga near the New Ketambe Bridge in Peradeniya, police said.
+பேராதனையில் உள்ள புதிய கெட்டம்பே பாலத்திற்கு அருகிலுள்ள மகாவலி கங்கையில் ஒரு இளம் பெண்ணின் சடலம் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
 
-It is suspected that the woman may have jumped from the bridge on Tuesday (16), and is found from the top of the bridge, which is suspected of bringing her, and is under the control of the police.
+அந்தப் பெண் பாலத்தில் இருந்து செவ்வாய்க்கிழமை (16) அதிகாலை குதித்திருக்கலாம் என சந்தேகிக்கப்படுகிறது, மேலும் அவர் கொண்டு வந்ததாக சந்தேகிக்கப்படும் ஒரு பை பாலத்தின் மேலே இருந்து கண்டெடுக்கப்பட்டு, அது பொலிஸாரின் கட்டுப்பாட்டில் உள்ளது.
 
 ◼️
 
 [Data](articles/c76d102d.json)
-
-[Extended Data](ext_articles/c76d102d.ext.json)
-
----
-
-### 27,500 individuals subjected to inspection during special police operation
-
-*2025-09-16 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112557/27500-individuals-subjected-to-inspection-during-special-police-operation) · `en`
-
-A total of 598 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (15).
-
-As part of the operation, 27,580 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 24 individuals directly linked to criminal activities while 418 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 45 drunk drivers were apprehended while a further 16 reckless drivers and 3,857 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/135db467.json)
-
-[Extended Data](ext_articles/135db467.ext.json)
 
 ---
 
@@ -266,28 +142,6 @@ However, during the match between the Indo-Pakistan teams, the Indian team and t
 
 ---
 
-### US negotiators in India to revive trade deal talks amid Trump Tariff overhang
-
-*2025-09-16 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112555/us-negotiators-in-india-to-revive-trade-deal-talks-amid-trump-tariff-overhang) · `en`
-
-A team of US negotiators will hold discussions with Indian officials in New Delhi today (16) to revive talks on a bilateral trade deal.
-
-The delegation is led by Chief Negotiator Brendan Lynch, the Assistant US Trade Representative (USTR) for South and Central Asia. They arrived in the capital, New Delhi late Monday.
-
-The US team will hold crucial talks with Indian officials on the proposed India-US Bilateral Trade Agreement (BTA) after a meeting planned for late August was stalled.
-
-The trade negotiations come in the backdrop of the Trump administration’s 50% tariff on Indian goods that includes a 25% levy as a penalty for purchasing Russian oil that New Delhi has slammed as ‘unjustified’.
-
-The meeting is seen as a key step toward finalising the first tranche of the trade deal by the year-end, as committed by President Donald Trump and Prime Minister Modi in February.
-
-...
-
-[Data](articles/b9bc6ee9.json)
-
-[Extended Data](ext_articles/b9bc6ee9.ext.json)
-
----
-
 ### Fire spreading in residential area in Manila, Philippines
 
 *2025-09-16 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225197) · `ta`
@@ -299,26 +153,6 @@ Due to this fire, more than 1,100 families lost their homes and in temporary she
 [Data](articles/c57ef50b.json)
 
 [Extended Data](ext_articles/c57ef50b.ext.json)
-
----
-
-### Sri Lanka eyes 6% growth in 2026, but 2025 outlook dims amid spending delays: Dy Minister
-
-*2025-09-16 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112553/sri-lanka-eyes-6-growth-in-2026-but-2025-outlook-dims-amid-spending-delays-dy-minister) · `en`
-
-Sri Lanka is aiming to boost its economic growth to up to 6% in 2026, partly through record government capital expenditure, though delays in passing the budget could drag on its performance this year, Deputy Minister of Economic Development Anil Jayantha Fernando said.
-
-Deputy Minister Anil Jayantha said Sri Lankans and investors should be “hopeful” as the country climbs out of the economic crisis that hit in 2022, its worst since independence.
-
-Sri Lanka recorded economic growth of 5% in 2024. That would likely slow to 4% to 4.5% this year, as delays in passing the budget slowed government spending, Fernando told Reuters in an interview.
-
-“Next year ... we will need to go for 5 to 6% growth. We will aim for that,” he said. “In the long run, after five years, we target to maintain an average GDP growth that emerging countries are maintaining. That is around 6 to 7%.”
-
-...
-
-[Data](articles/a3f1c27e.json)
-
-[Extended Data](ext_articles/a3f1c27e.ext.json)
 
 ---
 
@@ -2009,5 +1843,137 @@ The U.S.-China negotiations at the Spanish foreign ministry’s baroque Palacio 
 [Data](articles/477928e8.json)
 
 [Extended Data](ext_articles/477928e8.ext.json)
+
+---
+
+### World Bank commends Sri Lanka’s current economic programme
+
+*2025-09-15 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112538/world-bank-commends-sri-lankas-current-economic-programme) · `en`
+
+President Anura Kumara Dissanayake has met Johannes Zutt, the Vice President for the South Asia Region of the World Bank Group and a delegation of its representatives visiting Sri Lanka today (15) at the Presidential Secretariat.
+
+During the discussion, the World Bank has commended Sri Lanka’s current economic programme, according to the President’s Media Division.
+
+Attention was drawn to key sectors that could yield short-term benefits such as digitalization, tourism, agriculture and infrastructure development, while discussions also focused on the development of the Northern and Eastern Provinces, the PMD stated.
+
+Highlighting the government’s dedication to preserving the current economic stability of the country while progressing towards growth, President Dissanayake has requested the World Bank’s support in sharing Sri Lanka’s political, social and economic progress with the wider world.
+
+◼️
+
+[Data](articles/710cef79.json)
+
+[Extended Data](ext_articles/710cef79.ext.json)
+
+---
+
+### Under the Clean Sri Lanka Program, the project to modernize the Maradana Railway Station
+
+*2025-09-15 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225176) · `ta`
+
+The project to modernize the Maradana Railway Station under the Dream Destination Project in conjunction with the Clean Sri Lanka Program was launched on Monday (15) under the leadership of President Anura Kumara Dissanayake.
+
+According to the government's plan for the "prosperous country - beautiful life," the government's plan to create a beautiful lifestyle with a modern and standardized public transport system, with the aim of upgrading public facilities at railway stations, transforming the railway stations into convenient and safe places, the Ministry of Transport, Highways, Ports and Civil Airlines and Clean Sri Lanka The project has been launched.
+
+The project aims to create a clean and beautiful railway station in the country to provide security and facilities to all travelers, including the community with special needs.
+
+...
+
+[Data](articles/0273543b.json)
+
+[Extended Data](ext_articles/0273543b.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2025-09-15 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214610) · `si`
+
+Sri Lanka is the second match of the Asia Cup Twenty20 cricket match today (15) with Hong Kong team.
+
+Accordingly, the captain of the Sri Lankan team has invited the Hong Kong group to bat first.
+
+This is the first time Sri Lanka and Hong Kong will meet each other on the international cricket.
+
+However, Sri Lanka won the first match against Bangladesh by six wickets in the first match of the tournament.
+
+◼️
+
+[Data](articles/b4d0f615.json)
+
+[Extended Data](ext_articles/b4d0f615.ext.json)
+
+---
+
+### Opposition Leader Sajith is being carried out in parliament
+
+*2025-09-15 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225175) · `ta`
+
+The government should carry out the task of listening to people's problems and getting practical answers. Opposition Leader Sajith Premadasa said that the era of suppressing the voice of the opposition and presenting false stories, rather than the era of providing solutions. "
+
+Opposition Leader Sajith Premadasa said this while visiting the Madhavachi area on Monday (15) to look into the issues faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers of Anuradhapura district under the service of the Opposition.
+
+Currently, the opportunity to present the problems faced by the public in Parliament has been reduced. The government has come to a position to cut off the microphone when people are pointed out. As the Leader of the Opposition, and I and the opposition members, we stand up for the issues of the people, leaving the people's issues.
+
+...
+
+[Data](articles/322bbfe8.json)
+
+[Extended Data](ext_articles/322bbfe8.ext.json)
+
+---
+
+### One person arrested with deer meat
+
+*2025-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225174) · `ta`
+
+A man from the Kaveli area of ​​the Mullaitivu Pudukkudiyiruppu police division has been arrested by the Pudukkudiyiruppu police on Monday 15th with deer meat.
+
+A 40 -year -old man from Kaveli area has been arrested on charges of possessing 3 kg of deer meat in a special raid conducted by the Mullaitivu District Intelligence Unit.
+
+The arrested person will be produced before the Mullaitivu court on Tuesday 16th after investigations, police said.
+
+◼️
+
+[Data](articles/467df8aa.json)
+
+[Extended Data](ext_articles/467df8aa.ext.json)
+
+---
+
+### Magampura Ports Development Company has not paid a dollar loan
+
+*2025-09-15 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/මාගම්පුර-වරාය-කළමනාකරණ-සමාගම-ලබාගත්-ඩොලර්-ණයක්-නොගෙවලා/11-418511) · `si`
+
+After discussing the non-payment of loans from the Magampura Ports, the Committee on Public Enterprises (COPE) was issued after discussing the lending from a private bank.
+
+Issuing of these recommendations was issued when the Committee of the Sri Lanka Ports Authority (COPE) to examine the current performance of the Sri Lanka Ports Authority (COPE).
+
+The Magampura Port Management Company has been incorporated by the Fivest of the Colombo Port, a license obtained by a license to be operated by a private loan from a private bank at a private bank loan from a private bank loan.. However, $ 18.82 million (Rs.. 6836 million) was revealed at December 2023 and that the Bank had filed two cases against the administration and the Authority in 2019.
+
+Officers arrived at the meeting.. The Magampura Ports Managing Company is currently underway from June 2022.
+
+...
+
+[Data](articles/b7badceb.json)
+
+[Extended Data](ext_articles/b7badceb.ext.json)
+
+---
+
+### The employment of the 12,000 employees in danger if the Electricity Act was amended
+
+*2025-09-15 19:13:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පනත-සංශෝධනය-නොකළානම්-සේවකයන්-12000කගේ-රැකියා-අනතුරේ/11-418510) · `si`
+
+"Over the Power and Employee Privileges, Employees 'Privileges, Employees' Performance but Returned
+
+100% endemic organizations have been established in making the power sector to develop the electricity sector in parallel with the development goals of the country.. According to the Minister of Energy Minister Kumara Jayakody, who is planning to come forward, said.
+
+Especially when the Ceylon Electricity Workers Union (CEB) and all the trade unions, including the Ceylon Electricity Employees Union with the Trade Unions, have already begun implementation of the power to the power and the Electricity Bureau and the Electricity.. The notification has been made to appoint every employee and notifying four companies with full state owned company.. As such, there is no problem with the job security of these employees.
+
+...
+
+[Data](articles/73aea13b.json)
+
+[Extended Data](ext_articles/73aea13b.ext.json)
 
 ---

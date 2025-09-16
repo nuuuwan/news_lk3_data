@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 16:09:10**
+As of **2025-09-16 18:20:52**
 
 ## Newspaper Stats
 
-*Scraped **76,323** Articles*
+*Scraped **76,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,283 @@ newsfirstlk | 363
 dbsjeyarajcom | 629
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,618
-islandlk | 4,693
+economynextcom | 4,626
+islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,410
+adalk | 7,414
 adaderanalk | 9,840
-tamilmirrorlk | 11,431
+tamilmirrorlk | 11,433
 virakesarilk | 12,430
-adaderanasinhalalk | 13,317
+adaderanasinhalalk | 13,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,187 (95.9%) of 76,323 articles have been extended.
+73,284 (96.0%) of 76,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### කළුතර බන්ධනාගාරයේ රැඳවියෙක් මරුට
+### කෙහෙළිය ඇතුළු විත්තිකරුවන්ට ඇප
+
+*2025-09-16 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214646) · `si`
+
+ඉකුත් රජය සමයේ ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කළේ යැයි කියන චෝදනා එල්ලවී සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු විත්තිකරුවන් ඇප මත මුදාහරින ලෙස කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල අද (16) නියම කළේය.
+
+ඉන් අනතුරුව එක් එක් විත්තිකරු රුපියල් ලක්ෂ 05 බැගින් වූ මුදල් ඇප සහ රුපියල් ලක්ෂ 50 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැරීමට නියම කෙරුණි.
+
+විත්තිකරුවන්ගේ විදේශ ගමන් තහනම් කළ අධිකරණය ඔවුන්ගේ විදේශ ගමන් බලපත්‍ර අධිකරණයට භාරදිය යුතු බවත් නියම කළේය.
+
+විත්තිකරුවන්ට අද කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ අධිචෝදනා භාරදුනි.
+
+ඉන් අනතුරුව විත්තිකරුවන් ඇප මත මුදාහැරීම සම්බන්ධයෙන් නීතිපතිවරයා විරුද්ධ වන බව නියෝජ්‍ය සොලිසිටර් ජෙනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය අධිකරණය හමුවේ සඳහන් කළාය.
+
+ඉන් අනතුරුව විත්තිකරුවන් ඇප මත මුදාහරින ලෙස ඉල්ලා විත්තියේ නීතිඥවරුන් විසින් දීර්ඝ කරුණු දැක්වීමක් සිදු කර තිබුණි.
+
+...
+
+[Data](articles/745de3aa.json)
+
+---
+
+### Sri Lanka may miss 2025 tourism arrival, earning targets: CT Smith
+
+*2025-09-16 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-miss-2025-tourism-arrival-earning-targets-ct-smith-240749/) · `en`
+
+ECONOMYNEXT – Sri Lanka is likely to miss 2025 tourist arrival and tourism revenue targets set by the government, though the sector is performing well, a forecast by broker firm CT Smith Securities showed.
+
+Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar revenue and a 3 million arrival target this year.
+
+Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar revenue and a 3 million arrival target this year.
+
+The revenue for the first eight months has seen a rise of 5.7 percent to 2.29 billion US dollars from a year ago, while the arrivals also have picked up 15 percent in the first eight months to 1.57 million compared to last year’s 1.36 million, official data showed.
+
+“This performance highlights the sector’s growing momentum and underpins optimism about its long-term outlook,” CT Smith Securities said in its latest forecast.
+
+...
+
+[Data](articles/1ab07a20.json)
+
+[Extended Data](ext_articles/1ab07a20.ext.json)
+
+---
+
+### Newspaper published in the liquidation of Ceylon Fisheries Corporation
+
+*2025-09-16 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214645) · `si`
+
+Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar said that the Oluvil Port can be used after a new feasibility study.
+
+The comment on the matter was commented on the Fisheries, Aquatic Resources and Marine Resources Advisory Committee on the 9th of the occasion.
+
+Fisheries, Aquatic and Ocean Resources Deputy Minister Ratna Gamage was also present at the occasion.
+
+At the meeting, the operation of the Oluvil Fisheries Harbor was lengthy.
+
+The Minister stated that new feasibility studies are conducted to correct the damage caused by the Oluvil Port without proper studies.
+
+In addition, the Fisheries Harbor in Walachchenai has been planned to be a wide range of fishing harbor to meet the needs of the Eastern Province.
+
+Opposition Leader Sajith Premadasa has inquired about the truth of the records that have been included in the list of government agencies to liberate the Ceylon Institute of Fisheries Corporation.
+
+The Deputy Minister said that those reports were not true.
+
+...
+
+[Data](articles/ac458966.json)
+
+[Extended Data](ext_articles/ac458966.ext.json)
+
+---
+
+### 2 years of sexual harassment for a 16 -year -old boy: 14 people suit
+
+*2025-09-16 17:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுவனுக்கு-2-ஆண்டுகளாக-பாலியல்-வன்கொடுமை-14-பேர்-மீது-வழக்கு/175-364713) · `ta`
+
+A 16 -year -old boy has been prosecuted for two years and has been prosecuted for allegedly sexually abusing.
+
+A 16 -year -old boy who used a dating processor in Kerala has been shocked by the incident of sexual abuse by many people.. 16 people have been charged in this regard.
+
+A 16 -year -old boy in Kerala seems to be interested in using social networks. The boy was then accustomed to some of the dating processor. Using this, they have summoned the company and sexually abused. For the past 2 years, they have been sexually harassed by the boy.
+
+The boy's mother found the incident and reports to the police. A committee was set up to find out those who sexually harassed the boy. Investigations carried out by the police revealed that the boy was raped by many people from Kasargod, Kannur and Kozhikode districts.
+
+...
+
+[Data](articles/73c50e12.json)
+
+[Extended Data](ext_articles/73c50e12.ext.json)
+
+---
+
+### Keheliya and others charged
+
+*2025-09-16 16:36:24* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-පිරිසට-අධි-චෝදනා/11-418537) · `si`
+
+Former Minister Keheliya Rambukwella, who has been charged with the allegations of the government's money by purchasing quality antibody vaccines, the three-member High Courts in Colombo.
+
+◼️
+
+[Data](articles/599f38aa.json)
+
+[Extended Data](ext_articles/599f38aa.ext.json)
+
+---
+
+### Sri Lanka Cabinet proceeds with casino tax amendment
+
+*2025-09-16 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-proceeds-with-casino-tax-amendment-240775/) · `en`
+
+ECONOMYNEXT – Sri Lanka Cabinet has approved a 2025 budget proposal to increase levy on betting and gaming as well as to double casino entry fee for locals after clearance from the Attorney General, Cabinet Spokesman Nalinda Jayatissa said.
+
+The 2025 budget proposed to increase of the betting gaming levy on the gross total 18 percent from the current 15 percent while raising the tax imposed for Sri Lankans to enter into Casino USD100 from the current 50.
+
+Media and Health Minister Jayatissa said legal Draftsman has drafted a bill to amend Betting Gaming Levy Act to incorporate the proposals.
+
+“Clearance of the Attorney General too has been granted for the draft bill. The Cabinet of Ministers approved the proposal to publish the draft bill in the government’s gazette notification and subsequently to forward it to the Parliament for its approval,” the Minister said.
+
+The Betting and Gaming Levy Act is the core law in Sri Lanka governing taxes on bookmakers and gaming businesses.
+
+...
+
+[Data](articles/1c14edf8.json)
+
+[Extended Data](ext_articles/1c14edf8.ext.json)
+
+---
+
+### Japan to give Sri Lanka 963mn yen to improve dairy industry, navy surveillance
+
+*2025-09-16 16:22:00* · [`economynextcom`](https://economynext.com/japan-to-give-sri-lanka-963mn-yen-to-improve-dairy-industry-navy-surveillance-240771/) · `en`
+
+ECONOMYNEXT – Japan will give a 963 million yen grant to develop Sri Lanka’s dairy industry and to improve security services provided by the Sri Lanka Navy, minister Nalinda Jayatissa said.
+
+“The grant, about 1.94 billion rupees, will fund two projects; 463 million yen for the improvement of productivity of the dairy production sector and 500 million yen for the project to assist the official security services of the Navy,” Jayatissa told reporters.
+
+The 463 million yen will provide the required equipment and technological assistance to increase the capacity of the Department of Animal Production and Health.
+
+The 500 million yen will provide drones for the investigation, surveillance, and monitoring activities of the island nation’s Navy under the Official Security Assistance Project.
+
+President Anura Dissanayake will sign the relevant exchange sheets and other documents related to these projects during his visit to Japan, Jayatissa said. (Colombo/Sep16/2025)
+
+◼️
+
+[Data](articles/a0962ef1.json)
+
+[Extended Data](ext_articles/a0962ef1.ext.json)
+
+---
+
+### Angika Rum amend the Sri Lanka Press Council Act
+
+*2025-09-16 16:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பத்திரிகைப்-பேரவைச்-சட்டத்தைத்-திருத்த-அங்கிகா-ரம்/175-364709) · `ta`
+
+The Cabinet approved by President Anura Kumara Dissanayake has been approved by President Anura Kumara Dissanayake to amend the Sri Lanka Press Association No. 05 of 1973.
+
+The idea submitted by Minister of Health and Media Media Nalinda Jayatissa has been approved.
+
+The Sri Lanka Press Act No. 05 of 1973 was not upgraded to the time of contemporary social and cultural tendencies.
+
+With the development of contemporary communication technology, there is a rapid spread of television, website and social media networks, beyond the newspaper and radio.
+
+So, on the lives of the people on the main impacts. Accordingly, after any newspaper news, after sound/broadcasting through any electronic media,
+
+During the inquiry by the press conference, the results of the inquiry, the results of the inquiry, the results of the issue, and the issuance of the Investigation/Recognition of the Investigation, the Electronic Release/Media/Magazines/Magazines/Magazines/Magazines, etc., etc. Provided by the accompanying.
+
+◼️
+
+[Data](articles/cd390edb.json)
+
+[Extended Data](ext_articles/cd390edb.ext.json)
+
+---
+
+### Smpery Mandana again is the number one
+
+*2025-09-16 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214642) · `si`
+
+Indian group Madana has been able to take the lead in the ICC Women's Battle Rankn.
+
+She has been able to lead the rankings on skills shown in the tournament against Australia.
+
+Previously, England's leader Nat sciver-brunt ICC was the leading in one day batting batshibication.
+
+◼️
+
+[Data](articles/2c72f7f5.json)
+
+[Extended Data](ext_articles/2c72f7f5.ext.json)
+
+---
+
+### Although not on the bridge, her body's hand bag is on the bridge
+
+*2025-09-16 15:52:12* · [`adalk`](https://www.ada.lk/breaking_news/පාලම-මතින්-ඟගට-නොපැන්නත්-ඇගේ-සිරුර-ග‌ඟේ-අත්-බෑගය-පාලම-උඩ/11-418535) · `si`
+
+The body of a woman who was killed in the Mahaweli River near the Paradiya Police Division was found in a suspicious woman in the Mahaweli River near the Debmbaya Balama.
+
+The deceased is Nissanka Mudiyiyansehi (52) and identified as an unmarried woman employed at the Delthota.
+
+A group of police officers who were traveling near the Gambala Bridge around 11 pm and had taken a delegation of a woman on the bridge.
+
+Police investigations have revealed that the deceased woman had not jumped on the bridge in the bridge, police investigations are conducting further investigations.
+
+◼️
+
+[Data](articles/965ea19b.json)
+
+[Extended Data](ext_articles/965ea19b.ext.json)
+
+---
+
+### Sri Lanka stocks close up, driven by capital goods, banks
+
+*2025-09-16 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-capital-goods-banks-240765/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday following a cooling off, brokers said.
+
+The All Share Price Index was up 1.30 percent, or 263.98 points, at 20,619; while the S&P SL20 was up 1.41 percent, or 81.75 points, at 5,880.
+
+“There are bound to be a few corrections here and there, but overall there is nothing too negative impacting the market,” Shadini Silva, Co-Head of Research at Softlogic Stockbrokers, said.
+
+“There’s not much alternative to the stock market for investors at the moment.”
+
+Confidence in banks was driving the market in the day, Silva said, with almost all banking stocks closing up, recovering from the previous day.
+
+The ASPI was pushed up by Commercial Bank (up 3.75 rupees at 186.50), Sampath Bank (up 2.75 rupees at 139.75), Hatton National Bank (up 4.75 rupees at 384.75), Aitken Spence (up 5.75 rupees at 155.75), and DFCC Bank (up 3.25 rupees at 155).
+
+Sierra Cables was actively traded in the day (Rs712mn); the stock closed up 3.80 rupees at 31.60.
+
+...
+
+[Data](articles/a01eeb5b.json)
+
+[Extended Data](ext_articles/a01eeb5b.ext.json)
+
+---
+
+### Inmates killed in Kalutara prison
 
 *2025-09-16 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214641) · `si`
 
-කළුතර බන්ධනාගාරයේ බෝ ගසට නැග බිමට පැන තුවාල ලබා ප්‍රතිකාර ලබමින් සිටී රැඳවියෙකු මියගොස් ඇති බව කළුතර උතුර පොලීසිය පවසයි.
+The inmate has died, who is being treated with injuries and injuring the Kalutara Prison in the Kalutara Prison.
 
-මෙසේ මියගොස් ඇත්තේ කළුතර වස්කඩුව ප්‍රදේශයේ පදිංචිව සිටී සම්පත් මෙන්ඩිස් නමැති රැඳවියෙකු බව සඳහන් ය.
+The deceased has been identified as Sampkaduwawa, a detainee named Sampkaduwa.
 
-මියගොස් ඇති රැඳවියා මත්කුඩු සම්බන්ධයෙන් චෝදනා ලැබ බන්ධනාගාරගතව සිටියදී ඉකුත් ජුලි 21 වනදා මෙලෙස බන්ධනාගාර පරිශ්‍රයේ ඇති බෝ ගසට නැඟ ඉන් බිමට පැන තිබුණි.
+On July 21, July 21st while the deceased was charged with drugs and jailed on July 21.
 
-ඒ අනුව ඔහුව ප්‍රතිකාර සඳහා නාගොඩ රෝහලට ඇතුළත් කර තිබූ අතර සුවවීමෙන් පසු නැවත බන්ධනාගාරගත කර තිබුණි.
+He was admitted to the Nagoda hospital for treatment and remanded after healing.
 
-කෙසේවෙතත් අදාළ රැඳවියාගේ රෝගී තත්ත්වය නැවත උත්සන්නවීමෙන් යළිත් රෝහල්ගත කර තිබෙන අතර ඊයේ (15) රාත්‍රියේ රැඳවියා මියගොස් තිබේ.
+However, the inmate has been taken back to the resurgence of the intentional situation and the inmate has died yesterday.
 
 ◼️
 
 [Data](articles/d6332d13.json)
+
+[Extended Data](ext_articles/d6332d13.ext.json)
 
 ---
 
@@ -94,6 +334,22 @@ United People's Power MP Kavinda Jayawardena today said that ministers including
 
 ---
 
+### 32 billion of the schools for feeding 1.4 million school children
+
+*2025-09-16 14:50:20* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-දරුවන්-මිලියන-1-4ක-පෝෂණය-වෙනුවෙන්-රජයෙන්-රුපියල්-බිලියන-32ක්/11-418532) · `si`
+
+The Nutrition Program for School Children Activates 100 Education Zones in all provinces of the country, and the program is allocated to Rs 32 billion to Rs 32 billion from the budget. The benefits of this school nutrition program are now available for a 1.4 million student community of 8,943 schools.
+
+The Ministry of Education, the Ministry of Education and Vocational Education will be implemented by the Ministry of Education, the Ministry of Education and the Professional Provision of Nutrition Promotion of Nutritional Persons by Promotion of Nutrition and Health Cultivity in the objective of making a healthy active children.
+
+...
+
+[Data](articles/1148ef72.json)
+
+[Extended Data](ext_articles/1148ef72.ext.json)
+
+---
+
 ### Namal meets Indian High Commissioner to discuss on-going political developments
 
 *2025-09-16 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112574/namal-meets-indian-high-commissioner-to-discuss-on-going-political-developments-) · `en`
@@ -111,6 +367,30 @@ He said they look forward to strengthening the partnership between the two count
 [Data](articles/bebc2acc.json)
 
 [Extended Data](ext_articles/bebc2acc.ext.json)
+
+---
+
+### Sri Lanka to look for investors to develop Kahatagaha graphite mine
+
+*2025-09-16 14:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-look-for-investors-to-develop-kahatagaha-graphite-mine-240756/) · `en`
+
+ECONOMYNEXT – Sri Lanka will look for investors to explore the graphite reserve of its Kahatagaha mine, and to mine, process, and add value to the graphite, under a public-private partnership, minister Nalinda Jayatissa said.
+
+“The locally available technology is not sufficient to determine the reserve of the graphite in the mine,” Jayatissa told reporters.
+
+“Taking these matters into consideration, the cabinet approved the proposal to call for proposals for expressions of interest.”
+
+The Kahatagaha mine is currently operated by the wholly government-owned company, Kahatagaha Graphite Lanka Limited, which produces and exports graphite.
+
+“The government will retain ownership and secure the jobs of the employees currently working in the mine.”
+
+The mine, which spans an area of about 102 acres, is the deepest graphite mine in Sri Lanka.
+
+...
+
+[Data](articles/a91325e9.json)
+
+[Extended Data](ext_articles/a91325e9.ext.json)
 
 ---
 
@@ -171,6 +451,22 @@ It has been found that the issue will be further aggravated with the completion 
 [Data](articles/53eef4ae.json)
 
 [Extended Data](ext_articles/53eef4ae.ext.json)
+
+---
+
+### Chinese national arrested for drowning in high security zone
+
+*2025-09-16 14:25:26* · [`adalk`](https://www.ada.lk/breaking_news/නුවර-අධි-ආරක්ෂක-කලාපයේ-ඩ්‍රෝනයක්-යැවූ-චීන-ජාතිකයෙක්-අල්ලයි/11-418531) · `si`
+
+The Dalada Maligawa, a Chinese national has been arrested by the Diyawadana Niladeshiya Sabha near the historic Sri Dalada Maligawa.
+
+The Chinese national has handed over the drone camera and handed over to the tourism police for the Kandy Headquarters.
+
+◼️
+
+[Data](articles/6325be77.json)
+
+[Extended Data](ext_articles/6325be77.ext.json)
 
 ---
 
@@ -450,19 +746,41 @@ The arrested Chinese national has been handed over to the tourist police connect
 
 ---
 
-### ලෝටස් වටරවුමේ ට්‍රැෆික් අඩු කරන්න ශක්‍යතා අධ්‍යනයක්
+### Sri Lanka Cabinet approves action to enable expatriates to vote in elections
+
+*2025-09-16 13:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-action-to-enable-expatriates-to-vote-in-elections-240752/) · `en`
+
+ECONOMYNEXT – Sri Lanka Cabinet has granted its approval for relevant ministries and authorities to enact laws enabling the island nation’s expatriates to vote in elections from offshore, Cabinet Spokesman and Media Minister Nalinda Jayatissa said.
+
+At the moment, the election laws only allow the citizens living within Sri Lanka and registered their names in the electoral to vote in any election.
+
+“According to the current elections law there is no provision to secure any method to cast votes for the citizens offshores or no law has been formulated in this regard,” Minister Jayatissa told reporters at the weekly post-Cabinet media briefing.
+
+“However, many Asian countries such as India, Bangladesh, Philippines have formulated legal strategies to enable their citizens offshore to cast votes and it has been recognized as a timely requirement to amend such types of laws for Sri Lanka as well.”
+
+...
+
+[Data](articles/03509795.json)
+
+[Extended Data](ext_articles/03509795.ext.json)
+
+---
+
+### Reduce the travel study in the bata roundabout
 
 *2025-09-16 13:55:18* · [`adalk`](https://www.ada.lk/breaking_news/ලෝටස්-වටරවුමේ-ට්‍රැෆික්-අඩු-කරන්න-ශක්‍යතා-අධ්‍යනයක්/11-418528) · `si`
 
-කොළඹ ලෝටස් වටරවුම ආශ්‍රිතව පවතින අධික රථවාහන තදබදය අවම කිරීම වෙනුවෙන් ශක්‍යතා අධ්‍යයක් සිදු කිරීමට
+To reduce feasibility study to minimize the high traffic congestion in Lotus Roundabout
 
-කැබිනට් අනුමැතිය ලැබී තිබේ. මේ හරහා උපදේශන සේවා ආයතනයක් සොයා ගැනීමට නියමිතය.
+Cabinet approval has been approved. It is expected to find a consulting service.
 
-මේ අතර ගැටඹේ ගුවන් පාලමේ ඉදිකිරීම් දේශීය අරමුදල් යොදා ගෙන නැවත ආරම්භ කිරීමටද ප්‍රවාහන හා සිවිල් ගුවන් සේවා අමාත්‍යවරයා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබී තිබේ.
+Meanwhile, the cabinet paper, the Minister of Transport and Civil Aviation has been approved using the construction of the local funds.
 
 ◼️
 
 [Data](articles/4635419c.json)
+
+[Extended Data](ext_articles/4635419c.ext.json)
 
 ---
 
@@ -480,21 +798,29 @@ Cabinet approval has been approved to appoint a committee consisting of several 
 
 ---
 
-### බීමතින් රාජකාරී කළ සැරයන් ඕඅයිසීගේ අතටම හසුවෙයි
+### Sergeants, drunk duties, are in the hands of OIC
 
 *2025-09-16 13:48:23* · [`adalk`](https://www.ada.lk/breaking_news/බීමතින්-රාජකාරී-කළ-සැරයන්-ඕඅයිසීගේ-අතටම-හසුවෙයි/11-418527) · `si`
 
-ආණමඩුව තෝනිගල පොලිස් මාර්ග බාධකයේ බිමතින් රාජකාරි කල පොලිස් සැරයන් වරයකු එම මාර්ග බාධකය හදිසි පරික්ෂාවකට ලක්කල ආණමඩුව පොලිස්ථානාධිපතිවරයාගේ අතටම අසුවිමේන් පසු පොලිස් භාරයට  ගෙන වෛද්‍ය පරික්ෂණ සදහා යොමු කිරීමට 15 දින සවස කටයුතු කර තිබුුු.ණි
+Anamaduwa had taken place after the police sergeant was taken into custody by the police officer in the area of ​​the Anamaduwa Police Station, following the latter of the Anamaduwa Ordinance.
 
-මෙලෙස බිමතින් රාජකාරි වල නිරතව ඇත්තේ ආණමඩුව පොලිස්ථානයට අනුයුක්තව තෝනිගල මාර්ග බාධකයේ රාජකාරි වල යොදවා සිටි අවුරුදු 59 ක්  පමන වයසැති කුරුණැගල ප්‍රදේශයෙ පදිංචි විවාහක පොලිස් සැරයන්වරයකු බව කියයි.
+The 59 year old residents of the Kurunegala, who was attached to the Anamaduwa Police Station, has been attached to the Anamaduwa Police Station.
 
-අදාල පොලිස් සැරයන්වරයා මාස කිපයකට පෙර ආණමඩුව පොලිස්ථානයට අනුයුක්ත කර ඇති අතර ඉන් පසු විවිධ රාජකාරි සදහා යොදවා සිට ඇති බවත් 15 දින තෝනිගල මාර්ග බාධකයට රාජකාරි සදහා යොමු කර සිටි බවද පැවසෙයි.
+It is said that the police sergeant has been attached to the Anamaduwa Police Station.
 
-කෙසේ නමුත් එම රාජකාරියට පැමින ඇත්තේද බිමතින් බවද ඉන් පසුව බීමත් රාජකාරි වල යෙදි ඇති බවද කියයි.පසුව අදාල පොලිස් මාර්ග බාධකය ආණමඩුව පොලිස්ථානාධිපතිවරයා හදිසි පරික්ෂාවකට ලක්කර ඇත්තේ 15 දින සවසය.
+However, there is a billion of duty and thereafter in the duties of the police station.
 
-...
+The sergeant has not even been drinking the police sergeant to even carrying the police sergeant.
+
+Medical reports have confirmed that it was drunk at the medical test. Later, the inquiry commenced on the instructions of the Assistant Superintendent of Police of Anamaduwa.
+
+However, the Anaamaduwa Assistant Superintendent of Anamaduwa was working to commence investigations into the police officer.
+
+◼️
 
 [Data](articles/3ca6819b.json)
+
+[Extended Data](ext_articles/3ca6819b.ext.json)
 
 ---
 
@@ -880,6 +1206,26 @@ Special attention was focused on the development of the North and East, as well 
 
 ---
 
+### World Bank VP Johannes Zutt pledges ongoing support for Sri Lanka
+
+*2025-09-16 12:16:00* · [`economynextcom`](https://economynext.com/world-bank-vp-johannes-zutt-pledges-ongoing-support-for-sri-lanka-240731/) · `en`
+
+ECONOMYNEXT – World Bank Vice President for South Asia, Johannes Zutt, has committed to continue supporting Sri Lanka in implementing reforms that create jobs, attract private investment, and modernize key sectors.
+
+“The groundwork for recovery has been laid. Now is the time to focus on jobs, investment, and inclusive development,” Zutt, on his first official visit to Sri Lanka, said.
+
+“The World Bank Group is ready to support Sri Lanka in this journey, prioritizing mobilization of private capital and attracting foreign direct investment to expand services and create jobs.”
+
+With nearly a million young people expected to enter the country’s workforce over the next decade but only 300,000 new jobs projected, Zutt stressed that unlocking private sector growth for job creation will be essential.
+
+...
+
+[Data](articles/ec1399f6.json)
+
+[Extended Data](ext_articles/ec1399f6.ext.json)
+
+---
+
 ### Digital signature for state officials
 
 *2025-09-16 12:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அதிகாரிகளுக்கு-டிஜிட்டல்-கையொப்பம்/175-364689) · `ta`
@@ -955,6 +1301,28 @@ The court issued the court, refusing to request the bail of the suspect.
 [Data](articles/c7a2519e.json)
 
 [Extended Data](ext_articles/c7a2519e.ext.json)
+
+---
+
+### ADB’s new procurement rules to require merit point criteria from 2026
+
+*2025-09-16 12:00:00* · [`economynextcom`](https://economynext.com/adbs-new-procurement-rules-to-require-merit-point-criteria-from-2026-240722/) · `en`
+
+ECONOMYNEXT – All internationally advertised contracts financed by the Asian Development Bank (ADB) will be evaluated using merit point criteria (MPC) from 1 January 2026, the international lender said.
+
+“The cheapest bridge is not a bargain if it needs rebuilding in ten years. Quality infrastructure lasts generations. It creates jobs today and opportunities tomorrow,” ADB President Masato Kanda said announcing the procurement reforms at the ADB Business Opportunities Fair.
+
+This is part of a procurement approach that will also introduce broader changes to create more local jobs and increase early engagement with suppliers across Asia and the Pacific.
+
+MPC applies weighted scoring to factors such as quality, experience, technical capability, and innovation, together with proposals to increase local participation and safeguard the environment, ADB said.
+
+“This ensures that contracts are awarded to bidders capable of delivering sustainable results and long-term development impact.
+
+...
+
+[Data](articles/f3d3216a.json)
+
+[Extended Data](ext_articles/f3d3216a.ext.json)
 
 ---
 
@@ -1681,351 +2049,5 @@ Trump Monday said three people died in attack. However carrying drugs on the boa
 [Data](articles/92b55802.json)
 
 [Extended Data](ext_articles/92b55802.ext.json)
-
----
-
-### Conventions in Chinese-American trade negotiations
-
-*2025-09-16 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214623) · `si`
-
-Agreement has been reached in the Spanish discussions on the Chinese-American Economic and Trade.
-
-The head of the Chinese party, head of the Chinese side, the head of the Chinese party, headed by the President of the Chinese party, He Lifeng, the Chief of Parliament, the Head of the United States, Treasury Jamieson Greeer, was presented to the latest talks.
-
-The discussion was held yesterday (14) at the agreement of the two countries on the agreement of both parties on the concurrence of both parties.
-
-The two parties have agreed on the resolution of tiktok issues, reducing investment obstructions, economic and trade cooperation promotion.
-
-Deputy Minister of Commerce Li Cheengggggggggggang, a Deputy Minister of Commerce Discussion on Thiktok's problem, said that China is also opposed to the politicization and nationalization related to economic and trade problems.
-
-He also said that China is never prepared to give up the principles and companies to an agreement to resolve these issues.
-
-...
-
-[Data](articles/72e06839.json)
-
-[Extended Data](ext_articles/72e06839.ext.json)
-
----
-
-### Under-19's Under-19 women's cricket team arrives
-
-*2025-09-16 09:26:39* · [`adalk`](https://www.ada.lk/sports/ඔස්ට්‍රේලියානු-19න්-පහළ-කාන්තා-ක්‍රිකට්-කණ්ඩායම-එයි/9-418521) · `si`
-
-Australia under 19 women's cricket team arrived at the Katunayake Airport on the night of Sri Lanka (09/15).
-
-They will participate in five Twenty20 cricket matches in the Dambulla International Cricket Stadium.
-
-The matches will be held from 20th to 28th. Thereafter, one day-limited overs 50 match will be held at the Dambulla International Cricket Stadium on 09/30.
-
-◼️
-
-[Data](articles/a2ca1260.json)
-
-[Extended Data](ext_articles/a2ca1260.ext.json)
-
----
-
-### Digital signature introduced for government entities to enhance efficiency
-
-*2025-09-16 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112552/digital-signature-introduced-for-government-entities-to-enhance-efficiency) · `en`
-
-A digital signature system has been introduced for public officials with the aim of making official duties easier and more efficient.
-
-Minister of Public Administration, Provincial Councils and Local Government, Dr. Chandana Abeyratne, stated that the government’s objective is to digitize public services and lead them onto a new path.
-
-He made these remarks while attending the event held yesterday (15) to formally recognize the use of digital signatures for public officials of the Home Affairs Division of the Ministry of Public Administration, Provincial Councils and Local Government.
-
-The Minister further emphasized that his vision is to create an efficient public service that meets the expectations of the people, and that this technology should be extended to Grama Niladhari officials as well.
-
-...
-
-[Data](articles/a7b9f14b.json)
-
-[Extended Data](ext_articles/a7b9f14b.ext.json)
-
----
-
-### The people were with me on the way of power as well as power
-
-*2025-09-16 09:22:40* · [`adalk`](https://www.ada.lk/breaking_news/බලය-ඇති-දා-මෙන්ම-බලය-නැති-දා-ජනතාව-මා-සමග-සිටියා/11-418520) · `si`
-
-Former President Mahinda Rajapaksa says that the term of people will be exceeding the tenure of the people, despite the large years of life.. He said this in a note of his Facebook account.
-
-"Between my life for more time. So is the same today. May end up as a period of time, but people's love exceeds. It doesn't end. The people were with Mahinda Rajapakse, on the time of power and lack of power.
-
-Others are familiar to us in the village. Talks of young children make me happy. Because young children are not with a former president, this conversation delicious. As such, I have it. A politician who is not committed to the country's people can never be a people's leader.
-
-The day of his visit to Carlton home will be grateful to the prestigious remuneration that blessed until the moment. I also express my thanks to the loving people and political colleagues, and for different professionals.
-
-I am humbly pride in a people's leader who is a people's leader and your neighbor and your closest. "
-
-◼️
-
-[Data](articles/13500c3a.json)
-
-[Extended Data](ext_articles/13500c3a.ext.json)
-
----
-
-### School vans that are unworthy
-
-*2025-09-16 09:19:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகுதியற்ற-நிலையில்-இருக்கும்-பாடசாலை-வேன்கள்/175-364668) · `ta`
-
-Of the 54 vans carrying school children, 53 vans are not eligible to carry students, police said.
-
-In addition, 24 vehicles were issued during the inspection, according to the Month Traffic Police Division.
-
-With the help of the police, 54 buses and vans carrying school children in the Madampe, Chilaw and Arachchikattuwa police areas were inspected.
-
-Only one vehicle was suitable for transporting students, police said. Remble
-
-◼️
-
-[Data](articles/f3208645.json)
-
-[Extended Data](ext_articles/f3208645.ext.json)
-
----
-
-### Japan's tourist arrivals fall after struggle
-
-*2025-09-16 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214622) · `si`
-
-The conflict held in Nepal has pressurized the tourism section.
-
-Foreign media reporting, the tourist arrivals of Nepal have fallen by 30%.
-
-The Nepalese Tourist Authority, Hotel owners and tourism organizers said that there was a 30% tournament with last year, some tourist arrivals have fallen by 30% and have been canceled.
-
-Foreign media reports that busy travel centers, shops and restaurants in Kathmandu have gone to the weighted tourist centers, shops and restaurants.
-
-59 of them are protesters and there are 10 inmates and three policemen.
-
-Protest in general area Kathmandu, Kathmandu, was against the decision to ban 26 social media columns.
-
-The majority of the new generation of new teenagers, which have been protesting against social media censorship, are young.
-
-◼️
-
-[Data](articles/b83449c1.json)
-
-[Extended Data](ext_articles/b83449c1.ext.json)
-
----
-
-### Gaza people have to leave due to Israel's heavy attack!
-
-*2025-09-16 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225195) · `ta`
-
-The people of Gaza are forced to leave due to Israel's extreme attacks
-
-Israel has bombed the al-Kafri building, the tallest residential building in Gaza.
-
-Hundreds of thousands of residents were forced to leave the city as a massive attacks on the city of Gaza last evening.
-
-Israeli media reports that exceptionally intense air strikes have been concentrated in the north and west of the city.
-
-At the same time, the Palestinian Civil Defense Ministry said that about 50 buildings were recently demolished as Israeli forces intensified attacks to capture the city.
-
-In Jidown, more than 1,500 homes and buildings have been destroyed since the beginning of August.
-
-Israel has once again attacked residential areas, schools and hospitals during its 23 -month genocide war.
-
-Gaza's Health Ministry said that 51 Palestinians, including six -year -old twins, were killed in the last 24 hours.
-
-◼️
-
-[Data](articles/f7f78814.json)
-
-[Extended Data](ext_articles/f7f78814.ext.json)
-
----
-
-### Motorcycle accident at Wellavawaya - Hambantota Road
-
-*2025-09-16 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225192) · `ta`
-
-A motorcycle traveling from Veeraveli to Pannekamuwa in the Sethawatta area of ​​the Veerawila Police Division on the Wellawaya - Hambantota road crashed into a motorcycle.
-
-In the accident, four people who were traveling on a motorcycle were injured and admitted to the Thebarawela Hospital.
-
-The deceased has been revealed to be a 25 -year -old soldier from Welimada.
-
-The body is being kept at the Thebarawela Hospital and further investigations into the incident are being carried out by Veerawila Police.
-
-◼️
-
-[Data](articles/e81b0676.json)
-
-[Extended Data](ext_articles/e81b0676.ext.json)
-
----
-
-### Mahinda has not received a house so far
-
-*2025-09-16 08:54:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-மஹிந்தவுக்கு-ஒரு-வீடு-கிடைக்கவில்லை/175-364667) · `ta`
-
-Former President Mahinda Rajapaksa is looking for places to settle in Colombo, but it is reported that there is still no suitable house.
-
-Sri Lanka PA's Secretary of State Attorney Sagara Kariyawasam said the expectation is to choose a house in the area with adequate and appropriate road facilities.
-
-Sakara Kariyawasam added that the suitable house for the former president will soon be available. Remble
-
-◼️
-
-[Data](articles/d75fbb9f.json)
-
-[Extended Data](ext_articles/d75fbb9f.ext.json)
-
----
-
-### A digital signature to public officials
-
-*2025-09-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214621) · `si`
-
-Public officials have introduced a digital signature to make functioning and efficient.
-
-◼️
-
-[Data](articles/9e481ab9.json)
-
-[Extended Data](ext_articles/9e481ab9.ext.json)
-
----
-
-### Van on southern highway - lorry collision
-
-*2025-09-16 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225188) · `ta`
-
-One person was killed when a van and a lorry collided with a van on the southern highway, police said.
-
-The accident took place between Kelanikama and Kahadudu on the Southern Expressway on Tuesday morning.
-
-The accident occurred when a van crashed into a lorry from Galle to Colombo, police said.
-
-A 35 -year -old woman died in the accident and seven people, including 3 children, were injured.
-
-The driver of the van, a male and two women who were injured in the accident, have been admitted to the Homagama Hospital for treatment and three boys have been admitted to the Kalubowila Hospital.
-
-The body was placed in the funeral room at the Homagama Hospital and the Moragahahena police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/4123fa37.json)
-
-[Extended Data](ext_articles/4123fa37.ext.json)
-
----
-
-### Woman dies in fatal expagree
-
-*2025-09-16 08:04:56* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-මාරක-අනතුරකින්-කාන්තාවක්-මරුට/11-418519) · `si`
-
-Woman was killed and another injured in an accident on the Southern Expressway this morning. The accident had occurred when a van collided with a lorry traveling from Galle to Colombo.
-
-The driver of the van and two women were admitted to the Kalubowila hospital and three children in the Homagama Hospital.
-
-◼️
-
-[Data](articles/bd2979ef.json)
-
-[Extended Data](ext_articles/bd2979ef.ext.json)
-
----
-
-### India - Russia does not affect the relationship between
-
-*2025-09-16 08:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-ரஷ்யா-இடையிலான-உறவு-பாதிக்காது/50-364665) · `ta`
-
-The Russian Foreign Ministry has explained that although various efforts have been made to affect the relationship between India and Russia, they will not benefit.
-
-Due to long -term friendship and cultural interactions, the relationship of the two countries cannot be broken.
-
-Any effort can be failed. The report states that India -Russia relations continue to improve. (A)
-
-◼️
-
-[Data](articles/06760e9f.json)
-
-[Extended Data](ext_articles/06760e9f.ext.json)
-
----
-
-### Over 75,000 tourists arrive in first two weeks of September
-
-*2025-09-16 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112550/over-75000-tourists-arrive-in-first-two-weeks-of-september) · `en`
-
-The number of tourists who arrived in the country in the first two weeks of September stood at 75,358, the Sri Lanka Tourism Development Authority has announced.
-
-According to latest data released by the SLTDA, a total of 21,389 tourists have arrived from India which accounts to 28.4%. Furthermore, 5,714 persons from the United Kingdom, 4,817 from Germany, 4,056 from China and 3,834 French nationals have also visited Sri Lanka in the month of September.
-
-Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,641,881 with the release of the latest figures for September. Among them, 346,984 individuals are from India, 156,855 from the UK and 120,314 are from Russia, the SLTDA noted.
-
-A total of 198,235 foreign nationals visited the country in August which was an increase of 20.4% in comparison to data from August 2024.
-
-◼️
-
-[Data](articles/f4cbff17.json)
-
-[Extended Data](ext_articles/f4cbff17.ext.json)
-
----
-
-### The sky is weighing
-
-*2025-09-16 07:57:21* · [`adalk`](https://www.ada.lk/breaking_news/අහස-වළාකුළින්-බර-වෙයි/11-418518) · `si`
-
-The sky of the northern, northern-dimensional, eastern, Eastern, Uva and Central provinces remain burdensome from the desires.
-
-Several spells of showers can also occur in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-In the Uva and Eastern Provinces, Mullaitivu District. Showers at around the place about 1.00
-
-◼️
-
-[Data](articles/5ee20def.json)
-
-[Extended Data](ext_articles/5ee20def.ext.json)
-
----
-
-### Nepal’s deadly protests hammer tourism sector as arrivals fall 30%
-
-*2025-09-16 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112549/nepals-deadly-protests-hammer-tourism-sector-as-arrivals-fall-30) · `en`
-
-Nepal’s deadliest protests in decades erupted just as the country entered its peak tourist season, dealing a blow to businesses that had been preparing to welcome trekkers from around the globe to experience its world-famous trails.
-
-Shops, pubs and restaurants lining the neatly organized alleys of places like Thamel — Kathmandu’s bustling tourist hub — remained largely deserted, even after reopening in the aftermath of a violent anti-corruption protest that left 72 dead over 2,000 injured and forced former prime minister K.P. Sharma Oli to resign.
-
-Nepal’s tourism authority, hotel owners and trek organisers said arrivals had fallen by 30% from this time last year, leading to bookings being cancelled.
-
-“I am sitting outside idle because there are no tourists ... Many groups have cancelled in September,” said 49-year-old Ram Chandra Giri, who arranges trekking expeditions and owns a Japanese restaurant.
-
-...
-
-[Data](articles/c69ab2fd.json)
-
-[Extended Data](ext_articles/c69ab2fd.ext.json)
-
----
-
-### Sri Lanka High Commission to Britain meets with Speaker
-
-*2025-09-16 07:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225189) · `ta`
-
-Sri Lankan High Commissioner to Britain. The Sri Lankan National Flag was mounted in front of the General Assembly building to commemorate the meeting between Speaker Sir Lindsay and the High Commissioner, said the Sri Lankan High Commission in Britain.
-
-The Sri Lankan High Commission further stated that it was discussed between the two of Sri Lanka and British bilateral relations in key sectors such as trade, investment, tourism education and relationships between the two countries.
-
-High Commissioner Senadheera, MP. Recalling the recent visit to Sri Lanka, the British parliamentary delegation led by Yasmin Qureshi, explained to the Speaker the continued parliamentary cooperation between the two countries.
-
-The meeting has been reported to have ended with a positive reference. The Sri Lankan High Commission further stated that both sides have reiterated their commitment to further strengthen the long -term friendship between Sri Lanka and Britain.
-
-◼️
-
-[Data](articles/46938a22.json)
-
-[Extended Data](ext_articles/46938a22.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 12:24:30**
+As of **2025-09-16 12:13:54**
 
 ## Newspaper Stats
 
-*Scraped **76,271** Articles*
+*Scraped **76,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,135 +12,55 @@ newsfirstlk | 363
 dbsjeyarajcom | 629
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,618
+economynextcom | 4,615
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,402
+adalk | 7,400
 adaderanalk | 9,825
-tamilmirrorlk | 11,417
+tamilmirrorlk | 11,416
 virakesarilk | 12,426
-adaderanasinhalalk | 13,306
+adaderanasinhalalk | 13,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,955 (95.7%) of 76,271 articles have been extended.
+72,936 (95.6%) of 76,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### அரச அதிகாரிகளுக்கு டிஜிட்டல் கையொப்பம்
-
-*2025-09-16 12:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-அதிகாரிகளுக்கு-டிஜிட்டல்-கையொப்பம்/175-364689) · `ta`
-
-நிர்வாக செயல்முறைகளை ஒழுங்குபடுத்துதல் மற்றும் அரசு சேவைகள் முழுவதும் செயல்திறனை மேம்படுத்துவதை நோக்கமாகக் கொண்ட ஒரு நடவடிக்கையாக, பொது நிர்வாக அமைச்சு அரச அதிகாரிகளுக்கு டிஜிட்டல் கையொப்பத்தை அறிமுகப்படுத்தியுள்ளது.
-
-உள்துறைப் பிரிவில் உள்ள அதிகாரிகளுக்கான டிஜிட்டல் கையொப்பங்களை அங்கீகரிக்கும் விழாவின் போது, ​​பொது நிர்வாகம், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் சந்தன அபேரத்ன இந்த முயற்சியைத் தொடங்கி வைத்தார்.
-
-பொது சேவைகளை டிஜிட்டல் மயமாக்குவதும், நவீன எதிர்பார்ப்புகளை பூர்த்தி செய்யும் வகையில் பொதுத்துறையை மாற்றுவதும் அரசாங்கத்தின் பரந்த நோக்கமாகும் என்று அமைச்சர் தெரிவித்தார்.
-
-"மக்கள் எதிர்பார்க்கும் திறமையான பொது சேவையை உருவாக்குவதே எங்கள் குறிக்கோள். இந்த டிஜிட்டல் கையொப்ப முயற்சி கிராம அலுவலர் மட்டத்தை கூட அடைய வேண்டும்," என்று அபேரத்ன கூறினார்.
-
-...
-
-[Data](articles/91ed8580.json)
-
----
-
-### මිනිස් ජාවාරම්කරුවන් අතරමං කළ 06 දෙනෙක් නාවික හමුදා භාරයට
-
-*2025-09-16 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214630) · `si`
-
-මිනිස් ජාවාරම්කරුවන් විසින් අතරමං කර දමා ගොස් ඇතැයි සැකකෙරෙන පුද්ගලයින් 06දෙනෙකු තලෛයිමන්නාරම වැලිපර ආශ්‍රිත මුහුදු ප්‍රදේශයේදී නාවික හමුදා භාරයට ගෙන තිබේ.
-
-පසුගිය 13 වනදා සිදුකරන ලද විශේෂ සෝදිසි මෙහෙයුමකදී මෙම පිරිස නාවික හමුදා භාරයට ගෙන ඇත.
-
-මිනිස් ජාවාරම්කරුවන් විසින් මෙම පිරිස නීතිවිරෝධී ලෙස ඉන්දියාවේ සිට මුහුදු මාර්ගයෙන් මෙරටට රැගෙනවිත් ඇති බව නාවික හමුදා පවසයි.
-
-ඔවුන් අවුරුදු 08ත් 56ත් අතර වයසේ පසුවන වව්නියාව, මඩු සහ කොක්කඩිචෝලේ යන ප්‍රදේශයන්හී පදිංචි පුද්ගලයින් බවට අනාවරණය වී තිබේ.
-
-ඔවුන් නාවික හමුදා භාරයට ගන්නා අවස්ථාවේදී විජලනයට පත්ව දැඩි සෞඛ්‍ය අපහසුතාවයට ලක්ව පීඩාවට පත්ව සිට ඇති බව වාර්තා වෙයි.
-
-එම පිරිස ඉදිරි නීතිමය කටයුතු සඳහා තලෙයිමන්නාරම පොලීසිය වෙත භාරදීමට කටයුතු කෙරිණි.
-
-◼️
-
-[Data](articles/2208b00e.json)
-
----
-
-### හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතිෂ් ගමගේ තවදුරටත් රිමාන්ඩ්
-
-*2025-09-16 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214629) · `si`
-
-මුදල් විශුද්ධීකරණය වැළැක්වීමේ පනත යටතේ අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී සතිෂ් ගමගේ මහතා ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-සැකකරුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් අධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/c7a2519e.json)
-
----
-
-### Southern province becomes the first to empower the GOVPA Digital Services
+### GovPay ඩිජිටල් සේවා මගින් සවිබල ගැන්වූ පළමු පළාත බවට දකුණු පළාත පත්වෙයි
 
 *2025-09-16 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214628) · `si`
 
-Throw All District and Divisional Secretariat Services have been empowered by Digital Payment Services.
+GovPay හරහා සියලු දිස්ත්‍රික් හා ප්‍රාදේශීය ලේකම් කාර්යාල සේවා ඩිජිටල් ගෙවීම් සේවා මගින් සවිබල ගැන්වූ පළමු පලාත බවට පත්ව තිබේ.
 
-The Digital Economic Ministry said that all district and Divisional Secretariats serving across the Southern Province have commenced online payments yesterday (15).
+ඩිජිටල් ආර්ථික අමාත්‍යාංශය පැවසුවේ GovPay හරහා රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව හා එක්වෙමින් දකුණු පළාත පුරා විහිදී ඇති සියලුම දිස්ත්‍රික් හා ප්‍රාදේශීය ලේකම් කාර්යාල මාර්ගගත ගෙවීම් පිළිගැන්වීම ඊයේ (15) දින මාතර දිස්ත්‍රික් ලේකම් කාර්යාලයෙන් ආරම්භ වූ බවය.
 
-Accordingly, the Southern Province will be appointed as the first province of all districts and divisional secretariats coming under the province through GOVPAY.
+ඒ අනුව GovPay හරහා පළාතක් යටතේ එන සියලුම දිස්ත්‍රික් සහ ප්‍රාදේශීය ලේකම් කාර්යාල ඩිජිටල් ගෙවීම් මගින් සවිබල ගැන්වූ පළමු පළාත ලෙස දකුණු පළාත පත් වනු ඇත.
 
-The Southern Province has enabled the people of the Southern Province at any time and easy payment to the Southern Province and any Finance Service towards the Govpay.
+මෙමගින් දකුණු පළාත පුරා විහිදී ඇති දිස්ත්‍රික් ලේකම් කාර්යාල 3කට සහ ප්‍රාදේශීය ලේකම් කාර්යාල 53කට GovPay හා සම්බන්ධ තම බැංකුවේ අන්තර්ජාල බැංකුකරණ / ජංගම බැංකුකරණ සේවා මගින් හෝ GovPay හා සම්බන්ධ ඕනෑම FinTech යෙදුමක් හරහා ක්ෂණිකව මෙන්ම පහසුවෙන් සහ සුරක්ෂිතව ඕනෑම මොහොතක ඕනෑම තැනක සිට මාර්ගගත ක්‍රමයට ගෙවීම් කිරීමේ පහසුව දකුණු පළාතේ ජනතාවට සැලසී තිබේ.
 
-The number of state institutions associated with GOVPAY has increased to 132.
+ඩිජිටල් ආර්ථික අමාත්‍යාංශය පැවසුවේ මේ අනුව GovPay හා සම්බන්ධ රාජ්‍ය ආයතන සංඛ්‍යාව මේ වන විට 132 දක්වා ඉහළ ගොස් ඇති බවය.
 
-The Ministry has already taken a value of over Rs.
-
-◼️
+...
 
 [Data](articles/bbdebf92.json)
 
-[Extended Data](ext_articles/bbdebf92.ext.json)
-
 ---
 
-### Namal's smell in Mahinda's air
+### ‘மஹிந்தவின் காற்றில் நாமலின் வாசம்’
 
 *2025-09-16 11:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-காற்றில்-நாமலின்-வாசம்/175-364685) · `ta`
 
-Sri Lanka PA has revealed that a new political initiative is about to begin with the theme of Namal's Vasam in Mahinda's wind.
+மஹிந்தவின் காற்றில் நாமலின் வாசம் என்ற தொனிப்பொருளில் ஒரு புதிய அரசியல் முயற்சி ஆரம்பிக்க உள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுன வட்டாரங்களில் இருந்து தெரியவந்துள்ளது.
 
 ◼️
 
 [Data](articles/795565fd.json)
-
-[Extended Data](ext_articles/795565fd.ext.json)
-
----
-
-### Sri Lanka services buoyed by wholesale, retail trade
-
-*2025-09-16 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-buoyed-by-wholesale-retail-trade-240717/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s services sector expanded at a slower rate in August 2025, with a Purchasing Managers Index compiled by the central bank registering a value of 68.9, compared to 70.1 in July.
-
-“The expansion was buoyed by strong performance in wholesale and retail trade, other personal services, and accommodation, food and beverage services, which increased amid high tourist arrivals,” the central bank said.
-
-Business activities related to financial services improved, driven by an increase in lending activities, CBSL said.
-
-New Businesses increased due to expansions in wholesale and retail trade, and financial services related activities.
-
-Employment continued to increase in August, reflecting “recruitments in several companies to support ongoing operational requirements.”
-
-◼️
-
-[Data](articles/fa351514.json)
 
 ---
 
@@ -163,8 +83,6 @@ Analysts said Starmer is hoping the display of royal flattery for the US preside
 ...
 
 [Data](articles/33ad04dd.json)
-
-[Extended Data](ext_articles/33ad04dd.ext.json)
 
 ---
 
@@ -201,8 +119,6 @@ The visit built on World Bank Group (WBG) President Ajay Banga’s visit in May,
 ...
 
 [Data](articles/530205dc.json)
-
-[Extended Data](ext_articles/530205dc.ext.json)
 
 ---
 
@@ -265,28 +181,6 @@ According to the police, the police have seized the bullets and found that 9mm o
 [Data](articles/026a4c9b.json)
 
 [Extended Data](ext_articles/026a4c9b.ext.json)
-
----
-
-### Sri Lanka manufacturing expands at slower rate in August 2025: PMI
-
-*2025-09-16 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-expands-at-slower-rate-in-august-2025-pmi-240710/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing sector expanded at a slower rate to 55.2 in August, compared to 62.2 in July, according to a Purchasing Managers Index compiled by the central bank.
-
-All sub-indices registered lower rates of expansion compared to the previous month.
-
-The growth in the New Orders and Production sub-indices were supported by strong performances in the food and beverages manufacturing sector, CBSL said.
-
-The Employment sub-index remained in the positive territory during August, indicating favourable Employment conditions.
-
-However, Suppliers’ Delivery Time continued to lengthen during the month; “with some respondents reported delays in international shipping”.
-
-“Manufacturing activities over the next three months remain positive, largely underpinned by the anticipated seasonal demand towards the year end.” (Colombo/Sep16/2025)
-
-◼️
-
-[Data](articles/ffb21b45.json)
 
 ---
 
@@ -570,32 +464,6 @@ Due to this fire, more than 1,100 families lost their homes and in temporary she
 
 ---
 
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-16 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-240692/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.10/15 to the US dollar on Monday, relatively unchanged from 302.10/17 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.55/60 percent, up from 9.54/58 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/10 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/45 percent, up from 10.38/45 percent.
-
-The telegraphic transfer rates for the American dollar was 298.6000 buying, 305.6000 selling; the British pound was 405.3974 buying, and 416.7592 selling, and the euro was 349.2441 buying, 360.6073 selling.
-
-The Colombo Stocks Exchange was trading in red; The ASPI was down 0.39 percent, or 80.16 points, at 20,435; the S&P SL20 was down 0.46 percent, or 26.56 points, at 5,825.
-
-...
-
-[Data](articles/3c907988.json)
-
----
-
 ### Sri Lanka eyes 6% growth in 2026, but 2025 outlook dims amid spending delays: Dy Minister
 
 *2025-09-16 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112553/sri-lanka-eyes-6-growth-in-2026-but-2025-outlook-dims-amid-spending-delays-dy-minister) · `en`
@@ -636,20 +504,6 @@ Sri Lanka recorded economic growth of 5% in 2024. That would likely slow to 4% t
 
 ---
 
-### මත්ද්‍රව්‍ය රැගත් වෙනිසියුලා බෝට්ටුවක් විනාශ කළ බව ට්‍රම්ප් කියයි
-
-*2025-09-16 09:31:59* · [`adalk`](https://www.ada.lk/international/මත්ද්‍රව්‍ය-රැගත්-වෙනිසියුලා-බෝට්ටුවක්-විනාශ-කළ බව-ට්‍රම්ප්-කියයි/3-418522) · `si`
-
-ජාත්‍යන්තර මුහුදේ ගමන් කරමින් සිටි වෙනිසියුලාවේ මත්ද්‍රව්‍ය රැගත් බව කියන බෝට්ටුවක් එක්සත් ජනපද හමුදාව විසින් විනාශ කර ඇති බව ඇමෙරිකා ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසයි.
-
-ප්‍රහාරයෙන් පුද්ගලයින් තිදෙනෙකු මිය ගිය බව ට්‍රම්ප් සඳුදා පැවසීය. කෙසේ වෙතත් බෝට්ටුවේ මත්ද්‍රව්‍ය රැගෙන ගිය
-
-◼️
-
-[Data](articles/92b55802.json)
-
----
-
 ### Conventions in Chinese-American trade negotiations
 
 *2025-09-16 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214623) · `si`
@@ -671,22 +525,6 @@ He also said that China is never prepared to give up the principles and companie
 [Data](articles/72e06839.json)
 
 [Extended Data](ext_articles/72e06839.ext.json)
-
----
-
-### ඔස්ට්‍රේලියානු 19න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායම එයි
-
-*2025-09-16 09:26:39* · [`adalk`](https://www.ada.lk/sports/ඔස්ට්‍රේලියානු-19න්-පහළ-කාන්තා-ක්‍රිකට්-කණ්ඩායම-එයි/9-418521) · `si`
-
-ඕස්ට්‍රේලියානු වයස අවුරුදු 19 න් පහළ කාන්තා ක්‍රිකට් කණ්ඩායම ශ්‍රී ලංකාවේ තරග සංචාරයක් සදහා ඊයේ (09/15) දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
-
-ඔවුන් දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේ පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරග 05 ක් සදහා සහභාගී වීමට නියමිතය .
-
-තරග ලබන 20 දා සිට 28දා තෙක් පැවැත්වීමට නියමිතය. ඉන් අනතුරුව එක් දින සීමිත ඕවර් 50 තරගයක් ද 09/30 දින දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගනයේ දී පැවැත්වීමට නියමිතය .
-
-◼️
-
-[Data](articles/a2ca1260.json)
 
 ---
 
@@ -2007,5 +1845,151 @@ In order to create the real Oktoberfest scene, a 14-member crew will be arriving
 [Data](articles/4f2b84d4.json)
 
 [Extended Data](ext_articles/4f2b84d4.ext.json)
+
+---
+
+### Equity (shares): What it means to own a piece of a company
+
+*2025-09-15 22:59:00* · [`islandlk`](http://island.lk/equity-shares-what-it-means-to-own-a-piece-of-a-company/) · `en`
+
+This article is part of a collaborative series by the Securities and Exchange Commission of Sri Lanka (SEC), CFA Society Sri Lanka and the Colombo Stock Exchange (CSE) and which aims to enhance financial literacy and empower individuals with the knowledge and tools to make informed financial decisions and build long-term financial security.
+
+...
+
+[Data](articles/7c140a7e.json)
+
+[Extended Data](ext_articles/7c140a7e.ext.json)
+
+---
+
+### Real estate stocks gain from low interest rates as major land sales go through
+
+*2025-09-15 22:56:00* · [`islandlk`](http://island.lk/real-estate-stocks-gain-from-low-interest-rates-as-major-land-sales-go-through/) · `en`
+
+The CSE recorded a downward trend yesterday due to profit-takings in select stocks, market analysts said.
+
+Low interest rates significantly benefited the real estate sector, for instance. Recently Home Lands executed a major land acquisition at Thunmulla, while last week Prime Lands acquired a major land stretch at Bambalapitiya Station Road to the tune of Rs 3.5 billion, analysts added.
+
+However, due to profit takings both indices moved downwards. The All Share Price Index went down by 257.01 points, while the S and P SL20 declined by 73.66 points. Turnover stood at Rs 4.1 billion with eight crossings.
+
+Those crossings were reported in HNB, which crossed 880,000 shares to the tune of Rs 334 million and its shares traded at Rs 380, Pan Asia Bank 1.8 million shares crossed for Rs 107 million; its shares traded at Rs 57, Singer (Sri Lanka) 991,000 shares crossed for Rs 66.4 million; its shares traded at Rs 67, NTB 220,000 shares crossed for Rs 57.6 million; its shares sold at Rs 262.
+
+...
+
+[Data](articles/b6dd367f.json)
+
+[Extended Data](ext_articles/b6dd367f.ext.json)
+
+---
+
+### Early Bird Tickets launched for Sri Lanka Retail Forum 2025
+
+*2025-09-15 22:55:00* · [`islandlk`](http://island.lk/early-bird-tickets-launched-for-sri-lanka-retail-forum-2025/) · `en`
+
+15th September 2025, Colombo – The Sri Lanka Retailers’ Association (SLRA) has announced the launch of Early Bird ticket sales for the much anticipated Sri Lanka Retail Forum 2025, scheduled for 23rd October 2025 at the Shangri-La Hotel, Colombo.
+
+This year’s forum, themed “Retail Reimagined – Where AI Meets the Human Edge,” is set to be the most dynamic edition yet. More than 450 leaders from retail, technology, fintech, startups, and government will gather to explore how artificial intelligence, data, and human creativity are coming together to transform the retail industry and deliver smarter, more meaningful customer experiences.
+
+Early Bird tickets, priced at LKR 18,000, include full-day access to keynote sessions, panel discussions, networking opportunities, and refreshments. Regular tickets will be priced at LKR 20,000, making this the ideal time for industry professionals to secure their spot.
+
+...
+
+[Data](articles/e4499081.json)
+
+[Extended Data](ext_articles/e4499081.ext.json)
+
+---
+
+### CDB celebrates remarkable journey of 30 years
+
+*2025-09-15 22:53:00* · [`islandlk`](http://island.lk/cdb-celebrates-remarkable-journey-of-30-years/) · `en`
+
+Reflecting on a remarkable three-decade journey of pioneering steps, benchmark achievements, and trailblazing initiatives in Sri Lanka’s Non-Banking Finance Industry (NBFI), Citizens Development Business Finance PLC (CDB) marked its 30th anniversary with a series of meaningful celebrations. Commencing on September 4th with a Sarwa Rathrika Pirith ceremony and Heel Danaya the following morning, the events embraced both tradition and unity. On September 8th, team members from across the island gathered for a grand celebration that underscored CDB’s people-centric culture and Sri Lankan roots. A highlight was the opening of the CDB Heritage Pavilion, a creative showcase of its transformative milestones and inspiring journey to becoming a top-tier NBFI. The celebrations seamlessly blended heritage, culture, and innovation, reaffirming CDB’s vision for the future.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/cfcb2517.json)
+
+[Extended Data](ext_articles/cfcb2517.ext.json)
+
+---
+
+### "The term may end, love cannot"
+
+*2025-09-15 22:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிக்காலம்-முடியலாம்-அன்பு-முடியாது/175-364658) · `ta`
+
+Former President Mahinda Rajapakse today said that a politician who was not binded with the sentiments of the people could never be a people leader.
+
+In a post in his Facebook account, he said that even though the presidency ends, the love of the people will never end.
+
+“Most of my life was spent in people. It is still intact today. The presidency may end, but the love of the people is more than that time. It never ends. When the people were in power and not in office, they stood with Mahinda Rajapaksa, ”he said in the record.
+
+He said that he thanked the Maha Sangha who met him at his Carlton residence and thanked the people, politicians and experts who met him and inquired about his health.
+
+◼️
+
+[Data](articles/e4c37847.json)
+
+[Extended Data](ext_articles/e4c37847.ext.json)
+
+---
+
+### Clinical training for final-year medical students of Moratuwa University begins at Nagoda Hospital
+
+*2025-09-15 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112541/clinical-training-for-final-year-medical-students-of-moratuwa-university-begins-at-nagoda-hospital) · `en`
+
+Clinical training for final-year medical students of the Faculty of Medicine at the University of Moratuwa has officially commenced at the Kalutara Nagoda Teaching Hospital.
+
+A group of one hundred medical students has been enrolled as the first batch for professorial training.
+
+The inauguration of the clinical training, essential for the academic activities of the final-year students, was held this morning (15) at the Kalutara Nagoda Teaching Hospital, under the patronage of the Minister of Health and Mass Media, Dr. Nalinda Jayatissa.
+
+Following the decision made by the Ministry of Health and Mass Media under the instructions of Minister Jayatissa, steps were taken in November 2024 to establish professorial units at Kalutara Nagoda Teaching Hospital. These include units for Obstetrics and Gynecology, Pediatrics, Psychiatry, Medicine, and Surgery.
+
+...
+
+[Data](articles/54b534ad.json)
+
+[Extended Data](ext_articles/54b534ad.ext.json)
+
+---
+
+### Sri Lanka's target of 150 runs
+
+*2025-09-15 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225179) · `ta`
+
+Twenty20 match between Sri Lanka and Hong Kong is currently underway.
+
+Accordingly, Hong Kong lost only 4 wickets in 20 overs and scored 149 runs.
+
+◼️
+
+[Data](articles/fe110da0.json)
+
+[Extended Data](ext_articles/fe110da0.ext.json)
+
+---
+
+### Sri Lanka target 150 runs
+
+*2025-09-15 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214613) · `si`
+
+The match between the Sri Lanka team and Hong Kong team will be held in the Asia T20 cricket tournament.
+
+The Sri Lanka team won the toss and elected to bat first, the Hong Kong team scored 149 runs for the loss of 149.
+
+Drugs were unbeaten on 52 runs for the Hong Kong group in the batland.
+
+Dhishamra Chameera, Dhassamanthi Chameera, took 2 wickets for Sri Lanka.
+
+Sri Lanka has won 150 runs for the winning the match.
+
+◼️
+
+[Data](articles/bffb889c.json)
+
+[Extended Data](ext_articles/bffb889c.ext.json)
 
 ---

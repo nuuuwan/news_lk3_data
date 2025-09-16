@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 10:55:29**
+As of **2025-09-16 12:13:54**
 
 ## Newspaper Stats
 
-*Scraped **76,247** Articles*
+*Scraped **76,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,327 @@ economynextcom | 4,615
 islandlk | 4,693
 dailymirrorlk | 4,733
 dailyftlk | 5,409
-adalk | 7,399
-adaderanalk | 9,819
-tamilmirrorlk | 11,411
+adalk | 7,400
+adaderanalk | 9,825
+tamilmirrorlk | 11,416
 virakesarilk | 12,426
-adaderanasinhalalk | 13,300
+adaderanasinhalalk | 13,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-72,884 (95.6%) of 76,247 articles have been extended.
+72,936 (95.6%) of 76,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
 
-### நாய் மீது வெந்நீர் ஊற்றிய கடை உரிமையாளர்
+### GovPay ඩිජිටල් සේවා මගින් සවිබල ගැන්වූ පළමු පළාත බවට දකුණු පළාත පත්වෙයි
+
+*2025-09-16 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214628) · `si`
+
+GovPay හරහා සියලු දිස්ත්‍රික් හා ප්‍රාදේශීය ලේකම් කාර්යාල සේවා ඩිජිටල් ගෙවීම් සේවා මගින් සවිබල ගැන්වූ පළමු පලාත බවට පත්ව තිබේ.
+
+ඩිජිටල් ආර්ථික අමාත්‍යාංශය පැවසුවේ GovPay හරහා රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව හා එක්වෙමින් දකුණු පළාත පුරා විහිදී ඇති සියලුම දිස්ත්‍රික් හා ප්‍රාදේශීය ලේකම් කාර්යාල මාර්ගගත ගෙවීම් පිළිගැන්වීම ඊයේ (15) දින මාතර දිස්ත්‍රික් ලේකම් කාර්යාලයෙන් ආරම්භ වූ බවය.
+
+ඒ අනුව GovPay හරහා පළාතක් යටතේ එන සියලුම දිස්ත්‍රික් සහ ප්‍රාදේශීය ලේකම් කාර්යාල ඩිජිටල් ගෙවීම් මගින් සවිබල ගැන්වූ පළමු පළාත ලෙස දකුණු පළාත පත් වනු ඇත.
+
+මෙමගින් දකුණු පළාත පුරා විහිදී ඇති දිස්ත්‍රික් ලේකම් කාර්යාල 3කට සහ ප්‍රාදේශීය ලේකම් කාර්යාල 53කට GovPay හා සම්බන්ධ තම බැංකුවේ අන්තර්ජාල බැංකුකරණ / ජංගම බැංකුකරණ සේවා මගින් හෝ GovPay හා සම්බන්ධ ඕනෑම FinTech යෙදුමක් හරහා ක්ෂණිකව මෙන්ම පහසුවෙන් සහ සුරක්ෂිතව ඕනෑම මොහොතක ඕනෑම තැනක සිට මාර්ගගත ක්‍රමයට ගෙවීම් කිරීමේ පහසුව දකුණු පළාතේ ජනතාවට සැලසී තිබේ.
+
+ඩිජිටල් ආර්ථික අමාත්‍යාංශය පැවසුවේ මේ අනුව GovPay හා සම්බන්ධ රාජ්‍ය ආයතන සංඛ්‍යාව මේ වන විට 132 දක්වා ඉහළ ගොස් ඇති බවය.
+
+...
+
+[Data](articles/bbdebf92.json)
+
+---
+
+### ‘மஹிந்தவின் காற்றில் நாமலின் வாசம்’
+
+*2025-09-16 11:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-காற்றில்-நாமலின்-வாசம்/175-364685) · `ta`
+
+மஹிந்தவின் காற்றில் நாமலின் வாசம் என்ற தொனிப்பொருளில் ஒரு புதிய அரசியல் முயற்சி ஆரம்பிக்க உள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுன வட்டாரங்களில் இருந்து தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/795565fd.json)
+
+---
+
+### Britain to roll out red carpet, royal fanfare for Trump visit
+
+*2025-09-16 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112560/britain-to-roll-out-red-carpet-royal-fanfare-for-trump-visit) · `en`
+
+United States President Donald Trump will arrive in Britain on Tuesday (Sep 16) for a three-day trip.
+
+An elaborate show of pomp and pageantry awaits the American leader during his historic second state visit, as the United Kingdom spares no effort to charm its most unpredictable transatlantic guest.
+
+The last time Trump visited the storied Windsor Castle was for tea with the late Queen Elizabeth II, during his first term in office in 2019.
+
+This time, he will be hosted to a state banquet by King Charles III at the almost 1,000-year-old castle west of London, and meet with British Prime Minister Keir Starmer at his country estate.
+
+It is unusual for non-royals to receive the full ceremony of a second state visit, rendering Trump’s invitation a striking exception.
+
+Analysts said Starmer is hoping the display of royal flattery for the US president – Trump has long expressed a fascination with the royal family – will help keep UK-US ties on a friendly footing.
+
+...
+
+[Data](articles/33ad04dd.json)
+
+---
+
+### Namal met the Indian High Commission
+
+*2025-09-16 11:13:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்-ஸ்தானிகரை-சந்தித்தார்-நாமல்/175-364682) · `ta`
+
+Indian High Commissioner Santosh Ja meets Namal Rajapaksa, National Organizer and Member of Parliament of the Sri Lanka PA, has met at the Indian High Commission office.
+
+The meeting was organized by the Indian High Commission on the request of MP Namal Rajapaksa.
+
+Former President Mahinda Rajapakse met with the Chinese Ambassador in Colombo at his official residence in Wijerama Mawatha before his departure from his official residence in Colombo.
+
+When Ranil Wickremesinghe was arrested, the Chinese Ambassador telephoned President Anura Kumara Dissanayake and inquired about the arrest.
+
+◼️
+
+[Data](articles/e7568b4c.json)
+
+[Extended Data](ext_articles/e7568b4c.ext.json)
+
+---
+
+### World Bank Vice President concludes first official visit to Sri Lanka
+
+*2025-09-16 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112559/world-bank-vice-president-concludes-first-official-visit-to-sri-lanka) · `en`
+
+The World Bank’s Vice President for South Asia, Johannes Zutt, concluded his first official visit to Sri Lanka yesterday (15).
+
+During his two-day visit, he met with President Anura Kumara Dissanayake, Central Bank Governor Dr. Nandalal Weerasinghe, Secretary to the Treasury Dr. Harshana Suriyapperuma, and other senior officials.
+
+The visit built on World Bank Group (WBG) President Ajay Banga’s visit in May, when the Bank pledged over US$1 billion in financing for the country over the next three years. Since then, the WBG and Sri Lanka have partnered on two programs—a renewable energy program targeting 1 GW with private investment (US$150 million) and an agriculture project ($100 million). Additional operations are planned over the next 12 months in tourism, regional development with a focus on the Northern and Eastern provinces, digital development, and ports and logistics.
+
+...
+
+[Data](articles/530205dc.json)
+
+---
+
+### World Bank representatives meet President
+
+*2025-09-16 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214627) · `si`
+
+President Anura Kumara Dissanayake said that Sri Lanka could educate the world community to educate the world community in Sri Lanka without corruption.
+
+The World Bank Group, Vice President of the South Asian region of the World Bank Group, met President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (15).
+
+It was widely discussed how the World Bank Group was able to support the future development goals in Sri Lanka.
+
+The World Bank representatives, who expressed their admiration on the current economic program in Sri Lanka, proposed to pay more attention to economic growth and employment generation.
+
+Special attention was focused on the development of the North and East as well as to promote areas where the demonstration of digital, tourism, agriculture and infrastructure.
+
+It was also revealed that the assistance of the Government of Sri Lanka has been approved by the Government of Sri Lanka.
+
+...
+
+[Data](articles/b9de099b.json)
+
+[Extended Data](ext_articles/b9de099b.ext.json)
+
+---
+
+### Dawn
+
+*2025-09-16 11:06:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-குறைந்த-மருந்து-மக்களிடையே-சென்றடையும்-அபாயம்/175-364681) · `ta`
+
+In examination of some of the unusual costs sold at private pharmacies, it has been confirmed that there are no proper additives in some drugs, which has raised serious concerns over the safety of the patient, said the president of the Medical and Civil Rights Professional Association, expert Sanjeewa Daily Miruk.
+
+He said that some drugs were imported to the country without proper registration at the National Pharmaceutical Regulatory Authority (NMRA) and that it was sold in private pharmacies without adequate supervision.. Although the country produced on labels is shown, he warned that such details may be fake local.
+
+Citing an instance, papaverine. 300 is available, but in fact, it is a fake product brought to the country without the consent of NMRA.
+
+"No one knows whether the drugs sold in such pharmacies have the right active ingredient or are mixed with harmful chemicals," he warned that these products are sold at very low or at a very high price, especially near large hospitals.
+
+...
+
+[Data](articles/5742872f.json)
+
+[Extended Data](ext_articles/5742872f.ext.json)
+
+---
+
+### Rescue of bullets from the hotel toilet
+
+*2025-09-16 11:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-கழிப்பறையில்-இருந்து-தோட்டாக்கள்-மீட்பு/175-364680) · `ta`
+
+Pirikkottai police said that 17 bullets were found from a garbage bin in a hotel toilet in Pettah, Colombo, Colombo.
+
+Employees who saw the bullets in the garbage bin when they went to the toilet have informed the police about this.
+
+According to the police, the police have seized the bullets and found that 9mm of bullets were found.. Police suspect that someone may have entered the toilet and poured bullets in the trash bin.
+
+◼️
+
+[Data](articles/026a4c9b.json)
+
+[Extended Data](ext_articles/026a4c9b.ext.json)
+
+---
+
+### Clemore's attack on prison bus
+
+*2025-09-16 11:01:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலை-பஸ்-மீது-கிளேமோர்-தாக்குதல்-நடத்த-திட்டம்/175-364679) · `ta`
+
+Information on the Clemore bombing targeting the prison bus has been exposed.
+
+Officials said that the Clemore bomb was aimed at the prison bus when he was brought to court, Harak Katta, to the court.
+
+The project has been launched by the underworld gang, including Kehelpathara Padme Commando Salinda.
+
+This was revealed during an investigation into the army Lieutenant Colonel, who was arrested on charges of selling the most powerful weapons for the underworld gang.
+
+During an investigation into the suspected Lieutenant Colonel, Commando Salinda, who had telephoned him on several occasions, claimed that he had asked for two Clemore bombs.
+
+However, investigators suspect that the suspected Lieutenant Colonel may have given two clamore bombs to the commando Salinda.
+
+If the plan to kill Harak Kata fails to disguise as a journalist, Kehelpathara Padme and Commando Salinda are preparing to launch this Clemore bomb.
+
+...
+
+[Data](articles/3694b4a0.json)
+
+[Extended Data](ext_articles/3694b4a0.ext.json)
+
+---
+
+### Profession of the Electrical Engineering Association escalates
+
+*2025-09-16 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214626) · `si`
+
+The Ceylon Electricity Board (CEB) Executive Committee Member Dhanushka Parakrakarakka Parakasusinghe said that the Ceylon Electricity Board (CEB)
+
+He said that the first course of action taken to work so far was over yesterday and that his union has decided to take up its second step since today.
+
+However, he said that the public measures would not be expected to embarrass the people due to the professional measures.
+
+Accordingly, the involvement of tender committees is informed of other committees, in addition to the work in the future.
+
+He also decided to report sick leave for tomorrow (17) and two teams on the day and tomorrow.
+
+However, he said that the professional measures would not be interrupted by any other activities or any other activities.
+
+◼️
+
+[Data](articles/f96269e5.json)
+
+[Extended Data](ext_articles/f96269e5.ext.json)
+
+---
+
+### Deputy Minister reveals the advancement planning of the government
+
+*2025-09-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214625) · `si`
+
+Deputy Minister of Economic Development Anil Jayantha Fernando said Sri Lanka has targeted its economic growth to 6%.
+
+The Deputy Minister said that it could partially contribute partly through record capital expenditure, but delaying the approval of the budget could hinder its performance this year.
+
+Deputy Minister Anil Jayantha stated that Sri Lankans and investors must be hopeful since the economic crisis of the year 2022.
+
+Sri Lanka recorded 5% economic growth in 2024. Anil Jayantha said that this year was slowingly to slow down 4% to 4.5% due to the delay in the passage of the budget.
+
+In 2026, the government is planning to increase its capital expenditure from 8% to Rs 1.4 trillion.
+
+The International Monetary Fund for Sri Lanka in March 2023 is foretold this year's GDP growth.
+
+The economy pointed out that the economy grew 4.9% from the year 2025, said the official data on Monday.
+
+◼️
+
+[Data](articles/00f17265.json)
+
+[Extended Data](ext_articles/00f17265.ext.json)
+
+---
+
+### Sri Lanka’s PMI for August expands
+
+*2025-09-16 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112558/sri-lankas-pmi-for-august-expands) · `en`
+
+The Central Bank of Sri Lanka’s (CBSL) purchasing manager’s report for August 2025 has shown that the manufacturing index expanded to 55.2 in the month of August this year.
+
+◼️
+
+[Data](articles/00a50fad.json)
+
+[Extended Data](ext_articles/00a50fad.ext.json)
+
+---
+
+### The owner of the shop that poured hot water over the dog
 
 *2025-09-16 10:34:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்-மீது-வெந்நீர்-ஊற்றிய-கடை-உரிமையாளர்/76-364677) · `ta`
 
-ஒரு கடையின் முன் தூங்கிக் கொண்டிருந்த நாய் மீது வெந்நீர் ஊற்றி விரட்டும் சம்பவம், பொகவந்தலாவை நகரில் உள்ள ஒரு பாதுகாப்பு கேமராவில் திங்கட்கிழமை (15) பதிவாகியுள்ளது.
+A security camera in Bogawantalawa was reported on Monday (15).
 
-பொகவந்தலாவை  நகரில் சுற்றித் திரிந்த அந்த நாய் அமைதியாகத் தூங்கிக் கொண்டிருந்தது, கடைக்கு அருகில் பழைய இரும்புப் பொருட்களை சேகரிக்கும் கடையின் உரிமையாளர் அந்த நாய் மீது வெந்நீர் ஊற்றியுள்ளார்.
+The dog was quietly sleeping in Bogawantalawa, and the owner of the shop gathering old iron items near the shop poured water on the dog.
 
-சூடான நீரில் நனைந்த நாய், வலியால் அலறிக் கொண்டு தூங்கிக் கொண்டிருந்த இடத்திலிருந்து ஓடிவிட்டதாக அருகிலுள்ள மக்கள் குழு தெரிவித்துள்ளது.
+A group of people nearby said that the dog, drenched in hot water, ran away from the place where he was screaming in pain.
 
 ◼️
 
 [Data](articles/59ac14ce.json)
 
+[Extended Data](ext_articles/59ac14ce.ext.json)
+
 ---
 
-### ஒரே பிரசவத்தில் 4 குழந்தைகள் பெற்றெடுத்த தாய்
+### 4 children
 
 *2025-09-16 10:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/ஒரே-பிரசவத்தில்-4-குழந்தைகள்-பெற்றெடுத்த-தாய்/53-364676) · `ta`
 
-மும்பை மராட்டிய மாநிலத்தில் ஒரே பிரசவத்தில் 4 குழந்தைகளை பெற்ற அரிதினும் அரிதான நிகழ்வு நடந்துள்ளது.
+In the Mumbai state of Mumbai, there is a rare event that has had 4 children in the same delivery.
 
-சத்தாரா அரசு மருத்துவமனையில் காஜல் விகாஸ் (27) என்ற பெண் பிரசவ வலியுடன் அனுமதிக்கப்பட்டார்.
+Kajal Vikas, 27, was admitted to the Satara Government Hospital with childbirth.
 
-மருத்துவர்கள் பரிசோதனை செய்ததில் அவர் வயிற்றில் 4 குழந்தைகளை சுமந்து வந்தது தெரியவந்தது.
+Doctors examined revealed that he was carrying 4 children in the stomach.
 
-அறுவை சிகிச்சையில் 3 பெண் குழந்தைகள், ஒரு ஆண் குழந்தை பிறந்து நலமுடன் உள்ளனர்.
+In surgery, 3 female children are born with a baby boy.
 
 ◼️
 
 [Data](articles/46b4a7f1.json)
 
+[Extended Data](ext_articles/46b4a7f1.ext.json)
+
 ---
 
-### විවාහ ගිවිසගත් පෙම්වතා පැදවූ වෑන් රිය තුළම අවසන් ගමන් ගිය සඳමාලි
+### Sandamali went on the last traveled by the van driving
 
 *2025-09-16 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214624) · `si`
 
-පවුල් දෙකක සාමාජිකයන් අටදෙනෙකු ගමන් ගත් වෑන් රථයක් දක්ෂිණ අධිවේගී මාර්ගයේදී ලොරියක ගැටීමෙන් අද (16) අලුයම මාරක අනතුරක් සිදුව තිබුණේ බොහෝදෙනාගේ නෙතට කඳුළක් එක්කරමිනි.
+Two members of two members of two families were a fatal accident in the Southern Expressway.
 
-◼️
+A young girl was killed and three other children were injured.
+
+Pushpumari, a 35-year-old cake, a 35-year-old cake business is a 35 year old cake in Opathaktota.
+
+The van that was on the Thawalama from Thawala to bring the brother of Sandalai to arrive from Israel to the Katunayake airport was crashed.
+
+The accident had occurred when the van collided with a Dipither lorry where the goods were traveling back to Colombo at 9.6km.
+
+The van is driven by the young man who was engaged in the house at the time of the accident.
+
+Sandamali had been in the front left side of the Van and had gone to the survivor of the police and rescue officers and car rescue officers and vehicle policemen had gone to the rescue of the victims.
+
+When the accident had reached the place where they were in the road, the group had taken out of the van and the three children have been hospitalized soon.
+
+...
 
 [Data](articles/6377e736.json)
+
+[Extended Data](ext_articles/6377e736.ext.json)
 
 ---
 
@@ -82,13 +344,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-16 10:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சேற்றில்-சிக்கிய-பெண்ணின்-சடலம்-யாருடையது/76-364675) · `ta`
 
-பேராதனையில் உள்ள புதிய கெட்டம்பே பாலத்திற்கு அருகிலுள்ள மகாவலி கங்கையில் ஒரு இளம் பெண்ணின் சடலம் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The body of a young woman has been found in the Mahaweli Ganga near the New Ketambe Bridge in Peradeniya, police said.
 
-அந்தப் பெண் பாலத்தில் இருந்து செவ்வாய்க்கிழமை (16) அதிகாலை குதித்திருக்கலாம் என சந்தேகிக்கப்படுகிறது, மேலும் அவர் கொண்டு வந்ததாக சந்தேகிக்கப்படும் ஒரு பை பாலத்தின் மேலே இருந்து கண்டெடுக்கப்பட்டு, அது பொலிஸாரின் கட்டுப்பாட்டில் உள்ளது.
+It is suspected that the woman may have jumped from the bridge on Tuesday (16), and is found from the top of the bridge, which is suspected of bringing her, and is under the control of the police.
 
 ◼️
 
 [Data](articles/c76d102d.json)
+
+[Extended Data](ext_articles/c76d102d.ext.json)
+
+---
+
+### 27,500 individuals subjected to inspection during special police operation
+
+*2025-09-16 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112557/27500-individuals-subjected-to-inspection-during-special-police-operation) · `en`
+
+A total of 598 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (15).
+
+As part of the operation, 27,580 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 24 individuals directly linked to criminal activities while 418 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 45 drunk drivers were apprehended while a further 16 reckless drivers and 3,857 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/135db467.json)
+
+[Extended Data](ext_articles/135db467.ext.json)
 
 ---
 
@@ -142,6 +428,28 @@ However, during the match between the Indo-Pakistan teams, the Indian team and t
 
 ---
 
+### US negotiators in India to revive trade deal talks amid Trump Tariff overhang
+
+*2025-09-16 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112555/us-negotiators-in-india-to-revive-trade-deal-talks-amid-trump-tariff-overhang) · `en`
+
+A team of US negotiators will hold discussions with Indian officials in New Delhi today (16) to revive talks on a bilateral trade deal.
+
+The delegation is led by Chief Negotiator Brendan Lynch, the Assistant US Trade Representative (USTR) for South and Central Asia. They arrived in the capital, New Delhi late Monday.
+
+The US team will hold crucial talks with Indian officials on the proposed India-US Bilateral Trade Agreement (BTA) after a meeting planned for late August was stalled.
+
+The trade negotiations come in the backdrop of the Trump administration’s 50% tariff on Indian goods that includes a 25% levy as a penalty for purchasing Russian oil that New Delhi has slammed as ‘unjustified’.
+
+The meeting is seen as a key step toward finalising the first tranche of the trade deal by the year-end, as committed by President Donald Trump and Prime Minister Modi in February.
+
+...
+
+[Data](articles/b9bc6ee9.json)
+
+[Extended Data](ext_articles/b9bc6ee9.ext.json)
+
+---
+
 ### Fire spreading in residential area in Manila, Philippines
 
 *2025-09-16 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225197) · `ta`
@@ -153,6 +461,26 @@ Due to this fire, more than 1,100 families lost their homes and in temporary she
 [Data](articles/c57ef50b.json)
 
 [Extended Data](ext_articles/c57ef50b.ext.json)
+
+---
+
+### Sri Lanka eyes 6% growth in 2026, but 2025 outlook dims amid spending delays: Dy Minister
+
+*2025-09-16 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112553/sri-lanka-eyes-6-growth-in-2026-but-2025-outlook-dims-amid-spending-delays-dy-minister) · `en`
+
+Sri Lanka is aiming to boost its economic growth to up to 6% in 2026, partly through record government capital expenditure, though delays in passing the budget could drag on its performance this year, Deputy Minister of Economic Development Anil Jayantha Fernando said.
+
+Deputy Minister Anil Jayantha said Sri Lankans and investors should be “hopeful” as the country climbs out of the economic crisis that hit in 2022, its worst since independence.
+
+Sri Lanka recorded economic growth of 5% in 2024. That would likely slow to 4% to 4.5% this year, as delays in passing the budget slowed government spending, Fernando told Reuters in an interview.
+
+“Next year ... we will need to go for 5 to 6% growth. We will aim for that,” he said. “In the long run, after five years, we target to maintain an average GDP growth that emerging countries are maintaining. That is around 6 to 7%.”
+
+...
+
+[Data](articles/a3f1c27e.json)
+
+[Extended Data](ext_articles/a3f1c27e.ext.json)
 
 ---
 
@@ -217,6 +545,28 @@ The Minister further emphasized that his vision is to create an efficient public
 [Data](articles/a7b9f14b.json)
 
 [Extended Data](ext_articles/a7b9f14b.ext.json)
+
+---
+
+### The people were with me on the way of power as well as power
+
+*2025-09-16 09:22:40* · [`adalk`](https://www.ada.lk/breaking_news/බලය-ඇති-දා-මෙන්ම-බලය-නැති-දා-ජනතාව-මා-සමග-සිටියා/11-418520) · `si`
+
+Former President Mahinda Rajapaksa says that the term of people will be exceeding the tenure of the people, despite the large years of life.. He said this in a note of his Facebook account.
+
+"Between my life for more time. So is the same today. May end up as a period of time, but people's love exceeds. It doesn't end. The people were with Mahinda Rajapakse, on the time of power and lack of power.
+
+Others are familiar to us in the village. Talks of young children make me happy. Because young children are not with a former president, this conversation delicious. As such, I have it. A politician who is not committed to the country's people can never be a people's leader.
+
+The day of his visit to Carlton home will be grateful to the prestigious remuneration that blessed until the moment. I also express my thanks to the loving people and political colleagues, and for different professionals.
+
+I am humbly pride in a people's leader who is a people's leader and your neighbor and your closest. "
+
+◼️
+
+[Data](articles/13500c3a.json)
+
+[Extended Data](ext_articles/13500c3a.ext.json)
 
 ---
 
@@ -1641,339 +1991,5 @@ Sri Lanka has won 150 runs for the winning the match.
 [Data](articles/bffb889c.json)
 
 [Extended Data](ext_articles/bffb889c.ext.json)
-
----
-
-### Sunil Vatagala denies allegations leveled at luxury house
-
-*2025-09-15 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225153) · `ta`
-
-Deputy Minister of Public Security Sunil Vatagala has denied the allegations that spread on social media for allegedly buying a luxury house at the Sinaman Life complex.
-
-Vattakala has rejected a statement on his official Facebook page that these claims are "incorrect and aimed at damaging his reputation."
-
-He also stressed that all his assets and responsibilities have been formally declared in his official property revelations.
-
-He added that these myths are part of the integrated slander campaign.
-
-He has joined the allegations with his recent attempts to expose drug trafficking networks and allegedly associated with them.
-
-Deputy Minister of Public Security Sunil Vattakala said that he is preparing to complain to the Criminal Investigation Department and take legal action under civil law to get compensation from those responsible for spreading misinformation.
-
-◼️
-
-[Data](articles/ead9eb47.json)
-
-[Extended Data](ext_articles/ead9eb47.ext.json)
-
----
-
-### The 17 projects initiated by the rulers of the past have been abandoned - Minister Nalinda Jayatissa
-
-*2025-09-15 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225178) · `ta`
-
-17 projects initiated by past rulers have been abandoned. Minister of Health and Media Nalinda Jayadissa said that as it was to be completed in a timely manner, about 29 billion rupees had to be spent.
-
-Professor Instructions for 100 Medical Students belonging to the Moratuwa University Faculty of Medical Faculty were inaugurated on Monday (15) at the Kalutara Nagoda Teaching Hospital under the patronage of Health Minister Dr. Nalinda Jayatissa.
-
-When I was a member of the Opposition in 2017, I had presented an individual reform in Parliament demanding the provision of the Medical Faculty of Moratuwa and Uva Wellasa to the University of Moratuwa and the Moratuwa University medical students to provide the Kalutara Nagoda Hospital.   It was a difficult task to make it possible by the international resolutions of the then rulers.
-
-...
-
-[Data](articles/5ffd8cc8.json)
-
-[Extended Data](ext_articles/5ffd8cc8.ext.json)
-
----
-
-### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
-
-*2025-09-15 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
-
-...
-
-[Data](articles/39f24b3f.json)
-
-[Extended Data](ext_articles/39f24b3f.ext.json)
-
----
-
-### 30 acres of land in Kilinochchi
-
-*2025-09-15 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225177) · `ta`
-
-Thirty acres of land belonging to security forces in Kilinochchi district has been released.
-
-Since 2009, the private and state lands owned by the security forces have been released in phase.
-
-As a result of this, the land has been released to the Divisional Secretary of the Ponnaveli Grama Niladhari Division under the Poonaveli Divisional Secretariat Division of the Kilinochchi Mavada.
-
-Similarly, 20 acres of land in Mudkomban in the Nallur Grama Niladhari Division has been released.
-
-District Government Agent Subramaniam Muralitharan has stated that the land of eight persons belonging to the Taniyar owned by the Iranvas in the Divisional Secretariat Division of the Pachchilaipalli Divisional Secretariat Division has been released.
-
-◼️
-
-[Data](articles/090d649e.json)
-
-[Extended Data](ext_articles/090d649e.ext.json)
-
----
-
-### Srackey arrested for the death of the death of the state of the sleeping good
-
-*2025-09-15 20:49:44* · [`adalk`](https://www.ada.lk/breaking_news/නිදි-යහනේ-මියගිය-රාජ්‍ය-සේවිකාවගේ-මරණය-ඝාතනයක්---සාක්කි-දෙන්න-පැමිණි-සැමියා-අත්අඩංගුවට/11-418513) · `si`
-
-Dambulla Police say that her husband was arrested on behalf of the death inspection of the death of the death of the death of the state of the state of death.
-
-Thirty-four-year-old mother of Thirty-four-year-old residents of Thumbulla has been identified as killed. She was serving as the Managing Service Officer of the Galewela Zonal Education Office
-
-දඹුල්ල තිත්තවැල්ගොල්ල ප්‍රදේශයේ නිවසක කාමරයක් තුළ පසුගිය දහතුන් වන දින කාන්තාවක් නිදි යහනේ සිටියදී මිය ගොස් ඇති බව පොලිසියට තොරතුරු ලැබී තිබිණි
-
-Her husband had told the police that his wife had gone to sleep and was informed about the ninth ninteen night.
-
-He had told the police that the Ambassador to the 1990 lagoon was aimed at a waking up of his wife at night.
-
-However, Dambulla Headquarters Inspector Sugath Wijesundara was instructed by police officers in serious serious incident.
-
-The Dambulla Police had permitted a post mortem with the death of the Death Magistrate's Court.
-
-...
-
-[Data](articles/3d788608.json)
-
-[Extended Data](ext_articles/3d788608.ext.json)
-
----
-
-### The assassination of sleep - husband arrested on suspicion
-
-*2025-09-15 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214612) · `si`
-
-The post mortem was revealed in the death of the death of the woman who died of the sleeping bed.
-
-The husband of the victim has been arrested on suspicion today (15).
-
-The victim was one of the 34-year-old resident of the Tittawelgolla area in Dambulla.
-
-She was a management service officer of the Galewela Zonal Education Office.
-
-The police had received information that a woman died in a house in a house in a house in a house in a house in a house in the Tittatawelgolla area in Dambulla.
-
-Her husband had told the police that his wife went to sleep and was informed about 4 pm and was asked to wake up around 4 pm.
-
-He had told the police that his wife was awakening at night, but she had a call for the work of the 1990s.
-
-The suspect had also told the police that his wife had died by his wife by those in the ambulance.
-
-However, a formal investigation into death was conducted by the suspect on suspicion regarding death.
-
-...
-
-[Data](articles/ee80d34e.json)
-
-[Extended Data](ext_articles/ee80d34e.ext.json)
-
----
-
-### Fire is a thousand shanty houses in Manila
-
-*2025-09-15 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214611) · `si`
-
-Thousands of people have been displaced by a fire in the Philippines' Manila.
-
-The authorities had been able to resume the fire after a massive operation carried out for nearly 10 hours.
-
-Thousands of shanty houses in a suburban region of the Manila Palai in the Philippines have been destroyed.
-
-Accordingly, about 1100 houses have been destroyed and thousands of people have been displaced.
-
-It is difficult to quench the fire that occurred last night at the country.
-
-The authorities were deployed to resume the fire by deploying a large number of fire extinguishers.
-
-Dislocated personnel have already been referred to government schools and government offices.
-
-There have been many areas where there were many such incidents in the region, Manila, Manila.
-
-◼️
-
-[Data](articles/71ac56d3.json)
-
-[Extended Data](ext_articles/71ac56d3.ext.json)
-
----
-
-### Store owner who was attacked with hot water to a dog
-
-*2025-09-15 20:39:53* · [`adalk`](https://www.ada.lk/breaking_news/සුනඛයෙකුට-උණු-වතුර-ප්‍රහාරයක්-එල්ල-කළ-වෙළඳසැල්-හිමිකරු/11-418512) · `si`
-
-The protection camera was recorded on the protection camera (15) on a sleeping dog on a sleeping dog in front of a baked dog in Bogawantalawa.
-
-The dog was sleeping that the dog that is roaming in the Boynathutanwa town is not a harassment, and the owner of the shop adjacent to the shop.
-
-The no near a large number of people said that the hot water had ran away from sleep shouting in pain.
-
-◼️
-
-[Data](articles/cf830b96.json)
-
-[Extended Data](ext_articles/cf830b96.ext.json)
-
----
-
-### US, China reach framework deal on TikTok; Trump and Xi to speak on Friday
-
-*2025-09-15 20:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112539/us-china-reach-framework-deal-on-tiktok-trump-and-xi-to-speak-on-friday) · `en`
-
-The United States and China reached a framework agreement to switch short-video app TikTok to U.S.-controlled ownership that will be confirmed in a call between President Donald Trump and Chinese President Xi Jinping on Friday, U.S. officials said.
-
-TikTok faced being switched off in the U.S. as soon as September 17 if Chinese owner ByteDance didn’t agree to divest. U.S. Treasury Secretary Scott Bessent said it was possible the deadline could be extended to allow for the deal to be finalised.
-
-“We’re not going to talk about the commercial terms of the deal. It’s between two private parties, but the commercial terms have been agreed upon,” Bessent told reporters at the conclusion of two days of talks that took place in Madrid.
-
-The U.S.-China negotiations at the Spanish foreign ministry’s baroque Palacio de Santa Cruz were the fourth round of talks in four months to address strained trade ties as well as TikTok’s looming divestiture deadline.
-
-...
-
-[Data](articles/477928e8.json)
-
-[Extended Data](ext_articles/477928e8.ext.json)
-
----
-
-### World Bank commends Sri Lanka’s current economic programme
-
-*2025-09-15 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112538/world-bank-commends-sri-lankas-current-economic-programme) · `en`
-
-President Anura Kumara Dissanayake has met Johannes Zutt, the Vice President for the South Asia Region of the World Bank Group and a delegation of its representatives visiting Sri Lanka today (15) at the Presidential Secretariat.
-
-During the discussion, the World Bank has commended Sri Lanka’s current economic programme, according to the President’s Media Division.
-
-Attention was drawn to key sectors that could yield short-term benefits such as digitalization, tourism, agriculture and infrastructure development, while discussions also focused on the development of the Northern and Eastern Provinces, the PMD stated.
-
-Highlighting the government’s dedication to preserving the current economic stability of the country while progressing towards growth, President Dissanayake has requested the World Bank’s support in sharing Sri Lanka’s political, social and economic progress with the wider world.
-
-◼️
-
-[Data](articles/710cef79.json)
-
-[Extended Data](ext_articles/710cef79.ext.json)
-
----
-
-### Under the Clean Sri Lanka Program, the project to modernize the Maradana Railway Station
-
-*2025-09-15 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225176) · `ta`
-
-The project to modernize the Maradana Railway Station under the Dream Destination Project in conjunction with the Clean Sri Lanka Program was launched on Monday (15) under the leadership of President Anura Kumara Dissanayake.
-
-According to the government's plan for the "prosperous country - beautiful life," the government's plan to create a beautiful lifestyle with a modern and standardized public transport system, with the aim of upgrading public facilities at railway stations, transforming the railway stations into convenient and safe places, the Ministry of Transport, Highways, Ports and Civil Airlines and Clean Sri Lanka The project has been launched.
-
-The project aims to create a clean and beautiful railway station in the country to provide security and facilities to all travelers, including the community with special needs.
-
-...
-
-[Data](articles/0273543b.json)
-
-[Extended Data](ext_articles/0273543b.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2025-09-15 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214610) · `si`
-
-Sri Lanka is the second match of the Asia Cup Twenty20 cricket match today (15) with Hong Kong team.
-
-Accordingly, the captain of the Sri Lankan team has invited the Hong Kong group to bat first.
-
-This is the first time Sri Lanka and Hong Kong will meet each other on the international cricket.
-
-However, Sri Lanka won the first match against Bangladesh by six wickets in the first match of the tournament.
-
-◼️
-
-[Data](articles/b4d0f615.json)
-
-[Extended Data](ext_articles/b4d0f615.ext.json)
-
----
-
-### Opposition Leader Sajith is being carried out in parliament
-
-*2025-09-15 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225175) · `ta`
-
-The government should carry out the task of listening to people's problems and getting practical answers. Opposition Leader Sajith Premadasa said that the era of suppressing the voice of the opposition and presenting false stories, rather than the era of providing solutions. "
-
-Opposition Leader Sajith Premadasa said this while visiting the Madhavachi area on Monday (15) to look into the issues faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers faced by the farmers of Anuradhapura district under the service of the Opposition.
-
-Currently, the opportunity to present the problems faced by the public in Parliament has been reduced. The government has come to a position to cut off the microphone when people are pointed out. As the Leader of the Opposition, and I and the opposition members, we stand up for the issues of the people, leaving the people's issues.
-
-...
-
-[Data](articles/322bbfe8.json)
-
-[Extended Data](ext_articles/322bbfe8.ext.json)
-
----
-
-### One person arrested with deer meat
-
-*2025-09-15 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225174) · `ta`
-
-A man from the Kaveli area of ​​the Mullaitivu Pudukkudiyiruppu police division has been arrested by the Pudukkudiyiruppu police on Monday 15th with deer meat.
-
-A 40 -year -old man from Kaveli area has been arrested on charges of possessing 3 kg of deer meat in a special raid conducted by the Mullaitivu District Intelligence Unit.
-
-The arrested person will be produced before the Mullaitivu court on Tuesday 16th after investigations, police said.
-
-◼️
-
-[Data](articles/467df8aa.json)
-
-[Extended Data](ext_articles/467df8aa.ext.json)
-
----
-
-### Magampura Ports Development Company has not paid a dollar loan
-
-*2025-09-15 19:19:30* · [`adalk`](https://www.ada.lk/breaking_news/මාගම්පුර-වරාය-කළමනාකරණ-සමාගම-ලබාගත්-ඩොලර්-ණයක්-නොගෙවලා/11-418511) · `si`
-
-After discussing the non-payment of loans from the Magampura Ports, the Committee on Public Enterprises (COPE) was issued after discussing the lending from a private bank.
-
-Issuing of these recommendations was issued when the Committee of the Sri Lanka Ports Authority (COPE) to examine the current performance of the Sri Lanka Ports Authority (COPE).
-
-The Magampura Port Management Company has been incorporated by the Fivest of the Colombo Port, a license obtained by a license to be operated by a private loan from a private bank at a private bank loan from a private bank loan.. However, $ 18.82 million (Rs.. 6836 million) was revealed at December 2023 and that the Bank had filed two cases against the administration and the Authority in 2019.
-
-Officers arrived at the meeting.. The Magampura Ports Managing Company is currently underway from June 2022.
-
-...
-
-[Data](articles/b7badceb.json)
-
-[Extended Data](ext_articles/b7badceb.ext.json)
-
----
-
-### The employment of the 12,000 employees in danger if the Electricity Act was amended
-
-*2025-09-15 19:13:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-පනත-සංශෝධනය-නොකළානම්-සේවකයන්-12000කගේ-රැකියා-අනතුරේ/11-418510) · `si`
-
-"Over the Power and Employee Privileges, Employees 'Privileges, Employees' Performance but Returned
-
-100% endemic organizations have been established in making the power sector to develop the electricity sector in parallel with the development goals of the country.. According to the Minister of Energy Minister Kumara Jayakody, who is planning to come forward, said.
-
-Especially when the Ceylon Electricity Workers Union (CEB) and all the trade unions, including the Ceylon Electricity Employees Union with the Trade Unions, have already begun implementation of the power to the power and the Electricity Bureau and the Electricity.. The notification has been made to appoint every employee and notifying four companies with full state owned company.. As such, there is no problem with the job security of these employees.
-
-...
-
-[Data](articles/73aea13b.json)
-
-[Extended Data](ext_articles/73aea13b.ext.json)
 
 ---

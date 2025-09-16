@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-16 23:20:26**
+As of **2025-09-16 23:06:42**
 
 ## Newspaper Stats
 
-*Scraped **76,380** Articles*
+*Scraped **76,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,20 @@ islandlk | 4,694
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,419
-adaderanalk | 9,849
+adaderanalk | 9,847
 tamilmirrorlk | 11,435
-virakesarilk | 12,445
+virakesarilk | 12,444
 adaderanasinhalalk | 13,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,455 (96.2%) of 76,380 articles have been extended.
+73,452 (96.2%) of 76,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-16 (Tuesday)
-
-### ஒதுக்கீட்டு சட்ட மூலத்தை பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கு அமைச்சரவை அங்கீகாரம்
-
-*2025-09-16 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225267) · `ta`
-
-2026ஆம் ஆண்டுக்கான ஒதுக்கீட்டுச் சட்டமூலத்தை பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கான முழுமையான கால அட்டவணைக்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது. இச்சட்டமூலத்தை வர்த்தமானியில் வெளியிடுவதற்கும் கடந்த 2025 செப்டெம்பர் 8ஆம் திகதி அமைச்சரவை அங்கீகாரம் வழங்கியிருந்தது.
-
-பிரதமரின் அலுவலகத்தால் தயாரிக்கப்பட்ட 2026ஆம் ஆண்டுக்கான வரவுசெலவுத் திட்டம் குறித்த பாராளுமன்ற அமர்வுகளின் அட்டவணைக்கமைய இந்த சட்டமூலத்தின் முதலாம் வாசிப்பு எதிர்வரும் 26ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும்.
-
-இரண்டாம் வாசிப்பு மற்றும் வரவுசெலவுத் திட்ட உரை நவம்பர் 7ஆம் திகதி நடைபெறும். இரண்டாம் வாசிப்பு மீதான விவாதம் நவம்பர் 8ஆம் திகதி முதல் நவம்பர் 14ஆம் திகதி வரை ஒரு வார காலத்திற்கு நடைபெறும்.
-
-மூன்றாம் வாசிப்பு மீதான விவாதம் நவம்பர் 15ஆம் திகதி முதல் டிசம்பர் 5ஆம் திகதி வரை நடைபெறும். இறுதி வரவுசெலவுத் திட்ட வாக்கெடுப்பு 2025 டிசம்பர் 5ஆம் திகதி இடம்பெறும் என அமைச்சரவை பேச்சாளர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/87673d51.json)
-
----
 
 ### Tipper vehicle Woman hurt!
 
@@ -67,38 +49,6 @@ Eyewitnesses said that the driver of the yellow color tipper, which caused the a
 [Data](articles/0a29c44c.json)
 
 [Extended Data](ext_articles/0a29c44c.ext.json)
-
----
-
-### Special Mediation Boards for financial disputes to be established – Minister of Justice
-
-*2025-09-16 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112586/special-mediation-boards-for-financial-disputes-to-be-established-minister-of-justice) · `en`
-
-Minister of Justice and National Integration Harshana Nanayakkara stated that measures will be taken to establish special mediation boards (Samatha Mandala) for financial disputes with the aim of reducing the number of such cases brought before the courts.
-
-Under the first phase, special mediation boards dedicated to financial disputes will be established in the districts of Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Monaragala, Minister Nanayakkara said.
-
-He expressed these remarks while participating in a program held at the Mediation Boards Commission on the occasion of the 2025 National Mediation Boards Day.
-
-...
-
-[Data](articles/e18a722d.json)
-
----
-
-### Sri Lanka targets Indian wedding market with multi-city shows
-
-*2025-09-16 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112585/sri-lanka-targets-indian-wedding-market-with-multi-city-shows) · `en`
-
-Sri Lanka Tourism is aiming to attract the growing Indian wedding market and recently organised multi-city luxury wedding shows across the country for the first time, seeking to position Sri Lanka as a wedding destination for Indian couples, covering cities including Ahmedabad, Mumbai and New Delhi.
-
-Fourteen Sri Lankan exhibitors, including wedding planners and hotels, took part in the shows to engage directly with Indian travel agents, wedding planners and other stakeholders.
-
-“Traditionally, our southern province destinations like Bentota, Hambantota and Weligama have been popular for Indian weddings which have the presence of hotels such as Hilton and Shangri-La that can accommodate large gatherings. However, we are now also promoting emerging destinations like Trincomalee, Pasikudah and Arugam Bay for Indian weddings,” said Buddhika Hewawasam, chairman of the Sri Lanka Tourism Promotion Bureau (SLTPB), while speaking to TTG Asia during the Delhi edition of the wedding shows.
-
-...
-
-[Data](articles/ecfb9305.json)
 
 ---
 
@@ -2045,5 +1995,61 @@ The implementation, which was carried out under the Electronic Transactions Act 
 [Data](articles/91ed8580.json)
 
 [Extended Data](ext_articles/91ed8580.ext.json)
+
+---
+
+### Sri Lanka Customs Sitigate
+
+*2025-09-16 12:10:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-රේගුව-සරුවෙයි/11-418524) · `si`
+
+The following is the following 825, the Sri Lanka Customs revenue Rs. 1,471 billion in 8 months.
+
+200 billion of Rs. 231 billion in June this year and Rs. 244 billion in August Rs. 244 billion. They say this is a rapid rate of last year. (I J)
+
+◼️
+
+[Data](articles/c05a12e8.json)
+
+[Extended Data](ext_articles/c05a12e8.ext.json)
+
+---
+
+### Six lost in human traffickers to be taken into custody
+
+*2025-09-16 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214630) · `si`
+
+Six persons who suspect is lost by human traffickers have been taken into custody in the Talaimannar coastal areas.
+
+The group was taken into custody during a special operation conducted on the 13th.
+
+The human traffickers have been illegally brought to Sri Lanka by the Sri Lankan sea to Sri Lanka.
+
+They have been residents of Vavuniya, Madhu and Kokkadichle areas agent between eight and 56 years.
+
+It is reported that they have been dejected and severely disturbed when they were taken to the Navy.
+
+They were handed over to Talaimannar Police for further legal.
+
+◼️
+
+[Data](articles/2208b00e.json)
+
+[Extended Data](ext_articles/2208b00e.ext.json)
+
+---
+
+### Former SSP too further remanded
+
+*2025-09-16 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214629) · `si`
+
+The former Superintendent of Police Saturnar Shalm Gamage was remanded until the 30th of this month.
+
+The court issued the court, refusing to request the bail of the suspect.
+
+◼️
+
+[Data](articles/c7a2519e.json)
+
+[Extended Data](ext_articles/c7a2519e.ext.json)
 
 ---

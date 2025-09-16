@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 01:05:49**
+As of **2025-09-17 01:38:19**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,483 (96.2%) of 76,384 articles have been extended.
+73,489 (96.2%) of 76,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### மதுபானசாலையில் வாள்வெட்டு: இருவர் காயம்
+### Swords at liquor: two injured
 
 *2025-09-17 00:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலையில்-வாள்வெட்டு-இருவர்-காயம்/175-364729) · `ta`
 
-நெடுந்தீவு தனியார் விருந்தக மதுபானசாலையில் நேற்று (16)  இரவு 7.00 மணியளவில் இரண்டு இளைஞர் குழுக்களுக்கிடையில் இடம்பெற்ற  மோதலில் இளைஞர் இருவர் வாள்வெட்டில்  காயமடைந்துள்ளனர்.
+Two youths were injured in a sword in a clash between two youth groups at 7.00 pm at the Nedundevu Private Hosiness Liquor Store last night.
 
-நெடுந்தீவு மதுபானசாலையில் இரவு 7.00 மணியளவில் திடீரென புகுந்த இளைஞர்குழு மதுபானசாலைக்குள் இருந்த இளைஞர் குழுமீது வாள்வெட்டு தாக்குதல் மேற்கொண்டதில் இரண்டுபேர் தலையிலும் முகத்திலும் காயமடைந்து வைத்தியசாலையில் சிகிச்சை பெற்றதாக தகவல்கள் தெரிவிக்கின்றன.
+According to reports, two people were injured in the head and face of a youth group who suddenly entered the Nedundevu Liquor Store at 7.00 pm.
 
-குறித்த சம்பவம் தொடர்பில் தகவலறிந்து சம்பவ இடத்துக்கு வந்த  பொலிஸார் மீதும் வாள்வெட்டுக்குழுவினர் தாக்குதல் மேற்கொண்டுவிட்டு தப்பிச்செல்ல முற்பட்டபோது ஒருவர் கைதுசெய்யப்பட்டு நெடுந்தீவு பொலிஸ் நிலையத்தில் தடுத்துவைக்கப்பட்டுள்ளதுடன், தப்பிச்சென்றவர்களை தேடி கைது செய்யும் வகையில் பொலிஸார் நடவடிக்கையினை மேற்கொண்டுள்ளனர். (a)
+The police, who came to the scene of the incident, were arrested and detained at the Neduntivu police station when the sword was assaulted and tried to flee and the police took action to search for the fugitives.. (A)
 
 ◼️
 
 [Data](articles/75324405.json)
+
+[Extended Data](ext_articles/75324405.ext.json)
 
 ---
 

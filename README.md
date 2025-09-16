@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 05:05:53**
+As of **2025-09-17 04:52:37**
 
 ## Newspaper Stats
 
-*Scraped **76,394** Articles*
+*Scraped **76,393** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 630
+dbsjeyarajcom | 629
 bbccomsinhala | 677
 colombotelegraphcom | 773
 economynextcom | 4,628
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,548 (96.3%) of 76,394 articles have been extended.
+73,548 (96.3%) of 76,393 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -610,22 +610,6 @@ The Deputy Minister also stated that the fishing harbor in the Valaichenai area 
 
 ---
 
-### 
-
-*2025-09-16 19:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86423) · `en`
-
-Legendary  Muslim Congress Leader MHM Ashraff and the Course of Muslim Politics.
-
-Mohammad Hussein Muhammad Ashraff, known to all MHM Ashraff was one of the brightest  stars to shine in the Sri Lankan political firmament. Ashraff’s  charisma, political acumen, dedication and sterling qualities of leadership enabled the  Eastern province lawyer to be  the legendary leader of the Sri Lanka Muslim Congress(SLMC).
-
-Sadly Ashraff’s life ended tragically  when he along with 14 others, was killed in an air crash on 16 September 2000. He was the Cabinet Minister in charge of Shipping, Ports, Reconstruction and Rehabilitation in the Government of President Chandrika Bandaranaike Kumaratunga at the time of his death. This week’s  column  with the aid of earlier writings  focuses on MHM Ashraff  in commemoration of his 25th death anniversary.
-
-...
-
-[Data](articles/757bec38.json)
-
----
-
 ### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
 
 *2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
@@ -723,22 +707,6 @@ It is noteworthy that the court today granted bail as various allegations were f
 [Data](articles/7287ed1a.json)
 
 [Extended Data](ext_articles/7287ed1a.ext.json)
-
----
-
-### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
-
-*2025-09-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
-
-...
-
-[Data](articles/39f24b3f.json)
-
-[Extended Data](ext_articles/39f24b3f.ext.json)
 
 ---
 
@@ -2019,5 +1987,41 @@ Meanwhile, the International Court of Justice is investigating the South Africa'
 [Data](articles/e920a394.json)
 
 [Extended Data](ext_articles/e920a394.ext.json)
+
+---
+
+### Intervene to take to the world: President
+
+*2025-09-16 13:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகிற்கு-எடுத்துச்-செல்ல-தலையிடுங்கள்-ஜனாதிபதி/175-364694) · `ta`
+
+President Anura Kumara Dissanayake told the World Bank representatives that steps would be taken to clarify the international community on the current plans of corrupt Sri Lanka and the opportunity to attract new investment in Sri Lanka.
+
+The World Bank representatives, including Johannes Zutt, who visited Sri Lanka, visited President Anura Kumara Dissanayake at the Presidential Secretariat on Monday afternoon.
+
+A detailed discussion was held on how the World Bank Group could support Sri Lanka's future development goals.
+
+The World Bank representatives, who congratulated Sri Lanka's current economic plan, suggested that more attention should be paid to the creation of economic growth and employment.. Special attention was paid to the development of the North and East, not only to identify the fields of short -term benefits, including digitalization, tourism, agriculture and infrastructure.
+
+...
+
+[Data](articles/db9281d2.json)
+
+[Extended Data](ext_articles/db9281d2.ext.json)
+
+---
+
+### Another bus accident: 15 people injured
+
+*2025-09-16 13:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-பேருந்து-விபத்து-15-பேர்-படுகாயம்/175-364693) · `ta`
+
+At least 15 people were injured in a bus accident in Eppittawala area in Horana - Ratnapura road this morning.
+
+The accident occurred when a bus carrying employees of a private company collided with a lorry.
+
+◼️
+
+[Data](articles/534173e0.json)
+
+[Extended Data](ext_articles/534173e0.ext.json)
 
 ---

@@ -1,492 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 16:54:32**
+As of **2025-09-17 14:56:04**
 
 ## Newspaper Stats
 
-*Scraped **76,540** Articles*
+*Scraped **76,505** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
-colombotelegraphcom | 775
+colombotelegraphcom | 773
 economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,435
-adaderanalk | 9,871
-tamilmirrorlk | 11,478
-virakesarilk | 12,460
-adaderanasinhalalk | 13,353
+adalk | 7,432
+adaderanalk | 9,862
+tamilmirrorlk | 11,465
+virakesarilk | 12,458
+adaderanasinhalalk | 13,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,752 (96.4%) of 76,540 articles have been extended.
+73,712 (96.3%) of 76,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### சம்பத் மனம்பேரிக்கு தடுப்புக்காவல்
-
-*2025-09-17 16:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-தடுப்புக்காவல்/175-364781) · `ta`
-
-மித்தெனிய பகுதியில் "ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு இரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் தேடப்பட்டு வந்த சம்பத் மனம்பேரி வலஸ்முல்ல நீதவான் நீதிமன்றத்தில் இன்று (17) சரணடைந்தார்.
-
-அவரை எதிர்வரும் 24 ஆம் திகதி வரை தடுப்புகாவலில் வைத்து விசாரணைக்கு உட்படுத்துவதற்கு நீதிமன்றம் அனுமதியளித்துள்ளது.
-
-◼️
-
-[Data](articles/06ef553a.json)
-
----
-
-### பறந்தார் ஆனந்த: பதில் அமைச்சரானார் வட்டகல
-
-*2025-09-17 16:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தார்-ஆனந்த-பதில்-அமைச்சரானார்-வட்டகல/175-364780) · `ta`
-
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சராகப் பணியாற்றுவதற்காக பிரதி அமைச்சர் சட்டத்தரணி சுனில் வட்டகலவை ஜனாதிபதி அனுர குமார திசாநாயக்க நியமித்தார்.
-
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சர் ஆனந்த விஜேபால சீனாவில் ஒரு மாநாட்டில் கலந்து கொள்ளச் சென்றதால் இந்த நியமனம் வழங்கப்பட்டது.
-
-ஆனந்த விஜேபாலவுடன் பொலிஸ் மா அதிபரும் இந்த மாநாட்டில் கலந்து கொள்ளச் சென்றுள்ளார்.
-
-◼️
-
-[Data](articles/a57776a4.json)
-
----
-
-### සම්පත් මනම්පේරිව දින 7ක් රඳවා ප්‍රශ්න කිරීමට අවසර
-
-*2025-09-17 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214681) · `si`
-
-අත්අඩංගුවට ගැනීමට සොයමින් සිටියදී අද (17) දහවල් අධිකරණයට භාර වූ සම්පත් මනම්පේරි නමැත්තා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය භාරයේ දින 07ක කාලයක් රඳවා ප්‍රශ්න කිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් මල්ෂා කොඩිතුවක්කු මෙනෙවිය නියෝග කර ඇත.
-
-◼️
-
-[Data](articles/49562747.json)
-
----
-
-### Parliament may meet from September 23 to 26
-
-*2025-09-17 16:11:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-23-முதல்-26-வரை-பாராளுமன்றம்-கூடும்/175-364778) · `ta`
-
-Parliamentary Secretary General Kushani Rohanadheera said that the Parliamentary Affairs week for the second parliamentary session of September 2025 has been decided at a meeting on the recent Parliamentary Affairs Committee under the leadership of the Speaker (Doctor) Jagath Wickremaratne.
-
-Accordingly, Parliament will meet from 23rd to 26th September.
-
-The Parliamentary Committee is set to the Parliamentary Affairs of Parliament from 9.30 pm to 10.00 pm every day.. Subsequently, the time has been allocated for the oral answers from 10.00 am to 11.00 am and the time of the Standing Ordinance of the Standing Ordinance from 11.00 am to 11.30 am.
-
-The second assessment of the National Building Arachchi Bill was decided to hold a debate on Tuesday, September 23, from 11.30 am to 5.00 pm.
-
-Thereafter, time has been set up for the debate for the adjournment of the opposition from 5.00 pm to 5.30 pm.
-
-...
-
-[Data](articles/19b3e51e.json)
-
-[Extended Data](ext_articles/19b3e51e.ext.json)
-
----
-
-### Parliament to meet up from September 23 to 26
-
-*2025-09-17 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214680) · `si`
-
-The next parliamentary session is scheduled to meet from September 23 to 26.
-
-Thus, on Tuesday, 23, 23, 20, 20. The National Building Research Institute has decided to hold the second reading debate from 11.30 pm to 5.00 pm.
-
-The proposal is due to debate the proposal in advance from 5:00 pm to 4 pm.
-
-◼️
-
-[Data](articles/aaf9d3f7.json)
-
-[Extended Data](ext_articles/aaf9d3f7.ext.json)
-
----
-
-### Water cut is invalid
-
-*2025-09-17 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214679) · `si`
-
-Water cuts in Colombo have been canceled for a nine-hour period of 9 hours (18).
-
-The National Water Supply and Drainage Board (NBRO) issued a statement.
-
-The board was suspended by the water supply station supplied by the main body pothood provided to the Ambatale Water Treatment Plant.
-
-However, the later announced announcement states that the water cuts were not carried out in the following areas.
-
-* Battaramulla, Pelawatta, Hokandara, Koswatta, Kotte, Kotte, Maharanawa, Dehiwala, Dehiwala, Dehiwala, Dehiwala, Dehiwala, Ratmalana, Dehiwala, Ratmalana, Dehiwala, Ratmalana, Dehiwala, Ratmalana, Dehiwala
-
-If necessary, contact the Call Center from the 1939 Telephone Number.
-
-◼️
-
-[Data](articles/20bdc8e2.json)
-
-[Extended Data](ext_articles/20bdc8e2.ext.json)
-
----
-
-### Prince Tuttagamunu bathed water
-
-*2025-09-17 15:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளவரசர்-துட்டகைமுனு-குளித்த-தண்ணீர்-பீலி/175-364777) · `ta`
-
-Kothmalai is a beautiful historical city with a number of memories that are deep in the history of the country. The city of Kotmalai, full of historical events, is a very safe and beautiful area surrounded by beautiful mountains and there are many historical villages living in real villagers.
-
-Ranamune Beeli, located in such a beautiful city, is a valuable unique place near the city of Kotmalai. This Peeli was a peel in 137 and 161 AD, the reign of the king of Tutakamunu.
-
-Although Kotmalai is currently the name of a town, the Kotmalai region has been a country during the reign of the Sri Lankan king.  It is written in historical books that Ranamune Beeli was set up during that period and that he was bathing in Ranamune Beeli when he lived in the Kotmalai area for 16 years.
-
-◼️
-
-[Data](articles/f9310f19.json)
-
-[Extended Data](ext_articles/f9310f19.ext.json)
-
----
-
-### Asian cup waits 3 countries tomorrow
-
-*2025-09-17 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214678) · `si`
-
-The match between Sri Lanka and Afghanistan will be held at Abu Dhabi tomorrow in the 'B' category of 'B' category.
-
-This is a very crucial match to determine the two qualified groups to be eligible for the Super 4 in the 'B' category.
-
-Since both the matches of Sri Lanka won the bonus mark with 4 runs, they have already in the forefront.
-
-Accordingly, Sri Lanka can be able to reach Super 4 as a matter of tomorrow.
-
-Timoting it also has the opportunity to lack the worsening defeat in the face of Afghanistan.
-
-Since the 3 matches played by the Hong Kong team, which competed in the 'B' category, had already been out of the tournament.
-
-Although Sri Lanka is not pursuing the target to bat first, the defeat should not be more than 71 runs.
-
-Or Sri Lanka is a target of 11.1 overs (with the remaining 53 balls).
-
-Bangladesh must be overcome by the victory of Sri Lanka and overcome the net score rate.
-
-...
-
-[Data](articles/6512195e.json)
-
-[Extended Data](ext_articles/6512195e.ext.json)
-
----
-
-### 7 years rigorous prison for a girl
-
-*2025-09-17 15:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர்ந்தவருக்கு-7-வருட-கடூழிய-சிறை/175-364776) · `ta`
-
-The Batticaloa High Court judge on the 11th of last month ruled that a man who was sexually abused by a 13 -year -old girl in Batticaloa was given a 20 -year postponement of a seven -year rigorous imprisonment and a fine of Rs 20,000.
-
-In 2014, a 13 -year -old girl was arrested in connection with the incident of sexually abusing a 22 -year -old father and a 22 -year -old father.
-
-When the judge took the case on Thursday 11th of this month, the police were charged with two charges against the person on two charges against the man.
-
-Subsequently, the first offense will be postponed for the first crime of three months and 10 thousand rupees.. He ordered the imprisonment for the second offense for 20 years, and the imprisonment of 10 years in prison, and the victim would be sentenced to Rs.
-
-◼️
-
-[Data](articles/89d69423.json)
-
-[Extended Data](ext_articles/89d69423.ext.json)
-
----
-
-### 7 years rigorous imprisonment
-
-*2025-09-17 15:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-வன்புணர்ந்தவருக்கு-7-வருட-கடூழிய-சிறைத்-தண்டனை/175-364776) · `ta`
-
-The Batticaloa High Court Judge on 11th June sentenced a woman to a 13 -year -old girl who was sexually abused by a 13 -year -old girl in Batticaloa in 2014 and was sentenced to a 20 -year postponement of a 7 -year prison sentence and a fine of 20 thousand rupees.
-
-In 2014, a 13 -year -old girl was arrested in connection with the incident of sexually abusing a 22 -year -old father and a 22 -year -old father.
-
-When the judge took the case on Thursday 11th of this month, the police were charged with two charges against the person on two charges against the man.
-
-Subsequently, the first offense will be postponed for the first crime of three months and 10 thousand rupees.. He ordered the imprisonment for the second offense for 20 years and sentenced to 10 years in prison, and the victim was sentenced to Rs.
-
-◼️
-
-[Data](articles/902dc713.json)
-
-[Extended Data](ext_articles/902dc713.ext.json)
-
----
-
-### Ex-President Ranil joins world leaders to wish Indian PM Modi on his 75th birthday
-
-*2025-09-17 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112610/ex-president-ranil-joins-world-leaders-to-wish-indian-pm-modi-on-his-75th-birthday) · `en`
-
-Former President Ranil Wickremesinghe joined a number of world leaders including US President Donald Trump, Italian Prime Minister Giorgia Meloni and former British Prime Minister Rishi Sunak in sending warm wishes to Indian Prime Minister Narendra Modi as he turned 75 today (17).
-
-Former President Wickremesinghe extended his well wishes through his official X account (formally twitter).
-
-The former President said “Warmest birthday wishes to my good friend, Prime Minister @narendramodi. May you be blessed with good health, strength, and continued wisdom.”
-
-US President Donald Trump called Indian Prime Minister Narendra Modi to wish him happy birthday after weeks of tension over trade tariffs.
-
-The phone call on Wednesday, a day before Modi turns 75, is seen as a sign of thawing ties and followed talks between the two sides on reaching a trade agreement, which both sides called “positive”.
-
-...
-
-[Data](articles/e5ca9022.json)
-
-[Extended Data](ext_articles/e5ca9022.ext.json)
-
----
-
-### Goat
-
-*2025-09-17 15:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்டுடன்-தகாத-உறவில்-ஈடுபட்டு-கையும்-களவுமாக-சிக்கிய-நபர்/175-364775) · `ta`
-
-The horrific incident in which a youth has sexually abused goat has caused a stir in Jodhpur, Rajasthan.
-
-On September 5, 2025, the locals recorded this inhumane act as a video of the young man who had been trapped in the hands of the young man.
-
-At the preliminary inquiry, it was revealed that Brahm Singh was a young man involved in this brutal act. According to reports, he is sticking a sticker "No. 1 fan" with a photo of Bollywood actor Aamir Khan in his two -wheeler.
-
-Following the video of the incident, the Nettisans have expressed furious anger and demanded that Brahm Singh take stern action.
-
-This incident has raised widespread debate on animal rights and social justice. Police are conducting further investigations into the matter.
-
-◼️
-
-[Data](articles/46db9e51.json)
-
-[Extended Data](ext_articles/46db9e51.ext.json)
-
----
-
-### Sectoral Oversight Committee Approval for More Bill
-
-*2025-09-17 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214676) · `si`
-
-The Second of the National Building Research Research Research Research Research Institute of National Building Research, the Second of Parliament, is approved by the Select Committee of State Governance, Justice and Civil Protection.
-
-It was when MP Nagith Indika met with MP Nagith Indika recently.
-
-Although the National Building Research Organization has been implemented since 1984, it is said that the institution is expected to be proposed by the National Building Research Organization in accordance with the National Building Research Organization.
-
-If the proposed bill will not be properly acquired due to landslides, the proposed Bill will not be properly adopted and the proposed bill is passed by the officers of the officials.
-
-At the meeting, the National Building Research Organization (NBRO), the National Building Research Organization (NBRO) and the Ministry of Defense was considered for 2024 and 2023.
-
-...
-
-[Data](articles/47442707.json)
-
-[Extended Data](ext_articles/47442707.ext.json)
-
----
-
-### Who is the father of the baby? 19 -year -old student who showed the blue list
-
-*2025-09-17 15:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைக்கு-அப்பா-யாரு-நீலமான-லிஸ்டை-காட்டிய-19-வயசு-மாணவி/175-364774) · `ta`
-
-Who is the father of the baby? The 19 -year -old student showed up seven people.
-
-The beautiful private college of Vellore district, the green compasses, the laughter of the youth and the flow of dreams.
-
-Priya, who was studying there, was beautiful like cinema actress Sneha. Long hair, a smile on the young face, and the body structure attracted everyone.
-
-College students are not fed up with her. "Priya is coming". But her life is not as beautiful as she knows outside.
-
-Priya, who lost her mother at an early age, grew up in the warmth of her father's second wife, Guili. Quili has a son through her first husband. Priya is two years older than. Both of them came to be like a brother and brother.
-
-Priya's father fell victim to Corona in 2019. Siddhi Quil, who fell in despair, disappeared in 2020, and only she and her brother lived alone in the house.
-
-...
-
-[Data](articles/0cf44bab.json)
-
-[Extended Data](ext_articles/0cf44bab.ext.json)
-
----
-
-### UNP removed the ban on SJB members
-
-*2025-09-17 15:27:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-உறுப்பினர்கள்-மீதான-தடையை-நீக்கியது-UNP/175-364772) · `ta`
-
-The United National Party (UNP), led by UNP leader and former president Ranil Wickremesinghe, has decided to remove all the previous obstacles and disciplinary measures imposed on members of the United People's Power (SJB) affiliate.
-
-The decision was taken at the Executive Committee meeting held at the Sirikotha Party headquarters in Pettah.
-
-During the meeting, a committee headed by a former Attorney General and President's Attorney Tilak Marapana was appointed to investigate the potential legal impacts that could be caused by the move.
-
-United National Party (UNP) Chairman Wajira Abeywardena said that the move was removed from the restrictions that members of the United People's Power were once again working with the United National Party.
-
-The Executive Committee has unanimously passed a resolution to thank all parties who supported the joint political efforts since the arrest of former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/b3ee43d6.json)
-
-[Extended Data](ext_articles/b3ee43d6.ext.json)
-
----
-
-### Greeting message from Ranil to Modi birthday
-
-*2025-09-17 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214675) · `si`
-
-Former President Mahinda Wickremesinghe has also joined the 75th birthday of Indian Prime Minister Narendra Modi's 75th birthday.
-
-The President made this statement by a note of his X account.
-
-The former president has said, "I am assisted with the wishes of Prime Minister Narendra Modi."
-
-◼️
-
-[Data](articles/b8b5e7cd.json)
-
-[Extended Data](ext_articles/b8b5e7cd.ext.json)
-
----
-
-### UNP Working Committee decides to lift bans on members who joined SJB
-
-*2025-09-17 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112609/unp-working-committee-decides-to-lift-bans-on-members-who-joined-sjb) · `en`
-
-The Working Committee of the United National Party (UNP) has decided to lift all disciplinary orders and suspensions previously imposed on party members who had their membership suspended or faced disciplinary action for joining the Samagi Jana Balawegaya (SJB).
-
-At a meeting held last evening (16), the UNP Working Committee also resolved to appoint a committee headed by former Attorney General and President’s Counsel Tilak Marapana to examine the legal background and implications that may arise during the implementation of the decision.
-
-Speaking on the matter, UNP Chairman Vajira Abeywardena noted that this move removes the obstacles that previously hindered cooperation between the UNP and members who had joined the SJB, thereby paving the way for renewed collaboration.
-
-The Working Committee meeting was held at the UNP headquarters in Sirikotha, under the leadership of party leader and former President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/7982980e.json)
-
-[Extended Data](ext_articles/7982980e.ext.json)
-
----
-
-### Dai, son! You are here…
-
-*2025-09-17 15:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/டேய்-மகனே-நீ-இங்க-இருக்கடா/62-364771) · `ta`
-
-Former President Mahinda Rajapaksa points out his son Namal Rajapaksa…
-
-◼️
-
-[Data](articles/f4d12f48.json)
-
-[Extended Data](ext_articles/f4d12f48.ext.json)
-
----
-
-### Date of the case against Wimal
-
-*2025-09-17 14:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-எதிரான-வழக்குக்கு-திகதி-குறிப்பு/175-364769) · `ta`
-
-Colombo High Court Judge Jayaratne today (17) ordered that the case against former minister Wimal Weerawansa for allegedly acquiring more than 75 million assets.
-
-◼️
-
-[Data](articles/a6d68421.json)
-
-[Extended Data](ext_articles/a6d68421.ext.json)
-
----
-
-### Removal of arbitration bigr over from Pakistan matches
-
-*2025-09-17 14:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/பாகிஸ்தான்-போட்டிகளில்-இருந்து-நடுவர்-பைகிராஃப்ட்-நீக்கம்/88-364768) · `ta`
-
-According to reports, the referee, Andy Bigraft has been removed from all Pakistan's matches in the case of refusing to shake hands with Indian players - Pakistani players.
-
-The Asian Cup series is being held in the United Arab Emirates, including eight teams, including India and Pakistan.
-
-The Indian team won the match between India and Pakistan last Sunday.
-
-Prior to the match, Indian captain Suriyakumar Yadav and the players avoided shaking hands with the Pakistan team during the match.
-
-The Pakistan Cricket Board has accused him of removing the referee Andy Biography (Zimbabwe) on the issue, while the affair has been shocked by the Pakistan team.
-
-The ICC also rejected Pakistan's request as the Pakistan Board was reported to be on the idea of ​​quitting the Asian Cup.
-
-If Pakistan had decided to quit the match, the move would have been a $ 16 million revenue loss to the Pakistan Cricket Board.
-
-...
-
-[Data](articles/dd947291.json)
-
-[Extended Data](ext_articles/dd947291.ext.json)
-
----
-
-### “Some MPs have gone to the homes of the culprits and get the money”
-
-*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
-
-President Anura Kumara Dissanayake said that some MPs have been bribed to the houses of organized criminals and that some ministers have invited the organized criminals to their homes.
-
-Speaking at the inauguration to resume the construction of the Central Highway Kadawatha-Mrigama Division, the President said that the investigation into a group of suspects has revealed that they have a deep involvement in the Sri Lankan criminal network.
-
-However, the government is working to end this criminal politics and that the arranged culprits so far are about 50 percent responsible for the drug network.
-
-“After the economy has collapsed, there is a saying that a decade is lost. This can be reduced to less than a decade. We will allocate money from the budget for that. We will build the country so that Sri Lanka will never be a crisis again. Creating infrastructure is not just enough. That is only a feature.
-
-To ensure the rule of law. There was a law that caught fish and sharks.
-
-...
-
-[Data](articles/51c45513.json)
-
-[Extended Data](ext_articles/51c45513.ext.json)
-
----
-
-### Central Expressway: Pothuhera to Rambukkana section completion date announced
-
-*2025-09-17 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112608/central-expressway-pothuhera-to-rambukkana-section-completion-date-announced) · `en`
-
-The construction work on the section of the Central Expressway from Pothuhera to Rambukkana will be completed before the section from Kadawatha to Mirigama is finalized by the year 2028, the Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake has stated.
-
-Speaking at the official ceremony to mark the recommencement of construction on the Kadawatha to Mirigama section of the Central Expressway, the Minister noted that the construction of this stretch is expected to be completed within 32 months, by the year 2028.
-
-Accordingly, the construction of the section from Pothuhera to Rambukkana is planned to be completed before the Sinhala and Tamil New Year in April 2028, and the connecting roads around Rambukkana will also be developed in line with that.
-
-...
-
-[Data](articles/875b59f9.json)
-
-[Extended Data](ext_articles/875b59f9.ext.json)
-
----
-
-### වැඩිම රිලව් ගහණයක් ඉන්නේ මහනුවරයි
-
-*2025-09-17 14:28:39* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-රිලව්-ගහණයක්-ඉන්නේ-මහනුවරයි/11-418555) · `si`
-
-වැඩිම රිලා ගහණයක් ඇත්තේ මහනුවර දිස්ත්‍රික්කයේ බව පසුගිය කාලයේ කළ සංගණනයෙන් තහවුරු වූ බවත්
-
-ඉන් අනතුරුව කෑගල්ල, කුරුණෑගල හා අනුරාධපුර නගර පවතින බවත් කෘෂිකර්ම අමාත්‍ය ලාල් කාන්ත මහතා පැවැසීය.
-
-"අපේ රටේ වනජීවී කළමනාකරණය කියලා මාතෘකාවක නෑ. වනජීවී කළමනාකරණය කරන්න නම් වනජිව් ගැන සංඛ්‍යාවක්  තියෙන්න ඕන. ඒ සංගනණය තමයි අපි ක‍ළේ. රිලා ප්‍රශ්ණය ගත්තොත් මහනුවර දිස්ත්‍රික්කයේ තමයි වැඩිම රිලා ගණනයක් ඉන්නේ කියලා ඒ සංගණනයන් තහවුරු වුණේ. මහනුවර, කෑගල්ල, කුරුණෑගල අනුරාධපුර කියලා තමයි දත්තයක් ආවේ.
-
-මේ සංගණනය නිසා තමයි එහෙම දත්තයක් ආවේ. මේ සම්බන්ධයෙන් ජනපති ලේකම් කාර්යාලයේ වැඩසටනහක් ක්‍රියාත්මක වෙමින් යනවා. ප්‍රථිඵල එන්නේ යම් කාලයක් සමගයි."
-
-◼️
-
-[Data](articles/0477ce2b.json)
-
----
 
 ### Permission to hold back 'Back' and 'Orange Lahiru' about the killing of the Kibra
 
@@ -534,42 +78,6 @@ The team, which came to court for trial, was not allowed to enter the court prem
 
 ---
 
-### ‘Backhoe Saman’ & ‘Thembili Lahiru’ to be detained till Dec. 2 for further questioning
-
-*2025-09-17 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112607/backhoe-saman-thembili-lahiru-to-be-detained-till-dec-2-for-further-questioning) · `en`
-
-The Walasmulla Magistrate’s Court today (17) granted permission to police to detain “Backhoe Saman” and “Thambili Lahiru” until December 2 in order to conduct further investigations related to the murder of ‘Anura Vidanagamage, also known as ‘Kajja’.
-
-The duo, identified as prominent underworld gang members, were recently arrested in Indonesia and brought back to Sri Lanka.
-
-◼️
-
-[Data](articles/0339b829.json)
-
-[Extended Data](ext_articles/0339b829.ext.json)
-
----
-
-### Sri Lanka becomes State Party to BBNJ Convention
-
-*2025-09-17 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112606/sri-lanka-becomes-state-party-to-bbnj-convention) · `en`
-
-The Ministry of Foreign Affairs, Foreign Employment and Tourism has announced that Sri Lanka’s Instrument of Ratification on the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) has been deposited with the United Nations, becoming a State Party to the Convention.
-
-The ratification of the BBNJ agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry of Foreign Affairs said.
-
-Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
-
-Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
-
-...
-
-[Data](articles/ed7b0d64.json)
-
-[Extended Data](ext_articles/ed7b0d64.ext.json)
-
----
-
 ### Saran in Sampath Manamberi Court
 
 *2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
@@ -581,46 +89,6 @@ Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in
 [Data](articles/c9db1bce.json)
 
 [Extended Data](ext_articles/c9db1bce.ext.json)
-
----
-
-### Malwatte and Asgiri Maha Naramen announced about Diyawadana Nilame
-
-*2025-09-17 14:03:31* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-ඡන්දය-ගැන-මල්වතු-හා-අස්ගිරි-මහ-නා-හිමිවරුන්ගෙන්-නිවේදනයක්/11-418554) · `si`
-
-In a statement that the Buddhist organizations and individuals have been issued to the signature of the Buddhist society, as a result of the aim of ahead of the future Diyawadana Nilame.
-
-The Diyawadana Nilame, which is the first Buddhist monastery in Sri Lanka, is internationally in international Buddhists, while the tops of the Buddhist people of the World Resistant People.
-
-The Malwathu Asgiri Maha Viharaya should be conducted by the Malwathu Asgiri Maha Viharaya who are responsible for the Diyawadana Niladhari of the Great Restaurant to the Sacred Tooth Relic.
-
-Diyawadana Nilame is appointed by the Temples Devalayagam Act No. 19 of 1931. Appointment of a new Diyawadana Nilame who has ended the term of the current Diyawadana Nilame.. We have learned that a number of candidates including the current Diyawadana Nilame and the current Diyawadana Nilame.
-
-...
-
-[Data](articles/9b72068a.json)
-
-[Extended Data](ext_articles/9b72068a.ext.json)
-
----
-
-### Adani-led Sri Lanka container terminal to double capacity ahead of deadline – report
-
-*2025-09-17 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112605/adani-led-sri-lanka-container-terminal-to-double-capacity-ahead-of-deadline-report) · `en`
-
-India’s Adani Group and its partners are set to double the capacity of a $840 million container terminal in Colombo months ahead of schedule, despite relinquishing $553 million in U.S. funding, an executive at partner firm John Keells Holdings told Reuters.
-
-The deepwater Colombo West International Terminal, located next to a facility run by China Merchants Port Holdings, underscores Sri Lanka’s geopolitical significance in the tug-of-war for Indian Ocean influence between New Delhi and Beijing.
-
-Adani opened the first phase of the fully automated terminal in April, making it operational. The second and final phase is underway and expected to be completed by late 2026, three to four months ahead of the February 2027 deadline, said Zafir Hashim, head of transportation at John Keells.
-
-The accelerated timeline, which has not been previously reported, was unexpected in the wake of Sri Lanka’s deep financial crisis that brought foreign investment in the country to a virtual standstill.
-
-...
-
-[Data](articles/0e379db8.json)
-
-[Extended Data](ext_articles/0e379db8.ext.json)
 
 ---
 
@@ -643,46 +111,6 @@ The port is the login way. It is also a matter of considerable problems. 98% is 
 [Data](articles/7e405803.json)
 
 [Extended Data](ext_articles/7e405803.ext.json)
-
----
-
-### ‘We aim to end the economic crisis through 2026 Budget’ – President
-
-*2025-09-17 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112603/we-aim-to-end-the-economic-crisis-through-2026-budget-president) · `en`
-
-President Anura Kumara Dissanayake stated that the 2022–2023 economic crisis and the resulting social hardships were not random events, emphasizing that multiple major factors contributed to the situation.
-
-Speaking at the inauguration ceremony for the resumption of construction of the Kadawatha–Mirigama section of the Central Expressway Project today (17), the President assured the public that the country will be developed in a manner that prevents the recurrence of such a crisis in Sri Lanka.
-
-President Dissanayake emphasized that economic stability cannot be achieved through construction alone, and it is being pursued through multiple avenues.
-
-He further stated that he aims to end the economic crisis through the 2026 budget, despite the widespread collapse of the economy and hardships faced by the people.
-
-...
-
-[Data](articles/a0484797.json)
-
-[Extended Data](ext_articles/a0484797.ext.json)
-
----
-
-### Cancel from debt unless hemp is cultivated
-
-*2025-09-17 13:38:17* · [`adalk`](https://www.ada.lk/breaking_news/කංසා-වගා-කළොත්-ණයෙන්-ගොඩ-යන්න-පුළුවන්/11-418553) · `si`
-
-I believe that if you cultivate the flower cadres, such as heavily farming in Sri Lanka and farming cabbage is farming, and that if the flower permission can build an economically overloading.. Someone who likes someone uses these. It is currently using cigarettes now, now, we can't stop it.
-
-He was speaking at a media briefing at the National Namal Uyana premises.
-
-"In fact, cannabis in this country and marketing the country's country and get a large amount of money and get a large amount of money. I called about this about this too. That is the main Minister of Deputy Minister of Diyan Gamage mainly and made various things in parliament and in Parliament.
-
-I also spoke at the time. This cannabis is an economic generation to this country and a plant in the well-soap. The land of our country is good. Suddha is banking from this country, don't let the country banned this as an illegal act. Suddh knew that the marijuana was the best, powerful medicine in the world.
-
-...
-
-[Data](articles/39d6703e.json)
-
-[Extended Data](ext_articles/39d6703e.ext.json)
 
 ---
 
@@ -722,26 +150,6 @@ Sampath Manamperi has surrendered to the court to be arrested in connection with
 
 ---
 
-### Sampath Manamperi surrenders to court
-
-*2025-09-17 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112602/sampath-manamperi-surrenders-to-court) · `en`
-
-Sampath Manamperi, accused of concealing two containers of raw materials allegedly used in the production of the drug “Ice” and reportedly belonging to underworld figure Kehelbaddara Padme, surrendered to the Walasmulla Magistrate’s Court today.
-
-An attorney representing Manamperi had informed the Court of Appeal on September 15 that his client was prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of the two containers in Middeniya, which were suspected to contain chemical substances used in the manufacture of crystal methamphetamine (Ice).
-
-Following this, the Court of Appeal directed the Inspector General of Police (IGP) to take necessary measures to ensure Manamperi’s safety after his surrender. Investigating officers were also instructed to comply with this directive.
-
-The Court’s order was issued after considering a writ petition filed by Manamperi’s legal team, which highlighted that he is wanted for arrest in connection with the incident.
-
-◼️
-
-[Data](articles/dee91170.json)
-
-[Extended Data](ext_articles/dee91170.ext.json)
-
----
-
 ### Resources surrendered to Manampean Court
 
 *2025-09-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214670) · `si`
@@ -753,24 +161,6 @@ It is reported that Sampath Manamperi has surrendered to the Walasmulla Magistra
 [Data](articles/1641dece.json)
 
 [Extended Data](ext_articles/1641dece.ext.json)
-
----
-
-### US Ambassador met Foreign Minister
-
-*2025-09-17 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225301) · `ta`
-
-US Ambassador Julie Sung meets Foreign, Foreign Employment and Tourism Minister Vijitha Herath.
-
-We discussed the upgrading of fair, balanced trade and strengthening US -Sri Lankan security cooperation from ports to the general public.
-
-Indo -We are protecting security and open trade as Pacific partners. "We are protecting important sea paths for regional stability and prosperity."
-
-◼️
-
-[Data](articles/f6609eb2.json)
-
-[Extended Data](ext_articles/f6609eb2.ext.json)
 
 ---
 
@@ -799,26 +189,6 @@ This underlying state we will be concluded. The people who are currently arreste
 [Data](articles/822adc58.json)
 
 [Extended Data](ext_articles/822adc58.ext.json)
-
----
-
-### ‘Backhoe Saman’ and ‘Thembili Lahiru’ produced before court
-
-*2025-09-17 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112601/backhoe-saman-and-thembili-lahiru-produced-before-court) · `en`
-
-Underworld figures known as ‘Backhoe Saman’ and ‘Thembili Lahiru’, who were recently brought back to Sri Lanka from Indonesia, have been produced before the Walasmulla Magistrate’s Court today (17).
-
-The Western Province North Crimes Division had earlier informed the Colombo Magistrate’s Court that the individuals would be detained and questioned under the Prevention of Terrorism Act (PTA).
-
-Authorities confirmed that five individuals, including ‘Kehelbaddara Padme’, who are leaders of organized crime gangs involved in multiple murders—including the killing of ‘Ganemulla Sanjeewa’—and drug trafficking, were arrested in Indonesia.
-
-The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
-
-◼️
-
-[Data](articles/4e59ae6d.json)
-
-[Extended Data](ext_articles/4e59ae6d.ext.json)
 
 ---
 
@@ -917,28 +287,6 @@ Accordingly, there are poor infrastructure deficits for the Jaffna University's 
 [Data](articles/1f08f840.json)
 
 [Extended Data](ext_articles/1f08f840.ext.json)
-
----
-
-### 1,600 people die of kidney disease annually
-
-*2025-09-17 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225298) · `ta`
-
-About 1,600 deaths annually due to kidney diseases in the country. Accordingly, the Health Development Bureau said that an average of five deaths per day.
-
-Chronic kidney disease (CKD) and chronic kidney failure can reduce urine discharge and lead to the inability to remove the body's excess fluid. Advisor Social Doctor Sinda Gunaratne said that this will cause many problems.
-
-Kidney disease also disrupts the production of redness. He added that vitamin D is reduced and interferes with blood pressure regulation.
-
-In this case, the World Health Organization (WHO) has warned of the global increase in kidney -related diseases. It is estimated that one of the 10 people may have chronic kidney disease in their lifetime.
-
-By 2050, the World Health Organization further predicts that kidney diseases may be the fifth major cause of death worldwide.
-
-◼️
-
-[Data](articles/926dc5e2.json)
-
-[Extended Data](ext_articles/926dc5e2.ext.json)
 
 ---
 
@@ -1552,20 +900,6 @@ Malwatte and Asgiri Mahanayaka Thero has issued an announcement in the Diyawadan
 
 ---
 
-### Reclaiming The Nation We Deserve From The Shackles Of A Hollow Democracy
-
-*2025-09-17 10:13:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reclaiming-the-nation-we-deserve-from-the-shackles-of-a-hollow-democracy/) · `en`
-
-I often wonder whether our nation’s founders ever paused to reflect before adopting the foundational principles of Democratic, Socialist, and Republic to define the country. A nation’s self-identification shapes not only its domestic policies but also its relationship with its people and its place in the world. Misinterpreting or inconsistently applying these terms risks deep conflict, ideological, institutional, and social, which we have adequately experienced. Before judging the merits of this identity, we must return to the fundamentals of democracy: does it serve some of the people some of the time, or all of the people all of the time?
-
-...
-
-[Data](articles/ecd4e382.json)
-
-[Extended Data](ext_articles/ecd4e382.ext.json)
-
----
-
 ### President inaugurated resumption of Kadawatha–Mirigama Expressway construction
 
 *2025-09-17 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112596/president-inaugurated-resumption-of-kadawathamirigama-expressway-construction) · `en`
@@ -1783,18 +1117,6 @@ They pointed out that the government loses a large tax revenue and the consumers
 [Data](articles/472cef86.json)
 
 [Extended Data](ext_articles/472cef86.ext.json)
-
----
-
-### Absurdity Of ‘The Flock Of Sheep’ Seeking Protection From The ‘Werewolf’
-
-*2025-09-17 09:21:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/absurdity-of-the-flock-of-sheep-seeking-protection-from-the-werewolf/) · `en`
-
-...
-
-[Data](articles/855513d5.json)
-
-[Extended Data](ext_articles/855513d5.ext.json)
 
 ---
 
@@ -2025,5 +1347,687 @@ It has been reported that some parts of the country are likely to experience mor
 [Data](articles/153039d9.json)
 
 [Extended Data](ext_articles/153039d9.ext.json)
+
+---
+
+### Pre Budget discussion on banking industry
+
+*2025-09-17 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214658) · `si`
+
+A pre-budget discussion on banks, financial and insurance areas has been conducted at the Presidential Secretariat.
+
+The discussion was stated by the discussion under the patronage of Minister of Labor and Economic Development Dr. Anil Jayantha Fernando.
+
+It is widely discussed on the support of the banking sector to achieve the economic growth tarials in the country.
+
+The Presidential Media Unit said that the decision of the digital plan to improve the efficiency of the banking and financial sector, the Presidential Media Unit said.
+
+Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando has stated that he will focus on all proposals on all proposals.
+
+Meanwhile, a discussion has been discussed with the parties involved in the marine goods transport sector.
+
+The President told the Presidential Media Unit that the President has stated that the President has initiated the program that the President has initiated the government to build the economy of the country.
+
+...
+
+[Data](articles/87273650.json)
+
+[Extended Data](ext_articles/87273650.ext.json)
+
+---
+
+### Showers over 50m today
+
+*2025-09-17 07:26:10* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මීටර්-50-ඉක්මවූ-වැසි/11-418545) · `si`
+
+The Meteorological Department (Metary Meetics Departments) will be held in the Western, Sabaragamuwa, Central, North Western and Northern provinces and in the Galle and Matara districts.
+
+Also on the other areas. Showers or thundershowers will occur at several places and over 50mm in the country, the Met Department said.
+
+◼️
+
+[Data](articles/0025376e.json)
+
+[Extended Data](ext_articles/0025376e.ext.json)
+
+---
+
+### A longtime attack on Israel to the city of Gaza
+
+*2025-09-17 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214657) · `si`
+
+Israel has launched a major landslide attack in Gaza.
+
+Foreign reports have stated that he was launched yesterday (16).
+
+In the last 24 hours, 59 people were killed and 386 injured in the past 24 hours.
+
+Israeli Prime Minister Benjamin Netanyahuu has said that the last major fort has been launched against the last major forts of the Hamas in Britain and other countries.
+
+The attack took place with the statementation of the United Nations that the United Nations Investigation Commission was making a genocide in the Gaza.
+
+It is reported that about 3,050,000 people have left the area in accordance with the Israeli security forces estimate.
+
+◼️
+
+[Data](articles/0aee2511.json)
+
+[Extended Data](ext_articles/0aee2511.ext.json)
+
+---
+
+### Recreation of the first part of the Central Expressway today
+
+*2025-09-17 07:22:07* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටසේ-වැඩ-යළි-ආරම්භ-ක‍ිර‍ිම-අද/11-418544) · `si`
+
+The resume of work on the road on the road on the road is to be resumed at Kadawatha.
+
+The project, which stopped the work of the work due to the economic crisis, will restart the debt of China Exim Bank. The construction will be resumed under the patronage of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/033e1392.json)
+
+[Extended Data](ext_articles/033e1392.ext.json)
+
+---
+
+### Construction of Kadawatha–Mirigama section of Central Expressway resumes today
+
+*2025-09-17 07:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112591/construction-of-kadawathamirigama-section-of-central-expressway-resumes-today) · `en`
+
+The construction of the Kadawatha to Mirigama section of the Central Expressway is scheduled to officially resume today (17), under the patronage of President Anura Kumara Dissanayake.
+
+As part of the recommencement, work will also commence on the Kadawatha Interchange and the first 500-meter stretch of the expressway.
+
+The government has allocated Rs. 8.6 billion for the project.
+
+Construction of this section was suspended in mid-2022 following the suspension of credit facilities due to the economic crisis.
+
+However, the Export-Import Bank of China has approved a Yuan-denominated loan equivalent to USD 500 million to enable the resumption of work.
+
+The distance between Kadawatha and Mirigama on the Central Expressway is 37 kilometers.
+
+◼️
+
+[Data](articles/c1f65060.json)
+
+[Extended Data](ext_articles/c1f65060.ext.json)
+
+---
+
+### Court grants CID permission to probe bank accounts of ‘Panadura Nilanga’
+
+*2025-09-17 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112590/court-grants-cid-permission-to-probe-bank-accounts-of-panadura-nilanga) · `en`
+
+The Colombo Magistrate’s Court has granted permission to the Criminal Investigation Department (CID) to obtain reports on the bank accounts of alleged underworld figure ‘Panadura Nilanga’, who has been arrested and remains in custody.
+
+Colombo Chief Magistrate Asanka S. Bodaragama issued the order yesterday (16) after considering a request made by the CID, said Ada Derana reporter.
+
+In its submissions, the CID informed the court that it had received information indicating that a significant amount of money had been circulated through two bank accounts belonging to the suspect, who is currently under detention and interrogation.
+
+The CID further stated that it is essential to investigate the transactions carried out through these bank accounts in order to proceed with inquiries into drug trafficking and other criminal activities allegedly committed by the suspect.
+
+...
+
+[Data](articles/ae915aef.json)
+
+[Extended Data](ext_articles/ae915aef.ext.json)
+
+---
+
+### Mexico’s President Claudia Sheinbaum makes history as first woman to lead Independence Day gala
+
+*2025-09-17 06:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112589/mexicos-president-claudia-sheinbaum-makes-history-as-first-woman-to-lead-independence-day-gala) · `en`
+
+Mexico kicked off Independence Day celebrations on Monday night with President Claudia Sheinbaum ending a more than century-long practice in which only men as chief executives led the country’s most important celebration.
+
+Before tens of thousands of people gathered in the main square of the Mexican capital, Sheinbaum shouted from one of the balconies of the Government Palace. “Long live the dignity of the Mexican people! Long live freedom! Long live equality! Long live democracy! Long live justice! Long live a free, independent, and sovereign Mexico!” the president said in a brief message, met with applause and shouts from the audience, who echoed her cheers.
+
+Shortly after, Sheinbaum rang the bell of the historic palace to commemorate the 215th anniversary of Mexico’s independence from Spain, which was followed by the ringing of the bells of the capital’s cathedral and the singing of the national anthem.
+
+...
+
+[Data](articles/964e3d6d.json)
+
+[Extended Data](ext_articles/964e3d6d.ext.json)
+
+---
+
+### 2026 budget preliminary discussion
+
+*2025-09-17 06:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-வரவு-செலவுத்-திட்ட-பூர்வாங்கக்-கலந்துரையாடல்/175-364730) · `ta`
+
+The budget preliminary discussion on Otomobile and Electronic Equipment Industries was held at the Presidential Office yesterday afternoon.
+
+Ottomobile and Electronic Equipment Importers said they would provide their full support for the economic development program carried out by the government headed by President Anura Kumara Dissanayake.
+
+Vehicle importers said the vehicle imports department has expanded due to the decision of the current government on vehicle imports. They also made many useful recommendations for the next budget.
+
+The problems facing importers of electronic equipment were also investigated.  Electronic equipment importers pointed out that the stealth of electronic equipment is being taken into the country without paying taxes, especially organized groups.
+
+They also pointed out that the government is causing a higher tax revenue loss and the quality of consumers is facing problems.
+
+...
+
+[Data](articles/327e238b.json)
+
+[Extended Data](ext_articles/327e238b.ext.json)
+
+---
+
+### More funds for 2025 Yala paddy purchases
+
+*2025-09-17 06:36:41* · [`dailyftlk`](https://www.ft.lk/news/More-funds-for-2025-Yala-paddy-purchases/56-781794) · `en`
+
+PMB spends Rs. 5.28 b from Rs. 6 b allocation to purchase 43,891 tons of Yala paddy across 16 districts
+
+Procurement focuses on Pollonnaruwa, Anuradhapura, and Trincomalee, where 79% of 2.2 m ton Yala harvest is complete
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa says SME mill loan scheme supports paddy collection, boosting participation during this season
+
+Notes Govt. mulls importing 40,000 tons of Keeri Samba or alternative variety amid shortage
+
+In a bid to facilitate continued purchases of paddy at the Government’s fixed price, the Cabinet of Ministers at their meeting on Monday approved additional provisions for the program.
+
+...
+
+[Data](articles/822767ee.json)
+
+[Extended Data](ext_articles/822767ee.ext.json)
+
+---
+
+### Japan extends nearly Rs. 2 b grant to boost dairy sector and Navy capabilities
+
+*2025-09-17 06:35:30* · [`dailyftlk`](https://www.ft.lk/news/Japan-extends-nearly-Rs-2-b-grant-to-boost-dairy-sector-and-Navy-capabilities/56-781793) · `en`
+
+Exchange of notes and related agreements for two projects will be formally signed during President’s upcoming State visit to Japan
+
+Directs JPY 500 m to Sri Lanka Navy under Official Security Assistance Project, including provision of drones for surveillance, monitoring, and investigative activities
+
+The Government of Japan has pledged a grant of Japanese Yen (JPY) 963 million or around Rs. 1.94 billion to support two key projects, to boost the dairy sector productivity and strengthen the operational capacity of the Sri Lanka Navy.
+
+The exchange of notes and related agreements for these two projects will be formally signed during President Anura Kumara Disanayake’s upcoming State visit to Japan.
+
+The move was approved by the Cabinet of Ministers on Monday to proceed with the necessary arrangements.
+
+...
+
+[Data](articles/c41c714e.json)
+
+[Extended Data](ext_articles/c41c714e.ext.json)
+
+---
+
+### Construction commences in Kadau to Mirigama on the Central Expressway
+
+*2025-09-17 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214656) · `si`
+
+The construction work of the Central Expressway to Mirigama is to be officially resumed today (17).
+
+The activities will commence under the patronage of President Anura Kumara Dissanayake.
+
+It is said that the construction of the Kadawatha Exchange Center and Expressway will be launched.
+
+The government has allocated Rs. 8.6 billion for this project.
+
+The construction work was suspended in mid-2022 due to the suspension of loans allocated due to the economic crisis.
+
+The Export-Import Bank of China has approved the amendment of maritime loans to resume construction.
+
+The project is to be completed by the middle of 2028.
+
+The Kadawatha and Mirigama is 37 km from the Central Expressway.
+
+◼️
+
+[Data](articles/982fddcb.json)
+
+[Extended Data](ext_articles/982fddcb.ext.json)
+
+---
+
+### Sri Lanka moves to enable overseas citizens to vote
+
+*2025-09-17 06:34:52* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-moves-to-enable-overseas-citizens-to-vote/56-781792) · `en`
+
+The Cabinet of Ministers on Monday approved the formation of a committee to explore legal amendments and formulate new laws that would allow Sri Lankans living abroad to participate in national elections.
+
+Under the current Sri Lankan Constitution, the right to vote is limited to citizens residing within the country who are registered on the electoral roll. No existing law provides a mechanism for overseas citizens to vote. Recognising this gap, the Cabinet has tasked the Public Administration, Provincial Councils, and Local Governments Minister with appointing a committee to examine the legal framework necessary to safeguard the voting rights of citizens living overseas.
+
+Several Asian countries, including India, Bangladesh, and the Philippines, have already implemented legal strategies to enable overseas voting, and experts consider such reforms in Sri Lanka both timely and necessary.
+
+...
+
+[Data](articles/a2d97bff.json)
+
+[Extended Data](ext_articles/a2d97bff.ext.json)
+
+---
+
+### Govt. moves to develop Kahatagaha graphite mine under PPP
+
+*2025-09-17 06:33:44* · [`dailyftlk`](https://www.ft.lk/news/Govt-moves-to-develop-Kahatagaha-graphite-mine-under-PPP/56-781791) · `en`
+
+The Government has decided to develop the 102 acre site Kahatagaha graphite mine, the country’s deepest graphite mine through a new public-private partnership (PPP) framework, to attract international investment and strengthen the sector’s long-term competitiveness in global markets.
+
+The proposal to this effect presented by Industries and Entrepreneurship Development Minister Sunil Handunneththi was approved by the Cabinet of Ministers at their meeting on Monday.
+
+Announcing the decision at the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said it was decided to repeal the Cabinet decision taken on 11 December 2023 regarding the restructuring of Kahatagaha Graphite Lanka Ltd., and to call for proposals for Expressions of Interest (EoIs) following the approved procurement procedure.
+
+...
+
+[Data](articles/7a778c63.json)
+
+[Extended Data](ext_articles/7a778c63.ext.json)
+
+---
+
+### Feasibility study for Lotus Roundabout traffic woes
+
+*2025-09-17 06:32:25* · [`dailyftlk`](https://www.ft.lk/news/Feasibility-study-for-Lotus-Roundabout-traffic-woes/56-781790) · `en`
+
+The Cabinet of Ministers on Monday approved the selection of a consultancy agency, through the procurement process, to conduct a detailed feasibility study aimed at easing severe congestion at the Lotus Roundabout in Colombo.
+
+The study will focus on developing a sustainable solution to improve connectivity with the city’s main corridors, while addressing bottlenecks at the Lotus Roundabout.
+
+“The Lotus Road roundabout area in Colombo has turned out to be a high traffic congestion place, especially during peak hours and it has been observed that this has led to traffic congestion in the urban transport network,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
+
+He said it has been found that this issue will be further aggravated with the completion of the Colombo Port City and the Port Access Road, and the completion of major development works currently underway in the capital.
+
+...
+
+[Data](articles/3c790d6f.json)
+
+[Extended Data](ext_articles/3c790d6f.ext.json)
+
+---
+
+### Govt. denies plans to list State banks on Colombo Stock Exchange
+
+*2025-09-17 06:32:07* · [`dailyftlk`](https://www.ft.lk/news/Govt-denies-plans-to-list-State-banks-on-Colombo-Stock-Exchange/56-781789) · `en`
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday dismissed speculation that the Government intends to list the two main State banks on the Colombo Stock Exchange (CSE), calling such claims “just rumours.”
+
+“The matter was not taken up at the Monday Cabinet meeting, which means it was not discussed. The rumours were just rumours,” he clarified at the weekly post-Cabinet media briefing.
+
+The comments come in response to claims by the trade unions of the two State banks, who alleged that 20% of the banks’ shares would be listed on the CSE and expressed concerns over potential moves to privatise the institutions. The unions also raised several other issues related to employee welfare and management decisions.
+
+Dr. Jayatissa reassured that the Government has no plans to privatise or list the State-owned banks.
+
+◼️
+
+[Data](articles/b5319e80.json)
+
+[Extended Data](ext_articles/b5319e80.ext.json)
+
+---
+
+### Cabinet directs to gazette and table revised Social Security Contribution Levy Bill for Parliament approval
+
+*2025-09-17 06:31:06* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-directs-to-gazette-and-table-revised-Social-Security-Contribution-Levy-Bill-for-Parliament-approval/56-781788) · `en`
+
+The Cabinet of Ministers on Monday approved the publication of the amended Social Security Contribution Levy (Amendments) Act in the Government gazette, following clearance from the Attorney General, before submitting it to Parliament for approval.
+
+The revised draft Bill, prepared by the Legal Draftsman, incorporates changes proposed in the 2025 Budget aimed at updating and refining the country’s social security tax framework.
+
+“Key amendments cover several sectors,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet media briefing yesterday.
+
+He said the amendments include; machinery imported or purchased locally for generating electricity, the wholesale and retail trade of petrol, diesel, or kerosene, related services provided by container terminal operators in international transport, and exemptions from the contribution tax for financial services provided by any person or institution carrying on a financial services business in Sri Lanka.
+
+...
+
+[Data](articles/58f7d2cb.json)
+
+[Extended Data](ext_articles/58f7d2cb.ext.json)
+
+---
+
+### Sri Lanka–Singapore Business Council elects  new leadership at 28th AGM
+
+*2025-09-17 06:29:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-LankaSingapore-Business-Council-elects-new-leadership-at-28th-AGM/34-781787) · `en`
+
+The 28th Annual General Meeting (AGM) of the Sri Lanka–Singapore Business Council (SLSBC) of the Ceylon Chamber of Commerce was held recently, with the participation of Republic of Singapore in Sri Lanka Honorary Consul General Dr. Jayantha Dharmadasa as the Chief Guest.
+
+Delivering his address, the Council outgoing President Shiluka Goonawardena reflected on the Council’s progress and achievements during his tenure and extended his appreciation to the membership and committee for their continued support.
+
+At the meeting, A. Baur & Co. Ltd., Deputy Managing Director Janaka Gunasekera was elected President of the SLSBC for the term 2025–2026.
+
+...
+
+[Data](articles/d350dc59.json)
+
+[Extended Data](ext_articles/d350dc59.ext.json)
+
+---
+
+### Milinda Hewagama appointed to Kelani  Valley Plantations Board
+
+*2025-09-17 06:28:49* · [`dailyftlk`](https://www.ft.lk/business/Milinda-Hewagama-appointed-to-Kelani-Valley-Plantations-Board/34-781786) · `en`
+
+Kelani Valley Plantations yesterday announced the appointment of Milinda Hewagama as Non-Executive Director.
+
+Hewagama is the Group Chief Financial Officer and a member of the Group Management Committee (GMC) of Hayleys PLC, with responsibility for the Group’s Finance and Reporting, Environmental, Social and Governance (ESC), Tax, Risk and Safety and Corporate Secretarial functions among others.
+
+He also serves as a Non-Executive Director of The Kingsbury PLC, Hayleys Leisure PLC, Talawakelle Tea Estates PLC and several other companies in the Haycarb Group.
+
+He is a Member of CA Sri Lanka and has served as a Member of the Corporate Governance Committee of CA Sri Lanka, which was responsible for the formulation of the Code of Best Practice on Corporate Governance 2023.
+
+He also serves on the Board of the United Nations Global Compact Network of Sri Lanka. Hewagama holds an MBA and BBA (Special) in Finance from University of Colombo.
+
+◼️
+
+[Data](articles/04835d7c.json)
+
+[Extended Data](ext_articles/04835d7c.ext.json)
+
+---
+
+### Anura Weerakoon joins Talawakelle Tea Board
+
+*2025-09-17 06:27:41* · [`dailyftlk`](https://www.ft.lk/business/Anura-Weerakoon-joins-Talawakelle-Tea-Board/34-781785) · `en`
+
+Anura Weerakoon has been appointed a Non-Executive Director at Talawakelle Tea Estates PLC.
+
+With 40 years of experience in the plantations industry, Weerakoon worked at Kelani Valley Plantations PLC (KVPL) from 1998-2003. Prior to re-joining the company in 2013, he served as Director of Malwatte Valley Plantations PLC.
+
+He re-joined KVPL as General Manager – Plantations and was appointed CEO and Executive Director to the Board in 2018 in which capacity he served for seven years before retiring in July 2025. He currently serves on the Boards of DPL Plantations Ltd., Kelani Valley Resorts Ltd., and Mabroc Teas Ltd.
+
+◼️
+
+[Data](articles/1349d2a6.json)
+
+[Extended Data](ext_articles/1349d2a6.ext.json)
+
+---
+
+### Consultation conundrum: How ‘people friendly’ is the Government?
+
+*2025-09-17 06:20:24* · [`dailyftlk`](https://www.ft.lk/columns/Consultation-conundrum-How-people-friendly-is-the-Government/4-781782) · `en`
+
+If the current Government is to be true to its claim it is a people’s government, it must consult stakeholders in a transparent and inclusive manner
+
+In August 2025, the Government issued a public notice calling for submissions from the public and local and international media on amendments to the Online Safety Act No. 9 of 2024 (OSA). In May 2025, the Government issued a similar public call for comments and recommendations on repealing the Prevention of Terrorism Act (PTA). These are positive steps. However, although the Government called for public submissions, there has been no dialogue to date with those that made submissions regarding the PTA. For instance, my submission on the PTA was not even officially acknowledged. The Government’s good intentions notwithstanding, if consultations are not inclusive and meaningful, they will be viewed as a ticking the box exercise.
+
+...
+
+[Data](articles/3cf012aa.json)
+
+[Extended Data](ext_articles/3cf012aa.ext.json)
+
+---
+
+### Stolen innocence, shattered lives: Sri Lanka’s digital heartbreak
+
+*2025-09-17 06:16:03* · [`dailyftlk`](https://www.ft.lk/columns/Stolen-innocence-shattered-lives-Sri-Lanka-s-digital-heartbreak/4-781781) · `en`
+
+Beneath its gleaming surface, a dark current runs, pulling vulnerable souls into an unseen depth
+
+...
+
+[Data](articles/ee0c945b.json)
+
+[Extended Data](ext_articles/ee0c945b.ext.json)
+
+---
+
+### Showers in the evening today
+
+*2025-09-17 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214654) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa, Central, North Western and Northern provinces and in the Galle and Matara districts.
+
+Department of Meteorological Department announced. Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/6d300d96.json)
+
+[Extended Data](ext_articles/6d300d96.ext.json)
+
+---
+
+### Kithul’s revival: Blending tradition, wellness and export potential
+
+*2025-09-17 06:07:16* · [`dailyftlk`](https://www.ft.lk/columns/Kithul-s-revival-Blending-tradition-wellness-and-export-potential/4-781780) · `en`
+
+Despite its deep roots and unique value, the kithul industry in Sri Lanka remains largely informal and under-developed
+
+In a world increasingly seeking natural, healthy alternatives and sustainable food sources, kithul, a traditional Sri Lankan sweetener is poised to capture international attention. Derived from the sap of Caryota Urens palm, (commonly known as the fishtail palm), kithul has long held a revered place in Sri Lankan culture, economy and traditional medicine. But beyond its domestic role, kithul holds untapped potential in the international marketplace, particularly as a natural sweetener aligned with wellness trends and sustainability.
+
+...
+
+[Data](articles/75453c79.json)
+
+[Extended Data](ext_articles/75453c79.ext.json)
+
+---
+
+### Fairly heavy rainfall expected in several parts of the island
+
+*2025-09-17 06:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112588/fairly-heavy-rainfall-expected-in-several-parts-of-the-island) · `en`
+
+The Department of Meteorology has announced that showers will occur at times in the Western, Sabaragamuwa, Central, Northwestern, and Northern provinces, as well as in the Galle and Matara districts.
+
+Showers or thundershowers are also expected in several other areas of the island after 1.00 p.m.
+
+Fairly heavy rainfall exceeding 50 mm is likely in some locations, the Met. Department added.
+
+The public is advised to take necessary precautions to minimize the risk of damage caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/81cfac06.json)
+
+[Extended Data](ext_articles/81cfac06.ext.json)
+
+---
+
+### Designed for control: Digital infrastructure and public
+
+*2025-09-17 05:59:50* · [`dailyftlk`](https://www.ft.lk/columns/Designed-for-control-Digital-infrastructure-and-public/4-781777) · `en`
+
+While they hasten to develop cutting-edge systems, governments and contractors need to be more transparent about how those arrangements are structured
+
+Across the Global South, Digital Public Infrastructure is being sold as a leap forward for inclusion and modern governance. But as Pamodi Waravita reveals, these systems often deepen exclusion, entrench surveillance, and blur the line between public good and private control.
+
+Scan your face using a Government-approved app or press your finger to a biometric reader to collect welfare payment, enrol your child in school, access a public health scheme or retrieve land records — all within seconds. On paper, it sounds like a digital utopia, especially across Asia and the Global South, where public services are often slow, opaque or out of reach.
+
+...
+
+[Data](articles/b848ce5e.json)
+
+[Extended Data](ext_articles/b848ce5e.ext.json)
+
+---
+
+### Rewiring for growth: How Government and fintechs can power Sri Lanka’s digital revival
+
+*2025-09-17 05:53:28* · [`dailyftlk`](https://www.ft.lk/columns/Rewiring-for-growth-How-Government-and-fintechs-can-power-Sri-Lanka-s-digital-revival/4-781776) · `en`
+
+When banks, fintechs, and telecom networks interoperate, citizens can pay, save, borrow, and receive Government benefits and services on any compliant platform
+
+The world economy is entering a new phase, with growth and innovation increasingly driven by Asia’s rising economic powerhouses and by global waves of technological disruption. For Sri Lanka, a nation whose economy remains anchored in agriculture and whose export markets are still concentrated in Europe and America, this transition presents critical challenges but also unprecedented opportunities. To find our place in this changing order, we must embrace innovation as the pathway to resilience, competitiveness, and inclusion.
+
+...
+
+[Data](articles/e53cffdd.json)
+
+[Extended Data](ext_articles/e53cffdd.ext.json)
+
+---
+
+### Govt. launches digital signatures for public officials
+
+*2025-09-17 05:48:17* · [`dailyftlk`](https://www.ft.lk/news/Govt-launches-digital-signatures-for-public-officials/56-781775) · `en`
+
+Public Administration, Provincial Councils, and Local Government Minister Chandana Abeyratne
+
+The Public Administration Ministry has rolled out digital signatures for Government officers as part of efforts to modernise State services and improve efficiency in official transactions.
+
+Public Administration, Provincial Councils, and Local Government Minister Chandana Abeyratne introduced the initiative at a ceremony marking the adoption of digital signatures within the Home Affairs Division.
+
+Highlighting the wider aim of the Government, the Minister said the shift to digital tools is intended to reshape the public sector to meet the expectations of citizens. “We must deliver an efficient public service that people can rely on. This initiative should extend down to Grama Niladhari level,” he noted.
+
+...
+
+[Data](articles/b353f546.json)
+
+[Extended Data](ext_articles/b353f546.ext.json)
+
+---
+
+### CEB union staff to call in sick on Thursday, Friday
+
+*2025-09-17 05:45:02* · [`dailyftlk`](https://www.ft.lk/news/CEB-union-staff-to-call-in-sick-on-Thursday-Friday/56-781774) · `en`
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU) announced that its members will report sick leave on 17 and 18 September as part of an escalation in their trade union campaign against the Government’s plan to restructure the CEB.
+
+The first stage of the work-to-rule campaign ended on Monday, with the second stage taking effect from yesterday. Under this phase, employees will withdraw from committee work, including tender boards, and limit their participation to core job functions.
+
+A protest campaign is also scheduled to take place during the two days of coordinated sick leave.
+
+The union has maintained that while industrial action will intensify, office closures and other operational disruptions are not anticipated.
+
+◼️
+
+[Data](articles/63e13680.json)
+
+[Extended Data](ext_articles/63e13680.ext.json)
+
+---
+
+### UN inquiry finds Israel committing genocide in Gaza
+
+*2025-09-17 05:44:47* · [`dailyftlk`](https://www.ft.lk/news/UN-inquiry-finds-Israel-committing-genocide-in-Gaza/56-781773) · `en`
+
+A United Nations Commission of Inquiry says Israel has committed genocide against Palestinians in Gaza.
+
+A new report says there are reasonable grounds to conclude that four of the five genocidal acts defined under international law have been carried out since the start of the war with Hamas in 2023: killing members of a group, causing them serious bodily and mental harm, deliberately inflicting conditions calculated to destroy the group, and preventing births, the BBC reports.
+
+It cites statements by Israeli leaders, and the pattern of conduct by Israeli forces, as evidence of genocidal intent.
+
+The Israeli military launched a campaign in Gaza in response to the unprecedented Hamas-led attack on southern Israel on 7 October 2023, in which about 1,200 people were killed and 251 were taken hostage.
+
+At least 64,905 people have been killed in Israeli attacks in Gaza since then, according to the territory’s Hamas-run health ministry.
+
+...
+
+[Data](articles/21b9e960.json)
+
+[Extended Data](ext_articles/21b9e960.ext.json)
+
+---
+
+### Ceremony marks 119th birth anniversary of late President J.R. Jayewardene
+
+*2025-09-17 05:43:39* · [`dailyftlk`](https://www.ft.lk/news/Ceremony-marks-119th-birth-anniversary-of-late-President-J-R-Jayewardene/56-781772) · `en`
+
+A memorial ceremony commemorating the 119th birth anniversary of the late President J.R. Jayewardene will be held today at the main auditorium of the J.R. Jayewardene Centre, Dharmapala Mawatha, Colombo 7. The event is scheduled to begin at 3 p.m.
+
+The program will include an oration by former diplomat and academic Dr. Karunasena Kodituwakku, who is expected to reflect on the life, legacy and contributions of Sri Lanka’s first Executive President.
+
+Organised by the J.R. Jayewardene Centre, the ceremony seeks to pay tribute to the former Head of State.
+
+◼️
+
+[Data](articles/bfa2c117.json)
+
+[Extended Data](ext_articles/bfa2c117.ext.json)
+
+---
+
+### EDB and Germany’s Import Promotion Desk to expand cooperation
+
+*2025-09-17 05:41:13* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-Germany-s-Import-Promotion-Desk-to-expand-cooperation/34-781771) · `en`
+
+The Sri Lanka Export Development Board (EDB) and Germany’s Import Promotion Desk (IPD) will formalise their longstanding collaboration through a Cooperation Agreement, expanding support to Sri Lanka’s digital products and services sector alongside natural ingredients and processed foods.
+
+Since 2019, EDB and IPD have partnered to strengthen Sri Lanka’s export competitiveness, particularly in natural ingredients. Their joint initiatives have enabled small and medium-sized enterprises (SMEs) to meet European Union (EU) market requirements, improve compliance, and establish valuable buyer connections.
+
+...
+
+[Data](articles/1131c77e.json)
+
+[Extended Data](ext_articles/1131c77e.ext.json)
+
+---
+
+### CBL inks deal with Aamalcom Holdings to expand market presence in Saudi Arabia
+
+*2025-09-17 05:39:20* · [`dailyftlk`](https://www.ft.lk/business/CBL-inks-deal-with-Aamalcom-Holdings-to-expand-market-presence-in-Saudi-Arabia/34-781770) · `en`
+
+Aamalcom Holding Company KSA Chairman Sheikh Qinan Rashdan Al Marel (left) exchanges partnership agreement with CBL Group Director Rasith Wickramasingha
+
+From left: CBL Foods International Manager – International Marketing and Sales Rajeewa Weerasingha, Hiplas FS Chairman and Aamalcom Trading Company KSA International Trade Director Saeed Asif Khan, Executive Director Syed Zaid ul Hassan, Ceylon Biscuits Director/ CEO Nalin Karunaratne, and CBL Foods International Director/CEO Kamal Geeganage
+
+CBL brands Munchee, Ritzbury, and Tiara to see wider distribution in Riyadh City from November
+
+Initial target modern trade followed by general trade, wholesale, food service, and e-commerce channels coverage
+
+CBL Group yesterday said it has entered into a strategic partnership with Aamalcom Holdings, a diversified group operating in multiple sectors, to expand its footprint and strengthen market reach in the Kingdom of Saudi Arabia (KSA).
+
+...
+
+[Data](articles/ce24d3e1.json)
+
+[Extended Data](ext_articles/ce24d3e1.ext.json)
+
+---
+
+### Build SL 2026 International Expo
+
+*2025-09-17 05:37:46* · [`dailyftlk`](https://www.ft.lk/business/Build-SL-2026-International-Expo/34-781769) · `en`
+
+The Chamber of Construction Industry of Sri Lanka (CCI) recently launched its flagship event Build SL 2026 International Expo at the Galadari Hotel Grand Ball Room.
+
+The Chief Guest was CCI immediate past President Eng. Maj. Ranjith Gunatilleke. The past success of Build SL 2025, future work and the CCI predictions were showcased during the event.
+
+A special feature was the awarding of NVQ Certificates to ‘Construction Site Supervisors’ under the ‘Recognition of Prior Learning method.’ This is a program that the CCI will launch to enable construction workers to be certified with a National Vocational Qualification (NVQ) in the future.
+
+The main feature of this event was the pledging of sponsorships by a token gesture. The following are the valuable sponsors of Build SL International 2026 Exhibition to be held in 22, 23, and 24 in May 2026 at BMICH Colombo 7. It is expected that Build SL 2026 Expo to be the best yet as it will display an international pavilion with a global outreach.
+
+◼️
+
+[Data](articles/bc99388e.json)
+
+[Extended Data](ext_articles/bc99388e.ext.json)
+
+---
+
+### Sri Lanka: Emerging as Asia’s  next startup and innovation hub
+
+*2025-09-17 05:35:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Emerging-as-Asia-s-next-startup-and-innovation-hub/34-781768) · `en`
+
+Sri Lanka’s rapidly growing startup ecosystem is drawing increasing regional and global attention, positioning the country as a rising innovation hub in Asia. With a strong ICT sector, high literacy rates, and a growing pool of skilled professionals, Sri Lanka is primed to become a hotbed for technology startups and product innovation.
+
+Key highlight this year is the arrival of over 35 global investors and speakers attending the Venture Engine Finale, alongside the Disrupt Asia conference, creating an unprecedented opportunity for Sri Lankan startups to connect with leading venture capitalists and industry experts from APAC, MENA, Europe, and the United States.
+
+...
+
+[Data](articles/907d4a50.json)
+
+[Extended Data](ext_articles/907d4a50.ext.json)
+
+---
+
+### Visit to China, Inspector General of Police Lalith Patinayake appointed as the Inspector General of Police
+
+*2025-09-17 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225275) · `ta`
+
+Police Inspector Priyantha Weerasuriya has made a visit to China to attend the police conference in China.
+
+Police Media Spokesperson Udaya Kumara Woodler said that Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Inspector General of Police.
+
+Inspector General of Police Priyantha Weerasuriya made a special visit to China on Monday night (15).  He has visited China to attend the police conference in China and it is reported that the Inspector General of Police Priyantha Weerasuriya will deliver a speech at Amman.  Senior Inspector General of Police Lalith Patinayake, who is in charge of the Central Province and Police Management Division, has been appointed as the Inspector General of Police, Assistant Superintendent of Police, Udayakumara Woodler.
+
+...
+
+[Data](articles/04ab177e.json)
+
+[Extended Data](ext_articles/04ab177e.ext.json)
 
 ---

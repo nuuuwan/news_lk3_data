@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 05:05:45**
+As of **2025-09-18 04:54:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,000 (96.6%) of 76,613 articles have been extended.
+73,989 (96.6%) of 76,613 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,8 +45,6 @@ Q: Alumex has grown to become the market leader in the Aluminium industry in Sri
 ...
 
 [Data](articles/fc519dc8.json)
-
-[Extended Data](ext_articles/fc519dc8.ext.json)
 
 ---
 

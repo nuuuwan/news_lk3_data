@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 17:05:52**
+As of **2025-09-17 16:54:32**
 
 ## Newspaper Stats
 
-*Scraped **76,542** Articles*
+*Scraped **76,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,436
+adalk | 7,435
 adaderanalk | 9,871
-tamilmirrorlk | 11,479
+tamilmirrorlk | 11,478
 virakesarilk | 12,460
 adaderanasinhalalk | 13,353
 
@@ -26,75 +26,51 @@ adaderanasinhalalk | 13,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,758 (96.4%) of 76,542 articles have been extended.
+73,752 (96.4%) of 76,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### கொழும்பு வாழ் மக்களுக்கு மகிழ்ச்சியான செய்தி
-
-*2025-09-17 16:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வாழ்-மக்களுக்கு-மகிழ்ச்சியான-செய்தி/175-364782) · `ta`
-
-கொழும்பில் வியாழக்கிழமை (18)  முன்னெடுக்க திட்டமிடப்பட்டிருந்த 9 மணிநேர நீர்வெட்டு இரத்து செய்யப்பட்டுள்ளதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபை (NWSDB) இன்று அறிவித்துள்ளது.
-
-காலை 10:00 மணி முதல் இரவு 7:00 மணி வரை தண்ணீர் வெட்டு திட்டமிடப்பட்டது.
-
-கொழும்பு 01 முதல் கொழும்பு 15 வரை இந்த தண்ணீர்​ வெட்டு அமுல்படுத்தப்படுமென முன்​னர் அறிவிக்கப்பட்டிருந்தது.
-
-கொழும்பில் மட்டுமன்றி கொழும்புக்கு வெளியே, பத்தரமுல்ல, பெலவத்தை, ஹோகந்தர, கொஸ்வத்தை, தலவத்துகொட, கோட்டே, ராஜகிரிய, மிரிஹான, மடிவெல, நுகேகொட, நாவல, கொலன்னாவ, ஐ.டி.எச்., கொட்டிகாவத்தை, அங்கொட, வெல்லம்பிட்டிய, ஒருகொடவத்தை, முல்லம்பிட்டிய, ஒருகொடவத்தை, ஒருகொடவத்தை தெஹிவளை, இரத்மலானை மற்றும் மொரட்டுவை ஆகிய பிரதேசங்களிலும் நீர்வெட்டு அமுல்படுத்தப்படுமென அறிவிக்கப்பட்டிருந்தது. அந்த அறிவிப்பும் இரத்துச் செய்யப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/592967b7.json)
-
----
-
-### Prevention of Sampath Manamber
+### சம்பத் மனம்பேரிக்கு தடுப்புக்காவல்
 
 *2025-09-17 16:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-தடுப்புக்காவல்/175-364781) · `ta`
 
-Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
+மித்தெனிய பகுதியில் "ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு இரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் தேடப்பட்டு வந்த சம்பத் மனம்பேரி வலஸ்முல்ல நீதவான் நீதிமன்றத்தில் இன்று (17) சரணடைந்தார்.
 
-The court has given him permission to investigate him until the 24th of this month.
+அவரை எதிர்வரும் 24 ஆம் திகதி வரை தடுப்புகாவலில் வைத்து விசாரணைக்கு உட்படுத்துவதற்கு நீதிமன்றம் அனுமதியளித்துள்ளது.
 
 ◼️
 
 [Data](articles/06ef553a.json)
 
-[Extended Data](ext_articles/06ef553a.ext.json)
-
 ---
 
-### Ananda: Vatagala became Minister
+### பறந்தார் ஆனந்த: பதில் அமைச்சரானார் வட்டகல
 
 *2025-09-17 16:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தார்-ஆனந்த-பதில்-அமைச்சரானார்-வட்டகல/175-364780) · `ta`
 
-President Anura Kumara Dissanayake has appointed Deputy Minister Sunil Vatagala to serve as Minister of Public Safety and Parliamentary Affairs.
+பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சராகப் பணியாற்றுவதற்காக பிரதி அமைச்சர் சட்டத்தரணி சுனில் வட்டகலவை ஜனாதிபதி அனுர குமார திசாநாயக்க நியமித்தார்.
 
-The appointment was granted as Public Security and Parliamentary Affairs Minister Ananda Wijebala attended a conference in China.
+பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சர் ஆனந்த விஜேபால சீனாவில் ஒரு மாநாட்டில் கலந்து கொள்ளச் சென்றதால் இந்த நியமனம் வழங்கப்பட்டது.
 
-The Inspector General of Police has also attended the conference with Ananda Wijebala.
+ஆனந்த விஜேபாலவுடன் பொலிஸ் மா அதிபரும் இந்த மாநாட்டில் கலந்து கொள்ளச் சென்றுள்ளார்.
 
 ◼️
 
 [Data](articles/a57776a4.json)
 
-[Extended Data](ext_articles/a57776a4.ext.json)
-
 ---
 
-### Resource Mamanampara is allowed to interfere with seven days
+### සම්පත් මනම්පේරිව දින 7ක් රඳවා ප්‍රශ්න කිරීමට අවසර
 
 *2025-09-17 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214681) · `si`
 
-Kodamamkara, who was in charge of the court today (17), Msasinsha Kodituwakku has been ordered to be detained in seven days in the custody of the Police Narcotics Bureau.
+අත්අඩංගුවට ගැනීමට සොයමින් සිටියදී අද (17) දහවල් අධිකරණයට භාර වූ සම්පත් මනම්පේරි නමැත්තා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය භාරයේ දින 07ක කාලයක් රඳවා ප්‍රශ්න කිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් මල්ෂා කොඩිතුවක්කු මෙනෙවිය නියෝග කර ඇත.
 
 ◼️
 
 [Data](articles/49562747.json)
-
-[Extended Data](ext_articles/49562747.ext.json)
 
 ---
 
@@ -454,20 +430,6 @@ If Pakistan had decided to quit the match, the move would have been a $ 16 milli
 
 ---
 
-### ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයට වැඩි බලයක්
-
-*2025-09-17 14:52:23* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ගොඩනැගිලි-පර්යේෂණ-ආයතනයට-වැඩි-බලයක්/11-418556) · `si`
-
-2025.09.23 දින පාර්ලිමේන්තුවේ දෙවනවර කියවා අනුමත කිරීමට නියමිත ජාතික ගොඩනැගිලි පර්යේෂණ ආයතන පනත් කෙටුම්පත රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී  සලකා බලා අනුමත කරන ලදී. ඒ එම කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) නජිත් ඉන්දික මහතාගේ සභාපතිත්වයෙන්  පසුගියදා  පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදිය.
-
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය  1984 වසරේ සිට ක්‍රියාත්මක වුවද, එම ආයතනය මේ වන තෙක්ම පාර්ලිමේන්තු පනතකින්  ස්ථාපිත  කර නොමැති බැවින් ආයතනයට පැවරී ඇති  රාජකාරි ,වගකීම් සහ සේවාවන් නිසි පරිදි ඉටුකිරීමේදී ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයට නීතිමය තත්ත්වයක් ලබාදීම මෙම යෝජිත පනතින් අපේක්ෂා කෙරේ. නායයෑම් සම්බන්ධයෙන් තම සංවිධානය විසින් නිකුත් කරන ලද නිර්දේශ පළාත් පාලන ආයතන නිසි ලෙස පිළිපදින්නේ නැති අවස්ථාවන්හි  යෝජිත මෙම පනත් කෙටුම්පත සම්මත වුවහොත් මේ සම්බන්ධයෙන් නීතිමය ක්‍රියාමාර්ග ගැනීමට හැකිවන බවත් නිලධාරීහු කාරක සභාව හමුවේ කරුණු දක්වමින් පැවසුහ.
-
-...
-
-[Data](articles/f9cb3a18.json)
-
----
-
 ### “Some MPs have gone to the homes of the culprits and get the money”
 
 *2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
@@ -508,23 +470,21 @@ Accordingly, the construction of the section from Pothuhera to Rambukkana is pla
 
 ---
 
-### The highest relief population is the waters
+### වැඩිම රිලව් ගහණයක් ඉන්නේ මහනුවරයි
 
 *2025-09-17 14:28:39* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-රිලව්-ගහණයක්-ඉන්නේ-මහනුවරයි/11-418555) · `si`
 
-The largest bail of Rila has been established by the recent census that he has previously been admitted to the Kandy district.
+වැඩිම රිලා ගහණයක් ඇත්තේ මහනුවර දිස්ත්‍රික්කයේ බව පසුගිය කාලයේ කළ සංගණනයෙන් තහවුරු වූ බවත්
 
-Minister of Agriculture Lal Kantha said that there were Kegalle, Kurunegala and Anuradhapura.
+ඉන් අනතුරුව කෑගල්ල, කුරුණෑගල හා අනුරාධපුර නගර පවතින බවත් කෘෂිකර්ම අමාත්‍ය ලාල් කාන්ත මහතා පැවැසීය.
 
-"There is no title that" wealth management in our country. There should be a number of Wildlife to manage wildlife. That was the census that we did. The census confirmed that if the Rila issue, the highest calculation in the Kandy district. A data was the case, Kandy, Kegalle and Kurunegala.
+"අපේ රටේ වනජීවී කළමනාකරණය කියලා මාතෘකාවක නෑ. වනජීවී කළමනාකරණය කරන්න නම් වනජිව් ගැන සංඛ්‍යාවක්  තියෙන්න ඕන. ඒ සංගනණය තමයි අපි ක‍ළේ. රිලා ප්‍රශ්ණය ගත්තොත් මහනුවර දිස්ත්‍රික්කයේ තමයි වැඩිම රිලා ගණනයක් ඉන්නේ කියලා ඒ සංගණනයන් තහවුරු වුණේ. මහනුවර, කෑගල්ල, කුරුණෑගල අනුරාධපුර කියලා තමයි දත්තයක් ආවේ.
 
-This is due to this census that. Presidential Secretariat is being implemented in this regard. The results come with a time. "
+මේ සංගණනය නිසා තමයි එහෙම දත්තයක් ආවේ. මේ සම්බන්ධයෙන් ජනපති ලේකම් කාර්යාලයේ වැඩසටනහක් ක්‍රියාත්මක වෙමින් යනවා. ප්‍රථිඵල එන්නේ යම් කාලයක් සමගයි."
 
 ◼️
 
 [Data](articles/0477ce2b.json)
-
-[Extended Data](ext_articles/0477ce2b.ext.json)
 
 ---
 
@@ -2017,5 +1977,53 @@ The Ministry of Commerce said it was creative. The next round of negotiations wi
 [Data](articles/dd6209b2.json)
 
 [Extended Data](ext_articles/dd6209b2.ext.json)
+
+---
+
+### 7 killed in seven year kills girl
+
+*2025-09-17 07:46:07* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරු-7කින්-අවුරුදු-3ක-කුඩා-දැරියක්-ඇතුළු-7ක්-මරුට/11-418546) · `si`
+
+Seven and 7 have died in a seventeen road accidents in various areas of the island yesterday.
+
+The victim was killed in a murder in a mix of 33 years in Navadu Ten to govern the motorcycle board in Nakukkan-Murukkan - Murukkan-Murukkan.
+
+The victim was killed in 36-year-old Liyanagama, 36 years of cyclist near Embilipitiya town near Embilipitiya town.. The driver of the van was once crashed into a three-wheeler and attempted to flee and handed over to the police.
+
+Nochchiyagama - Nochchiyawa Poultry on a lorry
+
+A resident of a 60 year old resident of the motorcycle was killed.
+
+Peliyagoda Rohana Viharaya in Peliyagoda-Colombo road sources to the pedestrian shift
+
+Patiyiya Junction, 3 days of collision with a motorcycle and car
+
+A small girl residing has died. Another child who was traveling on the three-wheeler, their mother, three-wheeler driver and three-wheeler driver and another.
+
+A 63-year-old resident of the three-wheeler resident of the Kandagamuwa Dickwella road in Matara.
+
+...
+
+[Data](articles/30caadbe.json)
+
+[Extended Data](ext_articles/30caadbe.ext.json)
+
+---
+
+### Rain in some parts of the country
+
+*2025-09-17 07:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-மழை/175-364731) · `ta`
+
+The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa, Central, North Western and Galle and Matara districts.
+
+Rainfall or thunderstorms will occur in other areas after 1.00 pm.
+
+It has been reported that some parts of the country are likely to experience more than 50 millimeters. (A)
+
+◼️
+
+[Data](articles/153039d9.json)
+
+[Extended Data](ext_articles/153039d9.ext.json)
 
 ---

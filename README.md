@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 22:37:09**
+As of **2025-09-17 21:56:45**
 
 ## Newspaper Stats
 
-*Scraped **76,589** Articles*
+*Scraped **76,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,21 @@ economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,444
+adalk | 7,443
 adaderanalk | 9,879
 tamilmirrorlk | 11,491
 virakesarilk | 12,462
-adaderanasinhalalk | 13,363
+adaderanasinhalalk | 13,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,833 (96.4%) of 76,589 articles have been extended.
+73,827 (96.4%) of 76,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### ජන්ම දිනය නිමිත්තෙන් පා.ම දිලිත් ජයවීර ආගමික වතාවත්වලට එක්වෙයි
-
-*2025-09-17 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214691) · `si`
-
-ශ්‍රී ලංකාවේ වර්තමානය මෙන්ම අනාගතය අර්ථවත් කළ හැක්කේ බුදුදහම මත පෝෂණය වූ මෙරට සභ්‍යත්වය පදනම්කර ගනිමින් බව මල්වතු පාර්ශ්වයේ අනුනාහිමි පූජ්‍ය නියංගොඩ විජිතසිරි හිමියන් පෙන්වාදෙයි.
-
-උන්වහන්සේ මේ බව සඳහන් කළේ ගම්පහ යටවත්ත පුරාණ රජමහා විහාරයේ අද (17) පැවති පුණ්‍යෝත්සවයකට එක්වෙමිනි.
-
-සර්වජන බලය නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතාගේ ඡන්ම දිනය නිමිත්තෙන් භික්ෂූන් වහන්සේ 260 නමක් විෂයෙහි දානමය පිංකමක් ගම්පහ යටවත්ත පුරාණ රජමහා විහාරස්ථානයේ විද්‍යාරවින්ද මහ පිරිවෙනේදී අද පැවැත්විය.
-
-එහිදී අනගාරික ධර්මපාලතුමන්ගේ 161 වැනි ජන්ම දිනය සිහිපත් කරමින් පුණ්‍යානුමෝදනාවක්ද සිදු කෙරුණි.
-
-මීට සමගාමීව කතෝලික ආගමික වතාවත් අද පැවැත්වුණේ කොළඹ  පිහිටි ජේසු බිලිදාගේ රන්දෙවොල සහ ජපමාල දේවමාතා දේවස්ථානයේදීය.
-
-මෙහිදී පැමිණ සිටි පිරිස සමඟ දිලිත් ජයවීර මහතා සුහද කතාබහකද නිරතවිය.
-
-◼️
-
-[Data](articles/f7dfc992.json)
-
----
-
-### හෙරොයින් සමග චීවරධාරියෙකු අත්අඩංගුවට
-
-*2025-09-17 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214690) · `si`
-
-හෙරොයින් ළඟ තබාගෙන සිටි චීවරධාරියෙකු ඇතුළු පුද්ගලයින් තිදෙනෙකු මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශය විසින් ඊයේ (16) රාත්‍රියේ අත්අඩංගුවට ගෙන ඇත.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අලව්ව පොලිස් වසමේ විහාරස්ථානක වැඩ විසූ වයස අවුරුදු 38ක චීවරධාරියෙකු බව පොලීසිය පැවසීය.
-
-පොලීසිය විසින් එම චීවරධාරියා අත්අඩංගුවට ගන්න විට හෙරොයින් ග්‍රෑම් 10යි මිලිග්‍රැම් 300ක් සන්තකයේ තිබී ඇත.
-
-එමෙන්ම අත්අඩංගුවට ගත් අනෙක් සැකකරුවන් දෙදෙනා වයස අවුරුදු 29 හා 31 වියෙහි පසුවන්නන් වන අතර, ඔවුන් සතුවද හෙරොයින් ග්‍රෑම් 17ක් තිබී ඇත.
-
-අත්අංගුවට ගත් තිදෙනා අද (17) පොල්හවෙල අධිකරණය වෙත ඉදිරිපත්කළ අතර, එහිදී දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට පොලීසියට අවසර දී තිබේ.
-
-මෙම සැකකරුවන් මිනුවන්ගොඩ නේවි දිනේෂ් නමැත්තාගේ මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ බවට තොරතුරු වාර්තා වේ.
-
-◼️
-
-[Data](articles/6350b4e6.json)
-
----
-
-### Conditions of mineral transportation changes at school days
-
-*2025-09-17 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214689) · `si`
-
-At the date of schools. 06.30 pm. 07.45 and. 11.30 pm. The new condition imposed on suspicion of mineral activities during the period was up to 02.30 has been amended.
-
-According to the influence of minerals in connection with the construction industry in an announcement, the construction industry has decided to consider the inconveniences of the construction industry, considering the inconveniences of the construction industry.
-
-Accordingly, mineral transports should be carried out with the severe supervision of the police with a confusion of the vehicles near the schools and roads.
-
-Therefore, in the days of schools today (17). 06.30 pm. 07.45 and. 11.30 pm. The transportation of minerals within the duration of Rs.
-
-Traffic driving in mineral transportation due to unrestrained vehicles in the transportation of vehicles. 06.30 pm. 07.45 and. 11.30 pm. The suspension of minerals had been suspended at the end of the 4th.
-
-◼️
-
-[Data](articles/8354d248.json)
-
-[Extended Data](ext_articles/8354d248.ext.json)
-
----
 
 ### Pakistan Tournament Mediator
 
@@ -127,30 +61,6 @@ Namal met him at a wedding ceremony in Colombo
 [Data](articles/7c6f2e86.json)
 
 [Extended Data](ext_articles/7c6f2e86.ext.json)
-
----
-
-### Sri Lankans protest in Geneva agitations for LTTE supporters
-
-*2025-09-17 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214688) · `si`
-
-Arorists in Europe, the United Sri Lankans living in Europe today (Human Rights Commission in Switzerland) has taken steps to protest against the massive demonstration held in front of the UN Human Rights Commission in Switzerland.
-
-They have opposed the Meeting of the United Nations Secretary-General and a delegation.
-
-Chairman of the organization to appoint a United Nations Truth Resolution Commission to restore the Sehawela Ltd. in Sri Lanka. Ariyamaga Thero has requested.
-
-Accordingly, the Secretary of the United Nations General Secretary of the United Nations, the Secretary of the United Nations has informed the Human Rights Commission to carry out the necessary arrangements.
-
-And the k. Ariyamagas Thero is scheduled to address the United Nations Hummil Session on Friday 13, October 13.
-
-A large number of LTTE supporters were organized by a group of LTTE supporters, accusing of taking human rights violations during the past war.
-
-◼️
-
-[Data](articles/d605bb66.json)
-
-[Extended Data](ext_articles/d605bb66.ext.json)
 
 ---
 
@@ -549,20 +459,6 @@ The strike follows a similar walkout last week and is part of a wider campaign l
 [Data](articles/6f105a57.json)
 
 [Extended Data](ext_articles/6f105a57.ext.json)
-
----
-
-### මහින්දගේ ගේ අලුත්වැඩියාවට ලක්ෂ 5000යි, නිවාස 150ක් අලුත්වැඩියාවට ලක්ෂ 1400යි
-
-*2025-09-17 16:58:32* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-ගේ-අලුත්වැඩියාවට-ලක්ෂ 5000යි--නිවාස-150ක්-අලුත්වැඩියාවට-ලක්ෂ-1400යි/11-418563) · `si`
-
-හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පදිංචිව සිටි කොළඹ විජේරාම නිල නිවස අලුත් වැඩියා කිරීම වෙනුවෙන් රුපියල් ලක්ෂ 5000කට අධික ප්‍රමාණයක් වැය කර ඇති බවත් අනුරාධපුර දිස්ත්‍රික්කයේ අඩු අදායම් ලාභී පුද්ගලයන්ගේ නිවාස 150ක් ප්‍රතිසංස්කරණය වෙනුවෙන් වැය කරන මුදල රුපියල් ලක්ෂ 1400ක් බවත් ඉඩම් හා වාරී මාර්ග නියෝජ්‍යය අමාත්‍යය සුසිල් රණසිංහ මහතා පැවසීය.
-
-ඔහු මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුර දිස්ත්‍රික්කයේ  එප්පාවල ගල්වඩුවාගම මාර්ගය ප්‍රථිසංස්කරණය කිරීමේ අවස්ථාවට සහභාගී වෙමින්ය. මාර්ග සංවර්ධන අධිකාරිය මගින් මෙම මාර්ගය පිළිසකර කෙරෙන අතර, කිලෝ මීටර 2.5 ක් දිගට, මීටර 3.5 ක් පළලින් යුතුව මාර්ග සංවර්ධන අධිකාරියේ සෘජු කම්කරු පදනම මත මාස 03 ක් වැනි කෙටි කාළයක් තුළ මෙම මාර්ගය පිළිසකර කර ජනතා අයිතියට පත් කිරීමට නියමිතය.මේ සඳහා රුපියල් මිලියන 75 ක් ඇස්තමේන්තු කර ඇත.
-
-...
-
-[Data](articles/c30fb585.json)
 
 ---
 
@@ -2039,5 +1935,121 @@ The President also further stated that the entire economy and life have been pla
 [Data](articles/a6696f10.json)
 
 [Extended Data](ext_articles/a6696f10.ext.json)
+
+---
+
+### Girl drivers soon on Sri Lankan buses
+
+*2025-09-17 11:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பேருந்துகளில்-விரைவில்-பெண்-ஓட்டுநர்கள்/175-364757) · `ta`
+
+Transport Minister Bimal Ratnayake said that female drivers and conductors will be included in the Public Transport Service of the Sri Lanka Transport Board (SLTB).
+
+He made the announcement on Tuesday (16) at a special event at the Colombo District Secretariat.
+
+Minister Ratnayake said that the Sri Lanka Transport Board had fallen deeply than Mariana trench and that politicians were responsible for its destruction.
+
+He added that the SLTB depots in Sri Lanka have become a hell on Earth, full of flaws.
+
+However, he said that steps have already been taken to modernize 25 buses.
+
+The Minister said that 750 new drivers and operators were hired to address the current shortage of the Sri Lanka Transport Board (SLTB) and confirmed that the Sri Lanka Transport Board would be rebuilt as a profitable company.
+
+◼️
+
+[Data](articles/e7c677ca.json)
+
+[Extended Data](ext_articles/e7c677ca.ext.json)
+
+---
+
+### "We will prepare the National Highway Plan";
+
+*2025-09-17 11:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நெடுஞ்சாலை-திட்டத்தை-தயாரிப்போம்-பிமல்-விளக்கம்/175-364756) · `ta`
+
+Speaking at the inauguration of the first part of the Central Highway Project from Kadawatha to Meerigama, Ports, Highways and Aviation Minister Bimal Ratnayake said that the contractors would not face any issues under the current administration under the current government.
+
+“We will end this central highway in 2028 Sinhala-Tamil New Year. We are planning to launch construction work from Rambukkana to Galagade this year.
+
+98 percent of the work on the road used to the port has been completed. We hope we will complete this task within next year.
+
+The work of the Ruwanpura Highway has been halted and the construction work will be started very soon.
+
+Roads from Ingiriya to Ratnapura are being developed well. The Southern Expressway has not been renovated for about twelve years.
+
+Currently its rehabilitation work has been started. There is only one service center on the southern highway. We are going to open another small service center in the Udugawa area.
+
+...
+
+[Data](articles/51080904.json)
+
+[Extended Data](ext_articles/51080904.ext.json)
+
+---
+
+### The father of the neighbor of the boy arrested the boy
+
+*2025-09-17 11:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-வன்புணர்ந்த-பக்கத்து-வீட்டு-தந்தை-கைது/76-364755) · `ta`
+
+A foreign housekeeper has been arrested on Tuesday (16) for allegedly sexually abusing a 11 -year -old boy from Kitulkottai area of ​​the Moneragala and Tanamalwila police division.
+
+The boy has informed his teacher about the incident and the teacher has been informed by the police station.
+
+According to the police, the suspect has been sexually abused by the suspect on several occasions, keeping the boy's house and keeping the boy's house.
+
+Steps have been taken to produce the suspect in the Wellawaya Court and the victim has been admitted to the Thanamalwila Divisional Hospital for medical examination.
+
+◼️
+
+[Data](articles/e91f47f2.json)
+
+[Extended Data](ext_articles/e91f47f2.ext.json)
+
+---
+
+### US -Sri Lanka Partnership Starting English Language Laboratory for Navy
+
+*2025-09-17 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225291) · `ta`
+
+The US Embassy in Sri Lanka officially opened a sophisticated English language laboratory at the Navy and Maritime College in Trincomalee on Monday (September 15).
+
+Colonel Mathiv Hows, Senior Security Officer of the US Embassy in Sri Lanka, Director General of the Sri Lanka Navy, Rear Admiral Wijewardena, and Commanding Commander of the Sri Lanka Navy and Maritime College, Komador Dinesh Bandara inaugurated the building.
+
+The Language Laboratory, which includes high quality multi -ethnic technology and the recent training software of the US Security Language Institute, provides Sri Lankan naval authorities, the most common language used during the international naval activities and training, which is used in English.
+
+Speaking at a ceremony held in Trincomalee on Monday, Leftinan Colonel Methiv Hows commented on the beginning of the English Language Laboratory:
+
+...
+
+[Data](articles/04dcde8c.json)
+
+[Extended Data](ext_articles/04dcde8c.ext.json)
+
+---
+
+### Pakistani child star Umar Shah's death by a heart attack: Fans shocked
+
+*2025-09-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225292) · `ta`
+
+Pakistan's famous child star Umar Shah died of a heart attack at the age of 15. His sudden death has saddened fans and celebrities.
+
+Umar Shah, who has performed in several shows, including the famous 'Jeeto Pakistan' television series, died of a heart attack at his home.
+
+It is very rare to have a heart attack for young people under the age of 25. The death of Umar Shah at an early age has shocked fans in Pakistan.
+
+Ahmed Shah, brother of Umar Shah and famous Dictok star, posted this tragic news on his social website.
+
+After the news of Umar Shah's death, many celebrities express their condolences.
+
+Fahad Mustafa, host of 'Jeeto Pakistan', posted, "Umar is unlikely to believe that we have left us."
+
+Wasim Pathamee, anchor of the 'Shaun-e-Ramadan', has spoken to the doctors and that Umar Shah has died of a heart attack.
+
+Actor Adnan Siddique has expressed concern over his death by referring to Umar Shah as "the light of joy and innocence."
+
+...
+
+[Data](articles/814d33ff.json)
+
+[Extended Data](ext_articles/814d33ff.ext.json)
 
 ---

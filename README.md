@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 19:55:47**
+As of **2025-09-17 21:20:36**
 
 ## Newspaper Stats
 
-*Scraped **76,573** Articles*
+*Scraped **76,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,135 @@ economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,440
-adaderanalk | 9,878
-tamilmirrorlk | 11,486
-virakesarilk | 12,461
-adaderanasinhalalk | 13,358
+adalk | 7,442
+adaderanalk | 9,879
+tamilmirrorlk | 11,490
+virakesarilk | 12,462
+adaderanasinhalalk | 13,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,803 (96.4%) of 76,573 articles have been extended.
+73,815 (96.4%) of 76,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### ரணிலை சந்தித்த நாமல்
+
+*2025-09-17 20:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்த-நாமல்/175-364796) · `ta`
+
+கைது, சிறைவாசம், பிணை, என கடந்த சில நாட்களாக உடல்நிலை சரியில்லாமல் இருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று (17) முதன்முறையாக பொது நிகழ்வொன்றில் கலந்து கொண்டிருந்தாராம்.
+
+கொழும்பில் நடந்த ஒரு திருமண விழாவில் கலந்து கொண்ட அவரை, நாமல் சந்தித்துள்ளார்
+
+◼️
+
+[Data](articles/7c6f2e86.json)
+
+---
+
+### “The government will start petroleum studies”
+
+*2025-09-17 19:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-ஆய்வுகளை-அரசாங்கம்-தொடங்கும்/175-364795) · `ta`
+
+President Anura Kumara Dissanayake today said the government will begin a petroleum study with the help of scientists and department experts.
+
+He said this while addressing the construction of six extra oil storage tanks at the Petroleum Storage Complex in Kolonna today.
+
+He said that in the petroleum study, scientists and experts have already volunteered.
+
+“Our people often hear stories about oil reserves only during election times. The first bottle of crude oil was shown during the 1970 election. Currently, we rely on experts and hand over them responsibility, while the government provides only the necessary facilities, ”he said.
+
+◼️
+
+[Data](articles/68cef5b9.json)
+
+[Extended Data](ext_articles/68cef5b9.ext.json)
+
+---
+
+### Pakistan departed from Hotel after delay
+
+*2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹொட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
+
+On the instructions of the Pakistan Cricket Board, the Pakistan team, which was staying in the hotel, has now departed from Hotel for the Asian Cup against the UAE.
+
+The currency cycle of the delayed competition will be held at 8.30 am and will be held at 9 am and will be held at 9 o'clock in the 20 -over match.
+
+However, it is not yet known whether the Andy Bigroft will serve as a rival mediator or not.
+
+◼️
+
+[Data](articles/106f7a73.json)
+
+[Extended Data](ext_articles/106f7a73.ext.json)
+
+---
+
+### தாமதித்த பின்னர் ஹோட்டலிலிருந்து புறப்பட்ட பாகிஸ்தான்
+
+*2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹோட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
+
+பாகிஸ்தான் கிரிக்கெட் சபையின் அறிவுறுத்தலின்படி ஹொட்டலிலேயே தங்கியிருந்த பாகிஸ்தான் அணி தற்போது ஐக்கிய அரபு அமீரகத்துக்கெதிரான ஆசியக் கிண்ணப் போட்டிக்காக ஹொட்டலிலிருந்து புறப்பட்டுள்ளது.
+
+தாமதித்த போட்டியின் நாணயச் சுழற்சியானது இலங்கை நேரப்படி 8.30 மணிக்கு நடைபெறவுள்ளதுடன், போட்டி 9 மணிக்கு ஆரம்பிக்கவுள்ளதுடன் 20 ஓவர்கள் கொண்ட போட்டியாகவே நடைபெறவுள்ளது.
+
+எவ்வாறாயினும் போட்டி மத்தியஸ்தராக அன்டி பைகுரொஃப்ட் கடமையாற்றுவாரா அல்லது இல்லையா என்பது இன்னும் தெரியவில்லை.
+
+◼️
+
+[Data](articles/7f583c30.json)
+
+---
+
+### Suspect arrested with cannabis mixed with cannabis in Jaffna
+
+*2025-09-17 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225363) · `ta`
+
+A suspect in Navanthurai - Manpitti area has been arrested on Wednesday (17). 470g of cannabis was recovered from him.
+
+The arrest was carried out by the Jaffna Police Station Drug Prevention Unit based on the confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
+
+After investigations, the police are taking steps to bring the suspects in court.
+
+◼️
+
+[Data](articles/1ca93165.json)
+
+[Extended Data](ext_articles/1ca93165.ext.json)
+
+---
+
+### The disagreement of the Indo-Pakistan in the hands of the battle of the battle is running
+
+*2025-09-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214687) · `si`
+
+The Pakistan won the match against the United Arab Emirates today (17) against the United Arab Emirates in the Asia Cup 20.
+
+This decision that Pakistan has affected the controversy in the competition against India.
+
+The Pakistani team was determined that Zimbabwe national & Pikechroft should be removed from this competition.
+
+Pakistan alleges that the Indian team has not taken disciplinary action against India against India.
+
+Pakistan had warned that he would leave the tournament unless he removed from the series.
+
+However, a decision to remove the Andy Pikerft tournament has not been taken as the Asian Cricket Council.
+
+Accordingly, the Pakistani team remained in the hotel where they stayed.
+
+Time of Sri Lanka Time. It is reported that they have not yet arrived at the stadium, but they have not arrived at the stadium.
+
+◼️
+
+[Data](articles/57ad3185.json)
+
+[Extended Data](ext_articles/57ad3185.ext.json)
+
+---
 
 ### Rumesh wave to match throwing
 
@@ -117,6 +231,22 @@ The batsman of England is John Butler (794) in the second place.
 [Data](articles/d27795c4.json)
 
 [Extended Data](ext_articles/d27795c4.ext.json)
+
+---
+
+### “Never Again”: President vows to prevent repeat of queue-related deaths
+
+*2025-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112618/never-again-president-vows-to-prevent-repeat-of-queue-related-deaths) · `en`
+
+President Anura Kumara Dissanayake today (17) emphasized that Sri Lanka will never again face a crisis like the one where people were forced to queue for fuel and gas, sometimes resulting in loss of life, the President’s Media Division.
+
+The President made this statement during the launch of construction work on six new petroleum storage tanks at the Kolonnawa Petroleum Storage Complex.
+
+◼️
+
+[Data](articles/231a3292.json)
+
+[Extended Data](ext_articles/231a3292.ext.json)
 
 ---
 
@@ -590,6 +720,32 @@ If necessary, contact the Call Center from the 1939 Telephone Number.
 
 ---
 
+### Parliament gathered from September 23 to 26
+
+*2025-09-17 16:05:11* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-සැප්තැම්බර්-23-සිට-26-දක්වා-රැස්වෙයි/11-418560) · `si`
+
+The Secretary General of Parliament Mahanadera has been decided on the Committee on Parliamentary Affairs, under the patronage of Speaker, Jagathu Wickramaratne.
+
+9:30 am - 9:30 am. 10.00 is reserved for Parliamentary Business of the Standing Order 22. 10:00 am - 11.00 AM is reserved for questions that require verbal answers. 11.00 -11.30 The time is reserved for questions under Standing Orders 27 (2).
+
+Thus, on September 23, 20, 20, 20. The National Building Research Institute has decided to hold the second reading debate from 11.30 pm to 5.00 pm.
+
+The proposal is due to debate the proposal in advance from 5:00 pm to 4 pm.
+
+On Wednesday, September 24, 2025. The Penal Code (Amendment) Bill has been allocated for the second reading debate.
+
+The time has been allocated for questions asking for questions in advanced at early 5.00 pm to 5.30 pm.
+
+Thursday, September 25, will be debated to approve regulations under the Import and Export (Control) Act from 11th to 11 am to 2 am.
+
+...
+
+[Data](articles/d5da926d.json)
+
+[Extended Data](ext_articles/d5da926d.ext.json)
+
+---
+
 ### Nine-hour water cut in Colombo and suburbs cancelled
 
 *2025-09-17 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112611/nine-hour-water-cut-in-colombo-and-suburbs-cancelled) · `en`
@@ -739,6 +895,26 @@ The phone call on Wednesday, a day before Modi turns 75, is seen as a sign of th
 [Data](articles/e5ca9022.json)
 
 [Extended Data](ext_articles/e5ca9022.ext.json)
+
+---
+
+### Interior Assistance in Excavation Bureau has been exported to exports to Thivanu and Veredawood
+
+*2025-09-17 15:43:36* · [`adalk`](https://www.ada.lk/breaking_news/තිරිවානා-හා-පළිගු-නිීති-විරෝධි-ලෙස-අපනයනයට-පතල්-කැණීම්-කාර්යාංශයේ-අභ්‍යන්තර-සහායත්-ලැබිලා/11-418559) · `si`
+
+The Select Committee of the Committee on Public Enterprises had revealed that the government had lost a large amount of money due to the loss of the Geological Survey and Mines Bureau.
+
+The committee met with the Chairperson of the Institute of Geological Survey and Mines Bureau of 2022 and 2023 at the Chairperson of Dr. Nishantha Samaraweera.
+
+December of December 2023 to the removal of sand from the Chilaw Plantation Company has been released to the removal of the sand from December 2023, but the state half 4551 to 455615 sand is paid for 1594 sand cubs.. 686,464 pointed out that the Auditor General.
+
+These issues have been revealed in terms of the report of the excavated sand volume estimated on December 19, 2024 by GSMB Technical Services (Pvt) Ltd.  The Committee pointed out that over 12 million state has lost half a state.
+
+...
+
+[Data](articles/bf439d94.json)
+
+[Extended Data](ext_articles/bf439d94.ext.json)
 
 ---
 
@@ -1873,189 +2049,5 @@ However, the Criminal Investigations Department recently informed the Court of A
 [Data](articles/5def03b2.json)
 
 [Extended Data](ext_articles/5def03b2.ext.json)
-
----
-
-### Mexico's President Claudia Shinepam made the history of being the first woman to head the Independence Day Celebration
-
-*2025-09-17 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225287) · `ta`
-
-President Claudia Shinebam has ended the practice of more than the centuries of the men's only men, inaugurating the Mexico Independence Day celebrations on Monday night.
-
-Before tens of thousands of people gathered in the main square of the Mexican capital, Shinbam addressed one of the balcony of the royal palace.
-
-"Live the dignity of the people of Mexican! Live Freedom! Live Equality! Live Democracy! Live Justice! As the president.
-
-After a while, Shenbam beat the bell of the Historical Palace to commemorate the 215th anniversary of Independence from Spain, followed by the bells of the capital of the capital.
-
-Every year, the 1810 priest recalls the armed call, known as the "Freedom Slogan" by Miguel Hidalko.. It begins the struggle that reached the peak in 1821. The traditional celebration has been maintained since the beginning of the 19th century, but until 1880, politicians introduced bells and cheers.
-
-◼️
-
-[Data](articles/bc3d68bc.json)
-
-[Extended Data](ext_articles/bc3d68bc.ext.json)
-
----
-
-### Construction work of the Kadawatha-Meerigama Highway Division
-
-*2025-09-17 11:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவத்தை-மீரிகம-நெடுஞ்சாலைப்-பிரிவின்-கட்டுமானப்-பணிகள்-ஆரம்பம்/175-364753) · `ta`
-
-The construction work of the Kadawatha-Mrigama Division of the Central Highway was officially launched on Wednesday (17) at 10:00 am under the leadership of President Anura Kumara Dissanayake.
-
-Launched under the theme "Renaissance Highway", the project indicates a significant step in expanding the Sri Lankan highway network, aimed at reducing traffic congestion and increasing the economic connection between major areas.
-
-◼️
-
-[Data](articles/dc616615.json)
-
-[Extended Data](ext_articles/dc616615.ext.json)
-
----
-
-### Nine-hour water cut in Colombo and suburbs tomorrow
-
-*2025-09-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112598/nine-hour-water-cut-in-colombo-and-suburbs-tomorrow) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour water cut from 10:00 a.m. to 7:00 p.m. on tomorrow (18) for several areas in Colombo and suburbs.
-
-The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
-
-In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
-
-◼️
-
-[Data](articles/85a113db.json)
-
-[Extended Data](ext_articles/85a113db.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-17 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240875/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 301.97/302.02 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields were somewhat steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.02/10 percent.
-
-A bond maturing on 15.10.2032 was quoted at 10.45/50 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.78/82 percent.
-
-An auction of Rs. 75,000 million Treasury bills was ongoing.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 406.2882 buying, and 417.6500 selling, and the euro was 351.6783 buying, 363.0415 selling.
-
-...
-
-[Data](articles/d5e56f93.json)
-
-[Extended Data](ext_articles/d5e56f93.ext.json)
-
----
-
-### At the Meat Shop, Nakkal satire
-
-*2025-09-17 11:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறைச்சி-கடையில்-நக்கல்-நையாண்டி/76-364752) · `ta`
-
-It is reported that the owner and employees of a meat outlets in Hatton are being treated with customers.
-
-Meat is sold here in some varieties of meat mixed with separate meat. However, it is revealed that the meat is not properly classified as the customers' needs.
-
-They sell the name of separate meat. Similarly, customers say that the meat that is sold with arise can arise at a higher rate and there is very little meat.
-
-People living in the gardens are said to be the customers of the outlet and that they are negligent and if they talk about it, they are poor.
-
-"Hatton Beef Store does not have any respect and respect for customers. There is no proper answer when asked about meat.
-
-Therefore, the public is appealing to the consumer protection authorities to take legal action.
-
-◼️
-
-[Data](articles/295d1a86.json)
-
-[Extended Data](ext_articles/295d1a86.ext.json)
-
----
-
-### There is a severe employment shortage in Sri Lanka
-
-*2025-09-17 11:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடும்-வேலைவாய்ப்பு-பற்றாக்குறை-நிலவும்/175-364751) · `ta`
-
-The World Bank warns that nearly a million young people will join the employees of Sri Lanka in the next decade, but it is estimated that only 300,000 (3 lakh) new jobs will be created at that time.
-
-World Bank Deputy Chairman Johannes Jude says that it is necessary to promote private sector growth to create employment. This was stated in the official report issued by the World Bank at the conclusion of the first official visit to Sri Lanka by the Deputy Chairman of the World Bank.
-
-The World Bank team will work together to attract private capital, strengthen the competitiveness and service supply and to expand employment opportunities across the country.
-
-...
-
-[Data](articles/ddc0f66d.json)
-
-[Extended Data](ext_articles/ddc0f66d.ext.json)
-
----
-
-### Malwathu & Asgiri Chief Prelates condemn defamatory campaigns on Diyawadana Nilame post
-
-*2025-09-17 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112597/malwathu-asgiri-chief-prelates-condemn-defamatory-campaigns-on-diyawadana-nilame-post) · `en`
-
-The chief prelates of the Malwathu and Asgiri Chapters have issued a statement expressing deep concern over defamatory remarks and propaganda circulating in relation to the Diyawadana Nilame post, stating that such actions are damaging the dignity of the Sri Dalada Maligawa (Temple of the Sacred Tooth Relic), the Ubhaya Maha Viharaya, and the Buddhist community at large.
-
-The Diyawadana Nilame, as the lay custodian of the Temple of the Sacred Tooth Relic—one of the most venerated sites for Buddhists worldwide—is regarded as the foremost lay Buddhist in the country and is held in high esteem both nationally and internationally.
-
-In terms of the Viharagam and Dewalagam Ordinance No. 19 of 1931 on Buddhist Temporalities, the Diyawadana Nilame is appointed through an election for a tenure of ten years.
-
-The current Diyawadana Nilame’s term has now expired, and arrangements are being made to appoint a successor, with several candidates, including the incumbent, contesting the position.
-
-...
-
-[Data](articles/fe0dfbd3.json)
-
-[Extended Data](ext_articles/fe0dfbd3.ext.json)
-
----
-
-### Wimal inquired about Mahinda
-
-*2025-09-17 10:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-குசலம்-விசாரித்தார்-விமல்/175-364749) · `ta`
-
-National Freedom Front leader Wimal Weerawansa met with former President Mahinda Rajapaksa on Tuesday (16) at the Tangalle Carlton residence.
-
-After meeting Mahinda Rajapaksa, Wimal Weerawansa posted on his Facebook account:
-
-“The news that the 5th Executive President Mahinda Rajapakse, who gave political leadership over the defeat of terrorism over the decades has been threatened with his life threats, has moved to the Tangalle Carlton House, not only in Sri Lanka, but in Sri Lanka.
-
-In spite of political differences, it is an act of thanking the political leadership he provided to defeat terrorism. The National Freedom Front's National Organizer Jayantha Samaraweera and other representatives of the National Freedom Front met him at the Tangalle Carlton residence and expressed our gratitude.
-
-◼️
-
-[Data](articles/60032a71.json)
-
-[Extended Data](ext_articles/60032a71.ext.json)
-
----
-
-### Scientists who made the face with a 900 -year -old woman's skull
-
-*2025-09-17 10:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/900-ஆண்டுகள்-பழமையான-பெண்ணின்-மண்டை-ஓடு-மூலம்-முகத்தை-உருவாக்கிய-விஞ்ஞானிகள்/53-364748) · `ta`
-
-Water management work began in 2022 in Kendal, England. Then there was some bone nests near the church. The officers seized them and handed them over to the Archeology Department. In their study, it was certain that the bone nests were 900 years old.
-
-In the meantime, a woman's skull was in a position to rehabilitation. So Liverpool Jar Moors University scientists were involved in finding out what the woman would have been like. The face of the woman, created by technology, is now placed for public viewing at the Kendal Church.
-
-◼️
-
-[Data](articles/723b9c72.json)
-
-[Extended Data](ext_articles/723b9c72.ext.json)
 
 ---

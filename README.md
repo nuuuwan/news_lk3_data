@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 13:40:07**
+As of **2025-09-17 13:56:58**
 
 ## Newspaper Stats
 
-*Scraped **76,497** Articles*
+*Scraped **76,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,430
+adalk | 7,431
 adaderanalk | 9,862
 tamilmirrorlk | 11,463
 virakesarilk | 12,458
-adaderanasinhalalk | 13,343
+adaderanasinhalalk | 13,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,693 (96.3%) of 76,497 articles have been extended.
+73,696 (96.3%) of 76,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### ශ්‍රී ලංකාව සාගර නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ සම්මුතියක රාජ්‍ය පාර්ශවකරුවෙක් බවට පත්වෙයි
+
+*2025-09-17 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214671) · `si`
+
+ශ්‍රී ලංකාව, ජාතික දේශසීමාවට ඔබ්බෙන් පිහිටි ප්‍රදේශවල සමුද්‍ර ජෛව විවිධත්ව සංරක්ෂණය සහ තිරසාර භාවිතය සම්බන්ධයෙන් වන සාගර නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ සම්මුතියේ රාජ්‍ය පාර්ශවකරුවෙකු බවට පත් වෙමින් ඒ පිළිබඳ අපරානුමත ලේඛනය ඊයේ (16) එක්සත් ජාතීන්ගේ සංවිධානය වෙත ඉදිරිපත් කළ බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය දැනුම් දෙයි.
+
+ජාතික දේශසීමාවට ඔබ්බෙන් පිහිටි ප්‍රදේශවල සමුද්‍ර ජෛව විවිධත්ව සංරක්ෂණය සහ තිරසාර භාවිතය පිළිබඳ ගිවිසුම අපරානුමත කිරීම, සමුද්‍රීය පාලනය සම්බන්ධයෙන් ශ්‍රී ලංකාවේ අඛණ්ඩ නායකත්වයේ තවත් සන්ධිස්ථානයක් සනිටුහන් කරන බව නිවේදනයක් නිකුත් කරමින් අමාත්‍යාංශය දැනුම් දී තිබේ.
+
+එමෙන්ම 1982 වසරේදී සාගර නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ සම්මුතිය (UNCLOS) වැඩි දියුණු කිරීමේ සඳහා ලබා දුන් නායකත්වය ඇතුළුව ශ්‍රී ලංකාව ජාත්‍යන්තර සමුද්‍රීය පාලනයේ වැදගත් කාර්යභාරයක් ඉටු කර ඇති බවද එහි සඳහන් වේ.
+
+ආරම්භයේ සිටම ජාතික දේශසීමාවට ඔබ්බෙන් පිහිටි ප්‍රදේශවල සමුද්‍ර ජෛව විවිධත්ව සංරක්ෂණය සහ තිරසාර භාවිතය පිළිබඳ ගිවිසුම් සාකච්ඡාවල ශ්‍රී ලංකාව ක්‍රියාකාරීව නිරත වී ඇති බව පැවසේ.
+
+...
+
+[Data](articles/8cd16fd4.json)
+
+---
 
 ### සම්පත් මනම්පේරී අධිකරණයට භාරවෙයි
 
@@ -44,21 +62,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### බැකෝ සමන් සහ තැඹිලි ළහිරු අධිකරණයට රැගෙන එයි
+### ඇතැම් මන්ත්‍රීවරු අපරාධකරුවන්ගේ නිවෙස්වලට ගොස් මුදල් ලබාගෙන තිබෙනවා
+
+*2025-09-17 13:05:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-මන්ත්‍රීවරු-අපරාධකරුවන්ගේ-නිවෙස්වලට-ගොස්-මුදල්-ලබාගෙන-තිබෙනවා/11-418551) · `si`
+
+ඇතැම් මන්ත්‍රීවරුන් සංවිධානාත්මක අපරාධකරුවන්ගේ නිවාස වලට ගොස් මාස් පතා මුදල් ලබාගෙන ඇති බවත් ඇතැම් අමාත්‍යවරු සංවිධානාත්මක අපරාධකරුවන් තමන්ගේ නිවාසවලට ගෙන්වාගෙන ඇති බවත් ජනපති අනුර කුමාර දිසානායක මහතා පැවැසීය.
+
+කෙසේ වෙතත් මෙම අපරාධ රාජ්‍ය අවසන් කිරීමට රජය කටයුතු කරන බවත් මේ වන විට අත්අඩංගුවට ගෙන ඇති සංවිධානාත්මක අපරාධකරුවන් විසින් මත්ද්‍රව්‍ය ජාලයෙන් සියයට 50ක් පමණ මෙහෙයවා ඇති බවත් ඔහු පැවැසීය.
+
+"ආර්ථිකයක් කඩා වැටුණට පස්සේ අහිමි දශකයක් කියා තිබෙනවා. අපිට දශකයට අඩු දශකයකින් මේක අඩු කරගන්න පුළුවන්. ඒ වෙනුවෙන් ලබන අයවැයෙන් අපි මුදල් වෙන්කරනවා. යළි කෙදිනකවත් ලංකාවේ අර්බුදයක් ඇති නොවන ආකාරයට අපි රට ගොඩනගනවා. ඒ සඳහා යටිතල පහසුකම් වර්ධනය කිරීම පමණක් ප්‍රමාණවත් නෑ. ඒක එක අංගයක් විතරයි.
+
+අපි නීතියේ විධානය ආධිපත්‍ය තහවුරු කළ යුතුයි. තෝරු මෝරු බේරෙන හාල්මැස්සෝ කොටුවන නීතියක් තිබුණා.
+
+කවුරුත් නොහිතපු තැන්වලට, නිතිය ළඟා ‍වෙන්නේ නෑ කියපු තැන්වලට නීතිය ළඟා වෙනවා. කවර බලවේගයකටත්
+
+එය නැවත හරවන්න බෑ. ස්ථාවර රාජ්‍යයක් නිර්මාණය කරන්න අපි සියලු දෙනා නීතියට යටත් කළ යුතුයි.
+
+...
+
+[Data](articles/822adc58.json)
+
+---
+
+### Baco Saman and Orange lead to Lahiru court
 
 *2025-09-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214669) · `si`
 
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන විත් සිටින ප්‍රබල පාතාල කල්ලි නායකයින් දෙදෙනෙකු බව කියන "බැකෝ සමන්" සහ "තැඹිලි ළහිරු" යන වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
-
-ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ ඔවුන් දෙදෙනාව රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පසුගිය දා දැනුම් දී තිබුණි.
-
-ගණේමුල්ල සංජීව ඝාතනය ඇතුළු මිනිස් ඝාතන රැසකට සහ මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ සංවිධානාත්මක අපරාධ කල්ලි නායකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05 දෙනෙකු පසුගිය දා ඉන්දුනීසියාවේදී අත්අඩංගුවට පත්වුණි.
-
-ශ්‍රී ලංකා පොලීසියේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ විශේෂ මෙහෙයුමකදී මොවුන්ව අත්අඩංගුවට ගෙන තිබුණි.
+Two major underworld gangs, who was arrested in Indonesia, was produced before the Walasmulla Magistrate's Court.
 
 ◼️
 
 [Data](articles/044d2be5.json)
+
+[Extended Data](ext_articles/044d2be5.ext.json)
 
 ---
 
@@ -880,17 +916,21 @@ The National Water Supply and Drainage Board stated that the water cut will be i
 
 ---
 
-### දුටුගැමුණු කුමරු දිය නෑ රණමුනේ පිහිල්ල
+### Prince Dutugemunu did not water
 
 *2025-09-17 09:39:13* · [`adalk`](https://www.ada.lk/opinion/දුටුගැමුණු-කුමරු-දිය-නෑ-රණමුනේ-පිහිල්ල/2-418549) · `si`
 
-කොත්මලේ  යනු මෙරට ඉතිහාසයේ ගැඹුරින් කාවැදුණු කිසිදාක නොමැකෙන  සිහිවටන රැසකින් සමන්විත වූ අතිශය මනරම් වූ ඵෙතිහාසික පුරවරයකි. ඉපැරණි සිදුවීම් රැසකින් පොහොසත් වූ කොත්මලේ පුරවරය මනරම්  කඳු රැසකින් වට වූ ඉතාමත් ආරක්ෂාකාරී මෙන්ම සුන්දර  භූමි භාගයකින් සැදුම්ලත් අව්‍යාජ ගැමියන් ජීවත් වන ඵෙතිහාසික ගම්මාන රැසකින් සමන්විත ප්‍රදේශයකි.
+Kotmale is a very contemporary conqueror that immigrated in the history of Sri Lanka's history. The city in Kotmale, which has been rich in ancient events, is an area of ​​many historical villages living in a large number of mountains.
 
-එවන් අසිරිමත් පුරවරයක පිහිටි රණමුනේ පිහිල්ල යනු කොත්මලේ, මාවෙල නගරය සමීපයේ පිහිටි මෙරට වටිනාකමකින් යුත් තවත් එක් සුවිශේෂිත  ස්ථානයකි. ශ්‍රී ලංකාවේ ඉතිහාසය සහ සංස්කෘතික උරුමයේ තවත් එක් සුවිශේෂිත කඩ ඉමක් ලෙස රණමුනේ පිහිල්ල හැදින්විය හැක. මෙම ඉපැරණි පිහිල්ල දුටුගැමුණු රජුගේ පාලන සමය වන එනම් ක්‍රිස්තු පූර්ව 137ත්- 161ත්  අතර කාල සීමාවටත් පෙර සිට පැවත එන ඵෙතිහාසික ජල පිහිල්ලක් ලෙස හැදින්වේ.
+Ranamuna Knife is one of the most unique places in Sri Lanka close to Kothmale and Mawatha. Maramamane police can be known as one of the most unique string of Sri Lanka's history and cultural heritage. The ancient strike was known as the reign of King Dutugemunu, which was between 137 and 161 BCE.
+
+Managamon knife with a natural source of the mannels of the year is a wonderful knife flowing into the most clean water with a cold. The Mawawela Kazi says that the water will not dry up. The villagers are using the villages in the Mawatha for Daughter and laundry. Two water knife have been created for females for the girls to bath it. The knife has been built with large black stone carts with natural water source.
 
 ...
 
 [Data](articles/429578d3.json)
+
+[Extended Data](ext_articles/429578d3.ext.json)
 
 ---
 
@@ -2005,43 +2045,5 @@ Meanwhile, as the 57 -F -1 resolution of the Sri Lankan council has already been
 [Data](articles/3db72529.json)
 
 [Extended Data](ext_articles/3db72529.ext.json)
-
----
-
-### Nepal, Indonesia, Bangladesh, Sri Lankan people's uprisings are alert - Manohanesan
-
-*2025-09-17 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225269) · `ta`
-
-People's uprisings in Nepal, Indonesia, Bangladesh and Sri Lanka are not unusual. On the contrary, Manohanesan, the leader of the Tamil Progressive Alliance and Member of Parliament, pointed out that they are a warnings to show the effect of inequality.
-
-Following the 'Arakalaya' people's uprising in Sri Lanka, Manohanesan, in his official X site, cited the article written to an Indian media in India, Milinda Moragoda, a former Sri Lankan high -ranking Indian media in Bangladesh and Indonesia and recently formed in Nepal.
-
-“People's upheavals in Nepal, Indonesia, Bangladesh and Sri Lanka are not unusual. Instead, they are warnings, ”said Manohanesan.
-
-He also mentioned that the upheavals show what would happen when the inequality prevails, the chances of being lost and the hope of losing their confidence, but also pointed out that they are the point of the solution.
-
-◼️
-
-[Data](articles/88eaa8eb.json)
-
-[Extended Data](ext_articles/88eaa8eb.ext.json)
-
----
-
-### Bangladesh beat Afghanistan by 8 runs
-
-*2025-09-17 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225268) · `ta`
-
-Bangladesh won the Asian Cup match in Abu Dhabi by 8 runs by 8 runs.
-
-Bangladesh scored 154 runs for the loss of 5 wickets in 20 overs.
-
-In response, Afghanistan lost only 146 runs, unable to cope with the Bangladesh team's fast bowlers.
-
-◼️
-
-[Data](articles/88037305.json)
-
-[Extended Data](ext_articles/88037305.ext.json)
 
 ---

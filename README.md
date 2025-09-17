@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 20:08:19**
+As of **2025-09-17 20:39:08**
 
 ## Newspaper Stats
 
-*Scraped **76,577** Articles*
+*Scraped **76,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,103 @@ economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,441
+adalk | 7,442
 adaderanalk | 9,879
-tamilmirrorlk | 11,487
+tamilmirrorlk | 11,488
 virakesarilk | 12,462
-adaderanasinhalalk | 13,358
+adaderanasinhalalk | 13,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,803 (96.4%) of 76,577 articles have been extended.
+73,812 (96.4%) of 76,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### தாமதித்த பின்னர் ஹொட்டலிலிருந்து புறப்பட்ட பாகிஸ்தான்
+### “The government will start petroleum studies”
+
+*2025-09-17 19:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-ஆய்வுகளை-அரசாங்கம்-தொடங்கும்/175-364795) · `ta`
+
+President Anura Kumara Dissanayake today said the government will begin a petroleum study with the help of scientists and department experts.
+
+He said this while addressing the construction of six extra oil storage tanks at the Petroleum Storage Complex in Kolonna today.
+
+He said that in the petroleum study, scientists and experts have already volunteered.
+
+“Our people often hear stories about oil reserves only during election times. The first bottle of crude oil was shown during the 1970 election. Currently, we rely on experts and hand over them the responsibility, while the government provides only the necessary facilities, ”he said.
+
+◼️
+
+[Data](articles/68cef5b9.json)
+
+[Extended Data](ext_articles/68cef5b9.ext.json)
+
+---
+
+### Pakistan departed from Hotel after delay
 
 *2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹொட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
 
-பாகிஸ்தான் கிரிக்கெட் சபையின் அறிவுறுத்தலின்படி ஹொட்டலிலேயே தங்கியிருந்த பாகிஸ்தான் அணி தற்போது ஐக்கிய அரபு அமீரகத்துக்கெதிரான ஆசியக் கிண்ணப் போட்டிக்காக ஹொட்டலிலிருந்து புறப்பட்டுள்ளது.
+On the instructions of the Pakistan Cricket Board, the Pakistan team, which was staying in the hotel, has now left the hotel for the Asian Cup against the UAE.
 
-தாமதித்த போட்டியின் நாணயச் சுழற்சியானது இலங்கை நேரப்படி 8.30 மணிக்கு நடைபெறவுள்ளதுடன், போட்டி 9 மணிக்கு ஆரம்பிக்கவுள்ளதுடன் 20 ஓவர்கள் கொண்ட போட்டியாகவே நடைபெறவுள்ளது.
+The currency cycle of the delayed competition will be held at 8.30 am and will be held at 9 am and will be held at 9 o'clock in the 20 -over match.
 
-எவ்வாறாயினும் போட்டி மத்தியஸ்தராக அன்டி பைகுரொஃப்ட் கடமையாற்றுவாரா அல்லது இல்லையா என்பது இன்னும் தெரியவில்லை.
+However, it is not yet known whether the Andy Bigroft will serve as a rival mediator or not.
 
 ◼️
 
 [Data](articles/106f7a73.json)
 
+[Extended Data](ext_articles/106f7a73.ext.json)
+
 ---
 
-### யாழில் கஞ்சா கலந்த மாவாவுடன் சந்தேகநபர் கைது!
+### Suspect arrested with cannabis mixed with cannabis in Jaffna
 
 *2025-09-17 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225363) · `ta`
 
-நாவாந்துறை - மண்பிட்டி பகுதியில் நீண்ட காலமாக கஞ்சா கலந்த மாவா விற்பனையில் ஈடுபட்ட சந்தேகநபர் ஒருவர் புதன்கிழமை (17) கைது செய்யப்பட்டுள்ளார். இதன்போது அவரிடமிருந்து 470 கிராம் கஞ்சா கலந்த மாவா மீட்கப்பட்டது.
+A suspect in Navanthurai - Manpitti area has been arrested on Wednesday (17). 470g of cannabis was recovered from him.
 
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் யாழ்ப்பாணம் பொலிஸ் நிலைய போதை தடுப்பு பிரிவினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளது.
+The arrest has been carried out by the Jaffna Police Station Drug Prevention Unit based on confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
 
-விசாரணைகளின் பின்னர், குறித்த சந்தேக நபர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+After investigations, the police are taking steps to bring the suspects in court.
 
 ◼️
 
 [Data](articles/1ca93165.json)
+
+[Extended Data](ext_articles/1ca93165.ext.json)
+
+---
+
+### The disagreement of the Indo-Pakistan in the hands of the battle of the battle is running
+
+*2025-09-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214687) · `si`
+
+The Pakistan won the match against the United Arab Emirates today (17) against the United Arab Emirates in the Asia Cup 20.
+
+This decision that Pakistan has affected the controversy in the competition against India.
+
+The Pakistani team was determined that Zimbabwe national & Pikechroft should be removed from this competition.
+
+Pakistan alleges that the Indian team has not taken disciplinary action against India against India.
+
+Pakistan had warned that he would leave the tournament unless he removed from the series.
+
+However, a decision to remove the Andy Pikerft tournament has not been taken as the Asian Cricket Council.
+
+Accordingly, the Pakistani team remained in the hotel where they stayed.
+
+Time of Sri Lanka Time. It is reported that they have not yet arrived at the stadium, but they have not arrived at the stadium.
+
+◼️
+
+[Data](articles/57ad3185.json)
+
+[Extended Data](ext_articles/57ad3185.ext.json)
 
 ---
 
@@ -163,6 +215,8 @@ The President made this statement during the launch of construction work on six 
 ◼️
 
 [Data](articles/231a3292.json)
+
+[Extended Data](ext_articles/231a3292.ext.json)
 
 ---
 
@@ -636,6 +690,24 @@ If necessary, contact the Call Center from the 1939 Telephone Number.
 
 ---
 
+### පාර්ලිමේන්තුව සැප්තැම්බර් 23 සිට 26 දක්වා රැස්වෙයි
+
+*2025-09-17 16:05:11* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-සැප්තැම්බර්-23-සිට-26-දක්වා-රැස්වෙයි/11-418560) · `si`
+
+2025 සැප්තැම්බර් දෙවැනි පාර්ලිමේන්තු සතියට අදාළ පාර්ලිමේන්තු කටයුතු පසුගියදා (11) කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂාණි රෝහණදීර මහත්මිය පැවසුවාය.මේ අනුව පාර්ලිමේන්තුව සැප්තැම්බර් 23 සිට 26 දක්වා රැස්වීමට නියමිතය.
+
+පාර්ලිමේන්තුව රැස්වන මෙම සෑම දිනකම පෙ.ව 9.30 - පෙ.ව. 10.00 කාලය ස්ථාවර නියෝග 22හි 1 සිට 6 දක්වා සඳහන් පාර්ලිමේන්තු කටයුතු සඳහා වෙන්කර ඇත. පෙ.ව 10.00 – 11.00 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇති අතර පෙ.ව. 11.00 -11.30 කාලය ස්ථාවර නියෝග 27(2) යටතේ ප්‍රශ්න සඳහා වෙන් කර තිබේ.
+
+මේ අනුව 2025 සැප්තැම්බර් 23 අඟහරුවාදා පෙ. ව 11.30 සිට ප.ව 5.00 දක්වා ජාතික ‍ගොඩනැඟිලි පර්යේෂණ ආයතනය පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය පැවැත්වීමට තීරණය වී ඇත.
+
+ඉන්පසු ප.ව 5.00 සිට ප.ව 5.30 දක්වා විපක්ෂය විසින් ගෙනෙනු ලබන සභාව කල්තබන අවස්ථාවේ යෝජනාව විවාදයට ගැනීමට නියමිතව තිබේ.
+
+...
+
+[Data](articles/d5da926d.json)
+
+---
+
 ### Nine-hour water cut in Colombo and suburbs cancelled
 
 *2025-09-17 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112611/nine-hour-water-cut-in-colombo-and-suburbs-cancelled) · `en`
@@ -788,19 +860,23 @@ The phone call on Wednesday, a day before Modi turns 75, is seen as a sign of th
 
 ---
 
-### තිරිවානා හා පළිගු නිීති විරෝධි ලෙස අපනයනයට පතල් කැණීම් කාර්යාංශයේ අභ්‍යන්තර සහායත් ලැබිලා
+### Interior Assistance in Excavation Bureau has been exported to exports to Thivanu and Veredawood
 
 *2025-09-17 15:43:36* · [`adalk`](https://www.ada.lk/breaking_news/තිරිවානා-හා-පළිගු-නිීති-විරෝධි-ලෙස-අපනයනයට-පතල්-කැණීම්-කාර්යාංශයේ-අභ්‍යන්තර-සහායත්-ලැබිලා/11-418559) · `si`
 
-භූ විද්‍යා සමීක්ෂණ හා පතල් කැණීම් කාර්යාංශය රාජ්‍ය භාගය නිසි පරිදි අයකර නොගැනීම නිසා විශාල මුදලක්  රජයට අහිමි වී ඇති බව පසුගියදා පැවති පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+The Select Committee of the Committee on Public Enterprises had revealed that the government had lost a large amount of money due to the loss of the Geological Survey and Mines Bureau.
 
-ඒ එම කාරක සභාව භූ විද්‍යා සමීක්ෂණ හා පතල් කැණීම් කාර්යාංශයේ 2022 හා 2023 වර්ෂවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතීත්වයෙන් 2025.09.12 දින පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+The committee met with the Chairperson of the Institute of Geological Survey and Mines Bureau of 2022 and 2023 at the Chairperson of Dr. Nishantha Samaraweera.
 
-හලාවත වැවිලි සමාගමට අයත් පුත්තලම දිස්ත්‍රික්කයේ පිහිටි මුක්කුතොඩුවාව වතුයායේ වැලි ඉවත් කිරීම සඳහා පෞද්ගලික සමාගමක් වෙත බදු දී 2023 වසරේ දෙසැම්බර් සිට 2024 සැප්තැම්බර් දක්වා කාර්යාංශය විසින් කැණීම් බලපත්‍ර නිකුත් කර ඇති බවත් කොන්ත්‍රාත්කරු විසින් වැලි කියුබ් 36531 සිට 45561ක පරාසයක වැලි තොගයක් ඉවත් කළද රාජ්‍ය භාගය ගෙවා ඇත්තේ වැලි කියුබ් 1594ක් සඳහා රු. 686,464 පමණක් බවත් මෙහිදී විගණකාධිපතිවරයා විසින් පෙන්වා දුන්නේය.
+December of December 2023 to the removal of sand from the Chilaw Plantation Company has been released to the removal of the sand from December 2023, but the state half 4551 to 455615 sand is paid for 1594 sand cubs.. 686,464 pointed out that the Auditor General.
+
+These issues have been revealed in terms of the report of the excavated sand volume estimated on December 19, 2024 by GSMB Technical Services (Pvt) Ltd.  The Committee pointed out that over 12 million state has lost half a state.
 
 ...
 
 [Data](articles/bf439d94.json)
+
+[Extended Data](ext_articles/bf439d94.ext.json)
 
 ---
 
@@ -1973,77 +2049,5 @@ Launched under the theme "Renaissance Highway", the project indicates a signific
 [Data](articles/dc616615.json)
 
 [Extended Data](ext_articles/dc616615.ext.json)
-
----
-
-### Nine-hour water cut in Colombo and suburbs tomorrow
-
-*2025-09-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112598/nine-hour-water-cut-in-colombo-and-suburbs-tomorrow) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour water cut from 10:00 a.m. to 7:00 p.m. on tomorrow (18) for several areas in Colombo and suburbs.
-
-The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
-
-In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
-
-◼️
-
-[Data](articles/85a113db.json)
-
-[Extended Data](ext_articles/85a113db.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-17 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240875/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 301.97/302.02 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields were somewhat steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.02/10 percent.
-
-A bond maturing on 15.10.2032 was quoted at 10.45/50 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.78/82 percent.
-
-An auction of Rs. 75,000 million Treasury bills was ongoing.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 406.2882 buying, and 417.6500 selling, and the euro was 351.6783 buying, 363.0415 selling.
-
-...
-
-[Data](articles/d5e56f93.json)
-
-[Extended Data](ext_articles/d5e56f93.ext.json)
-
----
-
-### At the Meat Shop, Nakkal satire
-
-*2025-09-17 11:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறைச்சி-கடையில்-நக்கல்-நையாண்டி/76-364752) · `ta`
-
-It is reported that the owner and employees of a meat outlets in Hatton are being treated with customers.
-
-Meat is sold here in some varieties of meat mixed with separate meat. However, it is revealed that the meat is not properly classified as the customers' needs.
-
-They sell the name of separate meat. Similarly, customers say that the meat that is sold with arise can arise at a higher rate and there is very little meat.
-
-People living in the gardens are said to be the customers of the outlet and that they are negligent and if they talk about it, they are poor.
-
-"Hatton Beef Store does not have any respect and respect for customers. There is no proper answer when asked about meat.
-
-Therefore, the public is appealing to the consumer protection authorities to take legal action.
-
-◼️
-
-[Data](articles/295d1a86.json)
-
-[Extended Data](ext_articles/295d1a86.ext.json)
 
 ---

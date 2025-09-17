@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 22:22:13**
+As of **2025-09-17 21:56:45**
 
 ## Newspaper Stats
 
-*Scraped **76,587** Articles*
+*Scraped **76,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,17 @@ adalk | 7,443
 adaderanalk | 9,879
 tamilmirrorlk | 11,491
 virakesarilk | 12,462
-adaderanasinhalalk | 13,362
+adaderanasinhalalk | 13,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,827 (96.4%) of 76,587 articles have been extended.
+73,827 (96.4%) of 76,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### හෙරොයින් සමග චීවරධාරියෙකු අත්අඩංගුවට
-
-*2025-09-17 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214690) · `si`
-
-හෙරොයින් ළඟ තබාගෙන සිටි චීවරධාරියෙකු ඇතුළු පුද්ගලයින් තිදෙනෙකු මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශය විසින් ඊයේ (16) රාත්‍රියේ අත්අඩංගුවට ගෙන ඇත.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අලව්ව පොලිස් වසමේ විහාරස්ථානක වැඩ විසූ වයස අවුරුදු 38ක චීවරධාරියෙකු බව පොලීසිය පැවසීය.
-
-පොලීසිය විසින් එම චීවරධාරියා අත්අඩංගුවට ගන්න විට හෙරොයින් ග්‍රෑම් 10යි මිලිග්‍රැම් 300ක් සන්තකයේ තිබී ඇත.
-
-එමෙන්ම අත්අඩංගුවට ගත් අනෙක් සැකකරුවන් දෙදෙනා වයස අවුරුදු 29 හා 31 වියෙහි පසුවන්නන් වන අතර, ඔවුන් සතුවද හෙරොයින් ග්‍රෑම් 17ක් තිබී ඇත.
-
-අත්අංගුවට ගත් තිදෙනා අද (17) පොල්හවෙල අධිකරණය වෙත ඉදිරිපත්කළ අතර, එහිදී දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට පොලීසියට අවසර දී තිබේ.
-
-මෙම සැකකරුවන් මිනුවන්ගොඩ නේවි දිනේෂ් නමැත්තාගේ මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ බවට තොරතුරු වාර්තා වේ.
-
-◼️
-
-[Data](articles/6350b4e6.json)
-
----
-
-### පාසල් දිනවලදී ඛනිජ ප්‍රවාහනය සම්බන්ධයෙන් පැනවූ කොන්දේසි වෙනස්වෙයි
-
-*2025-09-17 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214689) · `si`
-
-පාසල් පැවැත්වෙන දිනයන් හිදී පෙ.ව. 06.30 සිට පෙ.ව. 07.45 දක්වා සහ පෙ.ව. 11.30 සිට ප.ව. 02.30 දක්වා කාලය තුළ ඛනිජ ප්‍රවාහන කටයුතු සිදු කිරීම අත්හිටුවීම සම්බන්ධයෙන් පනවන ලද නව කොන්දේසිය සංශෝධනය කර තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් දැනුම් දී ඇත්තේ පනවන ලද නව කොන්දේසිය අනුව ඉදිකිරීම් කර්මාන්තයට අදාළව දහවල් කාලයේ දී ඛනිජ ප්‍රවාහනයට ඇතිවන දැඩි බලපෑම මත ඉදිකිරීම් ක්ෂේත්‍රයේ සිටින කර්මාන්තකරුවන් සිදු කරනු ලබන බලවත් ඉල්ලීම සැළකිල්ලට ගෙන, ඔවුන්ට ඇතිවන අපහසුතාවයන් සළකා බලා මෙම සංශෝධනය කිරීමට තීරණය කොට ඇති බවය.
-
-ඒ අනුව, ඉහත කාලසීමාවන් තුළ දී පාසල් අසළ හා සිසුන් පාර මාරුවන ස්ථාන අසළ ඛනිජ ප්‍රවාහන කටයුතු සිදු කිරීම, වාහන වල වේගය සීමාවීමකින් යුතුව පොලිස් නිලධාරීන්ගේ දැඩි අධීක්ෂණය යටතේ සිදු කළ යුතු වේ.
-
-එබැවින්, අද (17) දින සිට පාසල් පැවැත්වෙන දිනයන් හි දී පෙ.ව. 06.30 සිට පෙ.ව. 07.45 දක්වා සහ පෙ.ව. 11.30 සිට ප.ව. 02.30 දක්වා කාලසීමාවන් තුළ ඛනිජ ප්‍රවාහනයේ යෙදීම නව කොන්දේසි සංශෝධනය අනුව සිදු කළ යුතු බව දැනුම් දී ඇත.
-
-...
-
-[Data](articles/8354d248.json)
-
----
 
 ### Pakistan Tournament Mediator
 
@@ -101,28 +61,6 @@ Namal met him at a wedding ceremony in Colombo
 [Data](articles/7c6f2e86.json)
 
 [Extended Data](ext_articles/7c6f2e86.ext.json)
-
----
-
-### එල්.ටී.ටී.ඊ හිතවාදීන්ගේ ජිනීවා උද්ඝෝෂණට යුරෝපයේ ශ්‍රී ලාංකිකයන්ගේ විරෝධය
-
-*2025-09-17 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214688) · `si`
-
-එල්.ටී.ටී.ඊ හිතවාදීන් පිරිසක් ස්විට්සර්ලන්තයේ ජිනීවා මානව හිමිකම් කොමිෂන් කාර්යාලය ඉදිරිපිට දී අද (17) පැවැත් වූ දැවැන්ත උද්ඝෝෂණයට විරෝධය පලකිරීමට යුරෝපයේ වෙසෙන ශ්‍රී ලාංකිකයන්ගේ එකමුතුවක් වන 'අරියකම්මට්ඨාන' සංවිධානය පියවර ගෙන තිබේ.
-
-ඒ ඔවුන් එක්සත් ජාතීන්ගේ සංවිධානයේ මහ ලේකම්වරයා ඇතුළු නියෝජිත පිරිසක් හමුව සිය විරෝධය පළකර ඇත.
-
-මෙහිදී ශ්‍රී ලංකාවේ සීහෙල මුල්වාසි උරුමය නැවත ස්ථාපිත කිරීමට එක්සත් ජාතීන්ගේ සත්‍ය සෙවීමේ කොමිසමක් පත්කරන ලෙස එම සංවිධානයේ සභාපති පූජ්‍ය කේ. අරියමග්ග හිමියන් ඉල්ලීමක් කර තිබේ.
-
-ඒ අනුව සත්‍ය සෙවීමේ කොමිසමක් පත්කිරීම පිළිබඳ යෝජනාව පිළිගත් එක්සත් ජාතීන්ගේ සංවිධානයේ මහ ලේකම්වරයා, ඒ සඳහා අවශ්‍ය කටයුතු සිදුකිරීමට එහි මානව හිමිකම් කොමිසම වෙත දන්වා ඇත.
-
-එමෙන්ම කේ. අරියමග්ග හිමියන් මේ පිළිබඳව ඔක්තෝබර් 13වන සිකුරාදා එක්සත් ජාතීන්ගේ මානව හිම්කම් සැසිය අමතා වැඩිදුර කරුණු දැක්වීමට නියමිතය.
-
-පසුගිය යුධ සමය තුළ මානව හිමිකම් කඩවීම් සිදු වූ බවට චෝදනා කරමින් එල්.ටී.ටී.ඊ හිතවාදීන් පිරිසක් අදාළ දැවැන්ත උද්ඝෝෂණක් සංවිධානය කර තිබුණි.
-
-◼️
-
-[Data](articles/d605bb66.json)
 
 ---
 
@@ -2045,5 +1983,73 @@ Currently its rehabilitation work has been started. There is only one service ce
 [Data](articles/51080904.json)
 
 [Extended Data](ext_articles/51080904.ext.json)
+
+---
+
+### The father of the neighbor of the boy arrested the boy
+
+*2025-09-17 11:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-வன்புணர்ந்த-பக்கத்து-வீட்டு-தந்தை-கைது/76-364755) · `ta`
+
+A foreign housekeeper has been arrested on Tuesday (16) for allegedly sexually abusing a 11 -year -old boy from Kitulkottai area of ​​the Moneragala and Tanamalwila police division.
+
+The boy has informed his teacher about the incident and the teacher has been informed by the police station.
+
+According to the police, the suspect has been sexually abused by the suspect on several occasions, keeping the boy's house and keeping the boy's house.
+
+Steps have been taken to produce the suspect in the Wellawaya Court and the victim has been admitted to the Thanamalwila Divisional Hospital for medical examination.
+
+◼️
+
+[Data](articles/e91f47f2.json)
+
+[Extended Data](ext_articles/e91f47f2.ext.json)
+
+---
+
+### US -Sri Lanka Partnership Starting English Language Laboratory for Navy
+
+*2025-09-17 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225291) · `ta`
+
+The US Embassy in Sri Lanka officially opened a sophisticated English language laboratory at the Navy and Maritime College in Trincomalee on Monday (September 15).
+
+Colonel Mathiv Hows, Senior Security Officer of the US Embassy in Sri Lanka, Director General of the Sri Lanka Navy, Rear Admiral Wijewardena, and Commanding Commander of the Sri Lanka Navy and Maritime College, Komador Dinesh Bandara inaugurated the building.
+
+The Language Laboratory, which includes high quality multi -ethnic technology and the recent training software of the US Security Language Institute, provides Sri Lankan naval authorities, the most common language used during the international naval activities and training, which is used in English.
+
+Speaking at a ceremony held in Trincomalee on Monday, Leftinan Colonel Methiv Hows commented on the beginning of the English Language Laboratory:
+
+...
+
+[Data](articles/04dcde8c.json)
+
+[Extended Data](ext_articles/04dcde8c.ext.json)
+
+---
+
+### Pakistani child star Umar Shah's death by a heart attack: Fans shocked
+
+*2025-09-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225292) · `ta`
+
+Pakistan's famous child star Umar Shah died of a heart attack at the age of 15. His sudden death has saddened fans and celebrities.
+
+Umar Shah, who has performed in several shows, including the famous 'Jeeto Pakistan' television series, died of a heart attack at his home.
+
+It is very rare to have a heart attack for young people under the age of 25. The death of Umar Shah at an early age has shocked fans in Pakistan.
+
+Ahmed Shah, brother of Umar Shah and famous Dictok star, posted this tragic news on his social website.
+
+After the news of Umar Shah's death, many celebrities express their condolences.
+
+Fahad Mustafa, host of 'Jeeto Pakistan', posted, "Umar is unlikely to believe that we have left us."
+
+Wasim Pathamee, anchor of the 'Shaun-e-Ramadan', has spoken to the doctors and that Umar Shah has died of a heart attack.
+
+Actor Adnan Siddique has expressed concern over his death by referring to Umar Shah as "the light of joy and innocence."
+
+...
+
+[Data](articles/814d33ff.json)
+
+[Extended Data](ext_articles/814d33ff.ext.json)
 
 ---

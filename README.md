@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 04:05:59**
+As of **2025-09-18 03:54:15**
 
 ## Newspaper Stats
 
-*Scraped **76,610** Articles*
+*Scraped **76,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
-dailyftlk | 5,442
+dailyftlk | 5,439
 adalk | 7,444
 adaderanalk | 9,886
 tamilmirrorlk | 11,493
@@ -26,63 +26,11 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,960 (96.5%) of 76,610 articles have been extended.
+73,953 (96.5%) of 76,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### Sri Lanka ratifies UN high seas biodiversity pact
-
-*2025-09-18 03:49:53* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-ratifies-UN-high-seas-biodiversity-pact/56-781846) · `en`
-
-Has opportunity to benefit from marine resources beyond national jurisdiction
-
-The Foreign Affairs Ministry said yesterday that Sri Lanka deposited its Instrument of Ratification for the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) with the United Nations on Tuesday formally becoming a State Party to the convention. The ratification of the BBNJ Agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry said.
-
-Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
-
-Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
-
-...
-
-[Data](articles/43f18131.json)
-
----
-
-### Sri Lanka with EU and UNICEF launch model service for child victims of violence
-
-*2025-09-18 03:48:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-with-EU-and-UNICEF-launch-model-service-for-child-victims-of-violence/56-781845) · `en`
-
-Milestone initiative marks a turning point in protecting child victims who come in contact with the law and protection systems
-
-The Justice and National Integration Ministry and the Women and Child Affairs Ministry, with support from the EU through the United Nations Children's Fund (UNICEF), yesterday launched a groundbreaking initiative to support children who have experienced violence.
-
-The new model service will ensure fast, child-sensitive support to child victims of violence; from the point when the case is reported to police, helplines or others, until the child is linked with sustained care and protection mechanisms.
-
-...
-
-[Data](articles/45b61f7e.json)
-
----
-
-### SL deepens trade ties in Sichuan
-
-*2025-09-18 03:47:26* · [`dailyftlk`](https://www.ft.lk/news/SL-deepens-trade-ties-in-Sichuan/56-781844) · `en`
-
-Deputy Minister’s visit opens new doors for trade and investment
-
-Sri Lanka is stepping up efforts to carve a stronger foothold in the Chinese market, with Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe completing a four-day official visit to Sichuan Province focused on boosting trade, investment, and forging foreign direct institutional partnerships.
-
-He was invited by the China Council for the Promotion of International Trade (CCPIT).
-
-During his visit, the Deputy Minister addressed the South Asia & Southeast Asia Business Development Cooperation Conference and delivered a keynote presentation at the Sri Lanka Economic and Trade Matchmaking Conference – a high-level State-business dialogue. His remarks highlighted Sri Lanka’s potential as an investment destination and emphasised opportunities for strengthening trade partnerships.
-
-...
-
-[Data](articles/c9325f54.json)
-
----
 
 ### Focus Brands’ Ray Evans joins Hela Apparel Holdings Board
 
@@ -102,8 +50,6 @@ Leveraging his entrepreneurial capabilities, negotiation skills and ability to i
 
 [Data](articles/669d81b2.json)
 
-[Extended Data](ext_articles/669d81b2.ext.json)
-
 ---
 
 ### Phoenix products feature at Saudi INDEX Expo – 2025 in Riyadh
@@ -117,8 +63,6 @@ INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out
 ...
 
 [Data](articles/f79dd8f2.json)
-
-[Extended Data](ext_articles/f79dd8f2.ext.json)
 
 ---
 
@@ -136,8 +80,6 @@ Lovol construction equipment including Wheel Loaders, Excavators (Crawler and Wh
 
 [Data](articles/7320b746.json)
 
-[Extended Data](ext_articles/7320b746.ext.json)
-
 ---
 
 ### NTB WNPS lecture today to put spotlight on freshwater fishes
@@ -154,8 +96,6 @@ The lecture which is open to the public will be at 6.00 p.m. at the Jasmine Hall
 
 [Data](articles/46178b36.json)
 
-[Extended Data](ext_articles/46178b36.ext.json)
-
 ---
 
 ### Crafting legacy through collaboration and synergy
@@ -171,8 +111,6 @@ This time, however, the story is different. Instead of claiming majority control
 ...
 
 [Data](articles/e841060b.json)
-
-[Extended Data](ext_articles/e841060b.ext.json)
 
 ---
 
@@ -2049,5 +1987,61 @@ He further stated that he aims to end the economic crisis through the 2026 budge
 [Data](articles/a0484797.json)
 
 [Extended Data](ext_articles/a0484797.ext.json)
+
+---
+
+### Cancel from debt unless hemp is cultivated
+
+*2025-09-17 13:38:17* · [`adalk`](https://www.ada.lk/breaking_news/කංසා-වගා-කළොත්-ණයෙන්-ගොඩ-යන්න-පුළුවන්/11-418553) · `si`
+
+I believe that if you cultivate the flower cadres, such as heavily farming in Sri Lanka and farming cabbage is farming, and that if the flower permission can build an economically overloading.. Someone who likes someone uses these. It is currently using cigarettes now, now, we can't stop it.
+
+He was speaking at a media briefing at the National Namal Uyana premises.
+
+"In fact, cannabis in this country and marketing the country's country and get a large amount of money and get a large amount of money. I called about this about this too. That is the main Minister of Deputy Minister of Diyan Gamage mainly and made various things in parliament and in Parliament.
+
+I also spoke at the time. This cannabis is an economic generation to this country and a plant in the well-soap. The land of our country is good. Suddha is banking from this country, don't let the country banned this as an illegal act. Suddh knew that the marijuana was the best, powerful medicine in the world.
+
+...
+
+[Data](articles/39d6703e.json)
+
+[Extended Data](ext_articles/39d6703e.ext.json)
+
+---
+
+### Sri Lanka becomes a state partner in Ocean Law
+
+*2025-09-17 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214671) · `si`
+
+The Ministry of External Affairs and the United Nations informed the United Nations yesterday (16), the United Nations Forecasting of the United Nations Forecasting of the United Nations Conference on Marine Law on the United Nations Convention on Surgery Law on the United Nations Party on Sustainable Liability.
+
+The Ministry has informed the Ministry of Reconciliation and sustainability of marine biodiversity arrangements on the area.
+
+It also said that Sri Lanka played an important role in international control, including the leadership given to the United Nations Convention (Unclos) in 1982.
+
+Sri Lanka is actively active in agreement agreements on areas of co-ordinating and sustainable use in areas from the beginning.
+
+As a developing country, Sri Lanka is proud to be a partner in this historic passage of the internationally identifying maritime resources for the benefit of mitigation for the benefit of humanity.
+
+...
+
+[Data](articles/8cd16fd4.json)
+
+[Extended Data](ext_articles/8cd16fd4.ext.json)
+
+---
+
+### සම්පත් මනම්පේරි අධිකර‍ණයට භාර වෙයි
+
+*2025-09-17 13:28:39* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකර‍ණයට-භාර-වෙයි/11-418552) · `si`
+
+Sampath Manamperi has surrendered to the court to be arrested in connection with the discovery of ice shelter. He was surrendered to the Walasmulla Magistrate's Court.
+
+◼️
+
+[Data](articles/b4b95824.json)
+
+[Extended Data](ext_articles/b4b95824.ext.json)
 
 ---

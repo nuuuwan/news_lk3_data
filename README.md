@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 23:07:02**
+As of **2025-09-17 22:54:44**
 
 ## Newspaper Stats
 
-*Scraped **76,596** Articles*
+*Scraped **76,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,444
 adaderanalk | 9,883
-tamilmirrorlk | 11,492
+tamilmirrorlk | 11,491
 virakesarilk | 12,464
 adaderanasinhalalk | 13,363
 
@@ -26,31 +26,11 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,839 (96.4%) of 76,596 articles have been extended.
+73,839 (96.4%) of 76,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### காசாவில் உள்ள மக்களை உடனடியாக வெளியேறுமாறு உத்தரவு
-
-*2025-09-17 22:44:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-உள்ள-மக்களை-உடனடியாக-வெளியேறுமாறு-உத்தரவு/50-364810) · `ta`
-
-காசா முழுவதும், தீவிர வான்வழி மற்றும் தரைவழி தாக்குதல்களை இஸ்ரேல் மேற்கொண்டு வருகிறது.
-
-பிரதமர் பெஞ்சமின் நெதன்யாகு உள்ளிட்ட உயர் அதிகாரிகளின் தூண்டுதலுக்கு அமைய, இஸ்ரேல், காசாவில் இனப்படுகொலை செய்ததாக, ஐக்கிய நாடுகள் சபையின் விசாரணையில் தெரிய வந்த நிலையிலேயே, இந்த தாக்குதல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
-
-இந்த நிலையில், இன்று மேற்கொள்ளப்பட்ட தாக்குதல்களில் காசா நகரில் குறைந்தது, 40 பேர் வரை கொல்லப்பட்டுள்ளதாக காசா சுகாதார அதிகாரிகள் தெரிவித்துள்ளதாக சர்வதேச செய்திகள் தெரிவிக்கின்றன.
-
-அத்துடன், நேற்றிரவு நடத்தப்பட்ட குண்டுவீச்சு தாக்குதலில் காசாவில் உள்ள சிறுவர் மருத்துவமனை உட்பட மூன்று மருத்துவமனைகள் குறிவைக்கப்பட்டதாக ஹமாஸ் சுகாதார அமைச்சகம் தெரிவித்துள்ளது.
-
-இதனிடையே, பலஸ்தீனிய மக்கள் வெளியேறுவதற்கு மேலும் 48 மணி நேரம் வீதியை திறந்துவிடுவதாக இஸ்ரேல் இராணுவம் இன்று அறிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/c6dd9616.json)
-
----
 
 ### MP Dilith Jayaweera joins religious rituals
 
@@ -2033,5 +2013,29 @@ Accordingly, there are poor infrastructure deficits for the Jaffna University's 
 [Data](articles/1f08f840.json)
 
 [Extended Data](ext_articles/1f08f840.ext.json)
+
+---
+
+### A five -storey building for Jaffna University
+
+*2025-09-17 12:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்திற்கு-ஐந்து-மாடி-கட்டிடம்/175-364761) · `ta`
+
+The Cabinet has approved the construction of a five -storey building with modern facilities for the Jaffna University's Joint Health Science Faculty.
+
+The Cabinet approved the idea of ​​the Cabinet meeting headed by President Anura Kumara Dissanayake on May 16.
+
+In 2006, graduates were identified on the health science of the state universities and the Jaffna University's Medical Laboratory of Jaffna's Medical Laboratory and three scientific graduates were launched in the fields of science, pharmaceuticals and nurses.
+
+Currently, 952 students in four syllabuses are engaged in the course of the Faculty of Health Sciences at the University of Jaffna.
+
+Although the Cabinet has approved the construction of the building for the Faculty of Health in 2017, it has not been funded by the financial crisis.
+
+Accordingly, the Faculty of Health Sciences at the University of Jaffna has been pointed out that there are poor infrastructure deficits.
+
+...
+
+[Data](articles/918ceb22.json)
+
+[Extended Data](ext_articles/918ceb22.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 12:55:15**
+As of **2025-09-17 13:06:28**
 
 ## Newspaper Stats
 
-*Scraped **76,489** Articles*
+*Scraped **76,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,428
-adaderanalk | 9,861
-tamilmirrorlk | 11,461
+adaderanalk | 9,862
+tamilmirrorlk | 11,462
 virakesarilk | 12,458
-adaderanasinhalalk | 13,340
+adaderanasinhalalk | 13,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,685 (96.3%) of 76,489 articles have been extended.
+73,685 (96.3%) of 76,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### කහ සහ ඉඟුරු වගාවන්ට විශේෂ රක්ෂණ යෝජනා ක්‍රමයක්
+
+*2025-09-17 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214668) · `si`
+
+වාණිජමය වශයෙන් හා අපනයනය කිරීමේ අරමුණින් වගා කරනු ලබන කහ සහ ඉඟුරු වගාවන් සඳහා විශේෂ රක්ෂණ යෝජනා ක්‍රමයක් ආරම්භ කර ඇති බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
+
+එහි සභාපති පේමසිරි ජාසිංආරච්චි මහතා පැවසුවේ ගොවියා තමන් විසින් සිදුකරනු ලබන "ඉඟුරු" වගාව සඳහා අක්කරයකට රුපියල් 200,000 ක් දක්වා රක්ෂණාවරණයක්  ලබාගැනීමට හැකියාව ඇති බවය.
+
+ඒ සඳහා සියයට 7 ක් වැනි රක්ෂණ වාරිකයක් ගෙවීමෙන් ස්වාභාවික විපත්, රෝග, කෘමි හානි සහ  වන අලි හානි සඳහා රක්ෂණවරණය ලබාගැනීමට හැකියාව ඇති  බව සඳහන් වේ.
+
+එමෙන්ම "කහ " වගාවන් සුරක්ෂිත කර ගැනීම සඳහා අක්කරයකට උපරිමය රුපියල් ලක්ෂ 7 ක් දක්වා රක්ෂණවරණයක් ලබා ගැනීමට හැකියාව පවතී.
+
+◼️
+
+[Data](articles/91918115.json)
+
+---
+
+### யாழ்.பல்கலைக்கழகத்திற்கு 2,234 மில்லியன் செலவில் ஐந்து மாடி கட்டிடம் அமைக்க திட்டம்
+
+*2025-09-17 12:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்திற்கு-2-234-மில்லியன்-செலவில்-ஐந்து-மாடி-கட்டிடம்-அமைக்க-திட்டம்/175-364761) · `ta`
+
+யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீடத்திற்கு நவீன வசதிகளுடன் கூடிய ஐந்து மாடி கட்டிடமொன்றை நிர்மாணிக்க அமைச்சரவை ஒப்புதல் வழங்கியுள்ளது.
+
+ஜனாதிபதி அனுர குமார திஸாநாயக்க தலைமையில்செவ்வாய்க்கிழமை (16) அன்று கூடிய அமைச்சரவை கூட்டத்தில் குறித்த யோசனைக்கு அமைச்சரவை ஒப்புதல் வழங்கியது.
+
+2006 ஆம் ஆண்டில் அரச பல்கலைக்கழகங்களில் இணைந்த சுகாதார விஞ்ஞானம் தொடர்பாக பட்டப்படிப்புக்கள் அடையாளங் காணப்பட்டுள்ளதுடன், யாழ்ப்பாண பல்கலைக்கழகத்தின் மருத்துவ ஆய்வுகூட விஞ்ஞானம், மருந்து வேதியல் மற்றும் தாதியம் தொடர்பான துறைகளில் மூன்று விஞ்ஞானமானி பட்டப்படிப்புக்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+தற்போது யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீடத்தில் அனைத்து இனத்தவர்களையும் பிரதிநிதித்துவப்படுத்தி நான்கு பாடத்துறைகளில் 952 மாணவர்கள் கற்கைகளில் ஈடுபடுகின்றனர்.
+
+2017 ஆம் ஆண்டில் இணைந்த சுகாதார விஞ்ஞான பீடத்திற்கான கட்டிடத்தை நிர்மாணிப்பதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்திருப்பினும், நிலவிய நிதி நெருக்கடிகளால் அதற்கான நிதி ஒதுக்கப்படவில்லை.
+
+...
+
+[Data](articles/1f08f840.json)
+
+---
+
+### Sri Lankan passport drops 6 spots in global rankings
+
+*2025-09-17 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112600/sri-lankan-passport-drops-6-spots-in-global-rankings) · `en`
+
+The Sri Lankan passport has dropped to 97th place in the latest Henley Passport Index 2025 Global Ranking, released on September 11, 2025.
+
+Earlier this year, Sri Lanka showed notable progress, climbing five spots from 96th to 91st place, marking an improvement from its 2024 ranking of 96th.
+
+However, in the latest update, the country has slipped to 97th—one place lower than its 2024 position—with a visa-free score of 41, compared to 42 destinations previously.
+
+Sri Lanka now shares the 97th position with Iran in the index, which features 105 rankings in total.
+
+The Henley Passport Index evaluates passports worldwide based on the number of destinations their holders can enter without a prior visa.
+
+In a global context, the U.S. passport has also fallen to 12th place, down two spots from its July ranking, marking its lowest position in the 20-year history of the index.
+
+...
+
+[Data](articles/ff41d2fa.json)
+
+---
 
 ### வர்த்தக அமைச்சரை சூழும் சொத்துப் பிரகடன சர்ச்சை
 
@@ -1975,57 +2035,5 @@ The resort works closely with local farmers and fishermen, sourcing produce and 
 [Data](articles/706b82cd.json)
 
 [Extended Data](ext_articles/706b82cd.ext.json)
-
----
-
-### Second quarter growth predictions trigger bull-run in bourse
-
-*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/second-quarter-growth-predictions-trigger-bull-run-in-bourse/) · `en`
-
-CSE activities turned extremely bullish yesterday when the Finance Ministry reported that 2025 second quarter GDP growth potential was higher than expected.
-
-Initially it was reported that second quarter GDP for the year was 3.1 percent but latest reports note that it has moved up to 4.9 percent, thus enabling investor sentiment to improve significantly, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 263.98 points while S and P SL20 rose by 81.75 points. Turnover stood at Rs 6.22 billion with ten crossings.
-
-...
-
-[Data](articles/3b5f7855.json)
-
-[Extended Data](ext_articles/3b5f7855.ext.json)
-
----
-
-### Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
-
-*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-nce-forge-strategic-alliance-to-power-sri-lankas-export-growth/) · `en`
-
-Pan Asia Bank, one of Sri Lanka’s fastest-growing commercial banks, has entered into a strategic partnership with the National Chamber of Exporters of Sri Lanka (NCE) to empower and support the country’s export community.
-
-Exports remain a lifeline for Sri Lanka’s economy, generating vital foreign exchange, driving industrial innovation, and creating jobs across multiple sectors. In the current context of economic recovery, strengthening the export sector is critical for stabilizing the nation’s external balances and securing long-term sustainable growth. Recognizing this, Pan Asia Bank’s collaboration with NCE is designed to provide exporters with both the financial tools and strategic guidance needed to expand their global reach.
-
-...
-
-[Data](articles/b12cf49a.json)
-
-[Extended Data](ext_articles/b12cf49a.ext.json)
-
----
-
-### HNB Assurance hosts second consecutive International Partnership Awards in Malaysia
-
-*2025-09-16 22:57:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-second-consecutive-international-partnership-awards-in-malaysia/) · `en`
-
-HNB Assurance PLC once again marked a historic milestone by hosting its Partnership Awards 2025 on an international stage for the second consecutive year. Held at the prestigious Royal Signature Hotel, Kuala Lumpur, the gala event welcomed guests from HNB, HNB Assurance staff, Bancassurance Officers and their families, to celebrate the remarkable achievements of the company’s partnership channel.
-
-The Partnership Awards, a flagship annual event for HNB Assurance, serves as a platform to honor and recognize the exceptional contributions of its partnership channel, which continues to play a pivotal role in driving the company’s growth. Following the success of last year’s international debut in Thailand, this year’s event in Malaysia further signifies the company’s expanding vision and growth momentum.
-
-Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
-
-...
-
-[Data](articles/43eabc85.json)
-
-[Extended Data](ext_articles/43eabc85.ext.json)
 
 ---

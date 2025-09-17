@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 09:57:08**
+As of **2025-09-17 10:20:26**
 
 ## Newspaper Stats
 
-*Scraped **76,447** Articles*
+*Scraped **76,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,155 @@ economynextcom | 4,628
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,424
-adaderanalk | 9,856
-tamilmirrorlk | 11,442
+adalk | 7,425
+adaderanalk | 9,857
+tamilmirrorlk | 11,445
 virakesarilk | 12,454
-adaderanasinhalalk | 13,332
+adaderanasinhalalk | 13,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,623 (96.3%) of 76,447 articles have been extended.
+73,635 (96.3%) of 76,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### பதில் பொலிஸ் மாஅதிபராக லலித் பத்திநாயக்க நியமனம்
+### මධ්‍යම අධිවේගයේ කඩවත සිට මීරිගම දක්වා යළි වැඩ ඇරඹීමේ සමාරම්භය
+
+*2025-09-17 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214662) · `si`
+
+මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතියේ කඩවත සිට මීරිගම දක්වා වූ කොටසේ යළි ඉදිකිරීම් ආරම්භ කිරීමේ සමාරම්භක උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මේ වනවිට ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/76913f8b.json)
+
+---
+
+### Pakistan leaving the Asian bowl?
+
+*2025-09-17 09:55:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணத்திலிருந்து-வெளியேறும்-பாகிஸ்தான்/44-364739) · `ta`
+
+The Pakistani Cricket Board has said that a final decision will be taken today on whether to leave the Asian Cup.
+
+The Cricket Board's midnight report noted that the contest with the United Arab Emirates to win will be held tonight.
+
+Pakistan canceled its press conference yesterday as the controversy continues to be a match against India.
+
+◼️
+
+[Data](articles/0c2c95a8.json)
+
+[Extended Data](ext_articles/0c2c95a8.ext.json)
+
+---
+
+### Sri Lanka to sprinkle with ice
+
+*2025-09-17 09:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐஸ்க்குள்-தத்தளிக்கும்-இலங்கை/62-364738) · `ta`
+
+◼️
+
+[Data](articles/b3828ae8.json)
+
+[Extended Data](ext_articles/b3828ae8.ext.json)
+
+---
+
+### Water cut tomorrow to several major cities in Colombo
+
+*2025-09-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214661) · `si`
+
+The National Water Supply and Drainage Board (NPF) says that the water cut will be imposed in several areas tomorrow (18).
+
+The water supplied by the Portata Water Treatment Plant has to be suspended by the power supply to the Ambatale Water Treatment Plant will suspend the electricity supply to the main body.
+
+The water cut will be imposed from 10.00 am to 07 am to 07 pm.
+
+Water cut will be suspended in areas from 1 to 15 of Colombo.
+
+The National Water Supply and Drainage Board stated that the water cut will be imposed in Battaramulla, Hokandara, Koswatta, Kotte, Kottagamuwa, Colombo, Dehiwala, Ratmalana, Dehiwala, Borakoda, Dehiwala, Boraiwatta, Maharagama, Dehiwala, Boraiwatta, Wattawatta, Dehiwala, Boraiwatta, Dehiwala, Boraiwatta.
+
+◼️
+
+[Data](articles/cd6aaf56.json)
+
+[Extended Data](ext_articles/cd6aaf56.ext.json)
+
+---
+
+### Electricity Board employees who jumped on a sick holiday
+
+*2025-09-17 09:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுமுறையில்-குதித்த-மின்சார-சபை-ஊழியர்கள்/175-364737) · `ta`
+
+The Ceylon Electricity Board (CEB employees) have decided to engage in a sick holiday strike today (17).
+
+Kosala Abeysinghe, president of the Technology Association, said that the move was taken as the second phase of the strike action.. Remble
+
+◼️
+
+[Data](articles/b4764fd2.json)
+
+[Extended Data](ext_articles/b4764fd2.ext.json)
+
+---
+
+### Lalith Patinayake appointed as the Inspector General of Police
 
 *2025-09-17 09:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்-மாஅதிபராக-லலித்-பத்திநாயக்க-நியமனம்/175-364736) · `ta`
 
-பதில் பொலிஸ் மாஅதிபராக சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர் லலித் பத்திநாயக்க நியமிக்கப்பட்டுள்ளார்.
+Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Chief of Police.
 
-சீனாவில் நடைபெறும் பொலிஸ் மாநாட்டில் கலந்து கொள்வதற்காக பொலிஸ் மாஅதிபர் பிரியந்த வீரசூரிய, நாட்டை விட்டு வெளியேறியுள்ள நிலையிலேயே இவர் தற்காலிகமாக நியமிக்கப்பட்டுள்ளார்.
+He has been temporarily appointed as police chief Priyantha Weerasuriya has left the country to attend the police conference in China.
 
-இதனடிப்படையில், சிரேஸ்ட பிரதிப் பொலிஸ் மா அதிபர் லலித் பத்திநாயக்க, மத்திய மாகாணம் மற்றும் பொலிஸ் நிர்வாகப் பிரிவுக்குக்கு பொறுப்பாக செயற்படுவதோடு,முன்னதாக நான்கு சந்தர்ப்பங்களில் இவர் பதில் பொலிஸ் மாஅதிபராக பணியாற்றியுள்ளார் என்பதும் குறிப்பிடத்தக்கது.
+Accordingly, Senior Deputy Inspector General of Police, Lalith Patinayake, has been responsible for the Central Province and Police Administrative Division and has previously served as the Inspector General of Police.
 
 ◼️
 
 [Data](articles/7f928f7d.json)
 
+[Extended Data](ext_articles/7f928f7d.ext.json)
+
 ---
 
-### இந்தியாவின் உத்தரகாண்ட் மாநிலத்தில் கடும்மழை ; 15 பேர் உயிரிழப்பு
+### CEB workers launch ‘sick leave’ trade union action today
+
+*2025-09-17 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112595/ceb-workers-launch-sick-leave-trade-union-action-today) · `en`
+
+Employees of the Ceylon Electricity Board (CEB) have decided to report sick today (17) as part of a trade union action.
+
+Chairman of the CEB Technical Engineers’ Union, Kosala Abeysinghe, stated that this measure marks the commencement of the second phase of their ongoing union action.
+
+◼️
+
+[Data](articles/043ab81e.json)
+
+---
+
+### Heavy rains in the state of Uttarakhand, India; 15 people die
 
 *2025-09-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225278) · `ta`
 
-இந்தியாவின் உத்தரகாண்ட் மாநிலத்தில், டேராடூன் நகர் மற்றும் அருகேயுள்ள இடங்களில் நேற்று செவ்வாய்க்கிழமை (17) காலை திடீரென கடும்மழையும், மேகவெடிப்பும் ஏற்பட்டுள்ளது.
+Heavy rains and clouds occurred on Tuesday morning (17) in Dehradun Nagar and near the state of Uttarakhand, India.
 
-இதனால் 15 பேர் உயிரிழந்துள்ளதோடு, 16 பேர் காணாமல் போயுள்ளனர். மேலும் மலைப்பகுதியின் பல்வேறு இடங்களில் 900 பேர் சிக்கித் தவித்துள்ளனர்.
+As a result, 15 people died and 16 were missing. Also, 900 people have been trapped in various parts of the hill country.
 
-கார்வால் பகுதியில் பெய்த தொடர் மழையால், வீதிகள், பாலங்கள், ஹோட்டல்கள் மற்றும் கடைகள் என பரவலாக சேதம் அடைந்துள்ளன. பல்வேறு மாவட்டங்களில் வாகன போக்குவரத்தும் தடைபட்டுள்ளது.
+Due to heavy rains in the Karwal area, roads, bridges, hotels and shops have been widely damaged. Vehicle traffic has also been blocked in various districts.
 
-டேராடூன் அருகே சஹஸ்திரதரா என்ற புகழ் பெற்ற சுற்றுலா தலத்தில் திடீரென்று மேகவெடிப்பு ஏற்பட்டது. இதனால், கடைகளும், ஹோட்டல்களும் பாதிப்படைந்துள்ளன. கார்லிகட் மற்றும் மஜ்ஜியார் கிராமங்களில் மண்சரிவும் சேர்ந்து ஏற்பட்டதில் பலர் சிக்கி கொண்டுள்ளனர்.
+Suddenly a cloud of a popular tourist attraction near Dehradun. Thus, shops and hotels have been affected. Many people are trapped in the landslide in the villages of Carligat and Majjiyar.
 
-ஆசன் ஆற்றில் கடுமையான வெள்ளப்பெருக்கு ஏற்பட்டதில் உழவு இயந்திரம் நீரில் அடித்து செல்லப்பட்டுள்ளது. இதில் சிக்கி 5 தொழிலாளர்கள் உயிரிழந்துள்ளார்கள். தொழிலாளர்கள் 8 பேர் காணாமல் போயுள்ளனர்.
+The tillage machine has been swept away in the floods in the Asan River. Five workers are killed in this. Eight workers are missing.
+
+The search for them is also underway. He dies after a motorcycle rolled on a young man. One in the landslide and three people were trapped in the Dance River.
 
 ...
 
 [Data](articles/bc318fc7.json)
+
+[Extended Data](ext_articles/bc318fc7.ext.json)
 
 ---
 
@@ -264,17 +364,19 @@ It is reported that about 3,050,000 people have left the area in accordance with
 
 ---
 
-### මධ්‍යම අධිවේගයේ පළමු කොටසේ වැඩ යළි ආරම්භ ක‍ිර‍ිම අද
+### Recreation of the first part of the Central Expressway today
 
 *2025-09-17 07:22:07* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටසේ-වැඩ-යළි-ආරම්භ-ක‍ිර‍ිම-අද/11-418544) · `si`
 
-මධ්‍යම අ‍ධිවේගයේ මාර්ගයේ පළමු කොටස වන කඩවත මීරිගම කොටසේ වැඩ නැවත ආරම්භ කිරීම අද පෙරවරුවේ කඩවතදී සිදු කිරීමට නියමිතය.
+The resume of work on the road on the road on the road is to be resumed at Kadawatha.
 
-ආර්ථික අර්බුදය හේතුවෙන් වැඩ අතරමග නවතා දැමූ මෙම ව්‍යාපෘතියේ වැඩ යළි ආරම්භ කෙරන්නේ චීන එක්සිම් බැංකුව  ලබා දෙන ණය මුදල් හරහායි. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මෙහි ඉදි කිරීම් යළි ආරම්භ කෙරෙයි.
+The project, which stopped the work of the work due to the economic crisis, will restart the debt of China Exim Bank. The construction will be resumed under the patronage of President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/033e1392.json)
+
+[Extended Data](ext_articles/033e1392.ext.json)
 
 ---
 
@@ -1893,129 +1995,5 @@ The boy's mother found the incident and reports to the police. A committee was s
 [Data](articles/73c50e12.json)
 
 [Extended Data](ext_articles/73c50e12.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-16 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-240773/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.07/17 to the US dollar on Tuesday, mostly unchanged from 302.10/17 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed at 9.55/60 percent, up from 9.54/58 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.38/45 percent.
-
-Rs. 75,000 million Treasury bills are to be issued through an auction on 17th September. (Colombo/Sep16/2025)
-
-◼️
-
-[Data](articles/ee7bc76b.json)
-
-[Extended Data](ext_articles/ee7bc76b.ext.json)
-
----
-
-### Israel has committed genocide in Gaza -UN. Commission
-
-*2025-09-16 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225246) · `ta`
-
-The United Nations Investigation Commission has said that Israel has been genocide against the Palestinians in Gaza.
-
-“On October 7, 2023, Hamas from Gaza launched a sudden attack on Israel. Of these, 1,200 were killed. 251 were caught as hostage. In the wake of the attack, Israel launched an attack on Hamas militants. This attack is ongoing. At least 64,905 Palestinians have been killed in the last 22 months of the attack, the Ministry of Health in Gaza said.
-
-In this case, the UN to investigate international human rights violations. The Human Rights Commission was set up on behalf of the Human Rights Commission. Former Human Rights Commission Chairman Navi Pillai was appointed as the Chairman of the three -member inquiry committee. The committee has completed its investigation and filed a 72 -page report.
-
-...
-
-[Data](articles/bebae64b.json)
-
-[Extended Data](ext_articles/bebae64b.ext.json)
-
----
-
-### No decision to liquidate Fisheries Corporation
-
-*2025-09-16 16:57:16* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සංස්ථාව-ඈවර-කිරීමට-තීරණයක්-නෑ/11-418538) · `si`
-
-Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekam Chandrasekam Chandrasekar said that the Oluvil Port can be used after a new feasibility study.. The Ministry of Fisheries, Aquatic Resources and Marine Resources Advisory Committee on the Ministry of Fisheries. Fisheries, Aquatic and Ocean Resources Deputy Minister Ratna Gamage was also present at the occasion.
-
-At the meeting, the operation of Oluvil Fisheries Harbor was lengthy. The Minister stated that new feasibility studies are conducted to correct the damage caused by the Oluvil Port without proper studies and that future plans will be prepared based on it.. The Deputy Minister said that the Fisheries Harbor in Walachchenai has been planned to be a wider fishing harbor in 2026, to meet the need for fishing fisheries.
-
-...
-
-[Data](articles/edb9f4e4.json)
-
-[Extended Data](ext_articles/edb9f4e4.ext.json)
-
----
-
-### 20 Indian fishermen detained by Sri Lanka return to Chennai
-
-*2025-09-16 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112577/20-indian-fishermen-detained-by-sri-lanka-return-to-chennai) · `en`
-
-As many as 20 Indian fishermen who were arrested by the Sri Lankan Coast Guard returned to Chennai on Tuesday.
-
-The fishermen from Rameshwaram went out to sea for fishing in two groups at the end of June. While they were fishing in the middle of the sea, the fishermen were surrounded by the Sri Lankan Coast Guard for crossing the border, and all of them were arrested and sent to prison.
-
-Later on July 27, another group of nine fishermen was arrested by the Coast Guard, and they were sent to prison. The court imposed a penalty of LKR 500,000, and seven fishermen who paid the penalty were released and handed over to the Indian embassy on August 14.
-
-Later, another 13 fishermen were released and handed over to the Indian officers a few days ago. The officers arranged the travel documents for the fishermen, and all of them arrived in Chennai on an Air India flight that landed in the early morning.
-
-...
-
-[Data](articles/5396c9e9.json)
-
-[Extended Data](ext_articles/5396c9e9.ext.json)
-
----
-
-### Inmate dies following injuries from accident at Kalutara prison
-
-*2025-09-16 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112578/inmate-dies-following-injuries-from-accident-at-kalutara-prison) · `en`
-
-An inmate who was receiving treatment for injuries sustained after climbing and subsequently jumping from a ‘Bo tree’ within the premises of Kalutara Prison has succumbed to his injuries, according to Kalutara North Police.
-
-The deceased has been identified as Sampath Mendis, a resident of Waskaduwa, Kalutara.
-
-The inmate, who was imprisoned on charges of drug possession, had reportedly climbed a Bo tree in the prison premises on July 21 and afterwards jumped to the ground from it resulting in critical injuries, police said.
-
-Accordingly, he was admitted to the Nagoda Hospital for treatment and was re-imprisoned after recovering.
-
-However, the inmate’s condition had worsened and he was re-admitted to the hospital while he had succumbed to the injuries last night (15).
-
-Kalutara North Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/b1f4406a.json)
-
-[Extended Data](ext_articles/b1f4406a.ext.json)
-
----
-
-### Expressions of interest called to add value to manufacturing process at Kahatagahahena graphite mine
-
-*2025-09-16 16:53:00* · [`islandlk`](http://island.lk/expressions-of-interest-called-to-add-value-to-manufacturing-process-at-kahatagahahena-graphite-mine/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the Minister of Industries and Entrepreneurship Development to repeal the cabinet decision taken on 11-12-2023 regarding the restructuring of Kahatagaha Graphite Lanka Limited and to call for proposals for expressions of interest
-
-following the approved procurement procedure to implement the entire procedure of exploring the graphite reserve of the Kahatagaha mine, mining, processing, and adding value to the graphite in the aforementioned mine under the Public-Private Partnership, while keeping the ownership of the graphite of the Kahatagaha mine with the company itself and securing the jobs of the employees currently working in the
-
-Cabinet approves additional provision to purchase Paddy in 2025 Yala season
-
-20,000 youths from Samurdhi beneficiary families to be trained for hospitality industry
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/6092ff15.json)
-
-[Extended Data](ext_articles/6092ff15.ext.json)
 
 ---

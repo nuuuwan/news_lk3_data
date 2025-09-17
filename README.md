@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 10:20:26**
+As of **2025-09-17 10:55:35**
 
 ## Newspaper Stats
 
-*Scraped **76,454** Articles*
+*Scraped **76,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,105 @@ economynextcom | 4,628
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,425
+adalk | 7,426
 adaderanalk | 9,857
-tamilmirrorlk | 11,445
+tamilmirrorlk | 11,447
 virakesarilk | 12,454
-adaderanasinhalalk | 13,334
+adaderanasinhalalk | 13,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,635 (96.3%) of 76,454 articles have been extended.
+73,641 (96.3%) of 76,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### මධ්‍යම අධිවේගයේ කඩවත සිට මීරිගම දක්වා යළි වැඩ ඇරඹීමේ සමාරම්භය
+### ගිනිඅවියක් අතදරා ගමක් බිය කළ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2025-09-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214664) · `si`
+
+ප්‍රදේශවාසීන්ට වෙඩි තබා තර්ජනය කර බිය වද්දමින් කප්පම් ගැනීමේ නිරතව සිටි පුද්ගලයෙකු කිරිවත්තුඩුව මිල්ලගහවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු සිදුකළ වෙඩි තැබීමෙන් අවුරුදු 49ක කාන්තාවක් තුවාල ලබා කහතුඩුව වෑතර දිසාරෝහල වෙත ඇතුළත් කර ඇත.
+
+සැකකරු සන්තකයේ තිබී මෙරට නිෂ්පාදිත ජිව අත්බෝම්බයක් හා මන්නයක් ද පොලිස් භාරයට ගෙන ඇත.
+
+සැකකරු ගිනිඅවිය සහ ලයිටරයක් අතැතිව තමා අත්අඩංගුවට ගැනීමට පැමිණෙන පොලීසියට වෙඩි තබන බවට තර්ජනය කරමින් හැසිරුණු බව වැඩිදුර සඳහන්ය.
+
+මත්ද්‍රව‍ය පානය කිරීම සඳහා මුදල් සොයා ගැනීමේ අරමුණින් මෙම කප්පම් ගැනීම සිදුකර ඇති බව පොලීසිය පවසයි.
+
+අදාළ පුද්ගලයා මීට පෙර පුද්ගලයන් සිව්දෙනෙකු තියුණු ආයුධවලින් කපා තුවාල කිරීම සම්බන්ධයෙන් පොලිස් අත්අඩංගුවට ගෙන බන්ධනාගාරගත කර දඬුවම් විදි පුද්ගලයකු බව පොලීසිය සඳහන් කරයි.
+
+අවුරුදු 32ක් වන සැකකරු කැස්බෑව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/077bdd23.json)
+
+---
+
+### வக்பு வழக்கில் முழுமையற்ற தீர்ப்பு: முஸ்​லிம்​கள் அதிருப்தி
+
+*2025-09-17 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வக்பு-வழக்கில்-முழுமையற்ற-தீர்ப்பு-முஸ்-லிம்-கள்-அதிருப்தி/175-364742) · `ta`
+
+வக்பு திருத்​தச் சட்​டம், 2025-ஐ முழு​மை​யாக ரத்து செய்​யக் கோரு​கிறோம். திருத்​தப்​பட்ட சட்​டத்​தின் சில விதி​களை உச்ச நீதி​மன்​றம் நிறுத்தி வைத்​துள்​ளது, ஆனால் இந்த முடிவு முஸ்​லிம்​களின் எதிர்​பார்ப்​பு​களை பூர்த்தி செய்​ய​வில்​லை என முஸ்​லிம்​களின் முக்​கிய அமைப்​பான இந்​திய முஸ்​லிம் தனி​நபர் சட்ட வாரி​ய (ஏஐஎம்​பிஎல்​பி) தேசிய செய்​தித் தொடர்பாளர் எஸ்​.க்​யு.ஆர்​.இலி​யாஸ் தெரிவித்துள்ளார்.
+
+முஸ்​லிம் சமூகம், முஸ்​லிம் தனி​நபர் சட்ட வாரி​யம் மற்​றும் அரசி​யலமைப்​பின் அடிப்​படை விதி​களுக்கு முரணான அனைத்து பிரிவு​களுக்​கும் நீதி​மன்​றம் தடை விதிக்​கும் என எதிர்​பார்த்​தோம். பகுதி நிவாரணம் வழங்​கி​யிருந்​தா​லும், இந்த தீர்ப்பு முழு​மையற்ற மற்​றும் திருப்தி அளிக்​காத​தாக உள்​ளது. அரசி​யலமைப்​புக்கு முரணான அனைத்து பிரிவு​களுக்​கும் முழு​மை​யான தடை விதிக்​கப்​படும் என்று முஸ்​லிம் சமூகம் நம்​பியது நடை​பெற​வில்​லை.
+
+...
+
+[Data](articles/d16796b6.json)
+
+---
+
+### Malwatte and Asgiriya Maha Nayaka Thera of the Diyawadana Nilame
+
+*2025-09-17 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214663) · `si`
+
+Malwatte and Asgiri Mahanayaka Thero has issued an announcement in the Diyawadana Nilame.
+
+◼️
+
+[Data](articles/e403532e.json)
+
+[Extended Data](ext_articles/e403532e.ext.json)
+
+---
+
+### The act of doing a youth for a woman who was naked
+
+*2025-09-17 10:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-வீடியோகால்-செய்த-பெண்ணுக்கு-இளைஞர்-செய்த-செயல்/175-364740) · `ta`
+
+Youth from Bangalore shared a cell phone number to a familiar woman in the dating processor. Both were close to talking on WhatsApp. Both of them were talking at the message about intercourse. The girl then posed naked on the video leg. And the young man ordered the unraveling of clothes. He is now in trouble naked on the video's video.
+
+A 25 -year -old youth living near Bangalore. He is working in a private company. It was in this case that a few months ago he downloaded the dating processor on his cell phone.
+
+The name of that dating processor Happn. Through this processor, she and the woman named Ananya became accustomed to. The two came to talk daily via the dating processor.
+
+The friendship was formed between the two. Then they exchanged their cell phone numbers. Thus, at the time they thought, 2 of them exchanged the message. Increased closeness to both. The two went to the next level, talking about friendly and welfare.
+
+...
+
+[Data](articles/f5d9d649.json)
+
+[Extended Data](ext_articles/f5d9d649.ext.json)
+
+---
+
+### Starting work to be re-opened from Kadawatha to Mirigama on the Central Expressway
 
 *2025-09-17 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214662) · `si`
 
-මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතියේ කඩවත සිට මීරිගම දක්වා වූ කොටසේ යළි ඉදිකිරීම් ආරම්භ කිරීමේ සමාරම්භක උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මේ වනවිට ආරම්භ වී තිබේ.
+The inauguration of the commencement ceremony of re-mirigama from Kadawatha to Mirigama has commenced under the patronage of President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/76913f8b.json)
+
+[Extended Data](ext_articles/76913f8b.ext.json)
 
 ---
 
@@ -142,6 +216,8 @@ Chairman of the CEB Technical Engineers’ Union, Kosala Abeysinghe, stated that
 
 [Data](articles/043ab81e.json)
 
+[Extended Data](ext_articles/043ab81e.ext.json)
+
 ---
 
 ### Heavy rains in the state of Uttarakhand, India; 15 people die
@@ -165,6 +241,36 @@ The search for them is also underway. He dies after a motorcycle rolled on a you
 [Data](articles/bc318fc7.json)
 
 [Extended Data](ext_articles/bc318fc7.ext.json)
+
+---
+
+### Fatal road accidents who lost their lives for seven persons including a baby
+
+*2025-09-17 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214660) · `si`
+
+Seven persons, including a babies, killed in several parts of the island yesterday (16) were killed.
+
+The fatal accidents have been reported, Embilipitiya, Embilipitiya, Peliyagoda, Gandiyagama, Gandaragama and Pannala.
+
+The motorcycle, which was in Neelamadu bend on the Murunkan Silawathura road, had accidentally escaped the motorcyclist.
+
+The motorcyclist was seriously injured and died on admission to the Murunkan Hospital.
+
+The victim is a resident of Murunkan area for 33 years.
+
+The residents of the area had taken place in a three-wheeler and attempted to flee after a van near the Embilipitiya Moraketiya road near Embilipitiya Moraketiya road.
+
+The cyclist who had been injured in the first time was seriously injured and admitted to the Embilipitiya hospital.
+
+The deceased has been identified as 36 years, Liyanagama, a resident of Embilipitiya.
+
+Medical reports that the driver had been alcohol has been alcohol, while the driver has been alcohol.
+
+...
+
+[Data](articles/373fbd58.json)
+
+[Extended Data](ext_articles/373fbd58.ext.json)
 
 ---
 
@@ -337,6 +443,20 @@ The President told the Presidential Media Unit that the President has stated tha
 [Data](articles/87273650.json)
 
 [Extended Data](ext_articles/87273650.ext.json)
+
+---
+
+### අද මිලි මීටර් 50 ඉක්මවූ වැසි
+
+*2025-09-17 07:26:10* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මීටර්-50-ඉක්මවූ-වැසි/11-418545) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ හා උතුරු පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තු අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+එසේම සෙසු ප්‍රහේශවල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවත් දිවයිනේ ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/0025376e.json)
 
 ---
 
@@ -1871,129 +1991,5 @@ The order was issued by Mahesh Weeraman, Pradeep Abeyratne and Amali Ranaweera, 
 [Data](articles/745de3aa.json)
 
 [Extended Data](ext_articles/745de3aa.ext.json)
-
----
-
-### If there is a need, the rice is imported
-
-*2025-09-16 17:51:59* · [`adalk`](https://www.ada.lk/breaking_news/අවශ්‍යතාවක්-ඇතිවුණොත්-සහල්-ආනයනය-කරනවා/11-418540) · `si`
-
-Cabinet Media Spokesperson Health and Mass Media Spokesperson Dr. Nalinda Jayatissa says that if a hair samba will not be allowed to cause a shortage of rice and imports to the importation of rice.
-
-The Minister was speaking at a press conference to inform the Cabinet decisions held in the Department of Government Information today.
-
-The Minister also pointed out that the rice harvest of nearly 2.5 million rice, said that the rice harvest of nearly 25 metric tons of the Maha season.
-
-Also, the farmers have reached nearly 79 percent of their targets for the harvest and the farmers have been in the same season, the said Minister said.
-
-He also said that the Minister pointed out that the government is not a lack of Caremboba cultivation, but the government has intervened to resolve the Key Samba Rice problem.
-
-The Minister said that the government is prepared to import rice in accordance with the needs of the rice in the market with the needs of the market.
-
-◼️
-
-[Data](articles/e944080d.json)
-
-[Extended Data](ext_articles/e944080d.ext.json)
-
----
-
-### Sri Lanka may miss 2025 tourism arrival, earning targets: CT Smith
-
-*2025-09-16 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-miss-2025-tourism-arrival-earning-targets-ct-smith-240749/) · `en`
-
-ECONOMYNEXT – Sri Lanka is likely to miss 2025 tourist arrival and tourism revenue targets set by the government, though the sector is performing well, a forecast by broker firm CT Smith Securities showed.
-
-Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar revenue and a 3 million arrival target this year.
-
-Sri Lanka’s new government has aimed at an ambitious 5 billion US dollar revenue and a 3 million arrival target this year.
-
-The revenue for the first eight months has seen a rise of 5.7 percent to 2.29 billion US dollars from a year ago, while the arrivals also have picked up 15 percent in the first eight months to 1.57 million compared to last year’s 1.36 million, official data showed.
-
-“This performance highlights the sector’s growing momentum and underpins optimism about its long-term outlook,” CT Smith Securities said in its latest forecast.
-
-...
-
-[Data](articles/1ab07a20.json)
-
-[Extended Data](ext_articles/1ab07a20.ext.json)
-
----
-
-### US Embassy in Sri Lanka
-
-*2025-09-16 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225254) · `ta`
-
-From September 8 to 10, the US Embassy in Colombo conducted a special workshop by the US Trade Department's Trade Law Development Program (CLDP) in Sri Lanka, a special workshop that united legal experts from the Sri Lanka Ports Authority and the Attorney General's Department.
-
-The event was aimed at strengthening Sri Lanka's efficiency in the Port Law and State-Personnel Partnerships (PPPS) and focused on transparency, accountability and protection of public interest, and included a technical training on law and permit law that manages how contracts between governments and private companies are built.. This effort, which promotes reasonable and open business practices, ensures that future infrastructure programs provide long -term benefits to the Sri Lankan people, reflecting the US's commitment to helping strong companies in Sri Lanka.
-
-...
-
-[Data](articles/38ee3180.json)
-
-[Extended Data](ext_articles/38ee3180.ext.json)
-
----
-
-### Newspaper published in the liquidation of Ceylon Fisheries Corporation
-
-*2025-09-16 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214645) · `si`
-
-Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar said that the Oluvil Port can be used after a new feasibility study.
-
-The comment on the matter was commented on the Fisheries, Aquatic Resources and Marine Resources Advisory Committee on the 9th of the occasion.
-
-Fisheries, Aquatic and Ocean Resources Deputy Minister Ratna Gamage was also present at the occasion.
-
-At the meeting, the operation of the Oluvil Fisheries Harbor was lengthy.
-
-The Minister stated that new feasibility studies are conducted to correct the damage caused by the Oluvil Port without proper studies.
-
-In addition, the Fisheries Harbor in Walachchenai has been planned to be a wide range of fishing harbor to meet the needs of the Eastern Province.
-
-Opposition Leader Sajith Premadasa has inquired about the truth of the records that have been included in the list of government agencies to liberate the Ceylon Institute of Fisheries Corporation.
-
-The Deputy Minister said that those reports were not true.
-
-...
-
-[Data](articles/ac458966.json)
-
-[Extended Data](ext_articles/ac458966.ext.json)
-
----
-
-### President's visit to Japan. Starts on the 26th
-
-*2025-09-16 17:04:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-ජපන්-සංචාරය-සැප්--26-දා-ඇරඹෙයි/11-418539) · `si`
-
-Japan begins on the 26th of this visit to Anura Kumara Dissanayake. President is due to join the Japan Expo exhibition. The President joins the visit on an invitation of the Government of Japan.
-
-◼️
-
-[Data](articles/c0e7e59d.json)
-
-[Extended Data](ext_articles/c0e7e59d.ext.json)
-
----
-
-### 2 years of sexual harassment for a 16 -year -old boy: 14 people suit
-
-*2025-09-16 17:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுவனுக்கு-2-ஆண்டுகளாக-பாலியல்-வன்கொடுமை-14-பேர்-மீது-வழக்கு/175-364713) · `ta`
-
-A 16 -year -old boy has been prosecuted for two years and has been prosecuted for allegedly sexually abusing.
-
-A 16 -year -old boy who used a dating processor in Kerala has been shocked by the incident of sexual abuse by many people.. 16 people have been charged in this regard.
-
-A 16 -year -old boy in Kerala seems to be interested in using social networks. The boy was then accustomed to some of the dating processor. Using this, they have summoned the company and sexually abused. For the past 2 years, they have been sexually harassed by the boy.
-
-The boy's mother found the incident and reports to the police. A committee was set up to find out those who sexually harassed the boy. Investigations carried out by the police revealed that the boy was raped by many people from Kasargod, Kannur and Kozhikode districts.
-
-...
-
-[Data](articles/73c50e12.json)
-
-[Extended Data](ext_articles/73c50e12.ext.json)
 
 ---

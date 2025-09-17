@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 00:52:49**
+As of **2025-09-18 01:06:14**
 
 ## Newspaper Stats
 
@@ -817,6 +817,28 @@ Dr. Nishantha Samaraweera was the Chairman of the Committee to check on the Audi
 [Data](articles/09a09dd2.json)
 
 [Extended Data](ext_articles/09a09dd2.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-09-17 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240902/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.96/302.00 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.55/60 percent.
+
+A bond maturing on 15.12.2032 closed at 10.40/49 percent, up from 10.38/45 percent.
+
+◼️
+
+[Data](articles/c066a143.json)
+
+[Extended Data](ext_articles/c066a143.ext.json)
 
 ---
 
@@ -2029,27 +2051,5 @@ The court banned the defendants from going abroad and ordered them to hand over 
 [Data](articles/027fb54f.json)
 
 [Extended Data](ext_articles/027fb54f.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-17 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240902/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.96/302.00 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed flat at 9.55/60 percent.
-
-A bond maturing on 15.12.2032 closed at 10.40/49 percent, up from 10.38/45 percent.
-
-◼️
-
-[Data](articles/c066a143.json)
-
-[Extended Data](ext_articles/c066a143.ext.json)
 
 ---

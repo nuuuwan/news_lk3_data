@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 13:40:07**
+As of **2025-09-17 14:22:52**
 
 ## Newspaper Stats
 
-*Scraped **76,497** Articles*
+*Scraped **76,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,145 @@ economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,430
+adalk | 7,431
 adaderanalk | 9,862
-tamilmirrorlk | 11,463
+tamilmirrorlk | 11,464
 virakesarilk | 12,458
-adaderanasinhalalk | 13,343
+adaderanasinhalalk | 13,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,693 (96.3%) of 76,497 articles have been extended.
+73,702 (96.3%) of 76,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### සම්පත් මනම්පේරී අධිකරණයට භාරවෙයි
+### சம்பத் மனம்பேரி நீதிமன்றில் சரண்
+
+*2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
+
+மித்தெனிய பகுதியில் "ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு இரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் தேடப்பட்டு வந்த சம்பத் மனம்பேரி வலஸ்முல்ல நீதவான் நீதிமன்றத்தில் இன்று (17) சரணடைந்தார்.
+
+◼️
+
+[Data](articles/c9db1bce.json)
+
+---
+
+### අධිවේගී මාර්ග සංවර්ධන සැලැස්ම ඇමති හෙළිකරයි
+
+*2025-09-17 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214672) · `si`
+
+2028 වර්ෂය වන විට කඩවත සිට මීරිගම දක්වා වූ අධිවේගී මාර්ගය සාදා නිමකිරීමට පෙර පොතුහැර සිට රඹුක්ක දක්වා වූ අධිවේගී මාර්ගයේ වැඩකටයුතු සම්පූර්ණ කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය බිමල් රත්නායක පවසයි.
+
+මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතියේ කඩවත සිට මීරිගම දක්වා වූ කොටසේ යළි ඉදිකිරීම් ආරම්භ කිරීමේ සමාරම්භක උත්සවයට එක්වෙමින් අමාත්‍යවරයා කියා සිටියේ, කඩවත සිට මීරිගම දක්වා වූ කොටසේ ඉදිකිරීම් 2028 වන විට මාස 32ක කාලයකින් අවසන් කිරීමට බලාපොරොත්තු වන බවය.
+
+ඒ අනුව පොතුහැර සිට රඹුක්ක දක්වා වූ කොටසෙහි ඉදිකිරීම් 2028 අප්‍රේල් මස සිංහල දෙමළ අලුත් අවුරුද්දට පෙර නිමකරන බවත් රඹුක්කන ආශ්‍රිත සෙසු මාර්ග ද ඒ අනුව සංවර්ධනය කරන බවත්ය.
+
+"ඊළගට අපි බලාපොරොත්තු වෙනවා බොහෝ දුරට මේ වසර තුළදී අපිට අනුමැතිය ලැබෙයි කියලා රඹුක්කන ඉඳලා ගලගෙදර දක්වා අධිවේගී මාර්ගය ඉදිකිරීම් කටයුතු පටන් ගන්න.මේ වෙනකොට අපි RD එක පැත්තෙන් ඊට අදාළ සියලුම ඩිසයින් ඊට අදාළ දේවල් පටන් අරගෙන සැලසුම් කරගෙන තිබෙන නිසා.
+
+...
+
+[Data](articles/7e405803.json)
+
+---
+
+### Sri Lanka becomes a state partner in Ocean Law
+
+*2025-09-17 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214671) · `si`
+
+The Ministry of External Affairs and the United Nations informed the United Nations yesterday (16), the United Nations Forecasting of the United Nations Forecasting of the United Nations Conference on Marine Law on the United Nations Convention on Surgery Law on the United Nations Party on Sustainable Liability.
+
+The Ministry has informed the Ministry of Reconciliation and sustainability of marine biodiversity arrangements on the area.
+
+It also said that Sri Lanka played an important role in international control, including the leadership given to the United Nations Convention (Unclos) in 1982.
+
+Sri Lanka is actively active in agreement agreements on areas of co-ordinating and sustainable use in areas from the beginning.
+
+As a developing country, Sri Lanka is proud to be a partner in this historic passage of the internationally identifying maritime resources for the benefit of mitigation for the benefit of humanity.
+
+...
+
+[Data](articles/8cd16fd4.json)
+
+[Extended Data](ext_articles/8cd16fd4.ext.json)
+
+---
+
+### Resources surrendered to Manampean Court
 
 *2025-09-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214670) · `si`
 
-අත්අඩංගුවට ගැනීමට අවශ්‍යව සිටින සම්පත් මනම්පේරි නමැත්තා වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණයට අද (17) භාරවී ඇතැයි වාර්තා වේ.
+It is reported that Sampath Manamperi has surrendered to the Walasmulla Magistrate's Court today (17).
 
 ◼️
 
 [Data](articles/1641dece.json)
 
+[Extended Data](ext_articles/1641dece.ext.json)
+
 ---
 
-### බැකෝ සමන් සහ තැඹිලි ළහිරු අධිකරණයට රැගෙන එයි
+### Some MPs have visited criminals homes
+
+*2025-09-17 13:05:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-මන්ත්‍රීවරු-අපරාධකරුවන්ගේ-නිවෙස්වලට-ගොස්-මුදල්-ලබාගෙන-තිබෙනවා/11-418551) · `si`
+
+President Anura Kumara Dissanayake said that some MPs have taken money to organized criminals to their homes.
+
+However, he said the government was working to end the criminal state and the organized criminals have been arrested about 50 percent of the drug network.
+
+"After the economy collapsed, a decade has been declared. We can reduce this in a decade of decades. We book the money from the next budget. We will now build the country like no crisis in Sri Lanka. It is not enough to develop infrastructure. It's just one aspect.
+
+We must confirm the rule of law. The Harriers of the Shark survived had a centered law.
+
+Law is near to places where no one is not approaching the law. For what force
+
+Can't turn it back. We all need to subdue the law to create a steady state.
+
+A black state has been created as a state of organized criminal criminal.
+
+This underlying state we will be concluded. The people who are currently arrested are drugs in our country
+
+...
+
+[Data](articles/822adc58.json)
+
+[Extended Data](ext_articles/822adc58.ext.json)
+
+---
+
+### Baco Saman and Orange lead to Lahiru court
 
 *2025-09-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214669) · `si`
 
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන විත් සිටින ප්‍රබල පාතාල කල්ලි නායකයින් දෙදෙනෙකු බව කියන "බැකෝ සමන්" සහ "තැඹිලි ළහිරු" යන වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
-
-ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ ඔවුන් දෙදෙනාව රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පසුගිය දා දැනුම් දී තිබුණි.
-
-ගණේමුල්ල සංජීව ඝාතනය ඇතුළු මිනිස් ඝාතන රැසකට සහ මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ සංවිධානාත්මක අපරාධ කල්ලි නායකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05 දෙනෙකු පසුගිය දා ඉන්දුනීසියාවේදී අත්අඩංගුවට පත්වුණි.
-
-ශ්‍රී ලංකා පොලීසියේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ විශේෂ මෙහෙයුමකදී මොවුන්ව අත්අඩංගුවට ගෙන තිබුණි.
+Two major underworld gangs, who was arrested in Indonesia, was produced before the Walasmulla Magistrate's Court.
 
 ◼️
 
 [Data](articles/044d2be5.json)
 
+[Extended Data](ext_articles/044d2be5.ext.json)
+
 ---
 
-### கெஹெலியவுக்கு எதிரான குற்றப்பத்திரிக்கை லொறியில் வந்தது
+### Criminal Center against Keheliya came in the lorry
 
 *2025-09-17 12:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவுக்கு-எதிரான-குற்றப்பத்திரிக்கை-லொறியில்-வந்தது/175-364762) · `ta`
 
-தரக்குறைவான மருந்து வழக்கு தொடர்பாக   குற்றஞ்சாட்டப்பட்ட முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட பிரதிவாதிகளை பிணையில் விடுவிக்க கொழும்பு உயர் நீதிமன்றத்தின் மூன்று நீதிபதிகள் கொண்ட அமர்வு செவ்வாய்க்கிழமை (16) உத்தரவிட்டது.
+The Colombo High Court on Tuesday (16) ordered the release of defendants, including former minister Keheliya Rambukwella, who was accused of substandard drug case, on Tuesday.
 
-ஒவ்வொரு பிரதிவாதியும் ரூ. 500,000 ரொக்கப் பிணையிலும் தலா ரூ. 5 மில்லியன் மதிப்புள்ள இரண்டு பிணைப் பத்திரங்களிலும் விடுவிக்க உத்தரவிடப்பட்டது.
+ஒவ்வொரு பிரதிவாதியும் ரூ. 500,000 cash bail. He was ordered to be released in two bonds worth Rs 5 million.
 
-பிரதிவாதிகள் வெளிநாடு செல்வதைத் தடை செய்த நீதிமன்றம், அவர்களின் கடவுச்சீட்டுகளை நீதிமன்றத்தில் ஒப்படைக்கவும் உத்தரவிட்டது.
+The court banned the defendants from going abroad and ordered them to hand over their passports to the court.
 
 ◼️
 
 [Data](articles/027fb54f.json)
+
+[Extended Data](ext_articles/027fb54f.ext.json)
 
 ---
 
@@ -98,21 +178,25 @@ It is possible to have a maximum of Rs.
 
 ---
 
-### මත්ද්‍රව්‍ය දඹුල්ලට ව්‍යසනයක් වෙලා
+### A disaster for Dambulla
 
 *2025-09-17 12:44:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-දඹුල්ලට-ව්‍යසනයක්-වෙලා/11-418550) · `si`
 
-දඹුල්ල නගරය ගංජා ,අයිස්, හෙරොයින් මත්ද්‍රව්‍ය ව්‍යසනයක් බවට පත්ව ඇති නිසා වහාම දඹුල්ල නගරය විනයගරුක නීතිගරුක මතින් තොර දඹුල්ලක් ඇති කිරීම සඳහා පොලිසියේ සහ ජනතාවගේ සහයෝගය අවශ්‍යව බව දඹුල්ල නගරාධිපතී වසන්ත කේ රාජමන්ත්‍රී මහතා සඳහන් කළේය.
+Dambulla Mayor Wasantha Police stated that Dambulla canteen is needed to establish a disciplinary law without disciplinary legalistic in Dambulla.
 
-දඹුල්ල මහ නගර සභාව පොහොසත් රටක් ලස්සන ජීවිතයක් පුනරුදයේ පුරවර පළාත් පාලන සතිය වැඩසටහන ආරම්භ කරමින් මේ බව සඳහන් කළේය.මෙහි සමාරම්භක උත්සවය දඹුල්ල බස් නැවතුම්පල භූමියේදී පැවැත්විණි.
+The Dambulla Municipal Council was started by a beautiful country in a beautiful life. The inauguration ceremony was held at the Dambulla bus stands.
 
-ආරම්භක උත්සවයට එක්වෙමින් දඹුල්ල නගරාධිපති වසන්ත කේ රාජමන්ත්‍රී මහතා සඳහන් කළේ මෙවන විට  බලයට පත්වීමට පෙර රජය ලබා දුන් විනීත නීති  ගරුක මතින් තොර රටක් යන සංකල්පය  නිසි ලෙස ක්‍රියාත්මක නොවීම නිසා ජනතාව ඒ පිළිබඳව කරුණු විමසන බවය. එම නිසා සුගිය කාලයේ ඒවා ක්‍රියාත්මක කිරීමට නොහැකි වීම නිසාවෙන් විවිධ ප්‍රශ්න ගැටලු මත වූ බවත් සඳහන් කළේය
+Dambithulla Mayor Wasantha Kianmayanthi stated that the concept of the imperative country who was given to the government before he was brought to power was not properly implemented by the people.. Therefore, it was not possible to implement them in the time of the time they were not able to implement various problems.
 
-කෙසේ වෙතත් නව මූලස්ථාන පොලිස් පරීක්ෂකවරයාගේ පැමිණීමත් සමග දඹුල්ල නගරය මතින් තොර විනීත නීතිගරුක නගරයක් බවට පරිවර්තනය කිරීම සඳහා සහයෝගය අවැසි බව පෙන්වා දුන්නේය
+However, with the arrival of the new headquarters police inspector, it pointed out that it would be supported to transform Dambulla to a city free
+
+"We are a promise to the people that drugs are eliminating this drug racket. Now when we go to a village, the village mothers, especially the children, ask us why they are still working. We had a problem recently.
 
 ...
 
 [Data](articles/a84a0c41.json)
+
+[Extended Data](ext_articles/a84a0c41.ext.json)
 
 ---
 
@@ -880,17 +964,21 @@ The National Water Supply and Drainage Board stated that the water cut will be i
 
 ---
 
-### දුටුගැමුණු කුමරු දිය නෑ රණමුනේ පිහිල්ල
+### Prince Dutugemunu did not water
 
 *2025-09-17 09:39:13* · [`adalk`](https://www.ada.lk/opinion/දුටුගැමුණු-කුමරු-දිය-නෑ-රණමුනේ-පිහිල්ල/2-418549) · `si`
 
-කොත්මලේ  යනු මෙරට ඉතිහාසයේ ගැඹුරින් කාවැදුණු කිසිදාක නොමැකෙන  සිහිවටන රැසකින් සමන්විත වූ අතිශය මනරම් වූ ඵෙතිහාසික පුරවරයකි. ඉපැරණි සිදුවීම් රැසකින් පොහොසත් වූ කොත්මලේ පුරවරය මනරම්  කඳු රැසකින් වට වූ ඉතාමත් ආරක්ෂාකාරී මෙන්ම සුන්දර  භූමි භාගයකින් සැදුම්ලත් අව්‍යාජ ගැමියන් ජීවත් වන ඵෙතිහාසික ගම්මාන රැසකින් සමන්විත ප්‍රදේශයකි.
+Kotmale is a very contemporary conqueror that immigrated in the history of Sri Lanka's history. The city in Kotmale, which has been rich in ancient events, is an area of ​​many historical villages living in a large number of mountains.
 
-එවන් අසිරිමත් පුරවරයක පිහිටි රණමුනේ පිහිල්ල යනු කොත්මලේ, මාවෙල නගරය සමීපයේ පිහිටි මෙරට වටිනාකමකින් යුත් තවත් එක් සුවිශේෂිත  ස්ථානයකි. ශ්‍රී ලංකාවේ ඉතිහාසය සහ සංස්කෘතික උරුමයේ තවත් එක් සුවිශේෂිත කඩ ඉමක් ලෙස රණමුනේ පිහිල්ල හැදින්විය හැක. මෙම ඉපැරණි පිහිල්ල දුටුගැමුණු රජුගේ පාලන සමය වන එනම් ක්‍රිස්තු පූර්ව 137ත්- 161ත්  අතර කාල සීමාවටත් පෙර සිට පැවත එන ඵෙතිහාසික ජල පිහිල්ලක් ලෙස හැදින්වේ.
+Ranamuna Knife is one of the most unique places in Sri Lanka close to Kothmale and Mawatha. Maramamane police can be known as one of the most unique string of Sri Lanka's history and cultural heritage. The ancient strike was known as the reign of King Dutugemunu, which was between 137 and 161 BCE.
+
+Managamon knife with a natural source of the mannels of the year is a wonderful knife flowing into the most clean water with a cold. The Mawawela Kazi says that the water will not dry up. The villagers are using the villages in the Mawatha for Daughter and laundry. Two water knife have been created for females for the girls to bath it. The knife has been built with large black stone carts with natural water source.
 
 ...
 
 [Data](articles/429578d3.json)
+
+[Extended Data](ext_articles/429578d3.ext.json)
 
 ---
 
@@ -1961,87 +2049,5 @@ He said that we must continue to insist on an independent investigation to move 
 [Data](articles/baac775c.json)
 
 [Extended Data](ext_articles/baac775c.ext.json)
-
----
-
-### Sri Lanka car registrations fall in Aug, crossovers, trishaws up
-
-*2025-09-17 04:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-car-registrations-fall-in-aug-crossovers-trishaws-up-240839/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s vehicle registrations grew to 38,240 units in August 2025, from 35,232 units a month earlier, driven by higher volumes of trishaws, motobikes and SUV/crossovers, an analysis of motor vehicle registry data shows.
-
-Three-wheeler registrations rose to 2,497 units in August from 454 in July, while two wheelers rose to 27,585 units from 26,171 units.
-
-“Motor car registrations declined to 2,329 units in August, down from 2,748 units in July,” JB Securities, a Colombo-based brokerage said in analysis of vehicle registry data.
-
-“Pre-owned registrations fell to 1,772 units in August from 2,309 in July.”
-
-In brand new cars, BYDs increased to 354 units up from 244 units the previous month – the main contributor being Dolphin accounting for 307 units.
-
-SUV and crossover registration grew to 3,808 units in August up from 3,299 in July. Brand-new vehicles accounted for 1,866 units, while pre-owned made up 1,940 units.
-
-...
-
-[Data](articles/f5d27ad3.json)
-
-[Extended Data](ext_articles/f5d27ad3.ext.json)
-
----
-
-### New Motion on Sri Lanka: Britain rejected China and Pakistan's request
-
-*2025-09-17 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225270) · `ta`
-
-Britain has rejected the request of China and Pakistan to repeat the project to raise evidence on the violations of Sri Lanka during an unofficial discussion on Sri Lanka's new resolution on Sri Lanka by the British -led internet -led internet countries.
-
-The Sri Lankan representative commented that there was no ethnic problem in the country, but that there was a terrorist confrontation and that there was no need for special mechanisms to resolve it.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. At the inaugural session, a written report on Sri Lanka was submitted by High Commissioner Volcker Darek and subsequently debated on the report.
-
-Meanwhile, as the 57 -F -1 resolution of the Sri Lankan council has already been completed, it has been announced that a new proposal will be submitted by the Internet countries in this session.
-
-...
-
-[Data](articles/3db72529.json)
-
-[Extended Data](ext_articles/3db72529.ext.json)
-
----
-
-### Nepal, Indonesia, Bangladesh, Sri Lankan people's uprisings are alert - Manohanesan
-
-*2025-09-17 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225269) · `ta`
-
-People's uprisings in Nepal, Indonesia, Bangladesh and Sri Lanka are not unusual. On the contrary, Manohanesan, the leader of the Tamil Progressive Alliance and Member of Parliament, pointed out that they are a warnings to show the effect of inequality.
-
-Following the 'Arakalaya' people's uprising in Sri Lanka, Manohanesan, in his official X site, cited the article written to an Indian media in India, Milinda Moragoda, a former Sri Lankan high -ranking Indian media in Bangladesh and Indonesia and recently formed in Nepal.
-
-“People's upheavals in Nepal, Indonesia, Bangladesh and Sri Lanka are not unusual. Instead, they are warnings, ”said Manohanesan.
-
-He also mentioned that the upheavals show what would happen when the inequality prevails, the chances of being lost and the hope of losing their confidence, but also pointed out that they are the point of the solution.
-
-◼️
-
-[Data](articles/88eaa8eb.json)
-
-[Extended Data](ext_articles/88eaa8eb.ext.json)
-
----
-
-### Bangladesh beat Afghanistan by 8 runs
-
-*2025-09-17 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225268) · `ta`
-
-Bangladesh won the Asian Cup match in Abu Dhabi by 8 runs by 8 runs.
-
-Bangladesh scored 154 runs for the loss of 5 wickets in 20 overs.
-
-In response, Afghanistan lost only 146 runs, unable to cope with the Bangladesh team's fast bowlers.
-
-◼️
-
-[Data](articles/88037305.json)
-
-[Extended Data](ext_articles/88037305.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 20:08:19**
+As of **2025-09-17 20:20:56**
 
 ## Newspaper Stats
 
-*Scraped **76,577** Articles*
+*Scraped **76,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,441
 adaderanalk | 9,879
-tamilmirrorlk | 11,487
+tamilmirrorlk | 11,488
 virakesarilk | 12,462
-adaderanasinhalalk | 13,358
+adaderanasinhalalk | 13,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,803 (96.4%) of 76,577 articles have been extended.
+73,805 (96.4%) of 76,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### ”பெற்றோலிய ஆய்வுகளை அரசாங்கம் தொடங்கும்”
+
+*2025-09-17 19:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-ஆய்வுகளை-அரசாங்கம்-தொடங்கும்/175-364795) · `ta`
+
+விஞ்ஞானிகள் மற்றும் துறை நிபுணர்களின் உதவியுடன் அரசாங்கம் பெட்ரோலிய ஆய்வைத் தொடங்கும் என்று ஜனாதிபதி அனுர குமார திசாநாயக்க இன்று தெரிவித்தார்.
+
+கொலன்னாவை பெற்றோலிய சேமிப்பு வளாகத்தில் ஆறு கூடுதல் எண்ணெய் சேமிப்பு தொட்டிகளின் கட்டுமானப் பணிகளை இன்று தொடங்கி வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+பெட்ரோலிய ஆய்வில் விஞ்ஞானிகளும் நிபுணர்களும் ஏற்கனவே தன்னார்வத் தொண்டு செய்துள்ளனர் என்று அவர் கூறினார்.
+
+"எங்கள் மக்கள் பெரும்பாலும் தேர்தல் காலங்களில் மட்டுமே எண்ணெய் இருப்பு பற்றிய கதைகளைக் கேட்கிறார்கள். முதல் போத்தல் கச்சா எண்ணெய் 1970 தேர்தலின் போது காட்டப்பட்டது. தற்போது, ​​நாங்கள் நிபுணர்களை நம்பி அவர்களிடம் பொறுப்பை ஒப்படைக்கிறோம், அதே நேரத்தில் அரசாங்கம் தேவையான வசதிகளை மட்டுமே வழங்குகிறது," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/68cef5b9.json)
+
+---
 
 ### தாமதித்த பின்னர் ஹொட்டலிலிருந்து புறப்பட்ட பாகிஸ்தான்
 
@@ -61,6 +79,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1ca93165.json)
+
+---
+
+### ඉන්දු - පාකිස්තාන සටනේ අතට අත දීමේ මතභේදය ඔඩු දුවයි
+
+*2025-09-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214687) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ එක්සත් අරාබි එමීර් රාජ්‍යයට එරෙහිව අද (17) පැවැත්වෙන තරගය, පාකිස්තාන කණ්ඩායම ක්‍රීඩාකිරීම අවිනිශ්චිත බව වාර්තා වේ.
+
+ඉන්දියාවට එරෙහිව පැවති තරගයේ දී මතභේදයට තුඩුදුන් අතට අත නොදීමේ සිදුවීම පාකිස්තානයේ මෙම තීරණයට බලපා ඇති බවය.
+
+පාකිස්තාන කණ්ඩායමේ තීරණය වී තිබුණේ ඉන්දියාවට එරෙහි තරගයේ තරගතීරක ලෙසින් කටයුතු කළ සිම්බාබ්වේ ජාතික ඇන්ඩි පයික්‍රොෆ්ට් මෙම තරගාවලියෙන් ඉවත්කළ යුතු බවය.
+
+පාකිස්තානය චෝදනාකරන්නේ එම තරගයේ දී ඉන්දීය කණ්ඩායම අතට අත නොදී සිටීමට එරෙහිව ඔහු ඉන්දියාවට එරෙහිව විනය ක්‍රියාමාර්ග නොගත් බවය.
+
+ඒ හේතුවෙන් ඔහු තරගාවලියෙන් ඉවත් නොකරන්නේ නම් තමන් තරගාවලියෙන් ඉවත්වන බවට පාකිස්තානය අනතුරු අඟවා තිබුණි.
+
+කෙසේ නමුත් ඇන්ඩි පයික්‍රොෆ්ට් තරගාවලියෙන් ඉවත්කිරීමේ තීරණයක් මෙතෙක් ආසියානු ක්‍රිකට් කවුන්සිලය ගෙන නොමැති අතර, ඔහු අද තරගයේ ද තරගතීරක ලෙසින් කටයුතු කරනු ලබයි.
+
+ඒ අනුව පාකිස්තාන කණ්ඩායම අද පස්වරුව වනවිටත් ඔවුන් රැඳී සිටි හෝටලයේම රැඳි සිටි බව වාර්තා වේ.
+
+...
+
+[Data](articles/57ad3185.json)
 
 ---
 
@@ -1991,59 +2033,5 @@ In light of this, the NWSDB has urged the public to make prior arrangements and 
 [Data](articles/85a113db.json)
 
 [Extended Data](ext_articles/85a113db.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-17 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240875/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 301.97/302.02 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields were somewhat steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.02/10 percent.
-
-A bond maturing on 15.10.2032 was quoted at 10.45/50 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.78/82 percent.
-
-An auction of Rs. 75,000 million Treasury bills was ongoing.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 406.2882 buying, and 417.6500 selling, and the euro was 351.6783 buying, 363.0415 selling.
-
-...
-
-[Data](articles/d5e56f93.json)
-
-[Extended Data](ext_articles/d5e56f93.ext.json)
-
----
-
-### At the Meat Shop, Nakkal satire
-
-*2025-09-17 11:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறைச்சி-கடையில்-நக்கல்-நையாண்டி/76-364752) · `ta`
-
-It is reported that the owner and employees of a meat outlets in Hatton are being treated with customers.
-
-Meat is sold here in some varieties of meat mixed with separate meat. However, it is revealed that the meat is not properly classified as the customers' needs.
-
-They sell the name of separate meat. Similarly, customers say that the meat that is sold with arise can arise at a higher rate and there is very little meat.
-
-People living in the gardens are said to be the customers of the outlet and that they are negligent and if they talk about it, they are poor.
-
-"Hatton Beef Store does not have any respect and respect for customers. There is no proper answer when asked about meat.
-
-Therefore, the public is appealing to the consumer protection authorities to take legal action.
-
-◼️
-
-[Data](articles/295d1a86.json)
-
-[Extended Data](ext_articles/295d1a86.ext.json)
 
 ---

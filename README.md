@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 12:24:37**
+As of **2025-09-17 13:40:07**
 
 ## Newspaper Stats
 
-*Scraped **76,486** Articles*
+*Scraped **76,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,137 +16,333 @@ economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,428
-adaderanalk | 9,861
-tamilmirrorlk | 11,458
+adalk | 7,430
+adaderanalk | 9,862
+tamilmirrorlk | 11,463
 virakesarilk | 12,458
-adaderanasinhalalk | 13,340
+adaderanasinhalalk | 13,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,668 (96.3%) of 76,486 articles have been extended.
+73,693 (96.3%) of 76,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### 'කොදු සිඳගත් ජාතියකට දියුණු ජාතියක් වෙන්න බෑ...' රාජ්‍ය සේවකයින්ටත් ජනපතිගෙන් අනතුරු ඇඟවීමක්
+### සම්පත් මනම්පේරී අධිකරණයට භාරවෙයි
+
+*2025-09-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214670) · `si`
+
+අත්අඩංගුවට ගැනීමට අවශ්‍යව සිටින සම්පත් මනම්පේරි නමැත්තා වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණයට අද (17) භාරවී ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/1641dece.json)
+
+---
+
+### බැකෝ සමන් සහ තැඹිලි ළහිරු අධිකරණයට රැගෙන එයි
+
+*2025-09-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214669) · `si`
+
+ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන විත් සිටින ප්‍රබල පාතාල කල්ලි නායකයින් දෙදෙනෙකු බව කියන "බැකෝ සමන්" සහ "තැඹිලි ළහිරු" යන වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+
+ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ ඔවුන් දෙදෙනාව රඳවාගෙන ප්‍රශ්න කරන බව බස්නාහිර උතුර අපරාධ විමර්ශන කොට්ඨාසය කොළඹ මහෙස්ත්‍රාත් අධිකරණයට පසුගිය දා දැනුම් දී තිබුණි.
+
+ගණේමුල්ල සංජීව ඝාතනය ඇතුළු මිනිස් ඝාතන රැසකට සහ මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ සංවිධානාත්මක අපරාධ කල්ලි නායකයින් වන කෙහෙල්බද්දර පද්මේ ඇතුළු 05 දෙනෙකු පසුගිය දා ඉන්දුනීසියාවේදී අත්අඩංගුවට පත්වුණි.
+
+ශ්‍රී ලංකා පොලීසියේ විශේෂ කණ්ඩායමක් සහ ජකර්තා පොලීසිය ඒකාබද්ධව සිදුකළ විශේෂ මෙහෙයුමකදී මොවුන්ව අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/044d2be5.json)
+
+---
+
+### கெஹெலியவுக்கு எதிரான குற்றப்பத்திரிக்கை லொறியில் வந்தது
+
+*2025-09-17 12:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவுக்கு-எதிரான-குற்றப்பத்திரிக்கை-லொறியில்-வந்தது/175-364762) · `ta`
+
+தரக்குறைவான மருந்து வழக்கு தொடர்பாக   குற்றஞ்சாட்டப்பட்ட முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல்ல உள்ளிட்ட பிரதிவாதிகளை பிணையில் விடுவிக்க கொழும்பு உயர் நீதிமன்றத்தின் மூன்று நீதிபதிகள் கொண்ட அமர்வு செவ்வாய்க்கிழமை (16) உத்தரவிட்டது.
+
+ஒவ்வொரு பிரதிவாதியும் ரூ. 500,000 ரொக்கப் பிணையிலும் தலா ரூ. 5 மில்லியன் மதிப்புள்ள இரண்டு பிணைப் பத்திரங்களிலும் விடுவிக்க உத்தரவிடப்பட்டது.
+
+பிரதிவாதிகள் வெளிநாடு செல்வதைத் தடை செய்த நீதிமன்றம், அவர்களின் கடவுச்சீட்டுகளை நீதிமன்றத்தில் ஒப்படைக்கவும் உத்தரவிட்டது.
+
+◼️
+
+[Data](articles/027fb54f.json)
+
+---
+
+### Special insurance scheme for yellow and ginger cultivation
+
+*2025-09-17 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214668) · `si`
+
+A special insurance scheme has been launched to commercial and exporting a special insurance scheme for cultivated and rich and ginger cultivation, says the Agriculture and Agrarian Insurance Board.
+
+Chairman of the Pemasiri Jasinghearachchi said the farmer was able to obtain an insurance cover to Rs. 200,000 per acre per acre.
+
+It is said that the payment of a 7 percent insurance premium is capable of obtaining natural disasters, diseases, pests and wild elephants.
+
+It is possible to have a maximum of Rs.
+
+◼️
+
+[Data](articles/91918115.json)
+
+[Extended Data](ext_articles/91918115.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය දඹුල්ලට ව්‍යසනයක් වෙලා
+
+*2025-09-17 12:44:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-දඹුල්ලට-ව්‍යසනයක්-වෙලා/11-418550) · `si`
+
+දඹුල්ල නගරය ගංජා ,අයිස්, හෙරොයින් මත්ද්‍රව්‍ය ව්‍යසනයක් බවට පත්ව ඇති නිසා වහාම දඹුල්ල නගරය විනයගරුක නීතිගරුක මතින් තොර දඹුල්ලක් ඇති කිරීම සඳහා පොලිසියේ සහ ජනතාවගේ සහයෝගය අවශ්‍යව බව දඹුල්ල නගරාධිපතී වසන්ත කේ රාජමන්ත්‍රී මහතා සඳහන් කළේය.
+
+දඹුල්ල මහ නගර සභාව පොහොසත් රටක් ලස්සන ජීවිතයක් පුනරුදයේ පුරවර පළාත් පාලන සතිය වැඩසටහන ආරම්භ කරමින් මේ බව සඳහන් කළේය.මෙහි සමාරම්භක උත්සවය දඹුල්ල බස් නැවතුම්පල භූමියේදී පැවැත්විණි.
+
+ආරම්භක උත්සවයට එක්වෙමින් දඹුල්ල නගරාධිපති වසන්ත කේ රාජමන්ත්‍රී මහතා සඳහන් කළේ මෙවන විට  බලයට පත්වීමට පෙර රජය ලබා දුන් විනීත නීති  ගරුක මතින් තොර රටක් යන සංකල්පය  නිසි ලෙස ක්‍රියාත්මක නොවීම නිසා ජනතාව ඒ පිළිබඳව කරුණු විමසන බවය. එම නිසා සුගිය කාලයේ ඒවා ක්‍රියාත්මක කිරීමට නොහැකි වීම නිසාවෙන් විවිධ ප්‍රශ්න ගැටලු මත වූ බවත් සඳහන් කළේය
+
+කෙසේ වෙතත් නව මූලස්ථාන පොලිස් පරීක්ෂකවරයාගේ පැමිණීමත් සමග දඹුල්ල නගරය මතින් තොර විනීත නීතිගරුක නගරයක් බවට පරිවර්තනය කිරීම සඳහා සහයෝගය අවැසි බව පෙන්වා දුන්නේය
+
+...
+
+[Data](articles/a84a0c41.json)
+
+---
+
+### Plan to construct a five -storey building for the Jaffna University at a cost of 2,234 million
+
+*2025-09-17 12:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்திற்கு-2-234-மில்லியன்-செலவில்-ஐந்து-மாடி-கட்டிடம்-அமைக்க-திட்டம்/175-364761) · `ta`
+
+The Cabinet has approved the construction of a five -storey building with modern facilities for the Jaffna University's Joint Health Science Faculty.
+
+The Cabinet approved the idea of ​​the Cabinet meeting headed by President Anura Kumara Dissanayake on May 16.
+
+In 2006, graduates were identified on the health science of the state universities and the Jaffna University's Medical Laboratory of the Jaffna University of Science, Drug Chemistry and Nurse was started.
+
+Currently, 952 students in four syllabuses are engaged in the course of the Faculty of Health Sciences at the University of Jaffna.
+
+Although the Cabinet has approved the construction of the building for the Faculty of Health in 2017, it has not been funded by the financial crisis.
+
+Accordingly, there are poor infrastructure deficits for the Jaffna University's Joint Health Science Faculty.
+
+...
+
+[Data](articles/1f08f840.json)
+
+[Extended Data](ext_articles/1f08f840.ext.json)
+
+---
+
+### Sri Lankan passport drops 6 spots in global rankings
+
+*2025-09-17 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112600/sri-lankan-passport-drops-6-spots-in-global-rankings) · `en`
+
+The Sri Lankan passport has dropped to 97th place in the latest Henley Passport Index 2025 Global Ranking, released on September 11, 2025.
+
+Earlier this year, Sri Lanka showed notable progress, climbing five spots from 96th to 91st place, marking an improvement from its 2024 ranking of 96th.
+
+However, in the latest update, the country has slipped to 97th—one place lower than its 2024 position—with a visa-free score of 41, compared to 42 destinations previously.
+
+Sri Lanka now shares the 97th position with Iran in the index, which features 105 rankings in total.
+
+The Henley Passport Index evaluates passports worldwide based on the number of destinations their holders can enter without a prior visa.
+
+In a global context, the U.S. passport has also fallen to 12th place, down two spots from its July ranking, marking its lowest position in the 20-year history of the index.
+
+...
+
+[Data](articles/ff41d2fa.json)
+
+[Extended Data](ext_articles/ff41d2fa.ext.json)
+
+---
+
+### Proclaiming controversy surrounding the Minister of Commerce
+
+*2025-09-17 12:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-அமைச்சரை-சூழும்-சொத்துப்-பிரகடன-சர்ச்சை/175-364760) · `ta`
+
+Vasantha Samarasinghe, Minister of Commerce, Commerce, Food Security and Co -operative Development, has been criticized on social media about his assets and responsibilities.
+
+Responding to records on social media that Samarasinghe has more than Rs.
+
+“I have some assets received from my family. I have been conducting educational classes since 1997, and after entering the university. 28 years ago, I started an educational institute in Tambuttegama and now I have built it as a three -storey building and rented it, ”he said.
+
+The Minister agreed that the gold, solar power systems and crypto coins stated on social media were also held.
+
+"My wife and I bought gold in 2006. Then a pound of gold. Was 6,000. My son, who was intelligent in the field of IT (Information Technology), opened a crypto account when we were at home during the time of Kovit, "he said.
+
+...
+
+[Data](articles/809f7f93.json)
+
+[Extended Data](ext_articles/809f7f93.ext.json)
+
+---
+
+### Seven people were killed in 7 accidents, including a 3 -year -old girl
+
+*2025-09-17 12:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-விபத்துகளில்-3-வயது-சிறுமி-உட்பட-ஏழு-பேர்-பலி/175-364759) · `ta`
+
+Seven people, including a 3 -year -old girl, died in seven road accidents on Tuesday (16) in different parts of the country.
+
+A 33 -year -old man from Murungan has died after a motorcycle driver lost control of his motorcycle and crashed into the road at the Nilamadu ramp on Murungan Chilawathurai road.
+
+A 36 -year -old man from Liyanagama has died when a van crashed into a bicycle near Embilipitiya city.. Van driver crashed into a three -wheeler again while fleeing with van. When they tried to escape the accident, the locals caught the suspect and handed it over to the police.
+
+A 60 -year -old man who was riding a motorcycle was killed when a lorry and motorcycle collided with a motorcycle on the Kukkulkattuwa road in Nochchiyagama.
+
+Peliyagoda-Colombo Kandy Dutch. In this, a 3 -year -old girl died in a three -wheeler. Another child, their mother, their three -wheeler driver and another man in the three -wheeler were injured in the accident.
+
+...
+
+[Data](articles/8a548e84.json)
+
+[Extended Data](ext_articles/8a548e84.ext.json)
+
+---
+
+### 'No more developed nation,' a warning to state employees
 
 *2025-09-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214667) · `si`
 
-2022 - 2023 ආර්ථික අර්බුදය සහ ඒ තුළින් ජනිත කළ සමාජ ඛේදවාචකය ඕපපාතික ක්‍රියාවක් නොවන බවත් ඒ හා බැඳුනු විශාල සාධක ගණනාවක් ඇති බවත් ජනාධිපතිවරයා පවසයි.
+2022 - 2023 The economic crisis and the social tragedy generated by the people who generated it is not an act of anti-deportion.
 
-යළි කෙදිනකවත් ශ්‍රී ලංකාවේ එවැනි අර්බුදයක් ඇති නොවන ලෙස රට ගොඩනඟන බවට ජනතාවට සහතික වන බව ද මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතියේ කඩවත සිට මීරිගම දක්වා වූ කොටසේ යළි ඉදිකිරීම් ආරම්භ කිරීමේ සමාරම්භක උත්සවයට එක්වෙමින් ජනාධිපතිවරයා කියා සිටියේය.
+The Civil Expressway will be able to re-build the country that the country will be rebuilt in Sri Lanka.
 
-ඉදිකිරීම්වලින් පමණක් රටක ආර්ථික ස්ථාවරභාවය නිර්මාණය නොවන බවත් පැති ගණනාවකින් එය තහවුරු කරමින් සිටින බවත් ජනාධිපතිවරයා මෙහිදී වැඩිදුරටත් කියා සිටියේය.
+The President also further stated that the economic steadyness of the country is not created by a country and is confirmed by a number of areas.
 
-එමෙන්ම සමස්ත ආර්ථිකය සහ ජන ජීවිතය විශාල කඩා වැටීමකට ලක්ව තිබු මොහොතක 2026 අයවැය තුළින් ආර්ථික අර්බුදය අවසන් කිරීමට සැලසුම් කරන බව ද ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේය.
+The President also further stated that the entire economy and life have been planned to end the economic crisis through the 2026 budget.
+
+"In particular, I urged the Chinese President especially on the visit to China.. The Chinese government agreed to start all those projects that have stopped focusing on special attention and to commence the necessary assistance. Thank you very thanks.
 
 ...
 
 [Data](articles/a6696f10.json)
 
+[Extended Data](ext_articles/a6696f10.ext.json)
+
 ---
 
-### இலங்கை பேருந்துகளில் விரைவில் பெண் ஓட்டுநர்கள்
+### Girl drivers soon on Sri Lankan buses
 
 *2025-09-17 11:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பேருந்துகளில்-விரைவில்-பெண்-ஓட்டுநர்கள்/175-364757) · `ta`
 
-இலங்கை போக்குவரத்து சபையின் (SLTB) பொது போக்குவரத்து சேவையில் பெண் ஓட்டுநர்கள் மற்றும் நடத்துனர்கள் விரைவில் சேர்க்கப்படுவார்கள் என்று போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+Transport Minister Bimal Ratnayake said that female drivers and conductors will be included in the Public Transport Service of the Sri Lanka Transport Board (SLTB).
 
-கொழும்பு மாவட்ட செயலகத்தில் நடைபெற்ற சிறப்பு நிகழ்ச்சியில் கலந்து கொண்ட அவர் செவ்வாய்க்கிழமை (16) இந்த அறிவிப்பை வெளியிட்டார்.
+He made the announcement on Tuesday (16) at a special event at the Colombo District Secretariat.
 
-மரியானா அகழியை விட ஆழமான ஆழத்தில் இலங்கை போக்குவரத்து சபை விழுந்துள்ளதாகவும், அதன் அழிவுக்கு அரசியல்வாதிகளே பொறுப்பு என்றும் அமைச்சர் ரத்நாயக்க கூறினார்.
+Minister Ratnayake said that the Sri Lanka Transport Board had fallen deeply than Mariana trench and that politicians were responsible for its destruction.
 
-இலங்கையில் உள்ள SLTB டிப்போக்கள் குறைபாடுகளால் நிறைந்து பூமியில் நரகமாக மாறிவிட்டதாக அவர் மேலும் கூறினார்.
+He added that the SLTB depots in Sri Lanka have become a hell on Earth, full of flaws.
 
-இருப்பினும், 25 பேருந்து பணிமனைகளை நவீனமயமாக்க ஏற்கனவே நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+However, he said that steps have already been taken to modernize 25 buses.
 
-இலங்கை போக்குவரத்து சபை ஊழியர்களின் தற்போதைய பற்றாக்குறையை நிவர்த்தி செய்வதற்காக 750 புதிய ஓட்டுநர்கள் மற்றும் நடத்துனர்கள் பணியமர்த்தப்படுவதாகக் கூறிய அமைச்சர், இலங்கை போக்குவரத்து சபை ஒரு இலாபகரமான நிறுவனமாக மீண்டும் கட்டியெழுப்பப்படுவதாக உறுதிப்படுத்தினார்.
+The Minister said that 750 new drivers and operators were hired to address the current shortage of the Sri Lanka Transport Board (SLTB) and confirmed that the Sri Lanka Transport Board would be rebuilt as a profitable company.
 
 ◼️
 
 [Data](articles/e7c677ca.json)
 
+[Extended Data](ext_articles/e7c677ca.ext.json)
+
 ---
 
-### “தேசிய நெடுஞ்சாலை திட்டத்தை தயாரிப்போம்“;பிமல் விளக்கம்
+### "We will prepare the National Highway Plan";
 
 *2025-09-17 11:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நெடுஞ்சாலை-திட்டத்தை-தயாரிப்போம்-பிமல்-விளக்கம்/175-364756) · `ta`
 
-கடவத்தை முதல் மீரிகம வரையிலான மத்திய அதிவேக நெடுஞ்சாலை திட்டத்தின் முதல் பகுதியின் தொடக்க விழாவில் உரையாற்றிய துறைமுகங்கள், நெடுஞ்சாலைகள் மற்றும் விமான போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க, தற்போதைய அரசாங்கத்தின் கீழ் முந்தைய நிர்வாகங்களின் கீழ் இருந்த எந்த ஒரு பிரச்சனையும் ஒப்பந்ததாரர்கள் எதிர்கொள்ள மாட்டார்கள் என்று கூறினார்.
+Speaking at the inauguration of the first part of the Central Highway Project from Kadawatha to Meerigama, Ports, Highways and Aviation Minister Bimal Ratnayake said that the contractors would not face any issues under the current administration under the current government.
 
-"இந்த மத்திய அதிவேக நெடுஞ்சாலையை 2028 சிங்கள-தமிழ் புத்தாண்டுக்குள் நாங்கள் முடிப்போம். இந்த ஆண்டு ரம்புக்கனையில் இருந்து கலகெதர வரையிலான கட்டுமானப் பணிகளைத் தொடங்க திட்டமிட்டுள்ளோம்.
+“We will end this central highway in 2028 Sinhala-Tamil New Year. We are planning to launch construction work from Rambukkana to Galagade this year.
 
-துறைமுகத்திற்கு பயன்படுத்துகின்ற வீதியின் பணிகள் 98 சதவீதம் நிறைவடைந்துள்ளது. அடுத்த ஆண்டுக்குள் இந்தப் பணியை நாங்கள் முடிப்போம் என நம்புகிறோம்.
+98 percent of the work on the road used to the port has been completed. We hope we will complete this task within next year.
 
-ருவன்புர அதிவேக நெடுஞ்சாலையின் பணிகள் நிறுத்தப்பட்டிருக்கின்றன மேலும் இங்கிரிய வரையிலான கட்டுமானப் பணிகள் மிக விரைவில் ஆரம்பிக்கப்படவுள்ளது.
+The work of the Ruwanpura Highway has been halted and the construction work will be started very soon.
 
-இங்கிரியவிலிருந்து இரத்தினபுரி வரையிலான சாலைகள் நன்கு அபிவிருத்தி செய்யப்பட்டு வருகின்றன. தெற்கு அதிவேக நெடுஞ்சாலை சுமார் பன்னிரண்டு ஆண்டுகளாக புதுப்பிக்கப்படவில்லை.
+Roads from Ingiriya to Ratnapura are being developed well. The Southern Expressway has not been renovated for about twelve years.
+
+Currently its rehabilitation work has been started. There is only one service center on the southern highway. We are going to open another small service center in the Udugawa area.
 
 ...
 
 [Data](articles/51080904.json)
 
+[Extended Data](ext_articles/51080904.ext.json)
+
 ---
 
-### சிறுவனை வன்புணர்ந்த பக்கத்து வீட்டு தந்தை கைது
+### The father of the neighbor of the boy arrested the boy
 
 *2025-09-17 11:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-வன்புணர்ந்த-பக்கத்து-வீட்டு-தந்தை-கைது/76-364755) · `ta`
 
-3 பிள்ளைகளின் தந்தையான 56 வயதான நபர், தனது வீட்டுக்கு அண்மையில் வசிக்கும் 11 வயதான சிறுவனை பல தடவைகள் கடுமையான பாலியல் வன்புணர்வுக்கு உட்படுத்திய சம்பவம் தொடர்பில், செவ்வாய்க்கிழமை (16) கைது செய்யப்பட்டுள்ளார்.
+A foreign housekeeper has been arrested on Tuesday (16) for allegedly sexually abusing a 11 -year -old boy from Kitulkottai area of ​​the Moneragala and Tanamalwila police division.
 
-இந்த சம்பவம் தனமல்வில பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கித்துல்கொடே பகுதியில் இடம்பெற்றுள்ளது.
+The boy has informed his teacher about the incident and the teacher has been informed by the police station.
 
-பாதிக்கப்பட்ட சிறுவனான மாணவன், தனக்கு  நேர்ந்ததை தனது வகுப்பாசிரியையிடம் தெரிவித்ததை அடுத்து, அந்த ஆசிரியை பொலிஸூக்கு தகவல் கொடுத்துள்ளார். இதனையடுத்து, சந்தேகநபரான அந்த தந்தையை பொலிஸார் கைது செய்துள்ளனர்.
+According to the police, the suspect has been sexually abused by the suspect on several occasions, keeping the boy's house and keeping the boy's house.
 
-சந்தேக நபரான அந்த தந்தை, அந்த சிறுவனின் வீட்டிலும் தன் வீட்டிலும் வைத்து அவ்வப்போது பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
-
-கைது செய்யப்பட்ட சந்தேகநபரை வெல்லவாய நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன், பாதிக்கப்பட்ட சிறுவன், வைத்திய பரிசோதனைக்காக தனமல்வில பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் என்றும் பொலிஸார் தெரிவித்தனர்.
+Steps have been taken to produce the suspect in the Wellawaya Court and the victim has been admitted to the Thanamalwila Divisional Hospital for medical examination.
 
 ◼️
 
 [Data](articles/e91f47f2.json)
 
+[Extended Data](ext_articles/e91f47f2.ext.json)
+
 ---
 
-### கடற்படையினருக்காக ஆங்கில மொழி ஆய்வுகூடத்தைத் ஆரம்பிக்கும் அமெரிக்க - இலங்கை பங்காண்மை !
+### US -Sri Lanka Partnership Starting English Language Laboratory for Navy
 
 *2025-09-17 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225291) · `ta`
 
-திருகோணமலையிலுள்ள கடற்படை மற்றும் கடல்சார் கல்லூரியில் ஒரு அதிநவீன ஆங்கில மொழி ஆய்வுகூடத்தினை திங்கட்கிழமை ( செப்டம்பர் 15 ) இலங்கை கடற்படையினருடன் இணைந்து இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் உத்தியேகபூர்வமாக திறந்து வைத்தது.
+The US Embassy in Sri Lanka officially opened a sophisticated English language laboratory at the Navy and Maritime College in Trincomalee on Monday (September 15).
 
-இலங்கையிலுள்ள அமெரிக்கத் தூதரகத்தின் சிரேஷ்ட பாதுகாப்பு அதிகாரியான கேர்ணல் மெத்திவ் ஹவ்ஸ், இலங்கை கடற்படையின் பயிற்சிகளுக்கான பணிப்பாளர் நாயகம் ரியர் அட்மிரல் தம்மிக்க விஜேவர்த்தன, இலங்கை கடற்படை மற்றும் கடல்சார் கல்லூரியின் கட்டளைத்தளபதி கொமடோர் தினேஷ் பண்டார ஆகியோர் இந்த அதிநவீன வளாகத்தினைத் திறந்து வைத்தனர்.
+Colonel Mathiv Hows, Senior Security Officer of the US Embassy in Sri Lanka, Director General of the Sri Lanka Navy, Rear Admiral Wijewardena, and Commanding Commander of the Sri Lanka Navy and Maritime College, Komador Dinesh Bandara inaugurated the building.
 
-உயர்தர பல்லூடக தொழில்நுட்பம் மற்றும் அமெரிக்க பாதுகாப்பு மொழி நிறுவனத்தின் சமீபத்திய பயிற்சி மென்பொருள் ஆகியவற்றைக் கொண்ட இவ்வாங்கில மொழி ஆய்வுகூடமானது, இலங்கை கடற்படை அதிகாரிகள், சர்வதேச கடற்படை நடவடிக்கைகள் மற்றும் பயிற்சிகளின் போது பயன்படுத்தப்படும் பொதுவான மொழியான ஆங்கிலத்தில் தேர்ச்சி பெறுவதற்கான கருவிகளை வழங்கும்.
+The Language Laboratory, which includes high quality multi -ethnic technology and the recent training software of the US Security Language Institute, provides Sri Lankan naval authorities, the most common language used during the international naval activities and training, which is used in English.
+
+Speaking at a ceremony held in Trincomalee on Monday, Leftinan Colonel Methiv Hows commented on the beginning of the English Language Laboratory:
 
 ...
 
 [Data](articles/04dcde8c.json)
 
+[Extended Data](ext_articles/04dcde8c.ext.json)
+
 ---
 
-### மாரடைப்பால் பாகிஸ்தான் குழந்தை நட்சத்திரம் உமர் ஷா மரணம்: ரசிகர்கள் அதிர்ச்சி
+### Pakistani child star Umar Shah's death by a heart attack: Fans shocked
 
 *2025-09-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225292) · `ta`
 
-பாகிஸ்தானின் பிரபல குழந்தை நட்சத்திரமான உமர் ஷா ( Umar Shah) தனது 15 வயதில் மாரடைப்பு காரணமாக உயிரிழந்தார். அவரது திடீர் மரணம் அந்நாட்டு ரசிகர்களையும், பிரபலங்களையும் சோகத்தில் ஆழ்த்தியுள்ளது.
+Pakistan's famous child star Umar Shah died of a heart attack at the age of 15. His sudden death has saddened fans and celebrities.
 
-பிரபல 'ஜீதோ பாகிஸ்தான்' (Jeeto Pakistan) தொலைக்காட்சி தொடர் உட்பட பல நிகழ்ச்சிகளில் நடித்து வந்த உமர் ஷா, தனது வீட்டில் மாரடைப்பு காரணமாக உயிரிழந்தார்.
+Umar Shah, who has performed in several shows, including the famous 'Jeeto Pakistan' television series, died of a heart attack at his home.
 
-25 வயதிற்குட்பட்ட இளைஞர்களுக்கு மாரடைப்பு ஏற்படுவது என்பது மிகவும் அரிதானது. இந்நிலையில், சிறு வயதிலேயே உமர் ஷா உயிரிழந்தது பாகிஸ்தானில் உள்ள ரசிகர்களை பெரும் அதிர்ச்சியில் ஆழ்த்தியுள்ளது.
+It is very rare to have a heart attack for young people under the age of 25. The death of Umar Shah at an early age has shocked fans in Pakistan.
 
-உமர் ஷாவின் சகோதரரும், பிரபல டிக்டொக் நட்சத்திரமுமான அகமது ஷா, தனது சமூக வலைத்தள பக்கத்தில் இந்த துயர செய்தியை வெளியிட்டுள்ளார்.
+Ahmed Shah, brother of Umar Shah and famous Dictok star, posted this tragic news on his social website.
 
-உமர் ஷாவின் மரணச் செய்தி வெளியானதும், பல பிரபலங்கள் தங்கள் இரங்கலைத் தெரிவித்து வருகின்றனர்.
+After the news of Umar Shah's death, many celebrities express their condolences.
 
-'ஜீதோ பாகிஸ்தான்' நிகழ்ச்சியின் தொகுப்பாளரான ஃபஹத் முஸ்தஃபா, "உமர் நம்மை விட்டுப் பிரிந்துவிட்டான் என்பதை நம்ப முடியவில்லை" என்று பதிவிட்டுள்ளார்.
+Fahad Mustafa, host of 'Jeeto Pakistan', posted, "Umar is unlikely to believe that we have left us."
+
+Wasim Pathamee, anchor of the 'Shaun-e-Ramadan', has spoken to the doctors and that Umar Shah has died of a heart attack.
+
+Actor Adnan Siddique has expressed concern over his death by referring to Umar Shah as "the light of joy and innocence."
 
 ...
 
 [Data](articles/814d33ff.json)
+
+[Extended Data](ext_articles/814d33ff.ext.json)
 
 ---
 
@@ -163,6 +359,8 @@ However, the CID recently informed the Court of Appeal that no decision has been
 ◼️
 
 [Data](articles/85971766.json)
+
+[Extended Data](ext_articles/85971766.ext.json)
 
 ---
 
@@ -186,21 +384,25 @@ However, the Criminal Investigations Department recently informed the Court of A
 
 ---
 
-### சுதந்திர தின விழாவிற்கு தலைமை தாங்கிய முதல் பெண்மணி என்ற வரலாற்றைப் படைத்தார்  மெக்சிகோவின் ஜனாதிபதி கிளாடியா ஷீன்பாம்
+### Mexico's President Claudia Shinepam made the history of being the first woman to head the Independence Day Celebration
 
 *2025-09-17 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225287) · `ta`
 
-மெக்சிகோ சுதந்திர தின கொண்டாட்டங்களை திங்கட்கிழமை இரவு ஆரம்பித்து வைத்து, ஆண்கள் மட்டுமே தலைமை தாங்கிய நூற்றாண்டுக்கும் மேலான நடைமுறையை ஜனாதிபதி கிளாடியா ஷீன்பாம் முடிவுக்குக் கொண்டு வந்துள்ளார்.
+President Claudia Shinebam has ended the practice of more than the centuries of the men's only men, inaugurating the Mexico Independence Day celebrations on Monday night.
 
-மெக்சிகன் தலைநகரின் பிரதான சதுக்கத்தில் பல்லாயிரக்கணக்கான மக்கள் கூடுவதற்கு முன்னர், அரச அரண்மனையின் பால்கனிகளில் ஒன்றிலிருந்து ஷீன்பாம் உரையாற்றினார்.
+Before tens of thousands of people gathered in the main square of the Mexican capital, Shinbam addressed one of the balcony of the royal palace.
 
-"மெக்சிகன் மக்களின் கண்ணியம் வாழ்க! சுதந்திரம் வாழ்க! சமத்துவம் வாழ்க! ஜனநாயகம் வாழ்க! நீதி வாழ்க! சுதந்திரமான, சுதந்திரமான மற்றும் இறையாண்மை கொண்ட மெக்சிகோ வாழ்க!" என ஜனாதிபதி என தெரிவித்தார்.
+"Live the dignity of the people of Mexican! Live Freedom! Live Equality! Live Democracy! Live Justice! As the president.
 
-சிறிது நேரத்திற்குப் பின்னர், ஸ்பெயினிலிருந்து மெக்சிகோ சுதந்திரம் பெற்ற 215 வது ஆண்டு நிறைவை நினைவுகூரும் வகையில் ஷென்பாம் வரலாற்று அரண்மனையின் மணியை அடித்தார், அதனை தொடர்ந்து தலைநகரின் கதீட்ரலின் மணிகள் ஒலிக்கப்பட்டு தேசிய கீதம் பாடப்பட்டது.
+After a while, Shenbam beat the bell of the Historical Palace to commemorate the 215th anniversary of Independence from Spain, followed by the bells of the capital of the capital.
 
-...
+Every year, the 1810 priest recalls the armed call, known as the "Freedom Slogan" by Miguel Hidalko.. It begins the struggle that reached the peak in 1821. The traditional celebration has been maintained since the beginning of the 19th century, but until 1880, politicians introduced bells and cheers.
+
+◼️
 
 [Data](articles/bc3d68bc.json)
+
+[Extended Data](ext_articles/bc3d68bc.ext.json)
 
 ---
 
@@ -234,6 +436,8 @@ In light of this, the NWSDB has urged the public to make prior arrangements and 
 
 [Data](articles/85a113db.json)
 
+[Extended Data](ext_articles/85a113db.ext.json)
+
 ---
 
 ### Sri Lanka rupee stronger against dollar, bond yields steady
@@ -261,6 +465,8 @@ The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.
 ...
 
 [Data](articles/d5e56f93.json)
+
+[Extended Data](ext_articles/d5e56f93.ext.json)
 
 ---
 
@@ -321,6 +527,8 @@ The current Diyawadana Nilame’s term has now expired, and arrangements are bei
 ...
 
 [Data](articles/fe0dfbd3.json)
+
+[Extended Data](ext_articles/fe0dfbd3.ext.json)
 
 ---
 
@@ -437,6 +645,8 @@ An experienced business strategist and an Investment professional with Internati
 ...
 
 [Data](articles/7a11641a.json)
+
+[Extended Data](ext_articles/7a11641a.ext.json)
 
 ---
 
@@ -564,6 +774,26 @@ The distance between Kadawatha and Mirigama on the Central Expressway is 37 kilo
 
 ---
 
+### Woman who made video naked
+
+*2025-09-17 10:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-வீடியோ-கோல்-செய்த-பெண்-ஆசையை-அடக்க-முடியாமல்-இளைஞர்-செய்த-செயல்/175-364740) · `ta`
+
+Youth from Bangalore shared a cell phone number to a familiar woman in the dating processor. Both were close to talking on WhatsApp. Both of them were talking at the message about intercourse. The girl then posed naked on the video leg. And the young man ordered the unraveling of clothes. He is now in trouble naked on the video's video.
+
+A 25 -year -old youth living near Bangalore. He is working in a private company. It was in this case that a few months ago he downloaded the dating processor on his cell phone.
+
+The name of that dating processor Happn. Through this processor, she and the woman named Ananya became accustomed to. The two came to talk daily via the dating processor.
+
+The friendship was formed between the two. Then they exchanged their cell phone numbers. Thus, at the time they thought, 2 of them exchanged the message. The closeness of the two increased. The two went to the next level, talking about friendly and welfare.
+
+...
+
+[Data](articles/cca5b5ca.json)
+
+[Extended Data](ext_articles/cca5b5ca.ext.json)
+
+---
+
 ### The act of doing a youth for a woman who was naked
 
 *2025-09-17 10:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-வீடியோகால்-செய்த-பெண்ணுக்கு-இளைஞர்-செய்த-செயல்/175-364740) · `ta`
@@ -650,6 +880,20 @@ The National Water Supply and Drainage Board stated that the water cut will be i
 
 ---
 
+### දුටුගැමුණු කුමරු දිය නෑ රණමුනේ පිහිල්ල
+
+*2025-09-17 09:39:13* · [`adalk`](https://www.ada.lk/opinion/දුටුගැමුණු-කුමරු-දිය-නෑ-රණමුනේ-පිහිල්ල/2-418549) · `si`
+
+කොත්මලේ  යනු මෙරට ඉතිහාසයේ ගැඹුරින් කාවැදුණු කිසිදාක නොමැකෙන  සිහිවටන රැසකින් සමන්විත වූ අතිශය මනරම් වූ ඵෙතිහාසික පුරවරයකි. ඉපැරණි සිදුවීම් රැසකින් පොහොසත් වූ කොත්මලේ පුරවරය මනරම්  කඳු රැසකින් වට වූ ඉතාමත් ආරක්ෂාකාරී මෙන්ම සුන්දර  භූමි භාගයකින් සැදුම්ලත් අව්‍යාජ ගැමියන් ජීවත් වන ඵෙතිහාසික ගම්මාන රැසකින් සමන්විත ප්‍රදේශයකි.
+
+එවන් අසිරිමත් පුරවරයක පිහිටි රණමුනේ පිහිල්ල යනු කොත්මලේ, මාවෙල නගරය සමීපයේ පිහිටි මෙරට වටිනාකමකින් යුත් තවත් එක් සුවිශේෂිත  ස්ථානයකි. ශ්‍රී ලංකාවේ ඉතිහාසය සහ සංස්කෘතික උරුමයේ තවත් එක් සුවිශේෂිත කඩ ඉමක් ලෙස රණමුනේ පිහිල්ල හැදින්විය හැක. මෙම ඉපැරණි පිහිල්ල දුටුගැමුණු රජුගේ පාලන සමය වන එනම් ක්‍රිස්තු පූර්ව 137ත්- 161ත්  අතර කාල සීමාවටත් පෙර සිට පැවත එන ඵෙතිහාසික ජල පිහිල්ලක් ලෙස හැදින්වේ.
+
+...
+
+[Data](articles/429578d3.json)
+
+---
+
 ### Electricity Board employees who jumped on a sick holiday
 
 *2025-09-17 09:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுமுறையில்-குதித்த-மின்சார-சபை-ஊழியர்கள்/175-364737) · `ta`
@@ -700,21 +944,25 @@ Chairman of the CEB Technical Engineers’ Union, Kosala Abeysinghe, stated that
 
 ---
 
-### ඔටෝ මොබයිල් සහ විද්‍යුත් උපකරණ කර්මාන්ත සම්බන්ධයෙන් පූර්ව අයවැය සාකච්ඡාවක්
+### Pre Budget discussion on auto mobile and electronic equipment industry
 
 *2025-09-17 09:31:37* · [`adalk`](https://www.ada.lk/breaking_news/ඔටෝ-මොබයිල්-සහ-විද්‍යුත්-උපකරණ-කර්මාන්ත-සම්බන්ධයෙන්-පූර්ව-අයවැය-සාකච්ඡාවක්/11-418548) · `si`
 
-ඔටෝ මොබයිල් සහ විද්‍යුත් උපකරණ කර්මාන්ත සම්බන්ධයෙන් පූර්ව අයවැය සාකච්ඡාවක් කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (16) පස්වරුවේ පැවැත්විණි.
+The pre-Budget discussion on auto mobile and electronic equipment industry, the Minister of Labor and Economic Development Dr. Anil Jayantha Fernando was held yesterday (16th) at the Presidential Secretariat.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රමුඛ රජය ගෙන යන ආර්ථික සංවර්ධන වැඩපිළිවෙළ සඳහා ඔටෝ මොබයිල් සහ විද්‍යුත් උපකරණ ආනයනකරුවෝ සිය පූර්ණ සහාය ලබා දෙන බව මෙහිදී කියා සිටියහ.
+It was also said that the importers of the auto mobile and electronic equipment were fully supported for the economic development initiative leading by President Anura Kumara Dissanayake.
 
-වත්මන් ආණ්ඩුව විසින් වාහන ආනයනය සම්බන්ධයෙන් ගනු ලැබූ තීරණය හේතුවෙන් වාහන ආනයන ක්ෂේත්‍රය පුළුල් වූ බව සඳහන් කළ වාහන ආනයනකරුවෝ ඉදිරි අයවැය සඳහා ඵලදායි යෝජනා කිහිපයක්ද මෙහිදී ඉදිරිපත් කළහ.
+Vehicle importers have also been extended by the present government that the vehicle import sector has been expanded by the decision of vehicles.
 
-විද්‍යුත් උපකරණ ආශ්‍රිත නිෂ්පාදන ආනයනකරුවන් ක්ෂේත්‍රය තුළ මුහුණ දෙන ගැටලු පිළිබඳවද මෙහිදී සාකච්ඡා කෙරුණු අතර, විශේෂයෙන් සංවිධානාත්මක කණ්ඩායම් විසින් බදු ගෙවීමකින් තොරව හොර රහසේ මෙරටට ගෙන එනු ලබන විද්‍යුත් උපකරණ හේතුවෙන් වෙළඳපොළ අසමතුලිතතාවක් මෙන්ම, භාණ්ඩවල ගුණාත්මකභාවයේ අඩුවක් දක්නට ලැබෙන බවද විද්‍යුත් උපකරණ ආනයනකරුවෝ මෙහිදී පෙන්වා දුන්හ.
+The electronic appliances pointed out that the issues faced by electrical production products, especially the electrical equipment taken by organized groups, and the electrical equipment brought to the country without paying taxes.
+
+They pointed out that the government loses a large tax revenue and the consumers have requested the accelerated measures.
 
 ...
 
 [Data](articles/472cef86.json)
+
+[Extended Data](ext_articles/472cef86.ext.json)
 
 ---
 
@@ -1795,203 +2043,5 @@ In response, Afghanistan lost only 146 runs, unable to cope with the Bangladesh 
 [Data](articles/88037305.json)
 
 [Extended Data](ext_articles/88037305.ext.json)
-
----
-
-### Swords at liquor: two injured
-
-*2025-09-17 00:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலையில்-வாள்வெட்டு-இருவர்-காயம்/175-364729) · `ta`
-
-Two youths were injured in a sword in a clash between two youth groups at 7.00 pm at the Nedundevu Private Hosiness Liquor Store last night.
-
-According to reports, two people were injured in the head and face of a youth group who suddenly entered the Nedundevu Liquor Store at 7.00 pm.
-
-The police, who came to the scene of the incident, were arrested and detained at the Neduntivu police station when the sword was assaulted and tried to flee and the police took action to search for the fugitives.. (A)
-
-◼️
-
-[Data](articles/75324405.json)
-
-[Extended Data](ext_articles/75324405.ext.json)
-
----
-
-### 2025-09-16 (Tuesday)
-
-### Keheliya and others arrested
-
-*2025-09-16 23:49:36* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-පිරිසට-ඇප/11-418543) · `si`
-
-The three-member High Court Judge Bench today (16) was appointed as the former Minister Keheliya Rambukwella and the accused.
-
-Each accused was deleted on a cash bail of Rs.
-
-The judiciary forbidden the accused of the defendants should be handed over to their passports to court.
-
-◼️
-
-[Data](articles/4b475654.json)
-
-[Extended Data](ext_articles/4b475654.ext.json)
-
----
-
-### Large cash circulation of two bank accounts of Panadura Nilanga's bank accounts
-
-*2025-09-16 23:33:27* · [`adalk`](https://www.ada.lk/breaking_news/පානදුරේ-නිලංගගේ-බැංකු-ගිණුම්-දෙකකින්-විශාල-මුදල්-සංසරණයක්/11-418542) · `si`
-
-The Colombo Magistrate's Court today (16) permitted the CID today (16) to summon with the bank accounts of the nabbed and an organized criminal, an organized criminal in Indonesia.
-
-After considering the request made by the Criminal Investigation Department. The Criminal Investigations Department (CID) said in court that the suspect has circulated a large amount of money through two bank accounts of the suspect.
-
-◼️
-
-[Data](articles/f16c22dd.json)
-
-[Extended Data](ext_articles/f16c22dd.ext.json)
-
----
-
-### Rs. 1 billion this year for the settlement
-
-*2025-09-16 23:25:07* · [`adalk`](https://www.ada.lk/breaking_news/සමථකරනයට-මේ-වසරේ-රුපියල්-බිලියනයක්/11-418541) · `si`
-
-The National Meeting Day Celebration ceremony was held at the foundation of the Hon
-
-Under the Mediation Board Act No. 72 of 1988 under the Mediation Board Act No. 72 of 1990, all the National Mercators, including the Solar Association, is named after the formation of all equal and dedication.
-
-"This year is a significant year of the Mediation Process and the Budget 2025 has allocated over Rs. 1 billion allocation to Mediation Board Commission. Special Mediation Councils have been introduced to establish the number of financial disputes on land disputes and the financial disputes of the judiciary as a result of the financial dispute in the Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Moneragala.
-
-More than two million disputes lead to the Mediation Board. Strengthening the Mediation Processing is expected to reduce 100,000 cases in court in one year.
-
-The judicial system is working to establish a dispute data management system in the Mediation Board of Mediquities.
-
-...
-
-[Data](articles/209cd480.json)
-
-[Extended Data](ext_articles/209cd480.ext.json)
-
----
-
-### Sun Siyam Pasikudah’s New Chapter
-
-*2025-09-16 23:00:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudahs-new-chapter/) · `en`
-
-As with all Sun Siyam properties, Sun Siyam Care, the group’s sustainability arm, is deeply embedded in Pasikudah. Every booking supports marine conservation projects, with special attention here to the fragile bay ecosystem. Coral restoration efforts, beach clean-ups, and community education programs are part of the resort’s daily rhythm.
-
-The resort works closely with local farmers and fishermen, sourcing produce and seafood responsibly to minimize its footprint while strengthening livelihoods. Guests are invited to visit nearby communities, offering a more authentic perspective on Sri Lankan life beyond the resort walls. In a region still rebuilding from the scars of conflict and natural disasters, Pasikudah’s presence carries a promise: that tourism can be a force for good when guided by care.
-
-...
-
-[Data](articles/706b82cd.json)
-
-[Extended Data](ext_articles/706b82cd.ext.json)
-
----
-
-### Second quarter growth predictions trigger bull-run in bourse
-
-*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/second-quarter-growth-predictions-trigger-bull-run-in-bourse/) · `en`
-
-CSE activities turned extremely bullish yesterday when the Finance Ministry reported that 2025 second quarter GDP growth potential was higher than expected.
-
-Initially it was reported that second quarter GDP for the year was 3.1 percent but latest reports note that it has moved up to 4.9 percent, thus enabling investor sentiment to improve significantly, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 263.98 points while S and P SL20 rose by 81.75 points. Turnover stood at Rs 6.22 billion with ten crossings.
-
-...
-
-[Data](articles/3b5f7855.json)
-
-[Extended Data](ext_articles/3b5f7855.ext.json)
-
----
-
-### Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
-
-*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-nce-forge-strategic-alliance-to-power-sri-lankas-export-growth/) · `en`
-
-Pan Asia Bank, one of Sri Lanka’s fastest-growing commercial banks, has entered into a strategic partnership with the National Chamber of Exporters of Sri Lanka (NCE) to empower and support the country’s export community.
-
-Exports remain a lifeline for Sri Lanka’s economy, generating vital foreign exchange, driving industrial innovation, and creating jobs across multiple sectors. In the current context of economic recovery, strengthening the export sector is critical for stabilizing the nation’s external balances and securing long-term sustainable growth. Recognizing this, Pan Asia Bank’s collaboration with NCE is designed to provide exporters with both the financial tools and strategic guidance needed to expand their global reach.
-
-...
-
-[Data](articles/b12cf49a.json)
-
-[Extended Data](ext_articles/b12cf49a.ext.json)
-
----
-
-### HNB Assurance hosts second consecutive International Partnership Awards in Malaysia
-
-*2025-09-16 22:57:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-second-consecutive-international-partnership-awards-in-malaysia/) · `en`
-
-HNB Assurance PLC once again marked a historic milestone by hosting its Partnership Awards 2025 on an international stage for the second consecutive year. Held at the prestigious Royal Signature Hotel, Kuala Lumpur, the gala event welcomed guests from HNB, HNB Assurance staff, Bancassurance Officers and their families, to celebrate the remarkable achievements of the company’s partnership channel.
-
-The Partnership Awards, a flagship annual event for HNB Assurance, serves as a platform to honor and recognize the exceptional contributions of its partnership channel, which continues to play a pivotal role in driving the company’s growth. Following the success of last year’s international debut in Thailand, this year’s event in Malaysia further signifies the company’s expanding vision and growth momentum.
-
-Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
-
-...
-
-[Data](articles/43eabc85.json)
-
-[Extended Data](ext_articles/43eabc85.ext.json)
-
----
-
-### Seylan Bank partners with the National Industry Expo 2025
-
-*2025-09-16 22:56:00* · [`islandlk`](http://island.lk/seylan-bank-partners-with-the-national-industry-expo-2025/) · `en`
-
-Seylan Bank stands to support the 3rd consecutive National Industry Expo 2025. Organized by the Ministry of Industry and Entrepreneurship Development and Industrial Development Board, the event is scheduled to take place from the 18th to the 21st of September at the Bandaranaike Memorial International Conference Hall (BMICH).
-
-Aimed at highlighting and strengthening the position of Sri Lanka’s industrial sector, the event will also foster market integration, technological advancement, and collaboration, demonstrating the Bank with a Heart’s ability and role as a catalyst for the growth.
-
-...
-
-[Data](articles/28903f94.json)
-
-[Extended Data](ext_articles/28903f94.ext.json)
-
----
-
-### Minister holds pre-budget discussion with automobile and electronics importers
-
-*2025-09-16 22:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112587/minister-holds-pre-budget-discussion-with-automobile-and-electronics-importers-) · `en`
-
-A pre-budget discussion on the automobile and electronic equipment industries was held this afternoon (16) at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
-
-Importers of automobiles and electronic equipment expressed their full support for the government’s economic development programme, led by President Anura Kumara Dissanayake, the Presidential Media Division (PMD) said.
-
-Vehicle importers noted that the sector has expanded due to recent government decision regarding vehicle imports and they presented several productive proposals for consideration in the upcoming budget.
-
-...
-
-[Data](articles/5a0e869a.json)
-
-[Extended Data](ext_articles/5a0e869a.ext.json)
-
----
-
-### Cabinet approval for submitting allocation legislation to Parliament
-
-*2025-09-16 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225267) · `ta`
-
-The Cabinet has approved a complete schedule for the submission of the 2026 Allocation Bill to Parliament. The Cabinet was approved on September 8, 2025, to publish the law in the Gazette.
-
-The first reading of the Bill will be presented in Parliament on the 26th of this month, according to the Parliamentary Sessions on the 2026 Budget prepared by the Prime Minister's Office.
-
-Second reading and budget text will be held on November 7. The debate on the second reading will take place from November 8 to November 14.
-
-The debate on the third reading will be held from November 15 to December 5. The final budget referendum will take place on December 5, 2025, the Cabinet spokesman said.
-
-◼️
-
-[Data](articles/87673d51.json)
-
-[Extended Data](ext_articles/87673d51.ext.json)
 
 ---

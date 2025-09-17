@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 20:20:56**
+As of **2025-09-17 19:55:47**
 
 ## Newspaper Stats
 
-*Scraped **76,579** Articles*
+*Scraped **76,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,95 +16,21 @@ economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,441
-adaderanalk | 9,879
-tamilmirrorlk | 11,488
-virakesarilk | 12,462
-adaderanasinhalalk | 13,359
+adalk | 7,440
+adaderanalk | 9,878
+tamilmirrorlk | 11,486
+virakesarilk | 12,461
+adaderanasinhalalk | 13,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,805 (96.4%) of 76,579 articles have been extended.
+73,803 (96.4%) of 76,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### ”பெற்றோலிய ஆய்வுகளை அரசாங்கம் தொடங்கும்”
-
-*2025-09-17 19:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-ஆய்வுகளை-அரசாங்கம்-தொடங்கும்/175-364795) · `ta`
-
-விஞ்ஞானிகள் மற்றும் துறை நிபுணர்களின் உதவியுடன் அரசாங்கம் பெட்ரோலிய ஆய்வைத் தொடங்கும் என்று ஜனாதிபதி அனுர குமார திசாநாயக்க இன்று தெரிவித்தார்.
-
-கொலன்னாவை பெற்றோலிய சேமிப்பு வளாகத்தில் ஆறு கூடுதல் எண்ணெய் சேமிப்பு தொட்டிகளின் கட்டுமானப் பணிகளை இன்று தொடங்கி வைத்து உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
-
-பெட்ரோலிய ஆய்வில் விஞ்ஞானிகளும் நிபுணர்களும் ஏற்கனவே தன்னார்வத் தொண்டு செய்துள்ளனர் என்று அவர் கூறினார்.
-
-"எங்கள் மக்கள் பெரும்பாலும் தேர்தல் காலங்களில் மட்டுமே எண்ணெய் இருப்பு பற்றிய கதைகளைக் கேட்கிறார்கள். முதல் போத்தல் கச்சா எண்ணெய் 1970 தேர்தலின் போது காட்டப்பட்டது. தற்போது, ​​நாங்கள் நிபுணர்களை நம்பி அவர்களிடம் பொறுப்பை ஒப்படைக்கிறோம், அதே நேரத்தில் அரசாங்கம் தேவையான வசதிகளை மட்டுமே வழங்குகிறது," என்று அவர் கூறினார்.
-
-◼️
-
-[Data](articles/68cef5b9.json)
-
----
-
-### தாமதித்த பின்னர் ஹொட்டலிலிருந்து புறப்பட்ட பாகிஸ்தான்
-
-*2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹொட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
-
-பாகிஸ்தான் கிரிக்கெட் சபையின் அறிவுறுத்தலின்படி ஹொட்டலிலேயே தங்கியிருந்த பாகிஸ்தான் அணி தற்போது ஐக்கிய அரபு அமீரகத்துக்கெதிரான ஆசியக் கிண்ணப் போட்டிக்காக ஹொட்டலிலிருந்து புறப்பட்டுள்ளது.
-
-தாமதித்த போட்டியின் நாணயச் சுழற்சியானது இலங்கை நேரப்படி 8.30 மணிக்கு நடைபெறவுள்ளதுடன், போட்டி 9 மணிக்கு ஆரம்பிக்கவுள்ளதுடன் 20 ஓவர்கள் கொண்ட போட்டியாகவே நடைபெறவுள்ளது.
-
-எவ்வாறாயினும் போட்டி மத்தியஸ்தராக அன்டி பைகுரொஃப்ட் கடமையாற்றுவாரா அல்லது இல்லையா என்பது இன்னும் தெரியவில்லை.
-
-◼️
-
-[Data](articles/106f7a73.json)
-
----
-
-### யாழில் கஞ்சா கலந்த மாவாவுடன் சந்தேகநபர் கைது!
-
-*2025-09-17 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225363) · `ta`
-
-நாவாந்துறை - மண்பிட்டி பகுதியில் நீண்ட காலமாக கஞ்சா கலந்த மாவா விற்பனையில் ஈடுபட்ட சந்தேகநபர் ஒருவர் புதன்கிழமை (17) கைது செய்யப்பட்டுள்ளார். இதன்போது அவரிடமிருந்து 470 கிராம் கஞ்சா கலந்த மாவா மீட்கப்பட்டது.
-
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் யாழ்ப்பாணம் பொலிஸ் நிலைய போதை தடுப்பு பிரிவினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளது.
-
-விசாரணைகளின் பின்னர், குறித்த சந்தேக நபர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/1ca93165.json)
-
----
-
-### ඉන්දු - පාකිස්තාන සටනේ අතට අත දීමේ මතභේදය ඔඩු දුවයි
-
-*2025-09-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214687) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ එක්සත් අරාබි එමීර් රාජ්‍යයට එරෙහිව අද (17) පැවැත්වෙන තරගය, පාකිස්තාන කණ්ඩායම ක්‍රීඩාකිරීම අවිනිශ්චිත බව වාර්තා වේ.
-
-ඉන්දියාවට එරෙහිව පැවති තරගයේ දී මතභේදයට තුඩුදුන් අතට අත නොදීමේ සිදුවීම පාකිස්තානයේ මෙම තීරණයට බලපා ඇති බවය.
-
-පාකිස්තාන කණ්ඩායමේ තීරණය වී තිබුණේ ඉන්දියාවට එරෙහි තරගයේ තරගතීරක ලෙසින් කටයුතු කළ සිම්බාබ්වේ ජාතික ඇන්ඩි පයික්‍රොෆ්ට් මෙම තරගාවලියෙන් ඉවත්කළ යුතු බවය.
-
-පාකිස්තානය චෝදනාකරන්නේ එම තරගයේ දී ඉන්දීය කණ්ඩායම අතට අත නොදී සිටීමට එරෙහිව ඔහු ඉන්දියාවට එරෙහිව විනය ක්‍රියාමාර්ග නොගත් බවය.
-
-ඒ හේතුවෙන් ඔහු තරගාවලියෙන් ඉවත් නොකරන්නේ නම් තමන් තරගාවලියෙන් ඉවත්වන බවට පාකිස්තානය අනතුරු අඟවා තිබුණි.
-
-කෙසේ නමුත් ඇන්ඩි පයික්‍රොෆ්ට් තරගාවලියෙන් ඉවත්කිරීමේ තීරණයක් මෙතෙක් ආසියානු ක්‍රිකට් කවුන්සිලය ගෙන නොමැති අතර, ඔහු අද තරගයේ ද තරගතීරක ලෙසින් කටයුතු කරනු ලබයි.
-
-ඒ අනුව පාකිස්තාන කණ්ඩායම අද පස්වරුව වනවිටත් ඔවුන් රැඳී සිටි හෝටලයේම රැඳි සිටි බව වාර්තා වේ.
-
-...
-
-[Data](articles/57ad3185.json)
-
----
 
 ### Rumesh wave to match throwing
 
@@ -191,20 +117,6 @@ The batsman of England is John Butler (794) in the second place.
 [Data](articles/d27795c4.json)
 
 [Extended Data](ext_articles/d27795c4.ext.json)
-
----
-
-### “Never Again”: President vows to prevent repeat of queue-related deaths
-
-*2025-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112618/never-again-president-vows-to-prevent-repeat-of-queue-related-deaths) · `en`
-
-President Anura Kumara Dissanayake today (17) emphasized that Sri Lanka will never again face a crisis like the one where people were forced to queue for fuel and gas, sometimes resulting in loss of life, the President’s Media Division.
-
-The President made this statement during the launch of construction work on six new petroleum storage tanks at the Kolonnawa Petroleum Storage Complex.
-
-◼️
-
-[Data](articles/231a3292.json)
 
 ---
 
@@ -827,22 +739,6 @@ The phone call on Wednesday, a day before Modi turns 75, is seen as a sign of th
 [Data](articles/e5ca9022.json)
 
 [Extended Data](ext_articles/e5ca9022.ext.json)
-
----
-
-### තිරිවානා හා පළිගු නිීති විරෝධි ලෙස අපනයනයට පතල් කැණීම් කාර්යාංශයේ අභ්‍යන්තර සහායත් ලැබිලා
-
-*2025-09-17 15:43:36* · [`adalk`](https://www.ada.lk/breaking_news/තිරිවානා-හා-පළිගු-නිීති-විරෝධි-ලෙස-අපනයනයට-පතල්-කැණීම්-කාර්යාංශයේ-අභ්‍යන්තර-සහායත්-ලැබිලා/11-418559) · `si`
-
-භූ විද්‍යා සමීක්ෂණ හා පතල් කැණීම් කාර්යාංශය රාජ්‍ය භාගය නිසි පරිදි අයකර නොගැනීම නිසා විශාල මුදලක්  රජයට අහිමි වී ඇති බව පසුගියදා පැවති පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
-
-ඒ එම කාරක සභාව භූ විද්‍යා සමීක්ෂණ හා පතල් කැණීම් කාර්යාංශයේ 2022 හා 2023 වර්ෂවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතීත්වයෙන් 2025.09.12 දින පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-හලාවත වැවිලි සමාගමට අයත් පුත්තලම දිස්ත්‍රික්කයේ පිහිටි මුක්කුතොඩුවාව වතුයායේ වැලි ඉවත් කිරීම සඳහා පෞද්ගලික සමාගමක් වෙත බදු දී 2023 වසරේ දෙසැම්බර් සිට 2024 සැප්තැම්බර් දක්වා කාර්යාංශය විසින් කැණීම් බලපත්‍ර නිකුත් කර ඇති බවත් කොන්ත්‍රාත්කරු විසින් වැලි කියුබ් 36531 සිට 45561ක පරාසයක වැලි තොගයක් ඉවත් කළද රාජ්‍ය භාගය ගෙවා ඇත්තේ වැලි කියුබ් 1594ක් සඳහා රු. 686,464 පමණක් බවත් මෙහිදී විගණකාධිපතිවරයා විසින් පෙන්වා දුන්නේය.
-
-...
-
-[Data](articles/bf439d94.json)
 
 ---
 
@@ -2033,5 +1929,133 @@ In light of this, the NWSDB has urged the public to make prior arrangements and 
 [Data](articles/85a113db.json)
 
 [Extended Data](ext_articles/85a113db.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-09-17 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240875/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 301.97/302.02 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields were somewhat steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
+
+A bond maturing on 15.03.2031 was quoted at 10.02/10 percent.
+
+A bond maturing on 15.10.2032 was quoted at 10.45/50 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.78/82 percent.
+
+An auction of Rs. 75,000 million Treasury bills was ongoing.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 406.2882 buying, and 417.6500 selling, and the euro was 351.6783 buying, 363.0415 selling.
+
+...
+
+[Data](articles/d5e56f93.json)
+
+[Extended Data](ext_articles/d5e56f93.ext.json)
+
+---
+
+### At the Meat Shop, Nakkal satire
+
+*2025-09-17 11:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறைச்சி-கடையில்-நக்கல்-நையாண்டி/76-364752) · `ta`
+
+It is reported that the owner and employees of a meat outlets in Hatton are being treated with customers.
+
+Meat is sold here in some varieties of meat mixed with separate meat. However, it is revealed that the meat is not properly classified as the customers' needs.
+
+They sell the name of separate meat. Similarly, customers say that the meat that is sold with arise can arise at a higher rate and there is very little meat.
+
+People living in the gardens are said to be the customers of the outlet and that they are negligent and if they talk about it, they are poor.
+
+"Hatton Beef Store does not have any respect and respect for customers. There is no proper answer when asked about meat.
+
+Therefore, the public is appealing to the consumer protection authorities to take legal action.
+
+◼️
+
+[Data](articles/295d1a86.json)
+
+[Extended Data](ext_articles/295d1a86.ext.json)
+
+---
+
+### There is a severe employment shortage in Sri Lanka
+
+*2025-09-17 11:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடும்-வேலைவாய்ப்பு-பற்றாக்குறை-நிலவும்/175-364751) · `ta`
+
+The World Bank warns that nearly a million young people will join the employees of Sri Lanka in the next decade, but it is estimated that only 300,000 (3 lakh) new jobs will be created at that time.
+
+World Bank Deputy Chairman Johannes Jude says that it is necessary to promote private sector growth to create employment. This was stated in the official report issued by the World Bank at the conclusion of the first official visit to Sri Lanka by the Deputy Chairman of the World Bank.
+
+The World Bank team will work together to attract private capital, strengthen the competitiveness and service supply and to expand employment opportunities across the country.
+
+...
+
+[Data](articles/ddc0f66d.json)
+
+[Extended Data](ext_articles/ddc0f66d.ext.json)
+
+---
+
+### Malwathu & Asgiri Chief Prelates condemn defamatory campaigns on Diyawadana Nilame post
+
+*2025-09-17 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112597/malwathu-asgiri-chief-prelates-condemn-defamatory-campaigns-on-diyawadana-nilame-post) · `en`
+
+The chief prelates of the Malwathu and Asgiri Chapters have issued a statement expressing deep concern over defamatory remarks and propaganda circulating in relation to the Diyawadana Nilame post, stating that such actions are damaging the dignity of the Sri Dalada Maligawa (Temple of the Sacred Tooth Relic), the Ubhaya Maha Viharaya, and the Buddhist community at large.
+
+The Diyawadana Nilame, as the lay custodian of the Temple of the Sacred Tooth Relic—one of the most venerated sites for Buddhists worldwide—is regarded as the foremost lay Buddhist in the country and is held in high esteem both nationally and internationally.
+
+In terms of the Viharagam and Dewalagam Ordinance No. 19 of 1931 on Buddhist Temporalities, the Diyawadana Nilame is appointed through an election for a tenure of ten years.
+
+The current Diyawadana Nilame’s term has now expired, and arrangements are being made to appoint a successor, with several candidates, including the incumbent, contesting the position.
+
+...
+
+[Data](articles/fe0dfbd3.json)
+
+[Extended Data](ext_articles/fe0dfbd3.ext.json)
+
+---
+
+### Wimal inquired about Mahinda
+
+*2025-09-17 10:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-குசலம்-விசாரித்தார்-விமல்/175-364749) · `ta`
+
+National Freedom Front leader Wimal Weerawansa met with former President Mahinda Rajapaksa on Tuesday (16) at the Tangalle Carlton residence.
+
+After meeting Mahinda Rajapaksa, Wimal Weerawansa posted on his Facebook account:
+
+“The news that the 5th Executive President Mahinda Rajapakse, who gave political leadership over the defeat of terrorism over the decades has been threatened with his life threats, has moved to the Tangalle Carlton House, not only in Sri Lanka, but in Sri Lanka.
+
+In spite of political differences, it is an act of thanking the political leadership he provided to defeat terrorism. The National Freedom Front's National Organizer Jayantha Samaraweera and other representatives of the National Freedom Front met him at the Tangalle Carlton residence and expressed our gratitude.
+
+◼️
+
+[Data](articles/60032a71.json)
+
+[Extended Data](ext_articles/60032a71.ext.json)
+
+---
+
+### Scientists who made the face with a 900 -year -old woman's skull
+
+*2025-09-17 10:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/900-ஆண்டுகள்-பழமையான-பெண்ணின்-மண்டை-ஓடு-மூலம்-முகத்தை-உருவாக்கிய-விஞ்ஞானிகள்/53-364748) · `ta`
+
+Water management work began in 2022 in Kendal, England. Then there was some bone nests near the church. The officers seized them and handed them over to the Archeology Department. In their study, it was certain that the bone nests were 900 years old.
+
+In the meantime, a woman's skull was in a position to rehabilitation. So Liverpool Jar Moors University scientists were involved in finding out what the woman would have been like. The face of the woman, created by technology, is now placed for public viewing at the Kendal Church.
+
+◼️
+
+[Data](articles/723b9c72.json)
+
+[Extended Data](ext_articles/723b9c72.ext.json)
 
 ---

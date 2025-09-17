@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 19:55:47**
+As of **2025-09-17 19:12:01**
 
 ## Newspaper Stats
 
-*Scraped **76,573** Articles*
+*Scraped **76,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,81 +16,55 @@ economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,440
-adaderanalk | 9,878
+adalk | 7,439
+adaderanalk | 9,876
 tamilmirrorlk | 11,486
-virakesarilk | 12,461
-adaderanasinhalalk | 13,358
+virakesarilk | 12,460
+adaderanasinhalalk | 13,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,803 (96.4%) of 76,573 articles have been extended.
+73,792 (96.4%) of 76,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### Rumesh wave to match throwing
-
-*2025-09-17 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214686) · `si`
-
-Rumesh wave was able to qualify for the finals of the event held today (17) at World Athletics Championships in Tokyo.
-
-Rumesh won the 12th place to 82.8 meters skills.
-
-Only 12 players can reach the finals of the event, three of them are South Asian (India, Pakistan) players.
-
-No other Asian, other than any other people, could not qualify for the finals of this event.
-
-37 players competed in this competition, and Sumantha Ranasinghe, who was 81.86 meters, were 151.86 meters.
-
-◼️
-
-[Data](articles/a899e5f6.json)
-
-[Extended Data](ext_articles/a899e5f6.ext.json)
-
----
-
 ### பூமியை விட்டு விலகிச் செல்லும் சந்திரன்
 
 *2025-09-17 18:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூமியை-விட்டு-விலகிச்-செல்லும்-சந்திரன்/175-364793) · `ta`
 
-The moon is about 1.5 inches per year away from Earth. Scientists warn that the days can last for 25 hours.
+சந்திரன் ஆண்டுக்கு 1.5 அங்குலம் வீதம் பூமியிலிருந்து விலகிச் செல்கிறது. இதனால் நாட்கள் 25 மணிநேரம் நீடிக்கக்கூடும் என்று விஞ்ஞானிகள் எச்சரிக்கின்றனர்.
 
-Dr. Stephen Tigeri, a physicist and astronomical researcher at the Michigan State University, said the Moon is about 1.5 inches (3.8 cm) from our planet every year.
+மிச்சிகன் மாநில பல்கலைக்கழகத்தின் இயற்பியல் மற்றும் வானியல் ஆராய்ச்சியாளரான டாக்டர் ஸ்டீபன் டைகெர்பி, சந்திரன் ஒவ்வொரு ஆண்டும் நமது கிரகத்திலிருந்து 1.5 அங்குலம் (3.8 செ.மீ) மேலும் விலகிச் செல்கிறது எனக் கூறியுள்ளார்.
 
-As a result, he revealed that the earth's rotation is declining. He also noted that the days are long as the event continues.
+இதன் விளைவாக, பூமியின் சுழற்சியும் குறைந்து வருவதாக அவர் வெளிப்படுத்தினார். இந்நிகழ்வு தொடரும்போது நாட்கள் நீளமாகும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
 
-As the moon continues to move away, the number of seconds, minutes and end hours in a day will gradually increase - but none of us who are alive today will notice it.. Remble
+சந்திரன் தொடர்ந்து விலகிச் செல்லும்போது, ​​ஒரு நாளில் வினாடிகள், நிமிடங்கள் மற்றும் இறுதியில் மணிநேரங்களின் எண்ணிக்கையும் படிப்படியாக அதிகரிக்கும் – ஆனால் இன்று உயிருடன் இருக்கும் நம்மில் யாரும் அதைக் கவனிக்க வாய்ப்பில்லை என அவர் கூறுகிறார். R
 
 ◼️
 
 [Data](articles/b12b41f9.json)
 
-[Extended Data](ext_articles/b12b41f9.ext.json)
-
 ---
 
-### There is no room for a crisis like the death of death in queue - President
+### පෝලිම්වල මියයාමට සිදු වූවා වැනි අර්බුදයක් නැවත ඇතිවීමට ඉඩක් නෑ - ජනපති
 
 *2025-09-17 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214685) · `si`
 
-President Anura Kumara Dissanayake emphasizes that a crisis is not allowed to die in Sri Lanka without fuel and gas.
+ඉන්ධන, ගෑස් නොමැතිව පෝලිම්වල ජනතාවට මියයාමට සිදු වූ ආකාරයේ අර්බුදයක් නැවත ශ්‍රී ලංකාව තුළ ඇති වීමට ඉඩ නොතබන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.
 
-President Anura Kumara Dissanayake made these comments from the commencement of the construction of six tanks in Kolonnawa Petroleum Store complex today (17).
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, කොළොන්නාව ඛනිජ තෙල් ගබඩා සංකීර්ණය තුළ තවත් ඛනිජ තෙල් ටැංකි හයක් ඉදිකිරීමේ කටයුතු  අද (17) ආරම්භ කරමිනි.
 
-Three tanks of the Kolonnawa Petroleum Store complex, 2 tanks of Rs.
+කොළොන්නාව ඛනිජ තෙල් ගබඩා සංකීර්ණයේ ඝන මීටර 15,000ක ටැංකි 03ක්, ඝන මීටර 7000ක ටැංකි 02ක් සහ ඝන මීටර 5000ක ටැංකියක් ඇතුළු ගබඩා ටැංකි 06ක ඉදිකිරීමේ කටයුතු මෙසේ ආරම්භ කෙරිණි.
 
-The President said that the present government was working to ensure that the sovereignty preserves the sovereignty of the energy.
+බලශක්ති කේෂ්ත්‍රයේ ස්වාධිපත්‍යය ආරක්ෂා කරමින් ආර්ථික ස්වාධිපත්‍යයක් ළඟා කර ගැනීමට  වත්මන් රජය කටයුතු කරමින් සිටින බව ප්‍රකාශ කළ ජනාධිපතිවරයා එම ප්‍රගතිශිලී පරිවර්තනය වෙනුවෙන් සියලු ජනතා‍වගේ සහයෝගය ඉල්ලා සිටියේය.
 
 ...
 
 [Data](articles/575e622a.json)
-
-[Extended Data](ext_articles/575e622a.ext.json)
 
 ---
 
@@ -142,24 +116,6 @@ They added that the government had failed to respond to the 28 -point letter, ur
 
 ---
 
-### Pioneering of today's violations of Sri Lanka's past violations in Gaza - Human Rights Watch
-
-*2025-09-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225361) · `ta`
-
-These incidents, which have occurred 16 years ago in Sri Lanka and have not yet been punished, are the pioneers of the violations of Gaza and the strategies that have been carried out in Gaza today.
-
-Against this backdrop. Human Rights Monitor Meenakshi Ganguly has urged that it is essential to challenge the trend that continues from the world to protect human rights in Sri Lanka.
-
-The memories of many atrocities that have shocked people globally will be rewritten by new violations in a few years.. But the tragedy for the victims and their families is endless. Unreasonable crimes are a role model for similar future violations.
-
-...
-
-[Data](articles/451853a7.json)
-
-[Extended Data](ext_articles/451853a7.ext.json)
-
----
-
 ### Removes the prohibition imposed by the UNP
 
 *2025-09-17 18:02:26* · [`adalk`](https://www.ada.lk/breaking_news/එජාපයෙන්-සජබයට-ගිය-අයට-පැනවූ-තහනම්-ඉවත්-කරයි/11-418565) · `si`
@@ -173,30 +129,6 @@ The UNP Working Committee has decided to meet with United News Leader Ranil Wick
 [Data](articles/753d559f.json)
 
 [Extended Data](ext_articles/753d559f.ext.json)
-
----
-
-### ‘Clear Quartz’ illegally exported from Sri Lanka, COPE inquiry finds
-
-*2025-09-17 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112617/clear-quartz-illegally-exported-from-sri-lanka-cope-inquiry-finds) · `en`
-
-Stocks of ‘Clear Quartz’ is being illegally exported along with Quartz, according to a finding revealed during an inquiry conducted by the Committee on Public Enterprises (COPE).
-
-This was disclosed during a meeting of the COPE held under the chairmanship of Parliamentarian Dr. Nishantha Samaraweera in Parliament.
-
-During the meeting extended attention was drawn to the issue of Quartz exports.
-
-It was discussed that ‘Clear Quartz’ is being illegally exported along with Quartz, and that certain insiders within the Geological Survey & Mines Bureau appear to be supporting it.
-
-The COPE pointed out that a mechanism should be established to hand over the export of Clear Quartz to the National Gem and Jewellery Authority and to allow only other Quartz to be legally exported.
-
-Meanwhile, it has been revealed that the government has lost a large sum in revenue owing to the failure of the Geological Survey & Mines Bureau to properly charge the state royalty after issuing a mining license.
-
-...
-
-[Data](articles/29f0e66d.json)
-
-[Extended Data](ext_articles/29f0e66d.ext.json)
 
 ---
 
@@ -260,11 +192,7 @@ Jeevan Thondaman said that I was grateful for the support given by Sri Ravi Shan
 
 *2025-09-17 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112616/kerawalapitiya-sobadhanavi-lng-power-plant-connected-to-the-national-grid-) · `en`
 
-The ‘Sobadhanavi’ 350 MW LNG Power Plant in Kerawalapitiya was connected to the national grid a short while ago.
-
-Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody ceremonially connected the plant to the national grid.
-
-The first phase of the LNG Power Plant was commissioned on August 28, 2024.
+Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody have ceremonially connected the ‘Sobadhanavi’ 350 MW LNG Power Plant at Kerawalapitiya with the national grid a short while ago.
 
 ◼️
 
@@ -331,26 +259,6 @@ Dr. Nishantha Samaraweera was the Chairman of the Committee to check on the Audi
 [Data](articles/09a09dd2.json)
 
 [Extended Data](ext_articles/09a09dd2.ext.json)
-
----
-
-### Special insurance scheme introduced for commercial ginger and turmeric cultivation
-
-*2025-09-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112614/special-insurance-scheme-introduced-for-commercial-ginger-and-turmeric-cultivation) · `en`
-
-A special insurance scheme for ginger and turmeric cultivation intended for commercial purposes and export markets has been introduced by the Agriculture and Agrarian Insurance Board.
-
-Chairman Pemasiri Jasinghe Arachchi stated that farmers cultivating ginger will be eligible to obtain insurance coverage of up to Rs. 200,000 per acre.
-
-By paying a 7% insurance premium, farmers will receive coverage against natural disasters, crop diseases, pest infestations and damage caused by wild elephants, he further noted.
-
-Additionally, for turmeric cultivation, farmers will be able to obtain insurance coverage of up to Rs. 700,000 per acre under this scheme.
-
-◼️
-
-[Data](articles/4b44e92c.json)
-
-[Extended Data](ext_articles/4b44e92c.ext.json)
 
 ---
 
@@ -872,26 +780,6 @@ The former president has said, "I am assisted with the wishes of Prime Minister 
 
 ---
 
-### 18.2 billion of the Ceylon Petroleum Corporation for the first 6 months
-
-*2025-09-17 15:20:39* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-මාස-6දී-තෙල්-සංස්ථාව-බිලියන-18-2ක්-ලාභ-ලබලා/11-418558) · `si`
-
-President Anura Kumara Dissanayake said the Petroleum Corporation had earned Rs.
-
-"Petroleum Corporation has profit for the first six months of Rs. 18.2 billion. That means more than 18.2 million citizens paid more than 18.2 million. But the people cannot give the people. The oil market can be given to the people by CPC. If you have it.
-
-There are more competitors in the oil market. If the competitors have a profitable profit. However, the people who earn profits earned by oil cannot be given to the public.
-
-That was the year 500 crores and gave you to the Treasury to the Treasury. We are giving you a way to citizens. It has been the right to give Litro Company profits. "
-
-◼️
-
-[Data](articles/3d66d80e.json)
-
-[Extended Data](ext_articles/3d66d80e.ext.json)
-
----
-
 ### UNP Working Committee decides to lift bans on members who joined SJB
 
 *2025-09-17 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112609/unp-working-committee-decides-to-lift-bans-on-members-who-joined-sjb) · `en`
@@ -1138,17 +1026,11 @@ The team, which came to court for trial, was not allowed to enter the court prem
 
 *2025-09-17 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112607/backhoe-saman-thembili-lahiru-to-be-detained-till-dec-2-for-further-questioning) · `en`
 
-The Walasmulla Magistrate’s Court today (17) granted permission to police to detain underworld figures ‘Backhoe Saman’ and ‘Thambili Lahiru’, until December 2 in order to conduct further investigations related to the murder of Anura Vidanagamage, also known as ‘Kajja’.
+The Walasmulla Magistrate’s Court today (17) granted permission to police to detain “Backhoe Saman” and “Thambili Lahiru” until December 2 in order to conduct further investigations related to the murder of ‘Anura Vidanagamage, also known as ‘Kajja’.
 
-Five individuals, including organized crime gang members ‘Kehelbaddara Padme’, ‘Backhoe Saman’ and ‘Thambili Lahiru’, were recently arrested in Indonesia and extradited to Sri Lanka.
+The duo, identified as prominent underworld gang members, were recently arrested in Indonesia and brought back to Sri Lanka.
 
-The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
-
-Accordingly, ‘Backhoe Saman’ and ‘Thambili Lahiru’ were produced before the Walasmulla Magistrate’s Court today.
-
-Court granted permission to detain the duo until December 2 for further questioning regarding their alleged involvement in orchestrating the murder of Anura Vidanagamage and his two children.
-
-...
+◼️
 
 [Data](articles/0339b829.json)
 
@@ -2057,5 +1939,105 @@ In the meantime, a woman's skull was in a position to rehabilitation. So Liverpo
 [Data](articles/723b9c72.json)
 
 [Extended Data](ext_articles/723b9c72.ext.json)
+
+---
+
+### ICC rejected Pakistan's request
+
+*2025-09-17 10:49:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-கோரிக்கையை-நிராகரித்தது-ஐசிசி/44-364747) · `ta`
+
+Thea -Pakistan team clashed in Duba last Sunday. During the Adut Dil Das, the captain of the team, Sur Yaku Mar Yadav, and Pakistan's team captain Sal Man Ali Aga.
+
+Also during the toss, the leaders of the two teams are the result of the sharing of the Paras Paras and the Paras Paras, the Adut Dil Sur Yaku Mar Yadav and Sal Man Ali Aga. This is the player, the player, the player, the player, the player, the player.
+
+In the case of this Vidyalaya Church Sai Yagi, Pakistan has complained to the Asian Crigg Get Cow, saying that it would be to remove Andy Bigi Raft.. Also, this is the case with the ICC. In this case, the ICC rejected Pakistan's girlfriend's hand.
+
+Information from the ICC to the Pakistani Grick Gate is that the Anti Fifty Rapt is being rejected and your field petition is rejected.
+
+...
+
+[Data](articles/d07daaae.json)
+
+[Extended Data](ext_articles/d07daaae.ext.json)
+
+---
+
+### Nagabh
+
+*2025-09-17 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்த-நாகபாம்பு/175-364745) · `ta`
+
+A cobra was found near the Transport Office of the Parliamentary Complex, which caused a stir last week.
+
+Rohitha Padmasiri, the Assistant Director of Parliament (Finance), first saw the Nagapakkam.
+
+He was on duty that evening and immediately informed parliamentary security officials.
+
+According to parliamentary sources, security officers who arrived there caught the snake and took them to the forest.
+
+It has been a long time since the forest surrounding the Diyawannawa reservoir has entered the parliamentary complex, including a variety of nagab snakes and snakes.. Earlier, security officials caught up with many snakes entered the parliamentary complex and threw it to the forest.
+
+◼️
+
+[Data](articles/1cfa43d4.json)
+
+[Extended Data](ext_articles/1cfa43d4.ext.json)
+
+---
+
+### Action judgment to a 13 -year -old daughter
+
+*2025-09-17 10:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மகளை-வன்புணர்ந்த-தந்தைக்கு-அதிரடி-தீர்ப்பு/175-364744) · `ta`
+
+Kiliyapitiya Magistrate Mihil Sirantha Chatarsinghe on Monday (15) ordered the father of the girl who allegedly abused a 13 -year -old and 8 -month -old girl to be remanded until the 22nd of this month.
+
+The officer who lives in the Pokoda Cultural Center in Kuliyapitiya has been placed in the interrogation of Hasitha Nuwan.
+
+The girl's mother is abroad, the girl's elder sister stayed in a convent in Marawila area due to work. Following an investigation into the telephone call, the court said that the suspect's father was arrested after being taken to several places and was arrested.
+
+The police said that the girl's father and her boyfriend in Senanigama area were abused and the same had been done in the Hettipola and Bingiriya police divisions.
+
+Police said the father had committed the first crime after she left the house with her husband with her older sister who was working from home and locked the door.
+
+...
+
+[Data](articles/4e901385.json)
+
+[Extended Data](ext_articles/4e901385.ext.json)
+
+---
+
+### Thulci Aluwihare, Sharmini Ratwatte appointed to Bank of Ceylon board
+
+*2025-09-17 10:38:00* · [`economynextcom`](https://economynext.com/thulci-aluwihare-sharmini-ratwatte-appointed-to-bank-of-ceylon-board-240879/) · `en`
+
+ECONOMYNEXT – Thulci Aluwihare and Sharmini Ratwatte have been appointed as directors to the board of Sri Lanka’s state owned Bank of Ceylon, a stock exchange filing said.
+
+The profiles of the two independent, non-executive directors, as provided by the bank, are reproduced below:
+
+An experienced business strategist and an Investment professional with International experience in corporate wealth creation, specialised in investment strategy, transaction advisory, divestiture, capital raising and restructuring. +2S years of work experience in London, Melbourne and Colombo.
+
+...
+
+[Data](articles/7a11641a.json)
+
+[Extended Data](ext_articles/7a11641a.ext.json)
+
+---
+
+### Solid mist to central hills
+
+*2025-09-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214665) · `si`
+
+The catchment areas in the western slopes of the central highlands have been interrupted by heavy rains and solid murd.
+
+The thick mist is in Hatton-Colombo main roads and by roads, Ada Derana reporter said.
+
+Drivers from drivers of the traffic officers of the Hatton Police call on the front of the front lamps of the vehicles and to take care of the front lamps of the vehicles.
+
+◼️
+
+[Data](articles/a3850ec5.json)
+
+[Extended Data](ext_articles/a3850ec5.ext.json)
 
 ---

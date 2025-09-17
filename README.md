@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 03:06:05**
+As of **2025-09-18 02:53:38**
 
 ## Newspaper Stats
 
-*Scraped **76,602** Articles*
+*Scraped **76,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 775
 economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
-dailyftlk | 5,434
+dailyftlk | 5,432
 adalk | 7,444
 adaderanalk | 9,886
-tamilmirrorlk | 11,493
+tamilmirrorlk | 11,492
 virakesarilk | 12,464
 adaderanasinhalalk | 13,363
 
@@ -26,65 +26,9 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,922 (96.5%) of 76,602 articles have been extended.
+73,919 (96.5%) of 76,599 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-09-18 (Thursday)
-
-### அரசாங்கத்திற்கு பெருந்தொகையான நிதி இழப்பு
-
-*2025-09-18 02:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்திற்கு-பெருந்தொகையான-நிதி-இழப்பு/175-364811) · `ta`
-
-புவிச்சரிதவியல் அளவை மற்றும் சுரங்கப் பணியகம் அரசுரிமையை சரியான முறையில் அறவிடாமையால் அரசாங்கத்திற்கு பெருந்தொகையான நிதி இழப்பு ஏற்பட்டிருப்பது கோப் குழுவில் தெரியவந்தது.
-
-பாராளுமன்ற உறுப்பினர் நிஷாந்த சமரவீர தலைமையில் இடம்பெற்ற அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழுக்கூட்டத்தின் போதே இந்த விடயம் தெரியவந்துள்ளது.
-
-சிலாபம் பெருந்தோட்ட நிறுவனத்துக்குச் சொந்தமான புத்தளம், முக்குத்தொடுவாவ தோட்டத்தில் மணல் அகழ்வுக்காக தனியார் நிறுவனத்திற்கு 2023 ஆம் ஆண்டு டிசம்பர் முதல் 2024 செப்டெம்பர் மாதம் வரையில் அகழ்வு பணிக்கான அனுமதிப் பத்திரம் வழங்கப்பட்டுள்ளது.
-
-ஒப்பந்தக்காரரினால் 36,531 முதல் 45,561 கியூப் வரையிலான மணல் அகற்றப்பட்டுள்ளபோதிலும், 1,564 கியூப் மணலுக்கு மாத்திரமே அரசுரிமையாக 6 லட்சத்து 86,464 ரூபாய் செலுத்தப்பட்டிருப்பதாக கணக்காய்வாளர் நாயகம் சுட்டிக்காட்டினார்.
-
-அதற்கமைய 12 மில்லியன் ரூபாவுக்கும் அதிகமான அரசுரிமை இழக்கப்பட்டிருப்பதாக கோப் குழுவினால் சுட்டிக்காட்டப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/98ec2d3b.json)
-
----
-
-### There are humans in Gaza
-
-*2025-09-18 02:38:02* · [`dailyftlk`](https://www.ft.lk/columns/There-are-humans-in-Gaza/4-781824) · `en`
-
-Mushtaha Tower in Gaza City destroyed by Israeli fire on 5 September 2025 – Photo by Mahmoud Issa/Reuters
-
-The Mushtaha residential tower stands tall next to a sea of tents in the West of Gaza City. A guided bomb from an Israeli military jet hits its base, throwing debris, dust, and a cloud of ashen hell into the air. While the video captures the air barely clearing, and even as we get a glimpse of the building still managing to stand, a second bomb hits. The Mushtaha tower comes down on itself in an explosion that rattles the earth.
-
-There have been mice inside the tower, and insects. Cockroaches and their ilk. These insignificant creatures stand no chance as the world literally collapses around them. With no one to explain what is happening, no one around to evacuate them, the mice and the cockroaches die in their hundreds and thousands, and the former tower becomes their tomb.
-
-...
-
-[Data](articles/f216caf0.json)
-
----
-
-### Geneva arena, Mahinda Rajapaksa returns to Ruhuna, Sri Lanka-Nepal outcomes
-
-*2025-09-18 02:25:02* · [`dailyftlk`](https://www.ft.lk/columns/Geneva-arena-Mahinda-Rajapaksa-returns-to-Ruhuna-Sri-Lanka-Nepal-outcomes/4-781822) · `en`
-
-Ambassador of China calls on MR before he leaves Colombo residence
-
-Bristling with misplaced arrogance as always, JVP theoretician and NPP Minister Bimal Rathnayake boasted in Parliament that 43 countries had spoken in favour of Sri Lanka after Foreign Minister Vijitha Herath’s address to the UNHRC in Geneva following UN Human Rights High Commissioner Volker Turk’s Report. Bimal seems unaware that 43 is not the most relevant figure. While all 193 UN member states are present in Geneva and have the right to speak, only 47 of the 193 have been elected members of the UNHRC with full voting rights at any given time.
-
-Therefore, the relevant question is how many of the 43 countries that spoke in support of Vijitha Herath’s stand, currently enjoy UNHRC ‘member state’ status with voting rights? How many of the 43 can vote at this session?
-
-The answer is 14. That’s way less than half, and slightly under a third.
-
-...
-
-[Data](articles/db36a3ff.json)
-
----
 
 ### 2025-09-17 (Wednesday)
 
@@ -2055,5 +1999,57 @@ This underlying state we will be concluded. The people who are currently arreste
 [Data](articles/822adc58.json)
 
 [Extended Data](ext_articles/822adc58.ext.json)
+
+---
+
+### ‘Backhoe Saman’ and ‘Thembili Lahiru’ produced before court
+
+*2025-09-17 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112601/backhoe-saman-and-thembili-lahiru-produced-before-court) · `en`
+
+Underworld figures known as ‘Backhoe Saman’ and ‘Thembili Lahiru’, who were recently brought back to Sri Lanka from Indonesia, have been produced before the Walasmulla Magistrate’s Court today (17).
+
+The Western Province North Crimes Division had earlier informed the Colombo Magistrate’s Court that the individuals would be detained and questioned under the Prevention of Terrorism Act (PTA).
+
+Authorities confirmed that five individuals, including ‘Kehelbaddara Padme’, who are leaders of organized crime gangs involved in multiple murders—including the killing of ‘Ganemulla Sanjeewa’—and drug trafficking, were arrested in Indonesia.
+
+The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
+
+◼️
+
+[Data](articles/4e59ae6d.json)
+
+[Extended Data](ext_articles/4e59ae6d.ext.json)
+
+---
+
+### Baco Saman and Orange lead to Lahiru court
+
+*2025-09-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214669) · `si`
+
+Two major underworld gangs, who was arrested in Indonesia, was produced before the Walasmulla Magistrate's Court.
+
+◼️
+
+[Data](articles/044d2be5.json)
+
+[Extended Data](ext_articles/044d2be5.ext.json)
+
+---
+
+### Criminal Center against Keheliya came in the lorry
+
+*2025-09-17 12:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவுக்கு-எதிரான-குற்றப்பத்திரிக்கை-லொறியில்-வந்தது/175-364762) · `ta`
+
+The Colombo High Court on Tuesday (16) ordered the release of defendants, including former minister Keheliya Rambukwella, who was accused of substandard drug case, on Tuesday.
+
+ஒவ்வொரு பிரதிவாதியும் ரூ. 500,000 cash bail. He was ordered to be released in two bonds worth Rs 5 million.
+
+The court banned the defendants from going abroad and ordered them to hand over their passports to the court.
+
+◼️
+
+[Data](articles/027fb54f.json)
+
+[Extended Data](ext_articles/027fb54f.ext.json)
 
 ---

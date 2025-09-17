@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 11:07:58**
+As of **2025-09-17 12:14:01**
 
 ## Newspaper Stats
 
-*Scraped **76,466** Articles*
+*Scraped **76,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,161 +12,515 @@ newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 773
-economynextcom | 4,628
+economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,426
-adaderanalk | 9,857
-tamilmirrorlk | 11,452
-virakesarilk | 12,454
-adaderanasinhalalk | 13,338
+adalk | 7,427
+adaderanalk | 9,861
+tamilmirrorlk | 11,458
+virakesarilk | 12,458
+adaderanasinhalalk | 13,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,641 (96.3%) of 76,466 articles have been extended.
+73,668 (96.3%) of 76,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### மஹிந்தவிடம் குசலம் விசாரித்தார் விமல்
+### 'කොදු සිඳගත් ජාතියකට දියුණු ජාතියක් වෙන්න බෑ...' රාජ්‍ය සේවකයින්ටත් ජනපතිගෙන් අනතුරු ඇඟවීමක්
+
+*2025-09-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214667) · `si`
+
+2022 - 2023 ආර්ථික අර්බුදය සහ ඒ තුළින් ජනිත කළ සමාජ ඛේදවාචකය ඕපපාතික ක්‍රියාවක් නොවන බවත් ඒ හා බැඳුනු විශාල සාධක ගණනාවක් ඇති බවත් ජනාධිපතිවරයා පවසයි.
+
+යළි කෙදිනකවත් ශ්‍රී ලංකාවේ එවැනි අර්බුදයක් ඇති නොවන ලෙස රට ගොඩනඟන බවට ජනතාවට සහතික වන බව ද මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතියේ කඩවත සිට මීරිගම දක්වා වූ කොටසේ යළි ඉදිකිරීම් ආරම්භ කිරීමේ සමාරම්භක උත්සවයට එක්වෙමින් ජනාධිපතිවරයා කියා සිටියේය.
+
+ඉදිකිරීම්වලින් පමණක් රටක ආර්ථික ස්ථාවරභාවය නිර්මාණය නොවන බවත් පැති ගණනාවකින් එය තහවුරු කරමින් සිටින බවත් ජනාධිපතිවරයා මෙහිදී වැඩිදුරටත් කියා සිටියේය.
+
+එමෙන්ම සමස්ත ආර්ථිකය සහ ජන ජීවිතය විශාල කඩා වැටීමකට ලක්ව තිබු මොහොතක 2026 අයවැය තුළින් ආර්ථික අර්බුදය අවසන් කිරීමට සැලසුම් කරන බව ද ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේය.
+
+...
+
+[Data](articles/a6696f10.json)
+
+---
+
+### இலங்கை பேருந்துகளில் விரைவில் பெண் ஓட்டுநர்கள்
+
+*2025-09-17 11:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பேருந்துகளில்-விரைவில்-பெண்-ஓட்டுநர்கள்/175-364757) · `ta`
+
+இலங்கை போக்குவரத்து சபையின் (SLTB) பொது போக்குவரத்து சேவையில் பெண் ஓட்டுநர்கள் மற்றும் நடத்துனர்கள் விரைவில் சேர்க்கப்படுவார்கள் என்று போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+கொழும்பு மாவட்ட செயலகத்தில் நடைபெற்ற சிறப்பு நிகழ்ச்சியில் கலந்து கொண்ட அவர் செவ்வாய்க்கிழமை (16) இந்த அறிவிப்பை வெளியிட்டார்.
+
+மரியானா அகழியை விட ஆழமான ஆழத்தில் இலங்கை போக்குவரத்து சபை விழுந்துள்ளதாகவும், அதன் அழிவுக்கு அரசியல்வாதிகளே பொறுப்பு என்றும் அமைச்சர் ரத்நாயக்க கூறினார்.
+
+இலங்கையில் உள்ள SLTB டிப்போக்கள் குறைபாடுகளால் நிறைந்து பூமியில் நரகமாக மாறிவிட்டதாக அவர் மேலும் கூறினார்.
+
+இருப்பினும், 25 பேருந்து பணிமனைகளை நவீனமயமாக்க ஏற்கனவே நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+இலங்கை போக்குவரத்து சபை ஊழியர்களின் தற்போதைய பற்றாக்குறையை நிவர்த்தி செய்வதற்காக 750 புதிய ஓட்டுநர்கள் மற்றும் நடத்துனர்கள் பணியமர்த்தப்படுவதாகக் கூறிய அமைச்சர், இலங்கை போக்குவரத்து சபை ஒரு இலாபகரமான நிறுவனமாக மீண்டும் கட்டியெழுப்பப்படுவதாக உறுதிப்படுத்தினார்.
+
+◼️
+
+[Data](articles/e7c677ca.json)
+
+---
+
+### “தேசிய நெடுஞ்சாலை திட்டத்தை தயாரிப்போம்“;பிமல் விளக்கம்
+
+*2025-09-17 11:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நெடுஞ்சாலை-திட்டத்தை-தயாரிப்போம்-பிமல்-விளக்கம்/175-364756) · `ta`
+
+கடவத்தை முதல் மீரிகம வரையிலான மத்திய அதிவேக நெடுஞ்சாலை திட்டத்தின் முதல் பகுதியின் தொடக்க விழாவில் உரையாற்றிய துறைமுகங்கள், நெடுஞ்சாலைகள் மற்றும் விமான போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க, தற்போதைய அரசாங்கத்தின் கீழ் முந்தைய நிர்வாகங்களின் கீழ் இருந்த எந்த ஒரு பிரச்சனையும் ஒப்பந்ததாரர்கள் எதிர்கொள்ள மாட்டார்கள் என்று கூறினார்.
+
+"இந்த மத்திய அதிவேக நெடுஞ்சாலையை 2028 சிங்கள-தமிழ் புத்தாண்டுக்குள் நாங்கள் முடிப்போம். இந்த ஆண்டு ரம்புக்கனையில் இருந்து கலகெதர வரையிலான கட்டுமானப் பணிகளைத் தொடங்க திட்டமிட்டுள்ளோம்.
+
+துறைமுகத்திற்கு பயன்படுத்துகின்ற வீதியின் பணிகள் 98 சதவீதம் நிறைவடைந்துள்ளது. அடுத்த ஆண்டுக்குள் இந்தப் பணியை நாங்கள் முடிப்போம் என நம்புகிறோம்.
+
+ருவன்புர அதிவேக நெடுஞ்சாலையின் பணிகள் நிறுத்தப்பட்டிருக்கின்றன மேலும் இங்கிரிய வரையிலான கட்டுமானப் பணிகள் மிக விரைவில் ஆரம்பிக்கப்படவுள்ளது.
+
+இங்கிரியவிலிருந்து இரத்தினபுரி வரையிலான சாலைகள் நன்கு அபிவிருத்தி செய்யப்பட்டு வருகின்றன. தெற்கு அதிவேக நெடுஞ்சாலை சுமார் பன்னிரண்டு ஆண்டுகளாக புதுப்பிக்கப்படவில்லை.
+
+...
+
+[Data](articles/51080904.json)
+
+---
+
+### சிறுவனை வன்புணர்ந்த பக்கத்து வீட்டு தந்தை கைது
+
+*2025-09-17 11:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-வன்புணர்ந்த-பக்கத்து-வீட்டு-தந்தை-கைது/76-364755) · `ta`
+
+மொனராகலை,தனமல்வில பொலிஸ் பிரிவிற்குட்பட்ட கித்துல்கோட்டை பகுதியைச் சேர்ந்த 11 வயதுடைய  சிறுவனை பாலியல் வன்கொடுமை செய்த அயல் வீட்டு குடும்பஸ்தர் செவ்வாய்க்கிழமை (16) கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த சிறுவன் இது ​தொடர்பாக தனது ஆசிரியருக்கு தெரிவித்ததையடுத்து ஆசிரியரால் பொலிஸ் நிலையத்திற்கு தகவல் வழங்கப்பட்டுள்ளது.
+
+அதன்படி விசாரணைகளை முன்னெடுத்த பொலிஸாருக்கு, சந்தேக நபர் பல சந்தர்ப்பங்களில், அவரது வீட்டில் வைத்து மற்றும் சிறுவனின் வீட்டில் வைத்து, சிறுவனை பாலியல் வன்கொடுமை  செய்துள்ளமை தெரியவந்துள்ளது.
+
+சந்தேக நபரை வெல்லவாய நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதுடன் பாதிக்கப்பட்ட சிறுவன் வைத்திய பரிசோதனைக்காக தனமல்வில பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e91f47f2.json)
+
+---
+
+### கடற்படையினருக்காக ஆங்கில மொழி ஆய்வுகூடத்தைத் ஆரம்பிக்கும் அமெரிக்க - இலங்கை பங்காண்மை !
+
+*2025-09-17 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225291) · `ta`
+
+திருகோணமலையிலுள்ள கடற்படை மற்றும் கடல்சார் கல்லூரியில் ஒரு அதிநவீன ஆங்கில மொழி ஆய்வுகூடத்தினை திங்கட்கிழமை ( செப்டம்பர் 15 ) இலங்கை கடற்படையினருடன் இணைந்து இலங்கையிலுள்ள அமெரிக்கத் தூதரகம் உத்தியேகபூர்வமாக திறந்து வைத்தது.
+
+இலங்கையிலுள்ள அமெரிக்கத் தூதரகத்தின் சிரேஷ்ட பாதுகாப்பு அதிகாரியான கேர்ணல் மெத்திவ் ஹவ்ஸ், இலங்கை கடற்படையின் பயிற்சிகளுக்கான பணிப்பாளர் நாயகம் ரியர் அட்மிரல் தம்மிக்க விஜேவர்த்தன, இலங்கை கடற்படை மற்றும் கடல்சார் கல்லூரியின் கட்டளைத்தளபதி கொமடோர் தினேஷ் பண்டார ஆகியோர் இந்த அதிநவீன வளாகத்தினைத் திறந்து வைத்தனர்.
+
+உயர்தர பல்லூடக தொழில்நுட்பம் மற்றும் அமெரிக்க பாதுகாப்பு மொழி நிறுவனத்தின் சமீபத்திய பயிற்சி மென்பொருள் ஆகியவற்றைக் கொண்ட இவ்வாங்கில மொழி ஆய்வுகூடமானது, இலங்கை கடற்படை அதிகாரிகள், சர்வதேச கடற்படை நடவடிக்கைகள் மற்றும் பயிற்சிகளின் போது பயன்படுத்தப்படும் பொதுவான மொழியான ஆங்கிலத்தில் தேர்ச்சி பெறுவதற்கான கருவிகளை வழங்கும்.
+
+...
+
+[Data](articles/04dcde8c.json)
+
+---
+
+### மாரடைப்பால் பாகிஸ்தான் குழந்தை நட்சத்திரம் உமர் ஷா மரணம்: ரசிகர்கள் அதிர்ச்சி
+
+*2025-09-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225292) · `ta`
+
+பாகிஸ்தானின் பிரபல குழந்தை நட்சத்திரமான உமர் ஷா ( Umar Shah) தனது 15 வயதில் மாரடைப்பு காரணமாக உயிரிழந்தார். அவரது திடீர் மரணம் அந்நாட்டு ரசிகர்களையும், பிரபலங்களையும் சோகத்தில் ஆழ்த்தியுள்ளது.
+
+பிரபல 'ஜீதோ பாகிஸ்தான்' (Jeeto Pakistan) தொலைக்காட்சி தொடர் உட்பட பல நிகழ்ச்சிகளில் நடித்து வந்த உமர் ஷா, தனது வீட்டில் மாரடைப்பு காரணமாக உயிரிழந்தார்.
+
+25 வயதிற்குட்பட்ட இளைஞர்களுக்கு மாரடைப்பு ஏற்படுவது என்பது மிகவும் அரிதானது. இந்நிலையில், சிறு வயதிலேயே உமர் ஷா உயிரிழந்தது பாகிஸ்தானில் உள்ள ரசிகர்களை பெரும் அதிர்ச்சியில் ஆழ்த்தியுள்ளது.
+
+உமர் ஷாவின் சகோதரரும், பிரபல டிக்டொக் நட்சத்திரமுமான அகமது ஷா, தனது சமூக வலைத்தள பக்கத்தில் இந்த துயர செய்தியை வெளியிட்டுள்ளார்.
+
+உமர் ஷாவின் மரணச் செய்தி வெளியானதும், பல பிரபலங்கள் தங்கள் இரங்கலைத் தெரிவித்து வருகின்றனர்.
+
+'ஜீதோ பாகிஸ்தான்' நிகழ்ச்சியின் தொகுப்பாளரான ஃபஹத் முஸ்தஃபா, "உமர் நம்மை விட்டுப் பிரிந்துவிட்டான் என்பதை நம்ப முடியவில்லை" என்று பதிவிட்டுள்ளார்.
+
+...
+
+[Data](articles/814d33ff.json)
+
+---
+
+### Gammanpila’s petition seeking to prevent arrest adjourned
+
+*2025-09-17 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112599/gammanpilas-petition-seeking-to-prevent-arrest-adjourned) · `en`
+
+The Court of Appeal has ordered that the petition filed by former Minister Udaya Gammanpila, seeking an order to prevent his arrest by the Criminal Investigation Department (CID) under the International Covenant on Civil and Political Rights (ICCPR), be taken up for hearing on September 24.
+
+The order was issued by a bench of the Court of Appeal after considering a request made by President’s Counsel Manohara de Silva, who appeared on behalf of the petitioner, said Ada Derana reporter.
+
+However, the CID recently informed the Court of Appeal that no decision has been made at this time to arrest Udaya Gammanpila.
+
+◼️
+
+[Data](articles/85971766.json)
+
+---
+
+### Gammanpila's petitions give a date to consider
+
+*2025-09-17 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214666) · `si`
+
+The Court of Appeal has set as to the 24th to consider the petition filed by former Minister Udaya Gammanpila.
+
+The Court of Appeal has issued this order after the request made by President's Counsel Manhara De Silva, who appeared on behalf of the petitioner Udaya Gammanpila.
+
+Former Minister Udaya Gammanpila had presented the order to issue an order to issue a prevention of the CID under the Convention of the United Nations.
+
+However, the Criminal Investigations Department recently informed the Court of Appeal on the occasion.
+
+◼️
+
+[Data](articles/5def03b2.json)
+
+[Extended Data](ext_articles/5def03b2.ext.json)
+
+---
+
+### சுதந்திர தின விழாவிற்கு தலைமை தாங்கிய முதல் பெண்மணி என்ற வரலாற்றைப் படைத்தார்  மெக்சிகோவின் ஜனாதிபதி கிளாடியா ஷீன்பாம்
+
+*2025-09-17 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225287) · `ta`
+
+மெக்சிகோ சுதந்திர தின கொண்டாட்டங்களை திங்கட்கிழமை இரவு ஆரம்பித்து வைத்து, ஆண்கள் மட்டுமே தலைமை தாங்கிய நூற்றாண்டுக்கும் மேலான நடைமுறையை ஜனாதிபதி கிளாடியா ஷீன்பாம் முடிவுக்குக் கொண்டு வந்துள்ளார்.
+
+மெக்சிகன் தலைநகரின் பிரதான சதுக்கத்தில் பல்லாயிரக்கணக்கான மக்கள் கூடுவதற்கு முன்னர், அரச அரண்மனையின் பால்கனிகளில் ஒன்றிலிருந்து ஷீன்பாம் உரையாற்றினார்.
+
+"மெக்சிகன் மக்களின் கண்ணியம் வாழ்க! சுதந்திரம் வாழ்க! சமத்துவம் வாழ்க! ஜனநாயகம் வாழ்க! நீதி வாழ்க! சுதந்திரமான, சுதந்திரமான மற்றும் இறையாண்மை கொண்ட மெக்சிகோ வாழ்க!" என ஜனாதிபதி என தெரிவித்தார்.
+
+சிறிது நேரத்திற்குப் பின்னர், ஸ்பெயினிலிருந்து மெக்சிகோ சுதந்திரம் பெற்ற 215 வது ஆண்டு நிறைவை நினைவுகூரும் வகையில் ஷென்பாம் வரலாற்று அரண்மனையின் மணியை அடித்தார், அதனை தொடர்ந்து தலைநகரின் கதீட்ரலின் மணிகள் ஒலிக்கப்பட்டு தேசிய கீதம் பாடப்பட்டது.
+
+...
+
+[Data](articles/bc3d68bc.json)
+
+---
+
+### Construction work of the Kadawatha-Meerigama Highway Division
+
+*2025-09-17 11:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவத்தை-மீரிகம-நெடுஞ்சாலைப்-பிரிவின்-கட்டுமானப்-பணிகள்-ஆரம்பம்/175-364753) · `ta`
+
+The construction work of the Kadawatha-Mrigama Division of the Central Highway was officially launched on Wednesday (17) at 10:00 am under the leadership of President Anura Kumara Dissanayake.
+
+Launched under the theme "Renaissance Highway", the project indicates a significant step in expanding the Sri Lankan highway network, aimed at reducing traffic congestion and increasing the economic connection between major areas.
+
+◼️
+
+[Data](articles/dc616615.json)
+
+[Extended Data](ext_articles/dc616615.ext.json)
+
+---
+
+### Nine-hour water cut in Colombo and suburbs tomorrow
+
+*2025-09-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112598/nine-hour-water-cut-in-colombo-and-suburbs-tomorrow) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour water cut from 10:00 a.m. to 7:00 p.m. on tomorrow (18) for several areas in Colombo and suburbs.
+
+The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
+
+In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
+
+◼️
+
+[Data](articles/85a113db.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-09-17 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240875/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 301.97/302.02 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields were somewhat steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
+
+A bond maturing on 15.03.2031 was quoted at 10.02/10 percent.
+
+A bond maturing on 15.10.2032 was quoted at 10.45/50 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.78/82 percent.
+
+An auction of Rs. 75,000 million Treasury bills was ongoing.
+
+The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 406.2882 buying, and 417.6500 selling, and the euro was 351.6783 buying, 363.0415 selling.
+
+...
+
+[Data](articles/d5e56f93.json)
+
+---
+
+### At the Meat Shop, Nakkal satire
+
+*2025-09-17 11:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறைச்சி-கடையில்-நக்கல்-நையாண்டி/76-364752) · `ta`
+
+It is reported that the owner and employees of a meat outlets in Hatton are being treated with customers.
+
+Meat is sold here in some varieties of meat mixed with separate meat. However, it is revealed that the meat is not properly classified as the customers' needs.
+
+They sell the name of separate meat. Similarly, customers say that the meat that is sold with arise can arise at a higher rate and there is very little meat.
+
+People living in the gardens are said to be the customers of the outlet and that they are negligent and if they talk about it, they are poor.
+
+"Hatton Beef Store does not have any respect and respect for customers. There is no proper answer when asked about meat.
+
+Therefore, the public is appealing to the consumer protection authorities to take legal action.
+
+◼️
+
+[Data](articles/295d1a86.json)
+
+[Extended Data](ext_articles/295d1a86.ext.json)
+
+---
+
+### There is a severe employment shortage in Sri Lanka
+
+*2025-09-17 11:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடும்-வேலைவாய்ப்பு-பற்றாக்குறை-நிலவும்/175-364751) · `ta`
+
+The World Bank warns that nearly a million young people will join the employees of Sri Lanka in the next decade, but it is estimated that only 300,000 (3 lakh) new jobs will be created at that time.
+
+World Bank Deputy Chairman Johannes Jude says that it is necessary to promote private sector growth to create employment. This was stated in the official report issued by the World Bank at the conclusion of the first official visit to Sri Lanka by the Deputy Chairman of the World Bank.
+
+The World Bank team will work together to attract private capital, strengthen the competitiveness and service supply and to expand employment opportunities across the country.
+
+...
+
+[Data](articles/ddc0f66d.json)
+
+[Extended Data](ext_articles/ddc0f66d.ext.json)
+
+---
+
+### Malwathu & Asgiri Chief Prelates condemn defamatory campaigns on Diyawadana Nilame post
+
+*2025-09-17 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112597/malwathu-asgiri-chief-prelates-condemn-defamatory-campaigns-on-diyawadana-nilame-post) · `en`
+
+The chief prelates of the Malwathu and Asgiri Chapters have issued a statement expressing deep concern over defamatory remarks and propaganda circulating in relation to the Diyawadana Nilame post, stating that such actions are damaging the dignity of the Sri Dalada Maligawa (Temple of the Sacred Tooth Relic), the Ubhaya Maha Viharaya, and the Buddhist community at large.
+
+The Diyawadana Nilame, as the lay custodian of the Temple of the Sacred Tooth Relic—one of the most venerated sites for Buddhists worldwide—is regarded as the foremost lay Buddhist in the country and is held in high esteem both nationally and internationally.
+
+In terms of the Viharagam and Dewalagam Ordinance No. 19 of 1931 on Buddhist Temporalities, the Diyawadana Nilame is appointed through an election for a tenure of ten years.
+
+The current Diyawadana Nilame’s term has now expired, and arrangements are being made to appoint a successor, with several candidates, including the incumbent, contesting the position.
+
+...
+
+[Data](articles/fe0dfbd3.json)
+
+---
+
+### Wimal inquired about Mahinda
 
 *2025-09-17 10:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-குசலம்-விசாரித்தார்-விமல்/175-364749) · `ta`
 
-தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச தங்காலை கார்ல்டன் இல்லத்தில் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை செவ்வாய்க்கிழமை (16) சந்தித்தார்.
+National Freedom Front leader Wimal Weerawansa met with former President Mahinda Rajapaksa on Tuesday (16) at the Tangalle Carlton residence.
 
-மஹிந்த ராஜபக்ஷவை சந்தித்த பின்னர், விமல் வீரவன்ச தனது பேஸ்புக் கணக்கில் பின்வருமாறு பதிவிட்டுள்ளார்:
+After meeting Mahinda Rajapaksa, Wimal Weerawansa posted on his Facebook account:
 
-"பல தசாப்தங்களாக வளர்க்கப்பட்ட விடுதலைப் புலி பயங்கரவாதத்தை தோற்கடிப்பதில் அரசியல் தலைமைத்துவத்தை வழங்கிய 5வது நிறைவேற்று ஜனாதிபதி மஹிந்த ராஜபக்ஷ, தனது உயிருக்கு அச்சுறுத்தல்கள் இருந்தபோதிலும், கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து திரும்பி தங்காலை கார்ல்டன் இல்லத்திற்கு குடிபெயர்ந்தார் என்ற செய்தி, இலங்கையில் மட்டுமல்ல, உலகம் முழுவதும் பெரும் கவனத்தை ஈர்த்த செய்தியாகும்.
+“The news that the 5th Executive President Mahinda Rajapakse, who gave political leadership over the defeat of terrorism over the decades has been threatened with his life threats, has moved to the Tangalle Carlton House, not only in Sri Lanka, but in Sri Lanka.
 
-அரசியல் வேறுபாடுகள் இருந்தபோதிலும், பயங்கரவாதத்தை தோற்கடிக்க அவர் வழங்கிய அரசியல் தலைமைக்கு நன்றி தெரிவிக்கும் ஒரு செயலாகும். தேசிய சுதந்திர முன்னணியின் தேசிய அமைப்பாளர் ஜெயந்த சமரவீர மற்றும் தேசிய சுதந்திர முன்னணியின் பிற பிரதிநிதிகள் தங்காலை கார்ல்டன் இல்லத்தில் அவரைச் சந்தித்து அவரது நலம் குறித்து விசாரித்து எங்கள் நன்றியைத் தெரிவித்துக் கொண்டோம்."
+In spite of political differences, it is an act of thanking the political leadership he provided to defeat terrorism. The National Freedom Front's National Organizer Jayantha Samaraweera and other representatives of the National Freedom Front met him at the Tangalle Carlton residence and expressed our gratitude.
 
 ◼️
 
 [Data](articles/60032a71.json)
 
+[Extended Data](ext_articles/60032a71.ext.json)
+
 ---
 
-### 900 ஆண்டுகள் பழமையான பெண்ணின் மண்டை ஓடு மூலம் முகத்தை உருவாக்கிய விஞ்ஞானிகள்
+### Scientists who made the face with a 900 -year -old woman's skull
 
 *2025-09-17 10:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/900-ஆண்டுகள்-பழமையான-பெண்ணின்-மண்டை-ஓடு-மூலம்-முகத்தை-உருவாக்கிய-விஞ்ஞானிகள்/53-364748) · `ta`
 
-இங்கிலாந்தின் கெண்டல் நகரில் கடந்த 2022-ம் ஆண்டு நீர் மேலாண்மை பணிகள் தொடங்கியது. அப்போது அங்குள்ள தேவாலயம் அருகே சில எலும்பு கூடுகள் கிடைத்தன. அவற்றை அதிகாரிகள் கைப்பற்றி தொல்லியல் துறையிடம் ஒப்படைத்தனர். அவர்கள் நடத்திய ஆய்வில் அந்த எலும்பு கூடுகள் 900 ஆண்டுகள் பழமையானவை என்பது உறுதியானது.
+Water management work began in 2022 in Kendal, England. Then there was some bone nests near the church. The officers seized them and handed them over to the Archeology Department. In their study, it was certain that the bone nests were 900 years old.
 
-இதற்கிடையே அங்கு கைப்பற்றிய ஒரு பெண்ணின் மண்டை ஓடு மறுகட்டமைப்புக்கு ஏற்ற நிலையில் இருந்தது. எனவே அந்த பெண்ணின் முகம் எப்படி இருந்திருக்கும் என்பதை கண்டறியும் பணியில் லிவர்பூல் ஜார் மூர்ஸ் பல்கலைக்கழக விஞ்ஞானிகள் ஈடுபட்டனர். தொழில்நுட்பம் மூலம் உருவாக்கப்பட்ட அந்த பெண்ணின் முகம் கெண்டல் தேவாலயத்தில் பொதுமக்களின் பார்வைக்காக தற்போது வைக்கப்பட்டு உள்ளது.
+In the meantime, a woman's skull was in a position to rehabilitation. So Liverpool Jar Moors University scientists were involved in finding out what the woman would have been like. The face of the woman, created by technology, is now placed for public viewing at the Kendal Church.
 
 ◼️
 
 [Data](articles/723b9c72.json)
 
+[Extended Data](ext_articles/723b9c72.ext.json)
+
 ---
 
-### பாகிஸ்தான் கோரிக்கையை நிராகரித்தது ஐசிசி
+### ICC rejected Pakistan's request
 
 *2025-09-17 10:49:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-கோரிக்கையை-நிராகரித்தது-ஐசிசி/44-364747) · `ta`
 
-ஆசிய கிண்ண கிரிக்​கெட் தொடரில் கடந்த ஞாயிற்​றுக்​கிழமை துபா​யில் நடை​பெற்ற ஆட்​டத்​தில் இந்​தியா - பாகிஸ்​தான் அணி​கள் மோதின. இந்த ஆட்​டத்​தில் டாஸின்​போது இந்​திய அணியின் தலைவர் சூர்​யகு​மார் யாதவ், பாகிஸ்​தான் அணி​யின் அணித்தலைவர் சல்​மான் அலி ஆகா​வுடன் கைகுலுக்​க​வில்​லை.
+Thea -Pakistan team clashed in Duba last Sunday. During the Adut Dil Das, the captain of the team, Sur Yaku Mar Yadav, and Pakistan's team captain Sal Man Ali Aga.
 
-மேலும் டாஸின்​போது இரு அணி​களின் தலைவர்களுமே தங்​களின் விளை​யாடும் லெவன் பட்​டியலை பரஸ்​பரம் பகிரும் நிலை​யில், அந்த ஆட்​டத்​தில் சூர்​யகு​மார் யாத​வும், சல்​மான் அலி ஆகா இரு​வருமே மேட்ச் ரெஃப்​ரீ​யான ஆண்டி பைகி​ராஃப்​டிடமே பட்​டியலை பரி​மாறிக் கொண்​டனர். தொடர்ந்​து, ஆட்​டத்​தின் முடி​விலும் இந்​திய வீரர்​கள், பாகிஸ்​தான் வீரர்​களு​டன் கைகுலுக்​க​வில்​லை.
+Also during the toss, the leaders of the two teams are the result of the sharing of the Paras Paras and the Paras Paras, the Adut Dil Sur Yaku Mar Yadav and Sal Man Ali Aga. This is the player, the player, the player, the player, the player, the player.
 
-இந்த விவ​காரம் சர்ச்​சை​யாகி இருக்​கும் நிலை​யில், இதற்கு பொறுப்​பாக ஆட்ட நடு​வர் ஆண்டி பைகி​ராஃப்டை நீக்க வேண்​டும் என பாகிஸ்​தான் கிரிக்​கெட் வாரி​யம், ஆசிய கிரிக்​கெட் கவுன்​சிலிடம் புகார் அளித்​தது. மேலும் இந்த விவ​காரத்தை ஐசிசி​யிட​மும் முறை​யிட்​டது. இந்​நிலை​யில் பாகிஸ்​தான் கிரிக்​கெட் வாரி​யத்​தின் கோரிக்​கையை ஐசிசி நிராகரித்​துள்​ளது.
+In the case of this Vidyalaya Church Sai Yagi, Pakistan has complained to the Asian Crigg Get Cow, saying that it would be to remove Andy Bigi Raft.. Also, this is the case with the ICC. In this case, the ICC rejected Pakistan's girlfriend's hand.
+
+Information from the ICC to the Pakistani Grick Gate is that the Anti Fifty Rapt is being rejected and your field petition is rejected.
 
 ...
 
 [Data](articles/d07daaae.json)
 
+[Extended Data](ext_articles/d07daaae.ext.json)
+
 ---
 
-### பாராளுமன்றத்துக்கு வந்த நாகபாம்பு
+### Nagabh
 
 *2025-09-17 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்த-நாகபாம்பு/175-364745) · `ta`
 
-பாராளுமன்ற வளாகத்தின் போக்குவரத்து அலுவலகம் அருகே ஒரு நாகப்பாம்பு காணப்பட்டது, இதனால் கடந்த வாரம் அங்கு  பரபரப்பு ஏற்பட்டது.
+A cobra was found near the Transport Office of the Parliamentary Complex, which caused a stir last week.
 
-பாராளுமன்றத்தின் உதவி இயக்குநர் (நிதி) ரோஹித பத்மசிறி முதலில் அந்த நாகப்பாம்பைக் கண்டார்.
+Rohitha Padmasiri, the Assistant Director of Parliament (Finance), first saw the Nagapakkam.
 
-அன்று மாலை பணியில் இருந்த அவர், நாகப்பாம்பைக் கண்டதும் உடனடியாக பாராளுமன்ற பாதுகாப்பு அதிகாரிகளுக்குத் தகவல் அளித்தார்.
+He was on duty that evening and immediately informed parliamentary security officials.
 
-அதன்படி, அங்கு வந்த பாதுகாப்பு அதிகாரிகள் நாகப்பாம்பைப் பிடித்து காட்டுப் பகுதிக்கு எடுத்துச் சென்று வீசியதாக பாராளுமன்ற வட்டாரங்கள் தெரிவித்தன.
+According to parliamentary sources, security officers who arrived there caught the snake and took them to the forest.
 
-தியவன்னாவ நீர்த்தேக்கத்தைச் சுற்றியுள்ள காட்டில் இருந்து பல்வேறு வகையான நாகப்பாம்புகள், விரியன் பாம்புகள் உட்பட பாராளுமன்ற வளாகத்திற்குள் நுழைந்து நீண்ட நாட்களாகிவிட்டன. முன்னதாக, பாராளுமன்ற வளாகத்திற்குள் நுழைந்த பல பாம்புகளைப் பாதுகாப்பு அதிகாரிகள் பிடித்து வனப்பகுதிகளுக்கு எடுத்துச் சென்று வீசினர்.
+It has been a long time since the forest surrounding the Diyawannawa reservoir has entered the parliamentary complex, including a variety of nagab snakes and snakes.. Earlier, security officials caught up with many snakes entered the parliamentary complex and threw it to the forest.
 
 ◼️
 
 [Data](articles/1cfa43d4.json)
 
+[Extended Data](ext_articles/1cfa43d4.ext.json)
+
 ---
 
-### 13 வயது மகளை வன்புணர்ந்த தந்தைக்கு அதிரடி தீர்ப்பு
+### Action judgment to a 13 -year -old daughter
 
 *2025-09-17 10:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மகளை-வன்புணர்ந்த-தந்தைக்கு-அதிரடி-தீர்ப்பு/175-364744) · `ta`
 
-13 வயது மற்றும் 8 மாத சிறுமியை துஷ்பிரயோகம் செய்ததாகக் கூறப்படும் சிறுமியின் தந்தையை இந்த மாதம் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு  குளியாப்பிட்டி நீதவான் மிஹில் சிரந்தன சதுர்சிங்க,  திங்கட்கிழமை (15)  உத்தரவிட்டார்.
+Kiliyapitiya Magistrate Mihil Sirantha Chatarsinghe on Monday (15) ordered the father of the girl who allegedly abused a 13 -year -old and 8 -month -old girl to be remanded until the 22nd of this month.
 
-குளியாப்பிட்டியில் உள்ள போகோட கலாச்சார மையத்தில் வசிக்கும் அதிகாரி முதியன்செலாகே ஹசித நுவான் அதிகாரி என்பவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The officer who lives in the Pokoda Cultural Center in Kuliyapitiya has been placed in the interrogation of Hasitha Nuwan.
 
-சிறுமியின் தாயார் வெளிநாட்டில் உள்ளார், சிறுமியின் மூத்த சகோதரி, வேலை காரணமாக மாரவில பகுதியில் உள்ள ஒரு கான்வென்ட்டில் தங்கியிருந்தார். கிடைத்த தொலைபேசி அழைப்பின் அடிப்படையில் நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து, சந்தேகநபரான தந்தை, மகளை  பல இடங்களுக்கு அழைத்துச் சென்று  துஷ்பிரயோகம் செய்யப்பட்டதாக தெரியவந்ததை அடுத்து கைது செய்யப்பட்டதாக  நீதிமன்றத்தில் பொலிஸார் தெரிவித்தனர்.
+The girl's mother is abroad, the girl's elder sister stayed in a convent in Marawila area due to work. Following an investigation into the telephone call, the court said that the suspect's father was arrested after being taken to several places and was arrested.
+
+The police said that the girl's father and her boyfriend in Senanigama area were abused and the same had been done in the Hettipola and Bingiriya police divisions.
+
+Police said the father had committed the first crime after she left the house with her husband with her older sister who was working from home and locked the door.
 
 ...
 
 [Data](articles/4e901385.json)
 
+[Extended Data](ext_articles/4e901385.ext.json)
+
 ---
 
-### මධ්‍යම කඳුකරයට ඝණ මීදුම් තත්ත්වයක්
+### Thulci Aluwihare, Sharmini Ratwatte appointed to Bank of Ceylon board
+
+*2025-09-17 10:38:00* · [`economynextcom`](https://economynext.com/thulci-aluwihare-sharmini-ratwatte-appointed-to-bank-of-ceylon-board-240879/) · `en`
+
+ECONOMYNEXT – Thulci Aluwihare and Sharmini Ratwatte have been appointed as directors to the board of Sri Lanka’s state owned Bank of Ceylon, a stock exchange filing said.
+
+The profiles of the two independent, non-executive directors, as provided by the bank, are reproduced below:
+
+An experienced business strategist and an Investment professional with International experience in corporate wealth creation, specialised in investment strategy, transaction advisory, divestiture, capital raising and restructuring. +2S years of work experience in London, Melbourne and Colombo.
+
+...
+
+[Data](articles/7a11641a.json)
+
+---
+
+### Solid mist to central hills
 
 *2025-09-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214665) · `si`
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල පිහිටි ජල පෝෂක ප්‍රදේශවලට ඊයේ (16) රාත්‍රියේ සිට කඩින් කඩ ඇද හැලෙන අධික වර්ෂාව සහ ඝණ මීදුම් තත්ත්වය හේතුවෙන් ජන ජීවිතයට මෙන්ම රථවාහන ගමනා ගමනයට බාධා පැමිණ ඇති බව වාර්තා වේ.
+The catchment areas in the western slopes of the central highlands have been interrupted by heavy rains and solid murd.
 
-හැටන්-නුවරඑලිය, හැටන්-කොළඹ ප්‍රධාන මාර්ගවල සහ අතුරු මාර්ගවල මෙම ඝණ මීදුම් තත්ත්වය පවතින බව අද දෙරණ වාර්තාකරු පවසයි.
+The thick mist is in Hatton-Colombo main roads and by roads, Ada Derana reporter said.
 
-එම මාර්ගවල රථවාහාන ධාවනය කිරීමේදි වාහනවල ඉදිරිපස ප්‍රධාන ලාම්පු දල්වාගෙන සෙමින් සැලකිලිමත් ලෙස රිය ධාවනය කරන ලෙස හැටන් පොලීසියේ රථවාහන අංශයේ නිළධාරින් රියදුරන්ගෙන් ඉල්ලා සිටියි.
+Drivers from drivers of the traffic officers of the Hatton Police call on the front of the front lamps of the vehicles and to take care of the front lamps of the vehicles.
 
 ◼️
 
 [Data](articles/a3850ec5.json)
 
+[Extended Data](ext_articles/a3850ec5.ext.json)
+
 ---
 
-### ගිනිඅවියක් අතදරා ගමක් බිය කළ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested for fear of a firearm
 
 *2025-09-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214664) · `si`
 
-ප්‍රදේශවාසීන්ට වෙඩි තබා තර්ජනය කර බිය වද්දමින් කප්පම් ගැනීමේ නිරතව සිටි පුද්ගලයෙකු කිරිවත්තුඩුව මිල්ලගහවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A person was arrested in Kirilagahawatte area in Kirilagahawatta area.
 
-සැකකරු සිදුකළ වෙඩි තැබීමෙන් අවුරුදු 49ක කාන්තාවක් තුවාල ලබා කහතුඩුව වෑතර දිසාරෝහල වෙත ඇතුළත් කර ඇත.
+A 49-year-old woman was injured and admitted to Kahathuduwa Watara.
 
-සැකකරු සන්තකයේ තිබී මෙරට නිෂ්පාදිත ජිව අත්බෝම්බයක් හා මන්නයක් ද පොලිස් භාරයට ගෙන ඇත.
+The suspect has also seized a hand grenade and a malage in the country.
 
-සැකකරු ගිනිඅවිය සහ ලයිටරයක් අතැතිව තමා අත්අඩංගුවට ගැනීමට පැමිණෙන පොලීසියට වෙඩි තබන බවට තර්ජනය කරමින් හැසිරුණු බව වැඩිදුර සඳහන්ය.
+Further, the suspect behaved the threat to the arrest of the suspect and shooting the police.
 
-මත්ද්‍රව‍ය පානය කිරීම සඳහා මුදල් සොයා ගැනීමේ අරමුණින් මෙම කප්පම් ගැනීම සිදුකර ඇති බව පොලීසිය පවසයි.
+The extortion has been made to find money to drink the drug.
 
-අදාළ පුද්ගලයා මීට පෙර පුද්ගලයන් සිව්දෙනෙකු තියුණු ආයුධවලින් කපා තුවාල කිරීම සම්බන්ධයෙන් පොලිස් අත්අඩංගුවට ගෙන බන්ධනාගාරගත කර දඬුවම් විදි පුද්ගලයකු බව පොලීසිය සඳහන් කරයි.
+The man had previously arrested four people to a sharp weapons and imprisoned as a punishment.
 
-අවුරුදු 32ක් වන සැකකරු කැස්බෑව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The suspect, 32, is to be produced before the Kesbewa Magistrate's Court.
 
 ◼️
 
 [Data](articles/077bdd23.json)
 
+[Extended Data](ext_articles/077bdd23.ext.json)
+
 ---
 
-### வக்பு வழக்கில் முழுமையற்ற தீர்ப்பு: முஸ்​லிம்​கள் அதிருப்தி
+### Incomplete judgment in Wakpu case: Muslim Lims dissatisfied
 
 *2025-09-17 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வக்பு-வழக்கில்-முழுமையற்ற-தீர்ப்பு-முஸ்-லிம்-கள்-அதிருப்தி/175-364742) · `ta`
 
-வக்பு திருத்​தச் சட்​டம், 2025-ஐ முழு​மை​யாக ரத்து செய்​யக் கோரு​கிறோம். திருத்​தப்​பட்ட சட்​டத்​தின் சில விதி​களை உச்ச நீதி​மன்​றம் நிறுத்தி வைத்​துள்​ளது, ஆனால் இந்த முடிவு முஸ்​லிம்​களின் எதிர்​பார்ப்​பு​களை பூர்த்தி செய்​ய​வில்​லை என முஸ்​லிம்​களின் முக்​கிய அமைப்​பான இந்​திய முஸ்​லிம் தனி​நபர் சட்ட வாரி​ய (ஏஐஎம்​பிஎல்​பி) தேசிய செய்​தித் தொடர்பாளர் எஸ்​.க்​யு.ஆர்​.இலி​யாஸ் தெரிவித்துள்ளார்.
+Wakpu Thiru Dutt Chat Dum, Cancel 2025 as a full ink.. The Supreme Court has stopped some of the rules of the Thiruttu Sutt Dutt, but the decision of the Muz Lims' Mukhti Muhammad (AIM) Law (AIM PLP) National Real Estate (AIM PLP)
 
-முஸ்​லிம் சமூகம், முஸ்​லிம் தனி​நபர் சட்ட வாரி​யம் மற்​றும் அரசி​யலமைப்​பின் அடிப்​படை விதி​களுக்கு முரணான அனைத்து பிரிவு​களுக்​கும் நீதி​மன்​றம் தடை விதிக்​கும் என எதிர்​பார்த்​தோம். பகுதி நிவாரணம் வழங்​கி​யிருந்​தா​லும், இந்த தீர்ப்பு முழு​மையற்ற மற்​றும் திருப்தி அளிக்​காத​தாக உள்​ளது. அரசி​யலமைப்​புக்கு முரணான அனைத்து பிரிவு​களுக்​கும் முழு​மை​யான தடை விதிக்​கப்​படும் என்று முஸ்​லிம் சமூகம் நம்​பியது நடை​பெற​வில்​லை.
+The Muslim community, the Muz Lim, the individual law and the rules of the kingdom of the state will be banned from all sections of the law.. Partial Relief is also satisfied with this verdict and the entire state of affairs.. The Muslim community is not in the process of a full -scale ban on all sections of the queen.
 
-...
+Cancellation of Wakpu Ang Key. This is the straightforward ink of the Wakpu standing forest in the entirety of the. Therefore. He is the only ones who know.
+
+Meanwhile, the AIM PLP has said that the Wakpu Backup Problem will continue to be held from September 1. This includes the mark of the protests, the rally, the rally, the gallows and the rituals between the religious and the religions.
+
+◼️
 
 [Data](articles/d16796b6.json)
+
+[Extended Data](ext_articles/d16796b6.ext.json)
+
+---
+
+### US peace forces who come to understand the lifestyle of the Sri Lankan people!
+
+*2025-09-17 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225284) · `ta`
+
+US Ambassador to Sri Lanka Julie Sung welcomes the new US Peace Corps to Sri Lanka. These volunteers are to serve after three months of training in the Northern Province and Northern Central Provinces.
+
+These Peace Corps will be training three months ago to understand the lifestyle of the Sri Lankan people. As part of this exercise, they will learn Sinhala and Tamil.
+
+After training, they will work with communities in the Northern Province and Northern Central Provinces, which will serve as part of English teaching and social life.
+
+It is expected that these volunteers will be able to carry out the value of the US, such as service, peace and friendship, by developing friendship and living as a true foreign house.
+
+The arrival of the US Peace Corps is an important step that further strengthen the cultural and people's harmony between the United States and Sri Lanka.
+
+◼️
+
+[Data](articles/46213ab9.json)
+
+[Extended Data](ext_articles/46213ab9.ext.json)
 
 ---
 
@@ -181,6 +535,30 @@ Malwatte and Asgiri Mahanayaka Thero has issued an announcement in the Diyawadan
 [Data](articles/e403532e.json)
 
 [Extended Data](ext_articles/e403532e.ext.json)
+
+---
+
+### President inaugurated resumption of Kadawatha–Mirigama Expressway construction
+
+*2025-09-17 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112596/president-inaugurated-resumption-of-kadawathamirigama-expressway-construction) · `en`
+
+The inauguration ceremony for the resumption of construction on the Kadawatha to Mirigama section of the Central Expressway Project commenced a short while ago under the patronage of President Anura Kumara Dissanayake.
+
+As part of the recommencement, work will also commence on the Kadawatha Interchange and the first 500-meter stretch of the expressway.
+
+The government has allocated Rs. 8.6 billion for the project.
+
+Construction of this section was suspended in mid-2022 following the suspension of credit facilities due to the economic crisis.
+
+However, the Export-Import Bank of China has approved a Yuan-denominated loan equivalent to USD 500 million to enable the resumption of work.
+
+The distance between Kadawatha and Mirigama on the Central Expressway is 37 kilometers.
+
+◼️
+
+[Data](articles/67d2919a.json)
+
+[Extended Data](ext_articles/67d2919a.ext.json)
 
 ---
 
@@ -502,6 +880,36 @@ The Ministry of Commerce said it was creative. The next round of negotiations wi
 
 ---
 
+### 7 killed in seven year kills girl
+
+*2025-09-17 07:46:07* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරු-7කින්-අවුරුදු-3ක-කුඩා-දැරියක්-ඇතුළු-7ක්-මරුට/11-418546) · `si`
+
+Seven and 7 have died in a seventeen road accidents in various areas of the island yesterday.
+
+The victim was killed in a murder in a mix of 33 years in Navadu Ten to govern the motorcycle board in Nakukkan-Murukkan - Murukkan-Murukkan.
+
+The victim was killed in 36-year-old Liyanagama, 36 years of cyclist near Embilipitiya town near Embilipitiya town.. The driver of the van was once crashed into a three-wheeler and attempted to flee and handed over to the police.
+
+Nochchiyagama - Nochchiyawa Poultry on a lorry
+
+A resident of a 60 year old resident of the motorcycle was killed.
+
+Peliyagoda Rohana Viharaya in Peliyagoda-Colombo road sources to the pedestrian shift
+
+Patiyiya Junction, 3 days of collision with a motorcycle and car
+
+A small girl residing has died. Another child who was traveling on the three-wheeler, their mother, three-wheeler driver and three-wheeler driver and another.
+
+A 63-year-old resident of the three-wheeler resident of the Kandagamuwa Dickwella road in Matara.
+
+...
+
+[Data](articles/30caadbe.json)
+
+[Extended Data](ext_articles/30caadbe.ext.json)
+
+---
+
 ### Rain in some parts of the country
 
 *2025-09-17 07:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-மழை/175-364731) · `ta`
@@ -546,17 +954,19 @@ The President told the Presidential Media Unit that the President has stated tha
 
 ---
 
-### අද මිලි මීටර් 50 ඉක්මවූ වැසි
+### Showers over 50m today
 
 *2025-09-17 07:26:10* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මීටර්-50-ඉක්මවූ-වැසි/11-418545) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ හා උතුරු පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තු අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+The Meteorological Department (Metary Meetics Departments) will be held in the Western, Sabaragamuwa, Central, North Western and Northern provinces and in the Galle and Matara districts.
 
-එසේම සෙසු ප්‍රහේශවල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවත් දිවයිනේ ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට වැඩිදුරටත් පවසයි.
+Also on the other areas. Showers or thundershowers will occur at several places and over 50mm in the country, the Met Department said.
 
 ◼️
 
 [Data](articles/0025376e.json)
+
+[Extended Data](ext_articles/0025376e.ext.json)
 
 ---
 
@@ -1583,389 +1993,5 @@ Eyewitnesses said that the driver of the yellow color tipper, which caused the a
 [Data](articles/0a29c44c.json)
 
 [Extended Data](ext_articles/0a29c44c.ext.json)
-
----
-
-### Special Mediation Boards for financial disputes to be established – Minister of Justice
-
-*2025-09-16 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112586/special-mediation-boards-for-financial-disputes-to-be-established-minister-of-justice) · `en`
-
-Minister of Justice and National Integration Harshana Nanayakkara stated that measures will be taken to establish special mediation boards (Samatha Mandala) for financial disputes with the aim of reducing the number of such cases brought before the courts.
-
-Under the first phase, special mediation boards dedicated to financial disputes will be established in the districts of Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Monaragala, Minister Nanayakkara said.
-
-He expressed these remarks while participating in a program held at the Mediation Boards Commission on the occasion of the 2025 National Mediation Boards Day.
-
-...
-
-[Data](articles/e18a722d.json)
-
-[Extended Data](ext_articles/e18a722d.ext.json)
-
----
-
-### Sri Lanka targets Indian wedding market with multi-city shows
-
-*2025-09-16 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112585/sri-lanka-targets-indian-wedding-market-with-multi-city-shows) · `en`
-
-Sri Lanka Tourism is aiming to attract the growing Indian wedding market and recently organised multi-city luxury wedding shows across the country for the first time, seeking to position Sri Lanka as a wedding destination for Indian couples, covering cities including Ahmedabad, Mumbai and New Delhi.
-
-Fourteen Sri Lankan exhibitors, including wedding planners and hotels, took part in the shows to engage directly with Indian travel agents, wedding planners and other stakeholders.
-
-“Traditionally, our southern province destinations like Bentota, Hambantota and Weligama have been popular for Indian weddings which have the presence of hotels such as Hilton and Shangri-La that can accommodate large gatherings. However, we are now also promoting emerging destinations like Trincomalee, Pasikudah and Arugam Bay for Indian weddings,” said Buddhika Hewawasam, chairman of the Sri Lanka Tourism Promotion Bureau (SLTPB), while speaking to TTG Asia during the Delhi edition of the wedding shows.
-
-...
-
-[Data](articles/ecfb9305.json)
-
-[Extended Data](ext_articles/ecfb9305.ext.json)
-
----
-
-### Court orders Panadura Nilate Banking Reports
-
-*2025-09-16 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214653) · `si`
-
-The Colombo Magistrate's Court today (16) permitted the CID today to call for a report on the bank accounts of Panadura Nilangitiya.
-
-Colombo Chief Magistrate Asanka S.. The order was issued by Bodaragama.
-
-The Criminal Investigation Department (CID) has received a large number of bank accounts with a large number of bank accounts.
-
-The police pointed out that the investigation into the drug trafficking and other crimes performed by the suspect.
-
-Accordingly, the Chief Magistrate issued the orders were issued to the Criminal Investigation Department to issue the two bank accounts and issue the bank accounts to call for reports.
-
-◼️
-
-[Data](articles/7cc5cff1.json)
-
-[Extended Data](ext_articles/7cc5cff1.ext.json)
-
----
-
-### Yall. Municipal Council not paying electricity bills of fish market
-
-*2025-09-16 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225265) · `ta`
-
-Fish traders faced great difficulties as the electricity of the fish market, which is under Jaffna Municipal Council, was cut off today.
-
-Municipal Council failed to pay electricity bills to the Electricity Board today afternoon. The fishermen faced the difficulty of selling their fish.
-
-Fish traders faced great difficulties without being able to sell night fish, unable to use digital installation scales and wash the water market by motor.
-
-As the Member of Parliament Ilangumaran was brought to the notice of the parliament, the Member of Parliament contacted the Electricity Board and returned the electricity connection.
-
-Fishermen have accused the Municipal Council of failing to repair the basic amenities of the market and pay electricity bills, including shops set up at the Nallur festival for the Jaffna Municipal Council.
-
-◼️
-
-[Data](articles/3fd02971.json)
-
-[Extended Data](ext_articles/3fd02971.ext.json)
-
----
-
-### Several proposals of vehicle importers for the next budget
-
-*2025-09-16 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214652) · `si`
-
-A pre-Budgetary discussion on banks, financial and insurance areas, the Minister of Labor and Economic Development Dr. Anil Jayantha Fernando was held at the Presidential Secretariat today (16).
-
-It was widely discussed on providing the banking sector to meet the Sri Lankan government led by the President, and the comments and proposals were also present.
-
-The digital program focused on expanding the program of banking and financial sector, expanding the program and introducing new insurance schemes.
-
-Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando stated that he focuses on all these proposals.
-
-The partners who were invited to a preliminary budget discussion in the insurance industry have been invited to the government on the invitation.
-
-...
-
-[Data](articles/3ff568dc.json)
-
-[Extended Data](ext_articles/3ff568dc.ext.json)
-
----
-
-### “Rajapaksa is aimed at political revenge”.
-
-*2025-09-16 21:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்சேக்கள்-அரசியல்-பழிவாங்கலுக்கு-இலக்காகியுள்ளனர்/175-364727) · `ta`
-
-Jaffna district organizer and SLPP member G.. Said Kasilingam.
-
-In a post in X, Kasilingam said that the Rajapaksas have been targeted for “political revenge” and that they have repeated allegations that they have wealth and property hidden abroad.
-
-He said that the dismissal or postponed of such cases shows these allegations a little more than "political maneuvering".
-
-Casilingam argued that the anger of the public was "misleading" by unproven allegations against Rajapakse, and said, "The real players are working behind the scenes."
-
-◼️
-
-[Data](articles/b9623fb4.json)
-
-[Extended Data](ext_articles/b9623fb4.ext.json)
-
----
-
-### Concessional loans for small-scale entrepreneurs in Western Province
-
-*2025-09-16 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112584/concessional-loans-for-small-scale-entrepreneurs-in-western-province) · `en`
-
-A concessional loan scheme intended to facilitate micro and small-scale entrepreneurs in the Western Province has been planned, the Chief Secretary of the Western Province, K.G.P. Pushpakumara said.
-
-He revealed the initiative during the Colombo District Coordination Committee meeting.
-
-“A mechanism has been initiated to implement a concessional loan scheme for micro and small-scale entrepreneurs in the Western Province. The interest rate on the loan will be 3%. The maximum loan amount will be Rs. 3 million. The loan must be repaid in 7 years on a diminishing balance basis.”
-
-Furthermore, he added that more information will be provided through the Divisional Secretariats.
-
-Meanwhile, Minister of Transport, Highways, Ports, and Civil Aviation Bimal Rathnayake said that the project to expand and develop the High-Level Road will be initiated next year.
-
-◼️
-
-[Data](articles/14afc98b.json)
-
-[Extended Data](ext_articles/14afc98b.ext.json)
-
----
-
-### Budget preliminary discussion on banking, financial and insurance sectors
-
-*2025-09-16 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225264) · `ta`
-
-வங்கி, நிதி மற்றும் காப்புறுதித் துறைகள் தொடர்பான வரவு செலவுத் திட்ட பூர்வாங்கக்  கலந்துரையாடல் இன்று (16) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் கலாநிதி அனில் ஜயந்த பெர்னாண்டோ தலைமையில் இடம்பெற்றது.
-
-It was extensively discussed with the support of the banking department to provide the support of the banking department to the President -led government's program to achieve the economic development goals of the country and suggestions and recommendations were made.
-
-Increasing the performance of the banking and financial sector through the digitalization program, expanding the project implemented by small and middle -class entrepreneurs, and introducing new insurance systems.. Dr. Anil Jayantha Fernando, Minister of Labor and Deputy Minister of Economic Development, said that all these proposals will be focused on the upcoming budget.
-
-...
-
-[Data](articles/ea092c74.json)
-
-[Extended Data](ext_articles/ea092c74.ext.json)
-
----
-
-### Many people are upset by arrests of underworld groups
-
-*2025-09-16 21:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுக்களின்-கைதுகளால்-பலர்-கலக்கமடைந்துள்ளனர்/175-364717) · `ta`
-
-Deputy Minister of Labor Mahinda Jayasinghe said that those who were in touch with the main members of the underworld groups are now disturbed.
-
-He was speaking to the media after attending a function in Colombo today (16).
-
-Makandure Madhush has advised former President Gotabhaya Rajapakse the name of the 80 politicians associated with the underworld groups.
-
-But no inquiries have been conducted. The truth is not revealed. Makandure Madhush is killed. Many things have been covered.
-
-It is certain that the murdered Makandure Mathush will not be for the Kati Kehelpather Padme.
-
-Many issues that are published in the investigation will be taken with appropriate legal action.. Remble
-
-◼️
-
-[Data](articles/abe0cf0c.json)
-
-[Extended Data](ext_articles/abe0cf0c.ext.json)
-
----
-
-### Steps to establish special Mediation Boards on Financial Disputes
-
-*2025-09-16 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214651) · `si`
-
-Minister of Justice, the Justice Minister Harshana Nanayakkara says that steps will be taken to establish special Mediation Boards on Financial Disputes to reduce the financial disputes he addresses.
-
-The minister said that under the first phase, the Minister said that he will establish Mediation Boards on Special Evidence Board in Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Moneragala Districts.
-
-Minister Herbraine Nanayakkara made these comments participating at the program held at the Mediation Boards Commission for the day of the National Mediation Boards Day.
-
-...
-
-[Data](articles/14a8631d.json)
-
-[Extended Data](ext_articles/14a8631d.ext.json)
-
----
-
-### Preliminary Discussion for 2026 Budget with Otomobile and Electronic Importers
-
-*2025-09-16 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225263) · `ta`
-
-The budget preliminary discussion on Otomobile and Electronic Equipment Industries was held on Tuesday (16) at the Presidential Office.
-
-Ottomobile and Electronic Equipment Importers said they would provide their full support for the economic development program carried out by the government headed by President Anura Kumara Dissanayake.
-
-Vehicle importers said the vehicle imports department has expanded due to the decision of the current government on vehicle imports. They also made many useful recommendations for the next budget.
-
-The problems facing importers of electronic equipment were also investigated.  Electronic equipment importers pointed out that the stealth of electronic equipment is being taken into the country without paying taxes, especially organized groups.
-
-They also pointed out that the government is causing a higher tax revenue loss and the quality of consumers is facing problems.
-
-...
-
-[Data](articles/01dbb32a.json)
-
-[Extended Data](ext_articles/01dbb32a.ext.json)
-
----
-
-### Relief loans to small scale entrepreneurs of Western Province
-
-*2025-09-16 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214650) · `si`
-
-Plans to launch a concessionary loan scheme for micro and small entrepreneurs in the Western Province.
-
-Western Province Chief Secretary Pradeep Pushpakumara said that at the Colombo District Coordinating Committee meeting.
-
-"Inaugured a system to operate a concessionary loan scheme for micro and small-scale entries in the Western Province. The interest rate of loan is 3%. 3 million as a maximum loan. The debt is to end in seven years. To the balance system. Notifications through Divisional Secretariats. "
-
-Meanwhile, Transport and Highways Minister Minister of Transport and Highways Minister Bimja said that the project expanding and development project will be launched in the coming year.
-
-◼️
-
-[Data](articles/64c0bae3.json)
-
-[Extended Data](ext_articles/64c0bae3.ext.json)
-
----
-
-### Increase oil storage capacity
-
-*2025-09-16 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214649) · `si`
-
-The Ceylon Petroleum Corporation (CPC) says that steps will be taken to establish 6 additional tanks to increase the oil reserve capacity in the country.
-
-Chairman of the President DJ Karuna stated that the construction of oil tanks that have been stopped in the construction of the construction over the recent past is being started.
-
-Addressing a media briefing today, Lanka Petroleum Corporation Chairman DJ Karuna expressed these views.
-
-Meanwhile, DJ Rajakaratu expressed two new pipes from the port to Kolonnawa Oil Stores Terminal.
-
-◼️
-
-[Data](articles/74d133a6.json)
-
-[Extended Data](ext_articles/74d133a6.ext.json)
-
----
-
-### Preliminary budget discussion on the Transport Distribution Department of Maritime Products
-
-*2025-09-16 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225262) · `ta`
-
-The budget preliminary discussion on the distribution of maritime goods was held on Tuesday (16) at the Presidential Office under the patronage of Labor Minister and Deputy Minister of Economic Development Dr. Anil Anil Jayantha Fernando.
-
-The parties involved in the transportation distribution sector have made their full support to the President -led government's plan to build the country's economy.
-
-Moreover, the role of the maritime industry in the development of the tourism industry was extensively investigated.
-
-The contribution of the Maritime Products Transport Department in increasing imports and exports was also investigated.  The focus was also on the development of the now inactivated ports.
-
-By investing in infrastructure, providing competitive -based services and the possibility of Sri Lanka to achieve a significant role in the global maritime trade.
-
-...
-
-[Data](articles/df8a5b7f.json)
-
-[Extended Data](ext_articles/df8a5b7f.ext.json)
-
----
-
-### Famous actor Robert Redford has passed away
-
-*2025-09-16 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225261) · `ta`
-
-US actor and director Robert Redford (89) passed away on Tuesday (16) at a residence in Utta State.
-
-Ordinary People படத்திற்காக ஆஸ்கர் வென்ற அவர், Sundance திரைப்பட விழாவை நிறுவியதாலும் பரவலாக அறியப்பட்டார்.
-
-◼️
-
-[Data](articles/da6afbf6.json)
-
-[Extended Data](ext_articles/da6afbf6.ext.json)
-
----
-
-### There is no truth in the news of the closure of the Sri Lanka Fisheries Corporation - Minister Ramalingam Chandrasekhar
-
-*2025-09-16 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225260) · `ta`
-
-Minister of Fisheries, Aquatic Resources and Marine Resources Ramalingam Chandrasekhar said that the future decision on the Oluvil port will be taken only after the new possibility is conducted.
-
-The Ministry of Fisheries, Aquatic Resources and Marine Resources Affairs Advisory Committee held a recent meeting chaired by Minister Ramalingam Chandrasekhar.. Deputy Minister Ratna Kamage of Fisheries, Aquatic Resources and Marine Resources was also present.
-
-It was discussed in detail about the implementation of the Oluvil fishing port.. The Minister said that the new possibilities will be carried out on the basis of a new possibility of remedying the effects of the port of Oluvil without proper studies.
-
-The Deputy Minister also stated that the fishing harbor in the Valaichenai area is scheduled to be set up in 2026 to address the need for a fishing port for the Eastern Province, including the factory for fishing.
-
-...
-
-[Data](articles/91a0c99f.json)
-
-[Extended Data](ext_articles/91a0c99f.ext.json)
-
----
-
-### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
-
-*2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
-
-Sri Lanka expects Chinese state energy giant Sinopec to start work on a $3.7 billion refinery this year and is considering the company’s long-standing demand to sell more fuel locally, the energy minister said on Tuesday.
-
-The Sinopec refinery, approved in 2023, will have capacity to process 200,000 barrels of crude oil per day and will be located near the Chinese-built and operated Hambantota port in southern Sri Lanka, Energy Minister Kumara Jayakody said in an interview at his office.
-
-“The land we already have allocated for them, and they have done the other facilities too,” he said. “The government ... we all have the same idea and the same expectation on this project (that it will start this year).”
-
-Sri Lanka’s deputy economic development minister, Anil Jayantha Fernando, separately told Reuters that Sinopec could take about three years to complete the project.
-
-...
-
-[Data](articles/89630496.json)
-
-[Extended Data](ext_articles/89630496.ext.json)
-
----
-
-### Approval of 40,000 Metricton
-
-*2025-09-16 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214648) · `si`
-
-Cabinet Spokesperson Minister Dr. Nalinda Jayatissa said that the government is intervening on the Kiri Samba in the market.
-
-The Minister made this statement in response to a question raised by the journalists in the deficit at the cabinet decision notification today (16).
-
-"The farmers have reached the goals placed in the harvest. But the keeper samba is grown in the cultivation of 7%. As a type, Kratha Samba grown has been reduced. But the entire production is not a decrease. "
-
-"The answer is to be answered this time regarding the fact that the large scale and mill holds up keemen. The information contained is not by my. Also, the import was approved by 40,000 metricton. If necessary, you can get that size. However, still no decision. "
-
-◼️
-
-[Data](articles/ba01e7d7.json)
-
-[Extended Data](ext_articles/ba01e7d7.ext.json)
-
----
-
-### New Building for Jaffna University at a cost of 2,234 million
-
-*2025-09-16 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225259) · `ta`
-
-The Cabinet has granted permission to construct a new five -storey building with modern facilities including lecture halls, laboratory and auditorium to the Faculty of Jaffna University of Jaffna.. The estimated cost is 2,234 million rupees, the Cabinet spokesman said.
-
-The proposal submitted by the Minister of Education, Higher Education and Vocational Education has approved the Cabinet. In 2006, state universities were introduced by sub -health science degrees.
-
-Accordingly, three degrees were started in the Department of Medical Laboratory Science, Drug Chemistry and Naturalism at the University of Jaffna. Currently, 952 students from all ethnicity are educated in the four syllabus of medical laboratory science, pharmaceuticals, nursing and physical education, the Cabinet spokesman said.
-
-Although the Cabinet approved the construction of the building for the Faculty of Assistant Health Sciences in 2017, the funds were not allocated due to the financial crisis.
-
-...
-
-[Data](articles/84ea7292.json)
-
-[Extended Data](ext_articles/84ea7292.ext.json)
 
 ---

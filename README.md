@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 11:07:58**
+As of **2025-09-17 11:41:12**
 
 ## Newspaper Stats
 
-*Scraped **76,466** Articles*
+*Scraped **76,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,156 +17,250 @@ islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,426
-adaderanalk | 9,857
-tamilmirrorlk | 11,452
-virakesarilk | 12,454
+adaderanalk | 9,858
+tamilmirrorlk | 11,455
+virakesarilk | 12,455
 adaderanasinhalalk | 13,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,641 (96.3%) of 76,466 articles have been extended.
+73,654 (96.3%) of 76,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### மஹிந்தவிடம் குசலம் விசாரித்தார் விமல்
+### கடவத்தை-மீரிகம நெடுஞ்சாலைப் பிரிவின் கட்டுமானப் பணிகள் ஆரம்பம்
+
+*2025-09-17 11:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவத்தை-மீரிகம-நெடுஞ்சாலைப்-பிரிவின்-கட்டுமானப்-பணிகள்-ஆரம்பம்/175-364753) · `ta`
+
+மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை-மிரிகம பிரிவின் கட்டுமானப் பணிகள் புதன்கிழமை (17) அன்று காலை 10:00 மணிக்கு ஜனாதிபதி அனுர குமார திசாநாயக்கவின் தலைமையில் அதிகாரப்பூர்வமாகத் ஆரம்பிக்கப்பட்டது.
+
+"மறுமலர்ச்சிக்கான நெடுஞ்சாலை" என்ற கருப்பொருளின் கீழ் தொடங்கப்பட்ட இந்தத் திட்டம், போக்குவரத்து நெரிசலைக் குறைப்பதற்கும் முக்கியப் பகுதிகளுக்கு இடையிலான பொருளாதார இணைப்பை அதிகரிப்பதற்கும் இலக்காகக் கொண்ட இலங்கையின் அதிவேக நெடுஞ்சாலை வலையமைப்பை விரிவுபடுத்துவதில் ஒரு குறிப்பிடத்தக்க படியைக் குறிக்கிறது.
+
+◼️
+
+[Data](articles/dc616615.json)
+
+---
+
+### இறைச்சி கடையில், நக்கல் நையாண்டி
+
+*2025-09-17 11:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இறைச்சி-கடையில்-நக்கல்-நையாண்டி/76-364752) · `ta`
+
+ஹட்டன் நகரில் இறைச்சி விற்பனை நிலையமொன்றின் உரிமையாளர் மற்றும் ஊழியர்கள் , வாடிக்கையாளர்களிடம் அடாவடித்தனமாக நடந்து கொள்வதாக விசனம் தெரிவிக்கப்படுகின்றது.
+
+தனி இறைச்சி எலும்பு கலந்த இறைச்சி  இன்னும் சில  ரகங்களில் இங்கு இறைச்சி விற்பனை செய்யப்படுகிறது. .எனினும் வாடிக்கையாளர்களின் தேவையை பூர்த்தி செய்ய வேண்டிய விதத்தில் இறைச்சி முறையாக வகைப்படுத்தப்படுவதில்லை என தெரியவருகிறது.
+
+தனி இறைச்சி என்னும் பெயரில் எழும்பும் கலந்து விற்பனை செய்கிறார்கள். அதுபோலவே எழும்புடன் விற்பனை செய்யப்படும் இறைச்சியில் அதிக விகிதத்தில் எழும் இருப்பதாகவும் மிகவும் சொற்ப அளவிலான இறைச்சி இருப்பதாகவும் வாடிக்கையாளர்கள் தெரிவிக்கின்றனர் .
+
+தோட்டங்களில் வசிக்கும் மக்கள் இந்த கடையின் வாடிக்கையாளர்கள் என்பதால் அவர்களை அலட்சியம் செய்வதாகவும் இது தொடர்பாக பேசினால் அவர்களை தரம் குறைவாக ஏசி பேசுவதாகவும்  தெரியவருகிறது.
+
+...
+
+[Data](articles/295d1a86.json)
+
+---
+
+### There is a severe employment shortage in Sri Lanka
+
+*2025-09-17 11:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடும்-வேலைவாய்ப்பு-பற்றாக்குறை-நிலவும்/175-364751) · `ta`
+
+The World Bank warns that nearly a million young people will join the employees of Sri Lanka in the next decade, but it is estimated that only 300,000 (3 lakh) new jobs will be created at that time.
+
+World Bank Deputy Chairman Johannes Jude says that it is necessary to promote private sector growth to create employment. This was stated in the official report issued by the World Bank at the conclusion of the first official visit to Sri Lanka by the Deputy Chairman of the World Bank.
+
+The World Bank team will work together to attract private capital, strengthen the competitiveness and service supply and to expand employment opportunities across the country.
+
+...
+
+[Data](articles/ddc0f66d.json)
+
+[Extended Data](ext_articles/ddc0f66d.ext.json)
+
+---
+
+### Wimal inquired about Mahinda
 
 *2025-09-17 10:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-குசலம்-விசாரித்தார்-விமல்/175-364749) · `ta`
 
-தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச தங்காலை கார்ல்டன் இல்லத்தில் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை செவ்வாய்க்கிழமை (16) சந்தித்தார்.
+National Freedom Front leader Wimal Weerawansa met with former President Mahinda Rajapaksa on Tuesday (16) at the Tangalle Carlton residence.
 
-மஹிந்த ராஜபக்ஷவை சந்தித்த பின்னர், விமல் வீரவன்ச தனது பேஸ்புக் கணக்கில் பின்வருமாறு பதிவிட்டுள்ளார்:
+After meeting Mahinda Rajapaksa, Wimal Weerawansa posted on his Facebook account:
 
-"பல தசாப்தங்களாக வளர்க்கப்பட்ட விடுதலைப் புலி பயங்கரவாதத்தை தோற்கடிப்பதில் அரசியல் தலைமைத்துவத்தை வழங்கிய 5வது நிறைவேற்று ஜனாதிபதி மஹிந்த ராஜபக்ஷ, தனது உயிருக்கு அச்சுறுத்தல்கள் இருந்தபோதிலும், கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து திரும்பி தங்காலை கார்ல்டன் இல்லத்திற்கு குடிபெயர்ந்தார் என்ற செய்தி, இலங்கையில் மட்டுமல்ல, உலகம் முழுவதும் பெரும் கவனத்தை ஈர்த்த செய்தியாகும்.
+“The news that the 5th Executive President Mahinda Rajapakse, who gave political leadership over the defeat of terrorism over the decades has been threatened with his life threats, has moved to the Tangalle Carlton House, not only in Sri Lanka, but in Sri Lanka.
 
-அரசியல் வேறுபாடுகள் இருந்தபோதிலும், பயங்கரவாதத்தை தோற்கடிக்க அவர் வழங்கிய அரசியல் தலைமைக்கு நன்றி தெரிவிக்கும் ஒரு செயலாகும். தேசிய சுதந்திர முன்னணியின் தேசிய அமைப்பாளர் ஜெயந்த சமரவீர மற்றும் தேசிய சுதந்திர முன்னணியின் பிற பிரதிநிதிகள் தங்காலை கார்ல்டன் இல்லத்தில் அவரைச் சந்தித்து அவரது நலம் குறித்து விசாரித்து எங்கள் நன்றியைத் தெரிவித்துக் கொண்டோம்."
+In spite of political differences, it is an act of thanking the political leadership he provided to defeat terrorism. The National Freedom Front's National Organizer Jayantha Samaraweera and other representatives of the National Freedom Front met him at the Tangalle Carlton residence and expressed our gratitude.
 
 ◼️
 
 [Data](articles/60032a71.json)
 
+[Extended Data](ext_articles/60032a71.ext.json)
+
 ---
 
-### 900 ஆண்டுகள் பழமையான பெண்ணின் மண்டை ஓடு மூலம் முகத்தை உருவாக்கிய விஞ்ஞானிகள்
+### Scientists who made the face with a 900 -year -old woman's skull
 
 *2025-09-17 10:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/900-ஆண்டுகள்-பழமையான-பெண்ணின்-மண்டை-ஓடு-மூலம்-முகத்தை-உருவாக்கிய-விஞ்ஞானிகள்/53-364748) · `ta`
 
-இங்கிலாந்தின் கெண்டல் நகரில் கடந்த 2022-ம் ஆண்டு நீர் மேலாண்மை பணிகள் தொடங்கியது. அப்போது அங்குள்ள தேவாலயம் அருகே சில எலும்பு கூடுகள் கிடைத்தன. அவற்றை அதிகாரிகள் கைப்பற்றி தொல்லியல் துறையிடம் ஒப்படைத்தனர். அவர்கள் நடத்திய ஆய்வில் அந்த எலும்பு கூடுகள் 900 ஆண்டுகள் பழமையானவை என்பது உறுதியானது.
+Water management work began in 2022 in Kendal, England. Then there was some bone nests near the church. The officers seized them and handed them over to the Archeology Department. In their study, it was certain that the bone nests were 900 years old.
 
-இதற்கிடையே அங்கு கைப்பற்றிய ஒரு பெண்ணின் மண்டை ஓடு மறுகட்டமைப்புக்கு ஏற்ற நிலையில் இருந்தது. எனவே அந்த பெண்ணின் முகம் எப்படி இருந்திருக்கும் என்பதை கண்டறியும் பணியில் லிவர்பூல் ஜார் மூர்ஸ் பல்கலைக்கழக விஞ்ஞானிகள் ஈடுபட்டனர். தொழில்நுட்பம் மூலம் உருவாக்கப்பட்ட அந்த பெண்ணின் முகம் கெண்டல் தேவாலயத்தில் பொதுமக்களின் பார்வைக்காக தற்போது வைக்கப்பட்டு உள்ளது.
+In the meantime, a woman's skull was in a position to rehabilitation. So Liverpool Jar Moors University scientists were involved in finding out what the woman would have been like. The face of the woman, created by technology, is now placed for public viewing at the Kendal Church.
 
 ◼️
 
 [Data](articles/723b9c72.json)
 
+[Extended Data](ext_articles/723b9c72.ext.json)
+
 ---
 
-### பாகிஸ்தான் கோரிக்கையை நிராகரித்தது ஐசிசி
+### ICC rejected Pakistan's request
 
 *2025-09-17 10:49:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-கோரிக்கையை-நிராகரித்தது-ஐசிசி/44-364747) · `ta`
 
-ஆசிய கிண்ண கிரிக்​கெட் தொடரில் கடந்த ஞாயிற்​றுக்​கிழமை துபா​யில் நடை​பெற்ற ஆட்​டத்​தில் இந்​தியா - பாகிஸ்​தான் அணி​கள் மோதின. இந்த ஆட்​டத்​தில் டாஸின்​போது இந்​திய அணியின் தலைவர் சூர்​யகு​மார் யாதவ், பாகிஸ்​தான் அணி​யின் அணித்தலைவர் சல்​மான் அலி ஆகா​வுடன் கைகுலுக்​க​வில்​லை.
+Thea -Pakistan team clashed in Duba last Sunday. During the Adut Dil Das, the captain of the team, Sur Yaku Mar Yadav, and Pakistan's team captain Sal Man Ali Aga.
 
-மேலும் டாஸின்​போது இரு அணி​களின் தலைவர்களுமே தங்​களின் விளை​யாடும் லெவன் பட்​டியலை பரஸ்​பரம் பகிரும் நிலை​யில், அந்த ஆட்​டத்​தில் சூர்​யகு​மார் யாத​வும், சல்​மான் அலி ஆகா இரு​வருமே மேட்ச் ரெஃப்​ரீ​யான ஆண்டி பைகி​ராஃப்​டிடமே பட்​டியலை பரி​மாறிக் கொண்​டனர். தொடர்ந்​து, ஆட்​டத்​தின் முடி​விலும் இந்​திய வீரர்​கள், பாகிஸ்​தான் வீரர்​களு​டன் கைகுலுக்​க​வில்​லை.
+Also during the toss, the leaders of the two teams are the result of the sharing of the Paras Paras and the Paras Paras, the Adut Dil Sur Yaku Mar Yadav and Sal Man Ali Aga. This is the player, the player, the player, the player, the player, the player.
 
-இந்த விவ​காரம் சர்ச்​சை​யாகி இருக்​கும் நிலை​யில், இதற்கு பொறுப்​பாக ஆட்ட நடு​வர் ஆண்டி பைகி​ராஃப்டை நீக்க வேண்​டும் என பாகிஸ்​தான் கிரிக்​கெட் வாரி​யம், ஆசிய கிரிக்​கெட் கவுன்​சிலிடம் புகார் அளித்​தது. மேலும் இந்த விவ​காரத்தை ஐசிசி​யிட​மும் முறை​யிட்​டது. இந்​நிலை​யில் பாகிஸ்​தான் கிரிக்​கெட் வாரி​யத்​தின் கோரிக்​கையை ஐசிசி நிராகரித்​துள்​ளது.
+In the case of this Vidyalaya Church Sai Yagi, Pakistan has complained to the Asian Crigg Get Cow, saying that it would be to remove Andy Bigi Raft.. Also, this is the case with the ICC. In this case, the ICC rejected Pakistan's girlfriend's hand.
+
+Information from the ICC to the Pakistani Grick Gate is that the Anti Fifty Rapt is being rejected and your field petition is rejected.
 
 ...
 
 [Data](articles/d07daaae.json)
 
+[Extended Data](ext_articles/d07daaae.ext.json)
+
 ---
 
-### பாராளுமன்றத்துக்கு வந்த நாகபாம்பு
+### Nagabh
 
 *2025-09-17 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்த-நாகபாம்பு/175-364745) · `ta`
 
-பாராளுமன்ற வளாகத்தின் போக்குவரத்து அலுவலகம் அருகே ஒரு நாகப்பாம்பு காணப்பட்டது, இதனால் கடந்த வாரம் அங்கு  பரபரப்பு ஏற்பட்டது.
+A cobra was found near the Transport Office of the Parliamentary Complex, which caused a stir last week.
 
-பாராளுமன்றத்தின் உதவி இயக்குநர் (நிதி) ரோஹித பத்மசிறி முதலில் அந்த நாகப்பாம்பைக் கண்டார்.
+Rohitha Padmasiri, the Assistant Director of Parliament (Finance), first saw the Nagapakkam.
 
-அன்று மாலை பணியில் இருந்த அவர், நாகப்பாம்பைக் கண்டதும் உடனடியாக பாராளுமன்ற பாதுகாப்பு அதிகாரிகளுக்குத் தகவல் அளித்தார்.
+He was on duty that evening and immediately informed parliamentary security officials.
 
-அதன்படி, அங்கு வந்த பாதுகாப்பு அதிகாரிகள் நாகப்பாம்பைப் பிடித்து காட்டுப் பகுதிக்கு எடுத்துச் சென்று வீசியதாக பாராளுமன்ற வட்டாரங்கள் தெரிவித்தன.
+According to parliamentary sources, security officers who arrived there caught the snake and took them to the forest.
 
-தியவன்னாவ நீர்த்தேக்கத்தைச் சுற்றியுள்ள காட்டில் இருந்து பல்வேறு வகையான நாகப்பாம்புகள், விரியன் பாம்புகள் உட்பட பாராளுமன்ற வளாகத்திற்குள் நுழைந்து நீண்ட நாட்களாகிவிட்டன. முன்னதாக, பாராளுமன்ற வளாகத்திற்குள் நுழைந்த பல பாம்புகளைப் பாதுகாப்பு அதிகாரிகள் பிடித்து வனப்பகுதிகளுக்கு எடுத்துச் சென்று வீசினர்.
+It has been a long time since the forest surrounding the Diyawannawa reservoir has entered the parliamentary complex, including a variety of nagab snakes and snakes.. Earlier, security officials caught up with many snakes entered the parliamentary complex and threw it to the forest.
 
 ◼️
 
 [Data](articles/1cfa43d4.json)
 
+[Extended Data](ext_articles/1cfa43d4.ext.json)
+
 ---
 
-### 13 வயது மகளை வன்புணர்ந்த தந்தைக்கு அதிரடி தீர்ப்பு
+### Action judgment to a 13 -year -old daughter
 
 *2025-09-17 10:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மகளை-வன்புணர்ந்த-தந்தைக்கு-அதிரடி-தீர்ப்பு/175-364744) · `ta`
 
-13 வயது மற்றும் 8 மாத சிறுமியை துஷ்பிரயோகம் செய்ததாகக் கூறப்படும் சிறுமியின் தந்தையை இந்த மாதம் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு  குளியாப்பிட்டி நீதவான் மிஹில் சிரந்தன சதுர்சிங்க,  திங்கட்கிழமை (15)  உத்தரவிட்டார்.
+Kiliyapitiya Magistrate Mihil Sirantha Chatarsinghe on Monday (15) ordered the father of the girl who allegedly abused a 13 -year -old and 8 -month -old girl to be remanded until the 22nd of this month.
 
-குளியாப்பிட்டியில் உள்ள போகோட கலாச்சார மையத்தில் வசிக்கும் அதிகாரி முதியன்செலாகே ஹசித நுவான் அதிகாரி என்பவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The officer who lives in the Pokoda Cultural Center in Kuliyapitiya has been placed in the interrogation of Hasitha Nuwan.
 
-சிறுமியின் தாயார் வெளிநாட்டில் உள்ளார், சிறுமியின் மூத்த சகோதரி, வேலை காரணமாக மாரவில பகுதியில் உள்ள ஒரு கான்வென்ட்டில் தங்கியிருந்தார். கிடைத்த தொலைபேசி அழைப்பின் அடிப்படையில் நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து, சந்தேகநபரான தந்தை, மகளை  பல இடங்களுக்கு அழைத்துச் சென்று  துஷ்பிரயோகம் செய்யப்பட்டதாக தெரியவந்ததை அடுத்து கைது செய்யப்பட்டதாக  நீதிமன்றத்தில் பொலிஸார் தெரிவித்தனர்.
+The girl's mother is abroad, the girl's elder sister stayed in a convent in Marawila area due to work. Following an investigation into the telephone call, the court said that the suspect's father was arrested after being taken to several places and was arrested.
+
+The police said that the girl's father and her boyfriend in Senanigama area were abused and the same had been done in the Hettipola and Bingiriya police divisions.
+
+Police said the father had committed the first crime after she left the house with her husband with her older sister who was working from home and locked the door.
 
 ...
 
 [Data](articles/4e901385.json)
 
+[Extended Data](ext_articles/4e901385.ext.json)
+
 ---
 
-### මධ්‍යම කඳුකරයට ඝණ මීදුම් තත්ත්වයක්
+### Solid mist to central hills
 
 *2025-09-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214665) · `si`
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල පිහිටි ජල පෝෂක ප්‍රදේශවලට ඊයේ (16) රාත්‍රියේ සිට කඩින් කඩ ඇද හැලෙන අධික වර්ෂාව සහ ඝණ මීදුම් තත්ත්වය හේතුවෙන් ජන ජීවිතයට මෙන්ම රථවාහන ගමනා ගමනයට බාධා පැමිණ ඇති බව වාර්තා වේ.
+The catchment areas in the western slopes of the central highlands have been interrupted by heavy rains and solid murd.
 
-හැටන්-නුවරඑලිය, හැටන්-කොළඹ ප්‍රධාන මාර්ගවල සහ අතුරු මාර්ගවල මෙම ඝණ මීදුම් තත්ත්වය පවතින බව අද දෙරණ වාර්තාකරු පවසයි.
+The thick mist is in Hatton-Colombo main roads and by roads, Ada Derana reporter said.
 
-එම මාර්ගවල රථවාහාන ධාවනය කිරීමේදි වාහනවල ඉදිරිපස ප්‍රධාන ලාම්පු දල්වාගෙන සෙමින් සැලකිලිමත් ලෙස රිය ධාවනය කරන ලෙස හැටන් පොලීසියේ රථවාහන අංශයේ නිළධාරින් රියදුරන්ගෙන් ඉල්ලා සිටියි.
+Drivers from drivers of the traffic officers of the Hatton Police call on the front of the front lamps of the vehicles and to take care of the front lamps of the vehicles.
 
 ◼️
 
 [Data](articles/a3850ec5.json)
 
+[Extended Data](ext_articles/a3850ec5.ext.json)
+
 ---
 
-### ගිනිඅවියක් අතදරා ගමක් බිය කළ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested for fear of a firearm
 
 *2025-09-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214664) · `si`
 
-ප්‍රදේශවාසීන්ට වෙඩි තබා තර්ජනය කර බිය වද්දමින් කප්පම් ගැනීමේ නිරතව සිටි පුද්ගලයෙකු කිරිවත්තුඩුව මිල්ලගහවත්ත ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A person was arrested in Kirilagahawatte area in Kirilagahawatta area.
 
-සැකකරු සිදුකළ වෙඩි තැබීමෙන් අවුරුදු 49ක කාන්තාවක් තුවාල ලබා කහතුඩුව වෑතර දිසාරෝහල වෙත ඇතුළත් කර ඇත.
+A 49-year-old woman was injured and admitted to Kahathuduwa Watara.
 
-සැකකරු සන්තකයේ තිබී මෙරට නිෂ්පාදිත ජිව අත්බෝම්බයක් හා මන්නයක් ද පොලිස් භාරයට ගෙන ඇත.
+The suspect has also seized a hand grenade and a malage in the country.
 
-සැකකරු ගිනිඅවිය සහ ලයිටරයක් අතැතිව තමා අත්අඩංගුවට ගැනීමට පැමිණෙන පොලීසියට වෙඩි තබන බවට තර්ජනය කරමින් හැසිරුණු බව වැඩිදුර සඳහන්ය.
+Further, the suspect behaved the threat to the arrest of the suspect and shooting the police.
 
-මත්ද්‍රව‍ය පානය කිරීම සඳහා මුදල් සොයා ගැනීමේ අරමුණින් මෙම කප්පම් ගැනීම සිදුකර ඇති බව පොලීසිය පවසයි.
+The extortion has been made to find money to drink the drug.
 
-අදාළ පුද්ගලයා මීට පෙර පුද්ගලයන් සිව්දෙනෙකු තියුණු ආයුධවලින් කපා තුවාල කිරීම සම්බන්ධයෙන් පොලිස් අත්අඩංගුවට ගෙන බන්ධනාගාරගත කර දඬුවම් විදි පුද්ගලයකු බව පොලීසිය සඳහන් කරයි.
+The man had previously arrested four people to a sharp weapons and imprisoned as a punishment.
 
-අවුරුදු 32ක් වන සැකකරු කැස්බෑව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The suspect, 32, is to be produced before the Kesbewa Magistrate's Court.
 
 ◼️
 
 [Data](articles/077bdd23.json)
 
+[Extended Data](ext_articles/077bdd23.ext.json)
+
 ---
 
-### வக்பு வழக்கில் முழுமையற்ற தீர்ப்பு: முஸ்​லிம்​கள் அதிருப்தி
+### Incomplete judgment in Wakpu case: Muslim Lims dissatisfied
 
 *2025-09-17 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வக்பு-வழக்கில்-முழுமையற்ற-தீர்ப்பு-முஸ்-லிம்-கள்-அதிருப்தி/175-364742) · `ta`
 
-வக்பு திருத்​தச் சட்​டம், 2025-ஐ முழு​மை​யாக ரத்து செய்​யக் கோரு​கிறோம். திருத்​தப்​பட்ட சட்​டத்​தின் சில விதி​களை உச்ச நீதி​மன்​றம் நிறுத்தி வைத்​துள்​ளது, ஆனால் இந்த முடிவு முஸ்​லிம்​களின் எதிர்​பார்ப்​பு​களை பூர்த்தி செய்​ய​வில்​லை என முஸ்​லிம்​களின் முக்​கிய அமைப்​பான இந்​திய முஸ்​லிம் தனி​நபர் சட்ட வாரி​ய (ஏஐஎம்​பிஎல்​பி) தேசிய செய்​தித் தொடர்பாளர் எஸ்​.க்​யு.ஆர்​.இலி​யாஸ் தெரிவித்துள்ளார்.
+Wakpu Thiru Dutt Chat Dum, Cancel 2025 as a full ink.. The Supreme Court has stopped some of the rules of the Thiruttu Sutt Dutt, but the decision of the Muz Lims' Mukhti Muhammad (AIM) Law (AIM PLP) National Real Estate (AIM PLP)
 
-முஸ்​லிம் சமூகம், முஸ்​லிம் தனி​நபர் சட்ட வாரி​யம் மற்​றும் அரசி​யலமைப்​பின் அடிப்​படை விதி​களுக்கு முரணான அனைத்து பிரிவு​களுக்​கும் நீதி​மன்​றம் தடை விதிக்​கும் என எதிர்​பார்த்​தோம். பகுதி நிவாரணம் வழங்​கி​யிருந்​தா​லும், இந்த தீர்ப்பு முழு​மையற்ற மற்​றும் திருப்தி அளிக்​காத​தாக உள்​ளது. அரசி​யலமைப்​புக்கு முரணான அனைத்து பிரிவு​களுக்​கும் முழு​மை​யான தடை விதிக்​கப்​படும் என்று முஸ்​லிம் சமூகம் நம்​பியது நடை​பெற​வில்​லை.
+The Muslim community, the Muz Lim, the individual law and the rules of the kingdom of the state will be banned from all sections of the law.. Partial Relief is also satisfied with this verdict and the entire state of affairs.. The Muslim community is not in the process of a full -scale ban on all sections of the queen.
+
+Cancellation of Wakpu Ang Key. This is the straightforward ink of the Wakpu standing forest in the entirety of the. Therefore. He is the only ones who know.
+
+Meanwhile, the AIM PLP has said that the Wakpu Backup Problem will continue to be held from September 1. This includes the mark of the protests, the rally, the rally, the gallows and the rituals between the religious and the religions.
+
+◼️
+
+[Data](articles/d16796b6.json)
+
+[Extended Data](ext_articles/d16796b6.ext.json)
+
+---
+
+### இலங்கை மக்களின் வாழ்க்கை முறையைப் புரிந்துகொள்ள வந்துள்ள அமெரிக்க அமைதிப் படையினர் !
+
+*2025-09-17 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225284) · `ta`
+
+இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜூலி சங், இலங்கைக்கு புதிதாக வந்துள்ள அமெரிக்க அமைதிப் படையினரை (Peace Corps) வரவேற்றுள்ளார். இந்த தன்னார்வலர்கள், வட மாகாணம் மற்றும் வட மத்திய மாகாணங்களில் மூன்று மாத காலப் பயிற்சிக்குப் பிறகு சேவை செய்ய உள்ளனர்.
+
+இந்த அமைதிப் படையினர், இலங்கை மக்களின் வாழ்க்கை முறையைப் புரிந்துகொள்வதற்காக, மூன்று மாதங்களுக்கு முன்-சேவை பயிற்சியில் ஈடுபடுவார்கள். இந்தப் பயிற்சியின் ஒரு பகுதியாக, அவர்கள் சிங்களம் மற்றும் தமிழ் மொழிகளைக் கற்றுக்கொள்வார்கள்.
+
+பயிற்சிக்குப் பின்னர், அவர்கள் வட மாகாணம் மற்றும் வட மத்திய மாகாணங்களில் உள்ள சமூகங்களுடன் இணைந்து, ஆங்கிலம் கற்பித்தல் மற்றும் சமூக வாழ்க்கையின் அங்கமாகச் செயல்படுவார்கள்.
+
+அமெரிக்காவின் மதிப்புகளான சேவை, அமைதி மற்றும் நட்பு ஆகியவற்றை இந்தத் தன்னார்வலர்கள், நட்புறவை வளர்ப்பதன் மூலமும், உண்மையான அயல் வீட்டாராக வாழ்வதன் மூலமும் முன்னெடுத்துச் செல்வார்கள் என்று எதிர்பார்க்கப்படுகிறது.
 
 ...
 
-[Data](articles/d16796b6.json)
+[Data](articles/46213ab9.json)
 
 ---
 
@@ -181,6 +275,28 @@ Malwatte and Asgiri Mahanayaka Thero has issued an announcement in the Diyawadan
 [Data](articles/e403532e.json)
 
 [Extended Data](ext_articles/e403532e.ext.json)
+
+---
+
+### President inaugurated resumption of Kadawatha–Mirigama Expressway construction
+
+*2025-09-17 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112596/president-inaugurated-resumption-of-kadawathamirigama-expressway-construction) · `en`
+
+The inauguration ceremony for the resumption of construction on the Kadawatha to Mirigama section of the Central Expressway Project commenced a short while ago under the patronage of President Anura Kumara Dissanayake.
+
+As part of the recommencement, work will also commence on the Kadawatha Interchange and the first 500-meter stretch of the expressway.
+
+The government has allocated Rs. 8.6 billion for the project.
+
+Construction of this section was suspended in mid-2022 following the suspension of credit facilities due to the economic crisis.
+
+However, the Export-Import Bank of China has approved a Yuan-denominated loan equivalent to USD 500 million to enable the resumption of work.
+
+The distance between Kadawatha and Mirigama on the Central Expressway is 37 kilometers.
+
+◼️
+
+[Data](articles/67d2919a.json)
 
 ---
 
@@ -546,17 +662,19 @@ The President told the Presidential Media Unit that the President has stated tha
 
 ---
 
-### අද මිලි මීටර් 50 ඉක්මවූ වැසි
+### Showers over 50m today
 
 *2025-09-17 07:26:10* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මීටර්-50-ඉක්මවූ-වැසි/11-418545) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ හා උතුරු පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තු අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+The Meteorological Department (Metary Meetics Departments) will be held in the Western, Sabaragamuwa, Central, North Western and Northern provinces and in the Galle and Matara districts.
 
-එසේම සෙසු ප්‍රහේශවල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවත් දිවයිනේ ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට වැඩිදුරටත් පවසයි.
+Also on the other areas. Showers or thundershowers will occur at several places and over 50mm in the country, the Met Department said.
 
 ◼️
 
 [Data](articles/0025376e.json)
+
+[Extended Data](ext_articles/0025376e.ext.json)
 
 ---
 
@@ -1871,101 +1989,5 @@ By investing in infrastructure, providing competitive -based services and the po
 [Data](articles/df8a5b7f.json)
 
 [Extended Data](ext_articles/df8a5b7f.ext.json)
-
----
-
-### Famous actor Robert Redford has passed away
-
-*2025-09-16 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225261) · `ta`
-
-US actor and director Robert Redford (89) passed away on Tuesday (16) at a residence in Utta State.
-
-Ordinary People படத்திற்காக ஆஸ்கர் வென்ற அவர், Sundance திரைப்பட விழாவை நிறுவியதாலும் பரவலாக அறியப்பட்டார்.
-
-◼️
-
-[Data](articles/da6afbf6.json)
-
-[Extended Data](ext_articles/da6afbf6.ext.json)
-
----
-
-### There is no truth in the news of the closure of the Sri Lanka Fisheries Corporation - Minister Ramalingam Chandrasekhar
-
-*2025-09-16 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225260) · `ta`
-
-Minister of Fisheries, Aquatic Resources and Marine Resources Ramalingam Chandrasekhar said that the future decision on the Oluvil port will be taken only after the new possibility is conducted.
-
-The Ministry of Fisheries, Aquatic Resources and Marine Resources Affairs Advisory Committee held a recent meeting chaired by Minister Ramalingam Chandrasekhar.. Deputy Minister Ratna Kamage of Fisheries, Aquatic Resources and Marine Resources was also present.
-
-It was discussed in detail about the implementation of the Oluvil fishing port.. The Minister said that the new possibilities will be carried out on the basis of a new possibility of remedying the effects of the port of Oluvil without proper studies.
-
-The Deputy Minister also stated that the fishing harbor in the Valaichenai area is scheduled to be set up in 2026 to address the need for a fishing port for the Eastern Province, including the factory for fishing.
-
-...
-
-[Data](articles/91a0c99f.json)
-
-[Extended Data](ext_articles/91a0c99f.ext.json)
-
----
-
-### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
-
-*2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
-
-Sri Lanka expects Chinese state energy giant Sinopec to start work on a $3.7 billion refinery this year and is considering the company’s long-standing demand to sell more fuel locally, the energy minister said on Tuesday.
-
-The Sinopec refinery, approved in 2023, will have capacity to process 200,000 barrels of crude oil per day and will be located near the Chinese-built and operated Hambantota port in southern Sri Lanka, Energy Minister Kumara Jayakody said in an interview at his office.
-
-“The land we already have allocated for them, and they have done the other facilities too,” he said. “The government ... we all have the same idea and the same expectation on this project (that it will start this year).”
-
-Sri Lanka’s deputy economic development minister, Anil Jayantha Fernando, separately told Reuters that Sinopec could take about three years to complete the project.
-
-...
-
-[Data](articles/89630496.json)
-
-[Extended Data](ext_articles/89630496.ext.json)
-
----
-
-### Approval of 40,000 Metricton
-
-*2025-09-16 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214648) · `si`
-
-Cabinet Spokesperson Minister Dr. Nalinda Jayatissa said that the government is intervening on the Kiri Samba in the market.
-
-The Minister made this statement in response to a question raised by the journalists in the deficit at the cabinet decision notification today (16).
-
-"The farmers have reached the goals placed in the harvest. But the keeper samba is grown in the cultivation of 7%. As a type, Kratha Samba grown has been reduced. But the entire production is not a decrease. "
-
-"The answer is to be answered this time regarding the fact that the large scale and mill holds up keemen. The information contained is not by my. Also, the import was approved by 40,000 metricton. If necessary, you can get that size. However, still no decision. "
-
-◼️
-
-[Data](articles/ba01e7d7.json)
-
-[Extended Data](ext_articles/ba01e7d7.ext.json)
-
----
-
-### New Building for Jaffna University at a cost of 2,234 million
-
-*2025-09-16 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225259) · `ta`
-
-The Cabinet has granted permission to construct a new five -storey building with modern facilities including lecture halls, laboratory and auditorium to the Faculty of Jaffna University of Jaffna.. The estimated cost is 2,234 million rupees, the Cabinet spokesman said.
-
-The proposal submitted by the Minister of Education, Higher Education and Vocational Education has approved the Cabinet. In 2006, state universities were introduced by sub -health science degrees.
-
-Accordingly, three degrees were started in the Department of Medical Laboratory Science, Drug Chemistry and Naturalism at the University of Jaffna. Currently, 952 students from all ethnicity are educated in the four syllabus of medical laboratory science, pharmaceuticals, nursing and physical education, the Cabinet spokesman said.
-
-Although the Cabinet approved the construction of the building for the Faculty of Assistant Health Sciences in 2017, the funds were not allocated due to the financial crisis.
-
-...
-
-[Data](articles/84ea7292.json)
-
-[Extended Data](ext_articles/84ea7292.ext.json)
 
 ---

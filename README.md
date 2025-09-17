@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 09:11:22**
+As of **2025-09-17 09:39:22**
 
 ## Newspaper Stats
 
-*Scraped **76,442** Articles*
+*Scraped **76,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,423
-adaderanalk | 9,854
+adaderanalk | 9,856
 tamilmirrorlk | 11,441
 virakesarilk | 12,453
 adaderanasinhalalk | 13,332
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,616 (96.3%) of 76,442 articles have been extended.
+73,619 (96.3%) of 76,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,46 @@ He also stressed that the government should see what kind of protection and pres
 [Data](articles/eba08f96.json)
 
 [Extended Data](ext_articles/eba08f96.ext.json)
+
+---
+
+### Heavy rain wreaks havoc in India’s Dehradun; 15 killed in the state, 16 missing
+
+*2025-09-17 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112593/heavy-rain-wreaks-havoc-in-indias-dehradun-15-killed-in-the-state-16-missing) · `en`
+
+Cloudbursts and heavy rains overnight left a trail of destruction in Uttarakhand’s capital Dehradun and several other parts of the state on Tuesday as swollen rivers washed away buildings, roads and bridges, leaving 15 people dead, 16 missing, and 900 stranded in different locations in the hill state.
+
+Of the total fatalities, Dehradun district alone reported 13 and Nainital and Pithoragarh districts one each. Sixteen people are reported missing in different parts of the state capital, the Uttarakhand Disaster Management Authority said.
+
+Three people were also injured in the incidents, it said, adding that they are under treatment.
+
+Search for the missing continued amid inclement weather while NDRF, SDRF and fire brigade personnel brought most of the stranded people to safety, the State Emergency Operation Centre (SEOC) here said.
+
+It said that 900 people stranded in different locations were rescued by the SDRF, NDRF and Fire Brigade personnel.
+
+...
+
+[Data](articles/605c69ab.json)
+
+---
+
+### Digitalization, SME support & new insurance schemes highlighted in pre-budget talks with banking sector
+
+*2025-09-17 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112592/digitalization-sme-support-new-insurance-schemes-highlighted-in-pre-budget-talks-with-banking-sector) · `en`
+
+A pre-budget discussion on the Banking, Finance and Insurance Sector was held at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+The discussions focused extensively on the support that the banking sector can provide to the government’s programme, led by the President, to achieve the country’s economic growth targets.
+
+Representatives also presented their views and proposals in this regard, according to the President’s Media Division (PMD).
+
+Special emphasis was placed on enhancing efficiency in the banking and financial sector through digitalization, expanding programmes targeting small and medium-sized enterprises and introducing new insurance schemes.
+
+Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando noted that these proposals will receive due consideration in the upcoming budget, the PMD said.
+
+...
+
+[Data](articles/6f01e5eb.json)
 
 ---
 
@@ -1981,53 +2021,5 @@ President Anura Dissanayake will sign the relevant exchange sheets and other doc
 [Data](articles/a0962ef1.json)
 
 [Extended Data](ext_articles/a0962ef1.ext.json)
-
----
-
-### Father remanded his daughter abused
-
-*2025-09-16 16:21:10* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-අපයෝජනය-කළ-පියා-රිමාන්ඩ්/11-418536) · `si`
-
-Kuliyapitiya Magistrate Mihinna Sathurna, the father of the girl who was abused by the 13-month girl was appointed as abusing a 8 month old girl.
-
-Earlier was remanded, a resident of Kuliyapitiya Cultural Center, a resident of Kuliyapitiya and a resident of Kuliyapitiya.
-
-The suspect had arrested that the father had been arrested following a far matched by the parcer in Marawila and had been abused by the elderly sister of the mother abroad.
-
-The girl had been depressed at the Kuliyapitiya Police Division and that the investigatory reports have been placed in the house where the investigation were taken from the house.
-
-Attorneysi demanding the suspect, lawyers pointed out that the girl had lodged a false complaint as the girl rebuked.
-
-ඉදිරිපත්වූ සියලූ කරුණු කෙරෙහි අවධානය යොමුකළ මහේස්ත‍්‍රාත්වරයා සැකකරුයේ ඇප ඉල්ලීම ප‍්‍රතික්‍ෂේප කරමින් ඉදිරිදිනයේ පරීක්‍ෂණ ප‍්‍රගතිය රැගත් වැඩිදුර වාර්තාවක් ඉදිරි දිනයේ ඉදිරිපත් කරන්නැයි පොලිසියට නියම කළේය.
-
-...
-
-[Data](articles/439b5da7.json)
-
-[Extended Data](ext_articles/439b5da7.ext.json)
-
----
-
-### Angika Rum amend the Sri Lanka Press Council Act
-
-*2025-09-16 16:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பத்திரிகைப்-பேரவைச்-சட்டத்தைத்-திருத்த-அங்கிகா-ரம்/175-364709) · `ta`
-
-The Cabinet approved by President Anura Kumara Dissanayake has been approved by President Anura Kumara Dissanayake to amend the Sri Lanka Press Association No. 05 of 1973.
-
-The idea submitted by Minister of Health and Media Media Nalinda Jayatissa has been approved.
-
-The Sri Lanka Press Act No. 05 of 1973 was not upgraded to the time of contemporary social and cultural tendencies.
-
-With the development of contemporary communication technology, there is a rapid spread of television, website and social media networks, beyond the newspaper and radio.
-
-So, on the lives of the people on the main impacts. Accordingly, after any newspaper news, after sound/broadcasting through any electronic media,
-
-During the inquiry by the press conference, the results of the inquiry, the results of the inquiry, the results of the issue, and the issuance of the Investigation/Recognition of the Investigation, the Electronic Release/Media/Magazines/Magazines/Magazines/Magazines, etc., etc. Provided by the accompanying.
-
-◼️
-
-[Data](articles/cd390edb.json)
-
-[Extended Data](ext_articles/cd390edb.ext.json)
 
 ---

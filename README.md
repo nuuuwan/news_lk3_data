@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 11:07:58**
+As of **2025-09-17 11:20:23**
 
 ## Newspaper Stats
 
-*Scraped **76,466** Articles*
+*Scraped **76,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,426
 adaderanalk | 9,857
-tamilmirrorlk | 11,452
+tamilmirrorlk | 11,453
 virakesarilk | 12,454
 adaderanasinhalalk | 13,338
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 13,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,641 (96.3%) of 76,466 articles have been extended.
+73,641 (96.3%) of 76,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### இலங்கையில் கடும் வேலைவாய்ப்பு பற்றாக்குறை நிலவும்
+
+*2025-09-17 11:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-கடும்-வேலைவாய்ப்பு-பற்றாக்குறை-நிலவும்/175-364751) · `ta`
+
+அடுத்த தசாப்தத்தில் இலங்கையின் பணியாளர்களில் கிட்டத்தட்ட ஒரு மில்லியன் இளைஞர்கள் இணைவார்கள் என்று உலக வங்கி எச்சரிக்கிறது, ஆனால் அந்த நேரத்தில் 300,000 (3 லட்சம்) புதிய வேலைகள் மட்டுமே உருவாக்கப்படும் என்று மதிப்பிடப்பட்டுள்ளது.
+
+வேலைவாய்ப்புகளை உருவாக்க தனியார் துறை வளர்ச்சியை ஊக்குவிப்பது அவசியம் என்று உலக வங்கியின் பிரதித் தலைவர் ஜோஹன்னஸ் ஜூட் கூறுகிறார். உலக வங்கியின் பிரதித் தலைவரின் இலங்கைக்கான முதல் அதிகாரப்பூர்வ விஜயத்தின் முடிவில் உலக வங்கி வெளியிட்ட அதிகாரப்பூர்வ அறிக்கையில் இது கூறப்பட்டுள்ளது.
+
+உலக வங்கி குழு தனியார் மூலதனத்தை ஈர்ப்பதற்கும், போட்டித்தன்மை மற்றும் சேவை வழங்கலை வலுப்படுத்துவதற்கும், நாடு முழுவதும் வேலை வாய்ப்புகளை விரிவுபடுத்துவதற்கும் அரசாங்கத்துடன் கூட்டாக இணைந்து செயல்படும்.
+
+...
+
+[Data](articles/ddc0f66d.json)
+
+---
 
 ### மஹிந்தவிடம் குசலம் விசாரித்தார் விமல்
 
@@ -124,7 +140,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 හැටන්-නුවරඑලිය, හැටන්-කොළඹ ප්‍රධාන මාර්ගවල සහ අතුරු මාර්ගවල මෙම ඝණ මීදුම් තත්ත්වය පවතින බව අද දෙරණ වාර්තාකරු පවසයි.
 
-එම මාර්ගවල රථවාහාන ධාවනය කිරීමේදි වාහනවල ඉදිරිපස ප්‍රධාන ලාම්පු දල්වාගෙන සෙමින් සැලකිලිමත් ලෙස රිය ධාවනය කරන ලෙස හැටන් පොලීසියේ රථවාහන අංශයේ නිළධාරින් රියදුරන්ගෙන් ඉල්ලා සිටියි.
+එම මාර්ගවල රථවාහාන ධාවනය කිරීමේදි වාහනවල ඉදිරිපස ප්‍රධාන ලාම්පු දල්වාගෙන සෙමින් සැලකිලිමත් ලෙස රිය ධාවනය කරන ලෙස හැටන් පොලීසියේ රථවාහන අංශයේ නිලධාරින් රියදුරන්ගෙන් ඉල්ලා සිටියි.
 
 ◼️
 
@@ -1947,25 +1963,5 @@ The Minister made this statement in response to a question raised by the journal
 [Data](articles/ba01e7d7.json)
 
 [Extended Data](ext_articles/ba01e7d7.ext.json)
-
----
-
-### New Building for Jaffna University at a cost of 2,234 million
-
-*2025-09-16 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225259) · `ta`
-
-The Cabinet has granted permission to construct a new five -storey building with modern facilities including lecture halls, laboratory and auditorium to the Faculty of Jaffna University of Jaffna.. The estimated cost is 2,234 million rupees, the Cabinet spokesman said.
-
-The proposal submitted by the Minister of Education, Higher Education and Vocational Education has approved the Cabinet. In 2006, state universities were introduced by sub -health science degrees.
-
-Accordingly, three degrees were started in the Department of Medical Laboratory Science, Drug Chemistry and Naturalism at the University of Jaffna. Currently, 952 students from all ethnicity are educated in the four syllabus of medical laboratory science, pharmaceuticals, nursing and physical education, the Cabinet spokesman said.
-
-Although the Cabinet approved the construction of the building for the Faculty of Assistant Health Sciences in 2017, the funds were not allocated due to the financial crisis.
-
-...
-
-[Data](articles/84ea7292.json)
-
-[Extended Data](ext_articles/84ea7292.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 00:12:16**
+As of **2025-09-18 00:52:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,854 (96.4%) of 76,599 articles have been extended.
+73,860 (96.4%) of 76,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -117,6 +117,8 @@ Following this request, UN representatives reportedly accepted the proposal and 
 ...
 
 [Data](articles/f3dd3d79.json)
+
+[Extended Data](ext_articles/f3dd3d79.ext.json)
 
 ---
 
@@ -221,6 +223,8 @@ Reports indicate that the suspects are allegedly linked to a drug trafficking ri
 ◼️
 
 [Data](articles/4cefdbbc.json)
+
+[Extended Data](ext_articles/4cefdbbc.ext.json)
 
 ---
 
@@ -470,6 +474,8 @@ Coinciding with this, a digital testimony room equipped with facilities to allow
 
 [Data](articles/eca07b9f.json)
 
+[Extended Data](ext_articles/eca07b9f.ext.json)
+
 ---
 
 ### Rumesh wave to match throwing
@@ -567,6 +573,10 @@ The batsman of England is John Butler (794) in the second place.
 President Anura Kumara Dissanayake today (17) emphasized that Sri Lanka will never again face a crisis like the one where people were forced to queue for fuel and gas, sometimes resulting in loss of life, the President’s Media Division.
 
 The President made this statement during the launch of construction work on six new petroleum storage tanks at the Kolonnawa Petroleum Storage Complex.
+
+The President also highlighted that the current government is taking steps to safeguard energy autonomy and achieve economic independence.
+
+President Dissanayake also sought the support of all citizens for the progressive transformation.
 
 ◼️
 
@@ -1118,7 +1128,7 @@ Thursday, September 25, will be debated to approve regulations under the Import 
 
 The National Water Supply and Drainage Board (NWSDB) has announced that the nine-hour water cut, originally scheduled from 10:00 a.m. to 7:00 p.m. tomorrow (18), affecting several areas including Colombo, has been cancelled.
 
-Earlier, the NWSDB had stated that the water cut would affect all areas from Colombo 01 to Colombo 15.
+Yesterday (16), the NWSDB had stated that the water cut would affect all areas from Colombo 01 to Colombo 15.
 
 Additionally, the water cut was expected to impact the following areas:
 

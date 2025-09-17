@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 16:54:32**
+As of **2025-09-17 18:21:11**
 
 ## Newspaper Stats
 
-*Scraped **76,540** Articles*
+*Scraped **76,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,65 +12,213 @@ newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,630
+economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,435
-adaderanalk | 9,871
-tamilmirrorlk | 11,478
+adalk | 7,437
+adaderanalk | 9,876
+tamilmirrorlk | 11,481
 virakesarilk | 12,460
-adaderanasinhalalk | 13,353
+adaderanasinhalalk | 13,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,752 (96.4%) of 76,540 articles have been extended.
+73,769 (96.4%) of 76,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### சம்பத் மனம்பேரிக்கு தடுப்புக்காவல்
+### Sri Lanka GSMB poor royalty charge, inefficiencies revealed before COPE: Parliament
+
+*2025-09-17 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-gsmb-poor-royalty-charge-inefficiencies-revealed-before-cope-parliament-240940/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Geological Survey and Mines Bureau (GSMB) has been losing millions of rupees due to poorly charged royalty fees amid numerous inefficiencies, the parliament Committee on Public Enterprises (COPE) meeting was told recently, the parliament said in a statement.
+
+This was disclosed when the COPE inquired into the Auditor General’s reports for GMSB for 2022 and 2023 and its current performance.
+
+In one instance, the government lost Rs.12 million because the GMSB only charged royalty fee for 1,594 cubic meters instead of charging the fee up to 45,561 cubic meters, the parliament said.
+
+“Discussions were also held on the calculation of royalty for stone quarries based on the explosives issued for the quarry. It was pointed out by the Committee that due to the use of explosives in an illegal manner, the actual volume of rock removed could not be calculated, resulting in a large loss of revenue to the government,” the Parliament said in the statement.
+
+...
+
+[Data](articles/769f34a2.json)
+
+---
+
+### Kerawalapitiya ‘Sobadhanavi’ LNG Power Plant connected to the national grid
+
+*2025-09-17 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112616/kerawalapitiya-sobadhanavi-lng-power-plant-connected-to-the-national-grid-) · `en`
+
+Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody have ceremonially connected the ‘Sobadhanavi’ 350 MW LNG Power Plant at Kerawalapitiya with the national grid a short while ago.
+
+◼️
+
+[Data](articles/0601aed6.json)
+
+---
+
+### Dutch airline KLM cancels 100 flights amid ground staff strike
+
+*2025-09-17 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112615/dutch-airline-klm-cancels-100-flights-amid-ground-staff-strike) · `en`
+
+Around 100 flights were cancelled at Amsterdam’s Schiphol Airport on Wednesday after ground staff at Dutch airline KLM staged a walkout in a dispute over pay and working conditions.
+
+Both European and long-haul routes were affected, including services to Germany, Italy, Scandinavia, the United Kingdom, the United States, and South Africa.
+
+The strike follows a similar walkout last week and is part of a wider campaign led by the FNV union, which has warned of longer stoppages in the weeks ahead.
+
+◼️
+
+[Data](articles/6f105a57.json)
+
+---
+
+### COPE committee reveals billions of people lost by the government
+
+*2025-09-17 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214682) · `si`
+
+The Select Committee of the Committee (COPE) has revealed that the government has lost a lot of money due to the government's limitation due to the government half of the Geological Survey and Mines Bureau.
+
+How fair is to calculate the quality of the explosive amount of explosives issued for quotards? The COPE committee has been questioned.
+
+It is also also concerned about issues of issuing exploration licenses as well as disorders related to temptation and crumbles.
+
+Accordingly, the COPE committee has been informed to formulate a proper mechanism and amend the Act.
+
+Dr. Nishantha Samaraweera was the Chairman of the Committee to check on the Auditor General's records and current performance in the Geological Survey and the Mining Excue Bureau.
+
+◼️
+
+[Data](articles/09a09dd2.json)
+
+[Extended Data](ext_articles/09a09dd2.ext.json)
+
+---
+
+### Happy news to people living in Colombo
+
+*2025-09-17 16:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வாழ்-மக்களுக்கு-மகிழ்ச்சியான-செய்தி/175-364782) · `ta`
+
+The National Water Supply and Drainage Board (NWSDB) today announced that the 9 -hour waterfall, which was scheduled to be carried out in Colombo on Thursday (18).
+
+The water cut was planned from 10:00 am to 7:00 pm.
+
+It was announced that the water cut would be implemented from Colombo 01 to Colombo 15.
+
+Not only in Colombo but also in Colombo, Battaramulla, Belawatte, Hoganda, Koswatte, Talawatugoda, Kotte, Rajagiriya, Mirihana, Madiwale, Nugegoda, Navala, Kolonnawa, ITH, Kotikawatta, Angoda, Vellampitiya It was also announced that the waterway will be implemented in Moratuwa areas. The announcement has also been canceled.
+
+◼️
+
+[Data](articles/592967b7.json)
+
+[Extended Data](ext_articles/592967b7.ext.json)
+
+---
+
+### සම්පත් මනම්පේරි දින 7ක් රඳවාගෙන ප්‍රශ්න කරයි
+
+*2025-09-17 16:37:38* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-දින-7ක්-රඳවාගෙන-ප්‍රශ්න-කරයි/11-418562) · `si`
+
+අත්අඩංගුවට ගැනීමට සොයමින් සිටියදී අද දිනයේදී වලස්මුල්ල මහේස්ත්‍රාත් අධිකරණට  භාර වූ සම්පත් මනම්පේරි දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට අධිකරණය අවසර දුන්නේය. පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය කළ ඉල්ලීමක් පිළිගනිමින් මෙම අවසරය ලබාදුන්නේය.
+
+අයිස් මත්ද්‍රව්‍ය නිපදවීම වෙනුවෙන් යොදා ගන්නා රසායනික ද්‍රව්‍ය තොගයක් හමුවීමේ සිදුවීම සම්බන්ධයෙන් ඔහු අත්අඩංගුවට ගැනීමට සොයමින් සිටියේය.
+
+◼️
+
+[Data](articles/10f6acf1.json)
+
+---
+
+### Prevention of Sampath Manamber
 
 *2025-09-17 16:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-தடுப்புக்காவல்/175-364781) · `ta`
 
-மித்தெனிய பகுதியில் "ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு இரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் தேடப்பட்டு வந்த சம்பத் மனம்பேரி வலஸ்முல்ல நீதவான் நீதிமன்றத்தில் இன்று (17) சரணடைந்தார்.
+Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
 
-அவரை எதிர்வரும் 24 ஆம் திகதி வரை தடுப்புகாவலில் வைத்து விசாரணைக்கு உட்படுத்துவதற்கு நீதிமன்றம் அனுமதியளித்துள்ளது.
+The court has given him permission to investigate him until the 24th of this month.
 
 ◼️
 
 [Data](articles/06ef553a.json)
 
+[Extended Data](ext_articles/06ef553a.ext.json)
+
 ---
 
-### பறந்தார் ஆனந்த: பதில் அமைச்சரானார் வட்டகல
+### Ananda: Vatagala became Minister
 
 *2025-09-17 16:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தார்-ஆனந்த-பதில்-அமைச்சரானார்-வட்டகல/175-364780) · `ta`
 
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சராகப் பணியாற்றுவதற்காக பிரதி அமைச்சர் சட்டத்தரணி சுனில் வட்டகலவை ஜனாதிபதி அனுர குமார திசாநாயக்க நியமித்தார்.
+President Anura Kumara Dissanayake has appointed Deputy Minister Sunil Vatagala to serve as Minister of Public Safety and Parliamentary Affairs.
 
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சர் ஆனந்த விஜேபால சீனாவில் ஒரு மாநாட்டில் கலந்து கொள்ளச் சென்றதால் இந்த நியமனம் வழங்கப்பட்டது.
+The appointment was granted as Public Security and Parliamentary Affairs Minister Ananda Wijebala attended a conference in China.
 
-ஆனந்த விஜேபாலவுடன் பொலிஸ் மா அதிபரும் இந்த மாநாட்டில் கலந்து கொள்ளச் சென்றுள்ளார்.
+The Inspector General of Police has also attended the conference with Ananda Wijebala.
 
 ◼️
 
 [Data](articles/a57776a4.json)
 
+[Extended Data](ext_articles/a57776a4.ext.json)
+
 ---
 
-### සම්පත් මනම්පේරිව දින 7ක් රඳවා ප්‍රශ්න කිරීමට අවසර
+### Resource Mamanampara is allowed to interfere with seven days
 
 *2025-09-17 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214681) · `si`
 
-අත්අඩංගුවට ගැනීමට සොයමින් සිටියදී අද (17) දහවල් අධිකරණයට භාර වූ සම්පත් මනම්පේරි නමැත්තා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය භාරයේ දින 07ක කාලයක් රඳවා ප්‍රශ්න කිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් මල්ෂා කොඩිතුවක්කු මෙනෙවිය නියෝග කර ඇත.
+Sampath Manamperi, who was in charge of the court today (17), has been given permission to interfere with seven days in the custody of the Police Narcotics Bureau.
 
 ◼️
 
 [Data](articles/49562747.json)
+
+[Extended Data](ext_articles/49562747.ext.json)
+
+---
+
+### Court grants permission to detain Sampath Manamperi for seven days for questioning
+
+*2025-09-17 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112613/court-grants-permission-to-detain-sampath-manamperi-for-seven-days-for-questioning) · `en`
+
+The Walasmulla Magistrate’s Court today (17) granted permission to the Police Narcotics (PNB) to detain Sampath Manamperi, accused of concealing two containers of raw materials allegedly used in the production of the drug ‘Ice’ and reportedly belonging to underworld figure Kehelbaddara Padme, for seven days for questioning.
+
+Accordingly, PNB officers will question Sampath Manamperi over the discovery of two containers in Middeniya recently.
+
+Sampath Manamperi surrendered to the Walasmulla Magistrate’s Court earlier today.
+
+An attorney representing Manamperi informed the Court of Appeal on September 15 that his client was prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of the two containers in Middeniya, which were suspected to contain chemical substances used in the manufacture of crystal methamphetamine (Ice).
+
+...
+
+[Data](articles/28685145.json)
+
+[Extended Data](ext_articles/28685145.ext.json)
+
+---
+
+### Sri Lanka parliament committee approves National Building Research Institute Bill
+
+*2025-09-17 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-committee-approves-national-building-research-institute-bill-240935/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National Building Research Institute Bill, which strengthens the National Building Research Organization’s powers, has been considered and approved by a sectoral oversight committee, parliament said.
+
+“Although the National Building Research Organization has been functioning since 1984, it has not yet been established by an Act of Parliament.
+
+“Therefore, the proposed Bill seeks to provide the Organization with legal status in order to properly fulfil the duties, responsibilities, and services entrusted to it.”
+
+Officials, making submissions before the Sectoral Oversight Committee on Governance, Justice and Civil Protection, pointed out that once the proposed bill is passed, the NBRO would be able to take legal action in instances where Local Government institutions fail to adhere to the recommendations issued by the NBRO with regard to landslides.
+
+The bill is to be taken up for its second reading in parliament on September 23. (Colombo/Sep17/2025)
+
+◼️
+
+[Data](articles/a190eabb.json)
 
 ---
 
@@ -93,6 +241,26 @@ Thereafter, time has been set up for the debate for the adjournment of the oppos
 [Data](articles/19b3e51e.json)
 
 [Extended Data](ext_articles/19b3e51e.ext.json)
+
+---
+
+### Second Reading of National Building Research Institute Bill in Parliament next week
+
+*2025-09-17 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112612/second-reading-of-national-building-research-institute-bill-in-parliament-next-week) · `en`
+
+The decision was taken during a meeting of at the Committee on Parliamentary Business held under the chairmanship of Speaker of House Dr. Jagath Wickramaratne.
+
+Accordingly, Parliament is scheduled to meet from September 23 to 26.
+
+On each sitting day next week, the time from 9.30 a.m. to 10.00 a.m. has been allotted for parliamentary business as per Standing Orders 22 (1) to (6) of Parliament. The time from 10.00 a.m. to 11.00 a.m. has been allocated for Questions for Oral answers, while the time from 11.00 a.m. to 11.30 a.m. has been reserved for Questions under Standing Orders 27(2).
+
+Accordingly, on Tuesday (23), from 11.30 a.m. to 5.00 p.m. the Second Reading of the National Building Research Institute Bill is scheduled to be taken up for debate.
+
+Thereafter, from 5.00 p.m. to 5.30 p.m. the Motion at the Adjournment Time moved by the opposition is scheduled to be debated.
+
+...
+
+[Data](articles/c27f16be.json)
 
 ---
 
@@ -135,6 +303,24 @@ If necessary, contact the Call Center from the 1939 Telephone Number.
 [Data](articles/20bdc8e2.json)
 
 [Extended Data](ext_articles/20bdc8e2.ext.json)
+
+---
+
+### Nine-hour water cut in Colombo and suburbs cancelled
+
+*2025-09-17 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112611/nine-hour-water-cut-in-colombo-and-suburbs-cancelled) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) has announced that the nine-hour water cut, originally scheduled from 10:00 a.m. to 7:00 p.m. tomorrow (18), affecting several areas including Colombo, has been cancelled.
+
+Earlier, the NWSDB had stated that the water cut would affect all areas from Colombo 01 to Colombo 15.
+
+Additionally, the water cut was expected to impact the following areas:
+
+◼️
+
+[Data](articles/0d1fd934.json)
+
+[Extended Data](ext_articles/0d1fd934.ext.json)
 
 ---
 
@@ -183,6 +369,28 @@ Bangladesh must be overcome by the victory of Sri Lanka and overcome the net sco
 [Data](articles/6512195e.json)
 
 [Extended Data](ext_articles/6512195e.ext.json)
+
+---
+
+### Sri Lanka stocks close up, driven by materials, capital goods
+
+*2025-09-17 15:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-materials-capital-goods-240914/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The All Share Price Index was up 0.76 percent, or 156.05 points, at 20,775, and the S&P SL20 was up 0.59 percent, or 34.89 points, at 5,903.
+
+Most of this came from materials (Rs1.12bn) and capital goods (Rs1.68bn) stocks.
+
+Alumex stock was heavily traded (Rs439mn); the stock closed up 2.10 rupees at 20.80.
+
+ACL Cables, which announced an interim dividend of 1.50 rupees per share, closed up 3 rupees at 190.25.
+
+Top contributors to the ASPI were Commercial Bank (up 3.50 rupees at 190), Hemas Holdings (up 1.10 rupees at 31.40), Melstacorp (up 2 rupees at 157.50), Nations Trust Bank (up 9.25 rupees at 278.50), and Singer (Sri Lanka) (up 5.10 rupees at 78.70). (Colombo/Sep17/2025)
+
+◼️
+
+[Data](articles/d90109f1.json)
 
 ---
 
@@ -316,6 +524,26 @@ Priya's father fell victim to Corona in 2019. Siddhi Quil, who fell in despair, 
 
 ---
 
+### Sri Lanka sells less than offered treasury bills, yields mostly flat
+
+*2025-09-17 15:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-yields-mostly-flat-240915/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 54 billion rupees of Treasury bills, of an offered 75 billion, with yields mostly flat across maturities, data from the state debt office showed.
+
+The 3-month yield was down 1 basis point at 7.57 percent, with 12.5 billion rupees of bills offered and 11.3 billion sold.
+
+The 6-month yield was unchanged at 7.89 percent, with 47.5 billion rupees offered and 34.04 billion sold.
+
+The 12-month yield was unchanged at 8.02 percent with 15 billion rupees offered and 8.62 billion rupees bills sold.
+
+All 3 bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/73928a90.json)
+
+---
+
 ### UNP removed the ban on SJB members
 
 *2025-09-17 15:27:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-உறுப்பினர்கள்-மீதான-தடையை-நீக்கியது-UNP/175-364772) · `ta`
@@ -430,6 +658,22 @@ If Pakistan had decided to quit the match, the move would have been a $ 16 milli
 
 ---
 
+### The National Building Research Institute is more powerful
+
+*2025-09-17 14:52:23* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ගොඩනැගිලි-පර්යේෂණ-ආයතනයට-වැඩි-බලයක්/11-418556) · `si`
+
+Second of the National Building Research Research Institutes of Parliament to read and approve the second second term in Parliament approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.. The committee met with MP Nagith Indika in Parliament recently.
+
+Although the National Building Research Organization has been implemented since 1984, the institute has not yet been established by a parliamentary act, the National Building Research Organization is expected to be properly transferred to the National Building Research Organization.. If the proposed bill will not be properly issued by the organization on landslides, the proposed Bill will not be properly adopted by the proposed Bill, legal action will be taken against the Committee.
+
+...
+
+[Data](articles/f9cb3a18.json)
+
+[Extended Data](ext_articles/f9cb3a18.ext.json)
+
+---
+
 ### “Some MPs have gone to the homes of the culprits and get the money”
 
 *2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
@@ -452,6 +696,28 @@ To ensure the rule of law. There was a law that caught fish and sharks.
 
 ---
 
+### “Some MPs have gone to the homes of the culprits and get the money”
+
+*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/150-364767) · `ta`
+
+President Anura Kumara Dissanayake said that some MPs have been bribed to the houses of organized criminals and that some ministers have invited the organized criminals to their homes.
+
+Speaking at the inauguration to resume the construction of the Central Expressway's Kadawatha-Mrigama Division, the President said that the inquiries of the suspects team were deeply involved in the Sri Lankan criminal network.
+
+However, the government is working to end this criminal politics and that the arrests that have been arrested so far are about 50 percent responsible for the drug network.
+
+“After the economy has collapsed, there is a saying that a decade is lost. This can be reduced to less than a decade. We will allocate money from the budget for that. We will build the country so that Sri Lanka will never be a crisis again. Creating infrastructure is not just enough. That is only a feature.
+
+To ensure the rule of law. There was a law that caught fish and sharks.
+
+...
+
+[Data](articles/8827b473.json)
+
+[Extended Data](ext_articles/8827b473.ext.json)
+
+---
+
 ### Central Expressway: Pothuhera to Rambukkana section completion date announced
 
 *2025-09-17 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112608/central-expressway-pothuhera-to-rambukkana-section-completion-date-announced) · `en`
@@ -470,21 +736,23 @@ Accordingly, the construction of the section from Pothuhera to Rambukkana is pla
 
 ---
 
-### වැඩිම රිලව් ගහණයක් ඉන්නේ මහනුවරයි
+### The highest relief population is the waters
 
 *2025-09-17 14:28:39* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-රිලව්-ගහණයක්-ඉන්නේ-මහනුවරයි/11-418555) · `si`
 
-වැඩිම රිලා ගහණයක් ඇත්තේ මහනුවර දිස්ත්‍රික්කයේ බව පසුගිය කාලයේ කළ සංගණනයෙන් තහවුරු වූ බවත්
+The largest bail of Rila has been established by the recent census that he has previously been admitted to the Kandy district.
 
-ඉන් අනතුරුව කෑගල්ල, කුරුණෑගල හා අනුරාධපුර නගර පවතින බවත් කෘෂිකර්ම අමාත්‍ය ලාල් කාන්ත මහතා පැවැසීය.
+Minister of Agriculture Lal Kantha said that there were Kegalle, Kurunegala and Anuradhapura.
 
-"අපේ රටේ වනජීවී කළමනාකරණය කියලා මාතෘකාවක නෑ. වනජීවී කළමනාකරණය කරන්න නම් වනජිව් ගැන සංඛ්‍යාවක්  තියෙන්න ඕන. ඒ සංගනණය තමයි අපි ක‍ළේ. රිලා ප්‍රශ්ණය ගත්තොත් මහනුවර දිස්ත්‍රික්කයේ තමයි වැඩිම රිලා ගණනයක් ඉන්නේ කියලා ඒ සංගණනයන් තහවුරු වුණේ. මහනුවර, කෑගල්ල, කුරුණෑගල අනුරාධපුර කියලා තමයි දත්තයක් ආවේ.
+"There is no title that" wealth management in our country. There should be a number of Wildlife to manage wildlife. That was the census that we did. The census confirmed that if the Rila issue, the highest calculation in the Kandy district. A data was the case, Kandy, Kegalle and Kurunegala.
 
-මේ සංගණනය නිසා තමයි එහෙම දත්තයක් ආවේ. මේ සම්බන්ධයෙන් ජනපති ලේකම් කාර්යාලයේ වැඩසටනහක් ක්‍රියාත්මක වෙමින් යනවා. ප්‍රථිඵල එන්නේ යම් කාලයක් සමගයි."
+This is due to this census that. Presidential Secretariat is being implemented in this regard. The results come with a time. "
 
 ◼️
 
 [Data](articles/0477ce2b.json)
+
+[Extended Data](ext_articles/0477ce2b.ext.json)
 
 ---
 
@@ -742,6 +1010,24 @@ The Court’s order was issued after considering a writ petition filed by Manamp
 
 ---
 
+### Sri Lanka deposits its ratified marine biodiversity pact in UN
+
+*2025-09-17 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-deposits-its-ratified-marine-biodiversity-pact-in-un-240909/) · `en`
+
+ECONOMYNEXT – Sri Lanka deposited its instrument of UN agreement on the Conservation and Sustainable use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ) with effect from this week, becoming state party to the convention and the move expected to give more access of marine resources to the island nation, the Foreign Ministry said.
+
+Sri Lanka ratified the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) in February this year.
+
+The move is also expected to enhance Sri Lanka’s potential to receive assistance for capacity-building projects, transfer of technology, and knowledge sharing in the country’s efforts in marine conservation.
+
+Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
+
+...
+
+[Data](articles/d6c41aff.json)
+
+---
+
 ### Resources surrendered to Manampean Court
 
 *2025-09-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214670) · `si`
@@ -854,6 +1140,26 @@ The court banned the defendants from going abroad and ordered them to hand over 
 
 ---
 
+### Sri Lanka rupee stronger against dollar, bond yields steady
+
+*2025-09-17 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240902/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.96/302.00 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2029 closed flat at 9.55/60 percent.
+
+A bond maturing on 15.12.2032 closed at 10.40/49 percent, up from 10.38/45 percent.
+
+◼️
+
+[Data](articles/c066a143.json)
+
+---
+
 ### Special insurance scheme for yellow and ginger cultivation
 
 *2025-09-17 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214668) · `si`
@@ -917,6 +1223,30 @@ Accordingly, there are poor infrastructure deficits for the Jaffna University's 
 [Data](articles/1f08f840.json)
 
 [Extended Data](ext_articles/1f08f840.ext.json)
+
+---
+
+### A five -storey building for Jaffna University
+
+*2025-09-17 12:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்திற்கு-ஐந்து-மாடி-கட்டிடம்/175-364761) · `ta`
+
+The Cabinet has approved the construction of a five -storey building with modern facilities for the Jaffna University's Joint Health Science Faculty.
+
+The Cabinet approved the idea of ​​the Cabinet meeting headed by President Anura Kumara Dissanayake on May 16.
+
+In 2006, graduates were identified on the health science of the state universities and the Jaffna University's Medical Laboratory of Jaffna's Medical Laboratory and three scientific graduates were launched in the fields of science, pharmaceuticals and nurses.
+
+Currently, 952 students in four syllabuses are engaged in the course of the Faculty of Health Sciences at the University of Jaffna.
+
+Although the Cabinet has approved the construction of the building for the Faculty of Health in 2017, it has not been funded by the financial crisis.
+
+Accordingly, the Faculty of Health Sciences at the University of Jaffna has been pointed out that there are poor infrastructure deficits.
+
+...
+
+[Data](articles/918ceb22.json)
+
+[Extended Data](ext_articles/918ceb22.ext.json)
 
 ---
 
@@ -1007,6 +1337,22 @@ Peliyagoda-Colombo Kandy Dutch. In this, a 3 -year -old girl died in a three -wh
 [Data](articles/8a548e84.json)
 
 [Extended Data](ext_articles/8a548e84.ext.json)
+
+---
+
+### Sri Lanka’s First Capital to raise 3bn from debentures
+
+*2025-09-17 12:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-first-capital-to-raise-3bn-from-debentures-240889/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s First Capital Holdings’ proposed debenture sale to raise up to 3 billion rupees has received stock exchange approval, a market filing stated.
+
+10 million listed, rated, senior, unsecured, redeemable, 5-year debentures will be offered initially, at 100 rupees each.
+
+If this is oversubscribed, another 10 million debentures will be offered, and if that too is oversubscribed, a further 10 million debentures will be offered.
+
+◼️
+
+[Data](articles/381b2ab5.json)
 
 ---
 
@@ -1659,371 +2005,5 @@ Pakistan canceled its press conference yesterday as the controversy continues to
 [Data](articles/0c2c95a8.json)
 
 [Extended Data](ext_articles/0c2c95a8.ext.json)
-
----
-
-### Sri Lanka to sprinkle with ice
-
-*2025-09-17 09:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐஸ்க்குள்-தத்தளிக்கும்-இலங்கை/62-364738) · `ta`
-
-◼️
-
-[Data](articles/b3828ae8.json)
-
-[Extended Data](ext_articles/b3828ae8.ext.json)
-
----
-
-### Water cut tomorrow to several major cities in Colombo
-
-*2025-09-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214661) · `si`
-
-The National Water Supply and Drainage Board (NPF) says that the water cut will be imposed in several areas tomorrow (18).
-
-The water supplied by the Portata Water Treatment Plant has to be suspended by the power supply to the Ambatale Water Treatment Plant will suspend the electricity supply to the main body.
-
-The water cut will be imposed from 10.00 am to 07 am to 07 pm.
-
-Water cut will be suspended in areas from 1 to 15 of Colombo.
-
-The National Water Supply and Drainage Board stated that the water cut will be imposed in Battaramulla, Hokandara, Koswatta, Kotte, Kottagamuwa, Colombo, Dehiwala, Ratmalana, Dehiwala, Borakoda, Dehiwala, Boraiwatta, Maharagama, Dehiwala, Boraiwatta, Wattawatta, Dehiwala, Boraiwatta, Dehiwala, Boraiwatta.
-
-◼️
-
-[Data](articles/cd6aaf56.json)
-
-[Extended Data](ext_articles/cd6aaf56.ext.json)
-
----
-
-### Prince Dutugemunu did not water
-
-*2025-09-17 09:39:13* · [`adalk`](https://www.ada.lk/opinion/දුටුගැමුණු-කුමරු-දිය-නෑ-රණමුනේ-පිහිල්ල/2-418549) · `si`
-
-Kotmale is a very contemporary conqueror that immigrated in the history of Sri Lanka's history. The city in Kotmale, which has been rich in ancient events, is an area of ​​many historical villages living in a large number of mountains.
-
-Ranamuna Knife is one of the most unique places in Sri Lanka close to Kothmale and Mawatha. Maramamane police can be known as one of the most unique string of Sri Lanka's history and cultural heritage. The ancient strike was known as the reign of King Dutugemunu, which was between 137 and 161 BCE.
-
-Managamon knife with a natural source of the mannels of the year is a wonderful knife flowing into the most clean water with a cold. The Mawawela Kazi says that the water will not dry up. The villagers are using the villages in the Mawatha for Daughter and laundry. Two water knife have been created for females for the girls to bath it. The knife has been built with large black stone carts with natural water source.
-
-...
-
-[Data](articles/429578d3.json)
-
-[Extended Data](ext_articles/429578d3.ext.json)
-
----
-
-### Electricity Board employees who jumped on a sick holiday
-
-*2025-09-17 09:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுமுறையில்-குதித்த-மின்சார-சபை-ஊழியர்கள்/175-364737) · `ta`
-
-The Ceylon Electricity Board (CEB employees) have decided to engage in a sick holiday strike today (17).
-
-Kosala Abeysinghe, president of the Technology Association, said that the move was taken as the second phase of the strike action.. Remble
-
-◼️
-
-[Data](articles/b4764fd2.json)
-
-[Extended Data](ext_articles/b4764fd2.ext.json)
-
----
-
-### Lalith Patinayake appointed as the Inspector General of Police
-
-*2025-09-17 09:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்-மாஅதிபராக-லலித்-பத்திநாயக்க-நியமனம்/175-364736) · `ta`
-
-Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Chief of Police.
-
-He has been temporarily appointed as police chief Priyantha Weerasuriya has left the country to attend the police conference in China.
-
-Accordingly, Senior Deputy Inspector General of Police, Lalith Patinayake, has been responsible for the Central Province and Police Administrative Division and has previously served as the Inspector General of Police.
-
-◼️
-
-[Data](articles/7f928f7d.json)
-
-[Extended Data](ext_articles/7f928f7d.ext.json)
-
----
-
-### CEB workers launch ‘sick leave’ trade union action today
-
-*2025-09-17 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112595/ceb-workers-launch-sick-leave-trade-union-action-today) · `en`
-
-Employees of the Ceylon Electricity Board (CEB) have decided to report sick today (17) as part of a trade union action.
-
-Chairman of the CEB Technical Engineers’ Union, Kosala Abeysinghe, stated that this measure marks the commencement of the second phase of their ongoing union action.
-
-◼️
-
-[Data](articles/043ab81e.json)
-
-[Extended Data](ext_articles/043ab81e.ext.json)
-
----
-
-### Pre Budget discussion on auto mobile and electronic equipment industry
-
-*2025-09-17 09:31:37* · [`adalk`](https://www.ada.lk/breaking_news/ඔටෝ-මොබයිල්-සහ-විද්‍යුත්-උපකරණ-කර්මාන්ත-සම්බන්ධයෙන්-පූර්ව-අයවැය-සාකච්ඡාවක්/11-418548) · `si`
-
-The pre-Budget discussion on auto mobile and electronic equipment industry, the Minister of Labor and Economic Development Dr. Anil Jayantha Fernando was held yesterday (16th) at the Presidential Secretariat.
-
-It was also said that the importers of the auto mobile and electronic equipment were fully supported for the economic development initiative leading by President Anura Kumara Dissanayake.
-
-Vehicle importers have also been extended by the present government that the vehicle import sector has been expanded by the decision of vehicles.
-
-The electronic appliances pointed out that the issues faced by electrical production products, especially the electrical equipment taken by organized groups, and the electrical equipment brought to the country without paying taxes.
-
-They pointed out that the government loses a large tax revenue and the consumers have requested the accelerated measures.
-
-...
-
-[Data](articles/472cef86.json)
-
-[Extended Data](ext_articles/472cef86.ext.json)
-
----
-
-### Absurdity Of ‘The Flock Of Sheep’ Seeking Protection From The ‘Werewolf’
-
-*2025-09-17 09:21:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/absurdity-of-the-flock-of-sheep-seeking-protection-from-the-werewolf/) · `en`
-
-...
-
-[Data](articles/855513d5.json)
-
-[Extended Data](ext_articles/855513d5.ext.json)
-
----
-
-### Heavy rains in the state of Uttarakhand, India; 15 people die
-
-*2025-09-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225278) · `ta`
-
-Heavy rains and clouds occurred on Tuesday morning (17) in Dehradun Nagar and near the state of Uttarakhand, India.
-
-As a result, 15 people died and 16 were missing. Also, 900 people have been trapped in various parts of the hill country.
-
-Due to heavy rains in the Karwal area, roads, bridges, hotels and shops have been widely damaged. Vehicle traffic has also been blocked in various districts.
-
-Suddenly a cloud of a popular tourist attraction near Dehradun. Thus, shops and hotels have been affected. Many people are trapped in the landslide in the villages of Carligat and Majjiyar.
-
-The tillage machine has been swept away in the floods in the Asan River. Five workers are killed in this. Eight workers are missing.
-
-The search for them is also underway. He dies after a motorcycle rolled on a young man. One in the landslide and three people were trapped in the Dance River.
-
-...
-
-[Data](articles/bc318fc7.json)
-
-[Extended Data](ext_articles/bc318fc7.ext.json)
-
----
-
-### Fatal road accidents who lost their lives for seven persons including a baby
-
-*2025-09-17 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214660) · `si`
-
-Seven persons, including a babies, killed in several parts of the island yesterday (16) were killed.
-
-The fatal accidents have been reported, Embilipitiya, Embilipitiya, Peliyagoda, Gandiyagama, Gandaragama and Pannala.
-
-The motorcycle, which was in Neelamadu bend on the Murunkan Silawathura road, had accidentally escaped the motorcyclist.
-
-The motorcyclist was seriously injured and died on admission to the Murunkan Hospital.
-
-The victim is a resident of Murunkan area for 33 years.
-
-The residents of the area had taken place in a three-wheeler and attempted to flee after a van near the Embilipitiya Moraketiya road near Embilipitiya Moraketiya road.
-
-The cyclist who had been injured in the first time was seriously injured and admitted to the Embilipitiya hospital.
-
-The deceased has been identified as 36 years, Liyanagama, a resident of Embilipitiya.
-
-Medical reports that the driver had been alcohol has been alcohol, while the driver has been alcohol.
-
-...
-
-[Data](articles/373fbd58.json)
-
-[Extended Data](ext_articles/373fbd58.ext.json)
-
----
-
-### This is how I live: Maithri
-
-*2025-09-17 08:24:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-உயிர்-வாழும்-வரை-இப்படித்தான்-இருப்பேன்-மைத்திரி/175-364734) · `ta`
-
-I am currently living with pension. Former President Maithripala Sirisena said I had no other income.
-
-I will be a member of the Independence Party until I live. I will no longer engage in activities in politics.
-
-The construction work of the house where I am going to go. After they are completed, I will soon hand this house to the government.
-
-I have no concern for going out of this house. Although the houses provided to many politicians, except the houses provided to the former presidents, have been repaired by this government, but they are abandoned without use.
-
-Former President Maithri pointed out that monkeys are currently living in them.
-
-I have not taken care of the government's data on the expenditure of former presidents. He expressed his concern that they were completely fake data and that they had even mentioned security costs.
-
-He also stressed that the government should see what kind of protection and prestige to the former presidents in the rest of the world. Remble
-
-◼️
-
-[Data](articles/eba08f96.json)
-
-[Extended Data](ext_articles/eba08f96.ext.json)
-
----
-
-### Heavy rain wreaks havoc in India’s Dehradun; 15 killed in the state, 16 missing
-
-*2025-09-17 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112593/heavy-rain-wreaks-havoc-in-indias-dehradun-15-killed-in-the-state-16-missing) · `en`
-
-Cloudbursts and heavy rains overnight left a trail of destruction in Uttarakhand’s capital Dehradun and several other parts of the state on Tuesday as swollen rivers washed away buildings, roads and bridges, leaving 15 people dead, 16 missing, and 900 stranded in different locations in the hill state.
-
-Of the total fatalities, Dehradun district alone reported 13 and Nainital and Pithoragarh districts one each. Sixteen people are reported missing in different parts of the state capital, the Uttarakhand Disaster Management Authority said.
-
-Three people were also injured in the incidents, it said, adding that they are under treatment.
-
-Search for the missing continued amid inclement weather while NDRF, SDRF and fire brigade personnel brought most of the stranded people to safety, the State Emergency Operation Centre (SEOC) here said.
-
-It said that 900 people stranded in different locations were rescued by the SDRF, NDRF and Fire Brigade personnel.
-
-...
-
-[Data](articles/605c69ab.json)
-
-[Extended Data](ext_articles/605c69ab.ext.json)
-
----
-
-### Digitalization, SME support & new insurance schemes highlighted in pre-budget talks with banking sector
-
-*2025-09-17 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112592/digitalization-sme-support-new-insurance-schemes-highlighted-in-pre-budget-talks-with-banking-sector) · `en`
-
-A pre-budget discussion on the Banking, Finance and Insurance Sector was held at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
-
-The discussions focused extensively on the support that the banking sector can provide to the government’s programme, led by the President, to achieve the country’s economic growth targets.
-
-Representatives also presented their views and proposals in this regard, according to the President’s Media Division (PMD).
-
-Special emphasis was placed on enhancing efficiency in the banking and financial sector through digitalization, expanding programmes targeting small and medium-sized enterprises and introducing new insurance schemes.
-
-Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando noted that these proposals will receive due consideration in the upcoming budget, the PMD said.
-
-...
-
-[Data](articles/6f01e5eb.json)
-
-[Extended Data](ext_articles/6f01e5eb.ext.json)
-
----
-
-### Electrical employees sick today
-
-*2025-09-17 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214659) · `si`
-
-The Ceylon Electricity Board employees have decided to engage in a citizenship by reporting sick leave today.
-
-The President of the University of Technical Officers Association said that this was taken as the second phase of the trade union action.
-
-◼️
-
-[Data](articles/82868217.json)
-
-[Extended Data](ext_articles/82868217.ext.json)
-
----
-
-### The resolution taken on the homes of former presidents
-
-*2025-09-17 08:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-இல்லங்கள்-குறித்து-எடுக்கப்பட்ட-தீர்மானம்/175-364733) · `ta`
-
-Cabinet Spokesperson Minister Nalinda Jayatissa said yesterday that the official homes of the former presidents will be used economically.
-
-They have lived in official homes for more than 30 years from the day he took office in 1994.
-
-But all of them have houses in Colombo. They are addicted to live in hereditary hereditary. People have given us a decree to change this political culture.
-
-Privacy for the present President has been removed under this public law passed by us. People understand this.
-
-Former President Chandrika Bandaranaike Kumaratunga has sought time to leave the house through a law firm. Some people did not hand over the goods even though they were out of the house.
-
-After they are completely out, they will be taken care of how to use the homes as a beneficial. They will be used to benefit economically, predicting their value and market value.
-
-...
-
-[Data](articles/a808cc30.json)
-
-[Extended Data](ext_articles/a808cc30.ext.json)
-
----
-
-### India - USA intense talk in Delhi
-
-*2025-09-17 07:57:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-அமெரிக்கா-டில்லியில்-தீவிர-பேச்சு/175-364732) · `ta`
-
-Bilateral trade contract talks between India and US resumed in Delhi yesterday.
-
-A team led by the Central Commerce Department held talks with a group led by US Trade Representative Brendon Lynch.
-
-The Ministry of Commerce said it was creative. The next round of negotiations will be held soon. (A)
-
-◼️
-
-[Data](articles/dd6209b2.json)
-
-[Extended Data](ext_articles/dd6209b2.ext.json)
-
----
-
-### 7 killed in seven year kills girl
-
-*2025-09-17 07:46:07* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරු-7කින්-අවුරුදු-3ක-කුඩා-දැරියක්-ඇතුළු-7ක්-මරුට/11-418546) · `si`
-
-Seven and 7 have died in a seventeen road accidents in various areas of the island yesterday.
-
-The victim was killed in a murder in a mix of 33 years in Navadu Ten to govern the motorcycle board in Nakukkan-Murukkan - Murukkan-Murukkan.
-
-The victim was killed in 36-year-old Liyanagama, 36 years of cyclist near Embilipitiya town near Embilipitiya town.. The driver of the van was once crashed into a three-wheeler and attempted to flee and handed over to the police.
-
-Nochchiyagama - Nochchiyawa Poultry on a lorry
-
-A resident of a 60 year old resident of the motorcycle was killed.
-
-Peliyagoda Rohana Viharaya in Peliyagoda-Colombo road sources to the pedestrian shift
-
-Patiyiya Junction, 3 days of collision with a motorcycle and car
-
-A small girl residing has died. Another child who was traveling on the three-wheeler, their mother, three-wheeler driver and three-wheeler driver and another.
-
-A 63-year-old resident of the three-wheeler resident of the Kandagamuwa Dickwella road in Matara.
-
-...
-
-[Data](articles/30caadbe.json)
-
-[Extended Data](ext_articles/30caadbe.ext.json)
-
----
-
-### Rain in some parts of the country
-
-*2025-09-17 07:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-மழை/175-364731) · `ta`
-
-The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa, Central, North Western and Galle and Matara districts.
-
-Rainfall or thunderstorms will occur in other areas after 1.00 pm.
-
-It has been reported that some parts of the country are likely to experience more than 50 millimeters. (A)
-
-◼️
-
-[Data](articles/153039d9.json)
-
-[Extended Data](ext_articles/153039d9.ext.json)
 
 ---

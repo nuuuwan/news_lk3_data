@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 02:53:38**
+As of **2025-09-18 04:05:59**
 
 ## Newspaper Stats
 
-*Scraped **76,599** Articles*
+*Scraped **76,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 775
 economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
-dailyftlk | 5,432
+dailyftlk | 5,442
 adalk | 7,444
 adaderanalk | 9,886
-tamilmirrorlk | 11,492
+tamilmirrorlk | 11,493
 virakesarilk | 12,464
 adaderanasinhalalk | 13,363
 
@@ -26,9 +26,215 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,919 (96.5%) of 76,599 articles have been extended.
+73,960 (96.5%) of 76,610 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-18 (Thursday)
+
+### Sri Lanka ratifies UN high seas biodiversity pact
+
+*2025-09-18 03:49:53* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-ratifies-UN-high-seas-biodiversity-pact/56-781846) · `en`
+
+Has opportunity to benefit from marine resources beyond national jurisdiction
+
+The Foreign Affairs Ministry said yesterday that Sri Lanka deposited its Instrument of Ratification for the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) with the United Nations on Tuesday formally becoming a State Party to the convention. The ratification of the BBNJ Agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry said.
+
+Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
+
+Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
+
+...
+
+[Data](articles/43f18131.json)
+
+---
+
+### Sri Lanka with EU and UNICEF launch model service for child victims of violence
+
+*2025-09-18 03:48:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-with-EU-and-UNICEF-launch-model-service-for-child-victims-of-violence/56-781845) · `en`
+
+Milestone initiative marks a turning point in protecting child victims who come in contact with the law and protection systems
+
+The Justice and National Integration Ministry and the Women and Child Affairs Ministry, with support from the EU through the United Nations Children's Fund (UNICEF), yesterday launched a groundbreaking initiative to support children who have experienced violence.
+
+The new model service will ensure fast, child-sensitive support to child victims of violence; from the point when the case is reported to police, helplines or others, until the child is linked with sustained care and protection mechanisms.
+
+...
+
+[Data](articles/45b61f7e.json)
+
+---
+
+### SL deepens trade ties in Sichuan
+
+*2025-09-18 03:47:26* · [`dailyftlk`](https://www.ft.lk/news/SL-deepens-trade-ties-in-Sichuan/56-781844) · `en`
+
+Deputy Minister’s visit opens new doors for trade and investment
+
+Sri Lanka is stepping up efforts to carve a stronger foothold in the Chinese market, with Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe completing a four-day official visit to Sichuan Province focused on boosting trade, investment, and forging foreign direct institutional partnerships.
+
+He was invited by the China Council for the Promotion of International Trade (CCPIT).
+
+During his visit, the Deputy Minister addressed the South Asia & Southeast Asia Business Development Cooperation Conference and delivered a keynote presentation at the Sri Lanka Economic and Trade Matchmaking Conference – a high-level State-business dialogue. His remarks highlighted Sri Lanka’s potential as an investment destination and emphasised opportunities for strengthening trade partnerships.
+
+...
+
+[Data](articles/c9325f54.json)
+
+---
+
+### Focus Brands’ Ray Evans joins Hela Apparel Holdings Board
+
+*2025-09-18 03:22:59* · [`dailyftlk`](https://www.ft.lk/news/Focus-Brands-Ray-Evans-joins-Hela-Apparel-Holdings-Board/56-781833) · `en`
+
+Hela Apparel Holdings PLC has appointed UK’s Focus Brands Ltd. CEO Ray Evans to its Board as Executive Director.
+
+The appointment was made on the resignation of Non-Executive Director Dr. Alastair James Alderton.
+
+The company said that Evans’ appointment was part of an initiative aimed at strengthening the integration between the Private Label Manufacturing Division (PLMD) and the Brand Licensing Division (BLD) of the group.
+
+Specialising in performance clothing and brand licensing, Evans has over 30 years’ experience in sourcing sports apparel and building brands to drive market growth and revenues.
+
+Leveraging his entrepreneurial capabilities, negotiation skills and ability to influence international stakeholders, he has built ventures that have enabled the successful licensing of sports and performance clothing brands to production locations worldwide.
+
+...
+
+[Data](articles/669d81b2.json)
+
+[Extended Data](ext_articles/669d81b2.ext.json)
+
+---
+
+### Phoenix products feature at Saudi INDEX Expo – 2025 in Riyadh
+
+*2025-09-18 03:20:15* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-products-feature-at-Saudi-INDEX-Expo-2025-in-Riyadh/34-781832) · `en`
+
+Sri Lanka’s reputed Phoenix company products were featured at the INDEX Saudi Arabia Expo 2025 held from 09 to 11 September 2025 at Front Exhibition and Conference Centre in Riyadh. Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad officially opened the Phoenix pavilion at the Expo. During the occasion, Ambassador pointed out that such international trade fairs provide valuable opportunities for Sri Lankan companies to showcase their export products at the global stage and encouraged Sri Lankan enterprises to actively leverage such platforms and build strong business partnerships.
+
+INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out trade event, bringing together global and regional brands to present the latest innovations and trends shaping Saudi Arabia’s thriving design sector. The exhibition serves as a gateway for connecting with thousands of active buyers and decision-makers.
+
+...
+
+[Data](articles/f79dd8f2.json)
+
+[Extended Data](ext_articles/f79dd8f2.ext.json)
+
+---
+
+### Trade Promoters announces partnership with Lovol in Sri Lanka
+
+*2025-09-18 03:18:43* · [`dailyftlk`](https://www.ft.lk/news/Trade-Promoters-announces-partnership-with-Lovol-in-Sri-Lanka/56-781831) · `en`
+
+TPL Joint Managing Director Ranil Fernando (left), with Lovol Heavy Industry Group South Asia Regional Manager Ali Xie
+
+Trade Promoters Ltd. (TPL) has announced its partnership with Lovol Heavy Industry Group Co., China, a global leader in the manufacture of construction equipment. Lovol is part of the Weichai group, a $ 30 billion Fortune 500 company.
+
+Lovol construction equipment including Wheel Loaders, Excavators (Crawler and Wheel), Backhoe Loaders, Skid Steer Loaders, Bulldozers, Forklifts, and Motor Graders will be made available to Sri Lankan consumers through this partnership. These world-class machines are engineered to meet the demands of the construction industry, be it residential, commercial or infrastructure development. Operating in more than 120 countries worldwide, Lovol is known for its durability, efficiency, and reliability.
+
+...
+
+[Data](articles/7320b746.json)
+
+[Extended Data](ext_articles/7320b746.ext.json)
+
+---
+
+### NTB WNPS lecture today to put spotlight on freshwater fishes
+
+*2025-09-18 03:13:25* · [`dailyftlk`](https://www.ft.lk/news/NTB-WNPS-lecture-today-to-put-spotlight-on-freshwater-fishes/56-781830) · `en`
+
+Experts Rohan Pethiyagoda and Hiranya Sudasinghe to share key insights
+
+The Nations Trust Bank-Wildlife and Nature Protection Society monthly lecture today will put spotlight on freshwater fishes with insights from Rohan Pethiyagoda and Hiranya Sudasinghe.
+
+The lecture which is open to the public will be at 6.00 p.m. at the Jasmine Hall, BMICH.
+
+...
+
+[Data](articles/46178b36.json)
+
+[Extended Data](ext_articles/46178b36.ext.json)
+
+---
+
+### Crafting legacy through collaboration and synergy
+
+*2025-09-18 03:05:20* · [`dailyftlk`](https://www.ft.lk/columns/Crafting-legacy-through-collaboration-and-synergy/4-781829) · `en`
+
+The traditional corporate mindset in Sri Lanka often equates success with control. But in an era where volatility is the only certainty, holding majority stakes does not guarantee sustainability.
+
+The recent decision by business magnate Dhammika Perera to acquire 50% of LAUGFS Holdings Ltd. (LHL) has taken the Sri Lankan corporate world by surprise. For decades, Perera has built his reputation on outright acquisitions and consolidating controlling stakes—an approach that has made him one of the most powerful figures in Sri Lankan business.
+
+This time, however, the story is different. Instead of claiming majority control, he entered into an unprecedented 50:50 partnership. The move sent ripples across boardrooms, with many calling me in disbelief, some expressing concern, and others cautiously optimistic. Many friends and peers advised me against agreeing to an equal partnership, warning me about the risks of sharing power with someone of Dhammika’s stature and history.
+
+...
+
+[Data](articles/e841060b.json)
+
+[Extended Data](ext_articles/e841060b.ext.json)
+
+---
+
+### A large amount of financial loss to the government
+
+*2025-09-18 02:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்திற்கு-பெருந்தொகையான-நிதி-இழப்பு/175-364811) · `ta`
+
+The COPE group revealed that the government had a huge amount of financial loss to the government as the Geological Survey and the Ministry Bureau did not properly accommodate the government.
+
+This was revealed during a committee of government responsibility efforts led by MP Nishantha Samaraweera.
+
+The private company has issued a permit for excavation work from December 2023 to September 2024 for sand mining at Mukkuttuwa estate owned by the Chilaw Plantation Company.
+
+Although the sand has been removed from 36,531 to 45,561 cube by the contractor, the Auditor General pointed out that only 1,564 cube sand has been paid state -of -the -art sand.
+
+According to the COPE team, it has been lost to over 12 million rupees. (A)
+
+◼️
+
+[Data](articles/98ec2d3b.json)
+
+[Extended Data](ext_articles/98ec2d3b.ext.json)
+
+---
+
+### There are humans in Gaza
+
+*2025-09-18 02:38:02* · [`dailyftlk`](https://www.ft.lk/columns/There-are-humans-in-Gaza/4-781824) · `en`
+
+Mushtaha Tower in Gaza City destroyed by Israeli fire on 5 September 2025 – Photo by Mahmoud Issa/Reuters
+
+The Mushtaha residential tower stands tall next to a sea of tents in the West of Gaza City. A guided bomb from an Israeli military jet hits its base, throwing debris, dust, and a cloud of ashen hell into the air. While the video captures the air barely clearing, and even as we get a glimpse of the building still managing to stand, a second bomb hits. The Mushtaha tower comes down on itself in an explosion that rattles the earth.
+
+There have been mice inside the tower, and insects. Cockroaches and their ilk. These insignificant creatures stand no chance as the world literally collapses around them. With no one to explain what is happening, no one around to evacuate them, the mice and the cockroaches die in their hundreds and thousands, and the former tower becomes their tomb.
+
+...
+
+[Data](articles/f216caf0.json)
+
+[Extended Data](ext_articles/f216caf0.ext.json)
+
+---
+
+### Geneva arena, Mahinda Rajapaksa returns to Ruhuna, Sri Lanka-Nepal outcomes
+
+*2025-09-18 02:25:02* · [`dailyftlk`](https://www.ft.lk/columns/Geneva-arena-Mahinda-Rajapaksa-returns-to-Ruhuna-Sri-Lanka-Nepal-outcomes/4-781822) · `en`
+
+Ambassador of China calls on MR before he leaves Colombo residence
+
+Bristling with misplaced arrogance as always, JVP theoretician and NPP Minister Bimal Rathnayake boasted in Parliament that 43 countries had spoken in favour of Sri Lanka after Foreign Minister Vijitha Herath’s address to the UNHRC in Geneva following UN Human Rights High Commissioner Volker Turk’s Report. Bimal seems unaware that 43 is not the most relevant figure. While all 193 UN member states are present in Geneva and have the right to speak, only 47 of the 193 have been elected members of the UNHRC with full voting rights at any given time.
+
+Therefore, the relevant question is how many of the 43 countries that spoke in support of Vijitha Herath’s stand, currently enjoy UNHRC ‘member state’ status with voting rights? How many of the 43 can vote at this session?
+
+The answer is 14. That’s way less than half, and slightly under a third.
+
+...
+
+[Data](articles/db36a3ff.json)
+
+[Extended Data](ext_articles/db36a3ff.ext.json)
+
+---
 
 ### 2025-09-17 (Wednesday)
 
@@ -1843,213 +2049,5 @@ He further stated that he aims to end the economic crisis through the 2026 budge
 [Data](articles/a0484797.json)
 
 [Extended Data](ext_articles/a0484797.ext.json)
-
----
-
-### Cancel from debt unless hemp is cultivated
-
-*2025-09-17 13:38:17* · [`adalk`](https://www.ada.lk/breaking_news/කංසා-වගා-කළොත්-ණයෙන්-ගොඩ-යන්න-පුළුවන්/11-418553) · `si`
-
-I believe that if you cultivate the flower cadres, such as heavily farming in Sri Lanka and farming cabbage is farming, and that if the flower permission can build an economically overloading.. Someone who likes someone uses these. It is currently using cigarettes now, now, we can't stop it.
-
-He was speaking at a media briefing at the National Namal Uyana premises.
-
-"In fact, cannabis in this country and marketing the country's country and get a large amount of money and get a large amount of money. I called about this about this too. That is the main Minister of Deputy Minister of Diyan Gamage mainly and made various things in parliament and in Parliament.
-
-I also spoke at the time. This cannabis is an economic generation to this country and a plant in the well-soap. The land of our country is good. Suddha is banking from this country, don't let the country banned this as an illegal act. Suddh knew that the marijuana was the best, powerful medicine in the world.
-
-...
-
-[Data](articles/39d6703e.json)
-
-[Extended Data](ext_articles/39d6703e.ext.json)
-
----
-
-### Sri Lanka becomes a state partner in Ocean Law
-
-*2025-09-17 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214671) · `si`
-
-The Ministry of External Affairs and the United Nations informed the United Nations yesterday (16), the United Nations Forecasting of the United Nations Forecasting of the United Nations Conference on Marine Law on the United Nations Convention on Surgery Law on the United Nations Party on Sustainable Liability.
-
-The Ministry has informed the Ministry of Reconciliation and sustainability of marine biodiversity arrangements on the area.
-
-It also said that Sri Lanka played an important role in international control, including the leadership given to the United Nations Convention (Unclos) in 1982.
-
-Sri Lanka is actively active in agreement agreements on areas of co-ordinating and sustainable use in areas from the beginning.
-
-As a developing country, Sri Lanka is proud to be a partner in this historic passage of the internationally identifying maritime resources for the benefit of mitigation for the benefit of humanity.
-
-...
-
-[Data](articles/8cd16fd4.json)
-
-[Extended Data](ext_articles/8cd16fd4.ext.json)
-
----
-
-### සම්පත් මනම්පේරි අධිකර‍ණයට භාර වෙයි
-
-*2025-09-17 13:28:39* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකර‍ණයට-භාර-වෙයි/11-418552) · `si`
-
-Sampath Manamperi has surrendered to the court to be arrested in connection with the discovery of ice shelter. He was surrendered to the Walasmulla Magistrate's Court.
-
-◼️
-
-[Data](articles/b4b95824.json)
-
-[Extended Data](ext_articles/b4b95824.ext.json)
-
----
-
-### Sampath Manamperi surrenders to court
-
-*2025-09-17 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112602/sampath-manamperi-surrenders-to-court) · `en`
-
-Sampath Manamperi, accused of concealing two containers of raw materials allegedly used in the production of the drug “Ice” and reportedly belonging to underworld figure Kehelbaddara Padme, surrendered to the Walasmulla Magistrate’s Court today.
-
-An attorney representing Manamperi had informed the Court of Appeal on September 15 that his client was prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of the two containers in Middeniya, which were suspected to contain chemical substances used in the manufacture of crystal methamphetamine (Ice).
-
-Following this, the Court of Appeal directed the Inspector General of Police (IGP) to take necessary measures to ensure Manamperi’s safety after his surrender. Investigating officers were also instructed to comply with this directive.
-
-The Court’s order was issued after considering a writ petition filed by Manamperi’s legal team, which highlighted that he is wanted for arrest in connection with the incident.
-
-◼️
-
-[Data](articles/dee91170.json)
-
-[Extended Data](ext_articles/dee91170.ext.json)
-
----
-
-### Sri Lanka deposits its ratified marine biodiversity pact in UN
-
-*2025-09-17 13:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-deposits-its-ratified-marine-biodiversity-pact-in-un-240909/) · `en`
-
-ECONOMYNEXT – Sri Lanka deposited its instrument of UN agreement on the Conservation and Sustainable use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ) with effect from this week, becoming state party to the convention and the move expected to give more access of marine resources to the island nation, the Foreign Ministry said.
-
-Sri Lanka ratified the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) in February this year.
-
-The move is also expected to enhance Sri Lanka’s potential to receive assistance for capacity-building projects, transfer of technology, and knowledge sharing in the country’s efforts in marine conservation.
-
-Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
-
-...
-
-[Data](articles/d6c41aff.json)
-
-[Extended Data](ext_articles/d6c41aff.ext.json)
-
----
-
-### Resources surrendered to Manampean Court
-
-*2025-09-17 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214670) · `si`
-
-It is reported that Sampath Manamperi has surrendered to the Walasmulla Magistrate's Court today (17).
-
-◼️
-
-[Data](articles/1641dece.json)
-
-[Extended Data](ext_articles/1641dece.ext.json)
-
----
-
-### US Ambassador met Foreign Minister
-
-*2025-09-17 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225301) · `ta`
-
-US Ambassador Julie Sung meets Foreign, Foreign Employment and Tourism Minister Vijitha Herath.
-
-We discussed the upgrading of fair, balanced trade and strengthening US -Sri Lankan security cooperation from ports to the general public.
-
-Indo -We are protecting security and open trade as Pacific partners. "We are protecting important sea paths for regional stability and prosperity."
-
-◼️
-
-[Data](articles/f6609eb2.json)
-
-[Extended Data](ext_articles/f6609eb2.ext.json)
-
----
-
-### Some MPs have visited criminals homes
-
-*2025-09-17 13:05:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-මන්ත්‍රීවරු-අපරාධකරුවන්ගේ-නිවෙස්වලට-ගොස්-මුදල්-ලබාගෙන-තිබෙනවා/11-418551) · `si`
-
-President Anura Kumara Dissanayake said that some MPs have taken money to organized criminals to their homes.
-
-However, he said the government was working to end the criminal state and the organized criminals have been arrested about 50 percent of the drug network.
-
-"After the economy collapsed, a decade has been declared. We can reduce this in a decade of decades. We book the money from the next budget. We will now build the country like no crisis in Sri Lanka. It is not enough to develop infrastructure. It's just one aspect.
-
-We must confirm the rule of law. The Harriers of the Shark survived had a centered law.
-
-Law is near to places where no one is not approaching the law. For what force
-
-Can't turn it back. We all need to subdue the law to create a steady state.
-
-A black state has been created as a state of organized criminal criminal.
-
-This underlying state we will be concluded. The people who are currently arrested are drugs in our country
-
-...
-
-[Data](articles/822adc58.json)
-
-[Extended Data](ext_articles/822adc58.ext.json)
-
----
-
-### ‘Backhoe Saman’ and ‘Thembili Lahiru’ produced before court
-
-*2025-09-17 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112601/backhoe-saman-and-thembili-lahiru-produced-before-court) · `en`
-
-Underworld figures known as ‘Backhoe Saman’ and ‘Thembili Lahiru’, who were recently brought back to Sri Lanka from Indonesia, have been produced before the Walasmulla Magistrate’s Court today (17).
-
-The Western Province North Crimes Division had earlier informed the Colombo Magistrate’s Court that the individuals would be detained and questioned under the Prevention of Terrorism Act (PTA).
-
-Authorities confirmed that five individuals, including ‘Kehelbaddara Padme’, who are leaders of organized crime gangs involved in multiple murders—including the killing of ‘Ganemulla Sanjeewa’—and drug trafficking, were arrested in Indonesia.
-
-The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
-
-◼️
-
-[Data](articles/4e59ae6d.json)
-
-[Extended Data](ext_articles/4e59ae6d.ext.json)
-
----
-
-### Baco Saman and Orange lead to Lahiru court
-
-*2025-09-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214669) · `si`
-
-Two major underworld gangs, who was arrested in Indonesia, was produced before the Walasmulla Magistrate's Court.
-
-◼️
-
-[Data](articles/044d2be5.json)
-
-[Extended Data](ext_articles/044d2be5.ext.json)
-
----
-
-### Criminal Center against Keheliya came in the lorry
-
-*2025-09-17 12:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெலியவுக்கு-எதிரான-குற்றப்பத்திரிக்கை-லொறியில்-வந்தது/175-364762) · `ta`
-
-The Colombo High Court on Tuesday (16) ordered the release of defendants, including former minister Keheliya Rambukwella, who was accused of substandard drug case, on Tuesday.
-
-ஒவ்வொரு பிரதிவாதியும் ரூ. 500,000 cash bail. He was ordered to be released in two bonds worth Rs 5 million.
-
-The court banned the defendants from going abroad and ordered them to hand over their passports to the court.
-
-◼️
-
-[Data](articles/027fb54f.json)
-
-[Extended Data](ext_articles/027fb54f.ext.json)
 
 ---

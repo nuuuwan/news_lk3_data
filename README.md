@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 19:00:21**
+As of **2025-09-17 19:12:01**
 
 ## Newspaper Stats
 
-*Scraped **76,566** Articles*
+*Scraped **76,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,439
 adaderanalk | 9,876
-tamilmirrorlk | 11,485
+tamilmirrorlk | 11,486
 virakesarilk | 12,460
-adaderanasinhalalk | 13,356
+adaderanasinhalalk | 13,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,790 (96.4%) of 76,566 articles have been extended.
+73,792 (96.4%) of 76,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### பூமியை விட்டு விலகிச் செல்லும் சந்திரன்
+
+*2025-09-17 18:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூமியை-விட்டு-விலகிச்-செல்லும்-சந்திரன்/175-364793) · `ta`
+
+சந்திரன் ஆண்டுக்கு 1.5 அங்குலம் வீதம் பூமியிலிருந்து விலகிச் செல்கிறது. இதனால் நாட்கள் 25 மணிநேரம் நீடிக்கக்கூடும் என்று விஞ்ஞானிகள் எச்சரிக்கின்றனர்.
+
+மிச்சிகன் மாநில பல்கலைக்கழகத்தின் இயற்பியல் மற்றும் வானியல் ஆராய்ச்சியாளரான டாக்டர் ஸ்டீபன் டைகெர்பி, சந்திரன் ஒவ்வொரு ஆண்டும் நமது கிரகத்திலிருந்து 1.5 அங்குலம் (3.8 செ.மீ) மேலும் விலகிச் செல்கிறது எனக் கூறியுள்ளார்.
+
+இதன் விளைவாக, பூமியின் சுழற்சியும் குறைந்து வருவதாக அவர் வெளிப்படுத்தினார். இந்நிகழ்வு தொடரும்போது நாட்கள் நீளமாகும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+சந்திரன் தொடர்ந்து விலகிச் செல்லும்போது, ​​ஒரு நாளில் வினாடிகள், நிமிடங்கள் மற்றும் இறுதியில் மணிநேரங்களின் எண்ணிக்கையும் படிப்படியாக அதிகரிக்கும் – ஆனால் இன்று உயிருடன் இருக்கும் நம்மில் யாரும் அதைக் கவனிக்க வாய்ப்பில்லை என அவர் கூறுகிறார். R
+
+◼️
+
+[Data](articles/b12b41f9.json)
+
+---
+
+### පෝලිම්වල මියයාමට සිදු වූවා වැනි අර්බුදයක් නැවත ඇතිවීමට ඉඩක් නෑ - ජනපති
+
+*2025-09-17 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214685) · `si`
+
+ඉන්ධන, ගෑස් නොමැතිව පෝලිම්වල ජනතාවට මියයාමට සිදු වූ ආකාරයේ අර්බුදයක් නැවත ශ්‍රී ලංකාව තුළ ඇති වීමට ඉඩ නොතබන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, කොළොන්නාව ඛනිජ තෙල් ගබඩා සංකීර්ණය තුළ තවත් ඛනිජ තෙල් ටැංකි හයක් ඉදිකිරීමේ කටයුතු  අද (17) ආරම්භ කරමිනි.
+
+කොළොන්නාව ඛනිජ තෙල් ගබඩා සංකීර්ණයේ ඝන මීටර 15,000ක ටැංකි 03ක්, ඝන මීටර 7000ක ටැංකි 02ක් සහ ඝන මීටර 5000ක ටැංකියක් ඇතුළු ගබඩා ටැංකි 06ක ඉදිකිරීමේ කටයුතු මෙසේ ආරම්භ කෙරිණි.
+
+බලශක්ති කේෂ්ත්‍රයේ ස්වාධිපත්‍යය ආරක්ෂා කරමින් ආර්ථික ස්වාධිපත්‍යයක් ළඟා කර ගැනීමට  වත්මන් රජය කටයුතු කරමින් සිටින බව ප්‍රකාශ කළ ජනාධිපතිවරයා එම ප්‍රගතිශිලී පරිවර්තනය වෙනුවෙන් සියලු ජනතා‍වගේ සහයෝගය ඉල්ලා සිටියේය.
+
+...
+
+[Data](articles/575e622a.json)
+
+---
 
 ### The wishes of T20 rating forward
 
@@ -2003,51 +2039,5 @@ Drivers from drivers of the traffic officers of the Hatton Police call on the fr
 [Data](articles/a3850ec5.json)
 
 [Extended Data](ext_articles/a3850ec5.ext.json)
-
----
-
-### Man arrested for fear of a firearm
-
-*2025-09-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214664) · `si`
-
-A person was arrested in Kirilagahawatte area in Kirilagahawatta area.
-
-A 49-year-old woman was injured and admitted to Kahathuduwa Watara.
-
-The suspect has also seized a hand grenade and a malage in the country.
-
-Further, the suspect behaved the threat to the arrest of the suspect and shooting the police.
-
-The extortion has been made to find money to drink the drug.
-
-The man had previously arrested four people to a sharp weapons and imprisoned as a punishment.
-
-The suspect, 32, is to be produced before the Kesbewa Magistrate's Court.
-
-◼️
-
-[Data](articles/077bdd23.json)
-
-[Extended Data](ext_articles/077bdd23.ext.json)
-
----
-
-### Incomplete judgment in Wakpu case: Muslim Lims dissatisfied
-
-*2025-09-17 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வக்பு-வழக்கில்-முழுமையற்ற-தீர்ப்பு-முஸ்-லிம்-கள்-அதிருப்தி/175-364742) · `ta`
-
-Wakpu Thiru Dutt Chat Dum, Cancel 2025 as a full ink.. The Supreme Court has stopped some of the rules of the Thiruttu Sutt Dutt, but the decision of the Muz Lims' Mukhti Muhammad (AIM) Law (AIM PLP) National Real Estate (AIM PLP)
-
-The Muslim community, the Muz Lim, the individual law and the rules of the kingdom of the state will be banned from all sections of the law.. Partial Relief is also satisfied with this verdict and the entire state of affairs.. The Muslim community is not in the process of a full -scale ban on all sections of the queen.
-
-Cancellation of Wakpu Ang Key. This is the straightforward ink of the Wakpu standing forest in the entirety of the. Therefore. He is the only ones who know.
-
-Meanwhile, the AIM PLP has said that the Wakpu Backup Problem will continue to be held from September 1. This includes the mark of the protests, the rally, the rally, the gallows and the rituals between the religious and the religions.
-
-◼️
-
-[Data](articles/d16796b6.json)
-
-[Extended Data](ext_articles/d16796b6.ext.json)
 
 ---

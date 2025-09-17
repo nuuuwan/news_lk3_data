@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 04:52:37**
+As of **2025-09-17 05:56:42**
 
 ## Newspaper Stats
 
-*Scraped **76,393** Articles*
+*Scraped **76,403** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 629
+dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 773
 economynextcom | 4,628
-islandlk | 4,694
+islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,409
 adalk | 7,421
@@ -26,95 +26,113 @@ adaderanasinhalalk | 13,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,548 (96.3%) of 76,393 articles have been extended.
+73,561 (96.3%) of 76,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய சீனாவுக்கு விஜயம்; பதில் பொலிஸ் மா அதிபராக லலித் பத்திநாயக்க நியமனம்
+### Visit to China, Inspector General of Police Lalith Patinayake appointed as the Inspector General of Police
 
 *2025-09-17 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225275) · `ta`
 
-சீனாவில் நடைபெறும் பொலிஸ் மாநாட்டில் கலந்துக் கொள்வதற்காக, பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய சீனாவிற்கு விஜயமொன்றை மேற்கொண்டுள்ளார்.
+Police Inspector Priyantha Weerasuriya has made a visit to China to attend the police conference in China.
 
-இந்நிலையில் பதில் பொலிஸ் மாஅதிபராக சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர் லலித் பத்திநாயக்க நியமிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் உதய குமார வுட்லர் தெரிவித்துள்ளார்.
+Police Media Spokesperson Udaya Kumara Woodler said that Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Inspector General of Police.
 
-பொலிஸ்மா அதிபர் பிரியந்த வீரசூரிய திங்கட்கிழமை (15) இரவு சீனாவிற்கு சிறப்பு விஜயம் ஒன்றை மேற்கொண்டுள்ளார்.  சீனாவில் இடம்பெறும் பொலிஸ் மாநாட்டில் கலந்துக் கொள்வதற்காக அவர் சீனாவுக்குச் சென்றுள்ளதுடன் , அம்மாநாட்டில் பொலிஸ்மா அதிபர்  பிரியந்த வீரசூரிய உரை ஒன்றை நிகழ்த்தவுள்ளதாகவும்  தெரியவந்துள்ளது.  அதற்கமைய மத்திய மாகாணம் மற்றும் பொலிஸ் நிர்வாகப் பிரிவுக்குப் பொறுப்பான சிரேஷ்ட பொலிஸ்மா அதிபர் லலித் பத்திநாயக்க, பதில் பொலிஸ்மா அதிபராக நியமிக்கப்பட்டுள்ளதாக உதவி பொலிஸ் அத்தியட்சகர் பொலிஸ் ஊடகப் பேச்சாளர் உதயகுமார வுட்லர் தெரிவித்துள்ளார்.
+Inspector General of Police Priyantha Weerasuriya made a special visit to China on Monday night (15).  He has visited China to attend the police conference in China and it is reported that the Inspector General of Police Priyantha Weerasuriya will deliver a speech at Amman.  Senior Inspector General of Police Lalith Patinayake, who is in charge of the Central Province and Police Management Division, has been appointed as the Inspector General of Police, Assistant Superintendent of Police, Udayakumara Woodler.
 
 ...
 
 [Data](articles/04ab177e.json)
 
+[Extended Data](ext_articles/04ab177e.ext.json)
+
 ---
 
-### கொரிய மொழி தேர்ச்சி பரீட்சைக்கான விண்ணப்ப படிவம் விநியோகம் நள்ளிரவுடன் நிறைவு
+### Application Form for Korean Language Examination
 
 *2025-09-17 04:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/225274) · `ta`
 
-தென் கொரியாவின் உற்பத்தி மற்றும் மீன்பிடி துறைகளில் வேலை வாய்ப்புகளுக்கான 2025 ஆம் ஆண்டில் நடத்தப்படவுள்ள கொரிய மொழி தேர்ச்சி பரீட்சைக்கான விண்ணப்ப படிவம் 2025.09.15 முதல் 2025.09.17 நள்ளிரவு வரை நிகழ்நிலை முறையில் வெளியிடப்பட உள்ளன.
+The application form for the Korean Language Examination, which will be held in 2025 of South Korea's manufacturing and fisheries sectors, will be released from 2025.09.15 to 2025.09.09.09.09.09.09.09.09.09.09.09.
 
-பரீட்சைக்குத் தேவையான விண்ணப்பங்களைப் பெறுவதற்கான பதிவை இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் அதிகாரப்பூர்வ வலைத்தளமான www.slbfe.lk மூலம் மேற்கொள்ளலாம்.
+The registration for obtaining applications for the exam can be made through the official website of the Sri Lanka Foreign Employment Bureau, www.slbfe.lk.
+
+Those between the ages of 18 to 39 (born from 1985.09.15 to 2007.09.14) can apply for this. Applicants must be with no color impairment. Also, not to be convicted in a court case, a penalty, imprisoned or criminalized in severe crimes. Similarly, only those who are not colorful, spinal cord disorders, fingers are less or less removed can apply. Those who have never had the history of South Korea have previously been deported and those who have not worked in South Korea for a total of 5 years, including the E-9 and the E-10 visa.
 
 ...
 
 [Data](articles/fad3cbc0.json)
 
+[Extended Data](ext_articles/fad3cbc0.ext.json)
+
 ---
 
-### எதிர்க்கட்சி உறுப்பினர்களை குற்றம்சாட்ட பொலிஸார் போதைப்பொருள் வைப்பதாக சாகர காரியவசம் குற்றச்சாட்டு
+### Sakara Kariyawasam alleges that police are making drugs to accuse opposition members
 
 *2025-09-17 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225273) · `ta`
 
-எதிர்க்கட்சிகளின் உறுப்பினர்களின் வீடுகளுக்கு அத்துமீறிய வகையில் நுழையும் பொலிஸார் அங்கு போதைப்பொருட்களை இரகசியமான முறையில் வைத்து விட்டு பின்னர் கைது செய்கிறார்கள். பொலிஸாரின் செயற்பாடுகள் முறையற்றது என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+Police enter the homes of the members of the opposition parties and then leave the drugs in a secret.. Sri Lanka PA, General Secretary Sakara Kariyawasam said that the activities of the police were improper.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் திங்கட்கிழமை (15) நடைபெற்ற தொகுதி அமைப்பாளர்களுடனான கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking to the media after a discussion with the constituency organizers held on Monday (15) at the Sri Lanka PA.
 
-எதிர்க்கட்சிகளின் உறுப்பினர்களின் வீடுகளுக்கு அத்துமீறிய வகையில் பொலிஸார் நுழைகிறார்கள். நீதிமன்றத்தின் உத்தரவு இல்லாமல் பொலிஸார் வீடுகளை பரிசோதிக்கிறார்கள்.
+Police enter the homes of opposition parties. Police are checking the houses without a court order.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் எல்பிட்டிய பிரதேச சபையின் முன்னாள் உறுப்பினர் ஒருவரின் வீடு கடந்த வாரம் பொலிஸாரால் அத்துமீறிய வகையில் பரிசோதிக்கப்பட்டுள்ளது.
+The house of a former member of the Elpitiya Pradeshiya Sabha of the Sri Lanka Peoples Alliance (PA) was searched by the police last week.
 
-எதிர்க்கட்சிகளின் உறுப்பினர்களின் வீடுகளுக்கு அத்துமீறிய வகையில் நுழையும் பொலிஸார் அங்கு போதைப்பொருட்களை இரகசியமான முறையில் வைத்து விட்டு பின்னர் கைது செய்கிறார்கள். பொலிஸாரின் செயற்பாடுகள் முறையற்றது.
+Police enter the homes of the members of the opposition parties and then leave the drugs in a secret.. The activities of the police are improper.
 
-...
+The Inspector General of Police should not allow such improper activities.
+
+◼️
 
 [Data](articles/8abe4e7a.json)
 
+[Extended Data](ext_articles/8abe4e7a.ext.json)
+
 ---
 
-### ஜெனிவாவில் மாபெரும் கவனயீர்ப்புப்பேரணி : இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்துமாறு வலியுறுத்தல்
+### Great Victim of Geneva
 
 *2025-09-17 04:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225272) · `ta`
 
-தமிழர்களுக்கு எதிராக நிகழ்த்தப்பட்ட இனவழிப்புடன் தொடர்புபட்டதாக இலங்கையை சர்வதேச குற்றவியல் நீதிமன்றத்தில் பாரப்படுத்தவேண்டும் எனக்கோரி புலம்பெயர் தமிழர்கள் ஒன்றிணைந்து திங்கட்கிழமை (15) ஜெனிவாவில் மாபெரும் கவனயீர்ப்புப்பேரணியொன்றை முன்னெடுத்துள்ளனர்.
+Diaspora Tamils ​​have joined a massive vigilante rally in Geneva on Monday (15) to demanding that Sri Lanka be appointed to the International Criminal Court to be involved in the ethnic cleansing against the Tamils.
 
-nஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஜெனிவாவில் ஆரம்பமானது. தொடக்கநாள் அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை குறித்த எழுத்துமூல அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அவ்வறிக்கை மீதான விவாதம் இடம்பெற்றது.
+n The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. At the inaugural session, a written report on Sri Lanka was submitted by High Commissioner Volcker Darek and subsequently debated on the report.
 
-அதேவேளை பிரிட்டன் தலைமையில் கனடா, மாலாவி, மொன்டெனீக்ரோ மற்றும் வட மெசிடோனியா உள்ளிட்ட இணையனுசரணை நாடுகளால் 'இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்தல்' எனும் தலைப்பில் தயாரிக்கப்பட்டு, வெளியிடப்பட்டுள்ள இலங்கை தொடர்பான புதிய பிரேரணையின் திருத்தங்கள் உள்வாங்கப்படாத 60ஃஎல்.1 எனும் முதல் வரைவு குறித்த கலந்துரையாடல்கள் முன்னெடுக்கப்பட்டுவருகின்றன.
+Meanwhile, the British -led internet, including Canada, Montenegro and North Mesitonia, have been prepared by the Internet countries, titled 'Reconciliation, Accountability and Human Rights Improvement in Sri Lanka', and the first draft of Sri Lanka's new proposal on Sri Lanka has been launched.
+
+It is in this context that a massive vigilante rally was held in Geneva, Switzerland, on Monday (15), emphasizing international accountability and justice regarding the Tamil massacre in Sri Lanka.
 
 ...
 
 [Data](articles/4bab9e2b.json)
 
+[Extended Data](ext_articles/4bab9e2b.ext.json)
+
 ---
 
-### நீதி, பொறுப்புக்கூறலை உறுதிப்படுத்துவதற்கு சுயாதீன விசாரணையைத் தொடர்ந்து வலியுறுத்தவேண்டும் - அமெரிக்க காங்கிரஸ் உறுப்பினர் சம்மர் லீ
+### Following an independent investigation to ensure justice and accountability - US Congress member Summer Lee
 
 *2025-09-17 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225271) · `ta`
 
-இலங்கையில் இடம்பெற்ற மீறல்கள் தொடர்பில் நீதி மற்றும் பொறுப்புக்கூறலை உறுதிசெய்வதற்கு நாம் சுயாதீன விசாரணையைத் தொடர்ந்து வலியுறுத்திக்கொண்டே இருக்கவேண்டும் என அமெரிக்க காங்கிரஸ் உறுப்பினர் சம்மர் லீ தெரிவித்துள்ளார்.
+US Congress Member Summer Lee said we should continue to insist on an independent investigation to ensure justice and accountability in Sri Lanka's violations.
 
-யாழ். செம்மணி மனிதப்புதைகுழி தொடர்பில் அமெரிக்க காங்கிரஸ் உறுப்பினர்களான ராஜா கிருஷ்ணமூர்த்தி மற்றும் டெபோரா ரோஸ் ஆகியோர் ஏற்கனவே தமது எக்ஸ் தளப்பக்கப் பதிவுகளின் ஊடாக தீவிர கரிசனையை வெளிப்படுத்தியிருந்தனர்.
+Yall. US Congress members Raja Krishnamurthy and Debora Rose have already expressed serious concern over their X -site posts regarding the Semmani Human Rights.
 
-குறிப்பாக பாதிக்கப்பட்ட தரப்பினரால் நீதி மற்றும் பொறுப்புக்கூறல் என்பன வலியுறுத்தப்படுவதை ஆதரிப்பதாகவும், அவை உறுதிப்படுத்தப்படவேண்டும் எனவும் அவர்கள் வலியுறுத்தியிருந்தனர்.
+They insisted on supporting justice and accountability, especially by the affected parties, and that they should be confirmed.
 
-இவ்வாறானதொரு பின்னணியில் செம்மணி மனிதப்புதைகுழி தொடர்பில் தனது உத்தியோகபூர்வ எக்ஸ் தளப்பக்கத்தில் பதிவொன்றைச் செய்திருக்கும் அமெரிக்க காங்கிரஸ் உறுப்பினர் சம்மர் லீ, அதில் பின்வருமாறு குறிப்பிட்டுள்ளார்.
+Against this backdrop, US Congressman Summer Lee, who has made a record on his official X site about the Semmani Human Rights Page, said the following.
 
-செம்மணியில் அடையாளங்காணப்பட்ட மனிதப்புதைகுழியில் 140 க்கும் மேற்பட்ட எலும்புக்கூடுகளுடன் குழந்தையின் பால்போத்தல், பாடசாலை புத்தகப்பை, சிறுவர்கள் விளையாடும் பொம்மை என்பன கண்டறியப்பட்டுள்ளன.
+In the human skeleton identified in the sheep, more than 140 skeletons have been found to be a child's milky, school book and a toy playing with boys.
 
-...
+He said that we must continue to insist on an independent investigation to move towards justice and accountability.
+
+◼️
 
 [Data](articles/baac775c.json)
+
+[Extended Data](ext_articles/baac775c.ext.json)
 
 ---
 
@@ -142,35 +160,43 @@ SUV and crossover registration grew to 3,808 units in August up from 3,299 in Ju
 
 ---
 
-### இலங்கை மீதான புதிய பிரேரணை: சீனா, பாகிஸ்தானின் கோரிக்கையை பிரிட்டன் நிராகரித்தது
+### New Motion on Sri Lanka: Britain rejected China and Pakistan's request
 
 *2025-09-17 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225270) · `ta`
 
-பிரிட்டன் தலைமையிலான தலைமையிலான இணையனுசரணை நாடுகளால் இலங்கை தொடர்பில் சமர்ப்பிக்கப்பட்டுள்ள புதிய பிரேரணை குறித்து நடைபெற்ற உத்தியோகப்பற்றற்ற கலந்துரையாடலின்போது இலங்கையில் இடம்பெற்ற மீறல்கள் தொடர்பான ஆதாரங்களைத் திரட்டும் செயற்திட்டத்தை இரண்டு வருடங்களுக்குப் பிற்போடுமாறு சீனா மற்றும் பாகிஸ்தான் ஆகிய நாடுகள் விடுத்த கோரிக்கையை பிரிட்டன் நிராகரித்துள்ளது.
+Britain has rejected the request of China and Pakistan to repeat the project to raise evidence on the violations of Sri Lanka during an unofficial discussion on Sri Lanka's new resolution on Sri Lanka by the British -led internet -led internet countries.
 
-அதுமாத்திரமன்றி அங்கு கருத்துரைத்த இலங்கை  பிரதிநிதி, நாட்டில் இனப்பிரச்சினை நடைபெறவில்லை எனவும், மாறாக பயங்கரவாத மோதலே நடைபெற்றது எனவும் தெரிவித்துள்ளதுடன் அதனைத் தீர்ப்பதற்கு சிறப்புப் பொறிமுறைகள் எவையும் தேவையில்லை எனக் குறிப்பிட்டுள்ளார்.
+The Sri Lankan representative commented that there was no ethnic problem in the country, but that there was a terrorist confrontation and that there was no need for special mechanisms to resolve it.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஜெனிவாவில் ஆரம்பமானது. தொடக்கநாள் அமர்வில் உயர்ஸ்தானிகர் வோல்கர் டேர்க்கினால் இலங்கை குறித்த எழுத்துமூல அறிக்கை சமர்ப்பிக்கப்பட்டதுடன் அதனைத்தொடர்ந்து அவ்வறிக்கை மீதான விவாதம் இடம்பெற்றது.
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. At the inaugural session, a written report on Sri Lanka was submitted by High Commissioner Volcker Darek and subsequently debated on the report.
+
+Meanwhile, as the 57 -F -1 resolution of the Sri Lankan council has already been completed, it has been announced that a new proposal will be submitted by the Internet countries in this session.
 
 ...
 
 [Data](articles/3db72529.json)
 
+[Extended Data](ext_articles/3db72529.ext.json)
+
 ---
 
-### நேபாளம், இந்தோனேசியா, பங்களாதேஷ், இலங்கை மக்கள் எழுச்சிகள் எச்சரிக்கைளேயாகும் - மனோகணேசன்
+### Nepal, Indonesia, Bangladesh, Sri Lankan people's uprisings are alert - Manohanesan
 
 *2025-09-17 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225269) · `ta`
 
-நேபாளம், இந்தோனேசியா, பங்களாதேஷ் மற்றும் இலங்கையில் உருவான மக்கள் எழுச்சிகள் வழக்கத்துக்கு மாறானவை அல்ல. மாறாக அவை சமத்துவமின்மை மேலோங்குகையில் ஏற்படக்கூடிய விளைவினைக் காண்பிக்கும் எச்சரிக்கைகள் ஆகும் என தமிழ் முற்போக்குக் கூட்டணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான மனோகணேசன் சுட்டிக்காட்டியுள்ளார்.
+People's uprisings in Nepal, Indonesia, Bangladesh and Sri Lanka are not unusual. On the contrary, Manohanesan, the leader of the Tamil Progressive Alliance and Member of Parliament, pointed out that they are a warnings to show the effect of inequality.
 
-இலங்கையில் இடம்பெற்ற 'அரகலய' மக்கள் எழுச்சியைத் தொடர்ந்து பின்னர் பங்களாதேஷ் மற்றும் இந்தோனேசியாவிலும், அண்மையில் நேபாளத்திலும் உருவான மக்கள் எழுச்சிப்போராட்டங்கள் தொடர்பில் இந்தியாவுக்கான இலங்கையின் முன்னாள் உயர்ஸ்தானிகர் மிலிந்த மொரகொட இந்திய ஊடகமொன்றுக்கு எழுதியிருக்கும் கட்டுரையை மேற்கோள்காட்டி தனது உத்தியோகபூர்வ எக்ஸ் தளப்பக்கத்தில் செய்திருக்கும் பதிவிலேயே மனோகணேசன் மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+Following the 'Arakalaya' people's uprising in Sri Lanka, Manohanesan, in his official X site, cited the article written to an Indian media in India, Milinda Moragoda, a former Sri Lankan high -ranking Indian media in Bangladesh and Indonesia and recently formed in Nepal.
 
-'நேபாளம், இந்தோனேசியா, பங்களாதேஷ் மற்றும் இலங்கையில் உருவான மக்கள் எழுச்சிகள் வழக்கத்துக்கு மாறானவை அல்ல. மாறாக அவை எச்சரிக்கைகளாகும்' என அப்பதிவில் மனோகணேசன் தெரிவித்துள்ளார்.
+“People's upheavals in Nepal, Indonesia, Bangladesh and Sri Lanka are not unusual. Instead, they are warnings, ”said Manohanesan.
 
-...
+He also mentioned that the upheavals show what would happen when the inequality prevails, the chances of being lost and the hope of losing their confidence, but also pointed out that they are the point of the solution.
+
+◼️
 
 [Data](articles/88eaa8eb.json)
+
+[Extended Data](ext_articles/88eaa8eb.ext.json)
 
 ---
 
@@ -225,6 +251,80 @@ After considering the request made by the Criminal Investigation Department. The
 [Data](articles/f16c22dd.json)
 
 [Extended Data](ext_articles/f16c22dd.ext.json)
+
+---
+
+### Sun Siyam Pasikudah’s New Chapter
+
+*2025-09-16 23:00:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudahs-new-chapter/) · `en`
+
+As with all Sun Siyam properties, Sun Siyam Care, the group’s sustainability arm, is deeply embedded in Pasikudah. Every booking supports marine conservation projects, with special attention here to the fragile bay ecosystem. Coral restoration efforts, beach clean-ups, and community education programs are part of the resort’s daily rhythm.
+
+The resort works closely with local farmers and fishermen, sourcing produce and seafood responsibly to minimize its footprint while strengthening livelihoods. Guests are invited to visit nearby communities, offering a more authentic perspective on Sri Lankan life beyond the resort walls. In a region still rebuilding from the scars of conflict and natural disasters, Pasikudah’s presence carries a promise: that tourism can be a force for good when guided by care.
+
+...
+
+[Data](articles/706b82cd.json)
+
+---
+
+### Second quarter growth predictions trigger bull-run in bourse
+
+*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/second-quarter-growth-predictions-trigger-bull-run-in-bourse/) · `en`
+
+CSE activities turned extremely bullish yesterday when the Finance Ministry reported that 2025 second quarter GDP growth potential was higher than expected.
+
+Initially it was reported that second quarter GDP for the year was 3.1 percent but latest reports note that it has moved up to 4.9 percent, thus enabling investor sentiment to improve significantly, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 263.98 points while S and P SL20 rose by 81.75 points. Turnover stood at Rs 6.22 billion with ten crossings.
+
+...
+
+[Data](articles/3b5f7855.json)
+
+---
+
+### Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
+
+*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-nce-forge-strategic-alliance-to-power-sri-lankas-export-growth/) · `en`
+
+Pan Asia Bank, one of Sri Lanka’s fastest-growing commercial banks, has entered into a strategic partnership with the National Chamber of Exporters of Sri Lanka (NCE) to empower and support the country’s export community.
+
+Exports remain a lifeline for Sri Lanka’s economy, generating vital foreign exchange, driving industrial innovation, and creating jobs across multiple sectors. In the current context of economic recovery, strengthening the export sector is critical for stabilizing the nation’s external balances and securing long-term sustainable growth. Recognizing this, Pan Asia Bank’s collaboration with NCE is designed to provide exporters with both the financial tools and strategic guidance needed to expand their global reach.
+
+...
+
+[Data](articles/b12cf49a.json)
+
+---
+
+### HNB Assurance hosts second consecutive International Partnership Awards in Malaysia
+
+*2025-09-16 22:57:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-second-consecutive-international-partnership-awards-in-malaysia/) · `en`
+
+HNB Assurance PLC once again marked a historic milestone by hosting its Partnership Awards 2025 on an international stage for the second consecutive year. Held at the prestigious Royal Signature Hotel, Kuala Lumpur, the gala event welcomed guests from HNB, HNB Assurance staff, Bancassurance Officers and their families, to celebrate the remarkable achievements of the company’s partnership channel.
+
+The Partnership Awards, a flagship annual event for HNB Assurance, serves as a platform to honor and recognize the exceptional contributions of its partnership channel, which continues to play a pivotal role in driving the company’s growth. Following the success of last year’s international debut in Thailand, this year’s event in Malaysia further signifies the company’s expanding vision and growth momentum.
+
+Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
+
+...
+
+[Data](articles/43eabc85.json)
+
+---
+
+### Seylan Bank partners with the National Industry Expo 2025
+
+*2025-09-16 22:56:00* · [`islandlk`](http://island.lk/seylan-bank-partners-with-the-national-industry-expo-2025/) · `en`
+
+Seylan Bank stands to support the 3rd consecutive National Industry Expo 2025. Organized by the Ministry of Industry and Entrepreneurship Development and Industrial Development Board, the event is scheduled to take place from the 18th to the 21st of September at the Bandaranaike Memorial International Conference Hall (BMICH).
+
+Aimed at highlighting and strengthening the position of Sri Lanka’s industrial sector, the event will also foster market integration, technological advancement, and collaboration, demonstrating the Bank with a Heart’s ability and role as a catalyst for the growth.
+
+...
+
+[Data](articles/28903f94.json)
 
 ---
 
@@ -610,6 +710,24 @@ The Deputy Minister also stated that the fishing harbor in the Valaichenai area 
 
 ---
 
+### 
+
+*2025-09-16 19:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86423) · `en`
+
+Legendary  Muslim Congress Leader MHM Ashraff and the Course of Muslim Politics.
+
+Mohammad Hussein Muhammad Ashraff, known to all MHM Ashraff was one of the brightest  stars to shine in the Sri Lankan political firmament. Ashraff’s  charisma, political acumen, dedication and sterling qualities of leadership enabled the  Eastern province lawyer to be  the legendary leader of the Sri Lanka Muslim Congress(SLMC).
+
+Sadly Ashraff’s life ended tragically  when he along with 14 others, was killed in an air crash on 16 September 2000. He was the Cabinet Minister in charge of Shipping, Ports, Reconstruction and Rehabilitation in the Government of President Chandrika Bandaranaike Kumaratunga at the time of his death. This week’s  column  with the aid of earlier writings  focuses on MHM Ashraff  in commemoration of his 25th death anniversary.
+
+...
+
+[Data](articles/757bec38.json)
+
+[Extended Data](ext_articles/757bec38.ext.json)
+
+---
+
 ### Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion
 
 *2025-09-16 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112582/sri-lanka-sees-sinopec-starting-work-on-37-billion-refinery-soon-bidding-for-another-refinery-expansion) · `en`
@@ -707,6 +825,22 @@ It is noteworthy that the court today granted bail as various allegations were f
 [Data](articles/7287ed1a.json)
 
 [Extended Data](ext_articles/7287ed1a.ext.json)
+
+---
+
+### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
+
+*2025-09-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
+
+Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
+
+Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
+
+...
+
+[Data](articles/39f24b3f.json)
+
+[Extended Data](ext_articles/39f24b3f.ext.json)
 
 ---
 
@@ -983,6 +1117,26 @@ Kalutara North Police are conducting further investigations into the incident.
 [Data](articles/b1f4406a.json)
 
 [Extended Data](ext_articles/b1f4406a.ext.json)
+
+---
+
+### Expressions of interest called to add value to manufacturing process at Kahatagahahena graphite mine
+
+*2025-09-16 16:53:00* · [`islandlk`](http://island.lk/expressions-of-interest-called-to-add-value-to-manufacturing-process-at-kahatagahahena-graphite-mine/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the Minister of Industries and Entrepreneurship Development to repeal the cabinet decision taken on 11-12-2023 regarding the restructuring of Kahatagaha Graphite Lanka Limited and to call for proposals for expressions of interest
+
+following the approved procurement procedure to implement the entire procedure of exploring the graphite reserve of the Kahatagaha mine, mining, processing, and adding value to the graphite in the aforementioned mine under the Public-Private Partnership, while keeping the ownership of the graphite of the Kahatagaha mine with the company itself and securing the jobs of the employees currently working in the
+
+Cabinet approves additional provision to purchase Paddy in 2025 Yala season
+
+20,000 youths from Samurdhi beneficiary families to be trained for hospitality industry
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/6092ff15.json)
 
 ---
 
@@ -1865,163 +2019,5 @@ However, the Anaamaduwa Assistant Superintendent of Anamaduwa was working to com
 [Data](articles/3ca6819b.json)
 
 [Extended Data](ext_articles/3ca6819b.ext.json)
-
----
-
-### Meeting between Namal Rajapaksa and Sanar
-
-*2025-09-16 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214636) · `si`
-
-Indian High Commissioner Sanalhaya and the Communicate MP Namal Rajapaksa had taken place.
-
-The two countries discussed the existing bilateral relations and developments and is expected to strengthen the partnerships between the two countries and will also be strengthened.
-
-◼️
-
-[Data](articles/59d3acc0.json)
-
-[Extended Data](ext_articles/59d3acc0.ext.json)
-
----
-
-### Nine-hour water cut in Colombo and suburbs on Thursday
-
-*2025-09-16 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112568/nine-hour-water-cut-in-colombo-and-suburbs-on-thursday) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour water cut from 10:00 a.m. to 7:00 p.m. on Thursday (18) for several areas in Colombo and suburbs.
-
-The water supply is being temporarily suspended to carry out essential maintenance work at the Ambatale Water Treatment Plant, the NWSDB said.
-
-In light of this, the NWSDB has urged the public to make prior arrangements and store an adequate supply of water to avoid inconvenience during the period of the suspension.
-
-◼️
-
-[Data](articles/afe3382c.json)
-
-[Extended Data](ext_articles/afe3382c.ext.json)
-
----
-
-### Water cut in Colombo
-
-*2025-09-16 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214635) · `si`
-
-The National Water Supply and Drainage Board (NPF) says that the water cut will be imposed for several areas in Colombo.
-
-The main body of power supply to the Ambatale Water Treatment Plant has to be suspended, the water supplied by the Ambatale Water Treatment Plant has to be suspended.
-
-The water cut will be imposed from 10.00 am to 07 am to 07 pm.
-
-Water cut will be suspended in areas from 1 to 15 of Colombo.
-
-The National Water Supply and Drainage Board stated that the water cut will be imposed in Battaramulla, Hokandara, Koswatta, Kotte, Kottagamuwa, Colombo, Dehiwala, Ratmalana, Dehiwala, Borakoda, Dehiwala, Boraiwatta, Maharagama, Dehiwala, Boraiwatta, Wattawatta, Dehiwala, Boraiwatta, Dehiwala, Boraiwatta.
-
-The National Water Supply and Drainage Board also requests that the board is expressing their problems on the inconvenience caused to water consumers due to the suspension of water supply.
-
-◼️
-
-[Data](articles/600e1200.json)
-
-[Extended Data](ext_articles/600e1200.ext.json)
-
----
-
-### IGP departs for China
-
-*2025-09-16 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112567/igp-departs-for-china) · `en`
-
-Inspector General of Police (IGP) Priyantha Weerasooriya has left the island to participate in a police conference being held in China.
-
-Accordingly, Senior Deputy Inspector General (SDIG) of Police Lalith Pathinayake, who is in charge of the Central Province and Police Administration Division, has been appointed to oversee the duties of the IGP during his absence.
-
-The Police Media Division said IGP Priyantha Weerasooriya is scheduled to deliver a speech at the conference in China.
-
-He is expected to return to the country on September 20 after concluding his visit.
-
-◼️
-
-[Data](articles/e62f7307.json)
-
-[Extended Data](ext_articles/e62f7307.ext.json)
-
----
-
-### IGP to visit Chinese
-
-*2025-09-16 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214634) · `si`
-
-IGP Priyantha Weerasuriya has left the island to attend a police conference in China.
-
-Senior DIG Lalith Pathinayake has been appointed to work in the IGP.
-
-The police spokesman said that Priyantha Weerasuriya is scheduled to hold a lecture at the China Conference.
-
-IGP Priyantha Weeraasturiya is due to return to the island on the 20th of completing the tourist.
-
-◼️
-
-[Data](articles/45d0902e.json)
-
-[Extended Data](ext_articles/45d0902e.ext.json)
-
----
-
-### Israel's genocide in Gaza: UN announcement
-
-*2025-09-16 13:23:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-இஸ்ரேல்-இனப்படுகொலை-செய்தது-உறுதி-ஐ-நா-அறிவிப்பு/50-364695) · `ta`
-
-The United Nations Investigation Commission has decided that Israel has been genocide against the Palestinians in Gaza.
-
-The Commission of Inquiry indicates that Israel has understood four genocide, such as massacre, severe harm, imposition of destructive living conditions and preventing births under international law.
-
-The Commission notes that the reports of Israeli leaders and military behavior show the purpose of genocide.
-
-The report also notes that at least 64,900 Palestinians have been killed since October 2023 and widespread migration, famine and major infrastructure destruction.
-
-The report also alleges that Israeli President Isaac Herzac, Prime Minister Benjamin Netanyahu and former Defense Minister Yo Galand have instigated the genocide.
-
-Meanwhile, the International Court of Justice is investigating the South Africa's case, which is said to be the Israeli genocide, and Israel also refers to it as "completely unfounded.". Remble
-
-◼️
-
-[Data](articles/e920a394.json)
-
-[Extended Data](ext_articles/e920a394.ext.json)
-
----
-
-### Intervene to take to the world: President
-
-*2025-09-16 13:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகிற்கு-எடுத்துச்-செல்ல-தலையிடுங்கள்-ஜனாதிபதி/175-364694) · `ta`
-
-President Anura Kumara Dissanayake told the World Bank representatives that steps would be taken to clarify the international community on the current plans of corrupt Sri Lanka and the opportunity to attract new investment in Sri Lanka.
-
-The World Bank representatives, including Johannes Zutt, who visited Sri Lanka, visited President Anura Kumara Dissanayake at the Presidential Secretariat on Monday afternoon.
-
-A detailed discussion was held on how the World Bank Group could support Sri Lanka's future development goals.
-
-The World Bank representatives, who congratulated Sri Lanka's current economic plan, suggested that more attention should be paid to the creation of economic growth and employment.. Special attention was paid to the development of the North and East, not only to identify the fields of short -term benefits, including digitalization, tourism, agriculture and infrastructure.
-
-...
-
-[Data](articles/db9281d2.json)
-
-[Extended Data](ext_articles/db9281d2.ext.json)
-
----
-
-### Another bus accident: 15 people injured
-
-*2025-09-16 13:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-பேருந்து-விபத்து-15-பேர்-படுகாயம்/175-364693) · `ta`
-
-At least 15 people were injured in a bus accident in Eppittawala area in Horana - Ratnapura road this morning.
-
-The accident occurred when a bus carrying employees of a private company collided with a lorry.
-
-◼️
-
-[Data](articles/534173e0.json)
-
-[Extended Data](ext_articles/534173e0.ext.json)
 
 ---

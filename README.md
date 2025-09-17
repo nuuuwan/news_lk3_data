@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 14:56:04**
+As of **2025-09-17 15:07:22**
 
 ## Newspaper Stats
 
-*Scraped **76,505** Articles*
+*Scraped **76,507** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
-colombotelegraphcom | 773
+colombotelegraphcom | 774
 economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,432
 adaderanalk | 9,862
-tamilmirrorlk | 11,465
+tamilmirrorlk | 11,466
 virakesarilk | 12,458
 adaderanasinhalalk | 13,347
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 13,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,712 (96.3%) of 76,505 articles have been extended.
+73,712 (96.3%) of 76,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### ”சில எம்.பிக்கள், குற்றவாளிகளின் வீடுகளுக்குச் சென்று பணம் பெற்றுள்ளனர்”
+
+*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
+
+சில பாராளுமன்ற உறுப்பினர்கள் ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளின் வீடுகளுக்குச் சென்று லஞ்சம் பெற்றுள்ளதாகவும், சில அமைச்சர்கள் ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளை தங்கள் வீடுகளுக்கு அழைத்துள்ளதாகவும் ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை-மிரிகம பிரிவின் கட்டுமானப் பணிகளை மீண்டும் தொடங்குவதற்கான தொடக்க விழாவில் பேசிய ஜனாதிபதி, சந்தேக நபர்கள் குழு மீதான விசாரணைகள் இலங்கையின் குற்றவியல் வலையமைப்பில் அவர்களுக்கு ஆழமான தொடர்பு இருப்பது தெரியவந்துள்ளதாகக் கூறினார்.
+
+எவ்வாறாயினும், இந்த குற்றவியல் அரசியலை முடிவுக்குக் கொண்டுவர அரசாங்கம் பாடுபட்டு வருவதாகவும், இதுவரை கைது செய்யப்பட்டுள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் போதைப்பொருள் வலையமைப்பில் சுமார் 50 சதவீதத்திற்கு பொறுப்பானவர்கள் என்றும் அவர் கூறினார்.
+
+...
+
+[Data](articles/51c45513.json)
+
+---
 
 ### Permission to hold back 'Back' and 'Orange Lahiru' about the killing of the Kibra
 
@@ -1120,6 +1136,16 @@ They pointed out that the government loses a large tax revenue and the consumers
 
 ---
 
+### Absurdity Of ‘The Flock Of Sheep’ Seeking Protection From The ‘Werewolf’
+
+*2025-09-17 09:21:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/absurdity-of-the-flock-of-sheep-seeking-protection-from-the-werewolf/) · `en`
+
+...
+
+[Data](articles/855513d5.json)
+
+---
+
 ### Heavy rains in the state of Uttarakhand, India; 15 people die
 
 *2025-09-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225278) · `ta`
@@ -1995,39 +2021,5 @@ The main feature of this event was the pledging of sponsorships by a token gestu
 [Data](articles/bc99388e.json)
 
 [Extended Data](ext_articles/bc99388e.ext.json)
-
----
-
-### Sri Lanka: Emerging as Asia’s  next startup and innovation hub
-
-*2025-09-17 05:35:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Emerging-as-Asia-s-next-startup-and-innovation-hub/34-781768) · `en`
-
-Sri Lanka’s rapidly growing startup ecosystem is drawing increasing regional and global attention, positioning the country as a rising innovation hub in Asia. With a strong ICT sector, high literacy rates, and a growing pool of skilled professionals, Sri Lanka is primed to become a hotbed for technology startups and product innovation.
-
-Key highlight this year is the arrival of over 35 global investors and speakers attending the Venture Engine Finale, alongside the Disrupt Asia conference, creating an unprecedented opportunity for Sri Lankan startups to connect with leading venture capitalists and industry experts from APAC, MENA, Europe, and the United States.
-
-...
-
-[Data](articles/907d4a50.json)
-
-[Extended Data](ext_articles/907d4a50.ext.json)
-
----
-
-### Visit to China, Inspector General of Police Lalith Patinayake appointed as the Inspector General of Police
-
-*2025-09-17 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225275) · `ta`
-
-Police Inspector Priyantha Weerasuriya has made a visit to China to attend the police conference in China.
-
-Police Media Spokesperson Udaya Kumara Woodler said that Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Inspector General of Police.
-
-Inspector General of Police Priyantha Weerasuriya made a special visit to China on Monday night (15).  He has visited China to attend the police conference in China and it is reported that the Inspector General of Police Priyantha Weerasuriya will deliver a speech at Amman.  Senior Inspector General of Police Lalith Patinayake, who is in charge of the Central Province and Police Management Division, has been appointed as the Inspector General of Police, Assistant Superintendent of Police, Udayakumara Woodler.
-
-...
-
-[Data](articles/04ab177e.json)
-
-[Extended Data](ext_articles/04ab177e.ext.json)
 
 ---

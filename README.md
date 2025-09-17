@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 20:56:01**
+As of **2025-09-17 21:07:20**
 
 ## Newspaper Stats
 
-*Scraped **76,580** Articles*
+*Scraped **76,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,442
 adaderanalk | 9,879
-tamilmirrorlk | 11,488
+tamilmirrorlk | 11,490
 virakesarilk | 12,462
 adaderanasinhalalk | 13,359
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 13,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,813 (96.4%) of 76,580 articles have been extended.
+73,813 (96.4%) of 76,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### ரணிலை சந்தித்த நாமல்
+
+*2025-09-17 20:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்த-நாமல்/175-364796) · `ta`
+
+கைது, சிறைவாசம், பிணை, என கடந்த சில நாட்களாக உடல்நிலை சரியில்லாமல் இருந்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று (17) முதன்முறையாக பொது நிகழ்வொன்றில் கலந்து கொண்டிருந்தாராம்.
+
+கொழும்பில் நடந்த ஒரு திருமண விழாவில் கலந்து கொண்ட அவரை, நாமல் சந்தித்துள்ளார்
+
+◼️
+
+[Data](articles/7c6f2e86.json)
+
+---
 
 ### “The government will start petroleum studies”
 
@@ -67,6 +81,22 @@ However, it is not yet known whether the Andy Bigroft will serve as a rival medi
 [Data](articles/106f7a73.json)
 
 [Extended Data](ext_articles/106f7a73.ext.json)
+
+---
+
+### தாமதித்த பின்னர் ஹோட்டலிலிருந்து புறப்பட்ட பாகிஸ்தான்
+
+*2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹோட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
+
+பாகிஸ்தான் கிரிக்கெட் சபையின் அறிவுறுத்தலின்படி ஹொட்டலிலேயே தங்கியிருந்த பாகிஸ்தான் அணி தற்போது ஐக்கிய அரபு அமீரகத்துக்கெதிரான ஆசியக் கிண்ணப் போட்டிக்காக ஹொட்டலிலிருந்து புறப்பட்டுள்ளது.
+
+தாமதித்த போட்டியின் நாணயச் சுழற்சியானது இலங்கை நேரப்படி 8.30 மணிக்கு நடைபெறவுள்ளதுடன், போட்டி 9 மணிக்கு ஆரம்பிக்கவுள்ளதுடன் 20 ஓவர்கள் கொண்ட போட்டியாகவே நடைபெறவுள்ளது.
+
+எவ்வாறாயினும் போட்டி மத்தியஸ்தராக அன்டி பைகுரொஃப்ட் கடமையாற்றுவாரா அல்லது இல்லையா என்பது இன்னும் தெரியவில்லை.
+
+◼️
+
+[Data](articles/7f583c30.json)
 
 ---
 
@@ -2019,43 +2049,5 @@ However, the Criminal Investigations Department recently informed the Court of A
 [Data](articles/5def03b2.json)
 
 [Extended Data](ext_articles/5def03b2.ext.json)
-
----
-
-### Mexico's President Claudia Shinepam made the history of being the first woman to head the Independence Day Celebration
-
-*2025-09-17 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225287) · `ta`
-
-President Claudia Shinebam has ended the practice of more than the centuries of the men's only men, inaugurating the Mexico Independence Day celebrations on Monday night.
-
-Before tens of thousands of people gathered in the main square of the Mexican capital, Shinbam addressed one of the balcony of the royal palace.
-
-"Live the dignity of the people of Mexican! Live Freedom! Live Equality! Live Democracy! Live Justice! As the president.
-
-After a while, Shenbam beat the bell of the Historical Palace to commemorate the 215th anniversary of Independence from Spain, followed by the bells of the capital of the capital.
-
-Every year, the 1810 priest recalls the armed call, known as the "Freedom Slogan" by Miguel Hidalko.. It begins the struggle that reached the peak in 1821. The traditional celebration has been maintained since the beginning of the 19th century, but until 1880, politicians introduced bells and cheers.
-
-◼️
-
-[Data](articles/bc3d68bc.json)
-
-[Extended Data](ext_articles/bc3d68bc.ext.json)
-
----
-
-### Construction work of the Kadawatha-Meerigama Highway Division
-
-*2025-09-17 11:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவத்தை-மீரிகம-நெடுஞ்சாலைப்-பிரிவின்-கட்டுமானப்-பணிகள்-ஆரம்பம்/175-364753) · `ta`
-
-The construction work of the Kadawatha-Mrigama Division of the Central Highway was officially launched on Wednesday (17) at 10:00 am under the leadership of President Anura Kumara Dissanayake.
-
-Launched under the theme "Renaissance Highway", the project indicates a significant step in expanding the Sri Lankan highway network, aimed at reducing traffic congestion and increasing the economic connection between major areas.
-
-◼️
-
-[Data](articles/dc616615.json)
-
-[Extended Data](ext_articles/dc616615.ext.json)
 
 ---

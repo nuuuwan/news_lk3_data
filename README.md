@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 22:54:44**
+As of **2025-09-17 21:56:45**
 
 ## Newspaper Stats
 
-*Scraped **76,595** Articles*
+*Scraped **76,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,131 +16,21 @@ economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,444
-adaderanalk | 9,883
+adalk | 7,443
+adaderanalk | 9,879
 tamilmirrorlk | 11,491
-virakesarilk | 12,464
-adaderanasinhalalk | 13,363
+virakesarilk | 12,462
+adaderanasinhalalk | 13,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,839 (96.4%) of 76,595 articles have been extended.
+73,827 (96.4%) of 76,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### MP Dilith Jayaweera joins religious rituals
-
-*2025-09-17 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214691) · `si`
-
-Naringoda Vijithasiri Thero states that the present and future is based on the country's contents of Buddhism.
-
-He was speaking at a maritime held in the ancient Rajamaha Viharaya in Gampaha today.
-
-The Buddhist cereal ceremony was held in Janasana Yamaha Viharaya, Gampaha, Gampaha today to mark the Norrobial Patrol Dilith Jayaweera.
-
-Anaxaker Dharmapala also recalled the 161th birthday of the birth.
-
-Catholic Religious Relics was held today at the Randella and Japala town of Japala.
-
-Mr. Dilith Jayaweera was also friendly speech with the people.
-
-◼️
-
-[Data](articles/f7dfc992.json)
-
-[Extended Data](ext_articles/f7dfc992.ext.json)
-
----
-
-### Monk arrested with heroin
-
-*2025-09-17 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214690) · `si`
-
-Three persons including a monk who had kept heroin have been arrested by the Matale Division Criminal Investigation Division last night (16).
-
-Accordingly, a 38-year-old monarchy of the Alawwa Police Division was a 38 year old.
-
-පොලීසිය විසින් එම චීවරධාරියා අත්අඩංගුවට ගන්න විට හෙරොයින් ග්‍රෑම් 10යි මිලිග්‍රැම් 300ක් සන්තකයේ තිබී ඇත.
-
-The other two suspects were aged between 29 and 31, and they had 17 grams of heroin.
-
-The three arrested was produced before the Polgahawela Courts today (17), and the police have been permitted to hold seven days and interrogation.
-
-It is reported that the suspects were involved in the drug trafficking of Navy Dinesh, Minuwangoda.
-
-◼️
-
-[Data](articles/6350b4e6.json)
-
-[Extended Data](ext_articles/6350b4e6.ext.json)
-
----
-
-### Conditions of mineral transportation changes at school days
-
-*2025-09-17 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214689) · `si`
-
-At the date of schools. 06.30 pm. 07.45 and. 11.30 pm. The new condition imposed on suspicion of mineral activities during the period was up to 02.30 has been amended.
-
-According to the influence of minerals in connection with the construction industry in an announcement, the construction industry has decided to consider the inconveniences of the construction industry, considering the inconveniences of the construction industry.
-
-Accordingly, mineral transports should be carried out with the severe supervision of the police with a confusion of the vehicles near the schools and roads.
-
-Therefore, in the days of schools today (17). 06.30 pm. 07.45 and. 11.30 pm. The transportation of minerals within the duration of Rs.
-
-Traffic driving in mineral transportation due to unrestrained vehicles in the transportation of vehicles. 06.30 pm. 07.45 and. 11.30 pm. The suspension of minerals had been suspended at the end of the 4th.
-
-◼️
-
-[Data](articles/8354d248.json)
-
-[Extended Data](ext_articles/8354d248.ext.json)
-
----
-
-### மந்திரிமனையை பாதுகாக்க 14 வருடங்களாக முயல்கின்றோம் ; தனிநபர் தடையாக உள்ளதாக தொல்லியல் திணைக்களம் தெரிவிப்பு
-
-*2025-09-17 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225365) · `ta`
-
-யாழ்ப்பாணம் இராசதானியை ஆண்ட சங்கிலிய மன்னனது மந்திரிமனையை கடந்த 14 வருடங்களுக்கு மேலாக பாதுகாக்க நடவடிக்கை எடுத்தும் பயனளிக்கவில்லை என தொல்லியல் திணைக்களம் கைவிரித்துள்ளது.
-
-யாழ்ப்பாணத்தில் 17ஆம் திகதி புதன்கிழமை பெய்த மழை காரணமாக தொல்பொருள் சின்னமான மந்திரி மனையின் ஒரு பக்கம் இடிந்து விழுந்துள்ளது.
-
-அது தொடர்பில் தொல்லியல் திணைக்களத்தின் யாழ்ப்பாண பிராந்திய உதவிப்பணிப்பாளர் U.A.பந்துல ஜீவ வை தொடர்பு கொண்டு கேட்ட போதே அவ்வாறு தெரிவித்தார்.
-
-யாழ்ப்பாண இராசதானி காலத்திற்குரியதாக கருதப்படும் மந்திரி மனை, பாதுகாக்கப்பட வேண்டிய தொல்பொருள் சின்னமாக 2011 ஆம் ஆண்டு வர்த்தமானியில் அறிவிக்கப்பட்டுள்ளது.
-
-அதனை தொடர்ந்து மந்திரி மனையை பாதுகாக்கவும் , அதனை புனரமைக்கவும் பல்வேறு முயற்சிகள் முன்னெடுக்கப்பட்டன. ஆனாலும் அவை எதனையும் செய்ய முடியவில்லை.
-
-மந்திரி மனை அமைந்துள்ள காணியானது தனிநபருக்கு உரியது. அவருக்கு சொந்தமாதாகவே மந்திரி மனை காணப்படுகிறது. அதனால் அவரின் அனுமதியின்றி தொல்லியல் திணைக்களத்தால் எவ்வித நடவடிக்கையும் எடுக்க முடியாது.
-
-...
-
-[Data](articles/bff057d7.json)
-
----
-
-### Restrictions imposed on mineral transportation during school hours amended
-
-*2025-09-17 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112624/restrictions-imposed-on-mineral-transportation-during-school-hours-amended) · `en`
-
-Restrictions imposed on the transport of minerals (sand etc) during school hours have been amended after considering requests made by those in the construction industry, the Geological Survey & Mines Bureau has stated.
-
-Accordingly, the previously imposed restrictions on mineral transport during school hours—from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 a.m. on school days—has been amended.
-
-According to an official announcement by the Geological Survey & Mines Bureau, the revision has been made in response to strong demands from the construction industry, which has been heavily impacted by the transport restrictions.
-
-Considering the difficulties faced by stakeholders in the construction sector, authorities have decided to relax the rule under specific conditions.
-
-...
-
-[Data](articles/91ddfd81.json)
-
----
 
 ### Pakistan Tournament Mediator
 
@@ -174,86 +64,6 @@ Namal met him at a wedding ceremony in Colombo
 
 ---
 
-### Second phase of ‘Clean Sri Lanka’ Urban Forest Project launched in Thotalaga
-
-*2025-09-17 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112622/second-phase-of-clean-sri-lanka-urban-forest-project-launched-in-thotalaga) · `en`
-
-The second phase of the Urban Forest Project under the ‘Clean Sri Lanka’ initiative, was launched today (17) Thotalaga.
-
-Accordingly, the land belonging to the Colombo Municipal Council in Thotalaga has been developed into a protected urban forest through the planting of trees, the President’s Media Division said.
-
-A special feature of this initiative is that students of Sri Sanghabodhi Maha Vidyalaya, Madampitiya have been entrusted with the responsibility of safeguarding and nurturing these ecologically valuable plants, the PMD noted.
-
-The project is being implemented with the participation of both the public and private sectors, including the Road Development Authority, the Urban Development Authority and the Colombo Municipal Council, under the guidance of the Presidential Secretariat.
-
-◼️
-
-[Data](articles/713c3917.json)
-
----
-
-### பண்ணை மீன் சந்தையில் பல்வேறு பிரச்சினைகள் உள்ளன - இளங்குமரன் எம்.பி சுட்டிக்காட்டு!
-
-*2025-09-17 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225364) · `ta`
-
-யாழ்ப்பாணம் - பண்ணை மீன் சந்தையில் பாரிய பிரச்சினைகள் இருக்கின்றன. எனவே மாநகர சபை முதல்வர் நேரில் வந்து பார்த்து அந்தப் பிரச்சினைகளை சீர் செய்யுமாறு நாடாளுமன்ற உறுப்பினர் கருணைநாதன் இளங்குமரன் தெரிவித்துள்ளார்.
-
-16ஆம் திகதி செவ்வாய்க்கிழமை குறித்த பகுதிக்கு களவிஜயம் செய்து பார்வையிட்ட பின்னர் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இதனை தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
-
-யாழ்ப்பாணம் மாநகர சபையினர் மின்சார கட்டணத்தை செலுத்தாததால் மின்சாரத் துண்டிப்பு இடம்பெற்றது. இதனால் வியாபாரிகள் தமது மீன்களை விற்பனை செய்ய முடியாது திரும்பிச் சென்றதை அவதானிக்க முடிந்தது. ஆனால் மின்சாரம் துண்டித்த நாளின் கட்டணம் மாநகரசபையால் மீன் வியாபாரிகளிடமிருந்து அறவிடப்பட்டது.
-
-மீன் சந்தையில் இருக்கின்ற மலசலகூடம் மிகவும் மோசமாக காணப்படுகிறது. மாநகர சபை முதல்வரிடம் நான் கேட்பது யாதெனில், நீங்கள் களவிஜயம் செய்து நேரில் வந்து பாருங்கள் இங்கே எவ்வாறான நிலை காணப்படுகிறது என்று.
-
-...
-
-[Data](articles/1ee6f52e.json)
-
----
-
-### Sri Lankans protest in Geneva agitations for LTTE supporters
-
-*2025-09-17 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214688) · `si`
-
-Arorists in Europe, the United Sri Lankans living in Europe today (Human Rights Commission in Switzerland) has taken steps to protest against the massive demonstration held in front of the UN Human Rights Commission in Switzerland.
-
-They have opposed the Meeting of the United Nations Secretary-General and a delegation.
-
-Chairman of the organization to appoint a United Nations Truth Resolution Commission to restore the Sehawela Ltd. in Sri Lanka. Ariyamaga Thero has requested.
-
-Accordingly, the Secretary of the United Nations General Secretary of the United Nations, the Secretary of the United Nations has informed the Human Rights Commission to carry out the necessary arrangements.
-
-And the k. Ariyamagas Thero is scheduled to address the United Nations Hummil Session on Friday 13, October 13.
-
-A large number of LTTE supporters were organized by a group of LTTE supporters, accusing of taking human rights violations during the past war.
-
-◼️
-
-[Data](articles/d605bb66.json)
-
-[Extended Data](ext_articles/d605bb66.ext.json)
-
----
-
-### Ex-President Ranil seen attending event for first time after released on bail
-
-*2025-09-17 20:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112621/ex-president-ranil-seen-attending-event-for-first-time-after-released-on-bail) · `en`
-
-Former President Ranil Wickremesinghe, who was released on bail recently following his arrest over the alleged misuse of public property, has been seen for the first time attending an event after he was discharged from hospital.
-
-Former President Wickremesinghe, attended an event held in Colombo, where he was seen having a cordial conversation with SLPP Member of Parliament Namal Rajapaksa.
-
-Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, was discharged from the hospital on August 29.
-
-The 76-year-old was rushed to the intensive care unit of the National Hospital in Colombo on August 23, just hours after being remanded in custody.
-
-Former President Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
-
-...
-
-[Data](articles/cd1a9d6e.json)
-
----
-
 ### “The government will start petroleum studies”
 
 *2025-09-17 19:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-ஆய்வுகளை-அரசாங்கம்-தொடங்கும்/175-364795) · `ta`
@@ -271,28 +81,6 @@ He said that in the petroleum study, scientists and experts have already volunte
 [Data](articles/68cef5b9.json)
 
 [Extended Data](ext_articles/68cef5b9.ext.json)
-
----
-
-### Timor-Leste scraps plan to buy MPs free cars after protests
-
-*2025-09-17 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112620/timor-leste-scraps-plan-to-buy-mps-free-cars-after-protests) · `en`
-
-Timor-Leste has scrapped a plan to give its lawmakers free cars after thousands of people took to the streets to protest against it.
-
-On Tuesday, demonstrators burned tyres and set a government vehicle alight, while police responded with tear gas - hours later, the government bowed to public pressure and dropped the plan.
-
-Despite this, many returned to the streets, with one protester telling the BBC that they estimated a turn out of around 2,000 demonstrators in the capital Dili on Wednesday.
-
-Though the protests were initially triggered by the cars, they have now expanded to cover calls to remove lifetime pensions for retired lawmakers.
-
-The unrest comes as governments across Asia, from Nepal to Indonesia, have been rocked by angry young protesters taking aim at the perceived excesses of lawmakers.
-
-One student who has chosen not to be identified told the BBC that she was hit by tear gas while she was in front of her university campus.
-
-...
-
-[Data](articles/ffc52c14.json)
 
 ---
 
@@ -671,26 +459,6 @@ The strike follows a similar walkout last week and is part of a wider campaign l
 [Data](articles/6f105a57.json)
 
 [Extended Data](ext_articles/6f105a57.ext.json)
-
----
-
-### 500 lakhs of repairs of 150 houses for Mahinda's repair
-
-*2025-09-17 16:58:32* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-ගේ-අලුත්වැඩියාවට-ලක්ෂ 5000යි--නිවාස-150ක්-අලුත්වැඩියාවට-ලක්ෂ-1400යි/11-418563) · `si`
-
-Former President Mahinda Rajapaksa has spent over Rs.
-
-He was speaking at the occasion of reconstruction of the Eppawala Galwadagama road in Anuradhapura District.. The road will be repaired by the Road Development Authority and will be renovated at a short term of 3.5 km, 3.5 midnight, 3.5 midnight.
-
-"Politicians could be other officials, another group wanted to say that elite. The law does not apply to that group, that guys need pleasures, so there is a VIP's impoverished speech. VIP groups want a palace, not home, and the group governments need 100 -150 and the dogs.
-
-They want to spend the government from the government, they think the guy is a government's property. People's money should be able to live in to protect them, that's the elite of those guys. It is worth 150 schools in the Anuradhapura district to keep the elite, the public to keep the elite, to spend on top of the public.
-
-...
-
-[Data](articles/c30fb585.json)
-
-[Extended Data](ext_articles/c30fb585.ext.json)
 
 ---
 
@@ -2037,5 +1805,251 @@ Accordingly, the Faculty of Health Sciences at the University of Jaffna has been
 [Data](articles/918ceb22.json)
 
 [Extended Data](ext_articles/918ceb22.ext.json)
+
+---
+
+### 1,600 people die of kidney disease annually
+
+*2025-09-17 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225298) · `ta`
+
+About 1,600 deaths annually due to kidney diseases in the country. Accordingly, the Health Development Bureau said that an average of five deaths per day.
+
+Chronic kidney disease (CKD) and chronic kidney failure can reduce urine discharge and lead to the inability to remove the body's excess fluid. Advisor Social Doctor Sinda Gunaratne said that this will cause many problems.
+
+Kidney disease also disrupts the production of redness. He added that vitamin D is reduced and interferes with blood pressure regulation.
+
+In this case, the World Health Organization (WHO) has warned of the global increase in kidney -related diseases. It is estimated that one of the 10 people may have chronic kidney disease in their lifetime.
+
+By 2050, the World Health Organization further predicts that kidney diseases may be the fifth major cause of death worldwide.
+
+◼️
+
+[Data](articles/926dc5e2.json)
+
+[Extended Data](ext_articles/926dc5e2.ext.json)
+
+---
+
+### Sri Lankan passport drops 6 spots in global rankings
+
+*2025-09-17 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112600/sri-lankan-passport-drops-6-spots-in-global-rankings) · `en`
+
+The Sri Lankan passport has dropped to 97th place in the latest Henley Passport Index 2025 Global Ranking, released on September 11, 2025.
+
+Earlier this year, Sri Lanka showed notable progress, climbing five spots from 96th to 91st place, marking an improvement from its 2024 ranking of 96th.
+
+However, in the latest update, the country has slipped to 97th—one place lower than its 2024 position—with a visa-free score of 41, compared to 42 destinations previously.
+
+Sri Lanka now shares the 97th position with Iran in the index, which features 105 rankings in total.
+
+The Henley Passport Index evaluates passports worldwide based on the number of destinations their holders can enter without a prior visa.
+
+In a global context, the U.S. passport has also fallen to 12th place, down two spots from its July ranking, marking its lowest position in the 20-year history of the index.
+
+...
+
+[Data](articles/ff41d2fa.json)
+
+[Extended Data](ext_articles/ff41d2fa.ext.json)
+
+---
+
+### Proclaiming controversy surrounding the Minister of Commerce
+
+*2025-09-17 12:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-அமைச்சரை-சூழும்-சொத்துப்-பிரகடன-சர்ச்சை/175-364760) · `ta`
+
+Vasantha Samarasinghe, Minister of Commerce, Commerce, Food Security and Co -operative Development, has been criticized on social media about his assets and responsibilities.
+
+Responding to records on social media that Samarasinghe has more than Rs.
+
+“I have some assets received from my family. I have been conducting educational classes since 1997, and after entering the university. 28 years ago, I started an educational institute in Tambuttegama and now I have built it as a three -storey building and rented it, ”he said.
+
+The Minister agreed that the gold, solar power systems and crypto coins stated on social media were also held.
+
+"My wife and I bought gold in 2006. Then a pound of gold. Was 6,000. My son, who was intelligent in the field of IT (Information Technology), opened a crypto account when we were at home during the time of Kovit, "he said.
+
+...
+
+[Data](articles/809f7f93.json)
+
+[Extended Data](ext_articles/809f7f93.ext.json)
+
+---
+
+### Seven people were killed in 7 accidents, including a 3 -year -old girl
+
+*2025-09-17 12:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-விபத்துகளில்-3-வயது-சிறுமி-உட்பட-ஏழு-பேர்-பலி/175-364759) · `ta`
+
+Seven people, including a 3 -year -old girl, died in seven road accidents on Tuesday (16) in different parts of the country.
+
+A 33 -year -old man from Murungan has died after a motorcycle driver lost control of his motorcycle and crashed into the road at the Nilamadu ramp on Murungan Chilawathurai road.
+
+A 36 -year -old man from Liyanagama has died when a van crashed into a bicycle near Embilipitiya city.. Van driver crashed into a three -wheeler again while fleeing with van. When they tried to escape the accident, the locals caught the suspect and handed it over to the police.
+
+A 60 -year -old man who was riding a motorcycle was killed when a lorry and motorcycle collided with a motorcycle on the Kukkulkattuwa road in Nochchiyagama.
+
+Peliyagoda-Colombo Kandy Dutch. In this, a 3 -year -old girl died in a three -wheeler. Another child, their mother, their three -wheeler driver and another man in the three -wheeler were injured in the accident.
+
+...
+
+[Data](articles/8a548e84.json)
+
+[Extended Data](ext_articles/8a548e84.ext.json)
+
+---
+
+### Sri Lanka’s First Capital to raise 3bn from debentures
+
+*2025-09-17 12:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-first-capital-to-raise-3bn-from-debentures-240889/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s First Capital Holdings’ proposed debenture sale to raise up to 3 billion rupees has received stock exchange approval, a market filing stated.
+
+10 million listed, rated, senior, unsecured, redeemable, 5-year debentures will be offered initially, at 100 rupees each.
+
+If this is oversubscribed, another 10 million debentures will be offered, and if that too is oversubscribed, a further 10 million debentures will be offered.
+
+◼️
+
+[Data](articles/381b2ab5.json)
+
+[Extended Data](ext_articles/381b2ab5.ext.json)
+
+---
+
+### 'No more developed nation,' a warning to state employees
+
+*2025-09-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214667) · `si`
+
+2022 - 2023 The economic crisis and the social tragedy generated by the people who generated it is not an act of anti-deportion.
+
+The Civil Expressway will be able to re-build the country that the country will be rebuilt in Sri Lanka.
+
+The President also further stated that the economic steadyness of the country is not created by a country and is confirmed by a number of areas.
+
+The President also further stated that the entire economy and life have been planned to end the economic crisis through the 2026 budget.
+
+"In particular, I urged the Chinese President especially on the visit to China.. The Chinese government agreed to start all those projects that have stopped focusing on special attention and to commence the necessary assistance. Thank you very thanks.
+
+...
+
+[Data](articles/a6696f10.json)
+
+[Extended Data](ext_articles/a6696f10.ext.json)
+
+---
+
+### Girl drivers soon on Sri Lankan buses
+
+*2025-09-17 11:49:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பேருந்துகளில்-விரைவில்-பெண்-ஓட்டுநர்கள்/175-364757) · `ta`
+
+Transport Minister Bimal Ratnayake said that female drivers and conductors will be included in the Public Transport Service of the Sri Lanka Transport Board (SLTB).
+
+He made the announcement on Tuesday (16) at a special event at the Colombo District Secretariat.
+
+Minister Ratnayake said that the Sri Lanka Transport Board had fallen deeply than Mariana trench and that politicians were responsible for its destruction.
+
+He added that the SLTB depots in Sri Lanka have become a hell on Earth, full of flaws.
+
+However, he said that steps have already been taken to modernize 25 buses.
+
+The Minister said that 750 new drivers and operators were hired to address the current shortage of the Sri Lanka Transport Board (SLTB) and confirmed that the Sri Lanka Transport Board would be rebuilt as a profitable company.
+
+◼️
+
+[Data](articles/e7c677ca.json)
+
+[Extended Data](ext_articles/e7c677ca.ext.json)
+
+---
+
+### "We will prepare the National Highway Plan";
+
+*2025-09-17 11:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-நெடுஞ்சாலை-திட்டத்தை-தயாரிப்போம்-பிமல்-விளக்கம்/175-364756) · `ta`
+
+Speaking at the inauguration of the first part of the Central Highway Project from Kadawatha to Meerigama, Ports, Highways and Aviation Minister Bimal Ratnayake said that the contractors would not face any issues under the current administration under the current government.
+
+“We will end this central highway in 2028 Sinhala-Tamil New Year. We are planning to launch construction work from Rambukkana to Galagade this year.
+
+98 percent of the work on the road used to the port has been completed. We hope we will complete this task within next year.
+
+The work of the Ruwanpura Highway has been halted and the construction work will be started very soon.
+
+Roads from Ingiriya to Ratnapura are being developed well. The Southern Expressway has not been renovated for about twelve years.
+
+Currently its rehabilitation work has been started. There is only one service center on the southern highway. We are going to open another small service center in the Udugawa area.
+
+...
+
+[Data](articles/51080904.json)
+
+[Extended Data](ext_articles/51080904.ext.json)
+
+---
+
+### The father of the neighbor of the boy arrested the boy
+
+*2025-09-17 11:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-வன்புணர்ந்த-பக்கத்து-வீட்டு-தந்தை-கைது/76-364755) · `ta`
+
+A foreign housekeeper has been arrested on Tuesday (16) for allegedly sexually abusing a 11 -year -old boy from Kitulkottai area of ​​the Moneragala and Tanamalwila police division.
+
+The boy has informed his teacher about the incident and the teacher has been informed by the police station.
+
+According to the police, the suspect has been sexually abused by the suspect on several occasions, keeping the boy's house and keeping the boy's house.
+
+Steps have been taken to produce the suspect in the Wellawaya Court and the victim has been admitted to the Thanamalwila Divisional Hospital for medical examination.
+
+◼️
+
+[Data](articles/e91f47f2.json)
+
+[Extended Data](ext_articles/e91f47f2.ext.json)
+
+---
+
+### US -Sri Lanka Partnership Starting English Language Laboratory for Navy
+
+*2025-09-17 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225291) · `ta`
+
+The US Embassy in Sri Lanka officially opened a sophisticated English language laboratory at the Navy and Maritime College in Trincomalee on Monday (September 15).
+
+Colonel Mathiv Hows, Senior Security Officer of the US Embassy in Sri Lanka, Director General of the Sri Lanka Navy, Rear Admiral Wijewardena, and Commanding Commander of the Sri Lanka Navy and Maritime College, Komador Dinesh Bandara inaugurated the building.
+
+The Language Laboratory, which includes high quality multi -ethnic technology and the recent training software of the US Security Language Institute, provides Sri Lankan naval authorities, the most common language used during the international naval activities and training, which is used in English.
+
+Speaking at a ceremony held in Trincomalee on Monday, Leftinan Colonel Methiv Hows commented on the beginning of the English Language Laboratory:
+
+...
+
+[Data](articles/04dcde8c.json)
+
+[Extended Data](ext_articles/04dcde8c.ext.json)
+
+---
+
+### Pakistani child star Umar Shah's death by a heart attack: Fans shocked
+
+*2025-09-17 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225292) · `ta`
+
+Pakistan's famous child star Umar Shah died of a heart attack at the age of 15. His sudden death has saddened fans and celebrities.
+
+Umar Shah, who has performed in several shows, including the famous 'Jeeto Pakistan' television series, died of a heart attack at his home.
+
+It is very rare to have a heart attack for young people under the age of 25. The death of Umar Shah at an early age has shocked fans in Pakistan.
+
+Ahmed Shah, brother of Umar Shah and famous Dictok star, posted this tragic news on his social website.
+
+After the news of Umar Shah's death, many celebrities express their condolences.
+
+Fahad Mustafa, host of 'Jeeto Pakistan', posted, "Umar is unlikely to believe that we have left us."
+
+Wasim Pathamee, anchor of the 'Shaun-e-Ramadan', has spoken to the doctors and that Umar Shah has died of a heart attack.
+
+Actor Adnan Siddique has expressed concern over his death by referring to Umar Shah as "the light of joy and innocence."
+
+...
+
+[Data](articles/814d33ff.json)
+
+[Extended Data](ext_articles/814d33ff.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 14:56:04**
+As of **2025-09-17 15:20:36**
 
 ## Newspaper Stats
 
-*Scraped **76,505** Articles*
+*Scraped **76,515** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
-colombotelegraphcom | 773
+colombotelegraphcom | 774
 economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,432
-adaderanalk | 9,862
-tamilmirrorlk | 11,465
+adalk | 7,433
+adaderanalk | 9,869
+tamilmirrorlk | 11,466
 virakesarilk | 12,458
 adaderanasinhalalk | 13,347
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 13,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,712 (96.3%) of 76,505 articles have been extended.
+73,716 (96.3%) of 76,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### “Some MPs have gone to the homes of the culprits and get the money”
+
+*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
+
+President Anura Kumara Dissanayake said that some MPs have been bribed to the houses of organized criminals and that some ministers have invited the organized criminals to their homes.
+
+Speaking at the inauguration to resume the construction of the Central Highway Kadawatha-Mrigama Division, the President said that the investigation into a group of suspects has revealed that they have a deep involvement in the Sri Lankan criminal network.
+
+However, the government is working to end this criminal politics and that the arranged culprits so far are about 50 percent responsible for the drug network.
+
+“After the economy has collapsed, there is a saying that a decade is lost. This can be reduced to less than a decade. We will allocate money from the budget for that. We will build the country so that Sri Lanka will never be a crisis again. Creating infrastructure is not just enough. That is only a feature.
+
+To ensure the rule of law. There was a law that caught fish and sharks.
+
+...
+
+[Data](articles/51c45513.json)
+
+[Extended Data](ext_articles/51c45513.ext.json)
+
+---
+
+### Central Expressway: Pothuhera to Rambukkana section completion date announced
+
+*2025-09-17 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112608/central-expressway-pothuhera-to-rambukkana-section-completion-date-announced) · `en`
+
+The construction work on the section of the Central Expressway from Pothuhera to Rambukkana will be completed before the section from Kadawatha to Mirigama is finalized by the year 2028, the Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake has stated.
+
+Speaking at the official ceremony to mark the recommencement of construction on the Kadawatha to Mirigama section of the Central Expressway, the Minister noted that the construction of this stretch is expected to be completed within 32 months, by the year 2028.
+
+Accordingly, the construction of the section from Pothuhera to Rambukkana is planned to be completed before the Sinhala and Tamil New Year in April 2028, and the connecting roads around Rambukkana will also be developed in line with that.
+
+...
+
+[Data](articles/875b59f9.json)
+
+---
 
 ### Permission to hold back 'Back' and 'Orange Lahiru' about the killing of the Kibra
 
@@ -78,6 +116,38 @@ The team, which came to court for trial, was not allowed to enter the court prem
 
 ---
 
+### ‘Backhoe Saman’ & ‘Thembili Lahiru’ to be detained till Dec. 2 for further questioning
+
+*2025-09-17 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112607/backhoe-saman-thembili-lahiru-to-be-detained-till-dec-2-for-further-questioning) · `en`
+
+The Walasmulla Magistrate’s Court today (17) granted permission to police to detain “Backhoe Saman” and “Thambili Lahiru” until December 2 in order to conduct further investigations related to the murder of ‘Anura Vidanagamage, also known as ‘Kajja’.
+
+The duo, identified as prominent underworld gang members, were recently arrested in Indonesia and brought back to Sri Lanka.
+
+◼️
+
+[Data](articles/0339b829.json)
+
+---
+
+### Sri Lanka becomes State Party to BBNJ Convention
+
+*2025-09-17 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112606/sri-lanka-becomes-state-party-to-bbnj-convention) · `en`
+
+The Ministry of Foreign Affairs, Foreign Employment and Tourism has announced that Sri Lanka’s Instrument of Ratification on the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) has been deposited with the United Nations, becoming a State Party to the Convention.
+
+The ratification of the BBNJ agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry of Foreign Affairs said.
+
+Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
+
+Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
+
+...
+
+[Data](articles/ed7b0d64.json)
+
+---
+
 ### Saran in Sampath Manamberi Court
 
 *2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
@@ -89,6 +159,24 @@ Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in
 [Data](articles/c9db1bce.json)
 
 [Extended Data](ext_articles/c9db1bce.ext.json)
+
+---
+
+### Adani-led Sri Lanka container terminal to double capacity ahead of deadline – report
+
+*2025-09-17 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112605/adani-led-sri-lanka-container-terminal-to-double-capacity-ahead-of-deadline-report) · `en`
+
+India’s Adani Group and its partners are set to double the capacity of a $840 million container terminal in Colombo months ahead of schedule, despite relinquishing $553 million in U.S. funding, an executive at partner firm John Keells Holdings told Reuters.
+
+The deepwater Colombo West International Terminal, located next to a facility run by China Merchants Port Holdings, underscores Sri Lanka’s geopolitical significance in the tug-of-war for Indian Ocean influence between New Delhi and Beijing.
+
+Adani opened the first phase of the fully automated terminal in April, making it operational. The second and final phase is underway and expected to be completed by late 2026, three to four months ahead of the February 2027 deadline, said Zafir Hashim, head of transportation at John Keells.
+
+The accelerated timeline, which has not been previously reported, was unexpected in the wake of Sri Lanka’s deep financial crisis that brought foreign investment in the country to a virtual standstill.
+
+...
+
+[Data](articles/0e379db8.json)
 
 ---
 
@@ -111,6 +199,40 @@ The port is the login way. It is also a matter of considerable problems. 98% is 
 [Data](articles/7e405803.json)
 
 [Extended Data](ext_articles/7e405803.ext.json)
+
+---
+
+### ‘We aim to end the economic crisis through 2026 Budget’ – President
+
+*2025-09-17 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112603/we-aim-to-end-the-economic-crisis-through-2026-budget-president) · `en`
+
+President Anura Kumara Dissanayake stated that the 2022–2023 economic crisis and the resulting social hardships were not random events, emphasizing that multiple major factors contributed to the situation.
+
+Speaking at the inauguration ceremony for the resumption of construction of the Kadawatha–Mirigama section of the Central Expressway Project today (17), the President assured the public that the country will be developed in a manner that prevents the recurrence of such a crisis in Sri Lanka.
+
+President Dissanayake emphasized that economic stability cannot be achieved through construction alone, and it is being pursued through multiple avenues.
+
+He further stated that he aims to end the economic crisis through the 2026 budget, despite the widespread collapse of the economy and hardships faced by the people.
+
+...
+
+[Data](articles/a0484797.json)
+
+---
+
+### කංසා වගා කළොත් ණයෙන් ගොඩ යන්න පුළුවන්
+
+*2025-09-17 13:38:17* · [`adalk`](https://www.ada.lk/breaking_news/කංසා-වගා-කළොත්-ණයෙන්-ගොඩ-යන්න-පුළුවන්/11-418553) · `si`
+
+"ලංකාවේ කංසා වගා කරලා අර ලූණූ ගොවිතැන් කරනවා වගේ, මල් ගෝවා ගොවිතැන් කරනවා වගේ විධිමත් බවක් ඇති කරලා, නීත්‍යාණූකූල අවසරයක් දුන්නොත් ණය ගොඩක හිර වෙලා ඉන්න රට ආර්ථික වශයෙන් අපිට ගොඩ ගන්න පුලුවන් කියන එක මා විශ්වාස කරනවා. කැමති කෙනෙක් මේවා පාවිච්චි කරයි. දැනටත් පාවිච්චි කරනවානේ, දැන් සිගරට් මේ රටේ අලෙවිකරනවානේ, අපිට ඒක නතර කරන්න බෑ .කැමති කෙනෙක් බොයි, අකමැති කෙනෙක් නිකං ඉඳියි.ඕක ප්‍රශ්නයක් නෑනේ" යැයි නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් පැවසූහ.
+
+ජාතික නාමල් උයන පරිශ්‍රෙය් කැඳවා තිබූ මාධ්‍ය හමුවකදී උන්වහන්සේ මේ බව කියා සිටියහ.
+
+"ඇත්තටම ගංජා මේ රටේ වවලා පිටරටට අලෙවි කිරීම, තුළින් විශාල මුදලක් ලබා ගෙන ආර්ථික වශයෙන් හයියක් ලබා ගන්න පුලුවන්. මම මේ ගැන එදත් කථා කලා. ඕකට ප්‍රධාන වශයෙන්ම ඩයනා ගමගේ හිටපු නියෝජ්‍ය අමාත්‍යයතුමිය තමයි හඩක් නැඟුවේ පාර්ලිමේන්තුවේ හා නමුත් එතුමියට විවිධ අවලාද විවිධ දේවල් කියන්න ගත්තා.
+
+...
+
+[Data](articles/39d6703e.json)
 
 ---
 
@@ -147,6 +269,24 @@ Sampath Manamperi has surrendered to the court to be arrested in connection with
 [Data](articles/b4b95824.json)
 
 [Extended Data](ext_articles/b4b95824.ext.json)
+
+---
+
+### Sampath Manamperi surrenders to court
+
+*2025-09-17 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112602/sampath-manamperi-surrenders-to-court) · `en`
+
+Sampath Manamperi, accused of concealing two containers of raw materials allegedly used in the production of the drug “Ice” and reportedly belonging to underworld figure Kehelbaddara Padme, surrendered to the Walasmulla Magistrate’s Court today.
+
+An attorney representing Manamperi had informed the Court of Appeal on September 15 that his client was prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of the two containers in Middeniya, which were suspected to contain chemical substances used in the manufacture of crystal methamphetamine (Ice).
+
+Following this, the Court of Appeal directed the Inspector General of Police (IGP) to take necessary measures to ensure Manamperi’s safety after his surrender. Investigating officers were also instructed to comply with this directive.
+
+The Court’s order was issued after considering a writ petition filed by Manamperi’s legal team, which highlighted that he is wanted for arrest in connection with the incident.
+
+◼️
+
+[Data](articles/dee91170.json)
 
 ---
 
@@ -189,6 +329,24 @@ This underlying state we will be concluded. The people who are currently arreste
 [Data](articles/822adc58.json)
 
 [Extended Data](ext_articles/822adc58.ext.json)
+
+---
+
+### ‘Backhoe Saman’ and ‘Thembili Lahiru’ produced before court
+
+*2025-09-17 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112601/backhoe-saman-and-thembili-lahiru-produced-before-court) · `en`
+
+Underworld figures known as ‘Backhoe Saman’ and ‘Thembili Lahiru’, who were recently brought back to Sri Lanka from Indonesia, have been produced before the Walasmulla Magistrate’s Court today (17).
+
+The Western Province North Crimes Division had earlier informed the Colombo Magistrate’s Court that the individuals would be detained and questioned under the Prevention of Terrorism Act (PTA).
+
+Authorities confirmed that five individuals, including ‘Kehelbaddara Padme’, who are leaders of organized crime gangs involved in multiple murders—including the killing of ‘Ganemulla Sanjeewa’—and drug trafficking, were arrested in Indonesia.
+
+The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
+
+◼️
+
+[Data](articles/4e59ae6d.json)
 
 ---
 
@@ -1120,6 +1278,18 @@ They pointed out that the government loses a large tax revenue and the consumers
 
 ---
 
+### Absurdity Of ‘The Flock Of Sheep’ Seeking Protection From The ‘Werewolf’
+
+*2025-09-17 09:21:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/absurdity-of-the-flock-of-sheep-seeking-protection-from-the-werewolf/) · `en`
+
+...
+
+[Data](articles/855513d5.json)
+
+[Extended Data](ext_articles/855513d5.ext.json)
+
+---
+
 ### Heavy rains in the state of Uttarakhand, India; 15 people die
 
 *2025-09-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225278) · `ta`
@@ -1841,193 +2011,5 @@ Scan your face using a Government-approved app or press your finger to a biometr
 [Data](articles/b848ce5e.json)
 
 [Extended Data](ext_articles/b848ce5e.ext.json)
-
----
-
-### Rewiring for growth: How Government and fintechs can power Sri Lanka’s digital revival
-
-*2025-09-17 05:53:28* · [`dailyftlk`](https://www.ft.lk/columns/Rewiring-for-growth-How-Government-and-fintechs-can-power-Sri-Lanka-s-digital-revival/4-781776) · `en`
-
-When banks, fintechs, and telecom networks interoperate, citizens can pay, save, borrow, and receive Government benefits and services on any compliant platform
-
-The world economy is entering a new phase, with growth and innovation increasingly driven by Asia’s rising economic powerhouses and by global waves of technological disruption. For Sri Lanka, a nation whose economy remains anchored in agriculture and whose export markets are still concentrated in Europe and America, this transition presents critical challenges but also unprecedented opportunities. To find our place in this changing order, we must embrace innovation as the pathway to resilience, competitiveness, and inclusion.
-
-...
-
-[Data](articles/e53cffdd.json)
-
-[Extended Data](ext_articles/e53cffdd.ext.json)
-
----
-
-### Govt. launches digital signatures for public officials
-
-*2025-09-17 05:48:17* · [`dailyftlk`](https://www.ft.lk/news/Govt-launches-digital-signatures-for-public-officials/56-781775) · `en`
-
-Public Administration, Provincial Councils, and Local Government Minister Chandana Abeyratne
-
-The Public Administration Ministry has rolled out digital signatures for Government officers as part of efforts to modernise State services and improve efficiency in official transactions.
-
-Public Administration, Provincial Councils, and Local Government Minister Chandana Abeyratne introduced the initiative at a ceremony marking the adoption of digital signatures within the Home Affairs Division.
-
-Highlighting the wider aim of the Government, the Minister said the shift to digital tools is intended to reshape the public sector to meet the expectations of citizens. “We must deliver an efficient public service that people can rely on. This initiative should extend down to Grama Niladhari level,” he noted.
-
-...
-
-[Data](articles/b353f546.json)
-
-[Extended Data](ext_articles/b353f546.ext.json)
-
----
-
-### CEB union staff to call in sick on Thursday, Friday
-
-*2025-09-17 05:45:02* · [`dailyftlk`](https://www.ft.lk/news/CEB-union-staff-to-call-in-sick-on-Thursday-Friday/56-781774) · `en`
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU) announced that its members will report sick leave on 17 and 18 September as part of an escalation in their trade union campaign against the Government’s plan to restructure the CEB.
-
-The first stage of the work-to-rule campaign ended on Monday, with the second stage taking effect from yesterday. Under this phase, employees will withdraw from committee work, including tender boards, and limit their participation to core job functions.
-
-A protest campaign is also scheduled to take place during the two days of coordinated sick leave.
-
-The union has maintained that while industrial action will intensify, office closures and other operational disruptions are not anticipated.
-
-◼️
-
-[Data](articles/63e13680.json)
-
-[Extended Data](ext_articles/63e13680.ext.json)
-
----
-
-### UN inquiry finds Israel committing genocide in Gaza
-
-*2025-09-17 05:44:47* · [`dailyftlk`](https://www.ft.lk/news/UN-inquiry-finds-Israel-committing-genocide-in-Gaza/56-781773) · `en`
-
-A United Nations Commission of Inquiry says Israel has committed genocide against Palestinians in Gaza.
-
-A new report says there are reasonable grounds to conclude that four of the five genocidal acts defined under international law have been carried out since the start of the war with Hamas in 2023: killing members of a group, causing them serious bodily and mental harm, deliberately inflicting conditions calculated to destroy the group, and preventing births, the BBC reports.
-
-It cites statements by Israeli leaders, and the pattern of conduct by Israeli forces, as evidence of genocidal intent.
-
-The Israeli military launched a campaign in Gaza in response to the unprecedented Hamas-led attack on southern Israel on 7 October 2023, in which about 1,200 people were killed and 251 were taken hostage.
-
-At least 64,905 people have been killed in Israeli attacks in Gaza since then, according to the territory’s Hamas-run health ministry.
-
-...
-
-[Data](articles/21b9e960.json)
-
-[Extended Data](ext_articles/21b9e960.ext.json)
-
----
-
-### Ceremony marks 119th birth anniversary of late President J.R. Jayewardene
-
-*2025-09-17 05:43:39* · [`dailyftlk`](https://www.ft.lk/news/Ceremony-marks-119th-birth-anniversary-of-late-President-J-R-Jayewardene/56-781772) · `en`
-
-A memorial ceremony commemorating the 119th birth anniversary of the late President J.R. Jayewardene will be held today at the main auditorium of the J.R. Jayewardene Centre, Dharmapala Mawatha, Colombo 7. The event is scheduled to begin at 3 p.m.
-
-The program will include an oration by former diplomat and academic Dr. Karunasena Kodituwakku, who is expected to reflect on the life, legacy and contributions of Sri Lanka’s first Executive President.
-
-Organised by the J.R. Jayewardene Centre, the ceremony seeks to pay tribute to the former Head of State.
-
-◼️
-
-[Data](articles/bfa2c117.json)
-
-[Extended Data](ext_articles/bfa2c117.ext.json)
-
----
-
-### EDB and Germany’s Import Promotion Desk to expand cooperation
-
-*2025-09-17 05:41:13* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-Germany-s-Import-Promotion-Desk-to-expand-cooperation/34-781771) · `en`
-
-The Sri Lanka Export Development Board (EDB) and Germany’s Import Promotion Desk (IPD) will formalise their longstanding collaboration through a Cooperation Agreement, expanding support to Sri Lanka’s digital products and services sector alongside natural ingredients and processed foods.
-
-Since 2019, EDB and IPD have partnered to strengthen Sri Lanka’s export competitiveness, particularly in natural ingredients. Their joint initiatives have enabled small and medium-sized enterprises (SMEs) to meet European Union (EU) market requirements, improve compliance, and establish valuable buyer connections.
-
-...
-
-[Data](articles/1131c77e.json)
-
-[Extended Data](ext_articles/1131c77e.ext.json)
-
----
-
-### CBL inks deal with Aamalcom Holdings to expand market presence in Saudi Arabia
-
-*2025-09-17 05:39:20* · [`dailyftlk`](https://www.ft.lk/business/CBL-inks-deal-with-Aamalcom-Holdings-to-expand-market-presence-in-Saudi-Arabia/34-781770) · `en`
-
-Aamalcom Holding Company KSA Chairman Sheikh Qinan Rashdan Al Marel (left) exchanges partnership agreement with CBL Group Director Rasith Wickramasingha
-
-From left: CBL Foods International Manager – International Marketing and Sales Rajeewa Weerasingha, Hiplas FS Chairman and Aamalcom Trading Company KSA International Trade Director Saeed Asif Khan, Executive Director Syed Zaid ul Hassan, Ceylon Biscuits Director/ CEO Nalin Karunaratne, and CBL Foods International Director/CEO Kamal Geeganage
-
-CBL brands Munchee, Ritzbury, and Tiara to see wider distribution in Riyadh City from November
-
-Initial target modern trade followed by general trade, wholesale, food service, and e-commerce channels coverage
-
-CBL Group yesterday said it has entered into a strategic partnership with Aamalcom Holdings, a diversified group operating in multiple sectors, to expand its footprint and strengthen market reach in the Kingdom of Saudi Arabia (KSA).
-
-...
-
-[Data](articles/ce24d3e1.json)
-
-[Extended Data](ext_articles/ce24d3e1.ext.json)
-
----
-
-### Build SL 2026 International Expo
-
-*2025-09-17 05:37:46* · [`dailyftlk`](https://www.ft.lk/business/Build-SL-2026-International-Expo/34-781769) · `en`
-
-The Chamber of Construction Industry of Sri Lanka (CCI) recently launched its flagship event Build SL 2026 International Expo at the Galadari Hotel Grand Ball Room.
-
-The Chief Guest was CCI immediate past President Eng. Maj. Ranjith Gunatilleke. The past success of Build SL 2025, future work and the CCI predictions were showcased during the event.
-
-A special feature was the awarding of NVQ Certificates to ‘Construction Site Supervisors’ under the ‘Recognition of Prior Learning method.’ This is a program that the CCI will launch to enable construction workers to be certified with a National Vocational Qualification (NVQ) in the future.
-
-The main feature of this event was the pledging of sponsorships by a token gesture. The following are the valuable sponsors of Build SL International 2026 Exhibition to be held in 22, 23, and 24 in May 2026 at BMICH Colombo 7. It is expected that Build SL 2026 Expo to be the best yet as it will display an international pavilion with a global outreach.
-
-◼️
-
-[Data](articles/bc99388e.json)
-
-[Extended Data](ext_articles/bc99388e.ext.json)
-
----
-
-### Sri Lanka: Emerging as Asia’s  next startup and innovation hub
-
-*2025-09-17 05:35:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Emerging-as-Asia-s-next-startup-and-innovation-hub/34-781768) · `en`
-
-Sri Lanka’s rapidly growing startup ecosystem is drawing increasing regional and global attention, positioning the country as a rising innovation hub in Asia. With a strong ICT sector, high literacy rates, and a growing pool of skilled professionals, Sri Lanka is primed to become a hotbed for technology startups and product innovation.
-
-Key highlight this year is the arrival of over 35 global investors and speakers attending the Venture Engine Finale, alongside the Disrupt Asia conference, creating an unprecedented opportunity for Sri Lankan startups to connect with leading venture capitalists and industry experts from APAC, MENA, Europe, and the United States.
-
-...
-
-[Data](articles/907d4a50.json)
-
-[Extended Data](ext_articles/907d4a50.ext.json)
-
----
-
-### Visit to China, Inspector General of Police Lalith Patinayake appointed as the Inspector General of Police
-
-*2025-09-17 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225275) · `ta`
-
-Police Inspector Priyantha Weerasuriya has made a visit to China to attend the police conference in China.
-
-Police Media Spokesperson Udaya Kumara Woodler said that Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Inspector General of Police.
-
-Inspector General of Police Priyantha Weerasuriya made a special visit to China on Monday night (15).  He has visited China to attend the police conference in China and it is reported that the Inspector General of Police Priyantha Weerasuriya will deliver a speech at Amman.  Senior Inspector General of Police Lalith Patinayake, who is in charge of the Central Province and Police Management Division, has been appointed as the Inspector General of Police, Assistant Superintendent of Police, Udayakumara Woodler.
-
-...
-
-[Data](articles/04ab177e.json)
-
-[Extended Data](ext_articles/04ab177e.ext.json)
 
 ---

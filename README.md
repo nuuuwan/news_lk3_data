@@ -1,132 +1,64 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 15:07:22**
+As of **2025-09-17 14:22:52**
 
 ## Newspaper Stats
 
-*Scraped **76,507** Articles*
+*Scraped **76,501** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
-colombotelegraphcom | 774
+colombotelegraphcom | 773
 economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,432
+adalk | 7,431
 adaderanalk | 9,862
-tamilmirrorlk | 11,466
+tamilmirrorlk | 11,464
 virakesarilk | 12,458
-adaderanasinhalalk | 13,347
+adaderanasinhalalk | 13,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,712 (96.3%) of 76,507 articles have been extended.
+73,702 (96.3%) of 76,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### ”சில எம்.பிக்கள், குற்றவாளிகளின் வீடுகளுக்குச் சென்று பணம் பெற்றுள்ளனர்”
-
-*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
-
-சில பாராளுமன்ற உறுப்பினர்கள் ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளின் வீடுகளுக்குச் சென்று லஞ்சம் பெற்றுள்ளதாகவும், சில அமைச்சர்கள் ஒழுங்கமைக்கப்பட்ட குற்றவாளிகளை தங்கள் வீடுகளுக்கு அழைத்துள்ளதாகவும் ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
-
-மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை-மிரிகம பிரிவின் கட்டுமானப் பணிகளை மீண்டும் தொடங்குவதற்கான தொடக்க விழாவில் பேசிய ஜனாதிபதி, சந்தேக நபர்கள் குழு மீதான விசாரணைகள் இலங்கையின் குற்றவியல் வலையமைப்பில் அவர்களுக்கு ஆழமான தொடர்பு இருப்பது தெரியவந்துள்ளதாகக் கூறினார்.
-
-எவ்வாறாயினும், இந்த குற்றவியல் அரசியலை முடிவுக்குக் கொண்டுவர அரசாங்கம் பாடுபட்டு வருவதாகவும், இதுவரை கைது செய்யப்பட்டுள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளிகள் போதைப்பொருள் வலையமைப்பில் சுமார் 50 சதவீதத்திற்கு பொறுப்பானவர்கள் என்றும் அவர் கூறினார்.
-
-...
-
-[Data](articles/51c45513.json)
-
----
-
-### Permission to hold back 'Back' and 'Orange Lahiru' about the killing of the Kibra
-
-*2025-09-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214673) · `si`
-
-The Walasmulla Magistrate's Court today (17) has been given permission to investigate the investigation into further questioning on the 'KJjah' murder.
-
-"Backwo Saman 'and" Orange Lahiru was arrested in Indonesia recently.
-
-◼️
-
-[Data](articles/887ffdd3.json)
-
-[Extended Data](ext_articles/887ffdd3.ext.json)
-
----
-
-### UNP Working Committee a decision to remove all suspended orders
-
-*2025-09-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214674) · `si`
-
-The UNP Working Committee has decided to remove all the injunctions and delegated the party membership orders to the UNP membership with discontinued and measured by the party membership.
-
-◼️
-
-[Data](articles/e9b0b12f.json)
-
-[Extended Data](ext_articles/e9b0b12f.ext.json)
-
----
-
-### வலஸ்முல்ல நீதிமன்றத்துக்கு கடும் பாதுகாப்பு
-
-*2025-09-17 14:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலஸ்முல்ல-நீதிமன்றத்துக்கு-கடும்-பாதுகாப்பு/175-364766) · `ta`
-
-Pako Saman and Thambari Lahiru were brought to the Valasmulla Magistrate's Court shortly before.
-
-The team, which came to court for trial, was not allowed to enter the court premises until 9 am, and the police were allowed to enter the court premises after the physical examination of the police.
-
-◼️
-
-[Data](articles/76917bbe.json)
-
-[Extended Data](ext_articles/76917bbe.ext.json)
-
----
-
-### Saran in Sampath Manamberi Court
+### சம்பத் மனம்பேரி நீதிமன்றில் சரண்
 
 *2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
 
-Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
+மித்தெனிய பகுதியில் "ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு இரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் தேடப்பட்டு வந்த சம்பத் மனம்பேரி வலஸ்முல்ல நீதவான் நீதிமன்றத்தில் இன்று (17) சரணடைந்தார்.
 
 ◼️
 
 [Data](articles/c9db1bce.json)
 
-[Extended Data](ext_articles/c9db1bce.ext.json)
-
 ---
 
-### Minister reveals Expressway Development Plan
+### අධිවේගී මාර්ග සංවර්ධන සැලැස්ම ඇමති හෙළිකරයි
 
 *2025-09-17 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214672) · `si`
 
-Minister of Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake says that the expressway from Pothuhera to Rambukku is completing the expressway from Kothua to Mirigama.
+2028 වර්ෂය වන විට කඩවත සිට මීරිගම දක්වා වූ අධිවේගී මාර්ගය සාදා නිමකිරීමට පෙර පොතුහැර සිට රඹුක්ක දක්වා වූ අධිවේගී මාර්ගයේ වැඩකටයුතු සම්පූර්ණ කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය බිමල් රත්නායක පවසයි.
 
-The Minister said that the commencement ceremony of the recruited to Mirigama from Kadawatha to Mirigama, the Central Expressway Project was re-establishing to the inauguration ceremony of the section from Kadawatha to Mirigama.
+මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතියේ කඩවත සිට මීරිගම දක්වා වූ කොටසේ යළි ඉදිකිරීම් ආරම්භ කිරීමේ සමාරම්භක උත්සවයට එක්වෙමින් අමාත්‍යවරයා කියා සිටියේ, කඩවත සිට මීරිගම දක්වා වූ කොටසේ ඉදිකිරීම් 2028 වන විට මාස 32ක කාලයකින් අවසන් කිරීමට බලාපොරොත්තු වන බවය.
 
-Accordingly, the section of Pothuhera to Rambukku will be completed before the Sinhala Tamil New Year in April 2028 and the rest of the Rambukkana will be developed accordingly.
+ඒ අනුව පොතුහැර සිට රඹුක්ක දක්වා වූ කොටසෙහි ඉදිකිරීම් 2028 අප්‍රේල් මස සිංහල දෙමළ අලුත් අවුරුද්දට පෙර නිමකරන බවත් රඹුක්කන ආශ්‍රිත සෙසු මාර්ග ද ඒ අනුව සංවර්ධනය කරන බවත්ය.
 
-"Next we hope to build the Expressway from Rambukkana to Galagedara to Galagedara this year.
-
-The port is the login way. It is also a matter of considerable problems. 98% is over. But there are 2% more. 2% drawing for two years. We hope to complete it by the middle of next year.
+"ඊළගට අපි බලාපොරොත්තු වෙනවා බොහෝ දුරට මේ වසර තුළදී අපිට අනුමැතිය ලැබෙයි කියලා රඹුක්කන ඉඳලා ගලගෙදර දක්වා අධිවේගී මාර්ගය ඉදිකිරීම් කටයුතු පටන් ගන්න.මේ වෙනකොට අපි RD එක පැත්තෙන් ඊට අදාළ සියලුම ඩිසයින් ඊට අදාළ දේවල් පටන් අරගෙන සැලසුම් කරගෙන තිබෙන නිසා.
 
 ...
 
 [Data](articles/7e405803.json)
-
-[Extended Data](ext_articles/7e405803.ext.json)
 
 ---
 
@@ -149,20 +81,6 @@ As a developing country, Sri Lanka is proud to be a partner in this historic pas
 [Data](articles/8cd16fd4.json)
 
 [Extended Data](ext_articles/8cd16fd4.ext.json)
-
----
-
-### සම්පත් මනම්පේරි අධිකර‍ණයට භාර වෙයි
-
-*2025-09-17 13:28:39* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-අධිකර‍ණයට-භාර-වෙයි/11-418552) · `si`
-
-Sampath Manamperi has surrendered to the court to be arrested in connection with the discovery of ice shelter. He was surrendered to the Walasmulla Magistrate's Court.
-
-◼️
-
-[Data](articles/b4b95824.json)
-
-[Extended Data](ext_articles/b4b95824.ext.json)
 
 ---
 
@@ -1136,16 +1054,6 @@ They pointed out that the government loses a large tax revenue and the consumers
 
 ---
 
-### Absurdity Of ‘The Flock Of Sheep’ Seeking Protection From The ‘Werewolf’
-
-*2025-09-17 09:21:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/absurdity-of-the-flock-of-sheep-seeking-protection-from-the-werewolf/) · `en`
-
-...
-
-[Data](articles/855513d5.json)
-
----
-
 ### Heavy rains in the state of Uttarakhand, India; 15 people die
 
 *2025-09-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225278) · `ta`
@@ -2021,5 +1929,125 @@ The main feature of this event was the pledging of sponsorships by a token gestu
 [Data](articles/bc99388e.json)
 
 [Extended Data](ext_articles/bc99388e.ext.json)
+
+---
+
+### Sri Lanka: Emerging as Asia’s  next startup and innovation hub
+
+*2025-09-17 05:35:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Emerging-as-Asia-s-next-startup-and-innovation-hub/34-781768) · `en`
+
+Sri Lanka’s rapidly growing startup ecosystem is drawing increasing regional and global attention, positioning the country as a rising innovation hub in Asia. With a strong ICT sector, high literacy rates, and a growing pool of skilled professionals, Sri Lanka is primed to become a hotbed for technology startups and product innovation.
+
+Key highlight this year is the arrival of over 35 global investors and speakers attending the Venture Engine Finale, alongside the Disrupt Asia conference, creating an unprecedented opportunity for Sri Lankan startups to connect with leading venture capitalists and industry experts from APAC, MENA, Europe, and the United States.
+
+...
+
+[Data](articles/907d4a50.json)
+
+[Extended Data](ext_articles/907d4a50.ext.json)
+
+---
+
+### Visit to China, Inspector General of Police Lalith Patinayake appointed as the Inspector General of Police
+
+*2025-09-17 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225275) · `ta`
+
+Police Inspector Priyantha Weerasuriya has made a visit to China to attend the police conference in China.
+
+Police Media Spokesperson Udaya Kumara Woodler said that Senior Deputy Inspector General of Police Lalith Patinayake has been appointed as the Inspector General of Police.
+
+Inspector General of Police Priyantha Weerasuriya made a special visit to China on Monday night (15).  He has visited China to attend the police conference in China and it is reported that the Inspector General of Police Priyantha Weerasuriya will deliver a speech at Amman.  Senior Inspector General of Police Lalith Patinayake, who is in charge of the Central Province and Police Management Division, has been appointed as the Inspector General of Police, Assistant Superintendent of Police, Udayakumara Woodler.
+
+...
+
+[Data](articles/04ab177e.json)
+
+[Extended Data](ext_articles/04ab177e.ext.json)
+
+---
+
+### Application Form for Korean Language Examination
+
+*2025-09-17 04:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/225274) · `ta`
+
+The application form for the Korean Language Examination, which will be held in 2025 of South Korea's manufacturing and fisheries sectors, will be released from 2025.09.15 to 2025.09.09.09.09.09.09.09.09.09.09.09.
+
+The registration for obtaining applications for the exam can be made through the official website of the Sri Lanka Foreign Employment Bureau, www.slbfe.lk.
+
+Those between the ages of 18 to 39 (born from 1985.09.15 to 2007.09.14) can apply for this. Applicants must be with no color impairment. Also, not to be convicted in a court case, a penalty, imprisoned or criminalized in severe crimes. Similarly, only those who are not colorful, spinal cord disorders, fingers are less or less removed can apply. Those who have never had the history of South Korea have previously been deported and those who have not worked in South Korea for a total of 5 years, including the E-9 and the E-10 visa.
+
+...
+
+[Data](articles/fad3cbc0.json)
+
+[Extended Data](ext_articles/fad3cbc0.ext.json)
+
+---
+
+### Sakara Kariyawasam alleges that police are making drugs to accuse opposition members
+
+*2025-09-17 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225273) · `ta`
+
+Police enter the homes of the members of the opposition parties and then leave the drugs in a secret.. Sri Lanka PA, General Secretary Sakara Kariyawasam said that the activities of the police were improper.
+
+He was speaking to the media after a discussion with the constituency organizers held on Monday (15) at the Sri Lanka PA.
+
+Police enter the homes of opposition parties. Police are checking the houses without a court order.
+
+The house of a former member of the Elpitiya Pradeshiya Sabha of the Sri Lanka Peoples Alliance (PA) was searched by the police last week.
+
+Police enter the homes of the members of the opposition parties and then leave the drugs in a secret.. The activities of the police are improper.
+
+The Inspector General of Police should not allow such improper activities.
+
+◼️
+
+[Data](articles/8abe4e7a.json)
+
+[Extended Data](ext_articles/8abe4e7a.ext.json)
+
+---
+
+### Great Victim of Geneva
+
+*2025-09-17 04:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225272) · `ta`
+
+Diaspora Tamils ​​have joined a massive vigilante rally in Geneva on Monday (15) to demanding that Sri Lanka be appointed to the International Criminal Court to be involved in the ethnic cleansing against the Tamils.
+
+n The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. At the inaugural session, a written report on Sri Lanka was submitted by High Commissioner Volcker Darek and subsequently debated on the report.
+
+Meanwhile, the British -led internet, including Canada, Montenegro and North Mesitonia, have been prepared by the Internet countries, titled 'Reconciliation, Accountability and Human Rights Improvement in Sri Lanka', and the first draft of Sri Lanka's new proposal on Sri Lanka has been launched.
+
+It is in this context that a massive vigilante rally was held in Geneva, Switzerland, on Monday (15), emphasizing international accountability and justice regarding the Tamil massacre in Sri Lanka.
+
+...
+
+[Data](articles/4bab9e2b.json)
+
+[Extended Data](ext_articles/4bab9e2b.ext.json)
+
+---
+
+### Following an independent investigation to ensure justice and accountability - US Congress member Summer Lee
+
+*2025-09-17 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225271) · `ta`
+
+US Congress Member Summer Lee said we should continue to insist on an independent investigation to ensure justice and accountability in Sri Lanka's violations.
+
+Yall. US Congress members Raja Krishnamurthy and Debora Rose have already expressed serious concern over their X -site posts regarding the Semmani Human Rights.
+
+They insisted on supporting justice and accountability, especially by the affected parties, and that they should be confirmed.
+
+Against this backdrop, US Congressman Summer Lee, who has made a record on his official X site about the Semmani Human Rights Page, said the following.
+
+In the human skeleton identified in the sheep, more than 140 skeletons have been found to be a child's milky, school book and a toy playing with boys.
+
+He said that we must continue to insist on an independent investigation to move towards justice and accountability.
+
+◼️
+
+[Data](articles/baac775c.json)
+
+[Extended Data](ext_articles/baac775c.ext.json)
 
 ---

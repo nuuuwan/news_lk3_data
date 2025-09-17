@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 12:55:15**
+As of **2025-09-17 13:20:22**
 
 ## Newspaper Stats
 
-*Scraped **76,489** Articles*
+*Scraped **76,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,135 @@ economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,428
-adaderanalk | 9,861
-tamilmirrorlk | 11,461
+adalk | 7,429
+adaderanalk | 9,862
+tamilmirrorlk | 11,462
 virakesarilk | 12,458
-adaderanasinhalalk | 13,340
+adaderanasinhalalk | 13,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,685 (96.3%) of 76,489 articles have been extended.
+73,690 (96.3%) of 76,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### வர்த்தக அமைச்சரை சூழும் சொத்துப் பிரகடன சர்ச்சை
+### බැකෝ සමන් සහ තැඹිලි ළහිරු අධිකරණයට රැගෙන එයි
+
+*2025-09-17 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214669) · `si`
+
+ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන විත් සිටින ප්‍රබල පාතාල කල්ලි නායකයින් දෙදෙනෙකු බව කියන "බැකෝ සමන්" සහ "තැඹිලි ළහිරු" යන වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/044d2be5.json)
+
+---
+
+### කහ සහ ඉඟුරු වගාවන්ට විශේෂ රක්ෂණ යෝජනා ක්‍රමයක්
+
+*2025-09-17 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214668) · `si`
+
+වාණිජමය වශයෙන් හා අපනයනය කිරීමේ අරමුණින් වගා කරනු ලබන කහ සහ ඉඟුරු වගාවන් සඳහා විශේෂ රක්ෂණ යෝජනා ක්‍රමයක් ආරම්භ කර ඇති බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
+
+එහි සභාපති පේමසිරි ජාසිංආරච්චි මහතා පැවසුවේ ගොවියා තමන් විසින් සිදුකරනු ලබන "ඉඟුරු" වගාව සඳහා අක්කරයකට රුපියල් 200,000 ක් දක්වා රක්ෂණාවරණයක්  ලබාගැනීමට හැකියාව ඇති බවය.
+
+ඒ සඳහා සියයට 7 ක් වැනි රක්ෂණ වාරිකයක් ගෙවීමෙන් ස්වාභාවික විපත්, රෝග, කෘමි හානි සහ  වන අලි හානි සඳහා රක්ෂණවරණය ලබාගැනීමට හැකියාව ඇති  බව සඳහන් වේ.
+
+එමෙන්ම "කහ " වගාවන් සුරක්ෂිත කර ගැනීම සඳහා අක්කරයකට උපරිමය රුපියල් ලක්ෂ 7 ක් දක්වා රක්ෂණවරණයක් ලබා ගැනීමට හැකියාව පවතී.
+
+◼️
+
+[Data](articles/91918115.json)
+
+---
+
+### யாழ்.பல்கலைக்கழகத்திற்கு 2,234 மில்லியன் செலவில் ஐந்து மாடி கட்டிடம் அமைக்க திட்டம்
+
+*2025-09-17 12:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்திற்கு-2-234-மில்லியன்-செலவில்-ஐந்து-மாடி-கட்டிடம்-அமைக்க-திட்டம்/175-364761) · `ta`
+
+யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீடத்திற்கு நவீன வசதிகளுடன் கூடிய ஐந்து மாடி கட்டிடமொன்றை நிர்மாணிக்க அமைச்சரவை ஒப்புதல் வழங்கியுள்ளது.
+
+ஜனாதிபதி அனுர குமார திஸாநாயக்க தலைமையில்செவ்வாய்க்கிழமை (16) அன்று கூடிய அமைச்சரவை கூட்டத்தில் குறித்த யோசனைக்கு அமைச்சரவை ஒப்புதல் வழங்கியது.
+
+2006 ஆம் ஆண்டில் அரச பல்கலைக்கழகங்களில் இணைந்த சுகாதார விஞ்ஞானம் தொடர்பாக பட்டப்படிப்புக்கள் அடையாளங் காணப்பட்டுள்ளதுடன், யாழ்ப்பாண பல்கலைக்கழகத்தின் மருத்துவ ஆய்வுகூட விஞ்ஞானம், மருந்து வேதியல் மற்றும் தாதியம் தொடர்பான துறைகளில் மூன்று விஞ்ஞானமானி பட்டப்படிப்புக்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+தற்போது யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீடத்தில் அனைத்து இனத்தவர்களையும் பிரதிநிதித்துவப்படுத்தி நான்கு பாடத்துறைகளில் 952 மாணவர்கள் கற்கைகளில் ஈடுபடுகின்றனர்.
+
+2017 ஆம் ஆண்டில் இணைந்த சுகாதார விஞ்ஞான பீடத்திற்கான கட்டிடத்தை நிர்மாணிப்பதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்திருப்பினும், நிலவிய நிதி நெருக்கடிகளால் அதற்கான நிதி ஒதுக்கப்படவில்லை.
+
+...
+
+[Data](articles/1f08f840.json)
+
+---
+
+### Sri Lankan passport drops 6 spots in global rankings
+
+*2025-09-17 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112600/sri-lankan-passport-drops-6-spots-in-global-rankings) · `en`
+
+The Sri Lankan passport has dropped to 97th place in the latest Henley Passport Index 2025 Global Ranking, released on September 11, 2025.
+
+Earlier this year, Sri Lanka showed notable progress, climbing five spots from 96th to 91st place, marking an improvement from its 2024 ranking of 96th.
+
+However, in the latest update, the country has slipped to 97th—one place lower than its 2024 position—with a visa-free score of 41, compared to 42 destinations previously.
+
+Sri Lanka now shares the 97th position with Iran in the index, which features 105 rankings in total.
+
+The Henley Passport Index evaluates passports worldwide based on the number of destinations their holders can enter without a prior visa.
+
+In a global context, the U.S. passport has also fallen to 12th place, down two spots from its July ranking, marking its lowest position in the 20-year history of the index.
+
+...
+
+[Data](articles/ff41d2fa.json)
+
+---
+
+### Proclaiming controversy surrounding the Minister of Commerce
 
 *2025-09-17 12:22:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-அமைச்சரை-சூழும்-சொத்துப்-பிரகடன-சர்ச்சை/175-364760) · `ta`
 
-வர்த்தக, வாணிப, உணவுப் பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி அமைச்சர் வசந்த சமரசிங்க தனது சொத்துக்கள் மற்றும் பொறுப்புகள் பிரகடனத்தில் அறிவிக்கப்பட்டதாகக் கூறப்படும் அவரது பெருமளவிலான சொத்துக்கள் குறித்து சமூக ஊடகங்களில் விமர்சனங்களுக்கு உள்ளாகியுள்ளார்.
+Vasantha Samarasinghe, Minister of Commerce, Commerce, Food Security and Co -operative Development, has been criticized on social media about his assets and responsibilities.
 
-சமரசிங்கவுக்கு ரூ.275 மில்லியனுக்கும் அதிகமான மதிப்புள்ள வியாபார கட்டிடங்கள், வாகனங்கள் மற்றும் தங்கம் போன்ற பெரும் சொத்துக்கள் இருப்பதாக சமூக ஊடகங்களில் வெளியான பதிவுகளுக்கு பதிலளித்த அமைச்சர், தனியார் தொலைக்காட்சி ஒன்றில் ஒளிபரப்பான தொலைக்காட்சி நிகழ்ச்சியில், தனது குடும்பத்திலிருந்து சில சொத்துக்களை அவர் பெற்றதாகவும், 28 ஆண்டுகளுக்கும் மேலாக வணிக நடவடிக்கைகளில் ஈடுபட்டு வருவதாகவும் கூறினார்.
+Responding to records on social media that Samarasinghe has more than Rs.
 
-"எனது குடும்பத்திலிருந்து பெறப்பட்ட சில சொத்துக்கள் எனக்கு உள்ளன. நான் 1997 முதல் கல்வி வகுப்புகளை நடத்தி வருகிறேன், பல்கலைக்கழகத்தில் நுழைந்த பிறகும் அதைத் தொடர்ந்தேன். 28 ஆண்டுகளுக்கு முன்பு தம்புத்தேகம நகரில் ஒரு கல்வி நிறுவனத்தைத் தொடங்கி, இப்போது அதை மூன்று மாடி கட்டிடமாக உருவாக்கி வாடகைக்கு விட்டுள்ளேன்," என்று அவர் கூறினார்.
+“I have some assets received from my family. I have been conducting educational classes since 1997, and after entering the university. 28 years ago, I started an educational institute in Tambuttegama and now I have built it as a three -storey building and rented it, ”he said.
+
+The Minister agreed that the gold, solar power systems and crypto coins stated on social media were also held.
+
+"My wife and I bought gold in 2006. Then a pound of gold. Was 6,000. My son, who was intelligent in the field of IT (Information Technology), opened a crypto account when we were at home during the time of Kovit, "he said.
 
 ...
 
 [Data](articles/809f7f93.json)
 
+[Extended Data](ext_articles/809f7f93.ext.json)
+
 ---
 
-### 7 விபத்துகளில் 3 வயது சிறுமி உட்பட ஏழு பேர் பலி
+### Seven people were killed in 7 accidents, including a 3 -year -old girl
 
 *2025-09-17 12:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-விபத்துகளில்-3-வயது-சிறுமி-உட்பட-ஏழு-பேர்-பலி/175-364759) · `ta`
 
-நாட்டின் பல்வேறு பகுதிகளில், செவ்வாய்க்கிழமை (16) ஆங்காங்கே இடம்பெற்ற  ஏழு வீதி விபத்துகளில் 3 வயது சிறுமி உட்பட ஏழு பேர் உயிரிழந்துள்ளனர்.
+Seven people, including a 3 -year -old girl, died in seven road accidents on Tuesday (16) in different parts of the country.
 
-முருங்கன் சிலாவத்துறை வீதியில் உள்ள நிலமடு வளைவில் மோட்டார் சைக்கிள் ஓட்டுநர் ஒருவர் தனது மோட்டார் சைக்கிளின் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளானதில் முருங்கன் பகுதியைச் சேர்ந்த 33 வயது நபர் உயிரிழந்துள்ளார்.
+A 33 -year -old man from Murungan has died after a motorcycle driver lost control of his motorcycle and crashed into the road at the Nilamadu ramp on Murungan Chilawathurai road.
 
-எம்பிலிப்பிட்டிய நகருக்கு அருகில் ஒரு வேன், முன்னால் சென்ற சைக்கிள் மீது மோதி விபத்துக்கு உள்ளானதில், லியனகம பகுதியைச் சேர்ந்த 36 வயது நபர் உயிரிழந்துள்ளார். வேன் ஓட்டுநர் வேனுடன் தப்பிச் செல்லும்போது மீண்டும் ஒரு முச்சக்கர வண்டியில் மோதியுள்ளார். அந்த விபத்தில் இருந்து தப்பிக்க முயன்றபோது, ​​உள்ளூர்வாசிகள் சந்தேக நபரைப் பிடித்து பொலிஸாரிடம் ஒப்படைத்தனர்.
+A 36 -year -old man from Liyanagama has died when a van crashed into a bicycle near Embilipitiya city.. Van driver crashed into a three -wheeler again while fleeing with van. When they tried to escape the accident, the locals caught the suspect and handed it over to the police.
 
-நொச்சியாகம பகுதியில் உள்ள குக்குல்கட்டுவ வீதியில்யில் லாரி மற்றும் மோட்டார் சைக்கிள் மோதி விபத்துக்கு உள்ளானதில் மோட்டார் சைக்கிளில் சென்ற 60 வயது நொச்சியாகம பகுதியைச் சேர்ந்த ஒருவர் உயிரிழந்துள்ளார்.
+A 60 -year -old man who was riding a motorcycle was killed when a lorry and motorcycle collided with a motorcycle on the Kukkulkattuwa road in Nochchiyagama.
+
+Peliyagoda-Colombo Kandy Dutch. In this, a 3 -year -old girl died in a three -wheeler. Another child, their mother, their three -wheeler driver and another man in the three -wheeler were injured in the accident.
 
 ...
 
 [Data](articles/8a548e84.json)
+
+[Extended Data](ext_articles/8a548e84.ext.json)
 
 ---
 
@@ -632,19 +714,23 @@ The distance between Kadawatha and Mirigama on the Central Expressway is 37 kilo
 
 ---
 
-### நிர்வாணமாக வீடியோ கோல் செய்த பெண்: ஆசையை அடக்க முடியாமல் இளைஞர் செய்த செயல்
+### Woman who made video naked
 
 *2025-09-17 10:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-வீடியோ-கோல்-செய்த-பெண்-ஆசையை-அடக்க-முடியாமல்-இளைஞர்-செய்த-செயல்/175-364740) · `ta`
 
-பெங்களூரை சேர்ந்த இளைஞர் டேட்டிங் செயலியில் பழக்கமான பெண்ணிடம் செல்போன் எண்ணை பகிர்ந்தார். இருவரும் வாட்ஸ்அப்பில் பேசி நெருக்கமாகினர். உடலுறவு பற்றி இருவரும் மெசேஜில் பேசி கொண்டனர். அதன்பிறகு அந்த பெண் வீடியோ காலில் நிர்வாணமாக போஸ் கொடுத்தார். மேலும் இளைஞரையும் ஆடைகளை அவிழ்க்க கட்டளையிட்டார். ஆசையை அடக்க முடியாமல் இளைஞரும் வீடியோ காலில் நிர்வாணமான நிலையில் இப்போது அவர் சிக்கலில் சிக்கி உள்ளார்.
+Youth from Bangalore shared a cell phone number to a familiar woman in the dating processor. Both were close to talking on WhatsApp. Both of them were talking at the message about intercourse. The girl then posed naked on the video leg. And the young man ordered the unraveling of clothes. He is now in trouble naked on the video's video.
 
-பெங்களூர் ஆடுகோடி அருகே வசித்து வருபவர் 25 வயது இளைஞர். இவர் தனியார் நிறுவனத்தில் பணியாற்றி வருகிறார். இந்நிலையில் தான் சில மாதங்களுக்கு முன்பு அவர் டேட்டிங் செயலியை தனது செல்போனில் டவுன்லோட் செய்தார்.
+A 25 -year -old youth living near Bangalore. He is working in a private company. It was in this case that a few months ago he downloaded the dating processor on his cell phone.
 
-அந்த டேட்டிங் செயலியின் பெயர் Happn. இந்த செயலியின் வழியாக அவருக்கும் அனன்யா என்ற பெயர் கொண்ட பெண்ணுக்கும் பழக்கம் ஏற்பட்டது. இருவரும் டேட்டிங் செயலி வழியாக தினமும் உரையாடி வந்தனர்.
+The name of that dating processor Happn. Through this processor, she and the woman named Ananya became accustomed to. The two came to talk daily via the dating processor.
+
+The friendship was formed between the two. Then they exchanged their cell phone numbers. Thus, at the time they thought, 2 of them exchanged the message. The closeness of the two increased. The two went to the next level, talking about friendly and welfare.
 
 ...
 
 [Data](articles/cca5b5ca.json)
+
+[Extended Data](ext_articles/cca5b5ca.ext.json)
 
 ---
 
@@ -731,6 +817,20 @@ The National Water Supply and Drainage Board stated that the water cut will be i
 [Data](articles/cd6aaf56.json)
 
 [Extended Data](ext_articles/cd6aaf56.ext.json)
+
+---
+
+### දුටුගැමුණු කුමරු දිය නෑ රණමුනේ පිහිල්ල
+
+*2025-09-17 09:39:13* · [`adalk`](https://www.ada.lk/opinion/දුටුගැමුණු-කුමරු-දිය-නෑ-රණමුනේ-පිහිල්ල/2-418549) · `si`
+
+කොත්මලේ  යනු මෙරට ඉතිහාසයේ ගැඹුරින් කාවැදුණු කිසිදාක නොමැකෙන  සිහිවටන රැසකින් සමන්විත වූ අතිශය මනරම් වූ ඵෙතිහාසික පුරවරයකි. ඉපැරණි සිදුවීම් රැසකින් පොහොසත් වූ කොත්මලේ පුරවරය මනරම්  කඳු රැසකින් වට වූ ඉතාමත් ආරක්ෂාකාරී මෙන්ම සුන්දර  භූමි භාගයකින් සැදුම්ලත් අව්‍යාජ ගැමියන් ජීවත් වන ඵෙතිහාසික ගම්මාන රැසකින් සමන්විත ප්‍රදේශයකි.
+
+එවන් අසිරිමත් පුරවරයක පිහිටි රණමුනේ පිහිල්ල යනු කොත්මලේ, මාවෙල නගරය සමීපයේ පිහිටි මෙරට වටිනාකමකින් යුත් තවත් එක් සුවිශේෂිත  ස්ථානයකි. ශ්‍රී ලංකාවේ ඉතිහාසය සහ සංස්කෘතික උරුමයේ තවත් එක් සුවිශේෂිත කඩ ඉමක් ලෙස රණමුනේ පිහිල්ල හැදින්විය හැක. මෙම ඉපැරණි පිහිල්ල දුටුගැමුණු රජුගේ පාලන සමය වන එනම් ක්‍රිස්තු පූර්ව 137ත්- 161ත්  අතර කාල සීමාවටත් පෙර සිට පැවත එන ඵෙතිහාසික ජල පිහිල්ලක් ලෙස හැදින්වේ.
+
+...
+
+[Data](articles/429578d3.json)
 
 ---
 
@@ -1937,95 +2037,5 @@ After considering the request made by the Criminal Investigation Department. The
 [Data](articles/f16c22dd.json)
 
 [Extended Data](ext_articles/f16c22dd.ext.json)
-
----
-
-### Rs. 1 billion this year for the settlement
-
-*2025-09-16 23:25:07* · [`adalk`](https://www.ada.lk/breaking_news/සමථකරනයට-මේ-වසරේ-රුපියල්-බිලියනයක්/11-418541) · `si`
-
-The National Meeting Day Celebration ceremony was held at the foundation of the Hon
-
-Under the Mediation Board Act No. 72 of 1988 under the Mediation Board Act No. 72 of 1990, all the National Mercators, including the Solar Association, is named after the formation of all equal and dedication.
-
-"This year is a significant year of the Mediation Process and the Budget 2025 has allocated over Rs. 1 billion allocation to Mediation Board Commission. Special Mediation Councils have been introduced to establish the number of financial disputes on land disputes and the financial disputes of the judiciary as a result of the financial dispute in the Colombo, Gampaha, Anuradhapura, Polonnaruwa, Kandy and Moneragala.
-
-More than two million disputes lead to the Mediation Board. Strengthening the Mediation Processing is expected to reduce 100,000 cases in court in one year.
-
-The judicial system is working to establish a dispute data management system in the Mediation Board of Mediquities.
-
-...
-
-[Data](articles/209cd480.json)
-
-[Extended Data](ext_articles/209cd480.ext.json)
-
----
-
-### Sun Siyam Pasikudah’s New Chapter
-
-*2025-09-16 23:00:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudahs-new-chapter/) · `en`
-
-As with all Sun Siyam properties, Sun Siyam Care, the group’s sustainability arm, is deeply embedded in Pasikudah. Every booking supports marine conservation projects, with special attention here to the fragile bay ecosystem. Coral restoration efforts, beach clean-ups, and community education programs are part of the resort’s daily rhythm.
-
-The resort works closely with local farmers and fishermen, sourcing produce and seafood responsibly to minimize its footprint while strengthening livelihoods. Guests are invited to visit nearby communities, offering a more authentic perspective on Sri Lankan life beyond the resort walls. In a region still rebuilding from the scars of conflict and natural disasters, Pasikudah’s presence carries a promise: that tourism can be a force for good when guided by care.
-
-...
-
-[Data](articles/706b82cd.json)
-
-[Extended Data](ext_articles/706b82cd.ext.json)
-
----
-
-### Second quarter growth predictions trigger bull-run in bourse
-
-*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/second-quarter-growth-predictions-trigger-bull-run-in-bourse/) · `en`
-
-CSE activities turned extremely bullish yesterday when the Finance Ministry reported that 2025 second quarter GDP growth potential was higher than expected.
-
-Initially it was reported that second quarter GDP for the year was 3.1 percent but latest reports note that it has moved up to 4.9 percent, thus enabling investor sentiment to improve significantly, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 263.98 points while S and P SL20 rose by 81.75 points. Turnover stood at Rs 6.22 billion with ten crossings.
-
-...
-
-[Data](articles/3b5f7855.json)
-
-[Extended Data](ext_articles/3b5f7855.ext.json)
-
----
-
-### Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
-
-*2025-09-16 22:59:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-nce-forge-strategic-alliance-to-power-sri-lankas-export-growth/) · `en`
-
-Pan Asia Bank, one of Sri Lanka’s fastest-growing commercial banks, has entered into a strategic partnership with the National Chamber of Exporters of Sri Lanka (NCE) to empower and support the country’s export community.
-
-Exports remain a lifeline for Sri Lanka’s economy, generating vital foreign exchange, driving industrial innovation, and creating jobs across multiple sectors. In the current context of economic recovery, strengthening the export sector is critical for stabilizing the nation’s external balances and securing long-term sustainable growth. Recognizing this, Pan Asia Bank’s collaboration with NCE is designed to provide exporters with both the financial tools and strategic guidance needed to expand their global reach.
-
-...
-
-[Data](articles/b12cf49a.json)
-
-[Extended Data](ext_articles/b12cf49a.ext.json)
-
----
-
-### HNB Assurance hosts second consecutive International Partnership Awards in Malaysia
-
-*2025-09-16 22:57:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-second-consecutive-international-partnership-awards-in-malaysia/) · `en`
-
-HNB Assurance PLC once again marked a historic milestone by hosting its Partnership Awards 2025 on an international stage for the second consecutive year. Held at the prestigious Royal Signature Hotel, Kuala Lumpur, the gala event welcomed guests from HNB, HNB Assurance staff, Bancassurance Officers and their families, to celebrate the remarkable achievements of the company’s partnership channel.
-
-The Partnership Awards, a flagship annual event for HNB Assurance, serves as a platform to honor and recognize the exceptional contributions of its partnership channel, which continues to play a pivotal role in driving the company’s growth. Following the success of last year’s international debut in Thailand, this year’s event in Malaysia further signifies the company’s expanding vision and growth momentum.
-
-Pan Asia Bank and NCE forge strategic alliance to power Sri Lanka’s export growth
-
-...
-
-[Data](articles/43eabc85.json)
-
-[Extended Data](ext_articles/43eabc85.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 19:21:12**
+As of **2025-09-17 19:00:21**
 
 ## Newspaper Stats
 
-*Scraped **76,572** Articles*
+*Scraped **76,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,76 +17,20 @@ islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,439
-adaderanalk | 9,878
-tamilmirrorlk | 11,486
-virakesarilk | 12,461
-adaderanasinhalalk | 13,358
+adaderanalk | 9,876
+tamilmirrorlk | 11,485
+virakesarilk | 12,460
+adaderanasinhalalk | 13,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,792 (96.4%) of 76,572 articles have been extended.
+73,790 (96.4%) of 76,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
-
-### රුමේෂ් තරංග හෙල්ල විසිකිරීමේ අවසන් තරගයට
-
-*2025-09-17 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214686) · `si`
-
-ජපානයේ ටෝකියෝ හිදී පැවැත්වෙන ලෝක මලල ක්‍රීඩා ශූරතාවලියේ අද (17) පැවති හෙල්ල විසිකිරීම ඉසව්වේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට රුමේෂ් තරංග සමත් විය.
-
-මෙහිදි රුමේෂ් මීටර් 82.8ක දක්ෂාතාවක් දක්වා 12වන ස්ථානය දිනාගැනීමත් සමග මෙම අවස්ථාව හිමිකරගත්තේය.
-
-මෙම තරග ඉසව්වෙන් අවසන් මහා තරගයට පිවිසීමට හැකිවන්නේ ක්‍රීඩකයන් 12 දෙනෙකුට පමණක් වන අතර, ඉන් තිදෙනෙක්ම දකුණු ආසියානු (ඉන්දියාව, පාකිස්තානය) ක්‍රීඩකයන්වීම විශේෂත්වයක්.
-
-ඔවුන් හැරෙන්න වෙනත් කිසිදු ආසියානුවෙකුට මෙම ඉසව්වේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට නොහැකි විය.
-
-මෙම තරගය සඳහා ක්‍රීඩකයන් 37 දෙනෙකු තරග වැඳුණු අතර, ඔවුන් අතරින් මීටර 81.86ක දක්ෂාවක් දැක් වූ සුමේද රණසිංහට 15වන ස්ථානය හිමිවිය.
-
-◼️
-
-[Data](articles/a899e5f6.json)
-
----
-
-### பூமியை விட்டு விலகிச் செல்லும் சந்திரன்
-
-*2025-09-17 18:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூமியை-விட்டு-விலகிச்-செல்லும்-சந்திரன்/175-364793) · `ta`
-
-சந்திரன் ஆண்டுக்கு 1.5 அங்குலம் வீதம் பூமியிலிருந்து விலகிச் செல்கிறது. இதனால் நாட்கள் 25 மணிநேரம் நீடிக்கக்கூடும் என்று விஞ்ஞானிகள் எச்சரிக்கின்றனர்.
-
-மிச்சிகன் மாநில பல்கலைக்கழகத்தின் இயற்பியல் மற்றும் வானியல் ஆராய்ச்சியாளரான டாக்டர் ஸ்டீபன் டைகெர்பி, சந்திரன் ஒவ்வொரு ஆண்டும் நமது கிரகத்திலிருந்து 1.5 அங்குலம் (3.8 செ.மீ) மேலும் விலகிச் செல்கிறது எனக் கூறியுள்ளார்.
-
-இதன் விளைவாக, பூமியின் சுழற்சியும் குறைந்து வருவதாக அவர் வெளிப்படுத்தினார். இந்நிகழ்வு தொடரும்போது நாட்கள் நீளமாகும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
-
-சந்திரன் தொடர்ந்து விலகிச் செல்லும்போது, ​​ஒரு நாளில் வினாடிகள், நிமிடங்கள் மற்றும் இறுதியில் மணிநேரங்களின் எண்ணிக்கையும் படிப்படியாக அதிகரிக்கும் – ஆனால் இன்று உயிருடன் இருக்கும் நம்மில் யாரும் அதைக் கவனிக்க வாய்ப்பில்லை என அவர் கூறுகிறார். R
-
-◼️
-
-[Data](articles/b12b41f9.json)
-
----
-
-### පෝලිම්වල මියයාමට සිදු වූවා වැනි අර්බුදයක් නැවත ඇතිවීමට ඉඩක් නෑ - ජනපති
-
-*2025-09-17 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214685) · `si`
-
-ඉන්ධන, ගෑස් නොමැතිව පෝලිම්වල ජනතාවට මියයාමට සිදු වූ ආකාරයේ අර්බුදයක් නැවත ශ්‍රී ලංකාව තුළ ඇති වීමට ඉඩ නොතබන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, කොළොන්නාව ඛනිජ තෙල් ගබඩා සංකීර්ණය තුළ තවත් ඛනිජ තෙල් ටැංකි හයක් ඉදිකිරීමේ කටයුතු  අද (17) ආරම්භ කරමිනි.
-
-කොළොන්නාව ඛනිජ තෙල් ගබඩා සංකීර්ණයේ ඝන මීටර 15,000ක ටැංකි 03ක්, ඝන මීටර 7000ක ටැංකි 02ක් සහ ඝන මීටර 5000ක ටැංකියක් ඇතුළු ගබඩා ටැංකි 06ක ඉදිකිරීමේ කටයුතු මෙසේ ආරම්භ කෙරිණි.
-
-බලශක්ති කේෂ්ත්‍රයේ ස්වාධිපත්‍යය ආරක්ෂා කරමින් ආර්ථික ස්වාධිපත්‍යයක් ළඟා කර ගැනීමට  වත්මන් රජය කටයුතු කරමින් සිටින බව ප්‍රකාශ කළ ජනාධිපතිවරයා එම ප්‍රගතිශිලී පරිවර්තනය වෙනුවෙන් සියලු ජනතා‍වගේ සහයෝගය ඉල්ලා සිටියේය.
-
-...
-
-[Data](articles/575e622a.json)
-
----
 
 ### The wishes of T20 rating forward
 
@@ -136,22 +80,6 @@ They added that the government had failed to respond to the 28 -point letter, ur
 
 ---
 
-### தண்டிக்கப்படாத இலங்கையின் கடந்தகால மீறல்கள் காஸாவில் நிகழும் இன்றைய மீறல்களுக்கான முன்னோடி - மனித உரிமைகள் கண்காணிப்பகம்
-
-*2025-09-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225361) · `ta`
-
-இலங்கையில் 16 வருடங்களுக்கு முன்னர் நிகழ்ந்து, இன்னமும் தண்டிக்கப்படாமல் உள்ள இச்சம்பவங்கள், இன்றளவிலே காஸாவில் நிகழ்த்தப்படும் மீறல்களுக்கும், அங்கு பிரயோகிக்கப்படும் உத்திகளுக்குமான முன்னோடியாக உள்ளன.
-
-இத்தகைய பின்னணியில் ஐ.நா மனித உரிமைகள் பேரவையில் நிறைவேற்றப்பட்ட தீர்மானத்தின் ஊடாக முன்னெடுக்கப்பட்டுவரும் இலங்கை தொடர்பான பொறுப்புக்கூறல் செயற்திட்டம் இன்றியமையாததாகும். அது இலங்கையில் மனித உரிமைகளைப் பாதுகாப்பதற்கு மாத்திரமன்றி, உலகெங்கிலும் தொடரும் தண்டனைகளிலிருந்து விடுபடும் போக்கை சவாலுக்கு உட்படுத்துவதற்கு மிக அவசியம் என மனித உரிமைகள் கண்காணிப்பகத்தின் ஆசியப்பிராந்திய பிரதிப்பணிப்பாளர் மீனாக்ஷி கங்குலி வலியுறுத்தியுள்ளார்.
-
-உலகளாவிய ரீதியில் மக்களை அதிர்ச்சிக்கு உள்ளாக்கிய பல அட்டூழியங்கள் குறித்த ஞாபகங்கள், சில வருடங்களில் வேறு புதிய மீறல் சம்பவங்களால் மாற்றி எழுதப்படும். ஆனால் மீறல்களால் பாதிக்கப்பட்டவர்களுக்கும், அவர்களது குடும்பத்தினருக்கும் அதனால் ஏற்பட்ட துயரம் என்பது முடிவற்றதாகும். தீர்வளிக்கப்படாத குற்றங்கள் அதனையொத்த எதிர்கால மீறல்களுக்கான முன்மாதிரியாகத் திகழ்கின்றன.
-
-...
-
-[Data](articles/451853a7.json)
-
----
-
 ### Removes the prohibition imposed by the UNP
 
 *2025-09-17 18:02:26* · [`adalk`](https://www.ada.lk/breaking_news/එජාපයෙන්-සජබයට-ගිය-අයට-පැනවූ-තහනම්-ඉවත්-කරයි/11-418565) · `si`
@@ -165,28 +93,6 @@ The UNP Working Committee has decided to meet with United News Leader Ranil Wick
 [Data](articles/753d559f.json)
 
 [Extended Data](ext_articles/753d559f.ext.json)
-
----
-
-### ‘Clear Quartz’ illegally exported from Sri Lanka, COPE inquiry finds
-
-*2025-09-17 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112617/clear-quartz-illegally-exported-from-sri-lanka-cope-inquiry-finds) · `en`
-
-Stocks of ‘Clear Quartz’ is being illegally exported along with Quartz, according to a finding revealed during an inquiry conducted by the Committee on Public Enterprises (COPE).
-
-This was disclosed during a meeting of the COPE held under the chairmanship of Parliamentarian Dr. Nishantha Samaraweera in Parliament.
-
-During the meeting extended attention was drawn to the issue of Quartz exports.
-
-It was discussed that ‘Clear Quartz’ is being illegally exported along with Quartz, and that certain insiders within the Geological Survey & Mines Bureau appear to be supporting it.
-
-The COPE pointed out that a mechanism should be established to hand over the export of Clear Quartz to the National Gem and Jewellery Authority and to allow only other Quartz to be legally exported.
-
-Meanwhile, it has been revealed that the government has lost a large sum in revenue owing to the failure of the Geological Survey & Mines Bureau to properly charge the state royalty after issuing a mining license.
-
-...
-
-[Data](articles/29f0e66d.json)
 
 ---
 
@@ -250,11 +156,7 @@ Jeevan Thondaman said that I was grateful for the support given by Sri Ravi Shan
 
 *2025-09-17 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112616/kerawalapitiya-sobadhanavi-lng-power-plant-connected-to-the-national-grid-) · `en`
 
-The ‘Sobadhanavi’ 350 MW LNG Power Plant in Kerawalapitiya was connected to the national grid a short while ago.
-
-Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody ceremonially connected the plant to the national grid.
-
-The first phase of the LNG Power Plant was commissioned on August 28, 2024.
+Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody have ceremonially connected the ‘Sobadhanavi’ 350 MW LNG Power Plant at Kerawalapitiya with the national grid a short while ago.
 
 ◼️
 
@@ -321,24 +223,6 @@ Dr. Nishantha Samaraweera was the Chairman of the Committee to check on the Audi
 [Data](articles/09a09dd2.json)
 
 [Extended Data](ext_articles/09a09dd2.ext.json)
-
----
-
-### Special insurance scheme introduced for commercial ginger and turmeric cultivation
-
-*2025-09-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112614/special-insurance-scheme-introduced-for-commercial-ginger-and-turmeric-cultivation) · `en`
-
-A special insurance scheme for ginger and turmeric cultivation intended for commercial purposes and export markets has been introduced by the Agriculture and Agrarian Insurance Board.
-
-Chairman Pemasiri Jasinghe Arachchi stated that farmers cultivating ginger will be eligible to obtain insurance coverage of up to Rs. 200,000 per acre.
-
-By paying a 7% insurance premium, farmers will receive coverage against natural disasters, crop diseases, pest infestations and damage caused by wild elephants, he further noted.
-
-Additionally, for turmeric cultivation, farmers will be able to obtain insurance coverage of up to Rs. 700,000 per acre under this scheme.
-
-◼️
-
-[Data](articles/4b44e92c.json)
 
 ---
 
@@ -1106,17 +990,11 @@ The team, which came to court for trial, was not allowed to enter the court prem
 
 *2025-09-17 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112607/backhoe-saman-thembili-lahiru-to-be-detained-till-dec-2-for-further-questioning) · `en`
 
-The Walasmulla Magistrate’s Court today (17) granted permission to police to detain underworld figures ‘Backhoe Saman’ and ‘Thambili Lahiru’, until December 2 in order to conduct further investigations related to the murder of Anura Vidanagamage, also known as ‘Kajja’.
+The Walasmulla Magistrate’s Court today (17) granted permission to police to detain “Backhoe Saman” and “Thambili Lahiru” until December 2 in order to conduct further investigations related to the murder of ‘Anura Vidanagamage, also known as ‘Kajja’.
 
-Five individuals, including organized crime gang members ‘Kehelbaddara Padme’, ‘Backhoe Saman’ and ‘Thambili Lahiru’, were recently arrested in Indonesia and extradited to Sri Lanka.
+The duo, identified as prominent underworld gang members, were recently arrested in Indonesia and brought back to Sri Lanka.
 
-The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
-
-Accordingly, ‘Backhoe Saman’ and ‘Thambili Lahiru’ were produced before the Walasmulla Magistrate’s Court today.
-
-Court granted permission to detain the duo until December 2 for further questioning regarding their alleged involvement in orchestrating the murder of Anura Vidanagamage and his two children.
-
-...
+◼️
 
 [Data](articles/0339b829.json)
 
@@ -2045,5 +1923,131 @@ Information from the ICC to the Pakistani Grick Gate is that the Anti Fifty Rapt
 [Data](articles/d07daaae.json)
 
 [Extended Data](ext_articles/d07daaae.ext.json)
+
+---
+
+### Nagabh
+
+*2025-09-17 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்த-நாகபாம்பு/175-364745) · `ta`
+
+A cobra was found near the Transport Office of the Parliamentary Complex, which caused a stir last week.
+
+Rohitha Padmasiri, the Assistant Director of Parliament (Finance), first saw the Nagapakkam.
+
+He was on duty that evening and immediately informed parliamentary security officials.
+
+According to parliamentary sources, security officers who arrived there caught the snake and took them to the forest.
+
+It has been a long time since the forest surrounding the Diyawannawa reservoir has entered the parliamentary complex, including a variety of nagab snakes and snakes.. Earlier, security officials caught up with many snakes entered the parliamentary complex and threw it to the forest.
+
+◼️
+
+[Data](articles/1cfa43d4.json)
+
+[Extended Data](ext_articles/1cfa43d4.ext.json)
+
+---
+
+### Action judgment to a 13 -year -old daughter
+
+*2025-09-17 10:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மகளை-வன்புணர்ந்த-தந்தைக்கு-அதிரடி-தீர்ப்பு/175-364744) · `ta`
+
+Kiliyapitiya Magistrate Mihil Sirantha Chatarsinghe on Monday (15) ordered the father of the girl who allegedly abused a 13 -year -old and 8 -month -old girl to be remanded until the 22nd of this month.
+
+The officer who lives in the Pokoda Cultural Center in Kuliyapitiya has been placed in the interrogation of Hasitha Nuwan.
+
+The girl's mother is abroad, the girl's elder sister stayed in a convent in Marawila area due to work. Following an investigation into the telephone call, the court said that the suspect's father was arrested after being taken to several places and was arrested.
+
+The police said that the girl's father and her boyfriend in Senanigama area were abused and the same had been done in the Hettipola and Bingiriya police divisions.
+
+Police said the father had committed the first crime after she left the house with her husband with her older sister who was working from home and locked the door.
+
+...
+
+[Data](articles/4e901385.json)
+
+[Extended Data](ext_articles/4e901385.ext.json)
+
+---
+
+### Thulci Aluwihare, Sharmini Ratwatte appointed to Bank of Ceylon board
+
+*2025-09-17 10:38:00* · [`economynextcom`](https://economynext.com/thulci-aluwihare-sharmini-ratwatte-appointed-to-bank-of-ceylon-board-240879/) · `en`
+
+ECONOMYNEXT – Thulci Aluwihare and Sharmini Ratwatte have been appointed as directors to the board of Sri Lanka’s state owned Bank of Ceylon, a stock exchange filing said.
+
+The profiles of the two independent, non-executive directors, as provided by the bank, are reproduced below:
+
+An experienced business strategist and an Investment professional with International experience in corporate wealth creation, specialised in investment strategy, transaction advisory, divestiture, capital raising and restructuring. +2S years of work experience in London, Melbourne and Colombo.
+
+...
+
+[Data](articles/7a11641a.json)
+
+[Extended Data](ext_articles/7a11641a.ext.json)
+
+---
+
+### Solid mist to central hills
+
+*2025-09-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214665) · `si`
+
+The catchment areas in the western slopes of the central highlands have been interrupted by heavy rains and solid murd.
+
+The thick mist is in Hatton-Colombo main roads and by roads, Ada Derana reporter said.
+
+Drivers from drivers of the traffic officers of the Hatton Police call on the front of the front lamps of the vehicles and to take care of the front lamps of the vehicles.
+
+◼️
+
+[Data](articles/a3850ec5.json)
+
+[Extended Data](ext_articles/a3850ec5.ext.json)
+
+---
+
+### Man arrested for fear of a firearm
+
+*2025-09-17 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214664) · `si`
+
+A person was arrested in Kirilagahawatte area in Kirilagahawatta area.
+
+A 49-year-old woman was injured and admitted to Kahathuduwa Watara.
+
+The suspect has also seized a hand grenade and a malage in the country.
+
+Further, the suspect behaved the threat to the arrest of the suspect and shooting the police.
+
+The extortion has been made to find money to drink the drug.
+
+The man had previously arrested four people to a sharp weapons and imprisoned as a punishment.
+
+The suspect, 32, is to be produced before the Kesbewa Magistrate's Court.
+
+◼️
+
+[Data](articles/077bdd23.json)
+
+[Extended Data](ext_articles/077bdd23.ext.json)
+
+---
+
+### Incomplete judgment in Wakpu case: Muslim Lims dissatisfied
+
+*2025-09-17 10:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வக்பு-வழக்கில்-முழுமையற்ற-தீர்ப்பு-முஸ்-லிம்-கள்-அதிருப்தி/175-364742) · `ta`
+
+Wakpu Thiru Dutt Chat Dum, Cancel 2025 as a full ink.. The Supreme Court has stopped some of the rules of the Thiruttu Sutt Dutt, but the decision of the Muz Lims' Mukhti Muhammad (AIM) Law (AIM PLP) National Real Estate (AIM PLP)
+
+The Muslim community, the Muz Lim, the individual law and the rules of the kingdom of the state will be banned from all sections of the law.. Partial Relief is also satisfied with this verdict and the entire state of affairs.. The Muslim community is not in the process of a full -scale ban on all sections of the queen.
+
+Cancellation of Wakpu Ang Key. This is the straightforward ink of the Wakpu standing forest in the entirety of the. Therefore. He is the only ones who know.
+
+Meanwhile, the AIM PLP has said that the Wakpu Backup Problem will continue to be held from September 1. This includes the mark of the protests, the rally, the rally, the gallows and the rituals between the religious and the religions.
+
+◼️
+
+[Data](articles/d16796b6.json)
+
+[Extended Data](ext_articles/d16796b6.ext.json)
 
 ---

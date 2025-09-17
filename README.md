@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 16:54:32**
+As of **2025-09-17 17:20:14**
 
 ## Newspaper Stats
 
-*Scraped **76,540** Articles*
+*Scraped **76,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,107 @@ economynextcom | 4,630
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,435
+adalk | 7,436
 adaderanalk | 9,871
-tamilmirrorlk | 11,478
+tamilmirrorlk | 11,480
 virakesarilk | 12,460
-adaderanasinhalalk | 13,353
+adaderanasinhalalk | 13,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,752 (96.4%) of 76,540 articles have been extended.
+73,760 (96.4%) of 76,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### சம்பத் மனம்பேரிக்கு தடுப்புக்காவல்
+### රජයට අහිමි වූ තවත් කෝටි ගණනක පාඩුවක් කෝප් කමිටුවේ දී හෙළිවෙයි
+
+*2025-09-17 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214682) · `si`
+
+භූ විද්‍යා සමීක්ෂණ හා පතල් කැණීම් කාර්යාංශය රාජ්‍ය භාගය නිසි පරිදි අයකර නොගැනීම නිසා රජයට විශාල මුදලක් අහිමි වී ඇති බව පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී (කෝප් කමිටුව) අනාවරණය වී ඇත.
+
+ගල්කොරි සඳහා නිකුත් කරන පුපුරණ ද්‍රව්‍ය ප්‍රමාණය අනුව රාජ්‍ය භාගය ගණනය කිරීම කොතරම් සාධාරණද...? දැයි මෙහිදී කෝප් කමිටුව ප්‍රශ්න කර තිබේ.
+
+එමෙන්ම ගවේෂණ බලපත්‍ර නිකුත් කිරීමේ ගැටලු පිළිබඳව මෙන්ම තිරිවානා සහ පළිඟු අපනයනයට අදාළ අක්‍රමිකතා පිළිබඳවද අවධානයට ලක්ව ඇත.
+
+ඒ අනුව නිසි යාන්ත්‍රණයක් සකස් කර පනත සංශෝධනය කිරීමට කෝප් කමිටුව දැනුම් දී තිබේ.
+
+භූ විද්‍යා සමීක්ෂණ හා පතල් කැණීම් කාර්යාංශයේ 2022 හා 2023 වර්ෂවල විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පිළිබඳ පරීක්ෂා කිරීමට වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතීත්වයෙන් පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව පසුගියදා (12) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී මේ පිළිබඳ කරුණු අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/09a09dd2.json)
+
+---
+
+### Happy news to people living in Colombo
+
+*2025-09-17 16:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வாழ்-மக்களுக்கு-மகிழ்ச்சியான-செய்தி/175-364782) · `ta`
+
+The National Water Supply and Drainage Board (NWSDB) today announced that the 9 -hour waterfall, which was scheduled to be carried out in Colombo on Thursday (18).
+
+The water cut was planned from 10:00 am to 7:00 pm.
+
+It was announced that the water cut would be implemented from Colombo 01 to Colombo 15.
+
+Not only in Colombo but also in Colombo, Battaramulla, Belawatte, Hoganda, Koswatte, Talawatugoda, Kotte, Rajagiriya, Mirihana, Madiwale, Nugegoda, Navala, Kolonnawa, ITH, Kotikawatta, Angoda, Vellampitiya It was also announced that the waterway will be implemented in Moratuwa areas. The announcement has also been canceled.
+
+◼️
+
+[Data](articles/592967b7.json)
+
+[Extended Data](ext_articles/592967b7.ext.json)
+
+---
+
+### Prevention of Sampath Manamber
 
 *2025-09-17 16:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-தடுப்புக்காவல்/175-364781) · `ta`
 
-மித்தெனிய பகுதியில் "ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு இரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் தேடப்பட்டு வந்த சம்பத் மனம்பேரி வலஸ்முல்ல நீதவான் நீதிமன்றத்தில் இன்று (17) சரணடைந்தார்.
+Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
 
-அவரை எதிர்வரும் 24 ஆம் திகதி வரை தடுப்புகாவலில் வைத்து விசாரணைக்கு உட்படுத்துவதற்கு நீதிமன்றம் அனுமதியளித்துள்ளது.
+The court has given him permission to investigate him until the 24th of this month.
 
 ◼️
 
 [Data](articles/06ef553a.json)
 
+[Extended Data](ext_articles/06ef553a.ext.json)
+
 ---
 
-### பறந்தார் ஆனந்த: பதில் அமைச்சரானார் வட்டகல
+### Ananda: Vatagala became Minister
 
 *2025-09-17 16:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தார்-ஆனந்த-பதில்-அமைச்சரானார்-வட்டகல/175-364780) · `ta`
 
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சராகப் பணியாற்றுவதற்காக பிரதி அமைச்சர் சட்டத்தரணி சுனில் வட்டகலவை ஜனாதிபதி அனுர குமார திசாநாயக்க நியமித்தார்.
+President Anura Kumara Dissanayake has appointed Deputy Minister Sunil Vatagala to serve as Minister of Public Safety and Parliamentary Affairs.
 
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற விவகார அமைச்சர் ஆனந்த விஜேபால சீனாவில் ஒரு மாநாட்டில் கலந்து கொள்ளச் சென்றதால் இந்த நியமனம் வழங்கப்பட்டது.
+The appointment was granted as Public Security and Parliamentary Affairs Minister Ananda Wijebala attended a conference in China.
 
-ஆனந்த விஜேபாலவுடன் பொலிஸ் மா அதிபரும் இந்த மாநாட்டில் கலந்து கொள்ளச் சென்றுள்ளார்.
+The Inspector General of Police has also attended the conference with Ananda Wijebala.
 
 ◼️
 
 [Data](articles/a57776a4.json)
 
+[Extended Data](ext_articles/a57776a4.ext.json)
+
 ---
 
-### සම්පත් මනම්පේරිව දින 7ක් රඳවා ප්‍රශ්න කිරීමට අවසර
+### Resource Mamanampara is allowed to interfere with seven days
 
 *2025-09-17 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214681) · `si`
 
-අත්අඩංගුවට ගැනීමට සොයමින් සිටියදී අද (17) දහවල් අධිකරණයට භාර වූ සම්පත් මනම්පේරි නමැත්තා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය භාරයේ දින 07ක කාලයක් රඳවා ප්‍රශ්න කිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් මල්ෂා කොඩිතුවක්කු මෙනෙවිය නියෝග කර ඇත.
+Sampath Manamperi, who was in charge of the court today (17), has been given permission to interfere with seven days in the custody of the Police Narcotics Bureau.
 
 ◼️
 
 [Data](articles/49562747.json)
+
+[Extended Data](ext_articles/49562747.ext.json)
 
 ---
 
@@ -430,6 +476,22 @@ If Pakistan had decided to quit the match, the move would have been a $ 16 milli
 
 ---
 
+### The National Building Research Institute is more powerful
+
+*2025-09-17 14:52:23* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ගොඩනැගිලි-පර්යේෂණ-ආයතනයට-වැඩි-බලයක්/11-418556) · `si`
+
+Second of the National Building Research Research Institutes of Parliament to read and approve the second second term in Parliament approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.. The committee met with MP Nagith Indika in Parliament recently.
+
+Although the National Building Research Organization has been implemented since 1984, the institute has not yet been established by a parliamentary act, the National Building Research Organization is expected to be properly transferred to the National Building Research Organization.. If the proposed bill will not be properly issued by the organization on landslides, the proposed Bill will not be properly adopted by the proposed Bill, legal action will be taken against the Committee.
+
+...
+
+[Data](articles/f9cb3a18.json)
+
+[Extended Data](ext_articles/f9cb3a18.ext.json)
+
+---
+
 ### “Some MPs have gone to the homes of the culprits and get the money”
 
 *2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
@@ -470,21 +532,23 @@ Accordingly, the construction of the section from Pothuhera to Rambukkana is pla
 
 ---
 
-### වැඩිම රිලව් ගහණයක් ඉන්නේ මහනුවරයි
+### The highest relief population is the waters
 
 *2025-09-17 14:28:39* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-රිලව්-ගහණයක්-ඉන්නේ-මහනුවරයි/11-418555) · `si`
 
-වැඩිම රිලා ගහණයක් ඇත්තේ මහනුවර දිස්ත්‍රික්කයේ බව පසුගිය කාලයේ කළ සංගණනයෙන් තහවුරු වූ බවත්
+The largest bail of Rila has been established by the recent census that he has previously been admitted to the Kandy district.
 
-ඉන් අනතුරුව කෑගල්ල, කුරුණෑගල හා අනුරාධපුර නගර පවතින බවත් කෘෂිකර්ම අමාත්‍ය ලාල් කාන්ත මහතා පැවැසීය.
+Minister of Agriculture Lal Kantha said that there were Kegalle, Kurunegala and Anuradhapura.
 
-"අපේ රටේ වනජීවී කළමනාකරණය කියලා මාතෘකාවක නෑ. වනජීවී කළමනාකරණය කරන්න නම් වනජිව් ගැන සංඛ්‍යාවක්  තියෙන්න ඕන. ඒ සංගනණය තමයි අපි ක‍ළේ. රිලා ප්‍රශ්ණය ගත්තොත් මහනුවර දිස්ත්‍රික්කයේ තමයි වැඩිම රිලා ගණනයක් ඉන්නේ කියලා ඒ සංගණනයන් තහවුරු වුණේ. මහනුවර, කෑගල්ල, කුරුණෑගල අනුරාධපුර කියලා තමයි දත්තයක් ආවේ.
+"There is no title that" wealth management in our country. There should be a number of Wildlife to manage wildlife. That was the census that we did. The census confirmed that if the Rila issue, the highest calculation in the Kandy district. A data was the case, Kandy, Kegalle and Kurunegala.
 
-මේ සංගණනය නිසා තමයි එහෙම දත්තයක් ආවේ. මේ සම්බන්ධයෙන් ජනපති ලේකම් කාර්යාලයේ වැඩසටනහක් ක්‍රියාත්මක වෙමින් යනවා. ප්‍රථිඵල එන්නේ යම් කාලයක් සමගයි."
+This is due to this census that. Presidential Secretariat is being implemented in this regard. The results come with a time. "
 
 ◼️
 
 [Data](articles/0477ce2b.json)
+
+[Extended Data](ext_articles/0477ce2b.ext.json)
 
 ---
 
@@ -917,6 +981,26 @@ Accordingly, there are poor infrastructure deficits for the Jaffna University's 
 [Data](articles/1f08f840.json)
 
 [Extended Data](ext_articles/1f08f840.ext.json)
+
+---
+
+### யாழ்.பல்கலைக்கழகத்திற்கு  ஐந்து மாடி கட்டிடம்
+
+*2025-09-17 12:43:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்திற்கு-ஐந்து-மாடி-கட்டிடம்/175-364761) · `ta`
+
+யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீடத்திற்கு நவீன வசதிகளுடன் கூடிய ஐந்து மாடி கட்டிடமொன்றை நிர்மாணிக்க அமைச்சரவை ஒப்புதல் வழங்கியுள்ளது.
+
+ஜனாதிபதி அனுர குமார திஸாநாயக்க தலைமையில்செவ்வாய்க்கிழமை (16) அன்று கூடிய அமைச்சரவை கூட்டத்தில் குறித்த யோசனைக்கு அமைச்சரவை ஒப்புதல் வழங்கியது.
+
+2006 ஆம் ஆண்டில் அரச பல்கலைக்கழகங்களில் இணைந்த சுகாதார விஞ்ஞானம் தொடர்பாக பட்டப்படிப்புக்கள் அடையாளங் காணப்பட்டுள்ளதுடன், யாழ்ப்பாண பல்கலைக்கழகத்தின் மருத்துவ ஆய்வுகூட விஞ்ஞானம், மருந்து வேதியல் மற்றும் தாதியம் தொடர்பான துறைகளில் மூன்று விஞ்ஞானமானி பட்டப்படிப்புக்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+தற்போது யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீடத்தில் அனைத்து இனத்தவர்களையும் பிரதிநிதித்துவப்படுத்தி நான்கு பாடத்துறைகளில் 952 மாணவர்கள் கற்கைகளில் ஈடுபடுகின்றனர்.
+
+2017 ஆம் ஆண்டில் இணைந்த சுகாதார விஞ்ஞான பீடத்திற்கான கட்டிடத்தை நிர்மாணிப்பதற்கு அமைச்சரவை அங்கீகாரம் கிடைத்திருப்பினும், நிலவிய நிதி நெருக்கடிகளால் அதற்கான நிதி ஒதுக்கப்படவில்லை.
+
+...
+
+[Data](articles/918ceb22.json)
 
 ---
 
@@ -1935,95 +2019,5 @@ The President of the University of Technical Officers Association said that this
 [Data](articles/82868217.json)
 
 [Extended Data](ext_articles/82868217.ext.json)
-
----
-
-### The resolution taken on the homes of former presidents
-
-*2025-09-17 08:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-இல்லங்கள்-குறித்து-எடுக்கப்பட்ட-தீர்மானம்/175-364733) · `ta`
-
-Cabinet Spokesperson Minister Nalinda Jayatissa said yesterday that the official homes of the former presidents will be used economically.
-
-They have lived in official homes for more than 30 years from the day he took office in 1994.
-
-But all of them have houses in Colombo. They are addicted to live in hereditary hereditary. People have given us a decree to change this political culture.
-
-Privacy for the present President has been removed under this public law passed by us. People understand this.
-
-Former President Chandrika Bandaranaike Kumaratunga has sought time to leave the house through a law firm. Some people did not hand over the goods even though they were out of the house.
-
-After they are completely out, they will be taken care of how to use the homes as a beneficial. They will be used to benefit economically, predicting their value and market value.
-
-...
-
-[Data](articles/a808cc30.json)
-
-[Extended Data](ext_articles/a808cc30.ext.json)
-
----
-
-### India - USA intense talk in Delhi
-
-*2025-09-17 07:57:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-அமெரிக்கா-டில்லியில்-தீவிர-பேச்சு/175-364732) · `ta`
-
-Bilateral trade contract talks between India and US resumed in Delhi yesterday.
-
-A team led by the Central Commerce Department held talks with a group led by US Trade Representative Brendon Lynch.
-
-The Ministry of Commerce said it was creative. The next round of negotiations will be held soon. (A)
-
-◼️
-
-[Data](articles/dd6209b2.json)
-
-[Extended Data](ext_articles/dd6209b2.ext.json)
-
----
-
-### 7 killed in seven year kills girl
-
-*2025-09-17 07:46:07* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරු-7කින්-අවුරුදු-3ක-කුඩා-දැරියක්-ඇතුළු-7ක්-මරුට/11-418546) · `si`
-
-Seven and 7 have died in a seventeen road accidents in various areas of the island yesterday.
-
-The victim was killed in a murder in a mix of 33 years in Navadu Ten to govern the motorcycle board in Nakukkan-Murukkan - Murukkan-Murukkan.
-
-The victim was killed in 36-year-old Liyanagama, 36 years of cyclist near Embilipitiya town near Embilipitiya town.. The driver of the van was once crashed into a three-wheeler and attempted to flee and handed over to the police.
-
-Nochchiyagama - Nochchiyawa Poultry on a lorry
-
-A resident of a 60 year old resident of the motorcycle was killed.
-
-Peliyagoda Rohana Viharaya in Peliyagoda-Colombo road sources to the pedestrian shift
-
-Patiyiya Junction, 3 days of collision with a motorcycle and car
-
-A small girl residing has died. Another child who was traveling on the three-wheeler, their mother, three-wheeler driver and three-wheeler driver and another.
-
-A 63-year-old resident of the three-wheeler resident of the Kandagamuwa Dickwella road in Matara.
-
-...
-
-[Data](articles/30caadbe.json)
-
-[Extended Data](ext_articles/30caadbe.ext.json)
-
----
-
-### Rain in some parts of the country
-
-*2025-09-17 07:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-மழை/175-364731) · `ta`
-
-The Department of Meteorology has forecast rainfall in the Western, Sabaragamuwa, Central, North Western and Galle and Matara districts.
-
-Rainfall or thunderstorms will occur in other areas after 1.00 pm.
-
-It has been reported that some parts of the country are likely to experience more than 50 millimeters. (A)
-
-◼️
-
-[Data](articles/153039d9.json)
-
-[Extended Data](ext_articles/153039d9.ext.json)
 
 ---

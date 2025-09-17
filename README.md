@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 22:10:35**
+As of **2025-09-17 22:22:13**
 
 ## Newspaper Stats
 
-*Scraped **76,586** Articles*
+*Scraped **76,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 7,443
 adaderanalk | 9,879
 tamilmirrorlk | 11,491
 virakesarilk | 12,462
-adaderanasinhalalk | 13,361
+adaderanasinhalalk | 13,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,827 (96.4%) of 76,586 articles have been extended.
+73,827 (96.4%) of 76,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### හෙරොයින් සමග චීවරධාරියෙකු අත්අඩංගුවට
+
+*2025-09-17 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214690) · `si`
+
+හෙරොයින් ළඟ තබාගෙන සිටි චීවරධාරියෙකු ඇතුළු පුද්ගලයින් තිදෙනෙකු මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශය විසින් ඊයේ (16) රාත්‍රියේ අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අලව්ව පොලිස් වසමේ විහාරස්ථානක වැඩ විසූ වයස අවුරුදු 38ක චීවරධාරියෙකු බව පොලීසිය පැවසීය.
+
+පොලීසිය විසින් එම චීවරධාරියා අත්අඩංගුවට ගන්න විට හෙරොයින් ග්‍රෑම් 10යි මිලිග්‍රැම් 300ක් සන්තකයේ තිබී ඇත.
+
+එමෙන්ම අත්අඩංගුවට ගත් අනෙක් සැකකරුවන් දෙදෙනා වයස අවුරුදු 29 හා 31 වියෙහි පසුවන්නන් වන අතර, ඔවුන් සතුවද හෙරොයින් ග්‍රෑම් 17ක් තිබී ඇත.
+
+අත්අංගුවට ගත් තිදෙනා අද (17) පොල්හවෙල අධිකරණය වෙත ඉදිරිපත්කළ අතර, එහිදී දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට පොලීසියට අවසර දී තිබේ.
+
+මෙම සැකකරුවන් මිනුවන්ගොඩ නේවි දිනේෂ් නමැත්තාගේ මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ බවට තොරතුරු වාර්තා වේ.
+
+◼️
+
+[Data](articles/6350b4e6.json)
+
+---
 
 ### පාසල් දිනවලදී ඛනිජ ප්‍රවාහනය සම්බන්ධයෙන් පැනවූ කොන්දේසි වෙනස්වෙයි
 
@@ -2023,25 +2045,5 @@ Currently its rehabilitation work has been started. There is only one service ce
 [Data](articles/51080904.json)
 
 [Extended Data](ext_articles/51080904.ext.json)
-
----
-
-### The father of the neighbor of the boy arrested the boy
-
-*2025-09-17 11:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-வன்புணர்ந்த-பக்கத்து-வீட்டு-தந்தை-கைது/76-364755) · `ta`
-
-A foreign housekeeper has been arrested on Tuesday (16) for allegedly sexually abusing a 11 -year -old boy from Kitulkottai area of ​​the Moneragala and Tanamalwila police division.
-
-The boy has informed his teacher about the incident and the teacher has been informed by the police station.
-
-According to the police, the suspect has been sexually abused by the suspect on several occasions, keeping the boy's house and keeping the boy's house.
-
-Steps have been taken to produce the suspect in the Wellawaya Court and the victim has been admitted to the Thanamalwila Divisional Hospital for medical examination.
-
-◼️
-
-[Data](articles/e91f47f2.json)
-
-[Extended Data](ext_articles/e91f47f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 09:11:22**
+As of **2025-09-17 09:57:08**
 
 ## Newspaper Stats
 
-*Scraped **76,442** Articles*
+*Scraped **76,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 4,628
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,423
-adaderanalk | 9,854
-tamilmirrorlk | 11,441
-virakesarilk | 12,453
+adalk | 7,424
+adaderanalk | 9,856
+tamilmirrorlk | 11,442
+virakesarilk | 12,454
 adaderanasinhalalk | 13,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,616 (96.3%) of 76,442 articles have been extended.
+73,623 (96.3%) of 76,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### பதில் பொலிஸ் மாஅதிபராக லலித் பத்திநாயக்க நியமனம்
+
+*2025-09-17 09:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்-மாஅதிபராக-லலித்-பத்திநாயக்க-நியமனம்/175-364736) · `ta`
+
+பதில் பொலிஸ் மாஅதிபராக சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர் லலித் பத்திநாயக்க நியமிக்கப்பட்டுள்ளார்.
+
+சீனாவில் நடைபெறும் பொலிஸ் மாநாட்டில் கலந்து கொள்வதற்காக பொலிஸ் மாஅதிபர் பிரியந்த வீரசூரிய, நாட்டை விட்டு வெளியேறியுள்ள நிலையிலேயே இவர் தற்காலிகமாக நியமிக்கப்பட்டுள்ளார்.
+
+இதனடிப்படையில், சிரேஸ்ட பிரதிப் பொலிஸ் மா அதிபர் லலித் பத்திநாயக்க, மத்திய மாகாணம் மற்றும் பொலிஸ் நிர்வாகப் பிரிவுக்குக்கு பொறுப்பாக செயற்படுவதோடு,முன்னதாக நான்கு சந்தர்ப்பங்களில் இவர் பதில் பொலிஸ் மாஅதிபராக பணியாற்றியுள்ளார் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7f928f7d.json)
+
+---
+
+### இந்தியாவின் உத்தரகாண்ட் மாநிலத்தில் கடும்மழை ; 15 பேர் உயிரிழப்பு
+
+*2025-09-17 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225278) · `ta`
+
+இந்தியாவின் உத்தரகாண்ட் மாநிலத்தில், டேராடூன் நகர் மற்றும் அருகேயுள்ள இடங்களில் நேற்று செவ்வாய்க்கிழமை (17) காலை திடீரென கடும்மழையும், மேகவெடிப்பும் ஏற்பட்டுள்ளது.
+
+இதனால் 15 பேர் உயிரிழந்துள்ளதோடு, 16 பேர் காணாமல் போயுள்ளனர். மேலும் மலைப்பகுதியின் பல்வேறு இடங்களில் 900 பேர் சிக்கித் தவித்துள்ளனர்.
+
+கார்வால் பகுதியில் பெய்த தொடர் மழையால், வீதிகள், பாலங்கள், ஹோட்டல்கள் மற்றும் கடைகள் என பரவலாக சேதம் அடைந்துள்ளன. பல்வேறு மாவட்டங்களில் வாகன போக்குவரத்தும் தடைபட்டுள்ளது.
+
+டேராடூன் அருகே சஹஸ்திரதரா என்ற புகழ் பெற்ற சுற்றுலா தலத்தில் திடீரென்று மேகவெடிப்பு ஏற்பட்டது. இதனால், கடைகளும், ஹோட்டல்களும் பாதிப்படைந்துள்ளன. கார்லிகட் மற்றும் மஜ்ஜியார் கிராமங்களில் மண்சரிவும் சேர்ந்து ஏற்பட்டதில் பலர் சிக்கி கொண்டுள்ளனர்.
+
+ஆசன் ஆற்றில் கடுமையான வெள்ளப்பெருக்கு ஏற்பட்டதில் உழவு இயந்திரம் நீரில் அடித்து செல்லப்பட்டுள்ளது. இதில் சிக்கி 5 தொழிலாளர்கள் உயிரிழந்துள்ளார்கள். தொழிலாளர்கள் 8 பேர் காணாமல் போயுள்ளனர்.
+
+...
+
+[Data](articles/bc318fc7.json)
+
+---
 
 ### This is how I live: Maithri
 
@@ -55,6 +91,50 @@ He also stressed that the government should see what kind of protection and pres
 [Data](articles/eba08f96.json)
 
 [Extended Data](ext_articles/eba08f96.ext.json)
+
+---
+
+### Heavy rain wreaks havoc in India’s Dehradun; 15 killed in the state, 16 missing
+
+*2025-09-17 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112593/heavy-rain-wreaks-havoc-in-indias-dehradun-15-killed-in-the-state-16-missing) · `en`
+
+Cloudbursts and heavy rains overnight left a trail of destruction in Uttarakhand’s capital Dehradun and several other parts of the state on Tuesday as swollen rivers washed away buildings, roads and bridges, leaving 15 people dead, 16 missing, and 900 stranded in different locations in the hill state.
+
+Of the total fatalities, Dehradun district alone reported 13 and Nainital and Pithoragarh districts one each. Sixteen people are reported missing in different parts of the state capital, the Uttarakhand Disaster Management Authority said.
+
+Three people were also injured in the incidents, it said, adding that they are under treatment.
+
+Search for the missing continued amid inclement weather while NDRF, SDRF and fire brigade personnel brought most of the stranded people to safety, the State Emergency Operation Centre (SEOC) here said.
+
+It said that 900 people stranded in different locations were rescued by the SDRF, NDRF and Fire Brigade personnel.
+
+...
+
+[Data](articles/605c69ab.json)
+
+[Extended Data](ext_articles/605c69ab.ext.json)
+
+---
+
+### Digitalization, SME support & new insurance schemes highlighted in pre-budget talks with banking sector
+
+*2025-09-17 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112592/digitalization-sme-support-new-insurance-schemes-highlighted-in-pre-budget-talks-with-banking-sector) · `en`
+
+A pre-budget discussion on the Banking, Finance and Insurance Sector was held at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+The discussions focused extensively on the support that the banking sector can provide to the government’s programme, led by the President, to achieve the country’s economic growth targets.
+
+Representatives also presented their views and proposals in this regard, according to the President’s Media Division (PMD).
+
+Special emphasis was placed on enhancing efficiency in the banking and financial sector through digitalization, expanding programmes targeting small and medium-sized enterprises and introducing new insurance schemes.
+
+Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando noted that these proposals will receive due consideration in the upcoming budget, the PMD said.
+
+...
+
+[Data](articles/6f01e5eb.json)
+
+[Extended Data](ext_articles/6f01e5eb.ext.json)
 
 ---
 
@@ -181,6 +261,20 @@ It is reported that about 3,050,000 people have left the area in accordance with
 [Data](articles/0aee2511.json)
 
 [Extended Data](ext_articles/0aee2511.ext.json)
+
+---
+
+### මධ්‍යම අධිවේගයේ පළමු කොටසේ වැඩ යළි ආරම්භ ක‍ිර‍ිම අද
+
+*2025-09-17 07:22:07* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පළමු-කොටසේ-වැඩ-යළි-ආරම්භ-ක‍ිර‍ිම-අද/11-418544) · `si`
+
+මධ්‍යම අ‍ධිවේගයේ මාර්ගයේ පළමු කොටස වන කඩවත මීරිගම කොටසේ වැඩ නැවත ආරම්භ කිරීම අද පෙරවරුවේ කඩවතදී සිදු කිරීමට නියමිතය.
+
+ආර්ථික අර්බුදය හේතුවෙන් වැඩ අතරමග නවතා දැමූ මෙම ව්‍යාපෘතියේ වැඩ යළි ආරම්භ කෙරන්නේ චීන එක්සිම් බැංකුව  ලබා දෙන ණය මුදල් හරහායි. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මෙහි ඉදි කිරීම් යළි ආරම්භ කෙරෙයි.
+
+◼️
+
+[Data](articles/033e1392.json)
 
 ---
 
@@ -1923,111 +2017,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/6092ff15.json)
 
 [Extended Data](ext_articles/6092ff15.ext.json)
-
----
-
-### Keheliya and others charged
-
-*2025-09-16 16:36:24* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-ඇතුළු-පිරිසට-අධි-චෝදනා/11-418537) · `si`
-
-Former Minister Keheliya Rambukwella, who has been charged with the allegations of the government's money by purchasing quality antibody vaccines, the three-member High Courts in Colombo.
-
-◼️
-
-[Data](articles/599f38aa.json)
-
-[Extended Data](ext_articles/599f38aa.ext.json)
-
----
-
-### Sri Lanka Cabinet proceeds with casino tax amendment
-
-*2025-09-16 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-proceeds-with-casino-tax-amendment-240775/) · `en`
-
-ECONOMYNEXT – Sri Lanka Cabinet has approved a 2025 budget proposal to increase levy on betting and gaming as well as to double casino entry fee for locals after clearance from the Attorney General, Cabinet Spokesman Nalinda Jayatissa said.
-
-The 2025 budget proposed to increase of the betting gaming levy on the gross total 18 percent from the current 15 percent while raising the tax imposed for Sri Lankans to enter into Casino USD100 from the current 50.
-
-Media and Health Minister Jayatissa said legal Draftsman has drafted a bill to amend Betting Gaming Levy Act to incorporate the proposals.
-
-“Clearance of the Attorney General too has been granted for the draft bill. The Cabinet of Ministers approved the proposal to publish the draft bill in the government’s gazette notification and subsequently to forward it to the Parliament for its approval,” the Minister said.
-
-The Betting and Gaming Levy Act is the core law in Sri Lanka governing taxes on bookmakers and gaming businesses.
-
-...
-
-[Data](articles/1c14edf8.json)
-
-[Extended Data](ext_articles/1c14edf8.ext.json)
-
----
-
-### Japan to give Sri Lanka 963mn yen to improve dairy industry, navy surveillance
-
-*2025-09-16 16:22:00* · [`economynextcom`](https://economynext.com/japan-to-give-sri-lanka-963mn-yen-to-improve-dairy-industry-navy-surveillance-240771/) · `en`
-
-ECONOMYNEXT – Japan will give a 963 million yen grant to develop Sri Lanka’s dairy industry and to improve security services provided by the Sri Lanka Navy, minister Nalinda Jayatissa said.
-
-“The grant, about 1.94 billion rupees, will fund two projects; 463 million yen for the improvement of productivity of the dairy production sector and 500 million yen for the project to assist the official security services of the Navy,” Jayatissa told reporters.
-
-The 463 million yen will provide the required equipment and technological assistance to increase the capacity of the Department of Animal Production and Health.
-
-The 500 million yen will provide drones for the investigation, surveillance, and monitoring activities of the island nation’s Navy under the Official Security Assistance Project.
-
-President Anura Dissanayake will sign the relevant exchange sheets and other documents related to these projects during his visit to Japan, Jayatissa said. (Colombo/Sep16/2025)
-
-◼️
-
-[Data](articles/a0962ef1.json)
-
-[Extended Data](ext_articles/a0962ef1.ext.json)
-
----
-
-### Father remanded his daughter abused
-
-*2025-09-16 16:21:10* · [`adalk`](https://www.ada.lk/breaking_news/තම-දියණිය-අපයෝජනය-කළ-පියා-රිමාන්ඩ්/11-418536) · `si`
-
-Kuliyapitiya Magistrate Mihinna Sathurna, the father of the girl who was abused by the 13-month girl was appointed as abusing a 8 month old girl.
-
-Earlier was remanded, a resident of Kuliyapitiya Cultural Center, a resident of Kuliyapitiya and a resident of Kuliyapitiya.
-
-The suspect had arrested that the father had been arrested following a far matched by the parcer in Marawila and had been abused by the elderly sister of the mother abroad.
-
-The girl had been depressed at the Kuliyapitiya Police Division and that the investigatory reports have been placed in the house where the investigation were taken from the house.
-
-Attorneysi demanding the suspect, lawyers pointed out that the girl had lodged a false complaint as the girl rebuked.
-
-ඉදිරිපත්වූ සියලූ කරුණු කෙරෙහි අවධානය යොමුකළ මහේස්ත‍්‍රාත්වරයා සැකකරුයේ ඇප ඉල්ලීම ප‍්‍රතික්‍ෂේප කරමින් ඉදිරිදිනයේ පරීක්‍ෂණ ප‍්‍රගතිය රැගත් වැඩිදුර වාර්තාවක් ඉදිරි දිනයේ ඉදිරිපත් කරන්නැයි පොලිසියට නියම කළේය.
-
-...
-
-[Data](articles/439b5da7.json)
-
-[Extended Data](ext_articles/439b5da7.ext.json)
-
----
-
-### Angika Rum amend the Sri Lanka Press Council Act
-
-*2025-09-16 16:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பத்திரிகைப்-பேரவைச்-சட்டத்தைத்-திருத்த-அங்கிகா-ரம்/175-364709) · `ta`
-
-The Cabinet approved by President Anura Kumara Dissanayake has been approved by President Anura Kumara Dissanayake to amend the Sri Lanka Press Association No. 05 of 1973.
-
-The idea submitted by Minister of Health and Media Media Nalinda Jayatissa has been approved.
-
-The Sri Lanka Press Act No. 05 of 1973 was not upgraded to the time of contemporary social and cultural tendencies.
-
-With the development of contemporary communication technology, there is a rapid spread of television, website and social media networks, beyond the newspaper and radio.
-
-So, on the lives of the people on the main impacts. Accordingly, after any newspaper news, after sound/broadcasting through any electronic media,
-
-During the inquiry by the press conference, the results of the inquiry, the results of the inquiry, the results of the issue, and the issuance of the Investigation/Recognition of the Investigation, the Electronic Release/Media/Magazines/Magazines/Magazines/Magazines, etc., etc. Provided by the accompanying.
-
-◼️
-
-[Data](articles/cd390edb.json)
-
-[Extended Data](ext_articles/cd390edb.ext.json)
 
 ---

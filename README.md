@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 23:07:02**
+As of **2025-09-17 23:39:56**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,839 (96.4%) of 76,596 articles have been extended.
+73,850 (96.4%) of 76,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
 
-### காசாவில் உள்ள மக்களை உடனடியாக வெளியேறுமாறு உத்தரவு
+### Order to leave the people in Gaza immediately
 
 *2025-09-17 22:44:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-உள்ள-மக்களை-உடனடியாக-வெளியேறுமாறு-உத்தரவு/50-364810) · `ta`
 
-காசா முழுவதும், தீவிர வான்வழி மற்றும் தரைவழி தாக்குதல்களை இஸ்ரேல் மேற்கொண்டு வருகிறது.
+Throughout Gaza, Israel is carrying out intense air and ground attacks.
 
-பிரதமர் பெஞ்சமின் நெதன்யாகு உள்ளிட்ட உயர் அதிகாரிகளின் தூண்டுதலுக்கு அமைய, இஸ்ரேல், காசாவில் இனப்படுகொலை செய்ததாக, ஐக்கிய நாடுகள் சபையின் விசாரணையில் தெரிய வந்த நிலையிலேயே, இந்த தாக்குதல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+The attacks have begun as the United Nations inquiry revealed that Israel's genocide had been murdered in Gaza, in accordance with top officials, including Prime Minister Benjamin Netanyahu.
 
-இந்த நிலையில், இன்று மேற்கொள்ளப்பட்ட தாக்குதல்களில் காசா நகரில் குறைந்தது, 40 பேர் வரை கொல்லப்பட்டுள்ளதாக காசா சுகாதார அதிகாரிகள் தெரிவித்துள்ளதாக சர்வதேச செய்திகள் தெரிவிக்கின்றன.
+International reports say that at least 40 people have been killed in Gaza Nagar in today's attacks, Gaza health officials said.
 
-அத்துடன், நேற்றிரவு நடத்தப்பட்ட குண்டுவீச்சு தாக்குதலில் காசாவில் உள்ள சிறுவர் மருத்துவமனை உட்பட மூன்று மருத்துவமனைகள் குறிவைக்கப்பட்டதாக ஹமாஸ் சுகாதார அமைச்சகம் தெரிவித்துள்ளது.
+The Hamas Health Ministry said that three hospitals, including the Children's Hospital in Gaza, were targeted in the bomb blast last night.
 
-இதனிடையே, பலஸ்தீனிய மக்கள் வெளியேறுவதற்கு மேலும் 48 மணி நேரம் வீதியை திறந்துவிடுவதாக இஸ்ரேல் இராணுவம் இன்று அறிவித்துள்ளது. R
+Meanwhile, the Israeli military today announced that it will open the road for another 48 hours to leave the Palestinian people.. Remble
 
 ◼️
 
 [Data](articles/c6dd9616.json)
+
+[Extended Data](ext_articles/c6dd9616.ext.json)
 
 ---
 
@@ -122,25 +124,27 @@ Traffic driving in mineral transportation due to unrestrained vehicles in the tr
 
 ---
 
-### மந்திரிமனையை பாதுகாக்க 14 வருடங்களாக முயல்கின்றோம் ; தனிநபர் தடையாக உள்ளதாக தொல்லியல் திணைக்களம் தெரிவிப்பு
+### We have been trying for 14 years to protect the cabinet; The Department of Archeology
 
 *2025-09-17 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225365) · `ta`
 
-யாழ்ப்பாணம் இராசதானியை ஆண்ட சங்கிலிய மன்னனது மந்திரிமனையை கடந்த 14 வருடங்களுக்கு மேலாக பாதுகாக்க நடவடிக்கை எடுத்தும் பயனளிக்கவில்லை என தொல்லியல் திணைக்களம் கைவிரித்துள்ளது.
+The Department of Archeology has abandoned that it has not been beneficial for more than 14 years to protect the king's minister who ruled Jaffna Rasadan.
 
-யாழ்ப்பாணத்தில் 17ஆம் திகதி புதன்கிழமை பெய்த மழை காரணமாக தொல்பொருள் சின்னமான மந்திரி மனையின் ஒரு பக்கம் இடிந்து விழுந்துள்ளது.
+One side of the archaeological minister has collapsed due to the rains on Wednesday 17th of Wednesday in Jaffna.
 
-அது தொடர்பில் தொல்லியல் திணைக்களத்தின் யாழ்ப்பாண பிராந்திய உதவிப்பணிப்பாளர் U.A.பந்துல ஜீவ வை தொடர்பு கொண்டு கேட்ட போதே அவ்வாறு தெரிவித்தார்.
+The Jaffna Regional Assistant Director of the Department of Archeology, U.A. Bandula Jeeva, said so.
 
-யாழ்ப்பாண இராசதானி காலத்திற்குரியதாக கருதப்படும் மந்திரி மனை, பாதுகாக்கப்பட வேண்டிய தொல்பொருள் சின்னமாக 2011 ஆம் ஆண்டு வர்த்தமானியில் அறிவிக்கப்பட்டுள்ளது.
+The Jaffna Rasanani, which is considered to be the time of Jaffna, has been declared in the Gazette in 2011 as the Archaeological Site to be preserved.
 
-அதனை தொடர்ந்து மந்திரி மனையை பாதுகாக்கவும் , அதனை புனரமைக்கவும் பல்வேறு முயற்சிகள் முன்னெடுக்கப்பட்டன. ஆனாலும் அவை எதனையும் செய்ய முடியவில்லை.
+Various attempts were made to protect and renovate the minister's mind. Yet they could not do anything.
 
-மந்திரி மனை அமைந்துள்ள காணியானது தனிநபருக்கு உரியது. அவருக்கு சொந்தமாதாகவே மந்திரி மனை காணப்படுகிறது. அதனால் அவரின் அனுமதியின்றி தொல்லியல் திணைக்களத்தால் எவ்வித நடவடிக்கையும் எடுக்க முடியாது.
+The land where the minister's land is located belongs to the individual. The minister's land is found to be his own. So no action can be taken by the Department of Archeology without his permission.
 
 ...
 
 [Data](articles/bff057d7.json)
+
+[Extended Data](ext_articles/bff057d7.ext.json)
 
 ---
 
@@ -159,6 +163,8 @@ Considering the difficulties faced by stakeholders in the construction sector, a
 ...
 
 [Data](articles/91ddfd81.json)
+
+[Extended Data](ext_articles/91ddfd81.ext.json)
 
 ---
 
@@ -210,23 +216,31 @@ The project is being implemented with the participation of both the public and p
 
 [Data](articles/713c3917.json)
 
+[Extended Data](ext_articles/713c3917.ext.json)
+
 ---
 
-### பண்ணை மீன் சந்தையில் பல்வேறு பிரச்சினைகள் உள்ளன - இளங்குமரன் எம்.பி சுட்டிக்காட்டு!
+### There are various problems in the farm fish market - Ilangumaran MP pointed out!
 
 *2025-09-17 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225364) · `ta`
 
-யாழ்ப்பாணம் - பண்ணை மீன் சந்தையில் பாரிய பிரச்சினைகள் இருக்கின்றன. எனவே மாநகர சபை முதல்வர் நேரில் வந்து பார்த்து அந்தப் பிரச்சினைகளை சீர் செய்யுமாறு நாடாளுமன்ற உறுப்பினர் கருணைநாதன் இளங்குமரன் தெரிவித்துள்ளார்.
+Jaffna - Farm fish market has massive problems. Therefore, the Municipal Council Chief Minister Karunathan Ilangumaran said that the Chief Minister of the Municipal Council should come to life and repair the issues.
 
-16ஆம் திகதி செவ்வாய்க்கிழமை குறித்த பகுதிக்கு களவிஜயம் செய்து பார்வையிட்ட பின்னர் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இதனை தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+He was speaking to the media after he visited the area on Tuesday 16th.. There he further stated,
 
-யாழ்ப்பாணம் மாநகர சபையினர் மின்சார கட்டணத்தை செலுத்தாததால் மின்சாரத் துண்டிப்பு இடம்பெற்றது. இதனால் வியாபாரிகள் தமது மீன்களை விற்பனை செய்ய முடியாது திரும்பிச் சென்றதை அவதானிக்க முடிந்தது. ஆனால் மின்சாரம் துண்டித்த நாளின் கட்டணம் மாநகரசபையால் மீன் வியாபாரிகளிடமிருந்து அறவிடப்பட்டது.
+Jaffna Municipal Council did not pay electricity tariffs. Thus, the merchants could not sell their fish that they could not see. But the fee of the day when the electricity was cut off was charged from the fish traders by the Municipal Council.
 
-மீன் சந்தையில் இருக்கின்ற மலசலகூடம் மிகவும் மோசமாக காணப்படுகிறது. மாநகர சபை முதல்வரிடம் நான் கேட்பது யாதெனில், நீங்கள் களவிஜயம் செய்து நேரில் வந்து பாருங்கள் இங்கே எவ்வாறான நிலை காணப்படுகிறது என்று.
+The sewage in the fish market is very poor. If I ask the Chief Minister of the Municipal Council, you will find out what kind of situation is here.
+
+When the government set up such markets from overseas, you will be able to maintain it well.
+
+You will have earned millions of revenues in stores at Nallur festival. Use that funds to adjust these issues.
 
 ...
 
 [Data](articles/1ee6f52e.json)
+
+[Extended Data](ext_articles/1ee6f52e.ext.json)
 
 ---
 
@@ -272,6 +286,8 @@ Former President Wickremesinghe was taken into custody for allegedly “misusing
 
 [Data](articles/cd1a9d6e.json)
 
+[Extended Data](ext_articles/cd1a9d6e.ext.json)
+
 ---
 
 ### “The government will start petroleum studies”
@@ -313,6 +329,8 @@ One student who has chosen not to be identified told the BBC that she was hit by
 ...
 
 [Data](articles/ffc52c14.json)
+
+[Extended Data](ext_articles/ffc52c14.ext.json)
 
 ---
 

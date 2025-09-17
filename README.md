@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 09:57:08**
+As of **2025-09-17 10:08:48**
 
 ## Newspaper Stats
 
-*Scraped **76,447** Articles*
+*Scraped **76,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ economynextcom | 4,628
 islandlk | 4,703
 dailymirrorlk | 4,733
 dailyftlk | 5,432
-adalk | 7,424
+adalk | 7,425
 adaderanalk | 9,856
-tamilmirrorlk | 11,442
+tamilmirrorlk | 11,445
 virakesarilk | 12,454
-adaderanasinhalalk | 13,332
+adaderanasinhalalk | 13,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,623 (96.3%) of 76,447 articles have been extended.
+73,623 (96.3%) of 76,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### ஆசியக் கிண்ணத்திலிருந்து வெளியேறும் பாகிஸ்தான்?
+
+*2025-09-17 09:55:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணத்திலிருந்து-வெளியேறும்-பாகிஸ்தான்/44-364739) · `ta`
+
+ஆசியக் கிண்ணத்திலிருந்து வெளியேறுவதா என்பது குறித்து இன்று இறுதி முடிவொன்றை எடுக்கவுள்ளதாக பாகிஸ்தான் கிரிக்கெட் சபை தெரிவித்துள்ளது.
+
+கட்டாயம் வெல்ல வேண்டிய ஐக்கிய அரபு அமீரகத்துடனான போட்டியானது இன்றிரவு நடைபெறவுள்ள நிலையில் பாகிஸ்தானின் பங்கேற்பு குறித்து கலந்துரையாடல்கள் இடம்பெறுவதாக கிரிக்கெட் சபையின் நள்ளிரவு அறிக்கை குறிப்பிட்டுள்ளது.
+
+இந்தியாவுடனான போட்டியின்போதான கைகுலுக்கல் சர்ச்சை தொடருகின்ற நிலையில் நேற்று தமது செய்தியாளர் மாநாட்டை பாகிஸ்தான் இரத்துச் செய்திருந்தது.
+
+◼️
+
+[Data](articles/0c2c95a8.json)
+
+---
+
+### ஐஸ்க்குள் தத்தளிக்கும் இலங்கை
+
+*2025-09-17 09:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐஸ்க்குள்-தத்தளிக்கும்-இலங்கை/62-364738) · `ta`
+
+◼️
+
+[Data](articles/b3828ae8.json)
+
+---
+
+### කොළඹ ප්‍රධාන නගර කිහිපයකට හෙට ජල කප්පාදුවක්
+
+*2025-09-17 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214661) · `si`
+
+කොළඹ ප්‍රදේශ කිහිපයකට හෙට (18) පැය 09ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+
+අඹතලේ ජල පවිත්‍රාගාරයට ජලය ලබා ගන්නා ප්‍රධාන තුළුමුව පොම්පාගාරයට සැපයෙන විදුලිය අත්හිටුවීමට සිදුවන බැවින් අඹතලේ ජල පවිත්‍රාගාරය මඟින් සැපයෙන ජලය අත්හිටු වීමට සිදුව ඇති බව එම මණ්ඩලය සඳහන් කරයි.
+
+ඒ අනුව පෙ.ව 10.00 සිට ප.ව 07.00 දක්වා කාලය තුළ මෙලෙස ජල සැපයුම අත්හිටුවන බව වාර්තා වේ.
+
+කොළඹ 01 සිට 15 දක්වා ප්‍රදේශවල මෙලෙස ජල සැපයුම අත්හිටුවනු ඇත.
+
+බත්තරමුල්ල, පැලවත්ත, හෝකන්දර, කොස්වත්ත, තලවතුගොඩ, කෝට්ටේ, රාජගිරිය, මිරිහාන, මාදිවෙල, නුගේගොඩ, නාවල, කොලොන්නාව, IDH,කොටිකාවත්ත, අංගොඩ, වැල්ලම්පිටිය, ඔරුගොඩවත්ත, මහරගම, බොරලැස්ගමුව, දෙහිවල, රත්මලාන, මොරටුව යන ප්‍රදේශවලට ද ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/cd6aaf56.json)
+
+---
+
+### சுகயீன விடுமுறையில் குதித்த மின்சார சபை ஊழியர்கள்
+
+*2025-09-17 09:37:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகயீன-விடுமுறையில்-குதித்த-மின்சார-சபை-ஊழியர்கள்/175-364737) · `ta`
+
+இலங்கை மின்சார சபை ஊழியர்கள் இன்று (17) சுகயீன விடுமுறை வேலைநிறுத்தப் போராட்டத்தில் ஈடுபட முடிவு செய்துள்ளனர்.
+
+வேலைநிறுத்தப் போராட்டத்தின் இரண்டாம் கட்டமாக இந்த நடவடிக்கை எடுக்கப்பட்டதாக தொழில்நுட்ப வல்லுநர்கள் சங்கத்தின் தலைவர் கோசல அபேசிங்க தெரிவித்தார். R
+
+◼️
+
+[Data](articles/b4764fd2.json)
+
+---
 
 ### பதில் பொலிஸ் மாஅதிபராக லலித் பத்திநாயக்க நியமனம்
 
@@ -1935,87 +1995,5 @@ In this case, the UN to investigate international human rights violations. The H
 [Data](articles/bebae64b.json)
 
 [Extended Data](ext_articles/bebae64b.ext.json)
-
----
-
-### No decision to liquidate Fisheries Corporation
-
-*2025-09-16 16:57:16* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-සංස්ථාව-ඈවර-කිරීමට-තීරණයක්-නෑ/11-418538) · `si`
-
-Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekam Chandrasekam Chandrasekar said that the Oluvil Port can be used after a new feasibility study.. The Ministry of Fisheries, Aquatic Resources and Marine Resources Advisory Committee on the Ministry of Fisheries. Fisheries, Aquatic and Ocean Resources Deputy Minister Ratna Gamage was also present at the occasion.
-
-At the meeting, the operation of Oluvil Fisheries Harbor was lengthy. The Minister stated that new feasibility studies are conducted to correct the damage caused by the Oluvil Port without proper studies and that future plans will be prepared based on it.. The Deputy Minister said that the Fisheries Harbor in Walachchenai has been planned to be a wider fishing harbor in 2026, to meet the need for fishing fisheries.
-
-...
-
-[Data](articles/edb9f4e4.json)
-
-[Extended Data](ext_articles/edb9f4e4.ext.json)
-
----
-
-### 20 Indian fishermen detained by Sri Lanka return to Chennai
-
-*2025-09-16 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112577/20-indian-fishermen-detained-by-sri-lanka-return-to-chennai) · `en`
-
-As many as 20 Indian fishermen who were arrested by the Sri Lankan Coast Guard returned to Chennai on Tuesday.
-
-The fishermen from Rameshwaram went out to sea for fishing in two groups at the end of June. While they were fishing in the middle of the sea, the fishermen were surrounded by the Sri Lankan Coast Guard for crossing the border, and all of them were arrested and sent to prison.
-
-Later on July 27, another group of nine fishermen was arrested by the Coast Guard, and they were sent to prison. The court imposed a penalty of LKR 500,000, and seven fishermen who paid the penalty were released and handed over to the Indian embassy on August 14.
-
-Later, another 13 fishermen were released and handed over to the Indian officers a few days ago. The officers arranged the travel documents for the fishermen, and all of them arrived in Chennai on an Air India flight that landed in the early morning.
-
-...
-
-[Data](articles/5396c9e9.json)
-
-[Extended Data](ext_articles/5396c9e9.ext.json)
-
----
-
-### Inmate dies following injuries from accident at Kalutara prison
-
-*2025-09-16 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112578/inmate-dies-following-injuries-from-accident-at-kalutara-prison) · `en`
-
-An inmate who was receiving treatment for injuries sustained after climbing and subsequently jumping from a ‘Bo tree’ within the premises of Kalutara Prison has succumbed to his injuries, according to Kalutara North Police.
-
-The deceased has been identified as Sampath Mendis, a resident of Waskaduwa, Kalutara.
-
-The inmate, who was imprisoned on charges of drug possession, had reportedly climbed a Bo tree in the prison premises on July 21 and afterwards jumped to the ground from it resulting in critical injuries, police said.
-
-Accordingly, he was admitted to the Nagoda Hospital for treatment and was re-imprisoned after recovering.
-
-However, the inmate’s condition had worsened and he was re-admitted to the hospital while he had succumbed to the injuries last night (15).
-
-Kalutara North Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/b1f4406a.json)
-
-[Extended Data](ext_articles/b1f4406a.ext.json)
-
----
-
-### Expressions of interest called to add value to manufacturing process at Kahatagahahena graphite mine
-
-*2025-09-16 16:53:00* · [`islandlk`](http://island.lk/expressions-of-interest-called-to-add-value-to-manufacturing-process-at-kahatagahahena-graphite-mine/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the Minister of Industries and Entrepreneurship Development to repeal the cabinet decision taken on 11-12-2023 regarding the restructuring of Kahatagaha Graphite Lanka Limited and to call for proposals for expressions of interest
-
-following the approved procurement procedure to implement the entire procedure of exploring the graphite reserve of the Kahatagaha mine, mining, processing, and adding value to the graphite in the aforementioned mine under the Public-Private Partnership, while keeping the ownership of the graphite of the Kahatagaha mine with the company itself and securing the jobs of the employees currently working in the
-
-Cabinet approves additional provision to purchase Paddy in 2025 Yala season
-
-20,000 youths from Samurdhi beneficiary families to be trained for hospitality industry
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/6092ff15.json)
-
-[Extended Data](ext_articles/6092ff15.ext.json)
 
 ---

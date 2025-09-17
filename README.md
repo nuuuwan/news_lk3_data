@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-17 10:55:35**
+As of **2025-09-17 11:07:58**
 
 ## Newspaper Stats
 
-*Scraped **76,460** Articles*
+*Scraped **76,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ dailymirrorlk | 4,733
 dailyftlk | 5,432
 adalk | 7,426
 adaderanalk | 9,857
-tamilmirrorlk | 11,447
+tamilmirrorlk | 11,452
 virakesarilk | 12,454
-adaderanasinhalalk | 13,337
+adaderanasinhalalk | 13,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,641 (96.3%) of 76,460 articles have been extended.
+73,641 (96.3%) of 76,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-17 (Wednesday)
+
+### மஹிந்தவிடம் குசலம் விசாரித்தார் விமல்
+
+*2025-09-17 10:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-குசலம்-விசாரித்தார்-விமல்/175-364749) · `ta`
+
+தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச தங்காலை கார்ல்டன் இல்லத்தில் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை செவ்வாய்க்கிழமை (16) சந்தித்தார்.
+
+மஹிந்த ராஜபக்ஷவை சந்தித்த பின்னர், விமல் வீரவன்ச தனது பேஸ்புக் கணக்கில் பின்வருமாறு பதிவிட்டுள்ளார்:
+
+"பல தசாப்தங்களாக வளர்க்கப்பட்ட விடுதலைப் புலி பயங்கரவாதத்தை தோற்கடிப்பதில் அரசியல் தலைமைத்துவத்தை வழங்கிய 5வது நிறைவேற்று ஜனாதிபதி மஹிந்த ராஜபக்ஷ, தனது உயிருக்கு அச்சுறுத்தல்கள் இருந்தபோதிலும், கொழும்பில் உள்ள தனது உத்தியோகபூர்வ இல்லத்தில் இருந்து திரும்பி தங்காலை கார்ல்டன் இல்லத்திற்கு குடிபெயர்ந்தார் என்ற செய்தி, இலங்கையில் மட்டுமல்ல, உலகம் முழுவதும் பெரும் கவனத்தை ஈர்த்த செய்தியாகும்.
+
+அரசியல் வேறுபாடுகள் இருந்தபோதிலும், பயங்கரவாதத்தை தோற்கடிக்க அவர் வழங்கிய அரசியல் தலைமைக்கு நன்றி தெரிவிக்கும் ஒரு செயலாகும். தேசிய சுதந்திர முன்னணியின் தேசிய அமைப்பாளர் ஜெயந்த சமரவீர மற்றும் தேசிய சுதந்திர முன்னணியின் பிற பிரதிநிதிகள் தங்காலை கார்ல்டன் இல்லத்தில் அவரைச் சந்தித்து அவரது நலம் குறித்து விசாரித்து எங்கள் நன்றியைத் தெரிவித்துக் கொண்டோம்."
+
+◼️
+
+[Data](articles/60032a71.json)
+
+---
+
+### 900 ஆண்டுகள் பழமையான பெண்ணின் மண்டை ஓடு மூலம் முகத்தை உருவாக்கிய விஞ்ஞானிகள்
+
+*2025-09-17 10:53:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/900-ஆண்டுகள்-பழமையான-பெண்ணின்-மண்டை-ஓடு-மூலம்-முகத்தை-உருவாக்கிய-விஞ்ஞானிகள்/53-364748) · `ta`
+
+இங்கிலாந்தின் கெண்டல் நகரில் கடந்த 2022-ம் ஆண்டு நீர் மேலாண்மை பணிகள் தொடங்கியது. அப்போது அங்குள்ள தேவாலயம் அருகே சில எலும்பு கூடுகள் கிடைத்தன. அவற்றை அதிகாரிகள் கைப்பற்றி தொல்லியல் துறையிடம் ஒப்படைத்தனர். அவர்கள் நடத்திய ஆய்வில் அந்த எலும்பு கூடுகள் 900 ஆண்டுகள் பழமையானவை என்பது உறுதியானது.
+
+இதற்கிடையே அங்கு கைப்பற்றிய ஒரு பெண்ணின் மண்டை ஓடு மறுகட்டமைப்புக்கு ஏற்ற நிலையில் இருந்தது. எனவே அந்த பெண்ணின் முகம் எப்படி இருந்திருக்கும் என்பதை கண்டறியும் பணியில் லிவர்பூல் ஜார் மூர்ஸ் பல்கலைக்கழக விஞ்ஞானிகள் ஈடுபட்டனர். தொழில்நுட்பம் மூலம் உருவாக்கப்பட்ட அந்த பெண்ணின் முகம் கெண்டல் தேவாலயத்தில் பொதுமக்களின் பார்வைக்காக தற்போது வைக்கப்பட்டு உள்ளது.
+
+◼️
+
+[Data](articles/723b9c72.json)
+
+---
+
+### பாகிஸ்தான் கோரிக்கையை நிராகரித்தது ஐசிசி
+
+*2025-09-17 10:49:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-கோரிக்கையை-நிராகரித்தது-ஐசிசி/44-364747) · `ta`
+
+ஆசிய கிண்ண கிரிக்​கெட் தொடரில் கடந்த ஞாயிற்​றுக்​கிழமை துபா​யில் நடை​பெற்ற ஆட்​டத்​தில் இந்​தியா - பாகிஸ்​தான் அணி​கள் மோதின. இந்த ஆட்​டத்​தில் டாஸின்​போது இந்​திய அணியின் தலைவர் சூர்​யகு​மார் யாதவ், பாகிஸ்​தான் அணி​யின் அணித்தலைவர் சல்​மான் அலி ஆகா​வுடன் கைகுலுக்​க​வில்​லை.
+
+மேலும் டாஸின்​போது இரு அணி​களின் தலைவர்களுமே தங்​களின் விளை​யாடும் லெவன் பட்​டியலை பரஸ்​பரம் பகிரும் நிலை​யில், அந்த ஆட்​டத்​தில் சூர்​யகு​மார் யாத​வும், சல்​மான் அலி ஆகா இரு​வருமே மேட்ச் ரெஃப்​ரீ​யான ஆண்டி பைகி​ராஃப்​டிடமே பட்​டியலை பரி​மாறிக் கொண்​டனர். தொடர்ந்​து, ஆட்​டத்​தின் முடி​விலும் இந்​திய வீரர்​கள், பாகிஸ்​தான் வீரர்​களு​டன் கைகுலுக்​க​வில்​லை.
+
+இந்த விவ​காரம் சர்ச்​சை​யாகி இருக்​கும் நிலை​யில், இதற்கு பொறுப்​பாக ஆட்ட நடு​வர் ஆண்டி பைகி​ராஃப்டை நீக்க வேண்​டும் என பாகிஸ்​தான் கிரிக்​கெட் வாரி​யம், ஆசிய கிரிக்​கெட் கவுன்​சிலிடம் புகார் அளித்​தது. மேலும் இந்த விவ​காரத்தை ஐசிசி​யிட​மும் முறை​யிட்​டது. இந்​நிலை​யில் பாகிஸ்​தான் கிரிக்​கெட் வாரி​யத்​தின் கோரிக்​கையை ஐசிசி நிராகரித்​துள்​ளது.
+
+...
+
+[Data](articles/d07daaae.json)
+
+---
+
+### பாராளுமன்றத்துக்கு வந்த நாகபாம்பு
+
+*2025-09-17 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்த-நாகபாம்பு/175-364745) · `ta`
+
+பாராளுமன்ற வளாகத்தின் போக்குவரத்து அலுவலகம் அருகே ஒரு நாகப்பாம்பு காணப்பட்டது, இதனால் கடந்த வாரம் அங்கு  பரபரப்பு ஏற்பட்டது.
+
+பாராளுமன்றத்தின் உதவி இயக்குநர் (நிதி) ரோஹித பத்மசிறி முதலில் அந்த நாகப்பாம்பைக் கண்டார்.
+
+அன்று மாலை பணியில் இருந்த அவர், நாகப்பாம்பைக் கண்டதும் உடனடியாக பாராளுமன்ற பாதுகாப்பு அதிகாரிகளுக்குத் தகவல் அளித்தார்.
+
+அதன்படி, அங்கு வந்த பாதுகாப்பு அதிகாரிகள் நாகப்பாம்பைப் பிடித்து காட்டுப் பகுதிக்கு எடுத்துச் சென்று வீசியதாக பாராளுமன்ற வட்டாரங்கள் தெரிவித்தன.
+
+தியவன்னாவ நீர்த்தேக்கத்தைச் சுற்றியுள்ள காட்டில் இருந்து பல்வேறு வகையான நாகப்பாம்புகள், விரியன் பாம்புகள் உட்பட பாராளுமன்ற வளாகத்திற்குள் நுழைந்து நீண்ட நாட்களாகிவிட்டன. முன்னதாக, பாராளுமன்ற வளாகத்திற்குள் நுழைந்த பல பாம்புகளைப் பாதுகாப்பு அதிகாரிகள் பிடித்து வனப்பகுதிகளுக்கு எடுத்துச் சென்று வீசினர்.
+
+◼️
+
+[Data](articles/1cfa43d4.json)
+
+---
+
+### 13 வயது மகளை வன்புணர்ந்த தந்தைக்கு அதிரடி தீர்ப்பு
+
+*2025-09-17 10:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-வயது-மகளை-வன்புணர்ந்த-தந்தைக்கு-அதிரடி-தீர்ப்பு/175-364744) · `ta`
+
+13 வயது மற்றும் 8 மாத சிறுமியை துஷ்பிரயோகம் செய்ததாகக் கூறப்படும் சிறுமியின் தந்தையை இந்த மாதம் 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு  குளியாப்பிட்டி நீதவான் மிஹில் சிரந்தன சதுர்சிங்க,  திங்கட்கிழமை (15)  உத்தரவிட்டார்.
+
+குளியாப்பிட்டியில் உள்ள போகோட கலாச்சார மையத்தில் வசிக்கும் அதிகாரி முதியன்செலாகே ஹசித நுவான் அதிகாரி என்பவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+சிறுமியின் தாயார் வெளிநாட்டில் உள்ளார், சிறுமியின் மூத்த சகோதரி, வேலை காரணமாக மாரவில பகுதியில் உள்ள ஒரு கான்வென்ட்டில் தங்கியிருந்தார். கிடைத்த தொலைபேசி அழைப்பின் அடிப்படையில் நடத்தப்பட்ட விசாரணையைத் தொடர்ந்து, சந்தேகநபரான தந்தை, மகளை  பல இடங்களுக்கு அழைத்துச் சென்று  துஷ்பிரயோகம் செய்யப்பட்டதாக தெரியவந்ததை அடுத்து கைது செய்யப்பட்டதாக  நீதிமன்றத்தில் பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/4e901385.json)
+
+---
+
+### මධ්‍යම කඳුකරයට ඝණ මීදුම් තත්ත්වයක්
+
+*2025-09-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214665) · `si`
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල පිහිටි ජල පෝෂක ප්‍රදේශවලට ඊයේ (16) රාත්‍රියේ සිට කඩින් කඩ ඇද හැලෙන අධික වර්ෂාව සහ ඝණ මීදුම් තත්ත්වය හේතුවෙන් ජන ජීවිතයට මෙන්ම රථවාහන ගමනා ගමනයට බාධා පැමිණ ඇති බව වාර්තා වේ.
+
+හැටන්-නුවරඑලිය, හැටන්-කොළඹ ප්‍රධාන මාර්ගවල සහ අතුරු මාර්ගවල මෙම ඝණ මීදුම් තත්ත්වය පවතින බව අද දෙරණ වාර්තාකරු පවසයි.
+
+එම මාර්ගවල රථවාහාන ධාවනය කිරීමේදි වාහනවල ඉදිරිපස ප්‍රධාන ලාම්පු දල්වාගෙන සෙමින් සැලකිලිමත් ලෙස රිය ධාවනය කරන ලෙස හැටන් පොලීසියේ රථවාහන අංශයේ නිළධාරින් රියදුරන්ගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/a3850ec5.json)
+
+---
 
 ### ගිනිඅවියක් අතදරා ගමක් බිය කළ පුද්ගලයෙකු අත්අඩංගුවට
 
@@ -1867,129 +1967,5 @@ Although the Cabinet approved the construction of the building for the Faculty o
 [Data](articles/84ea7292.json)
 
 [Extended Data](ext_articles/84ea7292.ext.json)
-
----
-
-### Super Hollywood ache robert Robert Redford
-
-*2025-09-16 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214647) · `si`
-
-Robert Redford, a American Rangana Legend, has died of Robert Redferred.
-
-Foreign media reports that he was 89 years old when he died.
-
-It is reported that Redford had died today at Sandans in Sandans, USA, Uta.
-
-Redford was also known for the opening of the Sundance Festival in the United States.
-
-In 1980, he won four Academy Oscar award for the Oscar Award for Ordinary Peoples.
-
-◼️
-
-[Data](articles/9adc8f73.json)
-
-[Extended Data](ext_articles/9adc8f73.ext.json)
-
----
-
-### Bail to former minister Keheliya Rambukwella
-
-*2025-09-16 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225258) · `ta`
-
-The Colombo High Court on Tuesday (16) ordered the release of former health minister Keheliya Rambukwella and his associated defendants on bail.
-
-During the last government, there have been allegations against them that they have purchased non -standard immunoglobulin vaccines from abroad and thereby accused of state financial fraud and misuse.
-
-It is noteworthy that the court today granted bail as various allegations were filed against the former minister in the case.
-
-◼️
-
-[Data](articles/7287ed1a.json)
-
-[Extended Data](ext_articles/7287ed1a.ext.json)
-
----
-
-### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
-
-*2025-09-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
-
-...
-
-[Data](articles/39f24b3f.json)
-
-[Extended Data](ext_articles/39f24b3f.ext.json)
-
----
-
-### Legendary  Muslim Congress Leader MHM Ashraff and the Course of Muslim Politics.
-
-*2025-09-16 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86423) · `en`
-
-Commemorative Article Denoting 25th death anniversary of Muslim Congress leader MHM Ashraff on 16 September.
-
-Mohammad Hussein Muhammad Ashraff, known to all MHM Ashraff was one of the brightest  stars to shine in the Sri Lankan political firmament. Ashraff’s  charisma, political acumen, dedication and sterling qualities of leadership enabled the  Eastern province lawyer to be  the legendary leader of the Sri Lanka Muslim Congress(SLMC).
-
-Sadly Ashraff’s life ended tragically  when he along with 14 others, was killed in an air crash on 16 September 2000. He was the Cabinet Minister in charge of Shipping, Ports, Reconstruction and Rehabilitation in the Government of President Chandrika Bandaranaike Kumaratunga at the time of his death. This week’s  column  with the aid of earlier writings  focuses on MHM Ashraff  in commemoration of his 25th death anniversary.
-
-...
-
-[Data](articles/757bec38.json)
-
-[Extended Data](ext_articles/757bec38.ext.json)
-
----
-
-### Substandard drug imports: Keheliya and other defendants granted bail
-
-*2025-09-16 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112580/substandard-drug-imports-keheliya-and-other-defendants-granted-bail) · `en`
-
-A three-judge bench of the Colombo High Court has ordered the release on bail of former Health Minister Keheliya Rambukwella and other defendants, who are accused of misappropriating government funds by purchasing substandard medicine during the previous government.
-
-Accordingly, each defendant was ordered to be released on a cash bail of Rs. 500,000 and two surety bonds of Rs. 5 million each.
-
-The court, which imposed a foreign travel ban on the defendants, also ordered that their passports be surrendered to the court.
-
-The defendants were indicted today before a three-judge bench of the Colombo High Court.
-
-Deputy Solicitor General Lakmini Girihagama had subsequently informed the court that the Attorney General would oppose the release of the defendants on bail.
-
-Thereafter, the defense attorneys made a lengthy submission requesting that the defendants be released on bail.
-
-...
-
-[Data](articles/7f2cbc0c.json)
-
-[Extended Data](ext_articles/7f2cbc0c.ext.json)
-
----
-
-### Keheliya, including Keheliya bail
-
-*2025-09-16 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214646) · `si`
-
-The three-member High Court Judge Bench today (16) was appointed as the allegations of the quality of the government through the purchase of the government through the purchase of the government.
-
-The accused was then released on a cash bail of Rs.
-
-The judiciary forbidden the accused of the defendants should be handed over to their passports to court.
-
-The defendants today handed over the indictment in front of a three member High Court Judge.
-
-Deputy Solicitor General Lakhagi Girihagama stated that the Attorney General was opposed to the release of the defendants on bail.
-
-The accused had then made a long statement by lawyers demanding the release of the accused.
-
-The order was issued by Mahesh Weeraman, Pradeep Abeyratne and Amali Ranaweera, the three-member High Court Judge Martial Judge.
-
-◼️
-
-[Data](articles/745de3aa.json)
-
-[Extended Data](ext_articles/745de3aa.ext.json)
 
 ---

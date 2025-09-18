@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 12:38:17**
+As of **2025-09-18 12:13:15**
 
 ## Newspaper Stats
 
-*Scraped **76,702** Articles*
+*Scraped **76,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,452
+adalk | 7,451
 adaderanalk | 9,898
-tamilmirrorlk | 11,516
+tamilmirrorlk | 11,512
 virakesarilk | 12,478
 adaderanasinhalalk | 13,376
 
@@ -26,109 +26,27 @@ adaderanasinhalalk | 13,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,289 (96.9%) of 76,702 articles have been extended.
+74,263 (96.8%) of 76,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### இந்தியா, சீனா உள்ளிட்ட 23 நாடுகள் மீது ட்ரம்ப் போதைப் பொருள் பாய்ச்சல்
-
-*2025-09-18 12:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-சீனா-உள்ளிட்ட-23-நாடுகள்-மீது-ட்ரம்ப்-போதைப்-பொருள்-பாய்ச்சல்/50-364842) · `ta`
-
-போதைப் பொருள் கடத்தல், உற்பத்தியில் சீனா, ஆப்கானிஸ்தான், இந்தியா, பாகிஸ்தான் உள்ளிட்ட 23 நாடுகளுக்கு முக்கியப் பங்கு இருப்பதாக அமெரிக்க அதிபர் டொனால்டு ட்ரம்ப் தெரிவித்துள்ளார்.
-
-ட்ரம்ப் நாடாளுமன்றத்தில் தாக்கல் செய்த அறிக்கையில், ஆப்கானிஸ்தான், தி பஹாமாஸ், பெலிஸ், பொலிவியா, மியான்மர், சீனா, கொலம்பியா, கோஸ்டா ரிகா, தி டொமினிசியன் ரிபப்ளிக், ஈகுவேடார், எல் சால்வடார், கவுதமாலா, ஹைதி, ஹொண்டூராஸ், இந்தியா, ஜமைக்கா, லாவோஸ், மெக்சிகோ, நிகாராகுவா, பாகிஸ்தான், பனாமா, பெரு, வெனிசுலா ஆகிய நாடுகள் இடம்பெற்றுள்ளன. இந்த நாடுகள் போதைப் பொருள் உற்பத்தி மற்றும் கடத்தலில் முக்கியப் பங்கு வகிக்கின்றன என்று தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/ad3686c2.json)
-
----
-
-### Bail
-
-*2025-09-18 12:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துசிதவுக்கு-பிணை/175-364841) · `ta`
-
-Former Director of the National Lotter Board, Dusitha Halluluwa has been released on bail. The order was issued by the Colombo Magistrate's Court on Thursday (18).
-
-Dusitha Halluluwa, the former Director of the National Lotter Board, was arrested on suspicion of firing at the Narahenpitti area on his passenger vehicle.
-
-In this case, the Colombo Criminal Investigation Division (CID) was arrested on August 19 by the Colombo Criminal Investigation Division in connection with the shooting incident.
-
-◼️
-
-[Data](articles/d9b8751c.json)
-
-[Extended Data](ext_articles/d9b8751c.ext.json)
-
----
-
-### Backo Saman's wife
-
-*2025-09-18 12:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கோ-சமன்-னின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-364840) · `ta`
-
-Shadika Lakshani, wife of Backo Samanam, who was kept in detention under the Prevention of Cash Act, has been extended till September 25. He, Colombo Chief Magistrate. He was produced in the presence of Bodaragama on Thursday (18). Meanwhile, the extension order has been issued as the above.
-
-◼️
-
-[Data](articles/4f5a18a9.json)
-
-[Extended Data](ext_articles/4f5a18a9.ext.json)
-
----
-
-### Referee on the throw of Pakistani field
-
-*2025-09-18 11:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-களத்தடுப்பாளரின்-எறியில்-வெளியேறிய-நடுவர்/44-364839) · `ta`
-
-In the Asian Cup series, Pakistan and the United Arab Emirates have left the field after a Pakistani fielder threw a ball.
-
-........ During the sixth over of the United States, the ball was thrown towards the bowling Sai Ayoub in the left ear of the Sri Lankan referee Ruchira school.
-
-Pakistan's anatomical expert checked to see if there was dizziness in the school, and left the field due to the prevailing security.
-
-◼️
-
-[Data](articles/bb336b49.json)
-
-[Extended Data](ext_articles/bb336b49.ext.json)
-
----
-
-### A shopple in the weekly fair in Dambulla shoes
+### දඹුල්ලේ සතිපොළේ කඩකාමරයක් ගිනිගෙන දැවෙයි
 
 *2025-09-18 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214706) · `si`
 
-A fire had erupted in a shop in the Dambulla prelame in the Dambulla Muntama.
+දඹුල්ල මහනගර සභාවට අයත් දඹුල්ල සතිපොළ භූමියේ කඩ කාමරයක් තුළ අද (18) අලුයම ගින්නක් හට ගෙන තිබුණි.
 
-The fire has been able to crush the fire after the fire is seen immediately after reporting the Fire in the Dambulla Municipal Council.
+දඹුල්ල නගර සභාවේ සේවකයෙකු අලුයම සේවයට වාර්තා කරන අවස්ථාවේ දී ගින්න දැක වහාම ගිනිනිවන ඒකකය දැනුවත් කිරීමෙන් පසුව ගින්න මැඩපැවැත්වීමට හැකිව තිබේ.
 
-The cause of the fire is yet to be determined and all polythene and other substances have been destroyed in the polythene.
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගින්න හටගත් කඩ කාමරය තුළ දඹුල්ල මහනගර සභාව මඟින් පොලිතින් තොග ගබඩාකොට තිබුණු බව ද එම සියලූම පොලිතින් සහ අනෙකුත් ද්‍රව්‍ය විනාශ වී තිබී ඇති බවට ද වාර්තාවේ සඳහන්ය.
 
-Mayor of Dambulla Urban Council Wasantha K. Rajayaramy said that if the fire spread, he was at risk of a large number of shop rooms and residents of Dambulla.
+දඹුල්ල නගර සභාවේ නගරාධිපති වසන්ත කේ. රාජමන්ත්‍රී මහතා පවසා ඇත්තේ, ගින්න පැතිර ගියේ නම් දඹුල්ල සතිපොළ භූමියේ යාබඳව විශාල කඩ කාමර ප්‍රමාණයක් සහ එහි පදිංචිකරුවන්ද අනතුරකට ලක්වීමේ අවදානමක් පැවති බවයි.
 
 ◼️
 
 [Data](articles/fff59cb9.json)
-
-[Extended Data](ext_articles/fff59cb9.ext.json)
-
----
-
-### කාර්යක්ෂමව වැඩ කරන්න විදුලිබල මණ්ඩලයේ ගැටලු ගණනාවක් තිබෙනවා.
-
-*2025-09-18 11:43:42* · [`adalk`](https://www.ada.lk/breaking_news/කාර්යක්ෂමව-වැඩ-කරන්න-විදුලිබල-මණ්ඩලයේ-ගැටලු-ගණනාවක්-තිබෙනවා-/11-418575) · `si`
-
-අපි කිසිම දේශපාලන බලපෑම්ක් විදුලිබල මණ්ඩලයට සිදු කරන්නේ නැහැ. අපි කියන්නේ කාර්යක්ෂමව වැඩ කරන්න කියන කාරණය. විදුලිබල මණ්ඩලයේ ව්‍යුහයේ ගැටලු ගණනාවක් තිබෙනවා. ප්‍රතිව්‍යුහගත කිරීම තුලින් හැමෝටම වෘත්තීය ගෞරවය ඇතිවන විදිහට වැඩකරන්න අවස්ථාව අපි සලසා දෙනවා . නමුත් දේශපාලන අවශ්‍යතා මත මේකට ගැටලු ඇති කරනවා.
-
-අදත් සුලු පිරිසක් අසාර්ථක උත්සාහයක් ගත්තා. අයිතිවාසිකම් රැකගන්න සේවකයන්ට බොරු කියලා රවට්ටලා දේශපාලනය කරන්න එපා කියන කාරණය සිහිපත් කරනවා යැයි වැඩිදුරටත් පැවසීය.
-
-ජාතික විදුලි බල පද්ධතියට මෙගා වොට් 350ක් ලබාදෙන කෙරවලපිටිය "සොබාදනවි" විදුලි බලාගාරයේ වීවෘත කිරීමේ අවස්ථාවට (සැප්තැම්බර් 17 දින) එක්වෙමින් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙලෙස පැවසීය.
-
-◼️
-
-[Data](articles/c3bda561.json)
 
 ---
 
@@ -850,23 +768,21 @@ Public Consultation on the Third Electricity Tariff Revision – 2025
 
 ---
 
-### If not to wait, the Minister's biroleton warns final warning
+### ඉන්න බැරිනම් යන්න ඇමති බිමල් දුම්රියට අවසන් අනතුරු ඇඟවීම දෙයි
 
 *2025-09-18 08:11:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්න-බැරිනම්-යන්න-ඇමති-බිමල්-දුම්රියට-අවසන්-අනතුරු-ඇඟවීම-දෙයි/11-418571) · `si`
 
-Transport Minister Bimal Ratnayake publicly criticized the extreme inefficiency of the Railway Department. He added to the Railway Department if not.
+දුම්රිය දෙපාර්තමේන්තුවේ අතිශය අකාර්යක්ෂමතාව සම්බන්ධයෙන් ප්‍රවාහන අමාත්‍ය බිමල් රත්නායක මහතා ප්‍රසිද්ධියේ විවේචනය කළේය. දුම්රිය දෙපාර්තමේන්තුවේ ඉන්න බැරිනම් යන ලෙසත් ඔහු පැවැසීය.
 
-"The windows of trains cannot close. When the windows closed, the hell burn. There's no fan work. I'm March
+"කෝච්චිවල ජනේල වහන්න බෑ. ජනේල වැහුවට පස්සේ රස්නෙන් පිච්චෙනවා. එක ෆෑන් එකක් වැඩ නෑ. මම මාර්තු
 
-From month to make fan. There is no water in one wash rom. I said Walnillers. What speech are you unable to give the fan?  People dry, the one. Do you can't make some fans from March. Why do you?
+මාසයේ ඉදන් කියනවා ෆෑන් ටික හදන්න කියලා. එක වොෂ් රූම් එකක වතුර නෑ. මම කිව්වා වොලන්ටියර්ල දෙන්නම්කියලා. ෆෑන් ටික දෙන්න බැරිව මොන කථාද?  මිනිස්සු වේලෙනවා, තෙමෙනවා. මාර්තු ඉදන් ෆෑන් ටිකක් හදන්න බැරිවමොනවද කරන්නේ. ඇයි එමෙහ කරන්නේ.
 
-Those who feel about five pennies are in the Railway Department. People are three deaths. When you shut down, the windows cannot close. If the windows stimulate the windows, no Fan. There is no water in Wash Room. Looks like a prison. Do this or I send passengers to Ratmalana. Four years on Ja-Canal on Ja A Canal, four years on the Cachchiatha, and fell into two fingers of the kid.
+මිනිස්සු ගැන සත පහක හැගීමක් නැති අය ඉන්නේ දුම්රිය දෙපාර්තමේන්තුවේ. මිනිස්සු මරණ තුනක් ඉන්නේ. වහිනකොට තෙමෙනවා ජනේල් වහන්න බෑ. ජනේල් වැහුවොත් දාඩිය දානවා ෆෑන් නෑ. වොෂ් රූම්වල වතුර නෑ. හිර ගෙයක් වගේ. මේක කරන්න නැත්නම් මම රත්මලානට මගීන් එවනවා. ජා ඇල සීදුව පැත්තේ අවුරුදු හතරක ළමයෙක් කේච්චියේපළවෙනි ගමන යන්න ඇවිත් ජනේලයක් වැටිලා ඒ ළමයගේ ඇඟිලි දෙකක පුරුක් දෙකක් තැලුණා.
 
 ...
 
 [Data](articles/cb85f110.json)
-
-[Extended Data](ext_articles/cb85f110.ext.json)
 
 ---
 
@@ -2005,5 +1921,105 @@ Traffic driving in mineral transportation due to unrestrained vehicles in the tr
 [Data](articles/8354d248.json)
 
 [Extended Data](ext_articles/8354d248.ext.json)
+
+---
+
+### We have been trying for 14 years to protect the cabinet; The Department of Archeology
+
+*2025-09-17 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225365) · `ta`
+
+The Department of Archeology has abandoned that it has not been beneficial for more than 14 years to protect the king's minister who ruled Jaffna Rasadan.
+
+One side of the archaeological minister has collapsed due to the rains on Wednesday 17th of Wednesday in Jaffna.
+
+The Jaffna Regional Assistant Director of the Department of Archeology, U.A. Bandula Jeeva, said so.
+
+The Jaffna Rasanani, which is considered to be the time of Jaffna, has been declared in the Gazette in 2011 as the Archaeological Site to be preserved.
+
+Various attempts were made to protect and renovate the minister's mind. Yet they could not do anything.
+
+The land where the minister's land is located belongs to the individual. The minister's land is found to be his own. So no action can be taken by the Department of Archeology without his permission.
+
+...
+
+[Data](articles/bff057d7.json)
+
+[Extended Data](ext_articles/bff057d7.ext.json)
+
+---
+
+### Restrictions imposed on mineral transportation during school hours amended
+
+*2025-09-17 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112624/restrictions-imposed-on-mineral-transportation-during-school-hours-amended) · `en`
+
+Restrictions imposed on the transport of minerals (sand etc) during school hours have been amended after considering requests made by those in the construction industry, the Geological Survey & Mines Bureau has stated.
+
+Accordingly, the previously imposed restrictions on mineral transport during school hours—from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 a.m. on school days—has been amended.
+
+According to an official announcement by the Geological Survey & Mines Bureau, the revision has been made in response to strong demands from the construction industry, which has been heavily impacted by the transport restrictions.
+
+Considering the difficulties faced by stakeholders in the construction sector, authorities have decided to relax the rule under specific conditions.
+
+...
+
+[Data](articles/91ddfd81.json)
+
+[Extended Data](ext_articles/91ddfd81.ext.json)
+
+---
+
+### Pakistan Tournament Mediator
+
+*2025-09-17 21:11:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-போட்டியில்-பைகுரொஃப்டே-போட்டி-மத்தியஸ்தர்/44-364797) · `ta`
+
+The International Cricket Board has retained himself as a rival mediator, even though the Pakistan Cricket Board has urged him to remove the Andy Bigroft from the Pakistan match against the UAE of the Asia Cup.
+
+Although the Pakistan Cricket Board has said that Pakuroft apologized to the Pakistan squad for its actions during the match between India and Pakistan, the International Cricket Board has not issued any report on the matter.
+
+◼️
+
+[Data](articles/0ed22191.json)
+
+[Extended Data](ext_articles/0ed22191.ext.json)
+
+---
+
+### Monk and two others arrested with heroin in Alawwa
+
+*2025-09-17 21:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112623/monk-and-two-others-arrested-with-heroin-in-alawwa) · `en`
+
+A monk and two other individuals have been arrested for possession of heroin in Alawwa by the Matale Division Crimes Investigation Unit.
+
+According to police, the 38-year-old monk had been residing at a temple located within the Alawwa Police Division.
+
+At the time of arrest, the monk was found to be in possession of 10.3 grams of heroin.
+
+The other two suspects, aged 29 and 31, were also found to be in possession of 17 grams of heroin.
+
+The three suspects were produced before the Polgahawela Magistrate”s Court today (17), where police were granted permission to detain them for 7 days for further questioning.
+
+Reports indicate that the suspects are allegedly linked to a drug trafficking ring operated by an individual known as "Navy Dinesh" from Minuwangoda.
+
+◼️
+
+[Data](articles/4cefdbbc.json)
+
+[Extended Data](ext_articles/4cefdbbc.ext.json)
+
+---
+
+### Namal met Ranil
+
+*2025-09-17 20:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்த-நாமல்/175-364796) · `ta`
+
+Former President Ranil Wickremesinghe, who has been ill for the past few days, has been present at a public event today (17).
+
+Namal met him at a wedding ceremony in Colombo
+
+◼️
+
+[Data](articles/7c6f2e86.json)
+
+[Extended Data](ext_articles/7c6f2e86.ext.json)
 
 ---

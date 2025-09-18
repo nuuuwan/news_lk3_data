@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 14:56:03**
+As of **2025-09-18 14:11:08**
 
 ## Newspaper Stats
 
-*Scraped **76,727** Articles*
+*Scraped **76,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,33 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,456
-adaderanalk | 9,905
+adalk | 7,455
+adaderanalk | 9,904
 tamilmirrorlk | 11,521
 virakesarilk | 12,484
-adaderanasinhalalk | 13,379
+adaderanasinhalalk | 13,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,436 (97.0%) of 76,727 articles have been extended.
+74,408 (97.0%) of 76,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### Ambulaurses are in danger
-
-*2025-09-18 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214711) · `si`
-
-A sungulandu was in danger at the Norwood Ventature Estate at Hatton Bawnalawa main road.
-
-The accident had occurred when the respective ambaviation was in the opposite direction.
-
-It is reported that two rogine who had taken two rogine from the Bogawantalawa area to Dikoya
-
-Police said that the two patients were referred to the Dikoya Base Hospital in another ambilization.
-
-The driver of the lorry has been arrested by the Norwood Police on the accident.
-
-The Norwood police urge the drivers to take action to drive the traffic on the Hatton Pagawantalawa main road with the inclement weather in Norwood.
-
-◼️
-
-[Data](articles/1ee23d24.json)
-
-[Extended Data](ext_articles/1ee23d24.ext.json)
-
----
-
-### Thusitha Halloluwa bail
-
-*2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
-
-The Colombo Magistrate Court has ordered that Mr. Thusitha Halloluwa, who was arrested and remanded in Narahenpita on the bail of the National Lotteries Board.
-
-Accordingly, Colombo Additional Magistrate Lahiru Silva has been appointed to release the suspects on two million guarantee of Rs.
-
-The suspect was then ordered to ban abroad, or ordered that the suspect's passport should be handed over to the court.
-
-◼️
-
-[Data](articles/6bf3a2ba.json)
-
-[Extended Data](ext_articles/6bf3a2ba.ext.json)
-
----
-
-### Traffic jam in the Lake House Circle
+### லேக் ஹவுஸ் சுற்றுவட்டத்தில் வாகன நெரிசல்
 
 *2025-09-18 13:44:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்-ஹவுஸ்-சுற்றுவட்டத்தில்-வாகன-நெரிசல்/175-364851) · `ta`
 
-Traffic in the Lake House has been blocked due to a protest by the Ceylon Electricity Board (CEB) employees.
+பல கோரிக்கைகளை முன்வைத்து இலங்கை மின்சார சபை ஊழியர்கள் மேற்கொண்டு வரும் ஆர்ப்பாட்டம் காரணமாக லேக் ஹவுஸ் சுற்றுவட்டத்தில் போக்குவரத்து தடைப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
 
-It is also reported that a road has been completely closed due to the ongoing demonstration in front of the Electricity Board headquarters.
+மின்சார சபை தலைமை அலுவலகத்திற்கு முன்பாக நடைபெற்று வரும் ஆர்ப்பாட்டம் காரணமாக ஒரு பாதை முற்றிலுமாக மூடப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
 
 ◼️
 
 [Data](articles/03843d9d.json)
-
-[Extended Data](ext_articles/03843d9d.ext.json)
 
 ---
 
@@ -134,25 +90,21 @@ Because of this agreement, if India attacks Pakistan, Saudi Arabia will retaliat
 
 ---
 
-### Details of the Diyawadana Nilame
+### දියවඩන නිලමේ නිලවරණය පවත්වන දින කියයි
 
 *2025-09-18 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-නිලවරණය-පවත්වන-දින-කියයි/11-418577) · `si`
 
-The Commissioner General of Buddhist Affairs Gamini Senaratne says that the election to appoint a new Diyawadana Nilame on the historic Sri Dalada Maligawa.
+මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ නව දියවඩන නිලමේවරයෙකු පත්කර ගැනීම සඳහාා වූ නිලවරණය නොවැම්බර් මස 07 හෝ ඊට ආසන්න දිනකදී පත්වීම සඳහා මේ වන වනවිට සක්කච්ඡා කරමින් පවතින බව බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් ගාමිණී සේනාරත්න මහතා පවසයි.
 
-The Commissioner General emphasized that when he visited the Kandy Secretariat today (18) for a special discussion today.
+විශේෂ සාකච්ඡාවක් සඳහා අද (18) මහනුවර මහ ලේකම් කාර්යාලයට පැමිණි අවස්ථාවේදී මධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් කොමසාරිස් ජනරාල්වරයා ඒ බව අවධාරණය කළේය.
 
-There he emphasized that the amendment process of the Vihara Paradhagam Ordinance is currently underway. He said that it is being discussed to be amended to amendments 42-43.
+එහිදී ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ විහාර දේවාලගම් ආඥා පනතේ සංශෝධන ක්‍රියාවලිය මේ වන විට ක්‍රියාත්මක වෙමින් පවතින බවයි. එහි 42-43 වගන්ති සංශෝධනය කිරීම සඳහා සාකච්ඡා වෙමින් පවතින බවත් එහි ඉදිරි කටයුතු සිදුවීමට නියමිත බවද පැවසීය.
 
-The Performance General emphasized that measures have been taken to revise the term of the Diyawadana Nilame which is scheduled to come.
+ඉදිරියේදී පත්වීමට නියමිත දියවඩන නිලමේවරයාගේ ධූර කාලය සංශෝධනය කිරීම සම්බන්ධයෙන් වු ක්‍රියාමාර්ග මෙතෙක් ගෙන නොමැති බවද අවසාරිස් ජනරාල්වරයා අවධාරණය කළේය.
 
-Not only in the North and East but also legal problems in Buddhist places of worship and measures are being taken to address the bill to solve them. The Commissioner General also stressed that the department is being carried out by the department as to the relevant activities of temples under the Vihara Devalaya Act.
-
-◼️
+...
 
 [Data](articles/317bb3a8.json)
-
-[Extended Data](ext_articles/317bb3a8.ext.json)
 
 ---
 
@@ -209,30 +161,6 @@ Slave Island from Slave Island to Lake House Roundabout, from Slave Island to La
 [Data](articles/aca396b3.json)
 
 [Extended Data](ext_articles/aca396b3.ext.json)
-
----
-
-### Air India crash victims’ families sue aerospace firms Boeing and Honeywell
-
-*2025-09-18 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112646/air-india-crash-victims-families-sue-aerospace-firms-boeing-and-honeywell) · `en`
-
-The families of four passengers who died on an Air India jet that crashed in June have filed a lawsuit in the US against planemaker Boeing and aircraft parts maker Honeywell, accusing the companies of negligence.
-
-The lawsuit filed Tuesday, and seen by the BBC, said faulty fuel switches caused the accident and accused the companies of doing “nothing” despite being aware of the risks of the aircraft’s design.
-
-Air India Flight 171 bound for London Gatwick, a Boeing 787, crashed shortly after takeoff from Ahmedabad, killing 260 people.
-
-Fuel switches have become a focus for investigators after a preliminary inquiry found that fuel to the engines was cut off moments after the plane left the ground.
-
-The US Federal Aviation Administration (FAA) has said earlier that fuel control switches in Boeing aeroplanes are safe.
-
-The US plane manufacturer did not comment on the case. Instead it pointed to India’s Aircraft Accident Investigation Bureau’s (AAIB) preliminary investigation report into the crash.
-
-...
-
-[Data](articles/88d6b7aa.json)
-
-[Extended Data](ext_articles/88d6b7aa.ext.json)
 
 ---
 
@@ -2021,5 +1949,59 @@ INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out
 [Data](articles/f79dd8f2.json)
 
 [Extended Data](ext_articles/f79dd8f2.ext.json)
+
+---
+
+### Trade Promoters announces partnership with Lovol in Sri Lanka
+
+*2025-09-18 03:18:43* · [`dailyftlk`](https://www.ft.lk/news/Trade-Promoters-announces-partnership-with-Lovol-in-Sri-Lanka/56-781831) · `en`
+
+TPL Joint Managing Director Ranil Fernando (left), with Lovol Heavy Industry Group South Asia Regional Manager Ali Xie
+
+Trade Promoters Ltd. (TPL) has announced its partnership with Lovol Heavy Industry Group Co., China, a global leader in the manufacture of construction equipment. Lovol is part of the Weichai group, a $ 30 billion Fortune 500 company.
+
+Lovol construction equipment including Wheel Loaders, Excavators (Crawler and Wheel), Backhoe Loaders, Skid Steer Loaders, Bulldozers, Forklifts, and Motor Graders will be made available to Sri Lankan consumers through this partnership. These world-class machines are engineered to meet the demands of the construction industry, be it residential, commercial or infrastructure development. Operating in more than 120 countries worldwide, Lovol is known for its durability, efficiency, and reliability.
+
+...
+
+[Data](articles/7320b746.json)
+
+[Extended Data](ext_articles/7320b746.ext.json)
+
+---
+
+### NTB WNPS lecture today to put spotlight on freshwater fishes
+
+*2025-09-18 03:13:25* · [`dailyftlk`](https://www.ft.lk/news/NTB-WNPS-lecture-today-to-put-spotlight-on-freshwater-fishes/56-781830) · `en`
+
+Experts Rohan Pethiyagoda and Hiranya Sudasinghe to share key insights
+
+The Nations Trust Bank-Wildlife and Nature Protection Society monthly lecture today will put spotlight on freshwater fishes with insights from Rohan Pethiyagoda and Hiranya Sudasinghe.
+
+The lecture which is open to the public will be at 6.00 p.m. at the Jasmine Hall, BMICH.
+
+...
+
+[Data](articles/46178b36.json)
+
+[Extended Data](ext_articles/46178b36.ext.json)
+
+---
+
+### A successful event of Tamil artists in Canada
+
+*2025-09-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225373) · `ta`
+
+Singer. B.. A concert was held recently in Toronto, Canada in order to restore the memories of Balasubramaniam.
+
+The ceremony was organized by D Media. Musician Travis Fernando and Tamil singers in Canada participated in the event and held in Toronto on the 13th.. The event was successfully held in cooperation with the Tamil Nadu Kalami.
+
+In addition, Canadian musician Pawan Rajkumar expressed his congratulations on the excellence.
+
+◼️
+
+[Data](articles/c5dc937d.json)
+
+[Extended Data](ext_articles/c5dc937d.ext.json)
 
 ---

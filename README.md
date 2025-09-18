@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 21:07:31**
+As of **2025-09-18 22:21:46**
 
 ## Newspaper Stats
 
-*Scraped **76,792** Articles*
+*Scraped **76,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,213 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,468
-adaderanalk | 9,911
-tamilmirrorlk | 11,537
-virakesarilk | 12,486
-adaderanasinhalalk | 13,397
+adalk | 7,470
+adaderanalk | 9,912
+tamilmirrorlk | 11,541
+virakesarilk | 12,490
+adaderanasinhalalk | 13,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,786 (97.4%) of 76,792 articles have been extended.
+74,857 (97.5%) of 76,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### වෑන් රථය බලෙන් පැහැරගත් කල්බදු සමාගමට නියෝගයක්
+### இலங்கைக்கெதிராக 169 ஓட்டங்களைப் பெற்ற ஆப்கானிஸ்தான்
+
+*2025-09-18 21:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கைக்கெதிராக-169-ஓட்டங்களைப்-பெற்ற-ஆப்கானிஸ்தான்/44-364878) · `ta`
+
+ஆசியக் கிண்ணத் தொடரில், ஐக்கிய அரபு அமீரகத்தின் அபு தாபியில் நடைபெற்று வரும் இலங்கைக்கெதிரான போட்டியில் முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் 20 ஓவர்களில் 8 விக்கெட்டுகளை இழந்து 169 ஓட்டங்களைப் பெற்றுள்ளது.
+
+நுவான் துஷார (4), துஷ்மந்த சமீர, தசுன் ஷானக, டுனித் வெல்லலாகே ஆகியோரிடம் விக்கெட்டுகளைப் பறிகொடுத்து 17.1 ஓவர்களில் 7 விக்கெட்டுகளை இழந்து 114 ஓட்டங்களைப் பெற்றிருந்த ஆப்கானிஸ்தான், வெல்லலாகே வீசிய இறுதி ஓவரில் மொஹமட் நபியால் பெறப்பட்ட 5 ஆறு ஓட்டங்கள் உள்ளடங்கலாக அவர் பெற்ற 60 (22) ஓட்டங்கள் காரணமாக 20 ஓவர்களில் 8 விக்கெட்டுகளை இழந்து 169 ஓட்டங்களைப் பெற்றது.
+
+◼️
+
+[Data](articles/dce45d32.json)
+
+---
+
+### Asian Bowl Cricket Tournament: Sri Lanka's target of 170 runs
+
+*2025-09-18 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225460) · `ta`
+
+The Asian Cup Cricket between Sri Lanka and Afghanistan is currently underway.
+
+◼️
+
+[Data](articles/74bb9db9.json)
+
+[Extended Data](ext_articles/74bb9db9.ext.json)
+
+---
+
+### Sri Lanka a target of 170 runs
+
+*2025-09-18 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214732) · `si`
+
+The Afghanistan scored 169 runs for the loss of 7 wickets in the 20 overs.
+
+Accordingly, the Sri Lankan squad was a 170 run target.
+
+Afghanistan Leader Razed decided to bat first, winning the coin.
+
+However, Nuwan Thushara was unable to find a consolation in the face of aggressive bowling.
+
+They were able to collect 43 runs in Powerplast.
+
+Nuwan Thushara, claimed to be sent to the wicket.
+
+However, Mohamed Pubihabi scored 60 runs in the rise.
+
+The last of the faller borrow, he held five sixes against Velleala's.
+
+The Nabi of Nabi, which was built by 22 balls, contains six sixes and three fours.
+
+◼️
+
+[Data](articles/e63f3b89.json)
+
+[Extended Data](ext_articles/e63f3b89.ext.json)
+
+---
+
+### நடிகர் ரோபோ சங்கர் காலமானார்
+
+*2025-09-18 21:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரோபோ-சங்கர்-காலமானார்/54-364877) · `ta`
+
+பிரபல நடிகர் நடிகர் ரோபோ சங்கர் சிகிச்சை பலனின்றி உயிரிழந்ததாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+ரோபோ சங்கர் (46) நேற்று முன்தினம் மதியம் ஒரு படப்பிடிப்பில் பங்கேற்றார். அப்போது திடீரென அவருக்கு மயக்கம் ஏற்பட்டது.
+
+இதையடுத்து அவரை படக்குழுவினர் சென்னை துரைப்பாக்கத்தில் உள்ள தனியார் மருத்துவமனையில் சிகிச்சைக்காக அனுமதித்தனர்.
+
+ரோபோ சங்கரை பரிசோதித்த மருத்துவர்கள் நீர்சத்து குறைபாடு மற்றும் குறைந்த ரத்த அழுத்தம் காரணமாக மயக்கம் ஏற்பட்டுள்ளதாகவும் தொடர்ந்து சில தினங்கள் மருத்துவ சிகிச்சை பெற வேண்டும் என அறிவுறுத்தியதன் பேரில் ரோபோ சங்கர் மருத்துவ கண்காணிப்பில் இருந்து வந்தார்.
+
+இந்நிலையில், வெண்டிலேட்டர் உதவியுடன் சிகிச்சை பெற்று வந்த நடிகர் ரோபோ சங்கர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+இவரது மறைவு குறித்து அறிந்து திரையுலகினர் அதிர்ச்சி அடைந்துள்ளனர். மேலும், இவரது மறைவுக்கு இரங்கல் தெரிவித்து வருகின்றனர்.
+
+...
+
+[Data](articles/485ee038.json)
+
+---
+
+### திருட்டில் ஈடுபட்ட வெளிநாட்டவர்களுக்கு  வலை வீச்சு
+
+*2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
+
+வாதுவ பகுதியில் நிறுத்திவைக்கப்பட்டிருந்த பாரவூர்தியில் இருந்து ஒரு இலட்சம் ரூபாய் பணத்தை திருடிச் சென்ற இரண்டு வெளிநாட்டினர் குறித்து விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக வாதுவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த பணத்தை அதிக பணமாக மாற்றித் தருவதாக கூறி நூதன முறையில் பணத்தை திருடியுள்ளனர்.
+
+குறித்த சம்பவம் தொட்பாக பாரவூர்தியின் சாரதி பொலிஸ் நிலையத்தில் முறைப்பாடளித்துள்ளதாக தெரிவிக்கப்படுகின்றது.  R
+
+◼️
+
+[Data](articles/7e95a7de.json)
+
+---
+
+### සැකකරුවෙක් සමග දුම්වැටි හුවමාරුවක් කළ සැරයන් දෙදෙනෙකුගේ වැඩ තහනම්
+
+*2025-09-18 21:10:32* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙක්-සමග-දුම්වැටි-හුවමාරුවක්-කළ-සැරයන්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-418592) · `si`
+
+තිහගොඩ පොලිස් ස්ථානයේ සිර මැදිරියේ රදවා සීටි සැකකරුවකුට දුම්වැටියක් දීම හා එම සැකකරුගෙන් දුම්වැටියක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් එම පොලිස් ස්ථානයේ සැරයන්වරුන් දෙදෙනෙකුගේ වැඩ තහනම් කල බව මාතර පොලිස් අධිකාරී කාර්යාලය පවසයි.
+
+ඒ පිළිබඳව මාතර ජේෂ්ඨ පොලීස් අධිකාරී ජයමීණි වසන්ත කුමාර මහතාට ලද තොරතුරකට අනුව මාතර සහකාර පොලිස් අධිකාරී චන්දන විජේසේකර මහතා විසින් අදාල පොලිස් ස්ථානයේ සිර මැදිරිය අසල සී.සී.ටී.වී කැමරා දර්ශන පරික්ෂා කර බලා මෙම වැඩ තහනම් කිරීම සිදු කර තිබේ.
+
+පුද්ගලයෙකුට පහර දී තුවාල සිදු කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැක පිට සැකකරුවකු අත්අඩංගුවට ගෙන සිර මැදිරිය තුල රදවා තබා ගෙන සීට ඇති අතර ඔහු බැලීමට පැමිණි අයෙකු රාත්‍රී උප සේවා රාජකාරියේ නිරතව සිටි සැරයන්වරයාට දුම්වැටි දෙකක් සැකකරුට දීම සදහා ලබා දී තිබෙන බව කියති.
+
+ඒ අනුව අදාල සැරයන්වරයා එම දුම්වැටි දෙක සිර මැදිරියේ සිටි සැකකරුට ලබා දී ඇති අතර ඉන් එකක් සැකකරු නැවත සැරයන්වරයාට ලබා දෙන අයුරු සී.සී.ටී.වී දර්ශන වල පටිගත වී තිබෙන බව දැන ගන්නට ඇත.
+
+...
+
+[Data](articles/7eff149b.json)
+
+---
+
+### Chinese fallen from apartment. Bij's corpse recovery
+
+*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜையின்-சடலம்-மீட்பு/175-364875) · `ta`
+
+The Dehiwala police have recovered the body of a Chinese national suspected of falling from an apartment in Dehiwala.
+
+Police said the body was found following information behind a house on Alvis Road.
+
+It has been revealed that many Chinese nationals working in the private sector live in an apartment complex.
+
+◼️
+
+[Data](articles/a242884e.json)
+
+[Extended Data](ext_articles/a242884e.ext.json)
+
+---
+
+### CDB raised the bell at the Colombo Stock Exchange after the 30th year
+
+*2025-09-18 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225459) · `ta`
+
+The Citizens Development Business Finance PLC (CDB), one of the leading bank financial institutions (NBFI) of Sri Lanka's leading bank financial institutions (NBFI), launched its 30th anniversary of the Colombo Stock Exchange (CSE), to commemorate its 30th anniversary of the CSE.. With this sound, CDB, the forerunner of digital change in Sri Lanka's financial services industry, has launched a new chapter in its continuous growth journey and a smart and sustainable commitment to strengthen Sri Lanka.
+
+This special bell sound, echoed in the stock market's trading complex, is a traditional event organized by the Colombo Stock Exchange. This reflects the elasticity of the market in the CDB journey over the past 30 years.
+
+...
+
+[Data](articles/2e1b7cda.json)
+
+[Extended Data](ext_articles/2e1b7cda.ext.json)
+
+---
+
+### Court orders the van arrested
 
 *2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
 
-කල්බදු වාරික නොගෙවීම හේතුවෙන් ලීසිං සමාගමක් විසින් පැහැරගත් වෑන් රථයක් යළි එහි ලියාපදිංචි හිමිකරුටම ලබාදෙන්නැයි අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
+The Attanagalla Magistrate's Court yesterday ordered the owner of the abducted van to the registration owner by a lease.
 
-අත්තනගල්ල මහේස්ත්‍රාත්වරයා සිය නියෝගය මගින් වැඩිදුරටත් සඳහන් කළේ, කල්බදු ගෙවීම පැහැරහැර ඇති අවස්ථාවක වුවත් වාහනයක් පැහැර ගැනීමට කල්බදු සමාගමකට කිසිඳු නීතිමය බලයක් නොමැති බවය.
+The Attanagalla Magistrate further stated that a leasing company has no legal authority to abduct a vehicle even if the lease is taken up.
 
-ඉකුත් අගෝස්තු මාසයේදී නිට්ටඹුව පල්ලේවෙල ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් මාර්ගය හරස්කර එහි ගමන් කරමින් තිබූ වෑන් රථයක් නවතා එය පැහැර ගැනීමකට ලක්කර තිබුණි.
+In the Nittambuwa Pallewela area in Nittambuwa, Nittambuwa had crossed the road and stopped a van that was routed.
 
-එහිදී එම පිරිස වාහනයේ හිමිකරුට දන්වා තිබුණේ ඔවුන් ලීසින් ආයතනයක සේවය කරන බවත් කල්බදු වාරික නොගෙවීම හේතුවෙන් වෑන් රථය ගෙන යන බවත් ය.
+The group had informed the owner of the vehicle and that they were working at a lease instality and the lease premium is being carried out.
 
-පසුව වාහනයේ හිමිකරු අත්තනගල්ල පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය හමුවේ නඩු ගොනු කළේ අදාළ ලීසිං සමාගම බලහත්කාරයෙන් සිය වාහනය පැහැරගත් බවට චෝදනා කරමිනි.
+The owner of the vehicle then lodged a complaint with the Attanagalla police station, accusing the Attanagalla Magistrate's Court.
 
-මෙම නඩුව විභාගයට ගැනීමෙන් පසු වාහනය පැහැරගත් පුද්ගලයින් දෙදෙනෙකු බන්ධනාගාරගත කිරීමට ද අධිකරණය එහිදී නියෝග කර තිබුණි.
+The court had ordered two abducted persons after the case was heard.
+
+Attanagalla Magistrate Manjula Karunaratne ordered the release of the vehicle to its registered owner.
+
+The Magistrate said that no leasing company could not be abducted even in a lease company on a proper premium background.
 
 ...
 
 [Data](articles/23a3e970.json)
+
+[Extended Data](ext_articles/23a3e970.ext.json)
+
+---
+
+### Women MPs’ Caucus discusses pathways toward a gender-sensitive Parliament
+
+*2025-09-18 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112653/women-mps-caucus-discusses-pathways-toward-a-gender-sensitive-parliament) · `en`
+
+Sri Lanka’s Women Parliamentarians’ Caucus discussed Potential pathways for UK support to the Caucus with representatives of the Westminster Foundation for Democracy (WFD) and also held discussions regarding intergenerational dialogue for encouraging young women’s political participation with the representatives of Law and Society Trust (LST).
+
+This meeting of the Women Parliamentarians’ Caucus was held on 12.09.2025 under the patronage of Prime Minister Dr. Harini Amarasuriya and the Chairperson of the Caucus Minister of Women and Child Affairs, Saroja Savitri Paulraj, according to the Department of Communication of Parliament.
+
+Addressing the Committee meeting, the Westminster Foundation for Democracy (WFD) proposed support on introducing and practicing gender-sensitive law-making and gender responsive budgeting and in understanding and supporting the role of the Caucus in increasing women’s labour force participation.
+
+...
+
+[Data](articles/0ec8e7bf.json)
+
+[Extended Data](ext_articles/0ec8e7bf.ext.json)
 
 ---
 
@@ -83,6 +255,26 @@ Rs. 488 billion has been allocated for pensions from the 2026 Appropriation Bill
 [Data](articles/7458d279.json)
 
 [Extended Data](ext_articles/7458d279.ext.json)
+
+---
+
+### Afghanistan team won the currency cycle
+
+*2025-09-18 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225458) · `ta`
+
+Afghanistan Captain Rashid Khan first chose the cricket match in the main match between the Sri Lanka and Afghanistan of the Asian Cup Cricket T20 series.
+
+Accordingly, even if the match is lost, the chances of leaving Sri Lanka are less likely.
+
+However, if the match loses the match, they will have to leave the match.
+
+If so, the Bangladesh team will qualify for the Super 4 round.
+
+◼️
+
+[Data](articles/da2d86d1.json)
+
+[Extended Data](ext_articles/da2d86d1.ext.json)
 
 ---
 
@@ -141,6 +333,26 @@ The remains are placed at the Southern Teaching Hospital morgue and Dehiwala pol
 [Data](articles/9652c1be.json)
 
 [Extended Data](ext_articles/9652c1be.ext.json)
+
+---
+
+### Provincial Council election: parties consensus necessary - Indian High Commissioner
+
+*2025-09-18 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225457) · `ta`
+
+The Indian High Commissioner to Sri Lanka Santosh Ja, who has urged the government to hold the provincial council election democratically, has urged all political parties to make a consensus.
+
+Indian High Commissioner to Sri Lanka Santosh Ja met with the main opposition parliamentarians in Colombo on Wednesday (17). United People's Power Secretary Ranjith Mathuma Bandara, MPs Kavinda Jayawardena, Harshana Rajakaruna, Dayasiri Jayasekara and Nalin Bandara were present at the meeting.
+
+At the same time, the High Commissioner Santosh Jha emphasized this. In addition, Sri Lanka's contemporary political conditions and Indian development projects are being carried out at this time.
+
+The Indian High Commission in Colombo said that the meeting between the United People's Power MPs and the High Commission was discussed in a wide range of Sri Lanka -Indian relations and the development of the country.
+
+◼️
+
+[Data](articles/3f817066.json)
+
+[Extended Data](ext_articles/3f817066.ext.json)
 
 ---
 
@@ -710,6 +922,26 @@ The initiative successfully introduced several programs, including organic ferti
 
 ---
 
+### If you have more than the assets offered, take over the government and give the people
+
+*2025-09-18 16:06:59* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරිපත්-කළ-වත්කම්වලට-වැඩි-යමක්-තිබේනම්-රජයට-පවරාගෙන-ජනතාවට-දෙන්න/11-418590) · `si`
+
+In addition to other assets, MP Namal Rajapaksa said that he would take over them to the government and distribute them to the government.
+
+He was responding to media issues after a program.
+
+"In 2015, I investigate my assets. If you have something on what I have presented, it quickly takes them quickly and distribute them to the government.
+
+My wife's family is more business family than me. I have worked as a lawyer. There are revenue from parents. There is nothing to hide. I answered what he asked me. The assets of those who accused us are greater than we are. "
+
+◼️
+
+[Data](articles/26206616.json)
+
+[Extended Data](ext_articles/26206616.ext.json)
+
+---
+
 ### There is no recording of the jeep camera system that confronts the fall bus collide
 
 *2025-09-18 15:59:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රථය-ගැටුණ-ජීප්-රියේ-කැමරා-පද්ධතියේ-පටිගතවීමේ-පහසුකම්-නෑ/11-418589) · `si`
@@ -758,21 +990,23 @@ The committee's commander (WFD) representatives (WFD) representatives were able 
 
 ---
 
-### මුදල් ගණුදෙනුවලදී ව්‍යාජ නෝට්ටු ගැන සැලකිලිමත් වන්න
+### Take care of counterfeit notes in money transactions
 
 *2025-09-18 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-ගණුදෙනුවලදී-ව්‍යාජ-නෝට්ටු-ගැන-සැලකිලිමත්-වන්න/11-418588) · `si`
 
-දෛනික අවශ්‍යතා අනුව භාණ්ඩ මිලදී ගැනීමේදී හා විවිධ ගනුදෙනු සඳහා මුදල් පරිහරණය කිරීමේදී එම මුදල් ව්‍යාජ මුදල් නෝට්ටුද යන්න පිළිබඳව සුපරික්ෂාකාරිව හා අවධානයෙන් යුතුව තහවුරු කර ගන්නා ලෙස පොලීසිය මහජනතාවට දැනුම් දෙයි.
+The police informs the public to ensure that the money is consumed and interested in the purchase of goods and custody for various transactions.
 
-මුදල් නෝට්ටු ව්‍යාජ නොවන බවට තහවුරු කර ගැනීමෙන් පසුව මුදල් නෝට්ටු පරිහරණය කිරීමටත් එවැනි ව්‍යාජ මුදල් නෝට්ටු සන්තකයේ තබා ගැන්නා හෝ ගනුදෙනු කරන පුද්ගලයින් පිළිබඳව තොරතුරු ලද වහාම ශ්‍රී ලංකා පොලීසිය දැනුවත් කරන ලෙසත් පොලීසිය පවසයි.
+Police say that after confirmation of cash notes, the police said to use the banknotes and make information about the cash bank notes or informed of such counterfeit notes and inform the Sri Lankan Police.
 
-මේ අතර ඊයේ සවස් කාලයේදී හබරණ නගරයේදී ව්‍යාජ රු. 5000 මුදල් නෝට්ටු දෙකක් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් සිදුකළ වැඩිදුර විමර්ශනදී තවත් ව්‍යාජ රු 5000 නෝට්ටු දෙක බැගින් ළඟ තබාගෙන සිටි පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Meanwhile, in the evening of the evening, the fake Rs. Two other fake Rs. 5000 notes have been arrested in the investigation of 5000 notes.
 
-තවදුරටත් සිදු කළ විමර්ශනවලදී ව්‍යාජ රු 5000 නෝට්ටු මුද්‍රණය කරන ලද සැකකරුවෙක් එවැනි නෝට්ටු 138ක් සමග මුද්‍රණයට යොදා ගන්නා උපකරණද සමග අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+Police say that the fake Rs. 5000 notes were printed with 138 such notes, police said.
 
 ◼️
 
 [Data](articles/0e8895dc.json)
+
+[Extended Data](ext_articles/0e8895dc.ext.json)
 
 ---
 
@@ -1851,239 +2085,5 @@ The business station was later seized by the Tanamalwila Inspector of Tanamalwil
 [Data](articles/0b2666ec.json)
 
 [Extended Data](ext_articles/0b2666ec.ext.json)
-
----
-
-### Backo Saman's wife further remanded
-
-*2025-09-18 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214704) · `si`
-
-The wife of Shakka Lakshmani, his wife, was remanded until the 25th of the Money Laundering Act.
-
-◼️
-
-[Data](articles/408468b8.json)
-
-[Extended Data](ext_articles/408468b8.ext.json)
-
----
-
-### Gun in the lawyer's car
-
-*2025-09-18 11:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணியின்-காரில்-துப்பாக்கி/175-364837) · `ta`
-
-Valasmulla police said that a gun was found from a car of a lawyer who was parked on the court premises, Walasmulla.
-
-The gun has been found from the lawyer's car, on behalf of the suspect in connection with the recovery of a land in the Mitteniya Talawa area.
-
-After submitting a report to the Valasmulla court on the incident, the lawyer told the court that it was a rifle.
-
-After going to the Walasmulla police station, Valasmulla court magistrate Malba Kodithuwa has ordered the release of the gun.
-
-◼️
-
-[Data](articles/d2e41118.json)
-
-[Extended Data](ext_articles/d2e41118.ext.json)
-
----
-
-### Rs.
-
-*2025-09-18 11:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாழ்க்கையையே-புரட்டிய-ரூ-2-000-மனைவியின்-அந்தரங்க-உறுப்பை-Zoom-செய்த-அசிங்கம்/175-364836) · `ta`
-
-Nagendra and Akila followed their dreams. Nagendra, a young man from Telangana, fell in love with Akila for many years.
-
-They were married on October 28, despite the fierce opposition of relatives. It was just six months before the wedding. Nagendra settled in his hometown of Visakhapatnam and engaged in fishing.
-
-The life of the sea sand with Akila gave them a new hope.
-
-The severe economic crisis hit them. The fishing industry was affected due to sea oscillations. To compensate for household expenses, Nagendra installed a loan app on his phone. He thought it would be enough for just 2000 rupees.
-
-He turned it back with interest. But, that 2000 rupees destroyed their lives.. Even then, the agents of the credit company followed Nagendra.
-
-They scolded him and insulted him. At the peak, Akila's photos in their hands - it was the personal memories of the couple - they edited pornography. They zoiled the inner parts, created poisonous images and spread it on social networks.
-
-...
-
-[Data](articles/0d8176a8.json)
-
-[Extended Data](ext_articles/0d8176a8.ext.json)
-
----
-
-### Restrictions imposed on entry to BIA Departure Lobby amended
-
-*2025-09-18 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112642/restrictions-imposed-on-entry-to-bia-departure-lobby-amended) · `en`
-
-Restrictions imposed to enter the Departure Lobby of the Bandaranaike International Airport (BIA) have been amended.
-
-Last month, the Airport and Aviation Services (Sri Lanka) (Private) Limited announced that visitor entry tickets to the Departure Lobby of the BIA will not be issued during peak hours of Thursdays, Fridays and Saturdays.
-
-Accordingly, entry to the lobby was not permitted for visitors from 10:00 p.m. to midnight on Thursdays, Fridays and Saturdays.
-
-However, the Airport and Aviation Services (Sri Lanka) (Private) Limited said the restrictions will now be applicable only on Thursday and Saturdays.
-
-The company noted that the decision was taken in order to manage the congestion at the airport and to enhance the experience of travelers.
-
-◼️
-
-[Data](articles/f6d1bf23.json)
-
-[Extended Data](ext_articles/f6d1bf23.ext.json)
-
----
-
-### Kandy Dalada Maligawa Diyawadana Nilame election date announced
-
-*2025-09-18 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112641/kandy-dalada-maligawa-diyawadana-nilame-election-date-announced) · `en`
-
-The election for the Diyawadana Nilame of the Sri Dalada Maligawa in Kandy is scheduled to take place on or around November 7, the Commissioner General of Buddhist Affairs, Gamini Senarathna has stated.
-
-The term of the incumbent Diyawadana Nilame ended earlier this month. He was then appointed for three months in acting capacity.
-
-Accordingly, arrangements have been made to hold the election for the appointment of a new Diyawadana Nilame on or near November 7.
-
-Incumbent Diyawadana Nilame Pradeep Nilanga Dela was first appointed to the post in 2005.
-
-Since then, he has been elected twice to the post through elections.
-
-◼️
-
-[Data](articles/3c253823.json)
-
-[Extended Data](ext_articles/3c253823.ext.json)
-
----
-
-### Diyawadana Nilame in Sri Dalada Maligawa will decide
-
-*2025-09-18 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214702) · `si`
-
-The Commissioner General of Buddhist Affairs Gamini Senaratne says that the election of Diyawadana Nilame of Sri Dalada Maligawa, Kandy will be held on November 7 or near.
-
-The term of office of the current Diyawadana Nilame is due to end September.
-
-Accordingly, the election of a new Diyawadana Nilame man has been organized on November 7, or near November this year.
-
-Thereafter he was elected to the Diyawadana Nilame in two occasions.
-
-◼️
-
-[Data](articles/d056a0d6.json)
-
-[Extended Data](ext_articles/d056a0d6.ext.json)
-
----
-
-### Bail for Tusita Hallulu!
-
-*2025-09-18 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225387) · `ta`
-
-Former Director of the National Lotter Board, Dusitha Halluluwa, has been released on bail.
-
-Former Director of the National Lottery Board, Dusitha Halluluwa was arrested and interrogated on suspicion of firing on the vehicle he was traveling in.
-
-It is noteworthy that the Colombo Criminal Investigation Division was arrested on August 19 in Kaluppitti area.
-
-◼️
-
-[Data](articles/7128c9cc.json)
-
-[Extended Data](ext_articles/7128c9cc.ext.json)
-
----
-
-### A sample service for boys affected by violence
-
-*2025-09-18 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறைகளால்-பாதிக்கப்படும்-சிறுவர்களுக்கான-ஒரு-மாதிரிச்-சேவை/175-364834) · `ta`
-
-The Ministry of Justice and the Ministry of Women and Children's Affairs has launched a prototype service through UNICEF with the aim of helping violently experienced children.
-
-In that respect, this is the case of the new model, from the police station, an emergency call number or some other method, from the complaints of the children to the sustainable maintenance and safety mechanisms.
-
-This model service includes six primary initiatives that introduce many changes in child protection and the judiciary in rural and national levels.
-
-...
-
-[Data](articles/49898beb.json)
-
-[Extended Data](ext_articles/49898beb.ext.json)
-
----
-
-### The body of the man from the canal in Tissamaharam
-
-*2025-09-18 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225385) · `ta`
-
-The body of a man has been recovered from the canal in the Chandungama Pragati Mawatha area, which belongs to the Tissamaharam Police Division in Hambantota, Tissamaharam police said.
-
-Initial investigations by the police revealed that he was attacked and drowned in water due to a personal dispute.
-
-◼️
-
-[Data](articles/22e19975.json)
-
-[Extended Data](ext_articles/22e19975.ext.json)
-
----
-
-### Sri Lanka’s Acme Printing and Packaging to raise Rs1.4bn from rights issue
-
-*2025-09-18 10:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-acme-printing-and-packaging-to-raise-rs1-4bn-from-rights-issue-241004/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Acme Printing and Packaging plans a six for one rights issue of 570 million ordinary voting shares at 2.50 rupees each to raise 1.4 billion, a stock exchange filing said.
-
-The cash will be used for the following purposes, the company said:
-
-– To initiate the key measures to prevent further losses and support recovery which was presented to the shareholders pursuant to Section 220 of the Companies Act on 17th September 2025.
-
-The rights issue is subject to Colombo Stock Exchange and shareholder approval. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/ddf6520f.json)
-
-[Extended Data](ext_articles/ddf6520f.ext.json)
-
----
-
-### US support for training on the sponsorship of the port law
-
-*2025-09-18 10:44:14* · [`adalk`](https://www.ada.lk/business/වරාය-නීතියේ-එන-අනුග්‍රාහකත්වය-පිළිබඳ-පුහුණුවට-ඇමෙරිකා-සහාය/7-418573) · `si`
-
-US support is available to a program to strengthen the capacity of Sri Lanka regarding port law and government-private partnerships (PPPS).
-
-The US embassy in Sri Lanka has been supported by the University of the Department of Commerce (CLDP) through the Commercial Departments Department of the Sri Lanka Ports Authority and the Department of Attorney General's Department.
-
-This included technical training on the legal framework that controlled the contronting law of covenants, emphasizing transparency, accountability and public interests. Future infrastructure projects are also reflected in the United States to support Sri Lanka's strong agencies, promoting the prospect of the people of Sri Lanka.
-
-...
-
-[Data](articles/37837593.json)
-
-[Extended Data](ext_articles/37837593.ext.json)
-
----
-
-### Filed by a student petition
-
-*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
-
-A young student from Bandarawa has sought the High Court, claiming that his constitutional rights had been violated as the University Grants Commission (UGC) refused to graduate on technology based on its disability.
-
-The case was adjourned to the hearing on February 24 next year when the case was taken up before a session of two judges comprising High Court Chief Justice Preeti Padman Surasena and Justice Shiran Gunaratne.
-
-The petitioner claims that he is an alternate student who qualified for the University Admissions in the Technical Division at Dharmapala College, Bandarawela.
-
-He said he had been informed that there were no arrangements to study such degree under the Division of the Disabled Students, despite applying for the Degree of Technology for the 2024/2025 academic year.
-
-The petitioner urges the High Court to declare that his fundamental rights have been violated by the UGC's decision.
-
-...
-
-[Data](articles/7e025974.json)
-
-[Extended Data](ext_articles/7e025974.ext.json)
 
 ---

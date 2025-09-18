@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 10:08:57**
+As of **2025-09-18 09:56:37**
 
 ## Newspaper Stats
 
-*Scraped **76,667** Articles*
+*Scraped **76,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,447
+adalk | 7,446
 adaderanalk | 9,893
 tamilmirrorlk | 11,500
 virakesarilk | 12,476
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,369
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,179 (96.8%) of 76,667 articles have been extended.
+74,179 (96.8%) of 76,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -362,28 +362,6 @@ Police have warned the public to avoid bathing in the sea when heavy waves are f
 
 ---
 
-### “ක්ලීන් ශ්‍රී ලංකා” නාගරික වනාන්තර ව්‍යාපෘතියේ දෙවන අදියර තොටළඟින් ඇරඹේ
-
-*2025-09-18 07:35:41* · [`adalk`](https://www.ada.lk/breaking_news/“ක්ලීන්-ශ්‍රී-ලංකා”-නාගරික-වනාන්තර-ව්‍යාපෘතියේ-දෙවන-අදියර-තොටළඟින්-ඇරඹේ/11-418568) · `si`
-
-“ක්ලීන් ශ්‍රී ලංකා” වැඩසටහන යටතේ නාගරික වනාන්තර ඇති කිරීමේ ව්‍යාපෘතියේ දෙවන අදියර තොටළඟ සිරිමාවේ බණ්ඩාරනායක මාවත, බස් නැවතුම්පොළ අසලදී පෙරවරුවේ ආරම්භ කෙරිණි.
-
-ඒ අනුව තොටළඟ කොළඹ මහ නගර සභාවට අයත් භූමියෙහි පැළ රෝපණය කරමින් එය ආරක්ෂණීය නාගරික වන වගා භූමියක් ලෙස සංවර්ධනය කර ඇත.
-
-පාරිසරික වටිනාකමකින් යුත් මෙම පැළ ආරක්ෂා කර රැකබලා ගැනීමේ කැපකරුවන් ලෙස මාදම්පිටිය ශ්‍රී සංඝබෝධී මහා විද්‍යාලයේ පාසල් සිසු සිසුවියන් වෙත වගකීම් පැවරීම මෙහි විශේෂත්වයකි.
-
-එම අවස්ථාව සනිටුහන් කරමින් පාසල් සිසු සිසුවියන් වෙත ත්‍යාග සහ සහතික පත් ප්‍රදානය කිරීමද සිදු කෙරිණි.
-
-සීමාසහිත කැපටල් මහාරාජ සමූහ ව්‍යාපාරයට අයත් එස්-ලෝන් ලංකා පුද්ගලික සමාගම විසින් ක්‍රියාත්මක කරනු ලබන “තුරු කැපකරු” වැඩසටහන සහ ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය ඒකාබද්ධ වෙමින් ජනාධිපති කාර්යාලයේ මගපෙන්වීම යටතේ මාර්ග සංවර්ධන අධිකාරිය, නාගරික සංවර්ධන අධිකාරිය සහ කොළඹ මහ නගර සභාව
-
-ඇතුළු රාජ්‍ය සහ පෞද්ගලික අංශවල දායකත්වයෙන් මෙම ව්‍යාපෘතිය සිදු කෙරේ.
-
-◼️
-
-[Data](articles/a95ff400.json)
-
----
-
 ### Severe Soldier appreciates of survived passengers in the fall in the fall
 
 *2025-09-18 07:30:25* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේදී-තම-දිවි-නොතකා-මගීන්-බේරා-ගත්-විශේෂ-බළකා-සෙබලා-අගයයි/11-418567) · `si`
@@ -440,7 +418,7 @@ Accordingly, the BIRDS-X Dragonfly nano-satellite is scheduled to be released in
 
 ---
 
-### France starting talks with Sri Lanka to resume projects after default ends
+### France starting talks with Sri Lanka to start projects after default ends
 
 *2025-09-18 06:30:00* · [`economynextcom`](https://economynext.com/france-starting-talks-with-sri-lanka-to-start-projects-after-default-ends-240956/) · `en`
 
@@ -2039,5 +2017,25 @@ A bond maturing on 15.12.2032 closed at 10.40/49 percent, up from 10.38/45 perce
 [Data](articles/c066a143.json)
 
 [Extended Data](ext_articles/c066a143.ext.json)
+
+---
+
+### Special insurance scheme introduced for commercial ginger and turmeric cultivation
+
+*2025-09-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112614/special-insurance-scheme-introduced-for-commercial-ginger-and-turmeric-cultivation) · `en`
+
+A special insurance scheme for ginger and turmeric cultivation intended for commercial purposes and export markets has been introduced by the Agriculture and Agrarian Insurance Board.
+
+Chairman Pemasiri Jasinghe Arachchi stated that farmers cultivating ginger will be eligible to obtain insurance coverage of up to Rs. 200,000 per acre.
+
+By paying a 7% insurance premium, farmers will receive coverage against natural disasters, crop diseases, pest infestations and damage caused by wild elephants, he further noted.
+
+Additionally, for turmeric cultivation, farmers will be able to obtain insurance coverage of up to Rs. 700,000 per acre under this scheme.
+
+◼️
+
+[Data](articles/4b44e92c.json)
+
+[Extended Data](ext_articles/4b44e92c.ext.json)
 
 ---

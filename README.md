@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 22:10:27**
+As of **2025-09-18 23:20:45**
 
 ## Newspaper Stats
 
-*Scraped **76,800** Articles*
+*Scraped **76,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,193 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,469
+adalk | 7,470
 adaderanalk | 9,912
-tamilmirrorlk | 11,538
+tamilmirrorlk | 11,542
 virakesarilk | 12,490
-adaderanasinhalalk | 13,398
+adaderanasinhalalk | 13,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,834 (97.4%) of 76,800 articles have been extended.
+74,903 (97.5%) of 76,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### ஆசிய கிண்ண கிரிக்கெட் போட்டி : இலங்கை அணிக்கு வெற்றி இலக்காக 170 ஓட்டங்கள் நிர்ணயம்
+### Super - 4 round Sri Lanka needs 101 runs
+
+*2025-09-18 22:22:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/சுப்பர்-4-சுற்றுக்கு-இலங்கைக்கு-101-ஓட்டங்கள்-தேவை/44-364879) · `ta`
+
+Sri Lanka has to score 101 runs in today's match against Afghanistan to qualify for the Super 4 round of the Asia Cup.
+
+Sri Lanka has to score 101 runs to qualify for the Super 4 round, with Afghanistan scored 169 runs for the loss of 8 wickets in 20 overs.
+
+Afghanistan Super 4 Must qualify for the match must win in this competition. If Afghanistan won 101 runs, Sri Lanka will go to the Super 4 round with Afghanistan. Sri Lanka and Bangladesh will go to the Super 4 round if Afghan loses. If Sri Lanka does not get 101 runs, Afghanistan and Bangladesh will go to the Super 4 round.
+
+◼️
+
+[Data](articles/232b852c.json)
+
+[Extended Data](ext_articles/232b852c.ext.json)
+
+---
+
+### Fatal Amaba infection from India
+
+*2025-09-18 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214733) · `si`
+
+It is reported that the brain cells of the brain is a fast expansion of fascinating state in Kerala, India.
+
+According to foreign media, 19 people have been recovered from the state during the past year, 190 of them have died.
+
+This ambacks, such as reservoirs, rivers, have been recovered by now to the human body across the nose.
+
+However, less than 500 patients have been reported so far, but over 120 patients have been reported in the Kerala last two years.
+
+◼️
+
+[Data](articles/955f4283.json)
+
+[Extended Data](ext_articles/955f4283.ext.json)
+
+---
+
+### Afghanistan scored 169 runs against Sri Lanka
+
+*2025-09-18 21:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கைக்கெதிராக-169-ஓட்டங்களைப்-பெற்ற-ஆப்கானிஸ்தான்/44-364878) · `ta`
+
+In the Asia Cup series, Afghanistan scored 169 runs for the loss of 8 wickets in 20 overs in the upcoming match against Sri Lanka.
+
+Nuwan Dushara (4), Dushmantha Sameera, Dasun Shanaka and Dunit Vellalake took wickets and lost 7 wickets in 17.1 overs and scored 114 runs in the final over by Mohamed.
+
+◼️
+
+[Data](articles/dce45d32.json)
+
+[Extended Data](ext_articles/dce45d32.ext.json)
+
+---
+
+### Asian Bowl Cricket Tournament: Sri Lanka's target of 170 runs
 
 *2025-09-18 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225460) · `ta`
 
-இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான ஆசிய கிண்ண கிரிக்கெட் இருபதுக்கு 20 போட்டி தற்போது நடைபெற்று வருகிறது.
+Twenty20 match between Sri Lanka and Afghanistan is currently underway.
 
 ◼️
 
 [Data](articles/74bb9db9.json)
 
+[Extended Data](ext_articles/74bb9db9.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ලකුණු 170ක ඉලක්කයක්
+### Sri Lanka a target of 170 runs
 
 *2025-09-18 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214732) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී ලකුණු 169ක් රැස් කළේය.
+The Afghanistan scored 169 runs for the loss of 7 wickets in the 20 overs.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමට ලකුණු 170ක ජයග්‍රාහී ඉලක්කක් හිමිවිය.
+Accordingly, the Sri Lankan squad was a 170 run target.
 
-මෙම තරගයේ කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායක රශිඩ් ඛාන් පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+Chances can easily access the Super 4 to Sri Lanka in order to chase this goal.
 
-කෙසේ නමුත් නුවන් තුෂාරගේ ආක්‍රමණශීලි පන්දු යැවීම හමුවේ සැනසිලිදායක ආරම්භයක් ලබාගැනීමට නොහැකි විය.
+If the defeat may not be more than 71 runs.
 
-පවර්ප්ලේ අවස්ථාවේ දී ඔවුන්ට රැස්කිරීමට හැකිවූයේ ලකුණු 43ක් පමණක් වූ අතර, එහිදී මුල්පෙළ පිතිකරුවන් තිදෙනාම දැවීගියේය.
+Afghanistan Leader Razed decided to bat first, winning the coin.
 
-මෙම කඩුලු ත්‍රිත්වයට හිමිකම් කියූ නුවන් තුෂාර, දෙදෙනෙකුම පන්දුව කඩුල්ල වෙත යොමුකර දවාගැනීමට සමත් විය.
+However, they were unable to obtain a consolation in the face of the invasive bowling of Nuwan Thushara.
 
-කෙසේ නමුත් ඇෆ්ගනිස්තාන පසුපෙළ වර්ණවත් කළ මොහොමඩ් නබි ලකුණු 60ක් රැස්කිරීමට සමත් විය.
+At the time of the Powerplast, 43 runs were able to collect in Afghanistan, and the three store batsmen were infected.
 
-ඉන් අවසන් පන්දුවාරය යොමුකළ දුනිත් වෙල්ලාලගේට එරෙහිව ඔහු හයේ පහර 5ක් එල්ල කළේය.
+Nuwan Thushara, claimed to be sent to the wicket.
 
-පන්දු 22කින් ගොඩනැගුණු නබිගේ ඉනිමෙහි හයේ පහර 6ක් හා හතරේ පහර 3ක් අන්තර්ගත විය.
+The Afghanistan score board was in operation of the 12th (11.3) in the match, while the match 17 was recorded as 114/6.
+
+However, they only scored 55 runs in their innings and brought their innings to a competitive mark.
+
+Mohammed has scored 60-year-old Mohammed Pubiha scored 60 year old.
+
+The last of the faller borrow, he held five sixes against Velleala's.
+
+...
+
+[Data](articles/e63f3b89.json)
+
+[Extended Data](ext_articles/e63f3b89.ext.json)
+
+---
+
+### Actor Robot Shankar has passed away
+
+*2025-09-18 21:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரோபோ-சங்கர்-காலமானார்/54-364877) · `ta`
+
+Indian media reports that the famous actor Robot Shankar died without treatment.
+
+Robot Shankar (46) participated in a shooting of a shoot yesterday afternoon. Suddenly he was faint.
+
+He was then admitted to a private hospital in Duraipakkam, Chennai.
+
+Robot Shankar came under medical care on the advocate of the doctors who examined Robot Sankar, who had been drowned due to dehydration and low blood pressure.
+
+In this case, actor Robot Shankar, who was treated with the help of a ventilator, died without treatment.
+
+The filmmakers are shocked to learn about his death. Also, they are condolences to his death.
+
+Robot Shankar was admitted to hospital with jaundice a few years ago. It is noteworthy that he died after he was re -starring in films after intensive care. Remble
 
 ◼️
 
-[Data](articles/e63f3b89.json)
+[Data](articles/485ee038.json)
+
+[Extended Data](ext_articles/485ee038.ext.json)
+
+---
+
+### Web range for foreigners involved in theft
+
+*2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
+
+Investigations are underway into two foreigners who stole a sum of Rs.
+
+They have stolen the money in a new way, claiming that the money is turned into more money.
+
+It is reported that the driver of Paravurthi has lodged a complaint at the police station.  R
+
+◼️
+
+[Data](articles/7e95a7de.json)
+
+[Extended Data](ext_articles/7e95a7de.ext.json)
+
+---
+
+### Two series of cigarettes with a suspect banned
+
+*2025-09-18 21:10:32* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙක්-සමග-දුම්වැටි-හුවමාරුවක්-කළ-සැරයන්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-418592) · `si`
+
+The Matara Superintendent of Police (SSP) said that two sergeants launched a cigarette and obtaining a cigarette in the Thihagoda Police Station.
+
+According to a tip off received by senior police Chief Minister Jayamina Wasantha Kumara, Matara ASP Chandana Wijesekara has inspected CCTV cameras near the police station.
+
+A suspect has been arrested and arrested for suspicion of suspicion of injury and had been arrested in connection with a suspect in the cell.
+
+Accordingly, the sergeant has been given the two cigarettes to the suspect, which would have been recorded in CCTV scenes.
+
+The official in charge of the task was suspended under the charge of performing duties.
+
+They have been accused of obeying the prestigious behavior, commander, and the accusations of corruption.
+
+Both banned sergeants were aged 58 and 59 years old, and another 60 months, and the other sergeant remained nearly a year.
+
+...
+
+[Data](articles/7eff149b.json)
+
+[Extended Data](ext_articles/7eff149b.ext.json)
 
 ---
 
@@ -1971,125 +2105,5 @@ Prime Minister Dr. Haraini Amarasuriya said this while participating in the Indu
 [Data](articles/c3bda561.json)
 
 [Extended Data](ext_articles/c3bda561.ext.json)
-
----
-
-### Wife of ‘Backhoe Saman’ further remanded
-
-*2025-09-18 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112643/wife-of-backhoe-saman-further-remanded-) · `en`
-
-The wife of underworld figure ‘Backhoe Saman’, Shadhika Lakshani, who is currently in remand custody under the Prevention of Money Laundering Act, has been further remanded until September 25 by the Colombo Magistrate’s Court, Ada Derana reporter said.
-
-The Magistrate has also ordered the Director of the Police Narcotics Bureau to appear before court on that date.
-
-The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after considering the submissions presented by the Criminal Investigation Department (CID) and the legal counsel representing the suspect.
-
-◼️
-
-[Data](articles/75dbb8cb.json)
-
-[Extended Data](ext_articles/75dbb8cb.ext.json)
-
----
-
-### Businessman arrested for selling the country to Tanamalwila school children
-
-*2025-09-18 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214705) · `si`
-
-Police have arrested a businessman on suspicion that school children in the Thanamalwila area were sold abroad.
-
-It has also been revealed that the businessman had given a variety of cigarettes to sell these cigarettes.
-
-One cigarette has been given a sum of Rs. 100 for a sum of Rs.
-
-The student of the school has been imported and the student who is selling cigarettes has been obtained and two foreign cigarettes have been found in his possession.
-
-The business station was later seized by the Tanamalwila Inspector of Tanamalwila police inspector.
-
-◼️
-
-[Data](articles/0b2666ec.json)
-
-[Extended Data](ext_articles/0b2666ec.ext.json)
-
----
-
-### Backo Saman's wife further remanded
-
-*2025-09-18 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214704) · `si`
-
-The wife of Shakka Lakshmani, his wife, was remanded until the 25th of the Money Laundering Act.
-
-◼️
-
-[Data](articles/408468b8.json)
-
-[Extended Data](ext_articles/408468b8.ext.json)
-
----
-
-### Gun in the lawyer's car
-
-*2025-09-18 11:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணியின்-காரில்-துப்பாக்கி/175-364837) · `ta`
-
-Valasmulla police said that a gun was found from a car of a lawyer who was parked on the court premises, Walasmulla.
-
-The gun has been found from the lawyer's car, on behalf of the suspect in connection with the recovery of a land in the Mitteniya Talawa area.
-
-After submitting a report to the Valasmulla court on the incident, the lawyer told the court that it was a rifle.
-
-After going to the Walasmulla police station, Valasmulla court magistrate Malba Kodithuwa has ordered the release of the gun.
-
-◼️
-
-[Data](articles/d2e41118.json)
-
-[Extended Data](ext_articles/d2e41118.ext.json)
-
----
-
-### Rs.
-
-*2025-09-18 11:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாழ்க்கையையே-புரட்டிய-ரூ-2-000-மனைவியின்-அந்தரங்க-உறுப்பை-Zoom-செய்த-அசிங்கம்/175-364836) · `ta`
-
-Nagendra and Akila followed their dreams. Nagendra, a young man from Telangana, fell in love with Akila for many years.
-
-They were married on October 28, despite the fierce opposition of relatives. It was just six months before the wedding. Nagendra settled in his hometown of Visakhapatnam and engaged in fishing.
-
-The life of the sea sand with Akila gave them a new hope.
-
-The severe economic crisis hit them. The fishing industry was affected due to sea oscillations. To compensate for household expenses, Nagendra installed a loan app on his phone. He thought it would be enough for just 2000 rupees.
-
-He turned it back with interest. But, that 2000 rupees destroyed their lives.. Even then, the agents of the credit company followed Nagendra.
-
-They scolded him and insulted him. At the peak, Akila's photos in their hands - it was the personal memories of the couple - they edited pornography. They zoiled the inner parts, created poisonous images and spread it on social networks.
-
-...
-
-[Data](articles/0d8176a8.json)
-
-[Extended Data](ext_articles/0d8176a8.ext.json)
-
----
-
-### Restrictions imposed on entry to BIA Departure Lobby amended
-
-*2025-09-18 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112642/restrictions-imposed-on-entry-to-bia-departure-lobby-amended) · `en`
-
-Restrictions imposed to enter the Departure Lobby of the Bandaranaike International Airport (BIA) have been amended.
-
-Last month, the Airport and Aviation Services (Sri Lanka) (Private) Limited announced that visitor entry tickets to the Departure Lobby of the BIA will not be issued during peak hours of Thursdays, Fridays and Saturdays.
-
-Accordingly, entry to the lobby was not permitted for visitors from 10:00 p.m. to midnight on Thursdays, Fridays and Saturdays.
-
-However, the Airport and Aviation Services (Sri Lanka) (Private) Limited said the restrictions will now be applicable only on Thursday and Saturdays.
-
-The company noted that the decision was taken in order to manage the congestion at the airport and to enhance the experience of travelers.
-
-◼️
-
-[Data](articles/f6d1bf23.json)
-
-[Extended Data](ext_articles/f6d1bf23.ext.json)
 
 ---

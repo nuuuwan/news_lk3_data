@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 00:15:16**
+As of **2025-09-19 00:36:56**
 
 ## Newspaper Stats
 
-*Scraped **76,808** Articles*
+*Scraped **76,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,61 @@ adalk | 7,470
 adaderanalk | 9,912
 tamilmirrorlk | 11,543
 virakesarilk | 12,490
-adaderanasinhalalk | 13,400
+adaderanasinhalalk | 13,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,931 (97.6%) of 76,808 articles have been extended.
+74,944 (97.6%) of 76,809 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-19 (Friday)
+
+### දුනිත් වෙල්ලාලගේගේ පියා අභාවප්‍රාප්ත වෙයි
+
+*2025-09-19 00:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214735) · `si`
+
+ක්‍රිකට් ක්‍රිඩක දුනිත් වෙල්ලාලගේගේ ආදරණීය පියා වන සුරංග වෙල්ලාලගේ මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+හදිසියේ ඇති වූ හෘදයාබාධයක් හේතුවෙන් ඔහු මෙලෙස දිවිසැරිය නිමකර ඇති අතර, මියයනවිට 54 හැවිරිදි වියේ පසුවිය.
+
+◼️
+
+[Data](articles/7cd7768b.json)
+
+---
+
 ### 2025-09-18 (Thursday)
 
-### බංග්ලාදේශයටත් පාර හදා දී ශ්‍රී ලංකාව අපරාජිතව සුපිරි වටයට
+### Sri Lanka in terms of abuse of Bangladesh to Bangladesh
 
 *2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
 
-අවශ්‍යම මොහොතේ ක්‍රියාත්මක වූ කුසල් මෙන්ඩිස්ගේ සුපිරි පිතිහරඹය හේතුවෙන් මෙවර ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයට අපරාජිතව සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+Sri Lanka were able to qualify for the Superior 4 of the Asian Cup Twenty20 cricket team due to the required point.
 
-'බී' කාණ්ඩයේ තරග අවසන් කරමින් අඩුබාබි හිදි අද (18) පැවති තීරණාත්මක තරගයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම කඩුලු 6කින් පරාජය කර ඔවුන් මෙම අවස්ථාව හිමිකරගතේය.
+The Afghan group defeats the Afghan team by 6 wickets in the decisive match of 'B' matches today.
 
-මෙහිදී ඇෆ්ගනිස්තාන කණ්ඩායමෙන් හිමි වූ ලකුණු 170ක ඉලක්කය කඩුලු 4ක් පමණක් දැවී තිබියදී පසුකර යාමට ශ්‍රී ලංකාව හැකිවිය.
+Sri Lanka was able to pass 4 wickets in the Afghanistan's target of 170 runs.
 
-එහිදී අනගි ඉනිමක් ක්‍රීඩාකළ ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් නොදැවී ලකුණු 74ක් රැස්කළේය.
+Opener Kusal Mendis scored 74 not out.
 
-පන්දු 52කින් ගොඩනැගුණු කුසල්ගේ ඉනිමට හතරේ පහර 10ක් ඇතුළත් විය.
+Kusal's innings in 52 balls included 10 fours.
 
-කුසල් මෙම අකීකරු ඉනිම ගොඩනැංවූයේ අසාර්ථක ඉනිම් කිහිපයක පසුවීම සුවිශේෂීය.
+The kusal was unique in several unsuccessful inm.
 
-ඔහුට අමතරව කමිඳු මෙන්ඩිස් පන්දු 13කින් නොදැවී ලකුණු 26ක්ද, කුසල් පෙරේරා පන්දු 20කින් ලකුණු 28ක්ද රැස්කිරීමට සමත් විය.
+Between 26 off 13 balls, Kommith Mendis scored 26 runs off 13 balls.
 
-කෙසේ නමුත් ලකුණු 170ක ඉලක්කයක් හඹායමින් සිටි ශ්‍රී ලංකාව තරගයේ 13වන පන්දුවාරයේදී ලකුණු 101 සීමාව පසුකරයෑමත් සමග සුපිරි 4 වටයට පිවිසියේය.
+However, the Sri Lanka scored a target of 170 runs in the 13th overdrafts.
 
-...
+With the defeat of Afghanistan, they left the tournament, and the Banglaida qualified for the Super 4.
+
+◼️
 
 [Data](articles/f0f31835.json)
+
+[Extended Data](ext_articles/f0f31835.ext.json)
 
 ---
 
@@ -2089,25 +2109,5 @@ Pakistan's anatomical expert checked to see if there was dizziness in the school
 [Data](articles/bb336b49.json)
 
 [Extended Data](ext_articles/bb336b49.ext.json)
-
----
-
-### A shopple in the weekly fair in Dambulla shoes
-
-*2025-09-18 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214706) · `si`
-
-A fire had erupted in a shop in the Dambulla prelame in the Dambulla Muntama.
-
-The fire has been able to crush the fire after the fire is seen immediately after reporting the Fire in the Dambulla Municipal Council.
-
-The cause of the fire is yet to be determined and all polythene and other substances have been destroyed in the polythene.
-
-Mayor of Dambulla Urban Council Wasantha K. Rajayaramy said that if the fire spread, he was at risk of a large number of shop rooms and residents of Dambulla.
-
-◼️
-
-[Data](articles/fff59cb9.json)
-
-[Extended Data](ext_articles/fff59cb9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 16:20:44**
+As of **2025-09-18 16:09:08**
 
 ## Newspaper Stats
 
-*Scraped **76,746** Articles*
+*Scraped **76,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,21 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,461
+adalk | 7,458
 adaderanalk | 9,907
 tamilmirrorlk | 11,528
 virakesarilk | 12,485
-adaderanasinhalalk | 13,383
+adaderanasinhalalk | 13,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,513 (97.1%) of 76,746 articles have been extended.
+74,513 (97.1%) of 76,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### මෙරට තරුණ කාන්තා දේශපාලනය දිරි ගැන්වීම පිළිබඳ සාකච්ඡාවක්
-
-*2025-09-18 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214716) · `si`
-
-මෙරට තරුණ කාන්තා දේශපාලන සහභාගීත්වය දිරි ගැන්වීමේ විවිධ වැඩසටහන් සඳහා එක්සත් රාජධානියේ සහයෝගය ලබා ගැනීමට හැකි අවස්ථා පිළිබඳ පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේදී සාකච්ඡාවක් පවත්වා තිබේ.
-
-එහිදී මෙරට තරුණ කාන්තාවන්ගේ දේශපාලන සහභාගීත්වය ප්‍රවර්ධනය කිරීම සඳහා විවිධ සමාජ ස්ථර අතර සංවාදයක් ගොඩ නැගීමේ අවශ්‍යතාව අවධාරණය කර ඇත.
-
-පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසද රැස්වීම අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සහ සංසදයේ සභාපති වන කාන්තා හා ළමා කටයුතු අමාත්‍ය සරෝජා සාවිත්‍ර පෝල් රාජ් මහත්මියගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
-
-එමෙන්ම මෙම රැස්වීමට ප්‍රජාතන්ත්‍රවාදය සඳහා වූ වෙස්ටස්ට්මිනිස්ටර් පදනමේ (Westminster Foundation for Democracy) නියෝජිතයන් සහ නීතිය සහ සමාජ භාරයේ (Law & Society Trust) නියෝජිතයින් ද සහභාගී වී තිබේ.
-
-...
-
-[Data](articles/fe8f46c2.json)
-
----
-
-### රු. කෝටි 7ක් රජයට පාඩු කළ සබරගමුව හිටපු ඇමති අතුල කුමාර රිමාන්ඩ්
-
-*2025-09-18 15:44:24* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-7ක්-රජයට-පාඩු-කළ-සබරගමුව-හිටපු-ඇමති-අතුල-කුමාර-රිමාන්ඩ්/11-418587) · `si`
-
-රුපියල් කෝටි 7ක මුදලක් රජයට පාඩුවන අන්දමින් වංචනිකව පරිහරණය කිරීමේ චෝදනාවට අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ සබරගමුව පළාත් හිටපු මහාමාර්ග හා ක්‍රීඩා අමාත්‍ය අතුල කුමාර රාහුබද්ධ මහතා ඔක්තෝබර් 02 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට ඇඹිලිපිටිය මහෙස්ත්‍රාත් අධිකරණය අද (18) නියෝග කළේය.
-
-සැකකරු අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරින්, අධිකරණය හමුවේ කියා සිටියේ අදාළ කාලසීමාව තුළ දියත් කළ ව්‍යාපෘති 77ක් අතුරින් ව්‍යාපෘති 15කට අදාළව මුදල් වැයකර තිබුණත් අදාළ ව්‍යාපෘති ක්‍රියාත්මක වී නොමැති බවය.
-
-◼️
-
-[Data](articles/ff1b5f8b.json)
-
----
 
 ### நேர்காணல் திகதிகள் அறிவிப்பு
 
@@ -374,24 +342,6 @@ The Norwood police urge the drivers to take action to drive the traffic on the H
 
 ---
 
-### ලෝක විවාහක රූ රැජින කටුනායකට එයි
-
-*2025-09-18 13:54:58* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-විවාහක-රූ-රැජින-කටුනායකට-එයි/11-418581) · `si`
-
-"මිස් ග්‍රෑන්ඩ් ශ්‍රී ලංකා - 2025 ( Miss Grand Sri Lanka - 2025) රූ රැජින තරගාවලියේ ප්‍රධාන විනිසුරුවරිය ලෙස කටයුතු කිරීම සදහා 2022 වසරේ ලෝක විවාහක රූ රැජින ලෙස ජයග්‍රහණය හිමි කර ගත් ඉන්දියාවේ සර්ගම් කවුෂාල් මහත්මිය ( Mrs :Sargam Koushal ) 09/17 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
-
-මෙම තරගාවලියේ අවසාන මහා තරගය 09/24 දින ගල්කිස්ස මහ හෝටයේ දී පැවැත්වීමට නියමිතය.
-
-මෙහිදී ජයග්‍රහණය හිමි කර ගන්නා ශ්‍රී ලාංකික රූ රැජින , ලෝකයේ රටවල් 110 ක රූ රැජිනියන්ගේ සහභාගීත්වයෙන් තායිලන්තයේ පැවැත්වෙන " මිස් ග්‍රෑන්ඩ් ඉන්ටර්නැෂනල් - 2025 ( Miss Grand International - 2025 ) තරගාවලිය සදහා ඉදිරිපත් කිරීමට නියමිතය.
-
-ලෝක විවාහක රූ රැජින සර්ගම් කවුෂාල් මහත්මිය 09/17 දින අලුයම 12.48 ට ඉන්දියාවේ මුම්බායි නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 144 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි අතර ඇය පිළිගැනීම සදහා " මිස් ග්‍රෑන්ඩ් ශ්‍රී ලංකා " තරගාවලියේ ජාතික සංවිධායක සහ පුහුණුකරු රුක්මාල් සේනානායක මහතා ඇතුළු පිරිසක් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ.
-
-◼️
-
-[Data](articles/2fad25bf.json)
-
----
-
 ### Thusitha Halloluwa bail
 
 *2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
@@ -407,22 +357,6 @@ The suspect was then ordered to ban abroad, or ordered that the suspect's passpo
 [Data](articles/6bf3a2ba.json)
 
 [Extended Data](ext_articles/6bf3a2ba.ext.json)
-
----
-
-### The street was closed in front of the Electricity Board headquarters by demonstration
-
-*2025-09-18 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
-
-Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
-
-Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
-
-◼️
-
-[Data](articles/135b9918.json)
-
-[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -442,25 +376,19 @@ It is also reported that a road has been completely closed due to the ongoing de
 
 ---
 
-### වසර පහකට පසු  පුත්තලමේ වාර්තා ගත ලුණු අස්වැන්නක්
+### The street was closed in front of the Electricity Board headquarters by demonstration
 
-*2025-09-18 13:37:38* · [`adalk`](https://www.ada.lk/breaking_news/වසර-පහකට-පසු--පුත්තලමේ-වාර්තා-ගත-ලුණු-අස්වැන්නක්/11-418579) · `si`
+*2025-09-18 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
 
-පවතින වියලි කාලගුණය හමුවේ වසර පහකට පසු  පුත්තලමේ වාර්තා ගත ලුණු අස්වැන්නක් ලැබි  ඇති බවත් ඉදිරි දින කිපයද මෙලෙස වියළි කාලගුණ තත්වයක් පැවතුනොහොත් රටේ ලුණු අවශ්‍යතාවයෙන් බහුතරයක දායකත්වය පුත්තලමේ ලබා දිය හැකි මට්ටමක පවතින බව ලුණු නිෂ්පාදකයින් පවසයි.
+Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
 
-මෙලෙස පුත්තලම දිස්ත්‍රික්කයෙන් වාර්තා ගත ලුණු අස්වැන්නක් ලැබෙමින් පවතින්නේ වසර පහකට පසු   බවත් එය මේ වන විට මෙට්‍රික් ටොන් ලක්ෂය ඉක්මවිය හැකි මට්ටමක පවතින බව ලුණු වගාකරුවන් පවසයි.
+Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
 
-පසුගිය වසර ගනනාවක නොකඩවා ඇද හැළුන මහ වැසි සමග  පුත්තලම ලුණු නිෂ්පාදනය සම්පුර්ණයෙන් නැවති ගොස් ලුණු ලේවායන් වැසි ජලයෙන් යටවි කර්මාන්තය අඩාල වි තිබු බව ලුණු නිෂ්පාදකයින් පවසයි.
+◼️
 
-ඒ හේතුව නිසාම රටේ ලණු අවශ්‍යතාවයට උවමනා ලුණු තොග ඉන්දියාවේ ගුජරාට් ප්‍රාන්තයෙන් ආනයනය කිරීමට රජය කටයුතු කර තිබුනේ ලුණු හිගයට පිළියම් ලෙසිනි.
+[Data](articles/135b9918.json)
 
-ශ්‍රි ලංකාවේ සමස්ථ ලුණු අව්‍යශතාවය මෙට්‍රික් ටොන් එක් ලක්ෂ අසුදහසකට ආසන්න වෙයි.එය ආහාර හා අනිකුත් නිෂ්පාදන සදහා අවශ්‍ය ප්‍රමානය වෙති.
-
-පුත්තලම හැරුණ විට එලිපන්ට්පාස් හා හම්බන්තොට ලුණු නිෂ්පාදනය ඉහල මට්ටමක පවති.
-
-...
-
-[Data](articles/6ec6f49c.json)
+[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -2031,5 +1959,89 @@ The Israeli military announced yesterday (17) that the Palestinian people will o
 [Data](articles/ed386926.json)
 
 [Extended Data](ext_articles/ed386926.ext.json)
+
+---
+
+### Three teenagers rescued after being swept away by currents at Mount Lavinia Beach
+
+*2025-09-18 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112629/three-teenagers-rescued-after-being-swept-away-by-currents-at-mount-lavinia-beach) · `en`
+
+Three teenagers who went sea bathing at the Mount Lavinia Beach were rescued after being swept away by strong water currents, police stated.
+
+The incident occurred yesterday (17), and police said officers attached to the Police Lifeguard Unit, rescued the individuals who were caught in the strong currents.
+
+Officers promptly intervened, rescued the individuals, and administered initial first aid.
+
+The rescued teenagers, all aged 16, are residents of Wellampitiya, Katukurunda, and Hokandara.
+
+◼️
+
+[Data](articles/ddd20909.json)
+
+[Extended Data](ext_articles/ddd20909.ext.json)
+
+---
+
+### Sri Lanka's third Nano Satellite Orbit tomorrow
+
+*2025-09-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214693) · `si`
+
+The third Nano, the technical contributor to the technical contribution to the Third Nano Satess, the Arthur C. Clarke Institute said.
+
+Birds - X Dragonflowi, the satellite named X-Dragonfiwida last August was taken to the International Space Institute by NASA.
+
+In 2019, Ravana-1 Chandrika, was identified as "Kitsu - 1" in the year 2019 and had previously created "Kitsu-1 Technical Cooperation Project in 2022.
+
+Birds - X Dragonflowy Nathafi Nathafi Nano is due to be released from the International Space Center tomorrow at 2.15 pm.
+
+◼️
+
+[Data](articles/e3e755f3.json)
+
+[Extended Data](ext_articles/e3e755f3.ext.json)
+
+---
+
+### Heavy rains in the evening today
+
+*2025-09-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214692) · `si`
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Northern and Northwestern provinces and in the Galle and Matara districts.
+
+Department of Meteorology was announced in the Western, Sabaragamuwa and Northern Province and in the Galle and Matara districts, mm.. Heavy rains can occur about 75 years.
+
+In the other areas. Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/313cd568.json)
+
+[Extended Data](ext_articles/313cd568.ext.json)
+
+---
+
+### King Charles and Trump hail UK-US special relationship in state banquet speech
+
+*2025-09-18 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112628/king-charles-and-trump-hail-uk-us-special-relationship-in-state-banquet-speech) · `en`
+
+King Charles has commended President Trump’s personal commitment to “finding solutions to some of the world’s most intractable conflicts”, as he called for US support for Ukraine against “tyranny”, in a speech at the US state visit banquet.
+
+In response, President Trump hailed the special relationship between the US and the UK, saying the word “special does not begin to do it justice”.
+
+The King’s speech, at a lavish dinner for 160 guests in Windsor Castle, emphasised the deep connections between the two countries and the need to maintain cultural, trading and military links.
+
+“Our people have fought and died together for the values we hold dear,” said the King.
+
+The state visit will continue on Thursday, including Queen Camilla and the Princess of Wales at events with the First Lady Melania Trump.
+
+It will move from a royal spectacle to political talks and a news conference, as Trump travels to meet Prime Minister Keir Starmer at his country house, Chequers.
+
+...
+
+[Data](articles/e64851b6.json)
+
+[Extended Data](ext_articles/e64851b6.ext.json)
 
 ---

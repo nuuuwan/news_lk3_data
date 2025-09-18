@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 00:25:49**
+As of **2025-09-19 00:15:16**
 
 ## Newspaper Stats
 
@@ -26,39 +26,35 @@ adaderanasinhalalk | 13,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,943 (97.6%) of 76,808 articles have been extended.
+74,931 (97.6%) of 76,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### Sri Lanka in terms of abuse of Bangladesh to Bangladesh
+### බංග්ලාදේශයටත් පාර හදා දී ශ්‍රී ලංකාව අපරාජිතව සුපිරි වටයට
 
 *2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
 
-Sri Lanka were able to qualify for the Superior 4 of the Asian Cup Twenty20 cricket team due to the required point.
+අවශ්‍යම මොහොතේ ක්‍රියාත්මක වූ කුසල් මෙන්ඩිස්ගේ සුපිරි පිතිහරඹය හේතුවෙන් මෙවර ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයට අපරාජිතව සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
 
-The Afghan group defeats the Afghan team by 6 wickets in the decisive match of 'B' matches today.
+'බී' කාණ්ඩයේ තරග අවසන් කරමින් අඩුබාබි හිදි අද (18) පැවති තීරණාත්මක තරගයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම කඩුලු 6කින් පරාජය කර ඔවුන් මෙම අවස්ථාව හිමිකරගතේය.
 
-Sri Lanka was able to pass 4 wickets in the Afghanistan's target of 170 runs.
+මෙහිදී ඇෆ්ගනිස්තාන කණ්ඩායමෙන් හිමි වූ ලකුණු 170ක ඉලක්කය කඩුලු 4ක් පමණක් දැවී තිබියදී පසුකර යාමට ශ්‍රී ලංකාව හැකිවිය.
 
-Opener Kusal Mendis scored 74 not out.
+එහිදී අනගි ඉනිමක් ක්‍රීඩාකළ ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් නොදැවී ලකුණු 74ක් රැස්කළේය.
 
-Kusal's innings in 52 balls included 10 fours.
+පන්දු 52කින් ගොඩනැගුණු කුසල්ගේ ඉනිමට හතරේ පහර 10ක් ඇතුළත් විය.
 
-The kusal was unique in several unsuccessful inm.
+කුසල් මෙම අකීකරු ඉනිම ගොඩනැංවූයේ අසාර්ථක ඉනිම් කිහිපයක පසුවීම සුවිශේෂීය.
 
-Between 26 off 13 balls, Kommith Mendis scored 26 runs off 13 balls.
+ඔහුට අමතරව කමිඳු මෙන්ඩිස් පන්දු 13කින් නොදැවී ලකුණු 26ක්ද, කුසල් පෙරේරා පන්දු 20කින් ලකුණු 28ක්ද රැස්කිරීමට සමත් විය.
 
-However, the Sri Lanka scored a target of 170 runs in the 13th overdrafts.
+කෙසේ නමුත් ලකුණු 170ක ඉලක්කයක් හඹායමින් සිටි ශ්‍රී ලංකාව තරගයේ 13වන පන්දුවාරයේදී ලකුණු 101 සීමාව පසුකරයෑමත් සමග සුපිරි 4 වටයට පිවිසියේය.
 
-With the defeat of Afghanistan, they left the tournament, and the Banglaida qualified for the Super 4.
-
-◼️
+...
 
 [Data](articles/f0f31835.json)
-
-[Extended Data](ext_articles/f0f31835.ext.json)
 
 ---
 

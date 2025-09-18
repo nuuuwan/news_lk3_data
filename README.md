@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 12:23:32**
+As of **2025-09-18 12:13:15**
 
 ## Newspaper Stats
 
-*Scraped **76,700** Articles*
+*Scraped **76,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,451
 adaderanalk | 9,898
-tamilmirrorlk | 11,515
+tamilmirrorlk | 11,512
 virakesarilk | 12,478
 adaderanasinhalalk | 13,376
 
@@ -26,55 +26,11 @@ adaderanasinhalalk | 13,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,263 (96.8%) of 76,700 articles have been extended.
+74,263 (96.8%) of 76,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### துசிதவுக்கு பிணை
-
-*2025-09-18 12:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துசிதவுக்கு-பிணை/175-364841) · `ta`
-
-தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளர் துசித ஹல்லொலுவ பிணையில் விடுவிக்கப்பட்டுள்ளார். இந்த உத்தரவை, கொழும்பு நீதவான் நீதிமன்றம்   வியாழக்கிழமை (18)   பிறப்பித்துள்ளது.
-
-தான் பயணித்த வாகனத்தின் மீது நாரஹேன்பிட்டி பகுதியில் வைத்து துப்பாக்கிச் சூடு நடத்தப்பட்டமை தொடர்பான சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளரான துசித ஹல்லொலுவ விளக்கமறியலில் வைக்கப்பட்டிருந்தார்.
-
-இந்நிலையில் அந்த துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில், கொள்ளுப்பிட்டி பகுதியில் வைத்து கொழும்பு குற்றப் புலனாய்வு பிரிவினரால் துசித ஹல்லொலுவ ஆகஸ்ட் 19 ஆம் திகதி கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/d9b8751c.json)
-
----
-
-### ‘பேக்கோ சமன்’னின் மனைவிக்கு விளக்கமறியல் நீடிப்பு
-
-*2025-09-18 12:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கோ-சமன்-னின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-364840) · `ta`
-
-பணமோசடி தடுப்புச் சட்டத்தின் கீழ் விளக்கமறியலில் வைக்கப்பட்டிருந்த ‘பேக்கோ சமன்’ என்பவரின் மனைவி ஷாதிகா லக்ஷனியின் விளக்கமறியல் செப்டம்பர் 25 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது. அவர், கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம முன்னிலையில் வியாழக்கிழமை (18) ஆஜர்படுத்தப்பட்டார். இதன்போதே மேற்கண்டவாறு விளக்கமறியல் நீடிப்பு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/4f5a18a9.json)
-
----
-
-### பாகிஸ்தான் களத்தடுப்பாளரின் எறியில் வெளியேறிய நடுவர்
-
-*2025-09-18 11:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-களத்தடுப்பாளரின்-எறியில்-வெளியேறிய-நடுவர்/44-364839) · `ta`
-
-ஆசிய கிண்ணத் தொடரில், பாகிஸ்தான், ஐக்கிய அரபு அமீரகத்துக்கிடையேயான போட்டியில் பாகிஸ்தான் களத்தடுப்பாளரொருவர் எறிந்த பந்து நடுவரைத் தாக்கிய நிலையில் அவர் களத்தை விட்டு வெளியேறியிருந்தார்.
-
-ஐ.அ. அமீரகத்தின் ஆறாவது ஓவரின்போது பந்துவீசிய சை அயூப்பை நோக்கி எறியப்பட்ட பந்தானது இலங்கை நடுவர் ருச்சிர பள்ளியாகுருகேயின் இடது காதுப் பகுதியில் தாக்கியது.
-
-இந்நிலையில் பள்ளியாகுருகேக்கு தலைச்சுற்றல் இருக்கின்றதா என பாகிஸ்தானின் உடற்கூற்று நிபுணர் சோதித்ததுடன், முற்பாதுகாப்பு காரணமாக அவர் களத்தை விட்டு வெளியேறினார்.
-
-◼️
-
-[Data](articles/bb336b49.json)
-
----
 
 ### දඹුල්ලේ සතිපොළේ කඩකාමරයක් ගිනිගෙන දැවෙයි
 
@@ -2009,5 +1965,61 @@ Considering the difficulties faced by stakeholders in the construction sector, a
 [Data](articles/91ddfd81.json)
 
 [Extended Data](ext_articles/91ddfd81.ext.json)
+
+---
+
+### Pakistan Tournament Mediator
+
+*2025-09-17 21:11:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-போட்டியில்-பைகுரொஃப்டே-போட்டி-மத்தியஸ்தர்/44-364797) · `ta`
+
+The International Cricket Board has retained himself as a rival mediator, even though the Pakistan Cricket Board has urged him to remove the Andy Bigroft from the Pakistan match against the UAE of the Asia Cup.
+
+Although the Pakistan Cricket Board has said that Pakuroft apologized to the Pakistan squad for its actions during the match between India and Pakistan, the International Cricket Board has not issued any report on the matter.
+
+◼️
+
+[Data](articles/0ed22191.json)
+
+[Extended Data](ext_articles/0ed22191.ext.json)
+
+---
+
+### Monk and two others arrested with heroin in Alawwa
+
+*2025-09-17 21:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112623/monk-and-two-others-arrested-with-heroin-in-alawwa) · `en`
+
+A monk and two other individuals have been arrested for possession of heroin in Alawwa by the Matale Division Crimes Investigation Unit.
+
+According to police, the 38-year-old monk had been residing at a temple located within the Alawwa Police Division.
+
+At the time of arrest, the monk was found to be in possession of 10.3 grams of heroin.
+
+The other two suspects, aged 29 and 31, were also found to be in possession of 17 grams of heroin.
+
+The three suspects were produced before the Polgahawela Magistrate”s Court today (17), where police were granted permission to detain them for 7 days for further questioning.
+
+Reports indicate that the suspects are allegedly linked to a drug trafficking ring operated by an individual known as "Navy Dinesh" from Minuwangoda.
+
+◼️
+
+[Data](articles/4cefdbbc.json)
+
+[Extended Data](ext_articles/4cefdbbc.ext.json)
+
+---
+
+### Namal met Ranil
+
+*2025-09-17 20:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்த-நாமல்/175-364796) · `ta`
+
+Former President Ranil Wickremesinghe, who has been ill for the past few days, has been present at a public event today (17).
+
+Namal met him at a wedding ceremony in Colombo
+
+◼️
+
+[Data](articles/7c6f2e86.json)
+
+[Extended Data](ext_articles/7c6f2e86.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 10:56:29**
+As of **2025-09-18 11:20:42**
 
 ## Newspaper Stats
 
-*Scraped **76,681** Articles*
+*Scraped **76,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,89 +16,187 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,448
+adalk | 7,449
 adaderanalk | 9,895
-tamilmirrorlk | 11,508
+tamilmirrorlk | 11,510
 virakesarilk | 12,478
-adaderanasinhalalk | 13,370
+adaderanasinhalalk | 13,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,199 (96.8%) of 76,681 articles have been extended.
+74,214 (96.8%) of 76,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### 3 சிறுவர்களும் பாதுகாப்பாக மீட்பு
+### வன்முறைகளால் பாதிக்கப்படும் சிறுவர்களுக்கான ஒரு மாதிரிச் சேவை
+
+*2025-09-18 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறைகளால்-பாதிக்கப்படும்-சிறுவர்களுக்கான-ஒரு-மாதிரிச்-சேவை/175-364834) · `ta`
+
+வன்முறை அனுபத்துடன் கூடிய சிறுவர்களுக்கு உதவும் நோக்கில் ஐரோப்பிய ஒன்றியத்தின் ஆதவுடன் யுனிசெப் நிறுவனத்தினூடாக  ஒரு முன்மாதிரிச் சேவையை நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சு மற்றும் மகளிர் மற்றும் சிறுவர் அலுவல்கள் அமைச்சு துவங்கியுள்ளது.
+
+அந்த வகையில்,  ஏதேனுமொரு வன்முறைச் சம்பவம் பொலிஸ் நிலையத்தில், அவசர அழைப்பு எண்ணில் அல்லது வேறு ஏதேனும் ஒரு முறை மூலம் முறைப்பாடு செய்யப்பட்டதிலிருந்து சிறுவர்களை நிலையான பராமரிப்பு மற்றும் பாதுகாப்பு பொறிமுறைகளுடன் சம்பந்தப்படுத்தும் வரையில் அவர்களுக்கு தேவையான சேவைகளை விரைவாகவும், அவர்களின் உணர்வுகளுக்குமதிப்பளித்தும்வழங்குவதேஇந்தபுதியமாதிரியின்நோக்கமாகும்.
+
+இந்த மாதிரிச் சேவையானது சிறுவர் பாதுகாப்பு மற்றும் நீதித்துறையில் கிராம மற்றும் தேசிய மட்டங்களில் பல மாற்றங்களை அறிமுகப்படுத்தும் ஆறு முதன்மை முன்னெடுப்புக்களை உள்ளடக்கியுள்ளது.
+
+...
+
+[Data](articles/49898beb.json)
+
+---
+
+### වරාය නීතියේ එන අනුග්‍රාහකත්වය පිළිබඳ පුහුණුවට ඇමෙරිකා සහාය
+
+*2025-09-18 10:44:14* · [`adalk`](https://www.ada.lk/business/වරාය-නීතියේ-එන-අනුග්‍රාහකත්වය-පිළිබඳ-පුහුණුවට-ඇමෙරිකා-සහාය/7-418573) · `si`
+
+වරාය නීතිය සහ රාජ්‍ය-පෞද්ගලික හවුල්කාරිත්වයන් (PPPs) සම්බන්ධයෙන් ශ්‍රී ලංකාවේ ධාරිතාවය ශක්තිමත් කිරීමේ වැඩසටහනක් වෙත ඇමෙරිකානු සහාය හිමිව තිබේ.
+
+ශ්‍රී ලංකා වරාය අධිකාරියේ සහ නීතිපති දෙපාර්තමේන්තුවේනීති විශේෂඥයින්ගේ සහභාගීත්වයෙන් එක්සත් ජනපද වාණිජ දෙපාර්තමේන්තුවේ වාණිජ නීති සංවර්ධන වැඩසටහන (CLDP) හරහා ශ්‍රී ලංකාවේ එක්සත් ජනපද තානාපති කාර්යාලය සැප්තැම්බර් 8-10 දක්වා  කොළඹදී විශේෂිත වැඩමුළුවක් පවත්වමින් මෙම සහයෝගය ලබාදී ඇත.
+
+විනිවිදභාවය, වගවීම සහ මහජන අවශ්‍යතා ආරක්ෂා කිරීම අවධාරණය කරමින් රජයන් සහ පෞද්ගලික සමාගම් අතර ගිවිසුම් ව්‍යුහගත කර ඇති ආකාරය පාලනය කරන නීතිමය රාමුව වන අනුග්‍රාහක නීතිය (concession law) පිළිබඳ තාක්ෂණික පුහුණුවක්ද මීට ඇතුළත් විය. අනාගත යටිතල පහසුකම් ව්‍යාපෘති ශ්‍රී ලාංකේය ජනතාවට දිගුකාලීන ප්‍රතිලාභ ලබාදෙන බව සහතික කරමින්ද සාධාරණ හා විවෘත වාණිජ භාවිතයන් ප්‍රවර්ධනය කරමින්ද,  ශ්‍රී ලංකාවේ ශක්තිමත් ආයතනවලට සහාය වීම සඳහා වන එක්සත් ජනපදයේ කැපවීම මෙම මුලපිරීම මගින් පිළිබිඹු කර තිබේ.
+
+...
+
+[Data](articles/37837593.json)
+
+---
+
+### விசேட தேவையுடைய மாணவர்  மனுத் தாக்கல்
+
+*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
+
+பல்கலைக்கழக மானிய ஆணைக்குழு (யுஜிசி) தனது இயலாமையின் அடிப்படையில் தொழில்நுட்பத்தில் பட்டம் பெற அனுமதி மறுத்ததால், தனது அரசியலமைப்பு உரிமைகள் மீறப்பட்டுள்ளதாகக் கூறி, பண்டாரவளையைச் சேர்ந்த ஒரு இளம் மாணவர் உயர் நீதிமன்றத்தை நாடியுள்ளார்.
+
+இந்த வழக்கு உயர் நீதிமன்றத்தின் பிரதம நீதியரசர் பிரீத்தி பத்மன் சூரசேன மற்றும் நீதியரசர் ஷிரான் குணரத்ன ஆகியோர் அடங்கிய இரு நீதியரசர்கள் கொண்ட அமர்வு முன் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, ​​இந்த வழக்கு அடுத்த ஆண்டு பிப்ரவரி 24 ஆம் திகதி விசாரணைக்கு ஒத்திவைக்கப்பட்டது.
+
+மனுதாரர், தான் பண்டாரவளை தர்மபால கல்லூரியில் தொழில்நுட்பப் பிரிவில் க.பொ.த உயர்தரப் பரீட்சை எழுதி பல்கலைக்கழக சேர்க்கைக்குத் தகுதி பெற்ற ஒரு மாற்றுத்திறனாளி மாணவர் என்று கூறுகிறார்.
+
+2024/2025 கல்வியாண்டிற்கான தொழில்நுட்பப் பட்டப்படிப்புக்கு விண்ணப்பித்த போதிலும், மாற்றுத்திறனாளி மாணவர்கள் பிரிவின் கீழ் அத்தகைய பட்டப்படிப்பைப் படிக்க எந்த ஏற்பாடுகளும் இல்லை என்று தனக்குத் தெரிவிக்கப்பட்டதாக அவர் கூறினார்.
+
+...
+
+[Data](articles/7e025974.json)
+
+---
+
+### ආසියානු කුසලානයේ රටවල් 3ක් බලා සිටින තීරණාත්මක තරගය අද
+
+*2025-09-18 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214701) · `si`
+
+ආසියානු කුසලාන 20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ ඇෆ්ගනිස්තාන කණ්ඩායම අතර තරගය අද (19) පැවැත්වීමට නියමිතව තිබේ.
+
+තරගාවලියේ බී කාණ්ඩය යටතේ ශ්‍රි ලංකා කණ්ඩායම පෙරමුණේ පසු වන අතර ඇෆ්ගනිස්තාන කණ්ඩායම එහි තෙවන ස්ථානයේ පසුවේ.
+
+අද තරගය ශ්‍රී ලංකා කණ්ඩායම ජය ලබාගතහොත් ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම තරගාවලියේ සුපිරි 4දෙනාගේ වටය සඳහා සුදුසුකම් ලබයි.
+
+ශ්‍රි ලංකා කණ්ඩායම ලකුණු 71කට වැඩි සංඛ්‍යාවකින් හෝ පන්දුවාර 11යි එක් පන්දුවකට පෙර ඇෆ්ගනිස්තාන කණ්ඩායම විසින් පරාජයට පත්වුවහොත් බංග්ලාදේශ සහ ඇෆ්ගනිස්තාන කණ්ඩායමවලට එම අවස්ථාව හිමි වේ.
+
+කෙසේවෙතත් ශ්‍රී ලංකා කණ්ඩායම ඇෆ්ගනිස්තානයට අඩු ලකුණු සංඛ්‍යාවකින් හෝ අඩු පන්දුවාර සංඛ්‍යාවක් ඉතිරිව තිබියදී පරාජයට පත්වුවහොත් දෙවන වටයට සුදුසුකම් ලබන්නේ ශ්‍රි ලංකා කණ්ඩායම සහ ඇෆ්ගනිස්තාන කණ්ඩායම යි.
+
+◼️
+
+[Data](articles/7523a06a.json)
+
+---
+
+### තුසිත හල්ලොලුවට ඇප
+
+*2025-09-18 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214700) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටි තුසිත හල්ලොලුව මහතා ඇප මත මුදා හරින ලෙස කොළඹ මහෙස්ත්‍රත් අධිකරණය නියෝග කර තිබේ.
+
+ඒ අනුව සැකකරුවරු ලක්ෂ 50 බැගින් ශරීර ඇප දෙකක් මත මුදා හැරීමට කොළඹ අතිරේක මහෙස්ත්‍රාත් ළහිරු සිල්වා මහතා නියම කර ඇත.
+
+ඉන් අනතුරුව සැකකරු විදේශගත වීම තහනම් කිරීමටද නියම කෙරුණු අතර, සැකකරුගේ විදේශ ගමන් බලපත්‍රය අධිකරණයට භාරදිය යුතු බවටත් නියෝග කළේය.
+
+ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මහතා තමා ගමන්ගත් වාහනයට ඉකුත්දා නාරාහේන්පිට ප්‍රදේශයේදී වෙඩි තබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් මෙලෙස සැකපිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටියේය.
+
+ඒ මහතාව පසුගිය අගෝස්තු මස 19 වන දා කොළඹ අපරාධ කොට්ඨාශය විසින් සිදුකළ වැටලීමක දී කොල්ලුපිටිය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/12fa2c78.json)
+
+---
+
+### 3 boys safely recovered
 
 *2025-09-18 10:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுவர்களும்-பாதுகாப்பாக-மீட்பு/175-364831) · `ta`
 
-கல்கிஸ்ஸையில் நேற்று  கடலில் குளிக்கச் சென்று காணாமல் போயிருந்த மூன்று சிறுவர்கள் பாதுகாப்பாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Three boys who went missing in Kalkissa yesterday were safely rescued, police said.
 
-பொலிஸ் உயிர்காக்கும் பிரிவைச் சேர்ந்த அதிகாரிகள், கடல் நீரோட்டத்தில் சிக்கிய சிறுவர்களை பாதுகாப்பாக மீட்டதாக தெரிவிக்கப்படுகிறது.
+Officers from the Police Life Division have reportedly rescued the children who were trapped in the sea stream.
 
-மீட்கப்பட்ட சிறுவர்கள் அனைவரும், 16 வயதுடையவர்கள் எனவும், வெல்லம்பிட்டிய, கட்டுக்குருந்த மற்றும் ஹோகந்தர ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் எனவும் விசாரணைகளில் தெரியவந்துள்ளது.
+Investigations have revealed that all the rescued boys were 16 years old and are from Wellampitiya, Kuttakurukkur and Hoganda.
 
-பலத்த கடல் அலைகள் காணப்படும் போது பொதுமக்கள் கடலில் குளிப்பதைத் தவிர்க்குமாறு பொலிஸார் எச்சரிக்கை விடுத்துள்ளனர். R
+Police warned the public to avoid bathing in the sea. Remble
 
 ◼️
 
 [Data](articles/b2a521be.json)
 
+[Extended Data](ext_articles/b2a521be.ext.json)
+
 ---
 
-### உலகக் கடவுச்சீட்டு தரவரிசையில் இலங்கை 97வது இடத்தில்
+### Sri Lanka is ranked 97th in the World Passport rankings
 
 *2025-09-18 10:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகக்-கடவுச்சீட்டு-தரவரிசையில்-இலங்கை-97வது-இடத்தில்/175-364830) · `ta`
 
-2025 ஆம் ஆண்டு உலகளாவிய தரவரிசையில் இலங்கையின் கடவுச்சீட்டு ஒரு இடம் சரிந்தது கடந்த செப்டம்பர் (11) ஆம் திகதியன்று வெளியிடப்பட்ட ஹென்லி கடவுச்சீட்டு குறியீடு 97வது இடத்திற்கு தள்ளப்பட்டுள்ளது.
+Sri Lanka's passport fell in the Global Rankings in 2025 and Henley passport, released on September 11, was relegated to 97th place.
 
-குறியீட்டின் படி, இலங்கையும்  ஈரானும் 97வது இடத்தைப் பகிர்ந்து கொள்கின்றது, இதன் மூலம் அதன் உரிமையாளர்களுக்கு 41 இடங்களுக்கு விசா இல்லாத அணுகலை வழங்குகிறது. 2024 ஆம் ஆண்டில் இந்த நாடுகள் 96வது இடத்தைப் பிடித்துக்கொண்டது.
+According to the index, Sri Lanka and Iran share 97th place, thereby providing its owners a visa -free access to 41 places.. In 2024, these countries ranked 96th.
 
-உலகின் மிகவும் அதிகாரப்பூர்வ கடவுச்சீட்டு தரவரிசையாகக் கருதப்படும் ஹென்லி கடவுச்சீட்டு குறியீடு, முன் விசா இல்லாமல் அணுகக்கூடிய நாடுகளின் எண்ணிக்கையின் அடிப்படையில் 227 இடங்களுக்கு எதிராக 199 கடவுச்சீட்டுகளை மதிப்பிடுகிறது.
+The Henley Passport code, which is considered the most official passport rankings in the world, estimates 199 passports against 227 seats based on the number of countries that can be accessed without a pre -visa.
 
 ◼️
 
 [Data](articles/3d88678f.json)
 
+[Extended Data](ext_articles/3d88678f.ext.json)
+
 ---
 
-### ”என் வயிற்றில் வளரும் குழந்தைக்கு தந்தை யார் தெரியுமா?”
+### "Do you know the father of a baby who grows up in my belly?"
 
 *2025-09-18 10:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்-வயிற்றில்-வளரும்-குழந்தைக்கு-தந்தை-யார்-தெரியுமா/175-364829) · `ta`
 
-” வயிற்றில் வளரும் குழந்தைக்கு மாதம்பட்டி ரங்கராஜ்தான் தந்தை என பொறுப்பேற்க வேண்டும்” என்று பிரபல ஆடை வடிவமைப்பாளர் ஜாய் கிரிசில்டா தெரிவித்துள்ளார்.
+"The child who grows in the stomach should be responsible for the father of Madhampatti Rangaraj," said Joy Girisilda, the famous clothing designer.
 
-பிரபல சமையல் கலைஞர் மாதப்பட்டி ரங்கராஜின் 2-வது மனைவியான பிரபல ஆடை வடிவமைப்பாளர் ஜாய் கிரிசில்டா  சென்னை உயர் நீதிமன்றத்தில் புதன்கிழமை (17) செய்தியாளர்களை சந்தித்தார்.
+Joy Girisilda, the 2nd wife of famous culinary artist Madhapatti Rangaraj, met with reporters at the Madras High Court on Wednesday.
 
-அப்போது பேசிய அவர் “பிரபல உணவு தயாரிப்பு மற்றும் சுப நிகழ்ச்சிகளுக்கு உணவு வழங்கும் மாதம்பட்டி ரங்கராஜ் என்னையும், என் குழந்தையையும் நீதிமன்றம் வரவழைத்து விட்டார். என் வயிற்றில் வளரும் குழந்தைக்கு மாதம்பட்டி ரங்கராஜ் தான் காரணம். அதற்கு உரிய நியாயம் கிடைக்க வேண்டும்.
+Speaking at the time, he said, “Madhampatti Rangaraj, who is feeding the famous food and auspicious events, has summoned me and my child.. Madhampatti Rangaraj is the reason for the baby that grows in my stomach. It must be given the right.
 
-சென்னை மாநகர காவல் துறை ஆணையர் அலுவலகத்தில் மாதம்பட்டி ரங்கராஜ் மீது புகார் அளித்தும் எவ்வித நடவடிக்கையும் இதுவரை எடுக்கப்படவில்லை. பல்வேறு காவல் நிலையங்களுக்கு திசை திருப்பிவிட்டு என்னை அழைக்கழிக்க வைக்கின்றனர். என் வயிற்றில் வளரும் குழந்தைக்கு நியாயம் கிடைக்க வேண்டும். மாதம்பட்டி ரங்கராஜ் தான் என் குழந்தைக்கு தந்தை என பொறுப்பேற்க வேண்டும்” என்று ஜாய் கிரிசில்டா தெரிவித்துள்ளார்.
+Madhampatti Rangaraj has lodged a complaint at the Chennai Municipal Police Commissioner's Office and no action has been taken yet. They are distracted to various police stations and call me. The child who grows up in my stomach needs justice. Madhampatti Rangaraj should be responsible for my child as a father, ”Joy Girisilda said.
 
 ◼️
 
 [Data](articles/4a6bb4e1.json)
 
+[Extended Data](ext_articles/4a6bb4e1.ext.json)
+
 ---
 
-### தொல்லியல் திணைக்கள விவகாரத்தால் தர்க்கம்
+### Logic by the Department of Archeology
 
 *2025-09-18 10:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்லியல்-திணைக்கள-விவகாரத்தால்-தர்க்கம்/175-364828) · `ta`
 
-நிலாவரையில் தொல்லியல் திணைக்களத்தின் செயற்பாடுகள் தொடர்பில் வலிகாமம் கிழக்கு பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஸிற்கும் பிரதேச ஒருங்கிணைப்புக் குழுத் தலைவரும் அரசாங்க பாராளுமன்ற உறுப்பினருமான ரஜீவன் ஜெயச்சந்திரமூர்த்திக்கும்  இடையில்  பிரதேச ஒருங்கிணைப்புக் குழுக்கூட்டத்தில் தொல்லியல் திணைக்களம் தொடர்பில் காரசாரமான விவாதம் இடம்பெற்றது.
+A serious debate was held at the Divisional Coordinating Committee at the Divisional Coordinating Committee between Thiagarajah Niros, Chairman of the Valikamam East Pradeshiya Sabha and Rajivan Jayachandraramurthy, the Chairman of the Welikamam East Pradeshiya Sabha.
 
-இவ் விவாதத்தைத் தொடர்ந்து நிலாவரையில் இருந்து தொல்லியல்  திணைக்களம் விலகி பிரதேச சபையிடம் அதை கையளிக்க வேண்டும் எனவும் பிரதேச அபிவிருத்திக் குழுக்கூட்டத்தில் தீர்மானிக்கப்பட்டது.
+Following the debate, it was decided at the Divisional Development Committee that the Department of Archeology should be departed from Nilavara and hand it over to the Pradeshiya Sabha.
 
-இது தொடர்பில் மேலும், வலிகாமம் கிழக்கு பிரதேச அபிவிருத்திக் குழுக் கூட்டம்   செவ்வாய்க்கிழமை (16)   பிரதேச செயலகத்தில் நடைபெற்றது.
+In this regard, the Valikamam East Regional Development Committee meeting was held on Tuesday (16) at the Divisional Secretariat.
 
-இக் கூட்டத்தில் நிலாவரை பகுதி சுற்றுலா வலயமாக உள்ளமையினால்  அதை மேம்படுத்துவது  பற்றி ஆராயப்பட்டது. இதன்போது இப் பகுதியில் தொல்லியல் திணைக்களத்தின் தலையீடுகளால் அதை முன்னேற்ற முடியாதுள்ளது என தவிசாளரினால் சுட்டிக்காட்டப்பட்டது.
+At this meeting, the Nilavarai area was a tourist attraction. It was pointed out by the Divine that the intervention of the Archaeological Department in the area could not improve.
 
 ...
 
 [Data](articles/93a9029b.json)
+
+[Extended Data](ext_articles/93a9029b.ext.json)
 
 ---
 
@@ -604,19 +702,23 @@ Police have warned the public to avoid bathing in the sea when heavy waves are f
 
 ---
 
-### ළමුන්ට ආරක්ෂිතව සාක්ෂි දිය හැකි සාක්ෂි කාමර
+### Evidence rooms that can give the children safely
 
 *2025-09-18 07:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ආරක්ෂිතව-සාක්ෂි-දිය-හැකි-සාක්ෂි-කාමර/11-418569) · `si`
 
-ළමුන් සදහා ආරක්ෂිතව සාක්ෂි දීමේ සාක්ෂි කාමර ස්ථාපිත කිරීම මෙරට අධිකරණ පද්ධතියේ හැරවුම් ලක්ෂයක් බව අධිකරණ ඇමති හර්ෂණ නානායක්කාර මහතා පවසයි.
+It is a turning point in the country's judicial system to establish evidence rooms for children.
 
-අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මෙම අදහස් පළ කළේ මහනුවරදී පැවති ප්‍රචණ්ඩත්වයට ගොදුරුවු වින්දිත දරුවන් වෙනුවෙන් සේවාවන් විධිමත් කිරීමේ ක්‍රියාවලිය ආරම්භ කිරීමේ අවස්ථාවට වීඩියෝ තාක්ෂණය ඔස්සේ එක්වෙමිනි. වින්දිතයින් බවට පත් වන දරුවන්ට ආරක්ෂිතව සාක්ෂි ලබාදිය හැකි ඩිජිටල් පහසුකම් සහිත සාක්ෂි කාමරයක් මහනුවර මහාධිකරණය තුළ විවෘත කිරීමද මීට සමගාමිව සිදු විය.
+Attorney-at-Law, Assistant Integration Minister, Attorney-at-Law, Hon.. The opening of a digital facilities to the children who become victims have been opened in the Kandy High Court.
 
-"ළමුන් සදහා ආරක්ෂිතව සාක්ෂි ලබාදීමේ සාක්ෂි කාමර ස්ථාපිත කිරීම මෙරට අධිකරණ පද්ධතියේ හැරවුම් ලක්ෂයක් බව සඳහන් කළ යුතුයි. වින්දිතයින් බවට පත්ව නීතිය ඉදිරියට එන දරුවන්ට ආරක්ෂිතව සාක්ෂි ලබාදීමේ හැකියාව පැවතිය යුතුයි. වින්දිතයින් බවට පත්වන දරුවන්ට ආරක්ෂිතව සාක්ෂි ලබාදිය හැකි ඩිජිටල් පහසුකම් සහිත සාක්ෂි කාමරයක් මහනුවර මහාධිකරණය තුළ විවෘත වන්නේ මෙරට පළමු වරටයි. දිවයින පුරා අධිකරණ වෙත මෙම පහසුකම් හඳුන්වාදීමට කටයුතු කරනවා.
+"It should be noted that the establishment of the evidence rooms for children is a turning point in Sri Lanka. It should be the potential to give the children who are prosperous to be victims. For the first time in the Kandyan highway, a digital facilities that can be securely evidence of the children who become victims opened in the Kandy High Court. These facilities are being introduced to courts island wide.
+
+EU and UNICEF organizations should be thankful for the EU, UnforF. It should be stated that the current government is a projected purpose to inheriting children. The Minister said that he will introduce strong laws for child protection in the future.
 
 ...
 
 [Data](articles/a77bae23.json)
+
+[Extended Data](ext_articles/a77bae23.ext.json)
 
 ---
 
@@ -1923,113 +2025,5 @@ Coinciding with this, a digital testimony room equipped with facilities to allow
 [Data](articles/eca07b9f.json)
 
 [Extended Data](ext_articles/eca07b9f.ext.json)
-
----
-
-### Rumesh wave to match throwing
-
-*2025-09-17 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214686) · `si`
-
-Rumesh wave was able to qualify for the finals of the event held today (17) at World Athletics Championships in Tokyo.
-
-Rumesh won the 12th place to 82.8 meters skills.
-
-Only 12 players can reach the finals of the event, three of them are South Asian (India, Pakistan) players.
-
-No other Asian, other than any other people, could not qualify for the finals of this event.
-
-37 players competed in this competition, and Sumantha Ranasinghe, who was 81.86 meters, were 151.86 meters.
-
-◼️
-
-[Data](articles/a899e5f6.json)
-
-[Extended Data](ext_articles/a899e5f6.ext.json)
-
----
-
-### பூமியை விட்டு விலகிச் செல்லும் சந்திரன்
-
-*2025-09-17 18:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூமியை-விட்டு-விலகிச்-செல்லும்-சந்திரன்/175-364793) · `ta`
-
-The moon is about 1.5 inches per year away from Earth. Scientists warn that the days can last for 25 hours.
-
-Dr. Stephen Tigeri, a physicist and astronomical researcher at the Michigan State University, said the Moon is about 1.5 inches (3.8 cm) from our planet every year.
-
-As a result, he revealed that the earth's rotation is declining. He also noted that the days are long as the event continues.
-
-As the moon continues to move away, the number of seconds, minutes and end hours in a day will gradually increase - but none of us who are alive today will notice it.. Remble
-
-◼️
-
-[Data](articles/b12b41f9.json)
-
-[Extended Data](ext_articles/b12b41f9.ext.json)
-
----
-
-### There is no room for a crisis like the death of death in queue - President
-
-*2025-09-17 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214685) · `si`
-
-President Anura Kumara Dissanayake emphasizes that a crisis is not allowed to die in Sri Lanka without fuel and gas.
-
-President Anura Kumara Dissanayake made these comments from the commencement of the construction of six tanks in Kolonnawa Petroleum Store complex today (17).
-
-Three tanks of the Kolonnawa Petroleum Store complex, 2 tanks of Rs.
-
-The President said that the present government was working to ensure that the sovereignty preserves the sovereignty of the energy.
-
-...
-
-[Data](articles/575e622a.json)
-
-[Extended Data](ext_articles/575e622a.ext.json)
-
----
-
-### The wishes of T20 rating forward
-
-*2025-09-17 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214684) · `si`
-
-The Sri Lanka Starter batsman has come forward to the 6th to the 6th place.
-
-He has come forward with a half centurial (68) in order to the Hong Kong group in the Asia Cup.
-
-The wishes remained at the 7th place in the wishes before playing this innings.
-
-The highest score of the wishes of 751 marks.
-
-Meanwhile, Kusal Perera is also in the 9th place in this rating.
-
-Abhishek Sharma (884) in the front of the Twenty20 batsmen, India remains the second place, second place in England.
-
-The batsman of England is John Butler (794) in the second place.
-
-◼️
-
-[Data](articles/d27795c4.json)
-
-[Extended Data](ext_articles/d27795c4.ext.json)
-
----
-
-### “Never Again”: President vows to prevent repeat of queue-related deaths
-
-*2025-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112618/never-again-president-vows-to-prevent-repeat-of-queue-related-deaths) · `en`
-
-President Anura Kumara Dissanayake today (17) emphasized that Sri Lanka will never again face a crisis like the one where people were forced to queue for fuel and gas, sometimes resulting in loss of life, the President’s Media Division.
-
-The President made this statement during the launch of construction work on six new petroleum storage tanks at the Kolonnawa Petroleum Storage Complex.
-
-The President also highlighted that the current government is taking steps to safeguard energy autonomy and achieve economic independence.
-
-President Dissanayake also sought the support of all citizens for the progressive transformation.
-
-◼️
-
-[Data](articles/231a3292.json)
-
-[Extended Data](ext_articles/231a3292.ext.json)
 
 ---

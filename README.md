@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 21:07:31**
+As of **2025-09-18 20:56:19**
 
 ## Newspaper Stats
 
-*Scraped **76,792** Articles*
+*Scraped **76,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,17 @@ adalk | 7,468
 adaderanalk | 9,911
 tamilmirrorlk | 11,537
 virakesarilk | 12,486
-adaderanasinhalalk | 13,397
+adaderanasinhalalk | 13,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,786 (97.4%) of 76,792 articles have been extended.
+74,786 (97.4%) of 76,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### වෑන් රථය බලෙන් පැහැරගත් කල්බදු සමාගමට නියෝගයක්
-
-*2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
-
-කල්බදු වාරික නොගෙවීම හේතුවෙන් ලීසිං සමාගමක් විසින් පැහැරගත් වෑන් රථයක් යළි එහි ලියාපදිංචි හිමිකරුටම ලබාදෙන්නැයි අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
-
-අත්තනගල්ල මහේස්ත්‍රාත්වරයා සිය නියෝගය මගින් වැඩිදුරටත් සඳහන් කළේ, කල්බදු ගෙවීම පැහැරහැර ඇති අවස්ථාවක වුවත් වාහනයක් පැහැර ගැනීමට කල්බදු සමාගමකට කිසිඳු නීතිමය බලයක් නොමැති බවය.
-
-ඉකුත් අගෝස්තු මාසයේදී නිට්ටඹුව පල්ලේවෙල ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් මාර්ගය හරස්කර එහි ගමන් කරමින් තිබූ වෑන් රථයක් නවතා එය පැහැර ගැනීමකට ලක්කර තිබුණි.
-
-එහිදී එම පිරිස වාහනයේ හිමිකරුට දන්වා තිබුණේ ඔවුන් ලීසින් ආයතනයක සේවය කරන බවත් කල්බදු වාරික නොගෙවීම හේතුවෙන් වෑන් රථය ගෙන යන බවත් ය.
-
-පසුව වාහනයේ හිමිකරු අත්තනගල්ල පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය හමුවේ නඩු ගොනු කළේ අදාළ ලීසිං සමාගම බලහත්කාරයෙන් සිය වාහනය පැහැරගත් බවට චෝදනා කරමිනි.
-
-මෙම නඩුව විභාගයට ගැනීමෙන් පසු වාහනය පැහැරගත් පුද්ගලයින් දෙදෙනෙකු බන්ධනාගාරගත කිරීමට ද අධිකරණය එහිදී නියෝග කර තිබුණි.
-
-...
-
-[Data](articles/23a3e970.json)
-
----
 
 ### 2026 Appropriation Bill Gazettes
 
@@ -2085,5 +2063,27 @@ The petitioner urges the High Court to declare that his fundamental rights have 
 [Data](articles/7e025974.json)
 
 [Extended Data](ext_articles/7e025974.ext.json)
+
+---
+
+### Decisive match waiting for 3 countries in Asia
+
+*2025-09-18 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214701) · `si`
+
+The match between the Sri Lanka team and Afghanistan in the Asian Cup cricket match will be held today (19).
+
+The Sri Lankan team will be at the forefront of the BC and the Afghan group is in its third place.
+
+Sri Lanka and Bangladesh are eligible for the Round 4 of the Super Forecast of the Tournament.
+
+Bangladesh and Afghanistan team will be elected to the Afghanistan group, over 71 runs or 11 overs.
+
+However, the Sri Lankan team is defeated due to the defeat of Afghanistan, the Sri Lanka team and Afghanistan group are eligible for the second round.
+
+◼️
+
+[Data](articles/7523a06a.json)
+
+[Extended Data](ext_articles/7523a06a.ext.json)
 
 ---

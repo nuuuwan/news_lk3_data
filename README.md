@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 14:22:12**
+As of **2025-09-18 14:11:08**
 
 ## Newspaper Stats
 
-*Scraped **76,726** Articles*
+*Scraped **76,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,33 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,456
+adalk | 7,455
 adaderanalk | 9,904
 tamilmirrorlk | 11,521
 virakesarilk | 12,484
-adaderanasinhalalk | 13,379
+adaderanasinhalalk | 13,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,422 (97.0%) of 76,726 articles have been extended.
+74,408 (97.0%) of 76,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### ගිලන්රථයක් අනතුරකට ලක්වෙයි
-
-*2025-09-18 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214711) · `si`
-
-හැටන් බගවන්තලාව ප්‍රධාන මාර්ගයේ නෝර්වුඩ් වෙන්චර් වත්ත ප්‍රදේශයේදී අද (18) ගිලන්රථයක් අනතුරට ලක්වී තිබේ.
-
-අදාළ ගිලන්රථය ඊට ප්‍රතිවිරුද්ධ දිශාවෙන් ධාවනය වූ ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
-
-බගවන්තලාව ප්‍රාදේශීය රෝහලේ සිට දික්ඔය මූළික රෝහල දක්වා රොගීන් දෙදෙනෙකු රැගෙන ගිය ගිලන්රථයක් මෙසේ අනතුරට ලක්ව ඇති බව වාර්තා වේ.
-
-පොලීසිය පැවසුවේ එහි සිටි රෝගීන් දෙදෙනා වෙනත් ගිලන්රථයකින් දික්ඔය මූලික රෝහල වෙත යොමු කළ බවය.
-
-අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරා නෝර්වුඩ් පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
-
-නෝර්වුඩ් ප්‍රදේශයේ පවතින දැඩි අයහපත් කාළගුණයත් සමග හැටන් බගවන්තලාව ප්‍රධාන මාර්ගයේ රථවාහන ධාවනය කිරිමේදි සැලකිලිමත් ලෙස රිය ධාවනය කරවන ලෙස නෝර්වුඩ් පොලිසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/1ee23d24.json)
-
----
-
-### තුසිත හල්ලොලුවට ඇප
-
-*2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
-
-ජාතික ලොතරැයි මණ්ඩලයේ හිටපු අධ්‍යක්ෂවරයෙකු වන තුසිත හල්ලොලුව මහතා තමා ගමන්ගත් වාහනයට ඉකුත්දා නාරාහේන්පිට ප්‍රදේශයේදී වෙඩි තබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටි තුසිත හල්ලොලුව මහතා ඇප මත මුදා හරින ලෙස කොළඹ මහෙස්ත්‍රත් අධිකරණය නියෝග කර තිබේ.
-
-ඒ අනුව සැකකරුවරු ලක්ෂ 50 බැගින් ශරීර ඇප දෙකක් මත මුදා හැරීමට කොළඹ අතිරේක මහෙස්ත්‍රාත් ළහිරු සිල්වා මහතා නියම කර ඇත.
-
-ඉන් අනතුරුව සැකකරු විදේශගත වීම තහනම් කිරීමටද නියම කෙරුණු අතර, සැකකරුගේ විදේශ ගමන් බලපත්‍රය අධිකරණයට භාරදිය යුතු බවටත් නියෝග කළේය.
-
-◼️
-
-[Data](articles/6bf3a2ba.json)
-
----
-
-### Traffic jam in the Lake House Circle
+### லேக் ஹவுஸ் சுற்றுவட்டத்தில் வாகன நெரிசல்
 
 *2025-09-18 13:44:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்-ஹவுஸ்-சுற்றுவட்டத்தில்-வாகன-நெரிசல்/175-364851) · `ta`
 
-Traffic in the Lake House has been blocked due to a protest by the Ceylon Electricity Board (CEB) employees.
+பல கோரிக்கைகளை முன்வைத்து இலங்கை மின்சார சபை ஊழியர்கள் மேற்கொண்டு வரும் ஆர்ப்பாட்டம் காரணமாக லேக் ஹவுஸ் சுற்றுவட்டத்தில் போக்குவரத்து தடைப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
 
-It is also reported that a road has been completely closed due to the ongoing demonstration in front of the Electricity Board headquarters.
+மின்சார சபை தலைமை அலுவலகத்திற்கு முன்பாக நடைபெற்று வரும் ஆர்ப்பாட்டம் காரணமாக ஒரு பாதை முற்றிலுமாக மூடப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
 
 ◼️
 
 [Data](articles/03843d9d.json)
-
-[Extended Data](ext_articles/03843d9d.ext.json)
 
 ---
 
@@ -130,25 +90,21 @@ Because of this agreement, if India attacks Pakistan, Saudi Arabia will retaliat
 
 ---
 
-### Details of the Diyawadana Nilame
+### දියවඩන නිලමේ නිලවරණය පවත්වන දින කියයි
 
 *2025-09-18 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-නිලවරණය-පවත්වන-දින-කියයි/11-418577) · `si`
 
-The Commissioner General of Buddhist Affairs Gamini Senaratne says that the election to appoint a new Diyawadana Nilame on the historic Sri Dalada Maligawa.
+මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ නව දියවඩන නිලමේවරයෙකු පත්කර ගැනීම සඳහාා වූ නිලවරණය නොවැම්බර් මස 07 හෝ ඊට ආසන්න දිනකදී පත්වීම සඳහා මේ වන වනවිට සක්කච්ඡා කරමින් පවතින බව බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් ගාමිණී සේනාරත්න මහතා පවසයි.
 
-The Commissioner General emphasized that when he visited the Kandy Secretariat today (18) for a special discussion today.
+විශේෂ සාකච්ඡාවක් සඳහා අද (18) මහනුවර මහ ලේකම් කාර්යාලයට පැමිණි අවස්ථාවේදී මධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් කොමසාරිස් ජනරාල්වරයා ඒ බව අවධාරණය කළේය.
 
-There he emphasized that the amendment process of the Vihara Paradhagam Ordinance is currently underway. He said that it is being discussed to be amended to amendments 42-43.
+එහිදී ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ විහාර දේවාලගම් ආඥා පනතේ සංශෝධන ක්‍රියාවලිය මේ වන විට ක්‍රියාත්මක වෙමින් පවතින බවයි. එහි 42-43 වගන්ති සංශෝධනය කිරීම සඳහා සාකච්ඡා වෙමින් පවතින බවත් එහි ඉදිරි කටයුතු සිදුවීමට නියමිත බවද පැවසීය.
 
-The Performance General emphasized that measures have been taken to revise the term of the Diyawadana Nilame which is scheduled to come.
+ඉදිරියේදී පත්වීමට නියමිත දියවඩන නිලමේවරයාගේ ධූර කාලය සංශෝධනය කිරීම සම්බන්ධයෙන් වු ක්‍රියාමාර්ග මෙතෙක් ගෙන නොමැති බවද අවසාරිස් ජනරාල්වරයා අවධාරණය කළේය.
 
-Not only in the North and East but also legal problems in Buddhist places of worship and measures are being taken to address the bill to solve them. The Commissioner General also stressed that the department is being carried out by the department as to the relevant activities of temples under the Vihara Devalaya Act.
-
-◼️
+...
 
 [Data](articles/317bb3a8.json)
-
-[Extended Data](ext_articles/317bb3a8.ext.json)
 
 ---
 
@@ -2011,5 +1967,41 @@ Lovol construction equipment including Wheel Loaders, Excavators (Crawler and Wh
 [Data](articles/7320b746.json)
 
 [Extended Data](ext_articles/7320b746.ext.json)
+
+---
+
+### NTB WNPS lecture today to put spotlight on freshwater fishes
+
+*2025-09-18 03:13:25* · [`dailyftlk`](https://www.ft.lk/news/NTB-WNPS-lecture-today-to-put-spotlight-on-freshwater-fishes/56-781830) · `en`
+
+Experts Rohan Pethiyagoda and Hiranya Sudasinghe to share key insights
+
+The Nations Trust Bank-Wildlife and Nature Protection Society monthly lecture today will put spotlight on freshwater fishes with insights from Rohan Pethiyagoda and Hiranya Sudasinghe.
+
+The lecture which is open to the public will be at 6.00 p.m. at the Jasmine Hall, BMICH.
+
+...
+
+[Data](articles/46178b36.json)
+
+[Extended Data](ext_articles/46178b36.ext.json)
+
+---
+
+### A successful event of Tamil artists in Canada
+
+*2025-09-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225373) · `ta`
+
+Singer. B.. A concert was held recently in Toronto, Canada in order to restore the memories of Balasubramaniam.
+
+The ceremony was organized by D Media. Musician Travis Fernando and Tamil singers in Canada participated in the event and held in Toronto on the 13th.. The event was successfully held in cooperation with the Tamil Nadu Kalami.
+
+In addition, Canadian musician Pawan Rajkumar expressed his congratulations on the excellence.
+
+◼️
+
+[Data](articles/c5dc937d.json)
+
+[Extended Data](ext_articles/c5dc937d.ext.json)
 
 ---

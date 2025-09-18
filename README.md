@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 05:20:08**
+As of **2025-09-18 04:54:01**
 
 ## Newspaper Stats
 
-*Scraped **76,615** Articles*
+*Scraped **76,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,637
 islandlk | 4,703
 dailymirrorlk | 4,733
-dailyftlk | 5,447
+dailyftlk | 5,445
 adalk | 7,444
 adaderanalk | 9,886
 tamilmirrorlk | 11,493
@@ -26,43 +26,11 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,012 (96.6%) of 76,615 articles have been extended.
+73,989 (96.6%) of 76,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### Oversight committee clears new Bill to give building research body more teeth
-
-*2025-09-18 05:00:04* · [`dailyftlk`](https://www.ft.lk/news/Oversight-committee-clears-new-Bill-to-give-building-research-body-more-teeth/56-781859) · `en`
-
-The Parliament Secretariat yesterday said that the Sectoral Oversight Committee on Governance, Justice and Civil Protection has approved the National Building Research Institute Bill, which will be taken up for its second reading in Parliament on 23 September.
-
-Although the National Building Research Organisation (NBRO) has operated since 1984, it has not been established by an Act of Parliament. The proposed Bill seeks to provide the organisation with legal status so it can properly discharge its duties and responsibilities. Officials told the Committee that once the legislation is enacted, legal action could be taken against local authorities that fail to follow its recommendations, especially with regard to landslides.
-
-The Committee also reviewed the 2022 and 2023 Annual Reports of the NBRO and the 2023 and 2024 Performance Reports of the Defence Ministry.
-
-...
-
-[Data](articles/c870d4d6.json)
-
----
-
-### Sampath Manamperi surrenders to Court
-
-*2025-09-18 04:53:18* · [`dailyftlk`](https://www.ft.lk/news/Sampath-Manamperi-surrenders-to-Court/56-781856) · `en`
-
-Sampath Manamperi, wanted in connection with the discovery of two containers of chemicals suspected to be used in the manufacture of crystal methamphetamine (Ice) in the Middeniya area, surrendered to the Walasmulla Magistrate’s Court yesterday.
-
-The containers, allegedly linked to underworld figure Kehelbaddara Padme, were said to contain raw materials used in the production of the drug. Manamperi’s attorney had earlier informed the Court of Appeal that his client was prepared to appear before the relevant Magistrate’s Court.
-
-Following this submission, the Court of Appeal directed the Inspector General of Police to ensure the suspect’s safety upon surrender, with investigating officers instructed to comply with the order.
-
-◼️
-
-[Data](articles/dc810eba.json)
-
----
 
 ### Alumex: Four decades of aluminium excellence, innovation and sustainability
 
@@ -77,8 +45,6 @@ Q: Alumex has grown to become the market leader in the Aluminium industry in Sri
 ...
 
 [Data](articles/fc519dc8.json)
-
-[Extended Data](ext_articles/fc519dc8.ext.json)
 
 ---
 
@@ -2047,5 +2013,39 @@ Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since incept
 [Data](articles/ed7b0d64.json)
 
 [Extended Data](ext_articles/ed7b0d64.ext.json)
+
+---
+
+### Saran in Sampath Manamberi Court
+
+*2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
+
+Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
+
+◼️
+
+[Data](articles/c9db1bce.json)
+
+[Extended Data](ext_articles/c9db1bce.ext.json)
+
+---
+
+### Malwatte and Asgiri Maha Naramen announced about Diyawadana Nilame
+
+*2025-09-17 14:03:31* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-ඡන්දය-ගැන-මල්වතු-හා-අස්ගිරි-මහ-නා-හිමිවරුන්ගෙන්-නිවේදනයක්/11-418554) · `si`
+
+In a statement that the Buddhist organizations and individuals have been issued to the signature of the Buddhist society, as a result of the aim of ahead of the future Diyawadana Nilame.
+
+The Diyawadana Nilame, which is the first Buddhist monastery in Sri Lanka, is internationally in international Buddhists, while the tops of the Buddhist people of the World Resistant People.
+
+The Malwathu Asgiri Maha Viharaya should be conducted by the Malwathu Asgiri Maha Viharaya who are responsible for the Diyawadana Niladhari of the Great Restaurant to the Sacred Tooth Relic.
+
+Diyawadana Nilame is appointed by the Temples Devalayagam Act No. 19 of 1931. Appointment of a new Diyawadana Nilame who has ended the term of the current Diyawadana Nilame.. We have learned that a number of candidates including the current Diyawadana Nilame and the current Diyawadana Nilame.
+
+...
+
+[Data](articles/9b72068a.json)
+
+[Extended Data](ext_articles/9b72068a.ext.json)
 
 ---

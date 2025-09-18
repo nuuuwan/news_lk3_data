@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 17:20:36**
+As of **2025-09-18 16:09:08**
 
 ## Newspaper Stats
 
-*Scraped **76,754** Articles*
+*Scraped **76,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,227 +16,35 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,463
+adalk | 7,458
 adaderanalk | 9,907
-tamilmirrorlk | 11,530
+tamilmirrorlk | 11,528
 virakesarilk | 12,485
-adaderanasinhalalk | 13,387
+adaderanasinhalalk | 13,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,620 (97.2%) of 76,754 articles have been extended.
+74,513 (97.1%) of 76,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### EPF பிரச்சினைகளை  தீர்ப்பதற்கான நடமாடும் சேவை
-
-*2025-09-18 16:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-பிரச்சினைகளை-தீர்ப்பதற்கான-நடமாடும்-சேவை/175-364863) · `ta`
-
-ஊழியர் சேமலாப நிதிய மற்றும் அதனுடன் தொடர்புடைய பிணக்குகளை தீர்ப்பதற்காக நடமாடும் சேவை எதிர்வரும் 22ஆம் திகதி முதல் 26ஆம் திகதி வரை அனைத்து மாவட்ட மற்றும் தொழிலாளர் அலுவலகங்களில் முன்னெடுக்கவுள்ளதாக தொழில் அமைச்சு அறிவித்துள்ளது.
-
-இதன்போது, ஊழியர் சேமலாப நிதிய உறுப்பினர் கணக்கு விபரங்கள், நிலுவை, உறுப்பினர் கணக்கு விபரங்களை தேசிய அடையாள அட்டை தகவலுக்கமைய சீர் செய்தல், உறுப்பினர்களை பதிவு செய்தல், முறைப்பாடுகளை பதிவு செய்தல், தொழிலாளர் சட்டங்கள் தொடர்பில் ஆலோசனைகளைப் பெறுதல் போன்ற பிரச்சினைகளுக்கு தீர்வு வழங்கப்படவுள்ளது.
-
-◼️
-
-[Data](articles/afc0fe3d.json)
-
----
-
-### එයාර් ඉන්දියා ගුවන් අනතුර සම්බන්ධයෙන් බෝයිං සමාගමට නඩු
-
-*2025-09-18 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214720) · `si`
-
-පුද්ගලයින් 260 දෙනෙකුට මරු කැඳවූ එයාර් ඉන්දියා ගුවන් අනතුර සම්බන්ධයෙන් බෝයිං සමාගමට එරෙහිව අනතුරින් මියගිය ගුවන් මගීන් සිවු දෙනෙකුගේ පවුල්වල සමාජිකයින් විසින් නඩු පවරා තිබේ.
-
-බෝයිං සමාගමට මෙන්ම ගුවන් යානා කොටස් නිෂ්පාදිත සමාගමක් වන හනීවෙල් සමාගමට එරෙහිව ද ඔවුන් මෙම නඩුව ගොනු කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-පසුගිය ජුනි මාසයේ ඉන්දියාවේ අහමදාබාද් ගුවන් තොටුපලේ සිට ලන්ඩන්හි ගැට්වික් ගුවන් තොටුපල බලා ගමන් ආරම්භ කළ එයාර් ඉන්දියා ගුවන් සමාගමේ මගී ගුවන් යානයක් ගුවන් ගත කර සුළු වේලාවකින් කඩා වැටී අනතුරට ලක්විය.
-
-එහිදී යානයේ සිටි එක් මගියෙකු හැරුණු විට එහි සිටි සියළුම මගීන් හා කාර්යමණ්ඩලය මෙන්ම යානය කඩා වැටුනු ප්‍රදේශයේ රැදී සිටි පුද්ගලයින් ඇතුළු 260කට අධික පිරිසක් ජීවිතක්ෂයට පත්විය.
-
-විදෙස් මාධ්‍ය වාර්තා කළේ අනතුර යානයේ හටගත් දෝශයක් හේතුවෙන් සිදුව ඇති බව පවසමින් එම යානය නිෂ්පාදිත සමාගම වන බෝයිං සමාගමට සහ ගුවන් යානා අමතර කොටස් නිෂ්පාදන සමාගමක් වන හනීවෙල් සමාගමට එරෙහිව මෙලෙස නඩු පවරා ඇති බවය.
-
-◼️
-
-[Data](articles/2ce594a5.json)
-
----
-
-### This is the Judgment of Belavatam
-
-*2025-09-18 16:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-பெலவத்தை-தீர்ப்பு-ஹர்ஷனிக்கு-பிணை/175-364862) · `ta`
-
-Kotte Municipal Council Member Harshani Sandaruwani, who was produced in court on contempt of court during a trial against former President Ranil Wickremesinghe, was released on bail on Thursday (18).
-
-The magistrate granted bail to the suspect on two physical bail of Rs 500,000 each.
-
-Harshani Chandarwani warned Harshani Chandarwani to avoid issuing political statements equivalent to contempt of court when granted bail. In any case, the magistrate warned that the bail was canceled and the suspect would lead to imprisonment.
-
-The Criminal Investigation Department told the court that the suspect had made disrespect during the trial against Ranil Wickremesinghe and that he was arrested and produced in court.
-
-The magistrate inquired what was the correct confession made by the suspect. The Criminal Investigation Department said that he said, "This is a verdict from Belawatte," he said.
-
-...
-
-[Data](articles/ea7ba241.json)
-
-[Extended Data](ext_articles/ea7ba241.ext.json)
-
----
-
-### Suspect arrested with 138 notes for 5000 fakes
-
-*2025-09-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214719) · `si`
-
-A person has been arrested with 138 counterfeit notes as Rs. 5,000.
-
-The police said that the suspect, which was printed, was arrested this morning at the Panmambagolgollewa Police Division this morning.
-
-He has also found a laptop, scan and printer in his possession.
-
-Police said that a suspicious person was inspected by a team of police officers in the Habarana town of the Habarana in Habarana in the evening of 0725.09.2011.
-
-Two suspects have been arrested in possession of Rs.
-
-According to further revealed, the suspect who was said to be arrested as stated that fake currency notes were printed.
-
-The suspects are residents of Habarana, Anuradhapura and Anuradhapura, aged 23 and 42 years old.
-
-The Sri Lankan police calls on the public to use the banknotes and informed the Sri Lankan Police as soon as they ensure that the fake currency notes are taken care of or in possession of such counterfeit banknotes.
-
-◼️
-
-[Data](articles/d479f3f3.json)
-
-[Extended Data](ext_articles/d479f3f3.ext.json)
-
----
-
-### CID arrested for former Navy Intelligence
-
-*2025-09-18 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214718) · `si`
-
-A former Sri Lanka Navy's chief has been arrested this afternoon.
-
-Police Media Spokesperson, Assist Superintendent of Police. !. Mr. Wootsler said the arrest was made by the CID.
-
-◼️
-
-[Data](articles/61cff73f.json)
-
-[Extended Data](ext_articles/61cff73f.ext.json)
-
----
-
-### Historical judgment from Anuradhapura High Court for persons with disabilities
-
-*2025-09-18 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214717) · `si`
-
-Reforms carried out at Vavuniya to Mahawa railway stations have been announced today (18).
-
-Chairperson of Women Association with Disabilities NGG. Mrs. Kamavathi had filed the petition and the Ministry of Transport and the General Manager of the Ministry and the General Manager had been named as respondents.
-
-Attorney-at-Law Isuru Mahesh Mahesh Panditha said that the court considering the petition as the Court preserves the rights of persons with disabilities.
-
-Since the entry stations from the Mahawa to Vavuniya, No. 01 of 2006, railway stations were not modernized by section 23 of the disabled persons with the Rights of Persons with the Protection Act, 23, 1996.
-
-Accordingly, the government has ordered the payment of Rs.
-
-The railway stations from Mahawa to Vavuniya should be modernized by access orders No. 01 of 2006.
-
-The annual provisions of the Railway Department have ordered that the provisions should be provided for the renovation of this renovation.
-
-...
-
-[Data](articles/4d01d4c0.json)
-
-[Extended Data](ext_articles/4d01d4c0.ext.json)
-
----
-
-### There is no recording of the jeep camera system that confronts the fall bus collide
-
-*2025-09-18 15:59:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රථය-ගැටුණ-ජීප්-රියේ-කැමරා-පද්ධතියේ-පටිගතවීමේ-පහසුකම්-නෑ/11-418589) · `si`
-
-The Ella Police have revealed that about 800 feet were given to the projection of about 800 feet (Rs.
-
-The luxury jeep is purchased in 2023 with a vehicle shop in Boralesgamuwa.
-
-However, the company said that the relevant vehicle owner should be asked and that the relevant vehicle owner should be installed into the camera of the luxury jeep if it is to be recording.
-
-The company said that most vehicle owners buying such luxury jeeps have not been informed by the relevant company that they will not be requested to install recording software in the car cameras.
-
-The Tangalle Urban Council employees were traveling on the 15th night's jew, the luxury bus collided with the road in the Wellawaya area and then took the Ravana Ella precipice.
-
-The Secretary of Tangalle Urban Council was killed including employees, including employees of the bus board of the bus driver.
-
-The report has been issued by the vehicle vehicle sales company on a court order to be taken by the Ella Police.
-
-...
-
-[Data](articles/d1f7c0fe.json)
-
-[Extended Data](ext_articles/d1f7c0fe.ext.json)
-
----
-
-### Discussion on encouraging youth women's politics
-
-*2025-09-18 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214716) · `si`
-
-The Members of Parliament has held a discussion on opportunities for various programs to encourage youth women's political participation in encouraging the UK.
-
-There is a need to build a dialogue between different social layers, among different social layers to promote the political participation of young women of Sri Lanka.
-
-Members of Parliament was held under the patronage of Prime Minister Dr. Weli Amarasuriya and Forum Chairman of the Prime Minister Saroja Sakar Raja.
-
-Representatives of WestSastministist Foundation for Democracy (WestMinSter Foundation Relegation) and the Law & Social Trust (Law & Society Trust) have also participated in the weststaministation.
-
-The committee's commander (WFD) representatives (WFD) representatives were able to support the implementation of the Members of Parliament for the growth of the women's workforce in Sri Lanka and to introduce gender budgeting.
-
-...
-
-[Data](articles/fe8f46c2.json)
-
-[Extended Data](ext_articles/fe8f46c2.ext.json)
-
----
-
-### Rs. Former Minister of Sabaragamuwa Sabaragamuwa remanded
-
-*2025-09-18 15:44:24* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-7ක්-රජයට-පාඩු-කළ-සබරගමුව-හිටපු-ඇමති-අතුල-කුමාර-රිමාන්ඩ්/11-418587) · `si`
-
-Former Minister of Highways and Sports Minister Embilipitiya Magistrate's Court today (18) ordered the court to be arrested for fraudulent use of Rs. 2 crores.
-
-When the suspect was produced in court, the officers of the Criminal Investigations Department stated in court that the project was spent on 15 projects in the court.
-
-◼️
-
-[Data](articles/ff1b5f8b.json)
-
-[Extended Data](ext_articles/ff1b5f8b.ext.json)
-
----
-
-### Interview Dates Notification
+### நேர்காணல் திகதிகள் அறிவிப்பு
 
 *2025-09-18 15:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேர்காணல்-திகதிகள்-அறிவிப்பு/175-364860) · `ta`
 
-Interviews for recruiting students of Colombo, Kalutara, Gampaha and Kegalle districts will be held on 20th and 21st of this month at the Health Ministry in Colombo 10.
+கொழும்பு, களுத்துறை, கம்பஹா மற்றும் கேகாலை மாவட்டங்களுக்கான மாணவர் தாதியர்களை ஆட்சேர்ப்பு செய்வதற்கான நேர்காணல்கள் இந்த மாதம் 20 மற்றும் 21 ஆம் தேதிகளில் கொழும்பு- 10 இல் உள்ள சுகாதார அமைச்சில் நடைபெறும்.
 
-Interviews for recruiting students of Kandy, Matale and Nuwara Eliya districts will be held on the 20th and 21st of this month at Nursing College, Kandy.
+கண்டி, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களுக்கான மாணவர் தாதியர்களை ஆட்சேர்ப்பு செய்வதற்கான நேர்காணல்கள் இந்த மாதம் 20 மற்றும் 21 ஆம் திகதிகளில் கண்டி நர்சிங் கல்லூரியில் நடைபெறும்.
 
-The Ministry of Health and Mass Media has announced that only those who have been officially announced by the Ministry of Health and Mass Media should appear for these interviews.
+சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சினால் முன்கூட்டியே அதிகாரப்பூர்வமாக அறிவிக்கப்பட்ட நபர்கள் மட்டுமே இந்த நேர்காணல்களுக்குத் தோன்ற வேண்டும் என்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சு அறிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/d36144dc.json)
-
-[Extended Data](ext_articles/d36144dc.ext.json)
 
 ---
 
@@ -330,23 +138,21 @@ Hemasiri Fernando and Pujith Jayasundara sentenced the two accused of the three-
 
 ---
 
-### Salt yields in Puttalam
+### புத்தளத்தில்  உப்பு  விளைச்சல் அமோகம்
 
 *2025-09-18 15:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-உப்பு-விளைச்சல்-அமோகம்/175-364856) · `ta`
 
-Five years later, due to the prevailing dry weather, the Puttalam has got a good hand harvest. Puttalam salt manufacturers said that this amount of salt was received after five years.
+ஐந்து ஆண்டுகளுக்குப் பிறகு, தற்போது நிலவும் வறண்ட வானிலை காரணமாக, புத்தளத்தில் அமோகமாக உப்பு அறுவடை கிடைத்துள்ளது. என புத்தளம் உப்பு உற்பத்தியாளர்கள் தெரிவித்தனர் ஐந்து ஆண்டுகளுக்குப் பிறகு இந்த அளவு உப்பு அறுவடை கிடைத்ததாகக் கூறப்படுகிறது.
 
-Salt farmers say that there is currently enough salt production to exceed one lakh metric tons.
+தற்போது ஒரு லட்சம் மெட்ரிக் தொன்னை தாண்டும் அளவுக்கு உப்பு உற்பத்தி இருப்பதாக உப்பு விவசாயிகள் கூறுகின்றனர்.
 
-With heavy rains over the past few years, the Puttalam salt production has been completely blocked, the salt field has been submerged and the industry is frozen.
+கடந்த சில ஆண்டுகளாக தொடர்ந்து பெய்த கன மழையால், புத்தளம் உப்பு உற்பத்தி முற்றிலுமாக தடைப்பட்டது, உப்பு  வயல் மழை நீரில் மூழ்கி,தொழிலையே முடக்கியுள்ளது.
 
-For that reason, the government has taken steps to import salt consumers from the state of Gujarat, India.. Sri Lanka's total salt requirement, approaching one million eighty thousand metric tank. Salt farmers said this is the amount of food and other ingredients.
+அந்த காரணத்திற்காக, உப்பு பற்றாக்குறைக்கு தீர்வாக,நாட்டின் உப்பு நுகர்வோருக்கு தேவையான உப்பு  இந்தியாவின் குஜராத் மாநிலத்தில் இருந்து இறக்குமதி செய்ய அரசாங்கம் நடவடிக்கை எடுத்திருந்தது. இலங்கையின் மொத்த உப்புத் தேவை, ஒரு லட்சத்து எண்பதாயிரம் மெட்ரிக் டன்னை நெருங்குகிறது. இதுதான் உணவு மற்றும் பிற பொருட்களுக்குத் தேவையான அளவு என உப்பு விவசாயிகள் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/b20ddb96.json)
-
-[Extended Data](ext_articles/b20ddb96.ext.json)
 
 ---
 
@@ -476,28 +282,6 @@ Joined by Ministry Secretaries and agency heads, the initiative aimed to revital
 
 ---
 
-### New methodology for two weeks to provide fertilizer for tea cultivation
-
-*2025-09-18 14:24:07* · [`adalk`](https://www.ada.lk/breaking_news/තේ-වගාවට-පොහොර-ලබාදීමට-සති-දෙකක්-තුළ-නව-ක්‍රමවේදයක්/11-418583) · `si`
-
-Plantation and Community Infrastructure, Minister Samantha Vidyaratne said that a new methodology is expected to introduce a new system within two weeks to provide fertilizers to tea growers.
-
-Ideas made this statement when the Ministry of Plantation and Community Infrastructure was held at Parliament with his Chairman. Deputy Minister of Plantation and Community Infrastructure was also present at the occasion.
-
-The government focused on providing fertilizer without delaying fertilizer without delay.. The Minister further stated that the farmers can obtain fertilizer from anywhere they want.
-
-It also discussed issues regarding the promotion and promotion of coconut production.. The Minister pointed out that a pilot project in Kalutara has been launched to increase orange production.
-
-The Minister said that if the tea and rubber estates had requested the rehabilitation companies to be rehabilitated.
-
-...
-
-[Data](articles/4c50b5d1.json)
-
-[Extended Data](ext_articles/4c50b5d1.ext.json)
-
----
-
 ### Businessman arrested for selling foreign cigarettes to schoolchildren
 
 *2025-09-18 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112647/businessman-arrested-for-selling-foreign-cigarettes-to-schoolchildren) · `en`
@@ -558,26 +342,6 @@ The Norwood police urge the drivers to take action to drive the traffic on the H
 
 ---
 
-### Queen of World Marry comes to Katunayake
-
-*2025-09-18 13:54:58* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-විවාහක-රූ-රැජින-කටුනායකට-එයි/11-418581) · `si`
-
-"Miss Grand Sri Lanka - 2025 (MISS Grand Sri Lanka - 2025) The Mrs: Sargam kousal came to the Katunayake Airport on the morning of 2022.
-
-The finals will be held at the Mount Lavinia General Hotel on 09/22.
-
-The Sri Lankan European Beauty will be held in Thailand with 110 countries in the world with 110 countries in the world.
-
-Mrs. Cergam Kauzhal, World Marry, arrived at the Katunayake Airport on the flight of the 144.
-
-◼️
-
-[Data](articles/2fad25bf.json)
-
-[Extended Data](ext_articles/2fad25bf.ext.json)
-
----
-
 ### Thusitha Halloluwa bail
 
 *2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
@@ -593,22 +357,6 @@ The suspect was then ordered to ban abroad, or ordered that the suspect's passpo
 [Data](articles/6bf3a2ba.json)
 
 [Extended Data](ext_articles/6bf3a2ba.ext.json)
-
----
-
-### The street was closed in front of the Electricity Board headquarters by demonstration
-
-*2025-09-18 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
-
-Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
-
-Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
-
-◼️
-
-[Data](articles/135b9918.json)
-
-[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -628,33 +376,19 @@ It is also reported that a road has been completely closed due to the ongoing de
 
 ---
 
-### Five years later, Puttalam
+### The street was closed in front of the Electricity Board headquarters by demonstration
 
-*2025-09-18 13:37:38* · [`adalk`](https://www.ada.lk/breaking_news/වසර-පහකට-පසු--පුත්තලමේ-වාර්තා-ගත-ලුණු-අස්වැන්නක්/11-418579) · `si`
+*2025-09-18 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
 
-Salt manufacturers say that the majority of the salt in the country will be given a major contribution to the country's salt requirement after the end of the dry weather.
+Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
 
-Salt growers say it is fifteen years after the Puttalam district is five years later, it is nearly 100 years old to be exceeding Rs.
+Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
 
-Salt manufacturers say that with the continuous rainfall of the last three years, salt producers say that the industrialist is undermined by rain water.
+◼️
 
-For that reason, the government has taken measures to import the salt to the location of the Salt State of the country in the state of India to import the salt.
+[Data](articles/135b9918.json)
 
-The total salt understanding of Sri Lanka is close to Rs.
-
-The turnover of Puttalam turns over Puttalam, near the Hambantota Salt production.
-
-The growers of the growers were so vibrated after a number of years. Mr. MU Rush was commenting.
-
-"We have come to us with a good salt.
-
-It is not a good harvest we have.
-
-...
-
-[Data](articles/6ec6f49c.json)
-
-[Extended Data](ext_articles/6ec6f49c.ext.json)
+[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -2061,5 +1795,253 @@ Pm in other areas. Showers or thundershowers will occur at several places in abo
 [Data](articles/15d29113.json)
 
 [Extended Data](ext_articles/15d29113.ext.json)
+
+---
+
+### 3 youths who have gone to Kalkis in the sea wave safely rescue
+
+*2025-09-18 07:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225375) · `ta`
+
+Three youths who went to bathe in the sea, Kalkiss, were thrown into the sea wave, police said.
+
+It is reported that the incident took place on Wednesday (17) and officers from the police lifewalk unit and the youth trapped in the sea waters were safely rescued.
+
+Investigations have revealed that all the rescued youth were 16 -year -old and are from Wellampitiya, Kuttakurukkur and Hoganda.
+
+Police have warned the public to avoid bathing in the sea when heavy waves are found.
+
+◼️
+
+[Data](articles/7e14a06b.json)
+
+[Extended Data](ext_articles/7e14a06b.ext.json)
+
+---
+
+### Evidence rooms that can give the children safely
+
+*2025-09-18 07:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ආරක්ෂිතව-සාක්ෂි-දිය-හැකි-සාක්ෂි-කාමර/11-418569) · `si`
+
+It is a turning point in the country's judicial system to establish evidence rooms for children.
+
+Attorney-at-Law, Assistant Integration Minister, Attorney-at-Law, Hon.. The opening of a digital facilities to the children who become victims have been opened in the Kandy High Court.
+
+"It should be noted that the establishment of the evidence rooms for children is a turning point in Sri Lanka. It should be the potential to give the children who are prosperous to be victims. For the first time in the Kandyan highway, a digital facilities that can be securely evidence of the children who become victims opened in the Kandy High Court. These facilities are being introduced to courts island wide.
+
+EU and UNICEF organizations should be thankful for the EU, UnforF. It should be stated that the current government is a projected purpose to inheriting children. The Minister said that he will introduce strong laws for child protection in the future.
+
+...
+
+[Data](articles/a77bae23.json)
+
+[Extended Data](ext_articles/a77bae23.ext.json)
+
+---
+
+### The second phase of the "Clene Sri Lanka" begins the Thalattle
+
+*2025-09-18 07:35:41* · [`adalk`](https://www.ada.lk/breaking_news/“ක්ලීන්-ශ්‍රී-ලංකා”-නාගරික-වනාන්තර-ව්‍යාපෘතියේ-දෙවන-අදියර-තොටළඟින්-ඇරඹේ/11-418568) · `si`
+
+The second phase of the Urban Forest in the Urban Forests under the "Clene Sri Lanka" program was launched near the bus stand.
+
+Accordingly, it has been developed as a security urban forest plantation planting plants belonging to the Thotalawiya Colombo Municipal Council.
+
+The specialty is to assign the responsibilities of the school students of Madampitiya Sri Sangavila Maha Vidyalaya as the devotees of environmental value.
+
+Prizes and certificates were presented to school children.
+
+Road Development Authority, Urban Development Authority and the Colombo Municipal Council under the guidance of the Foster 'Program and Clene Sri Lanka' projects in the Cuttel Maharaja Group.
+
+The project will be carried out with the contribution of public and private sectors.
+
+◼️
+
+[Data](articles/a95ff400.json)
+
+[Extended Data](ext_articles/a95ff400.ext.json)
+
+---
+
+### Severe Soldier appreciates of survived passengers in the fall in the fall
+
+*2025-09-18 07:30:25* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේදී-තම-දිවි-නොතකා-මගීන්-බේරා-ගත්-විශේෂ-බළකා-සෙබලා-අගයයි/11-418567) · `si`
+
+The Army Headquarters have made an official promotion and evaluate the employees of the Army Special Forces who have been able to save their lives to the Ravana Falls on the ride of the Ella, Wellawaya main road.
+
+This is evicted by the Army 2nd Special Forces W. M. Paddy. M. The average celebrations of Bandara, who is promoted to the rank of the Lance Corporal. His heroic was the special assessment of the Army's special assessment and a financial donation.
+
+Retired of the Armed Forces Association (President's Association) at this time, Retired Lieutenant Colonel Ajith, Ajith, has been involved in the financial donation.                                  Gem
+
+◼️
+
+[Data](articles/2cc0bebe.json)
+
+[Extended Data](ext_articles/2cc0bebe.ext.json)
+
+---
+
+### Railway personnel accused from Minister Bimal
+
+*2025-09-18 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214695) · `si`
+
+Transport Minister Bim Ratnayake says that the railway service cannot be properly implemented.
+
+He pointed out that the Railway Department officials have failed to maintain the rail.
+
+Minister of Transport Bimal Ratnayake made this statement participating at a discussion with public officials including the Transport sector including the Kalutara District Secretaries in the Kalutara District Secretariats.
+
+...
+
+[Data](articles/457409c1.json)
+
+[Extended Data](ext_articles/457409c1.ext.json)
+
+---
+
+### Sri Lanka’s third nano-satellite to be launched into orbit tomorrow
+
+*2025-09-18 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112630/sri-lankas-third-nano-satellite-to-be-launched-into-orbit-tomorrow) · `en`
+
+Sri Lanka’s third nano-satellite, developed with the technical expertise of local engineers, is scheduled to be launched into orbit tomorrow (19), the Arthur C. Clarke Institute for Modern Technologies in Moratuwa, has announced.
+
+Named ‘BIRDS-X Dragonfly’, the satellite was carried to the International Space Station (ISS) aboard the SpaceX-33 rocket, launched by NASA on August 24.
+
+Previously, in 2019, Sri Lanka successfully launched its first nano-satellite, ‘Ravana-1’, and in 2022, the ‘KITSUNE’ satellite was launched as part of a multinational technological collaboration involving five international partners.
+
+Accordingly, the BIRDS-X Dragonfly nano-satellite is scheduled to be released into its designated orbit from the International Space Station at 2:15 p.m. tomorrow.
+
+...
+
+[Data](articles/6940e7da.json)
+
+[Extended Data](ext_articles/6940e7da.ext.json)
+
+---
+
+### France starting talks with Sri Lanka to resume projects after default ends
+
+*2025-09-18 06:30:00* · [`economynextcom`](https://economynext.com/france-starting-talks-with-sri-lanka-to-start-projects-after-default-ends-240956/) · `en`
+
+ECONOMYNEXT – Talks are starting on resuming stalled projects and starting fresh ones, on the policy priorities of Sri Lanka’s new government, a top official of the French devel agency, Agence Française de Développement (AFD) said.
+
+Sri Lanka had 426 million dollars of bilateral loans from France of which 138 million dollars were in arrears as of March 2025 and as well as unpaid interest.
+
+A June debt bulletin said it was turned into 478 million dollars of loans.
+
+The restructuring agreements between France and Sri Lanka were signed in August.
+
+“So, the discussions of where we are heading to is now starting, with the Sri Lankan government on two sides,” Cyrille Bellier, Head of the Department Europe, Middle East and Asia told reporters in Paris.
+
+“How we can re-engage the projects that have been stopped and for which the Sri Lankan government decided that they were still a priority.”
+
+Projects which are no longer a priority can be cancelled he said.
+
+...
+
+[Data](articles/114f28df.json)
+
+[Extended Data](ext_articles/114f28df.ext.json)
+
+---
+
+### Israel's announcement to leave Gaza people
+
+*2025-09-18 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மக்களை-வெளியேறுமாறு-இஸ்ரேல்-அறிவிப்பு/50-364812) · `ta`
+
+On Gaza, Israel has intensified military operations and ordered the immediate exit of residents.
+
+Israel has been carrying out serious air and ground attacks throughout the Gaza since yesterday (16).
+
+The Israeli military announced yesterday (17) that the Palestinian people will open a further 48 hours to leave.  (a)
+
+◼️
+
+[Data](articles/ed386926.json)
+
+[Extended Data](ext_articles/ed386926.ext.json)
+
+---
+
+### Three teenagers rescued after being swept away by currents at Mount Lavinia Beach
+
+*2025-09-18 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112629/three-teenagers-rescued-after-being-swept-away-by-currents-at-mount-lavinia-beach) · `en`
+
+Three teenagers who went sea bathing at the Mount Lavinia Beach were rescued after being swept away by strong water currents, police stated.
+
+The incident occurred yesterday (17), and police said officers attached to the Police Lifeguard Unit, rescued the individuals who were caught in the strong currents.
+
+Officers promptly intervened, rescued the individuals, and administered initial first aid.
+
+The rescued teenagers, all aged 16, are residents of Wellampitiya, Katukurunda, and Hokandara.
+
+◼️
+
+[Data](articles/ddd20909.json)
+
+[Extended Data](ext_articles/ddd20909.ext.json)
+
+---
+
+### Sri Lanka's third Nano Satellite Orbit tomorrow
+
+*2025-09-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214693) · `si`
+
+The third Nano, the technical contributor to the technical contribution to the Third Nano Satess, the Arthur C. Clarke Institute said.
+
+Birds - X Dragonflowi, the satellite named X-Dragonfiwida last August was taken to the International Space Institute by NASA.
+
+In 2019, Ravana-1 Chandrika, was identified as "Kitsu - 1" in the year 2019 and had previously created "Kitsu-1 Technical Cooperation Project in 2022.
+
+Birds - X Dragonflowy Nathafi Nathafi Nano is due to be released from the International Space Center tomorrow at 2.15 pm.
+
+◼️
+
+[Data](articles/e3e755f3.json)
+
+[Extended Data](ext_articles/e3e755f3.ext.json)
+
+---
+
+### Heavy rains in the evening today
+
+*2025-09-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214692) · `si`
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Northern and Northwestern provinces and in the Galle and Matara districts.
+
+Department of Meteorology was announced in the Western, Sabaragamuwa and Northern Province and in the Galle and Matara districts, mm.. Heavy rains can occur about 75 years.
+
+In the other areas. Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/313cd568.json)
+
+[Extended Data](ext_articles/313cd568.ext.json)
+
+---
+
+### King Charles and Trump hail UK-US special relationship in state banquet speech
+
+*2025-09-18 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112628/king-charles-and-trump-hail-uk-us-special-relationship-in-state-banquet-speech) · `en`
+
+King Charles has commended President Trump’s personal commitment to “finding solutions to some of the world’s most intractable conflicts”, as he called for US support for Ukraine against “tyranny”, in a speech at the US state visit banquet.
+
+In response, President Trump hailed the special relationship between the US and the UK, saying the word “special does not begin to do it justice”.
+
+The King’s speech, at a lavish dinner for 160 guests in Windsor Castle, emphasised the deep connections between the two countries and the need to maintain cultural, trading and military links.
+
+“Our people have fought and died together for the values we hold dear,” said the King.
+
+The state visit will continue on Thursday, including Queen Camilla and the Princess of Wales at events with the First Lady Melania Trump.
+
+It will move from a royal spectacle to political talks and a news conference, as Trump travels to meet Prime Minister Keir Starmer at his country house, Chequers.
+
+...
+
+[Data](articles/e64851b6.json)
+
+[Extended Data](ext_articles/e64851b6.ext.json)
 
 ---

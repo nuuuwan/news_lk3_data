@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 10:08:57**
+As of **2025-09-18 11:08:46**
 
 ## Newspaper Stats
 
-*Scraped **76,667** Articles*
+*Scraped **76,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,217 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,447
-adaderanalk | 9,893
-tamilmirrorlk | 11,500
-virakesarilk | 12,476
-adaderanasinhalalk | 13,369
+adalk | 7,448
+adaderanalk | 9,895
+tamilmirrorlk | 11,508
+virakesarilk | 12,478
+adaderanasinhalalk | 13,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,179 (96.8%) of 76,667 articles have been extended.
+74,214 (96.8%) of 76,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
+
+### 3 boys safely recovered
+
+*2025-09-18 10:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுவர்களும்-பாதுகாப்பாக-மீட்பு/175-364831) · `ta`
+
+Three boys who went missing in Kalkissa yesterday were safely rescued, police said.
+
+Officers from the Police Life Division have reportedly rescued the children who were trapped in the sea stream.
+
+Investigations have revealed that all the rescued boys were 16 years old and are from Wellampitiya, Kuttakurukkur and Hoganda.
+
+Police warned the public to avoid bathing in the sea. Remble
+
+◼️
+
+[Data](articles/b2a521be.json)
+
+[Extended Data](ext_articles/b2a521be.ext.json)
+
+---
+
+### Sri Lanka is ranked 97th in the World Passport rankings
+
+*2025-09-18 10:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகக்-கடவுச்சீட்டு-தரவரிசையில்-இலங்கை-97வது-இடத்தில்/175-364830) · `ta`
+
+Sri Lanka's passport fell in the Global Rankings in 2025 and the Henley passport, released on September 11, was relegated to 97th place.
+
+According to the index, Sri Lanka and Iran share 97th place, thereby providing its owners a visa -free access to 41 places.. In 2024, these countries ranked 96th.
+
+The Henley Passport code, which is considered the most official passport rankings in the world, estimates 199 passports against 227 seats based on the number of countries that can be accessed without a pre -visa.
+
+◼️
+
+[Data](articles/3d88678f.json)
+
+[Extended Data](ext_articles/3d88678f.ext.json)
+
+---
+
+### "Do you know the father of a baby who grows up in my belly?"
+
+*2025-09-18 10:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்-வயிற்றில்-வளரும்-குழந்தைக்கு-தந்தை-யார்-தெரியுமா/175-364829) · `ta`
+
+"The child who grows in the stomach should be responsible for the father of Madhampatti Rangaraj," said Joy Girisilda, the famous clothing designer.
+
+Joy Girisilda, the 2nd wife of famous culinary artist Madhapatti Rangaraj, met with reporters at the Madras High Court on Wednesday.
+
+Speaking at the time, he said, “Madhampatti Rangaraj, who provides food for famous food and auspicious events, has summoned me and my child.. Madhampatti Rangaraj is the reason for the baby that grows in my stomach. It must be given the right.
+
+Madhampatti Rangaraj has lodged a complaint at the Chennai Municipal Police Commissioner's Office and no action has been taken yet. They are distracted by various police stations and call me. The child who grows up in my stomach needs justice. Madhampatti Rangaraj is the father of my child as the father, ”Joy Girisilda said.
+
+◼️
+
+[Data](articles/4a6bb4e1.json)
+
+[Extended Data](ext_articles/4a6bb4e1.ext.json)
+
+---
+
+### Logic by the issue of archeology
+
+*2025-09-18 10:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்லியல்-திணைக்கள-விவகாரத்தால்-தர்க்கம்/175-364828) · `ta`
+
+A serious debate was held at the Divisional Coordinating Committee at the Divisional Coordinating Committee between Thiagarajah Niros, Chairman of the Valikamam East Pradeshiya Sabha and Divisional Coordinating Committee Chairman and Government Parliamentarian, Rajeevan Jayachandraramurthy.
+
+Following the debate, it was decided at the Divisional Development Committee that the Department of Archeology should be departed from Nilavara and hand it over to the Pradeshiya Sabha.
+
+In this regard, the Valikamam East Regional Development Committee meeting was held on Tuesday (16) at the Divisional Secretariat.
+
+At this meeting, the Nilavarai area was a tourist attraction. It was pointed out by the Divine that the intervention of the Archaeological Department in the area could not improve.
+
+...
+
+[Data](articles/93a9029b.json)
+
+[Extended Data](ext_articles/93a9029b.ext.json)
+
+---
+
+### Postponement
+
+*2025-09-18 10:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்டைதீவு-மனிதப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-364826) · `ta`
+
+◼️
+
+[Data](articles/205f86b3.json)
+
+[Extended Data](ext_articles/205f86b3.ext.json)
+
+---
+
+### Ambulance accident; Police rescued beer cans
+
+*2025-09-18 10:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆம்புலன்ஸ்-விபத்து-பீர்-கேன்களை-மீட்ட-பொலிஸார்/175-364825) · `ta`
+
+The ambulance carrying two patients from the Deniyaya area to Matara was found in two beer cans after the crash, Morawaka police said.
+
+When the ambulance belonging to the Deniyaya Basic Hospital was transported to the Matara General Hospital, it was hit by the entrance of a house.
+
+The driver of the ambulance has fled the scene at the time of the accident and has since surrendered to the police.
+
+◼️
+
+[Data](articles/413417db.json)
+
+[Extended Data](ext_articles/413417db.ext.json)
+
+---
+
+### Friend attacked a bottle and murdered
+
+*2025-09-18 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214699) · `si`
+
+A body has been found in a stream in Sandungagathi Mawathagama, Tissamaharama police division.
+
+Initiatives, investigations have commenced on information to the Tissamaharama Police Station yesterday (17).
+
+Investigations have revealed that the victim was attacked by a bottle on a white and a personal dispute.
+
+Tissamaharama Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fa29bbb0.json)
+
+[Extended Data](ext_articles/fa29bbb0.ext.json)
+
+---
+
+### 33 kg of wet Kerala cannabis in the northern seas
+
+*2025-09-18 10:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கடலில்-33-கிலோ-கிராம்-ஈரமான-கேரள-கஞ்சா-சிக்கியது/175-364824) · `ta`
+
+During the special search operations carried out by the Sri Lankan Navy in the Mamunai Sea of ​​Jaffna, the Navy seized more than thirty -three (33) kilograms (wet weight) Kerala cannabis.
+
+Accordingly, during a raid conducted by the Vettalakanei Naval Center belonging to the Northern Naval Command, a suspicious bag floating in particular sea areas was tested, and the Kerala cannabis was seized by more than thirty -three (33) kilograms in the bag.
+
+The total value of Kerala cannabis captured by the Navy is believed to be over seven (07) million rupees and is suspected to have been abandoned by traffickers without being able to bring it to shore during the operation of the Navy.
+
+In addition, the amount of Kerala cannabis seized by the Navy was handed over to the Maruthankeni Police Station for further legal action.
+
+◼️
+
+[Data](articles/70a19679.json)
+
+[Extended Data](ext_articles/70a19679.ext.json)
+
+---
+
+### Sri Lanka passport decline in world rankings!
+
+*2025-09-18 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225383) · `ta`
+
+According to global rankings, Sri Lanka's passport fell by 2025.
+
+Henley Passport for 2025 released on September 11th; According to the index, Sri Lanka ranks 97th.
+
+In 2024, Sri Lanka was ranked 96th in the passport code.
+
+Along with Sri Lanka, Iran is ranked 97th in this code.
+
+The Henley passport code evaluates passports around the world based on places that can enter without a pre -visa.
+
+At the same time, South Korea and Japan are in the second and third places respectively.
+
+◼️
+
+[Data](articles/fcdfb505.json)
+
+[Extended Data](ext_articles/fcdfb505.ext.json)
+
+---
+
+### Public consultation on electricity tariff revision begins today!
+
+*2025-09-18 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225382) · `ta`
+
+The Public Advisory Sessions on the Proposed Electricity Tax Correction will commence today (18).
+
+The Ceylon Electricity Board (CEB) has proposed a 6.8 per cent increase in electricity tariffs for the last quarter of 2025, the Sri Lanka Public Utilities Commission said.
+
+Accordingly, the Public Utilities Commission of Sri Lanka has decided to get the public's opinion on the amendments proposed.
+
+The Commission also said that the public can submit their comments and recommendations to the Commission in writing.
+
+It is reported that the Public Utilities Commission will conduct nine general advice, including nine provinces to obtain verbal ideas.
+
+It has been further stated that the written comments and recommendations on the Public Advice on the Third Electricity Toll Amendment of 2025 can be submitted before the 7th of October.
+
+◼️
+
+[Data](articles/2db927f6.json)
+
+[Extended Data](ext_articles/2db927f6.ext.json)
+
+---
 
 ### This is what you read, this is what I read
 
@@ -45,6 +241,26 @@ Adam Smith's economic principles are elaborated in his main book "The Wealth of 
 [Data](articles/bcf9515b.json)
 
 [Extended Data](ext_articles/bcf9515b.ext.json)
+
+---
+
+### Five people at risk of dying daily due to chronic kidney disease in Sri Lanka
+
+*2025-09-18 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112636/five-people-at-risk-of-dying-daily-due-to-chronic-kidney-disease-in-sri-lanka) · `en`
+
+Approximately five individuals in Sri Lanka are at risk of dying daily due to chronic kidney disease (CKD), the National Unit for Kidney Disease Prevention and Research (NRDPRU) states.
+
+Consultant Community Physician Dr. Chintha Gunaratne, the Director of the Unit revealed that over 1,600 people in the country died from chronic kidney-related conditions in the year 2023.
+
+She made these remarks while speaking at a media briefing organized by the Health Promotion Bureau on kidney-related diseases.
+
+Dr. Gunaratne further emphasized that since symptoms of kidney disease often appear at a later stage, it is essential for individuals with non-communicable diseases (NCDs) to undergo regular kidney screenings.
+
+◼️
+
+[Data](articles/70d56c8e.json)
+
+[Extended Data](ext_articles/70d56c8e.ext.json)
 
 ---
 
@@ -130,6 +346,28 @@ In this regard, the Valikamam East Regional Development Committee meeting was he
 
 ---
 
+### Stalemate between Govt and electricity trade unions continues
+
+*2025-09-18 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112635/stalemate-between-govt-and-electricity-trade-unions-continues) · `en`
+
+Electricity trade unions have warned that they will further intensify their ongoing trade union actions if their demands continue to be ignored.
+
+Unions commenced a work-to-rule campaign on September 4, in protest against what they describe as the arbitrary restructuring of the Ceylon Electricity Board (CEB).
+
+As a further step in this campaign, union members launched a sick leave protest yesterday (17), according to reports.
+
+Accordingly, unions confirmed that the trade union action will continue for a second consecutive day today.
+
+However, if the authorities continue to disregard their demands, the trade union actions already underway will be escalated further, said Kosala Abeysinghe, the President of the Ceylon Electricity Board Technician’s Union.
+
+◼️
+
+[Data](articles/5527bb51.json)
+
+[Extended Data](ext_articles/5527bb51.ext.json)
+
+---
+
 ### Five kidney patients die daily
 
 *2025-09-18 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214698) · `si`
@@ -169,6 +407,18 @@ However, the Chairman of the Ceylon Electricity Board (Ceylon Electricity Board)
 [Data](articles/e62bd937.json)
 
 [Extended Data](ext_articles/e62bd937.ext.json)
+
+---
+
+### So much smell nose
+
+*2025-09-18 08:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னாடா-இவ்வளவு-நாற்றம்-மூக்க-பிக்கிது/62-364817) · `ta`
+
+◼️
+
+[Data](articles/3d8ffef7.json)
+
+[Extended Data](ext_articles/3d8ffef7.ext.json)
 
 ---
 
@@ -362,25 +612,47 @@ Police have warned the public to avoid bathing in the sea when heavy waves are f
 
 ---
 
-### “ක්ලීන් ශ්‍රී ලංකා” නාගරික වනාන්තර ව්‍යාපෘතියේ දෙවන අදියර තොටළඟින් ඇරඹේ
+### Evidence rooms that can give the children safely
+
+*2025-09-18 07:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ආරක්ෂිතව-සාක්ෂි-දිය-හැකි-සාක්ෂි-කාමර/11-418569) · `si`
+
+It is a turning point in the country's judicial system to establish evidence rooms for children.
+
+Attorney-at-Law, Assistant Integration Minister, Attorney-at-Law, Hon.. The opening of a digital facilities to the children who become victims have been opened in the Kandy High Court.
+
+"It should be noted that the establishment of the evidence rooms for children is a turning point in Sri Lanka. It should be the potential to give the children who are prosperous to be victims. For the first time in the Kandyan highway, a digital facilities that can be securely evidence of the children who become victims opened in the Kandy High Court. These facilities are being introduced to courts island wide.
+
+EU and UNICEF organizations should be thankful for the EU, UnforF. It should be stated that the current government is a projected purpose to inheriting children. The Minister said that he will introduce strong laws for child protection in the future.
+
+...
+
+[Data](articles/a77bae23.json)
+
+[Extended Data](ext_articles/a77bae23.ext.json)
+
+---
+
+### The second phase of the "Clene Sri Lanka" begins the Thalattle
 
 *2025-09-18 07:35:41* · [`adalk`](https://www.ada.lk/breaking_news/“ක්ලීන්-ශ්‍රී-ලංකා”-නාගරික-වනාන්තර-ව්‍යාපෘතියේ-දෙවන-අදියර-තොටළඟින්-ඇරඹේ/11-418568) · `si`
 
-“ක්ලීන් ශ්‍රී ලංකා” වැඩසටහන යටතේ නාගරික වනාන්තර ඇති කිරීමේ ව්‍යාපෘතියේ දෙවන අදියර තොටළඟ සිරිමාවේ බණ්ඩාරනායක මාවත, බස් නැවතුම්පොළ අසලදී පෙරවරුවේ ආරම්භ කෙරිණි.
+The second phase of the Urban Forest in the Urban Forests under the "Clene Sri Lanka" program was launched near the bus stand.
 
-ඒ අනුව තොටළඟ කොළඹ මහ නගර සභාවට අයත් භූමියෙහි පැළ රෝපණය කරමින් එය ආරක්ෂණීය නාගරික වන වගා භූමියක් ලෙස සංවර්ධනය කර ඇත.
+Accordingly, it has been developed as a security urban forest plantation planting plants belonging to the Thotalawiya Colombo Municipal Council.
 
-පාරිසරික වටිනාකමකින් යුත් මෙම පැළ ආරක්ෂා කර රැකබලා ගැනීමේ කැපකරුවන් ලෙස මාදම්පිටිය ශ්‍රී සංඝබෝධී මහා විද්‍යාලයේ පාසල් සිසු සිසුවියන් වෙත වගකීම් පැවරීම මෙහි විශේෂත්වයකි.
+The specialty is to assign the responsibilities of the school students of Madampitiya Sri Sangavila Maha Vidyalaya as the devotees of environmental value.
 
-එම අවස්ථාව සනිටුහන් කරමින් පාසල් සිසු සිසුවියන් වෙත ත්‍යාග සහ සහතික පත් ප්‍රදානය කිරීමද සිදු කෙරිණි.
+Prizes and certificates were presented to school children.
 
-සීමාසහිත කැපටල් මහාරාජ සමූහ ව්‍යාපාරයට අයත් එස්-ලෝන් ලංකා පුද්ගලික සමාගම විසින් ක්‍රියාත්මක කරනු ලබන “තුරු කැපකරු” වැඩසටහන සහ ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය ඒකාබද්ධ වෙමින් ජනාධිපති කාර්යාලයේ මගපෙන්වීම යටතේ මාර්ග සංවර්ධන අධිකාරිය, නාගරික සංවර්ධන අධිකාරිය සහ කොළඹ මහ නගර සභාව
+Road Development Authority, Urban Development Authority and the Colombo Municipal Council under the guidance of the Foster 'Program and Clene Sri Lanka' projects in the Cuttel Maharaja Group.
 
-ඇතුළු රාජ්‍ය සහ පෞද්ගලික අංශවල දායකත්වයෙන් මෙම ව්‍යාපෘතිය සිදු කෙරේ.
+The project will be carried out with the contribution of public and private sectors.
 
 ◼️
 
 [Data](articles/a95ff400.json)
+
+[Extended Data](ext_articles/a95ff400.ext.json)
 
 ---
 
@@ -432,7 +704,7 @@ Previously, in 2019, Sri Lanka successfully launched its first nano-satellite, �
 
 Accordingly, the BIRDS-X Dragonfly nano-satellite is scheduled to be released into its designated orbit from the International Space Station at 2:15 p.m. tomorrow.
 
-◼️
+...
 
 [Data](articles/6940e7da.json)
 
@@ -572,9 +844,11 @@ It will move from a royal spectacle to political talks and a news conference, as
 
 *2025-09-18 05:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112627/transport-minister-warns-underperforming-railway-officials-fix-it-or-resign) · `en`
 
-Minister of Transport Bimal Rathnayake has issued a stern warning to officials attached to the Railway Department, stating that those who fail to ensure the proper functioning and maintenance of railway services should be prepared to step down.
+Transport Minister warns underperforming railway officials: ‘Fix it or resign’
 
-Speaking at a discussion held at the Kalutara District Secretariat with Members of Parliament and transport sector officials, Minister Rathnayake criticized the poor condition of train compartments, highlighting issues such as broken windows, non-functional fans, and unsanitary washrooms, especially on key office trains such as those operating between Galle and Colombo.
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has issued a stern warning to officials attached to Sri Lanka Railways, stating that those who fail to ensure the proper functioning and maintenance of railway services should be prepared to step down.
+
+Speaking at a discussion held at the Kalutara District Secretariat with Members of Parliament and transport sector officials, Minister Rathnayake criticized the poor condition of train compartments, highlighting issues such as broken windows, non-functional fans and unsanitary washrooms, especially on key office trains such as those operating between Galle and Colombo.
 
 He also referenced a tragic incident where a young boy lost two fingers after falling against a faulty window during his first train ride.
 
@@ -1769,275 +2043,5 @@ President Dissanayake also sought the support of all citizens for the progressiv
 [Data](articles/231a3292.json)
 
 [Extended Data](ext_articles/231a3292.ext.json)
-
----
-
-### Strike continues in violation of the president's warning
-
-*2025-09-17 18:18:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-எச்சரிக்கையை-மீறி-தொடரும்-வேலைநிறுத்தம்/175-364792) · `ta`
-
-Electricity workers against the Ceylon Electricity Board (CEB) restructured today continued their trade union struggle.
-
-CEB employees today went on strike in front of the CEB headquarters in Colombo against the government's actions that divide the CEB into four companies.
-
-The protesting power workers were seen carrying banners demanding the protection of the rights of the authorities.
-
-“This is the 13th day of our union action. This is the second phase, in which all electric workers have been on strike for two days with a healthy holiday. Employees staged a protest in their respective CEB offices, ”said the striking electrical staff said.
-
-They added that the government had failed to respond to the 28 -point letter, urging remedying the issues relating to the restructuring projects and that they were not against the CEB restructuring.
-
-...
-
-[Data](articles/2a67b114.json)
-
-[Extended Data](ext_articles/2a67b114.ext.json)
-
----
-
-### Pioneering of today's violations of Sri Lanka's past violations in Gaza - Human Rights Watch
-
-*2025-09-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225361) · `ta`
-
-These incidents, which have occurred 16 years ago in Sri Lanka and have not yet been punished, are the pioneers of the violations of Gaza and the strategies that have been carried out in Gaza today.
-
-Against this backdrop. Human Rights Monitor Meenakshi Ganguly has urged that it is essential to challenge the trend that continues from the world to protect human rights in Sri Lanka.
-
-The memories of many atrocities that have shocked people globally will be rewritten by new violations in a few years.. But the tragedy for the victims and their families is endless. Unreasonable crimes are a role model for similar future violations.
-
-...
-
-[Data](articles/451853a7.json)
-
-[Extended Data](ext_articles/451853a7.ext.json)
-
----
-
-### Removes the prohibition imposed by the UNP
-
-*2025-09-17 18:02:26* · [`adalk`](https://www.ada.lk/breaking_news/එජාපයෙන්-සජබයට-ගිය-අයට-පැනවූ-තහනම්-ඉවත්-කරයි/11-418565) · `si`
-
-The UNP Working Committee has decided to remove all the prohibited orders that have been suspended and prohibited by the party membership to the reconciliation from the UNP.
-
-The UNP Working Committee has decided to meet with United News Leader Ranil Wickremesinghe yesterday (16).
-
-◼️
-
-[Data](articles/753d559f.json)
-
-[Extended Data](ext_articles/753d559f.ext.json)
-
----
-
-### ‘Clear Quartz’ illegally exported from Sri Lanka, COPE inquiry finds
-
-*2025-09-17 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112617/clear-quartz-illegally-exported-from-sri-lanka-cope-inquiry-finds) · `en`
-
-Stocks of ‘Clear Quartz’ is being illegally exported along with Quartz, according to a finding revealed during an inquiry conducted by the Committee on Public Enterprises (COPE).
-
-This was disclosed during a meeting of the COPE held under the chairmanship of Parliamentarian Dr. Nishantha Samaraweera in Parliament.
-
-During the meeting extended attention was drawn to the issue of Quartz exports.
-
-It was discussed that ‘Clear Quartz’ is being illegally exported along with Quartz, and that certain insiders within the Geological Survey & Mines Bureau appear to be supporting it.
-
-The COPE pointed out that a mechanism should be established to hand over the export of Clear Quartz to the National Gem and Jewellery Authority and to allow only other Quartz to be legally exported.
-
-Meanwhile, it has been revealed that the government has lost a large sum in revenue owing to the failure of the Geological Survey & Mines Bureau to properly charge the state royalty after issuing a mining license.
-
-...
-
-[Data](articles/29f0e66d.json)
-
-[Extended Data](ext_articles/29f0e66d.ext.json)
-
----
-
-### Sri Lanka GSMB poor royalty charge, inefficiencies revealed before COPE: Parliament
-
-*2025-09-17 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-gsmb-poor-royalty-charge-inefficiencies-revealed-before-cope-parliament-240940/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Geological Survey and Mines Bureau (GSMB) has been losing millions of rupees due to poorly charged royalty fees amid numerous inefficiencies, the parliament Committee on Public Enterprises (COPE) meeting was told recently, the parliament said in a statement.
-
-This was disclosed when the COPE inquired into the Auditor General’s reports for GMSB for 2022 and 2023 and its current performance.
-
-In one instance, the government lost Rs.12 million because the GMSB only charged royalty fee for 1,594 cubic meters instead of charging the fee up to 45,561 cubic meters, the parliament said.
-
-“Discussions were also held on the calculation of royalty for stone quarries based on the explosives issued for the quarry. It was pointed out by the Committee that due to the use of explosives in an illegal manner, the actual volume of rock removed could not be calculated, resulting in a large loss of revenue to the government,” the Parliament said in the statement.
-
-...
-
-[Data](articles/769f34a2.json)
-
-[Extended Data](ext_articles/769f34a2.ext.json)
-
----
-
-### "2025 is the year that represents the special turning point"
-
-*2025-09-17 17:28:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-விசேட-திருப்புமுனையைக்-குறிக்கும்-ஆண்டாகும்/175-364788) · `ta`
-
-Sri Lanka today is becoming a strong economic foundation.  President Anura Kumara Dissanayake said 2025 was a significant turning point in all sectors of the country's economic, social and political development and the rule of law.
-
-The President said this while addressing the inauguration of the construction work of the Central Highway Project from Kadavatha to Meerigama.
-
-Accordingly, the construction work of the Kadawatha -Meerigama highway, which was halted due to the last economic crisis, has been resumed.. The construction work of the first 500 meters of the Kadavatha Transition and Highway Highway is newly launched. This 500 -meter highway will connect the central highway to the highway network. The amount allocated for the construction work of the area is 8.692 billion rupees.  Local funds are fully used for this.
-
-...
-
-[Data](articles/5efd7207.json)
-
-[Extended Data](ext_articles/5efd7207.ext.json)
-
----
-
-### Jeevan met Ravi Shankar Guruji
-
-*2025-09-17 17:21:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரவி-சங்கர்-குருஜியை-சந்தித்தார்-ஜீவன்/76-364786) · `ta`
-
-Jeevan Thondaman, a Member of Parliament and CWC general secretary who visited India, met Sri Ravi Shankar Guruji, the founder of the living arts organization on Wednesday (17).
-
-During the meeting in Bangalore, India, Jeevan Thondaman, who was inspired by the youth advancement programs initiated by Sri Ravi Shankar Guruji, the founder of the Art Organization of more than 100 countries around the world, said that Jeevan Thondaman, who did not discuss the youth power development projects in Sri Lanka. "
-
-Jeevan Thondaman said that I was grateful for the support given by Sri Ravi Shankar Guruji for these efforts and that he was proud to meet Guruji.
-
-◼️
-
-[Data](articles/edc64d9e.json)
-
-[Extended Data](ext_articles/edc64d9e.ext.json)
-
----
-
-### Natural full capacity to the national system
-
-*2025-09-17 17:20:37* · [`adalk`](https://www.ada.lk/breaking_news/සොබාදනවි-සම්පූර්ණ-ධාරිතාව-ජාතික-පද්ධතියට/11-418564) · `si`
-
-350 MW Amarawati at the Kerawalapitiya Sebraena Power Plant added to the national grid this afternoon. This will give 12 percent of the total electricity demand.
-
-◼️
-
-[Data](articles/3b713ff0.json)
-
-[Extended Data](ext_articles/3b713ff0.ext.json)
-
----
-
-### Kerawalapitiya ‘Sobadhanavi’ LNG Power Plant connected to the national grid
-
-*2025-09-17 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112616/kerawalapitiya-sobadhanavi-lng-power-plant-connected-to-the-national-grid-) · `en`
-
-The ‘Sobadhanavi’ 350 MW LNG Power Plant in Kerawalapitiya was connected to the national grid a short while ago.
-
-Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody ceremonially connected the plant to the national grid.
-
-The first phase of the LNG Power Plant was commissioned on August 28, 2024.
-
-◼️
-
-[Data](articles/0601aed6.json)
-
-[Extended Data](ext_articles/0601aed6.ext.json)
-
----
-
-### 'Sobravana' lng power plant to national grid
-
-*2025-09-17 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214683) · `si`
-
-"Sounds' Natural Diseased Gas (LNG) power plant was added to the national grid today (17).
-
-Prime Minister Dr. Haradhari Amarasuriya and Energy Minister Kumara Jayakody was held shortly before.
-
-Lakdanav Lakdana 350 MW is added to the national grid through the National Grid.
-
-All plans and construction of this plant are conducted by Sri Lankan engineers.
-
-◼️
-
-[Data](articles/a130690e.json)
-
-[Extended Data](ext_articles/a130690e.ext.json)
-
----
-
-### Dutch airline KLM cancels 100 flights amid ground staff strike
-
-*2025-09-17 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112615/dutch-airline-klm-cancels-100-flights-amid-ground-staff-strike) · `en`
-
-Around 100 flights were cancelled at Amsterdam’s Schiphol Airport on Wednesday after ground staff at Dutch airline KLM staged a walkout in a dispute over pay and working conditions.
-
-Both European and long-haul routes were affected, including services to Germany, Italy, Scandinavia, the United Kingdom, the United States, and South Africa.
-
-The strike follows a similar walkout last week and is part of a wider campaign led by the FNV union, which has warned of longer stoppages in the weeks ahead.
-
-◼️
-
-[Data](articles/6f105a57.json)
-
-[Extended Data](ext_articles/6f105a57.ext.json)
-
----
-
-### 500 lakhs of repairs of 150 houses for Mahinda's repair
-
-*2025-09-17 16:58:32* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-ගේ-අලුත්වැඩියාවට-ලක්ෂ 5000යි--නිවාස-150ක්-අලුත්වැඩියාවට-ලක්ෂ-1400යි/11-418563) · `si`
-
-Former President Mahinda Rajapaksa has spent over Rs.
-
-He was speaking at the occasion of reconstruction of the Eppawala Galwadagama road in Anuradhapura District.. The road will be repaired by the Road Development Authority and will be renovated at a short term of 3.5 km, 3.5 midnight, 3.5 midnight.
-
-"Politicians could be other officials, another group wanted to say that elite. The law does not apply to that group, that guys need pleasures, so there is a VIP's impoverished speech. VIP groups want a palace, not home, and the group governments need 100 -150 and the dogs.
-
-They want to spend the government from the government, they think the guy is a government's property. People's money should be able to live in to protect them, that's the elite of those guys. It is worth 150 schools in the Anuradhapura district to keep the elite, the public to keep the elite, to spend on top of the public.
-
-...
-
-[Data](articles/c30fb585.json)
-
-[Extended Data](ext_articles/c30fb585.ext.json)
-
----
-
-### COPE committee reveals billions of people lost by the government
-
-*2025-09-17 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214682) · `si`
-
-The Select Committee of the Committee (COPE) has revealed that the government has lost a lot of money due to the government's limitation due to the government half of the Geological Survey and Mines Bureau.
-
-How fair is to calculate the quality of the explosive amount of explosives issued for quotards? The COPE committee has been questioned.
-
-It is also also concerned about issues of issuing exploration licenses as well as disorders related to temptation and crumbles.
-
-Accordingly, the COPE committee has been informed to formulate a proper mechanism and amend the Act.
-
-Dr. Nishantha Samaraweera was the Chairman of the Committee to check on the Auditor General's records and current performance in the Geological Survey and the Mining Excue Bureau.
-
-◼️
-
-[Data](articles/09a09dd2.json)
-
-[Extended Data](ext_articles/09a09dd2.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-17 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240902/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.96/302.00 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed flat at 9.55/60 percent.
-
-A bond maturing on 15.12.2032 closed at 10.40/49 percent, up from 10.38/45 percent.
-
-◼️
-
-[Data](articles/c066a143.json)
-
-[Extended Data](ext_articles/c066a143.ext.json)
 
 ---

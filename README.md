@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 11:08:46**
+As of **2025-09-18 10:56:29**
 
 ## Newspaper Stats
 
@@ -26,87 +26,79 @@ adaderanasinhalalk | 13,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,214 (96.8%) of 76,681 articles have been extended.
+74,199 (96.8%) of 76,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### 3 boys safely recovered
+### 3 சிறுவர்களும் பாதுகாப்பாக மீட்பு
 
 *2025-09-18 10:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுவர்களும்-பாதுகாப்பாக-மீட்பு/175-364831) · `ta`
 
-Three boys who went missing in Kalkissa yesterday were safely rescued, police said.
+கல்கிஸ்ஸையில் நேற்று  கடலில் குளிக்கச் சென்று காணாமல் போயிருந்த மூன்று சிறுவர்கள் பாதுகாப்பாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
 
-Officers from the Police Life Division have reportedly rescued the children who were trapped in the sea stream.
+பொலிஸ் உயிர்காக்கும் பிரிவைச் சேர்ந்த அதிகாரிகள், கடல் நீரோட்டத்தில் சிக்கிய சிறுவர்களை பாதுகாப்பாக மீட்டதாக தெரிவிக்கப்படுகிறது.
 
-Investigations have revealed that all the rescued boys were 16 years old and are from Wellampitiya, Kuttakurukkur and Hoganda.
+மீட்கப்பட்ட சிறுவர்கள் அனைவரும், 16 வயதுடையவர்கள் எனவும், வெல்லம்பிட்டிய, கட்டுக்குருந்த மற்றும் ஹோகந்தர ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் எனவும் விசாரணைகளில் தெரியவந்துள்ளது.
 
-Police warned the public to avoid bathing in the sea. Remble
+பலத்த கடல் அலைகள் காணப்படும் போது பொதுமக்கள் கடலில் குளிப்பதைத் தவிர்க்குமாறு பொலிஸார் எச்சரிக்கை விடுத்துள்ளனர். R
 
 ◼️
 
 [Data](articles/b2a521be.json)
 
-[Extended Data](ext_articles/b2a521be.ext.json)
-
 ---
 
-### Sri Lanka is ranked 97th in the World Passport rankings
+### உலகக் கடவுச்சீட்டு தரவரிசையில் இலங்கை 97வது இடத்தில்
 
 *2025-09-18 10:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகக்-கடவுச்சீட்டு-தரவரிசையில்-இலங்கை-97வது-இடத்தில்/175-364830) · `ta`
 
-Sri Lanka's passport fell in the Global Rankings in 2025 and the Henley passport, released on September 11, was relegated to 97th place.
+2025 ஆம் ஆண்டு உலகளாவிய தரவரிசையில் இலங்கையின் கடவுச்சீட்டு ஒரு இடம் சரிந்தது கடந்த செப்டம்பர் (11) ஆம் திகதியன்று வெளியிடப்பட்ட ஹென்லி கடவுச்சீட்டு குறியீடு 97வது இடத்திற்கு தள்ளப்பட்டுள்ளது.
 
-According to the index, Sri Lanka and Iran share 97th place, thereby providing its owners a visa -free access to 41 places.. In 2024, these countries ranked 96th.
+குறியீட்டின் படி, இலங்கையும்  ஈரானும் 97வது இடத்தைப் பகிர்ந்து கொள்கின்றது, இதன் மூலம் அதன் உரிமையாளர்களுக்கு 41 இடங்களுக்கு விசா இல்லாத அணுகலை வழங்குகிறது. 2024 ஆம் ஆண்டில் இந்த நாடுகள் 96வது இடத்தைப் பிடித்துக்கொண்டது.
 
-The Henley Passport code, which is considered the most official passport rankings in the world, estimates 199 passports against 227 seats based on the number of countries that can be accessed without a pre -visa.
+உலகின் மிகவும் அதிகாரப்பூர்வ கடவுச்சீட்டு தரவரிசையாகக் கருதப்படும் ஹென்லி கடவுச்சீட்டு குறியீடு, முன் விசா இல்லாமல் அணுகக்கூடிய நாடுகளின் எண்ணிக்கையின் அடிப்படையில் 227 இடங்களுக்கு எதிராக 199 கடவுச்சீட்டுகளை மதிப்பிடுகிறது.
 
 ◼️
 
 [Data](articles/3d88678f.json)
 
-[Extended Data](ext_articles/3d88678f.ext.json)
-
 ---
 
-### "Do you know the father of a baby who grows up in my belly?"
+### ”என் வயிற்றில் வளரும் குழந்தைக்கு தந்தை யார் தெரியுமா?”
 
 *2025-09-18 10:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்-வயிற்றில்-வளரும்-குழந்தைக்கு-தந்தை-யார்-தெரியுமா/175-364829) · `ta`
 
-"The child who grows in the stomach should be responsible for the father of Madhampatti Rangaraj," said Joy Girisilda, the famous clothing designer.
+” வயிற்றில் வளரும் குழந்தைக்கு மாதம்பட்டி ரங்கராஜ்தான் தந்தை என பொறுப்பேற்க வேண்டும்” என்று பிரபல ஆடை வடிவமைப்பாளர் ஜாய் கிரிசில்டா தெரிவித்துள்ளார்.
 
-Joy Girisilda, the 2nd wife of famous culinary artist Madhapatti Rangaraj, met with reporters at the Madras High Court on Wednesday.
+பிரபல சமையல் கலைஞர் மாதப்பட்டி ரங்கராஜின் 2-வது மனைவியான பிரபல ஆடை வடிவமைப்பாளர் ஜாய் கிரிசில்டா  சென்னை உயர் நீதிமன்றத்தில் புதன்கிழமை (17) செய்தியாளர்களை சந்தித்தார்.
 
-Speaking at the time, he said, “Madhampatti Rangaraj, who provides food for famous food and auspicious events, has summoned me and my child.. Madhampatti Rangaraj is the reason for the baby that grows in my stomach. It must be given the right.
+அப்போது பேசிய அவர் “பிரபல உணவு தயாரிப்பு மற்றும் சுப நிகழ்ச்சிகளுக்கு உணவு வழங்கும் மாதம்பட்டி ரங்கராஜ் என்னையும், என் குழந்தையையும் நீதிமன்றம் வரவழைத்து விட்டார். என் வயிற்றில் வளரும் குழந்தைக்கு மாதம்பட்டி ரங்கராஜ் தான் காரணம். அதற்கு உரிய நியாயம் கிடைக்க வேண்டும்.
 
-Madhampatti Rangaraj has lodged a complaint at the Chennai Municipal Police Commissioner's Office and no action has been taken yet. They are distracted by various police stations and call me. The child who grows up in my stomach needs justice. Madhampatti Rangaraj is the father of my child as the father, ”Joy Girisilda said.
+சென்னை மாநகர காவல் துறை ஆணையர் அலுவலகத்தில் மாதம்பட்டி ரங்கராஜ் மீது புகார் அளித்தும் எவ்வித நடவடிக்கையும் இதுவரை எடுக்கப்படவில்லை. பல்வேறு காவல் நிலையங்களுக்கு திசை திருப்பிவிட்டு என்னை அழைக்கழிக்க வைக்கின்றனர். என் வயிற்றில் வளரும் குழந்தைக்கு நியாயம் கிடைக்க வேண்டும். மாதம்பட்டி ரங்கராஜ் தான் என் குழந்தைக்கு தந்தை என பொறுப்பேற்க வேண்டும்” என்று ஜாய் கிரிசில்டா தெரிவித்துள்ளார்.
 
 ◼️
 
 [Data](articles/4a6bb4e1.json)
 
-[Extended Data](ext_articles/4a6bb4e1.ext.json)
-
 ---
 
-### Logic by the issue of archeology
+### தொல்லியல் திணைக்கள விவகாரத்தால் தர்க்கம்
 
 *2025-09-18 10:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்லியல்-திணைக்கள-விவகாரத்தால்-தர்க்கம்/175-364828) · `ta`
 
-A serious debate was held at the Divisional Coordinating Committee at the Divisional Coordinating Committee between Thiagarajah Niros, Chairman of the Valikamam East Pradeshiya Sabha and Divisional Coordinating Committee Chairman and Government Parliamentarian, Rajeevan Jayachandraramurthy.
+நிலாவரையில் தொல்லியல் திணைக்களத்தின் செயற்பாடுகள் தொடர்பில் வலிகாமம் கிழக்கு பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஸிற்கும் பிரதேச ஒருங்கிணைப்புக் குழுத் தலைவரும் அரசாங்க பாராளுமன்ற உறுப்பினருமான ரஜீவன் ஜெயச்சந்திரமூர்த்திக்கும்  இடையில்  பிரதேச ஒருங்கிணைப்புக் குழுக்கூட்டத்தில் தொல்லியல் திணைக்களம் தொடர்பில் காரசாரமான விவாதம் இடம்பெற்றது.
 
-Following the debate, it was decided at the Divisional Development Committee that the Department of Archeology should be departed from Nilavara and hand it over to the Pradeshiya Sabha.
+இவ் விவாதத்தைத் தொடர்ந்து நிலாவரையில் இருந்து தொல்லியல்  திணைக்களம் விலகி பிரதேச சபையிடம் அதை கையளிக்க வேண்டும் எனவும் பிரதேச அபிவிருத்திக் குழுக்கூட்டத்தில் தீர்மானிக்கப்பட்டது.
 
-In this regard, the Valikamam East Regional Development Committee meeting was held on Tuesday (16) at the Divisional Secretariat.
+இது தொடர்பில் மேலும், வலிகாமம் கிழக்கு பிரதேச அபிவிருத்திக் குழுக் கூட்டம்   செவ்வாய்க்கிழமை (16)   பிரதேச செயலகத்தில் நடைபெற்றது.
 
-At this meeting, the Nilavarai area was a tourist attraction. It was pointed out by the Divine that the intervention of the Archaeological Department in the area could not improve.
+இக் கூட்டத்தில் நிலாவரை பகுதி சுற்றுலா வலயமாக உள்ளமையினால்  அதை மேம்படுத்துவது  பற்றி ஆராயப்பட்டது. இதன்போது இப் பகுதியில் தொல்லியல் திணைக்களத்தின் தலையீடுகளால் அதை முன்னேற்ற முடியாதுள்ளது என தவிசாளரினால் சுட்டிக்காட்டப்பட்டது.
 
 ...
 
 [Data](articles/93a9029b.json)
-
-[Extended Data](ext_articles/93a9029b.ext.json)
 
 ---
 
@@ -612,23 +604,19 @@ Police have warned the public to avoid bathing in the sea when heavy waves are f
 
 ---
 
-### Evidence rooms that can give the children safely
+### ළමුන්ට ආරක්ෂිතව සාක්ෂි දිය හැකි සාක්ෂි කාමර
 
 *2025-09-18 07:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ආරක්ෂිතව-සාක්ෂි-දිය-හැකි-සාක්ෂි-කාමර/11-418569) · `si`
 
-It is a turning point in the country's judicial system to establish evidence rooms for children.
+ළමුන් සදහා ආරක්ෂිතව සාක්ෂි දීමේ සාක්ෂි කාමර ස්ථාපිත කිරීම මෙරට අධිකරණ පද්ධතියේ හැරවුම් ලක්ෂයක් බව අධිකරණ ඇමති හර්ෂණ නානායක්කාර මහතා පවසයි.
 
-Attorney-at-Law, Assistant Integration Minister, Attorney-at-Law, Hon.. The opening of a digital facilities to the children who become victims have been opened in the Kandy High Court.
+අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතා මෙම අදහස් පළ කළේ මහනුවරදී පැවති ප්‍රචණ්ඩත්වයට ගොදුරුවු වින්දිත දරුවන් වෙනුවෙන් සේවාවන් විධිමත් කිරීමේ ක්‍රියාවලිය ආරම්භ කිරීමේ අවස්ථාවට වීඩියෝ තාක්ෂණය ඔස්සේ එක්වෙමිනි. වින්දිතයින් බවට පත් වන දරුවන්ට ආරක්ෂිතව සාක්ෂි ලබාදිය හැකි ඩිජිටල් පහසුකම් සහිත සාක්ෂි කාමරයක් මහනුවර මහාධිකරණය තුළ විවෘත කිරීමද මීට සමගාමිව සිදු විය.
 
-"It should be noted that the establishment of the evidence rooms for children is a turning point in Sri Lanka. It should be the potential to give the children who are prosperous to be victims. For the first time in the Kandyan highway, a digital facilities that can be securely evidence of the children who become victims opened in the Kandy High Court. These facilities are being introduced to courts island wide.
-
-EU and UNICEF organizations should be thankful for the EU, UnforF. It should be stated that the current government is a projected purpose to inheriting children. The Minister said that he will introduce strong laws for child protection in the future.
+"ළමුන් සදහා ආරක්ෂිතව සාක්ෂි ලබාදීමේ සාක්ෂි කාමර ස්ථාපිත කිරීම මෙරට අධිකරණ පද්ධතියේ හැරවුම් ලක්ෂයක් බව සඳහන් කළ යුතුයි. වින්දිතයින් බවට පත්ව නීතිය ඉදිරියට එන දරුවන්ට ආරක්ෂිතව සාක්ෂි ලබාදීමේ හැකියාව පැවතිය යුතුයි. වින්දිතයින් බවට පත්වන දරුවන්ට ආරක්ෂිතව සාක්ෂි ලබාදිය හැකි ඩිජිටල් පහසුකම් සහිත සාක්ෂි කාමරයක් මහනුවර මහාධිකරණය තුළ විවෘත වන්නේ මෙරට පළමු වරටයි. දිවයින පුරා අධිකරණ වෙත මෙම පහසුකම් හඳුන්වාදීමට කටයුතු කරනවා.
 
 ...
 
 [Data](articles/a77bae23.json)
-
-[Extended Data](ext_articles/a77bae23.ext.json)
 
 ---
 

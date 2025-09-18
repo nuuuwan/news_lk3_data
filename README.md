@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 21:56:37**
+As of **2025-09-18 21:07:31**
 
 ## Newspaper Stats
 
-*Scraped **76,798** Articles*
+*Scraped **76,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,97 +16,41 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,469
-adaderanalk | 9,912
-tamilmirrorlk | 11,538
-virakesarilk | 12,489
+adalk | 7,468
+adaderanalk | 9,911
+tamilmirrorlk | 11,537
+virakesarilk | 12,486
 adaderanasinhalalk | 13,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,822 (97.4%) of 76,798 articles have been extended.
+74,786 (97.4%) of 76,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### Chinese fallen from apartment. Bij's corpse recovery
-
-*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜையின்-சடலம்-மீட்பு/175-364875) · `ta`
-
-The Dehiwala police have recovered the body of a Chinese national suspected of falling from an apartment in Dehiwala.
-
-Police said the body was found following information behind a house on Alvis Road.
-
-It has been revealed that many Chinese nationals working in the private sector live in an apartment complex.
-
-◼️
-
-[Data](articles/a242884e.json)
-
-[Extended Data](ext_articles/a242884e.ext.json)
-
----
-
-### 30ஆவது வருட நிறைவையிட்டு கொழும்பு பங்குச் சந்தையில் மணியோசை எழுப்பிய CDB
-
-*2025-09-18 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225459) · `ta`
-
-நிதியியல் விசேடத்துவம் மற்றும் புத்தாக்கத்தில் தனது வலுவான இடத்தை வலியுறுத்தியபடி, இலங்கையின் முன்னணி வங்கி அல்லாத நிதி நிறுவனங்களில் (NBFI) ஒன்றான Citizens Development Business Finance PLC (CDB), அதன் 30ஆவது ஆண்டு விழாவை முன்னிட்டு கடந்த செப்டெம்பர் 09 ஆம் திகதி, கொழும்பு பங்குச் சந்தையின் (CSE) வர்த்தக நடவடிக்கையை தொடங்கும் வகையில் மணியோசையை எழுப்பியது. இந்த மணி ஒலியுடன், இலங்கையின் நிதிச் சேவை துறையில் டிஜிட்டல் மாற்றத்தை முன்னெடுத்துச் செல்லும் முன்னோடியான CDB நிறுவனம், தனது தொடர்ச்சியான வளர்ச்சி பயணத்திலும் ஸ்மார்ட்டான மற்றும் நிலைபேறான இலங்கையை வலுப்படுத்தும் அர்ப்பணிப்பிலும் புதிய அத்தியாயமொன்றை வைபவ ரீதியாக ஆரம்பித்து வைத்துள்ளது.
-
-பங்குச் சந்தையின் வர்த்தக வளாகத்தில் எதிரொலித்த இந்த விசேட மணி ஒலியானது, கொழும்பு பங்குச் சந்தை ஏற்பாடு செய்த பாரம்பரிய நிகழ்வாகும். இது, கடந்த 30 வருடங்களில் CDB மேற்கொண்ட பயணத்தில், சந்தையில் அது கொண்டுள்ள நெகிழ்ச்சித் தன்மையை பிரதிபலிக்கிறது.
-
-...
-
-[Data](articles/2e1b7cda.json)
-
----
-
-### Court orders the van arrested
+### වෑන් රථය බලෙන් පැහැරගත් කල්බදු සමාගමට නියෝගයක්
 
 *2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
 
-The Attanagalla Magistrate's Court yesterday ordered the owner of the abducted van to the registration owner by a lease.
+කල්බදු වාරික නොගෙවීම හේතුවෙන් ලීසිං සමාගමක් විසින් පැහැරගත් වෑන් රථයක් යළි එහි ලියාපදිංචි හිමිකරුටම ලබාදෙන්නැයි අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
 
-The Attanagalla Magistrate further stated that a leasing company has no legal authority to abduct a vehicle even if the lease is taken up.
+අත්තනගල්ල මහේස්ත්‍රාත්වරයා සිය නියෝගය මගින් වැඩිදුරටත් සඳහන් කළේ, කල්බදු ගෙවීම පැහැරහැර ඇති අවස්ථාවක වුවත් වාහනයක් පැහැර ගැනීමට කල්බදු සමාගමකට කිසිඳු නීතිමය බලයක් නොමැති බවය.
 
-In the Nittambuwa Pallewela area in Nittambuwa, Nittambuwa had crossed the road and stopped a van that was routed.
+ඉකුත් අගෝස්තු මාසයේදී නිට්ටඹුව පල්ලේවෙල ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් මාර්ගය හරස්කර එහි ගමන් කරමින් තිබූ වෑන් රථයක් නවතා එය පැහැර ගැනීමකට ලක්කර තිබුණි.
 
-The group had informed the owner of the vehicle and that they were working at a lease instality and the lease premium is being carried out.
+එහිදී එම පිරිස වාහනයේ හිමිකරුට දන්වා තිබුණේ ඔවුන් ලීසින් ආයතනයක සේවය කරන බවත් කල්බදු වාරික නොගෙවීම හේතුවෙන් වෑන් රථය ගෙන යන බවත් ය.
 
-The owner of the vehicle then lodged a complaint with the Attanagalla police station, accusing the Attanagalla Magistrate's Court.
+පසුව වාහනයේ හිමිකරු අත්තනගල්ල පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය හමුවේ නඩු ගොනු කළේ අදාළ ලීසිං සමාගම බලහත්කාරයෙන් සිය වාහනය පැහැරගත් බවට චෝදනා කරමිනි.
 
-The court had ordered two abducted persons after the case was heard.
-
-Attanagalla Magistrate Manjula Karunaratne ordered the release of the vehicle to its registered owner.
-
-The Magistrate said that no leasing company could not be abducted even in a lease company on a proper premium background.
+මෙම නඩුව විභාගයට ගැනීමෙන් පසු වාහනය පැහැරගත් පුද්ගලයින් දෙදෙනෙකු බන්ධනාගාරගත කිරීමට ද අධිකරණය එහිදී නියෝග කර තිබුණි.
 
 ...
 
 [Data](articles/23a3e970.json)
-
-[Extended Data](ext_articles/23a3e970.ext.json)
-
----
-
-### Women MPs’ Caucus discusses pathways toward a gender-sensitive Parliament
-
-*2025-09-18 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112653/women-mps-caucus-discusses-pathways-toward-a-gender-sensitive-parliament) · `en`
-
-Sri Lanka’s Women Parliamentarians’ Caucus discussed Potential pathways for UK support to the Caucus with representatives of the Westminster Foundation for Democracy (WFD) and also held discussions regarding intergenerational dialogue for encouraging young women’s political participation with the representatives of Law and Society Trust (LST).
-
-This meeting of the Women Parliamentarians’ Caucus was held on 12.09.2025 under the patronage of Prime Minister Dr. Harini Amarasuriya and the Chairperson of the Caucus Minister of Women and Child Affairs, Saroja Savitri Paulraj, according to the Department of Communication of Parliament.
-
-Addressing the Committee meeting, the Westminster Foundation for Democracy (WFD) proposed support on introducing and practicing gender-sensitive law-making and gender responsive budgeting and in understanding and supporting the role of the Caucus in increasing women’s labour force participation.
-
-...
-
-[Data](articles/0ec8e7bf.json)
-
-[Extended Data](ext_articles/0ec8e7bf.ext.json)
 
 ---
 
@@ -139,24 +83,6 @@ Rs. 488 billion has been allocated for pensions from the 2026 Appropriation Bill
 [Data](articles/7458d279.json)
 
 [Extended Data](ext_articles/7458d279.ext.json)
-
----
-
-### நாணய சுழற்சியில் வென்றது ஆப்கானிஸ்தான் அணி
-
-*2025-09-18 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225458) · `ta`
-
-ஆசிய கிண்ண கிரிக்கெட் டி20 தொடரின் இலங்கை - ஆப்கானிஸ்தான் இடையேயான முக்கியமான போட்டியில், நாணய சுழற்சியில் வென்ற ஆப்கானிஸ்தான் கெப்டன் ரஷீத் கான் முதலில் துடுப்பாட்டத்தை தேர்வு செய்தார்.
-
-அதன்படி, இந்தப் போட்டியில் தோற்றாலும், இலங்கை போட்டியில் இருந்து வெளியேறுவதற்கான வாய்ப்புகள் குறைவு.
-
-இருப்பினும், ஆப்கானிஸ்தான் புள்ளிகள் பட்டியலில் மூன்றாவது இடத்தில் இருப்பதால், இந்தப் போட்டியில் தோற்றால், அவர்கள் போட்டியிலிருந்து வெளியேற வேண்டியிருக்கும்.
-
-அப்படியானால், இலங்கையுடன் சேர்ந்து பங்களாஷ் அணி சூப்பர் 4 சுற்றுக்குத் தகுதி பெறும்.
-
-◼️
-
-[Data](articles/da2d86d1.json)
 
 ---
 
@@ -215,22 +141,6 @@ The remains are placed at the Southern Teaching Hospital morgue and Dehiwala pol
 [Data](articles/9652c1be.json)
 
 [Extended Data](ext_articles/9652c1be.ext.json)
-
----
-
-### மாகாணசபைத் தேர்தல் : கட்சிகள் ஒருமித்த முடிவு அவசியம் - இந்திய உயர்ஸ்தானிகர்
-
-*2025-09-18 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/225457) · `ta`
-
-மாகாணசபைத் தேர்தலை ஜனநாயக  ரீதியில் விரைவாக நடத்துமாறு அரசாங்கத்திடம் வலியுறுத்தியுள்ளதாகத் தெரிவித்துள்ள இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, தேர்தலை நடத்த சகல அரசியல் கட்சிகளும் ஒருமித்த தீர்மானத்தை எடுக்க வேண்டும் என்றும் வலியுறுத்தியுள்ளார்.
-
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா புதன்கிழமை (17) பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களை கொழும்பில் சந்தித்து கலந்துரையாடியிருந்தார். இந்த சந்திப்பில் ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார, பாராளுமன்ற உறுப்பினர்களான காவிந்த ஜயவர்தன, ஹர்ஷண ராஜகருணா, தயாசிறி ஜயசேகர மற்றும் நளின் பண்டார ஆகியோர் கலந்து கொண்டிருந்தனர்.
-
-இதன் போதே உயர்ஸ்தானிகர் சந்தோஷ் ஜா இதனை வலியுறுத்தியுள்ளார். அத்தோடு இலங்கையின் சமகால அரசியல் நிலைவரங்கள் மற்றும் உள்நாட்டில் முன்னெடுக்கப்படும் இந்திய அபிவிருத்தி திட்டங்கள் குறித்தும் இதன் போது அவதானம் செலுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3f817066.json)
 
 ---
 
@@ -800,24 +710,6 @@ The initiative successfully introduced several programs, including organic ferti
 
 ---
 
-### ඉදිරිපත් කළ වත්කම්වලට වැඩි යමක් තිබේනම් රජයට පවරාගෙන ජනතාවට දෙන්න
-
-*2025-09-18 16:06:59* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරිපත්-කළ-වත්කම්වලට-වැඩි-යමක්-තිබේනම්-රජයට-පවරාගෙන-ජනතාවට-දෙන්න/11-418590) · `si`
-
-තමන් ඉදිරිපත් කර ඇති වත්කම් වලට අමතරව වෙන වත්කම් තිබේනම් ඒවා රජයට  පවරාගෙන ජනතාවට බෙදා දෙන ලෙස තමන් සඳහන් කරන බව මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසීය.
-
-වැඩසටහනකින් අනතුරුව මාධ්‍ය යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව කීය.
-
-“2015 ඉදලා මගේ වත්කම් ගැන පරීක්ෂණ කරනවා. මම ඉදිරිපත් කරලා තියෙන දේවල්වලට පිට දෙයක් තියෙනවානම් ඉතාමත් ඉක්මනට ඒවා ආණ්ඩුවට පවරාගෙන ජනතාවට බෙදා දෙන්න.
-
-මගේ බිරිඳගේ පවුල මට වඩා අපිට වඩා ව්‍යාපාරික පවුලක්. මම නීතිඥවරයෙක් ලෙස කටයුතු කරලා තිබෙනවා.  දෙමාපියන්ගෙන් ලැබුණ වතුවල ආදායම් තිබෙනවා. හංගන්න දෙයක් නෑ. මගෙන් අහපු දේවල්වලට මම උත්තර දුන්නා. අපිට චෝදනා කරපු අයගේ වත්කම් අපිට වඩා වැඩියි.”
-
-◼️
-
-[Data](articles/26206616.json)
-
----
-
 ### There is no recording of the jeep camera system that confronts the fall bus collide
 
 *2025-09-18 15:59:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රථය-ගැටුණ-ජීප්-රියේ-කැමරා-පද්ධතියේ-පටිගතවීමේ-පහසුකම්-නෑ/11-418589) · `si`
@@ -866,23 +758,21 @@ The committee's commander (WFD) representatives (WFD) representatives were able 
 
 ---
 
-### Take care of counterfeit notes in money transactions
+### මුදල් ගණුදෙනුවලදී ව්‍යාජ නෝට්ටු ගැන සැලකිලිමත් වන්න
 
 *2025-09-18 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-ගණුදෙනුවලදී-ව්‍යාජ-නෝට්ටු-ගැන-සැලකිලිමත්-වන්න/11-418588) · `si`
 
-The police informs the public to ensure that the money is consumed and interested in the purchase of goods and custody for various transactions.
+දෛනික අවශ්‍යතා අනුව භාණ්ඩ මිලදී ගැනීමේදී හා විවිධ ගනුදෙනු සඳහා මුදල් පරිහරණය කිරීමේදී එම මුදල් ව්‍යාජ මුදල් නෝට්ටුද යන්න පිළිබඳව සුපරික්ෂාකාරිව හා අවධානයෙන් යුතුව තහවුරු කර ගන්නා ලෙස පොලීසිය මහජනතාවට දැනුම් දෙයි.
 
-Police say that after confirmation of cash notes, the police said to use the banknotes and make information about the cash bank notes or informed of such counterfeit notes and inform the Sri Lankan Police.
+මුදල් නෝට්ටු ව්‍යාජ නොවන බවට තහවුරු කර ගැනීමෙන් පසුව මුදල් නෝට්ටු පරිහරණය කිරීමටත් එවැනි ව්‍යාජ මුදල් නෝට්ටු සන්තකයේ තබා ගැන්නා හෝ ගනුදෙනු කරන පුද්ගලයින් පිළිබඳව තොරතුරු ලද වහාම ශ්‍රී ලංකා පොලීසිය දැනුවත් කරන ලෙසත් පොලීසිය පවසයි.
 
-Meanwhile, in the evening of the evening, the fake Rs. Two other fake Rs. 5000 notes have been arrested in the investigation of 5000 notes.
+මේ අතර ඊයේ සවස් කාලයේදී හබරණ නගරයේදී ව්‍යාජ රු. 5000 මුදල් නෝට්ටු දෙකක් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් සිදුකළ වැඩිදුර විමර්ශනදී තවත් ව්‍යාජ රු 5000 නෝට්ටු දෙක බැගින් ළඟ තබාගෙන සිටි පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
 
-Police say that the fake Rs. 5000 notes were printed with 138 such notes, police said.
+තවදුරටත් සිදු කළ විමර්ශනවලදී ව්‍යාජ රු 5000 නෝට්ටු මුද්‍රණය කරන ලද සැකකරුවෙක් එවැනි නෝට්ටු 138ක් සමග මුද්‍රණයට යොදා ගන්නා උපකරණද සමග අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
 
 ◼️
 
 [Data](articles/0e8895dc.json)
-
-[Extended Data](ext_articles/0e8895dc.ext.json)
 
 ---
 
@@ -2083,5 +1973,117 @@ Thereafter he was elected to the Diyawadana Nilame in two occasions.
 [Data](articles/d056a0d6.json)
 
 [Extended Data](ext_articles/d056a0d6.ext.json)
+
+---
+
+### Bail for Tusita Hallulu!
+
+*2025-09-18 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225387) · `ta`
+
+Former Director of the National Lotter Board, Dusitha Halluluwa, has been released on bail.
+
+Former Director of the National Lottery Board, Dusitha Halluluwa was arrested and interrogated on suspicion of firing on the vehicle he was traveling in.
+
+It is noteworthy that the Colombo Criminal Investigation Division was arrested on August 19 in Kaluppitti area.
+
+◼️
+
+[Data](articles/7128c9cc.json)
+
+[Extended Data](ext_articles/7128c9cc.ext.json)
+
+---
+
+### A sample service for boys affected by violence
+
+*2025-09-18 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறைகளால்-பாதிக்கப்படும்-சிறுவர்களுக்கான-ஒரு-மாதிரிச்-சேவை/175-364834) · `ta`
+
+The Ministry of Justice and the Ministry of Women and Children's Affairs has launched a prototype service through UNICEF with the aim of helping violently experienced children.
+
+In that respect, this is the case of the new model, from the police station, an emergency call number or some other method, from the complaints of the children to the sustainable maintenance and safety mechanisms.
+
+This model service includes six primary initiatives that introduce many changes in child protection and the judiciary in rural and national levels.
+
+...
+
+[Data](articles/49898beb.json)
+
+[Extended Data](ext_articles/49898beb.ext.json)
+
+---
+
+### The body of the man from the canal in Tissamaharam
+
+*2025-09-18 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225385) · `ta`
+
+The body of a man has been recovered from the canal in the Chandungama Pragati Mawatha area, which belongs to the Tissamaharam Police Division in Hambantota, Tissamaharam police said.
+
+Initial investigations by the police revealed that he was attacked and drowned in water due to a personal dispute.
+
+◼️
+
+[Data](articles/22e19975.json)
+
+[Extended Data](ext_articles/22e19975.ext.json)
+
+---
+
+### Sri Lanka’s Acme Printing and Packaging to raise Rs1.4bn from rights issue
+
+*2025-09-18 10:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-acme-printing-and-packaging-to-raise-rs1-4bn-from-rights-issue-241004/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Acme Printing and Packaging plans a six for one rights issue of 570 million ordinary voting shares at 2.50 rupees each to raise 1.4 billion, a stock exchange filing said.
+
+The cash will be used for the following purposes, the company said:
+
+– To initiate the key measures to prevent further losses and support recovery which was presented to the shareholders pursuant to Section 220 of the Companies Act on 17th September 2025.
+
+The rights issue is subject to Colombo Stock Exchange and shareholder approval. (Colombo/Sep18/2025)
+
+◼️
+
+[Data](articles/ddf6520f.json)
+
+[Extended Data](ext_articles/ddf6520f.ext.json)
+
+---
+
+### US support for training on the sponsorship of the port law
+
+*2025-09-18 10:44:14* · [`adalk`](https://www.ada.lk/business/වරාය-නීතියේ-එන-අනුග්‍රාහකත්වය-පිළිබඳ-පුහුණුවට-ඇමෙරිකා-සහාය/7-418573) · `si`
+
+US support is available to a program to strengthen the capacity of Sri Lanka regarding port law and government-private partnerships (PPPS).
+
+The US embassy in Sri Lanka has been supported by the University of the Department of Commerce (CLDP) through the Commercial Departments Department of the Sri Lanka Ports Authority and the Department of Attorney General's Department.
+
+This included technical training on the legal framework that controlled the contronting law of covenants, emphasizing transparency, accountability and public interests. Future infrastructure projects are also reflected in the United States to support Sri Lanka's strong agencies, promoting the prospect of the people of Sri Lanka.
+
+...
+
+[Data](articles/37837593.json)
+
+[Extended Data](ext_articles/37837593.ext.json)
+
+---
+
+### Filed by a student petition
+
+*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
+
+A young student from Bandarawa has sought the High Court, claiming that his constitutional rights had been violated as the University Grants Commission (UGC) refused to graduate on technology based on its disability.
+
+The case was adjourned to the hearing on February 24 next year when the case was taken up before a session of two judges comprising High Court Chief Justice Preeti Padman Surasena and Justice Shiran Gunaratne.
+
+The petitioner claims that he is an alternate student who qualified for the University Admissions in the Technical Division at Dharmapala College, Bandarawela.
+
+He said he had been informed that there were no arrangements to study such degree under the Division of the Disabled Students, despite applying for the Degree of Technology for the 2024/2025 academic year.
+
+The petitioner urges the High Court to declare that his fundamental rights have been violated by the UGC's decision.
+
+...
+
+[Data](articles/7e025974.json)
+
+[Extended Data](ext_articles/7e025974.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 21:38:31**
+As of **2025-09-18 21:07:31**
 
 ## Newspaper Stats
 
-*Scraped **76,794** Articles*
+*Scraped **76,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,468
-adaderanalk | 9,912
-tamilmirrorlk | 11,538
+adaderanalk | 9,911
+tamilmirrorlk | 11,537
 virakesarilk | 12,486
 adaderanasinhalalk | 13,397
 
@@ -26,71 +26,31 @@ adaderanasinhalalk | 13,397
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,805 (97.4%) of 76,794 articles have been extended.
+74,786 (97.4%) of 76,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### Chinese fallen from apartment. Bij's corpse recovery
-
-*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜையின்-சடலம்-மீட்பு/175-364875) · `ta`
-
-The Dehiwala police have recovered the body of a Chinese national suspected of falling from an apartment in Dehiwala.
-
-Police said the body was found following information behind a house on Alvis Road.
-
-It has been revealed that many Chinese nationals working in the private sector live in an apartment complex.
-
-◼️
-
-[Data](articles/a242884e.json)
-
-[Extended Data](ext_articles/a242884e.ext.json)
-
----
-
-### Court orders the van arrested
+### වෑන් රථය බලෙන් පැහැරගත් කල්බදු සමාගමට නියෝගයක්
 
 *2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
 
-The Attanagalla Magistrate's Court yesterday ordered the owner of the abducted van to the registration owner by a lease.
+කල්බදු වාරික නොගෙවීම හේතුවෙන් ලීසිං සමාගමක් විසින් පැහැරගත් වෑන් රථයක් යළි එහි ලියාපදිංචි හිමිකරුටම ලබාදෙන්නැයි අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
 
-The Attanagalla Magistrate further stated that a leasing company has no legal authority to abduct a vehicle even if the lease is taken up.
+අත්තනගල්ල මහේස්ත්‍රාත්වරයා සිය නියෝගය මගින් වැඩිදුරටත් සඳහන් කළේ, කල්බදු ගෙවීම පැහැරහැර ඇති අවස්ථාවක වුවත් වාහනයක් පැහැර ගැනීමට කල්බදු සමාගමකට කිසිඳු නීතිමය බලයක් නොමැති බවය.
 
-In the Nittambuwa Pallewela area in Nittambuwa, Nittambuwa had crossed the road and stopped a van that was routed.
+ඉකුත් අගෝස්තු මාසයේදී නිට්ටඹුව පල්ලේවෙල ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් මාර්ගය හරස්කර එහි ගමන් කරමින් තිබූ වෑන් රථයක් නවතා එය පැහැර ගැනීමකට ලක්කර තිබුණි.
 
-The group had informed the owner of the vehicle and that they were working at a lease instality and the lease premium is being carried out.
+එහිදී එම පිරිස වාහනයේ හිමිකරුට දන්වා තිබුණේ ඔවුන් ලීසින් ආයතනයක සේවය කරන බවත් කල්බදු වාරික නොගෙවීම හේතුවෙන් වෑන් රථය ගෙන යන බවත් ය.
 
-The owner of the vehicle then lodged a complaint with the Attanagalla police station, accusing the Attanagalla Magistrate's Court.
+පසුව වාහනයේ හිමිකරු අත්තනගල්ල පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය හමුවේ නඩු ගොනු කළේ අදාළ ලීසිං සමාගම බලහත්කාරයෙන් සිය වාහනය පැහැරගත් බවට චෝදනා කරමිනි.
 
-The court had ordered two abducted persons after the case was heard.
-
-Attanagalla Magistrate Manjula Karunaratne ordered the release of the vehicle to its registered owner.
-
-The Magistrate said that no leasing company could not be abducted even in a lease company on a proper premium background.
+මෙම නඩුව විභාගයට ගැනීමෙන් පසු වාහනය පැහැරගත් පුද්ගලයින් දෙදෙනෙකු බන්ධනාගාරගත කිරීමට ද අධිකරණය එහිදී නියෝග කර තිබුණි.
 
 ...
 
 [Data](articles/23a3e970.json)
-
-[Extended Data](ext_articles/23a3e970.ext.json)
-
----
-
-### Women MPs’ Caucus discusses pathways toward a gender-sensitive Parliament
-
-*2025-09-18 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112653/women-mps-caucus-discusses-pathways-toward-a-gender-sensitive-parliament) · `en`
-
-Sri Lanka’s Women Parliamentarians’ Caucus discussed Potential pathways for UK support to the Caucus with representatives of the Westminster Foundation for Democracy (WFD) and also held discussions regarding intergenerational dialogue for encouraging young women’s political participation with the representatives of Law and Society Trust (LST).
-
-This meeting of the Women Parliamentarians’ Caucus was held on 12.09.2025 under the patronage of Prime Minister Dr. Harini Amarasuriya and the Chairperson of the Caucus Minister of Women and Child Affairs, Saroja Savitri Paulraj, according to the Department of Communication of Parliament.
-
-Addressing the Committee meeting, the Westminster Foundation for Democracy (WFD) proposed support on introducing and practicing gender-sensitive law-making and gender responsive budgeting and in understanding and supporting the role of the Caucus in increasing women’s labour force participation.
-
-...
-
-[Data](articles/0ec8e7bf.json)
 
 ---
 
@@ -798,23 +758,21 @@ The committee's commander (WFD) representatives (WFD) representatives were able 
 
 ---
 
-### Take care of counterfeit notes in money transactions
+### මුදල් ගණුදෙනුවලදී ව්‍යාජ නෝට්ටු ගැන සැලකිලිමත් වන්න
 
 *2025-09-18 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-ගණුදෙනුවලදී-ව්‍යාජ-නෝට්ටු-ගැන-සැලකිලිමත්-වන්න/11-418588) · `si`
 
-The police informs the public to ensure that the money is consumed and interested in the purchase of goods and custody for various transactions.
+දෛනික අවශ්‍යතා අනුව භාණ්ඩ මිලදී ගැනීමේදී හා විවිධ ගනුදෙනු සඳහා මුදල් පරිහරණය කිරීමේදී එම මුදල් ව්‍යාජ මුදල් නෝට්ටුද යන්න පිළිබඳව සුපරික්ෂාකාරිව හා අවධානයෙන් යුතුව තහවුරු කර ගන්නා ලෙස පොලීසිය මහජනතාවට දැනුම් දෙයි.
 
-Police say that after confirmation of cash notes, the police said to use the banknotes and make information about the cash bank notes or informed of such counterfeit notes and inform the Sri Lankan Police.
+මුදල් නෝට්ටු ව්‍යාජ නොවන බවට තහවුරු කර ගැනීමෙන් පසුව මුදල් නෝට්ටු පරිහරණය කිරීමටත් එවැනි ව්‍යාජ මුදල් නෝට්ටු සන්තකයේ තබා ගැන්නා හෝ ගනුදෙනු කරන පුද්ගලයින් පිළිබඳව තොරතුරු ලද වහාම ශ්‍රී ලංකා පොලීසිය දැනුවත් කරන ලෙසත් පොලීසිය පවසයි.
 
-Meanwhile, in the evening of the evening, the fake Rs. Two other fake Rs. 5000 notes have been arrested in the investigation of 5000 notes.
+මේ අතර ඊයේ සවස් කාලයේදී හබරණ නගරයේදී ව්‍යාජ රු. 5000 මුදල් නෝට්ටු දෙකක් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් සිදුකළ වැඩිදුර විමර්ශනදී තවත් ව්‍යාජ රු 5000 නෝට්ටු දෙක බැගින් ළඟ තබාගෙන සිටි පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
 
-Police say that the fake Rs. 5000 notes were printed with 138 such notes, police said.
+තවදුරටත් සිදු කළ විමර්ශනවලදී ව්‍යාජ රු 5000 නෝට්ටු මුද්‍රණය කරන ලද සැකකරුවෙක් එවැනි නෝට්ටු 138ක් සමග මුද්‍රණයට යොදා ගන්නා උපකරණද සමග අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
 
 ◼️
 
 [Data](articles/0e8895dc.json)
-
-[Extended Data](ext_articles/0e8895dc.ext.json)
 
 ---
 
@@ -2087,5 +2045,45 @@ The rights issue is subject to Colombo Stock Exchange and shareholder approval. 
 [Data](articles/ddf6520f.json)
 
 [Extended Data](ext_articles/ddf6520f.ext.json)
+
+---
+
+### US support for training on the sponsorship of the port law
+
+*2025-09-18 10:44:14* · [`adalk`](https://www.ada.lk/business/වරාය-නීතියේ-එන-අනුග්‍රාහකත්වය-පිළිබඳ-පුහුණුවට-ඇමෙරිකා-සහාය/7-418573) · `si`
+
+US support is available to a program to strengthen the capacity of Sri Lanka regarding port law and government-private partnerships (PPPS).
+
+The US embassy in Sri Lanka has been supported by the University of the Department of Commerce (CLDP) through the Commercial Departments Department of the Sri Lanka Ports Authority and the Department of Attorney General's Department.
+
+This included technical training on the legal framework that controlled the contronting law of covenants, emphasizing transparency, accountability and public interests. Future infrastructure projects are also reflected in the United States to support Sri Lanka's strong agencies, promoting the prospect of the people of Sri Lanka.
+
+...
+
+[Data](articles/37837593.json)
+
+[Extended Data](ext_articles/37837593.ext.json)
+
+---
+
+### Filed by a student petition
+
+*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
+
+A young student from Bandarawa has sought the High Court, claiming that his constitutional rights had been violated as the University Grants Commission (UGC) refused to graduate on technology based on its disability.
+
+The case was adjourned to the hearing on February 24 next year when the case was taken up before a session of two judges comprising High Court Chief Justice Preeti Padman Surasena and Justice Shiran Gunaratne.
+
+The petitioner claims that he is an alternate student who qualified for the University Admissions in the Technical Division at Dharmapala College, Bandarawela.
+
+He said he had been informed that there were no arrangements to study such degree under the Division of the Disabled Students, despite applying for the Degree of Technology for the 2024/2025 academic year.
+
+The petitioner urges the High Court to declare that his fundamental rights have been violated by the UGC's decision.
+
+...
+
+[Data](articles/7e025974.json)
+
+[Extended Data](ext_articles/7e025974.ext.json)
 
 ---

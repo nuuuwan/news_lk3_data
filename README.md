@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 14:11:08**
+As of **2025-09-18 15:07:01**
 
 ## Newspaper Stats
 
-*Scraped **76,724** Articles*
+*Scraped **76,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,123 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,455
-adaderanalk | 9,904
+adalk | 7,458
+adaderanalk | 9,907
 tamilmirrorlk | 11,521
 virakesarilk | 12,484
-adaderanasinhalalk | 13,378
+adaderanasinhalalk | 13,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,408 (97.0%) of 76,724 articles have been extended.
+74,450 (97.0%) of 76,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### லேக் ஹவுஸ் சுற்றுவட்டத்தில் வாகன நெரிசல்
+### Sri Lanka’s overseas missions directed to identify new export markets, attract sustainable foreign investments
+
+*2025-09-18 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112648/sri-lankas-overseas-missions-directed-to-identify-new-export-markets-attract-sustainable-foreign-investments) · `en`
+
+Minister of Foreign Affairs, Vijitha Herath, along with the Minister of Industry, Sunil Handunneththi, and Minister of Trade, Wasantha Samarasinghe, launched an integrated mechanism to enhance collaboration between Sri Lanka’s overseas Missions and national institutions.
+
+Joined by Ministry Secretaries and agency heads, the initiative aimed to revitalize the country’s trade and investment agenda through coordinated efforts. The session on 16 September, attended by all Heads of Mission and Post, served as a platform to share key policy directives, practical proposals, and focused ideas, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+...
+
+[Data](articles/04df1dd2.json)
+
+---
+
+### Businessman arrested for selling foreign cigarettes to schoolchildren
+
+*2025-09-18 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112647/businessman-arrested-for-selling-foreign-cigarettes-to-schoolchildren) · `en`
+
+A businessman has been arrested by the police on suspicion of selling illegally imported cigarettes to schoolchildren in the Thanamalwila area.
+
+It has been revealed that the suspect had provided these cigarettes of various flavors to a school student to sell to fellow students, Ada Derana reporter said.
+
+Investigations revealed that the suspect had supplied the illegal foreign cigarettes to the student, instructing to sell the cigarettes.  The cigarettes, purchased from the businessman at Rs. 100 per stick, were resold by the student at a price of Rs. 200 at the school premises, police said.
+
+After a student of the same school had informed the principal, the student selling the cigarettes was brought in and searched, where two foreign cigarettes were found in the student’s possession.
+
+...
+
+[Data](articles/950f182a.json)
+
+---
+
+### බැකෝ සමන්ගේ බිරිඳ යළි රිමාන්ඩ්
+
+*2025-09-18 14:10:02* · [`adalk`](https://www.ada.lk/breaking_news/බැකෝ-සමන්ගේ-බිරිඳ-යළි-රිමාන්ඩ්/11-418582) · `si`
+
+ඉන්දුනීසියාවේදී අත්අ‌ඩංගුවට ගෙන ශ්‍රී ලංකාවට රැගෙනවිත් මුදල් විශුද්ධිකරණයය වැළක්වීමේ පනත යටතේ රක්ෂිත බන්ධනාගාර ගත කර සිටි බැකෝ සමන් නමැත්තාගේ බිරිඳ ලබන 25 වන දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ සැකකාරියගේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක එස් බෝදරගම මහතා මෙම නියෝගය නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/347c0af5.json)
+
+---
+
+### Ambulaurses are in danger
+
+*2025-09-18 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214711) · `si`
+
+A sungulandu was in danger at the Norwood Ventature Estate at Hatton Bawnalawa main road.
+
+The accident had occurred when the respective ambaviation was in the opposite direction.
+
+It is reported that two rogine who had taken two rogine from the Bogawantalawa area to Dikoya
+
+Police said that the two patients were referred to the Dikoya Base Hospital in another ambilization.
+
+The driver of the lorry has been arrested by the Norwood Police on the accident.
+
+The Norwood police urge the drivers to take action to drive the traffic on the Hatton Pagawantalawa main road with the inclement weather in Norwood.
+
+◼️
+
+[Data](articles/1ee23d24.json)
+
+[Extended Data](ext_articles/1ee23d24.ext.json)
+
+---
+
+### Thusitha Halloluwa bail
+
+*2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
+
+The Colombo Magistrate Court has ordered that Mr. Thusitha Halloluwa, who was arrested and remanded in Narahenpita on the bail of the National Lotteries Board.
+
+Accordingly, Colombo Additional Magistrate Lahiru Silva has been appointed to release the suspects on two million guarantee of Rs.
+
+The suspect was then ordered to ban abroad, or ordered that the suspect's passport should be handed over to the court.
+
+◼️
+
+[Data](articles/6bf3a2ba.json)
+
+[Extended Data](ext_articles/6bf3a2ba.ext.json)
+
+---
+
+### Traffic jam in the Lake House Circle
 
 *2025-09-18 13:44:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்-ஹவுஸ்-சுற்றுவட்டத்தில்-வாகன-நெரிசல்/175-364851) · `ta`
 
-பல கோரிக்கைகளை முன்வைத்து இலங்கை மின்சார சபை ஊழியர்கள் மேற்கொண்டு வரும் ஆர்ப்பாட்டம் காரணமாக லேக் ஹவுஸ் சுற்றுவட்டத்தில் போக்குவரத்து தடைப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Traffic in the Lake House has been blocked due to a protest by the Ceylon Electricity Board (CEB) employees.
 
-மின்சார சபை தலைமை அலுவலகத்திற்கு முன்பாக நடைபெற்று வரும் ஆர்ப்பாட்டம் காரணமாக ஒரு பாதை முற்றிலுமாக மூடப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+It is also reported that a road has been completely closed due to the ongoing demonstration in front of the Electricity Board headquarters.
 
 ◼️
 
 [Data](articles/03843d9d.json)
+
+[Extended Data](ext_articles/03843d9d.ext.json)
 
 ---
 
@@ -59,6 +149,24 @@ Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Ga
 [Data](articles/135b9918.json)
 
 [Extended Data](ext_articles/135b9918.ext.json)
+
+---
+
+### සුදු අලියෙක් වී ඇති දඹුල්ලේ කසළ ව්‍යාපෘතියේ කුණු කන්න වන අලි එයි
+
+*2025-09-18 13:30:35* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අලියෙක්-වී-ඇති-දඹුල්ලේ-කසළ-ව්‍යාපෘතියේ-කුණු-කන්න-වන-අලි-එයි/11-418578) · `si`
+
+දිවයිනේ සම්මාන දිනූ කසල කළමනාකරණ ව්‍යාපෘතිය සම්පූර්ණයෙන්ම නැවතීම දිස්ත්‍රික්ක ගණනාවක ලැබෙන කුණු කසල සියල්ල මහ වනයට මුදා හැරීම නිසා නැවතත් වන සතුන් අලි ඇතුන් කසල ආහාරයට ගැනීම සිදුවන බව දඹුල්ලේ ජනතාව පෙන්වා දෙති.
+
+කාලයක සිට දඹුල්ල නගරයේ ඉවත් කරන කැලි කසල   දිගම්පතහා රජයේ රක්ෂිතයට ගෙනවිත් දැමීම හේතුවෙන් මහා පරිසර විනාශයක් වන සතුන් විනාශ යක් සිදුවූ  වෙමින් පැවතිණිි.
+
+මේ පිළිබඳව දිගින් දිගටම ජනමාධ්‍ය හරහා පරිසරවේදීන් නගන විරෝධතාවයන්  සැලකිල්ලට ගෙන එකට දඹුල්ල මහ නගර සභාව මැදිහත්ව ඒකාබද්ධ කසල කළමනාකරණ ව්‍යාපෘතියක් ආරම්භ කෙරිණි
+
+මෙහි කාබනික පොහොර නිෂ්පාදනය රෝහල් අපද්‍රව්‍යය සහ පොලිතීන් තාප දාහකය මල අපද්‍රව්‍ය ය කළමනාකරණය ආදී  වැඩසටහන් රැසක් ඉතා සාර්ථකව ක්‍රියාත්මක වූ අතර   පිවිතුරු අරණ නමින් නම්කොට විදේශීය රටවල සහ අනෙකුත් පළාත් පාලන ආයතන දිවයිනේ පාසල් සිසුන් ආදී බොහෝ දෙනෙකුගේ නිරීක්ෂණයට පවා ලක්වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/00ea9317.json)
 
 ---
 
@@ -90,21 +198,25 @@ Because of this agreement, if India attacks Pakistan, Saudi Arabia will retaliat
 
 ---
 
-### දියවඩන නිලමේ නිලවරණය පවත්වන දින කියයි
+### Details of the Diyawadana Nilame
 
 *2025-09-18 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-නිලවරණය-පවත්වන-දින-කියයි/11-418577) · `si`
 
-මහනුවර ඓතිහාසික ශ්‍රී දළදා මාළිගාවේ නව දියවඩන නිලමේවරයෙකු පත්කර ගැනීම සඳහාා වූ නිලවරණය නොවැම්බර් මස 07 හෝ ඊට ආසන්න දිනකදී පත්වීම සඳහා මේ වන වනවිට සක්කච්ඡා කරමින් පවතින බව බෞද්ධ කටයුතු කොමසාරිස් ජනරාල් ගාමිණී සේනාරත්න මහතා පවසයි.
+The Commissioner General of Buddhist Affairs Gamini Senaratne says that the election to appoint a new Diyawadana Nilame on the historic Sri Dalada Maligawa.
 
-විශේෂ සාකච්ඡාවක් සඳහා අද (18) මහනුවර මහ ලේකම් කාර්යාලයට පැමිණි අවස්ථාවේදී මධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් කොමසාරිස් ජනරාල්වරයා ඒ බව අවධාරණය කළේය.
+The Commissioner General emphasized that when he visited the Kandy Secretariat today (18) for a special discussion today.
 
-එහිදී ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ විහාර දේවාලගම් ආඥා පනතේ සංශෝධන ක්‍රියාවලිය මේ වන විට ක්‍රියාත්මක වෙමින් පවතින බවයි. එහි 42-43 වගන්ති සංශෝධනය කිරීම සඳහා සාකච්ඡා වෙමින් පවතින බවත් එහි ඉදිරි කටයුතු සිදුවීමට නියමිත බවද පැවසීය.
+There he emphasized that the amendment process of the Vihara Paradhagam Ordinance is currently underway. He said that it is being discussed to be amended to amendments 42-43.
 
-ඉදිරියේදී පත්වීමට නියමිත දියවඩන නිලමේවරයාගේ ධූර කාලය සංශෝධනය කිරීම සම්බන්ධයෙන් වු ක්‍රියාමාර්ග මෙතෙක් ගෙන නොමැති බවද අවසාරිස් ජනරාල්වරයා අවධාරණය කළේය.
+The Performance General emphasized that measures have been taken to revise the term of the Diyawadana Nilame which is scheduled to come.
 
-...
+Not only in the North and East but also legal problems in Buddhist places of worship and measures are being taken to address the bill to solve them. The Commissioner General also stressed that the department is being carried out by the department as to the relevant activities of temples under the Vihara Devalaya Act.
+
+◼️
 
 [Data](articles/317bb3a8.json)
+
+[Extended Data](ext_articles/317bb3a8.ext.json)
 
 ---
 
@@ -161,6 +273,30 @@ Slave Island from Slave Island to Lake House Roundabout, from Slave Island to La
 [Data](articles/aca396b3.json)
 
 [Extended Data](ext_articles/aca396b3.ext.json)
+
+---
+
+### Air India crash victims’ families sue aerospace firms Boeing and Honeywell
+
+*2025-09-18 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112646/air-india-crash-victims-families-sue-aerospace-firms-boeing-and-honeywell) · `en`
+
+The families of four passengers who died on an Air India jet that crashed in June have filed a lawsuit in the US against planemaker Boeing and aircraft parts maker Honeywell, accusing the companies of negligence.
+
+The lawsuit filed Tuesday, and seen by the BBC, said faulty fuel switches caused the accident and accused the companies of doing “nothing” despite being aware of the risks of the aircraft’s design.
+
+Air India Flight 171 bound for London Gatwick, a Boeing 787, crashed shortly after takeoff from Ahmedabad, killing 260 people.
+
+Fuel switches have become a focus for investigators after a preliminary inquiry found that fuel to the engines was cut off moments after the plane left the ground.
+
+The US Federal Aviation Administration (FAA) has said earlier that fuel control switches in Boeing aeroplanes are safe.
+
+The US plane manufacturer did not comment on the case. Instead it pointed to India’s Aircraft Accident Investigation Bureau’s (AAIB) preliminary investigation report into the crash.
+
+...
+
+[Data](articles/88d6b7aa.json)
+
+[Extended Data](ext_articles/88d6b7aa.ext.json)
 
 ---
 
@@ -1873,135 +2009,5 @@ Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since incept
 [Data](articles/43f18131.json)
 
 [Extended Data](ext_articles/43f18131.ext.json)
-
----
-
-### Sri Lanka with EU and UNICEF launch model service for child victims of violence
-
-*2025-09-18 03:48:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-with-EU-and-UNICEF-launch-model-service-for-child-victims-of-violence/56-781845) · `en`
-
-Milestone initiative marks a turning point in protecting child victims who come in contact with the law and protection systems
-
-The Justice and National Integration Ministry and the Women and Child Affairs Ministry, with support from the EU through the United Nations Children's Fund (UNICEF), yesterday launched a groundbreaking initiative to support children who have experienced violence.
-
-The new model service will ensure fast, child-sensitive support to child victims of violence; from the point when the case is reported to police, helplines or others, until the child is linked with sustained care and protection mechanisms.
-
-...
-
-[Data](articles/45b61f7e.json)
-
-[Extended Data](ext_articles/45b61f7e.ext.json)
-
----
-
-### SL deepens trade ties in Sichuan
-
-*2025-09-18 03:47:26* · [`dailyftlk`](https://www.ft.lk/news/SL-deepens-trade-ties-in-Sichuan/56-781844) · `en`
-
-Deputy Minister’s visit opens new doors for trade and investment
-
-Sri Lanka is stepping up efforts to carve a stronger foothold in the Chinese market, with Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe completing a four-day official visit to Sichuan Province focused on boosting trade, investment, and forging foreign direct institutional partnerships.
-
-He was invited by the China Council for the Promotion of International Trade (CCPIT).
-
-During his visit, the Deputy Minister addressed the South Asia & Southeast Asia Business Development Cooperation Conference and delivered a keynote presentation at the Sri Lanka Economic and Trade Matchmaking Conference – a high-level State-business dialogue. His remarks highlighted Sri Lanka’s potential as an investment destination and emphasised opportunities for strengthening trade partnerships.
-
-...
-
-[Data](articles/c9325f54.json)
-
-[Extended Data](ext_articles/c9325f54.ext.json)
-
----
-
-### Focus Brands’ Ray Evans joins Hela Apparel Holdings Board
-
-*2025-09-18 03:22:59* · [`dailyftlk`](https://www.ft.lk/news/Focus-Brands-Ray-Evans-joins-Hela-Apparel-Holdings-Board/56-781833) · `en`
-
-Hela Apparel Holdings PLC has appointed UK’s Focus Brands Ltd. CEO Ray Evans to its Board as Executive Director.
-
-The appointment was made on the resignation of Non-Executive Director Dr. Alastair James Alderton.
-
-The company said that Evans’ appointment was part of an initiative aimed at strengthening the integration between the Private Label Manufacturing Division (PLMD) and the Brand Licensing Division (BLD) of the group.
-
-Specialising in performance clothing and brand licensing, Evans has over 30 years’ experience in sourcing sports apparel and building brands to drive market growth and revenues.
-
-Leveraging his entrepreneurial capabilities, negotiation skills and ability to influence international stakeholders, he has built ventures that have enabled the successful licensing of sports and performance clothing brands to production locations worldwide.
-
-...
-
-[Data](articles/669d81b2.json)
-
-[Extended Data](ext_articles/669d81b2.ext.json)
-
----
-
-### Phoenix products feature at Saudi INDEX Expo – 2025 in Riyadh
-
-*2025-09-18 03:20:15* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-products-feature-at-Saudi-INDEX-Expo-2025-in-Riyadh/34-781832) · `en`
-
-Sri Lanka’s reputed Phoenix company products were featured at the INDEX Saudi Arabia Expo 2025 held from 09 to 11 September 2025 at Front Exhibition and Conference Centre in Riyadh. Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad officially opened the Phoenix pavilion at the Expo. During the occasion, Ambassador pointed out that such international trade fairs provide valuable opportunities for Sri Lankan companies to showcase their export products at the global stage and encouraged Sri Lankan enterprises to actively leverage such platforms and build strong business partnerships.
-
-INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out trade event, bringing together global and regional brands to present the latest innovations and trends shaping Saudi Arabia’s thriving design sector. The exhibition serves as a gateway for connecting with thousands of active buyers and decision-makers.
-
-...
-
-[Data](articles/f79dd8f2.json)
-
-[Extended Data](ext_articles/f79dd8f2.ext.json)
-
----
-
-### Trade Promoters announces partnership with Lovol in Sri Lanka
-
-*2025-09-18 03:18:43* · [`dailyftlk`](https://www.ft.lk/news/Trade-Promoters-announces-partnership-with-Lovol-in-Sri-Lanka/56-781831) · `en`
-
-TPL Joint Managing Director Ranil Fernando (left), with Lovol Heavy Industry Group South Asia Regional Manager Ali Xie
-
-Trade Promoters Ltd. (TPL) has announced its partnership with Lovol Heavy Industry Group Co., China, a global leader in the manufacture of construction equipment. Lovol is part of the Weichai group, a $ 30 billion Fortune 500 company.
-
-Lovol construction equipment including Wheel Loaders, Excavators (Crawler and Wheel), Backhoe Loaders, Skid Steer Loaders, Bulldozers, Forklifts, and Motor Graders will be made available to Sri Lankan consumers through this partnership. These world-class machines are engineered to meet the demands of the construction industry, be it residential, commercial or infrastructure development. Operating in more than 120 countries worldwide, Lovol is known for its durability, efficiency, and reliability.
-
-...
-
-[Data](articles/7320b746.json)
-
-[Extended Data](ext_articles/7320b746.ext.json)
-
----
-
-### NTB WNPS lecture today to put spotlight on freshwater fishes
-
-*2025-09-18 03:13:25* · [`dailyftlk`](https://www.ft.lk/news/NTB-WNPS-lecture-today-to-put-spotlight-on-freshwater-fishes/56-781830) · `en`
-
-Experts Rohan Pethiyagoda and Hiranya Sudasinghe to share key insights
-
-The Nations Trust Bank-Wildlife and Nature Protection Society monthly lecture today will put spotlight on freshwater fishes with insights from Rohan Pethiyagoda and Hiranya Sudasinghe.
-
-The lecture which is open to the public will be at 6.00 p.m. at the Jasmine Hall, BMICH.
-
-...
-
-[Data](articles/46178b36.json)
-
-[Extended Data](ext_articles/46178b36.ext.json)
-
----
-
-### A successful event of Tamil artists in Canada
-
-*2025-09-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225373) · `ta`
-
-Singer. B.. A concert was held recently in Toronto, Canada in order to restore the memories of Balasubramaniam.
-
-The ceremony was organized by D Media. Musician Travis Fernando and Tamil singers in Canada participated in the event and held in Toronto on the 13th.. The event was successfully held in cooperation with the Tamil Nadu Kalami.
-
-In addition, Canadian musician Pawan Rajkumar expressed his congratulations on the excellence.
-
-◼️
-
-[Data](articles/c5dc937d.json)
-
-[Extended Data](ext_articles/c5dc937d.ext.json)
 
 ---

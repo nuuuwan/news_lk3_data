@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 09:23:38**
+As of **2025-09-18 09:13:32**
 
 ## Newspaper Stats
 
-*Scraped **76,664** Articles*
+*Scraped **76,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,20 @@ islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,446
-adaderanalk | 9,893
+adaderanalk | 9,886
 tamilmirrorlk | 11,498
-virakesarilk | 12,476
+virakesarilk | 12,471
 adaderanasinhalalk | 13,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,154 (96.7%) of 76,664 articles have been extended.
+74,154 (96.7%) of 76,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### ரயில் அதிகாரிகள் மீது போக்குவரத்து அமைச்சர் கடும்  குற்றச்சாட்டுகள் முன்வைப்பு
-
-*2025-09-18 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225380) · `ta`
-
-ரயில் சேவையை முறையாக இயக்க முடியாத அதிகாரிகள் பதவியை இராஜினாமா செய்யலாம் என போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
-
-களுத்துறை மாவட்டத்தை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்கள் உட்பட போக்குவரத்துத் துறையில் ஈடுபட்டுள்ள அரச அதிகாரிகளுடன் களுத்துறை மாவட்ட செயலகத்தின் புதிய கேட்போர் கூடத்தில் நடைபெற்ற கலந்துரையாடலில் பங்கேற்ற போதே அவர் இதனை தெரிவித்துள்ளார்.
-
-"உங்கள் ரயிலில் ஜன்னல்களை மூட முடியாது. ஆவர்கள் சரி செய்வதாக சொல்கின்றனர். ஜயன்னல்களை மூடின பின்னர் சூடாவும் எரியுது. ஒரு தொலைபேசி வேலை செய்யவில்லை. காலியில் இருந்து கொழும்புக்குப் போக இரண்டரை மணி நேரம் ஆகும், கழிப்பறைகளில் தண்ணீர் இல்லை. ரயில்கள் அலுவலக ரயில்கள். முறையாக வேலைக்கு ஆட்களை செயற்படுத்த முடியாதா?
-
-இவர்கள் மக்கள் மீது மரியாதை இல்லாதவர்கள். ஜா-எலயை சேர்ந்த  சின்னக் குழந்தை ஒன்று ரயிலில் போகும்போது ஜன்னலிலிருந்து விழுந்து இரண்டு விரல்களை இழந்ததாகவும்  போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/99817428.json)
-
----
-
-### இலங்கையின் மூன்றாவது நானோ செயற்கைக்கோள் நாளை சுற்றுப்பாதையில் ஏவப்பட உள்ளது
-
-*2025-09-18 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225377) · `ta`
-
-பொறியியலாளர்களின் தொழில்நுட்ப நிபுணத்துவத்துடன் உருவாக்கப்பட்ட இலங்கையின் மூன்றாவது நானோ செயற்கைக்கோள் நாளை வியாழக்கிழமை (19) சுற்றுப்பாதையில் ஏவப்பட உள்ளதாக மொரட்டுவையிலுள்ள ஆர்தர் சி. கிளார்க் நவீன தொழில்நுட்ப நிறுவனம் அறிவித்துள்ளது.
-
-BIRDS-X  டிராகன்ஃபிளை’ என பெயரிடப்பட்ட இந்த செயற்கைக்கோள், ஆகஸ்ட் மாதம் 24ஆம் திகதியன்று நாசாவால் ஏவப்பட்ட ஸ்பேஸ்எக்ஸ்-33 ரோக்கெட் மூலம் சர்வதேச விண்வெளி நிலையத்திற்கு கொண்டு செல்லப்பட்டது.
-
-முன்னர், 2019 ஆம் ஆண்டில், இலங்கை தனது முதல் நானோ செயற்கைக்கோளான ‘ராவணன்-1’ ஐ வெற்றிகரமாக ஏவியது.
-
-மேலும் 2022 ஆம் ஆண்டில், ஐந்து சர்வதேச கூட்டாளர்களை உள்ளடக்கிய பன்னாட்டு தொழில்நுட்ப ஒத்துழைப்பின் ஒரு பகுதியாக KITSUNE செயற்கைக்கோள் ஏவப்பட்டது.
-
-அதன்படி, BIRDS-X  டிராகன்ஃபிளை நானோ செயற்கைக்கோள் நாளை பிற்பகல் 2:15 மணிக்கு சர்வதேச விண்வெளி நிலையத்திலிருந்து அதன் நியமிக்கப்பட்ட சுற்றுப்பாதையில் ஏவப்பட உள்ளதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/2b1fb922.json)
-
----
-
-### தொல்லியல் திணைக்கள விவகாரத்தில் வலி கிழக்கு பிரதேச ஒருங்கிணைப்புக் குழு தலைவர் தவிசாளரிடையே தர்க்கம்
-
-*2025-09-18 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225376) · `ta`
-
-நிலாவரையில் தொல்லியல் திணைக்களத்தின் செயற்பாடுகள் தொடர்பில் வலிகாமம் கிழக்கு பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஸிற்கும் பிருதேச ஒருங்கிணைப்புக் குழுத் தலைவரும் அரசாங்க பாராளுமன்ற உறுப்பினருமான ரஜீவன் ஜெயச்சந்திரமூர்த்திக்கும் இடையில் பிரதேச ஒருங்கிணைப்புக் குழுக்கூட்டத்தில் தொல்லியல் திணைக்களம் தொடர்பில் காரசாரமான விவாதம் இடம்பெற்றது. இவ் விவாதத்தினைத் தொடர்ந்து நிலாவரையில் இருந்து தொல்லியல்  திணைக்களம் விலகி பிரதேச சபையிடம் அதனை கையளிக்க வேண்டும் எனவும் பிரதேச அபிவிருத்திக் குழுக்கூட்டத்தில் தீர்மானிக்கப்பட்டது.
-
-இது தொடர்பில் மேலும், வலிகாமம் கிழக்கு பிரதேச அபிவிருத்திக்குழுக் கூட்டம் நேற்றுமுன்தினம் (செவ்வாய்க்கிழமை) பிரதேச செயலகத்தில் நடைபெற்றது. இக் கூட்டத்தில் நிலாவரை பகுதி சுற்றுலா வலயமாகவுள்ளமையினால் அதனை மேம்படுத்துவது பற்றி ஆராயப்பட்டது. இதன்போது இப் பகுதியில் தொல்லியல் திணைக்களத்தின் தலையீடுகளால் அதனை முன்னேற்ற முடியாதுள்ளது என தவிசாளரினால் சுட்டிக்காட்டப்பட்டது.
-
-...
-
-[Data](articles/ac63b8d5.json)
-
----
 
 ### Five kidney patients die daily
 
@@ -160,52 +108,6 @@ The first phase of the Visa Visa is the cause of the accident.. (A)
 
 ---
 
-### Public consultation on proposed electricity tariff revision to begin today
-
-*2025-09-18 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112633/public-consultation-on-proposed-electricity-tariff-revision-to-begin-today) · `en`
-
-Public consultation sessions on the proposed electricity tariff revision will commence today (18).
-
-The Ceylon Electricity Board (CEB) has proposed a 6.8% increase in electricity tariffs for the final quarter of 2025, according to the Public Utilities Commission of Sri Lanka (PUCSL).
-
-Accordingly, the PUCSL decided to obtain public opinion on the proposed amendments.
-
-The PUCSL stated that the general public can submit their comments and suggestions in writing to the Commission.
-
-To obtain verbal feedback, the PUCSL will conduct nine public consultations covering all nine provinces.
-
-Accordingly, public consultation sessions for verbal submissions will commence today.
-
-The PUCSL further stated that written comments and suggestions related to the public consultation on the third electricity tariff revision of 2025 can be submitted via the following methods before October 7, 2025:
-
-Public Consultation on the Third Electricity Tariff Revision – 2025
-
-◼️
-
-[Data](articles/eda48363.json)
-
----
-
-### கனடாவிலுள்ள இந்திய தூதரகம் மீது காலிஸ்தான் அமைப்பின் முற்றுகை மிரட்டல்
-
-*2025-09-18 08:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225378) · `ta`
-
-கனடாவில் செயல்பட்டு வரும் காலிஸ்தான் ஆதரவு அமைப்பான "Sikhs for Justice" (SFJ)இ வான்கூவரில் உள்ள இந்திய தூதரகத்தை வியாழக்கிழமை (செப்டம்பர் 18) முற்றுகையிடப்போவதாக மிரட்டல் விடுத்துள்ளது.
-
-SFJ அமைப்பின் அறிவிப்பின்படி இன்று காலை 8 மணி முதல் இரவு 8 மணி வரைஇ 12 மணி நேரத்திற்கு இந்தியத் தூதரகத்தை முற்றுகையிடப் போவதாகத் தெரிவித்துள்ளது.
-
-கனடாவில் உள்ள இந்திய தூதரகங்கள்இ காலிஸ்தான் ஆதரவாளர்களைக் குறிவைத்து ஒரு உளவு வலையமைப்பை நடத்தி வருவதாக SJF குற்றம் சாட்டியுள்ளது.
-
-2023-ல் ஹர்தீப் சிங் நிஜ்ஜார் கொலை வழக்கில் இந்திய உளவு அமைப்பின் பங்கு குறித்து அப்போதைய கனடா பிரதமர் ஜஸ்டின் ட்ரூடோ நாடாளுமன்றத்தில் தெரிவித்ததை SFJ அமைப்பு தனது அறிக்கையில் சுட்டிக்காட்டியுள்ளது.
-
-சில வாரங்களுக்கு முன்பு கனடா அரசு வெளியிட்ட ஒரு அறிக்கையில் தங்கள் நாட்டில் காலிஸ்தான் பயங்கரவாத குழுக்கள் செயல்பட்டு வருவதாகவும் அவற்றுக்கு வெளிநாடுகளில் இருந்து நிதி கிடைப்பதாகவும் கூறியிருந்தமை குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/d1f659f8.json)
-
----
-
 ### Youth arrested for selling mawa mixed with cannabis
 
 *2025-09-18 07:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-கலந்த-மாவா-விற்ற-இளைஞர்-கைது/175-364815) · `ta`
@@ -270,42 +172,6 @@ At the same time, the Tamil National People's Front (TNA) dismissed the minister
 
 ---
 
-### Bangladesh bars ex-PM Sheikh Hasina, family from voting in next year’s election
-
-*2025-09-18 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112631/bangladesh-bars-ex-pm-sheikh-hasina-family-from-voting-in-next-years-election) · `en`
-
-Bangladesh’s Election Commission (EC) on Wednesday said it has “locked” the national identity cards of deposed prime minister Sheikh Hasina, effectively barring her from voting in the general elections scheduled for February next year.
-
-“Anyone whose national identity (NID) card has been locked cannot vote from abroad,” EC Secretary Akhtar Ahmed told reporters at his office in Nirbachon Bhavan here.
-
-Though Ahmed did not mention any other name, UNB news agency and the Dhaka Tribune newspaper, quoting unnamed EC officials, reported that NIDs of Hasina’s younger sister Sheikh Rehana, son Sajeeb Wazed Joy and daughter Saima Wazed Putul have also been “locked” or “blocked”.
-
-Rehana’s children Tulip Rizwana Siddiq, Azmina Siddiq and nephew Radwan Mujib Siddiq Bobby, her brother-in-law and Hasina’s former security adviser retired major general Tarique Ahmed Siddique, his wife Shahin Siddique and their daughter Bushra Siddique are also reportedly barred from voting.
-
-...
-
-[Data](articles/0a9625ad.json)
-
----
-
-### கல்கிஸ்ஸை கடல் அலையில் அள்ளுண்டு சென்ற 3 இளைஞர்கள் பாதுகாப்பாக மீட்பு
-
-*2025-09-18 07:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225375) · `ta`
-
-கல்கிஸ்ஸை, கடலில் குளிக்கச் சென்ற மூன்று இளைஞர்கள் கடல் அலையில் அள்ளுண்டு சென்ற நிலையில், அவர்கள் மூவரும் பாதுகாப்பாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்தச் சம்பவம் புதன்கிழமை (17) இடம்பெற்றதாகவும், பொலிஸ் உயிர்காக்கும் பிரிவைச் சேர்ந்த அதிகாரிகள், கடல் நீரோட்டத்தில் சிக்கிய இளைஞர்களை பாதுகாப்பாக மீட்டதாகவும் தெரிவிக்கப்படுகிறது.
-
-மீட்கப்பட்ட இளைஞர்கள் அனைவரும், 16 வயதுடையவர்கள் எனவும், வெல்லம்பிட்டிய, கட்டுக்குருந்த மற்றும் ஹோகந்தர ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் எனவும் விசாரணைகளில் தெரியவந்துள்ளது.
-
-பலத்த கடல் அலைகள் காணப்படும் போது பொதுமக்கள் கடலில் குளிப்பதைத் தவிர்க்குமாறு பொலிஸார் எச்சரிக்கை விடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/7e14a06b.json)
-
----
-
 ### Severe Soldier appreciates of survived passengers in the fall in the fall
 
 *2025-09-18 07:30:25* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේදී-තම-දිවි-නොතකා-මගීන්-බේරා-ගත්-විශේෂ-බළකා-සෙබලා-අගයයි/11-418567) · `si`
@@ -339,24 +205,6 @@ Minister of Transport Bimal Ratnayake made this statement participating at a dis
 [Data](articles/457409c1.json)
 
 [Extended Data](ext_articles/457409c1.ext.json)
-
----
-
-### Sri Lanka’s third nano-satellite to be launched into orbit tomorrow
-
-*2025-09-18 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112630/sri-lankas-third-nano-satellite-to-be-launched-into-orbit-tomorrow) · `en`
-
-Sri Lanka’s third nano-satellite, developed with the technical expertise of local engineers, is scheduled to be launched into orbit tomorrow (19), the Arthur C. Clarke Institute for Modern Technologies in Moratuwa, has announced.
-
-Named ‘BIRDS-X Dragonfly’, the satellite was carried to the International Space Station (ISS) aboard the SpaceX-33 rocket, launched by NASA on August 24.
-
-Previously, in 2019, Sri Lanka successfully launched its first nano-satellite, ‘Ravana-1’, and in 2022, the ‘KITSUNE’ satellite was launched as part of a multinational technological collaboration involving five international partners.
-
-Accordingly, the BIRDS-X Dragonfly nano-satellite is scheduled to be released into its designated orbit from the International Space Station at 2:15 p.m. tomorrow.
-
-◼️
-
-[Data](articles/6940e7da.json)
 
 ---
 
@@ -404,24 +252,6 @@ The Israeli military announced yesterday (17) that the Palestinian people will o
 
 ---
 
-### Three teenagers rescued after being swept away by currents at Mount Lavinia Beach
-
-*2025-09-18 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112629/three-teenagers-rescued-after-being-swept-away-by-currents-at-mount-lavinia-beach) · `en`
-
-Three teenagers who went sea bathing at the Mount Lavinia Beach were rescued after being swept away by strong water currents, police stated.
-
-The incident occurred yesterday (17), and police said officers attached to the Police Lifeguard Unit, rescued the individuals who were caught in the strong currents.
-
-Officers promptly intervened, rescued the individuals, and administered initial first aid.
-
-The rescued teenagers, all aged 16, are residents of Wellampitiya, Katukurunda, and Hokandara.
-
-◼️
-
-[Data](articles/ddd20909.json)
-
----
-
 ### Sri Lanka's third Nano Satellite Orbit tomorrow
 
 *2025-09-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214693) · `si`
@@ -459,62 +289,6 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/313cd568.json)
 
 [Extended Data](ext_articles/313cd568.ext.json)
-
----
-
-### King Charles and Trump hail UK-US special relationship in state banquet speech
-
-*2025-09-18 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112628/king-charles-and-trump-hail-uk-us-special-relationship-in-state-banquet-speech) · `en`
-
-King Charles has commended President Trump’s personal commitment to “finding solutions to some of the world’s most intractable conflicts”, as he called for US support for Ukraine against “tyranny”, in a speech at the US state visit banquet.
-
-In response, President Trump hailed the special relationship between the US and the UK, saying the word “special does not begin to do it justice”.
-
-The King’s speech, at a lavish dinner for 160 guests in Windsor Castle, emphasised the deep connections between the two countries and the need to maintain cultural, trading and military links.
-
-“Our people have fought and died together for the values we hold dear,” said the King.
-
-The state visit will continue on Thursday, including Queen Camilla and the Princess of Wales at events with the First Lady Melania Trump.
-
-It will move from a royal spectacle to political talks and a news conference, as Trump travels to meet Prime Minister Keir Starmer at his country house, Chequers.
-
-...
-
-[Data](articles/e64851b6.json)
-
----
-
-### Transport Minister warns underperforming railway officials: ‘Fix it or resign’
-
-*2025-09-18 05:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112627/transport-minister-warns-underperforming-railway-officials-fix-it-or-resign) · `en`
-
-Minister of Transport Bimal Rathnayake has issued a stern warning to officials attached to the Railway Department, stating that those who fail to ensure the proper functioning and maintenance of railway services should be prepared to step down.
-
-Speaking at a discussion held at the Kalutara District Secretariat with Members of Parliament and transport sector officials, Minister Rathnayake criticized the poor condition of train compartments, highlighting issues such as broken windows, non-functional fans, and unsanitary washrooms, especially on key office trains such as those operating between Galle and Colombo.
-
-He also referenced a tragic incident where a young boy lost two fingers after falling against a faulty window during his first train ride.
-
-...
-
-[Data](articles/3ade9227.json)
-
----
-
-### Fairly heavy showers about 75 mm expected in several areas today
-
-*2025-09-18 05:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112626/fairly-heavy-showers-about-75-mm-expected-in-several-areas-today-) · `en`
-
-Showers or thundershowers are expected at times in the Western, Sabaragamuwa, Central, Northern and Northwestern provinces and in the Galle and Matara districts today (18), the Department of Meteorology said.
-
-Fairly heavy falls of about 75 mm are likely at some places in the Western, Sabaragamuwa and Northern provinces and in the Galle and Matara districts, the Met. Department added.
-
-Showers or thundershowers will occur at several places in the other areas of the island after 1.00 p.m.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/9f875f76.json)
 
 ---
 
@@ -2005,5 +1779,251 @@ He was searching for the arrest of a consignment of chemicals used in order to p
 [Data](articles/10f6acf1.json)
 
 [Extended Data](ext_articles/10f6acf1.ext.json)
+
+---
+
+### Prevention of Sampath Manamber
+
+*2025-09-17 16:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-தடுப்புக்காவல்/175-364781) · `ta`
+
+Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
+
+The court has given him permission to investigate him until the 24th of this month.
+
+◼️
+
+[Data](articles/06ef553a.json)
+
+[Extended Data](ext_articles/06ef553a.ext.json)
+
+---
+
+### Ananda: Vatagala became Minister
+
+*2025-09-17 16:25:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தார்-ஆனந்த-பதில்-அமைச்சரானார்-வட்டகல/175-364780) · `ta`
+
+President Anura Kumara Dissanayake has appointed Deputy Minister Sunil Vatagala to serve as Minister of Public Safety and Parliamentary Affairs.
+
+The appointment was granted as Public Security and Parliamentary Affairs Minister Ananda Wijebala attended a conference in China.
+
+The Inspector General of Police has also attended the conference with Ananda Wijebala.
+
+◼️
+
+[Data](articles/a57776a4.json)
+
+[Extended Data](ext_articles/a57776a4.ext.json)
+
+---
+
+### Resource Mamanampara is allowed to interfere with seven days
+
+*2025-09-17 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214681) · `si`
+
+Sampath Manamperi, who was in charge of the court today (17), has been given permission to interfere with seven days in the custody of the Police Narcotics Bureau.
+
+◼️
+
+[Data](articles/49562747.json)
+
+[Extended Data](ext_articles/49562747.ext.json)
+
+---
+
+### Court grants permission to detain Sampath Manamperi for seven days for questioning
+
+*2025-09-17 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112613/court-grants-permission-to-detain-sampath-manamperi-for-seven-days-for-questioning) · `en`
+
+The Walasmulla Magistrate’s Court today (17) granted permission to the Police Narcotics (PNB) to detain Sampath Manamperi, accused of concealing two containers of raw materials allegedly used in the production of the drug ‘Ice’ and reportedly belonging to underworld figure Kehelbaddara Padme, for seven days for questioning.
+
+Accordingly, PNB officers will question Sampath Manamperi over the discovery of two containers in Middeniya recently.
+
+Sampath Manamperi surrendered to the Walasmulla Magistrate’s Court earlier today.
+
+An attorney representing Manamperi informed the Court of Appeal on September 15 that his client was prepared to surrender to the relevant Magistrate’s Court in connection with the discovery of the two containers in Middeniya, which were suspected to contain chemical substances used in the manufacture of crystal methamphetamine (Ice).
+
+...
+
+[Data](articles/28685145.json)
+
+[Extended Data](ext_articles/28685145.ext.json)
+
+---
+
+### Insures ginger and yellow cultivation
+
+*2025-09-17 16:17:23* · [`adalk`](https://www.ada.lk/breaking_news/ඉඟුරු-හා-කහ-වගාව-රක්ෂණය-කරයි/11-418561) · `si`
+
+Special insurance proposals are implemented for the commercial and exporting to Sri Lanka's commercial and export.
+
+Accordingly, the manner can obtain a coverage of Rs.
+
+Farmer is able to get a maximum of Rs.
+
+In addition to the elephant-wide range of elephants in Polonnaruwa, Hambantota, Kurunegala, Anuradhapura, Badulla, has been introduced to ensure compensation to strengthen the farmer.
+
+◼️
+
+[Data](articles/49836500.json)
+
+[Extended Data](ext_articles/49836500.ext.json)
+
+---
+
+### Sri Lanka parliament committee approves National Building Research Institute Bill
+
+*2025-09-17 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-committee-approves-national-building-research-institute-bill-240935/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National Building Research Institute Bill, which strengthens the National Building Research Organization’s powers, has been considered and approved by a sectoral oversight committee, parliament said.
+
+“Although the National Building Research Organization has been functioning since 1984, it has not yet been established by an Act of Parliament.
+
+“Therefore, the proposed Bill seeks to provide the Organization with legal status in order to properly fulfil the duties, responsibilities, and services entrusted to it.”
+
+Officials, making submissions before the Sectoral Oversight Committee on Governance, Justice and Civil Protection, pointed out that once the proposed bill is passed, the NBRO would be able to take legal action in instances where Local Government institutions fail to adhere to the recommendations issued by the NBRO with regard to landslides.
+
+The bill is to be taken up for its second reading in parliament on September 23. (Colombo/Sep17/2025)
+
+◼️
+
+[Data](articles/a190eabb.json)
+
+[Extended Data](ext_articles/a190eabb.ext.json)
+
+---
+
+### Parliament may meet from September 23 to 26
+
+*2025-09-17 16:11:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டெம்பர்-23-முதல்-26-வரை-பாராளுமன்றம்-கூடும்/175-364778) · `ta`
+
+Parliamentary Secretary General Kushani Rohanadheera said that the Parliamentary Affairs week for the second parliamentary session of September 2025 has been decided at a meeting on the recent Parliamentary Affairs Committee under the leadership of the Speaker (Doctor) Jagath Wickremaratne.
+
+Accordingly, Parliament will meet from 23rd to 26th September.
+
+The Parliamentary Committee is set to the Parliamentary Affairs of Parliament from 9.30 pm to 10.00 pm every day.. Subsequently, the time has been allocated for the oral answers from 10.00 am to 11.00 am and the time of the Standing Ordinance of the Standing Ordinance from 11.00 am to 11.30 am.
+
+The second assessment of the National Building Arachchi Bill was decided to hold a debate on Tuesday, September 23, from 11.30 am to 5.00 pm.
+
+Thereafter, time has been set up for the debate for the adjournment of the opposition from 5.00 pm to 5.30 pm.
+
+...
+
+[Data](articles/19b3e51e.json)
+
+[Extended Data](ext_articles/19b3e51e.ext.json)
+
+---
+
+### Pension reduction for MPs; This week
+
+*2025-09-17 16:11:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கான-ஓய்வூதிய-குறைப்பு-இவ்வாரம்-வராது/175-364778) · `ta`
+
+Parliamentary Secretary General Kushani Rohanadheera said that the Parliamentary Affairs week for the second parliamentary session of September 2025 has been decided at a meeting on the recent Parliamentary Affairs Committee under the leadership of the Speaker (Doctor) Jagath Wickremaratne.
+
+Accordingly, Parliament will meet from 23rd to 26th September.
+
+Time is allocated for Parliamentary Affairs from 9.30am to 10.00 am every day of Parliament.. Subsequently, the time has been allocated for the question of oral answers from 10.00 am to 11.00 am and the time of Standing Orders under 11.00 am to 11.30 pm
+
+The National Building Arachchi Institute Bill was decided to hold a debate on Tuesday, September 23, from 11.30 am to 5.00 pm.
+
+Thereafter, time has been set up for the debate for the adjournment of the opposition from 5.00 pm to 5.30 pm.
+
+In addition, the Second Assessment Bill (Amendment) Bill will be taken up for debate on Wednesday 24th September from 11.30am to 5.00pm.
+
+...
+
+[Data](articles/4bd342c0.json)
+
+[Extended Data](ext_articles/4bd342c0.ext.json)
+
+---
+
+### Second Reading of National Building Research Institute Bill in Parliament next week
+
+*2025-09-17 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112612/second-reading-of-national-building-research-institute-bill-in-parliament-next-week) · `en`
+
+The decision was taken during a meeting of at the Committee on Parliamentary Business held under the chairmanship of Speaker of House Dr. Jagath Wickramaratne.
+
+Accordingly, Parliament is scheduled to meet from September 23 to 26.
+
+On each sitting day next week, the time from 9.30 a.m. to 10.00 a.m. has been allotted for parliamentary business as per Standing Orders 22 (1) to (6) of Parliament. The time from 10.00 a.m. to 11.00 a.m. has been allocated for Questions for Oral answers, while the time from 11.00 a.m. to 11.30 a.m. has been reserved for Questions under Standing Orders 27(2).
+
+Accordingly, on Tuesday (23), from 11.30 a.m. to 5.00 p.m. the Second Reading of the National Building Research Institute Bill is scheduled to be taken up for debate.
+
+Thereafter, from 5.00 p.m. to 5.30 p.m. the Motion at the Adjournment Time moved by the opposition is scheduled to be debated.
+
+...
+
+[Data](articles/c27f16be.json)
+
+[Extended Data](ext_articles/c27f16be.ext.json)
+
+---
+
+### Parliament to meet up from September 23 to 26
+
+*2025-09-17 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214680) · `si`
+
+The next parliamentary session is scheduled to meet from September 23 to 26.
+
+Thus, on Tuesday, 23, 23, 20, 20. The National Building Research Institute has decided to hold the second reading debate from 11.30 pm to 5.00 pm.
+
+The proposal is due to debate the proposal in advance from 5:00 pm to 4 pm.
+
+◼️
+
+[Data](articles/aaf9d3f7.json)
+
+[Extended Data](ext_articles/aaf9d3f7.ext.json)
+
+---
+
+### Water cut is invalid
+
+*2025-09-17 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214679) · `si`
+
+Water cuts in Colombo have been canceled for a nine-hour period of 9 hours (18).
+
+The National Water Supply and Drainage Board (NBRO) issued a statement.
+
+The board was suspended by the water supply station supplied by the main body pothood provided to the Ambatale Water Treatment Plant.
+
+However, the later announced announcement states that the water cuts were not carried out in the following areas.
+
+* Battaramulla, Pelawatta, Hokandara, Koswatta, Kotte, Kotte, Maharanawa, Dehiwala, Dehiwala, Dehiwala, Dehiwala, Dehiwala, Ratmalana, Dehiwala, Ratmalana, Dehiwala, Ratmalana, Dehiwala, Ratmalana, Dehiwala
+
+If necessary, contact the Call Center from the 1939 Telephone Number.
+
+◼️
+
+[Data](articles/20bdc8e2.json)
+
+[Extended Data](ext_articles/20bdc8e2.ext.json)
+
+---
+
+### Parliament gathered from September 23 to 26
+
+*2025-09-17 16:05:11* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-සැප්තැම්බර්-23-සිට-26-දක්වා-රැස්වෙයි/11-418560) · `si`
+
+The Secretary General of Parliament Mahanadera has been decided on the Committee on Parliamentary Affairs, under the patronage of Speaker, Jagathu Wickramaratne.
+
+9:30 am - 9:30 am. 10.00 is reserved for Parliamentary Business of the Standing Order 22. 10:00 am - 11.00 AM is reserved for questions that require verbal answers. 11.00 -11.30 The time is reserved for questions under Standing Orders 27 (2).
+
+Thus, on September 23, 20, 20, 20. The National Building Research Institute has decided to hold the second reading debate from 11.30 pm to 5.00 pm.
+
+The proposal is due to debate the proposal in advance from 5:00 pm to 4 pm.
+
+On Wednesday, September 24, 2025. The Penal Code (Amendment) Bill has been allocated for the second reading debate.
+
+The time has been allocated for questions asking for questions in advanced at early 5.00 pm to 5.30 pm.
+
+Thursday, September 25, will be debated to approve regulations under the Import and Export (Control) Act from 11th to 11 am to 2 am.
+
+...
+
+[Data](articles/d5da926d.json)
+
+[Extended Data](ext_articles/d5da926d.ext.json)
 
 ---

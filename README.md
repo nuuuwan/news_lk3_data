@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 19:12:00**
+As of **2025-09-18 20:20:48**
 
 ## Newspaper Stats
 
-*Scraped **76,784** Articles*
+*Scraped **76,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,123 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,465
+adalk | 7,466
 adaderanalk | 9,911
-tamilmirrorlk | 11,536
+tamilmirrorlk | 11,537
 virakesarilk | 12,486
-adaderanasinhalalk | 13,393
+adaderanasinhalalk | 13,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,697 (97.3%) of 76,784 articles have been extended.
+74,740 (97.3%) of 76,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### பிரித்தானியாவில் ட்ரம்புக்குப் பிரமாண்ட அரச விருந்து
+### 2026 විසර්ජන පනත් කෙටුම්පත ගැසට් කරයි
+
+*2025-09-18 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214730) · `si`
+
+2026 මුදල් වර්ෂය සඳහා වන රජයේ වියදම් ඇතුළත් විසර්ජන පනත් කෙටුම්පත ගැසට් කර තිබේ.
+
+ජාතික ජනබලවේග රජය සිය දෙවන අයවැය ලෙස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත විසර්ජන පනත් කෙටුම්පතට අනුව 2026 වසරේ රජයේ සමස්ත වියදම රුපියල් බිලියන 4,434කි.
+
+එළැඹෙන වසර සඳහා වන විසර්ජන පනත් කෙටුම්පතෙන් වැඩිම මුදල් ප්‍රමාණයක් වෙන්කර ඇත්තේ මුදල් අමාත්‍යාංශයට වන අතර එය රුපියල් බිලියන 634ක් වේ.
+
+පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 618ක් වෙන් කර ඇති අතර රාජ්‍ය පරිපාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 596ක් වෙන්කර ඇත.
+
+එළැඹෙන වසර වෙනුවෙන් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 554කි.
+
+ආරක්ෂක අමාත්‍යාංශය සඳහා රුපියල් බිලියන 455ක් වෙන්කර ඇති අතර අධ්‍යාපන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 301ක් වෙන්කර තිබේ.
+
+එළඹෙන අයවැයෙන් ජනාධිපතිවරයාගේ වැයශිර්ෂය ලෙස වෙන්කර ඇති මුදල රුපියල් බිලියන 11ක් වේ.
+
+එය 2025 වසරේ ජනාධිපතිවරයාගේ වැයශිර්ෂය ලෙස වෙන්කර තිබූ රුපියල් බිලියන 2.7ක මුදලට වඩා බිලියන 8ක පමණ වැඩිවීමකි.
+
+...
+
+[Data](articles/7458d279.json)
+
+---
+
+### To Afghanistan to advantage
+
+*2025-09-18 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214729) · `si`
+
+Afghanistan leader Roshid Khan, who won the toss and elected to bat, winning the coin of the Asia Twenty20 tournament.
+
+The Sri Lankan team is in front of the bonus mark.
+
+According to the match, the ability to leave the tournament is limited.
+
+However, the Afghan group is in the third place in the bonus mark, they will have to leave the tournament.
+
+If so, Bangladesh will qualify for the round of the Super 4 with Sri Lanka.
+
+◼️
+
+[Data](articles/becd0345.json)
+
+[Extended Data](ext_articles/becd0345.ext.json)
+
+---
+
+### Explanation to the former Navy Intelligence Director
+
+*2025-09-18 19:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படை-புலனாய்வுப்-பணிப்பாளருக்கு-விளக்கமறியல்/175-364874) · `ta`
+
+Former Naval Intelligence Director retired Rear Admiral Sarath Mohotti has been kept in remand until September 24.
+
+He was arrested after the arrest of the Criminal Investigation Department (CIT) this morning.
+
+◼️
+
+[Data](articles/da5419ef.json)
+
+[Extended Data](ext_articles/da5419ef.ext.json)
+
+---
+
+### Dead body found in Chinese people
+
+*2025-09-18 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214728) · `si`
+
+The body of a Chinese national has been found dead in apartment complex in Dehiwala area.
+
+According to a telephone message to the Dehiwala Police Station, the body was found in the back of the house in Dehiwala Alvais Road.
+
+A group of Chinese employed in Sri Lanka has been staying in a housing complex, adjacent to this house and the person has drop from a top floor.
+
+The remains are placed at the Southern Teaching Hospital morgue and Dehiwala police are conducting further investigations.
+
+◼️
+
+[Data](articles/9652c1be.json)
+
+[Extended Data](ext_articles/9652c1be.ext.json)
+
+---
+
+### Great royal party for Trump in Britain
 
 *2025-09-18 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225456) · `ta`
 
-பிரிட்டனுக்கு அரசுமுறைப் பயணமாக சென்றிருந்த அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப்புக்கு, பக்கிங்ஹாம் அரண்மனையில் பிரித்தானிய அரச குடும்பத்தினர் பிரமாண்டமான அரச விருந்து அளித்துள்ளனர்.
+US President Donald Trump, who was on a state visit to Britain, has given a massive state party at Buckingham Palace.
 
-விருந்து ஏற்பாடு செய்யப்பட்டிருந்த மண்டபத்தில், 155 அடி நீளமுள்ள மேசை அமைக்கப்பட்டது. இந்த மேசை முழுக்க, வெள்ளிப் பாத்திரங்கள், தங்க நிறத்திலான பொருட்கள், மற்றும் மெழுகுவர்த்தி அலங்காரங்கள் இடம்பெற்றிருந்தன.
+In the hall where the banquet was organized, a 155 -foot -long desk was set up. The desk was full of silver utensils, golden materials, and candle decorations.
 
-விருந்திற்காக பிரிட்டன் இராணுவத்தின் பாதுகாப்புப் பிரிவினர், அரண்மனையின் ஊழியர்கள் என நூற்றுக்கணக்கானோர் பணியாற்றியதாகக் கூறப்படுகிறது.
+It is said that hundreds of British military security forces and employees of the Palace were said to have served for the party.
 
-ஜனாதிபதி ட்ரம்ப்புக்கு அளிக்கப்பட்ட இந்த வரவேற்பு, அமெரிக்கா - பிரிட்டன் இடையிலான வலுவான உறவை மீண்டும் உறுதிப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+The reception, which was given to President Trump, has re -confirmed the strong relationship between the US and Britain.
 
 ◼️
 
 [Data](articles/4df070b4.json)
+
+[Extended Data](ext_articles/4df070b4.ext.json)
 
 ---
 
@@ -89,6 +175,8 @@ The main conference was held today (18) at Cinnamon Life under the patronage of 
 ...
 
 [Data](articles/818bc608.json)
+
+[Extended Data](ext_articles/818bc608.ext.json)
 
 ---
 
@@ -254,6 +342,8 @@ Meanwhile, the Disaster Management Center (DMC) said that there is NO tsunami ri
 
 [Data](articles/77adac91.json)
 
+[Extended Data](ext_articles/77adac91.ext.json)
+
 ---
 
 ### Pre Budget discussions with manufacturers in drugs, veterinary medicines, Ayurvedic and Beauty sectors
@@ -367,6 +457,8 @@ Subsequently, the Magistrate ordered that the suspect to be remanded in connecti
 ◼️
 
 [Data](articles/afc12c06.json)
+
+[Extended Data](ext_articles/afc12c06.ext.json)
 
 ---
 
@@ -586,6 +678,8 @@ The initiative successfully introduced several programs, including organic ferti
 
 [Data](articles/39be4bd8.json)
 
+[Extended Data](ext_articles/39be4bd8.ext.json)
+
 ---
 
 ### There is no recording of the jeep camera system that confronts the fall bus collide
@@ -777,6 +871,24 @@ Hemasiri Fernando and Pujith Jayasundara sentenced the two accused of the three-
 [Data](articles/629dc6c3.json)
 
 [Extended Data](ext_articles/629dc6c3.ext.json)
+
+---
+
+### Members of the Electricity Reforms discussion
+
+*2025-09-18 15:08:17* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බලයේ-ප්‍රතිසංස්කරණ-ගැන-IMF-මන්ත්‍රීවරු-සාකච්ඡාවක/11-418585) · `si`
+
+It pointed out that it is essential as the policy of policymakers and experts, highlighting the emergency and cost fee of policy makers, highlighting the emergency and cost fee for a transparency of electricity in Sri Lanka.
+
+These comments were made in a discussion with the International Monetary Fund (IMF) staff staff to review the electricity tariffing (IMF compulsive fund) (EEF) program.. The joint meeting was held as a pre-action committee, the Public Finance Committee, Infrastructure Committee, the Public Finance Committee, Infrastructure and Strategic Development of the Public Finance Committee.
+
+Hon. Sagith Premadasa, Chairman of the Public Financial Committee (Dr.), Hon. (Attorney) Ajith P Perera, Dilithi Jayaweera, Chandima Hettiarachchi, Ministry of Finance, Sri Lanka Electricity Board (PUCSL) and other relevant stakeholders (PUCSL) and other relevant stakeholders were also present.
+
+...
+
+[Data](articles/2e0a727d.json)
+
+[Extended Data](ext_articles/2e0a727d.ext.json)
 
 ---
 
@@ -1975,105 +2087,5 @@ He was arrested in relation to a shooting incident involving the vehicle of Hall
 [Data](articles/43d05156.json)
 
 [Extended Data](ext_articles/43d05156.ext.json)
-
----
-
-### 3 boys safely recovered
-
-*2025-09-18 10:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுவர்களும்-பாதுகாப்பாக-மீட்பு/175-364831) · `ta`
-
-Three boys who went missing in Kalkissa yesterday were safely rescued, police said.
-
-Officers from the Police Life Division have reportedly rescued the children who were trapped in the sea stream.
-
-Investigations have revealed that all the rescued boys were 16 years old and are from Wellampitiya, Kuttakurukkur and Hoganda.
-
-Police warned the public to avoid bathing in the sea. Remble
-
-◼️
-
-[Data](articles/b2a521be.json)
-
-[Extended Data](ext_articles/b2a521be.ext.json)
-
----
-
-### Sri Lanka is ranked 97th in the World Passport rankings
-
-*2025-09-18 10:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகக்-கடவுச்சீட்டு-தரவரிசையில்-இலங்கை-97வது-இடத்தில்/175-364830) · `ta`
-
-Sri Lanka's passport fell in the Global Rankings in 2025 and the Henley passport, released on September 11, was relegated to 97th place.
-
-According to the index, Sri Lanka and Iran share 97th place, thereby providing its owners a visa -free access to 41 places.. In 2024, these countries ranked 96th.
-
-The Henley Passport code, which is considered the most official passport rankings in the world, estimates 199 passports against 227 seats based on the number of countries that can be accessed without a pre -visa.
-
-◼️
-
-[Data](articles/3d88678f.json)
-
-[Extended Data](ext_articles/3d88678f.ext.json)
-
----
-
-### "Do you know the father of a baby who grows up in my belly?"
-
-*2025-09-18 10:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்-வயிற்றில்-வளரும்-குழந்தைக்கு-தந்தை-யார்-தெரியுமா/175-364829) · `ta`
-
-"The child who grows in the stomach should be responsible for the father of Madhampatti Rangaraj," said Joy Girisilda, the famous clothing designer.
-
-Joy Girisilda, the 2nd wife of famous culinary artist Madhapatti Rangaraj, met with reporters at the Madras High Court on Wednesday.
-
-Speaking at the time, he said, “Madhampatti Rangaraj, who provides food for famous food and auspicious events, has summoned me and my child.. Madhampatti Rangaraj is the reason for the baby that grows in my stomach. It must be given the right.
-
-Madhampatti Rangaraj has lodged a complaint at the Chennai Municipal Police Commissioner's Office and no action has been taken yet. They are distracted by various police stations and call me. The child who grows up in my stomach needs justice. Madhampatti Rangaraj is the father of my child as the father, ”Joy Girisilda said.
-
-◼️
-
-[Data](articles/4a6bb4e1.json)
-
-[Extended Data](ext_articles/4a6bb4e1.ext.json)
-
----
-
-### Logic by the issue of archeology
-
-*2025-09-18 10:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்லியல்-திணைக்கள-விவகாரத்தால்-தர்க்கம்/175-364828) · `ta`
-
-A serious debate was held at the Divisional Coordinating Committee at the Divisional Coordinating Committee between Thiagarajah Niros, Chairman of the Valikamam East Pradeshiya Sabha and Divisional Coordinating Committee Chairman and Government Parliamentarian, Rajeevan Jayachandraramurthy.
-
-Following the debate, it was decided at the Divisional Development Committee that the Department of Archeology should be departed from Nilavara and hand it over to the Pradeshiya Sabha.
-
-In this regard, the Valikamam East Regional Development Committee meeting was held on Tuesday (16) at the Divisional Secretariat.
-
-At this meeting, the Nilavarai area was a tourist attraction. It was pointed out by the Divine that the intervention of the Archaeological Department in the area could not improve.
-
-...
-
-[Data](articles/93a9029b.json)
-
-[Extended Data](ext_articles/93a9029b.ext.json)
-
----
-
-### Body found in canal in Tissamaharama – Friend arrested over suspected murder
-
-*2025-09-18 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112639/body-found-in-canal-in-tissamaharama-friend-arrested-over-suspected-murder) · `en`
-
-A body of a male has been discovered in a canal located in the Sandungama, within the Tissamaharama Police Division.
-
-Investigations were launched last evening (17) following information received by the Tissamaharama Police.
-
-The deceased has been identified as a 45-year-old resident of Tissamaharama.
-
-Preliminary investigations have revealed that the victim was allegedly assaulted with a bottle and drowned in the canal by a friend, following a personal dispute between the two.
-
-A 24-year-old suspect, believed to be the friend involved in the altercation, has been taken into custody.
-
-◼️
-
-[Data](articles/4b1c3551.json)
-
-[Extended Data](ext_articles/4b1c3551.ext.json)
 
 ---

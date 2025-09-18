@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 15:38:31**
+As of **2025-09-18 14:56:03**
 
 ## Newspaper Stats
 
-*Scraped **76,737** Articles*
+*Scraped **76,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,201 +16,21 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,458
-adaderanalk | 9,907
-tamilmirrorlk | 11,525
+adalk | 7,456
+adaderanalk | 9,905
+tamilmirrorlk | 11,521
 virakesarilk | 12,484
-adaderanasinhalalk | 13,381
+adaderanasinhalalk | 13,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,475 (97.1%) of 76,737 articles have been extended.
+74,436 (97.0%) of 76,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### களுவாஞ்சிகுடி தபால் அலுவலகத்தின் புதிய கட்டிடத்திற்கு அடிக்கல்  நாட்டல்
-
-*2025-09-18 15:16:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுவாஞ்சிகுடி-தபால்-அலுவலகத்தின்-புதிய-கட்டிடத்திற்கு-அடிக்கல்-நாட்டல்/175-364857) · `ta`
-
-மட்டக்களப்பு மாவட்டத்தின் களுவாஞ்சிகுடி தபால் காரியாலயம் கடந்த யுத்த காலத்தில் இருந்து முற்றாக பாதிப்புற்ற நிலையில் பழுதடைந்து காணப்படுகின்றது.
-
-இதை புனர்நிர்மாணம் செய்து மக்கள் பாவனைக்கு விட வேண்டும் என அப்பகுதி பொதுமக்கள் மிக நீண்டகாலமாக வேண்டுகோள் விடுத்து வந்திருந்தனர். இந்த நிலையில் வியாழக்கிழமை (18) அன்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ பிரதம அதிதியாக கலந்து கொண்டு அடிக்கல்லை நாட்டி வைத்தார்.
-
-29.5 மில்லியன் ரூபா நிதி ஒதுக்கீட்டில் களுவாஞ்சிகுடி தபால் காரியாலயம் புதிதாக நிர்மாணிக்கப்படவுள்ளது. இக் காரியாலயம் நீண்டகாலமாக பழுதடைந்துள்ளதால் களுவாஞ்சிகுடி தபாலக நடவடிக்கைகள் வாடகை கட்டடத்திலேயே தற்போது வரைக்கும் இயங்கி வருகின்றது.
-
-இதன் போது பாராளுமன்றஉறுப்பினர் கந்தசாமி பிரபு, கிழக்கு மாகாண ஆளுநர் பேராசிரியர் ஜெந்தலால்ரத்னசேகரன்,  மண்முனை தென் எருவில் பற்று பிரதேச செயலாளர் உ.உதயசிறிதர்,  பிரதி அஞ்சல் மா அதிபர் உசித்த உலங்கமே, கிழக்கு மாகாண தபால்மா அதிபர் சி.பிரகாஷ், மற்றும், அரச உயர் அதிகாரிகள், தபால் திணைக்கள அதிகாரிகள்,உள்ளிட்ட பலரும் கலந்து கொண்டிருந்தனர்.
-
-◼️
-
-[Data](articles/aad452a4.json)
-
----
-
-### හේමසිරි හා පූජිත්ට එරෙහි නඩුව සම්බන්ධයෙන්  නීතිපතිවරයාගෙන් දැනුම්දීමක්
-
-*2025-09-18 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214714) · `si`
-
-2019 වසරේ පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයක් එල්ලවීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම තුළින් සාපරාදී ලෙස රාජකාරිය පැහැර හැරීම ඇතුළු චෝදනා එල්ල වී සිටින හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු සහ හිටපු පොලිස්පති පූජිත් ජයසුන්දර යන අයට එරෙහිව ගොනුකර තිබෙන නඩුව විභාග කිරීම සඳහා නව ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් නම් කරන ලෙස  අගවිනිසුරුවරයා වෙත ඉල්ලීමක් ඉදිරිපත් කර ඇතැයි නීතිපතිවරයා අද කොළඹ මහාධිකරණයට දැනුම් දුන්නේය.
-
-මෙම නඩුව අද (18) කොළඹ පූර්වගාමී මහාධිකරණ විනිසුරු මොහොමඩ් ඉර්ෂඩීන් මහතා ඉදිරියේ කැදවනු ලැබීය.
-
-එම අවස්ථාවේදී විනිසුරුවරයා සඳහන් කළේ මෙම ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරුවරු දෙදෙනකුගේ තනතුරු පුරප්පාඩු වී තිබෙන බවය.
-
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් දිලීප පීරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුව විභාග කිරීම සඳහා නව ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් නම් කරන ලෙස නීතිපතිවරයා විසින් ඉකුත් අගෝස්තු මස 18 වනදා අගවිනිසුරුවරයා වෙත ලිඛිතව ඉල්ලීමක් ඉදිරිපත් කළ බවය.
-
-...
-
-[Data](articles/629dc6c3.json)
-
----
-
-### Salt Report from Puttala
-
-*2025-09-18 15:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்திலிருந்து-உப்பு-அறிக்கை-வெளியீடு/175-364856) · `ta`
-
-Five years later, due to the prevailing dry weather, Puttalam has received a record -level salt harvest.
-
-Puttalam salt manufacturers said that this amount of salt was received after five years.
-
-Salt farmers say that there is currently enough salt production to exceed one lakh metric tons.
-
-Due to heavy rains over the past few years, Puttalam has completely banned salt production, the salt field has been submerged and the industry is frozen.
-
-For that reason, the government has taken steps to import salt consumers from the state of Gujarat, India.. Sri Lanka's total salt requirement, approaching one million eighty thousand metric tank. Salt farmers said this is the amount of food and other ingredients.
-
-◼️
-
-[Data](articles/d2e4cefd.json)
-
-[Extended Data](ext_articles/d2e4cefd.ext.json)
-
----
-
-### "The virgin is not a girl who is not: the smell in the organ"
-
-*2025-09-18 14:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கன்னி-கழியாத-பொண்ணு-தான்-வேணும்-அந்த-உறுப்பில்-வாசனை-வரனும்/175-364855) · `ta`
-
-Based on the true incident, we have shared the pain of a doctor here in the form of a story. Names have been changed for the benefit of those involved.
-
-At the center of the city, at a thrilling hospital, Dr. Chandrasekhar (name changed) was sitting in his room and flipping a patient's file with heavy thoughts in mind. On his desk, the list of young couples who came for medical examination before the wedding stretched out.
-
-It has grown in urban areas as a new culture. But the questions and expectations behind the experiment made him mentally relaxed.
-
-Both are under the age of thirty, in modern dresses, those who came to make sure that "everything is right" before their marriage. Arjun, a software engineer, sits smiling, but a tension in his eyes.
-
-Lata, a bank manager, was watching something on her mobile.. Everything, "Arjun began reluctantly.
-
-Chandrasekhar smiled and said, "Of course, the exam itself. But do you have any specific concerns? ”He asked.
-
-...
-
-[Data](articles/b0f75117.json)
-
-[Extended Data](ext_articles/b0f75117.ext.json)
-
----
-
-### Dambulla management yard constructed at a cost of Rs. 650 million
-
-*2025-09-18 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214713) · `si`
-
-Dambulla refuse management project is completely dwelling in the island's awards.
-
-The garbage management version has to be released into all the areas of several districts due to stopping this garbage management version.
-
-Dambulla People says that the wildlife including Wildlife has been route to eat garbage.
-
-Due to the delegated Calendar, which was removed from the Dambulla town, was also caused by the destruction of wildlife destroy and wildlife.
-
-The Dambulla Municipal Council intervened with the protests that raise environmentalists through the media.
-
-This has successfully implemented many programs such as organic fertilizer production, hospital waste, polythene heat and carcasses.
-
-It was also monitored by the 'Planda Arana' and many local and foreign vehicles.
-
-However, all these activities have been completely stayed and all the garbage is being brought back to the Erampathe Reserve.
-
-...
-
-[Data](articles/f230a80b.json)
-
-[Extended Data](ext_articles/f230a80b.ext.json)
-
----
-
-### Four people arrested with 145 fake currency notes of Rs 5,000
-
-*2025-09-18 14:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-5-000-போலி-நாணயத்தாள்கள்-145-உடன்-நால்வர்-கைது/175-364854) · `ta`
-
-Habarana police said that four suspects were arrested with a hundred forty -five sheets of fake currency and several laptops, computers and other equipment used to print them in the Madhavachi area of ​​Anuradhapura.
-
-Based on information received by the police on the circulation of 5,000 rupee rupees in the Habarana area, the suspects were arrested in connection with the suspects.
-
-Preliminary inquiries have revealed that the suspects had printed fake currency notes in the Madhavachi area and had come to the Habarana area and that the scam had been going on for a long time.
-
-◼️
-
-[Data](articles/0cb9433e.json)
-
-[Extended Data](ext_articles/0cb9433e.ext.json)
-
----
-
-### Sri Lanka’s overseas missions directed to identify new export markets, attract sustainable foreign investments
-
-*2025-09-18 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112648/sri-lankas-overseas-missions-directed-to-identify-new-export-markets-attract-sustainable-foreign-investments) · `en`
-
-Minister of Foreign Affairs, Vijitha Herath, along with the Minister of Industry, Sunil Handunneththi, and Minister of Trade, Wasantha Samarasinghe, launched an integrated mechanism to enhance collaboration between Sri Lanka’s overseas Missions and national institutions.
-
-Joined by Ministry Secretaries and agency heads, the initiative aimed to revitalize the country’s trade and investment agenda through coordinated efforts. The session on 16 September, attended by all Heads of Mission and Post, served as a platform to share key policy directives, practical proposals, and focused ideas, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-...
-
-[Data](articles/04df1dd2.json)
-
-[Extended Data](ext_articles/04df1dd2.ext.json)
-
----
-
-### Businessman arrested for selling foreign cigarettes to schoolchildren
-
-*2025-09-18 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112647/businessman-arrested-for-selling-foreign-cigarettes-to-schoolchildren) · `en`
-
-A businessman has been arrested by the police on suspicion of selling illegally imported cigarettes to schoolchildren in the Thanamalwila area.
-
-It has been revealed that the suspect had provided these cigarettes of various flavors to a school student to sell to fellow students, Ada Derana reporter said.
-
-Investigations revealed that the suspect had supplied the illegal foreign cigarettes to the student, instructing to sell the cigarettes.  The cigarettes, purchased from the businessman at Rs. 100 per stick, were resold by the student at a price of Rs. 200 at the school premises, police said.
-
-After a student of the same school had informed the principal, the student selling the cigarettes was brought in and searched, where two foreign cigarettes were found in the student’s possession.
-
-...
-
-[Data](articles/950f182a.json)
-
-[Extended Data](ext_articles/950f182a.ext.json)
-
----
-
-### Baco Saman's wife further remanded
-
-*2025-09-18 14:10:02* · [`adalk`](https://www.ada.lk/breaking_news/බැකෝ-සමන්ගේ-බිරිඳ-යළි-රිමාන්ඩ්/11-418582) · `si`
-
-The wife of the Baco Saman, who was arrested in Indonesia and remanded, remanded until the 25th of the Money Laundering.
-
-Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Criminal Investigation and the Commander's lawyers.
-
-◼️
-
-[Data](articles/347c0af5.json)
-
-[Extended Data](ext_articles/347c0af5.ext.json)
-
----
 
 ### Ambulaurses are in danger
 
@@ -283,28 +103,6 @@ Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Ga
 [Data](articles/135b9918.json)
 
 [Extended Data](ext_articles/135b9918.ext.json)
-
----
-
-### Elephant fleeing garbage on Dambulla, Dambulla, a white elephant
-
-*2025-09-18 13:30:35* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අලියෙක්-වී-ඇති-දඹුල්ලේ-කසළ-ව්‍යාපෘතියේ-කුණු-කන්න-වන-අලි-එයි/11-418578) · `si`
-
-The people of Dambulla polls that wildlife will eaten all the elephants of elephants in a large number of garbage to win the Award Damaged Temple Management Project.
-
-Cali collaps will be eradicated to the Government reserves and brought to the Government Reserve.
-
-The Dambulla Municipal Council was conducted by the Dambulla Municipal Council with continuous protests through the media.
-
-The production of organic fertilizer production has been successfully implemented in the name of hospital waste and polythefament, and the Pure Anna is the monitoring of many.
-
-Even the electricity vehicles operated by the elephants were named as a tourist zone. All construction garbage management in the aforesaid Clean Araka and the production of organic fertilizer is now being completely collected and all the garbage collected and brought to the Central and Reserve.
-
-...
-
-[Data](articles/00ea9317.json)
-
-[Extended Data](ext_articles/00ea9317.ext.json)
 
 ---
 
@@ -2031,5 +1829,197 @@ Vehicle importers noted that the sector has expanded due to recent Government de
 [Data](articles/a232cd4f.json)
 
 [Extended Data](ext_articles/a232cd4f.ext.json)
+
+---
+
+### UNP buries hatchet with breakaway SJB members
+
+*2025-09-18 04:57:06* · [`dailyftlk`](https://www.ft.lk/news/UNP-buries-hatchet-with-breakaway-SJB-members/56-781857) · `en`
+
+The United National Party (UNP) Working Committee, chaired by party Leader and ex-President Ranil Wickremesinghe, yesterday agreed to revoke all disciplinary measures imposed on members who had joined the Samagi Jana Balawegaya (SJB) led by Sajith Premadasa.
+
+The decision was made at a Working Committee meeting held on Tuesday evening (16) at the Sirikotha headquarters in Pitakotte.
+
+A committee headed by former Attorney General and President’s Counsel Tilak Marapana was also appointed to examine possible legal implications arising from the move.
+
+UNP Chairman Vajira Abeywardena said the decision removes obstacles that had prevented members who crossed over to the SJB from reuniting with the UNP and working with the party.
+
+The Working Committee further passed a resolution, unanimously, extending gratitude to all parties that had supported collective political efforts since the arrest of ex-President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/50af3112.json)
+
+[Extended Data](ext_articles/50af3112.ext.json)
+
+---
+
+### Sampath Manamperi surrenders to Court
+
+*2025-09-18 04:53:18* · [`dailyftlk`](https://www.ft.lk/news/Sampath-Manamperi-surrenders-to-Court/56-781856) · `en`
+
+Sampath Manamperi, wanted in connection with the discovery of two containers of chemicals suspected to be used in the manufacture of crystal methamphetamine (Ice) in the Middeniya area, surrendered to the Walasmulla Magistrate’s Court yesterday.
+
+The containers, allegedly linked to underworld figure Kehelbaddara Padme, were said to contain raw materials used in the production of the drug. Manamperi’s attorney had earlier informed the Court of Appeal that his client was prepared to appear before the relevant Magistrate’s Court.
+
+Following this submission, the Court of Appeal directed the Inspector General of Police to ensure the suspect’s safety upon surrender, with investigating officers instructed to comply with the order.
+
+◼️
+
+[Data](articles/dc810eba.json)
+
+[Extended Data](ext_articles/dc810eba.ext.json)
+
+---
+
+### Alumex: Four decades of aluminium excellence, innovation and sustainability
+
+*2025-09-18 04:23:28* · [`dailyftlk`](https://www.ft.lk/business/Alumex-Four-decades-of-aluminium-excellence-innovation-and-sustainability/34-781849) · `en`
+
+For nearly 40 years, Alumex PLC has been a cornerstone of Sri Lanka’s aluminium industry. Established in 1988, the company has transformed from a modest joint venture into the undisputed market leader and a growing regional player. Its journey has been marked by resilience, innovation, and a relentless focus on quality and sustainability. Today, Alumex is not only Sri Lanka’s leading aluminium extruder but also a trusted solutions provider and training hub, committed to empowering customers and strengthening the technical workforce.
+
+In an exclusive interview, Alumex PLC’s Managing Director Pramuk Dediwela reflects on the company’s legacy, its contribution to the nation, and the path ahead.
+
+Q: Alumex has grown to become the market leader in the Aluminium industry in Sri Lanka. Could you take us through its journey from the start upto today?
+
+...
+
+[Data](articles/fc519dc8.json)
+
+[Extended Data](ext_articles/fc519dc8.ext.json)
+
+---
+
+### Delmege celebrates 175 years of innovation, trust, and service to nation
+
+*2025-09-18 03:57:30* · [`dailyftlk`](https://www.ft.lk/business/Delmege-celebrates-175-years-of-innovation-trust-and-service-to-nation/34-781848) · `en`
+
+From left: Delmege Forsyth Director Amrith Adhihetty, Vallibel One MD Dinusha Bhaskaran, and Delmege Group CFO Pubudu De Alwis
+
+Delmege, one of Sri Lanka’s most enduring and diversified conglomerates marks its 175th year in business. Since its founding in 1850, Delmege has grown from its trading roots into a multi-sector powerhouse, delivering trusted and meaningful products and services that touch almost every aspect of daily life.
+
+From consumer goods to interiors, healthcare to shipping, insurance to travel, Delmege has become synonymous with resilience, innovation, and quality service across generations.
+
+Maintaining an entrepreneurial thrust, the company has ventured into representing many reputable global brands along with its own, ever increasing Delmege brands and a slew of wide-ranging services.
+
+...
+
+[Data](articles/ef8f1b47.json)
+
+[Extended Data](ext_articles/ef8f1b47.ext.json)
+
+---
+
+### IFPRI and ICAR convene South Asia Dialogue on food policy
+
+*2025-09-18 03:53:54* · [`dailyftlk`](https://www.ft.lk/news/IFPRI-and-ICAR-convene-South-Asia-Dialogue-on-food-policy/56-781847) · `en`
+
+Economic Advisory Council to the Prime Minister of India Chairman Prof. Mahendra Dev
+
+Food systems lie at the heart of sustainable development. They influence how people produce, access, and consume food and are intricately tied to livelihoods, public health, natural ecosystems, and economic growth. For South Asia, where a large share of the population remains dependent on agriculture and food-related services, strengthening food systems is both a developmental and strategic priority.
+
+Against this backdrop, the International Food Policy Research Institute (IFPRI), in partnership with the Indian Council of Agricultural Research (ICAR), convened a high-level regional policy dialogue, “Food Policy for a Changing World: Lessons and Priorities for South Asia,” on 16 September, in New Delhi. The event also marked the South Asia launch of IFPRI’s 2025 Global Food Policy Report (GFPR).
+
+...
+
+[Data](articles/a657f791.json)
+
+[Extended Data](ext_articles/a657f791.ext.json)
+
+---
+
+### Sri Lanka ratifies UN high seas biodiversity pact
+
+*2025-09-18 03:49:53* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-ratifies-UN-high-seas-biodiversity-pact/56-781846) · `en`
+
+Has opportunity to benefit from marine resources beyond national jurisdiction
+
+The Foreign Affairs Ministry said yesterday that Sri Lanka deposited its Instrument of Ratification for the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) with the United Nations on Tuesday formally becoming a State Party to the convention. The ratification of the BBNJ Agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry said.
+
+Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
+
+Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
+
+...
+
+[Data](articles/43f18131.json)
+
+[Extended Data](ext_articles/43f18131.ext.json)
+
+---
+
+### Sri Lanka with EU and UNICEF launch model service for child victims of violence
+
+*2025-09-18 03:48:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-with-EU-and-UNICEF-launch-model-service-for-child-victims-of-violence/56-781845) · `en`
+
+Milestone initiative marks a turning point in protecting child victims who come in contact with the law and protection systems
+
+The Justice and National Integration Ministry and the Women and Child Affairs Ministry, with support from the EU through the United Nations Children's Fund (UNICEF), yesterday launched a groundbreaking initiative to support children who have experienced violence.
+
+The new model service will ensure fast, child-sensitive support to child victims of violence; from the point when the case is reported to police, helplines or others, until the child is linked with sustained care and protection mechanisms.
+
+...
+
+[Data](articles/45b61f7e.json)
+
+[Extended Data](ext_articles/45b61f7e.ext.json)
+
+---
+
+### SL deepens trade ties in Sichuan
+
+*2025-09-18 03:47:26* · [`dailyftlk`](https://www.ft.lk/news/SL-deepens-trade-ties-in-Sichuan/56-781844) · `en`
+
+Deputy Minister’s visit opens new doors for trade and investment
+
+Sri Lanka is stepping up efforts to carve a stronger foothold in the Chinese market, with Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe completing a four-day official visit to Sichuan Province focused on boosting trade, investment, and forging foreign direct institutional partnerships.
+
+He was invited by the China Council for the Promotion of International Trade (CCPIT).
+
+During his visit, the Deputy Minister addressed the South Asia & Southeast Asia Business Development Cooperation Conference and delivered a keynote presentation at the Sri Lanka Economic and Trade Matchmaking Conference – a high-level State-business dialogue. His remarks highlighted Sri Lanka’s potential as an investment destination and emphasised opportunities for strengthening trade partnerships.
+
+...
+
+[Data](articles/c9325f54.json)
+
+[Extended Data](ext_articles/c9325f54.ext.json)
+
+---
+
+### Focus Brands’ Ray Evans joins Hela Apparel Holdings Board
+
+*2025-09-18 03:22:59* · [`dailyftlk`](https://www.ft.lk/news/Focus-Brands-Ray-Evans-joins-Hela-Apparel-Holdings-Board/56-781833) · `en`
+
+Hela Apparel Holdings PLC has appointed UK’s Focus Brands Ltd. CEO Ray Evans to its Board as Executive Director.
+
+The appointment was made on the resignation of Non-Executive Director Dr. Alastair James Alderton.
+
+The company said that Evans’ appointment was part of an initiative aimed at strengthening the integration between the Private Label Manufacturing Division (PLMD) and the Brand Licensing Division (BLD) of the group.
+
+Specialising in performance clothing and brand licensing, Evans has over 30 years’ experience in sourcing sports apparel and building brands to drive market growth and revenues.
+
+Leveraging his entrepreneurial capabilities, negotiation skills and ability to influence international stakeholders, he has built ventures that have enabled the successful licensing of sports and performance clothing brands to production locations worldwide.
+
+...
+
+[Data](articles/669d81b2.json)
+
+[Extended Data](ext_articles/669d81b2.ext.json)
+
+---
+
+### Phoenix products feature at Saudi INDEX Expo – 2025 in Riyadh
+
+*2025-09-18 03:20:15* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-products-feature-at-Saudi-INDEX-Expo-2025-in-Riyadh/34-781832) · `en`
+
+Sri Lanka’s reputed Phoenix company products were featured at the INDEX Saudi Arabia Expo 2025 held from 09 to 11 September 2025 at Front Exhibition and Conference Centre in Riyadh. Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad officially opened the Phoenix pavilion at the Expo. During the occasion, Ambassador pointed out that such international trade fairs provide valuable opportunities for Sri Lankan companies to showcase their export products at the global stage and encouraged Sri Lankan enterprises to actively leverage such platforms and build strong business partnerships.
+
+INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out trade event, bringing together global and regional brands to present the latest innovations and trends shaping Saudi Arabia’s thriving design sector. The exhibition serves as a gateway for connecting with thousands of active buyers and decision-makers.
+
+...
+
+[Data](articles/f79dd8f2.json)
+
+[Extended Data](ext_articles/f79dd8f2.ext.json)
 
 ---

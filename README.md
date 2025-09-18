@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 04:54:01**
+As of **2025-09-18 07:05:19**
 
 ## Newspaper Stats
 
-*Scraped **76,613** Articles*
+*Scraped **76,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,177 @@ newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,637
-islandlk | 4,703
+economynextcom | 4,638
+islandlk | 4,715
 dailymirrorlk | 4,733
-dailyftlk | 5,445
+dailyftlk | 5,450
 adalk | 7,444
 adaderanalk | 9,886
-tamilmirrorlk | 11,493
-virakesarilk | 12,464
-adaderanasinhalalk | 13,363
+tamilmirrorlk | 11,494
+virakesarilk | 12,471
+adaderanasinhalalk | 13,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,989 (96.6%) of 76,613 articles have been extended.
+74,060 (96.6%) of 76,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
+
+### France starting talks with Sri Lanka to start projects after default ends
+
+*2025-09-18 06:30:00* · [`economynextcom`](https://economynext.com/france-starting-talks-with-sri-lanka-to-start-projects-after-default-ends-240956/) · `en`
+
+ECONOMYNEXT – Talks are starting on resuming stalled projects and starting fresh ones, on the policy priorities of Sri Lanka’s new government, a top official of the French devel agency, Agence Française de Développement (AFD) said.
+
+Sri Lanka had 426 million dollars of bilateral loans from France of which 138 million dollars were in arrears as of March 2025 and as well as unpaid interest.
+
+A June debt bulletin said it was turned into 478 million dollars of loans.
+
+The restructuring agreements between France and Sri Lanka were signed in August.
+
+“So, the discussions of where we are heading to is now starting, with the Sri Lankan government on two sides,” Cyrille Bellier, Head of the Department Europe, Middle East and Asia told reporters in Paris.
+
+“How we can re-engage the projects that have been stopped and for which the Sri Lankan government decided that they were still a priority.”
+
+Projects which are no longer a priority can be cancelled he said.
+
+...
+
+[Data](articles/114f28df.json)
+
+---
+
+### காசா மக்களை வெளியேறுமாறு இஸ்ரேல் அறிவிப்பு
+
+*2025-09-18 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மக்களை-வெளியேறுமாறு-இஸ்ரேல்-அறிவிப்பு/50-364812) · `ta`
+
+காசா மீது, இராணுவ நடவடிக்கைகளை தீவிரப்படுத்தியுள்ள இஸ்ரேல், அங்கு வசிக்கும் மக்களை உடனடியாக வெளியேற வேண்டுமென உத்தரவிட்டுள்ளது.
+
+காசா முழுவதும் நேற்று முன்தினம் (16) முதல்  தீவிர வான்வழி மற்றும் தரைவழி தாக்குதல்களை இஸ்ரேல் மேற்கொண்டு வருகிறது.
+
+இந்நிலையில், பலஸ்தீனிய மக்கள் வெளியேறுவதற்கு மேலும் 48 மணி நேரம் வீதியை திறந்துவிடுவதாக இஸ்ரேல் இராணுவம் நேற்று (17) அறிவித்தது.  (a)
+
+◼️
+
+[Data](articles/ed386926.json)
+
+---
+
+### අදත් හවසට තද වැසි
+
+*2025-09-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214692) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, උතුරු සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව සහ උතුරු පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+සෙසු ප්‍රදේශවල ප.ව. 1.00න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/313cd568.json)
+
+---
+
+### Kohuwala and Getambe flyover projects to resume
+
+*2025-09-18 05:02:05* · [`dailyftlk`](https://www.ft.lk/news/Kohuwala-and-Getambe-flyover-projects-to-resume/56-781860) · `en`
+
+The Government has given its green light to fast-track the outstanding construction work on the Kohuwala flyover in Colombo and to resume the stalled construction of the Getambe flyover in Kandy.
+
+The move follows the Cabinet of Ministers on Monday approving the new proposal, presented by Transport and Highways Minister Bimal Rathnayake, to complete the remaining ground-level road construction at Kohuwala, which will be carried out using local funds through the existing contractor, while work on the Getambe flyover will also resume.
+
+Both projects were initiated under a financial cooperation framework agreement between Sri Lanka and the Hungarian Government. However, the provision of funds by the Hungarian Export-Import Bank was terminated during the height of Sri Lanka’s economic crisis, leading to major setbacks.
+
+...
+
+[Data](articles/9a8b6f4c.json)
+
+[Extended Data](ext_articles/9a8b6f4c.ext.json)
+
+---
+
+### Oversight committee clears new Bill to give building research body more teeth
+
+*2025-09-18 05:00:04* · [`dailyftlk`](https://www.ft.lk/news/Oversight-committee-clears-new-Bill-to-give-building-research-body-more-teeth/56-781859) · `en`
+
+The Parliament Secretariat yesterday said that the Sectoral Oversight Committee on Governance, Justice and Civil Protection has approved the National Building Research Institute Bill, which will be taken up for its second reading in Parliament on 23 September.
+
+Although the National Building Research Organisation (NBRO) has operated since 1984, it has not been established by an Act of Parliament. The proposed Bill seeks to provide the organisation with legal status so it can properly discharge its duties and responsibilities. Officials told the Committee that once the legislation is enacted, legal action could be taken against local authorities that fail to follow its recommendations, especially with regard to landslides.
+
+The Committee also reviewed the 2022 and 2023 Annual Reports of the NBRO and the 2023 and 2024 Performance Reports of the Defence Ministry.
+
+...
+
+[Data](articles/c870d4d6.json)
+
+[Extended Data](ext_articles/c870d4d6.ext.json)
+
+---
+
+### Govt. hosts automobile, electronic equipment importers for pre-Budget discussion
+
+*2025-09-18 04:58:00* · [`dailyftlk`](https://www.ft.lk/news/Govt-hosts-automobile-electronic-equipment-importers-for-pre-Budget-discussion/56-781858) · `en`
+
+A pre-Budget discussion on the automobile and electronic equipment industries was held on Tuesday at the Presidential Secretariat, chaired by Labour Minister and Economic Development Deputy Minister Dr. Anil Jayantha Fernando.
+
+Importers of automobiles and electronic equipment expressed their full support for the Government’s economic development program, led by President Anura Kumara Disanayake.
+
+Vehicle importers noted that the sector has expanded due to recent Government decisions regarding vehicle imports and they presented several productive proposals for consideration in the upcoming Budget.
+
+...
+
+[Data](articles/a232cd4f.json)
+
+[Extended Data](ext_articles/a232cd4f.ext.json)
+
+---
+
+### UNP buries hatchet with breakaway SJB members
+
+*2025-09-18 04:57:06* · [`dailyftlk`](https://www.ft.lk/news/UNP-buries-hatchet-with-breakaway-SJB-members/56-781857) · `en`
+
+The United National Party (UNP) Working Committee, chaired by party Leader and ex-President Ranil Wickremesinghe, yesterday agreed to revoke all disciplinary measures imposed on members who had joined the Samagi Jana Balawegaya (SJB) led by Sajith Premadasa.
+
+The decision was made at a Working Committee meeting held on Tuesday evening (16) at the Sirikotha headquarters in Pitakotte.
+
+A committee headed by former Attorney General and President’s Counsel Tilak Marapana was also appointed to examine possible legal implications arising from the move.
+
+UNP Chairman Vajira Abeywardena said the decision removes obstacles that had prevented members who crossed over to the SJB from reuniting with the UNP and working with the party.
+
+The Working Committee further passed a resolution, unanimously, extending gratitude to all parties that had supported collective political efforts since the arrest of ex-President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/50af3112.json)
+
+[Extended Data](ext_articles/50af3112.ext.json)
+
+---
+
+### Sampath Manamperi surrenders to Court
+
+*2025-09-18 04:53:18* · [`dailyftlk`](https://www.ft.lk/news/Sampath-Manamperi-surrenders-to-Court/56-781856) · `en`
+
+Sampath Manamperi, wanted in connection with the discovery of two containers of chemicals suspected to be used in the manufacture of crystal methamphetamine (Ice) in the Middeniya area, surrendered to the Walasmulla Magistrate’s Court yesterday.
+
+The containers, allegedly linked to underworld figure Kehelbaddara Padme, were said to contain raw materials used in the production of the drug. Manamperi’s attorney had earlier informed the Court of Appeal that his client was prepared to appear before the relevant Magistrate’s Court.
+
+Following this submission, the Court of Appeal directed the Inspector General of Police to ensure the suspect’s safety upon surrender, with investigating officers instructed to comply with the order.
+
+◼️
+
+[Data](articles/dc810eba.json)
+
+[Extended Data](ext_articles/dc810eba.ext.json)
+
+---
 
 ### Alumex: Four decades of aluminium excellence, innovation and sustainability
 
@@ -45,6 +197,8 @@ Q: Alumex has grown to become the market leader in the Aluminium industry in Sri
 ...
 
 [Data](articles/fc519dc8.json)
+
+[Extended Data](ext_articles/fc519dc8.ext.json)
 
 ---
 
@@ -218,6 +372,24 @@ The lecture which is open to the public will be at 6.00 p.m. at the Jasmine Hall
 
 ---
 
+### A successful event of Tamil artists in Canada
+
+*2025-09-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225373) · `ta`
+
+Singer. B.. A concert was held recently in Toronto, Canada in order to restore the memories of Balasubramaniam.
+
+The ceremony was organized by D Media. Musician Travis Fernando and Tamil singers in Canada participated in the event and held in Toronto on the 13th.. The event was successfully held in cooperation with the Tamil Nadu Kalami.
+
+In addition, Canadian musician Pawan Rajkumar expressed his congratulations on the excellence.
+
+◼️
+
+[Data](articles/c5dc937d.json)
+
+[Extended Data](ext_articles/c5dc937d.ext.json)
+
+---
+
 ### Crafting legacy through collaboration and synergy
 
 *2025-09-18 03:05:20* · [`dailyftlk`](https://www.ft.lk/columns/Crafting-legacy-through-collaboration-and-synergy/4-781829) · `en`
@@ -233,6 +405,108 @@ This time, however, the story is different. Instead of claiming majority control
 [Data](articles/e841060b.json)
 
 [Extended Data](ext_articles/e841060b.ext.json)
+
+---
+
+### Thrivichakulam land grabbing and illegal deforestation; Ravikaran
+
+*2025-09-18 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225372) · `ta`
+
+Vannimavatta MP Durairasa Ravikaran has questioned the actions of the Mahaweli Authority on the issue of the Mahaweli Authority's Grama Niladhari Division.
+
+At the same time, he said that the occupation of the native farms of the Tamil people could never be allowed.
+
+In this case, a discussion with Mahaweli "L" Residence Project Manager is being organized by the majority of the Tamil people under the Trivandrum and the majority of the people of the Tamil people under the tribal area and the destiny of the majority of the people in the adjoining area.
+
+A discussion was held on Wednesday (17) between Mahaweli Authority and Member of Parliament Ravikaran regarding the Trivachakulam issue.. The matter has been talked about.
+
+The native fields of the Tamils ​​under the Trivachakulam in the Vavuniya Divisional Secretariat Division are occupied by the Mahaweli Development Authority and have been leased to the majority of the people.
+
+...
+
+[Data](articles/fcf9c006.json)
+
+[Extended Data](ext_articles/fcf9c006.ext.json)
+
+---
+
+### Electricity Board employees across the country; Demonstrators in Colombo
+
+*2025-09-18 03:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225371) · `ta`
+
+On Wednesday (17), the Ceylon Electricity Board (CEB) unions launched a sick holiday union struggle in protest of the government's decision to divide the Electricity Board into four share.
+
+At the same time, the Electricity Board employees gathered in front of the Ceylon Electricity Board and demanded that they ensure their career safety.
+
+From the 4th of this month, the Electricity Board employees have launched a trade union struggle with legal services.. The Ceylon Electricity Board (CEB) has said that the second phase of the operation has been carried out yesterday and today.. Accordingly, 21 800 employees representing the Electricity Board Trade Unions across the country participated.
+
+...
+
+[Data](articles/6cc2730a.json)
+
+[Extended Data](ext_articles/6cc2730a.ext.json)
+
+---
+
+### A man arrested for trying to extort money at gunpoint; The incident in the Kahatuduwa area
+
+*2025-09-18 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225370) · `ta`
+
+A suspect has been arrested for allegedly shooting in the Kahaduduwa Millagahawatta area.
+
+A woman has been admitted to the hospital after being injured after being shot dead by the suspect, police said.
+
+A person has threatened to shoot the residents of the area on Wednesday (17) in the Kirivathuduwa Millagahawatta area under the Kahaduduwa Police Division.  A woman who was shot dead in the incident was admitted to the hospital with injuries. A woman from Millagahawatta, aged 49, was injured. Police have also arrested him and threatened to arrest the suspect.
+
+Investigations revealed that the suspect had been forcibly supposed to get the money for the purchase of liquor and was arrested by the police and detained by the police.. Kahauduwa police are conducting further investigations into the 32 -year -old suspect.
+
+◼️
+
+[Data](articles/4a0e490d.json)
+
+[Extended Data](ext_articles/4a0e490d.ext.json)
+
+---
+
+### Leading to use martyr for awkward politics - Ilangumaran MP accuses!
+
+*2025-09-18 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225369) · `ta`
+
+Parliamentarian Karunanathan Ilangumaran has questioned when the action of the election politics of the election politics will be stopped.
+
+If the Tamil Congress Front acts as the act of the Tamil Congress Front, it is the culmination of the sacrifice of Minister Chandrasekhar who attended the event of the sacrificial torch of Dileepan's brother.
+
+Anyone can pay tribute to anyone; That is human dignity. Many people who stood against him during the time of Dileepan's brother struggled. Leading them stops near electoral politics. But what contradiction is it to refuse to allow others?
+
+Political aggression is an unforgivable crime to make the memorial of a hero - the martyr. It is mentioned that this is nothing but barbarism violating human dignity.
+
+◼️
+
+[Data](articles/7ae460bd.json)
+
+[Extended Data](ext_articles/7ae460bd.ext.json)
+
+---
+
+### Garavalapitiya Sobadanavi Power Plant; Connection in the national structure
+
+*2025-09-18 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225368) · `ta`
+
+Electricity independence is essential for the development of the country. To implement the standard and possible plans before reducing the electricity. Prime Minister Harini Amarasuriya said that we have initiated the process.
+
+The Karavalapitiya Sobadanavi Power Plant with the Macawot 350 was incorporated into the national structure headed by the Prime Minister. It has been able to meet 12 percent of the current electricity demand.
+
+Sri Lanka Engineering Knowledge, Structure and Skills have been confirmed once again in accordance with international standards. By 20130, 70 percent of the national demand will be a direct contribution to the renewable energy.
+
+The second phase of the 350 MW of Karavalapitiya liquidized natural gas power plant was opened today (17) to protect the future of the country's energy sector.
+
+The Sopatanavi power plant, which is the mainstay of the Ceylon Electricity Board's long -term power project, is capable of meeting a 12 per cent share of the current power demand.
+
+...
+
+[Data](articles/11269cc1.json)
+
+[Extended Data](ext_articles/11269cc1.ext.json)
 
 ---
 
@@ -255,6 +529,24 @@ According to the COPE team, it has been lost to over 12 million rupees. (A)
 [Data](articles/98ec2d3b.json)
 
 [Extended Data](ext_articles/98ec2d3b.ext.json)
+
+---
+
+### The Bribery and Corruption Commission should carry out investigations into the assets of the governor - former minister Mahinda Amaraweera
+
+*2025-09-18 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225367) · `ta`
+
+The Bribery and Corruption Commission should conduct a formal inquiry into the allegations leveled by the governors based on property details.. Former Minister Mahinda Amaraweera said that the independence of the Bribery and Corruption Commission will be revealed to the country through the investigation and appropriate action.
+
+He was speaking to the media after attending a discussion held at the Freedom Party Headquarters in Colombo on Wednesday (17).. As he further notes,
+
+The Bribery and Corruption Commission should conduct a formal inquiry into the allegations leveled by the governors based on property details.. This is the best opportunity for the country to express the independence of the Bribery and Corruption Commission. The law should be implemented against them if any of the investigations are confirmed.
+
+...
+
+[Data](articles/563d0f6e.json)
+
+[Extended Data](ext_articles/563d0f6e.ext.json)
 
 ---
 
@@ -297,6 +589,100 @@ The answer is 14. That’s way less than half, and slightly under a third.
 ---
 
 ### 2025-09-17 (Wednesday)
+
+### Avocado magic …
+
+*2025-09-17 23:44:00* · [`islandlk`](http://island.lk/avocado-magic/) · `en`
+
+It’s all about avocado this week … yes, avocado magic, so do try it out.
+
+All you need is 02 tablespoons of mash avocado and 01 tablespoon of honey.
+
+Mix the mash avocado with the honey and apply the mixture to your face. Let it remain for 20 minutes and then rinse off.
+
+Apply the mixture to your face and leave it on for 15–20 minutes, and then rinse off.
+
+Reduces fine lines, boosts collagen production, keeping skin youthful and firm.
+
+Gently scrub the mixture onto your face, in circular motions.
+
+Gently exfoliates and removes dead skin cells and leaves skin soft and smooth.
+
+Reduces puffiness around the eyes, and nourishes and hydrates the delicate under-eye skin.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/bb187926.json)
+
+[Extended Data](ext_articles/bb187926.ext.json)
+
+---
+
+### Solid Foundations, Stronger Futures: ICC Readymix powers Sri Lanka’s construction growth
+
+*2025-09-17 23:35:00* · [`islandlk`](http://island.lk/solid-foundations-stronger-futures-icc-readymix-powers-sri-lankas-construction-growth/) · `en`
+
+ICC (International Construction Consortium Pvt Ltd) revolutionised Sri Lanka’s construction industry in 1992 by introducing Readymix concrete, marking the start of a new era in building technology and operational efficiency. With over three decades of experience, ICC Readymix continues to lead the industry, delivering high-performance concrete solutions for projects ranging from residential developments to major infrastructure across the island.
+
+With strategically located batching plants in Madapatha and Galkulama, ICC Readymix ensures easy access and rapid delivery across regions, supporting the pace and scale of modern construction demands.
+
+Offering a full range of concrete grades from G10 to G70, ICC Readymix caters to a wide variety of structural requirements. Whether it’s durable foundations for homes or high-strength mixes for commercial towers, ICC Readymix delivers materials that meet the highest standards of strength, durability, and precision.
+
+...
+
+[Data](articles/0d992565.json)
+
+[Extended Data](ext_articles/0d992565.ext.json)
+
+---
+
+### Heritance Kandalama wins Gold at ICRT Indian Subcontinent Responsible Tourism Awards 2025
+
+*2025-09-17 23:34:00* · [`islandlk`](http://island.lk/heritance-kandalama-wins-gold-at-icrt-indian-subcontinent-responsible-tourism-awards-2025/) · `en`
+
+Heritance Kandalama has been awarded Gold under the Climate Adaptation and Resilience category at the ICRT Indian Subcontinent Responsible Tourism Awards 2025, held in New Delhi. This was in recognition of its outstanding contributions to responsible tourism through proactive, innovative, and scalable steps to both reduce their carbon footprint and protect tourism infrastructure, communities, and ecosystems from climate-related risks. The prestigious accolade highlights the resort’s pioneering achievements in sustainable hospitality and reinforces its leadership role in shaping the future of tourism in Sri Lanka and the wider region.
+
+...
+
+[Data](articles/1b1d4371.json)
+
+[Extended Data](ext_articles/1b1d4371.ext.json)
+
+---
+
+### Colombo bourse rallies on strong Q2 GDP data
+
+*2025-09-17 23:33:00* · [`islandlk`](http://island.lk/colombo-bourse-rallies-on-strong-q2-gdp-data/) · `en`
+
+The Colombo Stock Exchange (CSE) bounced back yesterday following the Finance Ministry’s announcement on positive second quarter GDP data – with a rally that drove the market – to a positive territory, the market analysts said.
+
+...
+
+[Data](articles/524cf0f2.json)
+
+[Extended Data](ext_articles/524cf0f2.ext.json)
+
+---
+
+### NDB Bank partners with Ministry of Industries to power businesses with Solar through E-Friends II Refinance Loan Scheme
+
+*2025-09-17 23:32:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-ministry-of-industries-to-power-businesses-with-solar-through-e-friends-ii-refinance-loan-scheme/) · `en`
+
+Strengthening its commitment to sustainability and economic progress, NDB Bank, in collaboration with the Ministry of Industries, has introduced a special facility under the “E-Friends II” Refinance Loan Scheme dedicated to promoting solar adoption among Sri Lankan entrepreneurs. This initiative is designed to make renewable energy more accessible and affordable, enabling businesses to transition to cleaner energy solutions while enhancing operational efficiency.
+
+As the demand for renewable energy grows in response to rising energy costs and environmental challenges, the E-Friends II Solar Refinance Loan Scheme provides businesses with the financial backing needed to invest in solar power. The facility offers loans of up to Rs. 10 million at a highly competitive annual interest rate of 6.5%, with a repayment period of up to 10 years. Businesses can install solar capacity of up to 50KW, giving them a practical and sustainable pathway to reduce costs while lowering their carbon footprint.
+
+...
+
+[Data](articles/13011e92.json)
+
+[Extended Data](ext_articles/13011e92.ext.json)
+
+---
 
 ### Order to leave the people in Gaza immediately
 
@@ -1669,383 +2055,5 @@ All 3 bills are available on tap at the weighted average yield.
 [Data](articles/73928a90.json)
 
 [Extended Data](ext_articles/73928a90.ext.json)
-
----
-
-### UNP removed the ban on SJB members
-
-*2025-09-17 15:27:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-உறுப்பினர்கள்-மீதான-தடையை-நீக்கியது-UNP/175-364772) · `ta`
-
-The United National Party (UNP), led by UNP leader and former president Ranil Wickremesinghe, has decided to remove all the previous obstacles and disciplinary measures imposed on members of the United People's Power (SJB) affiliate.
-
-The decision was taken at the Executive Committee meeting held at the Sirikotha Party headquarters in Pettah.
-
-During the meeting, a committee headed by a former Attorney General and President's Attorney Tilak Marapana was appointed to investigate the potential legal impacts that could be caused by the move.
-
-United National Party (UNP) Chairman Wajira Abeywardena said that the move was removed from the restrictions that members of the United People's Power were once again working with the United National Party.
-
-The Executive Committee has unanimously passed a resolution to thank all parties who supported the joint political efforts since the arrest of former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/b3ee43d6.json)
-
-[Extended Data](ext_articles/b3ee43d6.ext.json)
-
----
-
-### Greeting message from Ranil to Modi birthday
-
-*2025-09-17 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214675) · `si`
-
-Former President Mahinda Wickremesinghe has also joined the 75th birthday of Indian Prime Minister Narendra Modi's 75th birthday.
-
-The President made this statement by a note of his X account.
-
-The former president has said, "I am assisted with the wishes of Prime Minister Narendra Modi."
-
-◼️
-
-[Data](articles/b8b5e7cd.json)
-
-[Extended Data](ext_articles/b8b5e7cd.ext.json)
-
----
-
-### 18.2 billion of the Ceylon Petroleum Corporation for the first 6 months
-
-*2025-09-17 15:20:39* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-මාස-6දී-තෙල්-සංස්ථාව-බිලියන-18-2ක්-ලාභ-ලබලා/11-418558) · `si`
-
-President Anura Kumara Dissanayake said the Petroleum Corporation had earned Rs.
-
-"Petroleum Corporation has profit for the first six months of Rs. 18.2 billion. That means more than 18.2 million citizens paid more than 18.2 million. But the people cannot give the people. The oil market can be given to the people by CPC. If you have it.
-
-There are more competitors in the oil market. If the competitors have a profitable profit. However, the people who earn profits earned by oil cannot be given to the public.
-
-That was the year 500 crores and gave you to the Treasury to the Treasury. We are giving you a way to citizens. It has been the right to give Litro Company profits. "
-
-◼️
-
-[Data](articles/3d66d80e.json)
-
-[Extended Data](ext_articles/3d66d80e.ext.json)
-
----
-
-### UNP Working Committee decides to lift bans on members who joined SJB
-
-*2025-09-17 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112609/unp-working-committee-decides-to-lift-bans-on-members-who-joined-sjb) · `en`
-
-The Working Committee of the United National Party (UNP) has decided to lift all disciplinary orders and suspensions previously imposed on party members who had their membership suspended or faced disciplinary action for joining the Samagi Jana Balawegaya (SJB).
-
-At a meeting held last evening (16), the UNP Working Committee also resolved to appoint a committee headed by former Attorney General and President’s Counsel Tilak Marapana to examine the legal background and implications that may arise during the implementation of the decision.
-
-Speaking on the matter, UNP Chairman Vajira Abeywardena noted that this move removes the obstacles that previously hindered cooperation between the UNP and members who had joined the SJB, thereby paving the way for renewed collaboration.
-
-The Working Committee meeting was held at the UNP headquarters in Sirikotha, under the leadership of party leader and former President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/7982980e.json)
-
-[Extended Data](ext_articles/7982980e.ext.json)
-
----
-
-### Dai, son! You are here…
-
-*2025-09-17 15:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/டேய்-மகனே-நீ-இங்க-இருக்கடா/62-364771) · `ta`
-
-Former President Mahinda Rajapaksa points out his son Namal Rajapaksa…
-
-◼️
-
-[Data](articles/f4d12f48.json)
-
-[Extended Data](ext_articles/f4d12f48.ext.json)
-
----
-
-### Date of the case against Wimal
-
-*2025-09-17 14:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-எதிரான-வழக்குக்கு-திகதி-குறிப்பு/175-364769) · `ta`
-
-Colombo High Court Judge Jayaratne today (17) ordered that the case against former minister Wimal Weerawansa for allegedly acquiring more than 75 million assets.
-
-◼️
-
-[Data](articles/a6d68421.json)
-
-[Extended Data](ext_articles/a6d68421.ext.json)
-
----
-
-### Removal of arbitration bigr over from Pakistan matches
-
-*2025-09-17 14:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/பாகிஸ்தான்-போட்டிகளில்-இருந்து-நடுவர்-பைகிராஃப்ட்-நீக்கம்/88-364768) · `ta`
-
-According to reports, the referee, Andy Bigraft has been removed from all Pakistan's matches in the case of refusing to shake hands with Indian players - Pakistani players.
-
-The Asian Cup series is being held in the United Arab Emirates, including eight teams, including India and Pakistan.
-
-The Indian team won the match between India and Pakistan last Sunday.
-
-Prior to the match, Indian captain Suriyakumar Yadav and the players avoided shaking hands with the Pakistan team during the match.
-
-The Pakistan Cricket Board has accused him of removing the referee Andy Biography (Zimbabwe) on the issue, while the affair has been shocked by the Pakistan team.
-
-The ICC also rejected Pakistan's request as the Pakistan Board was reported to be on the idea of ​​quitting the Asian Cup.
-
-If Pakistan had decided to quit the match, the move would have been a $ 16 million revenue loss to the Pakistan Cricket Board.
-
-...
-
-[Data](articles/dd947291.json)
-
-[Extended Data](ext_articles/dd947291.ext.json)
-
----
-
-### President red light to strikers
-
-*2025-09-17 14:56:53* · [`adalk`](https://www.ada.lk/breaking_news/විදුලියේ-වර්ජකයන්ට-ජනපතිගෙන්-රතු-එළියක්/11-418557) · `si`
-
-Within two months, electrical workers have the opportunity to go to a company that they like
-
-President Anura Kumara Dissanayaka said that plans will be paid to compensation.
-
-"We had passed the law. Send employees to institutions by the end of October. We saw that the law influence the sovereignty of the country. By the end of the law, the law was entered by the end of October.
-
-We stopped and passed a new law. Now I ask the Employee Greats
-
-Is it a crime? Strike. Working to letter. Tell me you're taking sick leave. It can't work this way. Nobody was silent. You can't work.
-
-We build some companies. Employees have been given time to choose from the company they like it. V.R.Aas allow the VR.S. from 9 lakh to Rs. "
-
-◼️
-
-[Data](articles/75849d01.json)
-
-[Extended Data](ext_articles/75849d01.ext.json)
-
----
-
-### The National Building Research Institute is more powerful
-
-*2025-09-17 14:52:23* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ගොඩනැගිලි-පර්යේෂණ-ආයතනයට-වැඩි-බලයක්/11-418556) · `si`
-
-Second of the National Building Research Research Institutes of Parliament to read and approve the second second term in Parliament approved by the Sectoral Oversight Committee of State Governance, Justice and Civil Protection.. The committee met with MP Nagith Indika in Parliament recently.
-
-Although the National Building Research Organization has been implemented since 1984, the institute has not yet been established by a parliamentary act, the National Building Research Organization is expected to be properly transferred to the National Building Research Organization.. If the proposed bill will not be properly issued by the organization on landslides, the proposed Bill will not be properly adopted by the proposed Bill, legal action will be taken against the Committee.
-
-...
-
-[Data](articles/f9cb3a18.json)
-
-[Extended Data](ext_articles/f9cb3a18.ext.json)
-
----
-
-### “Some MPs have gone to the homes of the culprits and get the money”
-
-*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/175-364767) · `ta`
-
-President Anura Kumara Dissanayake said that some MPs have been bribed to the houses of organized criminals and that some ministers have invited the organized criminals to their homes.
-
-Speaking at the inauguration to resume the construction of the Central Highway Kadawatha-Mrigama Division, the President said that the investigation into a group of suspects has revealed that they have a deep involvement in the Sri Lankan criminal network.
-
-However, the government is working to end this criminal politics and that the arranged culprits so far are about 50 percent responsible for the drug network.
-
-“After the economy has collapsed, there is a saying that a decade is lost. This can be reduced to less than a decade. We will allocate money from the budget for that. We will build the country so that Sri Lanka will never be a crisis again. Creating infrastructure is not just enough. That is only a feature.
-
-To ensure the rule of law. There was a law that caught fish and sharks.
-
-...
-
-[Data](articles/51c45513.json)
-
-[Extended Data](ext_articles/51c45513.ext.json)
-
----
-
-### “Some MPs have gone to the homes of the culprits and get the money”
-
-*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/150-364767) · `ta`
-
-President Anura Kumara Dissanayake said that some MPs have been bribed to the houses of organized criminals and that some ministers have invited the organized criminals to their homes.
-
-Speaking at the inauguration to resume the construction of the Central Expressway's Kadawatha-Mrigama Division, the President said that the inquiries of the suspects team were deeply involved in the Sri Lankan criminal network.
-
-However, the government is working to end this criminal politics and that the arrests that have been arrested so far are about 50 percent responsible for the drug network.
-
-“After the economy has collapsed, there is a saying that a decade is lost. This can be reduced to less than a decade. We will allocate money from the budget for that. We will build the country so that Sri Lanka will never be a crisis again. Creating infrastructure is not just enough. That is only a feature.
-
-To ensure the rule of law. There was a law that caught fish and sharks.
-
-...
-
-[Data](articles/8827b473.json)
-
-[Extended Data](ext_articles/8827b473.ext.json)
-
----
-
-### Central Expressway: Pothuhera to Rambukkana section completion date announced
-
-*2025-09-17 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112608/central-expressway-pothuhera-to-rambukkana-section-completion-date-announced) · `en`
-
-The construction work on the section of the Central Expressway from Pothuhera to Rambukkana will be completed before the section from Kadawatha to Mirigama is finalized by the year 2028, the Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake has stated.
-
-Speaking at the official ceremony to mark the recommencement of construction on the Kadawatha to Mirigama section of the Central Expressway, the Minister noted that the construction of this stretch is expected to be completed within 32 months, by the year 2028.
-
-Accordingly, the construction of the section from Pothuhera to Rambukkana is planned to be completed before the Sinhala and Tamil New Year in April 2028, and the connecting roads around Rambukkana will also be developed in line with that.
-
-...
-
-[Data](articles/875b59f9.json)
-
-[Extended Data](ext_articles/875b59f9.ext.json)
-
----
-
-### The highest relief population is the waters
-
-*2025-09-17 14:28:39* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-රිලව්-ගහණයක්-ඉන්නේ-මහනුවරයි/11-418555) · `si`
-
-The largest bail of Rila has been established by the recent census that he has previously been admitted to the Kandy district.
-
-Minister of Agriculture Lal Kantha said that there were Kegalle, Kurunegala and Anuradhapura.
-
-"There is no title that" wealth management in our country. There should be a number of Wildlife to manage wildlife. That was the census that we did. The census confirmed that if the Rila issue, the highest calculation in the Kandy district. A data was the case, Kandy, Kegalle and Kurunegala.
-
-This is due to this census that. Presidential Secretariat is being implemented in this regard. The results come with a time. "
-
-◼️
-
-[Data](articles/0477ce2b.json)
-
-[Extended Data](ext_articles/0477ce2b.ext.json)
-
----
-
-### Permission to hold back 'Back' and 'Orange Lahiru' about the killing of the Kibra
-
-*2025-09-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214673) · `si`
-
-The Walasmulla Magistrate's Court today (17) has been given permission to investigate the investigation into further questioning on the 'KJjah' murder.
-
-"Backwo Saman 'and" Orange Lahiru was arrested in Indonesia recently.
-
-◼️
-
-[Data](articles/887ffdd3.json)
-
-[Extended Data](ext_articles/887ffdd3.ext.json)
-
----
-
-### UNP Working Committee a decision to remove all suspended orders
-
-*2025-09-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214674) · `si`
-
-The UNP Working Committee has decided to remove all the injunctions and delegated the party membership orders to the UNP membership with discontinued and measured by the party membership.
-
-◼️
-
-[Data](articles/e9b0b12f.json)
-
-[Extended Data](ext_articles/e9b0b12f.ext.json)
-
----
-
-### வலஸ்முல்ல நீதிமன்றத்துக்கு கடும் பாதுகாப்பு
-
-*2025-09-17 14:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலஸ்முல்ல-நீதிமன்றத்துக்கு-கடும்-பாதுகாப்பு/175-364766) · `ta`
-
-Pako Saman and Thambari Lahiru were brought to the Valasmulla Magistrate's Court shortly before.
-
-The team, which came to court for trial, was not allowed to enter the court premises until 9 am, and the police were allowed to enter the court premises after the physical examination of the police.
-
-◼️
-
-[Data](articles/76917bbe.json)
-
-[Extended Data](ext_articles/76917bbe.ext.json)
-
----
-
-### ‘Backhoe Saman’ & ‘Thembili Lahiru’ to be detained till Dec. 2 for further questioning
-
-*2025-09-17 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112607/backhoe-saman-thembili-lahiru-to-be-detained-till-dec-2-for-further-questioning) · `en`
-
-The Walasmulla Magistrate’s Court today (17) granted permission to police to detain underworld figures ‘Backhoe Saman’ and ‘Thambili Lahiru’, until December 2 in order to conduct further investigations related to the murder of Anura Vidanagamage, also known as ‘Kajja’.
-
-Five individuals, including organized crime gang members ‘Kehelbaddara Padme’, ‘Backhoe Saman’ and ‘Thambili Lahiru’, were recently arrested in Indonesia and extradited to Sri Lanka.
-
-The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
-
-Accordingly, ‘Backhoe Saman’ and ‘Thambili Lahiru’ were produced before the Walasmulla Magistrate’s Court today.
-
-Court granted permission to detain the duo until December 2 for further questioning regarding their alleged involvement in orchestrating the murder of Anura Vidanagamage and his two children.
-
-...
-
-[Data](articles/0339b829.json)
-
-[Extended Data](ext_articles/0339b829.ext.json)
-
----
-
-### Sri Lanka becomes State Party to BBNJ Convention
-
-*2025-09-17 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112606/sri-lanka-becomes-state-party-to-bbnj-convention) · `en`
-
-The Ministry of Foreign Affairs, Foreign Employment and Tourism has announced that Sri Lanka’s Instrument of Ratification on the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) has been deposited with the United Nations, becoming a State Party to the Convention.
-
-The ratification of the BBNJ agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry of Foreign Affairs said.
-
-Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
-
-Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
-
-...
-
-[Data](articles/ed7b0d64.json)
-
-[Extended Data](ext_articles/ed7b0d64.ext.json)
-
----
-
-### Saran in Sampath Manamberi Court
-
-*2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
-
-Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
-
-◼️
-
-[Data](articles/c9db1bce.json)
-
-[Extended Data](ext_articles/c9db1bce.ext.json)
-
----
-
-### Malwatte and Asgiri Maha Naramen announced about Diyawadana Nilame
-
-*2025-09-17 14:03:31* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-ඡන්දය-ගැන-මල්වතු-හා-අස්ගිරි-මහ-නා-හිමිවරුන්ගෙන්-නිවේදනයක්/11-418554) · `si`
-
-In a statement that the Buddhist organizations and individuals have been issued to the signature of the Buddhist society, as a result of the aim of ahead of the future Diyawadana Nilame.
-
-The Diyawadana Nilame, which is the first Buddhist monastery in Sri Lanka, is internationally in international Buddhists, while the tops of the Buddhist people of the World Resistant People.
-
-The Malwathu Asgiri Maha Viharaya should be conducted by the Malwathu Asgiri Maha Viharaya who are responsible for the Diyawadana Niladhari of the Great Restaurant to the Sacred Tooth Relic.
-
-Diyawadana Nilame is appointed by the Temples Devalayagam Act No. 19 of 1931. Appointment of a new Diyawadana Nilame who has ended the term of the current Diyawadana Nilame.. We have learned that a number of candidates including the current Diyawadana Nilame and the current Diyawadana Nilame.
-
-...
-
-[Data](articles/9b72068a.json)
-
-[Extended Data](ext_articles/9b72068a.ext.json)
 
 ---

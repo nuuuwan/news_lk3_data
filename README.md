@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 16:09:08**
+As of **2025-09-18 16:53:33**
 
 ## Newspaper Stats
 
-*Scraped **76,742** Articles*
+*Scraped **76,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,91 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,458
+adalk | 7,462
 adaderanalk | 9,907
 tamilmirrorlk | 11,528
 virakesarilk | 12,485
-adaderanasinhalalk | 13,382
+adaderanasinhalalk | 13,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,513 (97.1%) of 76,742 articles have been extended.
+74,571 (97.2%) of 76,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### நேர்காணல் திகதிகள் அறிவிப்பு
+### ඇල්ල අනතුරට පත් බස් රථය ගැටුණ ජීප් රියේ කැමරා පද්ධතියේ පටිගතවීමේ පහසුකම් නෑ
+
+*2025-09-18 15:59:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රථය-ගැටුණ-ජීප්-රියේ-කැමරා-පද්ධතියේ-පටිගතවීමේ-පහසුකම්-නෑ/11-418589) · `si`
+
+ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ 15 කනුව ප්‍රදේශයේ දී 16 දෙනෙකුට මරු කැදවමින් 17කට තුවාල සිදුව අඩි දහසක පමන ප්‍රපාතයකට පෙරලීගිය විනෝද චාරිකා බස්‍ රථය අනතුරට ලක්වීමට තත්පර කීපයකට පෙර ගැටුන රුපියල් ලක්ශ 800ක් පමන වටිනා (කෝටි 8) සුඛෝපභෝගී ජීප් රථයේ ආරක්ශිත කැමරා පද්ධතියේ පටිගතවීමේ පහසුකම් නොමැති බවට අදාළ  ජීප් රථය විකුනූ  සමාගම මගින් ලබා දුන් වාර්තාවකින් අනාවරණය විනැයි ඇල්ල පොලිසිය අද (18) පැවසීය .
+
+මෙම සුඛෝපභෝගී ජීප් රථය බොරලැස්ගමුව ප්‍රදේශයේ වාහන අලෙවි සැලකින් 2023 වසරේදී මිළදී ගෙන ඇති බවත් , එම සුඛෝපභෝගී ජීප් රථයේ ආරක්ශිත සජිවී කැමරා හතරක් ඇති අතර එම කැමරා රථය පදවන රියැදුරුගේ පහසුව තකා ක්‍රියාත්මක වන බවද එහි සදහන් වී ඇතයි පොලිසිය කීය .
+
+නමුත් මෙම සුඛෝපභෝගී ජීප් රථ වල ආරක්ශිත කැමරා වල පටිගත කිරීමේ පහසුකම් ලබා ගැනීමට නම් අදාළ වාහන හිමිකරු සමාගමේන් ඉල්ලා සිටිය යුතු බවත් , එසේ ඉල්ලීමක් කල හොත් පමණක්  එම සුඛෝපභෝගී ජීප් රථයේ කැමරා වලට පටිගත කිරීමේ මෘදුකාංග සවිකරන බවත්  අදාළ සමාගම දැනුම් දී තිබෙන බවත් පොලිසිය සදහන් කලේය .
+
+...
+
+[Data](articles/d1f7c0fe.json)
+
+---
+
+### Discussion on encouraging youth women's politics
+
+*2025-09-18 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214716) · `si`
+
+The Members of Parliament has held a discussion on opportunities for various programs to encourage youth women's political participation in encouraging the UK.
+
+There is a need to build a dialogue between different social layers, among different social layers to promote the political participation of young women of Sri Lanka.
+
+Members of Parliament was held under the patronage of Prime Minister Dr. Weli Amarasuriya and Forum Chairman of the Prime Minister Saroja Sakar Raja.
+
+Representatives of WestSastministist Foundation for Democracy (WestMinSter Foundation Relegation) and the Law & Social Trust (Law & Society Trust) have also participated in the weststaministation.
+
+The committee's commander (WFD) representatives (WFD) representatives were able to support the implementation of the Members of Parliament for the growth of the women's workforce in Sri Lanka and to introduce gender budgeting.
+
+...
+
+[Data](articles/fe8f46c2.json)
+
+[Extended Data](ext_articles/fe8f46c2.ext.json)
+
+---
+
+### Rs. Former Minister of Sabaragamuwa Sabaragamuwa remanded
+
+*2025-09-18 15:44:24* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-7ක්-රජයට-පාඩු-කළ-සබරගමුව-හිටපු-ඇමති-අතුල-කුමාර-රිමාන්ඩ්/11-418587) · `si`
+
+Former Minister of Highways and Sports Minister Embilipitiya Magistrate's Court today (18) ordered the court to be arrested for fraudulent use of Rs. 2 crores.
+
+When the suspect was produced in court, the officers of the Criminal Investigations Department stated in court that the project was spent on 15 projects in the court.
+
+◼️
+
+[Data](articles/ff1b5f8b.json)
+
+[Extended Data](ext_articles/ff1b5f8b.ext.json)
+
+---
+
+### Interview Dates Notification
 
 *2025-09-18 15:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேர்காணல்-திகதிகள்-அறிவிப்பு/175-364860) · `ta`
 
-கொழும்பு, களுத்துறை, கம்பஹா மற்றும் கேகாலை மாவட்டங்களுக்கான மாணவர் தாதியர்களை ஆட்சேர்ப்பு செய்வதற்கான நேர்காணல்கள் இந்த மாதம் 20 மற்றும் 21 ஆம் தேதிகளில் கொழும்பு- 10 இல் உள்ள சுகாதார அமைச்சில் நடைபெறும்.
+Interviews for recruiting students of Colombo, Kalutara, Gampaha and Kegalle districts will be held on 20th and 21st of this month at the Health Ministry in Colombo 10.
 
-கண்டி, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களுக்கான மாணவர் தாதியர்களை ஆட்சேர்ப்பு செய்வதற்கான நேர்காணல்கள் இந்த மாதம் 20 மற்றும் 21 ஆம் திகதிகளில் கண்டி நர்சிங் கல்லூரியில் நடைபெறும்.
+Interviews for recruiting students of Kandy, Matale and Nuwara Eliya districts will be held on the 20th and 21st of this month at Nursing College, Kandy.
 
-சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சினால் முன்கூட்டியே அதிகாரப்பூர்வமாக அறிவிக்கப்பட்ட நபர்கள் மட்டுமே இந்த நேர்காணல்களுக்குத் தோன்ற வேண்டும் என்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சு அறிவித்துள்ளது.
+The Ministry of Health and Mass Media has announced that only those who have been officially announced by the Ministry of Health and Mass Media should appear for these interviews.
 
 ◼️
 
 [Data](articles/d36144dc.json)
+
+[Extended Data](ext_articles/d36144dc.ext.json)
 
 ---
 
@@ -138,21 +194,23 @@ Hemasiri Fernando and Pujith Jayasundara sentenced the two accused of the three-
 
 ---
 
-### புத்தளத்தில்  உப்பு  விளைச்சல் அமோகம்
+### Salt yields in Puttalam
 
 *2025-09-18 15:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-உப்பு-விளைச்சல்-அமோகம்/175-364856) · `ta`
 
-ஐந்து ஆண்டுகளுக்குப் பிறகு, தற்போது நிலவும் வறண்ட வானிலை காரணமாக, புத்தளத்தில் அமோகமாக உப்பு அறுவடை கிடைத்துள்ளது. என புத்தளம் உப்பு உற்பத்தியாளர்கள் தெரிவித்தனர் ஐந்து ஆண்டுகளுக்குப் பிறகு இந்த அளவு உப்பு அறுவடை கிடைத்ததாகக் கூறப்படுகிறது.
+Five years later, due to the prevailing dry weather, the Puttalam has got a good hand harvest. Puttalam salt manufacturers said that this amount of salt was received after five years.
 
-தற்போது ஒரு லட்சம் மெட்ரிக் தொன்னை தாண்டும் அளவுக்கு உப்பு உற்பத்தி இருப்பதாக உப்பு விவசாயிகள் கூறுகின்றனர்.
+Salt farmers say that there is currently enough salt production to exceed one lakh metric tons.
 
-கடந்த சில ஆண்டுகளாக தொடர்ந்து பெய்த கன மழையால், புத்தளம் உப்பு உற்பத்தி முற்றிலுமாக தடைப்பட்டது, உப்பு  வயல் மழை நீரில் மூழ்கி,தொழிலையே முடக்கியுள்ளது.
+With heavy rains over the past few years, the Puttalam salt production has been completely blocked, the salt field has been submerged and the industry is frozen.
 
-அந்த காரணத்திற்காக, உப்பு பற்றாக்குறைக்கு தீர்வாக,நாட்டின் உப்பு நுகர்வோருக்கு தேவையான உப்பு  இந்தியாவின் குஜராத் மாநிலத்தில் இருந்து இறக்குமதி செய்ய அரசாங்கம் நடவடிக்கை எடுத்திருந்தது. இலங்கையின் மொத்த உப்புத் தேவை, ஒரு லட்சத்து எண்பதாயிரம் மெட்ரிக் டன்னை நெருங்குகிறது. இதுதான் உணவு மற்றும் பிற பொருட்களுக்குத் தேவையான அளவு என உப்பு விவசாயிகள் தெரிவித்தனர்.
+For that reason, the government has taken steps to import salt consumers from the state of Gujarat, India.. Sri Lanka's total salt requirement, approaching one million eighty thousand metric tank. Salt farmers said this is the amount of food and other ingredients.
 
 ◼️
 
 [Data](articles/b20ddb96.json)
+
+[Extended Data](ext_articles/b20ddb96.ext.json)
 
 ---
 
@@ -342,6 +400,26 @@ The Norwood police urge the drivers to take action to drive the traffic on the H
 
 ---
 
+### Queen of World Marry comes to Katunayake
+
+*2025-09-18 13:54:58* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-විවාහක-රූ-රැජින-කටුනායකට-එයි/11-418581) · `si`
+
+"Miss Grand Sri Lanka - 2025 (MISS Grand Sri Lanka - 2025) The Mrs: Sargam kousal came to the Katunayake Airport on the morning of 2022.
+
+The finals will be held at the Mount Lavinia General Hotel on 09/22.
+
+The Sri Lankan European Beauty will be held in Thailand with 110 countries in the world with 110 countries in the world.
+
+Mrs. Cergam Kauzhal, World Marry, arrived at the Katunayake Airport on the flight of the 144.
+
+◼️
+
+[Data](articles/2fad25bf.json)
+
+[Extended Data](ext_articles/2fad25bf.ext.json)
+
+---
+
 ### Thusitha Halloluwa bail
 
 *2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
@@ -357,6 +435,22 @@ The suspect was then ordered to ban abroad, or ordered that the suspect's passpo
 [Data](articles/6bf3a2ba.json)
 
 [Extended Data](ext_articles/6bf3a2ba.ext.json)
+
+---
+
+### The street was closed in front of the Electricity Board headquarters by demonstration
+
+*2025-09-18 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
+
+Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
+
+Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
+
+◼️
+
+[Data](articles/135b9918.json)
+
+[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -376,19 +470,33 @@ It is also reported that a road has been completely closed due to the ongoing de
 
 ---
 
-### The street was closed in front of the Electricity Board headquarters by demonstration
+### Five years later, Puttalam
 
-*2025-09-18 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
+*2025-09-18 13:37:38* · [`adalk`](https://www.ada.lk/breaking_news/වසර-පහකට-පසු--පුත්තලමේ-වාර්තා-ගත-ලුණු-අස්වැන්නක්/11-418579) · `si`
 
-Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
+Salt manufacturers say that the majority of the salt in the country will be given a major contribution to the country's salt requirement after the end of the dry weather.
 
-Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
+Salt growers say it is fifteen years after the Puttalam district is five years later, it is nearly 100 years old to be exceeding Rs.
 
-◼️
+Salt manufacturers say that with the continuous rainfall of the last three years, salt producers say that the industrialist is undermined by rain water.
 
-[Data](articles/135b9918.json)
+For that reason, the government has taken measures to import the salt to the location of the Salt State of the country in the state of India to import the salt.
 
-[Extended Data](ext_articles/135b9918.ext.json)
+The total salt understanding of Sri Lanka is close to Rs.
+
+The turnover of Puttalam turns over Puttalam, near the Hambantota Salt production.
+
+The growers of the growers were so vibrated after a number of years. Mr. MU Rush was commenting.
+
+"We have come to us with a good salt.
+
+It is not a good harvest we have.
+
+...
+
+[Data](articles/6ec6f49c.json)
+
+[Extended Data](ext_articles/6ec6f49c.ext.json)
 
 ---
 
@@ -1941,107 +2049,5 @@ Projects which are no longer a priority can be cancelled he said.
 [Data](articles/114f28df.json)
 
 [Extended Data](ext_articles/114f28df.ext.json)
-
----
-
-### Israel's announcement to leave Gaza people
-
-*2025-09-18 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மக்களை-வெளியேறுமாறு-இஸ்ரேல்-அறிவிப்பு/50-364812) · `ta`
-
-On Gaza, Israel has intensified military operations and ordered the immediate exit of residents.
-
-Israel has been carrying out serious air and ground attacks throughout the Gaza since yesterday (16).
-
-The Israeli military announced yesterday (17) that the Palestinian people will open a further 48 hours to leave.  (a)
-
-◼️
-
-[Data](articles/ed386926.json)
-
-[Extended Data](ext_articles/ed386926.ext.json)
-
----
-
-### Three teenagers rescued after being swept away by currents at Mount Lavinia Beach
-
-*2025-09-18 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112629/three-teenagers-rescued-after-being-swept-away-by-currents-at-mount-lavinia-beach) · `en`
-
-Three teenagers who went sea bathing at the Mount Lavinia Beach were rescued after being swept away by strong water currents, police stated.
-
-The incident occurred yesterday (17), and police said officers attached to the Police Lifeguard Unit, rescued the individuals who were caught in the strong currents.
-
-Officers promptly intervened, rescued the individuals, and administered initial first aid.
-
-The rescued teenagers, all aged 16, are residents of Wellampitiya, Katukurunda, and Hokandara.
-
-◼️
-
-[Data](articles/ddd20909.json)
-
-[Extended Data](ext_articles/ddd20909.ext.json)
-
----
-
-### Sri Lanka's third Nano Satellite Orbit tomorrow
-
-*2025-09-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214693) · `si`
-
-The third Nano, the technical contributor to the technical contribution to the Third Nano Satess, the Arthur C. Clarke Institute said.
-
-Birds - X Dragonflowi, the satellite named X-Dragonfiwida last August was taken to the International Space Institute by NASA.
-
-In 2019, Ravana-1 Chandrika, was identified as "Kitsu - 1" in the year 2019 and had previously created "Kitsu-1 Technical Cooperation Project in 2022.
-
-Birds - X Dragonflowy Nathafi Nathafi Nano is due to be released from the International Space Center tomorrow at 2.15 pm.
-
-◼️
-
-[Data](articles/e3e755f3.json)
-
-[Extended Data](ext_articles/e3e755f3.ext.json)
-
----
-
-### Heavy rains in the evening today
-
-*2025-09-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214692) · `si`
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Northern and Northwestern provinces and in the Galle and Matara districts.
-
-Department of Meteorology was announced in the Western, Sabaragamuwa and Northern Province and in the Galle and Matara districts, mm.. Heavy rains can occur about 75 years.
-
-In the other areas. Showers or thundershowers will occur at several places about 1.00.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/313cd568.json)
-
-[Extended Data](ext_articles/313cd568.ext.json)
-
----
-
-### King Charles and Trump hail UK-US special relationship in state banquet speech
-
-*2025-09-18 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112628/king-charles-and-trump-hail-uk-us-special-relationship-in-state-banquet-speech) · `en`
-
-King Charles has commended President Trump’s personal commitment to “finding solutions to some of the world’s most intractable conflicts”, as he called for US support for Ukraine against “tyranny”, in a speech at the US state visit banquet.
-
-In response, President Trump hailed the special relationship between the US and the UK, saying the word “special does not begin to do it justice”.
-
-The King’s speech, at a lavish dinner for 160 guests in Windsor Castle, emphasised the deep connections between the two countries and the need to maintain cultural, trading and military links.
-
-“Our people have fought and died together for the values we hold dear,” said the King.
-
-The state visit will continue on Thursday, including Queen Camilla and the Princess of Wales at events with the First Lady Melania Trump.
-
-It will move from a royal spectacle to political talks and a news conference, as Trump travels to meet Prime Minister Keir Starmer at his country house, Chequers.
-
-...
-
-[Data](articles/e64851b6.json)
-
-[Extended Data](ext_articles/e64851b6.ext.json)
 
 ---

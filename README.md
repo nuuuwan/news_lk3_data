@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 11:57:11**
+As of **2025-09-18 11:08:46**
 
 ## Newspaper Stats
 
-*Scraped **76,695** Articles*
+*Scraped **76,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,233 +16,21 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,450
-adaderanalk | 9,898
-tamilmirrorlk | 11,512
+adalk | 7,448
+adaderanalk | 9,895
+tamilmirrorlk | 11,508
 virakesarilk | 12,478
-adaderanasinhalalk | 13,375
+adaderanasinhalalk | 13,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,243 (96.8%) of 76,695 articles have been extended.
+74,214 (96.8%) of 76,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### තණමල්විල පාසල් දරුවන්ට රට දුම්වැටි විකිණූ ව්‍යාපාරිකයා අත්අඩංගුවට
-
-*2025-09-18 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214705) · `si`
-
-තණමල්විල ප්‍රදේශයේ පාසල් සිසුන්ට විදේශයේ සිට ආනයනය කළ දුම්වැටි විකුණු බවට සැකපිට ව්‍යාපාරිකයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-විවිධ රසයෙන් යුක්ත මෙම දුම්වැටි අදාළ ව්‍යාපාරිකයා විසින් විකිණීමට පාසල් සිසුවෙකුට ලබාදී ඇති බව ද අනාවරණය වී ඇත.
-
-එක් දුම්වැටියක් රුපියල් 100ක මුදලකට එම සිසුවාට ලබා දී ඇති අතර, අදාළ පාසල් සිසුවා එම දුම්වැටි රු 200ක මුදලකට පාසලේ දී විකුණා තිබේ.
-
-පාසලේම සිසුවෙකු විසින් විදුහල්පතිවරයාට සිදුකළ දැනුම්දීමකන් අනතුරුව දුම්වැටි විකුණන සිසුවා ගෙන්වා පරීක්ෂා කොට ඇති අතර, එහිදී සිසුවා සන්තකයේ තිබී විදේශිය දුම්වැටි දෙකක් හමුවී ඇත.
-
-පසුව තණමල්විල පොලිස් පරීක්ෂකවරයාට කළ දැනුම්දීමකින් අනතුරුව අදාළ ව්‍යාපාරික ස්ථානය වටලා ව්‍යාපාරිකයා සන්තකයේ තිබූ දුම්වැටි 690ක් හා දුම්වැටි විකුණා උපයාගත් රුපියල් 3,60000ක මුදලක් ද පොලිස් භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/0b2666ec.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳ තවදුරටත් රිමාන්ඩ්
-
-*2025-09-18 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214704) · `si`
-
-මුදල් විශුද්ධිකරණයය වැළක්වීමේ පනත යටතේ රක්ෂිත බන්ධනාගාර ගත කර සිටි බැකෝ සමන් නමැත්තාගේ බිරිඳ වන ශාධිකා ලක්ෂානී නැමැත්තිය ලබන 25 වන දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-◼️
-
-[Data](articles/408468b8.json)
-
----
-
-### சட்டத்தரணியின் காரில் துப்பாக்கி
-
-*2025-09-18 11:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணியின்-காரில்-துப்பாக்கி/175-364837) · `ta`
-
-வலஸ்முல்ல , நீதிமன்ற வளாகத்தில் நிறுத்தப்பட்டிருந்த, சட்டத்தரணி ஒருவரின் காரில் இருந்து துப்பாக்கி ஒன்று கண்டெடுக்கப்பட்டதாக வலஸ்முல்ல பொலிஸார் தெரிவித்தனர்.
-
-ஐஸ் போதைப்பொருள் தயாரிப்பதற்காக பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரசாயனப் பொருட்கள் மித்தெனிய தலாவ பகுதியில் உள்ள நிலமொன்றில் புதைக்கப்பட்டிருந்த நிலையில் மீட்கப்பட்ட சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் சார்பில் முன்னிலையான சட்டத்தரணியின் காரில் இருந்து குறித்த துப்பாக்கி கண்டெடுக்கப்பட்டுள்ளது.
-
-இந்த சம்பவம் தொடர்பாக வலஸ்முல்ல நீதிமன்றத்திற்கு அறிக்கை சமர்ப்பித்த பின்னர், உரிமைப்பத்திரம் பெற்ற துப்பாக்கி என சட்டத்தரணி நீதிமன்றத்தில் தெரிவித்துள்ளார்.
-
-வலஸ்முல்ல பொலிஸ் நிலையத்திற்கு சென்று வாக்குமூலம் அளித்த பின்னர், துப்பாக்கியை விடுவிக்க வலஸ்முல்ல நீதிமன்ற நீதவான் மல்பா கொடிதுவக்கு உத்தரவிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/d2e41118.json)
-
----
-
-### வாழ்க்கையையே புரட்டிய ரூ.2,000: மனைவியின் அந்தரங்க உறுப்பை Zoom செய்த அசிங்கம்
-
-*2025-09-18 11:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாழ்க்கையையே-புரட்டிய-ரூ-2-000-மனைவியின்-அந்தரங்க-உறுப்பை-Zoom-செய்த-அசிங்கம்/175-364836) · `ta`
-
-விசாகப்பட்டினத்தின் கடற்கரை ஓரம், அலைகள் அசைந்து கொண்டிருக்கும் அந்த சிறிய வீட்டில், நாகேந்திராவும் அகிலாவும் தங்கள் கனவுகளை பின்தொடர்ந்தனர். தெலுங்கானா மாநிலத்தைச் சேர்ந்த இளைஞன் நாகேந்திரா, பல ஆண்டுகளாக அகிலாவை காதலித்தான்.
-
-உறவினர்களின் கடும் எதிர்ப்பை மீறி, அவர்கள் அக்டோபர் 28 அன்று திருமணம் செய்துகொண்டனர். திருமணத்திற்கு வெறும் ஆறு மாதங்களே ஆகியிருந்தது. நாகேந்திரா, தனது சொந்த ஊரான விசாகப்பட்டினத்தில் குடியேறி, மீன்பிடி தொழிலில் ஈடுபட்டான்.
-
-அகிலாவுடன் அந்த கடல் மணல் சூழ்ந்த வாழ்க்கை, அவர்களுக்கு புதிய நம்பிக்கையை அளித்தது.ஆனால், வாழ்க்கை எப்போதும் அழகான கதையாகத் தொடரவில்லை.
-
-கடுமையான பொருளாதார நெருக்கடி அவர்களைத் தாக்கியது. கடல் அலைவுகள் காரணமாக மீன்பிடி தொழில் பாதிக்கப்பட்டது. வீட்டு செலவுகளை ஈடுசெய்ய, நாகேந்திரா தனது போனில் ஒரு லோன் ஆப்பை இன்ஸ்டால் செய்தான். வெறும் 2000 ரூபாய் கடன் – அது அப்போதைக்கு போதுமென்று நினைத்தான்.
-
-...
-
-[Data](articles/0d8176a8.json)
-
----
-
-### Diyawadana Nilame in Sri Dalada Maligawa will decide
-
-*2025-09-18 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214702) · `si`
-
-The Commissioner General of Buddhist Affairs Gamini Senaratne says that the election of Diyawadana Nilame of Sri Dalada Maligawa, Kandy will be held on November 7 or near.
-
-The term of office of the current Diyawadana Nilame is due to end September.
-
-Accordingly, the election of a new Diyawadana Nilame man has been organized on November 7, or near November this year.
-
-Thereafter he was elected to the Diyawadana Nilame in two occasions.
-
-◼️
-
-[Data](articles/d056a0d6.json)
-
-[Extended Data](ext_articles/d056a0d6.ext.json)
-
----
-
-### A sample service for boys affected by violence
-
-*2025-09-18 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறைகளால்-பாதிக்கப்படும்-சிறுவர்களுக்கான-ஒரு-மாதிரிச்-சேவை/175-364834) · `ta`
-
-The Ministry of Justice and the Ministry of Women and Children's Affairs has launched a prototype service through UNICEF with the aim of helping violently experienced children.
-
-In that respect, this is the case of the new model, from the police station, an emergency call number or some other method, from the complaints of the children to the sustainable maintenance and safety mechanisms.
-
-This model service includes six primary initiatives that introduce many changes in child protection and the judiciary in rural and national levels.
-
-...
-
-[Data](articles/49898beb.json)
-
-[Extended Data](ext_articles/49898beb.ext.json)
-
----
-
-### US support for training on the sponsorship of the port law
-
-*2025-09-18 10:44:14* · [`adalk`](https://www.ada.lk/business/වරාය-නීතියේ-එන-අනුග්‍රාහකත්වය-පිළිබඳ-පුහුණුවට-ඇමෙරිකා-සහාය/7-418573) · `si`
-
-US support is available to a program to strengthen the capacity of Sri Lanka regarding port law and government-private partnerships (PPPS).
-
-The US embassy in Sri Lanka has been supported by the University of the Department of Commerce (CLDP) through the Commercial Departments Department of the Sri Lanka Ports Authority and the Department of Attorney General's Department.
-
-This included technical training on the legal framework that controlled the contronting law of covenants, emphasizing transparency, accountability and public interests. Future infrastructure projects are also reflected in the United States to support Sri Lanka's strong agencies, promoting the prospect of the people of Sri Lanka.
-
-...
-
-[Data](articles/37837593.json)
-
-[Extended Data](ext_articles/37837593.ext.json)
-
----
-
-### Filed by a student petition
-
-*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
-
-A young student from Bandarawa has sought the High Court, claiming that his constitutional rights had been violated as the University Grants Commission (UGC) refused to graduate on technology based on its disability.
-
-The case was adjourned to the hearing on February 24 next year when the case was taken up before a session of two judges comprising High Court Chief Justice Preeti Padman Surasena and Justice Shiran Gunaratne.
-
-The petitioner claims that he is an alternate student who qualified for the University Admissions in the Technical Division at Dharmapala College, Bandarawela.
-
-He said he had been informed that there were no arrangements to study such degree under the Division of the Disabled Students, despite applying for the Degree of Technology for the 2024/2025 academic year.
-
-The petitioner urges the High Court to declare that his fundamental rights have been violated by the UGC's decision.
-
-...
-
-[Data](articles/7e025974.json)
-
-[Extended Data](ext_articles/7e025974.ext.json)
-
----
-
-### Decisive match waiting for 3 countries in Asia
-
-*2025-09-18 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214701) · `si`
-
-The match between the Sri Lanka team and Afghanistan in the Asian Cup cricket match will be held today (19).
-
-The Sri Lankan team will be at the forefront of the BC and the Afghan group is in its third place.
-
-Sri Lanka and Bangladesh are eligible for the Round 4 of the Super Forecast of the Tournament.
-
-Bangladesh and Afghanistan team will be elected to the Afghanistan group, over 71 runs or 11 overs.
-
-However, the Sri Lankan team is defeated due to the defeat of Afghanistan, the Sri Lanka team and Afghanistan group are eligible for the second round.
-
-◼️
-
-[Data](articles/7523a06a.json)
-
-[Extended Data](ext_articles/7523a06a.ext.json)
-
----
-
-### Thusitha Halloluwa bail
-
-*2025-09-18 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214700) · `si`
-
-The Colombo Magistrate Court has been ordered to be released on bail to be released on bail.
-
-Accordingly, Colombo Additional Magistrate Lahiru Silva has been appointed to release the suspects on two million guarantee of Rs.
-
-The suspect was then ordered to ban abroad, or ordered that the suspect's passport should be handed over to the court.
-
-Former Director of the National Lotteries Board Thusitha Halllogen was arrested and remanded in connection with the shooting of shooting in Narahenpita.
-
-The event was arrested in the Kollupitiya area for a raid commissioned by the Colombo Crimes Division on August 19.
-
-◼️
-
-[Data](articles/12fa2c78.json)
-
-[Extended Data](ext_articles/12fa2c78.ext.json)
-
----
-
-### Former NLB Director Thusitha Halloluwa granted bail
-
-*2025-09-18 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112640/former-nlb-director-thusitha-halloluwa-granted-bail) · `en`
-
-Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa has been granted bail after being produced before the Colombo Magistrate’s Court today (18), said Ada Derana reporter.
-
-Accordingly, Colombo Additional Magistrate Lahiru Silva ordered that Thusitha Halloluwa be released on two surety bails of Rs. 500,000 each.
-
-The Magistrate also imposed a travel ban on the suspect, and further ordered that the suspect’s passport be impounded.
-
-Thusitha Halloluwa who was evading court was arrested in Colpetty on August 19.
-
-He was arrested in relation to a shooting incident involving the vehicle of Halloluwa in Narahenpita.
-
-◼️
-
-[Data](articles/43d05156.json)
-
-[Extended Data](ext_articles/43d05156.ext.json)
-
----
 
 ### 3 boys safely recovered
 
@@ -322,28 +110,6 @@ At this meeting, the Nilavarai area was a tourist attraction. It was pointed out
 
 ---
 
-### Body found in canal in Tissamaharama – Friend arrested over suspected murder
-
-*2025-09-18 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112639/body-found-in-canal-in-tissamaharama-friend-arrested-over-suspected-murder) · `en`
-
-A body of a male has been discovered in a canal located in the Sandungama, within the Tissamaharama Police Division.
-
-Investigations were launched last evening (17) following information received by the Tissamaharama Police.
-
-The deceased has been identified as a 45-year-old resident of Tissamaharama.
-
-Preliminary investigations have revealed that the victim was allegedly assaulted with a bottle and drowned in the canal by a friend, following a personal dispute between the two.
-
-A 24-year-old suspect, believed to be the friend involved in the altercation, has been taken into custody.
-
-◼️
-
-[Data](articles/4b1c3551.json)
-
-[Extended Data](ext_articles/4b1c3551.ext.json)
-
----
-
 ### Postponement
 
 *2025-09-18 10:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்டைதீவு-மனிதப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-364826) · `ta`
@@ -411,26 +177,6 @@ In addition, the amount of Kerala cannabis seized by the Navy was handed over to
 [Data](articles/70a19679.json)
 
 [Extended Data](ext_articles/70a19679.ext.json)
-
----
-
-### Israel opens new route out of Gaza City, death toll passes 65,000
-
-*2025-09-18 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112638/israel-opens-new-route-out-of-gaza-city-death-toll-passes-65000) · `en`
-
-The Israeli military said it was opening an additional route for 48 hours that Palestinians could use to leave Gaza City as it stepped up efforts on Wednesday to empty the city of civilians and confront thousands of Hamas combatants.
-
-Hundreds of thousands of people are sheltering in the city and many are reluctant to follow Israel’s orders to move south because of dangers along the way, dire conditions, a lack of food in the southern area and fear of permanent displacement.
-
-“Even if we want to leave Gaza City, is there any guarantee we would be able to come back? Will the war ever end? That’s why I prefer to die here, in Sabra, my neighbourhood,” Ahmed, a schoolteacher, said by phone.
-
-At least 63 people were killed by Israeli strikes and gunfire across the Gaza Strip on Wednesday, with most of the casualties in Gaza City, local health authorities said.
-
-...
-
-[Data](articles/292899c5.json)
-
-[Extended Data](ext_articles/292899c5.ext.json)
 
 ---
 
@@ -843,22 +589,6 @@ Rehana’s children Tulip Rizwana Siddiq, Azmina Siddiq and nephew Radwan Mujib 
 [Data](articles/0a9625ad.json)
 
 [Extended Data](ext_articles/0a9625ad.ext.json)
-
----
-
-### අද මිලි මීටර් 75 ඉක්මවූ වැසි
-
-*2025-09-18 07:45:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මීටර්-75-ඉක්මවූ වැසි/11-418570) · `si`
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, උතුරු හා වයඹ පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හේ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තෙම්න්තුව පවසයි.
-
-බස්නාහිර, සබරගමුව හා උතුරු පළාත්වලත් ගාල්ල හා මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75 ක පමාණ තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුක් තළ නිවේදනයේ දැක්වෙයිත
-
-සෙසු ප්‍රහේශවල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/15d29113.json)
 
 ---
 
@@ -2015,5 +1745,303 @@ You will have earned millions of revenues in stores at Nallur festival. Use that
 [Data](articles/1ee6f52e.json)
 
 [Extended Data](ext_articles/1ee6f52e.ext.json)
+
+---
+
+### Sri Lankans protest in Geneva agitations for LTTE supporters
+
+*2025-09-17 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214688) · `si`
+
+Arorists in Europe, the United Sri Lankans living in Europe today (Human Rights Commission in Switzerland) has taken steps to protest against the massive demonstration held in front of the UN Human Rights Commission in Switzerland.
+
+They have opposed the Meeting of the United Nations Secretary-General and a delegation.
+
+Chairman of the organization to appoint a United Nations Truth Resolution Commission to restore the Sehawela Ltd. in Sri Lanka. Ariyamaga Thero has requested.
+
+Accordingly, the Secretary of the United Nations General Secretary of the United Nations, the Secretary of the United Nations has informed the Human Rights Commission to carry out the necessary arrangements.
+
+And the k. Ariyamagas Thero is scheduled to address the United Nations Hummil Session on Friday 13, October 13.
+
+A large number of LTTE supporters were organized by a group of LTTE supporters, accusing of taking human rights violations during the past war.
+
+◼️
+
+[Data](articles/d605bb66.json)
+
+[Extended Data](ext_articles/d605bb66.ext.json)
+
+---
+
+### Ex-President Ranil seen attending event for first time after released on bail
+
+*2025-09-17 20:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112621/ex-president-ranil-seen-attending-event-for-first-time-after-released-on-bail) · `en`
+
+Former President Ranil Wickremesinghe, who was released on bail recently following his arrest over the alleged misuse of public property, has been seen for the first time attending an event after he was discharged from hospital.
+
+Former President Wickremesinghe, attended an event held in Colombo, where he was seen having a cordial conversation with SLPP Member of Parliament Namal Rajapaksa.
+
+Wickremesinghe, who was receiving treatment at the Intensive Care Unit (ICU) of the Colombo National Hospital, was discharged from the hospital on August 29.
+
+The 76-year-old was rushed to the intensive care unit of the National Hospital in Colombo on August 23, just hours after being remanded in custody.
+
+Former President Wickremesinghe was taken into custody for allegedly “misusing government funds” after being questioned about a September 2023 visit to London to attend a ceremony for his wife at a British university while he was head of state.
+
+...
+
+[Data](articles/cd1a9d6e.json)
+
+[Extended Data](ext_articles/cd1a9d6e.ext.json)
+
+---
+
+### “The government will start petroleum studies”
+
+*2025-09-17 19:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-ஆய்வுகளை-அரசாங்கம்-தொடங்கும்/175-364795) · `ta`
+
+President Anura Kumara Dissanayake today said the government will begin a petroleum study with the help of scientists and department experts.
+
+He said this while addressing the construction of six extra oil storage tanks at the Petroleum Storage Complex in Kolonna today.
+
+He said that in the petroleum study, scientists and experts have already volunteered.
+
+“Our people often hear stories about oil reserves only during election times. The first bottle of crude oil was shown during the 1970 election. Currently, we rely on experts and hand over them responsibility, while the government provides only the necessary facilities, ”he said.
+
+◼️
+
+[Data](articles/68cef5b9.json)
+
+[Extended Data](ext_articles/68cef5b9.ext.json)
+
+---
+
+### Timor-Leste scraps plan to buy MPs free cars after protests
+
+*2025-09-17 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112620/timor-leste-scraps-plan-to-buy-mps-free-cars-after-protests) · `en`
+
+Timor-Leste has scrapped a plan to give its lawmakers free cars after thousands of people took to the streets to protest against it.
+
+On Tuesday, demonstrators burned tyres and set a government vehicle alight, while police responded with tear gas - hours later, the government bowed to public pressure and dropped the plan.
+
+Despite this, many returned to the streets, with one protester telling the BBC that they estimated a turn out of around 2,000 demonstrators in the capital Dili on Wednesday.
+
+Though the protests were initially triggered by the cars, they have now expanded to cover calls to remove lifetime pensions for retired lawmakers.
+
+The unrest comes as governments across Asia, from Nepal to Indonesia, have been rocked by angry young protesters taking aim at the perceived excesses of lawmakers.
+
+One student who has chosen not to be identified told the BBC that she was hit by tear gas while she was in front of her university campus.
+
+...
+
+[Data](articles/ffc52c14.json)
+
+[Extended Data](ext_articles/ffc52c14.ext.json)
+
+---
+
+### Pakistan departed from Hotel after delay
+
+*2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹொட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
+
+On the instructions of the Pakistan Cricket Board, the Pakistan team, which was staying in the hotel, has now departed from Hotel for the Asian Cup against the UAE.
+
+The currency cycle of the delayed competition will be held at 8.30 am and will be held at 9 am and will be held at 9 o'clock in the 20 -over match.
+
+However, it is not yet known whether the Andy Bigroft will serve as a rival mediator or not.
+
+◼️
+
+[Data](articles/106f7a73.json)
+
+[Extended Data](ext_articles/106f7a73.ext.json)
+
+---
+
+### Pakistan left the hotel after delay
+
+*2025-09-17 19:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தாமதித்த-பின்னர்-ஹோட்டலிலிருந்து-புறப்பட்ட-பாகிஸ்தான்/44-364794) · `ta`
+
+On the instructions of the Pakistan Cricket Board, the Pakistan team, which was staying in the hotel, has now left the hotel for the Asian Cup against the UAE.
+
+The currency cycle of the delayed competition will be held at 8.30 pm and will start at 9 am and will be held at 20 overs.
+
+However, it is not yet known whether the Andy Bigroft will serve as a rival mediator or not.
+
+◼️
+
+[Data](articles/7f583c30.json)
+
+[Extended Data](ext_articles/7f583c30.ext.json)
+
+---
+
+### Suspect arrested with cannabis mixed with cannabis in Jaffna
+
+*2025-09-17 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225363) · `ta`
+
+A suspect in Navanthurai - Manpitti area has been arrested on Wednesday (17). 470g of cannabis was recovered from him.
+
+The arrest was carried out by the Jaffna Police Station Drug Prevention Unit based on the confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
+
+After investigations, the police are taking steps to bring the suspects in court.
+
+◼️
+
+[Data](articles/1ca93165.json)
+
+[Extended Data](ext_articles/1ca93165.ext.json)
+
+---
+
+### The disagreement of the Indo-Pakistan in the hands of the battle of the battle is running
+
+*2025-09-17 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214687) · `si`
+
+The Pakistan won the match against the United Arab Emirates today (17) against the United Arab Emirates in the Asia Cup 20.
+
+This decision that Pakistan has affected the controversy in the competition against India.
+
+The Pakistani team was determined that Zimbabwe national & Pikechroft should be removed from this competition.
+
+Pakistan alleges that the Indian team has not taken disciplinary action against India against India.
+
+Pakistan had warned that he would leave the tournament unless he removed from the series.
+
+However, a decision to remove the Andy Pikerft tournament has not been taken as the Asian Cricket Council.
+
+Accordingly, the Pakistani team remained in the hotel where they stayed.
+
+Time of Sri Lanka Time. It is reported that they have not yet arrived at the stadium, but they have not arrived at the stadium.
+
+◼️
+
+[Data](articles/57ad3185.json)
+
+[Extended Data](ext_articles/57ad3185.ext.json)
+
+---
+
+### Establishing child-friendly testimony rooms turning point in Sri Lanka’s judicial system: Justice Minister
+
+*2025-09-17 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112619/establishing-child-friendly-testimony-rooms-turning-point-in-sri-lankas-judicial-system-justice-minister-) · `en`
+
+The establishment of secure testimony rooms for children marks a significant turning point in the country’s judicial system, Minister of Justice and National Integration Harsha Nanayakkara stated.
+
+The Minister expressed these views this afternoon (17), via video technology, during the launch event in Kandy for a program aimed at systematizing services for child victims of violence.
+
+Coinciding with this, a digital testimony room equipped with facilities to allow juveniles to give evidence safely was opened at the Kandy Court Complex.
+
+...
+
+[Data](articles/eca07b9f.json)
+
+[Extended Data](ext_articles/eca07b9f.ext.json)
+
+---
+
+### Rumesh wave to match throwing
+
+*2025-09-17 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214686) · `si`
+
+Rumesh wave was able to qualify for the finals of the event held today (17) at World Athletics Championships in Tokyo.
+
+Rumesh won the 12th place to 82.8 meters skills.
+
+Only 12 players can reach the finals of the event, three of them are South Asian (India, Pakistan) players.
+
+No other Asian, other than any other people, could not qualify for the finals of this event.
+
+37 players competed in this competition, and Sumantha Ranasinghe, who was 81.86 meters, were 151.86 meters.
+
+◼️
+
+[Data](articles/a899e5f6.json)
+
+[Extended Data](ext_articles/a899e5f6.ext.json)
+
+---
+
+### பூமியை விட்டு விலகிச் செல்லும் சந்திரன்
+
+*2025-09-17 18:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூமியை-விட்டு-விலகிச்-செல்லும்-சந்திரன்/175-364793) · `ta`
+
+The moon is about 1.5 inches per year away from Earth. Scientists warn that the days can last for 25 hours.
+
+Dr. Stephen Tigeri, a physicist and astronomical researcher at the Michigan State University, said the Moon is about 1.5 inches (3.8 cm) from our planet every year.
+
+As a result, he revealed that the earth's rotation is declining. He also noted that the days are long as the event continues.
+
+As the moon continues to move away, the number of seconds, minutes and end hours in a day will gradually increase - but none of us who are alive today will notice it.. Remble
+
+◼️
+
+[Data](articles/b12b41f9.json)
+
+[Extended Data](ext_articles/b12b41f9.ext.json)
+
+---
+
+### There is no room for a crisis like the death of death in queue - President
+
+*2025-09-17 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214685) · `si`
+
+President Anura Kumara Dissanayake emphasizes that a crisis is not allowed to die in Sri Lanka without fuel and gas.
+
+President Anura Kumara Dissanayake made these comments from the commencement of the construction of six tanks in Kolonnawa Petroleum Store complex today (17).
+
+Three tanks of the Kolonnawa Petroleum Store complex, 2 tanks of Rs.
+
+The President said that the present government was working to ensure that the sovereignty preserves the sovereignty of the energy.
+
+...
+
+[Data](articles/575e622a.json)
+
+[Extended Data](ext_articles/575e622a.ext.json)
+
+---
+
+### The wishes of T20 rating forward
+
+*2025-09-17 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214684) · `si`
+
+The Sri Lanka Starter batsman has come forward to the 6th to the 6th place.
+
+He has come forward with a half centurial (68) in order to the Hong Kong group in the Asia Cup.
+
+The wishes remained at the 7th place in the wishes before playing this innings.
+
+The highest score of the wishes of 751 marks.
+
+Meanwhile, Kusal Perera is also in the 9th place in this rating.
+
+Abhishek Sharma (884) in the front of the Twenty20 batsmen, India remains the second place, second place in England.
+
+The batsman of England is John Butler (794) in the second place.
+
+◼️
+
+[Data](articles/d27795c4.json)
+
+[Extended Data](ext_articles/d27795c4.ext.json)
+
+---
+
+### “Never Again”: President vows to prevent repeat of queue-related deaths
+
+*2025-09-17 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112618/never-again-president-vows-to-prevent-repeat-of-queue-related-deaths) · `en`
+
+President Anura Kumara Dissanayake today (17) emphasized that Sri Lanka will never again face a crisis like the one where people were forced to queue for fuel and gas, sometimes resulting in loss of life, the President’s Media Division.
+
+The President made this statement during the launch of construction work on six new petroleum storage tanks at the Kolonnawa Petroleum Storage Complex.
+
+The President also highlighted that the current government is taking steps to safeguard energy autonomy and achieve economic independence.
+
+President Dissanayake also sought the support of all citizens for the progressive transformation.
+
+◼️
+
+[Data](articles/231a3292.json)
+
+[Extended Data](ext_articles/231a3292.ext.json)
 
 ---

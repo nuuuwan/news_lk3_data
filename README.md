@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 20:56:19**
+As of **2025-09-18 21:20:04**
 
 ## Newspaper Stats
 
-*Scraped **76,791** Articles*
+*Scraped **76,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,468
 adaderanalk | 9,911
-tamilmirrorlk | 11,537
+tamilmirrorlk | 11,538
 virakesarilk | 12,486
-adaderanasinhalalk | 13,396
+adaderanasinhalalk | 13,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,786 (97.4%) of 76,791 articles have been extended.
+74,794 (97.4%) of 76,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
+
+### அடுக்குமாடி குடியிருப்பில் இருந்து விழுந்த சீன. பிஜையின் சடலம் மீட்பு
+
+*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜையின்-சடலம்-மீட்பு/175-364875) · `ta`
+
+தெஹிவளையில் உள்ள அடுக்குமாடி குடியிருப்பு ஒன்றில் இருந்து விழுந்ததாக சந்தேகிக்கப்படும் சீன நாட்டவரின் உடலை தெஹிவளை பொலிஸார் மீட்டுள்ளனர்.
+
+அல்விஸ் வீதியில் உள்ள ஒரு வீட்டின் பின்னால் கிடைத்த தகவலைத் தொடர்ந்து சடலம் கண்டெடுக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+தனியார் துறையில் பணிபுரியும் பல சீன நாட்டவர்கள் வீட்டை ஒட்டிய அடுக்குமாடி குடியிருப்பு வளாகத்தில் வசித்து வருவது தெரியவந்துள்ளது,
+
+◼️
+
+[Data](articles/a242884e.json)
+
+---
+
+### වෑන් රථය බලෙන් පැහැරගත් කල්බදු සමාගමට නියෝගයක්
+
+*2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
+
+කල්බදු වාරික නොගෙවීම හේතුවෙන් ලීසිං සමාගමක් විසින් පැහැරගත් වෑන් රථයක් යළි එහි ලියාපදිංචි හිමිකරුටම ලබාදෙන්නැයි අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය ඊයේ නියෝග කළේය.
+
+අත්තනගල්ල මහේස්ත්‍රාත්වරයා සිය නියෝගය මගින් වැඩිදුරටත් සඳහන් කළේ, කල්බදු ගෙවීම පැහැරහැර ඇති අවස්ථාවක වුවත් වාහනයක් පැහැර ගැනීමට කල්බදු සමාගමකට කිසිඳු නීතිමය බලයක් නොමැති බවය.
+
+ඉකුත් අගෝස්තු මාසයේදී නිට්ටඹුව පල්ලේවෙල ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් මාර්ගය හරස්කර එහි ගමන් කරමින් තිබූ වෑන් රථයක් නවතා එය පැහැර ගැනීමකට ලක්කර තිබුණි.
+
+එහිදී එම පිරිස වාහනයේ හිමිකරුට දන්වා තිබුණේ ඔවුන් ලීසින් ආයතනයක සේවය කරන බවත් කල්බදු වාරික නොගෙවීම හේතුවෙන් වෑන් රථය ගෙන යන බවත් ය.
+
+පසුව වාහනයේ හිමිකරු අත්තනගල්ල පොලිසියට පැමිණිල්ලක් ඉදිරිපත් කර අත්තනගල්ල මහේස්ත්‍රාත් අධිකරණය හමුවේ නඩු ගොනු කළේ අදාළ ලීසිං සමාගම බලහත්කාරයෙන් සිය වාහනය පැහැරගත් බවට චෝදනා කරමිනි.
+
+මෙම නඩුව විභාගයට ගැනීමෙන් පසු වාහනය පැහැරගත් පුද්ගලයින් දෙදෙනෙකු බන්ධනාගාරගත කිරීමට ද අධිකරණය එහිදී නියෝග කර තිබුණි.
+
+...
+
+[Data](articles/23a3e970.json)
+
+---
 
 ### 2026 Appropriation Bill Gazettes
 
@@ -736,21 +774,23 @@ The committee's commander (WFD) representatives (WFD) representatives were able 
 
 ---
 
-### මුදල් ගණුදෙනුවලදී ව්‍යාජ නෝට්ටු ගැන සැලකිලිමත් වන්න
+### Take care of counterfeit notes in money transactions
 
 *2025-09-18 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-ගණුදෙනුවලදී-ව්‍යාජ-නෝට්ටු-ගැන-සැලකිලිමත්-වන්න/11-418588) · `si`
 
-දෛනික අවශ්‍යතා අනුව භාණ්ඩ මිලදී ගැනීමේදී හා විවිධ ගනුදෙනු සඳහා මුදල් පරිහරණය කිරීමේදී එම මුදල් ව්‍යාජ මුදල් නෝට්ටුද යන්න පිළිබඳව සුපරික්ෂාකාරිව හා අවධානයෙන් යුතුව තහවුරු කර ගන්නා ලෙස පොලීසිය මහජනතාවට දැනුම් දෙයි.
+The police informs the public to ensure that the money is consumed and interested in the purchase of goods and custody for various transactions.
 
-මුදල් නෝට්ටු ව්‍යාජ නොවන බවට තහවුරු කර ගැනීමෙන් පසුව මුදල් නෝට්ටු පරිහරණය කිරීමටත් එවැනි ව්‍යාජ මුදල් නෝට්ටු සන්තකයේ තබා ගැන්නා හෝ ගනුදෙනු කරන පුද්ගලයින් පිළිබඳව තොරතුරු ලද වහාම ශ්‍රී ලංකා පොලීසිය දැනුවත් කරන ලෙසත් පොලීසිය පවසයි.
+Police say that after confirmation of cash notes, the police said to use the banknotes and make information about the cash bank notes or informed of such counterfeit notes and inform the Sri Lankan Police.
 
-මේ අතර ඊයේ සවස් කාලයේදී හබරණ නගරයේදී ව්‍යාජ රු. 5000 මුදල් නෝට්ටු දෙකක් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් සිදුකළ වැඩිදුර විමර්ශනදී තවත් ව්‍යාජ රු 5000 නෝට්ටු දෙක බැගින් ළඟ තබාගෙන සිටි පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Meanwhile, in the evening of the evening, the fake Rs. Two other fake Rs. 5000 notes have been arrested in the investigation of 5000 notes.
 
-තවදුරටත් සිදු කළ විමර්ශනවලදී ව්‍යාජ රු 5000 නෝට්ටු මුද්‍රණය කරන ලද සැකකරුවෙක් එවැනි නෝට්ටු 138ක් සමග මුද්‍රණයට යොදා ගන්නා උපකරණද සමග අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+Police say that the fake Rs. 5000 notes were printed with 138 such notes, police said.
 
 ◼️
 
 [Data](articles/0e8895dc.json)
+
+[Extended Data](ext_articles/0e8895dc.ext.json)
 
 ---
 
@@ -2041,49 +2081,5 @@ This included technical training on the legal framework that controlled the cont
 [Data](articles/37837593.json)
 
 [Extended Data](ext_articles/37837593.ext.json)
-
----
-
-### Filed by a student petition
-
-*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
-
-A young student from Bandarawa has sought the High Court, claiming that his constitutional rights had been violated as the University Grants Commission (UGC) refused to graduate on technology based on its disability.
-
-The case was adjourned to the hearing on February 24 next year when the case was taken up before a session of two judges comprising High Court Chief Justice Preeti Padman Surasena and Justice Shiran Gunaratne.
-
-The petitioner claims that he is an alternate student who qualified for the University Admissions in the Technical Division at Dharmapala College, Bandarawela.
-
-He said he had been informed that there were no arrangements to study such degree under the Division of the Disabled Students, despite applying for the Degree of Technology for the 2024/2025 academic year.
-
-The petitioner urges the High Court to declare that his fundamental rights have been violated by the UGC's decision.
-
-...
-
-[Data](articles/7e025974.json)
-
-[Extended Data](ext_articles/7e025974.ext.json)
-
----
-
-### Decisive match waiting for 3 countries in Asia
-
-*2025-09-18 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214701) · `si`
-
-The match between the Sri Lanka team and Afghanistan in the Asian Cup cricket match will be held today (19).
-
-The Sri Lankan team will be at the forefront of the BC and the Afghan group is in its third place.
-
-Sri Lanka and Bangladesh are eligible for the Round 4 of the Super Forecast of the Tournament.
-
-Bangladesh and Afghanistan team will be elected to the Afghanistan group, over 71 runs or 11 overs.
-
-However, the Sri Lankan team is defeated due to the defeat of Afghanistan, the Sri Lanka team and Afghanistan group are eligible for the second round.
-
-◼️
-
-[Data](articles/7523a06a.json)
-
-[Extended Data](ext_articles/7523a06a.ext.json)
 
 ---

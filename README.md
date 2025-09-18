@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 12:13:15**
+As of **2025-09-18 13:06:45**
 
 ## Newspaper Stats
 
-*Scraped **76,697** Articles*
+*Scraped **76,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,281 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,451
-adaderanalk | 9,898
-tamilmirrorlk | 11,512
-virakesarilk | 12,478
-adaderanasinhalalk | 13,376
+adalk | 7,452
+adaderanalk | 9,904
+tamilmirrorlk | 11,518
+virakesarilk | 12,482
+adaderanasinhalalk | 13,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,263 (96.8%) of 76,697 articles have been extended.
+74,327 (96.9%) of 76,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### දඹුල්ලේ සතිපොළේ කඩකාමරයක් ගිනිගෙන දැවෙයි
+### துப்பாக்கிச்சூடு நடத்தியவர்கள் மீது என்கவுண்டர்
+
+*2025-09-18 12:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/துப்பாக்கிச்சூடு-நடத்தியவர்கள்-மீது-என்கவுண்டர்/54-364845) · `ta`
+
+பிரபல பாலிவுட் நடிகை திஷா பதானியின் வீட்டின் வெளியே துப்பாக்கிச்சூடு நடத்தியவர்கள் என்கவுன்ட்டரில் சுட்டுக்கொல்லப்பட்டனர்.
+
+உத்தரப் பிரதேச மாநிலம் பரேலியில் உள்ள நடிகை திஷா பதானியின், வீட்டின் வெளியே கடந்த 12ஆம் திகதி அதிகாலையில் அடையாளம் தெரியாத நபர்கள் துப்பாக்கிச்சூடு நடத்தியதால் பரபரப்பான சூழல் நிலவியது. இவ்வழக்கில் சிசிடிவி காட்சிகளைக் கைப்பற்றி காவல் துறையினர் விசாரணை மேற்கொண்டனர்.
+
+அதில், துப்பாக்கிச் சூடு நடத்தியவர்கள் ரவிந்திரா மற்றும் அருண் எனும் இருவர் என கண்டுபிடிக்கப்பட்டது. இந்நிலையில், அவ்விருவரையும் காசியாபாத் அருகே காவல் துறையினர் சுற்றிவளைத்தனர். அப்போது, அவர்கள் இருவரும் காவல் துறையினரை நோக்கி துப்பாக்கிச் சூடு நடத்தியதாகக் கூறப்படுகிறது.
+
+இதையடுத்து, காவல் துறையினர் நடத்திய பதில் துப்பாக்கிச்சூட்டில் இருவரும் பலத்த காயமடைந்து, மருத்துவமனையில் அனுமதிக்கப்பட்டனர். ஆனால், சிகிச்சை பலனின்றி அவர்கள் இருவரும் உயிரிழந்தனர். அவர்களிடமிருந்து துப்பாக்கி உள்ளிட்ட ஆயுதங்கள் பறிமுதல் செய்யப்பட்டுள்ளதாகவும் தகவல் வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/4f534405.json)
+
+---
+
+### ලංවිම ප්‍රධාන කාර්යාලය ඉදිරිපිට උද්ඝෝෂණයක් - මාර්ගය අවහිර වෙයි
+
+*2025-09-18 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214708) · `si`
+
+අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයට සමගාමීව ලංවීම සේවකයින් විසින් විදුලිබල මණ්ඩලයේ කොළඹ ප්‍රධාන කාර්යාලය ඉදිරිපිට මේ වනවිට විරෝධතාවයක නිරතව සිටියි.
+
+මේ හේතුවෙන් ප්‍රධාන කාර්යාලය ඉදිරිපිට මාර්ගයේ දැඩි රථවාහන තදබදයක් පවතින බව අද දෙරණ වාර්තාකරු සඳහන් කළේය.
+
+ඒ අනුව කොම්පඤ්ඤවීථියේ සිට ලේක්හවුස් වටරවුම දක්වා එක් මන්තීරුවක දැඩි රථවාහන තදබදයක් පවතින බව අද දෙරණ වාර්තාකරු වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/38ca16d1.json)
+
+---
+
+### One lane opposite CEB head office closed due to protest
+
+*2025-09-18 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112645/one-lane-opposite-ceb-head-office-closed-due-to-protest) · `en`
+
+One lane on the road from Slave Island to Lake House roundabout has been closed due to a protest staged by Ceylon Electricity Board (CEB) employees opposite of the CEB head office, Ada Derana reporter said.
+
+Accordingly, the movement of traffic along the Chittampalam A. Gardiner Mawatha towards Slave Island has been restricted, police stated.
+
+Police confirmed heavy traffic has been reported in the area and requested motorists to use alternative roads.
+
+Electricity trade unions have been staging a protest against the way in which authorities are MOVING forward the restructuring process of the CEB.
+
+Meanwhile, trade unions have also warned that they will further intensify their ongoing trade union actions if their demands continue to be ignored.
+
+Unions commenced a work-to-rule campaign on September 4, in protest against what they describe as the arbitrary restructuring of the Ceylon Electricity Board (CEB).
+
+...
+
+[Data](articles/aa75ba22.json)
+
+---
+
+### "Get out of work": Minister Action
+
+*2025-09-18 12:31:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைச்-செய்-இன்றேல்-வெளியேறு-அமைச்சர்-அதிரடி/175-364843) · `ta`
+
+Transport Minister Bimal Ratnayake has said that the officials who are unable to implement the railway services should resign from their posts.
+
+Speaking at a meeting with MPs and Transport Officers at the Kalutara District Secretariat, the Minister criticized the Railway Department for failing to provide basic facilities to the passengers.
+
+“The windows on trains should be closed properly. When they are not properly closed, the seats are soaked. No fan will work. Two and a half hours of journey from Galle to Colombo, there is no water in the same toilet. These are office trains - but passengers are forced to travel in such a situation. Officials have no interest in the public, ”he said.
+
+Minister Ratnayake also pointed out the latest incident that a boy from Ja-Ela fell into the window of his first train trip and lost two fingers.
+
+◼️
+
+[Data](articles/9b9e14bd.json)
+
+[Extended Data](ext_articles/9b9e14bd.ext.json)
+
+---
+
+### Shop at Dambulla market destroyed in fire
+
+*2025-09-18 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112644/shop-at-dambulla-market-destroyed-in-fire) · `en`
+
+A fire broke out in a shop within the Dambulla weekly market belonging to the Dambulla Municipal Council early this morning (18).
+
+An employee of the Dambulla Municipal Council had noticed the fire upon reporting for duty this morning and promptly informed the Fire Brigade, Ada Derana reporter said.
+
+Accordingly, they were able to bring the blaze under control.
+
+While the cause of the fire is yet to be determined, it has been confirmed that the shop had been used to store stocks of polythene. All polythene and other stored materials were completely destroyed in the incident.
+
+The Mayor of the Dambulla Municipal Council, Wasantha K. Rajamanthrie stated that if the fire had spread, it could have posed a serious risk to the many shops and residents adjacent to the market.
+
+◼️
+
+[Data](articles/7ad7e5cc.json)
+
+---
+
+### Trump drug leap on 23 countries including India and China
+
+*2025-09-18 12:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-சீனா-உள்ளிட்ட-23-நாடுகள்-மீது-ட்ரம்ப்-போதைப்-பொருள்-பாய்ச்சல்/50-364842) · `ta`
+
+US President Donald Trump has said that 23 countries, including China, Afghanistan, India and Pakistan, have a major role in drug trafficking and production.
+
+In a statement filed in the Trump parliament, Afghanistan, The Belis, Bolivia, Myanmar, China, Columbia, Costa Rica, The Dominician Republic, Ecuador, Elwadar, Elwadar, Gautamala, Haitamala, Haitu, Haitura, Haituras, India, Jamaica, Jamaica, Jamaica Venezuela are also featured. It is reported that these countries play an important role in drug production and trafficking.
+
+...
+
+[Data](articles/ad3686c2.json)
+
+[Extended Data](ext_articles/ad3686c2.ext.json)
+
+---
+
+### India has categorically rejected US intervention
+
+*2025-09-18 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225379) · `ta`
+
+Pakistani External Affairs Minister Ishaq Tar has said that India has categorically rejected US intervention as US President Donald Trump has intervened in the clash between India and Pakistan.
+
+With this, India's position has confirmed that India does not need a third country intervention to stop the war.
+
+US President Tiprump continued to say, "I have stopped the war between India and Pakistan.". But India denied this and said, “We stopped the attack because Pakistan begged. There is no intervention in the third country. ”
+
+Pakistani Foreign Minister Ishaq Tar told a private television channel that he had received information about the ceasefire on May 11 by US Secretary of State Marco Rubio.
+
+But when he met Rubio in Washington on July 25, Ihak Tar said that Rubio replied, "India has rejected any third-party intervention because India said this was a bilateral issue."
+
+...
+
+[Data](articles/b65093b3.json)
+
+[Extended Data](ext_articles/b65093b3.ext.json)
+
+---
+
+### Bail
+
+*2025-09-18 12:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துசிதவுக்கு-பிணை/175-364841) · `ta`
+
+Former Director of the National Lotter Board, Dusitha Halluluwa has been released on bail. The order was issued by the Colombo Magistrate's Court on Thursday (18).
+
+Dusitha Halluluwa, the former Director of the National Lotter Board, was arrested on suspicion of firing at the Narahenpitti area on his passenger vehicle.
+
+In this case, the Colombo Criminal Investigation Division (CID) was arrested on August 19 by the Colombo Criminal Investigation Division in connection with the shooting incident.
+
+◼️
+
+[Data](articles/d9b8751c.json)
+
+[Extended Data](ext_articles/d9b8751c.ext.json)
+
+---
+
+### Four people arrested with fake currency notes of 5 thousand rupees
+
+*2025-09-18 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225391) · `ta`
+
+Four suspects have been arrested with a number of laptops, computers and other equipment used to print 145 fake 5 thousand rupee currency notes and them in a raid conducted by the Habarana police this morning (18).
+
+The Habarana police have arrested other suspects involved in the fraud, based on information received from the main suspect in the circulation of 5 thousand rupees in the Habarana area.
+
+Preliminary inquiries have revealed that the suspects had printed fake currency notes in the Madawachiya area and had come to the Habarana area and that the fraud had been going on for a long time.
+
+Police said the suspects were between the ages of 20 and 30 and were residing in the Madhavachiya area.
+
+On the instructions of Palitha Ilangasekara, the officer in charge of the Habarana Police Station, a team of police officers led by police officer Wimal Siriwardena have arrested the suspects along with fake currency notes.
+
+◼️
+
+[Data](articles/9cedae73.json)
+
+[Extended Data](ext_articles/9cedae73.ext.json)
+
+---
+
+### Backo Saman's wife
+
+*2025-09-18 12:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கோ-சமன்-னின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-364840) · `ta`
+
+Shadika Lakshani, wife of Backo Samanam, who was kept in detention under the Prevention of Cash Act, has been extended till September 25. He, Colombo Chief Magistrate. He was produced in the presence of Bodaragama on Thursday (18). Meanwhile, the extension order has been issued as the above.
+
+◼️
+
+[Data](articles/4f5a18a9.json)
+
+[Extended Data](ext_articles/4f5a18a9.ext.json)
+
+---
+
+### Referee on the throw of Pakistani field
+
+*2025-09-18 11:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-களத்தடுப்பாளரின்-எறியில்-வெளியேறிய-நடுவர்/44-364839) · `ta`
+
+In the Asian Cup series, Pakistan and the United Arab Emirates have left the field after a Pakistani fielder threw a ball.
+
+........ During the sixth over of the United States, the ball was thrown towards the bowling Sai Ayoub in the left ear of the Sri Lankan referee Ruchira school.
+
+Pakistan's anatomical expert checked to see if there was dizziness in the school, and left the field due to the prevailing security.
+
+◼️
+
+[Data](articles/bb336b49.json)
+
+[Extended Data](ext_articles/bb336b49.ext.json)
+
+---
+
+### A shopple in the weekly fair in Dambulla shoes
 
 *2025-09-18 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214706) · `si`
 
-දඹුල්ල මහනගර සභාවට අයත් දඹුල්ල සතිපොළ භූමියේ කඩ කාමරයක් තුළ අද (18) අලුයම ගින්නක් හට ගෙන තිබුණි.
+A fire had erupted in a shop in the Dambulla prelame in the Dambulla Muntama.
 
-දඹුල්ල නගර සභාවේ සේවකයෙකු අලුයම සේවයට වාර්තා කරන අවස්ථාවේ දී ගින්න දැක වහාම ගිනිනිවන ඒකකය දැනුවත් කිරීමෙන් පසුව ගින්න මැඩපැවැත්වීමට හැකිව තිබේ.
+The fire has been able to crush the fire after the fire is seen immediately after reporting the Fire in the Dambulla Municipal Council.
 
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගින්න හටගත් කඩ කාමරය තුළ දඹුල්ල මහනගර සභාව මඟින් පොලිතින් තොග ගබඩාකොට තිබුණු බව ද එම සියලූම පොලිතින් සහ අනෙකුත් ද්‍රව්‍ය විනාශ වී තිබී ඇති බවට ද වාර්තාවේ සඳහන්ය.
+The cause of the fire is yet to be determined and all polythene and other substances have been destroyed in the polythene.
 
-දඹුල්ල නගර සභාවේ නගරාධිපති වසන්ත කේ. රාජමන්ත්‍රී මහතා පවසා ඇත්තේ, ගින්න පැතිර ගියේ නම් දඹුල්ල සතිපොළ භූමියේ යාබඳව විශාල කඩ කාමර ප්‍රමාණයක් සහ එහි පදිංචිකරුවන්ද අනතුරකට ලක්වීමේ අවදානමක් පැවති බවයි.
+Mayor of Dambulla Urban Council Wasantha K. Rajayaramy said that if the fire spread, he was at risk of a large number of shop rooms and residents of Dambulla.
 
 ◼️
 
 [Data](articles/fff59cb9.json)
+
+[Extended Data](ext_articles/fff59cb9.ext.json)
+
+---
+
+### There are many problems with the CEB issues to work efficiently.
+
+*2025-09-18 11:43:42* · [`adalk`](https://www.ada.lk/breaking_news/කාර්යක්ෂමව-වැඩ-කරන්න-විදුලිබල-මණ්ඩලයේ-ගැටලු-ගණනාවක්-තිබෙනවා-/11-418575) · `si`
+
+We do not do any political impact to the Electricity Board. We say that the efficient work. There are many problems in the structure of the CEB. We provide the opportunity to work in a professional honor through the restructuring. But on political needs, this will cause problems.
+
+A small number of people still tried a failed attempt. Safeguard rights remembers that employees deceived and do not to do politics by lies.
+
+Prime Minister Dr. Haraini Amarasuriya said this while participating in the Industry Kerawalapitiya Power Plant (Sept Sep 17) at Kerawalapitiya.
+
+◼️
+
+[Data](articles/c3bda561.json)
+
+[Extended Data](ext_articles/c3bda561.ext.json)
+
+---
+
+### Wife of ‘Backhoe Saman’ further remanded
+
+*2025-09-18 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112643/wife-of-backhoe-saman-further-remanded-) · `en`
+
+The wife of underworld figure ‘Backhoe Saman’, Shadhika Lakshani, who is currently in remand custody under the Prevention of Money Laundering Act, has been further remanded until September 25 by the Colombo Magistrate’s Court, Ada Derana reporter said.
+
+The Magistrate has also ordered the Director of the Police Narcotics Bureau to appear before court on that date.
+
+The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after considering the submissions presented by the Criminal Investigation Department (CID) and the legal counsel representing the suspect.
+
+◼️
+
+[Data](articles/75dbb8cb.json)
+
+[Extended Data](ext_articles/75dbb8cb.ext.json)
 
 ---
 
@@ -130,6 +374,50 @@ They scolded him and insulted him. At the peak, Akila's photos in their hands - 
 
 ---
 
+### Restrictions imposed on entry to BIA Departure Lobby amended
+
+*2025-09-18 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112642/restrictions-imposed-on-entry-to-bia-departure-lobby-amended) · `en`
+
+Restrictions imposed to enter the Departure Lobby of the Bandaranaike International Airport (BIA) have been amended.
+
+Last month, the Airport and Aviation Services (Sri Lanka) (Private) Limited announced that visitor entry tickets to the Departure Lobby of the BIA will not be issued during peak hours of Thursdays, Fridays and Saturdays.
+
+Accordingly, entry to the lobby was not permitted for visitors from 10:00 p.m. to midnight on Thursdays, Fridays and Saturdays.
+
+However, the Airport and Aviation Services (Sri Lanka) (Private) Limited said the restrictions will now be applicable only on Thursday and Saturdays.
+
+The company noted that the decision was taken in order to manage the congestion at the airport and to enhance the experience of travelers.
+
+◼️
+
+[Data](articles/f6d1bf23.json)
+
+[Extended Data](ext_articles/f6d1bf23.ext.json)
+
+---
+
+### Kandy Dalada Maligawa Diyawadana Nilame election date announced
+
+*2025-09-18 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112641/kandy-dalada-maligawa-diyawadana-nilame-election-date-announced) · `en`
+
+The election for the Diyawadana Nilame of the Sri Dalada Maligawa in Kandy is scheduled to take place on or around November 7, the Commissioner General of Buddhist Affairs, Gamini Senarathna has stated.
+
+The term of the incumbent Diyawadana Nilame ended earlier this month. He was then appointed for three months in acting capacity.
+
+Accordingly, arrangements have been made to hold the election for the appointment of a new Diyawadana Nilame on or near November 7.
+
+Incumbent Diyawadana Nilame Pradeep Nilanga Dela was first appointed to the post in 2005.
+
+Since then, he has been elected twice to the post through elections.
+
+◼️
+
+[Data](articles/3c253823.json)
+
+[Extended Data](ext_articles/3c253823.ext.json)
+
+---
+
 ### Diyawadana Nilame in Sri Dalada Maligawa will decide
 
 *2025-09-18 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214702) · `si`
@@ -150,6 +438,24 @@ Thereafter he was elected to the Diyawadana Nilame in two occasions.
 
 ---
 
+### Bail for Tusita Hallulu!
+
+*2025-09-18 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225387) · `ta`
+
+Former Director of the National Lotter Board, Dusitha Halluluwa, has been released on bail.
+
+Former Director of the National Lottery Board, Dusitha Halluluwa was arrested and interrogated on suspicion of firing on the vehicle he was traveling in.
+
+It is noteworthy that the Colombo Criminal Investigation Division was arrested on August 19 in Kaluppitti area.
+
+◼️
+
+[Data](articles/7128c9cc.json)
+
+[Extended Data](ext_articles/7128c9cc.ext.json)
+
+---
+
 ### A sample service for boys affected by violence
 
 *2025-09-18 11:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்முறைகளால்-பாதிக்கப்படும்-சிறுவர்களுக்கான-ஒரு-மாதிரிச்-சேவை/175-364834) · `ta`
@@ -165,6 +471,22 @@ This model service includes six primary initiatives that introduce many changes 
 [Data](articles/49898beb.json)
 
 [Extended Data](ext_articles/49898beb.ext.json)
+
+---
+
+### The body of the man from the canal in Tissamaharam
+
+*2025-09-18 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225385) · `ta`
+
+The body of a man has been recovered from the canal in the Chandungama Pragati Mawatha area, which belongs to the Tissamaharam Police Division in Hambantota, Tissamaharam police said.
+
+Initial investigations by the police revealed that he was beaten to death by a bottle of personal dispute and drowned in water.
+
+◼️
+
+[Data](articles/22e19975.json)
+
+[Extended Data](ext_articles/22e19975.ext.json)
 
 ---
 
@@ -768,21 +1090,23 @@ Public Consultation on the Third Electricity Tariff Revision – 2025
 
 ---
 
-### ඉන්න බැරිනම් යන්න ඇමති බිමල් දුම්රියට අවසන් අනතුරු ඇඟවීම දෙයි
+### If not to wait, the Minister's biroleton warns final warning
 
 *2025-09-18 08:11:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්න-බැරිනම්-යන්න-ඇමති-බිමල්-දුම්රියට-අවසන්-අනතුරු-ඇඟවීම-දෙයි/11-418571) · `si`
 
-දුම්රිය දෙපාර්තමේන්තුවේ අතිශය අකාර්යක්ෂමතාව සම්බන්ධයෙන් ප්‍රවාහන අමාත්‍ය බිමල් රත්නායක මහතා ප්‍රසිද්ධියේ විවේචනය කළේය. දුම්රිය දෙපාර්තමේන්තුවේ ඉන්න බැරිනම් යන ලෙසත් ඔහු පැවැසීය.
+Transport Minister Bimal Ratnayake publicly criticized the extreme inefficiency of the Railway Department. He added to the Railway Department if not.
 
-"කෝච්චිවල ජනේල වහන්න බෑ. ජනේල වැහුවට පස්සේ රස්නෙන් පිච්චෙනවා. එක ෆෑන් එකක් වැඩ නෑ. මම මාර්තු
+"The windows of trains cannot close. When the windows closed, the hell burn. There's no fan work. I'm March
 
-මාසයේ ඉදන් කියනවා ෆෑන් ටික හදන්න කියලා. එක වොෂ් රූම් එකක වතුර නෑ. මම කිව්වා වොලන්ටියර්ල දෙන්නම්කියලා. ෆෑන් ටික දෙන්න බැරිව මොන කථාද?  මිනිස්සු වේලෙනවා, තෙමෙනවා. මාර්තු ඉදන් ෆෑන් ටිකක් හදන්න බැරිවමොනවද කරන්නේ. ඇයි එමෙහ කරන්නේ.
+From month to make fan. There is no water in one wash rom. I said Walnillers. What speech are you unable to give the fan?  People dry, the one. Do you can't make some fans from March. Why do you?
 
-මිනිස්සු ගැන සත පහක හැගීමක් නැති අය ඉන්නේ දුම්රිය දෙපාර්තමේන්තුවේ. මිනිස්සු මරණ තුනක් ඉන්නේ. වහිනකොට තෙමෙනවා ජනේල් වහන්න බෑ. ජනේල් වැහුවොත් දාඩිය දානවා ෆෑන් නෑ. වොෂ් රූම්වල වතුර නෑ. හිර ගෙයක් වගේ. මේක කරන්න නැත්නම් මම රත්මලානට මගීන් එවනවා. ජා ඇල සීදුව පැත්තේ අවුරුදු හතරක ළමයෙක් කේච්චියේපළවෙනි ගමන යන්න ඇවිත් ජනේලයක් වැටිලා ඒ ළමයගේ ඇඟිලි දෙකක පුරුක් දෙකක් තැලුණා.
+Those who feel about five pennies are in the Railway Department. People are three deaths. When you shut down, the windows cannot close. If the windows stimulate the windows, no Fan. There is no water in Wash Room. Looks like a prison. Do this or I send passengers to Ratmalana. Four years on Ja-Canal on Ja A Canal, four years on the Cachchiatha, and fell into two fingers of the kid.
 
 ...
 
 [Data](articles/cb85f110.json)
+
+[Extended Data](ext_articles/cb85f110.ext.json)
 
 ---
 
@@ -1675,351 +1999,5 @@ The Bribery and Corruption Commission should conduct a formal inquiry into the a
 [Data](articles/563d0f6e.json)
 
 [Extended Data](ext_articles/563d0f6e.ext.json)
-
----
-
-### There are humans in Gaza
-
-*2025-09-18 02:38:02* · [`dailyftlk`](https://www.ft.lk/columns/There-are-humans-in-Gaza/4-781824) · `en`
-
-Mushtaha Tower in Gaza City destroyed by Israeli fire on 5 September 2025 – Photo by Mahmoud Issa/Reuters
-
-The Mushtaha residential tower stands tall next to a sea of tents in the West of Gaza City. A guided bomb from an Israeli military jet hits its base, throwing debris, dust, and a cloud of ashen hell into the air. While the video captures the air barely clearing, and even as we get a glimpse of the building still managing to stand, a second bomb hits. The Mushtaha tower comes down on itself in an explosion that rattles the earth.
-
-There have been mice inside the tower, and insects. Cockroaches and their ilk. These insignificant creatures stand no chance as the world literally collapses around them. With no one to explain what is happening, no one around to evacuate them, the mice and the cockroaches die in their hundreds and thousands, and the former tower becomes their tomb.
-
-...
-
-[Data](articles/f216caf0.json)
-
-[Extended Data](ext_articles/f216caf0.ext.json)
-
----
-
-### Geneva arena, Mahinda Rajapaksa returns to Ruhuna, Sri Lanka-Nepal outcomes
-
-*2025-09-18 02:25:02* · [`dailyftlk`](https://www.ft.lk/columns/Geneva-arena-Mahinda-Rajapaksa-returns-to-Ruhuna-Sri-Lanka-Nepal-outcomes/4-781822) · `en`
-
-Ambassador of China calls on MR before he leaves Colombo residence
-
-Bristling with misplaced arrogance as always, JVP theoretician and NPP Minister Bimal Rathnayake boasted in Parliament that 43 countries had spoken in favour of Sri Lanka after Foreign Minister Vijitha Herath’s address to the UNHRC in Geneva following UN Human Rights High Commissioner Volker Turk’s Report. Bimal seems unaware that 43 is not the most relevant figure. While all 193 UN member states are present in Geneva and have the right to speak, only 47 of the 193 have been elected members of the UNHRC with full voting rights at any given time.
-
-Therefore, the relevant question is how many of the 43 countries that spoke in support of Vijitha Herath’s stand, currently enjoy UNHRC ‘member state’ status with voting rights? How many of the 43 can vote at this session?
-
-The answer is 14. That’s way less than half, and slightly under a third.
-
-...
-
-[Data](articles/db36a3ff.json)
-
-[Extended Data](ext_articles/db36a3ff.ext.json)
-
----
-
-### 2025-09-17 (Wednesday)
-
-### Avocado magic …
-
-*2025-09-17 23:44:00* · [`islandlk`](http://island.lk/avocado-magic/) · `en`
-
-It’s all about avocado this week … yes, avocado magic, so do try it out.
-
-All you need is 02 tablespoons of mash avocado and 01 tablespoon of honey.
-
-Mix the mash avocado with the honey and apply the mixture to your face. Let it remain for 20 minutes and then rinse off.
-
-Apply the mixture to your face and leave it on for 15–20 minutes, and then rinse off.
-
-Reduces fine lines, boosts collagen production, keeping skin youthful and firm.
-
-Gently scrub the mixture onto your face, in circular motions.
-
-Gently exfoliates and removes dead skin cells and leaves skin soft and smooth.
-
-Reduces puffiness around the eyes, and nourishes and hydrates the delicate under-eye skin.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/bb187926.json)
-
-[Extended Data](ext_articles/bb187926.ext.json)
-
----
-
-### Solid Foundations, Stronger Futures: ICC Readymix powers Sri Lanka’s construction growth
-
-*2025-09-17 23:35:00* · [`islandlk`](http://island.lk/solid-foundations-stronger-futures-icc-readymix-powers-sri-lankas-construction-growth/) · `en`
-
-ICC (International Construction Consortium Pvt Ltd) revolutionised Sri Lanka’s construction industry in 1992 by introducing Readymix concrete, marking the start of a new era in building technology and operational efficiency. With over three decades of experience, ICC Readymix continues to lead the industry, delivering high-performance concrete solutions for projects ranging from residential developments to major infrastructure across the island.
-
-With strategically located batching plants in Madapatha and Galkulama, ICC Readymix ensures easy access and rapid delivery across regions, supporting the pace and scale of modern construction demands.
-
-Offering a full range of concrete grades from G10 to G70, ICC Readymix caters to a wide variety of structural requirements. Whether it’s durable foundations for homes or high-strength mixes for commercial towers, ICC Readymix delivers materials that meet the highest standards of strength, durability, and precision.
-
-...
-
-[Data](articles/0d992565.json)
-
-[Extended Data](ext_articles/0d992565.ext.json)
-
----
-
-### Heritance Kandalama wins Gold at ICRT Indian Subcontinent Responsible Tourism Awards 2025
-
-*2025-09-17 23:34:00* · [`islandlk`](http://island.lk/heritance-kandalama-wins-gold-at-icrt-indian-subcontinent-responsible-tourism-awards-2025/) · `en`
-
-Heritance Kandalama has been awarded Gold under the Climate Adaptation and Resilience category at the ICRT Indian Subcontinent Responsible Tourism Awards 2025, held in New Delhi. This was in recognition of its outstanding contributions to responsible tourism through proactive, innovative, and scalable steps to both reduce their carbon footprint and protect tourism infrastructure, communities, and ecosystems from climate-related risks. The prestigious accolade highlights the resort’s pioneering achievements in sustainable hospitality and reinforces its leadership role in shaping the future of tourism in Sri Lanka and the wider region.
-
-...
-
-[Data](articles/1b1d4371.json)
-
-[Extended Data](ext_articles/1b1d4371.ext.json)
-
----
-
-### Colombo bourse rallies on strong Q2 GDP data
-
-*2025-09-17 23:33:00* · [`islandlk`](http://island.lk/colombo-bourse-rallies-on-strong-q2-gdp-data/) · `en`
-
-The Colombo Stock Exchange (CSE) bounced back yesterday following the Finance Ministry’s announcement on positive second quarter GDP data – with a rally that drove the market – to a positive territory, the market analysts said.
-
-...
-
-[Data](articles/524cf0f2.json)
-
-[Extended Data](ext_articles/524cf0f2.ext.json)
-
----
-
-### NDB Bank partners with Ministry of Industries to power businesses with Solar through E-Friends II Refinance Loan Scheme
-
-*2025-09-17 23:32:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-ministry-of-industries-to-power-businesses-with-solar-through-e-friends-ii-refinance-loan-scheme/) · `en`
-
-Strengthening its commitment to sustainability and economic progress, NDB Bank, in collaboration with the Ministry of Industries, has introduced a special facility under the “E-Friends II” Refinance Loan Scheme dedicated to promoting solar adoption among Sri Lankan entrepreneurs. This initiative is designed to make renewable energy more accessible and affordable, enabling businesses to transition to cleaner energy solutions while enhancing operational efficiency.
-
-As the demand for renewable energy grows in response to rising energy costs and environmental challenges, the E-Friends II Solar Refinance Loan Scheme provides businesses with the financial backing needed to invest in solar power. The facility offers loans of up to Rs. 10 million at a highly competitive annual interest rate of 6.5%, with a repayment period of up to 10 years. Businesses can install solar capacity of up to 50KW, giving them a practical and sustainable pathway to reduce costs while lowering their carbon footprint.
-
-...
-
-[Data](articles/13011e92.json)
-
-[Extended Data](ext_articles/13011e92.ext.json)
-
----
-
-### Order to leave the people in Gaza immediately
-
-*2025-09-17 22:44:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-உள்ள-மக்களை-உடனடியாக-வெளியேறுமாறு-உத்தரவு/50-364810) · `ta`
-
-Throughout Gaza, Israel is carrying out intense air and ground attacks.
-
-The attacks have begun as the United Nations inquiry revealed that Israel's genocide had been murdered in Gaza, in accordance with top officials, including Prime Minister Benjamin Netanyahu.
-
-International reports say that at least 40 people have been killed in Gaza Nagar in today's attacks, Gaza health officials said.
-
-The Hamas Health Ministry said that three hospitals, including the Children's Hospital in Gaza, were targeted in the bomb blast last night.
-
-Meanwhile, the Israeli military today announced that it will open the road for another 48 hours to leave the Palestinian people.. Remble
-
-◼️
-
-[Data](articles/c6dd9616.json)
-
-[Extended Data](ext_articles/c6dd9616.ext.json)
-
----
-
-### MP Dilith Jayaweera joins religious rituals
-
-*2025-09-17 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214691) · `si`
-
-Naringoda Vijithasiri Thero states that the present and future is based on the country's contents of Buddhism.
-
-He was speaking at a maritime held in the ancient Rajamaha Viharaya in Gampaha today.
-
-The Buddhist cereal ceremony was held in Janasana Yamaha Viharaya, Gampaha, Gampaha today to mark the Norrobial Patrol Dilith Jayaweera.
-
-Anaxaker Dharmapala also recalled the 161th birthday of the birth.
-
-Catholic Religious Relics was held today at the Randella and Japala town of Japala.
-
-Mr. Dilith Jayaweera was also friendly speech with the people.
-
-◼️
-
-[Data](articles/f7dfc992.json)
-
-[Extended Data](ext_articles/f7dfc992.ext.json)
-
----
-
-### Monk arrested with heroin
-
-*2025-09-17 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214690) · `si`
-
-Three persons including a monk who had kept heroin have been arrested by the Matale Division Criminal Investigation Division last night (16).
-
-Accordingly, a 38-year-old monarchy of the Alawwa Police Division was a 38 year old.
-
-පොලීසිය විසින් එම චීවරධාරියා අත්අඩංගුවට ගන්න විට හෙරොයින් ග්‍රෑම් 10යි මිලිග්‍රැම් 300ක් සන්තකයේ තිබී ඇත.
-
-The other two suspects were aged between 29 and 31, and they had 17 grams of heroin.
-
-The three arrested was produced before the Polgahawela Courts today (17), and the police have been permitted to hold seven days and interrogation.
-
-It is reported that the suspects were involved in the drug trafficking of Navy Dinesh, Minuwangoda.
-
-◼️
-
-[Data](articles/6350b4e6.json)
-
-[Extended Data](ext_articles/6350b4e6.ext.json)
-
----
-
-### ‘Ariyakammattana’ organization opposes pro-LTTE protest in Geneva
-
-*2025-09-17 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112625/ariyakammattana-organization-opposes-pro-ltte-protest-in-geneva) · `en`
-
-A collective of Sri Lankans living in Europe, under the banner of the ‘Ariyakammattana’ organization, has taken steps to oppose a large-scale protest held today (17) in front of the United Nations Human Rights Office in Geneva, Switzerland by pro-LTTE supporters.
-
-The organization expressed its opposition by meeting with a delegation of the UN Human Rights Council.
-
-During the meeting, the Chairman of the ‘Ariyakammattana’ organization, Venerable K. Ariyamagga Thero, made an appeal requesting the United Nations to establish a Truth Commission with the aim of restoring the heritage and historical rights of the Sinhalese as the original inhabitants of Sri Lanka.
-
-Following this request, UN representatives reportedly accepted the proposal and informed the UN Human Rights Council to initiate the necessary procedures for setting up such a commission.
-
-...
-
-[Data](articles/f3dd3d79.json)
-
-[Extended Data](ext_articles/f3dd3d79.ext.json)
-
----
-
-### Conditions of mineral transportation changes at school days
-
-*2025-09-17 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214689) · `si`
-
-At the date of schools. 06.30 pm. 07.45 and. 11.30 pm. The new condition imposed on suspicion of mineral activities during the period was up to 02.30 has been amended.
-
-According to the influence of minerals in connection with the construction industry in an announcement, the construction industry has decided to consider the inconveniences of the construction industry, considering the inconveniences of the construction industry.
-
-Accordingly, mineral transports should be carried out with the severe supervision of the police with a confusion of the vehicles near the schools and roads.
-
-Therefore, in the days of schools today (17). 06.30 pm. 07.45 and. 11.30 pm. The transportation of minerals within the duration of Rs.
-
-Traffic driving in mineral transportation due to unrestrained vehicles in the transportation of vehicles. 06.30 pm. 07.45 and. 11.30 pm. The suspension of minerals had been suspended at the end of the 4th.
-
-◼️
-
-[Data](articles/8354d248.json)
-
-[Extended Data](ext_articles/8354d248.ext.json)
-
----
-
-### We have been trying for 14 years to protect the cabinet; The Department of Archeology
-
-*2025-09-17 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225365) · `ta`
-
-The Department of Archeology has abandoned that it has not been beneficial for more than 14 years to protect the king's minister who ruled Jaffna Rasadan.
-
-One side of the archaeological minister has collapsed due to the rains on Wednesday 17th of Wednesday in Jaffna.
-
-The Jaffna Regional Assistant Director of the Department of Archeology, U.A. Bandula Jeeva, said so.
-
-The Jaffna Rasanani, which is considered to be the time of Jaffna, has been declared in the Gazette in 2011 as the Archaeological Site to be preserved.
-
-Various attempts were made to protect and renovate the minister's mind. Yet they could not do anything.
-
-The land where the minister's land is located belongs to the individual. The minister's land is found to be his own. So no action can be taken by the Department of Archeology without his permission.
-
-...
-
-[Data](articles/bff057d7.json)
-
-[Extended Data](ext_articles/bff057d7.ext.json)
-
----
-
-### Restrictions imposed on mineral transportation during school hours amended
-
-*2025-09-17 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112624/restrictions-imposed-on-mineral-transportation-during-school-hours-amended) · `en`
-
-Restrictions imposed on the transport of minerals (sand etc) during school hours have been amended after considering requests made by those in the construction industry, the Geological Survey & Mines Bureau has stated.
-
-Accordingly, the previously imposed restrictions on mineral transport during school hours—from 6:30 a.m. to 7:45 a.m. and from 11:30 a.m. to 2:30 a.m. on school days—has been amended.
-
-According to an official announcement by the Geological Survey & Mines Bureau, the revision has been made in response to strong demands from the construction industry, which has been heavily impacted by the transport restrictions.
-
-Considering the difficulties faced by stakeholders in the construction sector, authorities have decided to relax the rule under specific conditions.
-
-...
-
-[Data](articles/91ddfd81.json)
-
-[Extended Data](ext_articles/91ddfd81.ext.json)
-
----
-
-### Pakistan Tournament Mediator
-
-*2025-09-17 21:11:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-போட்டியில்-பைகுரொஃப்டே-போட்டி-மத்தியஸ்தர்/44-364797) · `ta`
-
-The International Cricket Board has retained himself as a rival mediator, even though the Pakistan Cricket Board has urged him to remove the Andy Bigroft from the Pakistan match against the UAE of the Asia Cup.
-
-Although the Pakistan Cricket Board has said that Pakuroft apologized to the Pakistan squad for its actions during the match between India and Pakistan, the International Cricket Board has not issued any report on the matter.
-
-◼️
-
-[Data](articles/0ed22191.json)
-
-[Extended Data](ext_articles/0ed22191.ext.json)
-
----
-
-### Monk and two others arrested with heroin in Alawwa
-
-*2025-09-17 21:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112623/monk-and-two-others-arrested-with-heroin-in-alawwa) · `en`
-
-A monk and two other individuals have been arrested for possession of heroin in Alawwa by the Matale Division Crimes Investigation Unit.
-
-According to police, the 38-year-old monk had been residing at a temple located within the Alawwa Police Division.
-
-At the time of arrest, the monk was found to be in possession of 10.3 grams of heroin.
-
-The other two suspects, aged 29 and 31, were also found to be in possession of 17 grams of heroin.
-
-The three suspects were produced before the Polgahawela Magistrate”s Court today (17), where police were granted permission to detain them for 7 days for further questioning.
-
-Reports indicate that the suspects are allegedly linked to a drug trafficking ring operated by an individual known as "Navy Dinesh" from Minuwangoda.
-
-◼️
-
-[Data](articles/4cefdbbc.json)
-
-[Extended Data](ext_articles/4cefdbbc.ext.json)
-
----
-
-### Namal met Ranil
-
-*2025-09-17 20:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-சந்தித்த-நாமல்/175-364796) · `ta`
-
-Former President Ranil Wickremesinghe, who has been ill for the past few days, has been present at a public event today (17).
-
-Namal met him at a wedding ceremony in Colombo
-
-◼️
-
-[Data](articles/7c6f2e86.json)
-
-[Extended Data](ext_articles/7c6f2e86.ext.json)
 
 ---

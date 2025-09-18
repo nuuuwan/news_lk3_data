@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 04:54:01**
+As of **2025-09-18 05:56:06**
 
 ## Newspaper Stats
 
-*Scraped **76,613** Articles*
+*Scraped **76,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 775
 economynextcom | 4,637
-islandlk | 4,703
+islandlk | 4,715
 dailymirrorlk | 4,733
-dailyftlk | 5,445
+dailyftlk | 5,450
 adalk | 7,444
 adaderanalk | 9,886
 tamilmirrorlk | 11,493
@@ -26,11 +26,99 @@ adaderanasinhalalk | 13,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-73,989 (96.6%) of 76,613 articles have been extended.
+74,040 (96.6%) of 76,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
+
+### Kohuwala and Getambe flyover projects to resume
+
+*2025-09-18 05:02:05* · [`dailyftlk`](https://www.ft.lk/news/Kohuwala-and-Getambe-flyover-projects-to-resume/56-781860) · `en`
+
+The Government has given its green light to fast-track the outstanding construction work on the Kohuwala flyover in Colombo and to resume the stalled construction of the Getambe flyover in Kandy.
+
+The move follows the Cabinet of Ministers on Monday approving the new proposal, presented by Transport and Highways Minister Bimal Rathnayake, to complete the remaining ground-level road construction at Kohuwala, which will be carried out using local funds through the existing contractor, while work on the Getambe flyover will also resume.
+
+Both projects were initiated under a financial cooperation framework agreement between Sri Lanka and the Hungarian Government. However, the provision of funds by the Hungarian Export-Import Bank was terminated during the height of Sri Lanka’s economic crisis, leading to major setbacks.
+
+...
+
+[Data](articles/9a8b6f4c.json)
+
+---
+
+### Oversight committee clears new Bill to give building research body more teeth
+
+*2025-09-18 05:00:04* · [`dailyftlk`](https://www.ft.lk/news/Oversight-committee-clears-new-Bill-to-give-building-research-body-more-teeth/56-781859) · `en`
+
+The Parliament Secretariat yesterday said that the Sectoral Oversight Committee on Governance, Justice and Civil Protection has approved the National Building Research Institute Bill, which will be taken up for its second reading in Parliament on 23 September.
+
+Although the National Building Research Organisation (NBRO) has operated since 1984, it has not been established by an Act of Parliament. The proposed Bill seeks to provide the organisation with legal status so it can properly discharge its duties and responsibilities. Officials told the Committee that once the legislation is enacted, legal action could be taken against local authorities that fail to follow its recommendations, especially with regard to landslides.
+
+The Committee also reviewed the 2022 and 2023 Annual Reports of the NBRO and the 2023 and 2024 Performance Reports of the Defence Ministry.
+
+...
+
+[Data](articles/c870d4d6.json)
+
+[Extended Data](ext_articles/c870d4d6.ext.json)
+
+---
+
+### Govt. hosts automobile, electronic equipment importers for pre-Budget discussion
+
+*2025-09-18 04:58:00* · [`dailyftlk`](https://www.ft.lk/news/Govt-hosts-automobile-electronic-equipment-importers-for-pre-Budget-discussion/56-781858) · `en`
+
+A pre-Budget discussion on the automobile and electronic equipment industries was held on Tuesday at the Presidential Secretariat, chaired by Labour Minister and Economic Development Deputy Minister Dr. Anil Jayantha Fernando.
+
+Importers of automobiles and electronic equipment expressed their full support for the Government’s economic development program, led by President Anura Kumara Disanayake.
+
+Vehicle importers noted that the sector has expanded due to recent Government decisions regarding vehicle imports and they presented several productive proposals for consideration in the upcoming Budget.
+
+...
+
+[Data](articles/a232cd4f.json)
+
+---
+
+### UNP buries hatchet with breakaway SJB members
+
+*2025-09-18 04:57:06* · [`dailyftlk`](https://www.ft.lk/news/UNP-buries-hatchet-with-breakaway-SJB-members/56-781857) · `en`
+
+The United National Party (UNP) Working Committee, chaired by party Leader and ex-President Ranil Wickremesinghe, yesterday agreed to revoke all disciplinary measures imposed on members who had joined the Samagi Jana Balawegaya (SJB) led by Sajith Premadasa.
+
+The decision was made at a Working Committee meeting held on Tuesday evening (16) at the Sirikotha headquarters in Pitakotte.
+
+A committee headed by former Attorney General and President’s Counsel Tilak Marapana was also appointed to examine possible legal implications arising from the move.
+
+UNP Chairman Vajira Abeywardena said the decision removes obstacles that had prevented members who crossed over to the SJB from reuniting with the UNP and working with the party.
+
+The Working Committee further passed a resolution, unanimously, extending gratitude to all parties that had supported collective political efforts since the arrest of ex-President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/50af3112.json)
+
+---
+
+### Sampath Manamperi surrenders to Court
+
+*2025-09-18 04:53:18* · [`dailyftlk`](https://www.ft.lk/news/Sampath-Manamperi-surrenders-to-Court/56-781856) · `en`
+
+Sampath Manamperi, wanted in connection with the discovery of two containers of chemicals suspected to be used in the manufacture of crystal methamphetamine (Ice) in the Middeniya area, surrendered to the Walasmulla Magistrate’s Court yesterday.
+
+The containers, allegedly linked to underworld figure Kehelbaddara Padme, were said to contain raw materials used in the production of the drug. Manamperi’s attorney had earlier informed the Court of Appeal that his client was prepared to appear before the relevant Magistrate’s Court.
+
+Following this submission, the Court of Appeal directed the Inspector General of Police to ensure the suspect’s safety upon surrender, with investigating officers instructed to comply with the order.
+
+◼️
+
+[Data](articles/dc810eba.json)
+
+[Extended Data](ext_articles/dc810eba.ext.json)
+
+---
 
 ### Alumex: Four decades of aluminium excellence, innovation and sustainability
 
@@ -45,6 +133,8 @@ Q: Alumex has grown to become the market leader in the Aluminium industry in Sri
 ...
 
 [Data](articles/fc519dc8.json)
+
+[Extended Data](ext_articles/fc519dc8.ext.json)
 
 ---
 
@@ -297,6 +387,90 @@ The answer is 14. That’s way less than half, and slightly under a third.
 ---
 
 ### 2025-09-17 (Wednesday)
+
+### Avocado magic …
+
+*2025-09-17 23:44:00* · [`islandlk`](http://island.lk/avocado-magic/) · `en`
+
+It’s all about avocado this week … yes, avocado magic, so do try it out.
+
+All you need is 02 tablespoons of mash avocado and 01 tablespoon of honey.
+
+Mix the mash avocado with the honey and apply the mixture to your face. Let it remain for 20 minutes and then rinse off.
+
+Apply the mixture to your face and leave it on for 15–20 minutes, and then rinse off.
+
+Reduces fine lines, boosts collagen production, keeping skin youthful and firm.
+
+Gently scrub the mixture onto your face, in circular motions.
+
+Gently exfoliates and removes dead skin cells and leaves skin soft and smooth.
+
+Reduces puffiness around the eyes, and nourishes and hydrates the delicate under-eye skin.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/bb187926.json)
+
+---
+
+### Solid Foundations, Stronger Futures: ICC Readymix powers Sri Lanka’s construction growth
+
+*2025-09-17 23:35:00* · [`islandlk`](http://island.lk/solid-foundations-stronger-futures-icc-readymix-powers-sri-lankas-construction-growth/) · `en`
+
+ICC (International Construction Consortium Pvt Ltd) revolutionised Sri Lanka’s construction industry in 1992 by introducing Readymix concrete, marking the start of a new era in building technology and operational efficiency. With over three decades of experience, ICC Readymix continues to lead the industry, delivering high-performance concrete solutions for projects ranging from residential developments to major infrastructure across the island.
+
+With strategically located batching plants in Madapatha and Galkulama, ICC Readymix ensures easy access and rapid delivery across regions, supporting the pace and scale of modern construction demands.
+
+Offering a full range of concrete grades from G10 to G70, ICC Readymix caters to a wide variety of structural requirements. Whether it’s durable foundations for homes or high-strength mixes for commercial towers, ICC Readymix delivers materials that meet the highest standards of strength, durability, and precision.
+
+...
+
+[Data](articles/0d992565.json)
+
+---
+
+### Heritance Kandalama wins Gold at ICRT Indian Subcontinent Responsible Tourism Awards 2025
+
+*2025-09-17 23:34:00* · [`islandlk`](http://island.lk/heritance-kandalama-wins-gold-at-icrt-indian-subcontinent-responsible-tourism-awards-2025/) · `en`
+
+Heritance Kandalama has been awarded Gold under the Climate Adaptation and Resilience category at the ICRT Indian Subcontinent Responsible Tourism Awards 2025, held in New Delhi. This was in recognition of its outstanding contributions to responsible tourism through proactive, innovative, and scalable steps to both reduce their carbon footprint and protect tourism infrastructure, communities, and ecosystems from climate-related risks. The prestigious accolade highlights the resort’s pioneering achievements in sustainable hospitality and reinforces its leadership role in shaping the future of tourism in Sri Lanka and the wider region.
+
+...
+
+[Data](articles/1b1d4371.json)
+
+---
+
+### Colombo bourse rallies on strong Q2 GDP data
+
+*2025-09-17 23:33:00* · [`islandlk`](http://island.lk/colombo-bourse-rallies-on-strong-q2-gdp-data/) · `en`
+
+The Colombo Stock Exchange (CSE) bounced back yesterday following the Finance Ministry’s announcement on positive second quarter GDP data – with a rally that drove the market – to a positive territory, the market analysts said.
+
+...
+
+[Data](articles/524cf0f2.json)
+
+---
+
+### NDB Bank partners with Ministry of Industries to power businesses with Solar through E-Friends II Refinance Loan Scheme
+
+*2025-09-17 23:32:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-ministry-of-industries-to-power-businesses-with-solar-through-e-friends-ii-refinance-loan-scheme/) · `en`
+
+Strengthening its commitment to sustainability and economic progress, NDB Bank, in collaboration with the Ministry of Industries, has introduced a special facility under the “E-Friends II” Refinance Loan Scheme dedicated to promoting solar adoption among Sri Lankan entrepreneurs. This initiative is designed to make renewable energy more accessible and affordable, enabling businesses to transition to cleaner energy solutions while enhancing operational efficiency.
+
+As the demand for renewable energy grows in response to rising energy costs and environmental challenges, the E-Friends II Solar Refinance Loan Scheme provides businesses with the financial backing needed to invest in solar power. The facility offers loans of up to Rs. 10 million at a highly competitive annual interest rate of 6.5%, with a repayment period of up to 10 years. Businesses can install solar capacity of up to 50KW, giving them a practical and sustainable pathway to reduce costs while lowering their carbon footprint.
+
+...
+
+[Data](articles/13011e92.json)
+
+---
 
 ### Order to leave the people in Gaza immediately
 
@@ -1865,187 +2039,5 @@ To ensure the rule of law. There was a law that caught fish and sharks.
 [Data](articles/51c45513.json)
 
 [Extended Data](ext_articles/51c45513.ext.json)
-
----
-
-### “Some MPs have gone to the homes of the culprits and get the money”
-
-*2025-09-17 14:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சில-எம்-பிக்கள்-குற்றவாளிகளின்-வீடுகளுக்குச்-சென்று-பணம்-பெற்றுள்ளனர்/150-364767) · `ta`
-
-President Anura Kumara Dissanayake said that some MPs have been bribed to the houses of organized criminals and that some ministers have invited the organized criminals to their homes.
-
-Speaking at the inauguration to resume the construction of the Central Expressway's Kadawatha-Mrigama Division, the President said that the inquiries of the suspects team were deeply involved in the Sri Lankan criminal network.
-
-However, the government is working to end this criminal politics and that the arrests that have been arrested so far are about 50 percent responsible for the drug network.
-
-“After the economy has collapsed, there is a saying that a decade is lost. This can be reduced to less than a decade. We will allocate money from the budget for that. We will build the country so that Sri Lanka will never be a crisis again. Creating infrastructure is not just enough. That is only a feature.
-
-To ensure the rule of law. There was a law that caught fish and sharks.
-
-...
-
-[Data](articles/8827b473.json)
-
-[Extended Data](ext_articles/8827b473.ext.json)
-
----
-
-### Central Expressway: Pothuhera to Rambukkana section completion date announced
-
-*2025-09-17 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112608/central-expressway-pothuhera-to-rambukkana-section-completion-date-announced) · `en`
-
-The construction work on the section of the Central Expressway from Pothuhera to Rambukkana will be completed before the section from Kadawatha to Mirigama is finalized by the year 2028, the Minister of Transport, Highways, Ports, and Civil Aviation, Bimal Rathnayake has stated.
-
-Speaking at the official ceremony to mark the recommencement of construction on the Kadawatha to Mirigama section of the Central Expressway, the Minister noted that the construction of this stretch is expected to be completed within 32 months, by the year 2028.
-
-Accordingly, the construction of the section from Pothuhera to Rambukkana is planned to be completed before the Sinhala and Tamil New Year in April 2028, and the connecting roads around Rambukkana will also be developed in line with that.
-
-...
-
-[Data](articles/875b59f9.json)
-
-[Extended Data](ext_articles/875b59f9.ext.json)
-
----
-
-### The highest relief population is the waters
-
-*2025-09-17 14:28:39* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිම-රිලව්-ගහණයක්-ඉන්නේ-මහනුවරයි/11-418555) · `si`
-
-The largest bail of Rila has been established by the recent census that he has previously been admitted to the Kandy district.
-
-Minister of Agriculture Lal Kantha said that there were Kegalle, Kurunegala and Anuradhapura.
-
-"There is no title that" wealth management in our country. There should be a number of Wildlife to manage wildlife. That was the census that we did. The census confirmed that if the Rila issue, the highest calculation in the Kandy district. A data was the case, Kandy, Kegalle and Kurunegala.
-
-This is due to this census that. Presidential Secretariat is being implemented in this regard. The results come with a time. "
-
-◼️
-
-[Data](articles/0477ce2b.json)
-
-[Extended Data](ext_articles/0477ce2b.ext.json)
-
----
-
-### Permission to hold back 'Back' and 'Orange Lahiru' about the killing of the Kibra
-
-*2025-09-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214673) · `si`
-
-The Walasmulla Magistrate's Court today (17) has been given permission to investigate the investigation into further questioning on the 'KJjah' murder.
-
-"Backwo Saman 'and" Orange Lahiru was arrested in Indonesia recently.
-
-◼️
-
-[Data](articles/887ffdd3.json)
-
-[Extended Data](ext_articles/887ffdd3.ext.json)
-
----
-
-### UNP Working Committee a decision to remove all suspended orders
-
-*2025-09-17 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214674) · `si`
-
-The UNP Working Committee has decided to remove all the injunctions and delegated the party membership orders to the UNP membership with discontinued and measured by the party membership.
-
-◼️
-
-[Data](articles/e9b0b12f.json)
-
-[Extended Data](ext_articles/e9b0b12f.ext.json)
-
----
-
-### வலஸ்முல்ல நீதிமன்றத்துக்கு கடும் பாதுகாப்பு
-
-*2025-09-17 14:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலஸ்முல்ல-நீதிமன்றத்துக்கு-கடும்-பாதுகாப்பு/175-364766) · `ta`
-
-Pako Saman and Thambari Lahiru were brought to the Valasmulla Magistrate's Court shortly before.
-
-The team, which came to court for trial, was not allowed to enter the court premises until 9 am, and the police were allowed to enter the court premises after the physical examination of the police.
-
-◼️
-
-[Data](articles/76917bbe.json)
-
-[Extended Data](ext_articles/76917bbe.ext.json)
-
----
-
-### ‘Backhoe Saman’ & ‘Thembili Lahiru’ to be detained till Dec. 2 for further questioning
-
-*2025-09-17 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112607/backhoe-saman-thembili-lahiru-to-be-detained-till-dec-2-for-further-questioning) · `en`
-
-The Walasmulla Magistrate’s Court today (17) granted permission to police to detain underworld figures ‘Backhoe Saman’ and ‘Thambili Lahiru’, until December 2 in order to conduct further investigations related to the murder of Anura Vidanagamage, also known as ‘Kajja’.
-
-Five individuals, including organized crime gang members ‘Kehelbaddara Padme’, ‘Backhoe Saman’ and ‘Thambili Lahiru’, were recently arrested in Indonesia and extradited to Sri Lanka.
-
-The arrests were carried out through a special operation conducted jointly by a special team of the Sri Lanka Police and the Jakarta Police.
-
-Accordingly, ‘Backhoe Saman’ and ‘Thambili Lahiru’ were produced before the Walasmulla Magistrate’s Court today.
-
-Court granted permission to detain the duo until December 2 for further questioning regarding their alleged involvement in orchestrating the murder of Anura Vidanagamage and his two children.
-
-...
-
-[Data](articles/0339b829.json)
-
-[Extended Data](ext_articles/0339b829.ext.json)
-
----
-
-### Sri Lanka becomes State Party to BBNJ Convention
-
-*2025-09-17 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112606/sri-lanka-becomes-state-party-to-bbnj-convention) · `en`
-
-The Ministry of Foreign Affairs, Foreign Employment and Tourism has announced that Sri Lanka’s Instrument of Ratification on the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) has been deposited with the United Nations, becoming a State Party to the Convention.
-
-The ratification of the BBNJ agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry of Foreign Affairs said.
-
-Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
-
-Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
-
-...
-
-[Data](articles/ed7b0d64.json)
-
-[Extended Data](ext_articles/ed7b0d64.ext.json)
-
----
-
-### Saran in Sampath Manamberi Court
-
-*2025-09-17 14:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-நீதிமன்றில்-சரண்/175-364765) · `ta`
-
-Sampath Manamperi Valasmulla surrendered to the Magistrate's Court today (17) in the case of two chemical containers suspected of being used in the "ice" drug in Mitteniya.
-
-◼️
-
-[Data](articles/c9db1bce.json)
-
-[Extended Data](ext_articles/c9db1bce.ext.json)
-
----
-
-### Malwatte and Asgiri Maha Naramen announced about Diyawadana Nilame
-
-*2025-09-17 14:03:31* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-ඡන්දය-ගැන-මල්වතු-හා-අස්ගිරි-මහ-නා-හිමිවරුන්ගෙන්-නිවේදනයක්/11-418554) · `si`
-
-In a statement that the Buddhist organizations and individuals have been issued to the signature of the Buddhist society, as a result of the aim of ahead of the future Diyawadana Nilame.
-
-The Diyawadana Nilame, which is the first Buddhist monastery in Sri Lanka, is internationally in international Buddhists, while the tops of the Buddhist people of the World Resistant People.
-
-The Malwathu Asgiri Maha Viharaya should be conducted by the Malwathu Asgiri Maha Viharaya who are responsible for the Diyawadana Niladhari of the Great Restaurant to the Sacred Tooth Relic.
-
-Diyawadana Nilame is appointed by the Temples Devalayagam Act No. 19 of 1931. Appointment of a new Diyawadana Nilame who has ended the term of the current Diyawadana Nilame.. We have learned that a number of candidates including the current Diyawadana Nilame and the current Diyawadana Nilame.
-
-...
-
-[Data](articles/9b72068a.json)
-
-[Extended Data](ext_articles/9b72068a.ext.json)
 
 ---

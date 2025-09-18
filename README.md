@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 21:20:04**
+As of **2025-09-18 21:07:31**
 
 ## Newspaper Stats
 
-*Scraped **76,793** Articles*
+*Scraped **76,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,468
 adaderanalk | 9,911
-tamilmirrorlk | 11,538
+tamilmirrorlk | 11,537
 virakesarilk | 12,486
 adaderanasinhalalk | 13,397
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,397
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,794 (97.4%) of 76,793 articles have been extended.
+74,786 (97.4%) of 76,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### அடுக்குமாடி குடியிருப்பில் இருந்து விழுந்த சீன. பிஜையின் சடலம் மீட்பு
-
-*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜையின்-சடலம்-மீட்பு/175-364875) · `ta`
-
-தெஹிவளையில் உள்ள அடுக்குமாடி குடியிருப்பு ஒன்றில் இருந்து விழுந்ததாக சந்தேகிக்கப்படும் சீன நாட்டவரின் உடலை தெஹிவளை பொலிஸார் மீட்டுள்ளனர்.
-
-அல்விஸ் வீதியில் உள்ள ஒரு வீட்டின் பின்னால் கிடைத்த தகவலைத் தொடர்ந்து சடலம் கண்டெடுக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-தனியார் துறையில் பணிபுரியும் பல சீன நாட்டவர்கள் வீட்டை ஒட்டிய அடுக்குமாடி குடியிருப்பு வளாகத்தில் வசித்து வருவது தெரியவந்துள்ளது,
-
-◼️
-
-[Data](articles/a242884e.json)
-
----
 
 ### වෑන් රථය බලෙන් පැහැරගත් කල්බදු සමාගමට නියෝගයක්
 
@@ -774,23 +758,21 @@ The committee's commander (WFD) representatives (WFD) representatives were able 
 
 ---
 
-### Take care of counterfeit notes in money transactions
+### මුදල් ගණුදෙනුවලදී ව්‍යාජ නෝට්ටු ගැන සැලකිලිමත් වන්න
 
 *2025-09-18 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-ගණුදෙනුවලදී-ව්‍යාජ-නෝට්ටු-ගැන-සැලකිලිමත්-වන්න/11-418588) · `si`
 
-The police informs the public to ensure that the money is consumed and interested in the purchase of goods and custody for various transactions.
+දෛනික අවශ්‍යතා අනුව භාණ්ඩ මිලදී ගැනීමේදී හා විවිධ ගනුදෙනු සඳහා මුදල් පරිහරණය කිරීමේදී එම මුදල් ව්‍යාජ මුදල් නෝට්ටුද යන්න පිළිබඳව සුපරික්ෂාකාරිව හා අවධානයෙන් යුතුව තහවුරු කර ගන්නා ලෙස පොලීසිය මහජනතාවට දැනුම් දෙයි.
 
-Police say that after confirmation of cash notes, the police said to use the banknotes and make information about the cash bank notes or informed of such counterfeit notes and inform the Sri Lankan Police.
+මුදල් නෝට්ටු ව්‍යාජ නොවන බවට තහවුරු කර ගැනීමෙන් පසුව මුදල් නෝට්ටු පරිහරණය කිරීමටත් එවැනි ව්‍යාජ මුදල් නෝට්ටු සන්තකයේ තබා ගැන්නා හෝ ගනුදෙනු කරන පුද්ගලයින් පිළිබඳව තොරතුරු ලද වහාම ශ්‍රී ලංකා පොලීසිය දැනුවත් කරන ලෙසත් පොලීසිය පවසයි.
 
-Meanwhile, in the evening of the evening, the fake Rs. Two other fake Rs. 5000 notes have been arrested in the investigation of 5000 notes.
+මේ අතර ඊයේ සවස් කාලයේදී හබරණ නගරයේදී ව්‍යාජ රු. 5000 මුදල් නෝට්ටු දෙකක් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් සිදුකළ වැඩිදුර විමර්ශනදී තවත් ව්‍යාජ රු 5000 නෝට්ටු දෙක බැගින් ළඟ තබාගෙන සිටි පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
 
-Police say that the fake Rs. 5000 notes were printed with 138 such notes, police said.
+තවදුරටත් සිදු කළ විමර්ශනවලදී ව්‍යාජ රු 5000 නෝට්ටු මුද්‍රණය කරන ලද සැකකරුවෙක් එවැනි නෝට්ටු 138ක් සමග මුද්‍රණයට යොදා ගන්නා උපකරණද සමග අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
 
 ◼️
 
 [Data](articles/0e8895dc.json)
-
-[Extended Data](ext_articles/0e8895dc.ext.json)
 
 ---
 
@@ -2081,5 +2063,27 @@ This included technical training on the legal framework that controlled the cont
 [Data](articles/37837593.json)
 
 [Extended Data](ext_articles/37837593.ext.json)
+
+---
+
+### Filed by a student petition
+
+*2025-09-18 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடைய-மாணவர்-மனுத்-தாக்கல்/175-364832) · `ta`
+
+A young student from Bandarawa has sought the High Court, claiming that his constitutional rights had been violated as the University Grants Commission (UGC) refused to graduate on technology based on its disability.
+
+The case was adjourned to the hearing on February 24 next year when the case was taken up before a session of two judges comprising High Court Chief Justice Preeti Padman Surasena and Justice Shiran Gunaratne.
+
+The petitioner claims that he is an alternate student who qualified for the University Admissions in the Technical Division at Dharmapala College, Bandarawela.
+
+He said he had been informed that there were no arrangements to study such degree under the Division of the Disabled Students, despite applying for the Degree of Technology for the 2024/2025 academic year.
+
+The petitioner urges the High Court to declare that his fundamental rights have been violated by the UGC's decision.
+
+...
+
+[Data](articles/7e025974.json)
+
+[Extended Data](ext_articles/7e025974.ext.json)
 
 ---

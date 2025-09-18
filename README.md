@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 20:20:48**
+As of **2025-09-18 20:08:45**
 
 ## Newspaper Stats
 
-*Scraped **76,789** Articles*
+*Scraped **76,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,17 @@ adalk | 7,466
 adaderanalk | 9,911
 tamilmirrorlk | 11,537
 virakesarilk | 12,486
-adaderanasinhalalk | 13,396
+adaderanasinhalalk | 13,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,740 (97.3%) of 76,789 articles have been extended.
+74,740 (97.3%) of 76,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### 2026 විසර්ජන පනත් කෙටුම්පත ගැසට් කරයි
-
-*2025-09-18 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214730) · `si`
-
-2026 මුදල් වර්ෂය සඳහා වන රජයේ වියදම් ඇතුළත් විසර්ජන පනත් කෙටුම්පත ගැසට් කර තිබේ.
-
-ජාතික ජනබලවේග රජය සිය දෙවන අයවැය ලෙස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත විසර්ජන පනත් කෙටුම්පතට අනුව 2026 වසරේ රජයේ සමස්ත වියදම රුපියල් බිලියන 4,434කි.
-
-එළැඹෙන වසර සඳහා වන විසර්ජන පනත් කෙටුම්පතෙන් වැඩිම මුදල් ප්‍රමාණයක් වෙන්කර ඇත්තේ මුදල් අමාත්‍යාංශයට වන අතර එය රුපියල් බිලියන 634ක් වේ.
-
-පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 618ක් වෙන් කර ඇති අතර රාජ්‍ය පරිපාලන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 596ක් වෙන්කර ඇත.
-
-එළැඹෙන වසර වෙනුවෙන් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය සඳහා වෙන්කර ඇති මුදල රුපියල් බිලියන 554කි.
-
-ආරක්ෂක අමාත්‍යාංශය සඳහා රුපියල් බිලියන 455ක් වෙන්කර ඇති අතර අධ්‍යාපන අමාත්‍යාංශය සඳහා රුපියල් බිලියන 301ක් වෙන්කර තිබේ.
-
-එළඹෙන අයවැයෙන් ජනාධිපතිවරයාගේ වැයශිර්ෂය ලෙස වෙන්කර ඇති මුදල රුපියල් බිලියන 11ක් වේ.
-
-එය 2025 වසරේ ජනාධිපතිවරයාගේ වැයශිර්ෂය ලෙස වෙන්කර තිබූ රුපියල් බිලියන 2.7ක මුදලට වඩා බිලියන 8ක පමණ වැඩිවීමකි.
-
-...
-
-[Data](articles/7458d279.json)
-
----
 
 ### To Afghanistan to advantage
 
@@ -2087,5 +2061,25 @@ He was arrested in relation to a shooting incident involving the vehicle of Hall
 [Data](articles/43d05156.json)
 
 [Extended Data](ext_articles/43d05156.ext.json)
+
+---
+
+### 3 boys safely recovered
+
+*2025-09-18 10:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுவர்களும்-பாதுகாப்பாக-மீட்பு/175-364831) · `ta`
+
+Three boys who went missing in Kalkissa yesterday were safely rescued, police said.
+
+Officers from the Police Life Division have reportedly rescued the children who were trapped in the sea stream.
+
+Investigations have revealed that all the rescued boys were 16 years old and are from Wellampitiya, Kuttakurukkur and Hoganda.
+
+Police warned the public to avoid bathing in the sea. Remble
+
+◼️
+
+[Data](articles/b2a521be.json)
+
+[Extended Data](ext_articles/b2a521be.ext.json)
 
 ---

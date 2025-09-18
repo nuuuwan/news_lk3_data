@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 15:07:01**
+As of **2025-09-18 14:56:03**
 
 ## Newspaper Stats
 
-*Scraped **76,731** Articles*
+*Scraped **76,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,458
-adaderanalk | 9,907
+adalk | 7,456
+adaderanalk | 9,905
 tamilmirrorlk | 11,521
 virakesarilk | 12,484
 adaderanasinhalalk | 13,379
@@ -26,57 +26,11 @@ adaderanasinhalalk | 13,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,450 (97.0%) of 76,731 articles have been extended.
+74,436 (97.0%) of 76,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### Sri Lanka’s overseas missions directed to identify new export markets, attract sustainable foreign investments
-
-*2025-09-18 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112648/sri-lankas-overseas-missions-directed-to-identify-new-export-markets-attract-sustainable-foreign-investments) · `en`
-
-Minister of Foreign Affairs, Vijitha Herath, along with the Minister of Industry, Sunil Handunneththi, and Minister of Trade, Wasantha Samarasinghe, launched an integrated mechanism to enhance collaboration between Sri Lanka’s overseas Missions and national institutions.
-
-Joined by Ministry Secretaries and agency heads, the initiative aimed to revitalize the country’s trade and investment agenda through coordinated efforts. The session on 16 September, attended by all Heads of Mission and Post, served as a platform to share key policy directives, practical proposals, and focused ideas, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-...
-
-[Data](articles/04df1dd2.json)
-
----
-
-### Businessman arrested for selling foreign cigarettes to schoolchildren
-
-*2025-09-18 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112647/businessman-arrested-for-selling-foreign-cigarettes-to-schoolchildren) · `en`
-
-A businessman has been arrested by the police on suspicion of selling illegally imported cigarettes to schoolchildren in the Thanamalwila area.
-
-It has been revealed that the suspect had provided these cigarettes of various flavors to a school student to sell to fellow students, Ada Derana reporter said.
-
-Investigations revealed that the suspect had supplied the illegal foreign cigarettes to the student, instructing to sell the cigarettes.  The cigarettes, purchased from the businessman at Rs. 100 per stick, were resold by the student at a price of Rs. 200 at the school premises, police said.
-
-After a student of the same school had informed the principal, the student selling the cigarettes was brought in and searched, where two foreign cigarettes were found in the student’s possession.
-
-...
-
-[Data](articles/950f182a.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳ යළි රිමාන්ඩ්
-
-*2025-09-18 14:10:02* · [`adalk`](https://www.ada.lk/breaking_news/බැකෝ-සමන්ගේ-බිරිඳ-යළි-රිමාන්ඩ්/11-418582) · `si`
-
-ඉන්දුනීසියාවේදී අත්අ‌ඩංගුවට ගෙන ශ්‍රී ලංකාවට රැගෙනවිත් මුදල් විශුද්ධිකරණයය වැළක්වීමේ පනත යටතේ රක්ෂිත බන්ධනාගාර ගත කර සිටි බැකෝ සමන් නමැත්තාගේ බිරිඳ ලබන 25 වන දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ සැකකාරියගේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක එස් බෝදරගම මහතා මෙම නියෝගය නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/347c0af5.json)
-
----
 
 ### Ambulaurses are in danger
 
@@ -149,24 +103,6 @@ Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Ga
 [Data](articles/135b9918.json)
 
 [Extended Data](ext_articles/135b9918.ext.json)
-
----
-
-### සුදු අලියෙක් වී ඇති දඹුල්ලේ කසළ ව්‍යාපෘතියේ කුණු කන්න වන අලි එයි
-
-*2025-09-18 13:30:35* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අලියෙක්-වී-ඇති-දඹුල්ලේ-කසළ-ව්‍යාපෘතියේ-කුණු-කන්න-වන-අලි-එයි/11-418578) · `si`
-
-දිවයිනේ සම්මාන දිනූ කසල කළමනාකරණ ව්‍යාපෘතිය සම්පූර්ණයෙන්ම නැවතීම දිස්ත්‍රික්ක ගණනාවක ලැබෙන කුණු කසල සියල්ල මහ වනයට මුදා හැරීම නිසා නැවතත් වන සතුන් අලි ඇතුන් කසල ආහාරයට ගැනීම සිදුවන බව දඹුල්ලේ ජනතාව පෙන්වා දෙති.
-
-කාලයක සිට දඹුල්ල නගරයේ ඉවත් කරන කැලි කසල   දිගම්පතහා රජයේ රක්ෂිතයට ගෙනවිත් දැමීම හේතුවෙන් මහා පරිසර විනාශයක් වන සතුන් විනාශ යක් සිදුවූ  වෙමින් පැවතිණිි.
-
-මේ පිළිබඳව දිගින් දිගටම ජනමාධ්‍ය හරහා පරිසරවේදීන් නගන විරෝධතාවයන්  සැලකිල්ලට ගෙන එකට දඹුල්ල මහ නගර සභාව මැදිහත්ව ඒකාබද්ධ කසල කළමනාකරණ ව්‍යාපෘතියක් ආරම්භ කෙරිණි
-
-මෙහි කාබනික පොහොර නිෂ්පාදනය රෝහල් අපද්‍රව්‍යය සහ පොලිතීන් තාප දාහකය මල අපද්‍රව්‍ය ය කළමනාකරණය ආදී  වැඩසටහන් රැසක් ඉතා සාර්ථකව ක්‍රියාත්මක වූ අතර   පිවිතුරු අරණ නමින් නම්කොට විදේශීය රටවල සහ අනෙකුත් පළාත් පාලන ආයතන දිවයිනේ පාසල් සිසුන් ආදී බොහෝ දෙනෙකුගේ නිරීක්ෂණයට පවා ලක්වීම විශේෂත්වයකි.
-
-...
-
-[Data](articles/00ea9317.json)
 
 ---
 
@@ -2009,5 +1945,81 @@ Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since incept
 [Data](articles/43f18131.json)
 
 [Extended Data](ext_articles/43f18131.ext.json)
+
+---
+
+### Sri Lanka with EU and UNICEF launch model service for child victims of violence
+
+*2025-09-18 03:48:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-with-EU-and-UNICEF-launch-model-service-for-child-victims-of-violence/56-781845) · `en`
+
+Milestone initiative marks a turning point in protecting child victims who come in contact with the law and protection systems
+
+The Justice and National Integration Ministry and the Women and Child Affairs Ministry, with support from the EU through the United Nations Children's Fund (UNICEF), yesterday launched a groundbreaking initiative to support children who have experienced violence.
+
+The new model service will ensure fast, child-sensitive support to child victims of violence; from the point when the case is reported to police, helplines or others, until the child is linked with sustained care and protection mechanisms.
+
+...
+
+[Data](articles/45b61f7e.json)
+
+[Extended Data](ext_articles/45b61f7e.ext.json)
+
+---
+
+### SL deepens trade ties in Sichuan
+
+*2025-09-18 03:47:26* · [`dailyftlk`](https://www.ft.lk/news/SL-deepens-trade-ties-in-Sichuan/56-781844) · `en`
+
+Deputy Minister’s visit opens new doors for trade and investment
+
+Sri Lanka is stepping up efforts to carve a stronger foothold in the Chinese market, with Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe completing a four-day official visit to Sichuan Province focused on boosting trade, investment, and forging foreign direct institutional partnerships.
+
+He was invited by the China Council for the Promotion of International Trade (CCPIT).
+
+During his visit, the Deputy Minister addressed the South Asia & Southeast Asia Business Development Cooperation Conference and delivered a keynote presentation at the Sri Lanka Economic and Trade Matchmaking Conference – a high-level State-business dialogue. His remarks highlighted Sri Lanka’s potential as an investment destination and emphasised opportunities for strengthening trade partnerships.
+
+...
+
+[Data](articles/c9325f54.json)
+
+[Extended Data](ext_articles/c9325f54.ext.json)
+
+---
+
+### Focus Brands’ Ray Evans joins Hela Apparel Holdings Board
+
+*2025-09-18 03:22:59* · [`dailyftlk`](https://www.ft.lk/news/Focus-Brands-Ray-Evans-joins-Hela-Apparel-Holdings-Board/56-781833) · `en`
+
+Hela Apparel Holdings PLC has appointed UK’s Focus Brands Ltd. CEO Ray Evans to its Board as Executive Director.
+
+The appointment was made on the resignation of Non-Executive Director Dr. Alastair James Alderton.
+
+The company said that Evans’ appointment was part of an initiative aimed at strengthening the integration between the Private Label Manufacturing Division (PLMD) and the Brand Licensing Division (BLD) of the group.
+
+Specialising in performance clothing and brand licensing, Evans has over 30 years’ experience in sourcing sports apparel and building brands to drive market growth and revenues.
+
+Leveraging his entrepreneurial capabilities, negotiation skills and ability to influence international stakeholders, he has built ventures that have enabled the successful licensing of sports and performance clothing brands to production locations worldwide.
+
+...
+
+[Data](articles/669d81b2.json)
+
+[Extended Data](ext_articles/669d81b2.ext.json)
+
+---
+
+### Phoenix products feature at Saudi INDEX Expo – 2025 in Riyadh
+
+*2025-09-18 03:20:15* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-products-feature-at-Saudi-INDEX-Expo-2025-in-Riyadh/34-781832) · `en`
+
+Sri Lanka’s reputed Phoenix company products were featured at the INDEX Saudi Arabia Expo 2025 held from 09 to 11 September 2025 at Front Exhibition and Conference Centre in Riyadh. Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad officially opened the Phoenix pavilion at the Expo. During the occasion, Ambassador pointed out that such international trade fairs provide valuable opportunities for Sri Lankan companies to showcase their export products at the global stage and encouraged Sri Lankan enterprises to actively leverage such platforms and build strong business partnerships.
+
+INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out trade event, bringing together global and regional brands to present the latest innovations and trends shaping Saudi Arabia’s thriving design sector. The exhibition serves as a gateway for connecting with thousands of active buyers and decision-makers.
+
+...
+
+[Data](articles/f79dd8f2.json)
+
+[Extended Data](ext_articles/f79dd8f2.ext.json)
 
 ---

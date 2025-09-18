@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 19:21:44**
+As of **2025-09-18 19:12:00**
 
 ## Newspaper Stats
 
-*Scraped **76,787** Articles*
+*Scraped **76,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,21 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,466
+adalk | 7,465
 adaderanalk | 9,911
-tamilmirrorlk | 11,537
+tamilmirrorlk | 11,536
 virakesarilk | 12,486
-adaderanasinhalalk | 13,394
+adaderanasinhalalk | 13,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,697 (97.3%) of 76,787 articles have been extended.
+74,697 (97.3%) of 76,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### முன்னாள் கடற்படை புலனாய்வுப் பணிப்பாளருக்கு விளக்கமறியல்
-
-*2025-09-18 19:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படை-புலனாய்வுப்-பணிப்பாளருக்கு-விளக்கமறியல்/175-364874) · `ta`
-
-முன்னாள் கடற்படை புலனாய்வுப் பணிப்பாளர் ஓய்வுபெற்ற ரியர் அட்மிரல் சரத் மொஹோட்டி செப்டம்பர் 24 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-இன்று அதிகாலை குற்றப் புலனாய்வுத் திணைக்களத்தினரால் (சிஐடி) கைது செய்யப்பட்ட பின்னர் அவர் விளக்கமறியலில் வைக்கப்பட்டார்.
-
-◼️
-
-[Data](articles/da5419ef.json)
-
----
-
-### දෙහිවලින් චීන ජාතිකයෙකුගේ මළ සිරුරක් හමුවෙයි
-
-*2025-09-18 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214728) · `si`
-
-දෙහිවල ප්‍රදේශයේ පිහිටි මහල් නිවාස සංකීර්ණයකින් ඇඳවැටී මිය ගිය බවට සැක කෙරෙන චීන ජාතිකයෙකුගේ මළ සිරුරක් දෙහිවල පොලීසිය විසින් සොයා ගෙන තිබේ.
-
-දෙහිවල පොලිස් ස්ථානයට ලද දුරකථන පණිවිඩයකට අනුව දෙහිවල අල්විස් පාරේ පිහිටි නිවසක පිටුපස තිබියදී මෙම මළ සිරුර සොයාගත් බව පොලීසිය පැවසුවේය.
-
-මෙරට ⁣පුද්ගලික අංශයේ රැකියාවන්හි නියුතු චීන ජාතිකයින් පිරිසක් මෙම නිවසට යාබදව පිහිටි නිවාස සංකීර්ණයේ රැදී සිට ඇති අතර අදාළ පුද්ගලයා එහි ඉහළ මහලක සිට ඇඳවැටී ඇති බවට පොලීසිය සැක පළ කරන්නේය.
-
-මෘත දේහය මේ වන විට දකුණු කොළඹ ශික්ෂණ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් දෙහිවල පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/9652c1be.json)
-
----
 
 ### பிரித்தானியாவில் ட்ரம்புக்குப் பிரமாண்ட அரச விருந்து
 
@@ -809,20 +777,6 @@ Hemasiri Fernando and Pujith Jayasundara sentenced the two accused of the three-
 [Data](articles/629dc6c3.json)
 
 [Extended Data](ext_articles/629dc6c3.ext.json)
-
----
-
-### විදුලි බලයේ ප්‍රතිසංස්කරණ ගැන IMF මන්ත්‍රීවරු සාකච්ඡාවක
-
-*2025-09-18 15:08:17* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බලයේ-ප්‍රතිසංස්කරණ-ගැන-IMF-මන්ත්‍රීවරු-සාකච්ඡාවක/11-418585) · `si`
-
-ශ්‍රී ලංකාවේ ක්‍රියාත්මක විදුලිබල අංශයේ ප්‍රතිසංස්කරණ මූල්‍ය ස්ථාවරත්වය, තිරසාරභාවය සහ පාරිභෝගික ආරක්ෂාව සමඟ පෙළගැස්වීමේ හදිසි අවශ්‍යතාවය ඉස්මතු කරමින්, ප්‍රතිපත්ති සම්පාදකයින් සහ විශේෂඥයින් විනිවිද බවින් යුක්ත විදුලි ක්ෂේත්‍රයක් සඳහා පිරිවැය ආපසු ලබාගැනීම සහ පිරිවැය ගාස්තු සමබර කිරීම ප්‍රතිපත්තිමය ලෙස අත්‍යවශ්‍ය වන කාරනා බව පෙන්වා දුන්හ.
-
-ජාත්‍යන්තර මූල්ය අරමුදලේ (IMF) විස්තීර්ණ අරමුදල් පහසුකම (EEF) වැඩසටහනට සමගාමීව විදුලි ගාස්තු ක්‍රමය සමාලෝචනය කිරීම සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ කාර්ය මණ්ඩලය සමඟ පැවති සාකච්ඡාවකදී මෙම අදහස් පළවිය. 2025 නොවැම්බර් මස අවසානය වන විට සම්පූර්ණ කළ යුතු පූර්ව ක්‍රියාමාර්ගයක් ලෙස නිර්දේශ කරන ලද පරිදි, ඩෙල්ෆින් බ්‍රැඩි (ජ්‍යෙෂ්ඨ ආර්ථික විද්‍යාඥ, FAD) මහත්මියගේ නායකත්වයෙන් යුත් කමිටුව, රාජ්‍ය මූල්‍ය කමිටුව, රාජ්‍ය අංශයේ ව්‍යාපාර කමිටුව, යටිතල පහසුකම් සහ උපායමාර්ගික සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කමිටුව, අනෙකුත් ගරු පාර්ලිමේන්තු මන්ත්‍රීවරුන්, අදාළ අමාත්‍යාංශවල නිලධාරීන් සහ අනෙකුත් පාර්ශ්වකරුවන් සමඟ මෙම ඒකාබද්ධ රැස්වීම පවත්වන ලදී.
-
-...
-
-[Data](articles/2e0a727d.json)
 
 ---
 
@@ -2059,5 +2013,67 @@ The Henley Passport code, which is considered the most official passport ranking
 [Data](articles/3d88678f.json)
 
 [Extended Data](ext_articles/3d88678f.ext.json)
+
+---
+
+### "Do you know the father of a baby who grows up in my belly?"
+
+*2025-09-18 10:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்-வயிற்றில்-வளரும்-குழந்தைக்கு-தந்தை-யார்-தெரியுமா/175-364829) · `ta`
+
+"The child who grows in the stomach should be responsible for the father of Madhampatti Rangaraj," said Joy Girisilda, the famous clothing designer.
+
+Joy Girisilda, the 2nd wife of famous culinary artist Madhapatti Rangaraj, met with reporters at the Madras High Court on Wednesday.
+
+Speaking at the time, he said, “Madhampatti Rangaraj, who provides food for famous food and auspicious events, has summoned me and my child.. Madhampatti Rangaraj is the reason for the baby that grows in my stomach. It must be given the right.
+
+Madhampatti Rangaraj has lodged a complaint at the Chennai Municipal Police Commissioner's Office and no action has been taken yet. They are distracted by various police stations and call me. The child who grows up in my stomach needs justice. Madhampatti Rangaraj is the father of my child as the father, ”Joy Girisilda said.
+
+◼️
+
+[Data](articles/4a6bb4e1.json)
+
+[Extended Data](ext_articles/4a6bb4e1.ext.json)
+
+---
+
+### Logic by the issue of archeology
+
+*2025-09-18 10:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்லியல்-திணைக்கள-விவகாரத்தால்-தர்க்கம்/175-364828) · `ta`
+
+A serious debate was held at the Divisional Coordinating Committee at the Divisional Coordinating Committee between Thiagarajah Niros, Chairman of the Valikamam East Pradeshiya Sabha and Divisional Coordinating Committee Chairman and Government Parliamentarian, Rajeevan Jayachandraramurthy.
+
+Following the debate, it was decided at the Divisional Development Committee that the Department of Archeology should be departed from Nilavara and hand it over to the Pradeshiya Sabha.
+
+In this regard, the Valikamam East Regional Development Committee meeting was held on Tuesday (16) at the Divisional Secretariat.
+
+At this meeting, the Nilavarai area was a tourist attraction. It was pointed out by the Divine that the intervention of the Archaeological Department in the area could not improve.
+
+...
+
+[Data](articles/93a9029b.json)
+
+[Extended Data](ext_articles/93a9029b.ext.json)
+
+---
+
+### Body found in canal in Tissamaharama – Friend arrested over suspected murder
+
+*2025-09-18 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112639/body-found-in-canal-in-tissamaharama-friend-arrested-over-suspected-murder) · `en`
+
+A body of a male has been discovered in a canal located in the Sandungama, within the Tissamaharama Police Division.
+
+Investigations were launched last evening (17) following information received by the Tissamaharama Police.
+
+The deceased has been identified as a 45-year-old resident of Tissamaharama.
+
+Preliminary investigations have revealed that the victim was allegedly assaulted with a bottle and drowned in the canal by a friend, following a personal dispute between the two.
+
+A 24-year-old suspect, believed to be the friend involved in the altercation, has been taken into custody.
+
+◼️
+
+[Data](articles/4b1c3551.json)
+
+[Extended Data](ext_articles/4b1c3551.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 19:12:00**
+As of **2025-09-18 16:09:08**
 
 ## Newspaper Stats
 
-*Scraped **76,784** Articles*
+*Scraped **76,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,681 +12,39 @@ newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,649
+economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,465
-adaderanalk | 9,911
-tamilmirrorlk | 11,536
-virakesarilk | 12,486
-adaderanasinhalalk | 13,393
+adalk | 7,458
+adaderanalk | 9,907
+tamilmirrorlk | 11,528
+virakesarilk | 12,485
+adaderanasinhalalk | 13,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,697 (97.3%) of 76,784 articles have been extended.
+74,513 (97.1%) of 76,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### பிரித்தானியாவில் ட்ரம்புக்குப் பிரமாண்ட அரச விருந்து
-
-*2025-09-18 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225456) · `ta`
-
-பிரிட்டனுக்கு அரசுமுறைப் பயணமாக சென்றிருந்த அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப்புக்கு, பக்கிங்ஹாம் அரண்மனையில் பிரித்தானிய அரச குடும்பத்தினர் பிரமாண்டமான அரச விருந்து அளித்துள்ளனர்.
-
-விருந்து ஏற்பாடு செய்யப்பட்டிருந்த மண்டபத்தில், 155 அடி நீளமுள்ள மேசை அமைக்கப்பட்டது. இந்த மேசை முழுக்க, வெள்ளிப் பாத்திரங்கள், தங்க நிறத்திலான பொருட்கள், மற்றும் மெழுகுவர்த்தி அலங்காரங்கள் இடம்பெற்றிருந்தன.
-
-விருந்திற்காக பிரிட்டன் இராணுவத்தின் பாதுகாப்புப் பிரிவினர், அரண்மனையின் ஊழியர்கள் என நூற்றுக்கணக்கானோர் பணியாற்றியதாகக் கூறப்படுகிறது.
-
-ஜனாதிபதி ட்ரம்ப்புக்கு அளிக்கப்பட்ட இந்த வரவேற்பு, அமெரிக்கா - பிரிட்டன் இடையிலான வலுவான உறவை மீண்டும் உறுதிப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/4df070b4.json)
-
----
-
-### Court orders the court to get to a lock check event
-
-*2025-09-18 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214727) · `si`
-
-Kaduwela Magistrate Aruna Indarajith Buddhadasa ordered the CID today (18) to report to the court within two weeks.
-
-The order has been obtained from the Hambantota Magampura Port in the Magampura Port in Hambantota.
-
-The complaint has said that the prices have been taken to the Magampura Port, Hambantota on the 5th of January, on January 5, 2021.
-
-The case will be held on a complaint lodged by a resident of the Hungama Balaha south, that he had received Rs. 20 million as a public.
-
-According to the complaint, the government has not been able to provide the tender period because of the change of Rs. 20 million.
-
-As a result, the complainant has filed the check that the check is not given in a check, but the check has been given by a check.
-
-According to the complaint, the Criminal Investigation Department (CID) has commenced an investigation as a secretary to Mr. Mahinda Rajapaksa, a resident of Uthwaththa Hokandara.
-
-...
-
-[Data](articles/7fe35dc8.json)
-
-[Extended Data](ext_articles/7fe35dc8.ext.json)
-
----
-
-### ‘Disrupt Asia 2025’ aims to unlock Sri Lanka as South Asia’s innovation hub
-
-*2025-09-18 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112652/disrupt-asia-2025-aims-to-unlock-sri-lanka-as-south-asias-innovation-hub) · `en`
-
-The second day of Disrupt Asia 2025, Sri Lanka’s premier startup conference and innovation festival running from September 17–20, unfolded today at Cinnamon Life with the main conference, drawing international attention and underscoring the country’s ambition to position itself as South Asia’s emerging innovation hub.
-
-The event has attracted more than 100 venture capitalists from 20 countries, alongside global startup delegations, reflecting unprecedented confidence in Sri Lanka’s digital future.
-
-The main conference was held today (18) at Cinnamon Life under the patronage of President Anura Kumara Dissanayake, who is also the Minister of Digital Economy, who underscored the government’s commitment to positioning innovation at the heart of national development. The president also toured the Startup Showcase, according to the President’s Media Division (PMD).
-
-...
-
-[Data](articles/818bc608.json)
-
----
-
-### Disrupt Asia 2025 main conference headed by President
-
-*2025-09-18 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214726) · `si`
-
-The main conference was held at the Cinnamon Life Hotel in Colombo today (18), the main conference of Sri Lanka's leading an entrepreneurial conference and innovation ceremony.
-
-The convention was held in 20 countries and investors, which began yesterday (17), to be held on September 20.
-
-The aim of the conference is to place Sri Lanka as an emerging innovation hub of Sri Lanka as an emerging innovation hub in South Asia.
-
-It is expected to find the opportunity to make a successful government program to build a digital economy by encouraging new enterprises and innovations.
-
-However, Deputy Minister of the Digital Economic Engineer Eranga Weeraratne said that the government's objective is to use the country's development tool.
-
-'Disrupt Asia 2025' The Deputy Minister further stated that the youth community of Sri Lanka is a well-being to attract global investment and accelerate the digital economic transformation.
-
-...
-
-[Data](articles/91dadb65.json)
-
-[Extended Data](ext_articles/91dadb65.ext.json)
-
----
-
-### திருகோணமலையில் நிலநடுக்கம்
-
-*2025-09-18 18:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-நிலநடுக்கம்/175-364871) · `ta`
-
-The Geological Survey (GSMB) said the magnitude 3.9 magnitude earthquake was reported at 4.06 pm on Thursday (18) at 4.06 pm on Thursday (18).
-
-However, the Disaster Management Center (DMC) promised that the tsunami was not threatened with the Sri Lankan coast following the earthquake.
-
-◼️
-
-[Data](articles/51bc7599.json)
-
-[Extended Data](ext_articles/51bc7599.ext.json)
-
----
-
-### DISRUPT ASIA 2025 led by the president ”
-
-*2025-09-18 17:57:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தலைமையில்-Disrupt-Asia-2025/175-364870) · `ta`
-
-The leading new entrepreneurship conference and innovation in Sri Lanka, "Disrupt Asia 2025" main conference was held on Thursday (18) at the Chinaman Life Hotel in Colombo. President Anura Kumara Dissanayake was the chief guest at the inauguration.
-
-Disrupt Asia, which is participating in about 20 countries and traders and investors, will commence on Wednesday (17) and will be held till September 20.
-
-The purpose of this conference is to establish Sri Lanka as a growing new center in South Asia by attracting international attention.. This is expected to be a great support for the government's plan to build a digital economy by promoting new entrepreneurship and innovations.
-
-The President also visited the new entrepreneurs exhibition at the inaugural session of the main conference held today.
-
-...
-
-[Data](articles/1e7e18f9.json)
-
-[Extended Data](ext_articles/1e7e18f9.ext.json)
-
----
-
-### Our Rumsh World 07
-
-*2025-09-18 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214725) · `si`
-
-Rumesh Tharanga in Sri Lanka won the 7th match in Japan today (18).
-
-The specialty of this is Rumesh to go to Eraj Chopra and Pakistan, two of the Olympic champions.
-
-◼️
-
-[Data](articles/d8df7d75.json)
-
-[Extended Data](ext_articles/d8df7d75.ext.json)
-
----
-
-### Massive protest in France
-
-*2025-09-18 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214724) · `si`
-
-A massive protest in France has organized a massive protest against the proposed cuts.
-
-The protests organized by the trade unions have also supported the support of teachers, trains, health staff as well as a large number of youths.
-
-This is the first time this massacre is organized in France since the protest against the amendment of the retirement period of 2023.
-
-In some areas, the daily activities of the protests have also been hampered.
-
-However, the political commentators have expressed their views to the President Ekanuel McCrone.
-
-◼️
-
-[Data](articles/cd138e9c.json)
-
-[Extended Data](ext_articles/cd138e9c.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields down marginally
-
-*2025-09-18 17:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-down-marginally-241112/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.05/18 to the US dollar on Thursday, weaker from 301.96/302.00 the previous day, while bond yields closed slightly down, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed at 9.51/54 percent, down from 9.55/60 percent.
-
-A bond maturing on 01.07.2030 closed at 9.70/74 percent, up from 9.70/73 percent.
-
-A bond maturing on 01.11.2033 closed at 10.68/74 percent. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/87499dd3.json)
-
-[Extended Data](ext_articles/87499dd3.ext.json)
-
----
-
-### Cannabis plants at a height of 3 feet; two arrested
-
-*2025-09-18 17:35:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-அடி-உயரத்தில்-கஞ்சா-செடிகள்-இருவர்-கைது/175-364868) · `ta`
-
-Two suspects have been arrested in connection with the cannabis garden found inside the Udalawa National Park, the Department of Wildlife Conservation said.
-
-The cannabis garden was found during a patrol process conducted by wildlife officials from the Panhaduwa site security office yesterday (17).
-
-Cannabis plants grew up to about three feet tall, and two persons were arrested for cultivation.
-
-In addition, the authorities confiscated an illegal rifle, ammunition, a water pump used to irrigate the garden, a solar power panel and other equipment used to supply electricity to the pump.
-
-The suspects and the confiscated items were produced before the Magistrate's Court today (18), and the suspects pleaded guilty for all the allegations.
-
-After that, a person is at a time of Rs.. The judge handed over 500,000 bail and ordered to submit the indictment on October 2.
-
-◼️
-
-[Data](articles/d301a032.json)
-
-[Extended Data](ext_articles/d301a032.ext.json)
-
----
-
-### 3.9 magnitude earthquake strikes off Trincomalee coast
-
-*2025-09-18 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112651/39-magnitude-earthquake-strikes-off-trincomalee-coast) · `en`
-
-An earthquake of 3.9 magnitude was recorded on Thursday (18) in the sea area off the coast of Trincomalee, according to the Geological Survey and Mines Bureau of Sri Lanka (GSMB).
-
-A bulletin issued by the GSMB’s Seismic Monitoring Center confirmed that the earthquake had been recorded in the seas around 60km northeast from Trincomalee at 4.06 p.m. local time today.
-
-The bureau also stated that the earthquake was recorded at all four seismic monitoring stations in the country located in Mahakanadarawa, Hakmana, Pallekele and Buddangala.
-
-Meanwhile, the Disaster Management Center (DMC) said that there is NO tsunami risk from the earthquake and that NO tsunami warning has been issued for the coastline.
-
-◼️
-
-[Data](articles/77adac91.json)
-
----
-
-### Pre Budget discussions with manufacturers in drugs, veterinary medicines, Ayurvedic and Beauty sectors
-
-*2025-09-18 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214723) · `si`
-
-A pre-budget discussion on medicines, veterinary medicines, Ayurvedic and Beauty Production Fields was held at the Presidential Secretariat today (18).
-
-Dr. Anil Jayantha Fernando, Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando.
-
-They have said that the financial development of the government led by President Anura Kumara Dissanayake, the livestock, Ayurveda, Ayurveda, Ayurveda, and Beauty Production Production Production Production.
-
-They also discussed the problems that exist in these areas and have also made some effective suggestions for the next budget.
-
-However, the Minister said that all the proposals would focus on all the proposals in the future budget and to make new laws if necessary to produce quality products.
-
-◼️
-
-[Data](articles/fcc38b4c.json)
-
-[Extended Data](ext_articles/fcc38b4c.ext.json)
-
----
-
-### Sri Lanka sells extra Rs3.25bn Treasury bills after auction
-
-*2025-09-18 17:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs3-25bn-treasury-bills-after-auction-241116/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 3,257 million rupees of treasury bills offered on tap at average rates of 7.57 percent and 7.89 percent, the state debt office said, bringing the total of bills sold this week to 57.25 billion rupees.
-
-On Wednesday (17) the debt office raised 54 billion rupees of 3, 6 and 12 month bills, after offering 75 billion.
-
-Sri Lanka sells less than offered treasury bills, yields mostly flat
-
-◼️
-
-[Data](articles/e96fa683.json)
-
-[Extended Data](ext_articles/e96fa683.ext.json)
-
----
-
-### An earthquake at Trincomalee Sea
-
-*2025-09-18 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214722) · `si`
-
-The earthquake has taken place in a richter blast in Trincomalee area.
-
-The trauma situation in Trincomalee to 60 km from Trincomalee has been reported.
-
-The Geological Survey and Mines Bureau point out that the earthquake has been reported from around 4:26 pm today.
-
-According to the Bureau, the earthquake has been recorded in the country's sequence.
-
-These earthquake areas have been installed in Mahakanarawa, Hakmanara, Hakmanara, Pallekele and Buddhogala.
-
-◼️
-
-[Data](articles/a6a2f778.json)
-
-[Extended Data](ext_articles/a6a2f778.ext.json)
-
----
-
-### When enemies become friends
-
-*2025-09-18 17:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/எதிரிகள்-நண்பர்களாக-மாறும்-போது/46-364865) · `ta`
-
-Many prominent political leaders left politics a day, gathering at a wedding ceremony, sharing smiles and heartfelt conversations.
-
-Minister Vijitha Herath, Deputy Minister Sunil Vatagala, former President Ranil Wickremesinghe, Parliamentarian Namal Rajapaksa, former Ministers Rajitha Senaratne and Mervyn Silva were the guests.
-
-◼️
-
-[Data](articles/465b593e.json)
-
-[Extended Data](ext_articles/465b593e.ext.json)
-
----
-
-### Explanation for former Minister of Sabaragamuwa
-
-*2025-09-18 17:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-முன்னாள்-அமைச்சருக்கு-விளக்கமறியல்/175-364866) · `ta`
-
-Former Minister of the Sabaragamuwa Provincial Council, Atula Kumara Raghubatha, who has been arrested on charges of abusing state funds, has been kept in detention until October 2.
-
-He was arrested by the Criminal Investigation Department for allegedly misused 70 million rupees in public money.
-
-He was produced at the Magistrate's Court of Embilipitiya and ordered him to be further interrogated.
-
-◼️
-
-[Data](articles/c5de6090.json)
-
-[Extended Data](ext_articles/c5de6090.ext.json)
-
----
-
-### Former S’gamuwa Minister remanded over misappropriation of state funds
-
-*2025-09-18 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112650/former-sgamuwa-minister-remanded-over-misappropriation-of-state-funds-) · `en`
-
-Former Minister of the Sabaragamuwa Provincial Council Athula Kumara Rahubaddha has been remanded until October 02 by the Embilipitiya Magistrate’s Court today (18), Ada Derana reporter said.
-
-He was arrested yesterday (17) in connection with the misappropriation of Rs. 70 million in state funds during his tenure as provincial minister (2016 – 2017), by the Financial Crimes Investigation Division (FCID) operated under the Criminal Investigation Department (CID)
-
-Accordingly, when the suspect was produced before the court today, CID officials informed the court that, although funds had been disbursed for 15 of the 77 projects initiated during the relevant period, the relevant projects had not been implemented.
-
-Subsequently, the Magistrate ordered that the suspect to be remanded in connection with the alleged misuse of Rs. 70 million in state funds.
-
-◼️
-
-[Data](articles/afc12c06.json)
-
----
-
-### Mobile Service to Solve EPF issues
-
-*2025-09-18 16:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-பிரச்சினைகளை-தீர்ப்பதற்கான-நடமாடும்-சேவை/175-364863) · `ta`
-
-The Ministry of Labor has announced that the mobile service will be carried out in all district and labor offices from the 22nd to the 26th of this month to resolve the staff of the Employees Provident Fund and its related disputes.
-
-In the meantime, the issues such as the Employees Provident Fund Member Accounts, Arrears, Member Account Details will be addressed on the National Identity Card, Registration of Members, Complaints and Consultation on Labor Laws.
-
-◼️
-
-[Data](articles/afc0fe3d.json)
-
-[Extended Data](ext_articles/afc0fe3d.ext.json)
-
----
-
-### Boeing sues on Air India
-
-*2025-09-18 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214720) · `si`
-
-Four passengers of four passengers killed in the accident have been filed against Boeing.
-
-According to foreign media reports, they have filed the case against the Boeing Company and aviation stock company Hanwell.
-
-Aya India Airlines took off a passenger airline, which was launched at Ahmedabad airport in India in June last June.
-
-More than 260 people, including all the passengers and staff of the aircraft, were killed in the area where the plane was collapsed.
-
-Foreign media reports that the aircraft had filed such a case against Hanwell, claiming that the aircraft had taken place due to an incident.
-
-◼️
-
-[Data](articles/2ce594a5.json)
-
-[Extended Data](ext_articles/2ce594a5.ext.json)
-
----
-
-### This is the Judgment of Belavatam
-
-*2025-09-18 16:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-பெலவத்தை-தீர்ப்பு-ஹர்ஷனிக்கு-பிணை/175-364862) · `ta`
-
-Kotte Municipal Council Member Harshani Sandaruwani, who was produced in court on contempt of court during a trial against former President Ranil Wickremesinghe, was released on bail on Thursday (18).
-
-The magistrate granted bail to the suspect on two physical bail of Rs 500,000 each.
-
-Harshani Chandarwani warned Harshani Chandarwani to avoid issuing political statements equivalent to contempt of court when granted bail. In any case, the magistrate warned that the bail was canceled and the suspect would lead to imprisonment.
-
-The Criminal Investigation Department told the court that the suspect had made disrespect during the trial against Ranil Wickremesinghe and that he was arrested and produced in court.
-
-The magistrate inquired what was the correct confession made by the suspect. The Criminal Investigation Department said that he said, "This is a verdict from Belawatte," he said.
-
-...
-
-[Data](articles/ea7ba241.json)
-
-[Extended Data](ext_articles/ea7ba241.ext.json)
-
----
-
-### Safeguard the fever life
-
-*2025-09-18 16:47:57* · [`adalk`](https://www.ada.lk/breaking_news/උණ-පණ-මෙන්-රැකගන්න/11-418591) · `si`
-
-Talawakele Lidula, Talawakele, Lidula, was held in Thalawakele Frauti Junction, to plant the Mahaweli Authority of Sri Lanka and Horana Plantations.
-
-The Mahaweli Authority of the Mahaweli Authority of Sri Lanka to mark the latest planting of the fever on September 18 was planted in the Sahewhawatta catchment area of ​​the Ramana Own.
-
-The Mahaweli Authority (SLWF) and Environmental Director Prasanna Jayathilake said that the state of Sri Lanka was planted in collaboration with the PSC to conserve environment together with the private sector.
-
-Prasanna Jayatilleke said that a number of environmental processes will be conducted by the soil conservation process, the soil conservation process, to the environment, and the protection of water sources.
-
-School children in the area and the Chief Secretary of the Sri Lanka Institute of Plantations and the Horana Plantations of the Plantations were present at the occasion.
-
-...
-
-[Data](articles/bde02d41.json)
-
-[Extended Data](ext_articles/bde02d41.ext.json)
-
----
-
-### Sri Lanka’s Ambeon Capital makes mandatory offer for Myland Developments
-
-*2025-09-18 16:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-makes-mandatory-offer-for-myland-developments-241100/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ambeon Capital, a subsidiary of Ambeon Holdings, said it is making a mandatory offer to buy the remaining 6,621,377 ordinary voting shares, or 18.27 percent, of Myland Developments at 8.50 rupees a share, in concert with three other parties.
-
-Last week, Ambeon Capital bought 18.5 million shares of Myland Developments, increasing its stake to 51.03 percent.
-
-Together with three other parties acting in concert, ATX Partners (Private) Limited which bought 13.75 percent, Arcasia Investment and Trading (Private) Limited which bought 13.95 percent, and Sujeewa Mudalige who bought 3 percent, this was raised to 81.73 percent of the total issued shares of Myland Developments.
-
-This triggered the threshold limits placed by the Company Takeovers and Mergers Code of the Securities and Exchange Commission of Sri Lanka.
-
-The company is now obliged to make a mandatory offer to purchase the balance ordinary voting shares held by the remaining holders.
-
-...
-
-[Data](articles/03f51b25.json)
-
-[Extended Data](ext_articles/03f51b25.ext.json)
-
----
-
-### Suspect arrested with 138 notes for 5000 fakes
-
-*2025-09-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214719) · `si`
-
-A person has been arrested with 138 counterfeit notes as Rs. 5,000.
-
-The police said that the suspect, which was printed, was arrested this morning at the Panmambagolgollewa Police Division this morning.
-
-He has also found a laptop, scan and printer in his possession.
-
-Police said that a suspicious person was inspected by a team of police officers in the Habarana town of the Habarana in Habarana in the evening of 0725.09.2011.
-
-Two suspects have been arrested in possession of Rs.
-
-According to further revealed, the suspect who was said to be arrested as stated that fake currency notes were printed.
-
-The suspects are residents of Habarana, Anuradhapura and Anuradhapura, aged 23 and 42 years old.
-
-The Sri Lankan police calls on the public to use the banknotes and informed the Sri Lankan Police as soon as they ensure that the fake currency notes are taken care of or in possession of such counterfeit banknotes.
-
-◼️
-
-[Data](articles/d479f3f3.json)
-
-[Extended Data](ext_articles/d479f3f3.ext.json)
-
----
-
-### CID arrested for former Navy Intelligence
-
-*2025-09-18 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214718) · `si`
-
-A former Sri Lanka Navy's chief has been arrested this afternoon.
-
-Police Media Spokesperson, Assist Superintendent of Police. !. Mr. Wootsler said the arrest was made by the CID.
-
-◼️
-
-[Data](articles/61cff73f.json)
-
-[Extended Data](ext_articles/61cff73f.ext.json)
-
----
-
-### Historical judgment from Anuradhapura High Court for persons with disabilities
-
-*2025-09-18 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214717) · `si`
-
-Reforms carried out at Vavuniya to Mahawa railway stations have been announced today (18).
-
-Chairperson of Women Association with Disabilities NGG. Mrs. Kamavathi had filed the petition and the Ministry of Transport and the General Manager of the Ministry and the General Manager had been named as respondents.
-
-Attorney-at-Law Isuru Mahesh Mahesh Panditha said that the court considering the petition as the Court preserves the rights of persons with disabilities.
-
-Since the entry stations from the Mahawa to Vavuniya, No. 01 of 2006, railway stations were not modernized by section 23 of the disabled persons with the Rights of Persons with the Protection Act, 23, 1996.
-
-Accordingly, the government has ordered the payment of Rs.
-
-The railway stations from Mahawa to Vavuniya should be modernized by access orders No. 01 of 2006.
-
-The annual provisions of the Railway Department have ordered that the provisions should be provided for the renovation of this renovation.
-
-...
-
-[Data](articles/4d01d4c0.json)
-
-[Extended Data](ext_articles/4d01d4c0.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks and financials lead
-
-*2025-09-18 16:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-financials-lead-241092/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The ASPI closed up 0.91 percent, or 189.84 points, at 20,965; while the S&P SL20 closed up  1.16percent, or 68.30 points, at 5,971.
-
-Most of this came from trades in capital goods (Rs1bn), banks (Rs1.18bn) and diversified financials (Rs1.66bn) stocks.
-
-Top contributors to the All Share Price Index were Nations Trust Bank (up 20.25 rupees at 298.75), DFCC Bank (up 6 rupees at 161.75), John Keells Holdings (up 50 cents at 22.50), Singer (up 3.80 rupees at 82.50), and Melstacorp (up 2 rupees at 159.50).
-
-First Capital Treasuries declared a dividend of 5 rupees per voting share; the stock closed up 8.60 rupees at 37.10.
-
-Acme Printing and Packaging, which announced a rights of issue of six to one closed flat at 7.10 rupees.
-
-◼️
-
-[Data](articles/a443dede.json)
-
-[Extended Data](ext_articles/a443dede.ext.json)
-
----
-
-### Dambulla Waste Management Facility no longer operational
-
-*2025-09-18 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112649/dambulla-waste-management-facility-no-longer-operational-) · `en`
-
-The Dambulla Waste Management Facility, an award-winning waste management project in the country initiated with an investment of around Rs. 650 million, has reportedly become completely inactive.
-
-Due to the shutdown of the waste management facility, garbage collected from several districts has been dumped into the forests, according to residents who claim that as a result, the wild animals including elephants have resorted to eating the garbage.
-
-For a period of time, garbage collected from Dambulla city was dumped in a forest reserve, leading to significant environmental damage and the death of wild animals.
-
-Following continuous protests by environmentalists, the Dambulla Municipal Council intervened and launched a waste management project.
-
-The initiative successfully introduced several programs, including organic fertilizer production, hospital waste disposal, a polythene incinerator, and broader waste management measures.
-
-...
-
-[Data](articles/39be4bd8.json)
-
----
-
-### There is no recording of the jeep camera system that confronts the fall bus collide
-
-*2025-09-18 15:59:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරට-පත්-බස්-රථය-ගැටුණ-ජීප්-රියේ-කැමරා-පද්ධතියේ-පටිගතවීමේ-පහසුකම්-නෑ/11-418589) · `si`
-
-The Ella Police have revealed that about 800 feet were given to the projection of about 800 feet (Rs.
-
-The luxury jeep is purchased in 2023 with a vehicle shop in Boralesgamuwa.
-
-However, the company said that the relevant vehicle owner should be asked and that the relevant vehicle owner should be installed into the camera of the luxury jeep if it is to be recording.
-
-The company said that most vehicle owners buying such luxury jeeps have not been informed by the relevant company that they will not be requested to install recording software in the car cameras.
-
-The Tangalle Urban Council employees were traveling on the 15th night's jew, the luxury bus collided with the road in the Wellawaya area and then took the Ravana Ella precipice.
-
-The Secretary of Tangalle Urban Council was killed including employees, including employees of the bus board of the bus driver.
-
-The report has been issued by the vehicle vehicle sales company on a court order to be taken by the Ella Police.
-
-...
-
-[Data](articles/d1f7c0fe.json)
-
-[Extended Data](ext_articles/d1f7c0fe.ext.json)
-
----
-
-### Discussion on encouraging youth women's politics
-
-*2025-09-18 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214716) · `si`
-
-The Members of Parliament has held a discussion on opportunities for various programs to encourage youth women's political participation in encouraging the UK.
-
-There is a need to build a dialogue between different social layers, among different social layers to promote the political participation of young women of Sri Lanka.
-
-Members of Parliament was held under the patronage of Prime Minister Dr. Weli Amarasuriya and Forum Chairman of the Prime Minister Saroja Sakar Raja.
-
-Representatives of WestSastministist Foundation for Democracy (WestMinSter Foundation Relegation) and the Law & Social Trust (Law & Society Trust) have also participated in the weststaministation.
-
-The committee's commander (WFD) representatives (WFD) representatives were able to support the implementation of the Members of Parliament for the growth of the women's workforce in Sri Lanka and to introduce gender budgeting.
-
-...
-
-[Data](articles/fe8f46c2.json)
-
-[Extended Data](ext_articles/fe8f46c2.ext.json)
-
----
-
-### Sri Lanka tourism institution joins GovPay
-
-*2025-09-18 15:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-institution-joins-govpay-241079/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Tourism Development Authority (SLTDA) has joined GovPay, the government’s digital payment platform, which will enable more online payments within the industry, the organization said.
-
-This will allow tourism industry operators across the country to pay the Tourism Development Levy including under-payments, defaults, and late payments through their banks’ internet and mobile banking portals or any FinTech app connected to GovPay, SLTDA said in a statement.
-
-“This integration enables seamless, secure, and hassle-free online payments for a wide range of SLTDA services, offering greater convenience to stakeholders across the tourism ecosystem.”
-
-With GovPay, SLTDA aims to streamline processes, reduce administrative hurdles, and create a more transparent and efficient business environment, it said.
-
-...
-
-[Data](articles/69b440cd.json)
-
-[Extended Data](ext_articles/69b440cd.ext.json)
-
----
-
-### Rs. Former Minister of Sabaragamuwa Sabaragamuwa remanded
-
-*2025-09-18 15:44:24* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-7ක්-රජයට-පාඩු-කළ-සබරගමුව-හිටපු-ඇමති-අතුල-කුමාර-රිමාන්ඩ්/11-418587) · `si`
-
-Former Minister of Highways and Sports Minister Embilipitiya Magistrate's Court today (18) ordered the court to be arrested for fraudulent use of Rs. 2 crores.
-
-When the suspect was produced in court, the officers of the Criminal Investigations Department stated in court that the project was spent on 15 projects in the court.
-
-◼️
-
-[Data](articles/ff1b5f8b.json)
-
-[Extended Data](ext_articles/ff1b5f8b.ext.json)
-
----
-
-### Interview Dates Notification
+### நேர்காணல் திகதிகள் அறிவிப்பு
 
 *2025-09-18 15:41:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேர்காணல்-திகதிகள்-அறிவிப்பு/175-364860) · `ta`
 
-Interviews for recruiting students of Colombo, Kalutara, Gampaha and Kegalle districts will be held on 20th and 21st of this month at the Health Ministry in Colombo 10.
+கொழும்பு, களுத்துறை, கம்பஹா மற்றும் கேகாலை மாவட்டங்களுக்கான மாணவர் தாதியர்களை ஆட்சேர்ப்பு செய்வதற்கான நேர்காணல்கள் இந்த மாதம் 20 மற்றும் 21 ஆம் தேதிகளில் கொழும்பு- 10 இல் உள்ள சுகாதார அமைச்சில் நடைபெறும்.
 
-Interviews for recruiting students of Kandy, Matale and Nuwara Eliya districts will be held on the 20th and 21st of this month at Nursing College, Kandy.
+கண்டி, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களுக்கான மாணவர் தாதியர்களை ஆட்சேர்ப்பு செய்வதற்கான நேர்காணல்கள் இந்த மாதம் 20 மற்றும் 21 ஆம் திகதிகளில் கண்டி நர்சிங் கல்லூரியில் நடைபெறும்.
 
-The Ministry of Health and Mass Media has announced that only those who have been officially announced by the Ministry of Health and Mass Media should appear for these interviews.
+சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சினால் முன்கூட்டியே அதிகாரப்பூர்வமாக அறிவிக்கப்பட்ட நபர்கள் மட்டுமே இந்த நேர்காணல்களுக்குத் தோன்ற வேண்டும் என்று சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சு அறிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/d36144dc.json)
-
-[Extended Data](ext_articles/d36144dc.ext.json)
 
 ---
 
@@ -780,23 +138,21 @@ Hemasiri Fernando and Pujith Jayasundara sentenced the two accused of the three-
 
 ---
 
-### Salt yields in Puttalam
+### புத்தளத்தில்  உப்பு  விளைச்சல் அமோகம்
 
 *2025-09-18 15:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-உப்பு-விளைச்சல்-அமோகம்/175-364856) · `ta`
 
-Five years later, due to the prevailing dry weather, the Puttalam has got a good hand harvest. Puttalam salt manufacturers said that this amount of salt was received after five years.
+ஐந்து ஆண்டுகளுக்குப் பிறகு, தற்போது நிலவும் வறண்ட வானிலை காரணமாக, புத்தளத்தில் அமோகமாக உப்பு அறுவடை கிடைத்துள்ளது. என புத்தளம் உப்பு உற்பத்தியாளர்கள் தெரிவித்தனர் ஐந்து ஆண்டுகளுக்குப் பிறகு இந்த அளவு உப்பு அறுவடை கிடைத்ததாகக் கூறப்படுகிறது.
 
-Salt farmers say that there is currently enough salt production to exceed one lakh metric tons.
+தற்போது ஒரு லட்சம் மெட்ரிக் தொன்னை தாண்டும் அளவுக்கு உப்பு உற்பத்தி இருப்பதாக உப்பு விவசாயிகள் கூறுகின்றனர்.
 
-With heavy rains over the past few years, the Puttalam salt production has been completely blocked, the salt field has been submerged and the industry is frozen.
+கடந்த சில ஆண்டுகளாக தொடர்ந்து பெய்த கன மழையால், புத்தளம் உப்பு உற்பத்தி முற்றிலுமாக தடைப்பட்டது, உப்பு  வயல் மழை நீரில் மூழ்கி,தொழிலையே முடக்கியுள்ளது.
 
-For that reason, the government has taken steps to import salt consumers from the state of Gujarat, India.. Sri Lanka's total salt requirement, approaching one million eighty thousand metric tank. Salt farmers said this is the amount of food and other ingredients.
+அந்த காரணத்திற்காக, உப்பு பற்றாக்குறைக்கு தீர்வாக,நாட்டின் உப்பு நுகர்வோருக்கு தேவையான உப்பு  இந்தியாவின் குஜராத் மாநிலத்தில் இருந்து இறக்குமதி செய்ய அரசாங்கம் நடவடிக்கை எடுத்திருந்தது. இலங்கையின் மொத்த உப்புத் தேவை, ஒரு லட்சத்து எண்பதாயிரம் மெட்ரிக் டன்னை நெருங்குகிறது. இதுதான் உணவு மற்றும் பிற பொருட்களுக்குத் தேவையான அளவு என உப்பு விவசாயிகள் தெரிவித்தனர்.
 
 ◼️
 
 [Data](articles/b20ddb96.json)
-
-[Extended Data](ext_articles/b20ddb96.ext.json)
 
 ---
 
@@ -819,26 +175,6 @@ For that reason, the government has taken steps to import salt consumers from th
 [Data](articles/d2e4cefd.json)
 
 [Extended Data](ext_articles/d2e4cefd.ext.json)
-
----
-
-### Boeing sues Boeing in connection with Air India
-
-*2025-09-18 14:59:46* · [`adalk`](https://www.ada.lk/international/එයාර්-ඉන්දියා-ගුවන්-අනතුර-සම්බන්ධයෙන්-බොයිං-සමාගමට-නඩු/3-418584) · `si`
-
-The families of four passengers killed in June in June, four passengers were filed against a USA, aircraft Boeing and aircraft shares to the Hanwel companies, and they file sued that companies have sued the lack of negligence.
-
-In the case of Tuesday, the defective fuel switches caused the danger, but companies were "nothing".
-
-Air India 171 flight to London Gatwick, Boeing, 787, faded from Ahamaadabad, and died 260 people.
-
-Fuel switches have attracted the attention of the fuel switches after the plane has disconnected the fuel resolve from the moment the plane.
-
-◼️
-
-[Data](articles/aeda0585.json)
-
-[Extended Data](ext_articles/aeda0585.ext.json)
 
 ---
 
@@ -946,28 +282,6 @@ Joined by Ministry Secretaries and agency heads, the initiative aimed to revital
 
 ---
 
-### New methodology for two weeks to provide fertilizer for tea cultivation
-
-*2025-09-18 14:24:07* · [`adalk`](https://www.ada.lk/breaking_news/තේ-වගාවට-පොහොර-ලබාදීමට-සති-දෙකක්-තුළ-නව-ක්‍රමවේදයක්/11-418583) · `si`
-
-Plantation and Community Infrastructure, Minister Samantha Vidyaratne said that a new methodology is expected to introduce a new system within two weeks to provide fertilizers to tea growers.
-
-Ideas made this statement when the Ministry of Plantation and Community Infrastructure was held at Parliament with his Chairman. Deputy Minister of Plantation and Community Infrastructure was also present at the occasion.
-
-The government focused on providing fertilizer without delaying fertilizer without delay.. The Minister further stated that the farmers can obtain fertilizer from anywhere they want.
-
-It also discussed issues regarding the promotion and promotion of coconut production.. The Minister pointed out that a pilot project in Kalutara has been launched to increase orange production.
-
-The Minister said that if the tea and rubber estates had requested the rehabilitation companies to be rehabilitated.
-
-...
-
-[Data](articles/4c50b5d1.json)
-
-[Extended Data](ext_articles/4c50b5d1.ext.json)
-
----
-
 ### Businessman arrested for selling foreign cigarettes to schoolchildren
 
 *2025-09-18 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112647/businessman-arrested-for-selling-foreign-cigarettes-to-schoolchildren) · `en`
@@ -1028,48 +342,6 @@ The Norwood police urge the drivers to take action to drive the traffic on the H
 
 ---
 
-### Sri Lanka to release fertilizer for tea plantations under new method: Minister
-
-*2025-09-18 13:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-release-fertilizer-for-tea-plantations-under-new-method-minister-241069/) · `en`
-
-ECONOMYNEXT – Fertilizer will be released to Sri Lanka’s tea growers under a new mechanism to be introduced within two weeks, where they will be able to obtain fertilizer from any place they wish, Plantation and Community Infrastructure Minister K V Samantha Viddyarathna has said.
-
-Plantation companies have been requested to rehabilitate abandoned areas of tea and rubber plantations, the minister told a ministerial consultative committee meeting, according to a parliament statement
-
-If they fail to take appropriate steps, the statement said, “a decision will be taken to utilize such areas for cultivation activities”.
-
-Increasing and promoting coconut production were also discussed at this meeting.
-
-A pilot project has been launched in the Kalutara area to increase coconut production and will be expanded to other areas as well, the statement said. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/11bb4aee.json)
-
-[Extended Data](ext_articles/11bb4aee.ext.json)
-
----
-
-### Queen of World Marry comes to Katunayake
-
-*2025-09-18 13:54:58* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-විවාහක-රූ-රැජින-කටුනායකට-එයි/11-418581) · `si`
-
-"Miss Grand Sri Lanka - 2025 (MISS Grand Sri Lanka - 2025) The Mrs: Sargam kousal came to the Katunayake Airport on the morning of 2022.
-
-The finals will be held at the Mount Lavinia General Hotel on 09/22.
-
-The Sri Lankan European Beauty will be held in Thailand with 110 countries in the world with 110 countries in the world.
-
-Mrs. Cergam Kauzhal, World Marry, arrived at the Katunayake Airport on the flight of the 144.
-
-◼️
-
-[Data](articles/2fad25bf.json)
-
-[Extended Data](ext_articles/2fad25bf.ext.json)
-
----
-
 ### Thusitha Halloluwa bail
 
 *2025-09-18 13:49:05* · [`adalk`](https://www.ada.lk/breaking_news/තුසිත-හල්ලොලුවට-ඇප/11-418580) · `si`
@@ -1085,22 +357,6 @@ The suspect was then ordered to ban abroad, or ordered that the suspect's passpo
 [Data](articles/6bf3a2ba.json)
 
 [Extended Data](ext_articles/6bf3a2ba.ext.json)
-
----
-
-### The street was closed in front of the Electricity Board headquarters by demonstration
-
-*2025-09-18 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
-
-Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
-
-Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
-
-◼️
-
-[Data](articles/135b9918.json)
-
-[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -1120,33 +376,19 @@ It is also reported that a road has been completely closed due to the ongoing de
 
 ---
 
-### Five years later, Puttalam
+### The street was closed in front of the Electricity Board headquarters by demonstration
 
-*2025-09-18 13:37:38* · [`adalk`](https://www.ada.lk/breaking_news/වසර-පහකට-පසු--පුත්තලමේ-වාර්තා-ගත-ලුණු-අස්වැන්නක්/11-418579) · `si`
+*2025-09-18 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225407) · `ta`
 
-Salt manufacturers say that the majority of the salt in the country will be given a major contribution to the country's salt requirement after the end of the dry weather.
+Due to a demonstration launched by the Ceylon Electricity Board (CEB) employees, part of the road from Kompani Street to Lake House Circuit has been closed.
 
-Salt growers say it is fifteen years after the Puttalam district is five years later, it is nearly 100 years old to be exceeding Rs.
+Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Gardiner Mawatha, police said.
 
-Salt manufacturers say that with the continuous rainfall of the last three years, salt producers say that the industrialist is undermined by rain water.
+◼️
 
-For that reason, the government has taken measures to import the salt to the location of the Salt State of the country in the state of India to import the salt.
+[Data](articles/135b9918.json)
 
-The total salt understanding of Sri Lanka is close to Rs.
-
-The turnover of Puttalam turns over Puttalam, near the Hambantota Salt production.
-
-The growers of the growers were so vibrated after a number of years. Mr. MU Rush was commenting.
-
-"We have come to us with a good salt.
-
-It is not a good harvest we have.
-
-...
-
-[Data](articles/6ec6f49c.json)
-
-[Extended Data](ext_articles/6ec6f49c.ext.json)
+[Extended Data](ext_articles/135b9918.ext.json)
 
 ---
 
@@ -1384,46 +626,6 @@ Minister Ratnayake also pointed out the latest incident that a boy from Ja-Ela f
 
 ---
 
-### "Get out of work": Minister Action
-
-*2025-09-18 12:31:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வேலைச்-செய்-இன்றேல்-வெளியேறு-அமைச்சர்-அதிரடி/150-364843) · `ta`
-
-Transport Minister Bimal Ratnayake has said that the officials who are unable to implement the railway services should resign from their posts.
-
-Speaking at a meeting with MPs and Transport Officers at the Kalutara District Secretariat, the Minister criticized the Railway Department for failing to provide basic facilities to the passengers.
-
-“The windows on trains should be closed properly. When they are not properly closed, the seats are drenched. No fan will work. Two and a half hours of journey from Galle to Colombo, there is no water in the same toilet. These are office trains - but passengers are forced to travel in such a situation. Officials have no interest in the public, ”he said.
-
-Minister Ratnayake also pointed out the latest incident that a boy from Ja-Ela fell into the window of his first train trip and lost two fingers.
-
-◼️
-
-[Data](articles/b3fb23a9.json)
-
-[Extended Data](ext_articles/b3fb23a9.ext.json)
-
----
-
-### ADB to loan Sri Lanka $100mn to develop tourism regionally
-
-*2025-09-18 12:26:00* · [`economynextcom`](https://economynext.com/adb-to-loan-sri-lanka-100mn-to-develop-tourism-regionally-241039/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank has agreed to release a 100 million dollar loan to Sri Lanka to implement tourism development measures, including in Trincomalee, Dambulla and Sigiriya, Minister Nalinda Jayatissa said.
-
-“The loan is comprised of 2 parts; 70 million dollars is for the policy component and the rest for the investment component,” Jayatissa told reporter earlier this week.
-
-Under the investment part, steps to develop tourism measures in the Trincomalee, Dambulla and Sigiriya regions will be prioritized to increase contributions to the regional economy, he said.
-
-This includes steps to increase more tourist visits to more attractions, better control of tourism traffic, and longer stays. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/28b30916.json)
-
-[Extended Data](ext_articles/28b30916.ext.json)
-
----
-
 ### Shop at Dambulla market destroyed in fire
 
 *2025-09-18 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112644/shop-at-dambulla-market-destroyed-in-fire) · `en`
@@ -1595,28 +797,6 @@ Mayor of Dambulla Urban Council Wasantha K. Rajayaramy said that if the fire spr
 [Data](articles/fff59cb9.json)
 
 [Extended Data](ext_articles/fff59cb9.ext.json)
-
----
-
-### Sri Lanka’s SAGT container terminal installs rooftop solar, takes operations electric
-
-*2025-09-18 11:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-sagt-container-terminal-installs-rooftop-solar-takes-operations-electric-241019/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s South Asia Gateway Terminals, a unit of John Keells Holdings, said it had installed rooftop solar to generate part of its power requirements, and is continuing to shift to hybrid and electric gantries and forklifts.
-
-A 460 kiloWatt rooftop solar array was installed on its main offices.
-
-“This investment reflects our deep commitment to reducing our environmental footprint while supporting national and global climate goals,” Chief Executive Romesh David said in a statement.
-
-SAGT said it has made progress in reducing Scope 1 emissions, which are direct greenhouse gas emissions that come from sources owned or controlled by the organization, such as fuel combustion in company vehicles or facilities, through the hybrid conversion of its Rubber Tyred Gantry (RTG) crane fleet.
-
-28 of its 31 cranes have been hybridised, contributing to a 22 percent reduction in carbon intensity per move over the past six years.
-
-...
-
-[Data](articles/fc5d21f8.json)
-
-[Extended Data](ext_articles/fc5d21f8.ext.json)
 
 ---
 
@@ -1852,26 +1032,6 @@ Initial investigations by the police revealed that he was attacked and drowned i
 
 ---
 
-### Sri Lanka’s Acme Printing and Packaging to raise Rs1.4bn from rights issue
-
-*2025-09-18 10:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-acme-printing-and-packaging-to-raise-rs1-4bn-from-rights-issue-241004/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Acme Printing and Packaging plans a six for one rights issue of 570 million ordinary voting shares at 2.50 rupees each to raise 1.4 billion, a stock exchange filing said.
-
-The cash will be used for the following purposes, the company said:
-
-– To initiate the key measures to prevent further losses and support recovery which was presented to the shareholders pursuant to Section 220 of the Companies Act on 17th September 2025.
-
-The rights issue is subject to Colombo Stock Exchange and shareholder approval. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/ddf6520f.json)
-
-[Extended Data](ext_articles/ddf6520f.ext.json)
-
----
-
 ### US support for training on the sponsorship of the port law
 
 *2025-09-18 10:44:14* · [`adalk`](https://www.ada.lk/business/වරාය-නීතියේ-එන-අනුග්‍රාහකත්වය-පිළිබඳ-පුහුණුවට-ඇමෙරිකා-සහාය/7-418573) · `si`
@@ -2075,5 +1235,813 @@ A 24-year-old suspect, believed to be the friend involved in the altercation, ha
 [Data](articles/4b1c3551.json)
 
 [Extended Data](ext_articles/4b1c3551.ext.json)
+
+---
+
+### Postponement
+
+*2025-09-18 10:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்டைதீவு-மனிதப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-364826) · `ta`
+
+◼️
+
+[Data](articles/205f86b3.json)
+
+[Extended Data](ext_articles/205f86b3.ext.json)
+
+---
+
+### Ambulance accident; Police rescued beer cans
+
+*2025-09-18 10:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆம்புலன்ஸ்-விபத்து-பீர்-கேன்களை-மீட்ட-பொலிஸார்/175-364825) · `ta`
+
+The ambulance carrying two patients from the Deniyaya area to Matara was found in two beer cans after the crash, Morawaka police said.
+
+When the ambulance belonging to the Deniyaya Basic Hospital was transported to the Matara General Hospital, it was hit by the entrance of a house.
+
+The driver of the ambulance has fled the scene at the time of the accident and has since surrendered to the police.
+
+◼️
+
+[Data](articles/413417db.json)
+
+[Extended Data](ext_articles/413417db.ext.json)
+
+---
+
+### Friend attacked a bottle and murdered
+
+*2025-09-18 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214699) · `si`
+
+A body has been found in a stream in Sandungagathi Mawathagama, Tissamaharama police division.
+
+Initiatives, investigations have commenced on information to the Tissamaharama Police Station yesterday (17).
+
+Investigations have revealed that the victim was attacked by a bottle on a white and a personal dispute.
+
+Tissamaharama Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fa29bbb0.json)
+
+[Extended Data](ext_articles/fa29bbb0.ext.json)
+
+---
+
+### 33 kg of wet Kerala cannabis in the northern seas
+
+*2025-09-18 10:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கடலில்-33-கிலோ-கிராம்-ஈரமான-கேரள-கஞ்சா-சிக்கியது/175-364824) · `ta`
+
+During the special search operations carried out by the Sri Lankan Navy in the Mamunai Sea of ​​Jaffna, the Navy seized more than thirty -three (33) kilograms (wet weight) Kerala cannabis.
+
+Accordingly, during a raid conducted by the Vettalakanei Naval Center belonging to the Northern Naval Command, a suspicious bag floating in particular sea areas was tested, and the Kerala cannabis was seized by more than thirty -three (33) kilograms in the bag.
+
+The total value of Kerala cannabis captured by the Navy is believed to be over seven (07) million rupees and is suspected to have been abandoned by traffickers without being able to bring it to shore during the operation of the Navy.
+
+In addition, the amount of Kerala cannabis seized by the Navy was handed over to the Maruthankeni Police Station for further legal action.
+
+◼️
+
+[Data](articles/70a19679.json)
+
+[Extended Data](ext_articles/70a19679.ext.json)
+
+---
+
+### The conditions for the culmination of petroleum emerges
+
+*2025-09-18 09:54:29* · [`adalk`](https://www.ada.lk/breaking_news/ඛණිජ-ප්‍රවාහන-කටයුතු-වෙනුවෙන්-දැමූ-කොන්දේසි-ලිහිල්-කරයි/11-418572) · `si`
+
+At the date of schools. 06.30 pm. 07.45 and. 11.30 pm. The new condition imposed on suspicion of mineral activities during the period to 2:30 has been suspended.
+
+Accordingly, the mineral transport of mineral transports near the schools and the schools near the above periods will be carried out under the severe supervision of the police.
+
+Accordingly, in the days of schools. 06.30 pm. 07.45 and. 11.30 pm. The transportation of minerals within the duration of Rs.
+
+These measures have been taken to prevent accidents during school durations.
+
+◼️
+
+[Data](articles/9604b9ad.json)
+
+[Extended Data](ext_articles/9604b9ad.ext.json)
+
+---
+
+### Israel opens new route out of Gaza City, death toll passes 65,000
+
+*2025-09-18 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112638/israel-opens-new-route-out-of-gaza-city-death-toll-passes-65000) · `en`
+
+The Israeli military said it was opening an additional route for 48 hours that Palestinians could use to leave Gaza City as it stepped up efforts on Wednesday to empty the city of civilians and confront thousands of Hamas combatants.
+
+Hundreds of thousands of people are sheltering in the city and many are reluctant to follow Israel’s orders to move south because of dangers along the way, dire conditions, a lack of food in the southern area and fear of permanent displacement.
+
+“Even if we want to leave Gaza City, is there any guarantee we would be able to come back? Will the war ever end? That’s why I prefer to die here, in Sabra, my neighbourhood,” Ahmed, a schoolteacher, said by phone.
+
+At least 63 people were killed by Israeli strikes and gunfire across the Gaza Strip on Wednesday, with most of the casualties in Gaza City, local health authorities said.
+
+...
+
+[Data](articles/292899c5.json)
+
+[Extended Data](ext_articles/292899c5.ext.json)
+
+---
+
+### Sri Lanka passport decline in world rankings!
+
+*2025-09-18 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225383) · `ta`
+
+According to global rankings, Sri Lanka's passport fell by 2025.
+
+Henley Passport for 2025 released on September 11th; According to the index, Sri Lanka ranks 97th.
+
+In 2024, Sri Lanka was ranked 96th in the passport code.
+
+Along with Sri Lanka, Iran is ranked 97th in this code.
+
+The Henley passport code evaluates passports around the world based on places that can enter without a pre -visa.
+
+At the same time, South Korea and Japan are in the second and third places respectively.
+
+◼️
+
+[Data](articles/fcdfb505.json)
+
+[Extended Data](ext_articles/fcdfb505.ext.json)
+
+---
+
+### Public consultation on electricity tariff revision begins today!
+
+*2025-09-18 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225382) · `ta`
+
+The Public Advisory Sessions on the Proposed Electricity Tax Correction will commence today (18).
+
+The Ceylon Electricity Board (CEB) has proposed a 6.8 per cent increase in electricity tariffs for the last quarter of 2025, the Sri Lanka Public Utilities Commission said.
+
+Accordingly, the Public Utilities Commission of Sri Lanka has decided to get the public's opinion on the amendments proposed.
+
+The Commission also said that the public can submit their comments and recommendations to the Commission in writing.
+
+It is reported that the Public Utilities Commission will conduct nine general advice, including nine provinces to obtain verbal ideas.
+
+It has been further stated that the written comments and recommendations on the Public Advice on the Third Electricity Toll Amendment of 2025 can be submitted before the 7th of October.
+
+◼️
+
+[Data](articles/2db927f6.json)
+
+[Extended Data](ext_articles/2db927f6.ext.json)
+
+---
+
+### This is what you read, this is what I read
+
+*2025-09-18 09:14:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தா-அத-நீ-வாசி-இததான்-நான்-வாசிப்பேன்/175-364820) · `ta`
+
+The philosophy of Carl Marx is based on the importance of labor, the fact that history is based on economic inequalities, social change, and communalism. He said that he was transforming nature through man's labor and the exploitation of workers in the bourgeois society, and that workers should create a classless society through revolution.
+
+Adam Smith's economic principles are elaborated in his main book "The Wealth of Nations" (1776). The most important of his theories: "Invisible Hand", which refers to the market forces to regulate the economy; «Working Analysis» (Division of Labor), which increases productivity; And includes the market economy that does not intervene state
+
+◼️
+
+[Data](articles/bcf9515b.json)
+
+[Extended Data](ext_articles/bcf9515b.ext.json)
+
+---
+
+### Five people at risk of dying daily due to chronic kidney disease in Sri Lanka
+
+*2025-09-18 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112636/five-people-at-risk-of-dying-daily-due-to-chronic-kidney-disease-in-sri-lanka) · `en`
+
+Approximately five individuals in Sri Lanka are at risk of dying daily due to chronic kidney disease (CKD), the National Unit for Kidney Disease Prevention and Research (NRDPRU) states.
+
+Consultant Community Physician Dr. Chintha Gunaratne, the Director of the Unit revealed that over 1,600 people in the country died from chronic kidney-related conditions in the year 2023.
+
+She made these remarks while speaking at a media briefing organized by the Health Promotion Bureau on kidney-related diseases.
+
+Dr. Gunaratne further emphasized that since symptoms of kidney disease often appear at a later stage, it is essential for individuals with non-communicable diseases (NCDs) to undergo regular kidney screenings.
+
+◼️
+
+[Data](articles/70d56c8e.json)
+
+[Extended Data](ext_articles/70d56c8e.ext.json)
+
+---
+
+### Transport Minister
+
+*2025-09-18 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225380) · `ta`
+
+Transport Minister Bimal Ratnayake has said that the officials who are unable to run the train service can resign.
+
+He was speaking at a discussion held at the Kalutara District Secretariat's new auditorium with government officials who are involved in the transport sector, including MPs representing the Kalutara District.
+
+“You can't close the windows on your train. They say they are correct. Suda burns after closing Jayanons. A phone does not work. It takes two and a half hours to go to Colombo from Galle, no water in the toilets. Trains office trains. Is it impossible for people to work properly?
+
+These are the people who have no respect for the people. Transport Minister Bimal Ratnayake has stated that a small child from Ja-Elayi fell off the window and lost two fingers.
+
+◼️
+
+[Data](articles/99817428.json)
+
+[Extended Data](ext_articles/99817428.ext.json)
+
+---
+
+### Increasing tension: Israeli force that advances into Gaza City
+
+*2025-09-18 09:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அதிகரிக்கும்-பதற்றம்-காசா-நகருக்குள்-முன்னேறும்-இஸ்ரேல்-படை/50-364818) · `ta`
+
+The Hamas armed group managing the Gaza tip, entered Israel on October 7, 2023 and launched a terrorist attack.
+
+1,139 Israelis killed in this attack. In addition, Hamas abducted 251 from Israel to Gaza. The Israeli Gaza, which announced war on the Hamas Armed Forces, is launching an attack.
+
+At the same time, Israel has rescued many of the hostage on contract basis and military action. Their bodies have also been recovered as some of the hostages were killed by the Hamas armed group.
+
+According to the current situation, 50 more are hostage in the grip of the Hamas Armed Forces. More than 25 people have been killed.
+
+At the same time, Israel is continuing to launch a ground and air strike at Gaza to rescue hostages and eradicate Hamas armed forces.
+
+Accordingly, people suspected of belonging to the Hamas movement carried out air strikes by drone missiles in the area where they were hiding.
+
+...
+
+[Data](articles/30166fd6.json)
+
+[Extended Data](ext_articles/30166fd6.ext.json)
+
+---
+
+### Sri Lanka's third nano satellite is to be launched tomorrow
+
+*2025-09-18 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225377) · `ta`
+
+Sri Lanka's third Nano satellite, which was developed with the technical expertise of engineers, will be launched tomorrow (19) on the route. Clark Modern Technology Institute has announced.
+
+The satellite, dubbed the Birds-X Dragonfly, was taken to the International Space Station by the SpaceX-33 rocket launched by NASA on August 24.
+
+Earlier, in 2019, Sri Lanka successfully launched its first nano-satellite Ravan-1.
+
+In 2022, the Kitsune satellite was launched as part of international technology cooperation comprising five international partners.
+
+Accordingly, the Birds-X Dragonfly Nano satellite is expected to launch its designated orbit from the International Space Station at 2:15 pm tomorrow.
+
+◼️
+
+[Data](articles/2b1fb922.json)
+
+[Extended Data](ext_articles/2b1fb922.ext.json)
+
+---
+
+### Logic among the Chairman of the East Regional Coordinating Committee on the issue of Archeology
+
+*2025-09-18 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225376) · `ta`
+
+The Department of Archeology of the Department of Archeology, Thiagarajah Niros, the Chairman of the Valikamam East Pradeshiya Sabha, and the President of the Prithsa Coordinating Committee, Rajivan Jayachandraramurthy. Following the debate, it was decided at the Divisional Development Committee that the Department of Archeology should withdraw from the Nilavara and hand it over to the Pradeshiya Sabha.
+
+In this regard, the Valikamam East Regional Development Committee meeting was held at the Divisional Secretariat yesterday (Tuesday). At this meeting, the Nilavarai area was a tourist attraction and it was investigated. It was pointed out by the Divine that the intervention of the Archaeological Department in the area could not improve it.
+
+...
+
+[Data](articles/ac63b8d5.json)
+
+[Extended Data](ext_articles/ac63b8d5.ext.json)
+
+---
+
+### Stalemate between Govt and electricity trade unions continues
+
+*2025-09-18 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112635/stalemate-between-govt-and-electricity-trade-unions-continues) · `en`
+
+Electricity trade unions have warned that they will further intensify their ongoing trade union actions if their demands continue to be ignored.
+
+Unions commenced a work-to-rule campaign on September 4, in protest against what they describe as the arbitrary restructuring of the Ceylon Electricity Board (CEB).
+
+As a further step in this campaign, union members launched a sick leave protest yesterday (17), according to reports.
+
+Accordingly, unions confirmed that the trade union action will continue for a second consecutive day today.
+
+However, if the authorities continue to disregard their demands, the trade union actions already underway will be escalated further, said Kosala Abeysinghe, the President of the Ceylon Electricity Board Technician’s Union.
+
+◼️
+
+[Data](articles/5527bb51.json)
+
+[Extended Data](ext_articles/5527bb51.ext.json)
+
+---
+
+### Five kidney patients die daily
+
+*2025-09-18 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214698) · `si`
+
+The National Kidney Disease Prevention and Research Unit said that there is a risk of about five persons from the country due to long-term kidney conditions.
+
+Director of the Director Dr. Chinthana Gunaratne said that in 2023, more than 1,600 people were killed due to long-last kidney patients.
+
+Dr. Chintha Gunaratne expressed his views participating in the Media in the Health Promotion Bureau over kidney disease.
+
+Speaking further Mr. Dr. Chinthana Gunaratne said that the emergence of kidney symptoms is delayed.
+
+◼️
+
+[Data](articles/a169925f.json)
+
+[Extended Data](ext_articles/a169925f.ext.json)
+
+---
+
+### Another intensify electricity program
+
+*2025-09-18 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214697) · `si`
+
+Electric Trade Universities further indicate that their problems are not resolved.
+
+The electricity union action commenced on the 4th of this month, protesting to restructuring the restructuring of the Electricity Board.
+
+Another phase of the trade union action, the trade union process began yesterday (17).
+
+Accordingly, the trade union action states that the trade union action will be implemented this second day.
+
+However, the Chairman of the Ceylon Electricity Board (Ceylon Electricity Board), the Chairman of the Ceylon Electricity Board (Ceylon Electricity Board) has further intensified the trade union action of the Ceylon Electricity Board.
+
+◼️
+
+[Data](articles/e62bd937.json)
+
+[Extended Data](ext_articles/e62bd937.ext.json)
+
+---
+
+### So much smell nose
+
+*2025-09-18 08:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னாடா-இவ்வளவு-நாற்றம்-மூக்க-பிக்கிது/62-364817) · `ta`
+
+◼️
+
+[Data](articles/3d8ffef7.json)
+
+[Extended Data](ext_articles/3d8ffef7.ext.json)
+
+---
+
+### So much odor is a nose
+
+*2025-09-18 08:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னாடா-இவ்வளவு-நாற்றம்-மூக்க-பிக்குது/62-364817) · `ta`
+
+◼️
+
+[Data](articles/46519669.json)
+
+[Extended Data](ext_articles/46519669.ext.json)
+
+---
+
+### Car in Andhra Pradesh - Lorry collision: 7 killed
+
+*2025-09-18 08:36:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆந்திராவில்-கார்-லொறி-மோதி-விபத்து-7-பேர்-பலி/175-364816) · `ta`
+
+Seven people, including a boy, were killed when a lorry collided with a car in Andhra Pradesh.
+
+Bala Weng Kaiya (age 40) from Nel Loor Kur Rumi Road, Nel Loor Kur Rumi Road, a relative of Path Dinar Kadapa Mavat Dum, Aadha Makur, a relative in the town of Aadha Moore, yesterday morning (17).
+
+At the time of the Paddy Loor Mavat Dum, Verman near Sung Gum, the Dip Bar Lorry, which was on the Mumbai National Highway, on the high -speed route opposite the road, crashed into their car.. The car tipper was trapped under the truck.
+
+In this demanding accident, Bala Veng Kaiya (age 40), his wife Radha (age 38), his colleague Tarar Ni Vasulu (42), Ni Vasulu's wife Lad Sumi (age 40), relative Sheramma (age 42) and Ot Dunar Tell Vasulu (48 years old) Life Recurry.
+
+The first phase of the Visa Visa is the cause of the accident.. (A)
+
+◼️
+
+[Data](articles/f279a6a8.json)
+
+[Extended Data](ext_articles/f279a6a8.ext.json)
+
+---
+
+### Public consultation on proposed electricity tariff revision to begin today
+
+*2025-09-18 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112633/public-consultation-on-proposed-electricity-tariff-revision-to-begin-today) · `en`
+
+Public consultation sessions on the proposed electricity tariff revision will commence today (18).
+
+The Ceylon Electricity Board (CEB) has proposed a 6.8% increase in electricity tariffs for the final quarter of 2025, according to the Public Utilities Commission of Sri Lanka (PUCSL).
+
+Accordingly, the PUCSL decided to obtain public opinion on the proposed amendments.
+
+The PUCSL stated that the general public can submit their comments and suggestions in writing to the Commission.
+
+To obtain verbal feedback, the PUCSL will conduct nine public consultations covering all nine provinces.
+
+Accordingly, public consultation sessions for verbal submissions will commence today.
+
+The PUCSL further stated that written comments and suggestions related to the public consultation on the third electricity tariff revision of 2025 can be submitted via the following methods before October 7, 2025:
+
+Public Consultation on the Third Electricity Tariff Revision – 2025
+
+◼️
+
+[Data](articles/eda48363.json)
+
+[Extended Data](ext_articles/eda48363.ext.json)
+
+---
+
+### If not to wait, the Minister's biroleton warns final warning
+
+*2025-09-18 08:11:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්න-බැරිනම්-යන්න-ඇමති-බිමල්-දුම්රියට-අවසන්-අනතුරු-ඇඟවීම-දෙයි/11-418571) · `si`
+
+Transport Minister Bimal Ratnayake publicly criticized the extreme inefficiency of the Railway Department. He added to the Railway Department if not.
+
+"The windows of trains cannot close. When the windows closed, the hell burn. There's no fan work. I'm March
+
+From month to make fan. There is no water in one wash rom. I said Walnillers. What speech are you unable to give the fan?  People dry, the one. Do you can't make some fans from March. Why do you?
+
+Those who feel about five pennies are in the Railway Department. People are three deaths. When you shut down, the windows cannot close. If the windows stimulate the windows, no Fan. There is no water in Wash Room. Looks like a prison. Do this or I send passengers to Ratmalana. Four years on Ja-Canal on Ja A Canal, four years on the Cachchiatha, and fell into two fingers of the kid.
+
+...
+
+[Data](articles/cb85f110.json)
+
+[Extended Data](ext_articles/cb85f110.ext.json)
+
+---
+
+### Khalistan's siege intimidation on the Indian embassy in Canada
+
+*2025-09-18 08:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225378) · `ta`
+
+The Sikhs for Justice (SFJ), operating in Canada, has threatened to block the Indian embassy in Vancouver on Thursday (September 18).
+
+According to the SFJ organization, the Indian embassy will be blocked for 12 hours from 8 am to 8 pm today.
+
+The SJF alleges that the Indian embassies in Canada are running a spy network targeting Khalistan supporters.
+
+In its statement, the SFJ organization pointed out that the then Prime Minister of Canada Justin Trudeau told parliament about the role of the Indian intelligence agency in the Hardeep Singh Nijjar murder case in 2023.
+
+A statement issued by the Canada government a few weeks ago stated that Khalistan terrorist groups were operating in their country and that they were getting funds from abroad.
+
+The intimidation of the Khalistan -backed organization has further increased the tensions that are already prevailing in diplomatic relations between Canada and India.
+
+◼️
+
+[Data](articles/d1f659f8.json)
+
+[Extended Data](ext_articles/d1f659f8.ext.json)
+
+---
+
+### Youth arrested for selling mawa mixed with cannabis
+
+*2025-09-18 07:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-கலந்த-மாவா-விற்ற-இளைஞர்-கைது/175-364815) · `ta`
+
+A young man who sold cannabis mixed mawa. He has been arrested in Nawandurai.
+
+A youth has been arrested with 470 grams of ganja mixed with 470 grams of cannabis in the Nawandurai mud area based on confidential information received by the Jaffna Police Crime Unit
+
+Arrested.  In the early stages of investigations carried out by the youth, he has been involved in the sale of cannabis for a long time.
+
+◼️
+
+[Data](articles/0a050476.json)
+
+[Extended Data](ext_articles/0a050476.ext.json)
+
+---
+
+### Down in the country's passport
+
+*2025-09-18 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214696) · `si`
+
+According to global ratings, Sri Lanka's passport has fallen from one place in 2025.
+
+According to the Henley Passport Index, Sri Lanka has 97th place for 2025 on September 11.
+
+In 2024, Sri Lanka was 96th of the foreign passport.
+
+Iran with Sri Lanka is also in the 97th place in this index.
+
+The Heny Passport Index is based on the worldwide destinations that can be included without a pre-visa.
+
+According to this index, Singapore has become the most powerful overseas passport and South Korea and Japan are in second and third places respectively.
+
+The launch of this overseas license index has been placed in Afghanistan.
+
+◼️
+
+[Data](articles/808fc685.json)
+
+[Extended Data](ext_articles/808fc685.ext.json)
+
+---
+
+### Refusal to pay tribute minister
+
+*2025-09-18 07:50:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஞ்சலி-செலுத்த-சென்ற-அமைச்சருக்கு-அனுமதி-மறுப்பு/175-364814) · `ta`
+
+The Tamil National Alliance (TNA) has stopped the Minister of Fisheries and Industries who went to pay tribute to Dileepan.
+
+Dileepan's commemoration events are being held at the memorial at Nallur bin road in Jaffna.
+
+Yesterday evening (17), Fisheries Minister Ramalingam Chandrasekhar and members of the National People's Power had gone to pay tribute to the sacrificial fire.
+
+At the same time, the Tamil National People's Front (TNA) dismissed the minister that he would not allow the minister to pay tribute.  (a)
+
+◼️
+
+[Data](articles/9e18aa07.json)
+
+[Extended Data](ext_articles/9e18aa07.ext.json)
+
+---
+
+### Bangladesh bars ex-PM Sheikh Hasina, family from voting in next year’s election
+
+*2025-09-18 07:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112631/bangladesh-bars-ex-pm-sheikh-hasina-family-from-voting-in-next-years-election) · `en`
+
+Bangladesh’s Election Commission (EC) on Wednesday said it has “locked” the national identity cards of deposed prime minister Sheikh Hasina, effectively barring her from voting in the general elections scheduled for February next year.
+
+“Anyone whose national identity (NID) card has been locked cannot vote from abroad,” EC Secretary Akhtar Ahmed told reporters at his office in Nirbachon Bhavan here.
+
+Though Ahmed did not mention any other name, UNB news agency and the Dhaka Tribune newspaper, quoting unnamed EC officials, reported that NIDs of Hasina’s younger sister Sheikh Rehana, son Sajeeb Wazed Joy and daughter Saima Wazed Putul have also been “locked” or “blocked”.
+
+Rehana’s children Tulip Rizwana Siddiq, Azmina Siddiq and nephew Radwan Mujib Siddiq Bobby, her brother-in-law and Hasina’s former security adviser retired major general Tarique Ahmed Siddique, his wife Shahin Siddique and their daughter Bushra Siddique are also reportedly barred from voting.
+
+...
+
+[Data](articles/0a9625ad.json)
+
+[Extended Data](ext_articles/0a9625ad.ext.json)
+
+---
+
+### Showers over 75 mm today
+
+*2025-09-18 07:45:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-මිලි-මීටර්-75-ඉක්මවූ වැසි/11-418570) · `si`
+
+The Department of Meteorology says that there will be showers at times in the Western, Sabaragamuwa, Central, North and Northwestern districts.
+
+Some locations in the Western, Sabaragamuwa and Northern provinces and in the Galle and Matara districts. 75 Heavy rains will occur at 75 times
+
+Pm in other areas. Showers or thundershowers will occur at several places in about 1.00 pm, the Met Department said.
+
+◼️
+
+[Data](articles/15d29113.json)
+
+[Extended Data](ext_articles/15d29113.ext.json)
+
+---
+
+### 3 youths who have gone to Kalkis in the sea wave safely rescue
+
+*2025-09-18 07:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225375) · `ta`
+
+Three youths who went to bathe in the sea, Kalkiss, were thrown into the sea wave, police said.
+
+It is reported that the incident took place on Wednesday (17) and officers from the police lifewalk unit and the youth trapped in the sea waters were safely rescued.
+
+Investigations have revealed that all the rescued youth were 16 -year -old and are from Wellampitiya, Kuttakurukkur and Hoganda.
+
+Police have warned the public to avoid bathing in the sea when heavy waves are found.
+
+◼️
+
+[Data](articles/7e14a06b.json)
+
+[Extended Data](ext_articles/7e14a06b.ext.json)
+
+---
+
+### Evidence rooms that can give the children safely
+
+*2025-09-18 07:39:58* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ආරක්ෂිතව-සාක්ෂි-දිය-හැකි-සාක්ෂි-කාමර/11-418569) · `si`
+
+It is a turning point in the country's judicial system to establish evidence rooms for children.
+
+Attorney-at-Law, Assistant Integration Minister, Attorney-at-Law, Hon.. The opening of a digital facilities to the children who become victims have been opened in the Kandy High Court.
+
+"It should be noted that the establishment of the evidence rooms for children is a turning point in Sri Lanka. It should be the potential to give the children who are prosperous to be victims. For the first time in the Kandyan highway, a digital facilities that can be securely evidence of the children who become victims opened in the Kandy High Court. These facilities are being introduced to courts island wide.
+
+EU and UNICEF organizations should be thankful for the EU, UnforF. It should be stated that the current government is a projected purpose to inheriting children. The Minister said that he will introduce strong laws for child protection in the future.
+
+...
+
+[Data](articles/a77bae23.json)
+
+[Extended Data](ext_articles/a77bae23.ext.json)
+
+---
+
+### The second phase of the "Clene Sri Lanka" begins the Thalattle
+
+*2025-09-18 07:35:41* · [`adalk`](https://www.ada.lk/breaking_news/“ක්ලීන්-ශ්‍රී-ලංකා”-නාගරික-වනාන්තර-ව්‍යාපෘතියේ-දෙවන-අදියර-තොටළඟින්-ඇරඹේ/11-418568) · `si`
+
+The second phase of the Urban Forest in the Urban Forests under the "Clene Sri Lanka" program was launched near the bus stand.
+
+Accordingly, it has been developed as a security urban forest plantation planting plants belonging to the Thotalawiya Colombo Municipal Council.
+
+The specialty is to assign the responsibilities of the school students of Madampitiya Sri Sangavila Maha Vidyalaya as the devotees of environmental value.
+
+Prizes and certificates were presented to school children.
+
+Road Development Authority, Urban Development Authority and the Colombo Municipal Council under the guidance of the Foster 'Program and Clene Sri Lanka' projects in the Cuttel Maharaja Group.
+
+The project will be carried out with the contribution of public and private sectors.
+
+◼️
+
+[Data](articles/a95ff400.json)
+
+[Extended Data](ext_articles/a95ff400.ext.json)
+
+---
+
+### Severe Soldier appreciates of survived passengers in the fall in the fall
+
+*2025-09-18 07:30:25* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-අනතුරේදී-තම-දිවි-නොතකා-මගීන්-බේරා-ගත්-විශේෂ-බළකා-සෙබලා-අගයයි/11-418567) · `si`
+
+The Army Headquarters have made an official promotion and evaluate the employees of the Army Special Forces who have been able to save their lives to the Ravana Falls on the ride of the Ella, Wellawaya main road.
+
+This is evicted by the Army 2nd Special Forces W. M. Paddy. M. The average celebrations of Bandara, who is promoted to the rank of the Lance Corporal. His heroic was the special assessment of the Army's special assessment and a financial donation.
+
+Retired of the Armed Forces Association (President's Association) at this time, Retired Lieutenant Colonel Ajith, Ajith, has been involved in the financial donation.                                  Gem
+
+◼️
+
+[Data](articles/2cc0bebe.json)
+
+[Extended Data](ext_articles/2cc0bebe.ext.json)
+
+---
+
+### Railway personnel accused from Minister Bimal
+
+*2025-09-18 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214695) · `si`
+
+Transport Minister Bim Ratnayake says that the railway service cannot be properly implemented.
+
+He pointed out that the Railway Department officials have failed to maintain the rail.
+
+Minister of Transport Bimal Ratnayake made this statement participating at a discussion with public officials including the Transport sector including the Kalutara District Secretaries in the Kalutara District Secretariats.
+
+...
+
+[Data](articles/457409c1.json)
+
+[Extended Data](ext_articles/457409c1.ext.json)
+
+---
+
+### Sri Lanka’s third nano-satellite to be launched into orbit tomorrow
+
+*2025-09-18 07:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112630/sri-lankas-third-nano-satellite-to-be-launched-into-orbit-tomorrow) · `en`
+
+Sri Lanka’s third nano-satellite, developed with the technical expertise of local engineers, is scheduled to be launched into orbit tomorrow (19), the Arthur C. Clarke Institute for Modern Technologies in Moratuwa, has announced.
+
+Named ‘BIRDS-X Dragonfly’, the satellite was carried to the International Space Station (ISS) aboard the SpaceX-33 rocket, launched by NASA on August 24.
+
+Previously, in 2019, Sri Lanka successfully launched its first nano-satellite, ‘Ravana-1’, and in 2022, the ‘KITSUNE’ satellite was launched as part of a multinational technological collaboration involving five international partners.
+
+Accordingly, the BIRDS-X Dragonfly nano-satellite is scheduled to be released into its designated orbit from the International Space Station at 2:15 p.m. tomorrow.
+
+...
+
+[Data](articles/6940e7da.json)
+
+[Extended Data](ext_articles/6940e7da.ext.json)
+
+---
+
+### France starting talks with Sri Lanka to resume projects after default ends
+
+*2025-09-18 06:30:00* · [`economynextcom`](https://economynext.com/france-starting-talks-with-sri-lanka-to-start-projects-after-default-ends-240956/) · `en`
+
+ECONOMYNEXT – Talks are starting on resuming stalled projects and starting fresh ones, on the policy priorities of Sri Lanka’s new government, a top official of the French devel agency, Agence Française de Développement (AFD) said.
+
+Sri Lanka had 426 million dollars of bilateral loans from France of which 138 million dollars were in arrears as of March 2025 and as well as unpaid interest.
+
+A June debt bulletin said it was turned into 478 million dollars of loans.
+
+The restructuring agreements between France and Sri Lanka were signed in August.
+
+“So, the discussions of where we are heading to is now starting, with the Sri Lankan government on two sides,” Cyrille Bellier, Head of the Department Europe, Middle East and Asia told reporters in Paris.
+
+“How we can re-engage the projects that have been stopped and for which the Sri Lankan government decided that they were still a priority.”
+
+Projects which are no longer a priority can be cancelled he said.
+
+...
+
+[Data](articles/114f28df.json)
+
+[Extended Data](ext_articles/114f28df.ext.json)
+
+---
+
+### Israel's announcement to leave Gaza people
+
+*2025-09-18 06:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மக்களை-வெளியேறுமாறு-இஸ்ரேல்-அறிவிப்பு/50-364812) · `ta`
+
+On Gaza, Israel has intensified military operations and ordered the immediate exit of residents.
+
+Israel has been carrying out serious air and ground attacks throughout the Gaza since yesterday (16).
+
+The Israeli military announced yesterday (17) that the Palestinian people will open a further 48 hours to leave.  (a)
+
+◼️
+
+[Data](articles/ed386926.json)
+
+[Extended Data](ext_articles/ed386926.ext.json)
+
+---
+
+### Three teenagers rescued after being swept away by currents at Mount Lavinia Beach
+
+*2025-09-18 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112629/three-teenagers-rescued-after-being-swept-away-by-currents-at-mount-lavinia-beach) · `en`
+
+Three teenagers who went sea bathing at the Mount Lavinia Beach were rescued after being swept away by strong water currents, police stated.
+
+The incident occurred yesterday (17), and police said officers attached to the Police Lifeguard Unit, rescued the individuals who were caught in the strong currents.
+
+Officers promptly intervened, rescued the individuals, and administered initial first aid.
+
+The rescued teenagers, all aged 16, are residents of Wellampitiya, Katukurunda, and Hokandara.
+
+◼️
+
+[Data](articles/ddd20909.json)
+
+[Extended Data](ext_articles/ddd20909.ext.json)
+
+---
+
+### Sri Lanka's third Nano Satellite Orbit tomorrow
+
+*2025-09-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214693) · `si`
+
+The third Nano, the technical contributor to the technical contribution to the Third Nano Satess, the Arthur C. Clarke Institute said.
+
+Birds - X Dragonflowi, the satellite named X-Dragonfiwida last August was taken to the International Space Institute by NASA.
+
+In 2019, Ravana-1 Chandrika, was identified as "Kitsu - 1" in the year 2019 and had previously created "Kitsu-1 Technical Cooperation Project in 2022.
+
+Birds - X Dragonflowy Nathafi Nathafi Nano is due to be released from the International Space Center tomorrow at 2.15 pm.
+
+◼️
+
+[Data](articles/e3e755f3.json)
+
+[Extended Data](ext_articles/e3e755f3.ext.json)
+
+---
+
+### Heavy rains in the evening today
+
+*2025-09-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214692) · `si`
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Northern and Northwestern provinces and in the Galle and Matara districts.
+
+Department of Meteorology was announced in the Western, Sabaragamuwa and Northern Province and in the Galle and Matara districts, mm.. Heavy rains can occur about 75 years.
+
+In the other areas. Showers or thundershowers will occur at several places about 1.00.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/313cd568.json)
+
+[Extended Data](ext_articles/313cd568.ext.json)
+
+---
+
+### King Charles and Trump hail UK-US special relationship in state banquet speech
+
+*2025-09-18 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112628/king-charles-and-trump-hail-uk-us-special-relationship-in-state-banquet-speech) · `en`
+
+King Charles has commended President Trump’s personal commitment to “finding solutions to some of the world’s most intractable conflicts”, as he called for US support for Ukraine against “tyranny”, in a speech at the US state visit banquet.
+
+In response, President Trump hailed the special relationship between the US and the UK, saying the word “special does not begin to do it justice”.
+
+The King’s speech, at a lavish dinner for 160 guests in Windsor Castle, emphasised the deep connections between the two countries and the need to maintain cultural, trading and military links.
+
+“Our people have fought and died together for the values we hold dear,” said the King.
+
+The state visit will continue on Thursday, including Queen Camilla and the Princess of Wales at events with the First Lady Melania Trump.
+
+It will move from a royal spectacle to political talks and a news conference, as Trump travels to meet Prime Minister Keir Starmer at his country house, Chequers.
+
+...
+
+[Data](articles/e64851b6.json)
+
+[Extended Data](ext_articles/e64851b6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 15:20:25**
+As of **2025-09-18 14:56:03**
 
 ## Newspaper Stats
 
-*Scraped **76,735** Articles*
+*Scraped **76,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,151 +16,21 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,458
-adaderanalk | 9,907
-tamilmirrorlk | 11,524
+adalk | 7,456
+adaderanalk | 9,905
+tamilmirrorlk | 11,521
 virakesarilk | 12,484
-adaderanasinhalalk | 13,380
+adaderanasinhalalk | 13,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,457 (97.0%) of 76,735 articles have been extended.
+74,436 (97.0%) of 76,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### புத்தளத்திலிருந்து  உப்பு அறிக்கை வெளியீடு
-
-*2025-09-18 15:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்திலிருந்து-உப்பு-அறிக்கை-வெளியீடு/175-364856) · `ta`
-
-ஐந்து ஆண்டுகளுக்குப் பிறகு, தற்போது நிலவும் வறண்ட வானிலை காரணமாக, புத்தளத்தில் சாதனை அளவான உப்பு அறுவடை கிடைத்துள்ளது.
-
-என புத்தளம் உப்பு உற்பத்தியாளர்கள் தெரிவித்தனர் ஐந்து ஆண்டுகளுக்குப் பிறகு இந்த அளவு உப்பு அறுவடை கிடைத்ததாகக் கூறப்படுகிறது.
-
-தற்போது ஒரு லட்சம் மெட்ரிக் தொன்னை தாண்டும் அளவுக்கு உப்பு உற்பத்தி இருப்பதாக உப்பு விவசாயிகள் கூறுகின்றனர்.
-
-கடந்த சில ஆண்டுகளாக தொடர்ந்து பெய்த கன மழையால், புத்தளம் உப்பு உற்பத்தி முற்றிலுமாக தடைப்பட்டது, உப்புத் வயல் மழை நீரில் மூழ்கி,தொழிலையே முடக்கியுள்ளது.
-
-அந்த காரணத்திற்காக, உப்பு பற்றாக்குறைக்கு தீர்வாக,நாட்டின் உப்பு நுகர்வோருக்கு தேவையான உப்பு  இந்தியாவின் குஜராத் மாநிலத்தில் இருந்து இறக்குமதி செய்ய அரசாங்கம் நடவடிக்கை எடுத்திருந்தது. இலங்கையின் மொத்த உப்புத் தேவை, ஒரு லட்சத்து எண்பதாயிரம் மெட்ரிக் டன்னை நெருங்குகிறது. இதுதான் உணவு மற்றும் பிற பொருட்களுக்குத் தேவையான அளவு என உப்பு விவசாயிகள் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d2e4cefd.json)
-
----
-
-### “கன்னி கழியாத பொண்ணு தான் வேணும்: அந்த உறுப்பில் வாசனை வரனும்”
-
-*2025-09-18 14:58:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கன்னி-கழியாத-பொண்ணு-தான்-வேணும்-அந்த-உறுப்பில்-வாசனை-வரனும்/175-364855) · `ta`
-
-உண்மை சம்பவத்தின் அடிப்படையில், மருத்துவர் ஒருவரின் வேதனையை இங்கே கதை வடிவில் பகிர்ந்துள்ளோம். சம்பந்தபட்டவர்களின் நலனுக்காக பெயர்கள் மாற்றப்பட்டுள்ளன.
-
-நகரின் மையத்தில், பரபரப்பான மருத்துவமனை ஒன்றில், டாக்டர் சந்திரசேகர் (பெயர் மாற்றப்பட்டுள்ளது) தனது அறையில் அமர்ந்து, மனதில் கனமான எண்ணங்களுடன் ஒரு நோயாளியின் கோப்பைப் புரட்டிக் கொண்டிருந்தார். அவரது மேசையில், திருமணத்திற்கு முன்பு மருத்துவப் பரிசோதனைக்கு வரும் இளம் ஜோடிகளின் பட்டியல் நீண்டு கொண்டே போனது.
-
-இது ஒரு புதிய கலாச்சாரமாக நகர்ப்புறங்களில் வளர்ந்து வந்தது. ஆனால், இந்தப் பரிசோதனைகளின் பின்னணியில் உள்ள கேள்விகளும் எதிர்பார்ப்புகளும் அவரை மனதளவில் தளரவைத்தன.அன்று காலை, அவரது அறைக்கு வந்த முதல் ஜோடி அர்ஜுனும் லதாவும்.
-
-இருவரும் முப்பது வயதிற்கு உட்பட்டவர்கள், நவீன உடைகளில், தங்கள் திருமணத்திற்கு முன்பு "எல்லாம் சரியாக உள்ளதா" என்று உறுதி செய்ய வந்தவர்கள். அர்ஜுன், ஒரு மென்பொருள் பொறியாளர், புன்னகையுடன் அமர்ந்திருந்தாலும், அவனது கண்களில் ஒரு பதற்றம் தெரிந்தது.
-
-...
-
-[Data](articles/b0f75117.json)
-
----
-
-### මිලියන 650ක වියදමින් ඉදිකළ දඹුල්ලේ කසල කළමනාකරණ අංගනය වැඩ නෑ
-
-*2025-09-18 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214713) · `si`
-
-දිවයිනේ සම්මාන දිනූ කසල කළමනාකරණ ව්‍යාපෘතියක් වන දඹුල්ලේ කසල කළමනාකරණ අංගනය සම්පූර්ණයෙන් අක්‍රිය වී ඇති බව වාර්තා වේ.
-
-මෙම කසළ කළමණාකරණ අංගනය නැවතීම හේතුවෙන් දිස්ත්‍රික්ක ගණනාවක ලැබෙන කුණු කසල සියල්ල වනයට මුදාහැරීමට සිදුව ඇත.
-
-ඒ හේතුවෙන් වනඅලි ඇතුළු වනසතුන් කසල ආහාරයට ගැනීමට යොමු වී ඇති බව දඹුල්ලේ ජනතාව පවසයි.
-
-කලක සිට දඹුල්ල නගරයේ ඉවත්කරන ලද කැලි කසල රජයේ රක්ෂිතයට ගෙනවිත් දැමීම හේතුවෙන් විශාල පරිසර විනාශයක් මෙන්ම වනසතුන්ගේ ජීවිත විනාශවීමක්ද සිදුවෙමින් පැවතුණි.
-
-මේ සම්බන්ධයෙන් දිගින් දිගටම මාධ්‍ය හරහා පරිසරවේදීන් නගන විරෝධතාවයන් සැලකිල්ලට ගෙන දඹුල්ල මහ නගර සභාව මැදිහත්ව මෙම කසල කළමනාකරණ ව්‍යාපෘතියක් ආරම්භ කෙරුණි.
-
-මෙමගින් කාබනික පොහොර නිෂ්පාදනය, රෝහල් අපද්‍රව්‍යය, පොලිතීන් තාප දාහකය සහ මළ අපද්‍රව්‍ය කළමනාකරණය ආදී වැඩසටහන් රැසක් ඉතා සාර්ථකව ක්‍රියාත්මකව තිබුණි.
-
-තවද 'පිවිතුරු අරණ' නමින් මෙය නම්කොට දෙස් විදෙස් බොහෝ දෙනෙකුගේ නිරීක්ෂණයට ලක්වූ අතර, සංචාරක කලාපයක් ලෙස නම්කොට අලි ඇතුන් නැරඹීම සඳහා විදුලි බලයෙන් ක්‍රියාත්මක වාහන පවා මෙහි ක්‍රියාත්මක විය.
-
-...
-
-[Data](articles/f230a80b.json)
-
----
-
-### ரூ.5,000 போலி நாணயத்தாள்கள்   145 உடன் நால்வர் கைது
-
-*2025-09-18 14:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-5-000-போலி-நாணயத்தாள்கள்-145-உடன்-நால்வர்-கைது/175-364854) · `ta`
-
-அனுராதபுரத்தின் மதவாச்சி பகுதியில் 5,000 ரூபாய் போலி நாணயத்தாள்களின் நூற்று நாற்பத்தைந்து தாள்கள் மற்றும் அவற்றை அச்சிடப் பயன்படுத்தப்படும் பல மடிக்கணினிகள், கணினிகள் மற்றும் பிற உபகரணங்களுடன் நான்கு சந்தேக நபர்கள் கைது செய்யப்பட்டதாக ஹபரணை பொலிஸார் தெரிவித்தனர்.
-
-ஹபரணை பகுதியில் 5,000 ரூபாய் நாணயத்தாள் புழக்கத்தில் இருப்பது குறித்து பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில், கைது செய்யப்பட்ட சந்தேக நபரிமதட மேற்கொள்ளப்பட்ட விசாரணையில்  இந்த மோசடியில் ஈடுபட்ட மற்ற சந்தேக நபர்களை கைது செய்ய முடிந்ததாக இது குறித்து விசாரணைகளை மேற்கொண்டு வரும் ஹபரணை பொலிஸார் தெரிவிக்கின்றனர்.
-
-இந்த சந்தேக நபர்கள் மதவாச்சி பகுதியில் போலியான  நாணயத்தாள்களை அச்சிட்டு, ஹபரணை பகுதிக்கு வந்து அவற்றை மாற்றிக் கொண்டதாகவும், இந்த மோசடி நீண்ட காலமாக நடந்து வந்ததாகவும் முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளதாக ஹபரணை பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/0cb9433e.json)
-
----
-
-### Sri Lanka’s overseas missions directed to identify new export markets, attract sustainable foreign investments
-
-*2025-09-18 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112648/sri-lankas-overseas-missions-directed-to-identify-new-export-markets-attract-sustainable-foreign-investments) · `en`
-
-Minister of Foreign Affairs, Vijitha Herath, along with the Minister of Industry, Sunil Handunneththi, and Minister of Trade, Wasantha Samarasinghe, launched an integrated mechanism to enhance collaboration between Sri Lanka’s overseas Missions and national institutions.
-
-Joined by Ministry Secretaries and agency heads, the initiative aimed to revitalize the country’s trade and investment agenda through coordinated efforts. The session on 16 September, attended by all Heads of Mission and Post, served as a platform to share key policy directives, practical proposals, and focused ideas, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-...
-
-[Data](articles/04df1dd2.json)
-
-[Extended Data](ext_articles/04df1dd2.ext.json)
-
----
-
-### Businessman arrested for selling foreign cigarettes to schoolchildren
-
-*2025-09-18 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112647/businessman-arrested-for-selling-foreign-cigarettes-to-schoolchildren) · `en`
-
-A businessman has been arrested by the police on suspicion of selling illegally imported cigarettes to schoolchildren in the Thanamalwila area.
-
-It has been revealed that the suspect had provided these cigarettes of various flavors to a school student to sell to fellow students, Ada Derana reporter said.
-
-Investigations revealed that the suspect had supplied the illegal foreign cigarettes to the student, instructing to sell the cigarettes.  The cigarettes, purchased from the businessman at Rs. 100 per stick, were resold by the student at a price of Rs. 200 at the school premises, police said.
-
-After a student of the same school had informed the principal, the student selling the cigarettes was brought in and searched, where two foreign cigarettes were found in the student’s possession.
-
-...
-
-[Data](articles/950f182a.json)
-
-[Extended Data](ext_articles/950f182a.ext.json)
-
----
-
-### Baco Saman's wife further remanded
-
-*2025-09-18 14:10:02* · [`adalk`](https://www.ada.lk/breaking_news/බැකෝ-සමන්ගේ-බිරිඳ-යළි-රිමාන්ඩ්/11-418582) · `si`
-
-The wife of the Baco Saman, who was arrested in Indonesia and remanded, remanded until the 25th of the Money Laundering.
-
-Colombo Chief Magistrate Asanka S. Bodaragama has issued the order after considering the issues of the Criminal Investigation and the Commander's lawyers.
-
-◼️
-
-[Data](articles/347c0af5.json)
-
-[Extended Data](ext_articles/347c0af5.ext.json)
-
----
 
 ### Ambulaurses are in danger
 
@@ -233,28 +103,6 @@ Accordingly, traffic has been blocked from Kompanith Street via Chidambalam A Ga
 [Data](articles/135b9918.json)
 
 [Extended Data](ext_articles/135b9918.ext.json)
-
----
-
-### Elephant fleeing garbage on Dambulla, Dambulla, a white elephant
-
-*2025-09-18 13:30:35* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අලියෙක්-වී-ඇති-දඹුල්ලේ-කසළ-ව්‍යාපෘතියේ-කුණු-කන්න-වන-අලි-එයි/11-418578) · `si`
-
-The people of Dambulla polls that wildlife will eaten all the elephants of elephants in a large number of garbage to win the Award Damaged Temple Management Project.
-
-Cali collaps will be eradicated to the Government reserves and brought to the Government Reserve.
-
-The Dambulla Municipal Council was conducted by the Dambulla Municipal Council with continuous protests through the media.
-
-The production of organic fertilizer production has been successfully implemented in the name of hospital waste and polythefament, and the Pure Anna is the monitoring of many.
-
-Even the electricity vehicles operated by the elephants were named as a tourist zone. All construction garbage management in the aforesaid Clean Araka and the production of organic fertilizer is now being completely collected and all the garbage collected and brought to the Central and Reserve.
-
-...
-
-[Data](articles/00ea9317.json)
-
-[Extended Data](ext_articles/00ea9317.ext.json)
 
 ---
 
@@ -2021,5 +1869,157 @@ Following this submission, the Court of Appeal directed the Inspector General of
 [Data](articles/dc810eba.json)
 
 [Extended Data](ext_articles/dc810eba.ext.json)
+
+---
+
+### Alumex: Four decades of aluminium excellence, innovation and sustainability
+
+*2025-09-18 04:23:28* · [`dailyftlk`](https://www.ft.lk/business/Alumex-Four-decades-of-aluminium-excellence-innovation-and-sustainability/34-781849) · `en`
+
+For nearly 40 years, Alumex PLC has been a cornerstone of Sri Lanka’s aluminium industry. Established in 1988, the company has transformed from a modest joint venture into the undisputed market leader and a growing regional player. Its journey has been marked by resilience, innovation, and a relentless focus on quality and sustainability. Today, Alumex is not only Sri Lanka’s leading aluminium extruder but also a trusted solutions provider and training hub, committed to empowering customers and strengthening the technical workforce.
+
+In an exclusive interview, Alumex PLC’s Managing Director Pramuk Dediwela reflects on the company’s legacy, its contribution to the nation, and the path ahead.
+
+Q: Alumex has grown to become the market leader in the Aluminium industry in Sri Lanka. Could you take us through its journey from the start upto today?
+
+...
+
+[Data](articles/fc519dc8.json)
+
+[Extended Data](ext_articles/fc519dc8.ext.json)
+
+---
+
+### Delmege celebrates 175 years of innovation, trust, and service to nation
+
+*2025-09-18 03:57:30* · [`dailyftlk`](https://www.ft.lk/business/Delmege-celebrates-175-years-of-innovation-trust-and-service-to-nation/34-781848) · `en`
+
+From left: Delmege Forsyth Director Amrith Adhihetty, Vallibel One MD Dinusha Bhaskaran, and Delmege Group CFO Pubudu De Alwis
+
+Delmege, one of Sri Lanka’s most enduring and diversified conglomerates marks its 175th year in business. Since its founding in 1850, Delmege has grown from its trading roots into a multi-sector powerhouse, delivering trusted and meaningful products and services that touch almost every aspect of daily life.
+
+From consumer goods to interiors, healthcare to shipping, insurance to travel, Delmege has become synonymous with resilience, innovation, and quality service across generations.
+
+Maintaining an entrepreneurial thrust, the company has ventured into representing many reputable global brands along with its own, ever increasing Delmege brands and a slew of wide-ranging services.
+
+...
+
+[Data](articles/ef8f1b47.json)
+
+[Extended Data](ext_articles/ef8f1b47.ext.json)
+
+---
+
+### IFPRI and ICAR convene South Asia Dialogue on food policy
+
+*2025-09-18 03:53:54* · [`dailyftlk`](https://www.ft.lk/news/IFPRI-and-ICAR-convene-South-Asia-Dialogue-on-food-policy/56-781847) · `en`
+
+Economic Advisory Council to the Prime Minister of India Chairman Prof. Mahendra Dev
+
+Food systems lie at the heart of sustainable development. They influence how people produce, access, and consume food and are intricately tied to livelihoods, public health, natural ecosystems, and economic growth. For South Asia, where a large share of the population remains dependent on agriculture and food-related services, strengthening food systems is both a developmental and strategic priority.
+
+Against this backdrop, the International Food Policy Research Institute (IFPRI), in partnership with the Indian Council of Agricultural Research (ICAR), convened a high-level regional policy dialogue, “Food Policy for a Changing World: Lessons and Priorities for South Asia,” on 16 September, in New Delhi. The event also marked the South Asia launch of IFPRI’s 2025 Global Food Policy Report (GFPR).
+
+...
+
+[Data](articles/a657f791.json)
+
+[Extended Data](ext_articles/a657f791.ext.json)
+
+---
+
+### Sri Lanka ratifies UN high seas biodiversity pact
+
+*2025-09-18 03:49:53* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-ratifies-UN-high-seas-biodiversity-pact/56-781846) · `en`
+
+Has opportunity to benefit from marine resources beyond national jurisdiction
+
+The Foreign Affairs Ministry said yesterday that Sri Lanka deposited its Instrument of Ratification for the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) with the United Nations on Tuesday formally becoming a State Party to the convention. The ratification of the BBNJ Agreement marks another milestone in Sri Lanka’s continued legacy of leadership in ocean governance, the Ministry said.
+
+Sri Lanka has played an instrumental role in international maritime governance, most notably through its leadership in the development of the 1982 United Nations Convention on the Law of the Sea (UNCLOS).
+
+Sri Lanka actively engaged in the negotiation of the BBNJ Agreement since inception of discussions.
+
+...
+
+[Data](articles/43f18131.json)
+
+[Extended Data](ext_articles/43f18131.ext.json)
+
+---
+
+### Sri Lanka with EU and UNICEF launch model service for child victims of violence
+
+*2025-09-18 03:48:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-with-EU-and-UNICEF-launch-model-service-for-child-victims-of-violence/56-781845) · `en`
+
+Milestone initiative marks a turning point in protecting child victims who come in contact with the law and protection systems
+
+The Justice and National Integration Ministry and the Women and Child Affairs Ministry, with support from the EU through the United Nations Children's Fund (UNICEF), yesterday launched a groundbreaking initiative to support children who have experienced violence.
+
+The new model service will ensure fast, child-sensitive support to child victims of violence; from the point when the case is reported to police, helplines or others, until the child is linked with sustained care and protection mechanisms.
+
+...
+
+[Data](articles/45b61f7e.json)
+
+[Extended Data](ext_articles/45b61f7e.ext.json)
+
+---
+
+### SL deepens trade ties in Sichuan
+
+*2025-09-18 03:47:26* · [`dailyftlk`](https://www.ft.lk/news/SL-deepens-trade-ties-in-Sichuan/56-781844) · `en`
+
+Deputy Minister’s visit opens new doors for trade and investment
+
+Sri Lanka is stepping up efforts to carve a stronger foothold in the Chinese market, with Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe completing a four-day official visit to Sichuan Province focused on boosting trade, investment, and forging foreign direct institutional partnerships.
+
+He was invited by the China Council for the Promotion of International Trade (CCPIT).
+
+During his visit, the Deputy Minister addressed the South Asia & Southeast Asia Business Development Cooperation Conference and delivered a keynote presentation at the Sri Lanka Economic and Trade Matchmaking Conference – a high-level State-business dialogue. His remarks highlighted Sri Lanka’s potential as an investment destination and emphasised opportunities for strengthening trade partnerships.
+
+...
+
+[Data](articles/c9325f54.json)
+
+[Extended Data](ext_articles/c9325f54.ext.json)
+
+---
+
+### Focus Brands’ Ray Evans joins Hela Apparel Holdings Board
+
+*2025-09-18 03:22:59* · [`dailyftlk`](https://www.ft.lk/news/Focus-Brands-Ray-Evans-joins-Hela-Apparel-Holdings-Board/56-781833) · `en`
+
+Hela Apparel Holdings PLC has appointed UK’s Focus Brands Ltd. CEO Ray Evans to its Board as Executive Director.
+
+The appointment was made on the resignation of Non-Executive Director Dr. Alastair James Alderton.
+
+The company said that Evans’ appointment was part of an initiative aimed at strengthening the integration between the Private Label Manufacturing Division (PLMD) and the Brand Licensing Division (BLD) of the group.
+
+Specialising in performance clothing and brand licensing, Evans has over 30 years’ experience in sourcing sports apparel and building brands to drive market growth and revenues.
+
+Leveraging his entrepreneurial capabilities, negotiation skills and ability to influence international stakeholders, he has built ventures that have enabled the successful licensing of sports and performance clothing brands to production locations worldwide.
+
+...
+
+[Data](articles/669d81b2.json)
+
+[Extended Data](ext_articles/669d81b2.ext.json)
+
+---
+
+### Phoenix products feature at Saudi INDEX Expo – 2025 in Riyadh
+
+*2025-09-18 03:20:15* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-products-feature-at-Saudi-INDEX-Expo-2025-in-Riyadh/34-781832) · `en`
+
+Sri Lanka’s reputed Phoenix company products were featured at the INDEX Saudi Arabia Expo 2025 held from 09 to 11 September 2025 at Front Exhibition and Conference Centre in Riyadh. Ambassador of Sri Lanka to the Kingdom of Saudi Arabia, Ameer Ajwad officially opened the Phoenix pavilion at the Expo. During the occasion, Ambassador pointed out that such international trade fairs provide valuable opportunities for Sri Lankan companies to showcase their export products at the global stage and encouraged Sri Lankan enterprises to actively leverage such platforms and build strong business partnerships.
+
+INDEX Saudi Arabia is the Kingdom’s annual leading interior design and fit-out trade event, bringing together global and regional brands to present the latest innovations and trends shaping Saudi Arabia’s thriving design sector. The exhibition serves as a gateway for connecting with thousands of active buyers and decision-makers.
+
+...
+
+[Data](articles/f79dd8f2.json)
+
+[Extended Data](ext_articles/f79dd8f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 22:21:46**
+As of **2025-09-18 22:10:27**
 
 ## Newspaper Stats
 
-*Scraped **76,804** Articles*
+*Scraped **76,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,470
+adalk | 7,469
 adaderanalk | 9,912
-tamilmirrorlk | 11,541
+tamilmirrorlk | 11,538
 virakesarilk | 12,490
 adaderanasinhalalk | 13,398
 
@@ -26,123 +26,49 @@ adaderanasinhalalk | 13,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,857 (97.5%) of 76,804 articles have been extended.
+74,834 (97.4%) of 76,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### இலங்கைக்கெதிராக 169 ஓட்டங்களைப் பெற்ற ஆப்கானிஸ்தான்
-
-*2025-09-18 21:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கைக்கெதிராக-169-ஓட்டங்களைப்-பெற்ற-ஆப்கானிஸ்தான்/44-364878) · `ta`
-
-ஆசியக் கிண்ணத் தொடரில், ஐக்கிய அரபு அமீரகத்தின் அபு தாபியில் நடைபெற்று வரும் இலங்கைக்கெதிரான போட்டியில் முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் 20 ஓவர்களில் 8 விக்கெட்டுகளை இழந்து 169 ஓட்டங்களைப் பெற்றுள்ளது.
-
-நுவான் துஷார (4), துஷ்மந்த சமீர, தசுன் ஷானக, டுனித் வெல்லலாகே ஆகியோரிடம் விக்கெட்டுகளைப் பறிகொடுத்து 17.1 ஓவர்களில் 7 விக்கெட்டுகளை இழந்து 114 ஓட்டங்களைப் பெற்றிருந்த ஆப்கானிஸ்தான், வெல்லலாகே வீசிய இறுதி ஓவரில் மொஹமட் நபியால் பெறப்பட்ட 5 ஆறு ஓட்டங்கள் உள்ளடங்கலாக அவர் பெற்ற 60 (22) ஓட்டங்கள் காரணமாக 20 ஓவர்களில் 8 விக்கெட்டுகளை இழந்து 169 ஓட்டங்களைப் பெற்றது.
-
-◼️
-
-[Data](articles/dce45d32.json)
-
----
-
-### Asian Bowl Cricket Tournament: Sri Lanka's target of 170 runs
+### ஆசிய கிண்ண கிரிக்கெட் போட்டி : இலங்கை அணிக்கு வெற்றி இலக்காக 170 ஓட்டங்கள் நிர்ணயம்
 
 *2025-09-18 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225460) · `ta`
 
-The Asian Cup Cricket between Sri Lanka and Afghanistan is currently underway.
+இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான ஆசிய கிண்ண கிரிக்கெட் இருபதுக்கு 20 போட்டி தற்போது நடைபெற்று வருகிறது.
 
 ◼️
 
 [Data](articles/74bb9db9.json)
 
-[Extended Data](ext_articles/74bb9db9.ext.json)
-
 ---
 
-### Sri Lanka a target of 170 runs
+### ශ්‍රී ලංකාවට ලකුණු 170ක ඉලක්කයක්
 
 *2025-09-18 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214732) · `si`
 
-The Afghanistan scored 169 runs for the loss of 7 wickets in the 20 overs.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා - ඇෆ්ගනිස්තාන තරගයේ පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී ලකුණු 169ක් රැස් කළේය.
 
-Accordingly, the Sri Lankan squad was a 170 run target.
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමට ලකුණු 170ක ජයග්‍රාහී ඉලක්කක් හිමිවිය.
 
-Afghanistan Leader Razed decided to bat first, winning the coin.
+මෙම තරගයේ කාසියේ වාසිය දිනූ ඇෆ්ගනිස්තාන නායක රශිඩ් ඛාන් පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
 
-However, Nuwan Thushara was unable to find a consolation in the face of aggressive bowling.
+කෙසේ නමුත් නුවන් තුෂාරගේ ආක්‍රමණශීලි පන්දු යැවීම හමුවේ සැනසිලිදායක ආරම්භයක් ලබාගැනීමට නොහැකි විය.
 
-They were able to collect 43 runs in Powerplast.
+පවර්ප්ලේ අවස්ථාවේ දී ඔවුන්ට රැස්කිරීමට හැකිවූයේ ලකුණු 43ක් පමණක් වූ අතර, එහිදී මුල්පෙළ පිතිකරුවන් තිදෙනාම දැවීගියේය.
 
-Nuwan Thushara, claimed to be sent to the wicket.
+මෙම කඩුලු ත්‍රිත්වයට හිමිකම් කියූ නුවන් තුෂාර, දෙදෙනෙකුම පන්දුව කඩුල්ල වෙත යොමුකර දවාගැනීමට සමත් විය.
 
-However, Mohamed Pubihabi scored 60 runs in the rise.
+කෙසේ නමුත් ඇෆ්ගනිස්තාන පසුපෙළ වර්ණවත් කළ මොහොමඩ් නබි ලකුණු 60ක් රැස්කිරීමට සමත් විය.
 
-The last of the faller borrow, he held five sixes against Velleala's.
+ඉන් අවසන් පන්දුවාරය යොමුකළ දුනිත් වෙල්ලාලගේට එරෙහිව ඔහු හයේ පහර 5ක් එල්ල කළේය.
 
-The Nabi of Nabi, which was built by 22 balls, contains six sixes and three fours.
+පන්දු 22කින් ගොඩනැගුණු නබිගේ ඉනිමෙහි හයේ පහර 6ක් හා හතරේ පහර 3ක් අන්තර්ගත විය.
 
 ◼️
 
 [Data](articles/e63f3b89.json)
-
-[Extended Data](ext_articles/e63f3b89.ext.json)
-
----
-
-### நடிகர் ரோபோ சங்கர் காலமானார்
-
-*2025-09-18 21:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரோபோ-சங்கர்-காலமானார்/54-364877) · `ta`
-
-பிரபல நடிகர் நடிகர் ரோபோ சங்கர் சிகிச்சை பலனின்றி உயிரிழந்ததாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-ரோபோ சங்கர் (46) நேற்று முன்தினம் மதியம் ஒரு படப்பிடிப்பில் பங்கேற்றார். அப்போது திடீரென அவருக்கு மயக்கம் ஏற்பட்டது.
-
-இதையடுத்து அவரை படக்குழுவினர் சென்னை துரைப்பாக்கத்தில் உள்ள தனியார் மருத்துவமனையில் சிகிச்சைக்காக அனுமதித்தனர்.
-
-ரோபோ சங்கரை பரிசோதித்த மருத்துவர்கள் நீர்சத்து குறைபாடு மற்றும் குறைந்த ரத்த அழுத்தம் காரணமாக மயக்கம் ஏற்பட்டுள்ளதாகவும் தொடர்ந்து சில தினங்கள் மருத்துவ சிகிச்சை பெற வேண்டும் என அறிவுறுத்தியதன் பேரில் ரோபோ சங்கர் மருத்துவ கண்காணிப்பில் இருந்து வந்தார்.
-
-இந்நிலையில், வெண்டிலேட்டர் உதவியுடன் சிகிச்சை பெற்று வந்த நடிகர் ரோபோ சங்கர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
-
-இவரது மறைவு குறித்து அறிந்து திரையுலகினர் அதிர்ச்சி அடைந்துள்ளனர். மேலும், இவரது மறைவுக்கு இரங்கல் தெரிவித்து வருகின்றனர்.
-
-...
-
-[Data](articles/485ee038.json)
-
----
-
-### திருட்டில் ஈடுபட்ட வெளிநாட்டவர்களுக்கு  வலை வீச்சு
-
-*2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
-
-வாதுவ பகுதியில் நிறுத்திவைக்கப்பட்டிருந்த பாரவூர்தியில் இருந்து ஒரு இலட்சம் ரூபாய் பணத்தை திருடிச் சென்ற இரண்டு வெளிநாட்டினர் குறித்து விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக வாதுவ பொலிஸார் தெரிவித்துள்ளனர்.
-
-குறித்த பணத்தை அதிக பணமாக மாற்றித் தருவதாக கூறி நூதன முறையில் பணத்தை திருடியுள்ளனர்.
-
-குறித்த சம்பவம் தொட்பாக பாரவூர்தியின் சாரதி பொலிஸ் நிலையத்தில் முறைப்பாடளித்துள்ளதாக தெரிவிக்கப்படுகின்றது.  R
-
-◼️
-
-[Data](articles/7e95a7de.json)
-
----
-
-### සැකකරුවෙක් සමග දුම්වැටි හුවමාරුවක් කළ සැරයන් දෙදෙනෙකුගේ වැඩ තහනම්
-
-*2025-09-18 21:10:32* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙක්-සමග-දුම්වැටි-හුවමාරුවක්-කළ-සැරයන්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-418592) · `si`
-
-තිහගොඩ පොලිස් ස්ථානයේ සිර මැදිරියේ රදවා සීටි සැකකරුවකුට දුම්වැටියක් දීම හා එම සැකකරුගෙන් දුම්වැටියක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් එම පොලිස් ස්ථානයේ සැරයන්වරුන් දෙදෙනෙකුගේ වැඩ තහනම් කල බව මාතර පොලිස් අධිකාරී කාර්යාලය පවසයි.
-
-ඒ පිළිබඳව මාතර ජේෂ්ඨ පොලීස් අධිකාරී ජයමීණි වසන්ත කුමාර මහතාට ලද තොරතුරකට අනුව මාතර සහකාර පොලිස් අධිකාරී චන්දන විජේසේකර මහතා විසින් අදාල පොලිස් ස්ථානයේ සිර මැදිරිය අසල සී.සී.ටී.වී කැමරා දර්ශන පරික්ෂා කර බලා මෙම වැඩ තහනම් කිරීම සිදු කර තිබේ.
-
-පුද්ගලයෙකුට පහර දී තුවාල සිදු කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැක පිට සැකකරුවකු අත්අඩංගුවට ගෙන සිර මැදිරිය තුල රදවා තබා ගෙන සීට ඇති අතර ඔහු බැලීමට පැමිණි අයෙකු රාත්‍රී උප සේවා රාජකාරියේ නිරතව සිටි සැරයන්වරයාට දුම්වැටි දෙකක් සැකකරුට දීම සදහා ලබා දී තිබෙන බව කියති.
-
-ඒ අනුව අදාල සැරයන්වරයා එම දුම්වැටි දෙක සිර මැදිරියේ සිටි සැකකරුට ලබා දී ඇති අතර ඉන් එකක් සැකකරු නැවත සැරයන්වරයාට ලබා දෙන අයුරු සී.සී.ටී.වී දර්ශන වල පටිගත වී තිබෙන බව දැන ගන්නට ඇත.
-
-...
-
-[Data](articles/7eff149b.json)
 
 ---
 
@@ -2085,5 +2011,85 @@ The business station was later seized by the Tanamalwila Inspector of Tanamalwil
 [Data](articles/0b2666ec.json)
 
 [Extended Data](ext_articles/0b2666ec.ext.json)
+
+---
+
+### Backo Saman's wife further remanded
+
+*2025-09-18 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214704) · `si`
+
+The wife of Shakka Lakshmani, his wife, was remanded until the 25th of the Money Laundering Act.
+
+◼️
+
+[Data](articles/408468b8.json)
+
+[Extended Data](ext_articles/408468b8.ext.json)
+
+---
+
+### Gun in the lawyer's car
+
+*2025-09-18 11:30:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணியின்-காரில்-துப்பாக்கி/175-364837) · `ta`
+
+Valasmulla police said that a gun was found from a car of a lawyer who was parked on the court premises, Walasmulla.
+
+The gun has been found from the lawyer's car, on behalf of the suspect in connection with the recovery of a land in the Mitteniya Talawa area.
+
+After submitting a report to the Valasmulla court on the incident, the lawyer told the court that it was a rifle.
+
+After going to the Walasmulla police station, Valasmulla court magistrate Malba Kodithuwa has ordered the release of the gun.
+
+◼️
+
+[Data](articles/d2e41118.json)
+
+[Extended Data](ext_articles/d2e41118.ext.json)
+
+---
+
+### Rs.
+
+*2025-09-18 11:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாழ்க்கையையே-புரட்டிய-ரூ-2-000-மனைவியின்-அந்தரங்க-உறுப்பை-Zoom-செய்த-அசிங்கம்/175-364836) · `ta`
+
+Nagendra and Akila followed their dreams. Nagendra, a young man from Telangana, fell in love with Akila for many years.
+
+They were married on October 28, despite the fierce opposition of relatives. It was just six months before the wedding. Nagendra settled in his hometown of Visakhapatnam and engaged in fishing.
+
+The life of the sea sand with Akila gave them a new hope.
+
+The severe economic crisis hit them. The fishing industry was affected due to sea oscillations. To compensate for household expenses, Nagendra installed a loan app on his phone. He thought it would be enough for just 2000 rupees.
+
+He turned it back with interest. But, that 2000 rupees destroyed their lives.. Even then, the agents of the credit company followed Nagendra.
+
+They scolded him and insulted him. At the peak, Akila's photos in their hands - it was the personal memories of the couple - they edited pornography. They zoiled the inner parts, created poisonous images and spread it on social networks.
+
+...
+
+[Data](articles/0d8176a8.json)
+
+[Extended Data](ext_articles/0d8176a8.ext.json)
+
+---
+
+### Restrictions imposed on entry to BIA Departure Lobby amended
+
+*2025-09-18 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112642/restrictions-imposed-on-entry-to-bia-departure-lobby-amended) · `en`
+
+Restrictions imposed to enter the Departure Lobby of the Bandaranaike International Airport (BIA) have been amended.
+
+Last month, the Airport and Aviation Services (Sri Lanka) (Private) Limited announced that visitor entry tickets to the Departure Lobby of the BIA will not be issued during peak hours of Thursdays, Fridays and Saturdays.
+
+Accordingly, entry to the lobby was not permitted for visitors from 10:00 p.m. to midnight on Thursdays, Fridays and Saturdays.
+
+However, the Airport and Aviation Services (Sri Lanka) (Private) Limited said the restrictions will now be applicable only on Thursday and Saturdays.
+
+The company noted that the decision was taken in order to manage the congestion at the airport and to enhance the experience of travelers.
+
+◼️
+
+[Data](articles/f6d1bf23.json)
+
+[Extended Data](ext_articles/f6d1bf23.ext.json)
 
 ---

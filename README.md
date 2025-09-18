@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 10:08:57**
+As of **2025-09-18 10:38:00**
 
 ## Newspaper Stats
 
-*Scraped **76,667** Articles*
+*Scraped **76,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,132 @@ islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,447
-adaderanalk | 9,893
-tamilmirrorlk | 11,500
-virakesarilk | 12,476
-adaderanasinhalalk | 13,369
+adaderanalk | 9,895
+tamilmirrorlk | 11,504
+virakesarilk | 12,478
+adaderanasinhalalk | 13,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,179 (96.8%) of 76,667 articles have been extended.
+74,192 (96.8%) of 76,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
+
+### மண்டைதீவு மனிதப் புதைகுழி  வழக்கு ஒத்திவைப்பு
+
+*2025-09-18 10:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்டைதீவு-மனிதப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-364826) · `ta`
+
+◼️
+
+[Data](articles/205f86b3.json)
+
+---
+
+### ஆம்புலன்ஸ் விபத்து ; பீர் கேன்களை மீட்ட பொலிஸார்
+
+*2025-09-18 10:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆம்புலன்ஸ்-விபத்து-பீர்-கேன்களை-மீட்ட-பொலிஸார்/175-364825) · `ta`
+
+தெனியாய பிரதேசத்தில் இருந்து மாத்தறை நோக்கி,  இரண்டு நோயாளிகளை ஏற்றிச் சென்ற  ஆம்புலன்ஸ் , ​​விபத்துக்குள்ளான நிலையில் அதிலிருந்து இரண்டு பீர் கேன்கள் கண்டுபிடிக்கப்பட்டதாக மொரவக்க பொலிஸார் தெரிவிக்கின்றனர்.
+
+தெனியாய அடிப்படை வைத்தியசாலைக்கு சொந்தமான குறித்த ஆம்புலன்ஸ் மாத்தறை பொது மருத்துவமனைக்கு நோயாளிகளை ஏற்றிச் சென்ற போது  மொரவக்க அது எல பகுதியில் வைத்து வீதியை விட்டு விலகி  ஒரு வீட்டின் நுழைவாயிலில் மோதியுள்ளது.
+
+விபத்து இடம்பெற்ற நேரத்தில் ஆம்புலன்ஸ் ஓட்டுநர் அங்கிருந்து தப்பிச் சென்றுள்ளதுடன் பின்னர் பொலிஸில் சரணடைந்த நிலையில் அவர் விபத்தின் போது குடிபோதையில் இருந்தாரா என்பது தொடர்பான விசாரணைக்காக மாத்தறை பொது  வைத்தியசாலையின் தடயவியல் வைத்தியரிடம் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/413417db.json)
+
+---
+
+### Friend attacked a bottle and murdered
+
+*2025-09-18 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214699) · `si`
+
+A body has been found in a stream in Sandungagathi Mawathagama, Tissamaharama police division.
+
+Initiatives, investigations have commenced on information to the Tissamaharama Police Station yesterday (17).
+
+Investigations have revealed that the victim was attacked by a bottle on a white and a personal dispute.
+
+Tissamaharama Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fa29bbb0.json)
+
+[Extended Data](ext_articles/fa29bbb0.ext.json)
+
+---
+
+### வடக்கு கடலில் 33 கிலோ கிராம் ஈரமான கேரள கஞ்சா சிக்கியது
+
+*2025-09-18 10:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கடலில்-33-கிலோ-கிராம்-ஈரமான-கேரள-கஞ்சா-சிக்கியது/175-364824) · `ta`
+
+யாழ்ப்பாணத்தின் மாமுனை கடல் பகுதிகளில்  இலங்கை கடற்படை நடத்திய சிறப்பு தேடுதல் நடவடிக்கைகளின் போது, முப்பத்து மூன்று (33)  கிலோகிராமை விட அதிகமான (ஈரமான எடை) கேரள கஞ்சாவினை கடற்படையினர் கைப்பற்றினர்.
+
+அதன்படி, வடக்கு கடற்படை கட்டளைக்கு சொந்தமான வெத்தலகேணி கடற்படை நிலையத்தால் மாமுனை கடல் பகுதியில் நடத்தப்பட்ட சோதனை நடவடிக்கையின் போது, குறிப்பிட்ட கடல் பகுதிகளில் மிதந்து கொண்டிருந்த ஒரு (01) சந்தேகத்திற்கிடமான பையானது பரிசோதிக்கப்பட்டது, மேலும் பையில் பொதிச்செய்யப்பட்டிருந்த முப்பத்து மூன்று (33)  கிலோகிராமை விட அதிகமான கேரள கஞ்சா கடற்படையினரால் 2025 செப்டம்பர் 05 ஆம் திகதி கைப்பற்றப்பட்டது.
+
+கடற்படையால் கைப்பற்றப்பட்ட கேரள கஞ்சாவின் மொத்த  மதிப்பு ஏழு (07) மில்லியன் ரூபாய்க்கு மேல் இருக்கும் என்று நம்பப்படுகிறதுடன்,மேலும் கடற்படையின் நடவடிக்கைகளின் போது கரைக்கு கொண்டு வர முடியாமல் கடத்தல்காரர்களால் கடலில் கைவிடப்பட்டதாக சந்தேகிக்கப்படுகிறது.
+
+மேலும், கடற்படையினரால் கைப்பற்றப்பட்ட கேரள கஞ்சா தொகை மேலதிக சட்ட நடவடிக்கைகளுக்காக மருதங்கேணி பொலிஸ் நிலையத்திடமும் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/70a19679.json)
+
+---
+
+### Sri Lanka passport decline in world rankings!
+
+*2025-09-18 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225383) · `ta`
+
+According to global rankings, Sri Lanka's passport fell by 2025.
+
+Henley Passport for 2025 released on September 11th; According to the index, Sri Lanka ranks 97th.
+
+In 2024, Sri Lanka was ranked 96th in the passport code.
+
+Along with Sri Lanka, Iran is ranked 97th in this code.
+
+The Henley passport code evaluates passports around the world based on places that can enter without a pre -visa.
+
+At the same time, South Korea and Japan are in the second and third places respectively.
+
+◼️
+
+[Data](articles/fcdfb505.json)
+
+[Extended Data](ext_articles/fcdfb505.ext.json)
+
+---
+
+### Public consultation on electricity tariff revision begins today!
+
+*2025-09-18 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225382) · `ta`
+
+The Public Advisory Sessions on the Proposed Electricity Tax Correction will commence today (18).
+
+The Ceylon Electricity Board (CEB) has proposed a 6.8 per cent increase in electricity tariffs for the last quarter of 2025, the Sri Lanka Public Utilities Commission said.
+
+Accordingly, the Public Utilities Commission of Sri Lanka has decided to get the public's opinion on the amendments proposed.
+
+The Commission also said that the public can submit their comments and recommendations to the Commission in writing.
+
+It is reported that the Public Utilities Commission will conduct nine general advice, including nine provinces to obtain verbal ideas.
+
+It has been further stated that the written comments and recommendations on the Public Advice on the Third Electricity Toll Amendment of 2025 can be submitted before the 7th of October.
+
+◼️
+
+[Data](articles/2db927f6.json)
+
+[Extended Data](ext_articles/2db927f6.ext.json)
+
+---
 
 ### This is what you read, this is what I read
 
@@ -45,6 +157,26 @@ Adam Smith's economic principles are elaborated in his main book "The Wealth of 
 [Data](articles/bcf9515b.json)
 
 [Extended Data](ext_articles/bcf9515b.ext.json)
+
+---
+
+### Five people at risk of dying daily due to chronic kidney disease in Sri Lanka
+
+*2025-09-18 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112636/five-people-at-risk-of-dying-daily-due-to-chronic-kidney-disease-in-sri-lanka) · `en`
+
+Approximately five individuals in Sri Lanka are at risk of dying daily due to chronic kidney disease (CKD), the National Unit for Kidney Disease Prevention and Research (NRDPRU) states.
+
+Consultant Community Physician Dr. Chintha Gunaratne, the Director of the Unit revealed that over 1,600 people in the country died from chronic kidney-related conditions in the year 2023.
+
+She made these remarks while speaking at a media briefing organized by the Health Promotion Bureau on kidney-related diseases.
+
+Dr. Gunaratne further emphasized that since symptoms of kidney disease often appear at a later stage, it is essential for individuals with non-communicable diseases (NCDs) to undergo regular kidney screenings.
+
+◼️
+
+[Data](articles/70d56c8e.json)
+
+[Extended Data](ext_articles/70d56c8e.ext.json)
 
 ---
 
@@ -130,6 +262,28 @@ In this regard, the Valikamam East Regional Development Committee meeting was he
 
 ---
 
+### Stalemate between Govt and electricity trade unions continues
+
+*2025-09-18 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112635/stalemate-between-govt-and-electricity-trade-unions-continues) · `en`
+
+Electricity trade unions have warned that they will further intensify their ongoing trade union actions if their demands continue to be ignored.
+
+Unions commenced a work-to-rule campaign on September 4, in protest against what they describe as the arbitrary restructuring of the Ceylon Electricity Board (CEB).
+
+As a further step in this campaign, union members launched a sick leave protest yesterday (17), according to reports.
+
+Accordingly, unions confirmed that the trade union action will continue for a second consecutive day today.
+
+However, if the authorities continue to disregard their demands, the trade union actions already underway will be escalated further, said Kosala Abeysinghe, the President of the Ceylon Electricity Board Technician’s Union.
+
+◼️
+
+[Data](articles/5527bb51.json)
+
+[Extended Data](ext_articles/5527bb51.ext.json)
+
+---
+
 ### Five kidney patients die daily
 
 *2025-09-18 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214698) · `si`
@@ -169,6 +323,16 @@ However, the Chairman of the Ceylon Electricity Board (Ceylon Electricity Board)
 [Data](articles/e62bd937.json)
 
 [Extended Data](ext_articles/e62bd937.ext.json)
+
+---
+
+### என்னாடா இவ்வளவு நாற்றம் மூக்க பிக்கிது
+
+*2025-09-18 08:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னாடா-இவ்வளவு-நாற்றம்-மூக்க-பிக்கிது/62-364817) · `ta`
+
+◼️
+
+[Data](articles/3d8ffef7.json)
 
 ---
 
@@ -362,25 +526,27 @@ Police have warned the public to avoid bathing in the sea when heavy waves are f
 
 ---
 
-### “ක්ලීන් ශ්‍රී ලංකා” නාගරික වනාන්තර ව්‍යාපෘතියේ දෙවන අදියර තොටළඟින් ඇරඹේ
+### The second phase of the "Clene Sri Lanka" begins the Thalattle
 
 *2025-09-18 07:35:41* · [`adalk`](https://www.ada.lk/breaking_news/“ක්ලීන්-ශ්‍රී-ලංකා”-නාගරික-වනාන්තර-ව්‍යාපෘතියේ-දෙවන-අදියර-තොටළඟින්-ඇරඹේ/11-418568) · `si`
 
-“ක්ලීන් ශ්‍රී ලංකා” වැඩසටහන යටතේ නාගරික වනාන්තර ඇති කිරීමේ ව්‍යාපෘතියේ දෙවන අදියර තොටළඟ සිරිමාවේ බණ්ඩාරනායක මාවත, බස් නැවතුම්පොළ අසලදී පෙරවරුවේ ආරම්භ කෙරිණි.
+The second phase of the Urban Forest in the Urban Forests under the "Clene Sri Lanka" program was launched near the bus stand.
 
-ඒ අනුව තොටළඟ කොළඹ මහ නගර සභාවට අයත් භූමියෙහි පැළ රෝපණය කරමින් එය ආරක්ෂණීය නාගරික වන වගා භූමියක් ලෙස සංවර්ධනය කර ඇත.
+Accordingly, it has been developed as a security urban forest plantation planting plants belonging to the Thotalawiya Colombo Municipal Council.
 
-පාරිසරික වටිනාකමකින් යුත් මෙම පැළ ආරක්ෂා කර රැකබලා ගැනීමේ කැපකරුවන් ලෙස මාදම්පිටිය ශ්‍රී සංඝබෝධී මහා විද්‍යාලයේ පාසල් සිසු සිසුවියන් වෙත වගකීම් පැවරීම මෙහි විශේෂත්වයකි.
+The specialty is to assign the responsibilities of the school students of Madampitiya Sri Sangavila Maha Vidyalaya as the devotees of environmental value.
 
-එම අවස්ථාව සනිටුහන් කරමින් පාසල් සිසු සිසුවියන් වෙත ත්‍යාග සහ සහතික පත් ප්‍රදානය කිරීමද සිදු කෙරිණි.
+Prizes and certificates were presented to school children.
 
-සීමාසහිත කැපටල් මහාරාජ සමූහ ව්‍යාපාරයට අයත් එස්-ලෝන් ලංකා පුද්ගලික සමාගම විසින් ක්‍රියාත්මක කරනු ලබන “තුරු කැපකරු” වැඩසටහන සහ ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය ඒකාබද්ධ වෙමින් ජනාධිපති කාර්යාලයේ මගපෙන්වීම යටතේ මාර්ග සංවර්ධන අධිකාරිය, නාගරික සංවර්ධන අධිකාරිය සහ කොළඹ මහ නගර සභාව
+Road Development Authority, Urban Development Authority and the Colombo Municipal Council under the guidance of the Foster 'Program and Clene Sri Lanka' projects in the Cuttel Maharaja Group.
 
-ඇතුළු රාජ්‍ය සහ පෞද්ගලික අංශවල දායකත්වයෙන් මෙම ව්‍යාපෘතිය සිදු කෙරේ.
+The project will be carried out with the contribution of public and private sectors.
 
 ◼️
 
 [Data](articles/a95ff400.json)
+
+[Extended Data](ext_articles/a95ff400.ext.json)
 
 ---
 
@@ -432,7 +598,7 @@ Previously, in 2019, Sri Lanka successfully launched its first nano-satellite, �
 
 Accordingly, the BIRDS-X Dragonfly nano-satellite is scheduled to be released into its designated orbit from the International Space Station at 2:15 p.m. tomorrow.
 
-◼️
+...
 
 [Data](articles/6940e7da.json)
 
@@ -572,9 +738,11 @@ It will move from a royal spectacle to political talks and a news conference, as
 
 *2025-09-18 05:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112627/transport-minister-warns-underperforming-railway-officials-fix-it-or-resign) · `en`
 
-Minister of Transport Bimal Rathnayake has issued a stern warning to officials attached to the Railway Department, stating that those who fail to ensure the proper functioning and maintenance of railway services should be prepared to step down.
+Transport Minister warns underperforming railway officials: ‘Fix it or resign’
 
-Speaking at a discussion held at the Kalutara District Secretariat with Members of Parliament and transport sector officials, Minister Rathnayake criticized the poor condition of train compartments, highlighting issues such as broken windows, non-functional fans, and unsanitary washrooms, especially on key office trains such as those operating between Galle and Colombo.
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has issued a stern warning to officials attached to Sri Lanka Railways, stating that those who fail to ensure the proper functioning and maintenance of railway services should be prepared to step down.
+
+Speaking at a discussion held at the Kalutara District Secretariat with Members of Parliament and transport sector officials, Minister Rathnayake criticized the poor condition of train compartments, highlighting issues such as broken windows, non-functional fans and unsanitary washrooms, especially on key office trains such as those operating between Galle and Colombo.
 
 He also referenced a tragic incident where a young boy lost two fingers after falling against a faulty window during his first train ride.
 
@@ -1869,175 +2037,5 @@ In one instance, the government lost Rs.12 million because the GMSB only charged
 [Data](articles/769f34a2.json)
 
 [Extended Data](ext_articles/769f34a2.ext.json)
-
----
-
-### "2025 is the year that represents the special turning point"
-
-*2025-09-17 17:28:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-விசேட-திருப்புமுனையைக்-குறிக்கும்-ஆண்டாகும்/175-364788) · `ta`
-
-Sri Lanka today is becoming a strong economic foundation.  President Anura Kumara Dissanayake said 2025 was a significant turning point in all sectors of the country's economic, social and political development and the rule of law.
-
-The President said this while addressing the inauguration of the construction work of the Central Highway Project from Kadavatha to Meerigama.
-
-Accordingly, the construction work of the Kadawatha -Meerigama highway, which was halted due to the last economic crisis, has been resumed.. The construction work of the first 500 meters of the Kadavatha Transition and Highway Highway is newly launched. This 500 -meter highway will connect the central highway to the highway network. The amount allocated for the construction work of the area is 8.692 billion rupees.  Local funds are fully used for this.
-
-...
-
-[Data](articles/5efd7207.json)
-
-[Extended Data](ext_articles/5efd7207.ext.json)
-
----
-
-### Jeevan met Ravi Shankar Guruji
-
-*2025-09-17 17:21:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரவி-சங்கர்-குருஜியை-சந்தித்தார்-ஜீவன்/76-364786) · `ta`
-
-Jeevan Thondaman, a Member of Parliament and CWC general secretary who visited India, met Sri Ravi Shankar Guruji, the founder of the living arts organization on Wednesday (17).
-
-During the meeting in Bangalore, India, Jeevan Thondaman, who was inspired by the youth advancement programs initiated by Sri Ravi Shankar Guruji, the founder of the Art Organization of more than 100 countries around the world, said that Jeevan Thondaman, who did not discuss the youth power development projects in Sri Lanka. "
-
-Jeevan Thondaman said that I was grateful for the support given by Sri Ravi Shankar Guruji for these efforts and that he was proud to meet Guruji.
-
-◼️
-
-[Data](articles/edc64d9e.json)
-
-[Extended Data](ext_articles/edc64d9e.ext.json)
-
----
-
-### Natural full capacity to the national system
-
-*2025-09-17 17:20:37* · [`adalk`](https://www.ada.lk/breaking_news/සොබාදනවි-සම්පූර්ණ-ධාරිතාව-ජාතික-පද්ධතියට/11-418564) · `si`
-
-350 MW Amarawati at the Kerawalapitiya Sebraena Power Plant added to the national grid this afternoon. This will give 12 percent of the total electricity demand.
-
-◼️
-
-[Data](articles/3b713ff0.json)
-
-[Extended Data](ext_articles/3b713ff0.ext.json)
-
----
-
-### Kerawalapitiya ‘Sobadhanavi’ LNG Power Plant connected to the national grid
-
-*2025-09-17 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112616/kerawalapitiya-sobadhanavi-lng-power-plant-connected-to-the-national-grid-) · `en`
-
-The ‘Sobadhanavi’ 350 MW LNG Power Plant in Kerawalapitiya was connected to the national grid a short while ago.
-
-Prime Minister Dr. Harini Amarasuriya and Minister of Energy Eng. Kumara Jayakody ceremonially connected the plant to the national grid.
-
-The first phase of the LNG Power Plant was commissioned on August 28, 2024.
-
-◼️
-
-[Data](articles/0601aed6.json)
-
-[Extended Data](ext_articles/0601aed6.ext.json)
-
----
-
-### 'Sobravana' lng power plant to national grid
-
-*2025-09-17 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214683) · `si`
-
-"Sounds' Natural Diseased Gas (LNG) power plant was added to the national grid today (17).
-
-Prime Minister Dr. Haradhari Amarasuriya and Energy Minister Kumara Jayakody was held shortly before.
-
-Lakdanav Lakdana 350 MW is added to the national grid through the National Grid.
-
-All plans and construction of this plant are conducted by Sri Lankan engineers.
-
-◼️
-
-[Data](articles/a130690e.json)
-
-[Extended Data](ext_articles/a130690e.ext.json)
-
----
-
-### Dutch airline KLM cancels 100 flights amid ground staff strike
-
-*2025-09-17 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112615/dutch-airline-klm-cancels-100-flights-amid-ground-staff-strike) · `en`
-
-Around 100 flights were cancelled at Amsterdam’s Schiphol Airport on Wednesday after ground staff at Dutch airline KLM staged a walkout in a dispute over pay and working conditions.
-
-Both European and long-haul routes were affected, including services to Germany, Italy, Scandinavia, the United Kingdom, the United States, and South Africa.
-
-The strike follows a similar walkout last week and is part of a wider campaign led by the FNV union, which has warned of longer stoppages in the weeks ahead.
-
-◼️
-
-[Data](articles/6f105a57.json)
-
-[Extended Data](ext_articles/6f105a57.ext.json)
-
----
-
-### 500 lakhs of repairs of 150 houses for Mahinda's repair
-
-*2025-09-17 16:58:32* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-ගේ-අලුත්වැඩියාවට-ලක්ෂ 5000යි--නිවාස-150ක්-අලුත්වැඩියාවට-ලක්ෂ-1400යි/11-418563) · `si`
-
-Former President Mahinda Rajapaksa has spent over Rs.
-
-He was speaking at the occasion of reconstruction of the Eppawala Galwadagama road in Anuradhapura District.. The road will be repaired by the Road Development Authority and will be renovated at a short term of 3.5 km, 3.5 midnight, 3.5 midnight.
-
-"Politicians could be other officials, another group wanted to say that elite. The law does not apply to that group, that guys need pleasures, so there is a VIP's impoverished speech. VIP groups want a palace, not home, and the group governments need 100 -150 and the dogs.
-
-They want to spend the government from the government, they think the guy is a government's property. People's money should be able to live in to protect them, that's the elite of those guys. It is worth 150 schools in the Anuradhapura district to keep the elite, the public to keep the elite, to spend on top of the public.
-
-...
-
-[Data](articles/c30fb585.json)
-
-[Extended Data](ext_articles/c30fb585.ext.json)
-
----
-
-### COPE committee reveals billions of people lost by the government
-
-*2025-09-17 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214682) · `si`
-
-The Select Committee of the Committee (COPE) has revealed that the government has lost a lot of money due to the government's limitation due to the government half of the Geological Survey and Mines Bureau.
-
-How fair is to calculate the quality of the explosive amount of explosives issued for quotards? The COPE committee has been questioned.
-
-It is also also concerned about issues of issuing exploration licenses as well as disorders related to temptation and crumbles.
-
-Accordingly, the COPE committee has been informed to formulate a proper mechanism and amend the Act.
-
-Dr. Nishantha Samaraweera was the Chairman of the Committee to check on the Auditor General's records and current performance in the Geological Survey and the Mining Excue Bureau.
-
-◼️
-
-[Data](articles/09a09dd2.json)
-
-[Extended Data](ext_articles/09a09dd2.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields steady
-
-*2025-09-17 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-240902/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.96/302.00 to the US dollar on Wednesday, stronger from 302.07/17 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed flat at 9.55/60 percent.
-
-A bond maturing on 15.12.2032 closed at 10.40/49 percent, up from 10.38/45 percent.
-
-◼️
-
-[Data](articles/c066a143.json)
-
-[Extended Data](ext_articles/c066a143.ext.json)
 
 ---

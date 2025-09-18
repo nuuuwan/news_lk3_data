@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 00:15:16**
+As of **2025-09-19 01:05:59**
 
 ## Newspaper Stats
 
-*Scraped **76,808** Articles*
+*Scraped **76,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,110 @@ islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
 adalk | 7,470
-adaderanalk | 9,912
+adaderanalk | 9,914
 tamilmirrorlk | 11,543
-virakesarilk | 12,490
-adaderanasinhalalk | 13,400
+virakesarilk | 12,492
+adaderanasinhalalk | 13,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,931 (97.6%) of 76,808 articles have been extended.
+74,956 (97.6%) of 76,813 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2025-09-18 (Thursday)
+### 2025-09-19 (Friday)
 
-### බංග්ලාදේශයටත් පාර හදා දී ශ්‍රී ලංකාව අපරාජිතව සුපිරි වටයට
+### Duti Welelige's father passes away
 
-*2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
+*2025-09-19 00:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214735) · `si`
 
-අවශ්‍යම මොහොතේ ක්‍රියාත්මක වූ කුසල් මෙන්ඩිස්ගේ සුපිරි පිතිහරඹය හේතුවෙන් මෙවර ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයට අපරාජිතව සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+Dhamma Vellalage's dear father, Suranga Welleala, has passed away.
 
-'බී' කාණ්ඩයේ තරග අවසන් කරමින් අඩුබාබි හිදි අද (18) පැවති තීරණාත්මක තරගයෙන් ඇෆ්ගනිස්තාන කණ්ඩායම කඩුලු 6කින් පරාජය කර ඔවුන් මෙම අවස්ථාව හිමිකරගතේය.
+He had been completed by a heart attack, and the year-old was 54 years old.
 
-මෙහිදී ඇෆ්ගනිස්තාන කණ්ඩායමෙන් හිමි වූ ලකුණු 170ක ඉලක්කය කඩුලු 4ක් පමණක් දැවී තිබියදී පසුකර යාමට ශ්‍රී ලංකාව හැකිවිය.
+◼️
 
-එහිදී අනගි ඉනිමක් ක්‍රීඩාකළ ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් නොදැවී ලකුණු 74ක් රැස්කළේය.
+[Data](articles/7cd7768b.json)
 
-පන්දු 52කින් ගොඩනැගුණු කුසල්ගේ ඉනිමට හතරේ පහර 10ක් ඇතුළත් විය.
+[Extended Data](ext_articles/7cd7768b.ext.json)
 
-කුසල් මෙම අකීකරු ඉනිම ගොඩනැංවූයේ අසාර්ථක ඉනිම් කිහිපයක පසුවීම සුවිශේෂීය.
+---
 
-ඔහුට අමතරව කමිඳු මෙන්ඩිස් පන්දු 13කින් නොදැවී ලකුණු 26ක්ද, කුසල් පෙරේරා පන්දු 20කින් ලකුණු 28ක්ද රැස්කිරීමට සමත් විය.
+### ஆப்கானிஸ்தானை 6 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது இலங்கை அணி
 
-කෙසේ නමුත් ලකුණු 170ක ඉලක්කයක් හඹායමින් සිටි ශ්‍රී ලංකාව තරගයේ 13වන පන්දුවාරයේදී ලකුණු 101 සීමාව පසුකරයෑමත් සමග සුපිරි 4 වටයට පිවිසියේය.
+*2025-09-19 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225462) · `ta`
+
+2025 ஆசியக் கிண்ணப் போட்டியில் ரி20 போட்டியின் பி குழுவில் இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையேயான போட்டியில் இலங்கை அணி 6 விக்கெட்டுக்களால் வெற்றி பெற்றது.
+
+நாணய சுழட்சியில் வென்று முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 08 விக்கெட் இழப்புக்கு 169 ரன்கள் எடுத்தது.
+
+ரஹ்மானுல்லா குர்பாஸ் 14 ஓட்டங்கள், செடிகுல்லா அடல் 18 ஓட்டங்கள், இப்ராஹிம் ஜத்ரான் 24 ஓட்டங்கள், கரீம் ஜனத் ஒரு ஓட்டம், டார்விஷ் ரசூலி 09 ஓட்டங்கள், அஸ்மதுல்லா உமர்சாய் 06 ஓட்டங்கள், ஆப்கானிஸ்தான் அணிக்காக கெப்டன் ரஷித் கான் 24 ஓட்டங்கள் எடுத்தனர்.
+
+பந்துவீச்சில், இலங்கை அணிக்காக சிறப்பாக பந்துவீசிய நுவான் துஷாரா 4 விக்கெட்டுகளையும், துஷ்மந்த சமீர, துனித் வெல்லாலகே மற்றும் தாசுன் ஷனகா ஆகியோர் தலா ஒரு விக்கெட்டையும் வீழ்த்தினர்.
+
+பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை அணி 18.4 ஓவர்களில் 4 விக்கெட் இழந்து 171 ஓட்டங்களை பெற்று வெற்றி பெற்றது.
 
 ...
 
+[Data](articles/147cc9d2.json)
+
+---
+
+### Sri Lanka beat Afghanistan to qualify for Asia Cup 2025 Super 4s
+
+*2025-09-19 00:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112655/sri-lanka-beat-afghanistan-to-qualify-for-asia-cup-2025-super-4s) · `en`
+
+Sri Lanka beat Afghanistan by 6 wickets on Thursday, September 18, to qualify for the Super 4s of the ongoing Asia Cup 2025.
+
+In the Group B match played at Sheikh Zayed Stadium in Abu Dhabi, Sri Lanka rode on a half-century from Kusal Mendis (74) to chase down the target of 170 runs in 18.4 overs.
+
+Sri Lanka won all three matches played in Group B to finish as table toppers.
+
+Afghanistan finished third in the points table, and as a result, they are out of the tournament now.
+
+The Rashid Khan-led side needed a win on Thursday to pip Bangladesh and qualify for the Super 4s, but they failed to achieve the objective.
+
+Bangladesh is the second team from Group B to qualify for the Super 4s. The Litton Das-led side won two out of three Group B matches.
+
+In the first Super 4s match of Asia Cup 2025, Sri Lanka will now face Bangladesh in Dubai on Saturday, September 20.
+
+...
+
+[Data](articles/faaad8de.json)
+
+---
+
+### 2025-09-18 (Thursday)
+
+### Sri Lanka in terms of abuse of Bangladesh to Bangladesh
+
+*2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
+
+Sri Lanka were able to qualify for the Superior 4 of the Asian Cup Twenty20 cricket team due to the required point.
+
+The Afghan group defeats the Afghan team by 6 wickets in the decisive match of 'B' matches today.
+
+Sri Lanka was able to pass 4 wickets in the Afghanistan's target of 170 runs.
+
+Opener Kusal Mendis scored 74 not out.
+
+Kusal's innings in 52 balls included 10 fours.
+
+The kusal was unique in several unsuccessful inm.
+
+Between 26 off 13 balls, Kommith Mendis scored 26 runs off 13 balls.
+
+However, the Sri Lanka scored a target of 170 runs in the 13th overdrafts.
+
+With the defeat of Afghanistan, they left the tournament, and the Banglaida qualified for the Super 4.
+
+◼️
+
 [Data](articles/f0f31835.json)
+
+[Extended Data](ext_articles/f0f31835.ext.json)
 
 ---
 
@@ -111,6 +177,44 @@ However, less than 500 patients have been reported so far, but over 120 patients
 [Data](articles/955f4283.json)
 
 [Extended Data](ext_articles/955f4283.ext.json)
+
+---
+
+### Cambodian PM accuses Thai forces of evicting civilians on border
+
+*2025-09-18 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112654/cambodian-pm-accuses-thai-forces-of-evicting-civilians-on-border) · `en`
+
+Cambodia’s leader Hun Manet has accused Thailand of preventing more than 20 families from returning to their homes on the disputed border, according to his letter to the head of the UN released on Thursday (Sep 18).
+
+The Thai army said the Cambodian residents had “illegally occupied” Thai territory.
+
+The Southeast Asian neighbours agreed a truce in late July following five days of clashes that killed at least 43 people on both sides - the latest eruption of a long-standing dispute over contested border temples on their 800km frontier.
+
+On Wednesday, Thai forces fired rubber bullets and tear gas at several hundred Cambodian protesters during a stand-off in a disputed border village, a move that Phnom Penh said injured nearly 30 people, including a soldier and a Buddhist monk.
+
+...
+
+[Data](articles/6f99ae46.json)
+
+---
+
+### பிரபல நகைச்சுவை நடிகரும் சின்னத்திரை நடிகருமான ரோபோ சங்கர் சற்று முன் காலமானார்.
+
+*2025-09-18 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225461) · `ta`
+
+தனியார் தொலைக்காட்சியில் ஒளிப்பரப்பான நகைச்சுவை நிகழ்ச்சிகளில் பங்கேற்று பிரபலமானவர் நடிகர் ரோபோ சங்கர். இந்த நிகழ்ச்சிகளில் இவருக்கு கிடைத்த வரவேற்பை தொடர்ந்து தமிழ் சினிமாவில் நகைச்சுவை நடிகராக பிரபலமடைந்தார். இதில் முக்கியமாக தனுசுடன் மாரி, விஷாலுடன் இரும்பு திரை உள்ளிட்ட படங்கள் இவருக்கு நல்ல வரவேற்பை பெற்று தந்தது.
+
+ரோபோ சங்கர் 16ஆம் திகதி செவ்வாய்க்கிழமை மதியம் ஒரு படப்பிடிப்பில் பங்கேற்றார். அப்போது திடீரென அவருக்கு மயக்கம் ஏற்பட்டது. இதையடுத்து அவரை சென்னை துரைப்பாக்கத்தில் உள்ள தனியார் வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார்.
+
+ரோபோ சங்கரை பரிசோதித்த வைத்தியர்கள் நீர்சத்து குறைபாடு மற்றும் குறைந்த ரத்த அழுத்தம் காரணமாக மயக்கம் ஏற்பட்டுள்ளதாகவும் கூறினார்.
+
+17ஆம் திகதி புதன்கிழமை மாலை அவரது உடல்நிலை பின்னடைவை சந்தித்த நிலையில், அவரை வைத்தியர்கள் தீவிர சிகிச்சைப் பிரிவுக்கு மாற்றினர்.
+
+ரோபோ சங்கர் மஞ்சள் காமாலை நோயால் ஏற்கனவே பாதிக்கப்பட்டு இருந்த நிலையில், அவருக்கு கல்லீரல், சிறுநீரக பாதிப்பு ஏற்பட்டதாக கூறப்பட்டது.
+
+...
+
+[Data](articles/e6b097c3.json)
 
 ---
 
@@ -2017,97 +2121,5 @@ But when he met Rubio in Washington on July 25, Ihak Tar said that Rubio replied
 [Data](articles/b65093b3.json)
 
 [Extended Data](ext_articles/b65093b3.ext.json)
-
----
-
-### Bail
-
-*2025-09-18 12:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துசிதவுக்கு-பிணை/175-364841) · `ta`
-
-Former Director of the National Lotter Board, Dusitha Halluluwa has been released on bail. The order was issued by the Colombo Magistrate's Court on Thursday (18).
-
-Dusitha Halluluwa, the former Director of the National Lotter Board, was arrested on suspicion of firing at the Narahenpitti area on his passenger vehicle.
-
-In this case, the Colombo Criminal Investigation Division (CID) was arrested on August 19 by the Colombo Criminal Investigation Division in connection with the shooting incident.
-
-◼️
-
-[Data](articles/d9b8751c.json)
-
-[Extended Data](ext_articles/d9b8751c.ext.json)
-
----
-
-### Four people arrested with fake currency notes of 5 thousand rupees
-
-*2025-09-18 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225391) · `ta`
-
-Four suspects have been arrested with a number of laptops, computers and other equipment used to print 145 fake 5 thousand rupee currency notes and them in a raid conducted by the Habarana police this morning (18).
-
-The Habarana police have arrested other suspects involved in the fraud on the basis of information received from the main suspect in the circulation of 5 thousand rupees in the Habarana area.
-
-Preliminary inquiries have revealed that the suspects had printed fake currency notes in the Madawachiya area and had come to the Habarana area and that the fraud had been going on for a long time.
-
-Police said the suspects were between the ages of 20 and 30 and were residing in Madhavachiya.
-
-On the instructions of Palitha Ilangasekara, the officer in charge of the Habarana Police Station, a team of police officers led by police officer Wimal Siriwardena have arrested the suspects along with fake currencies.
-
-◼️
-
-[Data](articles/9cedae73.json)
-
-[Extended Data](ext_articles/9cedae73.ext.json)
-
----
-
-### Backo Saman's wife
-
-*2025-09-18 12:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கோ-சமன்-னின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-364840) · `ta`
-
-Shadika Lakshani, wife of Backo Samanam, who was kept in detention under the Prevention of Cash Act, has been extended till September 25. He, Colombo Chief Magistrate. He was produced in the presence of Bodaragama on Thursday (18). Meanwhile, the extension order has been issued as the above.
-
-◼️
-
-[Data](articles/4f5a18a9.json)
-
-[Extended Data](ext_articles/4f5a18a9.ext.json)
-
----
-
-### Referee on the throw of Pakistani field
-
-*2025-09-18 11:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தான்-களத்தடுப்பாளரின்-எறியில்-வெளியேறிய-நடுவர்/44-364839) · `ta`
-
-In the Asian Cup series, Pakistan and the United Arab Emirates have left the field after a Pakistani fielder threw a ball.
-
-........ During the sixth over of the United States, the ball was thrown towards the bowling Sai Ayoub in the left ear of the Sri Lankan referee Ruchira school.
-
-Pakistan's anatomical expert checked to see if there was dizziness in the school, and left the field due to the prevailing security.
-
-◼️
-
-[Data](articles/bb336b49.json)
-
-[Extended Data](ext_articles/bb336b49.ext.json)
-
----
-
-### A shopple in the weekly fair in Dambulla shoes
-
-*2025-09-18 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214706) · `si`
-
-A fire had erupted in a shop in the Dambulla prelame in the Dambulla Muntama.
-
-The fire has been able to crush the fire after the fire is seen immediately after reporting the Fire in the Dambulla Municipal Council.
-
-The cause of the fire is yet to be determined and all polythene and other substances have been destroyed in the polythene.
-
-Mayor of Dambulla Urban Council Wasantha K. Rajayaramy said that if the fire spread, he was at risk of a large number of shop rooms and residents of Dambulla.
-
-◼️
-
-[Data](articles/fff59cb9.json)
-
-[Extended Data](ext_articles/fff59cb9.ext.json)
 
 ---

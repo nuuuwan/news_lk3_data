@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 12:56:08**
+As of **2025-09-18 13:39:48**
 
 ## Newspaper Stats
 
-*Scraped **76,711** Articles*
+*Scraped **76,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,173 @@ economynextcom | 4,638
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,452
-adaderanalk | 9,902
-tamilmirrorlk | 11,517
+adalk | 7,454
+adaderanalk | 9,904
+tamilmirrorlk | 11,520
 virakesarilk | 12,482
-adaderanasinhalalk | 13,376
+adaderanasinhalalk | 13,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,312 (96.9%) of 76,711 articles have been extended.
+74,353 (96.9%) of 76,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
 
-### ”வேலைச் செய் இன்றேல் வெளியேறு”: அமைச்சர் அதிரடி
+### மாணவர்களுக்கு சுவையூட்டிய சிகரெட் விற்றவர் கைது
+
+*2025-09-18 13:02:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-சுவையூட்டிய-சிகரெட்-விற்றவர்-கைது/175-364850) · `ta`
+
+தனமல்வில பகுதியில் உள்ள பாடசாலை மாணவர்களுக்கு இறக்குமதி செய்யப்பட்ட சிகரெட்டுகளை விற்பனை செய்ததாக சந்தேகத்தின் பேரில் ஒரு தொழிலதிபர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+ஒரு சிகரெட் மாணவனுக்கு ரூ.100க்கு விற்கப்பட்டது, பின்னர் அந்த மாணவர் அதை பாடசாலையில் ரூ.200க்கு மறுவிற்பனை செய்துள்ளார்.
+
+மற்றொரு மாணவர் அதிபருக்கு அளித்த ரகசிய தகவலைத் தொடர்ந்து, சிகரெட்டுகளை விற்பனை செய்த மாணவரிடம் விசாரணை நடத்தப்பட்டது, மேலும் அவரிடம் இருந்து இறக்குமதி செய்யப்பட்ட இரண்டு சிகரெட்டுகள் கண்டுபிடிக்கப்பட்டன.
+
+பின்னர், தனமல்வில பொலிஸ் ஆய்வாளரிடம் அளிக்கப்பட்ட முறைப்பாட்டின் அடிப்படையில், வணிக வளாகம் சோதனை செய்யப்பட்டது.
+
+சிகரெட் விற்பனையிலிருந்து கிடைத்த வருமானம் என்று நம்பப்படும் 690 சிகரெட்டுகளையும் ரூ.3,600,000 ரொக்கத்தையும் பொலிஸார் பறிமுதல் செய்தனர்.
+
+◼️
+
+[Data](articles/d52fda1c.json)
+
+---
+
+### மேலே ட்ரோன் விட்ட மூவர் கைது
+
+*2025-09-18 13:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலே-ட்ரோன்-விட்ட-மூவர்-கைது/175-364849) · `ta`
+
+ருவன்வெலிசேயாவுக்கு மேலே ட்ரோன் கேமரா பறக்க விட்ட மூவர் அனுராதபுரம் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்​தேக நபர்கள் பலாங்கொடை, மாளிகாவத்தை மற்றும் ஜா-எல பகுதிகளைச் சேர்ந்த 23 - 32 வயதுக்குட்பட்டவர்கள் என தெரியவந்துள்ளது.
+
+இந்த மூன்று நபர்களும் ஒரு தனியார் நிதி நிறுவனத்தில் பணிபுரிந்து வருவதுடன் புதன்கிழமை (17) அன்று வாகன விற்பனை ஊக்குவிப்பு வேலைத்திட்டத்தை நடத்தி முடித்து விட்டு, ருவன்வெலிசேயாவுக்கு சென்று வழிபாடுகளில் ஈடுபட்டு வாகன நிறுத்துமிடத்தின் அருகில் இருந்து ட்ரோன் கேமராவை பறக்க விட்டுள்ளனர்.
+
+அனுமதியின்றி ட்ரோன் கேமரா பறக்கவிட்ட குற்றச்சாட்டில் ருவன்வெலிசேயா, உடமலுவ பொலிஸாரால் கைது செய்யப்பட்ட குறித்த மூவரும் மேலதிக விசாரணைகளுக்காக அனுராதபுரம் தலைமையக பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/e78bbd2d.json)
+
+---
+
+### විදුලි උද්ඝෝෂකයෝ කොළඹ ප්‍රධාන පාරක් වසති
+
+*2025-09-18 12:59:39* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-උද්ඝෝෂකයෝ-කොළඹ-ප්‍රධාන-පාරක්-වසති/11-418576) · `si`
+
+විදුලි බල මණ්ඩල සේවයකයන් පවත්වන විරෝධතාවක් හේතුවෙන් කොම්පඤ්ඤවීදිය සිට ලේක් හවුස් වටරවුම දක්වා වූ මාර්ගය විදුලි බල මණ්ඩල ප්‍රධාන කාර්යාලය ඉදිරිපිටින් අවහිර වී තිබේ. මේ හේතුවෙන් එම මාර්ගයේ අධික රථවාහන තදබදයක් නිර්මාණය වී තිබේ.
+
+◼️
+
+[Data](articles/aca396b3.json)
+
+---
+
+### Encounter on the shooters
+
+*2025-09-18 12:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/துப்பாக்கிச்சூடு-நடத்தியவர்கள்-மீது-என்கவுண்டர்/54-364845) · `ta`
+
+Popular Bollywood actress Disha Patani's house was shot dead in an encounter.
+
+Actress Disha Pathani in Uttar Pradesh, Uttar Pradesh, was shot dead by unidentified persons in the early hours of the morning of the 12th of this month.. The police were investigating the CCTV footage of the incident.
+
+In it, the shooters were found as Ravindra and Arun. In this case, the police surrounded them near Ghaziabad. They were reportedly firing at the police department at the time.
+
+Subsequently, the police were seriously injured in the gunfire and taken to hospital. But, they both died without treatment. It has also been reported that weapons including gun have been seized from them.
+
+◼️
+
+[Data](articles/4f534405.json)
+
+[Extended Data](ext_articles/4f534405.ext.json)
+
+---
+
+### Protest in front of the CEB Head Office - Road is blocked
+
+*2025-09-18 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214708) · `si`
+
+CID is protesting in front of the CEB headed by the CEB's headquarters by employees of the CEB.
+
+The road was a heavy traffic in front of the Head Office, Ada Derana reporter said.
+
+According to the Ada Derana reporter, there is a heavy traffic congestion from Slavenovathe to Lake House roundabout.
+
+◼️
+
+[Data](articles/38ca16d1.json)
+
+[Extended Data](ext_articles/38ca16d1.ext.json)
+
+---
+
+### One lane opposite CEB head office closed due to protest
+
+*2025-09-18 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112645/one-lane-opposite-ceb-head-office-closed-due-to-protest) · `en`
+
+One lane on the road from Slave Island to Lake House roundabout has been closed due to a protest staged by Ceylon Electricity Board (CEB) employees opposite of the CEB head office, Ada Derana reporter said.
+
+Accordingly, the movement of traffic along the Chittampalam A. Gardiner Mawatha towards Slave Island has been restricted, police stated.
+
+Police confirmed heavy traffic has been reported in the area and requested motorists to use alternative roads.
+
+Electricity trade unions have been staging a protest against the way in which authorities are MOVING forward the restructuring process of the CEB.
+
+Meanwhile, trade unions have also warned that they will further intensify their ongoing trade union actions if their demands continue to be ignored.
+
+Unions commenced a work-to-rule campaign on September 4, in protest against what they describe as the arbitrary restructuring of the Ceylon Electricity Board (CEB).
+
+...
+
+[Data](articles/aa75ba22.json)
+
+[Extended Data](ext_articles/aa75ba22.ext.json)
+
+---
+
+### "Get out of work": Minister Action
 
 *2025-09-18 12:31:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைச்-செய்-இன்றேல்-வெளியேறு-அமைச்சர்-அதிரடி/175-364843) · `ta`
 
-ரயில்வே சேவைகளை முறையாக செயல்படுத்த முடியாத அதிகாரிகள் தங்கள் பதவிகளில் இருந்து ராஜினாமா செய்ய வேண்டும் என்று போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க கூறியுள்ளார்.
+Transport Minister Bimal Ratnayake has said that the officials who are unable to implement the railway services should resign from their posts.
 
-களுத்துறை மாவட்ட செயலகத்தில் பாராளுமன்ற உறுப்பினர்கள் மற்றும் போக்குவரத்து அதிகாரிகளுடன் நடைபெற்ற கூட்டத்தில் உரையாற்றிய அமைச்சர், ரயில்வே துறை தனது பொறுப்புகளை புறக்கணித்து பயணிகளுக்கு அடிப்படை வசதிகளை கூட வழங்கத் தவறியதற்காக விமர்சித்தார்.
+Speaking at a meeting with MPs and Transport Officers at the Kalutara District Secretariat, the Minister criticized the Railway Department for failing to provide basic facilities to the passengers.
 
-“ரயில்களில் ஜன்னல்களை சரியாக மூடவேண்டும். அவை சரியாக மூடப்படாத போது, ​​இருக்கைகள் நனைந்துவிடும். எந்த மின்விசிறியும் வேலை செய்யாது. காலியில் இருந்து கொழும்புக்கு இரண்டரை மணி நேர பயணத்தில், ஒரே கழிப்பறையில் தண்ணீர் இல்லை. இவை அலுவலக ரயில்கள் - ஆனால் பயணிகள் இதுபோன்ற சூழ்நிலையில் பயணிக்க வேண்டிய கட்டாயத்தில் உள்ளனர். அதிகாரிகள் பொதுமக்கள் மீது எந்த அக்கறையும் காட்டவில்லை, ”என்று அவர் கூறினார்.
+“The windows on trains should be closed properly. When they are not properly closed, the seats are soaked. No fan will work. Two and a half hours of journey from Galle to Colombo, there is no water in the same toilet. These are office trains - but passengers are forced to travel in such a situation. Officials have no interest in the public, ”he said.
 
-ஜா-எலாவைச் சேர்ந்த ஒரு சிறுவன் தனது முதல் ரயில் பயணத்தின் போது பழுதடைந்த ஜன்னலில் விழுந்து இரண்டு விரல்களை இழந்த சமீபத்திய சம்பவத்தையும் அமைச்சர் ரத்நாயக்க சுட்டிக்காட்டினார்.
+Minister Ratnayake also pointed out the latest incident that a boy from Ja-Ela fell into the window of his first train trip and lost two fingers.
 
 ◼️
 
 [Data](articles/9b9e14bd.json)
+
+[Extended Data](ext_articles/9b9e14bd.ext.json)
+
+---
+
+### Shop at Dambulla market destroyed in fire
+
+*2025-09-18 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112644/shop-at-dambulla-market-destroyed-in-fire) · `en`
+
+A fire broke out in a shop within the Dambulla weekly market belonging to the Dambulla Municipal Council early this morning (18).
+
+An employee of the Dambulla Municipal Council had noticed the fire upon reporting for duty this morning and promptly informed the Fire Brigade, Ada Derana reporter said.
+
+Accordingly, they were able to bring the blaze under control.
+
+While the cause of the fire is yet to be determined, it has been confirmed that the shop had been used to store stocks of polythene. All polythene and other stored materials were completely destroyed in the incident.
+
+The Mayor of the Dambulla Municipal Council, Wasantha K. Rajamanthrie stated that if the fire had spread, it could have posed a serious risk to the many shops and residents adjacent to the market.
+
+◼️
+
+[Data](articles/7ad7e5cc.json)
+
+[Extended Data](ext_articles/7ad7e5cc.ext.json)
 
 ---
 
@@ -66,21 +202,25 @@ In a statement filed in the Trump parliament, Afghanistan, The Belis, Bolivia, M
 
 ---
 
-### அமெரிக்காவின் தலையீட்டை இந்தியா திட்டவட்டமாக நிராகரித்துவிட்டது - பாகிஸ்தான் வெளிவிவகார அமைச்சர் இஷாக் தார்
+### India has credited US intervention - Pakistan Foreign Minister Ishaq Tar
 
 *2025-09-18 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225379) · `ta`
 
-இந்தியா - பாகிஸ்தான் இடையே நடைபெற்ற மோதலை அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் தலையிட்டு நிறுத்தியதாகக் கூறி வந்த நிலையில், அமெரிக்காவின் தலையீட்டை இந்தியா திட்டவட்டமாக நிராகரித்துவிட்டதாக பாகிஸ்தான் வெளிவிவகார அமைச்சர் இஷாக் தார் தெரிவித்துள்ளார்.
+Pakistani External Affairs Minister Ishaq Tar has said that India has categorically rejected US intervention as US President Donald Trump has intervened in the clash between India and Pakistan.
 
-இதன் மூலம், போரை நிறுத்த இந்தியாவுக்கு மூன்றாம் நாட்டின் தலையீடு தேவையில்லை என்ற இந்தியாவின் நிலைப்பாடு உறுதிப்படுத்தப்பட்டுள்ளது.
+With this, India's position has confirmed that India does not need a third country intervention to stop the war.
 
-அமெரிக்க ஜனாதிபதி ட்டிரம்ப், "இந்தியா-பாகிஸ்தான் இடையேயான போரை நான் தான் நிறுத்தினேன்" என தொடர்ந்து கூறி வந்தார். ஆனால், இந்தியா இதனை திட்டவட்டமாக மறுத்து, "பாகிஸ்தான் கெஞ்சியதால் தான் தாக்குதலை நிறுத்தினோம். இதில் மூன்றாம் நாட்டின் தலையீடு இல்லை" என்று தெரிவித்தது.
+US President Tiprump continued to say, "I have stopped the war between India and Pakistan.". But India denied this and said, “We stopped the attack because Pakistan begged. There is no intervention in the third country. ”
 
-பாகிஸ்தான் வெளியுறவுத்துறை அமைச்சர் இஷாக் தார், தனியார் தொலைக்காட்சியொன்றுக்கு அளித்த பேட்டியில், மே 11 ஆம் திகதியன்று அமெரிக்க வெளியுறவுச் செயலர் மார்கோ ரூபியோ மூலம் தனக்கு போர் நிறுத்தம் குறித்த தகவல் வந்ததாகத் தெரிவித்தார்.
+Pakistani Foreign Minister Ishaq Tar told a private television channel that he had received information about the ceasefire on May 11 by US Secretary of State Marco Rubio.
+
+But when he met Rubio in Washington on July 25, Ihak Tar said that Rubio replied, "India has rejected any third-party intervention because India said this was a bilateral issue."
 
 ...
 
 [Data](articles/b65093b3.json)
+
+[Extended Data](ext_articles/b65093b3.ext.json)
 
 ---
 
@@ -102,21 +242,25 @@ In this case, the Colombo Criminal Investigation Division (CID) was arrested on 
 
 ---
 
-### 5 ஆயிரம் ரூபாய் போலி நாணயத்தாள்களுடன் நால்வர் கைது!
+### Four people arrested with fake currency notes of 5 thousand rupees
 
 *2025-09-18 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225391) · `ta`
 
-ஹபரணை பொலிஸார் இன்று (18) அதிகாலை அநுராதபுரத்தின் மதவாச்சிய பகுதியில் நடத்திய சோதனையில் 145 போலி 5 ஆயிரம் ரூபாய் நாணயத்தாள்கள் மற்றும் அவற்றை அச்சிடப் பயன்படுத்தப்படும் பல மடிக்கணினிகள், கணினிகள் மற்றும் பிற உபகரணங்களுடன் நான்கு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Four suspects have been arrested with a number of laptops, computers and other equipment used to print 145 fake 5 thousand rupee currency notes and them in a raid conducted by the Habarana police this morning (18).
 
-ஹபரணை பிரதேசத்தில் 5 ஆயிரம் ரூபாய் நாணயத்தாள் புழக்கத்தில் இருப்பது குறித்து பிரதான சந்தேக நபரிடமிருந்து கிடைத்த தகவலின் அடிப்படையில், இந்த மோசடியில் ஈடுபட்ட மற்ற சந்தேக நபர்களை ஹபரணை பொலிஸார், கைது செய்துள்ளனர்.
+The Habarana police have arrested other suspects involved in the fraud on the basis of information received from the main suspect in the circulation of 5 thousand rupees in the Habarana area.
 
-குறித்த சந்தேக நபர்கள் மதவாச்சிய பிரதேசத்தில் போலி நாணயத்தாள்களை அச்சிட்டு, ஹபரணை பிரதேசத்திற்கு வந்து அவற்றை மாற்றிக் கொண்டதாகவும்,இந்த மோசடி நீண்ட காலமாக நடந்து வந்ததாகவும் முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளதாக ஹபரணை பொலிஸார் தெரிவித்துள்ளனர்.
+Preliminary inquiries have revealed that the suspects had printed fake currency notes in the Madawachiya area and had come to the Habarana area and that the fraud had been going on for a long time.
 
-சந்தேக நபர்கள் 20 முதல் 30 வயதுக்குட்பட்டவர்கள் எனவும் மதவாச்சிய பிரதேசத்தில் வசிப்பவர்கள் எனவும் பொலிஸார் குறிப்பிட்டுள்ளனர்.
+Police said the suspects were between the ages of 20 and 30 and were residing in Madhavachiya.
 
-...
+On the instructions of Palitha Ilangasekara, the officer in charge of the Habarana Police Station, a team of police officers led by police officer Wimal Siriwardena have arrested the suspects along with fake currencies.
+
+◼️
 
 [Data](articles/9cedae73.json)
+
+[Extended Data](ext_articles/9cedae73.ext.json)
 
 ---
 
@@ -203,6 +347,8 @@ The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after cons
 ◼️
 
 [Data](articles/75dbb8cb.json)
+
+[Extended Data](ext_articles/75dbb8cb.ext.json)
 
 ---
 
@@ -304,6 +450,8 @@ The company noted that the decision was taken in order to manage the congestion 
 
 [Data](articles/f6d1bf23.json)
 
+[Extended Data](ext_articles/f6d1bf23.ext.json)
+
 ---
 
 ### Kandy Dalada Maligawa Diyawadana Nilame election date announced
@@ -323,6 +471,8 @@ Since then, he has been elected twice to the post through elections.
 ◼️
 
 [Data](articles/3c253823.json)
+
+[Extended Data](ext_articles/3c253823.ext.json)
 
 ---
 
@@ -346,19 +496,21 @@ Thereafter he was elected to the Diyawadana Nilame in two occasions.
 
 ---
 
-### துசித ஹல்லொலுவவுக்கு பிணை!
+### Bail for Tusita Hallulu!
 
 *2025-09-18 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225387) · `ta`
 
-தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளர் துசித ஹல்லொலுவ பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+Former Director of the National Lotter Board, Dusitha Halluluwa, has been released on bail.
 
-தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளரான துசித ஹல்லொலுவ நாரஹேன்பிட்டி பகுதியில் தான் பயணித்த வாகனத்தின் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டமை தொடர்பான சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்தார்.
+Former Director of the National Lottery Board, Dusitha Halluluwa was arrested and interrogated on suspicion of firing on the vehicle he was traveling in.
 
-துசித ஹல்லொலுவ ஆகஸ்ட் 19 ஆம் திகதி கொள்ளுப்பிட்டி பகுதியில் வைத்து கொழும்பு குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Colombo Criminal Investigation Division was arrested on August 19 in Kaluppitti area.
 
 ◼️
 
 [Data](articles/7128c9cc.json)
+
+[Extended Data](ext_articles/7128c9cc.ext.json)
 
 ---
 
@@ -380,17 +532,19 @@ This model service includes six primary initiatives that introduce many changes 
 
 ---
 
-### திஸ்ஸமஹாராமையில் கால்வாயிலிருந்து ஆணின் சடலம் மீட்பு!
+### The body of the man from the canal in Tissamaharam
 
 *2025-09-18 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225385) · `ta`
 
-அம்பாந்தோட்டையில் திஸ்ஸமஹாராமை பொலிஸ் பிரிவிற்கு உட்பட்ட சந்துங்கம பிரகதி மாவத்தை பகுதியில் உள்ள கால்வாயிலிருந்து ஆணின் சடலம் நேற்று புதன்கிழமை (17) மாலை மீட்கப்பட்டுள்ளதாக திஸ்ஸமஹாராமை பொலிஸார் தெரிவித்தனர்.
+The body of a man has been recovered from the canal in the Chandungama Pragati Mawatha area, which belongs to the Tissamaharam Police Division in Hambantota, Tissamaharam police said.
 
-இவர் தனிப்பட்ட தகராறு காரணமாக போத்தலினால் தாக்கப்பட்டு தண்ணீரில் மூழ்கடிக்கப்பட்டு கொலை செய்யப்பட்டுள்ளதாக பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+Initial investigations by the police revealed that he was attacked and drowned in water due to a personal dispute.
 
 ◼️
 
 [Data](articles/22e19975.json)
+
+[Extended Data](ext_articles/22e19975.ext.json)
 
 ---
 
@@ -667,6 +821,26 @@ In addition, the amount of Kerala cannabis seized by the Navy was handed over to
 [Data](articles/70a19679.json)
 
 [Extended Data](ext_articles/70a19679.ext.json)
+
+---
+
+### The conditions for the culmination of petroleum emerges
+
+*2025-09-18 09:54:29* · [`adalk`](https://www.ada.lk/breaking_news/ඛණිජ-ප්‍රවාහන-කටයුතු-වෙනුවෙන්-දැමූ-කොන්දේසි-ලිහිල්-කරයි/11-418572) · `si`
+
+At the date of schools. 06.30 pm. 07.45 and. 11.30 pm. The new condition imposed on suspicion of mineral activities during the period to 2:30 has been suspended.
+
+Accordingly, the mineral transport of mineral transports near the schools and the schools near the above periods will be carried out under the severe supervision of the police.
+
+Accordingly, in the days of schools. 06.30 pm. 07.45 and. 11.30 pm. The transportation of minerals within the duration of Rs.
+
+These measures have been taken to prevent accidents during school durations.
+
+◼️
+
+[Data](articles/9604b9ad.json)
+
+[Extended Data](ext_articles/9604b9ad.ext.json)
 
 ---
 
@@ -1821,177 +1995,5 @@ Investigations revealed that the suspect had been forcibly supposed to get the m
 [Data](articles/4a0e490d.json)
 
 [Extended Data](ext_articles/4a0e490d.ext.json)
-
----
-
-### Leading to use martyr for awkward politics - Ilangumaran MP accuses!
-
-*2025-09-18 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225369) · `ta`
-
-Parliamentarian Karunanathan Ilangumaran has questioned when the action of the election politics of the election politics will be stopped.
-
-If the Tamil Congress Front acts as the act of the Tamil Congress Front, it is the culmination of the sacrifice of Minister Chandrasekhar who attended the event of the sacrificial torch of Dileepan's brother.
-
-Anyone can pay tribute to anyone; That is human dignity. Many people who stood against him during the time of Dileepan's brother struggled. Leading them stops near electoral politics. But what contradiction is it to refuse to allow others?
-
-Political aggression is an unforgivable crime to make the memorial of a hero - the martyr. It is mentioned that this is nothing but barbarism violating human dignity.
-
-◼️
-
-[Data](articles/7ae460bd.json)
-
-[Extended Data](ext_articles/7ae460bd.ext.json)
-
----
-
-### Garavalapitiya Sobadanavi Power Plant; Connection in the national structure
-
-*2025-09-18 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225368) · `ta`
-
-Electricity independence is essential for the development of the country. To implement the standard and possible plans before reducing the electricity. Prime Minister Harini Amarasuriya said that we have initiated the process.
-
-The Karavalapitiya Sobadanavi Power Plant with the Macawot 350 was incorporated into the national structure headed by the Prime Minister. It has been able to meet 12 percent of the current electricity demand.
-
-Sri Lanka Engineering Knowledge, Structure and Skills have been confirmed once again in accordance with international standards. By 20130, 70 percent of the national demand will be a direct contribution to the renewable energy.
-
-The second phase of the 350 MW of Karavalapitiya liquidized natural gas power plant was opened today (17) to protect the future of the country's energy sector.
-
-The Sopatanavi power plant, which is the mainstay of the Ceylon Electricity Board's long -term power project, is capable of meeting a 12 per cent share of the current power demand.
-
-...
-
-[Data](articles/11269cc1.json)
-
-[Extended Data](ext_articles/11269cc1.ext.json)
-
----
-
-### A large amount of financial loss to the government
-
-*2025-09-18 02:45:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்திற்கு-பெருந்தொகையான-நிதி-இழப்பு/175-364811) · `ta`
-
-The COPE group revealed that the government had a huge amount of financial loss to the government as the Geological Survey and the Ministry Bureau did not properly accommodate the government.
-
-This was revealed during a committee of government responsibility efforts led by MP Nishantha Samaraweera.
-
-The private company has issued a permit for excavation work from December 2023 to September 2024 for sand mining at Mukkuttuwa estate owned by the Chilaw Plantation Company.
-
-Although the sand has been removed from 36,531 to 45,561 cube by the contractor, the Auditor General pointed out that only 1,564 cube sand has been paid state -of -the -art sand.
-
-According to the COPE team, it has been lost to over 12 million rupees. (A)
-
-◼️
-
-[Data](articles/98ec2d3b.json)
-
-[Extended Data](ext_articles/98ec2d3b.ext.json)
-
----
-
-### The Bribery and Corruption Commission should carry out investigations into the assets of the governor - former minister Mahinda Amaraweera
-
-*2025-09-18 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225367) · `ta`
-
-The Bribery and Corruption Commission should conduct a formal inquiry into the allegations leveled by the governors based on property details.. Former Minister Mahinda Amaraweera said that the independence of the Bribery and Corruption Commission will be revealed to the country through the investigation and appropriate action.
-
-He was speaking to the media after attending a discussion held at the Freedom Party Headquarters in Colombo on Wednesday (17).. As he further notes,
-
-The Bribery and Corruption Commission should conduct a formal inquiry into the allegations leveled by the governors based on property details.. This is the best opportunity for the country to express the independence of the Bribery and Corruption Commission. The law should be implemented against them if any of the investigations are confirmed.
-
-...
-
-[Data](articles/563d0f6e.json)
-
-[Extended Data](ext_articles/563d0f6e.ext.json)
-
----
-
-### There are humans in Gaza
-
-*2025-09-18 02:38:02* · [`dailyftlk`](https://www.ft.lk/columns/There-are-humans-in-Gaza/4-781824) · `en`
-
-Mushtaha Tower in Gaza City destroyed by Israeli fire on 5 September 2025 – Photo by Mahmoud Issa/Reuters
-
-The Mushtaha residential tower stands tall next to a sea of tents in the West of Gaza City. A guided bomb from an Israeli military jet hits its base, throwing debris, dust, and a cloud of ashen hell into the air. While the video captures the air barely clearing, and even as we get a glimpse of the building still managing to stand, a second bomb hits. The Mushtaha tower comes down on itself in an explosion that rattles the earth.
-
-There have been mice inside the tower, and insects. Cockroaches and their ilk. These insignificant creatures stand no chance as the world literally collapses around them. With no one to explain what is happening, no one around to evacuate them, the mice and the cockroaches die in their hundreds and thousands, and the former tower becomes their tomb.
-
-...
-
-[Data](articles/f216caf0.json)
-
-[Extended Data](ext_articles/f216caf0.ext.json)
-
----
-
-### Geneva arena, Mahinda Rajapaksa returns to Ruhuna, Sri Lanka-Nepal outcomes
-
-*2025-09-18 02:25:02* · [`dailyftlk`](https://www.ft.lk/columns/Geneva-arena-Mahinda-Rajapaksa-returns-to-Ruhuna-Sri-Lanka-Nepal-outcomes/4-781822) · `en`
-
-Ambassador of China calls on MR before he leaves Colombo residence
-
-Bristling with misplaced arrogance as always, JVP theoretician and NPP Minister Bimal Rathnayake boasted in Parliament that 43 countries had spoken in favour of Sri Lanka after Foreign Minister Vijitha Herath’s address to the UNHRC in Geneva following UN Human Rights High Commissioner Volker Turk’s Report. Bimal seems unaware that 43 is not the most relevant figure. While all 193 UN member states are present in Geneva and have the right to speak, only 47 of the 193 have been elected members of the UNHRC with full voting rights at any given time.
-
-Therefore, the relevant question is how many of the 43 countries that spoke in support of Vijitha Herath’s stand, currently enjoy UNHRC ‘member state’ status with voting rights? How many of the 43 can vote at this session?
-
-The answer is 14. That’s way less than half, and slightly under a third.
-
-...
-
-[Data](articles/db36a3ff.json)
-
-[Extended Data](ext_articles/db36a3ff.ext.json)
-
----
-
-### 2025-09-17 (Wednesday)
-
-### Avocado magic …
-
-*2025-09-17 23:44:00* · [`islandlk`](http://island.lk/avocado-magic/) · `en`
-
-It’s all about avocado this week … yes, avocado magic, so do try it out.
-
-All you need is 02 tablespoons of mash avocado and 01 tablespoon of honey.
-
-Mix the mash avocado with the honey and apply the mixture to your face. Let it remain for 20 minutes and then rinse off.
-
-Apply the mixture to your face and leave it on for 15–20 minutes, and then rinse off.
-
-Reduces fine lines, boosts collagen production, keeping skin youthful and firm.
-
-Gently scrub the mixture onto your face, in circular motions.
-
-Gently exfoliates and removes dead skin cells and leaves skin soft and smooth.
-
-Reduces puffiness around the eyes, and nourishes and hydrates the delicate under-eye skin.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/bb187926.json)
-
-[Extended Data](ext_articles/bb187926.ext.json)
-
----
-
-### Solid Foundations, Stronger Futures: ICC Readymix powers Sri Lanka’s construction growth
-
-*2025-09-17 23:35:00* · [`islandlk`](http://island.lk/solid-foundations-stronger-futures-icc-readymix-powers-sri-lankas-construction-growth/) · `en`
-
-ICC (International Construction Consortium Pvt Ltd) revolutionised Sri Lanka’s construction industry in 1992 by introducing Readymix concrete, marking the start of a new era in building technology and operational efficiency. With over three decades of experience, ICC Readymix continues to lead the industry, delivering high-performance concrete solutions for projects ranging from residential developments to major infrastructure across the island.
-
-With strategically located batching plants in Madapatha and Galkulama, ICC Readymix ensures easy access and rapid delivery across regions, supporting the pace and scale of modern construction demands.
-
-Offering a full range of concrete grades from G10 to G70, ICC Readymix caters to a wide variety of structural requirements. Whether it’s durable foundations for homes or high-strength mixes for commercial towers, ICC Readymix delivers materials that meet the highest standards of strength, durability, and precision.
-
-...
-
-[Data](articles/0d992565.json)
-
-[Extended Data](ext_articles/0d992565.ext.json)
 
 ---

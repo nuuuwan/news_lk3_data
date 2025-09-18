@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-18 20:56:19**
+As of **2025-09-18 20:08:45**
 
 ## Newspaper Stats
 
-*Scraped **76,791** Articles*
+*Scraped **76,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,21 @@ economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
-adalk | 7,468
+adalk | 7,466
 adaderanalk | 9,911
 tamilmirrorlk | 11,537
 virakesarilk | 12,486
-adaderanasinhalalk | 13,396
+adaderanasinhalalk | 13,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-74,786 (97.4%) of 76,791 articles have been extended.
+74,740 (97.3%) of 76,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-18 (Thursday)
-
-### 2026 Appropriation Bill Gazettes
-
-*2025-09-18 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214730) · `si`
-
-The Appropriation Bill, including government expenditure for the year, has been gazetted.
-
-The total expenditure in 2026 to be presented to Parliament as the government to Parliament as the second budget of the government was Rs. 4,434 billion.
-
-The Ministry of Finance has allocated Rs 634 billion for the next year.
-
-618 billion has been allocated to the Ministry of Provincial Councils and the Provincial Council and Rs. 596 billion has been allocated for the Ministry of Public Administration.
-
-The Ministry of Health and Mass Media for the coming year is Rs. 554 billion.
-
-Rs. 45 billion has been allocated for the Ministry of Defense and Rs. 301 billion has been allocated for the Ministry of Education.
-
-The Rajapakse Budget has allocated Rs. 11 billion.
-
-It is an increase of about 8 billion rupees of the President in 2025.
-
-The main expenditure of Rs. 8.29 billion has been reserved for development programs 2026.
-
-Rs. 488 billion has been allocated for pensions from the 2026 Appropriation Bill.
-
-...
-
-[Data](articles/7458d279.json)
-
-[Extended Data](ext_articles/7458d279.ext.json)
-
----
 
 ### To Afghanistan to advantage
 
@@ -736,24 +704,6 @@ The committee's commander (WFD) representatives (WFD) representatives were able 
 
 ---
 
-### මුදල් ගණුදෙනුවලදී ව්‍යාජ නෝට්ටු ගැන සැලකිලිමත් වන්න
-
-*2025-09-18 15:53:27* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-ගණුදෙනුවලදී-ව්‍යාජ-නෝට්ටු-ගැන-සැලකිලිමත්-වන්න/11-418588) · `si`
-
-දෛනික අවශ්‍යතා අනුව භාණ්ඩ මිලදී ගැනීමේදී හා විවිධ ගනුදෙනු සඳහා මුදල් පරිහරණය කිරීමේදී එම මුදල් ව්‍යාජ මුදල් නෝට්ටුද යන්න පිළිබඳව සුපරික්ෂාකාරිව හා අවධානයෙන් යුතුව තහවුරු කර ගන්නා ලෙස පොලීසිය මහජනතාවට දැනුම් දෙයි.
-
-මුදල් නෝට්ටු ව්‍යාජ නොවන බවට තහවුරු කර ගැනීමෙන් පසුව මුදල් නෝට්ටු පරිහරණය කිරීමටත් එවැනි ව්‍යාජ මුදල් නෝට්ටු සන්තකයේ තබා ගැන්නා හෝ ගනුදෙනු කරන පුද්ගලයින් පිළිබඳව තොරතුරු ලද වහාම ශ්‍රී ලංකා පොලීසිය දැනුවත් කරන ලෙසත් පොලීසිය පවසයි.
-
-මේ අතර ඊයේ සවස් කාලයේදී හබරණ නගරයේදී ව්‍යාජ රු. 5000 මුදල් නෝට්ටු දෙකක් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුගෙන් සිදුකළ වැඩිදුර විමර්ශනදී තවත් ව්‍යාජ රු 5000 නෝට්ටු දෙක බැගින් ළඟ තබාගෙන සිටි පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
-
-තවදුරටත් සිදු කළ විමර්ශනවලදී ව්‍යාජ රු 5000 නෝට්ටු මුද්‍රණය කරන ලද සැකකරුවෙක් එවැනි නෝට්ටු 138ක් සමග මුද්‍රණයට යොදා ගන්නා උපකරණද සමග අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
-
-◼️
-
-[Data](articles/0e8895dc.json)
-
----
-
 ### Sri Lanka tourism institution joins GovPay
 
 *2025-09-18 15:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-institution-joins-govpay-241079/) · `en`
@@ -827,24 +777,6 @@ Accordingly, when the complainant's father arrived at the police station, the po
 [Data](articles/f35d08dc.json)
 
 [Extended Data](ext_articles/f35d08dc.ext.json)
-
----
-
-### The government is ready to increase the use of hydrogen
-
-*2025-09-18 15:32:50* · [`adalk`](https://www.ada.lk/breaking_news/හයිඩ්‍රජන්-භාවිතය-ඉහළ-නැංවීමට-රජය-සූදානම්/11-418586) · `si`
-
-Minister of Engkk Minister Kumara Jayakody said that his procedure was taken to use new renewable energy sources and modern technology and methods in Colombo today (18). Lanka) Addressing the opening.
-
-The Ministry of Promotion of Protest Energy is very high, said the Minister said that the reign, storage facilities and infrastructure will be taken to improve the capacity to enhance the capacity to obtain the capacity of the power system.
-
-"Hydrogen use of hydrogen for electricity is very important for the future. It's a key step, the processing of the policy draft. This consulting workshop with stakeholders is a very important step in the process of processing the policy draft. Also, we can find expert assistance in different countries, especially in the world developed countries and other foreign experts who work in the world developed countries and other foreign experts.. He also wants to thank those relevant agencies and experts that contribute to this. "
-
-◼️
-
-[Data](articles/8bce86a0.json)
-
-[Extended Data](ext_articles/8bce86a0.ext.json)
 
 ---
 
@@ -2085,5 +2017,69 @@ However, the Sri Lankan team is defeated due to the defeat of Afghanistan, the S
 [Data](articles/7523a06a.json)
 
 [Extended Data](ext_articles/7523a06a.ext.json)
+
+---
+
+### Thusitha Halloluwa bail
+
+*2025-09-18 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214700) · `si`
+
+The Colombo Magistrate Court has been ordered to be released on bail to be released on bail.
+
+Accordingly, Colombo Additional Magistrate Lahiru Silva has been appointed to release the suspects on two million guarantee of Rs.
+
+The suspect was then ordered to ban abroad, or ordered that the suspect's passport should be handed over to the court.
+
+Former Director of the National Lotteries Board Thusitha Halllogen was arrested and remanded in connection with the shooting of shooting in Narahenpita.
+
+The event was arrested in the Kollupitiya area for a raid commissioned by the Colombo Crimes Division on August 19.
+
+◼️
+
+[Data](articles/12fa2c78.json)
+
+[Extended Data](ext_articles/12fa2c78.ext.json)
+
+---
+
+### Former NLB Director Thusitha Halloluwa granted bail
+
+*2025-09-18 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112640/former-nlb-director-thusitha-halloluwa-granted-bail) · `en`
+
+Former Executive Director of the National Lotteries Board (NLB), Thusitha Halloluwa has been granted bail after being produced before the Colombo Magistrate’s Court today (18), said Ada Derana reporter.
+
+Accordingly, Colombo Additional Magistrate Lahiru Silva ordered that Thusitha Halloluwa be released on two surety bails of Rs. 500,000 each.
+
+The Magistrate also imposed a travel ban on the suspect, and further ordered that the suspect’s passport be impounded.
+
+Thusitha Halloluwa who was evading court was arrested in Colpetty on August 19.
+
+He was arrested in relation to a shooting incident involving the vehicle of Halloluwa in Narahenpita.
+
+◼️
+
+[Data](articles/43d05156.json)
+
+[Extended Data](ext_articles/43d05156.ext.json)
+
+---
+
+### 3 boys safely recovered
+
+*2025-09-18 10:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுவர்களும்-பாதுகாப்பாக-மீட்பு/175-364831) · `ta`
+
+Three boys who went missing in Kalkissa yesterday were safely rescued, police said.
+
+Officers from the Police Life Division have reportedly rescued the children who were trapped in the sea stream.
+
+Investigations have revealed that all the rescued boys were 16 years old and are from Wellampitiya, Kuttakurukkur and Hoganda.
+
+Police warned the public to avoid bathing in the sea. Remble
+
+◼️
+
+[Data](articles/b2a521be.json)
+
+[Extended Data](ext_articles/b2a521be.ext.json)
 
 ---

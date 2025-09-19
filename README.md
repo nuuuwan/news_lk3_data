@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 22:11:26**
+As of **2025-09-19 22:54:24**
 
 ## Newspaper Stats
 
-*Scraped **76,996** Articles*
+*Scraped **76,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 7,489
 adaderanalk | 9,943
 tamilmirrorlk | 11,576
 virakesarilk | 12,515
-adaderanasinhalalk | 13,437
+adaderanasinhalalk | 13,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,950 (98.6%) of 76,996 articles have been extended.
+75,988 (98.7%) of 76,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
+
+### යුද හමුදාවෙන් බහුවිධ වෛද්‍ය සායනයක්
+
+*2025-09-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214775) · `si`
+
+යුද හමුදා සාමාජිකයන්ගේ යහපැවැත්ම සහතික කරමින් පවත්වනු ලබන බහුවිධ වෛද්‍ය සායනයන්හි 7වන අදියර අද (19) අම්පාර කොන්ඩුවටුවාන ශ්‍රී ලංකා යුද්ධ හමුදා සටන් පුහුණු පාසලේ දී පැවැත්විණි.
+
+ඒ සඳහා අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කයන්හි පදිංචි විවිධ හේතුන්මත රණක්‍ෂිතයටපත් රණවිරුවන් හා විශ්‍රාමික මෙන්ම ක්‍රියාන්විත හේතූන් මත මියගිය රණවිරුවන්ගේ ළගම ඥාතීන් ඇතුලුව 1250කට අධික පිරිසක් සහභාගී වී ඇත.
+
+රණවිරු සේවා හා පුනරුත්ථාපන අධ්‍යක්‍ෂ මණ්ඩලයේ අධික්‍ෂණය යටතේ මෙම වෛද්‍ය කඳවුර සංවිධානය කර ඇති අතර යුද හමුදාධිපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතා මෙහි ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගී විය.
+
+මෙම වෛද්‍ය කඳවුර හරහා වෛද්‍ය ගැටළු හදුනා ගනිමින් හා ඒවාට විසඳුම් ලබාදීම, වෘත්තීය සෞඛ්‍ය උපදේශනය, මානසික සෞඛ්‍ය උපදේශන සේවාව, දන්ත වෛද්‍ය සේවාව, ජංගම වෛද්‍ය රසායානාගාර සේවය, කෘතිම අත් පා සහ ශල්‍ය උපකරණ ලබාදීම සඳහා පරීක්‍ෂණ මෙන්ම ජංගම අක්ෂි සායන, භෞත චිකිත්සක සායන, ඇතුළු තවත් සේවා ලබාදීමට කටයුතු කර තිබේ.
+
+මෙහිදී රණක්ෂිත රණවිරුවන්හට රෝද පුටු, අත්වාරු, ඇස් කණ්නාඩි හා ශල්‍ය වෛද්‍ය උපකරණ ද පරිත්‍යාග කිරීම සිදු විය.
+
+...
+
+[Data](articles/31af26e0.json)
+
+---
+
+### A drone attack per church in Sudan
+
+*2025-09-19 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214774) · `si`
+
+The mosque in Darfor area in Sudan has been attacked by drones.
+
+Foreign media reports that more than 70 people died due to this attack.
+
+The group has not taken responsibility for the attack, which is responsible for the drone team to attack this drone.
+
+◼️
+
+[Data](articles/94666226.json)
+
+[Extended Data](ext_articles/94666226.ext.json)
+
+---
 
 ### Dan's murder shooter and allowed to resign
 
@@ -93,6 +131,8 @@ Wellalage will be available for selection as Sri Lanka prepare to face Banglades
 ◼️
 
 [Data](articles/b89ef982.json)
+
+[Extended Data](ext_articles/b89ef982.ext.json)
 
 ---
 
@@ -2049,37 +2089,5 @@ Meanwhile, 50 drunken drivers and 20 persons have been arrested in connection wi
 [Data](articles/55e78ed2.json)
 
 [Extended Data](ext_articles/55e78ed2.ext.json)
-
----
-
-### Ali Roshan 15 years in prison
-
-*2025-09-19 10:49:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-ரொஷனுக்கு-15-ஆண்டுகள்-சிறை/175-364902) · `ta`
-
-Niraj Roshan, also known as Ali Roshan, has been sentenced to 15 years in prison for allegedly accused of allegations of elephant without a license.
-
-The sentence of three judges of the Colombo High Court today announced the sentence.
-
-◼️
-
-[Data](articles/135c3558.json)
-
-[Extended Data](ext_articles/135c3558.ext.json)
-
----
-
-### Ali Roshan sentenced 15 years in prison
-
-*2025-09-19 10:49:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-ரொஷனுக்கு-15-ஆண்டுகள்-சிறைத்தண்டனை/175-364902) · `ta`
-
-Niraj Roshan, also known as Ali Roshan, has been sentenced to 15 years in prison for allegedly accused of allegations of elephant without a license.
-
-The sentence of three judges of the Colombo High Court today announced the sentence.
-
-◼️
-
-[Data](articles/ca73a028.json)
-
-[Extended Data](ext_articles/ca73a028.ext.json)
 
 ---

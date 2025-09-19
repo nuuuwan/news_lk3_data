@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 22:11:26**
+As of **2025-09-19 22:37:13**
 
 ## Newspaper Stats
 
-*Scraped **76,996** Articles*
+*Scraped **76,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,489
 adaderanalk | 9,943
 tamilmirrorlk | 11,576
 virakesarilk | 12,515
-adaderanasinhalalk | 13,437
+adaderanasinhalalk | 13,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,950 (98.6%) of 76,996 articles have been extended.
+75,972 (98.7%) of 76,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
+
+### සුඩානයේ පල්ලියකට ඩ්‍රෝන ප්‍රහාරයක්
+
+*2025-09-19 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214774) · `si`
+
+සුඩානයේ ඩාර්ෆූර් ප්‍රදේශයේ පිහිටි මුස්ලිම් පල්ලියකට ඩ්‍රෝන ප්‍රහාරයක් එල්ල වී තිබේ.
+
+මෙම ප්‍රහාරය හේතුවෙන් 70කට වැඩි පිරිසක් මිය ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අද (19) එල්ල වී ඇති මෙම ඩ්‍රෝන ප්‍රහාරයට පැරාමිලිටරි කණ්ඩායමක් වන RSF වගකිව යුතු බව බලධාරීන් පවසා තිබුණ ද එම කණ්ඩායම ප්‍රහාරයේ වගකීම මෙතෙක් භාරගෙන නොමැත.
+
+◼️
+
+[Data](articles/94666226.json)
+
+---
 
 ### Dan's murder shooter and allowed to resign
 
@@ -93,6 +109,8 @@ Wellalage will be available for selection as Sri Lanka prepare to face Banglades
 ◼️
 
 [Data](articles/b89ef982.json)
+
+[Extended Data](ext_articles/b89ef982.ext.json)
 
 ---
 
@@ -2065,21 +2083,5 @@ The sentence of three judges of the Colombo High Court today announced the sente
 [Data](articles/135c3558.json)
 
 [Extended Data](ext_articles/135c3558.ext.json)
-
----
-
-### Ali Roshan sentenced 15 years in prison
-
-*2025-09-19 10:49:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-ரொஷனுக்கு-15-ஆண்டுகள்-சிறைத்தண்டனை/175-364902) · `ta`
-
-Niraj Roshan, also known as Ali Roshan, has been sentenced to 15 years in prison for allegedly accused of allegations of elephant without a license.
-
-The sentence of three judges of the Colombo High Court today announced the sentence.
-
-◼️
-
-[Data](articles/ca73a028.json)
-
-[Extended Data](ext_articles/ca73a028.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 19:12:22**
+As of **2025-09-19 20:08:54**
 
 ## Newspaper Stats
 
-*Scraped **76,981** Articles*
+*Scraped **76,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,91 @@ economynextcom | 4,660
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,486
+adalk | 7,488
 adaderanalk | 9,940
 tamilmirrorlk | 11,575
-virakesarilk | 12,511
-adaderanasinhalalk | 13,433
+virakesarilk | 12,513
+adaderanasinhalalk | 13,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,833 (98.5%) of 76,981 articles have been extended.
+75,892 (98.6%) of 76,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### மஹிந்தவின் வீட்டுக்கு வந்த கோட்டா
+### මෙරට ඉංජිනේරු දැනුමින් නිපදවූ  තෙවැනි නැනෝ චන්ද්‍රිකාවත් කක්ෂගත කෙරේ
+
+*2025-09-19 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214771) · `si`
+
+ශ්‍රී ලාංකික ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නිර්මාණය වූ තුන්වැනි නැනෝ චන්ද්‍රිකාව අද(19) පස්වරු 2.20ට කක්ෂගත කෙරිණි.
+
+මොරටුව ආතර් සී. ක්ලාක් ආයතනය ප්‍රකාශ කළේ, ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙස නම් කර ඇති මෙම පර්යේෂණ චන්ද්‍රිකාව මගින් මූලික වශයෙන් අභ්‍යවකාශ පර්යේෂණ මෙහෙයුම් තුනක් සිදුකිරීමට නියමිත බවය.
+
+මෙම ව්‍යාපෘතිය සඳහා ශ්‍රී ලංකාව කිසිදු ප්‍රාග්ධන පිරිවැයක් නොදැරීම විශේෂත්වයකි.
+
+2019 සිට මෙරට ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නැනෝ චන්ද්‍රිකා තුනක් නිර්මාණය වී ඇති අතර තෙවැනි නැනෝ චන්ද්‍රිකාව නම් කෙරුණේ ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙසය.
+
+එම චන්ද්‍රිකාව පසුගිය අගෝස්තු 24 වැනිදා නාසා ආයතනය විසින් දියත් කරනු ලැබූ ස්පේස් එක්ස් - 33 රොකට් මෙහෙයුම මගින් ජාත්‍යන්තර අභ්‍යවකාශ ආයතනය වෙත රැගෙන ගියේය.
+
+ජපන් අභ්‍යවකාශ පර්යේෂණ ආයතනය හා ඩිජිටල් රේඩියෝ සන්නිවේදන ආයතනය යන ජාත්‍යන්තර ආයතන කිහිපයක සහයෝගීතාවය සහිතව, ආතර් සී ක්ලාක් මධ්‍යස්ථානය සහ ජපානයේ කියුෂූ තාක්ෂණ ආයතනය මගින් මෙම ව්‍යාපෘතිය දියත් කෙරිණි.
+
+...
+
+[Data](articles/38f7f374.json)
+
+---
+
+### 7th Annual Medical Camp organized by the Army in Ampara, Batticaloa
+
+*2025-09-19 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225547) · `ta`
+
+More than 1250 people, including wounded warriors, heroic and retired relatives, were present at the Sri Lanka Army War Training School, Ampara, Ampara, Ampara, Ampara, Ampara, Ampara, on Friday (19).
+
+Army Commander Lieutenant General Lasantha Rodrigo was the chief guest at the event.
+
+The medical camp, organized under the supervision of the warrior affair and the rehabilitation work, was provided with medical problems and providing solutions, professional health advice, mental counseling, dental services, mobile laboratory services, artificial legs and surgical equipment.
+
+Apart from the problems of the dead warriors, the retired soldiers and their close relatives, the problems of the families of the heroes of the war heroes, were donated to the wounded warriors, wheelchairs, crutches, nasal mirrors and necessary surgery equipment.
+
+...
+
+[Data](articles/715d56d9.json)
+
+[Extended Data](ext_articles/715d56d9.ext.json)
+
+---
+
+### Analyst's report confirmed on chemicals in Midigiyana
+
+*2025-09-19 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214770) · `si`
+
+The Government Analyst's report of the samples of the chemicals found in the Middeniya has been handed over to the police.
+
+According to the police, they have confirmed that they are used to create ice drugs.
+
+The Western Criminal Division of the Western Criminal Division was found in the Western Criminal Criminal Division of about 50,000 kilograms of chemicals to produce ice drugs in Sri Lanka and Kudu Nilanga.
+
+According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
+
+The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
+
+The Dangerous Drugs Control Board recently was released recently, and there were the chemicals used to build ice narcotics.
+
+Meanwhile, the report of the Analyst's Department was handed over to the police to the police today.
+
+...
+
+[Data](articles/aad95de5.json)
+
+[Extended Data](ext_articles/aad95de5.ext.json)
+
+---
+
+### Kota came to Mahinda's house
 
 *2025-09-19 18:47:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வீட்டுக்கு-வந்த-கோட்டா/175-364926) · `ta`
 
@@ -40,25 +108,53 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/aa777391.json)
 
+[Extended Data](ext_articles/aa777391.ext.json)
+
 ---
 
-### சா/த பரீட்சார்த்திகளின்‌ கவனத்துக்கு
+### Government spending on 2026 increased by Rs 21,611 crore
+
+*2025-09-19 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225546) · `ta`
+
+4,43,435 crore 6,46,8000 rupees in the budget of the 2026 Finance Year. With the cost of Rs 4,21,824 crore 8,018,000 in the cost of 2025, the cost of 2026 has been increased by 21,610 crore 8,450,000 rupees based on various factors.
+
+The Ministry of Defense and Public Security has been allocated more than the 2025 budget and the Public Security Ministry.
+
+64,800 crore has been allocated for the Ministry of Safety and Public Security on Funds for Government Expenditure. 61,744 crore 50 lakhs of rupees have been allocated for the issues of the Ministry of Defense and Public Security in 2025.
+
+A total of 1,11,715 crore 9,980,000 lakhs have been allocated for the President's Ministry of Defense, Finance, Planning and Economic Development and the Ministry of Digital Economic Ministry.
+
+Meanwhile, the President's expenses were allocated 299,29,80,000 for 2025, with the presidential cost of 2026.. This is more than Rs.
+
+As of 2025, Rs.. This is less than Rs.
+
+...
+
+[Data](articles/a5cc3008.json)
+
+[Extended Data](ext_articles/a5cc3008.ext.json)
+
+---
+
+### To the attention of the exams
 
 *2025-09-19 18:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-364925) · `ta`
 
-2025 (2026) கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சைக்கான விண்ணப்பங்களை அக்டோபர் 9 ஆம் திகதி வரை ஆன்லைனில் சமர்ப்பிக்கலாம் என்று கல்வி அமைச்சு ஒரு அறிக்கையை வெளியிட்டுள்ளது.
+The Ministry of Education has issued a statement that applications for the GCE Ordinary Level Examination of 2025 (2026) can be submitted online until October 9.
 
-அனைத்துப் பாடசாலை விண்ணப்பதாரர்களும் தங்கள் பாடசாலை அதிபர்கள் மூலமாகவும், தனிப்பட்ட விண்ணப்பதாரர்கள் தங்கள் விண்ணப்பங்களை நேரில் சமர்ப்பிக்க வேண்டும்,
+All school applicants must submit their applicants in person through their school principals and individual applicants,
 
-மேலும் தனிப்பட்ட விண்ணப்பதாரர்கள் க.பொ.த. (O.L.) பரீட்சைக்கு விண்ணப்பிக்கும்போது தங்கள் தேசிய அடையாள அட்டையைப் பயன்படுத்த வேண்டும் என்று திணைக்களம் தெரிவித்துள்ளது.
+More Personal Applicants. The department said that when applying for the exam (O.L.), they should use their National Identity Card.
 
-தேசிய அடையாள அட்டை இல்லாத தனியார் விண்ணப்பதாரர்கள் தங்கள் பாதுகாவலரின் (தாய் அல்லது தந்தை) தேசிய அடையாள அட்டையைப் பயன்படுத்தி விண்ணப்பங்களைப் பதிவு செய்து சமர்ப்பிக்க வேண்டும் என்று திணைக்களம் தெரிவித்துள்ளது.
+Private applicants who do not have a national identity card should register and submit their applications using the National Identity Card of their guardian (mother or father).
 
-அவர்கள் இலங்கைப் பரீட்சைத் திணைக்களத்தின் அதிகாரப்பூர்வ வலைத்தளமான www.doenets.lk ese www.onlineexams.gov.lk/eic ஐப் பார்வையிட்டு, தொடர்புடைய வழிமுறைகளைப் படித்து, அதற்கேற்ப தங்கள் விண்ணப்பங்களைச் சரியாகச் சமர்ப்பிக்க வேண்டும்
+They must visit the official website of the Department of Examinations www.doenets.lk ese www.onlineexams.gov.lk/eic, read the relevant methods and submit their applications properly.
 
 ◼️
 
 [Data](articles/ffff29d1.json)
+
+[Extended Data](ext_articles/ffff29d1.ext.json)
 
 ---
 
@@ -77,6 +173,8 @@ However, the rating agency said it could lower the ratings on Sri Lanka “if we
 ...
 
 [Data](articles/5835394d.json)
+
+[Extended Data](ext_articles/5835394d.ext.json)
 
 ---
 
@@ -450,6 +548,28 @@ The Meteorology Department requests the people to take necessary steps to minimi
 
 ---
 
+### SLAF Intelligence Officer arrested with Gold biscuits
+
+*2025-09-19 15:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බුද්ධි-නිලධාරියා-රන්-බිස්කට්-සමග-කටුනායකදී-අත්අඩංගුවට/11-418610) · `si`
+
+A large number of gold biscuits was arrested by a SLAF Buddhist Assembly stock with a gold biscuit to leave the airport to protect the Katunayaka International Airport on 09/19.
+
+He is a 17-year-old corporal, a 37-year-old Sri Lankan Air Force.
+
+He took 40 gold biscuits at the Bandaranaike International Airport, while attempting to leave the Katunayake Airport Terminal at 2 o'clock on 09/19.
+
+There are also further investigations into the airport officers in the manuscript.
+
+The customs personnel had been arrested in their feet last week to leave the Katunayake airport over Rs.
+
+◼️
+
+[Data](articles/8c1bef21.json)
+
+[Extended Data](ext_articles/8c1bef21.ext.json)
+
+---
+
 ### Motorcycle - bus collision; One kills!
 
 *2025-09-19 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225507) · `ta`
@@ -581,6 +701,24 @@ In addition, the petition further requests the respondents to respond to the gui
 [Data](articles/6375d7dc.json)
 
 [Extended Data](ext_articles/6375d7dc.ext.json)
+
+---
+
+### India and Pakistan to fight on Monday
+
+*2025-09-19 15:34:30* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-හා-පාකිස්තානය-යළි-ලබන-21-දා-සටනට/9-418609) · `si`
+
+The round of the Superintendent of the Asian Kusalana, between India and Pakistan, between India and Pakistan, is scheduled to play in the Asian Kusalana Tournament between India and Pakistan.
+
+India and Pakistan are the second time that they meet each other in this tournament. India was criticized by the Indian players after the first match and after the match, the Indian players were abandoned from the field.
+
+The match between the Superstives of the Asia Cup, the match will be held tomorrow (20).
+
+◼️
+
+[Data](articles/4f068350.json)
+
+[Extended Data](ext_articles/4f068350.ext.json)
 
 ---
 
@@ -1945,125 +2083,5 @@ It is reported that Dunit Wellalake arrived at the Katunayake airport from Abu D
 [Data](articles/66e11abf.json)
 
 [Extended Data](ext_articles/66e11abf.ext.json)
-
----
-
-### Elephant baby rescue
-
-*2025-09-19 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225473) · `ta`
-
-An elephant, who was fighting for life in the Kantalai Suriyapura area, was recovered on Thursday evening after several hours of attempt.
-
-An elephant fell on Wednesday (17) in a cavity near the Kantalai - Suriyapura population pond.
-
-Subsequently, the elephant cub was given medical treatment by responsible authorities.
-
-◼️
-
-[Data](articles/92aeecbf.json)
-
-[Extended Data](ext_articles/92aeecbf.ext.json)
-
----
-
-### Young man killed from bus
-
-*2025-09-19 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225472) · `ta`
-
-A youth has died after falling off a bus on Urutipuram road, which belongs to the Kilinochchi police division.
-
-A young man who was traveling on a bus from Araviyar town to Urutipuram, loaded with garment factory staff and fell off the bus.
-
-◼️
-
-[Data](articles/a6e613a0.json)
-
-[Extended Data](ext_articles/a6e613a0.ext.json)
-
----
-
-### Diser visit to Sri Lanka
-
-*2025-09-19 09:53:11* · [`adalk`](https://www.ada.lk/sports/දුනිත්-ලංකාවට-පැමිණෙයි/9-418602) · `si`
-
-With his father's death, Sri Lankan cricketer Duti Welalage arrived at the Katunayake Airport on 09/19.
-
-He is from Audibi to Uthard Airline 08.25 am on 08.25 am on 08.25 am on 09/19. The flight held at 392 was arrived at the Katunayake airport.
-
-He was also present at the Sri Lanka Cricket of SLC with him and cleared from the airport.
-
-His father died due to a sudden illness while playing the match between Sri Lanka and the Afghanistan.
-
-◼️
-
-[Data](articles/ad311647.json)
-
-[Extended Data](ext_articles/ad311647.ext.json)
-
----
-
-### Remove books written in Afghanistan universities
-
-*2025-09-19 09:46:00* · [`adalk`](https://www.ada.lk/international/ඇෆ්ගනිස්ථානයේ-විශ්වවිද්‍යාලවලින්-ලේඛිකාවන්-ලියන-ලද-පොත්-ඉවත්-කරයි/3-418601) · `si`
-
-The Government of Afghanistan has decided to ban the books written by women in Afghanistan. They have also banned the teaching of human rights and sexual violence.
-
-About 680 books from university system are to be removed. International media reports that the majority of books written against Sharia anti-Sharia and Taliban.
-
-Universities said that universities no longer allowed to teach 18 subjects.
-
-After this order came to power four years, the Talibanites were a new series of limits.
-
-◼️
-
-[Data](articles/aa91ec99.json)
-
-[Extended Data](ext_articles/aa91ec99.ext.json)
-
----
-
-### Dunith Wellalage returns to Sri Lanka after father’s passing
-
-*2025-09-19 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112665/dunith-wellalage-returns-to-sri-lanka-after-fathers-passing) · `en`
-
-Sri Lankan all-rounder Dunith Wellalage has returned to the island this morning (19) following the sudden passing of his father, Suranga Wellalage.
-
-He returned from Abu Dhabi onboard Etihad Airways flight EY-392, which reached the Bandaranaike International Airport (BIA) in Katunayake, at 8:25 a.m. today, said Ada Derana reporter.
-
-Wellalage was accompanied by an official from Sri Lanka Cricket (SLC).
-
-Upon arrival, he was swiftly cleared through airport formalities and departed the premises immediately.
-
-Suranga Wellalage, a former cricketer himself, passed away on September 18 at the age of 54, reportedly due to a sudden heart attack.
-
-His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
-
-◼️
-
-[Data](articles/c62ccd3d.json)
-
-[Extended Data](ext_articles/c62ccd3d.ext.json)
-
----
-
-### Earthquake in Russia: Tsunami Warning!
-
-*2025-09-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225470) · `ta`
-
-International media reports that a 7.8 magnitude earthquake struck in Kamchatka in Russia.
-
-International media reports that the earthquake was felt in the city of Petropovlovsk-Kamsatsky, near the Kamchatka area of ​​Russia.
-
-The quake was reported at a depth of 10 km (6.21 miles), according to the US Geological Survey.
-
-Officials have confirmed that there is no risk of tsunami waves in Hawaii, Canada's Pacific coast and the US landscape.
-
-However, tsunami waves are still likely to occur on the coast of Russia near the center.
-
-◼️
-
-[Data](articles/1a4f8d28.json)
-
-[Extended Data](ext_articles/1a4f8d28.ext.json)
 
 ---

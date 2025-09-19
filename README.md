@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 14:56:47**
+As of **2025-09-19 15:20:27**
 
 ## Newspaper Stats
 
-*Scraped **76,940** Articles*
+*Scraped **76,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,74 +17,154 @@ islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,482
-adaderanalk | 9,933
-tamilmirrorlk | 11,568
+adaderanalk | 9,934
+tamilmirrorlk | 11,571
 virakesarilk | 12,508
-adaderanasinhalalk | 13,420
+adaderanasinhalalk | 13,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,616 (98.3%) of 76,940 articles have been extended.
+75,644 (98.3%) of 76,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### විදෙස් රැකියා පැමිණිලි විමර්ශනයට විශේෂ පොලිස් ඒකකයක්
+### රු.මි. 20ක රත්‍රං සමග ගුවන් හමුදා බුද්ධි නිලධාරියෙකු අත්අඩංගුවට
+
+*2025-09-19 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214757) · `si`
+
+රුපියල් මිලියන 20ක වටිනාකමින් යුත් රත්‍රං තොගයක් සමග ගුවන් හමුදා බුද්ධි අංශ සාමාජිකයෙක් ගුවන්තොටුපොළ රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ ගුවන් හමුදා කඳවුරට අනියුක්තව සේවය කළ ගුවන් හමුදා බුද්ධි අංශ සාමාජිකයෙකි.
+
+අදාළ සැකකරුවා ගුවන්තොටුපොළ රාජකාරී කරමින් සිටින අතරතුර මෙම රත්‍රං තොගය රහසිගතව ගුවන්තොටුපොළින් පිටතට රැගෙන යෑමට උත්සාහ කිරීමේදී මෙසේ රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ඔහු සන්තකයේ තිබී කැරට් 24 රන් බිස්කට් 40ක් රේගු නිලධාරීන් විසින් සොයා ගෙන ඇති අතර එහි මුළු බර ග්‍රෑම් 550ක් බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/e5f49615.json)
+
+---
+
+### Foreign citizen killed in Kanagarayankulam accident
+
+*2025-09-19 14:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனகராயன்குளம்-விபத்தில்-வெளிநாட்டு-பிரஜை-பலி/175-364922) · `ta`
+
+A German countryman was killed in an accident on Friday (19) in Kanakarayankulam area.
+
+Paravutti, who was traveling from Colombo to Jaffna in the Vavuniya Kanagarayankulam area, crashed into a bicycle.. In this, the person who was traveling in a bicycle has fallen down.
+
+The man who was traveling in a bicycle in the accident died on the spot.
+
+The accident occurred as he visited Germany and stayed in Kanagarayankulam area.
+
+The driver of Paravurthi in connection with the accident has been arrested by the Kanagarayankulam police and the police are conducting further investigations into the accident.
+
+◼️
+
+[Data](articles/979081c4.json)
+
+[Extended Data](ext_articles/979081c4.ext.json)
+
+---
+
+### King's side of the queen's side
+
+*2025-09-19 14:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜாவின்-பார்வை-ராணியின்-பக்கம்/175-364921) · `ta`
+
+◼️
+
+[Data](articles/8d2ca02d.json)
+
+[Extended Data](ext_articles/8d2ca02d.ext.json)
+
+---
+
+### Special police unit to investigate foreign employment complaints
 
 *2025-09-19 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214756) · `si`
 
-විදේශ රැකියා සම්බන්ධයෙන් ලැබෙන පැමිණිලිවලට කඩිනමින් විසඳුම් ලබාදීම සඳහා පොලිස් නිලධාරීන්ගෙන් සමන්විත විශේෂ විමර්ශන ඒකකයක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ප්‍රධාන කාර්යාලයේදි ආරම්භ කර ඇත.
+A special investigation unit has been established at the Head Office of the Sri Lanka Limited.
 
-ඊයේ (18) ආරම්භ වූ මෙම ඒකකය සඳහා ප්‍රධාන පොලිස් පරීක්ෂකයෙකුගෙන් සමන්විත පොලිස් නිලධාරීන් 16 දෙනෙකු අනුයුක්ත කර තිබේ.
+The unit commenced yesterday (18), 16 police officers have been attached to the unit.
 
-'විදේශ රැකියා නියාමන අධිකාරිය' යන පදනම සහිතව 1985 ස්ථාපිත කළ මෙම ආයතනයෙහි කාර්යය වන්නේ විදේශ රැකියා බලාපොරොත්තුවෙන් සිටින ජනතාවට ඔවුන්ගේ පැමිණිලිවලට සාර්ථක හා කඩිනමින් විසදුම් ලබාදීමය.
+Established in 1985, with the Foreign Employment Authority, "1985, the work of the foreign employment is to solve their complaints successfully and expeditiously.
 
-මෙම අවස්ථාවට සහභාගී වූ විදේශ කටයුතු හා විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා පැවසුවේ විදේශ රැකියා වංචාවන් වැළැක්වීම හා පැමිණිලි සඳහා කඩිනමින් විසදුම් ලබා දී විගමනික ප්‍රජාවට සහන සැලසීමේ අරමුණින් මෙම ඒකකය පිහිටුවන බවත් නව රජය බලයට පත්විමෙන් අනතුරුව කඩිනමින් මෙම ඒකකය ස්ථාපනය කිරිමට හැකි වූ බවත්ය.
+Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra said that the unit was established to provide relief to the migrant community with immediate solution to complaints and complaints.
 
 ...
 
 [Data](articles/2f723688.json)
 
+[Extended Data](ext_articles/2f723688.ext.json)
+
 ---
 
-### திலீபனின் நினைவு படத்தை அகற்றி பொலிஸார் அடாவடி
+### Dileepan's memorial image was removed by the police
 
 *2025-09-19 14:24:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திலீபனின்-நினைவு-படத்தை-அகற்றி-பொலிஸார்-அடாவடி/75-364920) · `ta`
 
-தியாக தீபம் திலீபனின் நினைவேந்தல் கடந்த நான்கு நாட்களாக திருக்கோணமலையில் இடம் பெற்று வந்த நிலையில் வெள்ளிக்கிழமை (19) காலை நினைவுப்படம் பொலிஸாரால் அகற்றப்பட்டுள்ளது.
+Dileepan's memorial has been removed by the police on Friday morning (19) after Dileepan's commemoration of Dileepan.
 
 தமிழ் தேசிய செயற்பாட்டாளர்களால் கடந்த திங்கட்கிழமை தொடக்கம் திலீபனின் நினைவு உருவப்படம் சிவன் கோயிலடியில் நிறுவப்பட்டு தொடர்ச்சியாக ஒவ்வொரு நாளும் மாலை 5.15 மணியளவில் நினைவேந்தல் நிகழ்வு மேற்கொள்ளப்பட்டு  வந்தது.
 
-இந்நிலையில்   திருகோணமலை பிரதான பொலிஸ் நிலைய பொலிஸ்அதிகாரிகளால் குறித்த நினைவு படத்தை முறையற்ற விதத்தில் அகற்றியுள்ளனர்.
+In this backdrop, the police officers of the Trincomalee main police station have improperly removed the memorial.
 
 ◼️
 
 [Data](articles/ddfd8503.json)
 
+[Extended Data](ext_articles/ddfd8503.ext.json)
+
 ---
 
-### යාපනයේ වායු දූෂණය සම්බන්ධයෙන් අධිකරණයෙන් නියෝගයක්
+### Court order on air pollution in Jaffna
 
 *2025-09-19 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214755) · `si`
 
-යාපනය ප්‍රදේශයේ වායු දූෂණය අවම කිරීමට ගතහැකි සියලුම පියවර ගන්නා ලෙස අභියාචනාධිකරණය අද (19) යාපනය මහ නගර සභාවට නියෝග කළේය.
+The Court of Appeal today (19) ordered the Jaffna Municipal Council to take all possible steps to minimize air pollution in Jaffna.
 
-යාපනය ප්‍රදේශයේ වෛද්‍යවරියක වූ උමා සුඛී නඩරාජා මෙනෙවිය විසින් ගොනුකොර තිබූ පෙතසමක් විභාගයට ගත් අවස්ථාවේදී මෙම නියෝගය ලබා දී ඇත.
+Uma Sukhi Nadaraja, a doctor in Jaffna, has been sent to a file to the examination.
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල මෙම නියෝගය නිකුත් කළේය.
+The judges of the Court of Appeal, Judge Rahantha Abeyariya and Priyantha Fernando were the case with Priyantha Fernando.
 
-පෙත්සම කැඳවූ අවස්ථාවේදී අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා විසින් වගඋත්තරකරුවන් වෙනුවෙන් පෙනීසිටි නීතිඥවරු අමතමින්, යාපනය ප්‍රදේශයේ වායු දූෂණය අවම කිරීම සම්බන්ධයෙන් පරිසර පනත්වල විධිවිධාන අනුව කටයුතු කර තිබෙනවාදැයි විමසා තිබේ.
+When the petition was called, the President's Court, Chairman of the Court of Appeal, has asked the lawyers in Jaffna regarding the provisions of the Environment Act.
 
-ඒ අනුව අණ පනත්වල සඳහන් විධිවිධානයන්ට අනුව යාපනයේ පරිසර දූෂණය වැළැක්වීමට කටයුතු  කිරීමට පියවර ගන්නා ලෙස විනිසුරු මඩුල්ල විසින් යාපනය මහනගර සභාවට දැනුම් දී ඇත.
+Accordingly, the judge has informed Jaffna Municipal Court to take action to prevent the prevention of pollution in Jaffna according to the provisions of the Level.
 
-ඊට අවශ්‍ය සහයෝගය මධ්‍යම පරිසර අධිකාරිය විසින් ලබාදිය යුතු බවද සභාපති විනිසුරුවරයා දැනුම් දී තිබේ.
+The Central Environmental Authority (SLAF) has instructed the CEA.
+
+The petition has filed the petition by the relevant doctor asking for gases and ordered the respondents to prevent the respondents in Jaffna.
+
+◼️
+
+[Data](articles/6cd3b736.json)
+
+[Extended Data](ext_articles/6cd3b736.ext.json)
+
+---
+
+### Appeals Court orders Jaffna MC to take measures against air pollution
+
+*2025-09-19 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112677/appeals-court-orders-jaffna-mc-to-take-measures-against-air-pollution) · `en`
+
+The Court of Appeal today ordered the Jaffna Municipal Council to take all necessary steps to reduce air pollution in the Jaffna area.
+
+The order was delivered by a bench comprising Justice Rohantha Abeysuriya, President of the Court of Appeal, and Justice Priyantha Fernando, when a petition filed by Dr. Uma Sukhi Nadarajah, a medical practitioner in Jaffna, was taken up for hearing.
+
+During proceedings, the President of the Court of Appeal questioned the lawyers representing the respondents on whether action had been taken under the provisions of the Environmental Acts to address air pollution in the region, said Ada Derana reporter.
+
+The bench directed the Jaffna Municipal Council to implement preventive measures in accordance with the law and further noted that the Central Environmental Authority (CEA) should extend the necessary support to ensure compliance.
 
 ...
 
-[Data](articles/6cd3b736.json)
+[Data](articles/63e37b6c.json)
+
+[Extended Data](ext_articles/63e37b6c.ext.json)
 
 ---
 
@@ -166,19 +246,21 @@ Special Investigation Unit of Police Officers at the Headquarters of the Sri Lan
 
 ---
 
-### අලි රොෂාන්ට වසර 15ක බරපතල වැඩ සහිත සිර දඩුවම්
+### Ali Rooson sentenced to 15 years of serious work
 
 *2025-09-19 13:48:25* · [`adalk`](https://www.ada.lk/breaking_news/අලි-රොෂාන්ට-වසර-15ක-බරපතල-වැඩ-සහිත-සිර-දඩුවම්/11-418605) · `si`
 
-බලපත්‍ර නොමැතිව අලියෙකු සන්තකයේ තබා ගැනීමේ චෝදනා දෙකකට වරදකරු වූ නිරාජ් රොෂාන් හෙවත් අලි රොෂාන් නමැත්තා බරපතළ වැඩසහිත වසර 15ක සිරදඬුවම් පැනවීය.
+Nirj Roshan, Ali Roshan, was convicted of two allegations without licenses, imposed 15 years in prison.
 
-ඒ එම නඩුව කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල හමුවේ කැඳවූ අවස්ථාවේදීය. එසේම විත්තිකරුට රුපියල් ලක්ෂ 206ක දඩයක්ද නියම කෙරුණි. අලියා රාජසන්තක කිරීමට ද නියම කළේය.
+The case was taken up with the three-member High Court Judge. Also, the accused was fined Rs 206 lakhs. The elephant was also condemned to confuse.
 
-මෙම සිද්ධියට අදාළව චෝදනා ලබා සිටි තවත් විත්තිකරුවන් තුන් දෙනෙකු නිදොස් කොට නිදහස් කිරීමට ද විනිසුරු මඩුල්ල නියම කළහ.
+Three other defendants accused of the incident have been acquitted to acquit and release them.
 
 ◼️
 
 [Data](articles/3842ef03.json)
+
+[Extended Data](ext_articles/3842ef03.ext.json)
 
 ---
 
@@ -197,6 +279,8 @@ The meeting, convened under the purview of the Ministry of Transport, Highways, 
 ◼️
 
 [Data](articles/f4da4a69.json)
+
+[Extended Data](ext_articles/f4da4a69.ext.json)
 
 ---
 
@@ -313,6 +397,8 @@ Posing as Tennakoon Arachchige Manodya Lakmini Tennakoon using a forged NIC
 ...
 
 [Data](articles/a3bf809d.json)
+
+[Extended Data](ext_articles/a3bf809d.ext.json)
 
 ---
 
@@ -461,6 +547,24 @@ During further investigations, fake Rs.. Police said that a suspect who printed 
 [Data](articles/094e447f.json)
 
 [Extended Data](ext_articles/094e447f.ext.json)
+
+---
+
+### ”நாணயத் தாள்கள் குறித்து அவதானமாக இருக்கவும்”
+
+*2025-09-19 12:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாணயத்-தாள்கள்-குறித்து-அவதானமாக-இருக்கவும்/175-364912) · `ta`
+
+பொருட்களை வாங்கும் போதும், பணத்தை கையாளும் போது அப்பணத்தாள்  போலியானதா? என்பதை சரிபார்க்குமாறும்  பல்வேறு பரிவர்த்தனைகளுக்கு பணத்தைப் பயன்படுத்தும் போதும் கவனமாகவும் இருக்குமாறும்  பொதுமக்களுக்கு பொலிஸார் அறிவுறுத்துகிறது.
+
+பணம் போலித்தனமானது அல்ல என்பதைச் சரிபார்த்த பின்னரே, பணத்தைப் பயன்படுத்தவும், அத்தகைய போலி நாணயத்தாள்களை   வைத்திருப்பவர்கள் அல்லது கையாளுபவர்கள் பற்றிய தகவல் கிடைத்தவுடன் உடனடியாக இலங்கை பொலிஸாருக்கு தெரிவிக்கவும் என்றும் பொலிஸ் அறிவுறுத்துகிறது.
+
+இதற்கிடையில், ஹபரானா நகரில், தலா இரண்டு போலி ரூ. 5000 தாள்களை  வைத்திருந்த மேலும் இரண்டு பேர் வியாழக்கிழமை (18) மாலை கைது செய்யப்பட்டனர்.
+
+மேலும் விசாரணைகளின் போது, ​​போலி ரூ. 5000 நாணயத்தாள்களை அச்சிட்ட ஒரு சந்தேக நபரும், அத்தகைய 138 நாணயத்தாள்கள் மற்றும் அச்சிடப் பயன்படுத்தப்பட்ட உபகரணங்களும் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/964b0259.json)
 
 ---
 
@@ -1911,95 +2015,5 @@ The collaboration is part of the EU–Sri Lanka Matchmaking Program, delivered w
 [Data](articles/6e1e76b1.json)
 
 [Extended Data](ext_articles/6e1e76b1.ext.json)
-
----
-
-### Hayleys Fentons’ Managing Director honoured at inaugural CPM Management Leadership Excellence Awards 2025
-
-*2025-09-19 05:45:50* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-Managing-Director-honoured-at-inaugural-CPM-Management-Leadership-Excellence-Awards-2025/34-781884) · `en`
-
-Hasith Prematillake – Executive Director level Winner across Power and Energy (Renewable); Construction, Condominium and Real Estate; Project and Engineering; and First Runner-Up in Sustainability and Circular Economy
-
-Hayleys Fentons Ltd. Managing Director Hasith Prematillake, received four exemplary recognitions at the inaugural CPM Management Leadership Excellence (MLE) Awards 2025.
-
-Organised by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka), the Awards honoured Sri Lanka’s most outstanding leaders who demonstrate “vision, resilience and excellence in management practices.”
-
-...
-
-[Data](articles/cec84963.json)
-
-[Extended Data](ext_articles/cec84963.ext.json)
-
----
-
-### McLarens Group and 3M celebrate partnerships and innovation at Partner Event 2025
-
-*2025-09-19 05:44:25* · [`dailyftlk`](https://www.ft.lk/business/McLarens-Group-and-3M-celebrate-partnerships-and-innovation-at-Partner-Event-2025/34-781883) · `en`
-
-3M-McLarens hosted its flagship event on 3 September at Cinnamon Life, Colombo. Held under the theme “Powering Performance through Innovation, Celebrating Partnerships,” the premium evening brought together top customers, C-level executives, industry stakeholders, and 3M-McLarens leadership to celebrate valued partnerships and explore the future of collaborative innovation in Sri Lanka.
-
-The event celebrated 3M-McLarens’ most loyal customers for their continued trust and contributions, while also recognising the six-year collaboration between 3M and the McLarens Group. This partnership has enabled world-class innovations to reach Sri Lankan businesses across key sectors — including construction, automotive, consumer goods, and industrial solutions — delivering long-term impact and real-world applications.
-
-...
-
-[Data](articles/8eb7f248.json)
-
-[Extended Data](ext_articles/8eb7f248.ext.json)
-
----
-
-### CEB unions escalate protest, disrupts traffic
-
-*2025-09-19 05:42:35* · [`dailyftlk`](https://www.ft.lk/news/CEB-unions-escalate-protest-disrupts-traffic/56-781882) · `en`
-
-The All Employees’ Union of the Ceylon Electricity Board staged a protest outside its headquarters causing heavy traffic congestion along Sir Chittampalam A. Gardiner Mawatha in Colombo yesterday – Pic by Pradeep Pathirana
-
-Heavy traffic congestion was reported along Sir Chittampalam A. Gardiner Mawatha in Colombo yesterday, after Ceylon Electricity Board (CEB) workers staged a demonstration opposite the CEB headquarters. The protest, which blocked one lane between the Lake House roundabout and Slave Island, disrupted evening traffic and forced police to advise motorists to take alternate routes.
-
-The demonstration was part of an escalating trade union campaign against the Government’s plan to restructure the CEB into four entities. Large numbers of workers carrying placards gathered outside the CEB Head Office, shouting slogans and obstructing traffic for several hours.
-
-...
-
-[Data](articles/e3f4b2bc.json)
-
-[Extended Data](ext_articles/e3f4b2bc.ext.json)
-
----
-
-### AASL amends restrictions imposed on visitor entry at BIA
-
-*2025-09-19 05:41:29* · [`dailyftlk`](https://www.ft.lk/news/AASL-amends-restrictions-imposed-on-visitor-entry-at-BIA/56-781881) · `en`
-
-The Airport and Aviation Services (Sri Lanka) Ltd. (AASL) yesterday announced that the restriction on the entry to the Departure Lobby at Bandaranaike International Airport (BIA) for visitors during peak hours has been amended.
-
-Accordingly, the restriction on visitors to the Departure Lobby will only apply on Thursdays and Saturdays from 10.00 p.m. to midnight.
-
-On 18 August, the AASL announced that that, with immediate effect, visitors will not be permitted to enter the Departure Lobby between 10 p.m. and midnight on Thursdays, Fridays, and Saturdays (https://www.ft.lk/front-page/BIA-restricts-visitor-access-during-peak-hours-to-ease-congestion/44-780521). The measure was introduced to ease congestion and ensure smoother operations for passengers and airport users.
-
-◼️
-
-[Data](articles/ed357a5a.json)
-
-[Extended Data](ext_articles/ed357a5a.ext.json)
-
----
-
-### MPs explore UK support to boost youth, women political participation
-
-*2025-09-19 05:41:06* · [`dailyftlk`](https://www.ft.lk/news/MPs-explore-UK-support-to-boost-youth-women-political-participation/56-781880) · `en`
-
-Prime Minister Dr. Harini Amarasuriya (left) and Women and Child Affairs Minister Saroja Savithri Paulraj
-
-The Parliament Secretariat yesterday said Women Parliamentarians’ Caucus has held discussions with representatives of the Westminster Foundation for Democracy (WFD) and the Law and Society Trust (LST) on potential areas of support and ways to encourage greater political participation by young women.
-
-The meeting was attended by Prime Minister Dr. Harini Amarasuriya and Caucus Chairperson and Women and Child Affairs Minister Saroja Savitri Paulraj and focused on gender-sensitive governance and intergenerational dialogue.
-
-WFD representatives proposed support for introducing gender-sensitive law-making and gender-responsive budgeting, strengthening the Caucus’s role in increasing women’s labour force participation, and providing research and policy input to make Parliament more gender-sensitive.
-
-...
-
-[Data](articles/4e70ab55.json)
-
-[Extended Data](ext_articles/4e70ab55.ext.json)
 
 ---

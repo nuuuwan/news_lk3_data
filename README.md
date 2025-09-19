@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 09:23:07**
+As of **2025-09-19 09:12:51**
 
 ## Newspaper Stats
 
-*Scraped **76,870** Articles*
+*Scraped **76,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,473
-adaderanalk | 9,919
+adaderanalk | 9,918
 tamilmirrorlk | 11,547
 virakesarilk | 12,498
 adaderanasinhalalk | 13,405
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,272 (97.9%) of 76,870 articles have been extended.
+75,272 (97.9%) of 76,869 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,17 +70,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-19 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214740) · `si`
 
-උඩුදුම්බර, දඹගහපිටිය හපුදණ්ඩුවල ප්‍රදේශයේ දී මවක් තම දරු තිදෙනාට වස පානය කිරීමට සලස්වා ඇයද වස පානය කර ඇති බව වාර්තා වේ.
+උඩුදුම්බර, දඹගහපිටිය හපුදණ්ඩුවල ප්‍රදේශයේ දී මවක් සිය දරු තිදෙනාට වස පානය කිරීමට සලස්වා ඇයද වස පානය කර ඇති බව වාර්තා වේ.
 
-මේ වනවිට එම මව ජීවිතක්ෂයට පත්ව ඇති අතර, දරු තිදෙනා නිරුපද්දිතව උඩුදුම්බර ප්‍රාදේශීය රෝහලේ ප්‍රතිකාර ලබන බව පොලීසිය පැවසීය.
+ඇගේ සැමියා මීට දින දෙකකට පමණ මියගොස් ඇති අතර, 34 හැවිරිදි වියේ පසු වූ ඔහු ලියුකේමියා රෝගය හේතුවෙන් එලෙස මියගොස් ඇත.
 
-මෙලෙස මියගොස් ඇත්තේ 32 හැවිරිදි කාන්තාවක් වන අතර, ඇය මානසික ආබාධයක් හේතුවෙන් ප්‍රතිකාර ලබමින් සිටි බව සඳහන්.
+වයස අවුරුදු 12, 10 හා 5 වයස්වල පසු වූ දරු තිදෙනාද (පිරිමි දරුවන්) ලියුකේමියා රෝගයෙන් පීඩා විඳින බව සඳහන්.
 
-ඇගේ සැමියා මීට දින දෙකකට පමණ මියගොස් ඇති අතර, 34 හැවිරිදි වියේ පසු වූ ඔහු ලියුකේමියා රෝගය පීඩාවිඳිමින් සිටියදී  එලෙස මියගොස් ඇත.
-
-එමෙන්ම වයස අවුරුදු 12, 10 හා 5 වයස්වල පසු වූ දරු තිදෙනා පිරිමි දරුවන් වන අතර, ඔවුන්ට ලියුකේමියා රෝගයෙන් පීඩා විඳින බව සඳහන්.
-
-මෙහිදී පොලීසිය සඳහන්කර සිටියේ මෙම පවුලේ සුබසාදන කටයුතු වෙනුවෙන් පොලීසිය ඉතා සමීපව කටයුතු කරමින් සිටි බවය.
+එමෙන්ම මියගිය කාන්තාවද මානසික ආබාධයක් හේතුවෙන් ප්‍රතිකාර ලබමින් සිටි බව වාර්තා වේ.
 
 ◼️
 
@@ -101,26 +97,6 @@ The buildings in the area were shaken by this earthquake. Tsunami warning has a
 [Data](articles/fa0c5f79.json)
 
 [Extended Data](ext_articles/fa0c5f79.ext.json)
-
----
-
-### US again vetoes UN Security Council Gaza ceasefire call
-
-*2025-09-19 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112660/us-again-vetoes-un-security-council-gaza-ceasefire-call) · `en`
-
-The United States on Thursday (Sep 18) again wielded its veto and thwarted a UN Security Council call for a ceasefire in Gaza, shielding its ally Israel from meaningful diplomatic pressure.
-
-The 14 other members of the Council backed the resolution, initiated in August in response to the UN’s official declaration of famine after nearly two years of Israel’s war on Hamas in the Palestinian territory.
-
-The vote came as Israeli tanks and jets pounded Gaza City, the target of a major new ground offensive, forcing Palestinians to flee south.
-
-The resolution text seen by AFP had demanded “an immediate, unconditional and permanent ceasefire in Gaza respected by all parties” as well as the immediate and unconditional release of hostages.
-
-The US has repeatedly rejected that approach multiple times, most recently in June when it used its veto to back Israel.
-
-...
-
-[Data](articles/14df9c69.json)
 
 ---
 
@@ -2031,5 +2007,21 @@ The Sri Lankan police calls on the public to use the banknotes and informed the 
 [Data](articles/d479f3f3.json)
 
 [Extended Data](ext_articles/d479f3f3.ext.json)
+
+---
+
+### CID arrested for former Navy Intelligence
+
+*2025-09-18 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214718) · `si`
+
+A former Sri Lanka Navy's chief has been arrested this afternoon.
+
+Police Media Spokesperson, Assist Superintendent of Police. !. Mr. Wootsler said the arrest was made by the CID.
+
+◼️
+
+[Data](articles/61cff73f.json)
+
+[Extended Data](ext_articles/61cff73f.ext.json)
 
 ---

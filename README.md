@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 00:11:30**
+As of **2025-09-20 00:36:44**
 
 ## Newspaper Stats
 
-*Scraped **76,999** Articles*
+*Scraped **77,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,258 @@ colombotelegraphcom | 775
 economynextcom | 4,660
 islandlk | 4,726
 dailymirrorlk | 4,733
-dailyftlk | 5,470
+dailyftlk | 5,484
 adalk | 7,489
-adaderanalk | 9,943
+adaderanalk | 9,946
 tamilmirrorlk | 11,577
-virakesarilk | 12,515
+virakesarilk | 12,516
 adaderanasinhalalk | 13,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,069 (98.8%) of 76,999 articles have been extended.
+76,088 (98.8%) of 77,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
+
+### Sri Lanka, Ukraine discuss strengthening bilateral ties
+
+*2025-09-19 23:57:22* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Ukraine-discuss-strengthening-bilateral-ties/56-781955) · `en`
+
+The Ministry of Foreign Affairs said yesterday that Foreign Affairs and Foreign Employment Deputy Minister Arun Hemachandra held a telephone discussion on 18 September with his Ukrainian counterpart, Foreign Affairs Deputy Minister and National Commission for UNESCO Head Mariana Betsa.
+
+The Ministry said both officials reviewed cooperation between the two countries in bilateral and multilateral forums, noting recent reciprocal support extended toward each other’s candidatures to United Nations bodies.
+
+According to the statement, Hemachandra briefed Betsa on recent developments in Sri Lanka and conveyed the Government’s interest in deepening relations with Ukraine.
+
+The conversation also covered opportunities for further collaboration in areas of mutual interest, reflecting the shared commitment to strengthening ties, the Ministry added.
+
+◼️
+
+[Data](articles/d7bb44de.json)
+
+---
+
+### Elephant trafficker gets 15-year jail term, fined Rs. 20 m
+
+*2025-09-19 23:55:47* · [`dailyftlk`](https://www.ft.lk/news/Elephant-trafficker-gets-15-year-jail-term-fined-Rs-20-m/56-781954) · `en`
+
+The Colombo High Court yesterday sentenced Niraj Roshan, better known as “Ali Roshan,” to 15 years of rigorous imprisonment and imposed a fine of Rs. 20.6 million after convicting him of keeping five elephants without valid permits.
+
+Prosecutors said that between July 2009 and August 2015, in several locations including Maharagama, Arawwala, Nawala, Battaramulla, and Oruwala, Roshan and others conspired to traffic elephants and possessed animals known to have been stolen.
+
+The Attorney General filed 33 indictments under the Code of Criminal Procedure Act and the Public Property Act in connection with the case.
+
+Roshan was found guilty of falsifying the elephant registry of the Department of Wildlife Conservation and unlawfully holding the animals in his custody.
+
+Three others indicted in the case, Uchitha Nishantha Dammika, Palihepitiya Gamage Jayalath, and Paskuwel Fonseka Priyanga Sanjeewani, were acquitted.
+
+◼️
+
+[Data](articles/ec487ec5.json)
+
+---
+
+### Sajith seeks time to file assets in digital format
+
+*2025-09-19 23:55:00* · [`dailyftlk`](https://www.ft.lk/news/Sajith-seeks-time-to-file-assets-in-digital-format/56-781953) · `en`
+
+Opposition Leader Sajith Premadasa has written to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) requesting additional time to submit his assets and liabilities declaration in digital form.
+
+Samagi Jana Balawegaya Gampaha District Organiser Waruna Deepatha Rajapaksa told reporters that Premadasa had already lodged his assets and liabilities statement with the Secretary General of Parliament on 23 April. The Secretary General Kushani Rohanadeera, subsequently forwarded the documents to CIABOC.
+
+According to Rajapaksa, the Commission later asked that the declaration be resubmitted in digital format so it could be published on its website. In response, Premadasa sent a letter on 10 September seeking time to provide the information electronically.
+
+“Premadasa will declare his assets and liabilities in a digital format before long,” Rajapaksa said.
+
+◼️
+
+[Data](articles/6a392d55.json)
+
+---
+
+### Suspects arrested over killing of activist Dan Priyasad
+
+*2025-09-19 23:53:45* · [`dailyftlk`](https://www.ft.lk/news/Suspects-arrested-over-killing-of-activist-Dan-Priyasad/56-781952) · `en`
+
+Police have arrested the alleged gunman linked to the fatal shooting of activist Dan Priyasad, along with two others.
+
+The arrests were made at a rented house in Ranwala, where officers also recovered 12,400 sticks of cigarettes, five elephant pearls, and quantities of narcotics.
+
+Priyasad, who led the “Nawa Sinhale National Movement,” was shot dead at the Laksanda Sevana Housing Complex in Wellampitiya on 22 April.
+
+The suspects, aged between 39 and 55, are from Kegalle and Welioya. Investigators said one of them, believed to be a former soldier who had not been legally discharged, is suspected of carrying out the killing and of involvement in a separate shooting attempt in Mahabage last year.
+
+◼️
+
+[Data](articles/bb014e71.json)
+
+---
+
+### South Asia Policy and Research Institute holds first of youth-led series of dialogues
+
+*2025-09-19 23:53:38* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-Policy-and-Research-Institute-holds-first-of-youth-led-series-of-dialogues/56-781951) · `en`
+
+“Sri Lanka’s economic future: What role can you play in driving reforms?” was the timely and thought-provoking theme of the first discussion in a six-part youth-led series launched by the South Asia Policy and Research Institute (SAPRI) to mark its 15th anniversary.
+
+The series, held under the banner “Policy Pulse: Youth Voices for South Asia”, seeks to build policy literacy, sharpen analytical thinking, and deepen civic engagement among young Sri Lankans.
+
+The inaugural session, held on 19 September at SAPRI’s Colombo 5 office, was well attended, with students from private universities—including IIT, APIIT, and NSBM—and professionals from the advertising field, education sector, and the press.
+
+...
+
+[Data](articles/9f05c931.json)
+
+[Extended Data](ext_articles/9f05c931.ext.json)
+
+---
+
+### CEB unions launch ‘critical’ protest campaign phase this Sunday
+
+*2025-09-19 23:53:24* · [`dailyftlk`](https://www.ft.lk/news/CEB-unions-launch-critical-protest-campaign-phase-this-Sunday/56-781950) · `en`
+
+The Ceylon Electricity Board (CEB) trade unions are set to begin the third stage of their industrial action against the proposed restructuring of the utility from midnight tomorrow, to run until 24 September.
+
+Union leaders described the forthcoming phase as critical, saying its outcome will shape the direction of future protests and have implications for the energy sector.
+
+The decision was announced by CEB Technicians’ Association Chairman Kosala Abeysinghe.
+
+He said the move comes in response to what unions describe as the Government’s refusal to address their concerns.
+
+“We have warned this Government to listen. This is a response to the arrogance of the Minister and the Director General in particular. But if the President continues to respond in the same way, we will be compelled to escalate matters further,” Abeysinghe said.
+
+The union campaign started on 4 September with a work-to-rule action, followed by a sick-leave protest on 17 and 18 September.
+
+...
+
+[Data](articles/d8182ba8.json)
+
+---
+
+### President champions export-oriented growth at Industry Expo 2025
+
+*2025-09-19 23:52:28* · [`dailyftlk`](https://www.ft.lk/business/President-champions-export-oriented-growth-at-Industry-Expo-2025/34-781949) · `en`
+
+President Anura Kumara Disanayake yesterday underscored the Government’s drive to transform Sri Lanka into an export-oriented production economy, as he inaugurated the Industry Expo 2025 exhibition at the Bandaranaike Memorial International Conference Hall (BMICH).
+
+Organised by the Industry and Entrepreneurship Development Ministry in collaboration with the Industrial Development Board (IDB), the four-day event running from 18 to 21 September has brought together over 450 exhibitors across 25 industrial sectors, showcasing the breadth of the country’s industrial base and its potential to scale globally.
+
+The President toured the exhibition, engaging directly with entrepreneurs and industrialists and reaffirmed the Government’s support for strengthening the role of industry in national growth. Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe also joined the occasion.
+
+...
+
+[Data](articles/3878b108.json)
+
+---
+
+### Venture Engine workshops equip start-ups with critical skills for global growth
+
+*2025-09-19 23:49:31* · [`dailyftlk`](https://www.ft.lk/business/Venture-Engine-workshops-equip-start-ups-with-critical-skills-for-global-growth/34-781948) · `en`
+
+Sri Lanka’s leading start-up acceleration program continues to strengthen founders through expert-led guidance
+
+Venture Engine, the country’s foremost start-up acceleration program, recently concluded a series of specialised workshops designed to equip its participants with essential skills to secure investment and scale globally. This year’s sessions brought together leading professionals from across industries, offering entrepreneurs direct access to practical insights and expertise at no cost.
+
+...
+
+[Data](articles/24ed47a1.json)
+
+---
+
+### HNB empowers youth to drive digital finance at Finnovation Lab 2025
+
+*2025-09-19 23:49:18* · [`dailyftlk`](https://www.ft.lk/business/HNB-empowers-youth-to-drive-digital-finance-at-Finnovation-Lab-2025/34-781947) · `en`
+
+Students from over 45 universities and institutes across Sri Lanka who participated in Finnovation Lab 2025 at HNB Towers
+
+HNB MD/CEO Damith Pallewatte, addressing the gathering at Finnovation Lab 2025
+
+HNB PLC showcased its leadership in digital innovation and youth empowerment by hosting Finnovation Lab 2025 on 2 September at HNB Towers. The event brought together over 150 students from 45+ universities and institutes across Sri Lanka for a dynamic day of learning, dialogue, and hands-on exposure to the rapidly evolving fintech landscape.
+
+Organised by the Sri Lanka FinTech Summit 2025 in partnership with HNB PLC, the Ministry of Digital Economy, the Ministry of Finance, and the Sri Lanka FinTech Forum, the initiative was designed to prepare undergraduates with the knowledge, tools, and opportunities they need to thrive in the digital economy.
+
+...
+
+[Data](articles/df5518a5.json)
+
+---
+
+### Megakem Engineering hosts geotechnical solutions seminar
+
+*2025-09-19 23:47:29* · [`dailyftlk`](https://www.ft.lk/business/Megakem-Engineering-hosts-geotechnical-solutions-seminar/34-781946) · `en`
+
+Megakem Engineering Ltd., a leading provider of construction chemical and engineering solutions, hosted the Geotechnical Solutions Seminar 2025 on 4 September at Monarch Imperial, Sri Jayawardenapura Kotte.
+
+The event reinforced Megakem’s role as a trusted knowledge-sharing partner in Sri Lanka’s construction and infrastructure industry. The seminar brought together a distinguished audience of representatives from Government institutions, top contractors, leading consultants, and academic bodies, creating a platform for meaningful dialogue on the future of geotechnical applications in the country.
+
+...
+
+[Data](articles/0dc8c010.json)
+
+---
+
+### Tribute to Rajiv Perera on 60th birthday
+
+*2025-09-19 23:29:47* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Rajiv-Perera-on-60th-birthday/4-781937) · `en`
+
+In life we meet many people, most of whom hardly leave a trace of their passing. Some, very few in fact, leave a mark so deep that no passage of time can erase it. For me, at the very top of that list is Rajiv Perera.
+
+I knew of Rajiv at school – St. Thomas’, Mount Lavinia – where he was a few years senior to me. A fine sportsman, he played rugby for S. Thomas’, CH & FC, and Sri Lanka. On the field he was fearless yet always a gentleman, respected by teammates and opponents alike. That same spirit carried into the rest of his life, competitive when it mattered, but always fair, always gracious.
+
+But I only really got to know him when I went to the UK for my higher studies, about 35 years ago. This was around the time that John Major had replaced the Iron Lady, Margaret Thatcher, and was just settling in as Prime Minister. I knew only a few people in London. It was through the Thomian network that I met Rajiv. We clicked immediately.
+
+...
+
+[Data](articles/e7411991.json)
+
+---
+
+### Similarities and differences of three recent uprisings in South Asia: Lesson for democracies
+
+*2025-09-19 23:26:58* · [`dailyftlk`](https://www.ft.lk/columns/Similarities-and-differences-of-three-recent-uprisings-in-South-Asia-Lesson-for-democracies/4-781935) · `en`
+
+Taken together, these uprisings demonstrate both the resilience and the fragility of democracy in South Asia. They remind us that popular sovereignty is not exercised only at the ballot box but also in the streets when institutions falter. Repression corrodes legitimacy, while timely engagement can transform dissent into democratic renewal. For democracies everywhere, the lesson is clear: listen to citizens before the street becomes the only forum for dialogue
+
+South Asia is living through an era of popular uprisings that has reshaped the political vocabulary of the region. In Colombo, Dhaka and Kathmandu, ordinary citizens—many of them strikingly young—have turned public squares into stages for democratic confrontation. These movements differ in their national contexts and immediate triggers, yet together they illuminate how people power can both rescue and test democratic institutions.
+
+...
+
+[Data](articles/984139e5.json)
+
+---
+
+### இலங்கையின் மூன்றாவது செயற்கைக்கோள் வெற்றிகரமாக சுற்றுப்பாதையில் நிலைநிறுத்தப்பட்டது
+
+*2025-09-19 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225550) · `ta`
+
+அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சகத்தின் கீழ் உள்ள ஆர்தர் சி. கிளார்க் மேம்பட்ட தொழில்நுட்ப நிறுவனத்தின் கீழ் இலங்கை பொறியியல் தொழில்நுட்பத் துறையால் உருவாக்கப்பட்ட "BIRDS-X DRAGONFLY" செயற்கைக்கோள், வெள்ளிக்கிழமை (19) பிற்பகல் 2.15 மணிக்கு சர்வதேச விண்வெளி நிலையத்திலிருந்து (ISS) வெற்றிகரமாக ஏவப்பட்டது.
+
+இந்த செயற்கைக்கோள் ஆகஸ்ட் 24 அன்று நாசாவால் ஏவப்பட்ட "SPX33" ராக்கெட்டில் சர்வதேச விண்வெளி நிலையத்திற்கு (ISS) ஏவப்பட்டது. "BIRDS-X DRAGONFLY" விண்கலத்தின் மறு சுற்றுப்பாதை ஆர்தர் சி. கிளார்க் மேம்பட்ட தொழில்நுட்ப நிறுவனத்தில் நேரடியாக ஒளிபரப்பப்பட்டது, மேலும் இந்த நிகழ்வின் முதன்மை விருந்தினராக அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர்   மொஹமட்  நவி கலந்து கொண்டார்.
+
+...
+
+[Data](articles/6fbee0bc.json)
+
+---
+
+### China’s entry into SAARC: Gateway to South Asian prosperity
+
+*2025-09-19 23:24:46* · [`dailyftlk`](https://www.ft.lk/columns/China-s-entry-into-SAARC-Gateway-to-South-Asian-prosperity/4-781934) · `en`
+
+A SAARC revitalised by Chinese membership would cease to be a peripheral talking shop and become a formidable actor on the world stage
+
+“China as a full member of SAARC? At first, the idea may sound bold, even strange. But it could be the spark the region needs to move forward. For years, SAARC has carried a huge promise; a platform to connect markets, people, and ideas across South Asia. Yet political tensions have often slowed its progress. Bringing China into the fold could give SAARC fresh energy, new opportunities, and a stronger voice in the world.”
+
+China’s entry could change that. With its huge economy, global influence, and experience in building connections, China can inject new life into SAARC. It could open bigger trade opportunities, boost regional projects, and make SAARC more visible on the world stage.
+
+...
+
+[Data](articles/7fec49cc.json)
+
+---
 
 ### Tunit Vellalale to go back to Tubai
 
@@ -43,6 +279,62 @@ Sri Lanka Cricket has announced that it will travel to Dubai tonight, Dunit Vell
 [Data](articles/a2950214.json)
 
 [Extended Data](ext_articles/a2950214.ext.json)
+
+---
+
+### Response to Mahinda Rajapaksa: It is  not personal revenge or political terrorism
+
+*2025-09-19 23:22:45* · [`dailyftlk`](https://www.ft.lk/columns/Response-to-Mahinda-Rajapaksa-It-is-not-personal-revenge-or-political-terrorism/4-781933) · `en`
+
+Leaders like Mahinda Rajapaksa created dependency networks, protected corruption, and prioritised personal luxury over public good
+
+The Government has now revealed that between 2017 and mid-2025, Rs. 491.2 million was spent on the upkeep of former presidents and their widows. Of this staggering sum, Mahinda Rajapaksa’s share alone was approximately Rs. 231 million—nearly half the total. His list of privileges reads like a manual of extravagance: 111 staff members, including nine medical personnel, eight drivers, five mechanics, 16 chefs, 26 electricians, and even a dog handler. The residence he occupied had a rental value of more than Rs. 4.6 million a month. Just imagine! Many people and families live without proper shelter, a harsh reality on the ground
+
+...
+
+[Data](articles/c7abea2e.json)
+
+---
+
+### Trump and Xi make progress on TikTok deal, plan to meet in South Korea
+
+*2025-09-19 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112689/trump-and-xi-make-progress-on-tiktok-deal-plan-to-meet-in-south-korea) · `en`
+
+U.S. President Donald Trump said he and Chinese President Xi Jinping made progress on a TikTok agreement and pledged to meet face-to-face in just over a month in South Korea.
+
+The two sides appeared to lower tensions during the first call in three months between the leaders of the two superpowers, but it was not immediately clear if the call had yielded the expected firm agreement over the fate of the popular short-video app.
+
+Trump did say the leaders agreed to talks on the sidelines of the Asia-Pacific Economic Cooperation forum that starts on October 31 in Gyeongju, South Korea, and for a potential later visit to China by Trump. Reuters previously reported that the two sides were planning such a meeting.
+
+“We made progress on many very important issues including Trade, Fentanyl, the need to bring the War between Russia and Ukraine to an end, and the approval of the TikTok Deal,” Trump wrote on social media.
+
+...
+
+[Data](articles/422c1a6d.json)
+
+---
+
+### Drone stroke on Sudan mosque kills 78, medic tells BBC
+
+*2025-09-19 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112688/drone-stroke-on-sudan-mosque-kills-78-medic-tells-bbc) · `en`
+
+More than 70 people have been killed following a drone strike on a mosque in Sudan’s Darfur region, a senior medical source has told the BBC.
+
+Friday’s attack in the city of el-Fasher has been blamed on the paramilitary Rapid Support Forces (RSF), but the group has not taken responsibility.
+
+The RSF and the army have been engaged in a ferocious civil war for more than two years.
+
+The paramilitaries are gaining ground as they fight to seize complete control of el-Fasher - the last army stronghold in Darfur and home to more than 300,000 civilians who have been trapped by the fighting.
+
+One resident told the BBC the drone struck during morning prayers, killing dozens of people instantly.
+
+The medical source said 78 died and about 20 were injured, but the process of extracting the bodies from the rubble of the building was still ongoing.
+
+BBC Verify has authenticated footage showing around 30 bodies wrapped in shrouds and blankets next to the mosque, which was located in the west of the city.
+
+...
+
+[Data](articles/7a100d7c.json)
 
 ---
 
@@ -83,6 +375,24 @@ The group has not taken responsibility for the attack, which is responsible for 
 [Data](articles/94666226.json)
 
 [Extended Data](ext_articles/94666226.ext.json)
+
+---
+
+### Sri Lanka’s third nano-satellite successfully deployed into orbit
+
+*2025-09-19 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112687/sri-lankas-third-nano-satellite-successfully-deployed-into-orbit-) · `en`
+
+Sri Lanka’s third nano-satellite, collaboratively developed by the Kyushu Institute of Technology (Kyutech), Japan, and the Arthur C. Clarke Institute for Modern Technologies (ACCIMT), Sri Lanka, has been deployed into orbit at 2.20 p.m. today (19).
+
+The Arthur C. Clarke Institute for Modern Technologies in Moratuwa, has announced that the research satellite, named ‘BIRDS-X Dragonfly,’ is designed to conduct three space research missions.
+
+Importantly, BIRDS-X Dragonfly comes at no cost to Sri Lanka, the ACCIMT said.
+
+The project, conceived by former ACCIMT Director-General Eng. (Dr.) Sanath Panawennage as a Kyutech–ACCIMT collaboration, was supported by international partners based on Sri Lanka’s strategic and technical contributions. Funded by the Amateur Radio Digital Communications (ARDC), its launch and deployment are facilitated by JAXA, advancing the mission to “bring diversity to the space sector and democratize space usage.”
+
+...
+
+[Data](articles/6affa4c6.json)
 
 ---
 
@@ -1729,361 +2039,5 @@ The motorcycle used to carry the suspect cannabis has also been confiscated by t
 [Data](articles/31e3b2a3.json)
 
 [Extended Data](ext_articles/31e3b2a3.ext.json)
-
----
-
-### Sri Lanka EDB, German IPD sign deal to promote digital products and services sector
-
-*2025-09-19 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-edb-german-ipd-sign-deal-to-promote-digital-products-and-services-sector-241217/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Export Development Board (EDB) and Germany’s Import Promotion Desk (IPD) will sign a cooperation agreement which will promote the island nation’s digital products and services sector and natural ingredients and processed foods in Europe.
-
-“Through this cooperation, we aim to provide long-term, sustainable market access opportunities for Sri Lankan companies in Europe, while also strengthening EDB’s role as a key export promotion agency,” IPD Head Julia Bellinghausen was quoted in an EDB statement.
-
-“Sri Lanka has dynamic SMEs and promising export potential,” Bellinghausen, who visited Colombo from September 8–12, said.
-
-The agreement will facilitate B2B matchmaking sessions, sourcing missions and greater participation in leading international trade fairs.
-
-...
-
-[Data](articles/30fcb9e1.json)
-
-[Extended Data](ext_articles/30fcb9e1.ext.json)
-
----
-
-### Army Lance Corporal honored for saving lives in deadly Ella bus crash
-
-*2025-09-19 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112671/army-lance-corporal-honored-for-saving-lives-in-deadly-ella-bus-crash-) · `en`
-
-A special ceremony was held in Wellawaya to honor Lance Corporal W. M. V. M. Bandara of the Sri Lanka Army Special Forces for his courageous actions during the recent fatal bus accident on the Ella–Wellawaya main road.
-
-Lance Corporal Bandara was the first to jump into the overturned bus and rescue the injured passengers following the tragic bus accident on the Ella–Wellawaya main road which occurred on September 4.
-
-The event was organized by the United Welfare Association of Wellawaya, with the participation of the army officer W. M. V. M. Bandara, his mother, Monaragala District Parliamentarian Chathuri Gangani, and W. Nihal, Chairperson of the Wellawaya Pradeshiya Sabha.
-
-During the ceremony, a memorial was unveiled and several awards were presented to recognize the bravery and selflessness of Lance Corporal Bandara.
-
-...
-
-[Data](articles/be930cb9.json)
-
-[Extended Data](ext_articles/be930cb9.ext.json)
-
----
-
-### The decisive moment from Sunday: CEB Warning
-
-*2025-09-19 11:39:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞாயிறு-முதல்-தீர்க்கமான-தருணம்-CEB-எச்சரிக்கை/175-364909) · `ta`
-
-The Ceylon Electricity Board (CEB) trade unions will begin the third phase of their current trade union action at midnight on Sunday (21), said Kosala Abeysinghe, president of the Ceylon Electricity Board.
-
-இந்த கட்டம் 24 ஆம் திகதி வரை தொடரும் என்றும், அதன் பிறகு மேலும் நடவடிக்கை குறித்து முடிவு செய்யப்படும் என்றும் அவர் கூறினார். “We have warned to ask for this government.
-
-The trade union action, which began with the work campaign on September 4, ended Monday (15) midnight. In the second phase, the staff took a healthy holiday on the 17th and 18th.
-
-Abeysinghe stressed that the upcoming third phase would be a decisive moment for the future of the energy sector.
-
-◼️
-
-[Data](articles/9ecf6abe.json)
-
-[Extended Data](ext_articles/9ecf6abe.ext.json)
-
----
-
-### Shashindra Rajapaksa further remanded
-
-*2025-09-19 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214748) · `si`
-
-Former State Minister Shashindra Rajapaksa, who was in remand custody, was further remanded and remanded until Monday (22).
-
-Colombo Chief Magistrate Asanka S.. The case will be adjourned due to the leave Body granted today.
-
-The bail of Susheendra Rajapaksa who has been arrested by the Bribery Commission regarding a corruption is also to be announced that day.
-
-The Kottawa area belonging to the Mahaweli Authority of the Sri Lanka Mahaweli Authority belonging to Shasheendra Rajapaksa is damaged in the struggle of an unauthorized building in Colombo.
-
-He has been accused of the government officials who have been attached to some government officials who have been attached to the office of the office for rejecting compensation.
-
-Where Rs. The arrest was made on suspicion of 'corruption' and the criminal use of the Mahaweli Authority by obtaining 8,850,000 (88 lakhs) compensation.
-
-◼️
-
-[Data](articles/14854593.json)
-
-[Extended Data](ext_articles/14854593.ext.json)
-
----
-
-### Who was the young man lurking on the terrace of Vijay's house?
-
-*2025-09-19 11:31:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-வீட்டின்-மொட்டை-மாடியில்-பதுங்கியிருந்த-இளைஞர்-யார்/175-364908) · `ta`
-
-A youth entered the house of Tamil Nadu Victory Association President. Subsequently, the security guards caught the young man and handed him over to the police.
-
-Vijay's residence of actor and leader of the Casino Drive in Chennai - Nilangarai. It is customary for the police, private guards and the Security Security Division of his home.. In this case, a young man has entered his house in spite of strong security.
-
-The young man who entered Vijay's home premises has gone to the terrace. There, the security personnel noticed what he was sitting there. They then caught him and handed him over to the police. ​
-
-Investigations conducted by the policeman revealed that Arun, 24, from Maduranthakam, had been mentally ill for four years and lived at Siddhi's house in Velachery.. He was then taken to the Nilangarai police at the Government Mental Health Archive.. This issue has caused a stir. Investigations are underway into Vijay's house in defiance of strong security.
-
-◼️
-
-[Data](articles/a8d737bb.json)
-
-[Extended Data](ext_articles/a8d737bb.ext.json)
-
----
-
-### Dhanush, who cried "I am"
-
-*2025-09-19 11:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நான்-இருக்கேன்மா-கதறி-அழுத-ரோபோ-சங்கரின்-மகளை-தேற்றிய-தனுஷ்/54-364907) · `ta`
-
-Comedian Robot Shankar, who was hospitalized due to ill health. His demise has caused tragedy among the screenwriters and fans.
-
-Robot Shankar is unconscious in Vijay TV Set two days ago. He was immediately rushed to the hospital.
-
-On his medical condition, the hospital administration said, “Robot Shankar, Sep.. Arrived at the hospital on the 16th. He had a bloodbath in the intestine. More serious problems in the abdomen as more internal organs were inactive. In the intensive care unit, our doctors were continuously treated but did not benefit. He died on September 18 at 9.05 pm.
-
-Deputy Chief Minister Udayanidhi Stalin paid tribute to Robot Shankar's body. Many of the screen stars have paid tribute. Especially when Dhanush came to pay tribute, Robot Shankar's daughter Indraja Shankar leaned over Dhanush's shoulder. Dhanush consoled Indraja Shankar, "I am looking at it". This video is widely becoming a wide range of social media.
-
-◼️
-
-[Data](articles/7bbae0dc.json)
-
-[Extended Data](ext_articles/7bbae0dc.ext.json)
-
----
-
-### Dhanush sought to say "I am"
-
-*2025-09-19 11:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கதறி-அழுத-ரோபோ-சங்கரின்-மகளை-நான்-இருக்கேன்மா-எனக்-கூறி-தேற்றிய-தனுஷ்/54-364907) · `ta`
-
-Comedian Robot Shankar, who was hospitalized due to ill health. His demise has caused tragedy among the screenwriters and fans.
-
-Robot Shankar has been unconscious in Vijay TV set up two days ago as he has been suffering from severe health problems for the past few days. He was immediately rushed to the hospital.
-
-On his medical condition, the hospital administration said, “Robot Shankar, Sep.. Came to the hospital on the 16th. He had a bloodbath in the intestine. More serious problems in the abdomen as more internal organs were dysfunctional. In the intensive care unit, our doctors were continuously treated but did not benefit. He died on September 18 at 9.05 pm.
-
-...
-
-[Data](articles/f947c441.json)
-
-[Extended Data](ext_articles/f947c441.ext.json)
-
----
-
-### Landslides warning for five districts!
-
-*2025-09-19 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225487) · `ta`
-
-The Disaster Management Center said that five districts in the country have been issued a landslide warning following rainfall over 75 millimeters in the past 24 hours.
-
-Accordingly, the first landslide hazard warning has been issued to the Kothmalai and Ratnapura Divisional Secretariat in the Kalutara District and the surrounding areas of the Kalutara district, Kotmale and Ratnapura Divisional Secretariat and the surrounding areas of the Kalutara district.
-
-Therefore, the Disaster Management Center has requested the public to be cautious in the area.
-
-◼️
-
-[Data](articles/11eb4635.json)
-
-[Extended Data](ext_articles/11eb4635.ext.json)
-
----
-
-### Ella Accident: No registration facilities on jeep safety camera
-
-*2025-09-19 11:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/எல்ல-விபத்து-ஜீப்பின்-பாதுகாப்பு-கெமராவில்-பதிவு-வசதிகள்-இல்லை/76-364906) · `ta`
-
-Ella police said that there were no registered facilities in the security camera of luxury jeep worth about 800 million rupees (80 million rupees), which was killed by a tourist bus, which was killed by 16 people who were killed and killed in a 1,000-foot ditch in the 15th milestone area on Ella-Vellavaya main road.
-
-The luxury Jeep was purchased from a vehicle vendor in Boraleskamuwa area in 2023 and there are four direct security cameras in the luxury jeep and the cameras are running for the convenience of the driving driver.
-
-However, the police said that the company's owners should require companies to obtain registration of the safety cameras of these luxury jeeps and that the software that registered in the luxury jeeps of the luxury jeeps will be installed only if such a request is made.
-
-The company said that many vehicle owners who buy such luxury jeeps do not request to install the software registered in the vehicle's cameras.
-
-...
-
-[Data](articles/b46aded6.json)
-
-[Extended Data](ext_articles/b46aded6.ext.json)
-
----
-
-### Ella's deadline survives the war hero
-
-*2025-09-19 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214747) · `si`
-
-A soldier war heroes evaluated at the Wellawaya in Wellawaya.
-
-The Army Special Corps has come forward to rescue the bus to reverse the bus, which was first rolling at the time of the bus accident.. M. Paddy. MANAN is the warrior.
-
-The event was organized by members of the Wellawaya United Welfare Association, Moneragala District MP Chathurai Gannani and Wellawaya Pradeshiya Sabha Chairman of the Army. Nihal and several others were present.
-
-Steps were also provided with a celebration and prizes in appreciation of the war hero.
-
-About 18 others were injured in the accident on the Ella-Wellawaya road which took 16 persons with death.
-
-The bus had been opened from the falls to Wellawaya, and a front jeep was collide.
-
-The bus carrying a group of people who had returned to a picnic and a bus carrying a group of people from the Tangalle Municipal Council had fallen into a precipice.
-
-Two supporters of the bus rescuing the buses were injured and Lance Corporal W. M. Paddy. Mr. M Bandara is also the same.
-
-...
-
-[Data](articles/b50b564a.json)
-
-[Extended Data](ext_articles/b50b564a.ext.json)
-
----
-
-### Shasheendra Rajapaksa further remanded
-
-*2025-09-19 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112670/shasheendra-rajapaksa-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who faces allegations of offenses under the Public Property Act, has been further remanded until September 22 by the Colombo Magistrate’s Court.
-
-The case was adjourned to next Monday as Colombo Chief Magistrate Asanka S. Bodaragama, who is presiding over the matter, is on leave today, said Ada Derana reporter.
-
-Rajapaksa is scheduled to remain in remand until that date, and a decision regarding his bail application will also be announced on September 22.
-
-Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on charges of committing the offense of “corruption” under the Anti-Corruption Act by illegally obtaining Rs. 8,850,000 as compensation for the destruction of his political office, which had been constructed on a Mahaweli land, by protesters during the ’Aragalaya’.
-
-◼️
-
-[Data](articles/0cdb221b.json)
-
-[Extended Data](ext_articles/0cdb221b.ext.json)
-
----
-
-### Over 700 individuals arrested during special island-wide police raids
-
-*2025-09-19 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112669/over-700-individuals-arrested-during-special-island-wide-police-raids) · `en`
-
-Sri Lanka Police announced that a total of 736 suspects were arrested yesterday (18) during island-wide operations conducted to prevent crime and curb drug-related activities.
-
-The special operations were carried out across all regional police divisions at the divisional level.
-
-According to police, 28,705 individuals were subjected to inspection during the course of these operations.
-
-In addition, 50 motorists were arrested for drunk driving, while 20 others were taken into custody for reckless driving, the Police further stated.
-
-◼️
-
-[Data](articles/0b89af17.json)
-
-[Extended Data](ext_articles/0b89af17.ext.json)
-
----
-
-### Ali Roshan sentenced 15 years in prison
-
-*2025-09-19 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225486) · `ta`
-
-The Colombo High Court on Friday (19) has sentenced Niraj Roshan, known as Samarapalike Ali Roshan, who is proven to be the accused of allegedly holding an elephant without permission, has been sentenced to 15 years in prison.
-
-In addition to the imprisonment, Ali Roshan has been fined Rs 2.06 million.
-
-After a long hearing, Judges Manjula Tilakaratne, RSS. The order was issued by a High Court session comprising Sabwitha and Lanka Jayaratne.
-
-The panel of judges further ordered the release of the other three defendants who were accused in connection with the case.
-
-◼️
-
-[Data](articles/f337ffb1.json)
-
-[Extended Data](ext_articles/f337ffb1.ext.json)
-
----
-
-### Sasheendra Rajapaksa's explanation extension
-
-*2025-09-19 11:14:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவின்-விளக்கமறியல்-நீடிப்பு/175-364905) · `ta`
-
-Former State Minister Sasheendra Rajapakse's explanation has been extended till the 22nd of this month by the Colombo Additional Magistrate Lahiru Silva order. The order was issued on Friday (19).
-
-He has been accused of pressuring government officials to compensate for the property of the Mahaweli Authority, which was burnt by the protesters in 2022.
-
-The Additional Magistrate was ordered to be interrogated as the permanent chief magistrate was on vacation.
-
-The magistrate has ordered whether the suspect will be granted bail or not.
-
-◼️
-
-[Data](articles/9c3654f8.json)
-
-[Extended Data](ext_articles/9c3654f8.ext.json)
-
----
-
-### One arrested with Kokain in Jaffna
-
-*2025-09-19 11:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-கொக்கெயினுடன்-ஒருவர்-கைது/175-364904) · `ta`
-
-Jaffna police have been arrested by Jaffna Police on Thursday (18) based on confidential information received by the Jaffna Police Crime Unit
-
-◼️
-
-[Data](articles/d269165a.json)
-
-[Extended Data](ext_articles/d269165a.ext.json)
-
----
-
-### Landslide warnings issued for several areas in five districts
-
-*2025-09-19 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112668/landslide-warnings-issued-for-several-areas-in-five-districts) · `en`
-
-Early landslide warnings have been issued for multiple areas in five districts as heavy rainfall continues in parts of the island.
-
-Landslide warnings will be in effect from 10:00 a.m. today (19) and will remain in effect until 10:00 a.m. tomorrow (20), the National Building Research Organisation (NBRO) said.
-
-Accordingly, a Level 1 (Yellow) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Colombo, Kalutara, Kegalle, Nuwara Eliya and Ratnapura districts as follows:
-
-Kalutara: Ingiriya and Horana Divisional Secretariat DSD and surrounding areas.
-
-◼️
-
-[Data](articles/ef333c4a.json)
-
-[Extended Data](ext_articles/ef333c4a.ext.json)
-
----
-
-### Landslide early warning
-
-*2025-09-19 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214746) · `si`
-
-The National Building Research Organization has issued a landslide early warning statement for several areas.
-
-The announcement was valid today (19) at 10 am today.
-
-◼️
-
-[Data](articles/c0d42ba6.json)
-
-[Extended Data](ext_articles/c0d42ba6.ext.json)
-
----
-
-### Tunit returned to the country
-
-*2025-09-19 11:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-துனித்/175-364903) · `ta`
-
-Following the death of his father, Sri Lankan cricketer Dunit Wellalake arrived at the Katunayake airport this morning.
-
-He arrived in Abu Dhabi from Abu Dhabi at 08.25 am this morning.
-
-It is noteworthy that Tunit Vellalake's father died of a heart attack last night, while Tunit was playing in a match against Afghanistan last night.. Remble
-
-◼️
-
-[Data](articles/02b10634.json)
-
-[Extended Data](ext_articles/02b10634.ext.json)
 
 ---

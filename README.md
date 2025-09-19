@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 01:38:29**
+As of **2025-09-20 01:05:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,124 (98.8%) of 77,018 articles have been extended.
+76,099 (98.8%) of 77,018 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -242,8 +242,6 @@ The extraordinary Arab-Islamic Summit held in Doha to counter Israel’s bombing
 
 [Data](articles/2c519886.json)
 
-[Extended Data](ext_articles/2c519886.ext.json)
-
 ---
 
 ### Tribute to Rajiv Perera on 60th birthday
@@ -280,19 +278,17 @@ South Asia is living through an era of popular uprisings that has reshaped the p
 
 ---
 
-### Sri Lanka's third satellite was successfully positioned in the orbit
+### இலங்கையின் மூன்றாவது செயற்கைக்கோள் வெற்றிகரமாக சுற்றுப்பாதையில் நிலைநிறுத்தப்பட்டது
 
 *2025-09-19 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225550) · `ta`
 
-Arthur C under the Ministry of Science and Technology. The "Birds-X Dragonfly" satellite was successfully launched from the International Space Station (ISS) at 2.15 pm on Friday (19) afternoon.
+அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சகத்தின் கீழ் உள்ள ஆர்தர் சி. கிளார்க் மேம்பட்ட தொழில்நுட்ப நிறுவனத்தின் கீழ் இலங்கை பொறியியல் தொழில்நுட்பத் துறையால் உருவாக்கப்பட்ட "BIRDS-X DRAGONFLY" செயற்கைக்கோள், வெள்ளிக்கிழமை (19) பிற்பகல் 2.15 மணிக்கு சர்வதேச விண்வெளி நிலையத்திலிருந்து (ISS) வெற்றிகரமாக ஏவப்பட்டது.
 
-The satellite was launched to the International Space Station (ISS) on the "SPX33" rocket launched by NASA on August 24. "Birds-X Dragonfly" spacecraft re-orbit Arthur C. Clark was broadcast live at Advanced Technology Institute, and Secretary to the Ministry of Science and Technology Mohamed Navi was the chief guest of the event.
+இந்த செயற்கைக்கோள் ஆகஸ்ட் 24 அன்று நாசாவால் ஏவப்பட்ட "SPX33" ராக்கெட்டில் சர்வதேச விண்வெளி நிலையத்திற்கு (ISS) ஏவப்பட்டது. "BIRDS-X DRAGONFLY" விண்கலத்தின் மறு சுற்றுப்பாதை ஆர்தர் சி. கிளார்க் மேம்பட்ட தொழில்நுட்ப நிறுவனத்தில் நேரடியாக ஒளிபரப்பப்பட்டது, மேலும் இந்த நிகழ்வின் முதன்மை விருந்தினராக அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர்   மொஹமட்  நவி கலந்து கொண்டார்.
 
 ...
 
 [Data](articles/6fbee0bc.json)
-
-[Extended Data](ext_articles/6fbee0bc.ext.json)
 
 ---
 
@@ -309,8 +305,6 @@ China’s entry could change that. With its huge economy, global influence, and 
 ...
 
 [Data](articles/7fec49cc.json)
-
-[Extended Data](ext_articles/7fec49cc.ext.json)
 
 ---
 
@@ -340,8 +334,6 @@ The Government has now revealed that between 2017 and mid-2025, Rs. 491.2 millio
 
 [Data](articles/c7abea2e.json)
 
-[Extended Data](ext_articles/c7abea2e.ext.json)
-
 ---
 
 ### Trump and Xi make progress on TikTok deal, plan to meet in South Korea
@@ -359,8 +351,6 @@ Trump did say the leaders agreed to talks on the sidelines of the Asia-Pacific E
 ...
 
 [Data](articles/422c1a6d.json)
-
-[Extended Data](ext_articles/422c1a6d.ext.json)
 
 ---
 
@@ -385,8 +375,6 @@ BBC Verify has authenticated footage showing around 30 bodies wrapped in shrouds
 ...
 
 [Data](articles/7a100d7c.json)
-
-[Extended Data](ext_articles/7a100d7c.ext.json)
 
 ---
 
@@ -445,8 +433,6 @@ The project, conceived by former ACCIMT Director-General Eng. (Dr.) Sanath Panaw
 ...
 
 [Data](articles/6affa4c6.json)
-
-[Extended Data](ext_articles/6affa4c6.ext.json)
 
 ---
 

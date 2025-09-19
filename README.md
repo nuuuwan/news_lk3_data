@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 06:21:30**
+As of **2025-09-19 04:54:30**
 
 ## Newspaper Stats
 
-*Scraped **76,835** Articles*
+*Scraped **76,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,653
-islandlk | 4,726
+economynextcom | 4,649
+islandlk | 4,715
 dailymirrorlk | 4,733
-dailyftlk | 5,457
-adalk | 7,471
+dailyftlk | 5,451
+adalk | 7,470
 adaderanalk | 9,914
 tamilmirrorlk | 11,543
 virakesarilk | 12,492
@@ -26,147 +26,11 @@ adaderanasinhalalk | 13,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,232 (97.9%) of 76,835 articles have been extended.
+75,192 (97.9%) of 76,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### Hayleys Fentons’ Managing Director honoured at inaugural CPM Management Leadership Excellence Awards 2025
-
-*2025-09-19 05:45:50* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-Managing-Director-honoured-at-inaugural-CPM-Management-Leadership-Excellence-Awards-2025/34-781884) · `en`
-
-Hasith Prematillake – Executive Director level Winner across Power and Energy (Renewable); Construction, Condominium and Real Estate; Project and Engineering; and First Runner-Up in Sustainability and Circular Economy
-
-Hayleys Fentons Ltd. Managing Director Hasith Prematillake, received four exemplary recognitions at the inaugural CPM Management Leadership Excellence (MLE) Awards 2025.
-
-Organised by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka), the Awards honoured Sri Lanka’s most outstanding leaders who demonstrate “vision, resilience and excellence in management practices.”
-
-...
-
-[Data](articles/cec84963.json)
-
----
-
-### McLarens Group and 3M celebrate partnerships and innovation at Partner Event 2025
-
-*2025-09-19 05:44:25* · [`dailyftlk`](https://www.ft.lk/business/McLarens-Group-and-3M-celebrate-partnerships-and-innovation-at-Partner-Event-2025/34-781883) · `en`
-
-3M-McLarens hosted its flagship event on 3 September at Cinnamon Life, Colombo. Held under the theme “Powering Performance through Innovation, Celebrating Partnerships,” the premium evening brought together top customers, C-level executives, industry stakeholders, and 3M-McLarens leadership to celebrate valued partnerships and explore the future of collaborative innovation in Sri Lanka.
-
-The event celebrated 3M-McLarens’ most loyal customers for their continued trust and contributions, while also recognising the six-year collaboration between 3M and the McLarens Group. This partnership has enabled world-class innovations to reach Sri Lankan businesses across key sectors — including construction, automotive, consumer goods, and industrial solutions — delivering long-term impact and real-world applications.
-
-...
-
-[Data](articles/8eb7f248.json)
-
----
-
-### CEB unions escalate protest, disrupts traffic
-
-*2025-09-19 05:42:35* · [`dailyftlk`](https://www.ft.lk/news/CEB-unions-escalate-protest-disrupts-traffic/56-781882) · `en`
-
-The All Employees’ Union of the Ceylon Electricity Board staged a protest outside its headquarters causing heavy traffic congestion along Sir Chittampalam A. Gardiner Mawatha in Colombo yesterday – Pic by Pradeep Pathirana
-
-Heavy traffic congestion was reported along Sir Chittampalam A. Gardiner Mawatha in Colombo yesterday, after Ceylon Electricity Board (CEB) workers staged a demonstration opposite the CEB headquarters. The protest, which blocked one lane between the Lake House roundabout and Slave Island, disrupted evening traffic and forced police to advise motorists to take alternate routes.
-
-The demonstration was part of an escalating trade union campaign against the Government’s plan to restructure the CEB into four entities. Large numbers of workers carrying placards gathered outside the CEB Head Office, shouting slogans and obstructing traffic for several hours.
-
-...
-
-[Data](articles/e3f4b2bc.json)
-
----
-
-### AASL amends restrictions imposed on visitor entry at BIA
-
-*2025-09-19 05:41:29* · [`dailyftlk`](https://www.ft.lk/news/AASL-amends-restrictions-imposed-on-visitor-entry-at-BIA/56-781881) · `en`
-
-The Airport and Aviation Services (Sri Lanka) Ltd. (AASL) yesterday announced that the restriction on the entry to the Departure Lobby at Bandaranaike International Airport (BIA) for visitors during peak hours has been amended.
-
-Accordingly, the restriction on visitors to the Departure Lobby will only apply on Thursdays and Saturdays from 10.00 p.m. to midnight.
-
-On 18 August, the AASL announced that that, with immediate effect, visitors will not be permitted to enter the Departure Lobby between 10 p.m. and midnight on Thursdays, Fridays, and Saturdays (https://www.ft.lk/front-page/BIA-restricts-visitor-access-during-peak-hours-to-ease-congestion/44-780521). The measure was introduced to ease congestion and ensure smoother operations for passengers and airport users.
-
-◼️
-
-[Data](articles/ed357a5a.json)
-
----
-
-### Ex-Lotteries Board Director Halloluwa gets bail
-
-*2025-09-19 05:40:01* · [`dailyftlk`](https://www.ft.lk/news/Ex-Lotteries-Board-Director-Halloluwa-gets-bail/56-781879) · `en`
-
-The Colombo Magistrate’s Court yesterday granted bail to former National Lotteries Board Director Thusitha Halloluwa, who had been in remand custody.
-
-He was released on two sureties of Rs. 500,000 each. The court also imposed a travel ban and directed that his passport be surrendered.
-
-Halloluwa was earlier remanded in connection with a shooting incident involving his vehicle in Narahenpita. He was arrested on 19 August during a raid carried out by the Colombo Crimes Division in Colpetty.
-
-◼️
-
-[Data](articles/c561f7e2.json)
-
----
-
-### Ex-Sabaragamuwa Minister remanded over Rs. 70 m fraud
-
-*2025-09-19 05:38:57* · [`dailyftlk`](https://www.ft.lk/news/Ex-Sabaragamuwa-Minister-remanded-over-Rs-70-m-fraud/56-781878) · `en`
-
-Former Sabaragamuwa Provincial Council Minister Athula Kumara Rahubadda has been remanded until 2 October for allegedly misappropriating Rs. 70 million worth of State funds.
-
-The Criminal Investigation Department (CID) arrested and produced him before the Embilipitiya Magistrate’s Court on Wednesday, which ordered that he be held in remand custody pending further investigations.
-
-◼️
-
-[Data](articles/7c5e2710.json)
-
----
-
-### France’s AFD keen on pump storage plants as Sri Lanka eyes funding
-
-*2025-09-19 05:00:00* · [`economynextcom`](https://economynext.com/frances-afd-keen-on-pump-storage-plants-as-sri-lanka-eyes-funding-241122/) · `en`
-
-ECONOMYNEXT – The French development agency is keen to support pump storage plants as part of its commitment to climate change resilience and green energy, an official said as Sri Lanka’s power grid eyes 600 MegWatt unit accommodate intermittent renewables.
-
-“Actually, pump storage is one of the solutions that AFD is really keen to support,” the Deputy Head of Energy at Agence Française de Développement, Manelle Ait Sahlia told reporters in Paris.
-
-“It’s not an easy solution from a technical point of view. But it’s a very interesting solution in countries with hydro potential.”
-
-“We’ve approved the financing last year for a pump storage project in Vietnam. And AFD was leading a pool of financiers and leading a Team Europe approach for this project.”
-
-The AFD, currently has an active portfolio of around 50 billion euros of which around a third has been committed to the Indo-Pacific area, Executive Director of AFD operations Philippe Orliange said.
-
-...
-
-[Data](articles/73d3316d.json)
-
-[Extended Data](ext_articles/73d3316d.ext.json)
-
----
-
-### Sri Lanka opens large water supply system funded by China
-
-*2025-09-19 00:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-large-water-supply-system-funded-by-china-241159/) · `en`
-
-ECONOMYNEXT – Sri Lanka has opened its integrated water supply system which will provide safe drinking water to people in Gampaha, Minuwangoda and Attanagalla and parts of Mahara and Mirigama, minister Vijitha Herath said.
-
-The large-scale project begun by the former Yahapalanaya government, includes 88,000 new water connections and the upgrading of about 22,000 existing water connections.
-
-The project includes the Basnagoda Reservoir with a capacity of 5.5 million cubic meters, a pumping station with a capacity of 85,000 cubic meters a day, a water treatment plant with a capacity of 54,000 cubic meters a day, a high-level water tank with a capacity of 10,000 cubic meters, and 5 water towers with a capacity of 1,500 cubic meters.
-
-The total length of the transmission pipeline is 85 km with a distribution pipeline network of 504 km.
-
-The project was mainly funded by the China Development Bank and carried out by China Machinery Engineering Corporation (CMEC). (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/ffe775c3.json)
-
-[Extended Data](ext_articles/ffe775c3.ext.json)
-
----
 
 ### Duti Welelige's father passes away
 
@@ -238,26 +102,6 @@ In the first Super 4s match of Asia Cup 2025, Sri Lanka will now face Bangladesh
 
 ### 2025-09-18 (Thursday)
 
-### Sri Lanka’s Union Assurance sells 22-pct stake in Fairfirst Insurance for Rs2.6bn
-
-*2025-09-18 23:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-union-assurance-sells-22-pct-stake-in-fairfirst-insurance-for-rs2-6bn-241151/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Union Assurance PLC has sold its 22 percent stake in Fairfirst Insurance Limited to Fairfax Asia Limited for 2.63 billion rupees, John Keells Holdings said.
-
-“UAL has divested its 22% equity stake comprising 30,800,000 ordinary shares, in Fairfirst Insurance Limited, an associate company of UAL today,” John Keells Holdings said in a stock exchange filing.
-
-Fairfirst Insurance Limited operates in the non-life insurance segment and was previously treated as an associate of the John Keells Group.
-
-Fairfax Asia Limited is a subsidiary of Fairfax Financial Holdings Limited. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/03274c11.json)
-
-[Extended Data](ext_articles/03274c11.ext.json)
-
----
-
 ### Sri Lanka in terms of abuse of Bangladesh to Bangladesh
 
 *2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
@@ -285,24 +129,6 @@ With the defeat of Afghanistan, they left the tournament, and the Banglaida qual
 [Data](articles/f0f31835.json)
 
 [Extended Data](ext_articles/f0f31835.ext.json)
-
----
-
-### International Commission of Jurists urges Sri Lanka to repeal or revise online safety act
-
-*2025-09-18 23:22:00* · [`economynextcom`](https://economynext.com/international-commission-of-jurists-urges-sri-lanka-to-repeal-or-revise-online-safety-act-241142/) · `en`
-
-ECONOMYNEXT – The International Commission of Jurists (ICJ) has submitted its observations after Sri Lanka’s government called for public input on amending the contentious Online Safety Act.
-
-“In its submission, the ICJ emphasized that several provisions of the Act threaten the enjoyment of rights to freedom of expression, opinion, and information guaranteed under Article 14(1)(a) of the Constitution of Sri Lanka and Article 19 of the International Covenant on Civil and Political Rights (ICCPR), to which Sri Lanka is a party,” the statement said.
-
-The ICJ urged the government to repeal the act or revise it to make it compliant with the country’s international human rights law obligations.
-
-...
-
-[Data](articles/df454dc9.json)
-
-[Extended Data](ext_articles/df454dc9.ext.json)
 
 ---
 
@@ -471,24 +297,6 @@ The last of the faller borrow, he held five sixes against Velleala's.
 [Data](articles/e63f3b89.json)
 
 [Extended Data](ext_articles/e63f3b89.ext.json)
-
----
-
-### පාතාල නායක අහුන්ගල්ලේ බබාගේ නිවසට ගිනි තියලා
-
-*2025-09-18 21:40:53* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-අහුන්ගල්ලේ-බබාගේ-නිවසට-ගිනි-තියලා/11-418595) · `si`
-
-දකුණේ පාතාල නායකයකු වන දැනට විදෙස්ගතව සිටින අහුන්ගල්ලේ බබාගේ නමැත්තා විසින් අහුන්ගල්ල කටුවිල පදේශයේ අලුතින් ඉදිකරනු ලබන දෙමහල් නිවස කිසියම් අයෙකු හෝ කණ්ඩායමක් විසින් අද (18) අලුයම ගිනි තැබීමක් සිදු කොට ඇති බව අහුන්ගල්ල පොලීසිය කියයි.
-
-ගිනි තැබීමෙන් එම නිවසේ මුලුතැන් ගෙට හානි සිදුව ඇති බවත් ගින්න මුලු නිවසටම පැතිරී ගොස් නැති බවද පොලීසිය කියයි. ගිනි තැබීමෙන් නිවසට දැඩි අලාභහානි සිදුව නැති බවද පොලීසිය කියයි.
-
-මනුෂය ඝාතන සහ මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් අහුන්ගල්ලේ බබාට චෝදනා රැසක් එල්ලවී තිබෙන බවත් මේ නිසා ඔහුට විරුද්ධවාදී කණ්ඩායම් කිහිපයක්ම සිටින නිසා මේ ගිනි තැබීම එම කණ්ඩායමක වැඩක් විය හැකි බවට පොලීසිය සැකකරයි.
-
-ගිනි තැබීම සම්බන්ධයෙන් මෙතෙක් කිසිවෙක් අත්අඩංගුවට ගෙන නැති බවද පොලීසිය කියයි. අහුන්ගල්ල පොලීසිය  වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/167299cb.json)
 
 ---
 
@@ -769,98 +577,6 @@ The Indian High Commission in Colombo said that the meeting between the United P
 [Data](articles/3f817066.json)
 
 [Extended Data](ext_articles/3f817066.ext.json)
-
----
-
-### ITC Hotels appoints Keenan McKenzie Area Manager – Sri Lanka and General Manager of Colombo’s ITC Ratnadipa
-
-*2025-09-18 18:41:00* · [`islandlk`](http://island.lk/itc-hotels-appoints-keenan-mckenzie-area-manager-sri-lanka-and-general-manager-of-colombos-itc-ratnadipa/) · `en`
-
-Indian hospitality leader ITC Hotels announced the appointment of Keenan McKenzie as Area Manager – Sri Lanka and General Manager of ITC Ratnadipa, Colombo. In this expanded capacity, Keenan will oversee the entire operations of ITC Ratnadipa, a Luxury Collection Hotel, while also supporting the leadership of WelcomHotels Lanka (Pvt.) Ltd., a fully owned subsidiary of ITC Hotels in Sri Lanka, in driving growth.
-
-...
-
-[Data](articles/39d7031b.json)
-
-[Extended Data](ext_articles/39d7031b.ext.json)
-
----
-
-### Terra Motors, Japan’s leading EV innovator, enters Sri Lanka with electric three-wheeler; invites local distributors
-
-*2025-09-18 18:34:00* · [`islandlk`](http://island.lk/terra-motors-japans-leading-ev-innovator-enters-sri-lanka-with-electric-three-wheeler-invites-local-distributors/) · `en`
-
-Terra Motors, a leading Japanese electric mobility company, has announced its entry into the Sri Lankan market with the launch of its flagship electric three-wheeler, Kyoro. It is Terra Motors’ next-generation electric three-wheeler, built for both passenger mobility and last-mile logistics.
-
-With a top speed of over 55 km/h, an extended range of up to 200 km per charge, an 11.7 kWh battery, a climbing capacity of up to 22pct, and a 2-speed gearbox for easy hill climbing and smooth yet quick acceleration, Kyoro delivers reliable performance for diverse road conditions. Its fast-charging time of just 4 hours and low operating costs enable drivers to maximize earnings while offering passengers a modern, comfortable ride. Kyoro is a compact three-wheeler that combines attractive features with powerful performance.
-
-...
-
-[Data](articles/338ad331.json)
-
-[Extended Data](ext_articles/338ad331.ext.json)
-
----
-
-### Supreme Court launches e-Courts project
-
-*2025-09-18 18:34:00* · [`islandlk`](http://island.lk/supreme-court-launches-e-courts-project/) · `en`
-
-In a historic step towards building a modern, transparent, and citizen-focused judiciary, the Supreme Court of Sri Lanka, in collaboration with the Judicial Service Commission and the Ministry of Justice, officially launched the “e-Courts” Project, featuring a state-of-the-art Web Portal and an integrated e-Case Management System for all Court Houses.
-
-...
-
-[Data](articles/5e109151.json)
-
-[Extended Data](ext_articles/5e109151.ext.json)
-
----
-
-### Dialog Finance’s Lesi Pay Launches Sri Lanka’s First End-to-End Smartphone Financing – with Doorstep Delivery, Phone Upgrade & Protection
-
-*2025-09-18 18:33:00* · [`islandlk`](http://island.lk/dialog-finances-lesi-pay-launches-sri-lankas-first-end-to-end-smartphone-financing-with-doorstep-delivery-phone-upgrade-protection/) · `en`
-
-Dialog Finance PLC, Sri Lanka’s emerging Fintech leader has announced the launch of three landmark service features under its Lesi Pay device financing model – introduced for the first time in Sri Lanka. This initiative reinforces Dialog Finance’s commitment to innovation, affordability, and inclusivity with the vision of placing a smartphone in every Sri Lankan’s pocket.
-
-...
-
-[Data](articles/35d44d7a.json)
-
-[Extended Data](ext_articles/35d44d7a.ext.json)
-
----
-
-### CEAT Kelani honours top dealers with ‘Autobahn 2.0’ convention & awards gala
-
-*2025-09-18 18:33:00* · [`islandlk`](http://island.lk/ceat-kelani-honours-top-dealers-with-autobahn-2-0-convention-awards-gala/) · `en`
-
-A dazzling celebration of partnership, performance and excellence unfolded at the Shangri-La, Colombo, when CEAT Kelani Holdings, Sri Lanka’s largest manufacturer of pneumatic tyres, hosted its annual dealer convention and awards gala with customary panache.
-
-The event brought together the top 145 dealers of the year along with their families, for an unforgettable evening of recognition and camaraderie. They were joined by members of CEAT’s sales, marketing and export teams as well as the Company’s leadership, underscoring the importance of the occasion to the brand’s continuing success story.
-
-Themed ‘Autobahn 2.0,’ the convention embodied the attributes of speed, comfort and control that define CEAT Car Radials, with the German engineering, research and development expertise that fortify the brand’s superior performance on Sri Lankan roads. The event sought to bring this theme to life in every aspect of the celebration.
-
-...
-
-[Data](articles/c7bdd38c.json)
-
-[Extended Data](ext_articles/c7bdd38c.ext.json)
-
----
-
-### Bourse’s bullish momentum sustained by conducive macroeconomic factors
-
-*2025-09-18 18:33:00* · [`islandlk`](http://island.lk/bourses-bullish-momentum-sustained-by-conducive-macroeconomic-factors/) · `en`
-
-CSE activities were extremely bullish yesterday due to conducive macroeconomic conditions coupled with favourable GDP growth predicted in the second quarter of the year, according to market sources. Amid those developments both indices moved upwards. The All Share Price Index went up by 185.30 points while S and P SL20 rose by 70.88 points.
-
-Turnover stood at Rs 6.8 billion with eight crossings. Those crossings were reported in Chevron Lubricants where 1.7 million shares crossed to the tune of Rs 293 million; its shares traded at Rs 170, HNB (Non- Voting) 710,000 shares crossed to the tune of Rs 208.7 million and its shares traded at Rs 294, Sampath Bank 700 million shares crossed for Rs 98 million; its shares traded at Rs 140, Central Finance 321,000 shares crossed for Rs 90.1 million; its shares sold at Rs 280.
-
-...
-
-[Data](articles/d830ba52.json)
-
-[Extended Data](ext_articles/d830ba52.ext.json)
 
 ---
 
@@ -2065,5 +1781,361 @@ It is not a good harvest we have.
 [Data](articles/6ec6f49c.json)
 
 [Extended Data](ext_articles/6ec6f49c.ext.json)
+
+---
+
+### Elephant fleeing garbage on Dambulla, Dambulla, a white elephant
+
+*2025-09-18 13:30:35* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-අලියෙක්-වී-ඇති-දඹුල්ලේ-කසළ-ව්‍යාපෘතියේ-කුණු-කන්න-වන-අලි-එයි/11-418578) · `si`
+
+The people of Dambulla polls that wildlife will eaten all the elephants of elephants in a large number of garbage to win the Award Damaged Temple Management Project.
+
+Cali collaps will be eradicated to the Government reserves and brought to the Government Reserve.
+
+The Dambulla Municipal Council was conducted by the Dambulla Municipal Council with continuous protests through the media.
+
+The production of organic fertilizer production has been successfully implemented in the name of hospital waste and polythefament, and the Pure Anna is the monitoring of many.
+
+Even the electricity vehicles operated by the elephants were named as a tourist zone. All construction garbage management in the aforesaid Clean Araka and the production of organic fertilizer is now being completely collected and all the garbage collected and brought to the Central and Reserve.
+
+...
+
+[Data](articles/00ea9317.json)
+
+[Extended Data](ext_articles/00ea9317.ext.json)
+
+---
+
+### Saudi -Pakistan's Defense Agreement that has made a new diplomatic challenge
+
+*2025-09-18 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225408) · `ta`
+
+Pakistani Prime Minister Shahbaz Sharif has signed a major security agreement between the two countries during a visit to Saudi Arabia.
+
+According to the agreement, if someone attacks Pakistan or Saudi Arabia, it will be considered an attack on two countries.
+
+The agreement combines the safety of the two countries and provides a mutual security pledge.
+
+This means that when one countries are attacked, the other country has to retaliate.
+
+After the Israeli attack on Hamas offices in Qatar, tension has been raging between the Middle East.
+
+In this context, the Pakistani prime minister first visited Qatar and then Saudi Arabia, showing Pakistan's increasing influence in the region.
+
+Political analysts have suggested that the agreement is likely to form a military alliance such as NATO, combined with other Middle East countries.
+
+Because of this agreement, if India attacks Pakistan, Saudi Arabia will retaliate.. It presents a new diplomatic and military challenge to India.
+
+...
+
+[Data](articles/59dc0620.json)
+
+[Extended Data](ext_articles/59dc0620.ext.json)
+
+---
+
+### Details of the Diyawadana Nilame
+
+*2025-09-18 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-නිලවරණය-පවත්වන-දින-කියයි/11-418577) · `si`
+
+The Commissioner General of Buddhist Affairs Gamini Senaratne says that the election to appoint a new Diyawadana Nilame on the historic Sri Dalada Maligawa.
+
+The Commissioner General emphasized that when he visited the Kandy Secretariat today (18) for a special discussion today.
+
+There he emphasized that the amendment process of the Vihara Paradhagam Ordinance is currently underway. He said that it is being discussed to be amended to amendments 42-43.
+
+The Performance General emphasized that measures have been taken to revise the term of the Diyawadana Nilame which is scheduled to come.
+
+Not only in the North and East but also legal problems in Buddhist places of worship and measures are being taken to address the bill to solve them. The Commissioner General also stressed that the department is being carried out by the department as to the relevant activities of temples under the Vihara Devalaya Act.
+
+◼️
+
+[Data](articles/317bb3a8.json)
+
+[Extended Data](ext_articles/317bb3a8.ext.json)
+
+---
+
+### Arrested for selling cigarettes for students
+
+*2025-09-18 13:02:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-சுவையூட்டிய-சிகரெட்-விற்றவர்-கைது/175-364850) · `ta`
+
+A businessman has been arrested by the police on suspicion of selling imported cigarettes to schoolchildren in Thanamalwila.
+
+A cigarette student was sold for Rs.
+
+Following the confidential information given to another student, the student who sold cigarettes was investigated, and two imported cigarettes were discovered from him.
+
+Subsequently, the business complex was tested on the basis of a complaint lodged with the Tanamalwila Police Inspector.
+
+The police confiscated 690 cigarettes and Rs. 3,600,000 in cash.
+
+◼️
+
+[Data](articles/d52fda1c.json)
+
+[Extended Data](ext_articles/d52fda1c.ext.json)
+
+---
+
+### Three arrested for drone
+
+*2025-09-18 13:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலே-ட்ரோன்-விட்ட-மூவர்-கைது/175-364849) · `ta`
+
+Three people have been arrested by the Anuradhapura police who have flown a drone camera above Ruwanwelisia.
+
+It is reported that the persons from the age of 23 - 32 are from Balangoda, Maligawatte and Ja -Ela areas.
+
+The three persons are working in a private financial institution and on Wednesday (17), after completing the vehicle sales promotion program, they went to Ruwanwelisia and flew the drone camera from the parking lot.
+
+The trio have been handed over to the Anuradhapura Headquarters Police for further investigations into the arrest of Ruwanwelisia and Udamaluwa police on charges of flying a drone camera without permission.
+
+◼️
+
+[Data](articles/e78bbd2d.json)
+
+[Extended Data](ext_articles/e78bbd2d.ext.json)
+
+---
+
+### විදුලි උද්ඝෝෂකයෝ කොළඹ ප්‍රධාන පාරක් වසති
+
+*2025-09-18 12:59:39* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-උද්ඝෝෂකයෝ-කොළඹ-ප්‍රධාන-පාරක්-වසති/11-418576) · `si`
+
+Slave Island from Slave Island to Lake House Roundabout, from Slave Island to Lake House Roundabout, has been blocked by Slave Island from Slave Island to Lake House Roundabout.. As a result, high traffic jams have been created.
+
+◼️
+
+[Data](articles/aca396b3.json)
+
+[Extended Data](ext_articles/aca396b3.ext.json)
+
+---
+
+### Air India crash victims’ families sue aerospace firms Boeing and Honeywell
+
+*2025-09-18 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112646/air-india-crash-victims-families-sue-aerospace-firms-boeing-and-honeywell) · `en`
+
+The families of four passengers who died on an Air India jet that crashed in June have filed a lawsuit in the US against planemaker Boeing and aircraft parts maker Honeywell, accusing the companies of negligence.
+
+The lawsuit filed Tuesday, and seen by the BBC, said faulty fuel switches caused the accident and accused the companies of doing “nothing” despite being aware of the risks of the aircraft’s design.
+
+Air India Flight 171 bound for London Gatwick, a Boeing 787, crashed shortly after takeoff from Ahmedabad, killing 260 people.
+
+Fuel switches have become a focus for investigators after a preliminary inquiry found that fuel to the engines was cut off moments after the plane left the ground.
+
+The US Federal Aviation Administration (FAA) has said earlier that fuel control switches in Boeing aeroplanes are safe.
+
+The US plane manufacturer did not comment on the case. Instead it pointed to India’s Aircraft Accident Investigation Bureau’s (AAIB) preliminary investigation report into the crash.
+
+...
+
+[Data](articles/88d6b7aa.json)
+
+[Extended Data](ext_articles/88d6b7aa.ext.json)
+
+---
+
+### Encounter on the shooters
+
+*2025-09-18 12:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/துப்பாக்கிச்சூடு-நடத்தியவர்கள்-மீது-என்கவுண்டர்/54-364845) · `ta`
+
+Popular Bollywood actress Disha Patani's house was shot dead in an encounter.
+
+Actress Disha Pathani in Uttar Pradesh, Uttar Pradesh, was shot dead by unidentified persons in the early hours of the morning of the 12th of this month.. The police were investigating the CCTV footage of the incident.
+
+In it, the shooters were found as Ravindra and Arun. In this case, the police surrounded them near Ghaziabad. They were reportedly firing at the police department at the time.
+
+Subsequently, the police were seriously injured in the gunfire and taken to hospital. But, they both died without treatment. It has also been reported that weapons including gun have been seized from them.
+
+◼️
+
+[Data](articles/4f534405.json)
+
+[Extended Data](ext_articles/4f534405.ext.json)
+
+---
+
+### Protest in front of the CEB Head Office - Road is blocked
+
+*2025-09-18 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214708) · `si`
+
+CID is protesting in front of the CEB headed by the CEB's headquarters by employees of the CEB.
+
+The road was a heavy traffic in front of the Head Office, Ada Derana reporter said.
+
+According to the Ada Derana reporter, there is a heavy traffic congestion from Slavenovathe to Lake House roundabout.
+
+◼️
+
+[Data](articles/38ca16d1.json)
+
+[Extended Data](ext_articles/38ca16d1.ext.json)
+
+---
+
+### One lane opposite CEB head office closed due to protest
+
+*2025-09-18 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112645/one-lane-opposite-ceb-head-office-closed-due-to-protest) · `en`
+
+One lane on the road from Slave Island to Lake House roundabout has been closed due to a protest staged by Ceylon Electricity Board (CEB) employees opposite of the CEB head office, Ada Derana reporter said.
+
+Accordingly, the movement of traffic along the Chittampalam A. Gardiner Mawatha towards Slave Island has been restricted, police stated.
+
+Police confirmed heavy traffic has been reported in the area and requested motorists to use alternative roads.
+
+Electricity trade unions have been staging a protest against the way in which authorities are MOVING forward the restructuring process of the CEB.
+
+Meanwhile, trade unions have also warned that they will further intensify their ongoing trade union actions if their demands continue to be ignored.
+
+Unions commenced a work-to-rule campaign on September 4, in protest against what they describe as the arbitrary restructuring of the Ceylon Electricity Board (CEB).
+
+...
+
+[Data](articles/aa75ba22.json)
+
+[Extended Data](ext_articles/aa75ba22.ext.json)
+
+---
+
+### "Get out of work": Minister Action
+
+*2025-09-18 12:31:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைச்-செய்-இன்றேல்-வெளியேறு-அமைச்சர்-அதிரடி/175-364843) · `ta`
+
+Transport Minister Bimal Ratnayake has said that the officials who are unable to implement the railway services should resign from their posts.
+
+Speaking at a meeting with MPs and Transport Officers at the Kalutara District Secretariat, the Minister criticized the Railway Department for failing to provide basic facilities to the passengers.
+
+“The windows on trains should be closed properly. When they are not properly closed, the seats are soaked. No fan will work. Two and a half hours of journey from Galle to Colombo, there is no water in the same toilet. These are office trains - but passengers are forced to travel in such a situation. Officials have no interest in the public, ”he said.
+
+Minister Ratnayake also pointed out the latest incident that a boy from Ja-Ela fell into the window of his first train trip and lost two fingers.
+
+◼️
+
+[Data](articles/9b9e14bd.json)
+
+[Extended Data](ext_articles/9b9e14bd.ext.json)
+
+---
+
+### "Get out of work": Minister Action
+
+*2025-09-18 12:31:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வேலைச்-செய்-இன்றேல்-வெளியேறு-அமைச்சர்-அதிரடி/150-364843) · `ta`
+
+Transport Minister Bimal Ratnayake has said that the officials who are unable to implement the railway services should resign from their posts.
+
+Speaking at a meeting with MPs and Transport Officers at the Kalutara District Secretariat, the Minister criticized the Railway Department for failing to provide basic facilities to the passengers.
+
+“The windows on trains should be closed properly. When they are not properly closed, the seats are drenched. No fan will work. Two and a half hours of journey from Galle to Colombo, there is no water in the same toilet. These are office trains - but passengers are forced to travel in such a situation. Officials have no interest in the public, ”he said.
+
+Minister Ratnayake also pointed out the latest incident that a boy from Ja-Ela fell into the window of his first train trip and lost two fingers.
+
+◼️
+
+[Data](articles/b3fb23a9.json)
+
+[Extended Data](ext_articles/b3fb23a9.ext.json)
+
+---
+
+### ADB to loan Sri Lanka $100mn to develop tourism regionally
+
+*2025-09-18 12:26:00* · [`economynextcom`](https://economynext.com/adb-to-loan-sri-lanka-100mn-to-develop-tourism-regionally-241039/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank has agreed to release a 100 million dollar loan to Sri Lanka to implement tourism development measures, including in Trincomalee, Dambulla and Sigiriya, Minister Nalinda Jayatissa said.
+
+“The loan is comprised of 2 parts; 70 million dollars is for the policy component and the rest for the investment component,” Jayatissa told reporter earlier this week.
+
+Under the investment part, steps to develop tourism measures in the Trincomalee, Dambulla and Sigiriya regions will be prioritized to increase contributions to the regional economy, he said.
+
+This includes steps to increase more tourist visits to more attractions, better control of tourism traffic, and longer stays. (Colombo/Sep18/2025)
+
+◼️
+
+[Data](articles/28b30916.json)
+
+[Extended Data](ext_articles/28b30916.ext.json)
+
+---
+
+### Shop at Dambulla market destroyed in fire
+
+*2025-09-18 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112644/shop-at-dambulla-market-destroyed-in-fire) · `en`
+
+A fire broke out in a shop within the Dambulla weekly market belonging to the Dambulla Municipal Council early this morning (18).
+
+An employee of the Dambulla Municipal Council had noticed the fire upon reporting for duty this morning and promptly informed the Fire Brigade, Ada Derana reporter said.
+
+Accordingly, they were able to bring the blaze under control.
+
+While the cause of the fire is yet to be determined, it has been confirmed that the shop had been used to store stocks of polythene. All polythene and other stored materials were completely destroyed in the incident.
+
+The Mayor of the Dambulla Municipal Council, Wasantha K. Rajamanthrie stated that if the fire had spread, it could have posed a serious risk to the many shops and residents adjacent to the market.
+
+◼️
+
+[Data](articles/7ad7e5cc.json)
+
+[Extended Data](ext_articles/7ad7e5cc.ext.json)
+
+---
+
+### Ready to prove that a French President's wife is a woman of a McCorn
+
+*2025-09-18 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214707) · `si`
+
+Foreign media has planned to make the photos and scientific evidence that he needs to prove himself a woman by French President.
+
+The American political criteria had been accused of a man named Mr. Emmanuel McCron man, a wife of the French President, Britain.
+
+Accordingly, French president and his wife Brigit McCron had acted before a USA court to take legal action against her.
+
+Their lawyer Tom Clare has said that the President of the country and a president with a professional and family life, the President is also influenced by President Emmanuel Macron.
+
+He added that the couple is ready to promote the scientific expertise in the future.
+
+◼️
+
+[Data](articles/2ecf42a1.json)
+
+[Extended Data](ext_articles/2ecf42a1.ext.json)
+
+---
+
+### Trump drug leap on 23 countries including India and China
+
+*2025-09-18 12:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-சீனா-உள்ளிட்ட-23-நாடுகள்-மீது-ட்ரம்ப்-போதைப்-பொருள்-பாய்ச்சல்/50-364842) · `ta`
+
+US President Donald Trump has said that 23 countries, including China, Afghanistan, India and Pakistan, have a major role in drug trafficking and production.
+
+In a statement filed in the Trump parliament, Afghanistan, The Belis, Bolivia, Myanmar, China, Columbia, Costa Rica, The Dominician Republic, Ecuador, Elwadar, Elwadar, Gautamala, Haitamala, Haitu, Haitura, Haituras, India, Jamaica, Jamaica, Jamaica Venezuela are also featured. It is reported that these countries play an important role in drug production and trafficking.
+
+...
+
+[Data](articles/ad3686c2.json)
+
+[Extended Data](ext_articles/ad3686c2.ext.json)
+
+---
+
+### India has credited US intervention - Pakistan Foreign Minister Ishaq Tar
+
+*2025-09-18 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225379) · `ta`
+
+Pakistani External Affairs Minister Ishaq Tar has said that India has categorically rejected US intervention as US President Donald Trump has intervened in the clash between India and Pakistan.
+
+With this, India's position has confirmed that India does not need a third country intervention to stop the war.
+
+US President Tiprump continued to say, "I have stopped the war between India and Pakistan.". But India denied this and said, “We stopped the attack because Pakistan begged. There is no intervention in the third country. ”
+
+Pakistani Foreign Minister Ishaq Tar told a private television channel that he had received information about the ceasefire on May 11 by US Secretary of State Marco Rubio.
+
+But when he met Rubio in Washington on July 25, Ihak Tar said that Rubio replied, "India has rejected any third-party intervention because India said this was a bilateral issue."
+
+...
+
+[Data](articles/b65093b3.json)
+
+[Extended Data](ext_articles/b65093b3.ext.json)
 
 ---

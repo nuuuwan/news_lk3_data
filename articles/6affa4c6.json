@@ -1,0 +1,21 @@
+{
+  "newspaper_id": "adaderanalk",
+  "url": "https://www.adaderana.lk/news/112687/sri-lankas-third-nano-satellite-successfully-deployed-into-orbit-",
+  "time_ut": 1758298680.0,
+  "original_lang": "en",
+  "original_title": "Sri Lanka\u2019s third nano-satellite successfully deployed into orbit",
+  "original_body_lines": [
+    "Sri Lanka\u2019s third nano-satellite, collaboratively developed by the Kyushu Institute of Technology (Kyutech), Japan, and the Arthur C. Clarke Institute for Modern Technologies (ACCIMT), Sri Lanka, has been deployed into orbit at 2.20 p.m. today (19).",
+    "The Arthur C. Clarke Institute for Modern Technologies in Moratuwa, has announced that the research satellite, named \u2018BIRDS-X Dragonfly,\u2019 is designed to conduct three space research missions.",
+    "Importantly, BIRDS-X Dragonfly comes at no cost to Sri Lanka, the ACCIMT said.",
+    "The project, conceived by former ACCIMT Director-General Eng. (Dr.) Sanath Panawennage as a Kyutech\u2013ACCIMT collaboration, was supported by international partners based on Sri Lanka\u2019s strategic and technical contributions. Funded by the Amateur Radio Digital Communications (ARDC), its launch and deployment are facilitated by JAXA, advancing the mission to \u201cbring diversity to the space sector and democratize space usage.\u201d",
+    "Since 2019, Sri Lankan engineers have contributed to the development of three nanosatellites, with \u2018BIRDS-X Dragonfly\u2019 being the third.",
+    "\u2018BIRDS-X Dragonfly\u2019 satellite was carried to the International Space Station (ISS) aboard the SpaceX-33 rocket, launched by NASA on August 24.",
+    "The project was implemented by the Arthur C. Clarke Institute for Modern Technologies in collaboration with the Kyushu Institute of Technology, along with several international institutions including the Japan Aerospace Exploration Agency (JAXA) and the Digital Radio Communications Institute.",
+    "The successful deployment of \u2018BIRDS-X Dragonfly\u2019 marks another milestone in Sri Lanka\u2019s progress in space technology development.",
+    "Previously, Sri Lanka launched its first nanosatellite, Ravana-1, in 2019 through a collaboration between the Arthur C. Clarke Institute for Modern Technologies (ACCIMT) and the Kyushu Institute of Technology (Kyutech). This was followed in 2022 by the launch of Kitsune, developed under a five-party international collaborative venture coordinated by Kyutech, with ACCIMT serving as a key partner.",
+    "\u2022 In-orbit testing of a new communication sub-system design \u2013 Testing in the space-conditions a new low-cost UHF transceiver built using commercial off-the-shelf components (COTS), exploring affordable and reliable ground-to-space communications for future Nano-satellite missions.",
+    "\u2022 APRS Digipeater \u2013 Provide a satellite-based platform to relay APRS (Automatic Packet Receiving System) messages, enabling global amateur radio operators and researchers to experiment with satellite communication using their own Digipeater design",
+    "\u2022 Store-and-Forward Communication \u2013 Demonstrate a data relay system where user messages can be uploaded, stored onboard, and later downlinked to ground stations in different regions."
+  ]
+}

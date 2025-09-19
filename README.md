@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 14:10:45**
+As of **2025-09-19 14:38:47**
 
 ## Newspaper Stats
 
-*Scraped **76,931** Articles*
+*Scraped **76,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,481
 adaderanalk | 9,931
-tamilmirrorlk | 11,564
+tamilmirrorlk | 11,567
 virakesarilk | 12,508
 adaderanasinhalalk | 13,418
 
@@ -26,67 +26,133 @@ adaderanasinhalalk | 13,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,583 (98.2%) of 76,931 articles have been extended.
+75,599 (98.3%) of 76,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### வெளிநாட்டு வேலைவாய்ப்பு புகார்களை விசாரிக்க சிறப்பு புலனாய்வு பிரிவு
+### ஹட்டனில் வீடு புகுந்து கைவரிசை: யுவதி சிக்கினார்
+
+*2025-09-19 14:18:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-வீடு-புகுந்து-கைவரிசை-யுவதி-சிக்கினார்/76-364919) · `ta`
+
+ஹட்டன் பொலிஸ் பிரிவுக்கு உட்பட்ட எபோட்சிலி மாஸ்க் டிவிசனில் வீடொன்றுக்குள்புகுந்து களவாடிய ஒரு தொகை பணத்துடன் 21 வயது  யுவதியை ஹட்டன் பொலிஸார் சந்தேகத்தின்  பேரில் வியாழக்கிழமை(18) மாலை  கைது செய்துள்ளனர்.
+
+அந்த வீட்டில் இருந்து 95 ஆயிரம் ரூபாய் பணம் , வங்கி தானியங்கி பணம் பெறும் அட்டை ( ATM CARD)  மற்றும் ஆள் அடையாள அட்டை என்பன அந்த யுவதியால்  திருடப்பட்டுள்ளது.
+
+அதன் பின்னர் குறித்த ATM அட்டையை பயன்படுத்தி வங்கி ஒன்றில் ஒரு லட்சம் ரூபாய் பணத்தை  எடுத்துள்ளார்.
+
+அது தொடர்பில் ஹட்டன் பொலிஸாருக்கு கிடைத்த முறைப்பாட்டையடுத்து வங்கியில் பொருத்தப்பட்டிருந்த CCTV கமராவின் உதவியுடன் சந்தேக நபரான 21 வயதுடைய யுவதியை  பொலிஸார்   கைது செய்துள்ளனர்.
+
+சந்தேக நபரான அந்த யுவதியை ஹட்டன் மாவட்ட நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட உள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f233a797.json)
+
+---
+
+### Gaza War: UN resolution failure
+
+*2025-09-19 14:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-போர்-ஐ-நா-வின்-தீர்மானம்-தோல்வி/50-364918) · `ta`
+
+Hamas terrorists attacked West Asia, Israel on October 7, 2023. More than 251 were caught as hostage. In return, Israel launched a war on Palestine's Gaza.
+
+More than 60 thousand people have been killed. It has been reported that 80 per cent of the Gaza areas have been brought under the control of the Israeli military.
+
+Israeli army is progressing through the ground in Gaza, Palestine. As the tension has increased there, the Palestinians are emptying the city of Gaza and the crowds are out of the crowd.
+
+In this case, the UN to end the war immediately in Gaza. The Security Council resolution failed. The United States again failed to use its veto power.
+
+◼️
+
+[Data](articles/b82d921e.json)
+
+[Extended Data](ext_articles/b82d921e.ext.json)
+
+---
+
+### Banning for books written by women in Afghanistan
+
+*2025-09-19 14:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-பெண்கள்-எழுதிய-புத்தகங்களுக்கு-தடை/50-364917) · `ta`
+
+The Taliban ruled after US forces left Afghanistan in 2021. From that since then there have been women and children's rights being taken there. There are strict restrictions on women to go out, educate and work.
+
+In this case, women's books on women's rights and gender have been removed as they were featured in university subjects.. According to the new Education Act, 680 Buddhists have been banned, including 140 books written by women and 310 books of Iranian writers, as the Taliban's policies and Sharia law are against the law.
+
+And the University of Afghanistan, claiming that Sharia is contradictory with law. The Taliban government has banned women's books in subjects. It is noteworthy that the Taliban government recently banned the Piper Optical Internet service in about 6 provinces in Afghanistan.
+
+◼️
+
+[Data](articles/82f465c7.json)
+
+[Extended Data](ext_articles/82f465c7.ext.json)
+
+---
+
+### Special Intelligence Unit to investigate foreign employment complaints
 
 *2025-09-19 13:51:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-புகார்களை-விசாரிக்க-சிறப்பு-புலனாய்வு-பிரிவு/175-364916) · `ta`
 
-வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான புகார்களை விசாரித்து உடனடியாக தீர்வு காணும் வகையில், இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைமை அலுவலகத்தில்  காவல்துறை அதிகாரிகளைக் கொண்ட சிறப்பு புலனாய்வுப் பிரிவு வெள்ளிக்கிழமை (19) திறக்கப்பட்டது. இந்தப் பிரிவுக்கு தலைமை ஆய்வாளர் உட்பட 16 பொலிஸ் அதிகாரிகள் நியமிக்கப்பட்டுள்ளனர்.
+Special Investigation Unit of Police Officers at the Headquarters of the Sri Lanka Foreign Employment Bureau at the Headquarters of the Sri Lanka Foreign Employment Bureau opened on Friday (19) to investigate complaints of foreign employment.. 16 police officers, including Chief Inspector, have been appointed to this unit.
 
-“வெளிநாட்டு வேலைவாய்ப்பு மோசடியைத் தடுப்பதையும், புகார்களுக்கு உடனடி தீர்வுகளை வழங்குவதன் மூலம் புலம்பெயர்ந்த சமூகத்திற்கு நிவாரணம் வழங்குவதையும் நோக்கமாகக் கொண்டு இந்தப் பிரிவு நிறுவப்பட்டது,” என்று வெளியுறவு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திர கூறினார். புதிய அரசாங்கம் ஆட்சிக்கு வந்த பிறகு இந்தப் பிரிவு விரைவாக நிறுவப்பட்டது என்று அவர் கூறினார்.”
+“This section is aimed at preventing foreign employment fraud and providing relief to the immigrant community by providing immediate solutions to complaints,” said Foreign and Foreign Employment Deputy Minister Arun Hemachandra said.. He said that after the new government came to power, the faction was established quickly. ”
+
+“I think the number of complaints received in recent times has increased. This is because the parties involved in foreign employment fraud are using tactics one after another one after another. A group that is somehow transformed is involved in these scams. Some groups are fraudulent as unregistered agents in the console.
 
 ...
 
 [Data](articles/5bd05b52.json)
 
+[Extended Data](ext_articles/5bd05b52.ext.json)
+
 ---
 
-### උඩුදුම්බර ඛේදවාචකය - දෙදිනකට පෙර පියාත් ලියුකේමියාවෙන් මිය ගිහින්
+### The Uddumbara Traged Traged - Father and Leukemia died a day ago
 
 *2025-09-19 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214754) · `si`
 
-ලියුකේමියාවෙන් මියගිය සිය සැමියාගේ දේහය නිවසේ තිබියදීම සිය දරු තිදෙනා සමඟ වස පානය කළ කාන්තාවක් පිළිබඳ ඛේදනීය පුවතක් උඩුදුම්බර ප්‍රදේශයෙන් වාර්තා වුණි.
+The tragedy was reported from Ududumbara area about a woman who had died of leukemia at home.
 
-සිද්ධියෙන් එම කාන්තාව මිය ගොස් ඇති අතර දරුවන්ගේ සෞඛ්‍ය තත්ත්වය යහපත් බව රෝහල් බලධාරීන් ප්‍රකාශ කළේය.
+The woman died in the incident while children's health was good.
 
-"මැරෙන්න එපා ඇස් අරින්න...ඇස් අරින්න" මේ හද කම්පා කළ වචන කිහිපයකි.
+"Don't die ... Open the eyes ...
 
-කෙළිදෙලෙන්, සහෝදරකමින් මේ මොහොතේ උඩුදුම්බර ප්‍රාදේශීය රෝහලේ ඇඳක් උඩට වී සිටින මෙම දරුවන් තිදෙනා බලා සිටින්නේ, විසක් ශරීරගත වී ඇත්දැයි යන සැකයෙනි.
+The three children who are in the Ududumbara Divisional Hospital at the Ududumbara Divisional Hospital at the moment are the suspected of a bed of the Ududumbara Divisional Hospital.
 
-මේ දරුවන්ගේ මව ඊයේ (18) රාත්‍රියේ කිරි සම﻿ඟ වස මුසුකර දරුවන්ට පානයට කරන්නට දී ඇතත් වෙනදා මෙන් නොව එහි වූ තිත්ත රස නිසා දරුවන් කිරි කෝප්ප ප්‍රතික්ෂේප කර තිබුණි.
+The mother of these children had to drink the children to drink the kills at night, but the bitter tastes of their children had refused milk cups of milk.
 
-දරුවන් තිදෙනා එය ප්‍රතික්ෂේප කළත් මව ඒ සියල්ල පානය කිරීමෙන් පසු රෝගී වී තිබුණි.
+Although the three children refused to reject it, but the mother had been ill.
 
-පසුව අසල්වැසියන් විසින් දරුවන් සහ මව කඩිනමින් රෝහල් ගතකර ඇති අතර, ඒ වනවිටත් මව මෙළොව හැරගොස් තිබුණි.
+Later, neighbors were hospitalized immediately after their neighbors and had already left the mother of mother.
 
-රෝහල් බලධාරීන් පවසන පරිදි දරුවන්ට කිසිදු ගැටලුවක් නොමැති බව අනාවරණය වී තිබේ.
+According to the hospital authorities, children have no problem.
 
 ...
 
 [Data](articles/8e57a60e.json)
 
+[Extended Data](ext_articles/8e57a60e.ext.json)
+
 ---
 
-### ஐ.தே.க மாநாட்டில் சஜித் பங்கேற்கமாட்டார்?
+### Will Sajith not participate in the UNP conference?
 
 *2025-09-19 13:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-மாநாட்டில்-சஜித்-பங்கேற்கமாட்டார்/175-364915) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, ஐக்கிய தேசியக் கட்சியின் மாநாட்டில் கலந்து கொள்ள மாட்டார் என்று கட்சி வட்டாரங்கள் தெரிவித்தன.
+Opposition leader Sajith Premadasa will not attend the UNP conference, party sources said.
 
-எனினும், ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார மற்றும் சில பாராளுமன்ற உறுப்பினர்கள் மட்டுமே கட்சி சார்பாக கலந்து கொள்ள உள்ளனர்.
+However, the General Secretary of the United People's Power Ranjith Mathuma Bandara and only a few MPs will attend the party.
 
-ஐக்கிய தேசியக் கட்சியின் 79வது ஆண்டு நிறைவுக் கூட்டம் பத்தரமுல்லையில் உள்ள மோனார்க் இம்பீரியல் ஹோட்டலில் அதன் தலைவர் ரணில் விக்கிரமசிங்க தலைமையில் சனிக்கிழமை (20) காலை 9.00 மணிக்கு நடைபெறும்.
+The 79th Annual Meeting of the United National Party will be held at the Monark Imperial Hotel in Battaramulla at 9.00 am on Saturday (20) under the patronage of its leader Ranil Wickremesinghe.
 
-இந்த ஆண்டு நிறைவுக் கூட்டத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ உட்பட எதிர்க்கட்சி அரசியல் தலைவர்கள் குழு கலந்து கொள்ள உள்ளது.
+Opposition political leaders, including Namal Rajapaksa, National Organizer and Member of Parliament, will attend this annual meeting.
 
 ◼️
 
 [Data](articles/15540d11.json)
+
+[Extended Data](ext_articles/15540d11.ext.json)
 
 ---
 
@@ -112,37 +178,41 @@ The arrested Sasheendra Rajapaksa has continued to be remanded after being produ
 
 ---
 
-### ඩෑන් ඝාතනයේ සැකකාර වෙඩික්කරු අත්අඩංගුවට
+### Dan murder suspect arrested
 
 *2025-09-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214753) · `si`
 
-දේශපාලන ක්‍රියාකාරිකයෙකු වූ ඩෑන් ප්‍රියසාද් ඝාතනයට සම්බන්ධ සැකකාර වෙඩික්කරු කෑගල්ල රන්වල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+The suspicious shot of the murder of the political activist Dan Priyasha has been arrested in Ranwala area in Kegalle.
 
-අදාළ සැකකරු ඇතුළු තිදෙනෙකු ඊයේ (18) රාත්‍රියේ මෙලෙස අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගත් අය අතර කාන්තාවක් ද වන බව වාර්තා වෙයි.
+Three persons including the suspect have been arrested last night (18) and a woman among the arrested persons.
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරුවන් සතුව තිබී නීතිවිරෝධී දුම්වැඩි 12,400ක් සහ ගජමුතු කිහිපයක් තිබී සොයාගෙන ඇත.
+At the time of his arrest, the suspects had 12,400 illegal cigarettes and several gauge.
 
-එක් සැකකරුවෙක් යුද හමුදාවේ සේවය කර නීත්‍යානුකූලව ඉවත්වූ අයෙකු බවද පොලීසිය පවසයි.
+One of the suspects was a legally resignation of the Army and led by the army.
 
 ◼️
 
 [Data](articles/2129a246.json)
 
+[Extended Data](ext_articles/2129a246.ext.json)
+
 ---
 
-### ප්‍රා. ලේ. කොට්ඨාස 6ට නාය යාමේ අනතුරු ඇඟවීම්
+### Primary. Blood. Landslide warnings to 6 divisions
 
 *2025-09-19 13:12:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා--ලේ--කොට්ඨාස-6ට-නාය-යාමේ-අනතුරු-ඇඟවීම්/11-418604) · `si`
 
-පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස හයක් සඳහා  නායයෑමේ  අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය අද (19)  පියවර තිබේ.
+The National Building Research Organization (NBR) has today (19) to issue landslide warning announcements for six districts in five districts due to adverse weather conditions.
 
-ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ සීතාවක, කළුතර දිස්ත්‍රික්කයේ ඉංගිරිය, හොරණ, කෑගල්ල දිස්ත්‍රික්කයේ දෙහිඹ්විට, රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර  හා නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ   යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සඳහා අනතුරු ඇඟවීමේ පළමු වන  මට්ටමේ විමසිලිමත්ව සිටින ලෙස දැනුම්දීමේ නිවේදන  නිකුත් කොට තිබේ.
+The informs of Colombo District have been released to be aware of the first level to be aware of the first level of warning to the Kotmale, Ratnapura and Nuwara Eliya District in the Colombo District of Colombo, Horana, Ratnapura District.
 
-අද (19) පෙරවරු 10.00 සිට හෙට (20) පෙරවරු 10.00 දක්වා මෙම නිවේදන වලංගු වන බවත්, එම නිවේදන නිකුත් කොට ඇති ප්‍රාදේශීය ලේකම්  කොට්ඨාසයන්ගේ  පදිංචි ජනතාව මේ පිළිබඳව අවධානයෙන් සිටිය යුතු බවද ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය වැඩිදුරටත් සඳහන් කරයි.
+The announcements will be valid from 10.00 am to 10am tomorrow (20) and the people of the Divisional Secretariat who have issued the announcements should be aware of this.
 
 ◼️
 
 [Data](articles/7e2ca1f8.json)
+
+[Extended Data](ext_articles/7e2ca1f8.ext.json)
 
 ---
 
@@ -1925,65 +1995,5 @@ World Safety Day was declared by the World Health Organization in 2019 to safely
 [Data](articles/4caee59b.json)
 
 [Extended Data](ext_articles/4caee59b.ext.json)
-
----
-
-### AFD of France keen on pump storage plants as Sri Lanka eyes funding
-
-*2025-09-19 05:00:00* · [`economynextcom`](https://economynext.com/frances-afd-keen-on-pump-storage-plants-as-sri-lanka-eyes-funding-241122/) · `en`
-
-ECONOMYNEXT – The French development agency is keen to support pump storage plants as part of its commitment to climate change resilience and green energy, an official said as Sri Lanka’s power grid eyes 600 MegWatt unit accommodate intermittent renewables.
-
-“Actually, pump storage is one of the solutions that AFD is really keen to support,” the Deputy Head of Energy at Agence Française de Développement, Manelle Ait Sahlia told reporters in Paris.
-
-“It’s not an easy solution from a technical point of view. But it’s a very interesting solution in countries with hydro potential.”
-
-“We’ve approved the financing last year for a pump storage project in Vietnam. And AFD was leading a pool of financiers and leading a Team Europe approach for this project.”
-
-The German Reconstruction Bank (KfW), the Japan International Cooperation Agency (JICA), the European Investment Bank (EIB) had joined AFD in co-financing the Vietnam project.
-
-...
-
-[Data](articles/73d3316d.json)
-
-[Extended Data](ext_articles/73d3316d.ext.json)
-
----
-
-### Sri Lanka opens large water supply system funded by China
-
-*2025-09-19 00:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-large-water-supply-system-funded-by-china-241159/) · `en`
-
-ECONOMYNEXT – Sri Lanka has opened its integrated water supply system which will provide safe drinking water to people in Gampaha, Minuwangoda and Attanagalla and parts of Mahara and Mirigama, minister Vijitha Herath said.
-
-The large-scale project begun by the former Yahapalanaya government, includes 88,000 new water connections and the upgrading of about 22,000 existing water connections.
-
-The project includes the Basnagoda Reservoir with a capacity of 5.5 million cubic meters, a pumping station with a capacity of 85,000 cubic meters a day, a water treatment plant with a capacity of 54,000 cubic meters a day, a high-level water tank with a capacity of 10,000 cubic meters, and 5 water towers with a capacity of 1,500 cubic meters.
-
-The total length of the transmission pipeline is 85 km with a distribution pipeline network of 504 km.
-
-The project was mainly funded by the China Development Bank and carried out by China Machinery Engineering Corporation (CMEC). (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/ffe775c3.json)
-
-[Extended Data](ext_articles/ffe775c3.ext.json)
-
----
-
-### Duti Welelige's father passes away
-
-*2025-09-19 00:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214735) · `si`
-
-Dhamma Vellalage's dear father, Suranga Welleala, has passed away.
-
-He had been completed by a heart attack, and the year-old was 54 years old.
-
-◼️
-
-[Data](articles/7cd7768b.json)
-
-[Extended Data](ext_articles/7cd7768b.ext.json)
 
 ---

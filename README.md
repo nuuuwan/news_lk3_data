@@ -1,86 +1,248 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 09:12:51**
+As of **2025-09-19 10:20:36**
 
 ## Newspaper Stats
 
-*Scraped **76,869** Articles*
+*Scraped **76,881** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 631
+dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
 economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,473
-adaderanalk | 9,918
+adalk | 7,475
+adaderanalk | 9,923
 tamilmirrorlk | 11,547
-virakesarilk | 12,498
-adaderanasinhalalk | 13,405
+virakesarilk | 12,500
+adaderanasinhalalk | 13,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,272 (97.9%) of 76,869 articles have been extended.
+75,321 (98.0%) of 76,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### இன்று இடியுடன் கூடிய மழை
+### பஸ்ஸில் இருந்து கீழே விழுந்து இளைஞன் பலி!
+
+*2025-09-19 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225472) · `ta`
+
+கிளிநொச்சி பொலிஸ் பிரிவுக்கு உட்பட்ட உருத்திபுரம் வீதியில் பஸ்ஸில் இருந்து கீழே விழுந்து இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+
+ஆடைத் தொழிற்சாலை ஊழியர்களை ஏற்றி அரவியர் நகரிலிருந்து உருத்திபுரம் நோக்கிச் சென்ற பஸ்ஸில் பயணித்த இளைஞன் ஒருவர்  பஸ்ஸில் இருந்து கீழே விழுந்துள்ளார்.
+
+◼️
+
+[Data](articles/a6e613a0.json)
+
+---
+
+### Dunith Wellalage returns to Sri Lanka after father’s passing
+
+*2025-09-19 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112665/dunith-wellalage-returns-to-sri-lanka-after-fathers-passing) · `en`
+
+Sri Lankan all-rounder Dunith Wellalage has returned to the island this morning (19) following the sudden passing of his father, Suranga Wellalage.
+
+He returned from Abu Dhabi onboard Etihad Airways flight EY-392, which reached the Bandaranaike International Airport (BIA) in Katunayake, at 8:25 a.m. today, said Ada Derana reporter.
+
+Wellalage was accompanied by an official from Sri Lanka Cricket (SLC).
+
+Upon arrival, he was swiftly cleared through airport formalities and departed the premises immediately.
+
+Suranga Wellalage, a former cricketer himself, passed away on September 18 at the age of 54, reportedly due to a sudden heart attack.
+
+His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
+
+◼️
+
+[Data](articles/c62ccd3d.json)
+
+---
+
+### ரஷ்யாவில் நிலநடுக்கம் : சுனாமி எச்சரிக்கை !
+
+*2025-09-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225470) · `ta`
+
+ரஷ்யாவில் கம்சட்கா பகுதியில் 7.8 மெக்னிடியூட் அளவிலான நிலநடுக்கம் ஏற்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+ரஷ்யாவின் கம்சட்கா பகுதிக்கு அருகிலுள்ள பெட்ரோபாவ்லோவ்ஸ்க்-கம்சட்ஸ்கி நகரத்திலேயே நிலநடுக்கம் உணரப்பட்டதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இந்த நிலநடுக்கம் 10 கிலோ மீற்றர் (6.21 மைல்) ஆழத்தில் பதிவாகியுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+
+ஹவாய், கனடாவின் பசிபிக் கடற்கரை மற்றும் அமெரிக்க நிலப்பகுதிக்கு ஆபத்தான அளவுக்கு உயர்ந்த சுனாமி அலைகள் ஏற்படும் அபாயம் இல்லை என அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
+
+இருப்பினும், மையப்பகுதிக்கு அருகில் உள்ள ரஷ்யாவின் கடற்கரையில் சுனாமி அலைகள் இன்னும் ஏற்பட வாய்ப்புள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/1a4f8d28.json)
+
+---
+
+### Duti Welella's return to the island
+
+*2025-09-19 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214742) · `si`
+
+The Sri Lanka Cricketer Dutto Wellala's due to the death of his father, arrived at the Katunayake Airport.
+
+◼️
+
+[Data](articles/54c5addb.json)
+
+[Extended Data](ext_articles/54c5addb.ext.json)
+
+---
+
+### 2026 Budget to lay foundation for country’s development – Dy Minister
+
+*2025-09-19 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112663/2026-budget-to-lay-foundation-for-countrys-development-dy-minister-) · `en`
+
+Deputy Minister of Economic Development Dr. Anil Jayantha Fernando has stated that the upcoming national budget will lay the foundation for the country’s development.
+
+He emphasized that the government intends to utilize the limited financial resources available for programs aimed at attracting investment and improving infrastructure.
+
+Dr. Fernando made these remarks while delivering a special statement on the forthcoming budget.
+
+◼️
+
+[Data](articles/b1c82e49.json)
+
+---
+
+### Woman dies after consuming poison, three children hospitalised
+
+*2025-09-19 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112662/woman-dies-after-consuming-poison-three-children-hospitalised-) · `en`
+
+A 32-year-old woman from the Hapudandawala area of Dambagahapitiya, Ududumbara, has died after reportedly feeding her three children poison and then consuming poison herself, police confirmed.
+
+The tragic incident had occurred just two days after the death of her 34-year-old husband, who had succumbed to leukemia.
+
+It has been revealed that the couple’s three sons, aged 12, 10, and 5, are also suffering from leukemia, police said.
+
+The children, who were given poison, are currently receiving treatment at the Ududumbara Divisional Hospital.
+
+According police, the lives of the children are not at risk as their condition is improving.
+
+Police further reported that the deceased woman had been undergoing treatment for a mental disorder.
+
+◼️
+
+[Data](articles/6f8375c0.json)
+
+---
+
+### The main goal of the budget 2026 is the bottom
+
+*2025-09-19 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214741) · `si`
+
+Deputy Minister of Economic Development Dr. Anil Jayantha says that there will be a lack of the future budget development.
+
+He points out that the government is looking for the development of infrastructure to develop the limited amount of money.
+
+Deputy Minister of Economic Development Dr. Anil Jayantha made this statement in making a special statement on the budget.
+
+◼️
+
+[Data](articles/0b86e0e5.json)
+
+[Extended Data](ext_articles/0b86e0e5.ext.json)
+
+---
+
+### Global cricket stars express condolences over death of Dunith Wellalage’s father
+
+*2025-09-19 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112661/global-cricket-stars-express-condolences-over-death-of-dunith-wellalages-father) · `en`
+
+The global cricketing fraternity has expressed profound sorrow over the sudden demise of Suranga Wellalage, the father of young Sri Lankan all-rounder Dunith Wellalage, who was representing his country in the Asia Cup cricket tournament.
+
+Suranga Wellalage, a former cricketer himself, passed away on September 18 at the age of 54, reportedly due to a sudden heart attack.
+
+His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
+
+Many international cricketers have extended their condolences to Dunith and his family.
+
+Former Afghanistan captain Mohammad Nabi, who played a crucial innings for his side in the same match, took to his official X (formerly Twitter) account to share his sympathies.
+
+“Heartfelt condolences to Dunith Wellalage and his family on the loss of his beloved father. Stay strong Brother.”
+
+Bangladesh T20 captain Litton Das also expressed his grief in a heartfelt message on social media, saying:
+
+...
+
+[Data](articles/ee86adb8.json)
+
+---
+
+### Thunderstorms today
 
 *2025-09-19 08:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-364900) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, வடக்கு மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology has forecast showers or thunderstorms in the Western, Central, North and North Western Provinces and Galle and Matara districts.
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும், ஹம்பாந்தோட்டை மாவட்டத்திலும் பிற்பகல் 1.00 மணிக்குப் பிறகு அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் அந்த திணைக்களம் வெளியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+In the Eastern and Uva provinces and Hambantota district, there is a weather forecast by the Department of Rain or Thundershowers after 1.00 pm.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 50 மில்லி மீற்றருக்கும் அதிகமான ஓரளவு பலத்த மழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது. (a)
+It has been reported that more than 50 millimeters of heavy rains are expected in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.. (A)
 
 ◼️
 
 [Data](articles/0721b1de.json)
 
+[Extended Data](ext_articles/0721b1de.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் மழை பெய்யும்
+### Rains throughout the country
 
 *2025-09-19 08:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-மழை-பெய்யும்/175-364899) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, வடக்கு மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology has forecast showers or thunderstorms in the Western, Central, North and North Western Provinces and Galle and Matara districts.
 
 கிழக்கு மற்றும் ஊவா மாகாணங்களிலும், ஹம்பாந்தோட்டை மாவட்டத்திலும் பிற்பகல் 1.00 மணிக்குப் பிறகு அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீட்டருக்கும் அதிகமான ஓரளவு பலத்த மழை பெய்யக்கூடும்.
+Heavy rains are likely to experience more than 50 mm in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும், வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும், திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது 30-40 கி.மீ வேகத்தில் ஓரளவு பலத்த காற்று வீசக்கூடும்.
+Strong winds may be blowing at speeds of 30-40 km from time to time in the western slopes of the Central Highlands, North Central and North Western Provinces and Trincomalee and Hambantota districts.
 
-...
+The Department of Meteorology has advised the public to take necessary precautions to reduce the impacts of heavy winds and lightning strikes in the area during thunderstorms.. Remble
+
+◼️
 
 [Data](articles/68292b0e.json)
 
+[Extended Data](ext_articles/68292b0e.ext.json)
+
 ---
 
-### මවක් දරු තිදෙනාටත් වස දී සියදිවි හානි කරගනී
+### Mother commits suicide in 3 children
 
 *2025-09-19 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214740) · `si`
 
-උඩුදුම්බර, දඹගහපිටිය හපුදණ්ඩුවල ප්‍රදේශයේ දී මවක් සිය දරු තිදෙනාට වස පානය කිරීමට සලස්වා ඇයද වස පානය කර ඇති බව වාර්තා වේ.
+She has been poisoned to poison to his three children in Ududumbara, Dambadhapitiya under Hapudhapitiya, Ududumbapitiya.
 
-ඇගේ සැමියා මීට දින දෙකකට පමණ මියගොස් ඇති අතර, 34 හැවිරිදි වියේ පසු වූ ඔහු ලියුකේමියා රෝගය හේතුවෙන් එලෙස මියගොස් ඇත.
+The mother died, while the three children are receiving treatment at the Ududumbara Divisional Hospital.
 
-වයස අවුරුදු 12, 10 හා 5 වයස්වල පසු වූ දරු තිදෙනාද (පිරිමි දරුවන්) ලියුකේමියා රෝගයෙන් පීඩා විඳින බව සඳහන්.
+The victim was a 32 year old woman and said she was receiving treatment due to a mental disorder.
 
-එමෙන්ම මියගිය කාන්තාවද මානසික ආබාධයක් හේතුවෙන් ප්‍රතිකාර ලබමින් සිටි බව වාර්තා වේ.
+Her husband had died for about two days and was 34 years old and died in the face of suffering leukemia.
+
+The three ages of age 12, 10 and 5 are boys, and they are suffering from leukemia.
+
+The police stated that the police were working closely for the benefit of the family.
 
 ◼️
 
 [Data](articles/54f99ceb.json)
+
+[Extended Data](ext_articles/54f99ceb.ext.json)
 
 ---
 
@@ -97,6 +259,46 @@ The buildings in the area were shaken by this earthquake. Tsunami warning has a
 [Data](articles/fa0c5f79.json)
 
 [Extended Data](ext_articles/fa0c5f79.ext.json)
+
+---
+
+### Showers in many areas today
+
+*2025-09-19 08:11:02* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍රදේශවලට-වැසි/11-418599) · `si`
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North and Northwestern districts, the Met Department said.
+
+At the district of the district and the district in the Eastern and Uva provinces. Showers or thundershowers will occur at several places in the past 1.00.
+
+MM in Sabaragamuwa Provincial Councils and Galle and Matara districts. Heavy showers more than 50 will experience.
+
+◼️
+
+[Data](articles/ebb5c88e.json)
+
+[Extended Data](ext_articles/ebb5c88e.ext.json)
+
+---
+
+### US again vetoes UN Security Council Gaza ceasefire call
+
+*2025-09-19 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112660/us-again-vetoes-un-security-council-gaza-ceasefire-call) · `en`
+
+The United States on Thursday (Sep 18) again wielded its veto and thwarted a UN Security Council call for a ceasefire in Gaza, shielding its ally Israel from meaningful diplomatic pressure.
+
+The 14 other members of the Council backed the resolution, initiated in August in response to the UN’s official declaration of famine after nearly two years of Israel’s war on Hamas in the Palestinian territory.
+
+The vote came as Israeli tanks and jets pounded Gaza City, the target of a major new ground offensive, forcing Palestinians to flee south.
+
+The resolution text seen by AFP had demanded “an immediate, unconditional and permanent ceasefire in Gaza respected by all parties” as well as the immediate and unconditional release of hostages.
+
+The US has repeatedly rejected that approach multiple times, most recently in June when it used its veto to back Israel.
+
+...
+
+[Data](articles/14df9c69.json)
+
+[Extended Data](ext_articles/14df9c69.ext.json)
 
 ---
 
@@ -954,6 +1156,8 @@ If Afghanistan wins the tournament, they will qualify for the Super 4 round with
 
 [Data](articles/90a98d78.json)
 
+[Extended Data](ext_articles/90a98d78.ext.json)
+
 ---
 
 ### Super - 4 round Sri Lanka needs 101 runs
@@ -1152,6 +1356,26 @@ Robot Shankar was admitted to hospital with jaundice a few years ago. It is note
 
 ---
 
+### Practical modular for Dhamma Education
+
+*2025-09-18 21:31:27* · [`adalk`](https://www.ada.lk/breaking_news/දහම්-අධ්‍යාපනය-සඳහා-ප්‍රායෝගික-මොඩියුලර්/11-418594) · `si`
+
+Attention was to prepare practical modulars for new education reforms and introduce a systematic procedure for the evaluation process and supervise them through the Provincial Education Departments and zonal offices.
+
+The teaching of religion must be made compulsory to minimize 20 times when religion teaches other subjects to teach other subjects in schools.
+
+It was also unable to issue a special tipist treat for the monks of the schools.
+
+Amarapura Maha Nikaya Siri Sumangala Thero and Amarapura Maha Seikaya Amarapura Maha Nikaya, Amarapura Maha Nikaya, Commissioner General of Buddhist Amarami Amararile, and the Advisory Council of the Advisory Council of Eigamma Amararile Thero. M. G. Senaratne, Education Additional Secretary, Commissioner General of Education Publications ,,
+
+◼️
+
+[Data](articles/55ecfd2a.json)
+
+[Extended Data](ext_articles/55ecfd2a.ext.json)
+
+---
+
 ### Web range for foreigners involved in theft
 
 *2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
@@ -1170,21 +1394,25 @@ It is reported that the driver of Paravurthi has lodged a complaint at the polic
 
 ---
 
-### මගේ වත්කම් ගැන පක්ෂය‌ට ගැටලුවක් නෑ
+### The party has no problem with my assets
 
 *2025-09-18 21:25:58* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-වත්කම්-ගැන-පක්ෂය‌ට-ගැටලුවක්-නෑ/11-418593) · `si`
 
-වත්කම් බැරකම් පිළිබඳ තොරතුරු මෙවර මැතිවරණයෙදී පමණක් නොව, මීට පෙර පැවැති මැතිවරණ වලදීද ඉදිරිපත් කළ බවත්, මෙම වත්කම් වෙනත් පුද්ගලයන්ට මැජික් එකක් වුවද තමන්ට එය මැජික් එකක් නොවන බව වෙළඳ, වාණිජ හා පාරිභෝගික කටයුතු අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+Minister of Trade, Commercial and Consumer Affairs Wasantha Samarasinghe said that these assets were presented in previous elections but also in previous elections.
 
-අමාත්‍යවරයා මේ බව සඳහන් කළේ ඊයේ (18දා) අනුරාධපුර නෙළුබෑව ප්‍රදේශයේ සිදු කළ සංචාරයකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ය.
+The Minister was speaking at a visit to the Neilbawa area in Anuradhapura yesterday (18).
 
-පෞද්ගලිකව තමන්ගේ ආර්ථිකය ගොඩනැගීම පිළිබඳව තම පක්ෂයට හෝ තම සාමාජිකයන්ට, පාක්ෂිකයන්ට ගැටලුවක් නොමැති බවත්, මෙය ගැටළුවක් වී ඇත්තේ පසුගිය කාලයේදී මහජන මුදල් සොරාකපු හා අවභාවිත කළ පුද්ගලයන්ට වන බව අමාත්‍යවරයා කීය.
+The Minister said that this is a problem with his party or members of their own economy, the party said that the public money was reserved in recent years.
 
-විදුලි බල මණ්ඩලයේ විරෝධය සම්බන්ධයෙන් අදහස් දක්වමින් අමාත්‍යවරයා කියා සිටියේ වෘත්තීය සමිති සමඟ කිසිදු ගැටලුවක් නොමැති බවය.
+Speaking on the protest of the CEB, the Minister said that there was no problem with the trade unions.
 
-...
+The government has decided to import rice to import the rice of Rs. The Minister said.
+
+◼️
 
 [Data](articles/24deb51c.json)
+
+[Extended Data](ext_articles/24deb51c.ext.json)
 
 ---
 
@@ -1214,19 +1442,21 @@ Both banned sergeants were aged 58 and 59 years old, and another 60 months, and 
 
 ---
 
-### அடுக்குமாடி குடியிருப்பில் இருந்து விழுந்த சீன பிஜை சடலமாக மீட்பு
+### Chinese Bija's body recovery from an apartment
 
 *2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜை-சடலமாக-மீட்பு/175-364875) · `ta`
 
-தெஹிவளையில் உள்ள அடுக்குமாடி குடியிருப்பு ஒன்றில் இருந்து விழுந்ததாக சந்தேகிக்கப்படும் சீன நாட்டவரின் உடலை தெஹிவளை பொலிஸார் மீட்டுள்ளனர்.
+The Dehiwala police have recovered the body of a Chinese national who has been suspected of falling from an apartment in Dehiwala.
 
-அல்விஸ் வீதியில் உள்ள ஒரு வீட்டின் பின்னால் கிடைத்த தகவலைத் தொடர்ந்து சடலம் கண்டெடுக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Police said the body was found following information behind a house on Alvis Road.
 
-தனியார் துறையில் பணிபுரியும் பல சீன நாட்டவர்கள் வீட்டை ஒட்டிய அடுக்குமாடி குடியிருப்பு வளாகத்தில் வசித்து வருவது தெரியவந்துள்ளது,
+It has been revealed that many Chinese nationals working in the private sector live in an apartment complex.
 
 ◼️
 
 [Data](articles/913b8c89.json)
+
+[Extended Data](ext_articles/913b8c89.ext.json)
 
 ---
 
@@ -1552,6 +1782,22 @@ The reception, which was given to President Trump, has re -confirmed the strong 
 
 ---
 
+### கச்சதீவை உடைமையாக்குவது அல்ல, இந்திய மீனவர்கள் சட்டவிரோதமாக மீன்பிடிப்பதே பிரதான பிரச்சினை
+
+*2025-09-18 18:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86436) · `en`
+
+2025 செப்டெம்பர் முதலாம் திகதி கச்சதீவுக்கு சென்றதன் மூலம் ஜனாதிபதி அநுரா குமார திசநாயக்க அந்த மண்ணில் காலடி வைத்த இலங்கையின் முதலாவது அரச தலைவர் என்று வரலாறு படைத்திருக்கிறார். வடபகுதி கடலோரத்துக்கு அப்பால் இருக்கும் அந்த சின்னஞ்சிறிய தீவுக்கு கடற்படையின் பி.211 அதிவேகப்படகில் ஜனாதிபதி செய்த கன்னிப்பயணத்தில் கடற்தொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர், பொதுப் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால, கடற்படையின் வடக்கு தளபதி றியர் அட்மிறல் புத்திக்க லியனகமகே ஆகியோரும் கூடச் சென்றனர்.
+
+தீவு என்று அழைக்கப்பட்டாலும், அளவில் கச்சதீவு உண்மையில் ஒரு குட்டித்தீவேயாகும். 285 ஏக்கர் பரப்பளவைக் கொண்ட கச்சதீவு 1.6 கிலோமீட்டர் நீளத்தையும் 300 மீட்டர் அகலத்தையும் உடையதாகும். மக்கள் வாழாத அதில் புனித அந்தோனியார் கத்தோலிக்க தேவாலயமும் இலங்கை கடற்படையின் சிறியதொரு பிரிவுமே  இருக்கின்றன. பழைய உப்புத்தண்ணீர் கிணறு ஒன்றைத் தவிர, கச்சதீவின் மணல் பாங்கான நிலத்தில் நன்னீருக்கான வளம் எதுவும் கிடையாது.
+
+...
+
+[Data](articles/8e8cc1e3.json)
+
+[Extended Data](ext_articles/8e8cc1e3.ext.json)
+
+---
+
 ### Court orders the court to get to a lock check event
 
 *2025-09-18 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214727) · `si`
@@ -1781,247 +2027,5 @@ However, the Minister said that all the proposals would focus on all the proposa
 [Data](articles/fcc38b4c.json)
 
 [Extended Data](ext_articles/fcc38b4c.ext.json)
-
----
-
-### Sri Lanka sells extra Rs3.25bn Treasury bills after auction
-
-*2025-09-18 17:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs3-25bn-treasury-bills-after-auction-241116/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 3,257 million rupees of treasury bills offered on tap at average rates of 7.57 percent and 7.89 percent, the state debt office said, bringing the total of bills sold this week to 57.25 billion rupees.
-
-On Wednesday (17) the debt office raised 54 billion rupees of 3, 6 and 12 month bills, after offering 75 billion.
-
-Sri Lanka sells less than offered treasury bills, yields mostly flat
-
-◼️
-
-[Data](articles/e96fa683.json)
-
-[Extended Data](ext_articles/e96fa683.ext.json)
-
----
-
-### An earthquake at Trincomalee Sea
-
-*2025-09-18 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214722) · `si`
-
-The earthquake has taken place in a richter blast in Trincomalee area.
-
-The trauma situation in Trincomalee to 60 km from Trincomalee has been reported.
-
-The Geological Survey and Mines Bureau point out that the earthquake has been reported from around 4:26 pm today.
-
-According to the Bureau, the earthquake has been recorded in the country's sequence.
-
-These earthquake areas have been installed in Mahakanarawa, Hakmanara, Hakmanara, Pallekele and Buddhogala.
-
-◼️
-
-[Data](articles/a6a2f778.json)
-
-[Extended Data](ext_articles/a6a2f778.ext.json)
-
----
-
-### When enemies become friends
-
-*2025-09-18 17:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/எதிரிகள்-நண்பர்களாக-மாறும்-போது/46-364865) · `ta`
-
-Many prominent political leaders left politics a day, gathering at a wedding ceremony, sharing smiles and heartfelt conversations.
-
-Minister Vijitha Herath, Deputy Minister Sunil Vatagala, former President Ranil Wickremesinghe, Parliamentarian Namal Rajapaksa, former Ministers Rajitha Senaratne and Mervyn Silva were the guests.
-
-◼️
-
-[Data](articles/465b593e.json)
-
-[Extended Data](ext_articles/465b593e.ext.json)
-
----
-
-### Explanation for former Minister of Sabaragamuwa
-
-*2025-09-18 17:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-முன்னாள்-அமைச்சருக்கு-விளக்கமறியல்/175-364866) · `ta`
-
-Former Minister of the Sabaragamuwa Provincial Council, Atula Kumara Raghubatha, who has been arrested on charges of abusing state funds, has been kept in detention until October 2.
-
-He was arrested by the Criminal Investigation Department for allegedly misused 70 million rupees in public money.
-
-He was produced at the Magistrate's Court of Embilipitiya and ordered him to be further interrogated.
-
-◼️
-
-[Data](articles/c5de6090.json)
-
-[Extended Data](ext_articles/c5de6090.ext.json)
-
----
-
-### Former S’gamuwa Minister remanded over misappropriation of state funds
-
-*2025-09-18 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112650/former-sgamuwa-minister-remanded-over-misappropriation-of-state-funds-) · `en`
-
-Former Minister of the Sabaragamuwa Provincial Council Athula Kumara Rahubaddha has been remanded until October 02 by the Embilipitiya Magistrate’s Court today (18), Ada Derana reporter said.
-
-He was arrested yesterday (17) in connection with the misappropriation of Rs. 70 million in state funds during his tenure as provincial minister (2016 – 2017), by the Financial Crimes Investigation Division (FCID) operated under the Criminal Investigation Department (CID)
-
-Accordingly, when the suspect was produced before the court today, CID officials informed the court that, although funds had been disbursed for 15 of the 77 projects initiated during the relevant period, the relevant projects had not been implemented.
-
-Subsequently, the Magistrate ordered that the suspect to be remanded in connection with the alleged misuse of Rs. 70 million in state funds.
-
-◼️
-
-[Data](articles/afc12c06.json)
-
-[Extended Data](ext_articles/afc12c06.ext.json)
-
----
-
-### Mobile Service to Solve EPF issues
-
-*2025-09-18 16:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-பிரச்சினைகளை-தீர்ப்பதற்கான-நடமாடும்-சேவை/175-364863) · `ta`
-
-The Ministry of Labor has announced that the mobile service will be carried out in all district and labor offices from the 22nd to the 26th of this month to resolve the staff of the Employees Provident Fund and its related disputes.
-
-In the meantime, the issues such as the Employees Provident Fund Member Accounts, Arrears, Member Account Details will be addressed on the National Identity Card, Registration of Members, Complaints and Consultation on Labor Laws.
-
-◼️
-
-[Data](articles/afc0fe3d.json)
-
-[Extended Data](ext_articles/afc0fe3d.ext.json)
-
----
-
-### Boeing sues on Air India
-
-*2025-09-18 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214720) · `si`
-
-Four passengers of four passengers killed in the accident have been filed against Boeing.
-
-According to foreign media reports, they have filed the case against the Boeing Company and aviation stock company Hanwell.
-
-Aya India Airlines took off a passenger airline, which was launched at Ahmedabad airport in India in June last June.
-
-More than 260 people, including all the passengers and staff of the aircraft, were killed in the area where the plane was collapsed.
-
-Foreign media reports that the aircraft had filed such a case against Hanwell, claiming that the aircraft had taken place due to an incident.
-
-◼️
-
-[Data](articles/2ce594a5.json)
-
-[Extended Data](ext_articles/2ce594a5.ext.json)
-
----
-
-### This is the Judgment of Belavatam
-
-*2025-09-18 16:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-பெலவத்தை-தீர்ப்பு-ஹர்ஷனிக்கு-பிணை/175-364862) · `ta`
-
-Kotte Municipal Council Member Harshani Sandaruwani, who was produced in court on contempt of court during a trial against former President Ranil Wickremesinghe, was released on bail on Thursday (18).
-
-The magistrate granted bail to the suspect on two physical bail of Rs 500,000 each.
-
-Harshani Chandarwani warned Harshani Chandarwani to avoid issuing political statements equivalent to contempt of court when granted bail. In any case, the magistrate warned that the bail was canceled and the suspect would lead to imprisonment.
-
-The Criminal Investigation Department told the court that the suspect had made disrespect during the trial against Ranil Wickremesinghe and that he was arrested and produced in court.
-
-The magistrate inquired what was the correct confession made by the suspect. The Criminal Investigation Department said that he said, "This is a verdict from Belawatte," he said.
-
-...
-
-[Data](articles/ea7ba241.json)
-
-[Extended Data](ext_articles/ea7ba241.ext.json)
-
----
-
-### Safeguard the fever life
-
-*2025-09-18 16:47:57* · [`adalk`](https://www.ada.lk/breaking_news/උණ-පණ-මෙන්-රැකගන්න/11-418591) · `si`
-
-Talawakele Lidula, Talawakele, Lidula, was held in Thalawakele Frauti Junction, to plant the Mahaweli Authority of Sri Lanka and Horana Plantations.
-
-The Mahaweli Authority of the Mahaweli Authority of Sri Lanka to mark the latest planting of the fever on September 18 was planted in the Sahewhawatta catchment area of ​​the Ramana Own.
-
-The Mahaweli Authority (SLWF) and Environmental Director Prasanna Jayathilake said that the state of Sri Lanka was planted in collaboration with the PSC to conserve environment together with the private sector.
-
-Prasanna Jayatilleke said that a number of environmental processes will be conducted by the soil conservation process, the soil conservation process, to the environment, and the protection of water sources.
-
-School children in the area and the Chief Secretary of the Sri Lanka Institute of Plantations and the Horana Plantations of the Plantations were present at the occasion.
-
-...
-
-[Data](articles/bde02d41.json)
-
-[Extended Data](ext_articles/bde02d41.ext.json)
-
----
-
-### Sri Lanka’s Ambeon Capital makes mandatory offer for Myland Developments
-
-*2025-09-18 16:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-capital-makes-mandatory-offer-for-myland-developments-241100/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ambeon Capital, a subsidiary of Ambeon Holdings, said it is making a mandatory offer to buy the remaining 6,621,377 ordinary voting shares, or 18.27 percent, of Myland Developments at 8.50 rupees a share, in concert with three other parties.
-
-Last week, Ambeon Capital bought 18.5 million shares of Myland Developments, increasing its stake to 51.03 percent.
-
-Together with three other parties acting in concert, ATX Partners (Private) Limited which bought 13.75 percent, Arcasia Investment and Trading (Private) Limited which bought 13.95 percent, and Sujeewa Mudalige who bought 3 percent, this was raised to 81.73 percent of the total issued shares of Myland Developments.
-
-This triggered the threshold limits placed by the Company Takeovers and Mergers Code of the Securities and Exchange Commission of Sri Lanka.
-
-The company is now obliged to make a mandatory offer to purchase the balance ordinary voting shares held by the remaining holders.
-
-...
-
-[Data](articles/03f51b25.json)
-
-[Extended Data](ext_articles/03f51b25.ext.json)
-
----
-
-### Suspect arrested with 138 notes for 5000 fakes
-
-*2025-09-18 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214719) · `si`
-
-A person has been arrested with 138 counterfeit notes as Rs. 5,000.
-
-The police said that the suspect, which was printed, was arrested this morning at the Panmambagolgollewa Police Division this morning.
-
-He has also found a laptop, scan and printer in his possession.
-
-Police said that a suspicious person was inspected by a team of police officers in the Habarana town of the Habarana in Habarana in the evening of 0725.09.2011.
-
-Two suspects have been arrested in possession of Rs.
-
-According to further revealed, the suspect who was said to be arrested as stated that fake currency notes were printed.
-
-The suspects are residents of Habarana, Anuradhapura and Anuradhapura, aged 23 and 42 years old.
-
-The Sri Lankan police calls on the public to use the banknotes and informed the Sri Lankan Police as soon as they ensure that the fake currency notes are taken care of or in possession of such counterfeit banknotes.
-
-◼️
-
-[Data](articles/d479f3f3.json)
-
-[Extended Data](ext_articles/d479f3f3.ext.json)
-
----
-
-### CID arrested for former Navy Intelligence
-
-*2025-09-18 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214718) · `si`
-
-A former Sri Lanka Navy's chief has been arrested this afternoon.
-
-Police Media Spokesperson, Assist Superintendent of Police. !. Mr. Wootsler said the arrest was made by the CID.
-
-◼️
-
-[Data](articles/61cff73f.json)
-
-[Extended Data](ext_articles/61cff73f.ext.json)
 
 ---

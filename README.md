@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 03:05:43**
+As of **2025-09-20 04:06:57**
 
 ## Newspaper Stats
 
-*Scraped **77,018** Articles*
+*Scraped **77,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,178 @@ dailyftlk | 5,485
 adalk | 7,489
 adaderanalk | 9,946
 tamilmirrorlk | 11,577
-virakesarilk | 12,516
+virakesarilk | 12,524
 adaderanasinhalalk | 13,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,159 (98.9%) of 77,018 articles have been extended.
+76,201 (98.9%) of 77,026 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-20 (Saturday)
+
+### Retirement Asia's first female train driving
+
+*2025-09-20 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225558) · `ta`
+
+Sureka Yadav, the first female driver of Asia, is retiring on the 30th of this month.
+
+Sureka Yadav joins the Sattara district of Maharashtra. Born into a farming family, he joined the Indian Railways in 1989 as a vice -driver.
+
+With this, she became the first woman to be appointed as the train driver not only in India but also in Asia.
+
+Following this, he gradually improved and worked as a freight train driver in 1996. Since 2000, he has worked as a passenger train driver.
+
+In the decade, he operated the first high -speed train of India, the Deccan Queen Model, which runs between Mumbai and Pune.
+
+On March 13, 2023, Solapur - Mumbai Chhatrapati Shivaji achieved the record of being a high -speed train driver by running the Bharat telephone train between the Shivaji railway terminal.
+
+In this case, Sureka Yadav, who has been a 36-year-old driver in the male-dominated Indian railway, is retiring on the 30th (30-09-2025).
+
+...
+
+[Data](articles/88e32f7c.json)
+
+[Extended Data](ext_articles/88e32f7c.ext.json)
+
+---
+
+### ஓமான் அணியை 21 ஓட்டங்கள் வித்தியாசத்தில் வீழ்த்திய இந்திய அணி
+
+*2025-09-20 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225557) · `ta`
+
+India won the match between India and Oman, the last match of the 2025 Asian Cup T20 match.
+
+The Indian team won the coin spinning first and scored 188 runs for the loss of 8 wickets in 20 overs.
+
+In reply, Oman lost 4 wickets at the end of their 20 overs and lost only 167 runs.
+
+◼️
+
+[Data](articles/02577071.json)
+
+[Extended Data](ext_articles/02577071.ext.json)
+
+---
+
+### Five fishermen arrested in Talaimannar seas
+
+*2025-09-20 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225556) · `ta`
+
+The Mannar Magistrate on Friday [19] ordered the five Indian fishermen who were arrested and detained in the Talaimannar seas as they entered the Sri Lankan waters.
+
+Last June, Sri Lankan navy arrested Indian trawlers and 5 Indian fishermen from sea patrols while they were fishing in the Sri Lankan waters last June.
+
+The magistrate had ordered the fishermen to be interrogated after the department officials were produced in court after inquiries.
+
+The case was taken up again for an hearing on Friday (19).
+
+The Mannar Magistrate, who investigated the inquiry, ordered the re -remand of the five fishermen in this month.
+
+◼️
+
+[Data](articles/8e3267ef.json)
+
+[Extended Data](ext_articles/8e3267ef.ext.json)
+
+---
+
+### Selvaraj - CWC leader Senthil Thondaman meets
+
+*2025-09-20 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225555) · `ta`
+
+Selvaraj, National Coordinator of the Indian Pantheon Farmers Association, met with CWC leader Senthil Thondaman today at Chaumiyapavan, headquarters of the Ceylon Workers Congress in Colombo.
+
+During the meeting, when the hill plantation workers who traveled to India from Sri Lanka from India were removed from India in the Nilgiris district of India in the past, CWC leader Senthil Thondaman had the opportunity to be in the same place.. Selvaraj thanked Senthil Thondaman for that.
+
+The CWC leader has met with the Chief Minister of Tamil Nadu and the Chief Minister of Kerala in the past.
+
+In the Nilgiris district, the leasing period to Tantea in the Nilgiris district has been completed, and once again, Senthil Thondaman requested Senthil Thondaman to come to the Nilgiris and negotiate with the Forest Department in the name of 2 acres of plantation workers.
+
+...
+
+[Data](articles/594e2e55.json)
+
+[Extended Data](ext_articles/594e2e55.ext.json)
+
+---
+
+### Suspect arrested for a long time in Jaffna
+
+*2025-09-20 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225554) · `ta`
+
+A 22 -year -old suspect, who has been involved in heroin for a long time, has been arrested on Friday (19) with 2 grams of heroin in a 5 -storey area in Jaffna.
+
+The arrest was carried out by the police on duty at the Kurunagar Police Police, on the basis of confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
+
+Police are taking steps to bring the suspects in court after investigations.
+
+◼️
+
+[Data](articles/918dbda7.json)
+
+[Extended Data](ext_articles/918dbda7.ext.json)
+
+---
+
+### Take immediate action for cattle built on the streets - pain. Emphasize the West Pradeshiya Sabha!
+
+*2025-09-20 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225553) · `ta`
+
+Valikamam West Pradeshiya Sabha member J. Duvaraka has demanded immediate action for cattle being built on the streets and cattle on the streets.
+
+The monthly session of the Valikamam West Pradeshiya Sabha was held on Friday (19) chaired by the Chairman. In the meantime he made this request. There he further stated,
+
+Livestock its owners build on the streets with long ropes. This results in accidents due to the rope vehicles getting caught and livestock when they go from one side to the other side.
+
+The Chettiar Madam junction was trapped in a rope of a cow while traveling from Vaddukoddai to Jaffna yesterday. There was no dangers because it was a big vehicle. If this was a motorcycle or a bicycle, there would have been a massive accident.
+
+There are more casualties that can cause such accidents. He urged the immediate awareness of this.
+
+◼️
+
+[Data](articles/78c80929.json)
+
+[Extended Data](ext_articles/78c80929.ext.json)
+
+---
+
+### "Jeevan Thondaman Discussion with the Finance Minister of the Indian Government on the assistance provided to Sri Lanka - Jeevan Thondaman"
+
+*2025-09-20 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225552) · `ta`
+
+Jeevan Thondaman, a CWC general secretary and parliamentarian, who was on his way to India, met with Nirmala Sitharaman, the Minister of Finance of the Union Government of India on Friday (19).
+
+During this meeting, our brother, India, expressed his gratitude for the continued assistance and firm support to Sri Lanka.
+
+Jeevan Thondaman added that the meeting, which was discussed on the multi -faceted support for Sri Lanka, was very useful.
+
+◼️
+
+[Data](articles/5c1929f2.json)
+
+[Extended Data](ext_articles/5c1929f2.ext.json)
+
+---
+
+### Former Parliamentarian of Batticaloa District Kanakasabha has passed away
+
+*2025-09-20 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225551) · `ta`
+
+Former Parliamentarian of the Batticaloa District of Batticaloa Tamil National Alliance. Tanmanpillai Kanagasabha died on Friday (19/09/2025) at the age of 86 (19/09/2025)
+
+It is noteworthy that he was a retired government officer who was born on August 1939/03/20 in 2004 and contested for the Tamil National Alliance (TNA) in the Batticaloa district.
+
+◼️
+
+[Data](articles/34d21259.json)
+
+[Extended Data](ext_articles/34d21259.ext.json)
+
+---
 
 ### 2025-09-19 (Friday)
 
@@ -1921,163 +2083,5 @@ The Jaffna District Committee Meeting in relation to the Ministry of Transport, 
 [Data](articles/45ba57d9.json)
 
 [Extended Data](ext_articles/45ba57d9.ext.json)
-
----
-
-### Reorganization of SLFP commences in Badulla District
-
-*2025-09-19 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112673/reorganization-of-slfp-commences-in-badulla-district) · `en`
-
-The reorganization of the Sri Lanka Freedom Party (SLFP) has been commenced in the Badulla District today (19) under the patronage of Badulla District Member of Parliament Chamara Sampath Dassanayake.
-
-The initiative aims to strengthen and advance the party’s political activities through the establishment of youth, women’s, and Bhikkhu organizations, MP Dassanayake said.
-
-He further stated that the reorganization process will cover all nine constituencies within the Badulla District.
-
-◼️
-
-[Data](articles/1e27ee7d.json)
-
-[Extended Data](ext_articles/1e27ee7d.ext.json)
-
----
-
-### Is the match? Do you have the match? Put the switch?
-
-*2025-09-19 12:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆட்டமா-எனக்கிட்ட-ஆட்டமா-போடவா-சுவிட்சை-போடவா/62-364913) · `ta`
-
-◼️
-
-[Data](articles/ac2b2b50.json)
-
-[Extended Data](ext_articles/ac2b2b50.ext.json)
-
----
-
-### The Taliban government banned women's books in Afghanistan universities
-
-*2025-09-19 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225481) · `ta`
-
-International media reports that the Taliban government has removed the books written by women from the university teaching system in Afghanistan.
-
-As part of the new ban, the teaching of human rights and sexual harassment has been banned.
-
-Of the 680 books found as "Anti -Sharia and Taliban Principles", there are about 140 books written by women on topics such as "Protection in Chemistry Laboratory".
-
-A Taliban official said the 18 subjects that were supposed to be contradicted with Sharia's policies and the policy of the organization were banned from teaching at universities.
-
-Since the Taliban came to power four years ago, the announcement, which has continued to impose many restrictions.
-
-◼️
-
-[Data](articles/590ac434.json)
-
-[Extended Data](ext_articles/590ac434.ext.json)
-
----
-
-### "Be care about currency sheets"
-
-*2025-09-19 12:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாணயத்-தாள்கள்-குறித்து-அவதானதாக-இருக்கவும்/175-364912) · `ta`
-
-Is it fake when buying goods and handling money? Police advise the public to verify and use money for various transactions.
-
-The police advise the Sri Lankan police to use the money only after checking the money and the information about such fake currency notes or handlers.
-
-In the meantime, in Habarana, two fake Rs.. Two more people were arrested on Thursday evening (18) evening.
-
-During further investigations, fake Rs.. Police said that a suspect who printed 5000 currency notes, 138 currency notes and printing equipment were seized.
-
-◼️
-
-[Data](articles/094e447f.json)
-
-[Extended Data](ext_articles/094e447f.ext.json)
-
----
-
-### "Be care about currency sheets"
-
-*2025-09-19 12:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாணயத்-தாள்கள்-குறித்து-அவதானமாக-இருக்கவும்/175-364912) · `ta`
-
-Is it fake when buying goods and handling money? Police advise the public to verify and use money for various transactions.
-
-The police advise the Sri Lankan police to use the money only after checking the money and the information about such fake currency notes or handlers.
-
-In the meantime, in Habarana, two fake Rs.. Two more people were arrested on Thursday evening (18) evening.
-
-During further investigations, fake Rs.. Police said that a suspect who printed 5000 currency notes, 138 currency notes and printing equipment were seized.
-
-◼️
-
-[Data](articles/964b0259.json)
-
-[Extended Data](ext_articles/964b0259.ext.json)
-
----
-
-### Several fatal accidents in a day - lose 6 lives
-
-*2025-09-19 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214750) · `si`
-
-There were 6 lives lost in a few areas in the island yesterday.
-
-A resident of the Kandalanda area has been identified as a 48 year old resident of the Homagama Police Division.
-
-The accident had occurred when the motorcyclist traveling to Avissawella towards Avissawella.
-
-Further, a motorcyclist who has been injured in a cyclist who had traded from the NSB junction of the Mannar Skin Road, a motorbike was injured in a criminal in the Mannar Waratiya.
-
-Meanwhile, the accident occurred at Gonagala Junction along the Kosgoda police division of the Kosgoda police division.
-
-The victim was 66 years after being admitted to the Bambalapitiya Hospital for treatment of the motorcyclist and the injuries.
-
-Meanwhile, an accident had occurred last night at the time of the new bus stand at Anuradhapura Main Street at the Anuradhapura Bus Stand at the Anuradhapura Main Street.
-
-The victim was rushed to the Anuradhapura hospital for treatment, and the driver of the car has been arrested.
-
-...
-
-[Data](articles/dc8c7336.json)
-
-[Extended Data](ext_articles/dc8c7336.ext.json)
-
----
-
-### Deputy Foreign Ministers of Sri Lanka & Ukraine hold phone call on boosting bilateral ties
-
-*2025-09-19 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112672/deputy-foreign-ministers-of-sri-lanka-ukraine-hold-phone-call-on-boosting-bilateral-ties) · `en`
-
-Deputy Minister of Foreign Affairs and Foreign Employment of Sri Lanka, Arun Hemachandra, held a cordial telephone conversation yesterday (18) with Deputy Minister of Foreign Affairs of Ukraine and Head of the Ukrainian National Commission for UNESCO, Mariana Betsa.
-
-Both dignitaries reflected on the warm cooperation between Sri Lanka and Ukraine in bilateral and multilateral forums, including the recent mutual support extended toward each other’s candidatures to bodies of the United Nations, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-Deputy Minister Hemachandra briefed his counterpart on recent developments in Sri Lanka and expressed Sri Lanka’s interest in further strengthening ties between the two countries.
-
-The discussion highlighted the shared commitment to fostering closer relations and exploring opportunities for collaboration in areas of mutual interest, the statement added.
-
-◼️
-
-[Data](articles/d56dcf47.json)
-
-[Extended Data](ext_articles/d56dcf47.ext.json)
-
----
-
-### SLFP new journey closed in Badulla
-
-*2025-09-19 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214749) · `si`
-
-The SLFP's reorganization has been launched today (19th).
-
-The construction was commenced under the patronage of the Badulla District Leader, Member of Parliament, Chamara Sampath Dasanayake.
-
-He added that the objective of this reorganization is to establish youth, women and bhikkhu organizations.
-
-◼️
-
-[Data](articles/f31d58ff.json)
-
-[Extended Data](ext_articles/f31d58ff.ext.json)
 
 ---

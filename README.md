@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 20:55:48**
+As of **2025-09-19 21:56:51**
 
 ## Newspaper Stats
 
-*Scraped **76,989** Articles*
+*Scraped **76,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,111 @@ economynextcom | 4,660
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,488
-adaderanalk | 9,940
+adalk | 7,489
+adaderanalk | 9,942
 tamilmirrorlk | 11,576
-virakesarilk | 12,513
-adaderanasinhalalk | 13,436
+virakesarilk | 12,515
+adaderanasinhalalk | 13,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,915 (98.6%) of 76,989 articles have been extended.
+75,935 (98.6%) of 76,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### மித்தேனிய இரசாயன மாதிரிகளின் அறிக்கை வெளியானது
+### Dan's murder shooter and allowed to resign
 
-*2025-09-19 20:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தேனிய-இரசாயன-மாதிரிகளின்-அறிக்கை-வெளியானது/175-364927) · `ta`
+*2025-09-19 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214773) · `si`
 
-மித்தேனிய பகுதியில் சமீபத்தில் கண்டுபிடிக்கப்பட்ட இரசாயன மாதிரிகள் தொடர்பான அரச பகுப்பாய்வாளரின் அறிக்கை வெளியாகி உள்ளது.
+The Kegalle Magistrate's Court today (19) has been given permission to interrogate the three shostering shooter, who was arrested in the murder of a political operator.
 
-இந்த அறிக்கையின்படி, அவை ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனங்கள் என உறுதிப்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+It is a person who is suspected of the shooter of Dan Priyasha's murder yesterday.
 
-செப்டம்பர் 6 ஆம் திகதி, கெஹெல்பத்தர பத்மே மற்றும் குடு நிலங்க ஆகியவர்கள் இந்நாட்டில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாகக் கூறப்படும் சுமார் 50,000 கிலோகிராம் இரசாயனங்களை மித்தேனிய பகுதியிலிருந்து மேற்கு வடக்கு குற்றப்பிரிவு மீட்டது.
+The suspect is in a night club in Ranwala, Kegalle
 
-இந்தோனேசியாவில் கைது செய்யப்பட்ட பெகோ சமனிடம் மேற்கு வடக்கு குற்றப்பிரிவு நடத்திய விசாரணையில் கிடைத்த தகவல்களின் அடிப்படையில் இந்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டது.
+The suspects were arrested in a raid conducted by the relevant officers on information received by the Kegalle Division Crime Investigation Bureau.
 
-பின்னர், குறித்த இரசாயன மாதிரிகள் தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டு சபை மற்றும் அரச பகுப்பாய்வாளர் திணைக்களத்திற்கு ஆய்வுக்காக அனுப்பப்பட்டன.
+The police have revealed that the suspect had paid a sum of Rs.
 
-தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டு சபையின் அறிக்கையில், 20 மாதிரிகளில் 17 மாதிரிகளில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனங்கள் இருப்பது உறுதிப்படுத்தப்பட்டது.
+The police also recovered nearly 7 grams of ice drugs in their possession when the police were arrested by the police.
+
+The suspects have been arrested and the person who has been given accommodation for the suspects were arrested with 64 cigarettes and several gajamuthu.
+
+The suspects have been produced before the Magistrate's Court and interrogate the person who provided protecting the person to the Kegalle Magistrate Shaye Mahanarachchi.
 
 ...
 
+[Data](articles/95a67547.json)
+
+[Extended Data](ext_articles/95a67547.ext.json)
+
+---
+
+### Tunit Vellale will join the Sri Lankan team tomorrow
+
+*2025-09-19 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225549) · `ta`
+
+The Sri Lanka Cricket Board has announced that it will leave the Dubai team on Friday night after his father's sudden death of the Sri Lankan cricket team, Dunit Wellalake, will reunite with the team.
+
+After playing a match against Afghanistan in Abu Dhabi in the Asian Cup series, Father Mun Vellalake (54), after learning of a heart attack, returned to Sri Lanka immediately.
+
+He arrived in the Bandaranaike International Airport on Friday morning, and he reunited the squad for the Super 4 round after paying his final tribute to his father.
+
+The Sri Lankan team goes to Dubai on Friday (19) night. The Sri Lankan team will play in a major match against Bangladesh on Saturday (20).
+
+It is noteworthy that the youngest player, Tunit Vellalake, is the father of Mun Vallake, a former school cricketer.
+
+◼️
+
+[Data](articles/d76c4ee4.json)
+
+[Extended Data](ext_articles/d76c4ee4.ext.json)
+
+---
+
+### Report of Mithanian chemical samples
+
+*2025-09-19 20:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தேனிய-இரசாயன-மாதிரிகளின்-அறிக்கை-வெளியானது/175-364927) · `ta`
+
+A report by the state analyst on the recently discovered chemical samples in the Mittenia area has been released.
+
+According to the report, they have been confirmed as chemicals used to produce ice, police said.
+
+On September 6, the North North North Crime Division recovered about 50,000 kilograms of chemicals allegedly used to produce ice drugs in the country.
+
+The raid was carried out on the basis of information received from the North North Crime Branch to the Bego Saman, who was arrested in Indonesia.
+
+Subsequently, the chemical samples were sent to the National Risk of the Control Board and the Department of State Analyst for inspection.
+
+In the Report of the National Risk Operations Control Board, 17 of the 20 samples confirmed that chemicals used to make ice drugs.
+
+In this case, the Department of State Analyst's Department was handed over to the police today (19).  R
+
+◼️
+
 [Data](articles/07c51fde.json)
+
+[Extended Data](ext_articles/07c51fde.ext.json)
+
+---
+
+### “Through digitalisation, we can progress with developed nations” – President
+
+*2025-09-19 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112685/through-digitalisation-we-can-progress-with-developed-nations-president-) · `en`
+
+President Anura Kumara Dissanayake stated that in order to advance the country economically, it is essential to ensure efficiency and transparency across all sectors. He further noted that the current government’s digitalisation programme is designed to elevate Sri Lanka not only economically but also socially.
+
+The President made these remarks today (19), while participating in the ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, to launch the National Cyber Protection Strategy (2025–2029) and to declare open the National Cyber Security Operations Centre (NCSOC), the Presidential Media Division (PMD) said.
+
+...
+
+[Data](articles/17e1ebfb.json)
+
+[Extended Data](ext_articles/17e1ebfb.ext.json)
 
 ---
 
@@ -96,6 +166,24 @@ In 2019, Rawana - 1 was created as the first nano-1 satellite in Sri Lanka, whil
 
 ---
 
+### Sajith, who has requested time for submitting property declaration in digital form
+
+*2025-09-19 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225548) · `ta`
+
+Opposition Leader Sajith Premadasa has sought time to submit his assets and responsibilities in digital form. The request was made by the Opposition Leader by letter to the Bribery and Corruption Commission.
+
+The United People's Power reported that the details of the opposition leader were submitted to the Secretary General of Parliament on April 23.. The details have been sent to the Bribery and Corruption Commission by the Secretary General of Parliament.
+
+However, the opposition leader has been informed to submit them in digital format. It is said that the opposition leader has requested the Bribery and Corruption Commission to give time for time.
+
+◼️
+
+[Data](articles/20199200.json)
+
+[Extended Data](ext_articles/20199200.ext.json)
+
+---
+
 ### 7th Annual Medical Camp organized by the Army in Ampara, Batticaloa
 
 *2025-09-19 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225547) · `ta`
@@ -113,6 +201,26 @@ Apart from the problems of the dead warriors, the retired soldiers and their clo
 [Data](articles/715d56d9.json)
 
 [Extended Data](ext_articles/715d56d9.ext.json)
+
+---
+
+### Govt Analyst report confirms samples from Middeniya contained chemicals used in making ‘Ice’
+
+*2025-09-19 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112684/govt-analyst-report-confirms-samples-from-middeniya-contained-chemicals-used-in-making-ice) · `en`
+
+The Government Analyst’s Department has informed Sri Lanka Police that the samples obtained from Middeniya have been confirmed to contain chemicals used in the production of Crystal Methamphetamine, also known as ‘Ice’, sources told Ada Derana.
+
+The Government Analyst’s Department has handed over its report following the tests carried out on the samples obtained from the chemicals recently found in a property in the Middeniya area.
+
+Police sources said that according to the relevant report, they have been confirmed to be chemicals used to manufacture the drug ‘Ice’.
+
+The Western Province North Crime Division recovered about 50,000 kilograms of chemicals from the Middeniya area on September 6, which were suspected to be used to manufacture ‘Ice” drugs in the country by major drug traffickers known as ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’.
+
+...
+
+[Data](articles/074878fd.json)
+
+[Extended Data](ext_articles/074878fd.ext.json)
 
 ---
 
@@ -487,6 +595,28 @@ Accordingly, the ASPI rose by 119.83 points or 0.57% to close at 21,085.09 point
 [Data](articles/dccecb6c.json)
 
 [Extended Data](ext_articles/dccecb6c.ext.json)
+
+---
+
+### People objected to the Ridiyagama tank reserve
+
+*2025-09-19 16:09:25* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-වැව්-රක්ෂිතය-මනිනවාට-ජනතාවගේ-විරෝධය/11-418612) · `si`
+
+According to the present government program, the officers of the area has left the area of ​​the area to mark the theme of our heritage today (19) and the reserves of the area to mark the reserves of the Survey.
+
+The protest was the people of Kadiyagama, Amount Lake, Point Mulla, Kadambagala Mulla, and the people of the area that about 300 families have a risk of losing their residence land.
+
+The people of the area say they are not willing to leave the land for years, and they will lose their lives after the land is surrounded by the loss of their lives.
+
+However, the Hambantota Regional Irrigation Engineer in Ambalantota, the Hambantota Regional Irrigation Engineer, has been temporarily stopped on Wednesdays.
+
+The glory of irrigation is established by the theme of our heritage, Ambalantota and Ridiyagama tank tanks on the 30th of the 30th of month.
+
+◼️
+
+[Data](articles/3123f7d0.json)
+
+[Extended Data](ext_articles/3123f7d0.ext.json)
 
 ---
 
@@ -1953,127 +2083,5 @@ The body of the woman has been placed in the funeral room of the Vatupitivala Ho
 [Data](articles/98722577.json)
 
 [Extended Data](ext_articles/98722577.ext.json)
-
----
-
-### ‘Ali Roshan’ sentenced to 15 years RI for illegal possession of elephant
-
-*2025-09-19 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112667/ali-roshan-sentenced-to-15-years-ri-for-illegal-possession-of-elephant) · `en`
-
-Samarappulige Niraj Roshan, alias ‘Ali Roshan’, who was convicted on two counts of possessing an elephant without a valid permit, has been sentenced to 15 years of rigorous imprisonment by a three-judge bench of the Colombo High Court.
-
-In addition to the prison term, the court imposed a fine of Rs. 20.6 million on the defendant. The elephant in question was also ordered to be confiscated, said Ada Derana reporter.
-
-The verdict was delivered by the High Court bench comprising Justices Manjula Thilakaratne, R.S.S. Sapuvida, and Lanka Jayaratne, following a lengthy trial.
-
-The bench further ordered the acquittal and release of three other defendants who had been charged in connection with the case.
-
-◼️
-
-[Data](articles/8ba94539.json)
-
-[Extended Data](ext_articles/8ba94539.ext.json)
-
----
-
-### Ali Roshan sentenced to jail fifteen years
-
-*2025-09-19 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214744) · `si`
-
-The three-member High Court Judge was a three-member High Court Judge Samarappuli, Ali Roshan, who was convicted of two allegations without licenses.
-
-After a long trial, Manjula Tilakaratne, RSSsupupe and Lanka Jayaratne issued the order.
-
-Three other defendants accused of the incident have been acquitted to acquit and release them.
-
-◼️
-
-[Data](articles/f5f82f96.json)
-
-[Extended Data](ext_articles/f5f82f96.ext.json)
-
----
-
-### The family dispute ends with murder
-
-*2025-09-19 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214743) · `si`
-
-A woman has been assaulted in the Randalapola area in the Mirigama Police Division.
-
-The woman was assassinated by her husband yesterday (18).
-
-Investigations have revealed that the suspect had been arrested and the victims have been killed due to a family source.
-
-The remains are placed at the Vathupitiwala hospital morgue and the Mirigama police are conducting further investigations.
-
-◼️
-
-[Data](articles/80edc713.json)
-
-[Extended Data](ext_articles/80edc713.ext.json)
-
----
-
-### 6.1-magnitude quake hits Indonesia’s Central Papua: USGS
-
-*2025-09-19 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112666/61-magnitude-quake-hits-indonesias-central-papua-usgs) · `en`
-
-A shallow earthquake of magnitude 6.1 struck Indonesia’s Central Papua province on Friday (Sep 19), the US Geological Survey (USGS) reported, with no initial reports of casualties.
-
-The USGS said the earthquake’s epicentre was located 28km south of the town of Nabire in the Central Papua province, which is on the Indonesian half of the large Pacific island shared with Papua New Guinea.
-
-Abdul Muhari, a spokesman for the national disaster mitigation agency, said the quake had damaged several public facilities but there were no reports of casualties.
-
-“Initial monitoring also reported broken glass in an airport, collapsed ceilings in a regent’s office, a damaged bridge, and power and telecommunication networks cut off,” Abdul said in a statement.
-
-“The earthquake struck at around 3am (2am, Singapore time). I was sleeping soundly but it was getting bigger, so I ran outside with other family members,” 37-year-old Cicilia Mamman told AFP.
-
-...
-
-[Data](articles/874e7e01.json)
-
-[Extended Data](ext_articles/874e7e01.ext.json)
-
----
-
-### 2026 budget proposal will lay the foundation for the development of the country - Anil Jayantha Fernando
-
-*2025-09-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225480) · `ta`
-
-Deputy Minister of Labor and Economic Development Anil Jayantha Fernando said the budget proposal for the upcoming 2026 will be the foundation for the development of the country.
-
-He emphasized that the government wants to use the available financial resources for projects aimed at attracting investment and improving the infrastructure.
-
-Anil Jayantha Fernando said this while commenting on the 2026 budget proposal.
-
-◼️
-
-[Data](articles/c2589d84.json)
-
-[Extended Data](ext_articles/c2589d84.ext.json)
-
----
-
-### Cardiac - Services of the Blood Tuberculosis Laboratory begin in Vavuniya!
-
-*2025-09-19 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225474) · `ta`
-
-The Card and Blood Tuberculosis Laboratory at the Vavuniya District General Hospital has been in operation from today.
-
-The heart and blood vessel laboratory, which has been closed for more than a year at the Vavuniya General Hospital, has launched its operation today.
-
-Due to the shortage of human resources, the heart and blood vessel laboratory was built with the financial support of the Netherlands.
-
-At this juncture, the laboratory opened by former President Ranil Wickremesinghe last year did not work with doctors and various shortcomings.
-
-As a result, the people of Vavuniya and its adjoining areas had to go to the Jaffna Teaching Hospital.
-
-Realizing the situation, the Ministry of Health, a strategic act to resolve it, was trained abroad and returned to the country.. After appointing Vaikunthan to the Vavuniya District General Hospital, he was in full swing to launch a heart and blood vessel laboratory.
-
-...
-
-[Data](articles/570f2819.json)
-
-[Extended Data](ext_articles/570f2819.ext.json)
 
 ---

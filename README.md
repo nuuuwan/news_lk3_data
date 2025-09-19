@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 22:22:23**
+As of **2025-09-19 22:11:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,437
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,970 (98.7%) of 76,996 articles have been extended.
+75,950 (98.6%) of 76,996 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,8 +93,6 @@ Wellalage will be available for selection as Sri Lanka prepare to face Banglades
 ◼️
 
 [Data](articles/b89ef982.json)
-
-[Extended Data](ext_articles/b89ef982.ext.json)
 
 ---
 

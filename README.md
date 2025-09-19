@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 16:08:55**
+As of **2025-09-19 17:05:55**
 
 ## Newspaper Stats
 
-*Scraped **76,951** Articles*
+*Scraped **76,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,99 +16,189 @@ economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,483
+adalk | 7,485
 adaderanalk | 9,935
-tamilmirrorlk | 11,571
+tamilmirrorlk | 11,572
 virakesarilk | 12,509
-adaderanasinhalalk | 13,424
+adaderanasinhalalk | 13,427
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,692 (98.4%) of 76,951 articles have been extended.
+75,739 (98.4%) of 76,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### කෙහෙල්බද්දර පද්මේ ගැන විශේෂ වාර්තාවක් පොලීසියෙන් අධිකරණයට
+### සාමාන්‍ය පෙළ විභාගයට  අයදුම්පත් කැඳවීම සැප්තැම්බර් 18 සිට
+
+*2025-09-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214763) · `si`
+
+2025(2026) අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය සඳහා අයදුම්පත් කැඳවීම 2025 සැප්තැම්බර් 18 දින සිට ඔක්තෝම්බර් 09 දින දක්වා මාර්ගගත ක්‍රමය මඟින් සිදු කරන බව අධ්‍යාපන අමාත්‍යංශය විශේෂ නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+ඒ අනුව සියලුම පාසල් අයදුම්කරුවන් තම පාසලේ විදුහල්පති මගින් ද, පෞද්ගලික අයදුම්කරුවන් පෞද්ගලිකව ද, අදාළ උපදෙස් අනුව මාර්ගගතව අයදුම්පත්‍ර ඉදිරිපත් කළ යුතුය.
+
+පෞද්ගලික අයදුම්කරුවන් අ.පො.ස.(සා.පෙළ) විභාගය සඳහා අයදුම් කිරීමේදී ජාතික හැදුනුම්පත භාවිත කළ යුතුය.
+
+එමෙන්ම ජාතික හැදුනුම්පත නොමැති පෞද්ගලික අයදුම්කරුවන් තම භාරකරුගේ (මව හෝ පියා) ජාතික හැදුනුම්පත භාවිත කර ලියාපදිංචි වී අයදුම්පත් ඉදිරිපත් කළ යුතු වේ.
+
+ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය වන www.doenets.lk හෝ www.onlineexams.gov.lk/eic වෙත පිවිස අදාළ උපදෙස් කියවා ඒ අනුව නිවැරදිව අයදුම්පත් ඉදිරිපත් කළ යුතු බව එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/01b44651.json)
+
+---
+
+### Dane Priyasad massacre: gunman arrested
+
+*2025-09-19 16:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டேன்-பிரியசாத்-படுகொலை-துப்பாக்கிதாரி-கைது/175-364923) · `ta`
+
+The suspect in connection with the murder of Dane Priyasat has been arrested in the Rangwala area of ​​Kegalle.
+
+Three suspects, including a particular suspect, were arrested last night, and one of the arrested women was reportedly involved.
+
+At the time of the arrest, 12,400 illegal cigarettes and several kajamuttu were discovered from the suspects.
+
+They belong to the Kagal and Welioia areas. According to police, one of the suspects legally quit the army. Remble
+
+◼️
+
+[Data](articles/d2b700d8.json)
+
+[Extended Data](ext_articles/d2b700d8.ext.json)
+
+---
+
+### Digitalization can lead us parallel with advanced states - President
+
+*2025-09-19 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214762) · `si`
+
+President Anura Kumara Dissanayake said that the current quality and reconciliation of all fields should be established in all fields, the current government digitalization program is an economic and socially new layer of Sri Lanka.
+
+◼️
+
+[Data](articles/34251797.json)
+
+[Extended Data](ext_articles/34251797.ext.json)
+
+---
+
+### Heavy rains in several areas
+
+*2025-09-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214761) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa, Central, North and North Western provinces and in the Galle and Matara districts.
+
+Some places in the Western and Sabaragamuwa Provincial and Galle, Matara, Kandy and Nuwara Eliya districts. Mee. Heavy rains can occur in more than 50.
+
+The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 1.00.
+
+The North-Media and North Western Provinces are also in the North-Central and North Western Provinces in the Central Mountains.. (30-40) can have some stronger winds.
+
+The Meteorology Department requests the people to take necessary steps to minimize temporary strong winds and lightning accidents.
+
+◼️
+
+[Data](articles/4ceda3a2.json)
+
+[Extended Data](ext_articles/4ceda3a2.ext.json)
+
+---
+
+### Police suffered a special report on Kehelbaradara Padma
 
 *2025-09-19 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214760) · `si`
 
-පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන විත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවාගෙන සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ සම්බන්ධයෙන් සිදුකළ විමර්ශන වාර්තාවක් පොලිසිය විසින් අද (19) කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළේය.
+The police were produced before the Colombo Magistrate's Court today (19) at the Colombo Magistrate's Court today (19).
 
-කොළඹ අතිරේක මහේස්ත්‍රාත් ලහිරු සිල්වා මහතා හමුවට මෙම වාර්තාව ඉදිරිපත් කර ඇත.
+The report was presented to Colombo Additional Magistrate Lahiru Silva.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට එම වාර්තාව ඉදිරිපත් කරමින් අධිකරණය හමුවේ සඳහන් කළේ අදාළ සැකකරු රැඳවුම් නියෝග මත රඳවා ගෙන විමර්ශන සිදු කරන බවය.
+The Criminal Investigations Department (CID) presented the report to court in response to the court, said the suspect was detained on detention orders.
 
-තවද ගණේමුල්ල සංජීව ඝාතනයට මෙම සැකකරු සම්බන්ධ දැයි වැඩිදුර විමර්ශන සිදුකරන බවත් පොලිසිය මෙහිදී අධිකරණය හමුවේ පැවසීය.
+The police said that the suspect was involved in the murder of Ganejatha Sanjeewa murder, police said.
 
-මෙහිදී මහේස්ත්‍රාත්වරයා රඳවාගෙන සිටින මෙම සැකකරු මහේස්ත්‍රාත්වරයෙකු විසින් නිරීක්ෂණය කර තිබේ දැයි පොලීසියෙන් විමසා සිටියේය.
+The suspect was detained by the magistrate whether he was observed by a magistrate.
 
-ඊට පිළිතුරු දෙමින් විමර්ශන නිලධාරීන් සඳහන් කළේ කොටුව මහේස්ත්‍රාත්වරයා විසින් මෙම සැකකරු නිරීක්ෂණයට ලක් කර තිබෙන බවය.
+Responding, the investigating officials stated that the suspect had inspected the suspect by the Fort Magistrate.
 
-ඒ අනුව මෙම සැකකරු සම්බන්ධයෙන් ඉදිරි විමර්ශන සිදුකර එහි ප්‍රගතිය අධිකරණයට වාර්තා කරන ලෙසත් අතිරේක මහේස්ත්‍රාත්වරයා විමර්ශන නිලධාරීන්ට නියම කළේය.
+Accordingly, the Additional Magistrate also ordered the investigation to investigate the suspect and report to the court.
 
 ◼️
 
 [Data](articles/869af459.json)
 
+[Extended Data](ext_articles/869af459.ext.json)
+
 ---
 
-### தங்க பிஸ்கட்களுடன் விமானப்படை புலனாய்வு அதிகாரி கட்டுநாயக்கவில் கைது!
+### Air Force Investigation Officer arrested in Katunayake with gold biscuits
 
 *2025-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225519) · `ta`
 
-தங்க பிஸ்கட்களுடன் விமானப்படை புலனாய்வு அதிகாரி ஒருவர் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து விமான நிலைய சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவினரால் வியாழக்கிழமை (18) கைதுசெய்யப்பட்டுள்ளார்.
+An Air Force Investigation Officer with gold biscuits was arrested by the Airport Customs Control Unit at Bandaranaike International Airport on Thursday (18).
 
-விமானப்படையில் 17 ஆண்டுகள் பணியாற்றிய மினுவாங்கொடையைச் சேர்ந்த 37 வயதுடைய புலனாய்வு அதிகாரி ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+A 37 -year -old intelligence officer from Minuwangoda, who has worked for 17 years in the Air Force, has been arrested.
 
-சந்தேக நபரான விமானப்படை புலனாய்வு அதிகாரி விமான நிலையத்திலிருந்து வெளியேற முயன்ற போது விமான நிலைய சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவினரால்  சோதனைக்குட்படுத்தப்பட்டுள்ளார்.
+The suspect, the Air Force Investigation Officer, was raided by the Airport Customs Customs Control Unit when he tried to leave the airport.
 
-இதன்போது சந்தேக நபரான விமானப்படை புலனாய்வு அதிகாரியின் பையிலிருந்து 550 கிராம் எடையுடைய 24 கரட் தூய்மையான 40 தங்க பிஸ்கட்கள் கைப்பற்றப்பட்டுள்ளன.
+At the time, the suspect was seized from the pocket of the suspect, the 24 -carat clean biscuits weighing 550 grams.
 
 ◼️
 
 [Data](articles/f4cbe6e1.json)
 
+[Extended Data](ext_articles/f4cbe6e1.ext.json)
+
 ---
 
-### පානදුරේ නිලංගගේ ආරක්ෂාව තහවුරු කරන ලෙස ඉල්ලා ගොනුකළ පෙත්සම සලකා බැලීමට දින දෙයි
+### The petition filed to consult the security of Panadura Nilanga's safety
 
 *2025-09-19 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214759) · `si`
 
-පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මේවන විට ශ්‍රී ලංකාවට රැගෙන විත් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවාගෙන සිටින නිලංග සම්පත් සිල්වා හෙවත් පානදුරේ නිලංග නමැත්තාගේ ආරක්ෂාව තහවුරු කරන ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන්ට නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන රිට් පෙත්සමක් සලකා බැලීම සඳහා ලබන 26 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+The Court of Appeal was held to be summoned to the 26th to be considered to be considered to issue a direct film to the CID officials to issue a directive to Sri Lanka in Indonesia.
 
-අදාළ සැකකරුගේ මව විසින් ඉදිරිපත් කළ මෙම පෙත්සම අද (19) අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petition filed by the mother of the suspect was called before the Court of Appeal of the Court of Appeal and Priyantha Fernando.
 
-එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥවරයා සහ නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් ශනිල් කුලරත්න මහතා විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව එය සලකා බැලීම සඳහා ලබන 26 කැඳවීමට විනිසුරු මඩුල්ල නියම කළේය.
+After considering the petitioner and the Attorney General Solicarasitor General Sharnil Kularatne, who appeared on behalf of the Attorney General, was appointed to call on 26.
 
-මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා, පොලිස්පතිවරයා, නීතිපතිවරයා ඇතුළු පිරිසක් නම් කර තිබේ.
+The Director of the Criminal Investigations Department, the Director of the Criminal Investigation Department, the IGP and the Attorney General have been named as respondents in the petition.
 
-...
+The petitioner says that the respondents are issued to the respondents to ensure the safety of his Son who is holding in the custody of the CID.
+
+In addition, the petition further requests the respondents to respond to the guidelines issued by the Sri Lanka Human Rights Commission (HRCSF) in detention.
+
+◼️
 
 [Data](articles/6375d7dc.json)
 
+[Extended Data](ext_articles/6375d7dc.ext.json)
+
 ---
 
-### බලශක්ති ක්ෂේත්‍රයේ පාර්ශ්වකරුවන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක්
+### 2026 pre-budget discussions with stakeholders in energy sector
 
 *2025-09-19 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214758) · `si`
 
-බලශක්ති ක්ෂේත්‍රයේ පාර්ශ්වකරුවන් සමඟ පූර්ව අයවැය සාකච්ඡාවක් කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (18) පැවැත්විණි.
+Labor and Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando held a pre-budget discussion with the partners of the energy sector.
 
-මෙරට දිනෙන් දින ඉහළ යන විදුලි ඉල්ලුම සපුරාලීම සඳහා ගත යුතු ක්‍රියාමාර්ග පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+It was also discussed at length to measures to be taken to meet the rising electricity demand.
 
-විශේෂයෙන් නව රජයේ වැඩපිළිවෙළ යටතේ මෙරට නිශ්පාදන ආර්ථිකයක් ගොඩනැගීමේ කාර්යභාරයේදී බලශක්ති ක්ෂේත්‍රයට විශාල ඉල්ලුමක් පවතින බවද, එම අවශ්‍යතා සැපිරීමේදී පුනර්ජනනීය බලශක්තිය සඳහා රජය විශේෂ අවධානයක් යොමු කර ඇති බවද මෙහිදී අවධාරණය කරන ලදී.
+It was emphasized that the energy sector has a great demand for the energy sector and the government has paid special attention to renewable energy in the role of the new government program.
 
-විදුලිබලය අපනයනය කිරීමට ඇති අවස්ථා පිළිබඳවද මෙහිදී සාකච්ඡාවට ලක් කෙරිණි. බලශක්ති  ක්ෂේත්‍රයේ පාර්ශ්වකරුවන් ඉල්ලා සිටියේ ක්ෂේත්‍රයට අදාළ භාණ්ඩ ආනයනයේදී අධික බදු මුදලක් ගෙවීමට සිදු වී ඇති බැවින් ඒ පිළිබඳව අවධානය යොමු කරන ලෙසය.
+There were also discussed on opportunities to export electricity. The partners of the energy sector were asked for to pay attention to the importation of goods related to the industry.
 
-මෙම කරුණු සම්බන්ධයෙන් බලශක්ති අමාත්‍යවරයා, අමාත්‍යාංශ ලේකම්වරයා, විදුලිබල මණ්ඩලයේ සභාපති සහ බලශක්ති ක්ෂේත්‍රයට සම්බන්ධ සියලු පාර්ශ්වකරුවන් සමඟ නුදුරේදීම තවත් සාකච්ඡාවක් පැවැත්වීමටද තීරණය කරන ලදී.
+The Minister of Energy Minister also decided to hold another discussion with all stakeholders of the Electricity Board, the Chairman of the Electricity Board and Energy.
+
+Speaking in the energy sector, especially the maximum of production of the energy sector, will be discussed and reducing the cost of producers.
 
 ...
 
 [Data](articles/3ed12880.json)
+
+[Extended Data](ext_articles/3ed12880.ext.json)
 
 ---
 
@@ -130,6 +220,8 @@ The suspect was immediately taken into custody, and further investigations are u
 
 [Data](articles/fdeb6e96.json)
 
+[Extended Data](ext_articles/fdeb6e96.ext.json)
+
 ---
 
 ### Rs. Air Force intelligence officer arrested with gold
@@ -149,6 +241,20 @@ Customs officers found 40 carrots 24-gold biscuits in his possession and 550 gra
 [Data](articles/e5f49615.json)
 
 [Extended Data](ext_articles/e5f49615.ext.json)
+
+---
+
+### 90393 tourists arrived in Sri Lanka in the first 17 days of September
+
+*2025-09-19 14:52:51* · [`adalk`](https://www.ada.lk/breaking_news/සැප්තැම්බර්-පළමු-දින-17-තුළ-ලංකාවට-සංචාරකයන්-90393ක්-ඇවිත්/11-418608) · `si`
+
+Tourism Development Authority says that 90393 tourists have arrived in Sri Lanka in the first 17 days of September. Accordingly, the total number of tourists visited Sri Lanka from January 1 to September 17 this year was 1 656 916.
+
+◼️
+
+[Data](articles/0cd7b848.json)
+
+[Extended Data](ext_articles/0cd7b848.ext.json)
 
 ---
 
@@ -203,6 +309,28 @@ Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra said tha
 [Data](articles/2f723688.json)
 
 [Extended Data](ext_articles/2f723688.ext.json)
+
+---
+
+### Rs. 21 mark caring for 195,000
+
+*2025-09-19 14:28:43* · [`adalk`](https://www.ada.lk/breaking_news/රු--195000ක්-සොරකම්-කළ-21-හැවැරිදි-තරුණියක්-අල්ලයි/11-418607) · `si`
+
+Hatton Police have arrested a 21 year old resident of the area when no one in Hatton Abosley estate belonging to Hatton Police Division.
+
+The arrest occurred on 18.09.2010, Hatton Police said.
+
+The preliminary investigations carried out by the Hatton Police have revealed that the remaining Rs.
+
+Hatton police investigate department has taken action to commence investigations into the incident to the Hatton Police Station
+
+The Hatton Police, who started investigations on the complaint, seized the suspect (18) and recovered the suspect.
+
+◼️
+
+[Data](articles/29b0aca1.json)
+
+[Extended Data](ext_articles/29b0aca1.ext.json)
 
 ---
 
@@ -1921,109 +2049,5 @@ The public requests the public to take necessary steps to reduce the damages cau
 [Data](articles/c7bbad95.json)
 
 [Extended Data](ext_articles/c7bbad95.ext.json)
-
----
-
-### The year that was: thrashing  towards NPP’s thriving nation
-
-*2025-09-19 06:29:59* · [`dailyftlk`](https://www.ft.lk/columns/The-year-that-was-thrashing-towards-NPP-s-thriving-nation/4-781895) · `en`
-
-That the NPP-dominated House is starting to walk the talk on promises that its leader made on his remarkable campaign trail must redound to the credit of every one of those 159 National People’s Power MPs
-
-As the first year of a House commandeered by the NPP has come round, it is timely, appropriate and opportune to examine the track record of a tyro government in the 365 days just past.
-
-It is timely because the traditional honeymoon period, in which a people content from only recently casting the ballot cut a newbie administration a gracious slice of charitable slack, is now over.
-
-And there is no more appropriate a motive than keeping the NPP, led by the JVP, those vociferous critics of past regimes, accountable in just and similar vein.
-
-Also opportune because the National People’s Power produced a fait accompli to coincide with its first anniversary in parliament and in power to justify its erstwhile campaign trail promises.
-
-...
-
-[Data](articles/e4a546cf.json)
-
-[Extended Data](ext_articles/e4a546cf.ext.json)
-
----
-
-### Sri Lanka’s hollow democracy: Need to awaken and reclaim our nation
-
-*2025-09-19 06:25:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-hollow-democracy-Need-to-awaken-and-reclaim-our-nation/4-781894) · `en`
-
-Parliamentarians no longer represent the people but act as protectors of privilege, brokers of fraud, and breakers of law
-
-I often wonder whether our nation’s founders ever paused to reflect before adopting the foundational principles of Democratic, Socialist, and Republic to define the country. A nation’s self-identification shapes not only its domestic policies but also its relationship with its people and its place in the world. Misinterpreting or inconsistently applying these terms risks deep conflict, ideological, institutional, and social, which we have adequately experienced. Before judging the merits of this identity, we must return to the fundamentals of democracy: does it serve some of the people some of the time, or all of the people all of the time?
-
-...
-
-[Data](articles/79974f82.json)
-
-[Extended Data](ext_articles/79974f82.ext.json)
-
----
-
-### Promoting reconciliation and accountability in Sri Lanka
-
-*2025-09-19 06:20:52* · [`dailyftlk`](https://www.ft.lk/columns/Promoting-reconciliation-and-accountability-in-Sri-Lanka/4-781893) · `en`
-
-Close on 13 years after the matter came up for discussion in Geneva it continues to be debated
-
-In June 2010, the Secretary-General appointed the Panel of Experts on Accountability in Sri Lanka to advise him on accountability issues in Sri Lanka and offered it as a resource to the Government, and particularly to the Lessons Learnt and Reconciliation Commission.
-
-The title of this article goes back to 2012 when the Human Rights Council used it for the first of succeeding annual resolutions on Sri Lanka. At the 19th Session of the Council they adopted resolution (A/HRC/19/2) ‘Promoting reconciliation and accountability in Sri Lanka 19th Regular Session (2012 Feb). It:
-
-...
-
-[Data](articles/37029edb.json)
-
-[Extended Data](ext_articles/37029edb.ext.json)
-
----
-
-### JVP-led NPP Govt. must take meaningful action to end illegal Indian fishing in northern waters
-
-*2025-09-19 06:16:22* · [`dailyftlk`](https://www.ft.lk/columns/JVP-led-NPP-Govt-must-take-meaningful-action-to-end-illegal-Indian-fishing-in-northern-waters/4-781892) · `en`
-
-The Tamil Nadu fishers have displayed unbelievable hostility and animus towards their Tamil speaking counterparts in Sri Lanka
-
-The ongoing problem of illegal fishing and bottom trawling in Sri Lanka’s northern territorial waters by Indian fishers from Tamil Nadu state was described in detail in the first part of this article published last week. Particular attention was devoted to the bogey of Katchatheevu being raised by the Indian side to sidetrack the issue. As emphasised previously the fundamental problem is illegal fishing in Sri Lankan waters and not the question of Katchatheevu islet ownership. Certain salient points regarding the illegal fishing by Tamil Nadu fishers will be related in this second and final part of this article.
-
-...
-
-[Data](articles/dc673be5.json)
-
-[Extended Data](ext_articles/dc673be5.ext.json)
-
----
-
-### Crossing the Tax Rubicon
-
-*2025-09-19 06:09:45* · [`dailyftlk`](https://www.ft.lk/columns/Crossing-the-Tax-Rubicon/4-781891) · `en`
-
-Like Caesar’s crossing of the Rubicon, every tax decision carries lasting consequences
-
-The phrase “crossing the Rubicon” has travelled from ancient Rome into modern language as a metaphor for making a decision from which there is no turning back. Its origins date to 49 BCE, when Julius Caesar, confronted with a political deadlock, led his army across the Rubicon River an act that defied the Roman Senate and marked the beginning of a civil war that forever changed Rome’s destiny. As Caesar reportedly declared, “The die is cast.” In that single moment, he understood that there was no possibility of retreat, only the certainty of consequences. The step across the river was not just military defiance; it was the point of no return, carrying outcomes that would reshape both his own fate and the future of the Republic.
-
-...
-
-[Data](articles/bb1fc6c6.json)
-
-[Extended Data](ext_articles/bb1fc6c6.ext.json)
-
----
-
-### Sampath Bank leads discourse on Sri Lanka’s recovery in a shifting global economy
-
-*2025-09-19 06:02:26* · [`dailyftlk`](https://www.ft.lk/opinion/Sampath-Bank-leads-discourse-on-Sri-Lanka-s-recovery-in-a-shifting-global-economy/14-781888) · `en`
-
-From left: Central Bank of Sri Lanka former Governor Dr. Indrajith Coomaraswamy, Advocata Institute Chair Murtaza Jafferjee,  and Moderator and Frontier Research Head of Macroeconomic Advisory Chayu Damsinghe
-
-Sri Lanka’s fragile yet recovering economy was placed under the spotlight at the Sampath Bank Economic Forum 2025, held recently at Cinnamon Life, Colombo. Themed “Sri Lanka at the crossroads: Navigating trade turbulence, currency risk & the global reset”, organised exclusively for the bank’s trade, treasury, and corporate customers. The event reinforced Sampath Bank’s commitment to providing foresight and strategic guidance amidst global economic shifts, bringing together policymakers, economists, and corporate leaders to debate the country’s position in an increasingly uncertain global order.
-
-...
-
-[Data](articles/f9fd474c.json)
-
-[Extended Data](ext_articles/f9fd474c.ext.json)
 
 ---

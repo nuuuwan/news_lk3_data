@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 05:20:24**
+As of **2025-09-19 04:54:30**
 
 ## Newspaper Stats
 
-*Scraped **76,817** Articles*
+*Scraped **76,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 630
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,653
+economynextcom | 4,649
 islandlk | 4,715
 dailymirrorlk | 4,733
 dailyftlk | 5,451
@@ -26,51 +26,11 @@ adaderanasinhalalk | 13,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,205 (97.9%) of 76,817 articles have been extended.
+75,192 (97.9%) of 76,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### France’s AFD keen on pump storage plants as Sri Lanka eyes funding
-
-*2025-09-19 05:00:00* · [`economynextcom`](https://economynext.com/frances-afd-keen-on-pump-storage-plants-as-sri-lanka-eyes-funding-241122/) · `en`
-
-ECONOMYNEXT – The French development agency is keen to support pump storage plants as part of its commitment to climate change resilience and green energy, an official said as Sri Lanka’s power grid eyes 600 MegWatt unit accommodate intermittent renewables.
-
-“Actually, pump storage is one of the solutions that AFD is really keen to support,” the Deputy Head of Energy at Agence Française de Développement, Manelle Ait Sahlia told reporters in Paris.
-
-“It’s not an easy solution from a technical point of view. But it’s a very interesting solution in countries with hydro potential.”
-
-“We’ve approved the financing last year for a pump storage project in Vietnam. And AFD was leading a pool of financiers and leading a Team Europe approach for this project.”
-
-The AFD, currently has an active portfolio of around 50 billion euros of which around a third has been committed to the Indo-Pacific area, Executive Director of AFD operations Philippe Orliange said.
-
-...
-
-[Data](articles/73d3316d.json)
-
----
-
-### Sri Lanka opens large water supply system funded by China
-
-*2025-09-19 00:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-large-water-supply-system-funded-by-china-241159/) · `en`
-
-ECONOMYNEXT – Sri Lanka has opened its integrated water supply system which will provide safe drinking water to people in Gampaha, Minuwangoda and Attanagalla and parts of Mahara and Mirigama, minister Vijitha Herath said.
-
-The large-scale project begun by the former Yahapalanaya government, includes 88,000 new water connections and the upgrading of about 22,000 existing water connections.
-
-The project includes the Basnagoda Reservoir with a capacity of 5.5 million cubic meters, a pumping station with a capacity of 85,000 cubic meters a day, a water treatment plant with a capacity of 54,000 cubic meters a day, a high-level water tank with a capacity of 10,000 cubic meters, and 5 water towers with a capacity of 1,500 cubic meters.
-
-The total length of the transmission pipeline is 85 km with a distribution pipeline network of 504 km.
-
-The project was mainly funded by the China Development Bank and carried out by China Machinery Engineering Corporation (CMEC). (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/ffe775c3.json)
-
----
 
 ### Duti Welelige's father passes away
 
@@ -142,24 +102,6 @@ In the first Super 4s match of Asia Cup 2025, Sri Lanka will now face Bangladesh
 
 ### 2025-09-18 (Thursday)
 
-### Sri Lanka’s Union Assurance sells 22-pct stake in Fairfirst Insurance for Rs2.6bn
-
-*2025-09-18 23:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-union-assurance-sells-22-pct-stake-in-fairfirst-insurance-for-rs2-6bn-241151/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Union Assurance PLC has sold its 22 percent stake in Fairfirst Insurance Limited to Fairfax Asia Limited for 2.63 billion rupees, John Keells Holdings said.
-
-“UAL has divested its 22% equity stake comprising 30,800,000 ordinary shares, in Fairfirst Insurance Limited, an associate company of UAL today,” John Keells Holdings said in a stock exchange filing.
-
-Fairfirst Insurance Limited operates in the non-life insurance segment and was previously treated as an associate of the John Keells Group.
-
-Fairfax Asia Limited is a subsidiary of Fairfax Financial Holdings Limited. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/03274c11.json)
-
----
-
 ### Sri Lanka in terms of abuse of Bangladesh to Bangladesh
 
 *2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
@@ -187,22 +129,6 @@ With the defeat of Afghanistan, they left the tournament, and the Banglaida qual
 [Data](articles/f0f31835.json)
 
 [Extended Data](ext_articles/f0f31835.ext.json)
-
----
-
-### International Commission of Jurists urges Sri Lanka to repeal or revise online safety act
-
-*2025-09-18 23:22:00* · [`economynextcom`](https://economynext.com/international-commission-of-jurists-urges-sri-lanka-to-repeal-or-revise-online-safety-act-241142/) · `en`
-
-ECONOMYNEXT – The International Commission of Jurists (ICJ) has submitted its observations after Sri Lanka’s government called for public input on amending the contentious Online Safety Act.
-
-“In its submission, the ICJ emphasized that several provisions of the Act threaten the enjoyment of rights to freedom of expression, opinion, and information guaranteed under Article 14(1)(a) of the Constitution of Sri Lanka and Article 19 of the International Covenant on Civil and Political Rights (ICCPR), to which Sri Lanka is a party,” the statement said.
-
-The ICJ urged the government to repeal the act or revise it to make it compliant with the country’s international human rights law obligations.
-
-...
-
-[Data](articles/df454dc9.json)
 
 ---
 
@@ -2129,5 +2055,87 @@ This includes steps to increase more tourist visits to more attractions, better 
 [Data](articles/28b30916.json)
 
 [Extended Data](ext_articles/28b30916.ext.json)
+
+---
+
+### Shop at Dambulla market destroyed in fire
+
+*2025-09-18 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112644/shop-at-dambulla-market-destroyed-in-fire) · `en`
+
+A fire broke out in a shop within the Dambulla weekly market belonging to the Dambulla Municipal Council early this morning (18).
+
+An employee of the Dambulla Municipal Council had noticed the fire upon reporting for duty this morning and promptly informed the Fire Brigade, Ada Derana reporter said.
+
+Accordingly, they were able to bring the blaze under control.
+
+While the cause of the fire is yet to be determined, it has been confirmed that the shop had been used to store stocks of polythene. All polythene and other stored materials were completely destroyed in the incident.
+
+The Mayor of the Dambulla Municipal Council, Wasantha K. Rajamanthrie stated that if the fire had spread, it could have posed a serious risk to the many shops and residents adjacent to the market.
+
+◼️
+
+[Data](articles/7ad7e5cc.json)
+
+[Extended Data](ext_articles/7ad7e5cc.ext.json)
+
+---
+
+### Ready to prove that a French President's wife is a woman of a McCorn
+
+*2025-09-18 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214707) · `si`
+
+Foreign media has planned to make the photos and scientific evidence that he needs to prove himself a woman by French President.
+
+The American political criteria had been accused of a man named Mr. Emmanuel McCron man, a wife of the French President, Britain.
+
+Accordingly, French president and his wife Brigit McCron had acted before a USA court to take legal action against her.
+
+Their lawyer Tom Clare has said that the President of the country and a president with a professional and family life, the President is also influenced by President Emmanuel Macron.
+
+He added that the couple is ready to promote the scientific expertise in the future.
+
+◼️
+
+[Data](articles/2ecf42a1.json)
+
+[Extended Data](ext_articles/2ecf42a1.ext.json)
+
+---
+
+### Trump drug leap on 23 countries including India and China
+
+*2025-09-18 12:19:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இந்தியா-சீனா-உள்ளிட்ட-23-நாடுகள்-மீது-ட்ரம்ப்-போதைப்-பொருள்-பாய்ச்சல்/50-364842) · `ta`
+
+US President Donald Trump has said that 23 countries, including China, Afghanistan, India and Pakistan, have a major role in drug trafficking and production.
+
+In a statement filed in the Trump parliament, Afghanistan, The Belis, Bolivia, Myanmar, China, Columbia, Costa Rica, The Dominician Republic, Ecuador, Elwadar, Elwadar, Gautamala, Haitamala, Haitu, Haitura, Haituras, India, Jamaica, Jamaica, Jamaica Venezuela are also featured. It is reported that these countries play an important role in drug production and trafficking.
+
+...
+
+[Data](articles/ad3686c2.json)
+
+[Extended Data](ext_articles/ad3686c2.ext.json)
+
+---
+
+### India has credited US intervention - Pakistan Foreign Minister Ishaq Tar
+
+*2025-09-18 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225379) · `ta`
+
+Pakistani External Affairs Minister Ishaq Tar has said that India has categorically rejected US intervention as US President Donald Trump has intervened in the clash between India and Pakistan.
+
+With this, India's position has confirmed that India does not need a third country intervention to stop the war.
+
+US President Tiprump continued to say, "I have stopped the war between India and Pakistan.". But India denied this and said, “We stopped the attack because Pakistan begged. There is no intervention in the third country. ”
+
+Pakistani Foreign Minister Ishaq Tar told a private television channel that he had received information about the ceasefire on May 11 by US Secretary of State Marco Rubio.
+
+But when he met Rubio in Washington on July 25, Ihak Tar said that Rubio replied, "India has rejected any third-party intervention because India said this was a bilateral issue."
+
+...
+
+[Data](articles/b65093b3.json)
+
+[Extended Data](ext_articles/b65093b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 00:21:52**
+As of **2025-09-20 00:11:30**
 
 ## Newspaper Stats
 
-*Scraped **77,000** Articles*
+*Scraped **76,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,660
 islandlk | 4,726
 dailymirrorlk | 4,733
-dailyftlk | 5,471
+dailyftlk | 5,470
 adalk | 7,489
 adaderanalk | 9,943
 tamilmirrorlk | 11,577
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,069 (98.8%) of 77,000 articles have been extended.
+76,069 (98.8%) of 76,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### South Asia Policy and Research Institute holds first of youth-led series of dialogues
-
-*2025-09-19 23:53:38* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-Policy-and-Research-Institute-holds-first-of-youth-led-series-of-dialogues/56-781951) · `en`
-
-“Sri Lanka’s economic future: What role can you play in driving reforms?” was the timely and thought-provoking theme of the first discussion in a six-part youth-led series launched by the South Asia Policy and Research Institute (SAPRI) to mark its 15th anniversary.
-
-The series, held under the banner “Policy Pulse: Youth Voices for South Asia”, seeks to build policy literacy, sharpen analytical thinking, and deepen civic engagement among young Sri Lankans.
-
-The inaugural session, held on 19 September at SAPRI’s Colombo 5 office, was well attended, with students from private universities—including IIT, APIIT, and NSBM—and professionals from the advertising field, education sector, and the press.
-
-...
-
-[Data](articles/9f05c931.json)
-
----
 
 ### Tunit Vellalale to go back to Tubai
 
@@ -2083,5 +2067,23 @@ The announcement was valid today (19) at 10 am today.
 [Data](articles/c0d42ba6.json)
 
 [Extended Data](ext_articles/c0d42ba6.ext.json)
+
+---
+
+### Tunit returned to the country
+
+*2025-09-19 11:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-துனித்/175-364903) · `ta`
+
+Following the death of his father, Sri Lankan cricketer Dunit Wellalake arrived at the Katunayake airport this morning.
+
+He arrived in Abu Dhabi from Abu Dhabi at 08.25 am this morning.
+
+It is noteworthy that Tunit Vellalake's father died of a heart attack last night, while Tunit was playing in a match against Afghanistan last night.. Remble
+
+◼️
+
+[Data](articles/02b10634.json)
+
+[Extended Data](ext_articles/02b10634.ext.json)
 
 ---

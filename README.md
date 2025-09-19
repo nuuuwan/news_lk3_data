@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 03:55:15**
+As of **2025-09-20 04:37:51**
 
 ## Newspaper Stats
 
@@ -26,147 +26,169 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,174 (98.9%) of 77,026 articles have been extended.
+76,214 (98.9%) of 77,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### ஓய்வு பெறுகிறார் ஆசியாவின் முதல் பெண் ரயில் ஓட்டுநர்
+### Retirement Asia's first female train driving
 
 *2025-09-20 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225558) · `ta`
 
-ஆணாதிக்கம் நிறைந்த இந்திய ரயில்வேயில் அசாத்தியமான துணிச்சலுடன் நுழைந்து, ஆயிரக்கணக்கான பெண்களுக்கு வழிகாட்டியாக திகழ்ந்த ஆசியாவின் முதல் பெண் ஓட்டுநர் சுரேகா யாதவ் வரும் 30ம் தேதி ஓய்வு பெறுகிறார்.
+Sureka Yadav, the first female driver of Asia, is retiring on the 30th of this month, who is a guide to thousands of women.
 
-மகாராஷ்டிரா மாநிலம் சாத்தாரா மாவட்டத்தைச் சேர்தவர் சுரேகா யாதவ். விவசாய குடும்பத்தில் பிறந்த இவர், 1989ம் ஆண்டு இந்திய ரயில்வேயில் துணை ஓட்டுநராக பணியில் சேர்ந்தார்.
+Sureka Yadav joins the Sattara district of Maharashtra State. Born in a farming family, he joined the Indian Railways in 1989 as a vice -driver.
 
-இதன் மூலம், இந்தியாவில் மட்டுமின்றி ஆசியாவிலேயே ரயில் ஓட்டுநராக நியமிக்கப்பட்ட முதல் பெண் என்ற பெருமையை பெற்றார்.
+With this, she became the first woman to be appointed as the train driver not only in India but also in Asia.
 
-இதைத் தொடர்ந்து, படிப்படியாக முன்னேறி 1996ம் ஆண்டு சரக்கு ரயில் ஓட்டுநராக பணியாற்றினார். 2000ம் ஆண்டு முதல், பயணிகள் ரயில் ஓட்டுநராக பணியாற்றினார்.
+Following this, he gradually improved and worked as a freight train driver in 1996. Since 2000, he has worked as a passenger train driver.
 
-பத்தாண்டுகளில், மும்பை - புனே நகரங்களுக்கு இடையே இயக்கப்படும், பல சிறப்புகளைக் கொண்ட ‘டெக்கான் குயின்’ எனும் இந்தியாவின் முதல் அதிவிரைவு ரயிலை இயக்கினார்.
+In the decade, he operated the first high -speed train of India, the Deccan Queen Model, which runs between Mumbai and Pune.
 
-2023ம் ஆண்டு மார்ச் 13ம் தேதி, சோலாப்பூர் - மும்பை சத்ரபதி சிவாஜி ரயில் முனையத்திற்கு இடையே, ‘வந்தே பாரத்’ ரயிலை இயக்கியதன் மூலம், அதிவேக ரயில் ஓட்டுநரான பெண் என்ற சாதனையை பெற்றார்.
+On March 13, 2023, Solapur - Mumbai Chhatrapati Shivaji achieved the record of being a high -speed train driver by running the Bharat telephone train between the Shivaji railway terminal.
+
+In this case, Sureka Yadav, who has been a 36-year-old driver in the male-dominated Indian railway, is retiring on the 30th (30-09-2025).
 
 ...
 
 [Data](articles/88e32f7c.json)
 
+[Extended Data](ext_articles/88e32f7c.ext.json)
+
 ---
 
-### ஓமான் அணியை 21 ஓட்டங்கள் வித்தியாசத்தில் வீழ்த்திய இந்திய அணி
+### The Indian team beat Oman by 21 runs
 
 *2025-09-20 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225557) · `ta`
 
-2025 ஆசியக் கிண்ண ரி20 போட்டியின் "A" குழுவின் கடைசிய போட்டியான இந்தியா மற்றும் ஓமான் அணிகளுக்கு இடையேயான போட்டியில் இந்திய அணி 21 ஓட்டங்கள் வித்தியாசத்தில் வெற்றி பெற்றது.
+India won the match between India and Oman, the last match of the 2025 Asian Cup T20 match.
 
-நாணய சுழட்சியில் வென்று முதலில் துடுப்பெடுத்தாடிய இந்திய அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்களில் 08 விக்கெட் இழப்புக்கு 188 ஓட்டங்கள் எடுத்தது.
+The Indian team won the coin spinning first and scored 188 runs for the loss of 8 wickets in 20 overs.
 
-பதிலுக்கு துடுப்பெடுத்தாடிய ஓமான் அணி தமது 20 ஓவர்களின் முடிவில் 4 விக்கெட் இழந்து 167 ஓட்டங்களை மட்டுமே பெற்று தோல்வியடைந்தது.
+In reply, Oman lost 4 wickets at the end of their 20 overs and lost only 167 runs.
 
 ◼️
 
 [Data](articles/02577071.json)
 
+[Extended Data](ext_articles/02577071.ext.json)
+
 ---
 
-### தலைமன்னார் கடற்பரப்பில் கைது செய்யப்பட் 05 மீனவர்களையும தொடர்ந்து விளக்கமறியலில் வைக்க உத்தரவு
+### Five fishermen arrested in the Talaimannar seas
 
 *2025-09-20 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225556) · `ta`
 
-இலங்கை கடற்பரப்பில் அத்து மீறி நுழைந்து மீன் பிடித்த நிலையில் தலைமன்னார் கடற்பரப்பில் கைது செய்யப்பட்டு விளக்க மறியலில் வைக்கப் பட்டிருந்த 5 இந்திய மீனவர்களையும் தொடர்ந்தும் விளக்கமறியலில் வைக்க மன்னார் நீதவான் வெள்ளிக்கிழமை [19] வெள்ளிக்கிழமை உத்தரவிட்டார்.
+The Mannar Magistrate on Friday [19] ordered the five Indian fishermen who were arrested and detained in the Talaimannar seas as they entered the Sri Lankan waters.
 
-கடந்த ஜூன் மாதம் இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்துக் கொண்டிருந்த போது கடல் ரோந்து பணியில் ஈடுபட்ட இலங்கை கடற்படையினர் இந்திய இழுவைப் படகுகளையும் ஒன்றையும் அதிலிருந்து 5 இந்திய மீனவர்களையும் கைது செய்தனர்.
+Last June, Sri Lankan navy arrested Indian trawlers and 5 Indian fishermen from sea patrols while they were fishing in the Sri Lankan waters last June.
 
-திணைக்கள அதிகாரிகள் விசாரனைகளின் பின்னர் நீதிமன்றத்தில் ஆஜர்படுத்திய நிலையில் குறித்த மீனவர்களை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவு பிறப்பித்திருந்தார்.
+The magistrate had ordered the fishermen to be interrogated after the department officials were produced in court after inquiries.
 
-இந்த நிலையில் குறித்த வழக்கு விசாரணை மீண்டும் வெள்ளிக்கிழமை (19) விசாரணைக்காக எடுத்துக் கொள்ளப்பட்டது.
+The case was taken up again for an hearing on Friday (19).
 
-இதன் போது விசாரணைகளை மேற்கொண்ட மன்னார் நீதவான் குறித்த 5 மீனவர்களையும் இம் மாதம் 26 ஆம் திகதி  வரை மீண்டும் விளக்க மறியலில் வைக்க  உத்தரவிட்டார்.
+The Mannar Magistrate, who investigated the inquiry, ordered the re -remand of the five fishermen in this month.
 
 ◼️
 
 [Data](articles/8e3267ef.json)
 
+[Extended Data](ext_articles/8e3267ef.ext.json)
+
 ---
 
-### இந்திய சிறுத்தோட்ட விவசாய சங்க ஒருங்கிணைப்பாளர் செல்வராஜ் – இ.தொ.கா தலைவர் செந்தில் தொண்டமான் சந்திப்பு
+### Selvaraj - CWC leader Senthil Thondaman meets
 
 *2025-09-20 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225555) · `ta`
 
-இந்திய சிறுத்தோட்ட விவசாய சங்கத்தின் தேசிய ஒருங்கிணைப்பாளர் செல்வராஜ், இ.தொ.கா தலைவர் செந்தில் தொண்டமானை இன்று கொழும்பில் உள்ள இலங்கை தொழிலாளர் காங்கிரசின் தலைமையகமான சௌமியபவனில் சந்தித்தார்.
+Selvaraj, National Coordinator of the Indian Pantheon Farmers Association, met with CWC leader Senthil Thondaman today at Chaumiyapavan, headquarters of the Ceylon Workers Congress in Colombo.
 
-இச்சந்திப்பின் போது, கடந்த காலங்களில் இந்தியாவில் நீலகிரி மாவட்டத்தில் Tan Tea நிறுவனத்தால் நிர்வகிக்கப்படும் தோட்டங்களில், இலங்கையில் இருந்து இந்தியாவிற்கு சென்ற மலையக தோட்ட தொழிலாளர்கள் அகற்றப்பட்ட போது, இ.தொ.க தலைவர் செந்தில் தொண்டமான் தலையீட்டால் அவர்கள் மீண்டும் அதே இடத்தில் இருப்பதற்கான வாய்ப்பு ஏற்பட்டதுடன், அவர்களுக்கான வீட்டுத்திட்டம் தமிழக முதலமைச்சருடன் கலந்துரையாடி பெற்றுக் கொடுக்கப்பட்டது. அதற்காக செல்வராஜ், செந்தில் தொண்டமான் அவர்களுக்கு நன்றி தெரிவித்தார்.
+During the meeting, when the hill plantation workers who traveled from Sri Lanka to India from India were removed from the Gardens of the Nilgiris district in India, they had the opportunity to be re -established by CWC leader Senthil Thondaman.. Selvaraj thanked Senthil Thondaman for that.
 
-இ.தொ.கா தலைவர் கடந்த காலத்தில் தமிழக முதலமைச்சர், கேரளா முதலமைச்சர் ஆகியோரை சந்தித்து இப்பிரச்சினை குறித்து கலந்துரையாடல் மேற்கொள்ளப்பட்டது.
+The CWC leader has met with the Chief Minister of Tamil Nadu and the Chief Minister of Kerala in the past.
+
+Moreover, as the lease was completed by the Forest Department in the Nilgiris district, Senthil Thondaman appealed to Senthil Thondaman to visit the Nilgiris and negotiate with the forest department in the name of 2 acres of plantation workers to farm.
 
 ...
 
 [Data](articles/594e2e55.json)
 
+[Extended Data](ext_articles/594e2e55.ext.json)
+
 ---
 
-### யாழில் நீண்ட காலமாக ஹெரோயின் விற்பனையில் ஈடுபட்ட சந்தேகநபர் கைது!
+### Suspect arrested for a long time in Jaffna
 
 *2025-09-20 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225554) · `ta`
 
-நீண்ட காலமாக ஹெரோயின் விற்பனையில் ஈடுபட்ட 22 வயதுடைய சந்தேகநபர் ஒருவர் வெள்ளிக்கிழமை (19) யாழ்ப்பாணம் - குருநகர் 5மாடி பகுதியில் வைத்து 2 கிராம் 300 மில்லிகிராம் ஹெரோயினுடன் கைது செய்யப்பட்டுள்ளார்.
+A 22 -year -old suspect, who has been involved in heroin for a long time, has been arrested on Friday (19) with 2 grams of heroin in a 5 -storey area in Jaffna.
 
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில், குருநகர் பொலிஸ் பொலிஸ் காவலரணில் கடமையில் இருந்த பொலிசாரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+The arrest was carried out by the police on duty at the Kurunagar Police Police, on the basis of confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
 
-விசாரணைகளின் பின்னர் குறித்த சந்தேக நபர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Police are taking steps to bring the suspects in court after investigations.
 
 ◼️
 
 [Data](articles/918dbda7.json)
 
+[Extended Data](ext_articles/918dbda7.ext.json)
+
 ---
 
-### வீதியோரங்களில் கட்டப்படுகின்ற கால்நடைகளுக்கு உடனடியாக நடவடிக்கை எடுக்கவும் - வலி. மேற்கு பிரதேச சபையில் வலியுறுத்து!
+### Take immediate action for cattle built on the streets - pain. Emphasize the West Pradeshiya Sabha!
 
 *2025-09-20 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225553) · `ta`
 
-வீதியோரங்களில் கட்டப்படுகின்ற கால்நடைகளுக்கும், கட்டாக்காலியாக வீதிகளில் திரிகின்ற கால்நடைகளுக்கும் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என வலிகாமம் மேற்கு பிரதேச சபையின் உறுப்பினர் ஜெ.துவாரகா சபையில் கோரிக்கை முன்வைத்தார்.
+Valikamam West Pradeshiya Sabha member J. Duvaraka has demanded immediate action for cattle being built on the streets and cattle on the streets.
 
-வலிகாமம் மேற்கு பிரதேச சபையின் மாதாந்த அமர்வு வெள்ளிக்கிழமை (19) தவிசாளரும் ச.ஜயந்தன் தலைமையில் நடைபெற்றது. இதன்போது அவர் இந்த கோரிக்கையை முன்வைத்தார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+The monthly session of the Valikamam West Pradeshiya Sabha was held on Friday (19) chaired by the Chairman. In the meantime he made this request. There he further stated,
 
-கால்நடைகளை அதன் உரிமையாளர்கள் நீண்ட கயிறுகளில் வீதியோரங்களில் கட்டுகின்றனர். இதனால் அந்த கால்நடைகள் ஒருபுறத்திலிருந்து மறுபுறம் செல்லும்போது அந்தக் கயிறு வாகனங்களில் சிக்குவதாலும், கால்நடைகள் குறித்து வருவதாலும் விபத்துக்கள் ஏற்படுகின்றன.
+Livestock its owners build on the streets with long ropes. This results in accidents due to the rope traffic and the livestock when they go from one side to the other side.
 
-நேற்றையதினம் வட்டுக்கோட்டையில் இருந்து யாழ்ப்பாணம் நோக்கி பயணித்துக் கொண்டிருந்தபோது செட்டியார் மடம் சந்தியிலும் இவ்வாறு ஒரு வாகனம் மாடு ஒன்றின் கயிற்றில் சிக்கியது. அது பெரிய வாகனமாக இருந்ததால் ஆபத்துகள் ஏற்படவில்லை. இதுவே மோட்டார் சைக்கிள் அல்லது துவிச்சக்கர வண்டியாக இருந்திருந்தால் அங்கே பாரிய விபத்து ஏற்பட்டிருக்கும்.
+The Chettiar Madam junction was trapped in a rope of a cow while traveling from Vaddukoddai to Jaffna yesterday. There was no dangers because it was a big vehicle. If this was a motorcycle or a bicycle, there would have been a massive accident.
 
-...
+There are more casualties that can cause such accidents. He urged the immediate awareness of this.
+
+◼️
 
 [Data](articles/78c80929.json)
 
+[Extended Data](ext_articles/78c80929.ext.json)
+
 ---
 
-### "இந்தியா இலங்கைக்கு வழங்கிவரும் உதவிகள் குறித்து இந்திய மத்திய அரசின் நிதி அமைச்சருடன் - ஜீவன் தொண்டமான் கலந்துரையாடல்"
+### "Jeevan Thondaman Discussion with the Finance Minister of the Indian Government on the assistance provided to Sri Lanka - Jeevan Thondaman"
 
 *2025-09-20 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225552) · `ta`
 
-இந்தியாவிற்குப் பயணம் மேற்கொண்டுள்ள இ.தொ.கா பொதுச் செயலாளரும், பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான் அவர்கள், இந்திய மத்திய அரசின் நிதி அமைச்சர் மதிப்பிற்குரிய நிர்மலா சீதாராமன் அம்மையார் அவர்களை வெள்ளிக்கிழமை (19) சந்தித்து கலந்துரையாடினார்.
+Jeevan Thondaman, a CWC general secretary and parliamentarian, who is on a visit to India, met with Nirmala Sitharaman, the Minister of Finance of the Central Government of India on Friday (19).
 
-மரியாதை நிமித்தமாக இடம்பெற்ற இந்தச் சந்திப்பின் போது, எமது சகோதர நாடான இந்தியா இலங்கைக்கு தொடர்ந்து வழங்கி வரும் உதவிகளுக்கும் உறுதியான ஆதரவிற்கும் தனது நன்றியைத் தெரிவித்துக் கொண்டார்.
+During this meeting for honor, our brother, India, expressed his gratitude for the continued assistance and firm support to Sri Lanka.
 
-மேலும் இலங்கைக்கு இந்தியா வழங்கிவரும் பன்முக ஆதரவுகள் குறித்து விவாதிக்கப்பட்ட இந்தச் சந்திப்பு மிகவும் பயனுள்ளதாக அமைந்ததாக ஜீவன் தொண்டமான் மேலும் தெரிவித்துக்கொண்டார்.
+Jeevan Thondaman added that the meeting, which was discussed on the multi -faceted supports of India to Sri Lanka, was very useful.
 
 ◼️
 
 [Data](articles/5c1929f2.json)
 
+[Extended Data](ext_articles/5c1929f2.ext.json)
+
 ---
 
-### மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் கனகசபை காலமானார்
+### Former Parliamentarian of Batticaloa District Kanakasabha has passed away
 
 *2025-09-20 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225551) · `ta`
 
-மட்டக்களப்பு களுதாவளையை சேர்ந்ந தமிழ்த் தேசியக்கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் அமரர். தன்மன்பிள்ளை கனகசபை அவர்கள் தனது 86 வது வயதில் வெள்ளிக்கிழமை (19/09/2025) வயது மூப்பு காரணமாக உயிரிழந்துள்ளார்
+Former Parliamentarian of the Batticaloa District of Batticaloa Tamil National Alliance. Tanmanpillai Kanagasabha died on Friday (19/09/2025) at the age of 86 (19/09/2025)
 
-1939/03/20 ஆம்திகதி பிறந்த ஓய்வுநிலை அரச உத்தியோகத்தரான இவர் 2004 ம் ஆண்டு இடம்பெற்ற பொதுத்தேர்தலில் மட்டக்களப்பு மாவட்டத்தில் தமிழ்த் தேசியக் கூட்டமைப்பு சார்பாக போட்டியிட்டு மாவட்டத்தில் அதிகூடிய விருப்பு வாக்குகளைப் பெற்று பாராளுமன்றத்திற்கு தெரிவானவர் என்பது குறிப்பிடத்தக்கது.
+It is noteworthy that he was a retired government officer who was born on August 1939/03/20 in 2004 and contested for the Tamil National Alliance (TNA) in the Batticaloa district.
 
 ◼️
 
 [Data](articles/34d21259.json)
+
+[Extended Data](ext_articles/34d21259.ext.json)
 
 ---
 

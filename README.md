@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 13:20:37**
+As of **2025-09-19 12:55:46**
 
 ## Newspaper Stats
 
-*Scraped **76,920** Articles*
+*Scraped **76,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,119 +16,39 @@ economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,479
+adalk | 7,478
 adaderanalk | 9,928
-tamilmirrorlk | 11,562
+tamilmirrorlk | 11,558
 virakesarilk | 12,506
-adaderanasinhalalk | 13,416
+adaderanasinhalalk | 13,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,518 (98.2%) of 76,920 articles have been extended.
+75,497 (98.2%) of 76,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### Husband Death: Wife and Wrong Decision: 3 Children became orphans
-
-*2025-09-19 12:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கணவன்-மரணம்-மனைவியும்-தவறான-முடிவு-3-குழந்தைகள்-அநாதைகளாகினர்/76-364914) · `ta`
-
-A 32 -year -old mother took the wrong decision and poisoned her three children, police said she was killed.. The incident took place in Ududumbara, Thambagahapitiya, Habudunduwala area.
-
-Her husband (age 34) died about two days ago. He is reported to have died of blood cancer.
-
-At the same time, three male children aged 05, 10 and 12 have been diagnosed with blood cancer.
-
-However, the children are currently receiving treatment at the Ududumbara Regional Hospital and their lives are no danger, police said.
-
-◼️
-
-[Data](articles/b2f0415f.json)
-
-[Extended Data](ext_articles/b2f0415f.ext.json)
-
----
-
-### Government's position on land acquired by the government
-
-*2025-09-19 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214751) · `si`
-
-Minister Bimal Ratnayake said that the lands in the Northern Province who was taken over by the government for security reasons were not released.
-
-He was speaking at the Jaffna District Development Committee meeting held yesterday (18).
-
-The land issues are about. The meeting was a warm face with a conversation between the Minister of MP Sridharan and Bimal Ratnayake.
-
-The Jaffna District Committee Meeting in relation to the Ministry of Transport, Highways, Ports and Civil Aviation, was held in this regard and the MPs of Ilanki Thamil Auice Party MP. Mr. Sridharan had expressed his views to raise several things including the release of land in the North.
-
-◼️
-
-[Data](articles/45ba57d9.json)
-
-[Extended Data](ext_articles/45ba57d9.ext.json)
-
----
-
-### Is the match? Do you have the match? Put the switch?
-
-*2025-09-19 12:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆட்டமா-எனக்கிட்ட-ஆட்டமா-போடவா-சுவிட்சை-போடவா/62-364913) · `ta`
-
-◼️
-
-[Data](articles/ac2b2b50.json)
-
-[Extended Data](ext_articles/ac2b2b50.ext.json)
-
----
-
-### "Be care about currency sheets"
-
-*2025-09-19 12:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாணயத்-தாள்கள்-குறித்து-அவதானதாக-இருக்கவும்/175-364912) · `ta`
-
-Is it fake when buying goods and handling money? Police advise the public to verify and use money for various transactions.
-
-The police advise the Sri Lankan police to use the money only after checking the money and the information about such fake currency notes or handlers.
-
-In the meantime, in Habarana, two fake Rs.. Two more people were arrested on Thursday evening (18) evening.
-
-During further investigations, fake Rs.. Police said that a suspect who printed 5000 currency notes, 138 currency notes and printing equipment were seized.
-
-◼️
-
-[Data](articles/094e447f.json)
-
-[Extended Data](ext_articles/094e447f.ext.json)
-
----
-
-### Several fatal accidents in a day - lose 6 lives
+### දිනක් තුළ මාරක රිය අනතුරු රැසක් - ජීවිත 6ක් අහිමි වෙයි
 
 *2025-09-19 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214750) · `si`
 
-There were 6 lives lost in a few areas in the island yesterday.
+ඊයේ දිනය තුළ දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු මාරක අනතුරුවලින් ජීවිත 6ක් අහිමි වී තිබුණි.
 
-A resident of the Kandalanda area has been identified as a 48 year old resident of the Homagama Police Division.
+හෝමාගම පොලිස් වසමේ හයිලෙවල් මාර්ගයේ, කැන්දලන්ද ප්‍රදේශයේ සිදුවු අනතුරකින් අවුරුදු 48ක හෝමාගම ප්‍රදේශයේ පදිංචිකරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
 
-The accident had occurred when the motorcyclist traveling to Avissawella towards Avissawella.
+කොළඹ සිට අවිස්සාවේල්ල දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරළීගොස් විරුද්ධ දෙසින් පැමිණි බස් රථයක ගැටී මෙම අනතුර සිදුව තිබුණි.
 
-Further, a motorcyclist who has been injured in a cyclist who had traded from the NSB junction of the Mannar Skin Road, a motorbike was injured in a criminal in the Mannar Waratiya.
+තවද, වංකාල පොලිස් වසමේ මන්නාරම වංකාල මාර්ගයේ එන්.එස්.බී හංදිය අසලදී මන්නාරම දෙස සිට වංකාල දෙසට ධාවනය වූ යතුරුපැදියක් එම දිසාවටම ධාවනය වූ පාපැදියක ගැටී සිදුවු අනතුරකින් යතුරුපැදියේ පැදිකරු, පසුපැදිකරු හා පාපැදිකරු තුවාල ලබා තිබූ අතර, රෝහල් ගත කිරීමේ දී 70 හැවිරිදි වංකාල ප්‍රදේශයේ පදිංචි පාපැදිකරු මියගොස් ඇත.
 
-Meanwhile, the accident occurred at Gonagala Junction along the Kosgoda police division of the Kosgoda police division.
-
-The victim was 66 years after being admitted to the Bambalapitiya Hospital for treatment of the motorcyclist and the injuries.
-
-Meanwhile, an accident had occurred last night at the time of the new bus stand at Anuradhapura Main Street at the Anuradhapura Bus Stand at the Anuradhapura Main Street.
-
-The victim was rushed to the Anuradhapura hospital for treatment, and the driver of the car has been arrested.
+මේ අතර, කොස්ගොඩ පොලිස් වසමේ යාල්ගම කායිකාවල මාර්ගයේ ගෝනගපල හන්දියේදී තවත් අනතුරක් සිදුව ඇති අතර,යතුරුපැදියක් අතුරු මාර්ගයකට හැරවීමට යාමේදී එම දිසාවටම ධාවනය වූ ත්‍රීරෝද රථයක ගැටී අනතුර සිදුව තිබුණි.
 
 ...
 
 [Data](articles/dc8c7336.json)
-
-[Extended Data](ext_articles/dc8c7336.ext.json)
 
 ---
 
@@ -251,24 +171,6 @@ Deputy Chief Minister Udayanidhi Stalin paid tribute to Robot Shankar's body. Ma
 [Data](articles/7bbae0dc.json)
 
 [Extended Data](ext_articles/7bbae0dc.ext.json)
-
----
-
-### Dhanush sought to say "I am"
-
-*2025-09-19 11:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கதறி-அழுத-ரோபோ-சங்கரின்-மகளை-நான்-இருக்கேன்மா-எனக்-கூறி-தேற்றிய-தனுஷ்/54-364907) · `ta`
-
-Comedian Robot Shankar, who was hospitalized due to ill health. His demise has caused tragedy among the screenwriters and fans.
-
-Robot Shankar has been unconscious in Vijay TV set up two days ago as he has been suffering from severe health problems for the past few days. He was immediately rushed to the hospital.
-
-On his medical condition, the hospital administration said, “Robot Shankar, Sep.. Came to the hospital on the 16th. He had a bloodbath in the intestine. More serious problems in the abdomen as more internal organs were dysfunctional. In the intensive care unit, our doctors were continuously treated but did not benefit. He died on September 18 at 9.05 pm.
-
-...
-
-[Data](articles/f947c441.json)
-
-[Extended Data](ext_articles/f947c441.ext.json)
 
 ---
 
@@ -746,24 +648,6 @@ His father died due to a sudden illness while playing the match between Sri Lank
 
 ---
 
-### ඇෆ්ගනිස්ථානයේ විශ්වවිද්‍යාලවලින් ලේඛිකාවන් ලියන ලද පොත් ඉවත් කරයි
-
-*2025-09-19 09:46:00* · [`adalk`](https://www.ada.lk/international/ඇෆ්ගනිස්ථානයේ-විශ්වවිද්‍යාලවලින්-ලේඛිකාවන්-ලියන-ලද-පොත්-ඉවත්-කරයි/3-418601) · `si`
-
-ඇෆ්ගනිස්ථානයේ විශ්ව විද්‍යාල ඉගැන්වීම් පද්ධතියෙන් කාන්තාවන් විසින් ලියන ලද පොත් තහනම් කිරීමට ඇෆ්ගනිස්ථානයේ තලේබාන් රජය විසින් තීරණය කර තිබේ. එසේම මානව හිමිකම් සහ ලිංගික හිංසනය පිළිබඳව ඉගැන්වීම ද තහනම් කිරීමට ඔවුන් කටයුතු කර තිබේ.
-
-මෙහිදී විශ්වවිද්‍යාල පද්ධතියෙන් පොත් 680ක් පමණ ඉවත් කිරීමට නියමිතය. ෂරියා විරෝධි හා තලේබාන් සංවිධානයට එරෙහිව ලියන ලද බහුතරයක් පොත් මේ අතර වන බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-විශ්ව විද්‍යාලවලට තවදුරටත් විෂයයන් 18 ක් ඉගැන්වීමට අවසර නොමැති බව දන්වන ලද අතර, තලේබාන් නිලධාරියෙකු පැවසුවේ ඒවා "ෂරියා මූලධර්ම හා පද්ධතියේ ප්‍රතිපත්තියට පටහැනි" බවයි.
-
-මෙම නියෝගය වසර හතරකට පසු බලයට පත්වීමෙන් පසු තලේබාන්වරු ගෙන ආ සීමාවන් මාලාවක නවතම එකයි.
-
-◼️
-
-[Data](articles/aa91ec99.json)
-
----
-
 ### Dunith Wellalage returns to Sri Lanka after father’s passing
 
 *2025-09-19 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112665/dunith-wellalage-returns-to-sri-lanka-after-fathers-passing) · `en`
@@ -974,23 +858,19 @@ The police stated that the police were working closely for the benefit of the fa
 
 ---
 
-### Dambulla to dumili
+### ගෙදර ඉදන් සේවා ලබාගන්නා ක්‍රමයක් දඹුල්ලට
 
 *2025-09-19 08:24:04* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-ඉදන්-සේවා-ලබාගන්නා-ක්‍රමයක්-දඹුල්ලට/11-418600) · `si`
 
-Introduction of digital QR code to conduct a large number of services to the people of the Dambulla Municipal Council.
+දඹුල්ල මහනගර සභා බල ප්‍රදේශයේ ස්ථිර පදිංචි ජනතාවට නිවසේ සිට හෝ ව්‍යාපාරික ස්ථානයේ සිට මහ නගර සභාවෙන් සිදුකර ගත යුතු සේවාවන් රැසක් සිදුකිරීම සඳහා ඩිජිටල් කිව් ආර්  කේතයක් හඳුන්වා දීම 18 දින කෙරිණි
 
-Dambulla Mayor Wasantha K Rajayamye and Members' proposal were introduced. Introduction to the people was implemented on the local government week, and it was demonstrated to recover the new utilization of trade centers and safe locations.
+දඹුල්ල නගරාධිපති වසන්ත කේ රාජමන්ත්‍රී මහතාගේ හා මන්ත්‍රීවරුන්ගේ යෝජනාවක් අනුව නව ක්‍රමවේදය හඳුන්වා දී තිබෙ. මෙය ජනතාවට හඳුන්වාදීම පළාත් පාලන සතිය මුල්කරගෙන ‍ ක්‍රියාත්මක වූ අතර වෙළඳ මධ්‍යස්ථානසහ ආරක්ෂිත ස්ථානවල නව කිව්.ආර්.කේතය ලබාගෙන ජනතාවට බාගත කර ගැනීමට හැකිවන පරිදි ප්‍රදර්ශනය කිරීම සිදුකෙරිණි.
 
-Mayor Vanthakama said that the preparation of its urban clean Sri Lanka program is the main focus of the current savings of the Sri Lankan celebrations and the municipality of the Urban Council.
+නව ඩිජිටල්  කේතය මගින් වරිපනම් ගෙවීම සේවා ස්ථාන ලියාපදිංචි කිරීම සහ නගර සභාවෙන් ජනතාවට ඉටු විය යුතු සේවාවන් රැසක් තම  ජංගම දුරකථනය හරහා ඉටු කර ගැනීමට හැකියාව තිබෙන බව එමගින් තම නාගරික වැසියන් ගේ කාලය ශ්‍රමය ඉතිරිකිරීම සිදුවන බවද වර්තමාන රජයේ ගෙන යන  ක්ලීන් ශ්‍රීලංකා  වැඩසටහනේ  ප්‍රමුඛතම කාරණය වන්නේ ඩිජිටල් කරනය බවත් ඒ සඳහා දඹුල්ල නගර සභාවේ දායකත්වය උපරිම ලබාදීම තම අරමුණ බව නගරාධිපති වසන්තකේ රාජ මන්ත්‍රී මහතා සඳහන් කළේය'
 
-Deputy Mayor's Municipal Commissioner of Dambulla Municipal Council, Dambulla Municipal Council and other employees were also present at the occasion.
-
-◼️
+...
 
 [Data](articles/e6a6d419.json)
-
-[Extended Data](ext_articles/e6a6d419.ext.json)
 
 ---
 
@@ -2011,5 +1891,139 @@ Nuwan Dushara (4), Dushmantha Sameera, Dasun Shanaka and Dunit Vellalake took wi
 [Data](articles/dce45d32.json)
 
 [Extended Data](ext_articles/dce45d32.ext.json)
+
+---
+
+### Asian Bowl Cricket Tournament: Sri Lanka's target of 170 runs
+
+*2025-09-18 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225460) · `ta`
+
+Twenty20 match between Sri Lanka and Afghanistan is currently underway.
+
+◼️
+
+[Data](articles/74bb9db9.json)
+
+[Extended Data](ext_articles/74bb9db9.ext.json)
+
+---
+
+### Sri Lanka a target of 170 runs
+
+*2025-09-18 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214732) · `si`
+
+The Afghanistan scored 169 runs for the loss of 7 wickets in the 20 overs.
+
+Accordingly, the Sri Lankan squad was a 170 run target.
+
+Chances can easily access the Super 4 to Sri Lanka in order to chase this goal.
+
+If the defeat may not be more than 71 runs.
+
+Afghanistan Leader Razed decided to bat first, winning the coin.
+
+However, they were unable to obtain a consolation in the face of the invasive bowling of Nuwan Thushara.
+
+At the time of the Powerplast, 43 runs were able to collect in Afghanistan, and the three store batsmen were infected.
+
+Nuwan Thushara, claimed to be sent to the wicket.
+
+The Afghanistan score board was in operation of the 12th (11.3) in the match, while the match 17 was recorded as 114/6.
+
+However, they only scored 55 runs in their innings and brought their innings to a competitive mark.
+
+Mohammed has scored 60-year-old Mohammed Pubiha scored 60 year old.
+
+The last of the faller borrow, he held five sixes against Velleala's.
+
+...
+
+[Data](articles/e63f3b89.json)
+
+[Extended Data](ext_articles/e63f3b89.ext.json)
+
+---
+
+### Underworld leader Ahungalla Baba's house set on fire
+
+*2025-09-18 21:40:53* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-අහුන්ගල්ලේ-බබාගේ-නිවසට-ගිනි-තියලා/11-418595) · `si`
+
+Ahungalla Baba, who is currently underworld, a member of the Uhungalla Babe, who is currently under-a-storey manner, has been set on fire by a group or a group.
+
+The police say that the fire was damaged by the fire and the fire was not spread to the entire home.. The house was not damaged due to fire, police said.
+
+The police suspect that there were several adversion groups regarding Manuwana murders and drug trafficking, and the police suspect that he could work in this group.
+
+Police say no one has been arrested so far regarding the burning of fire. Ahungalla Police are conducting further investigations.
+
+◼️
+
+[Data](articles/167299cb.json)
+
+[Extended Data](ext_articles/167299cb.ext.json)
+
+---
+
+### Actor Robot Shankar has passed away
+
+*2025-09-18 21:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரோபோ-சங்கர்-காலமானார்/54-364877) · `ta`
+
+Indian media reports that the famous actor Robot Shankar died without treatment.
+
+Robot Shankar (46) participated in a shooting of a shoot yesterday afternoon. Suddenly he was faint.
+
+He was then admitted to a private hospital in Duraipakkam, Chennai.
+
+Robot Shankar came under medical care on the advocate of the doctors who examined Robot Sankar, who had been drowned due to dehydration and low blood pressure.
+
+In this case, actor Robot Shankar, who was treated with the help of a ventilator, died without treatment.
+
+The filmmakers are shocked to learn about his death. Also, they are condolences to his death.
+
+Robot Shankar was admitted to hospital with jaundice a few years ago. It is noteworthy that he died after he was re -starring in films after intensive care. Remble
+
+◼️
+
+[Data](articles/485ee038.json)
+
+[Extended Data](ext_articles/485ee038.ext.json)
+
+---
+
+### Practical modular for Dhamma Education
+
+*2025-09-18 21:31:27* · [`adalk`](https://www.ada.lk/breaking_news/දහම්-අධ්‍යාපනය-සඳහා-ප්‍රායෝගික-මොඩියුලර්/11-418594) · `si`
+
+Attention was to prepare practical modulars for new education reforms and introduce a systematic procedure for the evaluation process and supervise them through the Provincial Education Departments and zonal offices.
+
+The teaching of religion must be made compulsory to minimize 20 times when religion teaches other subjects to teach other subjects in schools.
+
+It was also unable to issue a special tipist treat for the monks of the schools.
+
+Amarapura Maha Nikaya Siri Sumangala Thero and Amarapura Maha Seikaya Amarapura Maha Nikaya, Amarapura Maha Nikaya, Commissioner General of Buddhist Amarami Amararile, and the Advisory Council of the Advisory Council of Eigamma Amararile Thero. M. G. Senaratne, Education Additional Secretary, Commissioner General of Education Publications ,,
+
+◼️
+
+[Data](articles/55ecfd2a.json)
+
+[Extended Data](ext_articles/55ecfd2a.ext.json)
+
+---
+
+### Web range for foreigners involved in theft
+
+*2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
+
+Investigations are underway into two foreigners who stole a sum of Rs.
+
+They have stolen the money in a new way, claiming that the money is turned into more money.
+
+It is reported that the driver of Paravurthi has lodged a complaint at the police station.  R
+
+◼️
+
+[Data](articles/7e95a7de.json)
+
+[Extended Data](ext_articles/7e95a7de.ext.json)
 
 ---

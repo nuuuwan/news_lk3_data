@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 22:54:24**
+As of **2025-09-20 00:11:30**
 
 ## Newspaper Stats
 
-*Scraped **76,998** Articles*
+*Scraped **76,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,489
 adaderanalk | 9,943
-tamilmirrorlk | 11,576
+tamilmirrorlk | 11,577
 virakesarilk | 12,515
 adaderanasinhalalk | 13,439
 
@@ -26,29 +26,45 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,988 (98.7%) of 76,998 articles have been extended.
+76,069 (98.8%) of 76,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### යුද හමුදාවෙන් බහුවිධ වෛද්‍ය සායනයක්
+### Tunit Vellalale to go back to Tubai
+
+*2025-09-19 23:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-டுபாய்-செல்லும்-துனித்-வெல்லாலகே/175-364941) · `ta`
+
+Sri Lanka Cricket has announced that it will travel to Dubai tonight, Dunit Vellalake, who visited the country due to his father's death.
+
+◼️
+
+[Data](articles/a2950214.json)
+
+[Extended Data](ext_articles/a2950214.ext.json)
+
+---
+
+### Multiple medical clinic from the army
 
 *2025-09-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214775) · `si`
 
-යුද හමුදා සාමාජිකයන්ගේ යහපැවැත්ම සහතික කරමින් පවත්වනු ලබන බහුවිධ වෛද්‍ය සායනයන්හි 7වන අදියර අද (19) අම්පාර කොන්ඩුවටුවාන ශ්‍රී ලංකා යුද්ධ හමුදා සටන් පුහුණු පාසලේ දී පැවැත්විණි.
+The 7th phase of the multi-medical clinics of the army personnel was held at the Sri Lanka Army Martial Training School in Ampara today (19).
 
-ඒ සඳහා අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කයන්හි පදිංචි විවිධ හේතුන්මත රණක්‍ෂිතයටපත් රණවිරුවන් හා විශ්‍රාමික මෙන්ම ක්‍රියාන්විත හේතූන් මත මියගිය රණවිරුවන්ගේ ළගම ඥාතීන් ඇතුලුව 1250කට අධික පිරිසක් සහභාගී වී ඇත.
+More than 1250, including the war heroes of the war heroes who died due to war heroes and expedited and active reasons have been attended by the heroes of the Ampara and Batticaloa Districts.
 
-රණවිරු සේවා හා පුනරුත්ථාපන අධ්‍යක්‍ෂ මණ්ඩලයේ අධික්‍ෂණය යටතේ මෙම වෛද්‍ය කඳවුර සංවිධානය කර ඇති අතර යුද හමුදාධිපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතා මෙහි ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගී විය.
+The Camp was organized under the supervision of the Board of Directors of the War Heroes and Rehabilitation Board.
 
-මෙම වෛද්‍ය කඳවුර හරහා වෛද්‍ය ගැටළු හදුනා ගනිමින් හා ඒවාට විසඳුම් ලබාදීම, වෘත්තීය සෞඛ්‍ය උපදේශනය, මානසික සෞඛ්‍ය උපදේශන සේවාව, දන්ත වෛද්‍ය සේවාව, ජංගම වෛද්‍ය රසායානාගාර සේවය, කෘතිම අත් පා සහ ශල්‍ය උපකරණ ලබාදීම සඳහා පරීක්‍ෂණ මෙන්ම ජංගම අක්ෂි සායන, භෞත චිකිත්සක සායන, ඇතුළු තවත් සේවා ලබාදීමට කටයුතු කර තිබේ.
+Steps have been taken to identify and address medical issues through this medical camp, professional health consultation, mental health consultation, dental care and surgical equipment, as well as other mobile contact clinics, artist clinics, or other services.
 
-මෙහිදී රණක්ෂිත රණවිරුවන්හට රෝද පුටු, අත්වාරු, ඇස් කණ්නාඩි හා ශල්‍ය වෛද්‍ය උපකරණ ද පරිත්‍යාග කිරීම සිදු විය.
+The Ranachitha war heroes donated wheelchairs, garbage, spectacles and surgeons.
 
 ...
 
 [Data](articles/31af26e0.json)
+
+[Extended Data](ext_articles/31af26e0.ext.json)
 
 ---
 
@@ -2069,25 +2085,5 @@ It is noteworthy that Tunit Vellalake's father died of a heart attack last night
 [Data](articles/02b10634.json)
 
 [Extended Data](ext_articles/02b10634.ext.json)
-
----
-
-### 736 arrested under special police operation
-
-*2025-09-19 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214745) · `si`
-
-The Sri Lanka Police have arrested 736 persons in connection with criminal and drug prevention operations throughout the country.
-
-These special operations have been implemented covering all local police stations at divisional level.
-
-Police have tested 28,705 persons at the relevant operations.
-
-Meanwhile, 50 drunken drivers and 20 persons have been arrested in connection with driving driving, police said.
-
-◼️
-
-[Data](articles/55e78ed2.json)
-
-[Extended Data](ext_articles/55e78ed2.ext.json)
 
 ---

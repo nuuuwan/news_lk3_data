@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 00:52:59**
+As of **2025-09-20 01:21:20**
 
 ## Newspaper Stats
 
-*Scraped **77,017** Articles*
+*Scraped **77,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,660
 islandlk | 4,726
 dailymirrorlk | 4,733
-dailyftlk | 5,484
+dailyftlk | 5,485
 adalk | 7,489
 adaderanalk | 9,946
 tamilmirrorlk | 11,577
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,099 (98.8%) of 77,017 articles have been extended.
+76,102 (98.8%) of 77,018 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -226,6 +226,24 @@ The event reinforced Megakem’s role as a trusted knowledge-sharing partner in 
 
 ---
 
+### Wordy end of a vociferous parley in Qatar
+
+*2025-09-19 23:31:59* · [`dailyftlk`](https://www.ft.lk/columns/Wordy-end-of-a-vociferous-parley-in-Qatar/4-781938) · `en`
+
+Empty resolutions and threats are not going to save dying Palestinians
+
+“Every people in the world lives in a place. For Palestinians the place lives in them” (Danny Rubinstein – an Israeli writer)
+
+“We were herders of animals until we received the revelation, and then we became herders of other societies. We gave up the revelation and had become herds of other societies” (Allama Iqbal)
+
+The extraordinary Arab-Islamic Summit held in Doha to counter Israel’s bombing of a government residential complex in the Leqtaifiya District of Qatar, where negotiations over a US initiated ceasefire proposal were in progress with representatives from Hamas, ended as usual in chest-thumping threats, condemnations and declarations against Israel, but without any concrete agenda of action to stop the genocide and expulsion of Palestinians from their homes before annexing Gaza and the West Bank to create Eretz Israel.
+
+...
+
+[Data](articles/2c519886.json)
+
+---
+
 ### Tribute to Rajiv Perera on 60th birthday
 
 *2025-09-19 23:29:47* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Rajiv-Perera-on-60th-birthday/4-781937) · `en`
@@ -260,17 +278,19 @@ South Asia is living through an era of popular uprisings that has reshaped the p
 
 ---
 
-### இலங்கையின் மூன்றாவது செயற்கைக்கோள் வெற்றிகரமாக சுற்றுப்பாதையில் நிலைநிறுத்தப்பட்டது
+### Sri Lanka's third satellite was successfully positioned in the orbit
 
 *2025-09-19 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225550) · `ta`
 
-அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சகத்தின் கீழ் உள்ள ஆர்தர் சி. கிளார்க் மேம்பட்ட தொழில்நுட்ப நிறுவனத்தின் கீழ் இலங்கை பொறியியல் தொழில்நுட்பத் துறையால் உருவாக்கப்பட்ட "BIRDS-X DRAGONFLY" செயற்கைக்கோள், வெள்ளிக்கிழமை (19) பிற்பகல் 2.15 மணிக்கு சர்வதேச விண்வெளி நிலையத்திலிருந்து (ISS) வெற்றிகரமாக ஏவப்பட்டது.
+Arthur C under the Ministry of Science and Technology. The "Birds-X Dragonfly" satellite was successfully launched from the International Space Station (ISS) at 2.15 pm on Friday (19) afternoon.
 
-இந்த செயற்கைக்கோள் ஆகஸ்ட் 24 அன்று நாசாவால் ஏவப்பட்ட "SPX33" ராக்கெட்டில் சர்வதேச விண்வெளி நிலையத்திற்கு (ISS) ஏவப்பட்டது. "BIRDS-X DRAGONFLY" விண்கலத்தின் மறு சுற்றுப்பாதை ஆர்தர் சி. கிளார்க் மேம்பட்ட தொழில்நுட்ப நிறுவனத்தில் நேரடியாக ஒளிபரப்பப்பட்டது, மேலும் இந்த நிகழ்வின் முதன்மை விருந்தினராக அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர்   மொஹமட்  நவி கலந்து கொண்டார்.
+The satellite was launched to the International Space Station (ISS) on the "SPX33" rocket launched by NASA on August 24. "Birds-X Dragonfly" spacecraft re-orbit Arthur C. Clark was broadcast live at Advanced Technology Institute, and Secretary to the Ministry of Science and Technology Mohamed Navi was the chief guest of the event.
 
 ...
 
 [Data](articles/6fbee0bc.json)
+
+[Extended Data](ext_articles/6fbee0bc.ext.json)
 
 ---
 
@@ -287,6 +307,8 @@ China’s entry could change that. With its huge economy, global influence, and 
 ...
 
 [Data](articles/7fec49cc.json)
+
+[Extended Data](ext_articles/7fec49cc.ext.json)
 
 ---
 
@@ -315,6 +337,8 @@ The Government has now revealed that between 2017 and mid-2025, Rs. 491.2 millio
 ...
 
 [Data](articles/c7abea2e.json)
+
+[Extended Data](ext_articles/c7abea2e.ext.json)
 
 ---
 
@@ -475,6 +499,12 @@ It is noteworthy that the youngest player, Tunit Vellalake, is the father of Mun
 Sri Lanka Cricket (SLC) announced that all-rounder Dunith Wellalage will rejoin the squad in the United Arab Emirates (UAE) tomorrow (20), after attending the funeral of his late father.
 
 Wellalage will be available for selection as Sri Lanka prepare to face Bangladesh in the  Super Four opener of the Asia Cup 2025, the SLC said.
+
+Suranga Wellalage, father of Dunith Wellalage, who is a former cricketer himself, passed away last night (18) at the age of 54, reportedly due to a sudden heart attack.
+
+His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
+
+Wellalage returned to the island this morning (19) following the sudden passing of his father, where he joined his grieving family.
 
 ◼️
 
@@ -2041,25 +2071,5 @@ He added that the objective of this reorganization is to establish youth, women 
 [Data](articles/f31d58ff.json)
 
 [Extended Data](ext_articles/f31d58ff.ext.json)
-
----
-
-### Arrest of PC smuggled cannabis
-
-*2025-09-19 12:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஞ்சா-கடத்திய-பிசி-கைது/76-364911) · `ta`
-
-The Balangoda police said that a police constable has been arrested at Samanala Vivewa Police Station for carrying cannabis on a motorcycle.
-
-A group of police officers of the Balangoda police were engaged in patrols at night, and when a suspicious motorcycle was checked, it was found to have 765 grams of cannabis.
-
-Police are investigating whether the suspect was involved in cannabis.
-
-The motorcycle used to carry the suspect cannabis has also been confiscated by the police. The office said that the suspect had been suspended on the orders of the Assistant Superintendent of Police of the Balangoda Police Station. The suspect was to be produced in court.
-
-◼️
-
-[Data](articles/31e3b2a3.json)
-
-[Extended Data](ext_articles/31e3b2a3.ext.json)
 
 ---

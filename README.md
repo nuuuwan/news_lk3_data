@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 17:05:55**
+As of **2025-09-19 16:54:16**
 
 ## Newspaper Stats
 
-*Scraped **76,957** Articles*
+*Scraped **76,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,17 @@ adalk | 7,485
 adaderanalk | 9,935
 tamilmirrorlk | 11,572
 virakesarilk | 12,509
-adaderanasinhalalk | 13,427
+adaderanasinhalalk | 13,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,739 (98.4%) of 76,957 articles have been extended.
+75,723 (98.4%) of 76,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### සාමාන්‍ය පෙළ විභාගයට  අයදුම්පත් කැඳවීම සැප්තැම්බර් 18 සිට
-
-*2025-09-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214763) · `si`
-
-2025(2026) අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය සඳහා අයදුම්පත් කැඳවීම 2025 සැප්තැම්බර් 18 දින සිට ඔක්තෝම්බර් 09 දින දක්වා මාර්ගගත ක්‍රමය මඟින් සිදු කරන බව අධ්‍යාපන අමාත්‍යංශය විශේෂ නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-ඒ අනුව සියලුම පාසල් අයදුම්කරුවන් තම පාසලේ විදුහල්පති මගින් ද, පෞද්ගලික අයදුම්කරුවන් පෞද්ගලිකව ද, අදාළ උපදෙස් අනුව මාර්ගගතව අයදුම්පත්‍ර ඉදිරිපත් කළ යුතුය.
-
-පෞද්ගලික අයදුම්කරුවන් අ.පො.ස.(සා.පෙළ) විභාගය සඳහා අයදුම් කිරීමේදී ජාතික හැදුනුම්පත භාවිත කළ යුතුය.
-
-එමෙන්ම ජාතික හැදුනුම්පත නොමැති පෞද්ගලික අයදුම්කරුවන් තම භාරකරුගේ (මව හෝ පියා) ජාතික හැදුනුම්පත භාවිත කර ලියාපදිංචි වී අයදුම්පත් ඉදිරිපත් කළ යුතු වේ.
-
-ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය වන www.doenets.lk හෝ www.onlineexams.gov.lk/eic වෙත පිවිස අදාළ උපදෙස් කියවා ඒ අනුව නිවැරදිව අයදුම්පත් ඉදිරිපත් කළ යුතු බව එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
-
-◼️
-
-[Data](articles/01b44651.json)
-
----
 
 ### Dane Priyasad massacre: gunman arrested
 
@@ -2049,5 +2029,27 @@ The public requests the public to take necessary steps to reduce the damages cau
 [Data](articles/c7bbad95.json)
 
 [Extended Data](ext_articles/c7bbad95.ext.json)
+
+---
+
+### The year that was: thrashing  towards NPP’s thriving nation
+
+*2025-09-19 06:29:59* · [`dailyftlk`](https://www.ft.lk/columns/The-year-that-was-thrashing-towards-NPP-s-thriving-nation/4-781895) · `en`
+
+That the NPP-dominated House is starting to walk the talk on promises that its leader made on his remarkable campaign trail must redound to the credit of every one of those 159 National People’s Power MPs
+
+As the first year of a House commandeered by the NPP has come round, it is timely, appropriate and opportune to examine the track record of a tyro government in the 365 days just past.
+
+It is timely because the traditional honeymoon period, in which a people content from only recently casting the ballot cut a newbie administration a gracious slice of charitable slack, is now over.
+
+And there is no more appropriate a motive than keeping the NPP, led by the JVP, those vociferous critics of past regimes, accountable in just and similar vein.
+
+Also opportune because the National People’s Power produced a fait accompli to coincide with its first anniversary in parliament and in power to justify its erstwhile campaign trail promises.
+
+...
+
+[Data](articles/e4a546cf.json)
+
+[Extended Data](ext_articles/e4a546cf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 20:08:54**
+As of **2025-09-19 20:55:48**
 
 ## Newspaper Stats
 
-*Scraped **76,987** Articles*
+*Scraped **76,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,81 @@ dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,488
 adaderanalk | 9,940
-tamilmirrorlk | 11,575
+tamilmirrorlk | 11,576
 virakesarilk | 12,513
-adaderanasinhalalk | 13,435
+adaderanasinhalalk | 13,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,892 (98.6%) of 76,987 articles have been extended.
+75,915 (98.6%) of 76,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### මෙරට ඉංජිනේරු දැනුමින් නිපදවූ  තෙවැනි නැනෝ චන්ද්‍රිකාවත් කක්ෂගත කෙරේ
+### மித்தேனிய இரசாயன மாதிரிகளின் அறிக்கை வெளியானது
 
-*2025-09-19 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214771) · `si`
+*2025-09-19 20:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தேனிய-இரசாயன-மாதிரிகளின்-அறிக்கை-வெளியானது/175-364927) · `ta`
 
-ශ්‍රී ලාංකික ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නිර්මාණය වූ තුන්වැනි නැනෝ චන්ද්‍රිකාව අද(19) පස්වරු 2.20ට කක්ෂගත කෙරිණි.
+மித்தேனிய பகுதியில் சமீபத்தில் கண்டுபிடிக்கப்பட்ட இரசாயன மாதிரிகள் தொடர்பான அரச பகுப்பாய்வாளரின் அறிக்கை வெளியாகி உள்ளது.
 
-මොරටුව ආතර් සී. ක්ලාක් ආයතනය ප්‍රකාශ කළේ, ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙස නම් කර ඇති මෙම පර්යේෂණ චන්ද්‍රිකාව මගින් මූලික වශයෙන් අභ්‍යවකාශ පර්යේෂණ මෙහෙයුම් තුනක් සිදුකිරීමට නියමිත බවය.
+இந்த அறிக்கையின்படி, அவை ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனங்கள் என உறுதிப்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-මෙම ව්‍යාපෘතිය සඳහා ශ්‍රී ලංකාව කිසිදු ප්‍රාග්ධන පිරිවැයක් නොදැරීම විශේෂත්වයකි.
+செப்டம்பர் 6 ஆம் திகதி, கெஹெல்பத்தர பத்மே மற்றும் குடு நிலங்க ஆகியவர்கள் இந்நாட்டில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாகக் கூறப்படும் சுமார் 50,000 கிலோகிராம் இரசாயனங்களை மித்தேனிய பகுதியிலிருந்து மேற்கு வடக்கு குற்றப்பிரிவு மீட்டது.
 
-2019 සිට මෙරට ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නැනෝ චන්ද්‍රිකා තුනක් නිර්මාණය වී ඇති අතර තෙවැනි නැනෝ චන්ද්‍රිකාව නම් කෙරුණේ ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙසය.
+இந்தோனேசியாவில் கைது செய்யப்பட்ட பெகோ சமனிடம் மேற்கு வடக்கு குற்றப்பிரிவு நடத்திய விசாரணையில் கிடைத்த தகவல்களின் அடிப்படையில் இந்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டது.
 
-එම චන්ද්‍රිකාව පසුගිය අගෝස්තු 24 වැනිදා නාසා ආයතනය විසින් දියත් කරනු ලැබූ ස්පේස් එක්ස් - 33 රොකට් මෙහෙයුම මගින් ජාත්‍යන්තර අභ්‍යවකාශ ආයතනය වෙත රැගෙන ගියේය.
+பின்னர், குறித்த இரசாயன மாதிரிகள் தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டு சபை மற்றும் அரச பகுப்பாய்வாளர் திணைக்களத்திற்கு ஆய்வுக்காக அனுப்பப்பட்டன.
 
-ජපන් අභ්‍යවකාශ පර්යේෂණ ආයතනය හා ඩිජිටල් රේඩියෝ සන්නිවේදන ආයතනය යන ජාත්‍යන්තර ආයතන කිහිපයක සහයෝගීතාවය සහිතව, ආතර් සී ක්ලාක් මධ්‍යස්ථානය සහ ජපානයේ කියුෂූ තාක්ෂණ ආයතනය මගින් මෙම ව්‍යාපෘතිය දියත් කෙරිණි.
+தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டு சபையின் அறிக்கையில், 20 மாதிரிகளில் 17 மாதிரிகளில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனங்கள் இருப்பது உறுதிப்படுத்தப்பட்டது.
 
 ...
 
+[Data](articles/07c51fde.json)
+
+---
+
+### Drunk to join the Sri Lankan team to leave the island tonight
+
+*2025-09-19 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214772) · `si`
+
+The Sri Lankan cricket official confirmed that Duti Wellalage was to join the Sri Lankan team to join the Sri Lankan team to join the Sri Lankan team to join the Sri Lankan team to join the Sri Lankan team for his father.
+
+◼️
+
+[Data](articles/96c0fbb7.json)
+
+[Extended Data](ext_articles/96c0fbb7.ext.json)
+
+---
+
+### The third Nano, who produced in Sri Lankan engineering, orbitals to the third nano
+
+*2025-09-19 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214771) · `si`
+
+The Third Nano, the technical contributor to the technical contributor to the technical contributor, was orbit to today.
+
+Moratuwa Arthur C. Clarke stated that this research satellite is to be carried out primarily by the Satellite, designated as 'Birds - X Dragonflei'.
+
+Sri Lanka has no capital costs for this project.
+
+From the 2019 Engineers of the country, three nano satellites were created by the third Nano Satend, "Beers - X Dragonfly."
+
+The satellite was taken to the International Space Corporation by NASA on August 24.
+
+The project was launched by the Japanese Space Research Institute and the Digital Radio Communication Institute.
+
+Today, Birds - X Dragonflee will mark another unique victory on the Space Technology Development Travel in Sri Lanka.
+
+In 2019, Rawana - 1 was created as the first nano-1 satellite in Sri Lanka, while the second Nano Satellite is the "Close" SATHI of a Technical Cooperation Project at a five-five international parties.
+
+◼️
+
 [Data](articles/38f7f374.json)
+
+[Extended Data](ext_articles/38f7f374.ext.json)
 
 ---
 
@@ -2033,55 +2075,5 @@ Realizing the situation, the Ministry of Health, a strategic act to resolve it, 
 [Data](articles/570f2819.json)
 
 [Extended Data](ext_articles/570f2819.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-19 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-241198/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.10/18 to the US dollar on Friday, weaker from 302.05/18 the previous day, while bond yields opened steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.03.2028 was quoted at 8.90/9.00 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.42/47 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.52/54 percent, down from 9.51/54 percent.
-
-A bond maturing on 15.05.2030 was quoted at 9.65/69 percent.
-
-A bond maturing on 01.07.2030 was quoted flat at 9.70/74 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/05 percent, from 9.98/10.05 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.39/44 percent.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.1323 buying, and 414.4941 selling, and the euro was 349.2170 buying, 360.5802 selling.
-
-...
-
-[Data](articles/b933eb85.json)
-
-[Extended Data](ext_articles/b933eb85.ext.json)
-
----
-
-### Tunit Vellalake visits the country to attend the funeral of the father!
-
-*2025-09-19 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225471) · `ta`
-
-Sri Lankan cricketer Dunit Wellalake has visited the country this morning to attend his father's funeral.
-
-It is reported that Dunit Wellalake arrived at the Katunayake airport from Abu Dhabi on the Etihad Airways EY-392 at 08.25 am.
-
-◼️
-
-[Data](articles/66e11abf.json)
-
-[Extended Data](ext_articles/66e11abf.ext.json)
 
 ---

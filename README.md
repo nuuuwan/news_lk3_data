@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 12:13:14**
+As of **2025-09-19 12:55:46**
 
 ## Newspaper Stats
 
-*Scraped **76,906** Articles*
+*Scraped **76,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,97 @@ economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,477
+adalk | 7,478
 adaderanalk | 9,928
-tamilmirrorlk | 11,557
-virakesarilk | 12,502
-adaderanasinhalalk | 13,413
+tamilmirrorlk | 11,558
+virakesarilk | 12,506
+adaderanasinhalalk | 13,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,459 (98.1%) of 76,906 articles have been extended.
+75,497 (98.2%) of 76,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### ஞாயிறு முதல் தீர்க்கமான தருணம்: CEB எச்சரிக்கை
+### දිනක් තුළ මාරක රිය අනතුරු රැසක් - ජීවිත 6ක් අහිමි වෙයි
+
+*2025-09-19 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214750) · `si`
+
+ඊයේ දිනය තුළ දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු මාරක අනතුරුවලින් ජීවිත 6ක් අහිමි වී තිබුණි.
+
+හෝමාගම පොලිස් වසමේ හයිලෙවල් මාර්ගයේ, කැන්දලන්ද ප්‍රදේශයේ සිදුවු අනතුරකින් අවුරුදු 48ක හෝමාගම ප්‍රදේශයේ පදිංචිකරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+කොළඹ සිට අවිස්සාවේල්ල දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරළීගොස් විරුද්ධ දෙසින් පැමිණි බස් රථයක ගැටී මෙම අනතුර සිදුව තිබුණි.
+
+තවද, වංකාල පොලිස් වසමේ මන්නාරම වංකාල මාර්ගයේ එන්.එස්.බී හංදිය අසලදී මන්නාරම දෙස සිට වංකාල දෙසට ධාවනය වූ යතුරුපැදියක් එම දිසාවටම ධාවනය වූ පාපැදියක ගැටී සිදුවු අනතුරකින් යතුරුපැදියේ පැදිකරු, පසුපැදිකරු හා පාපැදිකරු තුවාල ලබා තිබූ අතර, රෝහල් ගත කිරීමේ දී 70 හැවිරිදි වංකාල ප්‍රදේශයේ පදිංචි පාපැදිකරු මියගොස් ඇත.
+
+මේ අතර, කොස්ගොඩ පොලිස් වසමේ යාල්ගම කායිකාවල මාර්ගයේ ගෝනගපල හන්දියේදී තවත් අනතුරක් සිදුව ඇති අතර,යතුරුපැදියක් අතුරු මාර්ගයකට හැරවීමට යාමේදී එම දිසාවටම ධාවනය වූ ත්‍රීරෝද රථයක ගැටී අනතුර සිදුව තිබුණි.
+
+...
+
+[Data](articles/dc8c7336.json)
+
+---
+
+### SLFP new journey closed in Badulla
+
+*2025-09-19 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214749) · `si`
+
+The SLFP's reorganization has been launched today (19th).
+
+The construction was commenced under the patronage of the Badulla District Leader, Member of Parliament, Chamara Sampath Dasanayake.
+
+He added that the objective of this reorganization is to establish youth, women and bhikkhu organizations.
+
+◼️
+
+[Data](articles/f31d58ff.json)
+
+[Extended Data](ext_articles/f31d58ff.ext.json)
+
+---
+
+### Arrest of PC smuggled cannabis
+
+*2025-09-19 12:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஞ்சா-கடத்திய-பிசி-கைது/76-364911) · `ta`
+
+The Balangoda police said that a police constable has been arrested at Samanala Vivewa Police Station for carrying cannabis on a motorcycle.
+
+A group of police officers of the Balangoda police were engaged in patrols at night, and when a suspicious motorcycle was checked, it was found to have 765 grams of cannabis.
+
+Police are investigating whether the suspect was involved in cannabis.
+
+The motorcycle used to carry the suspect cannabis has also been confiscated by the police. The office said that the suspect had been suspended on the orders of the Assistant Superintendent of Police of the Balangoda Police Station. The suspect was to be produced in court.
+
+◼️
+
+[Data](articles/31e3b2a3.json)
+
+[Extended Data](ext_articles/31e3b2a3.ext.json)
+
+---
+
+### The decisive moment from Sunday: CEB Warning
 
 *2025-09-19 11:39:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞாயிறு-முதல்-தீர்க்கமான-தருணம்-CEB-எச்சரிக்கை/175-364909) · `ta`
 
-இலங்கை மின்சார சபையின் (CEB) தொழிற்சங்கங்கள் ஞாயிற்றுக்கிழமை (21) நள்ளிரவில் தங்கள் தற்போதைய தொழிற்சங்க நடவடிக்கையின் மூன்றாவது கட்டத்தை தொடங்கும் என்று இலங்கை மின்சார சபையின் தொழில்நுட்ப வல்லுநர்கள் சங்கத் தலைவர் கோசல அபேசிங்க  தெரிவித்தார்.
+The Ceylon Electricity Board (CEB) trade unions will begin the third phase of their current trade union action at midnight on Sunday (21), said Kosala Abeysinghe, president of the Ceylon Electricity Board.
 
-இந்த கட்டம் 24 ஆம் திகதி வரை தொடரும் என்றும், அதன் பிறகு மேலும் நடவடிக்கை குறித்து முடிவு செய்யப்படும் என்றும் அவர் கூறினார். “இந்த அரசாங்கத்தை கேட்குமாறு நாங்கள் எச்சரித்துள்ளோம்.
+இந்த கட்டம் 24 ஆம் திகதி வரை தொடரும் என்றும், அதன் பிறகு மேலும் நடவடிக்கை குறித்து முடிவு செய்யப்படும் என்றும் அவர் கூறினார். “We have warned to ask for this government.
 
-செப்டம்பர் 4 ஆம் திகதி ஆட்சிக்கு ஏற்ப வேலை செய்யும் பிரச்சாரத்துடன் தொடங்கிய தொழிற்சங்க நடவடிக்கை, அதன் முதல் கட்டம் திங்கள் (15) நள்ளிரவில் நிறைவடைந்தது. இரண்டாம் கட்டமாக ஊழியர்கள் 17 மற்றும் 18 ஆம் திகதிகளில் சுகயீன விடுமுறை எடுத்தனர்.
+The trade union action, which began with the work campaign on September 4, ended Monday (15) midnight. In the second phase, the staff took a healthy holiday on the 17th and 18th.
 
-வரவிருக்கும் மூன்றாம் கட்டம் எரிசக்தி துறையின் எதிர்காலத்திற்கு ஒரு தீர்க்கமான தருணமாக இருக்கும் என்று அபேசிங்க வலியுறுத்தினார்.
+Abeysinghe stressed that the upcoming third phase would be a decisive moment for the future of the energy sector.
 
 ◼️
 
 [Data](articles/9ecf6abe.json)
+
+[Extended Data](ext_articles/9ecf6abe.ext.json)
 
 ---
 
@@ -114,6 +174,24 @@ Deputy Chief Minister Udayanidhi Stalin paid tribute to Robot Shankar's body. Ma
 
 ---
 
+### Landslides warning for five districts!
+
+*2025-09-19 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225487) · `ta`
+
+The Disaster Management Center said that five districts in the country have been issued a landslide warning following rainfall over 75 millimeters in the past 24 hours.
+
+Accordingly, the first landslide hazard warning has been issued to the Kothmalai and Ratnapura Divisional Secretariat in the Kalutara District and the surrounding areas of the Kalutara district, Kotmale and Ratnapura Divisional Secretariat and the surrounding areas of the Kalutara district.
+
+Therefore, the Disaster Management Center has requested the public to be cautious in the area.
+
+◼️
+
+[Data](articles/11eb4635.json)
+
+[Extended Data](ext_articles/11eb4635.ext.json)
+
+---
+
 ### Ella Accident: No registration facilities on jeep safety camera
 
 *2025-09-19 11:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/எல்ல-விபத்து-ஜீப்பின்-பாதுகாப்பு-கெமராவில்-பதிவு-வசதிகள்-இல்லை/76-364906) · `ta`
@@ -178,6 +256,8 @@ Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on cha
 
 [Data](articles/0cdb221b.json)
 
+[Extended Data](ext_articles/0cdb221b.ext.json)
+
 ---
 
 ### Over 700 individuals arrested during special island-wide police raids
@@ -195,6 +275,28 @@ In addition, 50 motorists were arrested for drunk driving, while 20 others were 
 ◼️
 
 [Data](articles/0b89af17.json)
+
+[Extended Data](ext_articles/0b89af17.ext.json)
+
+---
+
+### Ali Roshan sentenced 15 years in prison
+
+*2025-09-19 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225486) · `ta`
+
+The Colombo High Court on Friday (19) has sentenced Niraj Roshan, known as Samarapalike Ali Roshan, who is proven to be the accused of allegedly holding an elephant without permission, has been sentenced to 15 years in prison.
+
+In addition to the imprisonment, Ali Roshan has been fined Rs 2.06 million.
+
+After a long hearing, Judges Manjula Tilakaratne, RSS. The order was issued by a High Court session comprising Sabwitha and Lanka Jayaratne.
+
+The panel of judges further ordered the release of the other three defendants who were accused in connection with the case.
+
+◼️
+
+[Data](articles/f337ffb1.json)
+
+[Extended Data](ext_articles/f337ffb1.ext.json)
 
 ---
 
@@ -247,6 +349,8 @@ Kalutara: Ingiriya and Horana Divisional Secretariat DSD and surrounding areas.
 ◼️
 
 [Data](articles/ef333c4a.json)
+
+[Extended Data](ext_articles/ef333c4a.ext.json)
 
 ---
 
@@ -304,17 +408,19 @@ Meanwhile, 50 drunken drivers and 20 persons have been arrested in connection wi
 
 ---
 
-### அலி ரொஷனுக்கு 15 ஆண்டுகள் சிறை
+### Ali Roshan 15 years in prison
 
 *2025-09-19 10:49:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-ரொஷனுக்கு-15-ஆண்டுகள்-சிறை/175-364902) · `ta`
 
-உரிமம் இல்லாமல் யானை வைத்திருந்தமை உள்ளிட்ட இரண்டு குற்றச்சாட்டுகளின் கீழ் குற்றவாளி என அறிவிக்கப்பட்ட அலி ரொஷன்   என்று அழைக்கப்படும் நிராஜ் ரொஷானுக்கு 15 ஆண்டுகள் கடூழியச் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+Niraj Roshan, also known as Ali Roshan, has been sentenced to 15 years in prison for allegedly accused of allegations of elephant without a license.
 
-கொழும்பு உயர் நீதிமன்றத்தின் மூன்று நீதியரசர்கள் கொண்ட அமர்வு இந்த தண்டனையை இன்று (19) அறிவித்துள்ளது.
+The sentence of three judges of the Colombo High Court today announced the sentence.
 
 ◼️
 
 [Data](articles/135c3558.json)
+
+[Extended Data](ext_articles/135c3558.ext.json)
 
 ---
 
@@ -427,6 +533,48 @@ Abdul Muhari, a spokesman for the national disaster mitigation agency, said the 
 [Data](articles/874e7e01.json)
 
 [Extended Data](ext_articles/874e7e01.ext.json)
+
+---
+
+### 2026 budget proposal will lay the foundation for the development of the country - Anil Jayantha Fernando
+
+*2025-09-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225480) · `ta`
+
+Deputy Minister of Labor and Economic Development Anil Jayantha Fernando said the budget proposal for the upcoming 2026 will be the foundation for the development of the country.
+
+He emphasized that the government wants to use the available financial resources for projects aimed at attracting investment and improving the infrastructure.
+
+Anil Jayantha Fernando said this while commenting on the 2026 budget proposal.
+
+◼️
+
+[Data](articles/c2589d84.json)
+
+[Extended Data](ext_articles/c2589d84.ext.json)
+
+---
+
+### Cardiac - Services of the Blood Tuberculosis Laboratory begin in Vavuniya!
+
+*2025-09-19 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225474) · `ta`
+
+The Card and Blood Tuberculosis Laboratory at the Vavuniya District General Hospital has been in operation from today.
+
+The heart and blood vessel laboratory, which has been closed for more than a year at the Vavuniya General Hospital, has launched its operation today.
+
+Due to the shortage of human resources, the heart and blood vessel laboratory was built with the financial support of the Netherlands.
+
+At this juncture, the laboratory opened by former President Ranil Wickremesinghe last year did not work with doctors and various shortcomings.
+
+As a result, the people of Vavuniya and its adjoining areas had to go to the Jaffna Teaching Hospital.
+
+Realizing the situation, the Ministry of Health, a strategic act to resolve it, was trained abroad and returned to the country.. After appointing Vaikunthan to the Vavuniya District General Hospital, he was in full swing to launch a heart and blood vessel laboratory.
+
+...
+
+[Data](articles/570f2819.json)
+
+[Extended Data](ext_articles/570f2819.ext.json)
 
 ---
 
@@ -707,6 +855,22 @@ The police stated that the police were working closely for the benefit of the fa
 [Data](articles/54f99ceb.json)
 
 [Extended Data](ext_articles/54f99ceb.ext.json)
+
+---
+
+### ගෙදර ඉදන් සේවා ලබාගන්නා ක්‍රමයක් දඹුල්ලට
+
+*2025-09-19 08:24:04* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-ඉදන්-සේවා-ලබාගන්නා-ක්‍රමයක්-දඹුල්ලට/11-418600) · `si`
+
+දඹුල්ල මහනගර සභා බල ප්‍රදේශයේ ස්ථිර පදිංචි ජනතාවට නිවසේ සිට හෝ ව්‍යාපාරික ස්ථානයේ සිට මහ නගර සභාවෙන් සිදුකර ගත යුතු සේවාවන් රැසක් සිදුකිරීම සඳහා ඩිජිටල් කිව් ආර්  කේතයක් හඳුන්වා දීම 18 දින කෙරිණි
+
+දඹුල්ල නගරාධිපති වසන්ත කේ රාජමන්ත්‍රී මහතාගේ හා මන්ත්‍රීවරුන්ගේ යෝජනාවක් අනුව නව ක්‍රමවේදය හඳුන්වා දී තිබෙ. මෙය ජනතාවට හඳුන්වාදීම පළාත් පාලන සතිය මුල්කරගෙන ‍ ක්‍රියාත්මක වූ අතර වෙළඳ මධ්‍යස්ථානසහ ආරක්ෂිත ස්ථානවල නව කිව්.ආර්.කේතය ලබාගෙන ජනතාවට බාගත කර ගැනීමට හැකිවන පරිදි ප්‍රදර්ශනය කිරීම සිදුකෙරිණි.
+
+නව ඩිජිටල්  කේතය මගින් වරිපනම් ගෙවීම සේවා ස්ථාන ලියාපදිංචි කිරීම සහ නගර සභාවෙන් ජනතාවට ඉටු විය යුතු සේවාවන් රැසක් තම  ජංගම දුරකථනය හරහා ඉටු කර ගැනීමට හැකියාව තිබෙන බව එමගින් තම නාගරික වැසියන් ගේ කාලය ශ්‍රමය ඉතිරිකිරීම සිදුවන බවද වර්තමාන රජයේ ගෙන යන  ක්ලීන් ශ්‍රීලංකා  වැඩසටහනේ  ප්‍රමුඛතම කාරණය වන්නේ ඩිජිටල් කරනය බවත් ඒ සඳහා දඹුල්ල නගර සභාවේ දායකත්වය උපරිම ලබාදීම තම අරමුණ බව නගරාධිපති වසන්තකේ රාජ මන්ත්‍රී මහතා සඳහන් කළේය'
+
+...
+
+[Data](articles/e6a6d419.json)
 
 ---
 
@@ -1430,7 +1594,7 @@ World Safety Day was declared by the World Health Organization in 2019 to safely
 
 ---
 
-### France’s AFD keen on pump storage plants as Sri Lanka eyes funding
+### AFD of France keen on pump storage plants as Sri Lanka eyes funding
 
 *2025-09-19 05:00:00* · [`economynextcom`](https://economynext.com/frances-afd-keen-on-pump-storage-plants-as-sri-lanka-eyes-funding-241122/) · `en`
 
@@ -1442,7 +1606,7 @@ ECONOMYNEXT – The French development agency is keen to support pump storage pl
 
 “We’ve approved the financing last year for a pump storage project in Vietnam. And AFD was leading a pool of financiers and leading a Team Europe approach for this project.”
 
-The AFD, currently has an active portfolio of around 50 billion euros of which around a third has been committed to the Indo-Pacific area, Executive Director of AFD operations Philippe Orliange said.
+The German Reconstruction Bank (KfW), the Japan International Cooperation Agency (JICA), the European Investment Bank (EIB) had joined AFD in co-financing the Vietnam project.
 
 ...
 
@@ -1627,20 +1791,6 @@ If Afghanistan wins the tournament, they will qualify for the Super 4 round with
 [Data](articles/0d86a562.json)
 
 [Extended Data](ext_articles/0d86a562.ext.json)
-
----
-
-### ரணில் விக்கிரமசிங்கவை இலக்குவைக்க தேசிய மக்கள் சக்தி அரசாங்கம் சட்டத்தை ஆயுதமாகப் பயன்படுத்துகிறதா?
-
-*2025-09-18 23:10:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86430) · `en`
-
-ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்கிரமசிங்க ஐந்து தசாப்தங்களுக்கும் அதிகமான காலமாக அரசியலில் இருக்கிறார். பாராளுமன்ற உறுப்பினராக, பிரதி அமைச்சராக, கபினெட் அமைச்சராக, எதிர்க்கட்சி தலைவராக, பிரதமராக, ஜனாதிபதியாக பதவிகளை வகித்த விக்கிரமசிங்க அரசியலில் ‘ பயனிழந்துபோன ஒரு சக்தி ‘ என்று அடிக்கடி வர்ணிக்கப்பட்டு வந்திருக்கிறார். உறுதிவாய்ந்த ரணில்  அரசியல் களத்தில் வலிமையுடன் திரும்பவும்   குதித்து எப்போதுமே தனது எதிரிகளை தவறு என்று நிரூபித்து வந்திருக்கிறார். அண்மைய நிகழ்வுகள் மன எழுச்சிமிக்க ரணில் தன்னை  எளிதில்  தள்ளுபடி செய்துவிடக்கூடிய ஒரு ஆள் அல்ல என்று மீண்டும் நிரூபிக்கக்கூடும் என்பதற்கான அறிகுறியாக தோன்றுகின்றன.
-
-...
-
-[Data](articles/90a98d78.json)
-
-[Extended Data](ext_articles/90a98d78.ext.json)
 
 ---
 
@@ -1875,151 +2025,5 @@ It is reported that the driver of Paravurthi has lodged a complaint at the polic
 [Data](articles/7e95a7de.json)
 
 [Extended Data](ext_articles/7e95a7de.ext.json)
-
----
-
-### The party has no problem with my assets
-
-*2025-09-18 21:25:58* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-වත්කම්-ගැන-පක්ෂය‌ට-ගැටලුවක්-නෑ/11-418593) · `si`
-
-Minister of Trade, Commercial and Consumer Affairs Wasantha Samarasinghe said that these assets were presented in previous elections but also in previous elections.
-
-The Minister was speaking at a visit to the Neilbawa area in Anuradhapura yesterday (18).
-
-The Minister said that this is a problem with his party or members of their own economy, the party said that the public money was reserved in recent years.
-
-Speaking on the protest of the CEB, the Minister said that there was no problem with the trade unions.
-
-The government has decided to import rice to import the rice of Rs. The Minister said.
-
-◼️
-
-[Data](articles/24deb51c.json)
-
-[Extended Data](ext_articles/24deb51c.ext.json)
-
----
-
-### Two series of cigarettes with a suspect banned
-
-*2025-09-18 21:10:32* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙක්-සමග-දුම්වැටි-හුවමාරුවක්-කළ-සැරයන්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-418592) · `si`
-
-The Matara Superintendent of Police (SSP) said that two sergeants launched a cigarette and obtaining a cigarette in the Thihagoda Police Station.
-
-According to a tip off received by senior police Chief Minister Jayamina Wasantha Kumara, Matara ASP Chandana Wijesekara has inspected CCTV cameras near the police station.
-
-A suspect has been arrested and arrested for suspicion of suspicion of injury and had been arrested in connection with a suspect in the cell.
-
-Accordingly, the sergeant has been given the two cigarettes to the suspect, which would have been recorded in CCTV scenes.
-
-The official in charge of the task was suspended under the charge of performing duties.
-
-They have been accused of obeying the prestigious behavior, commander, and the accusations of corruption.
-
-Both banned sergeants were aged 58 and 59 years old, and another 60 months, and the other sergeant remained nearly a year.
-
-...
-
-[Data](articles/7eff149b.json)
-
-[Extended Data](ext_articles/7eff149b.ext.json)
-
----
-
-### Chinese Bija's body recovery from an apartment
-
-*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜை-சடலமாக-மீட்பு/175-364875) · `ta`
-
-The Dehiwala police have recovered the body of a Chinese national who has been suspected of falling from an apartment in Dehiwala.
-
-Police said the body was found following information behind a house on Alvis Road.
-
-It has been revealed that many Chinese nationals working in the private sector live in an apartment complex.
-
-◼️
-
-[Data](articles/913b8c89.json)
-
-[Extended Data](ext_articles/913b8c89.ext.json)
-
----
-
-### Chinese fallen from apartment. Bij's corpse recovery
-
-*2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜையின்-சடலம்-மீட்பு/175-364875) · `ta`
-
-The Dehiwala police have recovered the body of a Chinese national suspected of falling from an apartment in Dehiwala.
-
-Police said the body was found following information behind a house on Alvis Road.
-
-It has been revealed that many Chinese nationals working in the private sector live in an apartment complex.
-
-◼️
-
-[Data](articles/a242884e.json)
-
-[Extended Data](ext_articles/a242884e.ext.json)
-
----
-
-### CDB raised the bell at the Colombo Stock Exchange after the 30th year
-
-*2025-09-18 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225459) · `ta`
-
-The Citizens Development Business Finance PLC (CDB), one of the leading bank financial institutions (NBFI) of Sri Lanka's leading bank financial institutions (NBFI), launched its 30th anniversary of the Colombo Stock Exchange (CSE), to commemorate its 30th anniversary of the CSE.. With this sound, CDB, the forerunner of digital change in Sri Lanka's financial services industry, has launched a new chapter in its continuous growth journey and a smart and sustainable commitment to strengthen Sri Lanka.
-
-This special bell sound, echoed in the stock market's trading complex, is a traditional event organized by the Colombo Stock Exchange. This reflects the elasticity of the market in the CDB journey over the past 30 years.
-
-...
-
-[Data](articles/2e1b7cda.json)
-
-[Extended Data](ext_articles/2e1b7cda.ext.json)
-
----
-
-### Court orders the van arrested
-
-*2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
-
-The Attanagalla Magistrate's Court yesterday ordered the owner of the abducted van to the registration owner by a lease.
-
-The Attanagalla Magistrate further stated that a leasing company has no legal authority to abduct a vehicle even if the lease is taken up.
-
-In the Nittambuwa Pallewela area in Nittambuwa, Nittambuwa had crossed the road and stopped a van that was routed.
-
-The group had informed the owner of the vehicle and that they were working at a lease instality and the lease premium is being carried out.
-
-The owner of the vehicle then lodged a complaint with the Attanagalla police station, accusing the Attanagalla Magistrate's Court.
-
-The court had ordered two abducted persons after the case was heard.
-
-Attanagalla Magistrate Manjula Karunaratne ordered the release of the vehicle to its registered owner.
-
-The Magistrate said that no leasing company could not be abducted even in a lease company on a proper premium background.
-
-...
-
-[Data](articles/23a3e970.json)
-
-[Extended Data](ext_articles/23a3e970.ext.json)
-
----
-
-### Women MPs’ Caucus discusses pathways toward a gender-sensitive Parliament
-
-*2025-09-18 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112653/women-mps-caucus-discusses-pathways-toward-a-gender-sensitive-parliament) · `en`
-
-Sri Lanka’s Women Parliamentarians’ Caucus discussed Potential pathways for UK support to the Caucus with representatives of the Westminster Foundation for Democracy (WFD) and also held discussions regarding intergenerational dialogue for encouraging young women’s political participation with the representatives of Law and Society Trust (LST).
-
-This meeting of the Women Parliamentarians’ Caucus was held on 12.09.2025 under the patronage of Prime Minister Dr. Harini Amarasuriya and the Chairperson of the Caucus Minister of Women and Child Affairs, Saroja Savitri Paulraj, according to the Department of Communication of Parliament.
-
-Addressing the Committee meeting, the Westminster Foundation for Democracy (WFD) proposed support on introducing and practicing gender-sensitive law-making and gender responsive budgeting and in understanding and supporting the role of the Caucus in increasing women’s labour force participation.
-
-...
-
-[Data](articles/0ec8e7bf.json)
-
-[Extended Data](ext_articles/0ec8e7bf.ext.json)
 
 ---

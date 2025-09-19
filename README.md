@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 12:55:46**
+As of **2025-09-19 14:10:45**
 
 ## Newspaper Stats
 
-*Scraped **76,914** Articles*
+*Scraped **76,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,311 @@ economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,478
-adaderanalk | 9,928
-tamilmirrorlk | 11,558
-virakesarilk | 12,506
-adaderanasinhalalk | 13,415
+adalk | 7,481
+adaderanalk | 9,931
+tamilmirrorlk | 11,564
+virakesarilk | 12,508
+adaderanasinhalalk | 13,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,497 (98.2%) of 76,914 articles have been extended.
+75,583 (98.2%) of 76,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### දිනක් තුළ මාරක රිය අනතුරු රැසක් - ජීවිත 6ක් අහිමි වෙයි
+### வெளிநாட்டு வேலைவாய்ப்பு புகார்களை விசாரிக்க சிறப்பு புலனாய்வு பிரிவு
+
+*2025-09-19 13:51:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-புகார்களை-விசாரிக்க-சிறப்பு-புலனாய்வு-பிரிவு/175-364916) · `ta`
+
+வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான புகார்களை விசாரித்து உடனடியாக தீர்வு காணும் வகையில், இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைமை அலுவலகத்தில்  காவல்துறை அதிகாரிகளைக் கொண்ட சிறப்பு புலனாய்வுப் பிரிவு வெள்ளிக்கிழமை (19) திறக்கப்பட்டது. இந்தப் பிரிவுக்கு தலைமை ஆய்வாளர் உட்பட 16 பொலிஸ் அதிகாரிகள் நியமிக்கப்பட்டுள்ளனர்.
+
+“வெளிநாட்டு வேலைவாய்ப்பு மோசடியைத் தடுப்பதையும், புகார்களுக்கு உடனடி தீர்வுகளை வழங்குவதன் மூலம் புலம்பெயர்ந்த சமூகத்திற்கு நிவாரணம் வழங்குவதையும் நோக்கமாகக் கொண்டு இந்தப் பிரிவு நிறுவப்பட்டது,” என்று வெளியுறவு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திர கூறினார். புதிய அரசாங்கம் ஆட்சிக்கு வந்த பிறகு இந்தப் பிரிவு விரைவாக நிறுவப்பட்டது என்று அவர் கூறினார்.”
+
+...
+
+[Data](articles/5bd05b52.json)
+
+---
+
+### උඩුදුම්බර ඛේදවාචකය - දෙදිනකට පෙර පියාත් ලියුකේමියාවෙන් මිය ගිහින්
+
+*2025-09-19 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214754) · `si`
+
+ලියුකේමියාවෙන් මියගිය සිය සැමියාගේ දේහය නිවසේ තිබියදීම සිය දරු තිදෙනා සමඟ වස පානය කළ කාන්තාවක් පිළිබඳ ඛේදනීය පුවතක් උඩුදුම්බර ප්‍රදේශයෙන් වාර්තා වුණි.
+
+සිද්ධියෙන් එම කාන්තාව මිය ගොස් ඇති අතර දරුවන්ගේ සෞඛ්‍ය තත්ත්වය යහපත් බව රෝහල් බලධාරීන් ප්‍රකාශ කළේය.
+
+"මැරෙන්න එපා ඇස් අරින්න...ඇස් අරින්න" මේ හද කම්පා කළ වචන කිහිපයකි.
+
+කෙළිදෙලෙන්, සහෝදරකමින් මේ මොහොතේ උඩුදුම්බර ප්‍රාදේශීය රෝහලේ ඇඳක් උඩට වී සිටින මෙම දරුවන් තිදෙනා බලා සිටින්නේ, විසක් ශරීරගත වී ඇත්දැයි යන සැකයෙනි.
+
+මේ දරුවන්ගේ මව ඊයේ (18) රාත්‍රියේ කිරි සම﻿ඟ වස මුසුකර දරුවන්ට පානයට කරන්නට දී ඇතත් වෙනදා මෙන් නොව එහි වූ තිත්ත රස නිසා දරුවන් කිරි කෝප්ප ප්‍රතික්ෂේප කර තිබුණි.
+
+දරුවන් තිදෙනා එය ප්‍රතික්ෂේප කළත් මව ඒ සියල්ල පානය කිරීමෙන් පසු රෝගී වී තිබුණි.
+
+පසුව අසල්වැසියන් විසින් දරුවන් සහ මව කඩිනමින් රෝහල් ගතකර ඇති අතර, ඒ වනවිටත් මව මෙළොව හැරගොස් තිබුණි.
+
+රෝහල් බලධාරීන් පවසන පරිදි දරුවන්ට කිසිදු ගැටලුවක් නොමැති බව අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/8e57a60e.json)
+
+---
+
+### ஐ.தே.க மாநாட்டில் சஜித் பங்கேற்கமாட்டார்?
+
+*2025-09-19 13:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-மாநாட்டில்-சஜித்-பங்கேற்கமாட்டார்/175-364915) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, ஐக்கிய தேசியக் கட்சியின் மாநாட்டில் கலந்து கொள்ள மாட்டார் என்று கட்சி வட்டாரங்கள் தெரிவித்தன.
+
+எனினும், ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார மற்றும் சில பாராளுமன்ற உறுப்பினர்கள் மட்டுமே கட்சி சார்பாக கலந்து கொள்ள உள்ளனர்.
+
+ஐக்கிய தேசியக் கட்சியின் 79வது ஆண்டு நிறைவுக் கூட்டம் பத்தரமுல்லையில் உள்ள மோனார்க் இம்பீரியல் ஹோட்டலில் அதன் தலைவர் ரணில் விக்கிரமசிங்க தலைமையில் சனிக்கிழமை (20) காலை 9.00 மணிக்கு நடைபெறும்.
+
+இந்த ஆண்டு நிறைவுக் கூட்டத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ உட்பட எதிர்க்கட்சி அரசியல் தலைவர்கள் குழு கலந்து கொள்ள உள்ளது.
+
+◼️
+
+[Data](articles/15540d11.json)
+
+---
+
+### Explanation for Sashindra Rajapaksa
+
+*2025-09-19 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225494) · `ta`
+
+The Colombo Magistrate's Court on Friday (19) has ordered the former State Minister Sasheendra Rajapaksa to be remanded until September 22.
+
+Colombo Chief Magistrate. The case has been postponed till Monday (22), due to the presence of the Bodaragama court.
+
+The order filed on behalf of Sasheendra Rajapaksa is expected to be issued on the same date.
+
+Former State Minister Sasheendra Rajapaksa was arrested by the Commission of Bribery and Corruption on August 6 in connection with the incident of another person in the Sevanagala -Kiripan Veewa area where another person was compensated by another person in the Sevanagala -Gripan Veda area during the 2022 protests.
+
+The arrested Sasheendra Rajapaksa has continued to be remanded after being produced before the Colombo Magistrate's Court.
+
+◼️
+
+[Data](articles/a95629e5.json)
+
+[Extended Data](ext_articles/a95629e5.ext.json)
+
+---
+
+### ඩෑන් ඝාතනයේ සැකකාර වෙඩික්කරු අත්අඩංගුවට
+
+*2025-09-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214753) · `si`
+
+දේශපාලන ක්‍රියාකාරිකයෙකු වූ ඩෑන් ප්‍රියසාද් ඝාතනයට සම්බන්ධ සැකකාර වෙඩික්කරු කෑගල්ල රන්වල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ සැකකරු ඇතුළු තිදෙනෙකු ඊයේ (18) රාත්‍රියේ මෙලෙස අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගත් අය අතර කාන්තාවක් ද වන බව වාර්තා වෙයි.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරුවන් සතුව තිබී නීතිවිරෝධී දුම්වැඩි 12,400ක් සහ ගජමුතු කිහිපයක් තිබී සොයාගෙන ඇත.
+
+එක් සැකකරුවෙක් යුද හමුදාවේ සේවය කර නීත්‍යානුකූලව ඉවත්වූ අයෙකු බවද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/2129a246.json)
+
+---
+
+### ප්‍රා. ලේ. කොට්ඨාස 6ට නාය යාමේ අනතුරු ඇඟවීම්
+
+*2025-09-19 13:12:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා--ලේ--කොට්ඨාස-6ට-නාය-යාමේ-අනතුරු-ඇඟවීම්/11-418604) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස හයක් සඳහා  නායයෑමේ  අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය අද (19)  පියවර තිබේ.
+
+ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ සීතාවක, කළුතර දිස්ත්‍රික්කයේ ඉංගිරිය, හොරණ, කෑගල්ල දිස්ත්‍රික්කයේ දෙහිඹ්විට, රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර  හා නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ   යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සඳහා අනතුරු ඇඟවීමේ පළමු වන  මට්ටමේ විමසිලිමත්ව සිටින ලෙස දැනුම්දීමේ නිවේදන  නිකුත් කොට තිබේ.
+
+අද (19) පෙරවරු 10.00 සිට හෙට (20) පෙරවරු 10.00 දක්වා මෙම නිවේදන වලංගු වන බවත්, එම නිවේදන නිකුත් කොට ඇති ප්‍රාදේශීය ලේකම්  කොට්ඨාසයන්ගේ  පදිංචි ජනතාව මේ පිළිබඳව අවධානයෙන් සිටිය යුතු බවද ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7e2ca1f8.json)
+
+---
+
+### Special investigation unit for Foreign Employment Complaints
+
+*2025-09-19 13:03:32* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-පැමිණිලි-විභාගයට-විශේෂ-විමර්ශන-ඒකකයක්/11-418603) · `si`
+
+Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment, the Sri Lanka Bureau of Foreign Employment has commenced to find lots of complaints on foreign employment and immediate solutions. 16 police officers have been attached to this unit.
+
+"Deputy Minister of External Aravya Hemachandra said that the unit was formed to provide relief to the migrant community with immediate solutions to complaints and complaints.. He said that the new government was expedited after the arrival of the country, "he said."
+
+"I think the complaints have been increased in recent years. The reason is that if the foreign employment parties are cheating, they use that one tricky. A group of evolution is gathering these frauds. Registration of non-registered agencies of certain group bureau is cheated as unregistered agencies.
+
+...
+
+[Data](articles/2b12e7c9.json)
+
+[Extended Data](ext_articles/2b12e7c9.ext.json)
+
+---
+
+### Husband Death: Wife and Wrong Decision: 3 Children became orphans
+
+*2025-09-19 12:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கணவன்-மரணம்-மனைவியும்-தவறான-முடிவு-3-குழந்தைகள்-அநாதைகளாகினர்/76-364914) · `ta`
+
+A 32 -year -old mother took the wrong decision and poisoned her three children, police said she was killed.. The incident took place in Ududumbara, Thambagahapitiya, Habudunduwala area.
+
+Her husband (age 34) died about two days ago. He is reported to have died of blood cancer.
+
+At the same time, three male children aged 05, 10 and 12 have been diagnosed with blood cancer.
+
+However, the children are currently receiving treatment at the Ududumbara Regional Hospital and their lives are no danger, police said.
+
+◼️
+
+[Data](articles/b2f0415f.json)
+
+[Extended Data](ext_articles/b2f0415f.ext.json)
+
+---
+
+### Government's position on land acquired by the government
+
+*2025-09-19 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214751) · `si`
+
+Minister Bimal Ratnayake said that the lands in the Northern Province who was taken over by the government for security reasons were not released.
+
+He was speaking at the Jaffna District Development Committee meeting held yesterday (18).
+
+The land issues are about. The meeting was a warm face with a conversation between the Minister of MP Sridharan and Bimal Ratnayake.
+
+The Jaffna District Committee Meeting in relation to the Ministry of Transport, Highways, Ports and Civil Aviation, was held in this regard and the MPs of Ilanki Thamil Auice Party MP. Mr. Sridharan had expressed his views to raise several things including the release of land in the North.
+
+◼️
+
+[Data](articles/45ba57d9.json)
+
+[Extended Data](ext_articles/45ba57d9.ext.json)
+
+---
+
+### Reorganization of SLFP commences in Badulla District
+
+*2025-09-19 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112673/reorganization-of-slfp-commences-in-badulla-district) · `en`
+
+The reorganization of the Sri Lanka Freedom Party (SLFP) has been commenced in the Badulla District today (19) under the patronage of Badulla District Member of Parliament Chamara Sampath Dassanayake.
+
+The initiative aims to strengthen and advance the party’s political activities through the establishment of youth, women’s, and Bhikkhu organizations, MP Dassanayake said.
+
+He further stated that the reorganization process will cover all nine constituencies within the Badulla District.
+
+◼️
+
+[Data](articles/1e27ee7d.json)
+
+[Extended Data](ext_articles/1e27ee7d.ext.json)
+
+---
+
+### Is the match? Do you have the match? Put the switch?
+
+*2025-09-19 12:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆட்டமா-எனக்கிட்ட-ஆட்டமா-போடவா-சுவிட்சை-போடவா/62-364913) · `ta`
+
+◼️
+
+[Data](articles/ac2b2b50.json)
+
+[Extended Data](ext_articles/ac2b2b50.ext.json)
+
+---
+
+### The Taliban government banned women's books in Afghanistan universities
+
+*2025-09-19 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225481) · `ta`
+
+International media reports that the Taliban government has removed the books written by women from the university teaching system in Afghanistan.
+
+As part of the new ban, the teaching of human rights and sexual harassment has been banned.
+
+Of the 680 books found as "Anti -Sharia and Taliban Principles", there are about 140 books written by women on topics such as "Protection in Chemistry Laboratory".
+
+A Taliban official said the 18 subjects that were supposed to be contradicted with Sharia's policies and the policy of the organization were banned from teaching at universities.
+
+Since the Taliban came to power four years ago, the announcement, which has continued to impose many restrictions.
+
+◼️
+
+[Data](articles/590ac434.json)
+
+[Extended Data](ext_articles/590ac434.ext.json)
+
+---
+
+### "Be care about currency sheets"
+
+*2025-09-19 12:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாணயத்-தாள்கள்-குறித்து-அவதானதாக-இருக்கவும்/175-364912) · `ta`
+
+Is it fake when buying goods and handling money? Police advise the public to verify and use money for various transactions.
+
+The police advise the Sri Lankan police to use the money only after checking the money and the information about such fake currency notes or handlers.
+
+In the meantime, in Habarana, two fake Rs.. Two more people were arrested on Thursday evening (18) evening.
+
+During further investigations, fake Rs.. Police said that a suspect who printed 5000 currency notes, 138 currency notes and printing equipment were seized.
+
+◼️
+
+[Data](articles/094e447f.json)
+
+[Extended Data](ext_articles/094e447f.ext.json)
+
+---
+
+### Several fatal accidents in a day - lose 6 lives
 
 *2025-09-19 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214750) · `si`
 
-ඊයේ දිනය තුළ දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු මාරක අනතුරුවලින් ජීවිත 6ක් අහිමි වී තිබුණි.
+There were 6 lives lost in a few areas in the island yesterday.
 
-හෝමාගම පොලිස් වසමේ හයිලෙවල් මාර්ගයේ, කැන්දලන්ද ප්‍රදේශයේ සිදුවු අනතුරකින් අවුරුදු 48ක හෝමාගම ප්‍රදේශයේ පදිංචිකරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A resident of the Kandalanda area has been identified as a 48 year old resident of the Homagama Police Division.
 
-කොළඹ සිට අවිස්සාවේල්ල දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරළීගොස් විරුද්ධ දෙසින් පැමිණි බස් රථයක ගැටී මෙම අනතුර සිදුව තිබුණි.
+The accident had occurred when the motorcyclist traveling to Avissawella towards Avissawella.
 
-තවද, වංකාල පොලිස් වසමේ මන්නාරම වංකාල මාර්ගයේ එන්.එස්.බී හංදිය අසලදී මන්නාරම දෙස සිට වංකාල දෙසට ධාවනය වූ යතුරුපැදියක් එම දිසාවටම ධාවනය වූ පාපැදියක ගැටී සිදුවු අනතුරකින් යතුරුපැදියේ පැදිකරු, පසුපැදිකරු හා පාපැදිකරු තුවාල ලබා තිබූ අතර, රෝහල් ගත කිරීමේ දී 70 හැවිරිදි වංකාල ප්‍රදේශයේ පදිංචි පාපැදිකරු මියගොස් ඇත.
+Further, a motorcyclist who has been injured in a cyclist who had traded from the NSB junction of the Mannar Skin Road, a motorbike was injured in a criminal in the Mannar Waratiya.
 
-මේ අතර, කොස්ගොඩ පොලිස් වසමේ යාල්ගම කායිකාවල මාර්ගයේ ගෝනගපල හන්දියේදී තවත් අනතුරක් සිදුව ඇති අතර,යතුරුපැදියක් අතුරු මාර්ගයකට හැරවීමට යාමේදී එම දිසාවටම ධාවනය වූ ත්‍රීරෝද රථයක ගැටී අනතුර සිදුව තිබුණි.
+Meanwhile, the accident occurred at Gonagala Junction along the Kosgoda police division of the Kosgoda police division.
+
+The victim was 66 years after being admitted to the Bambalapitiya Hospital for treatment of the motorcyclist and the injuries.
+
+Meanwhile, an accident had occurred last night at the time of the new bus stand at Anuradhapura Main Street at the Anuradhapura Bus Stand at the Anuradhapura Main Street.
+
+The victim was rushed to the Anuradhapura hospital for treatment, and the driver of the car has been arrested.
 
 ...
 
 [Data](articles/dc8c7336.json)
+
+[Extended Data](ext_articles/dc8c7336.ext.json)
+
+---
+
+### Deputy Foreign Ministers of Sri Lanka & Ukraine hold phone call on boosting bilateral ties
+
+*2025-09-19 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112672/deputy-foreign-ministers-of-sri-lanka-ukraine-hold-phone-call-on-boosting-bilateral-ties) · `en`
+
+Deputy Minister of Foreign Affairs and Foreign Employment of Sri Lanka, Arun Hemachandra, held a cordial telephone conversation yesterday (18) with Deputy Minister of Foreign Affairs of Ukraine and Head of the Ukrainian National Commission for UNESCO, Mariana Betsa.
+
+Both dignitaries reflected on the warm cooperation between Sri Lanka and Ukraine in bilateral and multilateral forums, including the recent mutual support extended toward each other’s candidatures to bodies of the United Nations, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
+
+Deputy Minister Hemachandra briefed his counterpart on recent developments in Sri Lanka and expressed Sri Lanka’s interest in further strengthening ties between the two countries.
+
+The discussion highlighted the shared commitment to fostering closer relations and exploring opportunities for collaboration in areas of mutual interest, the statement added.
+
+◼️
+
+[Data](articles/d56dcf47.json)
+
+[Extended Data](ext_articles/d56dcf47.ext.json)
 
 ---
 
@@ -87,6 +359,26 @@ The motorcycle used to carry the suspect cannabis has also been confiscated by t
 [Data](articles/31e3b2a3.json)
 
 [Extended Data](ext_articles/31e3b2a3.ext.json)
+
+---
+
+### Army Lance Corporal honored for saving lives in deadly Ella bus crash
+
+*2025-09-19 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112671/army-lance-corporal-honored-for-saving-lives-in-deadly-ella-bus-crash-) · `en`
+
+A special ceremony was held in Wellawaya to honor Lance Corporal W. M. V. M. Bandara of the Sri Lanka Army Special Forces for his courageous actions during the recent fatal bus accident on the Ella–Wellawaya main road.
+
+Lance Corporal Bandara was the first to jump into the overturned bus and rescue the injured passengers following the tragic bus accident on the Ella–Wellawaya main road which occurred on September 4.
+
+The event was organized by the United Welfare Association of Wellawaya, with the participation of the army officer W. M. V. M. Bandara, his mother, Monaragala District Parliamentarian Chathuri Gangani, and W. Nihal, Chairperson of the Wellawaya Pradeshiya Sabha.
+
+During the ceremony, a memorial was unveiled and several awards were presented to recognize the bravery and selflessness of Lance Corporal Bandara.
+
+...
+
+[Data](articles/be930cb9.json)
+
+[Extended Data](ext_articles/be930cb9.ext.json)
 
 ---
 
@@ -171,6 +463,24 @@ Deputy Chief Minister Udayanidhi Stalin paid tribute to Robot Shankar's body. Ma
 [Data](articles/7bbae0dc.json)
 
 [Extended Data](ext_articles/7bbae0dc.ext.json)
+
+---
+
+### Dhanush sought to say "I am"
+
+*2025-09-19 11:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கதறி-அழுத-ரோபோ-சங்கரின்-மகளை-நான்-இருக்கேன்மா-எனக்-கூறி-தேற்றிய-தனுஷ்/54-364907) · `ta`
+
+Comedian Robot Shankar, who was hospitalized due to ill health. His demise has caused tragedy among the screenwriters and fans.
+
+Robot Shankar has been unconscious in Vijay TV set up two days ago as he has been suffering from severe health problems for the past few days. He was immediately rushed to the hospital.
+
+On his medical condition, the hospital administration said, “Robot Shankar, Sep.. Came to the hospital on the 16th. He had a bloodbath in the intestine. More serious problems in the abdomen as more internal organs were dysfunctional. In the intensive care unit, our doctors were continuously treated but did not benefit. He died on September 18 at 9.05 pm.
+
+...
+
+[Data](articles/f947c441.json)
+
+[Extended Data](ext_articles/f947c441.ext.json)
 
 ---
 
@@ -648,6 +958,26 @@ His father died due to a sudden illness while playing the match between Sri Lank
 
 ---
 
+### Remove books written in Afghanistan universities
+
+*2025-09-19 09:46:00* · [`adalk`](https://www.ada.lk/international/ඇෆ්ගනිස්ථානයේ-විශ්වවිද්‍යාලවලින්-ලේඛිකාවන්-ලියන-ලද-පොත්-ඉවත්-කරයි/3-418601) · `si`
+
+The Government of Afghanistan has decided to ban the books written by women in Afghanistan. They have also banned the teaching of human rights and sexual violence.
+
+About 680 books from university system are to be removed. International media reports that the majority of books written against Sharia anti-Sharia and Taliban.
+
+Universities said that universities no longer allowed to teach 18 subjects.
+
+After this order came to power four years, the Talibanites were a new series of limits.
+
+◼️
+
+[Data](articles/aa91ec99.json)
+
+[Extended Data](ext_articles/aa91ec99.ext.json)
+
+---
+
 ### Dunith Wellalage returns to Sri Lanka after father’s passing
 
 *2025-09-19 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112665/dunith-wellalage-returns-to-sri-lanka-after-fathers-passing) · `en`
@@ -858,19 +1188,23 @@ The police stated that the police were working closely for the benefit of the fa
 
 ---
 
-### ගෙදර ඉදන් සේවා ලබාගන්නා ක්‍රමයක් දඹුල්ලට
+### Dambulla to dumili
 
 *2025-09-19 08:24:04* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-ඉදන්-සේවා-ලබාගන්නා-ක්‍රමයක්-දඹුල්ලට/11-418600) · `si`
 
-දඹුල්ල මහනගර සභා බල ප්‍රදේශයේ ස්ථිර පදිංචි ජනතාවට නිවසේ සිට හෝ ව්‍යාපාරික ස්ථානයේ සිට මහ නගර සභාවෙන් සිදුකර ගත යුතු සේවාවන් රැසක් සිදුකිරීම සඳහා ඩිජිටල් කිව් ආර්  කේතයක් හඳුන්වා දීම 18 දින කෙරිණි
+Introduction of digital QR code to conduct a large number of services to the people of the Dambulla Municipal Council.
 
-දඹුල්ල නගරාධිපති වසන්ත කේ රාජමන්ත්‍රී මහතාගේ හා මන්ත්‍රීවරුන්ගේ යෝජනාවක් අනුව නව ක්‍රමවේදය හඳුන්වා දී තිබෙ. මෙය ජනතාවට හඳුන්වාදීම පළාත් පාලන සතිය මුල්කරගෙන ‍ ක්‍රියාත්මක වූ අතර වෙළඳ මධ්‍යස්ථානසහ ආරක්ෂිත ස්ථානවල නව කිව්.ආර්.කේතය ලබාගෙන ජනතාවට බාගත කර ගැනීමට හැකිවන පරිදි ප්‍රදර්ශනය කිරීම සිදුකෙරිණි.
+Dambulla Mayor Wasantha K Rajayamye and Members' proposal were introduced. Introduction to the people was implemented on the local government week, and it was demonstrated to recover the new utilization of trade centers and safe locations.
 
-නව ඩිජිටල්  කේතය මගින් වරිපනම් ගෙවීම සේවා ස්ථාන ලියාපදිංචි කිරීම සහ නගර සභාවෙන් ජනතාවට ඉටු විය යුතු සේවාවන් රැසක් තම  ජංගම දුරකථනය හරහා ඉටු කර ගැනීමට හැකියාව තිබෙන බව එමගින් තම නාගරික වැසියන් ගේ කාලය ශ්‍රමය ඉතිරිකිරීම සිදුවන බවද වර්තමාන රජයේ ගෙන යන  ක්ලීන් ශ්‍රීලංකා  වැඩසටහනේ  ප්‍රමුඛතම කාරණය වන්නේ ඩිජිටල් කරනය බවත් ඒ සඳහා දඹුල්ල නගර සභාවේ දායකත්වය උපරිම ලබාදීම තම අරමුණ බව නගරාධිපති වසන්තකේ රාජ මන්ත්‍රී මහතා සඳහන් කළේය'
+Mayor Vanthakama said that the preparation of its urban clean Sri Lanka program is the main focus of the current savings of the Sri Lankan celebrations and the municipality of the Urban Council.
 
-...
+Deputy Mayor's Municipal Commissioner of Dambulla Municipal Council, Dambulla Municipal Council and other employees were also present at the occasion.
+
+◼️
 
 [Data](articles/e6a6d419.json)
+
+[Extended Data](ext_articles/e6a6d419.ext.json)
 
 ---
 
@@ -1651,379 +1985,5 @@ He had been completed by a heart attack, and the year-old was 54 years old.
 [Data](articles/7cd7768b.json)
 
 [Extended Data](ext_articles/7cd7768b.ext.json)
-
----
-
-### Sri Lanka won Afghanistan by 6 wickets
-
-*2025-09-19 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225462) · `ta`
-
-Sri Lanka won the match between Sri Lanka and Afghanistan by 6 wickets in the B team of the R20 match of the 2025 Asian Cup.
-
-Afghanistan scored 169 runs for the loss of 8 wickets in their 20 overs.
-
-Rahmanullah Gurbas scored 14 runs, Chetigullah Atal 18 runs, Ibrahim Jatran 24 runs, Karim Janat one run, Darvish Rasuli 09, Asmatullah Umarai 6 and Captain Rashid Khan for Afghanistan 24 runs.
-
-In the bowling, Nuwan Dushara took 4 wickets for Sri Lanka, while Dushmantha Sameera, Dunit Vellalake and Dasun Shanaka took one wicket each.
-
-In reply, the Sri Lankan team won by 4 wickets in 18.4 overs and won by 171 runs.
-
-Kusal Mendis was 74 runs in the Sri Lankan team, while Padum Nissanka scored only 06 runs in the match.. Gusal Perera scored 28 runs, Kamil Mishara scored 4 runs, Captain Sarid Asalanga scored 17 runs and Kamindu Mendis scored 26 runs.
-
-Accordingly, Sri Lanka won the match between Afghanistan and Sri Lanka by 6 wickets.
-
-◼️
-
-[Data](articles/147cc9d2.json)
-
-[Extended Data](ext_articles/147cc9d2.ext.json)
-
----
-
-### Sri Lanka beat Afghanistan to qualify for Asia Cup 2025 Super 4s
-
-*2025-09-19 00:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112655/sri-lanka-beat-afghanistan-to-qualify-for-asia-cup-2025-super-4s) · `en`
-
-Sri Lanka beat Afghanistan by 6 wickets on Thursday, September 18, to qualify for the Super 4s of the ongoing Asia Cup 2025.
-
-In the Group B match played at Sheikh Zayed Stadium in Abu Dhabi, Sri Lanka rode on a half-century from Kusal Mendis (74) to chase down the target of 170 runs in 18.4 overs.
-
-Sri Lanka won all three matches played in Group B to finish as table toppers.
-
-Afghanistan finished third in the points table, and as a result, they are out of the tournament now.
-
-The Rashid Khan-led side needed a win on Thursday to pip Bangladesh and qualify for the Super 4s, but they failed to achieve the objective.
-
-Bangladesh is the second team from Group B to qualify for the Super 4s. The Litton Das-led side won two out of three Group B matches.
-
-In the first Super 4s match of Asia Cup 2025, Sri Lanka will now face Bangladesh in Dubai on Saturday, September 20.
-
-...
-
-[Data](articles/faaad8de.json)
-
-[Extended Data](ext_articles/faaad8de.ext.json)
-
----
-
-### 2025-09-18 (Thursday)
-
-### Sri Lanka’s Union Assurance sells 22-pct stake in Fairfirst Insurance for Rs2.6bn
-
-*2025-09-18 23:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-union-assurance-sells-22-pct-stake-in-fairfirst-insurance-for-rs2-6bn-241151/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Union Assurance PLC has sold its 22 percent stake in Fairfirst Insurance Limited to Fairfax Asia Limited for 2.63 billion rupees, John Keells Holdings said.
-
-“UAL has divested its 22% equity stake comprising 30,800,000 ordinary shares, in Fairfirst Insurance Limited, an associate company of UAL today,” John Keells Holdings said in a stock exchange filing.
-
-Fairfirst Insurance Limited operates in the non-life insurance segment and was previously treated as an associate of the John Keells Group.
-
-Fairfax Asia Limited is a subsidiary of Fairfax Financial Holdings Limited. (Colombo/Sep18/2025)
-
-◼️
-
-[Data](articles/03274c11.json)
-
-[Extended Data](ext_articles/03274c11.ext.json)
-
----
-
-### Sri Lanka in terms of abuse of Bangladesh to Bangladesh
-
-*2025-09-18 23:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214734) · `si`
-
-Sri Lanka were able to qualify for the Superior 4 of the Asian Cup Twenty20 cricket team due to the required point.
-
-The Afghan group defeats the Afghan team by 6 wickets in the decisive match of 'B' matches today.
-
-Sri Lanka was able to pass 4 wickets in the Afghanistan's target of 170 runs.
-
-Opener Kusal Mendis scored 74 not out.
-
-Kusal's innings in 52 balls included 10 fours.
-
-The kusal was unique in several unsuccessful inm.
-
-Between 26 off 13 balls, Kommith Mendis scored 26 runs off 13 balls.
-
-However, the Sri Lanka scored a target of 170 runs in the 13th overdrafts.
-
-With the defeat of Afghanistan, they left the tournament, and the Banglaida qualified for the Super 4.
-
-◼️
-
-[Data](articles/f0f31835.json)
-
-[Extended Data](ext_articles/f0f31835.ext.json)
-
----
-
-### International Commission of Jurists urges Sri Lanka to repeal or revise online safety act
-
-*2025-09-18 23:22:00* · [`economynextcom`](https://economynext.com/international-commission-of-jurists-urges-sri-lanka-to-repeal-or-revise-online-safety-act-241142/) · `en`
-
-ECONOMYNEXT – The International Commission of Jurists (ICJ) has submitted its observations after Sri Lanka’s government called for public input on amending the contentious Online Safety Act.
-
-“In its submission, the ICJ emphasized that several provisions of the Act threaten the enjoyment of rights to freedom of expression, opinion, and information guaranteed under Article 14(1)(a) of the Constitution of Sri Lanka and Article 19 of the International Covenant on Civil and Political Rights (ICCPR), to which Sri Lanka is a party,” the statement said.
-
-The ICJ urged the government to repeal the act or revise it to make it compliant with the country’s international human rights law obligations.
-
-...
-
-[Data](articles/df454dc9.json)
-
-[Extended Data](ext_articles/df454dc9.ext.json)
-
----
-
-### Sri Lanka qualified for the Super 4 round
-
-*2025-09-18 23:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/சுப்பர்-4-சுற்றுக்குத்-தகுதி-பெற்ற-இலங்கை/44-364894) · `ta`
-
-Sri Lanka won the match against Afghanistan in Abu Tabi, the United Arab Emirates, and Sri Lanka qualified for the 4 -round match for the loss of 3 wickets in 12.4 overs and scored 101 runs.
-
-Kusal Mendis 44 (36) and Sarit Asalanga 08 (05) are unbeaten on the field.
-
-If Afghanistan wins the tournament, they will qualify for the Super 4 round with Sri Lanka. If Afghanistan fails, Bangladesh will qualify for the Super 4 round with Sri Lanka.
-
-◼️
-
-[Data](articles/0d86a562.json)
-
-[Extended Data](ext_articles/0d86a562.ext.json)
-
----
-
-### Super - 4 round Sri Lanka needs 101 runs
-
-*2025-09-18 22:22:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/சுப்பர்-4-சுற்றுக்கு-இலங்கைக்கு-101-ஓட்டங்கள்-தேவை/44-364879) · `ta`
-
-Sri Lanka has to score 101 runs in today's match against Afghanistan to qualify for the Super 4 round of the Asia Cup.
-
-Sri Lanka has to score 101 runs to qualify for the Super 4 round, with Afghanistan scored 169 runs for the loss of 8 wickets in 20 overs.
-
-Afghanistan Super 4 Must qualify for the match must win in this competition. If Afghanistan won 101 runs, Sri Lanka will go to the Super 4 round with Afghanistan. Sri Lanka and Bangladesh will go to the Super 4 round if Afghan loses. If Sri Lanka does not get 101 runs, Afghanistan and Bangladesh will go to the Super 4 round.
-
-◼️
-
-[Data](articles/232b852c.json)
-
-[Extended Data](ext_articles/232b852c.ext.json)
-
----
-
-### Fatal Amaba infection from India
-
-*2025-09-18 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214733) · `si`
-
-It is reported that the brain cells of the brain is a fast expansion of fascinating state in Kerala, India.
-
-According to foreign media, 19 people have been recovered from the state during the past year, 190 of them have died.
-
-This ambacks, such as reservoirs, rivers, have been recovered by now to the human body across the nose.
-
-However, less than 500 patients have been reported so far, but over 120 patients have been reported in the Kerala last two years.
-
-◼️
-
-[Data](articles/955f4283.json)
-
-[Extended Data](ext_articles/955f4283.ext.json)
-
----
-
-### Cambodian PM accuses Thai forces of evicting civilians on border
-
-*2025-09-18 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112654/cambodian-pm-accuses-thai-forces-of-evicting-civilians-on-border) · `en`
-
-Cambodia’s leader Hun Manet has accused Thailand of preventing more than 20 families from returning to their homes on the disputed border, according to his letter to the head of the UN released on Thursday (Sep 18).
-
-The Thai army said the Cambodian residents had “illegally occupied” Thai territory.
-
-The Southeast Asian neighbours agreed a truce in late July following five days of clashes that killed at least 43 people on both sides - the latest eruption of a long-standing dispute over contested border temples on their 800km frontier.
-
-On Wednesday, Thai forces fired rubber bullets and tear gas at several hundred Cambodian protesters during a stand-off in a disputed border village, a move that Phnom Penh said injured nearly 30 people, including a soldier and a Buddhist monk.
-
-...
-
-[Data](articles/6f99ae46.json)
-
-[Extended Data](ext_articles/6f99ae46.ext.json)
-
----
-
-### Robot Shankar, a famous comedian and iconic actor, passed away shortly before.
-
-*2025-09-18 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225461) · `ta`
-
-Actor Robot Shankar is famous for participating in a broadcast comedy shows on private television. Following his reception at these shows, he became famous as a comedian in Tamil cinema. This is mainly with Sagittarius and Iron Screen with Vishal.
-
-Robot Shankar participated in a shoot on Tuesday 16th. Then he suddenly had faint. He was subsequently admitted to a private hospital in Duraipakkam, Chennai.
-
-The doctors who examined the robot Shankar said that they had been drowned due to dehydration and low blood pressure.
-
-On Wednesday evening, the evening, when his health was suffered, doctors transferred him to the intensive care unit.
-
-Robot Shankar was reportedly suffering from jaundice and was reportedly suffering from liver and kidney damage.
-
-Robot Shankar died today without treatment.
-
-It is noteworthy that Robot Shankar was admitted to the hospital a few years ago with jaundice.
-
-◼️
-
-[Data](articles/e6b097c3.json)
-
-[Extended Data](ext_articles/e6b097c3.ext.json)
-
----
-
-### Afghanistan scored 169 runs against Sri Lanka
-
-*2025-09-18 21:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கைக்கெதிராக-169-ஓட்டங்களைப்-பெற்ற-ஆப்கானிஸ்தான்/44-364878) · `ta`
-
-In the Asia Cup series, Afghanistan scored 169 runs for the loss of 8 wickets in 20 overs in the upcoming match against Sri Lanka.
-
-Nuwan Dushara (4), Dushmantha Sameera, Dasun Shanaka and Dunit Vellalake took wickets and lost 7 wickets in 17.1 overs and scored 114 runs in the final over by Mohamed.
-
-◼️
-
-[Data](articles/dce45d32.json)
-
-[Extended Data](ext_articles/dce45d32.ext.json)
-
----
-
-### Asian Bowl Cricket Tournament: Sri Lanka's target of 170 runs
-
-*2025-09-18 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225460) · `ta`
-
-Twenty20 match between Sri Lanka and Afghanistan is currently underway.
-
-◼️
-
-[Data](articles/74bb9db9.json)
-
-[Extended Data](ext_articles/74bb9db9.ext.json)
-
----
-
-### Sri Lanka a target of 170 runs
-
-*2025-09-18 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214732) · `si`
-
-The Afghanistan scored 169 runs for the loss of 7 wickets in the 20 overs.
-
-Accordingly, the Sri Lankan squad was a 170 run target.
-
-Chances can easily access the Super 4 to Sri Lanka in order to chase this goal.
-
-If the defeat may not be more than 71 runs.
-
-Afghanistan Leader Razed decided to bat first, winning the coin.
-
-However, they were unable to obtain a consolation in the face of the invasive bowling of Nuwan Thushara.
-
-At the time of the Powerplast, 43 runs were able to collect in Afghanistan, and the three store batsmen were infected.
-
-Nuwan Thushara, claimed to be sent to the wicket.
-
-The Afghanistan score board was in operation of the 12th (11.3) in the match, while the match 17 was recorded as 114/6.
-
-However, they only scored 55 runs in their innings and brought their innings to a competitive mark.
-
-Mohammed has scored 60-year-old Mohammed Pubiha scored 60 year old.
-
-The last of the faller borrow, he held five sixes against Velleala's.
-
-...
-
-[Data](articles/e63f3b89.json)
-
-[Extended Data](ext_articles/e63f3b89.ext.json)
-
----
-
-### Underworld leader Ahungalla Baba's house set on fire
-
-*2025-09-18 21:40:53* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-අහුන්ගල්ලේ-බබාගේ-නිවසට-ගිනි-තියලා/11-418595) · `si`
-
-Ahungalla Baba, who is currently underworld, a member of the Uhungalla Babe, who is currently under-a-storey manner, has been set on fire by a group or a group.
-
-The police say that the fire was damaged by the fire and the fire was not spread to the entire home.. The house was not damaged due to fire, police said.
-
-The police suspect that there were several adversion groups regarding Manuwana murders and drug trafficking, and the police suspect that he could work in this group.
-
-Police say no one has been arrested so far regarding the burning of fire. Ahungalla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/167299cb.json)
-
-[Extended Data](ext_articles/167299cb.ext.json)
-
----
-
-### Actor Robot Shankar has passed away
-
-*2025-09-18 21:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரோபோ-சங்கர்-காலமானார்/54-364877) · `ta`
-
-Indian media reports that the famous actor Robot Shankar died without treatment.
-
-Robot Shankar (46) participated in a shooting of a shoot yesterday afternoon. Suddenly he was faint.
-
-He was then admitted to a private hospital in Duraipakkam, Chennai.
-
-Robot Shankar came under medical care on the advocate of the doctors who examined Robot Sankar, who had been drowned due to dehydration and low blood pressure.
-
-In this case, actor Robot Shankar, who was treated with the help of a ventilator, died without treatment.
-
-The filmmakers are shocked to learn about his death. Also, they are condolences to his death.
-
-Robot Shankar was admitted to hospital with jaundice a few years ago. It is noteworthy that he died after he was re -starring in films after intensive care. Remble
-
-◼️
-
-[Data](articles/485ee038.json)
-
-[Extended Data](ext_articles/485ee038.ext.json)
-
----
-
-### Practical modular for Dhamma Education
-
-*2025-09-18 21:31:27* · [`adalk`](https://www.ada.lk/breaking_news/දහම්-අධ්‍යාපනය-සඳහා-ප්‍රායෝගික-මොඩියුලර්/11-418594) · `si`
-
-Attention was to prepare practical modulars for new education reforms and introduce a systematic procedure for the evaluation process and supervise them through the Provincial Education Departments and zonal offices.
-
-The teaching of religion must be made compulsory to minimize 20 times when religion teaches other subjects to teach other subjects in schools.
-
-It was also unable to issue a special tipist treat for the monks of the schools.
-
-Amarapura Maha Nikaya Siri Sumangala Thero and Amarapura Maha Seikaya Amarapura Maha Nikaya, Amarapura Maha Nikaya, Commissioner General of Buddhist Amarami Amararile, and the Advisory Council of the Advisory Council of Eigamma Amararile Thero. M. G. Senaratne, Education Additional Secretary, Commissioner General of Education Publications ,,
-
-◼️
-
-[Data](articles/55ecfd2a.json)
-
-[Extended Data](ext_articles/55ecfd2a.ext.json)
-
----
-
-### Web range for foreigners involved in theft
-
-*2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
-
-Investigations are underway into two foreigners who stole a sum of Rs.
-
-They have stolen the money in a new way, claiming that the money is turned into more money.
-
-It is reported that the driver of Paravurthi has lodged a complaint at the police station.  R
-
-◼️
-
-[Data](articles/7e95a7de.json)
-
-[Extended Data](ext_articles/7e95a7de.ext.json)
 
 ---

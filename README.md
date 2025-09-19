@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 15:56:34**
+As of **2025-09-19 16:08:55**
 
 ## Newspaper Stats
 
-*Scraped **76,947** Articles*
+*Scraped **76,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,483
-adaderanalk | 9,934
+adaderanalk | 9,935
 tamilmirrorlk | 11,571
-virakesarilk | 12,508
-adaderanasinhalalk | 13,422
+virakesarilk | 12,509
+adaderanasinhalalk | 13,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,692 (98.4%) of 76,947 articles have been extended.
+75,692 (98.4%) of 76,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
+
+### කෙහෙල්බද්දර පද්මේ ගැන විශේෂ වාර්තාවක් පොලීසියෙන් අධිකරණයට
+
+*2025-09-19 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214760) · `si`
+
+පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන විත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවාගෙන සිටින සංවිධානාත්මක අපරාධ කල්ලි සාමාජික කෙහෙල්බද්දර පද්මේ සම්බන්ධයෙන් සිදුකළ විමර්ශන වාර්තාවක් පොලිසිය විසින් අද (19) කොළඹ මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළේය.
+
+කොළඹ අතිරේක මහේස්ත්‍රාත් ලහිරු සිල්වා මහතා හමුවට මෙම වාර්තාව ඉදිරිපත් කර ඇත.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණයට එම වාර්තාව ඉදිරිපත් කරමින් අධිකරණය හමුවේ සඳහන් කළේ අදාළ සැකකරු රැඳවුම් නියෝග මත රඳවා ගෙන විමර්ශන සිදු කරන බවය.
+
+තවද ගණේමුල්ල සංජීව ඝාතනයට මෙම සැකකරු සම්බන්ධ දැයි වැඩිදුර විමර්ශන සිදුකරන බවත් පොලිසිය මෙහිදී අධිකරණය හමුවේ පැවසීය.
+
+මෙහිදී මහේස්ත්‍රාත්වරයා රඳවාගෙන සිටින මෙම සැකකරු මහේස්ත්‍රාත්වරයෙකු විසින් නිරීක්ෂණය කර තිබේ දැයි පොලීසියෙන් විමසා සිටියේය.
+
+ඊට පිළිතුරු දෙමින් විමර්ශන නිලධාරීන් සඳහන් කළේ කොටුව මහේස්ත්‍රාත්වරයා විසින් මෙම සැකකරු නිරීක්ෂණයට ලක් කර තිබෙන බවය.
+
+ඒ අනුව මෙම සැකකරු සම්බන්ධයෙන් ඉදිරි විමර්ශන සිදුකර එහි ප්‍රගතිය අධිකරණයට වාර්තා කරන ලෙසත් අතිරේක මහේස්ත්‍රාත්වරයා විමර්ශන නිලධාරීන්ට නියම කළේය.
+
+◼️
+
+[Data](articles/869af459.json)
+
+---
+
+### தங்க பிஸ்கட்களுடன் விமானப்படை புலனாய்வு அதிகாரி கட்டுநாயக்கவில் கைது!
+
+*2025-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225519) · `ta`
+
+தங்க பிஸ்கட்களுடன் விமானப்படை புலனாய்வு அதிகாரி ஒருவர் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் வைத்து விமான நிலைய சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவினரால் வியாழக்கிழமை (18) கைதுசெய்யப்பட்டுள்ளார்.
+
+விமானப்படையில் 17 ஆண்டுகள் பணியாற்றிய மினுவாங்கொடையைச் சேர்ந்த 37 வயதுடைய புலனாய்வு அதிகாரி ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரான விமானப்படை புலனாய்வு அதிகாரி விமான நிலையத்திலிருந்து வெளியேற முயன்ற போது விமான நிலைய சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவினரால்  சோதனைக்குட்படுத்தப்பட்டுள்ளார்.
+
+இதன்போது சந்தேக நபரான விமானப்படை புலனாய்வு அதிகாரியின் பையிலிருந்து 550 கிராம் எடையுடைய 24 கரட் தூய்மையான 40 தங்க பிஸ்கட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/f4cbe6e1.json)
+
+---
+
+### පානදුරේ නිලංගගේ ආරක්ෂාව තහවුරු කරන ලෙස ඉල්ලා ගොනුකළ පෙත්සම සලකා බැලීමට දින දෙයි
+
+*2025-09-19 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214759) · `si`
+
+පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන මේවන විට ශ්‍රී ලංකාවට රැගෙන විත් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවාගෙන සිටින නිලංග සම්පත් සිල්වා හෙවත් පානදුරේ නිලංග නමැත්තාගේ ආරක්ෂාව තහවුරු කරන ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන්ට නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන රිට් පෙත්සමක් සලකා බැලීම සඳහා ලබන 26 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+අදාළ සැකකරුගේ මව විසින් ඉදිරිපත් කළ මෙම පෙත්සම අද (19) අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥවරයා සහ නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් ශනිල් කුලරත්න මහතා විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව එය සලකා බැලීම සඳහා ලබන 26 කැඳවීමට විනිසුරු මඩුල්ල නියම කළේය.
+
+මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා, පොලිස්පතිවරයා, නීතිපතිවරයා ඇතුළු පිරිසක් නම් කර තිබේ.
+
+...
+
+[Data](articles/6375d7dc.json)
+
+---
 
 ### බලශක්ති ක්ෂේත්‍රයේ පාර්ශ්වකරුවන් සමඟ 2026 පූර්ව අයවැය සාකච්ඡාවක්
 
@@ -49,6 +109,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3ed12880.json)
+
+---
+
+### SLAF intelligence officer arrested over Rs. 20M gold smuggling attempt at BIA
+
+*2025-09-19 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112678/slaf-intelligence-officer-arrested-over-rs-20m-gold-smuggling-attempt-at-bia) · `en`
+
+In a major enforcement success, the Narcotics Control Unit of Sri Lanka Customs apprehended an intelligence officer of the Sri Lanka Air Force (SLAF) at Bandaranaike International Airport (BIA), for allegedly attempting to smuggle gold worth Rs. 20 million into the country.
+
+The 37-year-old suspect, who has served in the Sri Lanka Air Force for 17 years, was intercepted by vigilant Customs officers as he attempted to exit the arrival terminal through the staff gate yesterday (18).
+
+Upon subjecting him to a body scan, officers discovered 40 gold biscuits of 24-carat purity (10 grams and 20 grams each), weighing 550 grams in total, concealed around his waist.
+
+The seized gold has an estimated market value of Rs. 20 million, the statement said.
+
+The suspect was immediately taken into custody, and further investigations are underway in collaboration with relevant law enforcement and defense authorities, Customs said.
+
+...
+
+[Data](articles/fdeb6e96.json)
 
 ---
 
@@ -1394,9 +1474,9 @@ Dr. Fernando made these remarks while delivering a special statement on the fort
 
 A 32-year-old woman from the Hapudandawala area of Dambagahapitiya, Ududumbara, has died after reportedly feeding her three children poison and then consuming poison herself, police confirmed.
 
-The tragic incident had occurred just two days after the death of her 34-year-old husband, who had succumbed to leukemia.
+The tragic incident had occurred just two days after the death of her 34-year-old husband, who had succumbed to Thalassemia.
 
-It has been revealed that the couple’s three sons, aged 12, 10, and 5, are also suffering from leukemia, police said.
+It has been revealed that the couple’s three sons, aged 12, 10, and 5, are also suffering from Thalassemia, police said.
 
 The children, who were given poison, are currently receiving treatment at the Ududumbara Divisional Hospital.
 
@@ -1945,79 +2025,5 @@ Sri Lanka’s fragile yet recovering economy was placed under the spotlight at t
 [Data](articles/f9fd474c.json)
 
 [Extended Data](ext_articles/f9fd474c.ext.json)
-
----
-
-### Dutan's father died
-
-*2025-09-19 05:57:19* · [`adalk`](https://www.ada.lk/sports/දුනිත්ගේ-පියා-ජීවිතක්ෂයට/9-418596) · `si`
-
-Suranga Welleage, the father of Sri Lanka's three-genuine, died due to a similar heart attack last night. The Sri Lankan team and the Afghanistan played the Asian Cup played yesterday and the Afghanistan.
-
-22 year old Vellala's death learned after the death of his father, and Sri Lanka won six wickets and eight fours to qualify for the Super Forecast. As soon as the match was over, he left for Sri Lanka.
-
-Due to this loss, the uncertainty of games in the Asia Cup, the World Cup, has become designated. Sri Lanka has at least three other matches to play at least three other matches: on September 23, against Bangladesh on September 23 and against India on September 26.
-
-The Asia Cup, which was held on Thursday as the Asia Cup, between Sri Lanka and Afghanistan, is only the first match of the tournament.
-
-◼️
-
-[Data](articles/aaf4b4d0.json)
-
-[Extended Data](ext_articles/aaf4b4d0.ext.json)
-
----
-
-### Nobility of professions is  being traded for silver and gold
-
-*2025-09-19 05:55:30* · [`dailyftlk`](https://www.ft.lk/columns/Nobility-of-professions-is-being-traded-for-silver-and-gold/4-781887) · `en`
-
-While the profit motive is a necessary component of a functional economic system, its overemphasis poses a grave threat to the concept of professionalism
-
-Despite the general acceptance of a ‘stakeholder model’ of governance replete with Corporate Social Responsibility (CSR), Environmental, Social and Governance (ESG) frameworks and Inclusion, Diversity, Equity and Access (IDEA) thinking, the modern world is still, primarily, structured around a seemingly unassailable principle of the pursuit of profit much in keeping with Milton Friedman’s assertion that “The business of business is business,” where he argued that a corporation’s sole social responsibility is to maximise profits for its shareholders while operating within the bounds of the law and basic societal ethics.
-
-...
-
-[Data](articles/ebbc8663.json)
-
-[Extended Data](ext_articles/ebbc8663.ext.json)
-
----
-
-### Cricketer Dunit Vellalake's father Mines Vellalake has passed away
-
-*2025-09-19 05:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225467) · `ta`
-
-Sri Lankan cricket team young player Dunit Vellalake's father Muna Vellalake has passed away.
-
-The death tunnel is 54 years old. He lived in harmony with his family and died of a sudden heart attack.
-
-In this case, Sri Lankan cricket fans have expressed their deepest condolences to Dunit Vellalake and his family through social media.
-
-◼️
-
-[Data](articles/5c6d6a03.json)
-
-[Extended Data](ext_articles/5c6d6a03.ext.json)
-
----
-
-### DISRUPT ASIA 2025 “Main Conference headed by the president
-
-*2025-09-19 05:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225468) · `ta`
-
-The leading new entrepreneurs' conference and the new event, "Disrupt Asia 2025" main conference held at the Chinaman Life Hotel in Colombo on Thursday (18). President Anura Kumara Dissanayake was the chief guest at the inauguration.
-
-The Disrupt Asia 2025, which is participating in traders and investors from about 20 countries, will commence on Wednesday (17) and will be held till September 20.
-
-The purpose of this conference is to establish Sri Lanka as the emerging innovation center in South Asia by attracting international attention.. This is expected to be a great support for the government's plan to build a digital economy by promoting new entrepreneurship and innovations.
-
-At the inaugural session of the main conference held today, the President also visited the new entrepreneurs exhibition.
-
-...
-
-[Data](articles/bef89562.json)
-
-[Extended Data](ext_articles/bef89562.ext.json)
 
 ---

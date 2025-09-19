@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 22:11:26**
+As of **2025-09-19 23:06:25**
 
 ## Newspaper Stats
 
-*Scraped **76,996** Articles*
+*Scraped **76,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adalk | 7,489
 adaderanalk | 9,943
 tamilmirrorlk | 11,576
 virakesarilk | 12,515
-adaderanasinhalalk | 13,437
+adaderanasinhalalk | 13,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,950 (98.6%) of 76,996 articles have been extended.
+76,000 (98.7%) of 76,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
+
+### Multiple medical clinic from the army
+
+*2025-09-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214775) · `si`
+
+The 7th phase of the multi-medical clinics of the army personnel was held at the Sri Lanka Army Martial Training School in Ampara today (19).
+
+More than 1250, including the war heroes of the war heroes who died due to war heroes and expedited and active reasons have been attended by the heroes of the Ampara and Batticaloa Districts.
+
+The Camp was organized under the supervision of the Board of Directors of the War Heroes and Rehabilitation Board.
+
+Steps have been taken to identify and address medical issues through this medical camp, professional health consultation, mental health consultation, dental care and surgical equipment, as well as other mobile contact clinics, artist clinics, or other services.
+
+The Ranachitha war heroes donated wheelchairs, garbage, spectacles and surgeons.
+
+The Ranachitha war heroes donated wheelchairs, garbage, spectacles and necessary surgical instruments.
+
+...
+
+[Data](articles/31af26e0.json)
+
+[Extended Data](ext_articles/31af26e0.ext.json)
+
+---
+
+### A drone attack per church in Sudan
+
+*2025-09-19 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214774) · `si`
+
+The mosque in Darfor area in Sudan has been attacked by drones.
+
+Foreign media reports that more than 70 people died due to this attack.
+
+The group has not taken responsibility for the attack, which is responsible for the drone team to attack this drone.
+
+◼️
+
+[Data](articles/94666226.json)
+
+[Extended Data](ext_articles/94666226.ext.json)
+
+---
 
 ### Dan's murder shooter and allowed to resign
 
@@ -93,6 +135,8 @@ Wellalage will be available for selection as Sri Lanka prepare to face Banglades
 ◼️
 
 [Data](articles/b89ef982.json)
+
+[Extended Data](ext_articles/b89ef982.ext.json)
 
 ---
 
@@ -2049,37 +2093,5 @@ Meanwhile, 50 drunken drivers and 20 persons have been arrested in connection wi
 [Data](articles/55e78ed2.json)
 
 [Extended Data](ext_articles/55e78ed2.ext.json)
-
----
-
-### Ali Roshan 15 years in prison
-
-*2025-09-19 10:49:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-ரொஷனுக்கு-15-ஆண்டுகள்-சிறை/175-364902) · `ta`
-
-Niraj Roshan, also known as Ali Roshan, has been sentenced to 15 years in prison for allegedly accused of allegations of elephant without a license.
-
-The sentence of three judges of the Colombo High Court today announced the sentence.
-
-◼️
-
-[Data](articles/135c3558.json)
-
-[Extended Data](ext_articles/135c3558.ext.json)
-
----
-
-### Ali Roshan sentenced 15 years in prison
-
-*2025-09-19 10:49:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலி-ரொஷனுக்கு-15-ஆண்டுகள்-சிறைத்தண்டனை/175-364902) · `ta`
-
-Niraj Roshan, also known as Ali Roshan, has been sentenced to 15 years in prison for allegedly accused of allegations of elephant without a license.
-
-The sentence of three judges of the Colombo High Court today announced the sentence.
-
-◼️
-
-[Data](articles/ca73a028.json)
-
-[Extended Data](ext_articles/ca73a028.ext.json)
 
 ---

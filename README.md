@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 21:07:09**
+As of **2025-09-19 20:55:48**
 
 ## Newspaper Stats
 
-*Scraped **76,992** Articles*
+*Scraped **76,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,40 @@ islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,488
-adaderanalk | 9,942
+adaderanalk | 9,940
 tamilmirrorlk | 11,576
-virakesarilk | 12,514
+virakesarilk | 12,513
 adaderanasinhalalk | 13,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,918 (98.6%) of 76,992 articles have been extended.
+75,915 (98.6%) of 76,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### Report of Mithanian chemical samples
+### மித்தேனிய இரசாயன மாதிரிகளின் அறிக்கை வெளியானது
 
 *2025-09-19 20:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தேனிய-இரசாயன-மாதிரிகளின்-அறிக்கை-வெளியானது/175-364927) · `ta`
 
-A report by the state analyst on the recently discovered chemical samples in the Mittenia area has been revealed.
+மித்தேனிய பகுதியில் சமீபத்தில் கண்டுபிடிக்கப்பட்ட இரசாயன மாதிரிகள் தொடர்பான அரச பகுப்பாய்வாளரின் அறிக்கை வெளியாகி உள்ளது.
 
-According to the report, they have been confirmed as chemicals used to produce ice, police said.
+இந்த அறிக்கையின்படி, அவை ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனங்கள் என உறுதிப்படுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-On September 6, the North North North Crime Division recovered about 50,000 kilograms of chemicals allegedly used to produce ice drugs in the country.
+செப்டம்பர் 6 ஆம் திகதி, கெஹெல்பத்தர பத்மே மற்றும் குடு நிலங்க ஆகியவர்கள் இந்நாட்டில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாகக் கூறப்படும் சுமார் 50,000 கிலோகிராம் இரசாயனங்களை மித்தேனிய பகுதியிலிருந்து மேற்கு வடக்கு குற்றப்பிரிவு மீட்டது.
 
-The raid was carried out on the basis of information received from the North North Crime Branch to the Bego Saman, who was arrested in Indonesia.
+இந்தோனேசியாவில் கைது செய்யப்பட்ட பெகோ சமனிடம் மேற்கு வடக்கு குற்றப்பிரிவு நடத்திய விசாரணையில் கிடைத்த தகவல்களின் அடிப்படையில் இந்த சுற்றிவளைப்பு மேற்கொள்ளப்பட்டது.
 
-Subsequently, the chemical samples were sent to the National Risk Operations Control Board and the Department of State Analyst for inspection.
+பின்னர், குறித்த இரசாயன மாதிரிகள் தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டு சபை மற்றும் அரச பகுப்பாய்வாளர் திணைக்களத்திற்கு ஆய்வுக்காக அனுப்பப்பட்டன.
 
-In the Report of the National Risk Operations Control Board, 17 of the 20 samples confirmed the presence of chemicals used to make ice.
-
-In this case, the Department of State Analyst's Department was handed over to the police today (19).  R
-
-◼️
-
-[Data](articles/07c51fde.json)
-
-[Extended Data](ext_articles/07c51fde.ext.json)
-
----
-
-### “Through digitalisation, we can progress with developed nations” – President
-
-*2025-09-19 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112685/through-digitalisation-we-can-progress-with-developed-nations-president-) · `en`
-
-President Anura Kumara Dissanayake stated that in order to advance the country economically, it is essential to ensure efficiency and transparency across all sectors. He further noted that the current government’s digitalisation programme is designed to elevate Sri Lanka not only economically but also socially.
-
-The President made these remarks today (19), while participating in the ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, to launch the National Cyber Protection Strategy (2025–2029) and to declare open the National Cyber Security Operations Centre (NCSOC), the Presidential Media Division (PMD) said.
+தேசிய அபாயகர ஔடதங்கள் கட்டுப்பாட்டு சபையின் அறிக்கையில், 20 மாதிரிகளில் 17 மாதிரிகளில் ஐஸ் போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனங்கள் இருப்பது உறுதிப்படுத்தப்பட்டது.
 
 ...
 
-[Data](articles/17e1ebfb.json)
+[Data](articles/07c51fde.json)
 
 ---
 
@@ -114,22 +96,6 @@ In 2019, Rawana - 1 was created as the first nano-1 satellite in Sri Lanka, whil
 
 ---
 
-### சொத்து பிரகடனத்தை டிஜிட்டல் வடிவத்தில் சமர்ப்பிப்பதற்கு கால அவகாசம் கோரியுள்ள சஜித்
-
-*2025-09-19 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225548) · `ta`
-
-எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தனது சொத்துக்கள் மற்றும் பொறுப்புக்கள் பிரகடனத்தை டிஜிட்டல் வடிவத்தில் சமர்ப்பிப்பதற்கு கால அவகாசம் கோரியுள்ளார். இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவிடம் கடிதம் மூலம் எதிர்க்கட்சி தலைவரால் இந்த கோரிக்கை விடுக்கப்பட்டுள்ளது.
-
-எதிர்க்கட்சி தலைவர் குறித்த விபரங்களை கடந்த ஏப்ரல் 23ஆம் திகதி பாராளுமன்ற செயலாளர் நாயகத்திடம் சமர்ப்பித்துள்ளதாக ஐக்கிய மக்கள் சக்தி தெரிவித்திருந்தது. பாராளுமன்ற செயலாளர் நாயகத்தினால் அந்த விபரங்கள் இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவுக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
-
-எவ்வாறிருப்பினும் அவற்றை டிஜிட்டல் வடிவத்தில் சமர்ப்பிக்குமாறு எதிர்க்கட்சி தலைவருக்கு அறிவிக்கப்பட்டுள்ளது. அதற்கமையவே அதற்காக கால அவகாசத்தை வழங்குமாறு எதிர்க்கட்சி தலைவர் இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/20199200.json)
-
----
-
 ### 7th Annual Medical Camp organized by the Army in Ampara, Batticaloa
 
 *2025-09-19 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225547) · `ta`
@@ -147,24 +113,6 @@ Apart from the problems of the dead warriors, the retired soldiers and their clo
 [Data](articles/715d56d9.json)
 
 [Extended Data](ext_articles/715d56d9.ext.json)
-
----
-
-### Govt Analyst report confirms samples from Middeniya contained chemicals used in making ‘Ice’
-
-*2025-09-19 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112684/govt-analyst-report-confirms-samples-from-middeniya-contained-chemicals-used-in-making-ice) · `en`
-
-The Government Analyst’s Department has informed Sri Lanka Police that the samples obtained from Middeniya have been confirmed to contain chemicals used in the production of Crystal Methamphetamine, also known as ‘Ice’, sources told Ada Derana.
-
-The Government Analyst’s Department has handed over its report following the tests carried out on the samples obtained from the chemicals recently found in a property in the Middeniya area.
-
-Police sources said that according to the relevant report, they have been confirmed to be chemicals used to manufacture the drug ‘Ice’.
-
-The Western Province North Crime Division recovered about 50,000 kilograms of chemicals from the Middeniya area on September 6, which were suspected to be used to manufacture ‘Ice” drugs in the country by major drug traffickers known as ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’.
-
-...
-
-[Data](articles/074878fd.json)
 
 ---
 
@@ -2063,5 +2011,69 @@ The remains are placed at the Vathupitiwala hospital morgue and the Mirigama pol
 [Data](articles/80edc713.json)
 
 [Extended Data](ext_articles/80edc713.ext.json)
+
+---
+
+### 6.1-magnitude quake hits Indonesia’s Central Papua: USGS
+
+*2025-09-19 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112666/61-magnitude-quake-hits-indonesias-central-papua-usgs) · `en`
+
+A shallow earthquake of magnitude 6.1 struck Indonesia’s Central Papua province on Friday (Sep 19), the US Geological Survey (USGS) reported, with no initial reports of casualties.
+
+The USGS said the earthquake’s epicentre was located 28km south of the town of Nabire in the Central Papua province, which is on the Indonesian half of the large Pacific island shared with Papua New Guinea.
+
+Abdul Muhari, a spokesman for the national disaster mitigation agency, said the quake had damaged several public facilities but there were no reports of casualties.
+
+“Initial monitoring also reported broken glass in an airport, collapsed ceilings in a regent’s office, a damaged bridge, and power and telecommunication networks cut off,” Abdul said in a statement.
+
+“The earthquake struck at around 3am (2am, Singapore time). I was sleeping soundly but it was getting bigger, so I ran outside with other family members,” 37-year-old Cicilia Mamman told AFP.
+
+...
+
+[Data](articles/874e7e01.json)
+
+[Extended Data](ext_articles/874e7e01.ext.json)
+
+---
+
+### 2026 budget proposal will lay the foundation for the development of the country - Anil Jayantha Fernando
+
+*2025-09-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225480) · `ta`
+
+Deputy Minister of Labor and Economic Development Anil Jayantha Fernando said the budget proposal for the upcoming 2026 will be the foundation for the development of the country.
+
+He emphasized that the government wants to use the available financial resources for projects aimed at attracting investment and improving the infrastructure.
+
+Anil Jayantha Fernando said this while commenting on the 2026 budget proposal.
+
+◼️
+
+[Data](articles/c2589d84.json)
+
+[Extended Data](ext_articles/c2589d84.ext.json)
+
+---
+
+### Cardiac - Services of the Blood Tuberculosis Laboratory begin in Vavuniya!
+
+*2025-09-19 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225474) · `ta`
+
+The Card and Blood Tuberculosis Laboratory at the Vavuniya District General Hospital has been in operation from today.
+
+The heart and blood vessel laboratory, which has been closed for more than a year at the Vavuniya General Hospital, has launched its operation today.
+
+Due to the shortage of human resources, the heart and blood vessel laboratory was built with the financial support of the Netherlands.
+
+At this juncture, the laboratory opened by former President Ranil Wickremesinghe last year did not work with doctors and various shortcomings.
+
+As a result, the people of Vavuniya and its adjoining areas had to go to the Jaffna Teaching Hospital.
+
+Realizing the situation, the Ministry of Health, a strategic act to resolve it, was trained abroad and returned to the country.. After appointing Vaikunthan to the Vavuniya District General Hospital, he was in full swing to launch a heart and blood vessel laboratory.
+
+...
+
+[Data](articles/570f2819.json)
+
+[Extended Data](ext_articles/570f2819.ext.json)
 
 ---

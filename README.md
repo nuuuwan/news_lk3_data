@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 20:21:08**
+As of **2025-09-19 20:08:54**
 
 ## Newspaper Stats
 
@@ -26,37 +26,31 @@ adaderanasinhalalk | 13,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,907 (98.6%) of 76,987 articles have been extended.
+75,892 (98.6%) of 76,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### The third Nano, who produced in Sri Lankan engineering, orbitals to the third nano
+### මෙරට ඉංජිනේරු දැනුමින් නිපදවූ  තෙවැනි නැනෝ චන්ද්‍රිකාවත් කක්ෂගත කෙරේ
 
 *2025-09-19 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214771) · `si`
 
-The Third Nano, the technical contributor to the technical contributor to the technical contributor, was orbit to today.
+ශ්‍රී ලාංකික ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නිර්මාණය වූ තුන්වැනි නැනෝ චන්ද්‍රිකාව අද(19) පස්වරු 2.20ට කක්ෂගත කෙරිණි.
 
-Moratuwa Arthur C. Clarke stated that this research satellite is to be carried out primarily by the Satellite, designated as 'Birds - X Dragonflei'.
+මොරටුව ආතර් සී. ක්ලාක් ආයතනය ප්‍රකාශ කළේ, ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙස නම් කර ඇති මෙම පර්යේෂණ චන්ද්‍රිකාව මගින් මූලික වශයෙන් අභ්‍යවකාශ පර්යේෂණ මෙහෙයුම් තුනක් සිදුකිරීමට නියමිත බවය.
 
-Sri Lanka has no capital costs for this project.
+මෙම ව්‍යාපෘතිය සඳහා ශ්‍රී ලංකාව කිසිදු ප්‍රාග්ධන පිරිවැයක් නොදැරීම විශේෂත්වයකි.
 
-From the 2019 Engineers of the country, three nano satellites were created by the third Nano Satend, "Beers - X Dragonfly."
+2019 සිට මෙරට ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නැනෝ චන්ද්‍රිකා තුනක් නිර්මාණය වී ඇති අතර තෙවැනි නැනෝ චන්ද්‍රිකාව නම් කෙරුණේ ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙසය.
 
-The satellite was taken to the International Space Corporation by NASA on August 24.
+එම චන්ද්‍රිකාව පසුගිය අගෝස්තු 24 වැනිදා නාසා ආයතනය විසින් දියත් කරනු ලැබූ ස්පේස් එක්ස් - 33 රොකට් මෙහෙයුම මගින් ජාත්‍යන්තර අභ්‍යවකාශ ආයතනය වෙත රැගෙන ගියේය.
 
-The project was launched by the Japanese Space Research Institute and the Digital Radio Communication Institute.
-
-Today, Birds - X Dragonflee will mark another unique victory on the Space Technology Development Travel in Sri Lanka.
-
-As well as two satellites were orbiting the country in the country, as well as the technical contributor to the technical contributor to the technical contribution of the technical contribution.
+ජපන් අභ්‍යවකාශ පර්යේෂණ ආයතනය හා ඩිජිටල් රේඩියෝ සන්නිවේදන ආයතනය යන ජාත්‍යන්තර ආයතන කිහිපයක සහයෝගීතාවය සහිතව, ආතර් සී ක්ලාක් මධ්‍යස්ථානය සහ ජපානයේ කියුෂූ තාක්ෂණ ආයතනය මගින් මෙම ව්‍යාපෘතිය දියත් කෙරිණි.
 
 ...
 
 [Data](articles/38f7f374.json)
-
-[Extended Data](ext_articles/38f7f374.ext.json)
 
 ---
 

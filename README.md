@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 17:41:47**
+As of **2025-09-19 16:54:16**
 
 ## Newspaper Stats
 
-*Scraped **76,971** Articles*
+*Scraped **76,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,157 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,660
+economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,485
-adaderanalk | 9,938
+adaderanalk | 9,935
 tamilmirrorlk | 11,572
-virakesarilk | 12,510
-adaderanasinhalalk | 13,430
+virakesarilk | 12,509
+adaderanasinhalalk | 13,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,754 (98.4%) of 76,971 articles have been extended.
+75,723 (98.4%) of 76,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා අමෙරිකාවේ නිල සංචාරයකට සැරසෙයි
-
-*2025-09-19 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214766) · `si`
-
-ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය ඇන්තනී ඇල්බනීස් අමෙරිකාවේ නිල සංචාරයක නිරතවීමට නියමිතව තිබේ.
-
-නිව්යොක්හි පැවැත්වෙන එක්සත් ජාතීන්ගේ මහා මණ්ඩල රැස්වීම සඳහා සහභාගීවීමේ මූලික අරමුණින් මෙම සංචාරය සිදුකරන ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා, සංචාරය අතරතුර අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමඟ නිල හමුවකට ද සහභාගී වීමට සැලසුම් කර ඇති බව සඳහන් වේ.
-
-ඒ අනුව ලබන අඟහරුවාදා ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය ඇන්තනී ඇල්බනීස් සහ අමෙරිකානු ජනාධිපතිවරයා අතර නිල හමුව පැවැත්වෙනු ඇති.
-
-මේ සම්බන්ධයෙන් ඔස්ට්‍රේලියානු රජය නිල ප්‍රකාශයක් සිදුකර නොමැති වුවද ට්‍රම්ප් ජනාධිපතිවරයා ප්‍රකාශ කර ඇත්තේ තමන් ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා හමුවීමේ අපේක්ෂාවෙන් පසුවන බවය.
-
-◼️
-
-[Data](articles/50b2ee76.json)
-
----
-
-### A large quantity of weapons found in the house of a deceased lawyer
-
-*2025-09-19 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214765) · `si`
-
-Ratnapura police officers have been able to find a number of firearms in Sri Lanka and the home of a 73-year-old lawmaway, which is living alone in the home of a house in the Goluvilawatta area in Goluwilawatta, Ratnapura.
-
-The police have then informed a team of police officers on the 17th on the 17th of this month on information received by the Ratnapura Divisional Police Senior Superintendent Kapila Premadasa.
-
-Accordingly, the team of officers have found many firearar portarust and biological exchanges when examining the house of lawyer.
-
-The Ratnapura Police said that a 12-bore gun, a 12-bore gun, 2 barrels, 11 Barrels and 16 bullets used for guns, including 440 culverts and 16 borrows.
-
-SSP Prasanna Sumanasiri said that the investigations are being carried out as well as other firearms in addition to these firearms as well as other firearms in addition to these firearms.
-
-...
-
-[Data](articles/7dd51c5a.json)
-
-[Extended Data](ext_articles/7dd51c5a.ext.json)
-
----
-
-### Women written in Afghan University bans Talibanks
-
-*2025-09-19 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214764) · `si`
-
-Foreign media reports that the Talaban's government has been named as part of a new ban.
-
-The ban was banned in relation to the theme "Shariah and Taliban Policy" which included a number of topics such as the "Protection of Chemical Laboratory".
-
-After this order came to power four years ago, the Taliban is a new limit of the Taliban.
-
-This week alone, about 10 provinces have banned the "Fiber Optic Internet" on orders of the Taliban's supreme leader's orders.
-
-These Taliban rules are particularly distressed, women and girls are particularly disturbed and are allowed to access the sixth grade.
-
-There are also 18 university subjects and is the main goal of women.
-
-That is, six of the 18 subjects are banned, and the role of women and women in communalism, as well as women's social science, as well as human rights and sexual violence.
-
-...
-
-[Data](articles/e23e45b0.json)
-
-[Extended Data](ext_articles/e23e45b0.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-19 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-241278/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/50 to the US dollar on Friday, weaker from 302.05/18 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.28/33 percent, up from 8.20/30 percent.
-
-A bond maturing on 15.09.2027 closed at 8.65/73 percent, down from 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/54 percent, down from 9.51/54 percent.
-
-A bond maturing on 01.07.2030 closed at 9.70/75 percent, up from 9.70/74 percent.
-
-A bond maturing on 15.03.2031 closed at 10.00/05 percent, up from 9.98/10.05 percent.
-
-A bond maturing on 01.10.2032 closed flat at 10.40/45 percent.
-
-A bond maturing on 01.11.2033 closed at 10.65/75 percent, from 10.68/74 percent. (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/d239203b.json)
-
-[Extended Data](ext_articles/d239203b.ext.json)
-
----
-
-### Calling applications for the GCE Ordinary Level Examination
-
-*2025-09-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214763) · `si`
-
-The Ministry of Education has issued a special announcement that applications for the GCE Ordinary Level Examination will be held on the Ordinary Level examination.
-
-Accordingly, all school candidates should submit applications online by the principal of their school and private candidates as per personally, relevant instructions.
-
-Private applicants should be used for the GCE (O / L) examination.
-
-Private candidates who have no national identity card should be registered with their guardian (mother or father) and submit applications using the National Identity Card.
-
-According to the statement, the official website of the Department of Examinations Department is the official website of the Department of Examinations www.doenets.lk or www.doeees.lk should be read and submit applications.
-
-◼️
-
-[Data](articles/01b44651.json)
-
-[Extended Data](ext_articles/01b44651.ext.json)
-
----
-
-### ASPI closes at new all-time high
-
-*2025-09-19 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112681/aspi-closes-at-new-all-time-high-) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at a new all-time high after making significant gains today.
-
-Accordingly, the ASPI rose by 119.83 points or 0.57% to close at 21,085.09 points.
-
-◼️
-
-[Data](articles/dccecb6c.json)
-
-[Extended Data](ext_articles/dccecb6c.ext.json)
-
----
 
 ### Dane Priyasad massacre: gunman arrested
 
@@ -181,30 +49,6 @@ They belong to the Kagal and Welioia areas. According to police, one of the susp
 [Data](articles/d2b700d8.json)
 
 [Extended Data](ext_articles/d2b700d8.ext.json)
-
----
-
-### Police submit investigation report on ‘Kehelbaddara Padme’ to court
-
-*2025-09-19 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112680/police-submit-investigation-report-on-kehelbaddara-padme-to-court) · `en`
-
-The police submitted an investigation report today (19) to the Colombo Magistrate’s Court, regarding notorious organised criminal Mandinu Padmasiri Perera, alias ‘Kehelbaddara Padme’, who was recently arrested in Indonesia, brought back to Sri Lanka, and is currently in the custody of the Criminal Investigation Department (CID).
-
-The report was presented before Colombo Additional Magistrate Lahiru Silva, said Ada Derana reporter.
-
-While submitting the report, the CID stated that the suspect is being detained under detention orders and that investigations are ongoing.
-
-The police further noted that inquiries are continuing to determine whether the suspect was involved in the murder of notorious underworld figure and drug trafficker ‘Ganemulla Sanjeewa’.
-
-The magistrate inquired whether the suspect had been observed by a magistrate while in custody.
-
-In response, the investigating officers confirmed that the Fort Magistrate has conducted the required observation, said Ada Derana reporter.
-
-...
-
-[Data](articles/83d25cfe.json)
-
-[Extended Data](ext_articles/83d25cfe.ext.json)
 
 ---
 
@@ -244,46 +88,6 @@ The Meteorology Department requests the people to take necessary steps to minimi
 
 ---
 
-### Motorcycle - bus collision; One kills!
-
-*2025-09-19 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225507) · `ta`
-
-Homagama police said that one person was killed in an accident in the Kendalanda area of ​​the Homagama Police Division.
-
-The accident occurred when a motorcycle traveling from Colombo to Avissawel was hit by a bus and collided with a bus.
-
-In the accident, the motorcycle driver died after being injured and admitted to the hospital.
-
-◼️
-
-[Data](articles/2dc58bff.json)
-
-[Extended Data](ext_articles/2dc58bff.ext.json)
-
----
-
-### Petition seeking protection for ‘Panadura Nilanga’ fixed for consideration
-
-*2025-09-19 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112679/petition-seeking-protection-for-panadura-nilanga-fixed-for-consideration) · `en`
-
-The Court of Appeal has ordered that a writ petition filed seeking directives to ensure the safety of alleged underworld figure Nilanga Sampath Silva, alias ‘Panadura Nilanga’, be taken up for consideration on September 26.
-
-The petitioner, the suspect’s mother, filed the application requesting an order to safeguard her son, who was recently arrested in Indonesia, brought back to Sri Lanka, and is currently being held in the custody of the Criminal Investigation Department (CID).
-
-The case was called today before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando, said Ada Derana reporter.
-
-After hearing facts from counsel for the petitioner and Additional Solicitor General Shanil Kularatne, appearing on behalf of the Attorney General, the court directed the case to be reconsidered on September 26.
-
-The petition names the Director of the CID, the Inspector General of Police, the Attorney General, and several others as respondents.
-
-...
-
-[Data](articles/60429b55.json)
-
-[Extended Data](ext_articles/60429b55.ext.json)
-
----
-
 ### Police suffered a special report on Kehelbaradara Padma
 
 *2025-09-19 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214760) · `si`
@@ -307,30 +111,6 @@ Accordingly, the Additional Magistrate also ordered the investigation to investi
 [Data](articles/869af459.json)
 
 [Extended Data](ext_articles/869af459.ext.json)
-
----
-
-### Sri Lanka stocks close up, led by conglomerates, Sierra Cables
-
-*2025-09-19 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-led-by-conglomerates-sierra-cables-241251/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, with Sierra Cables and diversified conglomerates leading the charge, data on its site showed.
-
-The ASPI was up 0.57 percent, or 119.83 points, at 21,085. And the S&P SL20 closed up 0.42 percent, or 24.86 points, at 5,996.
-
-Market turnover was 6.5 billion rupees. Trading in Sierra Cables contributed 1.2 billion rupees.
-
-The top contributors to the All Share Price Index were John Keells Holdings (up 30 cents at 22.80 rupees), Hayleys (up 3 rupees at 178.50), Sierra Cables (up 3.30 rupees at 34.40), Melstacorp (up 1.50 rupees at 161) and Aitken Spence (up 3.50 rupees at 159.75).
-
-Other top turnover generators were LOLC Holdings, Asia Asset Finance, and Cargills Bank.
-
-Top foreign buying was seen in Pan Asia Banking Coloration, First Capital Holdings, Seylan Bank non-voting, First Capital Treasuries, HNB Assurance and Tess Agro.
-
-...
-
-[Data](articles/bafb70a0.json)
-
-[Extended Data](ext_articles/bafb70a0.ext.json)
 
 ---
 
@@ -692,30 +472,6 @@ Special Investigation Unit of Police Officers at the Headquarters of the Sri Lan
 
 ---
 
-### Sri Lanka appropriation bill 2026 sets borrowing limit at Rs3,800bn
-
-*2025-09-19 13:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-appropriation-bill-2026-sets-borrowing-limit-at-rs3800bn-241243/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2026 appropriation bill, gazetted this week allocating spending for each ministry, has set a borrowing limit of 3,800 billion rupees.
-
-The borrowing includes roll-overs and does not correspond to the new financing (deficit) that is shown in the budget presentation.
-
-The presentation of the Appropriation Bill is considered the first reading of the budget.
-
-The first reading of the Appropriation Bill will be presented to Parliament on September 26.
-
-In his capacity as the Minister of Finance, President Anura Kumara Dissanayake will present the second reading of the Appropriation Bill (the Budget Speech) on November 7, and six days have been allocated, from November 8 to 14, for the second reading debate.
-
-The bill set out 2,693.5 billion rupees as current spending and 1,852 as capital expenditure. The capex also does not conform to the capex in the formal budget presentation.
-
-...
-
-[Data](articles/7509332e.json)
-
-[Extended Data](ext_articles/7509332e.ext.json)
-
----
-
 ### Ali Rooson sentenced to 15 years of serious work
 
 *2025-09-19 13:48:25* · [`adalk`](https://www.ada.lk/breaking_news/අලි-රොෂාන්ට-වසර-15ක-බරපතල-වැඩ-සහිත-සිර-දඩුවම්/11-418605) · `si`
@@ -869,26 +625,6 @@ Posing as Tennakoon Arachchige Manodya Lakmini Tennakoon using a forged NIC
 [Data](articles/a3bf809d.json)
 
 [Extended Data](ext_articles/a3bf809d.ext.json)
-
----
-
-### Sri Lanka’s Union Bank to raise 3bn from debentures
-
-*2025-09-19 13:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-union-bank-to-raise-3bn-from-debentures-241234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Union Bank of Colombo said it plans a debenture sale to raise 3 billion rupees.
-
-30 million Basel III complaint, tier 2, listed, rated, unsecured, subordinated, redeemable, high yield debentures with a nonviability conversion will be offered at 100 rupees each.
-
-The size, tenure/ maturity period (minimum of five years), coupon rate/s, frequency of coupon payments and other relevant terms will be determined by the Board and disclosed prior to the opening of the issue,” the bank said.
-
-The issue is subject to regulator and shareholder approval. (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/d5f1ee95.json)
-
-[Extended Data](ext_articles/d5f1ee95.ext.json)
 
 ---
 
@@ -1143,26 +879,6 @@ The motorcycle used to carry the suspect cannabis has also been confiscated by t
 [Data](articles/31e3b2a3.json)
 
 [Extended Data](ext_articles/31e3b2a3.ext.json)
-
----
-
-### Sri Lanka EDB, German IPD sign deal to promote digital products and services sector
-
-*2025-09-19 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-edb-german-ipd-sign-deal-to-promote-digital-products-and-services-sector-241217/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Export Development Board (EDB) and Germany’s Import Promotion Desk (IPD) will sign a cooperation agreement which will promote the island nation’s digital products and services sector and natural ingredients and processed foods in Europe.
-
-“Through this cooperation, we aim to provide long-term, sustainable market access opportunities for Sri Lankan companies in Europe, while also strengthening EDB’s role as a key export promotion agency,” IPD Head Julia Bellinghausen was quoted in an EDB statement.
-
-“Sri Lanka has dynamic SMEs and promising export potential,” Bellinghausen, who visited Colombo from September 8–12, said.
-
-The agreement will facilitate B2B matchmaking sessions, sourcing missions and greater participation in leading international trade fairs.
-
-...
-
-[Data](articles/30fcb9e1.json)
-
-[Extended Data](ext_articles/30fcb9e1.ext.json)
 
 ---
 
@@ -1692,40 +1408,6 @@ Realizing the situation, the Ministry of Health, a strategic act to resolve it, 
 
 ---
 
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-19 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-241198/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.10/18 to the US dollar on Friday, weaker from 302.05/18 the previous day, while bond yields opened steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted flat at 8.20/30 percent.
-
-A bond maturing on 15.09.2027 was quoted flat at 8.65/75 percent.
-
-A bond maturing on 15.03.2028 was quoted at 8.90/9.00 percent.
-
-A bond maturing on 15.06.2029 was quoted at 9.42/47 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.52/54 percent, down from 9.51/54 percent.
-
-A bond maturing on 15.05.2030 was quoted at 9.65/69 percent.
-
-A bond maturing on 01.07.2030 was quoted flat at 9.70/74 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/05 percent, from 9.98/10.05 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.39/44 percent.
-
-The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.5000 selling; the British pound was 403.1323 buying, and 414.4941 selling, and the euro was 349.2170 buying, 360.5802 selling.
-
-...
-
-[Data](articles/b933eb85.json)
-
-[Extended Data](ext_articles/b933eb85.ext.json)
-
----
-
 ### Tunit Vellalake visits the country to attend the funeral of the father!
 
 *2025-09-19 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225471) · `ta`
@@ -2059,5 +1741,315 @@ The buildings in the area were shaken by this earthquake. Tsunami warning has a
 [Data](articles/fa0c5f79.json)
 
 [Extended Data](ext_articles/fa0c5f79.ext.json)
+
+---
+
+### Showers in many areas today
+
+*2025-09-19 08:11:02* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍රදේශවලට-වැසි/11-418599) · `si`
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North and Northwestern districts, the Met Department said.
+
+At the district of the district and the district in the Eastern and Uva provinces. Showers or thundershowers will occur at several places in the past 1.00.
+
+MM in Sabaragamuwa Provincial Councils and Galle and Matara districts. Heavy showers more than 50 will experience.
+
+◼️
+
+[Data](articles/ebb5c88e.json)
+
+[Extended Data](ext_articles/ebb5c88e.ext.json)
+
+---
+
+### Attention to the youth of committees and coordinating committees
+
+*2025-09-19 08:05:33* · [`adalk`](https://www.ada.lk/breaking_news/කාරක-සභා-සහ-සම්බන්ධීකරණ-කමිටුවල-තරුණයින්ට-අවස්ථාව-ලබාදීමට-අවධානය/11-418598) · `si`
+
+The attention of the youth parliamentary forum has focused on the youth of Parliamentary Committees and District Coordinating Committees.. It was when the forum met in Parliament following the chairman of the Deputy Minister Eranga Gunasekera.
+
+Accordingly, the Chairman of the forum said that the Speaker is expected to be discussed with the authorities including the Speaker.
+
+Special attention also paid special attention to the improvement of opportunities for the international youth and improving the onset of the forum.. The discussion also focused on matters, including the adjustment of youth drugs and preparation of entrepreneurship and industrial development.
+
+Accordingly, the member of the member of the member of the Member MPs were appointed to discuss the liquidation of youth drugs and the improvement of entrepreneurship and industries.
+
+◼️
+
+[Data](articles/1748797d.json)
+
+[Extended Data](ext_articles/1748797d.ext.json)
+
+---
+
+### US again vetoes UN Security Council Gaza ceasefire call
+
+*2025-09-19 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112660/us-again-vetoes-un-security-council-gaza-ceasefire-call) · `en`
+
+The United States on Thursday (Sep 18) again wielded its veto and thwarted a UN Security Council call for a ceasefire in Gaza, shielding its ally Israel from meaningful diplomatic pressure.
+
+The 14 other members of the Council backed the resolution, initiated in August in response to the UN’s official declaration of famine after nearly two years of Israel’s war on Hamas in the Palestinian territory.
+
+The vote came as Israeli tanks and jets pounded Gaza City, the target of a major new ground offensive, forcing Palestinians to flee south.
+
+The resolution text seen by AFP had demanded “an immediate, unconditional and permanent ceasefire in Gaza respected by all parties” as well as the immediate and unconditional release of hostages.
+
+The US has repeatedly rejected that approach multiple times, most recently in June when it used its veto to back Israel.
+
+...
+
+[Data](articles/14df9c69.json)
+
+[Extended Data](ext_articles/14df9c69.ext.json)
+
+---
+
+### 26-year-old youth dies after falling from bus in Kilinochchi
+
+*2025-09-19 07:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112659/26-year-old-youth-dies-after-falling-from-bus-in-kilinochchi) · `en`
+
+A tragic accident was reported in Kilinochchi last night (18), when a passenger died after falling from a bus traveling from Ariviyal Nagar towards Uruthirapuram, at the 8th Ela area on the Uruthtipuram Road within the Kilinochchi Police Division.
+
+The victim, a 26-year-old resident of Uruthirapuram, sustained critical injuries in the fall and was admitted to the Kilinochchi District General Hospital, where he later succumbed to his injuries, police said.
+
+According to police, the bus was transporting a group of garment factory employees at the time of the incident.
+
+The driver of the bus has been arrested in connection with the incident .
+
+Further investigations are being carried out by the Kilinochchi Police.
+
+◼️
+
+[Data](articles/8f34bc49.json)
+
+[Extended Data](ext_articles/8f34bc49.ext.json)
+
+---
+
+### Mohammad is sensitive to Duti's father's death
+
+*2025-09-19 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214739) · `si`
+
+Different Father's emergency, many cricketers in the world have expressed their companions around the world.
+
+Mohamed, who played an innation of Afghanistan and former Afghanistan, and yesterday (18).
+
+He has expressed his heartfelt condolences to the Dutan's family, making a photograph of his 'X' account and his father.
+
+"Duti Wellesage and his family expressed heartfelt condolences about the loss of his beloved Father. Strengthening Brother ".
+
+Bangladeshi 20 leader Litton Das, also said, "He begged from God to strengthen Dutit's family.
+
+Sorry to hear your father 54 years of age at 54 years of age. He is a former cricketer.
+
+God is asked to give him permanent peace and allow Dutit's family.
+
+In addition, bangladeshi players Taskin Ahmad, Taskin Ahmad, Taswon Rhooi, have expressed their condolences.
+
+Duti's father passed away yesterday (18) due to a heart attack, and at the time, the match was played against Afghanistan.
+
+◼️
+
+[Data](articles/ff143224.json)
+
+[Extended Data](ext_articles/ff143224.ext.json)
+
+---
+
+### Sri Lankan cricketer Dunith Wellalage’s father passes away
+
+*2025-09-19 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112658/sri-lankan-cricketer-dunith-wellalages-father-passes-away-) · `en`
+
+Suranga Wellalage, the father of Sri Lankan national team cricketer Dunith Wellalage, has passed away at the age of 54.
+
+Suranga Wellalage, who was a former cricketer himself, has reportedly died following a sudden heart attack.
+
+The Sri Lankan all-rounder’s  father had passed away on September 18, the same day his son featured in the Asia Cup Group B match against Afghanistan in Abu Dhabi.
+
+Dunith, 22, received the tragic news only after the match had ended, which Sri Lanka won by six wickets to progress unbeaten to the Super Four stage.
+
+Wellalage departed early this morning from Abu Dhabi, accompanied by team manager Mahinda Halangoda, according to reports.
+
+The heartbreaking news reached Wellalage inside the dressing room. Initially informed of a medical emergency at home, he was soon told of his father’s passing, reports said.
+
+Head Coach Sanath Jayasuriya, visibly emotional upon hearing the news, was seen in tears and later spent time comforting the young all-rounder.
+
+...
+
+[Data](articles/b1ec7214.json)
+
+[Extended Data](ext_articles/b1ec7214.ext.json)
+
+---
+
+### Youth dies after falling from bus
+
+*2025-09-19 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214738) · `si`
+
+Police said a passenger had fallen from a bus from Arabuppipuram from Urugu Peramuna Road in the Kilinochchi police division yesterday.
+
+The injured passenger has been admitted to the Kilinochchi hospital.
+
+The victim is 26 year old resident of Uruthupuram.
+
+The driver of the bus has been arrested while he was transporting a group of employees in a garment company.
+
+◼️
+
+[Data](articles/bad4d2fa.json)
+
+[Extended Data](ext_articles/bad4d2fa.ext.json)
+
+---
+
+### Strong quake off Russia Far East, tsunami alert lifted
+
+*2025-09-19 06:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112657/strong-quake-off-russia-far-east-tsunami-alert-lifted) · `en`
+
+A powerful 7.8-magnitude earthquake struck off the coast of Russia’s far eastern Kamchatka peninsula early Friday (Sep 19), rocking buildings and prompting authorities to issue a tsunami alert, later lifted.
+
+Videos posted on Russian social media showed furniture and light fixtures shaking in homes, while another showed a parked car rocking back and forth on a street.
+
+The quake struck 128km east of the region’s capital, Petropavlovsk-Kamchatsky, and at a shallow depth of 10km, the US Geological Survey (USGS) reported.
+
+The local branch of Russia’s state geophysical service gave a lower estimated magnitude of 7.4. It reported at least five aftershocks.
+
+The US Pacific Tsunami Warning Center issued an alert for possible hazardous waves along nearby coastlines, but said several hours later that the threat had passed.
+
+“This morning is once again testing the resilience of Kamchatka residents,” the governor of the region, Vladimir Solodov, said on Telegram.
+
+...
+
+[Data](articles/2c0e5dd4.json)
+
+[Extended Data](ext_articles/2c0e5dd4.ext.json)
+
+---
+
+### CaFFE launches ‘Janani’ in Matale district to enhance digital literacy of new women councillors
+
+*2025-09-19 06:43:47* · [`dailyftlk`](https://www.ft.lk/news/CaFFE-launches-Janani-in-Matale-district-to-enhance-digital-literacy-of-new-women-councillors/56-781898) · `en`
+
+The participants and resource persons at the launch of the ‘Janani’ program
+
+Commissioner General of Elections Saman Sri Ratnayake addressing the female councillors in the Matale district
+
+‘Janani’, the initiative conducted across 15 districts in 2023 and 2024 (prior to the local authorities poll) by the Campaign for Free and Fair Elections (CaFFE) to enhance the digital literacy of female councillors of local authorities and help them stay safe online was well accepted and a tremendous success.
+
+With a large number of first-time female councillors having been elected to local authorities at the last local authorities poll, CaFFE has heeded the many requests received and with the generous financial support of the Embassy of Switzerland in Sri Lanka will conduct the program in the 10 districts which were left out in the first phase.
+
+...
+
+[Data](articles/2936c9aa.json)
+
+[Extended Data](ext_articles/2936c9aa.ext.json)
+
+---
+
+### Australia’s new High Commissioner showcases Colombo, highlights deepening ties
+
+*2025-09-19 06:40:55* · [`dailyftlk`](https://www.ft.lk/news/Australia-s-new-High-Commissioner-showcases-Colombo-highlights-deepening-ties/56-781897) · `en`
+
+Australia’s newly appointed High Commissioner to Sri Lanka Matthew Duckworth chose an unconventional way to introduce himself to the country via an interesting video message highlighting trade, education, development, and people-to-people ties between the two nations.
+
+By hopping into a tuk-tuk and taking a tour of Colombo, Duckworth said in his first video message: “I’ve just arrived, and honestly, I’m thrilled to be here. I’ve always wanted to experience the energy, beauty, and rich culture of Sri Lanka first-hand,” adding that his focus will be on strengthening bilateral ties.
+
+At a bustling Colombo market, he pointed to trade as a cornerstone of the partnership.
+
+“Australians drink a lot of Ceylon Tea, but did you know Sri Lankans love Australian lentils? In fact, 85% of the lentils in this market are from Australia. We’re even helping Sri Lanka become a processing hub for the entire region,” he explained.
+
+...
+
+[Data](articles/bc0926a9.json)
+
+[Extended Data](ext_articles/bc0926a9.ext.json)
+
+---
+
+### Japanese Ambassador visits Tokyo Cement factory in Trincomalee
+
+*2025-09-19 06:39:08* · [`dailyftlk`](https://www.ft.lk/news/Japanese-Ambassador-visits-Tokyo-Cement-factory-in-Trincomalee/56-781896) · `en`
+
+Japanese Ambassador Akio Isomata and delegation at Tokyo Cement Jetty
+
+Japanese Ambassador Akio Isomata at the Tokyo Cement product testing laboratory
+
+Ambassador of Japan to Sri Lanka Akio Isomata, recently paid an official visit to the Tokyo Cement factory in Trincomalee, underscoring the long-standing friendship and economic cooperation between Japan and Sri Lanka.
+
+The Ambassador was accompanied by Finance Attaché Yukako Mizunuma, and Second Secretary of the Embassy of Japan Sachi Tanaka. The visit highlighted Tokyo Cement’s latest expansion project, which recently added one million metric tons to the company’s manufacturing capacity, a milestone in strengthening Sri Lanka’s economic expansion and industrial development.
+
+...
+
+[Data](articles/d6e896a4.json)
+
+[Extended Data](ext_articles/d6e896a4.ext.json)
+
+---
+
+### Fairly heavy rainfall expected in parts of the island today
+
+*2025-09-19 06:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112656/fairly-heavy-rainfall-expected-in-parts-of-the-island-today) · `en`
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Northern and North-western provinces and in Galle and Matara districts today (19), the Department of Meteorology said.
+
+Showers or thundershowers will occur at several places in Eastern and Uva provinces and in Hambantota district after 1.00 p.m.
+
+Fairly heavy falls above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in North-central and North-western provinces and in Trincomalee and Hambantota districts, the Met. Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/4c773f1f.json)
+
+[Extended Data](ext_articles/4c773f1f.ext.json)
+
+---
+
+### Thundershowers today
+
+*2025-09-19 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214736) · `si`
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North and Northwestern districts today (19) and in the Galle and Matara districts.
+
+The Department of Meteorology was released in the latest announcement this morning.
+
+Showers or thundershowers will occur at several places in the Eastern and Uva provinces and around 1 pm.
+
+Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Heavy rains can occur more than 50.
+
+Whakinitura-central and North Western provinces are sitting in the North-Central and North Western provinces and in the North Western provinces and in the North Western provinces.. (30-40) can have some stronger winds.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
+
+◼️
+
+[Data](articles/c7bbad95.json)
+
+[Extended Data](ext_articles/c7bbad95.ext.json)
+
+---
+
+### The year that was: thrashing  towards NPP’s thriving nation
+
+*2025-09-19 06:29:59* · [`dailyftlk`](https://www.ft.lk/columns/The-year-that-was-thrashing-towards-NPP-s-thriving-nation/4-781895) · `en`
+
+That the NPP-dominated House is starting to walk the talk on promises that its leader made on his remarkable campaign trail must redound to the credit of every one of those 159 National People’s Power MPs
+
+As the first year of a House commandeered by the NPP has come round, it is timely, appropriate and opportune to examine the track record of a tyro government in the 365 days just past.
+
+It is timely because the traditional honeymoon period, in which a people content from only recently casting the ballot cut a newbie administration a gracious slice of charitable slack, is now over.
+
+And there is no more appropriate a motive than keeping the NPP, led by the JVP, those vociferous critics of past regimes, accountable in just and similar vein.
+
+Also opportune because the National People’s Power produced a fait accompli to coincide with its first anniversary in parliament and in power to justify its erstwhile campaign trail promises.
+
+...
+
+[Data](articles/e4a546cf.json)
+
+[Extended Data](ext_articles/e4a546cf.ext.json)
 
 ---

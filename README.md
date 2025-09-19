@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 01:05:48**
+As of **2025-09-20 00:52:59**
 
 ## Newspaper Stats
 
-*Scraped **77,018** Articles*
+*Scraped **77,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,660
 islandlk | 4,726
 dailymirrorlk | 4,733
-dailyftlk | 5,485
+dailyftlk | 5,484
 adalk | 7,489
 adaderanalk | 9,946
 tamilmirrorlk | 11,577
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,099 (98.8%) of 77,018 articles have been extended.
+76,099 (98.8%) of 77,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -223,24 +223,6 @@ The event reinforced Megakem’s role as a trusted knowledge-sharing partner in 
 [Data](articles/0dc8c010.json)
 
 [Extended Data](ext_articles/0dc8c010.ext.json)
-
----
-
-### Wordy end of a vociferous parley in Qatar
-
-*2025-09-19 23:31:59* · [`dailyftlk`](https://www.ft.lk/columns/Wordy-end-of-a-vociferous-parley-in-Qatar/4-781938) · `en`
-
-Empty resolutions and threats are not going to save dying Palestinians
-
-“Every people in the world lives in a place. For Palestinians the place lives in them” (Danny Rubinstein – an Israeli writer)
-
-“We were herders of animals until we received the revelation, and then we became herders of other societies. We gave up the revelation and had become herds of other societies” (Allama Iqbal)
-
-The extraordinary Arab-Islamic Summit held in Doha to counter Israel’s bombing of a government residential complex in the Leqtaifiya District of Qatar, where negotiations over a US initiated ceasefire proposal were in progress with representatives from Hamas, ended as usual in chest-thumping threats, condemnations and declarations against Israel, but without any concrete agenda of action to stop the genocide and expulsion of Palestinians from their homes before annexing Gaza and the West Bank to create Eretz Israel.
-
-...
-
-[Data](articles/2c519886.json)
 
 ---
 
@@ -493,12 +475,6 @@ It is noteworthy that the youngest player, Tunit Vellalake, is the father of Mun
 Sri Lanka Cricket (SLC) announced that all-rounder Dunith Wellalage will rejoin the squad in the United Arab Emirates (UAE) tomorrow (20), after attending the funeral of his late father.
 
 Wellalage will be available for selection as Sri Lanka prepare to face Bangladesh in the  Super Four opener of the Asia Cup 2025, the SLC said.
-
-Suranga Wellalage, father of Dunith Wellalage, who is a former cricketer himself, passed away last night (18) at the age of 54, reportedly due to a sudden heart attack.
-
-His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
-
-Wellalage returned to the island this morning (19) following the sudden passing of his father, where he joined his grieving family.
 
 ◼️
 
@@ -2065,5 +2041,25 @@ He added that the objective of this reorganization is to establish youth, women 
 [Data](articles/f31d58ff.json)
 
 [Extended Data](ext_articles/f31d58ff.ext.json)
+
+---
+
+### Arrest of PC smuggled cannabis
+
+*2025-09-19 12:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஞ்சா-கடத்திய-பிசி-கைது/76-364911) · `ta`
+
+The Balangoda police said that a police constable has been arrested at Samanala Vivewa Police Station for carrying cannabis on a motorcycle.
+
+A group of police officers of the Balangoda police were engaged in patrols at night, and when a suspicious motorcycle was checked, it was found to have 765 grams of cannabis.
+
+Police are investigating whether the suspect was involved in cannabis.
+
+The motorcycle used to carry the suspect cannabis has also been confiscated by the police. The office said that the suspect had been suspended on the orders of the Assistant Superintendent of Police of the Balangoda Police Station. The suspect was to be produced in court.
+
+◼️
+
+[Data](articles/31e3b2a3.json)
+
+[Extended Data](ext_articles/31e3b2a3.ext.json)
 
 ---

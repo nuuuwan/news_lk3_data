@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 23:06:25**
+As of **2025-09-19 22:54:24**
 
 ## Newspaper Stats
 
@@ -26,33 +26,29 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,000 (98.7%) of 76,998 articles have been extended.
+75,988 (98.7%) of 76,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### Multiple medical clinic from the army
+### යුද හමුදාවෙන් බහුවිධ වෛද්‍ය සායනයක්
 
 *2025-09-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214775) · `si`
 
-The 7th phase of the multi-medical clinics of the army personnel was held at the Sri Lanka Army Martial Training School in Ampara today (19).
+යුද හමුදා සාමාජිකයන්ගේ යහපැවැත්ම සහතික කරමින් පවත්වනු ලබන බහුවිධ වෛද්‍ය සායනයන්හි 7වන අදියර අද (19) අම්පාර කොන්ඩුවටුවාන ශ්‍රී ලංකා යුද්ධ හමුදා සටන් පුහුණු පාසලේ දී පැවැත්විණි.
 
-More than 1250, including the war heroes of the war heroes who died due to war heroes and expedited and active reasons have been attended by the heroes of the Ampara and Batticaloa Districts.
+ඒ සඳහා අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කයන්හි පදිංචි විවිධ හේතුන්මත රණක්‍ෂිතයටපත් රණවිරුවන් හා විශ්‍රාමික මෙන්ම ක්‍රියාන්විත හේතූන් මත මියගිය රණවිරුවන්ගේ ළගම ඥාතීන් ඇතුලුව 1250කට අධික පිරිසක් සහභාගී වී ඇත.
 
-The Camp was organized under the supervision of the Board of Directors of the War Heroes and Rehabilitation Board.
+රණවිරු සේවා හා පුනරුත්ථාපන අධ්‍යක්‍ෂ මණ්ඩලයේ අධික්‍ෂණය යටතේ මෙම වෛද්‍ය කඳවුර සංවිධානය කර ඇති අතර යුද හමුදාධිපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතා මෙහි ප්‍රධාන ආරාධිත අමුත්තා වශයෙන් සහභාගී විය.
 
-Steps have been taken to identify and address medical issues through this medical camp, professional health consultation, mental health consultation, dental care and surgical equipment, as well as other mobile contact clinics, artist clinics, or other services.
+මෙම වෛද්‍ය කඳවුර හරහා වෛද්‍ය ගැටළු හදුනා ගනිමින් හා ඒවාට විසඳුම් ලබාදීම, වෘත්තීය සෞඛ්‍ය උපදේශනය, මානසික සෞඛ්‍ය උපදේශන සේවාව, දන්ත වෛද්‍ය සේවාව, ජංගම වෛද්‍ය රසායානාගාර සේවය, කෘතිම අත් පා සහ ශල්‍ය උපකරණ ලබාදීම සඳහා පරීක්‍ෂණ මෙන්ම ජංගම අක්ෂි සායන, භෞත චිකිත්සක සායන, ඇතුළු තවත් සේවා ලබාදීමට කටයුතු කර තිබේ.
 
-The Ranachitha war heroes donated wheelchairs, garbage, spectacles and surgeons.
-
-The Ranachitha war heroes donated wheelchairs, garbage, spectacles and necessary surgical instruments.
+මෙහිදී රණක්ෂිත රණවිරුවන්හට රෝද පුටු, අත්වාරු, ඇස් කණ්නාඩි හා ශල්‍ය වෛද්‍ය උපකරණ ද පරිත්‍යාග කිරීම සිදු විය.
 
 ...
 
 [Data](articles/31af26e0.json)
-
-[Extended Data](ext_articles/31af26e0.ext.json)
 
 ---
 

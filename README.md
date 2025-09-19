@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 19:21:05**
+As of **2025-09-19 19:12:22**
 
 ## Newspaper Stats
 
-*Scraped **76,983** Articles*
+*Scraped **76,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,18 @@ dailyftlk | 5,470
 adalk | 7,486
 adaderanalk | 9,940
 tamilmirrorlk | 11,575
-virakesarilk | 12,512
-adaderanasinhalalk | 13,434
+virakesarilk | 12,511
+adaderanasinhalalk | 13,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,833 (98.5%) of 76,983 articles have been extended.
+75,833 (98.5%) of 76,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### මිද්දෙණියේ රසායන ද්‍රව්‍ය ගැන රස පරීක්ෂක වාර්තාවෙන් තහවුරු දේ
-
-*2025-09-19 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214770) · `si`
-
-මිද්දෙණිය ප්‍රදේශයෙන් පසුගියදා සොයාගත් රසායනික ද්‍රව්‍යවල සාම්පල පිළිබඳ රජයේ රස පරීක්ෂකවරයාගේ වාර්තාව පොලිසිය වෙත භාර දී තිබේ.
-
-පොලිසිය පැවසුවේ අදාළ වාර්තාවට අනුව ඒවා අයිස් මත්ද්‍රව්‍ය සෑදීමට යොදාගන්නා රාසායනික ද්‍රව්‍ය බවට තහවුරු කර ඇති බවය.
-
-කෙහෙල්බද්දර පද්මේ හා කුඩු නිලංග මෙරට තුළ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කිරීමට භාවිත කරන බව කියන රසායනික ද්‍රව්‍ය කිලෝග්‍රෑම් 50,000ක් පමණ බස්නාහිර උතුර අපරාධ කොට්ඨාසය මිද්දෙණිය ප්‍රදේශයෙන් පසුගිය සැප්තැම්බර් 06 වනදා සොයා ගනු ලැබීය.
-
-ඒ කෙහෙල්බද්දර පද්මේ සමග ඉන්දුනීසියාවේදී අත්අඩංගුවට ගනු ලැබූ බැකෝ සමන් නැමැත්තාගෙන් බස්නාහිර උතුර අපරාධ කොට්ඨාසය කළ ප්‍රශ්න කිරීම්වලින් අනාවරණය කරගත් තොරතුරු අනුවය.
-
-අනතුරුව අදාළ රසායනික ද්‍රව්‍ය සාම්පල පරීක්ෂණ කටයුතු සඳහා අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලයට සහ රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවට යොමුකර තිබුණි.
-
-ඊට අදාලව අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලයේ වාර්තාව පසුගියදා නිකත් කෙරුණු අතර එහි දැක්වුනේ එම රසායනික ද්‍රව්‍ය සාම්පල 20න් 17කම අයිස් මත්ද්‍රව්‍ය සෑදීමට යොදාගන්නා රසායනික ද්‍රව්‍ය ඇති බවය.
-
-...
-
-[Data](articles/aad95de5.json)
-
----
 
 ### மஹிந்தவின் வீட்டுக்கு வந்த கோட்டா
 
@@ -61,22 +39,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/aa777391.json)
-
----
-
-### 2026ஆம் ஆண்டுக்கான வரவு,செலவுத்திட்டத்தில் அரச செலவீனம் 21,611கோடி ரூபாவால் அதிகரிப்பு
-
-*2025-09-19 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225546) · `ta`
-
-2026நிதி ஆண்டுக்கான வரவு, செலவுத் திட்டத்தில் அரச செலவீனமாக 4,43,435 கோடியே 6,46,8000 ரூபா ஒதுக்கப்பட்டுள்ளது. 2025 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டத்தில் செலவீனமாக 4,21,824 கோடியே 8,018,000 ரூபா ஒதுக்கப்பட்டிருந்த நிலையில் 2026 ஆம் ஆண்டுக்கான செலவீனம்  பல்வேறு  காரணிகளை  அடிப்படையாகக் கொண்டு 21,610 கோடியே 8,450,000ரூபாவினால் அதிகரிக்கப்பட்டுள்ளது.
-
-2025 ஆம் ஆண்டு வரவு, செலவுத் திட்டத்தை காட்டிலும் 2026ஆம் ஆண்டு வரவு, செலவுத் திட்டத்தின் பாதுகாப்பு அமைச்சு மற்றும் பொதுமக்கள் பாதுகாப்பு அமைச்சின் விடயதானங்களுக்கு அதிகளவில் நிதி ஒதுக்கிடப்பட்டுள்ளது.
-
-அரச செலவீனத்துக்கான நிதி ஒதுக்கீடுகளில் பாதுகாப்பு மற்றும் பொதுமக்கள் பாதுகாப்பு அமைச்சுக்களுக்காக 64,800 கோடி ரூபா ஒதுக்கப்பட்டுள்ளது. 2025ஆம் ஆண்டு பாதுகாப்பு மற்றும் பொதுமக்கள் பாதுகாப்பு அமைச்சின்  விடயதானங்களுக்கு 61,744கோடியே 50இலட்சம் ரூபா ஒதுக்கப்பட்டிருந்த நிலையில் 2026 ஆம் ஆண்டுக்காக 3,055 கோடியே  50 இலட்சம் ரூபா மேலதிகமாக  அதிகரிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/a5cc3008.json)
 
 ---
 
@@ -2057,5 +2019,51 @@ After this order came to power four years, the Talibanites were a new series of 
 [Data](articles/aa91ec99.json)
 
 [Extended Data](ext_articles/aa91ec99.ext.json)
+
+---
+
+### Dunith Wellalage returns to Sri Lanka after father’s passing
+
+*2025-09-19 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112665/dunith-wellalage-returns-to-sri-lanka-after-fathers-passing) · `en`
+
+Sri Lankan all-rounder Dunith Wellalage has returned to the island this morning (19) following the sudden passing of his father, Suranga Wellalage.
+
+He returned from Abu Dhabi onboard Etihad Airways flight EY-392, which reached the Bandaranaike International Airport (BIA) in Katunayake, at 8:25 a.m. today, said Ada Derana reporter.
+
+Wellalage was accompanied by an official from Sri Lanka Cricket (SLC).
+
+Upon arrival, he was swiftly cleared through airport formalities and departed the premises immediately.
+
+Suranga Wellalage, a former cricketer himself, passed away on September 18 at the age of 54, reportedly due to a sudden heart attack.
+
+His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
+
+◼️
+
+[Data](articles/c62ccd3d.json)
+
+[Extended Data](ext_articles/c62ccd3d.ext.json)
+
+---
+
+### Earthquake in Russia: Tsunami Warning!
+
+*2025-09-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225470) · `ta`
+
+International media reports that a 7.8 magnitude earthquake struck in Kamchatka in Russia.
+
+International media reports that the earthquake was felt in the city of Petropovlovsk-Kamsatsky, near the Kamchatka area of ​​Russia.
+
+The quake was reported at a depth of 10 km (6.21 miles), according to the US Geological Survey.
+
+Officials have confirmed that there is no risk of tsunami waves in Hawaii, Canada's Pacific coast and the US landscape.
+
+However, tsunami waves are still likely to occur on the coast of Russia near the center.
+
+◼️
+
+[Data](articles/1a4f8d28.json)
+
+[Extended Data](ext_articles/1a4f8d28.ext.json)
 
 ---

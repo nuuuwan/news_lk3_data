@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 12:23:48**
+As of **2025-09-19 12:13:14**
 
 ## Newspaper Stats
 
-*Scraped **76,908** Articles*
+*Scraped **76,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,477
 adaderanalk | 9,928
-tamilmirrorlk | 11,558
+tamilmirrorlk | 11,557
 virakesarilk | 12,502
-adaderanasinhalalk | 13,414
+adaderanasinhalalk | 13,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,459 (98.1%) of 76,908 articles have been extended.
+75,459 (98.1%) of 76,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### ශ්‍රීලනිප අලුත් ගමන බදුල්ලෙන් ඇරඹෙයි
-
-*2025-09-19 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214749) · `si`
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ ප්‍රතිසංවිධාන කටයුතු අද (19) බදුල්ල දිස්ත්‍රික්කයේ ආරම්භ කර තිබේ.
-
-බදුල්ල දිස්ත්‍රික් නායක, පාර්ලිමේන්තු මන්ත්‍රී චාමර සම්පත් දසනායක මහතාගේ ප්‍රධානත්වයෙන් මෙම කටයුතු ආරම්භ කෙරුණි.
-
-තරුණ, කාන්තා, භික්ෂු සංවිධාන පිහිටුවමින් පක්ෂයේ දේශපාලන කටයුතු ඉදිරියට ගෙන යෑම මෙම ප්‍රතිසංවිධාන කටයුතුවල අරමුණ බව මන්ත්‍රීවරයා එහිදී සඳහන් කළේය.
-
-◼️
-
-[Data](articles/f31d58ff.json)
-
----
-
-### கஞ்சா கடத்திய பிசி கைது
-
-*2025-09-19 12:10:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஞ்சா-கடத்திய-பிசி-கைது/76-364911) · `ta`
-
-மோட்டார் சைக்கிளில் கஞ்சா கொண்டு சென்றதற்காக சமனல வேவ பொலிஸ்  நிலையத்தில் பணியாற்றும் ஒரு பொலிஸ்  கான்ஸ்டபிள் ஒருவரை கைது செய்துள்ளதாக பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
-
-பலாங்கொடை பொலிஸ் அதிகாரிகள் குழு, இரவு ரோந்துப் பணியில் ஈடுபட்டிருந்தபோது, ​​சந்தேகத்திற்கிடமான மோட்டார் சைக்கிளை நிறுத்தி சோதனை செய்தபோது, ​​அதில் ஒரு கிலோ 765 கிராம் கஞ்சா இருப்பது கண்டுபிடிக்கப்பட்டது.
-
-சந்தேக நபர் கஞ்சா கடத்தலில் ஈடுபட்டாரா என்பது குறித்து பொலிஸார் விசாரணையைத் தொடங்கியுள்ளனர்.
-
-சந்தேக நபர் கஞ்சாவை கொண்டு செல்ல பயன்படுத்திய மோட்டார் சைக்கிளும் பொலிஸாரினால் பறிமுதல் செய்யப்பட்டுள்ளது. பலாங்கொடை பொலிஸ் நிலைய பதில் உதவி காவல் கண்காணிப்பாளரின் உத்தரவின் பேரில், சந்தேக நபர் பணி இடைநீக்கம் செய்யப்பட்டதாக அலுவலகம் தெரிவித்துள்ளது.கைது செய்யப்பட்ட சந்தேக நபர் நீதிமன்றத்தில் ஆஜர்படுத்தப்படவிருந்தார்.
-
-◼️
-
-[Data](articles/31e3b2a3.json)
-
----
 
 ### ஞாயிறு முதல் தீர்க்கமான தருணம்: CEB எச்சரிக்கை
 
@@ -1464,7 +1430,7 @@ World Safety Day was declared by the World Health Organization in 2019 to safely
 
 ---
 
-### AFD of France keen on pump storage plants as Sri Lanka eyes funding
+### France’s AFD keen on pump storage plants as Sri Lanka eyes funding
 
 *2025-09-19 05:00:00* · [`economynextcom`](https://economynext.com/frances-afd-keen-on-pump-storage-plants-as-sri-lanka-eyes-funding-241122/) · `en`
 
@@ -1476,7 +1442,7 @@ ECONOMYNEXT – The French development agency is keen to support pump storage pl
 
 “We’ve approved the financing last year for a pump storage project in Vietnam. And AFD was leading a pool of financiers and leading a Team Europe approach for this project.”
 
-The German Reconstruction Bank (KfW), the Japan International Cooperation Agency (JICA), the European Investment Bank (EIB) had joined AFD in co-financing the Vietnam project.
+The AFD, currently has an active portfolio of around 50 billion euros of which around a third has been committed to the Indo-Pacific area, Executive Director of AFD operations Philippe Orliange said.
 
 ...
 
@@ -1661,6 +1627,20 @@ If Afghanistan wins the tournament, they will qualify for the Super 4 round with
 [Data](articles/0d86a562.json)
 
 [Extended Data](ext_articles/0d86a562.ext.json)
+
+---
+
+### ரணில் விக்கிரமசிங்கவை இலக்குவைக்க தேசிய மக்கள் சக்தி அரசாங்கம் சட்டத்தை ஆயுதமாகப் பயன்படுத்துகிறதா?
+
+*2025-09-18 23:10:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86430) · `en`
+
+ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்கிரமசிங்க ஐந்து தசாப்தங்களுக்கும் அதிகமான காலமாக அரசியலில் இருக்கிறார். பாராளுமன்ற உறுப்பினராக, பிரதி அமைச்சராக, கபினெட் அமைச்சராக, எதிர்க்கட்சி தலைவராக, பிரதமராக, ஜனாதிபதியாக பதவிகளை வகித்த விக்கிரமசிங்க அரசியலில் ‘ பயனிழந்துபோன ஒரு சக்தி ‘ என்று அடிக்கடி வர்ணிக்கப்பட்டு வந்திருக்கிறார். உறுதிவாய்ந்த ரணில்  அரசியல் களத்தில் வலிமையுடன் திரும்பவும்   குதித்து எப்போதுமே தனது எதிரிகளை தவறு என்று நிரூபித்து வந்திருக்கிறார். அண்மைய நிகழ்வுகள் மன எழுச்சிமிக்க ரணில் தன்னை  எளிதில்  தள்ளுபடி செய்துவிடக்கூடிய ஒரு ஆள் அல்ல என்று மீண்டும் நிரூபிக்கக்கூடும் என்பதற்கான அறிகுறியாக தோன்றுகின்றன.
+
+...
+
+[Data](articles/90a98d78.json)
+
+[Extended Data](ext_articles/90a98d78.ext.json)
 
 ---
 
@@ -1946,22 +1926,6 @@ Both banned sergeants were aged 58 and 59 years old, and another 60 months, and 
 
 ---
 
-### The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.
-
-*2025-09-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86412) · `en`
-
-Sri Lankan president Anura Kumara Dissanayake(AKD) made history when he became the first Sri Lankan head of state to set foot on  Katchatheevu (spelled as Kachchatheevu also) soil on 1st  September 2025.  Among those who accompanied the president on his  maiden voyage to the northern off-shore Islet in the naval speedboat P 211  were Fisheries Minister Ramalingam  Chandrasekar, Public Security Minister Ananda Wijepala and Northern Navy Commander Rear Admiral Buddhika Liyanagamage.
-
-Though  called theevu or Island, Katchatheevu is actually an Islet in terms of size. Katchatheevu with a land area of 285 acres is 1.6 km long and 300 metres wide. It is an uninhabited place except for a Catholic Shrine dedicated to St.Anthony and a small detachment of the Sri  Lankan navy stationed there. Apart from an old brackish water  well ,there is no source of freshwater on the Islet’s sandy soil.
-
-...
-
-[Data](articles/39f24b3f.json)
-
-[Extended Data](ext_articles/39f24b3f.ext.json)
-
----
-
 ### Chinese Bija's body recovery from an apartment
 
 *2025-09-18 20:59:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுக்குமாடி-குடியிருப்பில்-இருந்து-விழுந்த-சீன-பிஜை-சடலமாக-மீட்பு/175-364875) · `ta`
@@ -2011,5 +1975,51 @@ This special bell sound, echoed in the stock market's trading complex, is a trad
 [Data](articles/2e1b7cda.json)
 
 [Extended Data](ext_articles/2e1b7cda.ext.json)
+
+---
+
+### Court orders the van arrested
+
+*2025-09-18 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214731) · `si`
+
+The Attanagalla Magistrate's Court yesterday ordered the owner of the abducted van to the registration owner by a lease.
+
+The Attanagalla Magistrate further stated that a leasing company has no legal authority to abduct a vehicle even if the lease is taken up.
+
+In the Nittambuwa Pallewela area in Nittambuwa, Nittambuwa had crossed the road and stopped a van that was routed.
+
+The group had informed the owner of the vehicle and that they were working at a lease instality and the lease premium is being carried out.
+
+The owner of the vehicle then lodged a complaint with the Attanagalla police station, accusing the Attanagalla Magistrate's Court.
+
+The court had ordered two abducted persons after the case was heard.
+
+Attanagalla Magistrate Manjula Karunaratne ordered the release of the vehicle to its registered owner.
+
+The Magistrate said that no leasing company could not be abducted even in a lease company on a proper premium background.
+
+...
+
+[Data](articles/23a3e970.json)
+
+[Extended Data](ext_articles/23a3e970.ext.json)
+
+---
+
+### Women MPs’ Caucus discusses pathways toward a gender-sensitive Parliament
+
+*2025-09-18 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112653/women-mps-caucus-discusses-pathways-toward-a-gender-sensitive-parliament) · `en`
+
+Sri Lanka’s Women Parliamentarians’ Caucus discussed Potential pathways for UK support to the Caucus with representatives of the Westminster Foundation for Democracy (WFD) and also held discussions regarding intergenerational dialogue for encouraging young women’s political participation with the representatives of Law and Society Trust (LST).
+
+This meeting of the Women Parliamentarians’ Caucus was held on 12.09.2025 under the patronage of Prime Minister Dr. Harini Amarasuriya and the Chairperson of the Caucus Minister of Women and Child Affairs, Saroja Savitri Paulraj, according to the Department of Communication of Parliament.
+
+Addressing the Committee meeting, the Westminster Foundation for Democracy (WFD) proposed support on introducing and practicing gender-sensitive law-making and gender responsive budgeting and in understanding and supporting the role of the Caucus in increasing women’s labour force participation.
+
+...
+
+[Data](articles/0ec8e7bf.json)
+
+[Extended Data](ext_articles/0ec8e7bf.ext.json)
 
 ---

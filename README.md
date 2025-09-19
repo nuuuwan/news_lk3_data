@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 14:22:06**
+As of **2025-09-19 14:10:45**
 
 ## Newspaper Stats
 
-*Scraped **76,933** Articles*
+*Scraped **76,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,481
 adaderanalk | 9,931
-tamilmirrorlk | 11,566
+tamilmirrorlk | 11,564
 virakesarilk | 12,508
 adaderanasinhalalk | 13,418
 
@@ -26,45 +26,11 @@ adaderanasinhalalk | 13,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,583 (98.2%) of 76,933 articles have been extended.
+75,583 (98.2%) of 76,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### காசா போர்: ஐ.நா.வின் தீர்மானம் தோல்வி
-
-*2025-09-19 14:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-போர்-ஐ-நா-வின்-தீர்மானம்-தோல்வி/50-364918) · `ta`
-
-மேற்கு ஆசிய நாடான இஸ்ரேல் மீது 2023 அக்டோபர் 07-ம் திகதி ஹமாஸ் பயங்கரவாதிகள் தாக்குதலில் ஈடுபட்டனர். 251 க்கும் மேற்பட்டோரை பிணைக் கைதிகளாக பிடித்துச் சென்றனர். இதற்கு பதிலடியாக பாலஸ்தீனத்தின் காசா மீது இஸ்ரேல் போரை துவக்கியது.
-
-இதில் 60 ஆயிரத்திற்கும் மேற்பட்டோர் பலியாகியுள்ளனர். தற்போது வரை 80 சதவீத காசா பகுதிகள் இஸ்ரேல் ராணுவத்தின் கட்டுப்பட்டிற்கு கொண்டுவரப்பட்டுள்ளதாக தகவல் வெளியாகி உள்ளது.
-
-இஸ்ரேல் ராணுவம் பாலஸ்தீனத்தின் காசா நகருக்குள் தரை வழியாக ஊடுருவி முன்னேறி வருகிறது. இதையடுத்து அங்கு பதற்றம் அதிகரித்து உள்ளதால் பாலஸ்தீனியர்கள் காசா நகரை காலி செய்து கால்நடையாகவும், வாகனங்கள் மூலமாகவும் கூட்டம் கூட்டமாக வெளியேறி வருகிறார்கள்.
-
-இந்தநிலையில், காசாவில் உடனடியாக போரை முடிவுக்குக் கொண்டுவருவதற்கான ஐ.நா. பாதுகாப்பு கவுன்சிலின் தீர்மானம் தோல்வி அடைந்தது. அமெரிக்கா மீண்டும் தனது வீட்டோ அதிகாரத்தை பயன்படுத்தி தீர்மானத்தை தோல்வி அடையச் செய்தது.
-
-◼️
-
-[Data](articles/b82d921e.json)
-
----
-
-### ஆப்கானிஸ்தானில் பெண்கள் எழுதிய புத்தகங்களுக்கு தடை
-
-*2025-09-19 14:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-பெண்கள்-எழுதிய-புத்தகங்களுக்கு-தடை/50-364917) · `ta`
-
-கடந்த 2021-ம் ஆண்டு ஆப்கானிஸ்தானை விட்டு அமெரிக்க படைகள் வெளியேறியதை தொடர்ந்து தலிபான்கள் ஆட்சி அமைத்தனர். அது முதலே அங்கு பெண்கள், குழந்தைகளின் உரிமைகள் அங்கு பறிக்கப்பட்டு வருகின்றன. அங்கு பெண்கள் வெளியே செல்லவும், கல்வி கற்கவும் பணிபுரியவும் கடும் கட்டுப்பாடுகள் தொடர்கின்றன.
-
-இந்தநிலையில் அங்கு பெண் உரிமை, பாலினம் உள்ளிட்டவை குறித்து பெண்கள் எழுதிய புத்தகங்கள், பல்கலைக்கழக பாடங்களில் இடம்பெற்றிருந்த நிலையில் அவை நீக்கப்பட்டுள்ளன. அங்குள்ள புதிய கல்விச்சட்டத்தின்படி தலிபான்கள் கொள்கைகள் மற்றும் ஷரியா சட்டத்திற்கு எதிராக இருப்பதால் பெண்கள் எழுதிய 140 புத்தகங்கள், ஈரானிய எழுத்தாளர்களின் 310 புத்தகங்கள் என 680 புத்தங்களுக்கு தடை விதிக்கப்பட்டுள்ளது.
-
-மேலும் ஷரியா சட்டத்துடன் முரண்படுவதாகக்கூறி ஆப்கானிஸ்தான் பல்கலை. பாடங்களில் பெண்கள் எழுதிய புத்தகங்களுக்கு தலிபான் அரசு தடை விதித்துள்ளது. ஆப்கானிஸ்தானில் சுமார் 6 மாகாணங்களில் பைபர் ஆப்டிக் இணைய சேவைக்கு தலிபான் அரசு சமீபத்தில் தடை விதித்தது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/82f465c7.json)
-
----
 
 ### வெளிநாட்டு வேலைவாய்ப்பு புகார்களை விசாரிக்க சிறப்பு புலனாய்வு பிரிவு
 
@@ -154,7 +120,7 @@ The arrested Sasheendra Rajapaksa has continued to be remanded after being produ
 
 අදාළ සැකකරු ඇතුළු තිදෙනෙකු ඊයේ (18) රාත්‍රියේ මෙලෙස අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගත් අය අතර කාන්තාවක් ද වන බව වාර්තා වෙයි.
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරුවන් සතුව තිබී නීතිවිරෝධී දුම්වැටි 12,400ක් සහ ගජමුතු කිහිපයක් තිබී සොයාගෙන ඇත.
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරුවන් සතුව තිබී නීතිවිරෝධී දුම්වැඩි 12,400ක් සහ ගජමුතු කිහිපයක් තිබී සොයාගෙන ඇත.
 
 එක් සැකකරුවෙක් යුද හමුදාවේ සේවය කර නීත්‍යානුකූලව ඉවත්වූ අයෙකු බවද පොලීසිය පවසයි.
 
@@ -1981,5 +1947,43 @@ The German Reconstruction Bank (KfW), the Japan International Cooperation Agency
 [Data](articles/73d3316d.json)
 
 [Extended Data](ext_articles/73d3316d.ext.json)
+
+---
+
+### Sri Lanka opens large water supply system funded by China
+
+*2025-09-19 00:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-large-water-supply-system-funded-by-china-241159/) · `en`
+
+ECONOMYNEXT – Sri Lanka has opened its integrated water supply system which will provide safe drinking water to people in Gampaha, Minuwangoda and Attanagalla and parts of Mahara and Mirigama, minister Vijitha Herath said.
+
+The large-scale project begun by the former Yahapalanaya government, includes 88,000 new water connections and the upgrading of about 22,000 existing water connections.
+
+The project includes the Basnagoda Reservoir with a capacity of 5.5 million cubic meters, a pumping station with a capacity of 85,000 cubic meters a day, a water treatment plant with a capacity of 54,000 cubic meters a day, a high-level water tank with a capacity of 10,000 cubic meters, and 5 water towers with a capacity of 1,500 cubic meters.
+
+The total length of the transmission pipeline is 85 km with a distribution pipeline network of 504 km.
+
+The project was mainly funded by the China Development Bank and carried out by China Machinery Engineering Corporation (CMEC). (Colombo/Sep19/2025)
+
+◼️
+
+[Data](articles/ffe775c3.json)
+
+[Extended Data](ext_articles/ffe775c3.ext.json)
+
+---
+
+### Duti Welelige's father passes away
+
+*2025-09-19 00:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214735) · `si`
+
+Dhamma Vellalage's dear father, Suranga Welleala, has passed away.
+
+He had been completed by a heart attack, and the year-old was 54 years old.
+
+◼️
+
+[Data](articles/7cd7768b.json)
+
+[Extended Data](ext_articles/7cd7768b.ext.json)
 
 ---

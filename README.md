@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 20:08:54**
+As of **2025-09-19 20:38:25**
 
 ## Newspaper Stats
 
-*Scraped **76,987** Articles*
+*Scraped **76,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,55 @@ adalk | 7,488
 adaderanalk | 9,940
 tamilmirrorlk | 11,575
 virakesarilk | 12,513
-adaderanasinhalalk | 13,435
+adaderanasinhalalk | 13,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,892 (98.6%) of 76,987 articles have been extended.
+75,907 (98.6%) of 76,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### මෙරට ඉංජිනේරු දැනුමින් නිපදවූ  තෙවැනි නැනෝ චන්ද්‍රිකාවත් කක්ෂගත කෙරේ
+### ශ්‍රී ලංකා කණ්ඩායම සමගින් එක්වීමට  දුනිත් අද රාත්‍රියේ දිවයිනෙන් පිටත්ව යයි
+
+*2025-09-19 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214772) · `si`
+
+සිය පියාගේ හදිසි අභාවය හේතුවෙන් දිවයිනට පැමිණි දුනිත් වෙල්ලාලගේ ශ්‍රී ලංකා කණ්ඩායම හා  එක්වීම සඳහා අද (19) රාත්‍රියේ දී ඩුබායි බලා යාමට නියමිතව ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතන⁣ය නිල වශයෙන් තහවුරු කළේය.
+
+◼️
+
+[Data](articles/96c0fbb7.json)
+
+---
+
+### The third Nano, who produced in Sri Lankan engineering, orbitals to the third nano
 
 *2025-09-19 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214771) · `si`
 
-ශ්‍රී ලාංකික ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නිර්මාණය වූ තුන්වැනි නැනෝ චන්ද්‍රිකාව අද(19) පස්වරු 2.20ට කක්ෂගත කෙරිණි.
+The Third Nano, the technical contributor to the technical contributor to the technical contributor, was orbit to today.
 
-මොරටුව ආතර් සී. ක්ලාක් ආයතනය ප්‍රකාශ කළේ, ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙස නම් කර ඇති මෙම පර්යේෂණ චන්ද්‍රිකාව මගින් මූලික වශයෙන් අභ්‍යවකාශ පර්යේෂණ මෙහෙයුම් තුනක් සිදුකිරීමට නියමිත බවය.
+Moratuwa Arthur C. Clarke stated that this research satellite is to be carried out primarily by the Satellite, designated as 'Birds - X Dragonflei'.
 
-මෙම ව්‍යාපෘතිය සඳහා ශ්‍රී ලංකාව කිසිදු ප්‍රාග්ධන පිරිවැයක් නොදැරීම විශේෂත්වයකි.
+Sri Lanka has no capital costs for this project.
 
-2019 සිට මෙරට ඉංජිනේරුවන්ගේ තාක්ෂණික දායකත්වයෙන් නැනෝ චන්ද්‍රිකා තුනක් නිර්මාණය වී ඇති අතර තෙවැනි නැනෝ චන්ද්‍රිකාව නම් කෙරුණේ ''බර්ඩ්ස් - එක්ස් ඩ්‍රැගන්ෆ්ලයි'' ලෙසය.
+From the 2019 Engineers of the country, three nano satellites were created by the third Nano Satend, "Beers - X Dragonfly."
 
-එම චන්ද්‍රිකාව පසුගිය අගෝස්තු 24 වැනිදා නාසා ආයතනය විසින් දියත් කරනු ලැබූ ස්පේස් එක්ස් - 33 රොකට් මෙහෙයුම මගින් ජාත්‍යන්තර අභ්‍යවකාශ ආයතනය වෙත රැගෙන ගියේය.
+The satellite was taken to the International Space Corporation by NASA on August 24.
 
-ජපන් අභ්‍යවකාශ පර්යේෂණ ආයතනය හා ඩිජිටල් රේඩියෝ සන්නිවේදන ආයතනය යන ජාත්‍යන්තර ආයතන කිහිපයක සහයෝගීතාවය සහිතව, ආතර් සී ක්ලාක් මධ්‍යස්ථානය සහ ජපානයේ කියුෂූ තාක්ෂණ ආයතනය මගින් මෙම ව්‍යාපෘතිය දියත් කෙරිණි.
+The project was launched by the Japanese Space Research Institute and the Digital Radio Communication Institute.
 
-...
+Today, Birds - X Dragonflee will mark another unique victory on the Space Technology Development Travel in Sri Lanka.
+
+In 2019, Rawana - 1 was created as the first nano-1 satellite in Sri Lanka, while the second Nano Satellite is the "Close" SATHI of a Technical Cooperation Project at a five-five international parties.
+
+◼️
 
 [Data](articles/38f7f374.json)
+
+[Extended Data](ext_articles/38f7f374.ext.json)
 
 ---
 
@@ -2067,21 +2085,5 @@ The telegraphic transfer rates for the American dollar was 298.5000 buying, 305.
 [Data](articles/b933eb85.json)
 
 [Extended Data](ext_articles/b933eb85.ext.json)
-
----
-
-### Tunit Vellalake visits the country to attend the funeral of the father!
-
-*2025-09-19 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225471) · `ta`
-
-Sri Lankan cricketer Dunit Wellalake has visited the country this morning to attend his father's funeral.
-
-It is reported that Dunit Wellalake arrived at the Katunayake airport from Abu Dhabi on the Etihad Airways EY-392 at 08.25 am.
-
-◼️
-
-[Data](articles/66e11abf.json)
-
-[Extended Data](ext_articles/66e11abf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 13:05:52**
+As of **2025-09-19 12:55:46**
 
 ## Newspaper Stats
 
-*Scraped **76,919** Articles*
+*Scraped **76,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,83 +18,19 @@ dailymirrorlk | 4,733
 dailyftlk | 5,470
 adalk | 7,478
 adaderanalk | 9,928
-tamilmirrorlk | 11,562
+tamilmirrorlk | 11,558
 virakesarilk | 12,506
-adaderanasinhalalk | 13,416
+adaderanasinhalalk | 13,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,497 (98.2%) of 76,919 articles have been extended.
+75,497 (98.2%) of 76,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
-
-### கணவன் மரணம்: மனைவியும் தவறான முடிவு: 3 குழந்தைகள் அநாதைகளாகினர்
-
-*2025-09-19 12:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கணவன்-மரணம்-மனைவியும்-தவறான-முடிவு-3-குழந்தைகள்-அநாதைகளாகினர்/76-364914) · `ta`
-
-32 வயதான தாய் ஒருவர், தவறான முடிவை எடுத்து தனது மூன்று பிள்ளைகளுக்கும் விஷம் கொடுத்து தானும் அருந்தி உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர். இந்த சம்பவம், உடுதும்பர, தம்பகஹபிட்டிய, ஹபுடந்துவல பகுதியில் இடம்பெற்றுள்ளது.
-
-அவரது கணவர் (வயது 34) சுமார் இரண்டு நாட்களுக்கு முன்பு மரணமடைந்தார்.  இரத்தப் புற்றுநோயால் பாதிக்கப்பட்டு  அவர் உயிரிழந்துள்ளார் என தெரிவிக்கப்படுகின்றது.
-
-அதேநேரம் 05, 10 மற்றும் 12 வயதான மூன்று ஆண் பிள்ளைகளும்   இரத்தப் புற்றுநோயால் பாதிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
-
-இருப்பினும், பிள்ளைகள் தற்போது உடுதும்பர பிராந்திய வைத்தியசாலையில் சிகிச்சை பெற்று வருவதுடன், அவர்களின் உயிருக்கு எந்த ஆபத்தும் இல்லை என்று பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/b2f0415f.json)
-
----
-
-### රජයට පවරාගත් උතුරේ ඉඩම් ගැන ආණ්ඩුවේ ස්ථාවරය කියයි
-
-*2025-09-19 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214751) · `si`
-
-ආරක්ෂක හේතුන් මත රජයට පවරාගත් උතුරු පළාතේ ඉඩම් දේශපාලන වාසි අරමුණු කරමින් නිදහස් නොකරන බව අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
-
-ඔහු මේ බව පැවසුවේ ඊයේ (18) පැවති යාපනය දිස්ත්‍රික් සංවර්ධන කමිටු රැස්වීමේදී ය.
-
-මෙහිදී ඉඩම් ගැටලු පිළිබඳව එස්. ශ්‍රීධරන් මන්ත්‍රීවරයා සහ බිමල් රත්නායක අමාත්‍යවරයා අතර ඇතිවූ කතාබහක් සමග රැස්වීම උණුසුම් මුහුණුවරක් ගෙන තිබුණි.
-
-ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයට අදාළව යාපනය දිස්ත්‍රික් කමිටු රැස්වීම මෙලෙස පැවැත්වුණු අතර ඊට එක්වූ ඉලංකෙයි තමිල් අරසු පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා දිගින් දිගටම උතුරේ ඉඩම් නිදහස් කිරීම ඇතුළු කරුණු කිහිපයක් මතුකරමින් අදහස් දක්වා තිබුණි.
-
-◼️
-
-[Data](articles/45ba57d9.json)
-
----
-
-### ஆட்டமா? எனக்கிட்ட ஆட்டமா? போடவா சுவிட்சை போடவா?
-
-*2025-09-19 12:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆட்டமா-எனக்கிட்ட-ஆட்டமா-போடவா-சுவிட்சை-போடவா/62-364913) · `ta`
-
-◼️
-
-[Data](articles/ac2b2b50.json)
-
----
-
-### ”நாணயத் தாள்கள் குறித்து அவதானதாக இருக்கவும்”
-
-*2025-09-19 12:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாணயத்-தாள்கள்-குறித்து-அவதானதாக-இருக்கவும்/175-364912) · `ta`
-
-பொருட்களை வாங்கும் போதும், பணத்தை கையாளும் போது அப்பணத்தாள்  போலியானதா? என்பதை சரிபார்க்குமாறும்  பல்வேறு பரிவர்த்தனைகளுக்கு பணத்தைப் பயன்படுத்தும் போதும் கவனமாகவும் இருக்குமாறும்  பொதுமக்களுக்கு பொலிஸார் அறிவுறுத்துகிறது.
-
-பணம் போலித்தனமானது அல்ல என்பதைச் சரிபார்த்த பின்னரே, பணத்தைப் பயன்படுத்தவும், அத்தகைய போலி நாணயத்தாள்களை   வைத்திருப்பவர்கள் அல்லது கையாளுபவர்கள் பற்றிய தகவல் கிடைத்தவுடன் உடனடியாக இலங்கை பொலிஸாருக்கு தெரிவிக்கவும் என்றும் பொலிஸ் அறிவுறுத்துகிறது.
-
-இதற்கிடையில், ஹபரானா நகரில், தலா இரண்டு போலி ரூ. 5000 தாள்களை  வைத்திருந்த மேலும் இரண்டு பேர் வியாழக்கிழமை (18) மாலை கைது செய்யப்பட்டனர்.
-
-மேலும் விசாரணைகளின் போது, ​​போலி ரூ. 5000 நாணயத்தாள்களை அச்சிட்ட ஒரு சந்தேக நபரும், அத்தகைய 138 நாணயத்தாள்கள் மற்றும் அச்சிடப் பயன்படுத்தப்பட்ட உபகரணங்களும் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/094e447f.json)
-
----
 
 ### දිනක් තුළ මාරක රිය අනතුරු රැසක් - ජීවිත 6ක් අහිමි වෙයි
 
@@ -235,22 +171,6 @@ Deputy Chief Minister Udayanidhi Stalin paid tribute to Robot Shankar's body. Ma
 [Data](articles/7bbae0dc.json)
 
 [Extended Data](ext_articles/7bbae0dc.ext.json)
-
----
-
-### கதறி அழுத ரோபோ சங்கரின் மகளை “நான் இருக்கேன்மா” எனக் கூறி தேற்றிய தனுஷ்
-
-*2025-09-19 11:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கதறி-அழுத-ரோபோ-சங்கரின்-மகளை-நான்-இருக்கேன்மா-எனக்-கூறி-தேற்றிய-தனுஷ்/54-364907) · `ta`
-
-உடல்நலக்குறைவு காரணமாக மருத்துவமனையில் அனுமதிக்கப்பட்டிருந்த நகைச்சுவை நடிகர் ரோபோ சங்கர், நேற்று சிசிக்சை பலனின்றி உயிரிழந்தார். அவரது மறைவு திரைக்கலைஞர்கள், ரசிகர்கள் என அனைவர் மத்தியிலும் சோகத்தை ஏற்படுத்தியிருக்கிறது.
-
-கடந்த சில நாட்களாக கடுமையான உடல்நலப் பிரச்சனையால் பாதிக்கப்பட்டிருந்த நிலையில், இரு தினங்களுக்கு முன்னர் விஜய் டிவி செட்டில் ரோபோ சங்கர் மயக்கமடைந்துள்ளார். இதனையடுத்து அவர் உடனடியாக மருத்துவமனையில் அனுமதிக்கப்பட்டிருக்கிறார்.
-
-அவரது மருத்துவ நிலைமை குறித்து, மருத்துவமனை நிர்வாகம் அளித்த விளக்கத்தில் தெரிவிக்கப்பட்டிருப்பதாவது, "ரோபோ சங்கர், செப். 16 அன்று மிகவும் கவலைக்கிடமான நிலையில் மருத்துவமனைக்கு வந்தார். அவருக்கு குடலில் ரத்தப் போக்கு இருந்தது. மேலும் உள் உறுப்புகள் செயலிழந்த நிலையில் வயிற்றுப்பகுதியிலும் மிக தீவிரமான பிரச்சனைகள் இருந்தன. தீவிர சிகிச்சை பிரிவில் அவருக்கு எங்கள் மருத்துவர்கள் தொடர்ந்த சிகிச்சை அளித்த போதிலும் பலன் அளிக்கவில்லை. செப் 18 அன்று இரவு 9.05 மணிக்கு உயிரிழந்தார்" என தெரிவிக்கப்பட்டிருக்கிறது.
-
-...
-
-[Data](articles/f947c441.json)
 
 ---
 
@@ -1985,5 +1905,125 @@ Twenty20 match between Sri Lanka and Afghanistan is currently underway.
 [Data](articles/74bb9db9.json)
 
 [Extended Data](ext_articles/74bb9db9.ext.json)
+
+---
+
+### Sri Lanka a target of 170 runs
+
+*2025-09-18 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214732) · `si`
+
+The Afghanistan scored 169 runs for the loss of 7 wickets in the 20 overs.
+
+Accordingly, the Sri Lankan squad was a 170 run target.
+
+Chances can easily access the Super 4 to Sri Lanka in order to chase this goal.
+
+If the defeat may not be more than 71 runs.
+
+Afghanistan Leader Razed decided to bat first, winning the coin.
+
+However, they were unable to obtain a consolation in the face of the invasive bowling of Nuwan Thushara.
+
+At the time of the Powerplast, 43 runs were able to collect in Afghanistan, and the three store batsmen were infected.
+
+Nuwan Thushara, claimed to be sent to the wicket.
+
+The Afghanistan score board was in operation of the 12th (11.3) in the match, while the match 17 was recorded as 114/6.
+
+However, they only scored 55 runs in their innings and brought their innings to a competitive mark.
+
+Mohammed has scored 60-year-old Mohammed Pubiha scored 60 year old.
+
+The last of the faller borrow, he held five sixes against Velleala's.
+
+...
+
+[Data](articles/e63f3b89.json)
+
+[Extended Data](ext_articles/e63f3b89.ext.json)
+
+---
+
+### Underworld leader Ahungalla Baba's house set on fire
+
+*2025-09-18 21:40:53* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-නායක-අහුන්ගල්ලේ-බබාගේ-නිවසට-ගිනි-තියලා/11-418595) · `si`
+
+Ahungalla Baba, who is currently underworld, a member of the Uhungalla Babe, who is currently under-a-storey manner, has been set on fire by a group or a group.
+
+The police say that the fire was damaged by the fire and the fire was not spread to the entire home.. The house was not damaged due to fire, police said.
+
+The police suspect that there were several adversion groups regarding Manuwana murders and drug trafficking, and the police suspect that he could work in this group.
+
+Police say no one has been arrested so far regarding the burning of fire. Ahungalla Police are conducting further investigations.
+
+◼️
+
+[Data](articles/167299cb.json)
+
+[Extended Data](ext_articles/167299cb.ext.json)
+
+---
+
+### Actor Robot Shankar has passed away
+
+*2025-09-18 21:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரோபோ-சங்கர்-காலமானார்/54-364877) · `ta`
+
+Indian media reports that the famous actor Robot Shankar died without treatment.
+
+Robot Shankar (46) participated in a shooting of a shoot yesterday afternoon. Suddenly he was faint.
+
+He was then admitted to a private hospital in Duraipakkam, Chennai.
+
+Robot Shankar came under medical care on the advocate of the doctors who examined Robot Sankar, who had been drowned due to dehydration and low blood pressure.
+
+In this case, actor Robot Shankar, who was treated with the help of a ventilator, died without treatment.
+
+The filmmakers are shocked to learn about his death. Also, they are condolences to his death.
+
+Robot Shankar was admitted to hospital with jaundice a few years ago. It is noteworthy that he died after he was re -starring in films after intensive care. Remble
+
+◼️
+
+[Data](articles/485ee038.json)
+
+[Extended Data](ext_articles/485ee038.ext.json)
+
+---
+
+### Practical modular for Dhamma Education
+
+*2025-09-18 21:31:27* · [`adalk`](https://www.ada.lk/breaking_news/දහම්-අධ්‍යාපනය-සඳහා-ප්‍රායෝගික-මොඩියුලර්/11-418594) · `si`
+
+Attention was to prepare practical modulars for new education reforms and introduce a systematic procedure for the evaluation process and supervise them through the Provincial Education Departments and zonal offices.
+
+The teaching of religion must be made compulsory to minimize 20 times when religion teaches other subjects to teach other subjects in schools.
+
+It was also unable to issue a special tipist treat for the monks of the schools.
+
+Amarapura Maha Nikaya Siri Sumangala Thero and Amarapura Maha Seikaya Amarapura Maha Nikaya, Amarapura Maha Nikaya, Commissioner General of Buddhist Amarami Amararile, and the Advisory Council of the Advisory Council of Eigamma Amararile Thero. M. G. Senaratne, Education Additional Secretary, Commissioner General of Education Publications ,,
+
+◼️
+
+[Data](articles/55ecfd2a.json)
+
+[Extended Data](ext_articles/55ecfd2a.ext.json)
+
+---
+
+### Web range for foreigners involved in theft
+
+*2025-09-18 21:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டில்-ஈடுபட்ட-வெளிநாட்டவர்களுக்கு-வலை-வீச்சு/175-364876) · `ta`
+
+Investigations are underway into two foreigners who stole a sum of Rs.
+
+They have stolen the money in a new way, claiming that the money is turned into more money.
+
+It is reported that the driver of Paravurthi has lodged a complaint at the police station.  R
+
+◼️
+
+[Data](articles/7e95a7de.json)
+
+[Extended Data](ext_articles/7e95a7de.ext.json)
 
 ---

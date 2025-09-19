@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-19 14:10:45**
+As of **2025-09-19 15:07:38**
 
 ## Newspaper Stats
 
-*Scraped **76,931** Articles*
+*Scraped **76,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,295 @@ economynextcom | 4,653
 islandlk | 4,726
 dailymirrorlk | 4,733
 dailyftlk | 5,470
-adalk | 7,481
-adaderanalk | 9,931
-tamilmirrorlk | 11,564
+adalk | 7,482
+adaderanalk | 9,934
+tamilmirrorlk | 11,570
 virakesarilk | 12,508
-adaderanasinhalalk | 13,418
+adaderanasinhalalk | 13,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-75,583 (98.2%) of 76,931 articles have been extended.
+75,641 (98.3%) of 76,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-19 (Friday)
 
-### வெளிநாட்டு வேலைவாய்ப்பு புகார்களை விசாரிக்க சிறப்பு புலனாய்வு பிரிவு
+### கனகராயன்குளம் விபத்தில் வெளிநாட்டு பிரஜை பலி
+
+*2025-09-19 14:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனகராயன்குளம்-விபத்தில்-வெளிநாட்டு-பிரஜை-பலி/175-364922) · `ta`
+
+கனகராயன்குளம் பகுதியில் வெள்ளிக்கிழமை (19) இடம்பெற்ற விபத்தில் ஜெர்மன் நாட்டை சேர்ந்த  ஒருவர் பலியாகியுள்ளார்.
+
+கொழும்பில் இருந்து யாழ்  நோக்கி சென்று கொண்டிருந்த பாரவூர்தி வவுனியா கனகராயன்குளம் பகுதியில் அதே திசையில் சென்று கொண்டிருந்த போது துவிச்சக்கர வண்டியில் மோதியுள்ளது. இதில், துவிச்சக்கர வண்டியில் பயணித்து கொண்டிருந்த நபர் கீழே விழுந்துள்ளார்.
+
+விபத்தில் துவிச்சக்கர வண்டியில் பயணித்த நபர் படுகாயமடைந்த நிலையில் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+அவர் ஜேர்மன் நாட்டில் இருந்து வருகை தந்து கனகராயன்குளம் பகுதியில் தங்கியிருந்த நிலையில் குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்துடன் தொடர்புடைய பாரவூர்தியின் சாரதி கனகராயன்குளம் பொலிஸாரால் கைது செய்யப்பட்டுள்ளதுடன், விபத்து தொடர்பாக பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/979081c4.json)
+
+---
+
+### ராஜாவின் பார்வை ராணியின் பக்கம்
+
+*2025-09-19 14:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜாவின்-பார்வை-ராணியின்-பக்கம்/175-364921) · `ta`
+
+◼️
+
+[Data](articles/8d2ca02d.json)
+
+---
+
+### Special police unit to investigate foreign employment complaints
+
+*2025-09-19 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214756) · `si`
+
+A special investigation unit has been established at the Head Office of the Sri Lanka Limited.
+
+The unit commenced yesterday (18), 16 police officers have been attached to the unit.
+
+Established in 1985, with the Foreign Employment Authority, "1985, the work of the foreign employment is to solve their complaints successfully and expeditiously.
+
+Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra said that the unit was established to provide relief to the migrant community with immediate solution to complaints and complaints.
+
+...
+
+[Data](articles/2f723688.json)
+
+[Extended Data](ext_articles/2f723688.ext.json)
+
+---
+
+### Dileepan's memorial image was removed by the police
+
+*2025-09-19 14:24:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திலீபனின்-நினைவு-படத்தை-அகற்றி-பொலிஸார்-அடாவடி/75-364920) · `ta`
+
+The memorial has been removed by the police on Friday morning (19) as the sacrificial fire has been in Tirukonamalai for the past four days.
+
+The commemoration of Dileepan was installed at the Shiva Temple at the Shiva Temple by the Tamil national activists on Monday.
+
+In this backdrop, the police officers of the Trincomalee main police station have improperly removed the memorial.
+
+◼️
+
+[Data](articles/ddfd8503.json)
+
+[Extended Data](ext_articles/ddfd8503.ext.json)
+
+---
+
+### Court order on air pollution in Jaffna
+
+*2025-09-19 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214755) · `si`
+
+The Court of Appeal today (19) ordered the Jaffna Municipal Council to take all possible steps to minimize air pollution in Jaffna.
+
+Uma Sukhi Nadaraja, a doctor in Jaffna, has been sent to a file to the examination.
+
+The judges of the Court of Appeal, Judge Rahantha Abeyariya and Priyantha Fernando were the case with Priyantha Fernando.
+
+When the petition was called, the President's Court, Chairman of the Court of Appeal, has asked the lawyers in Jaffna regarding the provisions of the Environment Act.
+
+Accordingly, the judge has informed Jaffna Municipal Court to take action to prevent the prevention of pollution in Jaffna according to the provisions of the Level.
+
+The Central Environmental Authority (SLAF) has instructed the CEA.
+
+The petition has filed the petition by the relevant doctor asking for gases and ordered the respondents to prevent the respondents in Jaffna.
+
+◼️
+
+[Data](articles/6cd3b736.json)
+
+[Extended Data](ext_articles/6cd3b736.ext.json)
+
+---
+
+### Appeals Court orders Jaffna MC to take measures against air pollution
+
+*2025-09-19 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112677/appeals-court-orders-jaffna-mc-to-take-measures-against-air-pollution) · `en`
+
+The Court of Appeal today ordered the Jaffna Municipal Council to take all necessary steps to reduce air pollution in the Jaffna area.
+
+The order was delivered by a bench comprising Justice Rohantha Abeysuriya, President of the Court of Appeal, and Justice Priyantha Fernando, when a petition filed by Dr. Uma Sukhi Nadarajah, a medical practitioner in Jaffna, was taken up for hearing.
+
+During proceedings, the President of the Court of Appeal questioned the lawyers representing the respondents on whether action had been taken under the provisions of the Environmental Acts to address air pollution in the region, said Ada Derana reporter.
+
+The bench directed the Jaffna Municipal Council to implement preventive measures in accordance with the law and further noted that the Central Environmental Authority (CEA) should extend the necessary support to ensure compliance.
+
+...
+
+[Data](articles/63e37b6c.json)
+
+---
+
+### House in Hatton
+
+*2025-09-19 14:18:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-வீடு-புகுந்து-கைவரிசை-யுவதி-சிக்கினார்/76-364919) · `ta`
+
+Hatton police arrested a 21 -year -old woman on Thursday evening on suspicion of stolen money at the Ebotchili Mask Division, which belongs to the Hatton Police Division.
+
+The woman has stolen 95 thousand rupees, bank automatic money cards and an identity card from the house.
+
+He then used the ATM card to take a sum of Rs.
+
+Police have arrested a 21 -year -old woman, with the help of a CCTV camera mounted on the bank following a complaint received by Hatton police.
+
+The suspect was produced before the Hatton District Magistrate's Court, police said.
+
+◼️
+
+[Data](articles/f233a797.json)
+
+[Extended Data](ext_articles/f233a797.ext.json)
+
+---
+
+### Gaza War: UN resolution failure
+
+*2025-09-19 14:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-போர்-ஐ-நா-வின்-தீர்மானம்-தோல்வி/50-364918) · `ta`
+
+Hamas terrorists attacked West Asia, Israel on October 7, 2023. More than 251 were caught as hostage. In return, Israel launched a war on Palestine's Gaza.
+
+More than 60 thousand people have been killed. It has been reported that 80 per cent of the Gaza areas have been brought under the control of the Israeli military.
+
+Israeli army is progressing through the ground in Gaza, Palestine. As the tension has increased there, the Palestinians are emptying the city of Gaza and the crowds are out of the crowd.
+
+In this case, the UN to end the war immediately in Gaza. The Security Council resolution failed. The United States again failed to use its veto power.
+
+◼️
+
+[Data](articles/b82d921e.json)
+
+[Extended Data](ext_articles/b82d921e.ext.json)
+
+---
+
+### Banning for books written by women in Afghanistan
+
+*2025-09-19 14:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-பெண்கள்-எழுதிய-புத்தகங்களுக்கு-தடை/50-364917) · `ta`
+
+The Taliban ruled after US forces left Afghanistan in 2021. From that since then there have been women and children's rights being taken there. There are strict restrictions on women to go out, educate and work.
+
+In this case, women's books on women's rights and gender have been removed as they were featured in university subjects.. According to the new Education Act, 680 Buddhists have been banned, including 140 books written by women and 310 books of Iranian writers, as the Taliban's policies and Sharia law are against the law.
+
+And the University of Afghanistan, claiming that Sharia is contradictory with law. The Taliban government has banned women's books in subjects. It is noteworthy that the Taliban government recently banned the Piper Optical Internet service in about 6 provinces in Afghanistan.
+
+◼️
+
+[Data](articles/82f465c7.json)
+
+[Extended Data](ext_articles/82f465c7.ext.json)
+
+---
+
+### Special Intelligence Unit to investigate foreign employment complaints
 
 *2025-09-19 13:51:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-புகார்களை-விசாரிக்க-சிறப்பு-புலனாய்வு-பிரிவு/175-364916) · `ta`
 
-வெளிநாட்டு வேலைவாய்ப்பு தொடர்பான புகார்களை விசாரித்து உடனடியாக தீர்வு காணும் வகையில், இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைமை அலுவலகத்தில்  காவல்துறை அதிகாரிகளைக் கொண்ட சிறப்பு புலனாய்வுப் பிரிவு வெள்ளிக்கிழமை (19) திறக்கப்பட்டது. இந்தப் பிரிவுக்கு தலைமை ஆய்வாளர் உட்பட 16 பொலிஸ் அதிகாரிகள் நியமிக்கப்பட்டுள்ளனர்.
+Special Investigation Unit of Police Officers at the Headquarters of the Sri Lanka Foreign Employment Bureau at the Headquarters of the Sri Lanka Foreign Employment Bureau opened on Friday (19) to investigate complaints of foreign employment.. 16 police officers, including Chief Inspector, have been appointed to this unit.
 
-“வெளிநாட்டு வேலைவாய்ப்பு மோசடியைத் தடுப்பதையும், புகார்களுக்கு உடனடி தீர்வுகளை வழங்குவதன் மூலம் புலம்பெயர்ந்த சமூகத்திற்கு நிவாரணம் வழங்குவதையும் நோக்கமாகக் கொண்டு இந்தப் பிரிவு நிறுவப்பட்டது,” என்று வெளியுறவு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திர கூறினார். புதிய அரசாங்கம் ஆட்சிக்கு வந்த பிறகு இந்தப் பிரிவு விரைவாக நிறுவப்பட்டது என்று அவர் கூறினார்.”
+“This section is aimed at preventing foreign employment fraud and providing relief to the immigrant community by providing immediate solutions to complaints,” said Foreign and Foreign Employment Deputy Minister Arun Hemachandra said.. He said that after the new government came to power, the faction was established quickly. ”
+
+“I think the number of complaints received in recent times has increased. This is because the parties involved in foreign employment fraud are using tactics one after another one after another. A group that is somehow transformed is involved in these scams. Some groups are fraudulent as unregistered agents in the console.
 
 ...
 
 [Data](articles/5bd05b52.json)
 
+[Extended Data](ext_articles/5bd05b52.ext.json)
+
 ---
 
-### උඩුදුම්බර ඛේදවාචකය - දෙදිනකට පෙර පියාත් ලියුකේමියාවෙන් මිය ගිහින්
+### Ali Rooson sentenced to 15 years of serious work
+
+*2025-09-19 13:48:25* · [`adalk`](https://www.ada.lk/breaking_news/අලි-රොෂාන්ට-වසර-15ක-බරපතල-වැඩ-සහිත-සිර-දඩුවම්/11-418605) · `si`
+
+Nirj Roshan, Ali Roshan, was convicted of two allegations without licenses, imposed 15 years in prison.
+
+The case was taken up with the three-member High Court Judge. Also, the accused was fined Rs 206 lakhs. The elephant was also condemned to confuse.
+
+Three other defendants accused of the incident have been acquitted to acquit and release them.
+
+◼️
+
+[Data](articles/3842ef03.json)
+
+[Extended Data](ext_articles/3842ef03.ext.json)
+
+---
+
+### Lands in Northern Province will not be released for political gains – Minister Bimal
+
+*2025-09-19 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112675/lands-in-northern-province-will-not-be-released-for-political-gains-minister-bimal-) · `en`
+
+Minister Bimal Ratnayake stated that lands in the Northern Province acquired by the government for security purposes will not be released with the aim of gaining political advantages.
+
+He made these remarks during the Jaffna District Development Committee meeting held yesterday (18).
+
+The meeting had taken a heated turn with an exchange of words between MP S. Sridharan and Minister Bimal Rathnayake regarding the land related issues.
+
+The meeting, convened under the purview of the Ministry of Transport, Highways, Ports, and Civil Aviation, saw MP Sridharan raise several concerns, including the issues related to the release of lands in the Northern Province.
+
+◼️
+
+[Data](articles/f4da4a69.json)
+
+[Extended Data](ext_articles/f4da4a69.ext.json)
+
+---
+
+### The Uddumbara Traged Traged - Father and Leukemia died a day ago
 
 *2025-09-19 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214754) · `si`
 
-ලියුකේමියාවෙන් මියගිය සිය සැමියාගේ දේහය නිවසේ තිබියදීම සිය දරු තිදෙනා සමඟ වස පානය කළ කාන්තාවක් පිළිබඳ ඛේදනීය පුවතක් උඩුදුම්බර ප්‍රදේශයෙන් වාර්තා වුණි.
+The tragedy was reported from Ududumbara area about a woman who had died of leukemia at home.
 
-සිද්ධියෙන් එම කාන්තාව මිය ගොස් ඇති අතර දරුවන්ගේ සෞඛ්‍ය තත්ත්වය යහපත් බව රෝහල් බලධාරීන් ප්‍රකාශ කළේය.
+The woman died in the incident while children's health was good.
 
-"මැරෙන්න එපා ඇස් අරින්න...ඇස් අරින්න" මේ හද කම්පා කළ වචන කිහිපයකි.
+"Don't die ... Open the eyes ...
 
-කෙළිදෙලෙන්, සහෝදරකමින් මේ මොහොතේ උඩුදුම්බර ප්‍රාදේශීය රෝහලේ ඇඳක් උඩට වී සිටින මෙම දරුවන් තිදෙනා බලා සිටින්නේ, විසක් ශරීරගත වී ඇත්දැයි යන සැකයෙනි.
+The three children who are in the Ududumbara Divisional Hospital at the Ududumbara Divisional Hospital at the moment are the suspected of a bed of the Ududumbara Divisional Hospital.
 
-මේ දරුවන්ගේ මව ඊයේ (18) රාත්‍රියේ කිරි සම﻿ඟ වස මුසුකර දරුවන්ට පානයට කරන්නට දී ඇතත් වෙනදා මෙන් නොව එහි වූ තිත්ත රස නිසා දරුවන් කිරි කෝප්ප ප්‍රතික්ෂේප කර තිබුණි.
+The mother of these children had to drink the children to drink the kills at night, but the bitter tastes of their children had refused milk cups of milk.
 
-දරුවන් තිදෙනා එය ප්‍රතික්ෂේප කළත් මව ඒ සියල්ල පානය කිරීමෙන් පසු රෝගී වී තිබුණි.
+Although the three children refused to reject it, but the mother had been ill.
 
-පසුව අසල්වැසියන් විසින් දරුවන් සහ මව කඩිනමින් රෝහල් ගතකර ඇති අතර, ඒ වනවිටත් මව මෙළොව හැරගොස් තිබුණි.
+Later, neighbors were hospitalized immediately after their neighbors and had already left the mother of mother.
 
-රෝහල් බලධාරීන් පවසන පරිදි දරුවන්ට කිසිදු ගැටලුවක් නොමැති බව අනාවරණය වී තිබේ.
+According to the hospital authorities, children have no problem.
 
 ...
 
 [Data](articles/8e57a60e.json)
 
+[Extended Data](ext_articles/8e57a60e.ext.json)
+
 ---
 
-### ஐ.தே.க மாநாட்டில் சஜித் பங்கேற்கமாட்டார்?
+### Will Sajith not participate in the UNP conference?
 
 *2025-09-19 13:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-மாநாட்டில்-சஜித்-பங்கேற்கமாட்டார்/175-364915) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, ஐக்கிய தேசியக் கட்சியின் மாநாட்டில் கலந்து கொள்ள மாட்டார் என்று கட்சி வட்டாரங்கள் தெரிவித்தன.
+Opposition leader Sajith Premadasa will not attend the UNP conference, party sources said.
 
-எனினும், ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார மற்றும் சில பாராளுமன்ற உறுப்பினர்கள் மட்டுமே கட்சி சார்பாக கலந்து கொள்ள உள்ளனர்.
+However, the General Secretary of the United People's Power Ranjith Mathuma Bandara and only a few MPs will attend the party.
 
-ஐக்கிய தேசியக் கட்சியின் 79வது ஆண்டு நிறைவுக் கூட்டம் பத்தரமுல்லையில் உள்ள மோனார்க் இம்பீரியல் ஹோட்டலில் அதன் தலைவர் ரணில் விக்கிரமசிங்க தலைமையில் சனிக்கிழமை (20) காலை 9.00 மணிக்கு நடைபெறும்.
+The 79th Annual Meeting of the United National Party will be held at the Monark Imperial Hotel in Battaramulla at 9.00 am on Saturday (20) under the patronage of its leader Ranil Wickremesinghe.
 
-இந்த ஆண்டு நிறைவுக் கூட்டத்தில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ உட்பட எதிர்க்கட்சி அரசியல் தலைவர்கள் குழு கலந்து கொள்ள உள்ளது.
+Opposition political leaders, including Namal Rajapaksa, National Organizer and Member of Parliament, will attend this annual meeting.
 
 ◼️
 
 [Data](articles/15540d11.json)
+
+[Extended Data](ext_articles/15540d11.ext.json)
 
 ---
 
@@ -112,37 +330,69 @@ The arrested Sasheendra Rajapaksa has continued to be remanded after being produ
 
 ---
 
-### ඩෑන් ඝාතනයේ සැකකාර වෙඩික්කරු අත්අඩංගුවට
+### Dan murder suspect arrested
 
 *2025-09-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214753) · `si`
 
-දේශපාලන ක්‍රියාකාරිකයෙකු වූ ඩෑන් ප්‍රියසාද් ඝාතනයට සම්බන්ධ සැකකාර වෙඩික්කරු කෑගල්ල රන්වල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+The suspicious shot of the murder of the political activist Dan Priyasha has been arrested in Ranwala area in Kegalle.
 
-අදාළ සැකකරු ඇතුළු තිදෙනෙකු ඊයේ (18) රාත්‍රියේ මෙලෙස අත්අඩංගුවට ගෙන ඇති අතර අත්අඩංගුවට ගත් අය අතර කාන්තාවක් ද වන බව වාර්තා වෙයි.
+Three persons including the suspect have been arrested last night (18) and a woman among the arrested persons.
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී සැකකරුවන් සතුව තිබී නීතිවිරෝධී දුම්වැඩි 12,400ක් සහ ගජමුතු කිහිපයක් තිබී සොයාගෙන ඇත.
+At the time of his arrest, the suspects had 12,400 illegal cigarettes and several gauge.
 
-එක් සැකකරුවෙක් යුද හමුදාවේ සේවය කර නීත්‍යානුකූලව ඉවත්වූ අයෙකු බවද පොලීසිය පවසයි.
+One of the suspects was a legally resignation of the Army and led by the army.
 
 ◼️
 
 [Data](articles/2129a246.json)
 
+[Extended Data](ext_articles/2129a246.ext.json)
+
 ---
 
-### ප්‍රා. ලේ. කොට්ඨාස 6ට නාය යාමේ අනතුරු ඇඟවීම්
+### Gunman and two suspects arrested in murder of Dan Priyasad
+
+*2025-09-19 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112674/gunman-and-two-suspects-arrested-in-murder-of-dan-priyasad) · `en`
+
+The alleged shooter in the murder of political activist Dan Priyasad was arrested last night, along with two others—including a woman—in Ranwala town, Kegalle, the police confirmed.
+
+The arrests were carried out by officers of the Kegalle Divisional Criminal Investigation Unit.
+
+1. Jayawardena Mudiyanselage Aruna Sri Dhammika Jayawardena, resident of Rangwala, Kegalle
+
+2. Athige Primal Dhanuka Silva, resident of Welioya (formerly an army soldier attached to the 8th Artillery Regiment, who deserted from service in 2017)
+
+Posing as Athemadalage Damith Saranga Perera using a forged NIC
+
+3. Chandrasekara Mudiyanselage Punya Kumari Chandrasekara, resident of Ranala Road, Dedigamuwa
+
+Possession and trafficking of 4,400 mg of crystal methamphetamine (Ice)
+
+Posing as Tennakoon Arachchige Manodya Lakmini Tennakoon using a forged NIC
+
+...
+
+[Data](articles/a3bf809d.json)
+
+[Extended Data](ext_articles/a3bf809d.ext.json)
+
+---
+
+### Primary. Blood. Landslide warnings to 6 divisions
 
 *2025-09-19 13:12:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා--ලේ--කොට්ඨාස-6ට-නාය-යාමේ-අනතුරු-ඇඟවීම්/11-418604) · `si`
 
-පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස හයක් සඳහා  නායයෑමේ  අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය අද (19)  පියවර තිබේ.
+The National Building Research Organization (NBR) has today (19) to issue landslide warning announcements for six districts in five districts due to adverse weather conditions.
 
-ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ සීතාවක, කළුතර දිස්ත්‍රික්කයේ ඉංගිරිය, හොරණ, කෑගල්ල දිස්ත්‍රික්කයේ දෙහිඹ්විට, රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර  හා නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ   යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සඳහා අනතුරු ඇඟවීමේ පළමු වන  මට්ටමේ විමසිලිමත්ව සිටින ලෙස දැනුම්දීමේ නිවේදන  නිකුත් කොට තිබේ.
+The informs of Colombo District have been released to be aware of the first level to be aware of the first level of warning to the Kotmale, Ratnapura and Nuwara Eliya District in the Colombo District of Colombo, Horana, Ratnapura District.
 
-අද (19) පෙරවරු 10.00 සිට හෙට (20) පෙරවරු 10.00 දක්වා මෙම නිවේදන වලංගු වන බවත්, එම නිවේදන නිකුත් කොට ඇති ප්‍රාදේශීය ලේකම්  කොට්ඨාසයන්ගේ  පදිංචි ජනතාව මේ පිළිබඳව අවධානයෙන් සිටිය යුතු බවද ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය වැඩිදුරටත් සඳහන් කරයි.
+The announcements will be valid from 10.00 am to 10am tomorrow (20) and the people of the Divisional Secretariat who have issued the announcements should be aware of this.
 
 ◼️
 
 [Data](articles/7e2ca1f8.json)
+
+[Extended Data](ext_articles/7e2ca1f8.ext.json)
 
 ---
 
@@ -1757,233 +2007,5 @@ The event celebrated 3M-McLarens’ most loyal customers for their continued tru
 [Data](articles/8eb7f248.json)
 
 [Extended Data](ext_articles/8eb7f248.ext.json)
-
----
-
-### CEB unions escalate protest, disrupts traffic
-
-*2025-09-19 05:42:35* · [`dailyftlk`](https://www.ft.lk/news/CEB-unions-escalate-protest-disrupts-traffic/56-781882) · `en`
-
-The All Employees’ Union of the Ceylon Electricity Board staged a protest outside its headquarters causing heavy traffic congestion along Sir Chittampalam A. Gardiner Mawatha in Colombo yesterday – Pic by Pradeep Pathirana
-
-Heavy traffic congestion was reported along Sir Chittampalam A. Gardiner Mawatha in Colombo yesterday, after Ceylon Electricity Board (CEB) workers staged a demonstration opposite the CEB headquarters. The protest, which blocked one lane between the Lake House roundabout and Slave Island, disrupted evening traffic and forced police to advise motorists to take alternate routes.
-
-The demonstration was part of an escalating trade union campaign against the Government’s plan to restructure the CEB into four entities. Large numbers of workers carrying placards gathered outside the CEB Head Office, shouting slogans and obstructing traffic for several hours.
-
-...
-
-[Data](articles/e3f4b2bc.json)
-
-[Extended Data](ext_articles/e3f4b2bc.ext.json)
-
----
-
-### AASL amends restrictions imposed on visitor entry at BIA
-
-*2025-09-19 05:41:29* · [`dailyftlk`](https://www.ft.lk/news/AASL-amends-restrictions-imposed-on-visitor-entry-at-BIA/56-781881) · `en`
-
-The Airport and Aviation Services (Sri Lanka) Ltd. (AASL) yesterday announced that the restriction on the entry to the Departure Lobby at Bandaranaike International Airport (BIA) for visitors during peak hours has been amended.
-
-Accordingly, the restriction on visitors to the Departure Lobby will only apply on Thursdays and Saturdays from 10.00 p.m. to midnight.
-
-On 18 August, the AASL announced that that, with immediate effect, visitors will not be permitted to enter the Departure Lobby between 10 p.m. and midnight on Thursdays, Fridays, and Saturdays (https://www.ft.lk/front-page/BIA-restricts-visitor-access-during-peak-hours-to-ease-congestion/44-780521). The measure was introduced to ease congestion and ensure smoother operations for passengers and airport users.
-
-◼️
-
-[Data](articles/ed357a5a.json)
-
-[Extended Data](ext_articles/ed357a5a.ext.json)
-
----
-
-### MPs explore UK support to boost youth, women political participation
-
-*2025-09-19 05:41:06* · [`dailyftlk`](https://www.ft.lk/news/MPs-explore-UK-support-to-boost-youth-women-political-participation/56-781880) · `en`
-
-Prime Minister Dr. Harini Amarasuriya (left) and Women and Child Affairs Minister Saroja Savithri Paulraj
-
-The Parliament Secretariat yesterday said Women Parliamentarians’ Caucus has held discussions with representatives of the Westminster Foundation for Democracy (WFD) and the Law and Society Trust (LST) on potential areas of support and ways to encourage greater political participation by young women.
-
-The meeting was attended by Prime Minister Dr. Harini Amarasuriya and Caucus Chairperson and Women and Child Affairs Minister Saroja Savitri Paulraj and focused on gender-sensitive governance and intergenerational dialogue.
-
-WFD representatives proposed support for introducing gender-sensitive law-making and gender-responsive budgeting, strengthening the Caucus’s role in increasing women’s labour force participation, and providing research and policy input to make Parliament more gender-sensitive.
-
-...
-
-[Data](articles/4e70ab55.json)
-
-[Extended Data](ext_articles/4e70ab55.ext.json)
-
----
-
-### Ex-Lotteries Board Director Halloluwa gets bail
-
-*2025-09-19 05:40:01* · [`dailyftlk`](https://www.ft.lk/news/Ex-Lotteries-Board-Director-Halloluwa-gets-bail/56-781879) · `en`
-
-The Colombo Magistrate’s Court yesterday granted bail to former National Lotteries Board Director Thusitha Halloluwa, who had been in remand custody.
-
-He was released on two sureties of Rs. 500,000 each. The court also imposed a travel ban and directed that his passport be surrendered.
-
-Halloluwa was earlier remanded in connection with a shooting incident involving his vehicle in Narahenpita. He was arrested on 19 August during a raid carried out by the Colombo Crimes Division in Colpetty.
-
-◼️
-
-[Data](articles/c561f7e2.json)
-
-[Extended Data](ext_articles/c561f7e2.ext.json)
-
----
-
-### Ex-Sabaragamuwa Minister remanded over Rs. 70 m fraud
-
-*2025-09-19 05:38:57* · [`dailyftlk`](https://www.ft.lk/news/Ex-Sabaragamuwa-Minister-remanded-over-Rs-70-m-fraud/56-781878) · `en`
-
-Former Sabaragamuwa Provincial Council Minister Athula Kumara Rahubadda has been remanded until 2 October for allegedly misappropriating Rs. 70 million worth of State funds.
-
-The Criminal Investigation Department (CID) arrested and produced him before the Embilipitiya Magistrate’s Court on Wednesday, which ordered that he be held in remand custody pending further investigations.
-
-◼️
-
-[Data](articles/7c5e2710.json)
-
-[Extended Data](ext_articles/7c5e2710.ext.json)
-
----
-
-### Suspect arrested for long -term heroin business in Kurunagar
-
-*2025-09-19 05:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225466) · `ta`
-
-A 36 -year -old suspect has been arrested today in Jaffna - Kurunagar area.. He has recovered 120 milligrams of heroin from him.
-
-The arrest was carried out by the police on duty at the Gurunagar Police Police on the basis of confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
-
-Police are taking steps to bring the suspect in court after investigations.
-
-◼️
-
-[Data](articles/6dbd09d4.json)
-
-[Extended Data](ext_articles/6dbd09d4.ext.json)
-
----
-
-### Only through international independent investigation can achieve meaningful accountability - International Criminal Legal Legal Experts point out
-
-*2025-09-19 05:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225465) · `ta`
-
-International criminal legal experts have pointed out that meaningful accountability can only be achieved through the International Independent Inquiry mechanism, not through the internal phenomenon of violations against humanity in Sri Lanka.
-
-A discussion was held at the Geneva Media Center last week on the topic of 'International Responsibility in Sri Lanka' organized by the National Canadian Tamil Congress.. The meeting, compiled by Ruksha Sivanandan, Executive Director of the National Canadian Tamil Congress, participated in the International Criminal Prosecutor, International Lawyer Mariam Bosti, United Nations Investigation of Sexual and Sexual Violence, Julie Dubey Kagnan and Sri Lanka's Social Association.
-
-They generally emphasized that they can ensure accountability in Sri Lanka only through independent international inquiries, not by internal techniques.
-
-...
-
-[Data](articles/21ba8c89.json)
-
-[Extended Data](ext_articles/21ba8c89.ext.json)
-
----
-
-### Two persons arrested for assaulting doctors in Urumpirai
-
-*2025-09-19 05:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225464) · `ta`
-
-The incident of police release of two persons who were attacked by a doctor who was traveling on a road in Urumpirai area in Jaffna. Two persons have been arrested on Thursday evening (18) after reports have been reported in the media.
-
-On Wednesday (17), a doctor was traveling by a road in Urumpirai, which belongs to the Kopay police division. A group of liquor was stood on the road to disrupt traffic.
-
-When the doctor asked him to go, the gang attacked him.. The doctor, who was injured, informed the Kopay police about this.
-
-Kopay police arrested two men and others escaped. The doctor was later admitted to the Jaffna Teaching Hospital for treatment.
-
-It is reported that the Kopay Police Station Criminal Investigation Division said that the two men were released without bail.
-
-It is noteworthy that the two suspects who attacked the attack were again arrested by the police.
-
-◼️
-
-[Data](articles/ff2e299a.json)
-
-[Extended Data](ext_articles/ff2e299a.ext.json)
-
----
-
-### Health Service for Pregnant Mothers and Children - Minister Nalinda Jayatissa
-
-*2025-09-19 05:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225463) · `ta`
-
-Health and Media Minister Nalinda Jayatissa has assured that all the baby, including pregnant mothers and newborns, will ensure a safe and healthy environment and their health services will be enhanced soon.
-
-World Safety Day is celebrated on September 17 every year. Accordingly, a special event organized by the Ministry of Health was held at the Colbees Hotel, Colombo on Wednesday (17) under the leadership of the Minister of Health.. This year, the World Patient Protection Day is observed in accordance with the special theme: "Providing a safe health service to every child in the country, including children,".
-
-World Safety Day was declared by the World Health Organization in 2019 to safely provide health services to patients. It is the duty of all of us to protect every child born in this country.
-
-...
-
-[Data](articles/4caee59b.json)
-
-[Extended Data](ext_articles/4caee59b.ext.json)
-
----
-
-### AFD of France keen on pump storage plants as Sri Lanka eyes funding
-
-*2025-09-19 05:00:00* · [`economynextcom`](https://economynext.com/frances-afd-keen-on-pump-storage-plants-as-sri-lanka-eyes-funding-241122/) · `en`
-
-ECONOMYNEXT – The French development agency is keen to support pump storage plants as part of its commitment to climate change resilience and green energy, an official said as Sri Lanka’s power grid eyes 600 MegWatt unit accommodate intermittent renewables.
-
-“Actually, pump storage is one of the solutions that AFD is really keen to support,” the Deputy Head of Energy at Agence Française de Développement, Manelle Ait Sahlia told reporters in Paris.
-
-“It’s not an easy solution from a technical point of view. But it’s a very interesting solution in countries with hydro potential.”
-
-“We’ve approved the financing last year for a pump storage project in Vietnam. And AFD was leading a pool of financiers and leading a Team Europe approach for this project.”
-
-The German Reconstruction Bank (KfW), the Japan International Cooperation Agency (JICA), the European Investment Bank (EIB) had joined AFD in co-financing the Vietnam project.
-
-...
-
-[Data](articles/73d3316d.json)
-
-[Extended Data](ext_articles/73d3316d.ext.json)
-
----
-
-### Sri Lanka opens large water supply system funded by China
-
-*2025-09-19 00:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-large-water-supply-system-funded-by-china-241159/) · `en`
-
-ECONOMYNEXT – Sri Lanka has opened its integrated water supply system which will provide safe drinking water to people in Gampaha, Minuwangoda and Attanagalla and parts of Mahara and Mirigama, minister Vijitha Herath said.
-
-The large-scale project begun by the former Yahapalanaya government, includes 88,000 new water connections and the upgrading of about 22,000 existing water connections.
-
-The project includes the Basnagoda Reservoir with a capacity of 5.5 million cubic meters, a pumping station with a capacity of 85,000 cubic meters a day, a water treatment plant with a capacity of 54,000 cubic meters a day, a high-level water tank with a capacity of 10,000 cubic meters, and 5 water towers with a capacity of 1,500 cubic meters.
-
-The total length of the transmission pipeline is 85 km with a distribution pipeline network of 504 km.
-
-The project was mainly funded by the China Development Bank and carried out by China Machinery Engineering Corporation (CMEC). (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/ffe775c3.json)
-
-[Extended Data](ext_articles/ffe775c3.ext.json)
-
----
-
-### Duti Welelige's father passes away
-
-*2025-09-19 00:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214735) · `si`
-
-Dhamma Vellalage's dear father, Suranga Welleala, has passed away.
-
-He had been completed by a heart attack, and the year-old was 54 years old.
-
-◼️
-
-[Data](articles/7cd7768b.json)
-
-[Extended Data](ext_articles/7cd7768b.ext.json)
 
 ---

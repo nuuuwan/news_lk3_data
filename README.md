@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 10:55:22**
+As of **2025-09-20 11:39:36**
 
 ## Newspaper Stats
 
-*Scraped **77,062** Articles*
+*Scraped **77,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,491
-adaderanalk | 9,951
+adalk | 7,492
+adaderanalk | 9,952
 tamilmirrorlk | 11,585
 virakesarilk | 12,528
 adaderanasinhalalk | 13,446
@@ -26,11 +26,29 @@ adaderanasinhalalk | 13,446
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,444 (99.2%) of 77,062 articles have been extended.
+76,478 (99.2%) of 77,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
+
+### Former President Ranil to join UNP’s 79th anniversary celebration
+
+*2025-09-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112696/former-president-ranil-to-join-unps-79th-anniversary-celebration-) · `en`
+
+The 79th anniversary of the United National Party (UNP) will be celebrated today (20).
+
+The event will be held under the patronage of the party leader, former President Ranil Wickremesinghe.
+
+The anniversary celebrations are scheduled to take place at a private hotel in the Sri Jayewardenepura area.
+
+◼️
+
+[Data](articles/6c09f468.json)
+
+[Extended Data](ext_articles/6c09f468.ext.json)
+
+---
 
 ### UNP 79th Anniversary today
 
@@ -301,6 +319,26 @@ However, 114 persons have been arrested and implemented into the law.
 [Data](articles/7fccebb9.json)
 
 [Extended Data](ext_articles/7fccebb9.ext.json)
+
+---
+
+### Five officers have obtained the electoral allowance of Rs. 102 lakhs without the approval of state printing boss
+
+*2025-09-20 08:35:02* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මුද්‍රණ-ලොක්කාගේ-අනුමැතය-නොමැතිව-නිලධාර‍ින්-පහක්-ලක්ෂ-102ක-මැතිවරණ-දීමනා-ලබාගෙන/11-418615) · `si`
+
+There are five executive grade officers of the Government Printing Department for the elections of the Government Printing Department for the approval of the Director General of Establishment (2024).
+
+This information has revealed the sample inspection that was done by the Audit Office of the Elections for Elections for Elections in 2024.
+
+Accordingly, an executive grade one executive officer of the Department of Elections for the Elections last year (2024) was obtained by another executive grade Rs. 2,302,300 per Rs.. Also, another executive officer of Rs Audit has been revealed that a sum of money has been obtained.
+
+The Government Printing Department has included this information in the audit report of the performance report issued by the 2024 year.
+
+◼️
+
+[Data](articles/4c7e5f06.json)
+
+[Extended Data](ext_articles/4c7e5f06.ext.json)
 
 ---
 
@@ -2023,53 +2061,5 @@ In the accident, the motorcycle driver died after being injured and admitted to 
 [Data](articles/2dc58bff.json)
 
 [Extended Data](ext_articles/2dc58bff.ext.json)
-
----
-
-### Petition seeking protection for ‘Panadura Nilanga’ fixed for consideration
-
-*2025-09-19 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112679/petition-seeking-protection-for-panadura-nilanga-fixed-for-consideration) · `en`
-
-The Court of Appeal has ordered that a writ petition filed seeking directives to ensure the safety of alleged underworld figure Nilanga Sampath Silva, alias ‘Panadura Nilanga’, be taken up for consideration on September 26.
-
-The petitioner, the suspect’s mother, filed the application requesting an order to safeguard her son, who was recently arrested in Indonesia, brought back to Sri Lanka, and is currently being held in the custody of the Criminal Investigation Department (CID).
-
-The case was called today before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando, said Ada Derana reporter.
-
-After hearing facts from counsel for the petitioner and Additional Solicitor General Shanil Kularatne, appearing on behalf of the Attorney General, the court directed the case to be reconsidered on September 26.
-
-The petition names the Director of the CID, the Inspector General of Police, the Attorney General, and several others as respondents.
-
-...
-
-[Data](articles/60429b55.json)
-
-[Extended Data](ext_articles/60429b55.ext.json)
-
----
-
-### Police suffered a special report on Kehelbaradara Padma
-
-*2025-09-19 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214760) · `si`
-
-The police were produced before the Colombo Magistrate's Court today (19) at the Colombo Magistrate's Court today (19).
-
-The report was presented to Colombo Additional Magistrate Lahiru Silva.
-
-The Criminal Investigations Department (CID) presented the report to court in response to the court, said the suspect was detained on detention orders.
-
-The police said that the suspect was involved in the murder of Ganejatha Sanjeewa murder, police said.
-
-The suspect was detained by the magistrate whether he was observed by a magistrate.
-
-Responding, the investigating officials stated that the suspect had inspected the suspect by the Fort Magistrate.
-
-Accordingly, the Additional Magistrate also ordered the investigation to investigate the suspect and report to the court.
-
-◼️
-
-[Data](articles/869af459.json)
-
-[Extended Data](ext_articles/869af459.ext.json)
 
 ---

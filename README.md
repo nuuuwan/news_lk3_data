@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 09:38:37**
+As of **2025-09-20 09:11:14**
 
 ## Newspaper Stats
 
-*Scraped **77,053** Articles*
+*Scraped **77,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,491
-adaderanalk | 9,950
+adaderanalk | 9,948
 tamilmirrorlk | 11,584
 virakesarilk | 12,524
 adaderanasinhalalk | 13,443
@@ -26,69 +26,45 @@ adaderanasinhalalk | 13,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,412 (99.2%) of 77,053 articles have been extended.
+76,379 (99.1%) of 77,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### Mysterious bag
+### புகையிரதத்தில் மீட்கப்பட்ட மர்மப் பை
 
 *2025-09-20 08:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/புகையிரதத்தில்-மீட்கப்பட்ட-மர்மப்-பை/73-364948) · `ta`
 
-The train from Colombo to Batticaloa was found in the Batticaloa Railway Station yesterday evening (19).
+கொழும்பில் இருந்து மட்டக்களப்பு நோக்கி பயணித்த புகையிரதம் நேற்று (19) மாலை மட்டக்களப்பு புகையிரத நிலையத்தை வந்தடைந்தபோது, கைவிடப்பட்ட நிலையில் பை ஒன்று கண்டுபிடிக்கப்பட்டது.
 
-Upon opening the bag, it was found that 200 grams of jazz was packed in 252 peckets.
+பையைத் திறந்து பரிசோதித்தபோது, அதில் 252 பெக்கெட்டுகளில் பொதி செய்யப்பட்ட 200 கிராம் ‘ஜஸ்’ வகை போதைப் பொருள் இருப்பது கண்டறியப்பட்டது.
 
-The Batticaloa Headquarters Headquarters Division is conducting further investigations into the incident.  R
+இச்சம்பவம் தொடர்பாக மட்டக்களப்பு தலைமையக பெரும் குற்றத்தடுப்பு பிரிவு பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.  R
 
 ◼️
 
 [Data](articles/358d18d0.json)
 
-[Extended Data](ext_articles/358d18d0.ext.json)
-
 ---
 
-### Husband and son attack wife and son to attack - son
+### සැමියා විසින් බිරිඳට හා පුතාට පහරදෙයි - පුතා මරුට
 
 *2025-09-20 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214780) · `si`
 
-In Batuwatta area in Devalegama, a person had assaulted his wife and son yesterday (19).
+දේවාලේගම පොලිස් වසමේ බටුවත්ත ප්‍රදේශයේදී පුද්ගලයෙකු විසින් ඊයේ (19) රාත්‍රියේ ඔහුගේ බිරිඳට හා පුතාට පහරදී පුත්‍රයා ඝාතනය කර තිබේ.
 
-The wife was injured and rushed to the Kegalle hospital that he was established on a tip off the incident.
+බිරිඳ තුවාල ලබා කෑගල්ල රෝහලට ඇතුළත් කර ඇති බවට දේවාලේගම පොලිස් ස්ථානයට ලද තොරතුරක් මත සිද්ධිය පිළිබඳ විමර්ශන ආරම්භ කෙරුණි.
 
-The victim is a 35 year old resident of Batuwatta, Batuwatta.
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 35ක් වූ බටුවත්ත, හැලමඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
 
-Investigations have revealed that the murder had been assaulted by a stick due to a family dispute.
+පවුල් ආරවුලක් හේතුවෙන් පොල්ලකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදුකර ඇති විමර්ශනයේදී අනාවරණය වී ඇත.
 
-Magistrate investigation into the morgue is to be conducted on the other and Devalese Police are conducting further investigations.
+මෘතශරීරය සම්බන්ධයෙන් මහේස්ත්‍රාත් පරීක්ෂණ සිදුකිරීමට නියමිත අතර දේවාලේගම පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
 
 ◼️
 
 [Data](articles/da58293b.json)
-
-[Extended Data](ext_articles/da58293b.ext.json)
-
----
-
-### Former TNA MP Thanmanpillai Kanagasabai passes away
-
-*2025-09-20 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112693/former-tna-mp-thanmanpillai-kanagasabai-passes-away-) · `en`
-
-Former Tamil National Alliance (TNA) Member of Parliament for the Batticaloa District, Thanmanpillai Kanagasabai, passed away yesterday (19) at the age of 86.
-
-Kanagasabai, a resident of Kaluthavalai in Batticaloa, was a retired government official.
-
-He contested the 2004 General Election from the Tamil National Alliance (TNA) in the Batticaloa District and was elected to Parliament, securing the highest number of preferential votes.
-
-Details regarding his funeral arrangements will be announced in due course.
-
-◼️
-
-[Data](articles/27e8f1da.json)
-
-[Extended Data](ext_articles/27e8f1da.ext.json)
 
 ---
 
@@ -131,26 +107,6 @@ The Criminal Investigation Department said that the round was led by the Senior 
 [Data](articles/3a3e7aff.json)
 
 [Extended Data](ext_articles/3a3e7aff.ext.json)
-
----
-
-### “I’ll fulfill my father’s wish and give 100% in Asia Cup” – Dunith Wellalage
-
-*2025-09-20 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112692/ill-fulfill-my-fathers-wish-and-give-100-in-asia-cup-dunith-wellalage) · `en`
-
-Sri Lankan all-rounder Dunith Wellalage has said that his father’s only wish was for him to become a good cricketer and represent the country, and he is determined to fulfill that dream.
-
-Wellalage, who returned to Sri Lanka during the Asia Cup following the sudden demise of his father, made this statement before departing the island this morning (20) to rejoin the national team.
-
-“I have received immense support from my father since childhood. His only wish was for me to become a good player and play for Sri Lanka. I will definitely fulfill that wish.We still have more matches in the Asia Cup, and I hope to give 100% to my team.”
-
-He further said that he had also received great support from Sri Lanka’s Team Coach Sanath Jayasuriya, his teammates including Captain Charith Asalanka, and from everyone in Sri Lanka, and that this encouragement had given him immense strength during that difficult time, for which he was truly grateful.
-
-...
-
-[Data](articles/77934829.json)
-
-[Extended Data](ext_articles/77934829.ext.json)
 
 ---
 
@@ -2067,5 +2023,37 @@ The driver of Paravurthi in connection with the accident has been arrested by th
 [Data](articles/979081c4.json)
 
 [Extended Data](ext_articles/979081c4.ext.json)
+
+---
+
+### King's side of the queen's side
+
+*2025-09-19 14:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜாவின்-பார்வை-ராணியின்-பக்கம்/175-364921) · `ta`
+
+◼️
+
+[Data](articles/8d2ca02d.json)
+
+[Extended Data](ext_articles/8d2ca02d.ext.json)
+
+---
+
+### Special police unit to investigate foreign employment complaints
+
+*2025-09-19 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214756) · `si`
+
+A special investigation unit has been established at the Head Office of the Sri Lanka Limited.
+
+The unit commenced yesterday (18), 16 police officers have been attached to the unit.
+
+Established in 1985, with the Foreign Employment Authority, "1985, the work of the foreign employment is to solve their complaints successfully and expeditiously.
+
+Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra said that the unit was established to provide relief to the migrant community with immediate solution to complaints and complaints.
+
+...
+
+[Data](articles/2f723688.json)
+
+[Extended Data](ext_articles/2f723688.ext.json)
 
 ---

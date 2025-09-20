@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 14:08:54**
+As of **2025-09-20 14:37:53**
 
 ## Newspaper Stats
 
-*Scraped **77,081** Articles*
+*Scraped **77,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,55 @@ adalk | 7,495
 adaderanalk | 9,954
 tamilmirrorlk | 11,586
 virakesarilk | 12,534
-adaderanasinhalalk | 13,451
+adaderanasinhalalk | 13,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,574 (99.3%) of 77,081 articles have been extended.
+76,581 (99.4%) of 77,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### 2025 දෙවන කාර්තුවේ මෙරට ආර්ථිකයේ සිදු වූ වෙනස
+### අබිරහස් ලෙස මියගිය කාන්තාවකගේ මළ සිරුරක් හමුවෙයි
+
+*2025-09-20 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214790) · `si`
+
+කළුවාංචිකුඩි පොලිස් වසමේ කෝට්ටේකල්ලාර් ප්‍රදේශයේ නිවසක් තුළ කාන්තාවක් මියගොස් ඇති බවට කළුවාංචිකුඩි පොලිස් ස්ථානයට ලද පැමිණිල්ලක් මත විර්මශන ආරම්භ කර තිබේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 57ක් වූ කෝට්ටේකල්ලාර් ප්‍රදේශයේ පදිංචිකාරියකි.
+
+අදාළ කාන්තාව සිය නිවසෙහි තනිව ජිවත්ව සිට ඇති බව මූලික විමර්ශනවලදි අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/9c729284.json)
+
+---
+
+### The difference in the economy of the country's economy of the second quarter of 2025
 
 *2025-09-20 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214789) · `si`
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව මෙම වසරේ දෙවන කාර්තුවට අදාළව නිකුත්කළ නවතම දත්ත වාර්තාව අනුව මෙරට ධීවර අංශය, එළවළු බෝග වගාව සහ රබර් වගාකිරීම අස්ථාවර මාවතක ගමන් කරන බව අනාවරණය කර ඇත.
+The Department of Census and Statistics have revealed that the latest data report issued by the Sri Lanka Fisheries Division, Vegetable Cultivation and Rubber cultivation is on a unstable path.
 
-කෙසේ නමුත් 2025 වසරේ දෙවන කාර්තුව වන අප්‍රේල් 01 සිට ජුනි 30 දක්වා වූ කාලසීමාවට අදාළව සිදුකර ඇති මෙම කාර්තුවේ කෘෂිකාර්මික, ආර්ථික, කර්මාන්ත හා සේවා ආර්ථික කටයුතුවල ධන අගයක් වාර්තා කර තිබේ.
+However, this quarter, which was from April 1 to June 1 to June 30, has reportedly reported the wealth of agriculture, economic and industry and services.
 
-අදාළ ජාතික ගිණුම් ඇස්තමේන්තු දත්ත අනුව එළවළු වගාව, රබර් වගාව සහ මෙරට ධීවර නිෂ්පාදනය සෘණ අගයන් වාර්තා කර ඇත.
+According to data estimates, vegetable cultivation, rubber cultivation and fishing production has been reported.
 
-එළවළු වගාව 3.6%ක සෘණ අගයක්ද, කරදිය මත්ස්‍ය නිෂ්පාදනය 5.2%ක සෘණ වර්ධනයක් ද, මිරිදිය මත්ස්‍ය නිෂ්පාදනය 34.8%ක දැවැන්ත සෘණ අගයක් ද වාර්තා කර තිබේ.
+The negative value of 3.6% of vegetable cultivation is a negative value of 3.2% and a huge negative growth of 34.8%.
 
-අපනයන සඳහා සැලකිය යුතු දායකත්වයක් ලබා දෙන මෙරට රබර් වගා කිරීම 10.8%ක සෘණ අගයකින් පසුබැස ඇති බවද ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දේ.
+The Department of Census and Statistics indicate that the country's rubber cultivation is a significant contribution to exports.
 
-රබර් සංවර්ධන දෙපාර්තමේන්තුවට අනුව දෙවන කාර්තුවේ නිෂ්පාදන පහත වැටීමට හේතු වී ඇත්තේ මාර්තු - අප්‍රේල් කාලය රබර් වගාවේ දළු දමන කාලය වීම සහ මැයි - ජූනි කාලයේ ඇදහැලුණු අධික වර්ෂාවය.
+The decline in the second quarter department according to the Rubber Development Department is the period of decline in rubber cultivation and heavy rains in April.
 
 ...
 
 [Data](articles/a2188272.json)
+
+[Extended Data](ext_articles/a2188272.ext.json)
 
 ---
 
@@ -104,17 +122,23 @@ The unbelievable parents had been protesting recently to consequences the govern
 
 ---
 
-### පොලිස් නිලධාරීන්ට නිවාස දෙන්න ගෙවූ රු. කෝටි 50ක් වතුරේ
+### Rs. Give houses for police officers paid Rs. 50 crores in water
 
 *2025-09-20 12:17:14* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්ට-නිවාස-දෙන්න-ගෙවූ-රු--කෝටි-50ක්-වතුරේ/11-418618) · `si`
 
-ශ්‍රිලංකා පොලිසිය විසින් හබරාදුව නිල සෙවන යෝජනා ක්‍රමයෙන් නිවාස 192ක් මිලදි ගැනිම සදහා  රුපියල් මිලියන 500ක මුදලක් අත්තිකාරම් ලෙස  ගෙවා තිබුනද මේ වනතෙක්  මෙකි නිවාස ව්‍යාපෘතියෙන් කිසිදු නිවසක් පොලිස් නිලධාරින් හට පදිංචියට ලබාදිමට  නොහැකිවි ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+The Sri Lanka Police had paid a sum of Rs. 500 million to purchase 192 houses from the Habaraduwa official shade scheme.
 
-හබරාදුව නිල සෙවන යෝජනා ක්‍රමයෙන් නිවසක් රුපියල් මිලියන 3.8 බැගින් රුපියල් මිලියන 729.6කට  නිවාස 192ක් මිලදි ගැනිම සදහා 2017 වර්ෂයේ  දෙසැම්බර් මස 29 වැනිදින  ගිවිසුමකට එළඹ තිබුණි.  ඒ අනුව 2019 වර්ෂයේ අප්‍රේල් මස  02 වන දින වනවිට  රුපියල් මිලියන 500ක අත්තිකාරම් මුදලක් ගෙවා තිබුණි. මෙකි ව්‍යාපෘතියේ ප්‍රධාන අරමුණ වුයේ රාජ්‍ය සේවකයින්ට  නිවාස ලබාදිම වුවත් 2025 වර්ෂය වනවිටත් කිසිදු නිවසක් පොලිස් නිලධාරින් හට පදිංචියට ලබාදිමට  නොහැකිවි ඇත.
+The house was scheduled to buy 192 million houses for Rs. 29.8 million for Rs. 292 million for Rs. 292 million for Rs.  Accordingly, a sum of Rs. 500 million was paid by April 2, 2019. The main objective of the project was to provide houses for public servants, but by 2025, no house could be residenced.
 
-...
+These houses were not taken over and 128 houses were proposed to take over the advances paid. But there was no final agreement. A total of Rs.
+
+This information is included in the audit report that has been issued to the performance report issued by the Sri Lanka Police.
+
+◼️
 
 [Data](articles/4bd381ad.json)
+
+[Extended Data](ext_articles/4bd381ad.ext.json)
 
 ---
 
@@ -2031,27 +2055,5 @@ Accordingly, the Commission has decided that the Commission has decided that the
 [Data](articles/e1c266e3.json)
 
 [Extended Data](ext_articles/e1c266e3.ext.json)
-
----
-
-### IPhone Buy latest Mode Long Queue in India
-
-*2025-09-19 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214767) · `si`
-
-The Indian media reports that the latest people who were opened to the Indian market have been found in the latest model.
-
-With the introduction of iPhone 17, iPhone 17 Air, iPhone 17 Pro, and iPhone 17 Pro Max to the market, has been enthusiastic in India.
-
-Foreign media reports that all Apple stores in the country have been opened today at 8 am today (19).
-
-Accordingly, the Indian people in the queue have behaved aggressively and has come to a level that cannot be controlled.
-
-However, it is reported that security personnel also had to be deployed to control the situation.
-
-◼️
-
-[Data](articles/732c717e.json)
-
-[Extended Data](ext_articles/732c717e.ext.json)
 
 ---

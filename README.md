@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 10:20:00**
+As of **2025-09-20 10:08:48**
 
 ## Newspaper Stats
 
-*Scraped **77,060** Articles*
+*Scraped **77,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,20 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,491
-adaderanalk | 9,951
+adaderanalk | 9,950
 tamilmirrorlk | 11,585
-virakesarilk | 12,528
+virakesarilk | 12,526
 adaderanasinhalalk | 13,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,427 (99.2%) of 77,060 articles have been extended.
+76,427 (99.2%) of 77,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### ஜப்பானில் வெப்பத்தினால் நூற்றுக்கணக்கான முதியவர்கள் உயிரிழப்பு !
-
-*2025-09-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225563) · `ta`
-
-ஒவ்வொரு வருடமும் வெப்பநிலை காரணமாக நூற்றுக்கணக்கான முதியவர்கள் உயிரிழப்பதாக ஜப்பான் ஊடகங்கள் தெரிவித்துள்ளன.
-
-அழைப்பு சாதனம் ஒரு கொடிய இரட்டை அவசரநிலையை எதிர்த்துப் போராடுவதற்கான அரசாங்க உந்துதலின் ஒரு பகுதியாகும்.
-
-ஜப்பானின் காலநிலை நெருக்கடி மற்றும் அதன் வயதான மக்கள் தொகை காரணமாக பல சவால்களை எதிர்கொள்கிறது.
-
-ஜப்பானில் தனிமை மற்றும் பிற கலாச்சார காரணிகளால் வெப்பநிலையை எதிர்கொள்ள முடியாமல் உயிரிழப்புகள் அதிகரிக்கிறது.
-
-◼️
-
-[Data](articles/a3312e53.json)
-
----
 
 ### களுவாஞ்சிக்குடியில் சந்தேகத்திற்கிடமான முறையில் பெண் உயிரிழப்பு!
 
@@ -65,44 +47,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4de9b9d9.json)
-
----
-
-### தேவாலேகமவில் கொடூரம்: தந்தை தாக்கியதில் மகன் பலி, மனைவி படுகாயம்!
-
-*2025-09-20 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225562) · `ta`
-
-கேகாலையில் தேவாலேகம பொலிஸ் பிரிவிற்குட்பட்ட படுவத்த பகுதியில் தந்தை தாக்கியதில் மகன் உயிரிழந்துள்ளதுடன் மனைவி காயமடைந்துள்ளார்.
-
-தந்தை தனது மகன் மற்றும் மனைவியை பொல்லால் தாக்கியதால் மன் சம்பவ இடத்திலேயே உயிரிழந்ததாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/5c6c0c9f.json)
-
----
-
-### Winners of 10th Derana Film Awards 2025
-
-*2025-09-20 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112695/winners-of-10th-derana-film-awards-2025) · `en`
-
-The 10th edition of Derana-Lux Film Awards got underway at the Nelum Pokuna Theatre in Colombo last night (Sept. 19) with the country’s top artistes adding glitz and glamour to the enchanting night.
-
-The ceremony recognizes and celebrates the top talents of Sri Lankan cinema for the brilliance they showcased in 2024.
-
-Rashipraba Sandeepani was honored with the Best Actress Award for her performance in Visal Adare, while Hemal Ranasinghe received the Best Actor in a Leading Role Award for his role in Sihina Nelum Mal.
-
-Meanwhile, Channa Deshapriya won the Best Director Award for Doosra, which also clinched the Best Picture Award of the night.
-
-Additionally, the Lifetime Achievement Award was presented to veteran actor Ravindra Randeniya in recognition of his remarkable contributions to Sri Lankan cinema.
-
-• Best Art Direction – Manjula Ayagama (Gautama Buddha Matha)
-
-• Most Promising Director (Cinema of tomorrow) – Thillaiampalam Suthakaran Mathisudha (Dark Days of Heaven)
-
-...
-
-[Data](articles/adec1a91.json)
 
 ---
 
@@ -2063,5 +2007,71 @@ At the time, the suspect was seized from the pocket of the suspect, the 24 -cara
 [Data](articles/f4cbe6e1.json)
 
 [Extended Data](ext_articles/f4cbe6e1.ext.json)
+
+---
+
+### The petition filed to consult the security of Panadura Nilanga's safety
+
+*2025-09-19 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214759) · `si`
+
+The Court of Appeal was held to be summoned to the 26th to be considered to be considered to issue a direct film to the CID officials to issue a directive to Sri Lanka in Indonesia.
+
+The petition filed by the mother of the suspect was called before the Court of Appeal of the Court of Appeal and Priyantha Fernando.
+
+After considering the petitioner and the Attorney General Solicarasitor General Sharnil Kularatne, who appeared on behalf of the Attorney General, was appointed to call on 26.
+
+The Director of the Criminal Investigations Department, the Director of the Criminal Investigation Department, the IGP and the Attorney General have been named as respondents in the petition.
+
+The petitioner says that the respondents are issued to the respondents to ensure the safety of his Son who is holding in the custody of the CID.
+
+In addition, the petition further requests the respondents to respond to the guidelines issued by the Sri Lanka Human Rights Commission (HRCSF) in detention.
+
+◼️
+
+[Data](articles/6375d7dc.json)
+
+[Extended Data](ext_articles/6375d7dc.ext.json)
+
+---
+
+### India and Pakistan to fight on Monday
+
+*2025-09-19 15:34:30* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-හා-පාකිස්තානය-යළි-ලබන-21-දා-සටනට/9-418609) · `si`
+
+The round of the Superintendent of the Asian Kusalana, between India and Pakistan, between India and Pakistan, is scheduled to play in the Asian Kusalana Tournament between India and Pakistan.
+
+India and Pakistan are the second time that they meet each other in this tournament. India was criticized by the Indian players after the first match and after the match, the Indian players were abandoned from the field.
+
+The match between the Superstives of the Asia Cup, the match will be held tomorrow (20).
+
+◼️
+
+[Data](articles/4f068350.json)
+
+[Extended Data](ext_articles/4f068350.ext.json)
+
+---
+
+### 2026 pre-budget discussions with stakeholders in energy sector
+
+*2025-09-19 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214758) · `si`
+
+Labor and Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando held a pre-budget discussion with the partners of the energy sector.
+
+It was also discussed at length to measures to be taken to meet the rising electricity demand.
+
+It was emphasized that the energy sector has a great demand for the energy sector and the government has paid special attention to renewable energy in the role of the new government program.
+
+There were also discussed on opportunities to export electricity. The partners of the energy sector were asked for to pay attention to the importation of goods related to the industry.
+
+The Minister of Energy Minister also decided to hold another discussion with all stakeholders of the Electricity Board, the Chairman of the Electricity Board and Energy.
+
+Speaking in the energy sector, especially the maximum of production of the energy sector, will be discussed and reducing the cost of producers.
+
+...
+
+[Data](articles/3ed12880.json)
+
+[Extended Data](ext_articles/3ed12880.ext.json)
 
 ---

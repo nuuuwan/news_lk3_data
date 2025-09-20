@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 11:20:17**
+As of **2025-09-20 13:05:49**
 
 ## Newspaper Stats
 
-*Scraped **77,064** Articles*
+*Scraped **77,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,145 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,492
+adalk | 7,494
 adaderanalk | 9,952
-tamilmirrorlk | 11,585
+tamilmirrorlk | 11,586
 virakesarilk | 12,528
-adaderanasinhalalk | 13,446
+adaderanasinhalalk | 13,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,468 (99.2%) of 77,064 articles have been extended.
+76,530 (99.3%) of 77,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
+
+### Sexual abuse at a school with special needs in the Anuradhapura
+
+*2025-09-20 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214787) · `si`
+
+A special needs should be paid to all citizens of the society, but they are bullied.
+
+Special needs in Anuradhapura have been paid special attention to these children's children and the misconduct of abuse.
+
+Located in Anuradhapura, the special needs of the school are learning children with special needs.
+
+The school, which is studying for nearly 69 female and boys, is maintained by a private company and its administration is administered by a governing body.
+
+This is monitored under the Department of Social Services Department of the North Central Province.
+
+Sadly, a group of children who have special needs come to study their future and have sexual abuse and harassment.
+
+The Treasurer who was the treasurer of the school were remanded until the 29th of this month.
+
+The unbelievable parents had been protesting recently to consequences the governing body of the school.
+
+◼️
+
+[Data](articles/6b18d2a1.json)
+
+[Extended Data](ext_articles/6b18d2a1.ext.json)
+
+---
+
+### Struggle of strike
+
+*2025-09-20 11:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தப்-போராட்டம்-நீடிப்பு/175-364950) · `ta`
+
+Electricity unions have decided to continue the strike action launched by the Electricity Board employees till midnight tomorrow.
+
+At the same time, it is reported that the electric trade unions will go on strike from the 4th of this month to protest the Bill of the Electricity Board.
+
+The Electricity Board employees joined the two -day strike in front of the Electricity Board headquarters.
+
+It is noteworthy that the electric unions have said that they will continue to fight the adverse effects of the new Electricity Board Act. Remble
+
+◼️
+
+[Data](articles/72096150.json)
+
+[Extended Data](ext_articles/72096150.ext.json)
+
+---
+
+### Russian jets bangs for Estonia airspace
+
+*2025-09-20 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214785) · `si`
+
+Estonia accuses that several Russian jets violated their airspace.
+
+The Estonian Foreign Ministry has announced that 3 Russian Mig-31 fighter jets left for about 12 minutes without their permission.
+
+Estonia says that this is an 'shameless' and condemns his airspace.
+
+Accordingly, Estonia has given advice from NATO members regarding the violation of Russian jets.
+
+However, Estonia says his military has immediately responded immediately with Russian jets.
+
+However, Russia has refused to violate the Estonian airspace.
+
+◼️
+
+[Data](articles/78ca73b4.json)
+
+[Extended Data](ext_articles/78ca73b4.ext.json)
+
+---
+
+### US in Palestinian President Kudamma
+
+*2025-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214784) · `si`
+
+The United Nations 80 United States Summit will be held at the United Nations headquarters in New York City of the United States.
+
+The US rejected the Visa to Palestinian President Mohammed Abbas to participate.
+
+However, the proposal to be able to address the conference was adopted by the United Nations in the United Nations.
+
+It is reported that Palestine is also planned to be recognized as a separate state at the conference.
+
+◼️
+
+[Data](articles/2ce5b3d6.json)
+
+[Extended Data](ext_articles/2ce5b3d6.ext.json)
+
+---
+
+### ජවිපෙ දේශපාලනය කරන්නේ මුකුත්ම නැති මුකුත්ම බැරි පිරිසක් නෙමෙයි
+
+*2025-09-20 10:58:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපෙ-දේශපාලනය-කරන්නේ-මුකුත්ම-නැති-මුකුත්ම-බැරි-පිරිසක්-නෙමෙයි/11-418617) · `si`
+
+ජනතා විමුක්ති පෙරමුණ තුළ දේශපාලනය කරන්නේ කිසිම වත්කමක් හෝ නොමැති පිරිසක් නොමැති බවත් විවිධ වෘත්තීන්වල නියැලී සිටි පිරිස් පක්ෂයේ දේශපාලය කරන බවත් බවත් නියෝජ්‍ය අමාත්‍ය සුසිල් රණසිංහ මහතා පැවැසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ එප්පාවල පැවති උත්සවයකින් අනතුරුව මාධ්‍යය වෙත අදහස් දක්වමින්ය.
+
+"මන්ත්‍රීවරුන්ගේ, ඇමතිවරුන්ගේ වත්කම් - බැරකම් ප්‍රසිද්ධ කරන එක හොඳයි, අපේ රටේ ආන්දෝලනයකට තුඩු දුන්න කාරණයක් තමයි මේ දේශපාලනයෙන් හොරකම් කරනවා කියන එක. ඇමතිකම, මන්ත්‍රීකම පාවිච්චි කරලා හොරකම් කරනවා, වත්කම් අත්පත් කර ගන්නවා කියන එක, නීතීය සම්මත කලෙත් අපි, මන්ත්‍රීවරුන්ගේ ඇමතිවරුන්ගේ වත්කම් -බැරකම් ප්‍රසිද්ධ කළ යුතුයි කියලා.
+
+දැන් ජනතාවට පුලුවන් අවුරුද්දක් ගිය පසු ආයේ අපි වත්කම්- බැරකම් ප්‍රකාශයට පත් කරනවා, එතකොට මේ ඇමතිකම්, රජය පාවිච්චි කරලා දේපළ රැස් කරාද කියන එක හොයා ගන්න පුලුවන්, කොහොමටත් අපි ජාතික ජන බලවේගයේ හෝ ජනතා විමුක්ති පෙරමුණේ දේශපාලනය කරන කට්ටිය මුකුත්ම නැති, මුකුත්ම බැරි පිරිසක් නෙමෙයි.
+
+...
+
+[Data](articles/86488707.json)
+
+---
+
+### Bangladesh Sri Lanka match today
+
+*2025-09-20 10:48:54* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශ-ශ්‍රී-ලංකා-තරගය-අද/9-418616) · `si`
+
+Sri Lankan team and Bangladesh team to begin the Superintendent of the Asia Cup. මෙය සුපිරි හතර දෙනාගේ වටයේ පළමු තරගය වෙයි.
+
+◼️
+
+[Data](articles/deb7edf9.json)
+
+[Extended Data](ext_articles/deb7edf9.ext.json)
+
+---
 
 ### Former President Ranil to join UNP’s 79th anniversary celebration
 
@@ -45,6 +169,8 @@ The anniversary celebrations are scheduled to take place at a private hotel in t
 ◼️
 
 [Data](articles/6c09f468.json)
+
+[Extended Data](ext_articles/6c09f468.ext.json)
 
 ---
 
@@ -1939,125 +2065,5 @@ They belong to the Kagal and Welioia areas. According to police, one of the susp
 [Data](articles/d2b700d8.json)
 
 [Extended Data](ext_articles/d2b700d8.ext.json)
-
----
-
-### Sanath tells you a father who is a donor
-
-*2025-09-19 16:05:02* · [`adalk`](https://www.ada.lk/sports/දුනිත්ට-පියෙක්-වන-බව-සනත්-කියයි/9-418611) · `si`
-
-Sri Lanka Cricket Chief Trainer Sanath Jayasuri says he is deeply grieving as a man who has raised a son who has a son proud of the nation.
-
-Sri Lanka's three-post cricketers, Dugar, a note of his Facebook account, says this regarding the death of his Father's father.
-
-"Duti, your father was a cricketer, and he could really be proud of his own son. His values, his love and his soul live through you. I know you know how strong you are, and I have no doubt that you will proudly win many matches for Sri Lanka.
-
-Keep in mind that this difficult moment, you're not single. Like a father I am for you - guiding you, standing with you, and support you every step. Every group, nation and everyone who loves this game are on your side. "The Sanath's Facebook also states:
-
-◼️
-
-[Data](articles/b7337ac3.json)
-
-[Extended Data](ext_articles/b7337ac3.ext.json)
-
----
-
-### Police submit investigation report on ‘Kehelbaddara Padme’ to court
-
-*2025-09-19 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112680/police-submit-investigation-report-on-kehelbaddara-padme-to-court) · `en`
-
-The police submitted an investigation report today (19) to the Colombo Magistrate’s Court, regarding notorious organised criminal Mandinu Padmasiri Perera, alias ‘Kehelbaddara Padme’, who was recently arrested in Indonesia, brought back to Sri Lanka, and is currently in the custody of the Criminal Investigation Department (CID).
-
-The report was presented before Colombo Additional Magistrate Lahiru Silva, said Ada Derana reporter.
-
-While submitting the report, the CID stated that the suspect is being detained under detention orders and that investigations are ongoing.
-
-The police further noted that inquiries are continuing to determine whether the suspect was involved in the murder of notorious underworld figure and drug trafficker ‘Ganemulla Sanjeewa’.
-
-The magistrate inquired whether the suspect had been observed by a magistrate while in custody.
-
-In response, the investigating officers confirmed that the Fort Magistrate has conducted the required observation, said Ada Derana reporter.
-
-...
-
-[Data](articles/83d25cfe.json)
-
-[Extended Data](ext_articles/83d25cfe.ext.json)
-
----
-
-### Digitalization can lead us parallel with advanced states - President
-
-*2025-09-19 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214762) · `si`
-
-President Anura Kumara Dissanayake said that the current quality and reconciliation of all fields should be established in all fields, the current government digitalization program is an economic and socially new layer of Sri Lanka.
-
-◼️
-
-[Data](articles/34251797.json)
-
-[Extended Data](ext_articles/34251797.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2025-09-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214761) · `si`
-
-Showers will occur at times in the Western, Sabaragamuwa, Central, North and North Western provinces and in the Galle and Matara districts.
-
-Some places in the Western and Sabaragamuwa Provincial and Galle, Matara, Kandy and Nuwara Eliya districts. Mee. Heavy rains can occur in more than 50.
-
-The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 1.00.
-
-The North-Media and North Western Provinces are also in the North-Central and North Western Provinces in the Central Mountains.. (30-40) can have some stronger winds.
-
-The Meteorology Department requests the people to take necessary steps to minimize temporary strong winds and lightning accidents.
-
-◼️
-
-[Data](articles/4ceda3a2.json)
-
-[Extended Data](ext_articles/4ceda3a2.ext.json)
-
----
-
-### SLAF Intelligence Officer arrested with Gold biscuits
-
-*2025-09-19 15:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බුද්ධි-නිලධාරියා-රන්-බිස්කට්-සමග-කටුනායකදී-අත්අඩංගුවට/11-418610) · `si`
-
-A large number of gold biscuits was arrested by a SLAF Buddhist Assembly stock with a gold biscuit to leave the airport to protect the Katunayaka International Airport on 09/19.
-
-He is a 17-year-old corporal, a 37-year-old Sri Lankan Air Force.
-
-He took 40 gold biscuits at the Bandaranaike International Airport, while attempting to leave the Katunayake Airport Terminal at 2 o'clock on 09/19.
-
-There are also further investigations into the airport officers in the manuscript.
-
-The customs personnel had been arrested in their feet last week to leave the Katunayake airport over Rs.
-
-◼️
-
-[Data](articles/8c1bef21.json)
-
-[Extended Data](ext_articles/8c1bef21.ext.json)
-
----
-
-### Motorcycle - bus collision; One kills!
-
-*2025-09-19 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225507) · `ta`
-
-Homagama police said that one person was killed in an accident in the Kendalanda area of ​​the Homagama Police Division.
-
-The accident occurred when a motorcycle traveling from Colombo to Avissawel was hit by a bus and collided with a bus.
-
-In the accident, the motorcycle driver died after being injured and admitted to the hospital.
-
-◼️
-
-[Data](articles/2dc58bff.json)
-
-[Extended Data](ext_articles/2dc58bff.ext.json)
 
 ---

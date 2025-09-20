@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 20:06:18**
+As of **2025-09-20 19:54:25**
 
 ## Newspaper Stats
 
-*Scraped **77,120** Articles*
+*Scraped **77,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ adalk | 7,498
 adaderanalk | 9,961
 tamilmirrorlk | 11,591
 virakesarilk | 12,539
-adaderanasinhalalk | 13,467
+adaderanasinhalalk | 13,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,860 (99.7%) of 77,120 articles have been extended.
+76,860 (99.7%) of 77,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### කාසියේ වාසිය බංග්ලාදේශයට
-
-*2025-09-20 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214805) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ තරග ආරම්භ කරමින් අද (20) පැවැත්වෙන බංග්ලාදේශයට එරෙහි තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ නායක ලිටන් දාස් සමත් විය.
-
-තරගය මෙරට වේලාවෙන් රාත්‍රී 8.00ට ඩුබායි ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී ආරම්භ වේ.
-
-මේ අතර සිය පියාගේ හදිසි වියෝව හේතුවෙන් ආසියානු කුසලානය අතරතුරදී දිවයිනට පැමිණි දුනිත් වෙල්ලාලගේ යළි ශ්‍රී ලංකා කණ්ඩායම සමගින් එක්ව සිටියි.
-
-◼️
-
-[Data](articles/b6bebe1c.json)
-
----
 
 ### නීති විරෝධී ලෙස ධීවර කටයුතු කළ  78ක් නාවික හමුදා භාරයට
 
@@ -2087,5 +2071,21 @@ Organised by the Sri Lanka FinTech Summit 2025 in partnership with HNB PLC, the 
 [Data](articles/df5518a5.json)
 
 [Extended Data](ext_articles/df5518a5.ext.json)
+
+---
+
+### Megakem Engineering hosts geotechnical solutions seminar
+
+*2025-09-19 23:47:29* · [`dailyftlk`](https://www.ft.lk/business/Megakem-Engineering-hosts-geotechnical-solutions-seminar/34-781946) · `en`
+
+Megakem Engineering Ltd., a leading provider of construction chemical and engineering solutions, hosted the Geotechnical Solutions Seminar 2025 on 4 September at Monarch Imperial, Sri Jayawardenapura Kotte.
+
+The event reinforced Megakem’s role as a trusted knowledge-sharing partner in Sri Lanka’s construction and infrastructure industry. The seminar brought together a distinguished audience of representatives from Government institutions, top contractors, leading consultants, and academic bodies, creating a platform for meaningful dialogue on the future of geotechnical applications in the country.
+
+...
+
+[Data](articles/0dc8c010.json)
+
+[Extended Data](ext_articles/0dc8c010.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 19:54:25**
+As of **2025-09-20 18:56:13**
 
 ## Newspaper Stats
 
-*Scraped **77,119** Articles*
+*Scraped **77,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,121 +18,57 @@ islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,498
 adaderanalk | 9,961
-tamilmirrorlk | 11,591
+tamilmirrorlk | 11,590
 virakesarilk | 12,539
-adaderanasinhalalk | 13,466
+adaderanasinhalalk | 13,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,860 (99.7%) of 77,119 articles have been extended.
+76,795 (99.6%) of 77,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### නීති විරෝධී ලෙස ධීවර කටයුතු කළ  78ක් නාවික හමුදා භාරයට
-
-*2025-09-20 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214804) · `si`
-
-දේශීය ජල තීරය ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමක් මගින් තහනම් ධීවර දැල් භාවිතයෙන්, පුපුරණ ද්‍රව්‍ය භාවිතයෙන් සහ විදුලි ආලෝක ධාරා භාවිතයෙන් නීති විරෝධී ලෙස ධීවර කටයුතු කළ සැකකරුවන් 78 දෙනෙකු නාවික හමුදාව සිය භාරයට ගෙන තිබේ.
-
-එමෙන්ම ඩිංගි යාත්‍රා 35ක් සහ බහු දින ධීවර යාත්‍රාවක් ද මෙහිදී නාවික හමුදාව විසින් සිය භාරයට ගෙන ඇත.
-
-නීති විරෝධී ධීවර ආම්පන්න සහ පන්න ක්‍රම භාවිතයෙන් සිදු කරණු ලබන ධීවර කටයුතු හේතුවෙන්, සාගර පරිසර පද්ධතියට සිදුවන අහිතකර බලපෑම වැළැක්වීම සඳහා සහ නීත්‍යානුකූල ධීවර කටයුතු ප්‍රචලිත කිරීමේ අරමුණින් මෙම මෙහෙයුම් සිදු කරයි.
-
-ඒ අනුව, නැගෙනහිර නාවික විධානය මඟින් ත්‍රිකුණාමලය කල්ලරාව, වලෙයිතෝට්ටම්, කොකනට් පොයින්ට්, ෆ්ලෑන්ස්ටාෆ් පොයින්ට්, නොර්වේ අයිලන්ඩ්, බොල්ඩර් පොයින්ට්, කෝකිලායි, රෙඩ් රොක්, තුඩුව, විලාවත්ත, ජයනගර් සල්ලිමුනායි, කුච්චවේලි, අඩුක්කුපාඩු සහ කින්නියා යන වෙරළ හා මුහුදු ප්‍රදේශ ආවරණය වන පරිදි අදාළ මෙහෙයුම් ක්‍රියාත්මක කර තිබේ.
-
-...
-
-[Data](articles/7c308c28.json)
-
----
-
-### Helicopter in tasks of controlling fire
-
-*2025-09-20 19:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீயை-கட்டுப்படுத்தும்-பணிகளில்-ஹெலிகொப்டர்/175-364955) · `ta`
-
-The military spokesman said that the Bell Raka helicopter and two military -owned vehicles have been dispatched to control the fire at a shopping center located on 1st Cross Street, Pettah.
-
-A fire broke out this afternoon at a trade center at a building located on 1st Cross Street, Pettah.
-
-The fire brigade has announced that 12 fire trucks have been deployed to bring the fire under control.. R.
-
-◼️
-
-[Data](articles/0f15516b.json)
-
-[Extended Data](ext_articles/0f15516b.ext.json)
-
----
-
-### Receipt of Mail in the next budget - Minister Nalinda
-
-*2025-09-20 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214803) · `si`
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa says that the current government is allocated for the reign of the current post offices, Sub Post Offices.
-
-The Minister was speaking at the construction of the new building for the construction of the new building for the construction of the new building at the Bandarawala District at the cost of an estimated cost of Rs. 4.23 million.
-
-Speaking on the occasion, the minister said that people tax money was planned for the benefit of people.
-
-He also said that the construction of buildings will commence from the foundation stone for new post offices and buildings are not the foundation of the current government.
-
-The Minister said that the government has also used personal technical equipment to maintain the number of physical resources required for the last season.
-
-The Minister also said that steps will be taken to promote staff to recruit staff in various grades and will be taken to promote the staff grades.
-
-◼️
-
-[Data](articles/3cbc0056.json)
-
-[Extended Data](ext_articles/3cbc0056.ext.json)
-
----
-
-### Billions find drugs in a toilet at the airport
+### ගුවන්තොටුපොළේ වැසිකිළියක තිබී  කෝටි ගාණක මත්ද්‍රව්‍ය සොයා ගනී
 
 *2025-09-20 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214802) · `si`
 
-The Police Narcotics Bureau has recovered a large quantity of Kush and Hashizhtus worth the Katunayaka International Airport Terminal today (20).
+රුපියල් එක්කෝටි හැට අට ලක්ෂ හතළිස්දහසක් වටිනා කුෂ් සහ හෂීෂ් මත්ද්‍රව්‍ය තොගයක් කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ, පිරිමි වැසිකිළිය තුළ දමා ගොස් තිබියදී පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් විසින් අද (20) සොයා ගෙන තිබේ.
 
-422 grams of rahr drugs and Hasheash had 262 grams and 1kg of drugs.
+මෙහි කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 422ක් සහ හෂීෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01යි ග්‍රෑම් 262ක් තිබී සොයා ගෙන ඇත.
 
-A employee who had come to clean the toilet has seen several parcels and has informed the officers of the Katunayake airport Customs Drug Administration.
+වැසිකිළිය පිරිසිදු කිරීමට පැමිණි සේවකයෙකු විසින් මෙම පාර්සල් කිහිපය දැක ඇති අතර ඔහු ඒ පිළිබඳව කටුනායක ගුවන්තොටුපොළ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් දැනුවත් කර තිබේ.
 
-The officials of the airport police have been informed and the drug has been taken into custody by their consignment.
+පසුව ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් දැනුවත් කර ඇති අතර ඔවුන් විසින් මෙම මත්ද්‍රව්‍ය තොගය සිය භාරයට ගෙන ඇත.
 
-Katunayake Airport Police Narcotics Bureau is conducting further investigations.
+කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය මෙම සිදුවීම සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
 
 ◼️
 
 [Data](articles/b7295cce.json)
 
-[Extended Data](ext_articles/b7295cce.ext.json)
-
 ---
 
-### Cyber ​​attack interferes with many airports in Europe
+### සයිබර් ප්‍රහාරයකින් යුරෝපයේ ගුවන්තොටුපොළ රැසක කටයුතුවලට බාධා
 
 *2025-09-20 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214801) · `si`
 
-Due to a cyber attack, Europe's headquarters had been interrupted in many airports.
+සයිබර් ප්‍රහාරයක් හේතුවෙන් යුරෝපයේ ප්‍රධානපොළේ ගුවන් තොටුපොළ රැසක කටයුතුවලට බාධා පැමිණ තිබේ.
 
-Foreign media reports that the work of Hathare, Brussels, Berlin, has been disrupted.
+හීතෘ, බ්‍රසල්ස්, බර්ලින්, ඇතුළු ගුවන්තොටුපොළ රැසක කටයුතු මේ හේතුවෙන් අඩාල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
-The cyber attack was launched using an online internet system that provides services to the aircraft.
+ගුවන් යානා වෙත මගීන් ඇතුළත් කර ගැනීමට අදාළ සේවා සපයන අන්තර්ජාල පද්ධතියක් ඉළක්ක කර ගනිමින් මෙම සයිබර් ප්‍රහාරය එල්ල වී ඇති බව සඳහන්ය.
 
-It is reported that air travel delays and canceled have also occurred.
+මේ හේතුවෙන් ගුවන් ගමන් ප්‍රමාදයන් හා අවලංගු වීම් ද සිදුව ඇති බව වාර්තා වෙයි.
 
-However, the airport authorities have stated that steps will be taken to recover the situation.
+කෙසේ වෙතත් ඇති වූ තත්ත්වය කඩිනමින් යථා තත්ත්වයට පත් කිරීම සඳහා පියවර ගන්නා බව එම ගුවන් තොටුපොළ බලධාරීන් ප්‍රකාශ කර තිබේ.
 
 ◼️
 
 [Data](articles/ade601f6.json)
-
-[Extended Data](ext_articles/ade601f6.ext.json)
 
 ---
 
@@ -2087,5 +2023,59 @@ The event reinforced Megakem’s role as a trusted knowledge-sharing partner in 
 [Data](articles/0dc8c010.json)
 
 [Extended Data](ext_articles/0dc8c010.ext.json)
+
+---
+
+### Wordy end of a vociferous parley in Qatar
+
+*2025-09-19 23:31:59* · [`dailyftlk`](https://www.ft.lk/columns/Wordy-end-of-a-vociferous-parley-in-Qatar/4-781938) · `en`
+
+Empty resolutions and threats are not going to save dying Palestinians
+
+“Every people in the world lives in a place. For Palestinians the place lives in them” (Danny Rubinstein – an Israeli writer)
+
+“We were herders of animals until we received the revelation, and then we became herders of other societies. We gave up the revelation and had become herds of other societies” (Allama Iqbal)
+
+The extraordinary Arab-Islamic Summit held in Doha to counter Israel’s bombing of a government residential complex in the Leqtaifiya District of Qatar, where negotiations over a US initiated ceasefire proposal were in progress with representatives from Hamas, ended as usual in chest-thumping threats, condemnations and declarations against Israel, but without any concrete agenda of action to stop the genocide and expulsion of Palestinians from their homes before annexing Gaza and the West Bank to create Eretz Israel.
+
+...
+
+[Data](articles/2c519886.json)
+
+[Extended Data](ext_articles/2c519886.ext.json)
+
+---
+
+### Tribute to Rajiv Perera on 60th birthday
+
+*2025-09-19 23:29:47* · [`dailyftlk`](https://www.ft.lk/columns/Tribute-to-Rajiv-Perera-on-60th-birthday/4-781937) · `en`
+
+In life we meet many people, most of whom hardly leave a trace of their passing. Some, very few in fact, leave a mark so deep that no passage of time can erase it. For me, at the very top of that list is Rajiv Perera.
+
+I knew of Rajiv at school – St. Thomas’, Mount Lavinia – where he was a few years senior to me. A fine sportsman, he played rugby for S. Thomas’, CH & FC, and Sri Lanka. On the field he was fearless yet always a gentleman, respected by teammates and opponents alike. That same spirit carried into the rest of his life, competitive when it mattered, but always fair, always gracious.
+
+But I only really got to know him when I went to the UK for my higher studies, about 35 years ago. This was around the time that John Major had replaced the Iron Lady, Margaret Thatcher, and was just settling in as Prime Minister. I knew only a few people in London. It was through the Thomian network that I met Rajiv. We clicked immediately.
+
+...
+
+[Data](articles/e7411991.json)
+
+[Extended Data](ext_articles/e7411991.ext.json)
+
+---
+
+### Similarities and differences of three recent uprisings in South Asia: Lesson for democracies
+
+*2025-09-19 23:26:58* · [`dailyftlk`](https://www.ft.lk/columns/Similarities-and-differences-of-three-recent-uprisings-in-South-Asia-Lesson-for-democracies/4-781935) · `en`
+
+Taken together, these uprisings demonstrate both the resilience and the fragility of democracy in South Asia. They remind us that popular sovereignty is not exercised only at the ballot box but also in the streets when institutions falter. Repression corrodes legitimacy, while timely engagement can transform dissent into democratic renewal. For democracies everywhere, the lesson is clear: listen to citizens before the street becomes the only forum for dialogue
+
+South Asia is living through an era of popular uprisings that has reshaped the political vocabulary of the region. In Colombo, Dhaka and Kathmandu, ordinary citizens—many of them strikingly young—have turned public squares into stages for democratic confrontation. These movements differ in their national contexts and immediate triggers, yet together they illuminate how people power can both rescue and test democratic institutions.
+
+...
+
+[Data](articles/984139e5.json)
+
+[Extended Data](ext_articles/984139e5.ext.json)
 
 ---

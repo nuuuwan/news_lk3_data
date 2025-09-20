@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 00:09:01**
+As of **2025-09-20 23:56:51**
 
 ## Newspaper Stats
 
-*Scraped **77,136** Articles*
+*Scraped **77,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,17 @@ adalk | 7,500
 adaderanalk | 9,965
 tamilmirrorlk | 11,592
 virakesarilk | 12,544
-adaderanasinhalalk | 13,471
+adaderanasinhalalk | 13,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,979 (99.8%) of 77,136 articles have been extended.
+76,979 (99.8%) of 77,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### ශ්‍රී ලංකාව පරදා බංග්ලාදේශයට තියුණු ජයක්
-
-*2025-09-20 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214810) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ තරග ආරම්භ කරමින් ශ්‍රී ලංකාවට එරෙහිව පැවැති තරගයෙන් කඩුලු 04 ජයක් ලැබීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
-
-එම තරගයේ කාසියේ වාසිය දිනා ගනිමින් බංග්ලාදේශ නායක ලින්ටන් දාස් පළමුව පන්දු යැවීමට තීරණය කළ අතර ඒ අනුව පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේදී කඩුලු 7ක් දැවී ලකුණු 168ක් රැස් කිරීමට සමත් විය.
-
-එහිදී දසුන් ශානක පන්දු 37කදී හයේ පහර 6ක් සහ හතරේ පහර 3ක් සමගින් නොදැවී ලකුණු 64ක් රැස් කිරීමට සමත් වූ අතර කුසල් මෙන්ඩිස් ලකුණු 34ක් සහ පැතුම් නිස්සංක ලකුණු 22ක් ලබා ගැනීමට ද සමත් විය.
-
-ඒ අනුව ලකුණු 169 ඉලක්කයක් හඹා ගිය බංග්ලාදේශ කණ්ඩායම පන්දුවාර 19යි පන්දු 05ක් තුළ කඩුලු 06ක් දැවී සිය ඉලක්කය හඹා යාමට සමත් විය.
-
-එහිදී සයිෆ් හසන් ලකුණු 66ක් සහ ලින්ටන් දාස් ලකුණු 23ක් රැස් කරමින් බංග්ලාදේශ ඉනිම පළමු අදියරේම ශක්තිමත් කිරීම ද සමත් විය.
-
-එමෙන්ම ත්‍රොහිඩ් හිත්‍රොයි ලකුණු 58 ක් ක්ද රැස් කර ගැනීමට සමත් විය.
-
-◼️
-
-[Data](articles/1b934905.json)
-
----
 
 ### Opposition parties unanimously seize provincial councils
 
@@ -208,7 +186,7 @@ Allied forces targeted Hong Kong in air raids to disrupt Japanese supply lines.
 
 ### 200g of Ice drug recovery from a bag to be dropped from Colombo to Batticaloa
 
-*2025-09-20 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225612) · `ta`
+*2025-09-20 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225612) · `ta`
 
 The headquarters headquarters of the police said that a bag containing 200 grams of narcotics from Colombo to Batticaloa has been rescued from the train arriving in Batticaloa on Friday evening (19).
 
@@ -2119,5 +2097,23 @@ In this case, Sureka Yadav, who has been a 36-year-old driver in the male-domina
 [Data](articles/88e32f7c.json)
 
 [Extended Data](ext_articles/88e32f7c.ext.json)
+
+---
+
+### The Indian team beat Oman by 21 runs
+
+*2025-09-20 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225557) · `ta`
+
+India won the match between India and Oman, the last match of the 2025 Asian Cup T20 match.
+
+The Indian team won the coin spinning first and scored 188 runs for the loss of 8 wickets in 20 overs.
+
+In reply, Oman lost 4 wickets at the end of their 20 overs and lost only 167 runs.
+
+◼️
+
+[Data](articles/02577071.json)
+
+[Extended Data](ext_articles/02577071.ext.json)
 
 ---

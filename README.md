@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 15:05:49**
+As of **2025-09-20 17:20:26**
 
 ## Newspaper Stats
 
-*Scraped **77,088** Articles*
+*Scraped **77,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,79 +12,349 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,662
+economynextcom | 4,665
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,496
-adaderanalk | 9,955
-tamilmirrorlk | 11,588
-virakesarilk | 12,535
-adaderanasinhalalk | 13,453
+adaderanalk | 9,958
+tamilmirrorlk | 11,590
+virakesarilk | 12,538
+adaderanasinhalalk | 13,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,599 (99.4%) of 77,088 articles have been extended.
+76,728 (99.5%) of 77,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### 2025 වසරේ මේ දක්වා පුද්ගලයින් ලක්ෂ 51ක් පොලිස් පරීක්ෂාවට
+### Massive fire at Colombo -
 
-*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
+*2025-09-20 16:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-புறக்கோட்டையில்-பாரிய-தீ-விபத்து/175-364954) · `ta`
 
-2025 වසරේ මේ දක්වා සිදුකළ මත්ද්‍රව්‍ය වැටලීම්වලින් හෙරොයින් කිලෝග්‍රෑම් 955ක්, අයිස් කිලෝග්‍රෑම් 1,422 ක් පොලීසිය භාරයට ගෙන තිබේ.
+A massive fire broke out this evening at Meliban Road, Colombo - Pettah Fort.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුඩ්ලර් මහතා සඳහන් කළේ හෂිෂ් කිලෝග්‍රෑම් 471 ක්, කොකේන් කිලෝග්‍රෑම් 29ක්, ගංජා කිලෝග්‍රෑම් 13,773 ක්, මත්ද්‍රව්‍ය පෙති මිලියන 3.5ක් ද නිලධාරීන් භාරයට ගත් බවය.
+Investigations have been carried out whether the cause of the fire was unknown. Remble
 
-T-56 අවි 61ක්" පිස්තෝල 62ක් සහ රිවෝල්වර් 40ක් වෙනත් ගිනිඅවි 1,721ක් සොයා ගෙන ඇත.
+◼️
 
-2025 ජනවාරි පළමු වනදා සිට මේ දක්වා වෙඩිතැබීමේ සිද්ධිවලට අදාළව වෙඩික්කරුවන් 38 දෙනෙකු, පැදිකරුවන් 27 දෙනෙකු, ආධාර අනුබල ලබාදීමේ සිද්ධිවලට අදාළව පුද්ගලයින් 263 දෙනෙකු ඇතුළුව සැකකරුවන් 328 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+[Data](articles/4ad0f56a.json)
 
-මේ අතර දෛනික පොලිස් විශේෂ මෙහෙයුම්වලදී ජනවාරි 12 වනදා සිට මේ දක්වා පුද්ගලයින් 5,101,516ක් පරීක්ෂාවට ලක්කර ඇති අතර සැකපිට පුද්ගලයින් 104,602ක් අත්අඩංගුවට ගෙන තිබේ.
-
-ඉන් පුද්ගලයින් 4630 දෙනෙකු අපරාධවලට ඍජුව හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/f3702a26.json)
+[Extended Data](ext_articles/4ad0f56a.ext.json)
 
 ---
 
-### ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா
+### Fire in a building in Pettah
+
+*2025-09-20 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214797) · `si`
+
+A fire broke out at a 3rd floor of 3rd cross-street building.
+
+The fire brigade said that the fire was already launched.
+
+◼️
+
+[Data](articles/d66917ad.json)
+
+[Extended Data](ext_articles/d66917ad.ext.json)
+
+---
+
+### "Knowledge not only in the study: to act for the people" - insist at the Asian Science Day Conference held in Colombo
+
+*2025-09-20 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225590) · `ta`
+
+As global health threats are on the rise, the Asian scientific days of the 'Médecins Sans Frontières/MSF) organization in Colombo have been held on Friday (September 19), to address the inequalities in access to medical care.
+
+The conference, which emphasizes the importance of the role of communities in health care, participated in more than 150 researchers, community leaders, and some of the illness.
+
+The theme of this year's conference is "Renewal of Health: Listening, Learning, Guidance - The Voice of Society in Health Safety".
+
+The conference was held under five main categories. These debates took place in the implementation of policies, research and novelty, skill development, community and patient networks, and cooperation.
+
+Under the topic "Society is not beneficiaries, partners, MSF, the Executive Director of South Asia, Parthasarathy Rajendran, in his opening speech, stressed that the scientific days conference should not be a mere research.
+
+...
+
+[Data](articles/2c64f2c3.json)
+
+[Extended Data](ext_articles/2c64f2c3.ext.json)
+
+---
+
+### Fitch places long-term debt ratings of 25 sovereigns under criteria observation
+
+*2025-09-20 16:14:00* · [`economynextcom`](https://economynext.com/fitch-places-long-term-debt-ratings-of-25-sovereigns-under-criteria-observation-241331/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it has placed 435 long-term debt ratings of 25 sovereigns, including Sri Lanka, Under Criteria Observation (UCO) following the publication of updated Sovereign Rating Criteria on September 15.
+
+This designation indicates that the existing ratings may change as a result of the application of the updated criteria, the ratings agency said, adding that it will review all ratings placed on UCO within six months.
+
+Fitch Places Long-Term Debt Ratings of 25 Sovereigns Under Criteria Observation
+
+Fitch Ratings – London – 19 Sep 2025: Fitch Ratings has placed 435 long-term debt ratings of 25 sovereigns Under Criteria Observation (UCO) following the publication of updated Sovereign Rating Criteria on 15 September 2025.
+
+The UCO designation indicates that the existing ratings may change as a direct result of the application of the updated criteria. It does not indicate a change in the underlying credit profile, nor does it affect existing Outlooks or Rating Watches.
+
+...
+
+[Data](articles/a22b5603.json)
+
+---
+
+### Airport is a collapse of the computer system of the Immigration and Emigration Department
+
+*2025-09-20 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214796) · `si`
+
+Katunayake Airport has been established in the Department of Immigration and Emigration, the border computer system inactive.
+
+It is reported that the computer system has been inactive from 01.45 pm today.
+
+Sri Lanka's computer system is established and maintained by a private company to a private company.
+
+Sources from the Immigration and Emigration Department said that this system is inactive in this manner every month.
+
+In such a time when Sri Lanka is most visitors to Sri Lanka, they point out the need for a computer system that is being established by the government.
+
+However, it is revealed that the Department of Immigration and Emigration Department has also been posed to the Computer Systems in Europe and other countries.
+
+◼️
+
+[Data](articles/937f0ca0.json)
+
+[Extended Data](ext_articles/937f0ca0.ext.json)
+
+---
+
+### Ranil told Ranil about his arrest
+
+*2025-09-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214795) · `si`
+
+Former President Ranil Wickremesinghe made a special comment on the arrest of herself today (20).
+
+The former President said that the complaint has been lodged by the present Secretary of the President Anura Kumara Dissanayake.
+
+However, the former president said that the process was a full official visit to Colombo and returned to Colombo.
+
+It was also the accepted invitation and that they had the official invitation and that they were there, but they would stay in England.
+
+...
+
+[Data](articles/b07f2b2d.json)
+
+[Extended Data](ext_articles/b07f2b2d.ext.json)
+
+---
+
+### Trump adds $100,000 fee for skilled worker visa applicants
+
+*2025-09-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112703/trump-adds-100000-fee-for-skilled-worker-visa-applicants) · `en`
+
+US President Donald Trump has signed an executive order that will add a $100,000 (£74,000) annual fee for applicants to the H-1B visa programme for skilled foreign workers.
+
+Trump’s order mentions “abuse” of the programme and will restrict entry unless payment is made.
+
+Critics have long argued that H-1Bs undercut the American workforce, while supporters - including billionaire Elon Musk - argue it allows the US to attract top talent from around the world.
+
+In another order, Trump set up a new “gold card” to fast-track visas for certain immigrants in exchange for fees starting at £1m.
+
+Trump’s order is due to come into force on 21 September. It would only apply to new requests, but companies would have to pay the same amount for each applicant for six years, US Commerce Secretary Howard Lutnick said.
+
+...
+
+[Data](articles/a8fecf39.json)
+
+[Extended Data](ext_articles/a8fecf39.ext.json)
+
+---
+
+### A fatal accident in Years
+
+*2025-09-20 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214794) · `si`
+
+One person was killed in an accident in Yakkala area on the Colombo Kandy road.
+
+Police said that the accident had occurred when a motorbike rose towards Colombo.
+
+The motorcyclist who was seriously injured in the accident died on admission to the Gampaha District General Hospital.
+
+The deceased has been identified as a 25 year old resident of Yakkala.
+
+◼️
+
+[Data](articles/6eff3bb3.json)
+
+[Extended Data](ext_articles/6eff3bb3.ext.json)
+
+---
+
+### So far 104,602 people arrested on suspicion
+
+*2025-09-20 15:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-104-602-பேர்-சந்தேகத்தின்-பேரில்-கைது/175-364953) · `ta`
+
+5,101,516 people have been raided in the year 2025, with 104,602 of them on suspicion, police media spokesman said.
+
+The police media spokesman said that 4630 of the persons have been identified directly for crimes.
+
+The police media spokesman said that 955 kilograms of heroin has been recovered in the daily raids conducted by the police so far 2025.
+
+In addition, 1,422 kilograms of ice, 471 kilograms of Hashish, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million drugs have been seized.
+
+In addition, 1,721 weapons including 61 T-56 and 62 handguns have been recovered by the police.. Remble
+
+◼️
+
+[Data](articles/a6dfc7f3.json)
+
+[Extended Data](ext_articles/a6dfc7f3.ext.json)
+
+---
+
+### A corpse of a sea creature
+
+*2025-09-20 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214793) · `si`
+
+A sea creature has been launched to Tirupugulani in the South Coast of Mannar this morning.
+
+The age of eight, which is about 300 kilograms and a half of 2.30 meters.
+
+The animal is known as 'Sea cows' and believes that environmentalists believe that the accident occurred in a fishing vessel.
+
+◼️
+
+[Data](articles/579a7d77.json)
+
+[Extended Data](ext_articles/579a7d77.ext.json)
+
+---
+
+### 1,843 fatal accidents this year - 1,960 deaths
+
+*2025-09-20 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214792) · `si`
+
+1,960 people have died of accidents during this year.
+
+The police said that the suspects were killed in the accidents island wide from the first day of January this year.
+
+In addition, 3,708 have been taken after 3,708 serious roads have been reported.
+
+◼️
+
+[Data](articles/1b7528d9.json)
+
+[Extended Data](ext_articles/1b7528d9.ext.json)
+
+---
+
+### 51 lakhs of 2025 to police inspector
+
+*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
+
+The police have seized 955 kilograms of heroin with drug raids and the drug, 955 kilograms of heroin.
+
+Police Media Spokesperson, Assist Superintendent of Police F. U. Woodlor said that he was taken into custody by 471 kilograms of Hishr, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million.
+
+There are 61 T-56 weapons, 61 pistols and 40 revolvers have been recovered.
+
+Troops of 38 shotings, 273 other suspects have been arrested in connection with shooting incidents from January 2025 to date.
+
+Meanwhile, 5,101,516 persons have been inspected since January 12, the daily police stations, and 104,602 persons were arrested on suspicion.
+
+According to the Police Media Spokesperson, 4630 people have been identified as directly involved in crime.
+
+46,909 drunk drivers have been arrested in these operations and the law has been launched against 3404 drivers regarding retreating.
+
+◼️
+
+[Data](articles/f3702a26.json)
+
+[Extended Data](ext_articles/f3702a26.ext.json)
+
+---
+
+### 79th anniversary of the United National Party
 
 *2025-09-20 14:46:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியின்-79ஆவது-ஆண்டு-நிறைவு-விழா/175-364952) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா இன்று (20) கொண்டாடப்படுகிறது.
+The 79th anniversary of the United National Party is celebrated today (20).
 
-ஸ்ரீ ஜயவர்தனபுரவில் உள்ள தனியார் ஹோட்டலில் "உங்கள் கருத்தைக் கைவிடாதீர்கள் - அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிக்க ஒன்றிணைவோம்" என்ற கருப்பொருளில் நிகழ்வு ஒன்று ஏற்பாடு செய்யப்பட்டுள்ளது.
+An event is organized at the private hotel in Sri Jayawardenapura, "Do not abandon your opinion - we will unite to defeat the constitutional dictatorship".
 
-விளக்கமறியலில் வைக்கப்பட்டு பிணையில் விடுதலை செய்யப்பட்டதையடுத்து ரணில் விக்ரமசிங்க கலந்துகொண்ட முதலாவது பொது நிகழ்வு இதுவாகும்.
+This was the first public event to attend Ranil Wickremesinghe after being released on bail.
 
-இந்த நிகழ்வில் பல அரசியல்வாதிகள் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர்கள் கலந்துகொண்டுள்ளனர். R
+Many politicians and former MPs attended the event. Remble
 
 ◼️
 
 [Data](articles/504f3ead.json)
 
+[Extended Data](ext_articles/504f3ead.ext.json)
+
 ---
 
-### நுவரெலியாவில் பஸ் - லொறி விபத்து
+### Bus in Nuwara Eliya - lorry accident
 
 *2025-09-20 14:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பஸ்-லொறி-விபத்து/76-364951) · `ta`
 
-நுவரெலியா - இராகலை பிரதான வீதியில் புரூக்சைட் சந்திக்கு அருகில் இன்று (20) காலை இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was injured this morning (20) near the Brookesite junction on the Nuwara Eliya -Irakalai main road, police said.
 
-தனியார் பஸ் ஒன்றும் லொறி ஒன்றும் நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The accident occurred when a private bus and a lorry collided head -on, police said.
 
-விபத்தின் போது லொறியின் சாரதி காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். R
+The driver of the lorry was injured during the accident, police said the hospital was admitted to the hospital for treatment.. Remble
 
 ◼️
 
 [Data](articles/4afa89cf.json)
+
+[Extended Data](ext_articles/4afa89cf.ext.json)
+
+---
+
+### Over 1,400 kg ‘Ice’, 955 kg heroin, over 1,700 firearms seized by police in 2025
+
+*2025-09-20 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112702/over-1400-kg-ice-955-kg-heroin-over-1700-firearms-seized-by-police-in-2025) · `en`
+
+According to Sri Lanka Police, raids carried out so far in 2025 have led to the recovery of significant quantities of narcotics and illegal firearms.
+
+The seizures include 955 kilograms of heroin, 1,422 kilograms of ICE (crystal methamphetamine), 471 kilograms of hashish, 29 kilograms of cocaine, and 13,773 kilograms of cannabis (ganja). In addition, police recovered 3.5 million narcotic pills.
+
+During these operations, a total of 1,721 firearms were also seized, including 61 T-56 assault rifles and 62 pistols, said police.
+
+Police Media Spokesperson, ASP F.U. Wootler, revealed these figures during a press briefing held today (20).
+
+He further added that since January 1, 2025, a total of 328 suspects have been arrested in connection with shooting incidents. These include 38 gunmen, 27 motorcyclists, and 263 individuals accused of aiding and abetting such crimes.
+
+...
+
+[Data](articles/13e8a38b.json)
+
+[Extended Data](ext_articles/13e8a38b.ext.json)
+
+---
+
+### CEB trade union reps walk out of talks in protest
+
+*2025-09-20 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112701/ceb-trade-union-reps-walk-out-of-talks-in-protest) · `en`
+
+It is reported that during the discussion held today (20) between the electricity trade unions and the heads of the Ceylon Electricity Board (CEB), representatives of the trade unions had walked out in protest.
+
+The meeting took place at the CEB headquarters. Trade union representatives staged the walkout in objection to the participation of the Director of Restructuring of the CEB in the discussion.
+
+According to reports, 25 ministry secretaries and three trade union representatives attended the meeting.
+
+It has been decided that the ongoing trade union action, under which electricity workers are adhering strictly to official procedures (“work to rule”), will continue until September 21.
+
+The electricity trade unions further stated that a decision regarding future trade union action will be taken on September 24.
+
+◼️
+
+[Data](articles/d0e350c0.json)
+
+[Extended Data](ext_articles/d0e350c0.ext.json)
 
 ---
 
@@ -106,21 +376,85 @@ Preliminary investigations have revealed that the woman had been living alone in
 
 ---
 
-### මම ඩොලර් බිලියන 22ක් දීලා ගියේ,  මම මොකටද මේවා අරගන්නේ
+### 9,000 complaints have been received for police WhatsApp - Police Media Spokesman
+
+*2025-09-20 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225574) · `ta`
+
+Police Media Spokesperson FU has received 9,000 complaints to the WhatsApp telephone number introduced by the Inspector General of Police Priyantha Weerasuriya to appeal to various crimes in the country.. Woodler said.
+
+It is noteworthy that on August 13, the General Attorney-at-Law Priyantha Weerasuriya, 071- 85988888, informed the public on August 13 that the number of criminal activity in the country could be lodged.
+
+◼️
+
+[Data](articles/53dc80a1.json)
+
+[Extended Data](ext_articles/53dc80a1.ext.json)
+
+---
+
+### Sexual abuse at a school for children with special needs in Anuradhapura
+
+*2025-09-20 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225576) · `ta`
+
+There are increasing cases of harassment against children with special need to focus from all sides of the community.
+
+The Anuradhapura District Coordinating Committee was focused yesterday (19) regarding the sexual abuse of students and students in a school for children with special needs in the Anuradhapura area.
+
+In the school, students with special need and students are subjected to sexual abuse and various harassment.
+
+A man who served as the treasurer of the school has been arrested on charges of allegedly abusing three students and students.
+
+He has been kept in detention until the 29th of this month, the Anuradhapura police said.
+
+It is reported that parents who are unable to tolerate the various harassment of their children who are deaf and unable to speak, have recently been involved in a fierce protest against the school's executive committee.
+
+◼️
+
+[Data](articles/1f535632.json)
+
+[Extended Data](ext_articles/1f535632.ext.json)
+
+---
+
+### Sri Lanka sees 12,325 new active credit cards in July 2025
+
+*2025-09-20 13:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-12325-new-active-credit-cards-in-july-2025-241322/) · `en`
+
+ECONOMYNEXT – New active credit cards in Sri Lanka increased by 12,325 in July this year, the central bank data showed, amid the country’s economic recovery and falling interest rates.
+
+The number of active credit cards recorded 2,088,069 by end July, compared to 2,075,744 by end June, showing an increase of 0.59 percent in the month.
+
+The active credit cards have risen by 3.8 percent or 79,613 in the first seven months of this year, the data showed.
+
+Active credit cards in Sri Lanka rose by 4.8 percent or 91,371 in 2024, the Central Bank data showed, with the island nation’s economic recovery and strong promotions for credit cards amid falling interest rates.
+
+Analysts have said most banks have tied up with super markets and other vendors to promote credit cards in the falling interest rate regime as the country’s economy has shown more-than-expected recovery.
+
+They said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than in 2023.
+
+...
+
+[Data](articles/9dbd8d58.json)
+
+---
+
+### I left $ 22 billion, why should I take these things?
 
 *2025-09-20 13:38:54* · [`adalk`](https://www.ada.lk/breaking_news/මම-ඩොලර්-බිලියන-22ක්-දීලා-ගියේ---මම-මොකටද-මේවා-අරගන්නේ/11-418619) · `si`
 
-තමන් විශ්වවිද්‍යාල උපාධි උත්සවයට එක්වූයේ නිල ආරාධනාවකට බව හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ 79 වැනි සංවත්සර උත්සවය අමතමින් පැවැසීය. 2022දී තමන් රට භාර ගන්නා විට පැවැති දළ ජාතික නිශ්පාදිතය ඩොලර් බිලියන 76.8ක් වූ බවත් තමන් අනුර කුමාර දිසානායක මහතාට රට භාර දෙන විට එම අගය ඩොලර් බිලියන 98.9ක් දක්වා වැඩි බවත් හිටපු ජනපතිවරයා පැවැසීය.
+Ranil Wickremesinghe addressing the 79th anniversary of the UNP that he joined the University degree ceremony. The former President said that when he was assigned the country in 2022, the former President said he was up to $ 98.9 billion when he was handed over to Anura Kumara Dissanayake.
 
-“මම මුලින්ම ගියේ හවානාවට. ඉන් පස්සේ මම නිව්යෝර්ක් ගියා. එහි සිට කොළඹට එන ගමන් මම ලන්ඩනයේ එක රැයක් ගත කළා. ඒක ට්‍රාන්ස්සිට් එකක්. මේවා නිල ගමන්. එතනදී මට තිබුණේ නිල ආරාධනයක්. හිටපු නිසා පිළි ගත්තා. ආරාධනාවක් තිබුණේ නැත්නම් මම ලන්ඩන් නුවර ඉන්නවා. මේක අරගෙනයි මාව ගෙනිච්චේ.
+"I first went to Havana. Then I went New York. I spent a night in London from the way to Colombo. It's a Tranzit. These are official travel. There I had an official invitation. Was treated because of. I'm in London, if there was an invitation. It was taken by you.
 
-මම මට ආරාධනා කළ ලියුමක් පෙන්නුවා. ඇහුවා මොකක්ද මම ලන්ඩන්වල ඉදන් ගෙනාවේ කියලා. ඕක මටත් අහන්න පුළුවන් අනුර කුමාර ජනපතිගෙන් මොනවද ජර්මනියෙන් ගෙනාවේ කියලා.
+I showed a letter invited me. Asked what I brought from London. Anura who can hear it to me from Germany.
 
-මට දැනගන්න ලැබුණා මට විරුද්ධව පැමිණිල්ලක් කර තියෙනවා කියලා. කවුද පැමිණිල්ල කළේ වර්තමාන ජනපතිගේ ජනපති ලේකම්. ඉතුරු කරුණු කියන්න එපා කියලා මට නීතිඥයින් කියලා තියෙන්නේ.
+I found out that I had lodged a complaint against me. Who did the complaint was the Presidential Secretary to the President. I have told my lawyers not to say the rest.
 
 ...
 
 [Data](articles/9d3e9a5f.json)
+
+[Extended Data](ext_articles/9d3e9a5f.ext.json)
 
 ---
 
@@ -187,6 +521,8 @@ Allegations have surfaced that children attending the school, who come with the 
 ...
 
 [Data](articles/41e65c5b.json)
+
+[Extended Data](ext_articles/41e65c5b.ext.json)
 
 ---
 
@@ -360,25 +696,29 @@ It is reported that Palestine is also planned to be recognized as a separate sta
 
 ---
 
-### உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள், வெடிமருந்துகள் மீட்பு!
+### Large guns and ammunition recovery from the house of the dead lawyer!
 
 *2025-09-20 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225570) · `ta`
 
-உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள் மற்றும் வெடிமருந்துகளை இரத்தினபுரி பொலிஸார் மீட்டுள்ளனர்.
+Ratnapura police have recovered a large number of guns and ammunition from the house of the dead lawyer.
 
-இரத்தினபுரியைச் சேர்ந்த 73 வயதுடைய சட்டத்தரணி ஒருவர் தனியாக வசித்து வந்த நிலையில், திடீரென மாரடைப்பால் உயிரிழந்துள்ளார்.
+A 73 -year -old lawyer from Ratnapura died of a sudden heart attack.
 
-உயிரிழந்த சட்டத்தரணி வீட்டில் துப்பாக்கிகள் இருப்பதாக, இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளருக்கு தகவல் கிடைத்துள்ளது.
+The Ratnapura Senior Police Superintendent has received information that there are guns in the house of the dead lawyer.
 
-இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளர் செப்டெம்பர் 17 ஆம் திகதி இரத்தினபுரி தலைமையக பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு இந்த விடயத்தை தெரிவித்துள்ளார்.
+The Senior Superintendent of Police in Ratnapura made this statement on September 17 to the Ratnapura Headquarters Police Station.
 
-இதனையடுத்து  சட்டத்தரணியின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் 12-போர் துப்பாக்கிகள், ஒரு ரிப்பீட்டர் துப்பாக்கி, 6 பிரித்தெடுக்கப்பட்ட துப்பாக்கி பாகங்கள், 11 பீப்பாய்கள், 2 சிறிய துப்பாக்கிகள், புதிய 12 மற்றும் 16-போர் வெடிமருந்துகளின் 440 சுற்றுகள் மற்றும் பல துப்பாக்கி பாகங்கள் மீட்கப்பட்டுள்ளது.
+Subsequently, a raid conducted at the lawyer's home has rescued 12-war rifles, a repeater rifle, 6 extracted gun parts, 11 barrels, 2 small guns, 440 rounds of new 12 and 16-war ammunition and many other gun parts.
 
-இந்த துப்பாக்கிகள் குற்றச் செயல்களுக்காக வழங்கப்பட்டதா அல்லது குழுக்களிடையே விநியோகிக்கப்பட்டதா என்பதை அறிய விசாரணைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+Investigations are being carried out to find out whether these guns were supplied for crime or distributed among groups.
 
-...
+Police said that investigations are underway to ensure that some guns were made locally or with the involvement of other parties.
+
+◼️
 
 [Data](articles/fd4c977e.json)
+
+[Extended Data](ext_articles/fd4c977e.ext.json)
 
 ---
 
@@ -899,6 +1239,24 @@ An anatomical examination reported that the blood clogged in the lungs. (A)
 [Data](articles/7502861f.json)
 
 [Extended Data](ext_articles/7502861f.ext.json)
+
+---
+
+### SriLankan Airlines could be hit by holdout creditors S&P says
+
+*2025-09-20 07:46:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-could-be-hit-by-holdout-creditors-sp-says-241305/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines bonds could be hit by holdout creditors S & P Global Ratings said, as the defaulted bonds traded above par, reflecting investor perceptions of the outcome of ongoing restructuring efforts.
+
+S&P upgraded Sri Lanka’s selective default rating to CCC+ with a stable outlook on September 19, after earlier waiting for SriLankan Airlines’ sovereign guaranteed bonds to be restructured even though the bulk of its sovereign bonds were successfully restrucrured.
+
+“The upgrade reflects Sri Lanka’s recent efforts to complete the restructuring of its remaining commercial debt, including government-guaranteed Sri Lankan Airlines (SLA) bonds, following its December 2024 exchange of most of its Eurobonds,” S&P Global Ratings said.
+
+“Negotiations on restructuring the SLA debt began earlier this year, with the airline and government making an offer based on comparability of treatment with other external creditors.
+
+...
+
+[Data](articles/80fba2f0.json)
 
 ---
 
@@ -1709,333 +2067,5 @@ The suspects have been produced before the Magistrate's Court and interrogate th
 [Data](articles/95a67547.json)
 
 [Extended Data](ext_articles/95a67547.ext.json)
-
----
-
-### Tunit Vellale will join the Sri Lankan team tomorrow
-
-*2025-09-19 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225549) · `ta`
-
-The Sri Lanka Cricket Board has announced that it will leave the Dubai team on Friday night after his father's sudden death of the Sri Lankan cricket team, Dunit Wellalake, will reunite with the team.
-
-After playing a match against Afghanistan in Abu Dhabi in the Asian Cup series, Father Mun Vellalake (54), after learning of a heart attack, returned to Sri Lanka immediately.
-
-He arrived in the Bandaranaike International Airport on Friday morning, and he reunited the squad for the Super 4 round after paying his final tribute to his father.
-
-The Sri Lankan team goes to Dubai on Friday (19) night. The Sri Lankan team will play in a major match against Bangladesh on Saturday (20).
-
-It is noteworthy that the youngest player, Tunit Vellalake, is the father of Mun Vallake, a former school cricketer.
-
-◼️
-
-[Data](articles/d76c4ee4.json)
-
-[Extended Data](ext_articles/d76c4ee4.ext.json)
-
----
-
-### Dunith Wellalage to rejoin Sri Lanka squad ahead of Super 4 clash tomorrow
-
-*2025-09-19 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112686/dunith-wellalage-to-rejoin-sri-lanka-squad-ahead-of-super-4-clash-tomorrow-) · `en`
-
-Sri Lanka Cricket (SLC) announced that all-rounder Dunith Wellalage will rejoin the squad in the United Arab Emirates (UAE) tomorrow (20), after attending the funeral of his late father.
-
-Wellalage will be available for selection as Sri Lanka prepare to face Bangladesh in the  Super Four opener of the Asia Cup 2025, the SLC said.
-
-Suranga Wellalage, father of Dunith Wellalage, who is a former cricketer himself, passed away last night (18) at the age of 54, reportedly due to a sudden heart attack.
-
-His passing occurred on the same day his son represented Sri Lanka in their Asia Cup Group B match against Afghanistan in Abu Dhabi.
-
-Wellalage returned to the island this morning (19) following the sudden passing of his father, where he joined his grieving family.
-
-◼️
-
-[Data](articles/b89ef982.json)
-
-[Extended Data](ext_articles/b89ef982.ext.json)
-
----
-
-### Report of Mithanian chemical samples
-
-*2025-09-19 20:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மித்தேனிய-இரசாயன-மாதிரிகளின்-அறிக்கை-வெளியானது/175-364927) · `ta`
-
-A report by the state analyst on the recently discovered chemical samples in the Mittenia area has been released.
-
-According to the report, they have been confirmed as chemicals used to produce ice, police said.
-
-On September 6, the North North North Crime Division recovered about 50,000 kilograms of chemicals allegedly used to produce ice drugs in the country.
-
-The raid was carried out on the basis of information received from the North North Crime Branch to the Bego Saman, who was arrested in Indonesia.
-
-Subsequently, the chemical samples were sent to the National Risk of the Control Board and the Department of State Analyst for inspection.
-
-In the Report of the National Risk Operations Control Board, 17 of the 20 samples confirmed that chemicals used to make ice drugs.
-
-In this case, the Department of State Analyst's Department was handed over to the police today (19).  R
-
-◼️
-
-[Data](articles/07c51fde.json)
-
-[Extended Data](ext_articles/07c51fde.ext.json)
-
----
-
-### “Through digitalisation, we can progress with developed nations” – President
-
-*2025-09-19 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112685/through-digitalisation-we-can-progress-with-developed-nations-president-) · `en`
-
-President Anura Kumara Dissanayake stated that in order to advance the country economically, it is essential to ensure efficiency and transparency across all sectors. He further noted that the current government’s digitalisation programme is designed to elevate Sri Lanka not only economically but also socially.
-
-The President made these remarks today (19), while participating in the ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, to launch the National Cyber Protection Strategy (2025–2029) and to declare open the National Cyber Security Operations Centre (NCSOC), the Presidential Media Division (PMD) said.
-
-...
-
-[Data](articles/17e1ebfb.json)
-
-[Extended Data](ext_articles/17e1ebfb.ext.json)
-
----
-
-### Drunk to join the Sri Lankan team to leave the island tonight
-
-*2025-09-19 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214772) · `si`
-
-The Sri Lankan cricket official confirmed that Duti Wellalage was to join the Sri Lankan team to join the Sri Lankan team to join the Sri Lankan team to join the Sri Lankan team to join the Sri Lankan team for his father.
-
-◼️
-
-[Data](articles/96c0fbb7.json)
-
-[Extended Data](ext_articles/96c0fbb7.ext.json)
-
----
-
-### The third Nano, who produced in Sri Lankan engineering, orbitals to the third nano
-
-*2025-09-19 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214771) · `si`
-
-The Third Nano, the technical contributor to the technical contributor to the technical contributor, was orbit to today.
-
-Moratuwa Arthur C. Clarke stated that this research satellite is to be carried out primarily by the Satellite, designated as 'Birds - X Dragonflei'.
-
-Sri Lanka has no capital costs for this project.
-
-From the 2019 Engineers of the country, three nano satellites were created by the third Nano Satend, "Beers - X Dragonfly."
-
-The satellite was taken to the International Space Corporation by NASA on August 24.
-
-The project was launched by the Japanese Space Research Institute and the Digital Radio Communication Institute.
-
-Today, Birds - X Dragonflee will mark another unique victory on the Space Technology Development Travel in Sri Lanka.
-
-In 2019, Rawana - 1 was created as the first nano-1 satellite in Sri Lanka, while the second Nano Satellite is the "Close" SATHI of a Technical Cooperation Project at a five-five international parties.
-
-◼️
-
-[Data](articles/38f7f374.json)
-
-[Extended Data](ext_articles/38f7f374.ext.json)
-
----
-
-### S&P raises Sri Lanka’s rating from selective default on stable outlook
-
-*2025-09-19 19:43:00* · [`economynextcom`](https://economynext.com/sp-raises-sri-lankas-rating-from-selective-default-on-stable-outlook-241296/) · `en`
-
-ECONOMYNEXT – S&P Global Ratings raised Sri Lanka’s sovereign rating to non investment rate CCC+ from Selective Default (SD) on a stable outlook citing the island nation’s economy has recovered steadily from its 2022 economic crisis, but its debt burden remains high even after the restructuring of most of its external debt.
-
-It has been the first rating improvement by the S&P since the unprecedented crisis three years ago.
-
-“While Sri Lanka has been actively negotiating with creditors on remaining commercial debt still in default, including SriLankan Airlines’ government-guaranteed bonds, we believe that, based on the passage of time, further resolution is unlikely under current circumstances,” the S&P said in a statement.
-
-“Sri Lanka’s economy has recovered steadily from its 2022 economic crisis, with some macroeconomic indicators already surpassing pre-crisis levels. However, its debt burden remains high even after the restructuring of most of its external debt.”
-
-...
-
-[Data](articles/db7f9909.json)
-
-[Extended Data](ext_articles/db7f9909.ext.json)
-
----
-
-### Union Bank to raise Rs 3 billion via listed Debenture Issue
-
-*2025-09-19 19:39:00* · [`islandlk`](http://island.lk/union-bank-to-raise-rs-3-billion-via-listed-debenture-issue/) · `en`
-
-Union Bank is pleased to announce that its Board of Directors has resolved to issue up to a maximum of Thirty Million (30,000,000), Basel III-compliant, listed, rated, unsecured/debenture(s) of Rs. 100 each to raise a maximum of Rupees Three Billion ( 3,000,000,000) to be offered to investors subject to shareholder and regulatory approvals.
-
-This issuance is expected to strengthen Union Bank’s capital base to support strategic expansion, augment its Tier 2 capital in compliance with regulatory capital adequacy requirements, and to bolster lending capacity, particularly for SME and other priority customer segments. This move aligns with the bank’s ongoing efforts to ensure financial resilience, support sustainable growth, and deliver longterm value to shareholders and stakeholders.
-
-...
-
-[Data](articles/319271c9.json)
-
-[Extended Data](ext_articles/319271c9.ext.json)
-
----
-
-### LOLC’s Livestock Insurance promotes human-leopard coexistence
-
-*2025-09-19 19:39:00* · [`islandlk`](http://island.lk/lolcs-livestock-insurance-promotes-human-leopard-coexistence/) · `en`
-
-The Sri Lankan Leopard (Panthera pardus kotiya), endemic to the island and with fewer than 1,000 mature individuals remaining in the wild, faces a precarious future as it struggles against habitat loss, prey depletion, snares, and retaliation killings.
-
-As a keystone species and a vital contributor to Sri Lanka’s ecosystems, eco-tourism, and national economy, its survival is of immense importance. However, human-leopard conflict continues to pose one of the greatest threats, with predation on unattended livestock and pets often leading to retaliatory killings, an instinctive act of protection by rural communities, but one that tragically diminishes the nation’s most iconic wildlife.
-
-...
-
-[Data](articles/3ab6cec6.json)
-
-[Extended Data](ext_articles/3ab6cec6.ext.json)
-
----
-
-### Union Assurance sells 22 percent stake in Fairfirst Insurance to Fairfax Asia amid robust market conditions
-
-*2025-09-19 19:39:00* · [`islandlk`](http://island.lk/union-assurance-sells-22-percent-stake-in-fairfirst-insurance-to-fairfax-asia-amid-robust-market-conditions/) · `en`
-
-Union Assurance sold its 22 percent stake in Fairfirst Insurance Ltd to Fairfax Asia Ltd for Rs 2.63 billion, CSE sources said.
-
-“UAL has divested its 22 percent equity stake comprising 30,800,000 ordinary shares, in Fairfirst Insurance Ltd., an associate company of UAL today, CSE sources explained. The total price was Rs 2,638,079,877.00. Fairfirst Insurance Ltd operates in the non-life insurance segment and was previously treated as an associate of the John Keells Group.
-
-Amid those developments overall market conditions were positive and the All Share Price Index reached 21000 points. The All Share Price Index up by 119.83 points, while the S and P SL20 rose by 22.2 points. Turnover stood at Rs 6.5 billion with eight crossings.
-
-...
-
-[Data](articles/4d15e4a6.json)
-
-[Extended Data](ext_articles/4d15e4a6.ext.json)
-
----
-
-### Sampath Bank strengthens community engagement at Nallur Kandaswamy Kovil Festival with 200,000 devotees
-
-*2025-09-19 19:29:00* · [`islandlk`](http://island.lk/sampath-bank-strengthens-community-engagement-at-nallur-kandaswamy-kovil-festival-with-200000-devotees/) · `en`
-
-Sampath Bank took an active role at the historic Nallur Kandaswamy Kovil Temple Festival in Jaffna, recently. The Bank’s presence at the festival reinforced its dedication to strengthening cultural engagement and community support, while forging meaningful connections with people across the Northern Province.
-
-The Bank conducted a ten-day door-to-door promotional campaign across key towns, including Point Pedro, Atchuveli, Manipai, Chavakatcheri, Changanai, Vattukottai, Thirunelveli, Thurayoor, Columbuthurai, Chunnagam, and Kondavil. This outreach programme provided communities with valuable insights into Sampath Bank’s wide range of financial solutions, while also strengthening relationships at a grassroots level.
-
-...
-
-[Data](articles/c7856c9e.json)
-
-[Extended Data](ext_articles/c7856c9e.ext.json)
-
----
-
-### ComBank partners with Indira Cancer Trust to raise breast cancer awareness
-
-*2025-09-19 19:29:00* · [`islandlk`](http://island.lk/combank-partners-with-indira-cancer-trust-to-raise-breast-cancer-awareness/) · `en`
-
-The Commercial Bank of Ceylon has joined hands with the Indira Cancer Trust (ICT) as the Gold Sponsor of the TLC (Touch | Look | Check) – Triathlon 2025, a nationwide series of events to raise awareness of breast cancer – which tragically claims three lives a day in Sri Lanka – reaffirming the Bank’s commitment to empower women and promote community well-being as a core pillar of its corporate social responsibility efforts.
-
-This unique initiative combines the power of sport with health education to highlight the importance of early detection of breast cancer, as part of the Trust’s activities in the month of October.
-
-The TLC Triathlon 2025 will be the first nationwide triathlon series in the country, to take the message of breast self-examination to the public. The triathlon will take place across four cities – Kilinochchi, Batticaloa, Matara, and Colombo – through a combination of swimming, cycling, and running.
-
-...
-
-[Data](articles/cbaab278.json)
-
-[Extended Data](ext_articles/cbaab278.ext.json)
-
----
-
-### Sajith, who has requested time for submitting property declaration in digital form
-
-*2025-09-19 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225548) · `ta`
-
-Opposition Leader Sajith Premadasa has sought time to submit his assets and responsibilities in digital form. The request was made by the Opposition Leader by letter to the Bribery and Corruption Commission.
-
-The United People's Power reported that the details of the opposition leader were submitted to the Secretary General of Parliament on April 23.. The details have been sent to the Bribery and Corruption Commission by the Secretary General of Parliament.
-
-However, the opposition leader has been informed to submit them in digital format. It is said that the opposition leader has requested the Bribery and Corruption Commission to give time for time.
-
-◼️
-
-[Data](articles/20199200.json)
-
-[Extended Data](ext_articles/20199200.ext.json)
-
----
-
-### 7th Annual Medical Camp organized by the Army in Ampara, Batticaloa
-
-*2025-09-19 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225547) · `ta`
-
-More than 1250 people, including wounded warriors, heroic and retired relatives, were present at the Sri Lanka Army War Training School, Ampara, Ampara, Ampara, Ampara, Ampara, Ampara, on Friday (19).
-
-Army Commander Lieutenant General Lasantha Rodrigo was the chief guest at the event.
-
-The medical camp, organized under the supervision of the warrior affair and the rehabilitation work, was provided with medical problems and providing solutions, professional health advice, mental counseling, dental services, mobile laboratory services, artificial legs and surgical equipment.
-
-Apart from the problems of the dead warriors, the retired soldiers and their close relatives, the problems of the families of the heroes of the war heroes, were donated to the wounded warriors, wheelchairs, crutches, nasal mirrors and necessary surgery equipment.
-
-...
-
-[Data](articles/715d56d9.json)
-
-[Extended Data](ext_articles/715d56d9.ext.json)
-
----
-
-### Govt Analyst report confirms samples from Middeniya contained chemicals used in making ‘Ice’
-
-*2025-09-19 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112684/govt-analyst-report-confirms-samples-from-middeniya-contained-chemicals-used-in-making-ice) · `en`
-
-The Government Analyst’s Department has informed Sri Lanka Police that the samples obtained from Middeniya have been confirmed to contain chemicals used in the production of Crystal Methamphetamine, also known as ‘Ice’, sources told Ada Derana.
-
-The Government Analyst’s Department has handed over its report following the tests carried out on the samples obtained from the chemicals recently found in a property in the Middeniya area.
-
-Police sources said that according to the relevant report, they have been confirmed to be chemicals used to manufacture the drug ‘Ice’.
-
-The Western Province North Crime Division recovered about 50,000 kilograms of chemicals from the Middeniya area on September 6, which were suspected to be used to manufacture ‘Ice” drugs in the country by major drug traffickers known as ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’.
-
-...
-
-[Data](articles/074878fd.json)
-
-[Extended Data](ext_articles/074878fd.ext.json)
-
----
-
-### Analyst's report confirmed on chemicals in Midigiyana
-
-*2025-09-19 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214770) · `si`
-
-The Government Analyst's report of the samples of the chemicals found in the Middeniya has been handed over to the police.
-
-According to the police, they have confirmed that they are used to create ice drugs.
-
-The Western Criminal Division of the Western Criminal Division was found in the Western Criminal Criminal Division of about 50,000 kilograms of chemicals to produce ice drugs in Sri Lanka and Kudu Nilanga.
-
-According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
-
-The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
-
-The Dangerous Drugs Control Board recently was released recently, and there were the chemicals used to build ice narcotics.
-
-Meanwhile, the report of the Analyst's Department was handed over to the police to the police today.
-
-...
-
-[Data](articles/aad95de5.json)
-
-[Extended Data](ext_articles/aad95de5.ext.json)
-
----
-
-### Kota came to Mahinda's house
-
-*2025-09-19 18:47:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வீட்டுக்கு-வந்த-கோட்டா/175-364926) · `ta`
-
-◼️
-
-[Data](articles/aa777391.json)
-
-[Extended Data](ext_articles/aa777391.ext.json)
 
 ---

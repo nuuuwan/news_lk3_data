@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 09:11:14**
+As of **2025-09-20 10:20:00**
 
 ## Newspaper Stats
 
-*Scraped **77,051** Articles*
+*Scraped **77,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,218 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,491
-adaderanalk | 9,948
-tamilmirrorlk | 11,584
-virakesarilk | 12,524
-adaderanasinhalalk | 13,443
+adaderanalk | 9,951
+tamilmirrorlk | 11,585
+virakesarilk | 12,528
+adaderanasinhalalk | 13,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,379 (99.1%) of 77,051 articles have been extended.
+76,427 (99.2%) of 77,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### புகையிரதத்தில் மீட்கப்பட்ட மர்மப் பை
+### ஜப்பானில் வெப்பத்தினால் நூற்றுக்கணக்கான முதியவர்கள் உயிரிழப்பு !
+
+*2025-09-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225563) · `ta`
+
+ஒவ்வொரு வருடமும் வெப்பநிலை காரணமாக நூற்றுக்கணக்கான முதியவர்கள் உயிரிழப்பதாக ஜப்பான் ஊடகங்கள் தெரிவித்துள்ளன.
+
+அழைப்பு சாதனம் ஒரு கொடிய இரட்டை அவசரநிலையை எதிர்த்துப் போராடுவதற்கான அரசாங்க உந்துதலின் ஒரு பகுதியாகும்.
+
+ஜப்பானின் காலநிலை நெருக்கடி மற்றும் அதன் வயதான மக்கள் தொகை காரணமாக பல சவால்களை எதிர்கொள்கிறது.
+
+ஜப்பானில் தனிமை மற்றும் பிற கலாச்சார காரணிகளால் வெப்பநிலையை எதிர்கொள்ள முடியாமல் உயிரிழப்புகள் அதிகரிக்கிறது.
+
+◼️
+
+[Data](articles/a3312e53.json)
+
+---
+
+### களுவாஞ்சிக்குடியில் சந்தேகத்திற்கிடமான முறையில் பெண் உயிரிழப்பு!
+
+*2025-09-20 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225561) · `ta`
+
+களுவாஞ்சிக்குடி பொலிஸ் பிரிவிற்குட்பட்ட கோட்டைக்கல்லாறு பகுதியில் உள்ள வீடொன்றில் சந்தேகத்திற்கிடமான முறையில் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+கோட்டைக்கல்லாறு பகுதியில் உள்ள வீடொன்றில் பெண் ஒருவர் சடலமாக கிடப்பதாக, களுவாஞ்சிக்குடி பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
+
+உயிரிழந்தவர் கோட்டைக்கல்லாறு பகுதியிணை சேர்ந்த 57 வயதுடையவர் என பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+இந்த பெண் வீட்டில் தனியாக வசித்து வந்ததாக விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/4de9b9d9.json)
+
+---
+
+### தேவாலேகமவில் கொடூரம்: தந்தை தாக்கியதில் மகன் பலி, மனைவி படுகாயம்!
+
+*2025-09-20 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225562) · `ta`
+
+கேகாலையில் தேவாலேகம பொலிஸ் பிரிவிற்குட்பட்ட படுவத்த பகுதியில் தந்தை தாக்கியதில் மகன் உயிரிழந்துள்ளதுடன் மனைவி காயமடைந்துள்ளார்.
+
+தந்தை தனது மகன் மற்றும் மனைவியை பொல்லால் தாக்கியதால் மன் சம்பவ இடத்திலேயே உயிரிழந்ததாக பொலிஸாரின் ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/5c6c0c9f.json)
+
+---
+
+### Winners of 10th Derana Film Awards 2025
+
+*2025-09-20 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112695/winners-of-10th-derana-film-awards-2025) · `en`
+
+The 10th edition of Derana-Lux Film Awards got underway at the Nelum Pokuna Theatre in Colombo last night (Sept. 19) with the country’s top artistes adding glitz and glamour to the enchanting night.
+
+The ceremony recognizes and celebrates the top talents of Sri Lankan cinema for the brilliance they showcased in 2024.
+
+Rashipraba Sandeepani was honored with the Best Actress Award for her performance in Visal Adare, while Hemal Ranasinghe received the Best Actor in a Leading Role Award for his role in Sihina Nelum Mal.
+
+Meanwhile, Channa Deshapriya won the Best Director Award for Doosra, which also clinched the Best Picture Award of the night.
+
+Additionally, the Lifetime Achievement Award was presented to veteran actor Ravindra Randeniya in recognition of his remarkable contributions to Sri Lankan cinema.
+
+• Best Art Direction – Manjula Ayagama (Gautama Buddha Matha)
+
+• Most Promising Director (Cinema of tomorrow) – Thillaiampalam Suthakaran Mathisudha (Dark Days of Heaven)
+
+...
+
+[Data](articles/adec1a91.json)
+
+---
+
+### அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் - சீனப் பிரதமர் ஜி ஜின்பிங் இடையில் தொலைபேசி உரையாடல்
+
+*2025-09-20 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225560) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் மற்றும் சீனப் பிரதமர் ஜி ஜின்பிங்கும் இடையே வெள்ளிக்கிழமை(நேற்று) தொலைபேசி உரையாடலொன்று இடம்பெற்றுள்ளது.
+
+மிகவும் பிரபலமான மற்றும் செல்வாக்கு மிக்க வீடியோ செயலியான டிக்டோக்கின் செயற்பாடுகள் தொடர்பில், இறுதி செய்ய உள்ளதாகவும், வர்த்தகம் குறித்தும் விவாதிப்பார்கள் என்ற எதிர்பார்ப்புடன் இந்த பேச்சுவார்த்தை நடத்தப்பட்டது.
+
+இதன்போது, தானும் சீனப் பிரதமர் ஜி ஜின்பிங்கும் டிக்டோக்கின் அமெரிக்க செயற்பாடுகளின் எதிர்காலம் குறித்த ஒப்பந்தத்திற்கு அனுமதி அளித்ததாக டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+
+அதேநேரம், டொனால்ட் ட்ரம்ப் ட்ரூத் எனும் தளத்தில் குறித்த உரையாடல் பயனுடையதாக அமைந்தது என குறிப்பிட்டுள்ளார்.
+
+மேலும் ஒப்பந்தத்திற்கு சீனப் பிரதமர் ஜி ஜின்பிங் அனுமதி அளித்ததை டொனால்ட் ட்ரம்ப் பாராட்டியுள்ளார்.
+
+குறித்த ஒப்பந்தத்தின் படி, டிக்டோக்கின் அமெரிக்க வணிகத்தை அமெரிக்க முதலீட்டாளர்கள் குழுவிற்கு விற்கும் என்று கூறப்படுகிறது.
+
+ஆனால் சீனாவின் அதிகாரப்பூர்வ அரச செய்தி நிறுவனமான சின்ஜுவா அவர்களின் விவாதத்தின் முடிவை தெளிவாகக் குறிப்பிடவில்லை என தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/a5869139.json)
+
+---
+
+### New Information on Metro Bus Service
+
+*2025-09-20 09:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெட்ரோ-பேருந்து-சேவை-குறித்து-புதிய-தகவல்/175-364949) · `ta`
+
+Transport, Highways and Civil Aviation Minister Bimal Ratnayake has said that Lanka Metro Bus Company will be set up as a new member of the Sri Lanka Transport Board from October 8.
+
+The company said the company would be fully owned by the Sri Lanka Transport Board, but its operations would be similar to the functions of the private sector.
+
+The Minister also said that passengers traveling on long -range buses will be mandatory to wear seat belts from January 1, 2026.
+
+He added that the Sri Lanka Transport Board has been informed to produce a new seat belts as seat belts are not installed on old Leyland and Tata buses belonging to the Sri Lanka Transport Board.. Remble
+
+◼️
+
+[Data](articles/a4e20d8e.json)
+
+[Extended Data](ext_articles/a4e20d8e.ext.json)
+
+---
+
+### Sri Lanka - Bangladesh match today
+
+*2025-09-20 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214781) · `si`
+
+Sri Lanka-Bangladeshi match will be held today (20), commencing the Super 4 in Asia Cup Twenty20 tournament.
+
+The match will be held at the Dubai International Cricket Stadium at 8 pm.
+
+Sri Lanka played 3 matches under the Super 4 round.
+
+Sri Lanka will play Sri Lanka in Dubai on the 23rd against Pakistan on the 23rd of September 26.
+
+At the end of the Super 4 round, the two teams taking the lead in the bonus mark will be eligible for the finals.
+
+◼️
+
+[Data](articles/1200d15f.json)
+
+[Extended Data](ext_articles/1200d15f.ext.json)
+
+---
+
+### Mysterious bag
 
 *2025-09-20 08:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/புகையிரதத்தில்-மீட்கப்பட்ட-மர்மப்-பை/73-364948) · `ta`
 
-கொழும்பில் இருந்து மட்டக்களப்பு நோக்கி பயணித்த புகையிரதம் நேற்று (19) மாலை மட்டக்களப்பு புகையிரத நிலையத்தை வந்தடைந்தபோது, கைவிடப்பட்ட நிலையில் பை ஒன்று கண்டுபிடிக்கப்பட்டது.
+The train from Colombo to Batticaloa was found in the Batticaloa Railway Station yesterday evening (19).
 
-பையைத் திறந்து பரிசோதித்தபோது, அதில் 252 பெக்கெட்டுகளில் பொதி செய்யப்பட்ட 200 கிராம் ‘ஜஸ்’ வகை போதைப் பொருள் இருப்பது கண்டறியப்பட்டது.
+Upon opening the bag, it was found that 200 grams of jazz was packed in 252 peckets.
 
-இச்சம்பவம் தொடர்பாக மட்டக்களப்பு தலைமையக பெரும் குற்றத்தடுப்பு பிரிவு பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.  R
+The Batticaloa Headquarters Headquarters Division is conducting further investigations into the incident.  R
 
 ◼️
 
 [Data](articles/358d18d0.json)
 
+[Extended Data](ext_articles/358d18d0.ext.json)
+
 ---
 
-### සැමියා විසින් බිරිඳට හා පුතාට පහරදෙයි - පුතා මරුට
+### Husband and son attack wife and son to attack - son
 
 *2025-09-20 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214780) · `si`
 
-දේවාලේගම පොලිස් වසමේ බටුවත්ත ප්‍රදේශයේදී පුද්ගලයෙකු විසින් ඊයේ (19) රාත්‍රියේ ඔහුගේ බිරිඳට හා පුතාට පහරදී පුත්‍රයා ඝාතනය කර තිබේ.
+In Batuwatta area in Devalegama, a person had assaulted his wife and son yesterday (19).
 
-බිරිඳ තුවාල ලබා කෑගල්ල රෝහලට ඇතුළත් කර ඇති බවට දේවාලේගම පොලිස් ස්ථානයට ලද තොරතුරක් මත සිද්ධිය පිළිබඳ විමර්ශන ආරම්භ කෙරුණි.
+The wife was injured and rushed to the Kegalle hospital that he was established on a tip off the incident.
 
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 35ක් වූ බටුවත්ත, හැලමඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The victim is a 35 year old resident of Batuwatta, Batuwatta.
 
-පවුල් ආරවුලක් හේතුවෙන් පොල්ලකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදුකර ඇති විමර්ශනයේදී අනාවරණය වී ඇත.
+Investigations have revealed that the murder had been assaulted by a stick due to a family dispute.
 
-මෘතශරීරය සම්බන්ධයෙන් මහේස්ත්‍රාත් පරීක්ෂණ සිදුකිරීමට නියමිත අතර දේවාලේගම පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Magistrate investigation into the morgue is to be conducted on the other and Devalese Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/da58293b.json)
+
+[Extended Data](ext_articles/da58293b.ext.json)
+
+---
+
+### Former TNA MP Thanmanpillai Kanagasabai passes away
+
+*2025-09-20 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112693/former-tna-mp-thanmanpillai-kanagasabai-passes-away-) · `en`
+
+Former Tamil National Alliance (TNA) Member of Parliament for the Batticaloa District, Thanmanpillai Kanagasabai, passed away yesterday (19) at the age of 86.
+
+Kanagasabai, a resident of Kaluthavalai in Batticaloa, was a retired government official.
+
+He contested the 2004 General Election from the Tamil National Alliance (TNA) in the Batticaloa District and was elected to Parliament, securing the highest number of preferential votes.
+
+Details regarding his funeral arrangements will be announced in due course.
+
+◼️
+
+[Data](articles/27e8f1da.json)
+
+[Extended Data](ext_articles/27e8f1da.ext.json)
 
 ---
 
@@ -107,6 +271,26 @@ The Criminal Investigation Department said that the round was led by the Senior 
 [Data](articles/3a3e7aff.json)
 
 [Extended Data](ext_articles/3a3e7aff.ext.json)
+
+---
+
+### “I’ll fulfill my father’s wish and give 100% in Asia Cup” – Dunith Wellalage
+
+*2025-09-20 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112692/ill-fulfill-my-fathers-wish-and-give-100-in-asia-cup-dunith-wellalage) · `en`
+
+Sri Lankan all-rounder Dunith Wellalage has said that his father’s only wish was for him to become a good cricketer and represent the country, and he is determined to fulfill that dream.
+
+Wellalage, who returned to Sri Lanka during the Asia Cup following the sudden demise of his father, made this statement before departing the island this morning (20) to rejoin the national team.
+
+“I have received immense support from my father since childhood. His only wish was for me to become a good player and play for Sri Lanka. I will definitely fulfill that wish.We still have more matches in the Asia Cup, and I hope to give 100% to my team.”
+
+He further said that he had also received great support from Sri Lanka’s Team Coach Sanath Jayasuriya, his teammates including Captain Charith Asalanka, and from everyone in Sri Lanka, and that this encouragement had given him immense strength during that difficult time, for which he was truly grateful.
+
+...
+
+[Data](articles/77934829.json)
+
+[Extended Data](ext_articles/77934829.ext.json)
 
 ---
 
@@ -1879,181 +2063,5 @@ At the time, the suspect was seized from the pocket of the suspect, the 24 -cara
 [Data](articles/f4cbe6e1.json)
 
 [Extended Data](ext_articles/f4cbe6e1.ext.json)
-
----
-
-### The petition filed to consult the security of Panadura Nilanga's safety
-
-*2025-09-19 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214759) · `si`
-
-The Court of Appeal was held to be summoned to the 26th to be considered to be considered to issue a direct film to the CID officials to issue a directive to Sri Lanka in Indonesia.
-
-The petition filed by the mother of the suspect was called before the Court of Appeal of the Court of Appeal and Priyantha Fernando.
-
-After considering the petitioner and the Attorney General Solicarasitor General Sharnil Kularatne, who appeared on behalf of the Attorney General, was appointed to call on 26.
-
-The Director of the Criminal Investigations Department, the Director of the Criminal Investigation Department, the IGP and the Attorney General have been named as respondents in the petition.
-
-The petitioner says that the respondents are issued to the respondents to ensure the safety of his Son who is holding in the custody of the CID.
-
-In addition, the petition further requests the respondents to respond to the guidelines issued by the Sri Lanka Human Rights Commission (HRCSF) in detention.
-
-◼️
-
-[Data](articles/6375d7dc.json)
-
-[Extended Data](ext_articles/6375d7dc.ext.json)
-
----
-
-### India and Pakistan to fight on Monday
-
-*2025-09-19 15:34:30* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-හා-පාකිස්තානය-යළි-ලබන-21-දා-සටනට/9-418609) · `si`
-
-The round of the Superintendent of the Asian Kusalana, between India and Pakistan, between India and Pakistan, is scheduled to play in the Asian Kusalana Tournament between India and Pakistan.
-
-India and Pakistan are the second time that they meet each other in this tournament. India was criticized by the Indian players after the first match and after the match, the Indian players were abandoned from the field.
-
-The match between the Superstives of the Asia Cup, the match will be held tomorrow (20).
-
-◼️
-
-[Data](articles/4f068350.json)
-
-[Extended Data](ext_articles/4f068350.ext.json)
-
----
-
-### 2026 pre-budget discussions with stakeholders in energy sector
-
-*2025-09-19 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214758) · `si`
-
-Labor and Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando held a pre-budget discussion with the partners of the energy sector.
-
-It was also discussed at length to measures to be taken to meet the rising electricity demand.
-
-It was emphasized that the energy sector has a great demand for the energy sector and the government has paid special attention to renewable energy in the role of the new government program.
-
-There were also discussed on opportunities to export electricity. The partners of the energy sector were asked for to pay attention to the importation of goods related to the industry.
-
-The Minister of Energy Minister also decided to hold another discussion with all stakeholders of the Electricity Board, the Chairman of the Electricity Board and Energy.
-
-Speaking in the energy sector, especially the maximum of production of the energy sector, will be discussed and reducing the cost of producers.
-
-...
-
-[Data](articles/3ed12880.json)
-
-[Extended Data](ext_articles/3ed12880.ext.json)
-
----
-
-### SLAF intelligence officer arrested over Rs. 20M gold smuggling attempt at BIA
-
-*2025-09-19 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112678/slaf-intelligence-officer-arrested-over-rs-20m-gold-smuggling-attempt-at-bia) · `en`
-
-In a major enforcement success, the Narcotics Control Unit of Sri Lanka Customs apprehended an intelligence officer of the Sri Lanka Air Force (SLAF) at Bandaranaike International Airport (BIA), for allegedly attempting to smuggle gold worth Rs. 20 million into the country.
-
-The 37-year-old suspect, who has served in the Sri Lanka Air Force for 17 years, was intercepted by vigilant Customs officers as he attempted to exit the arrival terminal through the staff gate yesterday (18).
-
-Upon subjecting him to a body scan, officers discovered 40 gold biscuits of 24-carat purity (10 grams and 20 grams each), weighing 550 grams in total, concealed around his waist.
-
-The seized gold has an estimated market value of Rs. 20 million, the statement said.
-
-The suspect was immediately taken into custody, and further investigations are underway in collaboration with relevant law enforcement and defense authorities, Customs said.
-
-...
-
-[Data](articles/fdeb6e96.json)
-
-[Extended Data](ext_articles/fdeb6e96.ext.json)
-
----
-
-### Rs. Air Force intelligence officer arrested with gold
-
-*2025-09-19 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214757) · `si`
-
-Air Force intelligence officers have been arrested by Airport Customs personnel with a stock of gold worth Rs. 20 million.
-
-The arrested Sri Lankan intelligence is a member of the Bandaranaike International Airport, Katunayake, Katunayake.
-
-The customs personnel have been arrested by the customs personnel while attempting to carry the stock of gold from the airport while the airport was duties.
-
-Customs officers found 40 carrots 24-gold biscuits in his possession and 550 grams of weight.
-
-◼️
-
-[Data](articles/e5f49615.json)
-
-[Extended Data](ext_articles/e5f49615.ext.json)
-
----
-
-### 90393 tourists arrived in Sri Lanka in the first 17 days of September
-
-*2025-09-19 14:52:51* · [`adalk`](https://www.ada.lk/breaking_news/සැප්තැම්බර්-පළමු-දින-17-තුළ-ලංකාවට-සංචාරකයන්-90393ක්-ඇවිත්/11-418608) · `si`
-
-Tourism Development Authority says that 90393 tourists have arrived in Sri Lanka in the first 17 days of September. Accordingly, the total number of tourists visited Sri Lanka from January 1 to September 17 this year was 1 656 916.
-
-◼️
-
-[Data](articles/0cd7b848.json)
-
-[Extended Data](ext_articles/0cd7b848.ext.json)
-
----
-
-### Foreign citizen killed in Kanagarayankulam accident
-
-*2025-09-19 14:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனகராயன்குளம்-விபத்தில்-வெளிநாட்டு-பிரஜை-பலி/175-364922) · `ta`
-
-A German countryman was killed in an accident on Friday (19) in Kanakarayankulam area.
-
-Paravutti, who was traveling from Colombo to Jaffna in the Vavuniya Kanagarayankulam area, crashed into a bicycle.. In this, the person who was traveling in a bicycle has fallen down.
-
-The man who was traveling in a bicycle in the accident died on the spot.
-
-The accident occurred as he visited Germany and stayed in Kanagarayankulam area.
-
-The driver of Paravurthi in connection with the accident has been arrested by the Kanagarayankulam police and the police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/979081c4.json)
-
-[Extended Data](ext_articles/979081c4.ext.json)
-
----
-
-### King's side of the queen's side
-
-*2025-09-19 14:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜாவின்-பார்வை-ராணியின்-பக்கம்/175-364921) · `ta`
-
-◼️
-
-[Data](articles/8d2ca02d.json)
-
-[Extended Data](ext_articles/8d2ca02d.ext.json)
-
----
-
-### Special police unit to investigate foreign employment complaints
-
-*2025-09-19 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214756) · `si`
-
-A special investigation unit has been established at the Head Office of the Sri Lanka Limited.
-
-The unit commenced yesterday (18), 16 police officers have been attached to the unit.
-
-Established in 1985, with the Foreign Employment Authority, "1985, the work of the foreign employment is to solve their complaints successfully and expeditiously.
-
-Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra said that the unit was established to provide relief to the migrant community with immediate solution to complaints and complaints.
-
-...
-
-[Data](articles/2f723688.json)
-
-[Extended Data](ext_articles/2f723688.ext.json)
 
 ---

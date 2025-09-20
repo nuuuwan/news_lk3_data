@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 15:05:49**
+As of **2025-09-20 14:55:13**
 
 ## Newspaper Stats
 
-*Scraped **77,088** Articles*
+*Scraped **77,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,21 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,496
+adalk | 7,495
 adaderanalk | 9,955
-tamilmirrorlk | 11,588
+tamilmirrorlk | 11,586
 virakesarilk | 12,535
-adaderanasinhalalk | 13,453
+adaderanasinhalalk | 13,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,599 (99.4%) of 77,088 articles have been extended.
+76,599 (99.4%) of 77,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### 2025 වසරේ මේ දක්වා පුද්ගලයින් ලක්ෂ 51ක් පොලිස් පරීක්ෂාවට
-
-*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
-
-2025 වසරේ මේ දක්වා සිදුකළ මත්ද්‍රව්‍ය වැටලීම්වලින් හෙරොයින් කිලෝග්‍රෑම් 955ක්, අයිස් කිලෝග්‍රෑම් 1,422 ක් පොලීසිය භාරයට ගෙන තිබේ.
-
-පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුඩ්ලර් මහතා සඳහන් කළේ හෂිෂ් කිලෝග්‍රෑම් 471 ක්, කොකේන් කිලෝග්‍රෑම් 29ක්, ගංජා කිලෝග්‍රෑම් 13,773 ක්, මත්ද්‍රව්‍ය පෙති මිලියන 3.5ක් ද නිලධාරීන් භාරයට ගත් බවය.
-
-T-56 අවි 61ක්" පිස්තෝල 62ක් සහ රිවෝල්වර් 40ක් වෙනත් ගිනිඅවි 1,721ක් සොයා ගෙන ඇත.
-
-2025 ජනවාරි පළමු වනදා සිට මේ දක්වා වෙඩිතැබීමේ සිද්ධිවලට අදාළව වෙඩික්කරුවන් 38 දෙනෙකු, පැදිකරුවන් 27 දෙනෙකු, ආධාර අනුබල ලබාදීමේ සිද්ධිවලට අදාළව පුද්ගලයින් 263 දෙනෙකු ඇතුළුව සැකකරුවන් 328 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-මේ අතර දෛනික පොලිස් විශේෂ මෙහෙයුම්වලදී ජනවාරි 12 වනදා සිට මේ දක්වා පුද්ගලයින් 5,101,516ක් පරීක්ෂාවට ලක්කර ඇති අතර සැකපිට පුද්ගලයින් 104,602ක් අත්අඩංගුවට ගෙන තිබේ.
-
-ඉන් පුද්ගලයින් 4630 දෙනෙකු අපරාධවලට ඍජුව හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/f3702a26.json)
-
----
-
-### ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா
-
-*2025-09-20 14:46:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியின்-79ஆவது-ஆண்டு-நிறைவு-விழா/175-364952) · `ta`
-
-ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா இன்று (20) கொண்டாடப்படுகிறது.
-
-ஸ்ரீ ஜயவர்தனபுரவில் உள்ள தனியார் ஹோட்டலில் "உங்கள் கருத்தைக் கைவிடாதீர்கள் - அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிக்க ஒன்றிணைவோம்" என்ற கருப்பொருளில் நிகழ்வு ஒன்று ஏற்பாடு செய்யப்பட்டுள்ளது.
-
-விளக்கமறியலில் வைக்கப்பட்டு பிணையில் விடுதலை செய்யப்பட்டதையடுத்து ரணில் விக்ரமசிங்க கலந்துகொண்ட முதலாவது பொது நிகழ்வு இதுவாகும்.
-
-இந்த நிகழ்வில் பல அரசியல்வாதிகள் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர்கள் கலந்துகொண்டுள்ளனர். R
-
-◼️
-
-[Data](articles/504f3ead.json)
-
----
-
-### நுவரெலியாவில் பஸ் - லொறி விபத்து
-
-*2025-09-20 14:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பஸ்-லொறி-விபத்து/76-364951) · `ta`
-
-நுவரெலியா - இராகலை பிரதான வீதியில் புரூக்சைட் சந்திக்கு அருகில் இன்று (20) காலை இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-தனியார் பஸ் ஒன்றும் லொறி ஒன்றும் நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது லொறியின் சாரதி காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். R
-
-◼️
-
-[Data](articles/4afa89cf.json)
-
----
 
 ### Dead body of a woman killed in mysteriously
 
@@ -103,24 +47,6 @@ Preliminary investigations have revealed that the woman had been living alone in
 [Data](articles/9c729284.json)
 
 [Extended Data](ext_articles/9c729284.ext.json)
-
----
-
-### මම ඩොලර් බිලියන 22ක් දීලා ගියේ,  මම මොකටද මේවා අරගන්නේ
-
-*2025-09-20 13:38:54* · [`adalk`](https://www.ada.lk/breaking_news/මම-ඩොලර්-බිලියන-22ක්-දීලා-ගියේ---මම-මොකටද-මේවා-අරගන්නේ/11-418619) · `si`
-
-තමන් විශ්වවිද්‍යාල උපාධි උත්සවයට එක්වූයේ නිල ආරාධනාවකට බව හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ 79 වැනි සංවත්සර උත්සවය අමතමින් පැවැසීය. 2022දී තමන් රට භාර ගන්නා විට පැවැති දළ ජාතික නිශ්පාදිතය ඩොලර් බිලියන 76.8ක් වූ බවත් තමන් අනුර කුමාර දිසානායක මහතාට රට භාර දෙන විට එම අගය ඩොලර් බිලියන 98.9ක් දක්වා වැඩි බවත් හිටපු ජනපතිවරයා පැවැසීය.
-
-“මම මුලින්ම ගියේ හවානාවට. ඉන් පස්සේ මම නිව්යෝර්ක් ගියා. එහි සිට කොළඹට එන ගමන් මම ලන්ඩනයේ එක රැයක් ගත කළා. ඒක ට්‍රාන්ස්සිට් එකක්. මේවා නිල ගමන්. එතනදී මට තිබුණේ නිල ආරාධනයක්. හිටපු නිසා පිළි ගත්තා. ආරාධනාවක් තිබුණේ නැත්නම් මම ලන්ඩන් නුවර ඉන්නවා. මේක අරගෙනයි මාව ගෙනිච්චේ.
-
-මම මට ආරාධනා කළ ලියුමක් පෙන්නුවා. ඇහුවා මොකක්ද මම ලන්ඩන්වල ඉදන් ගෙනාවේ කියලා. ඕක මටත් අහන්න පුළුවන් අනුර කුමාර ජනපතිගෙන් මොනවද ජර්මනියෙන් ගෙනාවේ කියලා.
-
-මට දැනගන්න ලැබුණා මට විරුද්ධව පැමිණිල්ලක් කර තියෙනවා කියලා. කවුද පැමිණිල්ල කළේ වර්තමාන ජනපතිගේ ජනපති ලේකම්. ඉතුරු කරුණු කියන්න එපා කියලා මට නීතිඥයින් කියලා තියෙන්නේ.
-
-...
-
-[Data](articles/9d3e9a5f.json)
 
 ---
 
@@ -2037,5 +1963,91 @@ Meanwhile, the report of the Analyst's Department was handed over to the police 
 [Data](articles/aa777391.json)
 
 [Extended Data](ext_articles/aa777391.ext.json)
+
+---
+
+### Government spending on 2026 increased by Rs 21,611 crore
+
+*2025-09-19 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225546) · `ta`
+
+4,43,435 crore 6,46,8000 rupees in the budget of the 2026 Finance Year. With the cost of Rs 4,21,824 crore 8,018,000 in the cost of 2025, the cost of 2026 has been increased by 21,610 crore 8,450,000 rupees based on various factors.
+
+The Ministry of Defense and Public Security has been allocated more than the 2025 budget and the Public Security Ministry.
+
+64,800 crore has been allocated for the Ministry of Safety and Public Security on Funds for Government Expenditure. 61,744 crore 50 lakhs of rupees have been allocated for the issues of the Ministry of Defense and Public Security in 2025.
+
+A total of 1,11,715 crore 9,980,000 lakhs have been allocated for the President's Ministry of Defense, Finance, Planning and Economic Development and the Ministry of Digital Economic Ministry.
+
+Meanwhile, the President's expenses were allocated 299,29,80,000 for 2025, with the presidential cost of 2026.. This is more than Rs.
+
+As of 2025, Rs.. This is less than Rs.
+
+...
+
+[Data](articles/a5cc3008.json)
+
+[Extended Data](ext_articles/a5cc3008.ext.json)
+
+---
+
+### To the attention of the exams
+
+*2025-09-19 18:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-364925) · `ta`
+
+The Ministry of Education has issued a statement that applications for the GCE Ordinary Level Examination of 2025 (2026) can be submitted online until October 9.
+
+All school applicants must submit their applicants in person through their school principals and individual applicants,
+
+More Personal Applicants. The department said that when applying for the exam (O.L.), they should use their National Identity Card.
+
+Private applicants who do not have a national identity card should register and submit their applications using the National Identity Card of their guardian (mother or father).
+
+They must visit the official website of the Department of Examinations www.doenets.lk ese www.onlineexams.gov.lk/eic, read the relevant methods and submit their applications properly.
+
+◼️
+
+[Data](articles/ffff29d1.json)
+
+[Extended Data](ext_articles/ffff29d1.ext.json)
+
+---
+
+### Sri Lanka’s foreign currency ratings raised to ‘CCC+/C’
+
+*2025-09-19 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112683/sri-lankas-foreign-currency-ratings-raised-to-cccc) · `en`
+
+S&P Global Ratings on Friday raised its long- and short-term foreign currency sovereign credit ratings on Sri Lanka to ‘CCC+/C’ from ‘SD/SD’ (selective default).
+
+“We also affirmed our ‘CCC+/C’ long- and short-term local currency ratings. The outlook on both the long-term foreign and local currency ratings is stable. The transfer and convertibility assessment remains ‘CCC+’,” the leading American credit rating agency said.
+
+S&P Global Ratings said the stable outlook reflects “a balance between our expectation of Sri Lanka’s continued economic recovery, supported by fiscal reform and external improvements, and the country’s high debt and heavy interest burden over the next one to two years.”
+
+However, the rating agency said it could lower the ratings on Sri Lanka “if we see indications of renewed funding and liquidity stresses.”
+
+...
+
+[Data](articles/5835394d.json)
+
+[Extended Data](ext_articles/5835394d.ext.json)
+
+---
+
+### S & P Global Ratings raise Sri Lankan rating
+
+*2025-09-19 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214769) · `si`
+
+The International Credit Rating Institute, S & P Global Ratings, has been increased to the long term and short-term forex ratio of Sri Lanka to 'CCC + / C'.
+
+Although International Credit of International Credit, including Sovereign Bonds and Moody's Com Bank of Sri Lanka (SLITCH RATINGS and Moody) have not been able to increase Sri Lankan rating.
+
+Sri Lanka's failure to restructure the international dollar bond issued by SriLankan to the restructuring of the international dollar of Sri Lanka was noted that the Sri Lankan rating was not explored.
+
+S & P Global Ratings today (19), S & P Global Ratings, the economy of the 2022 has restored the economic crisis and has already been able to exceed the current levels before the crisis of some macroeconomic index crisis. They also believe that Sri Lanka is still discussing with creditors, including the creditors who have not yet, including the government certified bonds of SriLankan Airlines.
+
+...
+
+[Data](articles/849dd3fa.json)
+
+[Extended Data](ext_articles/849dd3fa.ext.json)
 
 ---

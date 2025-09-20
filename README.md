@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 17:58:08**
+As of **2025-09-20 17:41:15**
 
 ## Newspaper Stats
 
-*Scraped **77,113** Articles*
+*Scraped **77,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,21 @@ economynextcom | 4,665
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,498
+adalk | 7,496
 adaderanalk | 9,961
 tamilmirrorlk | 11,590
-virakesarilk | 12,539
+virakesarilk | 12,538
 adaderanasinhalalk | 13,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,745 (99.5%) of 77,113 articles have been extended.
+76,745 (99.5%) of 77,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### කඳුකර කොටියෙක් බේරා ගැනෙයි
-
-*2025-09-20 17:28:28* · [`adalk`](https://www.ada.lk/picture_story/කඳුකර-කොටියෙක්-බේරා-ගැනෙයි/10-418622) · `si`
-
-තලවකැලේ, ආගරපතන, හෝල්බෲක් අග්‍රා වත්තේ ජලය සහිත විශාල වළකට වැටී අත් පා තුවාල ලබා ඇවිද යාමට නොහැකිව සිටි කඳුකර කොටියෙකු අද (20) බේරා ගත් බව හග්ගල වනජීවී අඩවි ආරක්ෂක කාර්යාලයේ නිලධාරීහු  පවසති.
-
-වයස අවුරුදු හතරත් පහත් අතර වයසේ පසුවන හොදින් වැඩුණු පිරිමි සතෙකු  මෙම අනතුරට ලක්ව සිටි බවත්,  විශාල උසකින් යුත් ගල් කොරියක ජලය සහිත වළකට වැටීම හේතුවෙන්  සතාගේ පිටුපස පෙදෙසට හානි සිදුව ඇති බව මුලික විමර්ශණවලදී අනාවරණය වූ බව රන්දෙණිගල වන සත්ත්ව කළමනාකරණ ඒකකයේ ස්ථාන භාර වනජීවී පශු වෛද්‍ය අකලංක පිනිදිය මහතා පැවසීය.
-
-මෙම සතාගේ ශරීරයේ අභ්‍යන්ත්‍රරයට  හානි සිදුව ඇද්දැයි බැලීම සඳහා වෛද්‍ය පරීක්ෂණ කීපයකට ලක් කළ යුතුව ඇති බවත්,  එම වෛද්‍ය පරීක්ෂණ සිදු කොට කොටියාට අවශ්‍ය ප්‍රතිකාර කඩිනමින් සිදු කිරීමට පියවර ගන්නා බවද පිනිදිය මහතා කීය.
-
-දැඩි පරිශ්‍රමයක් දරා බේරා ගැනීමෙන් අනතුරුව ප්‍රතිකාර සිදු කිරීම සඳහා කඳුකර කොටියා රන්දෙණිගල වන සත්ත්ව පශු වෛද්‍ය ඒකකය වෙත යොමු කිරීමට හග්ගල වනජීවී අඩවි ආරක්ෂක කාර්යාලයේ  නිලධාරීහු පියවර ගෙන තිබිණි.
-
-◼️
-
-[Data](articles/3fe08f87.json)
-
----
 
 ### TikTok සමාගම සඳහා අමෙරිකානු ආයෝජන ගැන ට්‍රම්ප්ගෙන් ඉඟියක්
 
@@ -362,26 +344,6 @@ In addition, 3,708 have been taken after 3,708 serious roads have been reported.
 
 ---
 
-### ஜனாதிபதி அனுரகுமார திஸாநாயக்க எதிர்வரும் 24 ஆம் திகதி ஐக்கிய நாடுகள் பொதுச் சபையில் உரை!
-
-*2025-09-20 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225579) · `ta`
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்க செப்டெம்பர் 24 (புதன்கிழமை) நியூயோர்க்கில் நடைபெறும் ஐக்கிய நாடுகள் பொதுச் சபையின் 79 வது அமர்வில் உரையாற்றவுள்ளார்.
-
-ஐக்கிய நாடுகள் சபை வெளியிட்ட திருத்தப்பட்ட தற்காலிக பேச்சாளர்களின் பட்டியலின்படி, செப்டம்பர் 23 முதல் 29 வரை நடைபெறும் பொது விவாதத்தின் பிற்பகல் அமர்வில் ஜனாதிபதி உரையாற்றுவார்.
-
-அரச தலைவராக தனது முதல் ஐக்கிய நாடுகள் பொதுச் சபை உரையில், அனுரகுமார திஸாநாயக்க இலங்கையின் சீர்திருத்த நிகழ்ச்சி நிரல், பொருளாதார மறுமலர்ச்சி முயற்சிகள் மற்றும் காலநிலை நடவடிக்கை, நிலையான வளர்ச்சி மற்றும் சர்வதேச ஒத்துழைப்பு உள்ளிட்ட உலகளாவிய பிரச்சினைகள் குறித்த அரசாங்கத்தின் நிலைப்பாட்டை வெளிப்படுத்துவார் என எதிர்பார்க்கப்படுகிறது.
-
-2025 பொது விவாதத்தில் அமெரிக்கா, சீனா, இந்தியா மற்றும் பிரேசில் உள்ளிட்ட உலகத் தலைவர்கள் ஐக்கிய நாடுகள் பொதுச் சபைத் தலைவர் வகுத்த கருப்பொருளின் கீழ் அறிக்கைகளை வழங்குவார்கள்.
-
-இந்த ஆண்டு தொடக்கத்தில் அனுரகுமார திசாநாயக்க தேர்ந்தெடுக்கப்பட்டதிலிருந்து இலங்கை, உலக அமைப்பில் ஆற்றும் முதல் உரை இதுவாகும்.
-
-◼️
-
-[Data](articles/03b7942f.json)
-
----
-
 ### 51 lakhs of 2025 to police inspector
 
 *2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
@@ -569,22 +531,6 @@ They said Sri Lanka’s economic recovery and stability have helped customers to
 [Data](articles/9dbd8d58.json)
 
 [Extended Data](ext_articles/9dbd8d58.ext.json)
-
----
-
-### මුල් ආකෘති වෙනස් කර නීති විරෝධි ලෙස එකලස් කරමින් සිටි ජීප් රථ දෙකක් පොලිස් භාරයට
-
-*2025-09-20 13:41:11* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘති-වෙනස්-කර-නීති-විරෝධි-ලෙස-එකලස්-කරමින්-සිටි-ජීප්-රථ-දෙකක්-පොලිස්-භාරයට/11-418620) · `si`
-
-මුල් ආකෘතිය වෙනස් කර නීති විරෝධී ලෙස වෙනත් වාහන වල අමතර කොටස් යොදා එකලස් කරමින් තිබූ ජීප් රථ දෙකක් නෝර්වුඩ් පොලිසියේ රථවාහන අංශයේ නිළධාරින් විසින් භාරයට ගෙන ඇත.
-
-නෝර්වුඩ් ප්‍රදේශයේ පදිංචි පැරණි යකඩ ද්‍රව්‍ය එක්රැස් කරන අයෙකු විසින්  ධාවනයෙන් ඉවත් කරනු ලැබූ පැරණි ජීප් රථවල ලියාපදිංචි සහතිකයට අනුව නීති විරෝධී ලෙස ජිප් රථ දෙක එක් රැස් කිරිම සිදු කර අලෙවි කිරිමට සැළසුම් කර ඇති බවයි එම ජීප් රථ දෙක පරික්ෂා කල නුවරඑලිය දිස්ත්‍රික් ප්‍රධාන මෝටර් රථ පරික්ෂක ජාලිය බණ්ඩාර මහතා කියා සිටියේ.
-
-මෙම ජීප් රථදෙක සම්බන්ධයෙන් රජයේ රස පරික්ෂක වාර්ථාවක්ද කැදවන ලෙස නුවරඑලිය දිස්ත්‍රික් මෝටර් රථ පරික්ෂකවරයා නෝර්වුඩ් පොලිසියට ලබා දුන් උපදෙස් අනුව නෝර්වුඩ් පොලිසියේ රථවාහන අංශයේ නිළධාරින් විසින් රජයේ රස පරික්ෂකවරයාට එම ජීප් රථ දෙක පරික්ෂා කර වාර්ථාවක් අධිකරණය වෙත ඉදිරිපත් කරන ලෙසට හැටන් මහේස්ත්‍රාත් අධිකරණය විසින් නියෝගයක්ද නිකුත් කර ඇති බවයි නෝර්වුඩ් පොලිසියේ රථවාහන අංශයේ නිළධාරින් කියා සිටියේ.
-
-◼️
-
-[Data](articles/82ada052.json)
 
 ---
 
@@ -2049,5 +1995,67 @@ Sri Lanka Cricket has announced that it will travel to Dubai tonight, Dunit Vell
 [Data](articles/a2950214.json)
 
 [Extended Data](ext_articles/a2950214.ext.json)
+
+---
+
+### Response to Mahinda Rajapaksa: It is  not personal revenge or political terrorism
+
+*2025-09-19 23:22:45* · [`dailyftlk`](https://www.ft.lk/columns/Response-to-Mahinda-Rajapaksa-It-is-not-personal-revenge-or-political-terrorism/4-781933) · `en`
+
+Leaders like Mahinda Rajapaksa created dependency networks, protected corruption, and prioritised personal luxury over public good
+
+The Government has now revealed that between 2017 and mid-2025, Rs. 491.2 million was spent on the upkeep of former presidents and their widows. Of this staggering sum, Mahinda Rajapaksa’s share alone was approximately Rs. 231 million—nearly half the total. His list of privileges reads like a manual of extravagance: 111 staff members, including nine medical personnel, eight drivers, five mechanics, 16 chefs, 26 electricians, and even a dog handler. The residence he occupied had a rental value of more than Rs. 4.6 million a month. Just imagine! Many people and families live without proper shelter, a harsh reality on the ground
+
+...
+
+[Data](articles/c7abea2e.json)
+
+[Extended Data](ext_articles/c7abea2e.ext.json)
+
+---
+
+### Trump and Xi make progress on TikTok deal, plan to meet in South Korea
+
+*2025-09-19 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112689/trump-and-xi-make-progress-on-tiktok-deal-plan-to-meet-in-south-korea) · `en`
+
+U.S. President Donald Trump said he and Chinese President Xi Jinping made progress on a TikTok agreement and pledged to meet face-to-face in just over a month in South Korea.
+
+The two sides appeared to lower tensions during the first call in three months between the leaders of the two superpowers, but it was not immediately clear if the call had yielded the expected firm agreement over the fate of the popular short-video app.
+
+Trump did say the leaders agreed to talks on the sidelines of the Asia-Pacific Economic Cooperation forum that starts on October 31 in Gyeongju, South Korea, and for a potential later visit to China by Trump. Reuters previously reported that the two sides were planning such a meeting.
+
+“We made progress on many very important issues including Trade, Fentanyl, the need to bring the War between Russia and Ukraine to an end, and the approval of the TikTok Deal,” Trump wrote on social media.
+
+...
+
+[Data](articles/422c1a6d.json)
+
+[Extended Data](ext_articles/422c1a6d.ext.json)
+
+---
+
+### Drone stroke on Sudan mosque kills 78, medic tells BBC
+
+*2025-09-19 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112688/drone-stroke-on-sudan-mosque-kills-78-medic-tells-bbc) · `en`
+
+More than 70 people have been killed following a drone strike on a mosque in Sudan’s Darfur region, a senior medical source has told the BBC.
+
+Friday’s attack in the city of el-Fasher has been blamed on the paramilitary Rapid Support Forces (RSF), but the group has not taken responsibility.
+
+The RSF and the army have been engaged in a ferocious civil war for more than two years.
+
+The paramilitaries are gaining ground as they fight to seize complete control of el-Fasher - the last army stronghold in Darfur and home to more than 300,000 civilians who have been trapped by the fighting.
+
+One resident told the BBC the drone struck during morning prayers, killing dozens of people instantly.
+
+The medical source said 78 died and about 20 were injured, but the process of extracting the bodies from the rubble of the building was still ongoing.
+
+BBC Verify has authenticated footage showing around 30 bodies wrapped in shrouds and blankets next to the mosque, which was located in the west of the city.
+
+...
+
+[Data](articles/7a100d7c.json)
+
+[Extended Data](ext_articles/7a100d7c.ext.json)
 
 ---

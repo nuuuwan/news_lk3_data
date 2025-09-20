@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 14:08:54**
+As of **2025-09-20 13:56:27**
 
 ## Newspaper Stats
 
-*Scraped **77,081** Articles*
+*Scraped **77,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,39 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,495
+adalk | 7,494
 adaderanalk | 9,954
 tamilmirrorlk | 11,586
 virakesarilk | 12,534
-adaderanasinhalalk | 13,451
+adaderanasinhalalk | 13,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,574 (99.3%) of 77,081 articles have been extended.
+76,563 (99.3%) of 77,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### 2025 දෙවන කාර්තුවේ මෙරට ආර්ථිකයේ සිදු වූ වෙනස
-
-*2025-09-20 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214789) · `si`
-
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව මෙම වසරේ දෙවන කාර්තුවට අදාළව නිකුත්කළ නවතම දත්ත වාර්තාව අනුව මෙරට ධීවර අංශය, එළවළු බෝග වගාව සහ රබර් වගාකිරීම අස්ථාවර මාවතක ගමන් කරන බව අනාවරණය කර ඇත.
-
-කෙසේ නමුත් 2025 වසරේ දෙවන කාර්තුව වන අප්‍රේල් 01 සිට ජුනි 30 දක්වා වූ කාලසීමාවට අදාළව සිදුකර ඇති මෙම කාර්තුවේ කෘෂිකාර්මික, ආර්ථික, කර්මාන්ත හා සේවා ආර්ථික කටයුතුවල ධන අගයක් වාර්තා කර තිබේ.
-
-අදාළ ජාතික ගිණුම් ඇස්තමේන්තු දත්ත අනුව එළවළු වගාව, රබර් වගාව සහ මෙරට ධීවර නිෂ්පාදනය සෘණ අගයන් වාර්තා කර ඇත.
-
-එළවළු වගාව 3.6%ක සෘණ අගයක්ද, කරදිය මත්ස්‍ය නිෂ්පාදනය 5.2%ක සෘණ වර්ධනයක් ද, මිරිදිය මත්ස්‍ය නිෂ්පාදනය 34.8%ක දැවැන්ත සෘණ අගයක් ද වාර්තා කර තිබේ.
-
-අපනයන සඳහා සැලකිය යුතු දායකත්වයක් ලබා දෙන මෙරට රබර් වගා කිරීම 10.8%ක සෘණ අගයකින් පසුබැස ඇති බවද ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දේ.
-
-රබර් සංවර්ධන දෙපාර්තමේන්තුවට අනුව දෙවන කාර්තුවේ නිෂ්පාදන පහත වැටීමට හේතු වී ඇත්තේ මාර්තු - අප්‍රේල් කාලය රබර් වගාවේ දළු දමන කාලය වීම සහ මැයි - ජූනි කාලයේ ඇදහැලුණු අධික වර්ෂාවය.
-
-...
-
-[Data](articles/a2188272.json)
-
----
-
-### Power and Assistance Opposition Agent Union resigns
+### විදුලිබල සාකච්ඡාව මැද්දේ විරෝධය පා වෘත්තිය සමිති නියෝජිතයින් ඉවත්වෙයි
 
 *2025-09-20 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214788) · `si`
 
-During the discussion between the heads of the Electric Trade Unions and the Heads of the Ceylon Electricity Board (CEB), it is reported that the electrical union members have left against it.
+විදුලි වෘත්තීය සමිති හා විදුලිබල මණ්ඩලයේ ප්‍රධානීන් අතර අද (20) පැවති සාකච්ඡාව අතරතුරදී විදුලි වෘත්තීය සමිති සමාජිකයින් විරෝධය පලකරමින් ඉන් පිටව ගිය බව වාර්තා වෙයි.
 
-The Ceylon Electricity Board (Ceylon Electricity Board) was also collecting the restructuring Director of the Ceylon Electricity Board.
+සාකච්ඡාව සඳහා ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යුහගත කිරීමේ අධ්‍යක්ෂවරයාද සභාගිවී සිටි බවත් ඔහුට විරෝධය පළකරමින් විදුලි වෘත්තීය සමිති සමාජිකයින් මෙලෙස ඉවත් වී තිබේ.
 
-It is said that 25 ministry secretaries and three trade union representatives were present at the discussion.
+මෙම සාකච්ඡාව සඳහා අමාත්‍යාංශ ලේකම්වරු 25 දෙනෙකු සහ වෘත්තීය සමති නියෝජිතයින් තිදෙනෙකු සහභාගීවී සිටි බව සඳහන්ය.
 
-The working professional procedure for which electrical workers have been opened to the 21st has decided to implement until the 21st.
+විදුලි සේවකයින් විසින් ආරම්භ කළ අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය එළැඹෙන 21 වනදා දක්වා ක්‍රියාත්මක කිරීමට තීරණය කර තිබේ.
 
-The electricity unions also refer to a decision on the 24th regard to the next 24 trade union action.
+එමෙන්ම විදුලි වෘත්තීය සමිති සඳහන් කරන්නේ, ඉදිරි වෘත්තීය ක්‍රියාමාර්ගය සම්බන්ධයෙන් 24 වනදා තීරණයක් ගැනීමට නියමිත බවය.
 
 ◼️
 
 [Data](articles/4f879fbb.json)
-
-[Extended Data](ext_articles/4f879fbb.ext.json)
 
 ---
 
@@ -101,20 +77,6 @@ The unbelievable parents had been protesting recently to consequences the govern
 [Data](articles/6b18d2a1.json)
 
 [Extended Data](ext_articles/6b18d2a1.ext.json)
-
----
-
-### පොලිස් නිලධාරීන්ට නිවාස දෙන්න ගෙවූ රු. කෝටි 50ක් වතුරේ
-
-*2025-09-20 12:17:14* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්ට-නිවාස-දෙන්න-ගෙවූ-රු--කෝටි-50ක්-වතුරේ/11-418618) · `si`
-
-ශ්‍රිලංකා පොලිසිය විසින් හබරාදුව නිල සෙවන යෝජනා ක්‍රමයෙන් නිවාස 192ක් මිලදි ගැනිම සදහා  රුපියල් මිලියන 500ක මුදලක් අත්තිකාරම් ලෙස  ගෙවා තිබුනද මේ වනතෙක්  මෙකි නිවාස ව්‍යාපෘතියෙන් කිසිදු නිවසක් පොලිස් නිලධාරින් හට පදිංචියට ලබාදිමට  නොහැකිවි ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
-
-හබරාදුව නිල සෙවන යෝජනා ක්‍රමයෙන් නිවසක් රුපියල් මිලියන 3.8 බැගින් රුපියල් මිලියන 729.6කට  නිවාස 192ක් මිලදි ගැනිම සදහා 2017 වර්ෂයේ  දෙසැම්බර් මස 29 වැනිදින  ගිවිසුමකට එළඹ තිබුණි.  ඒ අනුව 2019 වර්ෂයේ අප්‍රේල් මස  02 වන දින වනවිට  රුපියල් මිලියන 500ක අත්තිකාරම් මුදලක් ගෙවා තිබුණි. මෙකි ව්‍යාපෘතියේ ප්‍රධාන අරමුණ වුයේ රාජ්‍ය සේවකයින්ට  නිවාස ලබාදිම වුවත් 2025 වර්ෂය වනවිටත් කිසිදු නිවසක් පොලිස් නිලධාරින් හට පදිංචියට ලබාදිමට  නොහැකිවි ඇත.
-
-...
-
-[Data](articles/4bd381ad.json)
 
 ---
 
@@ -2053,5 +2015,43 @@ However, it is reported that security personnel also had to be deployed to contr
 [Data](articles/732c717e.json)
 
 [Extended Data](ext_articles/732c717e.ext.json)
+
+---
+
+### The President visited the Industry Expo 2025 Exhibition
+
+*2025-09-19 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/225544) · `ta`
+
+President Anuragumara Dissanayake visited the Industrial Expo 2025 exhibition held at the Bandaranaike Memorial International Conference Hall in Colombo on Friday morning.
+
+The president visited the exhibition halls and exchanged ideas with entrepreneurs and industry.
+
+The Industry Expo 2025 Exhibition organized by the Ministry of Industry and Entrepreneurship Development and the Sri Lanka Industrial Development Board under the Ministry of Industrial and Entrepreneurship Development and it is being held at the Bandaranaike International Conference Hall in September 18-21 to represent the entire industry in order to lead the export-based economy.
+
+The main purpose of the exhibition is to address the various problems and challenges facing the country in industrial development.
+
+...
+
+[Data](articles/398406f9.json)
+
+[Extended Data](ext_articles/398406f9.ext.json)
+
+---
+
+### Sri Lanka’s Vidullanka commissions 3MWp solar project in Matara
+
+*2025-09-19 17:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-vidullanka-commissions-3mwp-solar-project-in-matara-241292/) · `en`
+
+ECONOMYNEXT – Sri Lanka energy company Vidullanka PLC has commissioned a 3MWp solar power plant in Kamburupitiya, Matara, a stock exchange filing said.
+
+The project was implemented through MataraSolar Power (Pvt) Limited, a fully owned subsidiary of Vidullanka.
+
+The plant is expected to generate 5.5 GWh of clean energy, the filing said. (Colombo/Sep19/2025)
+
+◼️
+
+[Data](articles/b1a97f9e.json)
+
+[Extended Data](ext_articles/b1a97f9e.ext.json)
 
 ---

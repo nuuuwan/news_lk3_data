@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 21:56:02**
+As of **2025-09-20 22:20:24**
 
 ## Newspaper Stats
 
-*Scraped **77,129** Articles*
+*Scraped **77,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,51 @@ adalk | 7,500
 adaderanalk | 9,963
 tamilmirrorlk | 11,592
 virakesarilk | 12,541
-adaderanasinhalalk | 13,469
+adaderanasinhalalk | 13,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,928 (99.7%) of 77,129 articles have been extended.
+76,937 (99.7%) of 77,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### නාවලපිටියේ දී  ත්‍රීරෝද රථයක් ගිනි ගනී
+### A target of 169 runs to Bangladesh
+
+*2025-09-20 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214808) · `si`
+
+Bangladesh leader Litton Das was able to gain the advantage of the match against Bangladesh today (20) in the Asia Cup Twenty20 tournament.
+
+Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the balls.
+
+◼️
+
+[Data](articles/bde05a0b.json)
+
+[Extended Data](ext_articles/bde05a0b.ext.json)
+
+---
+
+### Three wheeler fire in Nawalapitiya
 
 *2025-09-20 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214807) · `si`
 
-නාවලපිටියේ සිට හැටන් දක්වා ධාවනය වෙමින් තිබු ත්‍රීරෝද රථයක ගින්නක් හට ගෙන තිබේ.
+A fire has taken place in a three-wheeler traveling from Nawalapitiya to Hatton.
 
-ධාවනය වෙමින් තිබූ ත්‍රීරෝද රථයේ හදිසියේ ඇතිවූ කාර්මික දෝෂයක් රියදුරා විසින් පරික්ෂා කිරීමට යෑමේදි එක්වරම ගින්න හට ගෙන ඇති බව නාවලපිටිය පොලීසිය පැවසුවේය.
+The fire had taken place at once to check a sudden technical error in the three-wheeler.
 
-ප්‍රදේශවාසීන් සහ ගිනිගත්හේන පොලිස් නිලධාරීන් එක්ව ගින්න නිවා දැමීමට කටයුතු කළ ද ගින්නෙන් ත්‍රීරෝද රථයට දැඩිව අලාභ හානි සිදු ව ඇති බව වාර්තා වේ.
+Residents and Ginigatheana police have jointly extinguishing the fire, reports say.
 
-ගින්න හට ගන්නා අවස්ථාවේ ත්‍රීරෝද රථයේ දෙදෙනෙකු ගමන් කර ඇති අතර ගින්නෙන් කිසිවෙකුටත් අනතුරක් සිදු වී නොමැත.
+Two in the three-wheeler had traveled and no one could accident.
 
 ◼️
 
 [Data](articles/fab2487c.json)
+
+[Extended Data](ext_articles/fab2487c.ext.json)
 
 ---
 
@@ -74,21 +92,23 @@ Further investigations are being carried out by the police headquarters.
 
 ---
 
-### துனித்தின் தந்தைக்காக சர்வதேச அரங்கில் மௌன அஞ்சலி
+### Silent tribute to Tunit's father in international stage
 
 *2025-09-20 20:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துனித்தின்-தந்தைக்காக-சர்வதேச-அரங்கில்-மௌன-அஞ்சலி/175-364956) · `ta`
 
-இலங்கை அணியின் சுழற்பந்து வீச்சாளர் துனித் வெல்லாலகேவின் தந்தைக்காக இன்றைய (20) போட்டி ஆரம்பிப்பதற்கு முன்னர் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தப்பட்டது.
+A minute's silent tribute was paid before the start of today's (20) match for the father of Sri Lankan bowler Dunit Vellake.
 
-தேசிய கீதம் இசைப்பதற்கு முன்னர் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தப்பட்ட நிலையில், இலங்கை அணி வீரர்கள் மற்றும் அணி நிர்வாகத்தினர் கையில் கறுப்புப் பட்டியை அணிந்திருப்பதை அவதானிக்க முடிந்தது.
+With the silent tribute to the national anthem, the Sri Lankan team and the team managers were able to observe that they were wearing a black bar in their hands.
 
-அபுதாபியில் நடைபெற்ற ஆசிய கிண்ணத் தொடரின் போது  ஆப்கானிஸ்தான் அணிக்கு எதிரான போட்டியில் துனித் வெல்லாலகேவின் தந்தை மரண செய்தியை அறிந்து உடனடியாக இலங்கைக்கு திரும்பினார்.
+Dunit Vellake's father returned to Sri Lanka immediately after the news of the death of Afghanistan during the Asian Cup in Abu Dhabi.
 
-இந்நிலையில் தந்தையின் இறுதி சடங்கில் கலந்து கொண்டதன் பின்னர் துனித் வெல்லாலகே மீண்டும் நேற்று ஐக்கிய அரபு இராச்சியத்தை நோக்கி புறப்பட்டு சென்று அணியுடன் இணைந்திருந்ததமை குறிப்பிடத்தக்கது.R
+After attending the father's funeral, Tunit Vellalake left for the United Arab Emirates yesterday and joined the team.
 
 ◼️
 
 [Data](articles/22320c4a.json)
+
+[Extended Data](ext_articles/22320c4a.ext.json)
 
 ---
 
@@ -2079,21 +2099,5 @@ Jeevan Thondaman added that the meeting, which was discussed on the multi -facet
 [Data](articles/5c1929f2.json)
 
 [Extended Data](ext_articles/5c1929f2.ext.json)
-
----
-
-### Former Parliamentarian of Batticaloa District Kanakasabha has passed away
-
-*2025-09-20 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225551) · `ta`
-
-Former Parliamentarian of the Batticaloa District of Batticaloa Tamil National Alliance. Tanmanpillai Kanagasabha died on Friday (19/09/2025) at the age of 86 (19/09/2025)
-
-It is noteworthy that he was a retired government officer who was born on August 1939/03/20 in 2004 and contested for the Tamil National Alliance (TNA) in the Batticaloa district.
-
-◼️
-
-[Data](articles/34d21259.json)
-
-[Extended Data](ext_articles/34d21259.ext.json)
 
 ---

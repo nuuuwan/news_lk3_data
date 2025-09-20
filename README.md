@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 22:07:57**
+As of **2025-09-20 22:36:42**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 13,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,932 (99.7%) of 77,130 articles have been extended.
+76,943 (99.8%) of 77,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### බංග්ලාදේශයට ලකුණු 169ක ඉලක්කයක්
+### A target of 169 runs to Bangladesh
 
 *2025-09-20 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214808) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ තරග ආරම්භ කරමින් අද (20) පැවැත්වෙන බංග්ලාදේශයට එරෙහි තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ නායක ලිටන් දාස් සමත් වූ අතර ඔහු පළමුව පන්දු යැවීමට තීරණය කළේය.
+The match between the Sri Lanka and Bangladesh team will commence in the Group 4 of the Asia Cup Twenty20 tournament.
 
-ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහර දීමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුළු 7ක් දැවී ලකුණු 168ක් රැස් කිරීමට සමත් විය.
+Bangladesh leader Litton Das was able to win the coin of the match and he first decided to bowl.
+
+Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the balls.
+
+Vidasana scored 64 runs in 37 balls with six sixes and three fours.
+
+Kusal Mendis scored 34 runs and 4 wishes Nissanka 22 runs.
+
+Mustafizur RAHMman took 3 wickets for Bangladesh in bowling and took 2 wickets and Taskin ahmed.
 
 ◼️
 
 [Data](articles/bde05a0b.json)
+
+[Extended Data](ext_articles/bde05a0b.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 22:53:23**
+As of **2025-09-20 22:07:57**
 
 ## Newspaper Stats
 
-*Scraped **77,131** Articles*
+*Scraped **77,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,500
-adaderanalk | 9,964
+adaderanalk | 9,963
 tamilmirrorlk | 11,592
 virakesarilk | 12,541
 adaderanasinhalalk | 13,470
@@ -26,33 +26,23 @@ adaderanasinhalalk | 13,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,947 (99.8%) of 77,131 articles have been extended.
+76,932 (99.7%) of 77,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### A target of 169 runs to Bangladesh
+### බංග්ලාදේශයට ලකුණු 169ක ඉලක්කයක්
 
 *2025-09-20 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214808) · `si`
 
-The match between the Sri Lanka and Bangladesh team will commence in the Group 4 of the Asia Cup Twenty20 tournament.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ තරග ආරම්භ කරමින් අද (20) පැවැත්වෙන බංග්ලාදේශයට එරෙහි තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ නායක ලිටන් දාස් සමත් වූ අතර ඔහු පළමුව පන්දු යැවීමට තීරණය කළේය.
 
-Bangladesh leader Litton Das was able to win the coin of the match and he first decided to bowl.
-
-Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the balls.
-
-Vidasana scored 64 runs in 37 balls with six sixes and three fours.
-
-Kusal Mendis scored 34 runs and 4 wishes Nissanka 22 runs.
-
-Mustafizur RAHMman took 3 wickets for Bangladesh in bowling and took 2 wickets and Taskin ahmed.
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහර දීමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුළු 7ක් දැවී ලකුණු 168ක් රැස් කිරීමට සමත් විය.
 
 ◼️
 
 [Data](articles/bde05a0b.json)
-
-[Extended Data](ext_articles/bde05a0b.ext.json)
 
 ---
 
@@ -73,34 +63,6 @@ Two in the three-wheeler had traveled and no one could accident.
 [Data](articles/fab2487c.json)
 
 [Extended Data](ext_articles/fab2487c.ext.json)
-
----
-
-### Thousands evacuated after WWII bomb discovered in Hong Kong
-
-*2025-09-20 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112709/thousands-evacuated-after-wwii-bomb-discovered-in-hong-kong) · `en`
-
-Thousands of people were forced to evacuate their homes in Hong Kong after a large US-made bomb from the Second World War was discovered.
-
-Police said the bomb weighed around 450kg and measured 1.5m in length.
-
-It was discovered by construction workers in a busy residential and business district on the west side of the island.
-
-“We have confirmed this object to be a bomb dating back to World War II,” said police official Andy Chan Tin-Chu.
-
-He said that because of “the exceptionally high risks associated with its disposal”, about 1,900 households made up of 6,000 people were “urged to evacuate swiftly”.
-
-No one was injured in the operation to deactivate the bomb, which concluded on Saturday morning.
-
-Much like in London, bombs left over from the Second World War are discovered from time to time in Hong Kong.
-
-The city was occupied by Japanese forces during the conflict, who used it as a base for military and shipping.
-
-Allied forces targeted Hong Kong in air raids to disrupt Japanese supply lines.
-
-◼️
-
-[Data](articles/bc5bf8c7.json)
 
 ---
 
@@ -2117,5 +2079,23 @@ There are more casualties that can cause such accidents. He urged the immediate 
 [Data](articles/78c80929.json)
 
 [Extended Data](ext_articles/78c80929.ext.json)
+
+---
+
+### "Jeevan Thondaman Discussion with the Finance Minister of the Indian Government on the assistance provided to Sri Lanka - Jeevan Thondaman"
+
+*2025-09-20 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225552) · `ta`
+
+Jeevan Thondaman, a CWC general secretary and parliamentarian, who is on a visit to India, met with Nirmala Sitharaman, the Minister of Finance of the Central Government of India on Friday (19).
+
+During this meeting for honor, our brother, India, expressed his gratitude for the continued assistance and firm support to Sri Lanka.
+
+Jeevan Thondaman added that the meeting, which was discussed on the multi -faceted supports of India to Sri Lanka, was very useful.
+
+◼️
+
+[Data](articles/5c1929f2.json)
+
+[Extended Data](ext_articles/5c1929f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 11:56:58**
+As of **2025-09-20 11:20:17**
 
 ## Newspaper Stats
 
-*Scraped **77,067** Articles*
+*Scraped **77,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,21 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,493
+adalk | 7,492
 adaderanalk | 9,952
 tamilmirrorlk | 11,585
 virakesarilk | 12,528
-adaderanasinhalalk | 13,448
+adaderanasinhalalk | 13,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,478 (99.2%) of 77,067 articles have been extended.
+76,468 (99.2%) of 77,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### රුසියානු ජෙට් යානා එස්තෝනියා ගුවන් කලාපයට බලෙන් රිංගලා
-
-*2025-09-20 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214785) · `si`
-
-රුසියානු ජෙට් යානා කිහිපයක් සිය ගුවන් අවකාශය උල්ලංඝනය කළ බවට එස්තෝනියාව චෝදනා කරයි.
-
-එස්තෝනියානු විදේශ අමාත්‍යාංශය නිවේදනය කර ඇත්තේ රුසියානු මිග්-31 ප්‍රහාරක ජෙට් යානා 3ක් සිය අවසරයකින් තොරව මිනිත්තු 12ක් පමණ තම ගුවන් සීමාවේ රැඳී සිට ෆින්ලන්ත බොක්ක හරහා ගමන්කළ බවය.
-
-මෙය 'නිර්ලජ්ජිත' ක්‍රියාවක් බවත්, තම ගුවන් අවකාශය උල්ලංඝනය කිරීම දැඩිව හෙළා දකින බවත් එස්තෝනියාව පවසයි.
-
-ඒ අනුව රුසියානු ජෙට් යානා තම ගුවන් අවකාශය උල්ලංඝනය කිරීම සම්බන්ධයෙන් එස්තෝනියාව නේටෝ සාමාජිකයින්ගෙන් උපදෙස් පතා ඇත.
-
-කෙසේ වෙතත් රුසියානු ජෙට් යානා පැමිණීමත් සමග තම හමුදා සන්ධානය වහාම ප්‍රතිචාර දැක්වූ බවද එස්තෝනියාව පවසයි.
-
-කෙසේ වෙතත් රුසියාව එස්තෝනියානු ගුවන් අවකාශය උල්ලංඝනය කිරීම ප්‍රතික්ෂේප කර ඇත.
-
-◼️
-
-[Data](articles/78ca73b4.json)
-
----
-
-### පලස්තීන ජනපතිට අමෙරිකාවෙන් කුඩම්මාගේ සැලකිලි
-
-*2025-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214784) · `si`
-
-එක්සත් ජාතීන්ගේ 80 වැනි රාජ්‍ය නායක සමුළුව ලබන සතියේ අමෙරිකාවේ නිව්යෝර්ක් නගරයේ පිහිටි එක්සත් ජාතීන්ගේ මූලස්ථානයේ දී පැවැත්වීමට නියමිතය.
-
-ඒ සඳහා සහභාගිවීමට නියමිත පලස්තීන ජනාධිපති මොහොමඩ් අබ්බාස් ට වීසා ලබාදීම අමෙරිකාව ප්‍රතික්ෂේප කළේය.
-
-කෙසේවෙතත් එම සමුළුව වීඩියෝ තාක්ෂණය ඔස්සේ ඇමතීමට ඔහුට හැකියාව ලබාදෙන යෝජනාවක් එක්සත් ජාතීන්ගේ සාමාජික රටවල බහුතර ඡන්දයෙන් සම්මත කරගෙන ඇත.
-
-මෙම සමුළුවේ දී පලස්තීනය වෙනම රාජ්‍යයක් ලෙස පිළිගැනීමටද සැලසුම් කර ඇති බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/2ce5b3d6.json)
-
----
-
-### බංග්ලාදේශ ශ්‍රී ලංකා තරගය අද
-
-*2025-09-20 10:48:54* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශ-ශ්‍රී-ලංකා-තරගය-අද/9-418616) · `si`
-
-ආසියානු කුසලාන තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩාම අතර සුපිරි හතර දෙනාගේ වටයේ තරගය අද ශ්‍රී ලංකා වේලාවෙන් රාත්‍රී 8.00ට ආරම්භ කිරීමට නියමිතය. මෙය සුපිරි හතර දෙනාගේ වටයේ පළමු තරගය වෙයි.
-
-◼️
-
-[Data](articles/deb7edf9.json)
-
----
 
 ### Former President Ranil to join UNP’s 79th anniversary celebration
 
@@ -97,8 +45,6 @@ The anniversary celebrations are scheduled to take place at a private hotel in t
 ◼️
 
 [Data](articles/6c09f468.json)
-
-[Extended Data](ext_articles/6c09f468.ext.json)
 
 ---
 
@@ -2051,5 +1997,67 @@ President Anura Kumara Dissanayake said that the current quality and reconciliat
 [Data](articles/34251797.json)
 
 [Extended Data](ext_articles/34251797.ext.json)
+
+---
+
+### Heavy rains in several areas
+
+*2025-09-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214761) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa, Central, North and North Western provinces and in the Galle and Matara districts.
+
+Some places in the Western and Sabaragamuwa Provincial and Galle, Matara, Kandy and Nuwara Eliya districts. Mee. Heavy rains can occur in more than 50.
+
+The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 1.00.
+
+The North-Media and North Western Provinces are also in the North-Central and North Western Provinces in the Central Mountains.. (30-40) can have some stronger winds.
+
+The Meteorology Department requests the people to take necessary steps to minimize temporary strong winds and lightning accidents.
+
+◼️
+
+[Data](articles/4ceda3a2.json)
+
+[Extended Data](ext_articles/4ceda3a2.ext.json)
+
+---
+
+### SLAF Intelligence Officer arrested with Gold biscuits
+
+*2025-09-19 15:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බුද්ධි-නිලධාරියා-රන්-බිස්කට්-සමග-කටුනායකදී-අත්අඩංගුවට/11-418610) · `si`
+
+A large number of gold biscuits was arrested by a SLAF Buddhist Assembly stock with a gold biscuit to leave the airport to protect the Katunayaka International Airport on 09/19.
+
+He is a 17-year-old corporal, a 37-year-old Sri Lankan Air Force.
+
+He took 40 gold biscuits at the Bandaranaike International Airport, while attempting to leave the Katunayake Airport Terminal at 2 o'clock on 09/19.
+
+There are also further investigations into the airport officers in the manuscript.
+
+The customs personnel had been arrested in their feet last week to leave the Katunayake airport over Rs.
+
+◼️
+
+[Data](articles/8c1bef21.json)
+
+[Extended Data](ext_articles/8c1bef21.ext.json)
+
+---
+
+### Motorcycle - bus collision; One kills!
+
+*2025-09-19 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225507) · `ta`
+
+Homagama police said that one person was killed in an accident in the Kendalanda area of ​​the Homagama Police Division.
+
+The accident occurred when a motorcycle traveling from Colombo to Avissawel was hit by a bus and collided with a bus.
+
+In the accident, the motorcycle driver died after being injured and admitted to the hospital.
+
+◼️
+
+[Data](articles/2dc58bff.json)
+
+[Extended Data](ext_articles/2dc58bff.ext.json)
 
 ---

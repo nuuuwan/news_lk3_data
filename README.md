@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 14:08:54**
+As of **2025-09-20 15:05:49**
 
 ## Newspaper Stats
 
-*Scraped **77,081** Articles*
+*Scraped **77,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,135 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,495
-adaderanalk | 9,954
-tamilmirrorlk | 11,586
-virakesarilk | 12,534
-adaderanasinhalalk | 13,451
+adalk | 7,496
+adaderanalk | 9,955
+tamilmirrorlk | 11,588
+virakesarilk | 12,535
+adaderanasinhalalk | 13,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,574 (99.3%) of 77,081 articles have been extended.
+76,599 (99.4%) of 77,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### 2025 දෙවන කාර්තුවේ මෙරට ආර්ථිකයේ සිදු වූ වෙනස
+### 2025 වසරේ මේ දක්වා පුද්ගලයින් ලක්ෂ 51ක් පොලිස් පරීක්ෂාවට
+
+*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
+
+2025 වසරේ මේ දක්වා සිදුකළ මත්ද්‍රව්‍ය වැටලීම්වලින් හෙරොයින් කිලෝග්‍රෑම් 955ක්, අයිස් කිලෝග්‍රෑම් 1,422 ක් පොලීසිය භාරයට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුඩ්ලර් මහතා සඳහන් කළේ හෂිෂ් කිලෝග්‍රෑම් 471 ක්, කොකේන් කිලෝග්‍රෑම් 29ක්, ගංජා කිලෝග්‍රෑම් 13,773 ක්, මත්ද්‍රව්‍ය පෙති මිලියන 3.5ක් ද නිලධාරීන් භාරයට ගත් බවය.
+
+T-56 අවි 61ක්" පිස්තෝල 62ක් සහ රිවෝල්වර් 40ක් වෙනත් ගිනිඅවි 1,721ක් සොයා ගෙන ඇත.
+
+2025 ජනවාරි පළමු වනදා සිට මේ දක්වා වෙඩිතැබීමේ සිද්ධිවලට අදාළව වෙඩික්කරුවන් 38 දෙනෙකු, පැදිකරුවන් 27 දෙනෙකු, ආධාර අනුබල ලබාදීමේ සිද්ධිවලට අදාළව පුද්ගලයින් 263 දෙනෙකු ඇතුළුව සැකකරුවන් 328 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මේ අතර දෛනික පොලිස් විශේෂ මෙහෙයුම්වලදී ජනවාරි 12 වනදා සිට මේ දක්වා පුද්ගලයින් 5,101,516ක් පරීක්ෂාවට ලක්කර ඇති අතර සැකපිට පුද්ගලයින් 104,602ක් අත්අඩංගුවට ගෙන තිබේ.
+
+ඉන් පුද්ගලයින් 4630 දෙනෙකු අපරාධවලට ඍජුව හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/f3702a26.json)
+
+---
+
+### ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா
+
+*2025-09-20 14:46:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியின்-79ஆவது-ஆண்டு-நிறைவு-விழா/175-364952) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா இன்று (20) கொண்டாடப்படுகிறது.
+
+ஸ்ரீ ஜயவர்தனபுரவில் உள்ள தனியார் ஹோட்டலில் "உங்கள் கருத்தைக் கைவிடாதீர்கள் - அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிக்க ஒன்றிணைவோம்" என்ற கருப்பொருளில் நிகழ்வு ஒன்று ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+விளக்கமறியலில் வைக்கப்பட்டு பிணையில் விடுதலை செய்யப்பட்டதையடுத்து ரணில் விக்ரமசிங்க கலந்துகொண்ட முதலாவது பொது நிகழ்வு இதுவாகும்.
+
+இந்த நிகழ்வில் பல அரசியல்வாதிகள் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர்கள் கலந்துகொண்டுள்ளனர். R
+
+◼️
+
+[Data](articles/504f3ead.json)
+
+---
+
+### நுவரெலியாவில் பஸ் - லொறி விபத்து
+
+*2025-09-20 14:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பஸ்-லொறி-விபத்து/76-364951) · `ta`
+
+நுவரெலியா - இராகலை பிரதான வீதியில் புரூக்சைட் சந்திக்கு அருகில் இன்று (20) காலை இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தனியார் பஸ் ஒன்றும் லொறி ஒன்றும் நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தின் போது லொறியின் சாரதி காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/4afa89cf.json)
+
+---
+
+### Dead body of a woman killed in mysteriously
+
+*2025-09-20 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214790) · `si`
+
+A woman has been launched in a house in the Kattacollad area in the Kaluwankudy police Division.
+
+The deceased has been identified as a resident of KattaCallar, aged 57.
+
+Preliminary investigations have revealed that the woman had been living alone in her home.
+
+◼️
+
+[Data](articles/9c729284.json)
+
+[Extended Data](ext_articles/9c729284.ext.json)
+
+---
+
+### මම ඩොලර් බිලියන 22ක් දීලා ගියේ,  මම මොකටද මේවා අරගන්නේ
+
+*2025-09-20 13:38:54* · [`adalk`](https://www.ada.lk/breaking_news/මම-ඩොලර්-බිලියන-22ක්-දීලා-ගියේ---මම-මොකටද-මේවා-අරගන්නේ/11-418619) · `si`
+
+තමන් විශ්වවිද්‍යාල උපාධි උත්සවයට එක්වූයේ නිල ආරාධනාවකට බව හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ 79 වැනි සංවත්සර උත්සවය අමතමින් පැවැසීය. 2022දී තමන් රට භාර ගන්නා විට පැවැති දළ ජාතික නිශ්පාදිතය ඩොලර් බිලියන 76.8ක් වූ බවත් තමන් අනුර කුමාර දිසානායක මහතාට රට භාර දෙන විට එම අගය ඩොලර් බිලියන 98.9ක් දක්වා වැඩි බවත් හිටපු ජනපතිවරයා පැවැසීය.
+
+“මම මුලින්ම ගියේ හවානාවට. ඉන් පස්සේ මම නිව්යෝර්ක් ගියා. එහි සිට කොළඹට එන ගමන් මම ලන්ඩනයේ එක රැයක් ගත කළා. ඒක ට්‍රාන්ස්සිට් එකක්. මේවා නිල ගමන්. එතනදී මට තිබුණේ නිල ආරාධනයක්. හිටපු නිසා පිළි ගත්තා. ආරාධනාවක් තිබුණේ නැත්නම් මම ලන්ඩන් නුවර ඉන්නවා. මේක අරගෙනයි මාව ගෙනිච්චේ.
+
+මම මට ආරාධනා කළ ලියුමක් පෙන්නුවා. ඇහුවා මොකක්ද මම ලන්ඩන්වල ඉදන් ගෙනාවේ කියලා. ඕක මටත් අහන්න පුළුවන් අනුර කුමාර ජනපතිගෙන් මොනවද ජර්මනියෙන් ගෙනාවේ කියලා.
+
+මට දැනගන්න ලැබුණා මට විරුද්ධව පැමිණිල්ලක් කර තියෙනවා කියලා. කවුද පැමිණිල්ල කළේ වර්තමාන ජනපතිගේ ජනපති ලේකම්. ඉතුරු කරුණු කියන්න එපා කියලා මට නීතිඥයින් කියලා තියෙන්නේ.
+
+...
+
+[Data](articles/9d3e9a5f.json)
+
+---
+
+### The difference in the economy of the country's economy of the second quarter of 2025
 
 *2025-09-20 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214789) · `si`
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව මෙම වසරේ දෙවන කාර්තුවට අදාළව නිකුත්කළ නවතම දත්ත වාර්තාව අනුව මෙරට ධීවර අංශය, එළවළු බෝග වගාව සහ රබර් වගාකිරීම අස්ථාවර මාවතක ගමන් කරන බව අනාවරණය කර ඇත.
+The Department of Census and Statistics have revealed that the latest data report issued by the Sri Lanka Fisheries Division, Vegetable Cultivation and Rubber cultivation is on a unstable path.
 
-කෙසේ නමුත් 2025 වසරේ දෙවන කාර්තුව වන අප්‍රේල් 01 සිට ජුනි 30 දක්වා වූ කාලසීමාවට අදාළව සිදුකර ඇති මෙම කාර්තුවේ කෘෂිකාර්මික, ආර්ථික, කර්මාන්ත හා සේවා ආර්ථික කටයුතුවල ධන අගයක් වාර්තා කර තිබේ.
+However, this quarter, which was from April 1 to June 1 to June 30, has reportedly reported the wealth of agriculture, economic and industry and services.
 
-අදාළ ජාතික ගිණුම් ඇස්තමේන්තු දත්ත අනුව එළවළු වගාව, රබර් වගාව සහ මෙරට ධීවර නිෂ්පාදනය සෘණ අගයන් වාර්තා කර ඇත.
+According to data estimates, vegetable cultivation, rubber cultivation and fishing production has been reported.
 
-එළවළු වගාව 3.6%ක සෘණ අගයක්ද, කරදිය මත්ස්‍ය නිෂ්පාදනය 5.2%ක සෘණ වර්ධනයක් ද, මිරිදිය මත්ස්‍ය නිෂ්පාදනය 34.8%ක දැවැන්ත සෘණ අගයක් ද වාර්තා කර තිබේ.
+The negative value of 3.6% of vegetable cultivation is a negative value of 3.2% and a huge negative growth of 34.8%.
 
-අපනයන සඳහා සැලකිය යුතු දායකත්වයක් ලබා දෙන මෙරට රබර් වගා කිරීම 10.8%ක සෘණ අගයකින් පසුබැස ඇති බවද ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පෙන්වා දේ.
+The Department of Census and Statistics indicate that the country's rubber cultivation is a significant contribution to exports.
 
-රබර් සංවර්ධන දෙපාර්තමේන්තුවට අනුව දෙවන කාර්තුවේ නිෂ්පාදන පහත වැටීමට හේතු වී ඇත්තේ මාර්තු - අප්‍රේල් කාලය රබර් වගාවේ දළු දමන කාලය වීම සහ මැයි - ජූනි කාලයේ ඇදහැලුණු අධික වර්ෂාවය.
+The decline in the second quarter department according to the Rubber Development Department is the period of decline in rubber cultivation and heavy rains in April.
 
 ...
 
 [Data](articles/a2188272.json)
+
+[Extended Data](ext_articles/a2188272.ext.json)
 
 ---
 
@@ -73,6 +167,26 @@ The electricity unions also refer to a decision on the 24th regard to the next 2
 [Data](articles/4f879fbb.json)
 
 [Extended Data](ext_articles/4f879fbb.ext.json)
+
+---
+
+### School treasurer remanded over sexual abuse of special needs children
+
+*2025-09-20 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112700/school-treasurer-remanded-over-sexual-abuse-of-special-needs-children) · `en`
+
+Despite children with special needs deserving special care and protection, incidents of harassment against them continue to be reported across the country.
+
+The most recent case was reported from the Anuradhapura area.
+
+The Anuradhapura District Coordination Committee yesterday (19) drew special attention to allegations of misconduct and abuse involving children with special needs at a school in Anuradhapura.
+
+The school, located in Anuradhapura city, educates nearly 69 boys and girls with special needs. It is managed by a private institution under a governing board, and its operations are supervised by the North Central Provincial Department of Social Services.
+
+Allegations have surfaced that children attending the school, who come with the hope of securing a better future, have instead been subjected to sexual abuse and other forms of harassment.
+
+...
+
+[Data](articles/41e65c5b.json)
 
 ---
 
@@ -104,17 +218,23 @@ The unbelievable parents had been protesting recently to consequences the govern
 
 ---
 
-### පොලිස් නිලධාරීන්ට නිවාස දෙන්න ගෙවූ රු. කෝටි 50ක් වතුරේ
+### Rs. Give houses for police officers paid Rs. 50 crores in water
 
 *2025-09-20 12:17:14* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්ට-නිවාස-දෙන්න-ගෙවූ-රු--කෝටි-50ක්-වතුරේ/11-418618) · `si`
 
-ශ්‍රිලංකා පොලිසිය විසින් හබරාදුව නිල සෙවන යෝජනා ක්‍රමයෙන් නිවාස 192ක් මිලදි ගැනිම සදහා  රුපියල් මිලියන 500ක මුදලක් අත්තිකාරම් ලෙස  ගෙවා තිබුනද මේ වනතෙක්  මෙකි නිවාස ව්‍යාපෘතියෙන් කිසිදු නිවසක් පොලිස් නිලධාරින් හට පදිංචියට ලබාදිමට  නොහැකිවි ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+The Sri Lanka Police had paid a sum of Rs. 500 million to purchase 192 houses from the Habaraduwa official shade scheme.
 
-හබරාදුව නිල සෙවන යෝජනා ක්‍රමයෙන් නිවසක් රුපියල් මිලියන 3.8 බැගින් රුපියල් මිලියන 729.6කට  නිවාස 192ක් මිලදි ගැනිම සදහා 2017 වර්ෂයේ  දෙසැම්බර් මස 29 වැනිදින  ගිවිසුමකට එළඹ තිබුණි.  ඒ අනුව 2019 වර්ෂයේ අප්‍රේල් මස  02 වන දින වනවිට  රුපියල් මිලියන 500ක අත්තිකාරම් මුදලක් ගෙවා තිබුණි. මෙකි ව්‍යාපෘතියේ ප්‍රධාන අරමුණ වුයේ රාජ්‍ය සේවකයින්ට  නිවාස ලබාදිම වුවත් 2025 වර්ෂය වනවිටත් කිසිදු නිවසක් පොලිස් නිලධාරින් හට පදිංචියට ලබාදිමට  නොහැකිවි ඇත.
+The house was scheduled to buy 192 million houses for Rs. 29.8 million for Rs. 292 million for Rs. 292 million for Rs.  Accordingly, a sum of Rs. 500 million was paid by April 2, 2019. The main objective of the project was to provide houses for public servants, but by 2025, no house could be residenced.
 
-...
+These houses were not taken over and 128 houses were proposed to take over the advances paid. But there was no final agreement. A total of Rs.
+
+This information is included in the audit report that has been issued to the performance report issued by the Sri Lanka Police.
+
+◼️
 
 [Data](articles/4bd381ad.json)
+
+[Extended Data](ext_articles/4bd381ad.ext.json)
 
 ---
 
@@ -237,6 +357,28 @@ It is reported that Palestine is also planned to be recognized as a separate sta
 [Data](articles/2ce5b3d6.json)
 
 [Extended Data](ext_articles/2ce5b3d6.ext.json)
+
+---
+
+### உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள், வெடிமருந்துகள் மீட்பு!
+
+*2025-09-20 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225570) · `ta`
+
+உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள் மற்றும் வெடிமருந்துகளை இரத்தினபுரி பொலிஸார் மீட்டுள்ளனர்.
+
+இரத்தினபுரியைச் சேர்ந்த 73 வயதுடைய சட்டத்தரணி ஒருவர் தனியாக வசித்து வந்த நிலையில், திடீரென மாரடைப்பால் உயிரிழந்துள்ளார்.
+
+உயிரிழந்த சட்டத்தரணி வீட்டில் துப்பாக்கிகள் இருப்பதாக, இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளருக்கு தகவல் கிடைத்துள்ளது.
+
+இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளர் செப்டெம்பர் 17 ஆம் திகதி இரத்தினபுரி தலைமையக பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு இந்த விடயத்தை தெரிவித்துள்ளார்.
+
+இதனையடுத்து  சட்டத்தரணியின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் 12-போர் துப்பாக்கிகள், ஒரு ரிப்பீட்டர் துப்பாக்கி, 6 பிரித்தெடுக்கப்பட்ட துப்பாக்கி பாகங்கள், 11 பீப்பாய்கள், 2 சிறிய துப்பாக்கிகள், புதிய 12 மற்றும் 16-போர் வெடிமருந்துகளின் 440 சுற்றுகள் மற்றும் பல துப்பாக்கி பாகங்கள் மீட்கப்பட்டுள்ளது.
+
+இந்த துப்பாக்கிகள் குற்றச் செயல்களுக்காக வழங்கப்பட்டதா அல்லது குழுக்களிடையே விநியோகிக்கப்பட்டதா என்பதை அறிய விசாரணைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/fd4c977e.json)
 
 ---
 
@@ -1895,163 +2037,5 @@ Meanwhile, the report of the Analyst's Department was handed over to the police 
 [Data](articles/aa777391.json)
 
 [Extended Data](ext_articles/aa777391.ext.json)
-
----
-
-### Government spending on 2026 increased by Rs 21,611 crore
-
-*2025-09-19 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225546) · `ta`
-
-4,43,435 crore 6,46,8000 rupees in the budget of the 2026 Finance Year. With the cost of Rs 4,21,824 crore 8,018,000 in the cost of 2025, the cost of 2026 has been increased by 21,610 crore 8,450,000 rupees based on various factors.
-
-The Ministry of Defense and Public Security has been allocated more than the 2025 budget and the Public Security Ministry.
-
-64,800 crore has been allocated for the Ministry of Safety and Public Security on Funds for Government Expenditure. 61,744 crore 50 lakhs of rupees have been allocated for the issues of the Ministry of Defense and Public Security in 2025.
-
-A total of 1,11,715 crore 9,980,000 lakhs have been allocated for the President's Ministry of Defense, Finance, Planning and Economic Development and the Ministry of Digital Economic Ministry.
-
-Meanwhile, the President's expenses were allocated 299,29,80,000 for 2025, with the presidential cost of 2026.. This is more than Rs.
-
-As of 2025, Rs.. This is less than Rs.
-
-...
-
-[Data](articles/a5cc3008.json)
-
-[Extended Data](ext_articles/a5cc3008.ext.json)
-
----
-
-### To the attention of the exams
-
-*2025-09-19 18:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பரீட்சார்த்திகளின்-கவனத்துக்கு/175-364925) · `ta`
-
-The Ministry of Education has issued a statement that applications for the GCE Ordinary Level Examination of 2025 (2026) can be submitted online until October 9.
-
-All school applicants must submit their applicants in person through their school principals and individual applicants,
-
-More Personal Applicants. The department said that when applying for the exam (O.L.), they should use their National Identity Card.
-
-Private applicants who do not have a national identity card should register and submit their applications using the National Identity Card of their guardian (mother or father).
-
-They must visit the official website of the Department of Examinations www.doenets.lk ese www.onlineexams.gov.lk/eic, read the relevant methods and submit their applications properly.
-
-◼️
-
-[Data](articles/ffff29d1.json)
-
-[Extended Data](ext_articles/ffff29d1.ext.json)
-
----
-
-### Sri Lanka’s foreign currency ratings raised to ‘CCC+/C’
-
-*2025-09-19 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112683/sri-lankas-foreign-currency-ratings-raised-to-cccc) · `en`
-
-S&P Global Ratings on Friday raised its long- and short-term foreign currency sovereign credit ratings on Sri Lanka to ‘CCC+/C’ from ‘SD/SD’ (selective default).
-
-“We also affirmed our ‘CCC+/C’ long- and short-term local currency ratings. The outlook on both the long-term foreign and local currency ratings is stable. The transfer and convertibility assessment remains ‘CCC+’,” the leading American credit rating agency said.
-
-S&P Global Ratings said the stable outlook reflects “a balance between our expectation of Sri Lanka’s continued economic recovery, supported by fiscal reform and external improvements, and the country’s high debt and heavy interest burden over the next one to two years.”
-
-However, the rating agency said it could lower the ratings on Sri Lanka “if we see indications of renewed funding and liquidity stresses.”
-
-...
-
-[Data](articles/5835394d.json)
-
-[Extended Data](ext_articles/5835394d.ext.json)
-
----
-
-### S & P Global Ratings raise Sri Lankan rating
-
-*2025-09-19 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214769) · `si`
-
-The International Credit Rating Institute, S & P Global Ratings, has been increased to the long term and short-term forex ratio of Sri Lanka to 'CCC + / C'.
-
-Although International Credit of International Credit, including Sovereign Bonds and Moody's Com Bank of Sri Lanka (SLITCH RATINGS and Moody) have not been able to increase Sri Lankan rating.
-
-Sri Lanka's failure to restructure the international dollar bond issued by SriLankan to the restructuring of the international dollar of Sri Lanka was noted that the Sri Lankan rating was not explored.
-
-S & P Global Ratings today (19), S & P Global Ratings, the economy of the 2022 has restored the economic crisis and has already been able to exceed the current levels before the crisis of some macroeconomic index crisis. They also believe that Sri Lanka is still discussing with creditors, including the creditors who have not yet, including the government certified bonds of SriLankan Airlines.
-
-...
-
-[Data](articles/849dd3fa.json)
-
-[Extended Data](ext_articles/849dd3fa.ext.json)
-
----
-
-### Guns
-
-*2025-09-19 18:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-சட்டத்தரணியின்-வீட்டில்-துப்பாக்கிகள்/175-364924) · `ta`
-
-Ratnapura police officers have recovered several guns suspected of being manufactured in Sri Lanka and abroad from a house in Koluwavila, Ratnapura.
-
-There was a 73 -year -old lawyer who was suspected of a sudden heart attack while living alone in the house.
-
-Based on the information received by the Ratnapura police, the authorities were informed on the 17th.
-
-Accordingly, several gun parts and bullets were discovered when the lawyer checked the house where the dead house was checked.
-
-The Ratnapura police said that a number of rifles, a 12 -type rifle, a repactor type, and 6 original parts of the battle 12 rifles, 11 barrels, 2 small guns, 440 new bullets used for battle 12 and 16 rifles.
-
-Ratnapura Police Superintendent Prasanasiri said that investigations are underway to find out whether the guns were given for some crimes and that some of the guns were provided to some groups.
-
-He said that many of these pits are suspected of being prepared in Sri Lanka and are being investigated.. Remble
-
-◼️
-
-[Data](articles/a53df0d2.json)
-
-[Extended Data](ext_articles/a53df0d2.ext.json)
-
----
-
-### The Commission announces complaint against the Director General of Bribery Commission
-
-*2025-09-19 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214768) · `si`
-
-The Bribery Commission has issued an announcement to the Bribery Commission regarding the complaint received by the Bribery Commission of Bribery or Corruption.
-
-The Commission has pointed out that a preliminary investigation was carried out under Section 42 (1) of the Corruption Act, including the Chairman of the Commission.
-
-The Bribery Commission states that the complaint has been made against the Director General of the Bribery Commission.
-
-Accordingly, the Judicial Service Commission has been convened at the Judicial Service Commission and the school in Colombo.
-
-The Bribery Commission has also observed that not only this child but also on the above child of the Ministry of Education.
-
-Accordingly, the Commission has decided that the Commission has decided that the Commission has decided not to a disorder, biased or invalidation or political interference in the admission of corporate methods.
-
-◼️
-
-[Data](articles/e1c266e3.json)
-
-[Extended Data](ext_articles/e1c266e3.ext.json)
-
----
-
-### IPhone Buy latest Mode Long Queue in India
-
-*2025-09-19 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214767) · `si`
-
-The Indian media reports that the latest people who were opened to the Indian market have been found in the latest model.
-
-With the introduction of iPhone 17, iPhone 17 Air, iPhone 17 Pro, and iPhone 17 Pro Max to the market, has been enthusiastic in India.
-
-Foreign media reports that all Apple stores in the country have been opened today at 8 am today (19).
-
-Accordingly, the Indian people in the queue have behaved aggressively and has come to a level that cannot be controlled.
-
-However, it is reported that security personnel also had to be deployed to control the situation.
-
-◼️
-
-[Data](articles/732c717e.json)
-
-[Extended Data](ext_articles/732c717e.ext.json)
 
 ---

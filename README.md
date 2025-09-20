@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 15:20:31**
+As of **2025-09-20 15:05:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,624 (99.4%) of 77,088 articles have been extended.
+76,599 (99.4%) of 77,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,13 +40,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුඩ්ලර් මහතා සඳහන් කළේ හෂිෂ් කිලෝග්‍රෑම් 471 ක්, කොකේන් කිලෝග්‍රෑම් 29ක්, ගංජා කිලෝග්‍රෑම් 13,773 ක්, මත්ද්‍රව්‍ය පෙති මිලියන 3.5ක් ද නිලධාරීන් භාරයට ගත් බවය.
 
-එහිදී T-56 අවි 61ක්" පිස්තෝල 62ක් සහ රිවෝල්වර් 40ක් වෙනත් ගිනිඅවි 1,721ක් සොයා ගෙන ඇත.
+T-56 අවි 61ක්" පිස්තෝල 62ක් සහ රිවෝල්වර් 40ක් වෙනත් ගිනිඅවි 1,721ක් සොයා ගෙන ඇත.
 
 2025 ජනවාරි පළමු වනදා සිට මේ දක්වා වෙඩිතැබීමේ සිද්ධිවලට අදාළව වෙඩික්කරුවන් 38 දෙනෙකු, පැදිකරුවන් 27 දෙනෙකු, ආධාර අනුබල ලබාදීමේ සිද්ධිවලට අදාළව පුද්ගලයින් 263 දෙනෙකු ඇතුළුව සැකකරුවන් 328 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
 
 මේ අතර දෛනික පොලිස් විශේෂ මෙහෙයුම්වලදී ජනවාරි 12 වනදා සිට මේ දක්වා පුද්ගලයින් 5,101,516ක් පරීක්ෂාවට ලක්කර ඇති අතර සැකපිට පුද්ගලයින් 104,602ක් අත්අඩංගුවට ගෙන තිබේ.
 
-ඉන් පුද්ගලයින් 4630 දෙනෙකු අපරාධවලට ඍජුව සම්බන්ධ බවට හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+ඉන් පුද්ගලයින් 4630 දෙනෙකු අපරාධවලට ඍජුව හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
 
 ...
 
@@ -187,8 +187,6 @@ Allegations have surfaced that children attending the school, who come with the 
 ...
 
 [Data](articles/41e65c5b.json)
-
-[Extended Data](ext_articles/41e65c5b.ext.json)
 
 ---
 
@@ -362,29 +360,25 @@ It is reported that Palestine is also planned to be recognized as a separate sta
 
 ---
 
-### Large guns and ammunition recovery from the house of the dead lawyer!
+### உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள், வெடிமருந்துகள் மீட்பு!
 
 *2025-09-20 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225570) · `ta`
 
-Ratnapura police have recovered a large number of guns and ammunition from the house of the dead lawyer.
+உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள் மற்றும் வெடிமருந்துகளை இரத்தினபுரி பொலிஸார் மீட்டுள்ளனர்.
 
-A 73 -year -old lawyer from Ratnapura died of a sudden heart attack.
+இரத்தினபுரியைச் சேர்ந்த 73 வயதுடைய சட்டத்தரணி ஒருவர் தனியாக வசித்து வந்த நிலையில், திடீரென மாரடைப்பால் உயிரிழந்துள்ளார்.
 
-The Ratnapura Senior Police Superintendent has received information that there are guns in the house of the dead lawyer.
+உயிரிழந்த சட்டத்தரணி வீட்டில் துப்பாக்கிகள் இருப்பதாக, இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளருக்கு தகவல் கிடைத்துள்ளது.
 
-The Senior Superintendent of Police in Ratnapura made this statement on September 17 to the Ratnapura Headquarters Police Station.
+இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளர் செப்டெம்பர் 17 ஆம் திகதி இரத்தினபுரி தலைமையக பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு இந்த விடயத்தை தெரிவித்துள்ளார்.
 
-Subsequently, a raid conducted at the lawyer's home has rescued 12-war rifles, a repeater rifle, 6 extracted gun parts, 11 barrels, 2 small guns, 440 rounds of new 12 and 16-war ammunition and many other gun parts.
+இதனையடுத்து  சட்டத்தரணியின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் 12-போர் துப்பாக்கிகள், ஒரு ரிப்பீட்டர் துப்பாக்கி, 6 பிரித்தெடுக்கப்பட்ட துப்பாக்கி பாகங்கள், 11 பீப்பாய்கள், 2 சிறிய துப்பாக்கிகள், புதிய 12 மற்றும் 16-போர் வெடிமருந்துகளின் 440 சுற்றுகள் மற்றும் பல துப்பாக்கி பாகங்கள் மீட்கப்பட்டுள்ளது.
 
-Investigations are being carried out to find out whether these guns were supplied for crime or distributed among groups.
+இந்த துப்பாக்கிகள் குற்றச் செயல்களுக்காக வழங்கப்பட்டதா அல்லது குழுக்களிடையே விநியோகிக்கப்பட்டதா என்பதை அறிய விசாரணைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
 
-Police said that investigations are underway to ensure that some guns were made locally or with the involvement of other parties.
-
-◼️
+...
 
 [Data](articles/fd4c977e.json)
-
-[Extended Data](ext_articles/fd4c977e.ext.json)
 
 ---
 

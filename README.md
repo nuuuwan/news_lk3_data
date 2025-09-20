@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 06:21:20**
+As of **2025-09-20 04:54:17**
 
 ## Newspaper Stats
 
-*Scraped **77,038** Articles*
+*Scraped **77,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,662
+economynextcom | 4,660
+islandlk | 4,726
 dailymirrorlk | 4,733
-islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,489
 adaderanalk | 9,946
-tamilmirrorlk | 11,579
+tamilmirrorlk | 11,577
 virakesarilk | 12,524
 adaderanasinhalalk | 13,439
 
@@ -26,49 +26,11 @@ adaderanasinhalalk | 13,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,303 (99.0%) of 77,038 articles have been extended.
+76,234 (99.0%) of 77,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### Former MP. Kanakasabha has passed away
-
-*2025-09-20 05:10:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பி-கனகசபை-காலமானார்/175-364943) · `ta`
-
-Former Parliamentarian of the Batticaloa District of Batticaloa Tamil National Alliance (TNA), Batticaloa, Batticaloa, Kalutara, died due to his 86th age of 86 years old yesterday (19).
-
-Born on 20.03.2019.03, he contested for the Tamil National Alliance (TNA) in the Batticaloa district in the 2004 general election and was elected to Parliament in the district.
-
-The loss of the Tamil nationalist traveler who traveled to the Tamil nationalism has caused many people to worry.  (a)
-
-◼️
-
-[Data](articles/1a0e67bb.json)
-
-[Extended Data](ext_articles/1a0e67bb.ext.json)
-
----
-
-### Selvaraj -Senthil Thondaman Meeting
-
-*2025-09-20 05:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்வராஜ்-செந்தில்-தொண்டமான்-சந்திப்பு/175-364942) · `ta`
-
-Selvaraj, National Coordinator of the Indian Pantheon Farmers Association, met with CWC leader Senthil Thondaman yesterday (19) at Chaumiyapavan, headquarters of the Ceylon Workers Congress in Colombo.
-
-During the meeting, when the hill plantation workers who traveled to India from Sri Lanka from India were removed from India in the Nilgiris district of India in the past, CWC leader Senthil Thondaman had the opportunity to be in the same place.. Selvaraj thanked Senthil Thondaman for that.
-
-The CWC leader has met with the Chief Minister of Tamil Nadu and the Chief Minister of Kerala in the past.
-
-In the Nilgiris district, the leasing period to Tantea in the Nilgiris district has been completed, and once again, Senthil Thondaman requested Senthil Thondaman to come to the Nilgiris and negotiate with the Forest Department in the name of 2 acres of plantation workers.
-
-...
-
-[Data](articles/895ab244.json)
-
-[Extended Data](ext_articles/895ab244.ext.json)
-
----
 
 ### Retirement Asia's first female train driving
 
@@ -806,110 +768,6 @@ In 2019, Rawana - 1 was created as the first nano-1 satellite in Sri Lanka, whil
 
 ---
 
-### S&P raises Sri Lanka’s rating from selective default on stable outlook
-
-*2025-09-19 19:43:00* · [`economynextcom`](https://economynext.com/sp-raises-sri-lankas-rating-from-selective-default-on-stable-outlook-241296/) · `en`
-
-ECONOMYNEXT – S&P Global Ratings raised Sri Lanka’s sovereign rating to non investment rate CCC+ from Selective Default (SD) on a stable outlook citing the island nation’s economy has recovered steadily from its 2022 economic crisis, but its debt burden remains high even after the restructuring of most of its external debt.
-
-It has been the first rating improvement by the S&P since the unprecedented crisis three years ago.
-
-“While Sri Lanka has been actively negotiating with creditors on remaining commercial debt still in default, including SriLankan Airlines’ government-guaranteed bonds, we believe that, based on the passage of time, further resolution is unlikely under current circumstances,” the S&P said in a statement.
-
-“Sri Lanka’s economy has recovered steadily from its 2022 economic crisis, with some macroeconomic indicators already surpassing pre-crisis levels. However, its debt burden remains high even after the restructuring of most of its external debt.”
-
-...
-
-[Data](articles/db7f9909.json)
-
-[Extended Data](ext_articles/db7f9909.ext.json)
-
----
-
-### Union Bank to raise Rs 3 billion via listed Debenture Issue
-
-*2025-09-19 19:39:00* · [`islandlk`](http://island.lk/union-bank-to-raise-rs-3-billion-via-listed-debenture-issue/) · `en`
-
-Union Bank is pleased to announce that its Board of Directors has resolved to issue up to a maximum of Thirty Million (30,000,000), Basel III-compliant, listed, rated, unsecured/debenture(s) of Rs. 100 each to raise a maximum of Rupees Three Billion ( 3,000,000,000) to be offered to investors subject to shareholder and regulatory approvals.
-
-This issuance is expected to strengthen Union Bank’s capital base to support strategic expansion, augment its Tier 2 capital in compliance with regulatory capital adequacy requirements, and to bolster lending capacity, particularly for SME and other priority customer segments. This move aligns with the bank’s ongoing efforts to ensure financial resilience, support sustainable growth, and deliver longterm value to shareholders and stakeholders.
-
-...
-
-[Data](articles/319271c9.json)
-
-[Extended Data](ext_articles/319271c9.ext.json)
-
----
-
-### LOLC’s Livestock Insurance promotes human-leopard coexistence
-
-*2025-09-19 19:39:00* · [`islandlk`](http://island.lk/lolcs-livestock-insurance-promotes-human-leopard-coexistence/) · `en`
-
-The Sri Lankan Leopard (Panthera pardus kotiya), endemic to the island and with fewer than 1,000 mature individuals remaining in the wild, faces a precarious future as it struggles against habitat loss, prey depletion, snares, and retaliation killings.
-
-As a keystone species and a vital contributor to Sri Lanka’s ecosystems, eco-tourism, and national economy, its survival is of immense importance. However, human-leopard conflict continues to pose one of the greatest threats, with predation on unattended livestock and pets often leading to retaliatory killings, an instinctive act of protection by rural communities, but one that tragically diminishes the nation’s most iconic wildlife.
-
-...
-
-[Data](articles/3ab6cec6.json)
-
-[Extended Data](ext_articles/3ab6cec6.ext.json)
-
----
-
-### Union Assurance sells 22 percent stake in Fairfirst Insurance to Fairfax Asia amid robust market conditions
-
-*2025-09-19 19:39:00* · [`islandlk`](http://island.lk/union-assurance-sells-22-percent-stake-in-fairfirst-insurance-to-fairfax-asia-amid-robust-market-conditions/) · `en`
-
-Union Assurance sold its 22 percent stake in Fairfirst Insurance Ltd to Fairfax Asia Ltd for Rs 2.63 billion, CSE sources said.
-
-“UAL has divested its 22 percent equity stake comprising 30,800,000 ordinary shares, in Fairfirst Insurance Ltd., an associate company of UAL today, CSE sources explained. The total price was Rs 2,638,079,877.00. Fairfirst Insurance Ltd operates in the non-life insurance segment and was previously treated as an associate of the John Keells Group.
-
-Amid those developments overall market conditions were positive and the All Share Price Index reached 21000 points. The All Share Price Index up by 119.83 points, while the S and P SL20 rose by 22.2 points. Turnover stood at Rs 6.5 billion with eight crossings.
-
-...
-
-[Data](articles/4d15e4a6.json)
-
-[Extended Data](ext_articles/4d15e4a6.ext.json)
-
----
-
-### Sampath Bank strengthens community engagement at Nallur Kandaswamy Kovil Festival with 200,000 devotees
-
-*2025-09-19 19:29:00* · [`islandlk`](http://island.lk/sampath-bank-strengthens-community-engagement-at-nallur-kandaswamy-kovil-festival-with-200000-devotees/) · `en`
-
-Sampath Bank took an active role at the historic Nallur Kandaswamy Kovil Temple Festival in Jaffna, recently. The Bank’s presence at the festival reinforced its dedication to strengthening cultural engagement and community support, while forging meaningful connections with people across the Northern Province.
-
-The Bank conducted a ten-day door-to-door promotional campaign across key towns, including Point Pedro, Atchuveli, Manipai, Chavakatcheri, Changanai, Vattukottai, Thirunelveli, Thurayoor, Columbuthurai, Chunnagam, and Kondavil. This outreach programme provided communities with valuable insights into Sampath Bank’s wide range of financial solutions, while also strengthening relationships at a grassroots level.
-
-...
-
-[Data](articles/c7856c9e.json)
-
-[Extended Data](ext_articles/c7856c9e.ext.json)
-
----
-
-### ComBank partners with Indira Cancer Trust to raise breast cancer awareness
-
-*2025-09-19 19:29:00* · [`islandlk`](http://island.lk/combank-partners-with-indira-cancer-trust-to-raise-breast-cancer-awareness/) · `en`
-
-The Commercial Bank of Ceylon has joined hands with the Indira Cancer Trust (ICT) as the Gold Sponsor of the TLC (Touch | Look | Check) – Triathlon 2025, a nationwide series of events to raise awareness of breast cancer – which tragically claims three lives a day in Sri Lanka – reaffirming the Bank’s commitment to empower women and promote community well-being as a core pillar of its corporate social responsibility efforts.
-
-This unique initiative combines the power of sport with health education to highlight the importance of early detection of breast cancer, as part of the Trust’s activities in the month of October.
-
-The TLC Triathlon 2025 will be the first nationwide triathlon series in the country, to take the message of breast self-examination to the public. The triathlon will take place across four cities – Kilinochchi, Batticaloa, Matara, and Colombo – through a combination of swimming, cycling, and running.
-
-...
-
-[Data](articles/cbaab278.json)
-
-[Extended Data](ext_articles/cbaab278.ext.json)
-
----
-
 ### Sajith, who has requested time for submitting property declaration in digital form
 
 *2025-09-19 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225548) · `ta`
@@ -1181,24 +1039,6 @@ The main purpose of the exhibition is to address the various problems and challe
 [Data](articles/398406f9.json)
 
 [Extended Data](ext_articles/398406f9.ext.json)
-
----
-
-### Sri Lanka’s Vidullanka commissions 3MWp solar project in Matara
-
-*2025-09-19 17:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-vidullanka-commissions-3mwp-solar-project-in-matara-241292/) · `en`
-
-ECONOMYNEXT – Sri Lanka energy company Vidullanka PLC has commissioned a 3MWp solar power plant in Kamburupitiya, Matara, a stock exchange filing said.
-
-The project was implemented through MataraSolar Power (Pvt) Limited, a fully owned subsidiary of Vidullanka.
-
-The plant is expected to generate 5.5 GWh of clean energy, the filing said. (Colombo/Sep19/2025)
-
-◼️
-
-[Data](articles/b1a97f9e.json)
-
-[Extended Data](ext_articles/b1a97f9e.ext.json)
 
 ---
 
@@ -2057,5 +1897,191 @@ According to the hospital authorities, children have no problem.
 [Data](articles/8e57a60e.json)
 
 [Extended Data](ext_articles/8e57a60e.ext.json)
+
+---
+
+### Will Sajith not participate in the UNP conference?
+
+*2025-09-19 13:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-மாநாட்டில்-சஜித்-பங்கேற்கமாட்டார்/175-364915) · `ta`
+
+Opposition leader Sajith Premadasa will not attend the UNP conference, party sources said.
+
+However, the General Secretary of the United People's Power Ranjith Mathuma Bandara and only a few MPs will attend the party.
+
+The 79th Annual Meeting of the United National Party will be held at the Monark Imperial Hotel in Battaramulla at 9.00 am on Saturday (20) under the patronage of its leader Ranil Wickremesinghe.
+
+Opposition political leaders, including Namal Rajapaksa, National Organizer and Member of Parliament, will attend this annual meeting.
+
+◼️
+
+[Data](articles/15540d11.json)
+
+[Extended Data](ext_articles/15540d11.ext.json)
+
+---
+
+### Explanation for Sashindra Rajapaksa
+
+*2025-09-19 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225494) · `ta`
+
+The Colombo Magistrate's Court on Friday (19) has ordered the former State Minister Sasheendra Rajapaksa to be remanded until September 22.
+
+Colombo Chief Magistrate. The case has been postponed till Monday (22), due to the presence of the Bodaragama court.
+
+The order filed on behalf of Sasheendra Rajapaksa is expected to be issued on the same date.
+
+Former State Minister Sasheendra Rajapaksa was arrested by the Commission of Bribery and Corruption on August 6 in connection with the incident of another person in the Sevanagala -Kiripan Veewa area where another person was compensated by another person in the Sevanagala -Gripan Veda area during the 2022 protests.
+
+The arrested Sasheendra Rajapaksa has continued to be remanded after being produced before the Colombo Magistrate's Court.
+
+◼️
+
+[Data](articles/a95629e5.json)
+
+[Extended Data](ext_articles/a95629e5.ext.json)
+
+---
+
+### Dan murder suspect arrested
+
+*2025-09-19 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214753) · `si`
+
+The suspicious shot of the murder of the political activist Dan Priyasha has been arrested in Ranwala area in Kegalle.
+
+Three persons including the suspect have been arrested last night (18) and a woman among the arrested persons.
+
+At the time of his arrest, the suspects had 12,400 illegal cigarettes and several gauge.
+
+One of the suspects was a legally resignation of the Army and led by the army.
+
+◼️
+
+[Data](articles/2129a246.json)
+
+[Extended Data](ext_articles/2129a246.ext.json)
+
+---
+
+### Gunman and two suspects arrested in murder of Dan Priyasad
+
+*2025-09-19 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112674/gunman-and-two-suspects-arrested-in-murder-of-dan-priyasad) · `en`
+
+The alleged shooter in the murder of political activist Dan Priyasad was arrested last night, along with two others—including a woman—in Ranwala town, Kegalle, the police confirmed.
+
+The arrests were carried out by officers of the Kegalle Divisional Criminal Investigation Unit.
+
+1. Jayawardena Mudiyanselage Aruna Sri Dhammika Jayawardena, resident of Rangwala, Kegalle
+
+2. Athige Primal Dhanuka Silva, resident of Welioya (formerly an army soldier attached to the 8th Artillery Regiment, who deserted from service in 2017)
+
+Posing as Athemadalage Damith Saranga Perera using a forged NIC
+
+3. Chandrasekara Mudiyanselage Punya Kumari Chandrasekara, resident of Ranala Road, Dedigamuwa
+
+Possession and trafficking of 4,400 mg of crystal methamphetamine (Ice)
+
+Posing as Tennakoon Arachchige Manodya Lakmini Tennakoon using a forged NIC
+
+...
+
+[Data](articles/a3bf809d.json)
+
+[Extended Data](ext_articles/a3bf809d.ext.json)
+
+---
+
+### Sri Lanka’s Union Bank to raise 3bn from debentures
+
+*2025-09-19 13:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-union-bank-to-raise-3bn-from-debentures-241234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Union Bank of Colombo said it plans a debenture sale to raise 3 billion rupees.
+
+30 million Basel III complaint, tier 2, listed, rated, unsecured, subordinated, redeemable, high yield debentures with a nonviability conversion will be offered at 100 rupees each.
+
+The size, tenure/ maturity period (minimum of five years), coupon rate/s, frequency of coupon payments and other relevant terms will be determined by the Board and disclosed prior to the opening of the issue,” the bank said.
+
+The issue is subject to regulator and shareholder approval. (Colombo/Sep19/2025)
+
+◼️
+
+[Data](articles/d5f1ee95.json)
+
+[Extended Data](ext_articles/d5f1ee95.ext.json)
+
+---
+
+### Primary. Blood. Landslide warnings to 6 divisions
+
+*2025-09-19 13:12:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා--ලේ--කොට්ඨාස-6ට-නාය-යාමේ-අනතුරු-ඇඟවීම්/11-418604) · `si`
+
+The National Building Research Organization (NBR) has today (19) to issue landslide warning announcements for six districts in five districts due to adverse weather conditions.
+
+The informs of Colombo District have been released to be aware of the first level to be aware of the first level of warning to the Kotmale, Ratnapura and Nuwara Eliya District in the Colombo District of Colombo, Horana, Ratnapura District.
+
+The announcements will be valid from 10.00 am to 10am tomorrow (20) and the people of the Divisional Secretariat who have issued the announcements should be aware of this.
+
+◼️
+
+[Data](articles/7e2ca1f8.json)
+
+[Extended Data](ext_articles/7e2ca1f8.ext.json)
+
+---
+
+### Special investigation unit for Foreign Employment Complaints
+
+*2025-09-19 13:03:32* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-පැමිණිලි-විභාගයට-විශේෂ-විමර්ශන-ඒකකයක්/11-418603) · `si`
+
+Special Investigation Unit of the Sri Lanka Bureau of Foreign Employment, the Sri Lanka Bureau of Foreign Employment has commenced to find lots of complaints on foreign employment and immediate solutions. 16 police officers have been attached to this unit.
+
+"Deputy Minister of External Aravya Hemachandra said that the unit was formed to provide relief to the migrant community with immediate solutions to complaints and complaints.. He said that the new government was expedited after the arrival of the country, "he said."
+
+"I think the complaints have been increased in recent years. The reason is that if the foreign employment parties are cheating, they use that one tricky. A group of evolution is gathering these frauds. Registration of non-registered agencies of certain group bureau is cheated as unregistered agencies.
+
+...
+
+[Data](articles/2b12e7c9.json)
+
+[Extended Data](ext_articles/2b12e7c9.ext.json)
+
+---
+
+### Husband Death: Wife and Wrong Decision: 3 Children became orphans
+
+*2025-09-19 12:45:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கணவன்-மரணம்-மனைவியும்-தவறான-முடிவு-3-குழந்தைகள்-அநாதைகளாகினர்/76-364914) · `ta`
+
+A 32 -year -old mother took the wrong decision and poisoned her three children, police said she was killed.. The incident took place in Ududumbara, Thambagahapitiya, Habudunduwala area.
+
+Her husband (age 34) died about two days ago. He is reported to have died of blood cancer.
+
+At the same time, three male children aged 05, 10 and 12 have been diagnosed with blood cancer.
+
+However, the children are currently receiving treatment at the Ududumbara Regional Hospital and their lives are no danger, police said.
+
+◼️
+
+[Data](articles/b2f0415f.json)
+
+[Extended Data](ext_articles/b2f0415f.ext.json)
+
+---
+
+### Government's position on land acquired by the government
+
+*2025-09-19 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214751) · `si`
+
+Minister Bimal Ratnayake said that the lands in the Northern Province who was taken over by the government for security reasons were not released.
+
+He was speaking at the Jaffna District Development Committee meeting held yesterday (18).
+
+The land issues are about. The meeting was a warm face with a conversation between the Minister of MP Sridharan and Bimal Ratnayake.
+
+The Jaffna District Committee Meeting in relation to the Ministry of Transport, Highways, Ports and Civil Aviation, was held in this regard and the MPs of Ilanki Thamil Auice Party MP. Mr. Sridharan had expressed his views to raise several things including the release of land in the North.
+
+◼️
+
+[Data](articles/45ba57d9.json)
+
+[Extended Data](ext_articles/45ba57d9.ext.json)
 
 ---

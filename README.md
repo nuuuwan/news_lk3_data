@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 10:08:48**
+As of **2025-09-20 10:37:56**
 
 ## Newspaper Stats
 
-*Scraped **77,057** Articles*
+*Scraped **77,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,60 +17,164 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,491
-adaderanalk | 9,950
+adaderanalk | 9,951
 tamilmirrorlk | 11,585
-virakesarilk | 12,526
-adaderanasinhalalk | 13,444
+virakesarilk | 12,528
+adaderanasinhalalk | 13,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,427 (99.2%) of 77,057 articles have been extended.
+76,437 (99.2%) of 77,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### களுவாஞ்சிக்குடியில் சந்தேகத்திற்கிடமான முறையில் பெண் உயிரிழப்பு!
+### එජාප 79වන සංවත්සරය අද
+
+*2025-09-20 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214783) · `si`
+
+ඒ, එම පක්ෂයේ නායක, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙනි.
+
+◼️
+
+[Data](articles/fe0c3688.json)
+
+---
+
+### '2025 දෙරණ - ලක්ස්' දෙරණ සිනමා සම්මාන උළෙල - ජයග්‍රාහකයින්
+
+*2025-09-20 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214782) · `si`
+
+'2025 දෙරණ - ලක්ස්' 10වන දෙරණ සිනමා සම්මාන උළෙල කොළඹ නෙළුම් පොකුණ රඟහලේ දී ඊයේ (19) පැවැත්විණි.
+
+මෙරට ජනප්‍රිය කලාකරුවන් රැසකගේ සහභාගිත්වයෙන් පැවැති මෙම සිනමා සම්මාන උළෙලේ දී 2024 වසරේ දී තිරගත වූ සිනමාපටයන් හි දක්ෂතා දැක්වූවන් ඇගයීමට ලක් කළේය.
+
+ඒ අනුව 'විසල් ආදරේ' චිත්‍රපටයට රංගනයෙන් දායක වූ රශිප්‍රභා සන්දීපනී හොඳම නිළිය සම්මානයෙන් පිදුම් ලැබීය.
+
+එමෙන්ම 'සිහින නෙළුම් මල්' චිත්‍රපටයේ දී දැක් වූ රංගනය වෙනුවෙන් හේමාල් රණසිංහ හොඳම නළුවාට හිමි සම්මානය දිනාගත්තේය.
+
+ඊට අමතරව දූස්රා චිත්‍රපටයේ අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ චන්න දේශප්‍රිය හොඳම අධ්‍යක්ෂකවරයා ලෙස සම්මානයේ පිදුම් ලැබීය.
+
+එමෙන්ම එම චිත්‍රපටය හොඳම චිත්‍රපටයට හිමි සම්මානය ද දිනා ගත්තේය.
+
+ඊට අමතරව මෙරට සිනමාව වෙනුවෙන් කළ කැපකිරීම අගයමින් විශේෂ සම්මානයක් ප්‍රධානය කළේය.
+
+◼️
+
+[Data](articles/0fcc762a.json)
+
+---
+
+### Hundreds of old people die from heat in Japan
+
+*2025-09-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225563) · `ta`
+
+Japanese media reports that hundreds of older people die due to temperature every year.
+
+The call device is part of the government's motivation to fight a deadly double emergency.
+
+Japan's climate crisis and its old age are facing many challenges.
+
+Loneliness and other cultural factors in Japan are unable to face the temperature.
+
+◼️
+
+[Data](articles/a3312e53.json)
+
+[Extended Data](ext_articles/a3312e53.ext.json)
+
+---
+
+### Woman dies suspiciously in Kaluwanchikudi
 
 *2025-09-20 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225561) · `ta`
 
-களுவாஞ்சிக்குடி பொலிஸ் பிரிவிற்குட்பட்ட கோட்டைக்கல்லாறு பகுதியில் உள்ள வீடொன்றில் சந்தேகத்திற்கிடமான முறையில் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+A woman has died suspiciously in a house in Kottaikkallar area of ​​the Kaluwanchikudi police division.
 
-கோட்டைக்கல்லாறு பகுதியில் உள்ள வீடொன்றில் பெண் ஒருவர் சடலமாக கிடப்பதாக, களுவாஞ்சிக்குடி பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
+Kaluwanchikudi police have received information that a woman was found dead in a house in Kottaikallar area.
 
-உயிரிழந்தவர் கோட்டைக்கல்லாறு பகுதியிணை சேர்ந்த 57 வயதுடையவர் என பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+Initial investigations by the police revealed that the deceased was a 57 -year -old from Kottaikallar area.
 
-இந்த பெண் வீட்டில் தனியாக வசித்து வந்ததாக விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Investigations have revealed that the woman was living alone in the house, police said.
 
 ◼️
 
 [Data](articles/4de9b9d9.json)
 
+[Extended Data](ext_articles/4de9b9d9.ext.json)
+
 ---
 
-### அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் - சீனப் பிரதமர் ஜி ஜின்பிங் இடையில் தொலைபேசி உரையாடல்
+### Son killed in father
+
+*2025-09-20 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225562) · `ta`
+
+The son was killed and his wife was injured when his father was attacked in the Paduwatha area of ​​the Devalegama police division in Kegalle.
+
+Initial investigations by the police revealed that Manan died on the spot when his father assaulted his son and wife.
+
+◼️
+
+[Data](articles/5c6c0c9f.json)
+
+[Extended Data](ext_articles/5c6c0c9f.ext.json)
+
+---
+
+### Winners of 10th Derana Film Awards 2025
+
+*2025-09-20 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112695/winners-of-10th-derana-film-awards-2025) · `en`
+
+The 10th edition of Derana-Lux Film Awards got underway at the Nelum Pokuna Theatre in Colombo last night (Sept. 19) with the country’s top artistes adding glitz and glamour to the enchanting night.
+
+The ceremony recognizes and celebrates the top talents of Sri Lankan cinema for the brilliance they showcased in 2024.
+
+Rashipraba Sandeepani was honored with the Best Actress Award for her performance in Visal Adare, while Hemal Ranasinghe received the Best Actor in a Leading Role Award for his role in Sihina Nelum Mal.
+
+Meanwhile, Channa Deshapriya won the Best Director Award for Doosra, which also clinched the Best Picture Award of the night.
+
+Additionally, the Lifetime Achievement Award was presented to veteran actor Ravindra Randeniya in recognition of his remarkable contributions to Sri Lankan cinema.
+
+• Best Art Direction – Manjula Ayagama (Gautama Buddha Matha)
+
+• Most Promising Director (Cinema of tomorrow) – Thillaiampalam Suthakaran Mathisudha (Dark Days of Heaven)
+
+...
+
+[Data](articles/adec1a91.json)
+
+[Extended Data](ext_articles/adec1a91.ext.json)
+
+---
+
+### Telephone conversation between US President Donald Trump - Chinese Prime Minister Xi Jinping
 
 *2025-09-20 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225560) · `ta`
 
-அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் மற்றும் சீனப் பிரதமர் ஜி ஜின்பிங்கும் இடையே வெள்ளிக்கிழமை(நேற்று) தொலைபேசி உரையாடலொன்று இடம்பெற்றுள்ளது.
+A telephone conversation took place between US President Donald Trump and Chinese Prime Minister Xi Jinping on Friday.
 
-மிகவும் பிரபலமான மற்றும் செல்வாக்கு மிக்க வீடியோ செயலியான டிக்டோக்கின் செயற்பாடுகள் தொடர்பில், இறுதி செய்ய உள்ளதாகவும், வர்த்தகம் குறித்தும் விவாதிப்பார்கள் என்ற எதிர்பார்ப்புடன் இந்த பேச்சுவார்த்தை நடத்தப்பட்டது.
+The talks were held with the expectation that the most popular and influential video processor, Dictock's activities, will be finalized and to discuss the business.
 
-இதன்போது, தானும் சீனப் பிரதமர் ஜி ஜின்பிங்கும் டிக்டோக்கின் அமெரிக்க செயற்பாடுகளின் எதிர்காலம் குறித்த ஒப்பந்தத்திற்கு அனுமதி அளித்ததாக டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+Donald Trump has said that he and Chinese Prime Minister Xi Jinping have allowed Dictock's future on the future of US activities.
 
-அதேநேரம், டொனால்ட் ட்ரம்ப் ட்ரூத் எனும் தளத்தில் குறித்த உரையாடல் பயனுடையதாக அமைந்தது என குறிப்பிட்டுள்ளார்.
+At the same time, Donald Trump noted that the conversation on Trump was useful.
 
 மேலும் ஒப்பந்தத்திற்கு சீனப் பிரதமர் ஜி ஜின்பிங் அனுமதி அளித்ததை டொனால்ட் ட்ரம்ப் பாராட்டியுள்ளார்.
 
-குறித்த ஒப்பந்தத்தின் படி, டிக்டோக்கின் அமெரிக்க வணிகத்தை அமெரிக்க முதலீட்டாளர்கள் குழுவிற்கு விற்கும் என்று கூறப்படுகிறது.
+According to the agreement, it is said that Dictoke will sell US business to the US investors group.
 
-ஆனால் சீனாவின் அதிகாரப்பூர்வ அரச செய்தி நிறுவனமான சின்ஜுவா அவர்களின் விவாதத்தின் முடிவை தெளிவாகக் குறிப்பிடவில்லை என தெரிவிக்கப்படுகிறது.
+But China's official state news agency, Sinjua, has not clearly mentioned the decision of the debate.
+
+Chinese Prime Minister Xi Jinping has said that Beijing welcomes talks on Dictog. "
 
 ...
 
 [Data](articles/a5869139.json)
+
+[Extended Data](ext_articles/a5869139.ext.json)
 
 ---
 
@@ -1963,115 +2067,5 @@ Accordingly, the Additional Magistrate also ordered the investigation to investi
 [Data](articles/869af459.json)
 
 [Extended Data](ext_articles/869af459.ext.json)
-
----
-
-### Sri Lanka stocks close up, led by conglomerates, Sierra Cables
-
-*2025-09-19 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-led-by-conglomerates-sierra-cables-241251/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, with Sierra Cables and diversified conglomerates leading the charge, data on its site showed.
-
-The ASPI was up 0.57 percent, or 119.83 points, at 21,085. And the S&P SL20 closed up 0.42 percent, or 24.86 points, at 5,996.
-
-Market turnover was 6.5 billion rupees. Trading in Sierra Cables contributed 1.2 billion rupees.
-
-The top contributors to the All Share Price Index were John Keells Holdings (up 30 cents at 22.80 rupees), Hayleys (up 3 rupees at 178.50), Sierra Cables (up 3.30 rupees at 34.40), Melstacorp (up 1.50 rupees at 161) and Aitken Spence (up 3.50 rupees at 159.75).
-
-Other top turnover generators were LOLC Holdings, Asia Asset Finance, and Cargills Bank.
-
-Top foreign buying was seen in Pan Asia Banking Coloration, First Capital Holdings, Seylan Bank non-voting, First Capital Treasuries, HNB Assurance and Tess Agro.
-
-...
-
-[Data](articles/bafb70a0.json)
-
-[Extended Data](ext_articles/bafb70a0.ext.json)
-
----
-
-### Air Force Investigation Officer arrested in Katunayake with gold biscuits
-
-*2025-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225519) · `ta`
-
-An Air Force Investigation Officer with gold biscuits was arrested by the Airport Customs Control Unit at Bandaranaike International Airport on Thursday (18).
-
-A 37 -year -old intelligence officer from Minuwangoda, who has worked for 17 years in the Air Force, has been arrested.
-
-The suspect, the Air Force Investigation Officer, was raided by the Airport Customs Customs Control Unit when he tried to leave the airport.
-
-At the time, the suspect was seized from the pocket of the suspect, the 24 -carat clean biscuits weighing 550 grams.
-
-◼️
-
-[Data](articles/f4cbe6e1.json)
-
-[Extended Data](ext_articles/f4cbe6e1.ext.json)
-
----
-
-### The petition filed to consult the security of Panadura Nilanga's safety
-
-*2025-09-19 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214759) · `si`
-
-The Court of Appeal was held to be summoned to the 26th to be considered to be considered to issue a direct film to the CID officials to issue a directive to Sri Lanka in Indonesia.
-
-The petition filed by the mother of the suspect was called before the Court of Appeal of the Court of Appeal and Priyantha Fernando.
-
-After considering the petitioner and the Attorney General Solicarasitor General Sharnil Kularatne, who appeared on behalf of the Attorney General, was appointed to call on 26.
-
-The Director of the Criminal Investigations Department, the Director of the Criminal Investigation Department, the IGP and the Attorney General have been named as respondents in the petition.
-
-The petitioner says that the respondents are issued to the respondents to ensure the safety of his Son who is holding in the custody of the CID.
-
-In addition, the petition further requests the respondents to respond to the guidelines issued by the Sri Lanka Human Rights Commission (HRCSF) in detention.
-
-◼️
-
-[Data](articles/6375d7dc.json)
-
-[Extended Data](ext_articles/6375d7dc.ext.json)
-
----
-
-### India and Pakistan to fight on Monday
-
-*2025-09-19 15:34:30* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාව-හා-පාකිස්තානය-යළි-ලබන-21-දා-සටනට/9-418609) · `si`
-
-The round of the Superintendent of the Asian Kusalana, between India and Pakistan, between India and Pakistan, is scheduled to play in the Asian Kusalana Tournament between India and Pakistan.
-
-India and Pakistan are the second time that they meet each other in this tournament. India was criticized by the Indian players after the first match and after the match, the Indian players were abandoned from the field.
-
-The match between the Superstives of the Asia Cup, the match will be held tomorrow (20).
-
-◼️
-
-[Data](articles/4f068350.json)
-
-[Extended Data](ext_articles/4f068350.ext.json)
-
----
-
-### 2026 pre-budget discussions with stakeholders in energy sector
-
-*2025-09-19 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214758) · `si`
-
-Labor and Deputy Minister of Labor and Economic Development Dr. Anil Jayantha Fernando held a pre-budget discussion with the partners of the energy sector.
-
-It was also discussed at length to measures to be taken to meet the rising electricity demand.
-
-It was emphasized that the energy sector has a great demand for the energy sector and the government has paid special attention to renewable energy in the role of the new government program.
-
-There were also discussed on opportunities to export electricity. The partners of the energy sector were asked for to pay attention to the importation of goods related to the industry.
-
-The Minister of Energy Minister also decided to hold another discussion with all stakeholders of the Electricity Board, the Chairman of the Electricity Board and Energy.
-
-Speaking in the energy sector, especially the maximum of production of the energy sector, will be discussed and reducing the cost of producers.
-
-...
-
-[Data](articles/3ed12880.json)
-
-[Extended Data](ext_articles/3ed12880.ext.json)
 
 ---

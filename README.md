@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 18:56:13**
+As of **2025-09-20 18:40:52**
 
 ## Newspaper Stats
 
-*Scraped **77,116** Articles*
+*Scraped **77,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,17 @@ adalk | 7,498
 adaderanalk | 9,961
 tamilmirrorlk | 11,590
 virakesarilk | 12,539
-adaderanasinhalalk | 13,464
+adaderanasinhalalk | 13,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,795 (99.6%) of 77,116 articles have been extended.
+76,790 (99.6%) of 77,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### ගුවන්තොටුපොළේ වැසිකිළියක තිබී  කෝටි ගාණක මත්ද්‍රව්‍ය සොයා ගනී
-
-*2025-09-20 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214802) · `si`
-
-රුපියල් එක්කෝටි හැට අට ලක්ෂ හතළිස්දහසක් වටිනා කුෂ් සහ හෂීෂ් මත්ද්‍රව්‍ය තොගයක් කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ, පිරිමි වැසිකිළිය තුළ දමා ගොස් තිබියදී පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් විසින් අද (20) සොයා ගෙන තිබේ.
-
-මෙහි කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 422ක් සහ හෂීෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01යි ග්‍රෑම් 262ක් තිබී සොයා ගෙන ඇත.
-
-වැසිකිළිය පිරිසිදු කිරීමට පැමිණි සේවකයෙකු විසින් මෙම පාර්සල් කිහිපය දැක ඇති අතර ඔහු ඒ පිළිබඳව කටුනායක ගුවන්තොටුපොළ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් දැනුවත් කර තිබේ.
-
-පසුව ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් දැනුවත් කර ඇති අතර ඔවුන් විසින් මෙම මත්ද්‍රව්‍ය තොගය සිය භාරයට ගෙන ඇත.
-
-කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය මෙම සිදුවීම සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/b7295cce.json)
-
----
 
 ### සයිබර් ප්‍රහාරයකින් යුරෝපයේ ගුවන්තොටුපොළ රැසක කටයුතුවලට බාධා
 
@@ -72,23 +52,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Sadly, it is sad to support children to make mistakes - Ven. Dimbulkumbura Wimalama Wimaladu Thera
+### දරුවන්ට වැරදි කරන්න දෙමාපියන්ම  අනුබල දීම කණගාටුවට කරුණක්- පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ
 
 *2025-09-20 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214800) · `si`
 
-Ven. Dimbulkumbura Wenagala Wanala Chaladhaladhaladhaladhamala, Spowntly disastrous and saddened by parents to many of our children from an early age.
+අප රටේ බොහෝ දරුවන්ට කුඩා කාලයේ සිටම බොරුව, වංචාව ප්‍රගුණ කිරීමට දෙමාපියන් විසින්ම අනුබල දීම දැඩි ව්‍යසනකාරී හා කණගාටුදායක තත්ත්වයක් බව මල්වතු මහා විහාර පාර්ශ්වයේ අනුනායක පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ පවසති.
 
-He expressed these views at the annual rewards of the Chandhananda Buddhist School in Asgiriya, Asgiriya.
+මහනුවර අස්ගිරිය, චන්දානන්ද බෞද්ධ පාසලේ වාර්ෂික ත්‍යාග ප්‍රධාන උත්සවයට සහභාගී වෙමින් උන්වහන්සේ මෙම අදහස් පළ කළහ.
 
-He further stated that the majority of children in the major schools in Kandy town have been residening addresses in the city of Kandy.
+උන්වහන්සේ වැඩිදුරටත් පවසා සිටියේ මහනුවර නගරයේ ප්‍රධාන පාසල්වල ළමයින් බහුතරයක් දුර පළාත්වල පදිංචිව සිටින අය බවත් ඔවුන්ගේ දෙමව්පියෝ මහනුවර නගරයේ ජනප්‍රිය ප්‍රධාන පාසල් අසල ලිපිනයන් සොයා ගනිමින් ඒවට මුදල් ගෙවා ව්‍යාජ ලෙස ලියකියවිලි නිර්මාණය කර සිය දරුවන් පාසල්වලට ඇතුළත් කර ඇති බවත් ය.
 
-Speaking further, Ven. Dimbulkumbura Wimaladhame Wimaladesh Thera, Ven.
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මල්වතු මහා විහාර පාර්ශ්වයේ අනුනායක පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ,
 
 ...
 
 [Data](articles/96d3cc9d.json)
-
-[Extended Data](ext_articles/96d3cc9d.ext.json)
 
 ---
 
@@ -2077,5 +2055,21 @@ South Asia is living through an era of popular uprisings that has reshaped the p
 [Data](articles/984139e5.json)
 
 [Extended Data](ext_articles/984139e5.ext.json)
+
+---
+
+### Sri Lanka's third satellite was successfully positioned in the orbit
+
+*2025-09-19 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225550) · `ta`
+
+Arthur C under the Ministry of Science and Technology. The "Birds-X Dragonfly" satellite was successfully launched from the International Space Station (ISS) at 2.15 pm on Friday (19) afternoon.
+
+The satellite was launched to the International Space Station (ISS) on the "SPX33" rocket launched by NASA on August 24. "Birds-X Dragonfly" spacecraft re-orbit Arthur C. Clark was broadcast live at Advanced Technology Institute, and Secretary to the Ministry of Science and Technology Mohamed Navi was the chief guest of the event.
+
+...
+
+[Data](articles/6fbee0bc.json)
+
+[Extended Data](ext_articles/6fbee0bc.ext.json)
 
 ---

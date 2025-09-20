@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 18:40:52**
+As of **2025-09-20 17:41:15**
 
 ## Newspaper Stats
 
-*Scraped **77,115** Articles*
+*Scraped **77,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,121 +16,59 @@ economynextcom | 4,665
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,498
+adalk | 7,496
 adaderanalk | 9,961
 tamilmirrorlk | 11,590
-virakesarilk | 12,539
-adaderanasinhalalk | 13,463
+virakesarilk | 12,538
+adaderanasinhalalk | 13,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,790 (99.6%) of 77,115 articles have been extended.
+76,745 (99.5%) of 77,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### සයිබර් ප්‍රහාරයකින් යුරෝපයේ ගුවන්තොටුපොළ රැසක කටයුතුවලට බාධා
-
-*2025-09-20 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214801) · `si`
-
-සයිබර් ප්‍රහාරයක් හේතුවෙන් යුරෝපයේ ප්‍රධානපොළේ ගුවන් තොටුපොළ රැසක කටයුතුවලට බාධා පැමිණ තිබේ.
-
-හීතෘ, බ්‍රසල්ස්, බර්ලින්, ඇතුළු ගුවන්තොටුපොළ රැසක කටයුතු මේ හේතුවෙන් අඩාල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ගුවන් යානා වෙත මගීන් ඇතුළත් කර ගැනීමට අදාළ සේවා සපයන අන්තර්ජාල පද්ධතියක් ඉළක්ක කර ගනිමින් මෙම සයිබර් ප්‍රහාරය එල්ල වී ඇති බව සඳහන්ය.
-
-මේ හේතුවෙන් ගුවන් ගමන් ප්‍රමාදයන් හා අවලංගු වීම් ද සිදුව ඇති බව වාර්තා වෙයි.
-
-කෙසේ වෙතත් ඇති වූ තත්ත්වය කඩිනමින් යථා තත්ත්වයට පත් කිරීම සඳහා පියවර ගන්නා බව එම ගුවන් තොටුපොළ බලධාරීන් ප්‍රකාශ කර තිබේ.
-
-◼️
-
-[Data](articles/ade601f6.json)
-
----
-
-### දරුවන්ට වැරදි කරන්න දෙමාපියන්ම  අනුබල දීම කණගාටුවට කරුණක්- පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ
-
-*2025-09-20 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214800) · `si`
-
-අප රටේ බොහෝ දරුවන්ට කුඩා කාලයේ සිටම බොරුව, වංචාව ප්‍රගුණ කිරීමට දෙමාපියන් විසින්ම අනුබල දීම දැඩි ව්‍යසනකාරී හා කණගාටුදායක තත්ත්වයක් බව මල්වතු මහා විහාර පාර්ශ්වයේ අනුනායක පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ පවසති.
-
-මහනුවර අස්ගිරිය, චන්දානන්ද බෞද්ධ පාසලේ වාර්ෂික ත්‍යාග ප්‍රධාන උත්සවයට සහභාගී වෙමින් උන්වහන්සේ මෙම අදහස් පළ කළහ.
-
-උන්වහන්සේ වැඩිදුරටත් පවසා සිටියේ මහනුවර නගරයේ ප්‍රධාන පාසල්වල ළමයින් බහුතරයක් දුර පළාත්වල පදිංචිව සිටින අය බවත් ඔවුන්ගේ දෙමව්පියෝ මහනුවර නගරයේ ජනප්‍රිය ප්‍රධාන පාසල් අසල ලිපිනයන් සොයා ගනිමින් ඒවට මුදල් ගෙවා ව්‍යාජ ලෙස ලියකියවිලි නිර්මාණය කර සිය දරුවන් පාසල්වලට ඇතුළත් කර ඇති බවත් ය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මල්වතු මහා විහාර පාර්ශ්වයේ අනුනායක පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ,
-
-...
-
-[Data](articles/96d3cc9d.json)
-
----
-
-### The mountain tiger is saved
-
-*2025-09-20 17:28:28* · [`adalk`](https://www.ada.lk/picture_story/කඳුකර-කොටියෙක්-බේරා-ගැනෙයි/10-418622) · `si`
-
-The Haggala Wildlife Site Site Site Site Site Site Site Site Site Site Site Sites
-
-Wildlife veterinarian Akalanka in charge of the animal management unit of the Randenigala was reportedly damaged due to the age of four and a large number of height.
-
-He said that several medical tests should be conducted to see if the body was damaged.
-
-The Haggala Wildlife Site Site Site Site Site Site Sites have taken steps to direct the animal veterinary unit to the animal veterinary unit to treat a severe effort.
-
-◼️
-
-[Data](articles/3fe08f87.json)
-
-[Extended Data](ext_articles/3fe08f87.ext.json)
-
----
-
-### Thick from Trump's invested on US investments for tiktak company
+### TikTok සමාගම සඳහා අමෙරිකානු ආයෝජන ගැන ට්‍රම්ප්ගෙන් ඉඟියක්
 
 *2025-09-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214799) · `si`
 
-US President Donald Trump and Chinese President Xi Jing Ping has a telephone conversation.
+අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ චීන ජනාධිපති ෂී ජිං පිං අතර දුරකථන සංවාදයක් සිදුව තිබේ.
 
-Donald Trump has stated that in this conversation, Donald Trump has stated that the attention of a number of things.
+මෙම සංවාදයේදී කරුණු ගණනාවක් සම්බන්ධයෙන් අවදානය යොමු වූ බව ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කර ඇත.
 
-It is also discussed in the Ticktock Social Media Company belonging to China.
+චීනයට අයත් ටික්ටොක් සමාජ මාධ්‍ය සමාගම සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡා වී ඇති බව ද සඳහන් වේ.
 
-According to foreign media reports, the Chinese president has stated that the transaction has been able to approach the transaction to the Ticktock to carry out the transaction.
+ටික්ටොක් සමාගම සඳහා අමෙරිකානු ආයෝජන සිදු කිරීමට අදාළ ගනුදෙණුව පළිබඳ ඵලදායි එකඟතාවන්ට එළඹීමට හැකිවූ බව ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කර ඇතත් චීන ජනාධිපතිවරයාගේ පාර්ශවයෙන් ඒ පිළිබඳව පැහැදිළි කරුණු ඉදිරිපත් කර නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
-In addition, the American duties imposed against China also focused on the telephone conversation.
+ඊට අමතරව චීනයට එරෙහිව පනවා ඇති අමෙරිකානු තීරුබදු පිළිබඳව ද මෙම දුරකථන සංවාදයේදී අවධානය යොමුව ඇත.
 
-US President Donald Trump has said that he is expected to visit China in early month.
+අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් තවදුරටත් පවසා ඇත්තේ ලබන වසරේ මුල භාගයේදී තමා චීනයේ සංචාරය කිරීමට අපේක්ෂා කරන බවය.
 
 ◼️
 
 [Data](articles/e77be56c.json)
 
-[Extended Data](ext_articles/e77be56c.ext.json)
-
 ---
 
-### Airports restored by Immigration and Emigration Department's computer system
+### ගුවන්තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තුවේ පරිගණක පද්ධතිය යථා තත්ත්වයට
 
 *2025-09-20 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214798) · `si`
 
-Katunayake Airport has restored the Immigration and Emigration Departments and the inactive computer system.
+කටුනායක ගුවන්තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු, අක්‍රිය වී තිබූ පරිගණක පද්ධතිය යළි යථා තත්ත්වයට පත් කර තිබේ.
 
-It is reported that the computer system has been reopened at 4.15 pm.
+පස්වරු 04.15ට  පරිගණක පද්ධතිය යළි සක්‍රිය කර ඇති බව වාර්තා වෙයි.
 
-Accordingly, 02 hours and 30 minutes were inactive.
+ඒ අනුව පැය 02 යි විනාඩි 30 ක කාළයක් එම පද්ධතිය අක්‍රිය වී පැවතුනි.
 
-The Katunayake airport was launched by the Department of Immigration and Emigration, the Border Computer System, 01.45 pm.
+කටුනායක ගුවන්තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තුවේ, පැමිණීමේ සහ පිටත්වීමේ පර්යන්තවල ස්ථාපිත කර තිබෙන දේශසීමා පරිගණක පද්ධතිය පස්වරු 01.45 අක්‍රිය වී තිබුණි.
 
 ◼️
 
 [Data](articles/111c22a8.json)
-
-[Extended Data](ext_articles/111c22a8.ext.json)
 
 ---
 
@@ -178,8 +116,6 @@ The Colombo Fire Brigade said that 12 fire-trucks have been deployed so far to d
 
 [Data](articles/634afa24.json)
 
-[Extended Data](ext_articles/634afa24.ext.json)
-
 ---
 
 ### "Knowledge not only in the study: to act for the people" - insist at the Asian Science Day Conference held in Colombo
@@ -219,8 +155,6 @@ According to sources within the Department of Immigration and Emigration, Sri La
 ...
 
 [Data](articles/c3e02b39.json)
-
-[Extended Data](ext_articles/c3e02b39.ext.json)
 
 ---
 
@@ -263,8 +197,6 @@ Despite these setbacks, overall agriculture, industry, and services recorded pos
 ...
 
 [Data](articles/abd1adb3.json)
-
-[Extended Data](ext_articles/abd1adb3.ext.json)
 
 ---
 
@@ -409,28 +341,6 @@ In addition, 3,708 have been taken after 3,708 serious roads have been reported.
 [Data](articles/1b7528d9.json)
 
 [Extended Data](ext_articles/1b7528d9.ext.json)
-
----
-
-### President Anura Kumara Dissanayake addresses the United Nations General Assembly on the 24th!
-
-*2025-09-20 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225579) · `ta`
-
-President Anura Kumara Dissanayake will address the 79th session of the United Nations General Assembly in New York on September 24 (Wednesday).
-
-According to a list of amended temporary speakers issued by the United Nations, the President will address the afternoon session of the public debate from September 23 to 29.
-
-In his first United Nations General Assembly, Anuragumara Dissanayake is expected to reveal the government's position on Sri Lanka's reform agenda, economic revival initiatives and global issues, including climate action, sustainable development and international cooperation.
-
-In the 2025 public debate, world leaders including the United States, China, India and Brazil will submit statements under the theme of the United Nations General Assembly.
-
-This is the first speech to Sri Lanka and the world organization since the election of Anuragumara Dissanayake earlier this year.
-
-◼️
-
-[Data](articles/03b7942f.json)
-
-[Extended Data](ext_articles/03b7942f.ext.json)
 
 ---
 
@@ -621,24 +531,6 @@ They said Sri Lanka’s economic recovery and stability have helped customers to
 [Data](articles/9dbd8d58.json)
 
 [Extended Data](ext_articles/9dbd8d58.ext.json)
-
----
-
-### Police seized two jeeps
-
-*2025-09-20 13:41:11* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘති-වෙනස්-කර-නීති-විරෝධි-ලෙස-එකලස්-කරමින්-සිටි-ජීප්-රථ-දෙකක්-පොලිස්-භාරයට/11-418620) · `si`
-
-Two jeeps were taken into custody by the Norwood Police Traffic Officer by changing the original format and unlawful vehicles.
-
-The Nuwara Eliya District car investigative Jays, the two jeps have been planned to be sold by a collection of old iron materials in Norwood.
-
-The Norwood Police Traffic Officer has issued an order to the Government Task Inspector by the officials of the Norwood Police, the officials of the Norwood Police, to the Government Task Inspector by the officials of the Norwood Police.
-
-◼️
-
-[Data](articles/82ada052.json)
-
-[Extended Data](ext_articles/82ada052.ext.json)
 
 ---
 
@@ -2071,5 +1963,99 @@ The satellite was launched to the International Space Station (ISS) on the "SPX3
 [Data](articles/6fbee0bc.json)
 
 [Extended Data](ext_articles/6fbee0bc.ext.json)
+
+---
+
+### China’s entry into SAARC: Gateway to South Asian prosperity
+
+*2025-09-19 23:24:46* · [`dailyftlk`](https://www.ft.lk/columns/China-s-entry-into-SAARC-Gateway-to-South-Asian-prosperity/4-781934) · `en`
+
+A SAARC revitalised by Chinese membership would cease to be a peripheral talking shop and become a formidable actor on the world stage
+
+“China as a full member of SAARC? At first, the idea may sound bold, even strange. But it could be the spark the region needs to move forward. For years, SAARC has carried a huge promise; a platform to connect markets, people, and ideas across South Asia. Yet political tensions have often slowed its progress. Bringing China into the fold could give SAARC fresh energy, new opportunities, and a stronger voice in the world.”
+
+China’s entry could change that. With its huge economy, global influence, and experience in building connections, China can inject new life into SAARC. It could open bigger trade opportunities, boost regional projects, and make SAARC more visible on the world stage.
+
+...
+
+[Data](articles/7fec49cc.json)
+
+[Extended Data](ext_articles/7fec49cc.ext.json)
+
+---
+
+### Tunit Vellalale to go back to Tubai
+
+*2025-09-19 23:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-டுபாய்-செல்லும்-துனித்-வெல்லாலகே/175-364941) · `ta`
+
+Sri Lanka Cricket has announced that it will travel to Dubai tonight, Dunit Vellalake, who visited the country due to his father's death.
+
+◼️
+
+[Data](articles/a2950214.json)
+
+[Extended Data](ext_articles/a2950214.ext.json)
+
+---
+
+### Response to Mahinda Rajapaksa: It is  not personal revenge or political terrorism
+
+*2025-09-19 23:22:45* · [`dailyftlk`](https://www.ft.lk/columns/Response-to-Mahinda-Rajapaksa-It-is-not-personal-revenge-or-political-terrorism/4-781933) · `en`
+
+Leaders like Mahinda Rajapaksa created dependency networks, protected corruption, and prioritised personal luxury over public good
+
+The Government has now revealed that between 2017 and mid-2025, Rs. 491.2 million was spent on the upkeep of former presidents and their widows. Of this staggering sum, Mahinda Rajapaksa’s share alone was approximately Rs. 231 million—nearly half the total. His list of privileges reads like a manual of extravagance: 111 staff members, including nine medical personnel, eight drivers, five mechanics, 16 chefs, 26 electricians, and even a dog handler. The residence he occupied had a rental value of more than Rs. 4.6 million a month. Just imagine! Many people and families live without proper shelter, a harsh reality on the ground
+
+...
+
+[Data](articles/c7abea2e.json)
+
+[Extended Data](ext_articles/c7abea2e.ext.json)
+
+---
+
+### Trump and Xi make progress on TikTok deal, plan to meet in South Korea
+
+*2025-09-19 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112689/trump-and-xi-make-progress-on-tiktok-deal-plan-to-meet-in-south-korea) · `en`
+
+U.S. President Donald Trump said he and Chinese President Xi Jinping made progress on a TikTok agreement and pledged to meet face-to-face in just over a month in South Korea.
+
+The two sides appeared to lower tensions during the first call in three months between the leaders of the two superpowers, but it was not immediately clear if the call had yielded the expected firm agreement over the fate of the popular short-video app.
+
+Trump did say the leaders agreed to talks on the sidelines of the Asia-Pacific Economic Cooperation forum that starts on October 31 in Gyeongju, South Korea, and for a potential later visit to China by Trump. Reuters previously reported that the two sides were planning such a meeting.
+
+“We made progress on many very important issues including Trade, Fentanyl, the need to bring the War between Russia and Ukraine to an end, and the approval of the TikTok Deal,” Trump wrote on social media.
+
+...
+
+[Data](articles/422c1a6d.json)
+
+[Extended Data](ext_articles/422c1a6d.ext.json)
+
+---
+
+### Drone stroke on Sudan mosque kills 78, medic tells BBC
+
+*2025-09-19 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112688/drone-stroke-on-sudan-mosque-kills-78-medic-tells-bbc) · `en`
+
+More than 70 people have been killed following a drone strike on a mosque in Sudan’s Darfur region, a senior medical source has told the BBC.
+
+Friday’s attack in the city of el-Fasher has been blamed on the paramilitary Rapid Support Forces (RSF), but the group has not taken responsibility.
+
+The RSF and the army have been engaged in a ferocious civil war for more than two years.
+
+The paramilitaries are gaining ground as they fight to seize complete control of el-Fasher - the last army stronghold in Darfur and home to more than 300,000 civilians who have been trapped by the fighting.
+
+One resident told the BBC the drone struck during morning prayers, killing dozens of people instantly.
+
+The medical source said 78 died and about 20 were injured, but the process of extracting the bodies from the rubble of the building was still ongoing.
+
+BBC Verify has authenticated footage showing around 30 bodies wrapped in shrouds and blankets next to the mosque, which was located in the west of the city.
+
+...
+
+[Data](articles/7a100d7c.json)
+
+[Extended Data](ext_articles/7a100d7c.ext.json)
 
 ---

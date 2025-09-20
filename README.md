@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 13:05:49**
+As of **2025-09-20 12:54:13**
 
 ## Newspaper Stats
 
-*Scraped **77,070** Articles*
+*Scraped **77,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,494
+adalk | 7,493
 adaderanalk | 9,952
 tamilmirrorlk | 11,586
 virakesarilk | 12,528
@@ -26,37 +26,31 @@ adaderanasinhalalk | 13,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,530 (99.3%) of 77,070 articles have been extended.
+76,506 (99.3%) of 77,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### Sexual abuse at a school with special needs in the Anuradhapura
+### අනුරපුරයේ විශේෂ අවශ්‍යතා සහිත දරුවන් සිටින පාසලක සිදුවූ ලිංගික අපයෝජන
 
 *2025-09-20 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214787) · `si`
 
-A special needs should be paid to all citizens of the society, but they are bullied.
+විශේෂ අවශ්‍යතා සහිත දරුවෙකු සමාජයේ සියලු පුරවැසියන්ගෙන් විශේෂ අවධානයට ලක්විය යුතු වුවත් ඔවුන්ට හිරිහැර සිදුවන අවස්ථා පිළිබඳ දිනෙන් දින වාර්තා වෙයි.
 
-Special needs in Anuradhapura have been paid special attention to these children's children and the misconduct of abuse.
+අනුරාධපුර ප්‍රදේශයේ විශේෂ අවශ්‍යතා සහිත දරුවන් ඉගෙනුම විදුහලක එම දරුවන්ට සිදුවන අකටයුතුකම්, අපචාර සම්බන්ධයෙන් අනුරාධපුර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී ද ඊයේ විශේෂ අවධානයට ලක්වුණි.
 
-Located in Anuradhapura, the special needs of the school are learning children with special needs.
+අනුරාධපුර නගරයේ පිහිටා ඇති මෙම විශේෂ විදුහලේ විශේෂ අවශ්‍යතා සහිත දරුවන් ඉගෙනුම ලබයි.
 
-The school, which is studying for nearly 69 female and boys, is maintained by a private company and its administration is administered by a governing body.
+ගැහැණු සහ පිරිමි දරුවන් 69කට ආසන්න ප්‍රමාණයක් අධ්‍යාපනය හදාරන මෙම පාසල, පෞද්ගලික ආයතනයක් විසින් නඩත්තු වන අතර එහි පරිපාලනය සිදුකරන්නේ පාලක මණ්ඩලයක් හරහාය.
 
-This is monitored under the Department of Social Services Department of the North Central Province.
+උතුරු මැද පළාත් සමාජ සේවා දෙපාර්තමේන්තුව යටතේ මෙය අධීක්ෂණය කෙරේ.
 
-Sadly, a group of children who have special needs come to study their future and have sexual abuse and harassment.
+කණගාටුවට කරුණ නම්, විශේෂ අවශ්‍යතා ඇති දරුවන් පිරිසක් සිය අනාගතය ගොඩනැගීම අරමුණු කරගමින් අධ්‍යාපනය හැදෑරීමට මෙම පාසලට පැමිණියත් එහිදී ලිංගික අපචාරයන්ට හා විවිධ හිරිහැරවලට ලක්වීමය.
 
-The Treasurer who was the treasurer of the school were remanded until the 29th of this month.
-
-The unbelievable parents had been protesting recently to consequences the governing body of the school.
-
-◼️
+...
 
 [Data](articles/6b18d2a1.json)
-
-[Extended Data](ext_articles/6b18d2a1.ext.json)
 
 ---
 
@@ -121,24 +115,6 @@ It is reported that Palestine is also planned to be recognized as a separate sta
 [Data](articles/2ce5b3d6.json)
 
 [Extended Data](ext_articles/2ce5b3d6.ext.json)
-
----
-
-### ජවිපෙ දේශපාලනය කරන්නේ මුකුත්ම නැති මුකුත්ම බැරි පිරිසක් නෙමෙයි
-
-*2025-09-20 10:58:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපෙ-දේශපාලනය-කරන්නේ-මුකුත්ම-නැති-මුකුත්ම-බැරි-පිරිසක්-නෙමෙයි/11-418617) · `si`
-
-ජනතා විමුක්ති පෙරමුණ තුළ දේශපාලනය කරන්නේ කිසිම වත්කමක් හෝ නොමැති පිරිසක් නොමැති බවත් විවිධ වෘත්තීන්වල නියැලී සිටි පිරිස් පක්ෂයේ දේශපාලය කරන බවත් බවත් නියෝජ්‍ය අමාත්‍ය සුසිල් රණසිංහ මහතා පැවැසීය.
-
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ එප්පාවල පැවති උත්සවයකින් අනතුරුව මාධ්‍යය වෙත අදහස් දක්වමින්ය.
-
-"මන්ත්‍රීවරුන්ගේ, ඇමතිවරුන්ගේ වත්කම් - බැරකම් ප්‍රසිද්ධ කරන එක හොඳයි, අපේ රටේ ආන්දෝලනයකට තුඩු දුන්න කාරණයක් තමයි මේ දේශපාලනයෙන් හොරකම් කරනවා කියන එක. ඇමතිකම, මන්ත්‍රීකම පාවිච්චි කරලා හොරකම් කරනවා, වත්කම් අත්පත් කර ගන්නවා කියන එක, නීතීය සම්මත කලෙත් අපි, මන්ත්‍රීවරුන්ගේ ඇමතිවරුන්ගේ වත්කම් -බැරකම් ප්‍රසිද්ධ කළ යුතුයි කියලා.
-
-දැන් ජනතාවට පුලුවන් අවුරුද්දක් ගිය පසු ආයේ අපි වත්කම්- බැරකම් ප්‍රකාශයට පත් කරනවා, එතකොට මේ ඇමතිකම්, රජය පාවිච්චි කරලා දේපළ රැස් කරාද කියන එක හොයා ගන්න පුලුවන්, කොහොමටත් අපි ජාතික ජන බලවේගයේ හෝ ජනතා විමුක්ති පෙරමුණේ දේශපාලනය කරන කට්ටිය මුකුත්ම නැති, මුකුත්ම බැරි පිරිසක් නෙමෙයි.
-
-...
-
-[Data](articles/86488707.json)
 
 ---
 
@@ -2065,5 +2041,25 @@ They belong to the Kagal and Welioia areas. According to police, one of the susp
 [Data](articles/d2b700d8.json)
 
 [Extended Data](ext_articles/d2b700d8.ext.json)
+
+---
+
+### Sanath tells you a father who is a donor
+
+*2025-09-19 16:05:02* · [`adalk`](https://www.ada.lk/sports/දුනිත්ට-පියෙක්-වන-බව-සනත්-කියයි/9-418611) · `si`
+
+Sri Lanka Cricket Chief Trainer Sanath Jayasuri says he is deeply grieving as a man who has raised a son who has a son proud of the nation.
+
+Sri Lanka's three-post cricketers, Dugar, a note of his Facebook account, says this regarding the death of his Father's father.
+
+"Duti, your father was a cricketer, and he could really be proud of his own son. His values, his love and his soul live through you. I know you know how strong you are, and I have no doubt that you will proudly win many matches for Sri Lanka.
+
+Keep in mind that this difficult moment, you're not single. Like a father I am for you - guiding you, standing with you, and support you every step. Every group, nation and everyone who loves this game are on your side. "The Sanath's Facebook also states:
+
+◼️
+
+[Data](articles/b7337ac3.json)
+
+[Extended Data](ext_articles/b7337ac3.ext.json)
 
 ---

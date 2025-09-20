@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 23:20:27**
+As of **2025-09-20 22:53:23**
 
 ## Newspaper Stats
 
-*Scraped **77,135** Articles*
+*Scraped **77,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,88 +17,20 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,500
-adaderanalk | 9,965
+adaderanalk | 9,964
 tamilmirrorlk | 11,592
-virakesarilk | 12,544
+virakesarilk | 12,541
 adaderanasinhalalk | 13,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,949 (99.8%) of 77,135 articles have been extended.
+76,947 (99.8%) of 77,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### எதிர்க்கட்சிகள் ஒருமித்து மாகாணசபைகளைக் கைப்பற்றுவோம் விரைவில் தேர்தலை நடத்துமாறு தயாசிறி அரசாங்கத்துக்கு சவால்
-
-*2025-09-20 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225615) · `ta`
-
-மாகாணசபைத் தேர்தலை நடத்துமாறு அரசாங்கத்துக்கு சவால் விடுக்கின்றோம். 9 மாகாணசபைகளில் பெரும்பான்மையானவற்றை ஒருமித்து நாம் கைப்பற்றுவோம். அதற்காக வேலைத்திட்டங்களை இப்போதிருந்தே ஆரம்பிப்பதற்கு அனைத்து எதிர்க்கட்சிகளுக்கும் அழைப்பு விடுப்பதாக பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
-
-கொழும்பில் சனிக்கிழமை (20) இடம்பெற்ற ஐக்கிய தேசியக் கட்சியின் 79ஆவது சம்மேளனத்தில் கலந்து கொண்டு உரையாற்றியபோது அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-பிரிந்தால் தோல்வி என்பது கடந்த தேர்தல்களில் எமக்கு நன்றாக புரிய வைக்கப்பட்டது. ஐ.தே.க.விலேயே பிளவுகள் ஆரம்பித்தன. 77 ஆண்டுகளின் பின்னர் பிளவுகளை ரணில் விக்கிரமசிங்கவால் சரி செய்ய முடிந்துள்ளது. கட்சிகள் பிளவடைந்தாலும் நாட்டில் ஜனநாயகம் பாதுகாக்கப்பட்டது. பல தசாப்தங்கள் நாடு அபிவிருத்தியடைவதை தடுத்துக் கொண்டிருந்தவர்கள் இளைஞர்களை மூளை சலவை செய்துள்ளனர்.
-
-...
-
-[Data](articles/fed93df1.json)
-
----
-
-### Kush and Hashish worth over Rs. 16.8M found in bathroom at BIA
-
-*2025-09-20 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112710/kush-and-hashish-worth-over-rs-168m-found-in-bathroom-at-bia) · `en`
-
-A large consignment of narcotics estimated to be worth approximately Rs. 16.84 million was discovered today (20) in the men’s bathroom of the arrivals terminal at Bandaranaike International Airport (BIA), Katunayake.
-
-The haul included 422 grams of Kush cannabis and 1.262 kilograms of Hashish with an estimated street value of around Rs. 16,840,000, said Ada Derana reporter.
-
-The discovery was initially made by a cleaning staff member, who noticed the suspicious parcels and promptly alerted officers of the Airport Customs’ Narcotics Control Division.
-
-The case was then referred to the Police Narcotics Bureau (PNB) officers attached to the airport, who subsequently took the consignment into their custody.
-
-The Katunayake Airport Police Narcotics Bureau has commenced further investigations into the incident.
-
-◼️
-
-[Data](articles/e92527f2.json)
-
----
-
-### ஐக்கிய தேசியக் கட்சிக்கு சஜித் பிரேமதாச வாழ்த்து
-
-*2025-09-20 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225614) · `ta`
-
-ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச, ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவை முன்னிட்டு வாழ்த்துத் தெரிவித்துள்ளார்.
-
-தனது வாழ்த்துச் செய்தியில், இலங்கையின் சுதந்திரப் போராட்டத்திற்குப் பெரும் பங்காற்றிய சிலோன் தேசிய காங்கிரஸின் அனுபவத்தைக் கொண்டு டி.எஸ். சேனாநாயக்கவால் ஐக்கிய தேசியக் கட்சி நிறுவப்பட்டதை நினைவு கூர்ந்துள்ளார்.
-
-சிங்களவர்கள், தமிழர்கள், முஸ்லிம்கள், பர்கர்கள், மலாய்கள் உள்ளிட்ட பல்வேறு சமூகங்களையும் ஒன்றிணைத்து, பொதுவான தேசிய இலக்கை நோக்கிப் பணியாற்றியதில் ஐக்கிய தேசியக் கட்சியின் பங்கு மிக முக்கியமானது என அவர் வலியுறுத்தியுள்ளார்.
-
-ஐக்கிய தேசியக் கட்சி நாட்டுக்கு ஆற்றிய சேவை அளப்பரியது எனக் குறிப்பிட்ட சஜித் பிரேமதாச, இன்றைய சூழலில் இலங்கையின் ஜனநாயகத்தைப் பாதுகாக்க அனைத்துக் கட்சிகளும் ஒன்றிணைந்து செயல்பட வேண்டும் என்றும் கேட்டுக்கொண்டுள்ளார்.
-
-◼️
-
-[Data](articles/d6af829e.json)
-
----
-
-### பங்களாதேஷ் அணிக்கு வெற்றி இலக்காக 169 ஓட்டங்கள் நிர்ணயம்
-
-*2025-09-20 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225613) · `ta`
-
-ஆசிய கிண்ண கிரிக்கெட் டி20 தொடரின் சூப்பர் 4 சுற்றின் முதலாவது போட்டியான இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கு இடையிலான போட்டியில், நாணய சுழற்சியில் வென்ற பங்களாதேஷ் அணி கெப்டன் லிட்டன் தாஸ் அவர் முதலில் பந்து வீச முடிவு செய்தார்.
-
-அதன்படி, முதலில் துடுப்பெடுத்தாடிய இலங்கை அணி 20 ஓவர்கள் முடிவில் 7 விக்கெட் இழந்து 168 ஓட்டங்களை பெற்றது.
-
-◼️
-
-[Data](articles/63f7dff2.json)
-
----
 
 ### A target of 169 runs to Bangladesh
 
@@ -169,8 +101,6 @@ Allied forces targeted Hong Kong in air raids to disrupt Japanese supply lines.
 ◼️
 
 [Data](articles/bc5bf8c7.json)
-
-[Extended Data](ext_articles/bc5bf8c7.ext.json)
 
 ---
 
@@ -2105,5 +2035,87 @@ In reply, Oman lost 4 wickets at the end of their 20 overs and lost only 167 run
 [Data](articles/02577071.json)
 
 [Extended Data](ext_articles/02577071.ext.json)
+
+---
+
+### Five fishermen arrested in the Talaimannar seas
+
+*2025-09-20 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225556) · `ta`
+
+The Mannar Magistrate on Friday [19] ordered the five Indian fishermen who were arrested and detained in the Talaimannar seas as they entered the Sri Lankan waters.
+
+Last June, Sri Lankan navy arrested Indian trawlers and 5 Indian fishermen from sea patrols while they were fishing in the Sri Lankan waters last June.
+
+The magistrate had ordered the fishermen to be interrogated after the department officials were produced in court after inquiries.
+
+The case was taken up again for an hearing on Friday (19).
+
+The Mannar Magistrate, who investigated the inquiry, ordered the re -remand of the five fishermen in this month.
+
+◼️
+
+[Data](articles/8e3267ef.json)
+
+[Extended Data](ext_articles/8e3267ef.ext.json)
+
+---
+
+### Selvaraj - CWC leader Senthil Thondaman meets
+
+*2025-09-20 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225555) · `ta`
+
+Selvaraj, National Coordinator of the Indian Pantheon Farmers Association, met with CWC leader Senthil Thondaman today at Chaumiyapavan, headquarters of the Ceylon Workers Congress in Colombo.
+
+During the meeting, when the hill plantation workers who traveled from Sri Lanka to India from India were removed from the Gardens of the Nilgiris district in India, they had the opportunity to be re -established by CWC leader Senthil Thondaman.. Selvaraj thanked Senthil Thondaman for that.
+
+The CWC leader has met with the Chief Minister of Tamil Nadu and the Chief Minister of Kerala in the past.
+
+Moreover, as the lease was completed by the Forest Department in the Nilgiris district, Senthil Thondaman appealed to Senthil Thondaman to visit the Nilgiris and negotiate with the forest department in the name of 2 acres of plantation workers to farm.
+
+...
+
+[Data](articles/594e2e55.json)
+
+[Extended Data](ext_articles/594e2e55.ext.json)
+
+---
+
+### Suspect arrested for a long time in Jaffna
+
+*2025-09-20 02:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225554) · `ta`
+
+A 22 -year -old suspect, who has been involved in heroin for a long time, has been arrested on Friday (19) with 2 grams of heroin in a 5 -storey area in Jaffna.
+
+The arrest was carried out by the police on duty at the Kurunagar Police Police, on the basis of confidential information received by the Police Intelligence Unit, which is under the Jaffna District Senior Superintendent of Police.
+
+Police are taking steps to bring the suspects in court after investigations.
+
+◼️
+
+[Data](articles/918dbda7.json)
+
+[Extended Data](ext_articles/918dbda7.ext.json)
+
+---
+
+### Take immediate action for cattle built on the streets - pain. Emphasize the West Pradeshiya Sabha!
+
+*2025-09-20 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225553) · `ta`
+
+Valikamam West Pradeshiya Sabha member J. Duvaraka has demanded immediate action for cattle being built on the streets and cattle on the streets.
+
+The monthly session of the Valikamam West Pradeshiya Sabha was held on Friday (19) chaired by the Chairman. In the meantime he made this request. There he further stated,
+
+Livestock its owners build on the streets with long ropes. This results in accidents due to the rope traffic and the livestock when they go from one side to the other side.
+
+The Chettiar Madam junction was trapped in a rope of a cow while traveling from Vaddukoddai to Jaffna yesterday. There was no dangers because it was a big vehicle. If this was a motorcycle or a bicycle, there would have been a massive accident.
+
+There are more casualties that can cause such accidents. He urged the immediate awareness of this.
+
+◼️
+
+[Data](articles/78c80929.json)
+
+[Extended Data](ext_articles/78c80929.ext.json)
 
 ---

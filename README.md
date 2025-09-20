@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 19:06:35**
+As of **2025-09-20 18:56:13**
 
 ## Newspaper Stats
 
-*Scraped **77,117** Articles*
+*Scraped **77,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,17 @@ adalk | 7,498
 adaderanalk | 9,961
 tamilmirrorlk | 11,590
 virakesarilk | 12,539
-adaderanasinhalalk | 13,465
+adaderanasinhalalk | 13,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,796 (99.6%) of 77,117 articles have been extended.
+76,795 (99.6%) of 77,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### තැපෑල ගොඩගන්න ලබන අයවැයේදීත් සැලකිය යුතු මුදලක් - අමාත්‍ය නලින්ද
-
-*2025-09-20 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214803) · `si`
-
-පවතින තැපැල් කාර්යාල, උප තැපැල් කාර්යාල නවීකරණය සඳහා වත්මන් රජය මුදල් වෙන් කරනවා සේම එළැඹෙන අයවැය මගින්ද තැපැල් සේවාව නගා සිටුවීම සඳහා සැලකිය යුතු මුදලක් වෙන් කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අමාත්‍යවරයා මේ බව පැවසුවේ රුපියල් මිලියන 4.23ක ඇස්තමේන්තුගත වියදමින් හම්බන්තොට දිස්ත්‍රික්කයේ බඳගිරි කොලණිය උප තැපැල් කාර්යාල නව ගොඩනැගිල්ල ඉදිකිරීම සඳහා මුල්ගල තැබීමේ අවස්ථාවට අද (20) එක්වෙමිනි.
-
-එහිදී අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ ජනතා බදු මුදල් ජනතා සුඛවිහරණය සඳහාම සැළසුම් සහගතව යොදවන බවය.
-
-එමෙන්ම නව තැපැල් කාර්යාල සඳහා මුල්ගල තැබූ අවස්ථාවේ සිටම ගොඩනැගිලි ඉදිකිරීම් ආරම්භ වන බවත් වර්තමාන රජය තබන මුල්ගල් පැලවන මුල්ගල් නොවන බවද අමාත්‍යවරයා මෙහිදී අදහස් දක්වමින් පැවසීය.
-
-...
-
-[Data](articles/3cbc0056.json)
-
----
 
 ### ගුවන්තොටුපොළේ වැසිකිළියක තිබී  කෝටි ගාණක මත්ද්‍රව්‍ය සොයා ගනී
 
@@ -70,25 +52,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Cyber ​​attack interferes with many airports in Europe
+### සයිබර් ප්‍රහාරයකින් යුරෝපයේ ගුවන්තොටුපොළ රැසක කටයුතුවලට බාධා
 
 *2025-09-20 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214801) · `si`
 
-Due to a cyber attack, Europe's headquarters had been interrupted in many airports.
+සයිබර් ප්‍රහාරයක් හේතුවෙන් යුරෝපයේ ප්‍රධානපොළේ ගුවන් තොටුපොළ රැසක කටයුතුවලට බාධා පැමිණ තිබේ.
 
-Foreign media reports that the work of Hathare, Brussels, Berlin, has been disrupted.
+හීතෘ, බ්‍රසල්ස්, බර්ලින්, ඇතුළු ගුවන්තොටුපොළ රැසක කටයුතු මේ හේතුවෙන් අඩාල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
-The cyber attack was launched using an online internet system that provides services to the aircraft.
+ගුවන් යානා වෙත මගීන් ඇතුළත් කර ගැනීමට අදාළ සේවා සපයන අන්තර්ජාල පද්ධතියක් ඉළක්ක කර ගනිමින් මෙම සයිබර් ප්‍රහාරය එල්ල වී ඇති බව සඳහන්ය.
 
-It is reported that air travel delays and canceled have also occurred.
+මේ හේතුවෙන් ගුවන් ගමන් ප්‍රමාදයන් හා අවලංගු වීම් ද සිදුව ඇති බව වාර්තා වෙයි.
 
-However, the airport authorities have stated that steps will be taken to recover the situation.
+කෙසේ වෙතත් ඇති වූ තත්ත්වය කඩිනමින් යථා තත්ත්වයට පත් කිරීම සඳහා පියවර ගන්නා බව එම ගුවන් තොටුපොළ බලධාරීන් ප්‍රකාශ කර තිබේ.
 
 ◼️
 
 [Data](articles/ade601f6.json)
-
-[Extended Data](ext_articles/ade601f6.ext.json)
 
 ---
 
@@ -2081,5 +2061,21 @@ But I only really got to know him when I went to the UK for my higher studies, a
 [Data](articles/e7411991.json)
 
 [Extended Data](ext_articles/e7411991.ext.json)
+
+---
+
+### Similarities and differences of three recent uprisings in South Asia: Lesson for democracies
+
+*2025-09-19 23:26:58* · [`dailyftlk`](https://www.ft.lk/columns/Similarities-and-differences-of-three-recent-uprisings-in-South-Asia-Lesson-for-democracies/4-781935) · `en`
+
+Taken together, these uprisings demonstrate both the resilience and the fragility of democracy in South Asia. They remind us that popular sovereignty is not exercised only at the ballot box but also in the streets when institutions falter. Repression corrodes legitimacy, while timely engagement can transform dissent into democratic renewal. For democracies everywhere, the lesson is clear: listen to citizens before the street becomes the only forum for dialogue
+
+South Asia is living through an era of popular uprisings that has reshaped the political vocabulary of the region. In Colombo, Dhaka and Kathmandu, ordinary citizens—many of them strikingly young—have turned public squares into stages for democratic confrontation. These movements differ in their national contexts and immediate triggers, yet together they illuminate how people power can both rescue and test democratic institutions.
+
+...
+
+[Data](articles/984139e5.json)
+
+[Extended Data](ext_articles/984139e5.ext.json)
 
 ---

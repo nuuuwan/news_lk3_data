@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 11:07:31**
+As of **2025-09-20 10:55:22**
 
 ## Newspaper Stats
 
-*Scraped **77,063** Articles*
+*Scraped **77,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,492
+adalk | 7,491
 adaderanalk | 9,951
 tamilmirrorlk | 11,585
 virakesarilk | 12,528
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,446
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,467 (99.2%) of 77,063 articles have been extended.
+76,444 (99.2%) of 77,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -301,20 +301,6 @@ However, 114 persons have been arrested and implemented into the law.
 [Data](articles/7fccebb9.json)
 
 [Extended Data](ext_articles/7fccebb9.ext.json)
-
----
-
-### රාජ්‍ය මුද්‍රණ ලොක්කාගේ අනුමැතය නොමැතිව නිලධාර‍ින් පහක් ලක්ෂ 102ක මැතිවරණ දීමනා ලබාගෙන
-
-*2025-09-20 08:35:02* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මුද්‍රණ-ලොක්කාගේ-අනුමැතය-නොමැතිව-නිලධාර‍ින්-පහක්-ලක්ෂ-102ක-මැතිවරණ-දීමනා-ලබාගෙන/11-418615) · `si`
-
-ආයතන අධ්‍යක්ෂ ජනරාල්ගේ අනුමැතියකින් තොරව ඉකුත් වර්ෂයේ (2024) පැවැත්වු මැතිවරණ සදහා  රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ  විධායක ශ්‍රේණියේ නිලධාරින් පස්දෙනෙකු  විසින් මැතිවරණ දිමනා මුදල් වශයෙන් රුපියල්  එක්කෝටි,දෙලක්ෂ,විසිහතරදහස්,හාරසියවිසිදෙකක මුදලක් (10,224,422)  ලබාගෙන ඇති බැව්  අනාවරණය වි ඇත.
-
-2024 වර්ෂයේ දි මැතිවරණ කටයුතු සදහා ගෙවනු ලැබු මැතිවරණ දිමනා පිළිබද විගණන කාර්යාලය මගින් කරණු ලැබු නියැදි පරික්ෂාවේ දි  මෙම තොරතුරු අනාවරණය වි ඇත.
-
-...
-
-[Data](articles/4c7e5f06.json)
 
 ---
 
@@ -2059,5 +2045,31 @@ The petition names the Director of the CID, the Inspector General of Police, the
 [Data](articles/60429b55.json)
 
 [Extended Data](ext_articles/60429b55.ext.json)
+
+---
+
+### Police suffered a special report on Kehelbaradara Padma
+
+*2025-09-19 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214760) · `si`
+
+The police were produced before the Colombo Magistrate's Court today (19) at the Colombo Magistrate's Court today (19).
+
+The report was presented to Colombo Additional Magistrate Lahiru Silva.
+
+The Criminal Investigations Department (CID) presented the report to court in response to the court, said the suspect was detained on detention orders.
+
+The police said that the suspect was involved in the murder of Ganejatha Sanjeewa murder, police said.
+
+The suspect was detained by the magistrate whether he was observed by a magistrate.
+
+Responding, the investigating officials stated that the suspect had inspected the suspect by the Fort Magistrate.
+
+Accordingly, the Additional Magistrate also ordered the investigation to investigate the suspect and report to the court.
+
+◼️
+
+[Data](articles/869af459.json)
+
+[Extended Data](ext_articles/869af459.ext.json)
 
 ---

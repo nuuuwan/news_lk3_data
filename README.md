@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 18:40:52**
+As of **2025-09-20 19:06:35**
 
 ## Newspaper Stats
 
-*Scraped **77,115** Articles*
+*Scraped **77,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,95 @@ adalk | 7,498
 adaderanalk | 9,961
 tamilmirrorlk | 11,590
 virakesarilk | 12,539
-adaderanasinhalalk | 13,463
+adaderanasinhalalk | 13,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,790 (99.6%) of 77,115 articles have been extended.
+76,796 (99.6%) of 77,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### සයිබර් ප්‍රහාරයකින් යුරෝපයේ ගුවන්තොටුපොළ රැසක කටයුතුවලට බාධා
+### තැපෑල ගොඩගන්න ලබන අයවැයේදීත් සැලකිය යුතු මුදලක් - අමාත්‍ය නලින්ද
+
+*2025-09-20 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214803) · `si`
+
+පවතින තැපැල් කාර්යාල, උප තැපැල් කාර්යාල නවීකරණය සඳහා වත්මන් රජය මුදල් වෙන් කරනවා සේම එළැඹෙන අයවැය මගින්ද තැපැල් සේවාව නගා සිටුවීම සඳහා සැලකිය යුතු මුදලක් වෙන් කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ රුපියල් මිලියන 4.23ක ඇස්තමේන්තුගත වියදමින් හම්බන්තොට දිස්ත්‍රික්කයේ බඳගිරි කොලණිය උප තැපැල් කාර්යාල නව ගොඩනැගිල්ල ඉදිකිරීම සඳහා මුල්ගල තැබීමේ අවස්ථාවට අද (20) එක්වෙමිනි.
+
+එහිදී අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ ජනතා බදු මුදල් ජනතා සුඛවිහරණය සඳහාම සැළසුම් සහගතව යොදවන බවය.
+
+එමෙන්ම නව තැපැල් කාර්යාල සඳහා මුල්ගල තැබූ අවස්ථාවේ සිටම ගොඩනැගිලි ඉදිකිරීම් ආරම්භ වන බවත් වර්තමාන රජය තබන මුල්ගල් පැලවන මුල්ගල් නොවන බවද අමාත්‍යවරයා මෙහිදී අදහස් දක්වමින් පැවසීය.
+
+...
+
+[Data](articles/3cbc0056.json)
+
+---
+
+### ගුවන්තොටුපොළේ වැසිකිළියක තිබී  කෝටි ගාණක මත්ද්‍රව්‍ය සොයා ගනී
+
+*2025-09-20 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214802) · `si`
+
+රුපියල් එක්කෝටි හැට අට ලක්ෂ හතළිස්දහසක් වටිනා කුෂ් සහ හෂීෂ් මත්ද්‍රව්‍ය තොගයක් කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ, පිරිමි වැසිකිළිය තුළ දමා ගොස් තිබියදී පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් විසින් අද (20) සොයා ගෙන තිබේ.
+
+මෙහි කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 422ක් සහ හෂීෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01යි ග්‍රෑම් 262ක් තිබී සොයා ගෙන ඇත.
+
+වැසිකිළිය පිරිසිදු කිරීමට පැමිණි සේවකයෙකු විසින් මෙම පාර්සල් කිහිපය දැක ඇති අතර ඔහු ඒ පිළිබඳව කටුනායක ගුවන්තොටුපොළ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් දැනුවත් කර තිබේ.
+
+පසුව ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් දැනුවත් කර ඇති අතර ඔවුන් විසින් මෙම මත්ද්‍රව්‍ය තොගය සිය භාරයට ගෙන ඇත.
+
+කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය මෙම සිදුවීම සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/b7295cce.json)
+
+---
+
+### Cyber ​​attack interferes with many airports in Europe
 
 *2025-09-20 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214801) · `si`
 
-සයිබර් ප්‍රහාරයක් හේතුවෙන් යුරෝපයේ ප්‍රධානපොළේ ගුවන් තොටුපොළ රැසක කටයුතුවලට බාධා පැමිණ තිබේ.
+Due to a cyber attack, Europe's headquarters had been interrupted in many airports.
 
-හීතෘ, බ්‍රසල්ස්, බර්ලින්, ඇතුළු ගුවන්තොටුපොළ රැසක කටයුතු මේ හේතුවෙන් අඩාල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the work of Hathare, Brussels, Berlin, has been disrupted.
 
-ගුවන් යානා වෙත මගීන් ඇතුළත් කර ගැනීමට අදාළ සේවා සපයන අන්තර්ජාල පද්ධතියක් ඉළක්ක කර ගනිමින් මෙම සයිබර් ප්‍රහාරය එල්ල වී ඇති බව සඳහන්ය.
+The cyber attack was launched using an online internet system that provides services to the aircraft.
 
-මේ හේතුවෙන් ගුවන් ගමන් ප්‍රමාදයන් හා අවලංගු වීම් ද සිදුව ඇති බව වාර්තා වෙයි.
+It is reported that air travel delays and canceled have also occurred.
 
-කෙසේ වෙතත් ඇති වූ තත්ත්වය කඩිනමින් යථා තත්ත්වයට පත් කිරීම සඳහා පියවර ගන්නා බව එම ගුවන් තොටුපොළ බලධාරීන් ප්‍රකාශ කර තිබේ.
+However, the airport authorities have stated that steps will be taken to recover the situation.
 
 ◼️
 
 [Data](articles/ade601f6.json)
 
+[Extended Data](ext_articles/ade601f6.ext.json)
+
 ---
 
-### දරුවන්ට වැරදි කරන්න දෙමාපියන්ම  අනුබල දීම කණගාටුවට කරුණක්- පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ
+### Sadly, it is sad to support children to make mistakes - Ven. Dimbulkumbura Wimalama Wimaladu Thera
 
 *2025-09-20 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214800) · `si`
 
-අප රටේ බොහෝ දරුවන්ට කුඩා කාලයේ සිටම බොරුව, වංචාව ප්‍රගුණ කිරීමට දෙමාපියන් විසින්ම අනුබල දීම දැඩි ව්‍යසනකාරී හා කණගාටුදායක තත්ත්වයක් බව මල්වතු මහා විහාර පාර්ශ්වයේ අනුනායක පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ පවසති.
+Ven. Dimbulkumbura Wenagala Wanala Chaladhaladhaladhaladhamala, Spowntly disastrous and saddened by parents to many of our children from an early age.
 
-මහනුවර අස්ගිරිය, චන්දානන්ද බෞද්ධ පාසලේ වාර්ෂික ත්‍යාග ප්‍රධාන උත්සවයට සහභාගී වෙමින් උන්වහන්සේ මෙම අදහස් පළ කළහ.
+He expressed these views at the annual rewards of the Chandhananda Buddhist School in Asgiriya, Asgiriya.
 
-උන්වහන්සේ වැඩිදුරටත් පවසා සිටියේ මහනුවර නගරයේ ප්‍රධාන පාසල්වල ළමයින් බහුතරයක් දුර පළාත්වල පදිංචිව සිටින අය බවත් ඔවුන්ගේ දෙමව්පියෝ මහනුවර නගරයේ ජනප්‍රිය ප්‍රධාන පාසල් අසල ලිපිනයන් සොයා ගනිමින් ඒවට මුදල් ගෙවා ව්‍යාජ ලෙස ලියකියවිලි නිර්මාණය කර සිය දරුවන් පාසල්වලට ඇතුළත් කර ඇති බවත් ය.
+He further stated that the majority of children in the major schools in Kandy town have been residening addresses in the city of Kandy.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මල්වතු මහා විහාර පාර්ශ්වයේ අනුනායක පූජ්‍ය දිඹුල්කුඹුරේ විමලධම්ම නාහිමියෝ,
+Speaking further, Ven. Dimbulkumbura Wimaladhame Wimaladesh Thera, Ven.
 
 ...
 
 [Data](articles/96d3cc9d.json)
+
+[Extended Data](ext_articles/96d3cc9d.ext.json)
 
 ---
 
@@ -2039,37 +2081,5 @@ But I only really got to know him when I went to the UK for my higher studies, a
 [Data](articles/e7411991.json)
 
 [Extended Data](ext_articles/e7411991.ext.json)
-
----
-
-### Similarities and differences of three recent uprisings in South Asia: Lesson for democracies
-
-*2025-09-19 23:26:58* · [`dailyftlk`](https://www.ft.lk/columns/Similarities-and-differences-of-three-recent-uprisings-in-South-Asia-Lesson-for-democracies/4-781935) · `en`
-
-Taken together, these uprisings demonstrate both the resilience and the fragility of democracy in South Asia. They remind us that popular sovereignty is not exercised only at the ballot box but also in the streets when institutions falter. Repression corrodes legitimacy, while timely engagement can transform dissent into democratic renewal. For democracies everywhere, the lesson is clear: listen to citizens before the street becomes the only forum for dialogue
-
-South Asia is living through an era of popular uprisings that has reshaped the political vocabulary of the region. In Colombo, Dhaka and Kathmandu, ordinary citizens—many of them strikingly young—have turned public squares into stages for democratic confrontation. These movements differ in their national contexts and immediate triggers, yet together they illuminate how people power can both rescue and test democratic institutions.
-
-...
-
-[Data](articles/984139e5.json)
-
-[Extended Data](ext_articles/984139e5.ext.json)
-
----
-
-### Sri Lanka's third satellite was successfully positioned in the orbit
-
-*2025-09-19 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225550) · `ta`
-
-Arthur C under the Ministry of Science and Technology. The "Birds-X Dragonfly" satellite was successfully launched from the International Space Station (ISS) at 2.15 pm on Friday (19) afternoon.
-
-The satellite was launched to the International Space Station (ISS) on the "SPX33" rocket launched by NASA on August 24. "Birds-X Dragonfly" spacecraft re-orbit Arthur C. Clark was broadcast live at Advanced Technology Institute, and Secretary to the Ministry of Science and Technology Mohamed Navi was the chief guest of the event.
-
-...
-
-[Data](articles/6fbee0bc.json)
-
-[Extended Data](ext_articles/6fbee0bc.ext.json)
 
 ---

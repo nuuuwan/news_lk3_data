@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 00:51:28**
+As of **2025-09-21 00:09:01**
 
 ## Newspaper Stats
 
@@ -26,37 +26,31 @@ adaderanasinhalalk | 13,471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,014 (99.8%) of 77,136 articles have been extended.
+76,979 (99.8%) of 77,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### Sri Lanka beat Bangladesh
+### ශ්‍රී ලංකාව පරදා බංග්ලාදේශයට තියුණු ජයක්
 
 *2025-09-20 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214810) · `si`
 
-Bangladesh began to be a 4 wicket defeat in the face of the Asia Trophy T20 cricket tournament.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ තරග ආරම්භ කරමින් ශ්‍රී ලංකාවට එරෙහිව පැවැති තරගයෙන් කඩුලු 04 ජයක් ලැබීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
 
-Botany Batshiads were able to cross the match to end the match to the match of 169 runs in the Dubai International Cricket Stadium.
+එම තරගයේ කාසියේ වාසිය දිනා ගනිමින් බංග්ලාදේශ නායක ලින්ටන් දාස් පළමුව පන්දු යැවීමට තීරණය කළ අතර ඒ අනුව පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේදී කඩුලු 7ක් දැවී ලකුණු 168ක් රැස් කිරීමට සමත් විය.
 
-Opener Sife Hassan scored 61 runs while the founder batsman scored 58 runs.
+එහිදී දසුන් ශානක පන්දු 37කදී හයේ පහර 6ක් සහ හතරේ පහර 3ක් සමගින් නොදැවී ලකුණු 64ක් රැස් කිරීමට සමත් වූ අතර කුසල් මෙන්ඩිස් ලකුණු 34ක් සහ පැතුම් නිස්සංක ලකුණු 22ක් ලබා ගැනීමට ද සමත් විය.
 
-In addition, the leader Linton (Linton) gathered 23 runs in the innings of Bangladesh in the first phase of the first phase.
+ඒ අනුව ලකුණු 169 ඉලක්කයක් හඹා ගිය බංග්ලාදේශ කණ්ඩායම පන්දුවාර 19යි පන්දු 05ක් තුළ කඩුලු 06ක් දැවී සිය ඉලක්කය හඹා යාමට සමත් විය.
 
-The match was a strong attempt to turn the competition to Sri Lanka.
+එහිදී සයිෆ් හසන් ලකුණු 66ක් සහ ලින්ටන් දාස් ලකුණු 23ක් රැස් කරමින් බංග්ලාදේශ ඉනිම පළමු අදියරේම ශක්තිමත් කිරීම ද සමත් විය.
 
-Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the 20 overs.
-
-Vidasana scored 64 runs in 37 balls with six sixes and three fours.
-
-In addition, Kusal Mendis scored 34 runs and the wishes nissanka 22 runs.
+එමෙන්ම ත්‍රොහිඩ් හිත්‍රොයි ලකුණු 58 ක් ක්ද රැස් කර ගැනීමට සමත් විය.
 
 ◼️
 
 [Data](articles/1b934905.json)
-
-[Extended Data](ext_articles/1b934905.ext.json)
 
 ---
 

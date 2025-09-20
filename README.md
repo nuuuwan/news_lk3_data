@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 00:09:01**
+As of **2025-09-21 01:05:43**
 
 ## Newspaper Stats
 
-*Scraped **77,136** Articles*
+*Scraped **77,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,154 @@ dailyftlk | 5,485
 adalk | 7,500
 adaderanalk | 9,965
 tamilmirrorlk | 11,592
-virakesarilk | 12,544
+virakesarilk | 12,550
 adaderanasinhalalk | 13,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,979 (99.8%) of 77,136 articles have been extended.
+77,028 (99.9%) of 77,142 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-21 (Sunday)
+
+### "பார்த்திபன் திலீபனாக! திலீபன் தியாக தீபமாக!!" ஆவணக் காட்சியகம் திறப்பு
+
+*2025-09-21 00:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225621) · `ta`
+
+தியாக தீபம் திலீபனின் வரலாற்றினை எதிர்கால சந்ததியினருக்கு கடத்தும் முகமாக அவரின் வரலாற்றினை எடுத்தியம்பும் "பார்த்திபன் திலீபனாக! திலீபன் தியாக தீபமாக!!" எனும் தொனிப்பொருளுடன் கூடிய ஆவணக் காட்சியகம் 20ஆம் திகதி சனிக்கிழமை திறந்து வைக்கப்பட்டது.
+
+நல்லூரிலுள்ள தியாக தீபம் திலீபன் நினைவாலயம் முன்றலில் 20ஆம் திகதி சனிக்கிழமை மாலை 6.30 மணியளவில் மாவீரர் பெற்றோர்கள் மற்றும் முன்னாள் போராளிகளின் பங்கேற்புடன் திறந்து வைக்கப்பட்டது.
+
+தியாக தீபம் திலீபனின் பிரதான தூபி முன்றலில் மலரஞ்சலி செலுத்தப்பட்டு வரலாற்று ஆவணக் காட்சியகம் ஆரம்பித்து வைக்கப்பட்டது.
+
+ஆவண காட்சியகத்தில் தியாக தீபம் திலீபனின் திருவுருவச் சிலை மூத்த போராளி பஷீர் காக்காவால் திரை நீக்கம் செய்து வைக்கப்பட்டதுடன் சுடரேற்றி மாலை அணிவித்து மலரஞ்சலி செலுத்தப்பட்டது.
+
+தியாக தீபம் திலீபனின் வரலாற்று புகைப்படங்கள், பத்திரிகை ஆவணங்கள் என்பன தொகுக்கப்பட்டு காட்சிப்படுத்தப்பட்டது.
+
+இதன்போது மாவீரர்களின் பெற்றோர், அரசியல் தலைவர்கள், சிவில் சமூகத்தினர், பொதுமக்கள் என பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/490acba1.json)
+
+---
+
+### அநுரவுக்கும் ஹிட்லருக்கும் பாரிய வேறுபாடில்லை ; பாசிசவாதத்தை தோற்கடிக்கும் வரை ஒன்றிணைந்த பயணம் தொடர வேண்டும் - உதய கம்மன்பில
+
+*2025-09-21 00:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225618) · `ta`
+
+கடும் சர்வாதிகாரியான ஹிட்லருக்கும் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கும் பாரிய வேறுபாடுகள் இல்லை. தாய் நாடு பாசிசவாதத்துக்கு இரையாவதைத் தடுப்பதற்கு எதிர்க்கட்சிகளின் தற்காலின ஒன்றிணைவு நிலையானதாக வேண்டும். ரணில் விக்கிரமசிங்க அதற்கு தலைமைத்துவம் வகிக்க வேண்டும் என பிவிதுரு ஹெல உருமயவின் தலைவர் உதய கம்மன்பில தெரிவித்தார்.
+
+20ஆம் திகதி சனிக்கிழமை கொழும்பில் இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் 79ஆவது சம்மேளனத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+தாய் பாரிய சர்வாதிகார அச்சுறுத்தலை எதிர்கொண்டுள்ள சூழலிலேயே ஐ.தே.க.வின் சம்மேளனம் இடம்பெறுகிறது. இலங்கையானது தொடர்ந்தும் ஜனநாயக நாடாகவே இருக்குமா அல்லது பாசிசவாதத்துக்கு இரையாகுமா என்ற அச்ச நிலைமை ஏற்பட்டுள்ளது. இந்த பாசிசவாதிகள் ஆயுதங்களுடன் ஆட்சியைக் கைப்பற்ற வரும் போது அவற்றை எவ்வாறு எதிர்கொள்வது என்பது எமக்குத் தெரியும். இவர்களை எதிர்கொள்வதற்கு எமது இராணுவத்துக்கு சுயாதீனமான உரிமையுள்ளது.
+
+...
+
+[Data](articles/e14eb7f2.json)
+
+---
+
+### தியாக தீபத்திற்கு அஞ்சலி செலுத்திய ரஜீவன் எம்.பி
+
+*2025-09-21 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225620) · `ta`
+
+நல்லூர் பின் வீதியில் தியாக தீபத்தின் நினைவிடத்திற்கு அருகில் அமைக்கப்பட்டுள்ள தியாக தீபம் திலீபனின் ஆவண காப்பகத்திற்கு நேரில் சென்ற தேசிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர் ஜெ.ரஜீவன் அங்கிருந்த தியாக தீபத்தின் திருவுருவ சிலைக்கு அஞ்சலி செலுத்தி ஆவண காப்பகத்தினை பார்வையிட்டார்.
+
+தியாக தீபத்தின் நினைவுகளை தாங்கிய ஆவண காப்பகம் 20ஆம் திகதி சனிக்கிழமை மாலை திறந்து வைக்கப்பட்ட நிலையில் , ஆவண காப்பகத்திற்கு வருகை தந்து தியாக தீபத்திற்கு அஞ்சலி செலுத்தினார்.
+
+அதேவேளை கடந்த வியாழக்கிழமை தியாக தீபத்தின் நினைவிடத்திற்கு அஞ்சலி செலுத்த சென்ற கடற்தொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகரனை தமிழ் தேசிய மக்கள் முன்னணியினர் இடைமறித்து , அஞ்சலி செலுத்த விடாது திருப்பி அனுப்பி இருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/93bfd1f8.json)
+
+---
+
+### தேர்தல் முறைமைகளில் தேவைற்ற திருத்தங்களுக்கு ஒருபோதும் இடமளியோம் - ரவுப் ஹக்கீம்
+
+*2025-09-21 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225619) · `ta`
+
+தேர்தல் முறைமைகளில் தேவைற்ற திருத்தங்களை முன்வைத்து சிறு கட்சிகளின் பிரதிநிதித்துவத்தை நீக்க நினைத்தால் அது ஆட்சியமைக்க எதிர்பார்த்துள்ளவர்களுக்கும் பேரழிவை ஏற்படுத்தும். இவ்வாறு அநாவசியமாக தேர்தல் முறைமைகளில் திருத்தங்களை மேற்கொள்வதற்கு அரசாங்கத்துக்கு இடமளிக்க கூடாது. இதற்காக எதிர்க்கட்சிகளுக்குள் இணக்கப்பாட்டை ஏற்பாடுத்திக் கொள்ள வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்ரஸ் தலைவர் ரவுப் ஹக்கீம் தெரிவித்தார்.
+
+20ஆம் திகதி சனிக்கிழமை கொழும்பில் இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் 79ஆவது சம்மேளனத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஸ்ரீலங்கா முஸ்லிம் காங்ரஸ் வரலாற்று ரீதியில் ஐக்கிய தேசிய கட்சியுடன் இணைந்து முக்கிய தீர்மானங்களை எடுத்து அச்சுறுத்தல்களுக்கு மத்தியில் பயணித்து வந்த ஒரு கட்சியாகும். உள்ளுராட்சிமன்றத் தேர்தலில் தமது கட்சிக்கு வாக்களிக்காவிட்டால், அவற்றுக்கு நிதி ஒதுக்கப்பட மாட்டாது என ஜனாதிபதி அநுர பகிரங்கமாகவே தெரிவித்திருந்தார். இதேபோன்று ஆளுந்தரப்பிலுள்ள பலரும் பல கதைகளைக் கூறிக் கொண்டிருக்கின்றனர்.
+
+...
+
+[Data](articles/102c11f2.json)
+
+---
+
+### ஜே.வி.பி. ஆட்சியைக் கைப்பற்றுவதற்கு நாமே காரணம் - சாகர காரிவசம்
+
+*2025-09-21 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225617) · `ta`
+
+சுதந்திரத்துக்கு பின்னர் இரு பிரதான முகாம்களே நாட்டில் ஆட்சியமைத்துள்ளன. அவையிரண்டும் அதிகாரத்துக்காக முரண்பட்டுக் கொண்டன. இது நாம் இழைத்த பெருந்தவறாகும். 77 ஆண்டுகளாக நாட்டுக்கு எந்த சேவையும் செய்யாத ஒரு குழு இதனைப் பயன்படுத்திக் கொண்டு ஆட்சியைக் கைற்றியுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பொதுச் செயலாளர் சாகர காரிவசம் தெரிவித்தார்.
+
+20ஆம் திகதி சனிக்கிழமை கொழும்பில் இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் 79ஆவது சம்மேளனத்தில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஐ.தே.க.விலிருந்து முற்றிலும் வேறுபட்ட கொள்கையைப் பின்பற்றும் கட்சியின் செயலாளராக இந்த சம்மேளனத்தில் பங்கேற்றுள்ளேன். சுதந்திரத்துக்கு பின்னர் ஐ.தே.க. அல்லது சுதந்திர கட்சியே நாட்டை ஆட்சி செய்துள்ளது. இந்த இரு முகாம்களும் நாட்டில் பாரிய மாற்றங்களை ஏற்படுத்தியிருக்கின்றன. ஆனாலும் அதிகாரத்துக்காக முரண்பட்டு எமது இரு தரப்புக்களும் பாரிய தவறிழைத்திருக்கின்றன.
+
+...
+
+[Data](articles/97c4fe34.json)
+
+---
+
 ### 2025-09-20 (Saturday)
 
-### ශ්‍රී ලංකාව පරදා බංග්ලාදේශයට තියුණු ජයක්
+### ஆசியக் கிண்ண ரி20 – சூப்பர் 4 சுற்றின் தொடக்கப் போட்டியில் இலங்கையை வீழ்த்திய பங்களாதேஷ் அணி
+
+*2025-09-20 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225616) · `ta`
+
+ஆசிய கிண்ண கிரிக்கெட் ரி20 தொடரின் சூப்பர் 4 சுற்றின் முதலாவது போட்டில் பங்களாதேஷ் அணி இலங்கை அணியை 4 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+
+நாணய சுழற்சியில் வென்ற பங்களாதேஷ் அணி லிண்டன் தாஸ் முதலில் பந்துவீச தேர்வு செய்தார், முதலில் துடுப்பெடுத்தாடிய இலங்கை அணி 20 ஓவர்களில் 7 விக்கெட் இழப்புக்கு 168 ஓட்டங்கள் எடுத்தது.
+
+தாசுன் ஷனகா 37 பந்துகளில் 6 சிக்சர்கள் மற்றும் 3 பவுண்டரிகளுடன் ஆட்டமிழக்காமல் 64 ஓட்டங்கள் எடுத்தார், குசல் மெண்டிஸ் 34 ஓட்டங்களும், பாதும் நிஸ்ஸங்கா 22 ஓட்டங்களும் எடுத்தார்.
+
+அதன்படி, துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 19.5 ஓவரில்தான் 06 விக்கெட்டுகளை இழந்து தனது இலக்கைத் துரத்த முடிந்தது.
+
+சைஃப் ஹசன் 66 ஓட்டங்களும், லிண்டன் தாஸ் 23 ஓட்டங்களும் எடுத்தனர், முதல் கட்டத்திலேயே பங்களாதேஷ் அணி தனது துடுப்பாட்டத்தை வலுப்படுத்தியது. ட்ரோஹிட் ஹீத்ரோவும் 58 ஓட்டங்கள் எடுத்தார்.
+
+அதன்படி, பதில் துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி, 06 விக்கெட்டுகளை இழந்து 19.5 ஓவரில் தனது வெற்றி இலக்கை எட்டியது.
+
+◼️
+
+[Data](articles/58b138a5.json)
+
+---
+
+### Sri Lanka beat Bangladesh
 
 *2025-09-20 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214810) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ තරග ආරම්භ කරමින් ශ්‍රී ලංකාවට එරෙහිව පැවැති තරගයෙන් කඩුලු 04 ජයක් ලැබීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
+Bangladesh began to be a 4 wicket defeat in the face of the Asia Trophy T20 cricket tournament.
 
-එම තරගයේ කාසියේ වාසිය දිනා ගනිමින් බංග්ලාදේශ නායක ලින්ටන් දාස් පළමුව පන්දු යැවීමට තීරණය කළ අතර ඒ අනුව පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේදී කඩුලු 7ක් දැවී ලකුණු 168ක් රැස් කිරීමට සමත් විය.
+Botany Batshiads were able to cross the match to end the match to the match of 169 runs in the Dubai International Cricket Stadium.
 
-එහිදී දසුන් ශානක පන්දු 37කදී හයේ පහර 6ක් සහ හතරේ පහර 3ක් සමගින් නොදැවී ලකුණු 64ක් රැස් කිරීමට සමත් වූ අතර කුසල් මෙන්ඩිස් ලකුණු 34ක් සහ පැතුම් නිස්සංක ලකුණු 22ක් ලබා ගැනීමට ද සමත් විය.
+Opener Sife Hassan scored 61 runs while the founder batsman scored 58 runs.
 
-ඒ අනුව ලකුණු 169 ඉලක්කයක් හඹා ගිය බංග්ලාදේශ කණ්ඩායම පන්දුවාර 19යි පන්දු 05ක් තුළ කඩුලු 06ක් දැවී සිය ඉලක්කය හඹා යාමට සමත් විය.
+In addition, the leader Linton (Linton) gathered 23 runs in the innings of Bangladesh in the first phase of the first phase.
 
-එහිදී සයිෆ් හසන් ලකුණු 66ක් සහ ලින්ටන් දාස් ලකුණු 23ක් රැස් කරමින් බංග්ලාදේශ ඉනිම පළමු අදියරේම ශක්තිමත් කිරීම ද සමත් විය.
+The match was a strong attempt to turn the competition to Sri Lanka.
 
-එමෙන්ම ත්‍රොහිඩ් හිත්‍රොයි ලකුණු 58 ක් ක්ද රැස් කර ගැනීමට සමත් විය.
+Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the 20 overs.
+
+Vidasana scored 64 runs in 37 balls with six sixes and three fours.
+
+In addition, Kusal Mendis scored 34 runs and the wishes nissanka 22 runs.
 
 ◼️
 
 [Data](articles/1b934905.json)
+
+[Extended Data](ext_articles/1b934905.ext.json)
 
 ---
 
@@ -1995,129 +2111,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/9485afe8.json)
 
 [Extended Data](ext_articles/9485afe8.ext.json)
-
----
-
-### People who exit cattle from Gaza
-
-*2025-09-20 07:26:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவிலிருந்து-கால்நடையாக-வெளியேறும்-மக்கள்/50-364945) · `ta`
-
-International media reports that thousands of Palestinians are leaving the region by taking their children and possessions on the coast after Israeli forces entered the city of Gaza.
-
-With Israel's weapons and military vehicles in the northern part of Gaza, people are leaving the south.
-
-The United Nations has said that there are more than six lakh people in Gaza.
-
-In the wake of Israel's action, thousands of Palestinians are out on the coast. (A)
-
-◼️
-
-[Data](articles/1403436a.json)
-
-[Extended Data](ext_articles/1403436a.ext.json)
-
----
-
-### The first rain in the north today
-
-*2025-09-20 06:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-இன்று-முதல்-மழை/175-364944) · `ta`
-
-Nakamuthu Pradeeparajah, head of the Jaffna University Geology Department, said that rainfall is likely in many parts of the Northern and Eastern Provinces from Saturday to many parts of the Northern and Eastern Provinces.
-
-He noted that the rainfall will come from Saturday from Saturday to various parts of the North from moderate to heavy rainfall.
-
-Meteorologist Nakamuthu Pradeeparajah said that the rainfall is due to the rainfall in the afternoon or at night.. (A)
-
-◼️
-
-[Data](articles/1754ee39.json)
-
-[Extended Data](ext_articles/1754ee39.ext.json)
-
----
-
-### Weather today
-
-*2025-09-20 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214776) · `si`
-
-Showers will occur in the Western, Sabaragamuwa, Northern and Northwestern provinces today (20).
-
-The Department of Meteorology issued the latest weather forecast today.
-
-Thundershowers will develop at several places in the Uva and Ampara and Batticaloa Districts and around 1 pm.
-
-From the West Bace areas of the Central Mountains and in the North-Central and North Western provinces, and in the North-Central and North Western provinces.. (30-40) can cause strong winds.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1a9740e4.json)
-
-[Extended Data](ext_articles/1a9740e4.ext.json)
-
----
-
-### Former MP. Kanakasabha has passed away
-
-*2025-09-20 05:10:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பி-கனகசபை-காலமானார்/175-364943) · `ta`
-
-Former Parliamentarian of the Batticaloa District of Batticaloa Tamil National Alliance (TNA), Batticaloa, Batticaloa, Kalutara, died due to his 86th age of 86 years old yesterday (19).
-
-Born on 20.03.2019.03, he contested for the Tamil National Alliance (TNA) in the Batticaloa district in the 2004 general election and was elected to Parliament in the district.
-
-The loss of the Tamil nationalist traveler who traveled to the Tamil nationalism has caused many people to worry.  (a)
-
-◼️
-
-[Data](articles/1a0e67bb.json)
-
-[Extended Data](ext_articles/1a0e67bb.ext.json)
-
----
-
-### Selvaraj -Senthil Thondaman Meeting
-
-*2025-09-20 05:05:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்வராஜ்-செந்தில்-தொண்டமான்-சந்திப்பு/175-364942) · `ta`
-
-Selvaraj, National Coordinator of the Indian Pantheon Farmers Association, met with CWC leader Senthil Thondaman yesterday (19) at Chaumiyapavan, headquarters of the Ceylon Workers Congress in Colombo.
-
-During the meeting, when the hill plantation workers who traveled to India from Sri Lanka from India were removed from India in the Nilgiris district of India in the past, CWC leader Senthil Thondaman had the opportunity to be in the same place.. Selvaraj thanked Senthil Thondaman for that.
-
-The CWC leader has met with the Chief Minister of Tamil Nadu and the Chief Minister of Kerala in the past.
-
-In the Nilgiris district, the leasing period to Tantea in the Nilgiris district has been completed, and once again, Senthil Thondaman requested Senthil Thondaman to come to the Nilgiris and negotiate with the Forest Department in the name of 2 acres of plantation workers.
-
-...
-
-[Data](articles/895ab244.json)
-
-[Extended Data](ext_articles/895ab244.ext.json)
-
----
-
-### Retirement Asia's first female train driving
-
-*2025-09-20 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225558) · `ta`
-
-Sureka Yadav, the first female driver of Asia, is retiring on the 30th of this month, who is a guide to thousands of women.
-
-Sureka Yadav joins the Sattara district of Maharashtra State. Born in a farming family, he joined the Indian Railways in 1989 as a vice -driver.
-
-With this, she became the first woman to be appointed as the train driver not only in India but also in Asia.
-
-Following this, he gradually improved and worked as a freight train driver in 1996. Since 2000, he has worked as a passenger train driver.
-
-In the decade, he operated the first high -speed train of India, the Deccan Queen Model, which runs between Mumbai and Pune.
-
-On March 13, 2023, Solapur - Mumbai Chhatrapati Shivaji achieved the record of being a high -speed train driver by running the Bharat telephone train between the Shivaji railway terminal.
-
-In this case, Sureka Yadav, who has been a 36-year-old driver in the male-dominated Indian railway, is retiring on the 30th (30-09-2025).
-
-...
-
-[Data](articles/88e32f7c.json)
-
-[Extended Data](ext_articles/88e32f7c.ext.json)
 
 ---

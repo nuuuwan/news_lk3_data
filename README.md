@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 09:21:01**
+As of **2025-09-20 09:11:14**
 
 ## Newspaper Stats
 
-*Scraped **77,053** Articles*
+*Scraped **77,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,491
-adaderanalk | 9,950
+adaderanalk | 9,948
 tamilmirrorlk | 11,584
 virakesarilk | 12,524
 adaderanasinhalalk | 13,443
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,379 (99.1%) of 77,053 articles have been extended.
+76,379 (99.1%) of 77,051 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,24 +65,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/da58293b.json)
-
----
-
-### Former TNA MP Thanmanpillai Kanagasabai passes away
-
-*2025-09-20 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112693/former-tna-mp-thanmanpillai-kanagasabai-passes-away-) · `en`
-
-Former Tamil National Alliance (TNA) Member of Parliament for the Batticaloa District, Thanmanpillai Kanagasabai, passed away yesterday (19) at the age of 86.
-
-Kanagasabai, a resident of Kaluthavalai in Batticaloa, was a retired government official.
-
-He contested the 2004 General Election from the Tamil National Alliance (TNA) in the Batticaloa District and was elected to Parliament, securing the highest number of preferential votes.
-
-Details regarding his funeral arrangements will be announced in due course.
-
-◼️
-
-[Data](articles/27e8f1da.json)
 
 ---
 
@@ -125,24 +107,6 @@ The Criminal Investigation Department said that the round was led by the Senior 
 [Data](articles/3a3e7aff.json)
 
 [Extended Data](ext_articles/3a3e7aff.ext.json)
-
----
-
-### “I’ll fulfill my father’s wish and give 100% in Asia Cup” – Dunith Wellalage
-
-*2025-09-20 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112692/ill-fulfill-my-fathers-wish-and-give-100-in-asia-cup-dunith-wellalage) · `en`
-
-Sri Lankan all-rounder Dunith Wellalage has said that his father’s only wish was for him to become a good cricketer and represent the country, and he is determined to fulfill that dream.
-
-Wellalage, who returned to Sri Lanka during the Asia Cup following the sudden demise of his father, made this statement before departing the island this morning (20) to rejoin the national team.
-
-“I have received immense support from my father since childhood. His only wish was for me to become a good player and play for Sri Lanka. I will definitely fulfill that wish.We still have more matches in the Asia Cup, and I hope to give 100% to my team.”
-
-He further said that he had also received great support from Sri Lanka’s Team Coach Sanath Jayasuriya, his teammates including Captain Charith Asalanka, and from everyone in Sri Lanka, and that this encouragement had given him immense strength during that difficult time, for which he was truly grateful.
-
-...
-
-[Data](articles/77934829.json)
 
 ---
 
@@ -2059,5 +2023,37 @@ The driver of Paravurthi in connection with the accident has been arrested by th
 [Data](articles/979081c4.json)
 
 [Extended Data](ext_articles/979081c4.ext.json)
+
+---
+
+### King's side of the queen's side
+
+*2025-09-19 14:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜாவின்-பார்வை-ராணியின்-பக்கம்/175-364921) · `ta`
+
+◼️
+
+[Data](articles/8d2ca02d.json)
+
+[Extended Data](ext_articles/8d2ca02d.ext.json)
+
+---
+
+### Special police unit to investigate foreign employment complaints
+
+*2025-09-19 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214756) · `si`
+
+A special investigation unit has been established at the Head Office of the Sri Lanka Limited.
+
+The unit commenced yesterday (18), 16 police officers have been attached to the unit.
+
+Established in 1985, with the Foreign Employment Authority, "1985, the work of the foreign employment is to solve their complaints successfully and expeditiously.
+
+Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra said that the unit was established to provide relief to the migrant community with immediate solution to complaints and complaints.
+
+...
+
+[Data](articles/2f723688.json)
+
+[Extended Data](ext_articles/2f723688.ext.json)
 
 ---

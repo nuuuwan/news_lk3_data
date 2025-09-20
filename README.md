@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 01:55:11**
+As of **2025-09-21 04:06:04**
 
 ## Newspaper Stats
 
-*Scraped **77,142** Articles*
+*Scraped **77,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,500
 adaderanalk | 9,965
-tamilmirrorlk | 11,592
+tamilmirrorlk | 11,594
 virakesarilk | 12,550
 adaderanasinhalalk | 13,471
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 13,471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,059 (99.9%) of 77,142 articles have been extended.
+77,140 (100.0%) of 77,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### The UN. Presidential speech at the General Assembly
+
+*2025-09-21 03:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பொதுச்-சபையில்-ஜனாதிபதி-உரை/175-364958) · `ta`
+
+President Anura Kumara Dissanayake will address the 79th session of the United Nations General Assembly in New York on Wednesday.
+
+The UN. According to a list of amended temporary speakers, the President will address the afternoon session on the day.
+
+The session will be held from the 23rd to the 29th of this month. (A)
+
+◼️
+
+[Data](articles/ab34351e.json)
+
+[Extended Data](ext_articles/ab34351e.ext.json)
+
+---
+
+### Dadasaheb Phalke Award for Mohanlal
+
+*2025-09-21 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோகன்லாலுக்கு-தாதாசாகேப்-பால்கே-விருது/175-364957) · `ta`
+
+The Central Government has announced the Dadasaheb Phalke Award for Actor Mohanlal for 2023. He is to be presented at the 71st National Awards Ceremony on September 23rd.
+
+Mohanlal is one of the best actors in Indian cinema. He is also a leading actor in Malayalam cinema. He has acted in more than 400 films. He was awarded the 2001 Padma Shri for his contribution to the film industry and the 2019 Padma Bhushan Award.
+
+In this context, the central government has announced the Dadasaheb Phalke Award, which is considered the highest award in Indian cinema, to highlight his unprecedented contribution to cinema.
+
+He is to be presented at the 71st National Awards Ceremony on September 23rd. (A)
+
+◼️
+
+[Data](articles/aae39bb8.json)
+
+[Extended Data](ext_articles/aae39bb8.ext.json)
+
+---
 
 ### "Parthiban Dileepa! Dileepan is a sacrificial torch !!" Gallery
 
@@ -2085,45 +2123,5 @@ The body is to be conducted into the body and Devalese Police are conducting fur
 [Data](articles/9485f92c.json)
 
 [Extended Data](ext_articles/9485f92c.ext.json)
-
----
-
-### Russian jets enter Estonia’s airspace in latest test for NATO
-
-*2025-09-20 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112691/russian-jets-enter-estonias-airspace-in-latest-test-for-nato) · `en`
-
-Three Russian military jets violated NATO member Estonia’s airspace for 12 minutes on Friday in an “unprecedentedly brazen” incursion, its government said, the latest in a series of recent military actions by Russia that have rattled the alliance.
-
-Russia’s Defence Ministry denied its jets violated Estonian airspace, saying they flew over neutral waters.
-
-With tensions already high because of the war in Ukraine, the incursion came just over a week after more than 20 Russian drones entered Polish airspace on the night of September 9-10. That prompted NATO jets to down some of them and Western officials to say Russia was testing the alliance’s readiness and resolve.
-
-It also occurred three days after Russia and Belarus ended their “Zapad-2025” joint military exercises, which included the rehearsal of the launch of Russian nuclear weapons.
-
-...
-
-[Data](articles/3b15d167.json)
-
-[Extended Data](ext_articles/3b15d167.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-20 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112690/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-Several spells of showers will occur in Western, Sabaragamuwa, Northern, and North-western provinces and in Galle, Matara, Kandy, and Nuwara-Eliya districts, the Department of Meteorology said.
-
-Showers or thundershowers will occur at a few places in Uva Province and in Ampara and Batticaloa districts after 1.00 p.m.
-
-Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills and in North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/9485afe8.json)
-
-[Extended Data](ext_articles/9485afe8.ext.json)
 
 ---

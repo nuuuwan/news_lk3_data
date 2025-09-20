@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 19:54:25**
+As of **2025-09-20 20:54:36**
 
 ## Newspaper Stats
 
-*Scraped **77,119** Articles*
+*Scraped **77,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,75 @@ economynextcom | 4,665
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,498
+adalk | 7,499
 adaderanalk | 9,961
 tamilmirrorlk | 11,591
 virakesarilk | 12,539
-adaderanasinhalalk | 13,466
+adaderanasinhalalk | 13,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,860 (99.7%) of 77,119 articles have been extended.
+76,899 (99.7%) of 77,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### නීති විරෝධී ලෙස ධීවර කටයුතු කළ  78ක් නාවික හමුදා භාරයට
+### A minute silence as a Gutarian father as a Giving
+
+*2025-09-20 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214806) · `si`
+
+Duti Welala's father, Suranga, the father of Suranga, has been silenced before the demise of the match today.
+
+The Sri Lankan players will participate in the game of black handy.
+
+◼️
+
+[Data](articles/e55fd4cf.json)
+
+[Extended Data](ext_articles/e55fd4cf.ext.json)
+
+---
+
+### Bangladesh to the coin
+
+*2025-09-20 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214805) · `si`
+
+Bangladesh leader Litton Das was able to gain the advantage of the match against Bangladesh today (20) in the Asia Cup.
+
+The match begins at the Dubai International Cricket Stadium at 8.00 pm.
+
+Meanwhile, Dugar Welelle's resumes of the Sri Lankan team will be resumed during the Asian Trophy due to his father's emergency dey.
+
+◼️
+
+[Data](articles/b6bebe1c.json)
+
+[Extended Data](ext_articles/b6bebe1c.ext.json)
+
+---
+
+### Navy personnel to be illegally fisherman
 
 *2025-09-20 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214804) · `si`
 
-දේශීය ජල තීරය ආවරණය වන පරිදි සිදු කළ විශේෂ මෙහෙයුමක් මගින් තහනම් ධීවර දැල් භාවිතයෙන්, පුපුරණ ද්‍රව්‍ය භාවිතයෙන් සහ විදුලි ආලෝක ධාරා භාවිතයෙන් නීති විරෝධී ලෙස ධීවර කටයුතු කළ සැකකරුවන් 78 දෙනෙකු නාවික හමුදාව සිය භාරයට ගෙන තිබේ.
+The navy has taken over 78 suspects using banned fishing nets using banned fishing nets, using banned fishing nets, using banned fishing nets, using banned fishing nets, using banned fishing nets and electrical lighting.
 
-එමෙන්ම ඩිංගි යාත්‍රා 35ක් සහ බහු දින ධීවර යාත්‍රාවක් ද මෙහිදී නාවික හමුදාව විසින් සිය භාරයට ගෙන ඇත.
+35 digie vessels and a multi day fishing vessel were taken into custody by the Navy.
 
-නීති විරෝධී ධීවර ආම්පන්න සහ පන්න ක්‍රම භාවිතයෙන් සිදු කරණු ලබන ධීවර කටයුතු හේතුවෙන්, සාගර පරිසර පද්ධතියට සිදුවන අහිතකර බලපෑම වැළැක්වීම සඳහා සහ නීත්‍යානුකූල ධීවර කටයුතු ප්‍රචලිත කිරීමේ අරමුණින් මෙම මෙහෙයුම් සිදු කරයි.
+Due to the fisheries carried out using illegal fishing equipment and fisheries, these operations are conducted to prevent the harmful effect on the ocean ecosystem.
 
-ඒ අනුව, නැගෙනහිර නාවික විධානය මඟින් ත්‍රිකුණාමලය කල්ලරාව, වලෙයිතෝට්ටම්, කොකනට් පොයින්ට්, ෆ්ලෑන්ස්ටාෆ් පොයින්ට්, නොර්වේ අයිලන්ඩ්, බොල්ඩර් පොයින්ට්, කෝකිලායි, රෙඩ් රොක්, තුඩුව, විලාවත්ත, ජයනගර් සල්ලිමුනායි, කුච්චවේලි, අඩුක්කුපාඩු සහ කින්නියා යන වෙරළ හා මුහුදු ප්‍රදේශ ආවරණය වන පරිදි අදාළ මෙහෙයුම් ක්‍රියාත්මක කර තිබේ.
+Accordingly, the relevant operations have been carried out covering the beach, Kokanattaf Point, Kokanattaf Point, Kokanatta, Kokanali, Kokanagar, Baldati, Kokanagar, Kokkalai, Kokkalai, Kuchkuvelu and Kinniya.
+
+The operation has also implemented the coverage of Chundikulam and Kanduikadu sea areas and the southeast-naval sailoto system to cover the sea area from Keryathev.
 
 ...
 
 [Data](articles/7c308c28.json)
+
+[Extended Data](ext_articles/7c308c28.ext.json)
 
 ---
 
@@ -173,6 +211,24 @@ The Haggala Wildlife Site Site Site Site Site Site Sites have taken steps to dir
 [Data](articles/3fe08f87.json)
 
 [Extended Data](ext_articles/3fe08f87.ext.json)
+
+---
+
+### ඊශ්‍රායලයේදි අතරමං වූ තරුණයා පවුලේ ඥාතීන්ට භාර දෙයි
+
+*2025-09-20 17:19:22* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලයේදි-අතරමං-වූ-තරුණයා-පවුලේ-ඥාතීන්ට-භාර-දෙයි/11-418621) · `si`
+
+ඊශ්‍රායලයේ රැකියාවක් සඳහා ගොස් අතරමං වී සිටින බවට සමාජ මාධ්‍ය ඔස්සේ තොරතුරු වාර්තා වූ තරුණයා අද (9/20) උදෑසන දිවයිනට පැමිණියේය.
+
+මොණරාගල ප්‍රදේශයේ පදිංචි මෙම තරුණයා ඊශ්‍රායලයේ ඉදිකිරීම් අංශයේ රැකියාවක් සඳහා මෙම වසරේ අගෝස්තු මස 9 දින ඊශ්‍රායලය බලා පිටත්ව ගොස් ඇති අතර, එදින සිටම නිසි පරිදි සේවා ස්ථානයේ නොරැඳී විෂමාචාරවල යෙදෙමින් අවට සැරිසරමින් සිට තිබේ.
+
+මොහු පිළිබඳව ඔහුගේ පවුලේ සාමාජිකයින් විසින් අගෝස්තු මස 30 දින පැමිණිලි කර ඇති අතර, ඒ අනුව සිදුකළ සොයාබැලීමේදී මොහු ජෙරුසලම ප්‍රදේශයේ රැදී සිටියදී හමුවී ඇත. ඒ වන විට ඔහුගේ පැවති දුර්වල සෞඛ්‍ය තත්ත්වය හේතුවෙන් සැප්තැම්බර් මස 5 වන දින ජෙරුසලම රෝහලට ඇතුළත් කළද එදින රාත්‍රියේ ඔහු එම රෝහලින්ද පැන ගොස් තිබේ.
+
+ඊශ්‍රායල් තානාපති කාර්යාලයේ නිළධාරීන් විසින් අදාළ තරුණයා මෙම කෙටි කාල සිමාව තුළදී කිහිපවරක් සිය භාරයේ රඳවා ගැනීමට උත්සහ කලද එය ව්‍යර්ථ වී ඇත. කෙසේ හෝ සැප්තැම්බර් 16 වන දින මොහු පිළිබඳව කරුණු අනාවරණය වීමෙන් අනතුරුව තානාපති කාර්යාලයේ රඳවා තබාගෙන ඇත.
+
+...
+
+[Data](articles/b85562f1.json)
 
 ---
 
@@ -2035,57 +2091,5 @@ The President toured the exhibition, engaging directly with entrepreneurs and in
 [Data](articles/3878b108.json)
 
 [Extended Data](ext_articles/3878b108.ext.json)
-
----
-
-### Venture Engine workshops equip start-ups with critical skills for global growth
-
-*2025-09-19 23:49:31* · [`dailyftlk`](https://www.ft.lk/business/Venture-Engine-workshops-equip-start-ups-with-critical-skills-for-global-growth/34-781948) · `en`
-
-Sri Lanka’s leading start-up acceleration program continues to strengthen founders through expert-led guidance
-
-Venture Engine, the country’s foremost start-up acceleration program, recently concluded a series of specialised workshops designed to equip its participants with essential skills to secure investment and scale globally. This year’s sessions brought together leading professionals from across industries, offering entrepreneurs direct access to practical insights and expertise at no cost.
-
-...
-
-[Data](articles/24ed47a1.json)
-
-[Extended Data](ext_articles/24ed47a1.ext.json)
-
----
-
-### HNB empowers youth to drive digital finance at Finnovation Lab 2025
-
-*2025-09-19 23:49:18* · [`dailyftlk`](https://www.ft.lk/business/HNB-empowers-youth-to-drive-digital-finance-at-Finnovation-Lab-2025/34-781947) · `en`
-
-Students from over 45 universities and institutes across Sri Lanka who participated in Finnovation Lab 2025 at HNB Towers
-
-HNB MD/CEO Damith Pallewatte, addressing the gathering at Finnovation Lab 2025
-
-HNB PLC showcased its leadership in digital innovation and youth empowerment by hosting Finnovation Lab 2025 on 2 September at HNB Towers. The event brought together over 150 students from 45+ universities and institutes across Sri Lanka for a dynamic day of learning, dialogue, and hands-on exposure to the rapidly evolving fintech landscape.
-
-Organised by the Sri Lanka FinTech Summit 2025 in partnership with HNB PLC, the Ministry of Digital Economy, the Ministry of Finance, and the Sri Lanka FinTech Forum, the initiative was designed to prepare undergraduates with the knowledge, tools, and opportunities they need to thrive in the digital economy.
-
-...
-
-[Data](articles/df5518a5.json)
-
-[Extended Data](ext_articles/df5518a5.ext.json)
-
----
-
-### Megakem Engineering hosts geotechnical solutions seminar
-
-*2025-09-19 23:47:29* · [`dailyftlk`](https://www.ft.lk/business/Megakem-Engineering-hosts-geotechnical-solutions-seminar/34-781946) · `en`
-
-Megakem Engineering Ltd., a leading provider of construction chemical and engineering solutions, hosted the Geotechnical Solutions Seminar 2025 on 4 September at Monarch Imperial, Sri Jayawardenapura Kotte.
-
-The event reinforced Megakem’s role as a trusted knowledge-sharing partner in Sri Lanka’s construction and infrastructure industry. The seminar brought together a distinguished audience of representatives from Government institutions, top contractors, leading consultants, and academic bodies, creating a platform for meaningful dialogue on the future of geotechnical applications in the country.
-
-...
-
-[Data](articles/0dc8c010.json)
-
-[Extended Data](ext_articles/0dc8c010.ext.json)
 
 ---

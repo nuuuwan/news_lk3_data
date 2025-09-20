@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 12:21:19**
+As of **2025-09-20 11:20:17**
 
 ## Newspaper Stats
 
-*Scraped **77,068** Articles*
+*Scraped **77,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,97 +16,21 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,493
+adalk | 7,492
 adaderanalk | 9,952
-tamilmirrorlk | 11,586
+tamilmirrorlk | 11,585
 virakesarilk | 12,528
-adaderanasinhalalk | 13,448
+adaderanasinhalalk | 13,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,485 (99.2%) of 77,068 articles have been extended.
+76,468 (99.2%) of 77,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
-
-### வேலைநிறுத்தப் போராட்டம் நீடிப்பு
-
-*2025-09-20 11:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தப்-போராட்டம்-நீடிப்பு/175-364950) · `ta`
-
-மின்சார சபை ஊழியர்கள் ஆரம்பித்த வேலைநிறுத்தப் போராட்டத்தை நாளை  (21) நள்ளிரவு வரை தொடர மின்சார தொழிற்சங்கங்கள் முடிவு செய்துள்ளன.
-
-அதேநேரம், மின்சார சபையை மறுசீரமைக்கும் மசோதாவை எதிர்த்து மின்சார தொழிற்சங்கங்கள் எதிர்வரும் 4 ஆம் திகதி முதல் வேலைநிறுத்தப் போராட்டத்தில் ஈடுபடவுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
-
-மின்சார சபை ஊழியர்கள் குழுக்களாக இணைந்து மின்சார சபை தலைமையகத்தின் முன் இரண்டு நாள் வேலைநிறுத்தப் போராட்டத்தில் ஈடுபட்டிருந்தனர்.
-
-புதிய மின்சார சபைச் சட்டத்தின் பாதகமான விளைவுகளை எதிர்த்து தொடர்ந்தும் போராடுவோம் என மின்சார தொழிற்சங்கங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/72096150.json)
-
----
-
-### Russian jets bangs for Estonia airspace
-
-*2025-09-20 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214785) · `si`
-
-Estonia accuses that several Russian jets violated their airspace.
-
-The Estonian Foreign Ministry has announced that 3 Russian Mig-31 fighter jets left for about 12 minutes without their permission.
-
-Estonia says that this is an 'shameless' and condemns his airspace.
-
-Accordingly, Estonia has given advice from NATO members regarding the violation of Russian jets.
-
-However, Estonia says his military has immediately responded immediately with Russian jets.
-
-However, Russia has refused to violate the Estonian airspace.
-
-◼️
-
-[Data](articles/78ca73b4.json)
-
-[Extended Data](ext_articles/78ca73b4.ext.json)
-
----
-
-### US in Palestinian President Kudamma
-
-*2025-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214784) · `si`
-
-The United Nations 80 United States Summit will be held at the United Nations headquarters in New York City of the United States.
-
-The US rejected the Visa to Palestinian President Mohammed Abbas to participate.
-
-However, the proposal to be able to address the conference was adopted by the United Nations in the United Nations.
-
-It is reported that Palestine is also planned to be recognized as a separate state at the conference.
-
-◼️
-
-[Data](articles/2ce5b3d6.json)
-
-[Extended Data](ext_articles/2ce5b3d6.ext.json)
-
----
-
-### Bangladesh Sri Lanka match today
-
-*2025-09-20 10:48:54* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශ-ශ්‍රී-ලංකා-තරගය-අද/9-418616) · `si`
-
-Sri Lankan team and Bangladesh team to begin the Superintendent of the Asia Cup. මෙය සුපිරි හතර දෙනාගේ වටයේ පළමු තරගය වෙයි.
-
-◼️
-
-[Data](articles/deb7edf9.json)
-
-[Extended Data](ext_articles/deb7edf9.ext.json)
-
----
 
 ### Former President Ranil to join UNP’s 79th anniversary celebration
 
@@ -121,8 +45,6 @@ The anniversary celebrations are scheduled to take place at a private hotel in t
 ◼️
 
 [Data](articles/6c09f468.json)
-
-[Extended Data](ext_articles/6c09f468.ext.json)
 
 ---
 
@@ -2061,5 +1983,81 @@ In response, the investigating officers confirmed that the Fort Magistrate has c
 [Data](articles/83d25cfe.json)
 
 [Extended Data](ext_articles/83d25cfe.ext.json)
+
+---
+
+### Digitalization can lead us parallel with advanced states - President
+
+*2025-09-19 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214762) · `si`
+
+President Anura Kumara Dissanayake said that the current quality and reconciliation of all fields should be established in all fields, the current government digitalization program is an economic and socially new layer of Sri Lanka.
+
+◼️
+
+[Data](articles/34251797.json)
+
+[Extended Data](ext_articles/34251797.ext.json)
+
+---
+
+### Heavy rains in several areas
+
+*2025-09-19 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214761) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa, Central, North and North Western provinces and in the Galle and Matara districts.
+
+Some places in the Western and Sabaragamuwa Provincial and Galle, Matara, Kandy and Nuwara Eliya districts. Mee. Heavy rains can occur in more than 50.
+
+The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 1.00.
+
+The North-Media and North Western Provinces are also in the North-Central and North Western Provinces in the Central Mountains.. (30-40) can have some stronger winds.
+
+The Meteorology Department requests the people to take necessary steps to minimize temporary strong winds and lightning accidents.
+
+◼️
+
+[Data](articles/4ceda3a2.json)
+
+[Extended Data](ext_articles/4ceda3a2.ext.json)
+
+---
+
+### SLAF Intelligence Officer arrested with Gold biscuits
+
+*2025-09-19 15:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-බුද්ධි-නිලධාරියා-රන්-බිස්කට්-සමග-කටුනායකදී-අත්අඩංගුවට/11-418610) · `si`
+
+A large number of gold biscuits was arrested by a SLAF Buddhist Assembly stock with a gold biscuit to leave the airport to protect the Katunayaka International Airport on 09/19.
+
+He is a 17-year-old corporal, a 37-year-old Sri Lankan Air Force.
+
+He took 40 gold biscuits at the Bandaranaike International Airport, while attempting to leave the Katunayake Airport Terminal at 2 o'clock on 09/19.
+
+There are also further investigations into the airport officers in the manuscript.
+
+The customs personnel had been arrested in their feet last week to leave the Katunayake airport over Rs.
+
+◼️
+
+[Data](articles/8c1bef21.json)
+
+[Extended Data](ext_articles/8c1bef21.ext.json)
+
+---
+
+### Motorcycle - bus collision; One kills!
+
+*2025-09-19 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225507) · `ta`
+
+Homagama police said that one person was killed in an accident in the Kendalanda area of ​​the Homagama Police Division.
+
+The accident occurred when a motorcycle traveling from Colombo to Avissawel was hit by a bus and collided with a bus.
+
+In the accident, the motorcycle driver died after being injured and admitted to the hospital.
+
+◼️
+
+[Data](articles/2dc58bff.json)
+
+[Extended Data](ext_articles/2dc58bff.ext.json)
 
 ---

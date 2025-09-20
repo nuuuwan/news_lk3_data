@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 21:20:32**
+As of **2025-09-20 21:56:02**
 
 ## Newspaper Stats
 
-*Scraped **77,128** Articles*
+*Scraped **77,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 7,500
 adaderanalk | 9,963
 tamilmirrorlk | 11,592
 virakesarilk | 12,541
-adaderanasinhalalk | 13,468
+adaderanasinhalalk | 13,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,928 (99.7%) of 77,128 articles have been extended.
+76,928 (99.7%) of 77,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
+
+### නාවලපිටියේ දී  ත්‍රීරෝද රථයක් ගිනි ගනී
+
+*2025-09-20 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214807) · `si`
+
+නාවලපිටියේ සිට හැටන් දක්වා ධාවනය වෙමින් තිබු ත්‍රීරෝද රථයක ගින්නක් හට ගෙන තිබේ.
+
+ධාවනය වෙමින් තිබූ ත්‍රීරෝද රථයේ හදිසියේ ඇතිවූ කාර්මික දෝෂයක් රියදුරා විසින් පරික්ෂා කිරීමට යෑමේදි එක්වරම ගින්න හට ගෙන ඇති බව නාවලපිටිය පොලීසිය පැවසුවේය.
+
+ප්‍රදේශවාසීන් සහ ගිනිගත්හේන පොලිස් නිලධාරීන් එක්ව ගින්න නිවා දැමීමට කටයුතු කළ ද ගින්නෙන් ත්‍රීරෝද රථයට දැඩිව අලාභ හානි සිදු ව ඇති බව වාර්තා වේ.
+
+ගින්න හට ගන්නා අවස්ථාවේ ත්‍රීරෝද රථයේ දෙදෙනෙකු ගමන් කර ඇති අතර ගින්නෙන් කිසිවෙකුටත් අනතුරක් සිදු වී නොමැත.
+
+◼️
+
+[Data](articles/fab2487c.json)
+
+---
 
 ### 200g of Ice drug recovery from a bag to be dropped from Colombo to Batticaloa
 
@@ -2077,27 +2095,5 @@ It is noteworthy that he was a retired government officer who was born on August
 [Data](articles/34d21259.json)
 
 [Extended Data](ext_articles/34d21259.ext.json)
-
----
-
-### 2025-09-19 (Friday)
-
-### Sri Lanka, Ukraine discuss strengthening bilateral ties
-
-*2025-09-19 23:57:22* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Ukraine-discuss-strengthening-bilateral-ties/56-781955) · `en`
-
-The Ministry of Foreign Affairs said yesterday that Foreign Affairs and Foreign Employment Deputy Minister Arun Hemachandra held a telephone discussion on 18 September with his Ukrainian counterpart, Foreign Affairs Deputy Minister and National Commission for UNESCO Head Mariana Betsa.
-
-The Ministry said both officials reviewed cooperation between the two countries in bilateral and multilateral forums, noting recent reciprocal support extended toward each other’s candidatures to United Nations bodies.
-
-According to the statement, Hemachandra briefed Betsa on recent developments in Sri Lanka and conveyed the Government’s interest in deepening relations with Ukraine.
-
-The conversation also covered opportunities for further collaboration in areas of mutual interest, reflecting the shared commitment to strengthening ties, the Ministry added.
-
-◼️
-
-[Data](articles/d7bb44de.json)
-
-[Extended Data](ext_articles/d7bb44de.ext.json)
 
 ---

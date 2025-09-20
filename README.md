@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 13:38:48**
+As of **2025-09-20 12:54:13**
 
 ## Newspaper Stats
 
-*Scraped **77,078** Articles*
+*Scraped **77,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,41 @@ economynextcom | 4,662
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,494
-adaderanalk | 9,954
+adalk | 7,493
+adaderanalk | 9,952
 tamilmirrorlk | 11,586
-virakesarilk | 12,534
+virakesarilk | 12,528
 adaderanasinhalalk | 13,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,549 (99.3%) of 77,078 articles have been extended.
+76,506 (99.3%) of 77,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### Sexual abuse at a school with special needs in the Anuradhapura
+### අනුරපුරයේ විශේෂ අවශ්‍යතා සහිත දරුවන් සිටින පාසලක සිදුවූ ලිංගික අපයෝජන
 
 *2025-09-20 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214787) · `si`
 
-A special needs should be paid to all citizens of the society, but they are bullied.
+විශේෂ අවශ්‍යතා සහිත දරුවෙකු සමාජයේ සියලු පුරවැසියන්ගෙන් විශේෂ අවධානයට ලක්විය යුතු වුවත් ඔවුන්ට හිරිහැර සිදුවන අවස්ථා පිළිබඳ දිනෙන් දින වාර්තා වෙයි.
 
-Special needs in Anuradhapura have been paid special attention to these children's children and the misconduct of abuse.
+අනුරාධපුර ප්‍රදේශයේ විශේෂ අවශ්‍යතා සහිත දරුවන් ඉගෙනුම විදුහලක එම දරුවන්ට සිදුවන අකටයුතුකම්, අපචාර සම්බන්ධයෙන් අනුරාධපුර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී ද ඊයේ විශේෂ අවධානයට ලක්වුණි.
 
-Located in Anuradhapura, the special needs of the school are learning children with special needs.
+අනුරාධපුර නගරයේ පිහිටා ඇති මෙම විශේෂ විදුහලේ විශේෂ අවශ්‍යතා සහිත දරුවන් ඉගෙනුම ලබයි.
 
-The school, which is studying for nearly 69 female and boys, is maintained by a private company and its administration is administered by a governing body.
+ගැහැණු සහ පිරිමි දරුවන් 69කට ආසන්න ප්‍රමාණයක් අධ්‍යාපනය හදාරන මෙම පාසල, පෞද්ගලික ආයතනයක් විසින් නඩත්තු වන අතර එහි පරිපාලනය සිදුකරන්නේ පාලක මණ්ඩලයක් හරහාය.
 
-This is monitored under the Department of Social Services Department of the North Central Province.
+උතුරු මැද පළාත් සමාජ සේවා දෙපාර්තමේන්තුව යටතේ මෙය අධීක්ෂණය කෙරේ.
 
-Sadly, a group of children who have special needs come to study their future and have sexual abuse and harassment.
-
-The Treasurer who was the treasurer of the school were remanded until the 29th of this month.
-
-The unbelievable parents had been protesting recently to consequences the governing body of the school.
-
-◼️
-
-[Data](articles/6b18d2a1.json)
-
-[Extended Data](ext_articles/6b18d2a1.ext.json)
-
----
-
-### Trump administration proposes selling nearly $6 billion in weapons to Israel
-
-*2025-09-20 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112698/trump-administration-proposes-selling-nearly-6-billion-in-weapons-to-israel) · `en`
-
-The Trump administration has told Congress it plans to sell nearly $6 billion in weapons to Israel, a fresh surge of support for the U.S. ally as it faces increasing isolation over its war in Gaza.
-
-It includes a $3.8 billion sale for 30 AH-64 Apache helicopters, nearly doubling Israel’s current stocks, and a $1.9 billion sale for 3,200 infantry assault vehicles for Israeli army, according to a U.S. official and another person familiar with the proposal who spoke on condition of anonymity to discuss plans that have not been made public.
-
-The weapons would not be delivered for two to three years or longer.
-
-The huge sales come as U.S. plans to broker an end to the nearly two-year war between Israel and Hamas have stalled and after Israel’s strike on Hamas leaders in Doha, Qatar, drew widespread condemnation among U.S. allies in the Middle East.
+කණගාටුවට කරුණ නම්, විශේෂ අවශ්‍යතා ඇති දරුවන් පිරිසක් සිය අනාගතය ගොඩනැගීම අරමුණු කරගමින් අධ්‍යාපනය හැදෑරීමට මෙම පාසලට පැමිණියත් එහිදී ලිංගික අපචාරයන්ට හා විවිධ හිරිහැරවලට ලක්වීමය.
 
 ...
 
-[Data](articles/57a9a640.json)
-
-[Extended Data](ext_articles/57a9a640.ext.json)
-
----
-
-### Israel's attack in Gaza: two children die; Many are hurt!
-
-*2025-09-20 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/225573) · `ta`
-
-International media reports that Israel's attack on Gaza has killed two children.
-
-The attack was reported after the death of 43 Palestinians yesterday.
-
-It is reported that about 450,000 people have left the area in the city of Gaza since the launch of its major action in Israeli Gaza in August.
-
-United Nations General Secretary Antonio Gutarez says Gaza is facing the worst casualties and destruction.
-
-◼️
-
-[Data](articles/89c07ee4.json)
-
-[Extended Data](ext_articles/89c07ee4.ext.json)
+[Data](articles/6b18d2a1.json)
 
 ---
 
@@ -144,24 +98,6 @@ However, Russia has refused to violate the Estonian airspace.
 
 ---
 
-### Rise in cases of online sexual abuse in Sri Lanka – Police
-
-*2025-09-20 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112697/rise-in-cases-of-online-sexual-abuse-in-sri-lanka-police) · `en`
-
-Sri Lanka Police have reported that a total of 28 children and 118 women have fallen victim to online sexual abuse and exploitation so far in 2025.
-
-Police Media Spokesperson, ASP F. U. Wootler, stated that in 2024, 15 children under the age of 18 were sexually exploited through the cyberspace, while 375 women were victims of online sexual abuse during the same period.
-
-He further confirmed that a total of 114 individuals involved in such incidents have been arrested and are currently facing legal action.
-
-◼️
-
-[Data](articles/5a1f0876.json)
-
-[Extended Data](ext_articles/5a1f0876.ext.json)
-
----
-
 ### US in Palestinian President Kudamma
 
 *2025-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214784) · `si`
@@ -179,68 +115,6 @@ It is reported that Palestine is also planned to be recognized as a separate sta
 [Data](articles/2ce5b3d6.json)
 
 [Extended Data](ext_articles/2ce5b3d6.ext.json)
-
----
-
-### Increase child abuse caused by e -commerce scams!
-
-*2025-09-20 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225566) · `ta`
-
-Police Media Spokesperson FU says that child abuse caused by ecommerce fraud is on the rise.. Woodler said.
-
-About 28 boys through e -mail frauds in 2025 so far; 118 women are also sexually abused.
-
-In 2024, 15 children under the age of 18 were subjected to sexual abuse by cyberpace, police media spokesman said.
-
-At the same time, in 2024, 375 women have been sexually abused by ecommerce scams, police media spokesman said.
-
-Police Media Spokesperson FU said 114 people were arrested and brought before the law.. Woodler said.
-
-◼️
-
-[Data](articles/92ac9748.json)
-
-[Extended Data](ext_articles/92ac9748.ext.json)
-
----
-
-### ஹொரணை - இரத்தினபுரி வீதியில் இன்றிரவு போக்குவரத்து மட்டுப்படுத்தப்படும்!
-
-*2025-09-20 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225568) · `ta`
-
-Traffic will be restricted on the Horana - Ratnapura main road on Saturday night (20), as the annual Katina Perahera is being held at the Horana - Vewala Isipathana Raja Maha Viharaya.
-
-According to the police media unit, traffic will be restricted on the Horana - Ratnapura main road from 7 pm tonight.
-
-◼️
-
-[Data](articles/6ca54850.json)
-
-[Extended Data](ext_articles/6ca54850.ext.json)
-
----
-
-### The JVP does nothing without anything
-
-*2025-09-20 10:58:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපෙ-දේශපාලනය-කරන්නේ-මුකුත්ම-නැති-මුකුත්ම-බැරි-පිරිසක්-නෙමෙයි/11-418617) · `si`
-
-Deputy Minister Susil Ranasinghe said that the JVP does not have any possessions or the party's patrification of people who were engaged in various professions were planted in various occupations.
-
-He was speaking to the media after a function held in Eppawala.
-
-"It is good to publish the assets of MPs, ministers and ministers, and that is a matter of controversy in our country is to steal from this politics. The government's prince, using the use of MPs, and the assets have passed the legislation and that we should publish the assets of the ministers of MPs.
-
-After the people have been a year, we can find out whether these ministry or the government politics of the JVP or the JVP doctors in the National Power or the JVP.
-
-We have such a group of people in one of the careers, and we have a certain amount of property.
-
-We have been transparently disclosed without hiding them.
-
-◼️
-
-[Data](articles/86488707.json)
-
-[Extended Data](ext_articles/86488707.ext.json)
 
 ---
 
@@ -273,28 +147,6 @@ The anniversary celebrations are scheduled to take place at a private hotel in t
 [Data](articles/6c09f468.json)
 
 [Extended Data](ext_articles/6c09f468.ext.json)
-
----
-
-### Electricity Board's strike
-
-*2025-09-20 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225567) · `ta`
-
-Electricity unions have decided to continue the strike action launched by the Ceylon Electricity Board (CEB employees against the Ceylon Electricity Board until midnight tomorrow (21st).
-
-At the same time, the electricity unions will go on strike from the 4th of this month to protest the bill to rebuild the Electricity Board.
-
-The Electricity Board employees joined the two -day strike in front of the Electricity Board headquarters.
-
-Electricity unions have said they will continue to fight the adverse consequences of the new Electricity Board Act.
-
-Meanwhile, the Minister of Power of Power, Kumara Jayakody, has said that the current government has not taken any decision to reduce the concessions of the employees.
-
-◼️
-
-[Data](articles/5e0aa288.json)
-
-[Extended Data](ext_articles/5e0aa288.ext.json)
 
 ---
 
@@ -335,50 +187,6 @@ In addition, the sacrifice of cinema in the country was appreciated with a speci
 [Data](articles/0fcc762a.json)
 
 [Extended Data](ext_articles/0fcc762a.ext.json)
-
----
-
-### "I will fulfill my father's wishes and contribute 100 per cent in the Asian Bowl" - Dunit Vellalake
-
-*2025-09-20 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225565) · `ta`
-
-Sri Lankan cricketer Dunit Wellalake has said that his father's only wish is that I should be a good cricketer and represent the country.
-
-Due to his sudden death of his father, Vellalake, who returned to the country during the Asian Cup cricket tournament, released the record before leaving the country (Sri Lanka) this morning (Sri Lanka) and reunited with the national team.
-
-“I have received great support from my father from childhood. His only option is to become a good player and play for Sri Lanka. I will definitely fulfill that option. There are many more competitions in the Asian Cup cricket match and I hope I will contribute 100 per cent to my team. ”
-
-Sri Lankan team instructor Sanath Jayasuriya, Chairman; He noted that his team, including Sarid Asalanga, and everyone in Sri Lanka, had received great support and that the encouragement had given him great strength at that difficult time and he was truly grateful for it.
-
-...
-
-[Data](articles/1b441b91.json)
-
-[Extended Data](ext_articles/1b441b91.ext.json)
-
----
-
-### Drone attack in Sudan mosque: 78 killed
-
-*2025-09-20 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225564) · `ta`
-
-International media reports that more than 70 people have died following a drone attack in a mosque in Sudan's Tarbor area.
-
-The RSF and the military have been engaged in a fierce civil war for more than two years.
-
-It is noteworthy that the paramilitary fortress is fighting the last military fort in Darpur and the full control of L-Pasher, the homeland of more than 300,000 civilians in the fight.
-
-A resident of an international media that many people were immediately killed in a drone attack during the morning prayer; Said.
-
-Foreign medical sources said that work is being carried out to recover the bodies from the ruins of the building.
-
-The international media has confirmed the footage of about 30 bodies wrapped in blankets near the mosque, located west of the city.
-
-◼️
-
-[Data](articles/8cb9796a.json)
-
-[Extended Data](ext_articles/8cb9796a.ext.json)
 
 ---
 
@@ -2053,5 +1861,205 @@ The President has stated that the President has stated that the President has st
 [Data](articles/50b2ee76.json)
 
 [Extended Data](ext_articles/50b2ee76.ext.json)
+
+---
+
+### A large quantity of weapons found in the house of a deceased lawyer
+
+*2025-09-19 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214765) · `si`
+
+Ratnapura police officers have been able to find a number of firearms in Sri Lanka and the home of a 73-year-old lawmaway, which is living alone in the home of a house in the Goluvilawatta area in Goluwilawatta, Ratnapura.
+
+The police have then informed a team of police officers on the 17th on the 17th of this month on information received by the Ratnapura Divisional Police Senior Superintendent Kapila Premadasa.
+
+Accordingly, the team of officers have found many firearar portarust and biological exchanges when examining the house of lawyer.
+
+The Ratnapura Police said that a 12-bore gun, a 12-bore gun, 2 barrels, 11 Barrels and 16 bullets used for guns, including 440 culverts and 16 borrows.
+
+SSP Prasanna Sumanasiri said that the investigations are being carried out as well as other firearms in addition to these firearms as well as other firearms in addition to these firearms.
+
+...
+
+[Data](articles/7dd51c5a.json)
+
+[Extended Data](ext_articles/7dd51c5a.ext.json)
+
+---
+
+### Women written in Afghan University bans Talibanks
+
+*2025-09-19 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214764) · `si`
+
+Foreign media reports that the Talaban's government has been named as part of a new ban.
+
+The ban was banned in relation to the theme "Shariah and Taliban Policy" which included a number of topics such as the "Protection of Chemical Laboratory".
+
+After this order came to power four years ago, the Taliban is a new limit of the Taliban.
+
+This week alone, about 10 provinces have banned the "Fiber Optic Internet" on orders of the Taliban's supreme leader's orders.
+
+These Taliban rules are particularly distressed, women and girls are particularly disturbed and are allowed to access the sixth grade.
+
+There are also 18 university subjects and is the main goal of women.
+
+That is, six of the 18 subjects are banned, and the role of women and women in communalism, as well as women's social science, as well as human rights and sexual violence.
+
+...
+
+[Data](articles/e23e45b0.json)
+
+[Extended Data](ext_articles/e23e45b0.ext.json)
+
+---
+
+### 2025 O/L exam applications open online till Oct. 9
+
+*2025-09-19 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112682/2025-ol-exam-applications-open-online-till-oct-9) · `en`
+
+The Ministry of Education (MOE) has issued a special announcement stating that applications for the 2025 (2026) G.C.E. Ordinary Level (O/L) Examination will be called online from 18 September to 09 October 2025.
+
+Accordingly, all school candidates are required to submit their applications online through their school principals.
+
+Private candidates must submit their applications in person, following the relevant instructions, it said.
+
+Private candidates should use their National Identity Card (NIC) when applying for the GCE O/L Examination.
+
+Candidates who do not possess a National Identity Card may submit their applications using the NIC of a parent or guardian.
+
+The announcement further emphasizes that all applications must be submitted correctly by visiting the official websites of the Department of Examinations of Sri Lanka: www.doenets.lk or www.onlineexams.gov.lk/eic, and following the instructions provided there.
+
+◼️
+
+[Data](articles/82c0f6c2.json)
+
+[Extended Data](ext_articles/82c0f6c2.ext.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-09-19 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-241278/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/50 to the US dollar on Friday, weaker from 302.05/18 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.28/33 percent, up from 8.20/30 percent.
+
+A bond maturing on 15.09.2027 closed at 8.65/73 percent, down from 8.65/75 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/54 percent, down from 9.51/54 percent.
+
+A bond maturing on 01.07.2030 closed at 9.70/75 percent, up from 9.70/74 percent.
+
+A bond maturing on 15.03.2031 closed at 10.00/05 percent, up from 9.98/10.05 percent.
+
+A bond maturing on 01.10.2032 closed flat at 10.40/45 percent.
+
+A bond maturing on 01.11.2033 closed at 10.65/75 percent, from 10.68/74 percent. (Colombo/Sep19/2025)
+
+◼️
+
+[Data](articles/d239203b.json)
+
+[Extended Data](ext_articles/d239203b.ext.json)
+
+---
+
+### Calling applications for the GCE Ordinary Level Examination
+
+*2025-09-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214763) · `si`
+
+The Ministry of Education has issued a special announcement that applications for the GCE Ordinary Level Examination will be held on the Ordinary Level examination.
+
+Accordingly, all school candidates should submit applications online by the principal of their school and private candidates as per personally, relevant instructions.
+
+Private applicants should be used for the GCE (O / L) examination.
+
+Private candidates who have no national identity card should be registered with their guardian (mother or father) and submit applications using the National Identity Card.
+
+According to the statement, the official website of the Department of Examinations Department is the official website of the Department of Examinations www.doenets.lk or www.doeees.lk should be read and submit applications.
+
+◼️
+
+[Data](articles/01b44651.json)
+
+[Extended Data](ext_articles/01b44651.ext.json)
+
+---
+
+### ASPI closes at new all-time high
+
+*2025-09-19 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112681/aspi-closes-at-new-all-time-high-) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at a new all-time high after making significant gains today.
+
+Accordingly, the ASPI rose by 119.83 points or 0.57% to close at 21,085.09 points.
+
+◼️
+
+[Data](articles/dccecb6c.json)
+
+[Extended Data](ext_articles/dccecb6c.ext.json)
+
+---
+
+### People objected to the Ridiyagama tank reserve
+
+*2025-09-19 16:09:25* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-වැව්-රක්ෂිතය-මනිනවාට-ජනතාවගේ-විරෝධය/11-418612) · `si`
+
+According to the present government program, the officers of the area has left the area of ​​the area to mark the theme of our heritage today (19) and the reserves of the area to mark the reserves of the Survey.
+
+The protest was the people of Kadiyagama, Amount Lake, Point Mulla, Kadambagala Mulla, and the people of the area that about 300 families have a risk of losing their residence land.
+
+The people of the area say they are not willing to leave the land for years, and they will lose their lives after the land is surrounded by the loss of their lives.
+
+However, the Hambantota Regional Irrigation Engineer in Ambalantota, the Hambantota Regional Irrigation Engineer, has been temporarily stopped on Wednesdays.
+
+The glory of irrigation is established by the theme of our heritage, Ambalantota and Ridiyagama tank tanks on the 30th of the 30th of month.
+
+◼️
+
+[Data](articles/3123f7d0.json)
+
+[Extended Data](ext_articles/3123f7d0.ext.json)
+
+---
+
+### Dane Priyasad massacre: gunman arrested
+
+*2025-09-19 16:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டேன்-பிரியசாத்-படுகொலை-துப்பாக்கிதாரி-கைது/175-364923) · `ta`
+
+The suspect in connection with the murder of Dane Priyasat has been arrested in the Rangwala area of ​​Kegalle.
+
+Three suspects, including a particular suspect, were arrested last night, and one of the arrested women was reportedly involved.
+
+At the time of the arrest, 12,400 illegal cigarettes and several kajamuttu were discovered from the suspects.
+
+They belong to the Kagal and Welioia areas. According to police, one of the suspects legally quit the army. Remble
+
+◼️
+
+[Data](articles/d2b700d8.json)
+
+[Extended Data](ext_articles/d2b700d8.ext.json)
+
+---
+
+### Sanath tells you a father who is a donor
+
+*2025-09-19 16:05:02* · [`adalk`](https://www.ada.lk/sports/දුනිත්ට-පියෙක්-වන-බව-සනත්-කියයි/9-418611) · `si`
+
+Sri Lanka Cricket Chief Trainer Sanath Jayasuri says he is deeply grieving as a man who has raised a son who has a son proud of the nation.
+
+Sri Lanka's three-post cricketers, Dugar, a note of his Facebook account, says this regarding the death of his Father's father.
+
+"Duti, your father was a cricketer, and he could really be proud of his own son. His values, his love and his soul live through you. I know you know how strong you are, and I have no doubt that you will proudly win many matches for Sri Lanka.
+
+Keep in mind that this difficult moment, you're not single. Like a father I am for you - guiding you, standing with you, and support you every step. Every group, nation and everyone who loves this game are on your side. "The Sanath's Facebook also states:
+
+◼️
+
+[Data](articles/b7337ac3.json)
+
+[Extended Data](ext_articles/b7337ac3.ext.json)
 
 ---

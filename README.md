@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 20:54:36**
+As of **2025-09-20 21:20:32**
 
 ## Newspaper Stats
 
-*Scraped **77,122** Articles*
+*Scraped **77,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ economynextcom | 4,665
 dailymirrorlk | 4,733
 islandlk | 4,734
 dailyftlk | 5,485
-adalk | 7,499
-adaderanalk | 9,961
-tamilmirrorlk | 11,591
-virakesarilk | 12,539
+adalk | 7,500
+adaderanalk | 9,963
+tamilmirrorlk | 11,592
+virakesarilk | 12,541
 adaderanasinhalalk | 13,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,899 (99.7%) of 77,122 articles have been extended.
+76,928 (99.7%) of 77,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
+
+### 200g of Ice drug recovery from a bag to be dropped from Colombo to Batticaloa
+
+*2025-09-20 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225612) · `ta`
+
+The headquarters headquarters of the police said that a bag containing 200 grams of narcotics from Colombo to Batticaloa has been rescued from the train arriving in Batticaloa on Friday evening (19).
+
+Railway Security Officers found a bag of abandoned bag that arrived at the Batticaloa Railway Station on Friday at 4.10 pm.
+
+Subsequently, the bag was redeemed and handed over to the railway chancellor.
+
+When the police went to the railway station, they opened the bag and rescued the 200 grams of jazz with 252 packets of packed.
+
+Police said they are taking steps to hand over the drug rescued to the court.
+
+Further investigations are being carried out by the police headquarters.
+
+◼️
+
+[Data](articles/88a155b0.json)
+
+[Extended Data](ext_articles/88a155b0.ext.json)
+
+---
+
+### துனித்தின் தந்தைக்காக சர்வதேச அரங்கில் மௌன அஞ்சலி
+
+*2025-09-20 20:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துனித்தின்-தந்தைக்காக-சர்வதேச-அரங்கில்-மௌன-அஞ்சலி/175-364956) · `ta`
+
+இலங்கை அணியின் சுழற்பந்து வீச்சாளர் துனித் வெல்லாலகேவின் தந்தைக்காக இன்றைய (20) போட்டி ஆரம்பிப்பதற்கு முன்னர் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தப்பட்டது.
+
+தேசிய கீதம் இசைப்பதற்கு முன்னர் ஒரு நிமிடம் மௌன அஞ்சலி செலுத்தப்பட்ட நிலையில், இலங்கை அணி வீரர்கள் மற்றும் அணி நிர்வாகத்தினர் கையில் கறுப்புப் பட்டியை அணிந்திருப்பதை அவதானிக்க முடிந்தது.
+
+அபுதாபியில் நடைபெற்ற ஆசிய கிண்ணத் தொடரின் போது  ஆப்கானிஸ்தான் அணிக்கு எதிரான போட்டியில் துனித் வெல்லாலகேவின் தந்தை மரண செய்தியை அறிந்து உடனடியாக இலங்கைக்கு திரும்பினார்.
+
+இந்நிலையில் தந்தையின் இறுதி சடங்கில் கலந்து கொண்டதன் பின்னர் துனித் வெல்லாலகே மீண்டும் நேற்று ஐக்கிய அரபு இராச்சியத்தை நோக்கி புறப்பட்டு சென்று அணியுடன் இணைந்திருந்ததமை குறிப்பிடத்தக்கது.R
+
+◼️
+
+[Data](articles/22320c4a.json)
+
+---
+
+### Sady plays today
+
+*2025-09-20 20:24:00* · [`adalk`](https://www.ada.lk/sports/දුනිත්-අද-තරගයට-ක්‍රීඩා-කරයි/9-418623) · `si`
+
+The Sri Lanka team and the Bangladesh team has been called between the Sri Lanka team and the Bangladesh team between the Sri Lankan team and the Bangladesh team in the Asian Cup.
+
+The Sri Lankan team and the Afghan group was watching the match from Sri Lanka last (18) died due to a heart attack.
+
+Accordingly, they arrived in Sri Lanka from Abu Dhabi yesterday morning, while he was present to Sri Lanka last night.. Accordingly, the donor has also been called to the competition today.
+
+The Sri Lankan team is bowled out for the winner of the Bangladesh team, winning the coin.
+
+◼️
+
+[Data](articles/690154af.json)
+
+[Extended Data](ext_articles/690154af.ext.json)
+
+---
 
 ### A minute silence as a Gutarian father as a Giving
 
@@ -45,6 +107,24 @@ The Sri Lankan players will participate in the game of black handy.
 [Data](articles/e55fd4cf.json)
 
 [Extended Data](ext_articles/e55fd4cf.ext.json)
+
+---
+
+### Bangladesh won the first bowling resolution
+
+*2025-09-20 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225611) · `ta`
+
+Bangladesh Captain Litton Das decided to bowl first in the main match between Sri Lanka and Bangladesh, the first match of the Asia Cup Cricket T20 series.
+
+The competition will start at 8:00 pm at the Dubai International Cricket Ground.
+
+Meanwhile, Dunit Wellalake, who returned to the island during the Asian Cup due to his father's sudden death, is back in the Sri Lankan squad.
+
+◼️
+
+[Data](articles/d01a7861.json)
+
+[Extended Data](ext_articles/d01a7861.ext.json)
 
 ---
 
@@ -103,6 +183,26 @@ The fire brigade has announced that 12 fire trucks have been deployed to bring t
 [Data](articles/0f15516b.json)
 
 [Extended Data](ext_articles/0f15516b.ext.json)
+
+---
+
+### “Showed motherly love to Sri Lankan Tamils”: Indian actor Vijay praises Prabhakaran
+
+*2025-09-20 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112708/showed-motherly-love-to-sri-lankan-tamils-indian-actor-vijay-praises-prabhakaran) · `en`
+
+In a move that is likely to stoke controversy, Tamizhaga Vettri Kazhagam (TVK) chief Vijay on Saturday racked up the Sri Lankan Tamil issue and praised LTTE chief Velupillai Prabhakaran, who was the mastermind behind former Indian Prime Minister Rajiv Gandhi’s assassination, and stressed the need to “give a voice to the Sri Lankan Tamils” living in the country.
+
+Addressing a crowd in Nagapattinam as part of his campaign in the election-bound Tamil Nadu, the Indian actor reached out to the Sri Lankan Tamils and suggested that Prabhakaran was “like a mother” to the community, reported NDTV.
+
+The issue of Sri Lankan Tamils is emotive in Tamil Nadu especially amongst the fishermen in areas like Nagapattinam.
+
+“At the same time, our umbilical-cord kin, the Eelam Tamils, whether they are in Sri Lanka or anywhere else in the world, are suffering after losing a leader who showed them motherly affection,” Vijay said, in a clear reference to Prabhakaran.
+
+...
+
+[Data](articles/1e314449.json)
+
+[Extended Data](ext_articles/1e314449.ext.json)
 
 ---
 
@@ -194,6 +294,28 @@ Speaking further, Ven. Dimbulkumbura Wimaladhame Wimaladesh Thera, Ven.
 
 ---
 
+### Cyberattack disrupts European airports including Heathrow, Brussels
+
+*2025-09-20 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112707/cyberattack-disrupts-european-airports-including-heathrow-brussels) · `en`
+
+A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports including London’s Heathrow, the continent’s busiest, causing flight delays and cancellations on Saturday.
+
+Collins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays.
+
+Brussels Airport and Berlin Airport were also affected by the attack, they said in separate statements.
+
+RTX, Collins Aerospace’s parent company, said it had become aware of a “cyber-related disruption” to its software at selected airports, without naming them.
+
+“The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations,” RTX said in an e-mailed statement, adding that it was working to fix the issue as quickly as possible.
+
+...
+
+[Data](articles/2868e08a.json)
+
+[Extended Data](ext_articles/2868e08a.ext.json)
+
+---
+
 ### The mountain tiger is saved
 
 *2025-09-20 17:28:28* · [`adalk`](https://www.ada.lk/picture_story/කඳුකර-කොටියෙක්-බේරා-ගැනෙයි/10-418622) · `si`
@@ -214,21 +336,25 @@ The Haggala Wildlife Site Site Site Site Site Site Sites have taken steps to dir
 
 ---
 
-### ඊශ්‍රායලයේදි අතරමං වූ තරුණයා පවුලේ ඥාතීන්ට භාර දෙයි
+### Youth from Israel handed over to family relatives
 
 *2025-09-20 17:19:22* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලයේදි-අතරමං-වූ-තරුණයා-පවුලේ-ඥාතීන්ට-භාර-දෙයි/11-418621) · `si`
 
-ඊශ්‍රායලයේ රැකියාවක් සඳහා ගොස් අතරමං වී සිටින බවට සමාජ මාධ්‍ය ඔස්සේ තොරතුරු වාර්තා වූ තරුණයා අද (9/20) උදෑසන දිවයිනට පැමිණියේය.
+The youth arrived in Sri Lanka this morning (9/20) this morning.
 
-මොණරාගල ප්‍රදේශයේ පදිංචි මෙම තරුණයා ඊශ්‍රායලයේ ඉදිකිරීම් අංශයේ රැකියාවක් සඳහා මෙම වසරේ අගෝස්තු මස 9 දින ඊශ්‍රායලය බලා පිටත්ව ගොස් ඇති අතර, එදින සිටම නිසි පරිදි සේවා ස්ථානයේ නොරැඳී විෂමාචාරවල යෙදෙමින් අවට සැරිසරමින් සිට තිබේ.
+The young man from Moneragala, a resident of Moneragala, left for Israel on August 9 of this year, and from that day, there was a surrounding suitability.
 
-මොහු පිළිබඳව ඔහුගේ පවුලේ සාමාජිකයින් විසින් අගෝස්තු මස 30 දින පැමිණිලි කර ඇති අතර, ඒ අනුව සිදුකළ සොයාබැලීමේදී මොහු ජෙරුසලම ප්‍රදේශයේ රැදී සිටියදී හමුවී ඇත. ඒ වන විට ඔහුගේ පැවති දුර්වල සෞඛ්‍ය තත්ත්වය හේතුවෙන් සැප්තැම්බර් මස 5 වන දින ජෙරුසලම රෝහලට ඇතුළත් කළද එදින රාත්‍රියේ ඔහු එම රෝහලින්ද පැන ගොස් තිබේ.
+His family members have lodged a complaint on August 30, while he was found in Jerusalem while investigating that accordingly. He was admitted to Jerustaneous Hospital on September 5, whether his weak health was admitted to the hospital on the 5th of September.
 
-ඊශ්‍රායල් තානාපති කාර්යාලයේ නිළධාරීන් විසින් අදාළ තරුණයා මෙම කෙටි කාල සිමාව තුළදී කිහිපවරක් සිය භාරයේ රඳවා ගැනීමට උත්සහ කලද එය ව්‍යර්ථ වී ඇත. කෙසේ හෝ සැප්තැම්බර් 16 වන දින මොහු පිළිබඳව කරුණු අනාවරණය වීමෙන් අනතුරුව තානාපති කාර්යාලයේ රඳවා තබාගෙන ඇත.
+The Israeli embassy officials tried to retain several people in their custody within the short time limit, but it is failed. However, after the revelation of hearing on September 16, he was detained at the embassy.
 
-...
+The embassy was also present with the young man with the young man with his inclement health.
+
+◼️
 
 [Data](articles/b85562f1.json)
+
+[Extended Data](ext_articles/b85562f1.ext.json)
 
 ---
 
@@ -315,6 +441,10 @@ The fire brigade said that the fire was already launched.
 A fire has reportedly broken out in a shop on the third floor of a building at First Cross Street in Pettah.
 
 The Colombo Fire Brigade said that 12 fire-trucks have been deployed so far to douse the flames and that firefighters are currently attempting to control the fire from spreading.
+
+Meanwhile, the Sri Lanka Air Force (SLAF) Fire Service Unit has also deployed two fire trucks to the location to assist in fire fighting operations.
+
+The SLAF Spokesman said that a Bell 212 helicopter has been deployed to assist in extinguishing the fire at First Cross Street in Pettah.
 
 ◼️
 
@@ -1969,127 +2099,5 @@ The conversation also covered opportunities for further collaboration in areas o
 [Data](articles/d7bb44de.json)
 
 [Extended Data](ext_articles/d7bb44de.ext.json)
-
----
-
-### Elephant trafficker gets 15-year jail term, fined Rs. 20 m
-
-*2025-09-19 23:55:47* · [`dailyftlk`](https://www.ft.lk/news/Elephant-trafficker-gets-15-year-jail-term-fined-Rs-20-m/56-781954) · `en`
-
-The Colombo High Court yesterday sentenced Niraj Roshan, better known as “Ali Roshan,” to 15 years of rigorous imprisonment and imposed a fine of Rs. 20.6 million after convicting him of keeping five elephants without valid permits.
-
-Prosecutors said that between July 2009 and August 2015, in several locations including Maharagama, Arawwala, Nawala, Battaramulla, and Oruwala, Roshan and others conspired to traffic elephants and possessed animals known to have been stolen.
-
-The Attorney General filed 33 indictments under the Code of Criminal Procedure Act and the Public Property Act in connection with the case.
-
-Roshan was found guilty of falsifying the elephant registry of the Department of Wildlife Conservation and unlawfully holding the animals in his custody.
-
-Three others indicted in the case, Uchitha Nishantha Dammika, Palihepitiya Gamage Jayalath, and Paskuwel Fonseka Priyanga Sanjeewani, were acquitted.
-
-◼️
-
-[Data](articles/ec487ec5.json)
-
-[Extended Data](ext_articles/ec487ec5.ext.json)
-
----
-
-### Sajith seeks time to file assets in digital format
-
-*2025-09-19 23:55:00* · [`dailyftlk`](https://www.ft.lk/news/Sajith-seeks-time-to-file-assets-in-digital-format/56-781953) · `en`
-
-Opposition Leader Sajith Premadasa has written to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) requesting additional time to submit his assets and liabilities declaration in digital form.
-
-Samagi Jana Balawegaya Gampaha District Organiser Waruna Deepatha Rajapaksa told reporters that Premadasa had already lodged his assets and liabilities statement with the Secretary General of Parliament on 23 April. The Secretary General Kushani Rohanadeera, subsequently forwarded the documents to CIABOC.
-
-According to Rajapaksa, the Commission later asked that the declaration be resubmitted in digital format so it could be published on its website. In response, Premadasa sent a letter on 10 September seeking time to provide the information electronically.
-
-“Premadasa will declare his assets and liabilities in a digital format before long,” Rajapaksa said.
-
-◼️
-
-[Data](articles/6a392d55.json)
-
-[Extended Data](ext_articles/6a392d55.ext.json)
-
----
-
-### Suspects arrested over killing of activist Dan Priyasad
-
-*2025-09-19 23:53:45* · [`dailyftlk`](https://www.ft.lk/news/Suspects-arrested-over-killing-of-activist-Dan-Priyasad/56-781952) · `en`
-
-Police have arrested the alleged gunman linked to the fatal shooting of activist Dan Priyasad, along with two others.
-
-The arrests were made at a rented house in Ranwala, where officers also recovered 12,400 sticks of cigarettes, five elephant pearls, and quantities of narcotics.
-
-Priyasad, who led the “Nawa Sinhale National Movement,” was shot dead at the Laksanda Sevana Housing Complex in Wellampitiya on 22 April.
-
-The suspects, aged between 39 and 55, are from Kegalle and Welioya. Investigators said one of them, believed to be a former soldier who had not been legally discharged, is suspected of carrying out the killing and of involvement in a separate shooting attempt in Mahabage last year.
-
-◼️
-
-[Data](articles/bb014e71.json)
-
-[Extended Data](ext_articles/bb014e71.ext.json)
-
----
-
-### South Asia Policy and Research Institute holds first of youth-led series of dialogues
-
-*2025-09-19 23:53:38* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-Policy-and-Research-Institute-holds-first-of-youth-led-series-of-dialogues/56-781951) · `en`
-
-“Sri Lanka’s economic future: What role can you play in driving reforms?” was the timely and thought-provoking theme of the first discussion in a six-part youth-led series launched by the South Asia Policy and Research Institute (SAPRI) to mark its 15th anniversary.
-
-The series, held under the banner “Policy Pulse: Youth Voices for South Asia”, seeks to build policy literacy, sharpen analytical thinking, and deepen civic engagement among young Sri Lankans.
-
-The inaugural session, held on 19 September at SAPRI’s Colombo 5 office, was well attended, with students from private universities—including IIT, APIIT, and NSBM—and professionals from the advertising field, education sector, and the press.
-
-...
-
-[Data](articles/9f05c931.json)
-
-[Extended Data](ext_articles/9f05c931.ext.json)
-
----
-
-### CEB unions launch ‘critical’ protest campaign phase this Sunday
-
-*2025-09-19 23:53:24* · [`dailyftlk`](https://www.ft.lk/news/CEB-unions-launch-critical-protest-campaign-phase-this-Sunday/56-781950) · `en`
-
-The Ceylon Electricity Board (CEB) trade unions are set to begin the third stage of their industrial action against the proposed restructuring of the utility from midnight tomorrow, to run until 24 September.
-
-Union leaders described the forthcoming phase as critical, saying its outcome will shape the direction of future protests and have implications for the energy sector.
-
-The decision was announced by CEB Technicians’ Association Chairman Kosala Abeysinghe.
-
-He said the move comes in response to what unions describe as the Government’s refusal to address their concerns.
-
-“We have warned this Government to listen. This is a response to the arrogance of the Minister and the Director General in particular. But if the President continues to respond in the same way, we will be compelled to escalate matters further,” Abeysinghe said.
-
-The union campaign started on 4 September with a work-to-rule action, followed by a sick-leave protest on 17 and 18 September.
-
-...
-
-[Data](articles/d8182ba8.json)
-
-[Extended Data](ext_articles/d8182ba8.ext.json)
-
----
-
-### President champions export-oriented growth at Industry Expo 2025
-
-*2025-09-19 23:52:28* · [`dailyftlk`](https://www.ft.lk/business/President-champions-export-oriented-growth-at-Industry-Expo-2025/34-781949) · `en`
-
-President Anura Kumara Disanayake yesterday underscored the Government’s drive to transform Sri Lanka into an export-oriented production economy, as he inaugurated the Industry Expo 2025 exhibition at the Bandaranaike Memorial International Conference Hall (BMICH).
-
-Organised by the Industry and Entrepreneurship Development Ministry in collaboration with the Industrial Development Board (IDB), the four-day event running from 18 to 21 September has brought together over 450 exhibitors across 25 industrial sectors, showcasing the breadth of the country’s industrial base and its potential to scale globally.
-
-The President toured the exhibition, engaging directly with entrepreneurs and industrialists and reaffirmed the Government’s support for strengthening the role of industry in national growth. Industry and Entrepreneurship Development Deputy Minister Chathuranga Abeysinghe also joined the occasion.
-
-...
-
-[Data](articles/3878b108.json)
-
-[Extended Data](ext_articles/3878b108.ext.json)
 
 ---

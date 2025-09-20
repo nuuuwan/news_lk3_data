@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-20 15:05:49**
+As of **2025-09-20 16:07:33**
 
 ## Newspaper Stats
 
-*Scraped **77,088** Articles*
+*Scraped **77,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,73 +18,157 @@ islandlk | 4,734
 dailyftlk | 5,485
 adalk | 7,496
 adaderanalk | 9,955
-tamilmirrorlk | 11,588
+tamilmirrorlk | 11,589
 virakesarilk | 12,535
-adaderanasinhalalk | 13,453
+adaderanasinhalalk | 13,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-76,599 (99.4%) of 77,088 articles have been extended.
+76,659 (99.4%) of 77,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-20 (Saturday)
 
-### 2025 වසරේ මේ දක්වා පුද්ගලයින් ලක්ෂ 51ක් පොලිස් පරීක්ෂාවට
+### යක්කලදී මාරක අනතුරක්
 
-*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
+*2025-09-20 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214794) · `si`
 
-2025 වසරේ මේ දක්වා සිදුකළ මත්ද්‍රව්‍ය වැටලීම්වලින් හෙරොයින් කිලෝග්‍රෑම් 955ක්, අයිස් කිලෝග්‍රෑම් 1,422 ක් පොලීසිය භාරයට ගෙන තිබේ.
+කොළඹ නුවර මාර්ගයේ යක්කල ප්‍රදේශයේ සිදු වූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක, සහකාර පොලිස් අධිකාරී එෆ්. යූ. වුඩ්ලර් මහතා සඳහන් කළේ හෂිෂ් කිලෝග්‍රෑම් 471 ක්, කොකේන් කිලෝග්‍රෑම් 29ක්, ගංජා කිලෝග්‍රෑම් 13,773 ක්, මත්ද්‍රව්‍ය පෙති මිලියන 3.5ක් ද නිලධාරීන් භාරයට ගත් බවය.
+කොළඹ දෙසට ධාවනය වූ යතුරුපැදියක් කන්ටේනර් රථයක් පසුකර යාමට උත්සාහ කිරීමේදී එහි ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
 
-T-56 අවි 61ක්" පිස්තෝල 62ක් සහ රිවෝල්වර් 40ක් වෙනත් ගිනිඅවි 1,721ක් සොයා ගෙන ඇත.
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු ගම්පහ දිස්ත්‍රික් මහ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
 
-2025 ජනවාරි පළමු වනදා සිට මේ දක්වා වෙඩිතැබීමේ සිද්ධිවලට අදාළව වෙඩික්කරුවන් 38 දෙනෙකු, පැදිකරුවන් 27 දෙනෙකු, ආධාර අනුබල ලබාදීමේ සිද්ධිවලට අදාළව පුද්ගලයින් 263 දෙනෙකු ඇතුළුව සැකකරුවන් 328 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+මෙලෙස මියගොස් ඇත්තේ යක්කල ප්‍රදේශයේ පදිංචිව සිටි 25 හැවිරිදි තරුණයෙකි.
 
-මේ අතර දෛනික පොලිස් විශේෂ මෙහෙයුම්වලදී ජනවාරි 12 වනදා සිට මේ දක්වා පුද්ගලයින් 5,101,516ක් පරීක්ෂාවට ලක්කර ඇති අතර සැකපිට පුද්ගලයින් 104,602ක් අත්අඩංගුවට ගෙන තිබේ.
+◼️
 
-ඉන් පුද්ගලයින් 4630 දෙනෙකු අපරාධවලට ඍජුව හඳුනාගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/f3702a26.json)
+[Data](articles/6eff3bb3.json)
 
 ---
 
-### ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா
+### So far 104,602 people arrested on suspicion
+
+*2025-09-20 15:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-104-602-பேர்-சந்தேகத்தின்-பேரில்-கைது/175-364953) · `ta`
+
+5,101,516 people have been raided in the year 2025, with 104,602 of them on suspicion, police media spokesman said.
+
+The police media spokesman said that 4630 of the persons have been identified directly for crimes.
+
+The police media spokesman said that 955 kilograms of heroin has been recovered in the daily raids conducted by the police so far 2025.
+
+In addition, 1,422 kilograms of ice, 471 kilograms of Hashish, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million drugs have been seized.
+
+In addition, 1,721 weapons including 61 T-56 and 62 handguns have been recovered by the police.. Remble
+
+◼️
+
+[Data](articles/a6dfc7f3.json)
+
+[Extended Data](ext_articles/a6dfc7f3.ext.json)
+
+---
+
+### A corpse of a sea creature
+
+*2025-09-20 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214793) · `si`
+
+A sea creature has been launched to Tirupugulani in the South Coast of Mannar this morning.
+
+The age of eight, which is about 300 kilograms and a half of 2.30 meters.
+
+The animal is known as 'Sea cows' and believes that environmentalists believe that the accident occurred in a fishing vessel.
+
+◼️
+
+[Data](articles/579a7d77.json)
+
+[Extended Data](ext_articles/579a7d77.ext.json)
+
+---
+
+### 1,843 fatal accidents this year - 1,960 deaths
+
+*2025-09-20 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214792) · `si`
+
+1,960 people have died of accidents during this year.
+
+The police said that the suspects were killed in the accidents island wide from the first day of January this year.
+
+In addition, 3,708 have been taken after 3,708 serious roads have been reported.
+
+◼️
+
+[Data](articles/1b7528d9.json)
+
+[Extended Data](ext_articles/1b7528d9.ext.json)
+
+---
+
+### 51 lakhs of 2025 to police inspector
+
+*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
+
+The police have seized 955 kilograms of heroin with drug raids and the drug, 955 kilograms of heroin.
+
+Police Media Spokesperson, Assist Superintendent of Police F. U. Woodlor said that he was taken into custody by 471 kilograms of Hishr, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million.
+
+There are 61 T-56 weapons, 61 pistols and 40 revolvers have been recovered.
+
+Troops of 38 shotings, 273 other suspects have been arrested in connection with shooting incidents from January 2025 to date.
+
+Meanwhile, 5,101,516 persons have been inspected since January 12, the daily police stations, and 104,602 persons were arrested on suspicion.
+
+According to the Police Media Spokesperson, 4630 people have been identified as directly involved in crime.
+
+46,909 drunk drivers have been arrested in these operations and the law has been launched against 3404 drivers regarding retreating.
+
+◼️
+
+[Data](articles/f3702a26.json)
+
+[Extended Data](ext_articles/f3702a26.ext.json)
+
+---
+
+### 79th anniversary of the United National Party
 
 *2025-09-20 14:46:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியின்-79ஆவது-ஆண்டு-நிறைவு-விழா/175-364952) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் 79ஆவது ஆண்டு நிறைவு விழா இன்று (20) கொண்டாடப்படுகிறது.
+The 79th anniversary of the United National Party is celebrated today (20).
 
-ஸ்ரீ ஜயவர்தனபுரவில் உள்ள தனியார் ஹோட்டலில் "உங்கள் கருத்தைக் கைவிடாதீர்கள் - அரசியலமைப்பு சர்வாதிகாரத்தை தோற்கடிக்க ஒன்றிணைவோம்" என்ற கருப்பொருளில் நிகழ்வு ஒன்று ஏற்பாடு செய்யப்பட்டுள்ளது.
+An event is organized at the private hotel in Sri Jayawardenapura, "Do not abandon your opinion - we will unite to defeat the constitutional dictatorship".
 
-விளக்கமறியலில் வைக்கப்பட்டு பிணையில் விடுதலை செய்யப்பட்டதையடுத்து ரணில் விக்ரமசிங்க கலந்துகொண்ட முதலாவது பொது நிகழ்வு இதுவாகும்.
+This was the first public event to attend Ranil Wickremesinghe after being released on bail.
 
-இந்த நிகழ்வில் பல அரசியல்வாதிகள் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர்கள் கலந்துகொண்டுள்ளனர். R
+Many politicians and former MPs attended the event. Remble
 
 ◼️
 
 [Data](articles/504f3ead.json)
 
+[Extended Data](ext_articles/504f3ead.ext.json)
+
 ---
 
-### நுவரெலியாவில் பஸ் - லொறி விபத்து
+### Bus in Nuwara Eliya - lorry accident
 
 *2025-09-20 14:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பஸ்-லொறி-விபத்து/76-364951) · `ta`
 
-நுவரெலியா - இராகலை பிரதான வீதியில் புரூக்சைட் சந்திக்கு அருகில் இன்று (20) காலை இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was injured this morning (20) near the Brookesite junction on the Nuwara Eliya -Irakalai main road, police said.
 
-தனியார் பஸ் ஒன்றும் லொறி ஒன்றும் நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The accident occurred when a private bus and a lorry collided head -on, police said.
 
-விபத்தின் போது லொறியின் சாரதி காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர். R
+The driver of the lorry was injured during the accident, police said the hospital was admitted to the hospital for treatment.. Remble
 
 ◼️
 
 [Data](articles/4afa89cf.json)
+
+[Extended Data](ext_articles/4afa89cf.ext.json)
 
 ---
 
@@ -106,21 +190,23 @@ Preliminary investigations have revealed that the woman had been living alone in
 
 ---
 
-### මම ඩොලර් බිලියන 22ක් දීලා ගියේ,  මම මොකටද මේවා අරගන්නේ
+### I left $ 22 billion, why should I take these things?
 
 *2025-09-20 13:38:54* · [`adalk`](https://www.ada.lk/breaking_news/මම-ඩොලර්-බිලියන-22ක්-දීලා-ගියේ---මම-මොකටද-මේවා-අරගන්නේ/11-418619) · `si`
 
-තමන් විශ්වවිද්‍යාල උපාධි උත්සවයට එක්වූයේ නිල ආරාධනාවකට බව හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ 79 වැනි සංවත්සර උත්සවය අමතමින් පැවැසීය. 2022දී තමන් රට භාර ගන්නා විට පැවැති දළ ජාතික නිශ්පාදිතය ඩොලර් බිලියන 76.8ක් වූ බවත් තමන් අනුර කුමාර දිසානායක මහතාට රට භාර දෙන විට එම අගය ඩොලර් බිලියන 98.9ක් දක්වා වැඩි බවත් හිටපු ජනපතිවරයා පැවැසීය.
+Ranil Wickremesinghe addressing the 79th anniversary of the UNP that he joined the University degree ceremony. The former President said that when he was assigned the country in 2022, the former President said he was up to $ 98.9 billion when he was handed over to Anura Kumara Dissanayake.
 
-“මම මුලින්ම ගියේ හවානාවට. ඉන් පස්සේ මම නිව්යෝර්ක් ගියා. එහි සිට කොළඹට එන ගමන් මම ලන්ඩනයේ එක රැයක් ගත කළා. ඒක ට්‍රාන්ස්සිට් එකක්. මේවා නිල ගමන්. එතනදී මට තිබුණේ නිල ආරාධනයක්. හිටපු නිසා පිළි ගත්තා. ආරාධනාවක් තිබුණේ නැත්නම් මම ලන්ඩන් නුවර ඉන්නවා. මේක අරගෙනයි මාව ගෙනිච්චේ.
+"I first went to Havana. Then I went New York. I spent a night in London from the way to Colombo. It's a Tranzit. These are official travel. There I had an official invitation. Was treated because of. I'm in London, if there was an invitation. It was taken by you.
 
-මම මට ආරාධනා කළ ලියුමක් පෙන්නුවා. ඇහුවා මොකක්ද මම ලන්ඩන්වල ඉදන් ගෙනාවේ කියලා. ඕක මටත් අහන්න පුළුවන් අනුර කුමාර ජනපතිගෙන් මොනවද ජර්මනියෙන් ගෙනාවේ කියලා.
+I showed a letter invited me. Asked what I brought from London. Anura who can hear it to me from Germany.
 
-මට දැනගන්න ලැබුණා මට විරුද්ධව පැමිණිල්ලක් කර තියෙනවා කියලා. කවුද පැමිණිල්ල කළේ වර්තමාන ජනපතිගේ ජනපති ලේකම්. ඉතුරු කරුණු කියන්න එපා කියලා මට නීතිඥයින් කියලා තියෙන්නේ.
+I found out that I had lodged a complaint against me. Who did the complaint was the Presidential Secretary to the President. I have told my lawyers not to say the rest.
 
 ...
 
 [Data](articles/9d3e9a5f.json)
+
+[Extended Data](ext_articles/9d3e9a5f.ext.json)
 
 ---
 
@@ -187,6 +273,8 @@ Allegations have surfaced that children attending the school, who come with the 
 ...
 
 [Data](articles/41e65c5b.json)
+
+[Extended Data](ext_articles/41e65c5b.ext.json)
 
 ---
 
@@ -360,25 +448,29 @@ It is reported that Palestine is also planned to be recognized as a separate sta
 
 ---
 
-### உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள், வெடிமருந்துகள் மீட்பு!
+### Large guns and ammunition recovery from the house of the dead lawyer!
 
 *2025-09-20 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225570) · `ta`
 
-உயிரிழந்த சட்டத்தரணியின் வீட்டில் இருந்து ஏராளமான துப்பாக்கிகள் மற்றும் வெடிமருந்துகளை இரத்தினபுரி பொலிஸார் மீட்டுள்ளனர்.
+Ratnapura police have recovered a large number of guns and ammunition from the house of the dead lawyer.
 
-இரத்தினபுரியைச் சேர்ந்த 73 வயதுடைய சட்டத்தரணி ஒருவர் தனியாக வசித்து வந்த நிலையில், திடீரென மாரடைப்பால் உயிரிழந்துள்ளார்.
+A 73 -year -old lawyer from Ratnapura died of a sudden heart attack.
 
-உயிரிழந்த சட்டத்தரணி வீட்டில் துப்பாக்கிகள் இருப்பதாக, இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளருக்கு தகவல் கிடைத்துள்ளது.
+The Ratnapura Senior Police Superintendent has received information that there are guns in the house of the dead lawyer.
 
-இரத்தினபுரி சிரேஸ்ட பொலிஸ் கண்காணிப்பாளர் செப்டெம்பர் 17 ஆம் திகதி இரத்தினபுரி தலைமையக பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு இந்த விடயத்தை தெரிவித்துள்ளார்.
+The Senior Superintendent of Police in Ratnapura made this statement on September 17 to the Ratnapura Headquarters Police Station.
 
-இதனையடுத்து  சட்டத்தரணியின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் 12-போர் துப்பாக்கிகள், ஒரு ரிப்பீட்டர் துப்பாக்கி, 6 பிரித்தெடுக்கப்பட்ட துப்பாக்கி பாகங்கள், 11 பீப்பாய்கள், 2 சிறிய துப்பாக்கிகள், புதிய 12 மற்றும் 16-போர் வெடிமருந்துகளின் 440 சுற்றுகள் மற்றும் பல துப்பாக்கி பாகங்கள் மீட்கப்பட்டுள்ளது.
+Subsequently, a raid conducted at the lawyer's home has rescued 12-war rifles, a repeater rifle, 6 extracted gun parts, 11 barrels, 2 small guns, 440 rounds of new 12 and 16-war ammunition and many other gun parts.
 
-இந்த துப்பாக்கிகள் குற்றச் செயல்களுக்காக வழங்கப்பட்டதா அல்லது குழுக்களிடையே விநியோகிக்கப்பட்டதா என்பதை அறிய விசாரணைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+Investigations are being carried out to find out whether these guns were supplied for crime or distributed among groups.
 
-...
+Police said that investigations are underway to ensure that some guns were made locally or with the involvement of other parties.
+
+◼️
 
 [Data](articles/fd4c977e.json)
+
+[Extended Data](ext_articles/fd4c977e.ext.json)
 
 ---
 
@@ -1959,83 +2051,5 @@ However, the opposition leader has been informed to submit them in digital forma
 [Data](articles/20199200.json)
 
 [Extended Data](ext_articles/20199200.ext.json)
-
----
-
-### 7th Annual Medical Camp organized by the Army in Ampara, Batticaloa
-
-*2025-09-19 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225547) · `ta`
-
-More than 1250 people, including wounded warriors, heroic and retired relatives, were present at the Sri Lanka Army War Training School, Ampara, Ampara, Ampara, Ampara, Ampara, Ampara, on Friday (19).
-
-Army Commander Lieutenant General Lasantha Rodrigo was the chief guest at the event.
-
-The medical camp, organized under the supervision of the warrior affair and the rehabilitation work, was provided with medical problems and providing solutions, professional health advice, mental counseling, dental services, mobile laboratory services, artificial legs and surgical equipment.
-
-Apart from the problems of the dead warriors, the retired soldiers and their close relatives, the problems of the families of the heroes of the war heroes, were donated to the wounded warriors, wheelchairs, crutches, nasal mirrors and necessary surgery equipment.
-
-...
-
-[Data](articles/715d56d9.json)
-
-[Extended Data](ext_articles/715d56d9.ext.json)
-
----
-
-### Govt Analyst report confirms samples from Middeniya contained chemicals used in making ‘Ice’
-
-*2025-09-19 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112684/govt-analyst-report-confirms-samples-from-middeniya-contained-chemicals-used-in-making-ice) · `en`
-
-The Government Analyst’s Department has informed Sri Lanka Police that the samples obtained from Middeniya have been confirmed to contain chemicals used in the production of Crystal Methamphetamine, also known as ‘Ice’, sources told Ada Derana.
-
-The Government Analyst’s Department has handed over its report following the tests carried out on the samples obtained from the chemicals recently found in a property in the Middeniya area.
-
-Police sources said that according to the relevant report, they have been confirmed to be chemicals used to manufacture the drug ‘Ice’.
-
-The Western Province North Crime Division recovered about 50,000 kilograms of chemicals from the Middeniya area on September 6, which were suspected to be used to manufacture ‘Ice” drugs in the country by major drug traffickers known as ‘Kehelbaddara Padme’ and ‘Kudu Nilanga’.
-
-...
-
-[Data](articles/074878fd.json)
-
-[Extended Data](ext_articles/074878fd.ext.json)
-
----
-
-### Analyst's report confirmed on chemicals in Midigiyana
-
-*2025-09-19 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214770) · `si`
-
-The Government Analyst's report of the samples of the chemicals found in the Middeniya has been handed over to the police.
-
-According to the police, they have confirmed that they are used to create ice drugs.
-
-The Western Criminal Division of the Western Criminal Division was found in the Western Criminal Criminal Division of about 50,000 kilograms of chemicals to produce ice drugs in Sri Lanka and Kudu Nilanga.
-
-According to information revealed by the Western Province North Criminal Division, who was arrested in Indonesia with the Kehelbadara Padma.
-
-The chemicals have then referred to the Dangerous Drugs Control Board and the Government Analyquacious for the investigation of the chemicals.
-
-The Dangerous Drugs Control Board recently was released recently, and there were the chemicals used to build ice narcotics.
-
-Meanwhile, the report of the Analyst's Department was handed over to the police to the police today.
-
-...
-
-[Data](articles/aad95de5.json)
-
-[Extended Data](ext_articles/aad95de5.ext.json)
-
----
-
-### Kota came to Mahinda's house
-
-*2025-09-19 18:47:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வீட்டுக்கு-வந்த-கோட்டா/175-364926) · `ta`
-
-◼️
-
-[Data](articles/aa777391.json)
-
-[Extended Data](ext_articles/aa777391.ext.json)
 
 ---

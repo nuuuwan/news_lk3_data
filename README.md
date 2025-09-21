@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 13:05:48**
+As of **2025-09-21 13:20:29**
 
 ## Newspaper Stats
 
-*Scraped **77,223** Articles*
+*Scraped **77,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,69 @@ islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,503
 adaderanalk | 9,975
-tamilmirrorlk | 11,612
+tamilmirrorlk | 11,613
 virakesarilk | 12,566
-adaderanasinhalalk | 13,483
+adaderanasinhalalk | 13,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,222 (100.0%) of 77,223 articles have been extended.
+77,223 (100.0%) of 77,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### கரந்தெனிய பிரதேச சபைத் தவிசாளர் திடீர் மரணம்
+### අමෙරිකාවේ සමාජ ශාලාවක  වෙඩි තැබීමක්
+
+*2025-09-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214823) · `si`
+
+අමෙරිකාවේ නිව් හැම්ප්ෂයහි සමාජ ශාලාවක සිදුවූ වෙඩි තැබීමකින් එක් පුද්ගලයෙකු මියගොස් තවත් පිරිසක් තුවාල ලබා තිබේ.
+
+ගිනිඅවියක් සහිතව එම සමාජ ශාලාවට ඇතුළු වූ අයෙකු එක්වරම පිරිස වෙත වෙඩි ප්‍රහාර එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මෙලෙස මිය ගොස් ඇත්තේ එහි රැදී සිටි පිරිමි පුද්ගලයෙකු වන අතර වෙඩික්කරු අත්අඩංගුවට ගැනීමට පොලිසියට හැකිව තිබේ.
+
+◼️
+
+[Data](articles/3f6603fb.json)
+
+---
+
+### மருமளான நர்ஸ்ஸின் அந்த உறுப்பை கடித்து துண்டாக்கிய மாமியார்
+
+*2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
+
+அமைதியாக வாழ்ந்து வந்த ஒரு குடும்பத்தில், ஒரு பயங்கர சம்பவம் அரங்கேறியது. இந்த சம்பவம் அப்பகுதி மக்களிடையே பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது. கன்னியாகுமரி மாவட்டம், திருவட்டார் பகுதியிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+மஞ்சு, ஓர் அர்ப்பணிப்பு மிக்க நர்ஸ், மற்றும் அவரது கணவர் பிரின்ஸ், ஒரு டிரைவர். இரு குழந்தைகளுடன் வாழ்ந்து வந்த இந்த இளம் தம்பதியின் வாழ்க்கையில், மாமியார் அல்போன்சாவின் செயல்கள் புயலை கிளப்பியுள்ளன.
+
+மஞ்சு, மருத்துவமனையில் தனது நர்ஸ் பணியை ஆற்றி, குடும்பத்திற்கு உறுதுணையாக இருந்தார். ஆனால், அவர்களது அமைதியான வாழ்க்கையில் மாமியார் அல்போன்சா ஒரு நிழலாக வந்து நின்றார்.
+
+வரதட்சணை கேட்டு அவர் அடிக்கடி மஞ்சுவை கொடுமைப்படுத்தி வந்தார். "இன்னும் பணம் கொண்டு வா, இல்லையென்றால் இந்த வீட்டில் உனக்கு இடமில்லை!" என்று அவர் மிரட்டுவது வழக்கமாக இருந்தது.
+
+மஞ்சு, இந்த அவமானங்களை பொறுத்து, குடும்பத்தின் நிம்மதிக்காக பேசாமல் இருந்தார்.நேற்று மாலை, இந்தப் பிரச்சனை உச்சத்தை எட்டியது. பிரின்ஸ், குடிபோதையில் வீட்டிற்கு வந்தார். இதனால் மஞ்சுவுக்கும் அவருக்கும் இடையே வாக்குவாதம் மூண்டது.
+
+...
+
+[Data](articles/91baed23.json)
+
+---
+
+### Sudden death of the Chairman of the Karandeniya Pradeshiya Sabha
 
 *2025-09-21 12:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரந்தெனிய-பிரதேச-சபைத்-தவிசாளர்-திடீர்-மரணம்/175-364988) · `ta`
 
-கரந்தெனிய பிரதேச சபைத் தவிசாளரான 47 வயதுடைய மஹீல் முனசிங்க ஞாயிற்றுக்கிழமை (21) காலை திடீரென காலமானார்.
+47 -year -old Maheel Munasinghe, the Chairman of the Karandeniya Pradeshiya Sabha, passed away on Sunday morning (21).
 
-அவர் ஞாயிற்றுக்கிழமை (21) காலை உடற்பயிற்சி செய்து கொண்டிருந்தபோது திடீரென ஏற்பட்ட உடல்நலக் குறைவு காரணமாக மருத்துவமனைக்கு கொண்டு சென்றுள்ளதுடன் மருத்துவமனையில் அனுமதித்த போதும் அவர் உயிரிழந்திருந்ததாக தெரிவிக்கப்படுகிறது.
+He was taken to the hospital due to a sudden illness when he was exercising on Sunday morning (21) morning.
 
 ◼️
 
 [Data](articles/efce0f64.json)
+
+[Extended Data](ext_articles/efce0f64.ext.json)
 
 ---
 
@@ -2029,37 +2067,5 @@ Themed ‘Autobahn 2.0,’ the convention embodied the attributes of speed, comf
 [Data](articles/e8a7f511.json)
 
 [Extended Data](ext_articles/e8a7f511.ext.json)
-
----
-
-### HNB Assurance Wins Silver at Dragons of Sri Lanka 2025 Awards
-
-*2025-09-20 16:47:00* · [`islandlk`](http://island.lk/hnb-assurance-wins-silver-at-dragons-of-sri-lanka-2025-awards/) · `en`
-
-Breaking boundaries in brand storytelling, HNB Assurance proudly bagged a Silver at the Dragons of Sri Lanka 2025 Awards for its Virtual Avurudu Village campaign under the Digital Category. This innovative initiative redefined how traditions can meet technology, turning a beloved cultural festival into an immersive digital experience that struck a chord with a new generation of audiences.
-
-...
-
-[Data](articles/6bce7f7e.json)
-
-[Extended Data](ext_articles/6bce7f7e.ext.json)
-
----
-
-### Alliance Finance and WNPS PLANT forge long term conservation partnership
-
-*2025-09-20 16:46:00* · [`islandlk`](http://island.lk/alliance-finance-and-wnps-plant-forge-long-term-conservation-partnership/) · `en`
-
-Build Conservation contribution into core products while developing Community Resilience in the central highlands.A new chapter in Sri Lanka’s forest restoration journey began with a landmark partnership between Alliance Finance Company PLC (AFC) and Preserving Land and Nature (Guarantee) Limited (PLANT), a news release from the Wildlife and Nature Protection Society (WNPS) said last week.
-
-Formalized through a recent MoU, this multi-year collaboration integrates sustainability into AFC’s core products, supports the planting of 100,000 trees across PLANT sites, and initiates community programs near restoration areas.
-
-The first engagement unfolds at Radella Estate in Nuwara Eliya, managed by Talawakelle Tea Estates PLC, where AFC will help establish a forest corridor – part of a 13 km stretch being developed by WNPS PLANT with multiple partners.
-
-...
-
-[Data](articles/1a7c3d0f.json)
-
-[Extended Data](ext_articles/1a7c3d0f.ext.json)
 
 ---

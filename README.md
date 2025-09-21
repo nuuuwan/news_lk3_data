@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 00:52:03**
+As of **2025-09-22 01:05:46**
 
 ## Newspaper Stats
 
-*Scraped **77,290** Articles*
+*Scraped **77,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,512
 adaderanalk | 9,992
-tamilmirrorlk | 11,622
+tamilmirrorlk | 11,623
 virakesarilk | 12,573
 adaderanasinhalalk | 13,503
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,290 (100.0%) of 77,290 articles have been extended.
+77,290 (100.0%) of 77,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### CEB அத்தியாவசிய சேவையாக பிரகடனம்
+
+*2025-09-22 00:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/CEB-அத்தியாவசிய-சேவையாக-பிரகடனம்/150-365026) · `ta`
+
+மின்சாரம் தொடர்பான அனைத்து சேவைகளையும் அத்தியாவசிய சேவைகளாக ஜனாதிபதி அனுரகுமார திசாநாயக்க அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/dbeb8a98.json)
+
+---
 
 ### Asian Bowl: India defeated Pakistan
 
@@ -2121,19 +2133,5 @@ The driver of the lorry has been arrested in connection with the accident and th
 [Data](articles/c23f3036.json)
 
 [Extended Data](ext_articles/c23f3036.ext.json)
-
----
-
-### 14 people in Bogawantalawa hospital hospital
-
-*2025-09-21 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225632) · `ta`
-
-12 women and 2 men have been admitted to the hospital in Kotiyagala, which belongs to the Bogawantalawa police division.
-
-◼️
-
-[Data](articles/48ce6b52.json)
-
-[Extended Data](ext_articles/48ce6b52.ext.json)
 
 ---

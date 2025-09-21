@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 08:56:15**
+As of **2025-09-21 08:30:27**
 
 ## Newspaper Stats
 
-*Scraped **77,172** Articles*
+*Scraped **77,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,55 +18,37 @@ islandlk | 4,751
 dailyftlk | 5,485
 adalk | 7,501
 adaderanalk | 9,965
-tamilmirrorlk | 11,597
+tamilmirrorlk | 11,596
 virakesarilk | 12,550
-adaderanasinhalalk | 13,476
+adaderanasinhalalk | 13,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,170 (100.0%) of 77,172 articles have been extended.
+77,169 (100.0%) of 77,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### ඖෂධ හිඟයට හේතුව මූල්‍ය ගැටලුවක් නොවන බව සෞඛ්‍ය ඇමති කියයි
-
-*2025-09-21 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214815) · `si`
-
-මේ වන විට පවතින ඖෂධ හිඟයට හේතුව මූල්‍ය ගැටලුවක් නොවන බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි
-
-අම්පාර ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් අමාත්‍යවරයා පැවසුවේ ප්‍රසම්පාදනයේ පවතින ගැටලු හේතුවෙන් මෙම තත්ත්වය මතුව ඇති බවය.
-
-එමෙන්ම මේ වන විට ඖෂධ ගෙන්වීම සඳහා ප්‍රසම්පාදන ක්‍රියාවලීන් ආරම්භ වී ඇති බවත් ඒ අනුව එළැඹෙන නොවැම්බර් මාසයෙන් පසුව අදාළ ඖෂධ ගෙන ඒමටද නියමිත බවත් අමාත්‍යවරයා මෙහිදී පැවසීය.
-
-...
-
-[Data](articles/e70bc967.json)
-
----
-
-### Indian ship to the port of Colombo
+### ඉන්දීය නෞකාවක් කොළඹ වරායට
 
 *2025-09-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214814) · `si`
 
-The Indian Navy's Ins Satipura arrived at the Port of Colombo.
+ඉන්දීය නාවික හමුදාවට අයත් ‘INS SATPURA’ නෞකාව කොළඹ වරායට පැමිණ තිබේ.
 
-The ship arrived in Sri Lanka yesterday (20) to meet the supplies and service requirements.
+සැපයුම් හා ‍සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා එම නෞකාව ඊයේ (20) මෙරටට පැමිණි බව නාවික හමුදාව සඳහන් කළේය.
 
-The ship, the Sri Lankan Navy, was recognized by the Navy.
+ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකරනු ලැබීය.
 
-The frigate type, which arrived in the island, is 142.5 meters and 403 of the ship.
+දිවයිනට  පැමිණි Frigate වර්ගයට අයත් ‘INS SATPURA’ නෞකාව, දිගින් මීටර් 142.5ක් සහ නැවේ කර්යමණ්ඩලය 403 දෙනෙකුගෙන් සමත්විතයි.
 
-The Navy also said that the shipping was to visit the most important places in the island during the period of the time of the 'Insath of the island'.
+‘INS SATPURA’ නෞකාව දිවයිනේ රැඳී සිටින කාලසීමාව තුළ එහි නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට ද නියමිත බව නාවික හමුදාව සඳහන් කළේය.
 
 ◼️
 
 [Data](articles/47fe285a.json)
-
-[Extended Data](ext_articles/47fe285a.ext.json)
 
 ---
 
@@ -177,24 +159,6 @@ Three people have been identified in the attack and they are involved in drug tr
 [Data](articles/c9c26b28.json)
 
 [Extended Data](ext_articles/c9c26b28.ext.json)
-
----
-
-### போதை மாத்திரைகளுடன் மூவர் கைது
-
-*2025-09-21 03:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-மூவர்-கைது/175-364960) · `ta`
-
-யாழ்ப்பாணம் பொலிஸ் பிரிவுக்குட்பட்ட கொழும்புத்துறை பகுதியில், போதை மாத்திரைகளை விற்பனை செய்த மூவர் கைது செய்யப்பட்டுள்ளனர்.
-
-யாழ்ப்பாணம் பொலிஸ் குற்ற தடுப்பு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் போதை மாத்திரைகளை நீண்ட நாட்களாக  விற்பனை செய்த குறித்த மூவரும் நேற்று (20) யாழ்ப்பாணம் பொலிஸ் போதை பொருள்  ஒழிப்பு பொலிஸாரால்  கைது செய்யப்பட்டுள்ளார்
-
-இதன் போது 180 போதை மாத்திரைகளுடன் 18, 24 ,22 வயதுடைய  யாழ்ப்பாணம் கொழும்புத்துறையை மூன்று சந்தேக நபர்கள் கைது செய்யப்பட்டனர்
-
-இந்த  சம்பவம் தொடர்பான மேலதிக விசாரணைகளை யாழ்ப்பாணம் பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
-
-◼️
-
-[Data](articles/4429c6a4.json)
 
 ---
 
@@ -2053,5 +2017,37 @@ We have been transparently disclosed without hiding them.
 [Data](articles/86488707.json)
 
 [Extended Data](ext_articles/86488707.ext.json)
+
+---
+
+### Bangladesh Sri Lanka match today
+
+*2025-09-20 10:48:54* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශ-ශ්‍රී-ලංකා-තරගය-අද/9-418616) · `si`
+
+Sri Lankan team and Bangladesh team to begin the Superintendent of the Asia Cup. මෙය සුපිරි හතර දෙනාගේ වටයේ පළමු තරගය වෙයි.
+
+◼️
+
+[Data](articles/deb7edf9.json)
+
+[Extended Data](ext_articles/deb7edf9.ext.json)
+
+---
+
+### Former President Ranil to join UNP’s 79th anniversary celebration
+
+*2025-09-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112696/former-president-ranil-to-join-unps-79th-anniversary-celebration-) · `en`
+
+The 79th anniversary of the United National Party (UNP) will be celebrated today (20).
+
+The event will be held under the patronage of the party leader, former President Ranil Wickremesinghe.
+
+The anniversary celebrations are scheduled to take place at a private hotel in the Sri Jayewardenepura area.
+
+◼️
+
+[Data](articles/6c09f468.json)
+
+[Extended Data](ext_articles/6c09f468.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 02:36:53**
+As of **2025-09-22 03:05:57**
 
 ## Newspaper Stats
 
-*Scraped **77,300** Articles*
+*Scraped **77,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailyftlk | 5,485
 adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,623
-virakesarilk | 12,580
+virakesarilk | 12,581
 adaderanasinhalalk | 13,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,300 (100.0%) of 77,300 articles have been extended.
+77,301 (100.0%) of 77,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### President Anura Kumara Dissanayake has been appointed one year
+
+*2025-09-22 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225694) · `ta`
+
+President Anura Kumara Dissanayake takes over as the 9th Executive President of Sri Lanka and is completed by one year (23).
+
+President Anura Kumara Dissanayake was elected as the Chairman of the National People's Power on 2021.2012 and contested the 08th Presidential election on 21.09.2012, on behalf of the National People's Power.
+
+In the presidential election held last year, Anuragumara Dissanayake, who contested on behalf of the National People's Power, won 42,31 per cent votes and 42,31 per cent votes, Sajith Premadasa, who contested on behalf of the United People's Power, with 32.76 per cent votes and the new Democratic Front 29,777 Namal Rajapaksa, who contested the votes on behalf of the Sri Lanka PA, received 342,781 votes with 2.57 per cent of the votes.
+
+In the presidential election in Sri Lanka's presidential election, he was elected as President of the President in last year's presidential election.
+
+...
+
+[Data](articles/76d4b7a9.json)
+
+[Extended Data](ext_articles/76d4b7a9.ext.json)
+
+---
 
 ### A no -confidence motion on the Speaker; At the meeting with the opposition leaders of the end result
 
@@ -2129,27 +2149,5 @@ Sai Baba Sannur, Babu, stays in this Biji. For this Babu, the teenager has a pre
 [Data](articles/df9cfed7.json)
 
 [Extended Data](ext_articles/df9cfed7.ext.json)
-
----
-
-### 168 lakhs meet in Katunayake airport
-
-*2025-09-21 10:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-168ක්-මත්ද්‍රව්‍ය-කටුනායක-ගුවන්තොටේ-පිරිමි-වැසිකිළියෙන්-හමුවෙයි/11-418627) · `si`
-
-A large number of "Kush 'and" Hashish "has been arrested by the Police Narcotics Bureau, which was thrown into the march toilet of the Bandaranaike International Airport.
-
-There were 422 grams of Kushrogesta and 1kg and 262 grams of 'Hashish' drugs.
-
-Steps have been taken to educate the officers of the Katunayake airport Customs Drug Administration Divisional Secretariat at about 01.30 days of the toilet.
-
-The infant has been arrested by the Customs Drug Administration in the Customs Drug Administration in the Katunayake Air Force Police Narcotics Bureau.
-
-The officials of the Katunayake Airport Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ef6c980e.json)
-
-[Extended Data](ext_articles/ef6c980e.ext.json)
 
 ---

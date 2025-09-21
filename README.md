@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 18:19:25**
+As of **2025-09-21 18:56:05**
 
 ## Newspaper Stats
 
-*Scraped **77,268** Articles*
+*Scraped **77,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adalk | 7,510
 adaderanalk | 9,985
 tamilmirrorlk | 11,620
 virakesarilk | 12,572
-adaderanasinhalalk | 13,493
+adaderanasinhalalk | 13,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,268 (100.0%) of 77,268 articles have been extended.
+77,270 (100.0%) of 77,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### British preparing to make a decision that hurts
+
+*2025-09-21 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214834) · `si`
+
+It is reported that the British Prime Minister Kihi Starmer is to be released today (21) a official statement that Palestine is recognized as a legitimate state.
+
+Accordingly, the first member of the G7 group who accepts the Palestine is the first member of the G7 team.
+
+In addition to the British, France, Canada and Australia, are to be issued during the United Nations General Assembly meeting this week.
+
+However, Israel and the US have expressed their displeasure to this decision.
+
+US President Donald Trump had been opposed to Prime Minister Stammer during the last week.
+
+◼️
+
+[Data](articles/58ffa2fd.json)
+
+[Extended Data](ext_articles/58ffa2fd.ext.json)
+
+---
+
+### A new order on checking drug drivers
+
+*2025-09-21 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214833) · `si`
+
+The Ministry of Transport and Civil Aviation has issued a new order for how to inspect the drivers who operate drivers to be carried out using the drivers.
+
+According to Section 151 of the Motorcycle Act, which is effective from September 1, has been issued.
+
+This order has explained how a driver is fairly suspected by a police officer that a police officer is fairly suspected by a police officer.
+
+According to a driver's skin, a driver's skin has a unusual behavior, dysfunctional behavior, action, movement, movement, and the appearance of the driver, the Ministry of Transport, Highways and Civil Aviation points out that the police personnel.
+
+The police officer has authorized a driver who is identified as drugs that have been taken.
+
+The inspection should be carried out at a police station or any easier location and the relevant order should be done so that the public should be done.
+
+...
+
+[Data](articles/5ecc4fd4.json)
+
+[Extended Data](ext_articles/5ecc4fd4.ext.json)
+
+---
 
 ### Malta national seizes a place suspected to produce ice
 
@@ -2091,43 +2137,5 @@ The Meteorological Department urges the public to take necessary arrangements to
 [Data](articles/cf009941.json)
 
 [Extended Data](ext_articles/cf009941.ext.json)
-
----
-
-### Proparco France ready to look at financing Sri Lanka firms as default ends
-
-*2025-09-21 05:00:00* · [`economynextcom`](https://economynext.com/proparco-france-ready-to-look-at-financing-sri-lanka-firms-as-default-ends-241336/) · `en`
-
-ECONOMYNEXT – Proparco, the private sector arm of the French development lender Agence Française de Développement, is ready to look at financing firms in Sri Lanka as the country has emerged from default and is stable, an official said.
-
-Sri Lanka defaulted on its external debt in 2022 and has now completed the restructuring of its sovereign bonds, and most of its bilateral debt including those of the AFD itself.
-
-Bilateral lenders stopped lending to Sri Lanka and only provided grants during the time of default, while multilaterals’ whose debt continued to be serviced, funded the island.
-
-“It was not so easy at that time,” Reza Hassam Daya, Global Head of Manufacturing, Agribusiness and Services at Proparco told EconomyNext.
-
-“But now, I think we are very open to seeing some projects.”
-
-...
-
-[Data](articles/d1850bb7.json)
-
-[Extended Data](ext_articles/d1850bb7.ext.json)
-
----
-
-### US attack on drug ship
-
-*2025-09-21 03:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போதைப்பொருள்-கப்பல்-மீது-அமெரிக்கா-தாக்குதல்/50-364961) · `ta`
-
-US navy has attacked a ship carrying drugs in the Caribbean Sea.
-
-Three people have been identified in the attack and they are involved in drug trafficking. (A)
-
-◼️
-
-[Data](articles/c9c26b28.json)
-
-[Extended Data](ext_articles/c9c26b28.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 15:37:52**
+As of **2025-09-21 17:05:54**
 
 ## Newspaper Stats
 
-*Scraped **77,250** Articles*
+*Scraped **77,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,227 @@ economynextcom | 4,667
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
-adalk | 7,507
-adaderanalk | 9,983
-tamilmirrorlk | 11,618
-virakesarilk | 12,570
-adaderanasinhalalk | 13,488
+adalk | 7,509
+adaderanalk | 9,985
+tamilmirrorlk | 11,619
+virakesarilk | 12,572
+adaderanasinhalalk | 13,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,247 (100.0%) of 77,250 articles have been extended.
+77,255 (100.0%) of 77,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### இலங்கை போக்குவரத்து சபைக்கு பெண்களை விமான பணிப்பெண்களைப் போன்ற சீருடையில் பணியமர்த்த நடவடிக்கை
+### கொழும்பு புறக்கோட்டை தீ விபத்து ; விசாரணை செய்ய குழு நியமனம்
 
-*2025-09-21 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225667) · `ta`
+*2025-09-21 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225676) · `ta`
 
-இலங்கை போக்குவரத்து சபைக்கு சாரதிகள் மற்றும் நடத்துநர்களாக  பெண்களையும் பணியமர்த்த நடவடிக்கை எடுக்கபட்டுள்ளது.
+கொழும்பு, புறக்கோட்டை, முதலாம் குறுக்குத் தெருவில் உள்ள மின்சாதனப் பொருட்கள் கடையில் நேற்று சனிக்கிழமை இடம்பெற்ற தீ விபத்து தொடர்பில் விசாரணை செய்ய குழு ஒன்று நியமிக்கப்பட்டுள்ளது.
 
-அந்தவகையில், அவர்களுக்கு விமானப் பணிப்பெண்களின் சீருடைக்கு போன்ற  சீருடை வழங்கப்படவுள்ளதாக போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்துள்ளார்.
+இந்தக் குழுவிற்கு பொது மக்கள் பாதுகாப்பு அமைச்சர், சட்டதரணி சுனில் வட்டகல தலைமை வகிக்கிறார்.
 
-450 சாரதிகள் மற்றும் 300 நடத்துனர்களை பணியமர்த்துவதற்கான நேர்காணல்கள் நடைபெற்று வருவதாகவும், அதில் பெண் ஊழியர்கள் சேர்க்கப்பட்டுள்ளதாகவும் அவர் மேலும் குறிப்பிட்டுள்ளார்.
+சனிக்கிழமை மதியம் பற்றிய தீ சுமார் 12 மணி நேரம் நீடித்த நிலையில், பாரிய நடவடிக்கைகளுக்குப் பின்னர் கட்டுப்பாட்டுக்குள் கொண்டுவரப்பட்டது.
 
-ஆரம்ப கட்டத்தில், இந்தத் திட்டம் விரிவுபடுத்தப்படுவதற்கு முன்பு, கொழும்பு மாவட்டத்தில் உள்ள பாடசாலை பஸ்களில் பெண்கள் பணியமர்த்தப்படுவார்கள்.
+கொழும்பு நகராட்சி மன்ற தீயணைப்புத் திணைக்களத்தின் தீயணைப்புப் பிரிவுகள், இலங்கை விமானப்படை மற்றும் கடற்படையைச் சேர்ந்த பணியார்கள் சம்பவ இடத்திற்கு விரைந்து சென்றிருந்தனர்.
+
+அருகிலுள்ள கட்டிடங்களுக்கு தீ பரவாமல் தடுக்க சுமார் 15 தீயணைப்பு இயந்திரங்கள் மற்றும் விமானப்படை பெல்-212 ஹெலிகொப்டர் தீயணைப்பு நடவடிக்கையில் பயன்படுத்தப்பட்டன.
+
+◼️
+
+[Data](articles/f8cb2cf6.json)
+
+---
+
+### பங்களாதேஷின் டாக்கா மற்றும் பிற பகுதிகளில் நிலநடுக்கம்
+
+*2025-09-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225671) · `ta`
+
+பங்களாதேஷின் டாக்கா மற்றும் பிற பகுதிகளில் இன்று ஞாயிற்றுக்கிழமை (21) பிற்பகல் லேசான நிலநடுக்கம் பதிவாகியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+மதியம் 12:09 மணிக்கு 4.0 ரிச்டர் அளவில் நிலநடுக்கம் பதிவானதாக வளிமண்டலவியல் திணைக்களம் அறிக்கை வெளியிட்டுள்ளது.
+
+டாக்காவின் அகர்கானில் உள்ள நில அதிர்வு நிலையத்திலிருந்து வடகிழக்கே 185 கிலோமீற்றர் தொலைவில் நிலநடுக்கத்தின் மையம் இருந்ததாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+பங்களாதேஷை தாக்கிய 4 ரிச்டர் அளவிலான நிலநடுக்கத்திற்குப் பின்னர் இந்தியாவின் மேகாலயாவில் நிலநடுக்கம் உணரப்பட்டுள்ளது.
+
+மேகாலயாவில் எந்த சேதமோ அல்லது உயிரிழப்புகளோ ஏற்பட்டதாக உடனடி தகவல்கள் எதுவும் இல்லை என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இதற்கிடையில், இந்தியாவின் குஜராத்தில், கட்ச் மாவட்டத்தில் 3.1 ரிக்டர் அளவிலான நிலநடுக்கம் ஏற்பட்டதாக நிலநடுக்க ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/16e67e30.json)
+
+---
+
+### Woman arrested for stealing mother -in -law
+
+*2025-09-21 16:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியின்-நகையை-திருடி-மற்றொருவருடன்-குடும்பம்-நடத்திய-பெண்-கைது/175-365003) · `ta`
+
+The incident took place in the Ingiriya police division, who was arrested with her second husband and her second husband, who had stolen gold jewelery worth 28 and half a million rupees worth of her mother -in -law, who had separated from her husband and had a family with another man.
+
+A 40 -year -old man who lives in Horana area and a 38 -year -old woman who had a family of Meebay Ingiriya, a 38 -year -old woman.
+
+The woman, who is said to be the wife of a professor from Ingiriya, developed a relationship with another man while she went to study a course.. Later, she went to live with the second man, complaining to the police, claiming to be difficult to live with her husband.
+
+About a week later, the mother -in -law of the woman's husband, knowing that more than 2.8 million gold jewelery she had had, lodged a complaint with the Ingiriya police.
+
+...
+
+[Data](articles/04b35b0d.json)
+
+[Extended Data](ext_articles/04b35b0d.ext.json)
+
+---
+
+### A dead body of a young man who died in mysteriously meet
+
+*2025-09-21 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214829) · `si`
+
+The body of a youth of a youth who died was in a culvert in the Yakalla area in Ibbagamuwa has been recovered.
+
+The deceased has been identified as a resident of the Ibbagamuwa Park area.
+
+The police said that the deceased has also lodged a complaint that the deceased had been disappeared from last night.
+
+Residents have told the police that the young man who had served as a workers' farm last night, but he had not received any information since 10 pm.
+
+◼️
+
+[Data](articles/5aef0b52.json)
+
+[Extended Data](ext_articles/5aef0b52.ext.json)
+
+---
+
+### Chinese ‘research ship’ Yuan Wang 5 re-enters Indian Ocean after three years
+
+*2025-09-21 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112735/chinese-research-ship-yuan-wang-5-re-enters-indian-ocean-after-three-years) · `en`
+
+Three years after its controversial entry into the Indian Ocean, China’s Yuan Wang 5 — a vessel officially designated as a ‘research ship’ but widely recognised as a sophisticated intelligence-gathering platform — has once again been tracked near the region, sparking fresh concerns in India’s security establishment.
+
+According to Indian and Bangladeshi naval sources, the ship was located at 11.0288 S and 100.9873° E at 02:38 UTC (around 8:10 pm IST) on Saturday through the Automatic Identification System (AIS). The vessel has been under close watch since it left Indonesia about 36 hours earlier, with Bangladeshi naval officers noting its likely trajectory toward the Bay of Bengal.
+
+While Dhaka has been openly monitoring the ship’s movements, Indian authorities have remained tight-lipped. However, sources in the national security and intelligence agencies have admitted that the vessel’s entry is being taken “very seriously” given its advanced space-tracking and surveillance capabilities.
+
+...
+
+[Data](articles/7e1022aa.json)
+
+---
+
+### The Sri Lanka Transport Board (SLTB) to hire uniforms like air maids
+
+*2025-09-21 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225667) · `ta`
+
+Steps have been taken to hire women as drivers and conductors to the Sri Lanka Transport Board.
+
+Transport Minister Bimal Ratnayake has said that they will be given uniforms for the uniform of the flight attendants.
+
+He added that there were interviews to hire 450 drivers and 300 operators and female staff were included in it.
+
+In the early stages, before the project is expanded, women will be hired on school buses in the Colombo district.
 
 ◼️
 
 [Data](articles/f8534aaf.json)
 
+[Extended Data](ext_articles/f8534aaf.ext.json)
+
 ---
 
-### கடந்த வாரம் அரிசி தொடர்பாக 70 சோதனை நடவடிக்கைகள் ;  நுகர்வோர் விவகார அதிகாரசபை
+### Defense Secretary is not the only conflict - real peace can be achieved
 
-*2025-09-21 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225665) · `ta`
+*2025-09-21 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214828) · `si`
 
-கடந்த வாரம் அரிசி தொடர்பான 70 சோதனை நடவடிக்கைகளை நடத்தியதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
+Defense Secretary Air Vice Marshal Sampantha TiCantha says that true peace will be achieved only by the conflict, the contact, mutual understanding and creative approaches.
 
-அரிசி விற்பனை தொடர்பில் 55 சோதனைகள் நடத்தப்பட்டதாகவும், மேலும் அரிசி தொடர்பான 15 சோதனைகள் நடத்தப்பட்டதாகவும் அதிகாரசபை மேலும் தெரிவித்துள்ளது.
+The Defense Secretary explained the statement made by President XI Jinping by President XI Jinping by Hon.
 
-அரிசியை மறைத்து வைத்தல், விலைகளை மறைத்தல் மற்றும் நிபந்தனைகளுடன் அரிசியை விற்பனை செய்தல் போன்ற குற்றங்கள் இதன் கீழ் அடங்குவதாக அதிகாரசபை குறிப்பிட்டுள்ளது.
+He also said that this conference provides an important platform to feed the Chinese government for inviting Sri Lanka to Sri Lanka in Sri Lanka with the invitation to Sri Lanka in the Asia-Pacific region.
 
-தனிப்பட்ட ரீதியான வர்த்தகர் ஒருவர் அதிக விலைக்கு அரிசியை விற்றதாகக் கண்டறியப்பட்டால், அவருக்கு ஒரு இலட்சம் ரூபாய் முதல் 5 இலட்சம் ரூபாய் வரை அபராதம் அல்லது 5 மாதங்கள் சிறைத்தண்டனை அல்லது இரண்டும் விதிக்கப்படலாம் என நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
+The Strategic Geographical location of Sri Lanka has also emphasized the long-term commitment to Sri Lanka's long-standing, open and open zone.
 
-அதேநேரம், ஒரு தனியார் நிறுவனம் குற்றவாளி என நிரூபிக்கப்பட்டால், நீதிமன்றம் 5 இலட்சம் ரூபாய் முதல் 50 இலட்சம் ரூபாய் வரை அபராதம் விதிக்கலாம் என்றும், அரிசி பதுக்கல் தொடர்பான குற்றத்திற்காக குற்றம் சுமத்தப்பட்டால், அபராதம் அல்லது சிறைத்தண்டனை அல்லது இரண்டையும் விதிக்கலாம் எனவும் அதிகாரசபை குறிப்பிட்டுள்ளது.
+He further stated that Sri Lanka is preparing to establish diplomatic relations between countries in the Asian region and the necessary facilities for economic and cultural conversation.
 
 ...
 
+[Data](articles/84fb7b2d.json)
+
+[Extended Data](ext_articles/84fb7b2d.ext.json)
+
+---
+
+### Mild earthquake shakes Dhaka, other parts of Bangladesh
+
+*2025-09-21 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112732/mild-earthquake-shakes-dhaka-other-parts-of-bangladesh) · `en`
+
+A mild tremor shook Dhaka and several other parts of Bangladesh on Sunday afternoon (21).
+
+According to the Bangladesh Meteorological Department, the tremor was recorded at 12:09pm with a magnitude of 4.0 on the Richter scale.
+
+The epicentre of the earthquake was 185 km north-east of BMD Seismic Centre, Agargaon, Dhaka, according to BMD.
+
+Meanwhile, tremors were felt in India’s Meghalaya after a 4-magnitude earthquake hit Bangladesh. There were no immediate reports of any damage or casualties in Meghalaya, officials said.
+
+Meanwhile in Gujarat, India, a tremor of 3.1 magnitude hit Kutch district, the Institute of Seismological Research (ISR) said. The tremor was recorded at 12:41 p.m. with its epicentre around 12 kilometres North North East (NNE) from Bhachau.
+
+◼️
+
+[Data](articles/5f1165ab.json)
+
+---
+
+### 70 testing activities in relation to rice last week;  Consumer Affairs Authority
+
+*2025-09-21 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225665) · `ta`
+
+The Consumer Affairs Authority said last week that 70 raids were carried out on rice.
+
+The Authority further stated that 55 tests were conducted on the sale of rice and 15 tests related to rice were conducted.
+
+The Authority has stated that the crimes such as hiding rice, hiding prices, and selling rice with conditions are included.
+
+The Consumer Affairs Authority (CAA) has said that if a person's trader is found to sell rice at high prices, he can be sentenced to Rs.
+
+At the same time, the Authority has stated that if a private company is proven guilty, the court can impose a fine of Rs 5 lakh to Rs 50 lakh and impose a penalty or prison sentence or two if accused of rice hoarding.
+
+In addition, the Consumer Affairs Authority (CAA) has said that the court has the authority to impose twice the minimum fine and a one -year imprisonment.
+
+◼️
+
 [Data](articles/8cbc7b45.json)
+
+[Extended Data](ext_articles/8cbc7b45.ext.json)
+
+---
+
+### Law enforces those who did not do the asset liabilities
+
+*2025-09-21 14:48:00* · [`adalk`](https://www.ada.lk/breaking_news/වත්කම්-බැරකම්-නොදුන්-අයට-නීතිය-ක්‍රියාත්මක-කරනවා/11-418632) · `si`
+
+Minister of Trade, Commerce and Consumer Affairs Wasantha Samarasinghe said that the amendment bill was presented to Parliament with the privilege of privatization of the CEB.
+
+The CEB has been established as a state company and employees should identify the protests against the amendment.
+
+The minister said that the present government is not fair to privatize, and the protests of the CEB has not been able to retire in behalf of the employees and that the present government is not fair.
+
+The government has made the preservation of the security of the country's working people and some are acting against it.
+
+The Minister has said that the current government has shown complaints regarding Namal Rajapaksa, not only by Namal Rajapaksa but also a revelation of his wife and his wife's statements.
+
+The Minister emphasized that the President and the government members have revealed their assets as a responsible political movement in the country.
+
+◼️
+
+[Data](articles/fe83ded4.json)
+
+[Extended Data](ext_articles/fe83ded4.ext.json)
 
 ---
 
@@ -108,6 +278,26 @@ Trump added that the Afghan party is being held in this regard.
 
 ---
 
+### Luxury bus collides with a lorry and three-wheeler
+
+*2025-09-21 14:40:58* · [`adalk`](https://www.ada.lk/breaking_news/සුඛෝපභෝගී-බස්-රථයක්--ලොරි-රථයක්-සහ-ත්‍රිරෝද-රථයක්-ගැටී-තිදෙනෙකුට-තුවාල/11-418631) · `si`
+
+Three persons were admitted to the Batticaloa Teaching Hospital in Batticaloa this morning.
+
+A luxury bus traveling from Colombo to Akkarapattu, which was traveling towards the Kitankudi main road, was a lorry bus towards the Kattankudi main road.
+
+The bus driver was seriously injured when a three-wheeler traveled by the bus. The driver of the bus and the driver of the bus and the vehicle of the three-wheeler has been admitted to the Batticaloa Teaching Hospital.
+
+It is reported that the bus has been driven over speeding, and Kattankudy police are conducting further investigations. Heavy damaged to the luxury bus and three wheeler.
+
+◼️
+
+[Data](articles/50b4b441.json)
+
+[Extended Data](ext_articles/50b4b441.ext.json)
+
+---
+
 ### No cuts to religious education and aesthetic subjects – Prime Minister
 
 *2025-09-21 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112731/no-cuts-to-religious-education-and-aesthetic-subjects-prime-minister) · `en`
@@ -130,21 +320,23 @@ She further stated that, following this introduction, students will be given the
 
 ---
 
-### ஜனாதிபதி நாளை அமெரிக்காவிற்கு விஜயம்
+### President visits the US tomorrow
 
 *2025-09-21 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225668) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க நாளை திங்கட்கிழமை (22) இரவு அமெரிக்காவிற்கு விஜயம் மேற்கொள்கிறார்.
+President Anura Kumara Dissanayake will visit the United States tomorrow (22) night.
 
-இந்த விஜயத்தின் போது ஜனாதிபதி ஐக்கிய நாடுகள் சபையின் 80வது பொதுச் சபை அமர்வில் கலந்து கொள்ள உள்ளார். புதன்கிழமை (24) உள்ளூர் நேரப்படி பிற்பகல் 3.15 மணிக்கு ஐக்கிய நாடுகள் சபையின் பொதுச் சபையில் அவர் உரையாற்ற உள்ளார்.
+The President will attend the 80th General Assembly session of the United Nations during the visit. He will address the United Nations General Assembly at 3.15 pm on Wednesday (24).
 
-இந்த விஜயத்தின் போது, ஜனாதிபதி அநுரகுமார திசாநாயக்க, ஐக்கிய நாடுகள் சபையின் செயலாளர் நாயகம் மற்றும் பல உலகத் தலைவர்களுடன் இருதரப்பு கலந்துரையாடல்களை நடத்த உள்ளார்.
+During the visit, President Anura Kumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several world leaders.
 
-இந்த விஜயத்தின் போது ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் இணைந்து கொள்வார்.
+Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath will join President Anura Kumara Dissanayake during the visit.
 
 ◼️
 
 [Data](articles/25a1bf32.json)
+
+[Extended Data](ext_articles/25a1bf32.ext.json)
 
 ---
 
@@ -1909,199 +2101,5 @@ Meanwhile, the Tamil National People's Front (TNA) interrupted and returned to p
 [Data](articles/93bfd1f8.json)
 
 [Extended Data](ext_articles/93bfd1f8.ext.json)
-
----
-
-### Never accommodate unnecessary amendments in the electoral system - Rauf Hakeem
-
-*2025-09-21 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225619) · `ta`
-
-If you want to remove the representation of the small parties by proposing unnecessary amendments to the electoral system, it will also be devastating to those who are expected to rule. Thus, the government should not allow the government to make amendments to the electoral system. Sri Lanka Muslim Congress leader Rauf Hakeem said that the opposition should be compliant with the opposition parties.
-
-Speaking at the 79th Federation of the United National Party (UNP) in Colombo on Saturday 20th, he said this.
-
-Sri Lanka Muslim Congress is a party that has historically traveled with major decisions with the United National Party (UNP). The President has publicly stated that if he does not vote for his party in the local government elections, they will not be funded.. Similarly, many people in the governing body are telling many stories.
-
-...
-
-[Data](articles/102c11f2.json)
-
-[Extended Data](ext_articles/102c11f2.ext.json)
-
----
-
-### JVP. We are responsible for the seizure of the regime -
-
-*2025-09-21 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225617) · `ta`
-
-Two major camps have been ruled in the country after independence. Both of them conflicted for power. This is the greatness we have done. Sarakar Karivasam, General Secretary of the Sri Lanka Peoples Alliance (PA), said that a group that has not served the country for 77 years has taken over the regime.
-
-Speaking at the 79th Federation of the United National Party (UNP) in Colombo on Saturday 20th, he said this.
-
-I have participated in this federation as the party secretary to adopt a completely different policy from the UNP. UNP after independence. Or the independence party has ruled the country. These two camps have made massive changes in the country. Yet our two sides have failed to conflict with power.
-
-Both sides have made these mistakes. Today, a group that has not served the country for the past 77 years has taken over the regime. In the end, the people believed that the two sides would be blessed and that the violence was loved by the country.
-
-...
-
-[Data](articles/97c4fe34.json)
-
-[Extended Data](ext_articles/97c4fe34.ext.json)
-
----
-
-### 2025-09-20 (Saturday)
-
-### Bangladesh defeated Sri Lanka
-
-*2025-09-20 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225616) · `ta`
-
-Bangladesh won the Sri Lankan team by 4 wickets in the first match of the Super 4 round of the Asia Cup Cricket T20 series.
-
-Bangladesh won the currency spin Linden Das first bowled, and the Sri Lankan team scored 168 runs for the loss of 7 wickets in 20 overs.
-
-Dasun Shanaka scored 64 off 37 balls with 6 sixes and 3 fours, Kusal Mendis 34 and Pad and Nissanka 22.
-
-Accordingly, Bangladesh were able to chase their target by losing six wickets in 19.5 overs.
-
-Saif Hasan scored 66 runs and Linden Das scored 23 runs.. Trohid Heathro also scored 58 runs.
-
-Accordingly, the Bangladesh team lost their 6 wickets in 19.5 overs and reached their target.
-
-◼️
-
-[Data](articles/58b138a5.json)
-
-[Extended Data](ext_articles/58b138a5.ext.json)
-
----
-
-### Sri Lanka beat Bangladesh
-
-*2025-09-20 23:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214810) · `si`
-
-Bangladesh began to be a 4 wicket defeat in the face of the Asia Trophy T20 cricket tournament.
-
-Botany Batshiads were able to cross the match to end the match to the match of 169 runs in the Dubai International Cricket Stadium.
-
-Opener Sife Hassan scored 61 runs while the founder batsman scored 58 runs.
-
-In addition, the leader Linton (Linton) gathered 23 runs in the innings of Bangladesh in the first phase of the first phase.
-
-The match was a strong attempt to turn the competition to Sri Lanka.
-
-Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the 20 overs.
-
-Vidasana scored 64 runs in 37 balls with six sixes and three fours.
-
-In addition, Kusal Mendis scored 34 runs and the wishes nissanka 22 runs.
-
-◼️
-
-[Data](articles/1b934905.json)
-
-[Extended Data](ext_articles/1b934905.ext.json)
-
----
-
-### Opposition parties unanimously seize provincial councils
-
-*2025-09-20 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225615) · `ta`
-
-We challenge the government to hold provincial council elections. We will conquer the majority of the 9 provincial councils. Parliamentarian Dayasiri Jayasekara said that all opposition parties are invited to launch programs from now.
-
-He said this while addressing the 79th Federation of the United National Party (UNP) in Colombo on Saturday (20).
-
-Failure to break up was made to us well in the last elections. The UNP has started cracks. Ranil Wickremesinghe has been able to fix the divisions after 77 years. Democracy was protected in the country even though parties were split. Those who have been preventing the development of the country for decades have brainwashed young people.
-
-They say they will change Parliament according to their needs. We will never accommodate to do so. So we see this unity as a blessing. Everyone was united for Ranil Wickremesinghe without calling. This caused the government to kneel.
-
-...
-
-[Data](articles/fed93df1.json)
-
-[Extended Data](ext_articles/fed93df1.ext.json)
-
----
-
-### Kush and Hashish worth over Rs. 16.8M found in bathroom at BIA
-
-*2025-09-20 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112710/kush-and-hashish-worth-over-rs-168m-found-in-bathroom-at-bia) · `en`
-
-A large consignment of narcotics estimated to be worth approximately Rs. 16.84 million was discovered today (20) in the men’s bathroom of the arrivals terminal at Bandaranaike International Airport (BIA), Katunayake.
-
-The haul included 422 grams of Kush cannabis and 1.262 kilograms of Hashish with an estimated street value of around Rs. 16,840,000, said Ada Derana reporter.
-
-The discovery was initially made by a cleaning staff member, who noticed the suspicious parcels and promptly alerted officers of the Airport Customs’ Narcotics Control Division.
-
-The case was then referred to the Police Narcotics Bureau (PNB) officers attached to the airport, who subsequently took the consignment into their custody.
-
-The Katunayake Airport Police Narcotics Bureau has commenced further investigations into the incident.
-
-◼️
-
-[Data](articles/e92527f2.json)
-
-[Extended Data](ext_articles/e92527f2.ext.json)
-
----
-
-### Sajith Premadasa congratulates the United National Party
-
-*2025-09-20 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225614) · `ta`
-
-Sajith Premadasa, the leader of the United People's Power and Opposition Leader, congratulated the 79th anniversary of the United National Party.
-
-In its greeting, DS, with the experience of the Ceylon National Congress, played a major contributor to Sri Lanka's freedom struggle.. He recalled the establishment of the United National Party by Senanayake.
-
-He emphasized that the role of the United National Party was very important in working towards a common national target, uniting various communities, including Sinhalese, Tamils, Muslims, burgers and Malays.
-
-Sajith Premadasa, who said the UNP was a great service to the country, called for all parties to work together to protect the democracy of Sri Lanka in today's context.
-
-◼️
-
-[Data](articles/d6af829e.json)
-
-[Extended Data](ext_articles/d6af829e.ext.json)
-
----
-
-### 169 runs
-
-*2025-09-20 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225613) · `ta`
-
-Bangladesh Captain Litton Das decided to bowl first in the match between Sri Lanka and Bangladesh, the first match of the Asia Cup Cricket T20 series.
-
-Accordingly, the Sri Lankan team scored 168 runs for the loss of 7 wickets at the end of 20 overs.
-
-◼️
-
-[Data](articles/63f7dff2.json)
-
-[Extended Data](ext_articles/63f7dff2.ext.json)
-
----
-
-### A target of 169 runs to Bangladesh
-
-*2025-09-20 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214808) · `si`
-
-The match between the Sri Lanka and Bangladesh team will commence in the Group 4 of the Asia Cup Twenty20 tournament.
-
-Bangladesh leader Litton Das was able to win the coin of the match and he first decided to bowl.
-
-Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the balls.
-
-Vidasana scored 64 runs in 37 balls with six sixes and three fours.
-
-Kusal Mendis scored 34 runs and 4 wishes Nissanka 22 runs.
-
-Mustafizur RAHMman took 3 wickets for Bangladesh in bowling and took 2 wickets and Taskin ahmed.
-
-◼️
-
-[Data](articles/bde05a0b.json)
-
-[Extended Data](ext_articles/bde05a0b.ext.json)
 
 ---

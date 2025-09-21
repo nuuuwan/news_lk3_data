@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 21:38:05**
+As of **2025-09-21 21:56:31**
 
 ## Newspaper Stats
 
-*Scraped **77,284** Articles*
+*Scraped **77,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,53 @@ adalk | 7,512
 adaderanalk | 9,992
 tamilmirrorlk | 11,621
 virakesarilk | 12,573
-adaderanasinhalalk | 13,498
+adaderanasinhalalk | 13,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,283 (100.0%) of 77,284 articles have been extended.
+77,284 (100.0%) of 77,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### ප්‍රබල රටවල් 3ක් පලස්තීනය රාජ්‍යයක් ලෙස නිල වශයෙන් පිළිගනියි
+### ඊශ්‍රායලයේ වීසා නැතිව ඉන්න ලාංකිකයන්ට සුබ පුවතක්
+
+*2025-09-21 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214839) · `si`
+
+ඊශ්‍රායලයේ වීසා නොමැතිව ජීවත්වන ශ්‍රී ලාංකිකයන්ට වීසා ලබාගැනීම සඳහා විශේෂ සාකච්ඡාවක් පැවැත් වූ බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+
+දෙරට අතර පාර්ලිමේන්තු මට්ටමින් සහයෝගිතාව ගොඩනැගීම සඳහා ඊශ්‍රායල පාර්ලිමේන්තුවේ පිහිටුවා ඇති පාර්ලිමේන්තු මිත්‍රත්ව සංගමයේ වාර්ෂික හමුවේ මේ පිළිබඳ සාකච්ඡාවට භාජනය වී ඇත.
+
+මෙහිදී ශ්‍රී ලාංකිකයන් මෙන්ම වෙනත් ජාතිකයන් ද වීසා නොමැතිව සිටින බැවින් ඒ පිළිබඳ ඊශ්‍රායල පාර්ලිමේන්තුවේ විදේශ සේවකයන් පිළිබව කමිටුව හමුවේ කරුණ දක්වන ලෙස දන්වා ඇත.
+
+ඒ අනුව ඊළඟ සාකච්ඡාවේ දී මෙම ගැටලුව පිළිබඳ ඊශ්‍රායල පාර්ලිමේන්තුවේ විදේශ සේවකයන් පිළිබඳව කමිටුව හමුවේ කරුණු දැක්වීමට බලාපොරොත්තුවන බව නිමල් බණ්ඩාර මහතා පවසයි.
+
+මේ අතර මෙම සාකච්ඡාවේ දී ශ්‍රී ලංකා පාර්ලිමේන්තු නිලධාරීන්ට ඊශ්‍රායලයේ දී ලබාගත හැකි පුහුණුවීම පිළිබඳවද සාකච්ඡා පවත්වා ඇත.
+
+...
+
+[Data](articles/04cf5c8d.json)
+
+---
+
+### Severe countries officially welcomes Palestine as a state
 
 *2025-09-21 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214837) · `si`
 
-එක්සත් රාජධානිය, කැනඩාව සහ ඔස්ට්‍රේලියාව විසින් පලස්තීනය රාජ්‍යයක් ලෙස නිල වශයෙන් පිළිගෙන ඇත.
+The UK, Canada and Australia have been officially recognized as a state of Palestine as a state.
 
-එම පියවර ගත් පළමු G7 රට ලෙස කැනඩාව ප්‍රමුඛස්ථානයේ පසුවන අතර, ඕස්ට්‍රේලියාව සහ එක්සත් රාජධානිය ද ඉන්පසුව පලස්තීනය රාජ්‍යයක් ලෙස පිළිගන්නා බව නිවේදනය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+The first G7 is the first G7, and Australia and the UK have announced that the Palestine is recognized as a state.
 
-කෙසේවෙතත් ඊශ්‍රායල සහ අමෙරිකාව මෙම තීරණයට සිය අප්‍රසාදය පල කර තිබේ.
+However, Israel and the US have expressed their displeasure to this decision.
 
 ◼️
 
 [Data](articles/63c3ce20.json)
+
+[Extended Data](ext_articles/63c3ce20.ext.json)
 
 ---
 
@@ -2107,23 +2129,5 @@ The remains are placed at the Hemmatagama hospital morgue and the suspect involv
 [Data](articles/18ab69a6.json)
 
 [Extended Data](ext_articles/18ab69a6.ext.json)
-
----
-
-### Showers and windster
-
-*2025-09-21 08:41:30* · [`adalk`](https://www.ada.lk/breaking_news/වැසි-හා-සුළං-තත්ත්වය-තවදුරටත්/11-418626) · `si`
-
-The extent of the prevailing rain and wind stability in the southwestern parts of the island are still expected.
-
-There will be showers at times in the Western and Sabaragamuwa provinces today and in some places today.. Heavy rains can occur at about 75 times.
-
-In the Ampara and Batticaloa districts of the Northern and Northwestern province of Uva Province, the Ampara and Batticaloa Districts of the Ampara and Batticaloa Districts. Showers will occur at several places in the afternoon, the Department further said.
-
-◼️
-
-[Data](articles/15ec0ab2.json)
-
-[Extended Data](ext_articles/15ec0ab2.ext.json)
 
 ---

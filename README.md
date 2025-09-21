@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 12:37:39**
+As of **2025-09-21 13:05:48**
 
 ## Newspaper Stats
 
-*Scraped **77,218** Articles*
+*Scraped **77,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,137 @@ islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,503
 adaderanalk | 9,975
-tamilmirrorlk | 11,611
-virakesarilk | 12,564
-adaderanasinhalalk | 13,481
+tamilmirrorlk | 11,612
+virakesarilk | 12,566
+adaderanasinhalalk | 13,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,217 (100.0%) of 77,218 articles have been extended.
+77,222 (100.0%) of 77,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### 43 சிறுவர்கள் சைபரில் வன்புணர்வு
+### கரந்தெனிய பிரதேச சபைத் தவிசாளர் திடீர் மரணம்
+
+*2025-09-21 12:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரந்தெனிய-பிரதேச-சபைத்-தவிசாளர்-திடீர்-மரணம்/175-364988) · `ta`
+
+கரந்தெனிய பிரதேச சபைத் தவிசாளரான 47 வயதுடைய மஹீல் முனசிங்க ஞாயிற்றுக்கிழமை (21) காலை திடீரென காலமானார்.
+
+அவர் ஞாயிற்றுக்கிழமை (21) காலை உடற்பயிற்சி செய்து கொண்டிருந்தபோது திடீரென ஏற்பட்ட உடல்நலக் குறைவு காரணமாக மருத்துவமனைக்கு கொண்டு சென்றுள்ளதுடன் மருத்துவமனையில் அனுமதித்த போதும் அவர் உயிரிழந்திருந்ததாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/efce0f64.json)
+
+---
+
+### Indian Navy ship arrived in Colombo port!
+
+*2025-09-21 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225653) · `ta`
+
+The Indian Navy has arrived at the port of Colombo.
+
+The Sri Lankan navy said that the ship with 403 employees arrived in the country yesterday (20) to meet the distribution and service requirements.
+
+The warship that arrived in the country is said to be in the Uns Satpura'142.5 meters.
+
+The Sri Lankan navy has said that it is planning to take its employees to many parts of Sri Lanka to visit important areas in Sri Lanka during the ship's anchor.
+
+◼️
+
+[Data](articles/51df9be8.json)
+
+[Extended Data](ext_articles/51df9be8.ext.json)
+
+---
+
+### Electricity employee trade union measures intensify
+
+*2025-09-21 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214822) · `si`
+
+Ceylon Electricity Board Trade Unions says of a trade union action to refrain from joining the procurement and tender processes today.
+
+The trade union action of itself has been strictly operating in his letter to the informal proposal in the restructuring process of the Ceylon Electricity Board for 17 days.
+
+Trade unions of the Ceylon Electricity Board (CEB)
+
+The informal proposals in the restructuring process of the Ceylon Electricity Board, acts of severe inconveniences, providing ratings and promotions, including 16 demands.
+
+The second step has organized a protest in front of the Ceylon Electricity Board of Ceylon Electricity Board in Colombo Fort.
+
+In this backdrop, the electricity unions today (21) have said that a procurement of procurement activities from midnight today (21) will be held from midnight today.
+
+◼️
+
+[Data](articles/b40cf42a.json)
+
+[Extended Data](ext_articles/b40cf42a.ext.json)
+
+---
+
+### Corpse recovery
+
+*2025-09-21 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225659) · `ta`
+
+The body of a woman has been recovered as a tree hanging in a tree early this morning (21), said Chandana Kamage, Superintendent of the Vattawala Police Station.
+
+The body of a 62 -year -old woman, Kannan Manirani, a resident of Kuilwatta, belonging to the Vattawala Police Division, has been identified as the body of a woman.
+
+Based on the information provided by the plantation workers to the Vattawala police, the body of the Wattawala police recovered the body that the woman had died in a tree in a tree in their garden.
+
+To determine whether this is a suicide or murder, the Vattawala Police and the Attan Police Division are conducting investigations through various sections.
+
+◼️
+
+[Data](articles/3dd1987f.json)
+
+[Extended Data](ext_articles/3dd1987f.ext.json)
+
+---
+
+### President leaves for USA tomorrow
+
+*2025-09-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214821) · `si`
+
+President Anura Kumara Dissanayake is due to leave for the United States tomorrow (22).
+
+The President will participate in the 80th session of the United Nations General Assembly on the occasion.
+
+During his visit, Anura Kumara Dissanayake is expected to join bilateral discussions with the UN High Secretariat and several world state leaders.
+
+The President will also participate in a meeting with Sri Lankans in the United States.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining the visit with President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/f27a9463.json)
+
+[Extended Data](ext_articles/f27a9463.ext.json)
+
+---
+
+### 43 boys rape in cyber
 
 *2025-09-21 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/43-சிறுவர்கள்-சைபரில்-வன்புணர்வு/175-364982) · `ta`
 
-2024/2025 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 43 சிறுவர்கள் சைபரில் பாலியல் வன்கொடுமைக்கு ஆளானதாக பொலிஸ் ஊடகப் பேச்சாளர் உதவி பொலிஸ் கண்காணிப்பாளர் உதய குமார வுட்லர் தெரிவித்தார்.
+Police Media Spokesperson Assistant Superintendent of Police, Udaya Kumara Woodler, said that 43 children under the age of 18 were raped in Cyber ​​in 2024/2025.
 
-இது கடந்த ஆண்டை விட 50% அதிகரிப்பு என்று ஊடகப் பேச்சாளர் தெரிவித்தார்.
+This is a 50% increase over the past year, the media spokesman said.
 
-2024 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 15 சிறுவர்களும், 2025 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 28 சிறுவர்களும் சைபரின் ஊடாக பாலியல் வன்கொடுமைக்கு ஆளானதாகவும் அவர் கூறினார்.
+He said that in 2024, 15 children under the age of 18 and 28 boys under the age of 18 were raped through cyber.
 
-2024 ஆம் ஆண்டில், போதைப்பொருள் குற்றங்களுக்காக 282 சிறுவர்கள் கைது செய்யப்பட்டனர், 2025 ஆம் ஆண்டில் 206 சிறுவர்கள் கைது செய்யப்பட்டனர். 2024 ஆம் ஆண்டில் 375 பெண்கள் பாலியல் வன்கொடுமைக்கு ஆளானதாகவும், சம்பவம் தொடர்பாக 114 சந்தேக நபர்கள் கைது செய்யப்பட்டதாகவும் ஊடகப் பேச்சாளர் தெரிவித்தார். 2025 ஆம் ஆண்டில் இதுவரை 118 பெண்கள் பாலியல் வன்கொடுமைக்கு ஆளாகியுள்ளனர்.
+In 2024, 282 boys were arrested for drug offenses and 206 boys were arrested in 2025. The media spokesman said 375 women were raped by 2024 and 114 suspects were arrested in connection with the incident.. In 2025, 118 women have been sexually abused.
 
 ◼️
 
 [Data](articles/378f4ea1.json)
+
+[Extended Data](ext_articles/378f4ea1.ext.json)
 
 ---
 
@@ -1959,89 +2061,5 @@ The first engagement unfolds at Radella Estate in Nuwara Eliya, managed by Talaw
 [Data](articles/1a7c3d0f.json)
 
 [Extended Data](ext_articles/1a7c3d0f.ext.json)
-
----
-
-### AIA Insurance continues to champion powering women entrepreneurs
-
-*2025-09-20 16:46:00* · [`islandlk`](http://island.lk/aia-insurance-continues-to-champion-powering-women-entrepreneurs/) · `en`
-
-Platinum Sponsor of WCIC Prathibhabhisheka Awards for third consecutive year
-
-AIA Insurance last week announced its continued partnership with the Women’s Chamber of Industry and Commerce (WCIC) as the Platinum Sponsor of the WCIC Prathibhabhisheka Awards 2025, marking the third consecutive year of this meaningful collaboration.
-
-“The WCIC Prathibhabhisheka Awards is a prestigious platform that celebrates the achievements of women who have made remarkable contributions to Sri Lanka’s business and entrepreneurial landscape. AIA’s continued sponsorship reflects its deep-rooted belief in the power of women-led innovation and leadership, and its purpose of helping people live healthier, longer, better lives,” an AIA news release said.
-
-...
-
-[Data](articles/7cc8fa79.json)
-
-[Extended Data](ext_articles/7cc8fa79.ext.json)
-
----
-
-### Massive fire at Colombo -
-
-*2025-09-20 16:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-புறக்கோட்டையில்-பாரிய-தீ-விபத்து/175-364954) · `ta`
-
-A massive fire broke out this evening at Meliban Road, Colombo - Pettah Fort.
-
-Investigations have been carried out whether the cause of the fire was unknown. Remble
-
-◼️
-
-[Data](articles/4ad0f56a.json)
-
-[Extended Data](ext_articles/4ad0f56a.ext.json)
-
----
-
-### Nawaloka Hospitals PLC marks 40 years of excellence with new anniversary logo unveiling
-
-*2025-09-20 16:45:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-plc-marks-40-years-of-excellence-with-new-anniversary-logo-unveiling/) · `en`
-
-Nawaloka Hospitals PLC, Sri Lanka’s pioneering private healthcare institution driven by cutting-edge AI innovation, proudly marked its 40th anniversary, celebrating four decades of excellence since its establishment in 1985. The milestone celebration was held on 18 September at the Ambassador Hall of the Specialist Centre, and featured the official unveiling of the 40th anniversary logo, along with the issuance of a commemorative postage stamp in collaboration with the Sri Lanka Postal Department.
-
-The event was attended by Nawaloka Hospitals PLC Chairman, Dr. Jayantha Dharmadasa, Deputy Chairman, Anisha Dharmadasa, and Executive Director, Prof. Lal Chandrasena, along with the hospital’s esteemed panel of consultants, nursing staff, employees, and distinguished guests. The occasion was further honoured by the presence of Emeritus Prof. A.H. Sherifdeen, who graced the event as the Chief Guest.
-
-...
-
-[Data](articles/48fedfa7.json)
-
-[Extended Data](ext_articles/48fedfa7.ext.json)
-
----
-
-### Tribute to Rajiv Perera on his 60th birthday
-
-*2025-09-20 16:45:00* · [`islandlk`](http://island.lk/tribute-to-rajiv-perera-on-his-60th-birthday/) · `en`
-
-In life we meet many people, most of whom hardly leave a trace of their passing. Some, very few in fact, leave a mark so deep that no passage of time can erase it. For me, at the very top of that list is Rajiv Perera.
-
-I knew of Rajiv at school – St Thomas’, Mount Lavinia – where he was a few years senior to me. A fine sportsman, he played rugby for S. Thomas’, CH & FC, and Sri Lanka. On the field he was fearless yet always a gentleman, respected by teammates and opponents alike. That same spirit carried into the rest of his life competitive when it mattered, but always fair, always gracious.
-
-But I only really got to know him when I went to the UK for my higher studies, about 35 years ago. This was around the time that John Major had replaced the Iron Lady, Margaret Thatcher, and was just settling in as Prime Minister. I knew only a few people in London. It was through the Thomian network that I met Rajiv. We clicked immediately.
-
-...
-
-[Data](articles/49188008.json)
-
-[Extended Data](ext_articles/49188008.ext.json)
-
----
-
-### Fire in a building in Pettah
-
-*2025-09-20 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214797) · `si`
-
-A fire broke out at a 3rd floor of 3rd cross-street building.
-
-The fire brigade said that the fire was already launched.
-
-◼️
-
-[Data](articles/d66917ad.json)
-
-[Extended Data](ext_articles/d66917ad.ext.json)
 
 ---

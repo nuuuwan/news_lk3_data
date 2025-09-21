@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 11:06:58**
+As of **2025-09-21 12:12:00**
 
 ## Newspaper Stats
 
-*Scraped **77,194** Articles*
+*Scraped **77,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,73 +14,407 @@ bbccomsinhala | 677
 colombotelegraphcom | 775
 economynextcom | 4,667
 dailymirrorlk | 4,733
-islandlk | 4,751
+islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,503
-adaderanalk | 9,973
-tamilmirrorlk | 11,600
-virakesarilk | 12,556
-adaderanasinhalalk | 13,479
+adaderanalk | 9,975
+tamilmirrorlk | 11,610
+virakesarilk | 12,560
+adaderanasinhalalk | 13,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,190 (100.0%) of 77,194 articles have been extended.
+77,210 (100.0%) of 77,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### புறக்கோட்டை தீ: விசாரிக்க குழு நியமனம்
+### H1-B වීසා ගාස්තුව ඩොලර් ලක්ෂය දක්වා  ඉහළ දැමීමට අමෙරිකාව තීරණයක
+
+*2025-09-21 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214820) · `si`
+
+‘එච්- වන්- බී (H1-B) කාණ්ඩය යටතේ වීසා අයදුම් කරන විදෙස් පුහුණු ශ්‍රමිකයින් සඳහා වන ගාස්තුව අමෙරිකානු ඩොලර් ලක්ෂය දක්වා ඉහළ දැමීමේ විධායක නියෝගයකට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අත්සන් කර තිබේ.
+
+ඒ අනුව එය පෙර පැවති ගාස්තුව මෙන් 60 ගුණයක ඉහළ යාමක් බව වාර්තා වේ.
+
+වාර්ෂිකව මෙම වීසා කාණ්ඩය යටතේ වැඩිම අවස්ථාව ඉන්දීය ජාතික පුහුණු ශ්‍රමිකයින්ට හිමිව තිබූ අතර එය සමස්ත සංඛ්‍යාවෙන් සියයට 70ක් පමණ වන බව සඳහන් වේ.
+
+වීසා ගාස්තු ඉහළ දැමීමේ අමෙරිකානු රජයේ තීරණයත් සමග ඇතැම් අමෙරිකානු සමාගම් එම වීසා කාණ්ඩය යටතේ සේවය කරන විදෙස් ශ්‍රමිකයින්ට අමෙරිකාවේ රැදී සිටින ලෙස හා රටින් පිටව සිටී නම් වහාම යළි පැමිණෙන ලෙස දැනුම් දී ඇත.
+
+මෙවැනි තත්ත්වයක් තුළ මානුෂීය වශයෙන් ගැටළුකාරී තත්ත්වයක් ඇති කරන මෙම තීරණය පිළිබඳව අමෙරිකානු බලධාරීන් යළි සලකා බලනු ඇතැයි අපේක්ෂා කරන බව ඉන්දීය විදේශ කටයුතු අමාත්‍යංශය සඳහන් කර තිබේ.
+
+එමෙන්ම ඉන්දීය රජය පවසන්නේ අමෙරිකානු රජයේ මෙම නවතම තීරණය මානුෂීය වශයෙන් ප්‍රතිවිපාක ඇතිකරන්නක් බවය.
+
+...
+
+[Data](articles/4e9f843f.json)
+
+---
+
+### 3 மாணவர்களை வன்புணர்ந்த ஓய்வுபெற்ற இராணுவ வீரர் கைது
+
+*2025-09-21 11:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-மாணவர்களை-வன்புணர்ந்த-ஓய்வுபெற்ற-இராணுவ-வீரர்-கைது/175-364980) · `ta`
+
+ஒரு பாடசாலையில் படிக்கும் 10, 12 மற்றும் 13 வயதுடைய மூன்று சிறுவர்களை கடுமையான பாலியல் துஷ்பிரயோகம் செய்து, அத்தகைய மற்றொரு குழந்தையை பாலியல் துஷ்பிரயோகம் செய்ததாக பாடசாலையின் நிர்வாகக் குழுவின் பொருளாளராக இருந்த ஓய்வுபெற்ற இராணுவ வீரர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக அனுராதபுரம் தலைமையக பொலிஸ் தெரிவித்துள்ளது.
+
+பாடசாலையில் செவித்திறன் குறைபாடுள்ள மாணவனை அவருடைய தாயார் அழைத்துச் செல்ல வந்தபோது குழந்தையை காணவில்லை, பின்னர் அவர் பாடசாலையில் கிணற்று இருக்கும் பக்கத்தில் இருந்து ஓடிவந்துள்ளார். அதுதொடர்பில் மகனிடம் தாயார் வினவியுள்ளார். அதன்பின்னர், அந்த தாயார் அளித்த புகாரில் சந்தேக நபர் பல கடுமையான பாலியல் துஷ்பிரயோக சம்பவங்களைச் செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/94a4411d.json)
+
+---
+
+### Oil Kumar
+
+*2025-09-21 11:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தின-மும்-இன்ஜின்-ஆயில்-குடித்து-உயிர்-வாழும்-ஆயில்-குமார்/175-364978) · `ta`
+
+Oil Kumar Na Power Day and Seven Litter In Jin Oil. After drinking oil for the body, he has been taken to Uchi after saying that he has not been able to do so.
+
+A video of Oil Kumar on social networks. In it, Iyappa Swami Buck Dhar speaks to a variety of people who use the Jin Oil, which is beneficial for a variety. The video was shared by the Lat Chuck Ganakku Vaikku Ach OK.
+
+The name of the 45 -year -old man who is included in the video. Mysuru, the state of Karna Drama. Oil Kumar is crying over the last 30 men and overnight.. In the morning and lunch, he drinks three times. However, the body has not yet been in the body of the body.
+
+He told the media that he had not been any harm to the Sabari Mountain Iyab Pan Temple annually.
+
+...
+
+[Data](articles/c3abfcec.json)
+
+[Extended Data](ext_articles/c3abfcec.ext.json)
+
+---
+
+### The body of the woman's body is recovered
+
+*2025-09-21 11:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொங்கிய-நிலையில்-பெண்ணின்-சடலம்-மீட்பு/76-364976) · `ta`
+
+The body of a 62 -year -old woman has been recovered after being hanged in a tree in the garden on Sunday (21) in the Kuilwatta area of ​​the Vattawala police division.
+
+The deceased woman was identified as Kannan Manirani, said Santana Kamage, Chief of Police, Sandana Kamage.
+
+The body was found after plantation workers reported that the woman was found hanging in a tree with her sari.
+
+The Vattawala police and the Hatton Police Division have launched an investigation to determine whether the incident was suicide or murder.
+
+◼️
+
+[Data](articles/93fc4b69.json)
+
+[Extended Data](ext_articles/93fc4b69.ext.json)
+
+---
+
+### Death of the Chairman of the Karandeniya Pradeshiya Sabha Pradeshiya Sabha Mahele Munasinghe
+
+*2025-09-21 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214819) · `si`
+
+Pradeshiya Sabha Chairman of the Karandeniya Pradeshiya Sabha Mahele Munasinghe has died due to an emergency condition.
+
+It is reported that he was suddenly sick and was admitted to the Karandeniya Boralanda hospital today (21) morning.
+
+Maheel Munasinghe, who represented the National Institute of Tamil Bureau and the UNP, was elected to the post of Chairman of the Karandeniya Pradeshiya Sabha.
+
+When he died, he was 47 years old and his death had taken place due to a good man.
+
+The post mortem will be conducted at the Elpitiya Base Hospital on the body.
+
+◼️
+
+[Data](articles/7b936b10.json)
+
+[Extended Data](ext_articles/7b936b10.ext.json)
+
+---
+
+### PT Permits Mandatory: Bimal Action
+
+*2025-09-21 11:10:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PT-அனுமதிப்பத்திரம்-கட்டாயம்-பிமல்-அதிரடி/175-364975) · `ta`
+
+Transport Minister Bimal Ratnayake announced on Saturday (20) that all public transport drivers will be made compulsory to obtain a Public Transport (PT) license.. He also announced that it should be obtained by December 31st.
+
+Speaking at a meeting in Ampara, the Minister said that all the necessary regulations have already been finalized.
+
+He added that although most buses currently operated are not fitted with seat belts, seat belts are mandatory.. Although bus owners can replace their vehicles, he made it clear that the seat belts are not allowed to be added.
+
+“The Public Transport Department must handle serious and responsible persons. Those who do not take the industry are not acceptable to carry passengers, ”the minister added.
+
+◼️
+
+[Data](articles/fe928d10.json)
+
+[Extended Data](ext_articles/fe928d10.ext.json)
+
+---
+
+### The Sri Lankan guest took the life of Robot Shankar
+
+*2025-09-21 11:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இலங்கை-விருந்தே-ரோபோ-சங்கரின்-உயிரை-பறித்தது/54-364972) · `ta`
+
+Actor Robot Shankar died a few days ago due to ill health. He has already survived the brink of death because of his drinking alcohol and has now died of death.
+
+In this case, Shankar's close friend, Shankar, in an interview with a private YouTube channel, has caused Shah.
+
+Actor Robot Shankar suffered from health a few years ago. With the help of friends, doctors and families, he recovered from the disease as he continued to drink alcohol. He stopped the drunkenness and paid attention to his carrier. He continued to talk about the harm caused by alcohol; He also acted in related commercials.
+
+Her health suddenly dumped a few days ago. He fell into a blood vomit when he was in the shoot of a film; Was admitted to a private hospital in Perungudi. There he was given serious treatment. They fought for doctors to somehow keep him survived. But he died in the hospital a few days ago without treatment.
+
+...
+
+[Data](articles/5d5419dd.json)
+
+[Extended Data](ext_articles/5d5419dd.ext.json)
+
+---
+
+### Husband in a half kolam with mother: Wife's incident
+
+*2025-09-21 10:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/தாயுடன்-அரைகுறை-கோலத்தில்-கணவன்-மனைவி-செய்த-சம்பவம்/54-364971) · `ta`
+
+In Indonesia, a movie is currently well received among fans. The film is about the improper relationship between mother-in-law. Since this is based on the real incident, the film has become a passing in Indonesia.
+
+Norma Rizma from Indonesia. He was married to a young man named Rosie in 2021. After marriage, Norma lived with her husband Rihanna in Serang City, Java Island.
+
+Everything was going right after the wedding. Norma came to work and came to help family expenses. Husband Rosie was working at the nearest supermarket. Mother Rihanna has also helped both of them at home.
+
+Six months later, a shocking incident took place. This means that when Norma goes to work, her husband Rosie will have a night shift. Rosie and Rosie's mother and Rose's mother -in -law, Rosh, are alone at home.
+
+...
+
+[Data](articles/052d8eb2.json)
+
+[Extended Data](ext_articles/052d8eb2.ext.json)
+
+---
+
+### White House says new H-1B visa fee applies only to new applicants
+
+*2025-09-21 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112720/white-house-says-new-h-1b-visa-fee-applies-only-to-new-applicants) · `en`
+
+The White House said on Saturday that the new 100,000-U.S.-dollar fee for H-1B visas will not apply to current holders of valid visas re-entering the United States, following confusion and concern sparked by the Trump administration’s introduction of the measure.
+
+The fee, taking effect on Sunday, “applies only to new visas, not renewals, and not current visa holders,” said White House Press Secretary Karoline Leavitt in a post on X. “H-1B visa holders can leave and re-enter the country to the same extent as they normally would.”
+
+She also said that it’s a “one-time fee that applies only to the petition.”
+
+The H-1B program allows U.S. companies to hire highly skilled foreign workers. U.S. President Donald Trump on Friday signed a proclamation raising the fee that companies pay to sponsor H-1B applicants to 100,000 dollars, saying the move is intended to ensure that the United States brings in highly skilled talent whom American workers cannot replace.
+
+...
+
+[Data](articles/094ee72b.json)
+
+[Extended Data](ext_articles/094ee72b.ext.json)
+
+---
+
+### Mosquito nourishing country to eradicate dengue mosquito
+
+*2025-09-21 10:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/டெங்கு-கொசுவை-ஒழிக்க-கொசு-வளர்க்கும்-நாடு/53-364970) · `ta`
+
+"Pick the thorn thorn" is the proverb. Similarly. A separate bio factory has been created in Brazil to produce mosquitoes that do not damage dengue. How to produce mosquitoes that do not cause dengue here? What is its background? Important information has been revealed.
+
+Dengue fever suffers from many countries, including India every year. There are also deaths in dengue. Brazil is one of the most affected countries of this dengue.
+
+There are 21.2 crore people living in Brazil. Millions of people were affected by dengue fever last year in Brazil. A total of 66 lakh people were affected. Of these, 6,297 were killed.
+
+Dengue is a major threat for Brazil. It is in this situation that Brazil has taken a new move to prevent dengue. It is a factory that produces mosquitoes that do not spread dengue. The factory is set up in Curitiba, Brazil. Its name is Wolbito Do Brasil.
+
+...
+
+[Data](articles/c3fd4621.json)
+
+[Extended Data](ext_articles/c3fd4621.ext.json)
+
+---
+
+### Emphasize the importance of Chinese-Sri Lankan cooperation
+
+*2025-09-21 10:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-இலங்கை-ஒத்துழைப்பின்-முக்கியத்துவத்தை-வலியுறுத்தல்/175-364969) · `ta`
+
+Defense Secretary at the 12th Beijing Xiangshan Forum
+
+Speaking at a high -level meeting at the 12th Beijing Xiangshan Forum in China, the Defense Secretary emphasized the importance of joint dialogue, regional cooperation and mutual respect in facing global and regional security challenges.
+
+“We must take note of the legitimate security needs of each country, and we must address the differences and controversy between countries and controversy with consultation and consultation. We must continue to follow regionalism and carry out regional economic coordination steadily. ”
+
+The 12th Beijing Xiangshan Forum will be held at the Beijing International Conference Hall in Beijing from 17 to 19 (September). He addressed the fourth session today (19) entitled "Building Regional Peace Through Through and Consultation".
+
+...
+
+[Data](articles/b65b5a9f.json)
+
+[Extended Data](ext_articles/b65b5a9f.ext.json)
+
+---
+
+### A woman who was sitting on the street for Panipuri
+
+*2025-09-21 10:43:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானிபூரி-க்காக-வீதியில்-அமர்ந்து-அழுது-போராடிய-பெண்/175-364968) · `ta`
+
+People in today's consumption culture face more fraudulent. Online, offline is the act of cheating people. That too is too much of the scams with food. A woman sitting on the road has been going viral in Gujarat. How did the police deal with the problem.
+
+Life is the struggle. It is customary for people to struggle for many. Sometimes people will carry out new struggles. Even the struggles of the people for many important problems do not attract great attention. At the same time, the struggle for the ordinary thing will attract great attention.
+
+The whole of India is more roadside food shops. Panipuri shops are becoming popular all over India. In this case, there is a Panipuri shop in Surasagar Lake near Vadodara, Gujarat. It is customary for a large number of people to eat Panipuri daily for the shop. The shopkeeper sells 6 pots for Rs.
+
+...
+
+[Data](articles/19ad9acc.json)
+
+[Extended Data](ext_articles/19ad9acc.ext.json)
+
+---
+
+### லுணுகம் வெஹர பகுதியில் சட்டவிரோதமாக கஞ்சா செடிகளை வளர்த்த மூவர் கைது!
+
+*2025-09-21 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225641) · `ta`
+
+Three persons have been arrested for growing cannabis plants on 3 acres of land in Nikveva area, which belongs to the Lunugam Vehara Police Division.
+
+The arrest was taken during the surroundings of the police.
+
+The suspects are said to be 30,31 and 34 years old from Dhanamalwila.
+
+◼️
+
+[Data](articles/e6c47511.json)
+
+[Extended Data](ext_articles/e6c47511.ext.json)
+
+---
+
+### Special island-wide police raids result in over 700 arrests
+
+*2025-09-21 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112719/special-island-wide-police-raids-result-in-over-700-arrests) · `en`
+
+Sri Lanka Police announced that a total of 714 suspects were arrested yesterday (20) during island-wide operations conducted under the instructions of the Inspector General of Police (IGP) to combat crime and drug-related offenses.
+
+The special operations were carried out covering all regional police stations at the divisional level.
+
+According to police, a total of 28,372 individuals were subjected to inspection during the course of these operations, resulting in the arrest of 714 suspects.
+
+Additionally, 253 warrant holders were apprehended, and 19 individuals were directly identified in connection with ongoing criminal investigations.
+
+Police also took actions to enforce the law against 23 people for reckless driving and 4,495 people for traffic violations.
+
+◼️
+
+[Data](articles/04b6f7bb.json)
+
+[Extended Data](ext_articles/04b6f7bb.ext.json)
+
+---
+
+### Today's Periods: Tomorrow
+
+*2025-09-21 10:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பீரியட்ஸ்-நாளைக்கு-வா/175-364967) · `ta`
+
+A 24 -year -old young girl who is staying in Biji in Bangalore tries to rape. The woman stabbed her with a knife, tearing her clothes and taking the photo on her cell phone and told him to comply with the desire.. But the woman ‛ர்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்.. The youth has been arrested following a complaint lodged by the police with a knife injuries.
+
+There is a privately owned Fiji in the Whitefield in Bangalore. Here is the facility for men and women to stay separately. Thus both sides stay. A 24 -year -old teenager, who works as an analyst in a private company in this Fiji.
+
+Sai Baba Sannur, Babu, stays in this Biji. For this Babu, the teenager has a preference. He thinks that somehow he should reach the young woman.
+
+...
+
+[Data](articles/df9cfed7.json)
+
+[Extended Data](ext_articles/df9cfed7.ext.json)
+
+---
+
+### Poetry Fire: Appointment of Committee to Investigate
 
 *2025-09-21 10:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-தீ-விசாரிக்க-குழு-நியமனம்/175-364966) · `ta`
 
-புறக்கோட்டை, 1வது குறுக்குத் தெருவில் உள்ள ஒரு மின் சாதனக் கடையில் சனிக்கிழமை (20) ஏற்பட்ட தீ விபத்து குறித்து விசாரிக்க ஒரு குழு நியமிக்கப்பட்டுள்ளது. இந்தக் குழுவிற்கு பொதுப் பாதுகாப்புத் துறை பிரதி அமைச்சரான வழக்கறிஞர் சுனில் வட்டகல தலைமை தாங்குகிறார்.
+A team has been appointed to investigate a fire that broke out on Saturday (20) at an electrical shop on 1st Cross Street, Pettah Fort.. The committee is headed by Sunil Vatagala, Deputy Minister of Public Security, Prosecutor.
 
-சனிக்கிழமை (20) மதியம் ஏற்பட்ட தீ, கிட்டத்தட்ட 12 மணி நேரம் நீடித்த ஒரு பெரிய நடவடிக்கைக்குப் பிறகு கட்டுக்குள் கொண்டுவரப்பட்டது.
+The fire, which was on Saturday afternoon (20), was brought under control after a major action that lasted for nearly 12 hours.
 
-கொழும்பு மாநகர சபை தீயணைப்புத் துறையின் தீயணைப்புப் பிரிவுகள், இலங்கை விமானப்படை மற்றும் கடற்படையைச் சேர்ந்த பணியாளர்கள் சம்பவ இடத்திற்கு அனுப்பப்பட்டனர்.
+The firefighters of the Colombo Municipal Fire Department, the Sri Lanka Air Force and the Navy were sent to the scene.
 
-தீயை அணைக்கவும், அருகிலுள்ள கட்டிடங்களுக்கு தீ பரவாமல் தடுக்கவும் சுமார் 15 தீயணைப்பு இயந்திரங்கள் மற்றும் ஒரு விமானப்படை பெல்-212 ஹெலிகாப்டர் இந்த நடவடிக்கையில் பயன்படுத்தப்பட்டன.
+About 15 firefighters and an Air Force Bell-212 helicopter were used in this operation to extinguish the fire and prevent the spread of fire to nearby buildings.
 
 ◼️
 
 [Data](articles/18651979.json)
 
+[Extended Data](ext_articles/18651979.ext.json)
+
 ---
 
-### மட்டக்களப்பில் சொகுசு பஸ் விபத்து; மூவர் படுகாயம்
+### Luxury bus accident in Batticaloa; Trio injured
 
 *2025-09-21 10:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-சொகுசு-பஸ்-விபத்து-மூவர்-படுகாயம்/175-364964) · `ta`
 
-மட்டக்களப்பு கல்முனை பிரதான வீதியில் காத்தான்குடி பிரதேசத்தில் ஞாயிற்றுக்கிழமை (21) அன்று அதிகாலை இடம்பெற்ற பாரிய விபத்து சம்பவத்தில் மூவர் படுகாயம் அடைந்த நிலையில் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+Kattankudy police said that three persons were admitted to the Batticaloa Teaching Hospital after being injured in a massive accident on Sunday (21st) in Kattankudy area on the main road in Batticaloa.
 
-அதிகாலை 4 மணியளவில்  கொழும்பிலிருந்து கல்முனை நோக்கி வந்து கொண்டிருந்த லொறியொன்று காத்தான்குடி பிரதான வீதியில் நிறுத்தப்பட்டிருந்த அதே நேரம் கொழும்பிலிருந்து அக்கரைப்பற்று நோக்கி வந்து கொண்டிருந்த சொகுசு பஸ் ஒன்று குறித்த லொறியின் பின்னால் மோதியதன் காரணமாக பாரிய விபத்து சம்பவம் ஏற்பட்டுள்ளது.
+A lorry from Colombo at around 4 am was parked on the main road from Kattankudi, while a luxury bus was traveling from Colombo to Akkaraipattu.
 
-குறித்து விபத்தை தொடர்ந்து பிரதான வீதியில் வந்து கொண்டிருந்த முச்சக்கர வண்டியில் பஸ் மீது மோதியுள்ளது இதனால் பஸ்ஸில் நடத்துனர் படுகாயமடைந்தார்.
+Following the accident, a three -wheeler collided with a bus on the main road.
 
-...
+At the same time, the driver of the bus was admitted to the Batticaloa Teaching Hospital after the driver of the bus was injured. Kattankudy police are conducting further investigations.
+
+◼️
 
 [Data](articles/ee03fa18.json)
 
+[Extended Data](ext_articles/ee03fa18.ext.json)
+
 ---
 
-### රටවල් ආක්‍රමණය කිරීමට ඊශ්‍රායලයට අයිතියක් නැහැ - ඉරාන ජනාධිපති
+### Israel has no right to invade countries - Iranian president
 
 *2025-09-21 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214818) · `si`
 
-සෙසු රටවල් ආක්‍රමණය කිරීමට ඊශ්‍රායලයට කිසිදු අයිතියක් නොමැති බව ඉරාන ජනාධිපති මසූද් පෙෂෙස්කියන් පවසා තිබේ.
+Iranian President Masu Peskian has said that Israel has no right to invade the rest of the countries.
 
-අසල්වැසි රාජ්‍යන්ගේ භූමි ප්‍රදේශ ද ඇතුළත් වන පරිදි ක්‍රියාත්මක කිරීමට නියමිත යැයි පැවසෙන ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහුගේ  'ග්‍රේට(ර්) ඊශ්‍රායල් ' හෙවත් ‍ශ්‍රේෂ්ඨ ඊශ්‍රායලය නම් සැලසුම හෙළා දකිමින් ඔහු මේ බව පවසා ඇත.
+He has said this despite condemning the plan of the Israeli Israeli Israeli, Benjamin Netanyahu, which is to be implemented to include neighboring countries.
 
-එමෙන්ම මැද පෙරදිග කලාපය තුළ ඊශ්‍රායලයේ ක්‍රියාකලාපය ද එහිදී ඔහුගේ දැඩි විවේචනයට ලක්ව තිබේ.
+The actions of the Israelites have also been criticized in the Middle East region.
 
-අමෙරිකාව ඊශ්‍රායලයට සහාය දැක්වීම ද ඉරාන ජනපතිවරයාගේ විවේචනයට ලක්වූ අතර ඊශ්‍රායලයේ මෙම නීතිවිරෝධි, අසාධාරණ සහ අමානුෂික ක්‍රියා සම්බන්ධව සෙසු රටවල් නිහඬව සිටිය යුතු නැති බව ඔහු වැඩිදුරටත් පවසයි.
+He added that the President of Iranian was also criticized by the President of Iranian and the President of Iranian illegal, unfair and inhuman activities.
 
 ◼️
 
 [Data](articles/d86bc4d2.json)
+
+[Extended Data](ext_articles/d86bc4d2.ext.json)
+
+---
+
+### A man killed in a sharp weapon in Hemmatagama
+
+*2025-09-21 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225638) · `ta`
+
+A man has been assassinated by a sharp weapon in the area of ​​the Hemmatagama police division.
+
+Police say the attack was caused by a personal family dispute.
+
+A 23 -year -old suspect has been arrested in connection with the incident and police are conducting further investigations.
+
+◼️
+
+[Data](articles/7b2bae4f.json)
+
+[Extended Data](ext_articles/7b2bae4f.ext.json)
+
+---
+
+### Plan to eradicate many party organizations in Sri Lanka?
+
+*2025-09-21 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225637) · `ta`
+
+The reports of some members of the ruling party for the national people's power government, which have strongly criticized past governments as a 70 -year -old curse, has revealed.
+
+◼️
+
+[Data](articles/27fd4f58.json)
+
+[Extended Data](ext_articles/27fd4f58.ext.json)
 
 ---
 
@@ -135,6 +469,26 @@ Another phase of the special series of special series of special operations isla
 [Data](articles/2b5cc516.json)
 
 [Extended Data](ext_articles/2b5cc516.ext.json)
+
+---
+
+### Lorry collides with a motorcycle in Puttalam
+
+*2025-09-21 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225633) · `ta`
+
+One person was killed when a lorry collided with a motorcycle from Puttalam to Maduranguli near the Palaviya junction on the Puttalam -Colombo main road.
+
+The motorcycle driver and the other person who were injured in the accident were admitted to the hospital, and the motorcycle driver was reportedly dead.
+
+Investigations have revealed that the victim was 35 years old from Maduranguliya.
+
+The driver of the lorry has been arrested in connection with the accident and the Puttalam police are conducting investigations into the incident.
+
+◼️
+
+[Data](articles/c23f3036.json)
+
+[Extended Data](ext_articles/c23f3036.ext.json)
 
 ---
 
@@ -260,19 +614,21 @@ The remains are placed at the Hemmatagama hospital morgue and the suspect involv
 
 ---
 
-### වැසි හා සුළං තත්ත්වය තවදුරටත්
+### Showers and windster
 
 *2025-09-21 08:41:30* · [`adalk`](https://www.ada.lk/breaking_news/වැසි-හා-සුළං-තත්ත්වය-තවදුරටත්/11-418626) · `si`
 
-දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි සහා සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+The extent of the prevailing rain and wind stability in the southwestern parts of the island are still expected.
 
-බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර ස නුවරඑළිය අද දිනයේදි විටින් විට වැසි ඇති බවත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+There will be showers at times in the Western and Sabaragamuwa provinces today and in some places today.. Heavy rains can occur at about 75 times.
 
-උතුරු හා වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් ඌව පළාතෙත් අම්පාර හා මඩකලපුව දිස්ත්‍රික්කවලත්  ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හො ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තතමේන්තුවට වැඩිදුරටත් පවසයි.
+In the Ampara and Batticaloa districts of the Northern and Northwestern province of Uva Province, the Ampara and Batticaloa Districts of the Ampara and Batticaloa Districts. Showers will occur at several places in the afternoon, the Department further said.
 
 ◼️
 
 [Data](articles/15ec0ab2.json)
+
+[Extended Data](ext_articles/15ec0ab2.ext.json)
 
 ---
 
@@ -1386,6 +1742,20 @@ US President Donald Trump has said that he is expected to visit China in early m
 
 ---
 
+### Horton Plains Awaits Its Floral Spring
+
+*2025-09-20 17:13:00* · [`islandlk`](http://island.lk/horton-plains-awaits-its-floral-spring/) · `en`
+
+As the morning mist lifts off the cloud forests of Horton Plains, a rare spectacle of nature is quietly unfolding—one that occurs only once every twelve years. The usually muted green and brown tones of this highland plateau are being replaced with vibrant hues of purple, blue, and violet. This is the long-awaited Nelu Flower Spring, a breathtaking natural event that is both a biological marvel and a potential eco-tourism goldmine for Sri Lanka.
+
+Often referred to in local folklore as the “flower garden of the gods,” Horton Plains has long held a special place in the hearts of conservationists, ecologists, and nature lovers. But during this rare bloom, it transforms into something even more extraordinary—an immersive floral landscape unlike any other in the country.
+
+...
+
+[Data](articles/836cc239.json)
+
+---
+
 ### Airports restored by Immigration and Emigration Department's computer system
 
 *2025-09-20 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214798) · `si`
@@ -1655,383 +2025,5 @@ The UCO designation indicates that the existing ratings may change as a direct r
 [Data](articles/a22b5603.json)
 
 [Extended Data](ext_articles/a22b5603.ext.json)
-
----
-
-### Sri Lanka’s economy records mixed sectoral growth in Q2 2025
-
-*2025-09-20 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112704/sri-lankas-economy-records-mixed-sectoral-growth-in-q2-2025) · `en`
-
-According to the latest report released by the Department of Census and Statistics for the second quarter of 2025 (April 1 – June 30), Sri Lanka’s fisheries sector, vegetable cultivation, and rubber cultivation have recorded unstable performances, showing negative growth trends.
-
-The data indicate that despite expansion in majority of agriculture activities, ‘Fresh water fishing and fresh water aquaculture’ (34.8 percent), ‘Growing of rubber’ (10.8 percent), ‘Marine fishing’ (5.2 percent) and ‘Growing of vegetables’ (3.6 percent) reported contractions in the second quarter of 2025.
-
-Meanwhile, ‘Growing of rubber’, a major contributor to exports, recorded a decline of 10.8%.
-
-The Rubber Development Department attributed this drop to seasonal cultivation periods in March–April and heavy rainfall in May–June.
-
-Despite these setbacks, overall agriculture, industry, and services recorded positive growth during the quarter.
-
-...
-
-[Data](articles/abd1adb3.json)
-
-[Extended Data](ext_articles/abd1adb3.ext.json)
-
----
-
-### Airport is a collapse of the computer system of the Immigration and Emigration Department
-
-*2025-09-20 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214796) · `si`
-
-Katunayake Airport has been established in the Department of Immigration and Emigration, the border computer system inactive.
-
-It is reported that the computer system has been inactive from 01.45 pm today.
-
-Sri Lanka's computer system is established and maintained by a private company to a private company.
-
-Sources from the Immigration and Emigration Department said that this system is inactive in this manner every month.
-
-In such a time when Sri Lanka is most visitors to Sri Lanka, they point out the need for a computer system that is being established by the government.
-
-However, it is revealed that the Department of Immigration and Emigration Department has also been posed to the Computer Systems in Europe and other countries.
-
-◼️
-
-[Data](articles/937f0ca0.json)
-
-[Extended Data](ext_articles/937f0ca0.ext.json)
-
----
-
-### Ranil told Ranil about his arrest
-
-*2025-09-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214795) · `si`
-
-Former President Ranil Wickremesinghe made a special comment on the arrest of herself today (20).
-
-The former President said that the complaint has been lodged by the present Secretary of the President Anura Kumara Dissanayake.
-
-However, the former president said that the process was a full official visit to Colombo and returned to Colombo.
-
-It was also the accepted invitation and that they had the official invitation and that they were there, but they would stay in England.
-
-...
-
-[Data](articles/b07f2b2d.json)
-
-[Extended Data](ext_articles/b07f2b2d.ext.json)
-
----
-
-### Trump adds $100,000 fee for skilled worker visa applicants
-
-*2025-09-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112703/trump-adds-100000-fee-for-skilled-worker-visa-applicants) · `en`
-
-US President Donald Trump has signed an executive order that will add a $100,000 (£74,000) annual fee for applicants to the H-1B visa programme for skilled foreign workers.
-
-Trump’s order mentions “abuse” of the programme and will restrict entry unless payment is made.
-
-Critics have long argued that H-1Bs undercut the American workforce, while supporters - including billionaire Elon Musk - argue it allows the US to attract top talent from around the world.
-
-In another order, Trump set up a new “gold card” to fast-track visas for certain immigrants in exchange for fees starting at £1m.
-
-Trump’s order is due to come into force on 21 September. It would only apply to new requests, but companies would have to pay the same amount for each applicant for six years, US Commerce Secretary Howard Lutnick said.
-
-...
-
-[Data](articles/a8fecf39.json)
-
-[Extended Data](ext_articles/a8fecf39.ext.json)
-
----
-
-### A fatal accident in Years
-
-*2025-09-20 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214794) · `si`
-
-One person was killed in an accident in Yakkala area on the Colombo Kandy road.
-
-Police said that the accident had occurred when a motorbike rose towards Colombo.
-
-The motorcyclist who was seriously injured in the accident died on admission to the Gampaha District General Hospital.
-
-The deceased has been identified as a 25 year old resident of Yakkala.
-
-◼️
-
-[Data](articles/6eff3bb3.json)
-
-[Extended Data](ext_articles/6eff3bb3.ext.json)
-
----
-
-### So far 104,602 people arrested on suspicion
-
-*2025-09-20 15:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-104-602-பேர்-சந்தேகத்தின்-பேரில்-கைது/175-364953) · `ta`
-
-5,101,516 people have been raided in the year 2025, with 104,602 of them on suspicion, police media spokesman said.
-
-The police media spokesman said that 4630 of the persons have been identified directly for crimes.
-
-The police media spokesman said that 955 kilograms of heroin has been recovered in the daily raids conducted by the police so far 2025.
-
-In addition, 1,422 kilograms of ice, 471 kilograms of Hashish, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million drugs have been seized.
-
-In addition, 1,721 weapons including 61 T-56 and 62 handguns have been recovered by the police.. Remble
-
-◼️
-
-[Data](articles/a6dfc7f3.json)
-
-[Extended Data](ext_articles/a6dfc7f3.ext.json)
-
----
-
-### A corpse of a sea creature
-
-*2025-09-20 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214793) · `si`
-
-A sea creature has been launched to Tirupugulani in the South Coast of Mannar this morning.
-
-The age of eight, which is about 300 kilograms and a half of 2.30 meters.
-
-The animal is known as 'Sea cows' and believes that environmentalists believe that the accident occurred in a fishing vessel.
-
-◼️
-
-[Data](articles/579a7d77.json)
-
-[Extended Data](ext_articles/579a7d77.ext.json)
-
----
-
-### 1,843 fatal accidents this year - 1,960 deaths
-
-*2025-09-20 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214792) · `si`
-
-1,960 people have died of accidents during this year.
-
-The police said that the suspects were killed in the accidents island wide from the first day of January this year.
-
-In addition, 3,708 have been taken after 3,708 serious roads have been reported.
-
-◼️
-
-[Data](articles/1b7528d9.json)
-
-[Extended Data](ext_articles/1b7528d9.ext.json)
-
----
-
-### President Anura Kumara Dissanayake addresses the United Nations General Assembly on the 24th!
-
-*2025-09-20 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225579) · `ta`
-
-President Anura Kumara Dissanayake will address the 79th session of the United Nations General Assembly in New York on September 24 (Wednesday).
-
-According to a list of amended temporary speakers issued by the United Nations, the President will address the afternoon session of the public debate from September 23 to 29.
-
-In his first United Nations General Assembly, Anuragumara Dissanayake is expected to reveal the government's position on Sri Lanka's reform agenda, economic revival initiatives and global issues, including climate action, sustainable development and international cooperation.
-
-In the 2025 public debate, world leaders including the United States, China, India and Brazil will submit statements under the theme of the United Nations General Assembly.
-
-This is the first speech to Sri Lanka and the world organization since the election of Anuragumara Dissanayake earlier this year.
-
-◼️
-
-[Data](articles/03b7942f.json)
-
-[Extended Data](ext_articles/03b7942f.ext.json)
-
----
-
-### 51 lakhs of 2025 to police inspector
-
-*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
-
-The police have seized 955 kilograms of heroin with drug raids and the drug, 955 kilograms of heroin.
-
-Police Media Spokesperson, Assist Superintendent of Police F. U. Woodlor said that he was taken into custody by 471 kilograms of Hishr, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million.
-
-There are 61 T-56 weapons, 61 pistols and 40 revolvers have been recovered.
-
-Troops of 38 shotings, 273 other suspects have been arrested in connection with shooting incidents from January 2025 to date.
-
-Meanwhile, 5,101,516 persons have been inspected since January 12, the daily police stations, and 104,602 persons were arrested on suspicion.
-
-According to the Police Media Spokesperson, 4630 people have been identified as directly involved in crime.
-
-46,909 drunk drivers have been arrested in these operations and the law has been launched against 3404 drivers regarding retreating.
-
-◼️
-
-[Data](articles/f3702a26.json)
-
-[Extended Data](ext_articles/f3702a26.ext.json)
-
----
-
-### 79th anniversary of the United National Party
-
-*2025-09-20 14:46:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியின்-79ஆவது-ஆண்டு-நிறைவு-விழா/175-364952) · `ta`
-
-The 79th anniversary of the United National Party is celebrated today (20).
-
-An event is organized at the private hotel in Sri Jayawardenapura, "Do not abandon your opinion - we will unite to defeat the constitutional dictatorship".
-
-This was the first public event to attend Ranil Wickremesinghe after being released on bail.
-
-Many politicians and former MPs attended the event. Remble
-
-◼️
-
-[Data](articles/504f3ead.json)
-
-[Extended Data](ext_articles/504f3ead.ext.json)
-
----
-
-### Bus in Nuwara Eliya - lorry accident
-
-*2025-09-20 14:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பஸ்-லொறி-விபத்து/76-364951) · `ta`
-
-One person was injured this morning (20) near the Brookesite junction on the Nuwara Eliya -Irakalai main road, police said.
-
-The accident occurred when a private bus and a lorry collided head -on, police said.
-
-The driver of the lorry was injured during the accident, police said the hospital was admitted to the hospital for treatment.. Remble
-
-◼️
-
-[Data](articles/4afa89cf.json)
-
-[Extended Data](ext_articles/4afa89cf.ext.json)
-
----
-
-### Over 1,400 kg ‘Ice’, 955 kg heroin, over 1,700 firearms seized by police in 2025
-
-*2025-09-20 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112702/over-1400-kg-ice-955-kg-heroin-over-1700-firearms-seized-by-police-in-2025) · `en`
-
-According to Sri Lanka Police, raids carried out so far in 2025 have led to the recovery of significant quantities of narcotics and illegal firearms.
-
-The seizures include 955 kilograms of heroin, 1,422 kilograms of ICE (crystal methamphetamine), 471 kilograms of hashish, 29 kilograms of cocaine, and 13,773 kilograms of cannabis (ganja). In addition, police recovered 3.5 million narcotic pills.
-
-During these operations, a total of 1,721 firearms were also seized, including 61 T-56 assault rifles and 62 pistols, said police.
-
-Police Media Spokesperson, ASP F.U. Wootler, revealed these figures during a press briefing held today (20).
-
-He further added that since January 1, 2025, a total of 328 suspects have been arrested in connection with shooting incidents. These include 38 gunmen, 27 motorcyclists, and 263 individuals accused of aiding and abetting such crimes.
-
-...
-
-[Data](articles/13e8a38b.json)
-
-[Extended Data](ext_articles/13e8a38b.ext.json)
-
----
-
-### CEB trade union reps walk out of talks in protest
-
-*2025-09-20 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112701/ceb-trade-union-reps-walk-out-of-talks-in-protest) · `en`
-
-It is reported that during the discussion held today (20) between the electricity trade unions and the heads of the Ceylon Electricity Board (CEB), representatives of the trade unions had walked out in protest.
-
-The meeting took place at the CEB headquarters. Trade union representatives staged the walkout in objection to the participation of the Director of Restructuring of the CEB in the discussion.
-
-According to reports, 25 ministry secretaries and three trade union representatives attended the meeting.
-
-It has been decided that the ongoing trade union action, under which electricity workers are adhering strictly to official procedures (“work to rule”), will continue until September 21.
-
-The electricity trade unions further stated that a decision regarding future trade union action will be taken on September 24.
-
-◼️
-
-[Data](articles/d0e350c0.json)
-
-[Extended Data](ext_articles/d0e350c0.ext.json)
-
----
-
-### Health Matters: Fortify the Over Forties
-
-*2025-09-20 14:12:00* · [`islandlk`](http://island.lk/health-matters-fortify-the-over-forties/) · `en`
-
-The human body is continually changing. The human body uses many systems for both daily living and fighting off disease, and over the years, these gradually lose their original youthful powers.
-
-It is very helpful to know how we can reduce or even avoid health problems entirely by taking some simple mineral and vitamin supplements and perhaps by adding a wider variety of foods to our diets. Nutritionists say we need to consume about 30 different vegetables to feed and maintain a healthy micro biome in our stomach. And US doctors say, our micro-biome is a major part of our immune system. Not widely known is that our stomach acid too, declines in strength. This shows up by giving us various symptoms of bloating or indigestion.
-
-The information given here, below, is what the same US medical doctors already mentioned in earlier chapters, are saying about these matters.
-
-...
-
-[Data](articles/2e79a1d4.json)
-
-[Extended Data](ext_articles/2e79a1d4.ext.json)
-
----
-
-### Dead body of a woman killed in mysteriously
-
-*2025-09-20 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214790) · `si`
-
-A woman has been launched in a house in the Kattacollad area in the Kaluwankudy police Division.
-
-The deceased has been identified as a resident of KattaCallar, aged 57.
-
-Preliminary investigations have revealed that the woman had been living alone in her home.
-
-◼️
-
-[Data](articles/9c729284.json)
-
-[Extended Data](ext_articles/9c729284.ext.json)
-
----
-
-### 9,000 complaints have been received for police WhatsApp - Police Media Spokesman
-
-*2025-09-20 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225574) · `ta`
-
-Police Media Spokesperson FU has received 9,000 complaints to the WhatsApp telephone number introduced by the Inspector General of Police Priyantha Weerasuriya to appeal to various crimes in the country.. Woodler said.
-
-It is noteworthy that on August 13, the General Attorney-at-Law Priyantha Weerasuriya, 071- 85988888, informed the public on August 13 that the number of criminal activity in the country could be lodged.
-
-◼️
-
-[Data](articles/53dc80a1.json)
-
-[Extended Data](ext_articles/53dc80a1.ext.json)
-
----
-
-### Ranil’s Triple-R Programme – Relief, Rehabilitation and Reconciliation – and work style
-
-*2025-09-20 14:04:00* · [`islandlk`](http://island.lk/ranils-triple-r-programme-relief-rehabilitation-and-reconciliation-and-work-style/) · `en`
-
-The second leg of the peace process and something which the LTTE always considered of the highest priority, and reiterated at the talks, was the rapid rehabilitation and development of the conflict-affected areas – mainly the Northern and Eastern Provinces. This consisted of eight districts of the 25 in the country. Since the conflict had inevitably spilled over the boundaries of the eight districts, it became necessary to also bring in what was called the adjacent districts of Puttalam, Anuradhapura, Polonnaruwa and Moneragala. Some of these were earlier referred to as ‘border villages’ but since it was necessary to have a neutral term instead of accepting territorial borders, the term ‘adjacent district’ was being increasingly used in the documentation.
-
-...
-
-[Data](articles/d6579703.json)
-
-[Extended Data](ext_articles/d6579703.ext.json)
-
----
-
-### Comment: Arundhati Roy’s Mother Mary Comes to Me
-
-*2025-09-20 14:03:00* · [`islandlk`](http://island.lk/comment-arundhati-roys-mother-mary-comes-to-me/) · `en`
-
-My title reads ‘Comment …’ I dare not claim this article to be a review of Arundhati’s latest book, since she is too unique a writer for me to attempt criticizing.
-
-I start by saying that her latest book is for the general reader, and not a political or protest publication, is a biography of her mother and autobiography of herself. After a long time I got to read a book that I could not put down – it was so stylishly constructed, written in an easy flowing manner and absorbingly interesting: the two lives – her mother’s after her marriage to a tea planter in Assam and hers from childhood.
-
-...
-
-[Data](articles/2fbc70fd.json)
-
-[Extended Data](ext_articles/2fbc70fd.ext.json)
 
 ---

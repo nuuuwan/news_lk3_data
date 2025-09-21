@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 13:20:29**
+As of **2025-09-21 13:38:25**
 
 ## Newspaper Stats
 
-*Scraped **77,225** Articles*
+*Scraped **77,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,503
-adaderanalk | 9,975
+adaderanalk | 9,979
 tamilmirrorlk | 11,613
 virakesarilk | 12,566
 adaderanasinhalalk | 13,484
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,484
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,223 (100.0%) of 77,225 articles have been extended.
+77,223 (100.0%) of 77,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,28 @@ He was taken to the hospital due to a sudden illness when he was exercising on S
 [Data](articles/efce0f64.json)
 
 [Extended Data](ext_articles/efce0f64.ext.json)
+
+---
+
+### President to leave for US tomorrow to attend UN General Assembly
+
+*2025-09-21 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112725/president-to-leave-for-us-tomorrow-to-attend-un-general-assembly) · `en`
+
+President Anura Kumara Dissanayake is scheduled to leave for the United States tomorrow (22).
+
+During this visit, President Dissanayake is expected to attend the 80th session of the United Nations General Assembly (UNGA).
+
+The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division.
+
+During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
+
+The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will accompany President Anura Kumara Dissanayake on his official visit.
+
+◼️
+
+[Data](articles/09381f11.json)
 
 ---
 
@@ -170,6 +192,26 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining t
 
 ---
 
+### CEB workers to further intensify trade union action from tomorrow
+
+*2025-09-21 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112724/ceb-workers-to-further-intensify-trade-union-action-from-tomorrow) · `en`
+
+Several trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their trade union action further against the proposed restructuring of the CEB, effective midnight today (21).
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action in three phases.
+
+The first phase was initiated as a ‘work-to-rule’ trade union action.
+
+In the second phase, all employees reported sick leave in two groups on September 17 and 18), during which a demonstration was also staged opposite the CEB head office.
+
+Although 17 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
+
+...
+
+[Data](articles/389beca8.json)
+
+---
+
 ### 43 boys rape in cyber
 
 *2025-09-21 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/43-சிறுவர்கள்-சைபரில்-வன்புணர்வு/175-364982) · `ta`
@@ -207,6 +249,28 @@ Kattankudy police are conducting further investigations.. And the luxury bus aut
 [Data](articles/43b0c5c8.json)
 
 [Extended Data](ext_articles/43b0c5c8.ext.json)
+
+---
+
+### British PM set to announce recognition of Palestinian state today
+
+*2025-09-21 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112723/british-pm-set-to-announce-recognition-of-palestinian-state-today) · `en`
+
+Prime Minister Sir Keir Starmer is expected to announce the UK’s recognition of a Palestinian state in a statement on Sunday afternoon.
+
+The move comes after the prime minister said in July the UK would shift its position in September unless Israel met conditions including agreeing to a ceasefire in Gaza and committing to a long-term sustainable peace deal that delivers a two-state solution.
+
+It represents a major change in British foreign policy after successive governments said recognition should come as part of a peace process and at a time of maximum impact.
+
+The move has drawn fierce criticism from the Israeli government, hostage families and some Conservatives.
+
+Israeli Prime Minister Benjamin Netanyahu previously said such a move “rewards terror”.
+
+However, UK ministers argue there was a moral responsibility to act to keep the hope of a long-term peace deal alive.
+
+...
+
+[Data](articles/844a11ba.json)
 
 ---
 
@@ -273,6 +337,26 @@ The corpse is placed in the Kurunegala Hospital. Polgahawela police are conducti
 [Data](articles/2432542d.json)
 
 [Extended Data](ext_articles/2432542d.ext.json)
+
+---
+
+### 47-year-old Karandeniya PS Chairman dies due to sudden illness
+
+*2025-09-21 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112722/47-year-old-karandeniya-ps-chairman-dies-due-to-sudden-illness) · `en`
+
+Chairman of Karandeniya Pradeshiya Sabha Mahil Munasinghe, has passed away due to a sudden illness.
+
+It has been reported that he became suddenly ill this morning (21) while engaging in physical fitness activities and was admitted to the Karandeniya Hospital, where he subsequently passed away.
+
+Mahil Munasinghe contested representing the National People’s Power (NPP) in the last local government elections and was elected as the Chairman of the Karandeniya Pradeshiya Sabha.
+
+At the time of his death, he was 47 years old. It is suspected that the cause of death was a heart attack.
+
+A post-mortem examination is scheduled to be conducted at the Elpitiya Base Hospital.
+
+◼️
+
+[Data](articles/0ac24e73.json)
 
 ---
 
@@ -1995,77 +2079,5 @@ US President Donald Trump has said that he is expected to visit China in early m
 [Data](articles/e77be56c.json)
 
 [Extended Data](ext_articles/e77be56c.ext.json)
-
----
-
-### Horton Plains Awaits Its Floral Spring
-
-*2025-09-20 17:13:00* · [`islandlk`](http://island.lk/horton-plains-awaits-its-floral-spring/) · `en`
-
-As the morning mist lifts off the cloud forests of Horton Plains, a rare spectacle of nature is quietly unfolding—one that occurs only once every twelve years. The usually muted green and brown tones of this highland plateau are being replaced with vibrant hues of purple, blue, and violet. This is the long-awaited Nelu Flower Spring, a breathtaking natural event that is both a biological marvel and a potential eco-tourism goldmine for Sri Lanka.
-
-Often referred to in local folklore as the “flower garden of the gods,” Horton Plains has long held a special place in the hearts of conservationists, ecologists, and nature lovers. But during this rare bloom, it transforms into something even more extraordinary—an immersive floral landscape unlike any other in the country.
-
-...
-
-[Data](articles/836cc239.json)
-
-[Extended Data](ext_articles/836cc239.ext.json)
-
----
-
-### Airports restored by Immigration and Emigration Department's computer system
-
-*2025-09-20 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214798) · `si`
-
-Katunayake Airport has restored the Immigration and Emigration Departments and the inactive computer system.
-
-It is reported that the computer system has been reopened at 4.15 pm.
-
-Accordingly, 02 hours and 30 minutes were inactive.
-
-The Katunayake airport was launched by the Department of Immigration and Emigration, the Border Computer System, 01.45 pm.
-
-◼️
-
-[Data](articles/111c22a8.json)
-
-[Extended Data](ext_articles/111c22a8.ext.json)
-
----
-
-### Sanasa Life Insurance Launched ” Heenalantnya” the biggest Consumer Promotion in Sanasa History
-
-*2025-09-20 16:55:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launched-heenalantnya-the-biggest-consumer-promotion-in-sanasa-history/) · `en`
-
-SANASA Life Insurance has accomplished yet another milestone along with the launch of ‘Heenalanthaya,’ the largest consumer promotion in the organization’s history. This promotion is designed to provide SANASA Life Insurance policyholders and those who wish to participate in the grand draw, with numerous opportunities to win prizes.
-
-The promotion also aligns with SANASA’s long-standing ethic of outreach, which is focused on providing accessible and affordable insurance solutions to underserved, low-income communities. This promotion is open to all clients around the country who have embarked on a life insurance cover with SANASA.
-
-Participating in the ‘Heenalanthaya’ draw is an easy and straightforward process. Eligibility requires clients to secure a new life insurance policy and complete three consecutive premium payments. A policyholder who has consistently paid premiums over a longer term in addition to begin eligible, will also increase their chances of winning.
-
-...
-
-[Data](articles/5f53b921.json)
-
-[Extended Data](ext_articles/5f53b921.ext.json)
-
----
-
-### CEAT Kelani honours top dealers with ‘Autobahn 2.0’ convention & awards gala
-
-*2025-09-20 16:55:00* · [`islandlk`](http://island.lk/ceat-kelani-honours-top-dealers-with-autobahn-2-0-convention-awards-gala-2/) · `en`
-
-A dazzling celebration of partnership, performance and excellence unfolded at the Shangri-La, Colombo, when CEAT Kelani Holdings, Sri Lanka’s largest manufacturer of pneumatic tyres, hosted its annual dealer convention and awards gala with customary panache.
-
-The event brought together the top 145 dealers of the year along with their families, for an unforgettable evening of recognition and camaraderie. They were joined by members of CEAT’s sales, marketing and export teams as well as the Company’s leadership, underscoring the importance of the occasion to the brand’s continuing success story.
-
-Themed ‘Autobahn 2.0,’ the convention embodied the attributes of speed, comfort and control that define CEAT Car Radials, with the German engineering, research and development expertise that fortify the brand’s superior performance on Sri Lankan roads. The event sought to bring this theme to life in every aspect of the celebration.
-
-...
-
-[Data](articles/e8a7f511.json)
-
-[Extended Data](ext_articles/e8a7f511.ext.json)
 
 ---

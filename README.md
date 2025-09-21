@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 05:20:27**
+As of **2025-09-21 06:25:04**
 
 ## Newspaper Stats
 
-*Scraped **77,144** Articles*
+*Scraped **77,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,85 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,665
+economynextcom | 4,667
 dailymirrorlk | 4,733
-islandlk | 4,734
+islandlk | 4,751
 dailyftlk | 5,485
 adalk | 7,500
 adaderanalk | 9,965
-tamilmirrorlk | 11,594
+tamilmirrorlk | 11,595
 virakesarilk | 12,550
-adaderanasinhalalk | 13,471
+adaderanasinhalalk | 13,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,144 (100.0%) of 77,144 articles have been extended.
+77,151 (100.0%) of 77,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+
+*2025-09-21 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214811) · `si`
+
+දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැනි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවිය හැකි බවය.
+
+උතුරු සහ වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී.‍ 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකියි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදුවිය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/cf009941.json)
+
+---
+
+### Proparco France ready to look at financing Sri Lanka firms as default ends
+
+*2025-09-21 05:00:00* · [`economynextcom`](https://economynext.com/proparco-france-ready-to-look-at-financing-sri-lanka-firms-as-default-ends-241336/) · `en`
+
+ECONOMYNEXT – Proparco, the private sector arm of the French development lender AFD, is ready to look at financing firms in Sri Lanka as the country has emerged from default and is stable, an official said.
+
+Sri Lanka defaulted on its external debt in 2022 and has now completed the restructuring of its sovereign bonds, and most of its bilateral debt including those of the AFD itself.
+
+Bilateral lenders stopped lending to Sri Lanka and only provided grants during the time of default, while multilaterals’ whose debt continued to be serviced, funded the island.
+
+“It was not so easy at that time,” Reza Hassam Daya, Global Head of Manufacturing, Agribusiness and Services at Proparco told EconomyNext.
+
+“But now, I think we are very open to seeing some projects.”
+
+...
+
+[Data](articles/d1850bb7.json)
+
+[Extended Data](ext_articles/d1850bb7.ext.json)
+
+---
+
+### விவசாயிகளின் வயிற்றில் அடிக்காதீர்கள்: விஜய்
+
+*2025-09-21 03:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளின்-வயிற்றில்-அடிக்காதீர்கள்-விஜய்/175-364959) · `ta`
+
+நெல் கொள்முதல் நிலையங்களில், டெல்டா மாவட்ட விவசாயிகளிடம் இருந்து மூட்டை ஒன்றுக்கு 40 இந்திய ரூபா என பல கோடி ரூபாய் கொமிஷனாகப் பெறப்படுகிறது. இதற்கு முதல்வர் பதில் சொல்ல வேண்டும் என்று த.வெ.க. தலைவர் விஜய் வலியுறுத்தியுள்ளார்.
+
+தமிழக வெற்றிக் கழகத் தலைவர் விஜய் நேற்று மதியம் நாகப்பட்டினத்தில் பிரச்சாரம் மேற்கொண்டார். அதன்பின், மாலை 5 மணி அளவில் திருவாரூர் தெற்கு வீதியில் நகராட்சி அலுவலகம் அருகே விஜய் பிரச்சாரம் மேற்கொண்டார்.
+
+டெல்டா பகுதியில இருக்கற விவசாயிங்க ஒரு கொடுமைய அனுபவச்சிகிட்டு இருக்காங்க. அதுபற்றி புகார் ஒன்று வந்தது. அது என்னன்னா, இந்த மாவட்டத்துல இருக்கிற நெல் கொள்முதல் மையங்கள்ல ஒரு மூட்டைக்கு 10 ரூபா  கொடுக்கறாங்க. ஆனா, அதுக்கு மேல 40 ரூபா கொமிஷன் வாங்கறாங்க. ஒரு டன்னுக்கு 1,000 ரூபா கொமிஷன். நீங்க கணக்கு போட்டு பாத்தீங்கனா, கடந்த நான்கரை வருடங்கள்ல இந்த டெல்டா பகுதி விவசாயிங்க கிட்ட இருந்து கொமிஷனா பல கோடி புடுங்கி இருக்காங்க. இதை வேற யாராவது சொல்லி இருந்தாகூட நான் நம்பி இருக்க மாட்டேன். ஆனா, எங்கிட்ட சொன்னதே விவசாயிங்கதான். விவசாயிங்க பொய் சொல்ல மாட்டாங்க.
+
+...
+
+[Data](articles/72dca424.json)
+
+---
 
 ### The UN. Presidential speech at the General Assembly
 
@@ -702,6 +762,22 @@ The embassy was also present with the young man with the young man with his incl
 
 ---
 
+### Sinhala Theatre explored in the Seventies
+
+*2025-09-20 17:18:00* · [`islandlk`](http://island.lk/sinhala-theatre-explored-in-the-seventies/) · `en`
+
+Clearing shelves in a small section of my extensive library, I found quite a few that I had not read, placed there when I was tidying up the books in the main library. I had put them in a new place to read later, but had then forgotten about them. It was salutary that they were rediscovered, and I have since spent many happy hours with them.
+
+One that I found fascinating was a booklet in a series produced in the seventies by the Cultural Affairs Department. This was about Theatre in Sri Lanka, and was by A J Gunawardena, who had become a good friend in the decade after I started working for the British Council. He was a polymath and, though an academic in the field of English at the University of Sri Jayewardenepura, he was an authority on the Arts, and indeed was seconded from there to head the Institute of Aesthetic Studies.
+
+...
+
+[Data](articles/1d803b5b.json)
+
+[Extended Data](ext_articles/1d803b5b.ext.json)
+
+---
+
 ### Thick from Trump's invested on US investments for tiktak company
 
 *2025-09-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214799) · `si`
@@ -746,6 +822,92 @@ The Katunayake airport was launched by the Department of Immigration and Emigrat
 
 ---
 
+### Sanasa Life Insurance Launched ” Heenalantnya” the biggest Consumer Promotion in Sanasa History
+
+*2025-09-20 16:55:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launched-heenalantnya-the-biggest-consumer-promotion-in-sanasa-history/) · `en`
+
+SANASA Life Insurance has accomplished yet another milestone along with the launch of ‘Heenalanthaya,’ the largest consumer promotion in the organization’s history. This promotion is designed to provide SANASA Life Insurance policyholders and those who wish to participate in the grand draw, with numerous opportunities to win prizes.
+
+The promotion also aligns with SANASA’s long-standing ethic of outreach, which is focused on providing accessible and affordable insurance solutions to underserved, low-income communities. This promotion is open to all clients around the country who have embarked on a life insurance cover with SANASA.
+
+Participating in the ‘Heenalanthaya’ draw is an easy and straightforward process. Eligibility requires clients to secure a new life insurance policy and complete three consecutive premium payments. A policyholder who has consistently paid premiums over a longer term in addition to begin eligible, will also increase their chances of winning.
+
+...
+
+[Data](articles/5f53b921.json)
+
+[Extended Data](ext_articles/5f53b921.ext.json)
+
+---
+
+### CEAT Kelani honours top dealers with ‘Autobahn 2.0’ convention & awards gala
+
+*2025-09-20 16:55:00* · [`islandlk`](http://island.lk/ceat-kelani-honours-top-dealers-with-autobahn-2-0-convention-awards-gala-2/) · `en`
+
+A dazzling celebration of partnership, performance and excellence unfolded at the Shangri-La, Colombo, when CEAT Kelani Holdings, Sri Lanka’s largest manufacturer of pneumatic tyres, hosted its annual dealer convention and awards gala with customary panache.
+
+The event brought together the top 145 dealers of the year along with their families, for an unforgettable evening of recognition and camaraderie. They were joined by members of CEAT’s sales, marketing and export teams as well as the Company’s leadership, underscoring the importance of the occasion to the brand’s continuing success story.
+
+Themed ‘Autobahn 2.0,’ the convention embodied the attributes of speed, comfort and control that define CEAT Car Radials, with the German engineering, research and development expertise that fortify the brand’s superior performance on Sri Lankan roads. The event sought to bring this theme to life in every aspect of the celebration.
+
+...
+
+[Data](articles/e8a7f511.json)
+
+[Extended Data](ext_articles/e8a7f511.ext.json)
+
+---
+
+### HNB Assurance Wins Silver at Dragons of Sri Lanka 2025 Awards
+
+*2025-09-20 16:47:00* · [`islandlk`](http://island.lk/hnb-assurance-wins-silver-at-dragons-of-sri-lanka-2025-awards/) · `en`
+
+Breaking boundaries in brand storytelling, HNB Assurance proudly bagged a Silver at the Dragons of Sri Lanka 2025 Awards for its Virtual Avurudu Village campaign under the Digital Category. This innovative initiative redefined how traditions can meet technology, turning a beloved cultural festival into an immersive digital experience that struck a chord with a new generation of audiences.
+
+...
+
+[Data](articles/6bce7f7e.json)
+
+[Extended Data](ext_articles/6bce7f7e.ext.json)
+
+---
+
+### Alliance Finance and WNPS PLANT forge long term conservation partnership
+
+*2025-09-20 16:46:00* · [`islandlk`](http://island.lk/alliance-finance-and-wnps-plant-forge-long-term-conservation-partnership/) · `en`
+
+Build Conservation contribution into core products while developing Community Resilience in the central highlands.A new chapter in Sri Lanka’s forest restoration journey began with a landmark partnership between Alliance Finance Company PLC (AFC) and Preserving Land and Nature (Guarantee) Limited (PLANT), a news release from the Wildlife and Nature Protection Society (WNPS) said last week.
+
+Formalized through a recent MoU, this multi-year collaboration integrates sustainability into AFC’s core products, supports the planting of 100,000 trees across PLANT sites, and initiates community programs near restoration areas.
+
+The first engagement unfolds at Radella Estate in Nuwara Eliya, managed by Talawakelle Tea Estates PLC, where AFC will help establish a forest corridor – part of a 13 km stretch being developed by WNPS PLANT with multiple partners.
+
+...
+
+[Data](articles/1a7c3d0f.json)
+
+[Extended Data](ext_articles/1a7c3d0f.ext.json)
+
+---
+
+### AIA Insurance continues to champion powering women entrepreneurs
+
+*2025-09-20 16:46:00* · [`islandlk`](http://island.lk/aia-insurance-continues-to-champion-powering-women-entrepreneurs/) · `en`
+
+Platinum Sponsor of WCIC Prathibhabhisheka Awards for third consecutive year
+
+AIA Insurance last week announced its continued partnership with the Women’s Chamber of Industry and Commerce (WCIC) as the Platinum Sponsor of the WCIC Prathibhabhisheka Awards 2025, marking the third consecutive year of this meaningful collaboration.
+
+“The WCIC Prathibhabhisheka Awards is a prestigious platform that celebrates the achievements of women who have made remarkable contributions to Sri Lanka’s business and entrepreneurial landscape. AIA’s continued sponsorship reflects its deep-rooted belief in the power of women-led innovation and leadership, and its purpose of helping people live healthier, longer, better lives,” an AIA news release said.
+
+...
+
+[Data](articles/7cc8fa79.json)
+
+[Extended Data](ext_articles/7cc8fa79.ext.json)
+
+---
+
 ### Massive fire at Colombo -
 
 *2025-09-20 16:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-புறக்கோட்டையில்-பாரிய-தீ-விபத்து/175-364954) · `ta`
@@ -759,6 +921,36 @@ Investigations have been carried out whether the cause of the fire was unknown. 
 [Data](articles/4ad0f56a.json)
 
 [Extended Data](ext_articles/4ad0f56a.ext.json)
+
+---
+
+### Nawaloka Hospitals PLC marks 40 years of excellence with new anniversary logo unveiling
+
+*2025-09-20 16:45:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-plc-marks-40-years-of-excellence-with-new-anniversary-logo-unveiling/) · `en`
+
+Nawaloka Hospitals PLC, Sri Lanka’s pioneering private healthcare institution driven by cutting-edge AI innovation, proudly marked its 40th anniversary, celebrating four decades of excellence since its establishment in 1985. The milestone celebration was held on 18 September at the Ambassador Hall of the Specialist Centre, and featured the official unveiling of the 40th anniversary logo, along with the issuance of a commemorative postage stamp in collaboration with the Sri Lanka Postal Department.
+
+The event was attended by Nawaloka Hospitals PLC Chairman, Dr. Jayantha Dharmadasa, Deputy Chairman, Anisha Dharmadasa, and Executive Director, Prof. Lal Chandrasena, along with the hospital’s esteemed panel of consultants, nursing staff, employees, and distinguished guests. The occasion was further honoured by the presence of Emeritus Prof. A.H. Sherifdeen, who graced the event as the Chief Guest.
+
+...
+
+[Data](articles/48fedfa7.json)
+
+---
+
+### Tribute to Rajiv Perera on his 60th birthday
+
+*2025-09-20 16:45:00* · [`islandlk`](http://island.lk/tribute-to-rajiv-perera-on-his-60th-birthday/) · `en`
+
+In life we meet many people, most of whom hardly leave a trace of their passing. Some, very few in fact, leave a mark so deep that no passage of time can erase it. For me, at the very top of that list is Rajiv Perera.
+
+I knew of Rajiv at school – St Thomas’, Mount Lavinia – where he was a few years senior to me. A fine sportsman, he played rugby for S. Thomas’, CH & FC, and Sri Lanka. On the field he was fearless yet always a gentleman, respected by teammates and opponents alike. That same spirit carried into the rest of his life competitive when it mattered, but always fair, always gracious.
+
+But I only really got to know him when I went to the UK for my higher studies, about 35 years ago. This was around the time that John Major had replaced the Iron Lady, Margaret Thatcher, and was just settling in as Prime Minister. I knew only a few people in London. It was through the Thomian network that I met Rajiv. We clicked immediately.
+
+...
+
+[Data](articles/49188008.json)
 
 ---
 
@@ -795,6 +987,20 @@ The SLAF Spokesman said that a Bell 212 helicopter has been deployed to assist i
 [Data](articles/634afa24.json)
 
 [Extended Data](ext_articles/634afa24.ext.json)
+
+---
+
+### My golden years at Kingswood College
+
+*2025-09-20 16:27:00* · [`islandlk`](http://island.lk/my-golden-years-at-kingswood-college/) · `en`
+
+Mr. Louis Edmund Blaze’ started his school, which he named Boys’ High School at No. 11, Pavilion Street in the Kandy town itself (the premises were secured by Mr. JW Samaraweera) with 11 boys – quite a coincidence between the school roll and its address – on May 4, 1891 with the intention that it should be run as far as possible on the lines of the old British Public Schools. Later, when the number of students grew, the school was shifted to Brownrigg Street (now Yatinuwara Veediya).
+
+As the rooms in Pavilion Street became too small with increasing number of students, the school was shifted to a house in Brownrigg Street, which had been built by Mr. William Staples about 50 years before. The school began academic activities on January 12, 1898. In December 1897 the school moved into larger premises in Browrigg Street, where the school hall was built and the Boys’ High School took the name of Kingswood College.
+
+...
+
+[Data](articles/a09c831f.json)
 
 ---
 
@@ -1158,6 +1364,22 @@ The electricity trade unions further stated that a decision regarding future tra
 
 ---
 
+### Health Matters: Fortify the Over Forties
+
+*2025-09-20 14:12:00* · [`islandlk`](http://island.lk/health-matters-fortify-the-over-forties/) · `en`
+
+The human body is continually changing. The human body uses many systems for both daily living and fighting off disease, and over the years, these gradually lose their original youthful powers.
+
+It is very helpful to know how we can reduce or even avoid health problems entirely by taking some simple mineral and vitamin supplements and perhaps by adding a wider variety of foods to our diets. Nutritionists say we need to consume about 30 different vegetables to feed and maintain a healthy micro biome in our stomach. And US doctors say, our micro-biome is a major part of our immune system. Not widely known is that our stomach acid too, declines in strength. This shows up by giving us various symptoms of bloating or indigestion.
+
+The information given here, below, is what the same US medical doctors already mentioned in earlier chapters, are saying about these matters.
+
+...
+
+[Data](articles/2e79a1d4.json)
+
+---
+
 ### Dead body of a woman killed in mysteriously
 
 *2025-09-20 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214790) · `si`
@@ -1189,6 +1411,44 @@ It is noteworthy that on August 13, the General Attorney-at-Law Priyantha Weeras
 [Data](articles/53dc80a1.json)
 
 [Extended Data](ext_articles/53dc80a1.ext.json)
+
+---
+
+### Ranil’s Triple-R Programme – Relief, Rehabilitation and Reconciliation – and work style
+
+*2025-09-20 14:04:00* · [`islandlk`](http://island.lk/ranils-triple-r-programme-relief-rehabilitation-and-reconciliation-and-work-style/) · `en`
+
+The second leg of the peace process and something which the LTTE always considered of the highest priority, and reiterated at the talks, was the rapid rehabilitation and development of the conflict-affected areas – mainly the Northern and Eastern Provinces. This consisted of eight districts of the 25 in the country. Since the conflict had inevitably spilled over the boundaries of the eight districts, it became necessary to also bring in what was called the adjacent districts of Puttalam, Anuradhapura, Polonnaruwa and Moneragala. Some of these were earlier referred to as ‘border villages’ but since it was necessary to have a neutral term instead of accepting territorial borders, the term ‘adjacent district’ was being increasingly used in the documentation.
+
+...
+
+[Data](articles/d6579703.json)
+
+---
+
+### Comment: Arundhati Roy’s Mother Mary Comes to Me
+
+*2025-09-20 14:03:00* · [`islandlk`](http://island.lk/comment-arundhati-roys-mother-mary-comes-to-me/) · `en`
+
+My title reads ‘Comment …’ I dare not claim this article to be a review of Arundhati’s latest book, since she is too unique a writer for me to attempt criticizing.
+
+I start by saying that her latest book is for the general reader, and not a political or protest publication, is a biography of her mother and autobiography of herself. After a long time I got to read a book that I could not put down – it was so stylishly constructed, written in an easy flowing manner and absorbingly interesting: the two lives – her mother’s after her marriage to a tea planter in Assam and hers from childhood.
+
+...
+
+[Data](articles/2fbc70fd.json)
+
+---
+
+### The day all hell broke loose in July ‘83 and coping with situation
+
+*2025-09-20 14:03:00* · [`islandlk`](http://island.lk/the-day-all-hell-broke-loose-in-july-83-and-coping-with-situation/) · `en`
+
+The time was now around 3 p.m. I asked the driver to drop my accountant home at Dehiwela and come back to my residence with the car. I also told him that if the conditions were bad, to stay with the accountant in Dehiwela for the moment. He was nervous about driving further, but he left. My few Sinhalese neighbours and I were now faced with a difficult situation. Most of our Tamil neighbours were in a state of panic. Smoke from fires burning on some roads was clearly visible. There was still no curfew declared.
+
+...
+
+[Data](articles/790f1a68.json)
 
 ---
 
@@ -1343,6 +1603,40 @@ Allegations have surfaced that children attending the school, who come with the 
 [Data](articles/41e65c5b.json)
 
 [Extended Data](ext_articles/41e65c5b.ext.json)
+
+---
+
+### US vetoes UN Security Council resolution calling for immediate Gaza ceasefire
+
+*2025-09-20 12:43:00* · [`islandlk`](http://island.lk/us-vetoes-un-security-council-resolution-calling-for-immediate-gaza-ceasefire/) · `en`
+
+Defending Washington’s veto, US Deputy Special Envoy to the Middle East Morgan Ortagus said that Washington’s opposition to the resolution “will come as no surprise” as it fails to condemn Hamas or recognize Israel’s right to defend itself.
+
+The United States once again vetoed a UN Security Council resolution Thursday that had demanded an immediate, unconditional and permanent ceasefire in Gaza and the release of hostages, saying that the effort did not go far enough in condemning Hamas
+
+The draft, introduced by the 10 elected members of the Council, was backed by 14 of the 15 members. It called for an “immediate, unconditional and permanent ceasefire in Gaza respected by all parties,” the release of all hostages held by Hamas and other groups, and the removal of restrictions on humanitarian aid.
+
+The draft was put forward by the Council’s 10 non-permanent members: Algeria, Denmark, Greece, Guyana, Pakistan, Panama, Republic of Korea, Sierra Leone, Slovenia and Somalia.
+
+...
+
+[Data](articles/6ffea625.json)
+
+---
+
+### Poland–Sri Lanka Relations: Beyond Tea and Tourism?
+
+*2025-09-20 12:43:00* · [`islandlk`](http://island.lk/poland-sri-lanka-relations-beyond-tea-and-tourism/) · `en`
+
+Oxford, United Kingdom– While preparing for my next trip to Sri Lanka, I keep reflecting on relations between Poland and the “Pearl of the Indian Ocean.” At first, Sri Lanka and my home country—a democratic nation of 38 million people in Central Europe—may seem very distant from one another. Yet, this year has brought a substantial development in their bilateral relations.
+
+In May 2025, Polish Foreign Minister Radoslaw Sikorski visited Sri Lanka. He participated in high-level meetings with President Anura Kumara Dissanayake, Prime Minister Harini Amarasuriya, and Foreign Minister Vijitha Herath. Notably, he was representing not only Warsaw but also the entire European Union, as Poland held the EU presidency.
+
+Shared historical connections between Sri Lanka and Poland stretch back more than a century. One of them is particularly close to my heart: the visit of Adam Asnyk, a renowned poet born in my hometown of Kalisz, the oldest city in Poland. He travelled to Sri Lanka in 1894.
+
+...
+
+[Data](articles/81512cde.json)
 
 ---
 
@@ -1739,389 +2033,5 @@ The international media has confirmed the footage of about 30 bodies wrapped in 
 [Data](articles/8cb9796a.json)
 
 [Extended Data](ext_articles/8cb9796a.ext.json)
-
----
-
-### Hundreds of old people die from heat in Japan
-
-*2025-09-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225563) · `ta`
-
-Japanese media reports that hundreds of older people die due to temperature every year.
-
-The call device is part of the government's motivation to fight a deadly double emergency.
-
-Japan's climate crisis and its old age are facing many challenges.
-
-Loneliness and other cultural factors in Japan are unable to face the temperature.
-
-◼️
-
-[Data](articles/a3312e53.json)
-
-[Extended Data](ext_articles/a3312e53.ext.json)
-
----
-
-### Woman dies suspiciously in Kaluwanchikudi
-
-*2025-09-20 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225561) · `ta`
-
-A woman has died suspiciously in a house in Kottaikkallar area of ​​the Kaluwanchikudi police division.
-
-Kaluwanchikudi police have received information that a woman was found dead in a house in Kottaikallar area.
-
-Initial investigations by the police revealed that the deceased was a 57 -year -old from Kottaikallar area.
-
-Investigations have revealed that the woman was living alone in the house, police said.
-
-◼️
-
-[Data](articles/4de9b9d9.json)
-
-[Extended Data](ext_articles/4de9b9d9.ext.json)
-
----
-
-### Son killed in father
-
-*2025-09-20 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225562) · `ta`
-
-The son was killed and his wife was injured when his father was attacked in the Paduwatha area of ​​the Devalegama police division in Kegalle.
-
-Initial investigations by the police revealed that Manan died on the spot when his father assaulted his son and wife.
-
-◼️
-
-[Data](articles/5c6c0c9f.json)
-
-[Extended Data](ext_articles/5c6c0c9f.ext.json)
-
----
-
-### Winners of 10th Derana Film Awards 2025
-
-*2025-09-20 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112695/winners-of-10th-derana-film-awards-2025) · `en`
-
-The 10th edition of Derana-Lux Film Awards got underway at the Nelum Pokuna Theatre in Colombo last night (Sept. 19) with the country’s top artistes adding glitz and glamour to the enchanting night.
-
-The ceremony recognizes and celebrates the top talents of Sri Lankan cinema for the brilliance they showcased in 2024.
-
-Rashipraba Sandeepani was honored with the Best Actress Award for her performance in Visal Adare, while Hemal Ranasinghe received the Best Actor in a Leading Role Award for his role in Sihina Nelum Mal.
-
-Meanwhile, Channa Deshapriya won the Best Director Award for Doosra, which also clinched the Best Picture Award of the night.
-
-Additionally, the Lifetime Achievement Award was presented to veteran actor Ravindra Randeniya in recognition of his remarkable contributions to Sri Lankan cinema.
-
-• Best Art Direction – Manjula Ayagama (Gautama Buddha Matha)
-
-• Most Promising Director (Cinema of tomorrow) – Thillaiampalam Suthakaran Mathisudha (Dark Days of Heaven)
-
-...
-
-[Data](articles/adec1a91.json)
-
-[Extended Data](ext_articles/adec1a91.ext.json)
-
----
-
-### Telephone conversation between US President Donald Trump - Chinese Prime Minister Xi Jinping
-
-*2025-09-20 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/225560) · `ta`
-
-A telephone conversation took place between US President Donald Trump and Chinese Prime Minister Xi Jinping on Friday.
-
-The talks were held with the expectation that the most popular and influential video processor, Dictock's activities, will be finalized and to discuss the business.
-
-Donald Trump has said that he and Chinese Prime Minister Xi Jinping have allowed Dictock's future on the future of US activities.
-
-At the same time, Donald Trump noted that the conversation on Trump was useful.
-
-மேலும் ஒப்பந்தத்திற்கு சீனப் பிரதமர் ஜி ஜின்பிங் அனுமதி அளித்ததை டொனால்ட் ட்ரம்ப் பாராட்டியுள்ளார்.
-
-According to the agreement, it is said that Dictoke will sell US business to the US investors group.
-
-But China's official state news agency, Sinjua, has not clearly mentioned the decision of the debate.
-
-Chinese Prime Minister Xi Jinping has said that Beijing welcomes talks on Dictog. "
-
-...
-
-[Data](articles/a5869139.json)
-
-[Extended Data](ext_articles/a5869139.ext.json)
-
----
-
-### New Information on Metro Bus Service
-
-*2025-09-20 09:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெட்ரோ-பேருந்து-சேவை-குறித்து-புதிய-தகவல்/175-364949) · `ta`
-
-Transport, Highways and Civil Aviation Minister Bimal Ratnayake has said that Lanka Metro Bus Company will be set up as a new member of the Sri Lanka Transport Board from October 8.
-
-The company said the company would be fully owned by the Sri Lanka Transport Board, but its operations would be similar to the functions of the private sector.
-
-The Minister also said that passengers traveling on long -range buses will be mandatory to wear seat belts from January 1, 2026.
-
-He added that the Sri Lanka Transport Board has been informed to produce a new seat belts as seat belts are not installed on old Leyland and Tata buses belonging to the Sri Lanka Transport Board.. Remble
-
-◼️
-
-[Data](articles/a4e20d8e.json)
-
-[Extended Data](ext_articles/a4e20d8e.ext.json)
-
----
-
-### Sri Lanka - Bangladesh match today
-
-*2025-09-20 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214781) · `si`
-
-Sri Lanka-Bangladeshi match will be held today (20), commencing the Super 4 in Asia Cup Twenty20 tournament.
-
-The match will be held at the Dubai International Cricket Stadium at 8 pm.
-
-Sri Lanka played 3 matches under the Super 4 round.
-
-Sri Lanka will play Sri Lanka in Dubai on the 23rd against Pakistan on the 23rd of September 26.
-
-At the end of the Super 4 round, the two teams taking the lead in the bonus mark will be eligible for the finals.
-
-◼️
-
-[Data](articles/1200d15f.json)
-
-[Extended Data](ext_articles/1200d15f.ext.json)
-
----
-
-### Mysterious bag
-
-*2025-09-20 08:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/புகையிரதத்தில்-மீட்கப்பட்ட-மர்மப்-பை/73-364948) · `ta`
-
-The train from Colombo to Batticaloa was found in the Batticaloa Railway Station yesterday evening (19).
-
-Upon opening the bag, it was found that 200 grams of jazz was packed in 252 peckets.
-
-The Batticaloa Headquarters Headquarters Division is conducting further investigations into the incident.  R
-
-◼️
-
-[Data](articles/358d18d0.json)
-
-[Extended Data](ext_articles/358d18d0.ext.json)
-
----
-
-### Husband and son attack wife and son to attack - son
-
-*2025-09-20 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214780) · `si`
-
-In Batuwatta area in Devalegama, a person had assaulted his wife and son yesterday (19).
-
-The wife was injured and rushed to the Kegalle hospital that he was established on a tip off the incident.
-
-The victim is a 35 year old resident of Batuwatta, Batuwatta.
-
-Investigations have revealed that the murder had been assaulted by a stick due to a family dispute.
-
-Magistrate investigation into the morgue is to be conducted on the other and Devalese Police are conducting further investigations.
-
-◼️
-
-[Data](articles/da58293b.json)
-
-[Extended Data](ext_articles/da58293b.ext.json)
-
----
-
-### Former TNA MP Thanmanpillai Kanagasabai passes away
-
-*2025-09-20 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112693/former-tna-mp-thanmanpillai-kanagasabai-passes-away-) · `en`
-
-Former Tamil National Alliance (TNA) Member of Parliament for the Batticaloa District, Thanmanpillai Kanagasabai, passed away yesterday (19) at the age of 86.
-
-Kanagasabai, a resident of Kaluthavalai in Batticaloa, was a retired government official.
-
-He contested the 2004 General Election from the Tamil National Alliance (TNA) in the Batticaloa District and was elected to Parliament, securing the highest number of preferential votes.
-
-Details regarding his funeral arrangements will be announced in due course.
-
-◼️
-
-[Data](articles/27e8f1da.json)
-
-[Extended Data](ext_articles/27e8f1da.ext.json)
-
----
-
-### Child abuse on the Internet deception
-
-*2025-09-20 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214779) · `si`
-
-Police say 28 children and 118 women have been sexually abused in the year 2025, police said.
-
-Assistant Superintendent of Police Fonsek. U. Mr. Woatler said in 2024 and 15 children under 18 children under the age of 18 have been sexually abused through cyber space.
-
-He also said that 375 women have been victims of this year.
-
-However, 114 persons have been arrested and implemented into the law.
-
-◼️
-
-[Data](articles/7fccebb9.json)
-
-[Extended Data](ext_articles/7fccebb9.ext.json)
-
----
-
-### Five officers have obtained the electoral allowance of Rs. 102 lakhs without the approval of state printing boss
-
-*2025-09-20 08:35:02* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-මුද්‍රණ-ලොක්කාගේ-අනුමැතය-නොමැතිව-නිලධාර‍ින්-පහක්-ලක්ෂ-102ක-මැතිවරණ-දීමනා-ලබාගෙන/11-418615) · `si`
-
-There are five executive grade officers of the Government Printing Department for the elections of the Government Printing Department for the approval of the Director General of Establishment (2024).
-
-This information has revealed the sample inspection that was done by the Audit Office of the Elections for Elections for Elections in 2024.
-
-Accordingly, an executive grade one executive officer of the Department of Elections for the Elections last year (2024) was obtained by another executive grade Rs. 2,302,300 per Rs.. Also, another executive officer of Rs Audit has been revealed that a sum of money has been obtained.
-
-The Government Printing Department has included this information in the audit report of the performance report issued by the 2024 year.
-
-◼️
-
-[Data](articles/4c7e5f06.json)
-
-[Extended Data](ext_articles/4c7e5f06.ext.json)
-
----
-
-### Arrest of someone with drug pills
-
-*2025-09-20 08:32:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-ஒருவர்-கைது/175-364947) · `ta`
-
-Yall. A suspect has been arrested with ice and cannabis pills in the area belonging to the Valvettithurai police division during a special roundup conducted by the Kankesan Department Regional Crime Branch.
-
-The suspect was arrested for selling drug pills and ice drugs to school children and young community during yesterday's sudden raid.
-
-From him, 20 drugs, 12370 milligrams of ice, 61000 milligrams of cannabis, and the money he selled from his home were seized from his home.
-
-The Point Pedro Magistrate's Court has taken steps to appear at the Welvettithurai police station at the Welvettithurai Police Station.
-
-The Criminal Investigation Department said that the round was led by the Senior Superintendent of Police, which is in charge of the Kankesanthurai region.. (A)
-
-◼️
-
-[Data](articles/3a3e7aff.json)
-
-[Extended Data](ext_articles/3a3e7aff.ext.json)
-
----
-
-### “I’ll fulfill my father’s wish and give 100% in Asia Cup” – Dunith Wellalage
-
-*2025-09-20 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112692/ill-fulfill-my-fathers-wish-and-give-100-in-asia-cup-dunith-wellalage) · `en`
-
-Sri Lankan all-rounder Dunith Wellalage has said that his father’s only wish was for him to become a good cricketer and represent the country, and he is determined to fulfill that dream.
-
-Wellalage, who returned to Sri Lanka during the Asia Cup following the sudden demise of his father, made this statement before departing the island this morning (20) to rejoin the national team.
-
-“I have received immense support from my father since childhood. His only wish was for me to become a good player and play for Sri Lanka. I will definitely fulfill that wish.We still have more matches in the Asia Cup, and I hope to give 100% to my team.”
-
-He further said that he had also received great support from Sri Lanka’s Team Coach Sanath Jayasuriya, his teammates including Captain Charith Asalanka, and from everyone in Sri Lanka, and that this encouragement had given him immense strength during that difficult time, for which he was truly grateful.
-
-...
-
-[Data](articles/77934829.json)
-
-[Extended Data](ext_articles/77934829.ext.json)
-
----
-
-### Temple priest dies
-
-*2025-09-20 07:53:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோவில்-பூசகர்-மயங்கி-விழுந்து-உயிரிழப்பு/175-364946) · `ta`
-
-Yall. Ezhalai Mayilangadu Gnanayaka Vairavar Temple The Eternal Person of the Temple has fallen into the temple of the temple.
-
-The deceased is Prabhakaran Sarujan (29 years old) from Sudumalai South and Manipayi.
-
-The priest was treated at a private hospital in Manipay last Tuesday due to coughing.. Then the next day the mucosa is caught.
-
-In this case, he went to the temple on Friday and fell unconscious in the Arthamandapam.
-
-It was reported that he had already died when he was taken to Tellipalai Hospital immediately.
-
-Jaffna regarding this death. Teaching Hospital Sudden Death Investigation Officer. The witnesses were regulated by the Manipay police.
-
-An anatomical examination reported that the blood clogged in the lungs. (A)
-
-◼️
-
-[Data](articles/7502861f.json)
-
-[Extended Data](ext_articles/7502861f.ext.json)
-
----
-
-### SriLankan Airlines could be hit by holdout creditors S&P says
-
-*2025-09-20 07:46:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-could-be-hit-by-holdout-creditors-sp-says-241305/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines bonds could be hit by holdout creditors S & P Global Ratings said, as the defaulted bonds traded above par, reflecting investor perceptions of the outcome of ongoing restructuring efforts.
-
-S&P upgraded Sri Lanka’s selective default rating to CCC+ with a stable outlook on September 19, after earlier waiting for SriLankan Airlines’ sovereign guaranteed bonds to be restructured even though the bulk of its sovereign bonds were successfully restrucrured.
-
-“The upgrade reflects Sri Lanka’s recent efforts to complete the restructuring of its remaining commercial debt, including government-guaranteed Sri Lankan Airlines (SLA) bonds, following its December 2024 exchange of most of its Eurobonds,” S&P Global Ratings said.
-
-“Negotiations on restructuring the SLA debt began earlier this year, with the airline and government making an offer based on comparability of treatment with other external creditors.
-
-...
-
-[Data](articles/80fba2f0.json)
-
-[Extended Data](ext_articles/80fba2f0.ext.json)
-
----
-
-### Dad's biggest desire leaves the island too
-
-*2025-09-20 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214778) · `si`
-
-The only desire of his father was to be a talented player and would undoubtedly fulfill Sri Lanka and would undoubtedly fulfill the desire.
-
-Dhoni, who arrived in the island during the Asian Trophy due to father's emergency debit, the Sri Lankan team was leaving the island today (20).
-
-"From the podikala, he was very supportive. His only desire is a good player for the country. I will perform that desire.
-
-We have more matches in the Asian Cup. I hope to give my team 100%.
-
-Sanath Sir and the leader Charith brother, including Charith Brother, was very supportive by all in Sri Lanka. It's a big loopy. So thankful, I am a strength to be like this.
-
-Father for my cricket for my cricket until my fifteen morning. That's because of the sacrifice I represent the country today. Dad's desires I know. "Hope to fulfill all of them."
-
-◼️
-
-[Data](articles/1b152454.json)
-
-[Extended Data](ext_articles/1b152454.ext.json)
-
----
-
-### Son, deaths killed, injured
-
-*2025-09-20 07:43:53* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-පහරින්-පුතා-ජීවිතක්ෂයට-මවට-තුවාල/11-418614) · `si`
-
-In Batuwatta area in Devalagama Police, his wife had been assaulted and admitted to the Kegalle hospital and was admitted to the Kegalle hospital and investigations have commenced on information to the police station.
-
-The deceased is a 35 year old resident of Batuwatta, Batuwatta.
-
-Investigations have revealed that the murder had been assaulted with a stick due to a family dispute.
-
-The body is to be conducted into the body and Devalese Police are conducting further investigations.
-
-◼️
-
-[Data](articles/9485f92c.json)
-
-[Extended Data](ext_articles/9485f92c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 00:10:18**
+As of **2025-09-22 00:36:49**
 
 ## Newspaper Stats
 
-*Scraped **77,289** Articles*
+*Scraped **77,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,512
 adaderanalk | 9,992
-tamilmirrorlk | 11,621
+tamilmirrorlk | 11,622
 virakesarilk | 12,573
 adaderanasinhalalk | 13,503
 
@@ -26,9 +26,31 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,289 (100.0%) of 77,289 articles have been extended.
+77,290 (100.0%) of 77,290 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-22 (Monday)
+
+### Asian Bowl: India defeated Pakistan
+
+*2025-09-22 00:00:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணம்-பாகிஸ்தானை-வீழ்த்திய-இந்தியா/44-365025) · `ta`
+
+India won the Super 4 round match with Pakistan on Sunday (21) in the Asian Cup series.
+
+Suriyakumar Yadav, the captain of the Indian team, who won the currency cycle, announced that Damadhani would be the first to field.
+
+Pakistan, 58 (45), Saim Ayub's 21 (17), Mohamed Nawaz's 21 (19), Bahim Ashraf's unbeaten 20 (08), the captain Salman Akha's unbeaten 20 (09), the 15 (13), Bakr Zam's 15 (13) Scored 171 runs. In bowling, Shivam Tube 4-0-33-2, Kuldeep Yadav 4-0-31-1, Varun Emperor 4-0-25-0.
+
+In reply, India won by 172 runs and lost 4 wickets in 18.5 overs with Abhishek Sharma's 74 (39), Shubman Gillin 47 (28), 30 (19) of Tilak Varman's unbeaten 30 (19).
+
+◼️
+
+[Data](articles/ab8cc5b8.json)
+
+[Extended Data](ext_articles/ab8cc5b8.ext.json)
+
+---
 
 ### 2025-09-21 (Sunday)
 
@@ -2113,27 +2135,5 @@ The driver of the lorry has been arrested in connection with the accident and th
 [Data](articles/48ce6b52.json)
 
 [Extended Data](ext_articles/48ce6b52.ext.json)
-
----
-
-### Pentagon imposes new restrictions on media covering the US military
-
-*2025-09-21 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112717/pentagon-imposes-new-restrictions-on-media-covering-the-us-military) · `en`
-
-The Pentagon has unveiled new restrictions on media covering the US military, requiring them to pledge not to disclose anything not formally authorized for publication and limiting their movements within the Department of War.
-
-The new guidelines, laid out in a lengthy memo distributed to reporters on Friday (Sep 19), require them to sign an affidavit promising to comply, or risk losing their media credentials.
-
-The move is the latest by the administration of President Donald Trump to control media coverage of his policies, and after he suggested that negative stories could be “illegal.”
-
-The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says.
-
-But it adds: “Information must be approved for public release by an appropriate authorizing official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials.
-
-...
-
-[Data](articles/e251b004.json)
-
-[Extended Data](ext_articles/e251b004.ext.json)
 
 ---

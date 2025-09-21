@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 12:12:00**
+As of **2025-09-21 12:21:40**
 
 ## Newspaper Stats
 
-*Scraped **77,213** Articles*
+*Scraped **77,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 5,485
 adalk | 7,503
 adaderanalk | 9,975
 tamilmirrorlk | 11,610
-virakesarilk | 12,560
+virakesarilk | 12,564
 adaderanasinhalalk | 13,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,210 (100.0%) of 77,213 articles have been extended.
+77,210 (100.0%) of 77,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### மட்டக்களப்பு - கல்முனை பிரதான வீதியில் பாரிய விபத்து ; மூவர் படுகாயம்
+
+*2025-09-21 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225656) · `ta`
+
+மட்டக்களப்பு கல்முனை பிரதான வீதியில் காத்தான்குடி பிரதேசத்தில் இன்று அதிகாலை இடம்பெற்ற பாரிய விபத்து சம்பவத்தில் மூவர் படுகாயம் அடைந்த நிலையில் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+
+இன்று ஞாயிற்றுக்கிழமை (21) அதிகாலை 4 மணியளவில்  கொழும்பிலிருந்து கல்முனை நோக்கி வந்து கொண்டிருந்த லொறியொன்று காத்தான்குடி பிரதான வீதியில் நிறுத்தப்பட்டிருந்த அதே நேரம் கொழும்பிலிருந்து அக்கரைப்பற்று நோக்கி வந்து கொண்டிருந்த சொகுசு பஸ் ஒன்று குறித்த லொரியின் பின்னால் மோதியதன் காரணமாக பாரிய விபத்து சம்பவம் இடம்பெற்றுள்ளது.
+
+குறித்து விபத்தை தொடர்ந்து பிரதான வீதியில் வந்து கொண்டிருந்த முச்சக்கர வண்டியும் பஸ் மீது மோதியுள்ளது இதனால் பஸ்ஸில் நடத்துனர் படுகாயமடைந்தார். அதே நேரம் பஸ்ஸின் சாரதி முச்சக்கர வண்டியின் சாரதி ஆகியோரும் காயமடைந்த நிலையில் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/43b0c5c8.json)
+
+---
 
 ### H1-B වීසා ගාස්තුව ඩොලර් ලක්ෂය දක්වා  ඉහළ දැමීමට අමෙරිකාව තීරණයක
 
@@ -68,6 +84,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பொல்கஹவெலையில் மோட்டார் சைக்கிள்  விபத்து : ஒருவர்  பலி!
+
+*2025-09-21 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225647) · `ta`
+
+பொல்கஹவெல பொலிஸ் பிரிவிற்குட்பட்ட யங்கல்மோதர - நாரம்மல வீதியில் உள்ள நைனாதெனிய சந்திக்கு அருகில், யங்கல்மோதரவிலிருந்து நாரம்மல நோக்கிச் சென்ற மோட்டார் சைக்கிள் கட்டுப்பாட்டை இழந்து அதே திசையில் பயணித்த மற்றொரு மோட்டார் சைக்கிளில் மோதி விபத்துக்குள்ளானது.
+
+விபத்தில் இரு மோட்டார் சைக்கிள்  சாரதிகளும் காயமடைந்து மேலதிக சிகிச்சைக்காக குருநாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர். இதன்போது, சிகிச்சை பலனின்றி ஒருவர் உயிரிழந்தார்.
+
+உயிரிழந்தவர் யடிகலோலுவவைச் சேர்ந்த 16 வயது பாடசாலை மாணவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+சடலம் குருநாகல் வைத்தியசாலை பிரேத அறையில் வைக்கப்பட்டுள்ளது. சம்பவம் தொடர்பில் பொல்கஹவெல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/2432542d.json)
+
+---
+
 ### Oil Kumar
 
 *2025-09-21 11:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தின-மும்-இன்ஜின்-ஆயில்-குடித்து-உயிர்-வாழும்-ஆயில்-குமார்/175-364978) · `ta`
@@ -85,6 +119,46 @@ He told the media that he had not been any harm to the Sabari Mountain Iyab Pan 
 [Data](articles/c3abfcec.json)
 
 [Extended Data](ext_articles/c3abfcec.ext.json)
+
+---
+
+### காசா மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் சுமார் 91 பேர் பலி!
+
+*2025-09-21 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/225645) · `ta`
+
+இஸ்ரேலியப் படைகள் நேற்றையதினம் காசாவில் 91 பாலஸ்தீனியர்களைக் கொன்றதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இதில் பிரபல வைத்தியரின் குடும்ப உறுப்பினர்கள் மற்றும் வடக்கு காசா நகரத்திலிருந்து தப்பிச் செல்லும் லொறியில் இருந்த நான்கு பேர் உள்ளிட்டோரும் அடங்குவதாக அந்த நாட்டு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+சனிக்கிழமை (நேற்று) நடந்த கொலைகள், இஸ்ரேலியப் படைகள் காசா நகரத்தைக் கைப்பற்றவும், தெற்கில் உள்ள செறிவு மண்டலங்களுக்குள் மக்களைத் தள்ளவும் இடைவிடாத வான்வழி மற்றும் தரைவழித் தாக்குதலைத் தொடர்ந்தும் மேற்கொண்டனர்.
+
+இஸ்ரேலியப் படைகள் குடியிருப்பு வீடுகள், பாடசாலைகள் தங்குமிடங்களாக மாற்றப்பட்ட கூடாரங்கள், இராணுவத்தின் உத்தரவின் பேரில் காசா நகரத்திலிருந்து தப்பிச் செல்ல முயன்ற மக்களை ஏற்றிச் சென்ற லொரி ஆகியவற்றின் மீது குண்டுவீச்சு தாக்குதல் நடத்தப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+அதேநேரம், சனிக்கிழமை அதிகாலை, காசா நகரத்தின் மிகப்பெரிய வைத்தியசாலையின் பணிப்பாளர் ஒருவரின் குடும்பத்தினர் ஐந்து பேர் கொல்லப்பட்டனர்.
+
+...
+
+[Data](articles/121b8e6b.json)
+
+---
+
+### வீரகேசரி பத்திரிகையின் ஸ்தாபகரான சுப்பிரமணியம் செட்டியாரின் ஜனன தினம் இன்று
+
+*2025-09-21 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225649) · `ta`
+
+இலங்கை பத்திரிக்கை துறையில் நூற்றாண்டை நோக்கி சாதனை பயணம் மேற்கொள்ளும் ‘வீரகேசரி’ தேசிய தமிழ்ப் பத்திரிகையை உருவாக்கிய இலங்கைவாழ் இந்தியத் தமிழரான திரு. பெ.பெரி. சுப்பிரமணியம் செட்டியாரின் 124 ஆவது ஜனன தினம் இன்று (21).
+
+சுப்பிரமணியம் செட்டியார் இந்தியாவின் சிவ கங்கை மாவட்டம், ஆவணிப்பட்டியில், பெரியண்ணன் செட்டியார் மற்றம் விசாலாட்சி தம்பதியின் மகனாக, 1901  ஆம் ஆண்டு இதே நாளில் பிறந்தார்.
+
+இவர் பல்வேறு பத்திரிகைகளில்  புதினம், கட்டுரைகளை எழுதினார். வெளிநாடுகளில் மக்களின் வாழ்க்கையை ஆராயும் ஆவலில் இலங்கைக்கு வந்தார்.
+
+இங்கு தமிழர்கள் ஒற்றுமை இல்லாமல் தோட்ட தொழிலாளர்களாக இருந்ததை அறிந்தார். அவர்களை மேம்படுத்த 1930 ஆம் ஆண்டு  ஆகஸ்ட் மாதம் 6 ஆம் திகதி வீரகேசரி என்ற பத்திரிகையை ஆரம்பித்தார்.
+
+அதன் முதன்மை ஆசிரியராக, 20 ஆண்டுகள் செயல்பட்டார். அது, தமிழர்களிடம் அரசியல், சமூக விழிப்புணர்வை ஊட்டியது. இலங்கை சுதந்திரம் அடைந்த பின்னர்,பத்திரிகை நிறுவனத்தை விற்று விட்டு இந்தியாவுக்குச் சென்றார்.
+
+...
+
+[Data](articles/fe77575e.json)
 
 ---
 
@@ -1945,85 +2019,5 @@ The SLAF Spokesman said that a Bell 212 helicopter has been deployed to assist i
 [Data](articles/634afa24.json)
 
 [Extended Data](ext_articles/634afa24.ext.json)
-
----
-
-### My golden years at Kingswood College
-
-*2025-09-20 16:27:00* · [`islandlk`](http://island.lk/my-golden-years-at-kingswood-college/) · `en`
-
-Mr. Louis Edmund Blaze’ started his school, which he named Boys’ High School at No. 11, Pavilion Street in the Kandy town itself (the premises were secured by Mr. JW Samaraweera) with 11 boys – quite a coincidence between the school roll and its address – on May 4, 1891 with the intention that it should be run as far as possible on the lines of the old British Public Schools. Later, when the number of students grew, the school was shifted to Brownrigg Street (now Yatinuwara Veediya).
-
-As the rooms in Pavilion Street became too small with increasing number of students, the school was shifted to a house in Brownrigg Street, which had been built by Mr. William Staples about 50 years before. The school began academic activities on January 12, 1898. In December 1897 the school moved into larger premises in Browrigg Street, where the school hall was built and the Boys’ High School took the name of Kingswood College.
-
-...
-
-[Data](articles/a09c831f.json)
-
-[Extended Data](ext_articles/a09c831f.ext.json)
-
----
-
-### "Knowledge not only in the study: to act for the people" - insist at the Asian Science Day Conference held in Colombo
-
-*2025-09-20 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225590) · `ta`
-
-As global health threats are on the rise, the Asian scientific days of the 'Médecins Sans Frontières/MSF) organization in Colombo have been held on Friday (September 19), to address the inequalities in access to medical care.
-
-The conference, which emphasizes the importance of the role of communities in health care, participated in more than 150 researchers, community leaders, and some of the illness.
-
-The theme of this year's conference is "Renewal of Health: Listening, Learning, Guidance - The Voice of Society in Health Safety".
-
-The conference was held under five main categories. These debates took place in the implementation of policies, research and novelty, skill development, community and patient networks, and cooperation.
-
-Under the topic "Society is not beneficiaries, partners, MSF, the Executive Director of South Asia, Parthasarathy Rajendran, in his opening speech, stressed that the scientific days conference should not be a mere research.
-
-...
-
-[Data](articles/2c64f2c3.json)
-
-[Extended Data](ext_articles/2c64f2c3.ext.json)
-
----
-
-### Border Control Computer System at BIA down for over 2 hours
-
-*2025-09-20 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112705/border-control-computer-system-at-bia-down-for-over-2-hours) · `en`
-
-The “Border Control Computer System” of the Department of Immigration and Emigration at the arrival and departure terminals of the Bandaranaike International Airport (BIA) in Katunayake, which was down temporarily is now back in operation.
-
-Ada Derana reporter said that the system was active again from 4.15 p.m. and that accordingly it had been down for around 2 hours and 30 minutes.
-
-Earlier, it was reported that the “Border Control Computer System” of the Department of Immigration and Emigration implemented at the arrival and departure terminals of the Bandaranaike International Airport (BIA) in Katunayake, had been inactive since around 1.45 p.m. today (20).
-
-According to sources within the Department of Immigration and Emigration, Sri Lanka’s system—established and maintained by a private company for the past eight years—frequently experiences such disruptions.
-
-...
-
-[Data](articles/c3e02b39.json)
-
-[Extended Data](ext_articles/c3e02b39.ext.json)
-
----
-
-### Fitch places long-term debt ratings of 25 sovereigns under criteria observation
-
-*2025-09-20 16:14:00* · [`economynextcom`](https://economynext.com/fitch-places-long-term-debt-ratings-of-25-sovereigns-under-criteria-observation-241331/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it has placed 435 long-term debt ratings of 25 sovereigns, including Sri Lanka, Under Criteria Observation (UCO) following the publication of updated Sovereign Rating Criteria on September 15.
-
-This designation indicates that the existing ratings may change as a result of the application of the updated criteria, the ratings agency said, adding that it will review all ratings placed on UCO within six months.
-
-Fitch Places Long-Term Debt Ratings of 25 Sovereigns Under Criteria Observation
-
-Fitch Ratings – London – 19 Sep 2025: Fitch Ratings has placed 435 long-term debt ratings of 25 sovereigns Under Criteria Observation (UCO) following the publication of updated Sovereign Rating Criteria on 15 September 2025.
-
-The UCO designation indicates that the existing ratings may change as a direct result of the application of the updated criteria. It does not indicate a change in the underlying credit profile, nor does it affect existing Outlooks or Rating Watches.
-
-...
-
-[Data](articles/a22b5603.json)
-
-[Extended Data](ext_articles/a22b5603.ext.json)
 
 ---

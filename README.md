@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 17:05:54**
+As of **2025-09-21 17:41:06**
 
 ## Newspaper Stats
 
-*Scraped **77,259** Articles*
+*Scraped **77,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,65 +12,185 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,667
+economynextcom | 4,671
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
-adalk | 7,509
+adalk | 7,510
 adaderanalk | 9,985
-tamilmirrorlk | 11,619
+tamilmirrorlk | 11,620
 virakesarilk | 12,572
-adaderanasinhalalk | 13,490
+adaderanasinhalalk | 13,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,255 (100.0%) of 77,259 articles have been extended.
+77,264 (100.0%) of 77,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### கொழும்பு புறக்கோட்டை தீ விபத்து ; விசாரணை செய்ய குழு நியமனம்
+### අයිස් මත්ද්‍රව්‍ය නිපද වූ බවට සැකකරන ස්ථානයක් වටලා මෝල්ටා ජාතිකයෙක් අත්අඩංගුවට
+
+*2025-09-21 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214832) · `si`
+
+වැලිගම ප්‍රදේශයේ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය සඳහා භාවිතා කළ බවට සැක කෙරෙන ස්ථානයක් වටලා විදෙස් ජාතික පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 18 හැවිරිදි  මෝල්ටා ජාතිකයෙකු බව සඳහන් වේ.
+
+එම ස්ථානයේ තිබී මෙතම්ෆෙටමින් (අයිස්) නිෂ්පාදනය සඳහා භාවිතා කළ බවට සැක කෙරෙන ද්‍රව්‍ය ද සොයා ගෙන ඇත.
+
+◼️
+
+[Data](articles/d1fa7d87.json)
+
+---
+
+### මත්ද්‍රව්‍ය සහ මත්පෙති තොගයක් සමග 'පොට්ට අමිල' අත්අඩංගුවට
+
+*2025-09-21 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214831) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයකු මෙන්ම මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ද වන 'පොට්ට අමිල' සහ ඔහුගේ සමීපතමයන් තිදෙනෙකු මොරගහහේන පොලීසිය විසින් අද (21) දහවල් අත්අඩංගුවට ගෙන ඇත.
+
+ඔවුන් සතුව තිබූ මත්පෙති 5,300ක් සහ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 15,000ක් ද පොලීසිය යොයාගෙන ඇති අතර, ඒවායේ වටිනාකම රුපියල් ලක්‍ෂ 10කට ආසන්නය.
+
+එමෙන්ම මෙම ජාවාරමට යොදාගත් ජංගම දුරකථන 3ක්ද පොලීසිය සිය භාරයටට ගෙන ඇත.
+
+සැකකරුගේ සමීපතමයෙකු ගෝනපොල කුඹුකවත්ත ප්‍රදේශයේ  අයිස් මත්ද්‍රව‍්‍ය බෙදාහැරීම සඳහා පැමිණෙමින් සිටිනබවට මොරගහහේන පොලීසියට අනුයුක්ත කොට්ඨාස බුද්ධි අංශයේ නිලධාරීන්ට සහ විශේෂ කාර්යාංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව එම සැකකරු අත්අඩංගුවට ගෙන සිදුකළ පරික්ෂාවේදී ඔහු සන්තකයේ තිබී අයිස් මත්ද්‍රව‍ය මිලිග්‍රෑම් 2,200 ක් සොයාගෙන.
+
+සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේ දී ඔහු පවසා ඇත්තේ එම මත්ද්‍රව‍ය 'පොට්ට අමිල' විසින් තවත් පුද්ගලයෙකුට ලබාදීම සඳහා තමන් වෙත ලබාදුන් බවය.
+
+...
+
+[Data](articles/bfdc95d8.json)
+
+---
+
+### “ஜனநாயக விரோத ஆட்சிச் சிந்தனையை   தோற்கடிக்க  ஒன்றிணைவோம்”
+
+*2025-09-21 17:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயக-விரோத-ஆட்சிச்-சிந்தனையை-தோற்கடிக்க-ஒன்றிணைவோம்/175-365009) · `ta`
+
+தற்போதைய அரசாங்கம் மிகவும் திட்டமிட்ட வகையில், இந்நாட்டில் ஒரு கட்சி மட்டுமே அரசாங்கத்தை அமைத்து ஆட்சியை நடத்தும் எண்ணக்கருவை முன்னெடுத்து வருகின்றது என்று குற்றஞ்சாட்டிய எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, ஜனநாயக விரோத ஆட்சிச் சிந்தனையைத்  தோற்கடிக்க  ஒன்றிணையுமாறு அழைப்பு விடுத்தார்.
+
+மரண உதவிச் சங்கம், விவசாயிகள் சங்கம், மீனவர் சங்கம், இளைஞர் கழகம் முதல் மதஸ்தலங்களின் பரிபாலன சபை வரை அனைத்தையும் அவர்கள் தங்கள் கட்டுப்பாட்டில் எடுக்க முயற்சித்து வருகின்றனர். சகல சமூக அமைப்புகளினதும் அதிகாரத்தை, கட்டுப்பாட்டை வலுக்கட்டாயமாகக் கைப்பற்ற முயற்சித்து வருகின்றனர். தற்போது சுயாதீன சிவில் பாதுகாப்புக் குழுவிற்கும் கூட அரசியல் நியமனங்கள் வழங்கப்பட்டுள்ளன என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+அனுராதபுரம் மாவட்டத்தில் இம்முறை  உள்ளூராட்சி மன்றங்களுக்குப் புதிதாகத் தெரிவு செய்யப்பட்ட உறுப்பினர்களுடன் ஞாயிற்றுக்கிழமை (21) அன்று இடம்பெற்ற சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/8318d640.json)
+
+---
+
+### India-Sri Lanka Foundation approves several new projects, including in fisheries sector
+
+*2025-09-21 17:00:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-foundation-approves-several-new-projects-including-in-fisheries-sector-241399/) · `en`
+
+ECONOMYNEXT – The India–Sri Lanka Foundation (ISLF) has approved several new proposals received by the Colombo and New Delhi Secretariats at its 40th meeting held in Colombo recently.
+
+“The Board reviewed the progress of ongoing projects and approved several new proposals received by the Colombo and New Delhi Secretariats across diverse sectors including culture, education, health, environment, agriculture, and capacity building,” the High Commission of India, Colombo said in a statement.
+
+The session was co-chaired by the High Commissioner of India to Sri Lanka Santosh Jha, and the High Commissioner of Sri Lanka to India Mahishini Colonne.
+
+...
+
+[Data](articles/db76f812.json)
+
+[Extended Data](ext_articles/db76f812.ext.json)
+
+---
+
+### SLTB conducts an attack on a cargo
+
+*2025-09-21 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214830) · `si`
+
+A conductor of a SLTB bus to travel from Colombo to Kataragama has been assaulted in Galle this morning.
+
+The bus belonging to the Katubedda Depot this bus, a private bus traveling from Colombo to Galle has been played in Colombo to Galle.
+
+The driver of the private bus was trying to attack the SLTB conductor at the time, but it is failed on passengers in the bus.
+
+However, the SLTB bus to Galle had assaulted the driver of the private bus from a three-wheeler.
+
+The conductor who was injured in the bus by the SLTB driver has taken over the conductor to the Galle Police with passengers.
+
+The police intervened and hospitalized the conductor who was injured in a healthy ambulance.
+
+He has been admitted to the Galle National Hospital and has been sent on the SLTB bus and sent passengers on the SLTB bus.
+
+Galle Police are conducting further investigations to arrest the suspects.
+
+◼️
+
+[Data](articles/d0235b19.json)
+
+[Extended Data](ext_articles/d0235b19.ext.json)
+
+---
+
+### Colombo fire Group appointment to investigate
 
 *2025-09-21 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225676) · `ta`
 
-கொழும்பு, புறக்கோட்டை, முதலாம் குறுக்குத் தெருவில் உள்ள மின்சாதனப் பொருட்கள் கடையில் நேற்று சனிக்கிழமை இடம்பெற்ற தீ விபத்து தொடர்பில் விசாரணை செய்ய குழு ஒன்று நியமிக்கப்பட்டுள்ளது.
+A committee has been appointed to investigate the fire that broke out on Saturday at the Electricity Store on Cross Street, Colombo, Pettah, Colombo.
 
-இந்தக் குழுவிற்கு பொது மக்கள் பாதுகாப்பு அமைச்சர், சட்டதரணி சுனில் வட்டகல தலைமை வகிக்கிறார்.
+The committee is headed by the Minister of Public Security, Sunil Vatagala.
 
-சனிக்கிழமை மதியம் பற்றிய தீ சுமார் 12 மணி நேரம் நீடித்த நிலையில், பாரிய நடவடிக்கைகளுக்குப் பின்னர் கட்டுப்பாட்டுக்குள் கொண்டுவரப்பட்டது.
+The fire on Saturday afternoon lasted for about 12 hours and was brought under control after massive operations.
 
-கொழும்பு நகராட்சி மன்ற தீயணைப்புத் திணைக்களத்தின் தீயணைப்புப் பிரிவுகள், இலங்கை விமானப்படை மற்றும் கடற்படையைச் சேர்ந்த பணியார்கள் சம்பவ இடத்திற்கு விரைந்து சென்றிருந்தனர்.
+The firefighters of the Colombo Municipal Fire Department, the Sri Lanka Air Force and the Navy were rushed to the scene.
 
-அருகிலுள்ள கட்டிடங்களுக்கு தீ பரவாமல் தடுக்க சுமார் 15 தீயணைப்பு இயந்திரங்கள் மற்றும் விமானப்படை பெல்-212 ஹெலிகொப்டர் தீயணைப்பு நடவடிக்கையில் பயன்படுத்தப்பட்டன.
+About 15 fire trucks and Air Force Bell-212 Helicopter were used in firefighting to prevent fire to nearby buildings.
 
 ◼️
 
 [Data](articles/f8cb2cf6.json)
 
+[Extended Data](ext_articles/f8cb2cf6.ext.json)
+
 ---
 
-### பங்களாதேஷின் டாக்கா மற்றும் பிற பகுதிகளில் நிலநடுக்கம்
+### Earthquake in Dhaka and other parts of Bangladesh
 
 *2025-09-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225671) · `ta`
 
-பங்களாதேஷின் டாக்கா மற்றும் பிற பகுதிகளில் இன்று ஞாயிற்றுக்கிழமை (21) பிற்பகல் லேசான நிலநடுக்கம் பதிவாகியுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+International media reports that a mild earthquake has been reported in Bangladesh's Dhaka and other parts of the country this afternoon.
 
-மதியம் 12:09 மணிக்கு 4.0 ரிச்டர் அளவில் நிலநடுக்கம் பதிவானதாக வளிமண்டலவியல் திணைக்களம் அறிக்கை வெளியிட்டுள்ளது.
+The Department of Meteorology has reported that the magnitude 4.0 earthquake was reported at 12:09 pm.
 
-டாக்காவின் அகர்கானில் உள்ள நில அதிர்வு நிலையத்திலிருந்து வடகிழக்கே 185 கிலோமீற்றர் தொலைவில் நிலநடுக்கத்தின் மையம் இருந்ததாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology said that the earthquake was centered 185 kilometers northeast from the seismic station in Dhaka, Dhaka.
 
-பங்களாதேஷை தாக்கிய 4 ரிச்டர் அளவிலான நிலநடுக்கத்திற்குப் பின்னர் இந்தியாவின் மேகாலயாவில் நிலநடுக்கம் உணரப்பட்டுள்ளது.
+The earthquake has been felt in Meghalaya, India after the 4 -magnitude earthquake that struck Bangladesh.
 
-மேகாலயாவில் எந்த சேதமோ அல்லது உயிரிழப்புகளோ ஏற்பட்டதாக உடனடி தகவல்கள் எதுவும் இல்லை என அதிகாரிகள் தெரிவித்துள்ளனர்.
+Officials said there were no immediate reports of any damage or casualties in Meghalaya.
 
-இதற்கிடையில், இந்தியாவின் குஜராத்தில், கட்ச் மாவட்டத்தில் 3.1 ரிக்டர் அளவிலான நிலநடுக்கம் ஏற்பட்டதாக நிலநடுக்க ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+Meanwhile, an earthquake research institute has reported a 3.1 magnitude earthquake in Kutch district in Gujarat, India.
 
 ◼️
 
 [Data](articles/16e67e30.json)
+
+[Extended Data](ext_articles/16e67e30.ext.json)
+
+---
+
+### මධ්‍යම සංස්කෘතික අරමුදලේ රු.බි. 8ක් අවභාවිත වෙලා
+
+*2025-09-21 16:10:33* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-සංස්කෘතික-අරමුදලේ-රු-බි--8ක්-අවභාවිත-වෙලා/11-418633) · `si`
+
+මධ්‍යම සංස්කෘතික අරමුදලේ රුපියල් මිලියන 8000ක් අවභාවිතා වීම පිළිබඳ විමර්ශනයක් සිදු කරන බව බුද්ධශාසන.ආගමික හා සංස්කෘකිත කටයුතු  නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක පවසයි.
+
+අමාත්‍යවරයා කියා සිටියේ 2017 වසරේ සිට 2020 වසර දක්වා කාලසීමාව තුළ ආගමික ස්ථාන සහ විවිධ කටයුතු සඳහා මධ්‍යම සංස්කෘතික අරමුදල මඟින් මූල්‍ය සහාය ලබා දීමේදී සිදුව ඇති බව කියන අක්‍රමිකතා සම්බන්ධයෙන් පරීක්ෂා කිරීම සඳහා ත්‍රිපුද්ගල කමිටුවක් පත් කර ඇති බවත් ඒ සම්බන්ධයෙන් සිදු කළ විමර්ශන කමිටුව හරහා මෙම තොරතුරු අනාවරණය වි ඇති බවය.
+
+පසුගිය මැයි 17 වනදා පැවති මධ්‍යම සංස්කෘතික අරමුදලේ 223 වන පාලක මණ්ඩල රැස්වීමේදී මෙම අක්‍රමිකතා සම්බන්ධයෙන් පරීක්ෂා කිරීමට කමිටුවක් පත් කිරිමට අදාළව මෙම විමර්ශන කටයුතු සිදු වේ.
+
+අමාත්‍යවරයා වැඩිදුරටත් කියා සිටියේ එම කමිටුවේ අවසන් වාර්තාවෙන් පසුව මහජන මුදල් අවභාවිතා කළ පුද්ගලයින්ට තරාතිරම නොබලා නිතිය ක්‍රියාත්මක කිරිමට කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/0d09ec6a.json)
 
 ---
 
@@ -127,6 +247,8 @@ While Dhaka has been openly monitoring the ship’s movements, Indian authoritie
 ...
 
 [Data](articles/7e1022aa.json)
+
+[Extended Data](ext_articles/7e1022aa.ext.json)
 
 ---
 
@@ -189,6 +311,8 @@ Meanwhile in Gujarat, India, a tremor of 3.1 magnitude hit Kutch district, the I
 ◼️
 
 [Data](articles/5f1165ab.json)
+
+[Extended Data](ext_articles/5f1165ab.ext.json)
 
 ---
 
@@ -623,6 +747,32 @@ The Authority also said that the procedural Affairs Authority (Consumer Affairs 
 [Data](articles/35db5ce7.json)
 
 [Extended Data](ext_articles/35db5ce7.ext.json)
+
+---
+
+### Sri Lanka extends deadline for 640MWh BOO battery storage system
+
+*2025-09-21 12:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-deadline-for-640mwh-boo-battery-storage-system-241392/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has extended a deadline for private investors to bid for the islands first grid scale battery energy storage system (BESS) till October 14.
+
+The CEB plans to install 10MW/40MWh battery systems in 10 locations indicating storage of 640MWh.
+
+The batteries can smoothen intermittent supply from renewable energy like solar and reduce the likelihood of cascading failures.
+
+The CEB will give a 15-year concession to investors to operate the plant.
+
+Sri Lanka waiting for international BESS tender for market battery price
+
+Sri Lanka seeks BOO investors for first 160MW bess to absorb renewables
+
+Sri Lanka has accelerated measures to improve grid stability after surge in rooftop solar which was beyond the planned volume. (Colombo/Sept21/2025)
+
+◼️
+
+[Data](articles/a2aa9260.json)
+
+[Extended Data](ext_articles/a2aa9260.ext.json)
 
 ---
 
@@ -1965,141 +2115,5 @@ Three people have been identified in the attack and they are involved in drug tr
 [Data](articles/c9c26b28.json)
 
 [Extended Data](ext_articles/c9c26b28.ext.json)
-
----
-
-### Three arrests with drug pills
-
-*2025-09-21 03:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-மூவர்-கைது/175-364960) · `ta`
-
-Three persons have been arrested for selling drugs in the Colombo area of ​​the Jaffna police division.
-
-Jaffna Police have arrested a police narcotics yesterday (20) for selling drug pills on the basis of confidential information received by the Jaffna Police Crime Unit.
-
-Three suspects were arrested in Jaffna, aged 18, 24 and 22, with 180 drugs.
-
-Jaffna police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/4429c6a4.json)
-
-[Extended Data](ext_articles/4429c6a4.ext.json)
-
----
-
-### Don't hit the farmers' stomach: Vijay
-
-*2025-09-21 03:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளின்-வயிற்றில்-அடிக்காதீர்கள்-விஜய்/175-364959) · `ta`
-
-At the paddy procurement centers, the Delta District farmers are received as a multi -crore commission of Rs. 40 Indian rupees per bundle.. The Chief Minister should answer this.. Chairman Vijay emphasized.
-
-Tamil Nadu Victory Association President Vijay campaigned in Nagapattinam yesterday afternoon. After that, Vijay campaigned near the municipal office on the south road of Thiruvarur at 5 pm.
-
-The farmer is a cruel experience in the Delta area. A complaint came about. What is it, the paddy procurement centers in this district pay 10 rupees per bundle. But, 40 rupees commission to buy it. 1,000 rupees per ton. In the last four and a half years, this Delta area from the farmer's farmer. I would not believe that if someone else had said this. But, wherever the farmer said. The farmer does not lie.
-
-...
-
-[Data](articles/72dca424.json)
-
-[Extended Data](ext_articles/72dca424.ext.json)
-
----
-
-### The UN. Presidential speech at the General Assembly
-
-*2025-09-21 03:02:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பொதுச்-சபையில்-ஜனாதிபதி-உரை/175-364958) · `ta`
-
-President Anura Kumara Dissanayake will address the 79th session of the United Nations General Assembly in New York on Wednesday.
-
-The UN. According to a list of amended temporary speakers, the President will address the afternoon session on the day.
-
-The session will be held from the 23rd to the 29th of this month. (A)
-
-◼️
-
-[Data](articles/ab34351e.json)
-
-[Extended Data](ext_articles/ab34351e.ext.json)
-
----
-
-### Dadasaheb Phalke Award for Mohanlal
-
-*2025-09-21 02:55:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோகன்லாலுக்கு-தாதாசாகேப்-பால்கே-விருது/175-364957) · `ta`
-
-The Central Government has announced the Dadasaheb Phalke Award for Actor Mohanlal for 2023. He is to be presented at the 71st National Awards Ceremony on September 23rd.
-
-Mohanlal is one of the best actors in Indian cinema. He is also a leading actor in Malayalam cinema. He has acted in more than 400 films. He was awarded the 2001 Padma Shri for his contribution to the film industry and the 2019 Padma Bhushan Award.
-
-In this context, the central government has announced the Dadasaheb Phalke Award, which is considered the highest award in Indian cinema, to highlight his unprecedented contribution to cinema.
-
-He is to be presented at the 71st National Awards Ceremony on September 23rd. (A)
-
-◼️
-
-[Data](articles/aae39bb8.json)
-
-[Extended Data](ext_articles/aae39bb8.ext.json)
-
----
-
-### "Parthiban Dileepa! Dileepan is a sacrificial torch !!" Gallery
-
-*2025-09-21 00:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225621) · `ta`
-
-The sacrificial torch of Dileepan has taken the history of Dileepan to the future generation, and his history is "Parthiban Dileepan! The documentary with the theme was opened on Saturday 20th.
-
-The Sacrifice Deepam Dileepan Memorial in Nallur was opened at 6.30 pm on Saturday 20th with the participation of Heroes and former militants.
-
-The sacrificial torch was inaugurated by Dileepan's main downtime.
-
-In the documentary gallery, the idol of Dileepan Dileepan's statue was removed by the senior militant Bashir Kaka and the shooter was dressed in a garland.
-
-The sacrificial torch Dileepan's historical photos and magazine documents were compiled and displayed.
-
-The parents of the heroes, political leaders, civil society and civilians were present.
-
-◼️
-
-[Data](articles/490acba1.json)
-
-[Extended Data](ext_articles/490acba1.ext.json)
-
----
-
-### There is no major difference between Anura and Hitler; Joining a merger should continue until the defeat of fascism - Udaya Kammanpila
-
-*2025-09-21 00:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225618) · `ta`
-
-There is no major differences between the dictator Hitler and President Anura Kumara Dissanayake. Opposition parties must be stable to prevent the motherland from getting into fascism. Ranil Wickremesinghe should be leading it, said Udaya Kammanpila, president of Bivithuru Hela Urumaya.
-
-Speaking at the 79th Federation of the United National Party (UNP) in Colombo on Saturday 20th, he said this.
-
-The UNP is in the context of the mother's massive dictatorship threat.. There is a fears that Sri Lanka will continue to be a democratic country or fall prey to fascism. We know how to confront these fascists when they come to take over the regime with weapons. Our military has an independent right to confront them.
-
-...
-
-[Data](articles/e14eb7f2.json)
-
-[Extended Data](ext_articles/e14eb7f2.ext.json)
-
----
-
-### Rajeevan MP paid tribute to the sacrificial fire
-
-*2025-09-21 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225620) · `ta`
-
-National People's Shakti MP J. Rajivan visited the documentary statue of the sacrificial Deepam, who visited the documentary archive of the sacrificial Deepam Dileepan, which was set up near the memorial of the martyrdom at Nallur bin road.
-
-The documentary archive, which bears the memories of the sacrificial torch, was opened on Saturday evening, and he paid tribute to the martyrdom.
-
-Meanwhile, the Tamil National People's Front (TNA) interrupted and returned to pay tribute to Fisheries Minister Ramalingam Chandrasekaran who went to pay tribute to the memorial of the sacrificial torch last Thursday.
-
-◼️
-
-[Data](articles/93bfd1f8.json)
-
-[Extended Data](ext_articles/93bfd1f8.ext.json)
 
 ---

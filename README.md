@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 18:19:25**
+As of **2025-09-21 18:40:26**
 
 ## Newspaper Stats
 
-*Scraped **77,268** Articles*
+*Scraped **77,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 7,510
 adaderanalk | 9,985
 tamilmirrorlk | 11,620
 virakesarilk | 12,572
-adaderanasinhalalk | 13,493
+adaderanasinhalalk | 13,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,268 (100.0%) of 77,268 articles have been extended.
+77,268 (100.0%) of 77,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### අමෙරිකාව රිදවන තීරණයක් ගන්න බ්‍රිතාන්‍ය සැරසෙයි
+
+*2025-09-21 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214834) · `si`
+
+පලස්තීනය නීත්‍යානුකූල රාජ්‍යයක් ලෙස පිළිගන්නා බවට වන නිල ප්‍රකාශයක් බ්‍රිතාන්‍ය අග්‍රාමාත්‍ය කියර් ස්ටාමර් විසින් අද (21) නිකුත් කිරීමට නියමිත බව වාර්තා වේ.
+
+ඒ අනුව පලස්තීනය රාජ්‍යයක් ලෙස පිළිගන්නා G7 කණ්ඩායමේ පළමු සාමාජික රට බවට බ්‍රිතාන්‍ය පත්වනු ඇත.
+
+බ්‍රිතාන්‍යට අමතරව ප්‍රංශය, කැනඩාව සහ ඔස්ට්‍රේලියාව ඇතුළු රටවල් කිහිපයක් මෙම සතියේ පැවැත්වෙන එක්සත් ජාතින්ගේ මහා මණ්ඩල රැස්වීම අතරතුර එවැනි ප්‍රකාශ නිකුත් කිරීමට නියමිත බව වාර්තා වේ.
+
+කෙසේවෙතත් ඊශ්‍රායල සහ අමෙරිකාව මෙම තීරණයට සිය අප්‍රසාදය පල කර තිබේ.
+
+අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පසුගිය සතියේ සිදුකළ බ්‍රිතාන්‍ය සංචාරය අතරතුර අගමැති ස්ටාමර් සමග පැවැත් වූ සාකච්ඡාවේදී ද මේ පිළිබඳව සිය විරුද්ධත්වය ප්‍රකාශ කර තිබුණි.
+
+◼️
+
+[Data](articles/58ffa2fd.json)
+
+---
+
+### මත්ද්‍රව්‍ය භාවිතා කරන රියදුරන් පරීක්ෂා කිරීම සම්බන්ධයෙන් නව නියෝගයක්
+
+*2025-09-21 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214833) · `si`
+
+විෂ මත්ද්‍රව්‍ය භාවිතා කර රථ වාහන ධාවනය කරන රියදුරන් පරීක්ෂා කිරීමේදී පොලිස් නිලධාරීන් ක්‍රියාකළ යුතු ආකාර සම්බන්ධයෙන් ප්‍රවාහන, මහා මාර්ග වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යංශය නව නියෝගයක් නිකුත් කර තිබේ.
+
+සැප්තැම්බර් මස 01 වන දින සිට ක්‍රියාත්මක වන පරිදි මෝටර් වාහන පනතේ 151 වන වගන්තියට අනුව මෙම නව නියෝගය නිකුත් කර ඇති බව වාර්තා වේ.
+
+කිසියම් රියදුරෙකු මත්ද්‍රව්‍ය භාවිතා කර ඇති බවට පොලිස් නිලධාරියෙකු විසින් සාධාරණව සැකකරනු ලබන අවස්ථාවකදී රියදුරා සම්බන්ධයෙන් ක්‍රියාකල යුතු ආකාරය පිලිබඳව මෙම නියෝගයෙන් පැහැදිලි කර තිබේ.
+
+ඒ අනුව රියදුරෙකුගේ සමේ යම් අසාමාන්‍ය ප්‍රතික්‍රියාවක්, අස්වාභාවික හැසිරීමක්, රියදුරුගේ කථාව, ක්‍රියාව, චලනය, සමබරතාවය සහ ඇස්වල පෙනුම අනුව මත්ද්‍රව්‍ය ගෙන ඇති බවට සාධාරණ සැකයක් හටගත් විට අදාල රියදුරු පරික්ෂාව සඳහා යොමු කිරීමට පොලිස් නිලධාරීන්ට හැකියාව පවතින බව ප්‍රවාහන, මහා මාර්ග වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යංශය පෙන්වා දෙයි.
+
+...
+
+[Data](articles/5ecc4fd4.json)
+
+---
 
 ### Malta national seizes a place suspected to produce ice
 
@@ -2091,43 +2129,5 @@ The Meteorological Department urges the public to take necessary arrangements to
 [Data](articles/cf009941.json)
 
 [Extended Data](ext_articles/cf009941.ext.json)
-
----
-
-### Proparco France ready to look at financing Sri Lanka firms as default ends
-
-*2025-09-21 05:00:00* · [`economynextcom`](https://economynext.com/proparco-france-ready-to-look-at-financing-sri-lanka-firms-as-default-ends-241336/) · `en`
-
-ECONOMYNEXT – Proparco, the private sector arm of the French development lender Agence Française de Développement, is ready to look at financing firms in Sri Lanka as the country has emerged from default and is stable, an official said.
-
-Sri Lanka defaulted on its external debt in 2022 and has now completed the restructuring of its sovereign bonds, and most of its bilateral debt including those of the AFD itself.
-
-Bilateral lenders stopped lending to Sri Lanka and only provided grants during the time of default, while multilaterals’ whose debt continued to be serviced, funded the island.
-
-“It was not so easy at that time,” Reza Hassam Daya, Global Head of Manufacturing, Agribusiness and Services at Proparco told EconomyNext.
-
-“But now, I think we are very open to seeing some projects.”
-
-...
-
-[Data](articles/d1850bb7.json)
-
-[Extended Data](ext_articles/d1850bb7.ext.json)
-
----
-
-### US attack on drug ship
-
-*2025-09-21 03:36:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/போதைப்பொருள்-கப்பல்-மீது-அமெரிக்கா-தாக்குதல்/50-364961) · `ta`
-
-US navy has attacked a ship carrying drugs in the Caribbean Sea.
-
-Three people have been identified in the attack and they are involved in drug trafficking. (A)
-
-◼️
-
-[Data](articles/c9c26b28.json)
-
-[Extended Data](ext_articles/c9c26b28.ext.json)
 
 ---

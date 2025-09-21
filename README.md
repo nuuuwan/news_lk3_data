@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 17:20:26**
+As of **2025-09-21 17:05:54**
 
 ## Newspaper Stats
 
-*Scraped **77,264** Articles*
+*Scraped **77,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,671
+economynextcom | 4,667
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
@@ -20,59 +20,17 @@ adalk | 7,509
 adaderanalk | 9,985
 tamilmirrorlk | 11,619
 virakesarilk | 12,572
-adaderanasinhalalk | 13,491
+adaderanasinhalalk | 13,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,255 (100.0%) of 77,264 articles have been extended.
+77,255 (100.0%) of 77,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
-
-### India-Sri Lanka Foundation approves several new projects, including in fisheries sector
-
-*2025-09-21 17:00:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-foundation-approves-several-new-projects-including-in-fisheries-sector-241399/) · `en`
-
-ECONOMYNEXT – The India–Sri Lanka Foundation (ISLF) has approved several new proposals received by the Colombo and New Delhi Secretariats at its 40th meeting held in Colombo recently.
-
-“The Board reviewed the progress of ongoing projects and approved several new proposals received by the Colombo and New Delhi Secretariats across diverse sectors including culture, education, health, environment, agriculture, and capacity building,” the High Commission of India, Colombo said in a statement.
-
-The session was co-chaired by the High Commissioner of India to Sri Lanka Santosh Jha, and the High Commissioner of Sri Lanka to India Mahishini Colonne.
-
-...
-
-[Data](articles/db76f812.json)
-
----
-
-### ලංගම කොන්දොස්තරවරයෙකුට පහරදීමක්
-
-*2025-09-21 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214830) · `si`
-
-කොළඹ සිට කතරගම දක්වා ගමන්ගත් ලංගම බස් රථයක කොන්දොස්තරවරයෙකුට ගාල්ල නගරයේ දී අද (21) පෙරවරුවේ පහරදීමක් සිදුව ඇත.
-
-කටුබැද්ද ඩිපෝවට අයත් මෙම බස්රථය කළුතර නගරයේ දී කොළඹ සිට ගාල්ල බලා ධාවනය වූ පෞද්ගලික බස් රථයක් ඉස්සර කර තිබේ.
-
-ඊට උරණ වූ පෞද්ගලික බස් රථයේ රියදුරු එම අවස්ථාවේ දී ලංගම කොන්දොස්තරවරයාට පහරදීමට උත්සාහ කර ඇතත්, බස් රථයේ මගීන්ගේ මැදිහත්වීම මත එය ව්‍යර්ථ වී ඇත.
-
-කෙසේ වෙතත් ලංගම බස් රථය ගාල්ලට පැමිණ මගීන් බස්සවමින් සිටියදී, ත්‍රීරෝද රථයකින් පැමිණ ඇති පුද්ගලික බස් රථයේ රියදුරු කොන්දොස්තරවරයාට පහර දී තිබේ.
-
-එහිදී ලංගම රියදුරු විසින් සිය බස් රථයෙන්ම තුවාල ලැබු කොන්දොස්තරවරයා මගීන් ද සමග ගාල්ල පොලීසියට රැගෙන ගොස් ඇත.
-
-එම අවස්ථාවේ දී පොලීසිය මැදිහත්වී සුවසැරිය ගිලන් රථයකින් තුවාල ලැබූ කොන්දොස්තරවරයා රෝහල් ගතකිරීමට පියවර ගෙන තිබේ.
-
-ඔහු මේ වනවිට ගාල්ල ජාතික රෝහලට ඇතුළත් කර ඇති අතර, ලංගම බස් රථයේ පැමිණි මගීන් වෙනත් ලංගම බස් රථයක නංවා පිටත්කර යවා ඇත.
-
-සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගාල්ල පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/d0235b19.json)
-
----
 
 ### கொழும்பு புறக்கோட்டை தீ விபத்து ; விசாரணை செய்ய குழு நியமனம்
 
@@ -665,30 +623,6 @@ The Authority also said that the procedural Affairs Authority (Consumer Affairs 
 [Data](articles/35db5ce7.json)
 
 [Extended Data](ext_articles/35db5ce7.ext.json)
-
----
-
-### Sri Lanka extends deadline for 640MWh BOO battery storage system
-
-*2025-09-21 12:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-deadline-for-640mwh-boo-battery-storage-system-241392/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has extended a deadline for private investors to bid for the islands first grid scale battery energy storage system (BESS) till October 14.
-
-The CEB plans to install 10MW/40MWh battery systems in 10 locations indicating storage of 640MWh.
-
-The batteries can smoothen intermittent supply from renewable energy like solar and reduce the likelihood of cascading failures.
-
-The CEB will give a 15-year concession to investors to operate the plant.
-
-Sri Lanka waiting for international BESS tender for market battery price
-
-Sri Lanka seeks BOO investors for first 160MW bess to absorb renewables
-
-Sri Lanka has accelerated measures to improve grid stability after surge in rooftop solar which was beyond the planned volume. (Colombo/Sept21/2025)
-
-◼️
-
-[Data](articles/a2aa9260.json)
 
 ---
 
@@ -2107,5 +2041,65 @@ He is to be presented at the 71st National Awards Ceremony on September 23rd. (A
 [Data](articles/aae39bb8.json)
 
 [Extended Data](ext_articles/aae39bb8.ext.json)
+
+---
+
+### "Parthiban Dileepa! Dileepan is a sacrificial torch !!" Gallery
+
+*2025-09-21 00:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225621) · `ta`
+
+The sacrificial torch of Dileepan has taken the history of Dileepan to the future generation, and his history is "Parthiban Dileepan! The documentary with the theme was opened on Saturday 20th.
+
+The Sacrifice Deepam Dileepan Memorial in Nallur was opened at 6.30 pm on Saturday 20th with the participation of Heroes and former militants.
+
+The sacrificial torch was inaugurated by Dileepan's main downtime.
+
+In the documentary gallery, the idol of Dileepan Dileepan's statue was removed by the senior militant Bashir Kaka and the shooter was dressed in a garland.
+
+The sacrificial torch Dileepan's historical photos and magazine documents were compiled and displayed.
+
+The parents of the heroes, political leaders, civil society and civilians were present.
+
+◼️
+
+[Data](articles/490acba1.json)
+
+[Extended Data](ext_articles/490acba1.ext.json)
+
+---
+
+### There is no major difference between Anura and Hitler; Joining a merger should continue until the defeat of fascism - Udaya Kammanpila
+
+*2025-09-21 00:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225618) · `ta`
+
+There is no major differences between the dictator Hitler and President Anura Kumara Dissanayake. Opposition parties must be stable to prevent the motherland from getting into fascism. Ranil Wickremesinghe should be leading it, said Udaya Kammanpila, president of Bivithuru Hela Urumaya.
+
+Speaking at the 79th Federation of the United National Party (UNP) in Colombo on Saturday 20th, he said this.
+
+The UNP is in the context of the mother's massive dictatorship threat.. There is a fears that Sri Lanka will continue to be a democratic country or fall prey to fascism. We know how to confront these fascists when they come to take over the regime with weapons. Our military has an independent right to confront them.
+
+...
+
+[Data](articles/e14eb7f2.json)
+
+[Extended Data](ext_articles/e14eb7f2.ext.json)
+
+---
+
+### Rajeevan MP paid tribute to the sacrificial fire
+
+*2025-09-21 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225620) · `ta`
+
+National People's Shakti MP J. Rajivan visited the documentary statue of the sacrificial Deepam, who visited the documentary archive of the sacrificial Deepam Dileepan, which was set up near the memorial of the martyrdom at Nallur bin road.
+
+The documentary archive, which bears the memories of the sacrificial torch, was opened on Saturday evening, and he paid tribute to the martyrdom.
+
+Meanwhile, the Tamil National People's Front (TNA) interrupted and returned to pay tribute to Fisheries Minister Ramalingam Chandrasekaran who went to pay tribute to the memorial of the sacrificial torch last Thursday.
+
+◼️
+
+[Data](articles/93bfd1f8.json)
+
+[Extended Data](ext_articles/93bfd1f8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 12:12:00**
+As of **2025-09-21 12:37:39**
 
 ## Newspaper Stats
 
-*Scraped **77,213** Articles*
+*Scraped **77,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,121 @@ islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,503
 adaderanalk | 9,975
-tamilmirrorlk | 11,610
-virakesarilk | 12,560
+tamilmirrorlk | 11,611
+virakesarilk | 12,564
 adaderanasinhalalk | 13,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,210 (100.0%) of 77,213 articles have been extended.
+77,217 (100.0%) of 77,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### H1-B වීසා ගාස්තුව ඩොලර් ලක්ෂය දක්වා  ඉහළ දැමීමට අමෙරිකාව තීරණයක
+### 43 சிறுவர்கள் சைபரில் வன்புணர்வு
 
-*2025-09-21 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214820) · `si`
+*2025-09-21 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/43-சிறுவர்கள்-சைபரில்-வன்புணர்வு/175-364982) · `ta`
 
-‘එච්- වන්- බී (H1-B) කාණ්ඩය යටතේ වීසා අයදුම් කරන විදෙස් පුහුණු ශ්‍රමිකයින් සඳහා වන ගාස්තුව අමෙරිකානු ඩොලර් ලක්ෂය දක්වා ඉහළ දැමීමේ විධායක නියෝගයකට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අත්සන් කර තිබේ.
+2024/2025 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 43 சிறுவர்கள் சைபரில் பாலியல் வன்கொடுமைக்கு ஆளானதாக பொலிஸ் ஊடகப் பேச்சாளர் உதவி பொலிஸ் கண்காணிப்பாளர் உதய குமார வுட்லர் தெரிவித்தார்.
 
-ඒ අනුව එය පෙර පැවති ගාස්තුව මෙන් 60 ගුණයක ඉහළ යාමක් බව වාර්තා වේ.
+இது கடந்த ஆண்டை விட 50% அதிகரிப்பு என்று ஊடகப் பேச்சாளர் தெரிவித்தார்.
 
-වාර්ෂිකව මෙම වීසා කාණ්ඩය යටතේ වැඩිම අවස්ථාව ඉන්දීය ජාතික පුහුණු ශ්‍රමිකයින්ට හිමිව තිබූ අතර එය සමස්ත සංඛ්‍යාවෙන් සියයට 70ක් පමණ වන බව සඳහන් වේ.
+2024 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 15 சிறுவர்களும், 2025 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 28 சிறுவர்களும் சைபரின் ஊடாக பாலியல் வன்கொடுமைக்கு ஆளானதாகவும் அவர் கூறினார்.
 
-වීසා ගාස්තු ඉහළ දැමීමේ අමෙරිකානු රජයේ තීරණයත් සමග ඇතැම් අමෙරිකානු සමාගම් එම වීසා කාණ්ඩය යටතේ සේවය කරන විදෙස් ශ්‍රමිකයින්ට අමෙරිකාවේ රැදී සිටින ලෙස හා රටින් පිටව සිටී නම් වහාම යළි පැමිණෙන ලෙස දැනුම් දී ඇත.
+2024 ஆம் ஆண்டில், போதைப்பொருள் குற்றங்களுக்காக 282 சிறுவர்கள் கைது செய்யப்பட்டனர், 2025 ஆம் ஆண்டில் 206 சிறுவர்கள் கைது செய்யப்பட்டனர். 2024 ஆம் ஆண்டில் 375 பெண்கள் பாலியல் வன்கொடுமைக்கு ஆளானதாகவும், சம்பவம் தொடர்பாக 114 சந்தேக நபர்கள் கைது செய்யப்பட்டதாகவும் ஊடகப் பேச்சாளர் தெரிவித்தார். 2025 ஆம் ஆண்டில் இதுவரை 118 பெண்கள் பாலியல் வன்கொடுமைக்கு ஆளாகியுள்ளனர்.
 
-මෙවැනි තත්ත්වයක් තුළ මානුෂීය වශයෙන් ගැටළුකාරී තත්ත්වයක් ඇති කරන මෙම තීරණය පිළිබඳව අමෙරිකානු බලධාරීන් යළි සලකා බලනු ඇතැයි අපේක්ෂා කරන බව ඉන්දීය විදේශ කටයුතු අමාත්‍යංශය සඳහන් කර තිබේ.
+◼️
 
-එමෙන්ම ඉන්දීය රජය පවසන්නේ අමෙරිකානු රජයේ මෙම නවතම තීරණය මානුෂීය වශයෙන් ප්‍රතිවිපාක ඇතිකරන්නක් බවය.
-
-...
-
-[Data](articles/4e9f843f.json)
+[Data](articles/378f4ea1.json)
 
 ---
 
-### 3 மாணவர்களை வன்புணர்ந்த ஓய்வுபெற்ற இராணுவ வீரர் கைது
+### Massive accident on Batticaloa -Kalmunai main road; Trio injured
+
+*2025-09-21 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225656) · `ta`
+
+Kattankudy police said that three persons have been admitted to the Batticaloa Teaching Hospital after being injured in a massive accident in Kattankudi area this morning on the Kalmunai main road in Batticaloa.
+
+A lorry from Colombo on Sunday (21) from Kalmunai was parked on the Kattankudy main road while a luxury bus from Colombo to Akkaraipattu collided with a lorry.
+
+A three -wheeler collided with a bus on the main road following the accident.. At the same time, the driver of the bus and the driver of the bus was injured and admitted to the Batticaloa Teaching Hospital.
+
+Kattankudy police are conducting further investigations.. And the luxury bus auto has been heavily damaged.
+
+◼️
+
+[Data](articles/43b0c5c8.json)
+
+[Extended Data](ext_articles/43b0c5c8.ext.json)
+
+---
+
+### US decides to increase the H1-B visa to $ 1 million
+
+*2025-09-21 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214820) · `si`
+
+US President Donald Trump has signed an executive order for foreign skilled workers for foreign skilled workers under the 'H-Wan-B (H1-B) category to foreign skilled workers to US $ 100,000.
+
+It is reported that it is 60 times the previous fee.
+
+The annual Indian skilled workers have the highest number of times under the Visa group, which is about 70 percent of the total number.
+
+With the US government decision to increase the visa fees, some American companies have been informed to stay in the United States, to stay in the United States, and resumes.
+
+The Indian Foreign Ministry (Indian Foreign Ministry) has expected to revise the decision of this decision that will create a humanitarian problem in such a situation.
+
+The Government of India says that the latest decision of the US government has humanitarian consequences.
+
+However, the American White House further stated that the new tariff revision is only valid for people who apply the new visa.
+
+◼️
+
+[Data](articles/4e9f843f.json)
+
+[Extended Data](ext_articles/4e9f843f.ext.json)
+
+---
+
+### Arrested in a retired soldier for raping 3 students
 
 *2025-09-21 11:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-மாணவர்களை-வன்புணர்ந்த-ஓய்வுபெற்ற-இராணுவ-வீரர்-கைது/175-364980) · `ta`
 
-ஒரு பாடசாலையில் படிக்கும் 10, 12 மற்றும் 13 வயதுடைய மூன்று சிறுவர்களை கடுமையான பாலியல் துஷ்பிரயோகம் செய்து, அத்தகைய மற்றொரு குழந்தையை பாலியல் துஷ்பிரயோகம் செய்ததாக பாடசாலையின் நிர்வாகக் குழுவின் பொருளாளராக இருந்த ஓய்வுபெற்ற இராணுவ வீரர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக அனுராதபுரம் தலைமையக பொலிஸ் தெரிவித்துள்ளது.
+The Anuradhapura Headquarters Police said that a retired soldier of the school's executive committee has been arrested for allegedly sexually abusing three children aged 10, 12 and 13, aged 10, 12 and 13.
 
-பாடசாலையில் செவித்திறன் குறைபாடுள்ள மாணவனை அவருடைய தாயார் அழைத்துச் செல்ல வந்தபோது குழந்தையை காணவில்லை, பின்னர் அவர் பாடசாலையில் கிணற்று இருக்கும் பக்கத்தில் இருந்து ஓடிவந்துள்ளார். அதுதொடர்பில் மகனிடம் தாயார் வினவியுள்ளார். அதன்பின்னர், அந்த தாயார் அளித்த புகாரில் சந்தேக நபர் பல கடுமையான பாலியல் துஷ்பிரயோக சம்பவங்களைச் செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The child was missing when his mother came to take a deaf student at the school, and then he ran from the side of the well in the school.. The mother has asked the son. Since then, the mother has filed a complaint with the mother, police said.
 
-...
+The police said that when they take confessions from these children with speech and deafening, the police said that they had recorded their confessions with the help of a sign translator and the man who served as the treasurer of the school's executive committee had been sexually abused on several occasions.
+
+The suspect further states that the suspect will come to school often, return after dark, and in addition, he will come to the shelters, close the doors and windows and turn off the lights.
+
+◼️
 
 [Data](articles/94a4411d.json)
+
+[Extended Data](ext_articles/94a4411d.ext.json)
+
+---
+
+### Motorcycle accident in Polgahawela: One killed
+
+*2025-09-21 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225647) · `ta`
+
+The motorcycle traveling from Ungalmodara to Naramala near the Nainadeniya junction on the Yangalodara - Naramala road belonging to the Polgahawela police division crashed into another motorcycle.
+
+Two motorcycle drivers were injured in the accident and admitted to Kurunegala Hospital for further treatment. In the meantime, one person died without treatment.
+
+Investigations have revealed that the deceased was a 16 -year -old schoolgirl from Yadigaloluwa.
+
+The corpse is placed in the Kurunegala Hospital. Polgahawela police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/2432542d.json)
+
+[Extended Data](ext_articles/2432542d.ext.json)
 
 ---
 
@@ -85,6 +153,54 @@ He told the media that he had not been any harm to the Sabari Mountain Iyab Pan 
 [Data](articles/c3abfcec.json)
 
 [Extended Data](ext_articles/c3abfcec.ext.json)
+
+---
+
+### About 91 people killed in Israeli attack on Gaza
+
+*2025-09-21 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/225645) · `ta`
+
+International media reports that Israeli forces killed 91 Palestinians in Gaza yesterday.
+
+The country's officials said that this included the family members of the famous doctor and four others in the lorry fleeing from the city of North Gaza.
+
+The killings on Saturday (yesterday) continued to seize the city of Gaza and push people into the concentration zones in the south.
+
+It is reported that Israeli forces have bombed residential houses, schools and lodges, and a lorry carrying people who tried to flee from Gaza on the orders of the military.
+
+At the same time, the family of a director of the largest hospital in Gaza was killed in the early hours of Saturday morning.
+
+Hamas has stated that it is "a bloody terrorist news driven to force doctors to leave the city."
+
+◼️
+
+[Data](articles/121b8e6b.json)
+
+[Extended Data](ext_articles/121b8e6b.ext.json)
+
+---
+
+### Subramaniam Chettiar, the founder of the Weerakesari magazine today
+
+*2025-09-21 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225649) · `ta`
+
+Mr. Sri Lanka, Sri Lanka, who created the National Tamil newspaper of the Veerakesari, is a celebration of a century in the Sri Lankan newspaper industry.. Bee. Subramaniam Chettiar's 124th birthday is today (21).
+
+Subramaniam Chettiar was born on the same day in 1901 as the son of Periyannan Chettiar and Visalakshi couple in Anakkapatti, India, India.
+
+He wrote novels and articles in various magazines. He came to Sri Lanka in an eagerness to explore the lives of people abroad.
+
+Here he learned that the Tamils ​​were unity of plantation workers. On August 6, 1930, he started the magazine Weerakesari.
+
+As its primary editor, acted for 20 years. It gave Tamils ​​politics and social awareness. After Sri Lanka's independence, he sold the newspaper company and went to India.
+
+There he started business and lending companies in the name of SVSP. It was expanded in countries where Tamils, including Singapore and Malaysia, were expanded and managed to buy rubber and coffee plantations.
+
+...
+
+[Data](articles/fe77575e.json)
+
+[Extended Data](ext_articles/fe77575e.ext.json)
 
 ---
 
@@ -1754,6 +1870,8 @@ Often referred to in local folklore as the “flower garden of the gods,” Hort
 
 [Data](articles/836cc239.json)
 
+[Extended Data](ext_articles/836cc239.ext.json)
+
 ---
 
 ### Airports restored by Immigration and Emigration Department's computer system
@@ -1925,105 +2043,5 @@ The fire brigade said that the fire was already launched.
 [Data](articles/d66917ad.json)
 
 [Extended Data](ext_articles/d66917ad.ext.json)
-
----
-
-### Fire breaks out at building in Pettah
-
-*2025-09-20 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112706/fire-breaks-out-at-building-in-pettah) · `en`
-
-A fire has reportedly broken out in a shop on the third floor of a building at First Cross Street in Pettah.
-
-The Colombo Fire Brigade said that 12 fire-trucks have been deployed so far to douse the flames and that firefighters are currently attempting to control the fire from spreading.
-
-Meanwhile, the Sri Lanka Air Force (SLAF) Fire Service Unit has also deployed two fire trucks to the location to assist in fire fighting operations.
-
-The SLAF Spokesman said that a Bell 212 helicopter has been deployed to assist in extinguishing the fire at First Cross Street in Pettah.
-
-◼️
-
-[Data](articles/634afa24.json)
-
-[Extended Data](ext_articles/634afa24.ext.json)
-
----
-
-### My golden years at Kingswood College
-
-*2025-09-20 16:27:00* · [`islandlk`](http://island.lk/my-golden-years-at-kingswood-college/) · `en`
-
-Mr. Louis Edmund Blaze’ started his school, which he named Boys’ High School at No. 11, Pavilion Street in the Kandy town itself (the premises were secured by Mr. JW Samaraweera) with 11 boys – quite a coincidence between the school roll and its address – on May 4, 1891 with the intention that it should be run as far as possible on the lines of the old British Public Schools. Later, when the number of students grew, the school was shifted to Brownrigg Street (now Yatinuwara Veediya).
-
-As the rooms in Pavilion Street became too small with increasing number of students, the school was shifted to a house in Brownrigg Street, which had been built by Mr. William Staples about 50 years before. The school began academic activities on January 12, 1898. In December 1897 the school moved into larger premises in Browrigg Street, where the school hall was built and the Boys’ High School took the name of Kingswood College.
-
-...
-
-[Data](articles/a09c831f.json)
-
-[Extended Data](ext_articles/a09c831f.ext.json)
-
----
-
-### "Knowledge not only in the study: to act for the people" - insist at the Asian Science Day Conference held in Colombo
-
-*2025-09-20 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225590) · `ta`
-
-As global health threats are on the rise, the Asian scientific days of the 'Médecins Sans Frontières/MSF) organization in Colombo have been held on Friday (September 19), to address the inequalities in access to medical care.
-
-The conference, which emphasizes the importance of the role of communities in health care, participated in more than 150 researchers, community leaders, and some of the illness.
-
-The theme of this year's conference is "Renewal of Health: Listening, Learning, Guidance - The Voice of Society in Health Safety".
-
-The conference was held under five main categories. These debates took place in the implementation of policies, research and novelty, skill development, community and patient networks, and cooperation.
-
-Under the topic "Society is not beneficiaries, partners, MSF, the Executive Director of South Asia, Parthasarathy Rajendran, in his opening speech, stressed that the scientific days conference should not be a mere research.
-
-...
-
-[Data](articles/2c64f2c3.json)
-
-[Extended Data](ext_articles/2c64f2c3.ext.json)
-
----
-
-### Border Control Computer System at BIA down for over 2 hours
-
-*2025-09-20 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112705/border-control-computer-system-at-bia-down-for-over-2-hours) · `en`
-
-The “Border Control Computer System” of the Department of Immigration and Emigration at the arrival and departure terminals of the Bandaranaike International Airport (BIA) in Katunayake, which was down temporarily is now back in operation.
-
-Ada Derana reporter said that the system was active again from 4.15 p.m. and that accordingly it had been down for around 2 hours and 30 minutes.
-
-Earlier, it was reported that the “Border Control Computer System” of the Department of Immigration and Emigration implemented at the arrival and departure terminals of the Bandaranaike International Airport (BIA) in Katunayake, had been inactive since around 1.45 p.m. today (20).
-
-According to sources within the Department of Immigration and Emigration, Sri Lanka’s system—established and maintained by a private company for the past eight years—frequently experiences such disruptions.
-
-...
-
-[Data](articles/c3e02b39.json)
-
-[Extended Data](ext_articles/c3e02b39.ext.json)
-
----
-
-### Fitch places long-term debt ratings of 25 sovereigns under criteria observation
-
-*2025-09-20 16:14:00* · [`economynextcom`](https://economynext.com/fitch-places-long-term-debt-ratings-of-25-sovereigns-under-criteria-observation-241331/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it has placed 435 long-term debt ratings of 25 sovereigns, including Sri Lanka, Under Criteria Observation (UCO) following the publication of updated Sovereign Rating Criteria on September 15.
-
-This designation indicates that the existing ratings may change as a result of the application of the updated criteria, the ratings agency said, adding that it will review all ratings placed on UCO within six months.
-
-Fitch Places Long-Term Debt Ratings of 25 Sovereigns Under Criteria Observation
-
-Fitch Ratings – London – 19 Sep 2025: Fitch Ratings has placed 435 long-term debt ratings of 25 sovereigns Under Criteria Observation (UCO) following the publication of updated Sovereign Rating Criteria on 15 September 2025.
-
-The UCO designation indicates that the existing ratings may change as a direct result of the application of the updated criteria. It does not indicate a change in the underlying credit profile, nor does it affect existing Outlooks or Rating Watches.
-
-...
-
-[Data](articles/a22b5603.json)
-
-[Extended Data](ext_articles/a22b5603.ext.json)
 
 ---

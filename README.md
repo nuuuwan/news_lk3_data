@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 10:38:05**
+As of **2025-09-21 10:55:34**
 
 ## Newspaper Stats
 
-*Scraped **77,190** Articles*
+*Scraped **77,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 4,667
 dailymirrorlk | 4,733
 islandlk | 4,751
 dailyftlk | 5,485
-adalk | 7,502
+adalk | 7,503
 adaderanalk | 9,973
-tamilmirrorlk | 11,598
+tamilmirrorlk | 11,600
 virakesarilk | 12,556
-adaderanasinhalalk | 13,478
+adaderanasinhalalk | 13,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,190 (100.0%) of 77,190 articles have been extended.
+77,190 (100.0%) of 77,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### புறக்கோட்டை தீ: விசாரிக்க குழு நியமனம்
+
+*2025-09-21 10:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-தீ-விசாரிக்க-குழு-நியமனம்/175-364966) · `ta`
+
+புறக்கோட்டை, 1வது குறுக்குத் தெருவில் உள்ள ஒரு மின் சாதனக் கடையில் சனிக்கிழமை (20) ஏற்பட்ட தீ விபத்து குறித்து விசாரிக்க ஒரு குழு நியமிக்கப்பட்டுள்ளது. இந்தக் குழுவிற்கு பொதுப் பாதுகாப்புத் துறை பிரதி அமைச்சரான வழக்கறிஞர் சுனில் வட்டகல தலைமை தாங்குகிறார்.
+
+சனிக்கிழமை (20) மதியம் ஏற்பட்ட தீ, கிட்டத்தட்ட 12 மணி நேரம் நீடித்த ஒரு பெரிய நடவடிக்கைக்குப் பிறகு கட்டுக்குள் கொண்டுவரப்பட்டது.
+
+கொழும்பு மாநகர சபை தீயணைப்புத் துறையின் தீயணைப்புப் பிரிவுகள், இலங்கை விமானப்படை மற்றும் கடற்படையைச் சேர்ந்த பணியாளர்கள் சம்பவ இடத்திற்கு அனுப்பப்பட்டனர்.
+
+தீயை அணைக்கவும், அருகிலுள்ள கட்டிடங்களுக்கு தீ பரவாமல் தடுக்கவும் சுமார் 15 தீயணைப்பு இயந்திரங்கள் மற்றும் ஒரு விமானப்படை பெல்-212 ஹெலிகாப்டர் இந்த நடவடிக்கையில் பயன்படுத்தப்பட்டன.
+
+◼️
+
+[Data](articles/18651979.json)
+
+---
+
+### மட்டக்களப்பில் சொகுசு பஸ் விபத்து; மூவர் படுகாயம்
+
+*2025-09-21 10:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-சொகுசு-பஸ்-விபத்து-மூவர்-படுகாயம்/175-364964) · `ta`
+
+மட்டக்களப்பு கல்முனை பிரதான வீதியில் காத்தான்குடி பிரதேசத்தில் ஞாயிற்றுக்கிழமை (21) அன்று அதிகாலை இடம்பெற்ற பாரிய விபத்து சம்பவத்தில் மூவர் படுகாயம் அடைந்த நிலையில் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+
+அதிகாலை 4 மணியளவில்  கொழும்பிலிருந்து கல்முனை நோக்கி வந்து கொண்டிருந்த லொறியொன்று காத்தான்குடி பிரதான வீதியில் நிறுத்தப்பட்டிருந்த அதே நேரம் கொழும்பிலிருந்து அக்கரைப்பற்று நோக்கி வந்து கொண்டிருந்த சொகுசு பஸ் ஒன்று குறித்த லொறியின் பின்னால் மோதியதன் காரணமாக பாரிய விபத்து சம்பவம் ஏற்பட்டுள்ளது.
+
+குறித்து விபத்தை தொடர்ந்து பிரதான வீதியில் வந்து கொண்டிருந்த முச்சக்கர வண்டியில் பஸ் மீது மோதியுள்ளது இதனால் பஸ்ஸில் நடத்துனர் படுகாயமடைந்தார்.
+
+...
+
+[Data](articles/ee03fa18.json)
+
+---
+
+### රටවල් ආක්‍රමණය කිරීමට ඊශ්‍රායලයට අයිතියක් නැහැ - ඉරාන ජනාධිපති
+
+*2025-09-21 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214818) · `si`
+
+සෙසු රටවල් ආක්‍රමණය කිරීමට ඊශ්‍රායලයට කිසිදු අයිතියක් නොමැති බව ඉරාන ජනාධිපති මසූද් පෙෂෙස්කියන් පවසා තිබේ.
+
+අසල්වැසි රාජ්‍යන්ගේ භූමි ප්‍රදේශ ද ඇතුළත් වන පරිදි ක්‍රියාත්මක කිරීමට නියමිත යැයි පැවසෙන ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහුගේ  'ග්‍රේට(ර්) ඊශ්‍රායල් ' හෙවත් ‍ශ්‍රේෂ්ඨ ඊශ්‍රායලය නම් සැලසුම හෙළා දකිමින් ඔහු මේ බව පවසා ඇත.
+
+එමෙන්ම මැද පෙරදිග කලාපය තුළ ඊශ්‍රායලයේ ක්‍රියාකලාපය ද එහිදී ඔහුගේ දැඩි විවේචනයට ලක්ව තිබේ.
+
+අමෙරිකාව ඊශ්‍රායලයට සහාය දැක්වීම ද ඉරාන ජනපතිවරයාගේ විවේචනයට ලක්වූ අතර ඊශ්‍රායලයේ මෙම නීතිවිරෝධි, අසාධාරණ සහ අමානුෂික ක්‍රියා සම්බන්ධව සෙසු රටවල් නිහඬව සිටිය යුතු නැති බව ඔහු වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/d86bc4d2.json)
+
+---
 
 ### Ooty ... feed ...
 
@@ -205,6 +257,22 @@ The remains are placed at the Hemmatagama hospital morgue and the suspect involv
 [Data](articles/18ab69a6.json)
 
 [Extended Data](ext_articles/18ab69a6.ext.json)
+
+---
+
+### වැසි හා සුළං තත්ත්වය තවදුරටත්
+
+*2025-09-21 08:41:30* · [`adalk`](https://www.ada.lk/breaking_news/වැසි-හා-සුළං-තත්ත්වය-තවදුරටත්/11-418626) · `si`
+
+දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි සහා සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර ස නුවරඑළිය අද දිනයේදි විටින් විට වැසි ඇති බවත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු හා වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් ඌව පළාතෙත් අම්පාර හා මඩකලපුව දිස්ත්‍රික්කවලත්  ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හො ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තතමේන්තුවට වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/15ec0ab2.json)
 
 ---
 
@@ -1965,85 +2033,5 @@ I start by saying that her latest book is for the general reader, and not a poli
 [Data](articles/2fbc70fd.json)
 
 [Extended Data](ext_articles/2fbc70fd.ext.json)
-
----
-
-### The day all hell broke loose in July ‘83 and coping with situation
-
-*2025-09-20 14:03:00* · [`islandlk`](http://island.lk/the-day-all-hell-broke-loose-in-july-83-and-coping-with-situation/) · `en`
-
-The time was now around 3 p.m. I asked the driver to drop my accountant home at Dehiwela and come back to my residence with the car. I also told him that if the conditions were bad, to stay with the accountant in Dehiwela for the moment. He was nervous about driving further, but he left. My few Sinhalese neighbours and I were now faced with a difficult situation. Most of our Tamil neighbours were in a state of panic. Smoke from fires burning on some roads was clearly visible. There was still no curfew declared.
-
-...
-
-[Data](articles/790f1a68.json)
-
-[Extended Data](ext_articles/790f1a68.ext.json)
-
----
-
-### Sexual abuse at a school for children with special needs in Anuradhapura
-
-*2025-09-20 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225576) · `ta`
-
-There are increasing cases of harassment against children with special need to focus from all sides of the community.
-
-The Anuradhapura District Coordinating Committee was focused yesterday (19) regarding the sexual abuse of students and students in a school for children with special needs in the Anuradhapura area.
-
-In the school, students with special need and students are subjected to sexual abuse and various harassment.
-
-A man who served as the treasurer of the school has been arrested on charges of allegedly abusing three students and students.
-
-He has been kept in detention until the 29th of this month, the Anuradhapura police said.
-
-It is reported that parents who are unable to tolerate the various harassment of their children who are deaf and unable to speak, have recently been involved in a fierce protest against the school's executive committee.
-
-◼️
-
-[Data](articles/1f535632.json)
-
-[Extended Data](ext_articles/1f535632.ext.json)
-
----
-
-### Sri Lanka sees 12,325 new active credit cards in July 2025
-
-*2025-09-20 13:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-12325-new-active-credit-cards-in-july-2025-241322/) · `en`
-
-ECONOMYNEXT – New active credit cards in Sri Lanka increased by 12,325 in July this year, the central bank data showed, amid the country’s economic recovery and falling interest rates.
-
-The number of active credit cards recorded 2,088,069 by end July, compared to 2,075,744 by end June, showing an increase of 0.59 percent in the month.
-
-The active credit cards have risen by 3.8 percent or 79,613 in the first seven months of this year, the data showed.
-
-Active credit cards in Sri Lanka rose by 4.8 percent or 91,371 in 2024, the Central Bank data showed, with the island nation’s economic recovery and strong promotions for credit cards amid falling interest rates.
-
-Analysts have said most banks have tied up with super markets and other vendors to promote credit cards in the falling interest rate regime as the country’s economy has shown more-than-expected recovery.
-
-They said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than in 2023.
-
-...
-
-[Data](articles/9dbd8d58.json)
-
-[Extended Data](ext_articles/9dbd8d58.ext.json)
-
----
-
-### Police seized two jeeps
-
-*2025-09-20 13:41:11* · [`adalk`](https://www.ada.lk/breaking_news/මුල්-ආකෘති-වෙනස්-කර-නීති-විරෝධි-ලෙස-එකලස්-කරමින්-සිටි-ජීප්-රථ-දෙකක්-පොලිස්-භාරයට/11-418620) · `si`
-
-Two jeeps were taken into custody by the Norwood Police Traffic Officer by changing the original format and unlawful vehicles.
-
-The Nuwara Eliya District car investigative Jays, the two jeps have been planned to be sold by a collection of old iron materials in Norwood.
-
-The Norwood Police Traffic Officer has issued an order to the Government Task Inspector by the officials of the Norwood Police, the officials of the Norwood Police, to the Government Task Inspector by the officials of the Norwood Police.
-
-◼️
-
-[Data](articles/82ada052.json)
-
-[Extended Data](ext_articles/82ada052.ext.json)
 
 ---

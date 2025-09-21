@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 15:55:38**
+As of **2025-09-21 15:37:52**
 
 ## Newspaper Stats
 
-*Scraped **77,251** Articles*
+*Scraped **77,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,667
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
-adalk | 7,508
+adalk | 7,507
 adaderanalk | 9,983
 tamilmirrorlk | 11,618
 virakesarilk | 12,570
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,247 (100.0%) of 77,251 articles have been extended.
+77,247 (100.0%) of 77,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,24 +105,6 @@ Trump added that the Afghan party is being held in this regard.
 [Data](articles/df7996d0.json)
 
 [Extended Data](ext_articles/df7996d0.ext.json)
-
----
-
-### සුඛෝපභෝගී බස් රථයක්, ලොරි රථයක් සහ ත්‍රිරෝද රථයක් ගැටී තිදෙනෙකුට තුවාල
-
-*2025-09-21 14:40:58* · [`adalk`](https://www.ada.lk/breaking_news/සුඛෝපභෝගී-බස්-රථයක්--ලොරි-රථයක්-සහ-ත්‍රිරෝද-රථයක්-ගැටී-තිදෙනෙකුට-තුවාල/11-418631) · `si`
-
-මඩකලපුව කල්මුණේ ප්‍රධාන මාර්ගයේ කාත්තාන්කුඩි ප්‍රදේශයේ අද උදෑසන සිදු වූ  අනතුරකින් තිදෙනෙකු බරපතල තුවාල ලබා මඩකලපුව ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව කාත්තාන්කුඩි පොලිසිය පවසයි.
-
-අද අලුයම 4 ට පමණ, කොළඹ සිට කල්මුණේ දෙසට ධාවනය වූ ලොරි රථයක් කාත්තාන්කුඩි ප්‍රධාන මාර්ගයේ නතර කර තිබියදී, කොළඹ සිට අක්කරෙයිපත්තුව දෙසට ධාවනය වූ සුඛෝපභෝගී බස් රථයක් ලොරි රථයේ පිටුපස ගැටීමෙන් විශාල අනතුරක් සිදුවිය.
-
-අනතුරෙන් පසු, ප්‍රධාන මාර්ගයේ ගමන් කළ ත්‍රිරෝද රථයක් ද බස් රථයේ ගැටීමෙන් බස් රථයේ රියදුරු බරපතල තුවාල ලබා ඇත. ඒ සමඟම, බස් රථයේ රියදුරු සහ ත්‍රිරෝද රථයේ රියදුරු ද තුවාල ලබා මඩකලපුව ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
-
-බස් රථය අධික වේගයෙන් ධාවනය කර ඇති බවත්, කාත්තන්කුඩි පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වන බවත් වාර්තා වේ. සුඛෝපභෝගී බස් රථයට සහ ත්‍රිරෝද රථයට දැඩි හානි සිදුවී තිබීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/50b4b441.json)
 
 ---
 
@@ -2097,5 +2079,29 @@ Accordingly, the Sri Lankan team scored 168 runs for the loss of 7 wickets at th
 [Data](articles/63f7dff2.json)
 
 [Extended Data](ext_articles/63f7dff2.ext.json)
+
+---
+
+### A target of 169 runs to Bangladesh
+
+*2025-09-20 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214808) · `si`
+
+The match between the Sri Lanka and Bangladesh team will commence in the Group 4 of the Asia Cup Twenty20 tournament.
+
+Bangladesh leader Litton Das was able to win the coin of the match and he first decided to bowl.
+
+Sri Lanka scored 168 runs for the loss of 7 wickets at the end of the balls.
+
+Vidasana scored 64 runs in 37 balls with six sixes and three fours.
+
+Kusal Mendis scored 34 runs and 4 wishes Nissanka 22 runs.
+
+Mustafizur RAHMman took 3 wickets for Bangladesh in bowling and took 2 wickets and Taskin ahmed.
+
+◼️
+
+[Data](articles/bde05a0b.json)
+
+[Extended Data](ext_articles/bde05a0b.ext.json)
 
 ---

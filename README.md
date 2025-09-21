@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 15:20:27**
+As of **2025-09-21 13:20:29**
 
 ## Newspaper Stats
 
-*Scraped **77,247** Articles*
+*Scraped **77,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,443 +16,55 @@ economynextcom | 4,667
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
-adalk | 7,507
-adaderanalk | 9,983
-tamilmirrorlk | 11,618
-virakesarilk | 12,567
-adaderanasinhalalk | 13,488
+adalk | 7,503
+adaderanalk | 9,975
+tamilmirrorlk | 11,613
+virakesarilk | 12,566
+adaderanasinhalalk | 13,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,245 (100.0%) of 77,247 articles have been extended.
+77,223 (100.0%) of 77,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### 5 students fainted: Investigate shops
-
-*2025-09-21 14:47:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/5-மாணவர்கள்-மயங்கினர்-கடைகளிடம்-விசாரணை/76-364997) · `ta`
-
-A group of students from Hambantota and Konona colleges were on their way to Kandy, police said.
-
-After visiting the Peradeniya Botanical Gardens on Saturday evening (20), the group came out and ate toast and milk from nearby stores. They went to worship the historic Sri Dalada House at night.
-
-Later, when a group of students approached the National Exhibition Ground where their bus stopped, five students suddenly fell unconscious. They were immediately rushed to the Kandy National Hospital by ambulance.
-
-Doctors have decided that the students are unconscious due to food, and police have begun investigations to find out the shops allegedly bought.
-
-◼️
-
-[Data](articles/edef0e15.json)
-
-[Extended Data](ext_articles/edef0e15.ext.json)
-
----
-
-### Bagram air base in Afghanistan requests Trump again
-
-*2025-09-21 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214827) · `si`
-
-The US President Donald Trump has warned the Afghanistan that Afghanistan would have to face the loss of the Bagram Air camp to return to the US to America.
-
-The Taliban has been acquired by the Taliban 2021 after the arrival of the soldiers in Afghanistan.
-
-Trump added that the Afghan party is being held in this regard.
-
-◼️
-
-[Data](articles/df7996d0.json)
-
-[Extended Data](ext_articles/df7996d0.ext.json)
-
----
-
-### No cuts to religious education and aesthetic subjects – Prime Minister
-
-*2025-09-21 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112731/no-cuts-to-religious-education-and-aesthetic-subjects-prime-minister) · `en`
-
-Under the current government, there will be no reduction or removal of religious education or aesthetic subjects in any way, Prime Minister Dr. Harini Amarasuriya has affirmed.
-
-She made this statement during a discussion held with members of the Buddhist Affairs Task Force.
-
-The discussion also covered the content included in the textbook for Buddhism under the new curriculum.
-
-During the meeting, the Prime Minister explained that, as part of the education reforms scheduled to be implemented in 2026, the first lesson of the first module in Grade 6 will aim to provide all students with a basic understanding of all major religions.
-
-She further stated that, following this introduction, students will be given the opportunity to study their own respective religions in depth.
-
-...
-
-[Data](articles/52f32cd1.json)
-
----
-
-### The 2nd solar eclipse for the year 2025
-
-*2025-09-21 14:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆண்டிற்கான-2ஆவது-சூரிய-கிரகணம்-இன்று/175-364996) · `ta`
-
-The second solar eclipse for 2025 will be held on Sunday, September 21, on the new moon day.
-
-The solar eclipse will be Sri Lanka's time, from 11.00 pm to 3.23 am tonight. Sri Lanka is not likely to be revealed in India as it happens at night.
-
-Also, the solar eclipse today can be seen from the southern Pacific Ocean, New Zealand, Australia, Africa, Indian Ocean, Atlantic Ocean, South Ocean, Polynicia, Melanacia, Norfok Island, Christchurch and Wellington. In some of the countries mentioned here, the sun disappears up to 80%, and the daytime is suddenly dark.
-
-Can only be seen by the eclipse glasses or secure telescopes. If this is wrong, the eyes can be affected.
-
-◼️
-
-[Data](articles/497ae28b.json)
-
-[Extended Data](ext_articles/497ae28b.ext.json)
-
----
-
-### Liking was arrested, stolen hundreds of 200,000 gold and gold items
-
-*2025-09-21 14:20:07* · [`adalk`](https://www.ada.lk/breaking_news/නැන්දම්මාගේ-ලක්ෂ-28ක-රන්-භාණ්ඩ-සොරාගෙන-වෙත්-පුරුෂකයෙක්-සමග-දීග-කන්න-ගිය-බිරිද-අල්ලයි/11-418630) · `si`
-
-The Ingiriya Police who was arrested with her two-and-a-year-old manner with her mother-in-law, and the Ingiriya police arrested with her second man who went with another man separate from her husband.
-
-The victim has been arrested, a 40-year-old resident of the Mindter in the Horana area and was a 38-year-old woman who had come to life with him.
-
-The woman who was saying that the wife of the professor of Ingiriya has been able to study a course and has later built a relationship with the second man.
-
-About a week later, the woman's husband's mother's mother (mother-in-law) had been found to be lodged a complaint in the Ingiriya police.
-
-Under the supervision of the OIC of the Ingiriya OIC Chief Inspector K.A.Ndollewela, the suspect has been able to find the mortgage of gold.
-
-Accordingly, the police have also been arrested and stolen goldes have been arrested and to find the gold items. Ingiriya Police are conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/5b5bef2c.json)
-
-[Extended Data](ext_articles/5b5bef2c.ext.json)
-
----
-
-### Investigative report on substance found in Netolpitiya due next week
-
-*2025-09-21 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112729/investigative-report-on-substance-found-in-netolpitiya-due-next-week) · `en`
-
-The investigative report on the substances discovered on a plot of land in Netolpitiya, Tangalle is expected to be released to police next week, the National Dangerous Drugs Control Board (NDDCB) has stated.
-
-A spokesperson of the Board mentioned that the investigations into these substances are currently in their final stages.
-
-Based on information revealed by members of a criminal gang arrested in Indonesia, a stock of chemical substances believed to be used in the production of the drug ‘Ice’ (crystal methamphetamine) was discovered on a plot of land in Middeniya.
-
-Subsequently, similar stocks of substances were also discovered in Netolpitiya, Tangalle and from Kandana. Samples of these substances were handed over to the National Dangerous Drugs Control Board and the Government Analyst’s Department for investigation.
-
-...
-
-[Data](articles/66fe0ee7.json)
-
----
-
-### Vladimir is taking a 17 -year -old girl home
-
-*2025-09-21 14:04:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/17-வயது-சிறுமியை-வீட்டுக்கு-அழைத்துவரும்-விளாடிமிர்/50-364994) · `ta`
-
-A new book states that Vladimir Putin had invited a 17 -year -old girl to her home for two weeks before he had mysteriously owned a special luxury apartment in Moscow district.
-
-The journalists have exploded in the "The Jar In Person: How Vladimir Putin Foodda All" by Roman Pathan and Mikhail Rubin, revealing everything about the illegal relationship with the Russian President's Teenage Beauty Queen.
-
-Vladimir Putin first met Teenager Alyssa Karcheva, a suburb of Moscow, and he participated in small beauty competitions.
-
-When Putin was the Prime Minister and Dmitry Medvedev, when he was the Russian president, he attracted Putin's attention when she played the April-up-camet calendar for his 58th birthday.
-
-The 2010 calendar, which pose the young woman with lingerie, was printed 50,000 times and sold for about six euros in Russia.
-
-Prior to the 2012 presidential election, his critics claimed that it was used to increase Putin's voter attraction, and he came back to the top post.
-
-...
-
-[Data](articles/1f444c03.json)
-
-[Extended Data](ext_articles/1f444c03.ext.json)
-
----
-
-### CAA conducts 70 rice-related raids last week
-
-*2025-09-21 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112728/caa-conducts-70-rice-related-raids-last-week) · `en`
-
-A total of 70 raids related to rice have been conducted by the Consumer Affairs Authority (CAA) last week.
-
-The CAA said the raids included 55 raids on rice sales and 15 other raids.
-
-The offences identified include rice hoarding, failure to display prices, and selling rice under conditions, among others, the CAA added.
-
-The CAA stated that if an individual trader is found guilty of selling rice at a higher price, the penalty could range from a fine of Rs. 100,000 to Rs. 500,000, imprisonment of up to five months, or both the penalties.
-
-Further, if a private company is convicted, the court has the authority to impose a fine ranging from Rs. 500,000 to Rs. 5 million.
-
-In cases involving rice hoarding, court may order a fine, imprisonment, or both, in addition to confiscating the stocks concerned under the provisions of the Consumer Affairs Authority Act.
-
-...
-
-[Data](articles/16284c76.json)
-
-[Extended Data](ext_articles/16284c76.ext.json)
-
----
-
-### Chairman of Karandeniya Pradeshiya Sabha has passed away
-
-*2025-09-21 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225663) · `ta`
-
-Chairman of the Karandeniya Pradeshiya Sabha Mahil Munasinghe passed away on Sunday (21).
-
-He was admitted to the Karandeniya Hospital and later died after being in a health care exercise this morning.
-
-47 -year -old Munasinghe is elected as the Chairman of the Pradeshiya Sabha in the last local government elections.
-
-◼️
-
-[Data](articles/6af851f8.json)
-
-[Extended Data](ext_articles/6af851f8.ext.json)
-
----
-
-### India - Pak. Super 4's game: Andy as Match Refree
-
-*2025-09-21 13:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியா-பாக்-சூப்பர்-4-ஆட்டம்-மேட்ச்-ரெஃப்ரீயாக-ஆண்டி/44-364991) · `ta`
-
-India and Pakistan teams clash today (21) in the Super 4 round of the Asia Cup cricket series.
-
-Reports have surfaced that the Andy Bigroft will act as a match for this game. The Pakistan Cricket Board has accused Andy Fifagrat of the Indian team in the league round.
-
-He threatened to remove him from the series or that he would quit the series. But the ICC refused to accept the request of the Pakistan Cricket Board. Baigraphtte Match Refree was also in the last league match of the Pakistan team. This is likely to continue in today's game.
-
-◼️
-
-[Data](articles/249079bf.json)
-
-[Extended Data](ext_articles/249079bf.ext.json)
-
----
-
-### Sri Lanka’s commitment to ensure Indian Ocean remains zone of peace reaffirmed
-
-*2025-09-21 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112727/sri-lankas-commitment-to-ensure-indian-ocean-remains-zone-of-peace-reaffirmed) · `en`
-
-The Secretary to the Ministry of Defence, Air Vice Marshal Sampath Thuyacontha (Retd) has reaffirmed Sri Lanka’s longstanding commitment to ensuring that the Indian Ocean remains a zone of peace, open to cooperation and free from conflict, the Ministry of Defence said in a statement.
-
-Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd) addressing the high profile gathering at the 12th Beijing Xiangshan Forum in China, also emphasized the significance of collective dialogue, regional cooperation, and mutual respect in addressing global and regional security challenges.
-
-He said, “We should take seriously the legitimate security concerns of every country and promote peaceful settlement of differences and disputes among countries through dialogue and consultation. We need to continue pursuing open regionalism and steadily advance regional economic integration.”
-
-The 12th Beijing Xiangtan Forum was held at the Beijing International Convention Center in Beijing.
-
-...
-
-[Data](articles/6805e073.json)
-
-[Extended Data](ext_articles/6805e073.ext.json)
-
----
-
-### Testing report of material found in Netolpitiya next week
-
-*2025-09-21 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214826) · `si`
-
-The Danger Drugs Control Board says that the inspection report is expected to be released from a land in Netolpitiya area.
-
-A spokesman said that the investigations of the relevant materials are currently in the final stage.
-
-A large haul of chemicals that claimed to be used in the land of the Middeniya area has been found to be used in the land of the Middeniya area.
-
-The Tangalle was later found in the Netolpitiya area and the Kandana area.
-
-The Danger and Analyst's department has already confirmed that the Merdiene of Middeniya area.
-
-The base of the Danger Hinglemador License (Dangers) stated that Methampamamician governing national board was given to the number of 20 samples obtained from the relevant location.
-
-Accordingly, the inquiry report of the materials found in Netolpitiya area is also handed over to the police over the next week.
-
-The inspection report of the mountains found in the Kandana area is also expected to be released.
-
-◼️
-
-[Data](articles/256d58e1.json)
-
-[Extended Data](ext_articles/256d58e1.ext.json)
-
----
-
-### Prime Minister says that religious education and aesthetic subjects will not be slashed
-
-*2025-09-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214825) · `si`
-
-Prime Minister Dr. Harini Amarasuriya says that under the present government, the Prime Minister Dr. Harini Amarasuriya says that no religious education as well as aesthetic subjects are being buried.
-
-She made this statement at a meeting with members of the Buddha Sasana Task Force.
-
-It also discusses the contents of the Buddha Dhamma under the new syllabus.
-
-The Prime Minister has stated that the first lesson of the first module of Grade 6 grade 6 grade is expected to be given a basic understanding of all religions.
-
-She added that children will then be able to study their religion.
-
-The Prime Minister has also appeared in the shortage of Buddhism, and the Prime Minister has stated in the discussion.
-
-◼️
-
-[Data](articles/0b9a5e3d.json)
-
-[Extended Data](ext_articles/0b9a5e3d.ext.json)
-
----
-
-### Karandeniyaweera, Chairman, deaths death
-
-*2025-09-21 13:32:11* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-කරන්දෙනිය-ප්‍රා-සභා-සභාපති-හදිසියේ-ජීවිතක්ෂයට/11-418629) · `si`
-
-The Chairman of the Karandeniya Pradeshiya Sabha has died this morning (21) morning.
-
-Residents of the area say that he has been admitted to the Bokanda Divisional Hospital due to a fall in the Borakanda area in Karandeniya today (21).
-
-The body of the deceased was placed at the Karandeniya, Borakanda Divisional Hospital and was taken to the Elpitiya Base Hospital for the post mortem.
-
-Malitha Rangeja Munasinghe (47) was the Chairman of the Karandeniya Pradeshiya Sabha.
-
-The husband of the deceased is Manoja Galappaththi's husband, a husband, who is the husband of Mrs. Manoja Galappaththi, Principal of Kotawela Primary School, Karandeniya Primary School.. The Karandeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/975926a9.json)
-
-[Extended Data](ext_articles/975926a9.ext.json)
-
----
-
-### Another school student arrested for schoolgirl
-
-*2025-09-21 13:27:35* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවෙකුගේ-කන-පැලූ-තවත්-පාසල්-සිසුවෙක්-අල්ලයි/11-418628) · `si`
-
-Ingiriya Police have arrested a 14-year-old schoolgirl who was hit by an eight-year-old schoolgirl.
-
-The arrested student was a 20 acre area of ​​20 acres, a student of the Ingiriya Hospital.
-
-According to the incident, there has been a small argument between two students in the eighth budget, one student has told another student of the grade name. The police said that the student had been hit by the other student of the student who was later sent to the incident with the student who was told to the incident.
-
-The student was arrested by the Chief Inspector of the OIC Chief Inspector K.A.Dallure and released on police bail and is to be produced before the Horana Magistrate's Court.
-
-◼️
-
-[Data](articles/a562f047.json)
-
-[Extended Data](ext_articles/a562f047.ext.json)
-
----
-
-### 70 raids associated with rice in a week
-
-*2025-09-21 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214824) · `si`
-
-The Consumer Affairs Authority (CAA) has committed 70 raids on rice last week.
-
-The authority said that the raids includes 55 raids on selling rice and 15 other raids.
-
-The authority said that the rice includes ridge hidden, and selling rice, and selling rice.
-
-The Consumer Affairs Authority said that if he was convicted of the individual selling individual businessman in the sale of rice, he could be prescribed or sentenced to Rs.
-
-The Authority also says that if a private company is convicted of a guilty to Rs.
-
-The Authority also said that the procedural Affairs Authority (Consumer Affairs Authority) has been able to punish the consumer action twice as a second fines.
-
-◼️
-
-[Data](articles/35db5ce7.json)
-
-[Extended Data](ext_articles/35db5ce7.ext.json)
-
----
-
-### A shooting of a Club in the United States
+### අමෙරිකාවේ සමාජ ශාලාවක  වෙඩි තැබීමක්
 
 *2025-09-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214823) · `si`
 
-One person was killed and another injured in a shooting at a club in New Humps.
+අමෙරිකාවේ නිව් හැම්ප්ෂයහි සමාජ ශාලාවක සිදුවූ වෙඩි තැබීමකින් එක් පුද්ගලයෙකු මියගොස් තවත් පිරිසක් තුවාල ලබා තිබේ.
 
-Foreign media reports that a person who entered the club with a firearm had been shot dead at one time.
+ගිනිඅවියක් සහිතව එම සමාජ ශාලාවට ඇතුළු වූ අයෙකු එක්වරම පිරිස වෙත වෙඩි ප්‍රහාර එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
 
-The victim is a male, a boy, and the police have been arrested for arrest the shooter.
+මෙලෙස මිය ගොස් ඇත්තේ එහි රැදී සිටි පිරිමි පුද්ගලයෙකු වන අතර වෙඩික්කරු අත්අඩංගුවට ගැනීමට පොලිසියට හැකිව තිබේ.
 
 ◼️
 
 [Data](articles/3f6603fb.json)
 
-[Extended Data](ext_articles/3f6603fb.ext.json)
-
 ---
 
-### The mother -in -law of the niece of the nurse
+### மருமளான நர்ஸ்ஸின் அந்த உறுப்பை கடித்து துண்டாக்கிய மாமியார்
 
 *2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
 
-In a family who lived quietly, a horrific incident took place. The incident has caused a stir among the people of the area. The incident took place in Thiruvattar, Kanyakumari district.
+அமைதியாக வாழ்ந்து வந்த ஒரு குடும்பத்தில், ஒரு பயங்கர சம்பவம் அரங்கேறியது. இந்த சம்பவம் அப்பகுதி மக்களிடையே பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது. கன்னியாகுமரி மாவட்டம், திருவட்டார் பகுதியிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது.
 
-Manju, a dedicated nurse, and her husband Prince, a driver. The actions of mother -in -law Alphonsa have stormed the life of this young couple who lived with two children.
+மஞ்சு, ஓர் அர்ப்பணிப்பு மிக்க நர்ஸ், மற்றும் அவரது கணவர் பிரின்ஸ், ஒரு டிரைவர். இரு குழந்தைகளுடன் வாழ்ந்து வந்த இந்த இளம் தம்பதியின் வாழ்க்கையில், மாமியார் அல்போன்சாவின் செயல்கள் புயலை கிளப்பியுள்ளன.
 
-Manju, who performed his nurse's work in the hospital, was committed to the family. But in their quiet life, mother -in -law Alphonsa came to a shadow.
+மஞ்சு, மருத்துவமனையில் தனது நர்ஸ் பணியை ஆற்றி, குடும்பத்திற்கு உறுதுணையாக இருந்தார். ஆனால், அவர்களது அமைதியான வாழ்க்கையில் மாமியார் அல்போன்சா ஒரு நிழலாக வந்து நின்றார்.
 
-He often harassed Manju asking for dowry. "Bring more money. Otherwise you have no place in this house!" It was customary to intimidate.
+வரதட்சணை கேட்டு அவர் அடிக்கடி மஞ்சுவை கொடுமைப்படுத்தி வந்தார். "இன்னும் பணம் கொண்டு வா, இல்லையென்றால் இந்த வீட்டில் உனக்கு இடமில்லை!" என்று அவர் மிரட்டுவது வழக்கமாக இருந்தது.
 
-Manju, depending on these humiliations, did not speak for the relief of the family. Yesterday evening, the problem reached its peak. Prince, drunkenly came home. This resulted in an argument between Manju and him.
+மஞ்சு, இந்த அவமானங்களை பொறுத்து, குடும்பத்தின் நிம்மதிக்காக பேசாமல் இருந்தார்.நேற்று மாலை, இந்தப் பிரச்சனை உச்சத்தை எட்டியது. பிரின்ஸ், குடிபோதையில் வீட்டிற்கு வந்தார். இதனால் மஞ்சுவுக்கும் அவருக்கும் இடையே வாக்குவாதம் மூண்டது.
 
 ...
 
 [Data](articles/91baed23.json)
-
-[Extended Data](ext_articles/91baed23.ext.json)
-
----
-
-### The mother -in -law of the niece of the niece
-
-*2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
-
-In a family who lived quietly, a horrific incident took place. The incident has caused a stir among the people of the area. The incident took place in Thiruvattar, Kanyakumari district.
-
-Manju, a dedicated nurse, and her husband Prince, a driver. In the life of this young couple who lived with two children, the actions of mother -in -law Alphonsa have stormed.
-
-Manju, who performed his nurse's work in the hospital, was committed to the family. But in their quiet life, mother -in -law Alphonsa came to a shadow.
-
-He often harassed Manju asking for dowry. "Bring more money. Otherwise you have no place in this house!" It was customary to intimidate.
-
-Manju, depending on these humiliations, did not speak for the relief of the family. Yesterday evening, the problem reached its peak. Prince, drunkenly came home. This resulted in an argument between Manju and him.
-
-...
-
-[Data](articles/ad3c8339.json)
-
-[Extended Data](ext_articles/ad3c8339.ext.json)
-
----
-
-### Corpse recovery
-
-*2025-09-21 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225659) · `ta`
-
-The body of a woman has been recovered as a tree hanging in a tree early this morning (21), said Chandana Kamage, Superintendent of the Vattawala Police Station.
-
-The body of a 62 -year -old woman, Kannan Manirani, a resident of Kuilwatta, belonging to the Vattawala Police Division, has been identified as the body of a woman.
-
-Based on the information provided by the plantation workers to the Vattawala police, the body of the Wattawala police recovered the body that the woman had died in a tree in a tree in their garden.
-
-To determine whether this is a suicide or murder, the Vattawala Police and the Attan Police Division are conducting investigations through various sections.
-
-◼️
-
-[Data](articles/3dd1987f.json)
-
-[Extended Data](ext_articles/3dd1987f.ext.json)
 
 ---
 
@@ -469,30 +81,6 @@ He was taken to the hospital due to a sudden illness when he was exercising on S
 [Data](articles/efce0f64.json)
 
 [Extended Data](ext_articles/efce0f64.ext.json)
-
----
-
-### President to leave for US tomorrow to attend UN General Assembly
-
-*2025-09-21 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112725/president-to-leave-for-us-tomorrow-to-attend-un-general-assembly) · `en`
-
-President Anura Kumara Dissanayake is scheduled to leave for the United States tomorrow (22).
-
-During this visit, President Dissanayake is expected to attend the 80th session of the United Nations General Assembly (UNGA).
-
-The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division.
-
-During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
-
-The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will accompany President Anura Kumara Dissanayake on his official visit.
-
-◼️
-
-[Data](articles/09381f11.json)
-
-[Extended Data](ext_articles/09381f11.ext.json)
 
 ---
 
@@ -540,6 +128,26 @@ In this backdrop, the electricity unions today (21) have said that a procurement
 
 ---
 
+### Corpse recovery
+
+*2025-09-21 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225659) · `ta`
+
+The body of a woman has been recovered as a tree hanging in a tree early this morning (21), said Chandana Kamage, Superintendent of the Vattawala Police Station.
+
+The body of a 62 -year -old woman, Kannan Manirani, a resident of Kuilwatta, belonging to the Vattawala Police Division, has been identified as the body of a woman.
+
+Based on the information provided by the plantation workers to the Vattawala police, the body of the Wattawala police recovered the body that the woman had died in a tree in a tree in their garden.
+
+To determine whether this is a suicide or murder, the Vattawala Police and the Attan Police Division are conducting investigations through various sections.
+
+◼️
+
+[Data](articles/3dd1987f.json)
+
+[Extended Data](ext_articles/3dd1987f.ext.json)
+
+---
+
 ### President leaves for USA tomorrow
 
 *2025-09-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214821) · `si`
@@ -559,28 +167,6 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining t
 [Data](articles/f27a9463.json)
 
 [Extended Data](ext_articles/f27a9463.ext.json)
-
----
-
-### CEB workers to further intensify trade union action from tomorrow
-
-*2025-09-21 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112724/ceb-workers-to-further-intensify-trade-union-action-from-tomorrow) · `en`
-
-Several trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their trade union action further against the proposed restructuring of the CEB, effective midnight today (21).
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action in three phases.
-
-The first phase was initiated as a ‘work-to-rule’ trade union action.
-
-In the second phase, all employees reported sick leave in two groups on September 17 and 18), during which a demonstration was also staged opposite the CEB head office.
-
-Although 17 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
-
-...
-
-[Data](articles/389beca8.json)
-
-[Extended Data](ext_articles/389beca8.ext.json)
 
 ---
 
@@ -621,30 +207,6 @@ Kattankudy police are conducting further investigations.. And the luxury bus aut
 [Data](articles/43b0c5c8.json)
 
 [Extended Data](ext_articles/43b0c5c8.ext.json)
-
----
-
-### British PM set to announce recognition of Palestinian state today
-
-*2025-09-21 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112723/british-pm-set-to-announce-recognition-of-palestinian-state-today) · `en`
-
-Prime Minister Sir Keir Starmer is expected to announce the UK’s recognition of a Palestinian state in a statement on Sunday afternoon.
-
-The move comes after the prime minister said in July the UK would shift its position in September unless Israel met conditions including agreeing to a ceasefire in Gaza and committing to a long-term sustainable peace deal that delivers a two-state solution.
-
-It represents a major change in British foreign policy after successive governments said recognition should come as part of a peace process and at a time of maximum impact.
-
-The move has drawn fierce criticism from the Israeli government, hostage families and some Conservatives.
-
-Israeli Prime Minister Benjamin Netanyahu previously said such a move “rewards terror”.
-
-However, UK ministers argue there was a moral responsibility to act to keep the hope of a long-term peace deal alive.
-
-...
-
-[Data](articles/844a11ba.json)
-
-[Extended Data](ext_articles/844a11ba.ext.json)
 
 ---
 
@@ -711,28 +273,6 @@ The corpse is placed in the Kurunegala Hospital. Polgahawela police are conducti
 [Data](articles/2432542d.json)
 
 [Extended Data](ext_articles/2432542d.ext.json)
-
----
-
-### 47-year-old Karandeniya PS Chairman dies due to sudden illness
-
-*2025-09-21 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112722/47-year-old-karandeniya-ps-chairman-dies-due-to-sudden-illness) · `en`
-
-Chairman of Karandeniya Pradeshiya Sabha Mahil Munasinghe, has passed away due to a sudden illness.
-
-It has been reported that he became suddenly ill this morning (21) while engaging in physical fitness activities and was admitted to the Karandeniya Hospital, where he subsequently passed away.
-
-Mahil Munasinghe contested representing the National People’s Power (NPP) in the last local government elections and was elected as the Chairman of the Karandeniya Pradeshiya Sabha.
-
-At the time of his death, he was 47 years old. It is suspected that the cause of death was a heart attack.
-
-A post-mortem examination is scheduled to be conducted at the Elpitiya Base Hospital.
-
-◼️
-
-[Data](articles/0ac24e73.json)
-
-[Extended Data](ext_articles/0ac24e73.ext.json)
 
 ---
 
@@ -1039,28 +579,6 @@ Sai Baba Sannur, Babu, stays in this Biji. For this Babu, the teenager has a pre
 [Data](articles/df9cfed7.json)
 
 [Extended Data](ext_articles/df9cfed7.ext.json)
-
----
-
-### 168 lakhs meet in Katunayake airport
-
-*2025-09-21 10:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-168ක්-මත්ද්‍රව්‍ය-කටුනායක-ගුවන්තොටේ-පිරිමි-වැසිකිළියෙන්-හමුවෙයි/11-418627) · `si`
-
-A large number of "Kush 'and" Hashish "has been arrested by the Police Narcotics Bureau, which was thrown into the march toilet of the Bandaranaike International Airport.
-
-There were 422 grams of Kushrogesta and 1kg and 262 grams of 'Hashish' drugs.
-
-Steps have been taken to educate the officers of the Katunayake airport Customs Drug Administration Divisional Secretariat at about 01.30 days of the toilet.
-
-The infant has been arrested by the Customs Drug Administration in the Customs Drug Administration in the Katunayake Air Force Police Narcotics Bureau.
-
-The officials of the Katunayake Airport Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ef6c980e.json)
-
-[Extended Data](ext_articles/ef6c980e.ext.json)
 
 ---
 
@@ -2117,5 +1635,437 @@ Further investigations are being carried out by the police headquarters.
 [Data](articles/88a155b0.json)
 
 [Extended Data](ext_articles/88a155b0.ext.json)
+
+---
+
+### Sri Lanka is worn for Duti's father
+
+*2025-09-20 20:44:27* · [`adalk`](https://www.ada.lk/sports/දුනිත්ගේ-පියා-වෙනුවෙන්-ලංකාව-කලු-අත්පටි-පළඳියි/9-418624) · `si`
+
+හදිසි හෘදයාබාධයක් හේතුවෙන් ජීවිතක්ෂයට පත්වූ දුනිත් වෙල්ලාගේගේ පියාට ගෞරව දැක්වීම සඳහා ශ්‍රී ලංකා කණ්ඩායාමේ ක්‍රීඩකයන් අද දිනයේදී කලු පැහැති අත්පටි පැළඳගෙන ක්‍රීඩා කරනු ලබයි.
+
+Before the match was started, a minute silence was also held before the national anthem of Sri Lanka was playing.
+
+◼️
+
+[Data](articles/81d22c50.json)
+
+[Extended Data](ext_articles/81d22c50.ext.json)
+
+---
+
+### Silent tribute to Tunit's father in international stage
+
+*2025-09-20 20:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துனித்தின்-தந்தைக்காக-சர்வதேச-அரங்கில்-மௌன-அஞ்சலி/175-364956) · `ta`
+
+A minute's silent tribute was paid before the start of today's (20) match for the father of Sri Lankan bowler Dunit Vellake.
+
+With the silent tribute to the national anthem, the Sri Lankan team and the team managers were able to observe that they were wearing a black bar in their hands.
+
+Dunit Vellake's father returned to Sri Lanka immediately after the news of the death of Afghanistan during the Asian Cup in Abu Dhabi.
+
+After attending the father's funeral, Tunit Vellalake left for the United Arab Emirates yesterday and joined the team.
+
+◼️
+
+[Data](articles/22320c4a.json)
+
+[Extended Data](ext_articles/22320c4a.ext.json)
+
+---
+
+### Sady plays today
+
+*2025-09-20 20:24:00* · [`adalk`](https://www.ada.lk/sports/දුනිත්-අද-තරගයට-ක්‍රීඩා-කරයි/9-418623) · `si`
+
+The Sri Lanka team and the Bangladesh team has been called between the Sri Lanka team and the Bangladesh team between the Sri Lankan team and the Bangladesh team in the Asian Cup.
+
+The Sri Lankan team and the Afghan group was watching the match from Sri Lanka last (18) died due to a heart attack.
+
+Accordingly, they arrived in Sri Lanka from Abu Dhabi yesterday morning, while he was present to Sri Lanka last night.. Accordingly, the donor has also been called to the competition today.
+
+The Sri Lankan team is bowled out for the winner of the Bangladesh team, winning the coin.
+
+◼️
+
+[Data](articles/690154af.json)
+
+[Extended Data](ext_articles/690154af.ext.json)
+
+---
+
+### A minute silence as a Gutarian father as a Giving
+
+*2025-09-20 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214806) · `si`
+
+Duti Welala's father, Suranga, the father of Suranga, has been silenced before the demise of the match today.
+
+The Sri Lankan players will participate in the game of black handy.
+
+◼️
+
+[Data](articles/e55fd4cf.json)
+
+[Extended Data](ext_articles/e55fd4cf.ext.json)
+
+---
+
+### Bangladesh won the first bowling resolution
+
+*2025-09-20 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225611) · `ta`
+
+Bangladesh Captain Litton Das decided to bowl first in the main match between Sri Lanka and Bangladesh, the first match of the Asia Cup Cricket T20 series.
+
+The competition will start at 8:00 pm at the Dubai International Cricket Ground.
+
+Meanwhile, Dunit Wellalake, who returned to the island during the Asian Cup due to his father's sudden death, is back in the Sri Lankan squad.
+
+◼️
+
+[Data](articles/d01a7861.json)
+
+[Extended Data](ext_articles/d01a7861.ext.json)
+
+---
+
+### Bangladesh to the coin
+
+*2025-09-20 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214805) · `si`
+
+Bangladesh leader Litton Das was able to gain the advantage of the match against Bangladesh today (20) in the Asia Cup.
+
+The match begins at the Dubai International Cricket Stadium at 8.00 pm.
+
+Meanwhile, Dugar Welelle's resumes of the Sri Lankan team will be resumed during the Asian Trophy due to his father's emergency dey.
+
+◼️
+
+[Data](articles/b6bebe1c.json)
+
+[Extended Data](ext_articles/b6bebe1c.ext.json)
+
+---
+
+### Navy personnel to be illegally fisherman
+
+*2025-09-20 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214804) · `si`
+
+The navy has taken over 78 suspects using banned fishing nets using banned fishing nets, using banned fishing nets, using banned fishing nets, using banned fishing nets, using banned fishing nets and electrical lighting.
+
+35 digie vessels and a multi day fishing vessel were taken into custody by the Navy.
+
+Due to the fisheries carried out using illegal fishing equipment and fisheries, these operations are conducted to prevent the harmful effect on the ocean ecosystem.
+
+Accordingly, the relevant operations have been carried out covering the beach, Kokanattaf Point, Kokanattaf Point, Kokanatta, Kokanali, Kokanagar, Baldati, Kokanagar, Kokkalai, Kokkalai, Kuchkuvelu and Kinniya.
+
+The operation has also implemented the coverage of Chundikulam and Kanduikadu sea areas and the southeast-naval sailoto system to cover the sea area from Keryathev.
+
+...
+
+[Data](articles/7c308c28.json)
+
+[Extended Data](ext_articles/7c308c28.ext.json)
+
+---
+
+### Helicopter in tasks of controlling fire
+
+*2025-09-20 19:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீயை-கட்டுப்படுத்தும்-பணிகளில்-ஹெலிகொப்டர்/175-364955) · `ta`
+
+The military spokesman said that the Bell Raka helicopter and two military -owned vehicles have been dispatched to control the fire at a shopping center located on 1st Cross Street, Pettah.
+
+A fire broke out this afternoon at a trade center at a building located on 1st Cross Street, Pettah.
+
+The fire brigade has announced that 12 fire trucks have been deployed to bring the fire under control.. R.
+
+◼️
+
+[Data](articles/0f15516b.json)
+
+[Extended Data](ext_articles/0f15516b.ext.json)
+
+---
+
+### “Showed motherly love to Sri Lankan Tamils”: Indian actor Vijay praises Prabhakaran
+
+*2025-09-20 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112708/showed-motherly-love-to-sri-lankan-tamils-indian-actor-vijay-praises-prabhakaran) · `en`
+
+In a move that is likely to stoke controversy, Tamizhaga Vettri Kazhagam (TVK) chief Vijay on Saturday racked up the Sri Lankan Tamil issue and praised LTTE chief Velupillai Prabhakaran, who was the mastermind behind former Indian Prime Minister Rajiv Gandhi’s assassination, and stressed the need to “give a voice to the Sri Lankan Tamils” living in the country.
+
+Addressing a crowd in Nagapattinam as part of his campaign in the election-bound Tamil Nadu, the Indian actor reached out to the Sri Lankan Tamils and suggested that Prabhakaran was “like a mother” to the community, reported NDTV.
+
+The issue of Sri Lankan Tamils is emotive in Tamil Nadu especially amongst the fishermen in areas like Nagapattinam.
+
+“At the same time, our umbilical-cord kin, the Eelam Tamils, whether they are in Sri Lanka or anywhere else in the world, are suffering after losing a leader who showed them motherly affection,” Vijay said, in a clear reference to Prabhakaran.
+
+...
+
+[Data](articles/1e314449.json)
+
+[Extended Data](ext_articles/1e314449.ext.json)
+
+---
+
+### Receipt of Mail in the next budget - Minister Nalinda
+
+*2025-09-20 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214803) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa says that the current government is allocated for the reign of the current post offices, Sub Post Offices.
+
+The Minister was speaking at the construction of the new building for the construction of the new building for the construction of the new building at the Bandarawala District at the cost of an estimated cost of Rs. 4.23 million.
+
+Speaking on the occasion, the minister said that people tax money was planned for the benefit of people.
+
+He also said that the construction of buildings will commence from the foundation stone for new post offices and buildings are not the foundation of the current government.
+
+The Minister said that the government has also used personal technical equipment to maintain the number of physical resources required for the last season.
+
+The Minister also said that steps will be taken to promote staff to recruit staff in various grades and will be taken to promote the staff grades.
+
+◼️
+
+[Data](articles/3cbc0056.json)
+
+[Extended Data](ext_articles/3cbc0056.ext.json)
+
+---
+
+### Billions find drugs in a toilet at the airport
+
+*2025-09-20 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214802) · `si`
+
+The Police Narcotics Bureau has recovered a large quantity of Kush and Hashizhtus worth the Katunayaka International Airport Terminal today (20).
+
+422 grams of rahr drugs and Hasheash had 262 grams and 1kg of drugs.
+
+A employee who had come to clean the toilet has seen several parcels and has informed the officers of the Katunayake airport Customs Drug Administration.
+
+The officials of the airport police have been informed and the drug has been taken into custody by their consignment.
+
+Katunayake Airport Police Narcotics Bureau is conducting further investigations.
+
+◼️
+
+[Data](articles/b7295cce.json)
+
+[Extended Data](ext_articles/b7295cce.ext.json)
+
+---
+
+### Cyber ​​attack interferes with many airports in Europe
+
+*2025-09-20 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214801) · `si`
+
+Due to a cyber attack, Europe's headquarters had been interrupted in many airports.
+
+Foreign media reports that the work of Hathare, Brussels, Berlin, has been disrupted.
+
+The cyber attack was launched using an online internet system that provides services to the aircraft.
+
+It is reported that air travel delays and canceled have also occurred.
+
+However, the airport authorities have stated that steps will be taken to recover the situation.
+
+◼️
+
+[Data](articles/ade601f6.json)
+
+[Extended Data](ext_articles/ade601f6.ext.json)
+
+---
+
+### Sadly, it is sad to support children to make mistakes - Ven. Dimbulkumbura Wimalama Wimaladu Thera
+
+*2025-09-20 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214800) · `si`
+
+Ven. Dimbulkumbura Wenagala Wanala Chaladhaladhaladhaladhamala, Spowntly disastrous and saddened by parents to many of our children from an early age.
+
+He expressed these views at the annual rewards of the Chandhananda Buddhist School in Asgiriya, Asgiriya.
+
+He further stated that the majority of children in the major schools in Kandy town have been residening addresses in the city of Kandy.
+
+Speaking further, Ven. Dimbulkumbura Wimaladhame Wimaladesh Thera, Ven.
+
+...
+
+[Data](articles/96d3cc9d.json)
+
+[Extended Data](ext_articles/96d3cc9d.ext.json)
+
+---
+
+### Cyberattack disrupts European airports including Heathrow, Brussels
+
+*2025-09-20 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112707/cyberattack-disrupts-european-airports-including-heathrow-brussels) · `en`
+
+A cyberattack on a provider of check-in and boarding systems has disrupted operations at several major European airports including London’s Heathrow, the continent’s busiest, causing flight delays and cancellations on Saturday.
+
+Collins Aerospace, which provides systems for several airlines at airports globally, is experiencing a technical issue that may cause delays for departing passengers, Heathrow Airport said, having warned of delays.
+
+Brussels Airport and Berlin Airport were also affected by the attack, they said in separate statements.
+
+RTX, Collins Aerospace’s parent company, said it had become aware of a “cyber-related disruption” to its software at selected airports, without naming them.
+
+“The impact is limited to electronic customer check-in and baggage drop and can be mitigated with manual check-in operations,” RTX said in an e-mailed statement, adding that it was working to fix the issue as quickly as possible.
+
+...
+
+[Data](articles/2868e08a.json)
+
+[Extended Data](ext_articles/2868e08a.ext.json)
+
+---
+
+### The mountain tiger is saved
+
+*2025-09-20 17:28:28* · [`adalk`](https://www.ada.lk/picture_story/කඳුකර-කොටියෙක්-බේරා-ගැනෙයි/10-418622) · `si`
+
+The Haggala Wildlife Site Site Site Site Site Site Site Site Site Site Site Sites
+
+Wildlife veterinarian Akalanka in charge of the animal management unit of the Randenigala was reportedly damaged due to the age of four and a large number of height.
+
+He said that several medical tests should be conducted to see if the body was damaged.
+
+The Haggala Wildlife Site Site Site Site Site Site Sites have taken steps to direct the animal veterinary unit to the animal veterinary unit to treat a severe effort.
+
+◼️
+
+[Data](articles/3fe08f87.json)
+
+[Extended Data](ext_articles/3fe08f87.ext.json)
+
+---
+
+### Youth from Israel handed over to family relatives
+
+*2025-09-20 17:19:22* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලයේදි-අතරමං-වූ-තරුණයා-පවුලේ-ඥාතීන්ට-භාර-දෙයි/11-418621) · `si`
+
+The youth arrived in Sri Lanka this morning (9/20) this morning.
+
+The young man from Moneragala, a resident of Moneragala, left for Israel on August 9 of this year, and from that day, there was a surrounding suitability.
+
+His family members have lodged a complaint on August 30, while he was found in Jerusalem while investigating that accordingly. He was admitted to Jerustaneous Hospital on September 5, whether his weak health was admitted to the hospital on the 5th of September.
+
+The Israeli embassy officials tried to retain several people in their custody within the short time limit, but it is failed. However, after the revelation of hearing on September 16, he was detained at the embassy.
+
+The embassy was also present with the young man with the young man with his inclement health.
+
+◼️
+
+[Data](articles/b85562f1.json)
+
+[Extended Data](ext_articles/b85562f1.ext.json)
+
+---
+
+### Sinhala Theatre explored in the Seventies
+
+*2025-09-20 17:18:00* · [`islandlk`](http://island.lk/sinhala-theatre-explored-in-the-seventies/) · `en`
+
+Clearing shelves in a small section of my extensive library, I found quite a few that I had not read, placed there when I was tidying up the books in the main library. I had put them in a new place to read later, but had then forgotten about them. It was salutary that they were rediscovered, and I have since spent many happy hours with them.
+
+One that I found fascinating was a booklet in a series produced in the seventies by the Cultural Affairs Department. This was about Theatre in Sri Lanka, and was by A J Gunawardena, who had become a good friend in the decade after I started working for the British Council. He was a polymath and, though an academic in the field of English at the University of Sri Jayewardenepura, he was an authority on the Arts, and indeed was seconded from there to head the Institute of Aesthetic Studies.
+
+...
+
+[Data](articles/1d803b5b.json)
+
+[Extended Data](ext_articles/1d803b5b.ext.json)
+
+---
+
+### Thick from Trump's invested on US investments for tiktak company
+
+*2025-09-20 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214799) · `si`
+
+US President Donald Trump and Chinese President Xi Jing Ping has a telephone conversation.
+
+Donald Trump has stated that in this conversation, Donald Trump has stated that the attention of a number of things.
+
+It is also discussed in the Ticktock Social Media Company belonging to China.
+
+According to foreign media reports, the Chinese president has stated that the transaction has been able to approach the transaction to the Ticktock to carry out the transaction.
+
+In addition, the American duties imposed against China also focused on the telephone conversation.
+
+US President Donald Trump has said that he is expected to visit China in early month.
+
+◼️
+
+[Data](articles/e77be56c.json)
+
+[Extended Data](ext_articles/e77be56c.ext.json)
+
+---
+
+### Horton Plains Awaits Its Floral Spring
+
+*2025-09-20 17:13:00* · [`islandlk`](http://island.lk/horton-plains-awaits-its-floral-spring/) · `en`
+
+As the morning mist lifts off the cloud forests of Horton Plains, a rare spectacle of nature is quietly unfolding—one that occurs only once every twelve years. The usually muted green and brown tones of this highland plateau are being replaced with vibrant hues of purple, blue, and violet. This is the long-awaited Nelu Flower Spring, a breathtaking natural event that is both a biological marvel and a potential eco-tourism goldmine for Sri Lanka.
+
+Often referred to in local folklore as the “flower garden of the gods,” Horton Plains has long held a special place in the hearts of conservationists, ecologists, and nature lovers. But during this rare bloom, it transforms into something even more extraordinary—an immersive floral landscape unlike any other in the country.
+
+...
+
+[Data](articles/836cc239.json)
+
+[Extended Data](ext_articles/836cc239.ext.json)
+
+---
+
+### Airports restored by Immigration and Emigration Department's computer system
+
+*2025-09-20 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214798) · `si`
+
+Katunayake Airport has restored the Immigration and Emigration Departments and the inactive computer system.
+
+It is reported that the computer system has been reopened at 4.15 pm.
+
+Accordingly, 02 hours and 30 minutes were inactive.
+
+The Katunayake airport was launched by the Department of Immigration and Emigration, the Border Computer System, 01.45 pm.
+
+◼️
+
+[Data](articles/111c22a8.json)
+
+[Extended Data](ext_articles/111c22a8.ext.json)
+
+---
+
+### Sanasa Life Insurance Launched ” Heenalantnya” the biggest Consumer Promotion in Sanasa History
+
+*2025-09-20 16:55:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launched-heenalantnya-the-biggest-consumer-promotion-in-sanasa-history/) · `en`
+
+SANASA Life Insurance has accomplished yet another milestone along with the launch of ‘Heenalanthaya,’ the largest consumer promotion in the organization’s history. This promotion is designed to provide SANASA Life Insurance policyholders and those who wish to participate in the grand draw, with numerous opportunities to win prizes.
+
+The promotion also aligns with SANASA’s long-standing ethic of outreach, which is focused on providing accessible and affordable insurance solutions to underserved, low-income communities. This promotion is open to all clients around the country who have embarked on a life insurance cover with SANASA.
+
+Participating in the ‘Heenalanthaya’ draw is an easy and straightforward process. Eligibility requires clients to secure a new life insurance policy and complete three consecutive premium payments. A policyholder who has consistently paid premiums over a longer term in addition to begin eligible, will also increase their chances of winning.
+
+...
+
+[Data](articles/5f53b921.json)
+
+[Extended Data](ext_articles/5f53b921.ext.json)
+
+---
+
+### CEAT Kelani honours top dealers with ‘Autobahn 2.0’ convention & awards gala
+
+*2025-09-20 16:55:00* · [`islandlk`](http://island.lk/ceat-kelani-honours-top-dealers-with-autobahn-2-0-convention-awards-gala-2/) · `en`
+
+A dazzling celebration of partnership, performance and excellence unfolded at the Shangri-La, Colombo, when CEAT Kelani Holdings, Sri Lanka’s largest manufacturer of pneumatic tyres, hosted its annual dealer convention and awards gala with customary panache.
+
+The event brought together the top 145 dealers of the year along with their families, for an unforgettable evening of recognition and camaraderie. They were joined by members of CEAT’s sales, marketing and export teams as well as the Company’s leadership, underscoring the importance of the occasion to the brand’s continuing success story.
+
+Themed ‘Autobahn 2.0,’ the convention embodied the attributes of speed, comfort and control that define CEAT Car Radials, with the German engineering, research and development expertise that fortify the brand’s superior performance on Sri Lankan roads. The event sought to bring this theme to life in every aspect of the celebration.
+
+...
+
+[Data](articles/e8a7f511.json)
+
+[Extended Data](ext_articles/e8a7f511.ext.json)
 
 ---

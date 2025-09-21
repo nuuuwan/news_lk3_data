@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 23:38:54**
+As of **2025-09-22 00:10:18**
 
 ## Newspaper Stats
 
-*Scraped **77,288** Articles*
+*Scraped **77,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,512
 adaderanalk | 9,992
 tamilmirrorlk | 11,621
 virakesarilk | 12,573
-adaderanasinhalalk | 13,502
+adaderanasinhalalk | 13,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,288 (100.0%) of 77,288 articles have been extended.
+77,289 (100.0%) of 77,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### Power supply is an essential services
+
+*2025-09-21 23:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214842) · `si`
+
+All services relating to the supply of electricity have been declared a special gazette notifications in the Presidential directive.
+
+President Anura Kumara Dissanayake has signed the relevant terms today (21).
+
+◼️
+
+[Data](articles/8009a0fd.json)
+
+[Extended Data](ext_articles/8009a0fd.ext.json)
+
+---
 
 ### 42 people received 42 assets and liabilities publication of year 2024
 
@@ -2119,27 +2135,5 @@ But it adds: “Information must be approved for public release by an appropriat
 [Data](articles/e251b004.json)
 
 [Extended Data](ext_articles/e251b004.ext.json)
-
----
-
-### Public servants' salary increases next January
-
-*2025-09-21 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225629) · `ta`
-
-Ports, Shipping, Civil Aviation and Transport Minister Bimal Ratnayake has said that all public servants will be given a pay hike next January.. .
-
-He said this while participating in the development of 25 bus stations.
-
-He said that steps would be taken to pay more wages for the bus stations and that these companies should be transformed into skilled companies to serve the people fully.
-
-He added that the government is planning to appoint 450 drivers and 300 operators, including female employees in the Sri Lanka Transport Board and is currently undergoing interviews.
-
-The Minister also stated that it would be to ensure adequate safety and sanitation facilities before hiring women, and that it would be the initial plan to hire female employees on school buses in the Colombo district.
-
-◼️
-
-[Data](articles/289e62c5.json)
-
-[Extended Data](ext_articles/289e62c5.ext.json)
 
 ---

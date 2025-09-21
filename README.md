@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 20:36:50**
+As of **2025-09-21 21:05:50**
 
 ## Newspaper Stats
 
-*Scraped **77,282** Articles*
+*Scraped **77,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,512
-adaderanalk | 9,991
+adaderanalk | 9,992
 tamilmirrorlk | 11,621
 virakesarilk | 12,573
 adaderanasinhalalk | 13,497
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,282 (100.0%) of 77,282 articles have been extended.
+77,283 (100.0%) of 77,283 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -447,6 +447,26 @@ About 15 fire trucks and Air Force Bell-212 Helicopter were used in firefighting
 [Data](articles/f8cb2cf6.json)
 
 [Extended Data](ext_articles/f8cb2cf6.ext.json)
+
+---
+
+### Duo arrested in connection with assault on German nationals in Unawatuna
+
+*2025-09-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112736/duo-arrested-in-connection-with-assault-on-german-nationals-in-unawatuna) · `en`
+
+Two individuals involved in a tourism sector in Rumassala, Unawatuna, have been arrested by the Tourist Police in connection with an alleged assault on a group of German nationals.
+
+According to statements given by the German tourists to the Tourist Police, a group of individuals arrived in a motor vehicle and assaulted them after parking their own three-wheeler nearby.
+
+The Unawatuna Tourist Police had acted swiftly and arrested the suspects shortly after the incident was reported.
+
+The suspects have been handed over to the Habaraduwa Police and are scheduled to be produced before court tomorrow (22).
+
+◼️
+
+[Data](articles/8d75215f.json)
+
+[Extended Data](ext_articles/8d75215f.ext.json)
 
 ---
 
@@ -2109,25 +2129,5 @@ The SLN further stated that the crew will engage in sightseeing tours during the
 [Data](articles/a6be2c3f.json)
 
 [Extended Data](ext_articles/a6be2c3f.ext.json)
-
----
-
-### Health Minister says that the cause of drugs is not a financial problem
-
-*2025-09-21 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214815) · `si`
-
-Health Minister Dr. Nalinda Jayatissa says that the cause of these drugs is not a financial problem.
-
-Addressing a function in Ampara, the minister said that this situation has arisen due to the problems of the procurement.
-
-The Minister also said that procurement processes have begun to import drugs at present.
-
-"Some of the pharmacist pupil mark is not out, no, no in the market, no pharmace. There's such a problem. We are unlimited in pharmaceuticals unlimited prices and register now. In South Asian countries, some of the market status have been set up and set a range of price. The people who don't like it provide drugs. To SPC we handed over to tenderer. Now there is only 80% to 85% of the work now. The drugs we procured are due after this November. The other thing is the result of switching project stopping projects, instead of spend twice the treasury. There are 17 projects to stop in Sri Lanka. If the end of 2018 or 2022, we will go to 2920 or 2022. "
-
-◼️
-
-[Data](articles/e70bc967.json)
-
-[Extended Data](ext_articles/e70bc967.ext.json)
 
 ---

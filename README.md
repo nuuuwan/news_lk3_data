@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 11:06:58**
+As of **2025-09-21 11:20:37**
 
 ## Newspaper Stats
 
-*Scraped **77,194** Articles*
+*Scraped **77,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,168 @@ dailymirrorlk | 4,733
 islandlk | 4,751
 dailyftlk | 5,485
 adalk | 7,503
-adaderanalk | 9,973
-tamilmirrorlk | 11,600
-virakesarilk | 12,556
+adaderanalk | 9,975
+tamilmirrorlk | 11,606
+virakesarilk | 12,560
 adaderanasinhalalk | 13,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,190 (100.0%) of 77,194 articles have been extended.
+77,190 (100.0%) of 77,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### இலங்கை விருந்தே ரோபோ சங்கரின் உயிரை பறித்தது
+
+*2025-09-21 11:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இலங்கை-விருந்தே-ரோபோ-சங்கரின்-உயிரை-பறித்தது/54-364972) · `ta`
+
+நடிகர் ரோபோ சங்கர் உடல்நல குறைவால் சில நாட்களுக்கு முன்பு உயிரிழந்தார். ஏற்கனவே அதிகமாக மது குடித்ததால் மரணத்தின் விளிம்புவரை சென்று உயிர் பிழைத்த அவர் இப்போது மரணத்தை தழுவியிருப்பது பலருக்கும் சோகத்தை ஏற்படுத்தியிருக்கிறது.
+
+இந்நிலையில் நடிகரும், சங்கரின் நெருங்கிய நண்பருமான காதல் சுகுமார் தனியார் யூடியூப் சேனலுக்கு அளித்த பேட்டியில் பேசியிருக்கும் விஷயங்கள் ஷாக்கை ஏற்படுத்தியிருக்கிறது.
+
+நடிகர் ரோபோ சங்கர் சில வருடங்களுக்கு முன்பு உடல்நல குறைவால் பாதிக்கப்பட்டார். அதிக அளவு அவர் மதுவை தொடர்ந்து குடித்ததால் நோய் வந்து நண்பர்கள், மருத்துவர்கள், குடும்பத்தினர் உதவியோடு அதிலிருந்து மீண்டார். அப்படி மீண்ட அவர் அறவே குடியை நிறுத்தி தனது கரியரில் முழுக்க முழுக்க கவனம் செலுத்தினார். மேலும் மது ஏற்படுத்தும் தீங்கு குறித்து தொடர்ந்து பேசிவந்த அவர்; அதுதொடர்பான விளம்பரங்களிலும் நடித்தார்.
+
+...
+
+[Data](articles/5d5419dd.json)
+
+---
+
+### தாயுடன் அரைகுறை கோலத்தில் கணவன்: மனைவி செய்த சம்பவம்
+
+*2025-09-21 10:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/தாயுடன்-அரைகுறை-கோலத்தில்-கணவன்-மனைவி-செய்த-சம்பவம்/54-364971) · `ta`
+
+இந்தோனேசியாவில் தற்போது திரைப்படம் ஒன்று ரசிகர்களிடையே நல்ல வரவேற்பை பெற்றிருக்கிறது. இந்த திரைப்படம் மாமியார்-மருமகன் இடையேயான முறையற்ற உறவை பற்றியதாகும். இது உண்மை சம்பவத்தின் அடிப்படையில் எடுக்கப்பட்டு என்பதால், திரைப்படம் இந்தோனேசியாவில் பேமஸாகி இருக்கிறது.
+
+இந்தோனேசியாவை சேர்ந்த இளம்பெண் நோர்மா ரிஸ்மா. இவருக்கு கடந்த 2021 ஆம் ஆண்டு ரோஸி என்கிற இளைஞருடன் திருமணம் நடந்தது. திருமணத்துக்கு பின்னர் ஜாவா தீவில் உள்ள செரங் நகரத்தில் அவரது தாய் ரிஹானா உடன், தனது கணவரோடு நோர்மா வசித்து வந்தார்.
+
+திருமணத்துக்குப் பிறகு எல்லாம் சரியாகத்தான் போய்க்கொண்டிருந்தது. நோர்மா வேலைக்குச் சென்று குடும்ப செலவுகளுக்கு உதவி வந்தார். கணவர் ரோஸி அருகில் இருக்கும் சூப்பர் மார்க்கெட்டில் வேலை பார்த்து வந்தார். தாய் ரிஹானா வீட்டில் வேலைகளையும் செய்து இருவருக்கும் உதவியாக இருந்திருக்கிறார்.
+
+...
+
+[Data](articles/052d8eb2.json)
+
+---
+
+### White House says new H-1B visa fee applies only to new applicants
+
+*2025-09-21 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112720/white-house-says-new-h-1b-visa-fee-applies-only-to-new-applicants) · `en`
+
+The White House said on Saturday that the new 100,000-U.S.-dollar fee for H-1B visas will not apply to current holders of valid visas re-entering the United States, following confusion and concern sparked by the Trump administration’s introduction of the measure.
+
+The fee, taking effect on Sunday, “applies only to new visas, not renewals, and not current visa holders,” said White House Press Secretary Karoline Leavitt in a post on X. “H-1B visa holders can leave and re-enter the country to the same extent as they normally would.”
+
+She also said that it’s a “one-time fee that applies only to the petition.”
+
+The H-1B program allows U.S. companies to hire highly skilled foreign workers. U.S. President Donald Trump on Friday signed a proclamation raising the fee that companies pay to sponsor H-1B applicants to 100,000 dollars, saying the move is intended to ensure that the United States brings in highly skilled talent whom American workers cannot replace.
+
+...
+
+[Data](articles/094ee72b.json)
+
+---
+
+### டெங்கு கொசுவை ஒழிக்க கொசு வளர்க்கும் நாடு
+
+*2025-09-21 10:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/டெங்கு-கொசுவை-ஒழிக்க-கொசு-வளர்க்கும்-நாடு/53-364970) · `ta`
+
+‛முள்ளை முள்ளால் எடு' என்பது பழமொழி. அதேபோல் டெங்கு பாதிப்பை ஏற்படுத்தும் ஏடிஸ் வகை கொசுக்களை ஒழிக்க பிரேசில் நாட்டில் விநோத நடவடிக்கை எடுக்கப்பட்டுள்ளது. டெங்கு பாதிப்பை ஏற்படுத்தாத கொசுக்களை உற்பத்தி செய்ய பிரேசிலில் தனி பயோ தொழிற்சாலை உருவாக்கப்பட்டுள்ளது. இங்கு டெங்கு பாதிப்பை ஏற்படுத்தாத கொசுக்களை எப்படி உற்பத்தி செய்யப்படுகிறது? அதன் பின்னணி என்ன? என்பது குறித்த முக்கிய தகவல்கள் வெளியாகி உள்ளது.
+
+ஒவ்வொரு ஆண்டும் இந்தியா உள்பட பல நாடுகளில் டெங்கு காய்ச்சலால் ஏாளமான மக்கள் பாதிக்கப்பட்டு வருகின்றனர். டெங்கு பாதிப்பில் உயிரிழப்புகளும் ஏற்பட்டு வருகின்றன. இந்த டெங்குவால் அதிகம் பாதிக்கப்படும் நாடுகளில் பிரேசிலும் ஒன்றும்.
+
+பிரேசில் நாட்டை எடுத்து கொண்டால் அங்கு 21.2 கோடி மக்கள் வாழ்ந்து வருகின்றனர். பிரேசிலில் கடந்த ஆண்டு டெங்கு காய்ச்சலால் பல லட்சம் பேர் பாதிக்கப்பட்டனர். மொத்தம் 66 லட்சம் பேர் பாதிக்கப்பட்டனர். இதில்6,297 பேர் பலியாகினர்.
+
+...
+
+[Data](articles/c3fd4621.json)
+
+---
+
+### சீன-இலங்கை ஒத்துழைப்பின் முக்கியத்துவத்தை வலியுறுத்தல்
+
+*2025-09-21 10:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-இலங்கை-ஒத்துழைப்பின்-முக்கியத்துவத்தை-வலியுறுத்தல்/175-364969) · `ta`
+
+பிராந்திய கலந்துரையாடல் மற்றும் சீன-இலங்கை ஒத்துழைப்பின் முக்கியத்துவத்தை 12ஆவது Beijing Xiangshan Forumல் பாதுகாப்புச் செயலாளர் எடுத்துரைத்தார்
+
+சீனாவில் நடைபெறும்12வது Beijing Xiangshan Forum உயர்மட்டக் கூட்டத்தில் உரையாற்றிய பாதுகாப்புச் செயலாளர்,எயர்வைஸ் மார்ஷல் சம்பத் தூயகொந்தா (ஓய்வு), உலகளாவிய மற்றும் பிராந்திய பாதுகாப்பு சவால்களை எதிர்கொள்வதில் கூட்டு உரையாடல், பிராந்திய ஒத்துழைப்பு மற்றும் பரஸ்பர மரியாதை ஆகியவற்றின் முக்கியத்துவத்தை வலியுறுத்தினார்.
+
+"ஒவ்வொரு நாட்டின் நியாயமான பாதுகாப்பு தேவைகளை நாம் கவனத்தில் எடுத்துக் கொள்ள வேண்டும், மேலும் கலந்துரையாடல்மற்றும் ஆலோசனை மூலம் நாடுகளுக்கு இடையேயான வேறுபாடுகள் மற்றும் சர்ச்சைகளுக்கு அமைதியான தீர்வுகளைஊக்குவிக்க வேண்டும் என்றார். பிராந்தியவாதத்தை நாம் தொடர்ந்து பின்பற்ற வேண்டும் மற்றும் பிராந்திய பொருளாதார ஒருங்கிணைப்பை சீராக முன்னெடுக்க வேண்டும்" என்றும் அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/b65b5a9f.json)
+
+---
+
+### ’’பானிபூரி’’க்காக வீதியில் அமர்ந்து அழுது போராடிய பெண்
+
+*2025-09-21 10:43:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பானிபூரி-க்காக-வீதியில்-அமர்ந்து-அழுது-போராடிய-பெண்/175-364968) · `ta`
+
+இன்றைய நுகர்வு கலாச்சாரத்தில் மக்கள் அதிகளவு மோசடிகளை சந்திக்கிறார்கள். ஆன்லைன், ஆஃப்லைன் எல்லாவற்றிலும் மக்களை ஏமாற்றும் செயல் அரங்கேறி கொண்டு தான் இருக்கிறது. அதுவும் உணவை வைத்து நடைபெறும் மோசடிகள் மிகவும் அதிகம். குஜராத்தில் 6 பானிபூரிக்கு பதிலாக 4 பானிபூரி மட்டுமே கொடுத்தாக கூறி பெண் ஒருவர் சாலையில் அமர்ந்து போராட்டத்தில் ஈடுபட்ட வீடியோ வைரலாகி வருகிறது. காவல்துறையினர் அந்தப் பிரச்சனையை எப்படி சமாளித்தார்கள்.
+
+வாழ்க்கை என்பதே போராட்டம் தான். மக்களின் அடிப்படை பிரச்சனைகள் தொடங்கி பலவற்றுக்காக போராட்டம் நடத்துவது வழக்கம். சில நேரங்களில் மக்கள் ஆங்காங்கே நூதன போராட்டங்களை நடத்துவார்கள். பல முக்கிய பிரச்சனைகளுக்காக மக்கள் நடத்தும் போராட்டங்கள் கூட பெரியளவு கவனம் ஈர்க்காது. அதேநேரத்தில் சாதாரண விஷயத்திற்கு நடத்தும் போராட்டம் பெரிய கவனத்தை ஈர்க்கும்.
+
+...
+
+[Data](articles/19ad9acc.json)
+
+---
+
+### லுணுகம் வெஹர பகுதியில் சட்டவிரோதமாக கஞ்சா செடிகளை வளர்த்த மூவர் கைது!
+
+*2025-09-21 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225641) · `ta`
+
+லுணுகம் வெஹர பொலிஸ் பிரிவிற்குட்பட்ட நுகேவெவ பகுதியில் சுமார் 3 ஏக்கர் பரப்பளவில், 3 காணிகளில் கஞ்சா செடிகளை வளர்த்த மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸாருக்கு கிடைத்த தகவலுக்கமைய மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது இந்த கைது நடவடிக்கை இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் தனமல்வில பகுதியினைச் சேர்ந்த 30,31 மற்றும் 34 வயதுடையவர்கள் என தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/e6c47511.json)
+
+---
+
+### Special island-wide police raids result in over 700 arrests
+
+*2025-09-21 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112719/special-island-wide-police-raids-result-in-over-700-arrests) · `en`
+
+Sri Lanka Police announced that a total of 714 suspects were arrested yesterday (20) during island-wide operations conducted under the instructions of the Inspector General of Police (IGP) to combat crime and drug-related offenses.
+
+The special operations were carried out covering all regional police stations at the divisional level.
+
+According to police, a total of 28,372 individuals were subjected to inspection during the course of these operations, resulting in the arrest of 714 suspects.
+
+Additionally, 253 warrant holders were apprehended, and 19 individuals were directly identified in connection with ongoing criminal investigations.
+
+Police also took actions to enforce the law against 23 people for reckless driving and 4,495 people for traffic violations.
+
+◼️
+
+[Data](articles/04b6f7bb.json)
+
+---
+
+### ’’இன்று பீரியட்ஸ்: நாளைக்கு வா’’
+
+*2025-09-21 10:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பீரியட்ஸ்-நாளைக்கு-வா/175-364967) · `ta`
+
+பெங்களூரில் பிஜியில் தங்கி பணியாற்றி வரும் 24 வயது நிரம்பிய இளம்பெண்ணை ரூம் புகுந்து இளைஞர் ஒருவர் பலாத்காரம் செய்ய முயன்றார். அந்த பெண் மறுத்ததால் கத்தியால் குத்தியதோடு அவரது ஆடையை கிழித்து ஆபாசமாக செல்போனில் போட்டோ எடுத்து கொண்டதோடு, ஆசைக்கு இணங்கும்படி கூறினார். ஆனால் அந்த பெண் ‛‛இன்னைக்கு பீரியட்ஸ்.. நாளைக்கு வா'' என்று கூறி கத்திக்குத்து காயங்களுடன் தப்பியதோடு பொலிஸில் அளித்த புகாரை தொடர்ந்து அந்த இளைஞர் கைது செய்யப்பட்டுள்ளார்.
+
+பெங்களூர் ஒயிட்பீல்டு பகுதியில் தனியாருக்கு சொந்தமான பிஜி உள்ளது. இங்கு ஆண்கள் மற்றும் பெண்கள் தனித்தனியாக தங்குவதற்கு வசதி உள்ளது. இதனால் இருதரப்பினரும் தங்கி உள்ளனர். இந்த பிஜியில் தனியார் நிறுவனத்தில் அனலிஸ்ட்டாக பணியாற்றும் 24 வயது இளம்பெண் தங்கி உள்ளார்.
+
+இந்த பிஜியில் பாபு என்ற சாய்பாபா சன்னூர் என்பவர் தங்கி உள்ளார். இந்த பாபுவுக்கு, இளம்பெண் மீது விருப்பம் ஏற்பட்டுள்ளது. எப்படியாவது அந்த இளம்பெண்ணை அடைய வேண்டும் என்று அவர் நினைத்துள்ளார்.
+
+...
+
+[Data](articles/df9cfed7.json)
+
+---
 
 ### புறக்கோட்டை தீ: விசாரிக்க குழு நியமனம்
 
@@ -81,6 +229,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d86bc4d2.json)
+
+---
+
+### ஹெம்மாத்தகம பகுதியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை!
+
+*2025-09-21 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225638) · `ta`
+
+ஹெம்மாத்தகம பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்டுள்ளார்.
+
+தனிப்பட்ட குடும்ப தகராறு  காரணமாக ஏற்பட்ட முரண்பாட்டினால் இந்த தாக்குதல் இடம்பெற்றதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+சம்பவத்துடன் தொடர்புடைய 23 வயதுடைய சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர்
+
+◼️
+
+[Data](articles/7b2bae4f.json)
+
+---
+
+### இலங்கையில் பல கட்சி அமைப்பை ஒழிக்க திட்டமா?
+
+*2025-09-21 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225637) · `ta`
+
+70 ஆண்டுகால சாபம் என கடந்த கால அரசாங்கங்களை கடுமையாக விமர்சித்த தேசிய மக்கள் சக்தி அரசாங்கத்திற்கு ஆளும் கட்சியின் உறுப்பினர்கள் சிலர் குறித்து வெளிவந்துள்ள தகவல்கள் பேரிடியாகியுள்ளது.
+
+◼️
+
+[Data](articles/27fd4f58.json)
 
 ---
 
@@ -135,6 +311,24 @@ Another phase of the special series of special series of special operations isla
 [Data](articles/2b5cc516.json)
 
 [Extended Data](ext_articles/2b5cc516.ext.json)
+
+---
+
+### புத்தளத்தில் லொறி மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் பலி!
+
+*2025-09-21 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225633) · `ta`
+
+புத்தளம் - கொழும்பு பிரதான வீதியில், பாலாவிய சந்திக்கு அருகில், புத்தளத்திலிருந்து மதுரங்குளிய நோக்கி சென்ற லொறி ஒன்று மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+இந்த விபத்தில் காயமடைந்த மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும், அதில் பயணித்த மற்றுமொருவரும் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், மோட்டார் சைக்கிள் ஓட்டுநர் சிகிச்சை பலனின்றி உயிரிழந்ததாக தெரிவிக்கப்படுகிறது.
+
+சம்பவத்தில் உயிரிழந்தவர் மதுரங்குளிய பகுதிணை சேர்ந்த 35 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+விபத்துடன் தொடர்புடைய லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், சம்பவம் தொடர்பான விசாரணைகளை புத்தளம் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/c23f3036.json)
 
 ---
 
@@ -1803,235 +1997,5 @@ The animal is known as 'Sea cows' and believes that environmentalists believe th
 [Data](articles/579a7d77.json)
 
 [Extended Data](ext_articles/579a7d77.ext.json)
-
----
-
-### 1,843 fatal accidents this year - 1,960 deaths
-
-*2025-09-20 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214792) · `si`
-
-1,960 people have died of accidents during this year.
-
-The police said that the suspects were killed in the accidents island wide from the first day of January this year.
-
-In addition, 3,708 have been taken after 3,708 serious roads have been reported.
-
-◼️
-
-[Data](articles/1b7528d9.json)
-
-[Extended Data](ext_articles/1b7528d9.ext.json)
-
----
-
-### President Anura Kumara Dissanayake addresses the United Nations General Assembly on the 24th!
-
-*2025-09-20 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225579) · `ta`
-
-President Anura Kumara Dissanayake will address the 79th session of the United Nations General Assembly in New York on September 24 (Wednesday).
-
-According to a list of amended temporary speakers issued by the United Nations, the President will address the afternoon session of the public debate from September 23 to 29.
-
-In his first United Nations General Assembly, Anuragumara Dissanayake is expected to reveal the government's position on Sri Lanka's reform agenda, economic revival initiatives and global issues, including climate action, sustainable development and international cooperation.
-
-In the 2025 public debate, world leaders including the United States, China, India and Brazil will submit statements under the theme of the United Nations General Assembly.
-
-This is the first speech to Sri Lanka and the world organization since the election of Anuragumara Dissanayake earlier this year.
-
-◼️
-
-[Data](articles/03b7942f.json)
-
-[Extended Data](ext_articles/03b7942f.ext.json)
-
----
-
-### 51 lakhs of 2025 to police inspector
-
-*2025-09-20 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214791) · `si`
-
-The police have seized 955 kilograms of heroin with drug raids and the drug, 955 kilograms of heroin.
-
-Police Media Spokesperson, Assist Superintendent of Police F. U. Woodlor said that he was taken into custody by 471 kilograms of Hishr, 29 kilograms of cocaine, 13,773 kilograms of cannabis and 3.5 million.
-
-There are 61 T-56 weapons, 61 pistols and 40 revolvers have been recovered.
-
-Troops of 38 shotings, 273 other suspects have been arrested in connection with shooting incidents from January 2025 to date.
-
-Meanwhile, 5,101,516 persons have been inspected since January 12, the daily police stations, and 104,602 persons were arrested on suspicion.
-
-According to the Police Media Spokesperson, 4630 people have been identified as directly involved in crime.
-
-46,909 drunk drivers have been arrested in these operations and the law has been launched against 3404 drivers regarding retreating.
-
-◼️
-
-[Data](articles/f3702a26.json)
-
-[Extended Data](ext_articles/f3702a26.ext.json)
-
----
-
-### 79th anniversary of the United National Party
-
-*2025-09-20 14:46:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியின்-79ஆவது-ஆண்டு-நிறைவு-விழா/175-364952) · `ta`
-
-The 79th anniversary of the United National Party is celebrated today (20).
-
-An event is organized at the private hotel in Sri Jayawardenapura, "Do not abandon your opinion - we will unite to defeat the constitutional dictatorship".
-
-This was the first public event to attend Ranil Wickremesinghe after being released on bail.
-
-Many politicians and former MPs attended the event. Remble
-
-◼️
-
-[Data](articles/504f3ead.json)
-
-[Extended Data](ext_articles/504f3ead.ext.json)
-
----
-
-### Bus in Nuwara Eliya - lorry accident
-
-*2025-09-20 14:43:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பஸ்-லொறி-விபத்து/76-364951) · `ta`
-
-One person was injured this morning (20) near the Brookesite junction on the Nuwara Eliya -Irakalai main road, police said.
-
-The accident occurred when a private bus and a lorry collided head -on, police said.
-
-The driver of the lorry was injured during the accident, police said the hospital was admitted to the hospital for treatment.. Remble
-
-◼️
-
-[Data](articles/4afa89cf.json)
-
-[Extended Data](ext_articles/4afa89cf.ext.json)
-
----
-
-### Over 1,400 kg ‘Ice’, 955 kg heroin, over 1,700 firearms seized by police in 2025
-
-*2025-09-20 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112702/over-1400-kg-ice-955-kg-heroin-over-1700-firearms-seized-by-police-in-2025) · `en`
-
-According to Sri Lanka Police, raids carried out so far in 2025 have led to the recovery of significant quantities of narcotics and illegal firearms.
-
-The seizures include 955 kilograms of heroin, 1,422 kilograms of ICE (crystal methamphetamine), 471 kilograms of hashish, 29 kilograms of cocaine, and 13,773 kilograms of cannabis (ganja). In addition, police recovered 3.5 million narcotic pills.
-
-During these operations, a total of 1,721 firearms were also seized, including 61 T-56 assault rifles and 62 pistols, said police.
-
-Police Media Spokesperson, ASP F.U. Wootler, revealed these figures during a press briefing held today (20).
-
-He further added that since January 1, 2025, a total of 328 suspects have been arrested in connection with shooting incidents. These include 38 gunmen, 27 motorcyclists, and 263 individuals accused of aiding and abetting such crimes.
-
-...
-
-[Data](articles/13e8a38b.json)
-
-[Extended Data](ext_articles/13e8a38b.ext.json)
-
----
-
-### CEB trade union reps walk out of talks in protest
-
-*2025-09-20 14:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112701/ceb-trade-union-reps-walk-out-of-talks-in-protest) · `en`
-
-It is reported that during the discussion held today (20) between the electricity trade unions and the heads of the Ceylon Electricity Board (CEB), representatives of the trade unions had walked out in protest.
-
-The meeting took place at the CEB headquarters. Trade union representatives staged the walkout in objection to the participation of the Director of Restructuring of the CEB in the discussion.
-
-According to reports, 25 ministry secretaries and three trade union representatives attended the meeting.
-
-It has been decided that the ongoing trade union action, under which electricity workers are adhering strictly to official procedures (“work to rule”), will continue until September 21.
-
-The electricity trade unions further stated that a decision regarding future trade union action will be taken on September 24.
-
-◼️
-
-[Data](articles/d0e350c0.json)
-
-[Extended Data](ext_articles/d0e350c0.ext.json)
-
----
-
-### Health Matters: Fortify the Over Forties
-
-*2025-09-20 14:12:00* · [`islandlk`](http://island.lk/health-matters-fortify-the-over-forties/) · `en`
-
-The human body is continually changing. The human body uses many systems for both daily living and fighting off disease, and over the years, these gradually lose their original youthful powers.
-
-It is very helpful to know how we can reduce or even avoid health problems entirely by taking some simple mineral and vitamin supplements and perhaps by adding a wider variety of foods to our diets. Nutritionists say we need to consume about 30 different vegetables to feed and maintain a healthy micro biome in our stomach. And US doctors say, our micro-biome is a major part of our immune system. Not widely known is that our stomach acid too, declines in strength. This shows up by giving us various symptoms of bloating or indigestion.
-
-The information given here, below, is what the same US medical doctors already mentioned in earlier chapters, are saying about these matters.
-
-...
-
-[Data](articles/2e79a1d4.json)
-
-[Extended Data](ext_articles/2e79a1d4.ext.json)
-
----
-
-### Dead body of a woman killed in mysteriously
-
-*2025-09-20 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214790) · `si`
-
-A woman has been launched in a house in the Kattacollad area in the Kaluwankudy police Division.
-
-The deceased has been identified as a resident of KattaCallar, aged 57.
-
-Preliminary investigations have revealed that the woman had been living alone in her home.
-
-◼️
-
-[Data](articles/9c729284.json)
-
-[Extended Data](ext_articles/9c729284.ext.json)
-
----
-
-### 9,000 complaints have been received for police WhatsApp - Police Media Spokesman
-
-*2025-09-20 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225574) · `ta`
-
-Police Media Spokesperson FU has received 9,000 complaints to the WhatsApp telephone number introduced by the Inspector General of Police Priyantha Weerasuriya to appeal to various crimes in the country.. Woodler said.
-
-It is noteworthy that on August 13, the General Attorney-at-Law Priyantha Weerasuriya, 071- 85988888, informed the public on August 13 that the number of criminal activity in the country could be lodged.
-
-◼️
-
-[Data](articles/53dc80a1.json)
-
-[Extended Data](ext_articles/53dc80a1.ext.json)
-
----
-
-### Ranil’s Triple-R Programme – Relief, Rehabilitation and Reconciliation – and work style
-
-*2025-09-20 14:04:00* · [`islandlk`](http://island.lk/ranils-triple-r-programme-relief-rehabilitation-and-reconciliation-and-work-style/) · `en`
-
-The second leg of the peace process and something which the LTTE always considered of the highest priority, and reiterated at the talks, was the rapid rehabilitation and development of the conflict-affected areas – mainly the Northern and Eastern Provinces. This consisted of eight districts of the 25 in the country. Since the conflict had inevitably spilled over the boundaries of the eight districts, it became necessary to also bring in what was called the adjacent districts of Puttalam, Anuradhapura, Polonnaruwa and Moneragala. Some of these were earlier referred to as ‘border villages’ but since it was necessary to have a neutral term instead of accepting territorial borders, the term ‘adjacent district’ was being increasingly used in the documentation.
-
-...
-
-[Data](articles/d6579703.json)
-
-[Extended Data](ext_articles/d6579703.ext.json)
-
----
-
-### Comment: Arundhati Roy’s Mother Mary Comes to Me
-
-*2025-09-20 14:03:00* · [`islandlk`](http://island.lk/comment-arundhati-roys-mother-mary-comes-to-me/) · `en`
-
-My title reads ‘Comment …’ I dare not claim this article to be a review of Arundhati’s latest book, since she is too unique a writer for me to attempt criticizing.
-
-I start by saying that her latest book is for the general reader, and not a political or protest publication, is a biography of her mother and autobiography of herself. After a long time I got to read a book that I could not put down – it was so stylishly constructed, written in an easy flowing manner and absorbingly interesting: the two lives – her mother’s after her marriage to a tea planter in Assam and hers from childhood.
-
-...
-
-[Data](articles/2fbc70fd.json)
-
-[Extended Data](ext_articles/2fbc70fd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 19:54:33**
+As of **2025-09-21 19:06:31**
 
 ## Newspaper Stats
 
-*Scraped **77,279** Articles*
+*Scraped **77,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,81 +16,21 @@ economynextcom | 4,671
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
-adalk | 7,512
-adaderanalk | 9,990
-tamilmirrorlk | 11,621
+adalk | 7,510
+adaderanalk | 9,985
+tamilmirrorlk | 11,620
 virakesarilk | 12,572
-adaderanasinhalalk | 13,496
+adaderanasinhalalk | 13,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,277 (100.0%) of 77,279 articles have been extended.
+77,270 (100.0%) of 77,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
-
-### උණවටුනේදී ජර්මානු ජාතිකයින් පිරිසකට පහරදීමක්
-
-*2025-09-21 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214836) · `si`
-
-ශ්‍රී ලංකාවේ ආර්ථිකය සවිමත් කරන ප්‍රධානතම ආදායම් මාර්ගයක් වන සංචාරක කර්මාන්තය තුළ මේ වනවිට කැපීපෙනෙන වර්ධනයක් පෙන්නුම් කෙරේ.
-
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ වාර්තා අනුව 2025 ජනවාරි පළමුවැනිදා සිට සැප්තැම්බර් 17 වැනිදා දක්වා කාලය තුළ මෙරටට පැමිණ ඇති විදෙස් සංචාරකයින් ගණන 1,656,916 කි.
-
-මේ වසරේ විදෙස් සංචාරකයින් මිලියන 3 ඉලක්කය සාක්ෂාත් කරගැනීම බලධාරීන්ගේ අරමුණ වේ.
-
-කෙසේවෙතත් එම සුබවාදී අපේක්ෂා බොඳ කරමින් විදෙස් සංචාරකයින්ට පහරදීමේ සහ හිරිහැර සිදුකිරීමේ අවස්ථා රැසක්ම මෙරට සංචාරක කලාපවලින් පසුගිය සමයේ වාර්තා විය.
-
-උණවටුන සංචාරක හෝටලයක සාදයක සිටි යුවළ තුනකින් සමන්විත ජර්මන් ජාතික සංචාරකයන් 6 දෙනෙකු සහ ලාංකිකයින් දෙදෙනෙකු අතර ඊයේ රාත්‍රියේ බහින්බස් වීමක් සිදුව තිබේ.
-
-අනතුරුව ජර්මන් සංචාරකයින් පිරිස යතුරුපැදි දෙකකින් සහ ත්‍රිරෝද රථයකින් එම හෝටලයෙන් පිටව ගොස් තිබුණි.
-
-ඒ අතරවාරයේ බහින්බස් වීමට සම්බන්ධ වූ ලාංකිකයින් දෙදෙනා මෝටර් රථයකින් සංචාරකයින් පසුපස හඹාවිත් ඔවුන්ගේ මඟ හරස් කර විදෙස් සංචාරකයින්ට පහර දී තිබේ.
-
-පහරකෑමට ලක්වූ ජර්මන් ජාතිකයින් සිද්ධිය සම්බන්ධයෙන් උණවටුන සංචාරක පොලිසියට පැමිණිලි කර ඇත.
-
-...
-
-[Data](articles/29029df7.json)
-
----
-
-### Daughter killed by daughter and father Patriarch
-
-*2025-09-21 18:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மகள்-தந்தையின்-விபரீத-முடிவால்-மகள்-பலி-தந்தை-கவலைக்கிடம்/76-365011) · `ta`
-
-The death of a 17 -year -old daughter who was unable to bear the loss of a 17 -year -old daughter has taken place at the Dianilla estate of Madulkalai, Kandy, which is under the Panwila Police Division.
-
-A Yuvati man sighed on the 19th. The tragedy's father cut off his neck.
-
-The body of a 17 -year -old woman has been taken to Kandy Hospital for autopsy. Further investigations are being carried out by the Panwila police.
-
-◼️
-
-[Data](articles/03523284.json)
-
-[Extended Data](ext_articles/03523284.ext.json)
-
----
-
-### මට නාමල්ගේ අනාගතය හදන්න ඕන
-
-*2025-09-21 18:56:08* · [`adalk`](https://www.ada.lk/breaking_news/මට-නාමල්ගේ-අනාගතය-හදන්න-ඕන/11-418635) · `si`
-
-තමන් පොදුජන පෙරමුණ හැර නොගිය බවත් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාගේ අනාගතය නිර්මාණය කිරීමට තමන්ට අවශ්‍ය බවත් හිටපු අමාත්‍ය, පාර්ලිමේන්තු මනත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවැසීය.
-
-තම ජන්ම දිනය සැමරීම වෙනුවෙන් පැවැති උත්සවයකදි මාධ්‍ය යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැස‍ීය. තමන් කිසිම දිනක තනතුරු පසුපස නොගිය බවත් තනතුරු තමන් පසුපස පැමිණි බවත් ඔහු පැවැසීය.
-
-"මම පොහොට්ටුව හැර ගියෙත් නෑ. පොහොට්ටුව මාව හැරගියෙත් නෑ. නාමල් රාජපක්ෂගේ අනාගතය හදන්න මට ඔ්න කරනවා මේ සියලු දෙනා ඒකතු කරන්න. මේ හැරගිය සුනු විසිනු වුණ අය ඒකතු වෙන්න ඔ්න."
-
-◼️
-
-[Data](articles/1cedaf62.json)
-
----
 
 ### British preparing to make a decision that hurts
 
@@ -138,72 +78,6 @@ The inspection should be carried out at a police station or any easier location 
 
 ---
 
-### New directive issued on testing drivers under the influence of narcotics
-
-*2025-09-21 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112740/new-directive-issued-on-testing-drivers-under-the-influence-of-narcotics) · `en`
-
-A new directive outlining the procedure that police officers must follow when inspecting drivers suspected of operating vehicles under the influence of narcotics has been issued by the Ministry of Transport, Highways, Ports, and Civil Aviation.
-
-This new directive has been issued under Section 151 of the Motor Traffic Act and is in effect from September 1.
-
-The directive details the steps police officers should take when there are reasonable grounds to suspect that a driver is under the influence of drugs.
-
-Accordingly, if a police officer reasonably suspects that a driver is under the influence of drugs based on unusual skin reactions, abnormal behavior, the driver’s speech, actions, movements, balance, or appearance of the eyes, the officer is authorized to refer the driver for testing.
-
-...
-
-[Data](articles/6cc85a7d.json)
-
-[Extended Data](ext_articles/6cc85a7d.ext.json)
-
----
-
-### Drug trafficker ‘Potta Amila’ arrested along with three associates
-
-*2025-09-21 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112739/drug-trafficker-potta-amila-arrested-along-with-three-associates) · `en`
-
-A key member of an organized crime gang and known drug trafficker, ‘Potta Amila’ has been arrested by the Moragahahena Police, along with three of his close associates.
-
-The suspects were found in possession of 5,300 narcotic pills and 15,000 milligrams of crystal methamphetamine ‘Ice’, with an estimated street value of approximately Rs. 1 million. Police also seized three mobile phones believed to have been used in drug trafficking activities.
-
-Police noted, one of Potta Amila’s associates was first arrested while arriving in Kumbukawatta, Gonapola to distribute crystal methamphetamine. Based on intelligence received by officers from the Moragahahena Police, the Criminal Investigation Division, and the Special Task Force (STF), an inspection was carried out and he was found to be carrying 2,200 milligrams of Ice.
-
-During interrogation, the suspect revealed that the drugs were given to him by Potta Amila to be handed over to another individual.
-
-...
-
-[Data](articles/7acb9ddc.json)
-
-[Extended Data](ext_articles/7acb9ddc.ext.json)
-
----
-
-### World’s oldest person, 116, meets King Charles
-
-*2025-09-21 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112738/worlds-oldest-person-116-meets-king-charles) · `en`
-
-King Charles III has made a special visit to the world’s oldest person, who told him she remembered “all the girls were in love with you and wanted to marry you”.
-
-Ethel Caterham, 116, lives in a care home in Lightwater, Surrey, and is the last surviving subject of Edward VII.
-
-Mrs Caterham became the oldest living person in April following the death of Brazilian nun Sister Inah Canbarro Lucas at the age of 116.
-
-After previously revealing she would have swapped her quiet birthday celebration to meet the King, the monarch duly obliged a few weeks later.
-
-Born on 21 August 1909, three years before the Titanic disaster, Mrs Caterham has lived through the Russian Revolution, the Great Depression, two world wars and the Covid-19 pandemic.
-
-On her 115th birthday she received a letter from King Charles congratulating her on a “truly remarkable milestone”.
-
-She told the monarch on Thursday: “I remember when your mother crowned you in Caernarfon Castle.”
-
-...
-
-[Data](articles/705986ad.json)
-
-[Extended Data](ext_articles/705986ad.ext.json)
-
----
-
 ### Malta national seizes a place suspected to produce ice
 
 *2025-09-21 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214832) · `si`
@@ -219,30 +93,6 @@ It has also been discovered that the Metalifest (ice) was also uncovered.
 [Data](articles/d1fa7d87.json)
 
 [Extended Data](ext_articles/d1fa7d87.ext.json)
-
----
-
-### Treasurer arrested for sexual abusing three students
-
-*2025-09-21 17:17:29* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-තිදෙනෙක්-ලිංගික-අපයෝජනය-කළ-පාසල්-පාලක-සභාවේ-භාණ්ඩාගාරික-අල්ලයි/11-418634) · `si`
-
-The Treasurer of the Goverquarters of the ruling in Anuradhapura has been sexually abused and sexually abused a school in Anuradhapura and had sexually abused three and 3 and 3rd boys.
-
-The arrested persons were a 62-year-old resident of the Pulaiar junction in Anuradhapura.
-
-The child's complaint was revealed that the child had come to a complaint made by the school's mother to take the minister's wife and later learned about the incident.
-
-According to the police, he had a signaling of a signaling manner with the help of a signaling manner in a number of occasions when the Treasurer who acts as Treasurer in the ruling in the ruling in the road.
-
-The statement further states that the suspect will visit the school regularly, and the door windows will be saved to the same room.
-
-The suspect was arrested and produced before the Anuradhapura Magistrate's Court and remanded until the 29th.
-
-...
-
-[Data](articles/1e09d88c.json)
-
-[Extended Data](ext_articles/1e09d88c.ext.json)
 
 ---
 
@@ -289,22 +139,6 @@ Opposition Leader Sajith Premadasa said this while addressing a meeting held on 
 [Data](articles/8318d640.json)
 
 [Extended Data](ext_articles/8318d640.ext.json)
-
----
-
-### 18-year-old from Malta arrested with materials suspected to be used in manufacturing ‘Ice’
-
-*2025-09-21 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112737/18-year-old-from-malta-arrested-with-materials-suspected-to-be-used-in-manufacturing-ice) · `en`
-
-An 18-year-old from Malta has been arrested with materials suspected to be used in manufacturing Methamphetamine ‘Ice’ during a raid in Weligama, police stated.
-
-The individual has been apprehended during a raid conducted at a location in Weligama suspected to be used for production of ‘Ice’ narcotics, according to police.
-
-◼️
-
-[Data](articles/b1f5bc5b.json)
-
-[Extended Data](ext_articles/b1f5bc5b.ext.json)
 
 ---
 
@@ -495,26 +329,6 @@ In the early stages, before the project is expanded, women will be hired on scho
 [Data](articles/f8534aaf.json)
 
 [Extended Data](ext_articles/f8534aaf.ext.json)
-
----
-
-### Body of a male found near canal in Ibbagamuwa
-
-*2025-09-21 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112734/body-of-a-male-found-near-canal-in-ibbagamuwa-) · `en`
-
-A body of a young male who had died under mysterious circumstances has been discovered near a canal in Ibbagamuwa by the Gokarella Police.
-
-The deceased has been identified as a 21-year-old resident of Ibbagamuwa.
-
-According to police, a complaint had been lodged this morning stating that the young man had been missing since last night.
-
-The individual had been working at a livestock farm and had informed residents that he would return home after completing his shift. However, residents informed police that no contact was received from him after 10:00 p.m. yesterday.
-
-◼️
-
-[Data](articles/aa92cb3e.json)
-
-[Extended Data](ext_articles/aa92cb3e.ext.json)
 
 ---
 
@@ -2125,5 +1939,203 @@ Most of Gaza City’s population is sheltering in those parts.
 [Data](articles/25bb4db6.json)
 
 [Extended Data](ext_articles/25bb4db6.ext.json)
+
+---
+
+### A three -wheeler heading towards Hatton caught fire on the middle of the road!
+
+*2025-09-21 07:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225623) · `ta`
+
+A three -wheeler from Nawalapitiya to Hatton was burnt at 6 pm on Saturday (September 20).
+
+The three -wheeler was set on fire as the driver went to check the technical problem in the three -wheeler.
+
+However, when the residents who observed the fire in the three -wheeler were burning, the fire was completely damaged in the entire part of the three -wheeler when the police tried to extinguish the water.
+
+Police said two people were traveling in a three -wheeler when the fire broke out and no one was injured.
+
+◼️
+
+[Data](articles/4022c5a0.json)
+
+[Extended Data](ext_articles/4022c5a0.ext.json)
+
+---
+
+### Indian ship to the port of Colombo
+
+*2025-09-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214814) · `si`
+
+The Indian Navy's Ins Satipura arrived at the Port of Colombo.
+
+The ship arrived in Sri Lanka yesterday (20) to meet the supplies and service requirements.
+
+The ship, the Sri Lankan Navy, was recognized by the Navy.
+
+The frigate type, which arrived in the island, is 142.5 meters and 403 of the ship.
+
+The Navy also said that the shipping was to visit the most important places in the island during the period of the time of the 'Insath of the island'.
+
+◼️
+
+[Data](articles/47fe285a.json)
+
+[Extended Data](ext_articles/47fe285a.ext.json)
+
+---
+
+### All passenger transport drivers required to obtain ‘PT License’ by December 31 – Transport Minister
+
+*2025-09-21 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112713/all-passenger-transport-drivers-required-to-obtain-pt-license-by-december-31-transport-minister-) · `en`
+
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has stated that it is mandatory to all drivers engaged in passenger transport to obtain a “PT License” (Public Transport License) before December 31.
+
+Transport Minister made this statement during a meeting held in Ampara yesterday (20).
+
+He emphasized that the preparations for the license are underway and will be enforced by the end of this year.
+
+Minister Rathnayake noted that seat belts have now been made compulsory. He acknowledged that some buses were originally manufactured without seat belts but stressed that buses are being modified.
+
+“Some drivers are tying to mislead both the authorities and the police using the strap of the child’s school bag. It is not appropriate to entrust the safety of 50 passengers to such drivers. We have therefore decided that only responsible drivers should be engaged in public transport.”
+
+...
+
+[Data](articles/d654761c.json)
+
+[Extended Data](ext_articles/d654761c.ext.json)
+
+---
+
+### Bangladesh is a sharp win
+
+*2025-09-21 07:01:28* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශයට-තියුණු-ජයක්/9-418625) · `si`
+
+Bangladesh recorded 4 wickets in 4 wickets in the Asian Cup yesterday. This is the first defeat of Sri Lanka in this year's tournament.
+
+Sri Lanka scored 168 runs in order to bat first. In reply, the match won the match for the end of the Bangladesh match.
+
+◼️
+
+[Data](articles/90a0b2ae.json)
+
+[Extended Data](ext_articles/90a0b2ae.ext.json)
+
+---
+
+### Father accidents - five killed in a baby and student
+
+*2025-09-21 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214813) · `si`
+
+Five persons including a 11-day bullymen and a schoolgirl were killed in five areas in several areas.
+
+The accident occurred yesterday at Weerawila, Puttalam, Weliweriya, Pudukudiyatiyappu and Polgahawela Police Divisions.
+
+A lorry was in a three-wheeler and collided with a three-wheeler in the Hambantota area of ​​Hambantota.
+
+The mother, a child and a baby was admitted to Tissamaharama Hospital while receiving treatment at the Tissamaharama Hospital while receiving treatment in the three-wheeler.
+
+The deceased was a 11-day infant, a resident of Tissamaharama
+
+Meanwhile, Yangal Paru-Narammala Junction is an accident in a motorcycle that is not able to control the motorcycle.
+
+Two delegates were killed in admission to the Kurunegala hospital for further treatment at the accident.
+
+The victim is a 16 year old schoolgirl residing in Yatigolleuwalauwa.
+
+Meanwhile, a lorry collided with a motorcycle near the Puttalam-Colombo Paliya Junction.
+
+...
+
+[Data](articles/ffc50d89.json)
+
+[Extended Data](ext_articles/ffc50d89.ext.json)
+
+---
+
+### Trump issues vague threat to Afghanistan over Bagram air base
+
+*2025-09-21 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112712/trump-issues-vague-threat-to-afghanistan-over-bagram-air-base) · `en`
+
+US President Donald Trump on Saturday (Sep 20) threatened Afghanistan with unspecified punishment if the Taliban-controlled country did not “give Bagram Airbase back”.
+
+“If Afghanistan doesn’t give Bagram Airbase back to those that built it, the United States of America, BAD THINGS ARE GOING TO HAPPEN!!!” the 79-year-old leader wrote on his Truth Social platform.
+
+The vague threat comes just days after he raised the idea of the United States retaking control of the base while on a state visit to the United Kingdom.
+
+Bagram, the largest air base in Afghanistan, was a linchpin of the US-led war effort against the Taliban, whose government Washington toppled following the Sep 11, 2001 attacks on the United States.
+
+A massive, sprawling facility, Amnesty International, Human Rights Watch and others have repeatedly raised allegations of systematic human rights abuses by US forces at Bagram, especially pertaining to detainees in Washington’s murky “War on Terror”.
+
+...
+
+[Data](articles/dfbf20e0.json)
+
+[Extended Data](ext_articles/dfbf20e0.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-09-21 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112711/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
+
+Prevailing showery and windy condition over the south western parts of the island is expected to continue today (21), the Department of Meteorology said.
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts. Fairly heavy falls of about 75 mm are likely at some places.
+
+Several spells of showers may occur in Northern and North-western provinces.
+
+Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Central, North-central and North-western provinces and in Trincomalee and Hambantota districts, the Met. Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/dd5cf3e4.json)
+
+[Extended Data](ext_articles/dd5cf3e4.ext.json)
+
+---
+
+### Public transport permit to drivers involved in passenger transportation
+
+*2025-09-21 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214812) · `si`
+
+Transport and Highways Minister Bimmantha says that it is compulsory to obtain the 'Public Transport License' on December 31st December.
+
+The Minister said that the license is being planned by now and public transport drivers must obtain the license at the end of this year.
+
+"Seat Belt now. I admit when some buses were produced, there were no seat belt. But bus modifies can be made up the seat belt. Now the child's school bag is now taking me to deceive me, policemen. These people do not deserve 50 people. We have taken a decision that the searus people who want to come to public transport have to come. So we think that all the driver of people transporting people should take public transport permit. Now we plan plans and get the license that PT is definitely done by December 31 ... "
+
+◼️
+
+[Data](articles/7adf84d6.json)
+
+[Extended Data](ext_articles/7adf84d6.ext.json)
+
+---
+
+### Showers and wind condition further
+
+*2025-09-21 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214811) · `si`
+
+The Department of Meteorology states that the existing rain and windy of the island is further expected.
+
+Showers will occur at several places in the Western, and Sabaragamuwa provinces in the Western, and Sabaragamuwa provinces.
+
+The Department of Meteorology announces that several showers in the North and Wayamba areas could occur.
+
+Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+From the Central, North-Central and Northwestern provinces, in the Central, North-central and Northwestern provinces and the Hambantota district.
+
+The Meteorological Department urges the public to take necessary arrangements to reduce the dangers of lightning and temporary winds with thunderstorms.
+
+◼️
+
+[Data](articles/cf009941.json)
+
+[Extended Data](ext_articles/cf009941.ext.json)
 
 ---

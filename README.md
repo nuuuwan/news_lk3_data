@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 23:20:36**
+As of **2025-09-21 23:38:54**
 
 ## Newspaper Stats
 
@@ -26,53 +26,57 @@ adaderanasinhalalk | 13,502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,285 (100.0%) of 77,288 articles have been extended.
+77,288 (100.0%) of 77,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### 2024 වසරේ වත්කම් හා බැරකම් ප්‍රකාශන ලබානොදුන් පිරිස 42ක්
+### 42 people received 42 assets and liabilities publication of year 2024
 
 *2025-09-21 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214841) · `si`
 
-2025 වසරේ මාර්තු 25 වනදා වනවිට 2024 වසරේ වත්කම් හා බැරකම් ප්‍රකාශන ලබානොදුන් රාජ්‍ය නිලධාරීන්ගේ ලැයිස්තුවක් අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සිය වෙබ් අඩවියේ පළ කර තිබේ.
+A list of public officials in the year 2024, a list of public officials, the Commission on Bribery or Corruption Commission has posted a list of the bribery or corruption.
 
-ඒ, අතරට හිටපු අමාත්‍යවරයෙක්, හිටපු පළාත් ආණ්ඩුකාරවරුන් සිව්දෙනෙක්, හිටපු රාජ්‍ය අමාත්‍යවරුන් 6 දෙනෙකු, හිටපු තානාපතිවරුන් 29 දෙනෙකු සහ අභියාචනාධිකරණ විනිසුරුවරුන් දෙදෙනෙකු ඇතුළත් වේ.
+Among the former minister, four former provincial governors, six former state ministers, 29 former atographers and two judges of Appeal.
 
-එලෙස වත්කම් හා බැරකම් ප්‍රකාශ ලබානොදුන් හිටපු අමාත්‍යවරයා වන්නේ හිටපු ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතාය.
+Former Minister of Fisheries Minister Douglas Devananda is not the former Minister of Assets and Liabilities.
 
-හිටපු ආණ්ඩුකාරවරුන් වන මාර්ෂල් ඔෆ් ද එයාර් ෆෝස් රොෂාන් ගුණතිලක, සෙන්තිල් තොන්ඩමන්, නවීන් දිසානායක, විලියම් ගමගේ යන පිරිස වත්කම් හා බැරකම් ප්‍රකාශ අදාළ දිනය වනවිට ඉදිරිපත් කර තිබුණේ නැත.
+Former Governors, Marshal of Them, Marshan Dissan Gunatilleke, Sethan Dissanayake, Nawen Dissanayake, Nawen Dissanayake and William Gamage had not been submitted by the date.
 
-එමෙන්ම හිටපු රාජ්‍ය අමාත්‍යවරුන් වන ලොහාන් රත්වත්තේ, තාරක බාලසූරිය, ශාන්ත බණ්ඩාර, කාදර් මස්තාන්, සිවනේසතුරෙයි චන්ද්‍රකාන්තන් සහ සුරේන් රාඝවන් යන පිරිස ද එලෙස වත්කම් සහ බැරකම් ප්‍රකාශ ඉදිරිපත් කර නොතිබූ ලැයිස්තුවට අයත් වේ.
+The list of former state ministers Lohan Ratwatte, Shantha Bandara, Shantha Bandara, Kader Masathan and Surenasthurai Chandrakanthan and Suren Ragon were not presenting statements.
 
 ◼️
 
 [Data](articles/f7eb9a55.json)
 
+[Extended Data](ext_articles/f7eb9a55.ext.json)
+
 ---
 
-### ඉන්දියාවට ලකුණු 172ක ඉලක්කයක්
+### India target 172 runs
 
 *2025-09-21 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214840) · `si`
 
-ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ ඉන්දියාවට එරෙහිව අද (21) පැවැත්වෙන තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවාර 20 තුළදී ලකුණු 171/5ක් රැස්කිරීමට සමත් විය.
+The Pakistan scored 171/5 in the 20 overs and scored 171/5 overs.
 
-ඩුබාහිහිදී පැවැත්වෙන මෙම තරගයේ කාසියේ වාසිය දිනාගැනීමට ඉන්දීය නායත සූර්යකුමාර් යාදව් සමත් වූ අතර, ඔහු පළමුව පන්දු යැවීමට තීරණය කළේය.
+The Indian Niladha Jadav was the advantage of winning the coin in Dua.
 
-පාකිස්තාන ඉනිම ඔසවා තැබූ ආරම්භක පිතිකරු සහිබ්සාඩා ෆර්හාන් පන්දු 45කට මුහුණදෙමින් ලකුණු 58ක් රැස්කිරීමට සමත් විය.
+Opener of Pakistani innings was collecting 58 runs in the face of 58 runs.
 
-ඊට අමතරව මොහොමඩ් නවාස් හා සයිම් අයුබ් ලකුණු 21 බැගින් රැස්කළහ.
+In addition, Mohammed Nawaz and Zayim Aub scored 21 runs.
 
-කෙසේ නමුත් ඔවුන්ගේ අත්දැකීම් බහුලම පන්දු යවන්නා වූ ජස්ප්‍රිත් බුම්රා මෙහිදී ලකුණු 45ක් ලබාදුන් අතර, පන්දුවාර 4 තුළදී කිසිදු කඩුල්ලක් දවාගැනීමට ද නොහැකි විය.
+However, their experiences were given 45 runs while their experience was 45 runs.
 
-මෙය බුම්රා ජාත්‍යන්තර විස්සයි20 තරග බිමේ වරට 3කට පසු දැඩිම පහරකෑමකට ලක්වූ අවස්ථාව විය.
+This was a severe blend of Bumra International T20s for 3 times.
 
-අවසන් වරට 2022 වසරේ දී ඔස්ට්‍රේලියාව හමුවේ කිසිදු කඩුල්ලක් නොමැතිව ලකුණු 50ක් ලබාදීමෙන් පසු මේ දක්වා කිසිදු අවස්ථාවක ප්‍රතිවාදීන්ට ලකුණු 29ට වඩා ලබාදී නොතිබුණි.
+The opponents were not given more than 29 runs.
 
 ◼️
 
 [Data](articles/2392b181.json)
+
+[Extended Data](ext_articles/2392b181.ext.json)
 
 ---
 
@@ -100,21 +104,27 @@ Israeli-Sri Lanka Friendship Association President of Sri Lanka. TSEGA Melaku, t
 
 ---
 
-### නීති විරෝධීව ගෙනා බීඩි කොළ තොගයක් සමඟ සැකකරුවෙක් නාවික හමුදා භාරයට
+### Navy bears suspicion with a stock of beady leaves
 
 *2025-09-21 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214838) · `si`
 
-සිලාවතුර, පන්ඩරවේලි වෙරළ ප්‍රදේශයේ ශ්‍රී ලංකා නාවික හමුදාව විසින් සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී නීතී විරෝධී ලෙස මෙරටට රැගෙන ඒමට උත්සාහ කල බීඩි කොළ කිලෝ ග්‍රෑම් 1,197ක පමණ තොගයක්, සබන් කැට 1,765ක් සහ ඩිංගි යාත්‍රාවක් සමඟ සැකකරුවෙකු සිය භාරයට ගෙන තිබේ.
+A suspect has been taken into custody with 1,197 kilograms of bead leaves, which attempted to be brought to Sri Lanka illegally in a special search operation conducted by the Sri Lanka Navy in Silawathura.
 
-මුහුදු මාර්ග ඔස්සේ සිදුකෙරෙන ජාවාරම් ඇතුළු නීති විරෝධී ක්‍රියා මැඩපැවැත්වීම සඳහා නාවික හමුදාව දිවයින වටා වෙරළ හා මුහුදු තීරය ආවරණය වන පරිදි නිරන්තර මුර සංචාර සහ සෝදිසි මෙහෙයුම් සිදු කරනු ලබයි.
+The Navy also operates constant patrols and screenness covering the coast and sea strip around the island, including rackets and illegal activities.
 
-ඒ අනුව, වයඹ නාවික විධානයට අයත් ශ්‍රී ලංකා නාවික නෞකා ථේරපුත්ත ආයතනය මඟින් සිලාවතුර පන්ඩරවේලි වෙරළ ප්‍රදේශයේ 18 වනදා උදෑසන සිදුකළ මෙම විශේෂ සෝදිසි මෙහෙයුමේදී සැකකටයුතු ඩිංගි යාත්‍රාවක් පරීක්‍ෂාවට ලක් කර ඇත.
+Accordingly, Sri Lanka Navy Ship Naval Saviya, Sri Lanka Naval Ship Naval Saviya, which was conducted on the 18th of the Silawathura area, has been inspected at the 18th.
 
-එහිදි, එම ඩිංගි යාත්‍රාව තුල තිබී නීතී විරෝධී ලෙස රට තුළට රැගෙන ඒමට උත්සාහ කල, බීඩි කොළ කිලෝ ග්‍රෑම් 485ක් පමණ තොගයක් සහ සබන් කැට 706ක් සමඟ සැකකරුවෙකු සහ එම ඩිංගි යාත්‍රාව නාවික හමුදා භාරයට ගැනීමට කටයුතු කර තිබේ.
+A suspicion of 485 kilograms of beed leaves and 706 soap cubes have been taken into custody with 706 soap cubes.
 
-...
+Also, during the search investigation, another 712 kilograms hidden in the shore and 1,059 soaps were taken into custody.
+
+The suspect has been identified as a resident of Kalpitiya, the suspect, who was taken into custody by the Navy.
+
+◼️
 
 [Data](articles/447771cc.json)
+
+[Extended Data](ext_articles/447771cc.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 17:58:03**
+As of **2025-09-21 18:19:25**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 13,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,267 (100.0%) of 77,268 articles have been extended.
+77,268 (100.0%) of 77,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### අයිස් මත්ද්‍රව්‍ය නිපද වූ බවට සැකකරන ස්ථානයක් වටලා මෝල්ටා ජාතිකයෙක් අත්අඩංගුවට
+### Malta national seizes a place suspected to produce ice
 
 *2025-09-21 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214832) · `si`
 
-වැලිගම ප්‍රදේශයේ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය සඳහා භාවිතා කළ බවට සැක කෙරෙන ස්ථානයක් වටලා විදෙස් ජාතික පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+An overseas national has been arrested for a place of use of the Ice drug in Weligama area.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 18 හැවිරිදි  මෝල්ටා ජාතිකයෙකු බව සඳහන් වේ.
+It is said that the suspects were an 18-year-old Malta.
 
-එම ස්ථානයේ තිබී මෙතම්ෆෙටමින් (අයිස්) නිෂ්පාදනය සඳහා භාවිතා කළ බවට සැක කෙරෙන ද්‍රව්‍ය ද සොයා ගෙන ඇත.
+It has also been discovered that the Metalifest (ice) was also uncovered.
 
 ◼️
 
 [Data](articles/d1fa7d87.json)
+
+[Extended Data](ext_articles/d1fa7d87.ext.json)
 
 ---
 

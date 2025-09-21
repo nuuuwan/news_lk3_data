@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 21:20:29**
+As of **2025-09-21 21:38:05**
 
 ## Newspaper Stats
 
-*Scraped **77,283** Articles*
+*Scraped **77,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 7,512
 adaderanalk | 9,992
 tamilmirrorlk | 11,621
 virakesarilk | 12,573
-adaderanasinhalalk | 13,497
+adaderanasinhalalk | 13,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,283 (100.0%) of 77,283 articles have been extended.
+77,283 (100.0%) of 77,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### ප්‍රබල රටවල් 3ක් පලස්තීනය රාජ්‍යයක් ලෙස නිල වශයෙන් පිළිගනියි
+
+*2025-09-21 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214837) · `si`
+
+එක්සත් රාජධානිය, කැනඩාව සහ ඔස්ට්‍රේලියාව විසින් පලස්තීනය රාජ්‍යයක් ලෙස නිල වශයෙන් පිළිගෙන ඇත.
+
+එම පියවර ගත් පළමු G7 රට ලෙස කැනඩාව ප්‍රමුඛස්ථානයේ පසුවන අතර, ඕස්ට්‍රේලියාව සහ එක්සත් රාජධානිය ද ඉන්පසුව පලස්තීනය රාජ්‍යයක් ලෙස පිළිගන්නා බව නිවේදනය කර ඇති බව විදෙස් මාධ්‍ය පවසයි.
+
+කෙසේවෙතත් ඊශ්‍රායල සහ අමෙරිකාව මෙම තීරණයට සිය අප්‍රසාදය පල කර තිබේ.
+
+◼️
+
+[Data](articles/63c3ce20.json)
+
+---
 
 ### Germans assaulting a group of German people in Unawatuna
 
@@ -2109,25 +2125,5 @@ In the Ampara and Batticaloa districts of the Northern and Northwestern province
 [Data](articles/15ec0ab2.json)
 
 [Extended Data](ext_articles/15ec0ab2.ext.json)
-
----
-
-### Indian naval ship ‘INS SATPURA’ arrives at Colombo Port
-
-*2025-09-21 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112715/indian-naval-ship-ins-satpura-arrives-at-colombo-port-) · `en`
-
-The Indian Naval Ship ‘INS SATPURA’ has arrived at the Port of Colombo for replenishment and service requirements yesterday (20).
-
-The ship has been welcomed by the Sri Lanka Navy (SLN) in accordance with the long-standing naval traditions, SLN said.
-
-‘INS SATPURA’ is a 142.5 meters long Frigate which is manned by a crew of 403 personnel.
-
-The SLN further stated that the crew will engage in sightseeing tours during their stay in the island.
-
-◼️
-
-[Data](articles/a6be2c3f.json)
-
-[Extended Data](ext_articles/a6be2c3f.ext.json)
 
 ---

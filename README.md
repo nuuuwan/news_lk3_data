@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 01:38:07**
+As of **2025-09-22 01:55:51**
 
 ## Newspaper Stats
 
-*Scraped **77,296** Articles*
+*Scraped **77,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,86 @@ dailyftlk | 5,485
 adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,623
-virakesarilk | 12,576
+virakesarilk | 12,580
 adaderanasinhalalk | 13,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,296 (100.0%) of 77,296 articles have been extended.
+77,296 (100.0%) of 77,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### சபாநாயகர் மீது நம்பிக்கையில்லா பிரேரணை ; இறுதி முடிவு எதிர்க்கட்சித் தலைவர்களுடனான சந்திப்பில்
+
+*2025-09-22 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225693) · `ta`
+
+சபாநாயகர் ஜகத் விக்கிரமரத்னவுக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவது குறித்து இறுதி தீர்மானம் ஏதும் எடுக்கப்படவில்லை. இவ்வாரம் நடைபெறவுள்ள எதிர்க்கட்சித் தலைவர்களுடனான சந்திப்பின் போது இறுதி தீர்மானம் எடுக்கப்படும் என்று ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+சபாநாயகர் ஜகத் விக்கிரமரத்னவின் செயற்பாடுகள் பாராளுமன்ற கோட்பாடுகளுக்கும்,ஜனநாயகத்தின் அடிப்படை அம்சங்களுக்கும் முற்றிலும் விரோதமானது. பாராளுமன்றத்தின் ஜனநாயகத்தையும், எதிர்க்கட்சிகளின் உரிமைகளையும் அவர் பாதுகாப்பதில்லை. ஆளும் கட்சிக்கு சார்பாகவே செயற்படுகிறார்.
+
+சபாநாயகர் தனது பதவிக்கான அதிகாரம் மற்றும் பொறுப்பினை அறியாமல் உள்ளரா என்பது சந்தேகமாகவுள்ளது. சபைமுதல்வர் பிமல் ரத்நாயக்கவே சபாநாயகரை இயக்குகிறார்.
+
+...
+
+[Data](articles/df431787.json)
+
+---
+
+### கட்டுநாயக்க விமான நிலையத்தின் கழிப்பறையில் 18.47 மில்லியன் பெறுமதியான போதைப்பொருள் மீட்பு
+
+*2025-09-22 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225692) · `ta`
+
+கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலைய  வருகை முனையத்தில் உள்ள ஆண்களுக்கான கழிப்பறையிலிருந்து ரூ.18.47 மில்லியனுக்கும் அதிக மதிப்புள்ள குஷ் மற்றும் ஹஷிஷ்  போதைப்பொருள்  ஞாயிற்றுக்கிழமை மீட்கப்பட்டுள்ளது.
+
+கழிப்பறைக்குள் சந்தேகத்திற்கிடமான பல பொதிகளை தூய்மை பணியாளர் ஒருவர் கவனித்து விமான நிலைய சுங்க, போதைப்பொருள் தடுப்பு அதிகாரிகளுக்கு தகவல் அளித்த நிலையில் அவை அதிகாரிகளால்  கண்டுபிடிக்கப்பட்டன.
+
+சோதனையின் போது, பொதிகளுக்குள் மறைத்து வைக்கப்பட்டிருந்த 422 கிராம் குஷ் கஞ்சா மற்றும் 1.262 கிலோகிராம் ஹஷிஷ் போதைப்பொருள் ஆகியவற்றை விமான நிலையத்தில் நிறுத்தப்பட்டுள்ள பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினரால் போதைப்பொருள் பறிமுதல் செய்யப்பட்டது.
+
+இந்நிலையில் கட்டுநாயக்க விமான நிலைய பொலிஸார் போதைப்பொருள் தடுப்புப் பிரிவினரால் போதைப்பொருட்களை கொண்டு வந்தவர்கள், அவற்றை அந்த பகுதி வழியாக கடத்த முயற்சித்ததற்குப் பொறுப்பானவர்கள் குறித்து விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d31d064b.json)
+
+---
+
+### மொரகஹஹேனையில் ‘பொட்ட அமில’ மற்றும் மூன்று நெருங்கிய சகாக்கள் கைது
+
+*2025-09-22 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225691) · `ta`
+
+ஒழுங்கமைக்கப்பட்ட குற்ற கும்பல் உறுப்பினரும் போதைப்பொருள் கடத்தல்காரருமான 'பொட்ட அமில' மற்றும் அவரது நெருங்கிய சகாக்கள்  மூவர் ஞாயிற்றுக்கிழமை (21)  மொரகஹஹேன பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+அவர்களிடமிருந்து சுமார் 1 மில்லியன் ரூபாய் பெறுமதியான 5,300 போதை மாத்திரைகள் மற்றும் 15,000 மில்லிகிராம் ஐஸ் போதைப்பொருள் ஆகியவற்றையும் பொலிஸார் கைப்பற்றியுள்ளனர்.  மோசடிக்காக பயன்படுத்தப்பட்ட 3 கையடக்கத் தொலைபேசிகளையும் பொலிஸார் பறிமுதல் செய்துள்ளனர்.
+
+சந்தேக நபரின் நெருங்கிய நண்பர் ஒருவர் கோனபொல கும்புகவத்த பகுதியில் ஐஸ் போதைப்பொருள் விநியோகிக்க வருவதாக மொரகஹஹேன பொலிஸாருடன் இணைக்கப்பட்ட புலனாய்வுப் பிரிவு மற்றும் விசேட பணியக அதிகாரிகளுக்குக் கிடைத்த தகவலின் அடிப்படையில், சந்தேக நபர் கைது செய்யப்பட்டு,சோதனை செய்த போது அவரது வசமிருந்து 2,200 மில்லிகிராம் ஐஸ் போதைப்பொருள் கண்டுபிடிக்கப்பட்டது.
+
+...
+
+[Data](articles/1172f4f0.json)
+
+---
+
+### தங்காலை- நெடோல்பிட்டியவில் காணியொன்றில் கண்டுபிடிக்கப்பட்ட பொருட்கள் அறிக்கை பொலிஸாரிடம் இவ்வாரம் கையளிக்கப்படும் - தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு அதிகார சபை
+
+*2025-09-22 01:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225690) · `ta`
+
+தங்காலை,நெடோல்பிட்டியவில் காணியொன்றில் கண்டுபிடிக்கப்பட்ட பொருட்கள் குறித்த சோதனை அறிக்கையை இவ்வாரம் பொலிஸாரிடம் கையளிக்க எதிர்பார்த்துள்ளதாக தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு அதிகார சபை தெரிவித்துள்ளது.
+
+இந்தோனேசியாவில் கைது செய்யப்பட்டு  நாட்டுக்கு அழைத்து வரப்பட்ட பாதாளக் குழுக்களினரால் வெளிப்படுத்தப்பட்ட தகவல்களின் அடிப்படையில்,மித்தெனிய பகுதியில் காணியொன்றில் இருந்து ஐஸ் தயாரிக்கப் பயன்படுத்தப்பட்டதாகக் கூறப்படும் இரசாயனங்கள் கண்டுபிடிக்கப்பட்டன.
+
+அதைத் தொடர்ந்து, தங்காலை நெடோல்பிட்டிய பகுதியிலும் கந்தானை பகுதியிலும் இதேபோன்ற பொருட்கள் கண்டுபிடிக்கப்பட்டதுடன், அந்த பொருட்களின் மாதிரிகள் சோதனைக்காக தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு அதிகாரசபை மற்றும் அரச இரசாயன பகுப்பாய்வாளர் திணைக்களதிடமும் ஒப்படைக்கப்பட்டன.
+
+அதன்படி, மித்தெனிய பகுதியில் கண்டுபிடிக்கப்பட்ட பொருட்களில் மெத்தம்பேட்டமைன் என்ற ஐஸ் இருப்பதை தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு சபை மற்றும் அரச இரசாயன பகுப்பாய்வாளர் திணைக்களமும் ஏற்கனவே உறுதிப்படுத்தியுள்ளன.
+
+...
+
+[Data](articles/5e72a773.json)
+
+---
 
 ### Declaration of CEB as essential service
 
@@ -2067,83 +2135,5 @@ The officials of the Katunayake Airport Police are conducting further investigat
 [Data](articles/ef6c980e.json)
 
 [Extended Data](ext_articles/ef6c980e.ext.json)
-
----
-
-### Poetry Fire: Appointment of Committee to Investigate
-
-*2025-09-21 10:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டை-தீ-விசாரிக்க-குழு-நியமனம்/175-364966) · `ta`
-
-A team has been appointed to investigate a fire that broke out on Saturday (20) at an electrical shop on 1st Cross Street, Pettah Fort.. The committee is headed by Sunil Vatagala, Deputy Minister of Public Security, Prosecutor.
-
-The fire, which was on Saturday afternoon (20), was brought under control after a major action that lasted for nearly 12 hours.
-
-The firefighters of the Colombo Municipal Fire Department, the Sri Lanka Air Force and the Navy were sent to the scene.
-
-About 15 firefighters and an Air Force Bell-212 helicopter were used in this operation to extinguish the fire and prevent the spread of fire to nearby buildings.
-
-◼️
-
-[Data](articles/18651979.json)
-
-[Extended Data](ext_articles/18651979.ext.json)
-
----
-
-### Luxury bus accident in Batticaloa; Trio injured
-
-*2025-09-21 10:23:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-சொகுசு-பஸ்-விபத்து-மூவர்-படுகாயம்/175-364964) · `ta`
-
-Kattankudy police said that three persons were admitted to the Batticaloa Teaching Hospital after being injured in a massive accident on Sunday (21st) in Kattankudy area on the main road in Batticaloa.
-
-A lorry from Colombo at around 4 am was parked on the main road from Kattankudi, while a luxury bus was traveling from Colombo to Akkaraipattu.
-
-Following the accident, a three -wheeler collided with a bus on the main road.
-
-At the same time, the driver of the bus was admitted to the Batticaloa Teaching Hospital after the driver of the bus was injured. Kattankudy police are conducting further investigations.
-
-◼️
-
-[Data](articles/ee03fa18.json)
-
-[Extended Data](ext_articles/ee03fa18.ext.json)
-
----
-
-### Israel has no right to invade countries - Iranian president
-
-*2025-09-21 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214818) · `si`
-
-Iranian President Masu Peskian has said that Israel has no right to invade the rest of the countries.
-
-He has said this despite condemning the plan of the Israeli Israeli Israeli, Benjamin Netanyahu, which is to be implemented to include neighboring countries.
-
-The actions of the Israelites have also been criticized in the Middle East region.
-
-He added that the President of Iranian was also criticized by the President of Iranian and the President of Iranian illegal, unfair and inhuman activities.
-
-◼️
-
-[Data](articles/d86bc4d2.json)
-
-[Extended Data](ext_articles/d86bc4d2.ext.json)
-
----
-
-### A man killed in a sharp weapon in Hemmatagama
-
-*2025-09-21 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225638) · `ta`
-
-A man has been assassinated by a sharp weapon in the area of ​​the Hemmatagama police division.
-
-Police say the attack was caused by a personal family dispute.
-
-A 23 -year -old suspect has been arrested in connection with the incident and police are conducting further investigations.
-
-◼️
-
-[Data](articles/7b2bae4f.json)
-
-[Extended Data](ext_articles/7b2bae4f.ext.json)
 
 ---

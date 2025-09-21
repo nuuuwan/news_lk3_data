@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 01:05:46**
+As of **2025-09-22 01:20:35**
 
 ## Newspaper Stats
 
-*Scraped **77,291** Articles*
+*Scraped **77,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,32 @@ dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
 adalk | 7,512
-adaderanalk | 9,992
+adaderanalk | 9,994
 tamilmirrorlk | 11,623
-virakesarilk | 12,573
+virakesarilk | 12,576
 adaderanasinhalalk | 13,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,290 (100.0%) of 77,291 articles have been extended.
+77,291 (100.0%) of 77,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### CEB அத்தியாவசிய சேவையாக பிரகடனம்
+### Declaration of CEB as essential service
 
 *2025-09-22 00:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/CEB-அத்தியாவசிய-சேவையாக-பிரகடனம்/150-365026) · `ta`
 
-மின்சாரம் தொடர்பான அனைத்து சேவைகளையும் அத்தியாவசிய சேவைகளாக ஜனாதிபதி அனுரகுமார திசாநாயக்க அறிவித்துள்ளார்.
+President Anuragumara Dissanayake has announced all the services related to electricity as essential services.
 
 ◼️
 
 [Data](articles/dbeb8a98.json)
+
+[Extended Data](ext_articles/dbeb8a98.ext.json)
 
 ---
 
@@ -79,6 +81,22 @@ President Anura Kumara Dissanayake has signed the relevant terms today (21).
 [Data](articles/8009a0fd.json)
 
 [Extended Data](ext_articles/8009a0fd.ext.json)
+
+---
+
+### Airport cyberattack disrupts more flights across Europe
+
+*2025-09-21 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112743/airport-cyberattack-disrupts-more-flights-across-europe) · `en`
+
+Fallout from a cyberattack that disrupted check-in systems at several European airports extended into a second full day on Sunday, as passengers faced dozens of canceled and delayed flights — and the impact poised to worsen for at least one major airport.
+
+Brussels Airport, seemingly the hardest hit, said it asked airlines to cancel nearly 140 departing flights scheduled for Monday because a U.S.-based software system provider “is not yet able to deliver a new secure version of the check-in system.” The airport said 25 outbound flights were canceled on Saturday and 50 on Sunday.
+
+Starting late Friday, airports in Berlin, Brussels and London were hit by disruptions to electronic systems that snarled up check-in and sent airline staffers trying options like handwriting boarding passes or using backup laptops. Many other European airports were unaffected.
+
+...
+
+[Data](articles/3ffa5002.json)
 
 ---
 
@@ -130,6 +148,24 @@ The opponents were not given more than 29 runs.
 
 ---
 
+### India’s ED to question jailed Sri Lankan woman in LTTE funding case
+
+*2025-09-21 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112742/indias-ed-to-question-jailed-sri-lankan-woman-in-ltte-funding-case) · `en`
+
+The Enforcement Directorate of India (ED) has secured permission from a Chennai court to interrogate Sri Lankan national, Letchumanan Mary Franciska, in connection with a money laundering probe linked to an alleged attempt to revive the banned terrorist organisation Liberation Tigers of Tamil Eelam (LTTE), Indian media reported.
+
+Franciska, who has been lodged at Puzhal Central Prison since her arrest in October 2021, will be questioned for two days inside the prison premises, NDTV reports.
+
+The court, in its order earlier this week, described the matter as a “peculiar case” and allowed Enforcement Directorate (ED) officials to carry laptops, printers, and other necessary equipment during the interrogation.
+
+According to investigators, Franciska entered India in December 2019 on a tourist visa. She is accused of obtaining fraudulent identity documents, attempting to access dormant bank accounts, and channeling funds allegedly meant to aid the regrouping of LTTE cadres.
+
+...
+
+[Data](articles/c87612a2.json)
+
+---
+
 ### Good news for Sri Lankans who are missing in Israel
 
 *2025-09-21 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214839) · `si`
@@ -151,6 +187,54 @@ Israeli-Sri Lanka Friendship Association President of Sri Lanka. TSEGA Melaku, t
 [Data](articles/04cf5c8d.json)
 
 [Extended Data](ext_articles/04cf5c8d.ext.json)
+
+---
+
+### போதைப்பொருள் கடத்தல் மற்றும் சட்டவிரோத மீன்பிடி பாதகங்கள் குறித்து மீனவர்களுக்கு கடற்படை அறிவுரை
+
+*2025-09-21 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225689) · `ta`
+
+போதைப்பொருள் கடத்தல் மற்றும் சட்டவிரோத மீன்பிடி நடவடிக்கைகளின் பாதகமான விளைவுகள் குறித்தும்,தற்போதைய சட்டம் குறித்தும் மீனவர்களுக்கு கடற்படையினால் தெளிவுப்படுத்தப்பட்டது.
+
+போதைப்பொருள் கடத்தல் மற்றும் சட்டவிரோத மீன்பிடி நடவடிக்கைகளை எதிர்த்து போராடுவது குறித்து விழிப்புணர்வை ஏற்படுத்தும் வகையில் நீர்கொழும்பு பகுதியில் உள்ள மீனவ சமூகத்தினருக்கு சிறப்பு தெளிவுப்படுத்தல் நிகழ்வு கடந்த வாரம் அப்பகுதியில் உள்ள மீனவ சங்கங்களின் பிரதிநிதிகளின் பங்கேற்புடன் நடைபெற்றது.
+
+அதன்படி போதைப்பொருள் கடத்தல் மற்றும் சட்டவிரோத மீன்பிடி நடவடிக்கைகளின் பாதகமான விளைவுகள் குறித்தும்,தற்போதைய சட்டம் குறித்தும் மீனவர்களுக்கு இதன்போது தெளிவுப்படுத்தப்பட்டது.சட்டரீதியில் மீன்பிடி நடவடிக்கைகளில் ஈடுபடும் மீனவர்கள் எதிர்கொள்ளும் பிரச்சினைகள் மற்றும் அவர்களின் கோரிக்கைகள் குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/ae099714.json)
+
+---
+
+### நிர்ணய விலைக்கு மாறாக அதிக விலைக்கு அரிசியை விற்றால் 1- 5 இலட்சம் வரை அபராதம், 5 மாதங்கள் சிறை தண்டனை - நுகர்வோர் அதிகார சபை
+
+*2025-09-21 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225688) · `ta`
+
+ஒரு தனிப்பட்ட வர்த்தகர்  நிர்ணய விலைக்கு மாறாக அதிக விலைக்கு அரிசியை விற்றதாகக் கண்டறியப்பட்டால், அவருக்கு 100 000 முதல் 500,000 ரூபாய் வரை அபராதம் அல்லது 5 மாதங்கள் சிறைத்தண்டனை அல்லது இரண்டும் விதிக்கப்படலாம் என்று நுகர்வோர் விவகார அதிகாரசபை எச்சரிக்கை விடுத்துள்ளது. கடந்த வாரத்தில் மாத்திரம்   அரிசி தொடர்பான 70 சுற்றிவளைப்புகளை நடத்தியுள்ளதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
+
+அதிக விலைக்கு அரிசி விற்பனை செய்வது தொடர்பில் தொடர்பில் சுற்றிவளைகள் மேற்கொள்ளப்பட்டுள்ளன.அவற்றில் 55 சுற்றிவளைப்புகள் அரிசி விற்பனை தொடர்பிலும் ஏனைய 15 சுற்றிவளைப்புகள் களஞ்சியப்படுத்தல் சுற்றிவளைப்புகளும் அடங்கும்.
+
+அரிசியை பதுக்கி வைத்தல், விலைகளை காட்சிப்படுத்தாமை மற்றும் நிபந்தனைகளுடன் அரிசியை விற்பனை செய்தல் போன்ற குற்றங்கள் அந்த சுற்றிவளைப்புகளில் அடங்குவதாக தெரிவிக்கப்படுகின்றது.
+
+...
+
+[Data](articles/1cc28aae.json)
+
+---
+
+### வாழைச்சேனை கிண்ணியடி வாவியில் பாரிய கசிப்பு உற்பத்தி நிலையம் முற்றுகை – இருவர் கைது
+
+*2025-09-21 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/225687) · `ta`
+
+வாழைச்சேனை கிண்ணியடி வாவியின் நடுவில் உள்ள மேட்டுநில காட்டு பகுதியில் இயங்கி வந்த பாரிய கசிப்பு உற்பத்தி நிலையம் ஒன்றை கிழக்கு மாகாண குற்றப்பிரிவு பொலிசார் ஞாயிற்றுக்கிழமை (21)  பகல் முற்றுகையிட்டு கசிப்பு உற்பத்தியில் ஈடுபட்ட இருவரை கைது செய்ததுடன் 6 பெரல் கொண்ட 1080 லீற்றர் கோடா, 30 லீற்றர் கசிப்பு என்பவற்றை மீட்டு ஒப்படைத்துள்ளதாக வாழைச்சேனை பொலிசார் தெரிவித்தனர்.
+
+கிழக்கு மாகாண குற்றப்பிரிவு பொலிசாருக்கு கிடைத்த தகவல் ஒன்றிணை அடுத்து குறித்த பகுதிக்கு சம்பவ தினமான இன்று பகல் கிழக்கு மாகாண குற்றப் பிரிவு பொலிஸ் பொறுப்பதிகாரி  பொலிஸ் பரிசோதகர் ரி. மேனன் தலைமையிலான பொலிஸ் குழுவினர் தோணி மூலம் வாவியில் பிரயாணித்து குறித்த பகுதியை சுற்றிவளைத்து முற்றுகையிட்டனர்.
+
+இதன்போது அங்கு சட்டவிரோத கசிப்பு உற்பத்தில் ஈடுபட்டுக் கொண்டிருந்த இருவரை கைது செய்ததுடன் 6 பெரல் கொண்ட 1080 லீற்றர் கோடா, 30 லீற்றர் கசிப்பும் மற்றும் உற்பத்தி உபகரணங்களை மீட்டு வாழைச்சேனை பொலிசாரிடம் ஒப்படைத்துள்ளனர்.
+
+...
+
+[Data](articles/55f31f73.json)
 
 ---
 
@@ -2045,93 +2129,5 @@ A 23 -year -old suspect has been arrested in connection with the incident and po
 [Data](articles/7b2bae4f.json)
 
 [Extended Data](ext_articles/7b2bae4f.ext.json)
-
----
-
-### Plan to eradicate many party organizations in Sri Lanka?
-
-*2025-09-21 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225637) · `ta`
-
-The reports of some members of the ruling party for the national people's power government, which have strongly criticized past governments as a 70 -year -old curse, has revealed.
-
-◼️
-
-[Data](articles/27fd4f58.json)
-
-[Extended Data](ext_articles/27fd4f58.ext.json)
-
----
-
-### Ooty ... feed ...
-
-*2025-09-21 09:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஊட்டவா-ஊட்டவா/62-364962) · `ta`
-
-◼️
-
-[Data](articles/02da1bed.json)
-
-[Extended Data](ext_articles/02da1bed.ext.json)
-
----
-
-### 21-year-old youth attacked to death over personal dispute
-
-*2025-09-21 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112718/21-year-old-youth-attacked-to-death-over-personal-dispute) · `en`
-
-A youth has been attacked to death with a sharp weapon in the Balawathgama area of the Hemmathagama Police Division.
-
-The deceased has been identified as a 21-year-old resident of the Devanagala area.
-
-Preliminary investigations indicate that the killing resulted from a personal dispute.
-
-His body has been placed at the Hemmathagama Hospital morgue.
-
-A 23-year-old suspect in connection with the incident has been arrested, and further investigations are being carried out by the Hemmathagama Police.
-
-◼️
-
-[Data](articles/da4008a5.json)
-
-[Extended Data](ext_articles/da4008a5.ext.json)
-
----
-
-### 28,372 persons inspected from police special operation
-
-*2025-09-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214817) · `si`
-
-Another phase of the special series of special series of special operations island wide has been covered by the Sri Lanka Police Station, on the instructions of the IGP for criminal and drug prevention.
-
-28,372 persons have been inspected and 714 persons have been arrested on suspicion.
-
-253 warrants have been arrested by the police and the number of people directly identified in crimes was 19, police said.
-
-23 persons have been arrested in connection with the driving driving and 4,495 persons have also taken steps to implement the law.
-
-◼️
-
-[Data](articles/2b5cc516.json)
-
-[Extended Data](ext_articles/2b5cc516.ext.json)
-
----
-
-### Lorry collides with a motorcycle in Puttalam
-
-*2025-09-21 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225633) · `ta`
-
-One person was killed when a lorry collided with a motorcycle from Puttalam to Maduranguli near the Palaviya junction on the Puttalam -Colombo main road.
-
-The motorcycle driver and the other person who were injured in the accident were admitted to the hospital, and the motorcycle driver was reportedly dead.
-
-Investigations have revealed that the victim was 35 years old from Maduranguliya.
-
-The driver of the lorry has been arrested in connection with the accident and the Puttalam police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/c23f3036.json)
-
-[Extended Data](ext_articles/c23f3036.ext.json)
 
 ---

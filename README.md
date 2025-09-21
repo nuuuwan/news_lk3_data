@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 08:30:27**
+As of **2025-09-21 09:38:36**
 
 ## Newspaper Stats
 
-*Scraped **77,170** Articles*
+*Scraped **77,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,309 @@ economynextcom | 4,667
 dailymirrorlk | 4,733
 islandlk | 4,751
 dailyftlk | 5,485
-adalk | 7,501
-adaderanalk | 9,965
-tamilmirrorlk | 11,596
-virakesarilk | 12,550
-adaderanasinhalalk | 13,475
+adalk | 7,502
+adaderanalk | 9,971
+tamilmirrorlk | 11,597
+virakesarilk | 12,556
+adaderanasinhalalk | 13,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,169 (100.0%) of 77,170 articles have been extended.
+77,186 (100.0%) of 77,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### ඉන්දීය නෞකාවක් කොළඹ වරායට
+### 14 people in Bogawantalawa hospital hospital
+
+*2025-09-21 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225632) · `ta`
+
+12 women and 2 men have been admitted to the hospital in Kotiyagala, which belongs to the Bogawantalawa police division.
+
+◼️
+
+[Data](articles/48ce6b52.json)
+
+[Extended Data](ext_articles/48ce6b52.ext.json)
+
+---
+
+### Public servants' salary increases next January
+
+*2025-09-21 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225629) · `ta`
+
+Ports, Shipping, Civil Aviation and Transport Minister Bimal Ratnayake has said that all public servants will be given a pay hike next January.. .
+
+He said this while participating in the development of 25 bus stations.
+
+He said that steps would be taken to pay more wages for the bus stations and that these companies should be transformed into skilled companies to serve the people fully.
+
+He added that the government is planning to appoint 450 drivers and 300 operators, including female employees in the Sri Lanka Transport Board and is currently undergoing interviews.
+
+The Minister also stated that it would be to ensure adequate safety and sanitation facilities before hiring women, and that it would be the initial plan to hire female employees on school buses in the Colombo district.
+
+◼️
+
+[Data](articles/289e62c5.json)
+
+[Extended Data](ext_articles/289e62c5.ext.json)
+
+---
+
+### Electricity Trade Unions
+
+*2025-09-21 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225627) · `ta`
+
+During yesterday's discussion between the Electricity Board employees and the chiefs of the Electricity Board, the members of the electric trade union have protested.
+
+The meeting was held at the Headquarters of the Ceylon Electricity Board (CEB), with the secretaries of 25 ministries and three union representatives.
+
+It has been decided to continue till the 21st of tomorrow.
+
+At the same time, the electric unions have announced that it will decide on the future of the union action on the 24th.
+
+◼️
+
+[Data](articles/ed51c78b.json)
+
+[Extended Data](ext_articles/ed51c78b.ext.json)
+
+---
+
+### Drug shortage stems from procurement issues, not financial constraints – Health Minister
+
+*2025-09-21 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112716/drug-shortage-stems-from-procurement-issues-not-financial-constraints-health-minister) · `en`
+
+Health Minister Nalinda Jayatissa has stated that the prevailing shortage of medicines within the country is not due to financial constraints.
+
+Speaking at a ceremony in Ampara, the Minister stated that the current shortage of medicines has arisen due to procurement-related issues.
+
+Accordingly, procurement processes for importing medicines have already commenced, with supplies expected to arrive after November, Minister Nalinda said.
+
+Commenting further, the Minister noted that certain medicines are currently unavailable in the private sector, including pharmacies.
+
+“We do not allow registration based on unlimited prices during the drug registration process. A specific price range has been set, taking into account the prevailing market situation in South Asian countries. Those unwilling to comply with this pricing structure have chosen not to supply medicines,” he said.
+
+...
+
+[Data](articles/860333fc.json)
+
+[Extended Data](ext_articles/860333fc.ext.json)
+
+---
+
+### Young people laid off the far-reaching dispute
+
+*2025-09-21 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214816) · `si`
+
+A youth was attacked with a sharp instrument in the hemory of the Hemmatagama police division.
+
+The killings have been carried out in the night (20).
+
+The victim was a 21 year old resident of the Demo.
+
+Investigations have revealed that the murder had been carried out by taking a private dispute.
+
+The remains are placed at the Hemmatagama hospital morgue and the suspect involved in the 23-year-old incident has been arrested.
+
+◼️
+
+[Data](articles/18ab69a6.json)
+
+[Extended Data](ext_articles/18ab69a6.ext.json)
+
+---
+
+### Indian naval ship ‘INS SATPURA’ arrives at Colombo Port
+
+*2025-09-21 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112715/indian-naval-ship-ins-satpura-arrives-at-colombo-port-) · `en`
+
+The Indian Naval Ship ‘INS SATPURA’ has arrived at the Port of Colombo for replenishment and service requirements yesterday (20).
+
+The ship has been welcomed by the Sri Lanka Navy (SLN) in accordance with the long-standing naval traditions, SLN said.
+
+‘INS SATPURA’ is a 142.5 meters long Frigate which is manned by a crew of 403 personnel.
+
+The SLN further stated that the crew will engage in sightseeing tours during their stay in the island.
+
+◼️
+
+[Data](articles/a6be2c3f.json)
+
+[Extended Data](ext_articles/a6be2c3f.ext.json)
+
+---
+
+### Health Minister says that the cause of drugs is not a financial problem
+
+*2025-09-21 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214815) · `si`
+
+Health Minister Dr. Nalinda Jayatissa says that the cause of these drugs is not a financial problem.
+
+Addressing a function in Ampara, the minister said that this situation has arisen due to the problems of the procurement.
+
+The Minister also said that procurement processes have begun to import drugs at present.
+
+"Some of the pharmacist pupil mark is not out, no, no in the market, no pharmace. There's such a problem. We are unlimited in pharmaceuticals unlimited prices and register now. In South Asian countries, some of the market status have been set up and set a range of price. The people who don't like it provide drugs. To SPC we handed over to tenderer. Now there is only 80% to 85% of the work now. The drugs we procured are due after this November. The other thing is the result of switching project stopping projects, instead of spend twice the treasury. There are 17 projects to stop in Sri Lanka. If the end of 2018 or 2022, we will go to 2920 or 2022. "
+
+◼️
+
+[Data](articles/e70bc967.json)
+
+[Extended Data](ext_articles/e70bc967.ext.json)
+
+---
+
+### Illegal Liquor Station Siege in Veeramunai
+
+*2025-09-21 07:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225624) · `ta`
+
+The illegal liquor manufacturing plant, which was operating in the Veeramunai 03 area of ​​the Ampara - Samanthurai police division, was blocked by a team headed by a team headed by the Superintendent of Police at the Samanthurai Police Station on Saturday (September 20).
+
+During the roundups carried out on the basis of confidential information available to the Superintendent of Police, the Samanthurai Police Station was blocked.
+
+A 25 -year -old suspect from Veeramunai three has been arrested.
+
+A total of 60,000 milliliters of goda leakage, 4000 milliliters AC gas cylinder 2 has been recovered from the arrested suspect, and a large amount of rubber and copper pipe have been handed over to the Samanthurai Police Station for legal action.
+
+In addition, the arrest was made by MK Kalmunai Regional Assistant Superintendent of Police, MK.. On the advice of Ibn Azar, the committee headed by WAN.Pritipkumara, Chairperson of the Samanthurai Police Station, was carried out by a delegation.
+
+◼️
+
+[Data](articles/cdba2a9d.json)
+
+[Extended Data](ext_articles/cdba2a9d.ext.json)
+
+---
+
+### Public transport license for drivers who engage in passenger transport service!
+
+*2025-09-21 07:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225625) · `ta`
+
+Transport and Highways Minister Bimal Ratnayake has said that drivers engaged in passenger transport are mandatory for public transportation before December 31.
+
+He was speaking at a meeting held in Ampara on Saturday (September 20).
+
+The Minister also stated that the license plans are currently being prepared and that by the end of this year, public transport drivers should obtain a license.
+
+Now it is mandatory to wear seat bares. I agree that there are no seat bares when some buses are made.
+
+But the buses can be replaced as the seat bares cannot be matched. Now they are wearing bark in their children's school bags to deceive me and the police.
+
+It is not appropriate to hand over 50 people to these people. We have decided that serious people should come to public transport.
+
+Therefore, we think every driver who carry people must obtain a public transport permit license. Now we have made some plans,
+
+...
+
+[Data](articles/23b78c05.json)
+
+[Extended Data](ext_articles/23b78c05.ext.json)
+
+---
+
+### Israel presses on with Gaza City assault, at least 60 Palestinians killed
+
+*2025-09-21 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112714/israel-presses-on-with-gaza-city-assault-at-least-60-palestinians-killed) · `en`
+
+Israel’s military kept up its assault on Gaza City and the wider Gaza Strip on Saturday, dismantling underground shafts and booby-trapped structures in attacks that killed at least 60 Palestinians, according to Gazan health authorities.
+
+The assault came as 10 countries, including Australia, Belgium, Britain and Canada, are scheduled to formally recognise an independent Palestinian state on Monday, ahead of the annual leaders’ gathering at the U.N. General Assembly next week.
+
+Israel’s intensified military demolition campaign targeting high-rise buildings in Gaza City began this week alongside a ground assault.
+
+Its forces, which control Gaza City’s eastern suburbs, have been pounding the Sheikh Radwan and Tel Al-Hawa areas from where they would be positioned to advance on central and western parts of the city.
+
+Most of Gaza City’s population is sheltering in those parts.
+
+...
+
+[Data](articles/25bb4db6.json)
+
+[Extended Data](ext_articles/25bb4db6.ext.json)
+
+---
+
+### A three -wheeler heading towards Hatton caught fire on the middle of the road!
+
+*2025-09-21 07:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225623) · `ta`
+
+A three -wheeler from Nawalapitiya to Hatton was burnt at 6 pm on Saturday (September 20).
+
+The three -wheeler was set on fire as the driver went to check the technical problem in the three -wheeler.
+
+However, when the residents who observed the fire in the three -wheeler were burning, the fire was completely damaged in the entire part of the three -wheeler when the police tried to extinguish the water.
+
+Police said two people were traveling in a three -wheeler when the fire broke out and no one was injured.
+
+◼️
+
+[Data](articles/4022c5a0.json)
+
+[Extended Data](ext_articles/4022c5a0.ext.json)
+
+---
+
+### Indian ship to the port of Colombo
 
 *2025-09-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214814) · `si`
 
-ඉන්දීය නාවික හමුදාවට අයත් ‘INS SATPURA’ නෞකාව කොළඹ වරායට පැමිණ තිබේ.
+The Indian Navy's Ins Satipura arrived at the Port of Colombo.
 
-සැපයුම් හා ‍සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා එම නෞකාව ඊයේ (20) මෙරටට පැමිණි බව නාවික හමුදාව සඳහන් කළේය.
+The ship arrived in Sri Lanka yesterday (20) to meet the supplies and service requirements.
 
-ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකරනු ලැබීය.
+The ship, the Sri Lankan Navy, was recognized by the Navy.
 
-දිවයිනට  පැමිණි Frigate වර්ගයට අයත් ‘INS SATPURA’ නෞකාව, දිගින් මීටර් 142.5ක් සහ නැවේ කර්යමණ්ඩලය 403 දෙනෙකුගෙන් සමත්විතයි.
+The frigate type, which arrived in the island, is 142.5 meters and 403 of the ship.
 
-‘INS SATPURA’ නෞකාව දිවයිනේ රැඳී සිටින කාලසීමාව තුළ එහි නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට ද නියමිත බව නාවික හමුදාව සඳහන් කළේය.
+The Navy also said that the shipping was to visit the most important places in the island during the period of the time of the 'Insath of the island'.
 
 ◼️
 
 [Data](articles/47fe285a.json)
+
+[Extended Data](ext_articles/47fe285a.ext.json)
+
+---
+
+### All passenger transport drivers required to obtain ‘PT License’ by December 31 – Transport Minister
+
+*2025-09-21 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112713/all-passenger-transport-drivers-required-to-obtain-pt-license-by-december-31-transport-minister-) · `en`
+
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has stated that it is mandatory to all drivers engaged in passenger transport to obtain a “PT License” (Public Transport License) before December 31.
+
+Transport Minister made this statement during a meeting held in Ampara yesterday (20).
+
+He emphasized that the preparations for the license are underway and will be enforced by the end of this year.
+
+Minister Rathnayake noted that seat belts have now been made compulsory. He acknowledged that some buses were originally manufactured without seat belts but stressed that buses are being modified.
+
+“Some drivers are tying to mislead both the authorities and the police using the strap of the child’s school bag. It is not appropriate to entrust the safety of 50 passengers to such drivers. We have therefore decided that only responsible drivers should be engaged in public transport.”
+
+...
+
+[Data](articles/d654761c.json)
+
+[Extended Data](ext_articles/d654761c.ext.json)
+
+---
+
+### Bangladesh is a sharp win
+
+*2025-09-21 07:01:28* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශයට-තියුණු-ජයක්/9-418625) · `si`
+
+Bangladesh recorded 4 wickets in 4 wickets in the Asian Cup yesterday. This is the first defeat of Sri Lanka in this year's tournament.
+
+Sri Lanka scored 168 runs in order to bat first. In reply, the match won the match for the end of the Bangladesh match.
+
+◼️
+
+[Data](articles/90a0b2ae.json)
+
+[Extended Data](ext_articles/90a0b2ae.ext.json)
 
 ---
 
@@ -79,6 +349,52 @@ Meanwhile, a lorry collided with a motorcycle near the Puttalam-Colombo Paliya J
 [Data](articles/ffc50d89.json)
 
 [Extended Data](ext_articles/ffc50d89.ext.json)
+
+---
+
+### Trump issues vague threat to Afghanistan over Bagram air base
+
+*2025-09-21 06:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112712/trump-issues-vague-threat-to-afghanistan-over-bagram-air-base) · `en`
+
+US President Donald Trump on Saturday (Sep 20) threatened Afghanistan with unspecified punishment if the Taliban-controlled country did not “give Bagram Airbase back”.
+
+“If Afghanistan doesn’t give Bagram Airbase back to those that built it, the United States of America, BAD THINGS ARE GOING TO HAPPEN!!!” the 79-year-old leader wrote on his Truth Social platform.
+
+The vague threat comes just days after he raised the idea of the United States retaking control of the base while on a state visit to the United Kingdom.
+
+Bagram, the largest air base in Afghanistan, was a linchpin of the US-led war effort against the Taliban, whose government Washington toppled following the Sep 11, 2001 attacks on the United States.
+
+A massive, sprawling facility, Amnesty International, Human Rights Watch and others have repeatedly raised allegations of systematic human rights abuses by US forces at Bagram, especially pertaining to detainees in Washington’s murky “War on Terror”.
+
+...
+
+[Data](articles/dfbf20e0.json)
+
+[Extended Data](ext_articles/dfbf20e0.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-09-21 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112711/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
+
+Prevailing showery and windy condition over the south western parts of the island is expected to continue today (21), the Department of Meteorology said.
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts. Fairly heavy falls of about 75 mm are likely at some places.
+
+Several spells of showers may occur in Northern and North-western provinces.
+
+Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Central, North-central and North-western provinces and in Trincomalee and Hambantota districts, the Met. Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/dd5cf3e4.json)
+
+[Extended Data](ext_articles/dd5cf3e4.ext.json)
 
 ---
 
@@ -128,7 +444,7 @@ The Meteorological Department urges the public to take necessary arrangements to
 
 *2025-09-21 05:00:00* · [`economynextcom`](https://economynext.com/proparco-france-ready-to-look-at-financing-sri-lanka-firms-as-default-ends-241336/) · `en`
 
-ECONOMYNEXT – Proparco, the private sector arm of the French development lender AFD, is ready to look at financing firms in Sri Lanka as the country has emerged from default and is stable, an official said.
+ECONOMYNEXT – Proparco, the private sector arm of the French development lender Agence Française de Développement, is ready to look at financing firms in Sri Lanka as the country has emerged from default and is stable, an official said.
 
 Sri Lanka defaulted on its external debt in 2022 and has now completed the restructuring of its sovereign bonds, and most of its bilateral debt including those of the AFD itself.
 
@@ -159,6 +475,26 @@ Three people have been identified in the attack and they are involved in drug tr
 [Data](articles/c9c26b28.json)
 
 [Extended Data](ext_articles/c9c26b28.ext.json)
+
+---
+
+### Three arrests with drug pills
+
+*2025-09-21 03:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-மூவர்-கைது/175-364960) · `ta`
+
+Three persons have been arrested for selling drugs in the Colombo area of ​​the Jaffna police division.
+
+Jaffna Police have arrested a police narcotics yesterday (20) for selling drug pills on the basis of confidential information received by the Jaffna Police Crime Unit.
+
+Three suspects were arrested in Jaffna, aged 18, 24 and 22, with 180 drugs.
+
+Jaffna police are conducting further investigations into the incident. (A)
+
+◼️
+
+[Data](articles/4429c6a4.json)
+
+[Extended Data](ext_articles/4429c6a4.ext.json)
 
 ---
 
@@ -1721,333 +2057,5 @@ Allegations have surfaced that children attending the school, who come with the 
 [Data](articles/41e65c5b.json)
 
 [Extended Data](ext_articles/41e65c5b.ext.json)
-
----
-
-### US vetoes UN Security Council resolution calling for immediate Gaza ceasefire
-
-*2025-09-20 12:43:00* · [`islandlk`](http://island.lk/us-vetoes-un-security-council-resolution-calling-for-immediate-gaza-ceasefire/) · `en`
-
-Defending Washington’s veto, US Deputy Special Envoy to the Middle East Morgan Ortagus said that Washington’s opposition to the resolution “will come as no surprise” as it fails to condemn Hamas or recognize Israel’s right to defend itself.
-
-The United States once again vetoed a UN Security Council resolution Thursday that had demanded an immediate, unconditional and permanent ceasefire in Gaza and the release of hostages, saying that the effort did not go far enough in condemning Hamas
-
-The draft, introduced by the 10 elected members of the Council, was backed by 14 of the 15 members. It called for an “immediate, unconditional and permanent ceasefire in Gaza respected by all parties,” the release of all hostages held by Hamas and other groups, and the removal of restrictions on humanitarian aid.
-
-The draft was put forward by the Council’s 10 non-permanent members: Algeria, Denmark, Greece, Guyana, Pakistan, Panama, Republic of Korea, Sierra Leone, Slovenia and Somalia.
-
-...
-
-[Data](articles/6ffea625.json)
-
-[Extended Data](ext_articles/6ffea625.ext.json)
-
----
-
-### Poland–Sri Lanka Relations: Beyond Tea and Tourism?
-
-*2025-09-20 12:43:00* · [`islandlk`](http://island.lk/poland-sri-lanka-relations-beyond-tea-and-tourism/) · `en`
-
-Oxford, United Kingdom– While preparing for my next trip to Sri Lanka, I keep reflecting on relations between Poland and the “Pearl of the Indian Ocean.” At first, Sri Lanka and my home country—a democratic nation of 38 million people in Central Europe—may seem very distant from one another. Yet, this year has brought a substantial development in their bilateral relations.
-
-In May 2025, Polish Foreign Minister Radoslaw Sikorski visited Sri Lanka. He participated in high-level meetings with President Anura Kumara Dissanayake, Prime Minister Harini Amarasuriya, and Foreign Minister Vijitha Herath. Notably, he was representing not only Warsaw but also the entire European Union, as Poland held the EU presidency.
-
-Shared historical connections between Sri Lanka and Poland stretch back more than a century. One of them is particularly close to my heart: the visit of Adam Asnyk, a renowned poet born in my hometown of Kalisz, the oldest city in Poland. He travelled to Sri Lanka in 1894.
-
-...
-
-[Data](articles/81512cde.json)
-
-[Extended Data](ext_articles/81512cde.ext.json)
-
----
-
-### Sexual abuse at a school with special needs in the Anuradhapura
-
-*2025-09-20 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214787) · `si`
-
-A special needs should be paid to all citizens of the society, but they are bullied.
-
-Special needs in Anuradhapura have been paid special attention to these children's children and the misconduct of abuse.
-
-Located in Anuradhapura, the special needs of the school are learning children with special needs.
-
-The school, which is studying for nearly 69 female and boys, is maintained by a private company and its administration is administered by a governing body.
-
-This is monitored under the Department of Social Services Department of the North Central Province.
-
-Sadly, a group of children who have special needs come to study their future and have sexual abuse and harassment.
-
-The Treasurer who was the treasurer of the school were remanded until the 29th of this month.
-
-The unbelievable parents had been protesting recently to consequences the governing body of the school.
-
-◼️
-
-[Data](articles/6b18d2a1.json)
-
-[Extended Data](ext_articles/6b18d2a1.ext.json)
-
----
-
-### Rs. Give houses for police officers paid Rs. 50 crores in water
-
-*2025-09-20 12:17:14* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්ට-නිවාස-දෙන්න-ගෙවූ-රු--කෝටි-50ක්-වතුරේ/11-418618) · `si`
-
-The Sri Lanka Police had paid a sum of Rs. 500 million to purchase 192 houses from the Habaraduwa official shade scheme.
-
-The house was scheduled to buy 192 million houses for Rs. 29.8 million for Rs. 292 million for Rs. 292 million for Rs.  Accordingly, a sum of Rs. 500 million was paid by April 2, 2019. The main objective of the project was to provide houses for public servants, but by 2025, no house could be residenced.
-
-These houses were not taken over and 128 houses were proposed to take over the advances paid. But there was no final agreement. A total of Rs.
-
-This information is included in the audit report that has been issued to the performance report issued by the Sri Lanka Police.
-
-◼️
-
-[Data](articles/4bd381ad.json)
-
-[Extended Data](ext_articles/4bd381ad.ext.json)
-
----
-
-### Trump administration proposes selling nearly $6 billion in weapons to Israel
-
-*2025-09-20 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112698/trump-administration-proposes-selling-nearly-6-billion-in-weapons-to-israel) · `en`
-
-The Trump administration has told Congress it plans to sell nearly $6 billion in weapons to Israel, a fresh surge of support for the U.S. ally as it faces increasing isolation over its war in Gaza.
-
-It includes a $3.8 billion sale for 30 AH-64 Apache helicopters, nearly doubling Israel’s current stocks, and a $1.9 billion sale for 3,200 infantry assault vehicles for Israeli army, according to a U.S. official and another person familiar with the proposal who spoke on condition of anonymity to discuss plans that have not been made public.
-
-The weapons would not be delivered for two to three years or longer.
-
-The huge sales come as U.S. plans to broker an end to the nearly two-year war between Israel and Hamas have stalled and after Israel’s strike on Hamas leaders in Doha, Qatar, drew widespread condemnation among U.S. allies in the Middle East.
-
-...
-
-[Data](articles/57a9a640.json)
-
-[Extended Data](ext_articles/57a9a640.ext.json)
-
----
-
-### Israel's attack in Gaza: two children die; Many are hurt!
-
-*2025-09-20 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/225573) · `ta`
-
-International media reports that Israel's attack on Gaza has killed two children.
-
-The attack was reported after the death of 43 Palestinians yesterday.
-
-It is reported that about 450,000 people have left the area in the city of Gaza since the launch of its major action in Israeli Gaza in August.
-
-United Nations General Secretary Antonio Gutarez says Gaza is facing the worst casualties and destruction.
-
-◼️
-
-[Data](articles/89c07ee4.json)
-
-[Extended Data](ext_articles/89c07ee4.ext.json)
-
----
-
-### Struggle of strike
-
-*2025-09-20 11:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைநிறுத்தப்-போராட்டம்-நீடிப்பு/175-364950) · `ta`
-
-Electricity unions have decided to continue the strike action launched by the Electricity Board employees till midnight tomorrow.
-
-At the same time, it is reported that the electric trade unions will go on strike from the 4th of this month to protest the Bill of the Electricity Board.
-
-The Electricity Board employees joined the two -day strike in front of the Electricity Board headquarters.
-
-It is noteworthy that the electric unions have said that they will continue to fight the adverse effects of the new Electricity Board Act. Remble
-
-◼️
-
-[Data](articles/72096150.json)
-
-[Extended Data](ext_articles/72096150.ext.json)
-
----
-
-### Russian jets bangs for Estonia airspace
-
-*2025-09-20 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214785) · `si`
-
-Estonia accuses that several Russian jets violated their airspace.
-
-The Estonian Foreign Ministry has announced that 3 Russian Mig-31 fighter jets left for about 12 minutes without their permission.
-
-Estonia says that this is an 'shameless' and condemns his airspace.
-
-Accordingly, Estonia has given advice from NATO members regarding the violation of Russian jets.
-
-However, Estonia says his military has immediately responded immediately with Russian jets.
-
-However, Russia has refused to violate the Estonian airspace.
-
-◼️
-
-[Data](articles/78ca73b4.json)
-
-[Extended Data](ext_articles/78ca73b4.ext.json)
-
----
-
-### Rise in cases of online sexual abuse in Sri Lanka – Police
-
-*2025-09-20 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112697/rise-in-cases-of-online-sexual-abuse-in-sri-lanka-police) · `en`
-
-Sri Lanka Police have reported that a total of 28 children and 118 women have fallen victim to online sexual abuse and exploitation so far in 2025.
-
-Police Media Spokesperson, ASP F. U. Wootler, stated that in 2024, 15 children under the age of 18 were sexually exploited through the cyberspace, while 375 women were victims of online sexual abuse during the same period.
-
-He further confirmed that a total of 114 individuals involved in such incidents have been arrested and are currently facing legal action.
-
-◼️
-
-[Data](articles/5a1f0876.json)
-
-[Extended Data](ext_articles/5a1f0876.ext.json)
-
----
-
-### US in Palestinian President Kudamma
-
-*2025-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214784) · `si`
-
-The United Nations 80 United States Summit will be held at the United Nations headquarters in New York City of the United States.
-
-The US rejected the Visa to Palestinian President Mohammed Abbas to participate.
-
-However, the proposal to be able to address the conference was adopted by the United Nations in the United Nations.
-
-It is reported that Palestine is also planned to be recognized as a separate state at the conference.
-
-◼️
-
-[Data](articles/2ce5b3d6.json)
-
-[Extended Data](ext_articles/2ce5b3d6.ext.json)
-
----
-
-### Large guns and ammunition recovery from the house of the dead lawyer!
-
-*2025-09-20 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225570) · `ta`
-
-Ratnapura police have recovered a large number of guns and ammunition from the house of the dead lawyer.
-
-A 73 -year -old lawyer from Ratnapura died of a sudden heart attack.
-
-The Ratnapura Senior Police Superintendent has received information that there are guns in the house of the dead lawyer.
-
-The Senior Superintendent of Police in Ratnapura made this statement on September 17 to the Ratnapura Headquarters Police Station.
-
-Subsequently, a raid conducted at the lawyer's home has rescued 12-war rifles, a repeater rifle, 6 extracted gun parts, 11 barrels, 2 small guns, 440 rounds of new 12 and 16-war ammunition and many other gun parts.
-
-Investigations are being carried out to find out whether these guns were supplied for crime or distributed among groups.
-
-Police said that investigations are underway to ensure that some guns were made locally or with the involvement of other parties.
-
-◼️
-
-[Data](articles/fd4c977e.json)
-
-[Extended Data](ext_articles/fd4c977e.ext.json)
-
----
-
-### Increase child abuse caused by e -commerce scams!
-
-*2025-09-20 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225566) · `ta`
-
-Police Media Spokesperson FU says that child abuse caused by ecommerce fraud is on the rise.. Woodler said.
-
-About 28 boys through e -mail frauds in 2025 so far; 118 women are also sexually abused.
-
-In 2024, 15 children under the age of 18 were subjected to sexual abuse by cyberpace, police media spokesman said.
-
-At the same time, in 2024, 375 women have been sexually abused by ecommerce scams, police media spokesman said.
-
-Police Media Spokesperson FU said 114 people were arrested and brought before the law.. Woodler said.
-
-◼️
-
-[Data](articles/92ac9748.json)
-
-[Extended Data](ext_articles/92ac9748.ext.json)
-
----
-
-### ஹொரணை - இரத்தினபுரி வீதியில் இன்றிரவு போக்குவரத்து மட்டுப்படுத்தப்படும்!
-
-*2025-09-20 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225568) · `ta`
-
-Traffic will be restricted on the Horana - Ratnapura main road on Saturday night (20), as the annual Katina Perahera is being held at the Horana - Vewala Isipathana Raja Maha Viharaya.
-
-According to the police media unit, traffic will be restricted on the Horana - Ratnapura main road from 7 pm tonight.
-
-◼️
-
-[Data](articles/6ca54850.json)
-
-[Extended Data](ext_articles/6ca54850.ext.json)
-
----
-
-### The JVP does nothing without anything
-
-*2025-09-20 10:58:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපෙ-දේශපාලනය-කරන්නේ-මුකුත්ම-නැති-මුකුත්ම-බැරි-පිරිසක්-නෙමෙයි/11-418617) · `si`
-
-Deputy Minister Susil Ranasinghe said that the JVP does not have any possessions or the party's patrification of people who were engaged in various professions were planted in various occupations.
-
-He was speaking to the media after a function held in Eppawala.
-
-"It is good to publish the assets of MPs, ministers and ministers, and that is a matter of controversy in our country is to steal from this politics. The government's prince, using the use of MPs, and the assets have passed the legislation and that we should publish the assets of the ministers of MPs.
-
-After the people have been a year, we can find out whether these ministry or the government politics of the JVP or the JVP doctors in the National Power or the JVP.
-
-We have such a group of people in one of the careers, and we have a certain amount of property.
-
-We have been transparently disclosed without hiding them.
-
-◼️
-
-[Data](articles/86488707.json)
-
-[Extended Data](ext_articles/86488707.ext.json)
-
----
-
-### Bangladesh Sri Lanka match today
-
-*2025-09-20 10:48:54* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශ-ශ්‍රී-ලංකා-තරගය-අද/9-418616) · `si`
-
-Sri Lankan team and Bangladesh team to begin the Superintendent of the Asia Cup. මෙය සුපිරි හතර දෙනාගේ වටයේ පළමු තරගය වෙයි.
-
-◼️
-
-[Data](articles/deb7edf9.json)
-
-[Extended Data](ext_articles/deb7edf9.ext.json)
-
----
-
-### Former President Ranil to join UNP’s 79th anniversary celebration
-
-*2025-09-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112696/former-president-ranil-to-join-unps-79th-anniversary-celebration-) · `en`
-
-The 79th anniversary of the United National Party (UNP) will be celebrated today (20).
-
-The event will be held under the patronage of the party leader, former President Ranil Wickremesinghe.
-
-The anniversary celebrations are scheduled to take place at a private hotel in the Sri Jayewardenepura area.
-
-◼️
-
-[Data](articles/6c09f468.json)
-
-[Extended Data](ext_articles/6c09f468.ext.json)
 
 ---

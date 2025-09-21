@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 09:56:29**
+As of **2025-09-21 10:20:21**
 
 ## Newspaper Stats
 
-*Scraped **77,186** Articles*
+*Scraped **77,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ dailymirrorlk | 4,733
 islandlk | 4,751
 dailyftlk | 5,485
 adalk | 7,502
-adaderanalk | 9,971
-tamilmirrorlk | 11,597
+adaderanalk | 9,973
+tamilmirrorlk | 11,598
 virakesarilk | 12,556
-adaderanasinhalalk | 13,477
+adaderanasinhalalk | 13,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,186 (100.0%) of 77,186 articles have been extended.
+77,188 (100.0%) of 77,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### Ooty ... feed ...
+
+*2025-09-21 09:49:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஊட்டவா-ஊட்டவா/62-364962) · `ta`
+
+◼️
+
+[Data](articles/02da1bed.json)
+
+[Extended Data](ext_articles/02da1bed.ext.json)
+
+---
+
+### 21-year-old youth attacked to death over personal dispute
+
+*2025-09-21 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112718/21-year-old-youth-attacked-to-death-over-personal-dispute) · `en`
+
+A youth has been attacked to death with a sharp weapon in the Balawathgama area of the Hemmathagama Police Division.
+
+The deceased has been identified as a 21-year-old resident of the Devanagala area.
+
+Preliminary investigations indicate that the killing resulted from a personal dispute.
+
+His body has been placed at the Hemmathagama Hospital morgue.
+
+A 23-year-old suspect in connection with the incident has been arrested, and further investigations are being carried out by the Hemmathagama Police.
+
+◼️
+
+[Data](articles/da4008a5.json)
+
+---
+
+### 28,372 persons inspected from police special operation
+
+*2025-09-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214817) · `si`
+
+Another phase of the special series of special series of special operations island wide has been covered by the Sri Lanka Police Station, on the instructions of the IGP for criminal and drug prevention.
+
+28,372 persons have been inspected and 714 persons have been arrested on suspicion.
+
+253 warrants have been arrested by the police and the number of people directly identified in crimes was 19, police said.
+
+23 persons have been arrested in connection with the driving driving and 4,495 persons have also taken steps to implement the law.
+
+◼️
+
+[Data](articles/2b5cc516.json)
+
+[Extended Data](ext_articles/2b5cc516.ext.json)
+
+---
 
 ### 14 people in Bogawantalawa hospital hospital
 
@@ -43,6 +95,26 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/48ce6b52.json)
 
 [Extended Data](ext_articles/48ce6b52.ext.json)
+
+---
+
+### Pentagon imposes new restrictions on media covering the US military
+
+*2025-09-21 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112717/pentagon-imposes-new-restrictions-on-media-covering-the-us-military) · `en`
+
+The Pentagon has unveiled new restrictions on media covering the US military, requiring them to pledge not to disclose anything not formally authorized for publication and limiting their movements within the Department of War.
+
+The new guidelines, laid out in a lengthy memo distributed to reporters on Friday (Sep 19), require them to sign an affidavit promising to comply, or risk losing their media credentials.
+
+The move is the latest by the administration of President Donald Trump to control media coverage of his policies, and after he suggested that negative stories could be “illegal.”
+
+The Pentagon “remains committed to transparency to promote accountability and public trust,” the memo says.
+
+But it adds: “Information must be approved for public release by an appropriate authorizing official before it is released, even if it is unclassified”, effectively barring material sourced to unnamed officials.
+
+...
+
+[Data](articles/e251b004.json)
 
 ---
 
@@ -1969,93 +2041,5 @@ The Norwood Police Traffic Officer has issued an order to the Government Task In
 [Data](articles/82ada052.json)
 
 [Extended Data](ext_articles/82ada052.ext.json)
-
----
-
-### I left $ 22 billion, why should I take these things?
-
-*2025-09-20 13:38:54* · [`adalk`](https://www.ada.lk/breaking_news/මම-ඩොලර්-බිලියන-22ක්-දීලා-ගියේ---මම-මොකටද-මේවා-අරගන්නේ/11-418619) · `si`
-
-Ranil Wickremesinghe addressing the 79th anniversary of the UNP that he joined the University degree ceremony. The former President said that when he was assigned the country in 2022, the former President said he was up to $ 98.9 billion when he was handed over to Anura Kumara Dissanayake.
-
-"I first went to Havana. Then I went New York. I spent a night in London from the way to Colombo. It's a Tranzit. These are official travel. There I had an official invitation. Was treated because of. I'm in London, if there was an invitation. It was taken by you.
-
-I showed a letter invited me. Asked what I brought from London. Anura who can hear it to me from Germany.
-
-I found out that I had lodged a complaint against me. Who did the complaint was the Presidential Secretary to the President. I have told my lawyers not to say the rest.
-
-...
-
-[Data](articles/9d3e9a5f.json)
-
-[Extended Data](ext_articles/9d3e9a5f.ext.json)
-
----
-
-### The difference in the economy of the country's economy of the second quarter of 2025
-
-*2025-09-20 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214789) · `si`
-
-The Department of Census and Statistics have revealed that the latest data report issued by the Sri Lanka Fisheries Division, Vegetable Cultivation and Rubber cultivation is on a unstable path.
-
-However, this quarter, which was from April 1 to June 1 to June 30, has reportedly reported the wealth of agriculture, economic and industry and services.
-
-According to data estimates, vegetable cultivation, rubber cultivation and fishing production has been reported.
-
-The negative value of 3.6% of vegetable cultivation is a negative value of 3.2% and a huge negative growth of 34.8%.
-
-The Department of Census and Statistics indicate that the country's rubber cultivation is a significant contribution to exports.
-
-The decline in the second quarter department according to the Rubber Development Department is the period of decline in rubber cultivation and heavy rains in April.
-
-...
-
-[Data](articles/a2188272.json)
-
-[Extended Data](ext_articles/a2188272.ext.json)
-
----
-
-### Power and Assistance Opposition Agent Union resigns
-
-*2025-09-20 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214788) · `si`
-
-During the discussion between the heads of the Electric Trade Unions and the Heads of the Ceylon Electricity Board (CEB), it is reported that the electrical union members have left against it.
-
-The Ceylon Electricity Board (Ceylon Electricity Board) was also collecting the restructuring Director of the Ceylon Electricity Board.
-
-It is said that 25 ministry secretaries and three trade union representatives were present at the discussion.
-
-The working professional procedure for which electrical workers have been opened to the 21st has decided to implement until the 21st.
-
-The electricity unions also refer to a decision on the 24th regard to the next 24 trade union action.
-
-◼️
-
-[Data](articles/4f879fbb.json)
-
-[Extended Data](ext_articles/4f879fbb.ext.json)
-
----
-
-### School treasurer remanded over sexual abuse of special needs children
-
-*2025-09-20 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112700/school-treasurer-remanded-over-sexual-abuse-of-special-needs-children) · `en`
-
-Despite children with special needs deserving special care and protection, incidents of harassment against them continue to be reported across the country.
-
-The most recent case was reported from the Anuradhapura area.
-
-The Anuradhapura District Coordination Committee yesterday (19) drew special attention to allegations of misconduct and abuse involving children with special needs at a school in Anuradhapura.
-
-The school, located in Anuradhapura city, educates nearly 69 boys and girls with special needs. It is managed by a private institution under a governing board, and its operations are supervised by the North Central Provincial Department of Social Services.
-
-Allegations have surfaced that children attending the school, who come with the hope of securing a better future, have instead been subjected to sexual abuse and other forms of harassment.
-
-...
-
-[Data](articles/41e65c5b.json)
-
-[Extended Data](ext_articles/41e65c5b.ext.json)
 
 ---

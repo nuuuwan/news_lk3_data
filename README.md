@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 22:54:00**
+As of **2025-09-21 23:05:52**
 
 ## Newspaper Stats
 
-*Scraped **77,287** Articles*
+*Scraped **77,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 7,512
 adaderanalk | 9,992
 tamilmirrorlk | 11,621
 virakesarilk | 12,573
-adaderanasinhalalk | 13,501
+adaderanasinhalalk | 13,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,285 (100.0%) of 77,287 articles have been extended.
+77,285 (100.0%) of 77,288 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,24 @@ Israeli-Sri Lanka Friendship Association President of Sri Lanka. TSEGA Melaku, t
 [Data](articles/04cf5c8d.json)
 
 [Extended Data](ext_articles/04cf5c8d.ext.json)
+
+---
+
+### නීති විරෝධීව ගෙනා බීඩි කොළ තොගයක් සමඟ සැකකරුවෙක් නාවික හමුදා භාරයට
+
+*2025-09-21 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214838) · `si`
+
+සිලාවතුර, පන්ඩරවේලි වෙරළ ප්‍රදේශයේ ශ්‍රී ලංකා නාවික හමුදාව විසින් සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී නීතී විරෝධී ලෙස මෙරටට රැගෙන ඒමට උත්සාහ කල බීඩි කොළ කිලෝ ග්‍රෑම් 1,197ක පමණ තොගයක්, සබන් කැට 1,765ක් සහ ඩිංගි යාත්‍රාවක් සමඟ සැකකරුවෙකු සිය භාරයට ගෙන තිබේ.
+
+මුහුදු මාර්ග ඔස්සේ සිදුකෙරෙන ජාවාරම් ඇතුළු නීති විරෝධී ක්‍රියා මැඩපැවැත්වීම සඳහා නාවික හමුදාව දිවයින වටා වෙරළ හා මුහුදු තීරය ආවරණය වන පරිදි නිරන්තර මුර සංචාර සහ සෝදිසි මෙහෙයුම් සිදු කරනු ලබයි.
+
+ඒ අනුව, වයඹ නාවික විධානයට අයත් ශ්‍රී ලංකා නාවික නෞකා ථේරපුත්ත ආයතනය මඟින් සිලාවතුර පන්ඩරවේලි වෙරළ ප්‍රදේශයේ 18 වනදා උදෑසන සිදුකළ මෙම විශේෂ සෝදිසි මෙහෙයුමේදී සැකකටයුතු ඩිංගි යාත්‍රාවක් පරීක්‍ෂාවට ලක් කර ඇත.
+
+එහිදි, එම ඩිංගි යාත්‍රාව තුල තිබී නීතී විරෝධී ලෙස රට තුළට රැගෙන ඒමට උත්සාහ කල, බීඩි කොළ කිලෝ ග්‍රෑම් 485ක් පමණ තොගයක් සහ සබන් කැට 706ක් සමඟ සැකකරුවෙකු සහ එම ඩිංගි යාත්‍රාව නාවික හමුදා භාරයට ගැනීමට කටයුතු කර තිබේ.
+
+...
+
+[Data](articles/447771cc.json)
 
 ---
 
@@ -2113,25 +2131,5 @@ The Minister also stated that it would be to ensure adequate safety and sanitati
 [Data](articles/289e62c5.json)
 
 [Extended Data](ext_articles/289e62c5.ext.json)
-
----
-
-### Electricity Trade Unions
-
-*2025-09-21 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/225627) · `ta`
-
-During yesterday's discussion between the Electricity Board employees and the chiefs of the Electricity Board, the members of the electric trade union have protested.
-
-The meeting was held at the Headquarters of the Ceylon Electricity Board (CEB), with the secretaries of 25 ministries and three union representatives.
-
-It has been decided to continue till the 21st of tomorrow.
-
-At the same time, the electric unions have announced that it will decide on the future of the union action on the 24th.
-
-◼️
-
-[Data](articles/ed51c78b.json)
-
-[Extended Data](ext_articles/ed51c78b.ext.json)
 
 ---

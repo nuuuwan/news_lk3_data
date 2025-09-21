@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 04:06:42**
+As of **2025-09-22 04:38:02**
 
 ## Newspaper Stats
 
-*Scraped **77,305** Articles*
+*Scraped **77,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ islandlk | 4,752
 dailyftlk | 5,488
 adalk | 7,512
 adaderanalk | 9,994
-tamilmirrorlk | 11,624
-virakesarilk | 12,581
+tamilmirrorlk | 11,625
+virakesarilk | 12,582
 adaderanasinhalalk | 13,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,305 (100.0%) of 77,305 articles have been extended.
+77,306 (100.0%) of 77,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Actress Radhika's mother has passed away
+
+*2025-09-22 04:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-ராதிகாவின்-தாயார்-காலமானார்/175-365028) · `ta`
+
+The late actor MR. Geetaradha (age 86), Radha's wife and mother of actress Radhika
+
+Died yesterday evening due to ill health and age. (A)
+
+◼️
+
+[Data](articles/f6fcf004.json)
+
+[Extended Data](ext_articles/f6fcf004.ext.json)
+
+---
 
 ### Accident
 
@@ -117,6 +133,22 @@ In the presidential election in Sri Lanka's presidential election, he was electe
 [Data](articles/76d4b7a9.json)
 
 [Extended Data](ext_articles/76d4b7a9.ext.json)
+
+---
+
+### ஆசிய கிண்ணத்தில் மீண்டும் பாகிஸ்தானை வீழ்த்திய இந்தியா
+
+*2025-09-22 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225695) · `ta`
+
+டுபாயில் நடைபெற்ற ஆசிய கிண்ண சூப்பர் 4 போட்டியில் இந்திய அணி 6 விக்கெட்டுகள் வித்தியாசத்தில் பாகிஸ்தானை தோற்கடித்தது.
+
+அதன்படி, முதலில் துடுப்பெடுத்தாடிய பாகிஸ்தான் அணி 20 ஓவர்களில் 5 விக்கெட்டுக்கு 171 ஓட்டங்கள் பெற்றது. சாஹிப்சாதா ஃபர்ஹான் 58 ஓட்டங்களுடன் சிறப்பித்தார். இந்தியா சார்பில் சிவம் துபே 2 விக்கெட்டுகளை வீழ்த்தினார்.
+
+பின்னர் வெற்றி இலக்கான 172 ஓட்டங்களை இந்திய அணி 18.5 ஓவர்களில் 4 விக்கெட்டுகள் மட்டுமே இழந்து எட்டியது. அபிஷேக் ஷர்மா 74, ஷுப்மன் கில் 47 மற்றும் திலக் வர்மா ஆட்டமிழக்காமல் 30 ஓட்டங்களை எடுத்தனர்.
+
+◼️
+
+[Data](articles/7674e031.json)
 
 ---
 
@@ -2101,45 +2133,5 @@ The H-1B program allows U.S. companies to hire highly skilled foreign workers. U
 [Data](articles/094ee72b.json)
 
 [Extended Data](ext_articles/094ee72b.ext.json)
-
----
-
-### Mosquito nourishing country to eradicate dengue mosquito
-
-*2025-09-21 10:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/டெங்கு-கொசுவை-ஒழிக்க-கொசு-வளர்க்கும்-நாடு/53-364970) · `ta`
-
-"Pick the thorn thorn" is the proverb. Similarly. A separate bio factory has been created in Brazil to produce mosquitoes that do not damage dengue. How to produce mosquitoes that do not cause dengue here? What is its background? Important information has been revealed.
-
-Dengue fever suffers from many countries, including India every year. There are also deaths in dengue. Brazil is one of the most affected countries of this dengue.
-
-There are 21.2 crore people living in Brazil. Millions of people were affected by dengue fever last year in Brazil. A total of 66 lakh people were affected. Of these, 6,297 were killed.
-
-Dengue is a major threat for Brazil. It is in this situation that Brazil has taken a new move to prevent dengue. It is a factory that produces mosquitoes that do not spread dengue. The factory is set up in Curitiba, Brazil. Its name is Wolbito Do Brasil.
-
-...
-
-[Data](articles/c3fd4621.json)
-
-[Extended Data](ext_articles/c3fd4621.ext.json)
-
----
-
-### Emphasize the importance of Chinese-Sri Lankan cooperation
-
-*2025-09-21 10:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-இலங்கை-ஒத்துழைப்பின்-முக்கியத்துவத்தை-வலியுறுத்தல்/175-364969) · `ta`
-
-Defense Secretary at the 12th Beijing Xiangshan Forum
-
-Speaking at a high -level meeting at the 12th Beijing Xiangshan Forum in China, the Defense Secretary emphasized the importance of joint dialogue, regional cooperation and mutual respect in facing global and regional security challenges.
-
-“We must take note of the legitimate security needs of each country, and we must address the differences and controversy between countries and controversy with consultation and consultation. We must continue to follow regionalism and carry out regional economic coordination steadily. ”
-
-The 12th Beijing Xiangshan Forum will be held at the Beijing International Conference Hall in Beijing from 17 to 19 (September). He addressed the fourth session today (19) entitled "Building Regional Peace Through Through and Consultation".
-
-...
-
-[Data](articles/b65b5a9f.json)
-
-[Extended Data](ext_articles/b65b5a9f.ext.json)
 
 ---

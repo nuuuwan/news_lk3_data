@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 03:55:17**
+As of **2025-09-22 04:06:42**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,304 (100.0%) of 77,305 articles have been extended.
+77,305 (100.0%) of 77,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### விபத்தில் குடும்பப் பெண் உயிரிழப்பு
+### Accident
 
 *2025-09-22 03:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பப்-பெண்-உயிரிழப்பு/175-365027) · `ta`
 
-யாழ். தென்மராட்சி கொடிகாமம் பொலிஸ் பிரிவிற்குட்பட்ட கச்சாய் பகுதியில் இடம்பெற்ற விபத்தில் குடும்பப் பெண் ஒருவர் உயிரிழந்துள்ளதுடன், இளைஞர் ஒருவர் படு காயமடைந்துள்ளார்.
+Yall. A family woman was killed and a youth was injured in an accident in the Kachchai area of ​​the Thenmarachchi Kodikamam police division.
 
-குறித்த பெண்ணும், இளைஞர் ஒருவரும் மோட்டார் சைகிளில் கச்சாய் வீதி ஊடாக  கொடிகாமம் நோக்கி பயணித்துக்கொண்டிருந்த வேளை  அதே திசையில் சட்டவிரோத மணல் ஏற்றிக்கொண்டு சென்ற உழவு இயந்திரம் மோட்டார் சைக்கிள் மீது மோதியே இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred when a woman and a young man were traveling towards Kodikamam through the Kachchai road in a motorcycle.
 
-சம்பவத்தில் மிருசுவிலைச் சேர்ந்த நந்தகுமார் ஜெயலக்சுமி என்ற 46 வயதுடைய குடும்பப் பெண் உயிரிழந்துள்ளார்.
+A 46 -year -old family woman from Mrusuwil, Nandakumar Jayalakshmi, died.
 
 ◼️
 
 [Data](articles/5495e549.json)
+
+[Extended Data](ext_articles/5495e549.ext.json)
 
 ---
 

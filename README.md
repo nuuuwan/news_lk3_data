@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 19:20:20**
+As of **2025-09-21 19:06:31**
 
 ## Newspaper Stats
 
-*Scraped **77,272** Articles*
+*Scraped **77,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,671
 dailymirrorlk | 4,733
 islandlk | 4,752
 dailyftlk | 5,485
-adalk | 7,511
+adalk | 7,510
 adaderanalk | 9,985
-tamilmirrorlk | 11,621
+tamilmirrorlk | 11,620
 virakesarilk | 12,572
 adaderanasinhalalk | 13,495
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 13,495
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,270 (100.0%) of 77,272 articles have been extended.
+77,270 (100.0%) of 77,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
-
-### மகள், தந்தையின் விபரீத முடிவால் மகள் பலி; தந்தை கவலைக்கிடம்
-
-*2025-09-21 18:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மகள்-தந்தையின்-விபரீத-முடிவால்-மகள்-பலி-தந்தை-கவலைக்கிடம்/76-365011) · `ta`
-
-தன்னுயிரை மாய்த்துக்கொண்ட 17 வயதான மகளின்  இழப்பை தாங்கிக்கொள்ள முடியாத தந்தை தன்னுயிரையும் மாய்த்துக்கொள்ள முயன்ற சம்பவம் கண்டி பன்விலை பொலிஸ் பிரிவிற்குட்பட்ட மடுல்கலை டியனில்ல தோட்டத்தில் இடம்பெற்றுள்ளது.
-
-யுவதி ஒருவர் தன்னுயிரை‌ 19 ஆம் திகதி  மாய்த்துக்கொண்டார்.  துயரம் தாளாத தந்தை கழுத்தை அறுத்துக்கொண்டார்.‌ முதலாவது முயற்சி தோல்வி அடையவே மறுபடியும் முயன்றுள்ளார் அந்த முயற்சியும் தோல்வியடைந்துள்ளது.
-
-17 வயதான யுவதியின் சடலம் பிரேதப் பரிசோதனைக்காக கண்டி வைத்தியசாலைக்கு  செல்லப்பட்டுள்ளது . இச்சம்பவங்கள்  தொடர்பான மேலதிக விசாரணைகளை பன்விலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/03523284.json)
-
----
 
 ### British preparing to make a decision that hurts
 
@@ -109,22 +93,6 @@ It has also been discovered that the Metalifest (ice) was also uncovered.
 [Data](articles/d1fa7d87.json)
 
 [Extended Data](ext_articles/d1fa7d87.ext.json)
-
----
-
-### සිසුන් තිදෙනෙක් ලිංගික අපයෝජනය කළ පාසල් පාලක සභාවේ භාණ්ඩාගාරික අල්ලයි
-
-*2025-09-21 17:17:29* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-තිදෙනෙක්-ලිංගික-අපයෝජනය-කළ-පාසල්-පාලක-සභාවේ-භාණ්ඩාගාරික-අල්ලයි/11-418634) · `si`
-
-අනුරාධපුර ප්‍රදේශයේ පාසලක ඉගෙනුම ලබන වයස අවුරුදු 10, 12 සහ 13 වන පිරිමි දරුවන් තිදෙනකුට බරපතළ ලිංගික අපයෝජනයක් සිදුකර තවත් එවැනි දරුවෙකුට ලිංගික අපචාරයක් සිදු කළ, එම පාසලේ පාලක සභාවේ භාණ්ඩාගාරිකවරයා ලෙස කටයුතු කළ විශ්‍රාමික හමුදා සෙබළෙකු අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
-
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ අනුරාධපුර පුල්ලයාර් හන්දියේ පදිංචිව සිටි 62 හැවිරිදි ආබාධිත පුද්ගලයෙකි.
-
-එම පාසලේ ඉගෙනුම ලබන ශ්‍රවනාබාධිත තම දරුවා රැගෙන යාමට පැමිණි අවස්ථාවේදී දරුවා පෙනෙන්නට නොසිටි බවත්, පසුව සොයා බැලීමේදී පාසල් ළිඳ ළඟ සිට දිව ආ බවත්, ඒ සම්බන්ධයෙන් දරුවාගෙන් කරුණු විමසීමේදී මෙම සිදුවීම පිළිබඳ දැනගත් බවට එම දරුවාගේ මව සිදු කළ පැමිණිල්ලකට අනුව සැකකරු සිදු කළ බරපතළ ලිංගික අපයෝජන සිද්ධීන් රැසක් අනාවරණය වූ බව පොලිසිය සඳහන් කළේය.
-
-...
-
-[Data](articles/1e09d88c.json)
 
 ---
 
@@ -2127,5 +2095,47 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/dd5cf3e4.json)
 
 [Extended Data](ext_articles/dd5cf3e4.ext.json)
+
+---
+
+### Public transport permit to drivers involved in passenger transportation
+
+*2025-09-21 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214812) · `si`
+
+Transport and Highways Minister Bimmantha says that it is compulsory to obtain the 'Public Transport License' on December 31st December.
+
+The Minister said that the license is being planned by now and public transport drivers must obtain the license at the end of this year.
+
+"Seat Belt now. I admit when some buses were produced, there were no seat belt. But bus modifies can be made up the seat belt. Now the child's school bag is now taking me to deceive me, policemen. These people do not deserve 50 people. We have taken a decision that the searus people who want to come to public transport have to come. So we think that all the driver of people transporting people should take public transport permit. Now we plan plans and get the license that PT is definitely done by December 31 ... "
+
+◼️
+
+[Data](articles/7adf84d6.json)
+
+[Extended Data](ext_articles/7adf84d6.ext.json)
+
+---
+
+### Showers and wind condition further
+
+*2025-09-21 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214811) · `si`
+
+The Department of Meteorology states that the existing rain and windy of the island is further expected.
+
+Showers will occur at several places in the Western, and Sabaragamuwa provinces in the Western, and Sabaragamuwa provinces.
+
+The Department of Meteorology announces that several showers in the North and Wayamba areas could occur.
+
+Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+From the Central, North-Central and Northwestern provinces, in the Central, North-central and Northwestern provinces and the Hambantota district.
+
+The Meteorological Department urges the public to take necessary arrangements to reduce the dangers of lightning and temporary winds with thunderstorms.
+
+◼️
+
+[Data](articles/cf009941.json)
+
+[Extended Data](ext_articles/cf009941.ext.json)
 
 ---

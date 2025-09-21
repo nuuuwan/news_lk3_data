@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 17:41:06**
+As of **2025-09-21 17:58:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,264 (100.0%) of 77,268 articles have been extended.
+77,267 (100.0%) of 77,268 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,39 +48,49 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මත්ද්‍රව්‍ය සහ මත්පෙති තොගයක් සමග 'පොට්ට අමිල' අත්අඩංගුවට
+### Pattti Amila arrested with drugs and drugs
 
 *2025-09-21 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214831) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයකු මෙන්ම මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ද වන 'පොට්ට අමිල' සහ ඔහුගේ සමීපතමයන් තිදෙනෙකු මොරගහහේන පොලීසිය විසින් අද (21) දහවල් අත්අඩංගුවට ගෙන ඇත.
+The Moragahahena Police have arrested a drug dealer as well as a drug dealer, a drug dealer and three close friends.
 
-ඔවුන් සතුව තිබූ මත්පෙති 5,300ක් සහ අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 15,000ක් ද පොලීසිය යොයාගෙන ඇති අතර, ඒවායේ වටිනාකම රුපියල් ලක්‍ෂ 10කට ආසන්නය.
+Police have also taken 5,300 drugs and 15,000 milligrams of ice narcotics.
 
-එමෙන්ම මෙම ජාවාරමට යොදාගත් ජංගම දුරකථන 3ක්ද පොලීසිය සිය භාරයටට ගෙන ඇත.
+The police also seized three mobile phones used in this smuggler.
 
-සැකකරුගේ සමීපතමයෙකු ගෝනපොල කුඹුකවත්ත ප්‍රදේශයේ  අයිස් මත්ද්‍රව‍්‍ය බෙදාහැරීම සඳහා පැමිණෙමින් සිටිනබවට මොරගහහේන පොලීසියට අනුයුක්ත කොට්ඨාස බුද්ධි අංශයේ නිලධාරීන්ට සහ විශේෂ කාර්යාංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව එම සැකකරු අත්අඩංගුවට ගෙන සිදුකළ පරික්ෂාවේදී ඔහු සන්තකයේ තිබී අයිස් මත්ද්‍රව‍ය මිලිග්‍රෑම් 2,200 ක් සොයාගෙන.
+The suspect's close association with the officers of the suspect, the suspects have been arrested on the presence of the Moragahapola, police intelligence officers and the Special Bureau of the Hon.
 
-සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේ දී ඔහු පවසා ඇත්තේ එම මත්ද්‍රව‍ය 'පොට්ට අමිල' විසින් තවත් පුද්ගලයෙකුට ලබාදීම සඳහා තමන් වෙත ලබාදුන් බවය.
+In questioning the suspect, he has said that the drug "Pattila Amila" was given to another person.
+
+He and two others have been arrested in search of 'Pattti Amila' to arrest him and two other people were seized by the police.
+
+The other two suspects were found in possession of 2,100 milligrams of ice and 300 alcohol.
+
+The main suspect, "Pattt Amila 'is a close person in the Boxi Kasun and' Manna Ramim ', police said.
 
 ...
 
 [Data](articles/bfdc95d8.json)
 
+[Extended Data](ext_articles/bfdc95d8.ext.json)
+
 ---
 
-### “ஜனநாயக விரோத ஆட்சிச் சிந்தனையை   தோற்கடிக்க  ஒன்றிணைவோம்”
+### “Let us unite to defeat the anti -democratic thought”
 
 *2025-09-21 17:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயக-விரோத-ஆட்சிச்-சிந்தனையை-தோற்கடிக்க-ஒன்றிணைவோம்/175-365009) · `ta`
 
-தற்போதைய அரசாங்கம் மிகவும் திட்டமிட்ட வகையில், இந்நாட்டில் ஒரு கட்சி மட்டுமே அரசாங்கத்தை அமைத்து ஆட்சியை நடத்தும் எண்ணக்கருவை முன்னெடுத்து வருகின்றது என்று குற்றஞ்சாட்டிய எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, ஜனநாயக விரோத ஆட்சிச் சிந்தனையைத்  தோற்கடிக்க  ஒன்றிணையுமாறு அழைப்பு விடுத்தார்.
+Opposition leader Sajith Premadasa, who has accused the current government of deliberately to form a government in the country and carry out the idea of ​​forming a government in the country, called for unity to defeat the anti -democratic thinking.
 
-மரண உதவிச் சங்கம், விவசாயிகள் சங்கம், மீனவர் சங்கம், இளைஞர் கழகம் முதல் மதஸ்தலங்களின் பரிபாலன சபை வரை அனைத்தையும் அவர்கள் தங்கள் கட்டுப்பாட்டில் எடுக்க முயற்சித்து வருகின்றனர். சகல சமூக அமைப்புகளினதும் அதிகாரத்தை, கட்டுப்பாட்டை வலுக்கட்டாயமாகக் கைப்பற்ற முயற்சித்து வருகின்றனர். தற்போது சுயாதீன சிவில் பாதுகாப்புக் குழுவிற்கும் கூட அரசியல் நியமனங்கள் வழங்கப்பட்டுள்ளன என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+They are trying to take control of everything from the Death Assistant Association, the Farmers' Association, the Fishermen's Association, the Youth Club. They are trying to forcibly seize the power and control of all social organizations. The Leader of the Opposition said that even the independent civil defense committee has also been given political appointments.
 
-அனுராதபுரம் மாவட்டத்தில் இம்முறை  உள்ளூராட்சி மன்றங்களுக்குப் புதிதாகத் தெரிவு செய்யப்பட்ட உறுப்பினர்களுடன் ஞாயிற்றுக்கிழமை (21) அன்று இடம்பெற்ற சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு குறிப்பிட்டார்.
+Opposition Leader Sajith Premadasa said this while addressing a meeting held on Sunday (21) with the newly elected members of the local government in Anuradhapura district.
 
 ...
 
 [Data](articles/8318d640.json)
+
+[Extended Data](ext_articles/8318d640.ext.json)
 
 ---
 
@@ -176,21 +186,23 @@ Meanwhile, an earthquake research institute has reported a 3.1 magnitude earthqu
 
 ---
 
-### මධ්‍යම සංස්කෘතික අරමුදලේ රු.බි. 8ක් අවභාවිත වෙලා
+### Central Cultural Fund Rs. 8 are underpired
 
 *2025-09-21 16:10:33* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-සංස්කෘතික-අරමුදලේ-රු-බි--8ක්-අවභාවිත-වෙලා/11-418633) · `si`
 
-මධ්‍යම සංස්කෘතික අරමුදලේ රුපියල් මිලියන 8000ක් අවභාවිතා වීම පිළිබඳ විමර්ශනයක් සිදු කරන බව බුද්ධශාසන.ආගමික හා සංස්කෘකිත කටයුතු  නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක පවසයි.
+Minister of Buddha Sasana and Culture Dissanayake says that an investigation into obesity of Rs. 8,000 million is being conducted by the Central Cultural Fund.
 
-අමාත්‍යවරයා කියා සිටියේ 2017 වසරේ සිට 2020 වසර දක්වා කාලසීමාව තුළ ආගමික ස්ථාන සහ විවිධ කටයුතු සඳහා මධ්‍යම සංස්කෘතික අරමුදල මඟින් මූල්‍ය සහාය ලබා දීමේදී සිදුව ඇති බව කියන අක්‍රමිකතා සම්බන්ධයෙන් පරීක්ෂා කිරීම සඳහා ත්‍රිපුද්ගල කමිටුවක් පත් කර ඇති බවත් ඒ සම්බන්ධයෙන් සිදු කළ විමර්ශන කමිටුව හරහා මෙම තොරතුරු අනාවරණය වි ඇති බවය.
+The Minister said that a three-member committee has been appointed to inspect the irregularities of religious places and the Central Cultural Fund (Central Cultural Fund) to provide financial assistance to the National Cultural Fund within 2017 to 2020.
 
-පසුගිය මැයි 17 වනදා පැවති මධ්‍යම සංස්කෘතික අරමුදලේ 223 වන පාලක මණ්ඩල රැස්වීමේදී මෙම අක්‍රමිකතා සම්බන්ධයෙන් පරීක්ෂා කිරීමට කමිටුවක් පත් කිරිමට අදාළව මෙම විමර්ශන කටයුතු සිදු වේ.
+These investigations are under the appointment of a committee to check on these irregularities at the 213rd Gover of the Central Cultural Fund last 17th May.
 
-අමාත්‍යවරයා වැඩිදුරටත් කියා සිටියේ එම කමිටුවේ අවසන් වාර්තාවෙන් පසුව මහජන මුදල් අවභාවිතා කළ පුද්ගලයින්ට තරාතිරම නොබලා නිතිය ක්‍රියාත්මක කිරිමට කටයුතු කරන බවය.
+The Minister further stated that after the final report of the committee, the people who insisted the public will be implemented without ranking.
 
 ◼️
 
 [Data](articles/0d09ec6a.json)
+
+[Extended Data](ext_articles/0d09ec6a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 03:05:57**
+As of **2025-09-22 03:37:06**
 
 ## Newspaper Stats
 
-*Scraped **77,301** Articles*
+*Scraped **77,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,671
 dailymirrorlk | 4,733
 islandlk | 4,752
-dailyftlk | 5,485
+dailyftlk | 5,488
 adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,623
@@ -26,11 +26,59 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,301 (100.0%) of 77,301 articles have been extended.
+77,303 (100.0%) of 77,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Phoenix rising: How Colombo Stock Exchange symbolises nation’s remarkable resurrection
+
+*2025-09-22 03:05:24* · [`dailyftlk`](https://www.ft.lk/columns/Phoenix-rising-How-Colombo-Stock-Exchange-symbolises-nation-s-remarkable-resurrection/4-781989) · `en`
+
+Success will require both Government and citizens to embrace a shared vision — supporting reforms, backing key sectors, and investing in the nation’s future
+
+All Share Price Index growth: 10,119 points or 93% gain post Presidential election
+
+Market PE stands at 9.2, highly undervalued compared to regional peers
+
+To truly understand the story of a nation, one need not look further than the pulse of its stock exchange. It is a living, breathing entity that discounts the future, processes the present, and is invariably haunted by the ghosts of the past. For 16 tumultuous years, the Colombo Stock Exchange (CSE) has been the most honest narrator of Sri Lanka’s modern saga—a tale of euphoric triumph, devastating despair and now become the forward barometer of Sri Lanka’s economic rebirth.
+
+In exactly one year since the Presidential elections, the ASPI has gained more than 90%, gaining 10,119 points from 10,966 to 21,085 as of 19 September 2025.
+
+...
+
+[Data](articles/a4ff5e7e.json)
+
+---
+
+### Of awards, rewards and swards
+
+*2025-09-22 02:57:40* · [`dailyftlk`](https://www.ft.lk/columns/Of-awards-rewards-and-swards/4-781988) · `en`
+
+I observed a surprise boom of “award ceremonies” showcasing truly deserving recipients and also “others.” I cannot tell with evidence whether one can pay and buy a prestigious award in Sri Lanka. I have politely declined to be involved as a keynote speaker or as the chief guest in several such “suspected” events. Today’s column is all about awards, rewards, and swards.
+
+...
+
+[Data](articles/88182e1e.json)
+
+[Extended Data](ext_articles/88182e1e.ext.json)
+
+---
+
+### Be warned of thieves and nuisance-makers in AI space
+
+*2025-09-22 02:53:32* · [`dailyftlk`](https://www.ft.lk/columns/Be-warned-of-thieves-and-nuisance-makers-in-AI-space/4-781986) · `en`
+
+Since the digital space is rich with resources, it naturally draws the interested persons to hack the systems to gain an undue enrichment. Hence, hackers and modes of hacking are aplenty.3 Government institutions are hacked not only for money but also to embarrass the rulers through temporary stoppage of government activities. Hence, AKD Government which is bent on making a digital transformation of the Sri Lanka economy is correct in its action to setup an outfit that will monitor the work of the key institutions day and night and prevent cyber attackers from destroying the system
+
+...
+
+[Data](articles/ef611c9f.json)
+
+[Extended Data](ext_articles/ef611c9f.ext.json)
+
+---
 
 ### President Anura Kumara Dissanayake has been appointed one year
 
@@ -2091,63 +2139,5 @@ The whole of India is more roadside food shops. Panipuri shops are becoming popu
 [Data](articles/19ad9acc.json)
 
 [Extended Data](ext_articles/19ad9acc.ext.json)
-
----
-
-### லுணுகம் வெஹர பகுதியில் சட்டவிரோதமாக கஞ்சா செடிகளை வளர்த்த மூவர் கைது!
-
-*2025-09-21 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225641) · `ta`
-
-Three persons have been arrested for growing cannabis plants on 3 acres of land in Nikveva area, which belongs to the Lunugam Vehara Police Division.
-
-The arrest was taken during the surroundings of the police.
-
-The suspects are said to be 30,31 and 34 years old from Dhanamalwila.
-
-◼️
-
-[Data](articles/e6c47511.json)
-
-[Extended Data](ext_articles/e6c47511.ext.json)
-
----
-
-### Special island-wide police raids result in over 700 arrests
-
-*2025-09-21 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112719/special-island-wide-police-raids-result-in-over-700-arrests) · `en`
-
-Sri Lanka Police announced that a total of 714 suspects were arrested yesterday (20) during island-wide operations conducted under the instructions of the Inspector General of Police (IGP) to combat crime and drug-related offenses.
-
-The special operations were carried out covering all regional police stations at the divisional level.
-
-According to police, a total of 28,372 individuals were subjected to inspection during the course of these operations, resulting in the arrest of 714 suspects.
-
-Additionally, 253 warrant holders were apprehended, and 19 individuals were directly identified in connection with ongoing criminal investigations.
-
-Police also took actions to enforce the law against 23 people for reckless driving and 4,495 people for traffic violations.
-
-◼️
-
-[Data](articles/04b6f7bb.json)
-
-[Extended Data](ext_articles/04b6f7bb.ext.json)
-
----
-
-### Today's Periods: Tomorrow
-
-*2025-09-21 10:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பீரியட்ஸ்-நாளைக்கு-வா/175-364967) · `ta`
-
-A 24 -year -old young girl who is staying in Biji in Bangalore tries to rape. The woman stabbed her with a knife, tearing her clothes and taking the photo on her cell phone and told him to comply with the desire.. But the woman ‛ர்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்க்.. The youth has been arrested following a complaint lodged by the police with a knife injuries.
-
-There is a privately owned Fiji in the Whitefield in Bangalore. Here is the facility for men and women to stay separately. Thus both sides stay. A 24 -year -old teenager, who works as an analyst in a private company in this Fiji.
-
-Sai Baba Sannur, Babu, stays in this Biji. For this Babu, the teenager has a preference. He thinks that somehow he should reach the young woman.
-
-...
-
-[Data](articles/df9cfed7.json)
-
-[Extended Data](ext_articles/df9cfed7.ext.json)
 
 ---

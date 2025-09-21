@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 04:38:02**
+As of **2025-09-22 05:20:31**
 
 ## Newspaper Stats
 
-*Scraped **77,307** Articles*
+*Scraped **77,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 775
 economynextcom | 4,671
 dailymirrorlk | 4,733
 islandlk | 4,752
-dailyftlk | 5,488
+dailyftlk | 5,489
 adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,625
@@ -26,11 +26,29 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,306 (100.0%) of 77,307 articles have been extended.
+77,308 (100.0%) of 77,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Senaka Alawattegama appointed Director/CEO of Kelani Valley Plantations
+
+*2025-09-22 04:49:57* · [`dailyftlk`](https://www.ft.lk/business/Senaka-Alawattegama-appointed-Director-CEO-of-Kelani-Valley-Plantations/34-782003) · `en`
+
+Kelani Valley Plantations PLC (KVPL), part of Hayleys Plantations, has appointed industry veteran Senaka Alawattegama as Director/Chief Executive Officer, effective 1 August.
+
+Alawattegama was also appointed as a Director to D.P.L. Plantations Ltd., Kelani Valley Resorts Ltd., Mabroc Teas Ltd., and Kalupahana Power Company Ltd.
+
+With over 40 years of experience in the plantation sector, Alawattegama began his career at the Sri Lanka State Plantations Corporation before joining Talawakelle Tea Estates PLC (TTE PLC) at its inception. In February 2020, he was appointed Director/CEO, leading the company to significant milestones in sustainability, market growth and operational efficiency.
+
+...
+
+[Data](articles/55f8dbb1.json)
+
+[Extended Data](ext_articles/55f8dbb1.ext.json)
+
+---
 
 ### Actress Radhika's mother has passed away
 
@@ -136,19 +154,21 @@ In the presidential election in Sri Lanka's presidential election, he was electe
 
 ---
 
-### ஆசிய கிண்ணத்தில் மீண்டும் பாகிஸ்தானை வீழ்த்திய இந்தியா
+### India beat Pakistan again in Asian Cup
 
 *2025-09-22 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225695) · `ta`
 
-டுபாயில் நடைபெற்ற ஆசிய கிண்ண சூப்பர் 4 போட்டியில் இந்திய அணி 6 விக்கெட்டுகள் வித்தியாசத்தில் பாகிஸ்தானை தோற்கடித்தது.
+The Indian team defeated Pakistan by 6 wickets in the Asian Bowl Super 4 match in Dubai.
 
-அதன்படி, முதலில் துடுப்பெடுத்தாடிய பாகிஸ்தான் அணி 20 ஓவர்களில் 5 விக்கெட்டுக்கு 171 ஓட்டங்கள் பெற்றது. சாஹிப்சாதா ஃபர்ஹான் 58 ஓட்டங்களுடன் சிறப்பித்தார். இந்தியா சார்பில் சிவம் துபே 2 விக்கெட்டுகளை வீழ்த்தினார்.
+Accordingly, Pakistan scored 171 runs for the loss of 5 wickets in 20 overs. Sahibsada Farhan highlighted with 58 runs. Shivam Dubey took 2 wickets for India.
 
-பின்னர் வெற்றி இலக்கான 172 ஓட்டங்களை இந்திய அணி 18.5 ஓவர்களில் 4 விக்கெட்டுகள் மட்டுமே இழந்து எட்டியது. அபிஷேக் ஷர்மா 74, ஷுப்மன் கில் 47 மற்றும் திலக் வர்மா ஆட்டமிழக்காமல் 30 ஓட்டங்களை எடுத்தனர்.
+The Indian team then lost only 4 wickets in 18.5 overs. Abhishek Sharma 74, Shubman Gill 47 and Tilak Verma scored 30 runs.
 
 ◼️
 
 [Data](articles/7674e031.json)
+
+[Extended Data](ext_articles/7674e031.ext.json)
 
 ---
 
@@ -2113,25 +2133,5 @@ Six months later, a shocking incident took place. This means that when Norma goe
 [Data](articles/052d8eb2.json)
 
 [Extended Data](ext_articles/052d8eb2.ext.json)
-
----
-
-### White House says new H-1B visa fee applies only to new applicants
-
-*2025-09-21 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112720/white-house-says-new-h-1b-visa-fee-applies-only-to-new-applicants) · `en`
-
-The White House said on Saturday that the new 100,000-U.S.-dollar fee for H-1B visas will not apply to current holders of valid visas re-entering the United States, following confusion and concern sparked by the Trump administration’s introduction of the measure.
-
-The fee, taking effect on Sunday, “applies only to new visas, not renewals, and not current visa holders,” said White House Press Secretary Karoline Leavitt in a post on X. “H-1B visa holders can leave and re-enter the country to the same extent as they normally would.”
-
-She also said that it’s a “one-time fee that applies only to the petition.”
-
-The H-1B program allows U.S. companies to hire highly skilled foreign workers. U.S. President Donald Trump on Friday signed a proclamation raising the fee that companies pay to sponsor H-1B applicants to 100,000 dollars, saying the move is intended to ensure that the United States brings in highly skilled talent whom American workers cannot replace.
-
-...
-
-[Data](articles/094ee72b.json)
-
-[Extended Data](ext_articles/094ee72b.ext.json)
 
 ---

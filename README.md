@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 21:56:31**
+As of **2025-09-21 22:08:50**
 
 ## Newspaper Stats
 
@@ -26,29 +26,33 @@ adaderanasinhalalk | 13,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,284 (100.0%) of 77,285 articles have been extended.
+77,285 (100.0%) of 77,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### ඊශ්‍රායලයේ වීසා නැතිව ඉන්න ලාංකිකයන්ට සුබ පුවතක්
+### Good news for Sri Lankans who are missing in Israel
 
 *2025-09-21 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214839) · `si`
 
-ඊශ්‍රායලයේ වීසා නොමැතිව ජීවත්වන ශ්‍රී ලාංකිකයන්ට වීසා ලබාගැනීම සඳහා විශේෂ සාකච්ඡාවක් පැවැත් වූ බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+Sri Lankan Ambassador, Sri Lankan Ambassador, has held a special discussion for Sri Lankans living without visa without a visa.
 
-දෙරට අතර පාර්ලිමේන්තු මට්ටමින් සහයෝගිතාව ගොඩනැගීම සඳහා ඊශ්‍රායල පාර්ලිමේන්තුවේ පිහිටුවා ඇති පාර්ලිමේන්තු මිත්‍රත්ව සංගමයේ වාර්ෂික හමුවේ මේ පිළිබඳ සාකච්ඡාවට භාජනය වී ඇත.
+The two countries have discussion in the Members of Parliamentary Friendship Association, established in the Parliamentary Friesting Association, for the building of the two countries.
 
-මෙහිදී ශ්‍රී ලාංකිකයන් මෙන්ම වෙනත් ජාතිකයන් ද වීසා නොමැතිව සිටින බැවින් ඒ පිළිබඳ ඊශ්‍රායල පාර්ලිමේන්තුවේ විදේශ සේවකයන් පිළිබව කමිටුව හමුවේ කරුණ දක්වන ලෙස දන්වා ඇත.
+Since Sri Lankans and other nationalities are not without visas have been informed as to the Committee on Foreign Officers in Israel.
 
-ඒ අනුව ඊළඟ සාකච්ඡාවේ දී මෙම ගැටලුව පිළිබඳ ඊශ්‍රායල පාර්ලිමේන්තුවේ විදේශ සේවකයන් පිළිබඳව කමිටුව හමුවේ කරුණු දැක්වීමට බලාපොරොත්තුවන බව නිමල් බණ්ඩාර මහතා පවසයි.
+According to the next discussion, the committee will look into the matter with the committee of the Israeli Parliament of Israel.
 
-මේ අතර මෙම සාකච්ඡාවේ දී ශ්‍රී ලංකා පාර්ලිමේන්තු නිලධාරීන්ට ඊශ්‍රායලයේ දී ලබාගත හැකි පුහුණුවීම පිළිබඳවද සාකච්ඡා පවත්වා ඇත.
+Meanwhile, discussions also held discussions with the training of the Sri Lankan Parliamentary officials in Israel.
 
-...
+Israeli-Sri Lanka Friendship Association President of Sri Lanka. TSEGA Melaku, the officials of the Ministry of External Affairs, Deputy Chief of Officers of the Parliament and the Sri Lankan Embassy in Parliament Hemantha Ekanayake were also present.
+
+◼️
 
 [Data](articles/04cf5c8d.json)
+
+[Extended Data](ext_articles/04cf5c8d.ext.json)
 
 ---
 

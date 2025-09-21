@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 22:20:28**
+As of **2025-09-21 22:54:00**
 
 ## Newspaper Stats
 
-*Scraped **77,285** Articles*
+*Scraped **77,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 7,512
 adaderanalk | 9,992
 tamilmirrorlk | 11,621
 virakesarilk | 12,573
-adaderanasinhalalk | 13,499
+adaderanasinhalalk | 13,501
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,285 (100.0%) of 77,285 articles have been extended.
+77,285 (100.0%) of 77,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
+
+### 2024 වසරේ වත්කම් හා බැරකම් ප්‍රකාශන ලබානොදුන් පිරිස 42ක්
+
+*2025-09-21 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214841) · `si`
+
+2025 වසරේ මාර්තු 25 වනදා වනවිට 2024 වසරේ වත්කම් හා බැරකම් ප්‍රකාශන ලබානොදුන් රාජ්‍ය නිලධාරීන්ගේ ලැයිස්තුවක් අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සිය වෙබ් අඩවියේ පළ කර තිබේ.
+
+ඒ, අතරට හිටපු අමාත්‍යවරයෙක්, හිටපු පළාත් ආණ්ඩුකාරවරුන් සිව්දෙනෙක්, හිටපු රාජ්‍ය අමාත්‍යවරුන් 6 දෙනෙකු, හිටපු තානාපතිවරුන් 29 දෙනෙකු සහ අභියාචනාධිකරණ විනිසුරුවරුන් දෙදෙනෙකු ඇතුළත් වේ.
+
+එලෙස වත්කම් හා බැරකම් ප්‍රකාශ ලබානොදුන් හිටපු අමාත්‍යවරයා වන්නේ හිටපු ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතාය.
+
+හිටපු ආණ්ඩුකාරවරුන් වන මාර්ෂල් ඔෆ් ද එයාර් ෆෝස් රොෂාන් ගුණතිලක, සෙන්තිල් තොන්ඩමන්, නවීන් දිසානායක, විලියම් ගමගේ යන පිරිස වත්කම් හා බැරකම් ප්‍රකාශ අදාළ දිනය වනවිට ඉදිරිපත් කර තිබුණේ නැත.
+
+එමෙන්ම හිටපු රාජ්‍ය අමාත්‍යවරුන් වන ලොහාන් රත්වත්තේ, තාරක බාලසූරිය, ශාන්ත බණ්ඩාර, කාදර් මස්තාන්, සිවනේසතුරෙයි චන්ද්‍රකාන්තන් සහ සුරේන් රාඝවන් යන පිරිස ද එලෙස වත්කම් සහ බැරකම් ප්‍රකාශ ඉදිරිපත් කර නොතිබූ ලැයිස්තුවට අයත් වේ.
+
+◼️
+
+[Data](articles/f7eb9a55.json)
+
+---
+
+### ඉන්දියාවට ලකුණු 172ක ඉලක්කයක්
+
+*2025-09-21 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214840) · `si`
+
+ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි 4 වටයේ ඉන්දියාවට එරෙහිව අද (21) පැවැත්වෙන තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවාර 20 තුළදී ලකුණු 171/5ක් රැස්කිරීමට සමත් විය.
+
+ඩුබාහිහිදී පැවැත්වෙන මෙම තරගයේ කාසියේ වාසිය දිනාගැනීමට ඉන්දීය නායත සූර්යකුමාර් යාදව් සමත් වූ අතර, ඔහු පළමුව පන්දු යැවීමට තීරණය කළේය.
+
+පාකිස්තාන ඉනිම ඔසවා තැබූ ආරම්භක පිතිකරු සහිබ්සාඩා ෆර්හාන් පන්දු 45කට මුහුණදෙමින් ලකුණු 58ක් රැස්කිරීමට සමත් විය.
+
+ඊට අමතරව මොහොමඩ් නවාස් හා සයිම් අයුබ් ලකුණු 21 බැගින් රැස්කළහ.
+
+කෙසේ නමුත් ඔවුන්ගේ අත්දැකීම් බහුලම පන්දු යවන්නා වූ ජස්ප්‍රිත් බුම්රා මෙහිදී ලකුණු 45ක් ලබාදුන් අතර, පන්දුවාර 4 තුළදී කිසිදු කඩුල්ලක් දවාගැනීමට ද නොහැකි විය.
+
+මෙය බුම්රා ජාත්‍යන්තර විස්සයි20 තරග බිමේ වරට 3කට පසු දැඩිම පහරකෑමකට ලක්වූ අවස්ථාව විය.
+
+අවසන් වරට 2022 වසරේ දී ඔස්ට්‍රේලියාව හමුවේ කිසිදු කඩුල්ලක් නොමැතිව ලකුණු 50ක් ලබාදීමෙන් පසු මේ දක්වා කිසිදු අවස්ථාවක ප්‍රතිවාදීන්ට ලකුණු 29ට වඩා ලබාදී නොතිබුණි.
+
+◼️
+
+[Data](articles/2392b181.json)
+
+---
 
 ### Good news for Sri Lankans who are missing in Israel
 
@@ -2089,49 +2133,5 @@ At the same time, the electric unions have announced that it will decide on the 
 [Data](articles/ed51c78b.json)
 
 [Extended Data](ext_articles/ed51c78b.ext.json)
-
----
-
-### Drug shortage stems from procurement issues, not financial constraints – Health Minister
-
-*2025-09-21 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112716/drug-shortage-stems-from-procurement-issues-not-financial-constraints-health-minister) · `en`
-
-Health Minister Nalinda Jayatissa has stated that the prevailing shortage of medicines within the country is not due to financial constraints.
-
-Speaking at a ceremony in Ampara, the Minister stated that the current shortage of medicines has arisen due to procurement-related issues.
-
-Accordingly, procurement processes for importing medicines have already commenced, with supplies expected to arrive after November, Minister Nalinda said.
-
-Commenting further, the Minister noted that certain medicines are currently unavailable in the private sector, including pharmacies.
-
-“We do not allow registration based on unlimited prices during the drug registration process. A specific price range has been set, taking into account the prevailing market situation in South Asian countries. Those unwilling to comply with this pricing structure have chosen not to supply medicines,” he said.
-
-...
-
-[Data](articles/860333fc.json)
-
-[Extended Data](ext_articles/860333fc.ext.json)
-
----
-
-### Young people laid off the far-reaching dispute
-
-*2025-09-21 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214816) · `si`
-
-A youth was attacked with a sharp instrument in the hemory of the Hemmatagama police division.
-
-The killings have been carried out in the night (20).
-
-The victim was a 21 year old resident of the Demo.
-
-Investigations have revealed that the murder had been carried out by taking a private dispute.
-
-The remains are placed at the Hemmatagama hospital morgue and the suspect involved in the 23-year-old incident has been arrested.
-
-◼️
-
-[Data](articles/18ab69a6.json)
-
-[Extended Data](ext_articles/18ab69a6.ext.json)
 
 ---

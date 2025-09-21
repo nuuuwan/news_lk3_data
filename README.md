@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-21 12:37:39**
+As of **2025-09-21 12:53:24**
 
 ## Newspaper Stats
 
-*Scraped **77,218** Articles*
+*Scraped **77,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,112 @@ dailyftlk | 5,485
 adalk | 7,503
 adaderanalk | 9,975
 tamilmirrorlk | 11,611
-virakesarilk | 12,564
-adaderanasinhalalk | 13,481
+virakesarilk | 12,566
+adaderanasinhalalk | 13,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,217 (100.0%) of 77,218 articles have been extended.
+77,218 (100.0%) of 77,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-21 (Sunday)
 
-### 43 சிறுவர்கள் சைபரில் வன்புணர்வு
+### இந்திய கடற்படைக் கப்பல் கொழும்பு  துறைமுகத்தை வந்தடைந்தது!
+
+*2025-09-21 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225653) · `ta`
+
+இந்திய கடற்படைக்கு செந்தமான ‘INS SATPURA’  எனும் கப்பல் கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளது.
+
+விநியோகம் மற்றும் சேவைத் தேவைகளைப் பூர்த்தி செய்வதற்காக 403 பணியாளர்களுடன் குறித்த கப்பல் நேற்று (20) நாட்டிற்கு வந்துள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+நாட்டை வந்தடைந்த போர்க் கப்பலான ‘‘INS SATPURA’142.5 மீற்றர் நீளமுடையது என தெரிவிக்கப்படுகிறது.
+
+கப்பல் நாட்டில் நங்கூரமிடப்பட்டிருக்கும் காலத்தில் அதன் பணியாளர்களை இலங்கையின் முக்கியமான இடங்களைப் பார்வையிட பல பகுதிகளுக்கு அழைத்துச் செல்ல திட்டமிட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/51df9be8.json)
+
+---
+
+### විදුලි සේවක වෘත්තීය සමිති ක්‍රියාමාර්ග දැඩි කරයි
+
+*2025-09-21 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214822) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ප්‍රසම්පාදන හා ටෙන්ඩර් ක්‍රියාවලීන්ට සම්බන්ධ වීමෙන් වැළකී සිටීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරතවන බව ලංකා විදුලිබල මණ්ඩල වෘත්තීය සමිති පවසයි.
+
+ඒ ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමේ ක්‍රියාවලියේ පවතින අවිධිමත් යෝජනාවලට විරෝධය පා දින 17ක් තිස්සේ ක්‍රියාත්මක සිය අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියාමාර්ගය තවත් දැඩි කරමිනි.
+
+ලංකා විදුලිබල මණ්ඩලයේ වෘත්තිය සමිති ඉකුත් සැප්තැම්බර් 04 වැනිදා මධ්‍යම රාත්‍රි 12.00 සිට අකුරට වැඩකිරීමේ වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කළේය.
+
+ඒ ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමේ ක්‍රියාවලියේ පවතින අවිධිමත් යෝජනා, අනීතික අයුරින් සේවකයින් දැඩි අපහසුතාවයට පත්කිරීමේ ක්‍රියා සිදුකිරීම, හිඟ දිරි දීමනා ලබාදීම සහ නියමිත උසස්වීම් ලබාදීම ඇතුළු ඉල්ලීම් 16ක් මුල්කරගනිමිනි.
+
+එහි දෙවැනි පියවර ලෙස පසුගිය 17 සහ 18 දෙදින ලෙඩ නිවාඩු දැමූ විදුලි සේවකයින් කොළඹ කොටුවේ පිහිටි ලංකා විදුලිබල මණ්ඩලයේ ප්‍රධාන කාර්යාලය ඉදිරිපිට විරෝධතා ව්‍යාපාරයක්ද සංවිධානය කර තිබුණි.
+
+...
+
+[Data](articles/b40cf42a.json)
+
+---
+
+### வட்டவளையில் மரத்தில் தொங்கிய நிலையில் சடலம் மீட்பு
+
+*2025-09-21 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225659) · `ta`
+
+இன்று ஞாயிற்றுக்கிழமை (21) அதிகாலை மரத்தில் தொங்கிய நிலையில் ஒரு பெண்ணின் சடலம் மீட்கப்பட்டதாக வட்டவளை பொலிஸ் நிலையப் பொறுப்பதிகாரி சந்தன கமகே தெரிவித்தார்.
+
+வட்டவளை பொலிஸ் பிரிவுக்குட்பட்ட குயில்வத்த பகுதியைச் சேர்ந்த கண்ணன் மணிராணி என்ற 62 வயதுடைய பெண்ணின் சடலம் என அடையாளம் காணப்பட்டுள்ளது.
+
+தங்களது தோட்டத்தில் உள்ள ஒரு மரத்தில் குறித்த பெண் தனது சேலையில் தொங்கிய நிலையில் இறந்துவிட்டதாக தோட்டத் தொழிலாளர்கள் வட்டவளை பொலிஸாருக்கு வழங்கிய தகவலின் அடிப்படையில், வட்டவளை பொலிஸார் இந்த சடலத்தைக் மீட்டனர்.
+
+இது தற்கொலையா அல்லது கொலையா என்பதைத் தீர்மானிக்க, வட்டவளை பொலிஸார், அட்டன் பொலிஸ் பிரிவு புலனாய்வுக் குழுவின் உதவியுடன், பல பிரிவுகள் வழியாக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/3dd1987f.json)
+
+---
+
+### ජනපති හෙට අමෙරිකා එක්සත් ජනපදය බලා පිටත් වෙයි
+
+*2025-09-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214821) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා හෙට (22) රාත්‍රියේ අමෙරිකා එක්සත් ජනපදය බලා පිටත්ව යාමට නියමිතය.
+
+ජනාධිපතිවරයා මෙම සංචාරයේදී එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගිවීමට නියමිත අතර, (24) බදාදා එරට වේලාවෙන් ප.ව 3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය අමතනු ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+මෙම සංචාරය අතරතුරදී ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ සංවිධානයේ මහා ලේකම්වරයා සහ ලෝක රාජ්‍ය නායකයින් කිහිප දෙනකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවලට එක්වීමටද නියමිතය.
+
+ජනාධිපතිවරයා ඇමරිකා එක්සත් ජනපදයේ වෙසෙන ශ්‍රී ලාංකිකයින් සමඟ හමුවකටද සහභාගී වනු ඇත.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද එක් වේ.
+
+◼️
+
+[Data](articles/f27a9463.json)
+
+---
+
+### 43 boys rape in cyber
 
 *2025-09-21 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/43-சிறுவர்கள்-சைபரில்-வன்புணர்வு/175-364982) · `ta`
 
-2024/2025 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 43 சிறுவர்கள் சைபரில் பாலியல் வன்கொடுமைக்கு ஆளானதாக பொலிஸ் ஊடகப் பேச்சாளர் உதவி பொலிஸ் கண்காணிப்பாளர் உதய குமார வுட்லர் தெரிவித்தார்.
+Police Media Spokesperson Assistant Superintendent of Police, Udaya Kumara Woodler, said that 43 children under the age of 18 were raped in Cyber ​​in 2024/2025.
 
-இது கடந்த ஆண்டை விட 50% அதிகரிப்பு என்று ஊடகப் பேச்சாளர் தெரிவித்தார்.
+This is a 50% increase over the past year, the media spokesman said.
 
-2024 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 15 சிறுவர்களும், 2025 ஆம் ஆண்டில் 18 வயதுக்குட்பட்ட 28 சிறுவர்களும் சைபரின் ஊடாக பாலியல் வன்கொடுமைக்கு ஆளானதாகவும் அவர் கூறினார்.
+He said that in 2024, 15 children under the age of 18 and 28 boys under the age of 18 were raped through cyber.
 
-2024 ஆம் ஆண்டில், போதைப்பொருள் குற்றங்களுக்காக 282 சிறுவர்கள் கைது செய்யப்பட்டனர், 2025 ஆம் ஆண்டில் 206 சிறுவர்கள் கைது செய்யப்பட்டனர். 2024 ஆம் ஆண்டில் 375 பெண்கள் பாலியல் வன்கொடுமைக்கு ஆளானதாகவும், சம்பவம் தொடர்பாக 114 சந்தேக நபர்கள் கைது செய்யப்பட்டதாகவும் ஊடகப் பேச்சாளர் தெரிவித்தார். 2025 ஆம் ஆண்டில் இதுவரை 118 பெண்கள் பாலியல் வன்கொடுமைக்கு ஆளாகியுள்ளனர்.
+In 2024, 282 boys were arrested for drug offenses and 206 boys were arrested in 2025. The media spokesman said 375 women were raped by 2024 and 114 suspects were arrested in connection with the incident.. In 2025, 118 women have been sexually abused.
 
 ◼️
 
 [Data](articles/378f4ea1.json)
+
+[Extended Data](ext_articles/378f4ea1.ext.json)
 
 ---
 
@@ -1977,71 +2055,5 @@ AIA Insurance last week announced its continued partnership with the Women’s C
 [Data](articles/7cc8fa79.json)
 
 [Extended Data](ext_articles/7cc8fa79.ext.json)
-
----
-
-### Massive fire at Colombo -
-
-*2025-09-20 16:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-புறக்கோட்டையில்-பாரிய-தீ-விபத்து/175-364954) · `ta`
-
-A massive fire broke out this evening at Meliban Road, Colombo - Pettah Fort.
-
-Investigations have been carried out whether the cause of the fire was unknown. Remble
-
-◼️
-
-[Data](articles/4ad0f56a.json)
-
-[Extended Data](ext_articles/4ad0f56a.ext.json)
-
----
-
-### Nawaloka Hospitals PLC marks 40 years of excellence with new anniversary logo unveiling
-
-*2025-09-20 16:45:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-plc-marks-40-years-of-excellence-with-new-anniversary-logo-unveiling/) · `en`
-
-Nawaloka Hospitals PLC, Sri Lanka’s pioneering private healthcare institution driven by cutting-edge AI innovation, proudly marked its 40th anniversary, celebrating four decades of excellence since its establishment in 1985. The milestone celebration was held on 18 September at the Ambassador Hall of the Specialist Centre, and featured the official unveiling of the 40th anniversary logo, along with the issuance of a commemorative postage stamp in collaboration with the Sri Lanka Postal Department.
-
-The event was attended by Nawaloka Hospitals PLC Chairman, Dr. Jayantha Dharmadasa, Deputy Chairman, Anisha Dharmadasa, and Executive Director, Prof. Lal Chandrasena, along with the hospital’s esteemed panel of consultants, nursing staff, employees, and distinguished guests. The occasion was further honoured by the presence of Emeritus Prof. A.H. Sherifdeen, who graced the event as the Chief Guest.
-
-...
-
-[Data](articles/48fedfa7.json)
-
-[Extended Data](ext_articles/48fedfa7.ext.json)
-
----
-
-### Tribute to Rajiv Perera on his 60th birthday
-
-*2025-09-20 16:45:00* · [`islandlk`](http://island.lk/tribute-to-rajiv-perera-on-his-60th-birthday/) · `en`
-
-In life we meet many people, most of whom hardly leave a trace of their passing. Some, very few in fact, leave a mark so deep that no passage of time can erase it. For me, at the very top of that list is Rajiv Perera.
-
-I knew of Rajiv at school – St Thomas’, Mount Lavinia – where he was a few years senior to me. A fine sportsman, he played rugby for S. Thomas’, CH & FC, and Sri Lanka. On the field he was fearless yet always a gentleman, respected by teammates and opponents alike. That same spirit carried into the rest of his life competitive when it mattered, but always fair, always gracious.
-
-But I only really got to know him when I went to the UK for my higher studies, about 35 years ago. This was around the time that John Major had replaced the Iron Lady, Margaret Thatcher, and was just settling in as Prime Minister. I knew only a few people in London. It was through the Thomian network that I met Rajiv. We clicked immediately.
-
-...
-
-[Data](articles/49188008.json)
-
-[Extended Data](ext_articles/49188008.ext.json)
-
----
-
-### Fire in a building in Pettah
-
-*2025-09-20 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214797) · `si`
-
-A fire broke out at a 3rd floor of 3rd cross-street building.
-
-The fire brigade said that the fire was already launched.
-
-◼️
-
-[Data](articles/d66917ad.json)
-
-[Extended Data](ext_articles/d66917ad.ext.json)
 
 ---

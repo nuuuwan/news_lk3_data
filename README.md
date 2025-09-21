@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 01:55:51**
+As of **2025-09-22 02:36:53**
 
 ## Newspaper Stats
 
@@ -26,77 +26,93 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,296 (100.0%) of 77,300 articles have been extended.
+77,300 (100.0%) of 77,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### சபாநாயகர் மீது நம்பிக்கையில்லா பிரேரணை ; இறுதி முடிவு எதிர்க்கட்சித் தலைவர்களுடனான சந்திப்பில்
+### A no -confidence motion on the Speaker; At the meeting with the opposition leaders of the end result
 
 *2025-09-22 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225693) · `ta`
 
-சபாநாயகர் ஜகத் விக்கிரமரத்னவுக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவது குறித்து இறுதி தீர்மானம் ஏதும் எடுக்கப்படவில்லை. இவ்வாரம் நடைபெறவுள்ள எதிர்க்கட்சித் தலைவர்களுடனான சந்திப்பின் போது இறுதி தீர்மானம் எடுக்கப்படும் என்று ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+No final decision has been taken on the proposal against Speaker Jagath Wickremaratne. United People's Power District Parliamentarian Ajith P. Perera said that the final decision will be taken during a meeting with opposition leaders this week.
 
-சபாநாயகர் ஜகத் விக்கிரமரத்னவின் செயற்பாடுகள் பாராளுமன்ற கோட்பாடுகளுக்கும்,ஜனநாயகத்தின் அடிப்படை அம்சங்களுக்கும் முற்றிலும் விரோதமானது. பாராளுமன்றத்தின் ஜனநாயகத்தையும், எதிர்க்கட்சிகளின் உரிமைகளையும் அவர் பாதுகாப்பதில்லை. ஆளும் கட்சிக்கு சார்பாகவே செயற்படுகிறார்.
+The actions of Speaker Jagath Wickremaratne are completely contrary to parliamentary principles and the basic aspects of democracy. He does not protect the democracy of Parliament and the rights of the opposition parties. He acts on behalf of the ruling party.
 
-சபாநாயகர் தனது பதவிக்கான அதிகாரம் மற்றும் பொறுப்பினை அறியாமல் உள்ளரா என்பது சந்தேகமாகவுள்ளது. சபைமுதல்வர் பிமல் ரத்நாயக்கவே சபாநாயகரை இயக்குகிறார்.
+It is doubtful whether the Speaker is unaware of the power and responsibility of his post. Pimal Ratnayake is directing the Speaker.
+
+The Speaker has ignored the no -confidence motion against Deputy Minister of Defense Aruna Jayasekara.
+
+Various parties have urged the Speaker's unilateral action to bring a no -confidence motion against him.
 
 ...
 
 [Data](articles/df431787.json)
 
+[Extended Data](ext_articles/df431787.ext.json)
+
 ---
 
-### கட்டுநாயக்க விமான நிலையத்தின் கழிப்பறையில் 18.47 மில்லியன் பெறுமதியான போதைப்பொருள் மீட்பு
+### 18.47 million drug recovery at the toilet of the Katunayake airport
 
 *2025-09-22 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225692) · `ta`
 
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலைய  வருகை முனையத்தில் உள்ள ஆண்களுக்கான கழிப்பறையிலிருந்து ரூ.18.47 மில்லியனுக்கும் அதிக மதிப்புள்ள குஷ் மற்றும் ஹஷிஷ்  போதைப்பொருள்  ஞாயிற்றுக்கிழமை மீட்கப்பட்டுள்ளது.
+The Kush and Hashish narcotics worth more than Rs.18.47 million have been recovered from the toilet for the men's toilet at the Katunayake Bandaranaike International Airport.
 
-கழிப்பறைக்குள் சந்தேகத்திற்கிடமான பல பொதிகளை தூய்மை பணியாளர் ஒருவர் கவனித்து விமான நிலைய சுங்க, போதைப்பொருள் தடுப்பு அதிகாரிகளுக்கு தகவல் அளித்த நிலையில் அவை அதிகாரிகளால்  கண்டுபிடிக்கப்பட்டன.
+They were found by the authorities as a cleanup worker looked after a number of suspicious packages inside the toilet and informed the airport customs and drug detention officers.
 
-சோதனையின் போது, பொதிகளுக்குள் மறைத்து வைக்கப்பட்டிருந்த 422 கிராம் குஷ் கஞ்சா மற்றும் 1.262 கிலோகிராம் ஹஷிஷ் போதைப்பொருள் ஆகியவற்றை விமான நிலையத்தில் நிறுத்தப்பட்டுள்ள பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினரால் போதைப்பொருள் பறிமுதல் செய்யப்பட்டது.
+During the raid, the drug was confiscated by the police, which were parked at the airport, 422 grams of Kush cannabis and 1.262 kilograms of Hashish drugs hidden in the packages.
 
-இந்நிலையில் கட்டுநாயக்க விமான நிலைய பொலிஸார் போதைப்பொருள் தடுப்புப் பிரிவினரால் போதைப்பொருட்களை கொண்டு வந்தவர்கள், அவற்றை அந்த பகுதி வழியாக கடத்த முயற்சித்ததற்குப் பொறுப்பானவர்கள் குறித்து விசாரணைகளை மேற்கொண்டுள்ளனர்.
+In this backdrop, the Katunayake airport police are investigating the people who brought drugs by the Drug Prevention Unit and those responsible for trying to smuggle them through the area.
 
 ◼️
 
 [Data](articles/d31d064b.json)
 
+[Extended Data](ext_articles/d31d064b.ext.json)
+
 ---
 
-### மொரகஹஹேனையில் ‘பொட்ட அமில’ மற்றும் மூன்று நெருங்கிய சகாக்கள் கைது
+### Arrested in Moragahahena
 
 *2025-09-22 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225691) · `ta`
 
-ஒழுங்கமைக்கப்பட்ட குற்ற கும்பல் உறுப்பினரும் போதைப்பொருள் கடத்தல்காரருமான 'பொட்ட அமில' மற்றும் அவரது நெருங்கிய சகாக்கள்  மூவர் ஞாயிற்றுக்கிழமை (21)  மொரகஹஹேன பொலிஸாரால் கைது செய்யப்பட்டனர்.
+'Pota Amila' and three of his close associates, an organized criminal gang and a drug trafficker, were arrested by the Moragahahena police on Sunday (21).
 
-அவர்களிடமிருந்து சுமார் 1 மில்லியன் ரூபாய் பெறுமதியான 5,300 போதை மாத்திரைகள் மற்றும் 15,000 மில்லிகிராம் ஐஸ் போதைப்பொருள் ஆகியவற்றையும் பொலிஸார் கைப்பற்றியுள்ளனர்.  மோசடிக்காக பயன்படுத்தப்பட்ட 3 கையடக்கத் தொலைபேசிகளையும் பொலிஸார் பறிமுதல் செய்துள்ளனர்.
+Police have also seized 5,300 pills and 15,000 milligrams of ice worth about Rs 1 million.  Police have also confiscated 3 mobile phones used for fraud.
 
-சந்தேக நபரின் நெருங்கிய நண்பர் ஒருவர் கோனபொல கும்புகவத்த பகுதியில் ஐஸ் போதைப்பொருள் விநியோகிக்க வருவதாக மொரகஹஹேன பொலிஸாருடன் இணைக்கப்பட்ட புலனாய்வுப் பிரிவு மற்றும் விசேட பணியக அதிகாரிகளுக்குக் கிடைத்த தகவலின் அடிப்படையில், சந்தேக நபர் கைது செய்யப்பட்டு,சோதனை செய்த போது அவரது வசமிருந்து 2,200 மில்லிகிராம் ஐஸ் போதைப்பொருள் கண்டுபிடிக்கப்பட்டது.
+Based on information received by the Moragahahena Police, the Investigation Unit and the Special Bureau of the Moragahahena Police, a close friend of the suspect was arrested and 2,200 milligrams of ice.
+
+Later, in a raid to arrest him at the 'Potta Symvin' house, he and the two were arrested and 10,100 milligrams of ice and 5,000 pills were seized from him.. Similarly, 2,100 milligrams of ice and 300 drug pills were discovered from two other suspects.
 
 ...
 
 [Data](articles/1172f4f0.json)
 
+[Extended Data](ext_articles/1172f4f0.ext.json)
+
 ---
 
-### தங்காலை- நெடோல்பிட்டியவில் காணியொன்றில் கண்டுபிடிக்கப்பட்ட பொருட்கள் அறிக்கை பொலிஸாரிடம் இவ்வாரம் கையளிக்கப்படும் - தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு அதிகார சபை
+### Tangalle -Netolpita
 
 *2025-09-22 01:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225690) · `ta`
 
-தங்காலை,நெடோல்பிட்டியவில் காணியொன்றில் கண்டுபிடிக்கப்பட்ட பொருட்கள் குறித்த சோதனை அறிக்கையை இவ்வாரம் பொலிஸாரிடம் கையளிக்க எதிர்பார்த்துள்ளதாக தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு அதிகார சபை தெரிவித்துள்ளது.
+The National Risk Lights Control Authority said that this week is looking forward to handing over the test report on the items found in a land in Tangalle, Netolpitiya.
 
-இந்தோனேசியாவில் கைது செய்யப்பட்டு  நாட்டுக்கு அழைத்து வரப்பட்ட பாதாளக் குழுக்களினரால் வெளிப்படுத்தப்பட்ட தகவல்களின் அடிப்படையில்,மித்தெனிய பகுதியில் காணியொன்றில் இருந்து ஐஸ் தயாரிக்கப் பயன்படுத்தப்பட்டதாகக் கூறப்படும் இரசாயனங்கள் கண்டுபிடிக்கப்பட்டன.
+Based on information revealed by the underworld groups arrested in Indonesia and brought to the country, the chemicals allegedly used to make ice from an area in the Mitteniya region were found.
 
-அதைத் தொடர்ந்து, தங்காலை நெடோல்பிட்டிய பகுதியிலும் கந்தானை பகுதியிலும் இதேபோன்ற பொருட்கள் கண்டுபிடிக்கப்பட்டதுடன், அந்த பொருட்களின் மாதிரிகள் சோதனைக்காக தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு அதிகாரசபை மற்றும் அரச இரசாயன பகுப்பாய்வாளர் திணைக்களதிடமும் ஒப்படைக்கப்பட்டன.
+Subsequently, similar items were found in the Tangalle Netolpitiya area and Kandana area and the samples of the items were handed over to the National Risk Lights Control Authority and the State Chemical Analyst Department for testing.
 
-அதன்படி, மித்தெனிய பகுதியில் கண்டுபிடிக்கப்பட்ட பொருட்களில் மெத்தம்பேட்டமைன் என்ற ஐஸ் இருப்பதை தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டு சபை மற்றும் அரச இரசாயன பகுப்பாய்வாளர் திணைக்களமும் ஏற்கனவே உறுதிப்படுத்தியுள்ளன.
+Accordingly, the National Risk Lights Control Board and the Department of State Chemical Analyst have already confirmed the existence of metamatamine Ice in the items found in the Mitteniya region.
+
+In a statement issued by the National Risk Lights Control Board, the National Risk Lights Control Board said that there are 17 of the 20 samples taken from the relevant location.
 
 ...
 
 [Data](articles/5e72a773.json)
+
+[Extended Data](ext_articles/5e72a773.ext.json)
 
 ---
 

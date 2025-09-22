@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 01:38:44**
+As of **2025-09-23 01:56:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,519 (100.0%) of 77,520 articles have been extended.
+77,520 (100.0%) of 77,520 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Representing Sri Lanka at this year’s Forum are Dilmah Ceylon Tea Company PLC 
 ...
 
 [Data](articles/e20188a8.json)
+
+[Extended Data](ext_articles/e20188a8.ext.json)
 
 ---
 

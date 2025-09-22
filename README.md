@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 18:45:27**
+As of **2025-09-22 18:21:51**
 
 ## Newspaper Stats
 
-*Scraped **77,465** Articles*
+*Scraped **77,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,73 +18,19 @@ islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,527
 adaderanalk | 10,024
-tamilmirrorlk | 11,654
+tamilmirrorlk | 11,653
 virakesarilk | 12,606
-adaderanasinhalalk | 13,535
+adaderanasinhalalk | 13,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,460 (100.0%) of 77,465 articles have been extended.
+77,460 (100.0%) of 77,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
-
-### புலிகளின் 6,000 தங்கப் பொருட்கள் மத்திய வங்கியிடம் ஒப்படைப்பு:  சிஐடி
-
-*2025-09-22 18:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளின்-6-000-தங்கப்-பொருட்கள்-மத்திய-வங்கியிடம்-ஒப்படைப்பு-சிஐடி/150-365076) · `ta`
-
-விடுதலைப் புலிகளுக்குச் சொந்தமானதாக நம்பப்படும் 10,000 தங்கப் பொருட்களில், நீதிமன்ற உத்தரவின் பேரில் தேசிய ரத்தினக் கற்கள் மற்றும் நகைகள் ஆணையத்திற்கு அனுப்பப்பட்ட 6,000 பொருட்கள் இப்போது இலங்கை மத்திய வங்கியிடம் ஒப்படைக்கப்பட்டுள்ளதாக குற்றப் புலனாய்வுத் துறை (சிஐடி) இன்று (22) கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகமவிடம் தெரிவித்துள்ளது.
-
-மனிதாபிமான நடவடிக்கையின் போது வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள முகாம்கள், சட்டவிரோத வங்கிகள் மற்றும் கட்டிடங்களில் இருந்து மீட்கப்பட்ட தங்கப் பொருட்களே இவ்வாறு மீட்கப்பட்டுள்ளன.
-
-10,000 தங்கப் பொருட்களை ஆய்வு செய்து, நீதிமன்றத்திற்கும், சிஐடிக்கும் விரிவான அறிக்கையை சமர்ப்பிக்குமாறு நீதிமன்றம் முன்னதாக தேசிய ரத்தினக் கற்கள் மற்றும் நகைகள் ஆணையத்திற்கு உத்தரவிட்டிருந்தது.
-
-தங்கத்தின் உள்ளடக்கம் மற்றும் எடையை குறிப்பிட்டு, 6,000 பொருட்கள் மத்திய வங்கிக்கு மாற்றப்பட்டதாக சிஐடி அதிகாரிகள் நீதிமன்றத்தில் தெரிவித்தனர்.
-
-வழக்கு நீதிமன்றத்தில் எடுத்துக்கொள்ளப்பட்டபோது  முன்னேற்ற அறிக்கையை சமர்ப்பித்தே அவர்கள் இந்தத் தகவலை மேலும் சமர்ப்பித்தனர்.
-
-...
-
-[Data](articles/53b03b19.json)
-
----
-
-### නීතිවිරෝධීව රත්‍රන් රැගෙන ආ කාන්තාවක් රිමාන්ඩ්
-
-*2025-09-22 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214879) · `si`
-
-නීති විරෝධී ලෙස මෙරටට රත්‍රන් රැගෙන එමට උත්සහ කළ ශ්‍රී ලාංකික කාන්තාවක් යාපනය ජාත්‍යන්තර ගුවන්තොටුපළේ රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකාරිය සඟවාගෙන තිබූ ග්‍රෑම් 1,002.2 ක් බරැති රත්‍රන් බවට සැක කෙරෙන ද්‍රව්‍යයක් අඩංගු capsules හැඩති බහාලුම් දෙකක් හමුවී ඇත.
-
-ඇය ඊයේ (21) චෙන්නායි සිට පැමිණ ඇති අතර කොළඹ 12 ප්‍රදේශයේ 41 හැවිරිදි පදිංචිකාරිනියක් බව අනාවරණය වී තිබේ.
-
-සැකකාරිය මල්ලාකම් මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු දින 14 ක් දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලදී.
-
-◼️
-
-[Data](articles/d4a0ad3f.json)
-
----
-
-### මහජන ආරක්ෂක ඇමතිගෙන් ආන්දෝලනාත්මක හෙළිදරව්වක්
-
-*2025-09-22 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214878) · `si`
-
-මත්ද්‍රව්‍ය සහ සංවිධානාත්මක අපරාධවලට දකුණේ දේශපාලනඥයින් සම්බන්ධ බවට තොරතුරු අනාවරණය වී ඇතැයි මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-අද (22) දින පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරයා සඳහන් කළේ, මේ වනවිට මහජනතාව විසින් ලබාදෙන තොරතුරු සහ බුද්ධි අංශ තොරතුරු මත ඒ බව අනාවරණය වෙමින් පවතින බවය.
-
-පසුගිය දේශපාලන සංස්කෘතිය හේතුවෙන් සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාලය වර්ධනය වී ඇති බවත් වත්මන් ආණ්ඩුව මේ වනවිට ඒ කෙරෙහි විශේෂ අවධානයක් යොමු කර ඇති බවත් පැවසු අමාත්‍යවරයා, තංගල්ලේ දී විශාල මත්ද්‍රව්‍ය වැටලීම් තුනක් අද දිනයේ දී සිදුකර ඇති බව ද පැවසීය.
-
-...
-
-[Data](articles/d527b02e.json)
-
----
 
 ### මෙරට බලශක්ති ස්වාධිපත්‍යය වෙනුවෙන් රජය නිරතුරුවම පෙනී සිටිනවා - ජනපති
 
@@ -2033,5 +1979,59 @@ The Ministry further stated that various services will be provided through the s
 [Data](articles/e9ead4b4.json)
 
 [Extended Data](ext_articles/e9ead4b4.ext.json)
+
+---
+
+### Two bodies recovered from Tangalle house under renovation
+
+*2025-09-22 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112754/two-bodies-recovered-from-tangalle-house-under-renovation) · `en`
+
+Police have recovered two bodies from an old house currently being renovated in the Seenimodara area of Tangalle.
+
+In addition, another body is lying at the hospital morgue, of a person who died shortly after being admitted to the Tangalle Base Hospital, Ada Derana reporter said.
+
+During the investigation, 10 packets of the drug ‘ICE’ have also been seized from a lorry which was parked near the premises.
+
+Police have commenced further investigations into the incident, while the Government Analyst is conducting post-mortem examinations.
+
+◼️
+
+[Data](articles/07729d79.json)
+
+[Extended Data](ext_articles/07729d79.ext.json)
+
+---
+
+### Tangalle found two bodies of two bodies of a house in Sena Sena Seennodara
+
+*2025-09-22 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214854) · `si`
+
+Tangalle has a house bodies have been renovated in Seennimodara area.
+
+Police also recovered 10 packets of ice drugs in a lorry near the house at the investigation.
+
+Meanwhile, another person in the house had reached the Tangalle General Hospital due to an illness, and he was killed.
+
+The police have commenced investigations into the incident and the Government Analymist is conducting the tense test on the incident.
+
+◼️
+
+[Data](articles/79519bdd.json)
+
+[Extended Data](ext_articles/79519bdd.ext.json)
+
+---
+
+### Firearms and ammunition suspected to be resomed Manamperi
+
+*2025-09-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214853) · `si`
+
+Two golden magazines suspected of resource Majarakri suspected and a hand grenade and a bullet found found in a land of Middeniya area.
+
+◼️
+
+[Data](articles/10eb39b6.json)
+
+[Extended Data](ext_articles/10eb39b6.ext.json)
 
 ---

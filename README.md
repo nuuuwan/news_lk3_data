@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 23:57:11**
+As of **2025-09-23 00:53:20**
 
 ## Newspaper Stats
 
-*Scraped **77,512** Articles*
+*Scraped **77,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 784
 economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
-dailyftlk | 5,496
+dailyftlk | 5,499
 adalk | 7,528
-adaderanalk | 10,037
+adaderanalk | 10,039
 tamilmirrorlk | 11,659
 virakesarilk | 12,617
 adaderanasinhalalk | 13,543
@@ -26,11 +26,65 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,512 (100.0%) of 77,512 articles have been extended.
+77,517 (100.0%) of 77,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Digitalisation or dependency? Sri Lanka’s AI dilemma beyond AKD’s binary
+
+*2025-09-22 23:54:06* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-or-dependency-Sri-Lanka-s-AI-dilemma-beyond-AKD-s-binary/4-782027) · `en`
+
+A binary “digitalise or perish” narrative must give way to a measured path
+
+President Anura Kumara Disanayake has cast digital transformation as a stark binary: either embrace artificial intelligence (AI) and modernise, or be “pushed to the margins” of the global economy. His appeal identifies inefficiency, stagnation, and weak public services as consequences of past inaction. This rhetoric mirrors global leaders who treat AI as a “pillar” of competitiveness and a survival imperative.
+
+Yet such framing is both motivational and reductionist. It risks presenting digitalisation as a technological silver bullet, obscuring the deeper questions of sovereignty, governance, and inequality that must shape Sri Lanka’s pathway.
+
+Adam Becker cautions against equating AI with an autonomous “brain” destined to rebel against humanity. The metaphor of AI as a computer like mind is flawed, he argues, and “existential risk” talk distracts from tangible, present day harms1.
+
+...
+
+[Data](articles/f0b0968e.json)
+
+[Extended Data](ext_articles/f0b0968e.ext.json)
+
+---
+
+### Nepal’s uprising and lessons for South Asia
+
+*2025-09-22 23:39:27* · [`dailyftlk`](https://www.ft.lk/columns/Nepal-s-uprising-and-lessons-for-South-Asia/4-782025) · `en`
+
+The uprisings in Nepal, Bangladesh, and Sri Lanka all reveal the same underlying dynamic: a critical 5% of society—small but decisive—determines the trajectory of these crises
+
+Nepal was recently engulfed in a wave of fierce public unrest that forced the Prime Minister to resign. The uprising left vast destruction in its wake: national assets worth millions were lost, and numerous five-star hotels in Kathmandu were set ablaze. Videos flooded social media, showing enraged crowds dragging politicians through the streets while setting their homes on fire.
+
+Observers quickly drew parallels with Sri Lanka’s “Aragalaya” (Struggle) of 2022. Bangladesh too had experienced a similar upheaval, when its Prime Minister was driven to seek refuge in India.
+
+...
+
+[Data](articles/0f5f5501.json)
+
+[Extended Data](ext_articles/0f5f5501.ext.json)
+
+---
+
+### What Doha delivered: Diplomacy beyond the podium
+
+*2025-09-22 23:33:54* · [`dailyftlk`](https://www.ft.lk/columns/What-Doha-delivered-Diplomacy-beyond-the-podium/4-782024) · `en`
+
+The Doha summit stands as a potent act of collective diplomacy
+
+When Qatar hosted the Arab-Islamic emergency summit on 15 September 2025—just days after an Israeli strike in Doha killed Hamas leaders and a Qatari officer—expectations were high. Could this gathering produce more than a chorus of protest speeches? Would it reshape regional alignments, force policy shifts, or deepen legal and military responses? As the dust settles, Doha emerges as a significant diplomatic moment that combined high symbolism with cautious substance.1
+
+...
+
+[Data](articles/edcdc397.json)
+
+[Extended Data](ext_articles/edcdc397.ext.json)
+
+---
 
 ### Fake letter with the signature of the Inspector General of Police
 
@@ -49,6 +103,34 @@ Spreading fake documents is legally punishable offense. For official information
 [Data](articles/a29a2514.json)
 
 [Extended Data](ext_articles/a29a2514.ext.json)
+
+---
+
+### President leaves for US to attend UN General Assembly
+
+*2025-09-22 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112795/president-leaves-for-us-to-attend-un-general-assembly) · `en`
+
+President Anura Kumara Dissanayake left for the United States a short while ago, to participate in the 80th session of the United Nations General Assembly.
+
+The delegation departed on a Dubai bound flight at around 10:20 p.m.
+
+He is scheduled to leave for New York City, on a connecting flight.
+
+Accompanying the President was Minister of Foreign Affairs, Foreign Employment, and Tourism Promotion Vijitha Herath, along with several other government officials.
+
+During this visit, President Dissanayake will attend the 80th session of the United Nations General Assembly (UNGA).
+
+The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division.
+
+During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
+
+The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
+
+...
+
+[Data](articles/686fad95.json)
+
+[Extended Data](ext_articles/686fad95.ext.json)
 
 ---
 
@@ -71,6 +153,26 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to j
 [Data](articles/8b2f0e92.json)
 
 [Extended Data](ext_articles/8b2f0e92.ext.json)
+
+---
+
+### Temple elephant ‘Kadira’ reportedly attacks mahout – victim hospitalised
+
+*2025-09-22 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112794/temple-elephant-kadira-reportedly-attacks-mahout-victim-hospitalised) · `en`
+
+‘Kadira’, an elephant belonging to the elephant troop of the Temple of the Tooth Relic in Kandy, has reportedly attacked its mahout.
+
+The mahout, who sustained injuries from the attack, is currently receiving treatment at the Mawanella Base Hospital.
+
+A hospital spokesperson stated that the mahout’s condition remains uncertain at this time. However, due to internal bleeding, he is expected to undergo surgery.
+
+According to reports, the elephant suddenly attacked while the mahout was attempting to feed the animal.
+
+◼️
+
+[Data](articles/ba3bbdb2.json)
+
+[Extended Data](ext_articles/ba3bbdb2.ext.json)
 
 ---
 
@@ -2003,95 +2105,5 @@ Trump is the first American President to pass the North Korean border while in o
 [Data](articles/f555583d.json)
 
 [Extended Data](ext_articles/f555583d.ext.json)
-
----
-
-### Global trade volumes slow in 2Q25 on tariff impacts: Fitch Ratings
-
-*2025-09-22 12:44:00* · [`economynextcom`](https://economynext.com/global-trade-volumes-slow-in-2q25-on-tariff-impacts-fitch-ratings-241477/) · `en`
-
-ECONOMYNEXT – Global trade volumes have slowed ‘noticeably’ in 2Q25, Fitch Ratings said, and is expected to slow further in the coming months.
-
-“With an average US effective tariff rate of 16%, we expect global trade to slow further in the coming months,” the ratings agency said.
-
-Fitch Ratings-London-19 September 2025: Global trade volumes slowed noticeably in 2Q25, reversing the sharp increase recorded in 1Q25, a move which had been triggered by importers front-loading ahead of the implementation of US tariffs. An example of this trade volatility is shown by US imports in 1Q25 and 2Q25, when volumes increased 30% year on year (yoy) in March but then contracted to -2.8% yoy by June, as highlighted in the latest ‘Fitch-20 Economic Monitor’.
-
-...
-
-[Data](articles/ff157dca.json)
-
-[Extended Data](ext_articles/ff157dca.ext.json)
-
----
-
-### Naked body of man washes ashore at beach in Moratuwa
-
-*2025-09-22 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112764/naked-body-of-man-washes-ashore-at-beach-in-moratuwa) · `en`
-
-A naked body was discovered washed ashore at the Jayagathpura Beach in Modara, within the Moratuwa-Egoda Uyana police division, this morning (22), the police said.
-
-Police have initiated investigations into the incident, following information received by the Egoda Uyana Police Station.
-
-The identity of the deceased has not yet been discovered, police said.
-
-Preliminary investigations suggest that the deceased is a male likely between 50-60 years of age, police added.
-
-◼️
-
-[Data](articles/329a53de.json)
-
-[Extended Data](ext_articles/329a53de.ext.json)
-
----
-
-### Vijay carried with sandals: BJP
-
-*2025-09-22 12:32:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செருப்புடன்-வேல்-ஏந்திய-விஜய்-பாய்ந்து-வந்த-பாஜக/175-365056) · `ta`
-
-Tamilnadu Victory Corporation (Tawa) Chairman Vijay, a party volunteer in Naga. Vijay got it excitedly. In this case, the Bharatiya Janata Party (BJP) has criticized Vijay when he was working on his feet.. "Joseph Vijay, who worked as wearing sandals on foot. Do you know about Hinduism? ”A BJP volunteer has criticized.
-
-The 'Vale' in the political arena of Tamil Nadu is constantly speaking. Politics is going on as a gift to political leaders and talking about Murugan. The Dravida Munnetra Kazhagam (DMK) government recently held a Muthami Murugan conference in Palani to give the opposition parties to the opposition.
-
-In this case, the leader of the Tawaka Vijayam Vale is carrying. Vijay, who is launching a tour of Tamil Nadu, campaigned today near the statue of Anna in Nagai district on Saturday (20). Then, "My dear salute to all. How are you Do you I am a great pleasure to speak in Nagapattinam on the lap of the sea. This town is very close to my mind. ”
-
-...
-
-[Data](articles/6f4c90ab.json)
-
-[Extended Data](ext_articles/6f4c90ab.ext.json)
-
----
-
-### Over 10kg of ‘Ice’ seized from Seenimodara house where 2 bodies were found
-
-*2025-09-22 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112763/over-10kg-of-ice-seized-from-seenimodara-house-where-2-bodies-were-found-) · `en`
-
-Police have recovered over 10 kilograms of narcotics substance suspected to be crystal methamphetamine (‘ICE’) from the house under renovation in Seenimodara, where two bodies were previously discovered, police said.
-
-Another body, that of an individual who had been admitted to Tangalle Base Hospital, is currently at the hospital morgue after the person died shortly after admission.
-
-During the investigation, police also seized 10 packets of suspected ‘ICE’ drugs from a lorry parked near the premises.
-
-Further investigations into the incident are ongoing, and post-mortem examinations are being conducted by the Government Analyst’s Department, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/3a7853fb.json)
-
-[Extended Data](ext_articles/3a7853fb.ext.json)
-
----
-
-### CEB employee arrested for providing lodging to Sampath Manamperi
-
-*2025-09-22 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112762/ceb-employee-arrested-for-providing-lodging-to-sampath-manamperi) · `en`
-
-A Ceylon Electricity Board (CEB) employee has been arrested by the Police Narcotics Bureau (PNB) for allegedly providing accommodation to Sampath Manamperi, who is currently in remand in connection with the discovery of a buried container of chemicals used in manufacturing ‘Ice’ drugs in Middeniya.
-
-◼️
-
-[Data](articles/fca1c91b.json)
-
-[Extended Data](ext_articles/fca1c91b.ext.json)
 
 ---

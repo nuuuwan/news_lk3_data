@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 11:41:24**
+As of **2025-09-22 11:57:59**
 
 ## Newspaper Stats
 
-*Scraped **77,383** Articles*
+*Scraped **77,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
-adalk | 7,516
+adalk | 7,517
 adaderanalk | 10,008
 tamilmirrorlk | 11,637
 virakesarilk | 12,597
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,514
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,380 (100.0%) of 77,383 articles have been extended.
+77,383 (100.0%) of 77,384 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,6 +88,8 @@ Hong Kong’s Observatory said it would issue the lowest typhoon signal at noon 
 
 [Data](articles/d1ff429c.json)
 
+[Extended Data](ext_articles/d1ff429c.ext.json)
+
 ---
 
 ### Sasheendra Rajapaksa again
@@ -143,6 +145,8 @@ The case was filed under the Prevention of Money Laundering Act by the Attorney 
 ◼️
 
 [Data](articles/5ee16aea.json)
+
+[Extended Data](ext_articles/5ee16aea.ext.json)
 
 ---
 
@@ -230,19 +234,21 @@ Apart from praising Prabhakaran, Vijay said that his party's main goal is to sol
 
 ---
 
-### தங்காலையில் பழைய வீடொன்றில் இருந்து இரண்டு சடலங்கள் மீட்பு!
+### Two bodies recovered from an old house in Tangalle!
 
 *2025-09-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225714) · `ta`
 
-அம்பாந்தோட்டையில் தங்காலை - சீனிமோதர பகுதியில் புனரமைக்கப்பட்டு வரும் பழைய வீடொன்றில் இருந்து இரண்டு ஆண்களின் சடலங்கள் மீட்கப்பட்டுள்ளதாக தங்காலை பொலிஸார் தெரிவித்தனர்.
+The bodies of two men have been recovered from an old house rehabilitated in the Tangalle - Seenimodara area in Hambantota, Tangalle police said.
 
-வீட்டிற்கு அருகில் பொலிஸாரால் மேற்கொள்ளப்பட்ட சோதனையில் லொரி ஒன்றில் இருந்து ஐஸ் போதைப்பொருள் அடங்கிய 10 பொதிகள் கைப்பற்றப்பட்டுள்ளன.
+A raid carried out by police near the house has seized 10 packs of ice from a lorry.
 
-இந்த வீட்டில் இருந்த மற்றுமொரு நபர் திடீர் உடல்நலக்குறைவு காரணமாக தங்காலை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் உயிரிழந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+Another person in the house has been admitted to the Tangalle General Hospital due to a sudden illness, police investigations have revealed that they have died later.
 
 ◼️
 
 [Data](articles/2cddb72f.json)
+
+[Extended Data](ext_articles/2cddb72f.ext.json)
 
 ---
 
@@ -539,6 +545,26 @@ The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics
 [Data](articles/9385705d.json)
 
 [Extended Data](ext_articles/9385705d.ext.json)
+
+---
+
+### වැලි ටිපරයට ගුරුවරයෙක් බිලි
+
+*2025-09-22 09:17:49* · [`adalk`](https://www.ada.lk/breaking_news/වැලි-ටිපරයට-ගුරුවරයෙක්-බිලි/11-418641) · `si`
+
+දඹුල්ල ත්‍රිකුණාමලය ප්‍රධාන මාර්ගයේ දඹුල්ල නගර මධ්යේදී 21දා පස්වරුවේ වැලි ප්‍රවාහනය කරමින් තිබු ටිපර් රථයක හැපිපෙන් ඉංග්‍රීසි ගුරුවරයකු මියගොස් ඇතැයි දඹුල්ල පොලිසිය කියයි.
+
+හබරණ දෙස සිට දඹුල්ල දෙසට ධාවනය වෙමින් තිබී ඇති බවත් එකවරම පාර මාරු වෙන්නට යද්දී ටිපර් රථයේ පිටුපස රෝදයේ හැපීමෙන් අනතුර සිදුව ඇතිබව මුලික පරීක්ෂණවලදී අනාවරණය වූ බව  දඹුල්ල මුලස්ඨාන පොලිස් පරීක්ෂක සුගත් විජේසුන්දර මහතා පැවසිය.
+
+අනතුරෙන් මියගොස් ඇත්තේ දඹුල්ල සණස  මාවතේ පදිංචි වයස අවුරුදු 56ක පාසැල් ගුරුවරයෙක් වන ඒ.එම් සරත් ජයන්ත රුවන් බණ්ඩාර යන දෙදරු  පියෙක් වන අතර ඔහු දඹුල්ල ප්‍රාථමික විදුහලේ සේවය කරමින් සිට ඇත .
+
+වැලි ප්‍රවාහනය කරමින් තිබු ටිපර් රථය හා රියදුරු අත්අඩංගුවට ගෙන ඇත ,මරණය පිළිබධව පච්චාත් මරණ පරීක්ෂණය 22 දින පැවැත්වීමට නියමිතය.
+
+මේ  සම්බන්ධයෙන් දඹුල්ල පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි. මෘත දේහය දඹුල්ල මුලික රෝහලේ තැන්පත් කොට ඇත.
+
+◼️
+
+[Data](articles/6237996e.json)
 
 ---
 
@@ -2037,25 +2063,5 @@ The inspection should be carried out at a police station or any easier location 
 [Data](articles/5ecc4fd4.json)
 
 [Extended Data](ext_articles/5ecc4fd4.ext.json)
-
----
-
-### Economist warns 5% growth insufficient, calls for ambitious reforms
-
-*2025-09-21 18:10:00* · [`islandlk`](http://island.lk/economist-warns-5-growth-insufficient-calls-for-ambitious-reforms/) · `en`
-
-Despite a recent uptick in economic indicators, a senior economist has cautioned that Sri Lanka’s current growth trajectory is inadequate for a full recovery, calling for a decisive push towards 8-10% expansion in the coming years.
-
-The warning from University of Peradeniya’s Wasantha Athukorala follows data showing the economy grew by 4.9% in the second quarter of 2025, an improvement from the 4.1% growth recorded a year earlier.
-
-Prof. Athukorala acknowledged a recent vote of confidence from the global market, referencing S&P Global Ratings’ upgrade of Sri Lanka’s foreign currency sovereign credit rating. However, he stressed that the ‘CCC+’ rating still signifies high risk and does not qualify the country for easy credit.
-
-“This upgrade reflects a positive start for stability and growth,” he stated, noting it should boost investor confidence and improve access to global capital. “But the current 5% economic growth is not sufficient.”
-
-...
-
-[Data](articles/78b3c9fa.json)
-
-[Extended Data](ext_articles/78b3c9fa.ext.json)
 
 ---

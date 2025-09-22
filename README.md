@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 12:55:59**
+As of **2025-09-22 12:38:55**
 
 ## Newspaper Stats
 
-*Scraped **77,395** Articles*
+*Scraped **77,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,119 +16,89 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
-adalk | 7,518
-adaderanalk | 10,010
+adalk | 7,517
+adaderanalk | 10,008
 tamilmirrorlk | 11,641
-virakesarilk | 12,598
+virakesarilk | 12,597
 adaderanasinhalalk | 13,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,391 (100.0%) of 77,395 articles have been extended.
+77,387 (100.0%) of 77,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### Corona affair: Chinese journalist prolonged punishment
+### கொரோனா விவகாரம்: சீன பத்திரிக்கையாளருக்கு தண்டனை நீடிப்பு
 
 *2025-09-22 12:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கொரோனா-விவகாரம்-சீன-பத்திரிக்கையாளருக்கு-தண்டனை-நீடிப்பு/50-365054) · `ta`
 
-The first woman journalist has been sentenced to four years in prison for the spread of Corona infection in China.
+சீனாவில் கொரோனா தொற்று பரவியுள்ளதை பற்றி முதலில் தெரிவித்த பெண் பத்திரிகையாளருக்கு மேலும் 4 ஆண்டுகளுக்கு சிறைத் தண்டனை நீட்டிக்கப்பட்டுள்ளது.
 
-Corona's infection is said to have begun to spread from China, with a 42 -year -old Chinese woman journalist Corona made direct reports from Wuhan, China.
+சீனாவில் இருந்துதான் கொரோனா தொற்று பரவத் தொடங்கியதாக கூறப்படும் நிலையில், 42 வயதான ஜாங் ஜான் என்ற சீன பெண் பத்திரிக்கையாளார் கொரோனா ஆரம்பகால பரவல் குறித்து சீனாவின் வூஹான் நகரில் இருந்து நேரடி அறிக்கைகளை வெளியிட்டார்.
 
-Subsequently, Zhang John tried to create confusion among the people and prosecuted the Chinese government for provoking a debate among the people. Following this, Zhang John was arrested. He was sentenced to four years in December 2020.
+இதையடுத்து, ஜாங் ஜான் மீது மக்கள் மத்தியில் குழப்பத்தை ஏற்படுத்த முயற்சித்தார், மக்களிடையே விவாதத்தைத் தூண்டினார் என்று சீன அரசால் வழக்கு தொடரப்பட்டது. இதனைத் தொடர்ந்து ஜாங் ஜான் கைது செய்யப்பட்டார். டிசம்பர் 2020 -ல் அவருக்கு நான்கு ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது.
 
-A month after his arrest, in jail, engaged in a hunger strike. In this case, he was released from jail in May 2024. He was again arrested three months later.
+கைது செய்யப்பட்ட ஒரு மாதத்திற்குப் பிறகு சிறையில், உண்ணாவிரதப் போராட்டத்தில் ஈடுபட்டார். இந்த நிலையில், 2024 மே மாதம் அவர் சிறையில் இருந்து விடுவிக்கப்பட்டார். பின்னர் மூன்று மாதங்களுக்குப் பிறகு அவர் மீண்டும் கைது செய்யப்பட்டார்.
 
-Chinese authorities did not correctly mention what Jong was accused of acting for the second time.
-
-In this case, his imprisonment has now been extended for another 4 years. He was sentenced to Friday following a Zhang report on China's human rights violations.
+இரண்டாவது முறையாக கைது செய்யப்பட்டபோது, ஜாங் என்ன நடவடிக்கைகளுக்காக குற்றம் சாட்டப்பட்டார் என்பதை சீன அதிகாரிகள் சரியாக குறிப்பிடவில்லை.
 
 ...
 
 [Data](articles/6470e085.json)
 
-[Extended Data](ext_articles/6470e085.ext.json)
-
 ---
 
-### 200 kilos of heroin seized a lorry at Tangalle
+### අයිස් සහ හෙරොයින් කිලෝ 200ක් ප්‍රවාහනය කළ ලොරි රථයක් තංගල්ලේදී අල්ලයි
 
 *2025-09-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214860) · `si`
 
-Police have arrested a lorry transporting about 200 kilograms of ice drugs and heroin.
+අයිස් මත්ද්‍රව්‍ය සහ හෙරොයින් කිලෝග්‍රෑම් 200ක් පමණ ප්‍රවාහනය කළ ලොරි රථයක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-The police said that the lorry was taken into custody while transporting these drugs in Tangalle.
+පොලීසිය පැවසුවේ තංගල්ල ප්‍රදේශයේදී මෙම මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබියදී මෙම ලොරි රථය පොලිස් භාරයට ගත් බවය.
 
 ◼️
 
 [Data](articles/d4561941.json)
 
-[Extended Data](ext_articles/d4561941.ext.json)
-
 ---
 
-### Wednesday a dead body found in the coastal coast
+### ජයගත්පුර වෙරළ තීරයට නිරුවත් මළ සිරුරක් ගොඩගසයි
 
 *2025-09-22 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214859) · `si`
 
-Modara, Modara, the coast of Jayawewapura, has been launched to the coast of Jayawewapura today.
+මොරටුව - එගොඩඋයන පොලිස් බල ප්‍රදේශයේ මෝදර, ජයගත්පුර වෙරළ තීරයට අද (22) උදෑසන නිරුවත් මළ සිරුරක් ගොඩගසා තිබේ.
 
-The body was recovered following information received by the police station.
+එගොඩඋයන පොලිස් ස්ථානයට ලද තොරතුරක් මත මෙම මළ සිරුර සොයා ගෙන ඇත.
 
-However, the identity of the dead has not been identified yet.
+කෙසේවෙතත් මිය ගොස් සිටින පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් හඳුනාගෙන නොමැති බව පොලීසිය පැවසුවේය.
 
-The police suspect that the man is among the age of 50 and 60 years old.
+එමෙන්ම අදාළ පුද්ගලයා වයස අවුරුදු 50ත් 60ත් අතර සීමාවක පසුවන්නෙකු බවට පොලීසිය සැක පළ කරන්නේය.
 
 ◼️
 
 [Data](articles/2134060a.json)
 
-[Extended Data](ext_articles/2134060a.ext.json)
-
 ---
 
-### 22nd Birthday: Death on 22
+### 22 அன்று 21 வது பிறந்த நாள்: 21 அன்று இடம்பெற்ற விபத்தில் 22 அன்று மரணம்
 
 *2025-09-22 11:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/22-அன்று-21-வது-பிறந்த-நாள்-21-அன்று-இடம்பெற்ற-விபத்தில்-22-அன்று-மரணம்/76-365052) · `ta`
 
-The incident took place in Nuwara Eliya on Monday, September 22, Monday (22), a youth who was injured in an accident on Sunday, 21st and on Sunday, 21st.
+செப்டம்பர் 22 ஆம் திகதி, திங்கட்கிழமை (22) தனது 21 வது பிறந்தநாளை கொண்டாடும் இளைஞன், 21 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற விபத்தில் படுகாயமடைந்து, 22 ஆம் திகதியன்று மரணமடைந்த சம்பவம் நுவரெலியாவில் இடம்பெற்றுள்ளது.
 
-A motorcycle crashed into a fast lorry. A police officer of the Nuwara Eliya Police Division said that the youth who was injured and admitted to the Nuwara Eliya District General Hospital on Monday morning.
+வேகமாக சென்ற லொறி ஒன்றில் மோட்டார் சைக்கிள் மோதி விபத்துக்குள்ளாகியது. அதை செலுத்தி சென்ற இளைஞர் படுகாயமடைந்து நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் திங்கட்கிழமை (22) காலை உயிரிழந்தார் என்று நுவரெலியா பொலிஸ் போக்குவரத்து பிரிவின் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
 
-The deceased has been identified as Manit Rihur, a native of Hawa Eliya, Nuwara Eliya.
+இந்த விபத்தில் உயிரிழந்தவர் நுவரெலியாவின் ஹாவா எலிய பகுதியைச் சேர்ந்த மனித் அபூர்வ என அடையாளம் காணப்பட்டுள்ளார்.
 
-The accident occurred at 9:30 pm on Sunday at the Hawa Eliya Junction on the main road of Irakalai-Nuwara Eliya.
-
-Nuwara Eliya Police Transport Officers suspect that the accident may have been involved in a lorry from Irakalai to Nuwara Eliya when he was trying to travel from the junction to Nuwara Eliya from the junction of Nuwara Eliya.
-
-Nuwara Eliya Police have arrested the driver of the lorry on suspicion, and the motorcycle was severely damaged.
-
-The deceased is the only son of Sampath Jayalal, the regional correspondent of the Nuwara Eliya district.
-
-◼️
-
-[Data](articles/010d69b4.json)
-
-[Extended Data](ext_articles/010d69b4.ext.json)
-
----
-
-### “There will be no Palestine state”: Benjamin Netanyahu to UK, Canada, Australia
-
-*2025-09-22 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112760/there-will-be-no-palestine-state-benjamin-netanyahu-to-uk-canada-australia) · `en`
-
-Israeli Prime Minister Benjamin Netanyahu strongly opposed the UK, Canada, and Australia’s move to recognise Palestine and said that there will be no Palestinian state to the west of the Jordan River. In a strongly worded statement published in PMO, condemning the move, PM Netanyahu vowed to give a response to countries after his US visit.
-
-“There will be no Palestinian state. The response to the latest attempt to force upon us a terror state in the heart of our land will be given after my return from the United States,” Netanyahu said. Netanyahu alleged that by recognising Palestine, they are “rewarding terror with an enormous prize,” expressing his determination not to let this happen.
+இராகலை-நுவரெலியா பிரதான வீதியில் ஹாவாஎலிய சந்தியில் ஞாயிற்றுக்கிழமை 21)  இரவு 9:30 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
 
 ...
 
-[Data](articles/a9d0c282.json)
+[Data](articles/010d69b4.json)
 
 ---
 
@@ -178,22 +148,6 @@ Our country is currently suffering from major vehicle accidents and casualties. 
 
 ---
 
-### India’s Chief of Naval Staff visits Sri Lanka to strengthen maritime ties
-
-*2025-09-22 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112758/indias-chief-of-naval-staff-visits-sri-lanka-to-strengthen-maritime-ties) · `en`
-
-Admiral Dinesh K Tripathi, Chief of the Naval Staff of India, is on a four-day official visit to Sri Lanka from September 22 to September 25, according to an official statement from the Ministry of Defence.
-
-During the visit, the Chief of the Naval Staff will call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, VAdm Kanchana Banagoda, and engage in bilateral discussions with the three Service Chiefs and other senior government officials on a broad spectrum of defence cooperation matters, with emphasis on maritime security, capability enhancement, training, and identifying avenues to strengthen cooperation.
-
-He would also participate in the 12th edition of the Galle Dialogue 2025 — International Maritime Conference in Colombo, on the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics.”
-
-...
-
-[Data](articles/16ce4f24.json)
-
----
-
 ### President visits Japan on the 27th
 
 *2025-09-22 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214857) · `si`
@@ -215,26 +169,6 @@ The President also addresses members of the Sri Lankan Sri Lankan community livi
 [Data](articles/a2115e4a.json)
 
 [Extended Data](ext_articles/a2115e4a.ext.json)
-
----
-
-### சம்பத் மனம்பேரிக்குச் சொந்தமான காணியில் இருந்து ஆயுதங்கள், வெடிபொருட்கள் கண்டுபிடிப்பு
-
-*2025-09-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225721) · `ta`
-
-மித்தெனியவில் சம்பத் மனம்பேரிக்குச் சொந்தமான  காணியில் இருந்து ஆயுதங்கள் மற்றும் வெடிமருந்துகள் பொலிஸாரால் கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
-
-சம்பத் மனம்பேரிக்கு சொந்தமானது என சந்தேகிக்கப்படும் 9மில்லிமீற்றர் கைத்துப்பாக்கி, இரண்டு டி-56 மேகசின்கள், 115 சுற்றுகள் டி-56 வெடிமருந்துகள் மற்றும் ஒரு கைக்குண்டு ஆகியவற்றை பொலிஸார் கைப்பற்றியுள்ளனர்.
-
-ஐஸ் போதைப்பொருள் தயாரிக்க பயன்படுத்தப்படும் இரசாயனங்கள் அடங்கிய கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட வழக்கில் சம்பத் மனம்பேரி கைதுசெய்யப்பட்டு தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-சம்பத் மனம்பேரியை ஏழு நாட்கள் தடுத்து வைத்து விசாரிக்க பொலிஸ் போதைப்பொருள் தடுப்புப் பணியகத்திற்கு செப்டெம்பர் 17ஆம் திகதியன்று வலஸ்முல்ல நீதவான் நீதிமன்றம் அனுமதி அளித்தது.
-
-பாதாள உலகக் குழுத் தலைவர் கெஹல்பத்தர பத்மேவுக்குச் சொந்தமானதாகக் கூறப்படும் ஐஸ் போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக கூறப்படும் இரசாயனங்களை இரண்டு கொள்கலன்களில் மறைத்து வைத்ததாக சம்பத் மனம்பேரி மீது குற்றம் சுமத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/999238c5.json)
 
 ---
 
@@ -729,26 +663,6 @@ The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics
 [Data](articles/9385705d.json)
 
 [Extended Data](ext_articles/9385705d.ext.json)
-
----
-
-### ජනාධිපතිගේ ජපාන සංචාරය 27දා ඇරඹෙයි
-
-*2025-09-22 09:22:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිගේ-ජපාන-සංචාරය-27දා-ඇරඹෙයි/11-418642) · `si`
-
-ජපන් රජය විසින් සිදු කරන ලද ආරාධනයකට අනුව, ජනාධිපති අනුර කුමාර දිසානායක, 2025 සැප්තැම්බර් 27 වැනි දින සිට 30 වැනි දා දක්වා ජපානයේ නිල සංචාරයක නිරත වනු ඇත.
-
-මෙම සංචාරය අතරතුරදී, ජනාධිපති දිසානායක, ජපන් අධිරාජ්‍යයා හමුවීමට නියමිත වේ. එසේම ජනාධිපතිතුමා විසින් ජපන් අග්‍රාමාත්‍යවරයා සමඟ අන්‍යෝන්‍ය වශයෙන් වැදගත් කරුණු ගණනාවක් පිළිබඳව අවධානය යොමු කෙරෙන සමුළු රැස්වීමක් ද පවත්වනු ඇත.
-
-ශ්‍රී ලංකාවේ වර්ධනය එන ආර්ථික අවස්ථා කෙරෙහි අවධානය යොමු කරමින්, ටෝකියෝවේ ප්‍රමුඛතම ජපන් ව්‍යාපාර සහ ආයෝජකයින්ගේ ඉහළ පෙළේ නියෝජිතයින්ගේ සහභාගිත්වයෙන් පැවැත්වෙන ව්‍යාපාරික සංසදයක්ද ජනාධිපති දිසානායක අමතනු ඇත.
-
-2025 එක්ස්පෝ ප්‍රදර්ශනයේ ශ්‍රී ලංකා දිනයේදී, ජපන් රජයේ ආරාධිතයෙකු ලෙස, “එක්ස්පෝ 2025 ඔසාකා” (EXPO 2025 Osaka) ප්‍රදර්ශනය සඳහාද ජනාධිපති දිසානායක සහභාගී වනු ඇත. මෙම ප්‍රදර්ශනයේ අරමුණ වන්නේ ජාත්‍යන්තර ප්‍රජාව හමුවේ ශ්‍රී ලංකාවේ සංස්කෘතික උරුමය සහ ආර්ථික හැකියාවන් විදහා දැක්වීම වේ.
-
-ජනාධිපතිවරයා, ජපානයේ වෙසෙන විදේශගත ශ්‍රී ලාංකික ප්‍රජාවේ සාමාජිකයින්ද අමතනු ඇත.
-
-...
-
-[Data](articles/be2ec177.json)
 
 ---
 
@@ -2025,5 +1939,97 @@ Meanwhile, a person from the illegal leakage manufacturing group has recently be
 [Data](articles/55f31f73.json)
 
 [Extended Data](ext_articles/55f31f73.ext.json)
+
+---
+
+### Navy bears suspicion with a stock of beady leaves
+
+*2025-09-21 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214838) · `si`
+
+A suspect has been taken into custody with 1,197 kilograms of bead leaves, which attempted to be brought to Sri Lanka illegally in a special search operation conducted by the Sri Lanka Navy in Silawathura.
+
+The Navy also operates constant patrols and screenness covering the coast and sea strip around the island, including rackets and illegal activities.
+
+Accordingly, Sri Lanka Navy Ship Naval Saviya, Sri Lanka Naval Ship Naval Saviya, which was conducted on the 18th of the Silawathura area, has been inspected at the 18th.
+
+A suspicion of 485 kilograms of beed leaves and 706 soap cubes have been taken into custody with 706 soap cubes.
+
+Also, during the search investigation, another 712 kilograms hidden in the shore and 1,059 soaps were taken into custody.
+
+The suspect has been identified as a resident of Kalpitiya, the suspect, who was taken into custody by the Navy.
+
+◼️
+
+[Data](articles/447771cc.json)
+
+[Extended Data](ext_articles/447771cc.ext.json)
+
+---
+
+### Severe countries officially welcomes Palestine as a state
+
+*2025-09-21 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214837) · `si`
+
+The UK, Canada and Australia have been officially recognized as a state of Palestine as a state.
+
+The first G7 is the first G7, and Australia and the UK have announced that the Palestine is recognized as a state.
+
+However, Israel and the US have expressed their displeasure to this decision.
+
+◼️
+
+[Data](articles/63c3ce20.json)
+
+[Extended Data](ext_articles/63c3ce20.ext.json)
+
+---
+
+### Germans assaulting a group of German people in Unawatuna
+
+*2025-09-21 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214836) · `si`
+
+The tourism industry is a major increase in the main source of income that empowers Sri Lanka's economy.
+
+According to reports of the Sri Lanka Tourism Development Authority, the number of foreign tourists reached in Sri Lanka to September 1, 20, 2025, was 1,656,916.
+
+The objective of the authorities is to achieve the target of foreign tourists this year.
+
+However, many opportunities to assault and harass foreign travelers have been reported to assault and harass foreign tourists.
+
+There were six German nationals at a party in a Unawatuna hotel, a party and two Sri Lankans last night.
+
+The German travelers had then left the hotel in two motorbikes and three wheelers.
+
+In the meantime, the two Sri Lankans connected to the argument of the traffic in a car have been assaulted by foreign tourists.
+
+The Germans who were assaulted have lodged a complaint with the Unawatuna Tournament Police.
+
+...
+
+[Data](articles/29029df7.json)
+
+[Extended Data](ext_articles/29029df7.ext.json)
+
+---
+
+### President goes to America tomorrow
+
+*2025-09-21 19:04:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ඇමරිකාවට-යයි/11-418636) · `si`
+
+President Anura Kumara Dissanayake is due to leave for the USA tomorrow (22).
+
+The President will participate in the 80th session of the United Nations General Assembly during the visit.
+
+During his visit, Anura Kumara Dissanayake is expected to join bilateral discussions with the UN High Secretariat and several world state leaders.
+
+The President will also participate in a meeting with Sri Lankans in the United States.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining the visit with President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/10e4fe45.json)
+
+[Extended Data](ext_articles/10e4fe45.ext.json)
 
 ---

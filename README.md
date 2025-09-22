@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 02:07:21**
+As of **2025-09-23 01:56:04**
 
 ## Newspaper Stats
 
-*Scraped **77,522** Articles*
+*Scraped **77,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 784
 economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
-dailyftlk | 5,504
+dailyftlk | 5,502
 adalk | 7,528
 adaderanalk | 10,039
 tamilmirrorlk | 11,659
@@ -26,41 +26,11 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,520 (100.0%) of 77,522 articles have been extended.
+77,520 (100.0%) of 77,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### Blossom Well signs BOI agreement for  $ 2.99 m boutique hotel establishment
-
-*2025-09-23 01:36:45* · [`dailyftlk`](https://www.ft.lk/business/Blossom-Well-signs-BOI-agreement-for-2-99-m-boutique-hotel-establishment/34-782052) · `en`
-
-Blossom Well Holdings Ltd., has signed an agreement with the Board of Investment (BOI) for $ 2.99 million to build a boutique hotel in Thissamaharama.
-
-This proposed investment is a high-end hospitality development located on land in Kohombagahapalassa, Thissamaharama, in proximity to the Yala National Park. The project targets the upscale and midscale tourist market, focusing on both international and domestic travellers.
-
-The senior management has developed a carefully articulated vision to become a leading high-quality star-class hospitality destination in Southern Sri Lanka, fully geared to offer exceptional service, authentic culinary experiences, and convenient access to the region’s most treasured religious, historical, and wildlife sites—creating lasting memories for every guest. The mission is to provide a superior hospitality experience.
-
-...
-
-[Data](articles/fd0a426a.json)
-
----
-
-### National Chamber hosts B2B meeting with 31-member AICCI Indian business delegation
-
-*2025-09-23 01:33:49* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-hosts-B2B-meeting-with-31-member-AICCI-Indian-businessdelegation/34-782051) · `en`
-
-The National Chamber of Commerce of Sri Lanka, in collaboration with the All India Chamber of Commerce & Industries (AICCI), will host a 31-member Indian business delegation to strengthen the Trade and Investment opportunities through a series of Business-to-Business (B2B) meetings on Friday, 26 September, from 3 p.m. to 5.30 p.m. at the National Chamber Auditorium, #450, D.R. Wijewardena Mawatha, Colombo 10.
-
-This program themed, “Creating B2B Opportunities for Export, Import, Trade and Investments”, aims to bring together business leaders from Sri Lanka and India to explore new avenues for partnerships, joint ventures, and investments. This initiative will create valuable networking opportunities and help strengthen bilateral trade relations between the two countries.
-
-...
-
-[Data](articles/5eafbd3e.json)
-
----
 
 ### Sri Lankan business leaders participate in 2025 UN Private Sector Forum
 
@@ -2085,5 +2055,47 @@ The restructuring program that is the structural changes in the country's develo
 [Data](articles/6ecec332.json)
 
 [Extended Data](ext_articles/6ecec332.ext.json)
+
+---
+
+### Sri Lankan anglers join fight against invasive giant snakehead fish
+
+*2025-09-22 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112766/sri-lankan-anglers-join-fight-against-invasive-giant-snakehead-fish) · `en`
+
+Nissanka Arachchige Vimukthi Sandaruwan beat more than 1,000 anglers to become champion of a unique competition to protect native fish from invasive giant snakehead fish in central Sri Lanka.
+
+A native of southeast Asia, giant snakehead fish are considered an invasive species in many countries. Kept as pets they can cause massive ecological harm when released into rivers or dams.
+
+Anglers from all over the south Asian island flocked to a dam on the Deduru Oya river, 130 km (80 miles) from the commercial capital Colombo, on Saturday to target the pest.
+
+Curious spectators cheered on the participants while sampling pickles, fried snacks and ice cream along the dam’s tree-lined embankment.
+
+Despite the turnout, giant snakeheads proved elusive with only 22 caught.
+
+“This is the first time I’ve participated in a fishing competition,” said Sandaruwan, a 37-year-old farmer, who hooked three fish.
+
+...
+
+[Data](articles/c8b9af74.json)
+
+[Extended Data](ext_articles/c8b9af74.ext.json)
+
+---
+
+### Recovery of an unidentified person on Moratuwa beach
+
+*2025-09-22 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225735) · `ta`
+
+A body has been recovered this morning (22) at the Motara - Jayakatpura beach belonging to the Moratuwa - Ekoda Police Division.
+
+According to information received by the Ekoda Police Station, the body was recovered, police said.
+
+Police suspected that the body was rescued between 50 and 60 years old.
+
+◼️
+
+[Data](articles/e5a47660.json)
+
+[Extended Data](ext_articles/e5a47660.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 11:57:59**
+As of **2025-09-22 12:15:28**
 
 ## Newspaper Stats
 
-*Scraped **77,384** Articles*
+*Scraped **77,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ islandlk | 4,761
 dailyftlk | 5,496
 adalk | 7,517
 adaderanalk | 10,008
-tamilmirrorlk | 11,637
+tamilmirrorlk | 11,639
 virakesarilk | 12,597
-adaderanasinhalalk | 13,514
+adaderanasinhalalk | 13,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,383 (100.0%) of 77,384 articles have been extended.
+77,384 (100.0%) of 77,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### என்னாடா அணைய மாட்டேங்குது...
+
+*2025-09-22 11:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னாடா-அணைய-மாட்டேங்குது/175-365050) · `ta`
+
+◼️
+
+[Data](articles/3bf7c72f.json)
+
+---
+
+### යෝෂිතට එරෙහි නඩුව යළි කැඳවීමට දිනයක්
+
+*2025-09-22 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214858) · `si`
+
+මුදල් විශුද්ධීකරණය වැළැක්වීමේ පනත යටතේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පුත් යෝෂිත රාජපක්ෂ මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුව ඔක්තෝම්බර් මස 15 වන දා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කර තිබේ.
+
+මෙම නඩුව කැඳවූ අවස්ථාවේදී විත්තිකරුවන් වශයෙන් නම්කර සිටින යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් අධිකරණයේ පෙනී සිටියේය.
+
+රුපියල් මිලියන 73 කට ආසන්න වත්කම් හා දෙපොළ අයථා ලෙස අත්පත් කර ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා කොට නීතිපතිවරයා විසින් යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් යන අයට එරෙහිව මෙම නඩුව ගොනු කර තිබේ.
+
+◼️
+
+[Data](articles/bbda7974.json)
+
+---
 
 ### Increasing road accidents in the country: shocking statistics!
 
@@ -191,6 +217,22 @@ These guns and bullets were recovered based on investigations conducted by Becko
 [Data](articles/1998524b.json)
 
 [Extended Data](ext_articles/1998524b.ext.json)
+
+---
+
+### மனம்பேரியின் தங்க நிற மெகசின்கள் மித்தெனியவில் மீட்பு
+
+*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனம்பேரியின்-தங்க-நிற-மெகசின்கள்-மித்தெனியவில்-மீட்பு/175-365041) · `ta`
+
+தடுப்புக்காவலில் வைக்கப்பட்டுள்ள சம்பத் மனம்பேரியால் புதைக்கப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு தங்க நிற மெகசின்கள், ஒரு 9 மிமீ பிஸ்டல், ஒரு கைக்குண்டு மற்றும் 115, T-56 தோட்டாக்கள் ஆகியவை மித்தெனிய பகுதியில் உள்ள ஒரு காணியில் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+பெக்கோ சமன் இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்களை 2 மாதங்களுக்கு முன்பு சம்பத் மனம்பேரியிடம் கொடுத்ததாகவும், அவை அவரது நெருங்கிய ஒருவரின் வீட்டில் புதைக்கப்பட்டதாகவும் கூறப்படுகிறது.
+
+பெக்கோ சமன் மற்றும் சம்பத் மனம்பேரியவிடம் நடத்தப்பட்ட விசாரணைகளின் அடிப்படையில், இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்கள் மீட்கப்பட்டன.  R
+
+◼️
+
+[Data](articles/e66b00d2.json)
 
 ---
 
@@ -548,23 +590,25 @@ The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics
 
 ---
 
-### වැලි ටිපරයට ගුරුවරයෙක් බිලි
+### A teacher of the sand tip to a teacher
 
 *2025-09-22 09:17:49* · [`adalk`](https://www.ada.lk/breaking_news/වැලි-ටිපරයට-ගුරුවරයෙක්-බිලි/11-418641) · `si`
 
-දඹුල්ල ත්‍රිකුණාමලය ප්‍රධාන මාර්ගයේ දඹුල්ල නගර මධ්යේදී 21දා පස්වරුවේ වැලි ප්‍රවාහනය කරමින් තිබු ටිපර් රථයක හැපිපෙන් ඉංග්‍රීසි ගුරුවරයකු මියගොස් ඇතැයි දඹුල්ල පොලිසිය කියයි.
+According to Dambulla Police, a Tipper Teacher killed in a tipper in Dambulla in Trincomalee main road.
 
-හබරණ දෙස සිට දඹුල්ල දෙසට ධාවනය වෙමින් තිබී ඇති බවත් එකවරම පාර මාරු වෙන්නට යද්දී ටිපර් රථයේ පිටුපස රෝදයේ හැපීමෙන් අනතුර සිදුව ඇතිබව මුලික පරීක්ෂණවලදී අනාවරණය වූ බව  දඹුල්ල මුලස්ඨාන පොලිස් පරීක්ෂක සුගත් විජේසුන්දර මහතා පැවසිය.
+Dambulla Police Inspector Sugagala Police Savath Wijesundara revealed that the accident had occurred when the road to switch to Dambulla to Dambulla.
 
-අනතුරෙන් මියගොස් ඇත්තේ දඹුල්ල සණස  මාවතේ පදිංචි වයස අවුරුදු 56ක පාසැල් ගුරුවරයෙක් වන ඒ.එම් සරත් ජයන්ත රුවන් බණ්ඩාර යන දෙදරු  පියෙක් වන අතර ඔහු දඹුල්ල ප්‍රාථමික විදුහලේ සේවය කරමින් සිට ඇත .
+The deceased has been identified as 56 year old ministerial teacher from Sanasella Mawatha, Dambulla.
 
-වැලි ප්‍රවාහනය කරමින් තිබු ටිපර් රථය හා රියදුරු අත්අඩංගුවට ගෙන ඇත ,මරණය පිළිබධව පච්චාත් මරණ පරීක්ෂණය 22 දින පැවැත්වීමට නියමිතය.
+The tipper and the driver was transporting sand and the driver of sand has been arrested, the death of the death of death.
 
-මේ  සම්බන්ධයෙන් දඹුල්ල පොලිසිය වැඩිදුර පරීක්ෂණ පවත්වයි. මෘත දේහය දඹුල්ල මුලික රෝහලේ තැන්පත් කොට ඇත.
+Dambulla Police are conducting further investigations. The remains are placed at the Dambulla basic hospital.
 
 ◼️
 
 [Data](articles/6237996e.json)
+
+[Extended Data](ext_articles/6237996e.ext.json)
 
 ---
 
@@ -1993,75 +2037,5 @@ He was responding to the media's questions at a function held at a function held
 [Data](articles/1cedaf62.json)
 
 [Extended Data](ext_articles/1cedaf62.ext.json)
-
----
-
-### UK, Canada and Australia recognise Palestinian state in major diplomatic shift
-
-*2025-09-21 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112741/uk-canada-and-australia-recognise-palestinian-state-in-major-diplomatic-shift) · `en`
-
-UK, Canada and Australia recognise Palestinian state in major diplomatic shift
-
-The United Kingdom, Canada and Australia confirmed today (21) that they now formally recognize Palestinian statehood, piling pressure on Israel.
-
-Canadian Prime Minister Mark Carney today announced that his country now recognises the state of Palestine.
-
-“Canada recognises the State of Palestine and offers our partnership in building the promise of a peaceful future for both the State of Palestine and the State of Israel,” Carney said in a statement.
-
-“Recognising the State of Palestine, led by the Palestinian Authority, empowers those who seek peaceful coexistence and the end of Hamas. This in no way legitimises terrorism, nor is it any reward for it,” Carney said.
-
-Carney said the Palestinian Authority has provided “direct commitments” to Canada on reforming its governance, to hold general elections in 2026 in which Hamas “can play no part” and to demilitarize the Palestinian state.
-
-...
-
-[Data](articles/016c3739.json)
-
-[Extended Data](ext_articles/016c3739.ext.json)
-
----
-
-### British preparing to make a decision that hurts
-
-*2025-09-21 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214834) · `si`
-
-It is reported that the British Prime Minister Kihi Starmer is to be released today (21) a official statement that Palestine is recognized as a legitimate state.
-
-Accordingly, the first member of the G7 group who accepts the Palestine is the first member of the G7 team.
-
-In addition to the British, France, Canada and Australia, are to be issued during the United Nations General Assembly meeting this week.
-
-However, Israel and the US have expressed their displeasure to this decision.
-
-US President Donald Trump had been opposed to Prime Minister Stammer during the last week.
-
-◼️
-
-[Data](articles/58ffa2fd.json)
-
-[Extended Data](ext_articles/58ffa2fd.ext.json)
-
----
-
-### A new order on checking drug drivers
-
-*2025-09-21 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214833) · `si`
-
-The Ministry of Transport and Civil Aviation has issued a new order for how to inspect the drivers who operate drivers to be carried out using the drivers.
-
-According to Section 151 of the Motorcycle Act, which is effective from September 1, has been issued.
-
-This order has explained how a driver is fairly suspected by a police officer that a police officer is fairly suspected by a police officer.
-
-According to a driver's skin, a driver's skin has a unusual behavior, dysfunctional behavior, action, movement, movement, and the appearance of the driver, the Ministry of Transport, Highways and Civil Aviation points out that the police personnel.
-
-The police officer has authorized a driver who is identified as drugs that have been taken.
-
-The inspection should be carried out at a police station or any easier location and the relevant order should be done so that the public should be done.
-
-...
-
-[Data](articles/5ecc4fd4.json)
-
-[Extended Data](ext_articles/5ecc4fd4.ext.json)
 
 ---

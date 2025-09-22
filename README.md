@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 07:06:19**
+As of **2025-09-22 07:51:44**
 
 ## Newspaper Stats
 
-*Scraped **77,329** Articles*
+*Scraped **77,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,77 +20,99 @@ adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,625
 virakesarilk | 12,582
-adaderanasinhalalk | 13,506
+adaderanasinhalalk | 13,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,326 (100.0%) of 77,329 articles have been extended.
+77,329 (100.0%) of 77,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### පුරාවස්තු සොයා කැණීම් කළ තරුණියක් අත්අඩංගුවට
+### හෝටලයක නාන තටාකයේ ගිලී  පුද්ගලයෙකු ජීවිතක්ෂයට
+
+*2025-09-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214849) · `si`
+
+කටාන - කඳවල ප්‍රදේශයේ හෝටලයක නාන තටාකයෙහි ගිලීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+
+මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 23ක් වන මාඋස්සාකැලේ, මස්කෙළිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අදාළ පුද්ගලයා තවත් මිතුරන් කිහිපදෙනෙකු සමග විනෝද වෙමින් එම හෝටලයෙහි නාන තටාකයෙහි දිය නාමින් සිටියදී මෙලෙස දියේ ගිලී ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/a290a840.json)
+
+---
+
+### Youth arrested for searching for antiquities
 
 *2025-09-22 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214848) · `si`
 
-ඇතිමලේ පොලිස් වසමේ ගැමුණුපුර ප්‍රදේශයේදී පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කරමින් සිටි සැකකාරියක් කැණීම් උපකරණ ද සමග අත්අඩංගුවට ගෙන තිබේ.
+A suspect has been arrested in the Gemunupura area in the Etaka area in the Gemunupura area.
 
-ඇතිමලේ පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමකට ලද තොරතුරක් මත මෙම වැටලීම සිදු කර ඇත.
+The raid was carried out on information received by a group of officers from the Ethamale Police Station.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 29 ක් වන ගැමුණුපුර, ඇතිමලේ ප්‍රදේශයේ පදිංචිකාරියකි.
+The suspect is a resident of Gemunupura, Aetimale.
 
-කෙසේවෙතත් එම ස්ථානයේ සිටි තවත් සැකකරුවෙකු පලාගොස් ඇති අතර ඔහුට අයත් බවට සැකකරන යතුරුපැදියක් ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+However, another suspect who was in the place has fled the police and a motorcycle who is involved in him belongs to him.
 
-පලාගිය සැකකරු අත්අඩංගුවට ගැනීමට ඇතිමලේ පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+Umemale Police are conducting further investigations to arrest the suspect.
 
 ◼️
 
 [Data](articles/0077872e.json)
 
+[Extended Data](ext_articles/0077872e.ext.json)
+
 ---
 
-### ජනපති අද අමෙරිකාවට
+### President to visit China today
 
 *2025-09-22 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214847) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (22) දිනයේදී අමෙරිකාව බලා පිටත්ව යාමට නියමිතව තිබේ.
+President Anura Kumara Dissanayake is due to leave for the US today (22).
 
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගිවීම සදහා ජනාධිපතිවරයා අද රාත්‍රී දිවයිනෙන් පිටත්ව යාමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය සදහන් කළේය.
+The President states that the President is due to leave the island this night to attend the 80th session of the United Nations General Assembly.
 
-ජනාධිපතිවරයා ලබන 24වනදා එරට වේලාවෙන් පස්වරු  3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමට ද නියමිතය.
+The President is also scheduled to address the United Nations General Assembly at 3.1 pm on the 24th of this month.
 
-මෙම සංචාරයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම්වරයා සහ රාජ්‍ය නායකයින් කිහිපදෙනකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවලට එක්වීමට ද නියමිතව ඇත.
+President Anura Kumara Dissanayake is due to join bilateral talks with the Secretary-General of the United Nations and the United States's leaders.
 
-එමෙන්ම ජනාධිපතිවරයා අමෙරිකාවේ වෙසෙන ශ්‍රී ලාංකිකයින් සමඟ හමුවකට ද සහභාගී වීමටද නියමිතව තිබේ.
+The President is also meeting with Sri Lankans living in the United States.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ද එක් වීමට නියමිතය.
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to join the visit with President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/a407444f.json)
 
+[Extended Data](ext_articles/a407444f.ext.json)
+
 ---
 
-### වැසි තත්ත්වය තවදුරටත්
+### Rain condition continues
 
 *2025-09-22 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214845) · `si`
 
-දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The extent of rain and wind quality of the island can further expect the existing rain and wind quality.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි අතර වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකියි.
+Showers will occur at times in the Western and Sabaragamuwa provinces and in the North, Matara, Kandy and Nuwara Eliya districts.
 
-එමෙන්ම ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව වාර්තා වේ.
+The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු, උතුරු - මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකියි.
+Katt and Hambantota districts in the Central, Western, North-Central and North Western Provinces. Around 30-40ths can cause stronger winds.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටින්නේ ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදු විය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
+The Meteorology Department requests the public to minimize the dangers of lightning and temporary strong winds caused by thunderstorms.
 
 ◼️
 
 [Data](articles/9ea267a3.json)
+
+[Extended Data](ext_articles/9ea267a3.ext.json)
 
 ---
 
@@ -2067,29 +2089,5 @@ He was taken to the hospital due to a sudden illness when he was exercising on S
 [Data](articles/efce0f64.json)
 
 [Extended Data](ext_articles/efce0f64.ext.json)
-
----
-
-### President to leave for US tomorrow to attend UN General Assembly
-
-*2025-09-21 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112725/president-to-leave-for-us-tomorrow-to-attend-un-general-assembly) · `en`
-
-President Anura Kumara Dissanayake is scheduled to leave for the United States tomorrow (22).
-
-During this visit, President Dissanayake is expected to attend the 80th session of the United Nations General Assembly (UNGA).
-
-The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division.
-
-During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
-
-The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will accompany President Anura Kumara Dissanayake on his official visit.
-
-◼️
-
-[Data](articles/09381f11.json)
-
-[Extended Data](ext_articles/09381f11.ext.json)
 
 ---

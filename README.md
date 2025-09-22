@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 20:21:16**
+As of **2025-09-22 19:56:11**
 
 ## Newspaper Stats
 
-*Scraped **77,482** Articles*
+*Scraped **77,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,154 +17,20 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,527
-adaderanalk | 10,033
-tamilmirrorlk | 11,655
-virakesarilk | 12,610
-adaderanasinhalalk | 13,538
+adaderanalk | 10,030
+tamilmirrorlk | 11,654
+virakesarilk | 12,607
+adaderanasinhalalk | 13,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,475 (100.0%) of 77,482 articles have been extended.
+77,474 (100.0%) of 77,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
-
-### සමාජ මාධ්‍යයේ සංසරණය වන ව්‍යාජ ලිපියක් ගැන පොලීසියෙන් පැහැදිලි කිරීමක්
-
-*2025-09-22 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214882) · `si`
-
-සමාජ මාධ්‍ය මඟින් සංසරණය වන ව්‍යාජ ලිපියක් සම්බන්ධව පොලීසිය විසින් කරුණු පැහැදිලි කිරීමක් සිදුකර තිබේ.
-
-2025.08.20 වන දිනැතිව “Attn: The Alleged Victim” යනුවෙන් සඳහන් කර ඉංග්‍රීසි බසින් සකස් කරන ලද ශ්‍රී ලංකා පොලිසිය යැයි හැඟෙන ව්‍යාජ ලිපි ශීර්ෂයක් සහිත ලිපියක් මේ දිනවල සමාජ මාධ්‍ය ජාලා ඔස්සේ සංසරණය වෙමින් පවතින බව පොලීසිය පවසයි.
-
-මෙම ව්‍යාජ ලිපියෙහි ළමා හා කන්තා අපයෝජන විමර්ශන කාර්යංශයේ පොලිස්පති කාර්යාලය, පොලිස් මූලස්ථානය යනුවෙන් පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා, අධ්‍යක්‍ෂ ශ්‍රී ලංකා පරිගණක හදිසි සූදානම හා අධ්‍යක්‍ෂ ජාතික ළමා ආරක්‍ෂණ අධිකාරිය ලෙස ව්‍යාජ අත්සන් සහිත නිල මුද්‍රා යොදා ඇති බව නිරීක්‍ෂණය වේ.
-
-මෙම ලිපිය ශ්‍රී ලංකා පොලීසිය මඟින් ප්‍රචාරය කරන ලද්දක් නොවන බව අවධාරණය කරන අතර, මෙය මහජනතාව නොමග යැවීමේ අරමුණින් ප්‍රචාරය කරන ලද ව්‍යාජ ලිපියක් බව පොලීසිය වැඩිදුරටත් දන්වා සිටිමි.
-
-...
-
-[Data](articles/d55de471.json)
-
----
-
-### Tens of thousands join pro-Palestinian demos, strikes in Italy
-
-*2025-09-22 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112788/tens-of-thousands-join-pro-palestinian-demos-strikes-in-italy) · `en`
-
-Tens of thousands of people protested on Monday (Sep 22) across Italy as part of a day of action to “denounce the genocide in Gaza”, which included transport strikes and port blockades.
-
-The demonstrations came the same day as France and other countries prepared to recognise a Palestinian state at the United Nations General Assembly in New York, following recognition by the UK, Australia and Canada on Sunday.
-
-Italy’s hard-right government under Prime Minister Giorgia Meloni has said it will not recognise a Palestinian state for now.
-
-In Rome, some 20,0000 people gathered in front of the main Termini train station, according to local police, many of them students, shouting “Free Palestine!” and holding up Palestinian flags.
-
-Some had marched via the Colosseum, those at the front holding up a giant banner saying “Against Genocide. Let’s block everything.”
-
-At Termini station, Michelangelo, 17, told AFP he was there to support “a population that is being exterminated”.
-
-...
-
-[Data](articles/f4681574.json)
-
----
-
-### "No need to hand over the energy structure to the private" "
-
-*2025-09-22 19:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிசக்தி-கட்டமைப்பை-தனியாரிடம்-ஒப்படைக்க-தேவையில்லை/175-365077) · `ta`
-
-President Anura Kumara Dissanayake stressed that the government would always protect the country's energy sovereignty and made it clear that there was no need to hand over the energy structure to private companies.
-
-The Presidential Media Unit (PMD) said that it is very important to ensure sovereignty of energy for Sri Lanka's economic growth, national security and independence.
-
-The government wants to eliminate the incompetent within the existing institutional structure, not the privatization, its aim is to build the most effective and well -built system.
-
-The President made this statement during the Advancement Review Meeting on New Reforms in the Energy Division.
-
-Members of the Committee appointed to implement reforms, Electricity Distribution Lanka (Pvt) Limited, National Transmission Network Service Provider (Private) Limited, Electricity Production Lanka (Private) Limited and National System Operator (Pvt) Ltd.
-
-...
-
-[Data](articles/b21c3e84.json)
-
-[Extended Data](ext_articles/b21c3e84.ext.json)
-
----
-
-### மித்தெனியவில் சம்பத் மனம்பேரியால் புதைக்கப்பட்ட ஆயுதங்கள் மீட்பு
-
-*2025-09-22 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225794) · `ta`
-
-சம்பத் மனம்பேரி வழங்கிய தகவலுக்கமைய அவரால் மித்தெனிய பகுதியில் வீடொன்றின் பின்புறம் புதைக்கப்பட்டிருந்த துப்பாக்கி, 115 ரவைகள் உள்ளிட்ட ஆயுதங்கள் 22ஆம் திகதி திங்கட்கிழமை மேல்மாகாண வடக்கு குற்றப்பிரிவு அதிகாரிகளால் கைப்பற்றப்பட்டன.
-
-மித்தெனிய பகுதியில் கண்டெடுக்கப்பட்ட ஐஸ் இரசாயனம் தொடர்பில் கைது செய்யப்பட்ட மொட்டுக்கட்சியின் முன்னாள் உறுப்பினர் சம்பத் மனம்பேரி வழங்கிய தகவலுக்கமைய  மித்தெனிய பகுதியிலிருந்து திங்கட்கிழமை (22) ஆயுதங்கள் மீட்கப்பட்டன. தடுப்புகாவலின் கீழ் வைக்கப்பட்டுள்ள சந்தேகநபரான சம்பத் மனம்பேரியிடம் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கமைய இது தொடர்பில் அறியக்கிடைத்துள்ளது.
-
-...
-
-[Data](articles/2fe07f8f.json)
-
----
-
-### உலகின் எந்ந அணியுடனும் எங்களால் போட்டியிட முடியும், உலகக் கிண்ணத்தில் நாங்கள் பிரகாசிக்க வேண்டிய தருணம் இது - சமரி அத்தபத்து
-
-*2025-09-22 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225793) · `ta`
-
-'உலகின் எந்த அணியுடனும் எங்களால் போட்டியிட முடியும். அது மட்டுமல்ல இந்த வருட உலகக் கிண்ணம் எங்களுக்கு பிரகாசிக்கக்கூடிய ஒரு சிறந்த வாய்ப்பாகும்' என இலங்கை மகளிர் கிரிக்கெட் அணித் தலைவர் சமரி அத்தபத்து தெரிவித்துள்ளார்.
-
-இந்தியாவிலும் இலங்கையிலும் நடைபெறவுள்ள 13ஆவது மகளிர் உலகக் கிண்ண கிரிக்கெட் போட்டியில் இலங்கையின் வாய்ப்புகள் குறித்து ஐசிசிக்கு கருத்து வெளியிடுகையில்  அவர்  இதனைத் தெரிவித்துள்ளார்.
-
-'உலகக் கிண்ணத்தில் விளையாடுவது என்பது ஒவ்வொரு நாளும் செய்யவேண்டிய ஒன்றல்ல. இந்த சந்தர்ப்பத்தை நாங்கள் சாதாரணமாக எடுத்துக்கொள்ள மாட்டோம். ஒருநாள் (ODI) உலகக் கிண்ணப் போட்டியில் எனது தேசத்தின் அணிக்கு தலைமை தாங்குவது மிகப் பெரிய கௌரவமாகும். இப் போட்டியில் ஒரு பகுதி எமது சொந்த மண்ணில் விளையாடப்படுவது அதை மிகவும் சிறப்பானதாக்குகிறது.
-
-'எங்கள் சொந்த இரசிகர்கள் முன்னிலையில் சில போட்டிகளில் விளையாடக் கிடைப்பதையிட்டு நாங்கள் உற்சாகம் அடைந்துள்ளோம். இது எங்களக்கு மிகப் பெரிய அனுகூலமாகவம் வாய்ப்பாகவும் அமையும்.
-
-...
-
-[Data](articles/fcb3db3f.json)
-
----
-
-### Educational reforms to focus on activity-based learning and religious education: PM Harini
-
-*2025-09-22 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112787/educational-reforms-to-focus-on-activity-based-learning-and-religious-education-pm-harini) · `en`
-
-The Minister of Education, Higher Education, and Vocational Training, Prime Minister Dr. Harini Amarasuriya stated that one of the key objectives of the ongoing education reforms is to increase the focus on activity-based learning in schools.
-
-The Prime Minister noted that as a result of these reforms, students will gradually be directed towards an activity-centered educational model, which will also extend to religious education, making it more interactive and participatory in the future.
-
-These remarks were made during the second meeting of the Hindu Religious Advisory Council, held at the Ministry of Education under the leadership of Prime Minister and Minister of Education, Dr. Harini Amarasuriya.
-
-During the meeting, the advisory council pointed out that there is a severe shortage of teachers to teach Hinduism, as many teachers appointed for the subject are currently teaching other disciplines. The council emphasized the need for a solution to the predicament.
-
-...
-
-[Data](articles/62c204b6.json)
-
----
-
-### ஒருநாள் கிரிக்கெட் ஓய்விலிருந்து மீண்டார் குவின்டன் டி கொக்; பாகிஸ்தானுக்கான சுற்றுப் பயணத்தில் இணைகிறார்
-
-*2025-09-22 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225792) · `ta`
-
-இந்தியாவில் நடைபெற்ற ஐசிசி உலகக் கிண்ணம் 2023 சுற்றுப் போட்டியுடன் சர்வதேச ஒருநாள் கிரிக்கெட்டிலிருந்து ஓய்வு பெறுவதாக அறிவித்த குவின்டன் டி கொக், அந்த முடிவை மாற்றிக்கொண்டு மீண்டும் ஒருநாள் போட்டிகளில் விளையாடத் தீர்மானித்துள்ளார்.
-
-இதற்கு அமைய பாகிஸ்தானுக்கு எதிராக நடைபெறவுள்ள சர்வதேச ஒருநாள் கிரிக்கெட் தொடருக்கான தென் ஆபிரிக்க குழாத்தில் குவின்டன் டி கொக் மீண்டும் இணைத்துக்கொள்ளப்பட்டுள்ளார். அவர் ரி20 குழாத்திலும் பெயரிடப்பட்டுள்ளார்.
-
-பாகிஸ்தானுக்கு எதிராக மூன்று வகையான சர்வதேச கிரிக்கெட் தொடர்களில் விளையாடவுள்ள மூன்று குழாம்களை தென் ஆபிரிக்கா இன்று திங்கட்கிழமை (22) அறிவித்தது.
-
-இங்கிலாந்துக்கு எதிராக அண்மையில் நடைபெற்ற டெஸ்ட் கிரிக்கெட் தொடரின்போது உபாதைக்குள்ளான வழமையான அணித் தலைவர் டெம்பா பவுமா, இந்தத் தொடருக்கான குழாத்தில் இணைத்துக்கொள்ளப்படவில்லை.
-
-ஒருநாள் கிரிக்கெட் அணித் தலைவராக மெத்யூ ப்றீட்ஸ்கேயும் ரி20 கிரிக்கெட் அணித் தலைவராக டேவிட் மில்லரும் செயற்படுவர்.
-
-நமீபியாவுக்கு எதிரான சர்வதேச ரி20 கிரிக்கெட் தொடரில் தென் ஆபிரிக்க அணிக்கு டொனவன் பெரெய்ரா தலைவராக நியமிக்கப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/26fbdd2d.json)
-
----
 
 ### School-based activities should be more inclined - Prime Minister Harinini
 
@@ -235,28 +101,6 @@ They said that if the authorities did not provide solutions to their demands, th
 [Data](articles/65292d70.json)
 
 [Extended Data](ext_articles/65292d70.ext.json)
-
----
-
-### New details emerge on bodies found in renovated house in Seenimodara
-
-*2025-09-22 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112786/new-details-emerge-on-bodies-found-in-renovated-house-in-seenimodara) · `en`
-
-New details have come to light regarding the bodies of two males discovered inside a partially renovated house in Seenimodara, Tangalle.
-
-The bodies were found by the Tangalle Police this morning (22).
-
-According to reports, an individual who had recently purchased the old house had commenced constructing a boundary wall around the property, and renovation work had been ongoing for several days.
-
-Three laborers had been employed to assist with the renovations, and according to police, the workers had consumed alcohol inside the house last night.
-
-One of the individuals had suddenly fallen ill, and after notifying his children, they arrived and admitted him to the Tangalle Base Hospital, where he passed away early this morning.
-
-The deceased was identified as a 50-year-old resident of Vitharandeniya, Tangalle.
-
-...
-
-[Data](articles/21c31ded.json)
 
 ---
 
@@ -2063,5 +1907,161 @@ The court accepted it and allowed the authorities to investigate him in prison f
 [Data](articles/e6f856d1.json)
 
 [Extended Data](ext_articles/e6f856d1.ext.json)
+
+---
+
+### Another news about Sampath Manamberi
+
+*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-தொடர்பில்-மற்றுமொரு-செய்தி/175-365041) · `ta`
+
+Two golden megacins, one 9mm pistol, one handbag and 115, T-56 bullets, suspected of being buried by Sampath Manamberry, have been found in a land in the Mitteniya region.
+
+It is said that Becko Saman gave these guns and bullets to Sampath Manamperi 2 months ago and buried in the house of his close one.
+
+These guns and bullets were recovered based on investigations conducted by Becko Saman and Sampath Manamperiya.  R
+
+◼️
+
+[Data](articles/1998524b.json)
+
+[Extended Data](ext_articles/1998524b.ext.json)
+
+---
+
+### Recovery in Manamperi's golden megacins
+
+*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனம்பேரியின்-தங்க-நிற-மெகசின்கள்-மித்தெனியவில்-மீட்பு/175-365041) · `ta`
+
+Two golden megacins, one 9mm pistol, one handbag, and 115, T-56 bullets, suspected of buried by Sampath Manamperi, have been found in a land in Mitteniya.
+
+It is said that Becko Saman gave these guns and bullets to Sampath Manamperi 2 months ago and buried in the house of his close one.
+
+These guns and bullets were recovered based on investigations conducted by Becko Saman and Sampath Manamperiya.  R
+
+◼️
+
+[Data](articles/e66b00d2.json)
+
+[Extended Data](ext_articles/e66b00d2.ext.json)
+
+---
+
+### Sasheendra Rajapaksa's bail plea rejection; Explanation extending!
+
+*2025-09-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225725) · `ta`
+
+The Colombo Chief Magistrate's Court on Monday (22) ordered the former State Minister Sasheendra Rajapakse to be remanded until September 30.
+
+The order was issued when Sasheendra Rajapaksa was produced in court today.
+
+The bribery and corruption inquiry commission officials were arrested on August 06 in connection with the incident in which the former Minister of State Sasheendra Rajapaksa was in Nugegoda in Nugegoda in connection with the incident in which the government was compensated by another person in the Sevanagala -Gripan Veeva area during the country.
+
+◼️
+
+[Data](articles/3d43ae24.json)
+
+[Extended Data](ext_articles/3d43ae24.ext.json)
+
+---
+
+### Prabhakaran's telephone number is like a mother: Vijay
+
+*2025-09-22 10:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-ஒரு-தாயைப்-போன்றவர்-விஜய்/175-365040) · `ta`
+
+LTTE leader Velupillai Prabhakaran said at a rally in Nagapattinam, Tamil Nadu, leader of the Tamil Nadu Victory Association, "Like a Mother of the Sri Lankan Tamil people."
+
+“In any corner of the world, our relatives, Eelam Tamil people, lose a leader who showed mother affection. Therefore, it is our duty to speak for them. ”
+
+The issue of Sri Lankan Tamils ​​is considered an emotional problem in the areas where the major fisheries community like Nagapattinam.
+
+In 2008, Vijay engaged in a hunger strike in Chennai on behalf of Sri Lankan Tamils. Political critics, however, point out that it is not the same to support the Sri Lankan Tamils ​​and support the banned LTTE in India.
+
+Apart from praising Prabhakaran, Vijay said that his party's main goal is to solve the problems of the fishermen community. Also, MK. He also criticized Stalin's government and said that his party would not write long letters to solve fishing issues, but also looking for solutions.
+
+...
+
+[Data](articles/2edc83af.json)
+
+[Extended Data](ext_articles/2edc83af.ext.json)
+
+---
+
+### Two bodies recovered from an old house in Tangalle!
+
+*2025-09-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225714) · `ta`
+
+The bodies of two men have been recovered from an old house rehabilitated in the Tangalle - Seenimodara area in Hambantota, Tangalle police said.
+
+A raid carried out by police near the house has seized 10 packs of ice from a lorry.
+
+Another person in the house has been admitted to the Tangalle General Hospital due to a sudden illness, police investigations have revealed that they have died later.
+
+◼️
+
+[Data](articles/2cddb72f.json)
+
+[Extended Data](ext_articles/2cddb72f.ext.json)
+
+---
+
+### Tangalle two bodies recovery
+
+*2025-09-22 10:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-இரண்டு-சடலங்கள்-மீட்பு/175-365039) · `ta`
+
+Two bodies have been recovered in an abandoned house which is being renovated in the Tangalle Seenimodara area.
+
+In a raid conducted at the site, police said that 10 packets suspected of being an ice (crystal methampetamine) hidden in a truck parked near the house were found.
+
+Another person at the scene was reportedly taken to Tangalle General Hospital. He died later.
+
+Police have launched a full -scale investigation into the incident, while the state analyst's department is conducting autopsy to find out the causes of death.
+
+◼️
+
+[Data](articles/c9c31010.json)
+
+[Extended Data](ext_articles/c9c31010.ext.json)
+
+---
+
+### The Chinese Prime Minister Prime Minister Prime Minister's America points to the United States of bilateral relations with China
+
+*2025-09-22 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214856) · `si`
+
+China has pointed out the need to look at bilateral relations with China.
+
+The Chinese Prime Minister has emphasized the need to take steps to look at China and bilateral relationships and facilitate the exchange and cooperation.
+
+The Prime Minister of the Chinese Prime Minister has asked the US Congress to play Chinese-American friendship and public development.
+
+The Chinese Prime Minister LI QIANG visited a group of US Congress representatives yesterday (21) at Beijing yesterday.
+
+He added that the maintenance, strong and sustainable development of bilateral relations is the major countries that have a significant global impact on the major countries that have a significant global impact on the common needs of both sides.
+
+The President of the two countries have agreed to enhance the dialogue and cooperation this year, directing bilateral relations to enhance bilateral relations.
+
+...
+
+[Data](articles/121618f2.json)
+
+[Extended Data](ext_articles/121618f2.ext.json)
+
+---
+
+### Court rejects Shasheendra’s bail appeal, further remanded
+
+*2025-09-22 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112755/court-rejects-shasheendras-bail-appeal-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa,  has been further remanded until September 30 after the Colombo Chief Magistrate’s Court rejected his bail application today (22), Ada Derana reporter said.
+
+Colombo Chief Magistrate Asanka S. Bodaragama has rejected Shasheendra’s bail application and ordered that he be further remanded in custody.
+
+Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on charges of committing the offense of “corruption” under the Anti-Corruption Act by illegally obtaining Rs. 8,850,000 as compensation for the destruction of his political office, which had been constructed on a Mahaweli land, by protesters during the ‘Aragalaya’.
+
+◼️
+
+[Data](articles/fa80ec18.json)
+
+[Extended Data](ext_articles/fa80ec18.ext.json)
 
 ---

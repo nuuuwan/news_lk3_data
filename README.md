@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 14:23:50**
+As of **2025-09-22 14:12:29**
 
 ## Newspaper Stats
 
-*Scraped **77,416** Articles*
+*Scraped **77,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,21 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,522
+adalk | 7,521
 adaderanalk | 10,015
-tamilmirrorlk | 11,645
+tamilmirrorlk | 11,644
 virakesarilk | 12,601
-adaderanasinhalalk | 13,521
+adaderanasinhalalk | 13,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,407 (100.0%) of 77,416 articles have been extended.
+77,407 (100.0%) of 77,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
-
-### විදුලිබල නව සමාගම් 4ට සේවකයින් සම්බන්ධ කර ගැනීම ඇරඹේ
-
-*2025-09-22 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214865) · `si`
-
-ලංකා විදුලිබල සංශෝධන පනත ක්‍රියාත්මක කරමින් පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත සමාගම් 4කට සේවකයින් සම්බන්ධ කිරීම අරඹා ඇති බව බලශක්ති අමාත්‍යාංශය පවසයි.
-
-ඒ අනුව, ලංකා විදුලිබල මණ්ඩලයේ සේවකයින්ගෙන් කොටසක් තමන් ඉහත පරිදි පිහිටුවන ආයතනවලට සම්බන්ධ වීමට කැමැත්ත පළ කරමින් ලිපි ලබාදීමට කටයුතු කළහ.
-
-අද (22) පෙරවරුවේ ලංකා විදුලිබල මණ්ඩල මූලස්ථානයේදී මෙලෙස කැමැත්ත පළ කිරීමේ ලිපි ලංකා විදුලිබල මණ්ඩලයේ සභාපති මහාචාර්ය උදයංග හේමපාල මහතාට ලබා දුනි.‍
-
-2025 අංක 14 දරන ශ්‍රී ලංකා විදුලිබල (සංශෝධිත) පනත අනුව පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත  ජාතික පද්ධති පාලන (පුද්) සමාගම, ජාතික සම්ප්‍රේෂණ ජාල සේවා සැපයුම් (පුද්) සමාගම, විදුලිබල බෙදාහැරීමේ ලංකා (පුද්) සමාගම සහ විදුලි ජනන ලංකා (පුද්) සමාගම යන සමාගම් 04කට ඒ අනුව ඉහත සේවක පිරිස් සම්බන්ධ කරනු ඇති බව වාර්තා වෙයි.
-
-...
-
-[Data](articles/b6c0d4aa.json)
-
----
-
-### ICE உடன் தொடர்பு CEB ஊழியர் கைது
-
-*2025-09-22 13:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICE-உடன்-தொடர்பு-CEB-ஊழியர்-கைது/175-365060) · `ta`
-
-பாரிய போதைப்பொருள் வழக்கில் முக்கிய சந்தேக நபருக்கு தங்குமிடம் வழங்கியதாகக் கூறப்படும் குற்றச்சாட்டில் இலங்கை மின்சார சபையின் (CEB) ஊழியர் ஒருவர் பொலிஸ் போதைப்பொருள் தடுப்புப் பணியகத்தால் (PNB) கைது செய்யப்பட்டுள்ளார்.
-
-மித்தெனியாவில் 'ஐஸ்' என்ற போதைப்பொருள் தயாரிக்க பயன்படுத்தப்படும் இரசாயனங்கள் நிரப்பப்பட்ட ஒரு புதைக்கப்பட்ட கொள்கலன் கண்டுபிடிக்கப்பட்டதைத் தொடர்ந்து, சம்பத் மனம்பேரி என அடையாளம் காணப்பட்ட சந்தேக நபர் தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/b8650648.json)
-
----
 
 ### ஜனாதிபதி மாளிகை அருகே மோதல் ; 49 பேர் கைது
 
@@ -104,17 +72,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### තංගල්ලේදී ඇල්ලූ අයිස් සහ හෙරොයින් ප්‍රවාහනය කළ ලොරි රථයේ නවීන ගිනිඅවි 4ක් තිබී හමුවෙයි
+### තංගල්ලේදී ඇල්ලූ අයිස් සහ හෙරොයින් ප්‍රවාහනය කළ ලොරි රථයේ නවීන ගිනි අවි 4ක් තිබී හමුවෙයි
 
 *2025-09-22 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214863) · `si`
 
-හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට අධික තොගයක් තංගල්ල ප්‍රදේශයෙන් සොයාගෙන තිබේ.
+අයිස් සහ හෙරොයින් කිලෝ 200කට ආසන්න ප්‍රමාණයක් ප්‍රවාහනය කරමින් තිබියදී තංගල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගත් ලොරි රථයේ තිබී නවීන ගිනිඅවි 04ක් සොයා ගැනීමට පොලීසිය සමත්ව තිබේ.
 
-දකුණු පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති කිත්සිරි ජයලත් මහතා පැවසුවේ ලොරි රථයක තිබී අදාළ මත්ද්‍රව්‍ය තොගය සොයාගත් බවය.
-
-එම ලොරි රථයේ තිබී ඇති මත්ද්‍රව්‍ය ප්‍රමාණය නිශ්චිතව මෙතෙක් ගණනය කර නොමැති අතර එම ප්‍රමාණය කිලෝග්‍රෑම් 200 ද ඉක්මවා යා හැකි බව ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා සඳහන් කළේය.
-
-අදාළ ලොරි රථයේ තිබී නවීන ගිනිඅවි 04ක් ද සොයා ගැනීමට හැකිව තිබේ.
+මෙම ලොරි රථය අද පෙරවරුවේ ධාවනය කරමින් තිබියදී පොලීසිය විසින් පරීක්ෂා කර ඇති අතර එහිදී මෙම රථය තුළ තිබී අයිස් සහ හොරොයින් කිලෝ 200 පොලීසිය විසින් සොයා ගැනීමට සමත් විය.
 
 ◼️
 
@@ -439,22 +403,6 @@ The deceased is the only son of Sampath Jayalal, the regional correspondent of t
 [Data](articles/010d69b4.json)
 
 [Extended Data](ext_articles/010d69b4.ext.json)
-
----
-
-### දෙවිනුවර බස්නායක නිලමේ කතරගම බස්නායක නිලමේ ධුරයේ වැඩ බලයි
-
-*2025-09-22 11:57:15* · [`adalk`](https://www.ada.lk/breaking_news/දෙවිනුවර-බස්නායක-නිලමේ-කතරගම-බස්නායක-නිලමේ-ධුරයේ-වැඩ-බලයි/11-418644) · `si`
-
-ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ  බස්නායක නිලමේ ලෙස කටයුතු කළ ඩිෂාන්  වික්‍රමරත්න ගුණසේකර මහතාගේ නිල කාලය 21 වෙනිදා අවසන්ය විය.
-
-එම ධූරයේ වැඩ බැලීම සඳහා දෙවිනුවර උත්පලවර්ණ ශ්‍රී විෂ්ණු මහා දේවාලයේ බස්නායක නිලමේ ලෙස කටයුතු කරන ආරච්චිගේ තිළිණ මධුශංක අබේරත්න මහතා බෞද්ධ කටයුතු කොමසාරිස් වරයා විසින් (22) වෙනිදා පත්කර ඇත.
-
-තම සේවා කාලය තුළ කතරගම ප්‍රදේශය ඇතුළු මුළු රටට දේවාලයේ පඬුරු මුදල් වලින් සහ පරිත්‍යාග වලින් මහත් සේවාවක් කළ හිටපු බස්නායක නිලමේ ඩිෂාන් ගුණසේකර මහතා මහරගම අපේක්ෂා රෝහලේ සිව් මහල් ළමා වාට්ටු  සංකීර්ණය ඉඳිකිරීම,කතරගම මූලික රෝහල වැඩිදියුණු කිරීම,කතරගම බස් නැවතුම්පොළ ඇතුළු නගරය නවීකරණය කිරීම,පුදබිමට පැමිණෙන බැතිමතුන්ට අවශ්‍ය සියලු පහසුකම් සැලසීම සහ පුදබිම අලංකාර කිරීම,ප්‍රදේශයේ අඩු ආදායම්ලාභී පවුල් වලට සහනාධාර පිරිනැමීම,ප්‍රදේශයේ තරුණ තරුණියන්ට වෘත්තීය පුහුණුව ලබාදී රැකියා අවස්ථා සඳහා යොමුකිරීම,ඉංග්‍රීසි සහ කොරියානු භාෂා පාඨමාල පැවැත්වීම ආදී සමාජ සත්කාර රැසක් තම සේවා කාලය තුළ ඉටු කරන ලදි.
-
-...
-
-[Data](articles/b3c909ef.json)
 
 ---
 
@@ -1999,5 +1947,57 @@ I observed a surprise boom of “award ceremonies” showcasing truly deserving 
 [Data](articles/88182e1e.json)
 
 [Extended Data](ext_articles/88182e1e.ext.json)
+
+---
+
+### Be warned of thieves and nuisance-makers in AI space
+
+*2025-09-22 02:53:32* · [`dailyftlk`](https://www.ft.lk/columns/Be-warned-of-thieves-and-nuisance-makers-in-AI-space/4-781986) · `en`
+
+Since the digital space is rich with resources, it naturally draws the interested persons to hack the systems to gain an undue enrichment. Hence, hackers and modes of hacking are aplenty.3 Government institutions are hacked not only for money but also to embarrass the rulers through temporary stoppage of government activities. Hence, AKD Government which is bent on making a digital transformation of the Sri Lanka economy is correct in its action to setup an outfit that will monitor the work of the key institutions day and night and prevent cyber attackers from destroying the system
+
+...
+
+[Data](articles/ef611c9f.json)
+
+[Extended Data](ext_articles/ef611c9f.ext.json)
+
+---
+
+### President Anura Kumara Dissanayake has been appointed one year
+
+*2025-09-22 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225694) · `ta`
+
+President Anura Kumara Dissanayake takes over as the 9th Executive President of Sri Lanka and is completed by one year (23).
+
+President Anura Kumara Dissanayake was elected as the Chairman of the National People's Power on 2021.2012 and contested the 08th Presidential election on 21.09.2012, on behalf of the National People's Power.
+
+In the presidential election held last year, Anuragumara Dissanayake, who contested on behalf of the National People's Power, won 42,31 per cent votes and 42,31 per cent votes, Sajith Premadasa, who contested on behalf of the United People's Power, with 32.76 per cent votes and the new Democratic Front 29,777 Namal Rajapaksa, who contested the votes on behalf of the Sri Lanka PA, received 342,781 votes with 2.57 per cent of the votes.
+
+In the presidential election in Sri Lanka's presidential election, he was elected as President of the President in last year's presidential election.
+
+...
+
+[Data](articles/76d4b7a9.json)
+
+[Extended Data](ext_articles/76d4b7a9.ext.json)
+
+---
+
+### India beat Pakistan again in Asian Cup
+
+*2025-09-22 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225695) · `ta`
+
+The Indian team defeated Pakistan by 6 wickets in the Asian Bowl Super 4 match in Dubai.
+
+Accordingly, Pakistan scored 171 runs for the loss of 5 wickets in 20 overs. Sahibsada Farhan highlighted with 58 runs. Shivam Dubey took 2 wickets for India.
+
+The Indian team then lost only 4 wickets in 18.5 overs. Abhishek Sharma 74, Shubman Gill 47 and Tilak Verma scored 30 runs.
+
+◼️
+
+[Data](articles/7674e031.json)
+
+[Extended Data](ext_articles/7674e031.ext.json)
 
 ---

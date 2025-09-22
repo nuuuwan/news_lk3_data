@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 05:59:33**
+As of **2025-09-22 07:06:19**
 
 ## Newspaper Stats
 
-*Scraped **77,325** Articles*
+*Scraped **77,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,672
+economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
@@ -20,17 +20,101 @@ adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,625
 virakesarilk | 12,582
-adaderanasinhalalk | 13,503
+adaderanasinhalalk | 13,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,308 (100.0%) of 77,325 articles have been extended.
+77,326 (100.0%) of 77,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### පුරාවස්තු සොයා කැණීම් කළ තරුණියක් අත්අඩංගුවට
+
+*2025-09-22 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214848) · `si`
+
+ඇතිමලේ පොලිස් වසමේ ගැමුණුපුර ප්‍රදේශයේදී පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කරමින් සිටි සැකකාරියක් කැණීම් උපකරණ ද සමග අත්අඩංගුවට ගෙන තිබේ.
+
+ඇතිමලේ පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමකට ලද තොරතුරක් මත මෙම වැටලීම සිදු කර ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 29 ක් වන ගැමුණුපුර, ඇතිමලේ ප්‍රදේශයේ පදිංචිකාරියකි.
+
+කෙසේවෙතත් එම ස්ථානයේ සිටි තවත් සැකකරුවෙකු පලාගොස් ඇති අතර ඔහුට අයත් බවට සැකකරන යතුරුපැදියක් ද පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+පලාගිය සැකකරු අත්අඩංගුවට ගැනීමට ඇතිමලේ පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/0077872e.json)
+
+---
+
+### ජනපති අද අමෙරිකාවට
+
+*2025-09-22 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214847) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (22) දිනයේදී අමෙරිකාව බලා පිටත්ව යාමට නියමිතව තිබේ.
+
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගිවීම සදහා ජනාධිපතිවරයා අද රාත්‍රී දිවයිනෙන් පිටත්ව යාමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය සදහන් කළේය.
+
+ජනාධිපතිවරයා ලබන 24වනදා එරට වේලාවෙන් පස්වරු  3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමට ද නියමිතය.
+
+මෙම සංචාරයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම්වරයා සහ රාජ්‍ය නායකයින් කිහිපදෙනකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවලට එක්වීමට ද නියමිතව ඇත.
+
+එමෙන්ම ජනාධිපතිවරයා අමෙරිකාවේ වෙසෙන ශ්‍රී ලාංකිකයින් සමඟ හමුවකට ද සහභාගී වීමටද නියමිතව තිබේ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ද එක් වීමට නියමිතය.
+
+◼️
+
+[Data](articles/a407444f.json)
+
+---
+
+### වැසි තත්ත්වය තවදුරටත්
+
+*2025-09-22 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214845) · `si`
+
+දිවයිනේ නිරිතදිග ප්‍රදේශවල දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි අතර වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකියි.
+
+එමෙන්ම ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව වාර්තා වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු, උතුරු - මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකියි.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටින්නේ ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදු විය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
+
+◼️
+
+[Data](articles/9ea267a3.json)
+
+---
+
+### Sri Lanka bank interest rates edge up amid ‘ramrod anomaly’ in bills
+
+*2025-09-22 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-interest-rates-edge-up-amid-ramrod-anomaly-in-bills-241410/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s bank interest rates have continued to edge up after a rate cut in May 2025, amid a strong economic recovery made possible by the stability provided by the central bank through past deflationary policy as well as stable government policies.
+
+According to central bank data the weighted average new fixed deposit rate fell to 6.62 percent in May and climbed to 6.85 percent in June and 6.90 percent in July.
+
+However, banks are now mobilizing 12-month deposits at 7.75 percent and above to finance strong credit demand and an economic recovery.
+
+The economic recovery may also have been helped by reduced government capex, which reduced domestic state borrowings and allowed private citizens to deploy resources to the most productive areas, bringing compounded long-term growth rather than bureaucratic spending.
+
+The weighted average new lending rate climbed to 10.56 percent in April from 10.46 percent in March, fell to 10.28 percent in June, a month after the rate cut.
+
+...
+
+[Data](articles/18e69626.json)
+
+[Extended Data](ext_articles/18e69626.ext.json)
+
+---
 
 ### Ranil calls for united Opposition against ‘constitutional dictatorship’ at UNP’s 79th anniversary
 
@@ -56,6 +140,8 @@ He made the appeal at the UNP’s 79th anniversary convention, calling the gathe
 
 [Data](articles/0a5967a2.json)
 
+[Extended Data](ext_articles/0a5967a2.ext.json)
+
 ---
 
 ### India-Sri Lanka Foundation approves new projects to boost economic ties
@@ -74,6 +160,8 @@ The 40th meeting of the Board of Directors of the ISLF was held in Colombo on Fr
 
 [Data](articles/65c0af89.json)
 
+[Extended Data](ext_articles/65c0af89.ext.json)
+
 ---
 
 ### Public Rights Movement raises alarm over Litro tender changes, calls for probe
@@ -87,6 +175,8 @@ In a letter addressed to the Commission to Investigate Allegations of Bribery or
 ...
 
 [Data](articles/3df9e6ae.json)
+
+[Extended Data](ext_articles/3df9e6ae.ext.json)
 
 ---
 
@@ -104,6 +194,8 @@ Customers can now explore the complete Moose collection under one roof, includin
 
 [Data](articles/02331e12.json)
 
+[Extended Data](ext_articles/02331e12.ext.json)
+
 ---
 
 ### Siddhalepa Golden Night 2025 – Honouring legacy, rewarding excellence
@@ -119,6 +211,8 @@ The program began with a heartfelt tribute to the late Chairman, followed by an 
 ...
 
 [Data](articles/7b10254a.json)
+
+[Extended Data](ext_articles/7b10254a.ext.json)
 
 ---
 
@@ -144,6 +238,8 @@ The milestone event recognised and celebrated the achievements of exceptional in
 
 [Data](articles/90950b2e.json)
 
+[Extended Data](ext_articles/90950b2e.ext.json)
+
 ---
 
 ### Vidullanka’s Matara solar power plant adds another 3 MW of clean energy to national grid
@@ -159,6 +255,8 @@ The completion of this plant marks the first project concluded as per the 9MW aw
 ...
 
 [Data](articles/7388cb97.json)
+
+[Extended Data](ext_articles/7388cb97.ext.json)
 
 ---
 
@@ -437,6 +535,8 @@ Minister of Foreign Affairs Vijitha Herath, will accompany Dissanayake on the vi
 ◼️
 
 [Data](articles/d209a599.json)
+
+[Extended Data](ext_articles/d209a599.ext.json)
 
 ---
 
@@ -864,6 +964,8 @@ Prof. Athukorala acknowledged a recent vote of confidence from the global market
 
 [Data](articles/78b3c9fa.json)
 
+[Extended Data](ext_articles/78b3c9fa.ext.json)
+
 ---
 
 ### Water, war and renewal: The Iranamadu Reservoir’s new dawn with ADB
@@ -877,6 +979,8 @@ Once a casualty of a decades-long civil war, Iranamadu is today a powerful symbo
 ...
 
 [Data](articles/5ab52bca.json)
+
+[Extended Data](ext_articles/5ab52bca.ext.json)
 
 ---
 
@@ -914,6 +1018,8 @@ Approved by the Sri Lanka Sustainable Energy Authority (SLSEA), CEB, and LECO, S
 
 [Data](articles/dda924b9.json)
 
+[Extended Data](ext_articles/dda924b9.ext.json)
+
 ---
 
 ### DIMO and Mahindra empower tractor owners for Maha Season 2025
@@ -928,6 +1034,8 @@ The DIMO Care Camp welcomed tractors of any brand or model, while the Mahindra S
 
 [Data](articles/2a6d01f3.json)
 
+[Extended Data](ext_articles/2a6d01f3.ext.json)
+
 ---
 
 ### ComBank Home Loans Fiesta returns with benefits for aspiring homeowners
@@ -941,6 +1049,8 @@ Under the promotion, all customers will enjoy the Platinum Rate on interest, wit
 ...
 
 [Data](articles/27a68304.json)
+
+[Extended Data](ext_articles/27a68304.ext.json)
 
 ---
 
@@ -958,6 +1068,8 @@ Eligibility requires clients to secure a new life insurance policy and complete 
 
 [Data](articles/acde921d.json)
 
+[Extended Data](ext_articles/acde921d.ext.json)
+
 ---
 
 ### Seylan Bank and National Chamber of Exporters renew strategic partnership for the 4th consecutive year
@@ -971,6 +1083,8 @@ Through this continuing collaboration, Seylan Bank will extend tailored financia
 ...
 
 [Data](articles/dda0c4dc.json)
+
+[Extended Data](ext_articles/dda0c4dc.ext.json)
 
 ---
 
@@ -1977,93 +2091,5 @@ Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will
 [Data](articles/09381f11.json)
 
 [Extended Data](ext_articles/09381f11.ext.json)
-
----
-
-### Indian Navy ship arrived in Colombo port!
-
-*2025-09-21 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/225653) · `ta`
-
-The Indian Navy has arrived at the port of Colombo.
-
-The Sri Lankan navy said that the ship with 403 employees arrived in the country yesterday (20) to meet the distribution and service requirements.
-
-The warship that arrived in the country is said to be in the Uns Satpura'142.5 meters.
-
-The Sri Lankan navy has said that it is planning to take its employees to many parts of Sri Lanka to visit important areas in Sri Lanka during the ship's anchor.
-
-◼️
-
-[Data](articles/51df9be8.json)
-
-[Extended Data](ext_articles/51df9be8.ext.json)
-
----
-
-### Electricity employee trade union measures intensify
-
-*2025-09-21 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214822) · `si`
-
-Ceylon Electricity Board Trade Unions says of a trade union action to refrain from joining the procurement and tender processes today.
-
-The trade union action of itself has been strictly operating in his letter to the informal proposal in the restructuring process of the Ceylon Electricity Board for 17 days.
-
-Trade unions of the Ceylon Electricity Board (CEB)
-
-The informal proposals in the restructuring process of the Ceylon Electricity Board, acts of severe inconveniences, providing ratings and promotions, including 16 demands.
-
-The second step has organized a protest in front of the Ceylon Electricity Board of Ceylon Electricity Board in Colombo Fort.
-
-In this backdrop, the electricity unions today (21) have said that a procurement of procurement activities from midnight today (21) will be held from midnight today.
-
-◼️
-
-[Data](articles/b40cf42a.json)
-
-[Extended Data](ext_articles/b40cf42a.ext.json)
-
----
-
-### President leaves for USA tomorrow
-
-*2025-09-21 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214821) · `si`
-
-President Anura Kumara Dissanayake is due to leave for the United States tomorrow (22).
-
-The President will participate in the 80th session of the United Nations General Assembly on the occasion.
-
-During his visit, Anura Kumara Dissanayake is expected to join bilateral discussions with the UN High Secretariat and several world state leaders.
-
-The President will also participate in a meeting with Sri Lankans in the United States.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/f27a9463.json)
-
-[Extended Data](ext_articles/f27a9463.ext.json)
-
----
-
-### CEB workers to further intensify trade union action from tomorrow
-
-*2025-09-21 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112724/ceb-workers-to-further-intensify-trade-union-action-from-tomorrow) · `en`
-
-Several trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their trade union action further against the proposed restructuring of the CEB, effective midnight today (21).
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action in three phases.
-
-The first phase was initiated as a ‘work-to-rule’ trade union action.
-
-In the second phase, all employees reported sick leave in two groups on September 17 and 18), during which a demonstration was also staged opposite the CEB head office.
-
-Although 17 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
-
-...
-
-[Data](articles/389beca8.json)
-
-[Extended Data](ext_articles/389beca8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 09:39:41**
+As of **2025-09-22 10:09:30**
 
 ## Newspaper Stats
 
-*Scraped **77,352** Articles*
+*Scraped **77,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
-adalk | 7,514
+adalk | 7,515
 adaderanalk | 10,001
 tamilmirrorlk | 11,629
 virakesarilk | 12,589
-adaderanasinhalalk | 13,509
+adaderanasinhalalk | 13,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,352 (100.0%) of 77,352 articles have been extended.
+77,355 (100.0%) of 77,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Tangalle found two bodies of two bodies of a house in Sena Sena Seennodara
+
+*2025-09-22 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214854) · `si`
+
+Tangalle has a house bodies have been renovated in Seennimodara area.
+
+Police also recovered 10 packets of ice drugs in a lorry near the house at the investigation.
+
+Meanwhile, another person in the house had reached the Tangalle General Hospital due to an illness, and he was killed.
+
+The police have commenced investigations into the incident and the Government Analymist is conducting the tense test on the incident.
+
+◼️
+
+[Data](articles/79519bdd.json)
+
+[Extended Data](ext_articles/79519bdd.ext.json)
+
+---
+
+### Firearms and ammunition suspected to be resomed Manamperi
+
+*2025-09-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214853) · `si`
+
+Two golden magazines suspected of resource Majarakri suspected and a hand grenade and a bullet found found in a land of Middeniya area.
+
+◼️
+
+[Data](articles/10eb39b6.json)
+
+[Extended Data](ext_articles/10eb39b6.ext.json)
+
+---
 
 ### President visits America today
 
@@ -157,6 +191,26 @@ Police have taken steps to bring the arrested suspicions and evidence in court. 
 [Data](articles/5b3fe9c1.json)
 
 [Extended Data](ext_articles/5b3fe9c1.ext.json)
+
+---
+
+### Sensitive request of a father ready to give life to the child
+
+*2025-09-22 07:40:21* · [`adalk`](https://www.ada.lk/breaking_news/දරුවාට-ජීවිතය-දෙන්න-සූදානම්-පියෙකුගේ-සංවේදී-ඉල්ලීම/11-418639) · `si`
+
+Dambulla was reported from the Inamaluwa area for a loyalty to their economy and treatment for their economy and treatment for their economy to save their kidney disease.
+
+R. M. Forty seven-year-old father, named Senerarat Bandara, was a number of years of severe kidney disease. He pointed out that a child was twenty-three years old, he said.
+
+Their beloved wife R. Mnyluka Sudamyanthi aged forty-three years old. He says she serves as a private trade market in Dambulla and is a daughter who is writing the GCE O / L examination next year.
+
+He says Ruwan Bandara has come to the proposal that a kidney transplanted at many years to survive, he said.
+
+...
+
+[Data](articles/360fa376.json)
+
+[Extended Data](ext_articles/360fa376.ext.json)
 
 ---
 
@@ -2025,67 +2079,5 @@ In addition, the Consumer Affairs Authority (CAA) has said that the court has th
 [Data](articles/8cbc7b45.json)
 
 [Extended Data](ext_articles/8cbc7b45.ext.json)
-
----
-
-### Law enforces those who did not do the asset liabilities
-
-*2025-09-21 14:48:00* · [`adalk`](https://www.ada.lk/breaking_news/වත්කම්-බැරකම්-නොදුන්-අයට-නීතිය-ක්‍රියාත්මක-කරනවා/11-418632) · `si`
-
-Minister of Trade, Commerce and Consumer Affairs Wasantha Samarasinghe said that the amendment bill was presented to Parliament with the privilege of privatization of the CEB.
-
-The CEB has been established as a state company and employees should identify the protests against the amendment.
-
-The minister said that the present government is not fair to privatize, and the protests of the CEB has not been able to retire in behalf of the employees and that the present government is not fair.
-
-The government has made the preservation of the security of the country's working people and some are acting against it.
-
-The Minister has said that the current government has shown complaints regarding Namal Rajapaksa, not only by Namal Rajapaksa but also a revelation of his wife and his wife's statements.
-
-The Minister emphasized that the President and the government members have revealed their assets as a responsible political movement in the country.
-
-◼️
-
-[Data](articles/fe83ded4.json)
-
-[Extended Data](ext_articles/fe83ded4.ext.json)
-
----
-
-### 5 students fainted: Investigate shops
-
-*2025-09-21 14:47:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/5-மாணவர்கள்-மயங்கினர்-கடைகளிடம்-விசாரணை/76-364997) · `ta`
-
-A group of students from Hambantota and Konona colleges were on their way to Kandy, police said.
-
-After visiting the Peradeniya Botanical Gardens on Saturday evening (20), the group came out and ate toast and milk from nearby stores. They went to worship the historic Sri Dalada House at night.
-
-Later, when a group of students approached the National Exhibition Ground where their bus stopped, five students suddenly fell unconscious. They were immediately rushed to the Kandy National Hospital by ambulance.
-
-Doctors have decided that the students are unconscious due to food, and police have begun investigations to find out the shops allegedly bought.
-
-◼️
-
-[Data](articles/edef0e15.json)
-
-[Extended Data](ext_articles/edef0e15.ext.json)
-
----
-
-### Bagram air base in Afghanistan requests Trump again
-
-*2025-09-21 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214827) · `si`
-
-The US President Donald Trump has warned the Afghanistan that Afghanistan would have to face the loss of the Bagram Air camp to return to the US to America.
-
-The Taliban has been acquired by the Taliban 2021 after the arrival of the soldiers in Afghanistan.
-
-Trump added that the Afghan party is being held in this regard.
-
-◼️
-
-[Data](articles/df7996d0.json)
-
-[Extended Data](ext_articles/df7996d0.ext.json)
 
 ---

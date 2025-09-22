@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 05:20:31**
+As of **2025-09-22 05:59:33**
 
 ## Newspaper Stats
 
-*Scraped **77,308** Articles*
+*Scraped **77,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,671
+economynextcom | 4,672
 dailymirrorlk | 4,733
-islandlk | 4,752
-dailyftlk | 5,489
+islandlk | 4,761
+dailyftlk | 5,496
 adalk | 7,512
 adaderanalk | 9,994
 tamilmirrorlk | 11,625
@@ -26,11 +26,141 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,308 (100.0%) of 77,308 articles have been extended.
+77,308 (100.0%) of 77,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Ranil calls for united Opposition against ‘constitutional dictatorship’ at UNP’s 79th anniversary
+
+*2025-09-22 05:24:09* · [`dailyftlk`](https://www.ft.lk/news/Ranil-calls-for-united-Opposition-against-constitutional-dictatorship-at-UNP-s-79th-anniversary/56-782010) · `en`
+
+Urges to organise 1,000 joint Opposition rallies, satyagrahas and protests countrywide
+
+Calls his arrest politically motivated; expresses gratitude to political leaders who stood by him
+
+Defends his economic record, stressing he left office with stronger fundamentals
+
+Opposition and SJB Leader Sajith Premadasa congratulates UNP, its historic role in shaping modern SL
+
+SLPP General Secretary Sagara Kariyawasam admits both camps erred by branding each other rogues to gain power
+
+NDF MP Chamara Sampath Dassanayake calls for immediate UNP-SJB unity before reaching out to others
+
+Former President and United National Party (UNP) Leader Ranil Wickremesinghe, making his first public appearance since his arrest and remand, on Saturday urged Opposition parties to form a united front to resist what he described as a looming “constitutional dictatorship.”
+
+He made the appeal at the UNP’s 79th anniversary convention, calling the gathering the beginning of a broad democratic campaign.
+
+...
+
+[Data](articles/0a5967a2.json)
+
+---
+
+### India-Sri Lanka Foundation approves new projects to boost economic ties
+
+*2025-09-22 05:20:39* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-Foundation-approves-new-projects-to-boost-economic-ties/56-782009) · `en`
+
+Indian High Commissioner Santosh Jha (centre, right) with Sri Lanka High Commissioner to India Mahishini Colonne (centre, left) flanked by India-Sri Lanka Foundation Board members
+
+Projects cover range of sectors including tourism, agriculture, fisheries, education, healthcare
+
+The high-level India-Sri Lanka Foundation (ISLF) has approved several projects to boost cultural and economic ties between the two countries.
+
+The 40th meeting of the Board of Directors of the ISLF was held in Colombo on Friday (19). The session was Co-Chaired by Indian High Commissioner Santosh Jha and Sri Lanka High Commissioner to India Mahishini Colonne.
+
+...
+
+[Data](articles/65c0af89.json)
+
+---
+
+### Public Rights Movement raises alarm over Litro tender changes, calls for probe
+
+*2025-09-22 05:19:54* · [`dailyftlk`](https://www.ft.lk/news/Public-Rights-Movement-raises-alarm-over-Litro-tender-changes-calls-for-probe/56-782008) · `en`
+
+The National Movement for the Protection of Public Rights has voiced strong concern over recent changes made to Litro Gas Lanka’s tender process for importing liquefied petroleum gas (LPG), warning that the move could undermine the profitability of the State-owned enterprise (SOE) and compromise national energy security.
+
+In a letter addressed to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) Director-General, Movement Convener Charaka Thilakaratne alleged that a key clause in previous tender documents had been removed without proper authorisation. The clause had prohibited Litro from using storage facilities owned by competing suppliers to store imported gas reserves, a safeguard long considered essential to prevent market manipulation in the critical gas sector.
+
+...
+
+[Data](articles/3df9e6ae.json)
+
+---
+
+### Moose Clothing opens first-ever store at One Galle Face Mall
+
+*2025-09-22 05:18:45* · [`dailyftlk`](https://www.ft.lk/business/Moose-Clothing-opens-first-ever-store-at-One-Galle-Face-Mall/34-782007) · `en`
+
+Moose Clothing Company has opened its first-ever retail store at the iconic One Galle Face Mall in Colombo.
+
+The opening welcomed the entire Moose team, board of directors, and well-wishers to celebrate this significant milestone. Designed with care and intention, the store represents more than a retail space—it’s a full brand experience brought to life.
+
+Customers can now explore the complete Moose collection under one roof, including men’s, women’s, and unisex clothing. From timeless staples to trend-driven styles, the collections reflect Moose’s focus on affordable premium essentials—everyday fashion inspired by global trends and tailored for local lifestyles.
+
+...
+
+[Data](articles/02331e12.json)
+
+---
+
+### Siddhalepa Golden Night 2025 – Honouring legacy, rewarding excellence
+
+*2025-09-22 05:06:59* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-Golden-Night-2025-Honouring-legacy-rewarding-excellence/34-782006) · `en`
+
+From heartfelt tributes to dazzling performances,  evening brings together achievements, togetherness, and the true spirit of Siddhalepa
+
+The Siddhalepa family gathered in grand style at the Monarch Imperial, Sri Jayawardenepura Kotte, for the Siddhalepa Golden Night – team get-together 2025. Hosted by the popular actor and presenter Vishwa Lanka, with music by the renowned band Freeze and performances by Kanchana Anuradhi and Lahiru Perera, the evening was filled with joy, glamour, and togetherness.
+
+The program began with a heartfelt tribute to the late Chairman, followed by an inspiring address from the present Chairman, who commended the tireless dedication and commitment of the Siddhalepa team in carrying the brand’s proud name to every corner of the country for over 90 years. The highlight of the night was the presentation of awards that recognised the company’s finest performers, whose service, responsibility, and skill have contributed immensely to Siddhalepa’s continued growth.
+
+...
+
+[Data](articles/7b10254a.json)
+
+---
+
+### Rockland commemorates 101 years with Chairman’s Awards ceremony
+
+*2025-09-22 05:03:52* · [`dailyftlk`](https://www.ft.lk/business/Rockland-commemorates-101-years-with-Chairman-s-Awards-ceremony/34-782005) · `en`
+
+Winners across more than 20 categories throughout the Rockland Group recognised for their dedication and service
+
+Carl de Silva Wijeyeratne Challenge Trophy winner Hotel Partnerships Head Dilan Fernando
+
+Leadership Category winner – Liquid Island GM and Brand Communications and PR Group Head Shalindri Malawana (right)
+
+General Manager Category winners – General Manager of Operations Eranda Attanayake (left) and Group Sales and Commercial Strategy General Manager Chathura Ganegoda
+
+Best Sales Channel Leader award presented to National Sales Head Chandana Wijesinghe (right)
+
+Rockland Group recently celebrated its 101st anniversary with the third annual Chairman’s Awards.
+
+The milestone event recognised and celebrated the achievements of exceptional individuals who have contributed to the company’s continued success while upholding its heritage of innovation, quality, and resilience.
+
+...
+
+[Data](articles/90950b2e.json)
+
+---
+
+### Vidullanka’s Matara solar power plant adds another 3 MW of clean energy to national grid
+
+*2025-09-22 04:52:23* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-Matara-solar-power-plant-adds-another-3-MW-of-clean-energy-to-national-grid/34-782004) · `en`
+
+Vidullanka PLC announced the commissioning of the 3 MW solar plant, constructed by its subsidiary Vidul Matara Solar Power Ltd. on Friday, 19 September. The new plant holds an installed capacity of 3 MW with the ability to export approximately 5.5 GWh of clean energy annually to the national grid.
+
+This milestone brings Vidullanka’s total portfolio to 24 operational power plants with a combined installed capacity of 66 MW, further contributing to the achievement of the nation’s renewable energy targets.
+
+The completion of this plant marks the first project concluded as per the 9MW awarded to the group through the CEB’s 70MW tender. This brings Vidullanka’s total solar plants commissioned for the year to a total of 3 with a cumulative capacity of 15MW, all commissioned within the span of three months. In addition, the group has a fourth solar project currently under development.
+
+...
+
+[Data](articles/7388cb97.json)
+
+---
 
 ### Senaka Alawattegama appointed Director/CEO of Kelani Valley Plantations
 
@@ -291,6 +421,24 @@ In reply, India won by 172 runs and lost 4 wickets in 18.5 overs with Abhishek S
 ---
 
 ### 2025-09-21 (Sunday)
+
+### Sri Lanka president to visit US, address UN General Assembly
+
+*2025-09-21 23:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-us-address-un-general-assembly-241407/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president Anura Dissanayake is scheduled to leave for the United States on Monday, where he will attend the 80th Session of the United Nations General Assembly, his media division said.
+
+Dissanayake will address UN General Assembly on Wednesday (24) at 3.15 pm US time, PMD said.
+
+“President Anura Kumara Dissanayake is also due to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.”
+
+Minister of Foreign Affairs Vijitha Herath, will accompany Dissanayake on the visit. (Colombo/Sep21/2025)
+
+◼️
+
+[Data](articles/d209a599.json)
+
+---
 
 ### Power supply is an essential services
 
@@ -700,6 +848,38 @@ The inspection should be carried out at a police station or any easier location 
 
 ---
 
+### Economist warns 5% growth insufficient, calls for ambitious reforms
+
+*2025-09-21 18:10:00* · [`islandlk`](http://island.lk/economist-warns-5-growth-insufficient-calls-for-ambitious-reforms/) · `en`
+
+Despite a recent uptick in economic indicators, a senior economist has cautioned that Sri Lanka’s current growth trajectory is inadequate for a full recovery, calling for a decisive push towards 8-10% expansion in the coming years.
+
+The warning from University of Peradeniya’s Wasantha Athukorala follows data showing the economy grew by 4.9% in the second quarter of 2025, an improvement from the 4.1% growth recorded a year earlier.
+
+Prof. Athukorala acknowledged a recent vote of confidence from the global market, referencing S&P Global Ratings’ upgrade of Sri Lanka’s foreign currency sovereign credit rating. However, he stressed that the ‘CCC+’ rating still signifies high risk and does not qualify the country for easy credit.
+
+“This upgrade reflects a positive start for stability and growth,” he stated, noting it should boost investor confidence and improve access to global capital. “But the current 5% economic growth is not sufficient.”
+
+...
+
+[Data](articles/78b3c9fa.json)
+
+---
+
+### Water, war and renewal: The Iranamadu Reservoir’s new dawn with ADB
+
+*2025-09-21 18:09:00* · [`islandlk`](http://island.lk/water-war-and-renewal-the-iranamadu-reservoirs-new-dawn-with-adb/) · `en`
+
+For generations, the water level of the Iranamadu Reservoir has been the true measure of northern Sri Lanka’s fortune. This ancient tank, a cornerstone of life in Kilinochchi, tells a story of heritage, conflict, and now, an extraordinary rebirth facilitated by the Asian Development Bank (ADB).
+
+Once a casualty of a decades-long civil war, Iranamadu is today a powerful symbol of post-conflict renaissance, fueled by strategic investment and a revolutionary community-led model that is turning subsistence farmers into agri-business owners.
+
+...
+
+[Data](articles/5ab52bca.json)
+
+---
+
 ### New directive issued on testing drivers under the influence of narcotics
 
 *2025-09-21 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112740/new-directive-issued-on-testing-drivers-under-the-influence-of-narcotics) · `en`
@@ -717,6 +897,80 @@ Accordingly, if a police officer reasonably suspects that a driver is under the 
 [Data](articles/6cc85a7d.json)
 
 [Extended Data](ext_articles/6cc85a7d.ext.json)
+
+---
+
+### Sunbeam Technologies honoured at SLIM SMEDA & Asia Miracle Awards
+
+*2025-09-21 17:54:00* · [`islandlk`](http://island.lk/sunbeam-technologies-honoured-at-slim-smeda-asia-miracle-awards/) · `en`
+
+Sunbeam Technologies (Pvt) Ltd. was recognised with the Bronze Award in the Other category at the SLIM SME Development Awards (SMEDA) 2024, organised by the Sri Lanka Institute of Marketing (SLIM). Adding to this success, Sunbeam was also named Best Solar Solutions Company of the Year at the Asia Miracle Awards 2025, held at the Taj Samudra Hotel, Colombo.
+
+Sunbeam Technologies has earned a strong reputation as one of Sri Lanka’s fastest-growing renewable energy companies, delivering reliable, cost-effective solar solutions. The company manufactures high-performance solar inverters and modules, while also partnering with world-renowned brands such as Aiko, REC, ABB, Fronius, Solis, and Huawei, All products are backed by manufacturer warranties of 5–30 years.
+
+Approved by the Sri Lanka Sustainable Energy Authority (SLSEA), CEB, and LECO, Sunbeam has successfully completed 700+ projects island-wide, with a total installed capacity exceeding 15 MW.
+
+...
+
+[Data](articles/dda924b9.json)
+
+---
+
+### DIMO and Mahindra empower tractor owners for Maha Season 2025
+
+*2025-09-21 17:53:00* · [`islandlk`](http://island.lk/dimo-and-mahindra-empower-tractor-owners-for-maha-season-2025/) · `en`
+
+Supporting Sri Lanka’s farming communities in preparing for the Maha season, DIMO Agribusinesses successfully concluded its tractor service initiatives, the DIMO Care Camp and the Mahindra Tractor Service Camp series, drawing strong participation from tractor owners across the island.
+
+The DIMO Care Camp welcomed tractors of any brand or model, while the Mahindra Service Camp series was dedicated to Mahindra tractor owners. Both initiatives highlighted the importance of proper maintenance in extending the life span and efficiency of tractors, ensuring tractor owners can maximize productivity during the critical Maha cultivation season.
+
+...
+
+[Data](articles/2a6d01f3.json)
+
+---
+
+### ComBank Home Loans Fiesta returns with benefits for aspiring homeowners
+
+*2025-09-21 17:52:00* · [`islandlk`](http://island.lk/combank-home-loans-fiesta-returns-with-benefits-for-aspiring-homeowners/) · `en`
+
+The Commercial Bank of Ceylon has relaunched its popular Home Loans Fiesta for 2025, offering attractive interest rates, substantial cost savings, and a range of tailor-made repayment plans to help customers build, buy, or renovate their dream homes. Running until 30th September 2025, the campaign is designed to make home ownership more affordable and accessible for a wide range of borrowers.
+
+Under the promotion, all customers will enjoy the Platinum Rate on interest, with documentation charges reduced by 50%. Borrowers taking loans for construction purposes can also benefit from discounts of up to 40% on building materials, bathroom fittings, hardware items and more, from selected suppliers.
+
+...
+
+[Data](articles/27a68304.json)
+
+---
+
+### Sanasa Life Insurance launches biggest consumer promotion in its history
+
+*2025-09-21 17:52:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-biggest-consumer-promotion-in-its-history/) · `en`
+
+SANASA Life Insurance has accomplished yet another milestone along with the launch of ‘Heenalanthaya,’ the largest consumer promotion in the organization’s history. This promotion is designed to provide SANASA Life Insurance policyholders and those who wish to participate in the grand draw, with numerous opportunities to win prizes.
+
+The promotion also aligns with SANASA’s long-standing ethic of outreach, which is focused on providing accessible and affordable insurance solutions to underserved, low-income communities. This promotion is open to all clients around the country who have embarked on a life insurance cover with SANASA.
+
+Eligibility requires clients to secure a new life insurance policy and complete three consecutive premium payments. A policyholder who has consistently paid premiums over a longer term in addition to being eligible, will also increase their chances of winning.
+
+...
+
+[Data](articles/acde921d.json)
+
+---
+
+### Seylan Bank and National Chamber of Exporters renew strategic partnership for the 4th consecutive year
+
+*2025-09-21 17:50:00* · [`islandlk`](http://island.lk/seylan-bank-and-national-chamber-of-exporters-renew-strategic-partnership-for-the-4th-consecutive-year/) · `en`
+
+Seylan Bank PLC has renewed its strategic partnership with the National Chamber of Exporters of Sri Lanka (NCE) for the fourth consecutive year. The agreement was signed at Seylan Bank’s Head Office in Colombo, in the presence of senior representatives from both organizations.
+
+Through this continuing collaboration, Seylan Bank will extend tailored financial solutions to NCE member exporters, supporting businesses currently entering global markets as well as those aiming to expand their existing international reach. The partnership is designed to strengthen export activities, generate increased foreign exchange earnings, and contribute to Sri Lanka’s overall economic resilience.
+
+...
+
+[Data](articles/dda0c4dc.json)
 
 ---
 
@@ -1811,327 +2065,5 @@ Although 17 days have passed since the strike commenced on September 4, the CEB 
 [Data](articles/389beca8.json)
 
 [Extended Data](ext_articles/389beca8.ext.json)
-
----
-
-### 43 boys rape in cyber
-
-*2025-09-21 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/43-சிறுவர்கள்-சைபரில்-வன்புணர்வு/175-364982) · `ta`
-
-Police Media Spokesperson Assistant Superintendent of Police, Udaya Kumara Woodler, said that 43 children under the age of 18 were raped in Cyber ​​in 2024/2025.
-
-This is a 50% increase over the past year, the media spokesman said.
-
-He said that in 2024, 15 children under the age of 18 and 28 boys under the age of 18 were raped through cyber.
-
-In 2024, 282 boys were arrested for drug offenses and 206 boys were arrested in 2025. The media spokesman said 375 women were raped by 2024 and 114 suspects were arrested in connection with the incident.. In 2025, 118 women have been sexually abused.
-
-◼️
-
-[Data](articles/378f4ea1.json)
-
-[Extended Data](ext_articles/378f4ea1.ext.json)
-
----
-
-### Massive accident on Batticaloa -Kalmunai main road; Trio injured
-
-*2025-09-21 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/225656) · `ta`
-
-Kattankudy police said that three persons have been admitted to the Batticaloa Teaching Hospital after being injured in a massive accident in Kattankudi area this morning on the Kalmunai main road in Batticaloa.
-
-A lorry from Colombo on Sunday (21) from Kalmunai was parked on the Kattankudy main road while a luxury bus from Colombo to Akkaraipattu collided with a lorry.
-
-A three -wheeler collided with a bus on the main road following the accident.. At the same time, the driver of the bus and the driver of the bus was injured and admitted to the Batticaloa Teaching Hospital.
-
-Kattankudy police are conducting further investigations.. And the luxury bus auto has been heavily damaged.
-
-◼️
-
-[Data](articles/43b0c5c8.json)
-
-[Extended Data](ext_articles/43b0c5c8.ext.json)
-
----
-
-### British PM set to announce recognition of Palestinian state today
-
-*2025-09-21 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112723/british-pm-set-to-announce-recognition-of-palestinian-state-today) · `en`
-
-Prime Minister Sir Keir Starmer is expected to announce the UK’s recognition of a Palestinian state in a statement on Sunday afternoon.
-
-The move comes after the prime minister said in July the UK would shift its position in September unless Israel met conditions including agreeing to a ceasefire in Gaza and committing to a long-term sustainable peace deal that delivers a two-state solution.
-
-It represents a major change in British foreign policy after successive governments said recognition should come as part of a peace process and at a time of maximum impact.
-
-The move has drawn fierce criticism from the Israeli government, hostage families and some Conservatives.
-
-Israeli Prime Minister Benjamin Netanyahu previously said such a move “rewards terror”.
-
-However, UK ministers argue there was a moral responsibility to act to keep the hope of a long-term peace deal alive.
-
-...
-
-[Data](articles/844a11ba.json)
-
-[Extended Data](ext_articles/844a11ba.ext.json)
-
----
-
-### US decides to increase the H1-B visa to $ 1 million
-
-*2025-09-21 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214820) · `si`
-
-US President Donald Trump has signed an executive order for foreign skilled workers for foreign skilled workers under the 'H-Wan-B (H1-B) category to foreign skilled workers to US $ 100,000.
-
-It is reported that it is 60 times the previous fee.
-
-The annual Indian skilled workers have the highest number of times under the Visa group, which is about 70 percent of the total number.
-
-With the US government decision to increase the visa fees, some American companies have been informed to stay in the United States, to stay in the United States, and resumes.
-
-The Indian Foreign Ministry (Indian Foreign Ministry) has expected to revise the decision of this decision that will create a humanitarian problem in such a situation.
-
-The Government of India says that the latest decision of the US government has humanitarian consequences.
-
-However, the American White House further stated that the new tariff revision is only valid for people who apply the new visa.
-
-◼️
-
-[Data](articles/4e9f843f.json)
-
-[Extended Data](ext_articles/4e9f843f.ext.json)
-
----
-
-### Arrested in a retired soldier for raping 3 students
-
-*2025-09-21 11:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-மாணவர்களை-வன்புணர்ந்த-ஓய்வுபெற்ற-இராணுவ-வீரர்-கைது/175-364980) · `ta`
-
-The Anuradhapura Headquarters Police said that a retired soldier of the school's executive committee has been arrested for allegedly sexually abusing three children aged 10, 12 and 13, aged 10, 12 and 13.
-
-The child was missing when his mother came to take a deaf student at the school, and then he ran from the side of the well in the school.. The mother has asked the son. Since then, the mother has filed a complaint with the mother, police said.
-
-The police said that when they take confessions from these children with speech and deafening, the police said that they had recorded their confessions with the help of a sign translator and the man who served as the treasurer of the school's executive committee had been sexually abused on several occasions.
-
-The suspect further states that the suspect will come to school often, return after dark, and in addition, he will come to the shelters, close the doors and windows and turn off the lights.
-
-◼️
-
-[Data](articles/94a4411d.json)
-
-[Extended Data](ext_articles/94a4411d.ext.json)
-
----
-
-### Motorcycle accident in Polgahawela: One killed
-
-*2025-09-21 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225647) · `ta`
-
-The motorcycle traveling from Ungalmodara to Naramala near the Nainadeniya junction on the Yangalodara - Naramala road belonging to the Polgahawela police division crashed into another motorcycle.
-
-Two motorcycle drivers were injured in the accident and admitted to Kurunegala Hospital for further treatment. In the meantime, one person died without treatment.
-
-Investigations have revealed that the deceased was a 16 -year -old schoolgirl from Yadigaloluwa.
-
-The corpse is placed in the Kurunegala Hospital. Polgahawela police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/2432542d.json)
-
-[Extended Data](ext_articles/2432542d.ext.json)
-
----
-
-### 47-year-old Karandeniya PS Chairman dies due to sudden illness
-
-*2025-09-21 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112722/47-year-old-karandeniya-ps-chairman-dies-due-to-sudden-illness) · `en`
-
-Chairman of Karandeniya Pradeshiya Sabha Mahil Munasinghe, has passed away due to a sudden illness.
-
-It has been reported that he became suddenly ill this morning (21) while engaging in physical fitness activities and was admitted to the Karandeniya Hospital, where he subsequently passed away.
-
-Mahil Munasinghe contested representing the National People’s Power (NPP) in the last local government elections and was elected as the Chairman of the Karandeniya Pradeshiya Sabha.
-
-At the time of his death, he was 47 years old. It is suspected that the cause of death was a heart attack.
-
-A post-mortem examination is scheduled to be conducted at the Elpitiya Base Hospital.
-
-◼️
-
-[Data](articles/0ac24e73.json)
-
-[Extended Data](ext_articles/0ac24e73.ext.json)
-
----
-
-### Oil Kumar
-
-*2025-09-21 11:23:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தின-மும்-இன்ஜின்-ஆயில்-குடித்து-உயிர்-வாழும்-ஆயில்-குமார்/175-364978) · `ta`
-
-Oil Kumar Na Power Day and Seven Litter In Jin Oil. After drinking oil for the body, he has been taken to Uchi after saying that he has not been able to do so.
-
-A video of Oil Kumar on social networks. In it, Iyappa Swami Buck Dhar speaks to a variety of people who use the Jin Oil, which is beneficial for a variety. The video was shared by the Lat Chuck Ganakku Vaikku Ach OK.
-
-The name of the 45 -year -old man who is included in the video. Mysuru, the state of Karna Drama. Oil Kumar is crying over the last 30 men and overnight.. In the morning and lunch, he drinks three times. However, the body has not yet been in the body of the body.
-
-He told the media that he had not been any harm to the Sabari Mountain Iyab Pan Temple annually.
-
-...
-
-[Data](articles/c3abfcec.json)
-
-[Extended Data](ext_articles/c3abfcec.ext.json)
-
----
-
-### About 91 people killed in Israeli attack on Gaza
-
-*2025-09-21 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/225645) · `ta`
-
-International media reports that Israeli forces killed 91 Palestinians in Gaza yesterday.
-
-The country's officials said that this included the family members of the famous doctor and four others in the lorry fleeing from the city of North Gaza.
-
-The killings on Saturday (yesterday) continued to seize the city of Gaza and push people into the concentration zones in the south.
-
-It is reported that Israeli forces have bombed residential houses, schools and lodges, and a lorry carrying people who tried to flee from Gaza on the orders of the military.
-
-At the same time, the family of a director of the largest hospital in Gaza was killed in the early hours of Saturday morning.
-
-Hamas has stated that it is "a bloody terrorist news driven to force doctors to leave the city."
-
-◼️
-
-[Data](articles/121b8e6b.json)
-
-[Extended Data](ext_articles/121b8e6b.ext.json)
-
----
-
-### Subramaniam Chettiar, the founder of the Weerakesari magazine today
-
-*2025-09-21 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/225649) · `ta`
-
-Mr. Sri Lanka, Sri Lanka, who created the National Tamil newspaper of the Veerakesari, is a celebration of a century in the Sri Lankan newspaper industry.. Bee. Subramaniam Chettiar's 124th birthday is today (21).
-
-Subramaniam Chettiar was born on the same day in 1901 as the son of Periyannan Chettiar and Visalakshi couple in Anakkapatti, India, India.
-
-He wrote novels and articles in various magazines. He came to Sri Lanka in an eagerness to explore the lives of people abroad.
-
-Here he learned that the Tamils ​​were unity of plantation workers. On August 6, 1930, he started the magazine Weerakesari.
-
-As its primary editor, acted for 20 years. It gave Tamils ​​politics and social awareness. After Sri Lanka's independence, he sold the newspaper company and went to India.
-
-There he started business and lending companies in the name of SVSP. It was expanded in countries where Tamils, including Singapore and Malaysia, were expanded and managed to buy rubber and coffee plantations.
-
-...
-
-[Data](articles/fe77575e.json)
-
-[Extended Data](ext_articles/fe77575e.ext.json)
-
----
-
-### The body of the woman's body is recovered
-
-*2025-09-21 11:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொங்கிய-நிலையில்-பெண்ணின்-சடலம்-மீட்பு/76-364976) · `ta`
-
-The body of a 62 -year -old woman has been recovered after being hanged in a tree in the garden on Sunday (21) in the Kuilwatta area of ​​the Vattawala police division.
-
-The deceased woman was identified as Kannan Manirani, said Santana Kamage, Chief of Police, Sandana Kamage.
-
-The body was found after plantation workers reported that the woman was found hanging in a tree with her sari.
-
-The Vattawala police and the Hatton Police Division have launched an investigation to determine whether the incident was suicide or murder.
-
-◼️
-
-[Data](articles/93fc4b69.json)
-
-[Extended Data](ext_articles/93fc4b69.ext.json)
-
----
-
-### Death of the Chairman of the Karandeniya Pradeshiya Sabha Pradeshiya Sabha Mahele Munasinghe
-
-*2025-09-21 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214819) · `si`
-
-Pradeshiya Sabha Chairman of the Karandeniya Pradeshiya Sabha Mahele Munasinghe has died due to an emergency condition.
-
-It is reported that he was suddenly sick and was admitted to the Karandeniya Boralanda hospital today (21) morning.
-
-Maheel Munasinghe, who represented the National Institute of Tamil Bureau and the UNP, was elected to the post of Chairman of the Karandeniya Pradeshiya Sabha.
-
-When he died, he was 47 years old and his death had taken place due to a good man.
-
-The post mortem will be conducted at the Elpitiya Base Hospital on the body.
-
-◼️
-
-[Data](articles/7b936b10.json)
-
-[Extended Data](ext_articles/7b936b10.ext.json)
-
----
-
-### PT Permits Mandatory: Bimal Action
-
-*2025-09-21 11:10:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PT-அனுமதிப்பத்திரம்-கட்டாயம்-பிமல்-அதிரடி/175-364975) · `ta`
-
-Transport Minister Bimal Ratnayake announced on Saturday (20) that all public transport drivers will be made compulsory to obtain a Public Transport (PT) license.. He also announced that it should be obtained by December 31st.
-
-Speaking at a meeting in Ampara, the Minister said that all the necessary regulations have already been finalized.
-
-He added that although most buses currently operated are not fitted with seat belts, seat belts are mandatory.. Although bus owners can replace their vehicles, he made it clear that the seat belts are not allowed to be added.
-
-“The Public Transport Department must handle serious and responsible persons. Those who do not take the industry are not acceptable to carry passengers, ”the minister added.
-
-◼️
-
-[Data](articles/fe928d10.json)
-
-[Extended Data](ext_articles/fe928d10.ext.json)
-
----
-
-### The Sri Lankan guest took the life of Robot Shankar
-
-*2025-09-21 11:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இலங்கை-விருந்தே-ரோபோ-சங்கரின்-உயிரை-பறித்தது/54-364972) · `ta`
-
-Actor Robot Shankar died a few days ago due to ill health. He has already survived the brink of death because of his drinking alcohol and has now died of death.
-
-In this case, Shankar's close friend, Shankar, in an interview with a private YouTube channel, has caused Shah.
-
-Actor Robot Shankar suffered from health a few years ago. With the help of friends, doctors and families, he recovered from the disease as he continued to drink alcohol. He stopped the drunkenness and paid attention to his carrier. He continued to talk about the harm caused by alcohol; He also acted in related commercials.
-
-Her health suddenly dumped a few days ago. He fell into a blood vomit when he was in the shoot of a film; Was admitted to a private hospital in Perungudi. There he was given serious treatment. They fought for doctors to somehow keep him survived. But he died in the hospital a few days ago without treatment.
-
-...
-
-[Data](articles/5d5419dd.json)
-
-[Extended Data](ext_articles/5d5419dd.ext.json)
-
----
-
-### Husband in a half kolam with mother: Wife's incident
-
-*2025-09-21 10:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/தாயுடன்-அரைகுறை-கோலத்தில்-கணவன்-மனைவி-செய்த-சம்பவம்/54-364971) · `ta`
-
-In Indonesia, a movie is currently well received among fans. The film is about the improper relationship between mother-in-law. Since this is based on the real incident, the film has become a passing in Indonesia.
-
-Norma Rizma from Indonesia. He was married to a young man named Rosie in 2021. After marriage, Norma lived with her husband Rihanna in Serang City, Java Island.
-
-Everything was going right after the wedding. Norma came to work and came to help family expenses. Husband Rosie was working at the nearest supermarket. Mother Rihanna has also helped both of them at home.
-
-Six months later, a shocking incident took place. This means that when Norma goes to work, her husband Rosie will have a night shift. Rosie and Rosie's mother and Rose's mother -in -law, Rosh, are alone at home.
-
-...
-
-[Data](articles/052d8eb2.json)
-
-[Extended Data](ext_articles/052d8eb2.ext.json)
 
 ---

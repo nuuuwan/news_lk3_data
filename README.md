@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 21:38:55**
+As of **2025-09-22 22:11:11**
 
 ## Newspaper Stats
 
-*Scraped **77,498** Articles*
+*Scraped **77,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,528
-adaderanalk | 10,033
-tamilmirrorlk | 11,657
+adaderanalk | 10,034
+tamilmirrorlk | 11,658
 virakesarilk | 12,613
-adaderanasinhalalk | 13,539
+adaderanasinhalalk | 13,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,498 (100.0%) of 77,498 articles have been extended.
+77,500 (100.0%) of 77,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### දක්ෂිණ අධිවේගයේ අනතුරක් - කොළඹ දෙසට මංතීරුවක් අවහිරයි
+
+*2025-09-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214886) · `si`
+
+දක්ෂිණ අධිවේගයේ දොඩංගොඩ සහ ගැලනිගම අතර අද (22) රාත්‍රියේ සිදුවු අනතුරක් හේතුවෙන් පුද්ගලයෙක් තුවාල ලබා තිබේ.
+
+ගාල්ල සිට කොළඹ දක්වා පොත් ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් මාර්ගයේ පෙරළී ගොස් අනතුර සිදුව ඇත.
+
+අනතුර හේතුවෙන් මේ වනවිට කොළඹ දෙසට එක් මංතීරුවක් අවහිර වී ඇතැයි පොලීසිය පවසයි.
+
+මේ හේතුවෙන් දක්ෂිණ අධිවේගයේ දොඩංගොඩ සහ ගැලනිගම අතර රථවාහන තදබදයක් ඇතිව තිබෙන බව ද වාර්තා වේ.
+
+◼️
+
+[Data](articles/159221c4.json)
+
+---
+
+### කදිරාගේ පහරදීමෙන් ඇත්ගොව්වා රෝහලට
+
+*2025-09-22 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214885) · `si`
+
+මහනුවර දළදා මාළිගාවේ ඇත් පන්තියට අයත් 'කදිරා' නැමති අලියා ඇත් ගොව්වාට පහරදීමක් සිදුකර ඇතැයි වාර්තා වේ.
+
+අලියාගේ පහරදීමෙන් තුවාල ලැබූ ඇත්ගොව්වා මේ වනවිට මාවනැල්ල මුලික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+
+ඔහුගේ තත්ත්වය පිළිබඳ මෙතෙක් නිශ්චිත ප්‍රකාශයක් සිදුකළ නොහැකි වන අතර, අභ්‍යන්තර ලේ වහනය වීම හේතුවෙන් මේ වනවිට සැත්කමකට භාජනය කිරීමට නියමිත බව රෝහල් ප්‍රකාශකයෙක් පැවසීය.
+
+ආහාර ලබාදීමට යෑමේ දී අලියා එක්වරම පහරදී ඇති අතර තුවාල ලබා ඇත්තේ, අවුරුදු 22ක් වූ ධනුෂ්ක රුවන් කුමාර නැමති මාවනැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/444496f4.json)
+
+---
+
+### Resolution on the 24th
+
+*2025-09-22 21:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-ஆம்-திகதி-தீர்மானம்/175-365079) · `ta`
+
+General Secretary of the Ceylon Electricity Board Freedom Employees Union Prabhat Priyantha today said that all the trade unions of the Ceylon Electricity Board (CEB) have decided to continue the upcoming struggle until next Wednesday.
+
+He said that if his demands were not received, the announcement of the trade union action would be issued on the 24th of this month.
+
+He added that the decision on whether the Identification will be a day or a continuation of the decision will be announced that day.. Remble
+
+◼️
+
+[Data](articles/b742e0bb.json)
+
+[Extended Data](ext_articles/b742e0bb.ext.json)
+
+---
+
+### Report of bus handers handed over the bus accident
+
+*2025-09-22 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214884) · `si`
+
+Minister of Minimal Ratmanayake has handed over the full report on the terrible accident caused by 16 persons in the Ella area.
+
+The report was officially handed over to the Minister today at the Ministry of Highways, Ports and Civil Aviation.
+
+The report states that the road sign boards mounted on the road and other warnings on the road is not sufficient to understand the danger nature of the road.
+
+The report is also suspicious of the identity of the bus.
+
+According to the basic observation of the crash, the report states that the tyrannical of the drums of the side of the roads and after the next side of the drums had been changed.
+
+Meanwhile, the birator system of the back was a greased crystal.
+
+According to the report of the relevant committee, it has been revealed that the bus was not properly maintained and has been identified as the brake system.
+
+It has also been revealed that the bus driver had acted properly regarding the road in the area.
+
+...
+
+[Data](articles/1ffc6cf7.json)
+
+[Extended Data](ext_articles/1ffc6cf7.ext.json)
+
+---
 
 ### Health Minister promises
 
@@ -91,6 +173,24 @@ Minister Ramalingam Chandrasekhar pointed out that the coordination disorders be
 [Data](articles/717270f8.json)
 
 [Extended Data](ext_articles/717270f8.ext.json)
+
+---
+
+### Police issues clarification regarding letter circulating on social media
+
+*2025-09-22 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112789/police-issues-clarification-regarding-letter-circulating-on-social-media) · `en`
+
+Sri Lanka Police says a letter currently circulating on social media, claiming to have been issued under the signature of the Inspector General of Police (IGP), is completely false and fabricated.
+
+Issuing a statement, the Police Media Division said the document falsely alleges that the IGP has instructed the “Bureau for the Investigation of Abuse of Children & Women” to apprehend citizens and other residents engaged in activities relating to the viewing, possession, dissemination, distribution, or production of material depicting minors in sexually explicit conduct associated with internet protocol usage.
+
+Sri Lanka Police said no such letter has ever been issued by the Inspector General of Police or by any authorized division of the Police Department.
+
+The statement said, the document is a deliberate act of misinformation and an attempt to mislead the public.
+
+...
+
+[Data](articles/9587a7b2.json)
 
 ---
 
@@ -526,7 +626,7 @@ President Dissanayake further noted that the government’s objective is not to 
 
 President Dissanayake made these remarks while attending a progress review discussion on the ongoing electricity sector reforms, held today (22) at the Presidential Secretariat.
 
-◼️
+...
 
 [Data](articles/a90713d2.json)
 
@@ -1991,95 +2091,5 @@ The deposit insurance scheme is operated under the Deposit Insurance and Resolut
 [Data](articles/629bc198.json)
 
 [Extended Data](ext_articles/629bc198.ext.json)
-
----
-
-### Galle Technology Park, which is a white elephant at Rs. 120 billion
-
-*2025-09-22 11:45:58* · [`adalk`](https://www.ada.lk/technology/කෝටි-120ක-සුදු-අලියෙක්-වී-ඇති-ගාල්ල-තාක්ෂණික-උද්‍යානය/5-418643) · `si`
-
-A audit report issued by the National Audit Office, which has been paid to the Galle Institute and Technical Advice on the Galle Institute and Technical Advice for the Galle Institute and Technical Advice for a Foundation
-
-Techno PARK DVELOPMENT PRIVATE LIMITED A company to be closed by the government.
-
-According to the audit report, the project had acted in Akmeemana Walahanduwa Walahanduwa Watta, the land for 7.15 perches.  The main contractor of the project is Maga Engineering Pvt.
-
-Contract company owing to the Construction Company for the construction company is Rs. 2 million. (950,601,926).  Delaying the contract delay in claim in the contract agreements, delay in the delay of the contract, the delay of Rs.. (236,355,010) Tekno Park Developemt had to pay the contractor.
-
-...
-
-[Data](articles/7c1dc504.json)
-
-[Extended Data](ext_articles/7c1dc504.ext.json)
-
----
-
-### Ennada ...
-
-*2025-09-22 11:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னாடா-அணைய-மாட்டேங்குது/175-365050) · `ta`
-
-◼️
-
-[Data](articles/3bf7c72f.json)
-
-[Extended Data](ext_articles/3bf7c72f.ext.json)
-
----
-
-### Day to recall the case against Yoshitha
-
-*2025-09-22 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214858) · `si`
-
-The Colombo High Court has set the case to be summoned by the Attorney General on October 15.
-
-When the case was taken up, Yoshitha Rajapaksa and his grandmother, named Daisy Forrest, appeared in court.
-
-The Attorney General has accused the case with the Cash Brigation Act of Rs.
-
-◼️
-
-[Data](articles/bbda7974.json)
-
-[Extended Data](ext_articles/bbda7974.ext.json)
-
----
-
-### Sri Lanka president to visit Japan, meet with officials, expats
-
-*2025-09-22 11:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-japan-meet-with-officials-expats-241453/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president Anura Disanayaka will visit Japan from September 27-30, where he will meet its leaders and attend a business forum, the Ministry of Foreign Affairs said.
-
-Disanayaka will have an audience with the emperor of Japan and the Japanese Prime Minister “on a wide range of issues of mutual interest” according to the foreign ministry statement.
-
-He will also address a business forum attended by key Japanese businesses and investors in Tokyo “focused on emerging economic opportunities in Sri Lanka”.
-
-Disanayaka will attend “EXPO 2025 Osaka”, which aims to highlight Sri Lanka’s cultural heritage and economic potential before an international audience.
-
-He is scheduled to meet the Sri Lankan expatriate community residing in Japan.
-
-Disanayaka will be accompanied by Minister of Foreign Affairs Vijitha Herath and senior government officials, the ministry said. (Colombo/Sep22/2025)
-
-◼️
-
-[Data](articles/08eeb4b8.json)
-
-[Extended Data](ext_articles/08eeb4b8.ext.json)
-
----
-
-### Increasing road accidents in the country: shocking statistics!
-
-*2025-09-22 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/225722) · `ta`
-
-There is no such thing as places where there are no accidents in the world. But vehicle accidents in our country of Sri Lanka are causing great tragedy and tragedy. In that respect, the recent accident was located in the Ella. Based on statistics, road accidents have been reported to be the second main cause of the highest number of deaths in the country.
-
-Our country is currently suffering from major vehicle accidents and casualties. Currently it has emerged as a national crisis. As of June 30, 2025, about 85 lakhs 50 thousand 569 vehicles have been registered on the streets of the country with an area of ​​one million 10 thousand 350 square kilometers.. Of these, more than half, ie 49 lakh 94 thousand 596 vehicles are motorcycles. In addition, this includes about 11 lakhs 98 thousand three -wheelers. This large number of automobiles and accidents are interconnected.
-
-...
-
-[Data](articles/90f84d6a.json)
-
-[Extended Data](ext_articles/90f84d6a.ext.json)
 
 ---

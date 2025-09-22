@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 02:54:16**
+As of **2025-09-23 01:56:04**
 
 ## Newspaper Stats
 
-*Scraped **77,527** Articles*
+*Scraped **77,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 784
 economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
-dailyftlk | 5,509
+dailyftlk | 5,502
 adalk | 7,528
 adaderanalk | 10,039
 tamilmirrorlk | 11,659
@@ -26,131 +26,11 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,523 (100.0%) of 77,527 articles have been extended.
+77,520 (100.0%) of 77,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### People’s Bank partners Justice Ministry to drive countrywide court digitalisation
-
-*2025-09-23 02:19:54* · [`dailyftlk`](https://www.ft.lk/news/People-s-Bank-partners-Justice-Ministry-to-drive-countrywide-court-digitalisation/56-782065) · `en`
-
-People’s Bank yesterday announced a collaboration with the Justice Ministry and the Supreme Court of Sri Lanka to introduce digital payment solutions across the judicial system.
-
-The ceremonial launch took place at the Sri Lanka Judges’ Institute Auditorium, in the presence of Chief Justice Preethi Padman Surasena, Justice Minister Eranga Weeraratne, Chief Presidential Adviser on Digital Economy Dr. Hans Wijayasuriya, Attorney General Parinda Ranasinghe, PC, Judges of the Supreme Court/Members of Judicial Service Commission S. Thuraijara PC and Mahinda Samayawardena, Justice Secretary Ayesha Jinasena PC, People’s Bank Chairman Prof. Narada Fernando, CEO Clive Fonseka, Deputy General Manager – Payment and Cards Nilmini Premalal, and Bar Association of Sri Lanka President Rajeev Amarasuriya.
-
-...
-
-[Data](articles/b9938fc9.json)
-
----
-
-### Colombo High Court fixes Yoshitha Rajapaksa asset case for 15 Oct.
-
-*2025-09-23 02:17:34* · [`dailyftlk`](https://www.ft.lk/news/Colombo-High-Court-fixes-Yoshitha-Rajapaksa-asset-case-for-15-Oct/56-782064) · `en`
-
-The Colombo High Court yesterday directed that the case against Yoshitha Rajapaksa, the son of former President Mahinda Rajapaksa, and his grandmother Daisy Forrest be recalled on 15 October.
-
-Both appeared before Court when the matter was taken up. The Attorney General has filed indictments under the Prevention of Money Laundering Act, alleging that the two unlawfully amassed assets valued at about Rs. 73 million.
-
-◼️
-
-[Data](articles/90eb9ea2.json)
-
----
-
-### Police seize three lorries linked to major drug haul in Tangalle
-
-*2025-09-23 02:16:55* · [`dailyftlk`](https://www.ft.lk/news/Police-seize-three-lorries-linked-to-major-drug-haul-in-Tangalle/56-782063) · `en`
-
-Sri Lankan Police have uncovered three lorries linked to narcotics within two days in Tangalle, seizing more than 200 kilograms of drugs along with firearms.
-
-The investigation began on Sunday when officers discovered the bodies of two people inside a house under renovation in Seenimodara. A search of the premises turned up about 10 kilograms of crystal methamphetamine, known as Ice, together with a lorry and a motorcycle.
-
-A second lorry, found near a service station in Tangalle, contained the bulk of the narcotics haul. Police said it concealed more than 200 kilograms of methamphetamine and heroin, as well as five revolvers and a T-56 assault rifle.
-
-Yesterday, police located a third lorry in Tangalle suspected of transporting drugs. The vehicle is now being examined.
-
-One suspect has been arrested and efforts are under way to apprehend another. Investigations into the deaths and the narcotics network are continuing.
-
-◼️
-
-[Data](articles/403bec28.json)
-
-[Extended Data](ext_articles/403bec28.ext.json)
-
----
-
-### President to address UN General Assembly tomorrow
-
-*2025-09-23 02:16:23* · [`dailyftlk`](https://www.ft.lk/news/President-to-address-UN-General-Assembly-tomorrow/56-782062) · `en`
-
-Flies to Japan end Sept. for EXPO 2025 Osaka; to meet Japanese Emperor, address business forum
-
-President Anura Kumara Disanayake who left for the US last night will address the 80th session of the United Nations General Assembly (UNGA) tomorrow.
-
-He will address the General Assembly at 3:15 p.m. local time on Wednesday (24), the Presidential Media Division said.
-
-The Palestinian-Israel conflict is expected to dominate the UN sessions.
-
-Sri Lanka earlier this month affirmed its unwavering support for the inalienable right of the Palestinian people to statehood, in accordance with the purposes and principles of the Charter of the United Nations and the relevant UN resolutions.
-
-President Disanayake is also expected to hold bilateral discussions with the UN Secretary-General and several world leaders during the visit.
-
-In addition, he will meet with Sri Lankans residing in the US.
-
-...
-
-[Data](articles/97f16369.json)
-
----
-
-### 1,000 anglers join battle against invasive giant snakehead at Deduru Oya
-
-*2025-09-23 02:13:02* · [`dailyftlk`](https://www.ft.lk/news/1-000-anglers-join-battle-against-invasive-giant-snakehead-at-Deduru-Oya/56-782060) · `en`
-
-Around 1,000 anglers took part in a fishing competition at Deduru Oya, Wariyapola, on Saturday (20), targeting the invasive predatory giant snakehead (locally known as Deduru Naya). The event, aimed at curbing the spread of the species in fragile freshwater ecosystems and raising public awareness, comes as the Government announced a ban on the import, sale, and transportation of several invasive fish from Southeast Asia, including the redline snakehead, knifefish, alligator gar, and piranha
-
-◼️
-
-[Data](articles/1b277cfb.json)
-
----
-
-### Blossom Well signs BOI agreement for  $ 2.99 m boutique hotel establishment
-
-*2025-09-23 01:36:45* · [`dailyftlk`](https://www.ft.lk/business/Blossom-Well-signs-BOI-agreement-for-2-99-m-boutique-hotel-establishment/34-782052) · `en`
-
-Blossom Well Holdings Ltd., has signed an agreement with the Board of Investment (BOI) for $ 2.99 million to build a boutique hotel in Thissamaharama.
-
-This proposed investment is a high-end hospitality development located on land in Kohombagahapalassa, Thissamaharama, in proximity to the Yala National Park. The project targets the upscale and midscale tourist market, focusing on both international and domestic travellers.
-
-The senior management has developed a carefully articulated vision to become a leading high-quality star-class hospitality destination in Southern Sri Lanka, fully geared to offer exceptional service, authentic culinary experiences, and convenient access to the region’s most treasured religious, historical, and wildlife sites—creating lasting memories for every guest. The mission is to provide a superior hospitality experience.
-
-...
-
-[Data](articles/fd0a426a.json)
-
-[Extended Data](ext_articles/fd0a426a.ext.json)
-
----
-
-### National Chamber hosts B2B meeting with 31-member AICCI Indian business delegation
-
-*2025-09-23 01:33:49* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-hosts-B2B-meeting-with-31-member-AICCI-Indian-businessdelegation/34-782051) · `en`
-
-The National Chamber of Commerce of Sri Lanka, in collaboration with the All India Chamber of Commerce & Industries (AICCI), will host a 31-member Indian business delegation to strengthen the Trade and Investment opportunities through a series of Business-to-Business (B2B) meetings on Friday, 26 September, from 3 p.m. to 5.30 p.m. at the National Chamber Auditorium, #450, D.R. Wijewardena Mawatha, Colombo 10.
-
-This program themed, “Creating B2B Opportunities for Export, Import, Trade and Investments”, aims to bring together business leaders from Sri Lanka and India to explore new avenues for partnerships, joint ventures, and investments. This initiative will create valuable networking opportunities and help strengthen bilateral trade relations between the two countries.
-
-...
-
-[Data](articles/5eafbd3e.json)
-
-[Extended Data](ext_articles/5eafbd3e.ext.json)
-
----
 
 ### Sri Lankan business leaders participate in 2025 UN Private Sector Forum
 
@@ -2073,5 +1953,149 @@ A T-56 riffle and five revolvers were taken into custody by the police seized fr
 [Data](articles/8558e618.json)
 
 [Extended Data](ext_articles/8558e618.ext.json)
+
+---
+
+### Waste & Accountability: Why Institutions Must Lead By Example
+
+*2025-09-22 13:23:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/waste-accountability-why-institutions-must-lead-by-example/) · `en`
+
+Across South Asia, institutions from hospitals to universities and government offices have no shortage of waste management policies. Documents are signed, committees formed, and declarations issued. Yet walk into the backyards of these same institutions, and the story looks very different. Biomedical waste left in open bins, hazardous chemicals poured down drains, and overflowing bins where plastic, paper, and food waste are all dumped together.
+
+The gap between what policies states and how they are practiced is more than just an administrative oversight. It weakens public trust and puts communities at serious risk. When hospitals fail to dispose of biomedical waste safely, they don’t just put their own staff at risk they endanger sanitation workers, patients, their families, and entire neighborhoods. When schools or universities treat waste as an afterthought, they send a message to young people that environmental safety is negotiable.
+
+...
+
+[Data](articles/8285b9f7.json)
+
+[Extended Data](ext_articles/8285b9f7.ext.json)
+
+---
+
+### Lori, who was transporting Ice and heroin in Tangalle, met 4 modern firearm
+
+*2025-09-22 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214863) · `si`
+
+Over 200 kilograms of heroin and ice drug has been recovered from Tangalle.
+
+Senior DIG Kathsiri Jayalath said that the drug was found in a lorry.
+
+The amount of drugs found in the lorry has not yet been calculated and the number can exceed Rs 200 kilograms, the Senior DIG said.
+
+Four modern firearms have been found in the lorry.
+
+◼️
+
+[Data](articles/5a0c2a26.json)
+
+[Extended Data](ext_articles/5a0c2a26.ext.json)
+
+---
+
+### Four money charged for more than 4 permit from the leader's bank account
+
+*2025-09-22 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214862) · `si`
+
+The Panadura Division Special Criminal Investigation Unit has arrested four persons on suspicion of fainting over Rs.
+
+The arrested were four people who were among 33-46 people from Gampaha, Ja Ela, Minuwangoda and Ekala.
+
+Police said that the suspects were arrested following a complaint carried out by the Chief Incumbent of the temple.
+
+The Chief Incumbent Thero was maintaining his bank account in Panadura, and a time ago, His ID was missing.
+
+Accordingly, the suspects have transferred money from his account on other banks in the bank and have been transferred from His account to his account and then funded.
+
+The suspects are to be produced before the Panadura Magistrate's Court.
+
+◼️
+
+[Data](articles/20af4222.json)
+
+[Extended Data](ext_articles/20af4222.ext.json)
+
+---
+
+### Electricity Board employee arrested for shelter
+
+*2025-09-22 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225736) · `ta`
+
+A Ceylon Electricity Board employee has been arrested for allegedly giving Sampath Manamambari.
+
+He has been arrested today (22) by the Police Drug Prevention Bureau.
+
+It is noteworthy that Sampath Manamberi is currently being interrogated in connection with the discovery of the buried container containing chemicals used to produce ice drugs in Mitenia.
+
+◼️
+
+[Data](articles/36ffd265.json)
+
+[Extended Data](ext_articles/36ffd265.ext.json)
+
+---
+
+### Electricity employees willingly articulate
+
+*2025-09-22 13:05:44* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-සේවකයෝ-කැමැත්තෙන්-ලිපි-දෙති/11-418647) · `si`
+
+The Ministry of Energy issued a statement that letters will be given to join the new companies established by the Power and Employees Act.
+
+Four state owned companies have begun to connect four full state owned companies established in implementing the Ceylon Electricity Amendment Act.
+
+Accordingly, part of the Ceylon Electricity Board (CEB) employees to provide letters to the institutions they were established as above.
+
+The Ceylon Electricity Board (CEB) has agreed at the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
+
+National Transmission Network Company (Pvt) Ltd will link the above employees of National Transmission Network Company (Pvt) Ltd, Power and Energy Company (Pvt) Ltd (Pvt) Ltd. (Pvt) Ltd (Pvt) Ltd.
+
+The restructuring program that is the structural changes in the country's development goals and structural changes to the development of electricity is being favored by employees of the Ceylon Electricity Board.
+
+◼️
+
+[Data](articles/6ecec332.json)
+
+[Extended Data](ext_articles/6ecec332.ext.json)
+
+---
+
+### Sri Lankan anglers join fight against invasive giant snakehead fish
+
+*2025-09-22 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112766/sri-lankan-anglers-join-fight-against-invasive-giant-snakehead-fish) · `en`
+
+Nissanka Arachchige Vimukthi Sandaruwan beat more than 1,000 anglers to become champion of a unique competition to protect native fish from invasive giant snakehead fish in central Sri Lanka.
+
+A native of southeast Asia, giant snakehead fish are considered an invasive species in many countries. Kept as pets they can cause massive ecological harm when released into rivers or dams.
+
+Anglers from all over the south Asian island flocked to a dam on the Deduru Oya river, 130 km (80 miles) from the commercial capital Colombo, on Saturday to target the pest.
+
+Curious spectators cheered on the participants while sampling pickles, fried snacks and ice cream along the dam’s tree-lined embankment.
+
+Despite the turnout, giant snakeheads proved elusive with only 22 caught.
+
+“This is the first time I’ve participated in a fishing competition,” said Sandaruwan, a 37-year-old farmer, who hooked three fish.
+
+...
+
+[Data](articles/c8b9af74.json)
+
+[Extended Data](ext_articles/c8b9af74.ext.json)
+
+---
+
+### Recovery of an unidentified person on Moratuwa beach
+
+*2025-09-22 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225735) · `ta`
+
+A body has been recovered this morning (22) at the Motara - Jayakatpura beach belonging to the Moratuwa - Ekoda Police Division.
+
+According to information received by the Ekoda Police Station, the body was recovered, police said.
+
+Police suspected that the body was rescued between 50 and 60 years old.
+
+◼️
+
+[Data](articles/e5a47660.json)
+
+[Extended Data](ext_articles/e5a47660.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 12:38:55**
+As of **2025-09-22 13:06:44**
 
 ## Newspaper Stats
 
-*Scraped **77,391** Articles*
+*Scraped **77,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,91 +14,197 @@ bbccomsinhala | 677
 colombotelegraphcom | 775
 economynextcom | 4,673
 dailymirrorlk | 4,733
-islandlk | 4,761
+islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,517
-adaderanalk | 10,008
+adalk | 7,519
+adaderanalk | 10,010
 tamilmirrorlk | 11,641
-virakesarilk | 12,597
-adaderanasinhalalk | 13,517
+virakesarilk | 12,600
+adaderanasinhalalk | 13,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,387 (100.0%) of 77,391 articles have been extended.
+77,395 (100.0%) of 77,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### கொரோனா விவகாரம்: சீன பத்திரிக்கையாளருக்கு தண்டனை நீடிப்பு
+### மொரட்டுவை கடற்கரையில் அடையாளம் தெரியாத ஒருவரின் சடலம் மீட்பு!
+
+*2025-09-22 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225735) · `ta`
+
+மொரட்டுவை – எகொட உயன பொலிஸ் பிரிவுக்குட்பட்ட மோதர - ஜயகத்புர கடற்கரையில் இன்று (22) காலை சடலம் ஒன்று மீட்கப்பட்டுள்ளது.
+
+எகொட உயன பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலுக்கமைய சடலம் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சடலமாக மீட்கப்பட்டவர் 50 முதல் 60 வயதிற்கு இடைப்பட்டவர் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/e5a47660.json)
+
+---
+
+### තංගල්ල නිවසක මළසිරුරු දෙකක්
+
+*2025-09-22 12:53:42* · [`adalk`](https://www.ada.lk/breaking_news/තංගල්ල-නිවසක-මළසිරුරු-දෙකක්/11-418646) · `si`
+
+තංගල්ල පොලිස් බල ප්‍රදේශයට අයත් සීනිමෝදර ප්‍රදේශයේ අලුත්වැඩියා කරමින් තිබූ නිවක තිබී පුද්ගල මළ සිරුරු දෙකක් හමු වී ඇති බව තංගල්ල මූලස්ථාන පොලීසිය පවසයි .
+
+පොලීසිය පැවසුවේ සිදුකළ විමර්ශනයේදී එම නිවස අසල පිහිටි ලොරි රථයක තිබී අයිස් මත්ද්‍රව්‍ය අඩංගු පැකට් 10ක් ද පොලීසිය විසින් සොයාගෙන ඇති බවයි.
+
+එමෙන් ම එම නිවසේ සිටි තවත් අයෙක් හදිසි අසනීප තත්ත්වයක් හේතුවෙන් තංගල්ල මහ රෝහලට ඇතුලත් වී ඇති අතර එහිදී ඔහුද ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+
+රජයේ රසපරීක්ෂකවරයා විසින් මේ වන විට අදාළ සිද්ධිය සම්බන්ධව රස පරීක්ෂණය සිදුකරමින් පවතින අතර සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන තංගල්ල මූලස්ථාන පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/c4be5135.json)
+
+---
+
+### யோஷித ராஜபக்ஷ,  டெய்சி பாட்டிக்கு எதிரான வழக்கு மீதான விசாரணை ஒத்திவைப்பு!
+
+*2025-09-22 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225729) · `ta`
+
+பணமோசடி தடுப்புச் சட்டத்தின் கீழ் யோஷித ராஜபக்ஷ மற்றும் அவரது பாட்டியான டெய்சி பொரெஸ்ட் ஆகியோருக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள வழக்கு மீதான விசாரணையை ஒத்திவைத்து கொழும்பு உயர்நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சுமார் 73 மில்லியன் ரூபாய் மதிப்புள்ள சொத்துக்களை சட்டவிரோதமாக ஈட்டியதாக யோஷித ராஜபக்ஷ மற்றும் அவரது பாட்டியான டெய்சி பொரெஸ்ட் ஆகியோருக்கு எதிராக வழக்கு தாக்கல் செய்யப்பட்டது.
+
+இந்த வழக்கு இன்று திங்கட்கிழமை (22) விசாரணைக்கு அழைக்கப்பட்டபோது பிரதிவாதிகளாகக் குறிப்பிடப்பட்டுள்ள யோஷித ராஜபக்ஷ மற்றும் டெய்சி பாட்டி ஆகியோர் நீதிமன்றத்தில் ஆஜரானார்கள்.
+
+குறித்த வழக்கை ஒக்டோபர் 15 ஆம் திகதி திரும்பப் பெற கொழும்பு உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+வழக்கு விசாரணைக்கு அழைக்கப்பட்டபோது பிரதிவாதிகளாகக் குறிப்பிடப்பட்டுள்ள யோஷித ராஜபக்ச மற்றும் அவரது பாட்டி டெய்சி பொரெஸ்ட் ஆகியோர் நீதிமன்றத்தில் ஆஜரானார்கள்.
+
+இந்த  வழக்கை எதிர்வரும் ஒக்டோபர் 15 ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ள நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/61d5745e.json)
+
+---
+
+### ට්‍රම්ප් - කිම් හමුවක් ගැන ඉඟියක්?
+
+*2025-09-22 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214861) · `si`
+
+න්‍යෂ්ටික වැඩසටහන අත්හරින ලෙස කරන ඉල්ලීම් හකුලාගන්නේ නම් ඕනෑම මොහොතක අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් හමුවීමට තමන් සූදානම් බව උතුරු කොරියානු නායක කිම් ජොන්ග් පවසයි.
+
+ඔහු මේ බව පැවසුවේ පියොන්යැන්ග් හි උත්තරීතර මහජන සභාව අමතමිනි.
+
+නායකයින් දෙපළ මීට පෙර තෙවරක් එකිනෙකා හමුවී ඇති අතර එම හමුවීම්වල මිහිරි මතක තවමත් සිත තුළ ඇති බව ද උතුරු කොරියානු නායකයා මෙහිදී අනාවරණ කළේය.
+
+ධුරයේ සිටියදී උතුරු කොරියානු දේශසීමාව පසුකළ පළමු අමෙරිකානු ජනාධිපතිවරයා වන්නේ ද ට්‍රම්ප් ය.
+
+◼️
+
+[Data](articles/f555583d.json)
+
+---
+
+### Corona affair: Chinese journalist prolonged punishment
 
 *2025-09-22 12:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கொரோனா-விவகாரம்-சீன-பத்திரிக்கையாளருக்கு-தண்டனை-நீடிப்பு/50-365054) · `ta`
 
-சீனாவில் கொரோனா தொற்று பரவியுள்ளதை பற்றி முதலில் தெரிவித்த பெண் பத்திரிகையாளருக்கு மேலும் 4 ஆண்டுகளுக்கு சிறைத் தண்டனை நீட்டிக்கப்பட்டுள்ளது.
+The first woman journalist has been sentenced to four years in prison for the spread of Corona infection in China.
 
-சீனாவில் இருந்துதான் கொரோனா தொற்று பரவத் தொடங்கியதாக கூறப்படும் நிலையில், 42 வயதான ஜாங் ஜான் என்ற சீன பெண் பத்திரிக்கையாளார் கொரோனா ஆரம்பகால பரவல் குறித்து சீனாவின் வூஹான் நகரில் இருந்து நேரடி அறிக்கைகளை வெளியிட்டார்.
+Corona's infection is said to have begun to spread from China, with a 42 -year -old Chinese woman journalist Corona made direct reports from Wuhan, China.
 
-இதையடுத்து, ஜாங் ஜான் மீது மக்கள் மத்தியில் குழப்பத்தை ஏற்படுத்த முயற்சித்தார், மக்களிடையே விவாதத்தைத் தூண்டினார் என்று சீன அரசால் வழக்கு தொடரப்பட்டது. இதனைத் தொடர்ந்து ஜாங் ஜான் கைது செய்யப்பட்டார். டிசம்பர் 2020 -ல் அவருக்கு நான்கு ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது.
+Subsequently, Zhang John tried to create confusion among the people and prosecuted the Chinese government for provoking a debate among the people. Following this, Zhang John was arrested. He was sentenced to four years in December 2020.
 
-கைது செய்யப்பட்ட ஒரு மாதத்திற்குப் பிறகு சிறையில், உண்ணாவிரதப் போராட்டத்தில் ஈடுபட்டார். இந்த நிலையில், 2024 மே மாதம் அவர் சிறையில் இருந்து விடுவிக்கப்பட்டார். பின்னர் மூன்று மாதங்களுக்குப் பிறகு அவர் மீண்டும் கைது செய்யப்பட்டார்.
+A month after his arrest, in jail, engaged in a hunger strike. In this case, he was released from jail in May 2024. He was again arrested three months later.
 
-இரண்டாவது முறையாக கைது செய்யப்பட்டபோது, ஜாங் என்ன நடவடிக்கைகளுக்காக குற்றம் சாட்டப்பட்டார் என்பதை சீன அதிகாரிகள் சரியாக குறிப்பிடவில்லை.
+Chinese authorities did not correctly mention what Jong was accused of acting for the second time.
+
+In this case, his imprisonment has now been extended for another 4 years. He was sentenced to Friday following a Zhang report on China's human rights violations.
 
 ...
 
 [Data](articles/6470e085.json)
 
+[Extended Data](ext_articles/6470e085.ext.json)
+
 ---
 
-### අයිස් සහ හෙරොයින් කිලෝ 200ක් ප්‍රවාහනය කළ ලොරි රථයක් තංගල්ලේදී අල්ලයි
+### 200 kilos of heroin seized a lorry at Tangalle
 
 *2025-09-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214860) · `si`
 
-අයිස් මත්ද්‍රව්‍ය සහ හෙරොයින් කිලෝග්‍රෑම් 200ක් පමණ ප්‍රවාහනය කළ ලොරි රථයක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested a lorry transporting about 200 kilograms of ice drugs and heroin.
 
-පොලීසිය පැවසුවේ තංගල්ල ප්‍රදේශයේදී මෙම මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබියදී මෙම ලොරි රථය පොලිස් භාරයට ගත් බවය.
+The police said that the lorry was taken into custody while transporting these drugs in Tangalle.
 
 ◼️
 
 [Data](articles/d4561941.json)
 
+[Extended Data](ext_articles/d4561941.ext.json)
+
 ---
 
-### ජයගත්පුර වෙරළ තීරයට නිරුවත් මළ සිරුරක් ගොඩගසයි
+### Wednesday a dead body found in the coastal coast
 
 *2025-09-22 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214859) · `si`
 
-මොරටුව - එගොඩඋයන පොලිස් බල ප්‍රදේශයේ මෝදර, ජයගත්පුර වෙරළ තීරයට අද (22) උදෑසන නිරුවත් මළ සිරුරක් ගොඩගසා තිබේ.
+Modara, Modara, the coast of Jayawewapura, has been launched to the coast of Jayawewapura today.
 
-එගොඩඋයන පොලිස් ස්ථානයට ලද තොරතුරක් මත මෙම මළ සිරුර සොයා ගෙන ඇත.
+The body was recovered following information received by the police station.
 
-කෙසේවෙතත් මිය ගොස් සිටින පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් හඳුනාගෙන නොමැති බව පොලීසිය පැවසුවේය.
+However, the identity of the dead has not been identified yet.
 
-එමෙන්ම අදාළ පුද්ගලයා වයස අවුරුදු 50ත් 60ත් අතර සීමාවක පසුවන්නෙකු බවට පොලීසිය සැක පළ කරන්නේය.
+The police suspect that the man is among the age of 50 and 60 years old.
 
 ◼️
 
 [Data](articles/2134060a.json)
 
+[Extended Data](ext_articles/2134060a.ext.json)
+
 ---
 
-### 22 அன்று 21 வது பிறந்த நாள்: 21 அன்று இடம்பெற்ற விபத்தில் 22 அன்று மரணம்
+### 22nd Birthday: Death on 22
 
 *2025-09-22 11:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/22-அன்று-21-வது-பிறந்த-நாள்-21-அன்று-இடம்பெற்ற-விபத்தில்-22-அன்று-மரணம்/76-365052) · `ta`
 
-செப்டம்பர் 22 ஆம் திகதி, திங்கட்கிழமை (22) தனது 21 வது பிறந்தநாளை கொண்டாடும் இளைஞன், 21 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற விபத்தில் படுகாயமடைந்து, 22 ஆம் திகதியன்று மரணமடைந்த சம்பவம் நுவரெலியாவில் இடம்பெற்றுள்ளது.
+The incident took place in Nuwara Eliya on Monday, September 22, Monday (22), a youth who was injured in an accident on Sunday, 21st and on Sunday, 21st.
 
-வேகமாக சென்ற லொறி ஒன்றில் மோட்டார் சைக்கிள் மோதி விபத்துக்குள்ளாகியது. அதை செலுத்தி சென்ற இளைஞர் படுகாயமடைந்து நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் திங்கட்கிழமை (22) காலை உயிரிழந்தார் என்று நுவரெலியா பொலிஸ் போக்குவரத்து பிரிவின் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A motorcycle crashed into a fast lorry. A police officer of the Nuwara Eliya Police Division said that the youth who was injured and admitted to the Nuwara Eliya District General Hospital on Monday morning.
 
-இந்த விபத்தில் உயிரிழந்தவர் நுவரெலியாவின் ஹாவா எலிய பகுதியைச் சேர்ந்த மனித் அபூர்வ என அடையாளம் காணப்பட்டுள்ளார்.
+The deceased has been identified as Manit Rihur, a native of Hawa Eliya, Nuwara Eliya.
 
-இராகலை-நுவரெலியா பிரதான வீதியில் ஹாவாஎலிய சந்தியில் ஞாயிற்றுக்கிழமை 21)  இரவு 9:30 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred at 9:30 pm on Sunday at the Hawa Eliya Junction on the main road of Irakalai-Nuwara Eliya.
+
+Nuwara Eliya Police Transport Officers suspect that the accident may have been involved in a lorry from Irakalai to Nuwara Eliya when he was trying to travel from the junction to Nuwara Eliya from the junction of Nuwara Eliya.
+
+Nuwara Eliya Police have arrested the driver of the lorry on suspicion, and the motorcycle was severely damaged.
+
+The deceased is the only son of Sampath Jayalal, the regional correspondent of the Nuwara Eliya district.
+
+◼️
+
+[Data](articles/010d69b4.json)
+
+[Extended Data](ext_articles/010d69b4.ext.json)
+
+---
+
+### “There will be no Palestine state”: Benjamin Netanyahu to UK, Canada, Australia
+
+*2025-09-22 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112760/there-will-be-no-palestine-state-benjamin-netanyahu-to-uk-canada-australia) · `en`
+
+Israeli Prime Minister Benjamin Netanyahu strongly opposed the UK, Canada, and Australia’s move to recognise Palestine and said that there will be no Palestinian state to the west of the Jordan River. In a strongly worded statement published in PMO, condemning the move, PM Netanyahu vowed to give a response to countries after his US visit.
+
+“There will be no Palestinian state. The response to the latest attempt to force upon us a terror state in the heart of our land will be given after my return from the United States,” Netanyahu said. Netanyahu alleged that by recognising Palestine, they are “rewarding terror with an enormous prize,” expressing his determination not to let this happen.
 
 ...
 
-[Data](articles/010d69b4.json)
+[Data](articles/a9d0c282.json)
+
+[Extended Data](ext_articles/a9d0c282.ext.json)
 
 ---
 
@@ -148,6 +254,24 @@ Our country is currently suffering from major vehicle accidents and casualties. 
 
 ---
 
+### India’s Chief of Naval Staff visits Sri Lanka to strengthen maritime ties
+
+*2025-09-22 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112758/indias-chief-of-naval-staff-visits-sri-lanka-to-strengthen-maritime-ties) · `en`
+
+Admiral Dinesh K Tripathi, Chief of the Naval Staff of India, is on a four-day official visit to Sri Lanka from September 22 to September 25, according to an official statement from the Ministry of Defence.
+
+During the visit, the Chief of the Naval Staff will call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, VAdm Kanchana Banagoda, and engage in bilateral discussions with the three Service Chiefs and other senior government officials on a broad spectrum of defence cooperation matters, with emphasis on maritime security, capability enhancement, training, and identifying avenues to strengthen cooperation.
+
+He would also participate in the 12th edition of the Galle Dialogue 2025 — International Maritime Conference in Colombo, on the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics.”
+
+...
+
+[Data](articles/16ce4f24.json)
+
+[Extended Data](ext_articles/16ce4f24.ext.json)
+
+---
+
 ### President visits Japan on the 27th
 
 *2025-09-22 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214857) · `si`
@@ -169,6 +293,30 @@ The President also addresses members of the Sri Lankan Sri Lankan community livi
 [Data](articles/a2115e4a.json)
 
 [Extended Data](ext_articles/a2115e4a.ext.json)
+
+---
+
+### The discovery of weapons and ammunition from the land belonging to Sampath Manamberry
+
+*2025-09-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225721) · `ta`
+
+The police media spokesman said that weapons and ammunition have been found by the police from the land belonging to Sampath Manamambari in Mitteniya.
+
+Police have seized 9 millimeters of pistol, two T-56 magazines, 115 rounds of T-56 ammunition and one handbag, suspected of belonging to Sampath Manamambari.
+
+Sampath Manamperi has been arrested and is currently being interrogated in the case of containers found in containers used to produce ice.
+
+The Valasmulla Magistrate's Court on September 17 granted permission to the Police Drug Prevention Bureau to detain Sampath Manamperi for seven days.
+
+Sampath Manamperi has been accused of concealing the chemicals used in the production of ice drugs allegedly belonging to the underworld leader Kehelpathara Padme.
+
+Following the court order, it is reported that the police officers of the Police Drug Prevention Unit are investigating the recent discovery of two containers in Mitteniya.
+
+◼️
+
+[Data](articles/999238c5.json)
+
+[Extended Data](ext_articles/999238c5.ext.json)
 
 ---
 
@@ -663,6 +811,28 @@ The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics
 [Data](articles/9385705d.json)
 
 [Extended Data](ext_articles/9385705d.ext.json)
+
+---
+
+### President to visit Japan on the 27th
+
+*2025-09-22 09:22:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිගේ-ජපාන-සංචාරය-27දා-ඇරඹෙයි/11-418642) · `si`
+
+According to the Japanese government's invitation, President Anura Kumara Dissanayake will visit Japan from 27th to 30th September to 30th.
+
+During the visit, President Dissanayake is scheduled to meet the Japanese emperor. The President also holds a convention meeting to bring about a number of mutual important issues with the Prime Minister of Japan.
+
+President Dissanayake will address the top Japanese businessmen and investors' leader in Tokyo's leading Japanese businesses and investors, focusing on the growing economic opportunities in Sri Lanka.
+
+President Dissanayake will also participate in the Exposants of Japan, Japanese Government's invitation on the 2025 Expo exhibition. The purpose of this exhibition is to display Sri Lanka's cultural heritage and economic skills in the face of the international community.
+
+The President will also address members of the Sri Lankan communal community in Japan.
+
+...
+
+[Data](articles/be2ec177.json)
+
+[Extended Data](ext_articles/be2ec177.ext.json)
 
 ---
 
@@ -1865,171 +2035,5 @@ Israeli-Sri Lanka Friendship Association President of Sri Lanka. TSEGA Melaku, t
 [Data](articles/04cf5c8d.json)
 
 [Extended Data](ext_articles/04cf5c8d.ext.json)
-
----
-
-### Navy advise fishermen on drug trafficking and illegal fishing disorders
-
-*2025-09-21 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225689) · `ta`
-
-The Navy was clarified to the fishermen on the adverse effects of drug trafficking and illegal fishing activities.
-
-A special clarification ceremony for the fishermen community in the Negombo area was held last week with the participation of representatives of the fishermen association in the area to raise awareness about drug trafficking and illegal fishing activities.
-
-Accordingly, the fishermen were clarified on the adverse effects of drug trafficking and illegal fishing activities and the current law was discussed.
-
-The event was attended by the Deputy Commander of the Western Navy, the Assistant Director of the Negombo Fisheries, Senior Officers of the Western Navy Command, Fisheries Inspectors and Representatives of the Fisheries Association.
-
-◼️
-
-[Data](articles/ae099714.json)
-
-[Extended Data](ext_articles/ae099714.ext.json)
-
----
-
-### Fines up to 1- 5 lakhs, 5 months in prison - Consumer Authority
-
-*2025-09-21 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/225688) · `ta`
-
-The Consumer Affairs Authority has warned that if a private trader is found to be sold at a higher price, he can be sentenced to Rs 100,000 to Rs 500,000 or a five -month imprisonment or two months in prison.. The Consumer Affairs Authority (CAA) has said that 70 rounds of rice have been conducted last week alone.
-
-Roundtables have been carried out in connection with the sale of rice at high prices. These include 55 rounds of rice sales and the other 15 rounds of repository rounds.
-
-It is reported that crimes such as hiding rice, not visualization of prices, and selling rice with conditions.
-
-The Consumer Affairs Authority (CAA) has warned that if a private trader is found to sell rice at high prices, he can be fined Rs 100,000 to Rs 500,000 or a imprisonment for 5 months or both.
-
-...
-
-[Data](articles/1cc28aae.json)
-
-[Extended Data](ext_articles/1cc28aae.ext.json)
-
----
-
-### Tamil Nadu fishers  must stop their illegal fishing and Bottom Trawling   in Sri Lankan Northern Waters. Long suffering Tamil fishermen should be able  to  rebuild their lives and resurrect  their livelihood
-
-*2025-09-21 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86445) · `en`
-
-The on going problem of illegal fishing and bottom trawling in Sri Lanka’s northern territorial waters  by Indian fishers from Tamil Nadu state was described in detail in the first part of this  article published last week.Particular attention was devoted to the bogey of Katchatheevu being raised by the Indian side to  sidetrack the issue. As emphasised previously the fundamental problem is illegal fishing in Sri Lankan waters and not the question of Katchatheevu islet ownership.   Certain salient points regarding the illegal fishing by Tamil Naqdu fishers will be realeted in this second and final part of this article.
-
-...
-
-[Data](articles/54fdec77.json)
-
-[Extended Data](ext_articles/54fdec77.ext.json)
-
----
-
-### Massive leakage plant blockade at Valaichenai Kinniyadi Wavi
-
-*2025-09-21 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/225687) · `ta`
-
-The Eastern Provincial Criminal Investigation Department (CID) has arrested two persons involved in the daytime and handed over a massive leakage plant in the middle of the Valaichenai Kinniyadi Wavi.
-
-The Eastern Provincial Criminal Investigation Officer in charge of the Eastern Provincial Crime Division. A team of police led by Menon traveled in Vavi by Dhoni and surrounded the area.
-
-The two men who were involved in illegal leakage were arrested and handed over the 6 -year -old 1080 liters of Koda, 30 liters of leaks and the production equipment and handed over to the Valaichenai police.
-
-Meanwhile, a person from the illegal leakage manufacturing group has recently been recovered from the crocodile attack while traveling in the Wavi.
-
-◼️
-
-[Data](articles/55f31f73.json)
-
-[Extended Data](ext_articles/55f31f73.ext.json)
-
----
-
-### Navy bears suspicion with a stock of beady leaves
-
-*2025-09-21 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214838) · `si`
-
-A suspect has been taken into custody with 1,197 kilograms of bead leaves, which attempted to be brought to Sri Lanka illegally in a special search operation conducted by the Sri Lanka Navy in Silawathura.
-
-The Navy also operates constant patrols and screenness covering the coast and sea strip around the island, including rackets and illegal activities.
-
-Accordingly, Sri Lanka Navy Ship Naval Saviya, Sri Lanka Naval Ship Naval Saviya, which was conducted on the 18th of the Silawathura area, has been inspected at the 18th.
-
-A suspicion of 485 kilograms of beed leaves and 706 soap cubes have been taken into custody with 706 soap cubes.
-
-Also, during the search investigation, another 712 kilograms hidden in the shore and 1,059 soaps were taken into custody.
-
-The suspect has been identified as a resident of Kalpitiya, the suspect, who was taken into custody by the Navy.
-
-◼️
-
-[Data](articles/447771cc.json)
-
-[Extended Data](ext_articles/447771cc.ext.json)
-
----
-
-### Severe countries officially welcomes Palestine as a state
-
-*2025-09-21 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214837) · `si`
-
-The UK, Canada and Australia have been officially recognized as a state of Palestine as a state.
-
-The first G7 is the first G7, and Australia and the UK have announced that the Palestine is recognized as a state.
-
-However, Israel and the US have expressed their displeasure to this decision.
-
-◼️
-
-[Data](articles/63c3ce20.json)
-
-[Extended Data](ext_articles/63c3ce20.ext.json)
-
----
-
-### Germans assaulting a group of German people in Unawatuna
-
-*2025-09-21 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214836) · `si`
-
-The tourism industry is a major increase in the main source of income that empowers Sri Lanka's economy.
-
-According to reports of the Sri Lanka Tourism Development Authority, the number of foreign tourists reached in Sri Lanka to September 1, 20, 2025, was 1,656,916.
-
-The objective of the authorities is to achieve the target of foreign tourists this year.
-
-However, many opportunities to assault and harass foreign travelers have been reported to assault and harass foreign tourists.
-
-There were six German nationals at a party in a Unawatuna hotel, a party and two Sri Lankans last night.
-
-The German travelers had then left the hotel in two motorbikes and three wheelers.
-
-In the meantime, the two Sri Lankans connected to the argument of the traffic in a car have been assaulted by foreign tourists.
-
-The Germans who were assaulted have lodged a complaint with the Unawatuna Tournament Police.
-
-...
-
-[Data](articles/29029df7.json)
-
-[Extended Data](ext_articles/29029df7.ext.json)
-
----
-
-### President goes to America tomorrow
-
-*2025-09-21 19:04:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ඇමරිකාවට-යයි/11-418636) · `si`
-
-President Anura Kumara Dissanayake is due to leave for the USA tomorrow (22).
-
-The President will participate in the 80th session of the United Nations General Assembly during the visit.
-
-During his visit, Anura Kumara Dissanayake is expected to join bilateral discussions with the UN High Secretariat and several world state leaders.
-
-The President will also participate in a meeting with Sri Lankans in the United States.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/10e4fe45.json)
-
-[Extended Data](ext_articles/10e4fe45.ext.json)
 
 ---

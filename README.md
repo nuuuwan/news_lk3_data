@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 01:20:31**
+As of **2025-09-23 01:05:55**
 
 ## Newspaper Stats
 
-*Scraped **77,519** Articles*
+*Scraped **77,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 784
 economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
-dailyftlk | 5,501
+dailyftlk | 5,499
 adalk | 7,528
 adaderanalk | 10,039
 tamilmirrorlk | 11,659
@@ -26,41 +26,9 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,517 (100.0%) of 77,519 articles have been extended.
+77,517 (100.0%) of 77,517 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-09-23 (Tuesday)
-
-### Sysco’s global technology leadership meets Sri Lanka’s digital leaders
-
-*2025-09-23 01:00:01* · [`dailyftlk`](https://www.ft.lk/business/Sysco-s-global-technology-leadership-meets-Sri-Lanka-s-digital-leaders/34-782047) · `en`
-
-From left: Sysco Technology Vice President – Human Resources Chris Torchia, Vice President – Digital Commerce and Customer Solutions Ragnarok Rocha, Executive Vice President and Chief Information and Digital Officer Tom Peck, Digital Economy Deputy Minister Eng. Eranga Weeraratne, Sysco LABS Managing Director Thushera Kawdawatta, Chief Adviser to the President on Digital Economy Dr. Hans Wijayasuriya, and Sysco LABS Director – Branding and Communications Gian De Rose
-
-Sysco Executive Vice President, and Chief Information and Digital Officer Tom Peck recently met with Digital Economy Deputy Minister Eranga Weeraratne, and Chief Advisor to the President on Digital Economy and ICTA Chairman Dr. Hans Wijayasuriya.
-
-...
-
-[Data](articles/c8cf56bb.json)
-
----
-
-### Disrupt Asia 2025 shines as South Asia’s new innovation powerhouse
-
-*2025-09-23 00:58:23* · [`dailyftlk`](https://www.ft.lk/business/Disrupt-Asia-2025-shines-as-South-Asia-s-new-innovation-powerhouse/34-782046) · `en`
-
-From right: Thilan Wijesinghe moderates a powerful discussion with Dr. Nandalal Weerasinghe, Dr. Hans Wijayasuriya, Duminda Hulangamuwa, and Gevorg Sargsyan on South Asia’s roadmap to becoming an innovation hub at the Disrupt Asia Main Conference panel discussion
-
-Four-day festival ignites global confidence in Sri Lanka's startup ecosystem
-
-Sri Lanka has firmly staked its claim as South Asia’s rising innovation hub with the successful completion of Disrupt Asia 2025, a four-day celebration of innovation, entrepreneurship, and technology. The event drew more than 100 venture capitalists from 20 countries including host Sri Lanka, strengthening regional startup networks and cross-border partnerships, signalling unprecedented global confidence in Sri Lanka’s innovation potential.
-
-...
-
-[Data](articles/30361792.json)
-
----
 
 ### 2025-09-22 (Monday)
 
@@ -2093,5 +2061,49 @@ The Government Analymist is currently conducting a taste and conducting a taste 
 [Data](articles/c4be5135.json)
 
 [Extended Data](ext_articles/c4be5135.ext.json)
+
+---
+
+### Yoshitha Rajapaksa postponed trial against Daisy's grandmother
+
+*2025-09-22 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225729) · `ta`
+
+The Colombo High Court has ordered the adjournment of the case against Yoshitha Rajapaksa and his grandmother Daisy Porrest under the Prevention of Money Laundering Act.
+
+A case has been filed against Yoshitha Rajapakse and his grandmother Daisy Porrest for allegedly illegally earning about Rs 73 million worth of assets.
+
+When the case was summoned for hearing on Monday (22), Yoshitha Rajapaksa and Daisy Patty, who were referred to as defendants, appeared in court.
+
+The Colombo High Court has ordered the withdrawal of the case on October 15.
+
+Yoshitha Rajapaksa and his grandmother Daisy Porrest, who were referred to as defendants when the case was called for hearing, appeared in court.
+
+The court has ordered the hearing of the case on October 15.
+
+◼️
+
+[Data](articles/61d5745e.json)
+
+[Extended Data](ext_articles/61d5745e.ext.json)
+
+---
+
+### Tip About Trump - Kim Meet
+
+*2025-09-22 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214861) · `si`
+
+North Korean leader Kim Jongh says he is ready to meet the US President Donald Trump at any time, if he hurres the demands to abandon the nuclear program.
+
+He was addressing the Supreme Public Council of Pyongang.
+
+The North Korean leader also revealed that the two leaders have met with each other.
+
+Trump is the first American President to pass the North Korean border while in office.
+
+◼️
+
+[Data](articles/f555583d.json)
+
+[Extended Data](ext_articles/f555583d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 20:56:06**
+As of **2025-09-22 21:20:33**
 
 ## Newspaper Stats
 
-*Scraped **77,494** Articles*
+*Scraped **77,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ dailyftlk | 5,496
 adalk | 7,528
 adaderanalk | 10,033
 tamilmirrorlk | 11,657
-virakesarilk | 12,610
-adaderanasinhalalk | 13,538
+virakesarilk | 12,613
+adaderanasinhalalk | 13,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,488 (100.0%) of 77,494 articles have been extended.
+77,493 (100.0%) of 77,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### සෞඛ්‍ය ඇමතිගෙන් පොරොන්දුවක්
+
+*2025-09-22 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214883) · `si`
+
+රෝහල්වල අතරමඟ නවතා ඇති ඉදිකිරීම් සහ සංවර්ධන ව්‍යාපෘති ඉදිරි වසර 02 තුළ අවසන් කිරීම සඳහා ප්‍රමුඛතාවය ලබාදෙන බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+ඒ සඳහා රුපියල් බිලියන 45ක මුදලක් අවශ්‍ය වන බව ද සෞඛ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+නැගෙනහිර පළාතේ අම්පාර සහ කල්මුණේ සෞඛ්‍ය සංවර්ධන වැඩපිළිවෙල පිළිබඳව පැවති විශේෂ සාකච්ඡාවකට එක්වෙමින් අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මේ වන ප්‍රකාශ කළ බවයි එම අමාත්‍යංශය සඳහන් කළේය.
+
+එමෙන්ම සෞඛ්‍ය කාර්යය සහයකයින් 1,900 දෙනෙකු ඉදිරි මාස 02 තුළ බඳවා ගැනීමට කටයුතු කරන බව ද සෞඛ්‍ය අමාත්‍යවරයා එහිදි සඳහන් කර තිබේ.
+
+එමෙන්ම ක්ෂේත්‍ර රාජකාරිවල නිරත සෞඛ්‍ය කාර්යය මණ්ඩලය සඳහා යතුරුපැදි ලබාදීමේ වැඩපිළිවෙලක් ද ලබන අප්‍රේල් මස වන විට ආරම්භ කළ හැකි බව ද අමාත්‍යවරයා එහිදි වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2215f6e4.json)
+
+---
+
+### இலங்கையில்  ஐசிசி மகளிர் உலகக் கிண்ணம்
+
+*2025-09-22 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225797) · `ta`
+
+ஐசிசி மகளிர் உலகக் கிண்ண கிரிக்கெட் போட்டியில் பங்குபற்றும் நாடுகளில் வலம் வந்த உலகக் கிண்ணம் இன்றைய தினம் கொழும்பு ஆர். பிரேமதாச சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் காட்சிப்படுத்தப்பட்டது.
+
+இலங்கை அணித் தலைவி சமரி அத்தபத்துவினால் உலகக் கிண்ணம் மைதானத்திற்கு கொண்டு செல்லப்பட்டு காட்சிபடுத்தப்பட்டது.
+
+இந்த வைபவத்தில் சமரி அத்தபத்துவுடன் டெஸ்ட் அணித் தலைவர் தனஞ்சய டி சில்வா, முன்னாள் அணித் தலைவர் தினேஷ் சந்திமால், வேகப்பந்துவீச்சாளர் விஷ்வா பெர்னாண்டோ, மகளிர் அணியின் உதவித் தலைவி ஹர்ஷித்தா சமரவிக்ரம, வீராங்கனை நிலக்ஷிக்கா டி சில்வா ஆகியோர் கலந்து சிறப்பித்தனர்.
+
+ஐசிசி மகளிர் உலகக் கிண்ணம் தாமரை கோபுரத்தில் நாளை செவ்வாய்க்கிழமை பிற்பகல் 4.00 மணியிலிருந்து இரவு 8.00 மணிவரை பொது மக்களின் பார்வைக்கு வைக்கப்படும்.
+
+கொழும்பிலுள்ள பெண்கள் பாடசாலை ஒன்றில் 25ஆம் திகதி புதன்கிழமை ஐசிசி மகளிர் உலகக் கிண்ணம் காட்சிக்கு வைக்கப்படும்.
+
+◼️
+
+[Data](articles/3f9f0d00.json)
+
+---
+
+### அரசும் மாகாண சபைகளும் இணைந்து கடற்றொழில்துறையை வலுப்படுத்த வேண்டும் - மாகாண பிரதம செயலாளர்களுக்கு அமைச்சர் மற்றும் பிரதி அமைச்சர் வலியுறுத்தல்
+
+*2025-09-22 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225796) · `ta`
+
+கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சு மற்றும் மாகாண சபைகளின் கீழ் செயற்படும் கடற்றொழில் நடவடிக்கைகளை ஒருங்கிணைத்து, தேசிய மட்டத்தில் உற்பத்தித்திறனை அதிகரிக்கும் நோக்கில் ஒரு விசேட கலந்துரையாடல் திங்கட்கிழமை (22) கடற்றொழில் அமைச்சு கேட்போர் கூடத்தில் நடைபெற்றது.
+
+கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் மற்றும் பிரதி அமைச்சர் ரத்ன கமகே ஆகியோரின் தலைமையில் நடைபெற்ற இந்நிகழ்வில், அமைச்சின் செயலாளர் கலாநிதி பி.கே. கோலித கமல் ஜினதாச, அனைத்து மாகாண சபைகளையும் பிரதிநிதித்துவப்படுத்தி மாகாண பிரதம செயலாளர்கள், அமைச்சின் கீழ் இயங்கும் நிறுவனங்களின் தலைவர்கள் உள்ளிட்ட சிரேஷ்ட அதிகாரிகள் பலரும் கலந்துகொண்டனர்.
+
+இதன்போது கருத்துத் தெரிவித்த அமைச்சர் இராமலிங்கம் சந்திரசேகர் அவர்கள், மத்திய அரசுக்கும் மாகாண சபைகளுக்கும் இடையில் நிலவும் ஒருங்கிணைப்புக் குறைபாடுகளால், வளங்கள் வீணடிக்கப்படுவதாகவும் திட்டங்களின் வினைத்திறன் குறைவதாகவும் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/717270f8.json)
+
+---
+
+### எந்தவொரு சூழ்நிலையிலும் மின்சாரத் துறையை தனியார் நிறுவனங்களிடம் ஒப்படைக்க வேண்டிய அவசியம் அரசாங்கத்திற்கு இல்லை - ஜனாதிபதி
+
+*2025-09-22 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225795) · `ta`
+
+இந்நாட்டின் வலுசக்தி இறையாண்மையை அரசாங்கம் எப்போதும் பாதுகாத்து வருவதாகவும், எந்தவொரு சூழ்நிலையிலும் மின்சாரத் துறையை தனியார் நிறுவனங்களிடம் ஒப்படைக்க வேண்டிய அவசியம் அரசாங்கத்திற்கு இல்லை என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார்.
+
+இந்நாட்டின் பொருளாதார வளர்ச்சி, தேசிய பாதுகாப்பு மற்றும் இறைமைக்காக  வலுசக்தி இறையாண்மையை உறுதி செய்வது அரசாங்கத்தின் நிலைப்பாடு என்றும், மின்சாரத் துறையின் நிறுவனக் கட்டமைப்பில் உள்ள குழப்ப நிலையைத் தீர்த்து, முறையான நிறுவனக் கட்டமைப்பை உருவாக்குவதே அரசாங்கத்தின் தேவை என்றும் ஜனாதிபதி தெரிவித்தார்.
+
+இன்று திங்கட்கிழமை (22) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற மின்சாரத் துறையில் புதிய மறுசீரமைப்புகள் குறித்த முன்னேற்ற மீளாய்வுக் கலந்துரையாடலில் கலந்துகொண்ட போதே ஜனாதிபதி அனுரகுமார திசாநாயக்க இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/ec856859.json)
+
+---
 
 ### Police clarify a fake article in social media
 
@@ -772,25 +844,29 @@ Accordingly, the main objective of these amendments are to provide provisions fo
 
 ---
 
-### විගණකාධිපතිගේ බලතල වැඩි කරන පනතට කථානායක සහතිකය
+### Speaker Certificate to Increase the Auditor General's Powers Act
 
 *2025-09-22 16:26:39* · [`adalk`](https://www.ada.lk/breaking_news/විගණකාධිපතිගේ-බලතල-වැඩි-කරන-පනතට-කථානායක-සහතිකය/11-418653) · `si`
 
-ජාතික විගණන (සංශෝධන)  පනත් කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද (22) සිය සහතිකය සටහන් කළේය.
+Speaker Medical Wickramaratne today noted his certification today (22) for the National Audit (Amendment) Bill.
 
-විගණන (සංශෝධන) පනත් කෙටුම්පත  2025.07.08 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර, 2025.09.11 දින සංශෝධන සහිතව පාර්ලිමේන්තුවේදී   සම්මත විය.
+Audit (Amendment) Bill was presented to Parliament on 08.07.202015 and was passed in Parliament with amendments on 11.09.2015.
 
-මෙම ජාතික විගණන (සංශෝධන) පනත්  කෙටුම්පත  මගින්  2018 අංක 19 දරන ජාතික විගණන පනත සංශෝධනය කිරීම  අරමුණ  කර ඇත.
+These National Audit (Amendment) Bill has aims to amend the National Audit Act No. 19 of 2018.
 
-ඒ අනුව විගණකාධිපතිවරයා විසින් නිර්දේශ කරනු ලබන අධිභාර පැනවීම සම්බන්ධයෙන් තීරණ ගැනීම සඳහා එහි සංයුතිය, කාල සීමාවන් සහ ක්‍රියා පටිපාටි ඇතුළුව අධිභාර සමාලෝචන කමිටුවක් පිහිටුවීම සඳහා ප්‍රතිපාදන සැපයීම මෙම සංශෝධනවල ප්‍රධාන අරමුණ වී ඇත.
+Accordingly, the main objective of these amendments is to provide provisions for the establishment of a surcharge review committee, including its composition, time limits and procedures to make decisions recommended by the Auditor General.
 
-තවද වංචා හෝ දූෂණ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීමේ ආයතනවලට පැමිණිලි කිරීමට විගණකාධිපතිවරයාට බලතල ලබාදීම සහ වාර්ෂික සවිස්තරාත්මක කළමනාකරණ විගණන වාර්තාව ඉදිරිපත් කිරීමේ කාලය මාස පහේ සිට මාස හයක් දක්වා දීර්ඝ කිරීම ප්‍රධාන වෙනස්කම් අතරට ඇතුළත් වේ.
+It also includes powers to the Auditor General to complain to the Auditor General and the period from five months to six months.
 
-තවද, සංශෝධන මගින් ප්‍රධාන ප්‍රඥප්තියේ 42 සහ 43 වගන්ති යටතේ වැරදි සිදු කරන පුද්ගලයින් සඳහා දඬුවම් සැලකිය යුතු ලෙස වැඩි කිරීමද  සිදු කර ඇත.
+The amendments also increased the punishment for people who make mistakes under Sections 42 and 43 of the main charter.
 
-...
+Accordingly, the National Audit (Amendment) Bill is in effect as the National Audit (Amendment) Act, 19 ,,
+
+◼️
 
 [Data](articles/1b2842fd.json)
+
+[Extended Data](ext_articles/1b2842fd.ext.json)
 
 ---
 
@@ -1997,91 +2073,5 @@ Our country is currently suffering from major vehicle accidents and casualties. 
 [Data](articles/90f84d6a.json)
 
 [Extended Data](ext_articles/90f84d6a.ext.json)
-
----
-
-### India’s Chief of Naval Staff visits Sri Lanka to strengthen maritime ties
-
-*2025-09-22 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112758/indias-chief-of-naval-staff-visits-sri-lanka-to-strengthen-maritime-ties) · `en`
-
-Admiral Dinesh K Tripathi, Chief of the Naval Staff of India, is on a four-day official visit to Sri Lanka from September 22 to September 25, according to an official statement from the Ministry of Defence.
-
-During the visit, the Chief of the Naval Staff will call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, VAdm Kanchana Banagoda, and engage in bilateral discussions with the three Service Chiefs and other senior government officials on a broad spectrum of defence cooperation matters, with emphasis on maritime security, capability enhancement, training, and identifying avenues to strengthen cooperation.
-
-He would also participate in the 12th edition of the Galle Dialogue 2025 — International Maritime Conference in Colombo, on the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics.”
-
-...
-
-[Data](articles/16ce4f24.json)
-
-[Extended Data](ext_articles/16ce4f24.ext.json)
-
----
-
-### President visits Japan on the 27th
-
-*2025-09-22 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214857) · `si`
-
-President Anura Kumara Dissanayake is scheduled to visit Japan until the 30th of April.
-
-According to the Ministry of Foreign Affairs and Tourism and Tourism, the President is due to meet the Japanese Emperor during the visit.
-
-The President also contains a convenience meeting with the Prime Minister of the Japanese prime minister.
-
-The President is also due to address the growing economic opportunities in Sri Lanka with the participation of the top representatives of Tokyo.
-
-President Anura Kumara Dissanayake also participated in the 2025 Expo Exhibition on the Japanese government's invitation and the exhibition will show the objective of displaying Sri Lanka's culture inheritance and economic skills in Sri Lanka.
-
-The President also addresses members of the Sri Lankan Sri Lankan community living in Japan and said the Ministry of Foreign Affairs and Tourism.
-
-...
-
-[Data](articles/a2115e4a.json)
-
-[Extended Data](ext_articles/a2115e4a.ext.json)
-
----
-
-### The discovery of weapons and ammunition from the land belonging to Sampath Manamberry
-
-*2025-09-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225721) · `ta`
-
-The police media spokesman said that weapons and ammunition have been found by the police from the land belonging to Sampath Manamambari in Mitteniya.
-
-Police have seized 9 millimeters of pistol, two T-56 magazines, 115 rounds of T-56 ammunition and one handbag, suspected of belonging to Sampath Manamambari.
-
-Sampath Manamperi has been arrested and is currently being interrogated in the case of containers found in containers used to produce ice.
-
-The Valasmulla Magistrate's Court on September 17 granted permission to the Police Drug Prevention Bureau to detain Sampath Manamperi for seven days.
-
-Sampath Manamperi has been accused of concealing the chemicals used in the production of ice drugs allegedly belonging to the underworld leader Kehelpathara Padme.
-
-Following the court order, it is reported that the police officers of the Police Drug Prevention Unit are investigating the recent discovery of two containers in Mitteniya.
-
-◼️
-
-[Data](articles/999238c5.json)
-
-[Extended Data](ext_articles/999238c5.ext.json)
-
----
-
-### Hong Kong airport to shut for 36 hours due to Typhoon Ragasa
-
-*2025-09-22 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112757/hong-kong-airport-to-shut-for-36-hours-due-to-typhoon-ragasa) · `en`
-
-Hong Kong International Airport will suspend all passenger flights for 36 hours from Tuesday (Sep 23) evening, Qantas Airways said, as the Asian financial hub prepares for one of its strongest super typhoons in years.
-
-Hong Kong’s Airport will be closed from 8pm on Sep 23 to 8am on Sep 25, Qantas said in a statement, adding that it would contact customers who are affected.
-
-A spokesperson for Airport Authority Hong Kong said it is closely monitoring the developments regarding the super typhoon, named Ragasa, and has commenced preparations to deal with the storm. But it has not made an official announcement on the closure.
-
-Hong Kong’s Observatory said it would issue the lowest typhoon signal at noon on Monday, upgrading it to the second-highest highest on Monday night between 8pm and 10pm.
-
-...
-
-[Data](articles/d1ff429c.json)
-
-[Extended Data](ext_articles/d1ff429c.ext.json)
 
 ---

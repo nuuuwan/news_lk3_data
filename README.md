@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 17:42:42**
+As of **2025-09-22 18:21:51**
 
 ## Newspaper Stats
 
-*Scraped **77,457** Articles*
+*Scraped **77,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,143 @@ economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,526
+adalk | 7,527
 adaderanalk | 10,024
-tamilmirrorlk | 11,651
+tamilmirrorlk | 11,653
 virakesarilk | 12,606
-adaderanasinhalalk | 13,531
+adaderanasinhalalk | 13,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,451 (100.0%) of 77,457 articles have been extended.
+77,460 (100.0%) of 77,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### සංශෝධන පනත අනුව වැඩ කරන්න ලංවිම සේවකයන් පිරිසකගේ කැමැත්ත
+### මෙරට බලශක්ති ස්වාධිපත්‍යය වෙනුවෙන් රජය නිරතුරුවම පෙනී සිටිනවා - ජනපති
+
+*2025-09-22 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214877) · `si`
+
+මෙරට බලශක්ති ස්වාධිපත්‍යය වෙනුවෙන් රජය නිරතුරුවම පෙනී සිටින බවත්, කිසිදු අවස්ථාවක විදුලිබල ක්ෂේත්‍රය පෞද්ගලික ආයතන වෙත පැවරීමේ අවශ්‍යතාවක් රජයට නොමැති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+
+මෙරට ආර්ථික වර්ධනය, ජාතික ආරක්ෂාව සහ ස්වෛරීත්වය වෙනුවෙන් බලශක්ති ස්වාධිපත්‍යය තහවුරු කිරීම රජයේ ස්ථාවරත්වය බවත්, රජයට අවශ්‍ය වන්නේ විදුලිබල ක්ෂේත්‍රයේ ආයතන ව්‍යුහයේ පවතින වියවුල්භාවය නිරාකරණය කර ගනිමින් විධිමත් ආයතන පද්ධතියක් ගොඩනැගීම බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ විදුලිබල ක්ෂේත්‍රයේ නව ප්‍රතිසංස්කරණ කටයුතු පිළිබඳ ප්‍රගති සමාලෝචන සාකච්ඡාවකට අද (22) ජනාධිපති කාර්යාලයේදී එක්වෙමිනි.
+
+විදුලිබල ක්ෂේත්‍රයේ නව ප්‍රතිසංස්කරණ සඳහා පත් කරන ලද කමිටු සාමාජිකයන් සහ විදුලිබල ජනන ලංකා සමාගම, ජාතික සම්ප්‍රේෂණ ජාල සැපයුම් සමාගම, විදුලිබල බෙදාහැරීම් ලංකා සමාගම, ජාතික පද්ධති මෙහෙයුම් සමාගම ඇතුළු අලුතින් ස්ථාපිත කරන ලද සමාගම්හි අධ්‍යක්ෂ මණ්ඩල සාමාජිකයෝ මෙම සාකච්ඡාවට එක්ව සිටියහ.
+
+...
+
+[Data](articles/a584776b.json)
+
+---
+
+### Opposition parties who met Mahinda
+
+*2025-09-22 17:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்து-நலம்-விசாரித்த-எதிர்க்கட்சியினர்/175-365074) · `ta`
+
+United People's Power (SJB) MPs Hesha Vidhanage and Dileep Wetharachchi have met former President Mahinda Rajapaksa in Tangalle.
+
+According to reports, the meeting took place at the Carlton residence in Tangalle where Mahinda Rajapaksa is currently living.
+
+It is reported that MPs Hesha Vidhanage and Dilip Wetarachchi met him to inquire about the former president's welfare.
+
+Hesha Vidhanage had previously represented the Sri Lanka Freedom Party (SLFP) as the Chairman of the Embilipitiya Pradeshiya Sabha, while United People's Power Member Dilip Vedarachchi represents the Hambantota district in Parliament.
+
+◼️
+
+[Data](articles/41c95860.json)
+
+[Extended Data](ext_articles/41c95860.ext.json)
+
+---
+
+### Employees' Trade Unions Final decision on Wednesday
+
+*2025-09-22 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214876) · `si`
+
+All professional societies of the Ceylon Electricity Board (CEB) has decided to continue the trade union action to be launched by now until Wednesday.
+
+The General Secretary of the Ceylon Electricity Board (Ceylon Electricity) of the Ceylon Electricity Board (CEB) at a press conference held today (22), Mr. Prabhakantha said that.
+
+They said that if the authorities were not resolved to their demands, they decided to appear in the next 24 trade measures on the 24th.
+
+"After the 25 trade unions once again meeting the 25 trade unions, the 25-day strike decision to take a good discussion, we will definitely take a good discussion. It is clearly on Wednesdays on Wednesdays.
+
+◼️
+
+[Data](articles/2231697f.json)
+
+[Extended Data](ext_articles/2231697f.ext.json)
+
+---
+
+### Refusal to journalist
+
+*2025-09-22 17:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளருக்கு-அனுமதி-மறுப்பு-யூரியூப்பருக்கு-அனுமதி/175-365073) · `ta`
+
+The 30th anniversary commemoration of the 21 student wealth was observed on Monday (22) in the air attack at the Maha Vidyalaya in Nagercoil by the Sri Lanka Air Force.
+
+A memorial flame was lit at the Memorial at the Maha Vidyalaya in Nagercoil.
+
+The relatives of the students who were assassinated, the public, political dignitaries, students and school teachers were present at the tribute.
+
+However, when the newspapers went to collect the news at the event, the Zonal Education Director did not grant permission.
+
+When journalists telephoned the Vadamarachchi Zonal Educator in this regard, he was asked to journalists
+
+The journalists were denied permission by the Maha Vidyalaya in Nagercoil as he had telephoned the school principal.
+
+However, a relative of the Chancellor, Valvettithurai, was allowed to record the events of the commemoration events.
+
+They were paid tribute to the child who died at the Memorial at the Maha Vidyalaya in Nagercoil.
+
+◼️
+
+[Data](articles/d56d92a4.json)
+
+[Extended Data](ext_articles/d56d92a4.ext.json)
+
+---
+
+### Following the amendment Act, the consent of the CEB employees
 
 *2025-09-22 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214875) · `si`
 
-ලංකා විදුලිබල සංශෝධන පනත අනුව පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත සමාගම් 4ක සේවය සඳහා එක්වීමට ලංකා විදුලිබල මණ්ඩල සේවකයින් පිරිසක් කැමැත්ත පළ කර තිබේ.
+Ceylon Electricity Board (CEB) has agreed to join the four full state owned companies established in terms of the Ceylon Electricity amendment Act.
 
-අද (22) පෙරවරුවේ ලංකා විදුලිබල මණ්ඩල මූලස්ථානයේදී, එම සේවකයින් විසින් සිය කැමැත්ත පළ කිරීමේ ලිපි ලංකා විදුලිබල මණ්ඩලයේ සභාපති මහාචාර්ය උදයංග හේමපාල මහතා වෙත ලබා දුන් බව බලශක්ති අමාත්‍යංශය සඳහන් කළේය.
+The Ceylon Electricity Board (CEB) has been given letters to the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
 
-ඒ අනුව විදුලිබල (සංශෝධිත) පනත අනුව පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත ජාතික පද්ධති පාලන (පුද්ගලික) සමාගම, ජාතික සම්ප්‍රේෂණ ජාල සේවා සැපයුම් (පුද්ගලික) සමාගම, විදුලිබල බෙදාහැරීමේ ලංකා (පුද්ගලික) සමාගම සහ විදුලි ජනන ලංකා (පුද්ගලික) සමාගම යන සමාගම් 04කට අදාළ සේවක පිරිස් සම්බන්ධ කරනු ඇති.
+Accordingly, the National Transmission Network Development (Pvt) Ltd Distribution Ceylon (Private) Limited (Pvt) Ltd, the Electricity Distribution of Electricity Company (Pvt) Ltd will be included in the Power and Ceylon Electricity Company (Pvt) Ltd.
 
-විදුලිබල ක්ෂේත්‍රය සංවර්ධනය කිරීමට අවශ්‍ය  ව්‍යුහාත්මක වෙනස්කම් කරමින් ක්‍රියාත්මක ප්‍රතිව්‍යුහගතකරණ වැඩපිලිවෙලට විදුලිබල මණ්ඩලයේ සේවකයින්ගේ ප්‍රසාදය ලැබෙමින් පවතින බව මෙමගින් පෙන්නුම් කෙරෙන බව ද බලශක්ති අමාත්‍යංශය සඳහන් කළේය.
+The Ministry of Energy stated that the CEB employees are being welcomed by the CEB employees in the restructuring program that is necessary to develop the electricity sector.
 
 ◼️
 
 [Data](articles/58f27d45.json)
 
+[Extended Data](ext_articles/58f27d45.ext.json)
+
 ---
 
-### யாழ்.பெண் ஊடகவியலாளரை பகிரங்கமாக அச்சுறுத்திய நபர்
+### The person who publicly threatened the Jaffna female journalist
 
 *2025-09-22 17:12:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பெண்-ஊடகவியலாளரை-பகிரங்கமாக-அச்சுறுத்திய-நபர்/175-365072) · `ta`
 
-வடக்கு கல்வியில் இடம்பெறும் முறைகேடுகள் தொடர்பில் நடவடிக்கை எடுக்க    வலியுறுத்தியும் வடமாகாண கல்வி அமைச்சின் செயலாளரை மாற்ற வேண்டும் என கோரி   யாழ். முத்திரைச் சந்தியில்  அமைந்துள்ள வடமாகாண கல்வித் திணைக்களத்துக்கு முன்பாக  சிவசேனை அமைப்பினரால் திங்கட்கிழமை (22) போராட்டம் முன்னெடுக்கப்பட்டது.
+The Northern Provincial Ministry of Education should be replaced by the Northern Provincial Ministry of Education. The protest was carried out by the Shiv Sena organization on Monday (22) in front of the Northern Province Department of Education, located at the Stamp Junction.
 
-இந்த போராட்டத்தை செய்தி சேகரிக்கச் சென்ற யாழ். பெண் ஊடகவியலாளர் சுமதி தங்கராசாவை, தனி நபர் ஒருவர் பகிரங்கமாக அச்சுறுத்தினார்.
+Jaffna went to collect this struggle. An individual threatened female journalist Sumathi Thangarasa publicly.
 
-உங்கள மாதிரி ஆட்களால்தான் நாடே நாசமா போது, நீங்கள் எல்லாம் மீடியா இல்ல ஊர கெடுக்கும் ஆக்கள், என்று அந்த பெண் ஊடகவியலாளரை அச்சுறுத்தி விட்டு சென்றுவிட்டார்.
+When the country is ruined by your model, the woman has threatened the journalist, saying that you are all the media.
 
 ◼️
 
 [Data](articles/43486f37.json)
+
+[Extended Data](ext_articles/43486f37.ext.json)
 
 ---
 
@@ -148,6 +238,8 @@ Investigations also led to the recovery of 10 packets containing ‘Ice’ from 
 
 [Data](articles/fa69550e.json)
 
+[Extended Data](ext_articles/fa69550e.ext.json)
+
 ---
 
 ### Speaker's Certificate to National Audit (Amendment) Bill
@@ -190,6 +282,8 @@ Accordingly, the main objective of these amendments are to provide provisions fo
 
 [Data](articles/d9eaa86e.json)
 
+[Extended Data](ext_articles/d9eaa86e.ext.json)
+
 ---
 
 ### Israel bolsters military presence over Jewish New Year holiday period
@@ -209,6 +303,8 @@ The decision followed a military investigation that found Hamas took advantage o
 ◼️
 
 [Data](articles/792dbec0.json)
+
+[Extended Data](ext_articles/792dbec0.ext.json)
 
 ---
 
@@ -231,6 +327,8 @@ Accordingly, the petition has been fixed for hearing on March 26 next year.
 ...
 
 [Data](articles/f23be74c.json)
+
+[Extended Data](ext_articles/f23be74c.ext.json)
 
 ---
 
@@ -393,6 +491,18 @@ The NCPI for all items for the month of August 2025 is 207.2 and it records a de
 [Data](articles/af26fb53.json)
 
 [Extended Data](ext_articles/af26fb53.ext.json)
+
+---
+
+### රාජ්‍ය සේවයට අලුතෙන් 70000ක්
+
+*2025-09-22 15:38:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයට-අලුතෙන්-70000ක්/11-418652) · `si`
+
+නැගෙනහිර පළාතේ සෞඛ්‍ය සංවර්ධනය උදෙසා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය ගෙන යන වැඩපිළිවෙල යටතේ අම්පාර දිස්ත්‍රික්කයේ සෞඛ්‍ය ආයතන තුළින් ජනතාවට ලබාදෙන සෞඛ්‍ය සේවාවන් පිළිබඳ විශේෂ සාකච්ජාවක් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සහ අම්පාර දිස්ත්‍රික්කයේ සියලු සෞඛ්‍ය ආයතන ප්‍රධානීන් සහ රාජ්‍ය ආයතන ප්‍රධානින්ගේ සහභාගීත්වයෙන් පසුගියදා  අම්පාර ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ කාර්යාලයේ දී පැවැත්විණි.
+
+...
+
+[Data](articles/2368f829.json)
 
 ---
 
@@ -1923,115 +2033,5 @@ Two golden magazines suspected of resource Majarakri suspected and a hand grenad
 [Data](articles/10eb39b6.json)
 
 [Extended Data](ext_articles/10eb39b6.ext.json)
-
----
-
-### Weapons & ammunition belonging to Sampath Manamperi found in Middeniya
-
-*2025-09-22 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112753/weapons-ammunition-belonging-to-sampath-manamperi-found-in-middeniya) · `en`
-
-Police have recovered a 9mm pistol, two T-56 magazines, 115 rounds of T-56 ammunition, and a hand grenade, suspected to belong to Sampath Manamperi.
-
-The items were discovered buried in a plot of land in Middeniya, the Police Media Spokesman stated.
-
-Investigations revealed that these firearms and ammunition were reportedly provided to Sampath Manamperi by underworld figure ‘Backhoe Saman’ around two months ago.
-
-Interrogations further indicated that Sampath Manamperi had buried the firearms and ammunition behind the house of a female acquaintance.
-
-Sampath Manamperi is currently in remand over the earlier recovery of buried containers containing chemicals.
-
-The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics Bureau (PNB) permission to detain Sampath Manamperi for seven days for questioning. He is accused of concealing two containers of raw materials reportedly used in the production of the drug ‘Ice,’ allegedly belonging to underworld figure Kehelbaddara Padme.
-
-...
-
-[Data](articles/9385705d.json)
-
-[Extended Data](ext_articles/9385705d.ext.json)
-
----
-
-### President to visit Japan on the 27th
-
-*2025-09-22 09:22:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිගේ-ජපාන-සංචාරය-27දා-ඇරඹෙයි/11-418642) · `si`
-
-According to the Japanese government's invitation, President Anura Kumara Dissanayake will visit Japan from 27th to 30th September to 30th.
-
-During the visit, President Dissanayake is scheduled to meet the Japanese emperor. The President also holds a convention meeting to bring about a number of mutual important issues with the Prime Minister of Japan.
-
-President Dissanayake will address the top Japanese businessmen and investors' leader in Tokyo's leading Japanese businesses and investors, focusing on the growing economic opportunities in Sri Lanka.
-
-President Dissanayake will also participate in the Exposants of Japan, Japanese Government's invitation on the 2025 Expo exhibition. The purpose of this exhibition is to display Sri Lanka's cultural heritage and economic skills in the face of the international community.
-
-The President will also address members of the Sri Lankan communal community in Japan.
-
-...
-
-[Data](articles/be2ec177.json)
-
-[Extended Data](ext_articles/be2ec177.ext.json)
-
----
-
-### A teacher of the sand tip to a teacher
-
-*2025-09-22 09:17:49* · [`adalk`](https://www.ada.lk/breaking_news/වැලි-ටිපරයට-ගුරුවරයෙක්-බිලි/11-418641) · `si`
-
-According to Dambulla Police, a Tipper Teacher killed in a tipper in Dambulla in Trincomalee main road.
-
-Dambulla Police Inspector Sugagala Police Savath Wijesundara revealed that the accident had occurred when the road to switch to Dambulla to Dambulla.
-
-The deceased has been identified as 56 year old ministerial teacher from Sanasella Mawatha, Dambulla.
-
-The tipper and the driver was transporting sand and the driver of sand has been arrested, the death of the death of death.
-
-Dambulla Police are conducting further investigations. The remains are placed at the Dambulla basic hospital.
-
-◼️
-
-[Data](articles/6237996e.json)
-
-[Extended Data](ext_articles/6237996e.ext.json)
-
----
-
-### President Dissanayake to undertake an official visit to Japan
-
-*2025-09-22 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112752/president-dissanayake-to-undertake-an-official-visit-to-japan) · `en`
-
-At the invitation of the Government of Japan, President Anura Kumara Dissanayake will undertake an Official Visit to Japan from September 27-30, 2025.
-
-During the visit, President Dissanayake will have an audience with His Majesty the Emperor of Japan and he will hold a summit meeting with the Japanese Prime Minister on a wide range of issues of mutual interest, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-President Dissanayake will address a Business Forum attended by high-level representatives of key Japanese businesses and investors in Tokyo focused on emerging economic opportunities in Sri Lanka.
-
-President Dissanayake will also attend “EXPO 2025 Osaka” as a Guest of the Government of Japan on the occasion of Sri Lanka Day at the Expo 2025. The event aims to highlight Sri Lanka’s cultural heritage and economic potential before an international audience, the statement said.
-
-...
-
-[Data](articles/42dd9a01.json)
-
-[Extended Data](ext_articles/42dd9a01.ext.json)
-
----
-
-### Trump hails Charlie Kirk as ‘American hero’ as thousands fill memorial service
-
-*2025-09-22 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112751/trump-hails-charlie-kirk-as-american-hero-as-thousands-fill-memorial-service) · `en`
-
-US President Donald Trump hailed the conservative activist Charlie Kirk as a “great American hero” and “martyr” during a speech to tens of thousands of mourners at a memorial service in Arizona.
-
-Trump was the headline speaker at the packed event on Sunday, which saw top officials from his administration, including Vice-President JD Vance, praise Kirk’s political legacy after he was shot dead on 10 September.
-
-“He was assassinated because he lived bravely, he lived boldly and he argued brilliantly,” Trump told the crowd at the State Farm Stadium near Phoenix.
-
-Kirk’s wife, Erika, also delivered a tearful speech in which she said she had forgiven her husband’s alleged killer.
-
-“My husband, Charlie, he wanted to save young men, just like the one who took his life,” she said, adding: “I forgive him because it is what Christ did. The answer to hate is not hate.”
-
-...
-
-[Data](articles/a5d3a7e0.json)
-
-[Extended Data](ext_articles/a5d3a7e0.ext.json)
 
 ---

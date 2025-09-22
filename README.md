@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 12:15:28**
+As of **2025-09-22 12:26:27**
 
 ## Newspaper Stats
 
-*Scraped **77,387** Articles*
+*Scraped **77,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,21 +18,91 @@ islandlk | 4,761
 dailyftlk | 5,496
 adalk | 7,517
 adaderanalk | 10,008
-tamilmirrorlk | 11,639
+tamilmirrorlk | 11,641
 virakesarilk | 12,597
-adaderanasinhalalk | 13,515
+adaderanasinhalalk | 13,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,384 (100.0%) of 77,387 articles have been extended.
+77,387 (100.0%) of 77,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### என்னாடா அணைய மாட்டேங்குது...
+### கொரோனா விவகாரம்: சீன பத்திரிக்கையாளருக்கு தண்டனை நீடிப்பு
+
+*2025-09-22 12:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கொரோனா-விவகாரம்-சீன-பத்திரிக்கையாளருக்கு-தண்டனை-நீடிப்பு/50-365054) · `ta`
+
+சீனாவில் கொரோனா தொற்று பரவியுள்ளதை பற்றி முதலில் தெரிவித்த பெண் பத்திரிகையாளருக்கு மேலும் 4 ஆண்டுகளுக்கு சிறைத் தண்டனை நீட்டிக்கப்பட்டுள்ளது.
+
+சீனாவில் இருந்துதான் கொரோனா தொற்று பரவத் தொடங்கியதாக கூறப்படும் நிலையில், 42 வயதான ஜாங் ஜான் என்ற சீன பெண் பத்திரிக்கையாளார் கொரோனா ஆரம்பகால பரவல் குறித்து சீனாவின் வூஹான் நகரில் இருந்து நேரடி அறிக்கைகளை வெளியிட்டார்.
+
+இதையடுத்து, ஜாங் ஜான் மீது மக்கள் மத்தியில் குழப்பத்தை ஏற்படுத்த முயற்சித்தார், மக்களிடையே விவாதத்தைத் தூண்டினார் என்று சீன அரசால் வழக்கு தொடரப்பட்டது. இதனைத் தொடர்ந்து ஜாங் ஜான் கைது செய்யப்பட்டார். டிசம்பர் 2020 -ல் அவருக்கு நான்கு ஆண்டுகள் சிறைத் தண்டனை விதிக்கப்பட்டது.
+
+கைது செய்யப்பட்ட ஒரு மாதத்திற்குப் பிறகு சிறையில், உண்ணாவிரதப் போராட்டத்தில் ஈடுபட்டார். இந்த நிலையில், 2024 மே மாதம் அவர் சிறையில் இருந்து விடுவிக்கப்பட்டார். பின்னர் மூன்று மாதங்களுக்குப் பிறகு அவர் மீண்டும் கைது செய்யப்பட்டார்.
+
+இரண்டாவது முறையாக கைது செய்யப்பட்டபோது, ஜாங் என்ன நடவடிக்கைகளுக்காக குற்றம் சாட்டப்பட்டார் என்பதை சீன அதிகாரிகள் சரியாக குறிப்பிடவில்லை.
+
+...
+
+[Data](articles/6470e085.json)
+
+---
+
+### අයිස් සහ හෙරොයින් කිලෝ 200ක් ප්‍රවාහනය කළ ලොරි රථයක් තංගල්ලේදී අල්ලයි
+
+*2025-09-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214860) · `si`
+
+අයිස් මත්ද්‍රව්‍ය සහ හෙරොයින් කිලෝග්‍රෑම් 200ක් පමණ ප්‍රවාහනය කළ ලොරි රථයක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ තංගල්ල ප්‍රදේශයේදී මෙම මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබියදී මෙම ලොරි රථය පොලිස් භාරයට ගත් බවය.
+
+◼️
+
+[Data](articles/d4561941.json)
+
+---
+
+### ජයගත්පුර වෙරළ තීරයට නිරුවත් මළ සිරුරක් ගොඩගසයි
+
+*2025-09-22 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214859) · `si`
+
+මොරටුව - එගොඩඋයන පොලිස් බල ප්‍රදේශයේ මෝදර, ජයගත්පුර වෙරළ තීරයට අද (22) උදෑසන නිරුවත් මළ සිරුරක් ගොඩගසා තිබේ.
+
+එගොඩඋයන පොලිස් ස්ථානයට ලද තොරතුරක් මත මෙම මළ සිරුර සොයා ගෙන ඇත.
+
+කෙසේවෙතත් මිය ගොස් සිටින පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් හඳුනාගෙන නොමැති බව පොලීසිය පැවසුවේය.
+
+එමෙන්ම අදාළ පුද්ගලයා වයස අවුරුදු 50ත් 60ත් අතර සීමාවක පසුවන්නෙකු බවට පොලීසිය සැක පළ කරන්නේය.
+
+◼️
+
+[Data](articles/2134060a.json)
+
+---
+
+### 22 அன்று 21 வது பிறந்த நாள்: 21 அன்று இடம்பெற்ற விபத்தில் 22 அன்று மரணம்
+
+*2025-09-22 11:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/22-அன்று-21-வது-பிறந்த-நாள்-21-அன்று-இடம்பெற்ற-விபத்தில்-22-அன்று-மரணம்/76-365052) · `ta`
+
+செப்டம்பர் 22 ஆம் திகதி, திங்கட்கிழமை (22) தனது 21 வது பிறந்தநாளை கொண்டாடும் இளைஞன், 21 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற விபத்தில் படுகாயமடைந்து, 22 ஆம் திகதியன்று மரணமடைந்த சம்பவம் நுவரெலியாவில் இடம்பெற்றுள்ளது.
+
+வேகமாக சென்ற லொறி ஒன்றில் மோட்டார் சைக்கிள் மோதி விபத்துக்குள்ளாகியது. அதை செலுத்தி சென்ற இளைஞர் படுகாயமடைந்து நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் திங்கட்கிழமை (22) காலை உயிரிழந்தார் என்று நுவரெலியா பொலிஸ் போக்குவரத்து பிரிவின் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இந்த விபத்தில் உயிரிழந்தவர் நுவரெலியாவின் ஹாவா எலிய பகுதியைச் சேர்ந்த மனித் அபூர்வ என அடையாளம் காணப்பட்டுள்ளார்.
+
+இராகலை-நுவரெலியா பிரதான வீதியில் ஹாவாஎலிய சந்தியில் ஞாயிற்றுக்கிழமை 21)  இரவு 9:30 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+...
+
+[Data](articles/010d69b4.json)
+
+---
+
+### Ennada ...
 
 *2025-09-22 11:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னாடா-அணைய-மாட்டேங்குது/175-365050) · `ta`
 
@@ -40,21 +110,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/3bf7c72f.json)
 
+[Extended Data](ext_articles/3bf7c72f.ext.json)
+
 ---
 
-### යෝෂිතට එරෙහි නඩුව යළි කැඳවීමට දිනයක්
+### Day to recall the case against Yoshitha
 
 *2025-09-22 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214858) · `si`
 
-මුදල් විශුද්ධීකරණය වැළැක්වීමේ පනත යටතේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ පුත් යෝෂිත රාජපක්ෂ මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුව ඔක්තෝම්බර් මස 15 වන දා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කර තිබේ.
+The Colombo High Court has set the case to be summoned by the Attorney General on October 15.
 
-මෙම නඩුව කැඳවූ අවස්ථාවේදී විත්තිකරුවන් වශයෙන් නම්කර සිටින යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් අධිකරණයේ පෙනී සිටියේය.
+When the case was taken up, Yoshitha Rajapaksa and his grandmother, named Daisy Forrest, appeared in court.
 
-රුපියල් මිලියන 73 කට ආසන්න වත්කම් හා දෙපොළ අයථා ලෙස අත්පත් කර ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා කොට නීතිපතිවරයා විසින් යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් යන අයට එරෙහිව මෙම නඩුව ගොනු කර තිබේ.
+The Attorney General has accused the case with the Cash Brigation Act of Rs.
 
 ◼️
 
 [Data](articles/bbda7974.json)
+
+[Extended Data](ext_articles/bbda7974.ext.json)
 
 ---
 
@@ -220,19 +294,21 @@ These guns and bullets were recovered based on investigations conducted by Becko
 
 ---
 
-### மனம்பேரியின் தங்க நிற மெகசின்கள் மித்தெனியவில் மீட்பு
+### Recovery in Manamperi's golden megacins
 
 *2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனம்பேரியின்-தங்க-நிற-மெகசின்கள்-மித்தெனியவில்-மீட்பு/175-365041) · `ta`
 
-தடுப்புக்காவலில் வைக்கப்பட்டுள்ள சம்பத் மனம்பேரியால் புதைக்கப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு தங்க நிற மெகசின்கள், ஒரு 9 மிமீ பிஸ்டல், ஒரு கைக்குண்டு மற்றும் 115, T-56 தோட்டாக்கள் ஆகியவை மித்தெனிய பகுதியில் உள்ள ஒரு காணியில் கண்டுபிடிக்கப்பட்டுள்ளன.
+Two golden megacins, one 9mm pistol, one handbag, and 115, T-56 bullets, suspected of buried by Sampath Manamperi, have been found in a land in Mitteniya.
 
-பெக்கோ சமன் இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்களை 2 மாதங்களுக்கு முன்பு சம்பத் மனம்பேரியிடம் கொடுத்ததாகவும், அவை அவரது நெருங்கிய ஒருவரின் வீட்டில் புதைக்கப்பட்டதாகவும் கூறப்படுகிறது.
+It is said that Becko Saman gave these guns and bullets to Sampath Manamperi 2 months ago and buried in the house of his close one.
 
-பெக்கோ சமன் மற்றும் சம்பத் மனம்பேரியவிடம் நடத்தப்பட்ட விசாரணைகளின் அடிப்படையில், இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்கள் மீட்கப்பட்டன.  R
+These guns and bullets were recovered based on investigations conducted by Becko Saman and Sampath Manamperiya.  R
 
 ◼️
 
 [Data](articles/e66b00d2.json)
+
+[Extended Data](ext_articles/e66b00d2.ext.json)
 
 ---
 
@@ -1955,87 +2031,5 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining t
 [Data](articles/10e4fe45.json)
 
 [Extended Data](ext_articles/10e4fe45.ext.json)
-
----
-
-### Daughter killed by daughter and father Patriarch
-
-*2025-09-21 18:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மகள்-தந்தையின்-விபரீத-முடிவால்-மகள்-பலி-தந்தை-கவலைக்கிடம்/76-365011) · `ta`
-
-The death of a 17 -year -old daughter who was unable to bear the loss of a 17 -year -old daughter has taken place at the Dianilla estate of Madulkalai, Kandy, which is under the Panwila Police Division.
-
-A Yuvati man sighed on the 19th. The tragedy's father cut off his neck.
-
-The body of a 17 -year -old woman has been taken to Kandy Hospital for autopsy. Further investigations are being carried out by the Panwila police.
-
-◼️
-
-[Data](articles/03523284.json)
-
-[Extended Data](ext_articles/03523284.ext.json)
-
----
-
-### Investigations at Ella bus accident
-
-*2025-09-21 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214835) · `si`
-
-Investigations carried out by the Department of Motor Traffic has been completed in connection with 16 persons who had lost their lives.
-
-The report has been prepared, it is reported that it is to be handed over to the Commissioner General of Motor Traffic in the next two days.
-
-A bus on a picnic on the 24th kilometer post on the 24 km on the Ella-Wellawaya road, a bus on a picnic was in a precipice on a precipice on the 4 night.
-
-16 people died in the accident and 16 others were wounded.
-
-Appointment of a five-member committee was appointed under the patronage of a Deputy Commissioner General of Motor Traffic to investigate the accident.
-
-A spokesman for the committee said that the report had been prepared after the length of the committee.
-
-According to the report of the relevant committee, it has been revealed that the bus was not properly maintained and has been identified as the brake system.
-
-It has also been revealed that the bus driver had acted properly regarding the road in the area.
-
-...
-
-[Data](articles/9067bd74.json)
-
-[Extended Data](ext_articles/9067bd74.ext.json)
-
----
-
-### Government should take steps to hold provincial council elections
-
-*2025-09-21 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225686) · `ta`
-
-Members of the Northern Provincial Council, which pointed out that no one can do the absence of a provincial system in violation of India, urged the government to take action to implement the provincial council system that ensures the existence of the Tamil people.
-
-A discussion was held on Sunday (21st) in the Northern Provincial Council in Jaffna to emphasize the past experiences and the provincial council election.
-
-Former Opposition Leader of the Northern Provincial Council, S. Dawarasa, Ministers Gurukularajah, Dr. Sarveeswaran, Members Saba Kukadas, Kesavan Sayanthan, Gajadeepan, Arnold, Sukirthan, Tawanathan and Kamalendran were present at the meeting.. They said this during a media briefing held after the discussion.
-
-...
-
-[Data](articles/3ba8d18a.json)
-
-[Extended Data](ext_articles/3ba8d18a.ext.json)
-
----
-
-### I want to make Namal's future
-
-*2025-09-21 18:56:08* · [`adalk`](https://www.ada.lk/breaking_news/මට-නාමල්ගේ-අනාගතය-හදන්න-ඕන/11-418635) · `si`
-
-Former Minister, Managing Rhitha Rohitha Rohitha Abeygunawardena, said he wanted to create the future of MP Namal Rajapaksa and that he had not left the KCM.
-
-He was responding to the media's questions at a function held at a function held at a function held in order to celebrate his birth. He added that he had never followed the posts and followed the posts.
-
-"I didn't leave the quotas. The homile not left me. Namal makes me want to build the future of Rajapaksa. Those who have been spontaneously sprouted. "
-
-◼️
-
-[Data](articles/1cedaf62.json)
-
-[Extended Data](ext_articles/1cedaf62.ext.json)
 
 ---

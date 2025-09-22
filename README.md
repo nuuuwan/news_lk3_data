@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 18:21:51**
+As of **2025-09-22 19:02:35**
 
 ## Newspaper Stats
 
-*Scraped **77,462** Articles*
+*Scraped **77,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,103 @@ islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,527
 adaderanalk | 10,024
-tamilmirrorlk | 11,653
+tamilmirrorlk | 11,654
 virakesarilk | 12,606
-adaderanasinhalalk | 13,533
+adaderanasinhalalk | 13,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,460 (100.0%) of 77,462 articles have been extended.
+77,465 (100.0%) of 77,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### මෙරට බලශක්ති ස්වාධිපත්‍යය වෙනුවෙන් රජය නිරතුරුවම පෙනී සිටිනවා - ජනපති
+### LTTE's 6,000 gold items handed over to Central Bank: CIT
+
+*2025-09-22 18:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளின்-6-000-தங்கப்-பொருட்கள்-மத்திய-வங்கியிடம்-ஒப்படைப்பு-சிஐடி/150-365076) · `ta`
+
+Of the 10,000 gold items believed to be owned by the LTTE, 6,000 items sent to the National Gemstones and Jewelry Commission on a court order have now been handed over to the Central Bank of Sri Lanka.. Has been told to Bodaragama.
+
+During the humanitarian operation, the rescued gold items were recovered from camps, illegal banks and buildings in the Northern and Eastern Provinces.
+
+The court had previously ordered the National Gemstone and Jewelry Commission to inspect 10,000 gold items and submit a detailed report to the court and the CIT.
+
+CIT officials told the court that 6,000 items were transferred to the Central Bank, referring to the content and weight of gold.
+
+When the case was taken up in court, they submitted this information by submitting a progress report.
+
+It was previously brought to the notice of the court that the gold items recovered in the Northern and Eastern Provinces were automatically presented to the LTTE by the locals, or that the LTTE was forcibly taken from them.
+
+◼️
+
+[Data](articles/53b03b19.json)
+
+[Extended Data](ext_articles/53b03b19.ext.json)
+
+---
+
+### Woman remanded for illegal gold
+
+*2025-09-22 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214879) · `si`
+
+Customs officers were arrested by customs officers at the Jaffna International Airport.
+
+Two Capsules that contain a substance that has been hidden into a gold that weighing 1,002.2 grams hidden have been found.
+
+She has come from Chennai yesterday and is a 41-year-old resident of Colombo 12.
+
+The suspect was produced before the Mallacam Magistrate's Court until 14 days.
+
+◼️
+
+[Data](articles/d4a0ad3f.json)
+
+[Extended Data](ext_articles/d4a0ad3f.ext.json)
+
+---
+
+### A controversial revelation from Public Defense Minister
+
+*2025-09-22 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214878) · `si`
+
+It is revealed that there is information that the South politicians are involved in drugs and organized crimes.
+
+Addressing a media briefing held today (22), the minister said that this is now revealed on information and intelligence information provided by the public.
+
+The present government has increased the organized crime and the drug network due to the recent political culture, the current government has paid special attention to that today.
+
+"We need to say a matter of the people of the country. It has been revealed that there are political ties on special drug and organized crime. Especially the politicians of the South are involved. Especially the public is currently being provided with information. The police are actively serving as duty. Intelligence information is getting large. Give the information to the police knowing the public. Safeguarding that information and the person's safety. "
+
+◼️
+
+[Data](articles/d527b02e.json)
+
+[Extended Data](ext_articles/d527b02e.ext.json)
+
+---
+
+### The government constantly stands for the energy sovereignty of Sri Lanka - President
 
 *2025-09-22 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214877) · `si`
 
-මෙරට බලශක්ති ස්වාධිපත්‍යය වෙනුවෙන් රජය නිරතුරුවම පෙනී සිටින බවත්, කිසිදු අවස්ථාවක විදුලිබල ක්ෂේත්‍රය පෞද්ගලික ආයතන වෙත පැවරීමේ අවශ්‍යතාවක් රජයට නොමැති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+President Anura Kumara Dissanayake emphasized that the government has always appeared to the power sovereignty of the country.
 
-මෙරට ආර්ථික වර්ධනය, ජාතික ආරක්ෂාව සහ ස්වෛරීත්වය වෙනුවෙන් බලශක්ති ස්වාධිපත්‍යය තහවුරු කිරීම රජයේ ස්ථාවරත්වය බවත්, රජයට අවශ්‍ය වන්නේ විදුලිබල ක්ෂේත්‍රයේ ආයතන ව්‍යුහයේ පවතින වියවුල්භාවය නිරාකරණය කර ගනිමින් විධිමත් ආයතන පද්ධතියක් ගොඩනැගීම බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+The President said that the state stability of the government is the consolidation of the economic growth, national security and sovereignty of Sri Lanka.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ විදුලිබල ක්ෂේත්‍රයේ නව ප්‍රතිසංස්කරණ කටයුතු පිළිබඳ ප්‍රගති සමාලෝචන සාකච්ඡාවකට අද (22) ජනාධිපති කාර්යාලයේදී එක්වෙමිනි.
+President Anura Kumara Dissanayake said this at the Presidential Secretariat today (22) at the Presidential Secretariat today (22) at the Presidential Secretariat.
 
-විදුලිබල ක්ෂේත්‍රයේ නව ප්‍රතිසංස්කරණ සඳහා පත් කරන ලද කමිටු සාමාජිකයන් සහ විදුලිබල ජනන ලංකා සමාගම, ජාතික සම්ප්‍රේෂණ ජාල සැපයුම් සමාගම, විදුලිබල බෙදාහැරීම් ලංකා සමාගම, ජාතික පද්ධති මෙහෙයුම් සමාගම ඇතුළු අලුතින් ස්ථාපිත කරන ලද සමාගම්හි අධ්‍යක්ෂ මණ්ඩල සාමාජිකයෝ මෙම සාකච්ඡාවට එක්ව සිටියහ.
+Committees for new reforms in the electricity sector and electricity generation Ltd, the Board of Directors of the National Transmission Network Supply Company and the Board of Directors of the newly established companies, including the National System Operations Limited and other newly established companies, were present at the discussion.
+
+The President also pointed out that a new translation is essential for a new translation, increasing the efficiency of the electricity sector.
 
 ...
 
 [Data](articles/a584776b.json)
+
+[Extended Data](ext_articles/a584776b.ext.json)
 
 ---
 
@@ -494,15 +562,19 @@ The NCPI for all items for the month of August 2025 is 207.2 and it records a de
 
 ---
 
-### රාජ්‍ය සේවයට අලුතෙන් 70000ක්
+### 700,000 newly owned work to the public service
 
 *2025-09-22 15:38:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයට-අලුතෙන්-70000ක්/11-418652) · `si`
 
-නැගෙනහිර පළාතේ සෞඛ්‍ය සංවර්ධනය උදෙසා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය ගෙන යන වැඩපිළිවෙල යටතේ අම්පාර දිස්ත්‍රික්කයේ සෞඛ්‍ය ආයතන තුළින් ජනතාවට ලබාදෙන සෞඛ්‍ය සේවාවන් පිළිබඳ විශේෂ සාකච්ජාවක් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සහ අම්පාර දිස්ත්‍රික්කයේ සියලු සෞඛ්‍ය ආයතන ප්‍රධානීන් සහ රාජ්‍ය ආයතන ප්‍රධානින්ගේ සහභාගීත්වයෙන් පසුගියදා  අම්පාර ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ කාර්යාලයේ දී පැවැත්විණි.
+The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, was held under the patronage of the Ministry of Health and Mass Media to the Ministry of Health and Mass Media, the Chief of Health and Mass Media.
+
+In the Eastern Province, two main hospital, seven primary medical care and financial units of development projects, the current condition of the development projects, and the main health care, financial management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management. Repairs, field duties and transportation, data, nutritional problems and nutrition and nutrition, demonstration, the deviation program, the disposal and non-deviation program, expiry program, expired diseases, and the clinical waste disposal program was discussed.
 
 ...
 
 [Data](articles/2368f829.json)
+
+[Extended Data](ext_articles/2368f829.ext.json)
 
 ---
 
@@ -1979,59 +2051,5 @@ The Ministry further stated that various services will be provided through the s
 [Data](articles/e9ead4b4.json)
 
 [Extended Data](ext_articles/e9ead4b4.ext.json)
-
----
-
-### Two bodies recovered from Tangalle house under renovation
-
-*2025-09-22 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112754/two-bodies-recovered-from-tangalle-house-under-renovation) · `en`
-
-Police have recovered two bodies from an old house currently being renovated in the Seenimodara area of Tangalle.
-
-In addition, another body is lying at the hospital morgue, of a person who died shortly after being admitted to the Tangalle Base Hospital, Ada Derana reporter said.
-
-During the investigation, 10 packets of the drug ‘ICE’ have also been seized from a lorry which was parked near the premises.
-
-Police have commenced further investigations into the incident, while the Government Analyst is conducting post-mortem examinations.
-
-◼️
-
-[Data](articles/07729d79.json)
-
-[Extended Data](ext_articles/07729d79.ext.json)
-
----
-
-### Tangalle found two bodies of two bodies of a house in Sena Sena Seennodara
-
-*2025-09-22 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214854) · `si`
-
-Tangalle has a house bodies have been renovated in Seennimodara area.
-
-Police also recovered 10 packets of ice drugs in a lorry near the house at the investigation.
-
-Meanwhile, another person in the house had reached the Tangalle General Hospital due to an illness, and he was killed.
-
-The police have commenced investigations into the incident and the Government Analymist is conducting the tense test on the incident.
-
-◼️
-
-[Data](articles/79519bdd.json)
-
-[Extended Data](ext_articles/79519bdd.ext.json)
-
----
-
-### Firearms and ammunition suspected to be resomed Manamperi
-
-*2025-09-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214853) · `si`
-
-Two golden magazines suspected of resource Majarakri suspected and a hand grenade and a bullet found found in a land of Middeniya area.
-
-◼️
-
-[Data](articles/10eb39b6.json)
-
-[Extended Data](ext_articles/10eb39b6.ext.json)
 
 ---

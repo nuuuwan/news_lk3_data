@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 16:10:32**
+As of **2025-09-22 17:06:40**
 
 ## Newspaper Stats
 
-*Scraped **77,437** Articles*
+*Scraped **77,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,235 @@ economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,524
-adaderanalk | 10,018
-tamilmirrorlk | 11,647
-virakesarilk | 12,604
-adaderanasinhalalk | 13,525
+adalk | 7,525
+adaderanalk | 10,020
+tamilmirrorlk | 11,649
+virakesarilk | 12,606
+adaderanasinhalalk | 13,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,436 (100.0%) of 77,437 articles have been extended.
+77,446 (100.0%) of 77,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### ජාතික උද්ධමනය ඉහළට
+### பாக். விமானப்படை குண்டுவீச்சு: 30 பேர் உயிரிழப்பு
+
+*2025-09-22 16:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-விமானப்படை-குண்டுவீச்சு-30-பேர்-உயிரிழப்பு/50-365069) · `ta`
+
+கைபர் பக்துன்வா மாகாணத்தில் உள்ள ஒரு கிராமத்தில் பாகிஸ்தான் விமானப்படை 8 குண்டுகளை வீசித் தாக்கியதில், பெண்கள் மற்றும் குழந்தைகள் உட்பட 30 பேர் உயிரிழந்தனர்.
+
+இன்று  (22) அதிகாலை 2 மணியளவில் பஷ்துன் மக்கள் பெரும்பான்மையாக உள்ள மாட்ரே தாரா கிராமத்தில், பாகிஸ்தான் விமானப்படை ஜேஎஃப்-17 போர் விமானங்கள் எல்எஸ்-6 வகையைச் சேர்ந்த 8 குண்டுகளை வீசித் தாக்கின. இந்த தாக்குதலால் கிராமத்தின் பெரும்பகுதி அழிக்கப்பட்டது, இதில் பலர் காயமடைந்தனர். பெண்கள், குழந்தைகள் உட்பட 30 பேர் உயிரிழந்தனர்.
+
+விமானப்படை அப்பகுதியில் உள்ள தெஹ்ரீக்-இ-தலிபான் பாகிஸ்தான் (TTP) மறைவிடங்களை குறிவைத்து தாக்கியதாக தகவல்கள் வெளியாகியுள்ளன. ஆனால், இந்தத் தாக்குதலில் உயிரிழந்த அனைவரும் பொதுமக்கள் ஆவர்.
+
+சமீபத்திய நாட்களில், ஆப்கானிஸ்தானின் எல்லையை ஒட்டியுள்ள கைபர் பக்துன்வா மாகாணத்தில் பயங்கரவாதிகளுக்கு எதிரான நடவடிக்கைகளை பாகிஸ்தான் ராணுவம் தீவிரப்படுத்தியுள்ளது.
+
+...
+
+[Data](articles/4ab1a5bf.json)
+
+---
+
+### තංගල්ලේ ලොරි 3න් හමු වූ සමස්ථ මත්ද්‍රව්‍ය සහ ගිනිඅවි ගණන
+
+*2025-09-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214874) · `si`
+
+තංගල්ල ප්‍රදේශයේ සිදුකළ වැටලීම් වලදී මත්ද්‍රව්‍ය තොග තිබී හමු වූ ලොරි තුනේ තිබූ සම්පූර්ණ මත්ද්‍රව්‍ය ප්‍රමාණය සහ ගිනි අවි සංඛ්‍යාව පොලීසිය විසින් දැනුම් දී තිබේ.
+
+ඒ අනුව, හෙරොයින් කිලෝග්‍රෑම් 245 ක්, අයිස් කිලෝග්‍රෑම් 380 ක්, පිස්තෝල 05 ක් සහ ටී -56 අවියක් සොයා ගත් බව පොලීසිය වැඩිදුරටත් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/91697c0c.json)
+
+---
+
+### ජාතික විගණන (සංශෝධන) පනත් කෙටුම්පතට කථානායකගේ සහතිකය
+
+*2025-09-22 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214873) · `si`
+
+ජාතික විගණන (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා අද (22) සිය සහතිකය සටහන් කළේය.
+
+විගණන (සංශෝධන) පනත් කෙටුම්පත 2025.07.08 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර, 2025.09.11 දින සංශෝධන සහිතව පාර්ලිමේන්තුවේදී සම්මත විය.
+
+මෙම ජාතික විගණන (සංශෝධන) පනත් කෙටුම්පත මගින් 2018 අංක 19 දරන ජාතික විගණන පනත සංශෝධනය කිරීම අරමුණ කර ඇත.
+
+ඒ අනුව විගණකාධිපතිවරයා විසින් නිර්දේශ කරනු ලබන අධිභාර පැනවීම සම්බන්ධයෙන් තීරණ ගැනීම සඳහා එහි සංයුතිය, කාල සීමාවන් සහ ක්‍රියා පටිපාටි ඇතුළුව අධිභාර සමාලෝචන කමිටුවක් පිහිටුවීම සඳහා ප්‍රතිපාදන සැපයීම මෙම සංශෝධනවල ප්‍රධාන අරමුණ වී ඇත.
+
+තවද වංචා හෝ දූෂණ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීමේ ආයතනවලට පැමිණිලි කිරීමට විගණකාධිපතිවරයාට බලතල ලබාදීම සහ වාර්ෂික සවිස්තරාත්මක කළමනාකරණ විගණන වාර්තාව ඉදිරිපත් කිරීමේ කාලය මාස පහේ සිට මාස හයක් දක්වා දීර්ඝ කිරීම ප්‍රධාන වෙනස්කම් අතරට ඇතුළත් වේ.
+
+තවද, සංශෝධන මගින් ප්‍රධාන ප්‍රඥප්තියේ 42 සහ 43 වගන්ති යටතේ වැරදි සිදු කරන පුද්ගලයින් සඳහා දඬුවම් සැලකිය යුතු ලෙස වැඩි කිරීමද  සිදු කර ඇත.
+
+...
+
+[Data](articles/be645783.json)
+
+---
+
+### Massive tax cut in India
+
+*2025-09-22 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214872) · `si`
+
+Indian Prime Minister Narendra Modi has announced a massive cut of taxes (GST) rates on goods and services.
+
+The Indian Prime Minister has told the race yesterday (21).
+
+The Prime Minister Modi has said that the people will be able to buy more of the items for the daily consumption with the "next generation reforms".
+
+The Prime Minister states that it will also allow Native manufacturers to decrease GST ratios on the lower ratios imposed on the products produced in India.
+
+Prime Minister Modi urges the people to buy more in their country's manufactured.
+
+Prime Minister Modi emphasizes that the GST tax cuts will bring great relief to the country's prestigious tax cut.
+
+◼️
+
+[Data](articles/4dfd024d.json)
+
+[Extended Data](ext_articles/4dfd024d.ext.json)
+
+---
+
+### Fire on a ship that anchored at the Harbor of Gujarat
+
+*2025-09-22 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225756) · `ta`
+
+A fire broke out on a ship that was anchored at Porbandar Subhashnagar port in Gujarat.
+
+Three fire trucks have been sent to the scene to bring the fire under control.
+
+The ship belongs to HRM & Sons of Jamnagar. It was on a fire as it was going to Somalia's Boseo.
+
+It was dragged to the middle of the ocean as the fire intensified in the ship where rice was loaded. The move helped to prevent the spread of fire to other ships in the port.
+
+Work on extinguishing the fire is ongoing. It is worth noting that the cause of the fire is being investigated.
+
+◼️
+
+[Data](articles/9c637935.json)
+
+[Extended Data](ext_articles/9c637935.ext.json)
+
+---
+
+### A written inspection to recruit two positions in the police
+
+*2025-09-22 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214871) · `si`
+
+The written inspection to recruit officials for the sub-inspector of Police and Police Constable, the Government Gazette No. 2442 - 2025.20, will be held on 04.05.2015.
+
+Accordingly, 7,036 examination candidates will be held in seven examination centers island wide.
+
+Written inspection for the sub-inspector post will be held from 01st to 4:00 pm on October.
+
+By 2025.09.2015, the candidates are able to prompt exam tickets for the examination tickets on 011- 2687333 or 011-26873329.
+
+◼️
+
+[Data](articles/45ab04b7.json)
+
+[Extended Data](ext_articles/45ab04b7.ext.json)
+
+---
+
+### CEB employee arrested for accommodation
+
+*2025-09-22 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214870) · `si`
+
+A Ceylon Electricity Board (CEB) was arrested by the Police Narcotics Bureau in Middeniya.
+
+It is reported that investigations have been taken into custody in the suspect's possession.
+
+◼️
+
+[Data](articles/5f2e5122.json)
+
+[Extended Data](ext_articles/5f2e5122.ext.json)
+
+---
+
+### A person who has been cheating as a doctor for 20 years
+
+*2025-09-22 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225748) · `ta`
+
+A 54 -year -old man, who has been accused of cheating as a doctor for about two decades, has been arrested yesterday evening (21).
+
+The suspect from the Teltuwa area of ​​Vatuwa has operated a medical center called Sahana Seva near Sri Tharakarama Vihara.
+
+The Sri Lanka Medical Council owned by someone else used the registration number of patients, police said.
+
+Investigations have also found that the station has unlicensed drugs.
+
+◼️
+
+[Data](articles/abd6fa6e.json)
+
+[Extended Data](ext_articles/abd6fa6e.ext.json)
+
+---
+
+### Gun Ravi Rescue Rescue
+
+*2025-09-22 16:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மண்டைதீவு-மைதானம்-புனரமைப்பு-பணியில்-துப்பாக்கி-ரவைகள்-மீட்பு/71-365068) · `ta`
+
+Yall. The inaugural reconstruction work was carried out last Saturday (20). In the meantime, the gun ravages were found
+
+Initial work is currently underway in the Mandi Island area of ​​the town police division.
+
+In this case, a number of T56 rifles were discovered. Information has been provided to the Kayts police
+
+Resurrection. The permission was rescued on Monday (21) on Monday (21st) in accordance with the Kayts Court order in accordance with the request of the Kayts Court on Sunday (21).
+
+◼️
+
+[Data](articles/0cfca945.json)
+
+[Extended Data](ext_articles/0cfca945.ext.json)
+
+---
+
+### National inflation rises
 
 *2025-09-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214869) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව 2025 අගෝස්තු මාසයේ මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 1.5%ක් දක්වා ඉහළ ගොස් තිබේ.
+According to the National Customer Price Index (NCPI), the country's point of surface increased to 1.5%.
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි දැක්වෙන්නේ 2025 ජූලි මාසයේ දී මෙම අගය වාර්තා වූ යේ 0.7% ක් ලෙසය.
+The latest report issued by the Department of Census and Statistics indicate the value of this value in July 2025.
 
-ජූලි මාසයේ දී 2.2% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 2.9%ක් දක්වා වැඩි වී තිබේ.
+The feeding of food recorded as 2.2% in July increased to 2.9% in August.
 
-ජූලි මාසයේ දී -0.6% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 0.4% ක් දක්වා වැඩි වී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි වැඩිදුරටත් සඳහන්ය.
+The latest report released by the Department of Census and Statistics that the non-food nor of food inflation increased to 0.4% in July.
 
 ◼️
 
 [Data](articles/fee33691.json)
+
+[Extended Data](ext_articles/fee33691.ext.json)
+
+---
+
+### Sri Lanka’s inflation climbs to 1.5% in August
+
+*2025-09-22 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112774/sri-lankas-inflation-climbs-to-15-in-august) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 1.5% in August 2025, compared to 0.7% in July 2025, according to the latest data released by the Department of Census and Statistics.
+
+Meanwhile, food inflation has increased to 2.9% in August compared to 2.2% in July and the Year-on-Year inflation of the non-food group increased to 0.4% last month from -0.6% in July.
+
+The contribution of food commodities to inflation was 1.26% in August compared to July, 2025.
+
+The NCPI for all items for the month of August 2025 is 207.2 and it records a decrease of 1.1 in index points compared to July.
+
+◼️
+
+[Data](articles/af26fb53.json)
+
+[Extended Data](ext_articles/af26fb53.ext.json)
 
 ---
 
@@ -79,6 +277,28 @@ The Colombo Magistrate Court today (22) ordered that the case was filed in writi
 [Data](articles/d26e2fdc.json)
 
 [Extended Data](ext_articles/d26e2fdc.ext.json)
+
+---
+
+### World summit to meet on two-state solution as support grows for Palestinian state
+
+*2025-09-22 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112773/world-summit-to-meet-on-two-state-solution-as-support-grows-for-palestinian-state) · `en`
+
+France and Saudi Arabia will convene dozens of world leaders on Monday to rally support for a two-state solution, with several of them expected to formally recognise a Palestinian state - a move that could draw harsh Israeli and U.S. responses.
+
+While the summit could boost the morale of Palestinians, it is not expected to deliver change on the ground, where the most far-right government in Israel’s history has declared there will be no Palestinian state as it pushes on with its war against Hamas in Gaza.
+
+Efforts to create a two-state solution have failed to make any progress for decades as violence raged.
+
+Israel and the United States will boycott the summit, Israel’s U.N. Ambassador Danny Danon, said, describing the event as a “circus.”
+
+Britain, Canada, Australia and Portugal all recognised a Palestinian state on Sunday. France and five other states are expected to also formally recognise a Palestinian state on Monday.
+
+...
+
+[Data](articles/8be7d409.json)
+
+[Extended Data](ext_articles/8be7d409.ext.json)
 
 ---
 
@@ -477,6 +697,30 @@ It is noteworthy that Sampath Manamberi is currently being interrogated in conne
 [Data](articles/36ffd265.json)
 
 [Extended Data](ext_articles/36ffd265.ext.json)
+
+---
+
+### Electricity employees willingly articulate
+
+*2025-09-22 13:05:44* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-සේවකයෝ-කැමැත්තෙන්-ලිපි-දෙති/11-418647) · `si`
+
+The Ministry of Energy issued a statement that letters will be given to join the new companies established by the Power and Employees Act.
+
+Four state owned companies have begun to connect four full state owned companies established in implementing the Ceylon Electricity Amendment Act.
+
+Accordingly, part of the Ceylon Electricity Board (CEB) employees to provide letters to the institutions they were established as above.
+
+The Ceylon Electricity Board (CEB) has agreed at the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
+
+National Transmission Network Company (Pvt) Ltd will link the above employees of National Transmission Network Company (Pvt) Ltd, Power and Energy Company (Pvt) Ltd (Pvt) Ltd. (Pvt) Ltd (Pvt) Ltd.
+
+The restructuring program that is the structural changes in the country's development goals and structural changes to the development of electricity is being favored by employees of the Ceylon Electricity Board.
+
+◼️
+
+[Data](articles/6ecec332.json)
+
+[Extended Data](ext_articles/6ecec332.ext.json)
 
 ---
 
@@ -1793,255 +2037,5 @@ He says Ruwan Bandara has come to the proposal that a kidney transplanted at man
 [Data](articles/360fa376.json)
 
 [Extended Data](ext_articles/360fa376.ext.json)
-
----
-
-### The Ministry of Labor has mobile service week
-
-*2025-09-22 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214850) · `si`
-
-The mobile service weet organized by the Labor Ministry will commence from today (22).
-
-Accordingly, the inauguration program will commence in Jaffna under the patronage of Deputy Minister of Labor Mahinda Jayasinghe from 9.00am.
-
-The Ministry said that the mobile service week is now being planned throughout the island after the inauguration program.
-
-The Ministry of Labor will be available through the workplace, legal advice and guidance of employment opportunities through the Employees Provident Fund.
-
-◼️
-
-[Data](articles/50e7665c.json)
-
-[Extended Data](ext_articles/50e7665c.ext.json)
-
----
-
-### 23-year-old drowns in hotel swimming pool in Katana
-
-*2025-09-22 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112749/23-year-old-drowns-in-hotel-swimming-pool-in-katana) · `en`
-
-A 23-year-old youth has died after drowning in a hotel swimming pool in the Kandawala area of Katana.
-
-The deceased has been identified as a resident of Maskeliya, Maussakelle.
-
-Preliminary investigations have revealed that the victim drowned while swimming with several friends at the hotel pool, said police.
-
-◼️
-
-[Data](articles/29fb3a97.json)
-
-[Extended Data](ext_articles/29fb3a97.ext.json)
-
----
-
-### Woman arrested for illegal excavation in Ethimale
-
-*2025-09-22 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112748/woman-arrested-for-illegal-excavation-in-ethimale) · `en`
-
-A female suspect engaged in the illegal excavation of artifacts in the Gemunupura area, within the Ethimale Police Division, has been arrested along with excavation equipment.
-
-The raid was carried out by a team of officers from the Ethimale Police Station, acting on a tip-off.
-
-The arrested suspect has been identified as a 29-year-old resident of Gemunupura, Ethimale, said police.
-
-According to police, another individual who was present at the site managed to flee. Police have seized a motorcycle believed to belong to the absconding suspect.
-
-Further investigations are being conducted by the Ethimale Police to apprehend the suspect who evaded arrest.
-
-◼️
-
-[Data](articles/426426eb.json)
-
-[Extended Data](ext_articles/426426eb.ext.json)
-
----
-
-### Electricity is an essential service
-
-*2025-09-22 07:26:54* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කරයි/11-418637) · `si`
-
-President Anura Kumara Dissanayake has issued a special gazette notification by the Presidential Secretary of the power supply.
-
-◼️
-
-[Data](articles/7d873254.json)
-
-[Extended Data](ext_articles/7d873254.ext.json)
-
----
-
-### A person drowns in bathtub in a hotel
-
-*2025-09-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214849) · `si`
-
-One person was killed following a man drowned in the bathtub at the Katana - Thamma area.
-
-The deceased is a 23 year old resident of Maskeliya area aged 23.
-
-Preliminary investigations have revealed that the man had fun with some other friends and drowning in the bath pool at the bath pool.
-
-◼️
-
-[Data](articles/a290a840.json)
-
-[Extended Data](ext_articles/a290a840.ext.json)
-
----
-
-### President to leave for US today to attend UN General Assembly
-
-*2025-09-22 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112747/president-to-leave-for-us-today-to-attend-un-general-assembly) · `en`
-
-President Anura Kumara Dissanayake is scheduled to leave for the United States today (22).
-
-During this visit, President Dissanayake is expected to attend the 80th session of the United Nations General Assembly (UNGA).
-
-The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division (PMD).
-
-During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
-
-The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will accompany President Anura Kumara Dissanayake on his official visit.
-
-◼️
-
-[Data](articles/9eb2e971.json)
-
-[Extended Data](ext_articles/9eb2e971.ext.json)
-
----
-
-### Youth arrested for searching for antiquities
-
-*2025-09-22 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214848) · `si`
-
-A suspect has been arrested in the Gemunupura area in the Etaka area in the Gemunupura area.
-
-The raid was carried out on information received by a group of officers from the Ethamale Police Station.
-
-The suspect is a resident of Gemunupura, Aetimale.
-
-However, another suspect who was in the place has fled the police and a motorcycle who is involved in him belongs to him.
-
-Umemale Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/0077872e.json)
-
-[Extended Data](ext_articles/0077872e.ext.json)
-
----
-
-### Gazette issued declaring services related electricity supply as essential public services
-
-*2025-09-22 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112746/gazette-issued-declaring-services-related-electricity-supply-as-essential-public-services) · `en`
-
-An Extraordinary Gazette notification has been issued by President Anura Kumara Dissanayake, declaring all services connected to the supply of electricity as essential public services.
-
-Exercising the powers vested in him under Section 2 of the Essential Public Services Act, No. 61 of 1979, the President has taken steps to designate electricity-related services as essential to the life of the community.
-
-The order, issued yesterday (21), states that services provided by any Public Corporation, Government Department, Local Authority, or Co-operative Society engaged in the supply of electricity are likely to be impeded or interrupted, thereby necessitating the declaration.
-
-With this declaration, all services related to electricity supply will now be treated as essential public services with immediate effect.
-
-The gazette notification was issued by Secretary to the President, Dr. N. S. Kumanayake, on behalf of the President.
-
-◼️
-
-[Data](articles/aebf50b8.json)
-
-[Extended Data](ext_articles/aebf50b8.ext.json)
-
----
-
-### President to visit China today
-
-*2025-09-22 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214847) · `si`
-
-President Anura Kumara Dissanayake is due to leave for the US today (22).
-
-The President states that the President is due to leave the island this night to attend the 80th session of the United Nations General Assembly.
-
-The President is also scheduled to address the United Nations General Assembly at 3.1 pm on the 24th of this month.
-
-President Anura Kumara Dissanayake is due to join bilateral talks with the Secretary-General of the United Nations and the United States's leaders.
-
-The President is also meeting with Sri Lankans living in the United States.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to join the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/a407444f.json)
-
-[Extended Data](ext_articles/a407444f.ext.json)
-
----
-
-### Rain condition continues
-
-*2025-09-22 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214845) · `si`
-
-The extent of rain and wind quality of the island can further expect the existing rain and wind quality.
-
-Showers will occur at times in the Western and Sabaragamuwa provinces and in the North, Matara, Kandy and Nuwara Eliya districts.
-
-The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
-
-Katt and Hambantota districts in the Central, Western, North-Central and North Western Provinces. Around 30-40ths can cause stronger winds.
-
-The Meteorology Department requests the public to minimize the dangers of lightning and temporary strong winds caused by thunderstorms.
-
-◼️
-
-[Data](articles/9ea267a3.json)
-
-[Extended Data](ext_articles/9ea267a3.ext.json)
-
----
-
-### Portugal formally recognises Palestinian state, minister says
-
-*2025-09-22 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112745/portugal-formally-recognises-palestinian-state-minister-says) · `en`
-
-Portugal’s Foreign Affairs Minister Paulo Rangel announced on Sunday that the country has now recognised the state of Palestine.
-
-“The recognition of the state of Palestine is the realization of a fundamental, constant, and fundamental line of Portuguese foreign policy,” Rangel told reporters at the headquarters of Portugal’s permanent mission to the United Nations in New York.
-
-He said that “Portugal advocates the two-state solution as the only path to a just and lasting peace...a ceasefire is urgent”, adding Hamas “cannot have any form of control in Gaza or outside it” and demanding the release of all hostages.
-
-Rangel also said that recognizing the state of Palestine “does not erase the humanitarian catastrophe in Gaza,” and he also condemned the situation of starvation there, the destruction, and the “expansion of Israeli settlements in the West Bank.”
-
-◼️
-
-[Data](articles/65cd70ad.json)
-
-[Extended Data](ext_articles/65cd70ad.ext.json)
-
----
-
-### Showers expected in parts of the island today
-
-*2025-09-22 06:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112744/showers-expected-in-parts-of-the-island-today) · `en`
-
-The Department of Meteorology said that the prevailing showery and windy conditions over the southwestern parts of the island are expected to continue.
-
-Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts.
-
-A few showers may occur in the North Western Province, the Department said.
-
-Showers or thundershowers are likely at a few places in Uva Province and in Ampara and Batticaloa districts after 2.00 p.m.
-
-Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills and in Central, Northern, North Central, and North Western provinces and in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by lightning and temporary localized strong winds during thundershowers.
-
-◼️
-
-[Data](articles/165138bc.json)
-
-[Extended Data](ext_articles/165138bc.ext.json)
 
 ---

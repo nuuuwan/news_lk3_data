@@ -1,36 +1,116 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 03:21:03**
+As of **2025-09-23 04:20:22**
 
 ## Newspaper Stats
 
-*Scraped **77,527** Articles*
+*Scraped **77,541** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 633
 bbccomsinhala | 677
-colombotelegraphcom | 784
-economynextcom | 4,680
+colombotelegraphcom | 788
+economynextcom | 4,685
 dailymirrorlk | 4,733
 islandlk | 4,762
-dailyftlk | 5,509
+dailyftlk | 5,510
 adalk | 7,528
 adaderanalk | 10,039
-tamilmirrorlk | 11,659
-virakesarilk | 12,617
+tamilmirrorlk | 11,660
+virakesarilk | 12,620
 adaderanasinhalalk | 13,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,527 (100.0%) of 77,527 articles have been extended.
+77,540 (100.0%) of 77,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### Petrol Bomb Bomb on the house
+
+*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரொல்-குண்டு-வீச்சு/175-365095) · `ta`
+
+An elderly man in Mullaitivu, Vattuvagal area, unidentified persons attacked a petrol bomb at midnight yesterday.
+
+At around 2 am yesterday, the house of the house was poured into the house and the fire was poured into the house.
+
+During this time, the door of the house, and the parked motorcycle were destroyed.
+
+The attack was carried out by mysterious people wearing a helmet and rain shield as they covered their face.
+
+At midnight the incident, the attackers fled when the elderly man called the neighbors.
+
+◼️
+
+[Data](articles/be50548a.json)
+
+[Extended Data](ext_articles/be50548a.ext.json)
+
+---
+
+### Former and current political figures who have failed to submit property and responsible details - corruption inquiry commission
+
+*2025-09-23 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225804) · `ta`
+
+The Commission to Investigate on Bribery or Corruption has not submitted property and responsibility details over the period of time, including former minister Douglas Devananda, and former governors Senthil Thondaman, Naveen Dissanayake, Roshan Gunathilaka, and Viliyam Kamage.
+
+On March 25, 2025, the Commission for Investigation of Bribery or Corruption has issued the names of those who have not submitted the property and responsibility for the year 2024.
+
+The name list includes former ministers, six diplomats, four of the former provincial governors, 29 persons, and 2 judges of the Court of Appeal.
+
+Douglas Devananda, who has been the Minister of Fisheries of the last government, has not submitted to the Commission within a period of property and responsibility.
+
+Former diplomatic minister Lohan Ratwatte, and former diplomatic ministers Taraka Balasuriya, Shantha Bandara, Khadar Mastan, Pillaiyan and Suren Raghavan did not submit details of property and responsibility.
+
+...
+
+[Data](articles/f5b76a3a.json)
+
+[Extended Data](ext_articles/f5b76a3a.ext.json)
+
+---
+
+### Sweet shop robbery at Pudukkudiyiruppu
+
+*2025-09-23 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225803) · `ta`
+
+An incident took place at a sweet shop on Paradhan Road, Pudukkudiyiruppu on Monday (22) at 7 pm.
+
+When the shop was brought to the notice of the owner, the public in the area joined the area and handed over the youth to the Pudukkudiyiruppu police.
+
+The arrested was a 25 -year -old youth from Paradhan, police said.
+
+◼️
+
+[Data](articles/f8be3e57.json)
+
+[Extended Data](ext_articles/f8be3e57.ext.json)
+
+---
+
+### Rescue of 600 kg of drugs and guns in the Tangalle area; Suspicious death
+
+*2025-09-23 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225802) · `ta`
+
+About 600 kg of drugs, including ice and heroin, have been seized in the surrounding surroundings carried out by the police in the Tangalle Seenimodara and its adjacent areas.. Public Security Minister Ananda Wijebala said that the guns were seized during the rapes, which were carried out on Monday (22).
+
+Over the past two decades, the country has seen an increase in drug -related and systematic crimes in the country. It is a well -known fact that political contacts were found in direct. However, the government is carrying out various measures to prevent further prolongation.
+
+As a reflection of these measures, it can be controlled at a specific level. The main suspects associated with the underworld groups, especially in the abroad, have been brought to the country.. Various information has been revealed in the ongoing investigation into them. Intelligence information related to these is continuously available.
+
+...
+
+[Data](articles/f2de326b.json)
+
+[Extended Data](ext_articles/f2de326b.ext.json)
+
+---
 
 ### People’s Bank partners Justice Ministry to drive countrywide court digitalisation
 
@@ -109,6 +189,20 @@ In addition, he will meet with Sri Lankans residing in the US.
 [Data](articles/97f16369.json)
 
 [Extended Data](ext_articles/97f16369.ext.json)
+
+---
+
+### More nations set to recognise Palestinian State
+
+*2025-09-23 02:15:09* · [`dailyftlk`](https://www.ft.lk/news/More-nations-set-to-recognise-Palestinian-State/56-782061) · `en`
+
+The UK, Australia, Canada and Portugal formally recognised a Palestinian State on Sunday, a move that will be followed by several European nations at a United Nations conference in Paris this week.
+
+The meeting, co-hosted by French President Emmanuel Macron and Saudi Arabia’s Crown Prince Mohammed bin Salman, is expected to see France, Belgium, Luxembourg, Andorra, San Marino and Malta extend recognition. More than three quarters of the UN’s 193 members already recognise Palestinian statehood. Countries that have not taken that step include the United States, Israel, Italy and Germany.
+
+◼️
+
+[Data](articles/c5557077.json)
 
 ---
 
@@ -270,6 +364,28 @@ When Qatar hosted the Arab-Islamic emergency summit on 15 September 2025—just 
 
 ---
 
+### Indian Navy chief visits Sri Lanka, due to meet government and defence officials
+
+*2025-09-22 23:20:00* · [`economynextcom`](https://economynext.com/indian-navy-chief-visits-sri-lanka-due-to-meet-government-and-defence-officials-241556/) · `en`
+
+ECONOMYNEXT – India’s Chief of Naval Staff, Admiral Dinesh K Tripathi, has arrived in Sri Lanka on a four-day official visit, and is scheduled to meet senior government and defence officials of Sri Lanka.
+
+“The visit of the Indian Chief of Naval Staff also underscored the strengthening of naval cooperation, bolstering maritime security, and fostering collaborative efforts in support of regional stability,” Sri Lanka Navy said.
+
+Admiral Tripathi met with the Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda at the Navy Headquarters in Colombo.
+
+“The two Navy Chiefs subsequently discussed matters of mutual interest, with a focus on strengthening partnerships in the Indian Ocean Region and reinforcing the long-standing friendship between the two navies.”
+
+The visit concludes on 25 September, following his participation at the 12th edition of the Galle Dialogue International Maritime Conference, organized by the Sri Lanka Navy. (Colombo/Sep22/2025)
+
+◼️
+
+[Data](articles/6b087b32.json)
+
+[Extended Data](ext_articles/6b087b32.ext.json)
+
+---
+
 ### Fake letter with the signature of the Inspector General of Police
 
 *2025-09-22 22:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபரின்-கையொப்பத்துடன்-போலி-கடிதம்/175-365093) · `ta`
@@ -360,6 +476,46 @@ According to reports, the elephant suddenly attacked while the mahout was attemp
 
 ---
 
+### Overcoming ‘Elite Displacement Syndrome’
+
+*2025-09-22 22:13:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/overcoming-elite-displacement-syndrome/) · `en`
+
+...
+
+[Data](articles/94f5ba07.json)
+
+[Extended Data](ext_articles/94f5ba07.ext.json)
+
+---
+
+### Crucifying Journalists For Visiting Israel
+
+*2025-09-22 22:03:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/crucifying-journalists-for-visiting-israel/) · `en`
+
+The commotion agitated from various sects in Sri Lankan society targeted those who visited the State of Israel, including myself, labelling the delegation as those who are on the Mossad payroll, and it further questioned the moral reasoning of the Sri Lankan delegation, pushing them to the darkest corners of hell. While the critics’ right to condemn Israel or anything related to Israel as scum bug is respected, the attendees to the Israel tour should have their own stances, reasoning what impetus drove them to join the delegation, and their side should be heard , at least to emulate the principle of natural justice.
+
+...
+
+[Data](articles/2b4f2980.json)
+
+[Extended Data](ext_articles/2b4f2980.ext.json)
+
+---
+
+### On Reconciliation: Listening To India Is Always Good For Sri Lanka
+
+*2025-09-22 21:58:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-reconciliation-listening-to-india-is-always-good-for-sri-lanka/) · `en`
+
+As speculation swirls over whether Sri Lanka’s National People’s Power (NPP) government will hold provincial council elections next year, a bigger question looms: Will the NPP genuinely move forward with these elections, or is it preparing to abolish the provincial council system altogether, despite repeated assurances? Against this backdrop, India has once again reaffirmed its long-standing position—insisting that the full implementation of the Thirteenth Amendment to Sri Lanka’s Constitution is crucial for the country’s unity and stability. India’s recent statement at the 60th session of the United Nations Human Rights Council (UNHRC) is not mere diplomatic routine, but part of a decades-long commitment to Sri Lanka’s reconciliation process.
+
+...
+
+[Data](articles/29da9ee7.json)
+
+[Extended Data](ext_articles/29da9ee7.ext.json)
+
+---
+
 ### One injured in accident on Southern Expressway – Lane towards Colombo blocked
 
 *2025-09-22 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112793/one-injured-in-accident-on-southern-expressway-lane-towards-colombo-blocked) · `en`
@@ -419,6 +575,22 @@ An examination carried out by the police following suspicion of suspicion of two
 [Data](articles/5fc6971f.json)
 
 [Extended Data](ext_articles/5fc6971f.ext.json)
+
+---
+
+### Empowering Rooftop Solar With Smart Battery Storage: An Economic Rescue With Grid Stability
+
+*2025-09-22 21:52:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/empowering-rooftop-solar-with-smart-battery-storage-an-economic-rescue-with-grid-stability/) · `en`
+
+Sri Lanka’s rooftop solar program has reached 1,700 MW across nearly 100,000 households and buildings. However, due to economic challenges and reduced tariffs for home solar investors, the program has recently slowed. While there is a strong commitment to promoting solar energy, including the President’s recent launch of a 100 MW solar project, its benefits to the public can only be fully realised if surplus power is stored.
+
+The Ceylon Electricity Board (CEB) has warned that grid instability is a risk when integrating large volumes of solar. This makes storage of daytime generation crucial for evening use, ideally through affordable and scalable methods. Unfortunately, the CEB has prioritised large-scale battery tenders, such as a proposed 640 MWh Battery Energy Storage System (BESS), which would be funded at public expense. Yet investor appetite remains weak, as financial returns are limited.
+
+...
+
+[Data](articles/fd037a01.json)
+
+[Extended Data](ext_articles/fd037a01.ext.json)
 
 ---
 
@@ -1242,6 +1414,30 @@ They were paid tribute to the child who died at the Memorial at the Maha Vidyala
 
 ---
 
+### Sri Lanka rupee weaker against dollar, bond yields hold
+
+*2025-09-22 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-hold-241548/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/60 to the US dollar on Monday, weaker from 302.45/50 Friday, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.30/35 percent, up from 8.28/33 percent.
+
+A bond maturing on 15.09.2027 closed at 8.65/75 percent, up from 8.65/73 percent.
+
+A bond maturing on 15.12.2029 closed at 9.47/57 percent, from 9.50/54 percent.
+
+A bond maturing on 15.03.2031 closed at 9.98/10.05 percent, from 10.00/05 percent.
+
+A bond maturing on 01.11.2033 closed at 10.66/70 percent, from 10.65/75 percent. (Colombo/Sep22/2025)
+
+◼️
+
+[Data](articles/1fb846ab.json)
+
+[Extended Data](ext_articles/1fb846ab.ext.json)
+
+---
+
 ### Following the amendment Act, the consent of the CEB employees
 
 *2025-09-22 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214875) · `si`
@@ -1428,6 +1624,28 @@ Accordingly, the main objective of these amendments are to provide provisions fo
 
 ---
 
+### Sri Lanka stocks up 0.67-pct on financials
+
+*2025-09-22 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-0-67-pct-on-financials-241523/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) rose 0.67 percent on Monday due to optimism surrounding financial shares, data on its site showed.
+
+The broader ASPI climbed 141.78 points from Friday, to end at 21,226.87; while the more liquid S&P SL20 closed up 1.06 percent, or 63.75 points, at 6,059.91.
+
+The top contributors to the ASPI were John Keells Holdings (up 0.60 rupees at 23.40), C T Holdings (up 33.25 rupees at 699.25), Senkadagala Finance (up 100.50 rupees at 578.25), Commercial Bank (up 3.00 rupees at 193.25) and Vallibel One (up 5.70 rupees at 96.80).
+
+Market turnover was 8 billion rupees on Monday, while the share volumes were 276,333,683.
+
+Indian equity market’s Information Technology related shares slumped as US president Donald Trump imposed a one time US 100,000 dollars fee on new applicants coming through the high skilled worker visa scheme, the H-1B visa policy.
+
+...
+
+[Data](articles/3f27b8c6.json)
+
+[Extended Data](ext_articles/3f27b8c6.ext.json)
+
+---
+
 ### Speaker Certificate to Increase the Auditor General's Powers Act
 
 *2025-09-22 16:26:39* · [`adalk`](https://www.ada.lk/breaking_news/විගණකාධිපතිගේ-බලතල-වැඩි-කරන-පනතට-කථානායක-සහතිකය/11-418653) · `si`
@@ -1543,6 +1761,26 @@ Work on extinguishing the fire is ongoing. It is worth noting that the cause of 
 [Data](articles/9c637935.json)
 
 [Extended Data](ext_articles/9c637935.ext.json)
+
+---
+
+### Sri Lanka’s Softlogic Finance to resume business, after central bank lifts restrictions
+
+*2025-09-22 16:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-finance-to-resume-business-after-central-bank-lifts-restrictions-241534/) · `en`
+
+ECONOMYNEXT – Softlogic Finance said it will re-launch all its business activities, including re-commencing and accepting new deposits, after Sri Lanka’s central bank lifted regulatory restrictions effective 19 September.
+
+“Softlogic Finance PLC has successfully restored its core capital position in line with the requirements of the Department of Supervision of Non-Bank Financial Institutions of the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
+
+This was achieved through “structured and effective capital enhancement” through its parent company, Softlogic Capital PLC, it said.
+
+With the approval of CBSL’s governing board, Softlogic Finance said will re-launch all its business activities including re-commencing and accepting new deposits, re-opening all lines of distribution channels both individual and institutional investors and aggressively pursue its business growth plans to re-position itself in the financial industry.
+
+◼️
+
+[Data](articles/4858256e.json)
+
+[Extended Data](ext_articles/4858256e.ext.json)
 
 ---
 
@@ -1696,6 +1934,26 @@ After the World Cup, the de Cock retired from the International Ground of ODIs.
 
 ---
 
+### Sri Lanka AKD’s 1-year: broken promises, modest gains, and lingering questions
+
+*2025-09-22 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-akds-1-year-broken-promises-modest-gains-and-lingering-questions-241522/) · `en`
+
+ECONOMYNEXT – When Anura Kumara Dissanayake (AKD) swept into office a year ago, it marked the first time a leftist leader from the National People’s Power (NPP) had captured Sri Lanka’s presidency.
+
+Riding a wave of frustration with mainstream parties and promising a “new political culture,” Dissanayake presented himself as the face of accountability, anti-corruption, and people-centered governance after years of economic hardship and elite impunity.
+
+Ordinary citizens measure a government by their daily hardships. By this yardstick, many feel disappointed. Many people still praise AKD’s anti-corruption policies and some accountability measures. However, they complain that their cost of living has not reduced much. Others, especially youth who voted for change, express frustration that systemic issues are unchanged.
+
+Polls indicate a dip in AKD’s popularity from the euphoria of election night. Opposition parties sense an opening, accusing him of betraying his own voters.
+
+...
+
+[Data](articles/25b31788.json)
+
+[Extended Data](ext_articles/25b31788.ext.json)
+
+---
+
 ### Case against Sajin Vaas postponed
 
 *2025-09-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214867) · `si`
@@ -1809,277 +2067,5 @@ The scheme, carried out by the Irrigation Department, includes measurement of la
 [Data](articles/7b9d75e0.json)
 
 [Extended Data](ext_articles/7b9d75e0.ext.json)
-
----
-
-### Another lorry with 200kg of substances believed to be ‘Ice’ and heroin found in Tangalle
-
-*2025-09-22 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112770/another-lorry-with-200kg-of-substances-believed-to-be-ice-and-heroin-found-in-tangalle) · `en`
-
-A large stock of narcotics, including over 200 kilograms of crystal methamphetamine or commonly known as ‘Ice’ and heroin, has been discovered in Seenimodara, Tangalle, authorities confirmed.
-
-The discovery was made this morning (22), when police found the bodies of two individuals inside an abandoned house that was reportedly under renovation. A lorry parked in the premises was found to contain a massive quantity of illegal narcotics, authorities noted.
-
-Police recovered over 10 kilograms of narcotics substance suspected to be ‘Ice’ from the house under renovation in Seenimodara.
-
-Investigations also led to the recovery of 10 packets containing ‘Ice’ from a smaller lorry parked near the same house, according to police sources.
-
-Subsequently, authorities conducted a thorough search, leading to the recovery of a much larger stock of ‘Ice’ and heroin, exceeding 200 kilograms, in Tangalle.
-
-...
-
-[Data](articles/019c5d9f.json)
-
-[Extended Data](ext_articles/019c5d9f.ext.json)
-
----
-
-### Another 200kg of ice lorry Seen
-
-*2025-09-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214866) · `si`
-
-More than 200 kilograms of heroin and ice cast have been recovered from the Seennimodara area in Tangalle.
-
-◼️
-
-[Data](articles/e72cdeb0.json)
-
-[Extended Data](ext_articles/e72cdeb0.ext.json)
-
----
-
-### Process of assigning CEB employees to four newly established companies commences
-
-*2025-09-22 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112769/process-of-assigning-ceb-employees-to-four-newly-established-companies-commences) · `en`
-
-The process of assigning employees of the Ceylon Electricity Board (CEB) to four newly established, fully state-owned companies — established under the implementation of the Sri Lanka Electricity (Amendment) Act — has now officially commenced, the Ministry of Energy stated.
-
-Accordingly, a group of employees of the CEB has taken steps to submit letters expressing their willingness to be affiliated with these newly formed institutions, according to a statement from the Energy Ministry.
-
-Accordingly, the letters of consent have been officially handed over to the Chairman of the Ceylon Electricity Board, Professor Udayanga Hemapala this morning at the CEB Headquarters.
-
-In line with the Sri Lanka Electricity (Amendment) Act No. 14 of 2025, four fully government-owned companies have been established to which the employees will be assigned.
-
-...
-
-[Data](articles/1c4a57cb.json)
-
-[Extended Data](ext_articles/1c4a57cb.ext.json)
-
----
-
-### GovPay boosts traffic fine payments in Sri Lanka: Official
-
-*2025-09-22 14:14:00* · [`economynextcom`](https://economynext.com/govpay-boosts-traffic-fine-payments-in-sri-lanka-official-241503/) · `en`
-
-ECONOMYNEXT – Sri Lanka has seen an increase in traffic fine payments since GovPay, the state digital payment platform, was implemented in the Western Province, an official involved in the initiative has said.
-
-“Traffic fine payments via GovPay continue to climb, with yesterday recording the highest volume since the Western Province went live,” Harsha Purasinghe, Board Director of ICTA, said on the social media platform X.
-
-GovPay lets citizens and businesses make digital payments for government services like taxes, fines, and utility bills through banks and digital wallets.
-
-The initiative is a collaboration between LankaPay and the Information and Communication Technology Agency (ICTA).
-
-“While GovPay is delivering unmatched convenience and transparency for citizens, Sri Lanka Police plans to introduce a demerit points system in the future, alongside digital payments,” Purasinghe said.
-
-...
-
-[Data](articles/4d904962.json)
-
-[Extended Data](ext_articles/4d904962.ext.json)
-
----
-
-### Hurricane Warning in Hong Kong!
-
-*2025-09-22 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225743) · `ta`
-
-Hurricane Warning has been issued in Hong Kong. Accordingly, the Department of Meteorology is considering the issue of tornadoes from 1 pm to 4 pm on Tuesday (23).
-
-At the same time, high speed and regular trains will be closed in Guangdong Province on Wednesday.
-
-Predictions are being preceded by the storm blowing towards the northern part of the South China Sea via Lusone Strait.
-
-Local air is expected to gradually intensify as the hurricane approaches the shore of Guangdong.
-
-In response to these improvements, the Hong Kong Research Center will release a strong wind signal number at 9.40 pm tonight.
-
-At the same time, the Department of Meteorology has prompted the upgrading of Wednesday from 1 pm to 4 pm to the eighth tornado or a storm signal.
-
-It has been forecast that strong winds are likely to blow in Hong Kong and hurricane winds may blow on the coast and high areas.
-
-It is also said that heavy tornadoes, thunderstorms and excessive sea turbulence can occur.
-
-...
-
-[Data](articles/cc3580ae.json)
-
-[Extended Data](ext_articles/cc3580ae.ext.json)
-
----
-
-### Relating employees to 4 power new companies begins
-
-*2025-09-22 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214865) · `si`
-
-The Ministry of Energy stated that four full state owned companies have been established in implementing the Ceylon Electricity Amendment Act.
-
-Accordingly, part of the Ceylon Electricity Board (CEB) employees to provide letters to the institutions they were established as above.
-
-The Ceylon Electricity Board (CEB) has agreed at the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
-
-The National Transmission Network Company (Pvt) Ltd, which has been established by the Sri Lanka Electricity (Amended) Act, No. 14 of 2025, says that the above employees will be connected to the above four companies.
-
-The Minister of Energy The Energy Ministry said that the restructuring program of the Ceylon Electricity Board (CEB) is infected with the development of the electricity sector in parallel to the development of the electricity industry.
-
-◼️
-
-[Data](articles/b6c0d4aa.json)
-
-[Extended Data](ext_articles/b6c0d4aa.ext.json)
-
----
-
-### CEB employee arrested with ICE
-
-*2025-09-22 13:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICE-உடன்-தொடர்பு-CEB-ஊழியர்-கைது/175-365060) · `ta`
-
-A Ceylon Electricity Board (CEB) employee has been arrested by the Police Narcotics Bureau (PNB) for allegedly giving shelter to the main suspect in a massive drug case.
-
-Following the discovery of a buried container filled with chemicals used to make a drug called 'ice' in Mitenia, the suspect who identified as Sampath Manamberi is currently being kept in detention, police said.
-
-◼️
-
-[Data](articles/b8650648.json)
-
-[Extended Data](ext_articles/b8650648.ext.json)
-
----
-
-### Foreign investors buy Sri Lanka rupee bonds for fourth straight week
-
-*2025-09-22 13:52:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-fourth-straight-week-241303/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a fourth straight week in the week ended on September 18 with the offshore holding in local bonds surged to near two-year high, the Central Bank data showed, amid a surge in global investor appetite for government bonds.
-
-Foreign investors bought a net 4,988 million rupee ($16.63 million) worth of government securities in the week ended on September 18, extending the inflows to a net 13,707 million rupee ($45.7 million) in the four weeks.
-
-Government bond funds globally saw a surge in demand as they received $2.75 billion, the largest amount in 17 weeks, Reuters reported.
-
-Foreign holdings in Sri Lanka’s rupee bonds were at 120.3 billion rupees on September 18, their highest since December 2023, official data showed.
-
-Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
-
-...
-
-[Data](articles/a4d308c7.json)
-
-[Extended Data](ext_articles/a4d308c7.ext.json)
-
----
-
-### 1,897 killed in road accidents in the last 9 months - Director of Transport Police
-
-*2025-09-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225740) · `ta`
-
-Traffic Police Director SSP. Manoj Ranagala said.
-
-He said that this is an increase in road accidents.
-
-In this regard, he emphasized the urgent need for strict legal implementation and responsible vehicle driving to control increasing deaths.
-
-He added that traffic police across the country have installed 70 high -speed detection machines to monitor reckless driving.
-
-He said motorcycle accidents had increased by 2025 and 923 accidents were reported by motorcycle.
-
-Traffic Police Director SSP to prevent further accidents on the streets of the country, road safety measures and public awareness. Ranagala has called.
-
-◼️
-
-[Data](articles/9d680187.json)
-
-[Extended Data](ext_articles/9d680187.ext.json)
-
----
-
-### UK considers plan to scrap visa fees for top global talent: Report
-
-*2025-09-22 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112768/uk-considers-plan-to-scrap-visa-fees-for-top-global-talent-report) · `en`
-
-British Prime Minister Keir Starmer is exploring proposals to abolish some visa fees for top global talent at a time when the United States has taken a tougher stance on immigration, the Reuters News Agency on Monday (Sep 22).
-
-Starmer’s “global talent task force” is working on ideas to attract the world’s best scientists, academics and digital experts to the UK in a bid to drive economic growth, the report said, citing people briefed on the discussions inside Number 10 and the Treasury.
-
-The idea of cutting visa costs to zero is for people who have attended the world’s top five universities or have won prestigious prizes, an official told the newspaper.
-
-According to the report, the reforms were being discussed in Number 10 and the Treasury before the Trump administration announced its decision to impose a US$100,000 fee for new H-1B visas, which are widely used by US tech companies, from Sunday.
-
-...
-
-[Data](articles/8dafde02.json)
-
-[Extended Data](ext_articles/8dafde02.ext.json)
-
----
-
-### Shareshendi's request declines, further remanded
-
-*2025-09-22 13:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රගේ-ඉල්ලීම-ප්‍රතික්ෂේපයි--යළි-රිමාන්ඩ්/11-418649) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama, who was arrested by the Bribery Commission, was remanded until the 30th of this month.
-
-The estate of the Mahaweli Authority of the Sri Lanka Mahaweli Authority has been damaged in the struggle in Sevanagala, which has been constructed in the Mahaweli Authority of the Kubela Authority of Kubelawewa.
-
-◼️
-
-[Data](articles/8076de4a.json)
-
-[Extended Data](ext_articles/8076de4a.ext.json)
-
----
-
-### Conflict near the President's House; 49 arrested
-
-*2025-09-22 13:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-மாளிகை-அருகே-மோதல்-49-பேர்-கைது/50-365059) · `ta`
-
-Foreign media reports that police have arrested 49 suspects suspected of throwing stones, bottles and fire bombs on the officers during a peaceful anti -corruption rally in the Philippines capital.
-
-◼️
-
-[Data](articles/6257f9b7.json)
-
-[Extended Data](ext_articles/6257f9b7.ext.json)
-
----
-
-### தங்காலையில் போதைப்பொருள், துப்பாக்கிகளுடன் லாரி பறிமுதல்
-
-*2025-09-22 13:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-போதைப்பொருள்-துப்பாக்கிகளுடன்-லாரி-பறிமுதல்/175-365058) · `ta`
-
-More than 200 kg of drugs, one T-56 rifle and five modern revolvers have been confiscated by the police in a lorry hidden in a house on Tangalle, Kodella, Kodala, Kadulapokuna road.
-
-Police say drugs and guns have been transported in a special box in the lorry under the guise of carrying watermelons.
-
-◼️
-
-[Data](articles/7c28af27.json)
-
-[Extended Data](ext_articles/7c28af27.ext.json)
-
----
-
-### Meeting Ice, Heroin and firearms from watermelon
-
-*2025-09-22 13:25:24* · [`adalk`](https://www.ada.lk/breaking_news/කොමඩු-ලොරියෙන්-අයිස්--හෙරොයින්-හා-ගිනි-අවි-හමුවෙයි/11-418648) · `si`
-
-කොමඩු ප්‍රවාහනය කරන ලොරියක විශේෂයෙන් සැකසූ කුටීරයක සඟවා තිබූ අයිස් හා හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 200කට ආසන් ප්‍රමාණයක් හා ගිනි කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
-
-A T-56 riffle and five revolvers were taken into custody by the police seized from the Tangalle area.
-
-◼️
-
-[Data](articles/8558e618.json)
-
-[Extended Data](ext_articles/8558e618.ext.json)
 
 ---

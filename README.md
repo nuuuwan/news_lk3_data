@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 04:38:17**
+As of **2025-09-23 05:05:51**
 
 ## Newspaper Stats
 
-*Scraped **77,541** Articles*
+*Scraped **77,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ dailyftlk | 5,510
 adalk | 7,528
 adaderanalk | 10,039
 tamilmirrorlk | 11,660
-virakesarilk | 12,620
+virakesarilk | 12,623
 adaderanasinhalalk | 13,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,541 (100.0%) of 77,541 articles have been extended.
+77,544 (100.0%) of 77,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### Parliament meets today
+
+*2025-09-23 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225807) · `ta`
+
+The second parliamentary session of September is scheduled to be held from 23rd to 26th Tuesday.  Parliamentary Secretary General Kushani Rohanadheera said that this was decided at a recent meeting on the recent Parliamentary Affairs Committee chaired by Speaker Jagath Wickremaratne.
+
+Accordingly, the Parliament will meet every day from 9.30 am to 10.00 am on the Standing Ordinance of 1 to 6.. Subsequently, the time has been allocated for questions from 10.00 am to 11.00 am and the time of the Standing Ordinance of 11.00 pm to 11.30 pm is assigned to the question of 27 (2).
+
+Accordingly, the second assessment of the National Building Arachchi Bill was decided to hold a debate on Tuesday, 23rd to 5.00 pm.
+
+Thereafter, time has been set up for the debate for the adjournment of the opposition from 5.00 pm to 5.30 pm.
+
+...
+
+[Data](articles/1b2523b9.json)
+
+[Extended Data](ext_articles/1b2523b9.ext.json)
+
+---
+
+### Lorry accident on southern highway
+
+*2025-09-23 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/225806) · `ta`
+
+One person was injured in an accident on Monday night (22) night between Dhakoda and Kalanigama on the Southern Expressway.
+
+A lorry carrying books from Galle to Colombo lost control and collapsed on the street. As a result, traffic on the road to Colombo has been temporarily paralyzed, police said.
+
+It is noteworthy that heavy traffic congestion has been caused by this situation.
+
+◼️
+
+[Data](articles/71621489.json)
+
+[Extended Data](ext_articles/71621489.ext.json)
+
+---
+
+### The UN. President departed to the United States to attend the 80th General Assembly session
+
+*2025-09-23 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225805) · `ta`
+
+President Anuragumara Dissanayake has left the island to attend the 80th General Assembly session of the United Nations.
+
+The President will address the United Nations General Assembly at 3.15 pm on Wednesday 24th.
+
+During the visit, President Anuragumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several leaders.
+
+President Anura Kumara Dissanayake accompanied Foreign, Foreign Employment and Tourism Minister Vijitha Herath during the visit.
+
+◼️
+
+[Data](articles/4c7bc0e2.json)
+
+[Extended Data](ext_articles/4c7bc0e2.ext.json)
+
+---
 
 ### Petrol Bomb Bomb on the house
 
@@ -2005,69 +2063,5 @@ Plandani Kumara Dissanayake said that President Anura Kumara Dissanayake had not
 [Data](articles/ab35ab64.json)
 
 [Extended Data](ext_articles/ab35ab64.ext.json)
-
----
-
-### Demonstration against state corruption in the Philippines!
-
-*2025-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225746) · `ta`
-
-Many people have taken to the streets to protest because they are said to have spent billions of dollars on fake relief projects.
-
-Tens of thousands of Philippines took to the streets on Sunday (21) against government corruption.
-
-Citizens from students, church groups, celebrities and various political camps have staged protests in Manila and other cities.
-
-Police have arrested 72 people, including 20 children, during these protests. Also, 39 security officers were injured in the demonstration. It is reported that a trailer vehicle used as a barrier was also set on fire.
-
-Various issues are attributed to these struggles, including the bribery of lawmakers and authorities.
-
-At the same time, important projects have not been implemented to protect the country from flooding. The Philippine government's estimates suggest that the country's economy has lost £ 1.48 billion in the last two years due to corruption in flood control projects.
-
-...
-
-[Data](articles/f6b5ec75.json)
-
-[Extended Data](ext_articles/f6b5ec75.ext.json)
-
----
-
-### Arrested doctor who cheated for 20 years
-
-*2025-09-22 14:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வருடங்களாக-ஏமாற்றிய-வைத்தியர்-கைது/175-365064) · `ta`
-
-A 54 -year -old man who allegedly pretended to be a doctor for nearly two decades was arrested yesterday evening (21).
-
-The suspect from the Teltuwa area has runs a medical center under the name Sahana Seva near Sri Tharakarama Vihara.
-
-He said that he was using the registration number of the Sri Lanka Medical Council (SLMC) owned by another doctor, police said.
-
-◼️
-
-[Data](articles/c57a075a.json)
-
-[Extended Data](ext_articles/c57a075a.ext.json)
-
----
-
-### Order to demolish a hotel owned by former governor's wife
-
-*2025-09-22 14:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஆளுநரின்-மனைவிக்கு-சொந்தமான-ஹோட்டலை-இடிக்க-உத்தரவு/175-365063) · `ta`
-
-Mrs. Ajanta, wife of former North Central Provincial Governor Maibala Herath, has been ordered to demolish the hotel owned by Rupasi Herath.
-
-The order was issued by Sudarshana Dissanayake, the Divisional Secretary of the Central Nuwarasam, and confirmed that he had occupied 60 perch protected land, including the hotel and several structures nearby.
-
-According to the authorities, constructions were carried out without formal documents or legal approval. The demolition work must be completed within a month of the announcement.
-
-The move is part of a vast government effort to border and secure the reserves of ponds in Anuradhapura district.
-
-The scheme, carried out by the Irrigation Department, includes measurement of land and establishing border markers to prevent encroachments in the future.
-
-...
-
-[Data](articles/7b9d75e0.json)
-
-[Extended Data](ext_articles/7b9d75e0.ext.json)
 
 ---

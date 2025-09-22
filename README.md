@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 19:02:35**
+As of **2025-09-22 19:21:17**
 
 ## Newspaper Stats
 
-*Scraped **77,465** Articles*
+*Scraped **77,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,527
-adaderanalk | 10,024
+adaderanalk | 10,026
 tamilmirrorlk | 11,654
 virakesarilk | 12,606
-adaderanasinhalalk | 13,535
+adaderanasinhalalk | 13,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,465 (100.0%) of 77,465 articles have been extended.
+77,467 (100.0%) of 77,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### සීනිමෝදර ප්‍රදේශයෙන් හමුවූ පිරිමි මළ සිරුරු ගැන තොරතුරු රැසක් හෙළිවෙයි
+
+*2025-09-22 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214880) · `si`
+
+තංගල්ල, සීනිමෝදර ප්‍රදේශයේ අලුත්වැඩියා කරමින් පවතින නිවසක තිබී හමුවූ පිරිමි මළ සිරුරු දෙක සම්බන්ධයෙන් තවත් තොරතුරු කිහිපයක් අනාවරණය වී තිබේ.
+
+අදාළ සිරුරු තංගල්ල පොලිිසිය විසින් අද (22) උදෑසන සොයාගනු ලැබීය.
+
+තංගල්ල, සීනිමෝදර පැරණි නිවසක් මිලදී ගත් තැනැත්තෙකු විසින් ඒ වටා තාප්පයක් ඉදිකරවා ඇති අතර දින ගණනක් පුරා එහි ඉදිකිරීම් සිදුකරමින් තිබුණු බව වාර්තා වෙයි.
+
+නිවස අලුත්වැඩියා කිරීමට කම්කරුවන් තිදෙනෙක් එක්ව සිට ඇති අතර ඔවුන් එම නිවස තුළ ඊයේ රාත්‍රියේ මත්පැන් පානය කර ඇති බව පොලීසිය පවසයි.
+
+එහිදී හදිසියේ අසනීප වූ අයෙක් ඒ බව සිය දරුවන්ට දැනුම්දීමෙන් පසු ඔවුන් පැමිණ එම පුද්ගලයා තංගල්ල මූලික රෝහලට ඇතුළත් කර තිබුණි.
+
+මියගොස් තිබුණේ 50 හැවිරිදි තුසිත කුමාර නම් තංගල්ල, විතාරන්දෙණිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මරණය පිළිබඳ ඔහුගේ දරුවන් තංගල්ල පොලීසියට පැමිණිලි කිරීමත් සමඟ පොලිස් නිලධාරීන්, ඉදිකෙරෙමින් පවතින නිවසට අද ගොස් පරීක්ෂණ ආරම්භ කර තිබේ.
+
+නිවසේ කාමරයක් තුළ තිබී තවත් පුද්ගල මළ සිරුරු දෙකක් හමුවී ඇත්තේ ඒ අනුවය.
+
+මියගොස් තිබුණේ කවිඳු කල්හාර නමැති 21 හැවිරිදි සහ ධනුක ලක්ෂාන් නම් 24 හැවිරිදි තරුණයන් දෙදෙනෙකි.
+
+...
+
+[Data](articles/0f4a1e10.json)
+
+---
 
 ### LTTE's 6,000 gold items handed over to Central Bank: CIT
 
@@ -93,6 +121,28 @@ The present government has increased the organized crime and the drug network du
 [Data](articles/d527b02e.json)
 
 [Extended Data](ext_articles/d527b02e.ext.json)
+
+---
+
+### CEB trade unions to continue work-to-rule campaign until Wednesday
+
+*2025-09-22 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112782/ceb-trade-unions-to-continue-work-to-rule-campaign-until-wednesday) · `en`
+
+All trade unions affiliated to the Ceylon Electricity Board (CEB) have decided to continue their ongoing work-to-rule trade union action until Wednesday (24).
+
+This was announced today (22) at a media briefing by Prabath Priyantha, the General Secretary of the CEB Nidahas Sevaka Sangamaya.
+
+He stated that if authorities fail to provide satisfactory solutions to their demands, a decision on the next phase of the trade union action will be taken on September 24.
+
+“On the 24th of September, representatives from 25 trade unions will meet again. If no constructive discussions take place within the next two days, we will be compelled to move to the final stage of trade union action. Whether it will be a one-day strike, a token strike, or an indefinite strike — we will clearly announce our decision on Wednesday,” he said.
+
+CEB unions have emphasized that continued inaction or lack of engagement from authorities will result in an escalation of their trade union efforts.
+
+◼️
+
+[Data](articles/ecb16369.json)
+
+[Extended Data](ext_articles/ecb16369.ext.json)
 
 ---
 
@@ -221,6 +271,24 @@ When the country is ruined by your model, the woman has threatened the journalis
 [Data](articles/43486f37.json)
 
 [Extended Data](ext_articles/43486f37.ext.json)
+
+---
+
+### ASPI closes at new all-time high today
+
+*2025-09-22 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112780/aspi-closes-at-new-all-time-high-today) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 141 points today (22).
+
+Accordingly, the ASPI rose by 141.78 points or 0.67% to close at 21,226.87 points, surpassing the previous high of 21,085.09 points recorded on September 19, 2025.
+
+Meanwhile, the S&P SL20 Index moved up by 60.97 points to close at 6,057.13 points.
+
+◼️
+
+[Data](articles/b5e1e5ce.json)
+
+[Extended Data](ext_articles/b5e1e5ce.ext.json)
 
 ---
 
@@ -1991,65 +2059,5 @@ Responding to this, Israeli Prime Minister Benjamin Netanyahu said on Sunday (21
 [Data](articles/1b9c8a1c.json)
 
 [Extended Data](ext_articles/1b9c8a1c.ext.json)
-
----
-
-### Adinga sir
-
-*2025-09-22 09:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அடிங்க-சார்-ஒரேயொரு-பல்டிய-அடிச்சிடுங்க/62-365035) · `ta`
-
-◼️
-
-[Data](articles/43d6047a.json)
-
-[Extended Data](ext_articles/43d6047a.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields drop following credit rating upgrade
-
-*2025-09-22 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-drop-following-credit-rating-upgrade-241422/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.10/20 to the US dollar on Monday, stronger from 302.45/50 on Friday, while bond yields were down following the credit rating upgrade, dealers said.
-
-A bond maturing on 15.12.2029 was quoted at 9.48/52 percent, down from 9.50/54 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.66/70 percent, down from 9.70/75 percent.
-
-A bond maturing on 15.03.2031 was quoted flat at 10.00/05 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.35/45 percent.
-
-A bond maturing on 01.11.2033 was quoted at 10.65/70 percent, from 10.65/75 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.75/80 percent.
-
-The telegraphic transfer rates for the American dollar was 298.7500 buying, 305.7500 selling; the British pound was 401.2340 buying, and 412.5958 selling, and the euro was 348.2418 buying, 359.6050 selling.
-
-...
-
-[Data](articles/e2a40830.json)
-
-[Extended Data](ext_articles/e2a40830.ext.json)
-
----
-
-### யாழ்ப்பாணத்தில் ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் இன்று ஆரம்பம்!
-
-*2025-09-22 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225713) · `ta`
-
-The Mobile Service of the Employees Provident Fund organized by the Ministry of Labor has been launched on Monday (September 22).
-
-The Ministry said that the inaugural event was held in Jaffna at 9.00 am under the leadership of Deputy Minister of Labor Mahinda Jayasinghe.
-
-The Mobile Service of the Employees Provident Fund is expected to be held across the country.
-
-The Ministry further stated that various services will be provided through the scheme, including resolving issues relating to members of the Employees Provident Fund, providing employment opportunities through job exhibitions and providing legal advice and guidelines.
-
-◼️
-
-[Data](articles/e9ead4b4.json)
-
-[Extended Data](ext_articles/e9ead4b4.ext.json)
 
 ---

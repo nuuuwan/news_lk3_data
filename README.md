@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 17:06:40**
+As of **2025-09-22 17:20:00**
 
 ## Newspaper Stats
 
-*Scraped **77,449** Articles*
+*Scraped **77,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,525
+adalk | 7,526
 adaderanalk | 10,020
-tamilmirrorlk | 11,649
+tamilmirrorlk | 11,650
 virakesarilk | 12,606
 adaderanasinhalalk | 13,530
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 13,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,446 (100.0%) of 77,449 articles have been extended.
+77,446 (100.0%) of 77,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### சிவசேனை அமைப்பின் போராட்டத்தை குழப்ப வந்த நபர்களால் பதற்றம்
+
+*2025-09-22 16:59:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவசேனை-அமைப்பின்-போராட்டத்தை-குழப்ப-வந்த-நபர்களால்-பதற்றம்/175-365070) · `ta`
+
+வடக்கு கல்வியில் இடம்பெறும் முறைகேடுகள் தொடர்பில் நடவடிக்கை எடுக்க    வலியுறுத்தியும் வடமாகாண கல்வி அமைச்சின் செயலாளரை மாற்ற வேண்டும் என கோரி   யாழ். முத்திரைச் சந்தியில்  அமைந்துள்ள வடமாகாண கல்வித் திணைக்களத்துக்கு முன்பாக  சிவசேனை அமைப்பினரால் திங்கட்கிழமை (22) போராட்டம் முன்னெடுக்கப்பட்டது.
+
+குறித்த போராட்டத்தில் கிளிநொச்சி சென் தெரேசா பாடசாலைக்கு நியமிக்கப்பட்ட அதிபர் உரிய தகுதி நிலைகளுடன் காணப்படாத நிலையில் வடமாகாண கல்வி அமைச்சின் செயலாளரால் நியமிக்கப்பட்டதாக குற்றச்சாட்டுகள் முன்வைக்கப்பட்டது.
+
+அதே சமயம் கிளிநொச்சியில் சில பாடசாலைகளுக்கு இன்னும் நிரந்தர அதிபர் நியமிக்கப்படாத நிலையில் தெரசாவுக்கு மட்டுமே அதிபர் ஓய்வு பெற்று இரு நாட்களில் உரிய தரத்தை பூர்த்தி செய்யாத அதிபரை நியமித்தமை தொடர்பில் தமது கண்டனங்களை தெரிவித்தனர்.
+
+இவ்வாறான நிலையில் கிளிநொச்சியில் இருந்து "கப்" ரக வாகனத்தில் வருகை தந்த குழு ஒன்று தெரேசா பாடசாலையின் அபிவிருத்தி சங்க பிரதிநிதிகள் என தங்களை அறிமுகப்படுத்தி, சிவசேனை அமைப்பின் போராட்டப் பந்தலுக்கு சென்று குழப்பம் விளைவித்தனர்.
+
+...
+
+[Data](articles/d44bd22a.json)
+
+---
 
 ### பாக். விமானப்படை குண்டுவீச்சு: 30 பேர் உயிரிழப்பு
 
@@ -299,6 +317,20 @@ Britain, Canada, Australia and Portugal all recognised a Palestinian state on Su
 [Data](articles/8be7d409.json)
 
 [Extended Data](ext_articles/8be7d409.ext.json)
+
+---
+
+### ජනපතිගේ වත්කම් ප්‍රකාශයේ නැති තොරතුරු උදය කියයි
+
+*2025-09-22 15:09:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-වත්කම්-ප්‍රකාශයේ-නැති-තොරතුරු-උදය-කියයි/11-418650) · `si`
+
+සිය වත්කම් බැරකම් ප්‍රකාශවට ජනපති අනුර කුමාර දිසානායක මහතා ඇතුම් තොරතුරු ඉදිරිපත් කර නොමැති බව පිවිතුරු හෙළ උරුමයේ නායක උදය ගම්මන්පිල මහතා මාධ්‍ය හමුවක් තබමින් සඳහන් කළේය.
+
+"2023 අංක 9 දරණ දූෂණ වීරෝධී පනත සම්මත කරලා වත්කම් ප්‍රකාශයක තොරතුරු ප්‍රසිද්ධ කිරීමට අපි ගත් තීරණයෙන් වත්මන් ආණ්ඩුව බරපතල අමාරුවක වැටිලා.  මේ පනත සම්මත කරන්න කලින් වත්කම් ප්‍රකාශය කියන්නේ රහසිගත ලේඛණයක්.  අපි ලේඛණය සකසලා අලවපු ලියුම් කවරයක සීල් කරලා තමයි භාර දුන්නේ.  අධිකරණ නියෝගයකින් විතරයි ඒක විවෘත කරන්න පුළුවන්.  නමුත් නව පනතින් ඒක වෙනස් වුණා.  පෞද්ගලික තොරතුරු හැර අන් සියල්ලම අල්ලස් කොමිසම විසින් ප්‍රසිද්ධ කළ යුතුයි.  අවාසනාවට මාලිමා නායකයින් මෙහෙම පනතක් සම්මත වෙන බව දැනගෙන ඉඳලා නෑ.  ඒ නිසා මේ අය කිසිම බයක් නැතිව වැරදි තොරතුරු ඉදිරිපත් කරන්නත් වැදගත් තොරතුරු සඟවන්නත් කටයුතු කරලා තිබෙනවා.
+
+...
+
+[Data](articles/ab35ab64.json)
 
 ---
 
@@ -1997,45 +2029,5 @@ Police have taken steps to bring the arrested suspicions and evidence in court. 
 [Data](articles/5b3fe9c1.json)
 
 [Extended Data](ext_articles/5b3fe9c1.ext.json)
-
----
-
-### Happy news of Israel's visa without visa
-
-*2025-09-22 07:49:59* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-වීසා-නැතිව-ඉන්න-ලාංකිකයන්-සුබ-ආරංචියක්/11-418640) · `si`
-
-Sri Lanka's Ambassador to Sri Lanka Nimal Bandara said that discussions with Sri Lankans who do not have visas without the visa without Israel.
-
-He says that the Annual Recentrals were discussed in the Meeting of the Parliamentary Friest Association, which was established in the Parliament at the Parliamentary Level between Israel and Sri Lanka.
-
-The ambassador said that as other foreign nationals are also visible to Sri Lankans, so they said that they were impressed by the committee on the forefront of the PC.
-
-This is due to appear before the committee of the MP's Foreign Workers. He added that TSAGA Melaku, the officials of the Ministry of Foreign Affairs, officials of the Ministry of Foreign Policy and the Sri Lankan Embassy in Parliament Hemantha Ekanayake added.
-
-◼️
-
-[Data](articles/6c00a0eb.json)
-
-[Extended Data](ext_articles/6c00a0eb.ext.json)
-
----
-
-### Sensitive request of a father ready to give life to the child
-
-*2025-09-22 07:40:21* · [`adalk`](https://www.ada.lk/breaking_news/දරුවාට-ජීවිතය-දෙන්න-සූදානම්-පියෙකුගේ-සංවේදී-ඉල්ලීම/11-418639) · `si`
-
-Dambulla was reported from the Inamaluwa area for a loyalty to their economy and treatment for their economy and treatment for their economy to save their kidney disease.
-
-R. M. Forty seven-year-old father, named Senerarat Bandara, was a number of years of severe kidney disease. He pointed out that a child was twenty-three years old, he said.
-
-Their beloved wife R. Mnyluka Sudamyanthi aged forty-three years old. He says she serves as a private trade market in Dambulla and is a daughter who is writing the GCE O / L examination next year.
-
-He says Ruwan Bandara has come to the proposal that a kidney transplanted at many years to survive, he said.
-
-...
-
-[Data](articles/360fa376.json)
-
-[Extended Data](ext_articles/360fa376.ext.json)
 
 ---

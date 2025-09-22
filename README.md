@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 16:21:22**
+As of **2025-09-22 16:10:32**
 
 ## Newspaper Stats
 
-*Scraped **77,440** Articles*
+*Scraped **77,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,525
-adaderanalk | 10,020
+adalk | 7,524
+adaderanalk | 10,018
 tamilmirrorlk | 11,647
 virakesarilk | 12,604
 adaderanasinhalalk | 13,525
@@ -26,47 +26,27 @@ adaderanasinhalalk | 13,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,437 (100.0%) of 77,440 articles have been extended.
+77,436 (100.0%) of 77,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### National inflation rises
+### ජාතික උද්ධමනය ඉහළට
 
 *2025-09-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214869) · `si`
 
-According to the National Customer Price Index (NCPI), the country's point of surface increased to 1.5%.
+ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව 2025 අගෝස්තු මාසයේ මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 1.5%ක් දක්වා ඉහළ ගොස් තිබේ.
 
-The latest report issued by the Department of Census and Statistics indicate the value of this value in July 2025.
+ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි දැක්වෙන්නේ 2025 ජූලි මාසයේ දී මෙම අගය වාර්තා වූ යේ 0.7% ක් ලෙසය.
 
-The feeding of food recorded as 2.2% in July increased to 2.9% in August.
+ජූලි මාසයේ දී 2.2% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 2.9%ක් දක්වා වැඩි වී තිබේ.
 
-The latest report released by the Department of Census and Statistics that the non-food nor of food inflation increased to 0.4% in July.
+ජූලි මාසයේ දී -0.6% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 0.4% ක් දක්වා වැඩි වී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි වැඩිදුරටත් සඳහන්ය.
 
 ◼️
 
 [Data](articles/fee33691.json)
-
-[Extended Data](ext_articles/fee33691.ext.json)
-
----
-
-### Sri Lanka’s inflation climbs to 1.5% in August
-
-*2025-09-22 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112774/sri-lankas-inflation-climbs-to-15-in-august) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 1.5% in August 2025, compared to 0.7% in July 2025, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has increased to 2.9% in August compared to 2.2% in July and the Year-on-Year inflation of the non-food group increased to 0.4% last month from -0.6% in July.
-
-The contribution of food commodities to inflation was 1.26% in August compared to July, 2025.
-
-The NCPI for all items for the month of August 2025 is 207.2 and it records a decrease of 1.1 in index points compared to July.
-
-◼️
-
-[Data](articles/af26fb53.json)
 
 ---
 
@@ -99,26 +79,6 @@ The Colombo Magistrate Court today (22) ordered that the case was filed in writi
 [Data](articles/d26e2fdc.json)
 
 [Extended Data](ext_articles/d26e2fdc.ext.json)
-
----
-
-### World summit to meet on two-state solution as support grows for Palestinian state
-
-*2025-09-22 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112773/world-summit-to-meet-on-two-state-solution-as-support-grows-for-palestinian-state) · `en`
-
-France and Saudi Arabia will convene dozens of world leaders on Monday to rally support for a two-state solution, with several of them expected to formally recognise a Palestinian state - a move that could draw harsh Israeli and U.S. responses.
-
-While the summit could boost the morale of Palestinians, it is not expected to deliver change on the ground, where the most far-right government in Israel’s history has declared there will be no Palestinian state as it pushes on with its war against Hamas in Gaza.
-
-Efforts to create a two-state solution have failed to make any progress for decades as violence raged.
-
-Israel and the United States will boycott the summit, Israel’s U.N. Ambassador Danny Danon, said, describing the event as a “circus.”
-
-Britain, Canada, Australia and Portugal all recognised a Palestinian state on Sunday. France and five other states are expected to also formally recognise a Palestinian state on Monday.
-
-...
-
-[Data](articles/8be7d409.json)
 
 ---
 
@@ -517,26 +477,6 @@ It is noteworthy that Sampath Manamberi is currently being interrogated in conne
 [Data](articles/36ffd265.json)
 
 [Extended Data](ext_articles/36ffd265.ext.json)
-
----
-
-### විදුලි බල සේවකයෝ කැමැත්තෙන් ලිපි දෙති
-
-*2025-09-22 13:05:44* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-සේවකයෝ-කැමැත්තෙන්-ලිපි-දෙති/11-418647) · `si`
-
-විදුලිබල සේවකයෝ පනත අනුව පිහිටුවන නව සමාගම්වලට බැඳීමට කැමැත්ත පළකරමින් ලිපි ලබාදෙන බව බලශක්ති අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-ලංකා විදුලිබල සංශෝධන පනත ක්‍රියාත්මක කරමින් පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත සමාගම් 4කට සේවකයින් සම්බන්ධ කිරීම අරඹා ඇත.
-
-ඒ අනුව, ලංකා විදුලිබල මණ්ඩලයේ සේවකයින්ගෙන් කොටසක් තමන් ඉහත පරිදි පිහිටුවන ආයතනවලට සම්බන්ධ වීමට කැමැත්ත පළ කරමින් ලිපි ලබාදීමට කටයුතු කළහ.
-
-අද (22) පෙරවරුවේ ලංකා විදුලිබල මණ්ඩල මූලස්ථානයේදී මෙලෙස කැමැත්ත පළ කිරීමේ ලිපි  ලංකා විදුලිබල මණ්ඩලයේ සභාපති මහාචාර්ය උදයංග හේමපාල මහතාට ලබා දුන් අතර,  විදුලිබල ක්ෂේත්‍ර ප්‍රතිසංස්කරණ කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල් පුබුදු නිරෝෂන් හැඩිගල්ල මහතාද මේ අවස්ථාවට එක් විය.
-
-2025 අංක 14 දරන ශ්‍රී ලංකා විදුලිබල (සංශෝධිත) පනත අනුව පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත  ජාතික පද්ධති පාලන (පුද්) සමාගම, ජාතික සම්ප්‍රේෂණ ජාල සේවා සැපයුම් (පුද්) සමාගම, විදුලිබල බෙදාහැරීමේ ලංකා (පුද්) සමාගම සහ විදුලි ජනන ලංකා (පුද්) සමාගම යන සමාගම් 04කට ඒ අනුව ඉහත සේවක පිරිස් සම්බන්ධ කරනු ඇත.
-
-...
-
-[Data](articles/6ecec332.json)
 
 ---
 
@@ -2037,5 +1977,71 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to j
 [Data](articles/a407444f.json)
 
 [Extended Data](ext_articles/a407444f.ext.json)
+
+---
+
+### Rain condition continues
+
+*2025-09-22 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214845) · `si`
+
+The extent of rain and wind quality of the island can further expect the existing rain and wind quality.
+
+Showers will occur at times in the Western and Sabaragamuwa provinces and in the North, Matara, Kandy and Nuwara Eliya districts.
+
+The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+Katt and Hambantota districts in the Central, Western, North-Central and North Western Provinces. Around 30-40ths can cause stronger winds.
+
+The Meteorology Department requests the public to minimize the dangers of lightning and temporary strong winds caused by thunderstorms.
+
+◼️
+
+[Data](articles/9ea267a3.json)
+
+[Extended Data](ext_articles/9ea267a3.ext.json)
+
+---
+
+### Portugal formally recognises Palestinian state, minister says
+
+*2025-09-22 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112745/portugal-formally-recognises-palestinian-state-minister-says) · `en`
+
+Portugal’s Foreign Affairs Minister Paulo Rangel announced on Sunday that the country has now recognised the state of Palestine.
+
+“The recognition of the state of Palestine is the realization of a fundamental, constant, and fundamental line of Portuguese foreign policy,” Rangel told reporters at the headquarters of Portugal’s permanent mission to the United Nations in New York.
+
+He said that “Portugal advocates the two-state solution as the only path to a just and lasting peace...a ceasefire is urgent”, adding Hamas “cannot have any form of control in Gaza or outside it” and demanding the release of all hostages.
+
+Rangel also said that recognizing the state of Palestine “does not erase the humanitarian catastrophe in Gaza,” and he also condemned the situation of starvation there, the destruction, and the “expansion of Israeli settlements in the West Bank.”
+
+◼️
+
+[Data](articles/65cd70ad.json)
+
+[Extended Data](ext_articles/65cd70ad.ext.json)
+
+---
+
+### Showers expected in parts of the island today
+
+*2025-09-22 06:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112744/showers-expected-in-parts-of-the-island-today) · `en`
+
+The Department of Meteorology said that the prevailing showery and windy conditions over the southwestern parts of the island are expected to continue.
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+A few showers may occur in the North Western Province, the Department said.
+
+Showers or thundershowers are likely at a few places in Uva Province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills and in Central, Northern, North Central, and North Western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/165138bc.json)
+
+[Extended Data](ext_articles/165138bc.ext.json)
 
 ---

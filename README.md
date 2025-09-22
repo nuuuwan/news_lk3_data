@@ -1,36 +1,234 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 19:56:11**
+As of **2025-09-22 21:08:17**
 
 ## Newspaper Stats
 
-*Scraped **77,474** Articles*
+*Scraped **77,494** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 633
 bbccomsinhala | 677
-colombotelegraphcom | 775
+colombotelegraphcom | 784
 economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,527
-adaderanalk | 10,030
-tamilmirrorlk | 11,654
-virakesarilk | 12,607
-adaderanasinhalalk | 13,537
+adalk | 7,528
+adaderanalk | 10,033
+tamilmirrorlk | 11,657
+virakesarilk | 12,610
+adaderanasinhalalk | 13,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,474 (100.0%) of 77,474 articles have been extended.
+77,488 (100.0%) of 77,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Police clarify a fake article in social media
+
+*2025-09-22 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214882) · `si`
+
+Police have made a statement regarding a fake letter circulating by social media.
+
+According to the ATN: Attn: Attn: Attn: Attn: "Attn:", "Attn:" is circulated by the Sri Lankan police heading, police said.
+
+The IGP office of the Child and Kantha Abuse of the Child and Kantha Abuse, Police Headquarters is observed that the Director of Computer Emergency Proposal and Director of Sri Lanka Institute of Computer Emergency and Director National Child Protection Authority.
+
+The police further stated that this article was not propagated by the Sri Lanka Police.
+
+The Sri Lanka Police will take legal action against these false letter through the Computer Criminal Investigation Division.
+
+◼️
+
+[Data](articles/d55de471.json)
+
+[Extended Data](ext_articles/d55de471.ext.json)
+
+---
+
+### New Law, which is from today - enhanced sentences
+
+*2025-09-22 19:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அமுலாகும்-புதிய-சட்டம்-அதிகரிக்கப்பட்டது-தண்டனை/175-365078) · `ta`
+
+Hon.
+
+The National Audit (Amendment) Bill was presented in Parliament on 08.07.07.2012 and passed in Parliament on 11.09.2012.
+
+The National Audit Act is amended by the National Audit Act No. 19 of 2018 through this National Audit (Amendment) Bill.
+
+Accordingly, the main objective of this amendment is to provide arrangements for the appointment of an Excess Pay Review Committee, including the structure, timeline and action system, to make a decision regarding the excessive amount recommended by the Auditor General.
+
+In addition, the main amendment is included in the main amendment from 5 months to 6 months, which empower the Auditor General for Companies for Fraud or Corruption.
+
+In addition, the punishment for persons who make mistakes under section 42 and 43 of the primary legislation has been significantly increased.
+
+Accordingly, the Bill comes into effect as the National Audit (Amendment) Act No. 19 of 2025.
+
+◼️
+
+[Data](articles/9418f67d.json)
+
+[Extended Data](ext_articles/9418f67d.ext.json)
+
+---
+
+### Tens of thousands join pro-Palestinian demos, strikes in Italy
+
+*2025-09-22 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112788/tens-of-thousands-join-pro-palestinian-demos-strikes-in-italy) · `en`
+
+Tens of thousands of people protested on Monday (Sep 22) across Italy as part of a day of action to “denounce the genocide in Gaza”, which included transport strikes and port blockades.
+
+The demonstrations came the same day as France and other countries prepared to recognise a Palestinian state at the United Nations General Assembly in New York, following recognition by the UK, Australia and Canada on Sunday.
+
+Italy’s hard-right government under Prime Minister Giorgia Meloni has said it will not recognise a Palestinian state for now.
+
+In Rome, some 20,0000 people gathered in front of the main Termini train station, according to local police, many of them students, shouting “Free Palestine!” and holding up Palestinian flags.
+
+Some had marched via the Colosseum, those at the front holding up a giant banner saying “Against Genocide. Let’s block everything.”
+
+At Termini station, Michelangelo, 17, told AFP he was there to support “a population that is being exterminated”.
+
+...
+
+[Data](articles/f4681574.json)
+
+[Extended Data](ext_articles/f4681574.ext.json)
+
+---
+
+### "There is no need to hand over the configuration to the private person"
+
+*2025-09-22 19:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தி-கட்டமைப்பை-தனியாரிடம்-ஒப்படைக்க-தேவையில்லை/175-365077) · `ta`
+
+President Anura Kumara Dissanayake stressed that the government is always protecting the strength of the country and the government does not need to hand over the electricity sector to private companies under any circumstances.
+
+The President said that the government's position is to ensure the economic growth of the country, national security and sovereignty, and that the government needs to create a proper corporate structure to resolve the confusion in the institutional structure of the power sector.
+
+President Anura Kumara Dissanayake made this statement while attending a review review discussion on new restructuring in the Indian office today (22).
+
+...
+
+[Data](articles/8700380d.json)
+
+[Extended Data](ext_articles/8700380d.ext.json)
+
+---
+
+### "No need to hand over the energy structure to the private" "
+
+*2025-09-22 19:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிசக்தி-கட்டமைப்பை-தனியாரிடம்-ஒப்படைக்க-தேவையில்லை/175-365077) · `ta`
+
+President Anura Kumara Dissanayake stressed that the government would always protect the country's energy sovereignty and made it clear that there was no need to hand over the energy structure to private companies.
+
+The Presidential Media Unit (PMD) said that it is very important to ensure sovereignty of energy for Sri Lanka's economic growth, national security and independence.
+
+The government wants to eliminate the incompetent within the existing institutional structure, not the privatization, its aim is to build the most effective and well -built system.
+
+The President made this statement during the Advancement Review Meeting on New Reforms in the Energy Division.
+
+Members of the Committee appointed to implement reforms, Electricity Distribution Lanka (Pvt) Limited, National Transmission Network Service Provider (Private) Limited, Electricity Production Lanka (Private) Limited and National System Operator (Pvt) Ltd.
+
+...
+
+[Data](articles/b21c3e84.json)
+
+[Extended Data](ext_articles/b21c3e84.ext.json)
+
+---
+
+### Sampath Manamperi's rescue
+
+*2025-09-22 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225794) · `ta`
+
+According to information provided by Sampath Manamberi, he was seized by the Northern Criminal Investigation Officers on Monday, the 22nd of Monday, 22nd.
+
+Weapons were recovered from the Mitteniya area on Monday (22), according to information provided by Sampath Manamberi, a former member of the Mottuka Party, who was arrested in connection with the ice chemical found in the Mitteniya area.. This has been revealed to the suspect, Sampath Manamperi, who was placed under the barrier.
+
+A 9mm-rifle, two rifles, two-56-year-old megacins and abroad-made handguns have been seized by the Northern Crime Officers in the back of a house in Mitteniya.  Investigations revealed that the weapons were buried in a land belonging to Sampath Manamambari on the 3rd.
+
+Meanwhile, Sampath Manamberi, who was searching for a chemical for ice drugs from a land in the Mitteniya-Thalawa area, was arrested by the police on the 17th after surrendering to the Valasmulla court on the 17th.
+
+...
+
+[Data](articles/2fe07f8f.json)
+
+[Extended Data](ext_articles/2fe07f8f.ext.json)
+
+---
+
+### We can compete with any of the world's team, this is the moment we should shine in the World Cup - Samari Attapattu
+
+*2025-09-22 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225793) · `ta`
+
+'We can compete with any team in the world. Not only that, but this year's World Cup is a great opportunity for us, ”said Sri Lanka Women's Cricket Team captain Samari Atapattu.
+
+She was speaking to the ICC on Sri Lanka's opportunities in the 13th Women's World Cup in India and Sri Lanka.
+
+'Playing in the World Cup is not something to do every day. We will not take this occasion normally. It is the biggest honor to lead my nation's team in the ODI World Cup. Playing on our own soil in this competition makes it very good.
+
+'We are excited about getting some matches in the presence of our own fans. This will be a great advantage for us.
+
+'Sri Lanka cricket has improved since the 1990s. Since then we have been participating in a lot of World Cup matches. During this period I am playing, I can say with confidence that we have advanced as a team in the last few years. ”
+
+...
+
+[Data](articles/fcb3db3f.json)
+
+[Extended Data](ext_articles/fcb3db3f.ext.json)
+
+---
+
+### Educational reforms to focus on activity-based learning and religious education: PM Harini
+
+*2025-09-22 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112787/educational-reforms-to-focus-on-activity-based-learning-and-religious-education-pm-harini) · `en`
+
+The Minister of Education, Higher Education, and Vocational Training, Prime Minister Dr. Harini Amarasuriya stated that one of the key objectives of the ongoing education reforms is to increase the focus on activity-based learning in schools.
+
+The Prime Minister noted that as a result of these reforms, students will gradually be directed towards an activity-centered educational model, which will also extend to religious education, making it more interactive and participatory in the future.
+
+These remarks were made during the second meeting of the Hindu Religious Advisory Council, held at the Ministry of Education under the leadership of Prime Minister and Minister of Education, Dr. Harini Amarasuriya.
+
+During the meeting, the advisory council pointed out that there is a severe shortage of teachers to teach Hinduism, as many teachers appointed for the subject are currently teaching other disciplines. The council emphasized the need for a solution to the predicament.
+
+...
+
+[Data](articles/62c204b6.json)
+
+[Extended Data](ext_articles/62c204b6.ext.json)
+
+---
+
+### Quinton de Kock from one day cricket retirement; Joins the tour of Pakistan
+
+*2025-09-22 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225792) · `ta`
+
+Quinton de Kock, who announced his retirement from international ODI cricket with the ICC World Cup 2023 tournament in India, has decided to change the decision and play ODIs again.
+
+Quinton de Kock has been reunited with the South African squad for the International ODI series against Pakistan.. He has also been named in the R20 group.
+
+South Africa announced on Monday (22) that three groups to play in three international cricket series against Pakistan.
+
+During the recent Test cricket series against England, the usual team captain Tempa Bauma has not been included in the series for the series.
+
+Mathew Breedzai will be the captain of the ODI cricket team and David Miller will be the captain of the R20 cricket team.
+
+Donawan Berera has been appointed as the captain of the South African team in the International T20 cricket series against Namibia.
+
+...
+
+[Data](articles/26fbdd2d.json)
+
+[Extended Data](ext_articles/26fbdd2d.ext.json)
+
+---
 
 ### School-based activities should be more inclined - Prime Minister Harinini
 
@@ -101,6 +299,30 @@ They said that if the authorities did not provide solutions to their demands, th
 [Data](articles/65292d70.json)
 
 [Extended Data](ext_articles/65292d70.ext.json)
+
+---
+
+### New details emerge on bodies found in renovated house in Seenimodara
+
+*2025-09-22 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112786/new-details-emerge-on-bodies-found-in-renovated-house-in-seenimodara) · `en`
+
+New details have come to light regarding the bodies of two males discovered inside a partially renovated house in Seenimodara, Tangalle.
+
+The bodies were found by the Tangalle Police this morning (22).
+
+According to reports, an individual who had recently purchased the old house had commenced constructing a boundary wall around the property, and renovation work had been ongoing for several days.
+
+Three laborers had been employed to assist with the renovations, and according to police, the workers had consumed alcohol inside the house last night.
+
+One of the individuals had suddenly fallen ill, and after notifying his children, they arrived and admitted him to the Tangalle Base Hospital, where he passed away early this morning.
+
+The deceased was identified as a 50-year-old resident of Vitharandeniya, Tangalle.
+
+...
+
+[Data](articles/21c31ded.json)
+
+[Extended Data](ext_articles/21c31ded.ext.json)
 
 ---
 
@@ -547,6 +769,28 @@ Accordingly, the main objective of these amendments are to provide provisions fo
 [Data](articles/d9eaa86e.json)
 
 [Extended Data](ext_articles/d9eaa86e.ext.json)
+
+---
+
+### විගණකාධිපතිගේ බලතල වැඩි කරන පනතට කථානායක සහතිකය
+
+*2025-09-22 16:26:39* · [`adalk`](https://www.ada.lk/breaking_news/විගණකාධිපතිගේ-බලතල-වැඩි-කරන-පනතට-කථානායක-සහතිකය/11-418653) · `si`
+
+ජාතික විගණන (සංශෝධන)  පනත් කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද (22) සිය සහතිකය සටහන් කළේය.
+
+විගණන (සංශෝධන) පනත් කෙටුම්පත  2025.07.08 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර, 2025.09.11 දින සංශෝධන සහිතව පාර්ලිමේන්තුවේදී   සම්මත විය.
+
+මෙම ජාතික විගණන (සංශෝධන) පනත්  කෙටුම්පත  මගින්  2018 අංක 19 දරන ජාතික විගණන පනත සංශෝධනය කිරීම  අරමුණ  කර ඇත.
+
+ඒ අනුව විගණකාධිපතිවරයා විසින් නිර්දේශ කරනු ලබන අධිභාර පැනවීම සම්බන්ධයෙන් තීරණ ගැනීම සඳහා එහි සංයුතිය, කාල සීමාවන් සහ ක්‍රියා පටිපාටි ඇතුළුව අධිභාර සමාලෝචන කමිටුවක් පිහිටුවීම සඳහා ප්‍රතිපාදන සැපයීම මෙම සංශෝධනවල ප්‍රධාන අරමුණ වී ඇත.
+
+තවද වංචා හෝ දූෂණ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීමේ ආයතනවලට පැමිණිලි කිරීමට විගණකාධිපතිවරයාට බලතල ලබාදීම සහ වාර්ෂික සවිස්තරාත්මක කළමනාකරණ විගණන වාර්තාව ඉදිරිපත් කිරීමේ කාලය මාස පහේ සිට මාස හයක් දක්වා දීර්ඝ කිරීම ප්‍රධාන වෙනස්කම් අතරට ඇතුළත් වේ.
+
+තවද, සංශෝධන මගින් ප්‍රධාන ප්‍රඥප්තියේ 42 සහ 43 වගන්ති යටතේ වැරදි සිදු කරන පුද්ගලයින් සඳහා දඬුවම් සැලකිය යුතු ලෙස වැඩි කිරීමද  සිදු කර ඇත.
+
+...
+
+[Data](articles/1b2842fd.json)
 
 ---
 
@@ -1177,6 +1421,22 @@ A T-56 riffle and five revolvers were taken into custody by the police seized fr
 [Data](articles/8558e618.json)
 
 [Extended Data](ext_articles/8558e618.ext.json)
+
+---
+
+### Waste & Accountability: Why Institutions Must Lead By Example
+
+*2025-09-22 13:23:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/waste-accountability-why-institutions-must-lead-by-example/) · `en`
+
+Across South Asia, institutions from hospitals to universities and government offices have no shortage of waste management policies. Documents are signed, committees formed, and declarations issued. Yet walk into the backyards of these same institutions, and the story looks very different. Biomedical waste left in open bins, hazardous chemicals poured down drains, and overflowing bins where plastic, paper, and food waste are all dumped together.
+
+The gap between what policies states and how they are practiced is more than just an administrative oversight. It weakens public trust and puts communities at serious risk. When hospitals fail to dispose of biomedical waste safely, they don’t just put their own staff at risk they endanger sanitation workers, patients, their families, and entire neighborhoods. When schools or universities treat waste as an afterthought, they send a message to young people that environmental safety is negotiable.
+
+...
+
+[Data](articles/8285b9f7.json)
+
+[Extended Data](ext_articles/8285b9f7.ext.json)
 
 ---
 
@@ -1823,245 +2083,5 @@ Hong Kong’s Observatory said it would issue the lowest typhoon signal at noon 
 [Data](articles/d1ff429c.json)
 
 [Extended Data](ext_articles/d1ff429c.ext.json)
-
----
-
-### Sasheendra Rajapaksa again
-
-*2025-09-22 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-மீண்டும்-விளக்கமறியல்/175-365045) · `ta`
-
-Former State Minister Sasheendra Rajapakse has been extended to the arrest and interrogated.
-
-Accordingly, the Colombo Magistrate's Court has ordered Sasheendra Rajapaksa to be remanded until the 30th.  R
-
-◼️
-
-[Data](articles/6a60d557.json)
-
-[Extended Data](ext_articles/6a60d557.ext.json)
-
----
-
-### 35th anniversary
-
-*2025-09-22 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35வது-ஆண்டு-நினைவேந்தல்/175-365043) · `ta`
-
-The 35th anniversary of the 17 Tamils ​​who were assassinated in the village of Pudukkudiyiruppu in Batticaloa were consciously observed on Sunday evening (21).
-
-On September 21, 1990, at 7 pm, at 7 pm, the soldiers and the soldiers who had entered the village of Pudukkudiyiruppu, along with them, had raised the 45 innocent Tamil people of the house to sleep and allocated them to the coast.
-
-Although some of those who took the investigation survived, 17 people, including girls, were brutally murdered at midnight.
-
-Their bodies were recovered and buried by the people of the area with gun wounds and cut wounds. In honor of the deceased, the flame was lit and the silent tribute was paid to the relatives organized by relatives at the Pudukkudiyiruppu. In the assassination, 99 men were murdered, including 08 women.
-
-Relatives of the deceased have expressed concern that even 35 years after the murder, there has been no justice.
-
-◼️
-
-[Data](articles/44687103.json)
-
-[Extended Data](ext_articles/44687103.ext.json)
-
----
-
-### Hearing of case against Yoshitha and his grandmother adjourned
-
-*2025-09-22 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112756/hearing-of-case-against-yoshitha-and-his-grandmother-adjourned) · `en`
-
-The Colombo High Court has ordered that the case filed by the Attorney General against Yoshitha Rajapaksa, son of former President Mahinda Rajapaksa, and his grandmother, Daisy Forrest, over the alleged unlawful acquisition of assets worth approximately Rs. 73 million, be recalled on October 15.
-
-Yoshitha Rajapaksa and his grandmother, Daisy Forrest, who are named as defendants, appeared in court when the case was called.
-
-The Court subsequently ordered that the case be taken up on October 15, said Ada Derana reporter.
-
-The case was filed under the Prevention of Money Laundering Act by the Attorney General against Yoshitha Rajapaksa and Daisy Forrest, alleging they unlawfully acquired assets and property worth approximately Rs. 73 million.
-
-◼️
-
-[Data](articles/5ee16aea.json)
-
-[Extended Data](ext_articles/5ee16aea.ext.json)
-
----
-
-### LTTE contact: Court permits to investigate Sri Lankan woman
-
-*2025-09-22 10:40:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளுடன்-தொடர்பு-இலங்கைப்-பெண்ணை-விசாரிக்க-நீதிமன்றம்-அனுமதி/175-365042) · `ta`
-
-The Special National Intelligence Agency in Chennai has granted permission to the Department of Enforcement in Chennai to investigate the alleged money allegations of allegedly involved in the Liberation Tigers of Tamil Eelam (LTTE).
-
-Mary Francisa Letsumanan, a woman in Tamil Nadu, has been jailed.
-
-He is already being investigated by the National Intelligence Agency on charges of allegedly being in touch with the LTTE.
-
-It has been reported that the agent is involved in the money laundering case filed by 2022.
-
-Officials say he has been accused of using fake Indian identity documents to make money from a bank account in Mumbai.
-
-In the meantime, the enforcement department officials told the court that it is necessary to investigate the woman who is involved in illegal money transfers and the woman to identify the networks.
-
-The court accepted it and allowed the authorities to investigate him in prison for two days.
-
-...
-
-[Data](articles/e6f856d1.json)
-
-[Extended Data](ext_articles/e6f856d1.ext.json)
-
----
-
-### Another news about Sampath Manamberi
-
-*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-தொடர்பில்-மற்றுமொரு-செய்தி/175-365041) · `ta`
-
-Two golden megacins, one 9mm pistol, one handbag and 115, T-56 bullets, suspected of being buried by Sampath Manamberry, have been found in a land in the Mitteniya region.
-
-It is said that Becko Saman gave these guns and bullets to Sampath Manamperi 2 months ago and buried in the house of his close one.
-
-These guns and bullets were recovered based on investigations conducted by Becko Saman and Sampath Manamperiya.  R
-
-◼️
-
-[Data](articles/1998524b.json)
-
-[Extended Data](ext_articles/1998524b.ext.json)
-
----
-
-### Recovery in Manamperi's golden megacins
-
-*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனம்பேரியின்-தங்க-நிற-மெகசின்கள்-மித்தெனியவில்-மீட்பு/175-365041) · `ta`
-
-Two golden megacins, one 9mm pistol, one handbag, and 115, T-56 bullets, suspected of buried by Sampath Manamperi, have been found in a land in Mitteniya.
-
-It is said that Becko Saman gave these guns and bullets to Sampath Manamperi 2 months ago and buried in the house of his close one.
-
-These guns and bullets were recovered based on investigations conducted by Becko Saman and Sampath Manamperiya.  R
-
-◼️
-
-[Data](articles/e66b00d2.json)
-
-[Extended Data](ext_articles/e66b00d2.ext.json)
-
----
-
-### Sasheendra Rajapaksa's bail plea rejection; Explanation extending!
-
-*2025-09-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225725) · `ta`
-
-The Colombo Chief Magistrate's Court on Monday (22) ordered the former State Minister Sasheendra Rajapakse to be remanded until September 30.
-
-The order was issued when Sasheendra Rajapaksa was produced in court today.
-
-The bribery and corruption inquiry commission officials were arrested on August 06 in connection with the incident in which the former Minister of State Sasheendra Rajapaksa was in Nugegoda in Nugegoda in connection with the incident in which the government was compensated by another person in the Sevanagala -Gripan Veeva area during the country.
-
-◼️
-
-[Data](articles/3d43ae24.json)
-
-[Extended Data](ext_articles/3d43ae24.ext.json)
-
----
-
-### Prabhakaran's telephone number is like a mother: Vijay
-
-*2025-09-22 10:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-ஒரு-தாயைப்-போன்றவர்-விஜய்/175-365040) · `ta`
-
-LTTE leader Velupillai Prabhakaran said at a rally in Nagapattinam, Tamil Nadu, leader of the Tamil Nadu Victory Association, "Like a Mother of the Sri Lankan Tamil people."
-
-“In any corner of the world, our relatives, Eelam Tamil people, lose a leader who showed mother affection. Therefore, it is our duty to speak for them. ”
-
-The issue of Sri Lankan Tamils ​​is considered an emotional problem in the areas where the major fisheries community like Nagapattinam.
-
-In 2008, Vijay engaged in a hunger strike in Chennai on behalf of Sri Lankan Tamils. Political critics, however, point out that it is not the same to support the Sri Lankan Tamils ​​and support the banned LTTE in India.
-
-Apart from praising Prabhakaran, Vijay said that his party's main goal is to solve the problems of the fishermen community. Also, MK. He also criticized Stalin's government and said that his party would not write long letters to solve fishing issues, but also looking for solutions.
-
-...
-
-[Data](articles/2edc83af.json)
-
-[Extended Data](ext_articles/2edc83af.ext.json)
-
----
-
-### Two bodies recovered from an old house in Tangalle!
-
-*2025-09-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225714) · `ta`
-
-The bodies of two men have been recovered from an old house rehabilitated in the Tangalle - Seenimodara area in Hambantota, Tangalle police said.
-
-A raid carried out by police near the house has seized 10 packs of ice from a lorry.
-
-Another person in the house has been admitted to the Tangalle General Hospital due to a sudden illness, police investigations have revealed that they have died later.
-
-◼️
-
-[Data](articles/2cddb72f.json)
-
-[Extended Data](ext_articles/2cddb72f.ext.json)
-
----
-
-### Tangalle two bodies recovery
-
-*2025-09-22 10:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-இரண்டு-சடலங்கள்-மீட்பு/175-365039) · `ta`
-
-Two bodies have been recovered in an abandoned house which is being renovated in the Tangalle Seenimodara area.
-
-In a raid conducted at the site, police said that 10 packets suspected of being an ice (crystal methampetamine) hidden in a truck parked near the house were found.
-
-Another person at the scene was reportedly taken to Tangalle General Hospital. He died later.
-
-Police have launched a full -scale investigation into the incident, while the state analyst's department is conducting autopsy to find out the causes of death.
-
-◼️
-
-[Data](articles/c9c31010.json)
-
-[Extended Data](ext_articles/c9c31010.ext.json)
-
----
-
-### The Chinese Prime Minister Prime Minister Prime Minister's America points to the United States of bilateral relations with China
-
-*2025-09-22 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214856) · `si`
-
-China has pointed out the need to look at bilateral relations with China.
-
-The Chinese Prime Minister has emphasized the need to take steps to look at China and bilateral relationships and facilitate the exchange and cooperation.
-
-The Prime Minister of the Chinese Prime Minister has asked the US Congress to play Chinese-American friendship and public development.
-
-The Chinese Prime Minister LI QIANG visited a group of US Congress representatives yesterday (21) at Beijing yesterday.
-
-He added that the maintenance, strong and sustainable development of bilateral relations is the major countries that have a significant global impact on the major countries that have a significant global impact on the common needs of both sides.
-
-The President of the two countries have agreed to enhance the dialogue and cooperation this year, directing bilateral relations to enhance bilateral relations.
-
-...
-
-[Data](articles/121618f2.json)
-
-[Extended Data](ext_articles/121618f2.ext.json)
-
----
-
-### Court rejects Shasheendra’s bail appeal, further remanded
-
-*2025-09-22 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112755/court-rejects-shasheendras-bail-appeal-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa,  has been further remanded until September 30 after the Colombo Chief Magistrate’s Court rejected his bail application today (22), Ada Derana reporter said.
-
-Colombo Chief Magistrate Asanka S. Bodaragama has rejected Shasheendra’s bail application and ordered that he be further remanded in custody.
-
-Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on charges of committing the offense of “corruption” under the Anti-Corruption Act by illegally obtaining Rs. 8,850,000 as compensation for the destruction of his political office, which had been constructed on a Mahaweli land, by protesters during the ‘Aragalaya’.
-
-◼️
-
-[Data](articles/fa80ec18.json)
-
-[Extended Data](ext_articles/fa80ec18.ext.json)
 
 ---

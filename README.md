@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 13:40:28**
+As of **2025-09-22 13:57:17**
 
 ## Newspaper Stats
 
-*Scraped **77,407** Articles*
+*Scraped **77,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,113 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,519
+adalk | 7,521
 adaderanalk | 10,015
-tamilmirrorlk | 11,642
-virakesarilk | 12,600
-adaderanasinhalalk | 13,519
+tamilmirrorlk | 11,644
+virakesarilk | 12,601
+adaderanasinhalalk | 13,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,406 (100.0%) of 77,407 articles have been extended.
+77,407 (100.0%) of 77,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### නායක හිමිගේ බැංකු ගිණුමෙන් දෙකෝටියකට වැඩි මුදලක් ඇද්ද 04ක් අල්ලයි
+### ஜனாதிபதி மாளிகை அருகே மோதல் ; 49 பேர் கைது
+
+*2025-09-22 13:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-மாளிகை-அருகே-மோதல்-49-பேர்-கைது/50-365059) · `ta`
+
+பிலிப்பைன்ஸ் தலைநகரில் அமைதியான ஊழல் எதிர்ப்பு பேரணி நடைபெற்ற போது, அதிகாரிகள் மீது கற்கள், பாட்டில்கள் மற்றும் தீ குண்டுகளை வீசியதாகவும், ஜனாதிபதி மாளிகைக்கு செல்லும் பலத்த பாதுகாப்புடன் கூடிய வீதிகள் மற்றும் பாலங்களைத் தடுத்ததாகவும் சந்தேகிக்கப்படும் 49 பேரை பொலிஸார் கைது செய்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தகவல் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/6257f9b7.json)
+
+---
+
+### தங்காலையில் போதைப்பொருள், துப்பாக்கிகளுடன் லாரி பறிமுதல்
+
+*2025-09-22 13:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-போதைப்பொருள்-துப்பாக்கிகளுடன்-லாரி-பறிமுதல்/175-365058) · `ta`
+
+தங்காலை,கொடெல்ல, கடுருபோகுன வீதியில் உள்ள ஒரு வீட்டில் மறைத்து வைக்கப்பட்டிருந்த ஒரு லாரியில் 200 கிலோவுக்கும் அதிகமான போதைப்பொருள், ஒரு டி-56 துப்பாக்கி மற்றும் ஐந்து நவீன ரிவால்வர்கள் ஆகியவை ​பொலிஸாரால் பறிமுதல் செய்யப்பட்டுள்ளன.
+
+தர்பூசணிகளை கொண்டு செல்வது என்ற போர்வையில் லாரியில் ஒரு சிறப்பு பெட்டியில் போதைப்பொருள் மற்றும் துப்பாக்கிகள் கொண்டு செல்லப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7c28af27.json)
+
+---
+
+### කොමඩු ලොරියෙන් අයිස්, හෙරොයින් හා ගිනි අවි හමුවෙයි
+
+*2025-09-22 13:25:24* · [`adalk`](https://www.ada.lk/breaking_news/කොමඩු-ලොරියෙන්-අයිස්--හෙරොයින්-හා-ගිනි-අවි-හමුවෙයි/11-418648) · `si`
+
+කොමඩු ප්‍රවාහනය කරන ලොරියක විශේෂයෙන් සැකසූ කුටීරයක සඟවා තිබූ අයිස් හා හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 200කට ආසන් ප්‍රමාණයක් හා ගිනි කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
+
+තංගල්ල ප්‍ර දේශයේදී පොලිස් භාරයට ගත් ගිනි අවි අතර ටී 56 ගිනි අවියක් හා රිවෝල්වර පහක් මෙසේ පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/8558e618.json)
+
+---
+
+### තංගල්ලේදී ඇල්ලූ අයිස් සහ හෙරොයින් ප්‍රවාහනය කළ ලොරි රථයේ නවීන ගිනි අවි 4ක් තිබී හමුවෙයි
+
+*2025-09-22 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214863) · `si`
+
+අයිස් සහ හෙරොයින් කිලෝ 200කට ආසන්න ප්‍රමාණයක් ප්‍රවාහනය කරමින් තිබියදී තංගල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගත් ලොරි රථයේ තිබී නවීන ගිනිඅවි 04ක් සොයා ගැනීමට පොලීසිය සමත්ව තිබේ.
+
+මෙම ලොරි රථය අද පෙරවරුවේ ධාවනය කරමින් තිබියදී පොලීසිය විසින් පරීක්ෂා කර ඇති අතර එහිදී මෙම රථය තුළ තිබී අයිස් සහ හොරොයින් කිලෝ 200 පොලීසිය විසින් සොයා ගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/5a0c2a26.json)
+
+---
+
+### Four money charged for more than 4 permit from the leader's bank account
 
 *2025-09-22 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214862) · `si`
 
-පානදුර ප්‍රසිද්ධ විහාරස්ථානයක විහාරාධිපති හිමි නමකගේ බැංකු ගිණුමෙන් රුපියල් දෙකෝටි අටලක්ෂයකට අධික මුදලක් වංචාකාරී ලෙස ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට පුද්ගලයින් සිව්දෙනෙකු පානදුර කොට්ඨාස විශේෂ අපරාධ විමර්ශන ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Panadura Division Special Criminal Investigation Unit has arrested four persons on suspicion of fainting over Rs.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගම්පහ, ජාඇළ, මිනුවන්ගොඩ සහ ඒකල යන ප්‍රදේශවල පදිංචි 33-46ත් අතර වියේ පසුවන පුද්ගලයින් සිව්දෙනෙකි.
+The arrested were four people who were among 33-46 people from Gampaha, Ja Ela, Minuwangoda and Ekala.
 
-පොලීසිය පැවසුවේ සිද්ධිය සම්බන්ධව විහාරාධිපති හිමියන් විසින් සිදුකරනු ලැබූ පැමිණිල්ලක් මත මෙම සැකකරුවන් අත්අඩංගුවට ගත් බවය.
+Police said that the suspects were arrested following a complaint carried out by the Chief Incumbent of the temple.
 
-විහාරාධිපති හිමියන් විසින් පානදුර ප්‍රදේශයේ පුද්ගලික බැංකුවක සිය බැංකු ගිණුම පවත්වාගෙන යමින් තිබූ අතර මීට කලකට පෙර උන්වහන්සේගේ හැඳුනුම්පත අස්ථාන ගතවී තිබේ.
+The Chief Incumbent Thero was maintaining his bank account in Panadura, and a time ago, His ID was missing.
 
-ඒ අනුව මෙම සැකකරුවන් විසින් එම බැංකුවේම වෙනත් බැංකු ශාකාවක අවස්ථා කිහිපයකදී උන්වහන්සේගේ ගිණුමෙන් මුදල් සිය ගිණුම් වෙත මාරු කරගෙන පසුව මුදල් ලබා ගෙන ඇති බවත් පොලීසිය පැවසීය.
+Accordingly, the suspects have transferred money from his account on other banks in the bank and have been transferred from His account to his account and then funded.
 
-සිද්ධිය සම්බන්ධයව අත්අඩංගුවට ගත් සැකකරුවන් පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The suspects are to be produced before the Panadura Magistrate's Court.
 
 ◼️
 
 [Data](articles/20af4222.json)
+
+[Extended Data](ext_articles/20af4222.ext.json)
+
+---
+
+### சம்பத் மனம்பேரிக்கு தங்குமிடம் வழங்கிய மின்சார சபை ஊழியர் கைது!
+
+*2025-09-22 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225736) · `ta`
+
+சம்பத் மனம்பேரிக்கு தங்குமிடம் வழங்கியதாகக் கூறப்படும் இலங்கை மின்சார சபை ஊழியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் போதைப்பொருள் தடுப்புப் பணியகத்தால் அவர் இன்று (22) கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+மித்தெனியாவில் ஐஸ் போதைப்பொருள் தயாரிப்பதற்குப் பயன்படுத்தப்படும் இரசாயனங்கள் அடங்கிய புதைக்கப்பட்ட கொள்கலனைக் கண்டுபிடித்தமை தொடர்பாக, சம்பத் மனம்பேரி தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/36ffd265.json)
 
 ---
 
@@ -347,6 +419,22 @@ Israeli Prime Minister Benjamin Netanyahu strongly opposed the UK, Canada, and A
 [Data](articles/a9d0c282.json)
 
 [Extended Data](ext_articles/a9d0c282.ext.json)
+
+---
+
+### කෝටි 120ක සුදු අලියෙක් වී ඇති ගාල්ල තාක්ෂණික උද්‍යානය
+
+*2025-09-22 11:45:58* · [`adalk`](https://www.ada.lk/technology/කෝටි-120ක-සුදු-අලියෙක්-වී-ඇති-ගාල්ල-තාක්ෂණික-උද්‍යානය/5-418643) · `si`
+
+අත්තිවාරමකට පමණක් සිමා වි ඇති ගාල්ල තාක්ෂණික උද්‍යාන ව්‍යාපෘතිය සදහා   ටෙක්නෝ පාර්ක් ඩිවෙලොප්මන්ට් ප්‍රයිවෙට් ලිමිටඩ් සමාගම  විසින්  අදාළ කොන්ත්‍රාත් සමාගමට හා තාක්ෂණික උපදේශකට රුපියල් කෝටි එකසිය විස්සකට අධික  මුදලක් ගෙවිමට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට  ඇති විගණන වාර්තාවක සදහන් වේ.
+
+ටෙක්නෝ පාර්ක් ඩිවෙලොප්මන්ට් ප්‍රයිවෙට් ලිමිටඩ් සමාගම   රජය විසින් වසා දැමිමට තින්දුකොට ඇති සමාගමකි.
+
+එකි විගණන වාර්තාවට අනුව මෙකි ව්‍යාපෘතිය සදහා අක්මිමන වලහන්දුව වත්ත,ඉඩමෙන්  අක්කර 29  රුඩ් 03, පර්චස් 7.15ක  පවරාගෙන තිබුණි.  මෙකි ව්‍යාපෘතියේ  ප්‍රධාන  කොන්ත්‍රාත්කරු වන්නේ  මාගා  ඉංජිනියරින්ග් ප්‍රයිවෙට් ලිමිටඩ්  ආයතනය වේ.
+
+...
+
+[Data](articles/7c1dc504.json)
 
 ---
 
@@ -1911,123 +1999,5 @@ The Indian team then lost only 4 wickets in 18.5 overs. Abhishek Sharma 74, Shub
 [Data](articles/7674e031.json)
 
 [Extended Data](ext_articles/7674e031.ext.json)
-
----
-
-### A no -confidence motion on the Speaker; At the meeting with the opposition leaders of the end result
-
-*2025-09-22 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225693) · `ta`
-
-No final decision has been taken on the proposal against Speaker Jagath Wickremaratne. United People's Power District Parliamentarian Ajith P. Perera said that the final decision will be taken during a meeting with opposition leaders this week.
-
-The actions of Speaker Jagath Wickremaratne are completely contrary to parliamentary principles and the basic aspects of democracy. He does not protect the democracy of Parliament and the rights of the opposition parties. He acts on behalf of the ruling party.
-
-It is doubtful whether the Speaker is unaware of the power and responsibility of his post. Pimal Ratnayake is directing the Speaker.
-
-The Speaker has ignored the no -confidence motion against Deputy Minister of Defense Aruna Jayasekara.
-
-Various parties have urged the Speaker's unilateral action to bring a no -confidence motion against him.
-
-...
-
-[Data](articles/df431787.json)
-
-[Extended Data](ext_articles/df431787.ext.json)
-
----
-
-### 18.47 million drug recovery at the toilet of the Katunayake airport
-
-*2025-09-22 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225692) · `ta`
-
-The Kush and Hashish narcotics worth more than Rs.18.47 million have been recovered from the toilet for the men's toilet at the Katunayake Bandaranaike International Airport.
-
-They were found by the authorities as a cleanup worker looked after a number of suspicious packages inside the toilet and informed the airport customs and drug detention officers.
-
-During the raid, the drug was confiscated by the police, which were parked at the airport, 422 grams of Kush cannabis and 1.262 kilograms of Hashish drugs hidden in the packages.
-
-In this backdrop, the Katunayake airport police are investigating the people who brought drugs by the Drug Prevention Unit and those responsible for trying to smuggle them through the area.
-
-◼️
-
-[Data](articles/d31d064b.json)
-
-[Extended Data](ext_articles/d31d064b.ext.json)
-
----
-
-### Arrested in Moragahahena
-
-*2025-09-22 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225691) · `ta`
-
-'Pota Amila' and three of his close associates, an organized criminal gang and a drug trafficker, were arrested by the Moragahahena police on Sunday (21).
-
-Police have also seized 5,300 pills and 15,000 milligrams of ice worth about Rs 1 million.  Police have also confiscated 3 mobile phones used for fraud.
-
-Based on information received by the Moragahahena Police, the Investigation Unit and the Special Bureau of the Moragahahena Police, a close friend of the suspect was arrested and 2,200 milligrams of ice.
-
-Later, in a raid to arrest him at the 'Potta Symvin' house, he and the two were arrested and 10,100 milligrams of ice and 5,000 pills were seized from him.. Similarly, 2,100 milligrams of ice and 300 drug pills were discovered from two other suspects.
-
-...
-
-[Data](articles/1172f4f0.json)
-
-[Extended Data](ext_articles/1172f4f0.ext.json)
-
----
-
-### Tangalle -Netolpita
-
-*2025-09-22 01:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225690) · `ta`
-
-The National Risk Lights Control Authority said that this week is looking forward to handing over the test report on the items found in a land in Tangalle, Netolpitiya.
-
-Based on information revealed by the underworld groups arrested in Indonesia and brought to the country, the chemicals allegedly used to make ice from an area in the Mitteniya region were found.
-
-Subsequently, similar items were found in the Tangalle Netolpitiya area and Kandana area and the samples of the items were handed over to the National Risk Lights Control Authority and the State Chemical Analyst Department for testing.
-
-Accordingly, the National Risk Lights Control Board and the Department of State Chemical Analyst have already confirmed the existence of metamatamine Ice in the items found in the Mitteniya region.
-
-In a statement issued by the National Risk Lights Control Board, the National Risk Lights Control Board said that there are 17 of the 20 samples taken from the relevant location.
-
-...
-
-[Data](articles/5e72a773.json)
-
-[Extended Data](ext_articles/5e72a773.ext.json)
-
----
-
-### Declaration of CEB as essential service
-
-*2025-09-22 00:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/CEB-அத்தியாவசிய-சேவையாக-பிரகடனம்/150-365026) · `ta`
-
-President Anuragumara Dissanayake has announced all the services related to electricity as essential services.
-
-◼️
-
-[Data](articles/dbeb8a98.json)
-
-[Extended Data](ext_articles/dbeb8a98.ext.json)
-
----
-
-### Asian Bowl: India defeated Pakistan
-
-*2025-09-22 00:00:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணம்-பாகிஸ்தானை-வீழ்த்திய-இந்தியா/44-365025) · `ta`
-
-India won the Super 4 round match with Pakistan on Sunday (21) in the Asian Cup series.
-
-Suriyakumar Yadav, the captain of the Indian team, who won the currency cycle, announced that Damadhani would be the first to field.
-
-Pakistan, 58 (45), Saim Ayub's 21 (17), Mohamed Nawaz's 21 (19), Bahim Ashraf's unbeaten 20 (08), the captain Salman Akha's unbeaten 20 (09), the 15 (13), Bakr Zam's 15 (13) Scored 171 runs. In bowling, Shivam Tube 4-0-33-2, Kuldeep Yadav 4-0-31-1, Varun Emperor 4-0-25-0.
-
-In reply, India won by 172 runs and lost 4 wickets in 18.5 overs with Abhishek Sharma's 74 (39), Shubman Gillin 47 (28), 30 (19) of Tilak Varman's unbeaten 30 (19).
-
-◼️
-
-[Data](articles/ab8cc5b8.json)
-
-[Extended Data](ext_articles/ab8cc5b8.ext.json)
 
 ---

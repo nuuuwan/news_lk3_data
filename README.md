@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 22:11:11**
+As of **2025-09-22 22:37:27**
 
 ## Newspaper Stats
 
-*Scraped **77,503** Articles*
+*Scraped **77,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,100 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,528
-adaderanalk | 10,034
+adaderanalk | 10,037
 tamilmirrorlk | 11,658
-virakesarilk | 12,613
+virakesarilk | 12,617
 adaderanasinhalalk | 13,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,500 (100.0%) of 77,503 articles have been extended.
+77,510 (100.0%) of 77,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### දක්ෂිණ අධිවේගයේ අනතුරක් - කොළඹ දෙසට මංතීරුවක් අවහිරයි
+### One injured in accident on Southern Expressway – Lane towards Colombo blocked
+
+*2025-09-22 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112793/one-injured-in-accident-on-southern-expressway-lane-towards-colombo-blocked) · `en`
+
+An individual has been injured in an accident that occurred between Dodangoda and Gelanigama exits on the Southern Expressway this evening (22).
+
+The accident took place when a lorry transporting books from Galle to Colombo overturned on the road.
+
+As a result of the incident, one lane towards Colombo is currently blocked, according to police sources.
+
+Reports also indicate that traffic congestion has built up between Dodangoda and Gelanigama due to the lane closure.
+
+◼️
+
+[Data](articles/6b9fd2ed.json)
+
+[Extended Data](ext_articles/6b9fd2ed.ext.json)
+
+---
+
+### An accident on Southern Expressway - Colombo lane
 
 *2025-09-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214886) · `si`
 
-දක්ෂිණ අධිවේගයේ දොඩංගොඩ සහ ගැලනිගම අතර අද (22) රාත්‍රියේ සිදුවු අනතුරක් හේතුවෙන් පුද්ගලයෙක් තුවාල ලබා තිබේ.
+A man was injured in an accident in the Southern Expressway today (22).
 
-ගාල්ල සිට කොළඹ දක්වා පොත් ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් මාර්ගයේ පෙරළී ගොස් අනතුර සිදුව ඇත.
+A lorry that was transporting books from Galle to Colombo has reached the road.
 
-අනතුර හේතුවෙන් මේ වනවිට කොළඹ දෙසට එක් මංතීරුවක් අවහිර වී ඇතැයි පොලීසිය පවසයි.
+One lane to Colombo has been blocked due to the accident.
 
-මේ හේතුවෙන් දක්ෂිණ අධිවේගයේ දොඩංගොඩ සහ ගැලනිගම අතර රථවාහන තදබදයක් ඇතිව තිබෙන බව ද වාර්තා වේ.
+It is reported that there is a traffic congestion between Dodangoda, Southern Expressway.
 
 ◼️
 
 [Data](articles/159221c4.json)
 
+[Extended Data](ext_articles/159221c4.ext.json)
+
 ---
 
-### කදිරාගේ පහරදීමෙන් ඇත්ගොව්වා රෝහලට
+### Most of the drug seized in the Southern Province: Contact between politicians
+
+*2025-09-22 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225801) · `ta`
+
+In the Southern Province alone, 600 kilograms of drugs, including ice and heroin, were seized on Monday, the 22nd.. Information to the public about drugs and underworld groups. Minister of Public Security and Parliamentary Affairs Ananda Wijebala said that the confidentiality of the information provided would be protected.
+
+He was speaking at a special media briefing held at the Ministry of Public Security on Monday (22).
+
+The country has been directly involved in the country's two to three decades of drug trade and politicians. This is not a secret.
+
+In the Southern Province alone, 600 kilograms of drugs were seized yesterday, including 245 heroin pends and 635 ice packets.
+
+An examination carried out by the police following suspicion of suspicion of two people in the Tangalle Seenimodhara area has been discovered from a lorry in the home premises.
+
+...
+
+[Data](articles/5fc6971f.json)
+
+[Extended Data](ext_articles/5fc6971f.ext.json)
+
+---
+
+### Tharma troops hospitalized by Kadira's attack
 
 *2025-09-22 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214885) · `si`
 
-මහනුවර දළදා මාළිගාවේ ඇත් පන්තියට අයත් 'කදිරා' නැමති අලියා ඇත් ගොව්වාට පහරදීමක් සිදුකර ඇතැයි වාර්තා වේ.
+The elephant named "Kadirara 'elephant in the Talada Maligawa in Kandy has assaulted the elephant elephant.
 
-අලියාගේ පහරදීමෙන් තුවාල ලැබූ ඇත්ගොව්වා මේ වනවිට මාවනැල්ල මුලික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+The elephant is being treated at the Mawanella Base Hospital.
 
-ඔහුගේ තත්ත්වය පිළිබඳ මෙතෙක් නිශ්චිත ප්‍රකාශයක් සිදුකළ නොහැකි වන අතර, අභ්‍යන්තර ලේ වහනය වීම හේතුවෙන් මේ වනවිට සැත්කමකට භාජනය කිරීමට නියමිත බව රෝහල් ප්‍රකාශකයෙක් පැවසීය.
+A definite statement of his situation is not possible to undergo surgery due to internal bleeding, a hospital spokesman said.
 
-ආහාර ලබාදීමට යෑමේ දී අලියා එක්වරම පහරදී ඇති අතර තුවාල ලබා ඇත්තේ, අවුරුදු 22ක් වූ ධනුෂ්ක රුවන් කුමාර නැමති මාවනැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The elephant had been assaulted at once and was injured and was a resident of Mawanella.
 
 ◼️
 
 [Data](articles/444496f4.json)
+
+[Extended Data](ext_articles/444496f4.ext.json)
 
 ---
 
@@ -83,6 +129,46 @@ He added that the decision on whether the Identification will be a day or a cont
 [Data](articles/b742e0bb.json)
 
 [Extended Data](ext_articles/b742e0bb.ext.json)
+
+---
+
+### Full report on tragic Ella bus crash handed over to Transport Minister
+
+*2025-09-22 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112792/full-report-on-tragic-ella-bus-crash-handed-over-to-transport-minister-) · `en`
+
+The full report on the tragic accident on the Ella–Wellawaya road on September 4, which claimed the lives of 16 people, has been handed over to Minister of Transport Bimal Rathnayake.
+
+The report was officially presented to the Minister today (22) at the Ministry of Transport, Highways, Ports, and Civil Aviation.
+
+According to the report, the bus involved in the accident had been driven by a 22-year-old, and it was his first time driving the vehicle. The report identifies that operating a bus carrying passengers along a steep and winding road — unfamiliar to the driver — was a key factor contributing to the accident.
+
+The report also highlights that the road signs and other warning boards installed along the route where the accident occurred were not adequate for an inexperienced driver to properly assess the road’s hazardous nature.
+
+It further states that the identity of the bus is also in question.
+
+...
+
+[Data](articles/b5a12fa4.json)
+
+[Extended Data](ext_articles/b5a12fa4.ext.json)
+
+---
+
+### Sajin Vaas Gunawardena submits a written report for non -payment of income tax - Court has ordered
+
+*2025-09-22 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225800) · `ta`
+
+The Colombo Magistrate's Court on Monday ordered the submission of a written report on December 16, if there are no reasons for not paying an income tax of more than 369 lakhs of rupees to the government.
+
+He ordered the hearing of the Income Tax Payment on Sajin Vas Gunawardena on Monday (22) when the Colombo Magistrate's Court Additional Magistrate Oshita Mikara Maharachchi was taken up for hearing.
+
+In 2010, 2011 and 2012, the Commissioner of Home Affairs has filed a case against Sajin Vaas Gunawardena on charges of not paying an income tax of Rs 36,975,959 to the government.  Sajin Vaas Gunawardena, who was arrested and released on bail on the charges, appeared before the court yesterday.
+
+...
+
+[Data](articles/66a03536.json)
+
+[Extended Data](ext_articles/66a03536.ext.json)
 
 ---
 
@@ -114,6 +200,48 @@ It has also been revealed that the bus driver had acted properly regarding the r
 
 ---
 
+### Where are 321 drug containers in the country? Government hides the truth - Namal Rajapaksa
+
+*2025-09-22 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225799) · `ta`
+
+Many drugs are captured in different parts of the country, including ice drugs. Only 2 containers have been found. Where are the 321 containers. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said the government is hiding the truth in the release of these containers.
+
+He was speaking to the media after a meeting with the constituency organizers held on Monday (22) at the Sri Lanka PA.
+
+The government has wasted one year.. People are now aware of the true face of the government.
+
+Members of the ruling party have increased their property and responsibilities in one year. Whether they worked in the 75 -year regime or whether they worked in this year, the problem is found.. The ruling parties must always respond.
+
+Many drugs are captured in different parts of the country, including ice drugs. Only 2 containers have been found. Where are the 321 containers.
+
+◼️
+
+[Data](articles/6766fb84.json)
+
+[Extended Data](ext_articles/6766fb84.ext.json)
+
+---
+
+### The letter spreading in the name of the Inspector General of Police is fake - police
+
+*2025-09-22 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225798) · `ta`
+
+The letter titled "Attn: The Alleged Victim" spread on social media is fake, police said.
+
+In a fake letter spreading with the signature of the Inspector General of Police, the Inspector General of Police has said that the 'Children's and Women's Investigation Bureau' has been ordered to arrest domestic and foreign citizens who are involved in the process of watching, holding, spreading, distributing, distribution or producing children's sexual abuse pictures and videos using the Internet.
+
+This is completely false and is a action that deliberately spreads false information. The Inspector General of Police or any other official section has stated that the letter has never been issued.
+
+Spreading fake documents is legally punishable offense. For official information, the police have asked the public to rely on the notifications and media reports issued directly.
+
+◼️
+
+[Data](articles/4cc8257b.json)
+
+[Extended Data](ext_articles/4cc8257b.ext.json)
+
+---
+
 ### Health Minister promises
 
 *2025-09-22 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214883) · `si`
@@ -133,6 +261,24 @@ He also said that a program to provide motorcycles for the health staff of field
 [Data](articles/2215f6e4.json)
 
 [Extended Data](ext_articles/2215f6e4.ext.json)
+
+---
+
+### Chief of Staff of Indian Navy meets Navy Commander
+
+*2025-09-22 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112790/chief-of-staff-of-indian-navy-meets-navy-commander) · `en`
+
+Admiral Dinesh K Tripathi, the Chief of Naval Staff of the Indian Navy, who is in Sri Lanka on a four-day official visit, met with the Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda at the Navy Headquarters in Colombo today (22).
+
+The two Navy Chiefs discussed matters of mutual interest, with a focus on strengthening partnerships in the Indian Ocean Region and reinforcing the long-standing friendship between the two navies. The discussions concluded with a customary exchange of mementoes, representing the shared values and cooperative spirit between the two navies.
+
+The visit of the Indian Chief of Naval Staff also underscored the strengthening of naval cooperation, bolstering maritime security, and fostering collaborative efforts in support of regional stability, the Navy said in a meeting.
+
+...
+
+[Data](articles/1c9862e9.json)
+
+[Extended Data](ext_articles/1c9862e9.ext.json)
 
 ---
 
@@ -191,6 +337,8 @@ The statement said, the document is a deliberate act of misinformation and an at
 ...
 
 [Data](articles/9587a7b2.json)
+
+[Extended Data](ext_articles/9587a7b2.ext.json)
 
 ---
 
@@ -1945,151 +2093,5 @@ In this case, his imprisonment has now been extended for another 4 years. He was
 [Data](articles/6470e085.json)
 
 [Extended Data](ext_articles/6470e085.ext.json)
-
----
-
-### Lorry carrying 200 kg of ‘Ice’ and heroin seized in Tangalle
-
-*2025-09-22 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112761/lorry-carrying-200-kg-of-ice-and-heroin-seized-in-tangalle) · `en`
-
-A lorry transporting around 200 kilograms of crystal methamphetamine (commonly known as Ice) and heroin was seized in Tangalle, said police.
-
-Meanwhile, four new unused revolvers still in their packaging have also been recovered from the lorry and taken into custody, the Police Spokesman said.
-
-◼️
-
-[Data](articles/3f45ef91.json)
-
-[Extended Data](ext_articles/3f45ef91.ext.json)
-
----
-
-### 200 kilos of heroin seized a lorry at Tangalle
-
-*2025-09-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214860) · `si`
-
-Police have arrested a lorry transporting about 200 kilograms of ice drugs and heroin.
-
-The police said that the lorry was taken into custody while transporting these drugs in Tangalle.
-
-◼️
-
-[Data](articles/d4561941.json)
-
-[Extended Data](ext_articles/d4561941.ext.json)
-
----
-
-### Wednesday a dead body found in the coastal coast
-
-*2025-09-22 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214859) · `si`
-
-Modara, Modara, the coast of Jayawewapura, has been launched to the coast of Jayawewapura today.
-
-The body was recovered following information received by the police station.
-
-However, the identity of the dead has not been identified yet.
-
-The police suspect that the man is among the age of 50 and 60 years old.
-
-◼️
-
-[Data](articles/2134060a.json)
-
-[Extended Data](ext_articles/2134060a.ext.json)
-
----
-
-### 22nd Birthday: Death on 22
-
-*2025-09-22 11:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/22-அன்று-21-வது-பிறந்த-நாள்-21-அன்று-இடம்பெற்ற-விபத்தில்-22-அன்று-மரணம்/76-365052) · `ta`
-
-The incident took place in Nuwara Eliya on Monday, September 22, Monday (22), a youth who was injured in an accident on Sunday, 21st and on Sunday, 21st.
-
-A motorcycle crashed into a fast lorry. A police officer of the Nuwara Eliya Police Division said that the youth who was injured and admitted to the Nuwara Eliya District General Hospital on Monday morning.
-
-The deceased has been identified as Manit Rihur, a native of Hawa Eliya, Nuwara Eliya.
-
-The accident occurred at 9:30 pm on Sunday at the Hawa Eliya Junction on the main road of Irakalai-Nuwara Eliya.
-
-Nuwara Eliya Police Transport Officers suspect that the accident may have been involved in a lorry from Irakalai to Nuwara Eliya when he was trying to travel from the junction to Nuwara Eliya from the junction of Nuwara Eliya.
-
-Nuwara Eliya Police have arrested the driver of the lorry on suspicion, and the motorcycle was severely damaged.
-
-The deceased is the only son of Sampath Jayalal, the regional correspondent of the Nuwara Eliya district.
-
-◼️
-
-[Data](articles/010d69b4.json)
-
-[Extended Data](ext_articles/010d69b4.ext.json)
-
----
-
-### Work on the post of Basnayake Nilame from the Devinuwara Bays of Basnuwara Nilame
-
-*2025-09-22 11:57:15* · [`adalk`](https://www.ada.lk/breaking_news/දෙවිනුවර-බස්නායක-නිලමේ-කතරගම-බස්නායක-නිලමේ-ධුරයේ-වැඩ-බලයි/11-418644) · `si`
-
-The term of office of Mr. Dashan Wickramaratne Gunasekera, who served as Basnayake Nilame on historic Ruhunu Kataragama Maha Devalaya, was completed.
-
-Arachchi Madushanka Abeyratne, Basnuwaranna Nilame, is the Commissioner of Buddhist Affairs (22).
-
-Former Basnayake Nilame, who is serving in the powered child ward complex and sacrifice of Kataragama bus stand in the Mahagama area in his service, and the benefit of low income families in the area. A wide range of services provided for employment opportunities, English and Korean Language Course played during their service period.
-
-He also founded a unit of heart disease at Moneragala district.
-
-Both former and acting Bashanayake Nilame are residents of Matara and the alumni of Rahula College, Matara.
-
-The Buddhist Affairs Department says that the new Basnasuna Nilamevision will appoint a new Basnayake Nilame.
-
-◼️
-
-[Data](articles/b3c909ef.json)
-
-[Extended Data](ext_articles/b3c909ef.ext.json)
-
----
-
-### “There will be no Palestine state”: Benjamin Netanyahu to UK, Canada, Australia
-
-*2025-09-22 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112760/there-will-be-no-palestine-state-benjamin-netanyahu-to-uk-canada-australia) · `en`
-
-Israeli Prime Minister Benjamin Netanyahu strongly opposed the UK, Canada, and Australia’s move to recognise Palestine and said that there will be no Palestinian state to the west of the Jordan River. In a strongly worded statement published in PMO, condemning the move, PM Netanyahu vowed to give a response to countries after his US visit.
-
-“There will be no Palestinian state. The response to the latest attempt to force upon us a terror state in the heart of our land will be given after my return from the United States,” Netanyahu said. Netanyahu alleged that by recognising Palestine, they are “rewarding terror with an enormous prize,” expressing his determination not to let this happen.
-
-...
-
-[Data](articles/a9d0c282.json)
-
-[Extended Data](ext_articles/a9d0c282.ext.json)
-
----
-
-### Sri Lanka central bank to survey public awareness on deposit insurance scheme
-
-*2025-09-22 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-survey-public-awareness-on-deposit-insurance-scheme-241462/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank (CBSL) said it was conducting a survey aimed at assessing public awareness of the Sri Lanka Deposit Insurance Scheme.
-
-The survey will be conducted on behalf of CBSL by an external firm M/S Kantar Lanka (Pvt) Ltd through the use of enumerators.
-
-CBSL said it aims to reach a broad segment of the population from September 2025 to November 2025.
-
-This is part of the Financial Sector Safety Net Strengthening Project funded by the International Development Association of the World Bank.
-
-“CBSL would like to assure that the information collected will be used solely for the purpose of this survey and will remain confidential.
-
-“As such, we kindly request your cooperation in responding to the survey questionnaire.”
-
-Questions, concerns or complaints regarding this survey, can  be addressed at the following contact numbers:
-
-The deposit insurance scheme is operated under the Deposit Insurance and Resolution Department of CBSL. (Colombo/Sep22/2025)
-
-◼️
-
-[Data](articles/629bc198.json)
-
-[Extended Data](ext_articles/629bc198.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 10:09:30**
+As of **2025-09-22 10:20:48**
 
 ## Newspaper Stats
 
-*Scraped **77,355** Articles*
+*Scraped **77,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,761
 dailyftlk | 5,496
 adalk | 7,515
 adaderanalk | 10,001
-tamilmirrorlk | 11,629
+tamilmirrorlk | 11,631
 virakesarilk | 12,589
 adaderanasinhalalk | 13,511
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 13,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,355 (100.0%) of 77,355 articles have been extended.
+77,355 (100.0%) of 77,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### என் செல்லத்துக்கு புரியலையா...‌
+
+*2025-09-22 09:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்-செல்லத்துக்கு-புரியலையா/62-365036) · `ta`
+
+◼️
+
+[Data](articles/1b9c8a1c.json)
+
+---
+
+### அடிங்க சார் ஒரேயொரு பல்டிய அடிச்சிடுங்க...
+
+*2025-09-22 09:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அடிங்க-சார்-ஒரேயொரு-பல்டிய-அடிச்சிடுங்க/62-365035) · `ta`
+
+◼️
+
+[Data](articles/43d6047a.json)
+
+---
 
 ### Tangalle found two bodies of two bodies of a house in Sena Sena Seennodara
 
@@ -2033,51 +2053,5 @@ He further stated that Sri Lanka is preparing to establish diplomatic relations 
 [Data](articles/84fb7b2d.json)
 
 [Extended Data](ext_articles/84fb7b2d.ext.json)
-
----
-
-### Mild earthquake shakes Dhaka, other parts of Bangladesh
-
-*2025-09-21 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112732/mild-earthquake-shakes-dhaka-other-parts-of-bangladesh) · `en`
-
-A mild tremor shook Dhaka and several other parts of Bangladesh on Sunday afternoon (21).
-
-According to the Bangladesh Meteorological Department, the tremor was recorded at 12:09pm with a magnitude of 4.0 on the Richter scale.
-
-The epicentre of the earthquake was 185 km north-east of BMD Seismic Centre, Agargaon, Dhaka, according to BMD.
-
-Meanwhile, tremors were felt in India’s Meghalaya after a 4-magnitude earthquake hit Bangladesh. There were no immediate reports of any damage or casualties in Meghalaya, officials said.
-
-Meanwhile in Gujarat, India, a tremor of 3.1 magnitude hit Kutch district, the Institute of Seismological Research (ISR) said. The tremor was recorded at 12:41 p.m. with its epicentre around 12 kilometres North North East (NNE) from Bhachau.
-
-◼️
-
-[Data](articles/5f1165ab.json)
-
-[Extended Data](ext_articles/5f1165ab.ext.json)
-
----
-
-### 70 testing activities in relation to rice last week;  Consumer Affairs Authority
-
-*2025-09-21 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225665) · `ta`
-
-The Consumer Affairs Authority said last week that 70 raids were carried out on rice.
-
-The Authority further stated that 55 tests were conducted on the sale of rice and 15 tests related to rice were conducted.
-
-The Authority has stated that the crimes such as hiding rice, hiding prices, and selling rice with conditions are included.
-
-The Consumer Affairs Authority (CAA) has said that if a person's trader is found to sell rice at high prices, he can be sentenced to Rs.
-
-At the same time, the Authority has stated that if a private company is proven guilty, the court can impose a fine of Rs 5 lakh to Rs 50 lakh and impose a penalty or prison sentence or two if accused of rice hoarding.
-
-In addition, the Consumer Affairs Authority (CAA) has said that the court has the authority to impose twice the minimum fine and a one -year imprisonment.
-
-◼️
-
-[Data](articles/8cbc7b45.json)
-
-[Extended Data](ext_articles/8cbc7b45.ext.json)
 
 ---

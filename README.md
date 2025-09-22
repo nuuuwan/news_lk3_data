@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 04:20:22**
+As of **2025-09-23 04:38:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,540 (100.0%) of 77,541 articles have been extended.
+77,541 (100.0%) of 77,541 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -203,6 +203,8 @@ The meeting, co-hosted by French President Emmanuel Macron and Saudi Arabia’s 
 ◼️
 
 [Data](articles/c5557077.json)
+
+[Extended Data](ext_articles/c5557077.ext.json)
 
 ---
 

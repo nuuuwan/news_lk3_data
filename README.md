@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 03:55:49**
+As of **2025-09-23 03:21:03**
 
 ## Newspaper Stats
 
-*Scraped **77,536** Articles*
+*Scraped **77,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,93 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 633
 bbccomsinhala | 677
 colombotelegraphcom | 784
-economynextcom | 4,685
+economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,509
 adalk | 7,528
 adaderanalk | 10,039
-tamilmirrorlk | 11,660
-virakesarilk | 12,620
+tamilmirrorlk | 11,659
+virakesarilk | 12,617
 adaderanasinhalalk | 13,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,527 (100.0%) of 77,536 articles have been extended.
+77,527 (100.0%) of 77,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### வீட்டின் மீது பெட்ரொல் குண்டு வீச்சு
-
-*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரொல்-குண்டு-வீச்சு/175-365095) · `ta`
-
-முல்லைத்தீவு, வட்டுவாகல் பகுதியில் முதியவர் ஒருவர் தனித்திருந்த வீட்டின் மீது இனந்தெரியாத நபர்கள் நேற்று நள்ளிரவில் பெட்ரொல் குண்டுத் தாக்குதல் நடத்தியுள்ளனர்.
-
-நேற்று அதிகாலை 2 மணியளவில் வீட்டின் சுற்று மதில் மீது ஏறிப் பாய்ந்து வீட்டுன் முகப்புப் பகுதியல் பெட்ரொல் ஊற்றி தீ மூட்டப்பட்டுள்ளது.
-
-இதன் போது வீட்டின் முகப்பு கதவு, மற்றும் நிறுத்தி வைக்கப்பட்டிருந்த மோட்டார் சைக்கிள் என்பன எரிந்து நாசமாகியுள்ளன.
-
-முகத்தை துணியால் மூடி கட்டியவாறு தலைக்கவசம், மழைக் கவசம் என்பனவற்றை அணிந்து மர்ம நபர்களால் இந்த  தாக்குதல் நடத்தப்பட்டுள்ளது.
-
-நள்ளிரவில் சம்பவம் பதிவாகிய நேரம் சுதாகரித்துக் கொண்ட முதியவர் அயலவர்களை அழைத்த போது தாக்குதல் தாரிகள் தப்பியோடியுள்ளனர்.
-
-◼️
-
-[Data](articles/be50548a.json)
-
----
-
-### சொத்து, பொறுப்பு விபரங்களைச் சமர்ப்பிக்க தவறிய முன்னாள், தற்போதைய அரசியல் பிரமுகர்கள் - ஊழல் விசாரணை ஆணைக்குழு
-
-*2025-09-23 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225804) · `ta`
-
-முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தா உட்பட  இராஜாங்க அமைச்சர் ஐவரும், முன்னாள் ஆளுநர்களான செந்தில் தொண்டமான், நவீன் திஸாநாயக்க, ரொஷான் குணதிலக, மற்றும் விலியம் கமகே ஆகியோர் குறித்த காலப்பகுதியில் சொத்து மற்றும் பொறுப்பு தொடர்பான விபரங்களை சமர்ப்பிக்கவில்லை என்று இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அறிவித்துள்ளது.
-
-2025 ஆம் ஆண்டு மார்ச் மாதம் 25 ஆம் திகதியன்று 2024 ஆம் ஆண்டுக்கான சொத்து மற்றும் பொறுப்பு தொடர்பான விபரங்களை சமர்ப்பிக்காதவர்களின் பெயர் விபரங்களை இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு வெளியிட்டுள்ளது.
-
-இந்த பெயர் பட்டியலில் முன்னாள் அமைச்சர்கள், இராஜாங்க அமைச்சர் ஆறு பேர்,முன்னாள் மாகாண ஆளுநர்கள் நால்வர்,முன்னாள் தூவர்கள் 29 பேர்,மேன்முறையீட்டு நீதிமன்றத்தின் 2 நீதியரசர்கள் உள்ளடங்குகின்றனர்.
-
-குடந்த கடந்த அரசாங்கத்தின் கடற்றொழில் அமைச்சராக பதவி வகித்த டக்ளஸ் தேவானந்தா சொத்து மற்றும் பொறுப்பு தொடர்பான விபரங்களை குறித்த காலப்பகுதிக்குள் ஆணைக்குழுவுக்கு சமர்ப்பிக்கவில்லை.
-
-...
-
-[Data](articles/f5b76a3a.json)
-
----
-
-### புதுக்குடியிருப்பில் இனிப்பு கடையில் கொள்ளை முயற்சி – இளைஞன் பொலிஸில் ஒப்படைப்பு
-
-*2025-09-23 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225803) · `ta`
-
-புதுக்குடியிருப்பு பரந்தன் வீதியில் அமைந்துள்ள இனிப்பு கடை ஒன்றில் திங்கட்கிழமை (22) இரவு 7 மணியளவில் பணம் திருட்டில் ஈடுபட்ட  சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
-
-குறித்த கடையில் பணம் திருட்டில் ஈடுபட்டதனை உரிமையாளரின் கவனத்திற்கு கொண்டு வந்தவுடன், அப்பகுதியில் இருந்த பொதுமக்கள் இணைந்து குறித்த இளைஞனை மடக்கிப் பிடித்து புதுக்குடியிருப்பு பொலிஸாரிடம் ஒப்படைத்தனர்.
-
-கைது செய்யப்பட்டவர் பரந்தன் பகுதியைச் சேர்ந்த 25 வயதுடைய இளைஞன் என பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/f8be3e57.json)
-
----
-
-### தங்காலை பகுதியில் 600 கிலோ போதைப்பொருட்கள், துப்பாக்கிகளும் மீட்பு; சந்தேகத்துக்கிடமாக மூவர் மரணம் - ஆனந்த விஜேபால
-
-*2025-09-23 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225802) · `ta`
-
-தங்காலை சீனிமோதர மற்றும் அதனை அண்மித்த பிரதேசங்களில் பொலிஸார் முன்னெடுத்த சுற்றி வளைப்புக்களில் ஐஸ் மற்றும் ஹெரோயின் உள்ளிட்ட சுமார் 600 கிலோ கிராம் போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன. திங்கட்கிழமை (22) முன்னெடுக்கப்பட்ட இந்த சுற்றி வளைப்புக்களின் போது துப்பாக்கிகளும் கைப்பற்றப்பட்டுள்ளதாகவும் பொது மக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
-
-கடந்த இரு தசாப்தங்களாக நாட்டில் போதைப்பொருளுடன் தொடர்புடைய மற்றும் திட்டமிட்ட குற்றச் செயல்கள் அதிகரித்துச் செல்லும் போக்கே காணப்படுகிறது. இவற்றுடன் நேரடியாக அரசியல் ரீதியான தொடர்புகள் காணப்பட்டன என்பது அனைவரும் அறிந்த காரணியாகும். எனினும் இது மேலும் நீடிப்பதை தடுப்பதற்கு அரசாங்கம் பல்வேறு நடவடிக்கைகளை முன்னெடுத்து வருகிறது.
-
-...
-
-[Data](articles/f2de326b.json)
-
----
 
 ### People’s Bank partners Justice Ministry to drive countrywide court digitalisation
 
@@ -335,26 +267,6 @@ When Qatar hosted the Arab-Islamic emergency summit on 15 September 2025—just 
 [Data](articles/edcdc397.json)
 
 [Extended Data](ext_articles/edcdc397.ext.json)
-
----
-
-### Indian Navy chief visits Sri Lanka, due to meet government and defence officials
-
-*2025-09-22 23:20:00* · [`economynextcom`](https://economynext.com/indian-navy-chief-visits-sri-lanka-due-to-meet-government-and-defence-officials-241556/) · `en`
-
-ECONOMYNEXT – India’s Chief of Naval Staff, Admiral Dinesh K Tripathi, has arrived in Sri Lanka on a four-day official visit, and is scheduled to meet senior government and defence officials of Sri Lanka.
-
-“The visit of the Indian Chief of Naval Staff also underscored the strengthening of naval cooperation, bolstering maritime security, and fostering collaborative efforts in support of regional stability,” Sri Lanka Navy said.
-
-Admiral Tripathi met with the Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda at the Navy Headquarters in Colombo.
-
-“The two Navy Chiefs subsequently discussed matters of mutual interest, with a focus on strengthening partnerships in the Indian Ocean Region and reinforcing the long-standing friendship between the two navies.”
-
-The visit concludes on 25 September, following his participation at the 12th edition of the Galle Dialogue International Maritime Conference, organized by the Sri Lanka Navy. (Colombo/Sep22/2025)
-
-◼️
-
-[Data](articles/6b087b32.json)
 
 ---
 
@@ -1330,28 +1242,6 @@ They were paid tribute to the child who died at the Memorial at the Maha Vidyala
 
 ---
 
-### Sri Lanka rupee weaker against dollar, bond yields hold
-
-*2025-09-22 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-hold-241548/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/60 to the US dollar on Monday, weaker from 302.45/50 Friday, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.30/35 percent, up from 8.28/33 percent.
-
-A bond maturing on 15.09.2027 closed at 8.65/75 percent, up from 8.65/73 percent.
-
-A bond maturing on 15.12.2029 closed at 9.47/57 percent, from 9.50/54 percent.
-
-A bond maturing on 15.03.2031 closed at 9.98/10.05 percent, from 10.00/05 percent.
-
-A bond maturing on 01.11.2033 closed at 10.66/70 percent, from 10.65/75 percent. (Colombo/Sep22/2025)
-
-◼️
-
-[Data](articles/1fb846ab.json)
-
----
-
 ### Following the amendment Act, the consent of the CEB employees
 
 *2025-09-22 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214875) · `si`
@@ -1538,26 +1428,6 @@ Accordingly, the main objective of these amendments are to provide provisions fo
 
 ---
 
-### Sri Lanka stocks up 0.67-pct on financials
-
-*2025-09-22 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-0-67-pct-on-financials-241523/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) rose 0.67 percent on Monday due to optimism surrounding financial shares, data on its site showed.
-
-The broader ASPI climbed 141.78 points from Friday, to end at 21,226.87; while the more liquid S&P SL20 closed up 1.06 percent, or 63.75 points, at 6,059.91.
-
-The top contributors to the ASPI were John Keells Holdings (up 0.60 rupees at 23.40), C T Holdings (up 33.25 rupees at 699.25), Senkadagala Finance (up 100.50 rupees at 578.25), Commercial Bank (up 3.00 rupees at 193.25) and Vallibel One (up 5.70 rupees at 96.80).
-
-Market turnover was 8 billion rupees on Monday, while the share volumes were 276,333,683.
-
-Indian equity market’s Information Technology related shares slumped as US president Donald Trump imposed a one time US 100,000 dollars fee on new applicants coming through the high skilled worker visa scheme, the H-1B visa policy.
-
-...
-
-[Data](articles/3f27b8c6.json)
-
----
-
 ### Speaker Certificate to Increase the Auditor General's Powers Act
 
 *2025-09-22 16:26:39* · [`adalk`](https://www.ada.lk/breaking_news/විගණකාධිපතිගේ-බලතල-වැඩි-කරන-පනතට-කථානායක-සහතිකය/11-418653) · `si`
@@ -1673,24 +1543,6 @@ Work on extinguishing the fire is ongoing. It is worth noting that the cause of 
 [Data](articles/9c637935.json)
 
 [Extended Data](ext_articles/9c637935.ext.json)
-
----
-
-### Sri Lanka’s Softlogic Finance to resume business, after central bank lifts restrictions
-
-*2025-09-22 16:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-finance-to-resume-business-after-central-bank-lifts-restrictions-241534/) · `en`
-
-ECONOMYNEXT – Softlogic Finance said it will re-launch all its business activities, including re-commencing and accepting new deposits, after Sri Lanka’s central bank lifted regulatory restrictions effective 19 September.
-
-“Softlogic Finance PLC has successfully restored its core capital position in line with the requirements of the Department of Supervision of Non-Bank Financial Institutions of the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
-
-This was achieved through “structured and effective capital enhancement” through its parent company, Softlogic Capital PLC, it said.
-
-With the approval of CBSL’s governing board, Softlogic Finance said will re-launch all its business activities including re-commencing and accepting new deposits, re-opening all lines of distribution channels both individual and institutional investors and aggressively pursue its business growth plans to re-position itself in the financial industry.
-
-◼️
-
-[Data](articles/4858256e.json)
 
 ---
 
@@ -1841,24 +1693,6 @@ After the World Cup, the de Cock retired from the International Ground of ODIs.
 [Data](articles/57576baf.json)
 
 [Extended Data](ext_articles/57576baf.ext.json)
-
----
-
-### Sri Lanka AKD’s 1-year: broken promises, modest gains, and lingering questions
-
-*2025-09-22 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-akds-1-year-broken-promises-modest-gains-and-lingering-questions-241522/) · `en`
-
-ECONOMYNEXT – When Anura Kumara Dissanayake (AKD) swept into office a year ago, it marked the first time a leftist leader from the National People’s Power (NPP) had captured Sri Lanka’s presidency.
-
-Riding a wave of frustration with mainstream parties and promising a “new political culture,” Dissanayake presented himself as the face of accountability, anti-corruption, and people-centered governance after years of economic hardship and elite impunity.
-
-Ordinary citizens measure a government by their daily hardships. By this yardstick, many feel disappointed. Many people still praise AKD’s anti-corruption policies and some accountability measures. However, they complain that their cost of living has not reduced much. Others, especially youth who voted for change, express frustration that systemic issues are unchanged.
-
-Polls indicate a dip in AKD’s popularity from the euphoria of election night. Opposition parties sense an opening, accusing him of betraying his own voters.
-
-...
-
-[Data](articles/25b31788.json)
 
 ---
 
@@ -2081,5 +1915,171 @@ It is also said that heavy tornadoes, thunderstorms and excessive sea turbulence
 [Data](articles/cc3580ae.json)
 
 [Extended Data](ext_articles/cc3580ae.ext.json)
+
+---
+
+### Relating employees to 4 power new companies begins
+
+*2025-09-22 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214865) · `si`
+
+The Ministry of Energy stated that four full state owned companies have been established in implementing the Ceylon Electricity Amendment Act.
+
+Accordingly, part of the Ceylon Electricity Board (CEB) employees to provide letters to the institutions they were established as above.
+
+The Ceylon Electricity Board (CEB) has agreed at the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
+
+The National Transmission Network Company (Pvt) Ltd, which has been established by the Sri Lanka Electricity (Amended) Act, No. 14 of 2025, says that the above employees will be connected to the above four companies.
+
+The Minister of Energy The Energy Ministry said that the restructuring program of the Ceylon Electricity Board (CEB) is infected with the development of the electricity sector in parallel to the development of the electricity industry.
+
+◼️
+
+[Data](articles/b6c0d4aa.json)
+
+[Extended Data](ext_articles/b6c0d4aa.ext.json)
+
+---
+
+### CEB employee arrested with ICE
+
+*2025-09-22 13:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICE-உடன்-தொடர்பு-CEB-ஊழியர்-கைது/175-365060) · `ta`
+
+A Ceylon Electricity Board (CEB) employee has been arrested by the Police Narcotics Bureau (PNB) for allegedly giving shelter to the main suspect in a massive drug case.
+
+Following the discovery of a buried container filled with chemicals used to make a drug called 'ice' in Mitenia, the suspect who identified as Sampath Manamberi is currently being kept in detention, police said.
+
+◼️
+
+[Data](articles/b8650648.json)
+
+[Extended Data](ext_articles/b8650648.ext.json)
+
+---
+
+### Foreign investors buy Sri Lanka rupee bonds for fourth straight week
+
+*2025-09-22 13:52:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-fourth-straight-week-241303/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a fourth straight week in the week ended on September 18 with the offshore holding in local bonds surged to near two-year high, the Central Bank data showed, amid a surge in global investor appetite for government bonds.
+
+Foreign investors bought a net 4,988 million rupee ($16.63 million) worth of government securities in the week ended on September 18, extending the inflows to a net 13,707 million rupee ($45.7 million) in the four weeks.
+
+Government bond funds globally saw a surge in demand as they received $2.75 billion, the largest amount in 17 weeks, Reuters reported.
+
+Foreign holdings in Sri Lanka’s rupee bonds were at 120.3 billion rupees on September 18, their highest since December 2023, official data showed.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
+
+...
+
+[Data](articles/a4d308c7.json)
+
+[Extended Data](ext_articles/a4d308c7.ext.json)
+
+---
+
+### 1,897 killed in road accidents in the last 9 months - Director of Transport Police
+
+*2025-09-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225740) · `ta`
+
+Traffic Police Director SSP. Manoj Ranagala said.
+
+He said that this is an increase in road accidents.
+
+In this regard, he emphasized the urgent need for strict legal implementation and responsible vehicle driving to control increasing deaths.
+
+He added that traffic police across the country have installed 70 high -speed detection machines to monitor reckless driving.
+
+He said motorcycle accidents had increased by 2025 and 923 accidents were reported by motorcycle.
+
+Traffic Police Director SSP to prevent further accidents on the streets of the country, road safety measures and public awareness. Ranagala has called.
+
+◼️
+
+[Data](articles/9d680187.json)
+
+[Extended Data](ext_articles/9d680187.ext.json)
+
+---
+
+### UK considers plan to scrap visa fees for top global talent: Report
+
+*2025-09-22 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112768/uk-considers-plan-to-scrap-visa-fees-for-top-global-talent-report) · `en`
+
+British Prime Minister Keir Starmer is exploring proposals to abolish some visa fees for top global talent at a time when the United States has taken a tougher stance on immigration, the Reuters News Agency on Monday (Sep 22).
+
+Starmer’s “global talent task force” is working on ideas to attract the world’s best scientists, academics and digital experts to the UK in a bid to drive economic growth, the report said, citing people briefed on the discussions inside Number 10 and the Treasury.
+
+The idea of cutting visa costs to zero is for people who have attended the world’s top five universities or have won prestigious prizes, an official told the newspaper.
+
+According to the report, the reforms were being discussed in Number 10 and the Treasury before the Trump administration announced its decision to impose a US$100,000 fee for new H-1B visas, which are widely used by US tech companies, from Sunday.
+
+...
+
+[Data](articles/8dafde02.json)
+
+[Extended Data](ext_articles/8dafde02.ext.json)
+
+---
+
+### Shareshendi's request declines, further remanded
+
+*2025-09-22 13:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රගේ-ඉල්ලීම-ප්‍රතික්ෂේපයි--යළි-රිමාන්ඩ්/11-418649) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama, who was arrested by the Bribery Commission, was remanded until the 30th of this month.
+
+The estate of the Mahaweli Authority of the Sri Lanka Mahaweli Authority has been damaged in the struggle in Sevanagala, which has been constructed in the Mahaweli Authority of the Kubela Authority of Kubelawewa.
+
+◼️
+
+[Data](articles/8076de4a.json)
+
+[Extended Data](ext_articles/8076de4a.ext.json)
+
+---
+
+### Conflict near the President's House; 49 arrested
+
+*2025-09-22 13:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-மாளிகை-அருகே-மோதல்-49-பேர்-கைது/50-365059) · `ta`
+
+Foreign media reports that police have arrested 49 suspects suspected of throwing stones, bottles and fire bombs on the officers during a peaceful anti -corruption rally in the Philippines capital.
+
+◼️
+
+[Data](articles/6257f9b7.json)
+
+[Extended Data](ext_articles/6257f9b7.ext.json)
+
+---
+
+### தங்காலையில் போதைப்பொருள், துப்பாக்கிகளுடன் லாரி பறிமுதல்
+
+*2025-09-22 13:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-போதைப்பொருள்-துப்பாக்கிகளுடன்-லாரி-பறிமுதல்/175-365058) · `ta`
+
+More than 200 kg of drugs, one T-56 rifle and five modern revolvers have been confiscated by the police in a lorry hidden in a house on Tangalle, Kodella, Kodala, Kadulapokuna road.
+
+Police say drugs and guns have been transported in a special box in the lorry under the guise of carrying watermelons.
+
+◼️
+
+[Data](articles/7c28af27.json)
+
+[Extended Data](ext_articles/7c28af27.ext.json)
+
+---
+
+### Meeting Ice, Heroin and firearms from watermelon
+
+*2025-09-22 13:25:24* · [`adalk`](https://www.ada.lk/breaking_news/කොමඩු-ලොරියෙන්-අයිස්--හෙරොයින්-හා-ගිනි-අවි-හමුවෙයි/11-418648) · `si`
+
+කොමඩු ප්‍රවාහනය කරන ලොරියක විශේෂයෙන් සැකසූ කුටීරයක සඟවා තිබූ අයිස් හා හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 200කට ආසන් ප්‍රමාණයක් හා ගිනි කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
+
+A T-56 riffle and five revolvers were taken into custody by the police seized from the Tangalle area.
+
+◼️
+
+[Data](articles/8558e618.json)
+
+[Extended Data](ext_articles/8558e618.ext.json)
 
 ---

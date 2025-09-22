@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 17:06:40**
+As of **2025-09-22 17:42:42**
 
 ## Newspaper Stats
 
-*Scraped **77,449** Articles*
+*Scraped **77,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,221 @@ economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,525
-adaderanalk | 10,020
-tamilmirrorlk | 11,649
+adalk | 7,526
+adaderanalk | 10,024
+tamilmirrorlk | 11,651
 virakesarilk | 12,606
-adaderanasinhalalk | 13,530
+adaderanasinhalalk | 13,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,446 (100.0%) of 77,449 articles have been extended.
+77,451 (100.0%) of 77,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### பாக். விமானப்படை குண்டுவீச்சு: 30 பேர் உயிரிழப்பு
+### සංශෝධන පනත අනුව වැඩ කරන්න ලංවිම සේවකයන් පිරිසකගේ කැමැත්ත
 
-*2025-09-22 16:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-விமானப்படை-குண்டுவீச்சு-30-பேர்-உயிரிழப்பு/50-365069) · `ta`
+*2025-09-22 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214875) · `si`
 
-கைபர் பக்துன்வா மாகாணத்தில் உள்ள ஒரு கிராமத்தில் பாகிஸ்தான் விமானப்படை 8 குண்டுகளை வீசித் தாக்கியதில், பெண்கள் மற்றும் குழந்தைகள் உட்பட 30 பேர் உயிரிழந்தனர்.
+ලංකා විදුලිබල සංශෝධන පනත අනුව පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත සමාගම් 4ක සේවය සඳහා එක්වීමට ලංකා විදුලිබල මණ්ඩල සේවකයින් පිරිසක් කැමැත්ත පළ කර තිබේ.
 
-இன்று  (22) அதிகாலை 2 மணியளவில் பஷ்துன் மக்கள் பெரும்பான்மையாக உள்ள மாட்ரே தாரா கிராமத்தில், பாகிஸ்தான் விமானப்படை ஜேஎஃப்-17 போர் விமானங்கள் எல்எஸ்-6 வகையைச் சேர்ந்த 8 குண்டுகளை வீசித் தாக்கின. இந்த தாக்குதலால் கிராமத்தின் பெரும்பகுதி அழிக்கப்பட்டது, இதில் பலர் காயமடைந்தனர். பெண்கள், குழந்தைகள் உட்பட 30 பேர் உயிரிழந்தனர்.
+අද (22) පෙරවරුවේ ලංකා විදුලිබල මණ්ඩල මූලස්ථානයේදී, එම සේවකයින් විසින් සිය කැමැත්ත පළ කිරීමේ ලිපි ලංකා විදුලිබල මණ්ඩලයේ සභාපති මහාචාර්ය උදයංග හේමපාල මහතා වෙත ලබා දුන් බව බලශක්ති අමාත්‍යංශය සඳහන් කළේය.
 
-விமானப்படை அப்பகுதியில் உள்ள தெஹ்ரீக்-இ-தலிபான் பாகிஸ்தான் (TTP) மறைவிடங்களை குறிவைத்து தாக்கியதாக தகவல்கள் வெளியாகியுள்ளன. ஆனால், இந்தத் தாக்குதலில் உயிரிழந்த அனைவரும் பொதுமக்கள் ஆவர்.
+ඒ අනුව විදුලිබල (සංශෝධිත) පනත අනුව පිහිටුවන ලද පූර්ණ රාජ්‍ය හිමිකාරීත්වය සහිත ජාතික පද්ධති පාලන (පුද්ගලික) සමාගම, ජාතික සම්ප්‍රේෂණ ජාල සේවා සැපයුම් (පුද්ගලික) සමාගම, විදුලිබල බෙදාහැරීමේ ලංකා (පුද්ගලික) සමාගම සහ විදුලි ජනන ලංකා (පුද්ගලික) සමාගම යන සමාගම් 04කට අදාළ සේවක පිරිස් සම්බන්ධ කරනු ඇති.
 
-சமீபத்திய நாட்களில், ஆப்கானிஸ்தானின் எல்லையை ஒட்டியுள்ள கைபர் பக்துன்வா மாகாணத்தில் பயங்கரவாதிகளுக்கு எதிரான நடவடிக்கைகளை பாகிஸ்தான் ராணுவம் தீவிரப்படுத்தியுள்ளது.
+විදුලිබල ක්ෂේත්‍රය සංවර්ධනය කිරීමට අවශ්‍ය  ව්‍යුහාත්මක වෙනස්කම් කරමින් ක්‍රියාත්මක ප්‍රතිව්‍යුහගතකරණ වැඩපිලිවෙලට විදුලිබල මණ්ඩලයේ සේවකයින්ගේ ප්‍රසාදය ලැබෙමින් පවතින බව මෙමගින් පෙන්නුම් කෙරෙන බව ද බලශක්ති අමාත්‍යංශය සඳහන් කළේය.
 
-...
+◼️
 
-[Data](articles/4ab1a5bf.json)
+[Data](articles/58f27d45.json)
 
 ---
 
-### තංගල්ලේ ලොරි 3න් හමු වූ සමස්ථ මත්ද්‍රව්‍ය සහ ගිනිඅවි ගණන
+### யாழ்.பெண் ஊடகவியலாளரை பகிரங்கமாக அச்சுறுத்திய நபர்
+
+*2025-09-22 17:12:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பெண்-ஊடகவியலாளரை-பகிரங்கமாக-அச்சுறுத்திய-நபர்/175-365072) · `ta`
+
+வடக்கு கல்வியில் இடம்பெறும் முறைகேடுகள் தொடர்பில் நடவடிக்கை எடுக்க    வலியுறுத்தியும் வடமாகாண கல்வி அமைச்சின் செயலாளரை மாற்ற வேண்டும் என கோரி   யாழ். முத்திரைச் சந்தியில்  அமைந்துள்ள வடமாகாண கல்வித் திணைக்களத்துக்கு முன்பாக  சிவசேனை அமைப்பினரால் திங்கட்கிழமை (22) போராட்டம் முன்னெடுக்கப்பட்டது.
+
+இந்த போராட்டத்தை செய்தி சேகரிக்கச் சென்ற யாழ். பெண் ஊடகவியலாளர் சுமதி தங்கராசாவை, தனி நபர் ஒருவர் பகிரங்கமாக அச்சுறுத்தினார்.
+
+உங்கள மாதிரி ஆட்களால்தான் நாடே நாசமா போது, நீங்கள் எல்லாம் மீடியா இல்ல ஊர கெடுக்கும் ஆக்கள், என்று அந்த பெண் ஊடகவியலாளரை அச்சுறுத்தி விட்டு சென்றுவிட்டார்.
+
+◼️
+
+[Data](articles/43486f37.json)
+
+---
+
+### Tensions by people who confused the struggle of the Shiv Sena organization
+
+*2025-09-22 16:59:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவசேனை-அமைப்பின்-போராட்டத்தை-குழப்ப-வந்த-நபர்களால்-பதற்றம்/175-365070) · `ta`
+
+The Northern Provincial Ministry of Education should be replaced by the Northern Provincial Ministry of Education. The protest was carried out by the Shiv Sena organization on Monday (22) in front of the Northern Province Department of Education, located at the Stamp Junction.
+
+Allegations have been made that the Chancellor appointed to the Kilinochchi St. Teresa School was appointed by the Secretary of the Ministry of Education of the Northern Province.
+
+At the same time, some schools in Kilinochchi have not yet been appointed permanent Chancellor.
+
+In this case, a group of people in the "cup" vehicle from Kilinochchi introduced themselves as the Development Association representatives of the Teresa School, and went to the Shiv Sena organization's struggle.
+
+As a result of the tense situation, the police, who were on duty, chased away the confused persons.
+
+◼️
+
+[Data](articles/d44bd22a.json)
+
+[Extended Data](ext_articles/d44bd22a.ext.json)
+
+---
+
+### Pack. Air Force bombing: 30 people die
+
+*2025-09-22 16:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-விமானப்படை-குண்டுவீச்சு-30-பேர்-உயிரிழப்பு/50-365069) · `ta`
+
+Pakistan Air Force bombed 8 bombs in a village in Khyber Pakhtunwa province, killing 30 people, including women and children.
+
+Pakistan Air Force JF-17 fighter jets threw eight bombs from the LS-6 type in the village of Madre Tara, which is the majority of the people of Bashtun at around 2 am today (22).. Most of the village was destroyed by the attack, many of which were injured. Thirty people, including women and children, died.
+
+According to reports, the Air Force has hit the Tehreek-e-Taliban Pakistan (TTP) hiding places in the area.. But all the victims of the attack were civilians.
+
+In recent days, the Pakistani military has intensified against terrorists in the province of Khyber Pakhtunwa, near the border of Afghanistan.
+
+On Sunday, the military announced that Seven Tehreek-e-Taliban terrorists were killed during a intelligence search operation in Dera Ismail Khan district.
+
+On September 13-14, 31 Tehreek-e-Taliban terrorists were killed in two separate clashes in Khyber Pakhtunwa.
+
+◼️
+
+[Data](articles/4ab1a5bf.json)
+
+[Extended Data](ext_articles/4ab1a5bf.ext.json)
+
+---
+
+### Number of the total drugs and firearms found in Tangalle lorries
 
 *2025-09-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214874) · `si`
 
 තංගල්ල ප්‍රදේශයේ සිදුකළ වැටලීම් වලදී මත්ද්‍රව්‍ය තොග තිබී හමු වූ ලොරි තුනේ තිබූ සම්පූර්ණ මත්ද්‍රව්‍ය ප්‍රමාණය සහ ගිනි අවි සංඛ්‍යාව පොලීසිය විසින් දැනුම් දී තිබේ.
 
-ඒ අනුව, හෙරොයින් කිලෝග්‍රෑම් 245 ක්, අයිස් කිලෝග්‍රෑම් 380 ක්, පිස්තෝල 05 ක් සහ ටී -56 අවියක් සොයා ගත් බව පොලීසිය වැඩිදුරටත් දැනුම් දී ඇත.
+Accordingly, 245 kilograms of heroin and 380 kilograms of heroin were found in the area.
 
 ◼️
 
 [Data](articles/91697c0c.json)
 
+[Extended Data](ext_articles/91697c0c.ext.json)
+
 ---
 
-### ජාතික විගණන (සංශෝධන) පනත් කෙටුම්පතට කථානායකගේ සහතිකය
+### 245kg of heroin, 380kg of ICE and six weapons recovered in Tangalle today - Police
 
-*2025-09-22 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214873) · `si`
+*2025-09-22 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112779/245kg-of-heroin-380kg-of-ice-and-six-weapons-recovered-in-tangalle-today-police) · `en`
 
-ජාතික විගණන (සංශෝධන) පනත් කෙටුම්පත සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා අද (22) සිය සහතිකය සටහන් කළේය.
+A total of 245 kilogram of heroin and 380 kilogram of crystal methamphetamine or commonly known as ‘Ice’ have been recovered from three lorries in Tangalle today (22), police stated.
 
-විගණන (සංශෝධන) පනත් කෙටුම්පත 2025.07.08 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර, 2025.09.11 දින සංශෝධන සහිතව පාර්ලිමේන්තුවේදී සම්මත විය.
+Additionally, five pistols and a T-56 assault rifle have also been seized.
 
-මෙම ජාතික විගණන (සංශෝධන) පනත් කෙටුම්පත මගින් 2018 අංක 19 දරන ජාතික විගණන පනත සංශෝධනය කිරීම අරමුණ කර ඇත.
+Police discovered three lorries that contained a large stock of narcotics, including ‘Ice’ and heroin in Seenimodara, Tangalle, earlier today.
 
-ඒ අනුව විගණකාධිපතිවරයා විසින් නිර්දේශ කරනු ලබන අධිභාර පැනවීම සම්බන්ධයෙන් තීරණ ගැනීම සඳහා එහි සංයුතිය, කාල සීමාවන් සහ ක්‍රියා පටිපාටි ඇතුළුව අධිභාර සමාලෝචන කමිටුවක් පිහිටුවීම සඳහා ප්‍රතිපාදන සැපයීම මෙම සංශෝධනවල ප්‍රධාන අරමුණ වී ඇත.
+The discovery was made this morning (22), when police found the bodies of two individuals inside an abandoned house that was reportedly under renovation. A lorry parked in the premises was found to contain a massive quantity of illegal narcotics, authorities noted.
 
-තවද වංචා හෝ දූෂණ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීමේ ආයතනවලට පැමිණිලි කිරීමට විගණකාධිපතිවරයාට බලතල ලබාදීම සහ වාර්ෂික සවිස්තරාත්මක කළමනාකරණ විගණන වාර්තාව ඉදිරිපත් කිරීමේ කාලය මාස පහේ සිට මාස හයක් දක්වා දීර්ඝ කිරීම ප්‍රධාන වෙනස්කම් අතරට ඇතුළත් වේ.
+Police recovered over 10 kilograms of narcotics substance suspected to be ‘Ice’ from the house under renovation in Seenimodara.
 
-තවද, සංශෝධන මගින් ප්‍රධාන ප්‍රඥප්තියේ 42 සහ 43 වගන්ති යටතේ වැරදි සිදු කරන පුද්ගලයින් සඳහා දඬුවම් සැලකිය යුතු ලෙස වැඩි කිරීමද  සිදු කර ඇත.
+Investigations also led to the recovery of 10 packets containing ‘Ice’ from a smaller lorry parked near the same house, according to police sources.
 
 ...
 
+[Data](articles/fa69550e.json)
+
+---
+
+### Speaker's Certificate to National Audit (Amendment) Bill
+
+*2025-09-22 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214873) · `si`
+
+Speaker Medical Wickramaratne today noted his certification today (22) for the National Audit (Amendment) Bill.
+
+Audit (Amendment) Bill was presented to Parliament on 08.07.202015 and was passed in Parliament with amendments on 11.09.2015.
+
+These National Audit (Amendment) Bill has aims to amend the National Audit Act No. 19 of 2018.
+
+Accordingly, the main objective of these amendments is to provide provisions for the establishment of a surcharge review committee, including its composition, time limits and procedures to make decisions recommended by the Auditor General.
+
+It also includes powers to the Auditor General to complain to the Auditor General and the period from five months to six months.
+
+The amendments also increased the punishment for people who make mistakes under Sections 42 and 43 of the main charter.
+
+Accordingly, the National Audit (Amendment) Bill is in effect as the National Audit (Amendment) Act, 19 ,,
+
+◼️
+
 [Data](articles/be645783.json)
+
+[Extended Data](ext_articles/be645783.ext.json)
+
+---
+
+### Speaker endorses certificate on National Audit (Amendment) Bill
+
+*2025-09-22 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112778/speaker-endorses-certificate-on-national-audit-amendment-bill) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne today (22) endorsed the certificate on the National Audit (Amendment) Bill.
+
+The National Audit (Amendment) Bill was presented to Parliament on July 8, 2025 and was passed in Parliament with amendments on July 11, 2025. The National Audit (Amendment) Bill was presented to amend the National Audit Act, No. 19 of 2018.
+
+Accordingly, the main objective of these amendments are to provide provisions for the establishment of a Surcharge Review Committee including its composition, time limits, and procedures, for the purpose of making decisions regarding the imposition of surcharges recommended by the Auditor General, the Department of Communication of Parliament stated.
+
+...
+
+[Data](articles/d9eaa86e.json)
+
+---
+
+### Israel bolsters military presence over Jewish New Year holiday period
+
+*2025-09-22 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112777/israel-bolsters-military-presence-over-jewish-new-year-holiday-period) · `en`
+
+The Israeli military said on Monday that it had reinforced air, land and naval forces across the country during the upcoming holiday period following a “multi-front assessment”.
+
+Combat soldiers who were still in training would be providing support and be alert for “defensive and offensive tasks” throughout the holiday period, which begins on September 22 with the Jewish New Year and lasts until around mid-October.
+
+The military declined to comment when asked if it was a preemptive measure or in response to a specific threat.
+
+Earlier this year, Israeli media reported that the military had ended its long-standing practice of granting unit-wide leave during holidays.
+
+The decision followed a military investigation that found Hamas took advantage of the reduced troop presence along the Gaza border on October 7, 2023, during a Jewish holiday, to launch its attack, according to media reports.
+
+◼️
+
+[Data](articles/792dbec0.json)
+
+---
+
+### Hearing of case against ex-MP Sajin Vass postponed to Dec.
+
+*2025-09-22 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112776/hearing-of-case-against-ex-mp-sajin-vass-postponed-to-dec) · `en`
+
+The Colombo Magistrate’s Court today (22) has ordered former Parliamentarian Sajin Vass Gunawardena to file a written submission on December 16, if he has any reasons for failing to pay income tax amounting to nearly Rs. 36.9 million.
+
+The directive was issued when the case was taken up before Colombo Additional Magistrate Oshadha Migara Mahaarachchi, today (22), Ada Derana reporter said.
+
+The case was filed in 2023 by the Inland Revenue Commissioner over the alleged non-payment of income tax for the assessment years 2010 and 2012.
+
+Gunawardena, who is currently out on bail, was present in court during the proceedings today.
+
+Attorney-at-Law Jeewantha Jayathilake, appearing on behalf of former MP Gunawardena, informed court that his client had filed a petition before the Supreme Court against the move to file a case before the Magistrate’s Court.
+
+Accordingly, the petition has been fixed for hearing on March 26 next year.
+
+...
+
+[Data](articles/f23be74c.json)
 
 ---
 
@@ -302,6 +450,22 @@ Britain, Canada, Australia and Portugal all recognised a Palestinian state on Su
 
 ---
 
+### President's asset statement says
+
+*2025-09-22 15:09:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-වත්කම්-ප්‍රකාශයේ-නැති-තොරතුරු-උදය-කියයි/11-418650) · `si`
+
+Plandani Kumara Dissanayake said that President Anura Kumara Dissanayake had not submitted the sharing information to President Anura Kumara Dissanayake said.
+
+"The current government has fallen into a serious difficult question to make a statement of asset bill No. 9 of 2023. We can open the asset envelope. I haven't known that it is passed. Therefore, these people have taken measures to make mistakes and hide important information.
+
+...
+
+[Data](articles/ab35ab64.json)
+
+[Extended Data](ext_articles/ab35ab64.ext.json)
+
+---
+
 ### Demonstration against state corruption in the Philippines!
 
 *2025-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225746) · `ta`
@@ -370,7 +534,7 @@ The scheme, carried out by the Irrigation Department, includes measurement of la
 
 *2025-09-22 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112770/another-lorry-with-200kg-of-substances-believed-to-be-ice-and-heroin-found-in-tangalle) · `en`
 
-A large stock of narcotics, including over 200 kilograms of crystal methamphetamine or commonly known as ‘Ice’ and of heroin, has been discovered in Seenimodara, Tangalle, authorities confirmed.
+A large stock of narcotics, including over 200 kilograms of crystal methamphetamine or commonly known as ‘Ice’ and heroin, has been discovered in Seenimodara, Tangalle, authorities confirmed.
 
 The discovery was made this morning (22), when police found the bodies of two individuals inside an abandoned house that was reportedly under renovation. A lorry parked in the premises was found to contain a massive quantity of illegal narcotics, authorities noted.
 
@@ -1869,173 +2033,5 @@ Kirk’s wife, Erika, also delivered a tearful speech in which she said she had 
 [Data](articles/a5d3a7e0.json)
 
 [Extended Data](ext_articles/a5d3a7e0.ext.json)
-
----
-
-### President visits America today
-
-*2025-09-22 08:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-அமெரிக்காவிற்கு-விஜயம்/175-365034) · `ta`
-
-President Anura Kumara Dissanayake is due to visit the United States tonight.
-
-During the visit, the President will attend the 80th General Assembly session of the United Nations.
-
-During the visit, President Anura Kumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several world leaders.
-
-◼️
-
-[Data](articles/05e8cccc.json)
-
-[Extended Data](ext_articles/05e8cccc.ext.json)
-
----
-
-### EPF Mobile Service Week to begin today in Jaffna
-
-*2025-09-22 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112750/epf-mobile-service-week-to-begin-today-in-jaffna) · `en`
-
-The Employees’ Provident Fund (EPF) Mobile Service Week, organized by the Ministry of Labor, is scheduled to commence today (22).
-
-According to the Ministry, the inaugural program will be held in Jaffna at 9.00 a.m. under the patronage of Deputy Minister of Labor Mahinda Jayasinghe.
-
-Following the inauguration, the EPF Mobile Service Week will be conducted islandwide.
-
-The Ministry further stated that a range of services will be available through the program, including resolving issues related to EPF members, providing employment opportunities through job fairs, and offering legal advice and guidance.
-
-◼️
-
-[Data](articles/1b27dc7d.json)
-
-[Extended Data](ext_articles/1b27dc7d.ext.json)
-
----
-
-### Ella bus accident is completed
-
-*2025-09-22 08:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-பேருந்து-விபத்தின்-விசாரணை-நிறைவு/175-365032) · `ta`
-
-The Motor Transport Department has completed an investigation into the bus accident that killed 16 people in Ella.
-
-The report is being prepared and the Motor Transport Commissioner is scheduled to be handed over to the Commissioner General of the day within the next two days.
-
-According to the committee report, the bus that was involved in the accident was not properly maintained and the braking system had shortcomings.
-
-Investigations have also revealed that the driver of the bus was operating without proper knowledge of the road.
-
-Meanwhile, police say there was no camera data record of the luxury car that came in front of the bus at the time of the accident.
-
-A spokesman for the Ella Police Status said that the report had been sought from the company's company and that according to the report, no data was stored in the controversial car camera system.. Remble
-
-◼️
-
-[Data](articles/ed917f66.json)
-
-[Extended Data](ext_articles/ed917f66.ext.json)
-
----
-
-### Four fatal accidents
-
-*2025-09-22 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214852) · `si`
-
-Four persons have died in four fatal accidents in several parts of the country, police said.
-
-Accordingly, a motorcycle who was traveling from Mannar from the Illuppaddawai police division of the Jaffna Mannar yesterday afternoon is an accident.
-
-The motor vehicle and the backpper were seriously injured and the deceased has been identified.
-
-The victim was a 45 year old resident of Jaffna.
-
-At the Kaduwela road in the Mulleriyawa area in the Mulleriyawa area in thengamilla road, a motorcycle traffic was unable to control the motorcycle boasts.
-
-The motorcyclist was seriously injured and taken into custody.
-
-Meanwhile, a tipper who was traveling to Dambulla in Dambulla on the evening of the Trincomalee Dambulla has been confronted with a pedestrian person who has traveled through the road.
-
-The victim was killed and the victim was a 56-year-old resident of Dambulla.
-
-Tractor from Kachchary Police Division was a kachter's kachter's kachcharam near the Kachchary Kodikamam road.
-
-...
-
-[Data](articles/a6d09506.json)
-
-[Extended Data](ext_articles/a6d09506.ext.json)
-
----
-
-### The rain with the wind today
-
-*2025-09-22 07:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காற்றுடன்-கூடிய-மழை/175-365031) · `ta`
-
-The Department of Meteorology has predicted that the current rainy and wind conditions are expected to continue in the southwestern parts of the country.
-
-Rainfall is expected in the Western and Sabaragamuwa Provinces, Galle, Matara, Kandy and Nuwara Eliya districts, the Department of Weather forecasts said.
-
-Showers or thunderstorms are expected in some places after 2.00 pm in Uva Province and Ampara and Batticaloa districts.. (A)
-
-◼️
-
-[Data](articles/80046063.json)
-
-[Extended Data](ext_articles/80046063.ext.json)
-
----
-
-### Youth arrested with ice, drug pills
-
-*2025-09-22 07:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-போதை-மாத்திரைகளுடன்-இளைஞன்-கைது/175-365030) · `ta`
-
-Yall. A 27 -year -old youth who has been using ice for a long time in the Uruppu area of ​​the Kopay Police Division has been arrested by the Kopay police with goods used for use.
-
-3600 milligrams of ice and drugs used by the suspect have been seized from the suspect.
-
-Police have taken steps to bring the arrested suspicions and evidence in court. It is also noteworthy that Kopay police are conducting further investigations. (A)
-
-◼️
-
-[Data](articles/5b3fe9c1.json)
-
-[Extended Data](ext_articles/5b3fe9c1.ext.json)
-
----
-
-### Happy news of Israel's visa without visa
-
-*2025-09-22 07:49:59* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-වීසා-නැතිව-ඉන්න-ලාංකිකයන්-සුබ-ආරංචියක්/11-418640) · `si`
-
-Sri Lanka's Ambassador to Sri Lanka Nimal Bandara said that discussions with Sri Lankans who do not have visas without the visa without Israel.
-
-He says that the Annual Recentrals were discussed in the Meeting of the Parliamentary Friest Association, which was established in the Parliament at the Parliamentary Level between Israel and Sri Lanka.
-
-The ambassador said that as other foreign nationals are also visible to Sri Lankans, so they said that they were impressed by the committee on the forefront of the PC.
-
-This is due to appear before the committee of the MP's Foreign Workers. He added that TSAGA Melaku, the officials of the Ministry of Foreign Affairs, officials of the Ministry of Foreign Policy and the Sri Lankan Embassy in Parliament Hemantha Ekanayake added.
-
-◼️
-
-[Data](articles/6c00a0eb.json)
-
-[Extended Data](ext_articles/6c00a0eb.ext.json)
-
----
-
-### Sensitive request of a father ready to give life to the child
-
-*2025-09-22 07:40:21* · [`adalk`](https://www.ada.lk/breaking_news/දරුවාට-ජීවිතය-දෙන්න-සූදානම්-පියෙකුගේ-සංවේදී-ඉල්ලීම/11-418639) · `si`
-
-Dambulla was reported from the Inamaluwa area for a loyalty to their economy and treatment for their economy and treatment for their economy to save their kidney disease.
-
-R. M. Forty seven-year-old father, named Senerarat Bandara, was a number of years of severe kidney disease. He pointed out that a child was twenty-three years old, he said.
-
-Their beloved wife R. Mnyluka Sudamyanthi aged forty-three years old. He says she serves as a private trade market in Dambulla and is a daughter who is writing the GCE O / L examination next year.
-
-He says Ruwan Bandara has come to the proposal that a kidney transplanted at many years to survive, he said.
-
-...
-
-[Data](articles/360fa376.json)
-
-[Extended Data](ext_articles/360fa376.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 14:39:56**
+As of **2025-09-22 14:56:42**
 
 ## Newspaper Stats
 
-*Scraped **77,418** Articles*
+*Scraped **77,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,74 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,523
-adaderanalk | 10,015
-tamilmirrorlk | 11,645
-virakesarilk | 12,601
+adaderanalk | 10,016
+tamilmirrorlk | 11,646
+virakesarilk | 12,603
 adaderanasinhalalk | 13,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,416 (100.0%) of 77,418 articles have been extended.
+77,418 (100.0%) of 77,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### තවත් කිලෝ 200ක අයිස් ලොරියක් සීනිමෝදර
+### முன்னாள் ஆளுநரின் மனைவிக்கு சொந்தமான ஹோட்டலை இடிக்க உத்தரவு
+
+*2025-09-22 14:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஆளுநரின்-மனைவிக்கு-சொந்தமான-ஹோட்டலை-இடிக்க-உத்தரவு/175-365063) · `ta`
+
+முன்னாள் வடமத்திய மாகாண ஆளுநர் மஹீபால ஹேரத்தின் மனைவி திருமதி அஜந்தா ரூபசரி ஹேரத்துக்குச் சொந்தமான ஹோட்டல், பெரிமியன்குளம் குள காப்புப் பகுதியில் சட்டவிரோதமாக கட்டப்பட்டதாகக் கண்டறியப்பட்டதை அடுத்து, அதை இடிக்க உத்தரவிடப்பட்டுள்ளது.
+
+இந்த உத்தரவை மத்திய நுவரகம் மாகாண பிரதேச செயலாளர் சுதர்ஷன திசாநாயக்க பிறப்பித்தார், அவர் ஹோட்டல் மற்றும் அருகிலுள்ள பல கட்டமைப்புகள் உட்பட கட்டிடங்கள் 60 பேர்ச் பாதுகாக்கப்பட்ட நிலத்தை ஆக்கிரமித்துள்ளதை உறுதிப்படுத்தினார்.
+
+அதிகாரிகளின் கூற்றுப்படி, கட்டுமானங்கள் முறையான ஆவணங்கள் அல்லது சட்டப்பூர்வ ஒப்புதல்கள் இல்லாமல் மேற்கொள்ளப்பட்டன. அறிவிப்பு வெளியான ஒரு மாதத்திற்குள் இடிப்புப் பணிகள் முடிக்கப்பட வேண்டும்.
+
+அனுராதபுரம் மாவட்டத்தில் உள்ள குளங்களின் இருப்புக்களை எல்லை நிர்ணயம் செய்து பாதுகாப்பதற்கான பரந்த அரசாங்க முயற்சியின் ஒரு பகுதியாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+நீர்ப்பாசனத் திணைக்களத்தால் முன்னெடுக்கப்படும் இந்தத் திட்டத்தில், நிலத்தை அளவீடு செய்து, எதிர்காலத்தில் ஆக்கிரமிப்புகளைத் தடுக்க எல்லைக் குறிகளை நிறுவுதல் ஆகியவை அடங்கும்.
+
+...
+
+[Data](articles/7b9d75e0.json)
+
+---
+
+### Another 200kg of ice lorry Seen
 
 *2025-09-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214866) · `si`
 
-හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට අධික තොගයක් තංගල්ල, සීනිමෝදර ප්‍රදේශයෙන් සොයාගෙන තිබේ.
+More than 200 kilograms of heroin and ice cast have been recovered from the Seennimodara area in Tangalle.
 
 ◼️
 
 [Data](articles/e72cdeb0.json)
+
+[Extended Data](ext_articles/e72cdeb0.ext.json)
+
+---
+
+### ஹொங்கொங்கில் சூறாவளி எச்சரிக்கை!
+
+*2025-09-22 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225743) · `ta`
+
+ஹொங்கொங்கில் சூறாவளி எச்சரிக்கை விடுக்கப்பட்டுள்ளது. அதன்படி, நாளை செவ்வாய்க்கிழமை (23) பிற்பகல் 1 மணி முதல் மாலை 4 மணி வரை சூறாவளி குறித்து சமிக்ஞை வெளியிடுவது தொடர்பில் அங்குள்ள வளிமண்டலவியல் திணைக்களம் பரிசீலித்து வருகிறது.
+
+அதேநேரம், குவாங்டாங் மாகாணத்தில் புதன்கிழமை அதிவேக மற்றும் வழக்கமான ரயில்கள் மூடப்படலாம் எனவும் தெரிவிக்கப்படுகிறது.
+
+லுசோன் ஜலசந்தி வழியாக தென் சீனக் கடலின் வடக்குப் பகுதியை நோக்கி புயல் காற்று வீசுவதாக முன்னறிவிப்புகள் விடுக்கப்பட்டு வருகின்றன.
+
+சூறாவளி குவாங்டாங்கின் கரையை நெருங்கும்போது உள்ளூர் காற்று படிப்படியாக தீவிரமடையும் என்று எதிர்பார்க்கப்படுகிறது.
+
+இந்த முன்னேற்றங்களுக்கு பதிலளிக்கும் விதமாக ஹொங்கொங் ஆய்வு நிலையம் இன்று இரவு 9.40 மணிக்கு வலுவான காற்று சமிக்ஞை இலக்கம் மூன்றை வெளியிடவுள்ளது.
+
+அதேநேரம், வளிமண்டலவியல் திணைக்களம் புதன்கிழமை பகல் 1 மணி முதல் மாலை 4 மணி வரை எட்டாம்  இலக்க சூறாவளி அல்லது புயல் சமிக்ஞையாக மேம்படுத்துவது குறித்து பரிசீலிக்கத் தூண்டியுள்ளது.
+
+...
+
+[Data](articles/cc3580ae.json)
 
 ---
 
@@ -82,17 +126,59 @@ Following the discovery of a buried container filled with chemicals used to make
 
 ---
 
-### ශෂේන්ද්‍රගේ ඉල්ලීම ප්‍රතික්ෂේපයි, යළි රිමාන්ඩ්
+### கடந்த 9 மாதங்களில் வீதி விபத்துகளில் 1,897 பேர் பலி - போக்குவரத்து பொலிஸ் பணிப்பாளர்
+
+*2025-09-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225740) · `ta`
+
+கடந்த ஒன்பது மாதங்களில் மொத்தமாக ஆயிரத்து 897 பேர் வீதி விபத்துகளில் உயிரிழந்துள்ளதாக போக்குவரத்து பொலிஸ் பணிப்பாளர் எஸ்.எஸ்.பி. மனோஜ் ரணகல தெரிவித்துள்ளார்.
+
+இது வீதி விபத்துக்கள் அதிகரித்து வரும் போக்கு என்பதை எடுத்துக்காட்டுகிறது என்றும் அவர் தெரிவித்துள்ளார்.
+
+இது தொடர்பாக அவர் கூறுகையில், அதிகரித்து வரும் உயிரிழப்புகளைக் கட்டுப்படுத்த கடுமையான சட்ட அமுலாக்கம் மற்றும் பொறுப்பான வாகனம் ஓட்டுதலின் அவசரத் தேவையை அவர் வலியுறுத்தியுள்ளார்.
+
+பொறுப்பற்ற முறையில் வாகனம் ஓட்டுவதைக் கண்காணிக்க நாடு முழுவதும் போக்குவரத்துப் பொலிஸானது 70 அதிவேக கண்டறிதல் இயந்திரங்களை நிறுவியுள்ளது எனவும் அவர்  மேலும் குறிப்பிட்டுள்ளார்.
+
+2025ஆம் ஆண்டில் மோட்டார் சைக்கிள் விபத்துக்கள் அதிகரித்துள்ளதாகவும், மோட்டார் சைக்கிள் மூலம் 923 விபத்துகள் பதிவாகியுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+நாட்டின் வீதிகளில் மேலும் விபத்துக்களை தடுக்க, வீதி பாதுகாப்பு நடவடிக்கைகள் மற்றும் பொது விழிப்புணர்வுக்கு போக்குவரத்து பொலிஸ் பணிப்பாளர் எஸ்.எஸ்.பி. ரணகல அழைப்பு விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/9d680187.json)
+
+---
+
+### UK considers plan to scrap visa fees for top global talent: Report
+
+*2025-09-22 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112768/uk-considers-plan-to-scrap-visa-fees-for-top-global-talent-report) · `en`
+
+British Prime Minister Keir Starmer is exploring proposals to abolish some visa fees for top global talent at a time when the United States has taken a tougher stance on immigration, the Reuters News Agency on Monday (Sep 22).
+
+Starmer’s “global talent task force” is working on ideas to attract the world’s best scientists, academics and digital experts to the UK in a bid to drive economic growth, the report said, citing people briefed on the discussions inside Number 10 and the Treasury.
+
+The idea of cutting visa costs to zero is for people who have attended the world’s top five universities or have won prestigious prizes, an official told the newspaper.
+
+According to the report, the reforms were being discussed in Number 10 and the Treasury before the Trump administration announced its decision to impose a US$100,000 fee for new H-1B visas, which are widely used by US tech companies, from Sunday.
+
+...
+
+[Data](articles/8dafde02.json)
+
+---
+
+### Shareshendi's request declines, further remanded
 
 *2025-09-22 13:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රගේ-ඉල්ලීම-ප්‍රතික්ෂේපයි--යළි-රිමාන්ඩ්/11-418649) · `si`
 
-අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ඉල්ලා සිටි ඇප අයදුම ප්‍රතික්ෂේප කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා ඔහු ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කළේය.
+Colombo Chief Magistrate Asanka S. Bodaragama, who was arrested by the Bribery Commission, was remanded until the 30th of this month.
 
-ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපොළ, 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පවත්ව ඇති අතර ඒ වෙනුවෙන් රුපියල් ලක්ෂ 88කට ආසන් වන්දි මුදලක් ලබා ගනිමින් දූෂණය නැමැත් වරද සිදුකර ඇති බවට ඔහුට එරෙහිව පැමිණිලි කර තිබේ.
+The estate of the Mahaweli Authority of the Sri Lanka Mahaweli Authority has been damaged in the struggle in Sevanagala, which has been constructed in the Mahaweli Authority of the Kubela Authority of Kubelawewa.
 
 ◼️
 
 [Data](articles/8076de4a.json)
+
+[Extended Data](ext_articles/8076de4a.ext.json)
 
 ---
 
@@ -1947,75 +2033,5 @@ The Director General of the Commission to Investigate Bribery or Corruption, Ran
 [Data](articles/7bd568a7.json)
 
 [Extended Data](ext_articles/7bd568a7.ext.json)
-
----
-
-### Vidullanka’s Matara solar power plant adds another 3 MW of clean energy to national grid
-
-*2025-09-22 04:52:23* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-Matara-solar-power-plant-adds-another-3-MW-of-clean-energy-to-national-grid/34-782004) · `en`
-
-Vidullanka PLC announced the commissioning of the 3 MW solar plant, constructed by its subsidiary Vidul Matara Solar Power Ltd. on Friday, 19 September. The new plant holds an installed capacity of 3 MW with the ability to export approximately 5.5 GWh of clean energy annually to the national grid.
-
-This milestone brings Vidullanka’s total portfolio to 24 operational power plants with a combined installed capacity of 66 MW, further contributing to the achievement of the nation’s renewable energy targets.
-
-The completion of this plant marks the first project concluded as per the 9MW awarded to the group through the CEB’s 70MW tender. This brings Vidullanka’s total solar plants commissioned for the year to a total of 3 with a cumulative capacity of 15MW, all commissioned within the span of three months. In addition, the group has a fourth solar project currently under development.
-
-...
-
-[Data](articles/7388cb97.json)
-
-[Extended Data](ext_articles/7388cb97.ext.json)
-
----
-
-### Senaka Alawattegama appointed Director/CEO of Kelani Valley Plantations
-
-*2025-09-22 04:49:57* · [`dailyftlk`](https://www.ft.lk/business/Senaka-Alawattegama-appointed-Director-CEO-of-Kelani-Valley-Plantations/34-782003) · `en`
-
-Kelani Valley Plantations PLC (KVPL), part of Hayleys Plantations, has appointed industry veteran Senaka Alawattegama as Director/Chief Executive Officer, effective 1 August.
-
-Alawattegama was also appointed as a Director to D.P.L. Plantations Ltd., Kelani Valley Resorts Ltd., Mabroc Teas Ltd., and Kalupahana Power Company Ltd.
-
-With over 40 years of experience in the plantation sector, Alawattegama began his career at the Sri Lanka State Plantations Corporation before joining Talawakelle Tea Estates PLC (TTE PLC) at its inception. In February 2020, he was appointed Director/CEO, leading the company to significant milestones in sustainability, market growth and operational efficiency.
-
-...
-
-[Data](articles/55f8dbb1.json)
-
-[Extended Data](ext_articles/55f8dbb1.ext.json)
-
----
-
-### Actress Radhika's mother has passed away
-
-*2025-09-22 04:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-ராதிகாவின்-தாயார்-காலமானார்/175-365028) · `ta`
-
-The late actor MR. Geetaradha (age 86), Radha's wife and mother of actress Radhika
-
-Died yesterday evening due to ill health and age. (A)
-
-◼️
-
-[Data](articles/f6fcf004.json)
-
-[Extended Data](ext_articles/f6fcf004.ext.json)
-
----
-
-### Accident
-
-*2025-09-22 03:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பப்-பெண்-உயிரிழப்பு/175-365027) · `ta`
-
-Yall. A family woman was killed and a youth was injured in an accident in the Kachchai area of ​​the Thenmarachchi Kodikamam police division.
-
-The accident occurred when a woman and a young man were traveling towards Kodikamam through the Kachchai road in a motorcycle.
-
-A 46 -year -old family woman from Mrusuwil, Nandakumar Jayalakshmi, died.
-
-◼️
-
-[Data](articles/5495e549.json)
-
-[Extended Data](ext_articles/5495e549.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 23:06:27**
+As of **2025-09-22 23:40:22**
 
 ## Newspaper Stats
 
-*Scraped **77,511** Articles*
+*Scraped **77,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,528
 adaderanalk | 10,037
-tamilmirrorlk | 11,658
+tamilmirrorlk | 11,659
 virakesarilk | 12,617
 adaderanasinhalalk | 13,543
 
@@ -26,29 +26,51 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,510 (100.0%) of 77,511 articles have been extended.
+77,512 (100.0%) of 77,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### ජනපති දිවයිනෙන් පිටව යයි
+### Fake letter with the signature of the Inspector General of Police
+
+*2025-09-22 22:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபரின்-கையொப்பத்துடன்-போலி-கடிதம்/175-365093) · `ta`
+
+The letter, titled "Attn: The Alleged Victim", which is spreading with the signature of the Inspector General of Police on social media, is fake, police said.
+
+The Inspector General of Police has alleged that the 'Child and Women's Investigation Bureau' has been ordered to arrest domestic and foreign citizens who are involved in viewing, keeping, spreading, distributing or preparing children's sexual abuse pictures and videos.
+
+This is completely false and is a action that deliberately spreads false information. The police chief or any other official section has categorically stated that the letter has never been issued.
+
+Spreading fake documents is legally punishable offense. For official information, the police have asked the public to rely on notifications and media reports directly issued by the Sri Lanka Police Media Unit.. Remble
+
+◼️
+
+[Data](articles/a29a2514.json)
+
+[Extended Data](ext_articles/a29a2514.ext.json)
+
+---
+
+### President leaves the country
 
 *2025-09-22 22:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214887) · `si`
 
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට ටික වේලාවකට පෙර දිවයිනෙන් පිටත්ව ගොස් තිබේ.
+President Anura Kumara Dissanayake has left the island a while ago to attend the 80th session of the United Nations General Assembly.
 
-ජනාධිපතිවරයා ලබන 24 වනදා එරට වේලාවෙන් පස්වරු  3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමට නියමිතය.
+The President is due to address the United Nations General Assembly at 3.1 pm on the 24th of this month.
 
-මෙම සංචාරයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම්වරයා සහ රාජ්‍ය නායකයින් කිහිපදෙනකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවලට එක්වීමට ද නියමිතව ඇත.
+President Anura Kumara Dissanayake is due to join bilateral talks with the Secretary-General of the United Nations and the United States's leaders.
 
-එමෙන්ම ජනාධිපතිවරයා අමෙරිකාවේ වෙසෙන ශ්‍රී ලාංකිකයින් සමඟ හමුවකට ද සහභාගී වීමටද නියමිතව තිබේ.
+The President is also meeting with Sri Lankans living in the United States.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ද එක් වීමට නියමිතය.
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to join the visit with President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/8b2f0e92.json)
+
+[Extended Data](ext_articles/8b2f0e92.ext.json)
 
 ---
 
@@ -2071,23 +2093,5 @@ A Ceylon Electricity Board (CEB) employee has been arrested by the Police Narcot
 [Data](articles/fca1c91b.json)
 
 [Extended Data](ext_articles/fca1c91b.ext.json)
-
----
-
-### The girl who was small to make the Netherlands mother, looking for the real mother
-
-*2025-09-22 12:16:53* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-කල-නෙදර්ලන්ත-මවට-හදාගන්න-දුන්-තරුණිය-ඇත්ත-මව-සොයයි/11-418645) · `si`
-
-In 1985, a young woman who was given to adopt to adopt a Nedurna national mother in 1985, is searching for her Sri Lankan mother.
-
-Born in the Kalutara General Hospital on 23 April 1985, her name was Asoka, Asoka, Asoka, No. 3570 in Sri Lanka, as Senanayake Mudiyanselage Chandani, the mother's name. The birth has been registered by the Medical Secretary of the Kalutara Gallery in Kalutara on 13th May 1985. 24-year-old Senanayake Mudiyanselage Chandani, the mother, was addressed as the address of the informant and the address of the informantage was the address of Kandagahawila and Payagala. But her permanent address was mentioned in Matara.
-
-This child was legally obtained by Verna Elisabe Baaten by Jacobus Herman Marie Baton (Jacobus Herman Marie Baton) and Verna Elisabina Baaten.. Natahahap G 06, 6116 BK Roast. 19 The child is temporarily residenced by Unity Place, Colombo-03 addressing the signature of the child.
-
-...
-
-[Data](articles/196026d3.json)
-
-[Extended Data](ext_articles/196026d3.ext.json)
 
 ---

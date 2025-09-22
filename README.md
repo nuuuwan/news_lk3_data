@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 20:56:06**
+As of **2025-09-22 21:38:55**
 
 ## Newspaper Stats
 
-*Scraped **77,494** Articles*
+*Scraped **77,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ dailyftlk | 5,496
 adalk | 7,528
 adaderanalk | 10,033
 tamilmirrorlk | 11,657
-virakesarilk | 12,610
-adaderanasinhalalk | 13,538
+virakesarilk | 12,613
+adaderanasinhalalk | 13,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,488 (100.0%) of 77,494 articles have been extended.
+77,498 (100.0%) of 77,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### Health Minister promises
+
+*2025-09-22 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214883) · `si`
+
+Health Minister Dr. Nalinda Jayatissa says that the construction work and development projects have been completed in the hospitals within the next two years.
+
+The Health Minister stated that a sum of Rs. 45 billion has been required for this purpose.
+
+Minister Dr. Nalinda Jayatissa said that Minister Dr. Nalinda Jayatissa said that this was a special discussion held in the Eastern Province and Kalmunai Health Development Program.
+
+The Minister of Health has also said that 1,900 health care assistants will be recruited in the next two months.
+
+He also said that a program to provide motorcycles for the health staff of field duties can also be opened by April.
+
+◼️
+
+[Data](articles/2215f6e4.json)
+
+[Extended Data](ext_articles/2215f6e4.ext.json)
+
+---
+
+### ICC Women's World Cup in Sri Lanka
+
+*2025-09-22 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225797) · `ta`
+
+World Cup in the ICC Women's World Cup Cricket Tournament. Premadasa was displayed at the International Cricket Stadium.
+
+The World Cup was taken to the Ground by Sri Lankan captain Samari Athapathu.
+
+Test captain Dhananjaya de Silva, former captain Dinesh Chandimal, fast bowler Vishwa Fernando, Women's Assistant Leader Harsitha Samarawickrama and Veeranganai Nilakshika de Silva were also present.
+
+The ICC Women's World Cup will be held at the Lotus Tower tomorrow from 4.00 pm to 8.00 pm.
+
+The ICC Women's World Cup will be held on Wednesday 25th of Wednesday at a girls' school in Colombo.
+
+◼️
+
+[Data](articles/3f9f0d00.json)
+
+[Extended Data](ext_articles/3f9f0d00.ext.json)
+
+---
+
+### Government and Provincial Councils should strengthen the fisheries sector
+
+*2025-09-22 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225796) · `ta`
+
+A special discussion was held on Monday (22) at the Fisheries Auditorium to increase the national level productivity and increase productivity at the national level.
+
+The event was chaired by Minister of Fisheries, Aquatic and Marine Resources Minister Ramalingam Chandrasekhar and Deputy Minister Ratna Kamage.. Golitha Kamal Jinadasa, representing all the provincial councils and many senior officials, including provincial chief secretaries, leaders of the ministry, and many other senior officials were present.
+
+Minister Ramalingam Chandrasekhar pointed out that the coordination disorders between the central government and the provincial councils were wasted and the efficiency of the projects was diminished.
+
+...
+
+[Data](articles/717270f8.json)
+
+[Extended Data](ext_articles/717270f8.ext.json)
+
+---
+
+### The government does not need to hand over the electricity sector to private companies under any circumstances - the president
+
+*2025-09-22 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225795) · `ta`
+
+President Anura Kumara Dissanayake stressed that the government is always protecting the strength of the country and the government does not need to hand over the electricity sector to private companies under any circumstances.
+
+The President said that the government's position is to ensure the economic growth of the country, national security and sovereignty, and that the government needs to create a proper corporate structure to resolve the confusion in the institutional structure of the power sector.
+
+President Anura Kumara Dissanayake made this statement while attending a review review discussion on new restructuring in the Indian office on Monday (22).
+
+...
+
+[Data](articles/ec856859.json)
+
+[Extended Data](ext_articles/ec856859.ext.json)
+
+---
 
 ### Police clarify a fake article in social media
 
@@ -772,25 +852,29 @@ Accordingly, the main objective of these amendments are to provide provisions fo
 
 ---
 
-### විගණකාධිපතිගේ බලතල වැඩි කරන පනතට කථානායක සහතිකය
+### Speaker Certificate to Increase the Auditor General's Powers Act
 
 *2025-09-22 16:26:39* · [`adalk`](https://www.ada.lk/breaking_news/විගණකාධිපතිගේ-බලතල-වැඩි-කරන-පනතට-කථානායක-සහතිකය/11-418653) · `si`
 
-ජාතික විගණන (සංශෝධන)  පනත් කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද (22) සිය සහතිකය සටහන් කළේය.
+Speaker Medical Wickramaratne today noted his certification today (22) for the National Audit (Amendment) Bill.
 
-විගණන (සංශෝධන) පනත් කෙටුම්පත  2025.07.08 දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලද අතර, 2025.09.11 දින සංශෝධන සහිතව පාර්ලිමේන්තුවේදී   සම්මත විය.
+Audit (Amendment) Bill was presented to Parliament on 08.07.202015 and was passed in Parliament with amendments on 11.09.2015.
 
-මෙම ජාතික විගණන (සංශෝධන) පනත්  කෙටුම්පත  මගින්  2018 අංක 19 දරන ජාතික විගණන පනත සංශෝධනය කිරීම  අරමුණ  කර ඇත.
+These National Audit (Amendment) Bill has aims to amend the National Audit Act No. 19 of 2018.
 
-ඒ අනුව විගණකාධිපතිවරයා විසින් නිර්දේශ කරනු ලබන අධිභාර පැනවීම සම්බන්ධයෙන් තීරණ ගැනීම සඳහා එහි සංයුතිය, කාල සීමාවන් සහ ක්‍රියා පටිපාටි ඇතුළුව අධිභාර සමාලෝචන කමිටුවක් පිහිටුවීම සඳහා ප්‍රතිපාදන සැපයීම මෙම සංශෝධනවල ප්‍රධාන අරමුණ වී ඇත.
+Accordingly, the main objective of these amendments is to provide provisions for the establishment of a surcharge review committee, including its composition, time limits and procedures to make decisions recommended by the Auditor General.
 
-තවද වංචා හෝ දූෂණ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීමේ ආයතනවලට පැමිණිලි කිරීමට විගණකාධිපතිවරයාට බලතල ලබාදීම සහ වාර්ෂික සවිස්තරාත්මක කළමනාකරණ විගණන වාර්තාව ඉදිරිපත් කිරීමේ කාලය මාස පහේ සිට මාස හයක් දක්වා දීර්ඝ කිරීම ප්‍රධාන වෙනස්කම් අතරට ඇතුළත් වේ.
+It also includes powers to the Auditor General to complain to the Auditor General and the period from five months to six months.
 
-තවද, සංශෝධන මගින් ප්‍රධාන ප්‍රඥප්තියේ 42 සහ 43 වගන්ති යටතේ වැරදි සිදු කරන පුද්ගලයින් සඳහා දඬුවම් සැලකිය යුතු ලෙස වැඩි කිරීමද  සිදු කර ඇත.
+The amendments also increased the punishment for people who make mistakes under Sections 42 and 43 of the main charter.
 
-...
+Accordingly, the National Audit (Amendment) Bill is in effect as the National Audit (Amendment) Act, 19 ,,
+
+◼️
 
 [Data](articles/1b2842fd.json)
+
+[Extended Data](ext_articles/1b2842fd.ext.json)
 
 ---
 
@@ -1997,91 +2081,5 @@ Our country is currently suffering from major vehicle accidents and casualties. 
 [Data](articles/90f84d6a.json)
 
 [Extended Data](ext_articles/90f84d6a.ext.json)
-
----
-
-### India’s Chief of Naval Staff visits Sri Lanka to strengthen maritime ties
-
-*2025-09-22 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112758/indias-chief-of-naval-staff-visits-sri-lanka-to-strengthen-maritime-ties) · `en`
-
-Admiral Dinesh K Tripathi, Chief of the Naval Staff of India, is on a four-day official visit to Sri Lanka from September 22 to September 25, according to an official statement from the Ministry of Defence.
-
-During the visit, the Chief of the Naval Staff will call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, VAdm Kanchana Banagoda, and engage in bilateral discussions with the three Service Chiefs and other senior government officials on a broad spectrum of defence cooperation matters, with emphasis on maritime security, capability enhancement, training, and identifying avenues to strengthen cooperation.
-
-He would also participate in the 12th edition of the Galle Dialogue 2025 — International Maritime Conference in Colombo, on the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics.”
-
-...
-
-[Data](articles/16ce4f24.json)
-
-[Extended Data](ext_articles/16ce4f24.ext.json)
-
----
-
-### President visits Japan on the 27th
-
-*2025-09-22 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214857) · `si`
-
-President Anura Kumara Dissanayake is scheduled to visit Japan until the 30th of April.
-
-According to the Ministry of Foreign Affairs and Tourism and Tourism, the President is due to meet the Japanese Emperor during the visit.
-
-The President also contains a convenience meeting with the Prime Minister of the Japanese prime minister.
-
-The President is also due to address the growing economic opportunities in Sri Lanka with the participation of the top representatives of Tokyo.
-
-President Anura Kumara Dissanayake also participated in the 2025 Expo Exhibition on the Japanese government's invitation and the exhibition will show the objective of displaying Sri Lanka's culture inheritance and economic skills in Sri Lanka.
-
-The President also addresses members of the Sri Lankan Sri Lankan community living in Japan and said the Ministry of Foreign Affairs and Tourism.
-
-...
-
-[Data](articles/a2115e4a.json)
-
-[Extended Data](ext_articles/a2115e4a.ext.json)
-
----
-
-### The discovery of weapons and ammunition from the land belonging to Sampath Manamberry
-
-*2025-09-22 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225721) · `ta`
-
-The police media spokesman said that weapons and ammunition have been found by the police from the land belonging to Sampath Manamambari in Mitteniya.
-
-Police have seized 9 millimeters of pistol, two T-56 magazines, 115 rounds of T-56 ammunition and one handbag, suspected of belonging to Sampath Manamambari.
-
-Sampath Manamperi has been arrested and is currently being interrogated in the case of containers found in containers used to produce ice.
-
-The Valasmulla Magistrate's Court on September 17 granted permission to the Police Drug Prevention Bureau to detain Sampath Manamperi for seven days.
-
-Sampath Manamperi has been accused of concealing the chemicals used in the production of ice drugs allegedly belonging to the underworld leader Kehelpathara Padme.
-
-Following the court order, it is reported that the police officers of the Police Drug Prevention Unit are investigating the recent discovery of two containers in Mitteniya.
-
-◼️
-
-[Data](articles/999238c5.json)
-
-[Extended Data](ext_articles/999238c5.ext.json)
-
----
-
-### Hong Kong airport to shut for 36 hours due to Typhoon Ragasa
-
-*2025-09-22 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112757/hong-kong-airport-to-shut-for-36-hours-due-to-typhoon-ragasa) · `en`
-
-Hong Kong International Airport will suspend all passenger flights for 36 hours from Tuesday (Sep 23) evening, Qantas Airways said, as the Asian financial hub prepares for one of its strongest super typhoons in years.
-
-Hong Kong’s Airport will be closed from 8pm on Sep 23 to 8am on Sep 25, Qantas said in a statement, adding that it would contact customers who are affected.
-
-A spokesperson for Airport Authority Hong Kong said it is closely monitoring the developments regarding the super typhoon, named Ragasa, and has commenced preparations to deal with the storm. But it has not made an official announcement on the closure.
-
-Hong Kong’s Observatory said it would issue the lowest typhoon signal at noon on Monday, upgrading it to the second-highest highest on Monday night between 8pm and 10pm.
-
-...
-
-[Data](articles/d1ff429c.json)
-
-[Extended Data](ext_articles/d1ff429c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 14:39:56**
+As of **2025-09-22 15:20:57**
 
 ## Newspaper Stats
 
-*Scraped **77,418** Articles*
+*Scraped **77,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,162 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,523
-adaderanalk | 10,015
-tamilmirrorlk | 11,645
-virakesarilk | 12,601
+adaderanalk | 10,018
+tamilmirrorlk | 11,647
+virakesarilk | 12,604
 adaderanasinhalalk | 13,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,416 (100.0%) of 77,418 articles have been extended.
+77,424 (100.0%) of 77,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### තවත් කිලෝ 200ක අයිස් ලොරියක් සීනිමෝදර
+### Demonstration against state corruption in the Philippines!
+
+*2025-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225746) · `ta`
+
+Many people have taken to the streets to protest because they are said to have spent billions of dollars on fake relief projects.
+
+Tens of thousands of Philippines took to the streets on Sunday (21) against government corruption.
+
+Citizens from students, church groups, celebrities and various political camps have staged protests in Manila and other cities.
+
+Police have arrested 72 people, including 20 children, during these protests. Also, 39 security officers were injured in the demonstration. It is reported that a trailer vehicle used as a barrier was also set on fire.
+
+Various issues are attributed to these struggles, including the bribery of lawmakers and authorities.
+
+At the same time, important projects have not been implemented to protect the country from flooding. The Philippine government's estimates suggest that the country's economy has lost £ 1.48 billion in the last two years due to corruption in flood control projects.
+
+...
+
+[Data](articles/f6b5ec75.json)
+
+[Extended Data](ext_articles/f6b5ec75.ext.json)
+
+---
+
+### Arrested doctor who cheated for 20 years
+
+*2025-09-22 14:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வருடங்களாக-ஏமாற்றிய-வைத்தியர்-கைது/175-365064) · `ta`
+
+A 54 -year -old man who allegedly pretended to be a doctor for nearly two decades was arrested yesterday evening (21).
+
+The suspect from the Teltuwa area has runs a medical center under the name Sahana Seva near Sri Tharakarama Vihara.
+
+He said that he was using the registration number of the Sri Lanka Medical Council (SLMC) owned by another doctor, police said.
+
+◼️
+
+[Data](articles/c57a075a.json)
+
+[Extended Data](ext_articles/c57a075a.ext.json)
+
+---
+
+### Order to demolish a hotel owned by former governor's wife
+
+*2025-09-22 14:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஆளுநரின்-மனைவிக்கு-சொந்தமான-ஹோட்டலை-இடிக்க-உத்தரவு/175-365063) · `ta`
+
+Mrs. Ajanta, wife of former North Central Provincial Governor Maibala Herath, has been ordered to demolish the hotel owned by Rupasi Herath.
+
+The order was issued by Sudarshana Dissanayake, the Divisional Secretary of the Central Nuwarasam, and confirmed that he had occupied 60 perch protected land, including the hotel and several structures nearby.
+
+According to the authorities, constructions were carried out without formal documents or legal approval. The demolition work must be completed within a month of the announcement.
+
+The move is part of a vast government effort to border and secure the reserves of ponds in Anuradhapura district.
+
+The scheme, carried out by the Irrigation Department, includes measurement of land and establishing border markers to prevent encroachments in the future.
+
+...
+
+[Data](articles/7b9d75e0.json)
+
+[Extended Data](ext_articles/7b9d75e0.ext.json)
+
+---
+
+### Another lorry with 200kg of substances believed to be ‘Ice’ and heroin found in Tangalle
+
+*2025-09-22 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112770/another-lorry-with-200kg-of-substances-believed-to-be-ice-and-heroin-found-in-tangalle) · `en`
+
+A large stock of narcotics, including over 200 kilograms of crystal methamphetamine or commonly known as ‘Ice’ and of heroin, has been discovered in Seenimodara, Tangalle, authorities confirmed.
+
+The discovery was made this morning (22), when police found the bodies of two individuals inside an abandoned house that was reportedly under renovation. A lorry parked in the premises was found to contain a massive quantity of illegal narcotics, authorities noted.
+
+Police recovered over 10 kilograms of narcotics substance suspected to be ‘Ice’ from the house under renovation in Seenimodara.
+
+Investigations also led to the recovery of 10 packets containing ‘Ice’ from a smaller lorry parked near the same house, according to police sources.
+
+Subsequently, authorities conducted a thorough search, leading to the recovery of a much larger stock of ‘Ice’ and heroin, exceeding 200 kilograms, in Tangalle.
+
+...
+
+[Data](articles/019c5d9f.json)
+
+---
+
+### Another 200kg of ice lorry Seen
 
 *2025-09-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214866) · `si`
 
-හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට අධික තොගයක් තංගල්ල, සීනිමෝදර ප්‍රදේශයෙන් සොයාගෙන තිබේ.
+More than 200 kilograms of heroin and ice cast have been recovered from the Seennimodara area in Tangalle.
 
 ◼️
 
 [Data](articles/e72cdeb0.json)
+
+[Extended Data](ext_articles/e72cdeb0.ext.json)
+
+---
+
+### Process of assigning CEB employees to four newly established companies commences
+
+*2025-09-22 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112769/process-of-assigning-ceb-employees-to-four-newly-established-companies-commences) · `en`
+
+The process of assigning employees of the Ceylon Electricity Board (CEB) to four newly established, fully state-owned companies — established under the implementation of the Sri Lanka Electricity (Amendment) Act — has now officially commenced, the Ministry of Energy stated.
+
+Accordingly, a group of employees of the CEB has taken steps to submit letters expressing their willingness to be affiliated with these newly formed institutions, according to a statement from the Energy Ministry.
+
+Accordingly, the letters of consent have been officially handed over to the Chairman of the Ceylon Electricity Board, Professor Udayanga Hemapala this morning at the CEB Headquarters.
+
+In line with the Sri Lanka Electricity (Amendment) Act No. 14 of 2025, four fully government-owned companies have been established to which the employees will be assigned.
+
+...
+
+[Data](articles/1c4a57cb.json)
+
+---
+
+### Hurricane Warning in Hong Kong!
+
+*2025-09-22 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225743) · `ta`
+
+Hurricane Warning has been issued in Hong Kong. Accordingly, the Department of Meteorology is considering the issue of tornadoes from 1 pm to 4 pm on Tuesday (23).
+
+At the same time, high speed and regular trains will be closed in Guangdong Province on Wednesday.
+
+Predictions are being preceded by the storm blowing towards the northern part of the South China Sea via Lusone Strait.
+
+Local air is expected to gradually intensify as the hurricane approaches the shore of Guangdong.
+
+In response to these improvements, the Hong Kong Research Center will release a strong wind signal number at 9.40 pm tonight.
+
+At the same time, the Department of Meteorology has prompted the upgrading of Wednesday from 1 pm to 4 pm to the eighth tornado or a storm signal.
+
+It has been forecast that strong winds are likely to blow in Hong Kong and hurricane winds may blow on the coast and high areas.
+
+It is also said that heavy tornadoes, thunderstorms and excessive sea turbulence can occur.
+
+...
+
+[Data](articles/cc3580ae.json)
+
+[Extended Data](ext_articles/cc3580ae.ext.json)
 
 ---
 
@@ -82,17 +214,63 @@ Following the discovery of a buried container filled with chemicals used to make
 
 ---
 
-### ශෂේන්ද්‍රගේ ඉල්ලීම ප්‍රතික්ෂේපයි, යළි රිමාන්ඩ්
+### 1,897 killed in road accidents in the last 9 months - Director of Transport Police
+
+*2025-09-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225740) · `ta`
+
+Traffic Police Director SSP. Manoj Ranagala said.
+
+He said that this is an increase in road accidents.
+
+In this regard, he emphasized the urgent need for strict legal implementation and responsible vehicle driving to control increasing deaths.
+
+He added that traffic police across the country have installed 70 high -speed detection machines to monitor reckless driving.
+
+He said motorcycle accidents had increased by 2025 and 923 accidents were reported by motorcycle.
+
+Traffic Police Director SSP to prevent further accidents on the streets of the country, road safety measures and public awareness. Ranagala has called.
+
+◼️
+
+[Data](articles/9d680187.json)
+
+[Extended Data](ext_articles/9d680187.ext.json)
+
+---
+
+### UK considers plan to scrap visa fees for top global talent: Report
+
+*2025-09-22 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112768/uk-considers-plan-to-scrap-visa-fees-for-top-global-talent-report) · `en`
+
+British Prime Minister Keir Starmer is exploring proposals to abolish some visa fees for top global talent at a time when the United States has taken a tougher stance on immigration, the Reuters News Agency on Monday (Sep 22).
+
+Starmer’s “global talent task force” is working on ideas to attract the world’s best scientists, academics and digital experts to the UK in a bid to drive economic growth, the report said, citing people briefed on the discussions inside Number 10 and the Treasury.
+
+The idea of cutting visa costs to zero is for people who have attended the world’s top five universities or have won prestigious prizes, an official told the newspaper.
+
+According to the report, the reforms were being discussed in Number 10 and the Treasury before the Trump administration announced its decision to impose a US$100,000 fee for new H-1B visas, which are widely used by US tech companies, from Sunday.
+
+...
+
+[Data](articles/8dafde02.json)
+
+[Extended Data](ext_articles/8dafde02.ext.json)
+
+---
+
+### Shareshendi's request declines, further remanded
 
 *2025-09-22 13:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රගේ-ඉල්ලීම-ප්‍රතික්ෂේපයි--යළි-රිමාන්ඩ්/11-418649) · `si`
 
-අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ඉල්ලා සිටි ඇප අයදුම ප්‍රතික්ෂේප කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා ඔහු ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කළේය.
+Colombo Chief Magistrate Asanka S. Bodaragama, who was arrested by the Bribery Commission, was remanded until the 30th of this month.
 
-ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපොළ, 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පවත්ව ඇති අතර ඒ වෙනුවෙන් රුපියල් ලක්ෂ 88කට ආසන් වන්දි මුදලක් ලබා ගනිමින් දූෂණය නැමැත් වරද සිදුකර ඇති බවට ඔහුට එරෙහිව පැමිණිලි කර තිබේ.
+The estate of the Mahaweli Authority of the Sri Lanka Mahaweli Authority has been damaged in the struggle in Sevanagala, which has been constructed in the Mahaweli Authority of the Kubela Authority of Kubelawewa.
 
 ◼️
 
 [Data](articles/8076de4a.json)
+
+[Extended Data](ext_articles/8076de4a.ext.json)
 
 ---
 
@@ -1857,165 +2035,5 @@ The program began with a heartfelt tribute to the late Chairman, followed by an 
 [Data](articles/7b10254a.json)
 
 [Extended Data](ext_articles/7b10254a.ext.json)
-
----
-
-### Opposition parties united by fear of arresting corrupt people; Sunil Vatagala - appropriate legal action against us
-
-*2025-09-22 05:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225698) · `ta`
-
-Opposition parties are currently united when they are arresting corrupt people. The people of the country must understand their true face. Minister of Public Security and Parliamentary Affairs Sunil Vatagala said that we will take appropriate legal action against the allegations leveled against us.
-
-The government headed by President Anura Kumara has come to power for a year. One year, major corrupt and criminals have been arrested by the law. The law is now common.
-
-When the corrupt is arresting the corrupt law, all the opposition parties are worried and now united.
-
-We are the ones who have filed a bribery and corruption inquiry into the property and responsibility documents.
-
-The anti -corruption law was enacted in the government of former President Ranil -Rajapakse.
-
-Our government has survived the anti -corruption law. According to the law, the Bribery and Corruption Commission is currently acting as per the law. That is why corrupt people are afraid.
-
-◼️
-
-[Data](articles/92c410c0.json)
-
-[Extended Data](ext_articles/92c410c0.ext.json)
-
----
-
-### Rockland commemorates 101 years with Chairman’s Awards ceremony
-
-*2025-09-22 05:03:52* · [`dailyftlk`](https://www.ft.lk/business/Rockland-commemorates-101-years-with-Chairman-s-Awards-ceremony/34-782005) · `en`
-
-Winners across more than 20 categories throughout the Rockland Group recognised for their dedication and service
-
-Carl de Silva Wijeyeratne Challenge Trophy winner Hotel Partnerships Head Dilan Fernando
-
-Leadership Category winner – Liquid Island GM and Brand Communications and PR Group Head Shalindri Malawana (right)
-
-General Manager Category winners – General Manager of Operations Eranda Attanayake (left) and Group Sales and Commercial Strategy General Manager Chathura Ganegoda
-
-Best Sales Channel Leader award presented to National Sales Head Chandana Wijesinghe (right)
-
-Rockland Group recently celebrated its 101st anniversary with the third annual Chairman’s Awards.
-
-The milestone event recognised and celebrated the achievements of exceptional individuals who have contributed to the company’s continued success while upholding its heritage of innovation, quality, and resilience.
-
-...
-
-[Data](articles/90950b2e.json)
-
-[Extended Data](ext_articles/90950b2e.ext.json)
-
----
-
-### The problem will be solved through the obvious measures of drug purchases
-
-*2025-09-22 04:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225697) · `ta`
-
-The situation is due to the problems of procurement, not the financial problem, but the current drug shortage in the country.. Health Minister Nalinda Jayatissa said the problem would be solved through open measures.
-
-He was speaking at a function held on Saturday 20th in Ampara.
-
-The procurement processes for importing drugs have already begun and the drugs that are scarce will be obtained after the next November.
-
-Some drugs are not available in the private market, not available in the open air, not available in the market, and not available in pharmacies. There are many problems like this. We do not allow the record by submitting unlimited prices during the drug registration. In South Asian countries, a specific price limit has been set in view of the current market situation.
-
-...
-
-[Data](articles/698324f6.json)
-
-[Extended Data](ext_articles/698324f6.ext.json)
-
----
-
-### Royal College Admissions Abuse: Ranga Dissanayake's son
-
-*2025-09-22 04:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225696) · `ta`
-
-The Commission to Investigate Bribery or Corruption has announced that the Commission has prioritized and inquired about the system of recruitment of the Royal College of Colombo to the Colombo Royal College.
-
-The Commission has decided that proper methods have been adopted to incorporate the son of the Director General to the Royal College, Colombo, or that no political intervention has been taken.
-
-The Commission has issued a special report on the complaint made to the Commission regarding the Commission's Director General of the Commission to Investigate Bribery or Corruption.
-
-The Director General of the Commission to Investigate Bribery or Corruption, Ranga Dissanayake, has reportedly added his son to the Royal College of Colombo in 2014, according to the Commission's Commission, including the Commission, including the Commission's Commission, according to the Commission's Commission.
-
-...
-
-[Data](articles/7bd568a7.json)
-
-[Extended Data](ext_articles/7bd568a7.ext.json)
-
----
-
-### Vidullanka’s Matara solar power plant adds another 3 MW of clean energy to national grid
-
-*2025-09-22 04:52:23* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-Matara-solar-power-plant-adds-another-3-MW-of-clean-energy-to-national-grid/34-782004) · `en`
-
-Vidullanka PLC announced the commissioning of the 3 MW solar plant, constructed by its subsidiary Vidul Matara Solar Power Ltd. on Friday, 19 September. The new plant holds an installed capacity of 3 MW with the ability to export approximately 5.5 GWh of clean energy annually to the national grid.
-
-This milestone brings Vidullanka’s total portfolio to 24 operational power plants with a combined installed capacity of 66 MW, further contributing to the achievement of the nation’s renewable energy targets.
-
-The completion of this plant marks the first project concluded as per the 9MW awarded to the group through the CEB’s 70MW tender. This brings Vidullanka’s total solar plants commissioned for the year to a total of 3 with a cumulative capacity of 15MW, all commissioned within the span of three months. In addition, the group has a fourth solar project currently under development.
-
-...
-
-[Data](articles/7388cb97.json)
-
-[Extended Data](ext_articles/7388cb97.ext.json)
-
----
-
-### Senaka Alawattegama appointed Director/CEO of Kelani Valley Plantations
-
-*2025-09-22 04:49:57* · [`dailyftlk`](https://www.ft.lk/business/Senaka-Alawattegama-appointed-Director-CEO-of-Kelani-Valley-Plantations/34-782003) · `en`
-
-Kelani Valley Plantations PLC (KVPL), part of Hayleys Plantations, has appointed industry veteran Senaka Alawattegama as Director/Chief Executive Officer, effective 1 August.
-
-Alawattegama was also appointed as a Director to D.P.L. Plantations Ltd., Kelani Valley Resorts Ltd., Mabroc Teas Ltd., and Kalupahana Power Company Ltd.
-
-With over 40 years of experience in the plantation sector, Alawattegama began his career at the Sri Lanka State Plantations Corporation before joining Talawakelle Tea Estates PLC (TTE PLC) at its inception. In February 2020, he was appointed Director/CEO, leading the company to significant milestones in sustainability, market growth and operational efficiency.
-
-...
-
-[Data](articles/55f8dbb1.json)
-
-[Extended Data](ext_articles/55f8dbb1.ext.json)
-
----
-
-### Actress Radhika's mother has passed away
-
-*2025-09-22 04:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-ராதிகாவின்-தாயார்-காலமானார்/175-365028) · `ta`
-
-The late actor MR. Geetaradha (age 86), Radha's wife and mother of actress Radhika
-
-Died yesterday evening due to ill health and age. (A)
-
-◼️
-
-[Data](articles/f6fcf004.json)
-
-[Extended Data](ext_articles/f6fcf004.ext.json)
-
----
-
-### Accident
-
-*2025-09-22 03:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பப்-பெண்-உயிரிழப்பு/175-365027) · `ta`
-
-Yall. A family woman was killed and a youth was injured in an accident in the Kachchai area of ​​the Thenmarachchi Kodikamam police division.
-
-The accident occurred when a woman and a young man were traveling towards Kodikamam through the Kachchai road in a motorcycle.
-
-A 46 -year -old family woman from Mrusuwil, Nandakumar Jayalakshmi, died.
-
-◼️
-
-[Data](articles/5495e549.json)
-
-[Extended Data](ext_articles/5495e549.ext.json)
 
 ---

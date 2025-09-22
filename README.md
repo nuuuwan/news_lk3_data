@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 01:05:55**
+As of **2025-09-23 01:38:44**
 
 ## Newspaper Stats
 
-*Scraped **77,517** Articles*
+*Scraped **77,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 784
 economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
-dailyftlk | 5,499
+dailyftlk | 5,502
 adalk | 7,528
 adaderanalk | 10,039
 tamilmirrorlk | 11,659
@@ -26,9 +26,63 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,517 (100.0%) of 77,517 articles have been extended.
+77,519 (100.0%) of 77,520 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-23 (Tuesday)
+
+### Sri Lankan business leaders participate in 2025 UN Private Sector Forum
+
+*2025-09-23 01:08:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-business-leaders-participate-in-2025-UN-Private-Sector-Forum/34-782048) · `en`
+
+Dialog Axiata Executive Director/Group CEO and Network Sri Lanka Board Member Supun Weerasinghe
+
+Dilmah Ceylon Tea Company Chairman/CEO and Network Sri Lanka Chairman Dilhan C. Fernando
+
+On the invitation of United Nations Secretary-General António Guterres, three representatives from UN Global Compact Network Sri Lanka (Network Sri Lanka) participated yesterday in the 2025 United Nations Private Sector Forum (PSF), a high-level roundtable that brings together a select group of global private sector leaders to drive forward sustainable economic growth, held as a high-level convening during UN General Assembly Week in New York.
+
+Representing Sri Lanka at this year’s Forum are Dilmah Ceylon Tea Company PLC Chairman/CEO and Network Sri Lanka Chairman Dilhan C. Fernando. Dialog Axiata PLC Executive Director/Group CEO and Network Sri Lanka Board Member Supun Weerasinghe, and Network Sri Lanka Executive Director Rathika de Silva.
+
+...
+
+[Data](articles/e20188a8.json)
+
+---
+
+### Sysco’s global technology leadership meets Sri Lanka’s digital leaders
+
+*2025-09-23 01:00:01* · [`dailyftlk`](https://www.ft.lk/business/Sysco-s-global-technology-leadership-meets-Sri-Lanka-s-digital-leaders/34-782047) · `en`
+
+From left: Sysco Technology Vice President – Human Resources Chris Torchia, Vice President – Digital Commerce and Customer Solutions Ragnarok Rocha, Executive Vice President and Chief Information and Digital Officer Tom Peck, Digital Economy Deputy Minister Eng. Eranga Weeraratne, Sysco LABS Managing Director Thushera Kawdawatta, Chief Adviser to the President on Digital Economy Dr. Hans Wijayasuriya, and Sysco LABS Director – Branding and Communications Gian De Rose
+
+Sysco Executive Vice President, and Chief Information and Digital Officer Tom Peck recently met with Digital Economy Deputy Minister Eranga Weeraratne, and Chief Advisor to the President on Digital Economy and ICTA Chairman Dr. Hans Wijayasuriya.
+
+...
+
+[Data](articles/c8cf56bb.json)
+
+[Extended Data](ext_articles/c8cf56bb.ext.json)
+
+---
+
+### Disrupt Asia 2025 shines as South Asia’s new innovation powerhouse
+
+*2025-09-23 00:58:23* · [`dailyftlk`](https://www.ft.lk/business/Disrupt-Asia-2025-shines-as-South-Asia-s-new-innovation-powerhouse/34-782046) · `en`
+
+From right: Thilan Wijesinghe moderates a powerful discussion with Dr. Nandalal Weerasinghe, Dr. Hans Wijayasuriya, Duminda Hulangamuwa, and Gevorg Sargsyan on South Asia’s roadmap to becoming an innovation hub at the Disrupt Asia Main Conference panel discussion
+
+Four-day festival ignites global confidence in Sri Lanka's startup ecosystem
+
+Sri Lanka has firmly staked its claim as South Asia’s rising innovation hub with the successful completion of Disrupt Asia 2025, a four-day celebration of innovation, entrepreneurship, and technology. The event drew more than 100 venture capitalists from 20 countries including host Sri Lanka, strengthening regional startup networks and cross-border partnerships, signalling unprecedented global confidence in Sri Lanka’s innovation potential.
+
+...
+
+[Data](articles/30361792.json)
+
+[Extended Data](ext_articles/30361792.ext.json)
+
+---
 
 ### 2025-09-22 (Monday)
 
@@ -2041,69 +2095,5 @@ Police suspected that the body was rescued between 50 and 60 years old.
 [Data](articles/e5a47660.json)
 
 [Extended Data](ext_articles/e5a47660.ext.json)
-
----
-
-### Two bodies of a Tangalle house
-
-*2025-09-22 12:53:42* · [`adalk`](https://www.ada.lk/breaking_news/තංගල්ල-නිවසක-මළසිරුරු-දෙකක්/11-418646) · `si`
-
-Two large bodies have been found in the Seennamodara area of ​​the Tangalle Police area, Tangalle Police said.
-
-Police also recovered 10 packets of ice drugs in a lorry near the house at the investigation.
-
-Another person was admitted to the Tangalle General Hospital due to an emergency situation and he was also killed.
-
-The Government Analymist is currently conducting a taste and conducting a taste and conducting further investigations.
-
-◼️
-
-[Data](articles/c4be5135.json)
-
-[Extended Data](ext_articles/c4be5135.ext.json)
-
----
-
-### Yoshitha Rajapaksa postponed trial against Daisy's grandmother
-
-*2025-09-22 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225729) · `ta`
-
-The Colombo High Court has ordered the adjournment of the case against Yoshitha Rajapaksa and his grandmother Daisy Porrest under the Prevention of Money Laundering Act.
-
-A case has been filed against Yoshitha Rajapakse and his grandmother Daisy Porrest for allegedly illegally earning about Rs 73 million worth of assets.
-
-When the case was summoned for hearing on Monday (22), Yoshitha Rajapaksa and Daisy Patty, who were referred to as defendants, appeared in court.
-
-The Colombo High Court has ordered the withdrawal of the case on October 15.
-
-Yoshitha Rajapaksa and his grandmother Daisy Porrest, who were referred to as defendants when the case was called for hearing, appeared in court.
-
-The court has ordered the hearing of the case on October 15.
-
-◼️
-
-[Data](articles/61d5745e.json)
-
-[Extended Data](ext_articles/61d5745e.ext.json)
-
----
-
-### Tip About Trump - Kim Meet
-
-*2025-09-22 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214861) · `si`
-
-North Korean leader Kim Jongh says he is ready to meet the US President Donald Trump at any time, if he hurres the demands to abandon the nuclear program.
-
-He was addressing the Supreme Public Council of Pyongang.
-
-The North Korean leader also revealed that the two leaders have met with each other.
-
-Trump is the first American President to pass the North Korean border while in office.
-
-◼️
-
-[Data](articles/f555583d.json)
-
-[Extended Data](ext_articles/f555583d.ext.json)
 
 ---

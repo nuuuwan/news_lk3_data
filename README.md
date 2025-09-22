@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 14:12:29**
+As of **2025-09-22 14:39:56**
 
 ## Newspaper Stats
 
-*Scraped **77,413** Articles*
+*Scraped **77,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,97 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,521
+adalk | 7,523
 adaderanalk | 10,015
-tamilmirrorlk | 11,644
+tamilmirrorlk | 11,645
 virakesarilk | 12,601
-adaderanasinhalalk | 13,520
+adaderanasinhalalk | 13,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,407 (100.0%) of 77,413 articles have been extended.
+77,416 (100.0%) of 77,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### ஜனாதிபதி மாளிகை அருகே மோதல் ; 49 பேர் கைது
+### තවත් කිලෝ 200ක අයිස් ලොරියක් සීනිමෝදර
+
+*2025-09-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214866) · `si`
+
+හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට අධික තොගයක් තංගල්ල, සීනිමෝදර ප්‍රදේශයෙන් සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/e72cdeb0.json)
+
+---
+
+### Relating employees to 4 power new companies begins
+
+*2025-09-22 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214865) · `si`
+
+The Ministry of Energy stated that four full state owned companies have been established in implementing the Ceylon Electricity Amendment Act.
+
+Accordingly, part of the Ceylon Electricity Board (CEB) employees to provide letters to the institutions they were established as above.
+
+The Ceylon Electricity Board (CEB) has agreed at the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
+
+The National Transmission Network Company (Pvt) Ltd, which has been established by the Sri Lanka Electricity (Amended) Act, No. 14 of 2025, says that the above employees will be connected to the above four companies.
+
+The Minister of Energy The Energy Ministry said that the restructuring program of the Ceylon Electricity Board (CEB) is infected with the development of the electricity sector in parallel to the development of the electricity industry.
+
+◼️
+
+[Data](articles/b6c0d4aa.json)
+
+[Extended Data](ext_articles/b6c0d4aa.ext.json)
+
+---
+
+### CEB employee arrested with ICE
+
+*2025-09-22 13:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICE-உடன்-தொடர்பு-CEB-ஊழியர்-கைது/175-365060) · `ta`
+
+A Ceylon Electricity Board (CEB) employee has been arrested by the Police Narcotics Bureau (PNB) for allegedly giving shelter to the main suspect in a massive drug case.
+
+Following the discovery of a buried container filled with chemicals used to make a drug called 'ice' in Mitenia, the suspect who identified as Sampath Manamberi is currently being kept in detention, police said.
+
+◼️
+
+[Data](articles/b8650648.json)
+
+[Extended Data](ext_articles/b8650648.ext.json)
+
+---
+
+### ශෂේන්ද්‍රගේ ඉල්ලීම ප්‍රතික්ෂේපයි, යළි රිමාන්ඩ්
+
+*2025-09-22 13:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රගේ-ඉල්ලීම-ප්‍රතික්ෂේපයි--යළි-රිමාන්ඩ්/11-418649) · `si`
+
+අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ඉල්ලා සිටි ඇප අයදුම ප්‍රතික්ෂේප කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා ඔහු ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කළේය.
+
+ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපොළ, 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පවත්ව ඇති අතර ඒ වෙනුවෙන් රුපියල් ලක්ෂ 88කට ආසන් වන්දි මුදලක් ලබා ගනිමින් දූෂණය නැමැත් වරද සිදුකර ඇති බවට ඔහුට එරෙහිව පැමිණිලි කර තිබේ.
+
+◼️
+
+[Data](articles/8076de4a.json)
+
+---
+
+### Conflict near the President's House; 49 arrested
 
 *2025-09-22 13:38:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-மாளிகை-அருகே-மோதல்-49-பேர்-கைது/50-365059) · `ta`
 
-பிலிப்பைன்ஸ் தலைநகரில் அமைதியான ஊழல் எதிர்ப்பு பேரணி நடைபெற்ற போது, அதிகாரிகள் மீது கற்கள், பாட்டில்கள் மற்றும் தீ குண்டுகளை வீசியதாகவும், ஜனாதிபதி மாளிகைக்கு செல்லும் பலத்த பாதுகாப்புடன் கூடிய வீதிகள் மற்றும் பாலங்களைத் தடுத்ததாகவும் சந்தேகிக்கப்படும் 49 பேரை பொலிஸார் கைது செய்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தகவல் தெரிவிக்கின்றனர்.
+Foreign media reports that police have arrested 49 suspects suspected of throwing stones, bottles and fire bombs on the officers during a peaceful anti -corruption rally in the Philippines capital.
 
 ◼️
 
 [Data](articles/6257f9b7.json)
+
+[Extended Data](ext_articles/6257f9b7.ext.json)
 
 ---
 
@@ -48,41 +114,51 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-22 13:31:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-போதைப்பொருள்-துப்பாக்கிகளுடன்-லாரி-பறிமுதல்/175-365058) · `ta`
 
-தங்காலை,கொடெல்ல, கடுருபோகுன வீதியில் உள்ள ஒரு வீட்டில் மறைத்து வைக்கப்பட்டிருந்த ஒரு லாரியில் 200 கிலோவுக்கும் அதிகமான போதைப்பொருள், ஒரு டி-56 துப்பாக்கி மற்றும் ஐந்து நவீன ரிவால்வர்கள் ஆகியவை ​பொலிஸாரால் பறிமுதல் செய்யப்பட்டுள்ளன.
+More than 200 kg of drugs, one T-56 rifle and five modern revolvers have been confiscated by the police in a lorry hidden in a house on Tangalle, Kodella, Kodala, Kadulapokuna road.
 
-தர்பூசணிகளை கொண்டு செல்வது என்ற போர்வையில் லாரியில் ஒரு சிறப்பு பெட்டியில் போதைப்பொருள் மற்றும் துப்பாக்கிகள் கொண்டு செல்லப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say drugs and guns have been transported in a special box in the lorry under the guise of carrying watermelons.
 
 ◼️
 
 [Data](articles/7c28af27.json)
 
+[Extended Data](ext_articles/7c28af27.ext.json)
+
 ---
 
-### කොමඩු ලොරියෙන් අයිස්, හෙරොයින් හා ගිනි අවි හමුවෙයි
+### Meeting Ice, Heroin and firearms from watermelon
 
 *2025-09-22 13:25:24* · [`adalk`](https://www.ada.lk/breaking_news/කොමඩු-ලොරියෙන්-අයිස්--හෙරොයින්-හා-ගිනි-අවි-හමුවෙයි/11-418648) · `si`
 
 කොමඩු ප්‍රවාහනය කරන ලොරියක විශේෂයෙන් සැකසූ කුටීරයක සඟවා තිබූ අයිස් හා හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 200කට ආසන් ප්‍රමාණයක් හා ගිනි කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
 
-තංගල්ල ප්‍ර දේශයේදී පොලිස් භාරයට ගත් ගිනි අවි අතර ටී 56 ගිනි අවියක් හා රිවෝල්වර පහක් මෙසේ පොලිස් භාරයට ගෙන තිබේ.
+A T-56 riffle and five revolvers were taken into custody by the police seized from the Tangalle area.
 
 ◼️
 
 [Data](articles/8558e618.json)
 
+[Extended Data](ext_articles/8558e618.ext.json)
+
 ---
 
-### තංගල්ලේදී ඇල්ලූ අයිස් සහ හෙරොයින් ප්‍රවාහනය කළ ලොරි රථයේ නවීන ගිනි අවි 4ක් තිබී හමුවෙයි
+### Lori, who was transporting Ice and heroin in Tangalle, met 4 modern firearm
 
 *2025-09-22 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214863) · `si`
 
-අයිස් සහ හෙරොයින් කිලෝ 200කට ආසන්න ප්‍රමාණයක් ප්‍රවාහනය කරමින් තිබියදී තංගල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගත් ලොරි රථයේ තිබී නවීන ගිනිඅවි 04ක් සොයා ගැනීමට පොලීසිය සමත්ව තිබේ.
+Over 200 kilograms of heroin and ice drug has been recovered from Tangalle.
 
-මෙම ලොරි රථය අද පෙරවරුවේ ධාවනය කරමින් තිබියදී පොලීසිය විසින් පරීක්ෂා කර ඇති අතර එහිදී මෙම රථය තුළ තිබී අයිස් සහ හොරොයින් කිලෝ 200 පොලීසිය විසින් සොයා ගැනීමට සමත් විය.
+Senior DIG Kathsiri Jayalath said that the drug was found in a lorry.
+
+The amount of drugs found in the lorry has not yet been calculated and the number can exceed Rs 200 kilograms, the Senior DIG said.
+
+Four modern firearms have been found in the lorry.
 
 ◼️
 
 [Data](articles/5a0c2a26.json)
+
+[Extended Data](ext_articles/5a0c2a26.ext.json)
 
 ---
 
@@ -110,19 +186,21 @@ The suspects are to be produced before the Panadura Magistrate's Court.
 
 ---
 
-### சம்பத் மனம்பேரிக்கு தங்குமிடம் வழங்கிய மின்சார சபை ஊழியர் கைது!
+### Electricity Board employee arrested for shelter
 
 *2025-09-22 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225736) · `ta`
 
-சம்பத் மனம்பேரிக்கு தங்குமிடம் வழங்கியதாகக் கூறப்படும் இலங்கை மின்சார சபை ஊழியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A Ceylon Electricity Board employee has been arrested for allegedly giving Sampath Manamambari.
 
-பொலிஸ் போதைப்பொருள் தடுப்புப் பணியகத்தால் அவர் இன்று (22) கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+He has been arrested today (22) by the Police Drug Prevention Bureau.
 
-மித்தெனியாவில் ஐஸ் போதைப்பொருள் தயாரிப்பதற்குப் பயன்படுத்தப்படும் இரசாயனங்கள் அடங்கிய புதைக்கப்பட்ட கொள்கலனைக் கண்டுபிடித்தமை தொடர்பாக, சம்பத் மனம்பேரி தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that Sampath Manamberi is currently being interrogated in connection with the discovery of the buried container containing chemicals used to produce ice drugs in Mitenia.
 
 ◼️
 
 [Data](articles/36ffd265.json)
+
+[Extended Data](ext_articles/36ffd265.ext.json)
 
 ---
 
@@ -406,6 +484,30 @@ The deceased is the only son of Sampath Jayalal, the regional correspondent of t
 
 ---
 
+### Work on the post of Basnayake Nilame from the Devinuwara Bays of Basnuwara Nilame
+
+*2025-09-22 11:57:15* · [`adalk`](https://www.ada.lk/breaking_news/දෙවිනුවර-බස්නායක-නිලමේ-කතරගම-බස්නායක-නිලමේ-ධුරයේ-වැඩ-බලයි/11-418644) · `si`
+
+The term of office of Mr. Dashan Wickramaratne Gunasekera, who served as Basnayake Nilame on historic Ruhunu Kataragama Maha Devalaya, was completed.
+
+Arachchi Madushanka Abeyratne, Basnuwaranna Nilame, is the Commissioner of Buddhist Affairs (22).
+
+Former Basnayake Nilame, who is serving in the powered child ward complex and sacrifice of Kataragama bus stand in the Mahagama area in his service, and the benefit of low income families in the area. A wide range of services provided for employment opportunities, English and Korean Language Course played during their service period.
+
+He also founded a unit of heart disease at Moneragala district.
+
+Both former and acting Bashanayake Nilame are residents of Matara and the alumni of Rahula College, Matara.
+
+The Buddhist Affairs Department says that the new Basnasuna Nilamevision will appoint a new Basnayake Nilame.
+
+◼️
+
+[Data](articles/b3c909ef.json)
+
+[Extended Data](ext_articles/b3c909ef.ext.json)
+
+---
+
 ### “There will be no Palestine state”: Benjamin Netanyahu to UK, Canada, Australia
 
 *2025-09-22 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112760/there-will-be-no-palestine-state-benjamin-netanyahu-to-uk-canada-australia) · `en`
@@ -422,19 +524,23 @@ Israeli Prime Minister Benjamin Netanyahu strongly opposed the UK, Canada, and A
 
 ---
 
-### කෝටි 120ක සුදු අලියෙක් වී ඇති ගාල්ල තාක්ෂණික උද්‍යානය
+### Galle Technology Park, which is a white elephant at Rs. 120 billion
 
 *2025-09-22 11:45:58* · [`adalk`](https://www.ada.lk/technology/කෝටි-120ක-සුදු-අලියෙක්-වී-ඇති-ගාල්ල-තාක්ෂණික-උද්‍යානය/5-418643) · `si`
 
-අත්තිවාරමකට පමණක් සිමා වි ඇති ගාල්ල තාක්ෂණික උද්‍යාන ව්‍යාපෘතිය සදහා   ටෙක්නෝ පාර්ක් ඩිවෙලොප්මන්ට් ප්‍රයිවෙට් ලිමිටඩ් සමාගම  විසින්  අදාළ කොන්ත්‍රාත් සමාගමට හා තාක්ෂණික උපදේශකට රුපියල් කෝටි එකසිය විස්සකට අධික  මුදලක් ගෙවිමට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට  ඇති විගණන වාර්තාවක සදහන් වේ.
+A audit report issued by the National Audit Office, which has been paid to the Galle Institute and Technical Advice on the Galle Institute and Technical Advice for the Galle Institute and Technical Advice for a Foundation
 
-ටෙක්නෝ පාර්ක් ඩිවෙලොප්මන්ට් ප්‍රයිවෙට් ලිමිටඩ් සමාගම   රජය විසින් වසා දැමිමට තින්දුකොට ඇති සමාගමකි.
+Techno PARK DVELOPMENT PRIVATE LIMITED A company to be closed by the government.
 
-එකි විගණන වාර්තාවට අනුව මෙකි ව්‍යාපෘතිය සදහා අක්මිමන වලහන්දුව වත්ත,ඉඩමෙන්  අක්කර 29  රුඩ් 03, පර්චස් 7.15ක  පවරාගෙන තිබුණි.  මෙකි ව්‍යාපෘතියේ  ප්‍රධාන  කොන්ත්‍රාත්කරු වන්නේ  මාගා  ඉංජිනියරින්ග් ප්‍රයිවෙට් ලිමිටඩ්  ආයතනය වේ.
+According to the audit report, the project had acted in Akmeemana Walahanduwa Walahanduwa Watta, the land for 7.15 perches.  The main contractor of the project is Maga Engineering Pvt.
+
+Contract company owing to the Construction Company for the construction company is Rs. 2 million. (950,601,926).  Delaying the contract delay in claim in the contract agreements, delay in the delay of the contract, the delay of Rs.. (236,355,010) Tekno Park Developemt had to pay the contractor.
 
 ...
 
 [Data](articles/7c1dc504.json)
+
+[Extended Data](ext_articles/7c1dc504.ext.json)
 
 ---
 
@@ -1911,93 +2017,5 @@ A 46 -year -old family woman from Mrusuwil, Nandakumar Jayalakshmi, died.
 [Data](articles/5495e549.json)
 
 [Extended Data](ext_articles/5495e549.ext.json)
-
----
-
-### Phoenix rising: How Colombo Stock Exchange symbolises nation’s remarkable resurrection
-
-*2025-09-22 03:05:24* · [`dailyftlk`](https://www.ft.lk/columns/Phoenix-rising-How-Colombo-Stock-Exchange-symbolises-nation-s-remarkable-resurrection/4-781989) · `en`
-
-Success will require both Government and citizens to embrace a shared vision — supporting reforms, backing key sectors, and investing in the nation’s future
-
-All Share Price Index growth: 10,119 points or 93% gain post Presidential election
-
-Market PE stands at 9.2, highly undervalued compared to regional peers
-
-To truly understand the story of a nation, one need not look further than the pulse of its stock exchange. It is a living, breathing entity that discounts the future, processes the present, and is invariably haunted by the ghosts of the past. For 16 tumultuous years, the Colombo Stock Exchange (CSE) has been the most honest narrator of Sri Lanka’s modern saga—a tale of euphoric triumph, devastating despair and now become the forward barometer of Sri Lanka’s economic rebirth.
-
-In exactly one year since the Presidential elections, the ASPI has gained more than 90%, gaining 10,119 points from 10,966 to 21,085 as of 19 September 2025.
-
-...
-
-[Data](articles/a4ff5e7e.json)
-
-[Extended Data](ext_articles/a4ff5e7e.ext.json)
-
----
-
-### Of awards, rewards and swards
-
-*2025-09-22 02:57:40* · [`dailyftlk`](https://www.ft.lk/columns/Of-awards-rewards-and-swards/4-781988) · `en`
-
-I observed a surprise boom of “award ceremonies” showcasing truly deserving recipients and also “others.” I cannot tell with evidence whether one can pay and buy a prestigious award in Sri Lanka. I have politely declined to be involved as a keynote speaker or as the chief guest in several such “suspected” events. Today’s column is all about awards, rewards, and swards.
-
-...
-
-[Data](articles/88182e1e.json)
-
-[Extended Data](ext_articles/88182e1e.ext.json)
-
----
-
-### Be warned of thieves and nuisance-makers in AI space
-
-*2025-09-22 02:53:32* · [`dailyftlk`](https://www.ft.lk/columns/Be-warned-of-thieves-and-nuisance-makers-in-AI-space/4-781986) · `en`
-
-Since the digital space is rich with resources, it naturally draws the interested persons to hack the systems to gain an undue enrichment. Hence, hackers and modes of hacking are aplenty.3 Government institutions are hacked not only for money but also to embarrass the rulers through temporary stoppage of government activities. Hence, AKD Government which is bent on making a digital transformation of the Sri Lanka economy is correct in its action to setup an outfit that will monitor the work of the key institutions day and night and prevent cyber attackers from destroying the system
-
-...
-
-[Data](articles/ef611c9f.json)
-
-[Extended Data](ext_articles/ef611c9f.ext.json)
-
----
-
-### President Anura Kumara Dissanayake has been appointed one year
-
-*2025-09-22 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225694) · `ta`
-
-President Anura Kumara Dissanayake takes over as the 9th Executive President of Sri Lanka and is completed by one year (23).
-
-President Anura Kumara Dissanayake was elected as the Chairman of the National People's Power on 2021.2012 and contested the 08th Presidential election on 21.09.2012, on behalf of the National People's Power.
-
-In the presidential election held last year, Anuragumara Dissanayake, who contested on behalf of the National People's Power, won 42,31 per cent votes and 42,31 per cent votes, Sajith Premadasa, who contested on behalf of the United People's Power, with 32.76 per cent votes and the new Democratic Front 29,777 Namal Rajapaksa, who contested the votes on behalf of the Sri Lanka PA, received 342,781 votes with 2.57 per cent of the votes.
-
-In the presidential election in Sri Lanka's presidential election, he was elected as President of the President in last year's presidential election.
-
-...
-
-[Data](articles/76d4b7a9.json)
-
-[Extended Data](ext_articles/76d4b7a9.ext.json)
-
----
-
-### India beat Pakistan again in Asian Cup
-
-*2025-09-22 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225695) · `ta`
-
-The Indian team defeated Pakistan by 6 wickets in the Asian Bowl Super 4 match in Dubai.
-
-Accordingly, Pakistan scored 171 runs for the loss of 5 wickets in 20 overs. Sahibsada Farhan highlighted with 58 runs. Shivam Dubey took 2 wickets for India.
-
-The Indian team then lost only 4 wickets in 18.5 overs. Abhishek Sharma 74, Shubman Gill 47 and Tilak Verma scored 30 runs.
-
-◼️
-
-[Data](articles/7674e031.json)
-
-[Extended Data](ext_articles/7674e031.ext.json)
 
 ---

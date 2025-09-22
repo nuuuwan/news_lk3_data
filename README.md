@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 22:54:32**
+As of **2025-09-22 23:06:27**
 
 ## Newspaper Stats
 
-*Scraped **77,510** Articles*
+*Scraped **77,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,528
 adaderanalk | 10,037
 tamilmirrorlk | 11,658
 virakesarilk | 12,617
-adaderanasinhalalk | 13,542
+adaderanasinhalalk | 13,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,510 (100.0%) of 77,510 articles have been extended.
+77,510 (100.0%) of 77,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### ජනපති දිවයිනෙන් පිටව යයි
+
+*2025-09-22 22:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214887) · `si`
+
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට ටික වේලාවකට පෙර දිවයිනෙන් පිටත්ව ගොස් තිබේ.
+
+ජනාධිපතිවරයා ලබන 24 වනදා එරට වේලාවෙන් පස්වරු  3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමට නියමිතය.
+
+මෙම සංචාරයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම්වරයා සහ රාජ්‍ය නායකයින් කිහිපදෙනකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවලට එක්වීමට ද නියමිතව ඇත.
+
+එමෙන්ම ජනාධිපතිවරයා අමෙරිකාවේ වෙසෙන ශ්‍රී ලාංකිකයින් සමඟ හමුවකට ද සහභාගී වීමටද නියමිතව තිබේ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ද එක් වීමට නියමිතය.
+
+◼️
+
+[Data](articles/8b2f0e92.json)
+
+---
 
 ### One injured in accident on Southern Expressway – Lane towards Colombo blocked
 
@@ -2069,29 +2089,5 @@ This child was legally obtained by Verna Elisabe Baaten by Jacobus Herman Marie 
 [Data](articles/196026d3.json)
 
 [Extended Data](ext_articles/196026d3.ext.json)
-
----
-
-### Corona affair: Chinese journalist prolonged punishment
-
-*2025-09-22 12:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கொரோனா-விவகாரம்-சீன-பத்திரிக்கையாளருக்கு-தண்டனை-நீடிப்பு/50-365054) · `ta`
-
-The first woman journalist has been sentenced to four years in prison for the spread of Corona infection in China.
-
-Corona's infection is said to have begun to spread from China, with a 42 -year -old Chinese woman journalist Corona made direct reports from Wuhan, China.
-
-Subsequently, Zhang John tried to create confusion among the people and prosecuted the Chinese government for provoking a debate among the people. Following this, Zhang John was arrested. He was sentenced to four years in December 2020.
-
-A month after his arrest, in jail, engaged in a hunger strike. In this case, he was released from jail in May 2024. He was again arrested three months later.
-
-Chinese authorities did not correctly mention what Jong was accused of acting for the second time.
-
-In this case, his imprisonment has now been extended for another 4 years. He was sentenced to Friday following a Zhang report on China's human rights violations.
-
-...
-
-[Data](articles/6470e085.json)
-
-[Extended Data](ext_articles/6470e085.ext.json)
 
 ---

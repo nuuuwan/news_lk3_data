@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 08:29:26**
+As of **2025-09-22 07:51:44**
 
 ## Newspaper Stats
 
-*Scraped **77,334** Articles*
+*Scraped **77,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,21 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
-adalk | 7,513
+adalk | 7,512
 adaderanalk | 9,994
-tamilmirrorlk | 11,627
+tamilmirrorlk | 11,625
 virakesarilk | 12,582
-adaderanasinhalalk | 13,508
+adaderanasinhalalk | 13,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,329 (100.0%) of 77,334 articles have been extended.
+77,329 (100.0%) of 77,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
-
-### இன்று காற்றுடன் கூடிய மழை
-
-*2025-09-22 07:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காற்றுடன்-கூடிய-மழை/175-365031) · `ta`
-
-நாட்டின் தென்மேற்குப் பகுதிகளில் தற்போது காணப்படும் மழை மற்றும் காற்றுடன் கூடிய நிலைமைகள் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
-
-ஊவா மாகாணத்திலும், அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/80046063.json)
-
----
-
-### ஐஸ், போதை மாத்திரைகளுடன் இளைஞன் கைது
-
-*2025-09-22 07:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-போதை-மாத்திரைகளுடன்-இளைஞன்-கைது/175-365030) · `ta`
-
-யாழ். கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட ஊரெழுப்பு பகுதியில்  நீண்ட நாட்களாக ஐஸ் பாவனையில் ஈடுபட்டு வந்த 27 வயது இளைஞன் பாவனைக்கு பயன்படுத்தப்பட்ட பொருட்களுடன் கோப்பாய் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 3600 மில்லிகிராம் ஐஸ், போதை மாத்திரைகள் அதனைப் பயன்படுத்தும் உபகரணங்கள் என்பனவும் கைப்பற்றப்பட்டுள்ளது.
-
-கைது செய்யப்பட்ட சந்தேகங்களையும் சான்று பொருட்களையும் நீதிமன்றத்தில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். மேலதிக விசாரணைகளை கோப்பாய் பொலிஸார் முன்னெடுத்து வருவதும் குறிப்பிடத்தக்கது. (a)
-
-◼️
-
-[Data](articles/5b3fe9c1.json)
-
----
-
-### කම්කරු අමාත්‍යාංශයේ ජංගම සේවා සතිය අද සිට
-
-*2025-09-22 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214850) · `si`
-
-කම්කරු අමාත්‍යාංශය විසින් සංවිධානය කරන ජංගම සේවා සතිය අද (22) සිට ආරම්භ වීමට නියමිතව තිබේ.
-
-එම අමාත්‍යාංශය පැවසුවේ ඒ අනුව මෙහි සමාරම්භක වැඩසටහන අද පෙරවරු 9.00 සිට කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතාගේ ප්‍රධානත්වයෙන් යාපනයේදී ආරම්භ වීමට නියමිත බවය.
-
-අමාත්‍යාංශය පැවසුවේ අද ආරම්භවන සමාරම්භක වැඩසටහනින් පසු දිවයින පුරා මෙම ජංගම සේවා සතිය ආරම්භ කිරීමට මේ වන විට සැලසුම් කර ඇති බවය.
-
-සේවක අර්ථසාධක අරමුදලේ සාමාජිකයින්ගේ ගැටලු විසඳීම, රැකියා පොළ හරහා රැකියා අවස්ථා ලබා දීම, නීති උපදෙස් සහ මග පෙන්වීම ඇතුළු කම්කරු අමාත්‍යාංශයට අයත් බොහෝ සේවාවන් මේ තුළින් ලබා ගත හැකි බවද එම අමාත්‍යාංශය පැවසීය.
-
-◼️
-
-[Data](articles/50e7665c.json)
-
----
 
 ### හෝටලයක නාන තටාකයේ ගිලී  පුද්ගලයෙකු ජීවිතක්ෂයට
 
@@ -865,26 +815,6 @@ The Germans who were assaulted have lodged a complaint with the Unawatuna Tourna
 [Data](articles/29029df7.json)
 
 [Extended Data](ext_articles/29029df7.ext.json)
-
----
-
-### ජනපති හෙට ඇමරිකාවට යයි
-
-*2025-09-21 19:04:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ඇමරිකාවට-යයි/11-418636) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා හෙට (22) රාත්‍රියේ ඇමරිකා එක්සත් ජනපදය බලා පිටත්ව යාමට නියමිතය.
-
-ජනාධිපතිවරයා මෙම සංචාරයේදී එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගිවීමට නියමිත අතර, (24) බදාදා එරට වේලාවෙන් ප.ව 3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය අමතනු ඇත.
-
-මෙම සංචාරය අතරතුරදී ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ සංවිධානයේ මහා ලේකම්වරයා සහ ලෝක රාජ්‍ය නායකයින් කිහිප දෙනකු සමඟ ද්විපාර්ශ්වික සාකච්ඡාවලට එක්වීමටද නියමිතය.
-
-ජනාධිපතිවරයා ඇමරිකා එක්සත් ජනපදයේ වෙසෙන ශ්‍රී ලාංකිකයින් සමඟ හමුවකටද සහභාගී වනු ඇත.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද එක් වේ.
-
-◼️
-
-[Data](articles/10e4fe45.json)
 
 ---
 
@@ -2079,5 +2009,85 @@ The victim is a male, a boy, and the police have been arrested for arrest the sh
 [Data](articles/3f6603fb.json)
 
 [Extended Data](ext_articles/3f6603fb.ext.json)
+
+---
+
+### The mother -in -law of the niece of the nurse
+
+*2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
+
+In a family who lived quietly, a horrific incident took place. The incident has caused a stir among the people of the area. The incident took place in Thiruvattar, Kanyakumari district.
+
+Manju, a dedicated nurse, and her husband Prince, a driver. The actions of mother -in -law Alphonsa have stormed the life of this young couple who lived with two children.
+
+Manju, who performed his nurse's work in the hospital, was committed to the family. But in their quiet life, mother -in -law Alphonsa came to a shadow.
+
+He often harassed Manju asking for dowry. "Bring more money. Otherwise you have no place in this house!" It was customary to intimidate.
+
+Manju, depending on these humiliations, did not speak for the relief of the family. Yesterday evening, the problem reached its peak. Prince, drunkenly came home. This resulted in an argument between Manju and him.
+
+...
+
+[Data](articles/91baed23.json)
+
+[Extended Data](ext_articles/91baed23.ext.json)
+
+---
+
+### The mother -in -law of the niece of the niece
+
+*2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
+
+In a family who lived quietly, a horrific incident took place. The incident has caused a stir among the people of the area. The incident took place in Thiruvattar, Kanyakumari district.
+
+Manju, a dedicated nurse, and her husband Prince, a driver. In the life of this young couple who lived with two children, the actions of mother -in -law Alphonsa have stormed.
+
+Manju, who performed his nurse's work in the hospital, was committed to the family. But in their quiet life, mother -in -law Alphonsa came to a shadow.
+
+He often harassed Manju asking for dowry. "Bring more money. Otherwise you have no place in this house!" It was customary to intimidate.
+
+Manju, depending on these humiliations, did not speak for the relief of the family. Yesterday evening, the problem reached its peak. Prince, drunkenly came home. This resulted in an argument between Manju and him.
+
+...
+
+[Data](articles/ad3c8339.json)
+
+[Extended Data](ext_articles/ad3c8339.ext.json)
+
+---
+
+### Corpse recovery
+
+*2025-09-21 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225659) · `ta`
+
+The body of a woman has been recovered as a tree hanging in a tree early this morning (21), said Chandana Kamage, Superintendent of the Vattawala Police Station.
+
+The body of a 62 -year -old woman, Kannan Manirani, a resident of Kuilwatta, belonging to the Vattawala Police Division, has been identified as the body of a woman.
+
+Based on the information provided by the plantation workers to the Vattawala police, the body of the Wattawala police recovered the body that the woman had died in a tree in a tree in their garden.
+
+To determine whether this is a suicide or murder, the Vattawala Police and the Attan Police Division are conducting investigations through various sections.
+
+◼️
+
+[Data](articles/3dd1987f.json)
+
+[Extended Data](ext_articles/3dd1987f.ext.json)
+
+---
+
+### Sudden death of the Chairman of the Karandeniya Pradeshiya Sabha
+
+*2025-09-21 12:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரந்தெனிய-பிரதேச-சபைத்-தவிசாளர்-திடீர்-மரணம்/175-364988) · `ta`
+
+47 -year -old Maheel Munasinghe, the Chairman of the Karandeniya Pradeshiya Sabha, passed away on Sunday morning (21).
+
+He was taken to the hospital due to a sudden illness when he was exercising on Sunday morning (21) morning.
+
+◼️
+
+[Data](articles/efce0f64.json)
+
+[Extended Data](ext_articles/efce0f64.ext.json)
 
 ---

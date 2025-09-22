@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 10:56:30**
+As of **2025-09-22 11:41:24**
 
 ## Newspaper Stats
 
-*Scraped **77,376** Articles*
+*Scraped **77,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,120 +17,276 @@ dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
 adalk | 7,516
-adaderanalk | 10,006
-tamilmirrorlk | 11,634
-virakesarilk | 12,596
-adaderanasinhalalk | 13,513
+adaderanalk | 10,008
+tamilmirrorlk | 11,637
+virakesarilk | 12,597
+adaderanasinhalalk | 13,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,357 (100.0%) of 77,376 articles have been extended.
+77,380 (100.0%) of 77,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### சம்பத்  மனம்பேரி தொடர்பில் மற்றுமொரு செய்தி
+### Increasing road accidents in the country: shocking statistics!
 
-*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-தொடர்பில்-மற்றுமொரு-செய்தி/175-365041) · `ta`
+*2025-09-22 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/225722) · `ta`
 
-சம்பத் மனம்பேரியால் புதைக்கப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு தங்க நிற மெகசின்கள், ஒரு 9 மிமீ பிஸ்டல், ஒரு கைக்குண்டு மற்றும் 115, T-56 தோட்டாக்கள் ஆகியவை மித்தெனிய பகுதியில் உள்ள ஒரு காணியில் கண்டுபிடிக்கப்பட்டுள்ளன.
+There is no such thing as places where there are no accidents in the world. But vehicle accidents in our country of Sri Lanka are causing great tragedy and tragedy. In that respect, the recent accident was located in the Ella. Based on statistics, road accidents have been reported to be the second main cause of the highest number of deaths in the country.
 
-பெக்கோ சமன் இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்களை 2 மாதங்களுக்கு முன்பு சம்பத் மனம்பேரியிடம் கொடுத்ததாகவும், அவை அவரது நெருங்கிய ஒருவரின் வீட்டில் புதைக்கப்பட்டதாகவும் கூறப்படுகிறது.
-
-பெக்கோ சமன் மற்றும் சம்பத் மனம்பேரியவிடம் நடத்தப்பட்ட விசாரணைகளின் அடிப்படையில், இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்கள் மீட்கப்பட்டன.  R
-
-◼️
-
-[Data](articles/1998524b.json)
-
----
-
-### பிரபாகரன் ’’ஒரு தாயைப் போன்றவர்’’: விஜய்
-
-*2025-09-22 10:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-ஒரு-தாயைப்-போன்றவர்-விஜய்/175-365040) · `ta`
-
-விடுதலைப் புலிகள் அமைப்பின் தலைவர் வேலுப்பிள்ளை பிரபாகரன், இலங்கை தமிழ் மக்களுக்கு "ஒரு தாயைப் போன்றவர்" என்று தமிழக வெற்றிக் கழகத்தின் தலைவர் நடிகர் விஜய் தமிழ்நாட்டின் நாகப்பட்டினத்தில் நடந்த தேர்தல் பேரணியில் தெரிவித்துள்ளார்.
-
-"உலகின் எந்த மூலையில் இருந்தாலும், எங்கள் உறவினர்களான ஈழத் தமிழ் மக்கள், தாய் பாசத்தைக் காட்டிய ஒரு தலைவரை இழந்து தவிக்கின்றனர். எனவே, அவர்களுக்காகப் பேசுவது எங்கள் கடமை."எனவும் அவர் குறிப்பிட்டார்.
-
-நாகப்பட்டினம் போன்ற பெரிய கடற்றொழில் சமூகம் உள்ள பகுதிகளில் இலங்கைத் தமிழர்களின் பிரச்சினை ஓர் உணர்ச்சிகரமான பிரச்சினையாகக் கருதப்படுகிறது.
-
-2008 ஆம் ஆண்டில், இலங்கைத் தமிழர்களின் சார்பாக விஜய் சென்னையில் உண்ணாவிரதப் போராட்டத்தில் ஈடுபட்டார். இருப்பினும், அரசியல் விமர்சகர்கள் இலங்கைத் தமிழர்களை ஆதரிப்பதும், இந்தியாவில் தடைசெய்யப்பட்ட விடுதலைப் புலிகளை ஆதரிப்பதும் ஒன்றல்ல என்று சுட்டிக்காட்டுகின்றனர்.
-
-...
-
-[Data](articles/2edc83af.json)
-
----
-
-### சஷீந்திர ராஜபக்ஷவின் பிணை மனு நிராகரிப்பு ; விளக்கமறியல் நீடிப்பு!
-
-*2025-09-22 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225725) · `ta`
-
-முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷவை செப்டம்பர் 30 ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் நீதிமன்றம் இன்று திங்கட்கிழமை (22) உத்தரவிட்டுள்ளது.
-
-விளக்கமறியலில் வைக்கப்பட்டுள்ள சஷீந்திர ராஜபக்ஷ இன்று நீதிமன்றில் ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-2022 ஆம் ஆண்டில் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட போராட்டங்களின் போது தீக்கிரையாக்கப்பட்ட செவனகல - கிரிப்பன் வேவ பகுதியில் உள்ள அரசாங்க நிலத்திற்கு மற்றொரு நபர் மூலம் இழப்பீடு பெற்ற சம்பவம் தொடர்பில் முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ நுகேகொடை பகுதியில் உள்ள அவரது வீட்டில் வைத்து இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் ஆகஸ்ட் 06 ஆம் திகதி காலை கைதுசெய்யப்பட்ட நிலையில் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/3d43ae24.json)
-
----
-
-### தங்காலை இரண்டு சடலங்கள் மீட்பு
-
-*2025-09-22 10:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-இரண்டு-சடலங்கள்-மீட்பு/175-365039) · `ta`
-
-தங்காலை சீனிமோதர பகுதியில் புதுப்பிக்கப்பட்டு வரும் கைவிடப்பட்ட வீட்டில் இரண்டு சடலங்கள் மீட்கப்பட்டுள்ளன.
-
-அந்த இடத்தில் நடத்தப்பட்ட சோதனையில், வீட்டின் அருகே நிறுத்தப்பட்டிருந்த லாரியில் மறைத்து வைக்கப்பட்டிருந்த ஐஸ் (படிக மெத்தம்பேட்டமைன்) என்ற போதைப்பொருள் இருப்பதாக சந்தேகிக்கப்படும் 10 பாக்கெட்டுகள் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-சம்பவ இடத்தில் இருந்த மற்றொரு நபர் திடீரென நோய்வாய்ப்பட்டு தங்காலை பொது மருத்துவமனைக்கு கொண்டு செல்லப்பட்டதாக கூறப்படுகிறது. சிகிச்சை பெற்று வந்த அவர் பின்னர் உயிரிழந்தார்.
-
-இந்த சம்பவம் குறித்து பொலிஸார் முழு அளவிலான விசாரணையை தொடங்கியுள்ளனர், அதே நேரத்தில் இறப்புக்கான காரணங்களைக் கண்டறிய அரசு பகுப்பாய்வாளர் துறை பிரேத பரிசோதனைகளை மேற்கொண்டு வருகிறது.
-
-◼️
-
-[Data](articles/c9c31010.json)
-
----
-
-### நாட்டில் அதிகரிக்கும் வீதி விபத்துகள்: அதிர்ச்சியளிக்கும் புள்ளிவிபரத் தரவுகள் !
-
-*2025-09-22 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225722) · `ta`
-
-உலகத்தில் விபத்துக்கள் ஏற்படாத இடங்கள் என்று எதுவும் இல்லை. ஆனால் நமது நாடான இலங்கையில் இடம்பெறும் வாகன விபத்துக்கள் பெரும் சோகத்தையும் விபரீதங்களையும் ஏற்படுத்துவனவாக காணப்படுகின்றது. அந்தவகையில், அண்மையில் எல்லயில் இடம்பெற்ற விபத்து அமைந்திருந்தது. புள்ளி விபரத்தரவுகளின் அடிப்படையில், நாட்டில் ஏற்படுகின்ற அதிகளவு மரணங்களுக்கான இரண்டாவது பிரதான காரணமாக வீதி விபத்துக்கள் மறியுள்ளன.
-
-எமது நாடு, தற்போது பெரும் வாகன விபத்துகள் மற்றும் உயிரிழப்புகளால் பாதிக்கப்பட்டுள்ளது. தற்போது இது ஒரு தேசிய நெருக்கடியாக உருவெடுத்துள்ளது. ஒரு இலட்சத்து 10 ஆயிரத்து 350 சதுர கிலோமீற்றர் பரப்பளவைக் கொண்ட நாட்டின் வீதிகளில், 2025 ஜூன் 30 ஆம் திகதிய நிலவரப்படி, சுமார் 85 இலட்சத்து 50 ஆயிரத்து 569 வாகனங்கள் பதிவு செய்யப்பட்டுள்ளன. இதில், அரைவாசிக்கும் மேல், அதாவது 49 இலட்சத்து 94 ஆயிரத்து 596 வாகனங்கள் மோட்டார் சைக்கிள்கள் ஆகும். மேலும், சுமார் 11 இலட்சத்து 98 ஆயிரம் முச்சக்கர வண்டிகளும் இதில் அடங்கும். இந்த அதிக எண்ணிக்கையிலான வாகனப் பெருக்கமும், விபத்துகளும் ஒன்றுடன் ஒன்று தொடர்புடையவை.
+Our country is currently suffering from major vehicle accidents and casualties. Currently it has emerged as a national crisis. As of June 30, 2025, about 85 lakhs 50 thousand 569 vehicles have been registered on the streets of the country with an area of ​​one million 10 thousand 350 square kilometers.. Of these, more than half, ie 49 lakh 94 thousand 596 vehicles are motorcycles. In addition, this includes about 11 lakhs 98 thousand three -wheelers. This large number of automobiles and accidents are interconnected.
 
 ...
 
 [Data](articles/90f84d6a.json)
 
+[Extended Data](ext_articles/90f84d6a.ext.json)
+
 ---
 
-### චීනය සමග ද්විපාර්ශ්වික සබඳතාවල වටිනාකම චීන අගමැති අමෙරිකාවට පෙන්වයි
+### President visits Japan on the 27th
+
+*2025-09-22 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214857) · `si`
+
+President Anura Kumara Dissanayake is scheduled to visit Japan until the 30th of April.
+
+According to the Ministry of Foreign Affairs and Tourism and Tourism, the President is due to meet the Japanese Emperor during the visit.
+
+The President also contains a convenience meeting with the Prime Minister of the Japanese prime minister.
+
+The President is also due to address the growing economic opportunities in Sri Lanka with the participation of the top representatives of Tokyo.
+
+President Anura Kumara Dissanayake also participated in the 2025 Expo Exhibition on the Japanese government's invitation and the exhibition will show the objective of displaying Sri Lanka's culture inheritance and economic skills in Sri Lanka.
+
+The President also addresses members of the Sri Lankan Sri Lankan community living in Japan and said the Ministry of Foreign Affairs and Tourism.
+
+...
+
+[Data](articles/a2115e4a.json)
+
+[Extended Data](ext_articles/a2115e4a.ext.json)
+
+---
+
+### Hong Kong airport to shut for 36 hours due to Typhoon Ragasa
+
+*2025-09-22 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112757/hong-kong-airport-to-shut-for-36-hours-due-to-typhoon-ragasa) · `en`
+
+Hong Kong International Airport will suspend all passenger flights for 36 hours from Tuesday (Sep 23) evening, Qantas Airways said, as the Asian financial hub prepares for one of its strongest super typhoons in years.
+
+Hong Kong’s Airport will be closed from 8pm on Sep 23 to 8am on Sep 25, Qantas said in a statement, adding that it would contact customers who are affected.
+
+A spokesperson for Airport Authority Hong Kong said it is closely monitoring the developments regarding the super typhoon, named Ragasa, and has commenced preparations to deal with the storm. But it has not made an official announcement on the closure.
+
+Hong Kong’s Observatory said it would issue the lowest typhoon signal at noon on Monday, upgrading it to the second-highest highest on Monday night between 8pm and 10pm.
+
+...
+
+[Data](articles/d1ff429c.json)
+
+---
+
+### Sasheendra Rajapaksa again
+
+*2025-09-22 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷீந்திர-ராஜபக்ஷவுக்கு-மீண்டும்-விளக்கமறியல்/175-365045) · `ta`
+
+Former State Minister Sasheendra Rajapakse has been extended to the arrest and interrogated.
+
+Accordingly, the Colombo Magistrate's Court has ordered Sasheendra Rajapaksa to be remanded until the 30th.  R
+
+◼️
+
+[Data](articles/6a60d557.json)
+
+[Extended Data](ext_articles/6a60d557.ext.json)
+
+---
+
+### 35th anniversary
+
+*2025-09-22 10:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/35வது-ஆண்டு-நினைவேந்தல்/175-365043) · `ta`
+
+The 35th anniversary of the 17 Tamils ​​who were assassinated in the village of Pudukkudiyiruppu in Batticaloa were consciously observed on Sunday evening (21).
+
+On September 21, 1990, at 7 pm, at 7 pm, the soldiers and the soldiers who had entered the village of Pudukkudiyiruppu, along with them, had raised the 45 innocent Tamil people of the house to sleep and allocated them to the coast.
+
+Although some of those who took the investigation survived, 17 people, including girls, were brutally murdered at midnight.
+
+Their bodies were recovered and buried by the people of the area with gun wounds and cut wounds. In honor of the deceased, the flame was lit and the silent tribute was paid to the relatives organized by relatives at the Pudukkudiyiruppu. In the assassination, 99 men were murdered, including 08 women.
+
+Relatives of the deceased have expressed concern that even 35 years after the murder, there has been no justice.
+
+◼️
+
+[Data](articles/44687103.json)
+
+[Extended Data](ext_articles/44687103.ext.json)
+
+---
+
+### Hearing of case against Yoshitha and his grandmother adjourned
+
+*2025-09-22 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112756/hearing-of-case-against-yoshitha-and-his-grandmother-adjourned) · `en`
+
+The Colombo High Court has ordered that the case filed by the Attorney General against Yoshitha Rajapaksa, son of former President Mahinda Rajapaksa, and his grandmother, Daisy Forrest, over the alleged unlawful acquisition of assets worth approximately Rs. 73 million, be recalled on October 15.
+
+Yoshitha Rajapaksa and his grandmother, Daisy Forrest, who are named as defendants, appeared in court when the case was called.
+
+The Court subsequently ordered that the case be taken up on October 15, said Ada Derana reporter.
+
+The case was filed under the Prevention of Money Laundering Act by the Attorney General against Yoshitha Rajapaksa and Daisy Forrest, alleging they unlawfully acquired assets and property worth approximately Rs. 73 million.
+
+◼️
+
+[Data](articles/5ee16aea.json)
+
+---
+
+### LTTE contact: Court permits to investigate Sri Lankan woman
+
+*2025-09-22 10:40:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளுடன்-தொடர்பு-இலங்கைப்-பெண்ணை-விசாரிக்க-நீதிமன்றம்-அனுமதி/175-365042) · `ta`
+
+The Special National Intelligence Agency in Chennai has granted permission to the Department of Enforcement in Chennai to investigate the alleged money allegations of allegedly involved in the Liberation Tigers of Tamil Eelam (LTTE).
+
+Mary Francisa Letsumanan, a woman in Tamil Nadu, has been jailed.
+
+He is already being investigated by the National Intelligence Agency on charges of allegedly being in touch with the LTTE.
+
+It has been reported that the agent is involved in the money laundering case filed by 2022.
+
+Officials say he has been accused of using fake Indian identity documents to make money from a bank account in Mumbai.
+
+In the meantime, the enforcement department officials told the court that it is necessary to investigate the woman who is involved in illegal money transfers and the woman to identify the networks.
+
+The court accepted it and allowed the authorities to investigate him in prison for two days.
+
+...
+
+[Data](articles/e6f856d1.json)
+
+[Extended Data](ext_articles/e6f856d1.ext.json)
+
+---
+
+### Another news about Sampath Manamberi
+
+*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-தொடர்பில்-மற்றுமொரு-செய்தி/175-365041) · `ta`
+
+Two golden megacins, one 9mm pistol, one handbag and 115, T-56 bullets, suspected of being buried by Sampath Manamberry, have been found in a land in the Mitteniya region.
+
+It is said that Becko Saman gave these guns and bullets to Sampath Manamperi 2 months ago and buried in the house of his close one.
+
+These guns and bullets were recovered based on investigations conducted by Becko Saman and Sampath Manamperiya.  R
+
+◼️
+
+[Data](articles/1998524b.json)
+
+[Extended Data](ext_articles/1998524b.ext.json)
+
+---
+
+### Sasheendra Rajapaksa's bail plea rejection; Explanation extending!
+
+*2025-09-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225725) · `ta`
+
+The Colombo Chief Magistrate's Court on Monday (22) ordered the former State Minister Sasheendra Rajapakse to be remanded until September 30.
+
+The order was issued when Sasheendra Rajapaksa was produced in court today.
+
+The bribery and corruption inquiry commission officials were arrested on August 06 in connection with the incident in which the former Minister of State Sasheendra Rajapaksa was in Nugegoda in Nugegoda in connection with the incident in which the government was compensated by another person in the Sevanagala -Gripan Veeva area during the country.
+
+◼️
+
+[Data](articles/3d43ae24.json)
+
+[Extended Data](ext_articles/3d43ae24.ext.json)
+
+---
+
+### Prabhakaran's telephone number is like a mother: Vijay
+
+*2025-09-22 10:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-ஒரு-தாயைப்-போன்றவர்-விஜய்/175-365040) · `ta`
+
+LTTE leader Velupillai Prabhakaran said at a rally in Nagapattinam, Tamil Nadu, leader of the Tamil Nadu Victory Association, "Like a Mother of the Sri Lankan Tamil people."
+
+“In any corner of the world, our relatives, Eelam Tamil people, lose a leader who showed mother affection. Therefore, it is our duty to speak for them. ”
+
+The issue of Sri Lankan Tamils ​​is considered an emotional problem in the areas where the major fisheries community like Nagapattinam.
+
+In 2008, Vijay engaged in a hunger strike in Chennai on behalf of Sri Lankan Tamils. Political critics, however, point out that it is not the same to support the Sri Lankan Tamils ​​and support the banned LTTE in India.
+
+Apart from praising Prabhakaran, Vijay said that his party's main goal is to solve the problems of the fishermen community. Also, MK. He also criticized Stalin's government and said that his party would not write long letters to solve fishing issues, but also looking for solutions.
+
+...
+
+[Data](articles/2edc83af.json)
+
+[Extended Data](ext_articles/2edc83af.ext.json)
+
+---
+
+### தங்காலையில் பழைய வீடொன்றில் இருந்து இரண்டு சடலங்கள் மீட்பு!
+
+*2025-09-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225714) · `ta`
+
+அம்பாந்தோட்டையில் தங்காலை - சீனிமோதர பகுதியில் புனரமைக்கப்பட்டு வரும் பழைய வீடொன்றில் இருந்து இரண்டு ஆண்களின் சடலங்கள் மீட்கப்பட்டுள்ளதாக தங்காலை பொலிஸார் தெரிவித்தனர்.
+
+வீட்டிற்கு அருகில் பொலிஸாரால் மேற்கொள்ளப்பட்ட சோதனையில் லொரி ஒன்றில் இருந்து ஐஸ் போதைப்பொருள் அடங்கிய 10 பொதிகள் கைப்பற்றப்பட்டுள்ளன.
+
+இந்த வீட்டில் இருந்த மற்றுமொரு நபர் திடீர் உடல்நலக்குறைவு காரணமாக தங்காலை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் உயிரிழந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/2cddb72f.json)
+
+---
+
+### Tangalle two bodies recovery
+
+*2025-09-22 10:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-இரண்டு-சடலங்கள்-மீட்பு/175-365039) · `ta`
+
+Two bodies have been recovered in an abandoned house which is being renovated in the Tangalle Seenimodara area.
+
+In a raid conducted at the site, police said that 10 packets suspected of being an ice (crystal methampetamine) hidden in a truck parked near the house were found.
+
+Another person at the scene was reportedly taken to Tangalle General Hospital. He died later.
+
+Police have launched a full -scale investigation into the incident, while the state analyst's department is conducting autopsy to find out the causes of death.
+
+◼️
+
+[Data](articles/c9c31010.json)
+
+[Extended Data](ext_articles/c9c31010.ext.json)
+
+---
+
+### The Chinese Prime Minister Prime Minister Prime Minister's America points to the United States of bilateral relations with China
 
 *2025-09-22 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214856) · `si`
 
-චීනය සමඟ ද්විපාර්ශ්වික සබඳතා පිළිබඳ නිවැරදිව බැලීමේ අවශ්‍යතාව චීනය ඇමරිකාවට පෙන්වා දී තිබේ.
+China has pointed out the need to look at bilateral relations with China.
 
-චීන අග්‍රාමාත්‍යවරයා විසින් චීනය සහ ද්විපාර්ශ්වික සබඳතා දෙස නිවැරදි ආකාරයෙන් බැලීමටත්, හුවමාරු සහ සහයෝගීතාවට ක්‍රියාකාරීම පහසුකම් සැලසීමටත් පියවර ගැනීමේ අවශ්‍යතාව මෙහිදී අවධාරණය කර ඇත.
+The Chinese Prime Minister has emphasized the need to take steps to look at China and bilateral relationships and facilitate the exchange and cooperation.
 
-මෙම ක්‍රියාවලිය තුළින් චීන-ඇමරිකානු මිත්‍රත්වය සහ පොදු සංවර්ධනය පෝෂණය කිරීමේදී ඵලදායී කාර්යභාරයක් ඉටු කරන ලෙසද චීන අග්‍රාමාත්‍යවරයා එක්සත් ජනපද කොංග්‍රසයෙන් ඉල්ලා තිබේ.
+The Prime Minister of the Chinese Prime Minister has asked the US Congress to play Chinese-American friendship and public development.
 
-චීන අග්‍රාමාත්‍ය Li Qiang මහතා ඊයේ (21) බෙයිජිංහිදී එක්සත් ජනපද කොංග්‍රස් නියෝජිතයින් පිරිසක් හමු වූ අවස්ථාවේ දී මේ අදහස් පළ කර තිබේ.
+The Chinese Prime Minister LI QIANG visited a group of US Congress representatives yesterday (21) at Beijing yesterday.
 
-චීනය සහ ඇමරිකාව සැලකිය යුතු ගෝලීය බලපෑමක් ඇති ප්‍රධාන රටවල් වන බැවින්, ද්විපාර්ශ්වික සබඳතාවන් හි ස්ථාවර, ශක්තිමත් සහ තිරසාර සංවර්ධනයක් පවත්වා ගැනීම දෙපාර්ශ්වයේම පොදු අවශ්‍යතා සඳහා වැදගත් සේම ජාත්‍යන්තර ප්‍රජාවේ අපේක්ෂාවන් ද සපුරාලන බව ඔහු මෙහිදී සඳහන් කළේය.
+He added that the maintenance, strong and sustainable development of bilateral relations is the major countries that have a significant global impact on the major countries that have a significant global impact on the common needs of both sides.
+
+The President of the two countries have agreed to enhance the dialogue and cooperation this year, directing bilateral relations to enhance bilateral relations.
 
 ...
 
 [Data](articles/121618f2.json)
+
+[Extended Data](ext_articles/121618f2.ext.json)
 
 ---
 
@@ -138,83 +294,101 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-22 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112755/court-rejects-shasheendras-bail-appeal-further-remanded) · `en`
 
-Former State Minister Shasheendra Rajapaksa has been further remanded until September 30 after the Colombo Chief Magistrate’s Court rejected his bail application today (22), Ada Derana reporter said.
+Former State Minister Shasheendra Rajapaksa,  has been further remanded until September 30 after the Colombo Chief Magistrate’s Court rejected his bail application today (22), Ada Derana reporter said.
+
+Colombo Chief Magistrate Asanka S. Bodaragama has rejected Shasheendra’s bail application and ordered that he be further remanded in custody.
+
+Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on charges of committing the offense of “corruption” under the Anti-Corruption Act by illegally obtaining Rs. 8,850,000 as compensation for the destruction of his political office, which had been constructed on a Mahaweli land, by protesters during the ‘Aragalaya’.
 
 ◼️
 
 [Data](articles/fa80ec18.json)
 
+[Extended Data](ext_articles/fa80ec18.ext.json)
+
 ---
 
-### ශෂීන්ද්‍ර රාජපක්ෂ තවදුරටත් රිමාන්ඩ්
+### Shashindra Rajapaksa further remanded
 
 *2025-09-22 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214855) · `si`
 
-අල්ලස් කොමිසම මගින් දූෂණ චෝදනාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වන විට රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණයේ නියම කළේය.
+Former State Minister Shashheendra Rajapaksa, who was arrested on suspicion of corruption, remanded until the 30th of this month.
 
-ඔහුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා විසින් අද (22) මෙම නියෝගය නිකුත් කර ඇත.
+Colombo Chief Magistrate Asanka S Bodaragama has issued this order today (22).
 
-ශෂීන්ද්‍ර රාජපක්ෂට අයත් බව කියන ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපොළ, 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පවත්ව ඇත.
+The Kottawa area belonging to the Mahaweli Authority of the Sri Lanka Mahaweli Authority belonging to Shasheendra Rajapaksa is damaged in the struggle of an unauthorized building in Colombo.
 
 එකී දේපොළ සඳහා වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබියදී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ ඇතැම් රජයේ නිලධාරින්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදුකර වන්දි ගෙවීමට බලපෑම්කර ඇති බවට ඔහුට එරෙහිව චෝදනා එල්ල වී තිබේ.
 
-...
+Where Rs. The arrest was made on suspicion of 'corruption' and the criminal use of the Mahaweli Authority by obtaining 8,850,000 (88 lakhs) compensation.
+
+◼️
 
 [Data](articles/01ccd03b.json)
 
+[Extended Data](ext_articles/01ccd03b.ext.json)
+
 ---
 
-### பாலஸ்தீன அரசை அங்கீகரிப்பதில் கனடா, அவுஸ்திரேலியா, போர்த்துகல் ஆகியன பிரித்தானியாவுடன் இணைவு  !
+### Canada, Australia and Portugal connect with Britain in recognizing the Palestinian state!
 
 *2025-09-22 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225706) · `ta`
 
-ஆக்கிரமிக்கப்பட்ட மேற்குக் கரையில், இஸ்ரேல் குடியேற்றங்களை விரிவுபடுத்தவும், காசா மீதான போரை தீவிரப்படுத்தவும் திட்டமிட்டுள்ள நிலையில், பாலஸ்தீன அரசை முறையாக அங்கீகரிப்பதில் கனடா, அவுஸ்திரேலியா மற்றும் போர்த்துகல் ஆகியன ஐக்கிய இராச்சியத்துடன் இணைந்துள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+International media reports that Canada, Australia and Portugal are joining the United Kingdom in the formal recognition of the Palestinian state as it plans to expand Israel's settlements and intensify the war on Gaza on the occupied West Bank.
 
-கனேடிய பிரதமர் மார்க் கார்னி பாலஸ்தீன அரசை அங்கீகரிப்பதாக ஞாயிற்றுக்கிழமை ( செப்டெம்பர் 21) அறிக்கையொன்றினூடாக அறிவித்துள்ளார்.
+Canadian Prime Minister Mark Carnie announced on Sunday (September 21) that he would recognize the Palestinian state.
 
-மேலும் "பாலஸ்தீன அரசு மற்றும் இஸ்ரேல் அரசு இரண்டிற்கும் அமைதியான எதிர்காலத்திற்கான வாக்குறுதியைக் கட்டியெழுப்புவதில் தங்கள் கூட்டாண்மையை" வழங்கியுள்ளார்.
+He has also given their coalition to the Palestinian government and the Israeli government to make the promise of a peaceful future.
 
-இஸ்ரேலிய அரசாங்கம் "பாலஸ்தீன அரசு உருவாகும் வாய்ப்பை எப்போதும் நிறுவுவதைத் தடுக்கும் முறையாக" செயல்பட்டு வருவதாக அவர் மேலும் குறிப்பிட்டுள்ளார்.
+He further stated that the Israeli government is working on the "prevention of the Palestinian government" to establish the opportunity. "
 
-"பாலஸ்தீன அதிகார சபையின் தலைமையிலான பாலஸ்தீன அரசை அங்கீகரிப்பது, அமைதியான சகவாழ்வையும் ஹமாஸின் முடிவையும் விரும்புவோருக்கு அதிகாரம் அளிப்பதாக தெரிவிக்கப்படுகிறது.
+“The recognition of the Palestinian state led by the Palestinian Authority is said to be empowered to those who want peaceful coexistence and the end of Hamas.
+
+This does not in any way justify terrorism, but it is no reward, ”said Canadian Prime Minister Mark Carni.
 
 ...
 
 [Data](articles/4835dcee.json)
 
+[Extended Data](ext_articles/4835dcee.ext.json)
+
 ---
 
-### நான்கு வெவ்வேறு பகுதிகளில் இடம்பெற்ற வீதி விபத்துக்களில் நால்வர் உயிரிழப்பு!
+### Four people die in road accidents in four different areas
 
 *2025-09-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225708) · `ta`
 
-நாடு முழுவதும் நான்கு பகுதிகளில் இடம்பெற்ற வெவ்வேறு வீதி விபத்துக்களில் நால்வர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Four people have died in different road accidents in four parts across the country, police media unit said.
 
-அதன்படி,  இலுப்பகடவை பொலிஸ் பிரிவில் யாழ்ப்பாணம்-மன்னார் வீதியில் உள்ள கல்லியடி பகுதியில் நேற்று பிற்பகல் மன்னாரில் இருந்து யாழ்ப்பாணம் நோக்கிச் சென்ற மோட்டார் சைக்கிள், முன்னால் சென்ற பஸ்ஸை முந்திச் செல்ல முற்பட்டபோது கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானது.
+Accordingly, the motorcycle from Mannar to Jaffna was trapped in the Kaliyadi area on the Jaffna-Mannar road in the Iluppagada police division yesterday afternoon and lost control of the bus.
 
 இந்த விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் பின்புறத்தில் இருந்த பயணி உள்ளிட்ட இருவரும் பலத்த காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
 
-இதேவேளை, முல்லேரியா பொலிஸ் பிரிவில் உள்ள கடுவளை - அங்கொட வீதியில் உள்ள அங்கொட சந்தியில், கடுவளையிலிருந்து அங்கொட நோக்கிச் சென்ற மோட்டார் சைக்கிள் ஒன்று கட்டுப்பாட்டை இழந்து வீதியில் கவிழ்ந்து விபத்துக்குள்ளானது.
+Meanwhile, a motorcycle traveling from Kaduwala to Angoda at the Angoda junction on the Kaduwela -Angoda road in the Mulleriya police division crashed into the road.
 
-இந்த விபத்தில், மோட்டார் சைக்கிள்; ஓட்டுநர் பலத்த காயமடைந்து வைத்தியசாலையில்; அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+In this accident, motorcycle; The driver was seriously injured and at the hospital; He died after being allowed.
+
+Meanwhile, a tipper lorry carrying sand from Habarana to Dambulla on the Trincomalee - Dambulla road crashed into a pedestrian in Dambulla.
 
 ...
 
 [Data](articles/80c1fd55.json)
 
+[Extended Data](ext_articles/80c1fd55.ext.json)
+
 ---
 
-### லெபனான் மீது இஸ்ரேல் தாக்குதல் : குழந்தைகள் உட்பட 5 பேர் பலி
+### Israel attack on Lebanon: 5 killed including children
 
 *2025-09-22 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225705) · `ta`
 
-லெபனான் மீதான இஸ்ரேலிய தாக்குதலில் குழந்தைகள் உட்பட 5 பேர் கொல்லப்பட்டதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+International media reports that five people, including children, were killed in an Israeli attack on Lebanon.
 
-லெபனானில் குழந்தைகள் மீதான தாக்குதலை இஸ்ரேல் ஏற்றுக்கொண்டுள்ளது. இஸ்ரேலிய இராணுவம் இன்று அதிகாலை தெற்கு லெபனானில் தாக்குதலொன்றை நடத்தியதாகக் கூறுகிறது.
+Israel has accepted attacks on children in Lebanon. The Israeli military claims to have launched an attack in South Lebanon this morning.
 
-லெபனானின் தெற்கு நகரமான பின்ட் ஜபீலில் நடந்த தாக்குதலில் கொல்லப்பட்டவர்களில் மூன்று குழந்தைகளும் அடங்குவதாக லொபனானின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+Lobanon's Health Ministry said three children were among those killed in the attack in Lebanon's southern city of Pint Jabel.
 
-இஸ்ரேலிய இராணுவம் தாக்குதலின் இலக்கு ஒரு ஹிஸ்புல்லா உறுப்பினர் என்றும், அவரும் கொல்லப்பட்டதாகவும் அறிக்கையொன்றில், குறிப்பிடப்பட்டுள்ளது.
+In a statement, the goal of the Israeli military attack was a Hizbullah member and he was also killed.
 
 இந்த "தாக்குதலின் விளைவாக, சம்பந்தப்படாத பொதுமக்கள் கொல்லப்பட்டனர்" என அந்த நாட்டு இராணுவம் தெரிவித்துள்ளது.
 
@@ -222,23 +396,27 @@ Former State Minister Shasheendra Rajapaksa has been further remanded until Sept
 
 [Data](articles/dbafb8d5.json)
 
+[Extended Data](ext_articles/dbafb8d5.ext.json)
+
 ---
 
-### பாலஸ்தீன அரசை பிரித்தானியா அங்கீகரித்துள்ளது !
+### Britain recognizes the Palestinian state!
 
 *2025-09-22 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225704) · `ta`
 
-மத்திய கிழக்கில் வளர்ந்து வரும் பயங்கரவாதத்தை எதிர்கொண்டு, அமைதி மற்றும் இரு - மாநில தீர்வுக்கான சாத்தியத்தை உயிர்ப்புடன் வைத்திருக்க நாங்கள் செயல்படுகிறோம் என அவர் தமது எக்ஸ் தளத்தில் காணொளி அறிக்கையொன்றினூடாக பதிவிட்டுள்ளார்.
+He posted through a video report on his X site that we are working to keep the potential of the growing terrorism in the Middle East and keep the possibility of peace and two -state settlement.
 
-அவுஸ்திரேலியா, கனடா மற்றும் போர்த்துகல் ஆகியவை பாலஸ்தீன அரசை முறையாக அங்கீகரிப்பதாக அறிவித்துள்ளன.
+Australia, Canada and Portugal have announced that it will properly recognize the Palestinian state.
 
-இதன் விளைவாக், காசாவில் பணையக் கைதிகளின் குடும்பங்கள் மற்றும் சில பழமைவாதிகளிடமிருந்து இஸ்ரேலிய அரசாங்கம் கடுமையான விமர்சனங்களைப் பெற்றுள்ளது.
+As a result, the Israeli government has received severe criticism from the families of the prisoners and some conservatives in Gaza.
 
-இதற்கு பதிலளித்த இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாகு, பாலஸ்தீன அரசு "நடக்காது" என ஞாயிற்றுக்கிழமை(21) குறிப்பிட்டுள்ளார்.
+Responding to this, Israeli Prime Minister Benjamin Netanyahu said on Sunday (21) that the Palestinian government would not "not happen".
 
 ◼️
 
 [Data](articles/38d9231a.json)
+
+[Extended Data](ext_articles/38d9231a.ext.json)
 
 ---
 
@@ -270,17 +448,19 @@ Former State Minister Shasheendra Rajapaksa has been further remanded until Sept
 
 *2025-09-22 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225713) · `ta`
 
-தொழிலாளர் அமைச்சினால் ஏற்பாடு செய்யப்பட்ட ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் திங்கட்கிழமை ( செப்டெம்பர் 22) ஆரம்பிக்கப்பட்டுள்ளது.
+The Mobile Service of the Employees Provident Fund organized by the Ministry of Labor has been launched on Monday (September 22).
 
-தொழிலாளர் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தலைமையில் காலை 9.00 மணிக்கு யாழ்ப்பாணத்தில் ஆரம்ப நிகழ்ச்சி நடைபெற்றதாக அமைச்சு தெரிவித்துள்ளது.
+The Ministry said that the inaugural event was held in Jaffna at 9.00 am under the leadership of Deputy Minister of Labor Mahinda Jayasinghe.
 
-ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் நாடு முழுவதும் நடத்தப்படும் என எதிர்ப்பார்க்கப்படுகிறது.
+The Mobile Service of the Employees Provident Fund is expected to be held across the country.
 
-ஊழியர் சேமலாப நிதியத்தின் உறுப்பினர்கள் தொடர்பான பிரச்சினைகளைத் தீர்ப்பது, வேலை கண்காட்சிகள் மூலம் வேலை வாய்ப்புகளை வழங்குவது மற்றும் சட்ட ஆலோசனை மற்றும் வழிகாட்டுதல்களை வழங்குவது உள்ளிட்ட பல்வேறு சேவைகள் இந்த திட்டத்தின் மூலம் வழங்கப்படும் என அமைச்சு மேலும் தெரிவித்துள்ளது.
+The Ministry further stated that various services will be provided through the scheme, including resolving issues relating to members of the Employees Provident Fund, providing employment opportunities through job exhibitions and providing legal advice and guidelines.
 
 ◼️
 
 [Data](articles/e9ead4b4.json)
+
+[Extended Data](ext_articles/e9ead4b4.ext.json)
 
 ---
 
@@ -299,6 +479,8 @@ Police have commenced further investigations into the incident, while the Govern
 ◼️
 
 [Data](articles/07729d79.json)
+
+[Extended Data](ext_articles/07729d79.ext.json)
 
 ---
 
@@ -356,6 +538,8 @@ The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics
 
 [Data](articles/9385705d.json)
 
+[Extended Data](ext_articles/9385705d.ext.json)
+
 ---
 
 ### President Dissanayake to undertake an official visit to Japan
@@ -373,6 +557,8 @@ President Dissanayake will also attend “EXPO 2025 Osaka” as a Guest of the G
 ...
 
 [Data](articles/42dd9a01.json)
+
+[Extended Data](ext_articles/42dd9a01.ext.json)
 
 ---
 
@@ -393,6 +579,8 @@ Kirk’s wife, Erika, also delivered a tearful speech in which she said she had 
 ...
 
 [Data](articles/a5d3a7e0.json)
+
+[Extended Data](ext_articles/a5d3a7e0.ext.json)
 
 ---
 
@@ -524,21 +712,23 @@ Police have taken steps to bring the arrested suspicions and evidence in court. 
 
 ---
 
-### ඊශ්‍රායෙලයේ වීසා නැතිව ඉන්න ලාංකිකයන් සුබ ආරංචියක්
+### Happy news of Israel's visa without visa
 
 *2025-09-22 07:49:59* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-වීසා-නැතිව-ඉන්න-ලාංකිකයන්-සුබ-ආරංචියක්/11-418640) · `si`
 
-ඊශ්‍රායලයේ ජිවත්වන වීසා නොමැති ශ්‍රී ලාංකිකයන්ට වීසා  ලබාගැනීම  පිළිබඳව සාකච්ඡා සිදුකළ බව ඊශ්‍රායෙලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පැවැසීය.
+Sri Lanka's Ambassador to Sri Lanka Nimal Bandara said that discussions with Sri Lankans who do not have visas without the visa without Israel.
 
-ඊශ්‍රායෙලය හා ශ්‍රී ලංකාව අතර පාර්ලිමේන්තු මට්ටමින් සහයෝගිතාවය ගොඩ නැගීම‍ෙපිළිබඳව දෙවන හමුවේ දී  ඊශ්‍රායිල්  පාර්ලිමේන්තුවේ  පිහිටුවා  ඇති පාර්ලිමේන්තු මිත්‍රත්ව සංගමයේ  වාර්ෂි හමුවේ දී  යළිත් මේ පිළිබඳව  සාකච්ඡාවට භාජනය වූ බව ඔහු පවසයි.
+He says that the Annual Recentrals were discussed in the Meeting of the Parliamentary Friest Association, which was established in the Parliament at the Parliamentary Level between Israel and Sri Lanka.
 
-ශ්‍රී ලාංකිකයන්ට අමතරව වෙනත් විදේශීය ජාතිකයන් ද විසා නොමැතිව සිටින බැවින් ඒ  ගැන ඊශ්‍රායෙල් පාර්ලිමේන්තුවේ විදේශ සේවකයන් පිළිබඳව කමිටුව හමුවේ කරුණ දක්වන ලෙස ඔවුන් සඳහන් කළ බවද තානාපතිවරයා පවසයි.
+The ambassador said that as other foreign nationals are also visible to Sri Lankans, so they said that they were impressed by the committee on the forefront of the PC.
 
-මේ පිළිබඳව ඊශ්‍රායෙල් පාර්ලිමේන්තුවේ විදේශ සේවකයන්  පිළිබඳව කමිටුව හමුවේ කරුණු දැක්වීමට නියමිත බවත්  මේ හමුව සඳහා ඊශ්‍රායිල්  ශ්‍රී ලංකා මිත්‍රත්ව සංගමයේ සභාපති Dr. Tsega Melaku, ඊශ්‍රායිල්  විදේශ කටයුතු අමාත්‍යංශයේ නිලධාරින්, පාර්ලිමේන්තුවේ විදේශ ප්‍රතිපත්ති අංශයේ නිලධාරීන් හා ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ නියෝජ්‍ය ප්‍රධානි හේමන්ත ඒකනායක මහතා ද සහභාගිවූ බව ඔහු වැඩිදුරටත් පවසයි.
+This is due to appear before the committee of the MP's Foreign Workers. He added that TSAGA Melaku, the officials of the Ministry of Foreign Affairs, officials of the Ministry of Foreign Policy and the Sri Lankan Embassy in Parliament Hemantha Ekanayake added.
 
 ◼️
 
 [Data](articles/6c00a0eb.json)
+
+[Extended Data](ext_articles/6c00a0eb.ext.json)
 
 ---
 
@@ -1582,6 +1772,8 @@ The on going problem of illegal fishing and bottom trawling in Sri Lanka’s nor
 
 [Data](articles/54fdec77.json)
 
+[Extended Data](ext_articles/54fdec77.ext.json)
+
 ---
 
 ### Massive leakage plant blockade at Valaichenai Kinniyadi Wavi
@@ -1865,125 +2057,5 @@ Prof. Athukorala acknowledged a recent vote of confidence from the global market
 [Data](articles/78b3c9fa.json)
 
 [Extended Data](ext_articles/78b3c9fa.ext.json)
-
----
-
-### Water, war and renewal: The Iranamadu Reservoir’s new dawn with ADB
-
-*2025-09-21 18:09:00* · [`islandlk`](http://island.lk/water-war-and-renewal-the-iranamadu-reservoirs-new-dawn-with-adb/) · `en`
-
-For generations, the water level of the Iranamadu Reservoir has been the true measure of northern Sri Lanka’s fortune. This ancient tank, a cornerstone of life in Kilinochchi, tells a story of heritage, conflict, and now, an extraordinary rebirth facilitated by the Asian Development Bank (ADB).
-
-Once a casualty of a decades-long civil war, Iranamadu is today a powerful symbol of post-conflict renaissance, fueled by strategic investment and a revolutionary community-led model that is turning subsistence farmers into agri-business owners.
-
-...
-
-[Data](articles/5ab52bca.json)
-
-[Extended Data](ext_articles/5ab52bca.ext.json)
-
----
-
-### New directive issued on testing drivers under the influence of narcotics
-
-*2025-09-21 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112740/new-directive-issued-on-testing-drivers-under-the-influence-of-narcotics) · `en`
-
-A new directive outlining the procedure that police officers must follow when inspecting drivers suspected of operating vehicles under the influence of narcotics has been issued by the Ministry of Transport, Highways, Ports, and Civil Aviation.
-
-This new directive has been issued under Section 151 of the Motor Traffic Act and is in effect from September 1.
-
-The directive details the steps police officers should take when there are reasonable grounds to suspect that a driver is under the influence of drugs.
-
-Accordingly, if a police officer reasonably suspects that a driver is under the influence of drugs based on unusual skin reactions, abnormal behavior, the driver’s speech, actions, movements, balance, or appearance of the eyes, the officer is authorized to refer the driver for testing.
-
-...
-
-[Data](articles/6cc85a7d.json)
-
-[Extended Data](ext_articles/6cc85a7d.ext.json)
-
----
-
-### Sunbeam Technologies honoured at SLIM SMEDA & Asia Miracle Awards
-
-*2025-09-21 17:54:00* · [`islandlk`](http://island.lk/sunbeam-technologies-honoured-at-slim-smeda-asia-miracle-awards/) · `en`
-
-Sunbeam Technologies (Pvt) Ltd. was recognised with the Bronze Award in the Other category at the SLIM SME Development Awards (SMEDA) 2024, organised by the Sri Lanka Institute of Marketing (SLIM). Adding to this success, Sunbeam was also named Best Solar Solutions Company of the Year at the Asia Miracle Awards 2025, held at the Taj Samudra Hotel, Colombo.
-
-Sunbeam Technologies has earned a strong reputation as one of Sri Lanka’s fastest-growing renewable energy companies, delivering reliable, cost-effective solar solutions. The company manufactures high-performance solar inverters and modules, while also partnering with world-renowned brands such as Aiko, REC, ABB, Fronius, Solis, and Huawei, All products are backed by manufacturer warranties of 5–30 years.
-
-Approved by the Sri Lanka Sustainable Energy Authority (SLSEA), CEB, and LECO, Sunbeam has successfully completed 700+ projects island-wide, with a total installed capacity exceeding 15 MW.
-
-...
-
-[Data](articles/dda924b9.json)
-
-[Extended Data](ext_articles/dda924b9.ext.json)
-
----
-
-### DIMO and Mahindra empower tractor owners for Maha Season 2025
-
-*2025-09-21 17:53:00* · [`islandlk`](http://island.lk/dimo-and-mahindra-empower-tractor-owners-for-maha-season-2025/) · `en`
-
-Supporting Sri Lanka’s farming communities in preparing for the Maha season, DIMO Agribusinesses successfully concluded its tractor service initiatives, the DIMO Care Camp and the Mahindra Tractor Service Camp series, drawing strong participation from tractor owners across the island.
-
-The DIMO Care Camp welcomed tractors of any brand or model, while the Mahindra Service Camp series was dedicated to Mahindra tractor owners. Both initiatives highlighted the importance of proper maintenance in extending the life span and efficiency of tractors, ensuring tractor owners can maximize productivity during the critical Maha cultivation season.
-
-...
-
-[Data](articles/2a6d01f3.json)
-
-[Extended Data](ext_articles/2a6d01f3.ext.json)
-
----
-
-### ComBank Home Loans Fiesta returns with benefits for aspiring homeowners
-
-*2025-09-21 17:52:00* · [`islandlk`](http://island.lk/combank-home-loans-fiesta-returns-with-benefits-for-aspiring-homeowners/) · `en`
-
-The Commercial Bank of Ceylon has relaunched its popular Home Loans Fiesta for 2025, offering attractive interest rates, substantial cost savings, and a range of tailor-made repayment plans to help customers build, buy, or renovate their dream homes. Running until 30th September 2025, the campaign is designed to make home ownership more affordable and accessible for a wide range of borrowers.
-
-Under the promotion, all customers will enjoy the Platinum Rate on interest, with documentation charges reduced by 50%. Borrowers taking loans for construction purposes can also benefit from discounts of up to 40% on building materials, bathroom fittings, hardware items and more, from selected suppliers.
-
-...
-
-[Data](articles/27a68304.json)
-
-[Extended Data](ext_articles/27a68304.ext.json)
-
----
-
-### Sanasa Life Insurance launches biggest consumer promotion in its history
-
-*2025-09-21 17:52:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-biggest-consumer-promotion-in-its-history/) · `en`
-
-SANASA Life Insurance has accomplished yet another milestone along with the launch of ‘Heenalanthaya,’ the largest consumer promotion in the organization’s history. This promotion is designed to provide SANASA Life Insurance policyholders and those who wish to participate in the grand draw, with numerous opportunities to win prizes.
-
-The promotion also aligns with SANASA’s long-standing ethic of outreach, which is focused on providing accessible and affordable insurance solutions to underserved, low-income communities. This promotion is open to all clients around the country who have embarked on a life insurance cover with SANASA.
-
-Eligibility requires clients to secure a new life insurance policy and complete three consecutive premium payments. A policyholder who has consistently paid premiums over a longer term in addition to being eligible, will also increase their chances of winning.
-
-...
-
-[Data](articles/acde921d.json)
-
-[Extended Data](ext_articles/acde921d.ext.json)
-
----
-
-### Seylan Bank and National Chamber of Exporters renew strategic partnership for the 4th consecutive year
-
-*2025-09-21 17:50:00* · [`islandlk`](http://island.lk/seylan-bank-and-national-chamber-of-exporters-renew-strategic-partnership-for-the-4th-consecutive-year/) · `en`
-
-Seylan Bank PLC has renewed its strategic partnership with the National Chamber of Exporters of Sri Lanka (NCE) for the fourth consecutive year. The agreement was signed at Seylan Bank’s Head Office in Colombo, in the presence of senior representatives from both organizations.
-
-Through this continuing collaboration, Seylan Bank will extend tailored financial solutions to NCE member exporters, supporting businesses currently entering global markets as well as those aiming to expand their existing international reach. The partnership is designed to strengthen export activities, generate increased foreign exchange earnings, and contribute to Sri Lanka’s overall economic resilience.
-
-...
-
-[Data](articles/dda0c4dc.json)
-
-[Extended Data](ext_articles/dda0c4dc.ext.json)
 
 ---

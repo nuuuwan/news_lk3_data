@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 06:25:15**
+As of **2025-09-22 05:59:33**
 
 ## Newspaper Stats
 
-*Scraped **77,326** Articles*
+*Scraped **77,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 632
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,673
+economynextcom | 4,672
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
@@ -26,31 +26,11 @@ adaderanasinhalalk | 13,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,318 (100.0%) of 77,326 articles have been extended.
+77,308 (100.0%) of 77,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
-
-### Sri Lanka bank interest rates edge up amid ‘ramrod anomaly’ in bills
-
-*2025-09-22 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-interest-rates-edge-up-amid-ramrod-anomaly-in-bills-241410/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s bank interest rates have continued to edge up after a rate cut in May 2025, amid a strong economic recovery made possible by the stability provided by the central bank through past deflationary policy as well as stable government policies.
-
-According to central bank data the weighted average new fixed deposit rate fell to 6.62 percent in May and climbed to 6.85 percent in June and 6.90 percent in July.
-
-However, banks are now mobilizing 12-month deposits at 7.75 percent and above to finance strong credit demand and an economic recovery.
-
-The economic recovery may also have been helped by reduced government capex, which reduced domestic state borrowings and allowed private citizens to deploy resources to the most productive areas, bringing compounded long-term growth rather than bureaucratic spending.
-
-The weighted average new lending rate climbed to 10.56 percent in April from 10.46 percent in March, fell to 10.28 percent in June, a month after the rate cut.
-
-...
-
-[Data](articles/18e69626.json)
-
----
 
 ### Ranil calls for united Opposition against ‘constitutional dictatorship’ at UNP’s 79th anniversary
 
@@ -76,8 +56,6 @@ He made the appeal at the UNP’s 79th anniversary convention, calling the gathe
 
 [Data](articles/0a5967a2.json)
 
-[Extended Data](ext_articles/0a5967a2.ext.json)
-
 ---
 
 ### India-Sri Lanka Foundation approves new projects to boost economic ties
@@ -96,8 +74,6 @@ The 40th meeting of the Board of Directors of the ISLF was held in Colombo on Fr
 
 [Data](articles/65c0af89.json)
 
-[Extended Data](ext_articles/65c0af89.ext.json)
-
 ---
 
 ### Public Rights Movement raises alarm over Litro tender changes, calls for probe
@@ -111,8 +87,6 @@ In a letter addressed to the Commission to Investigate Allegations of Bribery or
 ...
 
 [Data](articles/3df9e6ae.json)
-
-[Extended Data](ext_articles/3df9e6ae.ext.json)
 
 ---
 
@@ -130,8 +104,6 @@ Customers can now explore the complete Moose collection under one roof, includin
 
 [Data](articles/02331e12.json)
 
-[Extended Data](ext_articles/02331e12.ext.json)
-
 ---
 
 ### Siddhalepa Golden Night 2025 – Honouring legacy, rewarding excellence
@@ -147,8 +119,6 @@ The program began with a heartfelt tribute to the late Chairman, followed by an 
 ...
 
 [Data](articles/7b10254a.json)
-
-[Extended Data](ext_articles/7b10254a.ext.json)
 
 ---
 
@@ -174,8 +144,6 @@ The milestone event recognised and celebrated the achievements of exceptional in
 
 [Data](articles/90950b2e.json)
 
-[Extended Data](ext_articles/90950b2e.ext.json)
-
 ---
 
 ### Vidullanka’s Matara solar power plant adds another 3 MW of clean energy to national grid
@@ -191,8 +159,6 @@ The completion of this plant marks the first project concluded as per the 9MW aw
 ...
 
 [Data](articles/7388cb97.json)
-
-[Extended Data](ext_articles/7388cb97.ext.json)
 
 ---
 
@@ -471,8 +437,6 @@ Minister of Foreign Affairs Vijitha Herath, will accompany Dissanayake on the vi
 ◼️
 
 [Data](articles/d209a599.json)
-
-[Extended Data](ext_articles/d209a599.ext.json)
 
 ---
 
@@ -900,8 +864,6 @@ Prof. Athukorala acknowledged a recent vote of confidence from the global market
 
 [Data](articles/78b3c9fa.json)
 
-[Extended Data](ext_articles/78b3c9fa.ext.json)
-
 ---
 
 ### Water, war and renewal: The Iranamadu Reservoir’s new dawn with ADB
@@ -915,8 +877,6 @@ Once a casualty of a decades-long civil war, Iranamadu is today a powerful symbo
 ...
 
 [Data](articles/5ab52bca.json)
-
-[Extended Data](ext_articles/5ab52bca.ext.json)
 
 ---
 
@@ -2083,5 +2043,27 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining t
 [Data](articles/f27a9463.json)
 
 [Extended Data](ext_articles/f27a9463.ext.json)
+
+---
+
+### CEB workers to further intensify trade union action from tomorrow
+
+*2025-09-21 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112724/ceb-workers-to-further-intensify-trade-union-action-from-tomorrow) · `en`
+
+Several trade unions of the Ceylon Electricity Board (CEB) have announced that they will intensify their trade union action further against the proposed restructuring of the CEB, effective midnight today (21).
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action in three phases.
+
+The first phase was initiated as a ‘work-to-rule’ trade union action.
+
+In the second phase, all employees reported sick leave in two groups on September 17 and 18), during which a demonstration was also staged opposite the CEB head office.
+
+Although 17 days have passed since the strike commenced on September 4, the CEB Engineers’ Union stated that the authorities have so far failed to engage in discussions to resolve their concerns.
+
+...
+
+[Data](articles/389beca8.json)
+
+[Extended Data](ext_articles/389beca8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 19:02:35**
+As of **2025-09-22 19:38:57**
 
 ## Newspaper Stats
 
-*Scraped **77,465** Articles*
+*Scraped **77,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
 adalk | 7,527
-adaderanalk | 10,024
+adaderanalk | 10,030
 tamilmirrorlk | 11,654
-virakesarilk | 12,606
-adaderanasinhalalk | 13,535
+virakesarilk | 12,607
+adaderanasinhalalk | 13,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,465 (100.0%) of 77,465 articles have been extended.
+77,468 (100.0%) of 77,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
+
+### පාසල් පාදක ක්‍රියාකාරකම් සඳහා වැඩි නැඹුරුවක් ඇති කළ යුතුයි- අගමැති හරිනි
+
+*2025-09-22 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214881) · `si`
+
+පාසල් පාදක ක්‍රියාකාරකම් සඳහා වැඩි නැඹුරුවක් ඇති කිරීම අධ්‍යාපන ප්‍රතිසංස්කරණවල අරමුණක් වන බවත් නව අධ්‍යාපන ප්‍රතිසංස්කරණවලින් අනතුරුව සිසුන් ක්‍රියාකාරකම් මූලික අධ්‍යාපන ක්‍රමවේදයක් සඳහා යොමු වීම හරහා ඉදිරියේ දී පාසල්වල ආගමික අධ්‍යාපනය ද ක්‍රියාකාරකම් පාදක වනු ඇති බවත් අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යවරිය පවසයි.
+
+හින්දු ආගමික උපදේශක මණ්ඩලයේ දෙවැනි රැස්වීම අධ්‍යාපන, උසස් අධ්‍යාපන වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මියගේ ප්‍රධානත්වයෙන් අධ්‍යාපන අමාත්‍යාංශයේ දී පවත්වා තිබේ.
+
+එහිදී හින්දු ආගම විෂයය සඳහා පත්වීම් ලැබූ ගුරුභවතුන් වෙනත් විෂයන් ඉගැන්වීම හේතුවෙන් හින්දු ආගම විෂයට අදාළව උග්‍ර ගුරු හිඟයක් පවතින බවත් ඒ සඳහා පිළියමක් අවශ්‍ය බවත් මෙහි දී හින්දු ආගමික උපදේශක මණ්ඩලය විසින් පෙන්වා දුන් අතර එයට පිළිතුරු දෙමින් අමාත්‍යවරිය ප්‍රකාශ කළේ, මේ දිනවල සියලු පළාත් ආවරණය වන පරිදි ගුරුවරුන්ගේ තොරතුරු රැස් කරමින් සිටින බැවින් එය අවසන් වීමෙන් අනතුරුව විධිමත් සැලස්මකට අනුව ගුරුවරුන් බඳවා ගැනීම හා අනුයුක්ත කිරීම මගින් ගුරු තුලනය කිරීම සිදු කරන බවය.
+
+...
+
+[Data](articles/4df42e14.json)
+
+---
+
+### Details of male bodies found in Senmodara area reveal
+
+*2025-09-22 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214880) · `si`
+
+Several information has been revealed in the two bodies of the bodies found in a house that was repaired in Sundala, Senagoda.
+
+Tangalle Police found the bodies this morning (22).
+
+A wall has been built around a wall and has been carried out by a person who bought a house of Seennamodara.
+
+Three workers have joined the house to repair the house and they had dried up in the house last night.
+
+After announcing the sudden sick, they had come to the Tangalle Base Hospital.
+
+The victim was a 50 year old resident of Tangalle, Tangalle, Tangalle, Tangalle, Tangalle, Tangalle.
+
+His children complained about death to the Tangalle Police and the police have commenced investigations.
+
+That is why two other bodies were found in a room in the house.
+
+The victim was two 24-year-old youths named Kavindu Kalhara, 21 year old and Dhanuka Lakshan.
+
+The police said that the two bodies had been identified.
+
+◼️
+
+[Data](articles/0f4a1e10.json)
+
+[Extended Data](ext_articles/0f4a1e10.ext.json)
+
+---
+
+### மின்சார சபை தொழிற்சங்கங்கள் வேலைநிறுத்தப் போராட்டத்தை புதன்கிழமை வரை தொடர தீர்மானம்
+
+*2025-09-22 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225791) · `ta`
+
+”இலங்கை மின்சார சபையின் அனைத்து தொழிற்சங்கங்களும் புதன்கிழமை வரை நடந்து வரும் வேலைநிறுத்தப் போராட்டத்தைத் தொடர முடிவு செய்துள்ளன. இது ஒரு நாள் வேலைநிறுத்தமா, அடையாள வேலைநிறுத்தமா அல்லது தொடர்ச்சியான வேலைநிறுத்தமா என்பதை புதன்கிழமை தெளிவாகக் கூறுவோம்."
+
+22ஆம் திகதி திங்கட்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில், இலங்கை மின்சார சபையின் இலவச தொழிலாளர் சங்கத்தின் பொதுச் செயலாளர் பிரபாத் பிரியந்த இதனைத் தெரிவித்தார்.
+
+அதிகாரிகள் தங்கள் கோரிக்கைகளுக்கு தீர்வுகளை வழங்காவிட்டால், வரவிருக்கும் தொழிற்சங்க நடவடிக்கை குறித்து 24 ஆம் திகதி முடிவு எடுக்கப்படும் என்று அவர்கள் தெரிவித்தனர்.
+
+"25 தொழிற்சங்கங்களும் 24 ஆம் திகதி மதியம் மீண்டும் கூடி, இந்த இரண்டு நாட்களில் நல்ல விவாதம் நடைபெறவில்லை என்றால், புதன்கிழமை இறுதி கட்டமான வேலைநிறுத்த முடிவை எடுப்போம்.
+
+◼️
+
+[Data](articles/65292d70.json)
+
+---
 
 ### LTTE's 6,000 gold items handed over to Central Bank: CIT
 
@@ -76,6 +142,46 @@ The suspect was produced before the Mallacam Magistrate's Court until 14 days.
 
 ---
 
+### EU cyber agency says airport software held to ransom by criminals
+
+*2025-09-22 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112785/eu-cyber-agency-says-airport-software-held-to-ransom-by-criminals) · `en`
+
+The EU’s cyber security agency says criminals are using ransomware to cause chaos in airports around the world.
+
+Several of Europe’s busiest airports have spent the past few days trying to restore normal operations, after a cyber-attack on Friday disrupted their automatic check-in and boarding software.
+
+The European Union Agency for Cybersecurity, ENISA, told the BBC on Monday that the malicious software was used to scramble automatic check-in systems.
+
+“The type of ransomware has been identified. Law enforcement is involved to investigate,” the agency said in a statement to news agency Reuters.
+
+It’s not known who is behind the attack, but criminal gangs often use ransomware to seriously disrupt their victims’ systems and demand a ransom in bitcoin to reverse the damage.
+
+The BBC has seen internal crisis communications from staff inside Heathrow Airport which urges airlines to continue to use manual workarounds to board and check in passengers as the recovery is ongoing.
+
+...
+
+[Data](articles/8fd4a7b3.json)
+
+---
+
+### Southern politicians linked to drug and organized crime networks – Public Security Minister
+
+*2025-09-22 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112784/southern-politicians-linked-to-drug-and-organized-crime-networks-public-security-minister) · `en`
+
+Minister of Public Security Ananda Wijepala has claimed that certain politicians in the Southern Province are allegedly connected to drug trafficking and organized criminal networks.
+
+Speaking at a media briefing held today (22), the Public Security Minister stated that this information is emerging based on intelligence reports and tips received from the general public.
+
+Minister Wijepala further noted that the criminal underworld and drug networks have expanded as a result of past political culture, but emphasized that the current government is now paying special attention to dismantling these operations. The Minister also confirmed that three major drug raids were conducted today in Tangalle.
+
+“There’s an important message for the public. We now have certain information indicating political links to serious drug and organized crime activities—particularly involving politicians from the south,” the Minister said.
+
+...
+
+[Data](articles/d559a05b.json)
+
+---
+
 ### A controversial revelation from Public Defense Minister
 
 *2025-09-22 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214878) · `si`
@@ -93,6 +199,46 @@ The present government has increased the organized crime and the drug network du
 [Data](articles/d527b02e.json)
 
 [Extended Data](ext_articles/d527b02e.ext.json)
+
+---
+
+### President rules out privatization of power sector
+
+*2025-09-22 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112783/president-rules-out-privatization-of-power-sector) · `en`
+
+President Anura Kumara Dissanayake has firmly stated that the present government remains consistently committed to safeguarding Sri Lanka’s energy sovereignty, and that there is no intention at any time to hand over the electricity sector to private entities.
+
+The President emphasized that ensuring control over the country’s energy sector is a key government policy, given its critical role in economic development, national security, and national independence.
+
+President Dissanayake further noted that the government’s objective is not to privatize but to eliminate the existing inefficiencies within the institutional structure of the electricity sector and to establish a streamlined, well-regulated institutional framework.
+
+President Dissanayake made these remarks while attending a progress review discussion on the ongoing electricity sector reforms, held today (22) at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/a90713d2.json)
+
+---
+
+### CEB trade unions to continue work-to-rule campaign until Wednesday
+
+*2025-09-22 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112782/ceb-trade-unions-to-continue-work-to-rule-campaign-until-wednesday) · `en`
+
+All trade unions affiliated to the Ceylon Electricity Board (CEB) have decided to continue their ongoing work-to-rule trade union action until Wednesday (24).
+
+This was announced today (22) at a media briefing by Prabath Priyantha, the General Secretary of the CEB Nidahas Sevaka Sangamaya.
+
+He stated that if authorities fail to provide satisfactory solutions to their demands, a decision on the next phase of the trade union action will be taken on September 24.
+
+“On the 24th of September, representatives from 25 trade unions will meet again. If no constructive discussions take place within the next two days, we will be compelled to move to the final stage of trade union action. Whether it will be a one-day strike, a token strike, or an indefinite strike — we will clearly announce our decision on Wednesday,” he said.
+
+CEB unions have emphasized that continued inaction or lack of engagement from authorities will result in an escalation of their trade union efforts.
+
+◼️
+
+[Data](articles/ecb16369.json)
+
+[Extended Data](ext_articles/ecb16369.ext.json)
 
 ---
 
@@ -115,6 +261,24 @@ The President also pointed out that a new translation is essential for a new tra
 [Data](articles/a584776b.json)
 
 [Extended Data](ext_articles/a584776b.ext.json)
+
+---
+
+### Woman arrested at Jaffna airport while attempting to smuggle gold into Sri Lanka
+
+*2025-09-22 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112781/woman-arrested-at-jaffna-airport-while-attempting-to-smuggle-gold-into-sri-lanka) · `en`
+
+A 41-year-old Sri Lankan woman has been apprehended at the Jaffna International Airport for attempting to smuggle gold into the country.
+
+The 41-year-old woman was arrested by Sri Lanka Customs officers.
+
+The suspect, a resident of Colombo 12, had arrived from Chennai and was found concealing two capsules containing a substance suspected to be gold, weighing 1,002.2 grams, without declaring them to Customs.
+
+Following further investigation, she was produced before the Mallakam Magistrate’s Court and remanded for 14 days, Sri Lanka Customs said.
+
+◼️
+
+[Data](articles/e7966c63.json)
 
 ---
 
@@ -221,6 +385,24 @@ When the country is ruined by your model, the woman has threatened the journalis
 [Data](articles/43486f37.json)
 
 [Extended Data](ext_articles/43486f37.ext.json)
+
+---
+
+### ASPI closes at new all-time high today
+
+*2025-09-22 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112780/aspi-closes-at-new-all-time-high-today) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 141 points today (22).
+
+Accordingly, the ASPI rose by 141.78 points or 0.67% to close at 21,226.87 points, surpassing the previous high of 21,085.09 points recorded on September 19, 2025.
+
+Meanwhile, the S&P SL20 Index moved up by 60.97 points to close at 6,057.13 points.
+
+◼️
+
+[Data](articles/b5e1e5ce.json)
+
+[Extended Data](ext_articles/b5e1e5ce.ext.json)
 
 ---
 
@@ -1867,189 +2049,5 @@ Shasheendra Rajapaksa was arrested and remanded by the Bribery Commission on cha
 [Data](articles/fa80ec18.json)
 
 [Extended Data](ext_articles/fa80ec18.ext.json)
-
----
-
-### Shashindra Rajapaksa further remanded
-
-*2025-09-22 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214855) · `si`
-
-Former State Minister Shashheendra Rajapaksa, who was arrested on suspicion of corruption, remanded until the 30th of this month.
-
-Colombo Chief Magistrate Asanka S Bodaragama has issued this order today (22).
-
-The Kottawa area belonging to the Mahaweli Authority of the Sri Lanka Mahaweli Authority belonging to Shasheendra Rajapaksa is damaged in the struggle of an unauthorized building in Colombo.
-
-එකී දේපොළ සඳහා වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබියදී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ ඇතැම් රජයේ නිලධාරින්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදුකර වන්දි ගෙවීමට බලපෑම්කර ඇති බවට ඔහුට එරෙහිව චෝදනා එල්ල වී තිබේ.
-
-Where Rs. The arrest was made on suspicion of 'corruption' and the criminal use of the Mahaweli Authority by obtaining 8,850,000 (88 lakhs) compensation.
-
-◼️
-
-[Data](articles/01ccd03b.json)
-
-[Extended Data](ext_articles/01ccd03b.ext.json)
-
----
-
-### Canada, Australia and Portugal connect with Britain in recognizing the Palestinian state!
-
-*2025-09-22 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225706) · `ta`
-
-International media reports that Canada, Australia and Portugal are joining the United Kingdom in the formal recognition of the Palestinian state as it plans to expand Israel's settlements and intensify the war on Gaza on the occupied West Bank.
-
-Canadian Prime Minister Mark Carnie announced on Sunday (September 21) that he would recognize the Palestinian state.
-
-He has also given their coalition to the Palestinian government and the Israeli government to make the promise of a peaceful future.
-
-He further stated that the Israeli government is working on the "prevention of the Palestinian government" to establish the opportunity. "
-
-“The recognition of the Palestinian state led by the Palestinian Authority is said to be empowered to those who want peaceful coexistence and the end of Hamas.
-
-This does not in any way justify terrorism, but it is no reward, ”said Canadian Prime Minister Mark Carni.
-
-...
-
-[Data](articles/4835dcee.json)
-
-[Extended Data](ext_articles/4835dcee.ext.json)
-
----
-
-### Four people die in road accidents in four different areas
-
-*2025-09-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225708) · `ta`
-
-Four people have died in different road accidents in four parts across the country, police media unit said.
-
-Accordingly, the motorcycle from Mannar to Jaffna was trapped in the Kaliyadi area on the Jaffna-Mannar road in the Iluppagada police division yesterday afternoon and lost control of the bus.
-
-இந்த விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் பின்புறத்தில் இருந்த பயணி உள்ளிட்ட இருவரும் பலத்த காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
-
-Meanwhile, a motorcycle traveling from Kaduwala to Angoda at the Angoda junction on the Kaduwela -Angoda road in the Mulleriya police division crashed into the road.
-
-In this accident, motorcycle; The driver was seriously injured and at the hospital; He died after being allowed.
-
-Meanwhile, a tipper lorry carrying sand from Habarana to Dambulla on the Trincomalee - Dambulla road crashed into a pedestrian in Dambulla.
-
-...
-
-[Data](articles/80c1fd55.json)
-
-[Extended Data](ext_articles/80c1fd55.ext.json)
-
----
-
-### Israel attack on Lebanon: 5 killed including children
-
-*2025-09-22 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225705) · `ta`
-
-International media reports that five people, including children, were killed in an Israeli attack on Lebanon.
-
-Israel has accepted attacks on children in Lebanon. The Israeli military claims to have launched an attack in South Lebanon this morning.
-
-Lobanon's Health Ministry said three children were among those killed in the attack in Lebanon's southern city of Pint Jabel.
-
-In a statement, the goal of the Israeli military attack was a Hizbullah member and he was also killed.
-
-இந்த "தாக்குதலின் விளைவாக, சம்பந்தப்படாத பொதுமக்கள் கொல்லப்பட்டனர்" என அந்த நாட்டு இராணுவம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/dbafb8d5.json)
-
-[Extended Data](ext_articles/dbafb8d5.ext.json)
-
----
-
-### Britain recognizes the Palestinian state!
-
-*2025-09-22 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225704) · `ta`
-
-He posted through a video report on his X site that we are working to keep the potential of the growing terrorism in the Middle East and keep the possibility of peace and two -state settlement.
-
-Australia, Canada and Portugal have announced that it will properly recognize the Palestinian state.
-
-As a result, the Israeli government has received severe criticism from the families of the prisoners and some conservatives in Gaza.
-
-Responding to this, Israeli Prime Minister Benjamin Netanyahu said on Sunday (21) that the Palestinian government would not "not happen".
-
-◼️
-
-[Data](articles/38d9231a.json)
-
-[Extended Data](ext_articles/38d9231a.ext.json)
-
----
-
-### Do not understand my pet ...
-
-*2025-09-22 09:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்-செல்லத்துக்கு-புரியலையா/62-365036) · `ta`
-
-◼️
-
-[Data](articles/1b9c8a1c.json)
-
-[Extended Data](ext_articles/1b9c8a1c.ext.json)
-
----
-
-### Adinga sir
-
-*2025-09-22 09:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அடிங்க-சார்-ஒரேயொரு-பல்டிய-அடிச்சிடுங்க/62-365035) · `ta`
-
-◼️
-
-[Data](articles/43d6047a.json)
-
-[Extended Data](ext_articles/43d6047a.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields drop following credit rating upgrade
-
-*2025-09-22 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-drop-following-credit-rating-upgrade-241422/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.10/20 to the US dollar on Monday, stronger from 302.45/50 on Friday, while bond yields were down following the credit rating upgrade, dealers said.
-
-A bond maturing on 15.12.2029 was quoted at 9.48/52 percent, down from 9.50/54 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.66/70 percent, down from 9.70/75 percent.
-
-A bond maturing on 15.03.2031 was quoted flat at 10.00/05 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.35/45 percent.
-
-A bond maturing on 01.11.2033 was quoted at 10.65/70 percent, from 10.65/75 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.75/80 percent.
-
-The telegraphic transfer rates for the American dollar was 298.7500 buying, 305.7500 selling; the British pound was 401.2340 buying, and 412.5958 selling, and the euro was 348.2418 buying, 359.6050 selling.
-
-...
-
-[Data](articles/e2a40830.json)
-
-[Extended Data](ext_articles/e2a40830.ext.json)
-
----
-
-### யாழ்ப்பாணத்தில் ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் இன்று ஆரம்பம்!
-
-*2025-09-22 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225713) · `ta`
-
-The Mobile Service of the Employees Provident Fund organized by the Ministry of Labor has been launched on Monday (September 22).
-
-The Ministry said that the inaugural event was held in Jaffna at 9.00 am under the leadership of Deputy Minister of Labor Mahinda Jayasinghe.
-
-The Mobile Service of the Employees Provident Fund is expected to be held across the country.
-
-The Ministry further stated that various services will be provided through the scheme, including resolving issues relating to members of the Employees Provident Fund, providing employment opportunities through job exhibitions and providing legal advice and guidelines.
-
-◼️
-
-[Data](articles/e9ead4b4.json)
-
-[Extended Data](ext_articles/e9ead4b4.ext.json)
 
 ---

@@ -1,38 +1,248 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 10:20:48**
+As of **2025-09-22 10:47:26**
 
 ## Newspaper Stats
 
-*Scraped **77,357** Articles*
+*Scraped **77,376** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 632
+dbsjeyarajcom | 633
 bbccomsinhala | 677
 colombotelegraphcom | 775
 economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
-adalk | 7,515
-adaderanalk | 10,001
-tamilmirrorlk | 11,631
-virakesarilk | 12,589
-adaderanasinhalalk | 13,511
+adalk | 7,516
+adaderanalk | 10,006
+tamilmirrorlk | 11,634
+virakesarilk | 12,596
+adaderanasinhalalk | 13,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,355 (100.0%) of 77,357 articles have been extended.
+77,357 (100.0%) of 77,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### என் செல்லத்துக்கு புரியலையா...‌
+### சம்பத்  மனம்பேரி தொடர்பில் மற்றுமொரு செய்தி
+
+*2025-09-22 10:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-தொடர்பில்-மற்றுமொரு-செய்தி/175-365041) · `ta`
+
+சம்பத் மனம்பேரியால் புதைக்கப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு தங்க நிற மெகசின்கள், ஒரு 9 மிமீ பிஸ்டல், ஒரு கைக்குண்டு மற்றும் 115, T-56 தோட்டாக்கள் ஆகியவை மித்தெனிய பகுதியில் உள்ள ஒரு காணியில் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+பெக்கோ சமன் இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்களை 2 மாதங்களுக்கு முன்பு சம்பத் மனம்பேரியிடம் கொடுத்ததாகவும், அவை அவரது நெருங்கிய ஒருவரின் வீட்டில் புதைக்கப்பட்டதாகவும் கூறப்படுகிறது.
+
+பெக்கோ சமன் மற்றும் சம்பத் மனம்பேரியவிடம் நடத்தப்பட்ட விசாரணைகளின் அடிப்படையில், இந்த துப்பாக்கிகள் மற்றும் தோட்டாக்கள் மீட்கப்பட்டன.  R
+
+◼️
+
+[Data](articles/1998524b.json)
+
+---
+
+### பிரபாகரன் ’’ஒரு தாயைப் போன்றவர்’’: விஜய்
+
+*2025-09-22 10:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரன்-ஒரு-தாயைப்-போன்றவர்-விஜய்/175-365040) · `ta`
+
+விடுதலைப் புலிகள் அமைப்பின் தலைவர் வேலுப்பிள்ளை பிரபாகரன், இலங்கை தமிழ் மக்களுக்கு "ஒரு தாயைப் போன்றவர்" என்று தமிழக வெற்றிக் கழகத்தின் தலைவர் நடிகர் விஜய் தமிழ்நாட்டின் நாகப்பட்டினத்தில் நடந்த தேர்தல் பேரணியில் தெரிவித்துள்ளார்.
+
+"உலகின் எந்த மூலையில் இருந்தாலும், எங்கள் உறவினர்களான ஈழத் தமிழ் மக்கள், தாய் பாசத்தைக் காட்டிய ஒரு தலைவரை இழந்து தவிக்கின்றனர். எனவே, அவர்களுக்காகப் பேசுவது எங்கள் கடமை."எனவும் அவர் குறிப்பிட்டார்.
+
+நாகப்பட்டினம் போன்ற பெரிய கடற்றொழில் சமூகம் உள்ள பகுதிகளில் இலங்கைத் தமிழர்களின் பிரச்சினை ஓர் உணர்ச்சிகரமான பிரச்சினையாகக் கருதப்படுகிறது.
+
+2008 ஆம் ஆண்டில், இலங்கைத் தமிழர்களின் சார்பாக விஜய் சென்னையில் உண்ணாவிரதப் போராட்டத்தில் ஈடுபட்டார். இருப்பினும், அரசியல் விமர்சகர்கள் இலங்கைத் தமிழர்களை ஆதரிப்பதும், இந்தியாவில் தடைசெய்யப்பட்ட விடுதலைப் புலிகளை ஆதரிப்பதும் ஒன்றல்ல என்று சுட்டிக்காட்டுகின்றனர்.
+
+...
+
+[Data](articles/2edc83af.json)
+
+---
+
+### சஷீந்திர ராஜபக்ஷவின் பிணை மனு நிராகரிப்பு ; விளக்கமறியல் நீடிப்பு!
+
+*2025-09-22 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225725) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷவை செப்டம்பர் 30 ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் நீதிமன்றம் இன்று திங்கட்கிழமை (22) உத்தரவிட்டுள்ளது.
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள சஷீந்திர ராஜபக்ஷ இன்று நீதிமன்றில் ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+2022 ஆம் ஆண்டில் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட போராட்டங்களின் போது தீக்கிரையாக்கப்பட்ட செவனகல - கிரிப்பன் வேவ பகுதியில் உள்ள அரசாங்க நிலத்திற்கு மற்றொரு நபர் மூலம் இழப்பீடு பெற்ற சம்பவம் தொடர்பில் முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷ நுகேகொடை பகுதியில் உள்ள அவரது வீட்டில் வைத்து இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் ஆகஸ்ட் 06 ஆம் திகதி காலை கைதுசெய்யப்பட்ட நிலையில் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3d43ae24.json)
+
+---
+
+### தங்காலை இரண்டு சடலங்கள் மீட்பு
+
+*2025-09-22 10:30:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-இரண்டு-சடலங்கள்-மீட்பு/175-365039) · `ta`
+
+தங்காலை சீனிமோதர பகுதியில் புதுப்பிக்கப்பட்டு வரும் கைவிடப்பட்ட வீட்டில் இரண்டு சடலங்கள் மீட்கப்பட்டுள்ளன.
+
+அந்த இடத்தில் நடத்தப்பட்ட சோதனையில், வீட்டின் அருகே நிறுத்தப்பட்டிருந்த லாரியில் மறைத்து வைக்கப்பட்டிருந்த ஐஸ் (படிக மெத்தம்பேட்டமைன்) என்ற போதைப்பொருள் இருப்பதாக சந்தேகிக்கப்படும் 10 பாக்கெட்டுகள் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவ இடத்தில் இருந்த மற்றொரு நபர் திடீரென நோய்வாய்ப்பட்டு தங்காலை பொது மருத்துவமனைக்கு கொண்டு செல்லப்பட்டதாக கூறப்படுகிறது. சிகிச்சை பெற்று வந்த அவர் பின்னர் உயிரிழந்தார்.
+
+இந்த சம்பவம் குறித்து பொலிஸார் முழு அளவிலான விசாரணையை தொடங்கியுள்ளனர், அதே நேரத்தில் இறப்புக்கான காரணங்களைக் கண்டறிய அரசு பகுப்பாய்வாளர் துறை பிரேத பரிசோதனைகளை மேற்கொண்டு வருகிறது.
+
+◼️
+
+[Data](articles/c9c31010.json)
+
+---
+
+### நாட்டில் அதிகரிக்கும் வீதி விபத்துகள்: அதிர்ச்சியளிக்கும் புள்ளிவிபரத் தரவுகள் !
+
+*2025-09-22 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/225722) · `ta`
+
+உலகத்தில் விபத்துக்கள் ஏற்படாத இடங்கள் என்று எதுவும் இல்லை. ஆனால் நமது நாடான இலங்கையில் இடம்பெறும் வாகன விபத்துக்கள் பெரும் சோகத்தையும் விபரீதங்களையும் ஏற்படுத்துவனவாக காணப்படுகின்றது. அந்தவகையில், அண்மையில் எல்லயில் இடம்பெற்ற விபத்து அமைந்திருந்தது. புள்ளி விபரத்தரவுகளின் அடிப்படையில், நாட்டில் ஏற்படுகின்ற அதிகளவு மரணங்களுக்கான இரண்டாவது பிரதான காரணமாக வீதி விபத்துக்கள் மறியுள்ளன.
+
+எமது நாடு, தற்போது பெரும் வாகன விபத்துகள் மற்றும் உயிரிழப்புகளால் பாதிக்கப்பட்டுள்ளது. தற்போது இது ஒரு தேசிய நெருக்கடியாக உருவெடுத்துள்ளது. ஒரு இலட்சத்து 10 ஆயிரத்து 350 சதுர கிலோமீற்றர் பரப்பளவைக் கொண்ட நாட்டின் வீதிகளில், 2025 ஜூன் 30 ஆம் திகதிய நிலவரப்படி, சுமார் 85 இலட்சத்து 50 ஆயிரத்து 569 வாகனங்கள் பதிவு செய்யப்பட்டுள்ளன. இதில், அரைவாசிக்கும் மேல், அதாவது 49 இலட்சத்து 94 ஆயிரத்து 596 வாகனங்கள் மோட்டார் சைக்கிள்கள் ஆகும். மேலும், சுமார் 11 இலட்சத்து 98 ஆயிரம் முச்சக்கர வண்டிகளும் இதில் அடங்கும். இந்த அதிக எண்ணிக்கையிலான வாகனப் பெருக்கமும், விபத்துகளும் ஒன்றுடன் ஒன்று தொடர்புடையவை.
+
+...
+
+[Data](articles/90f84d6a.json)
+
+---
+
+### චීනය සමග ද්විපාර්ශ්වික සබඳතාවල වටිනාකම චීන අගමැති අමෙරිකාවට පෙන්වයි
+
+*2025-09-22 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214856) · `si`
+
+චීනය සමඟ ද්විපාර්ශ්වික සබඳතා පිළිබඳ නිවැරදිව බැලීමේ අවශ්‍යතාව චීනය ඇමරිකාවට පෙන්වා දී තිබේ.
+
+චීන අග්‍රාමාත්‍යවරයා විසින් චීනය සහ ද්විපාර්ශ්වික සබඳතා දෙස නිවැරදි ආකාරයෙන් බැලීමටත්, හුවමාරු සහ සහයෝගීතාවට ක්‍රියාකාරීම පහසුකම් සැලසීමටත් පියවර ගැනීමේ අවශ්‍යතාව මෙහිදී අවධාරණය කර ඇත.
+
+මෙම ක්‍රියාවලිය තුළින් චීන-ඇමරිකානු මිත්‍රත්වය සහ පොදු සංවර්ධනය පෝෂණය කිරීමේදී ඵලදායී කාර්යභාරයක් ඉටු කරන ලෙසද චීන අග්‍රාමාත්‍යවරයා එක්සත් ජනපද කොංග්‍රසයෙන් ඉල්ලා තිබේ.
+
+චීන අග්‍රාමාත්‍ය Li Qiang මහතා ඊයේ (21) බෙයිජිංහිදී එක්සත් ජනපද කොංග්‍රස් නියෝජිතයින් පිරිසක් හමු වූ අවස්ථාවේ දී මේ අදහස් පළ කර තිබේ.
+
+චීනය සහ ඇමරිකාව සැලකිය යුතු ගෝලීය බලපෑමක් ඇති ප්‍රධාන රටවල් වන බැවින්, ද්විපාර්ශ්වික සබඳතාවන් හි ස්ථාවර, ශක්තිමත් සහ තිරසාර සංවර්ධනයක් පවත්වා ගැනීම දෙපාර්ශ්වයේම පොදු අවශ්‍යතා සඳහා වැදගත් සේම ජාත්‍යන්තර ප්‍රජාවේ අපේක්ෂාවන් ද සපුරාලන බව ඔහු මෙහිදී සඳහන් කළේය.
+
+...
+
+[Data](articles/121618f2.json)
+
+---
+
+### Court rejects Shasheendra’s bail appeal, further remanded
+
+*2025-09-22 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112755/court-rejects-shasheendras-bail-appeal-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa has been further remanded until September 30 after the Colombo Chief Magistrate’s Court rejected his bail application today (22), Ada Derana reporter said.
+
+◼️
+
+[Data](articles/fa80ec18.json)
+
+---
+
+### ශෂීන්ද්‍ර රාජපක්ෂ තවදුරටත් රිමාන්ඩ්
+
+*2025-09-22 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214855) · `si`
+
+අල්ලස් කොමිසම මගින් දූෂණ චෝදනාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වන විට රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණයේ නියම කළේය.
+
+ඔහුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කරමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා විසින් අද (22) මෙම නියෝගය නිකුත් කර ඇත.
+
+ශෂීන්ද්‍ර රාජපක්ෂට අයත් බව කියන ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපොළ, 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පවත්ව ඇත.
+
+එකී දේපොළ සඳහා වන්දි ගෙවීම ප්‍රතික්ෂේප කර තිබියදී ඊට පටහැනිව හානිපූර්ණය සඳහා වන කාර්යාලයට අනුයුක්තව කටයුතු කළ ඇතැම් රජයේ නිලධාරින්ට තම නිල බලය භාවිත කරමින් බලපෑම් සිදුකර වන්දි ගෙවීමට බලපෑම්කර ඇති බවට ඔහුට එරෙහිව චෝදනා එල්ල වී තිබේ.
+
+...
+
+[Data](articles/01ccd03b.json)
+
+---
+
+### பாலஸ்தீன அரசை அங்கீகரிப்பதில் கனடா, அவுஸ்திரேலியா, போர்த்துகல் ஆகியன பிரித்தானியாவுடன் இணைவு  !
+
+*2025-09-22 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225706) · `ta`
+
+ஆக்கிரமிக்கப்பட்ட மேற்குக் கரையில், இஸ்ரேல் குடியேற்றங்களை விரிவுபடுத்தவும், காசா மீதான போரை தீவிரப்படுத்தவும் திட்டமிட்டுள்ள நிலையில், பாலஸ்தீன அரசை முறையாக அங்கீகரிப்பதில் கனடா, அவுஸ்திரேலியா மற்றும் போர்த்துகல் ஆகியன ஐக்கிய இராச்சியத்துடன் இணைந்துள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+கனேடிய பிரதமர் மார்க் கார்னி பாலஸ்தீன அரசை அங்கீகரிப்பதாக ஞாயிற்றுக்கிழமை ( செப்டெம்பர் 21) அறிக்கையொன்றினூடாக அறிவித்துள்ளார்.
+
+மேலும் "பாலஸ்தீன அரசு மற்றும் இஸ்ரேல் அரசு இரண்டிற்கும் அமைதியான எதிர்காலத்திற்கான வாக்குறுதியைக் கட்டியெழுப்புவதில் தங்கள் கூட்டாண்மையை" வழங்கியுள்ளார்.
+
+இஸ்ரேலிய அரசாங்கம் "பாலஸ்தீன அரசு உருவாகும் வாய்ப்பை எப்போதும் நிறுவுவதைத் தடுக்கும் முறையாக" செயல்பட்டு வருவதாக அவர் மேலும் குறிப்பிட்டுள்ளார்.
+
+"பாலஸ்தீன அதிகார சபையின் தலைமையிலான பாலஸ்தீன அரசை அங்கீகரிப்பது, அமைதியான சகவாழ்வையும் ஹமாஸின் முடிவையும் விரும்புவோருக்கு அதிகாரம் அளிப்பதாக தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/4835dcee.json)
+
+---
+
+### நான்கு வெவ்வேறு பகுதிகளில் இடம்பெற்ற வீதி விபத்துக்களில் நால்வர் உயிரிழப்பு!
+
+*2025-09-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225708) · `ta`
+
+நாடு முழுவதும் நான்கு பகுதிகளில் இடம்பெற்ற வெவ்வேறு வீதி விபத்துக்களில் நால்வர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+அதன்படி,  இலுப்பகடவை பொலிஸ் பிரிவில் யாழ்ப்பாணம்-மன்னார் வீதியில் உள்ள கல்லியடி பகுதியில் நேற்று பிற்பகல் மன்னாரில் இருந்து யாழ்ப்பாணம் நோக்கிச் சென்ற மோட்டார் சைக்கிள், முன்னால் சென்ற பஸ்ஸை முந்திச் செல்ல முற்பட்டபோது கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் பின்புறத்தில் இருந்த பயணி உள்ளிட்ட இருவரும் பலத்த காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+இதேவேளை, முல்லேரியா பொலிஸ் பிரிவில் உள்ள கடுவளை - அங்கொட வீதியில் உள்ள அங்கொட சந்தியில், கடுவளையிலிருந்து அங்கொட நோக்கிச் சென்ற மோட்டார் சைக்கிள் ஒன்று கட்டுப்பாட்டை இழந்து வீதியில் கவிழ்ந்து விபத்துக்குள்ளானது.
+
+இந்த விபத்தில், மோட்டார் சைக்கிள்; ஓட்டுநர் பலத்த காயமடைந்து வைத்தியசாலையில்; அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/80c1fd55.json)
+
+---
+
+### லெபனான் மீது இஸ்ரேல் தாக்குதல் : குழந்தைகள் உட்பட 5 பேர் பலி
+
+*2025-09-22 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225705) · `ta`
+
+லெபனான் மீதான இஸ்ரேலிய தாக்குதலில் குழந்தைகள் உட்பட 5 பேர் கொல்லப்பட்டதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+லெபனானில் குழந்தைகள் மீதான தாக்குதலை இஸ்ரேல் ஏற்றுக்கொண்டுள்ளது. இஸ்ரேலிய இராணுவம் இன்று அதிகாலை தெற்கு லெபனானில் தாக்குதலொன்றை நடத்தியதாகக் கூறுகிறது.
+
+லெபனானின் தெற்கு நகரமான பின்ட் ஜபீலில் நடந்த தாக்குதலில் கொல்லப்பட்டவர்களில் மூன்று குழந்தைகளும் அடங்குவதாக லொபனானின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+இஸ்ரேலிய இராணுவம் தாக்குதலின் இலக்கு ஒரு ஹிஸ்புல்லா உறுப்பினர் என்றும், அவரும் கொல்லப்பட்டதாகவும் அறிக்கையொன்றில், குறிப்பிடப்பட்டுள்ளது.
+
+இந்த "தாக்குதலின் விளைவாக, சம்பந்தப்படாத பொதுமக்கள் கொல்லப்பட்டனர்" என அந்த நாட்டு இராணுவம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/dbafb8d5.json)
+
+---
+
+### பாலஸ்தீன அரசை பிரித்தானியா அங்கீகரித்துள்ளது !
+
+*2025-09-22 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225704) · `ta`
+
+மத்திய கிழக்கில் வளர்ந்து வரும் பயங்கரவாதத்தை எதிர்கொண்டு, அமைதி மற்றும் இரு - மாநில தீர்வுக்கான சாத்தியத்தை உயிர்ப்புடன் வைத்திருக்க நாங்கள் செயல்படுகிறோம் என அவர் தமது எக்ஸ் தளத்தில் காணொளி அறிக்கையொன்றினூடாக பதிவிட்டுள்ளார்.
+
+அவுஸ்திரேலியா, கனடா மற்றும் போர்த்துகல் ஆகியவை பாலஸ்தீன அரசை முறையாக அங்கீகரிப்பதாக அறிவித்துள்ளன.
+
+இதன் விளைவாக், காசாவில் பணையக் கைதிகளின் குடும்பங்கள் மற்றும் சில பழமைவாதிகளிடமிருந்து இஸ்ரேலிய அரசாங்கம் கடுமையான விமர்சனங்களைப் பெற்றுள்ளது.
+
+இதற்கு பதிலளித்த இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாகு, பாலஸ்தீன அரசு "நடக்காது" என ஞாயிற்றுக்கிழமை(21) குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/38d9231a.json)
+
+---
+
+### Do not understand my pet ...
 
 *2025-09-22 09:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்-செல்லத்துக்கு-புரியலையா/62-365036) · `ta`
 
@@ -40,15 +250,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/1b9c8a1c.json)
 
+[Extended Data](ext_articles/1b9c8a1c.ext.json)
+
 ---
 
-### அடிங்க சார் ஒரேயொரு பல்டிய அடிச்சிடுங்க...
+### Adinga sir
 
 *2025-09-22 09:54:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அடிங்க-சார்-ஒரேயொரு-பல்டிய-அடிச்சிடுங்க/62-365035) · `ta`
 
 ◼️
 
 [Data](articles/43d6047a.json)
+
+[Extended Data](ext_articles/43d6047a.ext.json)
+
+---
+
+### யாழ்ப்பாணத்தில் ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் இன்று ஆரம்பம்!
+
+*2025-09-22 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225713) · `ta`
+
+தொழிலாளர் அமைச்சினால் ஏற்பாடு செய்யப்பட்ட ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் திங்கட்கிழமை ( செப்டெம்பர் 22) ஆரம்பிக்கப்பட்டுள்ளது.
+
+தொழிலாளர் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தலைமையில் காலை 9.00 மணிக்கு யாழ்ப்பாணத்தில் ஆரம்ப நிகழ்ச்சி நடைபெற்றதாக அமைச்சு தெரிவித்துள்ளது.
+
+ஊழியர் சேமலாப நிதியத்தின் நடமாடும் சேவை வாரம் நாடு முழுவதும் நடத்தப்படும் என எதிர்ப்பார்க்கப்படுகிறது.
+
+ஊழியர் சேமலாப நிதியத்தின் உறுப்பினர்கள் தொடர்பான பிரச்சினைகளைத் தீர்ப்பது, வேலை கண்காட்சிகள் மூலம் வேலை வாய்ப்புகளை வழங்குவது மற்றும் சட்ட ஆலோசனை மற்றும் வழிகாட்டுதல்களை வழங்குவது உள்ளிட்ட பல்வேறு சேவைகள் இந்த திட்டத்தின் மூலம் வழங்கப்படும் என அமைச்சு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e9ead4b4.json)
+
+---
+
+### Two bodies recovered from Tangalle house under renovation
+
+*2025-09-22 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112754/two-bodies-recovered-from-tangalle-house-under-renovation) · `en`
+
+Police have recovered two bodies from an old house currently being renovated in the Seenimodara area of Tangalle.
+
+In addition, another body is lying at the hospital morgue, of a person who died shortly after being admitted to the Tangalle Base Hospital, Ada Derana reporter said.
+
+During the investigation, 10 packets of the drug ‘ICE’ have also been seized from a lorry which was parked near the premises.
+
+Police have commenced further investigations into the incident, while the Government Analyst is conducting post-mortem examinations.
+
+◼️
+
+[Data](articles/07729d79.json)
 
 ---
 
@@ -83,6 +333,66 @@ Two golden magazines suspected of resource Majarakri suspected and a hand grenad
 [Data](articles/10eb39b6.json)
 
 [Extended Data](ext_articles/10eb39b6.ext.json)
+
+---
+
+### Weapons & ammunition belonging to Sampath Manamperi found in Middeniya
+
+*2025-09-22 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112753/weapons-ammunition-belonging-to-sampath-manamperi-found-in-middeniya) · `en`
+
+Police have recovered a 9mm pistol, two T-56 magazines, 115 rounds of T-56 ammunition, and a hand grenade, suspected to belong to Sampath Manamperi.
+
+The items were discovered buried in a plot of land in Middeniya, the Police Media Spokesman stated.
+
+Investigations revealed that these firearms and ammunition were reportedly provided to Sampath Manamperi by underworld figure ‘Backhoe Saman’ around two months ago.
+
+Interrogations further indicated that Sampath Manamperi had buried the firearms and ammunition behind the house of a female acquaintance.
+
+Sampath Manamperi is currently in remand over the earlier recovery of buried containers containing chemicals.
+
+The Walasmulla Magistrate’s Court on September 17 granted the Police Narcotics Bureau (PNB) permission to detain Sampath Manamperi for seven days for questioning. He is accused of concealing two containers of raw materials reportedly used in the production of the drug ‘Ice,’ allegedly belonging to underworld figure Kehelbaddara Padme.
+
+...
+
+[Data](articles/9385705d.json)
+
+---
+
+### President Dissanayake to undertake an official visit to Japan
+
+*2025-09-22 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112752/president-dissanayake-to-undertake-an-official-visit-to-japan) · `en`
+
+At the invitation of the Government of Japan, President Anura Kumara Dissanayake will undertake an Official Visit to Japan from September 27-30, 2025.
+
+During the visit, President Dissanayake will have an audience with His Majesty the Emperor of Japan and he will hold a summit meeting with the Japanese Prime Minister on a wide range of issues of mutual interest, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+President Dissanayake will address a Business Forum attended by high-level representatives of key Japanese businesses and investors in Tokyo focused on emerging economic opportunities in Sri Lanka.
+
+President Dissanayake will also attend “EXPO 2025 Osaka” as a Guest of the Government of Japan on the occasion of Sri Lanka Day at the Expo 2025. The event aims to highlight Sri Lanka’s cultural heritage and economic potential before an international audience, the statement said.
+
+...
+
+[Data](articles/42dd9a01.json)
+
+---
+
+### Trump hails Charlie Kirk as ‘American hero’ as thousands fill memorial service
+
+*2025-09-22 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112751/trump-hails-charlie-kirk-as-american-hero-as-thousands-fill-memorial-service) · `en`
+
+US President Donald Trump hailed the conservative activist Charlie Kirk as a “great American hero” and “martyr” during a speech to tens of thousands of mourners at a memorial service in Arizona.
+
+Trump was the headline speaker at the packed event on Sunday, which saw top officials from his administration, including Vice-President JD Vance, praise Kirk’s political legacy after he was shot dead on 10 September.
+
+“He was assassinated because he lived bravely, he lived boldly and he argued brilliantly,” Trump told the crowd at the State Farm Stadium near Phoenix.
+
+Kirk’s wife, Erika, also delivered a tearful speech in which she said she had forgiven her husband’s alleged killer.
+
+“My husband, Charlie, he wanted to save young men, just like the one who took his life,” she said, adding: “I forgive him because it is what Christ did. The answer to hate is not hate.”
+
+...
+
+[Data](articles/a5d3a7e0.json)
 
 ---
 
@@ -211,6 +521,24 @@ Police have taken steps to bring the arrested suspicions and evidence in court. 
 [Data](articles/5b3fe9c1.json)
 
 [Extended Data](ext_articles/5b3fe9c1.ext.json)
+
+---
+
+### ඊශ්‍රායෙලයේ වීසා නැතිව ඉන්න ලාංකිකයන් සුබ ආරංචියක්
+
+*2025-09-22 07:49:59* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙලයේ-වීසා-නැතිව-ඉන්න-ලාංකිකයන්-සුබ-ආරංචියක්/11-418640) · `si`
+
+ඊශ්‍රායලයේ ජිවත්වන වීසා නොමැති ශ්‍රී ලාංකිකයන්ට වීසා  ලබාගැනීම  පිළිබඳව සාකච්ඡා සිදුකළ බව ඊශ්‍රායෙලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පැවැසීය.
+
+ඊශ්‍රායෙලය හා ශ්‍රී ලංකාව අතර පාර්ලිමේන්තු මට්ටමින් සහයෝගිතාවය ගොඩ නැගීම‍ෙපිළිබඳව දෙවන හමුවේ දී  ඊශ්‍රායිල්  පාර්ලිමේන්තුවේ  පිහිටුවා  ඇති පාර්ලිමේන්තු මිත්‍රත්ව සංගමයේ  වාර්ෂි හමුවේ දී  යළිත් මේ පිළිබඳව  සාකච්ඡාවට භාජනය වූ බව ඔහු පවසයි.
+
+ශ්‍රී ලාංකිකයන්ට අමතරව වෙනත් විදේශීය ජාතිකයන් ද විසා නොමැතිව සිටින බැවින් ඒ  ගැන ඊශ්‍රායෙල් පාර්ලිමේන්තුවේ විදේශ සේවකයන් පිළිබඳව කමිටුව හමුවේ කරුණ දක්වන ලෙස ඔවුන් සඳහන් කළ බවද තානාපතිවරයා පවසයි.
+
+මේ පිළිබඳව ඊශ්‍රායෙල් පාර්ලිමේන්තුවේ විදේශ සේවකයන්  පිළිබඳව කමිටුව හමුවේ කරුණු දැක්වීමට නියමිත බවත්  මේ හමුව සඳහා ඊශ්‍රායිල්  ශ්‍රී ලංකා මිත්‍රත්ව සංගමයේ සභාපති Dr. Tsega Melaku, ඊශ්‍රායිල්  විදේශ කටයුතු අමාත්‍යංශයේ නිලධාරින්, පාර්ලිමේන්තුවේ විදේශ ප්‍රතිපත්ති අංශයේ නිලධාරීන් හා ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ නියෝජ්‍ය ප්‍රධානි හේමන්ත ඒකනායක මහතා ද සහභාගිවූ බව ඔහු වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/6c00a0eb.json)
 
 ---
 
@@ -1244,6 +1572,18 @@ The Consumer Affairs Authority (CAA) has warned that if a private trader is foun
 
 ---
 
+### Tamil Nadu fishers  must stop their illegal fishing and Bottom Trawling   in Sri Lankan Northern Waters. Long suffering Tamil fishermen should be able  to  rebuild their lives and resurrect  their livelihood
+
+*2025-09-21 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86445) · `en`
+
+The on going problem of illegal fishing and bottom trawling in Sri Lanka’s northern territorial waters  by Indian fishers from Tamil Nadu state was described in detail in the first part of this  article published last week.Particular attention was devoted to the bogey of Katchatheevu being raised by the Indian side to  sidetrack the issue. As emphasised previously the fundamental problem is illegal fishing in Sri Lankan waters and not the question of Katchatheevu islet ownership.   Certain salient points regarding the illegal fishing by Tamil Naqdu fishers will be realeted in this second and final part of this article.
+
+...
+
+[Data](articles/54fdec77.json)
+
+---
+
 ### Massive leakage plant blockade at Valaichenai Kinniyadi Wavi
 
 *2025-09-21 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/225687) · `ta`
@@ -1645,413 +1985,5 @@ Through this continuing collaboration, Seylan Bank will extend tailored financia
 [Data](articles/dda0c4dc.json)
 
 [Extended Data](ext_articles/dda0c4dc.ext.json)
-
----
-
-### Drug trafficker ‘Potta Amila’ arrested along with three associates
-
-*2025-09-21 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112739/drug-trafficker-potta-amila-arrested-along-with-three-associates) · `en`
-
-A key member of an organized crime gang and known drug trafficker, ‘Potta Amila’ has been arrested by the Moragahahena Police, along with three of his close associates.
-
-The suspects were found in possession of 5,300 narcotic pills and 15,000 milligrams of crystal methamphetamine ‘Ice’, with an estimated street value of approximately Rs. 1 million. Police also seized three mobile phones believed to have been used in drug trafficking activities.
-
-Police noted, one of Potta Amila’s associates was first arrested while arriving in Kumbukawatta, Gonapola to distribute crystal methamphetamine. Based on intelligence received by officers from the Moragahahena Police, the Criminal Investigation Division, and the Special Task Force (STF), an inspection was carried out and he was found to be carrying 2,200 milligrams of Ice.
-
-During interrogation, the suspect revealed that the drugs were given to him by Potta Amila to be handed over to another individual.
-
-...
-
-[Data](articles/7acb9ddc.json)
-
-[Extended Data](ext_articles/7acb9ddc.ext.json)
-
----
-
-### World’s oldest person, 116, meets King Charles
-
-*2025-09-21 17:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112738/worlds-oldest-person-116-meets-king-charles) · `en`
-
-King Charles III has made a special visit to the world’s oldest person, who told him she remembered “all the girls were in love with you and wanted to marry you”.
-
-Ethel Caterham, 116, lives in a care home in Lightwater, Surrey, and is the last surviving subject of Edward VII.
-
-Mrs Caterham became the oldest living person in April following the death of Brazilian nun Sister Inah Canbarro Lucas at the age of 116.
-
-After previously revealing she would have swapped her quiet birthday celebration to meet the King, the monarch duly obliged a few weeks later.
-
-Born on 21 August 1909, three years before the Titanic disaster, Mrs Caterham has lived through the Russian Revolution, the Great Depression, two world wars and the Covid-19 pandemic.
-
-On her 115th birthday she received a letter from King Charles congratulating her on a “truly remarkable milestone”.
-
-She told the monarch on Thursday: “I remember when your mother crowned you in Caernarfon Castle.”
-
-...
-
-[Data](articles/705986ad.json)
-
-[Extended Data](ext_articles/705986ad.ext.json)
-
----
-
-### Malta national seizes a place suspected to produce ice
-
-*2025-09-21 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214832) · `si`
-
-An overseas national has been arrested for a place of use of the Ice drug in Weligama area.
-
-It is said that the suspects were an 18-year-old Malta.
-
-It has also been discovered that the Metalifest (ice) was also uncovered.
-
-◼️
-
-[Data](articles/d1fa7d87.json)
-
-[Extended Data](ext_articles/d1fa7d87.ext.json)
-
----
-
-### Treasurer arrested for sexual abusing three students
-
-*2025-09-21 17:17:29* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-තිදෙනෙක්-ලිංගික-අපයෝජනය-කළ-පාසල්-පාලක-සභාවේ-භාණ්ඩාගාරික-අල්ලයි/11-418634) · `si`
-
-The Treasurer of the Goverquarters of the ruling in Anuradhapura has been sexually abused and sexually abused a school in Anuradhapura and had sexually abused three and 3 and 3rd boys.
-
-The arrested persons were a 62-year-old resident of the Pulaiar junction in Anuradhapura.
-
-The child's complaint was revealed that the child had come to a complaint made by the school's mother to take the minister's wife and later learned about the incident.
-
-According to the police, he had a signaling of a signaling manner with the help of a signaling manner in a number of occasions when the Treasurer who acts as Treasurer in the ruling in the ruling in the road.
-
-The statement further states that the suspect will visit the school regularly, and the door windows will be saved to the same room.
-
-The suspect was arrested and produced before the Anuradhapura Magistrate's Court and remanded until the 29th.
-
-...
-
-[Data](articles/1e09d88c.json)
-
-[Extended Data](ext_articles/1e09d88c.ext.json)
-
----
-
-### Pattti Amila arrested with drugs and drugs
-
-*2025-09-21 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214831) · `si`
-
-The Moragahahena Police have arrested a drug dealer as well as a drug dealer, a drug dealer and three close friends.
-
-Police have also taken 5,300 drugs and 15,000 milligrams of ice narcotics.
-
-The police also seized three mobile phones used in this smuggler.
-
-The suspect's close association with the officers of the suspect, the suspects have been arrested on the presence of the Moragahapola, police intelligence officers and the Special Bureau of the Hon.
-
-In questioning the suspect, he has said that the drug "Pattila Amila" was given to another person.
-
-He and two others have been arrested in search of 'Pattti Amila' to arrest him and two other people were seized by the police.
-
-The other two suspects were found in possession of 2,100 milligrams of ice and 300 alcohol.
-
-The main suspect, "Pattt Amila 'is a close person in the Boxi Kasun and' Manna Ramim ', police said.
-
-...
-
-[Data](articles/bfdc95d8.json)
-
-[Extended Data](ext_articles/bfdc95d8.ext.json)
-
----
-
-### “Let us unite to defeat the anti -democratic thought”
-
-*2025-09-21 17:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயக-விரோத-ஆட்சிச்-சிந்தனையை-தோற்கடிக்க-ஒன்றிணைவோம்/175-365009) · `ta`
-
-Opposition leader Sajith Premadasa, who has accused the current government of deliberately to form a government in the country and carry out the idea of ​​forming a government in the country, called for unity to defeat the anti -democratic thinking.
-
-They are trying to take control of everything from the Death Assistant Association, the Farmers' Association, the Fishermen's Association, the Youth Club. They are trying to forcibly seize the power and control of all social organizations. The Leader of the Opposition said that even the independent civil defense committee has also been given political appointments.
-
-Opposition Leader Sajith Premadasa said this while addressing a meeting held on Sunday (21) with the newly elected members of the local government in Anuradhapura district.
-
-...
-
-[Data](articles/8318d640.json)
-
-[Extended Data](ext_articles/8318d640.ext.json)
-
----
-
-### 18-year-old from Malta arrested with materials suspected to be used in manufacturing ‘Ice’
-
-*2025-09-21 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112737/18-year-old-from-malta-arrested-with-materials-suspected-to-be-used-in-manufacturing-ice) · `en`
-
-An 18-year-old from Malta has been arrested with materials suspected to be used in manufacturing Methamphetamine ‘Ice’ during a raid in Weligama, police stated.
-
-The individual has been apprehended during a raid conducted at a location in Weligama suspected to be used for production of ‘Ice’ narcotics, according to police.
-
-◼️
-
-[Data](articles/b1f5bc5b.json)
-
-[Extended Data](ext_articles/b1f5bc5b.ext.json)
-
----
-
-### India-Sri Lanka Foundation approves several new projects, including in fisheries sector
-
-*2025-09-21 17:00:00* · [`economynextcom`](https://economynext.com/india-sri-lanka-foundation-approves-several-new-projects-including-in-fisheries-sector-241399/) · `en`
-
-ECONOMYNEXT – The India–Sri Lanka Foundation (ISLF) has approved several new proposals received by the Colombo and New Delhi Secretariats at its 40th meeting held in Colombo recently.
-
-“The Board reviewed the progress of ongoing projects and approved several new proposals received by the Colombo and New Delhi Secretariats across diverse sectors including culture, education, health, environment, agriculture, and capacity building,” the High Commission of India, Colombo said in a statement.
-
-The session was co-chaired by the High Commissioner of India to Sri Lanka Santosh Jha, and the High Commissioner of Sri Lanka to India Mahishini Colonne.
-
-...
-
-[Data](articles/db76f812.json)
-
-[Extended Data](ext_articles/db76f812.ext.json)
-
----
-
-### SLTB conducts an attack on a cargo
-
-*2025-09-21 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214830) · `si`
-
-A conductor of a SLTB bus to travel from Colombo to Kataragama has been assaulted in Galle this morning.
-
-The bus belonging to the Katubedda Depot this bus, a private bus traveling from Colombo to Galle has been played in Colombo to Galle.
-
-The driver of the private bus was trying to attack the SLTB conductor at the time, but it is failed on passengers in the bus.
-
-However, the SLTB bus to Galle had assaulted the driver of the private bus from a three-wheeler.
-
-The conductor who was injured in the bus by the SLTB driver has taken over the conductor to the Galle Police with passengers.
-
-The police intervened and hospitalized the conductor who was injured in a healthy ambulance.
-
-He has been admitted to the Galle National Hospital and has been sent on the SLTB bus and sent passengers on the SLTB bus.
-
-Galle Police are conducting further investigations to arrest the suspects.
-
-◼️
-
-[Data](articles/d0235b19.json)
-
-[Extended Data](ext_articles/d0235b19.ext.json)
-
----
-
-### Colombo fire Group appointment to investigate
-
-*2025-09-21 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225676) · `ta`
-
-A committee has been appointed to investigate the fire that broke out on Saturday at the Electricity Store on Cross Street, Colombo, Pettah, Colombo.
-
-The committee is headed by the Minister of Public Security, Sunil Vatagala.
-
-The fire on Saturday afternoon lasted for about 12 hours and was brought under control after massive operations.
-
-The firefighters of the Colombo Municipal Fire Department, the Sri Lanka Air Force and the Navy were rushed to the scene.
-
-About 15 fire trucks and Air Force Bell-212 Helicopter were used in firefighting to prevent fire to nearby buildings.
-
-◼️
-
-[Data](articles/f8cb2cf6.json)
-
-[Extended Data](ext_articles/f8cb2cf6.ext.json)
-
----
-
-### Duo arrested in connection with assault on German nationals in Unawatuna
-
-*2025-09-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112736/duo-arrested-in-connection-with-assault-on-german-nationals-in-unawatuna) · `en`
-
-Two individuals involved in a tourism sector in Rumassala, Unawatuna, have been arrested by the Tourist Police in connection with an alleged assault on a group of German nationals.
-
-Police stated an altercation occurred last night between six German tourists—comprising three couples attending a party at a tourist hotel in Unawatuna—and two Sri Lankan individuals.
-
-Following the dispute, the German tourists had left the hotel on two motorcycles and a three-wheeler.
-
-Shortly afterwards, the two Sri Lankans involved in the altercation chased after the tourists in a car, intercepted the vehicles, and assaulted the foreign tourists.
-
-The assaulted German nationals lodged a complaint with the Unawatuna Tourist Police regarding the incident.
-
-According to statements given by the German tourists to the Tourist Police, a group of individuals arrived in a motor vehicle and assaulted them.
-
-The Unawatuna Tourist Police had acted swiftly and arrested the suspects shortly after the incident was reported.
-
-...
-
-[Data](articles/8d75215f.json)
-
-[Extended Data](ext_articles/8d75215f.ext.json)
-
----
-
-### Earthquake in Dhaka and other parts of Bangladesh
-
-*2025-09-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225671) · `ta`
-
-International media reports that a mild earthquake has been reported in Bangladesh's Dhaka and other parts of the country this afternoon.
-
-The Department of Meteorology has reported that the magnitude 4.0 earthquake was reported at 12:09 pm.
-
-The Department of Meteorology said that the earthquake was centered 185 kilometers northeast from the seismic station in Dhaka, Dhaka.
-
-The earthquake has been felt in Meghalaya, India after the 4 -magnitude earthquake that struck Bangladesh.
-
-Officials said there were no immediate reports of any damage or casualties in Meghalaya.
-
-Meanwhile, an earthquake research institute has reported a 3.1 magnitude earthquake in Kutch district in Gujarat, India.
-
-◼️
-
-[Data](articles/16e67e30.json)
-
-[Extended Data](ext_articles/16e67e30.ext.json)
-
----
-
-### Central Cultural Fund Rs. 8 are underpired
-
-*2025-09-21 16:10:33* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-සංස්කෘතික-අරමුදලේ-රු-බි--8ක්-අවභාවිත-වෙලා/11-418633) · `si`
-
-Minister of Buddha Sasana and Culture Dissanayake says that an investigation into obesity of Rs. 8,000 million is being conducted by the Central Cultural Fund.
-
-The Minister said that a three-member committee has been appointed to inspect the irregularities of religious places and the Central Cultural Fund (Central Cultural Fund) to provide financial assistance to the National Cultural Fund within 2017 to 2020.
-
-These investigations are under the appointment of a committee to check on these irregularities at the 213rd Gover of the Central Cultural Fund last 17th May.
-
-The Minister further stated that after the final report of the committee, the people who insisted the public will be implemented without ranking.
-
-◼️
-
-[Data](articles/0d09ec6a.json)
-
-[Extended Data](ext_articles/0d09ec6a.ext.json)
-
----
-
-### Woman arrested for stealing mother -in -law
-
-*2025-09-21 16:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியின்-நகையை-திருடி-மற்றொருவருடன்-குடும்பம்-நடத்திய-பெண்-கைது/175-365003) · `ta`
-
-The incident took place in the Ingiriya police division, who was arrested with her second husband and her second husband, who had stolen gold jewelery worth 28 and half a million rupees worth of her mother -in -law, who had separated from her husband and had a family with another man.
-
-A 40 -year -old man who lives in Horana area and a 38 -year -old woman who had a family of Meebay Ingiriya, a 38 -year -old woman.
-
-The woman, who is said to be the wife of a professor from Ingiriya, developed a relationship with another man while she went to study a course.. Later, she went to live with the second man, complaining to the police, claiming to be difficult to live with her husband.
-
-About a week later, the mother -in -law of the woman's husband, knowing that more than 2.8 million gold jewelery she had had, lodged a complaint with the Ingiriya police.
-
-...
-
-[Data](articles/04b35b0d.json)
-
-[Extended Data](ext_articles/04b35b0d.ext.json)
-
----
-
-### A dead body of a young man who died in mysteriously meet
-
-*2025-09-21 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214829) · `si`
-
-The body of a youth of a youth who died was in a culvert in the Yakalla area in Ibbagamuwa has been recovered.
-
-The deceased has been identified as a resident of the Ibbagamuwa Park area.
-
-The police said that the deceased has also lodged a complaint that the deceased had been disappeared from last night.
-
-Residents have told the police that the young man who had served as a workers' farm last night, but he had not received any information since 10 pm.
-
-◼️
-
-[Data](articles/5aef0b52.json)
-
-[Extended Data](ext_articles/5aef0b52.ext.json)
-
----
-
-### Chinese ‘research ship’ Yuan Wang 5 re-enters Indian Ocean after three years
-
-*2025-09-21 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112735/chinese-research-ship-yuan-wang-5-re-enters-indian-ocean-after-three-years) · `en`
-
-Three years after its controversial entry into the Indian Ocean, China’s Yuan Wang 5 — a vessel officially designated as a ‘research ship’ but widely recognised as a sophisticated intelligence-gathering platform — has once again been tracked near the region, sparking fresh concerns in India’s security establishment.
-
-According to Indian and Bangladeshi naval sources, the ship was located at 11.0288 S and 100.9873° E at 02:38 UTC (around 8:10 pm IST) on Saturday through the Automatic Identification System (AIS). The vessel has been under close watch since it left Indonesia about 36 hours earlier, with Bangladeshi naval officers noting its likely trajectory toward the Bay of Bengal.
-
-While Dhaka has been openly monitoring the ship’s movements, Indian authorities have remained tight-lipped. However, sources in the national security and intelligence agencies have admitted that the vessel’s entry is being taken “very seriously” given its advanced space-tracking and surveillance capabilities.
-
-...
-
-[Data](articles/7e1022aa.json)
-
-[Extended Data](ext_articles/7e1022aa.ext.json)
-
----
-
-### The Sri Lanka Transport Board (SLTB) to hire uniforms like air maids
-
-*2025-09-21 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225667) · `ta`
-
-Steps have been taken to hire women as drivers and conductors to the Sri Lanka Transport Board.
-
-Transport Minister Bimal Ratnayake has said that they will be given uniforms for the uniform of the flight attendants.
-
-He added that there were interviews to hire 450 drivers and 300 operators and female staff were included in it.
-
-In the early stages, before the project is expanded, women will be hired on school buses in the Colombo district.
-
-◼️
-
-[Data](articles/f8534aaf.json)
-
-[Extended Data](ext_articles/f8534aaf.ext.json)
-
----
-
-### Body of a male found near canal in Ibbagamuwa
-
-*2025-09-21 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112734/body-of-a-male-found-near-canal-in-ibbagamuwa-) · `en`
-
-A body of a young male who had died under mysterious circumstances has been discovered near a canal in Ibbagamuwa by the Gokarella Police.
-
-The deceased has been identified as a 21-year-old resident of Ibbagamuwa.
-
-According to police, a complaint had been lodged this morning stating that the young man had been missing since last night.
-
-The individual had been working at a livestock farm and had informed residents that he would return home after completing his shift. However, residents informed police that no contact was received from him after 10:00 p.m. yesterday.
-
-◼️
-
-[Data](articles/aa92cb3e.json)
-
-[Extended Data](ext_articles/aa92cb3e.ext.json)
-
----
-
-### Defense Secretary is not the only conflict - real peace can be achieved
-
-*2025-09-21 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214828) · `si`
-
-Defense Secretary Air Vice Marshal Sampantha TiCantha says that true peace will be achieved only by the conflict, the contact, mutual understanding and creative approaches.
-
-The Defense Secretary explained the statement made by President XI Jinping by President XI Jinping by Hon.
-
-He also said that this conference provides an important platform to feed the Chinese government for inviting Sri Lanka to Sri Lanka in Sri Lanka with the invitation to Sri Lanka in the Asia-Pacific region.
-
-The Strategic Geographical location of Sri Lanka has also emphasized the long-term commitment to Sri Lanka's long-standing, open and open zone.
-
-He further stated that Sri Lanka is preparing to establish diplomatic relations between countries in the Asian region and the necessary facilities for economic and cultural conversation.
-
-...
-
-[Data](articles/84fb7b2d.json)
-
-[Extended Data](ext_articles/84fb7b2d.ext.json)
 
 ---

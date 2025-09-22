@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 16:54:25**
+As of **2025-09-22 16:10:32**
 
 ## Newspaper Stats
 
-*Scraped **77,446** Articles*
+*Scraped **77,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,175 +16,37 @@ economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,525
-adaderanalk | 10,020
-tamilmirrorlk | 11,648
-virakesarilk | 12,606
-adaderanasinhalalk | 13,528
+adalk | 7,524
+adaderanalk | 10,018
+tamilmirrorlk | 11,647
+virakesarilk | 12,604
+adaderanasinhalalk | 13,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,443 (100.0%) of 77,446 articles have been extended.
+77,436 (100.0%) of 77,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### ඉන්දියාවේ දැවැන්ත බදු කප්පාදුවක්
-
-*2025-09-22 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214872) · `si`
-
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි විසින් භාණ්ඩ හා සේවා මත අයකරන බදු (GST) අනුපාතිකයන් හි දැවැන්ත කප්පාදුවක් නිවේදනය කර ඇත.
-
-ඊයේ (21) දින ජාතිය අමතමින් ඉන්දීය අග්‍රාමාත්‍යවරයා ඒ බව පවසා තිබේ.
-
-මෝදි අග්‍රාමාත්‍යවරයා මෙහිදී පවසා ඇත්තේ මෙම “මීළඟ පරපුරේ ප්‍රතිසංස්කරණ“ සමඟින් දෛනික පරිභෝජනය සඳහා අවශ්‍ය භාණ්ඩ වඩාත් අඩුමිලකට මිලදී ගැනීමට ජනතාවට අවස්ථාව උදාවනු ඇති බවය.
-
-එසේම ඉන්දියාව තුළ නිෂ්පාදනය කරනු ලබන භාණ්ඩ මත පනවා ඇති GST අනුපාතිකයන් පහළ දැමීම හරහා ස්වදේශීය නිෂ්පාදකයින් හට සිය නිෂ්පාදිත තවදුරටත් අඩු මිලකට පාරිභෝගික ජනතාවට ලබාදීමට අවස්ථාව උදා වන බැවින් ඔවුන් හට සිය ව්‍යාපාර වර්ධනය කර ගැනීමේ අවස්ථාවද මෙමගින් හිමිවන බව අග්‍රාමාත්‍යවරයා සඳහන් කර සිටී.
-
-තවද අග්‍රාමාත්‍ය මෝදි මෙහිදී ජනතාවගෙන් ඉල්ලා සිටින්නේ සිය රටේ නිෂ්පාදිත වැඩිවැඩියන් මිල දී ගැනීමට කටයුතු කරන ලෙසය.
-
-මෙම GST බදු කප්පාදුව මධ්‍යම පාංතිකයින් හට දැනෙන බදු කප්පාදුවක් බවත්, එසේම දිළිඳු සහ නැගී එන මධ්‍යම පාංතික ජනතාව වෙතද දැඩි සහනයක් අත්කර දෙනු ඇති බවත්, අග්‍රමාත්‍ය මෝදි මෙහිදී අවධාරණය කර සිටී.
-
-◼️
-
-[Data](articles/4dfd024d.json)
-
----
-
-### குஜராத் துறைமுகத்தில் நங்கூரமிட்டிருந்த கப்பலில் தீ விபத்து
-
-*2025-09-22 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225756) · `ta`
-
-குஜராத் மாநிலத்தில் போர்பந்தர் சுபாஷ்நகர் துறைமுகத்தில் நங்கூரமிட்டிருந்த கப்பலில் தீ விபத்து ஏற்பட்டுள்ளது.
-
-தீப்பரவலை கட்டுப்பாட்டுக்குள் கொண்டுவருவதற்காக 3 தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு அனுப்பப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது.
-
-இந்த கப்பல் ஜாம்நகரைச் சேர்ந்த HRM & Sons நிறுவனத்திற்குச் சொந்தமானது. இது சோமாலியாவின் போசாசோ நகருக்குச் செல்லவிருந்த நிலையிலேயே தீ விபத்துக்குள்ளாகி உள்ளது.
-
-அரிசி மூடைகளை ஏற்றியிருந்த கப்பலில் தீ தீவிரமடைந்ததால், அது கடலின் நடுப்பகுதிக்கு இழுத்துச் செல்லப்பட்டது. இந்த நடவடிக்கை, துறைமுகத்தில் உள்ள ஏனைய கப்பல்களுக்கு தீ பரவாமல் தடுக்க உதவியது.
-
-தீயை முழுமையாக அணைக்கும் பணிகள் தொடர்ந்து நடைபெற்று வருகின்றன. தீ விபத்துக்கான காரணம் குறித்து விசாரணை நடடைபெற்று வருகின்றமை குறிப்பிடதக்கது.
-
-◼️
-
-[Data](articles/9c637935.json)
-
----
-
-### A written inspection to recruit two positions in the police
-
-*2025-09-22 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214871) · `si`
-
-The written inspection to recruit officials for the sub-inspector of Police and Police Constable, the Government Gazette No. 2442 - 2025.20, will be held on 04.05.2015.
-
-Accordingly, 7,036 examination candidates will be held in seven examination centers island wide.
-
-Written inspection for the sub-inspector post will be held from 01st to 4:00 pm on October.
-
-By 2025.09.2015, the candidates are able to prompt exam tickets for the examination tickets on 011- 2687333 or 011-26873329.
-
-◼️
-
-[Data](articles/45ab04b7.json)
-
-[Extended Data](ext_articles/45ab04b7.ext.json)
-
----
-
-### CEB employee arrested for accommodation
-
-*2025-09-22 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214870) · `si`
-
-A Ceylon Electricity Board (CEB) was arrested by the Police Narcotics Bureau in Middeniya.
-
-It is reported that investigations have been taken into custody in the suspect's possession.
-
-◼️
-
-[Data](articles/5f2e5122.json)
-
-[Extended Data](ext_articles/5f2e5122.ext.json)
-
----
-
-### 20 வருடங்களாக மருத்துவராக ஏமாற்றி வந்த நபர் கைது!
-
-*2025-09-22 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225748) · `ta`
-
-சுமார் இரண்டு தசாப்தங்களாக மருத்துவராக ஏமாற்றி வந்ததாகக் கூறப்படும் 54 வயது நபர் நேற்று மாலை (21) எகொட உயனவில் வைத்து கைது செய்யப்பட்டுள்ளார்.
-
-வாத்துவை, தெல்துவை பகுதியைச் சேர்ந்த இந்த சந்தேக நபர், ஸ்ரீ தலருக்காராம விஹாரைக்கு அருகில் சஹன சேவா என்ற மருத்துவ நிலையத்தை நடத்தி வந்துள்ளார்.
-
-வேறொருவருக்கு சொந்தமான இலங்கை மருத்துவ சபை பதிவு இலக்கத்தை பயன்படுத்தி நோயாளிகளுக்கு சிகிச்சை அளித்து வந்ததாக பொலிஸார் தெரிவித்தனர்.
-
-விசாரணைகளில் அந்த நிலையத்தில் உரிமம் பெறாத மருந்துகள் இருப்பதும் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/abd6fa6e.json)
-
----
-
-### Gun Ravi Rescue Rescue
-
-*2025-09-22 16:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மண்டைதீவு-மைதானம்-புனரமைப்பு-பணியில்-துப்பாக்கி-ரவைகள்-மீட்பு/71-365068) · `ta`
-
-Yall. The inaugural reconstruction work was carried out last Saturday (20). In the meantime, the gun ravages were found
-
-Initial work is currently underway in the Mandi Island area of ​​the town police division.
-
-In this case, a number of T56 rifles were discovered. Information has been provided to the Kayts police
-
-Resurrection. The permission was rescued on Monday (21) on Monday (21st) in accordance with the Kayts Court order in accordance with the request of the Kayts Court on Sunday (21).
-
-◼️
-
-[Data](articles/0cfca945.json)
-
-[Extended Data](ext_articles/0cfca945.ext.json)
-
----
-
-### National inflation rises
+### ජාතික උද්ධමනය ඉහළට
 
 *2025-09-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214869) · `si`
 
-According to the National Customer Price Index (NCPI), the country's point of surface increased to 1.5%.
+ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව 2025 අගෝස්තු මාසයේ මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 1.5%ක් දක්වා ඉහළ ගොස් තිබේ.
 
-The latest report issued by the Department of Census and Statistics indicate the value of this value in July 2025.
+ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි දැක්වෙන්නේ 2025 ජූලි මාසයේ දී මෙම අගය වාර්තා වූ යේ 0.7% ක් ලෙසය.
 
-The feeding of food recorded as 2.2% in July increased to 2.9% in August.
+ජූලි මාසයේ දී 2.2% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 2.9%ක් දක්වා වැඩි වී තිබේ.
 
-The latest report released by the Department of Census and Statistics that the non-food nor of food inflation increased to 0.4% in July.
+ජූලි මාසයේ දී -0.6% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 0.4% ක් දක්වා වැඩි වී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි වැඩිදුරටත් සඳහන්ය.
 
 ◼️
 
 [Data](articles/fee33691.json)
-
-[Extended Data](ext_articles/fee33691.ext.json)
-
----
-
-### Sri Lanka’s inflation climbs to 1.5% in August
-
-*2025-09-22 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112774/sri-lankas-inflation-climbs-to-15-in-august) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 1.5% in August 2025, compared to 0.7% in July 2025, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has increased to 2.9% in August compared to 2.2% in July and the Year-on-Year inflation of the non-food group increased to 0.4% last month from -0.6% in July.
-
-The contribution of food commodities to inflation was 1.26% in August compared to July, 2025.
-
-The NCPI for all items for the month of August 2025 is 207.2 and it records a decrease of 1.1 in index points compared to July.
-
-◼️
-
-[Data](articles/af26fb53.json)
-
-[Extended Data](ext_articles/af26fb53.ext.json)
 
 ---
 
@@ -217,28 +79,6 @@ The Colombo Magistrate Court today (22) ordered that the case was filed in writi
 [Data](articles/d26e2fdc.json)
 
 [Extended Data](ext_articles/d26e2fdc.ext.json)
-
----
-
-### World summit to meet on two-state solution as support grows for Palestinian state
-
-*2025-09-22 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112773/world-summit-to-meet-on-two-state-solution-as-support-grows-for-palestinian-state) · `en`
-
-France and Saudi Arabia will convene dozens of world leaders on Monday to rally support for a two-state solution, with several of them expected to formally recognise a Palestinian state - a move that could draw harsh Israeli and U.S. responses.
-
-While the summit could boost the morale of Palestinians, it is not expected to deliver change on the ground, where the most far-right government in Israel’s history has declared there will be no Palestinian state as it pushes on with its war against Hamas in Gaza.
-
-Efforts to create a two-state solution have failed to make any progress for decades as violence raged.
-
-Israel and the United States will boycott the summit, Israel’s U.N. Ambassador Danny Danon, said, describing the event as a “circus.”
-
-Britain, Canada, Australia and Portugal all recognised a Palestinian state on Sunday. France and five other states are expected to also formally recognise a Palestinian state on Monday.
-
-...
-
-[Data](articles/8be7d409.json)
-
-[Extended Data](ext_articles/8be7d409.ext.json)
 
 ---
 
@@ -637,30 +477,6 @@ It is noteworthy that Sampath Manamberi is currently being interrogated in conne
 [Data](articles/36ffd265.json)
 
 [Extended Data](ext_articles/36ffd265.ext.json)
-
----
-
-### Electricity employees willingly articulate
-
-*2025-09-22 13:05:44* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-සේවකයෝ-කැමැත්තෙන්-ලිපි-දෙති/11-418647) · `si`
-
-The Ministry of Energy issued a statement that letters will be given to join the new companies established by the Power and Employees Act.
-
-Four state owned companies have begun to connect four full state owned companies established in implementing the Ceylon Electricity Amendment Act.
-
-Accordingly, part of the Ceylon Electricity Board (CEB) employees to provide letters to the institutions they were established as above.
-
-The Ceylon Electricity Board (CEB) has agreed at the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
-
-National Transmission Network Company (Pvt) Ltd will link the above employees of National Transmission Network Company (Pvt) Ltd, Power and Energy Company (Pvt) Ltd (Pvt) Ltd. (Pvt) Ltd (Pvt) Ltd.
-
-The restructuring program that is the structural changes in the country's development goals and structural changes to the development of electricity is being favored by employees of the Ceylon Electricity Board.
-
-◼️
-
-[Data](articles/6ecec332.json)
-
-[Extended Data](ext_articles/6ecec332.ext.json)
 
 ---
 
@@ -2037,5 +1853,195 @@ Further investigations are being conducted by the Ethimale Police to apprehend t
 [Data](articles/426426eb.json)
 
 [Extended Data](ext_articles/426426eb.ext.json)
+
+---
+
+### Electricity is an essential service
+
+*2025-09-22 07:26:54* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කරයි/11-418637) · `si`
+
+President Anura Kumara Dissanayake has issued a special gazette notification by the Presidential Secretary of the power supply.
+
+◼️
+
+[Data](articles/7d873254.json)
+
+[Extended Data](ext_articles/7d873254.ext.json)
+
+---
+
+### A person drowns in bathtub in a hotel
+
+*2025-09-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214849) · `si`
+
+One person was killed following a man drowned in the bathtub at the Katana - Thamma area.
+
+The deceased is a 23 year old resident of Maskeliya area aged 23.
+
+Preliminary investigations have revealed that the man had fun with some other friends and drowning in the bath pool at the bath pool.
+
+◼️
+
+[Data](articles/a290a840.json)
+
+[Extended Data](ext_articles/a290a840.ext.json)
+
+---
+
+### President to leave for US today to attend UN General Assembly
+
+*2025-09-22 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112747/president-to-leave-for-us-today-to-attend-un-general-assembly) · `en`
+
+President Anura Kumara Dissanayake is scheduled to leave for the United States today (22).
+
+During this visit, President Dissanayake is expected to attend the 80th session of the United Nations General Assembly (UNGA).
+
+The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division (PMD).
+
+During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
+
+The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will accompany President Anura Kumara Dissanayake on his official visit.
+
+◼️
+
+[Data](articles/9eb2e971.json)
+
+[Extended Data](ext_articles/9eb2e971.ext.json)
+
+---
+
+### Youth arrested for searching for antiquities
+
+*2025-09-22 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214848) · `si`
+
+A suspect has been arrested in the Gemunupura area in the Etaka area in the Gemunupura area.
+
+The raid was carried out on information received by a group of officers from the Ethamale Police Station.
+
+The suspect is a resident of Gemunupura, Aetimale.
+
+However, another suspect who was in the place has fled the police and a motorcycle who is involved in him belongs to him.
+
+Umemale Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/0077872e.json)
+
+[Extended Data](ext_articles/0077872e.ext.json)
+
+---
+
+### Gazette issued declaring services related electricity supply as essential public services
+
+*2025-09-22 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112746/gazette-issued-declaring-services-related-electricity-supply-as-essential-public-services) · `en`
+
+An Extraordinary Gazette notification has been issued by President Anura Kumara Dissanayake, declaring all services connected to the supply of electricity as essential public services.
+
+Exercising the powers vested in him under Section 2 of the Essential Public Services Act, No. 61 of 1979, the President has taken steps to designate electricity-related services as essential to the life of the community.
+
+The order, issued yesterday (21), states that services provided by any Public Corporation, Government Department, Local Authority, or Co-operative Society engaged in the supply of electricity are likely to be impeded or interrupted, thereby necessitating the declaration.
+
+With this declaration, all services related to electricity supply will now be treated as essential public services with immediate effect.
+
+The gazette notification was issued by Secretary to the President, Dr. N. S. Kumanayake, on behalf of the President.
+
+◼️
+
+[Data](articles/aebf50b8.json)
+
+[Extended Data](ext_articles/aebf50b8.ext.json)
+
+---
+
+### President to visit China today
+
+*2025-09-22 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214847) · `si`
+
+President Anura Kumara Dissanayake is due to leave for the US today (22).
+
+The President states that the President is due to leave the island this night to attend the 80th session of the United Nations General Assembly.
+
+The President is also scheduled to address the United Nations General Assembly at 3.1 pm on the 24th of this month.
+
+President Anura Kumara Dissanayake is due to join bilateral talks with the Secretary-General of the United Nations and the United States's leaders.
+
+The President is also meeting with Sri Lankans living in the United States.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to join the visit with President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/a407444f.json)
+
+[Extended Data](ext_articles/a407444f.ext.json)
+
+---
+
+### Rain condition continues
+
+*2025-09-22 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214845) · `si`
+
+The extent of rain and wind quality of the island can further expect the existing rain and wind quality.
+
+Showers will occur at times in the Western and Sabaragamuwa provinces and in the North, Matara, Kandy and Nuwara Eliya districts.
+
+The Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+Katt and Hambantota districts in the Central, Western, North-Central and North Western Provinces. Around 30-40ths can cause stronger winds.
+
+The Meteorology Department requests the public to minimize the dangers of lightning and temporary strong winds caused by thunderstorms.
+
+◼️
+
+[Data](articles/9ea267a3.json)
+
+[Extended Data](ext_articles/9ea267a3.ext.json)
+
+---
+
+### Portugal formally recognises Palestinian state, minister says
+
+*2025-09-22 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112745/portugal-formally-recognises-palestinian-state-minister-says) · `en`
+
+Portugal’s Foreign Affairs Minister Paulo Rangel announced on Sunday that the country has now recognised the state of Palestine.
+
+“The recognition of the state of Palestine is the realization of a fundamental, constant, and fundamental line of Portuguese foreign policy,” Rangel told reporters at the headquarters of Portugal’s permanent mission to the United Nations in New York.
+
+He said that “Portugal advocates the two-state solution as the only path to a just and lasting peace...a ceasefire is urgent”, adding Hamas “cannot have any form of control in Gaza or outside it” and demanding the release of all hostages.
+
+Rangel also said that recognizing the state of Palestine “does not erase the humanitarian catastrophe in Gaza,” and he also condemned the situation of starvation there, the destruction, and the “expansion of Israeli settlements in the West Bank.”
+
+◼️
+
+[Data](articles/65cd70ad.json)
+
+[Extended Data](ext_articles/65cd70ad.ext.json)
+
+---
+
+### Showers expected in parts of the island today
+
+*2025-09-22 06:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112744/showers-expected-in-parts-of-the-island-today) · `en`
+
+The Department of Meteorology said that the prevailing showery and windy conditions over the southwestern parts of the island are expected to continue.
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+A few showers may occur in the North Western Province, the Department said.
+
+Showers or thundershowers are likely at a few places in Uva Province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills and in Central, Northern, North Central, and North Western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/165138bc.json)
+
+[Extended Data](ext_articles/165138bc.ext.json)
 
 ---

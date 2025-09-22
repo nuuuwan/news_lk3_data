@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 07:51:44**
+As of **2025-09-22 09:26:44**
 
 ## Newspaper Stats
 
-*Scraped **77,330** Articles*
+*Scraped **77,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,263 @@ economynextcom | 4,673
 dailymirrorlk | 4,733
 islandlk | 4,761
 dailyftlk | 5,496
-adalk | 7,512
-adaderanalk | 9,994
-tamilmirrorlk | 11,625
-virakesarilk | 12,582
-adaderanasinhalalk | 13,507
+adalk | 7,514
+adaderanalk | 10,001
+tamilmirrorlk | 11,629
+virakesarilk | 12,589
+adaderanasinhalalk | 13,509
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,329 (100.0%) of 77,330 articles have been extended.
+77,352 (100.0%) of 77,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### හෝටලයක නාන තටාකයේ ගිලී  පුද්ගලයෙකු ජීවිතක්ෂයට
+### President visits America today
+
+*2025-09-22 08:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-அமெரிக்காவிற்கு-விஜயம்/175-365034) · `ta`
+
+President Anura Kumara Dissanayake is due to visit the United States tonight.
+
+During the visit, the President will attend the 80th General Assembly session of the United Nations.
+
+During the visit, President Anura Kumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several world leaders.
+
+◼️
+
+[Data](articles/05e8cccc.json)
+
+[Extended Data](ext_articles/05e8cccc.ext.json)
+
+---
+
+### EPF Mobile Service Week to begin today in Jaffna
+
+*2025-09-22 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112750/epf-mobile-service-week-to-begin-today-in-jaffna) · `en`
+
+The Employees’ Provident Fund (EPF) Mobile Service Week, organized by the Ministry of Labor, is scheduled to commence today (22).
+
+According to the Ministry, the inaugural program will be held in Jaffna at 9.00 a.m. under the patronage of Deputy Minister of Labor Mahinda Jayasinghe.
+
+Following the inauguration, the EPF Mobile Service Week will be conducted islandwide.
+
+The Ministry further stated that a range of services will be available through the program, including resolving issues related to EPF members, providing employment opportunities through job fairs, and offering legal advice and guidance.
+
+◼️
+
+[Data](articles/1b27dc7d.json)
+
+[Extended Data](ext_articles/1b27dc7d.ext.json)
+
+---
+
+### Ella bus accident is completed
+
+*2025-09-22 08:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-பேருந்து-விபத்தின்-விசாரணை-நிறைவு/175-365032) · `ta`
+
+The Motor Transport Department has completed an investigation into the bus accident that killed 16 people in Ella.
+
+The report is being prepared and the Motor Transport Commissioner is scheduled to be handed over to the Commissioner General of the day within the next two days.
+
+According to the committee report, the bus that was involved in the accident was not properly maintained and the braking system had shortcomings.
+
+Investigations have also revealed that the driver of the bus was operating without proper knowledge of the road.
+
+Meanwhile, police say there was no camera data record of the luxury car that came in front of the bus at the time of the accident.
+
+A spokesman for the Ella Police Status said that the report had been sought from the company's company and that according to the report, no data was stored in the controversial car camera system.. Remble
+
+◼️
+
+[Data](articles/ed917f66.json)
+
+[Extended Data](ext_articles/ed917f66.ext.json)
+
+---
+
+### Four fatal accidents
+
+*2025-09-22 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214852) · `si`
+
+Four persons have died in four fatal accidents in several parts of the country, police said.
+
+Accordingly, a motorcycle who was traveling from Mannar from the Illuppaddawai police division of the Jaffna Mannar yesterday afternoon is an accident.
+
+The motor vehicle and the backpper were seriously injured and the deceased has been identified.
+
+The victim was a 45 year old resident of Jaffna.
+
+At the Kaduwela road in the Mulleriyawa area in the Mulleriyawa area in thengamilla road, a motorcycle traffic was unable to control the motorcycle boasts.
+
+The motorcyclist was seriously injured and taken into custody.
+
+Meanwhile, a tipper who was traveling to Dambulla in Dambulla on the evening of the Trincomalee Dambulla has been confronted with a pedestrian person who has traveled through the road.
+
+The victim was killed and the victim was a 56-year-old resident of Dambulla.
+
+Tractor from Kachchary Police Division was a kachter's kachter's kachcharam near the Kachchary Kodikamam road.
+
+...
+
+[Data](articles/a6d09506.json)
+
+[Extended Data](ext_articles/a6d09506.ext.json)
+
+---
+
+### The rain with the wind today
+
+*2025-09-22 07:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காற்றுடன்-கூடிய-மழை/175-365031) · `ta`
+
+The Department of Meteorology has predicted that the current rainy and wind conditions are expected to continue in the southwestern parts of the country.
+
+Rainfall is expected in the Western and Sabaragamuwa Provinces, Galle, Matara, Kandy and Nuwara Eliya districts, the Department of Weather forecasts said.
+
+Showers or thunderstorms are expected in some places after 2.00 pm in Uva Province and Ampara and Batticaloa districts.. (A)
+
+◼️
+
+[Data](articles/80046063.json)
+
+[Extended Data](ext_articles/80046063.ext.json)
+
+---
+
+### Youth arrested with ice, drug pills
+
+*2025-09-22 07:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-போதை-மாத்திரைகளுடன்-இளைஞன்-கைது/175-365030) · `ta`
+
+Yall. A 27 -year -old youth who has been using ice for a long time in the Uruppu area of ​​the Kopay Police Division has been arrested by the Kopay police with goods used for use.
+
+3600 milligrams of ice and drugs used by the suspect have been seized from the suspect.
+
+Police have taken steps to bring the arrested suspicions and evidence in court. It is also noteworthy that Kopay police are conducting further investigations. (A)
+
+◼️
+
+[Data](articles/5b3fe9c1.json)
+
+[Extended Data](ext_articles/5b3fe9c1.ext.json)
+
+---
+
+### The Ministry of Labor has mobile service week
+
+*2025-09-22 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214850) · `si`
+
+The mobile service weet organized by the Labor Ministry will commence from today (22).
+
+Accordingly, the inauguration program will commence in Jaffna under the patronage of Deputy Minister of Labor Mahinda Jayasinghe from 9.00am.
+
+The Ministry said that the mobile service week is now being planned throughout the island after the inauguration program.
+
+The Ministry of Labor will be available through the workplace, legal advice and guidance of employment opportunities through the Employees Provident Fund.
+
+◼️
+
+[Data](articles/50e7665c.json)
+
+[Extended Data](ext_articles/50e7665c.ext.json)
+
+---
+
+### 23-year-old drowns in hotel swimming pool in Katana
+
+*2025-09-22 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112749/23-year-old-drowns-in-hotel-swimming-pool-in-katana) · `en`
+
+A 23-year-old youth has died after drowning in a hotel swimming pool in the Kandawala area of Katana.
+
+The deceased has been identified as a resident of Maskeliya, Maussakelle.
+
+Preliminary investigations have revealed that the victim drowned while swimming with several friends at the hotel pool, said police.
+
+◼️
+
+[Data](articles/29fb3a97.json)
+
+[Extended Data](ext_articles/29fb3a97.ext.json)
+
+---
+
+### Woman arrested for illegal excavation in Ethimale
+
+*2025-09-22 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112748/woman-arrested-for-illegal-excavation-in-ethimale) · `en`
+
+A female suspect engaged in the illegal excavation of artifacts in the Gemunupura area, within the Ethimale Police Division, has been arrested along with excavation equipment.
+
+The raid was carried out by a team of officers from the Ethimale Police Station, acting on a tip-off.
+
+The arrested suspect has been identified as a 29-year-old resident of Gemunupura, Ethimale, said police.
+
+According to police, another individual who was present at the site managed to flee. Police have seized a motorcycle believed to belong to the absconding suspect.
+
+Further investigations are being conducted by the Ethimale Police to apprehend the suspect who evaded arrest.
+
+◼️
+
+[Data](articles/426426eb.json)
+
+[Extended Data](ext_articles/426426eb.ext.json)
+
+---
+
+### Electricity is an essential service
+
+*2025-09-22 07:26:54* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කරයි/11-418637) · `si`
+
+President Anura Kumara Dissanayake has issued a special gazette notification by the Presidential Secretary of the power supply.
+
+◼️
+
+[Data](articles/7d873254.json)
+
+[Extended Data](ext_articles/7d873254.ext.json)
+
+---
+
+### A person drowns in bathtub in a hotel
 
 *2025-09-22 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214849) · `si`
 
-කටාන - කඳවල ප්‍රදේශයේ හෝටලයක නාන තටාකයෙහි ගිලීමෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+One person was killed following a man drowned in the bathtub at the Katana - Thamma area.
 
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 23ක් වන මාඋස්සාකැලේ, මස්කෙළිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The deceased is a 23 year old resident of Maskeliya area aged 23.
 
-අදාළ පුද්ගලයා තවත් මිතුරන් කිහිපදෙනෙකු සමග විනෝද වෙමින් එම හෝටලයෙහි නාන තටාකයෙහි දිය නාමින් සිටියදී මෙලෙස දියේ ගිලී ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+Preliminary investigations have revealed that the man had fun with some other friends and drowning in the bath pool at the bath pool.
 
 ◼️
 
 [Data](articles/a290a840.json)
+
+[Extended Data](ext_articles/a290a840.ext.json)
+
+---
+
+### President to leave for US today to attend UN General Assembly
+
+*2025-09-22 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112747/president-to-leave-for-us-today-to-attend-un-general-assembly) · `en`
+
+President Anura Kumara Dissanayake is scheduled to leave for the United States today (22).
+
+During this visit, President Dissanayake is expected to attend the 80th session of the United Nations General Assembly (UNGA).
+
+The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division (PMD).
+
+During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
+
+The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath will accompany President Anura Kumara Dissanayake on his official visit.
+
+◼️
+
+[Data](articles/9eb2e971.json)
+
+[Extended Data](ext_articles/9eb2e971.ext.json)
 
 ---
 
@@ -67,6 +295,28 @@ Umemale Police are conducting further investigations to arrest the suspect.
 [Data](articles/0077872e.json)
 
 [Extended Data](ext_articles/0077872e.ext.json)
+
+---
+
+### Gazette issued declaring services related electricity supply as essential public services
+
+*2025-09-22 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112746/gazette-issued-declaring-services-related-electricity-supply-as-essential-public-services) · `en`
+
+An Extraordinary Gazette notification has been issued by President Anura Kumara Dissanayake, declaring all services connected to the supply of electricity as essential public services.
+
+Exercising the powers vested in him under Section 2 of the Essential Public Services Act, No. 61 of 1979, the President has taken steps to designate electricity-related services as essential to the life of the community.
+
+The order, issued yesterday (21), states that services provided by any Public Corporation, Government Department, Local Authority, or Co-operative Society engaged in the supply of electricity are likely to be impeded or interrupted, thereby necessitating the declaration.
+
+With this declaration, all services related to electricity supply will now be treated as essential public services with immediate effect.
+
+The gazette notification was issued by Secretary to the President, Dr. N. S. Kumanayake, on behalf of the President.
+
+◼️
+
+[Data](articles/aebf50b8.json)
+
+[Extended Data](ext_articles/aebf50b8.ext.json)
 
 ---
 
@@ -116,6 +366,50 @@ The Meteorology Department requests the public to minimize the dangers of lightn
 
 ---
 
+### Portugal formally recognises Palestinian state, minister says
+
+*2025-09-22 06:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112745/portugal-formally-recognises-palestinian-state-minister-says) · `en`
+
+Portugal’s Foreign Affairs Minister Paulo Rangel announced on Sunday that the country has now recognised the state of Palestine.
+
+“The recognition of the state of Palestine is the realization of a fundamental, constant, and fundamental line of Portuguese foreign policy,” Rangel told reporters at the headquarters of Portugal’s permanent mission to the United Nations in New York.
+
+He said that “Portugal advocates the two-state solution as the only path to a just and lasting peace...a ceasefire is urgent”, adding Hamas “cannot have any form of control in Gaza or outside it” and demanding the release of all hostages.
+
+Rangel also said that recognizing the state of Palestine “does not erase the humanitarian catastrophe in Gaza,” and he also condemned the situation of starvation there, the destruction, and the “expansion of Israeli settlements in the West Bank.”
+
+◼️
+
+[Data](articles/65cd70ad.json)
+
+[Extended Data](ext_articles/65cd70ad.ext.json)
+
+---
+
+### Showers expected in parts of the island today
+
+*2025-09-22 06:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/112744/showers-expected-in-parts-of-the-island-today) · `en`
+
+The Department of Meteorology said that the prevailing showery and windy conditions over the southwestern parts of the island are expected to continue.
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+A few showers may occur in the North Western Province, the Department said.
+
+Showers or thundershowers are likely at a few places in Uva Province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills and in Central, Northern, North Central, and North Western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/165138bc.json)
+
+[Extended Data](ext_articles/165138bc.ext.json)
+
+---
+
 ### Sri Lanka bank interest rates edge up amid ‘ramrod anomaly’ in bills
 
 *2025-09-22 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-interest-rates-edge-up-amid-ramrod-anomaly-in-bills-241410/) · `en`
@@ -135,6 +429,48 @@ The weighted average new lending rate climbed to 10.56 percent in April from 10.
 [Data](articles/18e69626.json)
 
 [Extended Data](ext_articles/18e69626.ext.json)
+
+---
+
+### Issue of a list of public authorities who do not file notifications of assets and responsibilities
+
+*2025-09-22 05:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225702) · `ta`
+
+The Commission, which is investigating bribery or corruption, has posted a list of public authorities who did not file a notification for 2024 as of March 25 and 2025.
+
+These include one former minister, four former provincial governors, six former state ministers, 29 former ambassadors and two appeal court judges.
+
+Former Minister Douglas Devananda is former Minister of Fisheries, who has not filed his assets and responsibilities.
+
+Former governors Marshall of the Air Force Roshan Gunathilaka, Senthil Thondaman, Naveen Dissanayake and William Kamage did not submit their assets and responsibilities notifications within the relevant date.
+
+Former diplomatic ministers Logan Ratwatte, Taraka Balasuriya, Shantha Bandara, Khadar Mastan, Sivanesathurai Chandrakanthan and Suren Raghavan have been included in the list of those who have not submitted the assets and responsibilities.
+
+◼️
+
+[Data](articles/79f1b0cf.json)
+
+[Extended Data](ext_articles/79f1b0cf.ext.json)
+
+---
+
+### Extraordinary Gazette Notification on Electricity Services
+
+*2025-09-22 05:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225701) · `ta`
+
+The High Gazette Notification has been issued on Sunday, the 21st of this month, on the orders of President Anuragumara Dissanayake, declaration of all the services related to the power supply in Sri Lanka as essential services.
+
+This High Gazette Notification has been issued using the authority granted under Section 2 of the Essential Public Services Act No. 61 in 1979.. Officials said that this was considering the need for services to continue in order to not harm ordinary public life.
+
+This is now aimed at preventing services from being affected by strike actions that the Ceylon Electricity Board's trade unions are on.
+
+It is noteworthy that the unions have announced that they will go on strike from midnight on Sunday, the 21st, with the purchase and tender processes.
+
+◼️
+
+[Data](articles/bb9abb4f.json)
+
+[Extended Data](ext_articles/bb9abb4f.ext.json)
 
 ---
 
@@ -220,6 +556,48 @@ Customers can now explore the complete Moose collection under one roof, includin
 
 ---
 
+### The government attempts to implement a party regime; Opposition Leader calls to mobilize against repression
+
+*2025-09-22 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225700) · `ta`
+
+If silent, the government will capture everything. We must coordinate against the government's repressive plan.  Opposition leader Sajith Premadasa said the people could defeat the idea that the government was a party -expected party.
+
+The Opposition Leader said this while addressing a meeting held on Saturday, the 20th of this month with newly elected members of the local government in Anuradhapura district.
+
+The government is very systematic that only one party in the country is leading the government and running the government.. They are trying to take control of everything from the Death Assistant Association, the Farmers' Association, the Fishermen's Association, the Youth Club. They are trying to forcibly seize the power and control of all social organizations. Political appointments have also been made to the Independent Civil Defense Committee.
+
+...
+
+[Data](articles/262edf51.json)
+
+[Extended Data](ext_articles/262edf51.ext.json)
+
+---
+
+### The current unity of the opposition parties is like trash - Bimal Ratnayake accuses
+
+*2025-09-22 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225699) · `ta`
+
+The current merger of the opposition parties is seen as a garbage. The people of the country are on the National People's Power. The Minister of Transport, Highways Development Port and Civil Aviation Port and Civil Aviation, Bimal Ratnayake said that the people will not come to power in the country.
+
+He made this statement during a public meeting held on Saturday 20th in Ampara.
+
+Thieves and corrupt people in the past have come together on the same platform today. Sri Lanka PA's General Secretary Sakara Kariyawasam has stated that we have criticized each other as a thief to seize power.
+
+The defeat of the 2024 presidential election and the general election and the thieves are all united on one side.
+
+During the elections in the coming period, all the thieves who are currently united can unanimously be defeated.
+
+Opposition parties are united for the problems of the people.
+
+...
+
+[Data](articles/14a67b88.json)
+
+[Extended Data](ext_articles/14a67b88.ext.json)
+
+---
+
 ### Siddhalepa Golden Night 2025 – Honouring legacy, rewarding excellence
 
 *2025-09-22 05:06:59* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-Golden-Night-2025-Honouring-legacy-rewarding-excellence/34-782006) · `en`
@@ -235,6 +613,30 @@ The program began with a heartfelt tribute to the late Chairman, followed by an 
 [Data](articles/7b10254a.json)
 
 [Extended Data](ext_articles/7b10254a.ext.json)
+
+---
+
+### Opposition parties united by fear of arresting corrupt people; Sunil Vatagala - appropriate legal action against us
+
+*2025-09-22 05:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225698) · `ta`
+
+Opposition parties are currently united when they are arresting corrupt people. The people of the country must understand their true face. Minister of Public Security and Parliamentary Affairs Sunil Vatagala said that we will take appropriate legal action against the allegations leveled against us.
+
+The government headed by President Anura Kumara has come to power for a year. One year, major corrupt and criminals have been arrested by the law. The law is now common.
+
+When the corrupt is arresting the corrupt law, all the opposition parties are worried and now united.
+
+We are the ones who have filed a bribery and corruption inquiry into the property and responsibility documents.
+
+The anti -corruption law was enacted in the government of former President Ranil -Rajapakse.
+
+Our government has survived the anti -corruption law. According to the law, the Bribery and Corruption Commission is currently acting as per the law. That is why corrupt people are afraid.
+
+◼️
+
+[Data](articles/92c410c0.json)
+
+[Extended Data](ext_articles/92c410c0.ext.json)
 
 ---
 
@@ -261,6 +663,46 @@ The milestone event recognised and celebrated the achievements of exceptional in
 [Data](articles/90950b2e.json)
 
 [Extended Data](ext_articles/90950b2e.ext.json)
+
+---
+
+### The problem will be solved through the obvious measures of drug purchases
+
+*2025-09-22 04:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225697) · `ta`
+
+The situation is due to the problems of procurement, not the financial problem, but the current drug shortage in the country.. Health Minister Nalinda Jayatissa said the problem would be solved through open measures.
+
+He was speaking at a function held on Saturday 20th in Ampara.
+
+The procurement processes for importing drugs have already begun and the drugs that are scarce will be obtained after the next November.
+
+Some drugs are not available in the private market, not available in the open air, not available in the market, and not available in pharmacies. There are many problems like this. We do not allow the record by submitting unlimited prices during the drug registration. In South Asian countries, a specific price limit has been set in view of the current market situation.
+
+...
+
+[Data](articles/698324f6.json)
+
+[Extended Data](ext_articles/698324f6.ext.json)
+
+---
+
+### Royal College Admissions Abuse: Ranga Dissanayake's son
+
+*2025-09-22 04:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225696) · `ta`
+
+The Commission to Investigate Bribery or Corruption has announced that the Commission has prioritized and inquired about the system of recruitment of the Royal College of Colombo to the Colombo Royal College.
+
+The Commission has decided that proper methods have been adopted to incorporate the son of the Director General to the Royal College, Colombo, or that no political intervention has been taken.
+
+The Commission has issued a special report on the complaint made to the Commission regarding the Commission's Director General of the Commission to Investigate Bribery or Corruption.
+
+The Director General of the Commission to Investigate Bribery or Corruption, Ranga Dissanayake, has reportedly added his son to the Royal College of Colombo in 2014, according to the Commission's Commission, including the Commission, including the Commission's Commission, according to the Commission's Commission.
+
+...
+
+[Data](articles/7bd568a7.json)
+
+[Extended Data](ext_articles/7bd568a7.ext.json)
 
 ---
 
@@ -818,6 +1260,28 @@ The Germans who were assaulted have lodged a complaint with the Unawatuna Tourna
 
 ---
 
+### President goes to America tomorrow
+
+*2025-09-21 19:04:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ඇමරිකාවට-යයි/11-418636) · `si`
+
+President Anura Kumara Dissanayake is due to leave for the USA tomorrow (22).
+
+The President will participate in the 80th session of the United Nations General Assembly during the visit.
+
+During his visit, Anura Kumara Dissanayake is expected to join bilateral discussions with the UN High Secretariat and several world state leaders.
+
+The President will also participate in a meeting with Sri Lankans in the United States.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath is also joining the visit with President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/10e4fe45.json)
+
+[Extended Data](ext_articles/10e4fe45.ext.json)
+
+---
+
 ### Daughter killed by daughter and father Patriarch
 
 *2025-09-21 18:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மகள்-தந்தையின்-விபரீத-முடிவால்-மகள்-பலி-தந்தை-கவலைக்கிடம்/76-365011) · `ta`
@@ -1334,13 +1798,19 @@ About 15 fire trucks and Air Force Bell-212 Helicopter were used in firefighting
 
 Two individuals involved in a tourism sector in Rumassala, Unawatuna, have been arrested by the Tourist Police in connection with an alleged assault on a group of German nationals.
 
-According to statements given by the German tourists to the Tourist Police, a group of individuals arrived in a motor vehicle and assaulted them after parking their own three-wheeler nearby.
+Police stated an altercation occurred last night between six German tourists—comprising three couples attending a party at a tourist hotel in Unawatuna—and two Sri Lankan individuals.
+
+Following the dispute, the German tourists had left the hotel on two motorcycles and a three-wheeler.
+
+Shortly afterwards, the two Sri Lankans involved in the altercation chased after the tourists in a car, intercepted the vehicles, and assaulted the foreign tourists.
+
+The assaulted German nationals lodged a complaint with the Unawatuna Tourist Police regarding the incident.
+
+According to statements given by the German tourists to the Tourist Police, a group of individuals arrived in a motor vehicle and assaulted them.
 
 The Unawatuna Tourist Police had acted swiftly and arrested the suspects shortly after the incident was reported.
 
-The suspects have been handed over to the Habaraduwa Police and are scheduled to be produced before court tomorrow (22).
-
-◼️
+...
 
 [Data](articles/8d75215f.json)
 
@@ -1617,477 +2087,5 @@ Trump added that the Afghan party is being held in this regard.
 [Data](articles/df7996d0.json)
 
 [Extended Data](ext_articles/df7996d0.ext.json)
-
----
-
-### Luxury bus collides with a lorry and three-wheeler
-
-*2025-09-21 14:40:58* · [`adalk`](https://www.ada.lk/breaking_news/සුඛෝපභෝගී-බස්-රථයක්--ලොරි-රථයක්-සහ-ත්‍රිරෝද-රථයක්-ගැටී-තිදෙනෙකුට-තුවාල/11-418631) · `si`
-
-Three persons were admitted to the Batticaloa Teaching Hospital in Batticaloa this morning.
-
-A luxury bus traveling from Colombo to Akkarapattu, which was traveling towards the Kitankudi main road, was a lorry bus towards the Kattankudi main road.
-
-The bus driver was seriously injured when a three-wheeler traveled by the bus. The driver of the bus and the driver of the bus and the vehicle of the three-wheeler has been admitted to the Batticaloa Teaching Hospital.
-
-It is reported that the bus has been driven over speeding, and Kattankudy police are conducting further investigations. Heavy damaged to the luxury bus and three wheeler.
-
-◼️
-
-[Data](articles/50b4b441.json)
-
-[Extended Data](ext_articles/50b4b441.ext.json)
-
----
-
-### No cuts to religious education and aesthetic subjects – Prime Minister
-
-*2025-09-21 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112731/no-cuts-to-religious-education-and-aesthetic-subjects-prime-minister) · `en`
-
-Under the current government, there will be no reduction or removal of religious education or aesthetic subjects in any way, Prime Minister Dr. Harini Amarasuriya has affirmed.
-
-She made this statement during a discussion held with members of the Buddhist Affairs Task Force.
-
-The discussion also covered the content included in the textbook for Buddhism under the new curriculum.
-
-During the meeting, the Prime Minister explained that, as part of the education reforms scheduled to be implemented in 2026, the first lesson of the first module in Grade 6 will aim to provide all students with a basic understanding of all major religions.
-
-She further stated that, following this introduction, students will be given the opportunity to study their own respective religions in depth.
-
-...
-
-[Data](articles/52f32cd1.json)
-
-[Extended Data](ext_articles/52f32cd1.ext.json)
-
----
-
-### President visits the US tomorrow
-
-*2025-09-21 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225668) · `ta`
-
-President Anura Kumara Dissanayake will visit the United States tomorrow (22) night.
-
-The President will attend the 80th General Assembly session of the United Nations during the visit. He will address the United Nations General Assembly at 3.15 pm on Wednesday (24).
-
-During the visit, President Anura Kumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several world leaders.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath will join President Anura Kumara Dissanayake during the visit.
-
-◼️
-
-[Data](articles/25a1bf32.json)
-
-[Extended Data](ext_articles/25a1bf32.ext.json)
-
----
-
-### The 2nd solar eclipse for the year 2025
-
-*2025-09-21 14:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆண்டிற்கான-2ஆவது-சூரிய-கிரகணம்-இன்று/175-364996) · `ta`
-
-The second solar eclipse for 2025 will be held on Sunday, September 21, on the new moon day.
-
-The solar eclipse will be Sri Lanka's time, from 11.00 pm to 3.23 am tonight. Sri Lanka is not likely to be revealed in India as it happens at night.
-
-Also, the solar eclipse today can be seen from the southern Pacific Ocean, New Zealand, Australia, Africa, Indian Ocean, Atlantic Ocean, South Ocean, Polynicia, Melanacia, Norfok Island, Christchurch and Wellington. In some of the countries mentioned here, the sun disappears up to 80%, and the daytime is suddenly dark.
-
-Can only be seen by the eclipse glasses or secure telescopes. If this is wrong, the eyes can be affected.
-
-◼️
-
-[Data](articles/497ae28b.json)
-
-[Extended Data](ext_articles/497ae28b.ext.json)
-
----
-
-### Liking was arrested, stolen hundreds of 200,000 gold and gold items
-
-*2025-09-21 14:20:07* · [`adalk`](https://www.ada.lk/breaking_news/නැන්දම්මාගේ-ලක්ෂ-28ක-රන්-භාණ්ඩ-සොරාගෙන-වෙත්-පුරුෂකයෙක්-සමග-දීග-කන්න-ගිය-බිරිද-අල්ලයි/11-418630) · `si`
-
-The Ingiriya Police who was arrested with her two-and-a-year-old manner with her mother-in-law, and the Ingiriya police arrested with her second man who went with another man separate from her husband.
-
-The victim has been arrested, a 40-year-old resident of the Mindter in the Horana area and was a 38-year-old woman who had come to life with him.
-
-The woman who was saying that the wife of the professor of Ingiriya has been able to study a course and has later built a relationship with the second man.
-
-About a week later, the woman's husband's mother's mother (mother-in-law) had been found to be lodged a complaint in the Ingiriya police.
-
-Under the supervision of the OIC of the Ingiriya OIC Chief Inspector K.A.Ndollewela, the suspect has been able to find the mortgage of gold.
-
-Accordingly, the police have also been arrested and stolen goldes have been arrested and to find the gold items. Ingiriya Police are conducting further investigation into the incident.
-
-◼️
-
-[Data](articles/5b5bef2c.json)
-
-[Extended Data](ext_articles/5b5bef2c.ext.json)
-
----
-
-### Investigative report on substance found in Netolpitiya due next week
-
-*2025-09-21 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112729/investigative-report-on-substance-found-in-netolpitiya-due-next-week) · `en`
-
-The investigative report on the substances discovered on a plot of land in Netolpitiya, Tangalle is expected to be released to police next week, the National Dangerous Drugs Control Board (NDDCB) has stated.
-
-A spokesperson of the Board mentioned that the investigations into these substances are currently in their final stages.
-
-Based on information revealed by members of a criminal gang arrested in Indonesia, a stock of chemical substances believed to be used in the production of the drug ‘Ice’ (crystal methamphetamine) was discovered on a plot of land in Middeniya.
-
-Subsequently, similar stocks of substances were also discovered in Netolpitiya, Tangalle and from Kandana. Samples of these substances were handed over to the National Dangerous Drugs Control Board and the Government Analyst’s Department for investigation.
-
-...
-
-[Data](articles/66fe0ee7.json)
-
-[Extended Data](ext_articles/66fe0ee7.ext.json)
-
----
-
-### Vladimir is taking a 17 -year -old girl home
-
-*2025-09-21 14:04:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/17-வயது-சிறுமியை-வீட்டுக்கு-அழைத்துவரும்-விளாடிமிர்/50-364994) · `ta`
-
-A new book states that Vladimir Putin had invited a 17 -year -old girl to her home for two weeks before he had mysteriously owned a special luxury apartment in Moscow district.
-
-The journalists have exploded in the "The Jar In Person: How Vladimir Putin Foodda All" by Roman Pathan and Mikhail Rubin, revealing everything about the illegal relationship with the Russian President's Teenage Beauty Queen.
-
-Vladimir Putin first met Teenager Alyssa Karcheva, a suburb of Moscow, and he participated in small beauty competitions.
-
-When Putin was the Prime Minister and Dmitry Medvedev, when he was the Russian president, he attracted Putin's attention when she played the April-up-camet calendar for his 58th birthday.
-
-The 2010 calendar, which pose the young woman with lingerie, was printed 50,000 times and sold for about six euros in Russia.
-
-Prior to the 2012 presidential election, his critics claimed that it was used to increase Putin's voter attraction, and he came back to the top post.
-
-...
-
-[Data](articles/1f444c03.json)
-
-[Extended Data](ext_articles/1f444c03.ext.json)
-
----
-
-### CAA conducts 70 rice-related raids last week
-
-*2025-09-21 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112728/caa-conducts-70-rice-related-raids-last-week) · `en`
-
-A total of 70 raids related to rice have been conducted by the Consumer Affairs Authority (CAA) last week.
-
-The CAA said the raids included 55 raids on rice sales and 15 other raids.
-
-The offences identified include rice hoarding, failure to display prices, and selling rice under conditions, among others, the CAA added.
-
-The CAA stated that if an individual trader is found guilty of selling rice at a higher price, the penalty could range from a fine of Rs. 100,000 to Rs. 500,000, imprisonment of up to five months, or both the penalties.
-
-Further, if a private company is convicted, the court has the authority to impose a fine ranging from Rs. 500,000 to Rs. 5 million.
-
-In cases involving rice hoarding, court may order a fine, imprisonment, or both, in addition to confiscating the stocks concerned under the provisions of the Consumer Affairs Authority Act.
-
-...
-
-[Data](articles/16284c76.json)
-
-[Extended Data](ext_articles/16284c76.ext.json)
-
----
-
-### Chairman of Karandeniya Pradeshiya Sabha has passed away
-
-*2025-09-21 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225663) · `ta`
-
-Chairman of the Karandeniya Pradeshiya Sabha Mahil Munasinghe passed away on Sunday (21).
-
-He was admitted to the Karandeniya Hospital and later died after being in a health care exercise this morning.
-
-47 -year -old Munasinghe is elected as the Chairman of the Pradeshiya Sabha in the last local government elections.
-
-◼️
-
-[Data](articles/6af851f8.json)
-
-[Extended Data](ext_articles/6af851f8.ext.json)
-
----
-
-### India - Pak. Super 4's game: Andy as Match Refree
-
-*2025-09-21 13:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்தியா-பாக்-சூப்பர்-4-ஆட்டம்-மேட்ச்-ரெஃப்ரீயாக-ஆண்டி/44-364991) · `ta`
-
-India and Pakistan teams clash today (21) in the Super 4 round of the Asia Cup cricket series.
-
-Reports have surfaced that the Andy Bigroft will act as a match for this game. The Pakistan Cricket Board has accused Andy Fifagrat of the Indian team in the league round.
-
-He threatened to remove him from the series or that he would quit the series. But the ICC refused to accept the request of the Pakistan Cricket Board. Baigraphtte Match Refree was also in the last league match of the Pakistan team. This is likely to continue in today's game.
-
-◼️
-
-[Data](articles/249079bf.json)
-
-[Extended Data](ext_articles/249079bf.ext.json)
-
----
-
-### Sri Lanka’s commitment to ensure Indian Ocean remains zone of peace reaffirmed
-
-*2025-09-21 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112727/sri-lankas-commitment-to-ensure-indian-ocean-remains-zone-of-peace-reaffirmed) · `en`
-
-The Secretary to the Ministry of Defence, Air Vice Marshal Sampath Thuyacontha (Retd) has reaffirmed Sri Lanka’s longstanding commitment to ensuring that the Indian Ocean remains a zone of peace, open to cooperation and free from conflict, the Ministry of Defence said in a statement.
-
-Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd) addressing the high profile gathering at the 12th Beijing Xiangshan Forum in China, also emphasized the significance of collective dialogue, regional cooperation, and mutual respect in addressing global and regional security challenges.
-
-He said, “We should take seriously the legitimate security concerns of every country and promote peaceful settlement of differences and disputes among countries through dialogue and consultation. We need to continue pursuing open regionalism and steadily advance regional economic integration.”
-
-The 12th Beijing Xiangtan Forum was held at the Beijing International Convention Center in Beijing.
-
-...
-
-[Data](articles/6805e073.json)
-
-[Extended Data](ext_articles/6805e073.ext.json)
-
----
-
-### Testing report of material found in Netolpitiya next week
-
-*2025-09-21 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214826) · `si`
-
-The Danger Drugs Control Board says that the inspection report is expected to be released from a land in Netolpitiya area.
-
-A spokesman said that the investigations of the relevant materials are currently in the final stage.
-
-A large haul of chemicals that claimed to be used in the land of the Middeniya area has been found to be used in the land of the Middeniya area.
-
-The Tangalle was later found in the Netolpitiya area and the Kandana area.
-
-The Danger and Analyst's department has already confirmed that the Merdiene of Middeniya area.
-
-The base of the Danger Hinglemador License (Dangers) stated that Methampamamician governing national board was given to the number of 20 samples obtained from the relevant location.
-
-Accordingly, the inquiry report of the materials found in Netolpitiya area is also handed over to the police over the next week.
-
-The inspection report of the mountains found in the Kandana area is also expected to be released.
-
-◼️
-
-[Data](articles/256d58e1.json)
-
-[Extended Data](ext_articles/256d58e1.ext.json)
-
----
-
-### Prime Minister says that religious education and aesthetic subjects will not be slashed
-
-*2025-09-21 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214825) · `si`
-
-Prime Minister Dr. Harini Amarasuriya says that under the present government, the Prime Minister Dr. Harini Amarasuriya says that no religious education as well as aesthetic subjects are being buried.
-
-She made this statement at a meeting with members of the Buddha Sasana Task Force.
-
-It also discusses the contents of the Buddha Dhamma under the new syllabus.
-
-The Prime Minister has stated that the first lesson of the first module of Grade 6 grade 6 grade is expected to be given a basic understanding of all religions.
-
-She added that children will then be able to study their religion.
-
-The Prime Minister has also appeared in the shortage of Buddhism, and the Prime Minister has stated in the discussion.
-
-◼️
-
-[Data](articles/0b9a5e3d.json)
-
-[Extended Data](ext_articles/0b9a5e3d.ext.json)
-
----
-
-### Karandeniyaweera, Chairman, deaths death
-
-*2025-09-21 13:32:11* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-කරන්දෙනිය-ප්‍රා-සභා-සභාපති-හදිසියේ-ජීවිතක්ෂයට/11-418629) · `si`
-
-The Chairman of the Karandeniya Pradeshiya Sabha has died this morning (21) morning.
-
-Residents of the area say that he has been admitted to the Bokanda Divisional Hospital due to a fall in the Borakanda area in Karandeniya today (21).
-
-The body of the deceased was placed at the Karandeniya, Borakanda Divisional Hospital and was taken to the Elpitiya Base Hospital for the post mortem.
-
-Malitha Rangeja Munasinghe (47) was the Chairman of the Karandeniya Pradeshiya Sabha.
-
-The husband of the deceased is Manoja Galappaththi's husband, a husband, who is the husband of Mrs. Manoja Galappaththi, Principal of Kotawela Primary School, Karandeniya Primary School.. The Karandeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/975926a9.json)
-
-[Extended Data](ext_articles/975926a9.ext.json)
-
----
-
-### Another school student arrested for schoolgirl
-
-*2025-09-21 13:27:35* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවෙකුගේ-කන-පැලූ-තවත්-පාසල්-සිසුවෙක්-අල්ලයි/11-418628) · `si`
-
-Ingiriya Police have arrested a 14-year-old schoolgirl who was hit by an eight-year-old schoolgirl.
-
-The arrested student was a 20 acre area of ​​20 acres, a student of the Ingiriya Hospital.
-
-According to the incident, there has been a small argument between two students in the eighth budget, one student has told another student of the grade name. The police said that the student had been hit by the other student of the student who was later sent to the incident with the student who was told to the incident.
-
-The student was arrested by the Chief Inspector of the OIC Chief Inspector K.A.Dallure and released on police bail and is to be produced before the Horana Magistrate's Court.
-
-◼️
-
-[Data](articles/a562f047.json)
-
-[Extended Data](ext_articles/a562f047.ext.json)
-
----
-
-### 70 raids associated with rice in a week
-
-*2025-09-21 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214824) · `si`
-
-The Consumer Affairs Authority (CAA) has committed 70 raids on rice last week.
-
-The authority said that the raids includes 55 raids on selling rice and 15 other raids.
-
-The authority said that the rice includes ridge hidden, and selling rice, and selling rice.
-
-The Consumer Affairs Authority said that if he was convicted of the individual selling individual businessman in the sale of rice, he could be prescribed or sentenced to Rs.
-
-The Authority also says that if a private company is convicted of a guilty to Rs.
-
-The Authority also said that the procedural Affairs Authority (Consumer Affairs Authority) has been able to punish the consumer action twice as a second fines.
-
-◼️
-
-[Data](articles/35db5ce7.json)
-
-[Extended Data](ext_articles/35db5ce7.ext.json)
-
----
-
-### Sri Lanka extends deadline for 640MWh BOO battery storage system
-
-*2025-09-21 12:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-deadline-for-640mwh-boo-battery-storage-system-241392/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has extended a deadline for private investors to bid for the islands first grid scale battery energy storage system (BESS) till October 14.
-
-The CEB plans to install 10MW/40MWh battery systems in 10 locations indicating storage of 640MWh.
-
-The batteries can smoothen intermittent supply from renewable energy like solar and reduce the likelihood of cascading failures.
-
-The CEB will give a 15-year concession to investors to operate the plant.
-
-Sri Lanka waiting for international BESS tender for market battery price
-
-Sri Lanka seeks BOO investors for first 160MW bess to absorb renewables
-
-Sri Lanka has accelerated measures to improve grid stability after surge in rooftop solar which was beyond the planned volume. (Colombo/Sept21/2025)
-
-◼️
-
-[Data](articles/a2aa9260.json)
-
-[Extended Data](ext_articles/a2aa9260.ext.json)
-
----
-
-### A shooting of a Club in the United States
-
-*2025-09-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214823) · `si`
-
-One person was killed and another injured in a shooting at a club in New Humps.
-
-Foreign media reports that a person who entered the club with a firearm had been shot dead at one time.
-
-The victim is a male, a boy, and the police have been arrested for arrest the shooter.
-
-◼️
-
-[Data](articles/3f6603fb.json)
-
-[Extended Data](ext_articles/3f6603fb.ext.json)
-
----
-
-### The mother -in -law of the niece of the nurse
-
-*2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
-
-In a family who lived quietly, a horrific incident took place. The incident has caused a stir among the people of the area. The incident took place in Thiruvattar, Kanyakumari district.
-
-Manju, a dedicated nurse, and her husband Prince, a driver. The actions of mother -in -law Alphonsa have stormed the life of this young couple who lived with two children.
-
-Manju, who performed his nurse's work in the hospital, was committed to the family. But in their quiet life, mother -in -law Alphonsa came to a shadow.
-
-He often harassed Manju asking for dowry. "Bring more money. Otherwise you have no place in this house!" It was customary to intimidate.
-
-Manju, depending on these humiliations, did not speak for the relief of the family. Yesterday evening, the problem reached its peak. Prince, drunkenly came home. This resulted in an argument between Manju and him.
-
-...
-
-[Data](articles/91baed23.json)
-
-[Extended Data](ext_articles/91baed23.ext.json)
-
----
-
-### The mother -in -law of the niece of the niece
-
-*2025-09-21 12:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகளான-நர்ஸ்ஸின்-அந்த-உறுப்பை-கடித்து-துண்டாக்கிய-மாமியார்/175-364989) · `ta`
-
-In a family who lived quietly, a horrific incident took place. The incident has caused a stir among the people of the area. The incident took place in Thiruvattar, Kanyakumari district.
-
-Manju, a dedicated nurse, and her husband Prince, a driver. In the life of this young couple who lived with two children, the actions of mother -in -law Alphonsa have stormed.
-
-Manju, who performed his nurse's work in the hospital, was committed to the family. But in their quiet life, mother -in -law Alphonsa came to a shadow.
-
-He often harassed Manju asking for dowry. "Bring more money. Otherwise you have no place in this house!" It was customary to intimidate.
-
-Manju, depending on these humiliations, did not speak for the relief of the family. Yesterday evening, the problem reached its peak. Prince, drunkenly came home. This resulted in an argument between Manju and him.
-
-...
-
-[Data](articles/ad3c8339.json)
-
-[Extended Data](ext_articles/ad3c8339.ext.json)
-
----
-
-### Corpse recovery
-
-*2025-09-21 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225659) · `ta`
-
-The body of a woman has been recovered as a tree hanging in a tree early this morning (21), said Chandana Kamage, Superintendent of the Vattawala Police Station.
-
-The body of a 62 -year -old woman, Kannan Manirani, a resident of Kuilwatta, belonging to the Vattawala Police Division, has been identified as the body of a woman.
-
-Based on the information provided by the plantation workers to the Vattawala police, the body of the Wattawala police recovered the body that the woman had died in a tree in a tree in their garden.
-
-To determine whether this is a suicide or murder, the Vattawala Police and the Attan Police Division are conducting investigations through various sections.
-
-◼️
-
-[Data](articles/3dd1987f.json)
-
-[Extended Data](ext_articles/3dd1987f.ext.json)
-
----
-
-### Sudden death of the Chairman of the Karandeniya Pradeshiya Sabha
-
-*2025-09-21 12:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரந்தெனிய-பிரதேச-சபைத்-தவிசாளர்-திடீர்-மரணம்/175-364988) · `ta`
-
-47 -year -old Maheel Munasinghe, the Chairman of the Karandeniya Pradeshiya Sabha, passed away on Sunday morning (21).
-
-He was taken to the hospital due to a sudden illness when he was exercising on Sunday morning (21) morning.
-
-◼️
-
-[Data](articles/efce0f64.json)
-
-[Extended Data](ext_articles/efce0f64.ext.json)
 
 ---

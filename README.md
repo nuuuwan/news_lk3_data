@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-22 14:39:56**
+As of **2025-09-22 16:10:32**
 
 ## Newspaper Stats
 
-*Scraped **77,418** Articles*
+*Scraped **77,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,35 +12,243 @@ newsfirstlk | 363
 dbsjeyarajcom | 633
 bbccomsinhala | 677
 colombotelegraphcom | 775
-economynextcom | 4,673
+economynextcom | 4,680
 dailymirrorlk | 4,733
 islandlk | 4,762
 dailyftlk | 5,496
-adalk | 7,523
-adaderanalk | 10,015
-tamilmirrorlk | 11,645
-virakesarilk | 12,601
-adaderanasinhalalk | 13,522
+adalk | 7,524
+adaderanalk | 10,018
+tamilmirrorlk | 11,647
+virakesarilk | 12,604
+adaderanasinhalalk | 13,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,416 (100.0%) of 77,418 articles have been extended.
+77,436 (100.0%) of 77,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-22 (Monday)
 
-### තවත් කිලෝ 200ක අයිස් ලොරියක් සීනිමෝදර
+### ජාතික උද්ධමනය ඉහළට
+
+*2025-09-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214869) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව 2025 අගෝස්තු මාසයේ මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය 1.5%ක් දක්වා ඉහළ ගොස් තිබේ.
+
+ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි දැක්වෙන්නේ 2025 ජූලි මාසයේ දී මෙම අගය වාර්තා වූ යේ 0.7% ක් ලෙසය.
+
+ජූලි මාසයේ දී 2.2% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 2.9%ක් දක්වා වැඩි වී තිබේ.
+
+ජූලි මාසයේ දී -0.6% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය අගෝස්තු මාසයේ දී 0.4% ක් දක්වා වැඩි වී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවෙහි වැඩිදුරටත් සඳහන්ය.
+
+◼️
+
+[Data](articles/fee33691.json)
+
+---
+
+### Quinton de Cock re-group
+
+*2025-09-22 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214868) · `si`
+
+The farewell decision has been canceled from the queen de Coke one day.
+
+Accordingly, the South African squad has been named to the South African squad for Quewton de Cock.
+
+After the World Cup, the de Cock retired from the International Ground of ODIs.
+
+◼️
+
+[Data](articles/57576baf.json)
+
+[Extended Data](ext_articles/57576baf.ext.json)
+
+---
+
+### Case against Sajin Vaas postponed
+
+*2025-09-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214867) · `si`
+
+The Colombo Magistrate Court today (22) ordered that the case was filed in writing to the courts of December 16.
+
+◼️
+
+[Data](articles/d26e2fdc.json)
+
+[Extended Data](ext_articles/d26e2fdc.ext.json)
+
+---
+
+### Demonstration against state corruption in the Philippines!
+
+*2025-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225746) · `ta`
+
+Many people have taken to the streets to protest because they are said to have spent billions of dollars on fake relief projects.
+
+Tens of thousands of Philippines took to the streets on Sunday (21) against government corruption.
+
+Citizens from students, church groups, celebrities and various political camps have staged protests in Manila and other cities.
+
+Police have arrested 72 people, including 20 children, during these protests. Also, 39 security officers were injured in the demonstration. It is reported that a trailer vehicle used as a barrier was also set on fire.
+
+Various issues are attributed to these struggles, including the bribery of lawmakers and authorities.
+
+At the same time, important projects have not been implemented to protect the country from flooding. The Philippine government's estimates suggest that the country's economy has lost £ 1.48 billion in the last two years due to corruption in flood control projects.
+
+...
+
+[Data](articles/f6b5ec75.json)
+
+[Extended Data](ext_articles/f6b5ec75.ext.json)
+
+---
+
+### Arrested doctor who cheated for 20 years
+
+*2025-09-22 14:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வருடங்களாக-ஏமாற்றிய-வைத்தியர்-கைது/175-365064) · `ta`
+
+A 54 -year -old man who allegedly pretended to be a doctor for nearly two decades was arrested yesterday evening (21).
+
+The suspect from the Teltuwa area has runs a medical center under the name Sahana Seva near Sri Tharakarama Vihara.
+
+He said that he was using the registration number of the Sri Lanka Medical Council (SLMC) owned by another doctor, police said.
+
+◼️
+
+[Data](articles/c57a075a.json)
+
+[Extended Data](ext_articles/c57a075a.ext.json)
+
+---
+
+### Order to demolish a hotel owned by former governor's wife
+
+*2025-09-22 14:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஆளுநரின்-மனைவிக்கு-சொந்தமான-ஹோட்டலை-இடிக்க-உத்தரவு/175-365063) · `ta`
+
+Mrs. Ajanta, wife of former North Central Provincial Governor Maibala Herath, has been ordered to demolish the hotel owned by Rupasi Herath.
+
+The order was issued by Sudarshana Dissanayake, the Divisional Secretary of the Central Nuwarasam, and confirmed that he had occupied 60 perch protected land, including the hotel and several structures nearby.
+
+According to the authorities, constructions were carried out without formal documents or legal approval. The demolition work must be completed within a month of the announcement.
+
+The move is part of a vast government effort to border and secure the reserves of ponds in Anuradhapura district.
+
+The scheme, carried out by the Irrigation Department, includes measurement of land and establishing border markers to prevent encroachments in the future.
+
+...
+
+[Data](articles/7b9d75e0.json)
+
+[Extended Data](ext_articles/7b9d75e0.ext.json)
+
+---
+
+### Another lorry with 200kg of substances believed to be ‘Ice’ and heroin found in Tangalle
+
+*2025-09-22 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112770/another-lorry-with-200kg-of-substances-believed-to-be-ice-and-heroin-found-in-tangalle) · `en`
+
+A large stock of narcotics, including over 200 kilograms of crystal methamphetamine or commonly known as ‘Ice’ and of heroin, has been discovered in Seenimodara, Tangalle, authorities confirmed.
+
+The discovery was made this morning (22), when police found the bodies of two individuals inside an abandoned house that was reportedly under renovation. A lorry parked in the premises was found to contain a massive quantity of illegal narcotics, authorities noted.
+
+Police recovered over 10 kilograms of narcotics substance suspected to be ‘Ice’ from the house under renovation in Seenimodara.
+
+Investigations also led to the recovery of 10 packets containing ‘Ice’ from a smaller lorry parked near the same house, according to police sources.
+
+Subsequently, authorities conducted a thorough search, leading to the recovery of a much larger stock of ‘Ice’ and heroin, exceeding 200 kilograms, in Tangalle.
+
+...
+
+[Data](articles/019c5d9f.json)
+
+[Extended Data](ext_articles/019c5d9f.ext.json)
+
+---
+
+### Another 200kg of ice lorry Seen
 
 *2025-09-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214866) · `si`
 
-හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 200කට අධික තොගයක් තංගල්ල, සීනිමෝදර ප්‍රදේශයෙන් සොයාගෙන තිබේ.
+More than 200 kilograms of heroin and ice cast have been recovered from the Seennimodara area in Tangalle.
 
 ◼️
 
 [Data](articles/e72cdeb0.json)
+
+[Extended Data](ext_articles/e72cdeb0.ext.json)
+
+---
+
+### Process of assigning CEB employees to four newly established companies commences
+
+*2025-09-22 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112769/process-of-assigning-ceb-employees-to-four-newly-established-companies-commences) · `en`
+
+The process of assigning employees of the Ceylon Electricity Board (CEB) to four newly established, fully state-owned companies — established under the implementation of the Sri Lanka Electricity (Amendment) Act — has now officially commenced, the Ministry of Energy stated.
+
+Accordingly, a group of employees of the CEB has taken steps to submit letters expressing their willingness to be affiliated with these newly formed institutions, according to a statement from the Energy Ministry.
+
+Accordingly, the letters of consent have been officially handed over to the Chairman of the Ceylon Electricity Board, Professor Udayanga Hemapala this morning at the CEB Headquarters.
+
+In line with the Sri Lanka Electricity (Amendment) Act No. 14 of 2025, four fully government-owned companies have been established to which the employees will be assigned.
+
+...
+
+[Data](articles/1c4a57cb.json)
+
+[Extended Data](ext_articles/1c4a57cb.ext.json)
+
+---
+
+### GovPay boosts traffic fine payments in Sri Lanka: Official
+
+*2025-09-22 14:14:00* · [`economynextcom`](https://economynext.com/govpay-boosts-traffic-fine-payments-in-sri-lanka-official-241503/) · `en`
+
+ECONOMYNEXT – Sri Lanka has seen an increase in traffic fine payments since GovPay, the state digital payment platform, was implemented in the Western Province, an official involved in the initiative has said.
+
+“Traffic fine payments via GovPay continue to climb, with yesterday recording the highest volume since the Western Province went live,” Harsha Purasinghe, Board Director of ICTA, said on the social media platform X.
+
+GovPay lets citizens and businesses make digital payments for government services like taxes, fines, and utility bills through banks and digital wallets.
+
+The initiative is a collaboration between LankaPay and the Information and Communication Technology Agency (ICTA).
+
+“While GovPay is delivering unmatched convenience and transparency for citizens, Sri Lanka Police plans to introduce a demerit points system in the future, alongside digital payments,” Purasinghe said.
+
+...
+
+[Data](articles/4d904962.json)
+
+[Extended Data](ext_articles/4d904962.ext.json)
+
+---
+
+### Hurricane Warning in Hong Kong!
+
+*2025-09-22 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/225743) · `ta`
+
+Hurricane Warning has been issued in Hong Kong. Accordingly, the Department of Meteorology is considering the issue of tornadoes from 1 pm to 4 pm on Tuesday (23).
+
+At the same time, high speed and regular trains will be closed in Guangdong Province on Wednesday.
+
+Predictions are being preceded by the storm blowing towards the northern part of the South China Sea via Lusone Strait.
+
+Local air is expected to gradually intensify as the hurricane approaches the shore of Guangdong.
+
+In response to these improvements, the Hong Kong Research Center will release a strong wind signal number at 9.40 pm tonight.
+
+At the same time, the Department of Meteorology has prompted the upgrading of Wednesday from 1 pm to 4 pm to the eighth tornado or a storm signal.
+
+It has been forecast that strong winds are likely to blow in Hong Kong and hurricane winds may blow on the coast and high areas.
+
+It is also said that heavy tornadoes, thunderstorms and excessive sea turbulence can occur.
+
+...
+
+[Data](articles/cc3580ae.json)
+
+[Extended Data](ext_articles/cc3580ae.ext.json)
 
 ---
 
@@ -82,17 +290,85 @@ Following the discovery of a buried container filled with chemicals used to make
 
 ---
 
-### ශෂේන්ද්‍රගේ ඉල්ලීම ප්‍රතික්ෂේපයි, යළි රිමාන්ඩ්
+### Foreign investors buy Sri Lanka rupee bonds for fourth straight week
+
+*2025-09-22 13:52:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-fourth-straight-week-241303/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a fourth straight week in the week ended on September 18 with the offshore holding in local bonds surged to near two-year high, the Central Bank data showed, amid a surge in global investor appetite for government bonds.
+
+Foreign investors bought a net 4,988 million rupee ($16.63 million) worth of government securities in the week ended on September 18, extending the inflows to a net 13,707 million rupee ($45.7 million) in the four weeks.
+
+Government bond funds globally saw a surge in demand as they received $2.75 billion, the largest amount in 17 weeks, Reuters reported.
+
+Foreign holdings in Sri Lanka’s rupee bonds were at 120.3 billion rupees on September 18, their highest since December 2023, official data showed.
+
+Sri Lanka suffered an outflow of 10.1 billion rupees ($32 million) in the two weeks soon after Trump’s tariff declaration in the first week of April and the rupee has fallen slightly since then.
+
+...
+
+[Data](articles/a4d308c7.json)
+
+[Extended Data](ext_articles/a4d308c7.ext.json)
+
+---
+
+### 1,897 killed in road accidents in the last 9 months - Director of Transport Police
+
+*2025-09-22 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225740) · `ta`
+
+Traffic Police Director SSP. Manoj Ranagala said.
+
+He said that this is an increase in road accidents.
+
+In this regard, he emphasized the urgent need for strict legal implementation and responsible vehicle driving to control increasing deaths.
+
+He added that traffic police across the country have installed 70 high -speed detection machines to monitor reckless driving.
+
+He said motorcycle accidents had increased by 2025 and 923 accidents were reported by motorcycle.
+
+Traffic Police Director SSP to prevent further accidents on the streets of the country, road safety measures and public awareness. Ranagala has called.
+
+◼️
+
+[Data](articles/9d680187.json)
+
+[Extended Data](ext_articles/9d680187.ext.json)
+
+---
+
+### UK considers plan to scrap visa fees for top global talent: Report
+
+*2025-09-22 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112768/uk-considers-plan-to-scrap-visa-fees-for-top-global-talent-report) · `en`
+
+British Prime Minister Keir Starmer is exploring proposals to abolish some visa fees for top global talent at a time when the United States has taken a tougher stance on immigration, the Reuters News Agency on Monday (Sep 22).
+
+Starmer’s “global talent task force” is working on ideas to attract the world’s best scientists, academics and digital experts to the UK in a bid to drive economic growth, the report said, citing people briefed on the discussions inside Number 10 and the Treasury.
+
+The idea of cutting visa costs to zero is for people who have attended the world’s top five universities or have won prestigious prizes, an official told the newspaper.
+
+According to the report, the reforms were being discussed in Number 10 and the Treasury before the Trump administration announced its decision to impose a US$100,000 fee for new H-1B visas, which are widely used by US tech companies, from Sunday.
+
+...
+
+[Data](articles/8dafde02.json)
+
+[Extended Data](ext_articles/8dafde02.ext.json)
+
+---
+
+### Shareshendi's request declines, further remanded
 
 *2025-09-22 13:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ශෂේන්ද්‍රගේ-ඉල්ලීම-ප්‍රතික්ෂේපයි--යළි-රිමාන්ඩ්/11-418649) · `si`
 
-අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා ඉල්ලා සිටි ඇප අයදුම ප්‍රතික්ෂේප කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා ඔහු ලබන 30 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කළේය.
+Colombo Chief Magistrate Asanka S. Bodaragama, who was arrested by the Bribery Commission, was remanded until the 30th of this month.
 
-ශ්‍රී ලංකා මහවැලි අධිකාරියට අයත් සෙවණගල, කිරිඉබ්බන්වැව ප්‍රදේශයේ පිහිටි ඉඩමක අනවසරයෙන් ඉදිකර ඇති ගොඩනැගිල්ලක් ඇතුළු දේපොළ, 2022 වසරේ මැයි මස 09 වනදා ඇති වූ අරගලයේදී හානියට පවත්ව ඇති අතර ඒ වෙනුවෙන් රුපියල් ලක්ෂ 88කට ආසන් වන්දි මුදලක් ලබා ගනිමින් දූෂණය නැමැත් වරද සිදුකර ඇති බවට ඔහුට එරෙහිව පැමිණිලි කර තිබේ.
+The estate of the Mahaweli Authority of the Sri Lanka Mahaweli Authority has been damaged in the struggle in Sevanagala, which has been constructed in the Mahaweli Authority of the Kubela Authority of Kubelawewa.
 
 ◼️
 
 [Data](articles/8076de4a.json)
+
+[Extended Data](ext_articles/8076de4a.ext.json)
 
 ---
 
@@ -310,6 +586,24 @@ Trump is the first American President to pass the North Korean border while in o
 
 ---
 
+### Global trade volumes slow in 2Q25 on tariff impacts: Fitch Ratings
+
+*2025-09-22 12:44:00* · [`economynextcom`](https://economynext.com/global-trade-volumes-slow-in-2q25-on-tariff-impacts-fitch-ratings-241477/) · `en`
+
+ECONOMYNEXT – Global trade volumes have slowed ‘noticeably’ in 2Q25, Fitch Ratings said, and is expected to slow further in the coming months.
+
+“With an average US effective tariff rate of 16%, we expect global trade to slow further in the coming months,” the ratings agency said.
+
+Fitch Ratings-London-19 September 2025: Global trade volumes slowed noticeably in 2Q25, reversing the sharp increase recorded in 1Q25, a move which had been triggered by importers front-loading ahead of the implementation of US tariffs. An example of this trade volatility is shown by US imports in 1Q25 and 2Q25, when volumes increased 30% year on year (yoy) in March but then contracted to -2.8% yoy by June, as highlighted in the latest ‘Fitch-20 Economic Monitor’.
+
+...
+
+[Data](articles/ff157dca.json)
+
+[Extended Data](ext_articles/ff157dca.ext.json)
+
+---
+
 ### Naked body of man washes ashore at beach in Moratuwa
 
 *2025-09-22 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112764/naked-body-of-man-washes-ashore-at-beach-in-moratuwa) · `en`
@@ -379,6 +673,24 @@ A Ceylon Electricity Board (CEB) employee has been arrested by the Police Narcot
 [Data](articles/fca1c91b.json)
 
 [Extended Data](ext_articles/fca1c91b.ext.json)
+
+---
+
+### The girl who was small to make the Netherlands mother, looking for the real mother
+
+*2025-09-22 12:16:53* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-කල-නෙදර්ලන්ත-මවට-හදාගන්න-දුන්-තරුණිය-ඇත්ත-මව-සොයයි/11-418645) · `si`
+
+In 1985, a young woman who was given to adopt to adopt a Nedurna national mother in 1985, is searching for her Sri Lankan mother.
+
+Born in the Kalutara General Hospital on 23 April 1985, her name was Asoka, Asoka, Asoka, No. 3570 in Sri Lanka, as Senanayake Mudiyanselage Chandani, the mother's name. The birth has been registered by the Medical Secretary of the Kalutara Gallery in Kalutara on 13th May 1985. 24-year-old Senanayake Mudiyanselage Chandani, the mother, was addressed as the address of the informant and the address of the informantage was the address of Kandagahawila and Payagala. But her permanent address was mentioned in Matara.
+
+This child was legally obtained by Verna Elisabe Baaten by Jacobus Herman Marie Baton (Jacobus Herman Marie Baton) and Verna Elisabina Baaten.. Natahahap G 06, 6116 BK Roast. 19 The child is temporarily residenced by Unity Place, Colombo-03 addressing the signature of the child.
+
+...
+
+[Data](articles/196026d3.json)
+
+[Extended Data](ext_articles/196026d3.ext.json)
 
 ---
 
@@ -524,6 +836,34 @@ Israeli Prime Minister Benjamin Netanyahu strongly opposed the UK, Canada, and A
 
 ---
 
+### Sri Lanka central bank to survey public awareness on deposit insurance scheme
+
+*2025-09-22 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-survey-public-awareness-on-deposit-insurance-scheme-241462/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank (CBSL) said it was conducting a survey aimed at assessing public awareness of the Sri Lanka Deposit Insurance Scheme.
+
+The survey will be conducted on behalf of CBSL by an external firm M/S Kantar Lanka (Pvt) Ltd through the use of enumerators.
+
+CBSL said it aims to reach a broad segment of the population from September 2025 to November 2025.
+
+This is part of the Financial Sector Safety Net Strengthening Project funded by the International Development Association of the World Bank.
+
+“CBSL would like to assure that the information collected will be used solely for the purpose of this survey and will remain confidential.
+
+“As such, we kindly request your cooperation in responding to the survey questionnaire.”
+
+Questions, concerns or complaints regarding this survey, can  be addressed at the following contact numbers:
+
+The deposit insurance scheme is operated under the Deposit Insurance and Resolution Department of CBSL. (Colombo/Sep22/2025)
+
+◼️
+
+[Data](articles/629bc198.json)
+
+[Extended Data](ext_articles/629bc198.ext.json)
+
+---
+
 ### Galle Technology Park, which is a white elephant at Rs. 120 billion
 
 *2025-09-22 11:45:58* · [`adalk`](https://www.ada.lk/technology/කෝටි-120ක-සුදු-අලියෙක්-වී-ඇති-ගාල්ල-තාක්ෂණික-උද්‍යානය/5-418643) · `si`
@@ -571,6 +911,30 @@ The Attorney General has accused the case with the Cash Brigation Act of Rs.
 [Data](articles/bbda7974.json)
 
 [Extended Data](ext_articles/bbda7974.ext.json)
+
+---
+
+### Sri Lanka president to visit Japan, meet with officials, expats
+
+*2025-09-22 11:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-japan-meet-with-officials-expats-241453/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president Anura Disanayaka will visit Japan from September 27-30, where he will meet its leaders and attend a business forum, the Ministry of Foreign Affairs said.
+
+Disanayaka will have an audience with the emperor of Japan and the Japanese Prime Minister “on a wide range of issues of mutual interest” according to the foreign ministry statement.
+
+He will also address a business forum attended by key Japanese businesses and investors in Tokyo “focused on emerging economic opportunities in Sri Lanka”.
+
+Disanayaka will attend “EXPO 2025 Osaka”, which aims to highlight Sri Lanka’s cultural heritage and economic potential before an international audience.
+
+He is scheduled to meet the Sri Lankan expatriate community residing in Japan.
+
+Disanayaka will be accompanied by Minister of Foreign Affairs Vijitha Herath and senior government officials, the ministry said. (Colombo/Sep22/2025)
+
+◼️
+
+[Data](articles/08eeb4b8.json)
+
+[Extended Data](ext_articles/08eeb4b8.ext.json)
 
 ---
 
@@ -1049,6 +1413,34 @@ Responding to this, Israeli Prime Minister Benjamin Netanyahu said on Sunday (21
 [Data](articles/43d6047a.json)
 
 [Extended Data](ext_articles/43d6047a.ext.json)
+
+---
+
+### Sri Lanka rupee stronger against dollar, bond yields drop following credit rating upgrade
+
+*2025-09-22 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-drop-following-credit-rating-upgrade-241422/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.10/20 to the US dollar on Monday, stronger from 302.45/50 on Friday, while bond yields were down following the credit rating upgrade, dealers said.
+
+A bond maturing on 15.12.2029 was quoted at 9.48/52 percent, down from 9.50/54 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.66/70 percent, down from 9.70/75 percent.
+
+A bond maturing on 15.03.2031 was quoted flat at 10.00/05 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.35/45 percent.
+
+A bond maturing on 01.11.2033 was quoted at 10.65/70 percent, from 10.65/75 percent.
+
+A bond maturing on 15.09.2034 was quoted at 10.75/80 percent.
+
+The telegraphic transfer rates for the American dollar was 298.7500 buying, 305.7500 selling; the British pound was 401.2340 buying, and 412.5958 selling, and the euro was 348.2418 buying, 359.6050 selling.
+
+...
+
+[Data](articles/e2a40830.json)
+
+[Extended Data](ext_articles/e2a40830.ext.json)
 
 ---
 
@@ -1651,371 +2043,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/165138bc.json)
 
 [Extended Data](ext_articles/165138bc.ext.json)
-
----
-
-### Sri Lanka bank interest rates edge up amid ‘ramrod anomaly’ in bills
-
-*2025-09-22 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-interest-rates-edge-up-amid-ramrod-anomaly-in-bills-241410/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s bank interest rates have continued to edge up after a rate cut in May 2025, amid a strong economic recovery made possible by the stability provided by the central bank through past deflationary policy as well as stable government policies.
-
-According to central bank data the weighted average new fixed deposit rate fell to 6.62 percent in May and climbed to 6.85 percent in June and 6.90 percent in July.
-
-However, banks are now mobilizing 12-month deposits at 7.75 percent and above to finance strong credit demand and an economic recovery.
-
-The economic recovery may also have been helped by reduced government capex, which reduced domestic state borrowings and allowed private citizens to deploy resources to the most productive areas, bringing compounded long-term growth rather than bureaucratic spending.
-
-The weighted average new lending rate climbed to 10.56 percent in April from 10.46 percent in March, fell to 10.28 percent in June, a month after the rate cut.
-
-...
-
-[Data](articles/18e69626.json)
-
-[Extended Data](ext_articles/18e69626.ext.json)
-
----
-
-### Issue of a list of public authorities who do not file notifications of assets and responsibilities
-
-*2025-09-22 05:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225702) · `ta`
-
-The Commission, which is investigating bribery or corruption, has posted a list of public authorities who did not file a notification for 2024 as of March 25 and 2025.
-
-These include one former minister, four former provincial governors, six former state ministers, 29 former ambassadors and two appeal court judges.
-
-Former Minister Douglas Devananda is former Minister of Fisheries, who has not filed his assets and responsibilities.
-
-Former governors Marshall of the Air Force Roshan Gunathilaka, Senthil Thondaman, Naveen Dissanayake and William Kamage did not submit their assets and responsibilities notifications within the relevant date.
-
-Former diplomatic ministers Logan Ratwatte, Taraka Balasuriya, Shantha Bandara, Khadar Mastan, Sivanesathurai Chandrakanthan and Suren Raghavan have been included in the list of those who have not submitted the assets and responsibilities.
-
-◼️
-
-[Data](articles/79f1b0cf.json)
-
-[Extended Data](ext_articles/79f1b0cf.ext.json)
-
----
-
-### Extraordinary Gazette Notification on Electricity Services
-
-*2025-09-22 05:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225701) · `ta`
-
-The High Gazette Notification has been issued on Sunday, the 21st of this month, on the orders of President Anuragumara Dissanayake, declaration of all the services related to the power supply in Sri Lanka as essential services.
-
-This High Gazette Notification has been issued using the authority granted under Section 2 of the Essential Public Services Act No. 61 in 1979.. Officials said that this was considering the need for services to continue in order to not harm ordinary public life.
-
-This is now aimed at preventing services from being affected by strike actions that the Ceylon Electricity Board's trade unions are on.
-
-It is noteworthy that the unions have announced that they will go on strike from midnight on Sunday, the 21st, with the purchase and tender processes.
-
-◼️
-
-[Data](articles/bb9abb4f.json)
-
-[Extended Data](ext_articles/bb9abb4f.ext.json)
-
----
-
-### Ranil calls for united Opposition against ‘constitutional dictatorship’ at UNP’s 79th anniversary
-
-*2025-09-22 05:24:09* · [`dailyftlk`](https://www.ft.lk/news/Ranil-calls-for-united-Opposition-against-constitutional-dictatorship-at-UNP-s-79th-anniversary/56-782010) · `en`
-
-Urges to organise 1,000 joint Opposition rallies, satyagrahas and protests countrywide
-
-Calls his arrest politically motivated; expresses gratitude to political leaders who stood by him
-
-Defends his economic record, stressing he left office with stronger fundamentals
-
-Opposition and SJB Leader Sajith Premadasa congratulates UNP, its historic role in shaping modern SL
-
-SLPP General Secretary Sagara Kariyawasam admits both camps erred by branding each other rogues to gain power
-
-NDF MP Chamara Sampath Dassanayake calls for immediate UNP-SJB unity before reaching out to others
-
-Former President and United National Party (UNP) Leader Ranil Wickremesinghe, making his first public appearance since his arrest and remand, on Saturday urged Opposition parties to form a united front to resist what he described as a looming “constitutional dictatorship.”
-
-He made the appeal at the UNP’s 79th anniversary convention, calling the gathering the beginning of a broad democratic campaign.
-
-...
-
-[Data](articles/0a5967a2.json)
-
-[Extended Data](ext_articles/0a5967a2.ext.json)
-
----
-
-### India-Sri Lanka Foundation approves new projects to boost economic ties
-
-*2025-09-22 05:20:39* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-Foundation-approves-new-projects-to-boost-economic-ties/56-782009) · `en`
-
-Indian High Commissioner Santosh Jha (centre, right) with Sri Lanka High Commissioner to India Mahishini Colonne (centre, left) flanked by India-Sri Lanka Foundation Board members
-
-Projects cover range of sectors including tourism, agriculture, fisheries, education, healthcare
-
-The high-level India-Sri Lanka Foundation (ISLF) has approved several projects to boost cultural and economic ties between the two countries.
-
-The 40th meeting of the Board of Directors of the ISLF was held in Colombo on Friday (19). The session was Co-Chaired by Indian High Commissioner Santosh Jha and Sri Lanka High Commissioner to India Mahishini Colonne.
-
-...
-
-[Data](articles/65c0af89.json)
-
-[Extended Data](ext_articles/65c0af89.ext.json)
-
----
-
-### Public Rights Movement raises alarm over Litro tender changes, calls for probe
-
-*2025-09-22 05:19:54* · [`dailyftlk`](https://www.ft.lk/news/Public-Rights-Movement-raises-alarm-over-Litro-tender-changes-calls-for-probe/56-782008) · `en`
-
-The National Movement for the Protection of Public Rights has voiced strong concern over recent changes made to Litro Gas Lanka’s tender process for importing liquefied petroleum gas (LPG), warning that the move could undermine the profitability of the State-owned enterprise (SOE) and compromise national energy security.
-
-In a letter addressed to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) Director-General, Movement Convener Charaka Thilakaratne alleged that a key clause in previous tender documents had been removed without proper authorisation. The clause had prohibited Litro from using storage facilities owned by competing suppliers to store imported gas reserves, a safeguard long considered essential to prevent market manipulation in the critical gas sector.
-
-...
-
-[Data](articles/3df9e6ae.json)
-
-[Extended Data](ext_articles/3df9e6ae.ext.json)
-
----
-
-### Moose Clothing opens first-ever store at One Galle Face Mall
-
-*2025-09-22 05:18:45* · [`dailyftlk`](https://www.ft.lk/business/Moose-Clothing-opens-first-ever-store-at-One-Galle-Face-Mall/34-782007) · `en`
-
-Moose Clothing Company has opened its first-ever retail store at the iconic One Galle Face Mall in Colombo.
-
-The opening welcomed the entire Moose team, board of directors, and well-wishers to celebrate this significant milestone. Designed with care and intention, the store represents more than a retail space—it’s a full brand experience brought to life.
-
-Customers can now explore the complete Moose collection under one roof, including men’s, women’s, and unisex clothing. From timeless staples to trend-driven styles, the collections reflect Moose’s focus on affordable premium essentials—everyday fashion inspired by global trends and tailored for local lifestyles.
-
-...
-
-[Data](articles/02331e12.json)
-
-[Extended Data](ext_articles/02331e12.ext.json)
-
----
-
-### The government attempts to implement a party regime; Opposition Leader calls to mobilize against repression
-
-*2025-09-22 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225700) · `ta`
-
-If silent, the government will capture everything. We must coordinate against the government's repressive plan.  Opposition leader Sajith Premadasa said the people could defeat the idea that the government was a party -expected party.
-
-The Opposition Leader said this while addressing a meeting held on Saturday, the 20th of this month with newly elected members of the local government in Anuradhapura district.
-
-The government is very systematic that only one party in the country is leading the government and running the government.. They are trying to take control of everything from the Death Assistant Association, the Farmers' Association, the Fishermen's Association, the Youth Club. They are trying to forcibly seize the power and control of all social organizations. Political appointments have also been made to the Independent Civil Defense Committee.
-
-...
-
-[Data](articles/262edf51.json)
-
-[Extended Data](ext_articles/262edf51.ext.json)
-
----
-
-### The current unity of the opposition parties is like trash - Bimal Ratnayake accuses
-
-*2025-09-22 05:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225699) · `ta`
-
-The current merger of the opposition parties is seen as a garbage. The people of the country are on the National People's Power. The Minister of Transport, Highways Development Port and Civil Aviation Port and Civil Aviation, Bimal Ratnayake said that the people will not come to power in the country.
-
-He made this statement during a public meeting held on Saturday 20th in Ampara.
-
-Thieves and corrupt people in the past have come together on the same platform today. Sri Lanka PA's General Secretary Sakara Kariyawasam has stated that we have criticized each other as a thief to seize power.
-
-The defeat of the 2024 presidential election and the general election and the thieves are all united on one side.
-
-During the elections in the coming period, all the thieves who are currently united can unanimously be defeated.
-
-Opposition parties are united for the problems of the people.
-
-...
-
-[Data](articles/14a67b88.json)
-
-[Extended Data](ext_articles/14a67b88.ext.json)
-
----
-
-### Siddhalepa Golden Night 2025 – Honouring legacy, rewarding excellence
-
-*2025-09-22 05:06:59* · [`dailyftlk`](https://www.ft.lk/business/Siddhalepa-Golden-Night-2025-Honouring-legacy-rewarding-excellence/34-782006) · `en`
-
-From heartfelt tributes to dazzling performances,  evening brings together achievements, togetherness, and the true spirit of Siddhalepa
-
-The Siddhalepa family gathered in grand style at the Monarch Imperial, Sri Jayawardenepura Kotte, for the Siddhalepa Golden Night – team get-together 2025. Hosted by the popular actor and presenter Vishwa Lanka, with music by the renowned band Freeze and performances by Kanchana Anuradhi and Lahiru Perera, the evening was filled with joy, glamour, and togetherness.
-
-The program began with a heartfelt tribute to the late Chairman, followed by an inspiring address from the present Chairman, who commended the tireless dedication and commitment of the Siddhalepa team in carrying the brand’s proud name to every corner of the country for over 90 years. The highlight of the night was the presentation of awards that recognised the company’s finest performers, whose service, responsibility, and skill have contributed immensely to Siddhalepa’s continued growth.
-
-...
-
-[Data](articles/7b10254a.json)
-
-[Extended Data](ext_articles/7b10254a.ext.json)
-
----
-
-### Opposition parties united by fear of arresting corrupt people; Sunil Vatagala - appropriate legal action against us
-
-*2025-09-22 05:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225698) · `ta`
-
-Opposition parties are currently united when they are arresting corrupt people. The people of the country must understand their true face. Minister of Public Security and Parliamentary Affairs Sunil Vatagala said that we will take appropriate legal action against the allegations leveled against us.
-
-The government headed by President Anura Kumara has come to power for a year. One year, major corrupt and criminals have been arrested by the law. The law is now common.
-
-When the corrupt is arresting the corrupt law, all the opposition parties are worried and now united.
-
-We are the ones who have filed a bribery and corruption inquiry into the property and responsibility documents.
-
-The anti -corruption law was enacted in the government of former President Ranil -Rajapakse.
-
-Our government has survived the anti -corruption law. According to the law, the Bribery and Corruption Commission is currently acting as per the law. That is why corrupt people are afraid.
-
-◼️
-
-[Data](articles/92c410c0.json)
-
-[Extended Data](ext_articles/92c410c0.ext.json)
-
----
-
-### Rockland commemorates 101 years with Chairman’s Awards ceremony
-
-*2025-09-22 05:03:52* · [`dailyftlk`](https://www.ft.lk/business/Rockland-commemorates-101-years-with-Chairman-s-Awards-ceremony/34-782005) · `en`
-
-Winners across more than 20 categories throughout the Rockland Group recognised for their dedication and service
-
-Carl de Silva Wijeyeratne Challenge Trophy winner Hotel Partnerships Head Dilan Fernando
-
-Leadership Category winner – Liquid Island GM and Brand Communications and PR Group Head Shalindri Malawana (right)
-
-General Manager Category winners – General Manager of Operations Eranda Attanayake (left) and Group Sales and Commercial Strategy General Manager Chathura Ganegoda
-
-Best Sales Channel Leader award presented to National Sales Head Chandana Wijesinghe (right)
-
-Rockland Group recently celebrated its 101st anniversary with the third annual Chairman’s Awards.
-
-The milestone event recognised and celebrated the achievements of exceptional individuals who have contributed to the company’s continued success while upholding its heritage of innovation, quality, and resilience.
-
-...
-
-[Data](articles/90950b2e.json)
-
-[Extended Data](ext_articles/90950b2e.ext.json)
-
----
-
-### The problem will be solved through the obvious measures of drug purchases
-
-*2025-09-22 04:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/225697) · `ta`
-
-The situation is due to the problems of procurement, not the financial problem, but the current drug shortage in the country.. Health Minister Nalinda Jayatissa said the problem would be solved through open measures.
-
-He was speaking at a function held on Saturday 20th in Ampara.
-
-The procurement processes for importing drugs have already begun and the drugs that are scarce will be obtained after the next November.
-
-Some drugs are not available in the private market, not available in the open air, not available in the market, and not available in pharmacies. There are many problems like this. We do not allow the record by submitting unlimited prices during the drug registration. In South Asian countries, a specific price limit has been set in view of the current market situation.
-
-...
-
-[Data](articles/698324f6.json)
-
-[Extended Data](ext_articles/698324f6.ext.json)
-
----
-
-### Royal College Admissions Abuse: Ranga Dissanayake's son
-
-*2025-09-22 04:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/225696) · `ta`
-
-The Commission to Investigate Bribery or Corruption has announced that the Commission has prioritized and inquired about the system of recruitment of the Royal College of Colombo to the Colombo Royal College.
-
-The Commission has decided that proper methods have been adopted to incorporate the son of the Director General to the Royal College, Colombo, or that no political intervention has been taken.
-
-The Commission has issued a special report on the complaint made to the Commission regarding the Commission's Director General of the Commission to Investigate Bribery or Corruption.
-
-The Director General of the Commission to Investigate Bribery or Corruption, Ranga Dissanayake, has reportedly added his son to the Royal College of Colombo in 2014, according to the Commission's Commission, including the Commission, including the Commission's Commission, according to the Commission's Commission.
-
-...
-
-[Data](articles/7bd568a7.json)
-
-[Extended Data](ext_articles/7bd568a7.ext.json)
-
----
-
-### Vidullanka’s Matara solar power plant adds another 3 MW of clean energy to national grid
-
-*2025-09-22 04:52:23* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-Matara-solar-power-plant-adds-another-3-MW-of-clean-energy-to-national-grid/34-782004) · `en`
-
-Vidullanka PLC announced the commissioning of the 3 MW solar plant, constructed by its subsidiary Vidul Matara Solar Power Ltd. on Friday, 19 September. The new plant holds an installed capacity of 3 MW with the ability to export approximately 5.5 GWh of clean energy annually to the national grid.
-
-This milestone brings Vidullanka’s total portfolio to 24 operational power plants with a combined installed capacity of 66 MW, further contributing to the achievement of the nation’s renewable energy targets.
-
-The completion of this plant marks the first project concluded as per the 9MW awarded to the group through the CEB’s 70MW tender. This brings Vidullanka’s total solar plants commissioned for the year to a total of 3 with a cumulative capacity of 15MW, all commissioned within the span of three months. In addition, the group has a fourth solar project currently under development.
-
-...
-
-[Data](articles/7388cb97.json)
-
-[Extended Data](ext_articles/7388cb97.ext.json)
-
----
-
-### Senaka Alawattegama appointed Director/CEO of Kelani Valley Plantations
-
-*2025-09-22 04:49:57* · [`dailyftlk`](https://www.ft.lk/business/Senaka-Alawattegama-appointed-Director-CEO-of-Kelani-Valley-Plantations/34-782003) · `en`
-
-Kelani Valley Plantations PLC (KVPL), part of Hayleys Plantations, has appointed industry veteran Senaka Alawattegama as Director/Chief Executive Officer, effective 1 August.
-
-Alawattegama was also appointed as a Director to D.P.L. Plantations Ltd., Kelani Valley Resorts Ltd., Mabroc Teas Ltd., and Kalupahana Power Company Ltd.
-
-With over 40 years of experience in the plantation sector, Alawattegama began his career at the Sri Lanka State Plantations Corporation before joining Talawakelle Tea Estates PLC (TTE PLC) at its inception. In February 2020, he was appointed Director/CEO, leading the company to significant milestones in sustainability, market growth and operational efficiency.
-
-...
-
-[Data](articles/55f8dbb1.json)
-
-[Extended Data](ext_articles/55f8dbb1.ext.json)
-
----
-
-### Actress Radhika's mother has passed away
-
-*2025-09-22 04:04:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-ராதிகாவின்-தாயார்-காலமானார்/175-365028) · `ta`
-
-The late actor MR. Geetaradha (age 86), Radha's wife and mother of actress Radhika
-
-Died yesterday evening due to ill health and age. (A)
-
-◼️
-
-[Data](articles/f6fcf004.json)
-
-[Extended Data](ext_articles/f6fcf004.ext.json)
-
----
-
-### Accident
-
-*2025-09-22 03:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பப்-பெண்-உயிரிழப்பு/175-365027) · `ta`
-
-Yall. A family woman was killed and a youth was injured in an accident in the Kachchai area of ​​the Thenmarachchi Kodikamam police division.
-
-The accident occurred when a woman and a young man were traveling towards Kodikamam through the Kachchai road in a motorcycle.
-
-A 46 -year -old family woman from Mrusuwil, Nandakumar Jayalakshmi, died.
-
-◼️
-
-[Data](articles/5495e549.json)
-
-[Extended Data](ext_articles/5495e549.ext.json)
 
 ---

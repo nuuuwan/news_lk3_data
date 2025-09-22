@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 04:38:17**
+As of **2025-09-23 04:54:34**
 
 ## Newspaper Stats
 
-*Scraped **77,541** Articles*
+*Scraped **77,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ dailyftlk | 5,510
 adalk | 7,528
 adaderanalk | 10,039
 tamilmirrorlk | 11,660
-virakesarilk | 12,620
+virakesarilk | 12,623
 adaderanasinhalalk | 13,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,541 (100.0%) of 77,541 articles have been extended.
+77,541 (100.0%) of 77,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### பாராளுமன்றம் இன்று கூடுகிறது
+
+*2025-09-23 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225807) · `ta`
+
+செப்டெம்பர் மாத இரண்டாவது பாராளுமன்ற அமர்வு செவ்வாய்க்கிழமை 23ஆம் திகதி முதல் 26ஆம் திகதி வரை கூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.  சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில் அண்மையில்  நடைபெற்ற பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்தில் இவ்வாறு தீர்மானிக்கப்பட்டிருப்பதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார்.
+
+இதற்கமைவாக பாராளுமன்றம் கூடும் ஒவ்வொரு நாளும் காலை 9.30 மணி முதல்  10.00 மணிவரை நிலையியற் கட்டளை 22 இல் குறிப்பிடப்பட்டுள்ள 1 முதல் 6 வரையான பாராளுமன்ற அலுவல்களுக்கு நேரம் ஒதுக்கப்பட்டுள்ளது. இதனையடுத்து  10.00 மணி முதல்  11.00 மணிவரை வாய்மூல விடைக்கான கேள்விகளுக்காக நேரம் ஒதுக்கப்பட்டுள்ளதுடன், 11.00 மணி முதல்  11.30 மணிவரயான நேரம்  நிலையியற் கட்டளை 27(2)ன் கீழான கேள்விக்காக ஒதுக்கப்பட்டுள்ளது.
+
+அதன் பிரகாரம் இன்று 23ஆம் திகதி செவ்வாய்க்கிழமை 11.30 மணி முதல் மாலை  5.00 மணி வரை தேசிய கட்டிட ஆராச்சி நிறுவகம் சட்டமூலத்தின் இரண்டாவது மதிப்பீடு விவாதத்தை நடத்தத் தீர்மானிக்கப்பட்டது.
+
+...
+
+[Data](articles/1b2523b9.json)
+
+---
+
+### தெற்கு அதிவேக வீதியில் லொறி விபத்து!
+
+*2025-09-23 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/225806) · `ta`
+
+தெற்கு அதிவேக வீதியின் தொடங்கொட–களனிகம இடையே திங்கட்கிழமை (22) இரவு ஏற்பட்ட விபத்தில் ஒருவர் காயமடைந்துள்ளார்.
+
+காலியில் இருந்து கொழும்பு நோக்கி புத்தகங்களை ஏற்றிச் சென்ற லொறி ஒன்று கட்டுப்பாட்டை இழந்து வீதியில் கவிழ்ந்தது. இதனால், கொழும்பு நோக்கிச் செல்லும் பாதையின் போக்குவரத்து தற்காலிகமாக முடங்கியதாக பொலிஸ் தெரிவித்துள்ளது.
+
+இந்த நிலைமையால் தொடங்கொட முதல் களனிகம வரை கடும் போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/71621489.json)
+
+---
+
+### ஐ.நா. 80வது பொதுச் சபை அமர்வில் பங்கேற்க அமெரிக்கா நோக்கி புறப்பட்டார் ஜனாதிபதி
+
+*2025-09-23 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225805) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் 80வது பொதுச் சபை அமர்வில் கலந்து கொள்வதற்காக ஜனாதிபதி அனுரகுமார திசாநாயக்க தீவை விட்டு வெளியேறி அமெரிக்கா நோக்கி புறப்பட்டு சென்றுள்ளார்.
+
+ஜனாதிபதி 24 ஆம் திகதி புதன்கிழமை உள்ளூர் நேரப்படி பிற்பகல் 3.15 மணிக்கு ஐக்கிய நாடுகள் சபையின் பொதுச் சபையில் உரையாற்ற உள்ளார்.
+
+இந்த விஜயத்தின் போது, ஜனாதிபதி அனுரகுமார திசாநாயக்க ஐக்கிய நாடுகள் சபையின் செயலாளர் நாயகம் மற்றும் பல நாட்டுத் தலைவர்களுடன் இருதரப்பு கலந்துரையாடல்களையும் நடத்த உள்ளார்.
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்கவுடன் இந்த விஜயத்தின் போது வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் உடன் சென்றுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4c7bc0e2.json)
+
+---
 
 ### Petrol Bomb Bomb on the house
 
@@ -2005,69 +2055,5 @@ Plandani Kumara Dissanayake said that President Anura Kumara Dissanayake had not
 [Data](articles/ab35ab64.json)
 
 [Extended Data](ext_articles/ab35ab64.ext.json)
-
----
-
-### Demonstration against state corruption in the Philippines!
-
-*2025-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225746) · `ta`
-
-Many people have taken to the streets to protest because they are said to have spent billions of dollars on fake relief projects.
-
-Tens of thousands of Philippines took to the streets on Sunday (21) against government corruption.
-
-Citizens from students, church groups, celebrities and various political camps have staged protests in Manila and other cities.
-
-Police have arrested 72 people, including 20 children, during these protests. Also, 39 security officers were injured in the demonstration. It is reported that a trailer vehicle used as a barrier was also set on fire.
-
-Various issues are attributed to these struggles, including the bribery of lawmakers and authorities.
-
-At the same time, important projects have not been implemented to protect the country from flooding. The Philippine government's estimates suggest that the country's economy has lost £ 1.48 billion in the last two years due to corruption in flood control projects.
-
-...
-
-[Data](articles/f6b5ec75.json)
-
-[Extended Data](ext_articles/f6b5ec75.ext.json)
-
----
-
-### Arrested doctor who cheated for 20 years
-
-*2025-09-22 14:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-வருடங்களாக-ஏமாற்றிய-வைத்தியர்-கைது/175-365064) · `ta`
-
-A 54 -year -old man who allegedly pretended to be a doctor for nearly two decades was arrested yesterday evening (21).
-
-The suspect from the Teltuwa area has runs a medical center under the name Sahana Seva near Sri Tharakarama Vihara.
-
-He said that he was using the registration number of the Sri Lanka Medical Council (SLMC) owned by another doctor, police said.
-
-◼️
-
-[Data](articles/c57a075a.json)
-
-[Extended Data](ext_articles/c57a075a.ext.json)
-
----
-
-### Order to demolish a hotel owned by former governor's wife
-
-*2025-09-22 14:29:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஆளுநரின்-மனைவிக்கு-சொந்தமான-ஹோட்டலை-இடிக்க-உத்தரவு/175-365063) · `ta`
-
-Mrs. Ajanta, wife of former North Central Provincial Governor Maibala Herath, has been ordered to demolish the hotel owned by Rupasi Herath.
-
-The order was issued by Sudarshana Dissanayake, the Divisional Secretary of the Central Nuwarasam, and confirmed that he had occupied 60 perch protected land, including the hotel and several structures nearby.
-
-According to the authorities, constructions were carried out without formal documents or legal approval. The demolition work must be completed within a month of the announcement.
-
-The move is part of a vast government effort to border and secure the reserves of ponds in Anuradhapura district.
-
-The scheme, carried out by the Irrigation Department, includes measurement of land and establishing border markers to prevent encroachments in the future.
-
-...
-
-[Data](articles/7b9d75e0.json)
-
-[Extended Data](ext_articles/7b9d75e0.ext.json)
 
 ---

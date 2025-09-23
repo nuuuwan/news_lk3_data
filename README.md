@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 00:13:07**
+As of **2025-09-24 00:37:01**
 
 ## Newspaper Stats
 
-*Scraped **77,749** Articles*
+*Scraped **77,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,90 @@ dailyftlk | 5,510
 adalk | 7,556
 adaderanalk | 10,082
 tamilmirrorlk | 11,707
-virakesarilk | 12,650
-adaderanasinhalalk | 13,582
+virakesarilk | 12,651
+adaderanasinhalalk | 13,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,747 (100.0%) of 77,749 articles have been extended.
+77,751 (100.0%) of 77,751 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-24 (Wednesday)
+
+### Superior to Pakistan
+
+*2025-09-24 00:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214931) · `si`
+
+Pakistan won the match between Sri Lanka and Pakistan in the match of the Asian Cup.
+
+This was in Abuoda, as a match of the Super Four.
+
+With this competition, the Sri Lankan team lost their ability to enter the final match of the Asia Cup.
+
+Sri Lanka scored 134 runs for the loss of 138 runs for the loss of 17 wickets at the end of 17 overs.
+
+◼️
+
+[Data](articles/cec7a002.json)
+
+[Extended Data](ext_articles/cec7a002.ext.json)
+
+---
+
 ### 2025-09-23 (Tuesday)
 
-### தாமரை கோபுரத்தில் Bungee Jumping
+### Bungee jumping in the lotus tower
 
 *2025-09-23 23:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரத்தில்-Bungee-Jumping/175-365167) · `ta`
 
-கொழும்பு தாமரை கோபுரத்தில் அடுத்த ஆண்டுக்குள் பங்கீ ஜம்பிங் (Bungee Jumping) திட்டத்தை ஆரம்பிக்கத் திட்டமிட்டுள்ளதாக ஷிரந்த பீரிஸ் அறிவித்தார்.
+Shiranda Peiris has announced that it is planning to launch a Bungee Jumping project at the Lotus Tower in Colombo within next year.
 
-அத்துடன் பங்கேற்பாளர்களின் பாதுகாப்பை உறுதி செய்வதற்காக அதிகபட்ச பாதுகாப்பு நடவடிக்கைகளுடன் இந்தத் திட்டம் அறிமுகப்படுத்தப்படும் என அவர் தெரிவித்தார்.
+He said the scheme would be introduced with maximum security measures to ensure the safety of the participants.
 
-மேலும் கொழும்பு தாமரை கோபுரத்தின் பாதுகாப்பைப் பலப்படுத்துவதற்காக பாதுகாப்புப் பணியாளர்கள் அதிகரிக்கப்பட்டுள்ளதாகவும், கண்காணிப்பு கெமராக்கள் பொருத்தப்பட்டுள்ளதாகவும் ஷிரந்த பீரிஸ் கூறியுள்ளார். R
+Shiran Peiris has said that security personnel have been increased to strengthen the security of the Lotus Tower in Colombo and have been fitted with surveillance cameras.. Remble
 
 ◼️
 
 [Data](articles/8c3b8e0b.json)
 
+[Extended Data](ext_articles/8c3b8e0b.ext.json)
+
 ---
 
-### ஜனாதிபதி அமெரிக்காவை சென்றடைந்தார்
+### The president has reached the United States
 
 *2025-09-23 23:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அமெரிக்காவை-சென்றடைந்தார்/175-365165) · `ta`
 
-ஐக்கிய நாடுகள் பொதுச் சபையின் 80ஆவது அமர்வில் கலந்து கொள்வதற்காக ஜனாதிபதி அநுரகுமார திசாநாயக்க அமெரிக்காவின் நியூயோர்க் நகரை சென்றடைந்துள்ளார்.
+President Anura Kumara Dissanayake has traveled to New York City, USA to attend the 80th session of the United Nations General Assembly.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க, நாளை (24) ஐக்கிய நாடுகள் பொதுச் சபை கூட்டத்தொடரில் உரையாற்றவுள்ளார். (a)
+President Anura Kumara Dissanayake will address tomorrow (24) at the United Nations General Assembly. (A)
 
 ◼️
 
 [Data](articles/6fbd4ba3.json)
+
+[Extended Data](ext_articles/6fbd4ba3.ext.json)
+
+---
+
+### Cabinet approval for the Kottawa -Doddoda Reconstruction of Southern Highway
+
+*2025-09-23 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225904) · `ta`
+
+The Cabinet has approved the allocation of Rs 1.4 billion for the rehabilitation of the road to the Kottawa - Kottawa on the Southern Highway.
+
+The road from the Kottawa Highway on the Kottawa Highway of the Southern Highway has been opened for motor vehicle traffic in 2011 and no major reconstruction has been carried out so far.
+
+The need to be reconstructed quickly under the two -kilometer highway on the Southern Expressway, from 0 kilometers to 19 kilometers, and the highway area of ​​19 kilometers to 34 km to 34 km / h.. Accordingly, the government is planning to rehabilitate the second Pathage under the second Page, which has a highway highway of 19 kilometers to cover the highway road with 04 routes.
+
+...
+
+[Data](articles/c5aec9e1.json)
+
+[Extended Data](ext_articles/c5aec9e1.ext.json)
 
 ---
 
@@ -2039,53 +2083,5 @@ The report stated that the new paths are for skilled workers and traders and tec
 [Data](articles/d1fcaaf1.json)
 
 [Extended Data](ext_articles/d1fcaaf1.ext.json)
-
----
-
-### Tigers. 40 crores tried to change: Sri Lankan woman's affidavit to ED
-
-*2025-09-23 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளுக்கு-ரூ-40-கோடியை-மாற்ற-முயன்றேன்-ED-யிடம்-இலங்கை-பெண்-வாக்குமூலம்/150-365127) · `ta`
-
-A Sri Lankan woman has confessed that he was trying to replace the bank's money, Rs 40 crore to finance the Tamil LTTE.. The Enforcement Department is investigating him.
-
-Hamida A. Lalji at the Mumbai branch of Indian Overseas Bank. Having 40 crores of money. His bank account was not handled because he died.
-
-Knowing this, Uma Kandan, who lives in Denmark of the LTTE, decided to take the money to their movement.
-
-For this, he sent Sri Lankan Tamil Lakshmanan Mary Franciska, 45, to India to seize the money.. He came to India and said he had received PAN card, Aadhaar card and passport through fake documents.
-
-It is said that Kenniston Fernando, Baskaran, Johnson Samuel, Dharmendran and Mohan, along with Hamida, have prepared forged documents.
-
-With those documents, they tried to take Hamida's Rs 40 crore in the bank. In 2021, Lakshmanan Mary, who tried to take a flight from Chennai to Bangalore to Bangalore, was arrested by the CU.
-
-...
-
-[Data](articles/bb83f8c4.json)
-
-[Extended Data](ext_articles/bb83f8c4.ext.json)
-
----
-
-### 2025 Galle Conversation begins tomorrow.
-
-*2025-09-23 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225840) · `ta`
-
-The Galle Conversation is scheduled to commence on Wednesday (September 24).
-
-The two -day conference held by the Ministry of Defense will be held at the Wave and Lake Naval Conference Hall in Welisarai.
-
-The two -day primary forum will be attended by senior representatives, naval leaders and maritime experts from 34 countries and 14 international organizations.
-
-The conference is expected to develop a strategic conversation on creating a safe, fertile and stable maritime future under the theme of "the maritime vision of the Indian Ocean under the changing mechanism."
-
-The conference has been built on the four main sessions that focuses on the five major sessions of the maritime environment, maritime administration, maritime economy, maritime stability and the clean Indian Ocean, which focuses on the four main sessions.
-
-It is also reported that it will be discussed with the aim of creating joint strategies to address traditional and non -traditional maritime threats.
-
-◼️
-
-[Data](articles/e555c536.json)
-
-[Extended Data](ext_articles/e555c536.ext.json)
 
 ---

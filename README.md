@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 01:38:30**
+As of **2025-09-24 01:56:35**
 
 ## Newspaper Stats
 
@@ -26,25 +26,29 @@ adaderanasinhalalk | 13,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,751 (100.0%) of 77,752 articles have been extended.
+77,752 (100.0%) of 77,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### ஐ.நா வதிவிடப் பிரதிநிதியிடம்  தமிழ் மக்களின் கையொப்பங்கள் கையளிப்பு!
+### Signatures of Tamil people to UN Resident Representative
 
 *2025-09-24 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225905) · `ta`
 
-ஐ.நாவின் இலங்கைக்கான வதிவிடப் பிரதிநிதி திரு மார்க் அண்ட்ரே பிரான்சேவிடம் அனைத்து தமிழ்த் தேசியக் கட்சிகளும் ஒன்றிணைந்து கையெழுத்துப் போராட்டத்தில் பெற்றுக் கொண்ட கையொப்பங்கள் 23ஆம் திகதி செவ்வாய்க்கிழமை கொழும்பில் கையளிக்கப்பட்டன.
+The resident representative of the United Nations, Mr. Mark andre France, was handed over to all Tamil National parties in a signature signing struggle on Tuesday 23rd.
 
-இன்று செவ்வாய்க்கிழமை மாலை 3:30 மணியளவில் கொழும்பில் உள்ள ஐ.நா அலுவலகத்தில் இச்சந்திப்பு நடைபெற்றது. இக் கையொப்பங்களுடன் தமிழ் தேசிய கட்சிகளின் தலைவர்கள் ஒன்றிணைந்து கையொப்பமிட்ட கடித வரைவும் கையளிக்கப்பட்டது.
+The meeting was held at the UN office in Colombo at 3:30 pm on Tuesday. The signatures were handed over to the letter of Tamil National Party leaders.
 
-தமிழ் தேசிய கட்சிகளின் சார்பில் பாராளுமன்ற உறுப்பினர் கௌரவ செல்வம் அடைக்கலநாதனும், சமத்துவ கட்சியின் செயலாளர் நாயகம். சந்திரகுமார் அவர்களும், கட்சிகளின் ஒருங்கிணைப்பாளரான குருசுவாமி சுரேந்திரனும் இச் சந்திப்பில் கலந்து கொண்டனர்.
+Member of Parliament on behalf of Tamil National Party. Chandrakumar and Kuruswamy Surendran, the coordinator of the parties, attended the meeting.
+
+In a letter written to the UN Human Rights High Commissioner, the UN Secretary General, the Security Council and the representatives of the Human Rights Council's members of the Human Rights Council. Vigneswaran, Gajendrakumar on behalf of Ponnambalam. Gajendran, Kau. Wealthy Adakkalanathan, Mr.. Dharmalingam Siddharthan, Mr. Suresh Premachandran, Mr.. Murukesu Chandrakumar and Mr S. Naveendra (Venthan) signed the signature.
 
 ...
 
 [Data](articles/f20ad207.json)
+
+[Extended Data](ext_articles/f20ad207.ext.json)
 
 ---
 

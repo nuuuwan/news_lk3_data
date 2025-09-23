@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 03:20:22**
+As of **2025-09-24 02:20:24**
 
 ## Newspaper Stats
 
-*Scraped **77,766** Articles*
+*Scraped **77,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 788
 economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,773
-dailyftlk | 5,524
+dailyftlk | 5,510
 adalk | 7,556
 adaderanalk | 10,082
 tamilmirrorlk | 11,707
@@ -26,281 +26,11 @@ adaderanasinhalalk | 13,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,764 (100.0%) of 77,766 articles have been extended.
+77,752 (100.0%) of 77,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
-
-### NPP Government’s shamelessness over Gaza
-
-*2025-09-24 02:59:31* · [`dailyftlk`](https://www.ft.lk/opinion/NPP-Government-s-shamelessness-over-Gaza/14-782108) · `en`
-
-What is glaring, however, is just how completely the NPP has capitulated
-
-Among the hopes many had for the NPP Government when it was elected one year ago was that it would move Sri Lanka to actually opposing the devastating genocide Israel was carrying out against the Palestinian people in Gaza. What the NPP Government has gone on to do since then has been the opposite. A look at its positions on Palestine, its actions while in Government and its own past unearths a shamelessness which all Sri Lankans must contend with.
-
-...
-
-[Data](articles/1adb75fc.json)
-
----
-
-### Who cries for Hambantota, and why?
-
-*2025-09-24 02:56:36* · [`dailyftlk`](https://www.ft.lk/columns/Who-cries-for-Hambantota-and-why/4-782107) · `en`
-
-Hambantota is not merely an alternative; it is a practical solution to systemic inefficiencies in Sri Lanka’s current LPG supply chain
-
-This article is written to set the record straight in response to misleading narratives about the recent Litro Gas tender. It is not about protecting one company’s interest, but about revealing how Hambantota, if rationally utilised, can deliver long-overdue benefits to Sri Lanka’s economy and people.
-
-For time immemorial, Sri Lanka has been a decisive node in global trade. From the days of the Silk Route, Ceylon—as it was then called—connected East and West. Historical records from the Godawaya port in Hambantota show how this southern coast played a role in international trade centuries ago. After 75 years of independence, despite every Government repeating Hambantota’s location-specific advantage as an election slogan, little was done to convert that advantage into real economic prosperity.
-
-...
-
-[Data](articles/4a4b52b7.json)
-
----
-
-### Sri Lanka’s next big green industry
-
-*2025-09-24 02:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-big-green-industry/4-782103) · `en`
-
-Eco-conscious travellers look for destinations that practise what they preach, and packaging, often overlooked, can reinforce Sri Lanka’s positioning as a responsible, ethical destination
-
-Sustainable food packaging is no longer about simply replacing plastic with paper. The real test lies in creating systems that deliver food safety, preserve shelf life, and meet consumer convenience, all while being environmentally responsible. What matters now is how packaging performs across its entire lifecycle: from raw material sourcing and production to disposal and reuse. That’s where real impact begins.
-
-...
-
-[Data](articles/524e65b7.json)
-
-[Extended Data](ext_articles/524e65b7.ext.json)
-
----
-
-### Empowering Sri Lanka’s youth: Building globally recognised career pathways beyond university
-
-*2025-09-24 02:44:58* · [`dailyftlk`](https://www.ft.lk/columns/Empowering-Sri-Lanka-s-youth-Building-globally-recognised-career-pathways-beyond-university/4-782102) · `en`
-
-This article serves as Part II of the series originally published in the Daily FT under the title “Reimagining Sri Lanka’s university system.” I collaborated with a fellow civil engineer who graduated from the University of Moratuwa in 1987 and has since charted an impressive career path in the international corporate sector via the Asia Pacific Region. He brings a wealth of insight into the vocational training landscape in both Singapore and Australia. He also shares valuable perspectives drawn from his role on the External Advisory Committee for the practical undergraduate degree programs at Western Sydney University.
-
-...
-
-[Data](articles/86934acf.json)
-
-[Extended Data](ext_articles/86934acf.ext.json)
-
----
-
-### EU agrees to $ 9.4 m grant to push sustainable development
-
-*2025-09-24 02:23:25* · [`dailyftlk`](https://www.ft.lk/business/EU-agrees-to-9-4-m-grant-to-push-sustainable-development/34-782092) · `en`
-
-European Union Ambassador to Sri Lanka Carmen Moreno (left) and Treasury Secretary Dr. Harshana Suriyapperuma
-
-Financing to restore degraded ecosystems, targeted conservation strategies, and sustainable land use
-
-Will also develop solid waste management systems to protect environment, improve public health
-
-The Finance Ministry yesterday said that it had signed a Euro 8 million ($ 9.4 million) grant agreement with the European Union to support the country’s sustainable economic recovery through biodiversity conservation and waste management.
-
-The $ 9.4 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices.
-
-...
-
-[Data](articles/ae324c22.json)
-
-[Extended Data](ext_articles/ae324c22.ext.json)
-
----
-
-### MAS Intimates’ COO Ruwan Keragala joins Ambeon Holdings Board
-
-*2025-09-24 02:22:16* · [`dailyftlk`](https://www.ft.lk/business/MAS-Intimates-COO-Ruwan-Keragala-joins-Ambeon-Holdings-Board/34-782091) · `en`
-
-Ambeon Holdings PLC has appointed Ruwan Keragala as an Independent Non-Executive Director of the company.
-
-Keragala is the Chief Operating Officer of MAS Intimates Ltd., Sri Lanka’s largest exporter with a revenue of around $ 1 billion. He previously served as the Finance Director of MAS Intimates for over seven years.
-
-Additionally, he serves as the Deputy Chairperson of a national Buddhist TV channel and a Buddhist social enterprise, ‘Jaya Media Network’.
-
-Keragala holds a Bachelor’s Degree in Business Administration with a First-class Honour, specialised in Human Resource Management from the University of Colombo and holds an MBA from the Imperial College, University of London. He has done his executive Education at the Harvard Business School and INSEAD campus.
-
-He is a Fellow member of the Chartered Institute of Management Accountants UK and the Association of Certified Chartered Accountants UK and an Associate Member of the Chartered Institute of Sri Lanka.
-
-...
-
-[Data](articles/e6159a78.json)
-
-[Extended Data](ext_articles/e6159a78.ext.json)
-
----
-
-### Col. Nalin Herath new General Manager of JAT Group’s James Global Minerals
-
-*2025-09-24 02:21:14* · [`dailyftlk`](https://www.ft.lk/business/Col-Nalin-Herath-new-General-Manager-of-JAT-Group-s-James-Global-Minerals/34-782090) · `en`
-
-James Global Minerals, an esteemed affiliate of JAT Holdings PLC, has announced the appointment of Col. Nalin Herath as its new General Manager.
-
-An accomplished professional with extensive experience in both military and civilian sectors, Colonel Herath will bring his leadership skills and strategic insight to the company.
-
-In addition to his role at James Global Minerals, Colonel Herath will also serve as the incoming Executive Director of the South Asian Sustainability and Security Research Institute (SASSRI). His previous experience includes serving as the Director of Media and Spokesperson for the Ministry of Defence and as the Director General of the Institute of National Security Studies (INSS), where he demonstrated a commitment to fostering national security and sustainable development.
-
-Colonel Herath’s appointment marks a significant step forward for James Global Minerals, reinforcing its dedication to responsible and innovative practices in the resources sector.
-
-◼️
-
-[Data](articles/899ab6af.json)
-
-[Extended Data](ext_articles/899ab6af.ext.json)
-
----
-
-### Budding entrepreneurs celebrated at School Industry Entrepreneurship Circles program
-
-*2025-09-24 02:20:15* · [`dailyftlk`](https://www.ft.lk/business/Budding-entrepreneurs-celebrated-at-School-Industry-Entrepreneurship-Circles-program/34-782089) · `en`
-
-From left: Abans PLC Business Development Director Tanaz Pestonjee, Industrial Development Board Director – Entrepreneurship Development Division Renuka Jayalath, Industries and Entrepreneurship Development Secretary Thilaka Jayasundara, Industrial Development Board Chairman Ravi Nissanka, and Assistant Director Saminda Ranatungage
-
-The National Medal Awarding Ceremony of the School Industry Entrepreneurship Circles was held recently at the Nelum Pokuna Theatre.
-
-The event commemorated the program and its impact on over 32,000 students across all 25 districts in more than 603 schools. The program had also trained 1,750 teachers at schools to establish over 1,400 entrepreneurship circles.
-
-Abans PLC partnered with the Sri Lanka Industrial Development Board (IDB), the Industry and Entrepreneurship Development Ministry, and the Education Ministry in February to introduce the School Industry Entrepreneurship Circles to empower the youth of Sri Lanka.
-
-...
-
-[Data](articles/c9f6c393.json)
-
-[Extended Data](ext_articles/c9f6c393.ext.json)
-
----
-
-### Ocean Lanka opens MFB to boost synthetic fabric innovation, production
-
-*2025-09-24 02:18:53* · [`dailyftlk`](https://www.ft.lk/business/Ocean-Lanka-opens-MFB-to-boost-synthetic-fabric-innovation-production/34-782088) · `en`
-
-Ocean Lanka Ltd., a major weft knit fabric manufacturer in Sri Lanka, has opened a new Multifunctional Building (MFB) at its Biyagama Export Processing Zone (EPZ) premises to increase its innovative synthetic fabrics production output.
-
-Synthetic fabrics currently make up 10–15% of Ocean Lanka’s production output, but the MFB will allow the company to greatly expand this share.
-
-This development guarantees global competitiveness in the production of synthetic apparel while highlighting Ocean Lanka’s commitment to innovation, sustainability, and product diversification, the company said in a statement.
-
-The MFB’s opening places Ocean Lanka as a model plant committed to developing the synthetic fabric industry and strengthens the company’s position in spearheading Sri Lanka’s shift to value-added textiles in order to satisfy the changing needs of the global demand in Intimate wear, active wear, and the fashion industry, the company said in a statement.
-
-...
-
-[Data](articles/38f1cde2.json)
-
-[Extended Data](ext_articles/38f1cde2.ext.json)
-
----
-
-### Cabinet clears Rs. 2.5 b road, expressway development projects
-
-*2025-09-24 02:15:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-Rs-2-5-b-road-expressway-development-projects/56-782086) · `en`
-
-Rs. 1 b from unused OPEC Fund loan and Govt. funds to upgrade Ambilipitiya–Panamura–Buluthota road
-
-Rs. 1.5 b contract awarded to Access WKK JV to repair Kottawa–Dodangoda stretch of Southern Expressway
-
-Cabinet Spokesperson and Minister Dr. Nalinda Jayatissa yesterday said two major road development projects worth more than Rs. 2.4 billion have been approved, drawing on external financing and Government allocations.
-
-He said Sri Lanka had secured a $ 40 million loan from the OPEC Fund to improve the Rakwana–Suriyakanda section of the Galle–Deniyaya–Madampe road.
-
-On Monday the Cabinet cleared the use of this balance, together with domestic funds, to upgrade a 9.62 km section of the Ambilipitiya–Panamura–Buluthota (B115) road from Kolonna to Suriyakanda, Dr. Jayatissa said.
-
-...
-
-[Data](articles/f0a18904.json)
-
-[Extended Data](ext_articles/f0a18904.ext.json)
-
----
-
-### UN to review Sri Lanka enforced disappearances
-
-*2025-09-24 02:14:52* · [`dailyftlk`](https://www.ft.lk/news/UN-to-review-Sri-Lanka-enforced-disappearances/56-782085) · `en`
-
-Seeks progress on addressing 14,988 complaints filed with the Office on Missing Persons
-
-The UN Committee on Enforced Disappearances will review Sri Lanka on Friday, 26 September, in Geneva. The review will take place in two sessions, from 10:00 a.m. to 1:00 p.m. and from 3:00 p.m. to 6:00 p.m. local time, and will be broadcast live on UNTV.
-
-During the public dialogue, the Committee is expected to question the Sri Lankan delegation on a range of issues raised in its ‘List of Issues’, which followed the Government’s submission of its periodic report.
-
-These include progress on addressing the 14,988 complaints filed with the Office on Missing Persons, and whether legal safeguards exist to prevent military authorities from investigating or prosecuting enforced disappearance cases.
-
-...
-
-[Data](articles/3a7477d1.json)
-
-[Extended Data](ext_articles/3a7477d1.ext.json)
-
----
-
-### Parliament Committee approves reports on Probation Services, Thriposha
-
-*2025-09-24 02:14:21* · [`dailyftlk`](https://www.ft.lk/news/Parliament-Committee-approves-reports-on-Probation-Services-Thriposha/56-782084) · `en`
-
-Parliament Secretariat yesterday said the Sectoral Oversight Committee on Health, Media and Women’s Empowerment has approved the Annual Performance Report of the Department of Probation and Child Care Services for 2024 and the Annual Reports of Sri Lanka Thriposha Limited for 2021 and 2023.
-
-The approvals were made at the committee meeting held on 10 September in Parliament under the Chairmanship of Dr. Nihal Abeysinghe. In reviewing the Department of Probation and Child Care Services, members stressed the importance of introducing a monthly system to track the number of cases raised and the measures taken to resolve them. After detailed discussions, the committee endorsed the report.
-
-When considering Sri Lanka Thriposha Limited’s reports, officials said modern silos funded by the World Food Programme and fitted with dryers and cooling systems were being introduced to reduce the risk of raw material contamination.
-
-◼️
-
-[Data](articles/dc5eb449.json)
-
-[Extended Data](ext_articles/dc5eb449.ext.json)
-
----
-
-### CMEV warns of voter knowledge gaps, low trust in election information
-
-*2025-09-24 02:13:59* · [`dailyftlk`](https://www.ft.lk/news/CMEV-warns-of-voter-knowledge-gaps-low-trust-in-election-information/56-782083) · `en`
-
-Assessment finds men and rural voters more engaged than women and urban voters
-
-Misinformation and biased reporting cited as key obstacles to electoral participation
-
-Report calls for legal reforms, stronger Election Commission powers, and media literacy
-
-The Centre for Monitoring Election Violence (CMEV) and the Centre for Policy Alternatives (CPA), in partnership with Internews, yesterday released an Election Information Assessment (EIA) that highlights significant shortcomings in how electoral information is disseminated and accessed in Sri Lanka.
-
-The report, published in the context of the Aragalaya protests and subsequent national elections, found widespread gaps in voter knowledge, with many respondents unaware of different election types and modalities.
-
-It also noted demographic disparities, with men and rural voters showing higher levels of engagement than women and urban voters.
-
-...
-
-[Data](articles/515ef7bf.json)
-
-[Extended Data](ext_articles/515ef7bf.ext.json)
-
----
-
-### President formalises, expands Navy oversight of foreign maritime security services
-
-*2025-09-24 02:13:11* · [`dailyftlk`](https://www.ft.lk/news/President-formalises-expands-Navy-oversight-of-foreign-maritime-security-services/56-782082) · `en`
-
-Defence Minister and President Anura Kumara Disanayake has directed the Sri Lanka Navy to take charge of providing operational and administrative support for foreign private security companies engaged in protecting merchant vessels.
-
-In a letter to the Speaker of Parliament dated 20 September 2025, the President said the order was issued under Section 21 of the Navy Act (Chapter 358), citing national interest.
-
-The directive authorises the Navy to maintain a maritime security operation project, covering services and facilities for foreign private maritime security providers. The Navy will also be responsible for storing firearms, ammunition and other equipment belonging to such companies in its armouries, and for transporting the weapons and equipment as required.
-
-According to the order, these duties will be carried out under the supervision of the Defence Ministry, with vehicles or vessels provided by local representatives of the foreign firms, and will be classified as non-naval duties.
-
-...
-
-[Data](articles/faa7ab28.json)
-
-[Extended Data](ext_articles/faa7ab28.ext.json)
-
----
 
 ### Signatures of Tamil people to UN Resident Representative
 
@@ -2063,5 +1793,291 @@ In addition, it is expected that 95 direct employment and approximately 2,000 in
 [Data](articles/c69c0d23.json)
 
 [Extended Data](ext_articles/c69c0d23.ext.json)
+
+---
+
+### Cabinet nod to renovate several state university buildings through budget allocations
+
+*2025-09-23 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112826/cabinet-nod-to-renovate-several-state-university-buildings-through-budget-allocations-) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to renovate several state universities by completing the construction of university buildings and related infrastructure facilities.
+
+The project will be implemented under the budget allocations for the years 2026, 2027, and 2028.
+
+◼️
+
+[Data](articles/ba038441.json)
+
+[Extended Data](ext_articles/ba038441.ext.json)
+
+---
+
+### Heavy traffic to Borella to Borella to Borella to Borella
+
+*2025-09-23 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214909) · `si`
+
+Ada Derana reporter said that heavy traffic was taken towards the favor of Narahenpita.
+
+The road has been blocked due to a march at the Inter University Student Action Association.
+
+◼️
+
+[Data](articles/70368be0.json)
+
+[Extended Data](ext_articles/70368be0.ext.json)
+
+---
+
+### Two persons arrested in connection with an ice drug seizure in Tangalle
+
+*2025-09-23 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225846) · `ta`
+
+Police have arrested two sons who died after being admitted to a hospital on Monday (September 22) at a house in Tangalle.
+
+A large number of drugs have been seized from three lorries in the Tangalle area, police said.
+
+9,888 million worth of drugs from three lorries have been found, police said.
+
+It is reported that 284.94 kilograms of heroin and 420.976 kilograms of ice have been confiscated.
+
+At the same time, the drug was confiscated during a special operation held yesterday following the deaths of two people in the house.
+
+In the meantime, police have recovered the T -56 rifle and five unacceptable handguns.
+
+Police investigations have revealed that the confiscated drug belonged to a member of the underworld, Unakuruwa Santha, who is suspected of engaging in drug trafficking from abroad.
+
+...
+
+[Data](articles/049b0db8.json)
+
+[Extended Data](ext_articles/049b0db8.ext.json)
+
+---
+
+### Cabinet approves introduction of ‘Government SuperApp’ to streamline public services
+
+*2025-09-23 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112825/cabinet-approves-introduction-of-government-superapp-to-streamline-public-services) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to create a ‘Government SuperApp’, aimed at enabling the public to access government services through a single, unified digital platform.
+
+Officials have noted that the current disjointed approach to government service delivery—requiring multiple systems, repeated authentication processes, and redundant data entry across various departments—has caused considerable inconvenience to citizens.
+
+It is estimated that these inefficiencies result in an economic loss exceeding Rs. 500 million annually.
+
+◼️
+
+[Data](articles/cb727da4.json)
+
+[Extended Data](ext_articles/cb727da4.ext.json)
+
+---
+
+### Narcotics found in lorry is nearly 10 billion
+
+*2025-09-23 13:14:56* · [`adalk`](https://www.ada.lk/breaking_news/ලොරිවලින්-හමුවූ-මත්ද්‍රව්‍යවල-වටිනාකම-බිලියන-10කට-ආසන්නයි/11-418671) · `si`
+
+Tangalle Police say that the two sons of the deceased have been arrested since the deceased who had found the three drug lorries in the Seennimodara, Tangalle yesterday (22).
+
+The total value of drugs found in three lorries is Rs. 9,888 million.
+
+Meanwhile, the three persons who have been mysteriously deceased have been revealed in investigations into the drug traffickers.
+
+Police have arrested six sons of the victim after hospital.
+
+The police said that the three registered owners of the lorry lorries and a driver of an orery.
+
+The suspects are to be produced before the Tangalle Magistrate's Court today (23).
+
+Police Narcotics Bureau and Tangalle Police are conducting further investigations.
+
+◼️
+
+[Data](articles/e5ce96ce.json)
+
+[Extended Data](ext_articles/e5ce96ce.ext.json)
+
+---
+
+### Two arrested for causing Katunayake
+
+*2025-09-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214908) · `si`
+
+A group of passengers were arrested by the Customs Drug Administration Division this morning (23) by the Green Mawatha, "Green Channel '(23), police said.
+
+The suspects have been taken by the suspects with a quantity of 'Kush' crumbs from a marketing value.
+
+It is revealed that the other person is a 48 year old Salgivat of Chennai, India.
+
+They were purchased from Banglinda in Thailand in Thailand, and arrived at New Delhi in India and arrived at the Katunayake airport at 06. 277 this morning.
+
+There were five kilograms of drugs, which were prepared in two packs in two baggage and on the baggage.
+
+The two suspects have been handed over to the Katunayake Airport to the officers of Katunayake for further investigations.
+
+◼️
+
+[Data](articles/7a938f55.json)
+
+[Extended Data](ext_articles/7a938f55.ext.json)
+
+---
+
+### අධිකරණ ඇමති ජිනීවා යයි
+
+*2025-09-23 13:04:37* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමති-ජිනීවා-යයි/11-418669) · `si`
+
+Minister of Justice and National Integration to attend the first time period of the disappearances of the disappearances.
+
+On September 26, 2025, the review meeting is scheduled to participate in the Ministry of Justice and National Integration, Ministry of Foreign Age of the Missing Persons, Ministry of External Agency and the Permanent Representative Office of Sri Lanka.
+
+Sri Lanka is a partner of the Protection of All Persons from 2016.
+
+◼️
+
+[Data](articles/55b427c9.json)
+
+[Extended Data](ext_articles/55b427c9.ext.json)
+
+---
+
+### Government Mulerapp application approval
+
+*2025-09-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214907) · `si`
+
+Cabinet approval has been approved to create a Government Superrapp application to obtain public services through a single computer application.
+
+It is observed that the citizens currently have significant difficulties to citizens that require significant difficulties for public service delivery in different systems, multi-verification processes and various government departments.
+
+It is also estimated that the annual damage has been caused by more than Rs. 500 million.
+
+Therefore, the development of the Government Superpep User, which covers a wide range of public services to the Sri Lankan digital economic plan, is recognized as a strategic priority.
+
+The project will be prepared by the project by combining all government services to one of the 21-year-old and annual entries of Sri Lanka.
+
+Accordingly, the President's proposal has been approved by the President to implement the total cost of Rs.
+
+◼️
+
+[Data](articles/b63324f6.json)
+
+[Extended Data](ext_articles/b63324f6.ext.json)
+
+---
+
+### Dayasiri criticized CEB's restructuring
+
+*2025-09-23 12:57:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-யின்-மறுசீரமைப்பை-விமர்சித்தார்-தயாசிறி/175-365131) · `ta`
+
+Opposition Parliamentarian Dayasiri Jayasekara yesterday criticized the current restructuring of the CEB of the Ceylon Electricity Board (CEB) that the process was disrupted and that it would raise concerns about the welfare of its employees.
+
+Jayasekara said that many workers are dissatisfied with the separation, and that they are concerned about the safety of arrears, including pending medical demands, and they may be affected under new companies.
+
+“Employees are uncertain whether the newly created companies will pay their arrears,” he said. "Also, those who consider retirement. They are demanding compensation for more than 5 million. "
+
+He urged the government to address these concerns and ensure that justice is provided to the CEB employees affected by the change.
+
+◼️
+
+[Data](articles/cc5902b7.json)
+
+[Extended Data](ext_articles/cc5902b7.ext.json)
+
+---
+
+### Nalin Pradeep sabbathing over front
+
+*2025-09-23 12:56:24* · [`adalk`](https://www.ada.lk/breaking_news/නලීන්-ප්‍රදීප්-උඩවෙල-සමුගනියි/11-418668) · `si`
+
+Veteran performer Nalin Pradeep Udawela sacked from us today (23). Udawela, who was 56 years old at the time of his death, was a great artist who was loved by the Sri Lankan stage, cinema and small screen.
+
+At the time of his death, he was receiving treatment at the stage 'jury' and 'Bethoi', 'Apuri Walawi', 'Madura Walawi', 'Madurawi', 'Manarawi', 'Moneraon', 'Moneragala', 'Moneraon'. Lake ',' White Hami 'contributed to a number of teledrama including' smell '.
+
+'Star Flowers', 'Wrong Flowers', as 'love,', was evaluated in their talents, and Nalin was involved in politics. The funeral information about Nalin Pradeep Udawela will be informed later.
+
+◼️
+
+[Data](articles/120c32b9.json)
+
+[Extended Data](ext_articles/120c32b9.ext.json)
+
+---
+
+### Sri Lanka says no immediate LNG imports from India as infrastructure lags
+
+*2025-09-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112824/sri-lanka-says-no-immediate-lng-imports-from-india-as-infrastructure-lags) · `en`
+
+Sri Lanka has no immediate plans to import liquefied natural gas (LNG) from India, as the required infrastructure including storage facilities is yet to be built, the country’s energy minister said on Tuesday.
+
+India announced last year it would supply LNG to Sri Lanka’s power plants and work on cross-border energy connectivity, including a petroleum pipeline and power grid link.
+
+“We have to first build the storage facility. Construction has not commenced yet,” said Sri Lanka’s energy minister Kumara Jayakody, speaking to Reuters on the sidelines of Confederation of Indian Industry’s energy summit in New Delhi.
+
+Sri Lanka is yet to finalise the LNG contract procurement with India, he said.
+
+The minister said it would take at least three years to complete construction of the storage infrastructure, and imports would begin only after that.
+
+While discussions to build storage had taken place under the previous government, no contracts have been finalised, he added.
+
+...
+
+[Data](articles/5b096b7e.json)
+
+[Extended Data](ext_articles/5b096b7e.ext.json)
+
+---
+
+### PM Modi is a great responsibility: Unni Mukundan
+
+*2025-09-23 12:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரதமர்-மோடியாக-நடிப்பது-பெரிய-பொறுப்பு-உன்னி-முகுந்தன்/54-365130) · `ta`
+
+Prime Minister Narendra Modi's biography. Unni Mukundan will play Prime Minister Modi in various languages. The official announcement of the film was made on September 17, the birthday of Prime Minister Modi.
+
+Unni Mukundan has spoken about his birthday. In it, “I am proud to be acting as 'Ma Vande' as Indian Prime Minister Sri Narendra Damodaradas Modi.
+
+When I grew up as a boy in Ahmedabad, he first knew him as the Chief Minister. It was then April 2023 that I met him in person. This is not another character for me. Liability. I hope to justify this story about the fact that the person from the background of the family has sacrificed everything for the development of the Indian nation. ”
+
+Modi's political life, which began in Gujarat, is about to show how he became a person who carried India India. 'Ma Vande' (Mother I adore you), reflecting the emotional bond between Modi and her late mother, Heyaben Modi.. This is the central theme of the film, the film crew.
+
+...
+
+[Data](articles/ea5a40ad.json)
+
+[Extended Data](ext_articles/ea5a40ad.ext.json)
+
+---
+
+### Boy killed in tipper collision; Female injury
+
+*2025-09-23 12:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-மோதியதில்-சிறுவன்-பலி-பெண்-படுகாயம்/175-365129) · `ta`
+
+A four -year -old boy and a girl collided with a tipper lorry while crossing the main road in front of the Ampara General Hospital, and the woman was injured and admitted to the hospital.
+
+Police have revealed that the tipper lorry from Kalmunai junction crashed when the child's mother was admitted to the hospital with her stepmother and grandmother to come to the hospital with her grandmother and grandmother.
+
+The suspect has been arrested on the spot and further investigations are being carried out by the Ampara Headquarters Police.
+
+◼️
+
+[Data](articles/74220635.json)
+
+[Extended Data](ext_articles/74220635.ext.json)
+
+---
+
+### Batticaloa air fun and adventure in Batticaloa
+
+*2025-09-23 12:46:26* · [`adalk`](https://www.ada.lk/business/මඩකලපුවේ-ගුවන්තොට-ගුවන්-විනෝද-හා-ත්‍රාසජනක-ක්‍රීඩාවලට/7-418667) · `si`
+
+The Chairman of the Civil Aviation Authority, the Chairman of the Civil Aviation Authority, the Batticaloa Civil Aviation Authority, the Batticaloa Civil Aviation Authority (SLC) is prepared to develop a proposed tourist destination for the national economy of the Eastern Province.
+
+In addition, the proposals increase the operation of airport airline operations through tourist arrivals in the Batticaloa Airport Zone.
+
+Minister of Transport, Highways, Ports and Aviation Minister Sunil Jayaratne, Chairman of the Civil Aviation Authority, Deputy Director General, Deputy Director General, Deputy Director General, Deputy Director General, Deputy Director General, Deputy Director General Repan Wanni. A. K. These issues were revealed at a monitoring on the airport and a group of Prasanna.
+
+...
+
+[Data](articles/cd774526.json)
+
+[Extended Data](ext_articles/cd774526.ext.json)
 
 ---

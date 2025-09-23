@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 15:20:21**
+As of **2025-09-23 16:09:31**
 
 ## Newspaper Stats
 
-*Scraped **77,669** Articles*
+*Scraped **77,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,544
-adaderanalk | 10,069
-tamilmirrorlk | 11,692
-virakesarilk | 12,634
-adaderanasinhalalk | 13,566
+adalk | 7,546
+adaderanalk | 10,072
+tamilmirrorlk | 11,693
+virakesarilk | 12,635
+adaderanasinhalalk | 13,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,669 (100.0%) of 77,669 articles have been extended.
+77,675 (100.0%) of 77,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්ට එරෙහි පෙත්සම ඉල්ලා අස් කරගනී
+
+*2025-09-23 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214913) · `si`
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා වශයෙන් මහාධිකරණ විනිසුරු රංග දිසානායක මහතා පත්කිරීම සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව විසින් ජනාධිපතිවරයා වෙත ඉදිරිපත් කළ නිර්දේශය හා එම පත්වීම බලරහිත බවට තීන්දුවක් ලබා දෙන ඉල්ලා ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම අද (23) ශ්‍රේෂ්ඨාධිකරණය වෙතින් ඉල්ලා අස් කරගැනුණි.
+
+උඩවලව සෝම විහාරයේ විහාරාධිපති වේවැල්දූව ඥානප්‍රභා ස්වාමීන් වහන්සේ ඇතුළු පිරිසක් විසින් මෙම පෙත්සම ගොනු කර තිබුණි.
+
+මෙම පෙත්සම අද අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, මහින්ද සමයවර්ධන සහ සම්පත් අබේකෝන් යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට දැනුම් දුන්නේ මෙම පෙත්සම ඉල්ලා අස් කරගැනීමට අවසර දෙන ලෙසය.
+
+ඒ අනුව අදාළ පෙත්සම ඉල්ලා අස් කරගැනීමට අවසර දුන් ත්‍රිපුද්ගල විනිසුරු මඩුල්ල අනතුරුව එය නිශ්ප්‍රභ කිරීමටද කටයුතු කළේය.
+
+◼️
+
+[Data](articles/65df17cf.json)
+
+---
+
+### தங்காலை போதைப்பொருள் விவகாரத்தில் கைதான லொறி உரிமையாளர் பொலிஸ் தடுப்புக் காவலில்!
+
+*2025-09-23 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225854) · `ta`
+
+தங்காலை, சீனிமோதரவில் நேற்று (22) ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களை மறைத்து வைத்திருந்த நிலையில் கைது செய்யப்பட்ட லொறியின் உரிமையாளரை எதிர்வரும் 29ஆம் திகதி வரை பொலிஸ் தடுப்புக் காவலில் வைத்து விசாரணை நடத்த நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+போதைப்பொருள் கண்டுபிடிக்கப்பட்ட வழக்கில் சந்தேக நபரான லொரியின் உரிமையாளரை விசாரிக்க கல்கிஸ்ஸை பொலிஸாருக்கு அனுமதி அளித்து கல்கிசை நீதவான் பசன் அமரசேன இந்த உத்தரவை பிறப்பித்தார்.
+
+தங்காலையில் சீனிமோதரயில் உள்ள வீடொன்றிற்கு அருகில், இரண்டு ஆண்களின் சடலங்கள் மீட்கப்பட்ட இடத்தில், குறித்த லொறியை பொலிஸார் கண்டுபிடித்துள்ளனர்.
+
+இதனைத் தொடர்ந்து, லொறியின் உரிமையாளர் என கூறப்படும் சந்தேக நபரை 11 கிராம் மற்றும் 140 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகள் கைது செய்தனர்.
+
+சந்தேக நபர் இன்று (23) கல்கிஸ்ஸை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டபோதே  நீதிமன்றம் அவரை பொலிஸ் தடுப்புக் காவலில் வைத்து விசாரிக்க உத்தரவு பிறப்பித்தது.
+
+◼️
+
+[Data](articles/6c0f2944.json)
+
+---
+
+### Indian Navy Commander met security leaders
+
+*2025-09-23 15:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பாதுகாப்பு-தலைவர்களை-சந்தித்தார்/175-365135) · `ta`
+
+Indian Navy Commander Admiral Dinesh K. On Monday, Monday (22), Deputy Minister of Defense Aruna Jayasekera (Retired) and Defense Secretary Air Vice Marshall Sampath Purekonda (Retired) were in honor of the Defense Minister on various occasions.
+
+Admiral Tripathi met the Deputy Minister of Defense this morning at his office in Colombo. The Deputy Minister, who was warmly welcomed by him, engaged in a speech with him.
+
+During this time, ways to improve security diplomacy and cooperation between the two countries, humanitarian aid and disaster recovery, drug trafficking in the Indian Ocean region, human trafficking and other maritime crimes, illegal activities, enhancement and enhancement of training and skills development, enhancement and enhancement of the seas, enhanceing training and skills development. Discussions on matters.
+
+Following the meeting, the Indian Navy Commander who visited the Ministry of Defense in Sri Jayawardenapura this afternoon met with the Secretary of Defense.
+
+...
+
+[Data](articles/aceb3cd9.json)
+
+[Extended Data](ext_articles/aceb3cd9.ext.json)
+
+---
+
+### Euro 8 million between Sri Lanka and the European Union
+
+*2025-09-23 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214912) · `si`
+
+The Government of Sri Lanka has signed a new agreement with the European Union to launch a new agreement with the European Union to carry out sustainable economic recovery through improved biodiversity and solid waste management.
+
+The CARMEN MOUNDO was officially signed by the European Union Ambassador of the European Union and the European Union to the Government of Sri Lanka.
+
+The Ministry of Environment, Provincial Councils and Local Government, the Ministry of Environment and the European Union, the project will be financed by the European Union.
+
+The project will help conservation of biodiversity strategies and promote targeted conservation strategies and promoting sustainable land use practices.
+
+It is also reported that the project will also contribute to the increase in the increasing need for solid waste management systems and promote environmental safety and public health.
+
+...
+
+[Data](articles/5f1b8e9e.json)
+
+[Extended Data](ext_articles/5f1b8e9e.ext.json)
+
+---
+
+### Sri Lanka and EU sign Euro 8 million grant agreement to support economic recovery
+
+*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-european-union-sign-euro-8-million-grant-agreement-to-support-economic-recovery) · `en`
+
+The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
+
+The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
+
+The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
+
+...
+
+[Data](articles/c50052b2.json)
+
+[Extended Data](ext_articles/c50052b2.ext.json)
+
+---
 
 ### New digital site to access public services
 
@@ -47,6 +147,72 @@ Evaluation suggests that this is a loss of more than Rs. 500 million per year.
 [Data](articles/17faa375.json)
 
 [Extended Data](ext_articles/17faa375.ext.json)
+
+---
+
+### Afghan boy flies from Kabul to Delhi hiding in plane’s landing gear
+
+*2025-09-23 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112829/afghan-boy-flies-from-kabul-to-delhi-hiding-in-planes-landing-gear) · `en`
+
+A 13-year-old Afghan boy made a dangerous journey from Kabul to Delhi, hiding in the landing gear compartment of a Kam Air passenger plane.
+
+Officials say the teen, who is from Kunduz city in northern Afghanistan, was found wandering around on the runway at Delhi’s international airport after the plane landed on Monday.
+
+He was detained by Indian security personnel and questioned for several hours before being sent back to Kabul on the same flight.
+
+The boy reportedly told authorities he did this out of curiosity.
+
+A spokesperson from the Indian Central Industrial Security Force (CISF) said the boy managed to travel undetected on Kam Airlines flight RQ-4401, which landed in Delhi around 11:10am on Sunday.
+
+Police found him roaming around by himself and took him aside for questioning.
+
+The boy reportedly told authorities that he had hidden himself in the rear central landing gear compartment of the said aircraft.
+
+...
+
+[Data](articles/578029f9.json)
+
+[Extended Data](ext_articles/578029f9.ext.json)
+
+---
+
+### Owner of lorry found concealing drugs in Tangalle to be detained until 29 Sept.
+
+*2025-09-23 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112828/owner-of-lorry-found-concealing-drugs-in-tangalle-to-be-detained-until-29-sept) · `en`
+
+The owner of a lorry that was found concealing heroin and crystal methamphetamine (commonly known as ‘Ice’) in Seenimodara, Tangalle, yesterday (22), has been ordered to be detained for questioning.
+
+Mount Lavinia Magistrate Pasan Amarasena issued the order to allow the Mount Lavinia Police to question the suspect in connection with the discovery of a large haul of narcotics.
+
+The lorry was discovered by police near a house in Seenimodara, Tangalle, where the bodies of two men had previously been recovered. The narcotics were found hidden near the property.
+
+Following the discovery, officers from the Police Special Task Force (STF) arrested the suspect—identified as the owner of the lorry—in possession of 11 grams and 140 milligrams of heroin. He was subsequently handed over to the Mount Lavinia Police Station.
+
+The suspect was produced before the Mount Lavinia Magistrate’s Court today (23), where the order was issued.
+
+◼️
+
+[Data](articles/7ccd4e15.json)
+
+[Extended Data](ext_articles/7ccd4e15.ext.json)
+
+---
+
+### දකුණු අධිවේගයේ කිලෝමීටර් 19ක් අලුත්වැඩියා කරයි
+
+*2025-09-23 14:14:35* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-කිලෝමීටර්-19ක්-අලුත්වැඩියා-කරයි/11-418674) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාවේ සිට දොඩන්ගොඩ දක්වා මාර්ග කොටස 2011 වසරේදී රථවාහන ගමනය සඳහා විවෘත කෙරුණු අතර මේ දක්වා කිසිඳු ප්‍රධාන අලුත්වැඩියාවක් සිදුකර නොමැත.
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝමීටර් 0 සිට කිලෝමීටර් 19 දක්වා අධිවේගි මාර්ග ‍කොටස හා කිලෝ මීටර් 19 සිට කිලෝමීටර් 34 දක්වා අධිවේගී මාර්ග කොටස පැකේජ දෙකක් යටතේ කඩිනමින් අලුත්වැඩියා කිරීමේ අවශ්‍යතාව හදුනාගෙන ලැබ තිබේ.
+
+ඒ අනුව කිලෝමීටර් 19ක මංතීරු 4කින් යුතු අධිවේගී මාර්ග ප්‍රමාණයක් ආවරණය වන කිලෝ මීටර් 0 සිට 19 දක්වා හානියට පත්වූ අධිවේගී මාර්ග කොටම දෙවැන පැකේජය යටතේ ප්‍රතිසංස්කරණය කිරීමට සැලසුම් කර තිබේ.
+
+ඒ සඳහා දේශීය ලංසුකරුවන්ගෙන් කැඳවූ මිල ගණන් අනුව රු. මිලියන 1490.96ක අවම ලංසුව ඉදිරිපත් කළ  M/s Access - WKK බද්ධ ව්‍යාපාරය වෙත පැවැරීමට කැබිනට් අනුමැතිය ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/162d0154.json)
 
 ---
 
@@ -93,6 +259,28 @@ The suspect was submitted to the Mount Lavinia Magistrate's Court today (23).
 [Data](articles/f9c361e7.json)
 
 [Extended Data](ext_articles/f9c361e7.ext.json)
+
+---
+
+### The Dalada Athro-Kayakara is attacking the assistant Hassi
+
+*2025-09-23 13:39:18* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-ඇත්-පන්තියේ-කදිරා-සහායක-හස්ති-පාලකවරයාට-පහර-දෙයි/11-418673) · `si`
+
+The handicrafts of the elephant had been admitted to the Mawanella hospital due to an assault on the Sri Dalada Maligawa elephant assault.
+
+The assault was held at the time of the attack last night while the Assistant Hasion of Assistant had taken place at a time when the elephant Hasion was not available.
+
+Hospital sources say that the 22-year-old Assistant Hasion of the 22-year-old Assistant Hasion is to be transferred to Kegalle hospital for further treatment.
+
+The elected Ayurvedic Medadu is a well-known Ayurvedic Medical Monk is a Savings Sacred to the Sri Dalada Maligawa in 1986.
+
+Mawanella Police said that the attack had occurred when Mawanella was tied at the temple.
+
+◼️
+
+[Data](articles/80ce894f.json)
+
+[Extended Data](ext_articles/80ce894f.ext.json)
 
 ---
 
@@ -1895,203 +2083,5 @@ Souvenirs were exchanged between the two sides to mark this official meeting.
 [Data](articles/24b3c2cb.json)
 
 [Extended Data](ext_articles/24b3c2cb.ext.json)
-
----
-
-### X-Press Pearl Disaster: Singapore firm rejects US$1 billion Sri Lankan fine for pollution damages
-
-*2025-09-23 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112806/x-press-pearl-disaster-singapore-firm-rejects-us1-billion-sri-lankan-fine-for-pollution-damages) · `en`
-
-A Singapore-headquartered shipping company today (23) announced that it will refuse to pay Sri Lankan court-ordered damages of US$1 billion for causing that country’s worst case of environmental pollution.
-
-In an exclusive interview, X-Press Feeders chief executive Shmuel Yoskovitz said he believed paying would have wide-ranging implications on global shipping and “set a dangerous precedent”.
-
-The company operated the Singapore-registered container ship MV X-Press Pearl that sank off the Colombo Port in June 2021 after a fire – believed caused by a nitric acid leak – that raged for nearly two weeks.
-
-Its cargo included 81 containers of hazardous goods, including acids and lead ingots, and hundreds of tonnes of plastic pellets.
-
-The ship was refused permission by ports in Qatar and India to offload the leaking nitric acid before it arrived in Sri Lankan waters.
-
-...
-
-[Data](articles/054b2205.json)
-
-[Extended Data](ext_articles/054b2205.ext.json)
-
----
-
-### Rain in many parts of the country today
-
-*2025-09-23 07:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-இன்று-மழை/175-365099) · `ta`
-
-The Department of Meteorology has announced that rainfall will occur in the districts of the Western, Sabaragamuwa Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Thundershowers will occur after 2.00 pm in Uva Province, Ampara and Batticaloa districts.
-
-The Department has requested the public to take precautionary measures to avoid the risks of lightning and strong winds.  (a)
-
-◼️
-
-[Data](articles/de753cb5.json)
-
-[Extended Data](ext_articles/de753cb5.ext.json)
-
----
-
-### A child will lose their lives at a tipper
-
-*2025-09-23 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214892) · `si`
-
-A child and a child who had traveled to the Bandaranaike Roundabout to Bandaranaike, Ampara and a child had died in an accident.
-
-The police said that the accident had occurred in the evening yesterday.
-
-The child was injured and admitted to admission to the Ampara Hospital.
-
-The victim was a resident of Uhana area aged 4.
-
-The driver of the crash has been arrested and Ampara Police are conducting further investigations.
-
-◼️
-
-[Data](articles/c9f72f44.json)
-
-[Extended Data](ext_articles/c9f72f44.ext.json)
-
----
-
-### Four-year-old child killed in road accident involving tipper truck in Ampara
-
-*2025-09-23 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112803/four-year-old-child-killed-in-road-accident-involving-tipper-truck-in-ampara) · `en`
-
-A four-year-old child has died following a road accident in Ampara, last evening (22).
-
-The accident occurred when a tipper truck, traveling from the Kalmunai Junction towards the Bandaranaike Roundabout in Ampara collided with a woman and a child who were walking along the side of the road.
-
-Both the child and the woman sustained injuries in the accident and were admitted to the Ampara Hospital, where the child was pronounced dead upon admission.
-
-The driver of the tipper truck involved in the accident has been taken into police custody.
-
-Further investigations are being carried out by the Ampara Police.
-
-◼️
-
-[Data](articles/079d700a.json)
-
-[Extended Data](ext_articles/079d700a.ext.json)
-
----
-
-### Suspect arrested for shooting and attempted murder
-
-*2025-09-23 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225809) · `ta`
-
-A suspect has been arrested on charges of shooting and assisting a murder.
-
-Police said that the murder incident took place on the 24th of July.
-
-Following this, the Criminal Investigation Bureau of Kalkissa launched an investigation into the incident.
-
-Accordingly, the suspect who supplied firearms and ammunition for the crime on Monday (September 22) was arrested.
-
-The police media unit said that he was arrested by the Criminal Investigation Bureau Officers of the Kalkis Division in the Malwatta Road area of ​​the Dehiwala Police Division.
-
-Investigations have revealed that the suspect is a 35 -year -old from Dehiwala.
-
-The Criminal Investigation Bureau is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/af62555c.json)
-
-[Extended Data](ext_articles/af62555c.ext.json)
-
----
-
-### Denmark’s Copenhagen airport reopens after nearly four-hour drone disruption
-
-*2025-09-23 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112802/denmarks-copenhagen-airport-reopens-after-nearly-four-hour-drone-disruption) · `en`
-
-Copenhagen Airport, the busiest in the Nordic region, reopened early on Tuesday (Sep 23) after drone sightings halted all take-offs and landings for nearly four hours, the airport said.
-
-Delays and some cancelled departures will persist, and passengers should check with their airlines, it added.
-
-Police said on Monday that two or three large drones had been seen flying in the area, leading to the closure of all traffic at Denmark’s biggest airport in Copenhagen.
-
-The airport halted operations at 8.26pm (Tuesday, 2.26am, Singapore time) on Monday, according to flight tracking service FlightRadar. Around 50 flights were diverted to alternate airports, FlightRadar said on X.
-
-Earlier, an airport spokesperson said that police were working to identify the drones but declined to provide further details, citing the ongoing investigation.
-
-...
-
-[Data](articles/1a6bf4fe.json)
-
-[Extended Data](ext_articles/1a6bf4fe.ext.json)
-
----
-
-### Suspein into Saint's stock of drugs found in Tangalle - Value Rs. 10,000
-
-*2025-09-23 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214891) · `si`
-
-Police have confirmed that the total value of the drug found by the police in Tangalle area was about Rs. 9,888 million.
-
-The police also confirmed that 284.94 kilograms of heroin and 420.976 kilograms of ice and 420.976 kilograms of ice.
-
-Registered owners of the lorry lorries have been arrested and being questioned.
-
-Meanwhile, the drug recovered from the Tangalle area, the drug has been identified as a drug belonging to one person who is conducting the drug racket in Sri Lanka.
-
-Investigations have revealed that the drug was sent to Sri Lanka by the criminal of the criminal of drug trafficking from a foreign country.
-
-According to the information received by the police, the information received by the police in a special mission to the police, the information received by the police in a special mission was found in a special mission to the police with three lorries in Tangalle.
-
-The sufferer is considered as the highest number of drugs found in the country.
-
-...
-
-[Data](articles/8f93950e.json)
-
-[Extended Data](ext_articles/8f93950e.ext.json)
-
----
-
-### Joint operation launched to locate two missing fishermen in Kalpitiya seas
-
-*2025-09-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112801/joint-operation-launched-to-locate-two-missing-fishermen-in-kalpitiya-seas) · `en`
-
-Two individuals who set out for fishing in a boat from the Sinnakudirippu lagoon in Kalpitiya have been reported missing, police stated.
-
-Accordingly, an investigation has been launched following a complaint received by the Kalpitiya Police Station regarding two individuals who have not returned after leaving in a boat from the Sinnakudirippu lagoon on September 21.
-
-The missing individuals are residents of Kalpitiya, aged 27 and 34.
-
-According to police, a joint search operation has been initiated by officers of the Kalpitiya Police Station together with Sri Lanka Navy personnel to locate the missing persons.
-
-◼️
-
-[Data](articles/44da583a.json)
-
-[Extended Data](ext_articles/44da583a.ext.json)
-
----
-
-### Drugs seized from Tangalle yesterday estimated to be worth over Rs. 9,800 million: Police
-
-*2025-09-23 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112800/drugs-seized-from-tangalle-yesterday-estimated-to-be-worth-over-rs-9800-million-police) · `en`
-
-Sri Lanka Police have confirmed that the total street value of a massive narcotics haul discovered in Tangalle yesterday is approximately Rs. 9.888 million, police stated.
-
-The seized drugs include 284.94 kilograms of heroin and 420.976 kilograms of crystal methamphetamine (commonly known as ‘ice’), bringing the total amount of narcotics to 705.91 kilograms—the largest drug seizure in Sri Lanka’s history in a single day.
-
-The registered owners of the lorries used to transport the drugs have been taken into custody and are currently being questioned, police noted.
-
-Investigations have revealed that the narcotics belong to a single major drug trafficker operating within Sri Lanka, with further links to international drug smuggling. It has been uncovered that the shipment was sent to Sri Lanka by ‘Unakuruwa Shantha,’ a wanted criminal suspected to be managing large-scale drug operations from a foreign country.
-
-...
-
-[Data](articles/27558fc4.json)
-
-[Extended Data](ext_articles/27558fc4.ext.json)
 
 ---

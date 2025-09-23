@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 11:41:19**
+As of **2025-09-23 12:24:39**
 
 ## Newspaper Stats
 
-*Scraped **77,624** Articles*
+*Scraped **77,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,299 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,536
-adaderanalk | 10,058
-tamilmirrorlk | 11,680
-virakesarilk | 12,629
-adaderanasinhalalk | 13,557
+adalk | 7,539
+adaderanalk | 10,063
+tamilmirrorlk | 11,684
+virakesarilk | 12,630
+adaderanasinhalalk | 13,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,621 (100.0%) of 77,624 articles have been extended.
+77,630 (100.0%) of 77,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### மூத்த நடிகர் நளின் பிரதீப் உடுவெல காலமானார்.
+### ප්‍රංශයත් පලස්තීනය පිළිගනියි
+
+*2025-09-23 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214905) · `si`
+
+පලස්තීනය රාජ්‍යයක් ලෙස පිළිගන්නා බව ප්‍රංශය නිල වශයෙන් ප්‍රකාශයට පත්කර තිබේ.
+
+ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් විසින් නිව්යෝර්ක්හි එක්සත් ජාතීන්ගේ සමුළුවේ දි අදහස් දක්වමින් මේ බව ප්‍රකාශ කර ඇති බව විදෙස් මාධ්‍ය සඳහන් කළේය.
+
+සාමය සඳහා කාලය පැමිණ ඇති බවත් ගාසා තීරයේ පවතින යුද්ධය සාධාරණීකරණය කිරීමට කිසිවෙක් නොමැති බවත් ප්‍රංශ ජනාධිපතිවරයා එහිදී ප්‍රකාශ කර තිබේ.
+
+එක්සත් රාජධානිය, කැනඩාව, ඔස්ට්‍රේලියාව, පෘතුගාලය යන රටවල් පසුගිය ඉරිදා දිනයේ පලස්තීනය රාජ්‍යයක් ලෙස පිළිගැනීමත් සමග බෙල්ජියම, ලක්සම් බර්ග්, මෝල්ටාව, ඇන්ඩෝරා සහ සැන්මරීනෝ රටවල් ද පලස්තීනය රාජ්‍යයක් ලෙස පිළිගන්නා බව ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/cb2034b6.json)
+
+---
+
+### ‘Kush’ worth over Rs. 50 million seized at BIA
+
+*2025-09-23 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112821/kush-worth-over-rs-50-million-seized-at-bia) · `en`
+
+Two individuals have been arrested at the Bandaranaike International Airport (BIA) while attempting to exit the airport with a large consignment of “Kush” cannabis worth over Rs. 50 million, this morning (23).
+
+The duo was arrested by the Narcotics Control Unit of Sri Lanka Customs while attempting to exit the airport through the   “Green Channel” at the BIA, which is designated for passengers with no items to declare, Ada Derana reporter said.
+
+The suspects include a 29-year-old woman from Colombo and a 48-year-old man residing in Chennai, India.
+
+Investigations revealed that the duo had purchased the consignment of “Kush” in Bangkok, Thailand, and subsequently travelled to New Delhi, India, before arriving in Katunayake on Air India flight AI-277 at 6.50 a.m. today.
+
+According to officials, a search of their two pieces of luggage and a backpack led to the seizure of five kilograms and 92 grams of “Kush” concealed in five separate bags.
+
+...
+
+[Data](articles/31112fb2.json)
+
+---
+
+### Visa Crisis: The lover flew away from the lover
+
+*2025-09-23 11:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விசா-நெருக்கடி-காதலியை-விட்டு-பறந்த-காதலன்/50-365121) · `ta`
+
+US President Donald Trump has announced that the H 1 B Visa has been changed. Thus IT employees around the world are going to the US in a hurry. A romantic couple has traveled to Italy. With Trump's announcement. The video released by her girlfriend has gone viral on social circles.
+
+Donald Trump has been taking various measures against India since US president. The Cold War has been in the past few months between India and the US. Within a few months after taking office as president, the visa was taken up by the crisis.
+
+In this case, last month raised the US tax on Indian goods by 50 per cent. As a result of this exporting businesses to the United States have been severely affected. Various world countries condemn Trump's actions. Opposition parties in the United States have warned that India and US will be affected.
+
+...
+
+[Data](articles/9bec8af0.json)
+
+[Extended Data](ext_articles/9bec8af0.ext.json)
+
+---
+
+### கணவனான சார்லி கிர்க் கொலை : மனைவி எரிக்காவின் நெகிழ்ச்சியான செய்தி !
+
+*2025-09-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225828) · `ta`
+
+அமெரிக்காவின் பழமைவாத வர்ணனையாளர் சார்லி கிர்க்கின் படுகொலைக்குப் பிறகு, அவரது மனைவி எரிக்கா கிர்க், நெகிழ்ச்சியுடன் தனது கணவரைக் கொன்றவரை மன்னிப்பதாகத் தெரிவித்த செய்தி, அமெரிக்க அரசியலிலும் பொது வாழ்விலும் ஒரு ஆழமான தாக்கத்தை ஏற்படுத்தியுள்ளது.
+
+அரிசோனாவின் கிளெண்டேல் நகரில் உள்ள ஒரு பெரிய மைதானத்தில், ஆயிரக்கணக்கானோர் முன்னிலையில் நடைபெற்ற அவரது அஞ்சலி நிகழ்வில், இந்த வார்த்தைகள் கண்ணீருடன் உச்சரிக்கப்பட்டன.
+
+சார்லி கிர்க்கின் அஞ்சலி நிகழ்வு ஒரு குடியரசுக் கட்சியின் அரசு இறுதிச் சடங்கு போல பிரமாண்டமாக நடந்தது. அமெரிக்காவின் பல பகுதிகளிலிருந்தும் பல்லாயிரக்கணக்கான அவரது ஆதரவாளர்கள், சிவப்பு, வெள்ளை, மற்றும் நீல நிற உடைகளை அணிந்து வந்து அவருக்கு அஞ்சலி செலுத்தினர். இது சார்லி கிர்க்கின் அரசியல் செல்வாக்கின் வலிமையை வெளிப்படுத்தியது.
+
+...
+
+[Data](articles/7c4c3654.json)
+
+---
+
+### ”21/4 தாக்குதல் குறித்து OHCHR ற்கு வழங்கிய அறிக்கை பாதகமானது”
+
+*2025-09-23 11:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்-குறித்து-OHCHR-ற்கு-வழங்கிய-அறிக்கை-பாதகமானது/175-365120) · `ta`
+
+2019 ஆம் ஆண்டு ஈஸ்டர் ஞாயிற்றுக்கிழமை ஷங்க்ரி-லா ஹோட்டலில் நடந்த குண்டுவெடிப்பில் கொல்லப்பட்ட விஹங்கா தேஜனின் தந்தை, ஐ.நா. மனித உரிமைகள் உயர் ஸ்தானிகர் (OHCHR) அலுவலகத்திற்கு அளித்த அறிக்கை, சர்வதேச அளவில் இலங்கைக்கு தீங்கு விளைவிக்கும் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+பாதிக்கப்பட்டவரின் தந்தை, விசாரணைகளின் முன்னேற்றம் குறித்து அதிருப்தி அடைந்துள்ளதாக OHCHR-க்குத் தெரிவித்ததாகவும், இதுபோன்ற கருத்துக்கள் வெளிநாடுகளில் நாட்டின் நிலையை எதிர்மறையாகப் பாதிக்கக்கூடும் என்றும் எச்சரித்ததாகவும் பிரேமதாச கூறினார்.
+
+"இது நாட்டிற்கு தீங்கு விளைவிக்கும். பாதிக்கப்பட்டவர்களுக்கு உறுதியளிக்கவும், அவர்கள் தேடும் நம்பகத்தன்மையை அவர்களுக்கு வழங்கவும் நீங்கள் நடவடிக்கை எடுக்க வேண்டும்," என்று பிரேமதாச கூறினார்.
+
+◼️
+
+[Data](articles/bbf648d6.json)
+
+---
+
+### Fertilizer subsidy to farmers worth Rs. 200M to be provided via QR code – Minister
+
+*2025-09-23 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112820/fertilizer-subsidy-to-farmers-worth-rs-200m-to-be-provided-via-qr-code-minister) · `en`
+
+A QR code system will be introduced in the near future to provide fertilizer subsidies to tea farmers to ensure efficiency and transparency, the Minister of Plantations and Community Infrastructure, Samantha Viddyarathna announced in Parliament today (23).
+
+Minister Viddyarathna stated that the Cabinet approval has already been granted for the initiative, with the first phase scheduled to commence on September 26 in Matugama.
+
+He further noted that the Tea Board has allocated Rs. 2,000 million for the tea fertilizer subsidy program for the year 2025.
+
+Out of this, Rs. 200 million will be distributed under the new QR code system, primarily targeting small-scale tea estate owners, who account for nearly 75% of the sector, he said.
+
+Minister Viddyarathna explained that through the QR code mechanism, farmers will be able to obtain fertilizer from multiple fertilizer companies registered with the Fertilizer Secretariat, in addition to government-supplied fertilizer.
+
+...
+
+[Data](articles/5fdf79c8.json)
+
+---
+
+### Dumb hantunnetti to the question of assets
+
+*2025-09-23 11:37:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்துக்கள்-கேள்விக்கு-ஊமையான-ஹந்துன்நெத்தி/175-365119) · `ta`
+
+Ministers, Deputy Ministers and MPs of the National People's Power Government led by President Anura Kumara Dissanayake are submitting their property details. Controversy has been raised in public regarding the assets submitted by some.
+
+In this context, Minister Sunil Handunnetti has a dummy delegation without answering questions about assets.
+
+Industry and Entrepreneurship Development Minister Sunil Handunnetti replied that it is not wise to ask him questions about his assets.
+
+I may not respond to your question or not to respond. It is not fair for us to investigate this here. There is a law in the country. The Commission to investigate bribery or corruption allegations of bribery or corruption has made these property records public, and you should not question them when you meet them on the street.
+
+If anyone has a question about this, they can write and inquire into the Commission to investigate bribery or corruption. This is not that I cannot answer this.
+
+...
+
+[Data](articles/dfb6103d.json)
+
+[Extended Data](ext_articles/dfb6103d.ext.json)
+
+---
+
+### Sapumal shot dead - injured
+
+*2025-09-23 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214904) · `si`
+
+The familiar ecological park and the Minneriya National Park has been shot dead as 'Sapumal'.
+
+It is said that the Safari Jrip drivers have seen the Kaudulla National Park.
+
+The specialty of the 25-year-old elephant is that the gross and a half feet longer have increased.
+
+The next right leg of the elephant, which is roaming in three parks, has kept about two shots of shots and have been shot dead.
+
+It is reported that the Ahaha should be treated and has been very serious.
+
+A group of tourists visited Kaudulla Tanks yesterday (22) as they were shot.
+
+◼️
+
+[Data](articles/e0035fe6.json)
+
+[Extended Data](ext_articles/e0035fe6.ext.json)
+
+---
+
+### Two sons arrested at Tangalle home
+
+*2025-09-23 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214903) · `si`
+
+The two sons of the deceased have been arrested since the deceased who had found three narcotics lorries in the Seennamodara, Tangalle.
+
+The total value of the stock of drugs found in three lorries in Tangalle was about Rs. 9,888 million.
+
+Police said that 705.91 kilograms of drugs including ice and heroin were found in the three lorries.
+
+Meanwhile, it is said that 284.94 kilograms of heroin and 420.976 kilograms of ice.
+
+The ice and heroin found in 3 lorries yesterday, on the information received by the police in the house of Sundala, Tangalle yesterday.
+
+In addition to drugs, police found five T-56 rifle and five new pistol-type firearms in addition to the drug.
+
+Investigations have revealed that the sufferer was owned by the criminal of St. Shantha, Unakila, Drug trafficking.
+
+Meanwhile, the three persons who have died in the investigations have been revealed in investigations into the drug traffickers.
+
+...
+
+[Data](articles/3c7c967c.json)
+
+[Extended Data](ext_articles/3c7c967c.ext.json)
+
+---
+
+### Prison for former Control Commissioner Harsha
+
+*2025-09-23 11:20:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கட்டுப்பாட்டு-ஆணையாளர்-ஹர்ஷாவுக்கு-சிறை/175-365116) · `ta`
+
+The Supreme Court on Tuesday (23) sentenced former Immigration and Emigration Control Commissioner Harsha Ilykpitiya to two years in prison for contempt of court allegations over controversial visa agreement.
+
+The hearing came before a three -judge bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeesekera.
+
+On September 25, 2024, the High Court ordered the High Court to implement the controversial visa agreement to implement the order of Harsha Illukpitiya until the contempt of court was completed.
+
+◼️
+
+[Data](articles/7eea3006.json)
+
+[Extended Data](ext_articles/7eea3006.ext.json)
+
+---
+
+### Two persons linked to yesterday’s Tangalle drugs seizure arrested
+
+*2025-09-23 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112819/two-persons-linked-to-yesterdays-tangalle-drugs-seizure-arrested-) · `en`
+
+Police have arrested two sons of an individual who died after being hospitalised from a house in Seenimodara, Tangalle, yesterday (22), where a large haul of narcotics was found in three lorries, police stated.
+
+According to police, the estimated street value of the drugs found in the three lorries is approximately Rs. 9,888 million.
+
+The seized narcotics included a total of 705.91 kilograms comprising of 284.94 kilogram of heroin and 420.976 kilogram of crystal methamphetamine (commonly known as ‘Ice’).
+
+The seizure was made during a special operation conducted yesterday based on information received following the suspicious deaths of two individuals found inside the house.
+
+During the search, police also recovered a T-56 assault rifle and five unpacked pistols.
+
+Police investigations have revealed that the seized drug stock belongs to an underworld figure known as ‘Unakuruwa Shantha’, who is suspected to be operating drug trafficking activities from abroad.
+
+...
+
+[Data](articles/9fa0e615.json)
+
+---
+
+### හිටපු නගරාධිපති සමන් ලාල්ට ඇප
+
+*2025-09-23 11:16:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නගරාධිපති-සමන්-ලාල්ට-ඇප/11-418665) · `si`
+
+අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන් ලාල් ප්‍රනාන්දු මහතාට අද(23දා) ඇප ලබා දී තිබේ.
+
+අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් පසුගිය  සැප්තැම්බර් මස 10 වැනිදා ඔහුව අත්අඩංගුවට ගැනීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/5f49688e.json)
+
+---
+
+### Senior actor Nalin Pradeep Uduvela has passed away.
 
 *2025-09-23 11:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-நடிகர்-நளின்-பிரதீப்-உடுவெல-காலமானார்/175-365115) · `ta`
 
-தனித்துவமான நடிப்பு ஆளுமை கொண்ட நளின் பிரதீப் உடுவெல, தனது 56 வயதில் செவ்வாய்க்கிழமை (23) காலை காலமானார்.
+Nalin Pradeep Uduwala, who has a unique acting personality, passed away on Tuesday morning (23) at the age of 56.
 
-அவர் சில நாட்களாக மஹரகம அபேக்ஷா மருத்துவமனையில் சிகிச்சை பெற்று வந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+He is reported to have been receiving treatment at the Maharagama Abeksha Hospital for a few days.
 
-மேடை, சினிமா மற்றும் தொலைக்காட்சி நாடகங்களில் நடித்த அவரின் நடிப்புத் திறமை சரசவி மற்றும் சுமதி உள்ளிட்ட பல விருது விழாக்களில்   அங்கீகரிக்கப்பட்டது.
+Her performance in the stage, cinema and television plays was recognized at several awards ceremonies including Sarasavi and Sumathi.
 
 ◼️
 
 [Data](articles/3405e8df.json)
 
+[Extended Data](ext_articles/3405e8df.ext.json)
+
 ---
 
-### ரசாயனம் தடவிய நாணயத்தாள்: ஓட்டுநரிடம் கொள்ளையடித்த   பாகிஸ்தானியர்கள் மூவர் கைது
+### Pakistanis arrested for robbing driver
 
 *2025-09-23 11:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரசாயனம்-தடவிய-நாணயத்தாள்-ஓட்டுநரிடம்-கொள்ளையடித்த-பாகிஸ்தானியர்கள்-மூவர்-கைது/175-365114) · `ta`
 
-கொள்ளைச் சம்பவங்களில் பயன்படுத்தப்படும் அரிய தந்திரமாகத்   ரசாயனம் கலந்த ரூ.5,000 நோட்டைப் பயன்படுத்தி லொறி ஓட்டுநரை மயக்கமடையச் செய்து ரூ.90,000 கொள்ளையடித்ததாக  பாகிஸ்தானியர்கள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three Pakistanis have been arrested for allegedly robbing a lorry driver of Rs.
 
-சுற்றுலா விசாக்களில் நாட்டில் தங்கியிருந்த ​​சந்தேக நபர்கள் ஒழுங்கமைக்கப்பட்ட பணமோசடி நடவடிக்கைகளில் ஈடுபட்டதாக நம்பப்படுகிறது என்று பொலிஸார் தெரிவித்தனர்.
+It is believed that the suspects who stayed in the country on tourist visas are believed to have been involved in organized money laundering.
 
-இந்த சம்பவம், பேராதனை வீதியில் சனிக்கிழமை (20)   நடந்ததாக பொலிஸார் தெரிவித்தனர். அங்கு சந்தேக நபர்கள் ரூ.5,000 நோட்டை மாற்ற உதவி கோரும் வகையில்​ லொறியை நிறுத்தி ஓட்டுநரை அணுகினர்.
+The incident took place on Saturday (20) on the Peradeniya Road, police said. There, the suspects stopped the lorry and approached the driver, demanding help to change the Rs 5,000 note.
 
-ஓட்டுநரிடம்​ பேச்சைக்கொடுத்த சந்தேக நபர்களில் ஒருவர் அந்த ரூ.5,000 நோட்டை  ஓட்டுநரின் முகத்திற்கு அருகில் கொண்டு சென்றார். அப்போது,    சாரதி சுயநினைவை இழந்ததாகவும் கூறப்படுகிறது.
+One of the suspects who spoke to the driver took the Rs 5,000 note near the driver's face. At the time, the driver was said to have lost consciousness.
 
-ஓட்டுநர் சுயநினைவு திரும்பியபோது, ​​ரூ.90,000 ரொக்கம் திருடப்பட்டதைக் கண்டுபிடித்தார். பின்னர் அவர் பேராதனை பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+When the driver returned to self -consciousness, he discovered that Rs.90,000 cash had been stolen. He later lodged a complaint with the Peradeniya police.
+
+Investigators led to identifying the vehicle where the suspects escaped through CCTV camera footage in the area, police said.
+
+Police found that the vehicle was driving to a rental service center in Wattala, with a license plate number and the vehicle was rented by a Pakistani man.
 
 ...
 
 [Data](articles/3d131de0.json)
+
+[Extended Data](ext_articles/3d131de0.ext.json)
 
 ---
 
@@ -88,6 +332,28 @@ Accordingly, the QR code is being implemented for Rs 200 million tea fertilizer 
 
 ---
 
+### 2025 Galle Dialogue to commence tomorrow
+
+*2025-09-23 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112818/2025-galle-dialogue-to-commence-tomorrow) · `en`
+
+The twelfth edition of the Galle Dialogue International Maritime Conference is scheduled to commence tomorrow (24).
+
+The two-day forum hosted by the Sri Lanka Navy, under the patronage of the Ministry of Defence will take place at the Wave n’ Lake Navy Hall in Welisara.
+
+The inaugural ceremony will be graced by the Prime Minister Dr. Harini Amarasuriya.
+
+The two-day premier forum will feature participation from senior representatives, naval leaders, and maritime experts from 34 nations and 14 international organizations.
+
+Under the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics,” the conference will foster strategic dialogue on building a secure, prosperous, and sustainable maritime future.
+
+The conference is structured around four pivotal sessions, focusing on five key thematic areas: Marine environment, Maritime governance, Maritime economy, Maritime sustainability, and a Clean Indian Ocean, the Navy said in a statement.
+
+...
+
+[Data](articles/21d17342.json)
+
+---
+
 ### Tangalle drug lorry owner arrested
 
 *2025-09-23 11:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-போதைப்பொருள்-லொறி-உரிமையாளர்-கைது/175-365113) · `ta`
@@ -103,6 +369,26 @@ According to the phone call from abroad, he went to Colombo to sign some documen
 [Data](articles/26706433.json)
 
 [Extended Data](ext_articles/26706433.ext.json)
+
+---
+
+### Former Moratuwa Mayor Saman Lal Fernando granted bail
+
+*2025-09-23 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112817/former-moratuwa-mayor-saman-lal-fernando-granted-bail) · `en`
+
+Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been granted bail by the Colombo Magistrate’s Court today (23), Ada Derana reporter said.
+
+Accordingly, Colombo Chief Magistrate Asanga S. Bodaragama ordered the suspect to be released on a cash bail of Rs. 50,000 and three surety bails of Rs. 1 million each.
+
+The Magistrate also banned the suspect from traveling abroad and from entering the Moratuwa Municipal Council premises.
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on September 10 arrested and presented Saman Lal Fernando before court.
+
+He was arrested on suspicion that he had caused financial losses to the government by making illegal payments to his associates, in violation of financial regulations, in relation to 112 development project contracts of the Moratuwa Municipal Council under the “Integrated Urban and Rural Road Development Project.”
+
+◼️
+
+[Data](articles/f0afe540.json)
 
 ---
 
@@ -340,6 +626,28 @@ Minister of Justice and National Integration Harsha Nanayakkara is scheduled to 
 
 ---
 
+### Tangalle Emergency Owner. A young man of 25, there is no cyclist
+
+*2025-09-23 10:23:05* · [`adalk`](https://www.ada.lk/breaking_news/තංගල්ල-මතුකුඩු-ලොරියේ-හිමිකරු-අවු--25ක-තරුණයෙක්--ගෙදර-පාපැදියක්වත්-නෑ/11-418662) · `si`
+
+A youth who was arrested in the lorry that was a tangalized lorry powder was arrested in Elpitiya, police said.
+
+The suspect is a drug addict in the Elpitiya Walagagala area, alleg of Elpitiya, Elpitiya.
+
+Although the suspect's name had a lorry, he does not have a bicyclist in his house
+
+He has revealed that he had no lorry that he had a lorry while using a phone call from a telephone call from a phone call.
+
+The suspect was due to be handed over to Tangalle Police today (23).. The Elpitiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/34f1b096.json)
+
+[Extended Data](ext_articles/34f1b096.ext.json)
+
+---
+
 ### Electricity employees' leave canceled immediately
 
 *2025-09-23 10:21:13* · [`adalk`](https://www.ada.lk/breaking_news/වහාම-ක්‍රියාත්මක-වන-පරිදි-විදුලිබල-සේවකයන්ගේ-නිවාඩු-අවලංගු-කෙරේ/11-418661) · `si`
@@ -381,6 +689,22 @@ If the salt excavation operation in Hambantota is carried out, the TamilMmir's t
 [Data](articles/fc78c71c.json)
 
 [Extended Data](ext_articles/fc78c71c.ext.json)
+
+---
+
+### ජනාධිපති ලේකම් කාර්යාලයේ වාහන 29ක් අතුරුදහන්,  වාහන අලුත්වැඩියාවට රු. කෝටි 64ක්
+
+*2025-09-23 10:02:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ලේකම්-කාර්යාලයේ-වාහන-29ක්-අතුරුදහන්---වාහන-අලුත්වැඩියාවට-රු--කෝටි-64ක්/11-418660) · `si`
+
+ජනාධිපති ලේකම් කාර්යාලයේ වාහන අලුත්වැඩියා කිරිම සදහා පමණක්  ඉකුත් වර්ෂයේ දි (2024) රුපියල් හැටහතරකෝටි පනස්තුන්ලක්ෂ,තිස්හයදහස් හත්සිය හැත්තෑහතරක මුදලක් (645,336,774)  වැයකොට ඇති  බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක් මගින් අනාවරණය වි  ඇත.
+
+එකම වාහනය  වාර 10 සිට 17 දක්වා වු  වාරගණනක්  අලුත්වැඩියා කිරිමේ  අවස්ථා 53ක් වාර්තා වි තිබුණි. මිලියනයක්  සහ මිලියන හතලිහක්  අතර වු වටිනාකමින් යුතු  වාහන 189ක් අලුත්වැඩියා කොට තිබුණි. එම එක් වාහනයක් අලුත්වැඩියා කිරිම සදහා  ඉකුත් වර්ෂය තුල රුපියල්  මිලියනයක් සහ මිලියන විසිඅටක දක්වා වු  මුදලක් වැයකොට තිබු බවද විගණනය මගින් අනාවරණය කොට තිබුණි.
+
+විවිධ පාර්ශවයන් විසින් භාවිතා කරණු ලැබු වාහන 107ක්  ඉකුත් වර්ෂයේ (2024) සැප්තැම්බර් මස 21 දිනට පසුව ජනාධිපති ලේකම් කාර්යාලය වෙත භාර දි තිබුණි. එම වාහන අලුත්වැඩියා සහ නඩත්තු කටයුතු වෙනුවෙන්  රුපියල් දාහතරකෝටි,දහඅටලක්ෂ,තිස්එක්දහස්,අටසියතිස්දෙකක (141,831,832)  වියදමක්  ජනාධිපති ලේකම් කාර්යාලය විසින් වැයකොට  ඇති බවද විගණනය මගින් අනාවරණය කොට ඇත.
+
+...
+
+[Data](articles/ded72191.json)
 
 ---
 
@@ -1695,297 +2019,5 @@ Adam Becker cautions against equating AI with an autonomous “brain” destined
 [Data](articles/f0b0968e.json)
 
 [Extended Data](ext_articles/f0b0968e.ext.json)
-
----
-
-### Nepal’s uprising and lessons for South Asia
-
-*2025-09-22 23:39:27* · [`dailyftlk`](https://www.ft.lk/columns/Nepal-s-uprising-and-lessons-for-South-Asia/4-782025) · `en`
-
-The uprisings in Nepal, Bangladesh, and Sri Lanka all reveal the same underlying dynamic: a critical 5% of society—small but decisive—determines the trajectory of these crises
-
-Nepal was recently engulfed in a wave of fierce public unrest that forced the Prime Minister to resign. The uprising left vast destruction in its wake: national assets worth millions were lost, and numerous five-star hotels in Kathmandu were set ablaze. Videos flooded social media, showing enraged crowds dragging politicians through the streets while setting their homes on fire.
-
-Observers quickly drew parallels with Sri Lanka’s “Aragalaya” (Struggle) of 2022. Bangladesh too had experienced a similar upheaval, when its Prime Minister was driven to seek refuge in India.
-
-...
-
-[Data](articles/0f5f5501.json)
-
-[Extended Data](ext_articles/0f5f5501.ext.json)
-
----
-
-### What Doha delivered: Diplomacy beyond the podium
-
-*2025-09-22 23:33:54* · [`dailyftlk`](https://www.ft.lk/columns/What-Doha-delivered-Diplomacy-beyond-the-podium/4-782024) · `en`
-
-The Doha summit stands as a potent act of collective diplomacy
-
-When Qatar hosted the Arab-Islamic emergency summit on 15 September 2025—just days after an Israeli strike in Doha killed Hamas leaders and a Qatari officer—expectations were high. Could this gathering produce more than a chorus of protest speeches? Would it reshape regional alignments, force policy shifts, or deepen legal and military responses? As the dust settles, Doha emerges as a significant diplomatic moment that combined high symbolism with cautious substance.1
-
-...
-
-[Data](articles/edcdc397.json)
-
-[Extended Data](ext_articles/edcdc397.ext.json)
-
----
-
-### Indian Navy chief visits Sri Lanka, due to meet government and defence officials
-
-*2025-09-22 23:20:00* · [`economynextcom`](https://economynext.com/indian-navy-chief-visits-sri-lanka-due-to-meet-government-and-defence-officials-241556/) · `en`
-
-ECONOMYNEXT – India’s Chief of Naval Staff, Admiral Dinesh K Tripathi, has arrived in Sri Lanka on a four-day official visit, and is scheduled to meet senior government and defence officials of Sri Lanka.
-
-“The visit of the Indian Chief of Naval Staff also underscored the strengthening of naval cooperation, bolstering maritime security, and fostering collaborative efforts in support of regional stability,” Sri Lanka Navy said.
-
-Admiral Tripathi met with the Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda at the Navy Headquarters in Colombo.
-
-“The two Navy Chiefs subsequently discussed matters of mutual interest, with a focus on strengthening partnerships in the Indian Ocean Region and reinforcing the long-standing friendship between the two navies.”
-
-The visit concludes on 25 September, following his participation at the 12th edition of the Galle Dialogue International Maritime Conference, organized by the Sri Lanka Navy. (Colombo/Sep22/2025)
-
-◼️
-
-[Data](articles/6b087b32.json)
-
-[Extended Data](ext_articles/6b087b32.ext.json)
-
----
-
-### AB Mauri Lanka recognises longstanding partnership with David Stores at Prime Yeast launch
-
-*2025-09-22 22:55:00* · [`islandlk`](http://island.lk/ab-mauri-lanka-recognises-longstanding-partnership-with-david-stores-at-prime-yeast-launch/) · `en`
-
-AB Mauri Lanka Private Limited has launched its new Prime Instant Dry Yeast 500g pack, offering a reliable and practical option for bakers across Sri Lanka. The product is designed to perform consistently and meet the daily needs of both professional and home bakers.
-
-AB Mauri is a well-known name in the global baking industry, with operations in over 100 countries and 56 manufacturing sites. In Sri Lanka, AB Mauri Lanka has become known for supplying dependable baking products and providing technical support to the local baking community.
-
-As part of the launch, AB Mauri Lanka handed over the first batch of Prime Yeast to David Stores, a long-time distribution partner based in Madampe. The event was held during a small gathering, where R. S. Kumara, the proprietor of David Stores, received the initial supply.
-
-...
-
-[Data](articles/273a637f.json)
-
-[Extended Data](ext_articles/273a637f.ext.json)
-
----
-
-### Atlas awarded at SLIM Digis 2.5 for pioneering digital & technology led learning experiences in Sri Lanka
-
-*2025-09-22 22:54:00* · [`islandlk`](http://island.lk/atlas-awarded-at-slim-digis-2-5-for-pioneering-digital-technology-led-learning-experiences-in-sri-lanka/) · `en`
-
-Atlas, Sri Lanka’s leading learning brand, secured an array of awards at SLIM Digis 2.5 for its outstanding contributions to advancing education through the integration of technology and creativity. The event celebrated excellence in digital marketing, with Atlas being recognised for its achievements in experiential marketing, AI technology, and digital platform Integration.
-
-Atlas celebrated success by winning the Silver Award for ‘Best Use of Experiential/Immersive Marketing’ for Atlas Colour Sparx, alongside a Bronze Award and a Merit Award for Atlas PlayPalz in ‘Best Use of AI Technologies’ and ‘Digital/Social Platform Integration,’ respectively. These awards reflect the brand’s commitment to pioneering technology-driven education solutions that engage and empower young learners.
-
-...
-
-[Data](articles/be8f93f1.json)
-
-[Extended Data](ext_articles/be8f93f1.ext.json)
-
----
-
-### S&P Global Ratings upgrade boosts bourse but debt burden blights recovery prospects
-
-*2025-09-22 22:53:00* · [`islandlk`](http://island.lk/sp-global-ratings-upgrade-boosts-bourse-but-debt-burden-blights-recovery-prospects/) · `en`
-
-The CSE received a boost yesterday when S&P Global Ratings upgraded Sri Lanka’s sovereign rating to CCC+ from Selective Default (SD) on a stable outlook.
-
-The ratings agency highlighted that Sri Lanka’s economy has recovered steadily from its 2022 economic crisis, but its debt burden remains high even after the restructuring of most of its external debt. It has been the first rating improvement by the S&P since the unprecedented crisis three years ago.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 170.65 points while S and P SL20 rose by 63.75 points.
-
-...
-
-[Data](articles/e436e65e.json)
-
-[Extended Data](ext_articles/e436e65e.ext.json)
-
----
-
-### Fake letter with the signature of the Inspector General of Police
-
-*2025-09-22 22:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்மா-அதிபரின்-கையொப்பத்துடன்-போலி-கடிதம்/175-365093) · `ta`
-
-The letter, titled "Attn: The Alleged Victim", which is spreading with the signature of the Inspector General of Police on social media, is fake, police said.
-
-The Inspector General of Police has alleged that the 'Child and Women's Investigation Bureau' has been ordered to arrest domestic and foreign citizens who are involved in viewing, keeping, spreading, distributing or preparing children's sexual abuse pictures and videos.
-
-This is completely false and is a action that deliberately spreads false information. The police chief or any other official section has categorically stated that the letter has never been issued.
-
-Spreading fake documents is legally punishable offense. For official information, the police have asked the public to rely on notifications and media reports directly issued by the Sri Lanka Police Media Unit.. Remble
-
-◼️
-
-[Data](articles/a29a2514.json)
-
-[Extended Data](ext_articles/a29a2514.ext.json)
-
----
-
-### SLTDA embraces digital transformation by joining GovPay
-
-*2025-09-22 22:52:00* · [`islandlk`](http://island.lk/sltda-embraces-digital-transformation-by-joining-govpay/) · `en`
-
-In a groundbreaking initiative to modernize Sri Lanka’s tourism industry through digitalization, the Sri Lanka Tourism Development Authority (SLTDA) has joined GovPay – the government’s digital payment platform. This integration enables seamless, secure, and hassle-free online payments for a wide range of SLTDA services, offering greater convenience to stakeholders across the tourism ecosystem.
-
-As one of the country’s most vital industries, tourism lies at the heart of Sri Lanka’s economic revival. By embracing GovPay, SLTDA aims to streamline processes, reduce administrative hurdles, and create a more transparent and efficient business environment – further supporting the Government’s vision of positioning Sri Lanka as a world-class tourist destination powered by digital innovation.
-
-...
-
-[Data](articles/9df09221.json)
-
-[Extended Data](ext_articles/9df09221.ext.json)
-
----
-
-### President leaves for US to attend UN General Assembly
-
-*2025-09-22 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112795/president-leaves-for-us-to-attend-un-general-assembly) · `en`
-
-President Anura Kumara Dissanayake left the Bandaranaike International Airport (BIA) for the United States a short while ago, to participate in the United Nations General Assembly (UNGA) in New York.
-
-The delegation led by the President departed on a Dubai bound flight at around 10:20 p.m.
-
-He is scheduled to leave for New York, on a connecting flight.
-
-Accompanying the President was Minister of Foreign Affairs, Foreign Employment, and Tourism Promotion Vijitha Herath, along with several other government officials.
-
-During this visit, President Dissanayake will attend the 80th session of the United Nations General Assembly.
-
-The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division.
-
-During the visit, President Anura Kumara Dissanayake is scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
-
-...
-
-[Data](articles/686fad95.json)
-
-[Extended Data](ext_articles/686fad95.ext.json)
-
----
-
-### President leaves the country
-
-*2025-09-22 22:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214887) · `si`
-
-President Anura Kumara Dissanayake has left the island a while ago to attend the 80th session of the United Nations General Assembly.
-
-The President is due to address the United Nations General Assembly at 3.1 pm on the 24th of this month.
-
-President Anura Kumara Dissanayake is due to join bilateral talks with the Secretary-General of the United Nations and the United States's leaders.
-
-The President is also meeting with Sri Lankans living in the United States.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to join the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/8b2f0e92.json)
-
-[Extended Data](ext_articles/8b2f0e92.ext.json)
-
----
-
-### Temple elephant ‘Kadira’ reportedly attacks mahout – victim hospitalised
-
-*2025-09-22 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112794/temple-elephant-kadira-reportedly-attacks-mahout-victim-hospitalised) · `en`
-
-‘Kadira’, an elephant belonging to the elephant troop of the Temple of the Tooth Relic in Kandy, has reportedly attacked its mahout.
-
-The mahout, who sustained injuries from the attack, is currently receiving treatment at the Mawanella Base Hospital.
-
-A hospital spokesperson stated that the mahout’s condition remains uncertain at this time. However, due to internal bleeding, he is expected to undergo surgery.
-
-According to reports, the elephant suddenly attacked while the mahout was attempting to feed the animal.
-
-◼️
-
-[Data](articles/ba3bbdb2.json)
-
-[Extended Data](ext_articles/ba3bbdb2.ext.json)
-
----
-
-### Overcoming ‘Elite Displacement Syndrome’
-
-*2025-09-22 22:13:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/overcoming-elite-displacement-syndrome/) · `en`
-
-...
-
-[Data](articles/94f5ba07.json)
-
-[Extended Data](ext_articles/94f5ba07.ext.json)
-
----
-
-### Crucifying Journalists For Visiting Israel
-
-*2025-09-22 22:03:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/crucifying-journalists-for-visiting-israel/) · `en`
-
-The commotion agitated from various sects in Sri Lankan society targeted those who visited the State of Israel, including myself, labelling the delegation as those who are on the Mossad payroll, and it further questioned the moral reasoning of the Sri Lankan delegation, pushing them to the darkest corners of hell. While the critics’ right to condemn Israel or anything related to Israel as scum bug is respected, the attendees to the Israel tour should have their own stances, reasoning what impetus drove them to join the delegation, and their side should be heard , at least to emulate the principle of natural justice.
-
-...
-
-[Data](articles/2b4f2980.json)
-
-[Extended Data](ext_articles/2b4f2980.ext.json)
-
----
-
-### On Reconciliation: Listening To India Is Always Good For Sri Lanka
-
-*2025-09-22 21:58:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-reconciliation-listening-to-india-is-always-good-for-sri-lanka/) · `en`
-
-As speculation swirls over whether Sri Lanka’s National People’s Power (NPP) government will hold provincial council elections next year, a bigger question looms: Will the NPP genuinely move forward with these elections, or is it preparing to abolish the provincial council system altogether, despite repeated assurances? Against this backdrop, India has once again reaffirmed its long-standing position—insisting that the full implementation of the Thirteenth Amendment to Sri Lanka’s Constitution is crucial for the country’s unity and stability. India’s recent statement at the 60th session of the United Nations Human Rights Council (UNHRC) is not mere diplomatic routine, but part of a decades-long commitment to Sri Lanka’s reconciliation process.
-
-...
-
-[Data](articles/29da9ee7.json)
-
-[Extended Data](ext_articles/29da9ee7.ext.json)
-
----
-
-### One injured in accident on Southern Expressway – Lane towards Colombo blocked
-
-*2025-09-22 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112793/one-injured-in-accident-on-southern-expressway-lane-towards-colombo-blocked) · `en`
-
-An individual has been injured in an accident that occurred between Dodangoda and Gelanigama exits on the Southern Expressway this evening (22).
-
-The accident took place when a lorry transporting books from Galle to Colombo overturned on the road.
-
-As a result of the incident, one lane towards Colombo is currently blocked, according to police sources.
-
-Reports also indicate that traffic congestion has built up between Dodangoda and Gelanigama due to the lane closure.
-
-◼️
-
-[Data](articles/6b9fd2ed.json)
-
-[Extended Data](ext_articles/6b9fd2ed.ext.json)
-
----
-
-### An accident on Southern Expressway - Colombo lane
-
-*2025-09-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214886) · `si`
-
-A man was injured in an accident in the Southern Expressway today (22).
-
-A lorry that was transporting books from Galle to Colombo has reached the road.
-
-One lane to Colombo has been blocked due to the accident.
-
-It is reported that there is a traffic congestion between Dodangoda, Southern Expressway.
-
-◼️
-
-[Data](articles/159221c4.json)
-
-[Extended Data](ext_articles/159221c4.ext.json)
 
 ---

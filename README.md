@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 22:21:49**
+As of **2025-09-23 22:36:46**
 
 ## Newspaper Stats
 
-*Scraped **77,742** Articles*
+*Scraped **77,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,556
-adaderanalk | 10,080
+adaderanalk | 10,081
 tamilmirrorlk | 11,705
 virakesarilk | 12,647
 adaderanasinhalalk | 13,582
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,738 (100.0%) of 77,742 articles have been extended.
+77,738 (100.0%) of 77,743 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/74165f22.json)
+
+---
+
+### Trump hits Russia, backs Israel in wide-ranging UN speech
+
+*2025-09-23 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112840/trump-hits-russia-backs-israel-in-wide-ranging-un-speech) · `en`
+
+U.S. President Donald Trump warned Russia on Tuesday that he is prepared to impose strong economic measures if it does not work toward ending the war in Ukraine, and rejected a global move toward recognition of a Palestinian state in a combative speech to the U.N. General Assembly.
+
+In a wide-ranging foreign policy speech that included scathing criticism of the United Nations and European nations, Trump made the case for lower levels of global migration and said world leaders should abandon efforts to fight climate change, which he called “the greatest con job” in the world.
+
+Taken as a whole, the 56-minute speech was a rebuke to the world body and a return to form for Trump, who had routinely bashed the U.N. during his first term as president. Leaders gave him polite applause when he exited the chamber.
+
+...
+
+[Data](articles/8914dda1.json)
 
 ---
 
@@ -2069,25 +2085,5 @@ Opposition Leader Sajith Premadasa said in parliament today (23) to table the re
 [Data](articles/3359ae39.json)
 
 [Extended Data](ext_articles/3359ae39.ext.json)
-
----
-
-### France also accepts Palestine
-
-*2025-09-23 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214905) · `si`
-
-France has officially announced that Palestine is recognized as a state.
-
-According to foreign media reports, French President Emanuel Macquron was speaking at the United Nations Conference in New York.
-
-The French president has said that the time has come for peace and that there is no one to justify the war in Gaza.
-
-French President Emanuel Macronoon stated that the UK, Canada, Australia, Australia as a state of Palestine as a state of Palestine as a state of Palestine.
-
-◼️
-
-[Data](articles/cb2034b6.json)
-
-[Extended Data](ext_articles/cb2034b6.ext.json)
 
 ---

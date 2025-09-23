@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 10:08:46**
+As of **2025-09-23 09:39:29**
 
 ## Newspaper Stats
 
-*Scraped **77,593** Articles*
+*Scraped **77,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,127 +16,37 @@ economynextcom | 4,685
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,531
+adalk | 7,529
 adaderanalk | 10,051
-tamilmirrorlk | 11,671
+tamilmirrorlk | 11,668
 virakesarilk | 12,625
-adaderanasinhalalk | 13,553
+adaderanasinhalalk | 13,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,591 (100.0%) of 77,593 articles have been extended.
+77,586 (100.0%) of 77,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### පන්සලේ මල් පෝච්චිවල ගංජා වැවූ හිමිනමක් අත්අඩංගුවට
-
-*2025-09-23 09:50:36* · [`adalk`](https://www.ada.lk/breaking_news/පන්සලේ-මල්-පෝච්චිවල-ගංජා-වැවූ-හිමිනමක්-අත්අඩංගුවට/11-418658) · `si`
-
-අඹගස්දෝව ගනේතැන්න ප්‍රදේශයේ විහාරස්ථානයක ආවාස කුටියක මල්පෝච්චියක් තුල හොර රහසේ ගංජා පැල වගාකල චීවරධාරීයකු කුඩා ගංජා පැල 12ක් සමග  අත්අඩංගුවට ගත් බව අඹගස්දෝව පොලිසිය පවසයි .
-
-මෙසේ අත් අඩංගුවට ගෙන ඇත්තේ අඹගස්දෝව ප්‍රදේශයේ විහාරස්ථානයක වැඩවාසය කරන   රත්නපුර  කුරුවිට ප්‍රදේශයේ 21 හැවිරිදි චීවරධාරීයකු යයි පොලිසිය කීය .
-
-ලැබුනු තොරතුරු මත අඹගස්දෝව පොලිසියේ නිළධාරින් මෙම වැටලීම සිදු කර ඇති අතර , මෙහිදී විහාරස්ථානයේ චීවරධාරීයා වැඩසිටින කුටියේ මල්පෝච්චියක වගා කර තිබු අගල් 6ක් පමන උස ගංජා පැල සමග චීවරධාරියා මෙලෙස අත් අඩංගුවට ගනු ලැබිනැයි පොලිසිය සදහන් කලේය .
-
-බදුල්ල දිසාව භාර නියෝජ්‍ය පොලිස්පති ලක්සිරි විජේසේන බණ්ඩාරවෙල ජේෂ්ඨ පොලිස් අධිකාරි ඒ.ඒ.ආර් පී අමරසිංහ සහකාර පොලිස් අධිකාරි 1 උදයකුමාර යන මහත්වරුන්ගේ උපදෙස් මත අඹගස්දෝව පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක එච්.එම්.එල්.අබේසේකර මහතා ඇතුළු නිළධාරින් වැඩිදුර පරීක්ෂණ පවත්වති.
-
-◼️
-
-[Data](articles/43a2c316.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-23 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214898) · `si`
-
-The Parliamentary Secretariat said that the Parliament will meet to the 26th today (23).
-
-The National Building Research Research Institutes Research Institutes Bill will be held at the Second Reading Debate.
-
-The Second Reading Debate will be held tomorrow, the Second Reading Debate will be held tomorrow and the debate over regulations under the Import and Export Control Act.
-
-The post-Adjournment Debate on the fourth report of the Public Business on Friday is scheduled to be held on the fourth report of the Committee.
-
-◼️
-
-[Data](articles/9a09dba3.json)
-
-[Extended Data](ext_articles/9a09dba3.ext.json)
-
----
-
-### Tangalle drug; Arrests of lorry owners
-
-*2025-09-23 09:29:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-போதைப்பொருள்-லொறி-உரிமையாளர்கள்-கைது/175-365105) · `ta`
-
-The total amount of narcotics recovered from 3 lorries on Monday (22) in Tangalle is 705 kg. The registered owners of 3 lorries were arrested by Kalkiss, Elpitiya and Meediyagoda police stations.
-
-Investigations carried out by the police have found that the drugs have been sent to Sri Lanka through a 'Unakurve Santha', who is involved in drug trade from abroad.
-
-◼️
-
-[Data](articles/0d83c1d2.json)
-
-[Extended Data](ext_articles/0d83c1d2.ext.json)
-
----
-
-### The EMC has canceled the employees' holidays
-
-*2025-09-23 09:25:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-மி-ச-ஊழியர்களின்-விடுமுறை-இரத்து/175-365104) · `ta`
-
-All employees of the Ceylon Electricity Board have been canceled until the re -notice is made
-
-◼️
-
-[Data](articles/76e9d930.json)
-
-[Extended Data](ext_articles/76e9d930.ext.json)
-
----
-
-### Departed to the United States, the President
-
-*2025-09-23 09:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவிற்கு-புறப்பட்டார்-ஜனாதிபதி/175-365103) · `ta`
-
-President Anurakumara Dissanayake left the country on Tuesday night to attend the 80th General Assembly of the United Nations.
-
-The President will address the United Nations General Assembly at 3.15 pm on Wednesday, September 24.
-
-During the visit, President Anura Kumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several world leaders and is scheduled to be attended by Sri Lankans living in the US.
-
-During the visit, President Anura Kumara Dissanayake joined the Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
-
-◼️
-
-[Data](articles/fd0de3ac.json)
-
-[Extended Data](ext_articles/fd0de3ac.ext.json)
-
----
-
-### Leave of the Ceylon Electricity Board's employees canceled
+### විදුලිබල මණ්ඩලයේ සේවකයින්ගේ නිවාඩු අවලංගු කෙරේ
 
 *2025-09-23 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214897) · `si`
 
-Recession of notice of the CEB has been canceled again.
+වහාම ක්‍රියාත්මක වන පරිදි නැවත දැනුම්දෙනතුරු විදුලිබල මණ්ඩලයේ සියලු සේවකයින්ගේ නිවාඩු අවලංගු කර තිබේ.
 
-All specially gazette notifications were released on the 21st of the presidential declaration of services related services.
+විදුලිබල සැපයීම සම්බන්ධ සියලු සේවා අත්‍යාවශ්‍ය සේවාවන් බවට ප්‍රකාශයට පත්කරමින් ජනපති නියමයෙන් අති විශේෂ ගැසට් නිවේදනයක් පසුගිය 21 වනදා නිකුත් කෙරුණි.
 
-President Anura Kumara Dissanayake has signed the President based on Section 2 of the Public Service Act No. 61 of 1979.
+1979 අංක 61 දරන අත්‍යාවශ්‍ය මහජන සේවා පනතේ 2වන වගන්තිය ප්‍රකාරව ජනාධිපතිවරයාට පැවරී ඇති බලතල අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ සඳහා අත්සන් තබා ඇත.
 
-Considering the essential for maintaining the riches and that there could be a blocked or obstruction of such services.
+සාමාන්‍ය ජනජීවිතය පවත්වාගෙන යාම සඳහා අත්‍යාවශ්‍ය වන බව සහ එකී සේවාවන්ට අවහිරයක් හෝ බාධාවක් විය හැකි බව සැලකිල්ලට ගනිමින් මෙම ගැසට් පත්‍රය නිකුත්කර තිබේ.
 
 ◼️
 
 [Data](articles/bb8834ad.json)
-
-[Extended Data](ext_articles/bb8834ad.ext.json)
 
 ---
 
@@ -2027,5 +1937,113 @@ The deceased was identified as a 50-year-old resident of Vitharandeniya, Tangall
 [Data](articles/21c31ded.json)
 
 [Extended Data](ext_articles/21c31ded.ext.json)
+
+---
+
+### LTTE's 6,000 gold items handed over to Central Bank: CIT
+
+*2025-09-22 18:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளின்-6-000-தங்கப்-பொருட்கள்-மத்திய-வங்கியிடம்-ஒப்படைப்பு-சிஐடி/150-365076) · `ta`
+
+Of the 10,000 gold items believed to be owned by the LTTE, 6,000 items sent to the National Gemstones and Jewelry Commission on a court order have now been handed over to the Central Bank of Sri Lanka.. Has been told to Bodaragama.
+
+During the humanitarian operation, the rescued gold items were recovered from camps, illegal banks and buildings in the Northern and Eastern Provinces.
+
+The court had previously ordered the National Gemstone and Jewelry Commission to inspect 10,000 gold items and submit a detailed report to the court and the CIT.
+
+CIT officials told the court that 6,000 items were transferred to the Central Bank, referring to the content and weight of gold.
+
+When the case was taken up in court, they submitted this information by submitting a progress report.
+
+It was previously brought to the notice of the court that the gold items recovered in the Northern and Eastern Provinces were automatically presented to the LTTE by the locals, or that the LTTE was forcibly taken from them.
+
+◼️
+
+[Data](articles/53b03b19.json)
+
+[Extended Data](ext_articles/53b03b19.ext.json)
+
+---
+
+### Woman remanded for illegal gold
+
+*2025-09-22 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214879) · `si`
+
+Customs officers were arrested by customs officers at the Jaffna International Airport.
+
+Two Capsules that contain a substance that has been hidden into a gold that weighing 1,002.2 grams hidden have been found.
+
+She has come from Chennai yesterday and is a 41-year-old resident of Colombo 12.
+
+The suspect was produced before the Mallacam Magistrate's Court until 14 days.
+
+◼️
+
+[Data](articles/d4a0ad3f.json)
+
+[Extended Data](ext_articles/d4a0ad3f.ext.json)
+
+---
+
+### EU cyber agency says airport software held to ransom by criminals
+
+*2025-09-22 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112785/eu-cyber-agency-says-airport-software-held-to-ransom-by-criminals) · `en`
+
+The EU’s cyber security agency says criminals are using ransomware to cause chaos in airports around the world.
+
+Several of Europe’s busiest airports have spent the past few days trying to restore normal operations, after a cyber-attack on Friday disrupted their automatic check-in and boarding software.
+
+The European Union Agency for Cybersecurity, ENISA, told the BBC on Monday that the malicious software was used to scramble automatic check-in systems.
+
+“The type of ransomware has been identified. Law enforcement is involved to investigate,” the agency said in a statement to news agency Reuters.
+
+It’s not known who is behind the attack, but criminal gangs often use ransomware to seriously disrupt their victims’ systems and demand a ransom in bitcoin to reverse the damage.
+
+The BBC has seen internal crisis communications from staff inside Heathrow Airport which urges airlines to continue to use manual workarounds to board and check in passengers as the recovery is ongoing.
+
+...
+
+[Data](articles/8fd4a7b3.json)
+
+[Extended Data](ext_articles/8fd4a7b3.ext.json)
+
+---
+
+### Southern politicians linked to drug and organized crime networks – Public Security Minister
+
+*2025-09-22 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112784/southern-politicians-linked-to-drug-and-organized-crime-networks-public-security-minister) · `en`
+
+Minister of Public Security Ananda Wijepala has claimed that certain politicians in the Southern Province are allegedly connected to drug trafficking and organized criminal networks.
+
+Speaking at a media briefing held today (22), the Public Security Minister stated that this information is emerging based on intelligence reports and tips received from the general public.
+
+Minister Wijepala further noted that the criminal underworld and drug networks have expanded as a result of past political culture, but emphasized that the current government is now paying special attention to dismantling these operations. The Minister also confirmed that three major drug raids were conducted today in Tangalle.
+
+“There’s an important message for the public. We now have certain information indicating political links to serious drug and organized crime activities—particularly involving politicians from the south,” the Minister said.
+
+...
+
+[Data](articles/d559a05b.json)
+
+[Extended Data](ext_articles/d559a05b.ext.json)
+
+---
+
+### A controversial revelation from Public Defense Minister
+
+*2025-09-22 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214878) · `si`
+
+It is revealed that there is information that the South politicians are involved in drugs and organized crimes.
+
+Addressing a media briefing held today (22), the minister said that this is now revealed on information and intelligence information provided by the public.
+
+The present government has increased the organized crime and the drug network due to the recent political culture, the current government has paid special attention to that today.
+
+"We need to say a matter of the people of the country. It has been revealed that there are political ties on special drug and organized crime. Especially the politicians of the South are involved. Especially the public is currently being provided with information. The police are actively serving as duty. Intelligence information is getting large. Give the information to the police knowing the public. Safeguarding that information and the person's safety. "
+
+◼️
+
+[Data](articles/d527b02e.json)
+
+[Extended Data](ext_articles/d527b02e.ext.json)
 
 ---

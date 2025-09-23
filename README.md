@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 16:20:54**
+As of **2025-09-23 16:09:31**
 
 ## Newspaper Stats
 
-*Scraped **77,682** Articles*
+*Scraped **77,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,68 +17,20 @@ dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,546
-adaderanalk | 10,074
-tamilmirrorlk | 11,694
-virakesarilk | 12,636
+adaderanalk | 10,072
+tamilmirrorlk | 11,693
+virakesarilk | 12,635
 adaderanasinhalalk | 13,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,675 (100.0%) of 77,682 articles have been extended.
+77,675 (100.0%) of 77,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### பொருளாதார வளர்ச்சியை மேம்படுத்த இலங்கையும் ஐரோப்பிய ஒன்றியமும் மானிய ஒப்பந்தத்தில் கைச்சாத்து
-
-*2025-09-23 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225861) · `ta`
-
-மேம்பட்ட பல்லுயிர் பாதுகாப்பு மற்றும் திடக்கழிவு மேலாண்மை மூலம் நிலையான பொருளாதார வளர்ச்சியை மேம்படுத்துவதை நோக்கமாகக் கொண்ட ஒரு புதிய முயற்சியை ஆரம்பிப்பதற்காக அரசாங்கம் இன்று (23) ஐரோப்பிய ஒன்றியத்துடன் மானிய ஒப்பந்தத்தில் கைச்சாத்திட்டது.
-
-ஐரோப்பிய ஒன்றியத்தால் வழங்கப்படும் 8 மில்லியன் யூரோ மானியமானது, பொது நிர்வாகம், மாகாண சபைகள் மற்றும் உள்ளாட்சி அமைச்சு, சுற்றுச்சூழல் அமைச்சு மற்றும் ஐரோப்பிய ஒன்றியம் ஆகியவற்றால் கூட்டாக உருவாக்கப்பட்ட ஒரு திட்டத்தை ஆதரிக்கும் என எதிர்பார்க்கப்படுகிறது.
-
-இந்த முயற்சி சீரற்ற நிலையில் காணப்படும் சுற்றுச்சூழல் அமைப்புகளை மீட்டெடுப்பதன் மூலமும், இலக்கு வைக்கப்பட்ட பாதுகாப்பு உத்திகளை செயல்படுத்துவதன் மூலமும், நிலையான நில பயன்பாட்டு நடைமுறைகளை ஊக்குவிப்பதன் மூலமும் பல்லுயிர் பாதுகாப்பை ஆதரிக்கும் என எதிர்பார்க்கப்படுகிறது.
-
-...
-
-[Data](articles/8566431f.json)
-
----
-
-### ”பைத்தியம் போல் பேசுகிறாய்”
-
-*2025-09-23 15:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைத்தியம்-போல்-பேசுகிறாய்/175-365137) · `ta`
-
-கோட்டை ரயில் நிலையம் அருகே சட்டவிரோதமாக நிறுத்தப்பட்டிருந்த தனது காரை அகற்றுமாறு கேட்டதற்குப் பிறகு பாராளுமன்ற உறுப்பினர் ராமநாதன் அர்ச்சுனா பொலிஸாருடன் வாக்குவாதத்தில் ஈடுபட்டார்.
-
-நேற்று (22) சம்பவ இடத்தை விட்டு வெளியேறுவதற்கு முன்பு, பாராளுமன்ற உறுப்பினர் ஒரு பொலிஸ் அதிகாரியிடம், “நீங்கள் ஒரு முட்டாள் போல் பேசுகிறீர்கள்” என்று கூறுவதை காட்சிகள் காட்டுகின்றன.
-
-தொடர்ந்து 13வது நாளாக ரயில் நிலையத்தின் முன் போராட்டம் நடத்தி வரும் பாதிக்கப்பட்ட கல்வி அபிவிருத்தி அதிகாரிகள் ஏற்பாடு செய்த சத்தியாக்கிரகத்தை ஆதரிக்க அர்ச்சுனா வந்திருந்தார்.
-
-◼️
-
-[Data](articles/aa8d0bfb.json)
-
----
-
-### Indian Navy Chief pushes for stronger defence ties with Sri Lanka
-
-*2025-09-23 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112832/indian-navy-chief-pushes-for-stronger-defence-ties-with-sri-lanka) · `en`
-
-Chief of the Naval Staff in India Admiral Dinesh K Tripathi on Monday laid a wreath at the Indian Peace Keeping Force (IPKF) Memorial in Colombo, “honouring the courage and supreme sacrifice of Indian soldiers” who served during the IPKF operations, the Navy spokesperson said.
-
-“The solemn ceremony was a tribute to the courage, valour & supreme sacrifice of Indian soldiers who served with honour during IPKF operations. It also reflected the shared history between India & SriLanka and the enduring bond forged through sacrifice. The wreath laying underscored India’s commitment to preserving peace, promoting regional harmony & strengthening the spirit of friendship with Sri Lanka and the wider Indian Ocean Region, “wrote Navy spokesperson in an X post.
-
-During his ongoing four-day official visit to Sri Lanka, Admiral Tripathi also held a series of meetings with the top defence leadership of the island nation.
-
-...
-
-[Data](articles/cb9125c3.json)
-
----
 
 ### අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්ට එරෙහි පෙත්සම ඉල්ලා අස් කරගනී
 
@@ -159,22 +111,6 @@ It is also reported that the project will also contribute to the increase in the
 [Data](articles/5f1b8e9e.json)
 
 [Extended Data](ext_articles/5f1b8e9e.ext.json)
-
----
-
-### Sri Lanka and EU sign €8 million grant agreement to support economic recovery
-
-*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-eu-sign-8-million-grant-agreement-to-support-economic-recovery) · `en`
-
-The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
-
-The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
-
-...
-
-[Data](articles/07f41bfb.json)
 
 ---
 
@@ -2061,5 +1997,91 @@ Kalpitiya Police Station officials and Navy officials have taken steps to look f
 [Data](articles/0b251caf.json)
 
 [Extended Data](ext_articles/0b251caf.ext.json)
+
+---
+
+### Popular tele-drama actor Nalin Pradeep Udawela passes away aged 56
+
+*2025-09-23 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112807/popular-tele-drama-actor-nalin-pradeep-udawela-passes-away-aged-56-) · `en`
+
+Popular tele-drama actor Nalin Pradeep Udawela passed away this morning (23) at the age of 56, while receiving treatment at the Maharagama Apeksha Hospital, family sources confirmed.
+
+Born Udawela Lekumlage Nalin Pradeep Udawela on March 20, 1969, he was a prominent figure in Sri Lankan cinema, stage drama, and television, and also pursued a career in politics.
+
+Udawela served as a Western Provincial Councilor, in addition to his contributions to the performing arts.
+
+He commenced his film career in 1998 with Julietge Bhumikawa, directed by Jackson Anthony, and went on to gain popularity through films such as Tharaka Mal, Parawarthana, and Asai Man Piyabanna.
+
+Udawela’s contribution to the stage was also highly acclaimed, with notable performances in productions including Juriya, Kelani Palama, Mandela Mandela, Megha, Modara Mola, Mee Harak, New Hunuwataye Kathawa, Sewaneli Eda Minissu, and Suddek Oba Amathai.
+
+...
+
+[Data](articles/448e9f16.json)
+
+[Extended Data](ext_articles/448e9f16.ext.json)
+
+---
+
+### Veteran performer Nalin Pradeep Uduckle
+
+*2025-09-23 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214894) · `si`
+
+Veteran performer Nalin Pradeep Uduwela has died at around 5.45 am today.
+
+Those in Maharagama were receiving treatment at the ICU of the hospital.
+
+Nalin Pradeep Uduwela is a talented artist who inherited its performance through the stage, cinema, as well as teledrama.
+
+◼️
+
+[Data](articles/3a54fee4.json)
+
+[Extended Data](ext_articles/3a54fee4.ext.json)
+
+---
+
+### Express Pearl ships refuse to pay compensation in a st
+
+*2025-09-23 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214893) · `si`
+
+The X-press Feeders The X-press Feeders The X-PSS Feeders have refused to pay a $ 1 billion worth of compensation for the environmental and economic damage caused by the country in 2021.
+
+On July 24, the Supreme Court ordered the shipped shipping company to the relevant ship Company.
+
+The decision to pay the Treasury Secretary to the Treasury should be paid.
+
+In addition, the Supreme Court had decided that Minister Nalaka Godaheahewa, Marine Pollution Prevention of the Marine Pollution Prevention of the Marine Pollution prevention authority have violated basic human rights.
+
+The verdict was given by the Principal Supreme Court Judge Bench, which gave the verdict of the fundamental rights petitions, which had taken several parties in the relevant tragedy.
+
+◼️
+
+[Data](articles/c0546ff3.json)
+
+[Extended Data](ext_articles/c0546ff3.ext.json)
+
+---
+
+### Indo -Sri Lanka Navy Commander Meeting
+
+*2025-09-23 08:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225811) · `ta`
+
+Indian Navy Commander Admiral Tinase K Tripathi, who arrived in the country on Sunday (September 21), met with Navy Commander Vice Admiral Kanchana Banagoda on Monday morning (September 22).
+
+Rear Admiral Dammika Wijewardena has welcomed the Indian Navy Commander and his wife at the Bandaranaike International Airport in Colombo.
+
+The Indian Navy Commander Admiral Dinesh K. Tripathi, who visited the Naval Headquarters yesterday morning (September 22, 2025), was given the customary honor of the Navy.
+
+Following this, Navy Commander Vice Admiral Kanchana Banagoda welcomed the Indian Navy Commander to the Naval Headquarters.
+
+During the meeting, a discussion was held on strategic and bilateral issues relating to maritime security and long -term friendship between the two countries.
+
+Souvenirs were exchanged between the two sides to mark this official meeting.
+
+...
+
+[Data](articles/24b3c2cb.json)
+
+[Extended Data](ext_articles/24b3c2cb.ext.json)
 
 ---

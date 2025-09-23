@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 12:38:50**
+As of **2025-09-23 13:07:01**
 
 ## Newspaper Stats
 
-*Scraped **77,640** Articles*
+*Scraped **77,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,539
 adaderanalk | 10,063
-tamilmirrorlk | 11,684
+tamilmirrorlk | 11,687
 virakesarilk | 12,630
-adaderanasinhalalk | 13,560
+adaderanasinhalalk | 13,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,640 (100.0%) of 77,640 articles have been extended.
+77,644 (100.0%) of 77,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### Tigers. 40 crores tried to change: Sri Lankan woman's affidavit to ED
+
+*2025-09-23 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளுக்கு-ரூ-40-கோடியை-மாற்ற-முயன்றேன்-ED-யிடம்-இலங்கை-பெண்-வாக்குமூலம்/150-365127) · `ta`
+
+A Sri Lankan woman has confessed that he was trying to replace the bank's money, Rs 40 crore to finance the Tamil LTTE.. The Enforcement Department is investigating him.
+
+Hamida A. Lalji at the Mumbai branch of Indian Overseas Bank. Having 40 crores of money. His bank account was not handled because he died.
+
+Knowing this, Uma Kandan, who lives in Denmark of the LTTE, decided to take the money to their movement.
+
+For this, he sent Sri Lankan Tamil Lakshmanan Mary Franciska, 45, to India to seize the money.. He came to India and said he had received PAN card, Aadhaar card and passport through fake documents.
+
+It is said that Kenniston Fernando, Baskaran, Johnson Samuel, Dharmendran and Mohan, along with Hamida, have prepared forged documents.
+
+With those documents, they tried to take Hamida's Rs 40 crore in the bank. In 2021, Lakshmanan Mary, who tried to take a flight from Chennai to Bangalore to Bangalore, was arrested by the CU.
+
+...
+
+[Data](articles/bb83f8c4.json)
+
+[Extended Data](ext_articles/bb83f8c4.ext.json)
+
+---
+
+### Dating young couples carry away the sea - The effort was held on the camera
+
+*2025-09-23 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214906) · `si`
+
+A group of youths who had been rescued from the sea with a coast of the stone wall behind the fort shoot behind the Port of Fort Dutch hospital building.
+
+Videos were near the accident last evening.
+
+The couple in the back of the wall behind the Dutch building, the couple had been swimming at the sea at once.
+
+The Dutch Building and Secretary to the Dutch building Gamini saw the incident immediately after the incident.
+
+Later, a youth in the tourist cafesala have come to the Galle Hospital and admitted to the Galle Hospital.
+
+The victim and the youth was residents of Ahangama and Lanumodara residents.
+
+Hospital sources conferred that the girl is currently receiving treatment at the intensive care unit and the youth will be treated at the emergency unit.
+
+◼️
+
+[Data](articles/9e520d86.json)
+
+[Extended Data](ext_articles/9e520d86.ext.json)
+
+---
+
+### 5 crore worth of “Kush” stuck
+
+*2025-09-23 12:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-கோடி-ரூபாய்-மதிப்புள்ள-குஷ்-சிக்கியது/175-365124) · `ta`
+
+Katunayake Bandaranaike International Airport. Two passengers who tried to get out with a "Kush" drug worth more than 50 million were arrested by a group of officials of the Customs Drug Control Unit when they tried to leave the morning "Green Channel".
+
+One of them is a 29 -year -old woman living in Colombo. The other is a 48 -year -old man living in Chennai, India.
+
+The two packs they carried had a backpack of 05 kilograms 092 grams and a backpack and 05 packages.
+
+The Katunayake airport police have been handed over to the Katunayake Airport Narcotics Bureau for further inquiries.
+
+◼️
+
+[Data](articles/2660d30d.json)
+
+[Extended Data](ext_articles/2660d30d.ext.json)
+
+---
+
+### Gold recovery
+
+*2025-09-23 12:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தரங்க-உறுப்பில்-அறுவை-சிகிச்சை-செய்து-தங்கம்-மீட்பு/175-365123) · `ta`
+
+Gold was recovered after surgery of gold, who was abducted by gold, was arrested and surgery in the private organ.. Jaffna Hospital information reports that the woman is working.
+
+A woman who came to Jaffna Palali International Airport from India was arrested on Sunday. The woman from Colombo was arrested by officials.
+
+During a raid by Palali Airport officials, the woman brought gold in her private organ. The woman involved in the abduction was brought to the Jaffna Teaching Hospital and the gold was rescued after treatment.. The woman is receiving treatment at the hospital among the security and she is recovering, according to hospital sources.
+
+◼️
+
+[Data](articles/77d56188.json)
+
+[Extended Data](ext_articles/77d56188.ext.json)
+
+---
 
 ### France also accepts Palestine
 
@@ -1967,81 +2055,5 @@ This program themed, “Creating B2B Opportunities for Export, Import, Trade and
 [Data](articles/5eafbd3e.json)
 
 [Extended Data](ext_articles/5eafbd3e.ext.json)
-
----
-
-### Sri Lankan business leaders participate in 2025 UN Private Sector Forum
-
-*2025-09-23 01:08:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-business-leaders-participate-in-2025-UN-Private-Sector-Forum/34-782048) · `en`
-
-Dialog Axiata Executive Director/Group CEO and Network Sri Lanka Board Member Supun Weerasinghe
-
-Dilmah Ceylon Tea Company Chairman/CEO and Network Sri Lanka Chairman Dilhan C. Fernando
-
-On the invitation of United Nations Secretary-General António Guterres, three representatives from UN Global Compact Network Sri Lanka (Network Sri Lanka) participated yesterday in the 2025 United Nations Private Sector Forum (PSF), a high-level roundtable that brings together a select group of global private sector leaders to drive forward sustainable economic growth, held as a high-level convening during UN General Assembly Week in New York.
-
-Representing Sri Lanka at this year’s Forum are Dilmah Ceylon Tea Company PLC Chairman/CEO and Network Sri Lanka Chairman Dilhan C. Fernando. Dialog Axiata PLC Executive Director/Group CEO and Network Sri Lanka Board Member Supun Weerasinghe, and Network Sri Lanka Executive Director Rathika de Silva.
-
-...
-
-[Data](articles/e20188a8.json)
-
-[Extended Data](ext_articles/e20188a8.ext.json)
-
----
-
-### Sysco’s global technology leadership meets Sri Lanka’s digital leaders
-
-*2025-09-23 01:00:01* · [`dailyftlk`](https://www.ft.lk/business/Sysco-s-global-technology-leadership-meets-Sri-Lanka-s-digital-leaders/34-782047) · `en`
-
-From left: Sysco Technology Vice President – Human Resources Chris Torchia, Vice President – Digital Commerce and Customer Solutions Ragnarok Rocha, Executive Vice President and Chief Information and Digital Officer Tom Peck, Digital Economy Deputy Minister Eng. Eranga Weeraratne, Sysco LABS Managing Director Thushera Kawdawatta, Chief Adviser to the President on Digital Economy Dr. Hans Wijayasuriya, and Sysco LABS Director – Branding and Communications Gian De Rose
-
-Sysco Executive Vice President, and Chief Information and Digital Officer Tom Peck recently met with Digital Economy Deputy Minister Eranga Weeraratne, and Chief Advisor to the President on Digital Economy and ICTA Chairman Dr. Hans Wijayasuriya.
-
-...
-
-[Data](articles/c8cf56bb.json)
-
-[Extended Data](ext_articles/c8cf56bb.ext.json)
-
----
-
-### Disrupt Asia 2025 shines as South Asia’s new innovation powerhouse
-
-*2025-09-23 00:58:23* · [`dailyftlk`](https://www.ft.lk/business/Disrupt-Asia-2025-shines-as-South-Asia-s-new-innovation-powerhouse/34-782046) · `en`
-
-From right: Thilan Wijesinghe moderates a powerful discussion with Dr. Nandalal Weerasinghe, Dr. Hans Wijayasuriya, Duminda Hulangamuwa, and Gevorg Sargsyan on South Asia’s roadmap to becoming an innovation hub at the Disrupt Asia Main Conference panel discussion
-
-Four-day festival ignites global confidence in Sri Lanka's startup ecosystem
-
-Sri Lanka has firmly staked its claim as South Asia’s rising innovation hub with the successful completion of Disrupt Asia 2025, a four-day celebration of innovation, entrepreneurship, and technology. The event drew more than 100 venture capitalists from 20 countries including host Sri Lanka, strengthening regional startup networks and cross-border partnerships, signalling unprecedented global confidence in Sri Lanka’s innovation potential.
-
-...
-
-[Data](articles/30361792.json)
-
-[Extended Data](ext_articles/30361792.ext.json)
-
----
-
-### 2025-09-22 (Monday)
-
-### Digitalisation or dependency? Sri Lanka’s AI dilemma beyond AKD’s binary
-
-*2025-09-22 23:54:06* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-or-dependency-Sri-Lanka-s-AI-dilemma-beyond-AKD-s-binary/4-782027) · `en`
-
-A binary “digitalise or perish” narrative must give way to a measured path
-
-President Anura Kumara Disanayake has cast digital transformation as a stark binary: either embrace artificial intelligence (AI) and modernise, or be “pushed to the margins” of the global economy. His appeal identifies inefficiency, stagnation, and weak public services as consequences of past inaction. This rhetoric mirrors global leaders who treat AI as a “pillar” of competitiveness and a survival imperative.
-
-Yet such framing is both motivational and reductionist. It risks presenting digitalisation as a technological silver bullet, obscuring the deeper questions of sovereignty, governance, and inequality that must shape Sri Lanka’s pathway.
-
-Adam Becker cautions against equating AI with an autonomous “brain” destined to rebel against humanity. The metaphor of AI as a computer like mind is flawed, he argues, and “existential risk” talk distracts from tangible, present day harms1.
-
-...
-
-[Data](articles/f0b0968e.json)
-
-[Extended Data](ext_articles/f0b0968e.ext.json)
 
 ---

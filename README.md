@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 22:21:49**
+As of **2025-09-23 22:59:40**
 
 ## Newspaper Stats
 
-*Scraped **77,742** Articles*
+*Scraped **77,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,80 +17,146 @@ dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,556
-adaderanalk | 10,080
+adaderanalk | 10,081
 tamilmirrorlk | 11,705
-virakesarilk | 12,647
+virakesarilk | 12,649
 adaderanasinhalalk | 13,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,738 (100.0%) of 77,742 articles have been extended.
+77,743 (100.0%) of 77,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### තංගල්ලෙන් හමුවූ මත්ද්‍රව්‍ය රටට ඇතුළුවූ හැටි හෙළිවෙයි
+### குருக்கள்மடம் மனித புதைகுழி அகழ்வாய்வுக்கு 2.8 மில்லியன் மதிப்பீடு!
+
+*2025-09-23 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/225902) · `ta`
+
+கிழக்கு மாகாணத்தில் காணப்படும் மனித புதைகுழியென நம்பப்படும்  பிரதேசத்தில் அகழ்வாய்வுப் பணிகளை ஆரம்பிப்பதற்குத் தேவையான நிதி மதிப்பீட்டை கொழும்பு பிரதம சட்ட வைத்திய அதிகாரி நீதிமன்றத்தில் சமர்ப்பித்துள்ளார்.
+
+நீதிமன்றம் 2.8 மில்லியன் ரூபாய் கோரிக்கையை நிதி அமைச்சு மற்றும் நீதி அமைச்சிற்கு அனுப்புவதற்கு உத்தரவிட்டுள்ளது.
+
+முப்பத்தைந்து வருடங்களுக்கு முன்னர் 150ற்கும் மேற்பட்ட முஸ்லிம்கள் படுகொலை செய்யப்பட்டு புதைக்கப்பட்டதாக சந்தேகிக்கப்படும் மட்டக்களப்பு மாவட்டத்திலுள்ள மனிதப் புதைகுழியை அகழ்வாய்வு செய்ய களுவாஞ்சிக்குடி நீதவான் நீதிமன்றம் அண்மையில் அனுமதி வழங்கியது.
+
+...
+
+[Data](articles/c8b2c519.json)
+
+---
+
+### Drugs found in Tangalle revealed
 
 *2025-09-23 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214930) · `si`
 
-තංගල්ල සීනිමෝදර ප්‍රදේශයේ නිවසක් තුළ තිබී සොයගත් මත්ද්‍රව්‍ය තොගය යාත්‍රා දෙකකින් මුහුදු මාර්ගයෙන් පෙරේදා මෙරටට ගෙනැවිත් ඇති බව වාර්තා වෙයි.
+It is reported that the drug consignment found in a house in a house in the Tangalle Seen Sahanodara area has been brought to Sri Lanka by two vessels.
 
-එම මත්ද්‍රව්‍ය තොගය කුඩාවැල්ල මාවැල්ල වෙරළින් ගොඩබා ඇති බවද සඳහන්ය.
+The stock of drugs is piling the Kudawella Mawathakee.
 
-පසුව මියගිය තැනැත්තන් තිදෙනා එම ස්ථානයේ සිට ඇති බවත් ඔවුන් එහිදී මත්පැන් පානය කර ඇති බවත් පොලීසිය පවසයි.
+The three killed who were later killed were present and they had been drinking alcohol.
 
-එතැන් සිට ඔවුන් වෙරළ අසළ තිබූ නිවසකට මත්ද්‍රව්‍ය තොගය ගෙන ගොස් පසුව එම තොගය ලොරි රථවලට පටවා සීනිමෝදර සහ ගොඩැල්ලවෙල ප්‍රදේශවලට අවස්ථා දෙකකදී ප්‍රවාහනය කර ඇති බව පොලීසිය පවසයි.
+The cost has been taken to a coastal house, police said.
 
-මාවැල්ල වෙරළේ සිට සීනිමෝදර නිවසට මත්ද්‍රව්‍ය ප්‍රවාහනය කළ ඔවුන් පසුව  එම නිවසේදී ද මත්පැන් පානය කර ඇති අතර හමුවූ මළ සිරුරු අසළ අයිස් මත්ද්‍රව්‍ය ද තිබූ බව පොලීසිය ඊයේ සඳහන් කළේය.
+The police said that they had been transporting drugs from the Mawawale beach to Senmodara to Senmodara.
 
-එම නිවසේ සිට මත්පැන් පානය කළ තිදෙනා අතුරින් රෝගී වූ 49 හැවිරිදි පුද්ගලයා ඔහුගේ පුත්‍රයින් දෙදෙනා විසින් රෝහල්ගතක කෙරුණු අතර ඉන්පසු සිය පියාගේ කුඩා ලොරි රථය රැගෙන යාම සඳහා ඔවුන් සීනිමෝදර නිවසට පැමිණ තිබුණි.
+The 49-year-old man was hospitalized by the two sons of his sons to take their father's small lorry.
 
-එහිදී එම නිවසේ සිටි පිරිසක් තමන්ට බලහත්කාරයෙන් මත්පැන් පානය කරවීමට උත්සාහ කළ බව ඔවුන් පොලීසියට පවසා ඇත.
+They have told the police that a group of people attempted to drink alcohol.
+
+They had revealed this after their arrests by the police today.
+
+According to a special operation of two people in a house in the Tangalle Seennakola area, 705 kilograms was discovered yesterday.
+
+The police were able to find 68 kilograms of ice and 970 grams and Rs.
 
 ...
 
 [Data](articles/dc347ee0.json)
 
+[Extended Data](ext_articles/dc347ee0.ext.json)
+
 ---
 
-### பாகிஸ்தானுக்கெதிராக 133 ஓட்டங்களைப் பெற்ற இலங்கை
+### ரணிலிடம் தஞ்சமடைந்தாலும் சட்டத்தின் பிடியிலிருந்து தப்பிக்க முடியாது - அமைச்சரவை பேச்சாளர் நளிந்த ஜயதிஸ்ஸ
+
+*2025-09-23 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225901) · `ta`
+
+போதைப்பொருள் குற்றச்செயல்களுடன் தொடர்பற்ற அரசியல்வாதிகள் அநாவசியமாக அச்சமடையத் தேவையில்லை. மாறாக அவற்றுடன் தொடர்புடையவர்கள் எந்தவொரு சந்தர்ப்பத்திலும் சட்டத்தின் பிடியிலிருந்து தப்பிக்கவும் முடியாது. இதிலிருந்து தப்பிப்பதற்காக ரணில் விக்கிரமசிங்கவிடம் தஞ்சமடைவதும் பிரயோசனமற்றது என அமைச்சரவை பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+கொழும்பிலுள்ள அரசாங்க தகவல் திணைக்களத்தில் செவ்வாய்கிழமை (23) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டிலேயே அவர் இதனைத் தெரிவித்தார். இது தொடர்பில் அவர் மேலும் குறிப்பிடுகையில்,
+
+கெஹெல்பத்தர பத்மே உள்ளிட்ட மூவரை கைது செய்வதற்கு அவர்கள் தங்கியிருந்த அடுக்குமாடி குடியிருப்புக்கு சென்றிருந்த போது அவர் அங்கு இருக்கவில்லை. பக்கோ சமனின் அடுக்குமாடி குடியிருப்பில் அவர்கள் மறைந்திருந்தனர். இதனால் இந்தோனேஷிய பொலிஸாருக்கு அவர்கள் அனைவரையும் ஒருமித்து கைது செய்ய முடிந்தது. அச்சத்தில் அவர்கள் ஒன்று கூடியதால் தான் அனைவரும் ஒன்றாக சிக்கினர்.
+
+...
+
+[Data](articles/4ad38df2.json)
+
+---
+
+### Sri Lanka scored 133 runs against Pakistan
 
 *2025-09-23 22:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தானுக்கெதிராக-133-ஓட்டங்களைப்-பெற்ற-இலங்கை/44-365152) · `ta`
 
-பாகிஸ்தானுக்கெதிரான ஆசியக் கிண்ணத் சுப்பர் 4 சுற்றுப் போட்டியில் முதலில் துடுப்பெடுத்தாடப் பணிக்கப்பட்ட இலங்கை, 20 ஓவர்களில் 8 விக்கெட்டுகளை இழந்து 133 ஓட்டங்களைப் பெற்றது.
+Sri Lanka won the first match against Pakistan and scored 133 runs for the loss of 8 wickets in 20 overs.
 
-ஷகீன் ஷா அஃப்ரிடி (3), ஹரிஸ் றாஃப் (2), ஹுஸைன் தலாட் (2), அப்ரார் அஹ்மட்டிடம் விக்கெட்டுகளைப் பறிகொடுத்த நிலையில் கமிந்த மென்டிஸ் மாத்திரம் 50 (44) ஓட்டங்களைப் பெற்றார்.
+Shakeen Shah Afridi (3), Haris Raf (2), Hussein Talat (2) and Abar Ahmad scored only 50 (44).
 
 ◼️
 
 [Data](articles/87faa1c1.json)
 
+[Extended Data](ext_articles/87faa1c1.ext.json)
+
 ---
 
-### පාකිස්තානයට ලකුණු 134ක් ඉලක්කයක්
+### 134 runs in Pakistan
 
 *2025-09-23 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214929) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ ශ්‍රී ලංකාව සහභාගී වන දෙවන තරගය පාකිස්තාන කණ්ඩායම සමග මේ වනවිට පැවැත්වෙයි.
+The second match of the Super School of Super School of Asia Trophy Twenty20 tournament is currently conducting with the Pakistani Team.
 
-තරගයේ කාසියේ වාසිය දිනූ පාකිස්තාන කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කළේය.
+The Leader of the Pakistan, who won the toss and invited the Sri Lankan team to bat first.
 
-ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුල්ල ලෙස කුසල් මෙන්ඩිස් පළමු පන්දු ඕවරයේදී ලකුණු නොලබා ක්‍රීඩාගාරය වෙත යැවීමට පාකිස්තාන වේග පන්දු යවන ක්‍රීඩක ෂහීන් ෂා අෆ්රිඩි සමත්විය.
+Accordingly, Pakistan fast bowler Shaheen Shah Afridi recovered the first wicket of the Sri Lankan team to bat first.
 
-ඉන් අනතුරුව ශ්‍රී ලංකා කණ්ඩායමේ දෙවැනි කඩුල්ල ලෙස ලකුණු 08ක් රැස්කර ගෙන සිටි පැතුම් නිස්සංක දවා ගැනීමට ෂහීන් ෂා අෆ්රිඩි සමත්විය.
+Shahin Sha Affriedidi was then recovered to the second wicket of the Sri Lankan team.
 
-නායක චරිත් අසලංකටද පිටිය තුළ සාර්ථකවීමට නොදී ලකුණු 20ක් රැස්කර ගෙන සිටියදී පාකිස්තාන පන්දු යවනන් විසින් ක්‍රීඩාගාරය වෙත හරවා යැවීමට සමත්විය.
+Pakistani bowlers were diverted to the stadium when the leader Charith scored 20 runs in the field.
 
-බංග්ලාදේශ තරගයේ සුපිරි පිතිහරඹයක නිතර වූ දසුන් ශානකට කිසිදු ලකුණු රැස්කර ගැනීමට පාකිස්තාන පන්දු යවන්නන් ඉඩදුන්නේ නැත.
+Pakistani bowlers allowed the super-folk of the Bangladesh competition.
 
-හුදකලා සටනක නිරතවූ කමිඳු මෙන්ඩිස් ලකුණු 50ක් රැස්කර ගැනීමට සමත් විය.
+Kumindu Mendis scored 50 runs in a lonely battle.
+
+The Sri Lankan team, who was helpless by Pakistani bowlers, scored 133 runs for the loss of 08 wickets at the end of 20 overs.
+
+The Sri Lankan team must win this matches to the competition, and if the match will be defeated, the Asia T20 cricket will have to go out of the T20 cricket tournament.
 
 ...
 
 [Data](articles/74165f22.json)
+
+[Extended Data](ext_articles/74165f22.ext.json)
+
+---
+
+### Trump hits Russia, backs Israel in wide-ranging UN speech
+
+*2025-09-23 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112840/trump-hits-russia-backs-israel-in-wide-ranging-un-speech) · `en`
+
+U.S. President Donald Trump warned Russia on Tuesday that he is prepared to impose strong economic measures if it does not work toward ending the war in Ukraine, and rejected a global move toward recognition of a Palestinian state in a combative speech to the U.N. General Assembly.
+
+In a wide-ranging foreign policy speech that included scathing criticism of the United Nations and European nations, Trump made the case for lower levels of global migration and said world leaders should abandon efforts to fight climate change, which he called “the greatest con job” in the world.
+
+Taken as a whole, the 56-minute speech was a rebuke to the world body and a return to form for Trump, who had routinely bashed the U.N. during his first term as president. Leaders gave him polite applause when he exited the chamber.
+
+...
+
+[Data](articles/8914dda1.json)
+
+[Extended Data](ext_articles/8914dda1.ext.json)
 
 ---
 
@@ -1860,17 +1926,21 @@ The suspect has been arrested on the spot and further investigations are being c
 
 ---
 
-### මඩකලපුවේ ගුවන්තොට ගුවන් විනෝද හා ත්‍රාසජනක ක්‍රීඩාවලට
+### Batticaloa air fun and adventure in Batticaloa
 
 *2025-09-23 12:46:26* · [`adalk`](https://www.ada.lk/business/මඩකලපුවේ-ගුවන්තොට-ගුවන්-විනෝද-හා-ත්‍රාසජනක-ක්‍රීඩාවලට/7-418667) · `si`
 
-නැගෙනහිර පලාතේ ප්‍රධාන සිවිල් ගුවන් තොටුපොලක් ලෙස සංවර්ධනය කර ගුවන්යානා මෙහෙයුම් සඳහා විවෘත කර ඇති මඩකලපුව ගුවන්තොටුපොල, රටේ ජාතික ආර්ථිකයට සවියක් වන අයුරින් ගුවන ආශ්‍රීත විනෝදාත්මක හා ත්‍රාසජනක ක්‍රීඩාවලට වෙන්වූ සංචාරක ගමනාන්තයක් ලෙස දියුණු කිරීමට යෝජනාවලියක් සකස් කරන බව ශ්‍රී ලංකා සිවිල් ගුවන්සේවා අධිකාරියේ සභාපති සුනිල් ජයරත්න මහතා පවසයි.
+The Chairman of the Civil Aviation Authority, the Chairman of the Civil Aviation Authority, the Batticaloa Civil Aviation Authority, the Batticaloa Civil Aviation Authority (SLC) is prepared to develop a proposed tourist destination for the national economy of the Eastern Province.
 
-මීට අමතරව දෙස් විදෙස් සංචාරකයන් අතර, මඩකලපුව ගුවන්තොටුපොල කලාපයේ ඓතිහාසික පාරිසරික උරුමයන් සංචාරක වශයෙන් ප්‍රවර්ධනය කිරීම හරහා ගුවන්තොටුපොල ගුවන්යානා මෙහෙයුම් ඉහළ නංවා ගැනීම මෙම යෝජනා අතර වෙයි.
+In addition, the proposals increase the operation of airport airline operations through tourist arrivals in the Batticaloa Airport Zone.
+
+Minister of Transport, Highways, Ports and Aviation Minister Sunil Jayaratne, Chairman of the Civil Aviation Authority, Deputy Director General, Deputy Director General, Deputy Director General, Deputy Director General, Deputy Director General, Deputy Director General Repan Wanni. A. K. These issues were revealed at a monitoring on the airport and a group of Prasanna.
 
 ...
 
 [Data](articles/cd774526.json)
+
+[Extended Data](ext_articles/cd774526.ext.json)
 
 ---
 
@@ -2029,65 +2099,5 @@ The children’s remains were discovered in 2022 by a family going through the c
 [Data](articles/87bbbe4e.json)
 
 [Extended Data](ext_articles/87bbbe4e.ext.json)
-
----
-
-### Majestic tusker ‘Sapumal’ injured in shooting, condition critical
-
-*2025-09-23 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112822/majestic-tusker-sapumal-injured-in-shooting-condition-critical) · `en`
-
-The tusker known as ‘Sapumal’, native to the Hurulu Eco Park and Minneriya National Park, has reportedly been shot at by unknown individuals.
-
-Safari jeep drivers in Kaudulla National Park have also confirmed sightings of the injured tusker, said Ada Derana reporter.
-
-‘Sapumal’, estimated to be about 25 years old, is notable for its tusks, which are over two and a half feet long.
-
-The tusker is said to have sustained two gunshot injuries to its front right leg. Tourists who have seen the tusker have stated that pus was oozing from its wounds below the knee.
-
-According to reports, the tusker is in critical condition and requires urgent medical attention.
-
-Visitors to the Kaudulla National Park yesterday (22) captured footage of the tusker ‘Sapumal’ limping near the Kaudulla tank, highlighting the severity of its injuries.
-
-◼️
-
-[Data](articles/85bb89c1.json)
-
-[Extended Data](ext_articles/85bb89c1.ext.json)
-
----
-
-### Follow the reasons why the no-confidence motion against Aruna
-
-*2025-09-23 12:07:34* · [`adalk`](https://www.ada.lk/breaking_news/අරුණට-එරෙහි-විශ්වාසභංගය-ප්‍රතික්ෂේප-කිරීමට-හේතු-වූ-කරුණු-සභාගත-කරන්න/11-418666) · `si`
-
-Opposition Leader Sajith Premadasa said in parliament today (23) to table the rejection proposal to the Deputy Minister Aruna Jayasekara.
-
-ඒ අනුව, ලේකම් මණ්ඩල වාර්තා සහ නීතිපති වාර්තාව ඇතුළු ඊට හේතු වූ කාරණා සභාගත කරන ලෙස විපක්ෂනායකවරයා මෙහිදී ඉල්ලීමක් කළේය.
-
-◼️
-
-[Data](articles/3359ae39.json)
-
-[Extended Data](ext_articles/3359ae39.ext.json)
-
----
-
-### France also accepts Palestine
-
-*2025-09-23 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214905) · `si`
-
-France has officially announced that Palestine is recognized as a state.
-
-According to foreign media reports, French President Emanuel Macquron was speaking at the United Nations Conference in New York.
-
-The French president has said that the time has come for peace and that there is no one to justify the war in Gaza.
-
-French President Emanuel Macronoon stated that the UK, Canada, Australia, Australia as a state of Palestine as a state of Palestine as a state of Palestine.
-
-◼️
-
-[Data](articles/cb2034b6.json)
-
-[Extended Data](ext_articles/cb2034b6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 05:20:16**
+As of **2025-09-23 05:56:38**
 
 ## Newspaper Stats
 
-*Scraped **77,544** Articles*
+*Scraped **77,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,685
 dailymirrorlk | 4,733
-islandlk | 4,762
+islandlk | 4,772
 dailyftlk | 5,510
 adalk | 7,528
 adaderanalk | 10,039
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,544 (100.0%) of 77,544 articles have been extended.
+77,544 (100.0%) of 77,554 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -443,6 +443,52 @@ The visit concludes on 25 September, following his participation at the 12th edi
 [Data](articles/6b087b32.json)
 
 [Extended Data](ext_articles/6b087b32.ext.json)
+
+---
+
+### AB Mauri Lanka recognises longstanding partnership with David Stores at Prime Yeast launch
+
+*2025-09-22 22:55:00* · [`islandlk`](http://island.lk/ab-mauri-lanka-recognises-longstanding-partnership-with-david-stores-at-prime-yeast-launch/) · `en`
+
+AB Mauri Lanka Private Limited has launched its new Prime Instant Dry Yeast 500g pack, offering a reliable and practical option for bakers across Sri Lanka. The product is designed to perform consistently and meet the daily needs of both professional and home bakers.
+
+AB Mauri is a well-known name in the global baking industry, with operations in over 100 countries and 56 manufacturing sites. In Sri Lanka, AB Mauri Lanka has become known for supplying dependable baking products and providing technical support to the local baking community.
+
+As part of the launch, AB Mauri Lanka handed over the first batch of Prime Yeast to David Stores, a long-time distribution partner based in Madampe. The event was held during a small gathering, where R. S. Kumara, the proprietor of David Stores, received the initial supply.
+
+...
+
+[Data](articles/273a637f.json)
+
+---
+
+### Atlas awarded at SLIM Digis 2.5 for pioneering digital & technology led learning experiences in Sri Lanka
+
+*2025-09-22 22:54:00* · [`islandlk`](http://island.lk/atlas-awarded-at-slim-digis-2-5-for-pioneering-digital-technology-led-learning-experiences-in-sri-lanka/) · `en`
+
+Atlas, Sri Lanka’s leading learning brand, secured an array of awards at SLIM Digis 2.5 for its outstanding contributions to advancing education through the integration of technology and creativity. The event celebrated excellence in digital marketing, with Atlas being recognised for its achievements in experiential marketing, AI technology, and digital platform Integration.
+
+Atlas celebrated success by winning the Silver Award for ‘Best Use of Experiential/Immersive Marketing’ for Atlas Colour Sparx, alongside a Bronze Award and a Merit Award for Atlas PlayPalz in ‘Best Use of AI Technologies’ and ‘Digital/Social Platform Integration,’ respectively. These awards reflect the brand’s commitment to pioneering technology-driven education solutions that engage and empower young learners.
+
+...
+
+[Data](articles/be8f93f1.json)
+
+---
+
+### S&P Global Ratings upgrade boosts bourse but debt burden blights recovery prospects
+
+*2025-09-22 22:53:00* · [`islandlk`](http://island.lk/sp-global-ratings-upgrade-boosts-bourse-but-debt-burden-blights-recovery-prospects/) · `en`
+
+The CSE received a boost yesterday when S&P Global Ratings upgraded Sri Lanka’s sovereign rating to CCC+ from Selective Default (SD) on a stable outlook.
+
+The ratings agency highlighted that Sri Lanka’s economy has recovered steadily from its 2022 economic crisis, but its debt burden remains high even after the restructuring of most of its external debt. It has been the first rating improvement by the S&P since the unprecedented crisis three years ago.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 170.65 points while S and P SL20 rose by 63.75 points.
+
+...
+
+[Data](articles/e436e65e.json)
 
 ---
 
@@ -2011,57 +2057,5 @@ Polls indicate a dip in AKD’s popularity from the euphoria of election night. 
 [Data](articles/25b31788.json)
 
 [Extended Data](ext_articles/25b31788.ext.json)
-
----
-
-### Case against Sajin Vaas postponed
-
-*2025-09-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214867) · `si`
-
-The Colombo Magistrate Court today (22) ordered that the case was filed in writing to the courts of December 16.
-
-◼️
-
-[Data](articles/d26e2fdc.json)
-
-[Extended Data](ext_articles/d26e2fdc.ext.json)
-
----
-
-### World summit to meet on two-state solution as support grows for Palestinian state
-
-*2025-09-22 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112773/world-summit-to-meet-on-two-state-solution-as-support-grows-for-palestinian-state) · `en`
-
-France and Saudi Arabia will convene dozens of world leaders on Monday to rally support for a two-state solution, with several of them expected to formally recognise a Palestinian state - a move that could draw harsh Israeli and U.S. responses.
-
-While the summit could boost the morale of Palestinians, it is not expected to deliver change on the ground, where the most far-right government in Israel’s history has declared there will be no Palestinian state as it pushes on with its war against Hamas in Gaza.
-
-Efforts to create a two-state solution have failed to make any progress for decades as violence raged.
-
-Israel and the United States will boycott the summit, Israel’s U.N. Ambassador Danny Danon, said, describing the event as a “circus.”
-
-Britain, Canada, Australia and Portugal all recognised a Palestinian state on Sunday. France and five other states are expected to also formally recognise a Palestinian state on Monday.
-
-...
-
-[Data](articles/8be7d409.json)
-
-[Extended Data](ext_articles/8be7d409.ext.json)
-
----
-
-### President's asset statement says
-
-*2025-09-22 15:09:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-වත්කම්-ප්‍රකාශයේ-නැති-තොරතුරු-උදය-කියයි/11-418650) · `si`
-
-Plandani Kumara Dissanayake said that President Anura Kumara Dissanayake had not submitted the sharing information to President Anura Kumara Dissanayake said.
-
-"The current government has fallen into a serious difficult question to make a statement of asset bill No. 9 of 2023. We can open the asset envelope. I haven't known that it is passed. Therefore, these people have taken measures to make mistakes and hide important information.
-
-...
-
-[Data](articles/ab35ab64.json)
-
-[Extended Data](ext_articles/ab35ab64.ext.json)
 
 ---

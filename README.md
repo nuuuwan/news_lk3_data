@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 14:56:14**
+As of **2025-09-23 15:20:21**
 
 ## Newspaper Stats
 
-*Scraped **77,668** Articles*
+*Scraped **77,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,544
 adaderanalk | 10,069
-tamilmirrorlk | 11,691
+tamilmirrorlk | 11,692
 virakesarilk | 12,634
 adaderanasinhalalk | 13,566
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 13,566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,668 (100.0%) of 77,668 articles have been extended.
+77,669 (100.0%) of 77,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### New digital site to access public services
+
+*2025-09-23 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சேவைகளை-அணுக-புதிய-டிஜிட்டல்-தளம்/175-365134) · `ta`
+
+The Cabinet has approved the creation of a 'state superintendent' aimed at uninterrupted access to public services through a digital base.
+
+The current fragmented system forces users to enter the data repeated data on various portals and engage in various fields, subject to many authentication processes.
+
+Evaluation suggests that this is a loss of more than Rs. 500 million per year.
+
+◼️
+
+[Data](articles/17faa375.json)
+
+[Extended Data](ext_articles/17faa375.ext.json)
+
+---
 
 ### Cabinet approval to present the new microfinance bill to Parliament
 
@@ -2075,23 +2093,5 @@ Investigations have revealed that the narcotics belong to a single major drug tr
 [Data](articles/27558fc4.json)
 
 [Extended Data](ext_articles/27558fc4.ext.json)
-
----
-
-### Two fishermen went missing from boat
-
-*2025-09-23 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214890) · `si`
-
-In the evening, two persons who had left the Kalpitiya fisher who left fishing on the 21st in the evening have commenced investigations on a complaint with a boat.
-
-The missing persons are residents of the Kalpitiya area, 27 and 34 years.
-
-The Kalpitiya Police and Navy Officers have launched a joint venture to find disappearances, police said.
-
-◼️
-
-[Data](articles/7244f9a3.json)
-
-[Extended Data](ext_articles/7244f9a3.ext.json)
 
 ---

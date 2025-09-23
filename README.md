@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 16:09:31**
+As of **2025-09-23 17:06:10**
 
 ## Newspaper Stats
 
-*Scraped **77,678** Articles*
+*Scraped **77,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,181 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,546
-adaderanalk | 10,072
-tamilmirrorlk | 11,693
-virakesarilk | 12,635
-adaderanasinhalalk | 13,568
+adalk | 7,547
+adaderanalk | 10,074
+tamilmirrorlk | 11,696
+virakesarilk | 12,636
+adaderanasinhalalk | 13,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,675 (100.0%) of 77,678 articles have been extended.
+77,685 (100.0%) of 77,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්ට එරෙහි පෙත්සම ඉල්ලා අස් කරගනී
+### ஹட்டனில் இளைஞனின் தலையில் தாக்கியவருக்கு விளக்கமறியல்
+
+*2025-09-23 16:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-இளைஞனின்-தலையில்-தாக்கியவருக்கு-விளக்கமறியல்/76-365140) · `ta`
+
+ஹட்டன் நகரில் இளைஞர் ஒருவரை தலையில் தாக்கி காயப்படுத்திய சம்பவம் தொடர்பில்  தாக்குதல் நடத்திய நபர், ஹட்டன் நீதவான் நீதிமன்ற நீதவான் பீட்டர் போல் உத்தரவின் பிரகாரம், ஒக்டோபர் மாதம் 7ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+புப்புரஸ்ஸ ஸ்டெலன்பேர்க் தோட்டத்தைச் சேர்ந்த 30 வயது குடும்பஸ்தருக்கும் வாகனம் ஒன்றில் வந்த நபருக்கும் இடையில், ஹட்டன் நகரின் அம்பிகா சந்தியில் கடந்த 11ஆம் திகதி வியாழக்கிழமை வாய்த்தர்க்கம் ஏற்பட்டது. அதனையடுத்தே வானத்தில் வந்த நபர், அந்த குடும்பஸ்தரை தலையிலேயே தாக்கியுள்ளார். தாக்குதல் நடத்திய நபர் கொட்டகலை பகுதியில் உணவகம் ஒன்றின் உரிமையாளர் ஆவார்.
+
+இந்த சம்பவத்தில் தலைப்பகுதியில் தாக்குதலுக்குள்ளான அவர் தற்போது சுயநினைவின்றி கோமா நிலையில் டிக்கோயா- கிளங்கன் வைத்தியசாலையின் தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டு தொடர் சிகிச்சைகளுக்கு முகங்கொடுத்துள்ளார்.
+
+இவரது தலைப்பகுதியில் மேலதிக பரிசோதனைகளை நடத்துவதற்கு கண்டி வைத்தியசாலையில் சி.டி.ஸ்கேன் ஆய்வுகள் மேற்கொள்ளப்பட்டதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.   இவர் ஒன்பது மாத குழந்தையொன்றின்  தந்தையாவார்.
+
+◼️
+
+[Data](articles/dec5fee2.json)
+
+---
+
+### Export earnings exceeding $ 11 billion in the first eight months of 2025
+
+*2025-09-23 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214914) · `si`
+
+The export sector in Sri Lanka has shown a positive level and stable development of the export sector in the first eight months of the year 2025.
+
+Total export earnings is US $ 11554.32 million and a 6.61% growth is compared to 2024.
+
+In August 2025, the total export earnings of the merchandise and services in August 2025 were US $ 1,607.58 million.
+
+Exports, the Export Development Board (EDBSS) says that these reflect the positive impact of strategic efforts to expand the energy and market access to Sri Lanka's export sector.
+
+Mr. Mangala Wijesinghe commented:
+
+...
+
+[Data](articles/0ad0234d.json)
+
+[Extended Data](ext_articles/0ad0234d.ext.json)
+
+---
+
+### Monthly allowance to street boys
+
+*2025-09-23 16:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியோரச்-சிறுவர்களுக்கு-மாதாந்தம்-கொடுப்பனவு/175-365138) · `ta`
+
+At the Cabinet meeting held on 2025.06.16 to implement a program of paying a per month of Rs.
+
+Accordingly, the payments of the program named 'Meaning' have begun in July 2025.
+
+It has been found that 1,000 million rupees allocated to the 'Meaning' program in 2025 is capable of making implementation from January 2025 to the benefit of the children.
+
+அதற்கமைய,'அர்த்தம்' வேலைத்திட்டத்தின் கொடுப்பனவுகளுக்கான உரித்து ஆரம்பிக்கின்ற திகதி 2025.01.01 எனக் கருத்தில் கொள்வதற்கும், அன்று தொடக்கம் உரித்தான நிலுவையைச் பயன்பெறும் பிள்ளைகளின் கணக்கில் வைப்பிலிடுவதற்கும், மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/1e6ea2b6.json)
+
+[Extended Data](ext_articles/1e6ea2b6.ext.json)
+
+---
+
+### Sri Lanka and the EU signed a subsidy agreement to improve economic growth
+
+*2025-09-23 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225861) · `ta`
+
+The government today (23) signed a subsidy agreement with the European Union to launch a new initiative aimed at improving sustainable economic growth through advanced biodiversity security and solid waste management.
+
+The 8 million euro subsidy provided by the EU is expected to support a jointly developed plan by the Public Administration, Provincial Councils and Local Government, the Ministry of Environment and the European Union.
+
+This effort is expected to support biodiversity protection by restoring environmental systems, implementing target security strategies and promoting standard land use procedures.
+
+The Ministry of Finance, Planning and Economic Development said it would also address the growing demand for effective sewage management organizations that contribute to both environmental protection and public health.
+
+According to the report, the project is the government's national policy statement, the "Growing Nation - Beautiful Life" (A Thriving Nation - a Beautiful Life).
+
+...
+
+[Data](articles/8566431f.json)
+
+[Extended Data](ext_articles/8566431f.ext.json)
+
+---
+
+### “You are talking like crazy”
+
+*2025-09-23 15:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைத்தியம்-போல்-பேசுகிறாய்/175-365137) · `ta`
+
+Parliamentarian Ramanathan Archana got into an argument with the police after he was asked to remove his car that was illegally parked near the Fort Railway Station.
+
+Before leaving the scene yesterday (22), the scenes show that the Member of Parliament tells a police officer, "You speak like a fool."
+
+For the 13th consecutive day, Archana had come to support the Satyagraha organized by the affected education development officials who were protesting in front of the railway station.
+
+◼️
+
+[Data](articles/aa8d0bfb.json)
+
+[Extended Data](ext_articles/aa8d0bfb.ext.json)
+
+---
+
+### Indian Navy Chief pushes for stronger defence ties with Sri Lanka
+
+*2025-09-23 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112832/indian-navy-chief-pushes-for-stronger-defence-ties-with-sri-lanka) · `en`
+
+Chief of the Naval Staff in India Admiral Dinesh K Tripathi on Monday laid a wreath at the Indian Peace Keeping Force (IPKF) Memorial in Colombo, “honouring the courage and supreme sacrifice of Indian soldiers” who served during the IPKF operations, the Navy spokesperson said.
+
+“The solemn ceremony was a tribute to the courage, valour & supreme sacrifice of Indian soldiers who served with honour during IPKF operations. It also reflected the shared history between India & SriLanka and the enduring bond forged through sacrifice. The wreath laying underscored India’s commitment to preserving peace, promoting regional harmony & strengthening the spirit of friendship with Sri Lanka and the wider Indian Ocean Region, “wrote Navy spokesperson in an X post.
+
+During his ongoing four-day official visit to Sri Lanka, Admiral Tripathi also held a series of meetings with the top defence leadership of the island nation.
+
+...
+
+[Data](articles/cb9125c3.json)
+
+[Extended Data](ext_articles/cb9125c3.ext.json)
+
+---
+
+### Petition against the Director General of the Bribery Commission
 
 *2025-09-23 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214913) · `si`
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා වශයෙන් මහාධිකරණ විනිසුරු රංග දිසානායක මහතා පත්කිරීම සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව විසින් ජනාධිපතිවරයා වෙත ඉදිරිපත් කළ නිර්දේශය හා එම පත්වීම බලරහිත බවට තීන්දුවක් ලබා දෙන ඉල්ලා ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම අද (23) ශ්‍රේෂ්ඨාධිකරණය වෙතින් ඉල්ලා අස් කරගැනුණි.
+The petition was resigned from the Supreme Court today (23) as the recommendation from the Constitutional Judge Rananga Dissanayake as the Director General of Bribery Commission.
 
-උඩවලව සෝම විහාරයේ විහාරාධිපති වේවැල්දූව ඥානප්‍රභා ස්වාමීන් වහන්සේ ඇතුළු පිරිසක් විසින් මෙම පෙත්සම ගොනු කර තිබුණි.
+The petition was filed by the Chief Incumbent of the Udawalawe Soma Viharaya, Wewelduwawa Gnanaprabha Thero and several others.
 
-මෙම පෙත්සම අද අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, මහින්ද සමයවර්ධන සහ සම්පත් අබේකෝන් යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petition was called before the Supreme Court Judge Sampantha and Sampath Abeykoon today.
 
-එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට දැනුම් දුන්නේ මෙම පෙත්සම ඉල්ලා අස් කරගැනීමට අවසර දෙන ලෙසය.
+The lawyer appearing on behalf of the petitioner was informed of the court to resign the petition.
 
-ඒ අනුව අදාළ පෙත්සම ඉල්ලා අස් කරගැනීමට අවසර දුන් ත්‍රිපුද්ගල විනිසුරු මඩුල්ල අනතුරුව එය නිශ්ප්‍රභ කිරීමටද කටයුතු කළේය.
+Accordingly, the judge's panel of judges who were allowed to resign the petition later.
 
 ◼️
 
 [Data](articles/65df17cf.json)
 
+[Extended Data](ext_articles/65df17cf.ext.json)
+
 ---
 
-### தங்காலை போதைப்பொருள் விவகாரத்தில் கைதான லொறி உரிமையாளர் பொலிஸ் தடுப்புக் காவலில்!
+### Lorry owner arrested for police detention in Tangalle
 
 *2025-09-23 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225854) · `ta`
 
-தங்காலை, சீனிமோதரவில் நேற்று (22) ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களை மறைத்து வைத்திருந்த நிலையில் கைது செய்யப்பட்ட லொறியின் உரிமையாளரை எதிர்வரும் 29ஆம் திகதி வரை பொலிஸ் தடுப்புக் காவலில் வைத்து விசாரணை நடத்த நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered the owner of the lorry to be detained in police custody until the 29th of this month.
 
-போதைப்பொருள் கண்டுபிடிக்கப்பட்ட வழக்கில் சந்தேக நபரான லொரியின் உரிமையாளரை விசாரிக்க கல்கிஸ்ஸை பொலிஸாருக்கு அனுமதி அளித்து கல்கிசை நீதவான் பசன் அமரசேன இந்த உத்தரவை பிறப்பித்தார்.
+Malkisa Magistrate Basan Amarasena issued the order to allow Kalkis to investigate the owner of the suspect in the case of a drug finding.
 
-தங்காலையில் சீனிமோதரயில் உள்ள வீடொன்றிற்கு அருகில், இரண்டு ஆண்களின் சடலங்கள் மீட்கப்பட்ட இடத்தில், குறித்த லொறியை பொலிஸார் கண்டுபிடித்துள்ளனர்.
+Police have found the lorry at a place where two men's bodies were recovered near a house in Tangalle.
 
-இதனைத் தொடர்ந்து, லொறியின் உரிமையாளர் என கூறப்படும் சந்தேக நபரை 11 கிராம் மற்றும் 140 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகள் கைது செய்தனர்.
+Following this, police Special Task Force officers arrested the suspect, allegedly owner of the lorry, 11 grams and 140 milligrams of heroin.
 
-சந்தேக நபர் இன்று (23) கல்கிஸ்ஸை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டபோதே  நீதிமன்றம் அவரை பொலிஸ் தடுப்புக் காவலில் வைத்து விசாரிக்க உத்தரவு பிறப்பித்தது.
+As the suspect was produced before the Magistrate's Court today (23), the court ordered him to be detained in police detention.
 
 ◼️
 
 [Data](articles/6c0f2944.json)
+
+[Extended Data](ext_articles/6c0f2944.ext.json)
 
 ---
 
@@ -114,6 +236,24 @@ It is also reported that the project will also contribute to the increase in the
 
 ---
 
+### Sri Lanka and EU sign €8 million grant agreement to support economic recovery
+
+*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-eu-sign-8-million-grant-agreement-to-support-economic-recovery) · `en`
+
+The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
+
+The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
+
+The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
+
+...
+
+[Data](articles/07f41bfb.json)
+
+[Extended Data](ext_articles/07f41bfb.ext.json)
+
+---
+
 ### Sri Lanka and EU sign Euro 8 million grant agreement to support economic recovery
 
 *2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-european-union-sign-euro-8-million-grant-agreement-to-support-economic-recovery) · `en`
@@ -129,6 +269,28 @@ The initiative will support biodiversity conservation by restoring degraded ecos
 [Data](articles/c50052b2.json)
 
 [Extended Data](ext_articles/c50052b2.ext.json)
+
+---
+
+### Four acting ministers appointed
+
+*2025-09-23 14:51:11* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අමාත්‍යවරු-සිව්-දෙනෙක්-පත්-කෙරේ/11-418675) · `si`
+
+President Anura Kumara Dissanayake has been appointed to four ministries to attend the United States General Assembly to attend the United Nations General Assembly.
+
+A private minister has been appointed to the Ministry of Foreign Affairs, Foreign Employment and Tourism, the Ministry of Defense and Ministry of Finance and Finance Ministry and Ministry of Finance and Economic Development and Economic Development and Economic Development.
+
+Deputy Minister of Labor and Economic Development Anil Jayantha Fernando as the Minister of Finance and Planning and Economic Development
+
+Digital Economic Minister Eranga Weeraratne as the Digital Economic Officers.
+
+Foreign Affairs, Foreign Employment Activity and Foreign Affairs
+
+◼️
+
+[Data](articles/486cf5c6.json)
+
+[Extended Data](ext_articles/486cf5c6.ext.json)
 
 ---
 
@@ -198,21 +360,23 @@ The suspect was produced before the Mount Lavinia Magistrate’s Court today (23
 
 ---
 
-### දකුණු අධිවේගයේ කිලෝමීටර් 19ක් අලුත්වැඩියා කරයි
+### 19 kilometers of southern highway renovate
 
 *2025-09-23 14:14:35* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-කිලෝමීටර්-19ක්-අලුත්වැඩියා-කරයි/11-418674) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාවේ සිට දොඩන්ගොඩ දක්වා මාර්ග කොටස 2011 වසරේදී රථවාහන ගමනය සඳහා විවෘත කෙරුණු අතර මේ දක්වා කිසිඳු ප්‍රධාන අලුත්වැඩියාවක් සිදුකර නොමැත.
+The road stream of the Southern Expressway from Kottawa to Dodangoda was opened for traffic in 2011 and no major repair to date.
 
-දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝමීටර් 0 සිට කිලෝමීටර් 19 දක්වා අධිවේගි මාර්ග ‍කොටස හා කිලෝ මීටර් 19 සිට කිලෝමීටර් 34 දක්වා අධිවේගී මාර්ග කොටස පැකේජ දෙකක් යටතේ කඩිනමින් අලුත්වැඩියා කිරීමේ අවශ්‍යතාව හදුනාගෙන ලැබ තිබේ.
+The need to repair a speedy repair of two to two highway section section of 19 kilometers from the Southern Expressway and 19 km.
 
-ඒ අනුව කිලෝමීටර් 19ක මංතීරු 4කින් යුතු අධිවේගී මාර්ග ප්‍රමාණයක් ආවරණය වන කිලෝ මීටර් 0 සිට 19 දක්වා හානියට පත්වූ අධිවේගී මාර්ග කොටම දෙවැන පැකේජය යටතේ ප්‍රතිසංස්කරණය කිරීමට සැලසුම් කර තිබේ.
+Accordingly, it is planned to reform under the second passage for the second-term package, which is destroyed by 0 to 19 kilometers of highways covering 4 kilometers highlights.
 
-ඒ සඳහා දේශීය ලංසුකරුවන්ගෙන් කැඳවූ මිල ගණන් අනුව රු. මිලියන 1490.96ක අවම ලංසුව ඉදිරිපත් කළ  M/s Access - WKK බද්ධ ව්‍යාපාරය වෙත පැවැරීමට කැබිනට් අනුමැතිය ලබා දී තිබේ.
+The local bidders were summoned by the prices of Rs. 1490.96 million, the minimum bid of the minimum bid of Rs.
 
 ◼️
 
 [Data](articles/162d0154.json)
+
+[Extended Data](ext_articles/162d0154.ext.json)
 
 ---
 
@@ -1911,177 +2075,5 @@ The new pathways are for skilled workers and tradespeople and technicians, and r
 [Data](articles/1cb09b3e.json)
 
 [Extended Data](ext_articles/1cb09b3e.ext.json)
-
----
-
-### Sri Lanka - Pakistan decisive match today
-
-*2025-09-23 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214895) · `si`
-
-Sri Lanka will play the second match of the Super Schools in the Asia Tropics Twenty20 cricket today (23).
-
-The competition is scheduled to be held at Sri Lanka at 8 pm today.
-
-Leader Charith also stated that the Sri Lankan team will take place in today's match.
-
-"We're still talking about. Still not past 11. But the leftist players have lots of compared to other teams. Therefore, a spinner may be a change in. In addition, we still call an Extra bowling allrounder. Sometimes when we were defreading, we can see that when we dfnd, we see a little bit of trouble. Extra Bowling Allrounder is sometimes able to come up the place where I bibrant. Or my Views also play a Flotin roll. Because we're four left-players. It can benefit the other group. So he was over the semines. I think he's done exactly. "
-
-◼️
-
-[Data](articles/8c01e62c.json)
-
-[Extended Data](ext_articles/8c01e62c.ext.json)
-
----
-
-### ICC charges Rodrigo Duterte with crimes against humanity
-
-*2025-09-23 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112808/icc-charges-rodrigo-duterte-with-crimes-against-humanity) · `en`
-
-Former Philippine president Rodrigo Duterte has been charged with crimes against humanity by the International Criminal Court (ICC).
-
-The 80-year-old is accused of being criminally responsible for dozens of murders that allegedly took place as part of his so-called war on drugs, during which thousands of small-time drug dealers, users and others were killed without trial.
-
-The ICC’s charge sheet, which includes several redactions, dates from July but was only made public on Monday.
-
-ICC deputy prosecutor Mame Mandiaye Niang said Duterte was an “indirect co-perpetrator” in the killings, which the court alleges were carried out by others, including police.
-
-The first count laid against Mr Duterte concerns his alleged involvement in the killings of 19 people in Davao City between 2013 and 2016 while he was mayor there.
-
-The other two charges relate to times when he was serving as president of the Philippines, between 2016 and 2022, and launched his so-called war on drugs.
-
-...
-
-[Data](articles/95f26fc5.json)
-
-[Extended Data](ext_articles/95f26fc5.ext.json)
-
----
-
-### Shocking information about the drug rescued in Tangalle
-
-*2025-09-23 08:33:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-மீட்கப்பட்ட-போதைப்பொருள்-குறித்து-அதிர்ச்சி-தகவல்/175-365101) · `ta`
-
-The police media unit said that the drug recovered yesterday (22) in Tangalle was worth Rs 9,888 million.
-
-It is also reported that 705.91 kilograms of drugs were seized after being hidden in three lorries in Tangalle.
-
-Of these, 284.94 kilograms of heroin and 420.976 kilograms of ice have been seized.
-
-The police media unit said that the registered owners of the three lorries are being investigated.  R
-
-◼️
-
-[Data](articles/69413f2c.json)
-
-[Extended Data](ext_articles/69413f2c.ext.json)
-
----
-
-### The fishermen who went to the sea
-
-*2025-09-23 08:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலுக்கு-சென்ற-மீனவர்கள்-மாயம்/175-365100) · `ta`
-
-Police are investigating the disappearance of two fishermen who went to sea for fishing from the Kalpitiya and Chinnakudiyiruppu area.
-
-On the evening of the 21st, two fishermen were fishing in a boat.
-
-However, it is reported that the police have begun investigations following the complaint lodged yesterday due to the lack of return home.
-
-The missing fishermen are aged 27 and 34 from Kalpitiya.
-
-Kalpitiya Police Station officials and Navy officials have taken steps to look for the missing fishermen. Remble
-
-◼️
-
-[Data](articles/0b251caf.json)
-
-[Extended Data](ext_articles/0b251caf.ext.json)
-
----
-
-### Popular tele-drama actor Nalin Pradeep Udawela passes away aged 56
-
-*2025-09-23 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112807/popular-tele-drama-actor-nalin-pradeep-udawela-passes-away-aged-56-) · `en`
-
-Popular tele-drama actor Nalin Pradeep Udawela passed away this morning (23) at the age of 56, while receiving treatment at the Maharagama Apeksha Hospital, family sources confirmed.
-
-Born Udawela Lekumlage Nalin Pradeep Udawela on March 20, 1969, he was a prominent figure in Sri Lankan cinema, stage drama, and television, and also pursued a career in politics.
-
-Udawela served as a Western Provincial Councilor, in addition to his contributions to the performing arts.
-
-He commenced his film career in 1998 with Julietge Bhumikawa, directed by Jackson Anthony, and went on to gain popularity through films such as Tharaka Mal, Parawarthana, and Asai Man Piyabanna.
-
-Udawela’s contribution to the stage was also highly acclaimed, with notable performances in productions including Juriya, Kelani Palama, Mandela Mandela, Megha, Modara Mola, Mee Harak, New Hunuwataye Kathawa, Sewaneli Eda Minissu, and Suddek Oba Amathai.
-
-...
-
-[Data](articles/448e9f16.json)
-
-[Extended Data](ext_articles/448e9f16.ext.json)
-
----
-
-### Veteran performer Nalin Pradeep Uduckle
-
-*2025-09-23 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214894) · `si`
-
-Veteran performer Nalin Pradeep Uduwela has died at around 5.45 am today.
-
-Those in Maharagama were receiving treatment at the ICU of the hospital.
-
-Nalin Pradeep Uduwela is a talented artist who inherited its performance through the stage, cinema, as well as teledrama.
-
-◼️
-
-[Data](articles/3a54fee4.json)
-
-[Extended Data](ext_articles/3a54fee4.ext.json)
-
----
-
-### Express Pearl ships refuse to pay compensation in a st
-
-*2025-09-23 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214893) · `si`
-
-The X-press Feeders The X-press Feeders The X-PSS Feeders have refused to pay a $ 1 billion worth of compensation for the environmental and economic damage caused by the country in 2021.
-
-On July 24, the Supreme Court ordered the shipped shipping company to the relevant ship Company.
-
-The decision to pay the Treasury Secretary to the Treasury should be paid.
-
-In addition, the Supreme Court had decided that Minister Nalaka Godaheahewa, Marine Pollution Prevention of the Marine Pollution Prevention of the Marine Pollution prevention authority have violated basic human rights.
-
-The verdict was given by the Principal Supreme Court Judge Bench, which gave the verdict of the fundamental rights petitions, which had taken several parties in the relevant tragedy.
-
-◼️
-
-[Data](articles/c0546ff3.json)
-
-[Extended Data](ext_articles/c0546ff3.ext.json)
-
----
-
-### Indo -Sri Lanka Navy Commander Meeting
-
-*2025-09-23 08:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225811) · `ta`
-
-Indian Navy Commander Admiral Tinase K Tripathi, who arrived in the country on Sunday (September 21), met with Navy Commander Vice Admiral Kanchana Banagoda on Monday morning (September 22).
-
-Rear Admiral Dammika Wijewardena has welcomed the Indian Navy Commander and his wife at the Bandaranaike International Airport in Colombo.
-
-The Indian Navy Commander Admiral Dinesh K. Tripathi, who visited the Naval Headquarters yesterday morning (September 22, 2025), was given the customary honor of the Navy.
-
-Following this, Navy Commander Vice Admiral Kanchana Banagoda welcomed the Indian Navy Commander to the Naval Headquarters.
-
-During the meeting, a discussion was held on strategic and bilateral issues relating to maritime security and long -term friendship between the two countries.
-
-Souvenirs were exchanged between the two sides to mark this official meeting.
-
-...
-
-[Data](articles/24b3c2cb.json)
-
-[Extended Data](ext_articles/24b3c2cb.ext.json)
 
 ---

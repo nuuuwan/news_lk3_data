@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 05:56:38**
+As of **2025-09-23 09:13:16**
 
 ## Newspaper Stats
 
-*Scraped **77,554** Articles*
+*Scraped **77,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,493 @@ bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,685
 dailymirrorlk | 4,733
-islandlk | 4,772
+islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,528
-adaderanalk | 10,039
-tamilmirrorlk | 11,660
-virakesarilk | 12,623
-adaderanasinhalalk | 13,543
+adalk | 7,529
+adaderanalk | 10,047
+tamilmirrorlk | 11,668
+virakesarilk | 12,625
+adaderanasinhalalk | 13,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,544 (100.0%) of 77,554 articles have been extended.
+77,580 (100.0%) of 77,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### වැඩබලන අමාත්‍යවරු සිව්දෙනෙක් පත් කෙරේ
+
+*2025-09-23 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214896) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ මහා මණ්ඩලයට සහභාගි වීම සඳහා ඇමරිකා එක්සත් ජනපදය බලා පිටත්ව යාම හේතුවෙන් අමාත්‍යාංශ 04ක් සඳහා වැඩබලන අමාත්‍යවරු පත් කර තිබේ.
+
+◼️
+
+[Data](articles/f1f32bd9.json)
+
+---
+
+### இழப்பீட்டை வழங்க X-Press Feeders நிறுவனம் மறுப்பு
+
+*2025-09-23 08:54:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழப்பீட்டை-வழங்க-X-Press-Feeders-நிறுவனம்-மறுப்பு/175-365102) · `ta`
+
+இலங்கை கடற்பரப்பில் தீ விபத்துக்குள்ளான எக்ஸ் பிரஸ் பேர்ள் கப்பலினால் ஏற்பட்ட சுற்றுச்சூழல் பாதிப்புக்கான இழப்பீட்டை வழங்குவதற்கு அந்த கப்பல் நிறுவனம் மறுத்துள்ளது.
+
+2021 ஆம் ஆண்டு இலங்கை கடற்பரப்பில் பயணித்த போது சிங்கப்பூருக்கு சொந்தமான (MV X-Press Pearl) கப்பல் தீப்பற்றி எரிந்தது.
+
+இதனால் நாட்டின் கடல் வளம் பாரிய அளவில் மாசடைந்ததுடன், கடல் வாழ் உயிரினங்களும் இறந்து கரை ஒதுங்கியிருந்தன. அத்துடன் கடல் வளமும் பாரிய அளவில் பாதிக்கப்பட்டிருந்தது.
+
+இந்நிலையில் அதற்குரிய இழப்பீடாக ஒரு பில்லியன் அமெரிக்க டொலரை செலுத்த வேண்டும் என அந்த கப்பலின் நிறுவனமான X-Press Feeders நிறுவனத்திற்கு நீதிமன்றம் உத்தரவிட்டிருந்தது.
+
+எனினும் அந்த இழப்பீட்டை செலுத்துவதற்கு குறித்த நிறுவனம் மறுப்பு வௌியிட்டுள்ளதாக வௌிநாட்டு ஊடகங்கள் செய்தி வௌியிட்டுள்ளன. R
+
+◼️
+
+[Data](articles/90c8e268.json)
+
+---
+
+### Sri Lanka - Pakistan decisive match today
+
+*2025-09-23 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214895) · `si`
+
+Sri Lanka will play the second match of the Super Schools in the Asia Tropics Twenty20 cricket today (23).
+
+The competition is scheduled to be held at Sri Lanka at 8 pm today.
+
+Leader Charith also stated that the Sri Lankan team will take place in today's match.
+
+"We're still talking about. Still not past 11. But the leftist players have lots of compared to other teams. Therefore, a spinner may be a change in. In addition, we still call an Extra bowling allrounder. Sometimes when we were defreading, we can see that when we dfnd, we see a little bit of trouble. Extra Bowling Allrounder is sometimes able to come up the place where I bibrant. Or my Views also play a Flotin roll. Because we're four left-players. It can benefit the other group. So he was over the semines. I think he's done exactly. "
+
+◼️
+
+[Data](articles/8c01e62c.json)
+
+[Extended Data](ext_articles/8c01e62c.ext.json)
+
+---
+
+### Shocking information about the drug rescued in Tangalle
+
+*2025-09-23 08:33:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-மீட்கப்பட்ட-போதைப்பொருள்-குறித்து-அதிர்ச்சி-தகவல்/175-365101) · `ta`
+
+The police media unit said that the drug recovered yesterday (22) in Tangalle was worth Rs 9,888 million.
+
+It is also reported that 705.91 kilograms of drugs were seized after being hidden in three lorries in Tangalle.
+
+Of these, 284.94 kilograms of heroin and 420.976 kilograms of ice have been seized.
+
+The police media unit said that the registered owners of the three lorries are being investigated.  R
+
+◼️
+
+[Data](articles/69413f2c.json)
+
+[Extended Data](ext_articles/69413f2c.ext.json)
+
+---
+
+### The fishermen who went to the sea
+
+*2025-09-23 08:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலுக்கு-சென்ற-மீனவர்கள்-மாயம்/175-365100) · `ta`
+
+Police are investigating the disappearance of two fishermen who went to sea for fishing from the Kalpitiya and Chinnakudiyiruppu area.
+
+On the evening of the 21st, two fishermen were fishing in a boat.
+
+However, it is reported that the police have begun investigations following the complaint lodged yesterday due to the lack of return home.
+
+The missing fishermen are aged 27 and 34 from Kalpitiya.
+
+Kalpitiya Police Station officials and Navy officials have taken steps to look for the missing fishermen. Remble
+
+◼️
+
+[Data](articles/0b251caf.json)
+
+[Extended Data](ext_articles/0b251caf.ext.json)
+
+---
+
+### Veteran performer Nalin Pradeep Uduckle
+
+*2025-09-23 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214894) · `si`
+
+Veteran performer Nalin Pradeep Uduwela has died at around 5.45 am today.
+
+Those in Maharagama were receiving treatment at the ICU of the hospital.
+
+Nalin Pradeep Uduwela is a talented artist who inherited its performance through the stage, cinema, as well as teledrama.
+
+◼️
+
+[Data](articles/3a54fee4.json)
+
+[Extended Data](ext_articles/3a54fee4.ext.json)
+
+---
+
+### Express Pearl ships refuse to pay compensation in a st
+
+*2025-09-23 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214893) · `si`
+
+The X-press Feeders The X-press Feeders The X-PSS Feeders have refused to pay a $ 1 billion worth of compensation for the environmental and economic damage caused by the country in 2021.
+
+On July 24, the Supreme Court ordered the shipped shipping company to the relevant ship Company.
+
+The decision to pay the Treasury Secretary to the Treasury should be paid.
+
+In addition, the Supreme Court had decided that Minister Nalaka Godaheahewa, Marine Pollution Prevention of the Marine Pollution Prevention of the Marine Pollution prevention authority have violated basic human rights.
+
+The verdict was given by the Principal Supreme Court Judge Bench, which gave the verdict of the fundamental rights petitions, which had taken several parties in the relevant tragedy.
+
+◼️
+
+[Data](articles/c0546ff3.json)
+
+[Extended Data](ext_articles/c0546ff3.ext.json)
+
+---
+
+### Indo -Sri Lanka Navy Commander Meeting
+
+*2025-09-23 08:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225811) · `ta`
+
+Indian Navy Commander Admiral Tinase K Tripathi, who arrived in the country on Sunday (September 21), met with Navy Commander Vice Admiral Kanchana Banagoda on Monday morning (September 22).
+
+Rear Admiral Dammika Wijewardena has welcomed the Indian Navy Commander and his wife at the Bandaranaike International Airport in Colombo.
+
+The Indian Navy Commander Admiral Dinesh K. Tripathi, who visited the Naval Headquarters yesterday morning (September 22, 2025), was given the customary honor of the Navy.
+
+Following this, Navy Commander Vice Admiral Kanchana Banagoda welcomed the Indian Navy Commander to the Naval Headquarters.
+
+During the meeting, a discussion was held on strategic and bilateral issues relating to maritime security and long -term friendship between the two countries.
+
+Souvenirs were exchanged between the two sides to mark this official meeting.
+
+...
+
+[Data](articles/24b3c2cb.json)
+
+[Extended Data](ext_articles/24b3c2cb.ext.json)
+
+---
+
+### Rain in many parts of the country today
+
+*2025-09-23 07:48:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-இன்று-மழை/175-365099) · `ta`
+
+The Department of Meteorology has announced that rainfall will occur in the districts of the Western, Sabaragamuwa Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Thundershowers will occur after 2.00 pm in Uva Province, Ampara and Batticaloa districts.
+
+The Department has requested the public to take precautionary measures to avoid the risks of lightning and strong winds.  (a)
+
+◼️
+
+[Data](articles/de753cb5.json)
+
+[Extended Data](ext_articles/de753cb5.ext.json)
+
+---
+
+### A child will lose their lives at a tipper
+
+*2025-09-23 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214892) · `si`
+
+A child and a child who had traveled to the Bandaranaike Roundabout to Bandaranaike, Ampara and a child had died in an accident.
+
+The police said that the accident had occurred in the evening yesterday.
+
+The child was injured and admitted to admission to the Ampara Hospital.
+
+The victim was a resident of Uhana area aged 4.
+
+The driver of the crash has been arrested and Ampara Police are conducting further investigations.
+
+◼️
+
+[Data](articles/c9f72f44.json)
+
+[Extended Data](ext_articles/c9f72f44.ext.json)
+
+---
+
+### Four-year-old child killed in road accident involving tipper truck in Ampara
+
+*2025-09-23 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112803/four-year-old-child-killed-in-road-accident-involving-tipper-truck-in-ampara) · `en`
+
+A four-year-old child has died following a road accident in Ampara, last evening (22).
+
+The accident occurred when a tipper truck, traveling from the Kalmunai Junction towards the Bandaranaike Roundabout in Ampara collided with a woman and a child who were walking along the side of the road.
+
+Both the child and the woman sustained injuries in the accident and were admitted to the Ampara Hospital, where the child was pronounced dead upon admission.
+
+The driver of the tipper truck involved in the accident has been taken into police custody.
+
+Further investigations are being carried out by the Ampara Police.
+
+◼️
+
+[Data](articles/079d700a.json)
+
+[Extended Data](ext_articles/079d700a.ext.json)
+
+---
+
+### Suspect arrested for shooting and attempted murder
+
+*2025-09-23 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/225809) · `ta`
+
+A suspect has been arrested on charges of shooting and assisting a murder.
+
+Police said that the murder incident took place on the 24th of July.
+
+Following this, the Criminal Investigation Bureau of Kalkissa launched an investigation into the incident.
+
+Accordingly, the suspect who supplied firearms and ammunition for the crime on Monday (September 22) was arrested.
+
+The police media unit said that he was arrested by the Criminal Investigation Bureau Officers of the Kalkis Division in the Malwatta Road area of ​​the Dehiwala Police Division.
+
+Investigations have revealed that the suspect is a 35 -year -old from Dehiwala.
+
+The Criminal Investigation Bureau is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/af62555c.json)
+
+[Extended Data](ext_articles/af62555c.ext.json)
+
+---
+
+### Denmark’s Copenhagen airport reopens after nearly four-hour drone disruption
+
+*2025-09-23 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112802/denmarks-copenhagen-airport-reopens-after-nearly-four-hour-drone-disruption) · `en`
+
+Copenhagen Airport, the busiest in the Nordic region, reopened early on Tuesday (Sep 23) after drone sightings halted all take-offs and landings for nearly four hours, the airport said.
+
+Delays and some cancelled departures will persist, and passengers should check with their airlines, it added.
+
+Police said on Monday that two or three large drones had been seen flying in the area, leading to the closure of all traffic at Denmark’s biggest airport in Copenhagen.
+
+The airport halted operations at 8.26pm (Tuesday, 2.26am, Singapore time) on Monday, according to flight tracking service FlightRadar. Around 50 flights were diverted to alternate airports, FlightRadar said on X.
+
+Earlier, an airport spokesperson said that police were working to identify the drones but declined to provide further details, citing the ongoing investigation.
+
+...
+
+[Data](articles/1a6bf4fe.json)
+
+[Extended Data](ext_articles/1a6bf4fe.ext.json)
+
+---
+
+### Suspein into Saint's stock of drugs found in Tangalle - Value Rs. 10,000
+
+*2025-09-23 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214891) · `si`
+
+Police have confirmed that the total value of the drug found by the police in Tangalle area was about Rs. 9,888 million.
+
+The police also confirmed that 284.94 kilograms of heroin and 420.976 kilograms of ice and 420.976 kilograms of ice.
+
+Registered owners of the lorry lorries have been arrested and being questioned.
+
+Meanwhile, the drug recovered from the Tangalle area, the drug has been identified as a drug belonging to one person who is conducting the drug racket in Sri Lanka.
+
+Investigations have revealed that the drug was sent to Sri Lanka by the criminal of the criminal of drug trafficking from a foreign country.
+
+According to the information received by the police, the information received by the police in a special mission to the police, the information received by the police in a special mission was found in a special mission to the police with three lorries in Tangalle.
+
+The sufferer is considered as the highest number of drugs found in the country.
+
+...
+
+[Data](articles/8f93950e.json)
+
+[Extended Data](ext_articles/8f93950e.ext.json)
+
+---
+
+### Joint operation launched to locate two missing fishermen in Kalpitiya seas
+
+*2025-09-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112801/joint-operation-launched-to-locate-two-missing-fishermen-in-kalpitiya-seas) · `en`
+
+Two individuals who set out for fishing in a boat from the Sinnakudirippu lagoon in Kalpitiya have been reported missing, police stated.
+
+Accordingly, an investigation has been launched following a complaint received by the Kalpitiya Police Station regarding two individuals who have not returned after leaving in a boat from the Sinnakudirippu lagoon on September 21.
+
+The missing individuals are residents of Kalpitiya, aged 27 and 34.
+
+According to police, a joint search operation has been initiated by officers of the Kalpitiya Police Station together with Sri Lanka Navy personnel to locate the missing persons.
+
+◼️
+
+[Data](articles/44da583a.json)
+
+[Extended Data](ext_articles/44da583a.ext.json)
+
+---
+
+### Drugs seized from Tangalle yesterday estimated to be worth over Rs. 9,800 million: Police
+
+*2025-09-23 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112800/drugs-seized-from-tangalle-yesterday-estimated-to-be-worth-over-rs-9800-million-police) · `en`
+
+Sri Lanka Police have confirmed that the total street value of a massive narcotics haul discovered in Tangalle yesterday is approximately Rs. 9.888 million, police stated.
+
+The seized drugs include 284.94 kilograms of heroin and 420.976 kilograms of crystal methamphetamine (commonly known as ‘ice’), bringing the total amount of narcotics to 705.91 kilograms—the largest drug seizure in Sri Lanka’s history in a single day.
+
+The registered owners of the lorries used to transport the drugs have been taken into custody and are currently being questioned, police noted.
+
+Investigations have revealed that the narcotics belong to a single major drug trafficker operating within Sri Lanka, with further links to international drug smuggling. It has been uncovered that the shipment was sent to Sri Lanka by ‘Unakuruwa Shantha,’ a wanted criminal suspected to be managing large-scale drug operations from a foreign country.
+
+...
+
+[Data](articles/27558fc4.json)
+
+[Extended Data](ext_articles/27558fc4.ext.json)
+
+---
+
+### Two fishermen went missing from boat
+
+*2025-09-23 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214890) · `si`
+
+In the evening, two persons who had left the Kalpitiya fisher who left fishing on the 21st in the evening have commenced investigations on a complaint with a boat.
+
+The missing persons are residents of the Kalpitiya area, 27 and 34 years.
+
+The Kalpitiya Police and Navy Officers have launched a joint venture to find disappearances, police said.
+
+◼️
+
+[Data](articles/7244f9a3.json)
+
+[Extended Data](ext_articles/7244f9a3.ext.json)
+
+---
+
+### 35-year-old arrested for aiding and abetting shooting in Dehiwala
+
+*2025-09-23 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112799/35-year-old-arrested-for-aiding-and-abetting-shooting-in-dehiwala) · `en`
+
+A suspect has been arrested for allegedly aiding and abetting a shooting reported in Dehiwala on July 24, police stated.
+
+The Mount Lavinia Divisional Crime Investigation Unit arrested the suspect along the Malwatta Road in Dehiwala for allegedly providing a firearm and ammunition to the shooter.
+
+The Mount Lavinia Divisional Crime Investigation Unit is conducting further investigations.
+
+◼️
+
+[Data](articles/aa872939.json)
+
+[Extended Data](ext_articles/aa872939.ext.json)
+
+---
+
+### One arrested in Vavuniya with 6 kg of cannabis
+
+*2025-09-23 06:21:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கிலோ-கஞ்சாவுடன்-வவுனியாவில்-ஒருவர்-கைது/175-365097) · `ta`
+
+The Vavuniya Criminal Investigation Division said that one person has been arrested with 6 kg of ganja worth Rs 12 lakh.
+
+A team led by Police Inspector Rajapaksa, under the guidance of the Vavuniya Chief Police Officer in charge of the Vavuniya Crime Prevention Unit, conducted a raid in the Vavuniya city area.
+
+It was found that the motorbike was transported on a motorcycle. Subsequently, the man was arrested by the police and the motorcycle and 6 kg of cannabis were recovered.
+
+A 47 -year -old man has been arrested in the Vavuniya Marukarampalai area.. (A)
+
+◼️
+
+[Data](articles/895c17d1.json)
+
+[Extended Data](ext_articles/895c17d1.ext.json)
+
+---
+
+### Showers in the past 2 pm today
+
+*2025-09-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214888) · `si`
+
+Showers will occur at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The Department of Meteorology announces that there will be a few showers in the North Western Province.
+
+Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at a few places.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. Strong winds are about 30-40 times.
+
+Department of Meteorology to take action to minimize the dangers of lightning and temporary strong winds
+
+◼️
+
+[Data](articles/b2197aa0.json)
+
+[Extended Data](ext_articles/b2197aa0.ext.json)
+
+---
+
+### France formally recognises Palestinian state
+
+*2025-09-23 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112798/france-formally-recognises-palestinian-state) · `en`
+
+France has formally recognised a Palestinian state, becoming the latest in a wave of countries to take the step.
+
+Speaking at the UN in New York, President Emmanuel Macron said "The time for peace has come" and that "Nothing justifies the ongoing war in Gaza".
+
+France and Saudi Arabia are hosting a one-day summit at the UN General Assembly focused on plans for a two-state solution to the conflict. G7 states Germany, Italy, and the US did not attend.
+
+Macron confirmed that Belgium, Luxembourg, Malta, Andorra and San Marino would also recognise a Palestinian state, after the UK, Canada, Australia and Portugal announced recognition on Sunday.
+
+◼️
+
+[Data](articles/7e8d9fbc.json)
+
+[Extended Data](ext_articles/7e8d9fbc.ext.json)
+
+---
+
+### Parliament to convene at 9.30am
+
+*2025-09-23 05:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112797/parliament-to-convene-at-930am) · `en`
+
+The first session of the second Parliament sitting week for September is scheduled for today (23).
+
+According to the agenda paper, the business of Parliament as per Standing Order 22(1) to (6) of the Parliament will take place between 09.30 a.m. and 10.00 a.m.
+
+Following questions for oral answers and questions under Standing Order 27(2) of Parliament, the debate on the second reading of the National Building Research Institute Bill will be held today.
+
+◼️
+
+[Data](articles/391325dc.json)
+
+[Extended Data](ext_articles/391325dc.ext.json)
+
+---
+
+### Showers expected in several areas after 2pm today
+
+*2025-09-23 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112796/showers-expected-in-several-areas-after-2pm-today) · `en`
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+A few showers may occur in North-western province. Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/ce316c10.json)
+
+[Extended Data](ext_articles/ce316c10.ext.json)
+
+---
 
 ### Parliament meets today
 
@@ -87,6 +557,64 @@ President Anura Kumara Dissanayake accompanied Foreign, Foreign Employment and T
 [Data](articles/4c7bc0e2.json)
 
 [Extended Data](ext_articles/4c7bc0e2.ext.json)
+
+---
+
+### Arrest of someone with Keroin
+
+*2025-09-23 03:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெரோயினுடன்-ஒருவர்-கைது/175-365096) · `ta`
+
+Yall. A suspect has been arrested in the area under the Point Pedro Police Division.
+
+The arrest was taken during a special roundup held by the Kankesan Department Regional Crime Branch yesterday.
+
+8460 milligrams of Keroin was seized from the suspect and handed over to the Point Pedro Police Station to the Point Pedro Magistrate's Court.. (A)
+
+◼️
+
+[Data](articles/41b84987.json)
+
+[Extended Data](ext_articles/41b84987.ext.json)
+
+---
+
+### Arrest someone with heroin
+
+*2025-09-23 03:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-ஒருவர்-கைது/175-365096) · `ta`
+
+Yall. A suspect has been arrested in the area under the Point Pedro Police Division.
+
+The arrest was taken during a special roundup held by the Kankesan Department Regional Crime Branch yesterday.
+
+8460 milligrams of Keroin was seized from the suspect and handed over to the Point Pedro Police Station to the Point Pedro Magistrate's Court.. (A)
+
+◼️
+
+[Data](articles/ab90527d.json)
+
+[Extended Data](ext_articles/ab90527d.ext.json)
+
+---
+
+### Throw the petrol bombs on the house
+
+*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரோல்-குண்டு-வீச்சு/175-365095) · `ta`
+
+An elderly man in Mullaitivu, Vattuvagal area, unidentified persons attacked a petrol bomb at midnight yesterday.
+
+At around 2 am yesterday, the house of the house was poured on the wall of the house.
+
+During this time, the door of the house, and the parked motorcycle were destroyed.
+
+The attack was carried out by mysterious people wearing a helmet and rain shield as they covered their face.
+
+At midnight, the attackers fled when the elderly man called the neighbors.
+
+◼️
+
+[Data](articles/a9a66191.json)
+
+[Extended Data](ext_articles/a9a66191.ext.json)
 
 ---
 
@@ -460,6 +988,8 @@ As part of the launch, AB Mauri Lanka handed over the first batch of Prime Yeast
 
 [Data](articles/273a637f.json)
 
+[Extended Data](ext_articles/273a637f.ext.json)
+
 ---
 
 ### Atlas awarded at SLIM Digis 2.5 for pioneering digital & technology led learning experiences in Sri Lanka
@@ -473,6 +1003,8 @@ Atlas celebrated success by winning the Silver Award for ‘Best Use of Experien
 ...
 
 [Data](articles/be8f93f1.json)
+
+[Extended Data](ext_articles/be8f93f1.ext.json)
 
 ---
 
@@ -489,6 +1021,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/e436e65e.json)
+
+[Extended Data](ext_articles/e436e65e.ext.json)
 
 ---
 
@@ -509,6 +1043,22 @@ Spreading fake documents is legally punishable offense. For official information
 [Data](articles/a29a2514.json)
 
 [Extended Data](ext_articles/a29a2514.ext.json)
+
+---
+
+### SLTDA embraces digital transformation by joining GovPay
+
+*2025-09-22 22:52:00* · [`islandlk`](http://island.lk/sltda-embraces-digital-transformation-by-joining-govpay/) · `en`
+
+In a groundbreaking initiative to modernize Sri Lanka’s tourism industry through digitalization, the Sri Lanka Tourism Development Authority (SLTDA) has joined GovPay – the government’s digital payment platform. This integration enables seamless, secure, and hassle-free online payments for a wide range of SLTDA services, offering greater convenience to stakeholders across the tourism ecosystem.
+
+As one of the country’s most vital industries, tourism lies at the heart of Sri Lanka’s economic revival. By embracing GovPay, SLTDA aims to streamline processes, reduce administrative hurdles, and create a more transparent and efficient business environment – further supporting the Government’s vision of positioning Sri Lanka as a world-class tourist destination powered by digital innovation.
+
+...
+
+[Data](articles/9df09221.json)
+
+[Extended Data](ext_articles/9df09221.ext.json)
 
 ---
 
@@ -907,6 +1457,26 @@ The ICC Women's World Cup will be held on Wednesday 25th of Wednesday at a girls
 [Data](articles/3f9f0d00.json)
 
 [Extended Data](ext_articles/3f9f0d00.ext.json)
+
+---
+
+### 4 year old dies after falling into tipper in white sun
+
+*2025-09-22 20:35:32* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-ඉරේදී-ටිපර්-රථයට-යටවී-අවුරුදු-4ක-දරුවෙක්-මරුට/11-418655) · `si`
+
+The four-year-old boy has died in the road to the Ampara General Hospital over the road to the Ampara General Hospital.
+
+The mother who traveled with the child and rushed to the Ampara General Hospital with injuries.
+
+The Tipper and the driver have been arrested by the Ampara Police.
+
+The deceased has not been Poverty Abeyweera, a group of Season Abeyweera, a child
+
+◼️
+
+[Data](articles/a0a1dabf.json)
+
+[Extended Data](ext_articles/a0a1dabf.ext.json)
 
 ---
 
@@ -1469,593 +2039,5 @@ Hesha Vidhanage had previously represented the Sri Lanka Freedom Party (SLFP) as
 [Data](articles/41c95860.json)
 
 [Extended Data](ext_articles/41c95860.ext.json)
-
----
-
-### Employees' Trade Unions Final decision on Wednesday
-
-*2025-09-22 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214876) · `si`
-
-All professional societies of the Ceylon Electricity Board (CEB) has decided to continue the trade union action to be launched by now until Wednesday.
-
-The General Secretary of the Ceylon Electricity Board (Ceylon Electricity) of the Ceylon Electricity Board (CEB) at a press conference held today (22), Mr. Prabhakantha said that.
-
-They said that if the authorities were not resolved to their demands, they decided to appear in the next 24 trade measures on the 24th.
-
-"After the 25 trade unions once again meeting the 25 trade unions, the 25-day strike decision to take a good discussion, we will definitely take a good discussion. It is clearly on Wednesdays on Wednesdays.
-
-◼️
-
-[Data](articles/2231697f.json)
-
-[Extended Data](ext_articles/2231697f.ext.json)
-
----
-
-### Refusal to journalist
-
-*2025-09-22 17:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளருக்கு-அனுமதி-மறுப்பு-யூரியூப்பருக்கு-அனுமதி/175-365073) · `ta`
-
-The 30th anniversary commemoration of the 21 student wealth was observed on Monday (22) in the air attack at the Maha Vidyalaya in Nagercoil by the Sri Lanka Air Force.
-
-A memorial flame was lit at the Memorial at the Maha Vidyalaya in Nagercoil.
-
-The relatives of the students who were assassinated, the public, political dignitaries, students and school teachers were present at the tribute.
-
-However, when the newspapers went to collect the news at the event, the Zonal Education Director did not grant permission.
-
-When journalists telephoned the Vadamarachchi Zonal Educator in this regard, he was asked to journalists
-
-The journalists were denied permission by the Maha Vidyalaya in Nagercoil as he had telephoned the school principal.
-
-However, a relative of the Chancellor, Valvettithurai, was allowed to record the events of the commemoration events.
-
-They were paid tribute to the child who died at the Memorial at the Maha Vidyalaya in Nagercoil.
-
-◼️
-
-[Data](articles/d56d92a4.json)
-
-[Extended Data](ext_articles/d56d92a4.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields hold
-
-*2025-09-22 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-hold-241548/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/60 to the US dollar on Monday, weaker from 302.45/50 Friday, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.30/35 percent, up from 8.28/33 percent.
-
-A bond maturing on 15.09.2027 closed at 8.65/75 percent, up from 8.65/73 percent.
-
-A bond maturing on 15.12.2029 closed at 9.47/57 percent, from 9.50/54 percent.
-
-A bond maturing on 15.03.2031 closed at 9.98/10.05 percent, from 10.00/05 percent.
-
-A bond maturing on 01.11.2033 closed at 10.66/70 percent, from 10.65/75 percent. (Colombo/Sep22/2025)
-
-◼️
-
-[Data](articles/1fb846ab.json)
-
-[Extended Data](ext_articles/1fb846ab.ext.json)
-
----
-
-### Following the amendment Act, the consent of the CEB employees
-
-*2025-09-22 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214875) · `si`
-
-Ceylon Electricity Board (CEB) has agreed to join the four full state owned companies established in terms of the Ceylon Electricity amendment Act.
-
-The Ceylon Electricity Board (CEB) has been given letters to the Ceylon Electricity Board (CEB) in the Ceylon Electricity Board (CEB).
-
-Accordingly, the National Transmission Network Development (Pvt) Ltd Distribution Ceylon (Private) Limited (Pvt) Ltd, the Electricity Distribution of Electricity Company (Pvt) Ltd will be included in the Power and Ceylon Electricity Company (Pvt) Ltd.
-
-The Ministry of Energy stated that the CEB employees are being welcomed by the CEB employees in the restructuring program that is necessary to develop the electricity sector.
-
-◼️
-
-[Data](articles/58f27d45.json)
-
-[Extended Data](ext_articles/58f27d45.ext.json)
-
----
-
-### The person who publicly threatened the Jaffna female journalist
-
-*2025-09-22 17:12:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பெண்-ஊடகவியலாளரை-பகிரங்கமாக-அச்சுறுத்திய-நபர்/175-365072) · `ta`
-
-The Northern Provincial Ministry of Education should be replaced by the Northern Provincial Ministry of Education. The protest was carried out by the Shiv Sena organization on Monday (22) in front of the Northern Province Department of Education, located at the Stamp Junction.
-
-Jaffna went to collect this struggle. An individual threatened female journalist Sumathi Thangarasa publicly.
-
-When the country is ruined by your model, the woman has threatened the journalist, saying that you are all the media.
-
-◼️
-
-[Data](articles/43486f37.json)
-
-[Extended Data](ext_articles/43486f37.ext.json)
-
----
-
-### ASPI closes at new all-time high today
-
-*2025-09-22 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112780/aspi-closes-at-new-all-time-high-today) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 141 points today (22).
-
-Accordingly, the ASPI rose by 141.78 points or 0.67% to close at 21,226.87 points, surpassing the previous high of 21,085.09 points recorded on September 19, 2025.
-
-Meanwhile, the S&P SL20 Index moved up by 60.97 points to close at 6,057.13 points.
-
-◼️
-
-[Data](articles/b5e1e5ce.json)
-
-[Extended Data](ext_articles/b5e1e5ce.ext.json)
-
----
-
-### Tensions by people who confused the struggle of the Shiv Sena organization
-
-*2025-09-22 16:59:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவசேனை-அமைப்பின்-போராட்டத்தை-குழப்ப-வந்த-நபர்களால்-பதற்றம்/175-365070) · `ta`
-
-The Northern Provincial Ministry of Education should be replaced by the Northern Provincial Ministry of Education. The protest was carried out by the Shiv Sena organization on Monday (22) in front of the Northern Province Department of Education, located at the Stamp Junction.
-
-Allegations have been made that the Chancellor appointed to the Kilinochchi St. Teresa School was appointed by the Secretary of the Ministry of Education of the Northern Province.
-
-At the same time, some schools in Kilinochchi have not yet been appointed permanent Chancellor.
-
-In this case, a group of people in the "cup" vehicle from Kilinochchi introduced themselves as the Development Association representatives of the Teresa School, and went to the Shiv Sena organization's struggle.
-
-As a result of the tense situation, the police, who were on duty, chased away the confused persons.
-
-◼️
-
-[Data](articles/d44bd22a.json)
-
-[Extended Data](ext_articles/d44bd22a.ext.json)
-
----
-
-### Pack. Air Force bombing: 30 people die
-
-*2025-09-22 16:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாக்-விமானப்படை-குண்டுவீச்சு-30-பேர்-உயிரிழப்பு/50-365069) · `ta`
-
-Pakistan Air Force bombed 8 bombs in a village in Khyber Pakhtunwa province, killing 30 people, including women and children.
-
-Pakistan Air Force JF-17 fighter jets threw eight bombs from the LS-6 type in the village of Madre Tara, which is the majority of the people of Bashtun at around 2 am today (22).. Most of the village was destroyed by the attack, many of which were injured. Thirty people, including women and children, died.
-
-According to reports, the Air Force has hit the Tehreek-e-Taliban Pakistan (TTP) hiding places in the area.. But all the victims of the attack were civilians.
-
-In recent days, the Pakistani military has intensified against terrorists in the province of Khyber Pakhtunwa, near the border of Afghanistan.
-
-On Sunday, the military announced that Seven Tehreek-e-Taliban terrorists were killed during a intelligence search operation in Dera Ismail Khan district.
-
-On September 13-14, 31 Tehreek-e-Taliban terrorists were killed in two separate clashes in Khyber Pakhtunwa.
-
-◼️
-
-[Data](articles/4ab1a5bf.json)
-
-[Extended Data](ext_articles/4ab1a5bf.ext.json)
-
----
-
-### Number of the total drugs and firearms found in Tangalle lorries
-
-*2025-09-22 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214874) · `si`
-
-තංගල්ල ප්‍රදේශයේ සිදුකළ වැටලීම් වලදී මත්ද්‍රව්‍ය තොග තිබී හමු වූ ලොරි තුනේ තිබූ සම්පූර්ණ මත්ද්‍රව්‍ය ප්‍රමාණය සහ ගිනි අවි සංඛ්‍යාව පොලීසිය විසින් දැනුම් දී තිබේ.
-
-Accordingly, 245 kilograms of heroin and 380 kilograms of heroin were found in the area.
-
-◼️
-
-[Data](articles/91697c0c.json)
-
-[Extended Data](ext_articles/91697c0c.ext.json)
-
----
-
-### 245kg of heroin, 380kg of ICE and six weapons recovered in Tangalle today - Police
-
-*2025-09-22 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112779/245kg-of-heroin-380kg-of-ice-and-six-weapons-recovered-in-tangalle-today-police) · `en`
-
-A total of 245 kilogram of heroin and 380 kilogram of crystal methamphetamine or commonly known as ‘Ice’ have been recovered from three lorries in Tangalle today (22), police stated.
-
-Additionally, five pistols and a T-56 assault rifle have also been seized.
-
-Police discovered three lorries that contained a large stock of narcotics, including ‘Ice’ and heroin in Seenimodara, Tangalle, earlier today.
-
-The discovery was made this morning (22), when police found the bodies of two individuals inside an abandoned house that was reportedly under renovation. A lorry parked in the premises was found to contain a massive quantity of illegal narcotics, authorities noted.
-
-Police recovered over 10 kilograms of narcotics substance suspected to be ‘Ice’ from the house under renovation in Seenimodara.
-
-Investigations also led to the recovery of 10 packets containing ‘Ice’ from a smaller lorry parked near the same house, according to police sources.
-
-...
-
-[Data](articles/fa69550e.json)
-
-[Extended Data](ext_articles/fa69550e.ext.json)
-
----
-
-### Speaker's Certificate to National Audit (Amendment) Bill
-
-*2025-09-22 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214873) · `si`
-
-Speaker Medical Wickramaratne today noted his certification today (22) for the National Audit (Amendment) Bill.
-
-Audit (Amendment) Bill was presented to Parliament on 08.07.202015 and was passed in Parliament with amendments on 11.09.2015.
-
-These National Audit (Amendment) Bill has aims to amend the National Audit Act No. 19 of 2018.
-
-Accordingly, the main objective of these amendments is to provide provisions for the establishment of a surcharge review committee, including its composition, time limits and procedures to make decisions recommended by the Auditor General.
-
-It also includes powers to the Auditor General to complain to the Auditor General and the period from five months to six months.
-
-The amendments also increased the punishment for people who make mistakes under Sections 42 and 43 of the main charter.
-
-Accordingly, the National Audit (Amendment) Bill is in effect as the National Audit (Amendment) Act, 19 ,,
-
-◼️
-
-[Data](articles/be645783.json)
-
-[Extended Data](ext_articles/be645783.ext.json)
-
----
-
-### Speaker endorses certificate on National Audit (Amendment) Bill
-
-*2025-09-22 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112778/speaker-endorses-certificate-on-national-audit-amendment-bill) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne today (22) endorsed the certificate on the National Audit (Amendment) Bill.
-
-The National Audit (Amendment) Bill was presented to Parliament on July 8, 2025 and was passed in Parliament with amendments on July 11, 2025. The National Audit (Amendment) Bill was presented to amend the National Audit Act, No. 19 of 2018.
-
-Accordingly, the main objective of these amendments are to provide provisions for the establishment of a Surcharge Review Committee including its composition, time limits, and procedures, for the purpose of making decisions regarding the imposition of surcharges recommended by the Auditor General, the Department of Communication of Parliament stated.
-
-...
-
-[Data](articles/d9eaa86e.json)
-
-[Extended Data](ext_articles/d9eaa86e.ext.json)
-
----
-
-### Sri Lanka stocks up 0.67-pct on financials
-
-*2025-09-22 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-0-67-pct-on-financials-241523/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) rose 0.67 percent on Monday due to optimism surrounding financial shares, data on its site showed.
-
-The broader ASPI climbed 141.78 points from Friday, to end at 21,226.87; while the more liquid S&P SL20 closed up 1.06 percent, or 63.75 points, at 6,059.91.
-
-The top contributors to the ASPI were John Keells Holdings (up 0.60 rupees at 23.40), C T Holdings (up 33.25 rupees at 699.25), Senkadagala Finance (up 100.50 rupees at 578.25), Commercial Bank (up 3.00 rupees at 193.25) and Vallibel One (up 5.70 rupees at 96.80).
-
-Market turnover was 8 billion rupees on Monday, while the share volumes were 276,333,683.
-
-Indian equity market’s Information Technology related shares slumped as US president Donald Trump imposed a one time US 100,000 dollars fee on new applicants coming through the high skilled worker visa scheme, the H-1B visa policy.
-
-...
-
-[Data](articles/3f27b8c6.json)
-
-[Extended Data](ext_articles/3f27b8c6.ext.json)
-
----
-
-### Speaker Certificate to Increase the Auditor General's Powers Act
-
-*2025-09-22 16:26:39* · [`adalk`](https://www.ada.lk/breaking_news/විගණකාධිපතිගේ-බලතල-වැඩි-කරන-පනතට-කථානායක-සහතිකය/11-418653) · `si`
-
-Speaker Medical Wickramaratne today noted his certification today (22) for the National Audit (Amendment) Bill.
-
-Audit (Amendment) Bill was presented to Parliament on 08.07.202015 and was passed in Parliament with amendments on 11.09.2015.
-
-These National Audit (Amendment) Bill has aims to amend the National Audit Act No. 19 of 2018.
-
-Accordingly, the main objective of these amendments is to provide provisions for the establishment of a surcharge review committee, including its composition, time limits and procedures to make decisions recommended by the Auditor General.
-
-It also includes powers to the Auditor General to complain to the Auditor General and the period from five months to six months.
-
-The amendments also increased the punishment for people who make mistakes under Sections 42 and 43 of the main charter.
-
-Accordingly, the National Audit (Amendment) Bill is in effect as the National Audit (Amendment) Act, 19 ,,
-
-◼️
-
-[Data](articles/1b2842fd.json)
-
-[Extended Data](ext_articles/1b2842fd.ext.json)
-
----
-
-### Israel bolsters military presence over Jewish New Year holiday period
-
-*2025-09-22 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112777/israel-bolsters-military-presence-over-jewish-new-year-holiday-period) · `en`
-
-The Israeli military said on Monday that it had reinforced air, land and naval forces across the country during the upcoming holiday period following a “multi-front assessment”.
-
-Combat soldiers who were still in training would be providing support and be alert for “defensive and offensive tasks” throughout the holiday period, which begins on September 22 with the Jewish New Year and lasts until around mid-October.
-
-The military declined to comment when asked if it was a preemptive measure or in response to a specific threat.
-
-Earlier this year, Israeli media reported that the military had ended its long-standing practice of granting unit-wide leave during holidays.
-
-The decision followed a military investigation that found Hamas took advantage of the reduced troop presence along the Gaza border on October 7, 2023, during a Jewish holiday, to launch its attack, according to media reports.
-
-◼️
-
-[Data](articles/792dbec0.json)
-
-[Extended Data](ext_articles/792dbec0.ext.json)
-
----
-
-### Hearing of case against ex-MP Sajin Vass postponed to Dec.
-
-*2025-09-22 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112776/hearing-of-case-against-ex-mp-sajin-vass-postponed-to-dec) · `en`
-
-The Colombo Magistrate’s Court today (22) has ordered former Parliamentarian Sajin Vass Gunawardena to file a written submission on December 16, if he has any reasons for failing to pay income tax amounting to nearly Rs. 36.9 million.
-
-The directive was issued when the case was taken up before Colombo Additional Magistrate Oshadha Migara Mahaarachchi, today (22), Ada Derana reporter said.
-
-The case was filed in 2023 by the Inland Revenue Commissioner over the alleged non-payment of income tax for the assessment years 2010 and 2012.
-
-Gunawardena, who is currently out on bail, was present in court during the proceedings today.
-
-Attorney-at-Law Jeewantha Jayathilake, appearing on behalf of former MP Gunawardena, informed court that his client had filed a petition before the Supreme Court against the move to file a case before the Magistrate’s Court.
-
-Accordingly, the petition has been fixed for hearing on March 26 next year.
-
-...
-
-[Data](articles/f23be74c.json)
-
-[Extended Data](ext_articles/f23be74c.ext.json)
-
----
-
-### Massive tax cut in India
-
-*2025-09-22 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214872) · `si`
-
-Indian Prime Minister Narendra Modi has announced a massive cut of taxes (GST) rates on goods and services.
-
-The Indian Prime Minister has told the race yesterday (21).
-
-The Prime Minister Modi has said that the people will be able to buy more of the items for the daily consumption with the "next generation reforms".
-
-The Prime Minister states that it will also allow Native manufacturers to decrease GST ratios on the lower ratios imposed on the products produced in India.
-
-Prime Minister Modi urges the people to buy more in their country's manufactured.
-
-Prime Minister Modi emphasizes that the GST tax cuts will bring great relief to the country's prestigious tax cut.
-
-◼️
-
-[Data](articles/4dfd024d.json)
-
-[Extended Data](ext_articles/4dfd024d.ext.json)
-
----
-
-### Fire on a ship that anchored at the Harbor of Gujarat
-
-*2025-09-22 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225756) · `ta`
-
-A fire broke out on a ship that was anchored at Porbandar Subhashnagar port in Gujarat.
-
-Three fire trucks have been sent to the scene to bring the fire under control.
-
-The ship belongs to HRM & Sons of Jamnagar. It was on a fire as it was going to Somalia's Boseo.
-
-It was dragged to the middle of the ocean as the fire intensified in the ship where rice was loaded. The move helped to prevent the spread of fire to other ships in the port.
-
-Work on extinguishing the fire is ongoing. It is worth noting that the cause of the fire is being investigated.
-
-◼️
-
-[Data](articles/9c637935.json)
-
-[Extended Data](ext_articles/9c637935.ext.json)
-
----
-
-### Sri Lanka’s Softlogic Finance to resume business, after central bank lifts restrictions
-
-*2025-09-22 16:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-finance-to-resume-business-after-central-bank-lifts-restrictions-241534/) · `en`
-
-ECONOMYNEXT – Softlogic Finance said it will re-launch all its business activities, including re-commencing and accepting new deposits, after Sri Lanka’s central bank lifted regulatory restrictions effective 19 September.
-
-“Softlogic Finance PLC has successfully restored its core capital position in line with the requirements of the Department of Supervision of Non-Bank Financial Institutions of the Central Bank of Sri Lanka,” the company said in a stock exchange filing.
-
-This was achieved through “structured and effective capital enhancement” through its parent company, Softlogic Capital PLC, it said.
-
-With the approval of CBSL’s governing board, Softlogic Finance said will re-launch all its business activities including re-commencing and accepting new deposits, re-opening all lines of distribution channels both individual and institutional investors and aggressively pursue its business growth plans to re-position itself in the financial industry.
-
-◼️
-
-[Data](articles/4858256e.json)
-
-[Extended Data](ext_articles/4858256e.ext.json)
-
----
-
-### A written inspection to recruit two positions in the police
-
-*2025-09-22 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214871) · `si`
-
-The written inspection to recruit officials for the sub-inspector of Police and Police Constable, the Government Gazette No. 2442 - 2025.20, will be held on 04.05.2015.
-
-Accordingly, 7,036 examination candidates will be held in seven examination centers island wide.
-
-Written inspection for the sub-inspector post will be held from 01st to 4:00 pm on October.
-
-By 2025.09.2015, the candidates are able to prompt exam tickets for the examination tickets on 011- 2687333 or 011-26873329.
-
-◼️
-
-[Data](articles/45ab04b7.json)
-
-[Extended Data](ext_articles/45ab04b7.ext.json)
-
----
-
-### CEB employee arrested for accommodation
-
-*2025-09-22 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214870) · `si`
-
-A Ceylon Electricity Board (CEB) was arrested by the Police Narcotics Bureau in Middeniya.
-
-It is reported that investigations have been taken into custody in the suspect's possession.
-
-◼️
-
-[Data](articles/5f2e5122.json)
-
-[Extended Data](ext_articles/5f2e5122.ext.json)
-
----
-
-### A person who has been cheating as a doctor for 20 years
-
-*2025-09-22 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225748) · `ta`
-
-A 54 -year -old man, who has been accused of cheating as a doctor for about two decades, has been arrested yesterday evening (21).
-
-The suspect from the Teltuwa area of ​​Vatuwa has operated a medical center called Sahana Seva near Sri Tharakarama Vihara.
-
-The Sri Lanka Medical Council owned by someone else used the registration number of patients, police said.
-
-Investigations have also found that the station has unlicensed drugs.
-
-◼️
-
-[Data](articles/abd6fa6e.json)
-
-[Extended Data](ext_articles/abd6fa6e.ext.json)
-
----
-
-### Gun Ravi Rescue Rescue
-
-*2025-09-22 16:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மண்டைதீவு-மைதானம்-புனரமைப்பு-பணியில்-துப்பாக்கி-ரவைகள்-மீட்பு/71-365068) · `ta`
-
-Yall. The inaugural reconstruction work was carried out last Saturday (20). In the meantime, the gun ravages were found
-
-Initial work is currently underway in the Mandi Island area of ​​the town police division.
-
-In this case, a number of T56 rifles were discovered. Information has been provided to the Kayts police
-
-Resurrection. The permission was rescued on Monday (21) on Monday (21st) in accordance with the Kayts Court order in accordance with the request of the Kayts Court on Sunday (21).
-
-◼️
-
-[Data](articles/0cfca945.json)
-
-[Extended Data](ext_articles/0cfca945.ext.json)
-
----
-
-### National inflation rises
-
-*2025-09-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214869) · `si`
-
-According to the National Customer Price Index (NCPI), the country's point of surface increased to 1.5%.
-
-The latest report issued by the Department of Census and Statistics indicate the value of this value in July 2025.
-
-The feeding of food recorded as 2.2% in July increased to 2.9% in August.
-
-The latest report released by the Department of Census and Statistics that the non-food nor of food inflation increased to 0.4% in July.
-
-◼️
-
-[Data](articles/fee33691.json)
-
-[Extended Data](ext_articles/fee33691.ext.json)
-
----
-
-### Sri Lanka’s inflation climbs to 1.5% in August
-
-*2025-09-22 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112774/sri-lankas-inflation-climbs-to-15-in-august) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 1.5% in August 2025, compared to 0.7% in July 2025, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has increased to 2.9% in August compared to 2.2% in July and the Year-on-Year inflation of the non-food group increased to 0.4% last month from -0.6% in July.
-
-The contribution of food commodities to inflation was 1.26% in August compared to July, 2025.
-
-The NCPI for all items for the month of August 2025 is 207.2 and it records a decrease of 1.1 in index points compared to July.
-
-◼️
-
-[Data](articles/af26fb53.json)
-
-[Extended Data](ext_articles/af26fb53.ext.json)
-
----
-
-### 700,000 newly owned work to the public service
-
-*2025-09-22 15:38:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයට-අලුතෙන්-70000ක්/11-418652) · `si`
-
-The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, was held under the patronage of the Ministry of Health and Mass Media to the Ministry of Health and Mass Media, the Chief of Health and Mass Media.
-
-In the Eastern Province, two main hospital, seven primary medical care and financial units of development projects, the current condition of the development projects, and the main health care, financial management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management. Repairs, field duties and transportation, data, nutritional problems and nutrition and nutrition, demonstration, the deviation program, the disposal and non-deviation program, expiry program, expired diseases, and the clinical waste disposal program was discussed.
-
-...
-
-[Data](articles/2368f829.json)
-
-[Extended Data](ext_articles/2368f829.ext.json)
-
----
-
-### Quinton de Cock re-group
-
-*2025-09-22 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214868) · `si`
-
-The farewell decision has been canceled from the queen de Coke one day.
-
-Accordingly, the South African squad has been named to the South African squad for Quewton de Cock.
-
-After the World Cup, the de Cock retired from the International Ground of ODIs.
-
-◼️
-
-[Data](articles/57576baf.json)
-
-[Extended Data](ext_articles/57576baf.ext.json)
-
----
-
-### Sri Lanka AKD’s 1-year: broken promises, modest gains, and lingering questions
-
-*2025-09-22 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-akds-1-year-broken-promises-modest-gains-and-lingering-questions-241522/) · `en`
-
-ECONOMYNEXT – When Anura Kumara Dissanayake (AKD) swept into office a year ago, it marked the first time a leftist leader from the National People’s Power (NPP) had captured Sri Lanka’s presidency.
-
-Riding a wave of frustration with mainstream parties and promising a “new political culture,” Dissanayake presented himself as the face of accountability, anti-corruption, and people-centered governance after years of economic hardship and elite impunity.
-
-Ordinary citizens measure a government by their daily hardships. By this yardstick, many feel disappointed. Many people still praise AKD’s anti-corruption policies and some accountability measures. However, they complain that their cost of living has not reduced much. Others, especially youth who voted for change, express frustration that systemic issues are unchanged.
-
-Polls indicate a dip in AKD’s popularity from the euphoria of election night. Opposition parties sense an opening, accusing him of betraying his own voters.
-
-...
-
-[Data](articles/25b31788.json)
-
-[Extended Data](ext_articles/25b31788.ext.json)
 
 ---

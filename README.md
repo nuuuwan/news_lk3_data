@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 11:20:26**
+As of **2025-09-23 10:20:40**
 
 ## Newspaper Stats
 
-*Scraped **77,621** Articles*
+*Scraped **77,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,371 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 633
 bbccomsinhala | 677
 colombotelegraphcom | 788
-economynextcom | 4,687
+economynextcom | 4,685
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,535
-adaderanalk | 10,058
-tamilmirrorlk | 11,678
-virakesarilk | 12,629
-adaderanasinhalalk | 13,557
+adalk | 7,531
+adaderanalk | 10,051
+tamilmirrorlk | 11,671
+virakesarilk | 12,625
+adaderanasinhalalk | 13,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,606 (100.0%) of 77,621 articles have been extended.
+77,593 (100.0%) of 77,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### රුපියල් මිලියන 200ක තේ පොහොර සහනාධාරයට QR කේතයක් එයි
-
-*2025-09-23 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214902) · `si`
-
-තේ කර්මාන්තයේ යෙදී සිටින ගොවීන්ට පොහොර සහනාධාර ලබා දීමේදී ඇතිවන ගැටලු මගහරවා ගැනීම සඳහා ඉදිරියේදී පොහොර ලබා දීමේදී QR කේතයක් ලබා දීමට සැලසුම් කරන බව වැවිලි සහ ප්‍රජා යටිතල පහසුකම් පිළිබඳ අමාත්‍ය සමන්ත විද්‍යාරත්න මහතා පවසයි.
-
-අද (23) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඒ මහතා පැවසුවේ මේ සඳහා කැබිනට් අනුමැතියද මේ වන විට ලබා ගෙන ඇති බවත් ඒ අනුව එහි පළමු අදියර මෙම මස 26 වැනිදා මතුගම ප්‍රදේශයේදී මෙම ක්‍රියාවලිය ආරම්භ කරන බවය.
-
-ඒ අනුව ඉදිරියේදී ලබා දෙන රුපියල් මිලියන 200ක තේ පොහොර සහනාධාරය සඳහා මෙම QR කේතය ක්‍රියාත්මක කරන බව අමාත්‍යවරයා මෙහිදී අදහස් දක්වමින් පැවසීය
-
-...
-
-[Data](articles/a29d38b2.json)
-
----
-
-### தங்காலை போதைப்பொருள் லொறி உரிமையாளர் கைது
-
-*2025-09-23 11:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-போதைப்பொருள்-லொறி-உரிமையாளர்-கைது/175-365113) · `ta`
-
-போதைப்பொருள் ஏற்றப்பட்ட லொறி யின் உரிமையாளர் என்று கூறப்படும் ஒரு இளைஞன் எல்பிட்டிய, வல்பகல பகுதியில் வைத்து இன்று (23) காலை விசாரணைக்காக கைது செய்யப்பட்டதாக எல்பிட்டிய பொலிஸார் தெரிவித்தனர்.
-
-சந்தேக நபர் எல்பிட்டிய வல்பகல பகுதியைச் சேர்ந்த 25 வயதுடைய போதைப்பொருள் அடிமையானவர். சந்தேக நபரின் பெயரில் ஒரு லொறி  இருந்தாலும், வீட்டில் ஒரு சைக்கிள் கூட இல்லை என்றும் பொலிஸார் கூறுகின்றனர்.
-
-வெளிநாட்டிலிருந்து அவருக்கு வந்த தொலைபேசி அழைப்பின்படி, போதைப்பொருள் பயன்படுத்தும் போது சில ஆவணங்களில் கையெழுத்திட அவர் கொழும்புக்குச் சென்றார், மேலும் அவரிடம் லொறி  இல்லை. சந்தேக நபரை இன்று (23) பிற்பகல் தங்காலை பொலிஸாரிடம் ஒப்படைக்க திட்டமிடப்பட்டது. இது குறித்து எல்பிட்டிய பொலிஸார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/26706433.json)
-
----
-
-### මොරටුව හිටපු නගරාධිපති සමන් ලාල් ප්‍රනාන්දුට ඇප
-
-*2025-09-23 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214901) · `si`
-
-අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් අත්අඩංගුවට ගත් මොරටුව මහනගර සභාවේ හිටපු නගරාධිපති සමන් ලාල් ප්‍රනාන්දු මහතාට ඇප ලබා දී තිබේ.
-
-මොරටුව මහ නගර සභාවේ මාර්ග සංවර්ධන ව්‍යාපෘති සිය හිතවතුන්ට ලබාදීමෙන් රජයට පාඩුකිරීම සම්බන්ධයෙන් වන චෝදනාවකට ඒ මහතාව පසුගිය  සැප්තැම්බර් මස 10 වනදා අත්අඩංගුවට ගනු ලැබීය.
-
-◼️
-
-[Data](articles/1a409ab0.json)
-
----
-
-### எச்1பி விசா கட்டண உயர்வு கெடுபிடி: சீனா ‘கே’ விசா
-
-*2025-09-23 10:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எச்1பி-விசா-கட்டண-உயர்வு-கெடுபிடி-சீனா-கே-விசா/50-365112) · `ta`
-
-எச்1பி விசா கட்டணத்தை அமெரிக்க அரசு உயர்த்தியதற்கு அந்த நாட்டு நிபுணர்கள், தொழிலதிபர்கள் கடும் எதிர்ப்பு தெரிவித்துள்ளனர். இதற்கிடையே இந்திய மென்பொறியாளர்களை ஈர்க்க, அதிக நிபந்தனைகள் இல்லாத, எளிதில் பெறக்கூடிய ‘கே’ விசாவை சீன அரசு அறிமுகம் செய்துள்ளது.
-
-அமெரிக்காவில் தற்காலிகமாக பணியாற்றுவோருக்கு எச்1பி விசா வழங்கப்படுகிறது. இதற்கான கட்டணத்தை ரூ.1.32 லட்சத்தில் இருந்து ரூ.88 லட்சமாக அமெரிக்க அரசு திடீரென உயர்த்தியுள்ளது. இதன்மூலம், அமெரிக்க நிறுவனங்களில் இந்திய மென்பொறியாளர்கள் சேர்வதை தடுக்க மறைமுகமாக முயற்சி மேற்கொள்ளப்படுகிறது.
-
-...
-
-[Data](articles/4497e76a.json)
-
----
-
-### Khalistan militant Indrajit Singh arrested in Canada
-
-*2025-09-23 10:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காலிஸ்தான்-தீவிரவாதி-இந்திரஜித்-சிங்-கனடாவில்-கைது/50-365111) · `ta`
-
-Kallis is the separatist system in the name of 'SFJ) in the United States of America.. Drajit Singh Gosal (36) has been acting as a Canada Nirmai.
-
-Canada police arrested him for being considered by Qur'an Bad Singh Ban Pan.. Dharajit Singh Kosal was arrested on bail last year on bail of the Hindu Koi Lil, Canada.
-
-◼️
-
-[Data](articles/7ce13ef4.json)
-
-[Extended Data](ext_articles/7ce13ef4.ext.json)
-
----
-
-### Hong Kong braces for world’s most powerful typhoon this year
-
-*2025-09-23 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112816/hong-kong-braces-for-worlds-most-powerful-typhoon-this-year) · `en`
-
-Typhoon Ragasa is churning towards Hong Kong, generating winds of up to 220kmh.
-
-It is the world’s most powerful tropical typhoon this year, with officials warning that it would be among the most destructive storms in the city’s recent history.
-
-Hong Kong closed schools and cancelled flights on Tuesday (Sep 23), while authorities in mainland China have ordered businesses and schools to shut in at least 10 cities.
-
-Although Ragasa will not directly hit Taiwan, its outer bands are expected to bring heavy rain to the island’s sparsely populated east coast.
-
-A sea warning is effective in the Taiwan Strait, but a land warning was lifted at 8.30am.
-
-Taiwan’s Central Weather Administration said rain will continue into the night across the island.
-
-It’s quiet on this market street in Wan Chai on Hong Kong Island.
-
-Usually, this area would be bustling with crowds shopping at the various stalls. But many vendors decided to stay closed due to warnings about Super Typhoon Ragasa.
-
-...
-
-[Data](articles/b771810c.json)
-
----
-
-### Appointment of Four Response Ministers
-
-*2025-09-23 10:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்கு-பதில்-அமைச்சர்கள்-நியமனம்/175-365110) · `ta`
-
-Following the departure of the United States to attend the United Nations General Assembly (Unga), President Anuragumara Dissanayake has been appointed ministers in response to key ministries.
-
-President Dissanayake with Foreign, Foreign Employment and Tourism Minister Vijitha Hera. Left the country on Monday (22) evening,
-
-Labor Minister and Deputy Minister of Economic Development Dr. Anil Jayantha Fernando, Minister of Finance, Planning and Economic Development.
-
-Deputy Minister of Foreign Affairs and Foreign Employment
-
-◼️
-
-[Data](articles/207888d7.json)
-
-[Extended Data](ext_articles/207888d7.ext.json)
-
----
-
-### Belgium, Malta, Andorra, Monaco and Luxembourg recognise Palestinian state at UN meeting
-
-*2025-09-23 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112815/belgium-malta-andorra-monaco-and-luxembourg-recognise-palestinian-state-at-un-meeting) · `en`
-
-Belgium, Malta, Andorra, Monaco and Luxembourg have announced that they officially recognise the State of Palestine, joining a growing list of nations declaring recognition at an international conference in New York.
-
-The leaders of the three countries made the announcements during the gathering on Palestine and the two-state solution, held on the eve of the UN General Assembly.
-
-The move drew applause from delegates and was hailed as a boost to international momentum for Palestinian statehood.
-
-“This recognition reflects our firm belief in peace and justice, and in the right of the Palestinian people to self-determination,” Malta’s prime minister said.
-
-His Luxembourg counterpart described it as a “historic decision,” while Belgium said the step aligned with its longstanding support for a negotiated two-state solution.
-
-French President Emmanuel Macron earlier announced recognition at the same meeting.
-
-...
-
-[Data](articles/568b0ddc.json)
-
----
-
-### Arrest of former female member of Mottin
-
-*2025-09-23 10:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டின்-முன்னாள்-பெண்-உறுப்பினர்-கைது/175-365109) · `ta`
-
-Moragahana police have arrested a former member of the Sri Lanka PA, a former member of the Sri Lanka Peoples Alliance (PA), who was dumping treasure in a rock suspected of historical significance behind her house.
-
-The arrested female member is the representative of the Horana Pradeshiya Sabha, police said.
-
-The suspect and her grandson were arrested with the chemicals used for treasure hunting, a hilde machine, many spirals, several wire cords and a pawn and clay lamp used for peace rituals.
-
-Police say that a woman and many others were able to arrest the woman and her grandson on the spot following a telephone news that a woman and many others were digging a rock behind her house by 119 emergency calls to the Moragahena police.
-
-◼️
-
-[Data](articles/c89298d3.json)
-
-[Extended Data](ext_articles/c89298d3.ext.json)
-
----
-
-### Harsha Iluhpitiya sentenced to two years in prison
-
-*2025-09-23 10:41:01* · [`adalk`](https://www.ada.lk/breaking_news/හර්ෂ-ඉලුක්පිටියට-වසර-02ක-සිරදඬුවම්/11-418663) · `si`
-
-The Supreme Court today ordered Harsha Delukpitiya for two years to be sentenced to Harsha Delukpitiya for two years.
-
-Supreme Court Judge Yasantha Kodagoda gave the decision with the agreement of Judges Arjuna Obeysekera.
-
-◼️
-
-[Data](articles/ca24a73e.json)
-
-[Extended Data](ext_articles/ca24a73e.ext.json)
-
----
-
-### Immigration Controller Harsha Ilukpitiya sentenced to two years in prison for contempt of court
-
-*2025-09-23 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112814/immigration-controller-harsha-ilukpitiya-sentenced-to-two-years-in-prison-for-contempt-of-court) · `en`
-
-The Supreme Court today (23) sentenced Harsha Ilukpitiya, the Controller General of Immigration and Emigration, to two years of imprisonment after being found guilty of contempt of court, Ada Derana reporter said.
-
-The verdict was pronounced by Justice Yasantha Kodagoda, with the concurrence of Justices Janak de Silva and Arjuna Obeyesekere.
-
-While delivering the ruling, Justice Kodagoda stated that Harsha Ilukpitiya had committed a serious act of contempt against the judiciary through his actions.
-
-During the tenure of the previous government, the Cabinet of Ministers approved a proposal to outsource the electronic visa issuance process to two private companies. However, the Supreme Court later issued an interim injunction suspending the move and ordered the resumption of the previous visa issuance procedure.
-
-...
-
-[Data](articles/147aa6d1.json)
-
----
-
-### Harsha Ilukpitiya a two year prison
-
-*2025-09-23 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214900) · `si`
-
-The Supreme Court has been sentenced to two years in prison to the Controller of Immigration and Emigration.
-
-Supreme Court Judge Yasantha Kodagoda gave the decision with the agreement of Judges Arjuna Obeysekera.
-
-Harshara, Harshara, Harsharala Harsharala Harsharala Harshara Harshara Kapitiya has committed a serious insult to court and stated that the judge said.
-
-◼️
-
-[Data](articles/94ebd3af.json)
-
-[Extended Data](ext_articles/94ebd3af.ext.json)
-
----
-
-### பேர்ள் கப்பல் விபத்து: ஒரு பில்லியன் அமெரிக்க டொலர் இழப்பீட்டை வழங்க சிங்கப்பூர் கப்பல் நிறுவனம் மறுப்பு
-
-*2025-09-23 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/225816) · `ta`
-
-கடந்த 2021ஆம் ஆண்டு இலங்கையின் கொழும்புத் துறைமுகத்தை அண்மித்த கடல்பகுதியில் மூழ்கிய எம்வி எக்ஸ்-பிரஸ் பேர்ள் (MV X-Press Pearl) கப்பலால் ஏற்பட்ட சுற்றுச்சூழல் பாதிப்புக்கு, இலங்கை நீதிமன்றம் உத்தரவிட்ட ஒரு பில்லியன் அமெரிக்க டொலர் இழப்பீட்டை வழங்க சிங்கப்பூரைத் தலைமையிடமாகக் கொண்ட எக்ஸ்-பிரஸ் ஃபீடர்ஸ் கப்பல் நிறுவனம் மறுத்துள்ளது.
-
-எக்ஸ்-பிரஸ் ஃபீடர்ஸ் நிறுவனத்தின் தலைமை நிர்வாகி ஷ்முவேல் யோஸ்கோவிட்ஸ் (Shmuel Yoscovits ), ஒரு நேர்காணலில், இந்த இழப்பீட்டுத் தொகையைச் செலுத்துவது உலகளாவிய கப்பல் போக்குவரத்தில் எதிர்மறையான தாக்கங்களை ஏற்படுத்தும் என்று தெரிவித்துள்ளார்.
-
-மேலும், இத்தகைய பெரும் தொகையைச் செலுத்துவது, எதிர்காலத்தில் இதுபோன்ற சம்பவங்களுக்கு ஒரு "ஆபத்தான முன்னுதாரணத்தை" ஏற்படுத்தும் என்றும் அவர் குறிப்பிட்டுள்ளார்.
-
-சிங்கப்பூரில் பதிவுசெய்யப்பட்ட கொள்கலன் கப்பலான எம்வி எக்ஸ்-பிரஸ் பேர்ள், 2021ஆம் ஆண்டு மே மாதம் கொழும்புத் துறைமுகத்தை அண்மித்த கடற்பரப்பில் தீப் பிடித்து எரிந்ததையடுத்து கடலில் மூழ்கியது.
-
-...
-
-[Data](articles/868d81b7.json)
-
----
-
-### Justice Minister to attend first review of Committee on Enforced Disappearances in Geneva
-
-*2025-09-23 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112813/justice-minister-to-attend-first-review-of-committee-on-enforced-disappearances-in-geneva) · `en`
-
-Minister of Justice and National Integration Harsha Nanayakkara is scheduled to depart for Geneva, Switzerland, on Wednesday (24), to participate in the first periodic review of Sri Lanka by the Committee on Enforced Disappearances.
-
-◼️
-
-[Data](articles/ac572a62.json)
-
----
-
-### Electricity employees' leave canceled immediately
-
-*2025-09-23 10:21:13* · [`adalk`](https://www.ada.lk/breaking_news/වහාම-ක්‍රියාත්මක-වන-පරිදි-විදුලිබල-සේවකයන්ගේ-නිවාඩු-අවලංගු-කෙරේ/11-418661) · `si`
-
-Recession of notice of the CEB has been canceled again.
-
-The General Manager of the CEB has informed this in writing.
-
-◼️
-
-[Data](articles/c25a2bfa.json)
-
-[Extended Data](ext_articles/c25a2bfa.ext.json)
-
----
-
-### If I go to the salt, there is the ice, the ice
-
-*2025-09-23 10:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-உப்பு-அகழ-போனால்-அங்கு-அள்ள-அள்ள-ஐஸ்-வருகிறது/62-365106) · `ta`
-
-If the salt excavation operation in Hambantota is carried out, the TamilMmir's thinking is being embedded as an ice drug.. The place where the ice is addictive is, the whip is built around.
-
-◼️
-
-[Data](articles/7916c3f8.json)
-
-[Extended Data](ext_articles/7916c3f8.ext.json)
-
----
-
-### If I go to the salt, there is ice, peeling,
-
-*2025-09-23 10:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-உப்பு-அகழ-போனால்-அங்கு-ஐஸ்-அள்ள-அள்ள-வருகிறது/62-365106) · `ta`
-
-If the salt excavation operation in Hambantota is carried out, the TamilMmir's thinking is being embedded as an ice drug.. The place where the ice is addictive is, the whip is built around.
-
-◼️
-
-[Data](articles/fc78c71c.json)
-
-[Extended Data](ext_articles/fc78c71c.ext.json)
-
----
-
-### Be careful - an inspired announcement
-
-*2025-09-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214899) · `si`
-
-The Department of Meteorology has issued an announcement of strong winds and rough sea.
-
-The announcement is in effect from 9.30 am to 24 hours.
-
-Accordingly, the Department of Meteorology has informed the public concerned with the people of sea areas from Galle to Matara and Hambantota.
-
-The coast of the coast extending from Chilaw to Mannar victory is increasing to 50 to 60 hours, rough at times.
-
-Sea areas in the sea areas off the coast extending from Negombo to Galle, Matara and Hambantota can increase between 2.5m.
-
-As a result, the Department of Meteorology is informed that there is a possibility of land to land from Negombo to Galle, Matara and Hambantota.
-
-◼️
-
-[Data](articles/22b19f8d.json)
-
-[Extended Data](ext_articles/22b19f8d.ext.json)
-
----
-
-### எம்பிலிபிட்டிய பகுதியில் வீதி விபத்து : ஒருவர் பலி!
-
-*2025-09-23 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225814) · `ta`
-
-எம்பிலிபிட்டிய பொலிஸ் பிரிவுக்குட்பட்ட எம்பிலிபிட்டிய - நோனாகம வீதியில் உள்ள சுதுபாலம எனும் பாலத்திற்கு அருகில் ஏற்பட்ட விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
-
-எம்பிலிபிட்டியவிலிருந்து நோனாகம நோக்கிச் சென்ற லொறி, எதிர் திசையில் இருந்து வந்த முச்சக்கர வண்டியுடன் மோதி விபத்துக்குள்ளானது.
-
-விபத்தில் முச்சக்கர வண்டியின் சாரதி காயமடைந்து எம்பிலிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
-
-◼️
-
-[Data](articles/ab0a6140.json)
-
----
-
-### மொனராகலையில் மரகல காட்டுப் பகுதியில் தீ பரவல் !
-
-*2025-09-23 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225813) · `ta`
-
-மொனராகலை பொலிஸ் பிரிவுக்குட்பட்ட மரகல பகுதியிலுள்ள காட்டில் தீ பரவல் ஏற்பட்டதாக மொனராகலை பொலிஸார் தெரிவித்துள்ளனர்.
-
-தீ பரவல் ஏற்பட்டதாக மொனராகலை பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலுக்கமைய, மொனராகலை பொலிஸ் நிலைய அதிகாரிகள், இராணுவ அதிகாரிகள், அனர்த்த முகாமைத்துவ நிலைய அதிகாரிகள் மற்றும் குடியிருப்பாளர்கள் இணைந்து தீயை கட்டுப்படுத்தும் பணியில் ஈடுபட்டுள்ளனர்.
-
-திங்கட்கிழமை (செப்டம்பர் 22 ) இரவு இந்த சம்பவம் பதிவாகியுள்ளதாக பொலிஸ் ஊடகப்பிரிவு வெளியிட்டுள்ள அறிக்கையில் தெரிசவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/3df3d0da.json)
-
----
 
 ### Buddhist monk arrested in flower pots
 
@@ -395,116 +49,6 @@ DIG in Badulla District, DIG Laksiri Wijesena Bandarawela Senior Superintendent 
 [Data](articles/43a2c316.json)
 
 [Extended Data](ext_articles/43a2c316.ext.json)
-
----
-
-### Air India crash aftermath handled ‘irresponsibly’, says court
-
-*2025-09-23 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112812/air-india-crash-aftermath-handled-irresponsibly-says-court) · `en`
-
-The highest court in India has strongly criticised the country’s aviation authorities for their handling of the aftermath of the Air India plane crash that killed 261 people in June.
-
-Leaving only one survivor, the flight bound for Gatwick airport from Ahmedabad crashed shortly after taking off, killing 242 passengers on board and 19 others on the ground.
-
-The court said it was “irresponsible” for the aviation authority to suggest, through leaks to the media, that pilot error had caused the disaster.
-
-It called on Indian prime minister Narendra Modi for the government’s response before it rules on a case filed by activists demanding an independent investigation.
-
-The court said the way the aviation body released its preliminary report in to the Boeing Dreamliner’s crash was “selective and piecemeal”.
-
-The preliminary report, published by India’s Aircraft Accident Investigation Bureau (AAIB) in July, said fuel supply to the engines was cut off just seconds after take-off.
-
-...
-
-[Data](articles/2201fdfa.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-23 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241562/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.40/60 to the US dollar on Tuesday, from 302.45/60 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.03.2028 was quoted flat at 8.90/9.00 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.48/52 percent, down from 9.47/57 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/72 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.43/47 percent, from 10.38/44 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.66/70 percent.
-
-The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.0000 selling; the British pound was 403.3856 buying, and 414.7474 selling, and the euro was 351.0459 buying, 362.4091 selling.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.38 percent, or 80.94 points, at 21,307; the S&P SL20 was up 0.43 percent, or 26.05 points, at 6,083.
-
-...
-
-[Data](articles/947e1f22.json)
-
-[Extended Data](ext_articles/947e1f22.ext.json)
-
----
-
-### Anura will commence to American visit
-
-*2025-09-23 09:45:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-ඇමෙරිකා-සංචාරය-අරඹයි/11-418657) · `si`
-
-The Airporting Officer in charge of the airport was leaving the US at Katunayaka airport on the night of the ODI on the 80th session of the United Nations General Assembly.
-
-He left the Minister of Foreign Affairs, Foreign Employment and Tourism Promotion, Vijitha Herath and several other government officials.
-
-They will go to Dubai on the 655 at the Emirates Airport on the 655.
-
-President Anura Kumara Dissanayake has planned to leave for a tour of Japan on 09/27.
-
-◼️
-
-[Data](articles/39ade38f.json)
-
-[Extended Data](ext_articles/39ade38f.ext.json)
-
----
-
-### Four Acting Ministers appointed during President’s visit to US and Japan
-
-*2025-09-23 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112811/four-acting-ministers-appointed-during-presidents-visit-to-us-and-japan-) · `en`
-
-Four Acting Ministers have been appointed to key ministries following the departure of President Anura Kumara Dissanayake to the United States to attend the United Nations General Assembly.
-
-President Dissanayake left the island last evening on a Dubai-bound flight.
-
-President Dissanayake was accompanied on his US visit by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
-
-The appointments, announced by the President’s Media Division (PMD), are as follows:
-
-• Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando has been appointed as the Acting Minister of Finance, Planning and Economic Development.
-
-• Deputy Minister of Digital Economy, Eranga Weeraratne has been appointed as the Acting Minister of Digital Economy.
-
-• Deputy Minister of Defense, Aruna Jayasekara has been appointed as the Acting Minister of Defense.
-
-...
-
-[Data](articles/fe72a404.json)
-
----
-
-### கடற்றொழிலுக்கு சென்ற இருவர் மாயம் !
-
-*2025-09-23 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225812) · `ta`
-
-கல்பிட்டி பொலிஸ் பிரிவுக்குட்பட்ட சின்னக்குடியிருப்பு கடற்பகுதியில் இருந்து படகு ஒன்றில் மீன்பிடிக்கச் சென்ற இருவர் மீண்டும் கரைக்குத் திரும்பவில்லை என செப்டம்பர் 21ஆம் திகதியன்று கல்பிட்டி பொலிஸ் நிலையத்தில் முறைப்பாடளிக்கப்பட்டுள்ளது.
-
-காணாமல் போனவர்கள் 27 மற்றும் 34 வயதுடைய கல்பிட்டி பகுதியைச் சேர்ந்தவர்கள் என தெரிவிக்கப்படுகிறது.
-
-காணாமல் போனவர்களைத் தேடும் பணியில் கல்பிட்டி பொலிஸ் நிலைய அதிகாரிகள் மற்றும் கடற்படை அதிகாரிகள் இணைந்து ஈடுபட்டு வருவதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/e0203642.json)
 
 ---
 
@@ -598,26 +142,6 @@ Considering the essential for maintaining the riches and that there could be a b
 
 ---
 
-### Leave of all CEB employees cancelled
-
-*2025-09-23 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112810/leave-of-all-ceb-employees-cancelled) · `en`
-
-Leave of all employees of the Ceylon Electricity Board (CEB) has been cancelled.
-
-The General Manager of the CEB has stated that the directive will be in place until further notice.
-
-An Extraordinary Gazette notification was issued by President Anura Kumara Dissanayake on Sunday (21), declaring all services connected to the supply of electricity as essential public services.
-
-The order issued by the President states that services provided by any Public Corporation, Government Department, Local Authority, or Co-operative Society engaged in the supply of electricity are likely to be impeded or interrupted, thereby necessitating the declaration.
-
-With the declaration, all services related to electricity supply are being treated as essential public services.
-
-◼️
-
-[Data](articles/657a9434.json)
-
----
-
 ### Four acting ministers appointed
 
 *2025-09-23 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214896) · `si`
@@ -651,28 +175,6 @@ However, the folk media has reported that the company has refused to pay the com
 [Data](articles/90c8e268.json)
 
 [Extended Data](ext_articles/90c8e268.ext.json)
-
----
-
-### Sri Lanka’s national inflation rises to 1.5-pct in August
-
-*2025-09-23 08:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-inflation-rises-to-1-5-pct-in-august-241559/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s national-wide inflation price inflation rises to 1.5 percent in 12-months to August July 2025, rising from 0.7 percent in July, with food prices rising 2.9 percent over the year, data from the state statistics office showed.
-
-The  National Consumer Price Index (NCPI) fell 0.5 percent over the month of August.
-
-The National Consumer Price Index, an alternative to the widely watched Colombo Consumer Price Index, fell 0.5 percent over the month of August to 207.2 points.
-
-The central bank has missed its 5 percent inflation target, which is sometimes seen as deflation when 12-month data is taken into account, but prices have moved up marginally since 2022.
-
-Critics have pointed out that under cover of the 5 percent inflation target the central bank triggered back-to-back currency crises since the end of a 30-year war in 2012, 2015/16, 2018 and 2020/20 collapsing the rupee from 113 to 360 to the US dollar.
-
-...
-
-[Data](articles/70d8b403.json)
-
-[Extended Data](ext_articles/70d8b403.ext.json)
 
 ---
 
@@ -1150,17 +652,13 @@ Department of Meteorology to take action to minimize the dangers of lightning an
 
 France has formally recognised a Palestinian state, becoming the latest in a wave of countries to take the step.
 
-Speaking at the UN in New York, President Emmanuel Macron said “the time for peace has come” and that “nothing justifies the ongoing war in Gaza”.
+Speaking at the UN in New York, President Emmanuel Macron said "The time for peace has come" and that "Nothing justifies the ongoing war in Gaza".
 
 France and Saudi Arabia are hosting a one-day summit at the UN General Assembly focused on plans for a two-state solution to the conflict. G7 states Germany, Italy, and the US did not attend.
 
-Belgium, Luxembourg, Malta, Andorra and San Marino are also due to recognise a Palestinian state, after the UK, Canada, Australia and Portugal announced recognition on Sunday.
+Macron confirmed that Belgium, Luxembourg, Malta, Andorra and San Marino would also recognise a Palestinian state, after the UK, Canada, Australia and Portugal announced recognition on Sunday.
 
-International pressure is ramping up on Israel over the unfolding humanitarian crisis in Gaza and settlement building in the West Bank.
-
-Israel has said recognition would reward Hamas for the Palestinian armed group’s 7 October 2023 attack on southern Israel in which about 1,200 people were killed and 251 taken hostage.
-
-...
+◼️
 
 [Data](articles/7e8d9fbc.json)
 
@@ -1190,15 +688,13 @@ Following questions for oral answers and questions under Standing Order 27(2) of
 
 *2025-09-23 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112796/showers-expected-in-several-areas-after-2pm-today) · `en`
 
-Showers will occur at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (23), the Department of Meteorology said.
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
 
-A few showers may occur in the North-western province as well.
+A few showers may occur in North-western province. Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
 
-Showers or thundershowers are likely in several places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met Department added.
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
 
-Fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Central, Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
 
 ◼️
 
@@ -1772,19 +1268,21 @@ As one of the country’s most vital industries, tourism lies at the heart of Sr
 
 *2025-09-22 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112795/president-leaves-for-us-to-attend-un-general-assembly) · `en`
 
-President Anura Kumara Dissanayake left the Bandaranaike International Airport (BIA) for the United States a short while ago, to participate in the United Nations General Assembly (UNGA) in New York.
+President Anura Kumara Dissanayake left for the United States a short while ago, to participate in the 80th session of the United Nations General Assembly.
 
-The delegation led by the President departed on a Dubai bound flight at around 10:20 p.m.
+The delegation departed on a Dubai bound flight at around 10:20 p.m.
 
-He is scheduled to leave for New York, on a connecting flight.
+He is scheduled to leave for New York City, on a connecting flight.
 
 Accompanying the President was Minister of Foreign Affairs, Foreign Employment, and Tourism Promotion Vijitha Herath, along with several other government officials.
 
-During this visit, President Dissanayake will attend the 80th session of the United Nations General Assembly.
+During this visit, President Dissanayake will attend the 80th session of the United Nations General Assembly (UNGA).
 
 The President will address the UN General Assembly on Wednesday (24) at 3:15 p.m., according to the President’s Media Division.
 
-During the visit, President Anura Kumara Dissanayake is scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
+During the visit, President Anura Kumara Dissanayake is also scheduled to hold bilateral discussions with the Secretary-General of the United Nations and several world leaders.
+
+The President will also attend a meeting with members of the Sri Lankan community residing in the United States.
 
 ...
 
@@ -1951,5 +1449,585 @@ The Ceylon Electricity Board (CEB) has warned that grid instability is a risk wh
 [Data](articles/fd037a01.json)
 
 [Extended Data](ext_articles/fd037a01.ext.json)
+
+---
+
+### Tharma troops hospitalized by Kadira's attack
+
+*2025-09-22 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214885) · `si`
+
+The elephant named "Kadirara 'elephant in the Talada Maligawa in Kandy has assaulted the elephant elephant.
+
+The elephant is being treated at the Mawanella Base Hospital.
+
+A definite statement of his situation is not possible to undergo surgery due to internal bleeding, a hospital spokesman said.
+
+The elephant had been assaulted at once and was injured and was a resident of Mawanella.
+
+◼️
+
+[Data](articles/444496f4.json)
+
+[Extended Data](ext_articles/444496f4.ext.json)
+
+---
+
+### Resolution on the 24th
+
+*2025-09-22 21:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-ஆம்-திகதி-தீர்மானம்/175-365079) · `ta`
+
+General Secretary of the Ceylon Electricity Board Freedom Employees Union Prabhat Priyantha today said that all the trade unions of the Ceylon Electricity Board (CEB) have decided to continue the upcoming struggle until next Wednesday.
+
+He said that if his demands were not received, the announcement of the trade union action would be issued on the 24th of this month.
+
+He added that the decision on whether the Identification will be a day or a continuation of the decision will be announced that day.. Remble
+
+◼️
+
+[Data](articles/b742e0bb.json)
+
+[Extended Data](ext_articles/b742e0bb.ext.json)
+
+---
+
+### Full report on tragic Ella bus crash handed over to Transport Minister
+
+*2025-09-22 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112792/full-report-on-tragic-ella-bus-crash-handed-over-to-transport-minister-) · `en`
+
+The full report on the tragic accident on the Ella–Wellawaya road on September 4, which claimed the lives of 16 people, has been handed over to Minister of Transport Bimal Rathnayake.
+
+The report was officially presented to the Minister today (22) at the Ministry of Transport, Highways, Ports, and Civil Aviation.
+
+According to the report, the bus involved in the accident had been driven by a 22-year-old, and it was his first time driving the vehicle. The report identifies that operating a bus carrying passengers along a steep and winding road — unfamiliar to the driver — was a key factor contributing to the accident.
+
+The report also highlights that the road signs and other warning boards installed along the route where the accident occurred were not adequate for an inexperienced driver to properly assess the road’s hazardous nature.
+
+It further states that the identity of the bus is also in question.
+
+...
+
+[Data](articles/b5a12fa4.json)
+
+[Extended Data](ext_articles/b5a12fa4.ext.json)
+
+---
+
+### Sajin Vaas Gunawardena submits a written report for non -payment of income tax - Court has ordered
+
+*2025-09-22 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/225800) · `ta`
+
+The Colombo Magistrate's Court on Monday ordered the submission of a written report on December 16, if there are no reasons for not paying an income tax of more than 369 lakhs of rupees to the government.
+
+He ordered the hearing of the Income Tax Payment on Sajin Vas Gunawardena on Monday (22) when the Colombo Magistrate's Court Additional Magistrate Oshita Mikara Maharachchi was taken up for hearing.
+
+In 2010, 2011 and 2012, the Commissioner of Home Affairs has filed a case against Sajin Vaas Gunawardena on charges of not paying an income tax of Rs 36,975,959 to the government.  Sajin Vaas Gunawardena, who was arrested and released on bail on the charges, appeared before the court yesterday.
+
+...
+
+[Data](articles/66a03536.json)
+
+[Extended Data](ext_articles/66a03536.ext.json)
+
+---
+
+### Report of bus handers handed over the bus accident
+
+*2025-09-22 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214884) · `si`
+
+Minister of Minimal Ratmanayake has handed over the full report on the terrible accident caused by 16 persons in the Ella area.
+
+The report was officially handed over to the Minister today at the Ministry of Highways, Ports and Civil Aviation.
+
+The report states that the road sign boards mounted on the road and other warnings on the road is not sufficient to understand the danger nature of the road.
+
+The report is also suspicious of the identity of the bus.
+
+According to the basic observation of the crash, the report states that the tyrannical of the drums of the side of the roads and after the next side of the drums had been changed.
+
+Meanwhile, the birator system of the back was a greased crystal.
+
+According to the report of the relevant committee, it has been revealed that the bus was not properly maintained and has been identified as the brake system.
+
+It has also been revealed that the bus driver had acted properly regarding the road in the area.
+
+...
+
+[Data](articles/1ffc6cf7.json)
+
+[Extended Data](ext_articles/1ffc6cf7.ext.json)
+
+---
+
+### Where are 321 drug containers in the country? Government hides the truth - Namal Rajapaksa
+
+*2025-09-22 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/225799) · `ta`
+
+Many drugs are captured in different parts of the country, including ice drugs. Only 2 containers have been found. Where are the 321 containers. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said the government is hiding the truth in the release of these containers.
+
+He was speaking to the media after a meeting with the constituency organizers held on Monday (22) at the Sri Lanka PA.
+
+The government has wasted one year.. People are now aware of the true face of the government.
+
+Members of the ruling party have increased their property and responsibilities in one year. Whether they worked in the 75 -year regime or whether they worked in this year, the problem is found.. The ruling parties must always respond.
+
+Many drugs are captured in different parts of the country, including ice drugs. Only 2 containers have been found. Where are the 321 containers.
+
+◼️
+
+[Data](articles/6766fb84.json)
+
+[Extended Data](ext_articles/6766fb84.ext.json)
+
+---
+
+### The letter spreading in the name of the Inspector General of Police is fake - police
+
+*2025-09-22 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/225798) · `ta`
+
+The letter titled "Attn: The Alleged Victim" spread on social media is fake, police said.
+
+In a fake letter spreading with the signature of the Inspector General of Police, the Inspector General of Police has said that the 'Children's and Women's Investigation Bureau' has been ordered to arrest domestic and foreign citizens who are involved in the process of watching, holding, spreading, distributing, distribution or producing children's sexual abuse pictures and videos using the Internet.
+
+This is completely false and is a action that deliberately spreads false information. The Inspector General of Police or any other official section has stated that the letter has never been issued.
+
+Spreading fake documents is legally punishable offense. For official information, the police have asked the public to rely on the notifications and media reports issued directly.
+
+◼️
+
+[Data](articles/4cc8257b.json)
+
+[Extended Data](ext_articles/4cc8257b.ext.json)
+
+---
+
+### Health Minister promises
+
+*2025-09-22 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214883) · `si`
+
+Health Minister Dr. Nalinda Jayatissa says that the construction work and development projects have been completed in the hospitals within the next two years.
+
+The Health Minister stated that a sum of Rs. 45 billion has been required for this purpose.
+
+Minister Dr. Nalinda Jayatissa said that Minister Dr. Nalinda Jayatissa said that this was a special discussion held in the Eastern Province and Kalmunai Health Development Program.
+
+The Minister of Health has also said that 1,900 health care assistants will be recruited in the next two months.
+
+He also said that a program to provide motorcycles for the health staff of field duties can also be opened by April.
+
+◼️
+
+[Data](articles/2215f6e4.json)
+
+[Extended Data](ext_articles/2215f6e4.ext.json)
+
+---
+
+### Chief of Staff of Indian Navy meets Navy Commander
+
+*2025-09-22 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112790/chief-of-staff-of-indian-navy-meets-navy-commander) · `en`
+
+Admiral Dinesh K Tripathi, the Chief of Naval Staff of the Indian Navy, who is in Sri Lanka on a four-day official visit, met with the Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda at the Navy Headquarters in Colombo today (22).
+
+The two Navy Chiefs discussed matters of mutual interest, with a focus on strengthening partnerships in the Indian Ocean Region and reinforcing the long-standing friendship between the two navies. The discussions concluded with a customary exchange of mementoes, representing the shared values and cooperative spirit between the two navies.
+
+The visit of the Indian Chief of Naval Staff also underscored the strengthening of naval cooperation, bolstering maritime security, and fostering collaborative efforts in support of regional stability, the Navy said in a meeting.
+
+...
+
+[Data](articles/1c9862e9.json)
+
+[Extended Data](ext_articles/1c9862e9.ext.json)
+
+---
+
+### ICC Women's World Cup in Sri Lanka
+
+*2025-09-22 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225797) · `ta`
+
+World Cup in the ICC Women's World Cup Cricket Tournament. Premadasa was displayed at the International Cricket Stadium.
+
+The World Cup was taken to the Ground by Sri Lankan captain Samari Athapathu.
+
+Test captain Dhananjaya de Silva, former captain Dinesh Chandimal, fast bowler Vishwa Fernando, Women's Assistant Leader Harsitha Samarawickrama and Veeranganai Nilakshika de Silva were also present.
+
+The ICC Women's World Cup will be held at the Lotus Tower tomorrow from 4.00 pm to 8.00 pm.
+
+The ICC Women's World Cup will be held on Wednesday 25th of Wednesday at a girls' school in Colombo.
+
+◼️
+
+[Data](articles/3f9f0d00.json)
+
+[Extended Data](ext_articles/3f9f0d00.ext.json)
+
+---
+
+### 4 year old dies after falling into tipper in white sun
+
+*2025-09-22 20:35:32* · [`adalk`](https://www.ada.lk/breaking_news/සුදු-ඉරේදී-ටිපර්-රථයට-යටවී-අවුරුදු-4ක-දරුවෙක්-මරුට/11-418655) · `si`
+
+The four-year-old boy has died in the road to the Ampara General Hospital over the road to the Ampara General Hospital.
+
+The mother who traveled with the child and rushed to the Ampara General Hospital with injuries.
+
+The Tipper and the driver have been arrested by the Ampara Police.
+
+The deceased has not been Poverty Abeyweera, a group of Season Abeyweera, a child
+
+◼️
+
+[Data](articles/a0a1dabf.json)
+
+[Extended Data](ext_articles/a0a1dabf.ext.json)
+
+---
+
+### Government and Provincial Councils should strengthen the fisheries sector
+
+*2025-09-22 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/225796) · `ta`
+
+A special discussion was held on Monday (22) at the Fisheries Auditorium to increase the national level productivity and increase productivity at the national level.
+
+The event was chaired by Minister of Fisheries, Aquatic and Marine Resources Minister Ramalingam Chandrasekhar and Deputy Minister Ratna Kamage.. Golitha Kamal Jinadasa, representing all the provincial councils and many senior officials, including provincial chief secretaries, leaders of the ministry, and many other senior officials were present.
+
+Minister Ramalingam Chandrasekhar pointed out that the coordination disorders between the central government and the provincial councils were wasted and the efficiency of the projects was diminished.
+
+...
+
+[Data](articles/717270f8.json)
+
+[Extended Data](ext_articles/717270f8.ext.json)
+
+---
+
+### Police issues clarification regarding letter circulating on social media
+
+*2025-09-22 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112789/police-issues-clarification-regarding-letter-circulating-on-social-media) · `en`
+
+Sri Lanka Police says a letter currently circulating on social media, claiming to have been issued under the signature of the Inspector General of Police (IGP), is completely false and fabricated.
+
+Issuing a statement, the Police Media Division said the document falsely alleges that the IGP has instructed the “Bureau for the Investigation of Abuse of Children & Women” to apprehend citizens and other residents engaged in activities relating to the viewing, possession, dissemination, distribution, or production of material depicting minors in sexually explicit conduct associated with internet protocol usage.
+
+Sri Lanka Police said no such letter has ever been issued by the Inspector General of Police or by any authorized division of the Police Department.
+
+The statement said, the document is a deliberate act of misinformation and an attempt to mislead the public.
+
+...
+
+[Data](articles/9587a7b2.json)
+
+[Extended Data](ext_articles/9587a7b2.ext.json)
+
+---
+
+### The government does not need to hand over the electricity sector to private companies under any circumstances - the president
+
+*2025-09-22 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225795) · `ta`
+
+President Anura Kumara Dissanayake stressed that the government is always protecting the strength of the country and the government does not need to hand over the electricity sector to private companies under any circumstances.
+
+The President said that the government's position is to ensure the economic growth of the country, national security and sovereignty, and that the government needs to create a proper corporate structure to resolve the confusion in the institutional structure of the power sector.
+
+President Anura Kumara Dissanayake made this statement while attending a review review discussion on new restructuring in the Indian office on Monday (22).
+
+...
+
+[Data](articles/ec856859.json)
+
+[Extended Data](ext_articles/ec856859.ext.json)
+
+---
+
+### Police clarify a fake article in social media
+
+*2025-09-22 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214882) · `si`
+
+Police have made a statement regarding a fake letter circulating by social media.
+
+According to the ATN: Attn: Attn: Attn: Attn: "Attn:", "Attn:" is circulated by the Sri Lankan police heading, police said.
+
+The IGP office of the Child and Kantha Abuse of the Child and Kantha Abuse, Police Headquarters is observed that the Director of Computer Emergency Proposal and Director of Sri Lanka Institute of Computer Emergency and Director National Child Protection Authority.
+
+The police further stated that this article was not propagated by the Sri Lanka Police.
+
+The Sri Lanka Police will take legal action against these false letter through the Computer Criminal Investigation Division.
+
+◼️
+
+[Data](articles/d55de471.json)
+
+[Extended Data](ext_articles/d55de471.ext.json)
+
+---
+
+### New Law, which is from today - enhanced sentences
+
+*2025-09-22 19:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அமுலாகும்-புதிய-சட்டம்-அதிகரிக்கப்பட்டது-தண்டனை/175-365078) · `ta`
+
+Hon.
+
+The National Audit (Amendment) Bill was presented in Parliament on 08.07.07.2012 and passed in Parliament on 11.09.2012.
+
+The National Audit Act is amended by the National Audit Act No. 19 of 2018 through this National Audit (Amendment) Bill.
+
+Accordingly, the main objective of this amendment is to provide arrangements for the appointment of an Excess Pay Review Committee, including the structure, timeline and action system, to make a decision regarding the excessive amount recommended by the Auditor General.
+
+In addition, the main amendment is included in the main amendment from 5 months to 6 months, which empower the Auditor General for Companies for Fraud or Corruption.
+
+In addition, the punishment for persons who make mistakes under section 42 and 43 of the primary legislation has been significantly increased.
+
+Accordingly, the Bill comes into effect as the National Audit (Amendment) Act No. 19 of 2025.
+
+◼️
+
+[Data](articles/9418f67d.json)
+
+[Extended Data](ext_articles/9418f67d.ext.json)
+
+---
+
+### Tens of thousands join pro-Palestinian demos, strikes in Italy
+
+*2025-09-22 19:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112788/tens-of-thousands-join-pro-palestinian-demos-strikes-in-italy) · `en`
+
+Tens of thousands of people protested on Monday (Sep 22) across Italy as part of a day of action to “denounce the genocide in Gaza”, which included transport strikes and port blockades.
+
+The demonstrations came the same day as France and other countries prepared to recognise a Palestinian state at the United Nations General Assembly in New York, following recognition by the UK, Australia and Canada on Sunday.
+
+Italy’s hard-right government under Prime Minister Giorgia Meloni has said it will not recognise a Palestinian state for now.
+
+In Rome, some 20,0000 people gathered in front of the main Termini train station, according to local police, many of them students, shouting “Free Palestine!” and holding up Palestinian flags.
+
+Some had marched via the Colosseum, those at the front holding up a giant banner saying “Against Genocide. Let’s block everything.”
+
+At Termini station, Michelangelo, 17, told AFP he was there to support “a population that is being exterminated”.
+
+...
+
+[Data](articles/f4681574.json)
+
+[Extended Data](ext_articles/f4681574.ext.json)
+
+---
+
+### "There is no need to hand over the configuration to the private person"
+
+*2025-09-22 19:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தி-கட்டமைப்பை-தனியாரிடம்-ஒப்படைக்க-தேவையில்லை/175-365077) · `ta`
+
+President Anura Kumara Dissanayake stressed that the government is always protecting the strength of the country and the government does not need to hand over the electricity sector to private companies under any circumstances.
+
+The President said that the government's position is to ensure the economic growth of the country, national security and sovereignty, and that the government needs to create a proper corporate structure to resolve the confusion in the institutional structure of the power sector.
+
+President Anura Kumara Dissanayake made this statement while attending a review review discussion on new restructuring in the Indian office today (22).
+
+...
+
+[Data](articles/8700380d.json)
+
+[Extended Data](ext_articles/8700380d.ext.json)
+
+---
+
+### "No need to hand over the energy structure to the private" "
+
+*2025-09-22 19:51:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிசக்தி-கட்டமைப்பை-தனியாரிடம்-ஒப்படைக்க-தேவையில்லை/175-365077) · `ta`
+
+President Anura Kumara Dissanayake stressed that the government would always protect the country's energy sovereignty and made it clear that there was no need to hand over the energy structure to private companies.
+
+The Presidential Media Unit (PMD) said that it is very important to ensure sovereignty of energy for Sri Lanka's economic growth, national security and independence.
+
+The government wants to eliminate the incompetent within the existing institutional structure, not the privatization, its aim is to build the most effective and well -built system.
+
+The President made this statement during the Advancement Review Meeting on New Reforms in the Energy Division.
+
+Members of the Committee appointed to implement reforms, Electricity Distribution Lanka (Pvt) Limited, National Transmission Network Service Provider (Private) Limited, Electricity Production Lanka (Private) Limited and National System Operator (Pvt) Ltd.
+
+...
+
+[Data](articles/b21c3e84.json)
+
+[Extended Data](ext_articles/b21c3e84.ext.json)
+
+---
+
+### Sampath Manamperi's rescue
+
+*2025-09-22 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225794) · `ta`
+
+According to information provided by Sampath Manamberi, he was seized by the Northern Criminal Investigation Officers on Monday, the 22nd of Monday, 22nd.
+
+Weapons were recovered from the Mitteniya area on Monday (22), according to information provided by Sampath Manamberi, a former member of the Mottuka Party, who was arrested in connection with the ice chemical found in the Mitteniya area.. This has been revealed to the suspect, Sampath Manamperi, who was placed under the barrier.
+
+A 9mm-rifle, two rifles, two-56-year-old megacins and abroad-made handguns have been seized by the Northern Crime Officers in the back of a house in Mitteniya.  Investigations revealed that the weapons were buried in a land belonging to Sampath Manamambari on the 3rd.
+
+Meanwhile, Sampath Manamberi, who was searching for a chemical for ice drugs from a land in the Mitteniya-Thalawa area, was arrested by the police on the 17th after surrendering to the Valasmulla court on the 17th.
+
+...
+
+[Data](articles/2fe07f8f.json)
+
+[Extended Data](ext_articles/2fe07f8f.ext.json)
+
+---
+
+### We can compete with any of the world's team, this is the moment we should shine in the World Cup - Samari Attapattu
+
+*2025-09-22 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/225793) · `ta`
+
+'We can compete with any team in the world. Not only that, but this year's World Cup is a great opportunity for us, ”said Sri Lanka Women's Cricket Team captain Samari Atapattu.
+
+She was speaking to the ICC on Sri Lanka's opportunities in the 13th Women's World Cup in India and Sri Lanka.
+
+'Playing in the World Cup is not something to do every day. We will not take this occasion normally. It is the biggest honor to lead my nation's team in the ODI World Cup. Playing on our own soil in this competition makes it very good.
+
+'We are excited about getting some matches in the presence of our own fans. This will be a great advantage for us.
+
+'Sri Lanka cricket has improved since the 1990s. Since then we have been participating in a lot of World Cup matches. During this period I am playing, I can say with confidence that we have advanced as a team in the last few years. ”
+
+...
+
+[Data](articles/fcb3db3f.json)
+
+[Extended Data](ext_articles/fcb3db3f.ext.json)
+
+---
+
+### Educational reforms to focus on activity-based learning and religious education: PM Harini
+
+*2025-09-22 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/112787/educational-reforms-to-focus-on-activity-based-learning-and-religious-education-pm-harini) · `en`
+
+The Minister of Education, Higher Education, and Vocational Training, Prime Minister Dr. Harini Amarasuriya stated that one of the key objectives of the ongoing education reforms is to increase the focus on activity-based learning in schools.
+
+The Prime Minister noted that as a result of these reforms, students will gradually be directed towards an activity-centered educational model, which will also extend to religious education, making it more interactive and participatory in the future.
+
+These remarks were made during the second meeting of the Hindu Religious Advisory Council, held at the Ministry of Education under the leadership of Prime Minister and Minister of Education, Dr. Harini Amarasuriya.
+
+During the meeting, the advisory council pointed out that there is a severe shortage of teachers to teach Hinduism, as many teachers appointed for the subject are currently teaching other disciplines. The council emphasized the need for a solution to the predicament.
+
+...
+
+[Data](articles/62c204b6.json)
+
+[Extended Data](ext_articles/62c204b6.ext.json)
+
+---
+
+### Quinton de Kock from one day cricket retirement; Joins the tour of Pakistan
+
+*2025-09-22 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225792) · `ta`
+
+Quinton de Kock, who announced his retirement from international ODI cricket with the ICC World Cup 2023 tournament in India, has decided to change the decision and play ODIs again.
+
+Quinton de Kock has been reunited with the South African squad for the International ODI series against Pakistan.. He has also been named in the R20 group.
+
+South Africa announced on Monday (22) that three groups to play in three international cricket series against Pakistan.
+
+During the recent Test cricket series against England, the usual team captain Tempa Bauma has not been included in the series for the series.
+
+Mathew Breedzai will be the captain of the ODI cricket team and David Miller will be the captain of the R20 cricket team.
+
+Donawan Berera has been appointed as the captain of the South African team in the International T20 cricket series against Namibia.
+
+...
+
+[Data](articles/26fbdd2d.json)
+
+[Extended Data](ext_articles/26fbdd2d.ext.json)
+
+---
+
+### School-based activities should be more inclined - Prime Minister Harinini
+
+*2025-09-22 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214881) · `si`
+
+The Ministry of Education, the Ministry of Education, the education, Higher Education and Vocational Education, is aimed at education reforms for school-based activities, and after the new education reforms, the Ministry of Education, the Ministry of Education and Vocational Education said.
+
+The second meeting of the Hindu Religular Advisory Board, Minister of Education, Harini Amarasuriya, was held at the Ministry of Education, Prime Minister Dr. Harini Amarasuriya.
+
+The Hindu Religious Advisory Board has said that the Hindu religion is collecting information on the Hindu religion, which is collecting all provinces with the end of the teachers.
+
+The Hindu Religious Advisory Board (Hindu Religious Advisory Board) has also presented the re-enabled and maintain the Hindu Student Societies.
+
+◼️
+
+[Data](articles/4df42e14.json)
+
+[Extended Data](ext_articles/4df42e14.ext.json)
+
+---
+
+### Details of male bodies found in Senmodara area reveal
+
+*2025-09-22 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214880) · `si`
+
+Several information has been revealed in the two bodies of the bodies found in a house that was repaired in Sundala, Senagoda.
+
+Tangalle Police found the bodies this morning (22).
+
+A wall has been built around a wall and has been carried out by a person who bought a house of Seennamodara.
+
+Three workers have joined the house to repair the house and they had dried up in the house last night.
+
+After announcing the sudden sick, they had come to the Tangalle Base Hospital.
+
+The victim was a 50 year old resident of Tangalle, Tangalle, Tangalle, Tangalle, Tangalle, Tangalle.
+
+His children complained about death to the Tangalle Police and the police have commenced investigations.
+
+That is why two other bodies were found in a room in the house.
+
+The victim was two 24-year-old youths named Kavindu Kalhara, 21 year old and Dhanuka Lakshan.
+
+The police said that the two bodies had been identified.
+
+◼️
+
+[Data](articles/0f4a1e10.json)
+
+[Extended Data](ext_articles/0f4a1e10.ext.json)
+
+---
+
+### Electricity Board Trade Unions resolve the strike till Wednesday
+
+*2025-09-22 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225791) · `ta`
+
+"All the trade unions of the Ceylon Electricity Board have decided to continue the ongoing strike till Wednesday. We will clearly say whether it is a one -day strike, a identity strike or a continuous strike."
+
+Prabhat Priyantha, general secretary of the Ceylon Electricity Board's Free Workers Union, said this at a media briefing held on Monday 22nd.
+
+They said that if the authorities did not provide solutions to their demands, the decision would be taken on the upcoming union action on the 24th.
+
+“The 25 trade unions will meet again on the 24th and if there is no good debate in these two days, we will make the final strike on Wednesday.
+
+◼️
+
+[Data](articles/65292d70.json)
+
+[Extended Data](ext_articles/65292d70.ext.json)
+
+---
+
+### New details emerge on bodies found in renovated house in Seenimodara
+
+*2025-09-22 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112786/new-details-emerge-on-bodies-found-in-renovated-house-in-seenimodara) · `en`
+
+New details have come to light regarding the bodies of two males discovered inside a partially renovated house in Seenimodara, Tangalle.
+
+The bodies were found by the Tangalle Police this morning (22).
+
+According to reports, an individual who had recently purchased the old house had commenced constructing a boundary wall around the property, and renovation work had been ongoing for several days.
+
+Three laborers had been employed to assist with the renovations, and according to police, the workers had consumed alcohol inside the house last night.
+
+One of the individuals had suddenly fallen ill, and after notifying his children, they arrived and admitted him to the Tangalle Base Hospital, where he passed away early this morning.
+
+The deceased was identified as a 50-year-old resident of Vitharandeniya, Tangalle.
+
+...
+
+[Data](articles/21c31ded.json)
+
+[Extended Data](ext_articles/21c31ded.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 23:57:28**
+As of **2025-09-24 00:13:07**
 
 ## Newspaper Stats
 
-*Scraped **77,747** Articles*
+*Scraped **77,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,556
 adaderanalk | 10,082
-tamilmirrorlk | 11,705
+tamilmirrorlk | 11,707
 virakesarilk | 12,650
 adaderanasinhalalk | 13,582
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 13,582
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,747 (100.0%) of 77,747 articles have been extended.
+77,747 (100.0%) of 77,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### தாமரை கோபுரத்தில் Bungee Jumping
+
+*2025-09-23 23:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரத்தில்-Bungee-Jumping/175-365167) · `ta`
+
+கொழும்பு தாமரை கோபுரத்தில் அடுத்த ஆண்டுக்குள் பங்கீ ஜம்பிங் (Bungee Jumping) திட்டத்தை ஆரம்பிக்கத் திட்டமிட்டுள்ளதாக ஷிரந்த பீரிஸ் அறிவித்தார்.
+
+அத்துடன் பங்கேற்பாளர்களின் பாதுகாப்பை உறுதி செய்வதற்காக அதிகபட்ச பாதுகாப்பு நடவடிக்கைகளுடன் இந்தத் திட்டம் அறிமுகப்படுத்தப்படும் என அவர் தெரிவித்தார்.
+
+மேலும் கொழும்பு தாமரை கோபுரத்தின் பாதுகாப்பைப் பலப்படுத்துவதற்காக பாதுகாப்புப் பணியாளர்கள் அதிகரிக்கப்பட்டுள்ளதாகவும், கண்காணிப்பு கெமராக்கள் பொருத்தப்பட்டுள்ளதாகவும் ஷிரந்த பீரிஸ் கூறியுள்ளார். R
+
+◼️
+
+[Data](articles/8c3b8e0b.json)
+
+---
+
+### ஜனாதிபதி அமெரிக்காவை சென்றடைந்தார்
+
+*2025-09-23 23:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அமெரிக்காவை-சென்றடைந்தார்/175-365165) · `ta`
+
+ஐக்கிய நாடுகள் பொதுச் சபையின் 80ஆவது அமர்வில் கலந்து கொள்வதற்காக ஜனாதிபதி அநுரகுமார திசாநாயக்க அமெரிக்காவின் நியூயோர்க் நகரை சென்றடைந்துள்ளார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க, நாளை (24) ஐக்கிய நாடுகள் பொதுச் சபை கூட்டத்தொடரில் உரையாற்றவுள்ளார். (a)
+
+◼️
+
+[Data](articles/6fbd4ba3.json)
+
+---
 
 ### The president has reached the United States
 
@@ -2057,51 +2087,5 @@ It is also reported that it will be discussed with the aim of creating joint str
 [Data](articles/e555c536.json)
 
 [Extended Data](ext_articles/e555c536.ext.json)
-
----
-
-### Dating young couples carry away the sea - The effort was held on the camera
-
-*2025-09-23 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214906) · `si`
-
-A group of youths who had been rescued from the sea with a coast of the stone wall behind the fort shoot behind the Port of Fort Dutch hospital building.
-
-Videos were near the accident last evening.
-
-The couple in the back of the wall behind the Dutch building, the couple had been swimming at the sea at once.
-
-The Dutch Building and Secretary to the Dutch building Gamini saw the incident immediately after the incident.
-
-Later, a youth in the tourist cafesala have come to the Galle Hospital and admitted to the Galle Hospital.
-
-The victim and the youth was residents of Ahangama and Lanumodara residents.
-
-Hospital sources conferred that the girl is currently receiving treatment at the intensive care unit and the youth will be treated at the emergency unit.
-
-◼️
-
-[Data](articles/9e520d86.json)
-
-[Extended Data](ext_articles/9e520d86.ext.json)
-
----
-
-### 5 crore worth of “Kush” stuck
-
-*2025-09-23 12:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-கோடி-ரூபாய்-மதிப்புள்ள-குஷ்-சிக்கியது/175-365124) · `ta`
-
-Katunayake Bandaranaike International Airport. Two passengers who tried to get out with a "Kush" drug worth more than 50 million were arrested by a group of officials of the Customs Drug Control Unit when they tried to leave the morning "Green Channel".
-
-One of them is a 29 -year -old woman living in Colombo. The other is a 48 -year -old man living in Chennai, India.
-
-The two packs they carried had a backpack of 05 kilograms 092 grams and a backpack and 05 packages.
-
-The Katunayake airport police have been handed over to the Katunayake Airport Narcotics Bureau for further inquiries.
-
-◼️
-
-[Data](articles/2660d30d.json)
-
-[Extended Data](ext_articles/2660d30d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 09:13:16**
+As of **2025-09-23 09:39:29**
 
 ## Newspaper Stats
 
-*Scraped **77,582** Articles*
+*Scraped **77,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,50 +17,92 @@ dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,529
-adaderanalk | 10,047
+adaderanalk | 10,051
 tamilmirrorlk | 11,668
 virakesarilk | 12,625
-adaderanasinhalalk | 13,551
+adaderanasinhalalk | 13,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,580 (100.0%) of 77,582 articles have been extended.
+77,586 (100.0%) of 77,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### වැඩබලන අමාත්‍යවරු සිව්දෙනෙක් පත් කෙරේ
+### විදුලිබල මණ්ඩලයේ සේවකයින්ගේ නිවාඩු අවලංගු කෙරේ
+
+*2025-09-23 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214897) · `si`
+
+වහාම ක්‍රියාත්මක වන පරිදි නැවත දැනුම්දෙනතුරු විදුලිබල මණ්ඩලයේ සියලු සේවකයින්ගේ නිවාඩු අවලංගු කර තිබේ.
+
+විදුලිබල සැපයීම සම්බන්ධ සියලු සේවා අත්‍යාවශ්‍ය සේවාවන් බවට ප්‍රකාශයට පත්කරමින් ජනපති නියමයෙන් අති විශේෂ ගැසට් නිවේදනයක් පසුගිය 21 වනදා නිකුත් කෙරුණි.
+
+1979 අංක 61 දරන අත්‍යාවශ්‍ය මහජන සේවා පනතේ 2වන වගන්තිය ප්‍රකාරව ජනාධිපතිවරයාට පැවරී ඇති බලතල අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ සඳහා අත්සන් තබා ඇත.
+
+සාමාන්‍ය ජනජීවිතය පවත්වාගෙන යාම සඳහා අත්‍යාවශ්‍ය වන බව සහ එකී සේවාවන්ට අවහිරයක් හෝ බාධාවක් විය හැකි බව සැලකිල්ලට ගනිමින් මෙම ගැසට් පත්‍රය නිකුත්කර තිබේ.
+
+◼️
+
+[Data](articles/bb8834ad.json)
+
+---
+
+### Four acting ministers appointed
 
 *2025-09-23 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214896) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ මහා මණ්ඩලයට සහභාගි වීම සඳහා ඇමරිකා එක්සත් ජනපදය බලා පිටත්ව යාම හේතුවෙන් අමාත්‍යාංශ 04ක් සඳහා වැඩබලන අමාත්‍යවරු පත් කර තිබේ.
+President Anura Kumara Dissanayake has been appointed to four ministries to attend the United States General Assembly to attend the United Nations General Assembly.
 
 ◼️
 
 [Data](articles/f1f32bd9.json)
 
+[Extended Data](ext_articles/f1f32bd9.ext.json)
+
 ---
 
-### இழப்பீட்டை வழங்க X-Press Feeders நிறுவனம் மறுப்பு
+### X-Press Feeders Company refuses to provide compensation
 
 *2025-09-23 08:54:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழப்பீட்டை-வழங்க-X-Press-Feeders-நிறுவனம்-மறுப்பு/175-365102) · `ta`
 
-இலங்கை கடற்பரப்பில் தீ விபத்துக்குள்ளான எக்ஸ் பிரஸ் பேர்ள் கப்பலினால் ஏற்பட்ட சுற்றுச்சூழல் பாதிப்புக்கான இழப்பீட்டை வழங்குவதற்கு அந்த கப்பல் நிறுவனம் மறுத்துள்ளது.
+The shipping company has refused to provide compensation for environmental impacts caused by the X Press Pearl ship that crashed into the Sri Lankan waters.
 
-2021 ஆம் ஆண்டு இலங்கை கடற்பரப்பில் பயணித்த போது சிங்கப்பூருக்கு சொந்தமான (MV X-Press Pearl) கப்பல் தீப்பற்றி எரிந்தது.
+The MV X-Press Pearl, a Singapore-owned ship, was on fire in 2021.
 
-இதனால் நாட்டின் கடல் வளம் பாரிய அளவில் மாசடைந்ததுடன், கடல் வாழ் உயிரினங்களும் இறந்து கரை ஒதுங்கியிருந்தன. அத்துடன் கடல் வளமும் பாரிய அளவில் பாதிக்கப்பட்டிருந்தது.
+This resulted in massive polluted by the country's marine resources. The sea resources were also huge.
 
-இந்நிலையில் அதற்குரிய இழப்பீடாக ஒரு பில்லியன் அமெரிக்க டொலரை செலுத்த வேண்டும் என அந்த கப்பலின் நிறுவனமான X-Press Feeders நிறுவனத்திற்கு நீதிமன்றம் உத்தரவிட்டிருந்தது.
+The court ordered the ship's company X-Press Feeders to pay $ 1 billion as compensation.
 
-எனினும் அந்த இழப்பீட்டை செலுத்துவதற்கு குறித்த நிறுவனம் மறுப்பு வௌியிட்டுள்ளதாக வௌிநாட்டு ஊடகங்கள் செய்தி வௌியிட்டுள்ளன. R
+However, the folk media has reported that the company has refused to pay the compensation. Remble
 
 ◼️
 
 [Data](articles/90c8e268.json)
+
+[Extended Data](ext_articles/90c8e268.ext.json)
+
+---
+
+### New Zealand loosens path to residency for some migrants
+
+*2025-09-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112809/new-zealand-loosens-path-to-residency-for-some-migrants) · `en`
+
+The New Zealand government said on Tuesday it was introducing two new pathways for migrants to gain residency as part of their efforts to boost the country’s economy.
+
+Economic Growth Minister Nicola Willis said in the statement that skilled and experienced migrants play an important role in plugging workforce gaps, and in turn help businesses to grow.
+
+“Businesses told us it was too hard for some migrants to gain residence, even when they had crucial skills and significant experience that was not available in the existing workforce. We’re fixing it,” she said.
+
+The new pathways are for skilled workers and tradespeople and technicians, and require them to have relevant experience both overseas and in New Zealand and to meet salary thresholds, the statement said.
+
+...
+
+[Data](articles/1cb09b3e.json)
+
+[Extended Data](ext_articles/1cb09b3e.ext.json)
 
 ---
 
@@ -81,6 +123,30 @@ Leader Charith also stated that the Sri Lankan team will take place in today's m
 [Data](articles/8c01e62c.json)
 
 [Extended Data](ext_articles/8c01e62c.ext.json)
+
+---
+
+### ICC charges Rodrigo Duterte with crimes against humanity
+
+*2025-09-23 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112808/icc-charges-rodrigo-duterte-with-crimes-against-humanity) · `en`
+
+Former Philippine president Rodrigo Duterte has been charged with crimes against humanity by the International Criminal Court (ICC).
+
+The 80-year-old is accused of being criminally responsible for dozens of murders that allegedly took place as part of his so-called war on drugs, during which thousands of small-time drug dealers, users and others were killed without trial.
+
+The ICC’s charge sheet, which includes several redactions, dates from July but was only made public on Monday.
+
+ICC deputy prosecutor Mame Mandiaye Niang said Duterte was an “indirect co-perpetrator” in the killings, which the court alleges were carried out by others, including police.
+
+The first count laid against Mr Duterte concerns his alleged involvement in the killings of 19 people in Davao City between 2013 and 2016 while he was mayor there.
+
+The other two charges relate to times when he was serving as president of the Philippines, between 2016 and 2022, and launched his so-called war on drugs.
+
+...
+
+[Data](articles/95f26fc5.json)
+
+[Extended Data](ext_articles/95f26fc5.ext.json)
 
 ---
 
@@ -123,6 +189,28 @@ Kalpitiya Police Station officials and Navy officials have taken steps to look f
 [Data](articles/0b251caf.json)
 
 [Extended Data](ext_articles/0b251caf.ext.json)
+
+---
+
+### Popular tele-drama actor Nalin Pradeep Udawela passes away aged 56
+
+*2025-09-23 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112807/popular-tele-drama-actor-nalin-pradeep-udawela-passes-away-aged-56-) · `en`
+
+Popular tele-drama actor Nalin Pradeep Udawela passed away this morning (23) at the age of 56, while receiving treatment at the Maharagama Apeksha Hospital, family sources confirmed.
+
+Born Udawela Lekumlage Nalin Pradeep Udawela on March 20, 1969, he was a prominent figure in Sri Lankan cinema, stage drama, and television, and also pursued a career in politics.
+
+Udawela served as a Western Provincial Councilor, in addition to his contributions to the performing arts.
+
+He commenced his film career in 1998 with Julietge Bhumikawa, directed by Jackson Anthony, and went on to gain popularity through films such as Tharaka Mal, Parawarthana, and Asai Man Piyabanna.
+
+Udawela’s contribution to the stage was also highly acclaimed, with notable performances in productions including Juriya, Kelani Palama, Mandela Mandela, Megha, Modara Mola, Mee Harak, New Hunuwataye Kathawa, Sewaneli Eda Minissu, and Suddek Oba Amathai.
+
+...
+
+[Data](articles/448e9f16.json)
+
+[Extended Data](ext_articles/448e9f16.ext.json)
 
 ---
 
@@ -187,6 +275,28 @@ Souvenirs were exchanged between the two sides to mark this official meeting.
 [Data](articles/24b3c2cb.json)
 
 [Extended Data](ext_articles/24b3c2cb.ext.json)
+
+---
+
+### X-Press Pearl Disaster: Singapore firm rejects US$1 billion Sri Lankan fine for pollution damages
+
+*2025-09-23 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112806/x-press-pearl-disaster-singapore-firm-rejects-us1-billion-sri-lankan-fine-for-pollution-damages) · `en`
+
+A Singapore-headquartered shipping company today (23) announced that it will refuse to pay Sri Lankan court-ordered damages of US$1 billion for causing that country’s worst case of environmental pollution.
+
+In an exclusive interview, X-Press Feeders chief executive Shmuel Yoskovitz said he believed paying would have wide-ranging implications on global shipping and “set a dangerous precedent”.
+
+The company operated the Singapore-registered container ship MV X-Press Pearl that sank off the Colombo Port in June 2021 after a fire – believed caused by a nitric acid leak – that raged for nearly two weeks.
+
+Its cargo included 81 containers of hazardous goods, including acids and lead ingots, and hundreds of tonnes of plastic pellets.
+
+The ship was refused permission by ports in Qatar and India to offload the leaking nitric acid before it arrived in Sri Lankan waters.
+
+...
+
+[Data](articles/054b2205.json)
+
+[Extended Data](ext_articles/054b2205.ext.json)
 
 ---
 
@@ -1935,109 +2045,5 @@ The present government has increased the organized crime and the drug network du
 [Data](articles/d527b02e.json)
 
 [Extended Data](ext_articles/d527b02e.ext.json)
-
----
-
-### President rules out privatization of power sector
-
-*2025-09-22 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112783/president-rules-out-privatization-of-power-sector) · `en`
-
-President Anura Kumara Dissanayake has firmly stated that the present government remains consistently committed to safeguarding Sri Lanka’s energy sovereignty, and that there is no intention at any time to hand over the electricity sector to private entities.
-
-The President emphasized that ensuring control over the country’s energy sector is a key government policy, given its critical role in economic development, national security, and national independence.
-
-President Dissanayake further noted that the government’s objective is not to privatize but to eliminate the existing inefficiencies within the institutional structure of the electricity sector and to establish a streamlined, well-regulated institutional framework.
-
-President Dissanayake made these remarks while attending a progress review discussion on the ongoing electricity sector reforms, held today (22) at the Presidential Secretariat.
-
-...
-
-[Data](articles/a90713d2.json)
-
-[Extended Data](ext_articles/a90713d2.ext.json)
-
----
-
-### CEB trade unions to continue work-to-rule campaign until Wednesday
-
-*2025-09-22 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112782/ceb-trade-unions-to-continue-work-to-rule-campaign-until-wednesday) · `en`
-
-All trade unions affiliated to the Ceylon Electricity Board (CEB) have decided to continue their ongoing work-to-rule trade union action until Wednesday (24).
-
-This was announced today (22) at a media briefing by Prabath Priyantha, the General Secretary of the CEB Nidahas Sevaka Sangamaya.
-
-He stated that if authorities fail to provide satisfactory solutions to their demands, a decision on the next phase of the trade union action will be taken on September 24.
-
-“On the 24th of September, representatives from 25 trade unions will meet again. If no constructive discussions take place within the next two days, we will be compelled to move to the final stage of trade union action. Whether it will be a one-day strike, a token strike, or an indefinite strike — we will clearly announce our decision on Wednesday,” he said.
-
-CEB unions have emphasized that continued inaction or lack of engagement from authorities will result in an escalation of their trade union efforts.
-
-◼️
-
-[Data](articles/ecb16369.json)
-
-[Extended Data](ext_articles/ecb16369.ext.json)
-
----
-
-### The government constantly stands for the energy sovereignty of Sri Lanka - President
-
-*2025-09-22 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214877) · `si`
-
-President Anura Kumara Dissanayake emphasized that the government has always appeared to the power sovereignty of the country.
-
-The President said that the state stability of the government is the consolidation of the economic growth, national security and sovereignty of Sri Lanka.
-
-President Anura Kumara Dissanayake said this at the Presidential Secretariat today (22) at the Presidential Secretariat today (22) at the Presidential Secretariat.
-
-Committees for new reforms in the electricity sector and electricity generation Ltd, the Board of Directors of the National Transmission Network Supply Company and the Board of Directors of the newly established companies, including the National System Operations Limited and other newly established companies, were present at the discussion.
-
-The President also pointed out that a new translation is essential for a new translation, increasing the efficiency of the electricity sector.
-
-...
-
-[Data](articles/a584776b.json)
-
-[Extended Data](ext_articles/a584776b.ext.json)
-
----
-
-### Woman arrested at Jaffna airport while attempting to smuggle gold into Sri Lanka
-
-*2025-09-22 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112781/woman-arrested-at-jaffna-airport-while-attempting-to-smuggle-gold-into-sri-lanka) · `en`
-
-A 41-year-old Sri Lankan woman has been apprehended at the Jaffna International Airport for attempting to smuggle gold into the country.
-
-The 41-year-old woman was arrested by Sri Lanka Customs officers.
-
-The suspect, a resident of Colombo 12, had arrived from Chennai and was found concealing two capsules containing a substance suspected to be gold, weighing 1,002.2 grams, without declaring them to Customs.
-
-Following further investigation, she was produced before the Mallakam Magistrate’s Court and remanded for 14 days, Sri Lanka Customs said.
-
-◼️
-
-[Data](articles/e7966c63.json)
-
-[Extended Data](ext_articles/e7966c63.ext.json)
-
----
-
-### Opposition parties who met Mahinda
-
-*2025-09-22 17:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்து-நலம்-விசாரித்த-எதிர்க்கட்சியினர்/175-365074) · `ta`
-
-United People's Power (SJB) MPs Hesha Vidhanage and Dileep Wetharachchi have met former President Mahinda Rajapaksa in Tangalle.
-
-According to reports, the meeting took place at the Carlton residence in Tangalle where Mahinda Rajapaksa is currently living.
-
-It is reported that MPs Hesha Vidhanage and Dilip Wetarachchi met him to inquire about the former president's welfare.
-
-Hesha Vidhanage had previously represented the Sri Lanka Freedom Party (SLFP) as the Chairman of the Embilipitiya Pradeshiya Sabha, while United People's Power Member Dilip Vedarachchi represents the Hambantota district in Parliament.
-
-◼️
-
-[Data](articles/41c95860.json)
-
-[Extended Data](ext_articles/41c95860.ext.json)
 
 ---

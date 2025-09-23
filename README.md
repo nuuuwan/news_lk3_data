@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 21:56:50**
+As of **2025-09-23 22:21:49**
 
 ## Newspaper Stats
 
-*Scraped **77,733** Articles*
+*Scraped **77,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,187 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,555
+adalk | 7,556
 adaderanalk | 10,080
-tamilmirrorlk | 11,704
-virakesarilk | 12,644
-adaderanasinhalalk | 13,578
+tamilmirrorlk | 11,705
+virakesarilk | 12,647
+adaderanasinhalalk | 13,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,732 (100.0%) of 77,733 articles have been extended.
+77,738 (100.0%) of 77,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### சம்பத் மனம்பேரிக்கு விளக்கமறியல்
+### තංගල්ලෙන් හමුවූ මත්ද්‍රව්‍ය රටට ඇතුළුවූ හැටි හෙළිවෙයි
+
+*2025-09-23 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214930) · `si`
+
+තංගල්ල සීනිමෝදර ප්‍රදේශයේ නිවසක් තුළ තිබී සොයගත් මත්ද්‍රව්‍ය තොගය යාත්‍රා දෙකකින් මුහුදු මාර්ගයෙන් පෙරේදා මෙරටට ගෙනැවිත් ඇති බව වාර්තා වෙයි.
+
+එම මත්ද්‍රව්‍ය තොගය කුඩාවැල්ල මාවැල්ල වෙරළින් ගොඩබා ඇති බවද සඳහන්ය.
+
+පසුව මියගිය තැනැත්තන් තිදෙනා එම ස්ථානයේ සිට ඇති බවත් ඔවුන් එහිදී මත්පැන් පානය කර ඇති බවත් පොලීසිය පවසයි.
+
+එතැන් සිට ඔවුන් වෙරළ අසළ තිබූ නිවසකට මත්ද්‍රව්‍ය තොගය ගෙන ගොස් පසුව එම තොගය ලොරි රථවලට පටවා සීනිමෝදර සහ ගොඩැල්ලවෙල ප්‍රදේශවලට අවස්ථා දෙකකදී ප්‍රවාහනය කර ඇති බව පොලීසිය පවසයි.
+
+මාවැල්ල වෙරළේ සිට සීනිමෝදර නිවසට මත්ද්‍රව්‍ය ප්‍රවාහනය කළ ඔවුන් පසුව  එම නිවසේදී ද මත්පැන් පානය කර ඇති අතර හමුවූ මළ සිරුරු අසළ අයිස් මත්ද්‍රව්‍ය ද තිබූ බව පොලීසිය ඊයේ සඳහන් කළේය.
+
+එම නිවසේ සිට මත්පැන් පානය කළ තිදෙනා අතුරින් රෝගී වූ 49 හැවිරිදි පුද්ගලයා ඔහුගේ පුත්‍රයින් දෙදෙනා විසින් රෝහල්ගතක කෙරුණු අතර ඉන්පසු සිය පියාගේ කුඩා ලොරි රථය රැගෙන යාම සඳහා ඔවුන් සීනිමෝදර නිවසට පැමිණ තිබුණි.
+
+එහිදී එම නිවසේ සිටි පිරිසක් තමන්ට බලහත්කාරයෙන් මත්පැන් පානය කරවීමට උත්සාහ කළ බව ඔවුන් පොලීසියට පවසා ඇත.
+
+...
+
+[Data](articles/dc347ee0.json)
+
+---
+
+### பாகிஸ்தானுக்கெதிராக 133 ஓட்டங்களைப் பெற்ற இலங்கை
+
+*2025-09-23 22:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தானுக்கெதிராக-133-ஓட்டங்களைப்-பெற்ற-இலங்கை/44-365152) · `ta`
+
+பாகிஸ்தானுக்கெதிரான ஆசியக் கிண்ணத் சுப்பர் 4 சுற்றுப் போட்டியில் முதலில் துடுப்பெடுத்தாடப் பணிக்கப்பட்ட இலங்கை, 20 ஓவர்களில் 8 விக்கெட்டுகளை இழந்து 133 ஓட்டங்களைப் பெற்றது.
+
+ஷகீன் ஷா அஃப்ரிடி (3), ஹரிஸ் றாஃப் (2), ஹுஸைன் தலாட் (2), அப்ரார் அஹ்மட்டிடம் விக்கெட்டுகளைப் பறிகொடுத்த நிலையில் கமிந்த மென்டிஸ் மாத்திரம் 50 (44) ஓட்டங்களைப் பெற்றார்.
+
+◼️
+
+[Data](articles/87faa1c1.json)
+
+---
+
+### පාකිස්තානයට ලකුණු 134ක් ඉලක්කයක්
+
+*2025-09-23 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214929) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ ශ්‍රී ලංකාව සහභාගී වන දෙවන තරගය පාකිස්තාන කණ්ඩායම සමග මේ වනවිට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනූ පාකිස්තාන කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුල්ල ලෙස කුසල් මෙන්ඩිස් පළමු පන්දු ඕවරයේදී ලකුණු නොලබා ක්‍රීඩාගාරය වෙත යැවීමට පාකිස්තාන වේග පන්දු යවන ක්‍රීඩක ෂහීන් ෂා අෆ්රිඩි සමත්විය.
+
+ඉන් අනතුරුව ශ්‍රී ලංකා කණ්ඩායමේ දෙවැනි කඩුල්ල ලෙස ලකුණු 08ක් රැස්කර ගෙන සිටි පැතුම් නිස්සංක දවා ගැනීමට ෂහීන් ෂා අෆ්රිඩි සමත්විය.
+
+නායක චරිත් අසලංකටද පිටිය තුළ සාර්ථකවීමට නොදී ලකුණු 20ක් රැස්කර ගෙන සිටියදී පාකිස්තාන පන්දු යවනන් විසින් ක්‍රීඩාගාරය වෙත හරවා යැවීමට සමත්විය.
+
+බංග්ලාදේශ තරගයේ සුපිරි පිතිහරඹයක නිතර වූ දසුන් ශානකට කිසිදු ලකුණු රැස්කර ගැනීමට පාකිස්තාන පන්දු යවන්නන් ඉඩදුන්නේ නැත.
+
+හුදකලා සටනක නිරතවූ කමිඳු මෙන්ඩිස් ලකුණු 50ක් රැස්කර ගැනීමට සමත් විය.
+
+...
+
+[Data](articles/74165f22.json)
+
+---
+
+### Drugs found in Tangalle revealed
+
+*2025-09-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214927) · `si`
+
+It is reported that the drug has been found in the lorry in the lorry, which was found in the lorry, which was found in the lorry, which was found in the lorry in the Tangalle, Seennla, Sungala area and the watermelon sheleled in the Tangalle.
+
+The stock of drugs is piling the Kudawella Mawathakee.
+
+The three killed who were later killed were present and they had been drinking alcohol.
+
+The cost has been taken to a coastal house, police said.
+
+The police said that they had been transporting drugs from the Mawawale beach to Senmodara to Senmodara.
+
+The 49-year-old man was hospitalized by the two sons of his sons to take their father's small lorry.
+
+They have told the police that a group of people attempted to drink alcohol.
+
+They had revealed this after their arrests by the police today.
+
+According to a special operation of two people in a house in the Tangalle Seennakola area, 705 kilograms was discovered yesterday.
+
+The police were able to find 68 kilograms of ice and 970 grams and Rs.
+
+...
+
+[Data](articles/1ce4d595.json)
+
+[Extended Data](ext_articles/1ce4d595.ext.json)
+
+---
+
+### President arrives in the US
+
+*2025-09-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214928) · `si`
+
+President Anura Kumara Dissanayake, who left the 80th session of the United Nations General Assembly, John Fonseka, USA, USA. Kennedy has reached the International Airport.
+
+John F.. President Anura Kumara Dissanayake was warmly welcomed by President Anura Kumara Dissanayake, the President's Chief Justice President of Sri Lanka's Permanent Representatives from the United Nations.
+
+Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the tour of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/24197bd0.json)
+
+[Extended Data](ext_articles/24197bd0.ext.json)
+
+---
+
+### Explanation for Sampath Manambery
 
 *2025-09-23 21:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-விளக்கமறியல்/175-365151) · `ta`
 
-பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவினால் விசாரிக்கப்பட்டு வந்த சம்பத் மனம்பேரியை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் இன்று உத்தரவிட்டுள்ளது.
+The court today ordered that Sampath Manamperi, who was investigated by the Police Drug Prevention Division, be interrogated.
 
-இதன்படி, சம்பத் மனம்பேரி எதிர்வரும் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Accordingly, Sampath Manamberi has been kept in detention until the 26th of this month.
 
-மித்தெனிய பகுதியில் ஐஸ் என்ற போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரசாயனங்கள் அடங்கிய இரண்டு கொள்கலன்களை மறைத்து வைத்த சம்பவம் தொடர்பாக அவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that he has been interrogated in connection with the incident where two containers of chemicals suspected to have been used to produce an Ice drug in Mitteniya.
 
-மேலும், சம்பந்தப்பட்ட நிலத்தில் ஆயுதங்கள் கண்டுபிடிக்கப்பட்ட சம்பவம் தொடர்பில் அவரை எதிர்வரும் ஒக்டோபர் 1 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு வலஸ்முல்ல நீதவான் உத்தரவிட்டுள்ளார். R
+In addition, the Valasmulla Magistrate has ordered him to be remanded till October 1 in connection with the incident of arms being found on the land involved.. Remble
 
 ◼️
 
 [Data](articles/4522c791.json)
+
+[Extended Data](ext_articles/4522c791.ext.json)
+
+---
+
+### Electricity Services Essential Services Gazette; Resolution to submit to Parliament tomorrow
+
+*2025-09-23 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225900) · `ta`
+
+It was decided on Tuesday (23) under the patronage of Hon.
+
+The Gazette Notification No. 2454/68 issued by the President on 21.09.2012 under the Essential Public Services Act No. 61 of 1979 will be presented to Parliament without debate.
+
+◼️
+
+[Data](articles/9611bac4.json)
+
+[Extended Data](ext_articles/9611bac4.ext.json)
+
+---
+
+### A person caught with a fake 1000 rupee coin; Explanation until June 6
+
+*2025-09-23 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225899) · `ta`
+
+The Kekirawa Court Magistrate has ordered the suspect to be produced in court on Tuesday, 22nd.
+
+It has been revealed that a 23 -year -old youth who lives in Dambulla and Kimishcha area has been placed in the case.
+
+The suspect has been arrested by the police station, who was rushed to the scene after the suspect was informed by the owner of Habaran, who was informed that the suspect was a fake currency, when the suspect had been able to buy goods at a shopping center in Habaran on Monday (21) evening.
+
+It is noteworthy that further inquiries into the incident are being carried out by a team of police, including the Inspector General of Police, Wimal, on the advice of the Chief Inspector of Police, Habaran, the Chief Inspector of Police.
+
+◼️
+
+[Data](articles/d4a0bdb1.json)
+
+[Extended Data](ext_articles/d4a0bdb1.ext.json)
 
 ---
 
@@ -82,13 +232,9 @@ Accordingly, he was remanded until September 26 over the concealment of two cont
 
 In addition, the Magistrate ordered that he be remanded until October 01 in connection with the recent discovery of weapons at the residence of a female acquaintance of the accused in Thalawa, Middeniya.
 
-The Walasmulla Magistrate’s Court on September 17 had granted the PNB permission to detain Sampath Manamperi for seven days for questioning.
+Several firearms and ammunition buried by Sampath Manamperi behind a residence of a female acquaintance in Thalawa, Middeniya were discovered yesterday (22) during the interrogations of Sampath Manamperi and underworld figure ‘Backo Saman.’
 
-Following the court order, PNB officers interrogated Sampath Manamperi regarding the recent discovery of the two containers in Middeniya.
-
-Sampath Manamperi had surrendered to the Walasmulla Magistrate’s Court on September 17.
-
-◼️
+...
 
 [Data](articles/73fba0e4.json)
 
@@ -513,6 +659,26 @@ The suspect was accepted on the 13th of October on October 13.
 [Data](articles/20f0c72e.json)
 
 [Extended Data](ext_articles/20f0c72e.ext.json)
+
+---
+
+### If the national population does not come to power, there will be drug sales in the Tangalle market - Najith
+
+*2025-09-23 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225887) · `ta`
+
+If the National People's Power -led government had not come to power, the Tangalle area would have been selling drugs in the weekly market. Najith Indika, a parliamentarian of the National People's Power, said that when the drug is captured, only a political party holds a media briefing and criticizes the government's actions.
+
+He was speaking at a debate on the National Building Research Institute Bill held in Parliament on Tuesday (23).
+
+Changed comments about the seizure of drugs are currently referred to. Special attention should be paid to the drug trade and its arrest in the past. When the police go to arrest a politician involved in a drug allegation, the country's president has gone to the place and hugged the politician.
+
+None of the government members in the arrest of cellar groups or drug traders are in front of them to protect them. Because no one involved in such crimes is on the ruling side.
+
+...
+
+[Data](articles/8d1fb096.json)
+
+[Extended Data](ext_articles/8d1fb096.ext.json)
 
 ---
 
@@ -1694,6 +1860,20 @@ The suspect has been arrested on the spot and further investigations are being c
 
 ---
 
+### මඩකලපුවේ ගුවන්තොට ගුවන් විනෝද හා ත්‍රාසජනක ක්‍රීඩාවලට
+
+*2025-09-23 12:46:26* · [`adalk`](https://www.ada.lk/business/මඩකලපුවේ-ගුවන්තොට-ගුවන්-විනෝද-හා-ත්‍රාසජනක-ක්‍රීඩාවලට/7-418667) · `si`
+
+නැගෙනහිර පලාතේ ප්‍රධාන සිවිල් ගුවන් තොටුපොලක් ලෙස සංවර්ධනය කර ගුවන්යානා මෙහෙයුම් සඳහා විවෘත කර ඇති මඩකලපුව ගුවන්තොටුපොල, රටේ ජාතික ආර්ථිකයට සවියක් වන අයුරින් ගුවන ආශ්‍රීත විනෝදාත්මක හා ත්‍රාසජනක ක්‍රීඩාවලට වෙන්වූ සංචාරක ගමනාන්තයක් ලෙස දියුණු කිරීමට යෝජනාවලියක් සකස් කරන බව ශ්‍රී ලංකා සිවිල් ගුවන්සේවා අධිකාරියේ සභාපති සුනිල් ජයරත්න මහතා පවසයි.
+
+මීට අමතරව දෙස් විදෙස් සංචාරකයන් අතර, මඩකලපුව ගුවන්තොටුපොල කලාපයේ ඓතිහාසික පාරිසරික උරුමයන් සංචාරක වශයෙන් ප්‍රවර්ධනය කිරීම හරහා ගුවන්තොටුපොල ගුවන්යානා මෙහෙයුම් ඉහළ නංවා ගැනීම මෙම යෝජනා අතර වෙයි.
+
+...
+
+[Data](articles/cd774526.json)
+
+---
+
 ### New Zealand offers residence opportunities for immigrants!
 
 *2025-09-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225832) · `ta`
@@ -1909,197 +2089,5 @@ French President Emanuel Macronoon stated that the UK, Canada, Australia, Austra
 [Data](articles/cb2034b6.json)
 
 [Extended Data](ext_articles/cb2034b6.ext.json)
-
----
-
-### ‘Kush’ worth over Rs. 50 million seized at BIA
-
-*2025-09-23 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112821/kush-worth-over-rs-50-million-seized-at-bia) · `en`
-
-Two individuals have been arrested at the Bandaranaike International Airport (BIA) while attempting to exit the airport with a large consignment of “Kush” cannabis worth over Rs. 50 million, this morning (23).
-
-The duo was arrested by the Narcotics Control Unit of Sri Lanka Customs while attempting to exit the airport through the   “Green Channel” at the BIA, which is designated for passengers with no items to declare, Ada Derana reporter said.
-
-The suspects include a 29-year-old woman from Colombo and a 48-year-old man residing in Chennai, India.
-
-Investigations revealed that the duo had purchased the consignment of “Kush” in Bangkok, Thailand, and subsequently travelled to New Delhi, India, before arriving in Katunayake on Air India flight AI-277 at 6.50 a.m. today.
-
-According to officials, a search of their two pieces of luggage and a backpack led to the seizure of five kilograms and 92 grams of “Kush” concealed in five separate bags.
-
-...
-
-[Data](articles/31112fb2.json)
-
-[Extended Data](ext_articles/31112fb2.ext.json)
-
----
-
-### Visa Crisis: The lover flew away from the lover
-
-*2025-09-23 11:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விசா-நெருக்கடி-காதலியை-விட்டு-பறந்த-காதலன்/50-365121) · `ta`
-
-US President Donald Trump has announced that the H 1 B Visa has been changed. Thus IT employees around the world are going to the US in a hurry. A romantic couple has traveled to Italy. With Trump's announcement. The video released by her girlfriend has gone viral on social circles.
-
-Donald Trump has been taking various measures against India since US president. The Cold War has been in the past few months between India and the US. Within a few months after taking office as president, the visa was taken up by the crisis.
-
-In this case, last month raised the US tax on Indian goods by 50 per cent. As a result of this exporting businesses to the United States have been severely affected. Various world countries condemn Trump's actions. Opposition parties in the United States have warned that India and US will be affected.
-
-...
-
-[Data](articles/9bec8af0.json)
-
-[Extended Data](ext_articles/9bec8af0.ext.json)
-
----
-
-### Husband Charlie Kirk Murder: Wife Erika's Flexible News!
-
-*2025-09-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225828) · `ta`
-
-After the assassination of conservative commentator Charlie Kirkin, his wife, Erika Kirk, has had a profound impact on American politics and public life, saying that his wife Erika Kirk has forgiven her husband.
-
-These words were pronounced in tears at a large stadium in Clendale, Arizona, at his tribute in the presence of thousands.
-
-Charlie Kirkin's tribute event took place like a Republican government's funeral. Tens of thousands of his supporters from many parts of the United States, wearing red, white, and blue clothes and paid tribute to him. This revealed the strength of Charlie Kirk's political influence.
-
-Several top leaders of his administration, including US President Donald Trump, also participated in the event. They addressed the changes in American politics after Kirkin's assassination. It was a major political conference, not just a tribute event.
-
-...
-
-[Data](articles/7c4c3654.json)
-
-[Extended Data](ext_articles/7c4c3654.ext.json)
-
----
-
-### "The report issued to Ohchr on the 21/4 attack is adversely"
-
-*2025-09-23 11:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்-குறித்து-OHCHR-ற்கு-வழங்கிய-அறிக்கை-பாதகமானது/175-365120) · `ta`
-
-Vihanga Tejan's father, who was killed in a bomb blast at Shankri-La Hotel on Sunday, 2019. Opposition Leader Sajith Premadasa told parliament today that a report to the Human Rights High Commission (OHCHR) office would harm Sri Lanka internationally.
-
-Premadasa said that the victim's father had expressed dissatisfaction with the progress of the investigation and warned that such comments could negatively affect the country's position abroad.
-
-“This is harmful to the country. You have to take steps to assure the victims and give them the credibility they are looking for, ”Premadasa said.
-
-◼️
-
-[Data](articles/bbf648d6.json)
-
-[Extended Data](ext_articles/bbf648d6.ext.json)
-
----
-
-### Fertilizer subsidy to farmers worth Rs. 200M to be provided via QR code – Minister
-
-*2025-09-23 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112820/fertilizer-subsidy-to-farmers-worth-rs-200m-to-be-provided-via-qr-code-minister) · `en`
-
-A QR code system will be introduced in the near future to provide fertilizer subsidies to tea farmers to ensure efficiency and transparency, the Minister of Plantations and Community Infrastructure, Samantha Viddyarathna announced in Parliament today (23).
-
-Minister Viddyarathna stated that the Cabinet approval has already been granted for the initiative, with the first phase scheduled to commence on September 26 in Matugama.
-
-He further noted that the Tea Board has allocated Rs. 2,000 million for the tea fertilizer subsidy program for the year 2025.
-
-Out of this, Rs. 200 million will be distributed under the new QR code system, primarily targeting small-scale tea estate owners, who account for nearly 75% of the sector, he said.
-
-Minister Viddyarathna explained that through the QR code mechanism, farmers will be able to obtain fertilizer from multiple fertilizer companies registered with the Fertilizer Secretariat, in addition to government-supplied fertilizer.
-
-...
-
-[Data](articles/5fdf79c8.json)
-
-[Extended Data](ext_articles/5fdf79c8.ext.json)
-
----
-
-### Dumb hantunnetti to the question of assets
-
-*2025-09-23 11:37:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்துக்கள்-கேள்விக்கு-ஊமையான-ஹந்துன்நெத்தி/175-365119) · `ta`
-
-Ministers, Deputy Ministers and MPs of the National People's Power Government led by President Anura Kumara Dissanayake are submitting their property details. Controversy has been raised in public regarding the assets submitted by some.
-
-In this context, Minister Sunil Handunnetti has a dummy delegation without answering questions about assets.
-
-Industry and Entrepreneurship Development Minister Sunil Handunnetti replied that it is not wise to ask him questions about his assets.
-
-I may not respond to your question or not to respond. It is not fair for us to investigate this here. There is a law in the country. The Commission to investigate bribery or corruption allegations of bribery or corruption has made these property records public, and you should not question them when you meet them on the street.
-
-If anyone has a question about this, they can write and inquire into the Commission to investigate bribery or corruption. This is not that I cannot answer this.
-
-...
-
-[Data](articles/dfb6103d.json)
-
-[Extended Data](ext_articles/dfb6103d.ext.json)
-
----
-
-### Sapumal shot dead - injured
-
-*2025-09-23 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214904) · `si`
-
-The familiar ecological park and the Minneriya National Park has been shot dead as 'Sapumal'.
-
-It is said that the Safari Jrip drivers have seen the Kaudulla National Park.
-
-The specialty of the 25-year-old elephant is that the gross and a half feet longer have increased.
-
-The next right leg of the elephant, which is roaming in three parks, has kept about two shots of shots and have been shot dead.
-
-It is reported that the Ahaha should be treated and has been very serious.
-
-A group of tourists visited Kaudulla Tanks yesterday (22) as they were shot.
-
-◼️
-
-[Data](articles/e0035fe6.json)
-
-[Extended Data](ext_articles/e0035fe6.ext.json)
-
----
-
-### Two sons arrested at Tangalle home
-
-*2025-09-23 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214903) · `si`
-
-The two sons of the deceased have been arrested since the deceased who had found three narcotics lorries in the Seennamodara, Tangalle.
-
-The total value of the stock of drugs found in three lorries in Tangalle was about Rs. 9,888 million.
-
-Police said that 705.91 kilograms of drugs including ice and heroin were found in the three lorries.
-
-Meanwhile, it is said that 284.94 kilograms of heroin and 420.976 kilograms of ice.
-
-The ice and heroin found in 3 lorries yesterday, on the information received by the police in the house of Sundala, Tangalle yesterday.
-
-In addition to drugs, police found five T-56 rifle and five new pistol-type firearms in addition to the drug.
-
-Investigations have revealed that the sufferer was owned by the criminal of St. Shantha, Unakila, Drug trafficking.
-
-Meanwhile, the three persons who have died in the investigations have been revealed in investigations into the drug traffickers.
-
-...
-
-[Data](articles/3c7c967c.json)
-
-[Extended Data](ext_articles/3c7c967c.ext.json)
-
----
-
-### Prison for former Control Commissioner Harsha
-
-*2025-09-23 11:20:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கட்டுப்பாட்டு-ஆணையாளர்-ஹர்ஷாவுக்கு-சிறை/175-365116) · `ta`
-
-The Supreme Court on Tuesday (23) sentenced former Immigration and Emigration Control Commissioner Harsha Ilykpitiya to two years in prison for contempt of court allegations over controversial visa agreement.
-
-The hearing came before a three -judge bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeesekera.
-
-On September 25, 2024, the High Court ordered the High Court to implement the controversial visa agreement to implement the order of Harsha Illukpitiya until the contempt of court was completed.
-
-◼️
-
-[Data](articles/7eea3006.json)
-
-[Extended Data](ext_articles/7eea3006.ext.json)
 
 ---

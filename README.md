@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 20:55:57**
+As of **2025-09-23 21:20:37**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ adaderanasinhalalk | 13,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,729 (100.0%) of 77,730 articles have been extended.
+77,730 (100.0%) of 77,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### ක්‍රිකට් ඉතිහාසයේ වඩාත්ම ආදරණීය විනිසුරු දිවියෙන් සමුගනී
+### Cricket retires to be loving judge
 
 *2025-09-23 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214926) · `si`
 
-ක්‍රිකට් ඉතිහාසයේ වඩාත්ම ආදරණීය විනිසුරුවරයෙකු වූ "ඩිකී"  නමින් හඳුන්වන හැරල්ඩ් බර්ඩ් අභාවප්‍රාප්ත වී තිබේ.
+Harold Burved, a beautiful judge in cricket, has passed away.
 
-මිය යන විට ඔහු 92 හැවිරිදි වියේ පසු වූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+At the time of his death, he was 92 years old, foreign media reports.
 
-බර්ඩ් ලෝක කුසලාන අවසන් තරග තුනක් ඇතුළුව ටෙස්ට් තරග 66ක් සහ එක්දින තරග 6ක විනිසුරුවරයා ලෙස කටයුතු කර තිබේ.
+The Burrrd World Cup has served 66 Tests and six ODIs, including three World Cup final.
 
-බර්ඩ් 1956 දී එංගලන්තයේ පළමුපෙළේ පිතිකරුවෙකු ලෙස සිය වෘත්තීය ජීවිතය ආරම්භ කළේය.
+Bertured began his career as a batsman in England in 1956.
 
-විනිසුරුවරයෙකු ලෙස සිය පළමු තරගය සඳහා හැරල්ඩ් බර්ඩ් එක්වන්නේ 1970 මැයි මාසයේදීය.
+Harold Burved joins his first match as a judge in May 1970.
 
 ◼️
 
 [Data](articles/e49fc15f.json)
+
+[Extended Data](ext_articles/e49fc15f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 21:20:37**
+As of **2025-09-23 21:39:22**
 
 ## Newspaper Stats
 
-*Scraped **77,730** Articles*
+*Scraped **77,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,554
-adaderanalk | 10,079
+adalk | 7,555
+adaderanalk | 10,080
 tamilmirrorlk | 11,703
 virakesarilk | 12,644
 adaderanasinhalalk | 13,578
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,730 (100.0%) of 77,730 articles have been extended.
+77,730 (100.0%) of 77,732 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,28 @@ Harold Burved joins his first match as a judge in May 1970.
 [Data](articles/e49fc15f.json)
 
 [Extended Data](ext_articles/e49fc15f.ext.json)
+
+---
+
+### Sampath Manamperi remanded
+
+*2025-09-23 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112838/sampath-manamperi-remanded) · `en`
+
+Sampath Manamperi, who was detained for interrogation by the Police Narcotics Bureau (PNB), has been ordered remanded in custody by the Walasmulla Magistrate’s Court today (23).
+
+Accordingly, he was remanded until September 26 over the concealment of two containers of raw materials allegedly used in the production of the drug “Ice” and reportedly belonging to underworld figure Kehelbaddara Padme, in the Middeniya area.
+
+In addition, the Magistrate ordered that he be remanded until October 01 in connection with the recent discovery of weapons at the residence of a female acquaintance of the accused in Thalawa, Middeniya.
+
+The Walasmulla Magistrate’s Court on September 17 had granted the PNB permission to detain Sampath Manamperi for seven days for questioning.
+
+Following the court order, PNB officers interrogated Sampath Manamperi regarding the recent discovery of the two containers in Middeniya.
+
+Sampath Manamperi had surrendered to the Walasmulla Magistrate’s Court on September 17.
+
+◼️
+
+[Data](articles/73fba0e4.json)
 
 ---
 
@@ -171,6 +193,20 @@ Another person in the house in question had also died after being admitted to th
 [Data](articles/bde94ffc.json)
 
 [Extended Data](ext_articles/bde94ffc.ext.json)
+
+---
+
+### විදුලිය අත්‍යාවශ්‍ය සේවාවක් කළ ගැසට්ටුව හෙට පාර්ලිමේන්තුවට
+
+*2025-09-23 19:25:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කළ-ගැසට්ටුව-හෙට-පාර්ලිමේන්තුවට/11-418680) · `si`
+
+විදුලිබලය සැපයීම සම්බන්ධ සියලු සේවාවන් අත්‍යාවශ්‍ය සේවාවන් බවට පත් කරමින් ගරු ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් කරන ලද නියමය ඇතුළත්  ගැසට් නිවේදනය අනුමතිය සඳහා හෙට (24) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට අද (23) කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය විය.
+
+මේ අනුව 1979 අංක 61 දරන අත්‍යාවශ්‍ය මහජන සේවා පනත යටතේ 2025.09.21 වැනිදා නිකුත් කළ අංක 2454/68 දරන ගැසට් පත්‍රයේ ජනාධිපතිතුමා විසින් විසින් කරන ලද ප්‍රකාශනය මෙසේ විවාදයකින් තොරව හෙට අනුමතිය සඳහා ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/0e667059.json)
 
 ---
 
@@ -2067,39 +2103,5 @@ Police investigations have revealed that the seized drug stock belongs to an und
 [Data](articles/9fa0e615.json)
 
 [Extended Data](ext_articles/9fa0e615.ext.json)
-
----
-
-### Former Mayor Saman Lal bailed
-
-*2025-09-23 11:16:29* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නගරාධිපති-සමන්-ලාල්ට-ඇප/11-418665) · `si`
-
-Former Mayor Saman Lal Fernando, who was arrested and remanded, has been granted bail this morning.
-
-He was arrested by the Bribery and Corruption Commission on the 10th of September.
-
-◼️
-
-[Data](articles/5f49688e.json)
-
-[Extended Data](ext_articles/5f49688e.ext.json)
-
----
-
-### Senior actor Nalin Pradeep Uduvela has passed away.
-
-*2025-09-23 11:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-நடிகர்-நளின்-பிரதீப்-உடுவெல-காலமானார்/175-365115) · `ta`
-
-Nalin Pradeep Uduwala, who has a unique acting personality, passed away on Tuesday morning (23) at the age of 56.
-
-He is reported to have been receiving treatment at the Maharagama Abeksha Hospital for a few days.
-
-Her performance in the stage, cinema and television plays was recognized at several awards ceremonies including Sarasavi and Sumathi.
-
-◼️
-
-[Data](articles/3405e8df.json)
-
-[Extended Data](ext_articles/3405e8df.ext.json)
 
 ---

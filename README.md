@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 13:57:07**
+As of **2025-09-23 13:40:09**
 
 ## Newspaper Stats
 
-*Scraped **77,658** Articles*
+*Scraped **77,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,78 +17,38 @@ dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,541
-adaderanalk | 10,066
+adaderanalk | 10,063
 tamilmirrorlk | 11,690
-virakesarilk | 12,633
-adaderanasinhalalk | 13,564
+virakesarilk | 12,630
+adaderanasinhalalk | 13,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,651 (100.0%) of 77,658 articles have been extended.
+77,650 (100.0%) of 77,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### නාරාහේන්පිට සිට බොරැල්ල දෙසට දැඩි රථවාහන තදබදයක්
-
-*2025-09-23 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214909) · `si`
-
-නාරාහේන්පිට සිට බොරුල්ල දෙසට දැඩි රථවාහන තදබදයක් හට ගෙන ඇතැයි අද දෙරණ වාර්තාකරු පැවසීය.
-
-අන්තර් විශ්වවිද්‍යාලීය ශිෂ්‍ය ක්‍රියාකාරී සංගමයේ පාගමනක් හේතුවෙන් මෙලෙස මාර්ගය අවහිර වී තිබේ.
-
-◼️
-
-[Data](articles/70368be0.json)
-
----
-
-### தங்காலையில் ஐஸ் போதைப்பொருள் கைப்பற்றல் சம்பவத்துடன் தொடர்புடைய இருவர் கைது !
-
-*2025-09-23 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225846) · `ta`
-
-தங்காலை - சீனிமோதரயில் உள்ள வீடொன்றில் திங்கட்கிழமை ( செப்டெம்பர் 22) வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்த ஒருவரின் இரண்டு மகன்களை பொலிஸார் கைது செய்துள்ளனர்.
-
-தங்காலை பகுதியில் மூன்று லொறிகளில் இருந்து பெருமளவிலான போதைப்பொருள் பறிமுதல் செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-மூன்று லொறிகளில் இருந்து 9,888 மில்லியன் ரூபாய் பெறுமதியான போதைப்பொருட்கள் கண்டுப்பிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-284.94 கிலோகிராம் ஹெரோயின் மற்றும் 420.976 கிலோகிராம் ஐஸ் ரக போதைப்பொருட்கள் பறிமுதல் செய்யப்பட்டதாக தெரிவிக்கப்படுகிறது.
-
-அதேநேரம், வீட்டிற்குள் இரண்டு நபர்கள் சந்தேகத்திற்கிடமான முறையில் உயிரிழந்தமையை தொடர்ந்து நேற்று நடத்தப்பட்ட ஒரு விசேட நடவடிக்கையின் போது இந்த போதைப்பொருள் பறிமுதல் நடவடிக்கை இடம்பெற்றுள்ளது.
-
-இதன்போது,  ரி -56 ரக துப்பாக்கி மற்றும் ஐந்து பொதி செய்யப்படாத கைத்துப்பாக்கிகளையும் பொலிஸார் மீட்டுள்ளனர்.
-
-...
-
-[Data](articles/049b0db8.json)
-
----
-
-### Two arrested for causing Katunayake
+### මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායකට ආ දෙදෙනෙක් අත්අඩංගුවට
 
 *2025-09-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214908) · `si`
 
-A group of passengers were arrested by the Customs Drug Administration Division this morning (23) by the Green Mawatha, "Green Channel '(23), police said.
+''කුෂ්" මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ  " හරිත මාවත" ( Green Channel ) ඔස්සේ පිටව යාමට තැත්කළ ගුවන් මගීන් දෙදෙනෙකු අද (23) උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-The suspects have been taken by the suspects with a quantity of 'Kush' crumbs from a marketing value.
+රුපියල් කෝටි 05කට අධික වෙළෙඳ වටිනාකමකින්  යුතු ''කුෂ්" මත්ද්‍රව්‍ය තොගයක් මෙම සැකකරුවන් විසින් රැගෙනවිත් ඇති බව සඳහන් වේ.
 
-It is revealed that the other person is a 48 year old Salgivat of Chennai, India.
+අනෙක් පුද්ගලයා ඉන්දියාවේ චෙන්නායි නුවර පදිංච් 48 හැවිරිදි අයෙක් බව අනාවරණය වී ඇත.
 
-They were purchased from Banglinda in Thailand in Thailand, and arrived at New Delhi in India and arrived at the Katunayake airport at 06. 277 this morning.
+ඔවුන් මෙම මත්ද්‍රව්‍ය තොගය තායිලන්තයේ බැංකොක් නුවරින් මිළදී ගෙන, ඉන්දියාවේ නවදිල්ලි නුවර වෙත පැමිණ, එතැන් සිට අද අලුයම 06.50 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 277 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
 
-There were five kilograms of drugs, which were prepared in two packs in two baggage and on the baggage.
+ඔවුන් විසින් රැගෙන විත් තිබූ ගමන් මලු දෙකක් තුළ සහ පිටෙහි එල්ලා ගෙන යනු ලබන ගමන් මල්ලක් තුළ ඇසුරුම් 05 ක් ලෙස සකස් කළ " කුෂ්" මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 05 යි ග්‍රෑම් 092 ක් තිබී ඇත.
 
-The two suspects have been handed over to the Katunayake Airport to the officers of Katunayake for further investigations.
-
-◼️
+...
 
 [Data](articles/7a938f55.json)
-
-[Extended Data](ext_articles/7a938f55.ext.json)
 
 ---
 
@@ -136,28 +96,6 @@ He urged the government to address these concerns and ensure that justice is pro
 
 ---
 
-### Sri Lanka says no immediate LNG imports from India as infrastructure lags
-
-*2025-09-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112824/sri-lanka-says-no-immediate-lng-imports-from-india-as-infrastructure-lags) · `en`
-
-Sri Lanka has no immediate plans to import liquefied natural gas (LNG) from India, as the required infrastructure including storage facilities is yet to be built, the country’s energy minister said on Tuesday.
-
-India announced last year it would supply LNG to Sri Lanka’s power plants and work on cross-border energy connectivity, including a petroleum pipeline and power grid link.
-
-“We have to first build the storage facility. Construction has not commenced yet,” said Sri Lanka’s energy minister Kumara Jayakody, speaking to Reuters on the sidelines of Confederation of Indian Industry’s energy summit in New Delhi.
-
-Sri Lanka is yet to finalise the LNG contract procurement with India, he said.
-
-The minister said it would take at least three years to complete construction of the storage infrastructure, and imports would begin only after that.
-
-While discussions to build storage had taken place under the previous government, no contracts have been finalised, he added.
-
-...
-
-[Data](articles/5b096b7e.json)
-
----
-
 ### PM Modi is a great responsibility: Unni Mukundan
 
 *2025-09-23 12:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரதமர்-மோடியாக-நடிப்பது-பெரிய-பொறுப்பு-உன்னி-முகுந்தன்/54-365130) · `ta`
@@ -196,26 +134,6 @@ The suspect has been arrested on the spot and further investigations are being c
 
 ---
 
-### குடியேற்றவாசிகளுக்கு வசிப்பிட வாய்ப்புகளை வழங்குகிறது நியூசிலாந்து !
-
-*2025-09-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225832) · `ta`
-
-குடியேற்றவாசிகளுக்கு வசிப்பிடத்தைப் பெறுவதற்கு இரண்டு புதிய முறைகளை அறிமுகப்படுத்துவதாக நியூசிலாந்து அரசாங்கம் செவ்வாய்க்கிழமை ( செப்டெம்பர் 23) தெரிவித்துள்ளது.
-
-நாட்டின் பொருளாதாரத்தை மேம்படுத்துவதற்கான முயற்சிகளின் ஒரு பகுதியாக இந்த திட்டம் இடம்பெறுவதாக தெரிவிக்கப்படுகிறது.
-
-திறமையான மற்றும் அனுபவம் வாய்ந்த குடியேற்றவாசிகள் பணியாளர் இடைவெளிகளை நிரப்புவதில் முக்கிய அங்கம் வகிப்பதாக தெரிவித்துள்ளது.
-
-மேலும் இது வணிகங்கள் வளர உதவுவதாக பொருளாதார மேம்பாட்டு அமைச்சர் நிக்கோலா வில்லிஸ் அறிக்கையொன்றில் தெரிவித்துள்ளார்.
-
-சில குடியேற்றவாசிகளுக்கு தற்போதுள்ள பணியாளர்களில் இல்லாத முக்கியமான திறன்கள் மற்றும் குறிப்பிடத்தக்க அனுபவம் இருந்த போதிலும், அவர்கள் வசிப்பிடத்தைப் பெறுவது மிகவும் கடினம் என வணிகங்கள் தெரிவித்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/d1fcaaf1.json)
-
----
-
 ### Tigers. 40 crores tried to change: Sri Lankan woman's affidavit to ED
 
 *2025-09-23 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளுக்கு-ரூ-40-கோடியை-மாற்ற-முயன்றேன்-ED-யிடம்-இலங்கை-பெண்-வாக்குமூலம்/150-365127) · `ta`
@@ -237,26 +155,6 @@ With those documents, they tried to take Hamida's Rs 40 crore in the bank. In 20
 [Data](articles/bb83f8c4.json)
 
 [Extended Data](ext_articles/bb83f8c4.ext.json)
-
----
-
-### 2025 காலி உரையாடல் நாளை ஆரம்பமாகவுள்ளது.
-
-*2025-09-23 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225840) · `ta`
-
-காலி உரையாடல் சர்வதேச கடல்சார் மாநாட்டின் 12 வது பதிப்பு புதன்கிழமை (செப்டெம்பர் 24) ஆரம்பிக்கவுள்ளது.
-
-பாதுகாப்பு அமைச்சின் தலைமையில் இலங்கை கடற்படை நடத்தும் இரண்டு நாள் மாநாடு, வெலிசரயில் உள்ள வேவ் அண்ட் லேக் கடற்படை மாநாட்டு மண்டபத்தில் நடைபெறவுள்ளது.
-
-இரண்டு நாள் நடைபெறும் இந்த முதன்மை மன்றத்தில் 34 நாடுகள் மற்றும் 14 சர்வதேச அமைப்புகளைச் சேர்ந்த சிரேஸ்ட பிரதிநிதிகள், கடற்படைத் தலைவர்கள் மற்றும் கடல்சார் நிபுணர்கள் உள்ளிட்டோர் பங்கேற்கவுள்ளனர்.
-
-“மாறிவரும் இயக்கவியலின் கீழ் இந்தியப் பெருங்கடலின் கடல்சார் பார்வை" என்ற கருப்பொருளின் கீழ், பாதுகாப்பான, வளமான மற்றும் நிலையான கடல்சார் எதிர்காலத்தை உருவாக்குவது குறித்த மூலோபாய உரையாடலை இந்த மாநாடு வளர்க்கும் என எதிர்ப்பார்க்கப்படுகிறது.
-
-கடல்சார் சூழல், கடல்சார் நிர்வாகம், கடல்சார் பொருளாதாரம், கடல்சார் நிலைத்தன்மை மற்றும் சுத்தமான இந்தியப் பெருங்கடல் ஆகிய ஐந்து முக்கிய கருப்பொருள் பகுதிகளில் கவனம் செலுத்தும் நான்கு முக்கிய அமர்வுகளை உள்ளடக்கி இந்த மாநாடு கட்டமைக்கப்பட்டுள்ளதாக கடற்படை அறிக்கையொன்றினூடாக தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/e555c536.json)
 
 ---
 
@@ -321,48 +219,6 @@ During a raid by Palali Airport officials, the woman brought gold in her private
 [Data](articles/77d56188.json)
 
 [Extended Data](ext_articles/77d56188.ext.json)
-
----
-
-### New Zealand woman convicted of murdering her two children and hiding bodies in suitcases
-
-*2025-09-23 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112823/new-zealand-woman-convicted-of-murdering-her-two-children-and-hiding-bodies-in-suitcases) · `en`
-
-A South Korean-born New Zealand woman was convicted on Tuesday of murdering her two children, whose bodies were discovered in suitcases in an abandoned storage locker, local media reported.
-
-Hakyung Lee admitted killing the children, aged eight and six, but had pleaded not guilty to two counts of murder on the grounds of insanity. She chose to represent herself throughout the trial, assisted by two lawyers.
-
-The court heard Lee gave the children an overdose of prescription medicine in 2018 before wrapping their bodies in plastic bags and putting them in the suitcases, New Zealand media said.
-
-Lee stood with her head bowed and showed no reaction as the jury delivered their unanimous verdict. Neither the prosecution or defence spoke to the media as they left the court, RNZ reported.
-
-The children’s remains were discovered in 2022 by a family going through the contents of a storage locker they had bought at an online auction.
-
-...
-
-[Data](articles/87bbbe4e.json)
-
----
-
-### Majestic tusker ‘Sapumal’ injured in shooting, condition critical
-
-*2025-09-23 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112822/majestic-tusker-sapumal-injured-in-shooting-condition-critical) · `en`
-
-The tusker known as ‘Sapumal’, native to the Hurulu Eco Park and Minneriya National Park, has reportedly been shot at by unknown individuals.
-
-Safari jeep drivers in Kaudulla National Park have also confirmed sightings of the injured tusker, said Ada Derana reporter.
-
-‘Sapumal’, estimated to be about 25 years old, is notable for its tusks, which are over two and a half feet long.
-
-The tusker is said to have sustained two gunshot injuries to its front right leg. Tourists who have seen the tusker have stated that pus was oozing from its wounds below the knee.
-
-According to reports, the tusker is in critical condition and requires urgent medical attention.
-
-Visitors to the Kaudulla National Park yesterday (22) captured footage of the tusker ‘Sapumal’ limping near the Kaudulla tank, highlighting the severity of its injuries.
-
-◼️
-
-[Data](articles/85bb89c1.json)
 
 ---
 
@@ -2069,5 +1925,141 @@ The arrest was taken during a special roundup held by the Kankesan Department Re
 [Data](articles/41b84987.json)
 
 [Extended Data](ext_articles/41b84987.ext.json)
+
+---
+
+### Arrest someone with heroin
+
+*2025-09-23 03:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-ஒருவர்-கைது/175-365096) · `ta`
+
+Yall. A suspect has been arrested in the area under the Point Pedro Police Division.
+
+The arrest was taken during a special roundup held by the Kankesan Department Regional Crime Branch yesterday.
+
+8460 milligrams of Keroin was seized from the suspect and handed over to the Point Pedro Police Station to the Point Pedro Magistrate's Court.. (A)
+
+◼️
+
+[Data](articles/ab90527d.json)
+
+[Extended Data](ext_articles/ab90527d.ext.json)
+
+---
+
+### Throw the petrol bombs on the house
+
+*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரோல்-குண்டு-வீச்சு/175-365095) · `ta`
+
+An elderly man in Mullaitivu, Vattuvagal area, unidentified persons attacked a petrol bomb at midnight yesterday.
+
+At around 2 am yesterday, the house of the house was poured on the wall of the house.
+
+During this time, the door of the house, and the parked motorcycle were destroyed.
+
+The attack was carried out by mysterious people wearing a helmet and rain shield as they covered their face.
+
+At midnight, the attackers fled when the elderly man called the neighbors.
+
+◼️
+
+[Data](articles/a9a66191.json)
+
+[Extended Data](ext_articles/a9a66191.ext.json)
+
+---
+
+### Petrol Bomb Bomb on the house
+
+*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரொல்-குண்டு-வீச்சு/175-365095) · `ta`
+
+An elderly man in Mullaitivu, Vattuvagal area, unidentified persons attacked a petrol bomb at midnight yesterday.
+
+At around 2 am yesterday, the house of the house was poured into the house and the fire was poured into the house.
+
+During this time, the door of the house, and the parked motorcycle were destroyed.
+
+The attack was carried out by mysterious people wearing a helmet and rain shield as they covered their face.
+
+At midnight the incident, the attackers fled when the elderly man called the neighbors.
+
+◼️
+
+[Data](articles/be50548a.json)
+
+[Extended Data](ext_articles/be50548a.ext.json)
+
+---
+
+### Former and current political figures who have failed to submit property and responsible details - corruption inquiry commission
+
+*2025-09-23 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225804) · `ta`
+
+The Commission to Investigate on Bribery or Corruption has not submitted property and responsibility details over the period of time, including former minister Douglas Devananda, and former governors Senthil Thondaman, Naveen Dissanayake, Roshan Gunathilaka, and Viliyam Kamage.
+
+On March 25, 2025, the Commission for Investigation of Bribery or Corruption has issued the names of those who have not submitted the property and responsibility for the year 2024.
+
+The name list includes former ministers, six diplomats, four of the former provincial governors, 29 persons, and 2 judges of the Court of Appeal.
+
+Douglas Devananda, who has been the Minister of Fisheries of the last government, has not submitted to the Commission within a period of property and responsibility.
+
+Former diplomatic minister Lohan Ratwatte, and former diplomatic ministers Taraka Balasuriya, Shantha Bandara, Khadar Mastan, Pillaiyan and Suren Raghavan did not submit details of property and responsibility.
+
+...
+
+[Data](articles/f5b76a3a.json)
+
+[Extended Data](ext_articles/f5b76a3a.ext.json)
+
+---
+
+### Sweet shop robbery at Pudukkudiyiruppu
+
+*2025-09-23 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225803) · `ta`
+
+An incident took place at a sweet shop on Paradhan Road, Pudukkudiyiruppu on Monday (22) at 7 pm.
+
+When the shop was brought to the notice of the owner, the public in the area joined the area and handed over the youth to the Pudukkudiyiruppu police.
+
+The arrested was a 25 -year -old youth from Paradhan, police said.
+
+◼️
+
+[Data](articles/f8be3e57.json)
+
+[Extended Data](ext_articles/f8be3e57.ext.json)
+
+---
+
+### Rescue of 600 kg of drugs and guns in the Tangalle area; Suspicious death
+
+*2025-09-23 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225802) · `ta`
+
+About 600 kg of drugs, including ice and heroin, have been seized in the surrounding surroundings carried out by the police in the Tangalle Seenimodara and its adjacent areas.. Public Security Minister Ananda Wijebala said that the guns were seized during the rapes, which were carried out on Monday (22).
+
+Over the past two decades, the country has seen an increase in drug -related and systematic crimes in the country. It is a well -known fact that political contacts were found in direct. However, the government is carrying out various measures to prevent further prolongation.
+
+As a reflection of these measures, it can be controlled at a specific level. The main suspects associated with the underworld groups, especially in the abroad, have been brought to the country.. Various information has been revealed in the ongoing investigation into them. Intelligence information related to these is continuously available.
+
+...
+
+[Data](articles/f2de326b.json)
+
+[Extended Data](ext_articles/f2de326b.ext.json)
+
+---
+
+### People’s Bank partners Justice Ministry to drive countrywide court digitalisation
+
+*2025-09-23 02:19:54* · [`dailyftlk`](https://www.ft.lk/news/People-s-Bank-partners-Justice-Ministry-to-drive-countrywide-court-digitalisation/56-782065) · `en`
+
+People’s Bank yesterday announced a collaboration with the Justice Ministry and the Supreme Court of Sri Lanka to introduce digital payment solutions across the judicial system.
+
+The ceremonial launch took place at the Sri Lanka Judges’ Institute Auditorium, in the presence of Chief Justice Preethi Padman Surasena, Justice Minister Eranga Weeraratne, Chief Presidential Adviser on Digital Economy Dr. Hans Wijayasuriya, Attorney General Parinda Ranasinghe, PC, Judges of the Supreme Court/Members of Judicial Service Commission S. Thuraijara PC and Mahinda Samayawardena, Justice Secretary Ayesha Jinasena PC, People’s Bank Chairman Prof. Narada Fernando, CEO Clive Fonseka, Deputy General Manager – Payment and Cards Nilmini Premalal, and Bar Association of Sri Lanka President Rajeev Amarasuriya.
+
+...
+
+[Data](articles/b9938fc9.json)
+
+[Extended Data](ext_articles/b9938fc9.ext.json)
 
 ---

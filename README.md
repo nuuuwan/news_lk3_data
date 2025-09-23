@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 13:40:09**
+As of **2025-09-23 14:22:41**
 
 ## Newspaper Stats
 
-*Scraped **77,651** Articles*
+*Scraped **77,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,235 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,541
-adaderanalk | 10,063
-tamilmirrorlk | 11,690
-virakesarilk | 12,630
-adaderanasinhalalk | 13,563
+adalk | 7,543
+adaderanalk | 10,069
+tamilmirrorlk | 11,691
+virakesarilk | 12,634
+adaderanasinhalalk | 13,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,650 (100.0%) of 77,651 articles have been extended.
+77,664 (100.0%) of 77,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායකට ආ දෙදෙනෙක් අත්අඩංගුවට
+### Cabinet approval to present the new microfinance bill to Parliament
 
-*2025-09-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214908) · `si`
+*2025-09-23 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214911) · `si`
 
-''කුෂ්" මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ  " හරිත මාවත" ( Green Channel ) ඔස්සේ පිටව යාමට තැත්කළ ගුවන් මගීන් දෙදෙනෙකු අද (23) උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Cabinet approval has been approved to submit the new microfinance and credit regulatory Authority Bill to Parliament.
 
-රුපියල් කෝටි 05කට අධික වෙළෙඳ වටිනාකමකින්  යුතු ''කුෂ්" මත්ද්‍රව්‍ය තොගයක් මෙම සැකකරුවන් විසින් රැගෙනවිත් ඇති බව සඳහන් වේ.
+The new Cabinet approval was given to introduce the new microfinance and Regulatory Authority Act No. 6 of 2016 to establish a wide regulatory framework for microfinance measures in Sri Lanka.
 
-අනෙක් පුද්ගලයා ඉන්දියාවේ චෙන්නායි නුවර පදිංච් 48 හැවිරිදි අයෙක් බව අනාවරණය වී ඇත.
+Accordingly, the Bill has been published in the Government Gazette, 7 Pentum of the Supreme Court Pentum has been filed by various parties against the bill.
 
-ඔවුන් මෙම මත්ද්‍රව්‍ය තොගය තායිලන්තයේ බැංකොක් නුවරින් මිළදී ගෙන, ඉන්දියාවේ නවදිල්ලි නුවර වෙත පැමිණ, එතැන් සිට අද අලුයම 06.50 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 277 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+The Ministry of Finance, Planning and Economic Development has paid attention to the decision given by the Supreme Court regarding the petitions and the 'Sectoral Oversionship Council' in Parliament.
 
-ඔවුන් විසින් රැගෙන විත් තිබූ ගමන් මලු දෙකක් තුළ සහ පිටෙහි එල්ලා ගෙන යනු ලබන ගමන් මල්ලක් තුළ ඇසුරුම් 05 ක් ලෙස සකස් කළ " කුෂ්" මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 05 යි ග්‍රෑම් 092 ක් තිබී ඇත.
+Accordingly, approval was given at the Cabinet Meeting held on 11-11-11 to the introduction of the new microfinance and credit regulatory authority.
+
+The Attorney General's clearance has been received for the new Bill, which was prepared by the Legal Draftsman.
 
 ...
 
+[Data](articles/10fc092a.json)
+
+[Extended Data](ext_articles/10fc092a.ext.json)
+
+---
+
+### Court orders the owner of an ice lorry and question
+
+*2025-09-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214910) · `si`
+
+Mt.
+
+The suspect was resident of the Ratmalana, Ratmalana.
+
+The lorry was recovered by the police yesterday (22), which was found near the house near the house found near the house near the house in Katambagahawatugamuwa, Tangalle.
+
+Accordingly, the owner of the lorry, which is owned by the STF, has been arrested by the police with heroin with 11 grains and 140 milligrams of heroin.
+
+The suspect was submitted to the Mount Lavinia Magistrate's Court today (23).
+
+◼️
+
+[Data](articles/f9c361e7.json)
+
+[Extended Data](ext_articles/f9c361e7.ext.json)
+
+---
+
+### Uni students’ protest leads to heavy traffic between Narahenpita and Borella
+
+*2025-09-23 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112827/uni-students-protest-leads-to-heavy-traffic-between-narahenpita-and-borella) · `en`
+
+Heavy traffic congestion has been reported from Narahenpita towards Borella owing to a protest, according to Ada Derana reporter today.
+
+Accordingly, the Baseline road has been blocked due to a protest march staged by a group of university students.
+
+◼️
+
+[Data](articles/1ca7232d.json)
+
+---
+
+### මේ ලිපිය පොලිසියේ එකක් නෙවෙයි
+
+*2025-09-23 13:37:15* · [`adalk`](https://www.ada.lk/breaking_news/මේ-ලිපිය-පොලිසියේ-එකක්-නෙවෙයි/11-418672) · `si`
+
+According to the ATN: Attn: Attn: Attn: Attn: "Attn:", "Attn:
+
+It is emphasized that the Sri Lankan police are not propagated by the Sri Lankan police.
+
+◼️
+
+[Data](articles/65ad24b3.json)
+
+[Extended Data](ext_articles/65ad24b3.ext.json)
+
+---
+
+### Mother who killed 2 children in New Zealand
+
+*2025-09-23 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225842) · `ta`
+
+In New Zealand, a mother has been convicted of killing her two children and hiding their bodies in a box.
+
+According to media reports, the incident has been reported as a high -level case that shocked the country.
+
+The case was taken up by the Auckland High Court today (23) after a two -year hearing.
+
+Based on the available evidence, a 44 -year -old woman named Hakyung Lee was convicted of murder.
+
+The lawyer, on behalf of her, said that her husband was mentally ill during the murder a few months after her husband died of cancer.
+
+It is noteworthy that in 2022, his children's remnants were discovered by a family who bought a portion of the abandoned savings area in Auckland.
+
+◼️
+
+[Data](articles/950b4611.json)
+
+[Extended Data](ext_articles/950b4611.ext.json)
+
+---
+
+### Acknowledgment for investing in Paranton
+
+*2025-09-23 13:36:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரந்தனில்-முதலீடு-செய்ய-அங்கிகாரம்/175-365132) · `ta`
+
+The Paranthan Chemical Company, which is defined as the possibility of reusing the Gosrik sodafloror production factory in the premises where the Paranthan Chemical Factory is located.
+
+At present, the Paranthan Ranayan Company is importing and distributing chlorine across the country and the overall chlorine of the country's water purification is restricted in the global distribution chain, causing the water purification structure to be completely stopped.
+
+In addition, the construction of a chlorine manufacturing factory at home is a nationally important task to reduce foreign exchange costs for the importation of chlorine.
+
+In addition, it is expected that 95 direct employment and approximately 2,000 indirect employment are expected by implementing the proposed project.
+
+...
+
+[Data](articles/c69c0d23.json)
+
+[Extended Data](ext_articles/c69c0d23.ext.json)
+
+---
+
+### Cabinet nod to renovate several state university buildings through budget allocations
+
+*2025-09-23 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112826/cabinet-nod-to-renovate-several-state-university-buildings-through-budget-allocations-) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to renovate several state universities by completing the construction of university buildings and related infrastructure facilities.
+
+The project will be implemented under the budget allocations for the years 2026, 2027, and 2028.
+
+◼️
+
+[Data](articles/ba038441.json)
+
+---
+
+### Heavy traffic to Borella to Borella to Borella to Borella
+
+*2025-09-23 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214909) · `si`
+
+Ada Derana reporter said that heavy traffic was taken towards the favor of Narahenpita.
+
+The road has been blocked due to a march at the Inter University Student Action Association.
+
+◼️
+
+[Data](articles/70368be0.json)
+
+[Extended Data](ext_articles/70368be0.ext.json)
+
+---
+
+### Two persons arrested in connection with an ice drug seizure in Tangalle
+
+*2025-09-23 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225846) · `ta`
+
+Police have arrested two sons who died after being admitted to a hospital on Monday (September 22) at a house in Tangalle.
+
+A large number of drugs have been seized from three lorries in the Tangalle area, police said.
+
+9,888 million worth of drugs from three lorries have been found, police said.
+
+It is reported that 284.94 kilograms of heroin and 420.976 kilograms of ice have been confiscated.
+
+At the same time, the drug was confiscated during a special operation held yesterday following the deaths of two people in the house.
+
+In the meantime, police have recovered the T -56 rifle and five unacceptable handguns.
+
+Police investigations have revealed that the confiscated drug belonged to a member of the underworld, Unakuruwa Santha, who is suspected of engaging in drug trafficking from abroad.
+
+...
+
+[Data](articles/049b0db8.json)
+
+[Extended Data](ext_articles/049b0db8.ext.json)
+
+---
+
+### Cabinet approves introduction of ‘Government SuperApp’ to streamline public services
+
+*2025-09-23 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112825/cabinet-approves-introduction-of-government-superapp-to-streamline-public-services) · `en`
+
+The Cabinet of Ministers has granted approval to the proposal to create a ‘Government SuperApp’, aimed at enabling the public to access government services through a single, unified digital platform.
+
+Officials have noted that the current disjointed approach to government service delivery—requiring multiple systems, repeated authentication processes, and redundant data entry across various departments—has caused considerable inconvenience to citizens.
+
+It is estimated that these inefficiencies result in an economic loss exceeding Rs. 500 million annually.
+
+◼️
+
+[Data](articles/cb727da4.json)
+
+---
+
+### Two arrested for causing Katunayake
+
+*2025-09-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214908) · `si`
+
+A group of passengers were arrested by the Customs Drug Administration Division this morning (23) by the Green Mawatha, "Green Channel '(23), police said.
+
+The suspects have been taken by the suspects with a quantity of 'Kush' crumbs from a marketing value.
+
+It is revealed that the other person is a 48 year old Salgivat of Chennai, India.
+
+They were purchased from Banglinda in Thailand in Thailand, and arrived at New Delhi in India and arrived at the Katunayake airport at 06. 277 this morning.
+
+There were five kilograms of drugs, which were prepared in two packs in two baggage and on the baggage.
+
+The two suspects have been handed over to the Katunayake Airport to the officers of Katunayake for further investigations.
+
+◼️
+
 [Data](articles/7a938f55.json)
+
+[Extended Data](ext_articles/7a938f55.ext.json)
 
 ---
 
@@ -96,6 +292,48 @@ He urged the government to address these concerns and ensure that justice is pro
 
 ---
 
+### Nalin Pradeep sabbathing over front
+
+*2025-09-23 12:56:24* · [`adalk`](https://www.ada.lk/breaking_news/නලීන්-ප්‍රදීප්-උඩවෙල-සමුගනියි/11-418668) · `si`
+
+Veteran performer Nalin Pradeep Udawela sacked from us today (23). Udawela, who was 56 years old at the time of his death, was a great artist who was loved by the Sri Lankan stage, cinema and small screen.
+
+At the time of his death, he was receiving treatment at the stage 'jury' and 'Bethoi', 'Apuri Walawi', 'Madura Walawi', 'Madurawi', 'Manarawi', 'Moneraon', 'Moneragala', 'Moneraon'. Lake ',' White Hami 'contributed to a number of teledrama including' smell '.
+
+'Star Flowers', 'Wrong Flowers', as 'love,', was evaluated in their talents, and Nalin was involved in politics. The funeral information about Nalin Pradeep Udawela will be informed later.
+
+◼️
+
+[Data](articles/120c32b9.json)
+
+[Extended Data](ext_articles/120c32b9.ext.json)
+
+---
+
+### Sri Lanka says no immediate LNG imports from India as infrastructure lags
+
+*2025-09-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112824/sri-lanka-says-no-immediate-lng-imports-from-india-as-infrastructure-lags) · `en`
+
+Sri Lanka has no immediate plans to import liquefied natural gas (LNG) from India, as the required infrastructure including storage facilities is yet to be built, the country’s energy minister said on Tuesday.
+
+India announced last year it would supply LNG to Sri Lanka’s power plants and work on cross-border energy connectivity, including a petroleum pipeline and power grid link.
+
+“We have to first build the storage facility. Construction has not commenced yet,” said Sri Lanka’s energy minister Kumara Jayakody, speaking to Reuters on the sidelines of Confederation of Indian Industry’s energy summit in New Delhi.
+
+Sri Lanka is yet to finalise the LNG contract procurement with India, he said.
+
+The minister said it would take at least three years to complete construction of the storage infrastructure, and imports would begin only after that.
+
+While discussions to build storage had taken place under the previous government, no contracts have been finalised, he added.
+
+...
+
+[Data](articles/5b096b7e.json)
+
+[Extended Data](ext_articles/5b096b7e.ext.json)
+
+---
+
 ### PM Modi is a great responsibility: Unni Mukundan
 
 *2025-09-23 12:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரதமர்-மோடியாக-நடிப்பது-பெரிய-பொறுப்பு-உன்னி-முகுந்தன்/54-365130) · `ta`
@@ -134,6 +372,30 @@ The suspect has been arrested on the spot and further investigations are being c
 
 ---
 
+### New Zealand offers residence opportunities for immigrants!
+
+*2025-09-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225832) · `ta`
+
+The New Zealand government on Tuesday (September 23) announced that it will introduce two new methods to get a residence for immigrants.
+
+The project is said to be part of efforts to improve the country's economy.
+
+Skilled and experienced immigrants are an important part of filling employee gaps.
+
+Economic Development Minister Nicola Willis said in a statement that it helps to grow businesses.
+
+He noted that some migrants have said that it is very difficult for them to get a residence, despite the significant skills and significant experiences that are not present in the existing employees.
+
+The report stated that the new paths are for skilled workers and traders and technicians, and they must have a suitable experience abroad and New Zealand and meet the salary limitations.
+
+◼️
+
+[Data](articles/d1fcaaf1.json)
+
+[Extended Data](ext_articles/d1fcaaf1.ext.json)
+
+---
+
 ### Tigers. 40 crores tried to change: Sri Lankan woman's affidavit to ED
 
 *2025-09-23 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளுக்கு-ரூ-40-கோடியை-மாற்ற-முயன்றேன்-ED-யிடம்-இலங்கை-பெண்-வாக்குமூலம்/150-365127) · `ta`
@@ -155,6 +417,30 @@ With those documents, they tried to take Hamida's Rs 40 crore in the bank. In 20
 [Data](articles/bb83f8c4.json)
 
 [Extended Data](ext_articles/bb83f8c4.ext.json)
+
+---
+
+### 2025 Galle Conversation begins tomorrow.
+
+*2025-09-23 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225840) · `ta`
+
+The Galle Conversation is scheduled to commence on Wednesday (September 24).
+
+The two -day conference held by the Ministry of Defense will be held at the Wave and Lake Naval Conference Hall in Welisarai.
+
+The two -day primary forum will be attended by senior representatives, naval leaders and maritime experts from 34 countries and 14 international organizations.
+
+The conference is expected to develop a strategic conversation on creating a safe, fertile and stable maritime future under the theme of "the maritime vision of the Indian Ocean under the changing mechanism."
+
+The conference has been built on the four main sessions that focuses on the five major sessions of the maritime environment, maritime administration, maritime economy, maritime stability and the clean Indian Ocean, which focuses on the four main sessions.
+
+It is also reported that it will be discussed with the aim of creating joint strategies to address traditional and non -traditional maritime threats.
+
+◼️
+
+[Data](articles/e555c536.json)
+
+[Extended Data](ext_articles/e555c536.ext.json)
 
 ---
 
@@ -219,6 +505,52 @@ During a raid by Palali Airport officials, the woman brought gold in her private
 [Data](articles/77d56188.json)
 
 [Extended Data](ext_articles/77d56188.ext.json)
+
+---
+
+### New Zealand woman convicted of murdering her two children and hiding bodies in suitcases
+
+*2025-09-23 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112823/new-zealand-woman-convicted-of-murdering-her-two-children-and-hiding-bodies-in-suitcases) · `en`
+
+A South Korean-born New Zealand woman was convicted on Tuesday of murdering her two children, whose bodies were discovered in suitcases in an abandoned storage locker, local media reported.
+
+Hakyung Lee admitted killing the children, aged eight and six, but had pleaded not guilty to two counts of murder on the grounds of insanity. She chose to represent herself throughout the trial, assisted by two lawyers.
+
+The court heard Lee gave the children an overdose of prescription medicine in 2018 before wrapping their bodies in plastic bags and putting them in the suitcases, New Zealand media said.
+
+Lee stood with her head bowed and showed no reaction as the jury delivered their unanimous verdict. Neither the prosecution or defence spoke to the media as they left the court, RNZ reported.
+
+The children’s remains were discovered in 2022 by a family going through the contents of a storage locker they had bought at an online auction.
+
+...
+
+[Data](articles/87bbbe4e.json)
+
+[Extended Data](ext_articles/87bbbe4e.ext.json)
+
+---
+
+### Majestic tusker ‘Sapumal’ injured in shooting, condition critical
+
+*2025-09-23 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112822/majestic-tusker-sapumal-injured-in-shooting-condition-critical) · `en`
+
+The tusker known as ‘Sapumal’, native to the Hurulu Eco Park and Minneriya National Park, has reportedly been shot at by unknown individuals.
+
+Safari jeep drivers in Kaudulla National Park have also confirmed sightings of the injured tusker, said Ada Derana reporter.
+
+‘Sapumal’, estimated to be about 25 years old, is notable for its tusks, which are over two and a half feet long.
+
+The tusker is said to have sustained two gunshot injuries to its front right leg. Tourists who have seen the tusker have stated that pus was oozing from its wounds below the knee.
+
+According to reports, the tusker is in critical condition and requires urgent medical attention.
+
+Visitors to the Kaudulla National Park yesterday (22) captured footage of the tusker ‘Sapumal’ limping near the Kaudulla tank, highlighting the severity of its injuries.
+
+◼️
+
+[Data](articles/85bb89c1.json)
+
+[Extended Data](ext_articles/85bb89c1.ext.json)
 
 ---
 
@@ -860,7 +1192,11 @@ The denial is expected to further increase the legal and diplomatic issues betwe
 
 Minister of Justice and National Integration Harsha Nanayakkara is scheduled to depart for Geneva, Switzerland, on Wednesday (24), to participate in the first periodic review of Sri Lanka by the Committee on Enforced Disappearances.
 
-◼️
+The review session will be held on September 26, and will focus on Sri Lanka’s compliance with the International Convention for the Protection of All Persons from Enforced Disappearance, which the country became a party to in 2016.
+
+Joining the Justice Minister for the session will be senior officials from the Ministry of Justice and National Unity, the Attorney General’s Department, the Office on Missing Persons (OMP), the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism, and Sri Lanka’s Permanent Mission to Geneva.
+
+...
 
 [Data](articles/ac572a62.json)
 
@@ -1743,323 +2079,5 @@ The Mount Lavinia Divisional Crime Investigation Unit is conducting further inve
 [Data](articles/aa872939.json)
 
 [Extended Data](ext_articles/aa872939.ext.json)
-
----
-
-### One arrested in Vavuniya with 6 kg of cannabis
-
-*2025-09-23 06:21:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கிலோ-கஞ்சாவுடன்-வவுனியாவில்-ஒருவர்-கைது/175-365097) · `ta`
-
-The Vavuniya Criminal Investigation Division said that one person has been arrested with 6 kg of ganja worth Rs 12 lakh.
-
-A team led by Police Inspector Rajapaksa, under the guidance of the Vavuniya Chief Police Officer in charge of the Vavuniya Crime Prevention Unit, conducted a raid in the Vavuniya city area.
-
-It was found that the motorbike was transported on a motorcycle. Subsequently, the man was arrested by the police and the motorcycle and 6 kg of cannabis were recovered.
-
-A 47 -year -old man has been arrested in the Vavuniya Marukarampalai area.. (A)
-
-◼️
-
-[Data](articles/895c17d1.json)
-
-[Extended Data](ext_articles/895c17d1.ext.json)
-
----
-
-### Showers in the past 2 pm today
-
-*2025-09-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214888) · `si`
-
-Showers will occur at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The Department of Meteorology announces that there will be a few showers in the North Western Province.
-
-Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at a few places.
-
-At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. Strong winds are about 30-40 times.
-
-Department of Meteorology to take action to minimize the dangers of lightning and temporary strong winds
-
-◼️
-
-[Data](articles/b2197aa0.json)
-
-[Extended Data](ext_articles/b2197aa0.ext.json)
-
----
-
-### France formally recognises Palestinian state
-
-*2025-09-23 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112798/france-formally-recognises-palestinian-state) · `en`
-
-France has formally recognised a Palestinian state, becoming the latest in a wave of countries to take the step.
-
-Speaking at the UN in New York, President Emmanuel Macron said “the time for peace has come” and that “nothing justifies the ongoing war in Gaza”.
-
-France and Saudi Arabia are hosting a one-day summit at the UN General Assembly focused on plans for a two-state solution to the conflict. G7 states Germany, Italy, and the US did not attend.
-
-Belgium, Luxembourg, Malta, Andorra and San Marino are also due to recognise a Palestinian state, after the UK, Canada, Australia and Portugal announced recognition on Sunday.
-
-International pressure is ramping up on Israel over the unfolding humanitarian crisis in Gaza and settlement building in the West Bank.
-
-Israel has said recognition would reward Hamas for the Palestinian armed group’s 7 October 2023 attack on southern Israel in which about 1,200 people were killed and 251 taken hostage.
-
-...
-
-[Data](articles/7e8d9fbc.json)
-
-[Extended Data](ext_articles/7e8d9fbc.ext.json)
-
----
-
-### Parliament to convene at 9.30am
-
-*2025-09-23 05:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112797/parliament-to-convene-at-930am) · `en`
-
-The first session of the second Parliament sitting week for September is scheduled for today (23).
-
-According to the agenda paper, the business of Parliament as per Standing Order 22(1) to (6) of the Parliament will take place between 09.30 a.m. and 10.00 a.m.
-
-Following questions for oral answers and questions under Standing Order 27(2) of Parliament, the debate on the second reading of the National Building Research Institute Bill will be held today.
-
-◼️
-
-[Data](articles/391325dc.json)
-
-[Extended Data](ext_articles/391325dc.ext.json)
-
----
-
-### Showers expected in several areas after 2pm today
-
-*2025-09-23 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112796/showers-expected-in-several-areas-after-2pm-today) · `en`
-
-Showers will occur at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (23), the Department of Meteorology said.
-
-A few showers may occur in the North-western province as well.
-
-Showers or thundershowers are likely in several places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m., the Met Department added.
-
-Fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Central, Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
-
-◼️
-
-[Data](articles/ce316c10.json)
-
-[Extended Data](ext_articles/ce316c10.ext.json)
-
----
-
-### Parliament meets today
-
-*2025-09-23 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225807) · `ta`
-
-The second parliamentary session of September is scheduled to be held from 23rd to 26th Tuesday.  Parliamentary Secretary General Kushani Rohanadheera said that this was decided at a recent meeting on the recent Parliamentary Affairs Committee chaired by Speaker Jagath Wickremaratne.
-
-Accordingly, the Parliament will meet every day from 9.30 am to 10.00 am on the Standing Ordinance of 1 to 6.. Subsequently, the time has been allocated for questions from 10.00 am to 11.00 am and the time of the Standing Ordinance of 11.00 pm to 11.30 pm is assigned to the question of 27 (2).
-
-Accordingly, the second assessment of the National Building Arachchi Bill was decided to hold a debate on Tuesday, 23rd to 5.00 pm.
-
-Thereafter, time has been set up for the debate for the adjournment of the opposition from 5.00 pm to 5.30 pm.
-
-...
-
-[Data](articles/1b2523b9.json)
-
-[Extended Data](ext_articles/1b2523b9.ext.json)
-
----
-
-### Lorry accident on southern highway
-
-*2025-09-23 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/225806) · `ta`
-
-One person was injured in an accident on Monday night (22) night between Dhakoda and Kalanigama on the Southern Expressway.
-
-A lorry carrying books from Galle to Colombo lost control and collapsed on the street. As a result, traffic on the road to Colombo has been temporarily paralyzed, police said.
-
-It is noteworthy that heavy traffic congestion has been caused by this situation.
-
-◼️
-
-[Data](articles/71621489.json)
-
-[Extended Data](ext_articles/71621489.ext.json)
-
----
-
-### The UN. President departed to the United States to attend the 80th General Assembly session
-
-*2025-09-23 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/225805) · `ta`
-
-President Anuragumara Dissanayake has left the island to attend the 80th General Assembly session of the United Nations.
-
-The President will address the United Nations General Assembly at 3.15 pm on Wednesday 24th.
-
-During the visit, President Anuragumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several leaders.
-
-President Anura Kumara Dissanayake accompanied Foreign, Foreign Employment and Tourism Minister Vijitha Herath during the visit.
-
-◼️
-
-[Data](articles/4c7bc0e2.json)
-
-[Extended Data](ext_articles/4c7bc0e2.ext.json)
-
----
-
-### Arrest of someone with Keroin
-
-*2025-09-23 03:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெரோயினுடன்-ஒருவர்-கைது/175-365096) · `ta`
-
-Yall. A suspect has been arrested in the area under the Point Pedro Police Division.
-
-The arrest was taken during a special roundup held by the Kankesan Department Regional Crime Branch yesterday.
-
-8460 milligrams of Keroin was seized from the suspect and handed over to the Point Pedro Police Station to the Point Pedro Magistrate's Court.. (A)
-
-◼️
-
-[Data](articles/41b84987.json)
-
-[Extended Data](ext_articles/41b84987.ext.json)
-
----
-
-### Arrest someone with heroin
-
-*2025-09-23 03:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-ஒருவர்-கைது/175-365096) · `ta`
-
-Yall. A suspect has been arrested in the area under the Point Pedro Police Division.
-
-The arrest was taken during a special roundup held by the Kankesan Department Regional Crime Branch yesterday.
-
-8460 milligrams of Keroin was seized from the suspect and handed over to the Point Pedro Police Station to the Point Pedro Magistrate's Court.. (A)
-
-◼️
-
-[Data](articles/ab90527d.json)
-
-[Extended Data](ext_articles/ab90527d.ext.json)
-
----
-
-### Throw the petrol bombs on the house
-
-*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரோல்-குண்டு-வீச்சு/175-365095) · `ta`
-
-An elderly man in Mullaitivu, Vattuvagal area, unidentified persons attacked a petrol bomb at midnight yesterday.
-
-At around 2 am yesterday, the house of the house was poured on the wall of the house.
-
-During this time, the door of the house, and the parked motorcycle were destroyed.
-
-The attack was carried out by mysterious people wearing a helmet and rain shield as they covered their face.
-
-At midnight, the attackers fled when the elderly man called the neighbors.
-
-◼️
-
-[Data](articles/a9a66191.json)
-
-[Extended Data](ext_articles/a9a66191.ext.json)
-
----
-
-### Petrol Bomb Bomb on the house
-
-*2025-09-23 03:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-பெட்ரொல்-குண்டு-வீச்சு/175-365095) · `ta`
-
-An elderly man in Mullaitivu, Vattuvagal area, unidentified persons attacked a petrol bomb at midnight yesterday.
-
-At around 2 am yesterday, the house of the house was poured into the house and the fire was poured into the house.
-
-During this time, the door of the house, and the parked motorcycle were destroyed.
-
-The attack was carried out by mysterious people wearing a helmet and rain shield as they covered their face.
-
-At midnight the incident, the attackers fled when the elderly man called the neighbors.
-
-◼️
-
-[Data](articles/be50548a.json)
-
-[Extended Data](ext_articles/be50548a.ext.json)
-
----
-
-### Former and current political figures who have failed to submit property and responsible details - corruption inquiry commission
-
-*2025-09-23 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225804) · `ta`
-
-The Commission to Investigate on Bribery or Corruption has not submitted property and responsibility details over the period of time, including former minister Douglas Devananda, and former governors Senthil Thondaman, Naveen Dissanayake, Roshan Gunathilaka, and Viliyam Kamage.
-
-On March 25, 2025, the Commission for Investigation of Bribery or Corruption has issued the names of those who have not submitted the property and responsibility for the year 2024.
-
-The name list includes former ministers, six diplomats, four of the former provincial governors, 29 persons, and 2 judges of the Court of Appeal.
-
-Douglas Devananda, who has been the Minister of Fisheries of the last government, has not submitted to the Commission within a period of property and responsibility.
-
-Former diplomatic minister Lohan Ratwatte, and former diplomatic ministers Taraka Balasuriya, Shantha Bandara, Khadar Mastan, Pillaiyan and Suren Raghavan did not submit details of property and responsibility.
-
-...
-
-[Data](articles/f5b76a3a.json)
-
-[Extended Data](ext_articles/f5b76a3a.ext.json)
-
----
-
-### Sweet shop robbery at Pudukkudiyiruppu
-
-*2025-09-23 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/225803) · `ta`
-
-An incident took place at a sweet shop on Paradhan Road, Pudukkudiyiruppu on Monday (22) at 7 pm.
-
-When the shop was brought to the notice of the owner, the public in the area joined the area and handed over the youth to the Pudukkudiyiruppu police.
-
-The arrested was a 25 -year -old youth from Paradhan, police said.
-
-◼️
-
-[Data](articles/f8be3e57.json)
-
-[Extended Data](ext_articles/f8be3e57.ext.json)
-
----
-
-### Rescue of 600 kg of drugs and guns in the Tangalle area; Suspicious death
-
-*2025-09-23 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/225802) · `ta`
-
-About 600 kg of drugs, including ice and heroin, have been seized in the surrounding surroundings carried out by the police in the Tangalle Seenimodara and its adjacent areas.. Public Security Minister Ananda Wijebala said that the guns were seized during the rapes, which were carried out on Monday (22).
-
-Over the past two decades, the country has seen an increase in drug -related and systematic crimes in the country. It is a well -known fact that political contacts were found in direct. However, the government is carrying out various measures to prevent further prolongation.
-
-As a reflection of these measures, it can be controlled at a specific level. The main suspects associated with the underworld groups, especially in the abroad, have been brought to the country.. Various information has been revealed in the ongoing investigation into them. Intelligence information related to these is continuously available.
-
-...
-
-[Data](articles/f2de326b.json)
-
-[Extended Data](ext_articles/f2de326b.ext.json)
-
----
-
-### People’s Bank partners Justice Ministry to drive countrywide court digitalisation
-
-*2025-09-23 02:19:54* · [`dailyftlk`](https://www.ft.lk/news/People-s-Bank-partners-Justice-Ministry-to-drive-countrywide-court-digitalisation/56-782065) · `en`
-
-People’s Bank yesterday announced a collaboration with the Justice Ministry and the Supreme Court of Sri Lanka to introduce digital payment solutions across the judicial system.
-
-The ceremonial launch took place at the Sri Lanka Judges’ Institute Auditorium, in the presence of Chief Justice Preethi Padman Surasena, Justice Minister Eranga Weeraratne, Chief Presidential Adviser on Digital Economy Dr. Hans Wijayasuriya, Attorney General Parinda Ranasinghe, PC, Judges of the Supreme Court/Members of Judicial Service Commission S. Thuraijara PC and Mahinda Samayawardena, Justice Secretary Ayesha Jinasena PC, People’s Bank Chairman Prof. Narada Fernando, CEO Clive Fonseka, Deputy General Manager – Payment and Cards Nilmini Premalal, and Bar Association of Sri Lanka President Rajeev Amarasuriya.
-
-...
-
-[Data](articles/b9938fc9.json)
-
-[Extended Data](ext_articles/b9938fc9.ext.json)
 
 ---

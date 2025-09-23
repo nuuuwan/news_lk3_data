@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 23:06:24**
+As of **2025-09-23 23:40:16**
 
 ## Newspaper Stats
 
-*Scraped **77,745** Articles*
+*Scraped **77,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,556
-adaderanalk | 10,081
+adaderanalk | 10,082
 tamilmirrorlk | 11,705
-virakesarilk | 12,649
+virakesarilk | 12,650
 adaderanasinhalalk | 13,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,745 (100.0%) of 77,745 articles have been extended.
+77,747 (100.0%) of 77,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### The president has reached the United States
+
+*2025-09-23 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225903) · `ta`
+
+President Anuragumara Dissanayake, who is traveling from the country to attend the 80th General Assembly session of the United Nations, said that the US John F.. Kenady reached the International Airport.
+
+John F in the United States. President Anura Kumara Dissanayake, who arrived at the Kenady International Airport, was welcomed by the United Nations Permanent Representative and former Chief Justice of India, President Jayantha Mandarasiri Jayasuriya.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herum has joined President Anura Kumara Dissanayake on the visit.
+
+◼️
+
+[Data](articles/db2b4a41.json)
+
+[Extended Data](ext_articles/db2b4a41.ext.json)
+
+---
+
+### President Dissanayake arrives in New York for UNGA session
+
+*2025-09-23 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112841/president-dissanayake-arrives-in-new-york-for-unga-session-) · `en`
+
+President Anura Kumara Dissanayake has arrived in New York, to attend the 80th sessions of the United Nations General Assembly (UNGA).
+
+The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time.
+
+Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
+
+The President is accompanied on this official visit by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath.
+
+◼️
+
+[Data](articles/12170369.json)
+
+[Extended Data](ext_articles/12170369.ext.json)
+
+---
 
 ### 2.8 million estimates for excavation of human burial excavation!
 
@@ -2065,45 +2103,5 @@ The Katunayake airport police have been handed over to the Katunayake Airport Na
 [Data](articles/2660d30d.json)
 
 [Extended Data](ext_articles/2660d30d.ext.json)
-
----
-
-### Gold recovery
-
-*2025-09-23 12:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தரங்க-உறுப்பில்-அறுவை-சிகிச்சை-செய்து-தங்கம்-மீட்பு/175-365123) · `ta`
-
-Gold was recovered after surgery of gold, who was abducted by gold, was arrested and surgery in the private organ.. Jaffna Hospital information reports that the woman is working.
-
-A woman who came to Jaffna Palali International Airport from India was arrested on Sunday. The woman from Colombo was arrested by officials.
-
-During a raid by Palali Airport officials, the woman brought gold in her private organ. The woman involved in the abduction was brought to the Jaffna Teaching Hospital and the gold was rescued after treatment.. The woman is receiving treatment at the hospital among the security and she is recovering, according to hospital sources.
-
-◼️
-
-[Data](articles/77d56188.json)
-
-[Extended Data](ext_articles/77d56188.ext.json)
-
----
-
-### New Zealand woman convicted of murdering her two children and hiding bodies in suitcases
-
-*2025-09-23 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112823/new-zealand-woman-convicted-of-murdering-her-two-children-and-hiding-bodies-in-suitcases) · `en`
-
-A South Korean-born New Zealand woman was convicted on Tuesday of murdering her two children, whose bodies were discovered in suitcases in an abandoned storage locker, local media reported.
-
-Hakyung Lee admitted killing the children, aged eight and six, but had pleaded not guilty to two counts of murder on the grounds of insanity. She chose to represent herself throughout the trial, assisted by two lawyers.
-
-The court heard Lee gave the children an overdose of prescription medicine in 2018 before wrapping their bodies in plastic bags and putting them in the suitcases, New Zealand media said.
-
-Lee stood with her head bowed and showed no reaction as the jury delivered their unanimous verdict. Neither the prosecution or defence spoke to the media as they left the court, RNZ reported.
-
-The children’s remains were discovered in 2022 by a family going through the contents of a storage locker they had bought at an online auction.
-
-...
-
-[Data](articles/87bbbe4e.json)
-
-[Extended Data](ext_articles/87bbbe4e.ext.json)
 
 ---

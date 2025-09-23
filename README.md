@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 03:55:22**
+As of **2025-09-24 04:07:07**
 
 ## Newspaper Stats
 
-*Scraped **77,767** Articles*
+*Scraped **77,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,773
 dailyftlk | 5,525
 adalk | 7,556
 adaderanalk | 10,082
-tamilmirrorlk | 11,707
+tamilmirrorlk | 11,709
 virakesarilk | 12,652
 adaderanasinhalalk | 13,583
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 13,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,767 (100.0%) of 77,767 articles have been extended.
+77,767 (100.0%) of 77,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### ’இலங்கை  தனித்துவமான தளமாகும்’
+
+*2025-09-24 03:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தனித்துவமான-தளமாகும்/175-365169) · `ta`
+
+சர்வதேச வர்த்தக நிகழ்வுகளுக்கு இலங்கை ஒரு தனித்துவமான தளமாகும் என்றும், இலங்கையின் பெயரை சர்வதேச அரங்கிற்கு கொண்டுச் செல்வதற்கு "SL MICE EXPO 2025" ஒரு மிகச் சிறந்த வாய்ப்பாகும் எனவும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சின் கீழ் இயங்கும் இலங்கை மாநாட்டு பணியகத்தால் (SLCB) ஏற்பாடு செய்யப்பட்ட "SL MICE EXP0 2025" கண்காட்சியின் அங்குரார்ப்பண நிகழ்வில்   கொழும்பு சினமன் லைஃப் ஹோட்டலில் செப்டம்பர் 23ஆம் திகதி நடைபெற்றது.
+
+இக்கண்காட்சியில் 30 நாடுகளைச் சேர்ந்த 100 பிரதிநிதிகள் கலந்துகொள்வதுடன், "SL MICE Expo 2025" கண்காட்சி  முதல் 5 நாட்களுக்கு நடைபெற இருக்கின்றது.
+
+இலங்கையை MICE (Meetings, Incentives, Conferences, and Exhibitions) துறையில் ஒரு முன்னணி நாடாக மாற்றுவதன் மூலம் உள்நாட்டு மற்றும் வெளிநாட்டு MICE பிரிவில் தமது சேவைகள், தயாரிப்புகள் மற்றும் திறமைகளை காட்சிப்படுத்துவதற்கும், மேம்படுத்துவதற்குமான வாய்ப்பைப் பெற்றுக்கொடுப்பதே இதன் நோக்கமாகும்.
+
+...
+
+[Data](articles/b5041a7c.json)
+
+---
+
+### ’நியாயமற்றதை ஏற்றுக்கொள்ளோம்’
+
+*2025-09-24 03:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியாயமற்றதை-ஏற்றுக்கொள்ளோம்/175-365168) · `ta`
+
+உலகத்தமிழ் கலை பண்பாட்டுக் கலைக்கூடம் சர்வதேச அமைப்பின் ஏற்பாட்டில், இந்தியா மற்றும் இலங்கையின் பாரம்பரியக் கலைகளைப் போற்றும் மாபெரும் கலாச்சார விழா எதிர்வரும் டிசம்பர் மாதம் 17 ஆம் திகதி இலங்கையின் தலைநகரான கொழும்பில் நடைபெற உள்ளது.
+
+இந்த நிகழ்வில், இந்தியாவிலிருந்து சுமார் பத்து முன்னணிப் பாடகர்கள் பங்கேற்று, தமிழ் திரைப்படப் பாடல்களைப் பாட உள்ளனர். இவர்களுடன், இலங்கையின் ஹட்டன் சலீம் உள்ளிட்ட பிரபல பாடகர்களும் தங்கள் இசைத் திறனை வெளிப்படுத்த உள்ளனர்.
+
+இந்தக் கலாச்சார விழா, தமிழ் மற்றும் சிங்கள கலை வடிவங்களை ஒருங்கிணைத்து, இரு நாடுகளுக்கும் இடையிலான நட்புறவை வலுப்படுத்தும் வகையில் அமையப்பெறவுள்ளதுடன். குறிப்பாக, அழிந்துவரும் பாரம்பரியத் தமிழ் கலைகளை மீட்டுருவாக்கம் செய்யும் வகையில், தமிழ்நாட்டிலிருந்து அரசுப் பள்ளி மாணவ மாணவிகள் பங்கேற்று சிறப்பு நடனங்களை அரங்கேற்ற உள்ளனர்.
+
+இந்த நிகழ்வில், இலங்கையின் முக்கிய அமைச்சர்களும் சமூகப் பெரியோர்களும் சிறப்பு விருந்தினர்களாகக் கலந்துகொள்ள உள்ளனர்.
+
+...
+
+[Data](articles/29057993.json)
+
+---
 
 ### Gaza, genocide and Sri Lanka’s dilemma of conscience
 
@@ -2023,49 +2059,5 @@ It is emphasized that the Sri Lankan police are not propagated by the Sri Lankan
 [Data](articles/65ad24b3.json)
 
 [Extended Data](ext_articles/65ad24b3.ext.json)
-
----
-
-### Sri Lanka to use Rs1bn of OPEC fund loan to improve Embilipitiya road
-
-*2025-09-23 13:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-use-rs1bn-of-opec-fund-loan-to-improve-embilipitiya-road-241616/) · `en`
-
-ECONOMYNEXT – Sri Lanka will use part of a 40 million dollar loan from the OPEC Fund for International Development to improve a 9.62 km section of the Embilipitiya-Panamura-Buluthota road, minister Nalinda Jayatissa said.
-
-“There is a balance of about Rs. 1,000 million of that loan, and it is planned to use that money and government funds to improve the 9.62 km section of the currently dilapidated Embilipitiya-Panamura-Buluthota road (B115) from Kolonna to Suriyakanda,” Jayatissa told reporters.
-
-“This section of the road will provide access to several tourist attractions such as the Sinharaja Forest, Maduwanwela Walawwa, Waulpane, Gongala, Handapanagala, Buluthota waterfalls and Himidiri Pedesa, boosting tourism.”
-
-Sri Lanka obtained the 40 million dollar loan from the OPEC Fund for International Development to improve the Rakwana-Suriyakanda section of the Galle-Deniya-Madampe road. (Colombo/Sep23/2025)
-
-◼️
-
-[Data](articles/3d9ee702.json)
-
-[Extended Data](ext_articles/3d9ee702.ext.json)
-
----
-
-### Mother who killed 2 children in New Zealand
-
-*2025-09-23 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225842) · `ta`
-
-In New Zealand, a mother has been convicted of killing her two children and hiding their bodies in a box.
-
-According to media reports, the incident has been reported as a high -level case that shocked the country.
-
-The case was taken up by the Auckland High Court today (23) after a two -year hearing.
-
-Based on the available evidence, a 44 -year -old woman named Hakyung Lee was convicted of murder.
-
-The lawyer, on behalf of her, said that her husband was mentally ill during the murder a few months after her husband died of cancer.
-
-It is noteworthy that in 2022, his children's remnants were discovered by a family who bought a portion of the abandoned savings area in Auckland.
-
-◼️
-
-[Data](articles/950b4611.json)
-
-[Extended Data](ext_articles/950b4611.ext.json)
 
 ---

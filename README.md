@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 05:56:38**
+As of **2025-09-23 06:21:24**
 
 ## Newspaper Stats
 
-*Scraped **77,554** Articles*
+*Scraped **77,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,685
 dailymirrorlk | 4,733
-islandlk | 4,772
+islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,528
 adaderanalk | 10,039
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,544 (100.0%) of 77,554 articles have been extended.
+77,544 (100.0%) of 77,555 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -509,6 +509,20 @@ Spreading fake documents is legally punishable offense. For official information
 [Data](articles/a29a2514.json)
 
 [Extended Data](ext_articles/a29a2514.ext.json)
+
+---
+
+### SLTDA embraces digital transformation by joining GovPay
+
+*2025-09-22 22:52:00* · [`islandlk`](http://island.lk/sltda-embraces-digital-transformation-by-joining-govpay/) · `en`
+
+In a groundbreaking initiative to modernize Sri Lanka’s tourism industry through digitalization, the Sri Lanka Tourism Development Authority (SLTDA) has joined GovPay – the government’s digital payment platform. This integration enables seamless, secure, and hassle-free online payments for a wide range of SLTDA services, offering greater convenience to stakeholders across the tourism ecosystem.
+
+As one of the country’s most vital industries, tourism lies at the heart of Sri Lanka’s economic revival. By embracing GovPay, SLTDA aims to streamline processes, reduce administrative hurdles, and create a more transparent and efficient business environment – further supporting the Government’s vision of positioning Sri Lanka as a world-class tourist destination powered by digital innovation.
+
+...
+
+[Data](articles/9df09221.json)
 
 ---
 
@@ -2037,25 +2051,5 @@ After the World Cup, the de Cock retired from the International Ground of ODIs.
 [Data](articles/57576baf.json)
 
 [Extended Data](ext_articles/57576baf.ext.json)
-
----
-
-### Sri Lanka AKD’s 1-year: broken promises, modest gains, and lingering questions
-
-*2025-09-22 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-akds-1-year-broken-promises-modest-gains-and-lingering-questions-241522/) · `en`
-
-ECONOMYNEXT – When Anura Kumara Dissanayake (AKD) swept into office a year ago, it marked the first time a leftist leader from the National People’s Power (NPP) had captured Sri Lanka’s presidency.
-
-Riding a wave of frustration with mainstream parties and promising a “new political culture,” Dissanayake presented himself as the face of accountability, anti-corruption, and people-centered governance after years of economic hardship and elite impunity.
-
-Ordinary citizens measure a government by their daily hardships. By this yardstick, many feel disappointed. Many people still praise AKD’s anti-corruption policies and some accountability measures. However, they complain that their cost of living has not reduced much. Others, especially youth who voted for change, express frustration that systemic issues are unchanged.
-
-Polls indicate a dip in AKD’s popularity from the euphoria of election night. Opposition parties sense an opening, accusing him of betraying his own voters.
-
-...
-
-[Data](articles/25b31788.json)
-
-[Extended Data](ext_articles/25b31788.ext.json)
 
 ---

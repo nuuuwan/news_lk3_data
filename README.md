@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 13:07:01**
+As of **2025-09-23 13:40:09**
 
 ## Newspaper Stats
 
-*Scraped **77,644** Articles*
+*Scraped **77,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,539
+adalk | 7,541
 adaderanalk | 10,063
-tamilmirrorlk | 11,687
+tamilmirrorlk | 11,690
 virakesarilk | 12,630
-adaderanasinhalalk | 13,561
+adaderanasinhalalk | 13,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,644 (100.0%) of 77,644 articles have been extended.
+77,650 (100.0%) of 77,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායකට ආ දෙදෙනෙක් අත්අඩංගුවට
+
+*2025-09-23 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214908) · `si`
+
+''කුෂ්" මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේ  " හරිත මාවත" ( Green Channel ) ඔස්සේ පිටව යාමට තැත්කළ ගුවන් මගීන් දෙදෙනෙකු අද (23) උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+රුපියල් කෝටි 05කට අධික වෙළෙඳ වටිනාකමකින්  යුතු ''කුෂ්" මත්ද්‍රව්‍ය තොගයක් මෙම සැකකරුවන් විසින් රැගෙනවිත් ඇති බව සඳහන් වේ.
+
+අනෙක් පුද්ගලයා ඉන්දියාවේ චෙන්නායි නුවර පදිංච් 48 හැවිරිදි අයෙක් බව අනාවරණය වී ඇත.
+
+ඔවුන් මෙම මත්ද්‍රව්‍ය තොගය තායිලන්තයේ බැංකොක් නුවරින් මිළදී ගෙන, ඉන්දියාවේ නවදිල්ලි නුවර වෙත පැමිණ, එතැන් සිට අද අලුයම 06.50 ට ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 277 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+
+ඔවුන් විසින් රැගෙන විත් තිබූ ගමන් මලු දෙකක් තුළ සහ පිටෙහි එල්ලා ගෙන යනු ලබන ගමන් මල්ලක් තුළ ඇසුරුම් 05 ක් ලෙස සකස් කළ " කුෂ්" මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 05 යි ග්‍රෑම් 092 ක් තිබී ඇත.
+
+...
+
+[Data](articles/7a938f55.json)
+
+---
+
+### Government Mulerapp application approval
+
+*2025-09-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214907) · `si`
+
+Cabinet approval has been approved to create a Government Superrapp application to obtain public services through a single computer application.
+
+It is observed that the citizens currently have significant difficulties to citizens that require significant difficulties for public service delivery in different systems, multi-verification processes and various government departments.
+
+It is also estimated that the annual damage has been caused by more than Rs. 500 million.
+
+Therefore, the development of the Government Superpep User, which covers a wide range of public services to the Sri Lankan digital economic plan, is recognized as a strategic priority.
+
+The project will be prepared by the project by combining all government services to one of the 21-year-old and annual entries of Sri Lanka.
+
+Accordingly, the President's proposal has been approved by the President to implement the total cost of Rs.
+
+◼️
+
+[Data](articles/b63324f6.json)
+
+[Extended Data](ext_articles/b63324f6.ext.json)
+
+---
+
+### Dayasiri criticized CEB's restructuring
+
+*2025-09-23 12:57:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-யின்-மறுசீரமைப்பை-விமர்சித்தார்-தயாசிறி/175-365131) · `ta`
+
+Opposition Parliamentarian Dayasiri Jayasekara yesterday criticized the current restructuring of the CEB of the Ceylon Electricity Board (CEB) that the process was disrupted and that it would raise concerns about the welfare of its employees.
+
+Jayasekara said that many workers are dissatisfied with the separation, and that they are concerned about the safety of arrears, including pending medical demands, and they may be affected under new companies.
+
+“Employees are uncertain whether the newly created companies will pay their arrears,” he said. "Also, those who consider retirement. They are demanding compensation for more than 5 million. "
+
+He urged the government to address these concerns and ensure that justice is provided to the CEB employees affected by the change.
+
+◼️
+
+[Data](articles/cc5902b7.json)
+
+[Extended Data](ext_articles/cc5902b7.ext.json)
+
+---
+
+### PM Modi is a great responsibility: Unni Mukundan
+
+*2025-09-23 12:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரதமர்-மோடியாக-நடிப்பது-பெரிய-பொறுப்பு-உன்னி-முகுந்தன்/54-365130) · `ta`
+
+Prime Minister Narendra Modi's biography. Unni Mukundan will play Prime Minister Modi in various languages. The official announcement of the film was made on September 17, the birthday of Prime Minister Modi.
+
+Unni Mukundan has spoken about his birthday. In it, “I am proud to be acting as 'Ma Vande' as Indian Prime Minister Sri Narendra Damodaradas Modi.
+
+When I grew up as a boy in Ahmedabad, he first knew him as the Chief Minister. It was then April 2023 that I met him in person. This is not another character for me. Liability. I hope to justify this story about the fact that the person from the background of the family has sacrificed everything for the development of the Indian nation. ”
+
+Modi's political life, which began in Gujarat, is about to show how he became a person who carried India India. 'Ma Vande' (Mother I adore you), reflecting the emotional bond between Modi and her late mother, Heyaben Modi.. This is the central theme of the film, the film crew.
+
+...
+
+[Data](articles/ea5a40ad.json)
+
+[Extended Data](ext_articles/ea5a40ad.ext.json)
+
+---
+
+### Boy killed in tipper collision; Female injury
+
+*2025-09-23 12:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-மோதியதில்-சிறுவன்-பலி-பெண்-படுகாயம்/175-365129) · `ta`
+
+A four -year -old boy and a girl collided with a tipper lorry while crossing the main road in front of the Ampara General Hospital, and the woman was injured and admitted to the hospital.
+
+Police have revealed that the tipper lorry from Kalmunai junction crashed when the child's mother was admitted to the hospital with her stepmother and grandmother to come to the hospital with her grandmother and grandmother.
+
+The suspect has been arrested on the spot and further investigations are being carried out by the Ampara Headquarters Police.
+
+◼️
+
+[Data](articles/74220635.json)
+
+[Extended Data](ext_articles/74220635.ext.json)
+
+---
 
 ### Tigers. 40 crores tried to change: Sri Lankan woman's affidavit to ED
 
@@ -117,6 +219,22 @@ During a raid by Palali Airport officials, the woman brought gold in her private
 [Data](articles/77d56188.json)
 
 [Extended Data](ext_articles/77d56188.ext.json)
+
+---
+
+### Follow the reasons why the no-confidence motion against Aruna
+
+*2025-09-23 12:07:34* · [`adalk`](https://www.ada.lk/breaking_news/අරුණට-එරෙහි-විශ්වාසභංගය-ප්‍රතික්ෂේප-කිරීමට-හේතු-වූ-කරුණු-සභාගත-කරන්න/11-418666) · `si`
+
+Opposition Leader Sajith Premadasa said in parliament today (23) to table the rejection proposal to the Deputy Minister Aruna Jayasekara.
+
+ඒ අනුව, ලේකම් මණ්ඩල වාර්තා සහ නීතිපති වාර්තාව ඇතුළු ඊට හේතු වූ කාරණා සභාගත කරන ලෙස විපක්ෂනායකවරයා මෙහිදී ඉල්ලීමක් කළේය.
+
+◼️
+
+[Data](articles/3359ae39.json)
+
+[Extended Data](ext_articles/3359ae39.ext.json)
 
 ---
 
@@ -433,6 +551,22 @@ Accordingly, the QR code is being implemented for Rs 200 million tea fertilizer 
 [Data](articles/a29d38b2.json)
 
 [Extended Data](ext_articles/a29d38b2.ext.json)
+
+---
+
+### Digital Tourism Solutions to develop tourism
+
+*2025-09-23 11:07:34* · [`adalk`](https://www.ada.lk/business/සංචාරක-කර්මාන්ත-වර්ධනයට-ඩිජිටල්-සංචාරක-විසඳුම්-ගෙනේ/7-418664) · `si`
+
+Sri Lanka's goal is to earn more than 3 million tourists by the end of the year of 2025 and earn US $ 5 million. The need for a developed transport system is vital. The main global supplier of providing information technology and digital solutions for the air transportation industry, SITA points out that technology is the ability to play a transfer to the growth of the country's airline and tourism industry.
+
+8.88 million passengers arrived in Sri Lanka in 2024, and it was 17.6% annual growth. In the first half of 2025, a 4.9 million tourist arrivals reported 16% over the previous year. The aircraft traffic increased by 20% in 2024. Meanwhile, the expansion and modernization programs have been started. These developments are shown that the immediate need to invest in efficient and safe passenger travel, free of services through digital solutions.
+
+...
+
+[Data](articles/00c9354b.json)
+
+[Extended Data](ext_articles/00c9354b.ext.json)
 
 ---
 
@@ -1927,133 +2061,5 @@ The ceremonial launch took place at the Sri Lanka Judges’ Institute Auditorium
 [Data](articles/b9938fc9.json)
 
 [Extended Data](ext_articles/b9938fc9.ext.json)
-
----
-
-### Colombo High Court fixes Yoshitha Rajapaksa asset case for 15 Oct.
-
-*2025-09-23 02:17:34* · [`dailyftlk`](https://www.ft.lk/news/Colombo-High-Court-fixes-Yoshitha-Rajapaksa-asset-case-for-15-Oct/56-782064) · `en`
-
-The Colombo High Court yesterday directed that the case against Yoshitha Rajapaksa, the son of former President Mahinda Rajapaksa, and his grandmother Daisy Forrest be recalled on 15 October.
-
-Both appeared before Court when the matter was taken up. The Attorney General has filed indictments under the Prevention of Money Laundering Act, alleging that the two unlawfully amassed assets valued at about Rs. 73 million.
-
-◼️
-
-[Data](articles/90eb9ea2.json)
-
-[Extended Data](ext_articles/90eb9ea2.ext.json)
-
----
-
-### Police seize three lorries linked to major drug haul in Tangalle
-
-*2025-09-23 02:16:55* · [`dailyftlk`](https://www.ft.lk/news/Police-seize-three-lorries-linked-to-major-drug-haul-in-Tangalle/56-782063) · `en`
-
-Sri Lankan Police have uncovered three lorries linked to narcotics within two days in Tangalle, seizing more than 200 kilograms of drugs along with firearms.
-
-The investigation began on Sunday when officers discovered the bodies of two people inside a house under renovation in Seenimodara. A search of the premises turned up about 10 kilograms of crystal methamphetamine, known as Ice, together with a lorry and a motorcycle.
-
-A second lorry, found near a service station in Tangalle, contained the bulk of the narcotics haul. Police said it concealed more than 200 kilograms of methamphetamine and heroin, as well as five revolvers and a T-56 assault rifle.
-
-Yesterday, police located a third lorry in Tangalle suspected of transporting drugs. The vehicle is now being examined.
-
-One suspect has been arrested and efforts are under way to apprehend another. Investigations into the deaths and the narcotics network are continuing.
-
-◼️
-
-[Data](articles/403bec28.json)
-
-[Extended Data](ext_articles/403bec28.ext.json)
-
----
-
-### President to address UN General Assembly tomorrow
-
-*2025-09-23 02:16:23* · [`dailyftlk`](https://www.ft.lk/news/President-to-address-UN-General-Assembly-tomorrow/56-782062) · `en`
-
-Flies to Japan end Sept. for EXPO 2025 Osaka; to meet Japanese Emperor, address business forum
-
-President Anura Kumara Disanayake who left for the US last night will address the 80th session of the United Nations General Assembly (UNGA) tomorrow.
-
-He will address the General Assembly at 3:15 p.m. local time on Wednesday (24), the Presidential Media Division said.
-
-The Palestinian-Israel conflict is expected to dominate the UN sessions.
-
-Sri Lanka earlier this month affirmed its unwavering support for the inalienable right of the Palestinian people to statehood, in accordance with the purposes and principles of the Charter of the United Nations and the relevant UN resolutions.
-
-President Disanayake is also expected to hold bilateral discussions with the UN Secretary-General and several world leaders during the visit.
-
-In addition, he will meet with Sri Lankans residing in the US.
-
-...
-
-[Data](articles/97f16369.json)
-
-[Extended Data](ext_articles/97f16369.ext.json)
-
----
-
-### More nations set to recognise Palestinian State
-
-*2025-09-23 02:15:09* · [`dailyftlk`](https://www.ft.lk/news/More-nations-set-to-recognise-Palestinian-State/56-782061) · `en`
-
-The UK, Australia, Canada and Portugal formally recognised a Palestinian State on Sunday, a move that will be followed by several European nations at a United Nations conference in Paris this week.
-
-The meeting, co-hosted by French President Emmanuel Macron and Saudi Arabia’s Crown Prince Mohammed bin Salman, is expected to see France, Belgium, Luxembourg, Andorra, San Marino and Malta extend recognition. More than three quarters of the UN’s 193 members already recognise Palestinian statehood. Countries that have not taken that step include the United States, Israel, Italy and Germany.
-
-◼️
-
-[Data](articles/c5557077.json)
-
-[Extended Data](ext_articles/c5557077.ext.json)
-
----
-
-### 1,000 anglers join battle against invasive giant snakehead at Deduru Oya
-
-*2025-09-23 02:13:02* · [`dailyftlk`](https://www.ft.lk/news/1-000-anglers-join-battle-against-invasive-giant-snakehead-at-Deduru-Oya/56-782060) · `en`
-
-Around 1,000 anglers took part in a fishing competition at Deduru Oya, Wariyapola, on Saturday (20), targeting the invasive predatory giant snakehead (locally known as Deduru Naya). The event, aimed at curbing the spread of the species in fragile freshwater ecosystems and raising public awareness, comes as the Government announced a ban on the import, sale, and transportation of several invasive fish from Southeast Asia, including the redline snakehead, knifefish, alligator gar, and piranha
-
-◼️
-
-[Data](articles/1b277cfb.json)
-
-[Extended Data](ext_articles/1b277cfb.ext.json)
-
----
-
-### Blossom Well signs BOI agreement for  $ 2.99 m boutique hotel establishment
-
-*2025-09-23 01:36:45* · [`dailyftlk`](https://www.ft.lk/business/Blossom-Well-signs-BOI-agreement-for-2-99-m-boutique-hotel-establishment/34-782052) · `en`
-
-Blossom Well Holdings Ltd., has signed an agreement with the Board of Investment (BOI) for $ 2.99 million to build a boutique hotel in Thissamaharama.
-
-This proposed investment is a high-end hospitality development located on land in Kohombagahapalassa, Thissamaharama, in proximity to the Yala National Park. The project targets the upscale and midscale tourist market, focusing on both international and domestic travellers.
-
-The senior management has developed a carefully articulated vision to become a leading high-quality star-class hospitality destination in Southern Sri Lanka, fully geared to offer exceptional service, authentic culinary experiences, and convenient access to the region’s most treasured religious, historical, and wildlife sites—creating lasting memories for every guest. The mission is to provide a superior hospitality experience.
-
-...
-
-[Data](articles/fd0a426a.json)
-
-[Extended Data](ext_articles/fd0a426a.ext.json)
-
----
-
-### National Chamber hosts B2B meeting with 31-member AICCI Indian business delegation
-
-*2025-09-23 01:33:49* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-hosts-B2B-meeting-with-31-member-AICCI-Indian-businessdelegation/34-782051) · `en`
-
-The National Chamber of Commerce of Sri Lanka, in collaboration with the All India Chamber of Commerce & Industries (AICCI), will host a 31-member Indian business delegation to strengthen the Trade and Investment opportunities through a series of Business-to-Business (B2B) meetings on Friday, 26 September, from 3 p.m. to 5.30 p.m. at the National Chamber Auditorium, #450, D.R. Wijewardena Mawatha, Colombo 10.
-
-This program themed, “Creating B2B Opportunities for Export, Import, Trade and Investments”, aims to bring together business leaders from Sri Lanka and India to explore new avenues for partnerships, joint ventures, and investments. This initiative will create valuable networking opportunities and help strengthen bilateral trade relations between the two countries.
-
-...
-
-[Data](articles/5eafbd3e.json)
-
-[Extended Data](ext_articles/5eafbd3e.ext.json)
 
 ---

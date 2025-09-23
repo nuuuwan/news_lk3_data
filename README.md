@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 01:20:33**
+As of **2025-09-24 01:38:30**
 
 ## Newspaper Stats
 
-*Scraped **77,751** Articles*
+*Scraped **77,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 5,510
 adalk | 7,556
 adaderanalk | 10,082
 tamilmirrorlk | 11,707
-virakesarilk | 12,651
+virakesarilk | 12,652
 adaderanasinhalalk | 13,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,751 (100.0%) of 77,751 articles have been extended.
+77,751 (100.0%) of 77,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### ஐ.நா வதிவிடப் பிரதிநிதியிடம்  தமிழ் மக்களின் கையொப்பங்கள் கையளிப்பு!
+
+*2025-09-24 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225905) · `ta`
+
+ஐ.நாவின் இலங்கைக்கான வதிவிடப் பிரதிநிதி திரு மார்க் அண்ட்ரே பிரான்சேவிடம் அனைத்து தமிழ்த் தேசியக் கட்சிகளும் ஒன்றிணைந்து கையெழுத்துப் போராட்டத்தில் பெற்றுக் கொண்ட கையொப்பங்கள் 23ஆம் திகதி செவ்வாய்க்கிழமை கொழும்பில் கையளிக்கப்பட்டன.
+
+இன்று செவ்வாய்க்கிழமை மாலை 3:30 மணியளவில் கொழும்பில் உள்ள ஐ.நா அலுவலகத்தில் இச்சந்திப்பு நடைபெற்றது. இக் கையொப்பங்களுடன் தமிழ் தேசிய கட்சிகளின் தலைவர்கள் ஒன்றிணைந்து கையொப்பமிட்ட கடித வரைவும் கையளிக்கப்பட்டது.
+
+தமிழ் தேசிய கட்சிகளின் சார்பில் பாராளுமன்ற உறுப்பினர் கௌரவ செல்வம் அடைக்கலநாதனும், சமத்துவ கட்சியின் செயலாளர் நாயகம். சந்திரகுமார் அவர்களும், கட்சிகளின் ஒருங்கிணைப்பாளரான குருசுவாமி சுரேந்திரனும் இச் சந்திப்பில் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/f20ad207.json)
+
+---
 
 ### Superior to Pakistan
 
@@ -2059,29 +2075,5 @@ Minister of Transport, Highways, Ports and Aviation Minister Sunil Jayaratne, Ch
 [Data](articles/cd774526.json)
 
 [Extended Data](ext_articles/cd774526.ext.json)
-
----
-
-### New Zealand offers residence opportunities for immigrants!
-
-*2025-09-23 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/225832) · `ta`
-
-The New Zealand government on Tuesday (September 23) announced that it will introduce two new methods to get a residence for immigrants.
-
-The project is said to be part of efforts to improve the country's economy.
-
-Skilled and experienced immigrants are an important part of filling employee gaps.
-
-Economic Development Minister Nicola Willis said in a statement that it helps to grow businesses.
-
-He noted that some migrants have said that it is very difficult for them to get a residence, despite the significant skills and significant experiences that are not present in the existing employees.
-
-The report stated that the new paths are for skilled workers and traders and technicians, and they must have a suitable experience abroad and New Zealand and meet the salary limitations.
-
-◼️
-
-[Data](articles/d1fcaaf1.json)
-
-[Extended Data](ext_articles/d1fcaaf1.ext.json)
 
 ---

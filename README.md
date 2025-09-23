@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 04:37:34**
+As of **2025-09-24 04:54:19**
 
 ## Newspaper Stats
 
-*Scraped **77,769** Articles*
+*Scraped **77,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,773
 dailyftlk | 5,525
 adalk | 7,556
 adaderanalk | 10,082
-tamilmirrorlk | 11,709
+tamilmirrorlk | 11,710
 virakesarilk | 12,652
 adaderanasinhalalk | 13,583
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 13,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,769 (100.0%) of 77,769 articles have been extended.
+77,769 (100.0%) of 77,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### தற்போதாவது ஏற்றுக்கொள்வீர்களா?
+
+*2025-09-24 04:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போதாவது-ஏற்றுக்கொள்வீர்களா/175-365170) · `ta`
+
+பிரதி அமைச்சர்களுக்கு அதிகாரம் அளிக்கப்படவில்லை என்று குறிப்பிட்டு, பிரதி பாதுகாப்பு அமைச்சர் அருண ஜயசேகரவுக்கு   எதிரான  நம்பிக்கையில்லா பிரேரணையை நிராகரித்தீர்கள். ஆனால், இவர் தற்போது பாதுகாப்பு பதில் அமைச்சராக நியமிக்கப்பட்டுள்ளார். எனவே, நாங்கள் சமர்ப்பித்த நம்பிக்கையில்லா பிரேரணை சரியானது என்பதை தற்போதாவது  ஏற்றுக்கொள்வீர்களா?  என்று  எதிர்க்கட்சிகளின் பிரதம கொறடாவான கயந்த கருணாதிலக  எம்.பி. சபாநாயகரிடம் கேள்வியெழுப்பினார்.
+
+மேலும் அவர் பேசுகையில், உத்தியோகபூர்வ அரசுமுறை விஜயத்தை மேற்கொண்டு  ஜனாதிபதி அனுரகுமார திசாநாயக்க அமெரிக்கா சென்றுள்ளார்.ஜனாதிபதி வசமுள்ள மூன்று அமைச்சுகளுக்குப் பதில் அமைச்சர்கள்  நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு அறிக்கை வெளியிட்டுள்ளது.
+
+பொருள்கோடல் கட்டளைச் சட்டத்தின் 2(அ) பிரிவில் 'அமைச்சர் ஒருவர் அரசாங்கத்தின் ஏதேனும் கடமை அல்லது கருமத்தை ஆற்றும் போது  அவருக்கு ஜனாதிபதியால் அந்த அதிகாரங்கள் வழங்கப்பட்டுள்ளன என்று கருதப்படும். முறையாக வகையில் குறித்த நபர் நியமிக்கப்பட்டுள்ளார் என்று கருதப்படும்'  என்று குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c5002271.json)
+
+---
 
 ### Model Sri Lanka is a unique site
 
@@ -2049,21 +2065,5 @@ Accordingly, the Baseline road has been blocked due to a protest march staged by
 [Data](articles/1ca7232d.json)
 
 [Extended Data](ext_articles/1ca7232d.ext.json)
-
----
-
-### මේ ලිපිය පොලිසියේ එකක් නෙවෙයි
-
-*2025-09-23 13:37:15* · [`adalk`](https://www.ada.lk/breaking_news/මේ-ලිපිය-පොලිසියේ-එකක්-නෙවෙයි/11-418672) · `si`
-
-According to the ATN: Attn: Attn: Attn: Attn: "Attn:", "Attn:
-
-It is emphasized that the Sri Lankan police are not propagated by the Sri Lankan police.
-
-◼️
-
-[Data](articles/65ad24b3.json)
-
-[Extended Data](ext_articles/65ad24b3.ext.json)
 
 ---

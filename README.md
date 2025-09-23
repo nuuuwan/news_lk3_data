@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 14:38:29**
+As of **2025-09-23 14:56:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,667 (100.0%) of 77,668 articles have been extended.
+77,668 (100.0%) of 77,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -230,27 +230,29 @@ It is estimated that these inefficiencies result in an economic loss exceeding R
 
 ---
 
-### ලොරිවලින් හමුවූ මත්ද්‍රව්‍යවල වටිනාකම බිලියන 10කට ආසන්නයි
+### Narcotics found in lorry is nearly 10 billion
 
 *2025-09-23 13:14:56* · [`adalk`](https://www.ada.lk/breaking_news/ලොරිවලින්-හමුවූ-මත්ද්‍රව්‍යවල-වටිනාකම-බිලියන-10කට-ආසන්නයි/11-418671) · `si`
 
-තංගල්ල, සීනිමෝදර ප්‍රදේශයේ දී ඊයේ (22)  පොලීසිය විසින්  සොයා ගෙන තිබු මත්ද්‍රව්‍ය සහිත ලොරි තුන හමුවූ නිවසේ සිට රෝහල්ගත කිරීමෙන් පසු මියගිය පුද්ගලයාගේ පුතුන් දෙදෙනා අද (23)  අත්අඩංගුවට ගත් බව තංගල්ල පොලීසිය  කියයි.
+Tangalle Police say that the two sons of the deceased have been arrested since the deceased who had found the three drug lorries in the Seennimodara, Tangalle yesterday (22).
 
-ලොරි රථ තුනක තිබී පොලීසිය විසින් සොයාගත් මත්ද්‍රව්‍ය තොගයේ සමස්ත වටිනාකම රුපියල් මිලියන 9,888ක් පමණ වන බව පොලීසිය පවසයි.
+The total value of drugs found in three lorries is Rs. 9,888 million.
 
-මේ අතර අභිරහස් ලෙස මියගිය පුද්ගලයින් තිදෙනා ද මෙම මත්ද්‍රව්‍ය ජාවාරම්වලට සම්බන්ධ පුද්ගලයින් බව සිදුකළ විමර්ශන වල දී අනාවරණය වී ඇති බව පොලිසිය පවසයි.
+Meanwhile, the three persons who have been mysteriously deceased have been revealed in investigations into the drug traffickers.
 
-රෝහල් ගත කිරිමෙන් පසු මිය ගිය පුද්ගලයාගේ  පුත්‍රයින් දෙදෙනා ඇතුලු 6 දෙනෙකු මේ වන විට පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested six sons of the victim after hospital.
 
-එමෙන්ම මත්ද්‍රව්‍ය සොයාගත් ලොරි රථවල ලියාපදිංචි හිමිකරුවන් තිදෙනා සහ එක්ලොරි රථයක රියදුරෙකු ද අත්අඩංගුවට ගත් පිරිස අතර සිටින   බව පොලිසිය පවසයි.
+The police said that the three registered owners of the lorry lorries and a driver of an orery.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අද (23)  තංගල්ල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව  ඇත.
+The suspects are to be produced before the Tangalle Magistrate's Court today (23).
 
-සිද්ධිය සම්බන්ධයෙන් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය හා  තංගල්ල පොලිසිය  වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+Police Narcotics Bureau and Tangalle Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e5ce96ce.json)
+
+[Extended Data](ext_articles/e5ce96ce.ext.json)
 
 ---
 

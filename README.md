@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 18:21:17**
+As of **2025-09-23 18:44:34**
 
 ## Newspaper Stats
 
-*Scraped **77,701** Articles*
+*Scraped **77,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,83 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,549
+adalk | 7,550
 adaderanalk | 10,077
 tamilmirrorlk | 11,698
 virakesarilk | 12,640
-adaderanasinhalalk | 13,573
+adaderanasinhalalk | 13,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,698 (100.0%) of 77,701 articles have been extended.
+77,701 (100.0%) of 77,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### ටෙල්අවිව් සිට කටුනායකට එන ඊශ්‍රායලයේ  Arkia Airlines
+### දණ්ඩ නීති සංග්‍රහය (සං‍ශෝධන) පනත් කෙටුම්පතට ආංශික අධීක්ෂණ කාරක සභාවේ අනුමතිය
+
+*2025-09-23 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214921) · `si`
+
+හෙට (24) දිනයේදී පාර්ලිමේන්තුවේ දෙවනවර කියවීමේ විවාදයට ගැනීමට නියමිත (19 වන අධිකාරය වූ දණ්ඩ නීති සංග්‍රහය (සං‍ශෝධන) පනත් කෙටුම්පත රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ අංශික අධීක්ෂණ කාරක සභාව විසින් අනුමත කර තිබේ.
+
+ඒ එම කාරක සභාව විසින් අද (23) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+එහිදී කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නජිත් ඉන්දික මහතා පැවසුවේ දරුවන් ඉලක්ක කරගත් ශාරීරික දඬුවම් සහ සිසුන්ට හානි පමුණුවන දඬුවම් ක්‍රම අවසන් කිරීම සහ එවැනි අපරාධ සඳහා නීතිමය දඬුවම් ලබා දීම අරමුණින් මෙම පනත් කෙටුම්පත හඳුන්වා දී ඇති බවය.
+
+ළමා රැඳවුම් මධ්‍යස්ථාන සහ පාසල් ඇතුළු විවිධ ස්ථානවල දරුවන්ට සිදුවන ශාරීරික දඬුවම් නැවැත්වීමට ප්‍රමාණවත් නීතිමය විධිවිධාන ශ්‍රී ලංකාවේ දිගු කලක් තිස්සේ නොතිබුණු අතර මේ සම්බන්ධයෙන් සමාජය තුළ දීර්ඝ කාලයක් තිස්සේ සාකච්ඡා කෙරෙමින් ද පැවතුණි. එම තත්ත්වය වෙනස් කිරීම සඳහා නීතිමය විධිවිධාන ගෙන ආ යුතු බවටද සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/4e4d264f.json)
+
+---
+
+### ARKIA Airlines in Tel AV to Katunayake
 
 *2025-09-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214920) · `si`
 
-ඊශ්‍රායලයේ  ARKIA AIRLINES ගුවන් සමාගමේ IZ 639 දරන ගුවන් යානය අද සිට සෑම සතියකම අඟහරුවාදා පස්වරු 18.30 ටෙල්අවිව් ගුවන් තොටුපොළේ සිට කොළඹ බලා ගමන් කිරීමට නියමතව ඇත.
+Israel's Arkia Airlines is destined to travel from Teluww Airport from 18.30 pm from Telwa's airport every week from 18.30 am today.
 
-ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සිය ෆේස්බුක් ගිණුමේ සටහනක් තමින් මේ බව සඳහන් කර තිබේ.
+Sri Lanka's Ambassador, Sri Lanka Nimal Bandara has made this statement in a note of his Facebook account.
 
-එම ගුවන්යානය හෙට උදේ  06.15ට කොළඹ කටුනායක ගුවන්තොටුපොළ වෙත පැමිණීමට නියමිතය.
+The airline is due to arrive at the Katunayake Airport Colombo at 06:15 am tomorrow.
 
-ඕමානය හා මාලදිවයින ඊශ්‍රායිල්  ගුවන් යානා සඳහා ගුවන් අවකාශය තහනම් කිරීම හේතුවෙන් මෙම ගුවන් යානය සීෂෙල්ස්  හරහා ගොස්  කොළඹට පැමිණීමට හා කොළඹ සිට ටෙල් අවිව් බලා ගමන් කිරීමට පැය 09.15 කාලයක් ගතවේ.
+This plane takes 9.15 hours to reach Seychelles due to the banning of Oman and Maldivian aircraft for Israelian aircraft.
 
-හෙට රාත්‍රී 22.30ට කොළඹින් පිටත්වන IZ 640 ගුවන් යානය බ්‍රස්පතින්දා උදෑසන 05.35ට ටෙල්අවිව්  බලා පැමිණීමට නියමිත ය.
+The IZ 640 will leave Colombo at 22.30 pm tomorrow at Tel Aviv on 05 am.
 
-ඊශ්‍රායලයේ සංචාරකයන් ඉලක්ක කර පියාසර කරන මෙම ගුවන් යානාය සතිපතා එක්වරක් ක්‍රියාත්මක කරන බව ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සඳහන් කරයි.
+Sri Lanka Ambassador, Sri Lanka's Ambassador Nimal Bandara stated that the aircraft will be operating aimed at Israeli tourists.
 
 ◼️
 
 [Data](articles/121ca896.json)
 
+[Extended Data](ext_articles/121ca896.ext.json)
+
 ---
 
-### මිදිගම රුවන්ගෙන් ප්‍රකාශයක් සටහන් කර ගැනීමට අවසර
+### Permission to record a statement from Ruwan from Midigama
 
 *2025-09-23 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214919) · `si`
 
-ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු මෙන්ම පාතාල කල්ලි නායකයකු බව කියන රුවන් චාමර හෙවත් මිදිගම රුවන් නමැත්තාගේ ප්‍රකාශයක් සටහන් කර ගැනීම සඳහා කොළඹ මහේස්ත්‍රාත් අධිකරණය මත්ද්‍රව්‍ය නාශක කාර්යාංශයට අද (23) අවසර ලබා දුන්නේය.
+The Colombo Magistrate's Court today (JVPA magistrates) issued permission to the Narcard Bureau today (Midav).
 
-පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා විසින් මෙම නියෝගය නිකුත් කළේය.
+The order was issued by the Chief Magistrate Asanka S Bodaragama after considering a request made by the Police Narcotics Bureau.
 
-පොලිසිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් මෙරට මත්ද්‍රව්‍ය ජාලය සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී අනාවරණය කරගත් කරුණු තවදුරටත් තහවුරු කර ගැනීම සඳහා මෙම සැකකරුගෙන් ප්‍රශ්න කර ප්‍රකාශයක් සටහන් කර ගැනීමට අවශ්‍ය වී තිබෙන බව සඳහන් කළේය.
+The suspect had requested the suspect and further consolidate the revelations on the drug network in the country.
 
-ඒ අනුව බන්ධනාගාරගතව සිටින මෙම සැකකරුගෙන් ප්‍රකාශයක් ලබා ගැනීම සඳහා නියෝගයක් නිකුත් කරන ලෙසත් පොලීසිය අධිකරණයෙන් ඉල්ලා සිටියා.
+Accordingly, the police requested the court to issue an order to obtain a statement from the suspect.
 
-එම ඉල්ලීම පිළිගත් මහේස්ත්‍රාත්වරයා ඔක්තෝම්බර් මස 13 වනදා මෙම සැකකරුගෙන් බන්ධනාගාරය තුළදී ප්‍රකාශයක් සටහන් කර ගන්නා ලෙසත් නියෝග කළේය.
+The suspect was accepted on the 13th of October on October 13.
 
 ◼️
 
 [Data](articles/20f0c72e.json)
+
+[Extended Data](ext_articles/20f0c72e.ext.json)
 
 ---
 
@@ -941,6 +963,22 @@ The two suspects have been handed over to the Katunayake Airport to the officers
 [Data](articles/7a938f55.json)
 
 [Extended Data](ext_articles/7a938f55.ext.json)
+
+---
+
+### අධිකරණ ඇමති ජිනීවා යයි
+
+*2025-09-23 13:04:37* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමති-ජිනීවා-යයි/11-418669) · `si`
+
+බලහත්කාරයෙන් අතුරුදහන් කිරීම් පිලිබඳ කමිටුව විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් සිදු කරනු ලබන පළමු කාලාන්තර සමාලෝචනය සඳහා සහභාගිවීමට අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය ,නීතිඥ හර්ෂණ නානායක්කාර මහතා 24 වැනිදා අළුයම (බදාදා) ස්විට්සර්ලන්තයේ ජිනීවා නුවර බලා පිටත්ව යාමට නියමිතයි.
+
+2025 සැප්තැම්බර් 26 වන දින මෙම සමාලෝචන රැස්වීම  පැවැත්වෙන අතර, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය, නීතිපති දෙපාර්තමේන්තුව, අතුරුදහන් වු තැනැත්තන් පිළිබඳ කාර්යාලය, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සහ ශ්‍රී ලංකාවේ ජිනිවාහි නිත්‍ය නියෝජිත කාර්යාලයේ උසස් නිලධාරින් මේ සඳහා සහභාගිවීමට නියමිතව තිබේ.
+
+ශ්‍රී ලංකාව 2016 සිට බලහත්කාරයෙන් අතුරුදහන් කිරීම්වලින් සියලු තැනැත්තන් ආරක්ෂා කිරීමේ සම්මුතියේ පාර්ශවකරුවෙකි.
+
+◼️
+
+[Data](articles/55b427c9.json)
 
 ---
 
@@ -2028,56 +2066,26 @@ The lorry from Embilipitiya to Noonama crashed into a three -wheeler from the op
 
 ---
 
-### පොලීසිය කුලී ගොඩනැගිලිවලට කෝටි 73ක් ගෙවලා
+### Police paid Rs. 73 billion in rented buildings
 
 *2025-09-23 09:55:44* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-කුලී-ගොඩනැගිලිවලට-කෝටි-73ක්-ගෙවලා/11-418659) · `si`
 
-ශ්‍රි ලංකා පොලිසිය විසින් කුලිපදනම මත ලබාගෙන තිබු ගොඩනැගිලි 331ක් සදහා ගොඩනැගිලි කුලි මුදල් ලෙස ඉකුත් වර්ෂයේ  (2024) රුපියල් හැත්තැතුන්කෝටි, අසුලක්ෂ,හයදහස් හත්සිය දහතුනක (738,006,713) මුදලක්  ගෙවා ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.
+The latest audit report issued by the National Audit Office, which has been paid for Rs.
 
-ශ්‍රිලංකා පොලිසියේ නිති විරෝධිවත්කම් හෝ දේපළ විමර්ශන කොට්ඨාශය, ත්‍රස්ත මර්ධන හා විමර්ශන කොට්ඨාශය,තැනැත්තන් වෙළදාම ජාවාරම මැඩලිම සහ  සමුද්‍රිය ආරක්ෂණ කොට්ඨාශය, සහ මනුෂ්‍ය ඝාතන සහ  සංවිධානාත්මක අපරාධ විමර්ශන කොට්ඨාශය, කොළඹ 05 ප්‍ර දේශයේ පුද්ගලික සමාගමකට අයත් ගොඩනැගිල්ලක පවත්වාගෙන යනු ලබයි.
+The Law Proteensts or Adapted Investigation Division, Terrorism and Organizing Division, and Organized Criminal Investigation Division, and Organized Criminal Investigation Division is maintained in a building belonging to Colombo 05.
 
-ඒ සදහා ගොඩනැගිලි කුලි මුදල් ලෙස මාසයකට රුපියල් එක් කෝටි හාරලක්ෂයක මුදලක් (10,400,000)  ගෙවනු ලබන  අතර ඉකුත් වර්ෂයේ එම ගොඩනැගිල්ල සදහා ගෙවා ඇති කුලි මුදල රුපියල් දොළොස්කෝටි,හතලිස්අටලක්ෂයකි. (124,800,000)
+For this month, Rs. 10,400,000 (10,400,000) is paid a month (10,400,000) for the building last year as Rs.. (124,800,000)
 
-...
+Grandpas police have been operated on a building from the year 1931 and had paid Rs. 4,270,000 to Rs.. The police are running for nearly 100 years on a building that has been operated on the premises and the police had unable to establish a building for the Sri Lanka Police.
+
+80 police offices, 121 police stations, 15 police three police officers, 106 quarters and nine stores were obtained on the Kando basis.
+
+This information is included in the audit report that has been issued to the performance report issued by the Sri Lanka Police.
+
+◼️
 
 [Data](articles/a6d3525f.json)
 
----
-
-### Fire spread in the emerald forest in Moneragala!
-
-*2025-09-23 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225813) · `ta`
-
-The Moneragala Police said that the fire broke out in the forest in the Maragala area belonging to the Moneragala Police Division.
-
-According to information received by the Moneragala Police Station, the Moneragala Police Station, Army Officers, Disaster Management Officers and Residents are working to control the fire.
-
-திங்கட்கிழமை (செப்டம்பர் 22 ) இரவு இந்த சம்பவம் பதிவாகியுள்ளதாக பொலிஸ் ஊடகப்பிரிவு வெளியிட்டுள்ள அறிக்கையில் தெரிசவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/3df3d0da.json)
-
-[Extended Data](ext_articles/3df3d0da.ext.json)
-
----
-
-### Buddhist monk arrested in flower pots
-
-*2025-09-23 09:50:36* · [`adalk`](https://www.ada.lk/breaking_news/පන්සලේ-මල්-පෝච්චිවල-ගංජා-වැවූ-හිමිනමක්-අත්අඩංගුවට/11-418658) · `si`
-
-Ambassadova Police said that a Buddhistuwa, who was cultivated in a malpractice of a kitchen in a Viharaya in a Viharaya in a temple in the Magasuruwa area in Ambarannena.
-
-The arrestedium has been arrested by 21 year old monk, Ratnapura, Ratnapura at Ambuasdowa area, police said.
-
-The raid was carried out by the Ambagasdowa police officer on information received by the monk's monastery.
-
-DIG in Badulla District, DIG Laksiri Wijesena Bandarawela Senior Superintendent of Police AAR P Amarasinghe is conducting further investigations.
-
-◼️
-
-[Data](articles/43a2c316.json)
-
-[Extended Data](ext_articles/43a2c316.ext.json)
+[Extended Data](ext_articles/a6d3525f.ext.json)
 
 ---

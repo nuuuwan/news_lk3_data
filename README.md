@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 19:38:48**
+As of **2025-09-23 20:38:45**
 
 ## Newspaper Stats
 
-*Scraped **77,718** Articles*
+*Scraped **77,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,165 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,551
-adaderanalk | 10,077
-tamilmirrorlk | 11,701
-virakesarilk | 12,642
-adaderanasinhalalk | 13,575
+adalk | 7,554
+adaderanalk | 10,079
+tamilmirrorlk | 11,703
+virakesarilk | 12,644
+adaderanasinhalalk | 13,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,716 (100.0%) of 77,718 articles have been extended.
+77,727 (100.0%) of 77,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### மின்சாரம் அத்தியாவசிய சேவையாக பிரகடனம்-நாளை சபையில் அங்கீகாரம்
+### Sampath Manamperi remanded
+
+*2025-09-23 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214924) · `si`
+
+Sampath Manamperi has ordered that the Police Narcotics Bureau was being taken to court today (23).
+
+Accordingly, he was reserved to hide two containers of chemicals that were used to produce ice drugs in the Middeniya area until the next 26th.
+
+The Walasmulla Magistrate ordered that the arms have been found in the land to be remanded until October 01.
+
+The 17th and November noon was arrested in connection with two containers of chemicals to be arrested in the Middeniya area.
+
+Later, he had been granted permission from Malisamu Kodituwakku to address 07 days of the Police Narcotics Bureau.
+
+◼️
+
+[Data](articles/10b40832.json)
+
+[Extended Data](ext_articles/10b40832.ext.json)
+
+---
+
+### Sri Lanka to bat first against Pakistan
+
+*2025-09-23 19:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தானுக்கெதிராக-முதலில்-துடுப்பெடுத்தாடவுள்ள-இலங்கை/44-365150) · `ta`
+
+Sri Lanka will bat first in the Asian Cup Super 4 round of Pakistan.
+
+Pakistan's captain Salman Akha, who won the currency cycle in Abu Tabi, the United Arab Emirates, announced that Damadhani would be the first field.
+
+Dunith Wellalake, Kamil Mishara, Samika Karunaratne and Mahesh Dixhana, who played in the last match in Sri Lanka.
+
+Sri Lanka: Patum Nisanka, Kusal Mendis (wicketkeeper), Kusal Perera, Sarit Asalanga (Team Leader), Dasun Shanaka, Kamindu Mendis, Vanitu Hasaranga, Samika Karunaratne, Mahesh Dushashana, Dushmantha Sameera, Nuwan Dushara.
+
+Pakistan: Shakibzada Barhan, Bakar Saman, Saim Ayub, Hussein Dalaw, Mohammed Nawaz, Salman Akha (captain), Bahim Ashraf, Mohammad Harris (wicketkeeper), Shakeen Afrid, Haris Raff, Affreer Ahmad.
+
+◼️
+
+[Data](articles/452c4cbe.json)
+
+[Extended Data](ext_articles/452c4cbe.ext.json)
+
+---
+
+### Pakistan won the first ball to bowl in the currency spin
+
+*2025-09-23 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225898) · `ta`
+
+Sri Lanka will face Pakistan in their second match on Tuesday (23) in the Super 4 round of the Asian Cup Cricket T20 series.
+
+In the first match in the Super 4 round, the Sri Lankan team lost to Bangladesh and Pakistan lost to India.
+
+◼️
+
+[Data](articles/5c4feff9.json)
+
+[Extended Data](ext_articles/5c4feff9.ext.json)
+
+---
+
+### ප්‍රවීණ ක්‍රිකට් විනිසුරුවරයෙකු දිවියට සමුදෙයි
+
+*2025-09-23 19:36:11* · [`adalk`](https://www.ada.lk/sports/ප්‍රවීණ-ක්‍රිකට්-විනිසුරුවරයෙකු-දිවියට-සමුදෙයි/9-418682) · `si`
+
+ක්‍රිකට් පිටියේ වඩාත් ජනප්‍රිත්වයට පත්වූ ක්‍රිකට් විනිසුරුවරයෙකු ලෙස හැඳින්වෙන එංගලන්ත ජාතික හැරල්ඩ් (ඩිකී) බර්ඩ් අභාවප්‍රාප්ත වී ඇත. මියයන විට 92 හැවිරිදි වියේ පසුවූ බර්ඩ් ටෙස්ට් තරග 66 ක් හා එක්දින තරග 69 ක් විනිශ්චය කර ඇති අතර ලෝක කුසලාන අවසන්මහා තරග 3 ක්ද ඔහු විසින් විනිශ්චය කර ඇත. හෙතෙම 1996 වර්ෂයෙන් අනතුරුව සිය විනිසුරු දිවියට සමුදුන්නේය.
+
+ක්‍රීඩකයෙකු ලෙසින්ද 1956  වර්ෂයේදී එංගලන්ත යෝක්ෂයර් ප්‍රාන්ත කණ්ඩායම නියෝජනය කළ බර්ඩ් පළමු පෙළ තරග 93 ක් නියොජනය කර ඇත. පසුව එම ප්‍රාන්ත සංගමයේ සභාපති ධුරයද ඔහු විසින් හෙබවීය.
+
+◼️
+
+[Data](articles/0e410c94.json)
+
+---
+
+### To the coin to Pakistan
+
+*2025-09-23 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214923) · `si`
+
+Sri Lanka will be held in the round of the Super School of Super Schools in the Asia T20 cricket tournament today (23).
+
+The Sri Lankan team has invited the Sri Lankan team to bat first.
+
+The Sri Lankan team was defeated first match in the round of the Super Four. Pakistan was defeated before the Indian team.
+
+Critics say that the match is a crucial match for both teams.
+
+◼️
+
+[Data](articles/acc50cf1.json)
+
+[Extended Data](ext_articles/acc50cf1.ext.json)
+
+---
+
+### Cause of death revealed after 2 bodies found with drugs haul at house in Tangalle
+
+*2025-09-23 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112837/cause-of-death-revealed-after-2-bodies-found-with-drugs-haul-at-house-in-tangalle) · `en`
+
+The post-mortem examination on the bodies of the three persons who died under mysterious circumstances in the house, where drugs were later found in the Seenimodara area of Tangalle, has revealed that they died due to overdosing on a mix of heroin and beer.
+
+The post-mortem examination of the bodies was conducted by the Judicial Medical Officer of the Tangalle Base Hospital, Ruwan Nanayakkara.
+
+It has been revealed that the deceased died due to overdose on a mix of heroin and beer.
+
+Ada Derana reproter said that the Judicial Medical Officer is also scheduled to present the facts to the Tangalle Magistrate’s Court in this regard.
+
+The bodies of two persons who died under mysterious circumstances were found in a house in the Seenimodara area of Tangalle yesterday (22) based on inforamtion received by the police.
+
+Another person in the house in question had also died after being admitted to the Tangalle Hospital in critical condition.
+
+...
+
+[Data](articles/bde94ffc.json)
+
+[Extended Data](ext_articles/bde94ffc.ext.json)
+
+---
+
+### Electricity Essential Service as Essential Service
 
 *2025-09-23 19:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-அத்தியாவசிய-சேவையாக-பிரகடனம்-நாளை-சபையில்-அங்கீகாரம்/175-365149) · `ta`
 
-மின்சாரத்தை அத்தியாவசிய சேவையாக அறிவிக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்கவின் வர்த்தமானி அறிவிப்பை நாளை விவாதமின்றி அங்கீகரிக்க இன்று கூடிய கட்சித் தலைவர்கள் முடிவு செய்தனர்.
+The party leaders today decided to recognize the gazette notification of President Anura Kumara Dissanayake, who declares electricity as an essential service.
 
 ◼️
 
 [Data](articles/d873ff5d.json)
+
+[Extended Data](ext_articles/d873ff5d.ext.json)
+
+---
+
+### Sri Lankan main fast bowler not contest today
+
+*2025-09-23 19:10:48* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා-ප්‍රධාන-වේග-පන්දු-යවන්නෙක්-අද-තරගයට-නෑ/9-418679) · `si`
+
+SLC announced that Sri Lanka's fast bowler Visitor Pathirana do not play sports with Pakistan today due to illness today (23). He further stated that he has not received medical treatment due to this illness.
+
+◼️
+
+[Data](articles/1b60beba.json)
+
+[Extended Data](ext_articles/1b60beba.ext.json)
 
 ---
 
@@ -98,6 +232,28 @@ The protest, which was held in front of the Pudukkadai court in Colombo, partici
 
 ---
 
+### Sri Lanka to seek legal advice on $1 bn unpaid marine disaster claim
+
+*2025-09-23 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112836/sri-lanka-to-seek-legal-advice-on-1-bn-unpaid-marine-disaster-claim) · `en`
+
+The Sri Lankan government on Tuesday said it will consult the Attorney General on the next course of action after the owning company of a vessel failed to honour a court order directing it to pay USD 1 billion in compensation for a mishap, considered to be the worst marine disaster in the Indian Ocean.
+
+Singapore-flagged container vessel MV X-Press Pearl caught fire in May 2021 off Colombo port and burned for nearly two weeks while carrying 81 containers of hazardous chemicals, including 25 tonnes of nitric acid.
+
+The incident caused widespread marine pollution, with billions of plastic nurdles and toxic substances spilling into Sri Lankan waters, killing marine life and devastating coastal communities.
+
+Dead turtles, dolphins and whales were seen washed up onto beaches for weeks following the disaster.
+
+On July 24, Sri Lanka’s Supreme Court directed the ship’s owning and operating companies to pay USD 1 billion in compensation, with an initial tranche of USD 250 million due by September 23.
+
+...
+
+[Data](articles/2bef2a2b.json)
+
+[Extended Data](ext_articles/2bef2a2b.ext.json)
+
+---
+
 ### Electricity Board Trade Union Action - Minister Action
 
 *2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
@@ -117,6 +273,24 @@ Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructe
 [Data](articles/ab765827.json)
 
 [Extended Data](ext_articles/ab765827.ext.json)
+
+---
+
+### CEB தொழிற்சங்க நடவடிக்கை - அமைச்சர் அதிரடி
+
+*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
+
+மின்சாரத் தொழிலாளர்களின் தொடர்ச்சியான தொழிற்சங்க நடவடிக்கை இருந்தபோதிலும், இலங்கையில் மின்சார நெருக்கடியையோ அல்லது மின்வெட்டையோ அரசாங்கம் அனுமதிக்காது என்று அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜெயதிஸ்ஸ தெரிவித்தார்.
+
+அமைச்சரவைக் கூட்டத்திற்குப் பிறகு இன்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் உரையாற்றிய அமைச்சர் ஜெயதிஸ்ஸ, தொடர்ச்சியான மின்சாரம் வழங்கப்படும் என்று உறுதியளித்தார், இதை உறுதி செய்வதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்படும் என்றும் கூறினார்.
+
+"எந்தவொரு நாசவேலையையும் அரசாங்கம் அனுமதிக்காது. அப்படி ஏதாவது நடந்தால், சட்டம் கடுமையாக அமல்படுத்தப்படுவதை நாங்கள் உறுதி செய்வோம்," என்று அவர் எச்சரித்தார்.
+
+இலங்கை மின்சார சபை (CEB) மறுசீரமைக்கப்படாவிட்டால் இலங்கை நெருக்கடியை எதிர்கொள்ள நேரிடும் என்று அமைச்சர் நலிந்த ஜயதிஸ்ஸ சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/b41fd6e6.json)
 
 ---
 
@@ -253,6 +427,42 @@ The suspect was accepted on the 13th of October on October 13.
 [Data](articles/20f0c72e.json)
 
 [Extended Data](ext_articles/20f0c72e.ext.json)
+
+---
+
+### The consequences if the government tries to suppress the unions - Namal Rajapaksa warns
+
+*2025-09-23 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225884) · `ta`
+
+The government must understand that if the trade unions are trying to suppress the union, the result is impossible to act in 1889 and 1988.. Sri Lanka's PA's parliamentarian Namal Rajapaksa said that the country's national agriculture and national production sector has declined in the president's one year regime.
+
+He was speaking at a debate on the National Building Research Institute Bill held in Parliament on Tuesday (23).
+
+A year has passed since the government led by President Anura Kumara Dissanayake.. You can no longer criticize past governments. You have made many promises before the regime.
+
+The growth of the country's agriculture and fisheries sectors in the president's year. The government is working on the stand of importing essential commodities and feeding people. The government should pay special attention to improve national products.
+
+...
+
+[Data](articles/7c4740bf.json)
+
+[Extended Data](ext_articles/7c4740bf.ext.json)
+
+---
+
+### Sri Lanka decisive competition in Asia cup today
+
+*2025-09-23 17:33:35* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානයේ-ශ්‍රී-ලංකාවට-තීරණාත්මක-තරගයක්-අද/9-418678) · `si`
+
+Another match participating in the round of the four Supersenda in the Asia Cup Twenty20 tournament will be held today (23).
+
+Sri Lanka and Pakistan are contesting and the contest will commence from 08 pm in Sri Lanka.
+
+◼️
+
+[Data](articles/7999e824.json)
+
+[Extended Data](ext_articles/7999e824.ext.json)
 
 ---
 
@@ -694,17 +904,23 @@ Top foreign selling was seen in Ceylinco Holdings, John Keells Holdings, Capital
 
 ---
 
-### 13 හැවැරිදි හසාරාගෙන් දුනු විදීමේ වාර්තාවක්
+### 13 A bow of bows from the bells
 
 *2025-09-23 15:33:28* · [`adalk`](https://www.ada.lk/sports/13-හැවැරිදි-හසාරාගෙන්-දුනු-විදීමේ-වාර්තාවක්/9-418677) · `si`
 
-2025 ජාතික දුනු විදීමේ ශූරතාවලිය 2025 සැප්තැම්බර් මස 19 වන දින සිට 21 වන දින දක්වා කටුනායක BOI ක්‍රීඩාංගණයේදී පවත්වන ලද අතර එහිදී කුරුණෑගල මලියදේව බාලිකා විද්‍යාලයේ නැගී එන ක්‍රීඩා තරුවක් වන 13න් හැවිරිදි හසාරා නානායක්කාර ක්‍රීඩිකාව මීටර් 70 ‘විවෘත Recurve’ ඉසව්වේ රන් පදක්කම හිමිකරගන්නා ලදී.
+The 2025 National Bows Championship was held from 19th to the 21st to the 21st of the Boy of Maliyadeva Balika Vidyalaya, Kurunegala.
 
-ශ්‍රී ලංකා යුධ හමුදාව, නාවික හමුදාව, ගුවන් හමුදාව, පොලිසිය සහ දිවයින පුරා පිහිටි දක්ෂ දුනු විදීමේ ක්‍රීඩා සමාජවල පළපුරුදු ක්‍රීඩකයින්ට එරෙහිව  ක්‍රීඩාවේ විශිෂ්ටත්වය සහ සිය කුසලතා හා හැකියාවන් විදහා දක්වමින් ‘විවෘත Recurve’ ඉසව්වේ රන් පදක්කම දිනාගැනීමත් සමග ඇය එම ඉසව්වේ රන් පදක්කම හිමිකරගත් ලාබාලතම ක්‍රීඩිකාව ලෙස ශ්‍රී ලංකා ක්‍රීඩා ඉතිහාසයේ තම නම සටහන් කිරීමට සමත් විය. ඇය ලබාගත් මෙම සුවිශේෂි ජයග්‍රහණය ශ්‍රී ලංකා දුනු විදීමේ ක්‍රීඩාව නව මාවතකට රැගෙන යාමේ මූලික පියවරක් ලෙස සැලකිය හැක.
+Sri Lanka Army, Navy, Air Force, Air Force, Police and the Experienced Blood Training Clubs Islandwide. This unique victory she got is a preliminary step to take Sri Lankan bows to a new path.
 
-...
+Not only her personal life but also a great respect for Maliyadeva Girls' College, Kurunegala and Total Bows.. This will be a precious step to bring new players, athletes to the top level.
+
+The encouragement of Trainers, Dharmasena, the inspiration of Started guidance and principals of Startup of Startup of Excellence will be shielded in a high level of gains, carrying her sports skills and internationally in international sports skills.
+
+◼️
 
 [Data](articles/6dc0e90a.json)
+
+[Extended Data](ext_articles/6dc0e90a.ext.json)
 
 ---
 
@@ -1883,227 +2099,5 @@ Police found that the vehicle was driving to a rental service center in Wattala,
 [Data](articles/3d131de0.json)
 
 [Extended Data](ext_articles/3d131de0.ext.json)
-
----
-
-### 200 million tea fertilizer subsidy QR code
-
-*2025-09-23 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214902) · `si`
-
-Plantation and Community Infrastructure, Minister Samantha Vidyaratne says that it is planning to provide fertilizer to the farmers who are engaged in fertilizer subsidies to the farmers.
-
-Speaking in parliament today (23), he said that the Cabinet approval has been obtained by now and the first stage will commence this process in the Matugama area on the 26th of this month.
-
-Accordingly, the QR code is being implemented for Rs 200 million tea fertilizer subsidy issued in the future.
-
-"We approved the Cabinet of Cabinet: Follow a new method of providing fertilizer. Also, our Tea Board has allocated Rs. 2,000 million to provide fertilizer subsidy for the year 2025. Especially 75% are smallholder owners. We have planned to give it Rs. 200 million tea fertilizer subsidies.. Since the government provides the fertilizer subsidy, including the fertilizer subsidy and fertilizer secretary including the fertilizer subsidy, will start the process of granting tea fertilizer in Kalutara on the 26th.
-
-◼️
-
-[Data](articles/a29d38b2.json)
-
-[Extended Data](ext_articles/a29d38b2.ext.json)
-
----
-
-### Digital Tourism Solutions to develop tourism
-
-*2025-09-23 11:07:34* · [`adalk`](https://www.ada.lk/business/සංචාරක-කර්මාන්ත-වර්ධනයට-ඩිජිටල්-සංචාරක-විසඳුම්-ගෙනේ/7-418664) · `si`
-
-Sri Lanka's goal is to earn more than 3 million tourists by the end of the year of 2025 and earn US $ 5 million. The need for a developed transport system is vital. The main global supplier of providing information technology and digital solutions for the air transportation industry, SITA points out that technology is the ability to play a transfer to the growth of the country's airline and tourism industry.
-
-8.88 million passengers arrived in Sri Lanka in 2024, and it was 17.6% annual growth. In the first half of 2025, a 4.9 million tourist arrivals reported 16% over the previous year. The aircraft traffic increased by 20% in 2024. Meanwhile, the expansion and modernization programs have been started. These developments are shown that the immediate need to invest in efficient and safe passenger travel, free of services through digital solutions.
-
-...
-
-[Data](articles/00c9354b.json)
-
-[Extended Data](ext_articles/00c9354b.ext.json)
-
----
-
-### 2025 Galle Dialogue to commence tomorrow
-
-*2025-09-23 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112818/2025-galle-dialogue-to-commence-tomorrow) · `en`
-
-The twelfth edition of the Galle Dialogue International Maritime Conference is scheduled to commence tomorrow (24).
-
-The two-day forum hosted by the Sri Lanka Navy, under the patronage of the Ministry of Defence will take place at the Wave n’ Lake Navy Hall in Welisara.
-
-The inaugural ceremony will be graced by the Prime Minister Dr. Harini Amarasuriya.
-
-The two-day premier forum will feature participation from senior representatives, naval leaders, and maritime experts from 34 nations and 14 international organizations.
-
-Under the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics,” the conference will foster strategic dialogue on building a secure, prosperous, and sustainable maritime future.
-
-The conference is structured around four pivotal sessions, focusing on five key thematic areas: Marine environment, Maritime governance, Maritime economy, Maritime sustainability, and a Clean Indian Ocean, the Navy said in a statement.
-
-...
-
-[Data](articles/21d17342.json)
-
-[Extended Data](ext_articles/21d17342.ext.json)
-
----
-
-### Tangalle drug lorry owner arrested
-
-*2025-09-23 11:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-போதைப்பொருள்-லொறி-உரிமையாளர்-கைது/175-365113) · `ta`
-
-Elpitiya police said that a young man who is said to be the owner of a drug -loaded lorry has been arrested this morning (23) in Valpagala area, Elpitiya.
-
-The suspect is a 25 -year -old drug addict from Valpagala, Elpitiya. Police say there is a lorry in the name of the suspect, but there is not even a bicycle in the house.
-
-According to the phone call from abroad, he went to Colombo to sign some documents while using drugs, and he had no lorry. The suspect was scheduled to be handed over to the Tangalle police this afternoon (23). Elpitiya police are conducting further investigations.
-
-◼️
-
-[Data](articles/26706433.json)
-
-[Extended Data](ext_articles/26706433.ext.json)
-
----
-
-### Former Moratuwa Mayor Saman Lal Fernando granted bail
-
-*2025-09-23 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112817/former-moratuwa-mayor-saman-lal-fernando-granted-bail) · `en`
-
-Former Mayor of the Moratuwa Municipal Council Saman Lal Fernando has been granted bail by the Colombo Magistrate’s Court today (23), Ada Derana reporter said.
-
-Accordingly, Colombo Chief Magistrate Asanga S. Bodaragama ordered the suspect to be released on a cash bail of Rs. 50,000 and three surety bails of Rs. 1 million each.
-
-The Magistrate also banned the suspect from traveling abroad and from entering the Moratuwa Municipal Council premises.
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on September 10 arrested and presented Saman Lal Fernando before court.
-
-He was arrested on suspicion that he had caused financial losses to the government by making illegal payments to his associates, in violation of financial regulations, in relation to 112 development project contracts of the Moratuwa Municipal Council under the “Integrated Urban and Rural Road Development Project.”
-
-◼️
-
-[Data](articles/f0afe540.json)
-
-[Extended Data](ext_articles/f0afe540.ext.json)
-
----
-
-### Former Moratuwa Mayor Saman Lal Fernando released on bail
-
-*2025-09-23 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214901) · `si`
-
-Former Mayor of Moratuwa Municipal Council has been bailed by the Bribery Investigation Commission.
-
-The meeting was arrested on September 10 to the allegations of the loss of the Government in the Moratuwa Municipal Council.
-
-◼️
-
-[Data](articles/1a409ab0.json)
-
-[Extended Data](ext_articles/1a409ab0.ext.json)
-
----
-
-### H1P Visa Terms Increase: China's Visa Visa
-
-*2025-09-23 10:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எச்1பி-விசா-கட்டண-உயர்வு-கெடுபிடி-சீனா-கே-விசா/50-365112) · `ta`
-
-Experts and businessmen have strongly opposed the US government raising the H1B visa fee. Meanwhile, the Chinese government has introduced a visa visa that is not highly conditioned, to attract Indian software.
-
-H1B Visa is issued for temporary workers in the United States. The US government has suddenly raised the fee from Rs 1.32 lakh to Rs 88 lakh.. Thereby, there is an indirect effort to prevent Indian software joining in US companies.
-
-The country's technical experts and businessmen have strongly opposed this decision by the US government. Esther Graford, a former senior officer of the XS Social Network, said: “The Twitter Social Network Businessman Elon Mask bought and renamed the X -digit.. Various challenges rose on the X website when the administration was changed. Indian engineers then solved all the problems. Worked in addition to seeing the time period. Continued to run the X site. Chinese engineers worked hard with them. The X website was saved by Indian and Chinese engineers.
-
-...
-
-[Data](articles/4497e76a.json)
-
-[Extended Data](ext_articles/4497e76a.ext.json)
-
----
-
-### Khalistan militant Indrajit Singh arrested in Canada
-
-*2025-09-23 10:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காலிஸ்தான்-தீவிரவாதி-இந்திரஜித்-சிங்-கனடாவில்-கைது/50-365111) · `ta`
-
-Kallis is the separatist system in the name of 'SFJ) in the United States of America.. Drajit Singh Gosal (36) has been acting as a Canada Nirmai.
-
-Canada police arrested him for being considered by Qur'an Bad Singh Ban Pan.. Dharajit Singh Kosal was arrested on bail last year on bail of the Hindu Koi Lil, Canada.
-
-◼️
-
-[Data](articles/7ce13ef4.json)
-
-[Extended Data](ext_articles/7ce13ef4.ext.json)
-
----
-
-### Hong Kong braces for world’s most powerful typhoon this year
-
-*2025-09-23 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112816/hong-kong-braces-for-worlds-most-powerful-typhoon-this-year) · `en`
-
-Typhoon Ragasa is churning towards Hong Kong, generating winds of up to 220kmh.
-
-It is the world’s most powerful tropical typhoon this year, with officials warning that it would be among the most destructive storms in the city’s recent history.
-
-Hong Kong closed schools and cancelled flights on Tuesday (Sep 23), while authorities in mainland China have ordered businesses and schools to shut in at least 10 cities.
-
-Although Ragasa will not directly hit Taiwan, its outer bands are expected to bring heavy rain to the island’s sparsely populated east coast.
-
-A sea warning is effective in the Taiwan Strait, but a land warning was lifted at 8.30am.
-
-Taiwan’s Central Weather Administration said rain will continue into the night across the island.
-
-It’s quiet on this market street in Wan Chai on Hong Kong Island.
-
-Usually, this area would be bustling with crowds shopping at the various stalls. But many vendors decided to stay closed due to warnings about Super Typhoon Ragasa.
-
-...
-
-[Data](articles/b771810c.json)
-
-[Extended Data](ext_articles/b771810c.ext.json)
-
----
-
-### Appointment of Four Response Ministers
-
-*2025-09-23 10:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்கு-பதில்-அமைச்சர்கள்-நியமனம்/175-365110) · `ta`
-
-Following the departure of the United States to attend the United Nations General Assembly (Unga), President Anuragumara Dissanayake has been appointed ministers in response to key ministries.
-
-President Dissanayake with Foreign, Foreign Employment and Tourism Minister Vijitha Hera. Left the country on Monday (22) evening,
-
-Labor Minister and Deputy Minister of Economic Development Dr. Anil Jayantha Fernando, Minister of Finance, Planning and Economic Development.
-
-Deputy Minister of Foreign Affairs and Foreign Employment
-
-◼️
-
-[Data](articles/207888d7.json)
-
-[Extended Data](ext_articles/207888d7.ext.json)
-
----
-
-### Belgium, Malta, Andorra, Monaco and Luxembourg recognise Palestinian state at UN meeting
-
-*2025-09-23 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112815/belgium-malta-andorra-monaco-and-luxembourg-recognise-palestinian-state-at-un-meeting) · `en`
-
-Belgium, Malta, Andorra, Monaco and Luxembourg have announced that they officially recognise the State of Palestine, joining a growing list of nations declaring recognition at an international conference in New York.
-
-The leaders of the three countries made the announcements during the gathering on Palestine and the two-state solution, held on the eve of the UN General Assembly.
-
-The move drew applause from delegates and was hailed as a boost to international momentum for Palestinian statehood.
-
-“This recognition reflects our firm belief in peace and justice, and in the right of the Palestinian people to self-determination,” Malta’s prime minister said.
-
-His Luxembourg counterpart described it as a “historic decision,” while Belgium said the step aligned with its longstanding support for a negotiated two-state solution.
-
-French President Emmanuel Macron earlier announced recognition at the same meeting.
-
-...
-
-[Data](articles/568b0ddc.json)
-
-[Extended Data](ext_articles/568b0ddc.ext.json)
 
 ---

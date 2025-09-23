@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 11:41:19**
+As of **2025-09-23 12:13:57**
 
 ## Newspaper Stats
 
-*Scraped **77,624** Articles*
+*Scraped **77,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,163 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,536
+adalk | 7,537
 adaderanalk | 10,058
-tamilmirrorlk | 11,680
+tamilmirrorlk | 11,683
 virakesarilk | 12,629
-adaderanasinhalalk | 13,557
+adaderanasinhalalk | 13,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,621 (100.0%) of 77,624 articles have been extended.
+77,627 (100.0%) of 77,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### மூத்த நடிகர் நளின் பிரதீப் உடுவெல காலமானார்.
+### விசா நெருக்கடி: காதலியை விட்டு   பறந்த காதலன்
+
+*2025-09-23 11:49:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விசா-நெருக்கடி-காதலியை-விட்டு-பறந்த-காதலன்/50-365121) · `ta`
+
+H 1 B விசாவில் மாற்றம் செய்து அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் அறிவித்துள்ளார். இதனால் உலகம் முழுவதும் உள்ள ஐடி ஊழியர்கள் அவசர அவசரமாக அமெரிக்க சென்று கொண்டிருக்கிறார்கள். இந்நிலையில் ஒரு காதல் ஜோடி இத்தாலிக்கு சுற்றுலா சென்றுள்ளனர். டிரம்பின் அறிவிப்பால் காதலன், தன்னுடைய காதலியை விட்டு பிரிந்து அவசர அவசரமாக அமெரிக்கா சென்றுள்ளார். இதுதொடர்பாக அவரின் காதலி வெளியிட்டுள்ள வீடியோ சமூகவலைதளங்களில் வைரலாகி வருகிறது.
+
+டொனால்ட் டிரம்ப் அமெரிக்க ஜனாதிபதி  பதவியேற்றதில் இருந்து, தொடர்ந்து இந்தியாவுக்கு எதிராக பல்வேறு நடவடிக்கைகளை எடுத்து வருகிறார். நட்பு நாடாக இருந்த இந்தியா - அமெரிக்கா இடையே கடந்த சில மாதங்களாக பனிப்போர் நிலவி வருகிறது.  ஜனாதிபதியாக பதவியேற்ற சில மாதங்களிலேயே விசா விஷயத்தை கையில் எடுத்து நெருக்கடி கொடுத்தார்.
+
+...
+
+[Data](articles/9bec8af0.json)
+
+---
+
+### சொத்துக்கள் கேள்விக்கு ஊமையான ஹந்துன்நெத்தி
+
+*2025-09-23 11:37:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்துக்கள்-கேள்விக்கு-ஊமையான-ஹந்துன்நெத்தி/175-365119) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையிலான தேசிய மக்கள் சக்தி அரசாங்கத்தின் அமைச்சர்கள், பிரதியமைச்சர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் தங்களுடைய சொத்து விபரங்களை சமர்ப்பித்து வருகின்றனர். இதில், சிலரினால் சமர்ப்பிக்கப்பட்டுள்ள சொத்துக்கள் தொடர்பில் பொதுவெளியில் சர்ச்சைகள் கிளம்பியுள்ளன.
+
+இந்நிலையில், சொத்துக்கள் தொடர்பிலான கேள்விகளுக்கு பதிலளிக்காமல், அமைச்சர் சுனில் ஹந்துன்நெத்தி ஊமையான ச​ம்பவமொன்று இடம்பெற்றுள்ளது.
+
+தனது சொத்துக்கள் குறித்து தன்னிடம் கேள்விகள் கேட்பது புத்திசாலித்தனம் அல்ல என்று கைத்தொழில் மற்றும் தொழில்முனைவோர் மேம்பாட்டு அமைச்சர் சுனில் ஹந்துன்நெத்தி பதிலளித்தார்.
+
+உங்கள் கேள்விக்கு நான் பதிலளிக்கலாம் அல்லது பதிலளிக்காமல் போகலாம். இதை இங்கே விசாரிப்பது எங்களுக்கு நியாயமில்லை. நாட்டில் ஒரு சட்டம் உள்ளது. லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துரைகளைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவிடம்  இந்த சொத்து பதிவுகளை பகிரங்கப்படுத்தியுள்ளது, நீங்கள் அவர்களை தெருவில் சந்திக்கும் போது கேள்வி கேட்கக்கூடாது.
+
+...
+
+[Data](articles/dfb6103d.json)
+
+---
+
+### 'සපුමල්' ට වෙඩි තියලා - තුවාල බරපතළයි
+
+*2025-09-23 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214904) · `si`
+
+හුරුලු පාරිසරික උද්‍යානය සහ මින්නේරිය ජාතික වනෝද්‍යානය සිය නිජබිම කරගෙන සිටින 'සපුමල්' ලෙස හඳුන්වනු ලබන ඇතාට වෙඩි තබා ඇතැයි වාර්තා වේ.
+
+කවුඩුල්ල ජාතික උද්‍යානයේ සෆාරි ජිප් රියදුරන් මේ බව දැක ඇති බව ද සඳහන්ය.
+
+වයස අවුරුදු 25ක් පමණ වන මෙම ඇතාගේ විශේෂත්වය වන්නේ, දළ අඩි දෙකක හමාරක් පමණ දිගට වැඩි ඇති බවය.
+
+වනෝද්‍යාන තුනක සැරිසරන මෙම හස්තියාගේ ඉදිරි දකුණු පාදයට වෙඩි දෙකක් පමණ තබා ඇති අතර, දණහිසෙන් පහළ කොටසට වෙඩි වැදී ඇති තුවාලවලින් සැරව ගලමින් පවතින බව ඇතාව දුටු සංචාරකයින් පවසයි.
+
+ඉක්මනින් ඇතාට ප්‍රතිකාර කළ යුතු බවත් ඇතා ඉතා බරපතළ තත්ත්වයෙන් සිටින බවත් වාර්තා වේ.
+
+වෙඩි වැදී සිටින ඇතා කොරගසමින් කවුඩුල්ල වැව් තාවුල්ලේ ගමන් කරන අයුරු ඊයේ (22) එහි ගිය සංචාරකයින් පිරිසක් විසින් පටිගත කර තිබුණි.
+
+◼️
+
+[Data](articles/e0035fe6.json)
+
+---
+
+### Two sons arrested at Tangalle home
+
+*2025-09-23 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214903) · `si`
+
+The two sons of the deceased have been arrested since the deceased who had found three narcotics lorries in the Seennamodara, Tangalle.
+
+The total value of the stock of drugs found in three lorries in Tangalle was about Rs. 9,888 million.
+
+Police said that 705.91 kilograms of drugs including ice and heroin were found in the three lorries.
+
+Meanwhile, it is said that 284.94 kilograms of heroin and 420.976 kilograms of ice.
+
+The ice and heroin found in 3 lorries yesterday, on the information received by the police in the house of Sundala, Tangalle yesterday.
+
+In addition to drugs, police found five T-56 rifle and five new pistol-type firearms in addition to the drug.
+
+Investigations have revealed that the sufferer was owned by the criminal of St. Shantha, Unakila, Drug trafficking.
+
+Meanwhile, the three persons who have died in the investigations have been revealed in investigations into the drug traffickers.
+
+...
+
+[Data](articles/3c7c967c.json)
+
+[Extended Data](ext_articles/3c7c967c.ext.json)
+
+---
+
+### Prison for former Control Commissioner Harsha
+
+*2025-09-23 11:20:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கட்டுப்பாட்டு-ஆணையாளர்-ஹர்ஷாவுக்கு-சிறை/175-365116) · `ta`
+
+The Supreme Court on Tuesday (23) sentenced former Immigration and Emigration Control Commissioner Harsha Ilykpitiya to two years in prison for contempt of court allegations over controversial visa agreement.
+
+The hearing came before a three -judge bench comprising Justices Yasantha Kodagoda, Janak de Silva and Arjuna Obeesekera.
+
+On September 25, 2024, the High Court ordered the High Court to implement the controversial visa agreement to implement the order of Harsha Illukpitiya until the contempt of court was completed.
+
+◼️
+
+[Data](articles/7eea3006.json)
+
+[Extended Data](ext_articles/7eea3006.ext.json)
+
+---
+
+### Senior actor Nalin Pradeep Uduvela has passed away.
 
 *2025-09-23 11:15:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-நடிகர்-நளின்-பிரதீப்-உடுவெல-காலமானார்/175-365115) · `ta`
 
-தனித்துவமான நடிப்பு ஆளுமை கொண்ட நளின் பிரதீப் உடுவெல, தனது 56 வயதில் செவ்வாய்க்கிழமை (23) காலை காலமானார்.
+Nalin Pradeep Uduwala, who has a unique acting personality, passed away on Tuesday morning (23) at the age of 56.
 
-அவர் சில நாட்களாக மஹரகம அபேக்ஷா மருத்துவமனையில் சிகிச்சை பெற்று வந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+He is reported to have been receiving treatment at the Maharagama Abeksha Hospital for a few days.
 
-மேடை, சினிமா மற்றும் தொலைக்காட்சி நாடகங்களில் நடித்த அவரின் நடிப்புத் திறமை சரசவி மற்றும் சுமதி உள்ளிட்ட பல விருது விழாக்களில்   அங்கீகரிக்கப்பட்டது.
+Her performance in the stage, cinema and television plays was recognized at several awards ceremonies including Sarasavi and Sumathi.
 
 ◼️
 
 [Data](articles/3405e8df.json)
 
+[Extended Data](ext_articles/3405e8df.ext.json)
+
 ---
 
-### ரசாயனம் தடவிய நாணயத்தாள்: ஓட்டுநரிடம் கொள்ளையடித்த   பாகிஸ்தானியர்கள் மூவர் கைது
+### Pakistanis arrested for robbing driver
 
 *2025-09-23 11:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரசாயனம்-தடவிய-நாணயத்தாள்-ஓட்டுநரிடம்-கொள்ளையடித்த-பாகிஸ்தானியர்கள்-மூவர்-கைது/175-365114) · `ta`
 
-கொள்ளைச் சம்பவங்களில் பயன்படுத்தப்படும் அரிய தந்திரமாகத்   ரசாயனம் கலந்த ரூ.5,000 நோட்டைப் பயன்படுத்தி லொறி ஓட்டுநரை மயக்கமடையச் செய்து ரூ.90,000 கொள்ளையடித்ததாக  பாகிஸ்தானியர்கள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three Pakistanis have been arrested for allegedly robbing a lorry driver of Rs.
 
-சுற்றுலா விசாக்களில் நாட்டில் தங்கியிருந்த ​​சந்தேக நபர்கள் ஒழுங்கமைக்கப்பட்ட பணமோசடி நடவடிக்கைகளில் ஈடுபட்டதாக நம்பப்படுகிறது என்று பொலிஸார் தெரிவித்தனர்.
+It is believed that the suspects who stayed in the country on tourist visas are believed to have been involved in organized money laundering.
 
-இந்த சம்பவம், பேராதனை வீதியில் சனிக்கிழமை (20)   நடந்ததாக பொலிஸார் தெரிவித்தனர். அங்கு சந்தேக நபர்கள் ரூ.5,000 நோட்டை மாற்ற உதவி கோரும் வகையில்​ லொறியை நிறுத்தி ஓட்டுநரை அணுகினர்.
+The incident took place on Saturday (20) on the Peradeniya Road, police said. There, the suspects stopped the lorry and approached the driver, demanding help to change the Rs 5,000 note.
 
-ஓட்டுநரிடம்​ பேச்சைக்கொடுத்த சந்தேக நபர்களில் ஒருவர் அந்த ரூ.5,000 நோட்டை  ஓட்டுநரின் முகத்திற்கு அருகில் கொண்டு சென்றார். அப்போது,    சாரதி சுயநினைவை இழந்ததாகவும் கூறப்படுகிறது.
+One of the suspects who spoke to the driver took the Rs 5,000 note near the driver's face. At the time, the driver was said to have lost consciousness.
 
-ஓட்டுநர் சுயநினைவு திரும்பியபோது, ​​ரூ.90,000 ரொக்கம் திருடப்பட்டதைக் கண்டுபிடித்தார். பின்னர் அவர் பேராதனை பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+When the driver returned to self -consciousness, he discovered that Rs.90,000 cash had been stolen. He later lodged a complaint with the Peradeniya police.
+
+Investigators led to identifying the vehicle where the suspects escaped through CCTV camera footage in the area, police said.
+
+Police found that the vehicle was driving to a rental service center in Wattala, with a license plate number and the vehicle was rented by a Pakistani man.
 
 ...
 
 [Data](articles/3d131de0.json)
+
+[Extended Data](ext_articles/3d131de0.ext.json)
 
 ---
 
@@ -337,6 +445,28 @@ Minister of Justice and National Integration Harsha Nanayakkara is scheduled to 
 [Data](articles/ac572a62.json)
 
 [Extended Data](ext_articles/ac572a62.ext.json)
+
+---
+
+### Tangalle Emergency Owner. A young man of 25, there is no cyclist
+
+*2025-09-23 10:23:05* · [`adalk`](https://www.ada.lk/breaking_news/තංගල්ල-මතුකුඩු-ලොරියේ-හිමිකරු-අවු--25ක-තරුණයෙක්--ගෙදර-පාපැදියක්වත්-නෑ/11-418662) · `si`
+
+A youth who was arrested in the lorry that was a tangalized lorry powder was arrested in Elpitiya, police said.
+
+The suspect is a drug addict in the Elpitiya Walagagala area, alleg of Elpitiya, Elpitiya.
+
+Although the suspect's name had a lorry, he does not have a bicyclist in his house
+
+He has revealed that he had no lorry that he had a lorry while using a phone call from a telephone call from a phone call.
+
+The suspect was due to be handed over to Tangalle Police today (23).. The Elpitiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/34f1b096.json)
+
+[Extended Data](ext_articles/34f1b096.ext.json)
 
 ---
 
@@ -1887,105 +2017,5 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath are also due to j
 [Data](articles/8b2f0e92.json)
 
 [Extended Data](ext_articles/8b2f0e92.ext.json)
-
----
-
-### Temple elephant ‘Kadira’ reportedly attacks mahout – victim hospitalised
-
-*2025-09-22 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112794/temple-elephant-kadira-reportedly-attacks-mahout-victim-hospitalised) · `en`
-
-‘Kadira’, an elephant belonging to the elephant troop of the Temple of the Tooth Relic in Kandy, has reportedly attacked its mahout.
-
-The mahout, who sustained injuries from the attack, is currently receiving treatment at the Mawanella Base Hospital.
-
-A hospital spokesperson stated that the mahout’s condition remains uncertain at this time. However, due to internal bleeding, he is expected to undergo surgery.
-
-According to reports, the elephant suddenly attacked while the mahout was attempting to feed the animal.
-
-◼️
-
-[Data](articles/ba3bbdb2.json)
-
-[Extended Data](ext_articles/ba3bbdb2.ext.json)
-
----
-
-### Overcoming ‘Elite Displacement Syndrome’
-
-*2025-09-22 22:13:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/overcoming-elite-displacement-syndrome/) · `en`
-
-...
-
-[Data](articles/94f5ba07.json)
-
-[Extended Data](ext_articles/94f5ba07.ext.json)
-
----
-
-### Crucifying Journalists For Visiting Israel
-
-*2025-09-22 22:03:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/crucifying-journalists-for-visiting-israel/) · `en`
-
-The commotion agitated from various sects in Sri Lankan society targeted those who visited the State of Israel, including myself, labelling the delegation as those who are on the Mossad payroll, and it further questioned the moral reasoning of the Sri Lankan delegation, pushing them to the darkest corners of hell. While the critics’ right to condemn Israel or anything related to Israel as scum bug is respected, the attendees to the Israel tour should have their own stances, reasoning what impetus drove them to join the delegation, and their side should be heard , at least to emulate the principle of natural justice.
-
-...
-
-[Data](articles/2b4f2980.json)
-
-[Extended Data](ext_articles/2b4f2980.ext.json)
-
----
-
-### On Reconciliation: Listening To India Is Always Good For Sri Lanka
-
-*2025-09-22 21:58:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-reconciliation-listening-to-india-is-always-good-for-sri-lanka/) · `en`
-
-As speculation swirls over whether Sri Lanka’s National People’s Power (NPP) government will hold provincial council elections next year, a bigger question looms: Will the NPP genuinely move forward with these elections, or is it preparing to abolish the provincial council system altogether, despite repeated assurances? Against this backdrop, India has once again reaffirmed its long-standing position—insisting that the full implementation of the Thirteenth Amendment to Sri Lanka’s Constitution is crucial for the country’s unity and stability. India’s recent statement at the 60th session of the United Nations Human Rights Council (UNHRC) is not mere diplomatic routine, but part of a decades-long commitment to Sri Lanka’s reconciliation process.
-
-...
-
-[Data](articles/29da9ee7.json)
-
-[Extended Data](ext_articles/29da9ee7.ext.json)
-
----
-
-### One injured in accident on Southern Expressway – Lane towards Colombo blocked
-
-*2025-09-22 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112793/one-injured-in-accident-on-southern-expressway-lane-towards-colombo-blocked) · `en`
-
-An individual has been injured in an accident that occurred between Dodangoda and Gelanigama exits on the Southern Expressway this evening (22).
-
-The accident took place when a lorry transporting books from Galle to Colombo overturned on the road.
-
-As a result of the incident, one lane towards Colombo is currently blocked, according to police sources.
-
-Reports also indicate that traffic congestion has built up between Dodangoda and Gelanigama due to the lane closure.
-
-◼️
-
-[Data](articles/6b9fd2ed.json)
-
-[Extended Data](ext_articles/6b9fd2ed.ext.json)
-
----
-
-### An accident on Southern Expressway - Colombo lane
-
-*2025-09-22 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214886) · `si`
-
-A man was injured in an accident in the Southern Expressway today (22).
-
-A lorry that was transporting books from Galle to Colombo has reached the road.
-
-One lane to Colombo has been blocked due to the accident.
-
-It is reported that there is a traffic congestion between Dodangoda, Southern Expressway.
-
-◼️
-
-[Data](articles/159221c4.json)
-
-[Extended Data](ext_articles/159221c4.ext.json)
 
 ---

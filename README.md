@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 17:06:10**
+As of **2025-09-23 18:21:17**
 
 ## Newspaper Stats
 
-*Scraped **77,686** Articles*
+*Scraped **77,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,227 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,547
-adaderanalk | 10,074
-tamilmirrorlk | 11,696
-virakesarilk | 12,636
-adaderanasinhalalk | 13,569
+adalk | 7,549
+adaderanalk | 10,077
+tamilmirrorlk | 11,698
+virakesarilk | 12,640
+adaderanasinhalalk | 13,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,685 (100.0%) of 77,686 articles have been extended.
+77,698 (100.0%) of 77,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### ஹட்டனில் இளைஞனின் தலையில் தாக்கியவருக்கு விளக்கமறியல்
+### ටෙල්අවිව් සිට කටුනායකට එන ඊශ්‍රායලයේ  Arkia Airlines
+
+*2025-09-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214920) · `si`
+
+ඊශ්‍රායලයේ  ARKIA AIRLINES ගුවන් සමාගමේ IZ 639 දරන ගුවන් යානය අද සිට සෑම සතියකම අඟහරුවාදා පස්වරු 18.30 ටෙල්අවිව් ගුවන් තොටුපොළේ සිට කොළඹ බලා ගමන් කිරීමට නියමතව ඇත.
+
+ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සිය ෆේස්බුක් ගිණුමේ සටහනක් තමින් මේ බව සඳහන් කර තිබේ.
+
+එම ගුවන්යානය හෙට උදේ  06.15ට කොළඹ කටුනායක ගුවන්තොටුපොළ වෙත පැමිණීමට නියමිතය.
+
+ඕමානය හා මාලදිවයින ඊශ්‍රායිල්  ගුවන් යානා සඳහා ගුවන් අවකාශය තහනම් කිරීම හේතුවෙන් මෙම ගුවන් යානය සීෂෙල්ස්  හරහා ගොස්  කොළඹට පැමිණීමට හා කොළඹ සිට ටෙල් අවිව් බලා ගමන් කිරීමට පැය 09.15 කාලයක් ගතවේ.
+
+හෙට රාත්‍රී 22.30ට කොළඹින් පිටත්වන IZ 640 ගුවන් යානය බ්‍රස්පතින්දා උදෑසන 05.35ට ටෙල්අවිව්  බලා පැමිණීමට නියමිත ය.
+
+ඊශ්‍රායලයේ සංචාරකයන් ඉලක්ක කර පියාසර කරන මෙම ගුවන් යානාය සතිපතා එක්වරක් ක්‍රියාත්මක කරන බව ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/121ca896.json)
+
+---
+
+### මිදිගම රුවන්ගෙන් ප්‍රකාශයක් සටහන් කර ගැනීමට අවසර
+
+*2025-09-23 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214919) · `si`
+
+ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකු මෙන්ම පාතාල කල්ලි නායකයකු බව කියන රුවන් චාමර හෙවත් මිදිගම රුවන් නමැත්තාගේ ප්‍රකාශයක් සටහන් කර ගැනීම සඳහා කොළඹ මහේස්ත්‍රාත් අධිකරණය මත්ද්‍රව්‍ය නාශක කාර්යාංශයට අද (23) අවසර ලබා දුන්නේය.
+
+පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය විසින් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා විසින් මෙම නියෝගය නිකුත් කළේය.
+
+පොලිසිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් මෙරට මත්ද්‍රව්‍ය ජාලය සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී අනාවරණය කරගත් කරුණු තවදුරටත් තහවුරු කර ගැනීම සඳහා මෙම සැකකරුගෙන් ප්‍රශ්න කර ප්‍රකාශයක් සටහන් කර ගැනීමට අවශ්‍ය වී තිබෙන බව සඳහන් කළේය.
+
+ඒ අනුව බන්ධනාගාරගතව සිටින මෙම සැකකරුගෙන් ප්‍රකාශයක් ලබා ගැනීම සඳහා නියෝගයක් නිකුත් කරන ලෙසත් පොලීසිය අධිකරණයෙන් ඉල්ලා සිටියා.
+
+එම ඉල්ලීම පිළිගත් මහේස්ත්‍රාත්වරයා ඔක්තෝම්බර් මස 13 වනදා මෙම සැකකරුගෙන් බන්ධනාගාරය තුළදී ප්‍රකාශයක් සටහන් කර ගන්නා ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/20f0c72e.json)
+
+---
+
+### Third deaths revealed in Tangalle II ice lorry
+
+*2025-09-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214918) · `si`
+
+It has been revealed that three persons innoffed in a house innone house innovated in the Seennamodara area.
+
+The Judicial Medical Officer of the Tangalle Base Hospital Ruwan Nananayakkara has been conducted by the Judicial Medical Officer of the Tangalle Base Hospital.
+
+The deaths have been revealed due to overwhelming injection of beer and heroin.
+
+The bodies of two youths were found in a house in a house in the Tangalle Seennakola, another person was receiving treatment at the Tangalle Base Hospital.
+
+◼️
+
+[Data](articles/f58612e0.json)
+
+[Extended Data](ext_articles/f58612e0.ext.json)
+
+---
+
+### The boy who flew in the plane's landing gear
+
+*2025-09-23 17:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமானத்தின்-லேண்டிங்-கியரில்-ஒளிந்து-கொண்டு-பறந்து-வந்த-சிறுவன்/50-365142) · `ta`
+
+A 13 -year -old boy hid in the plane's landing gear box and shocked everyone. The boy from Afghanistan has come.
+
+The boy made the adventure on Monday (22) at 11 am on an Afghan airline KAM Air flight.
+
+Airport security officials have taken care of the boy as they reached the New Delhi airport for 2 hours.
+
+The boy was found with the Afghan Kurda. The authorities confirmed that he was safe. The boy was then handed over to the Central Occupational Security Force.
+
+At the hearing, Kabul said that he had entered the plane's gear box and hid in the air box.. Officials went to the mountain hearing that he had done this in an interest.
+
+The boy was then sent to Afghanistan on the same flight at 12.30 pm.
+
+◼️
+
+[Data](articles/4731f0e0.json)
+
+[Extended Data](ext_articles/4731f0e0.ext.json)
+
+---
+
+### Husband shot in foam bread for his wife
+
+*2025-09-23 17:13:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவிக்கு-நுரை-ரொட்டி-சுட்ட-கணவன்/175-365141) · `ta`
+
+The husband, who failed to give his wife a little bit of a tasty bread, had to stand in a village in Galle district in a situation where he had to stand up to his clothes in front of his wife.
+
+There was also his mother -in -law in his house. Other children came to see her whenever the opportunity was available. Whenever they come, they will come to the head with a bundle. On that day, his eldest brother -in -law came. He unloaded many dry food parcels from his car.
+
+After the elder brother -in -law, the owner of the house and his wife took these dry food packets one by one.
+
+Among them, his mind moved towards the packet of bread flour in a polythene bag without a name or village. The thought of making bread to the chicken gravy at night came to his memory. Its taste came to his memory. At the same time, the tons of tons of his mouth came to the saliva. His wife also recommended this white, marriage and white pocket in the polythene bag.
+
+...
+
+[Data](articles/d8cef763.json)
+
+[Extended Data](ext_articles/d8cef763.ext.json)
+
+---
+
+### Sri Lanka is a unique site for international trading events - Prime Minister
+
+*2025-09-23 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225875) · `ta`
+
+Prime Minister Harini Amarasuriya said that Sri Lanka is a unique platform for international trade events and that "SL Mice Expo 2025" is a great opportunity to bring Sri Lanka's name to the international stage.
+
+The Prime Minister said this at the inaugural event of the "SL MICE Expo 2025" exhibition organized by the Sri Lanka Conference Bureau under the Ministry of Foreign Affairs, Foreign Employment and Tourism.
+
+The exhibition will be held at 100 representatives from 30 countries and the "SL MICE Expo 2025" exhibition will be held for 5 days from today.
+
+Its aim is to make Sri Lanka a leading country in the MICE (Meetings, Incentives, Conferencing, and Exhibitions) field, with the opportunity to showcase and improve their services, products and skills in the domestic and foreign MICE.
+
+...
+
+[Data](articles/28e4c9cf.json)
+
+[Extended Data](ext_articles/28e4c9cf.ext.json)
+
+---
+
+### All services relating to electricity will be approved tomorrow to approve parliament tomorrow
+
+*2025-09-23 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214917) · `si`
+
+The Gazette notification issued by President Anura Kumara Dissanayake is due to be presented to the Parliament tomorrow (24) to conclude all the services of the provision of electricity.
+
+The Secretary General of Parliamentary Secretariat was deciding on the Committee on Parliamentary Affairs.
+
+The publication of the Gazette, No. 2454/68, on 21.09.1979, will be presented to the Gazette No. 2454/61 under the Essential Public Service Act No. 61 of 1979.
+
+◼️
+
+[Data](articles/e4912e4f.json)
+
+[Extended Data](ext_articles/e4912e4f.ext.json)
+
+---
+
+### FR petition against appointment of Bribery Commission DG withdrawn
+
+*2025-09-23 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112835/fr-petition-against-appointment-of-bribery-commission-dg-withdrawn) · `en`
+
+The Fundamental Rights petition challenging the appointment of High Court Judge Ranga Dissanayake as the Director General of the Commission to Investigate Allegations against Bribery or Corruption (CIABOC) and the President’s recommendation to the Constitutional Council for the appointment has been withdrawn before the Supreme Court today (23).
+
+The petition had been filed by a group including the Chief Incumbent of the Udawalawe Soma Viharaya, Ven. Wewelduwa Gnanaprabha Thero.
+
+The case was taken up before a three-judge bench of the Supreme Court comprising Chief Justice Preethi Padman Surasena, Justice Mahinda Samayawardhena, and Justice Sampath Abeykoon.
+
+During the hearing, the attorney representing the petitioner sought the court’s permission to withdraw the application.
+
+Accordingly, the three-judge bench granted permission and dismissed the petition.
+
+◼️
+
+[Data](articles/6627a03f.json)
+
+[Extended Data](ext_articles/6627a03f.ext.json)
+
+---
+
+### Explanation for a teenager's head in Hatton
 
 *2025-09-23 16:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-இளைஞனின்-தலையில்-தாக்கியவருக்கு-விளக்கமறியல்/76-365140) · `ta`
 
-ஹட்டன் நகரில் இளைஞர் ஒருவரை தலையில் தாக்கி காயப்படுத்திய சம்பவம் தொடர்பில்  தாக்குதல் நடத்திய நபர், ஹட்டன் நீதவான் நீதிமன்ற நீதவான் பீட்டர் போல் உத்தரவின் பிரகாரம், ஒக்டோபர் மாதம் 7ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The man who attacked and injured a youth in Hatton has been remanded until October 7, on the orders of the Hatton Magistrate's Court Magistrate Peter Poll.
 
-புப்புரஸ்ஸ ஸ்டெலன்பேர்க் தோட்டத்தைச் சேர்ந்த 30 வயது குடும்பஸ்தருக்கும் வாகனம் ஒன்றில் வந்த நபருக்கும் இடையில், ஹட்டன் நகரின் அம்பிகா சந்தியில் கடந்த 11ஆம் திகதி வியாழக்கிழமை வாய்த்தர்க்கம் ஏற்பட்டது. அதனையடுத்தே வானத்தில் வந்த நபர், அந்த குடும்பஸ்தரை தலையிலேயே தாக்கியுள்ளார். தாக்குதல் நடத்திய நபர் கொட்டகலை பகுதியில் உணவகம் ஒன்றின் உரிமையாளர் ஆவார்.
+A 30 -year -old family member of the Puppurusa Stoneberg estate and a man in a vehicle, Ambika junction in Hatton city on Thursday. The man who came to the sky then hit the family head. The attacker is the owner of a restaurant in the Kotagala area.
 
-இந்த சம்பவத்தில் தலைப்பகுதியில் தாக்குதலுக்குள்ளான அவர் தற்போது சுயநினைவின்றி கோமா நிலையில் டிக்கோயா- கிளங்கன் வைத்தியசாலையின் தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டு தொடர் சிகிச்சைகளுக்கு முகங்கொடுத்துள்ளார்.
+He was attacked in the incident and has now been admitted to the intensive care unit of the Tikoya-Klangan Hospital in a coma.
 
-இவரது தலைப்பகுதியில் மேலதிக பரிசோதனைகளை நடத்துவதற்கு கண்டி வைத்தியசாலையில் சி.டி.ஸ்கேன் ஆய்வுகள் மேற்கொள்ளப்பட்டதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.   இவர் ஒன்பது மாத குழந்தையொன்றின்  தந்தையாவார்.
+Hospital sources said that CD scan inspections were carried out at the Kandy Hospital to conduct further tests on his head.. He is the father of a nine -month -old child.
 
 ◼️
 
 [Data](articles/dec5fee2.json)
+
+[Extended Data](ext_articles/dec5fee2.ext.json)
+
+---
+
+### A petition against the Director of Bribery Commission
+
+*2025-09-23 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225867) · `ta`
+
+A petition on the fundamental rights filed by the President has been withdrawn from the Supreme Court today (23), demanding the appointment of High Court Judge Ranga Dissanayake as the Director General of the Bribery Commission and that the appointment is invalid.
+
+The petition was filed by some of the Vaveltuwa Gnanaprabha Thera and some others.
+
+The hearing of the petition was taken up for hearing today at the three -member court session of Chief Justice Priti Padman Surasena, Mahinda Samarathavardana and Sampath Abeykoon.
+
+At this time, the lawyer appearing on the side of the petitioner informed the court to grant permission to withdraw the petition.
+
+Accordingly, the three -member panel of judges, who granted permission to withdraw the petition, then dismissed the petition.
+
+◼️
+
+[Data](articles/6df06b5f.json)
+
+[Extended Data](ext_articles/6df06b5f.ext.json)
 
 ---
 
@@ -69,6 +259,86 @@ Mr. Mangala Wijesinghe commented:
 [Data](articles/0ad0234d.json)
 
 [Extended Data](ext_articles/0ad0234d.ext.json)
+
+---
+
+### Sri Lanka’s export earnings hit USD 11.6B in first 8 months of 2025
+
+*2025-09-23 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112834/sri-lankas-export-earnings-hit-usd-116b-in-first-8-months-of-2025) · `en`
+
+Sri Lanka’s export sector has continued to demonstrate resilience and steady growth during the first eight months of 2025, recording total earnings of US$ 11,554.32 million.
+
+This reflects a strong 6.61% increase compared to the corresponding period in 2024, the Export Development Board (EDB) said in its latest report.
+
+In August 2025 alone, total exports, comprising both merchandise and services reached to US$ 1,607.58 million, recording a 2.57 % year-on-year growth over August 2024. This performance highlights the strength of Sri Lanka’s export sector and the effectiveness of strategies implemented to broaden market access and enhance global competitiveness, the EDB said.
+
+Commenting on the positive results, Mangala Wijesinghe, Chairman and Chief Executive Officer of the Export Development Board (EDB), stated:
+
+...
+
+[Data](articles/a20a154a.json)
+
+[Extended Data](ext_articles/a20a154a.ext.json)
+
+---
+
+### Sri Lanka positioned as a unique hub for international business events - PM Harini
+
+*2025-09-23 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112833/sri-lanka-positioned-as-a-unique-hub-for-international-business-events-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that “SRI LANKA MICE EXPO 2025” is a great opportunity to engage in business activities at the international level but also a valuable platform to bring the name of Sri Lanka onto the global stage.
+
+The Prime Minister made these remarks while participating in the inauguration ceremony of the “SRI LANKA MICE EXPO 2025” exhibition organized by the Sri Lanka Convention Bureau (SLCB) under the Ministry of Foreign Affairs, Foreign Employment, and Tourism held today (23) at Cinnamon Life Hotel in Colombo, the PM’s Office said.
+
+This exhibition is scheduled to be held for five days with the participation of 100 representatives from 30 countries.
+
+...
+
+[Data](articles/36bd1cd1.json)
+
+[Extended Data](ext_articles/36bd1cd1.ext.json)
+
+---
+
+### Two persons arrested with drugs worth 50 million rupees at Katunayake airport
+
+*2025-09-23 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225834) · `ta`
+
+Two persons have been arrested for allegedly trying to leave the "Green Channel" with a Kush drug package worth more than 50 million rupees from the Katunayake International Airport.
+
+They have been arrested this morning by a group of officials of the Customs Drug Control Unit.
+
+A 29 -year -old woman from Colombo and a 48 -year -old woman in Chennai, India, have been arrested.
+
+They bought the package in Thailand - Bangkok and brought it to New Delhi, India, and then brought to Katunayake airport by Air India AI -277 at 6.50 am.
+
+5 kilograms of 92 grams of kush in 5 packs have been seized.
+
+The arrested persons have been handed over to the Katunayake Airport Police Narcotics Bureau for further investigations.
+
+◼️
+
+[Data](articles/5b655833.json)
+
+[Extended Data](ext_articles/5b655833.ext.json)
+
+---
+
+### New digital site to access public services!
+
+*2025-09-23 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225851) · `ta`
+
+Through the same digital site, the Cabinet has allowed the public to create a 'state super processor' aimed at accessing public services to the public.
+
+The current classified system forces users to re -enter the data in different methods, including multiple authentication processes and engage with different fields.
+
+Evaluations indicate that this ineffectiveness causes more than 500 million rupees of economic loss per year.
+
+◼️
+
+[Data](articles/1f407763.json)
+
+[Extended Data](ext_articles/1f407763.ext.json)
 
 ---
 
@@ -136,9 +406,11 @@ For the 13th consecutive day, Archana had come to support the Satyagraha organiz
 
 *2025-09-23 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112832/indian-navy-chief-pushes-for-stronger-defence-ties-with-sri-lanka) · `en`
 
-Chief of the Naval Staff in India Admiral Dinesh K Tripathi on Monday laid a wreath at the Indian Peace Keeping Force (IPKF) Memorial in Colombo, “honouring the courage and supreme sacrifice of Indian soldiers” who served during the IPKF operations, the Navy spokesperson said.
+Chief of the Naval Staff of India Admiral Dinesh K Tripathi on Monday laid a wreath at the Indian Peace Keeping Force (IPKF) Memorial in Colombo, “honouring the courage and supreme sacrifice of Indian soldiers” who served during the IPKF operations, the Navy Spokesperson said.
 
-“The solemn ceremony was a tribute to the courage, valour & supreme sacrifice of Indian soldiers who served with honour during IPKF operations. It also reflected the shared history between India & SriLanka and the enduring bond forged through sacrifice. The wreath laying underscored India’s commitment to preserving peace, promoting regional harmony & strengthening the spirit of friendship with Sri Lanka and the wider Indian Ocean Region, “wrote Navy spokesperson in an X post.
+“The solemn ceremony was a tribute to the courage, valour & supreme sacrifice of Indian soldiers who served with honour during IPKF operations. It also reflected the shared history between India & Sri Lanka and the enduring bond forged through sacrifice.”
+
+“The wreath laying underscored India’s commitment to preserving peace, promoting regional harmony & strengthening the spirit of friendship with Sri Lanka and the wider Indian Ocean Region,” wrote the Indian Navy Spokesperson in an X post.
 
 During his ongoing four-day official visit to Sri Lanka, Admiral Tripathi also held a series of meetings with the top defence leadership of the island nation.
 
@@ -211,6 +483,28 @@ Following the meeting, the Indian Navy Commander who visited the Ministry of Def
 [Data](articles/aceb3cd9.json)
 
 [Extended Data](ext_articles/aceb3cd9.ext.json)
+
+---
+
+### Rs.. 5000 gives money with money
+
+*2025-09-23 15:19:10* · [`adalk`](https://www.ada.lk/breaking_news/වීදි-ළමුන්ට-දෙන-රු--5000-හිඟ-මුදලුත්-එක්කම-දෙයි/11-418676) · `si`
+
+Payment of Cost of Living Ones for Children and Children and Standards
+
+The Cabinet Meeting held on 16/06/2010 to implement a program.
+
+Accordingly, the benefits of the public designated program have been launched from July 2025. The above mentioned Rs.
+
+Accordingly, the date on which the benefits of the interpretation begins to be treated as 2025-01 days
+
+Cabinet approval has been granted to be decentralized to the children's accounts.
+
+◼️
+
+[Data](articles/2066a138.json)
+
+[Extended Data](ext_articles/2066a138.ext.json)
 
 ---
 
@@ -1734,6 +2028,22 @@ The lorry from Embilipitiya to Noonama crashed into a three -wheeler from the op
 
 ---
 
+### පොලීසිය කුලී ගොඩනැගිලිවලට කෝටි 73ක් ගෙවලා
+
+*2025-09-23 09:55:44* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-කුලී-ගොඩනැගිලිවලට-කෝටි-73ක්-ගෙවලා/11-418659) · `si`
+
+ශ්‍රි ලංකා පොලිසිය විසින් කුලිපදනම මත ලබාගෙන තිබු ගොඩනැගිලි 331ක් සදහා ගොඩනැගිලි කුලි මුදල් ලෙස ඉකුත් වර්ෂයේ  (2024) රුපියල් හැත්තැතුන්කෝටි, අසුලක්ෂ,හයදහස් හත්සිය දහතුනක (738,006,713) මුදලක්  ගෙවා ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.
+
+ශ්‍රිලංකා පොලිසියේ නිති විරෝධිවත්කම් හෝ දේපළ විමර්ශන කොට්ඨාශය, ත්‍රස්ත මර්ධන හා විමර්ශන කොට්ඨාශය,තැනැත්තන් වෙළදාම ජාවාරම මැඩලිම සහ  සමුද්‍රිය ආරක්ෂණ කොට්ඨාශය, සහ මනුෂ්‍ය ඝාතන සහ  සංවිධානාත්මක අපරාධ විමර්ශන කොට්ඨාශය, කොළඹ 05 ප්‍ර දේශයේ පුද්ගලික සමාගමකට අයත් ගොඩනැගිල්ලක පවත්වාගෙන යනු ලබයි.
+
+ඒ සදහා ගොඩනැගිලි කුලි මුදල් ලෙස මාසයකට රුපියල් එක් කෝටි හාරලක්ෂයක මුදලක් (10,400,000)  ගෙවනු ලබන  අතර ඉකුත් වර්ෂයේ එම ගොඩනැගිල්ල සදහා ගෙවා ඇති කුලි මුදල රුපියල් දොළොස්කෝටි,හතලිස්අටලක්ෂයකි. (124,800,000)
+
+...
+
+[Data](articles/a6d3525f.json)
+
+---
+
 ### Fire spread in the emerald forest in Moneragala!
 
 *2025-09-23 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/225813) · `ta`
@@ -1769,311 +2079,5 @@ DIG in Badulla District, DIG Laksiri Wijesena Bandarawela Senior Superintendent 
 [Data](articles/43a2c316.json)
 
 [Extended Data](ext_articles/43a2c316.ext.json)
-
----
-
-### Air India crash aftermath handled ‘irresponsibly’, says court
-
-*2025-09-23 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112812/air-india-crash-aftermath-handled-irresponsibly-says-court) · `en`
-
-The highest court in India has strongly criticised the country’s aviation authorities for their handling of the aftermath of the Air India plane crash that killed 261 people in June.
-
-Leaving only one survivor, the flight bound for Gatwick airport from Ahmedabad crashed shortly after taking off, killing 242 passengers on board and 19 others on the ground.
-
-The court said it was “irresponsible” for the aviation authority to suggest, through leaks to the media, that pilot error had caused the disaster.
-
-It called on Indian prime minister Narendra Modi for the government’s response before it rules on a case filed by activists demanding an independent investigation.
-
-The court said the way the aviation body released its preliminary report in to the Boeing Dreamliner’s crash was “selective and piecemeal”.
-
-The preliminary report, published by India’s Aircraft Accident Investigation Bureau (AAIB) in July, said fuel supply to the engines was cut off just seconds after take-off.
-
-...
-
-[Data](articles/2201fdfa.json)
-
-[Extended Data](ext_articles/2201fdfa.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-23 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241562/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.40/60 to the US dollar on Tuesday, from 302.45/60 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.03.2028 was quoted flat at 8.90/9.00 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.48/52 percent, down from 9.47/57 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/72 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.43/47 percent, from 10.38/44 percent.
-
-A bond maturing on 01.06.2033 was quoted at 10.66/70 percent.
-
-The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.0000 selling; the British pound was 403.3856 buying, and 414.7474 selling, and the euro was 351.0459 buying, 362.4091 selling.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.38 percent, or 80.94 points, at 21,307; the S&P SL20 was up 0.43 percent, or 26.05 points, at 6,083.
-
-...
-
-[Data](articles/947e1f22.json)
-
-[Extended Data](ext_articles/947e1f22.ext.json)
-
----
-
-### Anura will commence to American visit
-
-*2025-09-23 09:45:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-ඇමෙරිකා-සංචාරය-අරඹයි/11-418657) · `si`
-
-The Airporting Officer in charge of the airport was leaving the US at Katunayaka airport on the night of the ODI on the 80th session of the United Nations General Assembly.
-
-He left the Minister of Foreign Affairs, Foreign Employment and Tourism Promotion, Vijitha Herath and several other government officials.
-
-They will go to Dubai on the 655 at the Emirates Airport on the 655.
-
-President Anura Kumara Dissanayake has planned to leave for a tour of Japan on 09/27.
-
-◼️
-
-[Data](articles/39ade38f.json)
-
-[Extended Data](ext_articles/39ade38f.ext.json)
-
----
-
-### Four Acting Ministers appointed during President’s visit to US and Japan
-
-*2025-09-23 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112811/four-acting-ministers-appointed-during-presidents-visit-to-us-and-japan-) · `en`
-
-Four Acting Ministers have been appointed to key ministries following the departure of President Anura Kumara Dissanayake to the United States to attend the United Nations General Assembly.
-
-President Dissanayake left the island last evening on a Dubai-bound flight.
-
-President Dissanayake was accompanied on his US visit by Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
-
-The appointments, announced by the President’s Media Division (PMD), are as follows:
-
-• Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando has been appointed as the Acting Minister of Finance, Planning and Economic Development.
-
-• Deputy Minister of Digital Economy, Eranga Weeraratne has been appointed as the Acting Minister of Digital Economy.
-
-• Deputy Minister of Defense, Aruna Jayasekara has been appointed as the Acting Minister of Defense.
-
-...
-
-[Data](articles/fe72a404.json)
-
-[Extended Data](ext_articles/fe72a404.ext.json)
-
----
-
-### Two people who went to fisheries magic!
-
-*2025-09-23 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/225812) · `ta`
-
-Two persons who were fishing in a boat from the Chinnakkudiyiruppu waters belonging to the Kalpitiya Police Division have not returned to shore at the Kalpitiya Police Station on September 21.
-
-காணாமல் போனவர்கள் 27 மற்றும் 34 வயதுடைய கல்பிட்டி பகுதியைச் சேர்ந்தவர்கள் என தெரிவிக்கப்படுகிறது.
-
-It is reported that Kalpitiya Police Station officials and Navy officials are working on the search for the missing.
-
-◼️
-
-[Data](articles/e0203642.json)
-
-[Extended Data](ext_articles/e0203642.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-23 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214898) · `si`
-
-The Parliamentary Secretariat said that the Parliament will meet to the 26th today (23).
-
-The National Building Research Research Institutes Research Institutes Bill will be held at the Second Reading Debate.
-
-The Second Reading Debate will be held tomorrow, the Second Reading Debate will be held tomorrow and the debate over regulations under the Import and Export Control Act.
-
-The post-Adjournment Debate on the fourth report of the Public Business on Friday is scheduled to be held on the fourth report of the Committee.
-
-◼️
-
-[Data](articles/9a09dba3.json)
-
-[Extended Data](ext_articles/9a09dba3.ext.json)
-
----
-
-### Tangalle drug; Arrests of lorry owners
-
-*2025-09-23 09:29:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலை-போதைப்பொருள்-லொறி-உரிமையாளர்கள்-கைது/175-365105) · `ta`
-
-The total amount of narcotics recovered from 3 lorries on Monday (22) in Tangalle is 705 kg. The registered owners of 3 lorries were arrested by Kalkiss, Elpitiya and Meediyagoda police stations.
-
-Investigations carried out by the police have found that the drugs have been sent to Sri Lanka through a 'Unakurve Santha', who is involved in drug trade from abroad.
-
-◼️
-
-[Data](articles/0d83c1d2.json)
-
-[Extended Data](ext_articles/0d83c1d2.ext.json)
-
----
-
-### The EMC has canceled the employees' holidays
-
-*2025-09-23 09:25:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-மி-ச-ஊழியர்களின்-விடுமுறை-இரத்து/175-365104) · `ta`
-
-All employees of the Ceylon Electricity Board have been canceled until the re -notice is made
-
-◼️
-
-[Data](articles/76e9d930.json)
-
-[Extended Data](ext_articles/76e9d930.ext.json)
-
----
-
-### Departed to the United States, the President
-
-*2025-09-23 09:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவிற்கு-புறப்பட்டார்-ஜனாதிபதி/175-365103) · `ta`
-
-President Anurakumara Dissanayake left the country on Tuesday night to attend the 80th General Assembly of the United Nations.
-
-The President will address the United Nations General Assembly at 3.15 pm on Wednesday, September 24.
-
-During the visit, President Anura Kumara Dissanayake will hold bilateral discussions with the United Nations Secretary -General and several world leaders and is scheduled to be attended by Sri Lankans living in the US.
-
-During the visit, President Anura Kumara Dissanayake joined the Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath.
-
-◼️
-
-[Data](articles/fd0de3ac.json)
-
-[Extended Data](ext_articles/fd0de3ac.ext.json)
-
----
-
-### Leave of the Ceylon Electricity Board's employees canceled
-
-*2025-09-23 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214897) · `si`
-
-Recession of notice of the CEB has been canceled again.
-
-All specially gazette notifications were released on the 21st of the presidential declaration of services related services.
-
-President Anura Kumara Dissanayake has signed the President based on Section 2 of the Public Service Act No. 61 of 1979.
-
-Considering the essential for maintaining the riches and that there could be a blocked or obstruction of such services.
-
-◼️
-
-[Data](articles/bb8834ad.json)
-
-[Extended Data](ext_articles/bb8834ad.ext.json)
-
----
-
-### Leave of all CEB employees cancelled
-
-*2025-09-23 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112810/leave-of-all-ceb-employees-cancelled) · `en`
-
-Leave of all employees of the Ceylon Electricity Board (CEB) has been cancelled.
-
-The General Manager of the CEB has stated that the directive will be in place until further notice.
-
-An Extraordinary Gazette notification was issued by President Anura Kumara Dissanayake on Sunday (21), declaring all services connected to the supply of electricity as essential public services.
-
-The order issued by the President states that services provided by any Public Corporation, Government Department, Local Authority, or Co-operative Society engaged in the supply of electricity are likely to be impeded or interrupted, thereby necessitating the declaration.
-
-With the declaration, all services related to electricity supply are being treated as essential public services.
-
-◼️
-
-[Data](articles/657a9434.json)
-
-[Extended Data](ext_articles/657a9434.ext.json)
-
----
-
-### Four acting ministers appointed
-
-*2025-09-23 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214896) · `si`
-
-President Anura Kumara Dissanayake has been appointed to four ministries to attend the United States General Assembly to attend the United Nations General Assembly.
-
-◼️
-
-[Data](articles/f1f32bd9.json)
-
-[Extended Data](ext_articles/f1f32bd9.ext.json)
-
----
-
-### X-Press Feeders Company refuses to provide compensation
-
-*2025-09-23 08:54:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இழப்பீட்டை-வழங்க-X-Press-Feeders-நிறுவனம்-மறுப்பு/175-365102) · `ta`
-
-The shipping company has refused to provide compensation for environmental impacts caused by the X Press Pearl ship that crashed into the Sri Lankan waters.
-
-The MV X-Press Pearl, a Singapore-owned ship, was on fire in 2021.
-
-This resulted in massive polluted by the country's marine resources. The sea resources were also huge.
-
-The court ordered the ship's company X-Press Feeders to pay $ 1 billion as compensation.
-
-However, the folk media has reported that the company has refused to pay the compensation. Remble
-
-◼️
-
-[Data](articles/90c8e268.json)
-
-[Extended Data](ext_articles/90c8e268.ext.json)
-
----
-
-### Sri Lanka’s national inflation rises to 1.5-pct in August
-
-*2025-09-23 08:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-national-inflation-rises-to-1-5-pct-in-august-241559/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s national-wide inflation price inflation rises to 1.5 percent in 12-months to August July 2025, rising from 0.7 percent in July, with food prices rising 2.9 percent over the year, data from the state statistics office showed.
-
-The  National Consumer Price Index (NCPI) fell 0.5 percent over the month of August.
-
-The National Consumer Price Index, an alternative to the widely watched Colombo Consumer Price Index, fell 0.5 percent over the month of August to 207.2 points.
-
-The central bank has missed its 5 percent inflation target, which is sometimes seen as deflation when 12-month data is taken into account, but prices have moved up marginally since 2022.
-
-Critics have pointed out that under cover of the 5 percent inflation target the central bank triggered back-to-back currency crises since the end of a 30-year war in 2012, 2015/16, 2018 and 2020/20 collapsing the rupee from 113 to 360 to the US dollar.
-
-...
-
-[Data](articles/70d8b403.json)
-
-[Extended Data](ext_articles/70d8b403.ext.json)
-
----
-
-### New Zealand loosens path to residency for some migrants
-
-*2025-09-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112809/new-zealand-loosens-path-to-residency-for-some-migrants) · `en`
-
-The New Zealand government said on Tuesday it was introducing two new pathways for migrants to gain residency as part of their efforts to boost the country’s economy.
-
-Economic Growth Minister Nicola Willis said in the statement that skilled and experienced migrants play an important role in plugging workforce gaps, and in turn help businesses to grow.
-
-“Businesses told us it was too hard for some migrants to gain residence, even when they had crucial skills and significant experience that was not available in the existing workforce. We’re fixing it,” she said.
-
-The new pathways are for skilled workers and tradespeople and technicians, and require them to have relevant experience both overseas and in New Zealand and to meet salary thresholds, the statement said.
-
-...
-
-[Data](articles/1cb09b3e.json)
-
-[Extended Data](ext_articles/1cb09b3e.ext.json)
 
 ---

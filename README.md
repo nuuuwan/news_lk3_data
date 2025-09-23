@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 13:20:40**
+As of **2025-09-23 13:07:01**
 
 ## Newspaper Stats
 
-*Scraped **77,650** Articles*
+*Scraped **77,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,89 +16,21 @@ economynextcom | 4,687
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
-adalk | 7,541
+adalk | 7,539
 adaderanalk | 10,063
-tamilmirrorlk | 11,690
+tamilmirrorlk | 11,687
 virakesarilk | 12,630
-adaderanasinhalalk | 13,562
+adaderanasinhalalk | 13,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,644 (100.0%) of 77,650 articles have been extended.
+77,644 (100.0%) of 77,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### රජයේ Superapp යෙදවුමට අමාත්‍ය මණ්ඩල අනුමැතිය
-
-*2025-09-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214907) · `si`
-
-තනි පරිගණක යෙදවුමක් ඔස්සේ මහජනතාවට රජයේ සේවාවන් ලබාගැනීමට හැකි වන පරිදි 'රජයේ සුපර්ඇප්' යෙදවුමක් (Goverment Superapp) නිර්මාණය කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
-
-එකිනෙකට වෙනස් පද්ධති, බහු-සත්‍යාපන ක්‍රියාවලි සහ විවිධ රාජ්‍ය දෙපාර්තමේන්තු හරහා නැවත නැවත දත්ත ඇතුළු කිරීම් අවශ්‍ය වන රාජ්‍ය සේවා සැපයීම් සඳහා වර්තමානයේ පවතින එකිනෙකට වෙනස් වූ ප්‍රවේශයන් හේතුවෙන් පුරවැසියන්ට සැලකිය යුතු අපහසුතා ඇති වන බව නිරීක්ෂණය වී ඇත.
-
-එමෙන්ම, එමඟින් වාර්ෂිකව රුපියල් මිලියන 500කට වැඩි ආර්ථික හානියක් සිදු වන බව ද ඇස්තමේන්තු කර තිබේ.
-
-එබැවින්, ශ්‍රී ලංකාවේ ඩිජිටල් ආර්ථික සැලැස්මට අනුකූලව පුරවැසියන්ට තනි පරිගණක යෙදවුමක් මඟින් රජයේ සේවාවන් සැපයීම සඳහා පුළුල් පරාසයක් ආවරණය වන 'රජයේ සුපර්ඇප්' යෙදවුම (Governinent SuperApp) සංවර්ධනය කිරීම උපායමාර්ගික ප්‍රමුඛතාවක් ලෙස හඳුනාගනු ලැබ ඇත.
-
-...
-
-[Data](articles/b63324f6.json)
-
----
-
-### CEB யின் மறுசீரமைப்பை விமர்சித்தார் தயாசிறி
-
-*2025-09-23 12:57:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-யின்-மறுசீரமைப்பை-விமர்சித்தார்-தயாசிறி/175-365131) · `ta`
-
-இலங்கை மின்சார சபையின் (CEB) தற்போதைய மறுசீரமைப்பை எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் தயாசிறி ஜெயசேகர நேற்று விமர்சித்தார், இந்த செயல்முறை சீர்குலைந்துள்ளதாகவும் அதன் ஊழியர்களின் நலன் குறித்து கவலைகளை எழுப்புவதாகவும் விவரித்தார்.
-
-பல தொழிலாளர்கள் இந்த பிரிப்பால் அதிருப்தி அடைந்துள்ளதாகவும், நிலுவையில் உள்ள மருத்துவக் கோரிக்கைகள் உட்பட நிலுவைத் தொகைகளின் பாதுகாப்பு குறித்து கவலைப்படுவதாகவும், புதிய நிறுவனங்களின் கீழ் அவை பாதிக்கப்படக்கூடும் என்று அவர்கள் அஞ்சுவதாகவும் ஜெயசேகர கூறினார்.
-
-"புதிதாக உருவாக்கப்பட்ட நிறுவனங்கள் தங்கள் நிலுவைத் தொகையை செலுத்துமா என்பது குறித்து ஊழியர்கள் நிச்சயமற்றவர்களாக உள்ளனர்," என்று அவர் கூறினார். "மேலும், ஓய்வு பெறுவதைக் கருத்தில் கொண்டவர்கள் தற்போது நிர்ணயிக்கப்பட்டுள்ள குறைந்தபட்ச ரூ. 5 மில்லியனுக்கும் அதிகமான இழப்பீட்டைக் கோருகின்றனர்."
-
-இந்தக் கவலைகளை அரசாங்கம் நிவர்த்தி செய்து, மாற்றத்தால் பாதிக்கப்பட்ட CEB ஊழியர்களுக்கு நீதி வழங்கப்படுவதை உறுதி செய்ய வேண்டும் என்று அவர் வலியுறுத்தினார்.
-
-◼️
-
-[Data](articles/cc5902b7.json)
-
----
-
-### பிரதமர் மோடியாக நடிப்பது பெரிய பொறுப்பு: உன்னி முகுந்தன்
-
-*2025-09-23 12:48:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரதமர்-மோடியாக-நடிப்பது-பெரிய-பொறுப்பு-உன்னி-முகுந்தன்/54-365130) · `ta`
-
-பிரதமர் நரேந்திர மோடியின் வாழ்க்கை வரலாற்றை முன்வைத்து ‘மா வந்தே’ என்ற பெயரில் படமொன்று உருவாகிறது. பல்வேறு மொழிகளில் உருவாக்கப்படும் இப்படத்தில் பிரதமர் மோடியாக உன்னி முகுந்தன் நடிக்கவுள்ளார். பிரதமர் மோடியின் பிறந்த நாளான செப்டம்பர் 17-ம் திகதி இப்படம் தொடர்பான அதிகாரபூர்வ அறிவிப்பு வெளியிடப்பட்டது.
-
-உன்னி முகுந்தன் பிறந்த நாளை முன்னிட்டு, பிரதமர் மோடியாக நடிக்கவிருப்பது குறித்து பேசியிருக்கிறார். அதில், “இந்திய பிரதமர் ஸ்ரீ நரேந்திர தாமோதரதாஸ் மோடி அவர்களாக 'மா வந்தே' படத்தில் நடிப்பது எனக்கு பெருமை.
-
-அகமதாபாத்தில் சிறுவனாக நான் வளர்ந்தபோது அவரை முதலில் முதலமைச்சராக தான் தெரியும். அதன் பிறகு ஏப்ரல் 2023 ஆம் ஆண்டு அவரை நேரில் சந்தித்தது என் வாழ்வின் மறக்க முடியாத தருணம். இது எனக்கு இன்னொரு கதாபாத்திரம் அல்ல. பெரிய பொறுப்பு. எளிய குடும்பப் பின்னணியில் இருந்து வந்தவர் இந்திய தேசத்தின் வளர்ச்சிக்காக அனைத்தையும் தியாகம் செய்ததை பற்றி பேசும் இந்தக் கதைக்கு நியாயம் செய்வேன் என்று நம்புகிறேன்” என்று தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/ea5a40ad.json)
-
----
-
-### டிப்பர் மோதியதில் சிறுவன் பலி ; பெண் படுகாயம்
-
-*2025-09-23 12:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-மோதியதில்-சிறுவன்-பலி-பெண்-படுகாயம்/175-365129) · `ta`
-
-அம்பாறை பொது வைத்தியசாலைக்கு முன்பாக உள்ள பிரதான  வீதியைக் கடக்கும்போது  நான்கு வயது சிறுவனும், பெண் ஒருவரும் டிப்பர் லொறியுடன் மோதியதில், சிறுவன் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன், குறித்த பெண் படுகாயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-சிறுவனின் தாய் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில் தாயைப் பார்பதற்காக தனது சித்தி மற்றும் பாட்டியுடன்  உஹன 22 காலனியில் இருந்து வைத்தியசாலைக்கு வந்து, வீடு திரும்புவதற்காக வைத்தியசாலையில் இருந்து வெளியேறி, பாதசாரிகள் கடவையில் பிரதான வீதியை கடக்கும்போது, ​​கல்முனை சந்தியில் இருந்து வந்த டிப்பர் லொறி மோதியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-சம்பவம் நடந்த இடத்திலேயே சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன் இது தொடர்பான மேலதிக விசாரணைகளை அம்பாறை தலைமையக பொலிஸார் மேற்​கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/74220635.json)
-
----
 
 ### Tigers. 40 crores tried to change: Sri Lankan woman's affidavit to ED
 
@@ -185,20 +117,6 @@ During a raid by Palali Airport officials, the woman brought gold in her private
 [Data](articles/77d56188.json)
 
 [Extended Data](ext_articles/77d56188.ext.json)
-
----
-
-### අරුණට එරෙහි විශ්වාසභංගය ප්‍රතික්ෂේප කිරීමට හේතු වූ කරුණු සභාගත කරන්න
-
-*2025-09-23 12:07:34* · [`adalk`](https://www.ada.lk/breaking_news/අරුණට-එරෙහි-විශ්වාසභංගය-ප්‍රතික්ෂේප-කිරීමට-හේතු-වූ-කරුණු-සභාගත-කරන්න/11-418666) · `si`
-
-ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතාට එරෙහිව ගෙන එනු ලැබූ විශ්වාසභංග යෝජනාව ප්‍රතික්ෂේප කිරීමට පදනම් වූ වාර්තා සභාගත කරන ලෙස විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා අද(23දා) පාර්ලිමේන්තුවේදී කියා සිටියේය.
-
-ඒ අනුව, ලේකම් මණ්ඩල වාර්තා සහ නීතිපති වාර්තාව ඇතුළු ඊට හේතු වූ කාරණා සභාගත කරන ලෙස විපක්ෂනායකවරයා මෙහිදී ඉල්ලීමක් කළේය.
-
-◼️
-
-[Data](articles/3359ae39.json)
 
 ---
 
@@ -515,20 +433,6 @@ Accordingly, the QR code is being implemented for Rs 200 million tea fertilizer 
 [Data](articles/a29d38b2.json)
 
 [Extended Data](ext_articles/a29d38b2.ext.json)
-
----
-
-### සංචාරක කර්මාන්ත වර්ධනයට ඩිජිටල් සංචාරක විසඳුම් ගෙනේ
-
-*2025-09-23 11:07:34* · [`adalk`](https://www.ada.lk/business/සංචාරක-කර්මාන්ත-වර්ධනයට-ඩිජිටල්-සංචාරක-විසඳුම්-ගෙනේ/7-418664) · `si`
-
-2025 වසර අවසන් වනවිට සංචාරකයන් මිලියන 3කට අධික සංඛ්‍යාවක් ආකර්ෂණය කර ගනිමින් ඇ.ඩො.බිලියන 5ක ආදායමක් උපයා ගැනීම ශ්‍රී ලංකාවේ ඉලක්කය වී ඇත. ඒ සඳහා දියුණු ප්‍රවාහන පද්ධතියක අවශ්‍යතාව ඉතා වැදගත් වේ. ගුවන් ප්‍රවාහන කර්මාන්තය සඳහා වන තොරතුරු තාක්ෂණ හා ඩිජිටල් විසඳුම් සැපයීමේ ප්‍රමුඛ ගෝලීය සැපයුම්කරුවකු වන SITA පෙන්වා දෙන්නේ මෙරට ගුවන් සේවා සහ සංචාරක කර්මාන්තයේ වර්ධනය උදෙසා පරිවර්තනීය කාර්යභාරයක් ඉටු කිරීමේ හැකියාව දියුණු තාක්ෂණයට හැකි වන බවයි.
-
-2024 වසරේදී ශ්‍රී ලංකාවට මගීන් මිලියන 8.88ක් පැමිණ ඇති අතර එය 17.6%ක වාර්ෂික වර්ධනයක් විය. 2025 වසරේ පළමු භාගයේදී මිලියන 4.9ක සංචාරක පැමිණීමක් වාර්තා කරනු ලැබුවේ පෙර වසරේ එම කාලයට සාපේක්ෂව 16%ක වර්ධනයක් සනිටුහන් කරමිනි. 2024 වසරේදී ගුවන් යානා ගමනාගමනය 20%කින් ඉහළ යන ලදී. මේ අතර බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොල පුලුල් කිරීමේ හා නවකරණය කිරීමේ වැඩසටහන් ආරම්භ කර තිබීමද විශේෂත්වයකි. මෙම වර්ධනයන් තුලින් පෙන්වා දෙනු ලබන්නේ ඩිජිටල් විසඳුම් හරහා සේවා සපයන බාධාවකින් තොර, කාර්යක්ෂම හා ආරක්ෂිත මගී ගමන් සඳහා ආයෝජනය කිරීමේ කඩිනම් අවශ්‍යතාවයයි.
-
-...
-
-[Data](articles/00c9354b.json)
 
 ---
 
@@ -2039,5 +1943,117 @@ Both appeared before Court when the matter was taken up. The Attorney General ha
 [Data](articles/90eb9ea2.json)
 
 [Extended Data](ext_articles/90eb9ea2.ext.json)
+
+---
+
+### Police seize three lorries linked to major drug haul in Tangalle
+
+*2025-09-23 02:16:55* · [`dailyftlk`](https://www.ft.lk/news/Police-seize-three-lorries-linked-to-major-drug-haul-in-Tangalle/56-782063) · `en`
+
+Sri Lankan Police have uncovered three lorries linked to narcotics within two days in Tangalle, seizing more than 200 kilograms of drugs along with firearms.
+
+The investigation began on Sunday when officers discovered the bodies of two people inside a house under renovation in Seenimodara. A search of the premises turned up about 10 kilograms of crystal methamphetamine, known as Ice, together with a lorry and a motorcycle.
+
+A second lorry, found near a service station in Tangalle, contained the bulk of the narcotics haul. Police said it concealed more than 200 kilograms of methamphetamine and heroin, as well as five revolvers and a T-56 assault rifle.
+
+Yesterday, police located a third lorry in Tangalle suspected of transporting drugs. The vehicle is now being examined.
+
+One suspect has been arrested and efforts are under way to apprehend another. Investigations into the deaths and the narcotics network are continuing.
+
+◼️
+
+[Data](articles/403bec28.json)
+
+[Extended Data](ext_articles/403bec28.ext.json)
+
+---
+
+### President to address UN General Assembly tomorrow
+
+*2025-09-23 02:16:23* · [`dailyftlk`](https://www.ft.lk/news/President-to-address-UN-General-Assembly-tomorrow/56-782062) · `en`
+
+Flies to Japan end Sept. for EXPO 2025 Osaka; to meet Japanese Emperor, address business forum
+
+President Anura Kumara Disanayake who left for the US last night will address the 80th session of the United Nations General Assembly (UNGA) tomorrow.
+
+He will address the General Assembly at 3:15 p.m. local time on Wednesday (24), the Presidential Media Division said.
+
+The Palestinian-Israel conflict is expected to dominate the UN sessions.
+
+Sri Lanka earlier this month affirmed its unwavering support for the inalienable right of the Palestinian people to statehood, in accordance with the purposes and principles of the Charter of the United Nations and the relevant UN resolutions.
+
+President Disanayake is also expected to hold bilateral discussions with the UN Secretary-General and several world leaders during the visit.
+
+In addition, he will meet with Sri Lankans residing in the US.
+
+...
+
+[Data](articles/97f16369.json)
+
+[Extended Data](ext_articles/97f16369.ext.json)
+
+---
+
+### More nations set to recognise Palestinian State
+
+*2025-09-23 02:15:09* · [`dailyftlk`](https://www.ft.lk/news/More-nations-set-to-recognise-Palestinian-State/56-782061) · `en`
+
+The UK, Australia, Canada and Portugal formally recognised a Palestinian State on Sunday, a move that will be followed by several European nations at a United Nations conference in Paris this week.
+
+The meeting, co-hosted by French President Emmanuel Macron and Saudi Arabia’s Crown Prince Mohammed bin Salman, is expected to see France, Belgium, Luxembourg, Andorra, San Marino and Malta extend recognition. More than three quarters of the UN’s 193 members already recognise Palestinian statehood. Countries that have not taken that step include the United States, Israel, Italy and Germany.
+
+◼️
+
+[Data](articles/c5557077.json)
+
+[Extended Data](ext_articles/c5557077.ext.json)
+
+---
+
+### 1,000 anglers join battle against invasive giant snakehead at Deduru Oya
+
+*2025-09-23 02:13:02* · [`dailyftlk`](https://www.ft.lk/news/1-000-anglers-join-battle-against-invasive-giant-snakehead-at-Deduru-Oya/56-782060) · `en`
+
+Around 1,000 anglers took part in a fishing competition at Deduru Oya, Wariyapola, on Saturday (20), targeting the invasive predatory giant snakehead (locally known as Deduru Naya). The event, aimed at curbing the spread of the species in fragile freshwater ecosystems and raising public awareness, comes as the Government announced a ban on the import, sale, and transportation of several invasive fish from Southeast Asia, including the redline snakehead, knifefish, alligator gar, and piranha
+
+◼️
+
+[Data](articles/1b277cfb.json)
+
+[Extended Data](ext_articles/1b277cfb.ext.json)
+
+---
+
+### Blossom Well signs BOI agreement for  $ 2.99 m boutique hotel establishment
+
+*2025-09-23 01:36:45* · [`dailyftlk`](https://www.ft.lk/business/Blossom-Well-signs-BOI-agreement-for-2-99-m-boutique-hotel-establishment/34-782052) · `en`
+
+Blossom Well Holdings Ltd., has signed an agreement with the Board of Investment (BOI) for $ 2.99 million to build a boutique hotel in Thissamaharama.
+
+This proposed investment is a high-end hospitality development located on land in Kohombagahapalassa, Thissamaharama, in proximity to the Yala National Park. The project targets the upscale and midscale tourist market, focusing on both international and domestic travellers.
+
+The senior management has developed a carefully articulated vision to become a leading high-quality star-class hospitality destination in Southern Sri Lanka, fully geared to offer exceptional service, authentic culinary experiences, and convenient access to the region’s most treasured religious, historical, and wildlife sites—creating lasting memories for every guest. The mission is to provide a superior hospitality experience.
+
+...
+
+[Data](articles/fd0a426a.json)
+
+[Extended Data](ext_articles/fd0a426a.ext.json)
+
+---
+
+### National Chamber hosts B2B meeting with 31-member AICCI Indian business delegation
+
+*2025-09-23 01:33:49* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-hosts-B2B-meeting-with-31-member-AICCI-Indian-businessdelegation/34-782051) · `en`
+
+The National Chamber of Commerce of Sri Lanka, in collaboration with the All India Chamber of Commerce & Industries (AICCI), will host a 31-member Indian business delegation to strengthen the Trade and Investment opportunities through a series of Business-to-Business (B2B) meetings on Friday, 26 September, from 3 p.m. to 5.30 p.m. at the National Chamber Auditorium, #450, D.R. Wijewardena Mawatha, Colombo 10.
+
+This program themed, “Creating B2B Opportunities for Export, Import, Trade and Investments”, aims to bring together business leaders from Sri Lanka and India to explore new avenues for partnerships, joint ventures, and investments. This initiative will create valuable networking opportunities and help strengthen bilateral trade relations between the two countries.
+
+...
+
+[Data](articles/5eafbd3e.json)
+
+[Extended Data](ext_articles/5eafbd3e.ext.json)
 
 ---

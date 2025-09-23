@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 05:56:38**
+As of **2025-09-23 07:05:18**
 
 ## Newspaper Stats
 
-*Scraped **77,554** Articles*
+*Scraped **77,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,95 @@ bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,685
 dailymirrorlk | 4,733
-islandlk | 4,772
+islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,528
-adaderanalk | 10,039
-tamilmirrorlk | 11,660
+adaderanalk | 10,041
+tamilmirrorlk | 11,661
 virakesarilk | 12,623
-adaderanasinhalalk | 13,543
+adaderanasinhalalk | 13,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,544 (100.0%) of 77,554 articles have been extended.
+77,553 (100.0%) of 77,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### බෝට්ටුවකින් මුහුදු ගිය ධීවරයින් දෙදෙනෙක් අතුරුදන්
+
+*2025-09-23 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214890) · `si`
+
+පසුගිය 21වනදා සවස් කාලයේ කල්පිටිය, සින්නකුඩිඉරිප්පු කළපු තීරයෙන් බෝට්ටුවකින් ධීවර කටයුතු සඳහා පිටව ගිය පුද්ගලයින් දෙදෙනෙකු නැවත නොපැමිණීමක් සම්බන්ධව ඊයේ (22) දින කල්පිටිය පොලිස් ස්ථානයට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර ඇත.
+
+අතුරුදන් වූ පුද්ගලයින් අවුරුදු 27 හා 34 වයස්වල පසුවන කල්පිටිය ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+අතුරුදන් වූ අයවලුන් සොයා කල්පිටිය පොලිස් ස්ථානයේ නිලධාරීන් හා නාවික හමුදා නිලධාරීන් එක්ව මෙහෙයුම් දියත් කර ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/7244f9a3.json)
+
+---
+
+### අදත් සවස 2න් පසුව තැන තැන වැසි
+
+*2025-09-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214888) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇතිවේ.
+
+වයඹ පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදුවිය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව
+
+◼️
+
+[Data](articles/b2197aa0.json)
+
+---
+
+### France formally recognises Palestinian state
+
+*2025-09-23 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112798/france-formally-recognises-palestinian-state) · `en`
+
+France has formally recognised a Palestinian state, becoming the latest in a wave of countries to take the step.
+
+Speaking at the UN in New York, President Emmanuel Macron said "The time for peace has come" and that "Nothing justifies the ongoing war in Gaza".
+
+France and Saudi Arabia are hosting a one-day summit at the UN General Assembly focused on plans for a two-state solution to the conflict. G7 states Germany, Italy, and the US did not attend.
+
+Macron confirmed that Belgium, Luxembourg, Malta, Andorra and San Marino would also recognise a Palestinian state, after the UK, Canada, Australia and Portugal announced recognition on Sunday.
+
+◼️
+
+[Data](articles/7e8d9fbc.json)
+
+---
+
+### Showers expected in several areas after 2pm today
+
+*2025-09-23 05:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112796/showers-expected-in-several-areas-after-2pm-today) · `en`
+
+Showers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+A few showers may occur in North-western province. Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/ce316c10.json)
+
+---
 
 ### Parliament meets today
 
@@ -87,6 +159,22 @@ President Anura Kumara Dissanayake accompanied Foreign, Foreign Employment and T
 [Data](articles/4c7bc0e2.json)
 
 [Extended Data](ext_articles/4c7bc0e2.ext.json)
+
+---
+
+### கெரோயினுடன் ஒருவர் கைது
+
+*2025-09-23 03:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெரோயினுடன்-ஒருவர்-கைது/175-365096) · `ta`
+
+யாழ். பருத்தித்துறை பொலிஸ் பிரிவிற்கு உட்பட்ட பிரதேசத்தில் கெரோயின் போதைப் பொருளுடன் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+காங்கேசன் துறை பிராந்திய குற்றத்தடுப்பு பிரிவினரால் நேற்று நடத்தப்பட்ட விசேட சுற்றிவளைப்பின் போது இந்த கைது நடவடிக்கை இடம்பெற்றுள்ளது.
+
+சந்தேக நபரிடமிருந்து 8460 மில்லி கிராம் கெரோயின் கைப்பற்றப்பட்டதுடன், சந்தேகநபரையும் சான்று பொருளையும் பருத்தித்துறை பொலிஸ் நிலையத்தில் ஒப்படைத்து, பருத்தித்துறை நீதவான் நீதிமன்றத்தில் முற்படுத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/41b84987.json)
 
 ---
 
@@ -460,6 +548,8 @@ As part of the launch, AB Mauri Lanka handed over the first batch of Prime Yeast
 
 [Data](articles/273a637f.json)
 
+[Extended Data](ext_articles/273a637f.ext.json)
+
 ---
 
 ### Atlas awarded at SLIM Digis 2.5 for pioneering digital & technology led learning experiences in Sri Lanka
@@ -473,6 +563,8 @@ Atlas celebrated success by winning the Silver Award for ‘Best Use of Experien
 ...
 
 [Data](articles/be8f93f1.json)
+
+[Extended Data](ext_articles/be8f93f1.ext.json)
 
 ---
 
@@ -489,6 +581,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/e436e65e.json)
+
+[Extended Data](ext_articles/e436e65e.ext.json)
 
 ---
 
@@ -509,6 +603,22 @@ Spreading fake documents is legally punishable offense. For official information
 [Data](articles/a29a2514.json)
 
 [Extended Data](ext_articles/a29a2514.ext.json)
+
+---
+
+### SLTDA embraces digital transformation by joining GovPay
+
+*2025-09-22 22:52:00* · [`islandlk`](http://island.lk/sltda-embraces-digital-transformation-by-joining-govpay/) · `en`
+
+In a groundbreaking initiative to modernize Sri Lanka’s tourism industry through digitalization, the Sri Lanka Tourism Development Authority (SLTDA) has joined GovPay – the government’s digital payment platform. This integration enables seamless, secure, and hassle-free online payments for a wide range of SLTDA services, offering greater convenience to stakeholders across the tourism ecosystem.
+
+As one of the country’s most vital industries, tourism lies at the heart of Sri Lanka’s economic revival. By embracing GovPay, SLTDA aims to streamline processes, reduce administrative hurdles, and create a more transparent and efficient business environment – further supporting the Government’s vision of positioning Sri Lanka as a world-class tourist destination powered by digital innovation.
+
+...
+
+[Data](articles/9df09221.json)
+
+[Extended Data](ext_articles/9df09221.ext.json)
 
 ---
 
@@ -1943,119 +2053,5 @@ Investigations have also found that the station has unlicensed drugs.
 [Data](articles/abd6fa6e.json)
 
 [Extended Data](ext_articles/abd6fa6e.ext.json)
-
----
-
-### Gun Ravi Rescue Rescue
-
-*2025-09-22 16:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மண்டைதீவு-மைதானம்-புனரமைப்பு-பணியில்-துப்பாக்கி-ரவைகள்-மீட்பு/71-365068) · `ta`
-
-Yall. The inaugural reconstruction work was carried out last Saturday (20). In the meantime, the gun ravages were found
-
-Initial work is currently underway in the Mandi Island area of ​​the town police division.
-
-In this case, a number of T56 rifles were discovered. Information has been provided to the Kayts police
-
-Resurrection. The permission was rescued on Monday (21) on Monday (21st) in accordance with the Kayts Court order in accordance with the request of the Kayts Court on Sunday (21).
-
-◼️
-
-[Data](articles/0cfca945.json)
-
-[Extended Data](ext_articles/0cfca945.ext.json)
-
----
-
-### National inflation rises
-
-*2025-09-22 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214869) · `si`
-
-According to the National Customer Price Index (NCPI), the country's point of surface increased to 1.5%.
-
-The latest report issued by the Department of Census and Statistics indicate the value of this value in July 2025.
-
-The feeding of food recorded as 2.2% in July increased to 2.9% in August.
-
-The latest report released by the Department of Census and Statistics that the non-food nor of food inflation increased to 0.4% in July.
-
-◼️
-
-[Data](articles/fee33691.json)
-
-[Extended Data](ext_articles/fee33691.ext.json)
-
----
-
-### Sri Lanka’s inflation climbs to 1.5% in August
-
-*2025-09-22 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112774/sri-lankas-inflation-climbs-to-15-in-august) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has increased to 1.5% in August 2025, compared to 0.7% in July 2025, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has increased to 2.9% in August compared to 2.2% in July and the Year-on-Year inflation of the non-food group increased to 0.4% last month from -0.6% in July.
-
-The contribution of food commodities to inflation was 1.26% in August compared to July, 2025.
-
-The NCPI for all items for the month of August 2025 is 207.2 and it records a decrease of 1.1 in index points compared to July.
-
-◼️
-
-[Data](articles/af26fb53.json)
-
-[Extended Data](ext_articles/af26fb53.ext.json)
-
----
-
-### 700,000 newly owned work to the public service
-
-*2025-09-22 15:38:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයට-අලුතෙන්-70000ක්/11-418652) · `si`
-
-The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, was held under the patronage of the Ministry of Health and Mass Media to the Ministry of Health and Mass Media, the Chief of Health and Mass Media.
-
-In the Eastern Province, two main hospital, seven primary medical care and financial units of development projects, the current condition of the development projects, and the main health care, financial management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management, medical management. Repairs, field duties and transportation, data, nutritional problems and nutrition and nutrition, demonstration, the deviation program, the disposal and non-deviation program, expiry program, expired diseases, and the clinical waste disposal program was discussed.
-
-...
-
-[Data](articles/2368f829.json)
-
-[Extended Data](ext_articles/2368f829.ext.json)
-
----
-
-### Quinton de Cock re-group
-
-*2025-09-22 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214868) · `si`
-
-The farewell decision has been canceled from the queen de Coke one day.
-
-Accordingly, the South African squad has been named to the South African squad for Quewton de Cock.
-
-After the World Cup, the de Cock retired from the International Ground of ODIs.
-
-◼️
-
-[Data](articles/57576baf.json)
-
-[Extended Data](ext_articles/57576baf.ext.json)
-
----
-
-### Sri Lanka AKD’s 1-year: broken promises, modest gains, and lingering questions
-
-*2025-09-22 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-akds-1-year-broken-promises-modest-gains-and-lingering-questions-241522/) · `en`
-
-ECONOMYNEXT – When Anura Kumara Dissanayake (AKD) swept into office a year ago, it marked the first time a leftist leader from the National People’s Power (NPP) had captured Sri Lanka’s presidency.
-
-Riding a wave of frustration with mainstream parties and promising a “new political culture,” Dissanayake presented himself as the face of accountability, anti-corruption, and people-centered governance after years of economic hardship and elite impunity.
-
-Ordinary citizens measure a government by their daily hardships. By this yardstick, many feel disappointed. Many people still praise AKD’s anti-corruption policies and some accountability measures. However, they complain that their cost of living has not reduced much. Others, especially youth who voted for change, express frustration that systemic issues are unchanged.
-
-Polls indicate a dip in AKD’s popularity from the euphoria of election night. Opposition parties sense an opening, accusing him of betraying his own voters.
-
-...
-
-[Data](articles/25b31788.json)
-
-[Extended Data](ext_articles/25b31788.ext.json)
 
 ---

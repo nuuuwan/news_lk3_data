@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 19:00:58**
+As of **2025-09-23 19:14:07**
 
 ## Newspaper Stats
 
-*Scraped **77,703** Articles*
+*Scraped **77,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ newsfirstlk | 363
 dbsjeyarajcom | 633
 bbccomsinhala | 677
 colombotelegraphcom | 788
-economynextcom | 4,687
+economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,550
 adaderanalk | 10,077
-tamilmirrorlk | 11,698
+tamilmirrorlk | 11,699
 virakesarilk | 12,640
-adaderanasinhalalk | 13,574
+adaderanasinhalalk | 13,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,703 (100.0%) of 77,703 articles have been extended.
+77,703 (100.0%) of 77,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### மின்சார சபை தொழிற்சங்க நடவடிக்கை - அமைச்சர் அதிரடி
+
+*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
+
+மின்சாரத் தொழிலாளர்களின் தொடர்ச்சியான தொழிற்சங்க நடவடிக்கை இருந்தபோதிலும், இலங்கையில் மின்சார நெருக்கடியையோ அல்லது மின்வெட்டையோ அரசாங்கம் அனுமதிக்காது என்று அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜெயதிஸ்ஸ தெரிவித்தார்.
+
+அமைச்சரவைக் கூட்டத்திற்குப் பிறகு இன்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் உரையாற்றிய அமைச்சர் ஜெயதிஸ்ஸ, தொடர்ச்சியான மின்சாரம் வழங்கப்படும் என்று உறுதியளித்தார், இதை உறுதி செய்வதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்படும் என்றும் கூறினார்.
+
+"எந்தவொரு நாசவேலையையும் அரசாங்கம் அனுமதிக்காது. அப்படி ஏதாவது நடந்தால், சட்டம் கடுமையாக அமல்படுத்தப்படுவதை நாங்கள் உறுதி செய்வோம்," என்று அவர் எச்சரித்தார்.
+
+இலங்கை மின்சார சபை (CEB) மறுசீரமைக்கப்படாவிட்டால் இலங்கை நெருக்கடியை எதிர்கொள்ள நேரிடும் என்று அமைச்சர் நலிந்த ஜயதிஸ்ஸ சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/ab765827.json)
+
+---
+
+### අධිකරණ ඇමති හෙට ජිනීවා යයි
+
+*2025-09-23 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214922) · `si`
+
+අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ හර්ෂණ නානායක්කාර මහතා 24 වැනිදා ස්විට්සර්ලන්තයේ ජිනීවා නුවර බලා පිටත්ව යාමට නියමිතව තිබේ.
+
+ඒ  බලහත්කාරයෙන් අතුරුදහන් කිරීම් පිළිබඳ කමිටුව විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් සිදුකරනු ලබන පළමු කාලාන්තර සමාලෝචනය සඳහා සහභාගිවීමටය.
+
+2025 සැප්තැම්බර් 26 වන දින මෙම සමාලෝචන රැස්වීම පැවැත්වෙන අතර, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය, නීතිපති දෙපාර්තමේන්තුව, අතුරුදහන් වු තැනැත්තන් පිළිබඳ කාර්යාලය, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සහ ශ්‍රී ලංකාවේ ජිනිවාහි නිත්‍ය නියෝජිත කාර්යාලයේ උසස් නිලධාරින් මේ සඳහා සහභාගිවීමට නියමිතව ඇති බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය සඳහන් කරයි.
+
+ශ්‍රී ලංකාව 2016 සිට බලහත්කාරයෙන් අතුරුදහන් කිරීම්වලින් සියලු තැනැත්තන් ආරක්ෂා කිරීමේ සම්මුතියේ
+
+◼️
+
+[Data](articles/2f5691b8.json)
+
+---
+
+### Sri Lank prepares national renewable hydrogen policy
+
+*2025-09-23 18:34:00* · [`economynextcom`](https://economynext.com/sri-lank-prepares-national-renewable-hydrogen-policy-241612/) · `en`
+
+ECONOMYNEXT – Sri Lanka has prepared a national renewable hydrogen policy, to make the Indian Ocean island a regional hub, and also launched a just energy transformation (JET) study, with support from the United Nations Development Agency (UNDP).
+
+“With its vast renewable energy resources, Sri Lanka is well placed to leverage hydrogen technologies for decarbonising power generation, industry and transport, while enhancing energy security and attracting international investment,” the UNDP said in a statement.
+
+The Ministry of Energy, the Sri Lanka Sustainable Energy Authority and UNDP in Sri Lanka hosted the Renewable Hydrogen Stakeholder Consultation Workshop ‘From Strategy to Actions’ recently.
+
+The forum brought together policymakers, private sector, financiers, academia and international experts to discuss the country’s path to a green hydrogen economy.
+
+...
+
+[Data](articles/44a21611.json)
+
+---
 
 ### Specific Oversight Committee granted to the Sectoral Oversight Committee to the Penal Code (Amendment) Bill
 
@@ -51,6 +105,32 @@ As a result, the need to arranged a law on this issue has been continuously emph
 [Data](articles/4e4d264f.json)
 
 [Extended Data](ext_articles/4e4d264f.ext.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields hold steady
+
+*2025-09-23 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-hold-steady-241660/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 302.45/60 to the US dollar on Wednesday, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.28/33 percent, down from 8.30/35 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2029 closed at 9.48/54 percent, from 9.47/57 percent.
+
+A bond maturing on 15.12.2032 closed at 10.42/48 percent, up from 10.38/44 percent.
+
+The central bank will announce its fifth monetary policy decision of the year tomorrow (24) at 7.30 am.
+
+Governor Nandalal Weerasinghe will hold a press conference at 11.30 am, which will be livestreamed on all major social media platforms.
+
+Rs. 38,000 million Treasury bills are to be issued through an auction on Wednesday, the central bank said.
+
+◼️
+
+[Data](articles/8b2e0990.json)
 
 ---
 
@@ -266,6 +346,22 @@ Accordingly, the three -member panel of judges, who granted permission to withdr
 
 ---
 
+### Sri Lanka’s Mercantile Investments and Finance to offer share subdivision
+
+*2025-09-23 16:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-mercantile-investments-and-finance-to-offer-share-subdivision-241657/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Mercantile Investments and Finance PLC said it will seek shareholder approval for a share sub-division which will see an ordinary share split into 200 ordinary shares.
+
+3,006,000 ordinary shares of the company are to be split, according the stock exchange filing.
+
+The subdivision of shares will not result in any change to the stated capital of the company, Mercantile Investments and Finance said.
+
+◼️
+
+[Data](articles/ecd46d9b.json)
+
+---
+
 ### Export earnings exceeding $ 11 billion in the first eight months of 2025
 
 *2025-09-23 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214914) · `si`
@@ -428,6 +524,28 @@ For the 13th consecutive day, Archana had come to support the Satyagraha organiz
 
 ---
 
+### Sri Lanka services exports fall 6.8-pct in August
+
+*2025-09-23 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-fall-6-8-pct-in-august-241652/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s services exports fell 6.82 percent from a year ago to 312.75 million US dollars in August 2025, led by decline in transport and logistics, the island’s Export Development Board said.
+
+However, over the first eight months of the year, services exports are estimated to have increased 5.57 percent, totaling 2,221.63 million dollars.
+
+ICT/BPM exports rose 6.43 percent to 147 million US dollars in August 2025 compared to the same month in 2024, and construction fell 28.24 percent to 9.71 million US dollars.
+
+Financial services edged up 51 percent to a small volume of 3.59 million US dollars.
+
+Transport and logistics declined 1606 percent to 152.46 million US dollars.
+
+Up to August total exports of goods and services were 11,554.32 million US dollars, 6.61 percent higher than 10,837.97 million in the same period in the previous year. (Colombo/September 23/2025)
+
+◼️
+
+[Data](articles/23c25e2d.json)
+
+---
+
 ### Indian Navy Chief pushes for stronger defence ties with Sri Lanka
 
 *2025-09-23 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112832/indian-navy-chief-pushes-for-stronger-defence-ties-with-sri-lanka) · `en`
@@ -467,6 +585,30 @@ Accordingly, the judge's panel of judges who were allowed to resign the petition
 [Data](articles/65df17cf.json)
 
 [Extended Data](ext_articles/65df17cf.ext.json)
+
+---
+
+### Sri Lanka stocks close up, driven by financials, banks and capital goods
+
+*2025-09-23 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-financials-banks-and-capital-goods-241646/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The All Share Price Index was up 0.26 percent, or 55.97 points, at 21,282. The S&P SL20 closed up 0.26 percent, or 16.01 points, at 6,073.
+
+Top contributors to the ASPI were Hayleys, LOLC Holdings (up 17.50 rupees at 582.25), Browns Investments (up 40 cents at 8.10 rupees), DIMO (up 178 rupees at 1,696.50), and Ceylon Cold Stores (up 4.50 rupees at 114.50).
+
+Most of this came from interest in diversified financials (Rs1.46), banks (Rs1.23bn), and capitals goods (Rs1.18bn).
+
+Top turnover generators were Browns Investments, LOLC Holdings, Vallibel One, Capital Alliance Holdings, and Commercial Bank.
+
+Top foreign buying was seen in DFCC Bank, Commercial Bank, ACL Cables, Lanka Milk Foods, Dialog Axiata, and MFPE Foods.
+
+Top foreign selling was seen in Ceylinco Holdings, John Keells Holdings, Capital Alliance Holdings, Sampath Bank, Ceylon Cold Stores, and Browns Investments.
+
+...
+
+[Data](articles/6c567579.json)
 
 ---
 
@@ -658,6 +800,26 @@ The boy reportedly told authorities that he had hidden himself in the rear centr
 
 ---
 
+### Sri Lanka seeks investors for caustic soda, chlorine production at Paranthan Chemicals
+
+*2025-09-23 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-for-caustic-soda-chlorine-production-at-paranthan-chemicals-241622/) · `en`
+
+ECONOMYNEXT – Sri Lanka will call for expressions of interest from local and foreign investors to produce caustic soda and chlorine as a public-private partnership project at the Paranthan Chemicals Limited factory, minister Nalinda Jayatissa said.
+
+“Paranthan Chemicals Limited has completed a feasibility study on restarting the caustic soda, chlorine manufacturing plant at the premises where its Factory is located,” Jayatissa told reporters.
+
+The proposal to look for investors for the proposed project to be implemented on the 30-acre land allocated to Paranthan Chemicals, a state-owned enterprise, was approved by the Cabinet.
+
+Paranthan Chemicals currently imports chlorine and distributes it throughout the country, he said.
+
+“Since the entire chlorine requirement for the country’s water treatment is imported, there is a risk of it being disrupted in the event of disruptions to global supply chains.
+
+...
+
+[Data](articles/906c61e0.json)
+
+---
+
 ### Owner of lorry found concealing drugs in Tangalle to be detained until 29 Sept.
 
 *2025-09-23 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112828/owner-of-lorry-found-concealing-drugs-in-tangalle-to-be-detained-until-29-sept) · `en`
@@ -797,6 +959,24 @@ It is emphasized that the Sri Lankan police are not propagated by the Sri Lankan
 [Data](articles/65ad24b3.json)
 
 [Extended Data](ext_articles/65ad24b3.ext.json)
+
+---
+
+### Sri Lanka to use Rs1bn of OPEC fund loan to improve Embilipitiya road
+
+*2025-09-23 13:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-use-rs1bn-of-opec-fund-loan-to-improve-embilipitiya-road-241616/) · `en`
+
+ECONOMYNEXT – Sri Lanka will use part of a 40 million dollar loan from the OPEC Fund for International Development to improve a 9.62 km section of the Embilipitiya-Panamura-Buluthota road, minister Nalinda Jayatissa said.
+
+“There is a balance of about Rs. 1,000 million of that loan, and it is planned to use that money and government funds to improve the 9.62 km section of the currently dilapidated Embilipitiya-Panamura-Buluthota road (B115) from Kolonna to Suriyakanda,” Jayatissa told reporters.
+
+“This section of the road will provide access to several tourist attractions such as the Sinharaja Forest, Maduwanwela Walawwa, Waulpane, Gongala, Handapanagala, Buluthota waterfalls and Himidiri Pedesa, boosting tourism.”
+
+Sri Lanka obtained the 40 million dollar loan from the OPEC Fund for International Development to improve the Rakwana-Suriyakanda section of the Galle-Deniya-Madampe road. (Colombo/Sep23/2025)
+
+◼️
+
+[Data](articles/3d9ee702.json)
 
 ---
 
@@ -1923,175 +2103,5 @@ The denial is expected to further increase the legal and diplomatic issues betwe
 [Data](articles/868d81b7.json)
 
 [Extended Data](ext_articles/868d81b7.ext.json)
-
----
-
-### Justice Minister to attend first review of Committee on Enforced Disappearances in Geneva
-
-*2025-09-23 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112813/justice-minister-to-attend-first-review-of-committee-on-enforced-disappearances-in-geneva) · `en`
-
-Minister of Justice and National Integration Harsha Nanayakkara is scheduled to depart for Geneva, Switzerland, on Wednesday (24), to participate in the first periodic review of Sri Lanka by the Committee on Enforced Disappearances.
-
-The review session will be held on September 26, and will focus on Sri Lanka’s compliance with the International Convention for the Protection of All Persons from Enforced Disappearance, which the country became a party to in 2016.
-
-Joining the Justice Minister for the session will be senior officials from the Ministry of Justice and National Unity, the Attorney General’s Department, the Office on Missing Persons (OMP), the Ministry of Foreign Affairs, the Ministry of Foreign Employment and Tourism, and Sri Lanka’s Permanent Mission to Geneva.
-
-...
-
-[Data](articles/ac572a62.json)
-
-[Extended Data](ext_articles/ac572a62.ext.json)
-
----
-
-### Tangalle Emergency Owner. A young man of 25, there is no cyclist
-
-*2025-09-23 10:23:05* · [`adalk`](https://www.ada.lk/breaking_news/තංගල්ල-මතුකුඩු-ලොරියේ-හිමිකරු-අවු--25ක-තරුණයෙක්--ගෙදර-පාපැදියක්වත්-නෑ/11-418662) · `si`
-
-A youth who was arrested in the lorry that was a tangalized lorry powder was arrested in Elpitiya, police said.
-
-The suspect is a drug addict in the Elpitiya Walagagala area, alleg of Elpitiya, Elpitiya.
-
-Although the suspect's name had a lorry, he does not have a bicyclist in his house
-
-He has revealed that he had no lorry that he had a lorry while using a phone call from a telephone call from a phone call.
-
-The suspect was due to be handed over to Tangalle Police today (23).. The Elpitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/34f1b096.json)
-
-[Extended Data](ext_articles/34f1b096.ext.json)
-
----
-
-### Electricity employees' leave canceled immediately
-
-*2025-09-23 10:21:13* · [`adalk`](https://www.ada.lk/breaking_news/වහාම-ක්‍රියාත්මක-වන-පරිදි-විදුලිබල-සේවකයන්ගේ-නිවාඩු-අවලංගු-කෙරේ/11-418661) · `si`
-
-Recession of notice of the CEB has been canceled again.
-
-The General Manager of the CEB has informed this in writing.
-
-◼️
-
-[Data](articles/c25a2bfa.json)
-
-[Extended Data](ext_articles/c25a2bfa.ext.json)
-
----
-
-### If I go to the salt, there is the ice, the ice
-
-*2025-09-23 10:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-உப்பு-அகழ-போனால்-அங்கு-அள்ள-அள்ள-ஐஸ்-வருகிறது/62-365106) · `ta`
-
-If the salt excavation operation in Hambantota is carried out, the TamilMmir's thinking is being embedded as an ice drug.. The place where the ice is addictive is, the whip is built around.
-
-◼️
-
-[Data](articles/7916c3f8.json)
-
-[Extended Data](ext_articles/7916c3f8.ext.json)
-
----
-
-### If I go to the salt, there is ice, peeling,
-
-*2025-09-23 10:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/நான்-உப்பு-அகழ-போனால்-அங்கு-ஐஸ்-அள்ள-அள்ள-வருகிறது/62-365106) · `ta`
-
-If the salt excavation operation in Hambantota is carried out, the TamilMmir's thinking is being embedded as an ice drug.. The place where the ice is addictive is, the whip is built around.
-
-◼️
-
-[Data](articles/fc78c71c.json)
-
-[Extended Data](ext_articles/fc78c71c.ext.json)
-
----
-
-### 29 vehicles at the Presidential Secretariat have disappeared, Rs.. 64 crores
-
-*2025-09-23 10:02:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ලේකම්-කාර්යාලයේ-වාහන-29ක්-අතුරුදහන්---වාහන-අලුත්වැඩියාවට-රු--කෝටි-64ක්/11-418660) · `si`
-
-The audit report issued by the National Audit Office has revealed that only Rs.
-
-53 times of repairing the same vehicle from 10 to 17 times. 189 worth of vehicles between a million and forty million vehicles were renovated. The audit revealed that the repair of one of those vehicle was spent on Rs.
-
-107 vehicles used by various parties were handed over to the Presidential Secretariat following September 21 (2024). The audit has revealed that the Presidential Secretariat has spent a sum of Rs.
-
-It has also been revealed that 29 vehicles registered in the Presidential Secretariat have been understood. Audit report states that the disappearance of these vehicles or submitted to a person's handed a person or no written witnesses were not submitted to a audit.  This information is included in the audit report of the performance report issued by the Presidential Secretariat.
-
-◼️
-
-[Data](articles/ded72191.json)
-
-[Extended Data](ext_articles/ded72191.ext.json)
-
----
-
-### Be careful - an inspired announcement
-
-*2025-09-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214899) · `si`
-
-The Department of Meteorology has issued an announcement of strong winds and rough sea.
-
-The announcement is in effect from 9.30 am to 24 hours.
-
-Accordingly, the Department of Meteorology has informed the public concerned with the people of sea areas from Galle to Matara and Hambantota.
-
-The coast of the coast extending from Chilaw to Mannar victory is increasing to 50 to 60 hours, rough at times.
-
-Sea areas in the sea areas off the coast extending from Negombo to Galle, Matara and Hambantota can increase between 2.5m.
-
-As a result, the Department of Meteorology is informed that there is a possibility of land to land from Negombo to Galle, Matara and Hambantota.
-
-◼️
-
-[Data](articles/22b19f8d.json)
-
-[Extended Data](ext_articles/22b19f8d.ext.json)
-
----
-
-### Road accident in Embilipitiya area
-
-*2025-09-23 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225814) · `ta`
-
-One person was killed in an accident near Sudupalama bridge on Embilipitiya - Noonama Road, which belongs to the Embilipitiya Police Division.
-
-The lorry from Embilipitiya to Noonama crashed into a three -wheeler from the opposite direction.
-
-விபத்தில் முச்சக்கர வண்டியின் சாரதி காயமடைந்து எம்பிலிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளார்.
-
-◼️
-
-[Data](articles/ab0a6140.json)
-
-[Extended Data](ext_articles/ab0a6140.ext.json)
-
----
-
-### Police paid Rs. 73 billion in rented buildings
-
-*2025-09-23 09:55:44* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-කුලී-ගොඩනැගිලිවලට-කෝටි-73ක්-ගෙවලා/11-418659) · `si`
-
-The latest audit report issued by the National Audit Office, which has been paid for Rs.
-
-The Law Proteensts or Adapted Investigation Division, Terrorism and Organizing Division, and Organized Criminal Investigation Division, and Organized Criminal Investigation Division is maintained in a building belonging to Colombo 05.
-
-For this month, Rs. 10,400,000 (10,400,000) is paid a month (10,400,000) for the building last year as Rs.. (124,800,000)
-
-Grandpas police have been operated on a building from the year 1931 and had paid Rs. 4,270,000 to Rs.. The police are running for nearly 100 years on a building that has been operated on the premises and the police had unable to establish a building for the Sri Lanka Police.
-
-80 police offices, 121 police stations, 15 police three police officers, 106 quarters and nine stores were obtained on the Kando basis.
-
-This information is included in the audit report that has been issued to the performance report issued by the Sri Lanka Police.
-
-◼️
-
-[Data](articles/a6d3525f.json)
-
-[Extended Data](ext_articles/a6d3525f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 18:44:34**
+As of **2025-09-23 19:00:58**
 
 ## Newspaper Stats
 
@@ -26,27 +26,31 @@ adaderanasinhalalk | 13,574
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,701 (100.0%) of 77,703 articles have been extended.
+77,703 (100.0%) of 77,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
 
-### දණ්ඩ නීති සංග්‍රහය (සං‍ශෝධන) පනත් කෙටුම්පතට ආංශික අධීක්ෂණ කාරක සභාවේ අනුමතිය
+### Specific Oversight Committee granted to the Sectoral Oversight Committee to the Penal Code (Amendment) Bill
 
 *2025-09-23 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214921) · `si`
 
-හෙට (24) දිනයේදී පාර්ලිමේන්තුවේ දෙවනවර කියවීමේ විවාදයට ගැනීමට නියමිත (19 වන අධිකාරය වූ දණ්ඩ නීති සංග්‍රහය (සං‍ශෝධන) පනත් කෙටුම්පත රාජ්‍ය පාලනය, යුක්තිය සහ සිවිල් ආරක්ෂණය පිළිබඳ අංශික අධීක්ෂණ කාරක සභාව විසින් අනුමත කර තිබේ.
+The Second of the 19th Authority Code (Amendment) Bill has been approved by the Committee of State Governance, Justice and Civil Protection (Amendment) Bill.
 
-ඒ එම කාරක සභාව විසින් අද (23) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+That was when the committee met in parliament today.
 
-එහිදී කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නජිත් ඉන්දික මහතා පැවසුවේ දරුවන් ඉලක්ක කරගත් ශාරීරික දඬුවම් සහ සිසුන්ට හානි පමුණුවන දඬුවම් ක්‍රම අවසන් කිරීම සහ එවැනි අපරාධ සඳහා නීතිමය දඬුවම් ලබා දීම අරමුණින් මෙම පනත් කෙටුම්පත හඳුන්වා දී ඇති බවය.
+The Committee Chairman Dr. Nagith Indika said that the bill has been introduced to end the punishment and legal convictions that will damage the students targeting students and students.
 
-ළමා රැඳවුම් මධ්‍යස්ථාන සහ පාසල් ඇතුළු විවිධ ස්ථානවල දරුවන්ට සිදුවන ශාරීරික දඬුවම් නැවැත්වීමට ප්‍රමාණවත් නීතිමය විධිවිධාන ශ්‍රී ලංකාවේ දිගු කලක් තිස්සේ නොතිබුණු අතර මේ සම්බන්ධයෙන් සමාජය තුළ දීර්ඝ කාලයක් තිස්සේ සාකච්ඡා කෙරෙමින් ද පැවතුණි. එම තත්ත්වය වෙනස් කිරීම සඳහා නීතිමය විධිවිධාන ගෙන ආ යුතු බවටද සාකච්ඡා කෙරිණි.
+Sri Lanka has long been there for a long time to stop the physical punishment for children in different locations including child detention centers and schools.. It was also discussed that legal provisions should be brought to change the situation.
+
+As a result, the need to arranged a law on this issue has been continuously emphasized by various parties, including various political parties and various international organizations, and the officials representing the Ministry of National Integration and the Ministics pointed out that the Television Code is revised.
 
 ...
 
 [Data](articles/4e4d264f.json)
+
+[Extended Data](ext_articles/4e4d264f.ext.json)
 
 ---
 
@@ -970,15 +974,17 @@ The two suspects have been handed over to the Katunayake Airport to the officers
 
 *2025-09-23 13:04:37* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමති-ජිනීවා-යයි/11-418669) · `si`
 
-බලහත්කාරයෙන් අතුරුදහන් කිරීම් පිලිබඳ කමිටුව විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් සිදු කරනු ලබන පළමු කාලාන්තර සමාලෝචනය සඳහා සහභාගිවීමට අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය ,නීතිඥ හර්ෂණ නානායක්කාර මහතා 24 වැනිදා අළුයම (බදාදා) ස්විට්සර්ලන්තයේ ජිනීවා නුවර බලා පිටත්ව යාමට නියමිතයි.
+Minister of Justice and National Integration to attend the first time period of the disappearances of the disappearances.
 
-2025 සැප්තැම්බර් 26 වන දින මෙම සමාලෝචන රැස්වීම  පැවැත්වෙන අතර, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය, නීතිපති දෙපාර්තමේන්තුව, අතුරුදහන් වු තැනැත්තන් පිළිබඳ කාර්යාලය, විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය සහ ශ්‍රී ලංකාවේ ජිනිවාහි නිත්‍ය නියෝජිත කාර්යාලයේ උසස් නිලධාරින් මේ සඳහා සහභාගිවීමට නියමිතව තිබේ.
+On September 26, 2025, the review meeting is scheduled to participate in the Ministry of Justice and National Integration, Ministry of Foreign Age of the Missing Persons, Ministry of External Agency and the Permanent Representative Office of Sri Lanka.
 
-ශ්‍රී ලංකාව 2016 සිට බලහත්කාරයෙන් අතුරුදහන් කිරීම්වලින් සියලු තැනැත්තන් ආරක්ෂා කිරීමේ සම්මුතියේ පාර්ශවකරුවෙකි.
+Sri Lanka is a partner of the Protection of All Persons from 2016.
 
 ◼️
 
 [Data](articles/55b427c9.json)
+
+[Extended Data](ext_articles/55b427c9.ext.json)
 
 ---
 

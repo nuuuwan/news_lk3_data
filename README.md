@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 12:56:33**
+As of **2025-09-23 12:38:50**
 
 ## Newspaper Stats
 
-*Scraped **77,644** Articles*
+*Scraped **77,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,97 +18,19 @@ islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,539
 adaderanalk | 10,063
-tamilmirrorlk | 11,687
+tamilmirrorlk | 11,684
 virakesarilk | 12,630
-adaderanasinhalalk | 13,561
+adaderanasinhalalk | 13,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,640 (100.0%) of 77,644 articles have been extended.
+77,640 (100.0%) of 77,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
-
-### புலிகளுக்கு ரூ. 40 கோடியை மாற்ற முயன்றேன்: ED-யிடம் இலங்கை பெண் வாக்குமூலம்
-
-*2025-09-23 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/புலிகளுக்கு-ரூ-40-கோடியை-மாற்ற-முயன்றேன்-ED-யிடம்-இலங்கை-பெண்-வாக்குமூலம்/150-365127) · `ta`
-
-தமிழீ​ழ விடுதலை புலிகள் அமைப்புக்கு நிதி உதவி செய்ய வங்கிப் பணமான ரூ 40 கோடியை மாற்ற முயன்றதாக இலங்கை பெண் ஒருவர் புழல் சிறையில் இருந்தபடியே வாக்குமூலம் அளித்துள்ளார். அவரிடம் அமலாக்கத் துறை விசாரணை நடத்தி வருகிறது.
-
-இந்தியன் ஓவர்சீஸ் வங்கியின் மும்பை கிளையில் சேமிப்புக் கணக்கில் ஹமிதா ஏ லால்ஜி என்பவர் ரூ. 40 கோடி பணம் வைத்திருந்தார். அவர் இறந்துவிட்டதால் அவருடைய வங்கிக் கணக்கு கையாளப்படாமல் இருந்தது.
-
-இதை அறிந்த விடுதலைப் புலிகள் இயக்கத்தைச் சேர்ந்த டென்மார்க்கில் வசிக்கும் உமா காந்தன் என்பவர் அந்த பணத்தை தங்கள் இயக்கத்திற்கு அபகரிக்க முடிவு செய்தாராம்.
-
-இதற்காக அவர் அந்த பணத்தை கைப்பற்ற இலங்கைத் தமிழரான லட்சுமணன் மேரி ஃப்ரான்சிஸ்கா (45) என்பவரை இந்தியாவுக்கு அனுப்பி வைத்தார். இந்தியா வந்த அவர், போலி ஆவணங்கள் மூலம் பான் கார்டு, ஆதார் அட்டை, பாஸ்போர்ட் போன்றவற்றை பெற்றதாக சொல்லப்படுகிறது.
-
-அவருடன் கென்னிஸ்டன் பெர்னான்டோ, பாஸ்கரன், ஜான்சன் சாமுவேல், தர்மேந்திரன், மோகன் உள்ளிட்டோர் இணைந்து ஹமிதாவிடம் பவர் ஆப் அட்டானி பெற்றதாக போலி ஆவணங்களை தயார் செய்ததாக சொல்லப்படுகிறது.
-
-...
-
-[Data](articles/bb83f8c4.json)
-
----
-
-### පෙම් සුව විඳි තරුණ යුවළක් මුහුදට ගසාගෙන යයි - බේරාගන්න දැරූ උත්සාහය කැමරාවේ
-
-*2025-09-23 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214906) · `si`
-
-ගාල්ල - කොටුව ඕලන්ද රෝහල් ගොඩනැගිල්ල පිටුපස ඇති ගල් බැම්ම මතින් මුහුදට ගසාගෙන ගිය තරුණ යුවළක් බේරා ගැනීමට එම ස්ථානයේ සිටි තරුණයින් පිරිසක් කටයුතු කර තිබේ.
-
-ඊයේ සවස සිදුව තිබූ එම අනතුර අසල වූ පුද්ගලයෙකු විසින් වීඩියෝ ගත කර තිබුණි.
-
-ඕලන්ද ගොඩනැගිල්ල පිටුපස මුහුදේ ගල් බැම්ම මත ඇති කුටියට පෙම් සුව විඳීම සඳහා පැමිණ තිබූ මෙම යුවළ මුහුද සැරවීමත් සමඟ එකවරම මුහුදට ගසාගෙන ගොස් ඇත.
-
-ඒ මොහොතේ ඕලන්ද ගොඩනැඟිල්ලේ ආරක්ෂාව හා පරිපාලන භාර නිලධාරී ගාමිණී මහතා විසින් අදාළ සිදුවීම දැක වහාම මුහුදට පැන තිබේ.
-
-පසුව අවට සංචාරක ආපනශාලාවල සිටි තරුණ පිරිසක් පැමිණ දැඩි පරිශ්‍රමයක් දරා යුවළ බේරාගෙන ගාල්ල ජාතික රෝහලට ඇතුළත් කර ඇත.
-
-අනතුරට ලක්වූ තරුණිය හා තරුණයා අහංගම සහ ලණුමෝදර පදිංචිකරුවන් බව පොලීසිය පවසයි.
-
-තරුණිය මේ වනවිට දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන අතර, තරුණයා හදිසි ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබන බව රෝහල් ආරංචි මාර්ග ස﻿ඳහන් කරයි.
-
-◼️
-
-[Data](articles/9e520d86.json)
-
----
-
-### 5 கோடி ரூபாய் மதிப்புள்ள ”குஷ்” சிக்கியது
-
-*2025-09-23 12:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-கோடி-ரூபாய்-மதிப்புள்ள-குஷ்-சிக்கியது/175-365124) · `ta`
-
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலைய வருகை முனையத்திலிருந்து ரூ. 50 மில்லியனுக்கும் அதிகமான மதிப்புள்ள ''குஷ்'' போதைப்பொருளுடன் வெளியேற முயன்ற இரண்டு பயணிகள் செவ்வாய்க்கிமை (23) காலை   ''கிரீன் சேனல்'' வழியாக வெளியேற முயன்றபோது சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவின் அதிகாரிகள் குழுவால் கைது செய்யப்பட்டனர்.
-
-அவர்களில் ஒருவர் கொழும்பில் வசிக்கும் 29 வயதுடைய பெண். மற்றவர் இந்தியாவின் சென்னையில் வசிக்கும் 48 வயதுடைய நபர்.
-
-அவர்கள் எடுத்துச் சென்ற இரண்டு பொதிகளில், 05 கிலோகிராம் 092 கிராம் ''குஷ்'' அடங்கிய ஒரு பையுடனும், 05 பொதிகள் இருந்தனர்.
-
-''குஷ்'' என்ற பொருளும், அவற்றைக் கொண்டு வந்த இரண்டு பயணிகளும் மேலதிக விசாரணைக்காக கட்டுநாயக்க விமான நிலைய காவல்துறை போதைப்பொருள் தடுப்புப் பணியக அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/2660d30d.json)
-
----
-
-### அந்தரங்க உறுப்பில் அறுவை சிகிச்சை செய்து தங்கம் மீட்பு
-
-*2025-09-23 12:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தரங்க-உறுப்பில்-அறுவை-சிகிச்சை-செய்து-தங்கம்-மீட்பு/175-365123) · `ta`
-
-அந்தரங்க உறுப்பில் மறைத்துவைத்து தங்கம் கடத்திய பெண், கைது செய்யப்பட்டதுடன், அந்தரங்க உறுப்பில் அறுவை சிகிச்சை செய்யப்பட்டதன் பின்னர் தங்கம் மீட்கப்பட்டது. அந்தப்பெண் தேறிவருகிறார் என யாழ்ப்பாண வைத்தியசாலை தகவல்ககள் தெரிவிக்கின்றன.
-
-இந்தியாவில் இருந்து யாழ் பலாலி சர்வதேச விமான நிலையம் ஊடாக நாட்டு வந்த பெண் ஞாயிற்றுக்கிழமை கைது செய்யப்பட்டார்.  கொழும்பை சேர்ந்த இந்த பெண், அதிகாரிகளால் கைது செய்யப்பட்டார்.
-
-குறித்த பெண் தனது அந்தரங்க உறுப்பில் மறைத்து தங்கத்தை கொண்டு வந்தமை பலாலி விமான நிலைய அதிகாரிகளின் சோதனையின் போது தெரியவந்தது. இதையடுத்து கடத்தலில் ஈடுபட்ட பெண் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு வரப்பட்டு அங்கு சிகிச்சையின் பின் தங்கம் மீட்டு எடுக்கப்பட்டுள்ளது. அப்பெண், பாதுகாப்பு மத்தியில் வைத்தியசாலையில் சிகிச்சை பெற்றுவருகின்றார் என்பதுடன் அவர் தேறிவருகின்றார் என வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன.
-
-◼️
-
-[Data](articles/77d56188.json)
-
----
 
 ### France also accepts Palestine
 
@@ -2045,5 +1967,81 @@ This program themed, “Creating B2B Opportunities for Export, Import, Trade and
 [Data](articles/5eafbd3e.json)
 
 [Extended Data](ext_articles/5eafbd3e.ext.json)
+
+---
+
+### Sri Lankan business leaders participate in 2025 UN Private Sector Forum
+
+*2025-09-23 01:08:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-business-leaders-participate-in-2025-UN-Private-Sector-Forum/34-782048) · `en`
+
+Dialog Axiata Executive Director/Group CEO and Network Sri Lanka Board Member Supun Weerasinghe
+
+Dilmah Ceylon Tea Company Chairman/CEO and Network Sri Lanka Chairman Dilhan C. Fernando
+
+On the invitation of United Nations Secretary-General António Guterres, three representatives from UN Global Compact Network Sri Lanka (Network Sri Lanka) participated yesterday in the 2025 United Nations Private Sector Forum (PSF), a high-level roundtable that brings together a select group of global private sector leaders to drive forward sustainable economic growth, held as a high-level convening during UN General Assembly Week in New York.
+
+Representing Sri Lanka at this year’s Forum are Dilmah Ceylon Tea Company PLC Chairman/CEO and Network Sri Lanka Chairman Dilhan C. Fernando. Dialog Axiata PLC Executive Director/Group CEO and Network Sri Lanka Board Member Supun Weerasinghe, and Network Sri Lanka Executive Director Rathika de Silva.
+
+...
+
+[Data](articles/e20188a8.json)
+
+[Extended Data](ext_articles/e20188a8.ext.json)
+
+---
+
+### Sysco’s global technology leadership meets Sri Lanka’s digital leaders
+
+*2025-09-23 01:00:01* · [`dailyftlk`](https://www.ft.lk/business/Sysco-s-global-technology-leadership-meets-Sri-Lanka-s-digital-leaders/34-782047) · `en`
+
+From left: Sysco Technology Vice President – Human Resources Chris Torchia, Vice President – Digital Commerce and Customer Solutions Ragnarok Rocha, Executive Vice President and Chief Information and Digital Officer Tom Peck, Digital Economy Deputy Minister Eng. Eranga Weeraratne, Sysco LABS Managing Director Thushera Kawdawatta, Chief Adviser to the President on Digital Economy Dr. Hans Wijayasuriya, and Sysco LABS Director – Branding and Communications Gian De Rose
+
+Sysco Executive Vice President, and Chief Information and Digital Officer Tom Peck recently met with Digital Economy Deputy Minister Eranga Weeraratne, and Chief Advisor to the President on Digital Economy and ICTA Chairman Dr. Hans Wijayasuriya.
+
+...
+
+[Data](articles/c8cf56bb.json)
+
+[Extended Data](ext_articles/c8cf56bb.ext.json)
+
+---
+
+### Disrupt Asia 2025 shines as South Asia’s new innovation powerhouse
+
+*2025-09-23 00:58:23* · [`dailyftlk`](https://www.ft.lk/business/Disrupt-Asia-2025-shines-as-South-Asia-s-new-innovation-powerhouse/34-782046) · `en`
+
+From right: Thilan Wijesinghe moderates a powerful discussion with Dr. Nandalal Weerasinghe, Dr. Hans Wijayasuriya, Duminda Hulangamuwa, and Gevorg Sargsyan on South Asia’s roadmap to becoming an innovation hub at the Disrupt Asia Main Conference panel discussion
+
+Four-day festival ignites global confidence in Sri Lanka's startup ecosystem
+
+Sri Lanka has firmly staked its claim as South Asia’s rising innovation hub with the successful completion of Disrupt Asia 2025, a four-day celebration of innovation, entrepreneurship, and technology. The event drew more than 100 venture capitalists from 20 countries including host Sri Lanka, strengthening regional startup networks and cross-border partnerships, signalling unprecedented global confidence in Sri Lanka’s innovation potential.
+
+...
+
+[Data](articles/30361792.json)
+
+[Extended Data](ext_articles/30361792.ext.json)
+
+---
+
+### 2025-09-22 (Monday)
+
+### Digitalisation or dependency? Sri Lanka’s AI dilemma beyond AKD’s binary
+
+*2025-09-22 23:54:06* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-or-dependency-Sri-Lanka-s-AI-dilemma-beyond-AKD-s-binary/4-782027) · `en`
+
+A binary “digitalise or perish” narrative must give way to a measured path
+
+President Anura Kumara Disanayake has cast digital transformation as a stark binary: either embrace artificial intelligence (AI) and modernise, or be “pushed to the margins” of the global economy. His appeal identifies inefficiency, stagnation, and weak public services as consequences of past inaction. This rhetoric mirrors global leaders who treat AI as a “pillar” of competitiveness and a survival imperative.
+
+Yet such framing is both motivational and reductionist. It risks presenting digitalisation as a technological silver bullet, obscuring the deeper questions of sovereignty, governance, and inequality that must shape Sri Lanka’s pathway.
+
+Adam Becker cautions against equating AI with an autonomous “brain” destined to rebel against humanity. The metaphor of AI as a computer like mind is flawed, he argues, and “existential risk” talk distracts from tangible, present day harms1.
+
+...
+
+[Data](articles/f0b0968e.json)
+
+[Extended Data](ext_articles/f0b0968e.ext.json)
 
 ---

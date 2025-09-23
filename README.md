@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 21:39:22**
+As of **2025-09-23 21:56:50**
 
 ## Newspaper Stats
 
-*Scraped **77,732** Articles*
+*Scraped **77,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,773
 dailyftlk | 5,510
 adalk | 7,555
 adaderanalk | 10,080
-tamilmirrorlk | 11,703
+tamilmirrorlk | 11,704
 virakesarilk | 12,644
 adaderanasinhalalk | 13,578
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 13,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,730 (100.0%) of 77,732 articles have been extended.
+77,732 (100.0%) of 77,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### சம்பத் மனம்பேரிக்கு விளக்கமறியல்
+
+*2025-09-23 21:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-விளக்கமறியல்/175-365151) · `ta`
+
+பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவினால் விசாரிக்கப்பட்டு வந்த சம்பத் மனம்பேரியை விளக்கமறியலில் வைக்குமாறு நீதிமன்றம் இன்று உத்தரவிட்டுள்ளது.
+
+இதன்படி, சம்பத் மனம்பேரி எதிர்வரும் 26 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+மித்தெனிய பகுதியில் ஐஸ் என்ற போதைப்பொருள் தயாரிக்கப் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரசாயனங்கள் அடங்கிய இரண்டு கொள்கலன்களை மறைத்து வைத்த சம்பவம் தொடர்பாக அவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+மேலும், சம்பந்தப்பட்ட நிலத்தில் ஆயுதங்கள் கண்டுபிடிக்கப்பட்ட சம்பவம் தொடர்பில் அவரை எதிர்வரும் ஒக்டோபர் 1 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு வலஸ்முல்ல நீதவான் உத்தரவிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/4522c791.json)
+
+---
 
 ### Cricket retires to be loving judge
 
@@ -73,6 +91,8 @@ Sampath Manamperi had surrendered to the Walasmulla Magistrate’s Court on Sept
 ◼️
 
 [Data](articles/73fba0e4.json)
+
+[Extended Data](ext_articles/73fba0e4.ext.json)
 
 ---
 
@@ -196,17 +216,19 @@ Another person in the house in question had also died after being admitted to th
 
 ---
 
-### විදුලිය අත්‍යාවශ්‍ය සේවාවක් කළ ගැසට්ටුව හෙට පාර්ලිමේන්තුවට
+### Electricity is an essential service to parliament tomorrow
 
 *2025-09-23 19:25:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කළ-ගැසට්ටුව-හෙට-පාර්ලිමේන්තුවට/11-418680) · `si`
 
-විදුලිබලය සැපයීම සම්බන්ධ සියලු සේවාවන් අත්‍යාවශ්‍ය සේවාවන් බවට පත් කරමින් ගරු ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් කරන ලද නියමය ඇතුළත්  ගැසට් නිවේදනය අනුමතිය සඳහා හෙට (24) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට අද (23) කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය විය.
+President Anura Kumara Dissanayake has decided to submit all services related services to the Parliament today (24) to be presented to the Parliament today (24) to approve of the Gazette Notification.
 
-මේ අනුව 1979 අංක 61 දරන අත්‍යාවශ්‍ය මහජන සේවා පනත යටතේ 2025.09.21 වැනිදා නිකුත් කළ අංක 2454/68 දරන ගැසට් පත්‍රයේ ජනාධිපතිතුමා විසින් විසින් කරන ලද ප්‍රකාශනය මෙසේ විවාදයකින් තොරව හෙට අනුමතිය සඳහා ඉදිරිපත් කිරීමට නියමිතය.
+Accordingly, the publication of the gazette, No. 2454/68, No. 61 of 1979, will be presented to the Gazette November 2454/60 under the Essential Public Service Act No 61.
 
 ◼️
 
 [Data](articles/0e667059.json)
+
+[Extended Data](ext_articles/0e667059.ext.json)
 
 ---
 
@@ -2079,29 +2101,5 @@ On September 25, 2024, the High Court ordered the High Court to implement the co
 [Data](articles/7eea3006.json)
 
 [Extended Data](ext_articles/7eea3006.ext.json)
-
----
-
-### Two persons linked to yesterday’s Tangalle drugs seizure arrested
-
-*2025-09-23 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112819/two-persons-linked-to-yesterdays-tangalle-drugs-seizure-arrested-) · `en`
-
-Police have arrested two sons of an individual who died after being hospitalised from a house in Seenimodara, Tangalle, yesterday (22), where a large haul of narcotics was found in three lorries, police stated.
-
-According to police, the estimated street value of the drugs found in the three lorries is approximately Rs. 9,888 million.
-
-The seized narcotics included a total of 705.91 kilograms comprising of 284.94 kilogram of heroin and 420.976 kilogram of crystal methamphetamine (commonly known as ‘Ice’).
-
-The seizure was made during a special operation conducted yesterday based on information received following the suspicious deaths of two individuals found inside the house.
-
-During the search, police also recovered a T-56 assault rifle and five unpacked pistols.
-
-Police investigations have revealed that the seized drug stock belongs to an underworld figure known as ‘Unakuruwa Shantha’, who is suspected to be operating drug trafficking activities from abroad.
-
-...
-
-[Data](articles/9fa0e615.json)
-
-[Extended Data](ext_articles/9fa0e615.ext.json)
 
 ---

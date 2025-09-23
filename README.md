@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-23 20:38:45**
+As of **2025-09-23 20:55:57**
 
 ## Newspaper Stats
 
-*Scraped **77,729** Articles*
+*Scraped **77,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,554
 adaderanalk | 10,079
 tamilmirrorlk | 11,703
 virakesarilk | 12,644
-adaderanasinhalalk | 13,577
+adaderanasinhalalk | 13,578
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,727 (100.0%) of 77,729 articles have been extended.
+77,729 (100.0%) of 77,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-23 (Tuesday)
+
+### ක්‍රිකට් ඉතිහාසයේ වඩාත්ම ආදරණීය විනිසුරු දිවියෙන් සමුගනී
+
+*2025-09-23 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214926) · `si`
+
+ක්‍රිකට් ඉතිහාසයේ වඩාත්ම ආදරණීය විනිසුරුවරයෙකු වූ "ඩිකී"  නමින් හඳුන්වන හැරල්ඩ් බර්ඩ් අභාවප්‍රාප්ත වී තිබේ.
+
+මිය යන විට ඔහු 92 හැවිරිදි වියේ පසු වූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+බර්ඩ් ලෝක කුසලාන අවසන් තරග තුනක් ඇතුළුව ටෙස්ට් තරග 66ක් සහ එක්දින තරග 6ක විනිසුරුවරයා ලෙස කටයුතු කර තිබේ.
+
+බර්ඩ් 1956 දී එංගලන්තයේ පළමුපෙළේ පිතිකරුවෙකු ලෙස සිය වෘත්තීය ජීවිතය ආරම්භ කළේය.
+
+විනිසුරුවරයෙකු ලෙස සිය පළමු තරගය සඳහා හැරල්ඩ් බර්ඩ් එක්වන්නේ 1970 මැයි මාසයේදීය.
+
+◼️
+
+[Data](articles/e49fc15f.json)
+
+---
 
 ### Sampath Manamperi remanded
 
@@ -92,17 +112,19 @@ In the first match in the Super 4 round, the Sri Lankan team lost to Bangladesh 
 
 ---
 
-### ප්‍රවීණ ක්‍රිකට් විනිසුරුවරයෙකු දිවියට සමුදෙයි
+### An expert cricarch is coming
 
 *2025-09-23 19:36:11* · [`adalk`](https://www.ada.lk/sports/ප්‍රවීණ-ක්‍රිකට්-විනිසුරුවරයෙකු-දිවියට-සමුදෙයි/9-418682) · `si`
 
-ක්‍රිකට් පිටියේ වඩාත් ජනප්‍රිත්වයට පත්වූ ක්‍රිකට් විනිසුරුවරයෙකු ලෙස හැඳින්වෙන එංගලන්ත ජාතික හැරල්ඩ් (ඩිකී) බර්ඩ් අභාවප්‍රාප්ත වී ඇත. මියයන විට 92 හැවිරිදි වියේ පසුවූ බර්ඩ් ටෙස්ට් තරග 66 ක් හා එක්දින තරග 69 ක් විනිශ්චය කර ඇති අතර ලෝක කුසලාන අවසන්මහා තරග 3 ක්ද ඔහු විසින් විනිශ්චය කර ඇත. හෙතෙම 1996 වර්ෂයෙන් අනතුරුව සිය විනිසුරු දිවියට සමුදුන්නේය.
+Harlor (Dickey) Burrd has passed away. When the death of death, 92-year-old Burved Test matches and 69 ODIs have been judged and 39 ODIs have been sentenced to 3 matches. He was brought to his judge after 1996.
 
-ක්‍රීඩකයෙකු ලෙසින්ද 1956  වර්ෂයේදී එංගලන්ත යෝක්ෂයර් ප්‍රාන්ත කණ්ඩායම නියෝජනය කළ බර්ඩ් පළමු පෙළ තරග 93 ක් නියොජනය කර ඇත. පසුව එම ප්‍රාන්ත සංගමයේ සභාපති ධුරයද ඔහු විසින් හෙබවීය.
+The bird of the bird, represented in 1956, has received 93 bird, represented in 1956. He also held the post of Chairman of the State Association.
 
 ◼️
 
 [Data](articles/0e410c94.json)
+
+[Extended Data](ext_articles/0e410c94.ext.json)
 
 ---
 
@@ -276,21 +298,25 @@ Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructe
 
 ---
 
-### CEB தொழிற்சங்க நடவடிக்கை - அமைச்சர் அதிரடி
+### CEB Trade Union Action - Minister Action
 
 *2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
 
-மின்சாரத் தொழிலாளர்களின் தொடர்ச்சியான தொழிற்சங்க நடவடிக்கை இருந்தபோதிலும், இலங்கையில் மின்சார நெருக்கடியையோ அல்லது மின்வெட்டையோ அரசாங்கம் அனுமதிக்காது என்று அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜெயதிஸ்ஸ தெரிவித்தார்.
+Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
 
-அமைச்சரவைக் கூட்டத்திற்குப் பிறகு இன்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் உரையாற்றிய அமைச்சர் ஜெயதிஸ்ஸ, தொடர்ச்சியான மின்சாரம் வழங்கப்படும் என்று உறுதியளித்தார், இதை உறுதி செய்வதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்படும் என்றும் கூறினார்.
+Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
 
-"எந்தவொரு நாசவேலையையும் அரசாங்கம் அனுமதிக்காது. அப்படி ஏதாவது நடந்தால், சட்டம் கடுமையாக அமல்படுத்தப்படுவதை நாங்கள் உறுதி செய்வோம்," என்று அவர் எச்சரித்தார்.
+“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
 
-இலங்கை மின்சார சபை (CEB) மறுசீரமைக்கப்படாவிட்டால் இலங்கை நெருக்கடியை எதிர்கொள்ள நேரிடும் என்று அமைச்சர் நலிந்த ஜயதிஸ்ஸ சுட்டிக்காட்டினார்.
+Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
+
+“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
 
 ...
 
 [Data](articles/b41fd6e6.json)
+
+[Extended Data](ext_articles/b41fd6e6.ext.json)
 
 ---
 
@@ -2073,31 +2099,5 @@ Her performance in the stage, cinema and television plays was recognized at seve
 [Data](articles/3405e8df.json)
 
 [Extended Data](ext_articles/3405e8df.ext.json)
-
----
-
-### Pakistanis arrested for robbing driver
-
-*2025-09-23 11:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரசாயனம்-தடவிய-நாணயத்தாள்-ஓட்டுநரிடம்-கொள்ளையடித்த-பாகிஸ்தானியர்கள்-மூவர்-கைது/175-365114) · `ta`
-
-Three Pakistanis have been arrested for allegedly robbing a lorry driver of Rs.
-
-It is believed that the suspects who stayed in the country on tourist visas are believed to have been involved in organized money laundering.
-
-The incident took place on Saturday (20) on the Peradeniya Road, police said. There, the suspects stopped the lorry and approached the driver, demanding help to change the Rs 5,000 note.
-
-One of the suspects who spoke to the driver took the Rs 5,000 note near the driver's face. At the time, the driver was said to have lost consciousness.
-
-When the driver returned to self -consciousness, he discovered that Rs.90,000 cash had been stolen. He later lodged a complaint with the Peradeniya police.
-
-Investigators led to identifying the vehicle where the suspects escaped through CCTV camera footage in the area, police said.
-
-Police found that the vehicle was driving to a rental service center in Wattala, with a license plate number and the vehicle was rented by a Pakistani man.
-
-...
-
-[Data](articles/3d131de0.json)
-
-[Extended Data](ext_articles/3d131de0.ext.json)
 
 ---

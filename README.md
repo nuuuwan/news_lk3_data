@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 13:40:27**
+As of **2025-09-24 13:57:08**
 
 ## Newspaper Stats
 
-*Scraped **77,859** Articles*
+*Scraped **77,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,566
+adalk | 7,567
 adaderanalk | 10,092
 tamilmirrorlk | 11,734
 virakesarilk | 12,666
@@ -26,37 +26,39 @@ adaderanasinhalalk | 13,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,857 (100.0%) of 77,859 articles have been extended.
+77,859 (100.0%) of 77,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### වාහන ආනයන ගැන මුදල් පිළිබඳ කාරක සභාවේදී හෙළිවූ දේ මෙන්න
+### Here's what revealed at the Committee on Vehicle Import
 
 *2025-09-24 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214954) · `si`
 
-වාහන ආනයනයෙන් රජය අපේක්ෂා කළ ආදායම් ඉලක්ක වසර අවසානය වනවිට ඉක්මවා යනු ඇතැයි රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+The Committee on Finance Committee was revealed that the government expected to be exceeded by the end of the year under the import of vehicle imports.
 
-ඒ, එම කාරක සභාව එහි සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (23) රැස්වූ අවස්ථාවේදීය.
+That was when the Committee met with the Chairman of the Chairman Dr. Harsha De Silva yesterday (23).
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා - වාහනවල අපේක්ෂිත ආදායම මොකක්ද මේ අවුරුද්දට?
+Chairman of the Public Finance Committee Dr. Harsha de Silva - what is the expected income of the vehicles this year?
 
-භාණ්ඩාගාර නියෝජ්‍ය ලේකම්  දිලිප් සිල්වා - "මේ වසරට බිලියන 460ක්."
+Treasury Deputy Secretary Dilip Silva - "This year is Rs. 460 billion."
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා - ඒක වෙනස් වුණේ නැද්ද?
+Chairman of the Committee on Public Finance Dr. Harsha de Silva - Didn't it change?
 
-වෙළෙඳ හා ආයෝජන ප්‍රතිපත්ති අතිරේක අධ්‍යක්ෂ ජනරාල් මල්ෂානි අබේරත්න - "දැන් තියෙන තත්ත්වය අනුව ඊට වැඩිවෙනවා.  මෙච්චර වාහන එයි කියලා බලාපොරොත්තු වුණේ නැහැ. අපිට පේනවා බිලියන 700ක් වගේ එන විදියක් පේනවා."
+Trade & Investment Policy Additional Director General Malshani Abeyratne - "In terms of now. Didn't expect so many vehicles. We see a way coming like 700 billion. "
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා - ණයවර ලිපි කීයක් ඇරලා තියෙනවාද?
+Chairman of the Committee on Public Finance Dr. Harsha de Silva and the letters of credit?
 
-වෙළෙඳ හා ආයෝජන ප්‍රතිපත්ති අතිරේක අධ්‍යක්ෂ ජනරාල් මල්ෂානි අබේරත්න - "ඩොලර් මිලියන 1570ක්.  සැප්.16 වෙනකම්."
+Additional Director General Director General Musasani Abeyratne - "$ 1570 million. Until September 16th. "
 
-මේ අතර, මෙම වසරේ සංචාරක ක්ෂේත්‍රයේ ආදායම අමෙරිකානු ඩොලර් බිලියන 3.5ක් පමණ වනු ඇතැයි එහිදී අනාවරණ වුණි.
+In the meantime, the tourism industry would be around US $ 3.5 billion.
 
 ...
 
 [Data](articles/2ef285d7.json)
+
+[Extended Data](ext_articles/2ef285d7.ext.json)
 
 ---
 
@@ -102,6 +104,20 @@ According to Time Out, these places are selected for their seasonal charm, cultu
 
 ---
 
+### ජනපති හා එජා මානව හිමිකම් මහ කොමසාරිස් අතර හමුවක්
+
+*2025-09-24 12:38:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-එජා-මානව-හිමිකම්-මහ-කොමසාරිස්-අතර-හමුවක්/11-418692) · `si`
+
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා ඇමරිකා එක්සත් ජනපදයට ගොස් සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ මානව හිමිකම්පිළිබඳ මහ කොමසාරිස් වොල්කර් ටර්ක් මහතා හමුවූ බව ජනාධිපති මාධ්‍ය අංශය (PMD) පැවසීය.
+
+මෙම හමුවට විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මෙන්ම එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත සහ හිටපු අගවිනිසුරු ජනාධිපති නීතිඥ ජයන්ත ජයසූරිය මහතා ද සහභාගී විය.
+
+◼️
+
+[Data](articles/932c69fd.json)
+
+---
+
 ### A report from Attorney General for arrest of Gammanpila
 
 *2025-09-24 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214953) · `si`
@@ -118,23 +134,25 @@ Additional Savigar General Sudarsitar General Sudarsitar General Sudarsha De Sil
 
 ---
 
-### ලක්ෂ 620ක ජංගම දුරකතන හා ටැබ් කටුනායකින් පන්නන්න බැරි වෙයි
+### 620 lakhs cannot be cast out with Katunayake
 
 *2025-09-24 12:15:40* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-620ක-ජංගම-දුරකතන-හා-ටැබ්-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-418691) · `si`
 
-රුපියල් හය කෝටි විසි ලක්ෂයක් වටිනා අතිනවීනතම ජංගම දුරකථන සහ ටැබ් පරිගණක තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත්, ඒවා කටුනායක ගුවන් තොටුපොළ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත ''( Green Channel ) ඔස්සේ පිට කර ගෙන යාමට තැත් කළ ගුවන් මගීන් තිදෙනෙකු සමග 09/24 දින ගුවන් තොටුපොළ රේගු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+A group of airport customs officers have been arrested by the Airport Officers with three passengers who were attempting to be exposed to the Bandaranaike International Airport, which was not told by Green Channel.
 
-මොවුන් තිදෙනාම කොළඹ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර ඔවුන් අතරින් 39 හැවිරිදි සහ 62 හැවිරිදි කාන්තාවන් දෙදෙනෙකු සිටින අතර අනෙක් පුද්ගලයා 25 හැවිරිදි පිරිමි පුද්ගලයෙකි .
+All of them are residents of Colombo, and there are two and 62-year-old women and 62-year-old women are a 25 year old man.
 
-මොවුන් 09/24 දින අලුයම 04.30 ට ඩුබායි සිට ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 549 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+They had arrived at Flai Dubai from Dubai at 04.30 am on 04.24 am.
 
-ඔවුන් විසින් රැගෙන ආ ගමන් මලු තුළ අතිනවීනතම ජංගම දුරකථන 559 ක් සහ ටැබ් පරිගණක 80 ක් සගවා ගෙන සිටියදී ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Airport Customs customs have been arrested by airport customs while they were brought to their baggage and 80 tab computers.
 
-මොවුන් අත් අඩංගුවේ තබා ගෙන කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති
+Katunayake Airport Customs officers are conducting further investigations
 
 ◼️
 
 [Data](articles/349f45ba.json)
+
+[Extended Data](ext_articles/349f45ba.ext.json)
 
 ---
 
@@ -2067,25 +2085,5 @@ Sri Lanka scored 134 runs for the loss of 138 runs for the loss of 17 wickets at
 [Data](articles/cec7a002.json)
 
 [Extended Data](ext_articles/cec7a002.ext.json)
-
----
-
-### 2025-09-23 (Tuesday)
-
-### Bungee jumping in the lotus tower
-
-*2025-09-23 23:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரத்தில்-Bungee-Jumping/175-365167) · `ta`
-
-Shiranda Peiris has announced that it is planning to launch a Bungee Jumping project at the Lotus Tower in Colombo within next year.
-
-He said the scheme would be introduced with maximum security measures to ensure the safety of the participants.
-
-Shiran Peiris has said that security personnel have been increased to strengthen the security of the Lotus Tower in Colombo and have been fitted with surveillance cameras.. Remble
-
-◼️
-
-[Data](articles/8c3b8e0b.json)
-
-[Extended Data](ext_articles/8c3b8e0b.ext.json)
 
 ---

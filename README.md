@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 19:13:27**
+As of **2025-09-24 19:37:30**
 
 ## Newspaper Stats
 
-*Scraped **77,928** Articles*
+*Scraped **77,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,576
-adaderanalk | 10,109
+adaderanalk | 10,111
 tamilmirrorlk | 11,748
 virakesarilk | 12,670
 adaderanasinhalalk | 13,617
@@ -26,49 +26,53 @@ adaderanasinhalalk | 13,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,915 (100.0%) of 77,928 articles have been extended.
+77,928 (100.0%) of 77,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் கூட்டத்தில் வட, கிழக்கு உறவுகள் பங்கேற்பு
+### Participation of North and East Relations Meeting
 
 *2025-09-24 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225993) · `ta`
 
-ஜெனிவாவில் 26ஆம் திகதி வெள்ளிக்கிழமை நடைபெறவுள்ள வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் 29 ஆவது கூட்டத்தில் வட, கிழக்கு வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகளின் சங்கத்தின் பிரதிநிதிகளும் பங்கேற்கவுள்ளனர்.
+Representatives of the Association of North and East will also participate in the 29th meeting of the Missing Faculty Committee on Friday 26th in Geneva.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஆரம்பமாகி, எதிர்வரும் ஒக்டோபர் மாதம் 8 ஆம் திகதி வரை நடைபெறவுள்ளது.
+The 60th session of the United Nations Human Rights Council will commence on the 8th and will be held until the 8th of October.
 
-இக்கூட்டத்தொடருக்கு சமாந்தரமாக வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் 29 ஆவது கூட்டம் கடந்த திங்கட்கிழமை (22) ஆரம்பமாகி, எதிர்வரும் ஒக்டோபர் மாதம் 3 ஆம் திகதி வரை ஜெனிவாவில் நடைபெறவுள்ளது.
+The 29th meeting of the Missing Committee on the Convention will commence on Monday (22) and will be held in Geneva until the 3rd of October.
 
-ஐக்கிய நாடுகள் சபையின்கீழ் இயங்கிவரும் கிளைக்கட்டமைப்புக்களில் ஒ;றான வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழு என்பது சகல நபர்களையும் வலிந்து காணாமலாக்கப்படல்களிலிருந்து பாதுகாத்தல் தொடர்பான பிரகடனத்தை ஏற்றுக் கையெழுத்திட்டுள்ள உறுப்புநாடுகளால் அப்பிரகடனம் உரியவாறு நடைமுறைப்படுத்தப்படுகின்றதா என்பதைக் கண்காணிப்பதற்கான சுயாதீன நிபுணர்களை உள்ளடக்கியதொரு கட்டமைப்பாகும். இக்குழுவில் உறுப்புநாடுகளால் முன்மொழியப்படும் 10 உறுப்பினர்கள் உள்ளடங்குவர்.
+The Group of Missing Figs under the United Nations is a structure that includes independent experts to monitor the fact that it is appropriately implemented by the member of the member states who have signed the Declaration of Protection of All Persons from Disappearances.. The committee includes 10 members proposed by the members.
 
 ...
 
 [Data](articles/6b069a44.json)
 
+[Extended Data](ext_articles/6b069a44.ext.json)
+
 ---
 
-### මිදිගම රුවන්ගේ ගෝලයෙක් ගිනිඅවි සමග අත්අඩංගුවට
+### Midigama Ruwan's disciple arrested with firearms
 
 *2025-09-24 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214969) · `si`
 
-පොලිස් විශේෂ කාර්ය බලකාය අද (24) පස්වරුවේ වැලිගම සහ මිදිගම අතර ප්‍රදේශයන්හි සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී ටී-56 ගිනිඅවි 3ක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+A special search operations in a special search operation conducted in areas between the police (24th) will be taken into custody.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සංවිධානාත්මක  පාතාල කල්ලි සාමාජිකයෙකු වන 'මිදිගම රුවන්' ගේ සමීපතමයෙකු බව පොලීසිය පැවසීය.
+The police said that the suspects were a close addition of an organized underworld gang member.
 
-ලද තොරතුරුකට අනුව අත්අඩංගුවට ගත් සැකකරුගේ ඉදිකරමින් පවතින දෙමහල් නිවසේ උඩුමහල පරීක්ෂා කිරිමේදී මෙම ගිනිඅවි හමුව ඇත.
+According to information, the two storied householders who were arrested in the arrest of the suspect were met with these firearms.
 
-එහිදී ටී-56 ගිනිඅවි තුනට අමතරව මැගසින් 01 හා උණ්ඩ 30ක්ද පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන් සිය භාරයට ගෙන තිබේ.
+Police have also taken into custody by the STF personnel in addition to the three T-56 riffles and 30 bullets.
 
-අත්අඩංගුවට ගත් සැකකරු 38 හැවිරිදි වියේ පසුවන වඩු රැකියාවේ නිතරවූ අයෙක් බව පොලීසිය පැවසීය.
+The suspect was a 38-year-old carpentry career, police said.
 
-ඔහු බූ‍ස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ මේ වනවිට රදවා සිටින මිදිගම රුවන් නමැත්තාගේ පියාගේ වැඩිමහල් සහෝදරියගේ, දියණියගේ ස්වාමිපුරුෂයා බව සඳහන්.
+It is said that he is the father of the elder sister and daughter of the father of Midigama Ruwan, who is located at the Boossa High Security Prison.
 
 ◼️
 
 [Data](articles/17e139da.json)
+
+[Extended Data](ext_articles/17e139da.ext.json)
 
 ---
 
@@ -87,6 +91,24 @@ Mohoti was arrested by the Criminal Investigation Department on September 18 on 
 [Data](articles/0707c4c3.json)
 
 [Extended Data](ext_articles/0707c4c3.ext.json)
+
+---
+
+### Accomplice of ‘Midigama Ruwan’ arrested with three T-56 firearms during STF operation
+
+*2025-09-24 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112874/accomplice-of-midigama-ruwan-arrested-three-t-56-firearms-during-stf-operation) · `en`
+
+An accomplice of underworld figure ‘Midigama Ruwan’ has been arrested along with firearms during an operation carried out in Weligama this afternoon (24), police stated.
+
+Based on information received by officers of the Police Special Task Force (STF), a search was carried out on the upper floor of a two-storey house which is under construction.
+
+During the search operation, three T-56 assault rifles, one magazine, and 30 bullets hidden at the location were taken into custody.
+
+Police stated the suspect is related to underworld figure ‘Midigama Ruwan’ who is currently being held at the Boossa prison.
+
+◼️
+
+[Data](articles/2bdc0f95.json)
 
 ---
 
@@ -127,6 +149,22 @@ Former MPs, Provincial Council members, Municipal Council, Pradeshiya Sabha memb
 [Data](articles/027827cf.json)
 
 [Extended Data](ext_articles/027827cf.ext.json)
+
+---
+
+### ASPI closes at new all-time high today
+
+*2025-09-24 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112873/aspi-closes-at-new-all-time-high-today) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 55 points today (24).
+
+Accordingly, the ASPI rose by 55.61 points or 0.26% to close at 21,338.45 points, surpassing the previous high of 21,282.84 points recorded on September 23, 2025.
+
+Meanwhile, the S&P SL20 Index moved up by 7.92 points to close at 6,081.06 points.
+
+◼️
+
+[Data](articles/1f04d593.json)
 
 ---
 
@@ -237,6 +275,8 @@ The transaction is expected to reach completion in the first half of 2026, subje
 ...
 
 [Data](articles/cee98eb6.json)
+
+[Extended Data](ext_articles/cee98eb6.ext.json)
 
 ---
 
@@ -394,6 +434,8 @@ A bond maturing on 15.12.2032 closed at 10.43/48 percent, up from 10.42/48 perce
 
 [Data](articles/e5e2f83c.json)
 
+[Extended Data](ext_articles/e5e2f83c.ext.json)
+
 ---
 
 ### NTB to acquire HSBC Sri Lanka’s retail banking business for Rs. 18 billion
@@ -515,6 +557,8 @@ Sri Lanka’s Mercantile Investments and Finance to offer share subdivision
 ...
 
 [Data](articles/e8233177.json)
+
+[Extended Data](ext_articles/e8233177.ext.json)
 
 ---
 
@@ -764,6 +808,8 @@ The 3-month and 12-month bills are available on tap at the weighted average yiel
 
 [Data](articles/822effe5.json)
 
+[Extended Data](ext_articles/822effe5.ext.json)
+
 ---
 
 ### The best country is named Sri Lankans to visit on October
@@ -851,6 +897,8 @@ Trade Minister Wasantha Samarasinghe, in his asset declaration, has said he hold
 ◼️
 
 [Data](articles/1bd962c3.json)
+
+[Extended Data](ext_articles/1bd962c3.ext.json)
 
 ---
 
@@ -1084,6 +1132,8 @@ This combined with other risks could lead to reversals in market sanguinity and 
 
 [Data](articles/719e6edd.json)
 
+[Extended Data](ext_articles/719e6edd.ext.json)
+
 ---
 
 ### Hurricane Ragasa: 20 million people in China
@@ -1165,6 +1215,8 @@ The airline said it had optimized fleet management, driven revenue growth, cost 
 ...
 
 [Data](articles/8d95a568.json)
+
+[Extended Data](ext_articles/8d95a568.ext.json)
 
 ---
 
@@ -1722,6 +1774,8 @@ Sanjaya Gunawardana is a distinguished banking professional with over 36 years o
 
 [Data](articles/c4e44e6c.json)
 
+[Extended Data](ext_articles/c4e44e6c.ext.json)
+
 ---
 
 ### Meeting between President-Volcker Turk
@@ -1809,6 +1863,8 @@ During the public review, the committee is expected to engage with the state del
 ...
 
 [Data](articles/a4cee35e.json)
+
+[Extended Data](ext_articles/a4cee35e.ext.json)
 
 ---
 
@@ -2077,43 +2133,5 @@ Police, the Navy and Residents of the area continue jointly in search of the dis
 [Data](articles/6a9aca0f.json)
 
 [Extended Data](ext_articles/6a9aca0f.ext.json)
-
----
-
-### The future of Tamil nationalist politics: Provincial Council election and 13th Amendment to the Constitution!
-
-*2025-09-24 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225919) · `ta`
-
-Finally, the future of Tamil nationalist politics, the 13th Amendment and the Provincial Council election, and the ability to make a consensus among themselves.. If there is no unity and visionary program, Tamil nationalist politics is likely to fall further.
-
-◼️
-
-[Data](articles/dce2d5a7.json)
-
-[Extended Data](ext_articles/dce2d5a7.ext.json)
-
----
-
-### Foreign Minister Vijitha Herath meets Indian Foreign Minister Jaishankar
-
-*2025-09-24 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225922) · `ta`
-
-Sri Lanka's External Affairs Minister Vijitha Herath has held bilateral discussions with Indian Foreign Minister S. Jaishankar at the United Nations General Assembly (UNGA) in New York, New York, aimed at reaffirming the strong friendship and close cooperation between Sri Lanka and India.
-
-External Affairs Minister Vijitha Herath on the meeting said the meeting
-
-“At the United Nations General Assembly in the United Nations, I met the Indian Foreign Minister and reiterated the strong friendship and intimate cooperation between Sri Lanka and India,” he said.
-
-He said that it was a pleasure to meet the Sri Lankan Foreign Minister and review the progress of bilateral cooperation.
-
-Minister Vijitha Herath has also accompanied President Anura Kumara Dissanayake in New York to attend the United Nations General Assembly.
-
-According to the US time, the President will address the General Assembly at 3:15 pm on Wednesday (24).
-
-◼️
-
-[Data](articles/11b2e548.json)
-
-[Extended Data](ext_articles/11b2e548.ext.json)
 
 ---

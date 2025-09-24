@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 14:56:25**
+As of **2025-09-24 14:38:37**
 
 ## Newspaper Stats
 
-*Scraped **77,870** Articles*
+*Scraped **77,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,45 +18,23 @@ islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,568
 adaderanalk | 10,094
-tamilmirrorlk | 11,739
-virakesarilk | 12,667
+tamilmirrorlk | 11,738
+virakesarilk | 12,666
 adaderanasinhalalk | 13,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,868 (100.0%) of 77,870 articles have been extended.
+77,866 (100.0%) of 77,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### ஐ.நா. கூட்டத்துக்கு சென்றபோது மனைவியுடன் சிக்கிய டிரம்ப்
-
-*2025-09-24 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நா-கூட்டத்துக்கு-சென்றபோது-மனைவியுடன்-சிக்கிய-டிரம்ப்/50-365208) · `ta`
-
-நியூயார்க்கில் ​செவ்வாய்க்கிழமை (23) அன்று ஐ.நா. சபை பொது உறுப்பினர் கூட்டம் நடந்தது. இதில் பங்கேற்பதற்காக அமெரிக்க அதிபர் டொனால்டு டிரம்ப் தனது மனைவி மெலனியாவுடன் சென்றார். அவர்கள் அங்குள்ள நகரும் படிக்கட்டில் (எஸ்கலேட்டர்) சென்றனர்.
-
-அப்போது திடீரென நகரும் படிக்கட்டு பழுதானதால் அப்படியே நின்றது. மெலனியா ஹீல்ஸ் செருப்பு அணிந்து இருந்ததால் நிலை தடுமாறினார். பின்னர் இருவரும் நகரும் படிக்கட்டில் நடந்தே சென்றனர்.
-
-இந்த பிரச்சனை தற்போது பூதாகரமாக வெடித்து உள்ளது. இது தொடர்பாக விசாரணை நடத்த வேண்டும் என வெள்ளை மாளிகை தெரிவித்துள்ளது.
-
-அதன் செய்தி தொடர்பாளர் கரோலின் லீவிட் எக்ஸ் வலை தள பக்கத்தில் வெளியிட்ட பதிவில் கூறி இருப்பதாவது:-
-
-ஐ.நா.சபை ஊழியர்கள் வேண்டுமென்றே இந்த செயலில் ஈடுபட்டார்களா? என்பது குறித்து விசாரணை நடத்த வேண்டும். அவர்களை பணிநீக்கம் செய்து உடனடியாக விசாரிக்க வேண்டும்.
-
-இது பற்றி டிரம்ப் கூறும் போது, மெலனியா சுதாரித்துக்கொண்டதால் கீழே விழவில்லை. நாங்கள் இப்போது பலமாக இருக்கிறோம் என தெரிவித்து இருக்கிறார்.
-
-...
-
-[Data](articles/9919a6fa.json)
-
----
-
 ### Hurricane Hurricane in Taiwan 124 people magic
 
-*2025-09-24 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
+*2025-09-24 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
 
 Hurricane Hallian, a popular tourist center, Taiwan's popular tourist destination, killed 14 people.
 
@@ -75,24 +53,6 @@ Wang Se-Ann said that the entire village of Dama, where about 1,000 people live 
 [Data](articles/99cefd04.json)
 
 [Extended Data](ext_articles/99cefd04.ext.json)
-
----
-
-### ரகசா சூறாவளி : சீனாவில் 20 இலட்சம் பேர் பாதிப்பு
-
-*2025-09-24 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225947) · `ta`
-
-தாய்வானில் கடந்த திங்கட்கிழமை முதல் ரகசா சூறாவளி கடும் பாதிப்புகளை ஏற்படுத்தி வருகிறது. அந்த புயல் தற்போது சீனாவின் தெற்கு கடலோர பகுதியை நோக்கி செல்கிறது. ஹொங்கொங்யும் தாக்கி வருகிறது.
-
-ஹொங்கொங்கில் கடல் அலைகள் கடுமையாக உயரே எழுந்தன. ஹொங்கொங்கின் சர்வதேச விமான நிலையத்தில் நூற்றுக்கணக்கான விமானங்கள் இரத்து செய்யப்பட்டன.
-
-சீனாவின் பல்வேறு நகரங்களில் பாடசாலைகள் மூடப்பட்டுள்ளன. சூப்பர் மார்க்கெட்டுகள் கூட காலியாக கிடந்தன. வீதிகளில் மக்கள் இல்லாமல் வெறிச்சோடி காணப்பட்டன.
-
-சீனாவின் குவாங்டாங் மாகாணத்தில் 20 இலட்சம் பேர் வேறு இடங்களுக்கு பாதுகாப்பாக கொண்டு செல்லப்பட்டனர். இந்த சூறாவளியால், மணிக்கு 185 கி.மீ. வேகத்தில் காற்று வீசியது. இது 230 கி.மீ. வரை வேகமெடுக்கும் என்றும் தெரிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/7002f6f1.json)
 
 ---
 
@@ -155,8 +115,6 @@ After being produced before the Aluthkade Magistrate’s Court, a detention orde
 ◼️
 
 [Data](articles/da4e2f6d.json)
-
-[Extended Data](ext_articles/da4e2f6d.ext.json)
 
 ---
 
@@ -335,8 +293,6 @@ Deputy Solicitor General Sudarshana de Silva, representing the CID, told the cou
 ...
 
 [Data](articles/385bb55d.json)
-
-[Extended Data](ext_articles/385bb55d.ext.json)
 
 ---
 
@@ -2079,5 +2035,45 @@ Colonel Herath’s appointment marks a significant step forward for James Global
 [Data](articles/899ab6af.json)
 
 [Extended Data](ext_articles/899ab6af.ext.json)
+
+---
+
+### Budding entrepreneurs celebrated at School Industry Entrepreneurship Circles program
+
+*2025-09-24 02:20:15* · [`dailyftlk`](https://www.ft.lk/business/Budding-entrepreneurs-celebrated-at-School-Industry-Entrepreneurship-Circles-program/34-782089) · `en`
+
+From left: Abans PLC Business Development Director Tanaz Pestonjee, Industrial Development Board Director – Entrepreneurship Development Division Renuka Jayalath, Industries and Entrepreneurship Development Secretary Thilaka Jayasundara, Industrial Development Board Chairman Ravi Nissanka, and Assistant Director Saminda Ranatungage
+
+The National Medal Awarding Ceremony of the School Industry Entrepreneurship Circles was held recently at the Nelum Pokuna Theatre.
+
+The event commemorated the program and its impact on over 32,000 students across all 25 districts in more than 603 schools. The program had also trained 1,750 teachers at schools to establish over 1,400 entrepreneurship circles.
+
+Abans PLC partnered with the Sri Lanka Industrial Development Board (IDB), the Industry and Entrepreneurship Development Ministry, and the Education Ministry in February to introduce the School Industry Entrepreneurship Circles to empower the youth of Sri Lanka.
+
+...
+
+[Data](articles/c9f6c393.json)
+
+[Extended Data](ext_articles/c9f6c393.ext.json)
+
+---
+
+### Ocean Lanka opens MFB to boost synthetic fabric innovation, production
+
+*2025-09-24 02:18:53* · [`dailyftlk`](https://www.ft.lk/business/Ocean-Lanka-opens-MFB-to-boost-synthetic-fabric-innovation-production/34-782088) · `en`
+
+Ocean Lanka Ltd., a major weft knit fabric manufacturer in Sri Lanka, has opened a new Multifunctional Building (MFB) at its Biyagama Export Processing Zone (EPZ) premises to increase its innovative synthetic fabrics production output.
+
+Synthetic fabrics currently make up 10–15% of Ocean Lanka’s production output, but the MFB will allow the company to greatly expand this share.
+
+This development guarantees global competitiveness in the production of synthetic apparel while highlighting Ocean Lanka’s commitment to innovation, sustainability, and product diversification, the company said in a statement.
+
+The MFB’s opening places Ocean Lanka as a model plant committed to developing the synthetic fabric industry and strengthens the company’s position in spearheading Sri Lanka’s shift to value-added textiles in order to satisfy the changing needs of the global demand in Intimate wear, active wear, and the fashion industry, the company said in a statement.
+
+...
+
+[Data](articles/38f1cde2.json)
+
+[Extended Data](ext_articles/38f1cde2.ext.json)
 
 ---

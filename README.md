@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 23:20:46**
+As of **2025-09-24 23:40:32**
 
 ## Newspaper Stats
 
-*Scraped **77,961** Articles*
+*Scraped **77,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,578
-adaderanalk | 10,119
+adaderanalk | 10,121
 tamilmirrorlk | 11,755
 virakesarilk | 12,679
-adaderanasinhalalk | 13,622
+adaderanasinhalalk | 13,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,961 (100.0%) of 77,961 articles have been extended.
+77,961 (100.0%) of 77,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### ඔක්තෝබර් මාසයේ සංචාරය කරන්න ලොව හොඳම රට ලංකාව
+
+*2025-09-24 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214975) · `si`
+
+ලොව හොඳම සංචාරක ස්ථාන පිළිබඳ තොරතුරු ඉදිරිපත්කරන සඟරාවක් වන බ්‍රිතාත්‍යයේ 'ටයිම් අවුට්' නිකුත්කළ නවතම අනාවරණයට අනුව ඔක්තෝබර් මාසයේ සංචාරය කිරීමට ලොව හොඳම ගමනාන්තය ලෙස ශ්‍රී ලංකාව නම්කර ඇත.
+
+ශ්‍රී ලංකාවේ උණුසුම් නිවර්තන දේශගුණය, සංස්කෘතික උරුමයන් සහ ස්වාභාවික භූ දර්ශන මෙහිදී සැලකිල්ලට ගෙන තිබේ.
+
+තවද එම සඟරාව දිවයින වටා ඇති ආකර්ශණීය වෙරළ තීරයන් සහ කඳු නැගීම සිට පෞරාණික නටබුන් සහ වනජීවී සෆාරි යනාදියද ශ්‍රී ලංකාව ලොව හොඳම සංචාරක ගමනාන්තය ලෙස තෝරාගැනීමට හේතු වී ඇත.
+
+ටයිම් අවුට් සංචාරක සඟරාවට අනුව මෙම ශ්‍රේණිගතකිරීමට සෘතුමය චමත්කාරය, සංස්කෘතික සිදුවීම් සහ ඔක්තෝබර් මාසයේදී විශේෂයෙන් භුක්ති විඳිය හැකි අත්දැකීම් යනාදිය පදනම්කරගෙන තිබේ.
+
+මෙම ලැයිස්තුවේ දෙවන ස්ථානය තුර්කියටද, අමෙරිකාවේ නිව් මෙක්සිකෝ තෙවන ස්ථානයේ දී නම්කර තිබේ.
+
+අනෙකුත් ගමනාන්ත වන්නේ ස්පාඤ්ඤයේ වැලෙන්සියා, අමෙරිකාවේ නිව්යෝර්ක්, පිලිපීනය, භූතානය, බොස්නියාව සහ හර්සගොවිනා, රුමේනියාවේ ටිමිසෝරා, අමෙරිකාවේ සැන් ෆ්‍රැන්සිස්කෝ සහ නැමීබියාවයි.
+
+◼️
+
+[Data](articles/fdbde256.json)
+
+---
 
 ### Sri Lanka adolescents beat Sri Lanka
 
@@ -57,6 +79,24 @@ Lilley Hamilton took 2 wickets for 16 runs, but it was not sufficient to win.
 [Data](articles/8f38b1a6.json)
 
 [Extended Data](ext_articles/8f38b1a6.ext.json)
+
+---
+
+### Solid waste recycling centers to be established across Sri Lanka
+
+*2025-09-24 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112884/solid-waste-recycling-centers-to-be-established-across-sri-lanka) · `en`
+
+A program has been initiated to establish solid waste recycling centers at local government institutions to facilitate the conversion of solid waste into recyclable materials.
+
+According to the President’s Media Division, the ‘Clean Sri Lanka’ program, in collaboration with the Ministry of Public Administration, Provincial Councils, and the Ministry of Local Government, has launched the initiative.
+
+As part of this program, solid waste recycling centers will be established across various regions, with the first such center being launched at the Kattankudy Urban Council, with an expense of Rs. 50.8 million.
+
+In total, 54 locations have been selected, including six areas known for generating substantial amounts of unprocessed waste. The PMD also mentioned that feasibility studies have been conducted for 25 of these sites.
+
+◼️
+
+[Data](articles/97022a80.json)
 
 ---
 
@@ -147,6 +187,26 @@ The translation, which is currently being brought, is expected to be a boon for 
 [Data](articles/280ed62d.json)
 
 [Extended Data](ext_articles/280ed62d.ext.json)
+
+---
+
+### Sri Lanka named No. 1 destination to visit in October
+
+*2025-09-24 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112883/sri-lanka-named-no-1-destination-to-visit-in-october) · `en`
+
+Sri Lanka has been ranked the number one destination to visit in the month of October by global travel magazine Time Out which released its annual list of the world’s top travel spots for the month.
+
+Sri Lanka’s warm tropical climate, rich cultural heritage and natural landscapes have contributed to it being named the travel top destination by the magazine.
+
+The magazine highlighted Sri Lanka’s as a destination that offers “a little bit of everything” from golden beaches and hill-country hikes to ancient ruins and wildlife safaris.
+
+Türkiye is placed second while United States’ New Mexico has been ranked third in the list.
+
+Other featured destinations include Valencia (Spain), New York City (US), the Philippines, Bhutan, Bosnia and Herzegovina, Timișoara (Romania), San Francisco, and Namibia.
+
+...
+
+[Data](articles/0ba10b94.json)
 
 ---
 
@@ -2069,67 +2129,5 @@ Mr. Mangala Wijesinghe commented on the President and CEO of the EDB.
 [Data](articles/e494879d.json)
 
 [Extended Data](ext_articles/e494879d.ext.json)
-
----
-
-### Rs.62 Mill. Three arrested for kidnapping phones and tablets
-
-*2025-09-24 12:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-62-மில்-பெறுமதியான-தொலைபேசிகள்-டேப்லெட்களை-கடத்திய-மூவர்-கைது/175-365203) · `ta`
-
-A group of airport customs officials have arrested three passengers for allegedly smuggling high -ranking mobile phones and tablet computers worth Rs.
-
-The trio are residents of Colombo, two women aged 39 and 62, and the other is a 25 -year -old.
-
-They arrived at the Katunayake airport at 04.30 am on 09/24 on the Fly Dubai FZ-549 flight from Dubai.
-
-They were stopped by airport customs when they carried 559 high -rise mobile phones and 80 tablet computers. They have been arrested.
-
-They have been detained and further investigations are underway by customs officials at the Katunayake airport.
-
-◼️
-
-[Data](articles/8698863a.json)
-
-[Extended Data](ext_articles/8698863a.ext.json)
-
----
-
-### Sri Lanka is the first place to visit in October
-
-*2025-09-24 12:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபரில்-பார்வையிட-வேண்டிய-முதல்-இடம்-இலங்கை/175-365202) · `ta`
-
-Time Out, the Global Travel Magazine, has been ranked first to visit in October 2025, which released the annual list of the best travel places for that month.
-
-Time Out Sri Lanka has been applauded for its tropical climate, cultural heritage and natural beauty and said that these things will be set as a suitable place for passengers in October.. From the golden beaches and the hill country, it was highlighted that Sri Lankan tourists, from ancient buildings and wildlife safers.
-
-Turkey and New Mexico are followed by Sri Lanka's recognized list for autumn colors and seasonal festivals. These include Valencia, New York City, Philippines, Bhutan, Bhosnia and Herzakovina in Spain, Timisora, San Francisco and Namibia in Romania.
-
-According to Time Out, these places are selected for their seasonal charm, cultural events and unique travel experiences that can be enjoyed in October.
-
-◼️
-
-[Data](articles/3c2b7ba3.json)
-
-[Extended Data](ext_articles/3c2b7ba3.ext.json)
-
----
-
-### Migrant warranty program. 6 crores in water
-
-*2025-09-24 12:46:47* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-හරසර-වැඩසටහනට-වැය-කළ-රු--කෝටි-6ක්-වතුරේ/11-418693) · `si`
-
-The National Audit report is issued by the National Audit report that a ceremony has been organized for the assessment of migrant workers.
-
-The Audit report states that a sum of Rs.
-
-222 buses have been spent on 22 buses (8,041,476) for the relevant migrant workers for the festivals (8,041,476). The audit has revealed that additional costs have been increased more than the benefits of workers.
-
-This information is included in the Audit Report which is issued to the performance report issued by the Ministry of External Affairs Ministry of External Affairs Ministry.
-
-◼️
-
-[Data](articles/bde27055.json)
-
-[Extended Data](ext_articles/bde27055.ext.json)
 
 ---

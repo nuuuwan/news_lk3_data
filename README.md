@@ -1,118 +1,68 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 12:24:18**
+As of **2025-09-24 11:57:44**
 
 ## Newspaper Stats
 
-*Scraped **77,846** Articles*
+*Scraped **77,842** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 634
+dbsjeyarajcom | 633
 bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,564
+adalk | 7,563
 adaderanalk | 10,090
 tamilmirrorlk | 11,732
 virakesarilk | 12,662
-adaderanasinhalalk | 13,601
+adaderanasinhalalk | 13,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,843 (100.0%) of 77,846 articles have been extended.
+77,840 (100.0%) of 77,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### අයිස් මත්ද්‍රව්‍ය බෙදූ කොළඹ මහ නගර සභාවේ කා.කා.ස අත්අඩංගුවට
-
-*2025-09-24 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214951) · `si`
-
-කොළඹ මහ නගර සභාවේ සේවකයින්ට අයිස් සහ හෙරොයින් මත්ද්‍රව්‍ය අලෙවි කළ එහි කාර්යාල කාර්ය සහයකයෙකු වලාන දූෂණ මර්ධන ප්‍රහාරක ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරු සිය කාර්යාල කාමරය තුළ දීර්ඝ කාලයක් තිස්සේ සූක්ෂම ලෙස අයිස් සහ හෙරොයින් මත්ද්‍රව්‍ය පැකට් කර නගර සභා සේවකයින්ට අලෙවි කර ඇති බව පොලීසිය පැවසීය.
-
-කැම්බල් පිටිය ආසන්නයේ පිහිටි කොළඹ මහා නගර සභාවට අයත් ගොඩනැගිල්ලේ අදාළ සේවකයාගේ කාර්යාලය පිහිටා ඇති අතර ඔහු එහි රිය සහයකයෙකු වශයෙන් කටයුතු කර ඇත.
-
-වලාන දූෂණ මර්ධන ප්‍රහාරක ඒකකයට පසුගිය 22 වනදා ලද තොරතුරක් මත වැටලීමක් සිදු කර ඇති අතර එහිදී සැකකරු සන්තකයේ තිබී හෙරොයින් මිලිග්‍රෑම් විසි දහසකට අධික ප්‍රමාණයක් සොයාගත් බව සඳහන්ය.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 38 හැවිරිදි පුද්ගලයෙක් වන අතර සැකකරු බොරැල්ල පොලීසිය වෙත භාරදී ඇත.
-
-සැකකරු අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව රැඳවුම් නියෝග ලබාගෙන වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/96780396.json)
-
----
-
-### 1,000 political meetings from Ranil?
-
-*2025-09-24 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214950) · `si`
-
-Political sources say that former President Ranil Wickremesinghe has a plan to be abroad on health care.
-
-Accordingly, the former presents to go to a country like France, England, or India.
-
-The former President was invited by the opposition political parties recently acquired opposition responsibility in the face of the political situation.
-
-Accordingly, the former president has focused on the matter and the former President has expressed his views regarding the program to conduct a thousand political meetings.
-
-However, it is reported that Ranil Wickremesinghe has a plan to lead the health condition and in the future.
-
-The specific winnum has not been used in this regard and the former President Ranil Wickremesinghe will take overseas this year, political sources said.
-
-◼️
-
-[Data](articles/783ea5bd.json)
-
-[Extended Data](ext_articles/783ea5bd.ext.json)
-
----
-
-### Missing those who asked the question
+### கேள்வி கேட்டவர்களைக் காணவில்லை
 
 *2025-09-24 11:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேள்வி-கேட்டவர்களைக்-காணவில்லை/175-365198) · `ta`
 
-Almost all MPs who submitted verbal questions to be raised in Parliament today raised serious concerns.
+இன்று பாராளுமன்றத்தில் எழுப்பப்படவிருந்த வாய்மொழி கேள்விகளைச் சமர்ப்பித்த கிட்டத்தட்ட அனைத்து எம்.பி.க்களும் அவைக்கு வராமல் இருந்தது கடுமையான கவலைகளை எழுப்பியது.
 
 ◼️
 
 [Data](articles/a913e6f6.json)
 
-[Extended Data](ext_articles/a913e6f6.ext.json)
-
 ---
 
-### Mervyn's case dates back to the exam
+### මර්වින්ගේ නඩුවක් විභාගයට දින දෙයි
 
 *2025-09-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214949) · `si`
 
-As a Minister, the Bribery Commission has set the case against former Minister Mervyn Silva against former Minister Mervyn Silva against former Minister Mervyn Silva against the bribery Commission.
+අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් වත්කම් හා දේපොළ අයථා ලෙස උපයා ගත් බවට චෝදනා කරමින්  හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව විභාගයට ගැනීම සඳහා කොළඹ මහාධිකරණය දින නියම කළේය.
 
-Accordingly, the examination will be taken on November 17, Colombo High Court Judge Mohahadi has ordered.
+ඒ අනුව අදාළ නඩුවේ විභාගය නොවැම්බර් මස 17 වනදා ආරම්භ කරන බව කොළඹ මහාධිකරණ විනිසුරු මොහොමඩ් මිහාල් මහතා නියෝග කර ඇත.
 
-The Bribery Commission gave the acquaintance when the case was taken up today (24).
+මෙම නඩුව අද (24) කැඳවූ අවස්ථාවේදී අල්ලස් කොමිසම විසින් මෙම නඩුවට අදාළ ලේඛන කිහිපයක් විත්තියට ලබා දුන්නේය
 
-Accordingly, the Bribery Commission requested the court to appoint a date to hear the case.
+ඒ අනුව මෙම නඩුව විභාග කිරීම සඳහා දිනයක් නියම කරන ලෙසත් අල්ලස් කොමිසම අධිකරණයෙන් ඉල්ලා සිටියේය.
 
-The judge accepted the request made the case to be heard on November 17.
+එම ඉල්ලීම පිළිගත් විනිසුරුවරයා නඩුව නොවැම්බර් මස 17 වනදා විභාගයට ගැනීමට තීරණයම කළේය.
 
-The case has been filed against former Minister Mervyn Silva accused the former Minister Mervyn Silva by accusing the anti-corruption proven to an anti-corruption proceeds in 2010 to 2012.
+2010 වසරේ සිට 2012 වසර දක්වා කාලසීමාව තුළ අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් සිය නීත්‍යානුකූල ආදායම අභිබවා රුපියල් මිලියන 150කට ආසන්න වටිනාකමකින් යුත් වත්කම් සහ දේපොළ අයථා ලෙස අත්පත් කර ගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා කරමින් අල්ලස් කොමිසම විසින් හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබේ.
 
 ◼️
 
 [Data](articles/7dbb5863.json)
-
-[Extended Data](ext_articles/7dbb5863.ext.json)
 
 ---
 
@@ -627,22 +577,6 @@ Meanwhile, former parliamentarian Aktipsatti Arachchi said, addressing a meeting
 [Data](articles/ac7837ff.json)
 
 [Extended Data](ext_articles/ac7837ff.ext.json)
-
----
-
-### පොලී අනුපාත වෙනස් නොවෙයි
-
-*2025-09-24 09:19:17* · [`adalk`](https://www.ada.lk/business/පොලී-අනුපාත-වෙනස්-නොවෙයි/7-418689) · `si`
-
-ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය ඊයේ (23) දින පැවති රැස්වීමේ දී මුදල් ප්‍රතිපත්ති ස්ථාවරය නොවනස්ව තවදුරටත් පවත්වා ගැනීමට තීරණය ක තිබේ. .
-
-ඒ අනුව එක්දින ප්‍රතිපත්ති අනුපාතය (OPR) වත්මන් මට්ටමේ එනම් 7.75% හි පවත්වා ගැනීමට මෙහිදී තීරණය කර තිබේ. දේශීය හා ගෝලීය වර්ධනයන් හොඳින් සලකා බැලීමෙන් පසුව මණ්ඩලය මෙම තීරණයට එළඹුණ බව මහ බැංකුව නිවේදනය කරයි.
-
-වත්මන් මුදල් ප්‍රතිපත්ති ස්ථාවරය උද්ධමනය 5% ක ඉලක්කයක් කරා මෙහෙයවීමට සහාය වනු ඇතැයි මණ්ඩලයේ අදහසයි.
-
-◼️
-
-[Data](articles/aa8639f7.json)
 
 ---
 
@@ -1516,26 +1450,6 @@ This article serves as Part II of the series originally published in the Daily F
 
 ---
 
-### 
-
-*2025-09-24 02:39:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86449) · `en`
-
-President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.
-
-Anura Kumara Dissanayake known popularly as  Anura and “AKD” , won the Presidential election of 21 September 2024 in  what was described as a gigantic leap. From 418,553 (3.16%) votes in the 2019 Presidential election, AKD increased his vote tally   to 5,634,915 (42.31%) in the 2024 Presidential poll. In the second count of votes with  Sajith Premadasa, AKD obtained  5,740,179 (55.89%) votes
-
-Dissanayake was sworn in as Sri Lanka’s ninth executive president on 23 September 2024 in a simple ceremony at the Presidential secretariat in Colombo.
-
-Speaking at his swearing in event, Anura Kumara Dissanayake stated as follows –  .
-
-“Democracy helped me win. Some voted for me, and others didn’t. But my pledge is to work hard to win the trust of those who didn’t vote for me as well. This is an important part of my Presidency.”
-
-...
-
-[Data](articles/0ba83891.json)
-
----
-
 ### EU agrees to $ 9.4 m grant to push sustainable development
 
 *2025-09-24 02:23:25* · [`dailyftlk`](https://www.ft.lk/business/EU-agrees-to-9-4-m-grant-to-push-sustainable-development/34-782092) · `en`
@@ -2059,5 +1973,91 @@ Taken as a whole, the 56-minute speech was a rebuke to the world body and a retu
 [Data](articles/8914dda1.json)
 
 [Extended Data](ext_articles/8914dda1.ext.json)
+
+---
+
+### Drugs found in Tangalle revealed
+
+*2025-09-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214927) · `si`
+
+It is reported that the drug has been found in the lorry in the lorry, which was found in the lorry, which was found in the lorry, which was found in the lorry in the Tangalle, Seennla, Sungala area and the watermelon sheleled in the Tangalle.
+
+The stock of drugs is piling the Kudawella Mawathakee.
+
+The three killed who were later killed were present and they had been drinking alcohol.
+
+The cost has been taken to a coastal house, police said.
+
+The police said that they had been transporting drugs from the Mawawale beach to Senmodara to Senmodara.
+
+The 49-year-old man was hospitalized by the two sons of his sons to take their father's small lorry.
+
+They have told the police that a group of people attempted to drink alcohol.
+
+They had revealed this after their arrests by the police today.
+
+According to a special operation of two people in a house in the Tangalle Seennakola area, 705 kilograms was discovered yesterday.
+
+The police were able to find 68 kilograms of ice and 970 grams and Rs.
+
+...
+
+[Data](articles/1ce4d595.json)
+
+[Extended Data](ext_articles/1ce4d595.ext.json)
+
+---
+
+### President arrives in the US
+
+*2025-09-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214928) · `si`
+
+President Anura Kumara Dissanayake, who left the 80th session of the United Nations General Assembly, John Fonseka, USA, USA. Kennedy has reached the International Airport.
+
+John F.. President Anura Kumara Dissanayake was warmly welcomed by President Anura Kumara Dissanayake, the President's Chief Justice President of Sri Lanka's Permanent Representatives from the United Nations.
+
+Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the tour of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/24197bd0.json)
+
+[Extended Data](ext_articles/24197bd0.ext.json)
+
+---
+
+### Explanation for Sampath Manambery
+
+*2025-09-23 21:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-விளக்கமறியல்/175-365151) · `ta`
+
+The court today ordered that Sampath Manamperi, who was investigated by the Police Drug Prevention Division, be interrogated.
+
+Accordingly, Sampath Manamberi has been kept in detention until the 26th of this month.
+
+It is noteworthy that he has been interrogated in connection with the incident where two containers of chemicals suspected to have been used to produce an Ice drug in Mitteniya.
+
+In addition, the Valasmulla Magistrate has ordered him to be remanded till October 1 in connection with the incident of arms being found on the land involved.. Remble
+
+◼️
+
+[Data](articles/4522c791.json)
+
+[Extended Data](ext_articles/4522c791.ext.json)
+
+---
+
+### Electricity Services Essential Services Gazette; Resolution to submit to Parliament tomorrow
+
+*2025-09-23 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225900) · `ta`
+
+It was decided on Tuesday (23) under the patronage of Hon.
+
+The Gazette Notification No. 2454/68 issued by the President on 21.09.2012 under the Essential Public Services Act No. 61 of 1979 will be presented to Parliament without debate.
+
+◼️
+
+[Data](articles/9611bac4.json)
+
+[Extended Data](ext_articles/9611bac4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 10:09:09**
+As of **2025-09-24 10:20:39**
 
 ## Newspaper Stats
 
-*Scraped **77,816** Articles*
+*Scraped **77,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
 adalk | 7,560
-adaderanalk | 10,088
-tamilmirrorlk | 11,720
-virakesarilk | 12,661
-adaderanasinhalalk | 13,592
+adaderanalk | 10,090
+tamilmirrorlk | 11,721
+virakesarilk | 12,662
+adaderanasinhalalk | 13,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,813 (100.0%) of 77,816 articles have been extended.
+77,813 (100.0%) of 77,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### අත්තනගලු ඔයට පැන තරුණියක් සියදිවි නසා ගෙන
+
+*2025-09-24 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214944) · `si`
+
+ගම්පහ - මිනුවන්ගොඩ මාර්ගයේ අස්ගිරිය ප්‍රදේශයෙන් අත්තනගලු ඔයට පැන තරුණියක් සියදිවි හානි කරගෙන තිබේ.
+
+පොලීසිය පැවසුවේ අත්තනගලු ඔයේ පාලමෙන් පැන අදාළ තරුණිය සියදිවි හානි කරගෙන ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇති බවය.
+
+සියදිවි නසා ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+
+අතුරුදන් වු කාන්තාවගේ මළසිරුර සෙවීමේ මෙහෙයුම් පොලීසිය, නාවික හමුදාව සහ ප්‍රදේශවාසීන් එක්ව තවදුරටත් සිදුකරන බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/6a9aca0f.json)
+
+---
+
+### The future of Tamil nationalist politics: Provincial Council election and 13th Amendment to the Constitution!
+
+*2025-09-24 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225919) · `ta`
+
+Finally, the future of Tamil nationalist politics, the 13th Amendment and the Provincial Council election, and the ability to make a consensus among themselves.. If there is no unity and visionary program, Tamil nationalist politics is likely to fall further.
+
+◼️
+
+[Data](articles/dce2d5a7.json)
+
+[Extended Data](ext_articles/dce2d5a7.ext.json)
+
+---
+
+### இந்திய வெளிவிவகார அமைச்சர்  ஜெய்சங்கரை சந்தித்தார் வெளிவிவகார அமைச்சர் விஜித ஹேரத்
+
+*2025-09-24 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225922) · `ta`
+
+இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான வலுவான நட்புறவையும் நெருக்கமான ஒத்துழைப்பையும் மீண்டும் உறுதிப்படுத்தும் நோக்கில்,  அமெரிக்காவின் நியூயோர்க்கில் நடைபெறும் ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில்  (UNGA), இலங்கையின் வெளிவிவகார அமைச்சர் விஜித ஹேரத், இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கருடன் இருதரப்பு கலந்துரையாடல்களை நடத்தியுள்ளார்.
+
+இந்த சந்திப்புக் குறித்து எக்ஸ் தளத்தில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் குறிப்பிட்டுள்ளதாவது,
+
+“அமெரிக்காவில் ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில், இந்திய வெளிவிவகார அமைச்சரைச் சந்தித்தேன், இதன்போது, இலங்கைக்கும் இந்தியாவிற்கும் இடையிலான வலுவான நட்பு மற்றும் நெருக்கமான ஒத்துழைப்பை மீண்டும் உறுதிப்படுத்தினார் ” எனத் தெரிவித்துள்ளார்.
+
+இலங்கை வெளிவிகார அமைச்சரைச் சந்தித்து இருதரப்பு ஒத்துழைப்பின் முன்னேற்றத்தை மதிப்பாய்வு செய்தது மகிழ்ச்சி அளிக்கிறது என குறிப்பிட்டுள்ளார்.
+
+ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில் கலந்து கொள்வதற்காக நியூயோர்க்கில் உள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் அமைச்சர் விஜித ஹேரத்தும் சென்றுள்ளார்.
+
+...
+
+[Data](articles/11b2e548.json)
+
+---
+
+### පිලිපීන හිටපු ජනපතිට මනුෂ්‍යත්වයට එරෙහි අපරාධ කළායැයි චෝදනා
+
+*2025-09-24 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214943) · `si`
+
+පිලිපීනයේ හිටපු ජනාධිපති රොඩ්‍රිගෝ ඩුටෙර්ටේට එරෙහිව මනුෂ්‍යත්වයට එරෙහි අපරාධ කළායැයි චෝදනා එල්ල වී තිබේ.
+
+ඒ ඔහුට එරෙහිව අන්තර්ජාතික අපරාධ අධිකරණය හමුවේ පැවැත්වෙන නඩු විභාගයට අදාළවය.
+
+පිලිපීනයේ හිටපු ජනාධිපති රොඩ්‍රිගෝ ඩුටෙර්ටේ සැලකෙන්නේ එරට සිටි දැඩි පාලකයෙක් ලෙසයි.
+
+පිලිපීනය වෙළාගත් මත්ද්‍රව්‍ය උවදුර මැඩලීමට මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ට එරෙහි දැඩි පිළිවෙතක් අනුගමනය කළ ඔහු, ධුර දැරූ 2016 - 2022 කාලය තුළ මත්ද්‍රව්‍ය ජාවාරකරුවන් රැසක් මියගිය බව වාර්තා වෙයි.
+
+පසුගිය මාර්තු මාසයේදී ඩුටෙර්ටේ අත්අඩංගුවට ගෙන අන්තර්ජාතික අපරාධ අධිකරණයට ඉදිරිපත් කෙරුණේ බරපතළ ගණයේ අපරාධ සිදුකළ බවට චෝදනා කරමින්ය.
+
+ඩුටෙර්ටේ සම්බන්ධ අපරාධ චෝදනා පත්‍රය මේ වනවිට ප්‍රසිද්ධියට පත් කර තිබේ.
+
+ඔහු 2013 - 2016 අතර කාලය තුළ ඔහු පිලිපීනයේ ඩාවෝ නගරයේ නගරාධිපතිවරයාව සිටි කාලය තුළ ඔහුගේ නියෝගය මත සිදුවු බවට සඳහන් ඝාතන මෙන්ම, ජනාධිපති ධුරකාලය තුළ සිදුවූ ඝාතන සම්බන්ධ චෝදනා එහි ඇතුළත්ය.
+
+මේ අනුව ඩුටෙර්ටේ මනුෂ්‍යත්වයට එරෙහි අපරාධ සිදුකර ඇති බවට චෝදනා ගොනුවී ඇත.
+
+...
+
+[Data](articles/ff633210.json)
+
+---
+
+### இஸ்ரேலுக்கும் – இலங்கைக்கும் இடையில் புதிய விமான சேவை
+
+*2025-09-24 09:57:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலுக்கும்-இலங்கைக்கும்-இடையில்-புதிய-விமான-சேவை/175-365182) · `ta`
+
+இஸ்ரேலின் எரிக்கா ஏர்லைன்ஸ் விமான சேவைக்கு சொந்தமான புதிய விமானம் ஒன்று கட்டுநாயக்க விமான நிலையத்துக்கு வருகைத் தர உள்ளதாக இஸ்ரேலுக்கான இலங்கை தூதுவர் நிமல் பண்டார குறிப்பிட்டுள்ளார்.
+
+இஸ்ரேலிருந்து கட்டுநாயக்க வரை ஆரம்பிக்கப்பட உள்ள புதிய விமான சேவை தொடர்பில் செவ்வாய்க்கிழமை (23) தனது உத்தியோகபூர்வ முகபுத்தக தளத்தில் பதிவொன்றையிட்டு இவ்விடயம் தொடர்பில் தெரியப்படுத்தியுள்ளார்.
+
+இஸ்ரேலின் எரிக்கா ஏர்லைன்ஸ் விமான சேவைக்கு சொந்தமான (IZ) – 639 என்ற விமானம் இன்று முதல் செவ்வாய்க்கிழமை தோறும் பிற்பகல் 6.30 மணிக்கு டெல் அவிவ் விமான நிலையத்திலிருந்து கொழும்பு கட்டுநாயக்க விமான நிலையத்தை நோக்கி பயணிக்க உள்ளது.
+
+அதற்கமைய இன்று பயணமான விமானம் புதன்கிழமை காலை 6.15 மணியளவில் நாட்டை வந்தடைய உள்ளது. R
+
+◼️
+
+[Data](articles/affed6fc.json)
+
+---
 
 ### ஹல்தும்முல்லயில் நிலநடுக்கம்
 
@@ -67,6 +163,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/9952e4dd.json)
+
+---
+
+### Sagara Kariyawasam issues stern warning to ex-MP Thisakutti Arachchi
+
+*2025-09-24 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112850/sagara-kariyawasam-issues-stern-warning-to-ex-mp-thisakutti-arachchi) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) General Secretary and Attorney-at-Law Sagara Kariyawasam has issued a stern warning to former Parliamentarian Thisakutti Arachchi, urging him to refrain from making irresponsible statements at public meetings.
+
+The warning is reported to have been conveyed over the phone.
+
+Thisakutti Arachchi’s recent controversial remarks have raised concerns within the party, prompting the SLPP leadership to issue a strong reprimand.
+
+He has also reportedly been summoned to the party office tomorrow (25).
+
+The remarks in question were made during a meeting held recently in Anuradhapura, where Thisakutti Arachchi stated:
+
+...
+
+[Data](articles/863ec581.json)
 
 ---
 
@@ -134,17 +250,21 @@ Meanwhile, former parliamentarian Aktipsatti Arachchi said, addressing a meeting
 
 ---
 
-### The future of Tamil nationalist politics: Provincial Council election and 13th Amendment to the Constitution!
+### FM Vijitha Herath meets Jaishankar to reaffirm strong Sri Lanka-India ties
 
-*2025-09-24 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225919) · `ta`
+*2025-09-24 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112849/fm-vijitha-herath-meets-jaishankar-to-reaffirm-strong-sri-lanka-india-ties) · `en`
 
-Finally, the future of Tamil nationalist politics, the 13th Amendment and the Provincial Council election, and the ability to make a consensus among themselves.. If there is no unity and visionary program, Tamil nationalist politics is likely to fall further.
+Sri Lanka’s Minister of Foreign Affairs, Vijitha Herath, held bilateral discussions with India’s External Affairs Minister, S. Jaishankar, on the sidelines of the United Nations General Assembly (UNGA) in the United States, aimed at reaffirming the strong friendship and close cooperation between Sri Lanka and India.
 
-◼️
+In a post on X (formerly Twitter), Minister Herath stated: “On the sidelines of UNGA in the USA, met with India’s External Affairs Minister, to reaffirm the strong friendship and close cooperation between Sri Lanka and India.”
 
-[Data](articles/dce2d5a7.json)
+India’s External Affairs Minister, S. Jaishankar, also commented on the meeting via X, saying it was a pleasure to meet the Sri Lankan Foreign Minister and review the progress of bilateral cooperation.
 
-[Extended Data](ext_articles/dce2d5a7.ext.json)
+Minister Herath is accompanying President Anura Kumara Dissanayake, who is in New York to attend the UNGA. The President is scheduled to deliver his address to the General Assembly today (24) at 3:15 p.m. US time.
+
+...
+
+[Data](articles/ab4df014.json)
 
 ---
 
@@ -1895,141 +2015,5 @@ Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructe
 [Data](articles/b41fd6e6.json)
 
 [Extended Data](ext_articles/b41fd6e6.ext.json)
-
----
-
-### Minister of Justice going to Geneva tomorrow
-
-*2025-09-23 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214922) · `si`
-
-Minister of Justice and National Integration, Attorney Harshana Nanayakkara will leave for Geneva, Switzerland on the 24th.
-
-The committee of the forced disappearances is to participate in the first periodic review of Sri Lanka.
-
-The Ministry of Justice and the National Integration of the Ministry of Justice and National Integration, the Ministry of Justice and National Integration, the Ministry of Justice and National Integration, the Ministry of Justice and National Integration is due to participate in the Ministry of Foreign Agency and the Permanent Representative Office of Sri Lanka.
-
-Sri Lanka consistes protecting all persons from 2016 to compelled
-
-◼️
-
-[Data](articles/2f5691b8.json)
-
-[Extended Data](ext_articles/2f5691b8.ext.json)
-
----
-
-### Sri Lank prepares national renewable hydrogen policy
-
-*2025-09-23 18:34:00* · [`economynextcom`](https://economynext.com/sri-lank-prepares-national-renewable-hydrogen-policy-241612/) · `en`
-
-ECONOMYNEXT – Sri Lanka has prepared a national renewable hydrogen policy, to make the Indian Ocean island a regional hub, and also launched a just energy transformation (JET) study, with support from the United Nations Development Agency (UNDP).
-
-“With its vast renewable energy resources, Sri Lanka is well placed to leverage hydrogen technologies for decarbonising power generation, industry and transport, while enhancing energy security and attracting international investment,” the UNDP said in a statement.
-
-The Ministry of Energy, the Sri Lanka Sustainable Energy Authority and UNDP in Sri Lanka hosted the Renewable Hydrogen Stakeholder Consultation Workshop ‘From Strategy to Actions’ recently.
-
-The forum brought together policymakers, private sector, financiers, academia and international experts to discuss the country’s path to a green hydrogen economy.
-
-...
-
-[Data](articles/44a21611.json)
-
-[Extended Data](ext_articles/44a21611.ext.json)
-
----
-
-### Specific Oversight Committee granted to the Sectoral Oversight Committee to the Penal Code (Amendment) Bill
-
-*2025-09-23 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214921) · `si`
-
-The Second of the 19th Authority Code (Amendment) Bill has been approved by the Committee of State Governance, Justice and Civil Protection (Amendment) Bill.
-
-That was when the committee met in parliament today.
-
-The Committee Chairman Dr. Nagith Indika said that the bill has been introduced to end the punishment and legal convictions that will damage the students targeting students and students.
-
-Sri Lanka has long been there for a long time to stop the physical punishment for children in different locations including child detention centers and schools.. It was also discussed that legal provisions should be brought to change the situation.
-
-As a result, the need to arranged a law on this issue has been continuously emphasized by various parties, including various political parties and various international organizations, and the officials representing the Ministry of National Integration and the Ministics pointed out that the Television Code is revised.
-
-...
-
-[Data](articles/4e4d264f.json)
-
-[Extended Data](ext_articles/4e4d264f.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields hold steady
-
-*2025-09-23 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-hold-steady-241660/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 302.45/60 to the US dollar on Wednesday, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.28/33 percent, down from 8.30/35 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2029 closed at 9.48/54 percent, from 9.47/57 percent.
-
-A bond maturing on 15.12.2032 closed at 10.42/48 percent, up from 10.38/44 percent.
-
-The central bank will announce its fifth monetary policy decision of the year tomorrow (24) at 7.30 am.
-
-Governor Nandalal Weerasinghe will hold a press conference at 11.30 am, which will be livestreamed on all major social media platforms.
-
-Rs. 38,000 million Treasury bills are to be issued through an auction on Wednesday, the central bank said.
-
-◼️
-
-[Data](articles/8b2e0990.json)
-
-[Extended Data](ext_articles/8b2e0990.ext.json)
-
----
-
-### ARKIA Airlines in Tel AV to Katunayake
-
-*2025-09-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214920) · `si`
-
-Israel's Arkia Airlines is destined to travel from Teluww Airport from 18.30 pm from Telwa's airport every week from 18.30 am today.
-
-Sri Lanka's Ambassador, Sri Lanka Nimal Bandara has made this statement in a note of his Facebook account.
-
-The airline is due to arrive at the Katunayake Airport Colombo at 06:15 am tomorrow.
-
-This plane takes 9.15 hours to reach Seychelles due to the banning of Oman and Maldivian aircraft for Israelian aircraft.
-
-The IZ 640 will leave Colombo at 22.30 pm tomorrow at Tel Aviv on 05 am.
-
-Sri Lanka Ambassador, Sri Lanka's Ambassador Nimal Bandara stated that the aircraft will be operating aimed at Israeli tourists.
-
-◼️
-
-[Data](articles/121ca896.json)
-
-[Extended Data](ext_articles/121ca896.ext.json)
-
----
-
-### Permission to record a statement from Ruwan from Midigama
-
-*2025-09-23 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214919) · `si`
-
-The Colombo Magistrate's Court today (JVPA magistrates) issued permission to the Narcard Bureau today (Midav).
-
-The order was issued by the Chief Magistrate Asanka S Bodaragama after considering a request made by the Police Narcotics Bureau.
-
-The suspect had requested the suspect and further consolidate the revelations on the drug network in the country.
-
-Accordingly, the police requested the court to issue an order to obtain a statement from the suspect.
-
-The suspect was accepted on the 13th of October on October 13.
-
-◼️
-
-[Data](articles/20f0c72e.json)
-
-[Extended Data](ext_articles/20f0c72e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 10:38:19**
+As of **2025-09-24 10:20:39**
 
 ## Newspaper Stats
 
-*Scraped **77,826** Articles*
+*Scraped **77,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,781
 dailyftlk | 5,525
 adalk | 7,560
 adaderanalk | 10,090
-tamilmirrorlk | 11,725
+tamilmirrorlk | 11,721
 virakesarilk | 12,662
 adaderanasinhalalk | 13,594
 
@@ -26,59 +26,11 @@ adaderanasinhalalk | 13,594
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,813 (100.0%) of 77,826 articles have been extended.
+77,813 (100.0%) of 77,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
-
-### இந்திய கடற்படைத் தளபதி, பிரதமரைச் சந்தித்தார்
-
-*2025-09-24 10:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பிரதமரைச்-சந்தித்தார்/175-365186) · `ta`
-
-நான்கு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு 2025 செப்டம்பர் மாதம் 21ஆம் திகதி இலங்கைக்கு வருகை தந்த இந்திய கடற்படைத் தளபதி, Admiral Dinesh K Tripathi,  பாராளுமன்ற வளாகத்தில் பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை செவ்வாய்க்கிழமை (23) சந்தித்தார்.
-
-இந்திய கடற்படைத் தளபதி மற்றும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய ஆகியோருக்கு இடையில் இடம்பெற்ற இந்த உத்தியோகபூர்வ சந்திப்பில், இரு நாடுகளுக்கும் இடையிலான பாதுகாப்பு ஒத்துழைப்பை மேம்படுத்துதல் மற்றும் நீண்டகால நட்புறவை வலுப்படுத்துதல் உள்ளிட்ட இரு தரப்பினருக்கும் முக்கியமான பல விடயங்கள் குறித்து கலந்துரையாடப்பட்டது.
-
-அத்துடன், கடல்சார் பாதுகாப்பு மற்றும் பிராந்திய பாதுகாப்பை உறுதிப்படுத்துதல், சட்டவிரோத போதைப்பொருள் கடத்தல், சட்டவிரோத மீன்பிடி நடவடிக்கைகள் உள்ளிட்ட சவால்களுக்கு முகம் கொடுக்கும் வகையில் கூட்டு அணுகுமுறையுடன் செயற்படுவதன் முக்கியத்துவமும் பற்றி வலியுறுத்தப்பட்டது. மேலும், இந்நாட்டு கடற்படை அதிகாரிகளுக்கான பயிற்சி வாய்ப்புகளை இந்திய அரசாங்கத்தினால் வழங்குவது குறித்தும் கவனம் செலுத்தப்பட்டது.
-
-...
-
-[Data](articles/db29b3d0.json)
-
----
-
-### குட்டியாராச்சிக்கு கடும் எச்சரிக்கை
-
-*2025-09-24 10:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டியாராச்சிக்கு-கடும்-எச்சரிக்கை/175-365185) · `ta`
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியாராச்சிக்கு, ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) பொதுச் செயலாளர் சாகர காரியவசம்,  கடுமையான எச்சரிக்கை விடுத்துள்ளார். பொதுக் கூட்டங்களில் பொறுப்பற்ற மற்றும் சர்ச்சைக்குரிய அறிக்கைகளை வெளியிடுவதைத் தவிர்க்குமாறு அவர் வலியுறுத்தியுள்ளார்.
-
-குட்டியாராச்சியின் சமீபத்திய கருத்துக்கள் கட்சித் தலைவர்களிடையே குறிப்பிடத்தக்க கவலையைத் தூண்டியுள்ளதுடன், கட்சிப் படிநிலையில் இருந்து வலுவான உள் எதிர்வினைக்கு வழிவகுத்ததை அடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது
-
-◼️
-
-[Data](articles/5eb5a8a2.json)
-
----
-
-### போதைக்கு அடிமையானவர்களில் பெரும்பாலோர் O/L தேர்ச்சி பெற்றாதவர்கள்
-
-*2025-09-24 10:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைக்கு-அடிமையானவர்களில்-பெரும்பாலோர்-O-L-தேர்ச்சி-பெற்றாதவர்கள்/175-365183) · `ta`
-
-இலங்கையில் ஐஸ் போதைக்கு அடிமையானவர்கள் உட்பட பெரும்பாலான போதைக்கு அடிமையானவர்கள் சாதாரண தரத்திற்கு (சா/த) கீழே கல்வி நிலைகளைக் கொண்டுள்ளனர் என்றும், அவர்களுக்கு தீவிர மறுவாழ்வு தேவைப்படுவதாலும், வேலையில்லாமல் இருப்பதாலும் அவர்கள் இப்போது அரசுக்கு ஒரு சுமையாக மாறிவிட்டதாகவும் சமீபத்திய ஆய்வில் தெரியவந்துள்ளது.
-
-பேராதனை பல்கலைக்கழகத்தைச் சேர்ந்த பேராசிரியர் வசந்த அதுகோரல மற்றும் அவரது குழுவினரால் நடத்தப்பட்ட இந்த ஆராய்ச்சி, 2023 ஆம் ஆண்டில் சிறைத் தரவு மற்றும் போதைப்பொருள் தொடர்பான குற்றங்களின் வடிவங்களை பகுப்பாய்வு செய்தது.
-
-அவர்களின் கண்டுபிடிப்புகளின்படி, 2023 ஆம் ஆண்டில் பல்வேறு குற்றங்களுக்காக 185,056 நபர்கள் சிறையில் அடைக்கப்பட்டனர். இவர்களில், 46,939 பேர் குற்றவாளிகள், 29,192 வழக்குகள் நேரடியாக போதைப்பொருளுடன் தொடர்புடையவை.
-
-கொழும்பு, கம்பஹா, களுத்துறை மற்றும் குருநாகல் ஆகிய நான்கு முக்கிய மாவட்டங்களில் பெரும்பாலான போதைக்கு அடிமையானவர்கள் கைது செய்யப்பட்டதாக ஆய்வில் கண்டறியப்பட்டுள்ளது.
-
-...
-
-[Data](articles/2185b392.json)
-
----
 
 ### අත්තනගලු ඔයට පැන තරුණියක් සියදිවි නසා ගෙන
 
@@ -897,24 +849,6 @@ The Cabinet has approved the national policy submitted by the Minister of Rural 
 [Data](articles/3a4fbc16.json)
 
 [Extended Data](ext_articles/3a4fbc16.ext.json)
-
----
-
-### முதியோர் எண்ணிக்கை 2052இல் 24.8 சதவீதம்  அதிகரிக்கும்
-
-*2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-எண்ணிக்கை-2052இல்-24-8-சதவீதம்-அதிகரிக்கும்/175-365173) · `ta`
-
-இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் மற்றும் தேசிய கொள்கைக்காக 2006 ஆம் ஆண்டில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-மாறிவரும் போக்குகளுக்கமைய, இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் காலத்தோடு தழுவியதாக இற்றைப்படுத்தப்பட வேண்டுமென அடையாளங் காணப்பட்டுள்ளது.
-
-அத்துடன், 2052ஆம் ஆண்டில் 60 வயதுக்கு மேற்பட்ட சனத்தொகை 24.8 சதவீதம் வரை அதிகரிக்குமென ஐக்கிய நாடுகள் சபையின் பொருளாதார மற்றும் சமூக அலகால் எதிர்வு கூறப்பட்டுள்ளமையால், முதியோர்களின் நலனோம்புகை மற்றும் உரிமைகளை மேம்படுத்துதல் மற்றும் பாதுகாத்தல் அவசியமென அடையாளங் காணப்பட்டுள்ளது.
-
-அதற்கமைய, அரச தேசிய கொள்கை வேலைச் சட்டகமான 'மதிப்புமிகுந்த சிரேஷ்ட பிரஜை, அர்த்தமுள்ள இளைப்பாறிய வாழ்வு' தொனிப்பொருளுக்கமைய, முதியோருக்கு சமூக ரீதியான, பொருளாதார ரீதியான, உடலியல் மற்றும் ஆன்மீக ரீதியான திருப்திகரமான வாழ்வுக்காக வசதிகளை வழங்குவதற்கு இயலுமாகும் வகையில் 'இலங்கையின் முதியோருக்கான தேசிய கொள்கை' தயாரிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/880dbe91.json)
 
 ---
 
@@ -1999,5 +1933,87 @@ The petitioners were the petitioners, Shan Senanayake and Vidyalaja Thera, Chair
 [Data](articles/ad7ca725.json)
 
 [Extended Data](ext_articles/ad7ca725.ext.json)
+
+---
+
+### Peace Struggle for a 3 -year -old boy who died at the Colombo Child Hospital
+
+*2025-09-23 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225896) · `ta`
+
+A 3 -year -old boy who was admitted to Kidney Surgery at Colombo Children's Hospital. A peaceful protest was held on Tuesday (23) against the death of Ayna Hamdi Baslim, who lost the two kidneys due to the negligence of the doctors.
+
+The protest, which was held in front of the Pudukkadai court in Colombo, participated in the boy's relatives, children's rights organizations and many other civilians.
+
+◼️
+
+[Data](articles/af76b62b.json)
+
+[Extended Data](ext_articles/af76b62b.ext.json)
+
+---
+
+### Sri Lanka to seek legal advice on $1 bn unpaid marine disaster claim
+
+*2025-09-23 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112836/sri-lanka-to-seek-legal-advice-on-1-bn-unpaid-marine-disaster-claim) · `en`
+
+The Sri Lankan government on Tuesday said it will consult the Attorney General on the next course of action after the owning company of a vessel failed to honour a court order directing it to pay USD 1 billion in compensation for a mishap, considered to be the worst marine disaster in the Indian Ocean.
+
+Singapore-flagged container vessel MV X-Press Pearl caught fire in May 2021 off Colombo port and burned for nearly two weeks while carrying 81 containers of hazardous chemicals, including 25 tonnes of nitric acid.
+
+The incident caused widespread marine pollution, with billions of plastic nurdles and toxic substances spilling into Sri Lankan waters, killing marine life and devastating coastal communities.
+
+Dead turtles, dolphins and whales were seen washed up onto beaches for weeks following the disaster.
+
+On July 24, Sri Lanka’s Supreme Court directed the ship’s owning and operating companies to pay USD 1 billion in compensation, with an initial tranche of USD 250 million due by September 23.
+
+...
+
+[Data](articles/2bef2a2b.json)
+
+[Extended Data](ext_articles/2bef2a2b.ext.json)
+
+---
+
+### Electricity Board Trade Union Action - Minister Action
+
+*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
+
+Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
+
+Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
+
+“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
+
+Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
+
+“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
+
+...
+
+[Data](articles/ab765827.json)
+
+[Extended Data](ext_articles/ab765827.ext.json)
+
+---
+
+### CEB Trade Union Action - Minister Action
+
+*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
+
+Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
+
+Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
+
+“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
+
+Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
+
+“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
+
+...
+
+[Data](articles/b41fd6e6.json)
+
+[Extended Data](ext_articles/b41fd6e6.ext.json)
 
 ---

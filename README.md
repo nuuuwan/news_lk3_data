@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 12:38:30**
+As of **2025-09-24 13:20:14**
 
 ## Newspaper Stats
 
-*Scraped **77,849** Articles*
+*Scraped **77,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,102 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,565
-adaderanalk | 10,090
-tamilmirrorlk | 11,732
-virakesarilk | 12,662
+adaderanalk | 10,092
+tamilmirrorlk | 11,734
+virakesarilk | 12,666
 adaderanasinhalalk | 13,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,846 (100.0%) of 77,849 articles have been extended.
+77,857 (100.0%) of 77,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### ගම්මන්පිලව අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් නීතිපතිගෙන් අධිකරණයට දැනුම්දීමක්
+### Rs.62 Mill. Three arrested for kidnapping phones and tablets
+
+*2025-09-24 12:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-62-மில்-பெறுமதியான-தொலைபேசிகள்-டேப்லெட்களை-கடத்திய-மூவர்-கைது/175-365203) · `ta`
+
+A group of airport customs officials have arrested three passengers for allegedly smuggling high -ranking mobile phones and tablet computers worth Rs.
+
+The trio are residents of Colombo, two women aged 39 and 62, and the other is a 25 -year -old.
+
+They arrived at the Katunayake airport at 04.30 am on 09/24 on the Fly Dubai FZ-549 flight from Dubai.
+
+They were stopped by airport customs when they carried 559 high -rise mobile phones and 80 tablet computers. They have been arrested.
+
+They have been detained and further investigations are underway by customs officials at the Katunayake airport.
+
+◼️
+
+[Data](articles/8698863a.json)
+
+[Extended Data](ext_articles/8698863a.ext.json)
+
+---
+
+### Sri Lanka is the first place to visit in October
+
+*2025-09-24 12:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபரில்-பார்வையிட-வேண்டிய-முதல்-இடம்-இலங்கை/175-365202) · `ta`
+
+Time Out, the Global Travel Magazine, has been ranked first to visit in October 2025, which released the annual list of the best travel places for that month.
+
+Time Out Sri Lanka has been applauded for its tropical climate, cultural heritage and natural beauty and said that these things will be set as a suitable place for passengers in October.. From the golden beaches and the hill country, it was highlighted that Sri Lankan tourists, from ancient buildings and wildlife safers.
+
+Turkey and New Mexico are followed by Sri Lanka's recognized list for autumn colors and seasonal festivals. These include Valencia, New York City, Philippines, Bhutan, Bhosnia and Herzakovina in Spain, Timisora, San Francisco and Namibia in Romania.
+
+According to Time Out, these places are selected for their seasonal charm, cultural events and unique travel experiences that can be enjoyed in October.
+
+◼️
+
+[Data](articles/3c2b7ba3.json)
+
+[Extended Data](ext_articles/3c2b7ba3.ext.json)
+
+---
+
+### A report from Attorney General for arrest of Gammanpila
 
 *2025-09-24 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214953) · `si`
 
-හිටපු ඇමති උදය ගම්මන්පිල මහතා අත්අඩංගුවට ගැනීම සඳහා තීරණයක් ගනු ලැබුවොත් ඒ පිළිබඳව මෝසමක් මාර්ගයෙන් අධිකරණයට දැනුම්දෙන බව නීතිපතිවරයා අද (24) අභියාචනාධිකරණයට දැනුම් දී තිබේ.
+The Attorney General has informed the Court of Appeal today that the decision to arrest former Minister Udaya Gammanpila.
 
-තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා උදය ගම්මන්පිල මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම අද කැඳවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් සුදර්ශන ද සිල්වා මහතා මෙම දැනුම්දීම සිදුකළේය.
+Additional Savigar General Sudarsitar General Sudarsitar General Sudarsha De Silva, who appeared on behalf of the Criminal Investigation Department (CID) was made to issue an order to issue an order to issue an order.
 
 ◼️
 
 [Data](articles/4216593c.json)
 
+[Extended Data](ext_articles/4216593c.ext.json)
+
 ---
 
-### බියකරු 'රාගසා' චීනයට කඩාවදියි
+### Fear 'Ragaa' kills China
 
 *2025-09-24 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214952) · `si`
 
-වසරේ භයානකම සුළිකුණාටුව ලෙස සැලකෙන 'රාගසා' සුළිකුණාටුව චීනය දෙසට හමායමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media has reported that the terrible monasteries of the year is 'Ragarha' towards China.
 
-දැනටමත් තායිවානයට වැඩි බලපෑම් එල්ල කර ඇති 'රාගසා' සුළිකුණාටුව හේතුවෙන් එහි පුද්ගලයින් 14 දෙනෙක් මියගොස් පුද්ගලයින් 124 දෙනෙකු පමණ අතුරුදන්ව ඇති බව වාර්තා වන්නේ.
+It is reported that 14 people have been killed and 124 people have been killed and 124 people have been killed.
 
-ඉහළ යන ගංවතුරෙන් හා සුළි කුණාටුවෙන් මියගිය අයගෙන් වැඩි දෙනෙකු වයෝවෘද්ධ පුද්ගලයින් බව විදෙස් මාධ්‍ය සඳහන් කරයි.
+Most of the victims of the flooding and hurricane are elderly persons.
 
-තායිවානයේ නැගෙනහිර වෙරළ තීරයේ හුවාලියන් ප්‍රාන්තයේ ඇතැම් ප්‍රදේශවලට 700mmකට වඩා වැඩි වර්ෂාපතනයක් ලැබුණු අතර දකුණු හා නැගෙනහිර නගරවලට 500-600mmක වර්ෂාපතනයක් ලැබුණු බව විදෙස් මාධ්‍ය පවසයි.
+At some areas of the Hualian coast of Taiwan, some areas of the Huavalian area received more than 700mm rainfalls.
 
-අද (24) උදෑවන වන විට තායිවානයේ ටෝයුවාන් ජාත්‍යන්තර ගුවන්තොටුපළේ ගුවන් ගමන් 160කට වැඩි ප්‍රමාණයක් අවලංගු කර ඇති අතර, ඇතැම් ප්‍රදේශවල දුම්රිය මාර්ග ද අත්හිටුවා ඇත.
+At Taiwan International Airport today (24), over 160 flights were canceled at Taiwan International Airport and some areas railways were suspended.
 
-හොංකොං කාලගුණ බලධාරීන් අද (24) ඔවුන්ගේ ඉහළම ටයිෆූන් අනතුරු ඇඟවීම "T10"නිකුත් කළ අතර කුණාටුව චීන භූමියෙන් කිලෝමීටර් 150ක් නිරිත දෙසින් ගමන් කරන විට සිදුවිය හැකි නායයෑම් පිළිබඳව ද අනතුරු අඟවා තිබේ.‍
+The Hong Kong Weather Authorities issued their highest Typhoon alert today (24), and the storm 150 miles [150 km] from the Chinese premises.
 
-...
+The Department of Meteorology has said that the general weather is constantly disturbed by severe rain and thundershowers.
+
+◼️
 
 [Data](articles/a429ee9c.json)
+
+[Extended Data](ext_articles/a429ee9c.ext.json)
 
 ---
 
@@ -72,13 +120,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-24 12:03:35* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-මර්වින්ගේ-නඩුවකට-දින-නියම-වෙයි/11-418690) · `si`
 
-අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් වත්කම් හා දේපොළ අයථා ලෙස උපයා ගත් බවට චෝදනා කරමින්  හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව විභාගයට ගැනීම සඳහා කොළඹ මහාධිකරණය දින නියම කර තිබේ.
+The Colombo High Court has decided to hear the case filed by the Bribery Commission against former Minister Mervyn Silva accused the former Minister Mervyn Silva accused the former Minister Mervyn Silva accused the Minister of Asset and property.
 
-ඒ අනුව එම නඩු විභාගය නොවැම්බර් මස 17 වැනිදා ආරම්භ කිරීමට මෙහිදී නියෝග කර ඇත.
+Accordingly, the trial has been commenced on November 17.
 
 ◼️
 
 [Data](articles/80275516.json)
+
+[Extended Data](ext_articles/80275516.ext.json)
 
 ---
 
@@ -103,6 +153,52 @@ The suspect was produced before the Aluthkade Magistrate's Court and obtains det
 [Data](articles/96780396.json)
 
 [Extended Data](ext_articles/96780396.ext.json)
+
+---
+
+### There is no change in the policy rate - the Central Bank of Sri Lanka
+
+*2025-09-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225934) · `ta`
+
+At its meeting, which was held on Tuesday (23), the Monetary Council decided to maintain a 7.75 per cent current level.
+
+The council made the resolution after careful review of both domestic and global development.
+
+The council considers the current monetary policy position to lead the inflation towards a 5 percent target.
+
+The main inflation based on the Colombo Consumer Price Index has returned to the interview at 2025 and ended the eleven months of money laundering.
+
+◼️
+
+[Data](articles/1f86bb11.json)
+
+[Extended Data](ext_articles/1f86bb11.ext.json)
+
+---
+
+### Riots in Ecuador Prison: 14 deaths
+
+*2025-09-24 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/225931) · `ta`
+
+Prison prisoners are suddenly riots in the city of Machala, a port city of Quayaku, in the country of Ecuador.
+
+A policeman was murdered during this time. Prisoners have also been killed in this clash.
+
+A total of 14 people have been killed. 14 people were injured. This was confirmed by police chief William Kale.
+
+The prisoners fired from the inside, throwing bombs and bombshells violently. Some prisoners have escaped. 13 of them were arrested again, he said.
+
+40 minutes later, the situation was brought under control. He said the authorities brought the prison under their control.
+
+In Ecuador. Those who belong to that gang often collide with prisons. In this case, they are colliding with each other.
+
+More than 100 prisoners were killed in a clash in 2021. 500 prisoners have been killed since February 2021. There have also been incidents of horrific incidents that their bodies have been sliced ​​and burned.
+
+◼️
+
+[Data](articles/183e6a41.json)
+
+[Extended Data](ext_articles/183e6a41.ext.json)
 
 ---
 
@@ -141,6 +237,32 @@ Almost all MPs who submitted verbal questions to be raised in Parliament today r
 [Data](articles/a913e6f6.json)
 
 [Extended Data](ext_articles/a913e6f6.ext.json)
+
+---
+
+### President Dissanayake to address UN General Assembly today
+
+*2025-09-24 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112854/president-dissanayake-to-address-un-general-assembly-today) · `en`
+
+President Anura Kumara Dissanayake is scheduled to address the 80th session of the United Nations General Assembly (UNGA) today (24).
+
+According to the President’s Media Division (PMD), his address is set for 3:15 pm US time.
+
+President Dissanayake, who left Sri Lanka to attend the UNGA, arrived in the United States yesterday (23).
+
+The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time.
+
+Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
+
+During his visit, he is also expected to hold bilateral meetings with the UN Secretary-General and several world leaders.
+
+Additionally, he will meet with members of the Sri Lankan community residing in the United States.
+
+...
+
+[Data](articles/8c8baff8.json)
+
+[Extended Data](ext_articles/8c8baff8.ext.json)
 
 ---
 
@@ -186,6 +308,28 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Her
 
 ---
 
+### President Anura Kumara meets UN Human Rights Chief
+
+*2025-09-24 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112853/president-anura-kumara-meets-un-human-rights-chief-) · `en`
+
+President Anura Kumara Dissanayake has met with the United Nations High Commissioner for Human Rights Volker Türk and reaffirmed Sri Lanka’s engagement on human rights.
+
+“Met with High Commissioner for Human Rights yesterday afternoon (23), US time, at the Human Rights Council Chamber, UN Secretariat. Reaffirmed Sri Lanka’s engagement on human rights,” he said in a post on X (formerly Twitter).
+
+President Dissanayake, who arrived in the United States yesterday (23), is scheduled to address the 80th session of the United Nations General Assembly (UNGA) at 3:15 pm US time today (24).
+
+The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time yesterday.
+
+Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
+
+...
+
+[Data](articles/12c340ab.json)
+
+[Extended Data](ext_articles/12c340ab.ext.json)
+
+---
+
 ### President and United Nations High Commissioner to Meet
 
 *2025-09-24 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214948) · `si`
@@ -207,6 +351,30 @@ The President said the President was due to address the United Nations General A
 [Data](articles/d396a25a.json)
 
 [Extended Data](ext_articles/d396a25a.ext.json)
+
+---
+
+### Hurricane Hurricane in Taiwan 124 people magic
+
+*2025-09-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
+
+Hurricane Hallian, a popular tourist center, Taiwan's popular tourist destination, killed 14 people.
+
+The fire department said on Wednesday that 124 people were missing when the city was flooded with water in the hills and flooded the city due to heavy rains during the hurricane.
+
+The cyclone, which has hit Taiwan since Monday, has now attacked China's southern coast and Hong Kong, the Asian financial center.
+
+The barrier caused by heavy rains in the east has been flooded in the city of Guangfu on Tuesday afternoon.
+
+Fire officials said that all the deceased and the disappeared were in Guangfu, where a large road bridge across a river was flooded.
+
+Wang Se-Ann said that the entire village of Dama, where about 1,000 people live in Townshouse, are flooded and many are still trapped.
+
+◼️
+
+[Data](articles/99cefd04.json)
+
+[Extended Data](ext_articles/99cefd04.ext.json)
 
 ---
 
@@ -283,6 +451,20 @@ US President Donald Trump's Republican Party, Alexander Dangan, has posted, "Why
 [Data](articles/38d52ca9.json)
 
 [Extended Data](ext_articles/38d52ca9.ext.json)
+
+---
+
+### Meeting between Tamil Nadu Party Members of Parliament and Indian High Commission
+
+*2025-09-24 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/225924) · `ta`
+
+The meeting was held at the Indian High Commission in Colombo on Tuesday (23) between the Sri Lankan Tamil state parliamentarians and the Indian High Commissioner to Sri Lanka Santosh Ja.
+
+◼️
+
+[Data](articles/c2831a24.json)
+
+[Extended Data](ext_articles/c2831a24.ext.json)
 
 ---
 
@@ -1570,28 +1752,6 @@ This article serves as Part II of the series originally published in the Daily F
 
 ---
 
-### 
-
-*2025-09-24 02:39:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86449) · `en`
-
-President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.
-
-Anura Kumara Dissanayake known popularly as  Anura and “AKD” , won the Presidential election of 21 September 2024 in  what was described as a gigantic leap. From 418,553 (3.16%) votes in the 2019 Presidential election, AKD increased his vote tally   to 5,634,915 (42.31%) in the 2024 Presidential poll. In the second count of votes with  Sajith Premadasa, AKD obtained  5,740,179 (55.89%) votes
-
-Dissanayake was sworn in as Sri Lanka’s ninth executive president on 23 September 2024 in a simple ceremony at the Presidential secretariat in Colombo.
-
-Speaking at his swearing in event, Anura Kumara Dissanayake stated as follows –  .
-
-“Democracy helped me win. Some voted for me, and others didn’t. But my pledge is to work hard to win the trust of those who didn’t vote for me as well. This is an important part of my Presidency.”
-
-...
-
-[Data](articles/0ba83891.json)
-
-[Extended Data](ext_articles/0ba83891.ext.json)
-
----
-
 ### EU agrees to $ 9.4 m grant to push sustainable development
 
 *2025-09-24 02:23:25* · [`dailyftlk`](https://www.ft.lk/business/EU-agrees-to-9-4-m-grant-to-push-sustainable-development/34-782092) · `en`
@@ -1802,6 +1962,26 @@ According to the order, these duties will be carried out under the supervision o
 
 ---
 
+### President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.
+
+*2025-09-24 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86449) · `en`
+
+Anura Kumara Dissanayake known popularly as  Anura and “AKD” , won the Presidential election of 21 September 2024 in  what was described as a gigantic leap. From 418,553 (3.16%) votes in the 2019 Presidential election, AKD increased his vote tally   to 5,634,915 (42.31%) in the 2024 Presidential poll. In the second count of votes with  Sajith Premadasa, AKD obtained  5,740,179 (55.89%) votes
+
+Dissanayake was sworn in as Sri Lanka’s ninth executive president on 23 September 2024 in a simple ceremony at the Presidential secretariat in Colombo.
+
+Speaking at his swearing in event, Anura Kumara Dissanayake stated as follows –  .
+
+“Democracy helped me win. Some voted for me, and others didn’t. But my pledge is to work hard to win the trust of those who didn’t vote for me as well. This is an important part of my Presidency.”
+
+...
+
+[Data](articles/0ba83891.json)
+
+[Extended Data](ext_articles/0ba83891.ext.json)
+
+---
+
 ### Signatures of Tamil people to UN Resident Representative
 
 *2025-09-24 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225905) · `ta`
@@ -1893,163 +2073,5 @@ The need to be reconstructed quickly under the two -kilometer highway on the Sou
 [Data](articles/c5aec9e1.json)
 
 [Extended Data](ext_articles/c5aec9e1.ext.json)
-
----
-
-### The need for investor education about risk-taking and Unit Trusts
-
-*2025-09-23 23:01:00* · [`islandlk`](http://island.lk/the-need-for-investor-education-about-risk-taking-and-unit-trusts/) · `en`
-
-Interview with Jeevan Sukumaran, Secretary, Unit Trust Association, Sri Lanka
-
-What does “risk” really mean in investing, and why should the public not be afraid of it?
-
-At the mention of the word risk in terms of investing, especially in a Sri Lankan context, there can be a significant level of fear or stigma attached to it. To some degree, this is fair given the country’s history of civil war, investment company scams (such as Golden Key/Ceylinco and Sakvithi and in more recent times, the Easter Attacks, Covid and the Economic crisis. This has led to a large majority of potential investors being afraid to venture very far beyond commercial banking products and, therefore, losing out on the earnings potential of other asset classes.
-
-...
-
-[Data](articles/c98755f8.json)
-
-[Extended Data](ext_articles/c98755f8.ext.json)
-
----
-
-### The president has reached the United States
-
-*2025-09-23 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225903) · `ta`
-
-President Anuragumara Dissanayake, who is traveling from the country to attend the 80th General Assembly session of the United Nations, said that the US John F.. Kenady reached the International Airport.
-
-John F in the United States. President Anura Kumara Dissanayake, who arrived at the Kenady International Airport, was welcomed by the United Nations Permanent Representative and former Chief Justice of India, President Jayantha Mandarasiri Jayasuriya.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herum has joined President Anura Kumara Dissanayake on the visit.
-
-◼️
-
-[Data](articles/db2b4a41.json)
-
-[Extended Data](ext_articles/db2b4a41.ext.json)
-
----
-
-### Policy rate jitters seize bourse despite previous positive momentum lingering
-
-*2025-09-23 22:40:00* · [`islandlk`](http://island.lk/policy-rate-jitters-seize-bourse-despite-previous-positive-momentum-lingering/) · `en`
-
-The CSE was able to maintain the previous positive momentum yesterday but investors were concerned about the new policy rates to be announced by the Central Bank today.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 75.95 points, while the S and P SL20 rose by 20.03 points.
-
-Turnover stood at Rs 6.5 billion with 13 crossings. Top seven crossings that were reported in LOLC, which crossed 650,000 shares to the tune of Rs 370.5 million; its shares traded at Rs 570, Capital Alliance Holdings 13 million shares crossed for Rs 221 million; its shares traded at Rs 17, VallibelOne 1.06 million shares crossed for Rs 106 million; its sharestraded at Rs 100.
-
-...
-
-[Data](articles/87c836b4.json)
-
-[Extended Data](ext_articles/87c836b4.ext.json)
-
----
-
-### Sarvodaya Development Finance delegation completes Agri-Innovate immersion at Kasetsart University, Thailand
-
-*2025-09-23 22:39:00* · [`islandlk`](http://island.lk/sarvodaya-development-finance-delegation-completes-agri-innovate-immersion-at-kasetsart-university-thailand/) · `en`
-
-A cross-functional leadership team from Sarvodaya Development Finance PLC (SDF) has completed the International Programme on Agri-Innovate: A Value Creation Journey from Soil to Shelf at the Faculty of Business Administration, Kasetsart University, Bangkok, delivered in collaboration with the Postgraduate Institute of Management (PIM). The mid-September programme focused on end-to-end value-chain innovation, from farm productivity and logistics to markets, risk management and consumer insight, aimed at accelerating sustainable growth in Sri Lanka’s agri-MSME segment.
-
-...
-
-[Data](articles/db160c97.json)
-
-[Extended Data](ext_articles/db160c97.ext.json)
-
----
-
-### President Dissanayake arrives in New York for UNGA session
-
-*2025-09-23 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112841/president-dissanayake-arrives-in-new-york-for-unga-session-) · `en`
-
-President Anura Kumara Dissanayake has arrived in New York, to attend the 80th sessions of the United Nations General Assembly (UNGA).
-
-The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time.
-
-Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
-
-The President is accompanied on this official visit by Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath.
-
-◼️
-
-[Data](articles/12170369.json)
-
-[Extended Data](ext_articles/12170369.ext.json)
-
----
-
-### 2.8 million estimates for excavation of human burial excavation!
-
-*2025-09-23 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/225902) · `ta`
-
-The Colombo Chief Medical Officer has submitted the funding assessment to the launch of excavation work in the area believed to be a human burial in the Eastern Province.
-
-The court has ordered the Ministry of Finance and the Ministry of Justice to send a request of Rs 2.8 million.
-
-The Kaluwanchikudi Magistrate's Court recently granted permission to excavate the human burial in the Batticaloa district, which is suspected of being buried and buried over 150 Muslims thirty -five years ago.
-
-When the case relating to the assassination was taken up in the presence of Kaluwanchikudi Magistrate Zabna Siraj today (September 23), the judge accepted the financial assessment submitted to the court for excavation work and ordered it to be sent to the ministries of the High Court.
-
-...
-
-[Data](articles/c8b2c519.json)
-
-[Extended Data](ext_articles/c8b2c519.ext.json)
-
----
-
-### Drugs found in Tangalle revealed
-
-*2025-09-23 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214930) · `si`
-
-It is reported that the drug consignment found in a house in a house in the Tangalle Seen Sahanodara area has been brought to Sri Lanka by two vessels.
-
-The stock of drugs is piling the Kudawella Mawathakee.
-
-The three killed who were later killed were present and they had been drinking alcohol.
-
-The cost has been taken to a coastal house, police said.
-
-The police said that they had been transporting drugs from the Mawawale beach to Senmodara to Senmodara.
-
-The 49-year-old man was hospitalized by the two sons of his sons to take their father's small lorry.
-
-They have told the police that a group of people attempted to drink alcohol.
-
-They had revealed this after their arrests by the police today.
-
-According to a special operation of two people in a house in the Tangalle Seennakola area, 705 kilograms was discovered yesterday.
-
-The police were able to find 68 kilograms of ice and 970 grams and Rs.
-
-...
-
-[Data](articles/dc347ee0.json)
-
-[Extended Data](ext_articles/dc347ee0.ext.json)
-
----
-
-### Ranil does not escape the clutches of the law - Cabinet spokesman Nalinda Jayatissa
-
-*2025-09-23 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/225901) · `ta`
-
-Politicians who are not associated with drug offenses do not need to be unnecessarily. Rather than those associated with them cannot escape the clutches of the law in any case. Cabinet Spokesperson Minister Nalinda Jayadissa said that it is not worthwhile to take refuge with Ranil Wickremesinghe to escape this.
-
-He made this statement at a press conference announcing the Cabinet decisions at the Government Information Department in Colombo on Tuesday (23).. As he further stated in this regard,
-
-He was not there when he went to the apartment where they were staying to arrest three persons, including Kehelbatara Padme. They were hidden in the apartment of Pako Saman. Thus they were able to arrest all of them for the Indonesian police. Everyone was trapped together because they gathered in fear.
-
-...
-
-[Data](articles/4ad38df2.json)
-
-[Extended Data](ext_articles/4ad38df2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 14:38:37**
+As of **2025-09-24 15:08:02**
 
 ## Newspaper Stats
 
-*Scraped **77,868** Articles*
+*Scraped **77,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,51 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,568
+adalk | 7,569
 adaderanalk | 10,094
-tamilmirrorlk | 11,738
-virakesarilk | 12,666
+tamilmirrorlk | 11,739
+virakesarilk | 12,667
 adaderanasinhalalk | 13,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,866 (100.0%) of 77,868 articles have been extended.
+77,870 (100.0%) of 77,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
+### The UN. Trump trapped with his wife when he went to the crowd
+
+*2025-09-24 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நா-கூட்டத்துக்கு-சென்றபோது-மனைவியுடன்-சிக்கிய-டிரம்ப்/50-365208) · `ta`
+
+The UN on Tuesday (23) in New York. The council's general membership meeting took place. US President Donald Trump went with his wife Melania to participate. They went on the moving staircase.
+
+Suddenly the moving staircase stood up. Melania heels stumbled because he was wearing sandals. Then the two walked on the moving stairs.
+
+This problem is currently erupting. The White House said the matter should be investigated.
+
+Its spokesman Caroline Lewit X posted on the web site page:-
+
+Are the UN employees deliberately involved in this act? Investigate. They should be fired and investigated immediately.
+
+When Trump says about this, Melania does not fall down. We are now strong.
+
+At this point, when President Trump addressed the UN meeting, he lost the act of Tele Pampor.. In spite of being he continued to speak. This too is currently causing controversy.
+
+◼️
+
+[Data](articles/9919a6fa.json)
+
+[Extended Data](ext_articles/9919a6fa.ext.json)
+
+---
+
 ### Hurricane Hurricane in Taiwan 124 people magic
 
-*2025-09-24 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
+*2025-09-24 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
 
 Hurricane Hallian, a popular tourist center, Taiwan's popular tourist destination, killed 14 people.
 
@@ -53,6 +79,28 @@ Wang Se-Ann said that the entire village of Dama, where about 1,000 people live 
 [Data](articles/99cefd04.json)
 
 [Extended Data](ext_articles/99cefd04.ext.json)
+
+---
+
+### Hurricane Ragasa: 20 million people in China
+
+*2025-09-24 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225947) · `ta`
+
+Hurricane Hurricane Since last Monday in Taiwan. The storm is currently heading towards the southern coast of China. Hong Kong is also attacking.
+
+Sea waves rose sharply in Hong Kong. Hundreds of flights were canceled at Hong Kong's International Airport.
+
+Schools are closed in various cities of China. Even supermarkets were empty. There were no people on the streets.
+
+20 million people were taken safely in China's Guangdong Province. By this hurricane, 185 km. The wind blows at the speed. It is 230 km. It was also reported that it would speed up.
+
+Hurricane Hurricane Cynic. Three people have been killed in landslides and floods in the Philippines. Cars, bikes were thrown. They were lying on one another. Hurricane Hurricane Warning has been issued in Hong Kong. The impact of the storm will be till tomorrow morning.
+
+◼️
+
+[Data](articles/7002f6f1.json)
+
+[Extended Data](ext_articles/7002f6f1.ext.json)
 
 ---
 
@@ -115,6 +163,8 @@ After being produced before the Aluthkade Magistrate’s Court, a detention orde
 ◼️
 
 [Data](articles/da4e2f6d.json)
+
+[Extended Data](ext_articles/da4e2f6d.ext.json)
 
 ---
 
@@ -262,6 +312,22 @@ According to Time Out, these places are selected for their seasonal charm, cultu
 
 ---
 
+### විගමනික හරසර වැඩසටහනට වැය කළ රු. කෝටි 6ක් වතුරේ
+
+*2025-09-24 12:46:47* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-හරසර-වැඩසටහනට-වැය-කළ-රු--කෝටි-6ක්-වතුරේ/11-418693) · `si`
+
+විගමනික  ශ්‍රමිකයින් ඇගයිම සදහා  සංවිධානය කොට තිබු විගමනික හරසර වැඩසටහන සදහා රුපියල් මිලියන 63ක මුදලක්  වියදම්කොට තිබුනද  උත්සව  අවස්ථාවේ ලබාදුන් ආහාරපාන හැර  ශ්‍රමිකයින්ගේ  ඉදිරි සුභසාධනය සදහා  ස්වයං රැකියා හෝ  වෙනත් ප්‍රතිලාභ  ලැබි නොතිබු බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+
+පැමිණි ශ්‍රමිකයින් සදහා උපහාර පිදිම සදහා  හිටපු ජනාධිපතිතුමාගේ, හිටපු කම්කරු හා විදේශ රැකියා  අමාත්‍යතුමාගේ සහ  හිටපු  රාජ්‍ය ඇමතිතුමාගේ සුභ පැතුම් තුනක් සහිතව  ලිපිගොනුවක් ප්‍රදානය කිරිමට  රුපියල් දහනමලක්ෂ,තිස්පන්දහසක මුදලක් (1,935,000)  වියදම්කොට තිබු බවද විගණන වාර්තාවේ සදහන් වේ.
+
+අදාල විගමනික ශ්‍රමිකයින්  උත්සව සදහා කැදවාගෙන ඒමට   බස්රථ 226ක් සදහා  ලංකා ගමනාගමන මණ්ඩලය වෙත රුපියල් අසුලක්ෂ,හතලිස්එක්දහස්,හාරසියහැත්තැහයක මුදලක් (8,041,476)  වැයකොට තිබුණි. ශ්‍රමිකයින්ගේ ප්‍රතිලාභ වලට වඩා  අමතර වියදම් වැඩිපුර දරා තිබු බවද විගණනය මගින් අනාවරණය කොට ඇත.
+
+...
+
+[Data](articles/bde27055.json)
+
+---
+
 ### President and the UNP meets High Commissioner
 
 *2025-09-24 12:38:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-එජා-මානව-හිමිකම්-මහ-කොමසාරිස්-අතර-හමුවක්/11-418692) · `si`
@@ -293,6 +359,8 @@ Deputy Solicitor General Sudarshana de Silva, representing the CID, told the cou
 ...
 
 [Data](articles/385bb55d.json)
+
+[Extended Data](ext_articles/385bb55d.ext.json)
 
 ---
 
@@ -2015,65 +2083,5 @@ He is a Fellow member of the Chartered Institute of Management Accountants UK an
 [Data](articles/e6159a78.json)
 
 [Extended Data](ext_articles/e6159a78.ext.json)
-
----
-
-### Col. Nalin Herath new General Manager of JAT Group’s James Global Minerals
-
-*2025-09-24 02:21:14* · [`dailyftlk`](https://www.ft.lk/business/Col-Nalin-Herath-new-General-Manager-of-JAT-Group-s-James-Global-Minerals/34-782090) · `en`
-
-James Global Minerals, an esteemed affiliate of JAT Holdings PLC, has announced the appointment of Col. Nalin Herath as its new General Manager.
-
-An accomplished professional with extensive experience in both military and civilian sectors, Colonel Herath will bring his leadership skills and strategic insight to the company.
-
-In addition to his role at James Global Minerals, Colonel Herath will also serve as the incoming Executive Director of the South Asian Sustainability and Security Research Institute (SASSRI). His previous experience includes serving as the Director of Media and Spokesperson for the Ministry of Defence and as the Director General of the Institute of National Security Studies (INSS), where he demonstrated a commitment to fostering national security and sustainable development.
-
-Colonel Herath’s appointment marks a significant step forward for James Global Minerals, reinforcing its dedication to responsible and innovative practices in the resources sector.
-
-◼️
-
-[Data](articles/899ab6af.json)
-
-[Extended Data](ext_articles/899ab6af.ext.json)
-
----
-
-### Budding entrepreneurs celebrated at School Industry Entrepreneurship Circles program
-
-*2025-09-24 02:20:15* · [`dailyftlk`](https://www.ft.lk/business/Budding-entrepreneurs-celebrated-at-School-Industry-Entrepreneurship-Circles-program/34-782089) · `en`
-
-From left: Abans PLC Business Development Director Tanaz Pestonjee, Industrial Development Board Director – Entrepreneurship Development Division Renuka Jayalath, Industries and Entrepreneurship Development Secretary Thilaka Jayasundara, Industrial Development Board Chairman Ravi Nissanka, and Assistant Director Saminda Ranatungage
-
-The National Medal Awarding Ceremony of the School Industry Entrepreneurship Circles was held recently at the Nelum Pokuna Theatre.
-
-The event commemorated the program and its impact on over 32,000 students across all 25 districts in more than 603 schools. The program had also trained 1,750 teachers at schools to establish over 1,400 entrepreneurship circles.
-
-Abans PLC partnered with the Sri Lanka Industrial Development Board (IDB), the Industry and Entrepreneurship Development Ministry, and the Education Ministry in February to introduce the School Industry Entrepreneurship Circles to empower the youth of Sri Lanka.
-
-...
-
-[Data](articles/c9f6c393.json)
-
-[Extended Data](ext_articles/c9f6c393.ext.json)
-
----
-
-### Ocean Lanka opens MFB to boost synthetic fabric innovation, production
-
-*2025-09-24 02:18:53* · [`dailyftlk`](https://www.ft.lk/business/Ocean-Lanka-opens-MFB-to-boost-synthetic-fabric-innovation-production/34-782088) · `en`
-
-Ocean Lanka Ltd., a major weft knit fabric manufacturer in Sri Lanka, has opened a new Multifunctional Building (MFB) at its Biyagama Export Processing Zone (EPZ) premises to increase its innovative synthetic fabrics production output.
-
-Synthetic fabrics currently make up 10–15% of Ocean Lanka’s production output, but the MFB will allow the company to greatly expand this share.
-
-This development guarantees global competitiveness in the production of synthetic apparel while highlighting Ocean Lanka’s commitment to innovation, sustainability, and product diversification, the company said in a statement.
-
-The MFB’s opening places Ocean Lanka as a model plant committed to developing the synthetic fabric industry and strengthens the company’s position in spearheading Sri Lanka’s shift to value-added textiles in order to satisfy the changing needs of the global demand in Intimate wear, active wear, and the fashion industry, the company said in a statement.
-
-...
-
-[Data](articles/38f1cde2.json)
-
-[Extended Data](ext_articles/38f1cde2.ext.json)
 
 ---

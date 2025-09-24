@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 20:56:13**
+As of **2025-09-24 21:20:47**
 
 ## Newspaper Stats
 
-*Scraped **77,948** Articles*
+*Scraped **77,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,578
-adaderanalk | 10,116
+adaderanalk | 10,117
 tamilmirrorlk | 11,755
-virakesarilk | 12,673
+virakesarilk | 12,674
 adaderanasinhalalk | 13,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,948 (100.0%) of 77,948 articles have been extended.
+77,949 (100.0%) of 77,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### Sabarimalai Iyyappan Temple: Cabinet approval as a pilgrimage to Sri Lanka
+
+*2025-09-24 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225998) · `ta`
+
+The Cabinet has approved the declaration of the Sabarimalai Iyyappan Temple as a pilgrimage recognized by the Government of Sri Lanka. Colombo Municipal Council Member S. Anandakumar said that action is being taken to inform the Government of India.
+
+The long -standing Hindu devotees visit the Sabarimalai Iyyappan Temple in the state of Kerala, India, from November 1 to January 31st of next year.. The temple is currently a pilgrimage to more than 15,000 devotees annually.. In two more months, Iyappa Samimars will wear evening and go to Sabarimala.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Religious and Cultural Affairs to declare the pilgrimage to the Sabarimalai Iyyappan Temple by the Sri Lankan Hindu pilgrims to declare and provide facilities to the Government of Sri Lanka.. We have been recognized for the continuous programs.
+
+...
+
+[Data](articles/18f1eaa4.json)
+
+[Extended Data](ext_articles/18f1eaa4.ext.json)
+
+---
+
+### Govt committed to working with all partners to ensure Indian Ocean remains peaceful: PM Harini
+
+*2025-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112881/govt-committed-to-working-with-all-partners-to-ensure-indian-ocean-remains-peaceful-pm-harini) · `en`
+
+The government is committed to working with all partners to ensure the Indian Ocean remains a peaceful, secure, sustainable, and well-governed region, founded on fairness and cooperation, Prime Minister Dr. Harini Amarasuriya stated.
+
+The Prime Minister noted that Sri Lanka recognizes both the value and responsibility of its strategic location in the Indian Ocean.
+
+Prime Minister Dr. Harini Amarasuriya made these remarks while addressing the 12th International Maritime Conference “Galle Dialogue 2025,” organized by the Sri Lanka Navy.
+
+The Galle Dialogue 2025 is being held under the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics,” at the Wave and Lake Banquet Hall of the Welisara Navy Base.
+
+◼️
+
+[Data](articles/ca3b6678.json)
+
+---
 
 ### Meeting between President Donald Trump's Southern and Special Representative for Central Asia
 
@@ -2071,55 +2107,5 @@ Almost all MPs who submitted verbal questions to be raised in Parliament today r
 [Data](articles/a913e6f6.json)
 
 [Extended Data](ext_articles/a913e6f6.ext.json)
-
----
-
-### President Dissanayake to address UN General Assembly today
-
-*2025-09-24 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112854/president-dissanayake-to-address-un-general-assembly-today) · `en`
-
-President Anura Kumara Dissanayake is scheduled to address the 80th session of the United Nations General Assembly (UNGA) today (24).
-
-According to the President’s Media Division (PMD), his address is set for 3:15 pm US time.
-
-President Dissanayake, who left Sri Lanka to attend the UNGA, arrived in the United States yesterday (23).
-
-The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time.
-
-Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
-
-During his visit, he is also expected to hold bilateral meetings with the UN Secretary-General and several world leaders.
-
-Additionally, he will meet with members of the Sri Lankan community residing in the United States.
-
-...
-
-[Data](articles/8c8baff8.json)
-
-[Extended Data](ext_articles/8c8baff8.ext.json)
-
----
-
-### Mervyn's case dates back to the exam
-
-*2025-09-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214949) · `si`
-
-As a Minister, the Bribery Commission has set the case against former Minister Mervyn Silva against former Minister Mervyn Silva against former Minister Mervyn Silva against the bribery Commission.
-
-Accordingly, the examination will be taken on November 17, Colombo High Court Judge Mohahadi has ordered.
-
-The Bribery Commission gave the acquaintance when the case was taken up today (24).
-
-Accordingly, the Bribery Commission requested the court to appoint a date to hear the case.
-
-The judge accepted the request made the case to be heard on November 17.
-
-The case has been filed against former Minister Mervyn Silva accused the former Minister Mervyn Silva by accusing the anti-corruption proven to an anti-corruption proceeds in 2010 to 2012.
-
-◼️
-
-[Data](articles/7dbb5863.json)
-
-[Extended Data](ext_articles/7dbb5863.ext.json)
 
 ---

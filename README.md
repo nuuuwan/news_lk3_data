@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 23:07:44**
+As of **2025-09-24 22:55:15**
 
 ## Newspaper Stats
 
-*Scraped **77,961** Articles*
+*Scraped **77,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,578
-adaderanalk | 10,119
+adaderanalk | 10,117
 tamilmirrorlk | 11,755
-virakesarilk | 12,679
+virakesarilk | 12,678
 adaderanasinhalalk | 13,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,958 (100.0%) of 77,961 articles have been extended.
+77,958 (100.0%) of 77,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,26 +77,6 @@ Accordingly, the Solid Waste Recovery Center is covered with nine provinces, and
 [Data](articles/fbdcdd52.json)
 
 [Extended Data](ext_articles/fbdcdd52.ext.json)
-
----
-
-### பேஸ்புக்கில் சிரிக்கும் ஈமோஜி : குஜராத்தில் இளைஞன் மீது கத்திக்குத்து; ஒருவர் கைது
-
-*2025-09-24 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226002) · `ta`
-
-சமூக வலைத்தளமான பேஸ்புக்கில் சிரிக்கும் ஈமோஜியை (laughing emoji) பயன்படுத்தியதற்காக ஏற்பட்ட சண்டையில், 20 வயது இளைஞர் ஒருவர் குத்தி கொலை செய்யப்பட்டுள்ளார். இந்தச் சம்பவம் இந்தியாவின் குஜராத்தின் ராஜ்கோட் நகரில் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது.
-
-பீகாரைச் சேர்ந்த பிரின்ஸ் குமார் (Prince Kumar) என்ற இளைஞரே கத்திக்குத்துக்கு உள்ளாகி உயிரிழந்துள்ளார்.
-
-இவர் குஜராத்தில் உள்ள ஒரு தொழிற்சாலையில் தனது மூன்று உறவினர்களுடன் பணிபுரிந்து வந்துள்ளார்.
-
-நான்கு மாதங்களுக்கு முன் உயிரிழந்த தனது தாத்தா ரூப்நாராயண் பிந்த் குறித்து, பிரின்ஸ் தனது பேஸ்புக் பக்கத்தில் ஒரு பதிவை வெளியிட்டிருந்தார். இதற்கு பிபின் குமார் ராஜேந்தர் கோண்ட் (Bipin Kumar Rajinder Gond) என்பவர் ஒரு சிரிக்கும் ஈமோஜியை பதிலளித்தார். இதனால் இவர்களுக்கு இடையே வாக்குவாதம் ஏற்பட்டது.
-
-கடந்த செப்டம்பர் 12 ஆம் திகதி, தொழிற்சாலைக்கு வெளியே பிரின்ஸ் ஒரு முச்சக்கரவண்டியில் அமர்ந்திருந்தபோது பிபின் அங்கு வந்து மேதலில் ஈடுபட்டுள்ளார்.
-
-...
-
-[Data](articles/11a4821d.json)
 
 ---
 
@@ -243,26 +223,6 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 [Data](articles/18f1eaa4.json)
 
 [Extended Data](ext_articles/18f1eaa4.ext.json)
-
----
-
-### Tariffs and conflict causing major volatility in shipping industry, says UN trade agency
-
-*2025-09-24 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112882/tariffs-and-conflict-causing-major-volatility-in-shipping-industry-says-un-trade-agency) · `en`
-
-The shipping industry is experiencing major volatility amid rising geopolitical tensions and disruptions caused by a wave of new tariffs, according to a report published on Wednesday by the U.N. Trade and Development agency.
-
-Due to an increasingly complex and uncertain global trade environment, subdued industrial activity in major economies and weak Chinese demand for bulk commodities, UNCTAD has revised down its maritime trade growth forecast for 2025.
-
-It now projects overall maritime trade volume to expand 0.5 per cent annually, with containerized trade growing slightly faster at 1.4 per cent.
-
-The report highlights that trade policy shifts, including new tariffs, are disrupting global supply chains.
-
-Maritime navigation in the Black Sea has been complicated by Russia’s war in Ukraine. Conflict in the Middle East drove up shipping costs as vessels were rerouted around the Cape of Good Hope following disruption to the Red Sea, UNCTAD said.
-
-...
-
-[Data](articles/a9fb7dc0.json)
 
 ---
 
@@ -575,26 +535,6 @@ The Group of Missing Figs under the United Nations is a structure that includes 
 [Data](articles/6b069a44.json)
 
 [Extended Data](ext_articles/6b069a44.ext.json)
-
----
-
-### Insurance compensation for death of migrant worker increased
-
-*2025-09-24 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112876/insurance-compensation-for-death-of-migrant-worker-increased) · `en`
-
-The insurance compensation granted if a Sri Lankan worker employed abroad dies during their employment has been increased up to Rs. 2 million.
-
-This was announced by Koshala Wickremasinghe, Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), during a special media briefing held today (24t.
-
-As of now, the insurance compensation paid for a death occurring during foreign employment was Rs. 600,000, but this amount has now been increased by an additional Rs. 1,4 million, bringing the total compensation to Rs. 2 million, according to Chairman Wickremasinghe.
-
-Additionally, the Bureau has introduced a loan scheme to assist the spouse of Sri Lankan migrant workers in starting a business.
-
-Furthermore, it has been decided to increase the scholarship funds for the children of migrant workers and to provide laptops for those children pursuing higher education.
-
-...
-
-[Data](articles/bcf05bc1.json)
 
 ---
 
@@ -2121,5 +2061,57 @@ This information is included in the Audit Report which is issued to the performa
 [Data](articles/bde27055.json)
 
 [Extended Data](ext_articles/bde27055.ext.json)
+
+---
+
+### President and the UNP meets High Commissioner
+
+*2025-09-24 12:38:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-එජා-මානව-හිමිකම්-මහ-කොමසාරිස්-අතර-හමුවක්/11-418692) · `si`
+
+President Anura Kumara Dissanayake has gone to the United Nations at the United Nations General Assembly to attend the 80th session of the United Nations, the Presidential Media Division (PMD) said.
+
+Secretary to the Ministry of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and President's Counsel Jayantha Jayasuriya were also present.
+
+◼️
+
+[Data](articles/932c69fd.json)
+
+[Extended Data](ext_articles/932c69fd.ext.json)
+
+---
+
+### Court will be informed if decision made on Gammanpila’s arrest – AG
+
+*2025-09-24 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112855/court-will-be-informed-if-decision-made-on-gammanpilas-arrest-ag) · `en`
+
+The Attorney General’s Department today (24) informed the Court of Appeal that if a decision is made to arrest former Minister Udaya Gammanpila, the court will be notified of that decision through a motion, said Ada Derana reporter.
+
+Additional Solicitor General Sudarshana de Silva, appearing on behalf of the Criminal Investigation Department (CID), made this submission when the writ petition filed by Udaya Gammanpila—seeking an order to prevent his arrest—was taken up for consideration today.
+
+On September 12, the CID informed the Court of Appeal that no decision had yet been made to arrest the former Minister.
+
+Deputy Solicitor General Sudarshana de Silva, representing the CID, told the court that the police had not at that stage taken a decision to arrest the petitioner, adding that investigations were still ongoing and a final decision would be made thereafter.
+
+...
+
+[Data](articles/385bb55d.json)
+
+[Extended Data](ext_articles/385bb55d.ext.json)
+
+---
+
+### A report from Attorney General for arrest of Gammanpila
+
+*2025-09-24 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214953) · `si`
+
+The Attorney General has informed the Court of Appeal today that the decision to arrest former Minister Udaya Gammanpila.
+
+Additional Savigar General Sudarsitar General Sudarsitar General Sudarsha De Silva, who appeared on behalf of the Criminal Investigation Department (CID) was made to issue an order to issue an order to issue an order.
+
+◼️
+
+[Data](articles/4216593c.json)
+
+[Extended Data](ext_articles/4216593c.ext.json)
 
 ---

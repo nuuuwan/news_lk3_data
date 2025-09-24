@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 05:56:49**
+As of **2025-09-24 06:21:31**
 
 ## Newspaper Stats
 
-*Scraped **77,781** Articles*
+*Scraped **77,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,557
 adaderanalk | 10,082
 tamilmirrorlk | 11,712
 virakesarilk | 12,652
-adaderanasinhalalk | 13,583
+adaderanasinhalalk | 13,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,772 (100.0%) of 77,781 articles have been extended.
+77,772 (100.0%) of 77,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+
+*2025-09-24 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214932) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (24) දිනයේ විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකියි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදුවිය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/8216a09a.json)
+
+---
 
 ### ’தமிழர்களை அனுர அரசும் ஏமாற்றியுள்ளது’
 
@@ -2023,27 +2043,5 @@ The boy reportedly told authorities that he had hidden himself in the rear centr
 [Data](articles/578029f9.json)
 
 [Extended Data](ext_articles/578029f9.ext.json)
-
----
-
-### Sri Lanka seeks investors for caustic soda, chlorine production at Paranthan Chemicals
-
-*2025-09-23 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-for-caustic-soda-chlorine-production-at-paranthan-chemicals-241622/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call for expressions of interest from local and foreign investors to produce caustic soda and chlorine as a public-private partnership project at the Paranthan Chemicals Limited factory, minister Nalinda Jayatissa said.
-
-“Paranthan Chemicals Limited has completed a feasibility study on restarting the caustic soda, chlorine manufacturing plant at the premises where its Factory is located,” Jayatissa told reporters.
-
-The proposal to look for investors for the proposed project to be implemented on the 30-acre land allocated to Paranthan Chemicals, a state-owned enterprise, was approved by the Cabinet.
-
-Paranthan Chemicals currently imports chlorine and distributes it throughout the country, he said.
-
-“Since the entire chlorine requirement for the country’s water treatment is imported, there is a risk of it being disrupted in the event of disruptions to global supply chains.
-
-...
-
-[Data](articles/906c61e0.json)
-
-[Extended Data](ext_articles/906c61e0.ext.json)
 
 ---

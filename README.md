@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 03:55:44**
+As of **2025-09-25 04:06:04**
 
 ## Newspaper Stats
 
-*Scraped **77,979** Articles*
+*Scraped **77,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 788
 economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
-dailyftlk | 5,529
+dailyftlk | 5,532
 adalk | 7,578
 adaderanalk | 10,124
-tamilmirrorlk | 11,756
+tamilmirrorlk | 11,757
 virakesarilk | 12,684
 adaderanasinhalalk | 13,626
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 13,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,979 (100.0%) of 77,979 articles have been extended.
+77,979 (100.0%) of 77,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### பாகிஸ்தான் பிரதமருடன் ஜனாதிபதி அநுர சந்திப்பு
+
+*2025-09-25 03:54:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தான்-பிரதமருடன்-ஜனாதிபதி-அநுர-சந்திப்பு/175-365248) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்துகொள்வதற்காக அமெரிக்காவுக்குச் சென்றுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, பாகிஸ்தான் பிரதமர் ஷெபாஸ் ஷெரீப்பைச் சந்தித்துக் கலந்துரையாடினார்.
+
+இந்தச் சந்திப்பு நியூயோர்க் நகரில் ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி அலுவலகத்தில் அமெரிக்க நேரப்படி நேற்று (24) பிற்பகல் நடைபெற்றது.
+
+இதன்போது இலங்கை, பாகிஸ்தான் நாடுகளுக்கிடையிலான உறவுகளை மேலும் பலப்படுத்துவது குறித்து கவனம் செலுத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/cee8a76c.json)
+
+---
+
+### Former Navy Commander Nishantha Ulugetenne further remanded
+
+*2025-09-25 03:50:54* · [`dailyftlk`](https://www.ft.lk/news/Former-Navy-Commander-Nishantha-Ulugetenne-further-remanded/56-782151) · `en`
+
+Former Navy Commander Nishantha Ulugetenne and former Navy Intelligence Director Rear Admiral (Retd.) Sarath Mohotti were further remanded till 8 October by Polgahawela Magistrate Udumbara Dasanayake.
+
+Ulugetenne was arrested in July in connection with the disappearance of a youth from Pothuhera, reportedly during his tenure as Director of Naval Intelligence.
+
+Mohotti was arrested by the Criminal Investigation Department on 18 September on charges related to the
+
+◼️
+
+[Data](articles/5d7e60a8.json)
+
+---
+
+### Sri Lanka, Philippines to strengthen judicial cooperation with new agreements
+
+*2025-09-25 03:50:18* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Philippines-to-strengthen-judicial-cooperation-with-new-agreements/56-782150) · `en`
+
+In a move to enhance international cooperation in criminal justice, the Cabinet of Ministers on Monday approved two key agreements between Sri Lanka and the Republic of the Philippines to strengthen legal collaboration and prisoner rehabilitation.
+
+The first agreement focuses on mutual legal cooperation in criminal matters, which involves assistance between the two States in delivering judicial documents, collecting evidence, and facilitating criminal investigations and prosecutions.
+
+Addressing the weekly post-Cabinet meeting media briefing on Tuesday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa noted that formalising such cooperation will help curb cross-border criminal activities while ensuring more effective suppression of offenders.
+
+In addition, the Cabinet of Ministers also approved the signing of an extradition agreement on sentenced persons.
+
+...
+
+[Data](articles/a352ce03.json)
+
+---
+
+### Police publish hotline list for drug-related complaints
+
+*2025-09-25 03:48:12* · [`dailyftlk`](https://www.ft.lk/news/Police-publish-hotline-list-for-drug-related-complaints/56-782149) · `en`
+
+Sri Lanka Police have released a list of contact numbers for members of the public to inform on narcotics-related incidents.
+
+Accordingly, the general public can directly contact the mobile phone number of the relevant Senior Deputy Inspector General (SDIG) of Police and inform them of incidents related to the widespread presence of narcotic substances such as heroin, ‘Ice’, cocaine, and cannabis in various regions of the country.
+
+Police stated that the SDIGs will promptly take necessary actions, including conducting arrests and operations, and take further legal measures to protect the confidentiality of the information provided.
+
+The Police Headquarters said it greatly values the support given by citizens in eliminating drug-related issues, and the mobile phone numbers of the relevant SDIGs of Police in charge of the provinces are provided below.
+
+◼️
+
+[Data](articles/f9825dab.json)
+
+---
 
 ### Bill postponing the bills that cannot cause mental impacts on children
 
@@ -2057,93 +2125,5 @@ The incident took place a day after drones found near Oslo and Copenhagen's airp
 [Data](articles/f7c354ed.json)
 
 [Extended Data](ext_articles/f7c354ed.ext.json)
-
----
-
-### Sept. 111823 tourists arrived at 21 days
-
-*2025-09-24 14:49:38* · [`adalk`](https://www.ada.lk/breaking_news/සැප්--දින-21ට-සංචාරකයන්-111823ක්-ඇවිත්/11-418699) · `si`
-
-Sri Lanka Tourism Development Authority says that 111823 tourists have arrived in Sri Lanka in September 1 to 21st.
-
-The total number of tourists arrived in January 1 from January 1 this year.  The largest tourist quantity came from India and was 358 165.
-
-◼️
-
-[Data](articles/d1e7e9be.json)
-
-[Extended Data](ext_articles/d1e7e9be.ext.json)
-
----
-
-### China evacuates nearly 2 million as super typhoon Ragasa nears landfall
-
-*2025-09-24 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112859/china-evacuates-nearly-2-million-as-super-typhoon-ragasa-nears-landfall) · `en`
-
-Chinese authorities evacuated 1.9 million residents from the southern Guangdong province as super typhoon Ragasa, the most powerful storm of the year, barreled toward China with winds reaching 241 kph and waves higher than lampposts.
-
-The typhoon forced the shutdown of schools and businesses across at least 10 cities as it approached its expected evening landfall between Yangjiang and Zhanjiang. Hong Kong’s observatory recorded maximum sustained winds of 195 kph near the storm’s centre.
-
-Meanwhile, huge waves battered the coastlines of the city of Zhuhai and Hong Kong.
-
-Hong Kong’s observatory said Ragasa had maximum sustained winds near the centre of about 195 kph, and was forecast to keep moving west or west-northwest.
-
-The winds brought by the storm, which blew away parts of a pedestrian bridge’s roof and uprooted hundreds of trees across the city, have since gradually weakened.
-
-...
-
-[Data](articles/54c50040.json)
-
-[Extended Data](ext_articles/54c50040.ext.json)
-
----
-
-### The UN. Trump trapped with his wife when he went to the crowd
-
-*2025-09-24 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஐ-நா-கூட்டத்துக்கு-சென்றபோது-மனைவியுடன்-சிக்கிய-டிரம்ப்/50-365208) · `ta`
-
-The UN on Tuesday (23) in New York. The council's general membership meeting took place. US President Donald Trump went with his wife Melania to participate. They went on the moving staircase.
-
-Suddenly the moving staircase stood up. Melania heels stumbled because he was wearing sandals. Then the two walked on the moving stairs.
-
-This problem is currently erupting. The White House said the matter should be investigated.
-
-Its spokesman Caroline Lewit X posted on the web site page:-
-
-Are the UN employees deliberately involved in this act? Investigate. They should be fired and investigated immediately.
-
-When Trump says about this, Melania does not fall down. We are now strong.
-
-At this point, when President Trump addressed the UN meeting, he lost the act of Tele Pampor.. In spite of being he continued to speak. This too is currently causing controversy.
-
-◼️
-
-[Data](articles/9919a6fa.json)
-
-[Extended Data](ext_articles/9919a6fa.ext.json)
-
----
-
-### Hurricane Hurricane in Taiwan 124 people magic
-
-*2025-09-24 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
-
-Hurricane Hallian, a popular tourist center, Taiwan's popular tourist destination, killed 14 people.
-
-The fire department said on Wednesday that 124 people were missing when the city was flooded with water in the hills and flooded the city due to heavy rains during the hurricane.
-
-The cyclone, which has hit Taiwan since Monday, has now attacked China's southern coast and Hong Kong, the Asian financial center.
-
-The barrier caused by heavy rains in the east has been flooded in the city of Guangfu on Tuesday afternoon.
-
-Fire officials said that all the deceased and the disappeared were in Guangfu, where a large road bridge across a river was flooded.
-
-Wang Se-Ann said that the entire village of Dama, where about 1,000 people live in Townshouse, are flooded and many are still trapped.
-
-◼️
-
-[Data](articles/99cefd04.json)
-
-[Extended Data](ext_articles/99cefd04.ext.json)
 
 ---

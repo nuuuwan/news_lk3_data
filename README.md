@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 17:42:33**
+As of **2025-09-24 17:59:12**
 
 ## Newspaper Stats
 
-*Scraped **77,891** Articles*
+*Scraped **77,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,573
 adaderanalk | 10,096
-tamilmirrorlk | 11,744
+tamilmirrorlk | 11,745
 virakesarilk | 12,668
-adaderanasinhalalk | 13,613
+adaderanasinhalalk | 13,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,891 (100.0%) of 77,891 articles have been extended.
+77,891 (100.0%) of 77,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### පළමු සහ 06 ශ්‍රේණි සිසුන්ට අවශ්‍ය මොඩියුලර් මුද්‍රණය කිරීම අරඹයි
+
+*2025-09-24 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214967) · `si`
+
+මොඩියුලර් සඳහා 2026 වර්ෂයේ 1 සහ 6 ශ්‍රේණියේ පාසල් ගුරු පුහුණු වැඩසටහන් නොවැම්බර් මස අග දී අවසන් කිරීමට සැලසුම් කර ඇති බව අධ්‍යාපන අමාත්‍යාංශ ලේකම් නාලක කලුවැව මහතා පැවසී ය.
+
+ඒ මහතා මේ බව පැවසූවේ පාර්ලිමේන්තුවේ නව අධ්‍යාපන ප්‍රතිසංස්කරණවල වර්තමාන ප්‍රගතිය පිළිබඳ ව සිදුකරන ලද සාකච්ඡාවක් අතරතුර දීය.
+
+ඔහු වැඩිදුරටත් ප්‍රකාශ කර සිටියේ මේ වන විට පුහුණුකරුවන් පුහුණු කිරිමේ TOT (Trainer of Trainer) වැඩසටහන  80%ක් පමණ අවසන් කර ඇති බවත් ඉතිරි පිරිස් මේ වන විට මහරගම ජාතික අධ්‍යාපන ආයතනයේ පුහුණුව ලබමින් සිටින බවත් ය.
+
+සියලු පළාත් ආවරණය වන පරිදි ගුරුවරුන් පුහුණු කිරීම සඳහා මෙම පුහුණු කණ්ඩායම් න්‍යායාත්මකව සහ ප්‍රායෝගිකව බිහි කිරීම මෙම වැඩසටහන මගින් කරන බව ද හෙතෙම පැවසී ය.
+
+මෙලෙස පුහුණුව ලැබූ පුහුණුකරුවන් විසින් කලාප මට්ටමින් සහ කොට්ඨාස මට්ටමින් ගුරුවරුන් පුහුණු කිරීමේ කටයුතු ‍ඉදිරියේ දී නොවැම්බර් මස වන විට අවසන් කිරීමට නියමිත අතර, පළමු ශ්‍රේණියේ සහ 06 ශ්‍රේණියේ සිසුන්ට අවශ්‍ය මොඩියුලර් මුද්‍රණය කිරීමේ කටයුතු මේ වන විට ආරම්භ කර ඇති බව ද අධ්‍යාපන අමාත්‍යාංශ ලේකම්වරයා මෙහි දී වැඩි දුරටත් පැවසී ය.
+
+◼️
+
+[Data](articles/77c55dd8.json)
+
+---
+
+### ஜனாதிபதி - தென்னாப்பிரிக்க ஜனாதிபதிக்கு இடையில் சந்திப்பு
+
+*2025-09-24 17:20:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தென்னாப்பிரிக்க-ஜனாதிபதிக்கு-இடையில்-சந்திப்பு/175-365219) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்து கொள்வதற்காக அமெரிக்காவிற்கு விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் தென்னாப்பிரிக்க ஜனாதிபதி சிரில் ரமபோசாவுக்கு (Cyril Ramaphosa) இடையிலான சந்திப்பு நியூயோர்க் நகரில் ONE Plaza வில் (23) பிற்பகல் (அமெரிக்க நேரப்படி ) இடம்பெற்றது.
+
+இங்கு, தென்னாபிரிக்க ஜனாதிபதியினால், ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு அமோகமாக வரவேற்பளிக்கப்பட்டது. அதனைத் தொடர்ந்து  இரு நாடுகளுக்கும் இடையிலான இருதரப்பு  கலந்துரையாடல் ஆரம்பமானதோடு   இருநாடுகளுக்கும் இடையிலான உறவுகளை மேலும் பலப்படுத்துவது குறித்து இதன் போது கவனம் செலுத்தப்பட்டது.
+
+வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தர பிரதிநிதி, முன்னாள் பிரதம நீதியரசர் ஜனாதிபதி சட்டத்தரணி  ஜயந்த ஜெயசூரிய மற்றும் வெளிநாட்டலுவல்கள் அமைச்சின்  சிரேஸ்ட அதிகாரிகள்  இந்த நிகழ்வில் இணைந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/2102e3db.json)
+
+---
+
+### විදෙස්ගත ශ්‍රමිකයෙකුගේ මරණයකදී ගෙවන වන්දිය ඉහළට
+
+*2025-09-24 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214966) · `si`
+
+විදේශ රැකියාවක නිරත ශ්‍රමිකයෙකු රැකියාව අතරතුරදී මරමුවට පත්වුවහොත් ඒ සඳහා ගෙවනු ලැබූ රක්ෂණ වන්දිය රුපියල් ලක්ෂ 20ක් දක්වා ඉහළ නංවා තිබේ.
+
+එම කාර්යාංශයේදී අද (24) පැවති විශේෂ මාධ්‍ය සාකච්ඡාවකදී ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා මේ බව පැවසීය.
+
+විදේශ රැකියාවකදී සිදුවන මරණයක් මේ දක්වා ගෙවනු ලැබුවේ ලක්ෂ 6ක රක්ෂණ වන්දියක් වන අතර, එම මුදලට ලක්ෂ 14ක් එක්කර මෙලෙස ලක්ෂ 20ක වන්දිය ලබාදෙන බව වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
+
+මේ අතර විදේශ ගත ශ්‍රමිකයින්ගේ මෙරට සිටින සැමියාට හෝ බිරිඳට ව්‍යාපාරයක් ආරම්භ කිරිමේ ණය යෝජනා ක්‍රමයක්ද එම කාර්යාංශය ආරම්භ කර ඇත.
+
+ඊට අමතරව විදෙස්ගත ශ්‍රමිකයින්ගේ දරුවන්ට ලබාදෙන ශිෂ්‍යත්ව මුදල් ඉහළ නැංවීමටත්, උසස් අධ්‍යාපනය ලබන දරුවන්ට ලැප්ටොප් පරිගණක ලබාදීමත් තීරණය කර තිබේ.
+
+මෙම වසරේ අගෝස්තු වනවිට අමෙරිකානු ඩොලර් බිලියන 5.1ක ප්‍රේෂණ විදෙස්ගත ශ්‍රමිකයින් විසින් මෙරටට ඒ ඇති අතර, එය මෙම වසර අවසන් වනවිට අමෙරිකානු ඩොලර් බිලියන 7.2ක් දක්වා ඉහළ යනු ඇතැයි කෝශල වික්‍රමසිංහ මහතා පැවසීය.
+
+...
+
+[Data](articles/d0e34841.json)
+
+---
 
 ### CID suspects the strike temporarily suspended
 
@@ -2033,67 +2091,5 @@ The Chairman of the President Kosala Abeysinghe said that all professional socie
 [Data](articles/e98a3012.json)
 
 [Extended Data](ext_articles/e98a3012.ext.json)
-
----
-
-### ICC decides to suspend USAC membership with immediate effect
-
-*2025-09-24 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214934) · `si`
-
-The International Cricket Council has decided to suspend the United States National SLC to suspend the United States National Cricket.
-
-It is reported that the decision has been taken as a ICA cricket as an ICA cricket as a ICA.
-
-The decision was taken after a meeting held at the International Cricket Council yesterday.
-
-The suspension of USAC is not affected by the T20 World Cup or 2028 Los Angeles Olympic Games.
-
-At the ICC Annual General Meeting in July, USAC had been given three months to hold "Free and Fair and Fair Elections".
-
-The International Cricket Council warned the USAC that he had the right to take any action that is considered appropriate based on the progress of the reforms.
-
-◼️
-
-[Data](articles/2aecf3c1.json)
-
-[Extended Data](ext_articles/2aecf3c1.ext.json)
-
----
-
-### University students demonstrate in Colombo
-
-*2025-09-24 06:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225910) · `ta`
-
-A demonstration was held in Colombo on Tuesday (24) by university students. This protest demonstration caused heavy traffic congestion between Narahenpita and Borelle. Students who protested expressed their opposition to Baseline Road.
-
-Travelers faced great convenience due to the traffic norm caused by the protesters.. The demonstration was carried out demanding clear qualifications for degrees and the simple recruitment process for graduates.
-
-It is noteworthy that although the efforts of the Minister of Education Harini Amarasuriya on their issues, the demonstration was launched, but it was not successful.
-
-◼️
-
-[Data](articles/25d5a34a.json)
-
-[Extended Data](ext_articles/25d5a34a.ext.json)
-
----
-
-### Provincial Council Election delay: India should intervene - Tamil National Party
-
-*2025-09-24 06:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225909) · `ta`
-
-The election for provincial councils cannot be accepted that the delayed delay. The government, which has a two -thirds majority, must make legal amendments and immediately hold elections. Members of the Sri Lanka Tamil National Alliance (TNA) parliamentarians jointly urged India to put pressure on India.
-
-In addition, the government has also condemned the government's position that the Indian government has been donated $ 63 million to develop the Kankesanthurai port, which cannot be operated as a commercial sector.
-
-Sivagnanam Sridharan, Rasamanikam Chanakyan, Dr. Sathiyalingam, Durairasa Ravikaran, Shanmugam Kukadasan and Dr. Srinath were also present.
-
-During the meeting, parliamentarians expressed their gratitude for India's gratitude for the 60th session of the United Nations Human Rights Council (UNHRC) and that the provincial councils in Sri Lanka should be held and the power should be shared and the power should be shared.
-
-...
-
-[Data](articles/cfcaa45b.json)
-
-[Extended Data](ext_articles/cfcaa45b.ext.json)
 
 ---

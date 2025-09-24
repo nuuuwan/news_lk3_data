@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 07:05:47**
+As of **2025-09-24 08:49:10**
 
 ## Newspaper Stats
 
-*Scraped **77,783** Articles*
+*Scraped **77,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,395 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,557
-adaderanalk | 10,082
+adalk | 7,558
+adaderanalk | 10,087
 tamilmirrorlk | 11,713
-virakesarilk | 12,652
-adaderanasinhalalk | 13,584
+virakesarilk | 12,660
+adaderanasinhalalk | 13,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,782 (100.0%) of 77,783 articles have been extended.
+77,802 (100.0%) of 77,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### A warning to Trump to Russia in front of world leaders
+
+*2025-09-24 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214938) · `si`
+
+US President Donald Trump has warned Russia that Russia is ready to take strong economic measures to end the war in Ukraine.
+
+The US President is addressing the United Nations General Assembly.
+
+In addition to the speech of the American President, the global steps were condemned to accept a Palestinian state.
+
+Meanwhile, the world leaders said they had to give up their efforts to fight climate change, and he was called "the world's largest fraud."
+
+The Trump complained that the Trump who pretends to end the conflict in the world where the Nobel Peace Prize is not supported by the United Nations.
+
+He said he and First Lady Melaniah Trump was a short period of an electrical lift in the United Nations.
+
+At the same time, he has tried to solve several conflicts in the world, but only limited success.
+
+◼️
+
+[Data](articles/69c79b25.json)
+
+[Extended Data](ext_articles/69c79b25.ext.json)
+
+---
+
+### International Cricket Council interim ban on US Cricket Council
+
+*2025-09-24 07:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/225916) · `ta`
+
+The International Cricket Council has decided to suspend the US Cricket Board from a member of the member position on the basis of violating the rules.
+
+The decision was taken as the US Cricket Board repeatedly and continued to violate its duties as a member of the ICC under the Constitution of the International Cricket Council.
+
+US Cricket Board's suspension of the US national team will not have trouble participating in the R20 World Cup in India and Sri Lanka in February or 2028 Los Angeles Olympic Games
+
+At the ICC's general meeting in July, the US cricket team has been given three months to hold “independent and fair elections” and “extensive” administrative reforms.
+
+◼️
+
+[Data](articles/bbabf2f6.json)
+
+[Extended Data](ext_articles/bbabf2f6.ext.json)
+
+---
+
+### CBSL decides to keep policy rate unchanged
+
+*2025-09-24 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112847/cbsl-decides-to-keep-policy-rate-unchanged-) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has decided to maintain the Overnight Policy Rate (OPR) at 7.75%, following its latest Monetary Policy Board meeting held yesterday (23).
+
+The decision comes as the Board assessed both domestic and global conditions, noting that the current policy stance remains consistent with steering inflation towards the 5% target, the CBSL said.
+
+Headline inflation based on the Colombo Consumer Price Index (CCPI) turned positive in August 2025, ending eleven months of deflation. Inflation is projected to gradually increase towards the target of 5% by mid-2026.
+
+Reflecting strengthening domestic demand, core inflation is also expected to pickup, and stabilise thereafter around the headline inflation target. Medium term inflation expectations remain anchored around the inflation target, it said.
+
+...
+
+[Data](articles/4a607a97.json)
+
+[Extended Data](ext_articles/4a607a97.ext.json)
+
+---
+
+### There is no difference in the financial policy
+
+*2025-09-24 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214937) · `si`
+
+The Central Bank of Sri Lanka (CBSL) has decided to maintain non-proceeds in the Monetary Policy Board meeting yesterday (23).
+
+Accordingly, the Central Bank of Sri Lanka (ODI) will remain at 7.75 percent at the level of 7.75 percent.
+
+The Monetary Policy Board has come to this decision after local and global trends were severely considered.
+
+The Board's view that the current monetary policy stance will help to lead inflation to a 5% target.
+
+◼️
+
+[Data](articles/841409b0.json)
+
+[Extended Data](ext_articles/841409b0.ext.json)
+
+---
+
+### CEB workers’ to continue work-to-rule campaign until midnight today
+
+*2025-09-24 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112846/ceb-workers-to-continue-work-to-rule-campaign-until-midnight-today) · `en`
+
+The Ceylon Electricity Board (CEB) Technicians’ Union announced that the ongoing ‘work-to-rule’ trade union action will continue as scheduled until midnight today (24).
+
+Union Chairman Kosala Abeysinghe stated that all trade unions affiliated with the CEB will meet this afternoon to make a collective decision on the next course of action regarding future trade union activities.
+
+◼️
+
+[Data](articles/bd6db966.json)
+
+[Extended Data](ext_articles/bd6db966.ext.json)
+
+---
+
+### Govt to establish policies ensuring communities can live without hindrance – PM
+
+*2025-09-24 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112845/govt-to-establish-policies-ensuring-communities-can-live-without-hindrance-pm) · `en`
+
+The Prime Minister, Dr. Harini Amarasuriya, stated that it is the government’s aim to establish policies in a way that enables every community to carry on their cultural, personal, and political lives without any hindrance.
+
+The Prime Minister made these remarks while addressing the National Sign Language Day celebrations held under the theme “No Human Rights Without Sign Language Rights” yesterday (23) at Suhurupaya, Battaramulla, according to the Prime Minister’s Media Division.
+
+“The primary aim of the government is to build an inclusive society based on equality, without leaving anyone behind.
+
+The government takes the initiative in establishing and implementing policies to facilitate every community to live according to their culture, family life, and political lives without any obstruction.
+
+...
+
+[Data](articles/5a3be642.json)
+
+[Extended Data](ext_articles/5a3be642.ext.json)
+
+---
+
+### Several fatal accidents - four killed in school girl
+
+*2025-09-24 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214936) · `si`
+
+Four persons including a school girl and four others were killed in four areas.
+
+The accidents have been reported from Tissamaharama, Wennappuwa, Mirigama and Kalpitiya Police Divisions yesterday.
+
+DS Road in Mirigama Police Pasyala Giriulla road. At the junction, a motorbike was a danger to the postboard vehicle, collapsed in the motorcycle.
+
+The motorcyclist has been seriously injured and died on admission to the Mirigama hospital.
+
+The deceased has been identified as a 17 year old schoolgirl residing in Nittambuwa, Nittambuwa.
+
+Meanwhile, the motorcyclist collided with a power traffic in the Paranamuwa road in the Paranamuwa area in the Paranamuwa area in the Paranamuwa area in the Paranamuwa area.
+
+The victim is a 28 year old resident of Weerawila, Panganagamuwa.
+
+Meanwhile, restoring a motorcycle in the Dummaladeniya area in the Wennappuwa police division in the Colombo-Puttalam main road was collided with a wooden lorry.
+
+...
+
+[Data](articles/2c1126a0.json)
+
+[Extended Data](ext_articles/2c1126a0.ext.json)
+
+---
+
+### Indian Navy Commander met Prime Minister
+
+*2025-09-24 07:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/225915) · `ta`
+
+The Indian Navy Commander, ADMIral Dinesh K Tripathi, who visited Sri Lanka on September 21, 2025, met Prime Minister Harini Amarasuriya at the Parliamentary Complex on Tuesday (23).
+
+The official meeting, which was held between the Commander of the Indian Navy and the Prime Minister Dr. Harini Amarasuriya, discussed a number of important issues on the two sides, including improving security cooperation between the two countries and strengthening long -term friendship.
+
+In addition, emphasizing the importance of working with a joint approach to face challenges, including maritime security and regional security, illegal drug trafficking and illegal fishing activities.. In addition, the Government of India has also focused on providing training opportunities to the Naval Officers in this country.
+
+Indian Navy Chief ADMIral Dinesh K Tripathi is returning to the country on September 25, 2025, after attending the International Maritime Conference of the Sri Lanka Navy for the 12th time.
+
+...
+
+[Data](articles/932ec3c1.json)
+
+[Extended Data](ext_articles/932ec3c1.ext.json)
+
+---
+
+### Youth killed in electricity
+
+*2025-09-24 07:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/225914) · `ta`
+
+A youth dies after a young man in Jaffna. Vishnuraj Yadurman (age 21), a youth from Mata Temple Road, Uduvil, Chunnakam, has died.
+
+The young man had an iron on Tuesday morning 23rd. He was killed when he was hit by electricity due to a power outage.
+
+His body was then taken to the Tellippal Resource Hospital. A sudden death investigator of the body. The witnesses were regulated by the Chunnakam police.
+
+◼️
+
+[Data](articles/3a825e02.json)
+
+[Extended Data](ext_articles/3a825e02.ext.json)
+
+---
+
+### New flight between Israel and Sri Lanka
+
+*2025-09-24 07:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/225913) · `ta`
+
+Sri Lankan Ambassador to Israel Nimal Bandara has stated that a new aircraft owned by Israel's Erica Airlines will arrive at the Katunayake airport.
+
+He made a report on his official face book on Tuesday (23) regarding the new flight from Israel to Katunayake.
+
+The aircraft, which is owned by Israel's Erica Airlines (IZ) - 639, will be traveling from Del Aviv Airport to Colombo Katunayake Airport at 6.30 pm today.. Accordingly, the flight will arrive at the country at 6.15 am on Wednesday.
+
+The aircraft is due to arrive in Colombo via Seychelles as Israeli planes have been banned from traveling on Oman and Maldives's air surfaces.. Then back to Tel Aviv's departure. The trip can take about 9.15 hours.  The flight, which will be traveling from the Katunayake airport on Wednesday (24) at 22.30 pm, will arrive at the Tel Aviv airport at 5.30 am the next morning.
+
+He said the flight service would be implemented once a week, with the main purpose of visiting Israeli tourists.
+
+◼️
+
+[Data](articles/92105611.json)
+
+[Extended Data](ext_articles/92105611.ext.json)
+
+---
+
+### A car collided with a train in Waskaduwa area; Two people injured
+
+*2025-09-24 07:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/225912) · `ta`
+
+Two people were injured when a car crashed into a train accident on Tuesday (23) in Waskaduwa area in Kalutara.
+
+A car crashed into a train traveling from Maradana to Kalutara on Tuesday (23). Two passengers in the car have been admitted to hospital with injuries.
+
+The car driver has not taken care of the car driver, but the train crashed into the train.. The car was severely damaged and the two men who were trapped in the vehicle have been rescued after a great deal of effort.. Meanwhile, the Kalutara Northern Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/c1f475bf.json)
+
+[Extended Data](ext_articles/c1f475bf.ext.json)
+
+---
+
+### Patient accommodation shortage at Mullaitivu Hospital; Fourth Patient Hostel
+
+*2025-09-24 07:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225911) · `ta`
+
+Vannimavatta MP Durairasa Ravikaran also questioned the setting up of the patient's hostels at the Mullaitivu District General Hospital.
+
+Health Minister Nalinda Jayadissa has responded that it has been decided to build a four -storey patient hostel complex at the Mullaitivu District General Hospital and a contract with India will be signed soon.
+
+The Minister responded to the question as Parliamentarian Ravikaran raised the question during the query on Tuesday (23) in Parliament.
+
+District General Hospitals in Sri Lanka are the Mannar and Mullaitivu District General Hospitals in Vanni where I live.
+
+It is a matter of government that has been filled with the beds of the district, which is overflowing with the mattresses on the roads.. As in other districts, he questioned whether the permanent patient for our district would be the greatest principle for the medication.
+
+...
+
+[Data](articles/58d93703.json)
+
+[Extended Data](ext_articles/58d93703.ext.json)
+
+---
+
+### අකුරට වැඩකිරීමේ විදුලි සේවක වෘත්තීය ක්‍රියාමාර්ගය තවත් දැඩි වෙයි
+
+*2025-09-24 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214935) · `si`
+
+The Ceylon Electrician Crafts Association of the Electriciancies (24) will be implemented today (24), according to the CEB, according to the CEB.
+
+The Chairman of the President Kosala Abeysinghe said that all professional societies will take a final decision on trade union measures this afternoon.
+
+◼️
+
+[Data](articles/e98a3012.json)
+
+[Extended Data](ext_articles/e98a3012.ext.json)
+
+---
+
+### ICC decides to suspend USAC membership with immediate effect
+
+*2025-09-24 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214934) · `si`
+
+The International Cricket Council has decided to suspend the United States National SLC to suspend the United States National Cricket.
+
+It is reported that the decision has been taken as a ICA cricket as an ICA cricket as a ICA.
+
+The decision was taken after a meeting held at the International Cricket Council yesterday.
+
+The suspension of USAC is not affected by the T20 World Cup or 2028 Los Angeles Olympic Games.
+
+At the ICC Annual General Meeting in July, USAC had been given three months to hold "Free and Fair and Fair Elections".
+
+The International Cricket Council warned the USAC that he had the right to take any action that is considered appropriate based on the progress of the reforms.
+
+◼️
+
+[Data](articles/2aecf3c1.json)
+
+[Extended Data](ext_articles/2aecf3c1.ext.json)
+
+---
+
+### University students demonstrate in Colombo
+
+*2025-09-24 06:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/225910) · `ta`
+
+A demonstration was held in Colombo on Tuesday (24) by university students. This protest demonstration caused heavy traffic congestion between Narahenpita and Borelle. Students who protested expressed their opposition to Baseline Road.
+
+Travelers faced great convenience due to the traffic norm caused by the protesters.. The demonstration was carried out demanding clear qualifications for degrees and the simple recruitment process for graduates.
+
+It is noteworthy that although the efforts of the Minister of Education Harini Amarasuriya on their issues, the demonstration was launched, but it was not successful.
+
+◼️
+
+[Data](articles/25d5a34a.json)
+
+[Extended Data](ext_articles/25d5a34a.ext.json)
+
+---
+
+### Provincial Council Election delay: India should intervene - Tamil National Party
+
+*2025-09-24 06:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/225909) · `ta`
+
+The election for provincial councils cannot be accepted that the delayed delay. The government, which has a two -thirds majority, must make legal amendments and immediately hold elections. Members of the Sri Lanka Tamil National Alliance (TNA) parliamentarians jointly urged India to put pressure on India.
+
+In addition, the government has also condemned the government's position that the Indian government has been donated $ 63 million to develop the Kankesanthurai port, which cannot be operated as a commercial sector.
+
+Sivagnanam Sridharan, Rasamanikam Chanakyan, Dr. Sathiyalingam, Durairasa Ravikaran, Shanmugam Kukadasan and Dr. Srinath were also present.
+
+During the meeting, parliamentarians expressed their gratitude for India's gratitude for the 60th session of the United Nations Human Rights Council (UNHRC) and that the provincial councils in Sri Lanka should be held and the power should be shared and the power should be shared.
+
+...
+
+[Data](articles/cfcaa45b.json)
+
+[Extended Data](ext_articles/cfcaa45b.ext.json)
+
+---
+
+### Ryan Routh found guilty in Trump golf course assassination attempt
+
+*2025-09-24 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112843/ryan-routh-found-guilty-in-trump-golf-course-assassination-attempt) · `en`
+
+The trial of Ryan Wesley Routh came to a dramatic end Tuesday when he tried to stab himself in the neck with a pen after a Florida jury found him guilty of attempting to assassinate Donald Trump last year on a golf course.
+
+“Dad, don’t hurt yourself,” Routh’s daughter, Sara, screamed as the bailiffs struggled to restrain Routh and rushed him out of the courtroom.
+
+A short time later, Routh was returned to the courtroom to complete the proceedings. This time, he was wearing handcuffs, but there was no blood visible on his white shirt, and he did not appear to have succeeded in harming himself.
+
+“We love you, Dad,” Routh’s son, Adam, said after he was escorted out of the courtroom again.
+
+Routh appeared to wink at his kids as he was being led away.
+
+It took the jury just 2½ hours of deliberating to also find Routh guilty of assaulting the Secret Service agent who rousted him from his hiding place and guilty of three federal gun charges stemming from the Sept. 15, 2024, incident.
+
+...
+
+[Data](articles/c1350175.json)
+
+[Extended Data](ext_articles/c1350175.ext.json)
+
+---
+
+### Fairly heavy rainfall expected in parts of the island today
+
+*2025-09-24 06:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112842/fairly-heavy-rainfall-expected-in-parts-of-the-island-today) · `en`
+
+The Department of Meteorology said that showers will occur at times in the Western, Sabaragamuwa, and North-Western provinces, and in the Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+Fairly heavy falls of above 50 mm are likely in some places, the Department stated.
+
+Showers or thundershowers are likely at a few places in the Uva Province and in the Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills, and in the Central, Northern, North-Central, and North-Western provinces, as well as in the Trincomalee and Hambantota districts, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/e0397af1.json)
+
+[Extended Data](ext_articles/e0397af1.ext.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -54,21 +428,45 @@ The Department of Meteorology has requested the public to take action to reduce 
 
 ---
 
-### முதியோர் தொகை அதிகரிக்கும்
+### Pakistan will allow Sri Lanka to continue
+
+*2025-09-24 05:18:32* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-ඉදිරියට-යාමට-ඇති-ඉඩ-පාකිස්තානය-අහුරයි/9-418683) · `si`
+
+Pakistan won the five wickets in a crop to compete in the final match of the Asia Cup.
+
+Accordingly, both of the matches of the Superstone of the Superstance are more likely to leave the tournament.
+
+Sri Lanka remains to be held with India. Indian team continues to be screened in the tournament. Bangladesh and Pakistan are winning.
+
+Sri Lanka scored 133 runs for the loss of 8 wickets. In reply, Pakistan won 138 runs in 18 overs and scored 138 runs.
+
+◼️
+
+[Data](articles/f80b8490.json)
+
+[Extended Data](ext_articles/f80b8490.ext.json)
+
+---
+
+### Increase the amount of the elderly
 
 *2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-தொகை-அதிகரிக்கும்/175-365173) · `ta`
 
-இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் மற்றும் தேசிய கொள்கைக்காக 2006 ஆம் ஆண்டில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
 
-மாறிவரும் போக்குகளுக்கமைய, இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் காலத்தோடு தழுவியதாக இற்றைப்படுத்தப்பட வேண்டுமென அடையாளங் காணப்பட்டுள்ளது.
+According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
 
-அத்துடன், 2052ஆம் ஆண்டில் 60 வயதுக்கு மேற்பட்ட சனத்தொகை 24.8 சதவீதம் வரை அதிகரிக்குமென ஐக்கிய நாடுகள் சபையின் பொருளாதார மற்றும் சமூக அலகால் எதிர்வு கூறப்பட்டுள்ளமையால், முதியோர்களின் நலனோம்புகை மற்றும் உரிமைகளை மேம்படுத்துதல் மற்றும் பாதுகாத்தல் அவசியமென அடையாளங் காணப்பட்டுள்ளது.
+In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
 
-அதற்கமைய, அரச தேசிய கொள்கை வேலைச் சட்டகமான 'மதிப்புமிகுந்த சிரேஷ்ட பிரஜை, அர்த்தமுள்ள இளைப்பாறிய வாழ்வு' தொனிப்பொருளுக்கமைய, முதியோருக்கு சமூக ரீதியான, பொருளாதார ரீதியான, உடலியல் மற்றும் ஆன்மீக ரீதியான திருப்திகரமான வாழ்வுக்காக வசதிகளை வழங்குவதற்கு இயலுமாகும் வகையில் 'இலங்கையின் முதியோருக்கான தேசிய கொள்கை' தயாரிக்கப்பட்டுள்ளது.
+Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
 
-...
+The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Relief.
+
+◼️
 
 [Data](articles/3a4fbc16.json)
+
+[Extended Data](ext_articles/3a4fbc16.ext.json)
 
 ---
 
@@ -1653,399 +2051,5 @@ Commenting on the positive results, Mangala Wijesinghe, Chairman and Chief Execu
 [Data](articles/a20a154a.json)
 
 [Extended Data](ext_articles/a20a154a.ext.json)
-
----
-
-### Sri Lanka positioned as a unique hub for international business events - PM Harini
-
-*2025-09-23 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112833/sri-lanka-positioned-as-a-unique-hub-for-international-business-events-pm-harini) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that “SRI LANKA MICE EXPO 2025” is a great opportunity to engage in business activities at the international level but also a valuable platform to bring the name of Sri Lanka onto the global stage.
-
-The Prime Minister made these remarks while participating in the inauguration ceremony of the “SRI LANKA MICE EXPO 2025” exhibition organized by the Sri Lanka Convention Bureau (SLCB) under the Ministry of Foreign Affairs, Foreign Employment, and Tourism held today (23) at Cinnamon Life Hotel in Colombo, the PM’s Office said.
-
-This exhibition is scheduled to be held for five days with the participation of 100 representatives from 30 countries.
-
-...
-
-[Data](articles/36bd1cd1.json)
-
-[Extended Data](ext_articles/36bd1cd1.ext.json)
-
----
-
-### Two persons arrested with drugs worth 50 million rupees at Katunayake airport
-
-*2025-09-23 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225834) · `ta`
-
-Two persons have been arrested for allegedly trying to leave the "Green Channel" with a Kush drug package worth more than 50 million rupees from the Katunayake International Airport.
-
-They have been arrested this morning by a group of officials of the Customs Drug Control Unit.
-
-A 29 -year -old woman from Colombo and a 48 -year -old woman in Chennai, India, have been arrested.
-
-They bought the package in Thailand - Bangkok and brought it to New Delhi, India, and then brought to Katunayake airport by Air India AI -277 at 6.50 am.
-
-5 kilograms of 92 grams of kush in 5 packs have been seized.
-
-The arrested persons have been handed over to the Katunayake Airport Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/5b655833.json)
-
-[Extended Data](ext_articles/5b655833.ext.json)
-
----
-
-### New digital site to access public services!
-
-*2025-09-23 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/225851) · `ta`
-
-Through the same digital site, the Cabinet has allowed the public to create a 'state super processor' aimed at accessing public services to the public.
-
-The current classified system forces users to re -enter the data in different methods, including multiple authentication processes and engage with different fields.
-
-Evaluations indicate that this ineffectiveness causes more than 500 million rupees of economic loss per year.
-
-◼️
-
-[Data](articles/1f407763.json)
-
-[Extended Data](ext_articles/1f407763.ext.json)
-
----
-
-### Monthly allowance to street boys
-
-*2025-09-23 16:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதியோரச்-சிறுவர்களுக்கு-மாதாந்தம்-கொடுப்பனவு/175-365138) · `ta`
-
-At the Cabinet meeting held on 2025.06.16 to implement a program of paying a per month of Rs.
-
-Accordingly, the payments of the program named 'Meaning' have begun in July 2025.
-
-It has been found that 1,000 million rupees allocated to the 'Meaning' program in 2025 is capable of making implementation from January 2025 to the benefit of the children.
-
-அதற்கமைய,'அர்த்தம்' வேலைத்திட்டத்தின் கொடுப்பனவுகளுக்கான உரித்து ஆரம்பிக்கின்ற திகதி 2025.01.01 எனக் கருத்தில் கொள்வதற்கும், அன்று தொடக்கம் உரித்தான நிலுவையைச் பயன்பெறும் பிள்ளைகளின் கணக்கில் வைப்பிலிடுவதற்கும், மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர்  சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-◼️
-
-[Data](articles/1e6ea2b6.json)
-
-[Extended Data](ext_articles/1e6ea2b6.ext.json)
-
----
-
-### Sri Lanka and the EU signed a subsidy agreement to improve economic growth
-
-*2025-09-23 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/225861) · `ta`
-
-The government today (23) signed a subsidy agreement with the European Union to launch a new initiative aimed at improving sustainable economic growth through advanced biodiversity security and solid waste management.
-
-The 8 million euro subsidy provided by the EU is expected to support a jointly developed plan by the Public Administration, Provincial Councils and Local Government, the Ministry of Environment and the European Union.
-
-This effort is expected to support biodiversity protection by restoring environmental systems, implementing target security strategies and promoting standard land use procedures.
-
-The Ministry of Finance, Planning and Economic Development said it would also address the growing demand for effective sewage management organizations that contribute to both environmental protection and public health.
-
-According to the report, the project is the government's national policy statement, the "Growing Nation - Beautiful Life" (A Thriving Nation - a Beautiful Life).
-
-...
-
-[Data](articles/8566431f.json)
-
-[Extended Data](ext_articles/8566431f.ext.json)
-
----
-
-### “You are talking like crazy”
-
-*2025-09-23 15:59:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைத்தியம்-போல்-பேசுகிறாய்/175-365137) · `ta`
-
-Parliamentarian Ramanathan Archana got into an argument with the police after he was asked to remove his car that was illegally parked near the Fort Railway Station.
-
-Before leaving the scene yesterday (22), the scenes show that the Member of Parliament tells a police officer, "You speak like a fool."
-
-For the 13th consecutive day, Archana had come to support the Satyagraha organized by the affected education development officials who were protesting in front of the railway station.
-
-◼️
-
-[Data](articles/aa8d0bfb.json)
-
-[Extended Data](ext_articles/aa8d0bfb.ext.json)
-
----
-
-### Sri Lanka services exports fall 6.8-pct in August
-
-*2025-09-23 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-fall-6-8-pct-in-august-241652/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s services exports fell 6.82 percent from a year ago to 312.75 million US dollars in August 2025, led by decline in transport and logistics, the island’s Export Development Board said.
-
-However, over the first eight months of the year, services exports are estimated to have increased 5.57 percent, totaling 2,221.63 million dollars.
-
-ICT/BPM exports rose 6.43 percent to 147 million US dollars in August 2025 compared to the same month in 2024, and construction fell 28.24 percent to 9.71 million US dollars.
-
-Financial services edged up 51 percent to a small volume of 3.59 million US dollars.
-
-Transport and logistics declined 1606 percent to 152.46 million US dollars.
-
-Up to August total exports of goods and services were 11,554.32 million US dollars, 6.61 percent higher than 10,837.97 million in the same period in the previous year. (Colombo/September 23/2025)
-
-◼️
-
-[Data](articles/23c25e2d.json)
-
-[Extended Data](ext_articles/23c25e2d.ext.json)
-
----
-
-### Indian Navy Chief pushes for stronger defence ties with Sri Lanka
-
-*2025-09-23 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112832/indian-navy-chief-pushes-for-stronger-defence-ties-with-sri-lanka) · `en`
-
-Chief of the Naval Staff of India Admiral Dinesh K Tripathi on Monday laid a wreath at the Indian Peace Keeping Force (IPKF) Memorial in Colombo, “honouring the courage and supreme sacrifice of Indian soldiers” who served during the IPKF operations, the Navy Spokesperson said.
-
-“The solemn ceremony was a tribute to the courage, valour & supreme sacrifice of Indian soldiers who served with honour during IPKF operations. It also reflected the shared history between India & Sri Lanka and the enduring bond forged through sacrifice.”
-
-“The wreath laying underscored India’s commitment to preserving peace, promoting regional harmony & strengthening the spirit of friendship with Sri Lanka and the wider Indian Ocean Region,” wrote the Indian Navy Spokesperson in an X post.
-
-During his ongoing four-day official visit to Sri Lanka, Admiral Tripathi also held a series of meetings with the top defence leadership of the island nation.
-
-...
-
-[Data](articles/cb9125c3.json)
-
-[Extended Data](ext_articles/cb9125c3.ext.json)
-
----
-
-### Petition against the Director General of the Bribery Commission
-
-*2025-09-23 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214913) · `si`
-
-The petition was resigned from the Supreme Court today (23) as the recommendation from the Constitutional Judge Rananga Dissanayake as the Director General of Bribery Commission.
-
-The petition was filed by the Chief Incumbent of the Udawalawe Soma Viharaya, Wewelduwawa Gnanaprabha Thero and several others.
-
-The petition was called before the Supreme Court Judge Sampantha and Sampath Abeykoon today.
-
-The lawyer appearing on behalf of the petitioner was informed of the court to resign the petition.
-
-Accordingly, the judge's panel of judges who were allowed to resign the petition later.
-
-◼️
-
-[Data](articles/65df17cf.json)
-
-[Extended Data](ext_articles/65df17cf.ext.json)
-
----
-
-### Sri Lanka stocks close up, driven by financials, banks and capital goods
-
-*2025-09-23 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-financials-banks-and-capital-goods-241646/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The All Share Price Index was up 0.26 percent, or 55.97 points, at 21,282. The S&P SL20 closed up 0.26 percent, or 16.01 points, at 6,073.
-
-Top contributors to the ASPI were Hayleys, LOLC Holdings (up 17.50 rupees at 582.25), Browns Investments (up 40 cents at 8.10 rupees), DIMO (up 178 rupees at 1,696.50), and Ceylon Cold Stores (up 4.50 rupees at 114.50).
-
-Most of this came from interest in diversified financials (Rs1.46), banks (Rs1.23bn), and capitals goods (Rs1.18bn).
-
-Top turnover generators were Browns Investments, LOLC Holdings, Vallibel One, Capital Alliance Holdings, and Commercial Bank.
-
-Top foreign buying was seen in DFCC Bank, Commercial Bank, ACL Cables, Lanka Milk Foods, Dialog Axiata, and MFPE Foods.
-
-Top foreign selling was seen in Ceylinco Holdings, John Keells Holdings, Capital Alliance Holdings, Sampath Bank, Ceylon Cold Stores, and Browns Investments.
-
-...
-
-[Data](articles/6c567579.json)
-
-[Extended Data](ext_articles/6c567579.ext.json)
-
----
-
-### 13 A bow of bows from the bells
-
-*2025-09-23 15:33:28* · [`adalk`](https://www.ada.lk/sports/13-හැවැරිදි-හසාරාගෙන්-දුනු-විදීමේ-වාර්තාවක්/9-418677) · `si`
-
-The 2025 National Bows Championship was held from 19th to the 21st to the 21st of the Boy of Maliyadeva Balika Vidyalaya, Kurunegala.
-
-Sri Lanka Army, Navy, Air Force, Air Force, Police and the Experienced Blood Training Clubs Islandwide. This unique victory she got is a preliminary step to take Sri Lankan bows to a new path.
-
-Not only her personal life but also a great respect for Maliyadeva Girls' College, Kurunegala and Total Bows.. This will be a precious step to bring new players, athletes to the top level.
-
-The encouragement of Trainers, Dharmasena, the inspiration of Started guidance and principals of Startup of Startup of Excellence will be shielded in a high level of gains, carrying her sports skills and internationally in international sports skills.
-
-◼️
-
-[Data](articles/6dc0e90a.json)
-
-[Extended Data](ext_articles/6dc0e90a.ext.json)
-
----
-
-### Lorry owner arrested for police detention in Tangalle
-
-*2025-09-23 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/225854) · `ta`
-
-The court has ordered the owner of the lorry to be detained in police custody until the 29th of this month.
-
-Malkisa Magistrate Basan Amarasena issued the order to allow Kalkis to investigate the owner of the suspect in the case of a drug finding.
-
-Police have found the lorry at a place where two men's bodies were recovered near a house in Tangalle.
-
-Following this, police Special Task Force officers arrested the suspect, allegedly owner of the lorry, 11 grams and 140 milligrams of heroin.
-
-As the suspect was produced before the Magistrate's Court today (23), the court ordered him to be detained in police detention.
-
-◼️
-
-[Data](articles/6c0f2944.json)
-
-[Extended Data](ext_articles/6c0f2944.ext.json)
-
----
-
-### Indian Navy Commander met security leaders
-
-*2025-09-23 15:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பாதுகாப்பு-தலைவர்களை-சந்தித்தார்/175-365135) · `ta`
-
-Indian Navy Commander Admiral Dinesh K. On Monday, Monday (22), Deputy Minister of Defense Aruna Jayasekera (Retired) and Defense Secretary Air Vice Marshall Sampath Purekonda (Retired) were in honor of the Defense Minister on various occasions.
-
-Admiral Tripathi met the Deputy Minister of Defense this morning at his office in Colombo. The Deputy Minister, who was warmly welcomed by him, engaged in a speech with him.
-
-During this time, ways to improve security diplomacy and cooperation between the two countries, humanitarian aid and disaster recovery, drug trafficking in the Indian Ocean region, human trafficking and other maritime crimes, illegal activities, enhancement and enhancement of training and skills development, enhancement and enhancement of the seas, enhanceing training and skills development. Discussions on matters.
-
-Following the meeting, the Indian Navy Commander who visited the Ministry of Defense in Sri Jayawardenapura this afternoon met with the Secretary of Defense.
-
-...
-
-[Data](articles/aceb3cd9.json)
-
-[Extended Data](ext_articles/aceb3cd9.ext.json)
-
----
-
-### Rs.. 5000 gives money with money
-
-*2025-09-23 15:19:10* · [`adalk`](https://www.ada.lk/breaking_news/වීදි-ළමුන්ට-දෙන-රු--5000-හිඟ-මුදලුත්-එක්කම-දෙයි/11-418676) · `si`
-
-Payment of Cost of Living Ones for Children and Children and Standards
-
-The Cabinet Meeting held on 16/06/2010 to implement a program.
-
-Accordingly, the benefits of the public designated program have been launched from July 2025. The above mentioned Rs.
-
-Accordingly, the date on which the benefits of the interpretation begins to be treated as 2025-01 days
-
-Cabinet approval has been granted to be decentralized to the children's accounts.
-
-◼️
-
-[Data](articles/2066a138.json)
-
-[Extended Data](ext_articles/2066a138.ext.json)
-
----
-
-### Euro 8 million between Sri Lanka and the European Union
-
-*2025-09-23 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214912) · `si`
-
-The Government of Sri Lanka has signed a new agreement with the European Union to launch a new agreement with the European Union to carry out sustainable economic recovery through improved biodiversity and solid waste management.
-
-The CARMEN MOUNDO was officially signed by the European Union Ambassador of the European Union and the European Union to the Government of Sri Lanka.
-
-The Ministry of Environment, Provincial Councils and Local Government, the Ministry of Environment and the European Union, the project will be financed by the European Union.
-
-The project will help conservation of biodiversity strategies and promote targeted conservation strategies and promoting sustainable land use practices.
-
-It is also reported that the project will also contribute to the increase in the increasing need for solid waste management systems and promote environmental safety and public health.
-
-...
-
-[Data](articles/5f1b8e9e.json)
-
-[Extended Data](ext_articles/5f1b8e9e.ext.json)
-
----
-
-### Sri Lanka and EU sign €8 million grant agreement to support economic recovery
-
-*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-eu-sign-8-million-grant-agreement-to-support-economic-recovery) · `en`
-
-The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
-
-The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
-
-...
-
-[Data](articles/07f41bfb.json)
-
-[Extended Data](ext_articles/07f41bfb.ext.json)
-
----
-
-### Sri Lanka and EU sign Euro 8 million grant agreement to support economic recovery
-
-*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-european-union-sign-euro-8-million-grant-agreement-to-support-economic-recovery) · `en`
-
-The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
-
-The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
-
-...
-
-[Data](articles/c50052b2.json)
-
-[Extended Data](ext_articles/c50052b2.ext.json)
-
----
-
-### Four acting ministers appointed
-
-*2025-09-23 14:51:11* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අමාත්‍යවරු-සිව්-දෙනෙක්-පත්-කෙරේ/11-418675) · `si`
-
-President Anura Kumara Dissanayake has been appointed to four ministries to attend the United States General Assembly to attend the United Nations General Assembly.
-
-A private minister has been appointed to the Ministry of Foreign Affairs, Foreign Employment and Tourism, the Ministry of Defense and Ministry of Finance and Finance Ministry and Ministry of Finance and Economic Development and Economic Development and Economic Development.
-
-Deputy Minister of Labor and Economic Development Anil Jayantha Fernando as the Minister of Finance and Planning and Economic Development
-
-Digital Economic Minister Eranga Weeraratne as the Digital Economic Officers.
-
-Foreign Affairs, Foreign Employment Activity and Foreign Affairs
-
-◼️
-
-[Data](articles/486cf5c6.json)
-
-[Extended Data](ext_articles/486cf5c6.ext.json)
-
----
-
-### New digital site to access public services
-
-*2025-09-23 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சேவைகளை-அணுக-புதிய-டிஜிட்டல்-தளம்/175-365134) · `ta`
-
-The Cabinet has approved the creation of a 'state superintendent' aimed at uninterrupted access to public services through a digital base.
-
-The current fragmented system forces users to enter the data repeated data on various portals and engage in various fields, subject to many authentication processes.
-
-Evaluation suggests that this is a loss of more than Rs. 500 million per year.
-
-◼️
-
-[Data](articles/17faa375.json)
-
-[Extended Data](ext_articles/17faa375.ext.json)
 
 ---

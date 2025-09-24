@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 10:20:39**
+As of **2025-09-24 10:55:38**
 
 ## Newspaper Stats
 
-*Scraped **77,822** Articles*
+*Scraped **77,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,177 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,560
+adalk | 7,561
 adaderanalk | 10,090
-tamilmirrorlk | 11,721
+tamilmirrorlk | 11,728
 virakesarilk | 12,662
-adaderanasinhalalk | 13,594
+adaderanasinhalalk | 13,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,813 (100.0%) of 77,822 articles have been extended.
+77,826 (100.0%) of 77,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### අත්තනගලු ඔයට පැන තරුණියක් සියදිවි නසා ගෙන
+### அமெரிக்கா ஹனுமன் சிலை: ஜனாதிபதி ஆதரவாளர் சர்ச்சை
+
+*2025-09-24 10:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கா-ஹனுமன்-சிலை-ஜனாதிபதி-ஆதரவாளர்-சர்ச்சை/50-365191) · `ta`
+
+அமெரிக்காவில், ஒற்றுமை சிலை என்று அழைக்கப்படும் ஹனுமன் சிலை குறித்து டெக்சாஸ் குடியரசுக் கட்சித் தலைவர் ஒருவர் கூறிய கருத்து சர்ச்சையை ஏற்படுத்தியுள்ளது.
+
+அமெரிக்காவின் டெக்சாஸ் மாகாணத்தின் சுகர்லேண்டில் உள்ள ஸ்ரீ அஷ்டலட்சுமி கோவிலில், 90 அடி உயர ஹனுமன் சிலை கடந்த ஆண்டு திறக்கப்பட்டது.
+
+அமெரிக்க ஜனாதிபதி டொனால்டு டிரம்பின் குடியரசுக் கட்சியைச் சேர்ந்த அலெக்சாண்டர் டங்கன் என்பவர், 'டெக்சாசில் பொய்யான ஹிந்துக் கடவுளின் ஒரு பொய்யான சிலையை ஏன் அனுமதிக்கிறோம்' எனப் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/38d52ca9.json)
+
+---
+
+### இந்தியா-இலங்கை வெளிவிகார அமைச்சர்களுக்கிடையில் சந்திப்பு
+
+*2025-09-24 10:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-இலங்கை-வெளிவிகார-அமைச்சர்களுக்கிடையில்-சந்திப்பு/175-365190) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் பொதுச் சபை (UNGA) அமர்வின் ஒரு பகுதியாக, இலங்கை வெளிவிகார அமைச்சர் விஜித ஹேரத்துக்கும் இந்திய வெளியுறவு அமைச்சர் எஸ். ஜெய்சங்கருக்கும் இடையிலான சந்திப்பு அமெரிக்காவில் நடைபெற்றது.
+
+அமைச்சர் விஜித ஹேரத் தனது அதிகாரப்பூர்வ X தளத்தில் ஒரு பதிவில், இலங்கைக்கும் இந்தியாவிற்கும் இடையிலான வலுவான நட்பு மற்றும் நெருக்கமான ஒத்துழைப்பை இந்த விவாதம் மீண்டும் உறுதிப்படுத்தியதாக கூறினார்.
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க உடன் விஜித ஹேரத் நியூயார்க்குக்கு செல்கின்றார், அங்கு ஜனாதிபதி புதன்கிழமை (24) அன்று இலங்கை நேரப்படி பிற்பகல் 3.15 மணிக்கு (UNGA) இல் உரையாற்ற உள்ளார்.
+
+ஜனாதிபதி தனது விஜயத்தின் போது ஐ.நா.பொதுச்செயலாளர் அன்டோனியோ குட்டெரெஸ் மற்றும் பல உலகத் தலைவர்களுடன் இருதரப்பு பேச்சுவார்த்தை களையும் நடத்துவார் என்று ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/60c56d38.json)
+
+---
+
+### වසර 50කට පසු සඳවටා දින දහයක ගමනකට නාසා සූදානම්
+
+*2025-09-24 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214945) · `si`
+
+වසර 50කට පසු 2026 පෙබරවාරි මාසයේ මුල් දින කිහිපය තුළ සඳ වටා දින දහයක ගමනක් සඳහා ගගනගාමීන් යැවීමට බලාපොරොත්තු වන බව නාසා ආයතනය පවසා තිබේ.
+
+ලෝකයේ මෙම චන්ද්‍ර මෙහෙයුමක් සිදුව දැනට වසර 50ක් ගතවී ඇති නිසා නාසා ආයතනය මෙලෙස ගගනගාමීන් හතර දෙනෙකු යවා නැවත පරීක්ෂණ පද්ධති ක්‍රියාත්මක කරන බව සඳහන්ය.
+
+නාසා හි වැඩබලන නියෝජ්‍ය සහකාර පරිපාලක ලකීෂා හෝකින්ස් පවසා ඇත්තේ මෙය මානව අභ්‍යවකාශ ගවේෂණයේ වැදගත් අවස්ථාවක් වනු ඇති බවය.
+
+ආටෙමිස් II නමින් හැදින්වෙන මෙම මෙහෙයුමේ දී ගමන් කරනු ලබන ගගනගාමීන් සිව්දෙනා දින දහයක වට සංචාරයකින් පසු නැවත පෘථිවියට පැමිණෙනු ඇත.
+
+මෙම මෙහෙයුමේ අරමුණ වන්නේ චන්ද්‍ර ගොඩබෑම සඳහා රොකට්ටුව සහ අභ්‍යවකාශ යානා පද්ධති පරීක්ෂා කිරීමයි.
+
+මෙහෙයුමේ සාර්ථකත්වය මත නාසා ආයතනය සඳ මතට ගොඩබෑම සඳහා ආටෙමිස් III දියත් කළ හැක්කේ කොපමණ කලකින්ද යන්න තීරණය වේ.
+
+නමුත් මෙහෙයුම පරිපූර්ණත්වයට ගියත් 2027 මැද භාගයට පෙර ආටෙමිස් III දියත් කළ නොහැකි බව වැඩිදුර සඳහන් කරයි.
+
+◼️
+
+[Data](articles/e4fabd94.json)
+
+---
+
+### நள்ளிரவில் அடுத்தடுத்து குண்டுவெடிப்பு; நோர்வே மக்கள் வெளியே வர தடை
+
+*2025-09-24 10:23:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நள்ளிரவில்-அடுத்தடுத்து-குண்டுவெடிப்பு-நோர்வே-மக்கள்-வெளியே-வர-தடை/50-365189) · `ta`
+
+நோர்வே தலைநகர் ஆஸ்லோவில் அடுத்தடுத்து குண்டுகள் வெடித்த சம்பவம் பரபரப்பை ஏற்படுத்தி இருக்கிறது. சந்தேகப்படும்படியான மூவரை பொலிஸார் கைது செய்துள்னளர்.
+
+பார்க்வீன் மற்றும் பைல்ஸ்ட்ரெட் பகுதியில் இந்த இரண்டு குண்டுவீச்சு சம்பவங்கள் நிகழ்ந்துள்ளது. அப்பகுதியில் வசிப்போர் அச்சமும், பீதியும் அடைந்தனர்.
+
+நோர்வே பொலிஸார் உடனடியாக சம்பவ இடத்துக்கு விரைந்தனர். அந்த பகுதியைச் சுற்றி வளைத்த அவர்கள், தேடுதல் வேட்டை நடத்தினர். அப்போது அங்கு வெடிக்காமல் இருந்த கையெறி குண்டு ஒன்றை கண்டுபிடித்து, செயலிழக்கச் செய்தனர்.
+
+அங்கு சுற்றித்திரிந்த சந்தேக நபர்கள் மூவரை கைது செய்து விசாரணைக்கு அழைத்துச் சென்றுள்ளனர். குண்டுவெடிப்பு சம்பவம் குறித்து ஆஸ்லோ பொலிஸ் தலைவர் பிரையன் ஸ்கொட்னஸ் கூறியதாவது;
+
+மத்திய ஆஸ்லோ பகுதியில் குண்டு வெடித்துள்ளது. தேடுதல் வேட்டையின் போது சந்தேகத்தின் பேரில் 3 பேரை கைது செய்திருக்கிறோம். அவர்களுடன் தொடர்புடைய மற்றவர்களையும் தேடி வருகிறோம்.
+
+...
+
+[Data](articles/764e65ca.json)
+
+---
+
+### Indian Navy Commander met Prime Minister
+
+*2025-09-24 10:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பிரதமரைச்-சந்தித்தார்/175-365186) · `ta`
+
+The Indian Navy Commander, ADMIral Dinesh K Tripathi, who visited Sri Lanka on September 21, 2025, met Prime Minister Harini Amarasuriya on Tuesday (23) at the Parliamentary Complex.
+
+The official meeting, which was held between the Commander of the Indian Navy and the Prime Minister Dr. Harini Amarasuriya, discussed a number of important issues on the two sides, including improving security cooperation between the two countries and strengthening long -term friendship.
+
+In addition, emphasizing the importance of working with a joint approach to face challenges, including maritime security and regional security, illegal drug trafficking and illegal fishing activities.. In addition, the Government of India has also focused on providing training opportunities to the Naval Officers in this country.
+
+Indian Navy Chief ADMIral Dinesh K Tripathi is returning to the country on September 25, 2025, after attending the International Maritime Conference of the Sri Lanka Navy for the 12th time.
+
+...
+
+[Data](articles/db29b3d0.json)
+
+[Extended Data](ext_articles/db29b3d0.ext.json)
+
+---
+
+### Sore warning
+
+*2025-09-24 10:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டியாராச்சிக்கு-கடும்-எச்சரிக்கை/175-365185) · `ta`
+
+Sri Lanka PA. He urged to avoid publishing irresponsible and controversial reports at public meetings.
+
+The action has been taken after Kuttiyarachchi's recent comments have stimulated significant concerns among party leaders and led to a strong internal reaction from the party hierarchy.
+
+◼️
+
+[Data](articles/5eb5a8a2.json)
+
+[Extended Data](ext_articles/5eb5a8a2.ext.json)
+
+---
+
+### Most of those who are addicted to addiction are not O/L
+
+*2025-09-24 10:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைக்கு-அடிமையானவர்களில்-பெரும்பாலோர்-O-L-தேர்ச்சி-பெற்றாதவர்கள்/175-365183) · `ta`
+
+Recent study has revealed that most people, including ice addiction in Sri Lanka, are now a burden to the state because they need serious rehabilitation and unemployment.
+
+The research, conducted by Professor Vasantha Athukorala and his team from Peradeniya University, analyzed the forms of prison data and drug -related crimes in 2023.
+
+According to their invention, 185,056 persons were jailed in 2023 for various crimes. Of these, 46,939 are guilty and 29,192 cases are directly related to drugs.
+
+The study found that most of the four major districts of Colombo, Gampaha, Kalutara and Kurunegala were arrested by most drug addicts.
+
+As far as age is concerned, 8,491 of the convicts are between the ages of 22 and 30, while 8,941 are 30-40 years old, which indicates that the most affected group of adults in young and middle-aged adults.
+
+"The increasing number of women in drug abuse is a new trend that requires immediate attention from policymakers and health officials," Professor Athukorala said.
+
+...
+
+[Data](articles/2185b392.json)
+
+[Extended Data](ext_articles/2185b392.ext.json)
+
+---
+
+### Youth commits suicide by jumping into Attanagalu Oya
 
 *2025-09-24 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214944) · `si`
 
-ගම්පහ - මිනුවන්ගොඩ මාර්ගයේ අස්ගිරිය ප්‍රදේශයෙන් අත්තනගලු ඔයට පැන තරුණියක් සියදිවි හානි කරගෙන තිබේ.
+A young girl has committed suicide from the Gampaha-Minuwangoda road in the Gampaha-Minuwangoda road.
 
-පොලීසිය පැවසුවේ අත්තනගලු ඔයේ පාලමෙන් පැන අදාළ තරුණිය සියදිවි හානි කරගෙන ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇති බවය.
+Police said the police had revealed in preliminary investigations into the bridge of the Attanagalu Oya and has committed suicide.
 
-සියදිවි නසා ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+The cause of suicide is yet to be ascertained.
 
-අතුරුදන් වු කාන්තාවගේ මළසිරුර සෙවීමේ මෙහෙයුම් පොලීසිය, නාවික හමුදාව සහ ප්‍රදේශවාසීන් එක්ව තවදුරටත් සිදුකරන බව පොලීසිය පැවසුවේය.
+Police, the Navy and Residents of the area continue jointly in search of the disappearance of woman's body.
 
 ◼️
 
 [Data](articles/6a9aca0f.json)
+
+[Extended Data](ext_articles/6a9aca0f.ext.json)
 
 ---
 
@@ -64,105 +204,119 @@ Finally, the future of Tamil nationalist politics, the 13th Amendment and the Pr
 
 ---
 
-### இந்திய வெளிவிவகார அமைச்சர்  ஜெய்சங்கரை சந்தித்தார் வெளிவிவகார அமைச்சர் விஜித ஹேரத்
+### Foreign Minister Vijitha Herath meets Indian Foreign Minister Jaishankar
 
 *2025-09-24 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225922) · `ta`
 
-இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான வலுவான நட்புறவையும் நெருக்கமான ஒத்துழைப்பையும் மீண்டும் உறுதிப்படுத்தும் நோக்கில்,  அமெரிக்காவின் நியூயோர்க்கில் நடைபெறும் ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில்  (UNGA), இலங்கையின் வெளிவிவகார அமைச்சர் விஜித ஹேரத், இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கருடன் இருதரப்பு கலந்துரையாடல்களை நடத்தியுள்ளார்.
+Sri Lanka's External Affairs Minister Vijitha Herath has held bilateral discussions with Indian Foreign Minister S. Jaishankar at the United Nations General Assembly (UNGA) in New York, New York, aimed at reaffirming the strong friendship and close cooperation between Sri Lanka and India.
 
-இந்த சந்திப்புக் குறித்து எக்ஸ் தளத்தில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் குறிப்பிட்டுள்ளதாவது,
+External Affairs Minister Vijitha Herath on the meeting said the meeting
 
-“அமெரிக்காவில் ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில், இந்திய வெளிவிவகார அமைச்சரைச் சந்தித்தேன், இதன்போது, இலங்கைக்கும் இந்தியாவிற்கும் இடையிலான வலுவான நட்பு மற்றும் நெருக்கமான ஒத்துழைப்பை மீண்டும் உறுதிப்படுத்தினார் ” எனத் தெரிவித்துள்ளார்.
+“At the United Nations General Assembly in the United Nations, I met the Indian Foreign Minister and reiterated the strong friendship and intimate cooperation between Sri Lanka and India,” he said.
 
-இலங்கை வெளிவிகார அமைச்சரைச் சந்தித்து இருதரப்பு ஒத்துழைப்பின் முன்னேற்றத்தை மதிப்பாய்வு செய்தது மகிழ்ச்சி அளிக்கிறது என குறிப்பிட்டுள்ளார்.
+He said that it was a pleasure to meet the Sri Lankan Foreign Minister and review the progress of bilateral cooperation.
 
-ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில் கலந்து கொள்வதற்காக நியூயோர்க்கில் உள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் அமைச்சர் விஜித ஹேரத்தும் சென்றுள்ளார்.
+Minister Vijitha Herath has also accompanied President Anura Kumara Dissanayake in New York to attend the United Nations General Assembly.
 
-...
+According to the US time, the President will address the General Assembly at 3:15 pm on Wednesday (24).
+
+◼️
 
 [Data](articles/11b2e548.json)
 
+[Extended Data](ext_articles/11b2e548.ext.json)
+
 ---
 
-### පිලිපීන හිටපු ජනපතිට මනුෂ්‍යත්වයට එරෙහි අපරාධ කළායැයි චෝදනා
+### Allegations accused of committing crimes against humanity to the former Philippine president
 
 *2025-09-24 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214943) · `si`
 
-පිලිපීනයේ හිටපු ජනාධිපති රොඩ්‍රිගෝ ඩුටෙර්ටේට එරෙහිව මනුෂ්‍යත්වයට එරෙහි අපරාධ කළායැයි චෝදනා එල්ල වී තිබේ.
+Former President Rodraigo in the Philippines has committed crimes against Dutriette.
 
-ඒ ඔහුට එරෙහිව අන්තර්ජාතික අපරාධ අධිකරණය හමුවේ පැවැත්වෙන නඩු විභාගයට අදාළවය.
+It is in connection with the criminal court against him.
 
-පිලිපීනයේ හිටපු ජනාධිපති රොඩ්‍රිගෝ ඩුටෙර්ටේ සැලකෙන්නේ එරට සිටි දැඩි පාලකයෙක් ලෙසයි.
+Former President Rodraigo Dutriette is considered to be a strict ruler of former President Rodrigo Dutar.
 
-පිලිපීනය වෙළාගත් මත්ද්‍රව්‍ය උවදුර මැඩලීමට මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ට එරෙහි දැඩි පිළිවෙතක් අනුගමනය කළ ඔහු, ධුර දැරූ 2016 - 2022 කාලය තුළ මත්ද්‍රව්‍ය ජාවාරකරුවන් රැසක් මියගිය බව වාර්තා වෙයි.
+He has taken a strong procedure against drug dealers to suppress the Philippines drug menace in 2016 - 2022, reports say.
 
-පසුගිය මාර්තු මාසයේදී ඩුටෙර්ටේ අත්අඩංගුවට ගෙන අන්තර්ජාතික අපරාධ අධිකරණයට ඉදිරිපත් කෙරුණේ බරපතළ ගණයේ අපරාධ සිදුකළ බවට චෝදනා කරමින්ය.
+Last March, the International Criminal Criminal (ICFI was arrested and produced before the crimes of serious crimes.
 
-ඩුටෙර්ටේ සම්බන්ධ අපරාධ චෝදනා පත්‍රය මේ වනවිට ප්‍රසිද්ධියට පත් කර තිබේ.
+The criminal charge sheet related to Duterta has been made public.
 
-ඔහු 2013 - 2016 අතර කාලය තුළ ඔහු පිලිපීනයේ ඩාවෝ නගරයේ නගරාධිපතිවරයාව සිටි කාලය තුළ ඔහුගේ නියෝගය මත සිදුවු බවට සඳහන් ඝාතන මෙන්ම, ජනාධිපති ධුරකාලය තුළ සිදුවූ ඝාතන සම්බන්ධ චෝදනා එහි ඇතුළත්ය.
+In the year 2013 - 2016, he includes the allegations of murders that occurred in the president's postage as well as the mayor of Davo in the Philippines.
 
-මේ අනුව ඩුටෙර්ටේ මනුෂ්‍යත්වයට එරෙහි අපරාධ සිදුකර ඇති බවට චෝදනා ගොනුවී ඇත.
+Accordingly, the crimes have been committed against humanity of Dutert.
 
-...
+He is the first Asian leader who came to the International Tribunal and International Criminal Court.
+
+◼️
 
 [Data](articles/ff633210.json)
 
+[Extended Data](ext_articles/ff633210.ext.json)
+
 ---
 
-### இஸ்ரேலுக்கும் – இலங்கைக்கும் இடையில் புதிய விமான சேவை
+### New flight between Israel and Sri Lanka
 
 *2025-09-24 09:57:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலுக்கும்-இலங்கைக்கும்-இடையில்-புதிய-விமான-சேவை/175-365182) · `ta`
 
-இஸ்ரேலின் எரிக்கா ஏர்லைன்ஸ் விமான சேவைக்கு சொந்தமான புதிய விமானம் ஒன்று கட்டுநாயக்க விமான நிலையத்துக்கு வருகைத் தர உள்ளதாக இஸ்ரேலுக்கான இலங்கை தூதுவர் நிமல் பண்டார குறிப்பிட்டுள்ளார்.
+Sri Lanka's Ambassador to Israel Nimal Bandara has stated that a new aircraft owned by Israel's Erica Airlines will arrive at the Katunayake airport.
 
-இஸ்ரேலிருந்து கட்டுநாயக்க வரை ஆரம்பிக்கப்பட உள்ள புதிய விமான சேவை தொடர்பில் செவ்வாய்க்கிழமை (23) தனது உத்தியோகபூர்வ முகபுத்தக தளத்தில் பதிவொன்றையிட்டு இவ்விடயம் தொடர்பில் தெரியப்படுத்தியுள்ளார்.
+He made a report on his official face book on Tuesday (23) regarding the new flight from Israel to Katunayake.
 
-இஸ்ரேலின் எரிக்கா ஏர்லைன்ஸ் விமான சேவைக்கு சொந்தமான (IZ) – 639 என்ற விமானம் இன்று முதல் செவ்வாய்க்கிழமை தோறும் பிற்பகல் 6.30 மணிக்கு டெல் அவிவ் விமான நிலையத்திலிருந்து கொழும்பு கட்டுநாயக்க விமான நிலையத்தை நோக்கி பயணிக்க உள்ளது.
+Israel's Erica Airlines (IZ) - 639 will be traveling from Tel Aviv Airport to Colombo Katunayake airport at 6.30 pm on Tuesday.
 
-அதற்கமைய இன்று பயணமான விமானம் புதன்கிழமை காலை 6.15 மணியளவில் நாட்டை வந்தடைய உள்ளது. R
+The flight will arrive today at 6.15 am on Wednesday. Remble
 
 ◼️
 
 [Data](articles/affed6fc.json)
 
+[Extended Data](ext_articles/affed6fc.ext.json)
+
 ---
 
-### ஹல்தும்முல்லயில் நிலநடுக்கம்
+### Earthquake
 
 *2025-09-24 09:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்தும்முல்லயில்-நிலநடுக்கம்/175-365181) · `ta`
 
-ஹல்தும்முல்ல, வெலன்விட்ட, அக்கர சீய, லெமஸ்தோட்ட, முருதஹின்ன மற்றும் பிற பகுதிகளில் புதன்கிழமை (24) மாலை 6.46 மற்றும் 6.47 மணிக்கு ஒரு சிறிய நிலநடுக்கம் ஏற்பட்டதாக பதுளை அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+The Badulla Disaster Management Center said that a small earthquake struck at 6.46 and 6.47 pm on Wednesday (24) in Haldummulla, Velanwita, Akkara Seeya, Lemastota, Murudahina and other areas.
 
-இது மிகவும் சிறிய அளவிலான நிலநடுக்கம் என தெரிவிக்கப்படுகின்றதுடன்  மேலும் பல்லேகெலே, ஹக்மன, மஹா கனதராவ மற்றும் அம்பாறை ஆகிய பகுதிகளில்  நிலநடுக்கம் பதிவு செய்யப்படவில்லை என பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் துணை இயக்குநர் ஈ.எம்.எல். உதய குமார தெரிவித்தார்.
+It is reported that this is a very small earthquake and the earthquake has not been recorded in Pallekele, Hakmana, Maha Kanadarawa and Ampara, Deputy Director of the Badulla Disaster Management Center EML. Said Udaya Kumara.
 
-இருப்பினும், இந்த திடீர் நிலநடுக்கம் குறித்து பொதுமக்கள் மிகவும் விழிப்புடன் இருக்குமாறு ஹல்தும்முல்ல பிரதேச செயலாளர்  கே.ஏ.ஜி. பிரியங்கிகா கேட்டுக் கொண்டுள்ளார்.
+However, Haldummulla Divisional Secretary KAG has called for the public to be very vigilant on this sudden earthquake.. Priyankika has asked.
 
 ◼️
 
 [Data](articles/c7f98d5f.json)
 
+[Extended Data](ext_articles/c7f98d5f.ext.json)
+
 ---
 
-### ஜெம்பட்டா வீதி ஸ்ரீ முனீஸ்வரர் ஆலய நவா வரண ஸ்ரீ சக்கர பூஜை
+### Sri Muniswarar Temple
 
 *2025-09-24 09:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெம்பட்டா-வீதி-ஸ்ரீ-முனீஸ்வரர்-ஆலய-நவா-வரண-ஸ்ரீ-சக்கர-பூஜை/175-365180) · `ta`
 
-கொழும்பு ஜெம்பட்டாவீதி அருள்மிகு ஸ்ரீ முனீஸ்வரர் முத்துமாரியம்மன் தேவஸ்தான வருடாந்த நவராத்திரி விழாவை முன்னிட்டு  திங்கட்கிழமை (22) அன்று மாலை நவா வரண ஸ்ரீ சக்கர பூஜை நடைபெற்றது.
+The Nawa Varana Sri Chakra Pooja was held on Monday evening (22) to mark the Annual Navratri Festival of Muthumariamman Devasthana, Sri Muniswarar Muthumariamman, Colombo.
 
-சர்வதேச இந்துமத பீட இணைப்பாளரும் கொழும்பு ஜெம்பட்டாவீதி ஸ்ரீ முனீஸ்வரர் முத்துமாரியம்மன் தேவஸ்தான பிரதம குருவுமான கலாநிதி சிவஸ்ரீ எஸ்.சிவநேசன் குருக்கள் தலைமையில் முன்னேஸ்வரம் வடிவாம்பிகா சமேத முன்னைநாத பெருமான் ஆலய உற்சவகால பிரதமகுரு சிவஸ்ரீ சிதம்பர ஹரிஹர குருக்கள் பூஜை வழிபாடுகளை நடாத்தினார்.
+International Hindu Faculty Coordinator and Sri Muniswarar Muthumariamman Devasthanam, Colombo, headed by Dr. Sivasree Sivanesan, the chief guru of Sri Muniswarar Muthumariamman, led by Dr. Sivanesan.
 
-சாரதா நவராத்திரி விழாவும் நவாவரண ஸ்ரீ சக்கர பூஜையும் நவசக்தி மஹா ஹோமமும் இன்று தொடக்கம் எதிர்வரும் 1ம் திகதி வரை தொடர்ந்து 10 நாட்களுக்கு நடைபெறும்.
+The Sarada Navratri Festival and Navaratha Sri Chakra Pooja and Navasakthi Maha Homam will be held for 10 consecutive days from today to 1st.
 
-தினமும் மாலை கும்ப பூஜை, நவாவரண ஸ்ரீ சக்கர பூஜை, முத்தேவியர் ஹோமம், சாயரட்ச பூஜை, வசந்த மண்டப பூஜை, விசேட தீப ஆராதனை, வேத தோத்திர பாராயணம் என்பன நடைபெறும்.
+Every day, Kumbha Pooja, Navavara Sri Chakra Pooja, Muttaviyar Homam, Sairaksha Pooja, Vasantha Mandapu Pooja, Special Deepa Adoration and Veda Thira recitation will be held.
 
-22ம் திகதி தொடக்கம் 24ம் திகதி வரை ஸ்ரீ துர்க்கா பூஜையும் 25ம் திகதி தொடக்கம் 27ம் திகதி வரை ஸ்ரீ லக்ஷமி பூஜையும் நடைபெறும்.
+The Sri Durga Puja will be held from the 22nd to the 24th and the Sri Lakshmi Pooja will be held from the 25th to the 27th.
 
-எதிர்வரும் 28ம் திகதி தொடக்கம் 30ம் திகதி வரை ஸ்ரீ சரஸ்வதி பூஜை நடைபெறும்.
+The Sri Saraswati Puja will be held from the 28th to the 30th.
 
 ...
 
 [Data](articles/9952e4dd.json)
+
+[Extended Data](ext_articles/9952e4dd.ext.json)
 
 ---
 
@@ -184,15 +338,19 @@ The remarks in question were made during a meeting held recently in Anuradhapura
 
 [Data](articles/863ec581.json)
 
+[Extended Data](ext_articles/863ec581.ext.json)
+
 ---
 
-### அப்பாக்கிட்ட நைசா கேக்கனும் இது ஐஸானு
+### It is also a nisa cake and isanu
 
 *2025-09-24 09:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அப்பாக்கிட்ட-நைசா-கேக்கனும்-இது-ஐஸானு/62-365179) · `ta`
 
 ◼️
 
 [Data](articles/fe0eca87.json)
+
+[Extended Data](ext_articles/fe0eca87.ext.json)
 
 ---
 
@@ -265,6 +423,8 @@ Minister Herath is accompanying President Anura Kumara Dissanayake, who is in Ne
 ...
 
 [Data](articles/ab4df014.json)
+
+[Extended Data](ext_articles/ab4df014.ext.json)
 
 ---
 
@@ -399,6 +559,24 @@ It is reported that the problems of the Tamil people of the North and East have 
 [Data](articles/3437e033.json)
 
 [Extended Data](ext_articles/3437e033.ext.json)
+
+---
+
+### ඇමෙරිකාවේ ක්‍රිකට් ආයතනයට තහනමක්
+
+*2025-09-24 07:43:22* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකාවේ-ක්‍රිකට්-ආයතනයට-තහනමක්/3-418687) · `si`
+
+ඇමෙරිකා ක්‍රිකට් ආයතනය (USAC) තාවකාලිකව අත්හිටුවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.  අඟහරුවාදා පැවති  රැස්වීමකින් පසුව ජාත්‍යන්තර ක්‍රිකට් ආයතනය මෙම තීරණය ගෙන තිබේ.
+
+ක්‍රිකට් ආයතනය අත්හිටුවීමට කටයුතු කළත් පෙබරවාරි මාසයේ ඉන්දියාවේ සහ ශ්‍රී ලංකාවේ පැවැත්වීමට නියමිත ජාත්්‍යන්තර විස්සයි20 ලෝක කුසලාන තරගාවලියට හෝ 2028  ලොස් ඇන්ජලීස් ඔලිම්පික් ක්‍රීඩා උළෙලට ජාතික ක්‍රිකට් කණ්ඩායමට එක්වීමට බාධාවක් ඇති නොවේ.
+
+ජූලි මාසයේ පැවති ICC වාර්ෂික මහා සභා රැස්වීමේදී, "නිදහස් හා සාධාරණ නිලවරණයක්" පැවැත්වීමට සහ "පුළුල්" පාලන ප්‍රතිසංස්කරණ සිදු කිරීමට USAC හට මාස තුනක කාලයක් ජාත්‍යන්තර ක්‍රිකට් ආයතනය ලබාදී තිබියදී මාස දෙකක් ගතවන විට මෙම තහනම පනවා තිබේ.
+
+ප්‍රතිසංස්කරණවල ප්‍රගතිය මත පදනම්ව සුදුසු යැයි සැලකෙන ඕනෑම ක්‍රියාමාර්ගයක් ගැනීමේ අයිතිය තමන් සතු බව ICC ය  පවසයි.
+
+◼️
+
+[Data](articles/53882cdf.json)
 
 ---
 
@@ -849,6 +1027,28 @@ The Cabinet has approved the national policy submitted by the Minister of Rural 
 [Data](articles/3a4fbc16.json)
 
 [Extended Data](ext_articles/3a4fbc16.ext.json)
+
+---
+
+### The number of elderly people will increase by 24.8 percent by 2052
+
+*2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-எண்ணிக்கை-2052இல்-24-8-சதவீதம்-அதிகரிக்கும்/175-365173) · `ta`
+
+In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
+
+According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
+
+In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
+
+Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
+
+The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Reinforcement.
+
+◼️
+
+[Data](articles/880dbe91.json)
+
+[Extended Data](ext_articles/880dbe91.ext.json)
 
 ---
 
@@ -1851,169 +2051,5 @@ Another person in the house in question had also died after being admitted to th
 [Data](articles/bde94ffc.json)
 
 [Extended Data](ext_articles/bde94ffc.ext.json)
-
----
-
-### Electricity is an essential service to parliament tomorrow
-
-*2025-09-23 19:25:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කළ-ගැසට්ටුව-හෙට-පාර්ලිමේන්තුවට/11-418680) · `si`
-
-President Anura Kumara Dissanayake has decided to submit all services related services to the Parliament today (24) to be presented to the Parliament today (24) to approve of the Gazette Notification.
-
-Accordingly, the publication of the gazette, No. 2454/68, No. 61 of 1979, will be presented to the Gazette November 2454/60 under the Essential Public Service Act No 61.
-
-◼️
-
-[Data](articles/0e667059.json)
-
-[Extended Data](ext_articles/0e667059.ext.json)
-
----
-
-### Electricity Essential Service as Essential Service
-
-*2025-09-23 19:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-அத்தியாவசிய-சேவையாக-பிரகடனம்-நாளை-சபையில்-அங்கீகாரம்/175-365149) · `ta`
-
-The party leaders today decided to recognize the gazette notification of President Anura Kumara Dissanayake, who declares electricity as an essential service.
-
-◼️
-
-[Data](articles/d873ff5d.json)
-
-[Extended Data](ext_articles/d873ff5d.ext.json)
-
----
-
-### Sri Lankan main fast bowler not contest today
-
-*2025-09-23 19:10:48* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා-ප්‍රධාන-වේග-පන්දු-යවන්නෙක්-අද-තරගයට-නෑ/9-418679) · `si`
-
-SLC announced that Sri Lanka's fast bowler Visitor Pathirana do not play sports with Pakistan today due to illness today (23). He further stated that he has not received medical treatment due to this illness.
-
-◼️
-
-[Data](articles/1b60beba.json)
-
-[Extended Data](ext_articles/1b60beba.ext.json)
-
----
-
-### Recovery of 1243 kg of heroin, 1845 kg of ice, 472 kg of hussies, 29 kg of cocaine - police spokesman this year
-
-*2025-09-23 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225897) · `ta`
-
-Overall 705 kg of narcotics have been seized in the roundabout carried out in Tangalle. Police spokesman FU Woodler said that the suspect has been arrested in connection with the incident and that the inquiries are being carried out by different police groups at different angles.
-
-He made this statement at a press conference announcing the Cabinet decisions held at the Government Information Department in Colombo on Tuesday (23).. As he further stated in this regard
-
-Investigations into the suspicious death of a man who was admitted to the Tangalle Hospital on Monday. Accordingly, 705 kg of narcotics have been seized in the surrounding areas of Tangalle - Kahavathuragoda and Seenimodara areas.
-
-Accordingly, 284 kg of heroin and 420 kg of ice have been seized. Investigations are being carried out through the Special Investigation Committee regarding the owner of the seized area. In addition, the T56 rifle, 56 rifles, a motorcycle and 3 lorries were seized during the roundup.
-
-...
-
-[Data](articles/233a3bbe.json)
-
-[Extended Data](ext_articles/233a3bbe.ext.json)
-
----
-
-### Case against Ranga Dissanayake withdraws
-
-*2025-09-23 19:03:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரங்க-திசாநாயக்கவிற்கு-எதிரான-வழக்கு-வாபஸ்/175-365148) · `ta`
-
-The petitioners filed a fundamental rights petition filed against the appointment of Supreme Court Judge Ranga Dissanayake as the Director General of the Commission (CIABOC) for bribery or corruption allegations.
-
-When the case was taken up before a three -judge session of the Supreme Court, comprising Chief Justice Prathi Padman Surasena, Justice Mahinda Sampath and Judge Sampath Abhayakoon, the lawyer of the petitioners sought the court's permission to withdraw the petition.
-
-The petitioners were the petitioners, Shan Senanayake and Vidyalaja Thera, Chairman of the Law and Justice Foundation, and Vidyalaja Kavithaja Thera, the President of the Constitutional Council, Speaker Jagath Wickramaratne, Prime Minister Harini Amarasuriya, Committee of the Constitutional Council, Bribery Commission, and Bribery Commission. Named.
-
-◼️
-
-[Data](articles/ad7ca725.json)
-
-[Extended Data](ext_articles/ad7ca725.ext.json)
-
----
-
-### Peace Struggle for a 3 -year -old boy who died at the Colombo Child Hospital
-
-*2025-09-23 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225896) · `ta`
-
-A 3 -year -old boy who was admitted to Kidney Surgery at Colombo Children's Hospital. A peaceful protest was held on Tuesday (23) against the death of Ayna Hamdi Baslim, who lost the two kidneys due to the negligence of the doctors.
-
-The protest, which was held in front of the Pudukkadai court in Colombo, participated in the boy's relatives, children's rights organizations and many other civilians.
-
-◼️
-
-[Data](articles/af76b62b.json)
-
-[Extended Data](ext_articles/af76b62b.ext.json)
-
----
-
-### Sri Lanka to seek legal advice on $1 bn unpaid marine disaster claim
-
-*2025-09-23 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112836/sri-lanka-to-seek-legal-advice-on-1-bn-unpaid-marine-disaster-claim) · `en`
-
-The Sri Lankan government on Tuesday said it will consult the Attorney General on the next course of action after the owning company of a vessel failed to honour a court order directing it to pay USD 1 billion in compensation for a mishap, considered to be the worst marine disaster in the Indian Ocean.
-
-Singapore-flagged container vessel MV X-Press Pearl caught fire in May 2021 off Colombo port and burned for nearly two weeks while carrying 81 containers of hazardous chemicals, including 25 tonnes of nitric acid.
-
-The incident caused widespread marine pollution, with billions of plastic nurdles and toxic substances spilling into Sri Lankan waters, killing marine life and devastating coastal communities.
-
-Dead turtles, dolphins and whales were seen washed up onto beaches for weeks following the disaster.
-
-On July 24, Sri Lanka’s Supreme Court directed the ship’s owning and operating companies to pay USD 1 billion in compensation, with an initial tranche of USD 250 million due by September 23.
-
-...
-
-[Data](articles/2bef2a2b.json)
-
-[Extended Data](ext_articles/2bef2a2b.ext.json)
-
----
-
-### Electricity Board Trade Union Action - Minister Action
-
-*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
-
-Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
-
-Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
-
-“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
-
-Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
-
-“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
-
-...
-
-[Data](articles/ab765827.json)
-
-[Extended Data](ext_articles/ab765827.ext.json)
-
----
-
-### CEB Trade Union Action - Minister Action
-
-*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
-
-Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
-
-Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
-
-“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
-
-Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
-
-“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
-
-...
-
-[Data](articles/b41fd6e6.json)
-
-[Extended Data](ext_articles/b41fd6e6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 03:38:00**
+As of **2025-09-25 03:06:10**
 
 ## Newspaper Stats
 
-*Scraped **77,979** Articles*
+*Scraped **77,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,120 +15,22 @@ colombotelegraphcom | 788
 economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
-dailyftlk | 5,529
+dailyftlk | 5,528
 adalk | 7,578
 adaderanalk | 10,124
 tamilmirrorlk | 11,756
-virakesarilk | 12,684
+virakesarilk | 12,679
 adaderanasinhalalk | 13,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,973 (100.0%) of 77,979 articles have been extended.
+77,973 (100.0%) of 77,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
-
-### சிறுவர்களை மன ரீதியான தாக்கங்களை ஏற்படுத்த முடியாது என்ற சரத்துக்களை உள்ளடக்கிய சட்டமூலம் ஒத்திவைப்பு
-
-*2025-09-25 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226007) · `ta`
-
-சிறுவர்களை பெற்றோரோ, ஆசிரியர்களோ ,பாதுகாவலர்களோ தண்டிக்கவோ மன ரீதியான தாக்கங்களை ஏற்படுத்தவோ முடியாது என்ற சரத்துக்களை  உள்ளடக்கிய தண்டனை சட்டக்கோவை (திருத்த) சட்டமூலம் இரண்டாம் மதிப்பீடு புதன்கிழமை (24) விவாதத்திற்கு எடுக்கப்பட்டபோதும் அது நிறைவேற்றப்படாது பிறிதொரு தினத்திற்கு ஒத்திவைக்கப்பட்டது.
-
-தண்டனை சட்டக்கோவை (திருத்த) சட்டமூலம் இரண்டாம் மதிப்பீடு மீதான விவாதம் புதன் கிழமை (24) மகளிர் மற்றும் சிறுவர் அலுவல்கள் அமைச்சர் சரோஜா சாவித்திரி போல்ராஜினால் ஆரம்பித்து வைக்கப்பட்ட நிலையில் இந்த சட்டமூலத்தில் உள்ள சிறுவர்கள் மாணவர்களை கண்டிப்பது, தண்டிப்பது  தொடர்பான விடயங்களில் உள்ள சரத்துக்கள் தொடர்பில் எதிர்கட்சிகளினால் கேள்விகள் எழுப்பட்டதுடன் இச்சட்டமூலம் தொடர்பில் சகல  தரப்பினருடனும் கலந்துரையாடல்களை நடத்த வேண்டுமென வலியுறுத்தப்பட்டது.
-
-அத்துடன் இந்த சட்டமூலம் தொடர்பில் துறைசார் மேற்பார்வைக்குழுக்  கூட்டத்திலும் எதிர்க்கட்சிகள் பல்வேறு விடயங்களை சுட்டிக்காட்டி கேள்விகளை எழுப்பிய விளக்கங்களை கோரியிருந்ததுடன் திருத்தங்களை செய்ய வேண்டுமெனவும் வலியுறுத்தியிருந்தன.
-
-...
-
-[Data](articles/eb42c340.json)
-
----
-
-### Voyage Sri Lanka 2025 to set sail on 16 October
-
-*2025-09-25 03:09:41* · [`dailyftlk`](https://www.ft.lk/business/Voyage-Sri-Lanka-2025-to-set-sail-on-16-October/34-782142) · `en`
-
-From left: SLPA Harbour Master Capt. Nirmal Silva, EDB Chairman/Chief Executive Officer Mangala Wijesinghe and EDB Acting Director General Erandika Disanayake
-
-The Sri Lanka Export Development Board (EDB) yesterday announced that it will host the second edition of ‘Voyage Sri Lanka’, South Asia’s premier marine summit, on 16 October 2025 at the Kingsbury Hotel in Colombo bringing together global leaders, policymakers, investors, and professionals from across the globe in the field of Blue Economy.
-
-This year’s event will be held under the theme “Unveiling the Blue Economy Potential of Sri Lanka,” highlighting the island nation’s ambition to position itself as a regional hub for marine excellence.
-
-...
-
-[Data](articles/310deddf.json)
-
----
-
-### நீதிபதிகள் பதவி உயர்வு முறையில் மாற்றம்; சிரேஷ்டத்துவம் புறக்கணிக்கப்படுகிறதா? – முஜிபுர் ரஹ்மான்
-
-*2025-09-25 03:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226006) · `ta`
-
-நீதிபதிகளுக்கு பதவி உயர்வு வழங்கம்போது  சிரேஷ்டத்துவத்தின் பிரகாரமே இதுவரை காலமும் வழங்கப்பட்டுவந்துள்ளன. ஆனால் தேசிய மக்கள் சக்தி அரசாங்கத்தில் அந்த முறைமை மாற்றப்பட்டு, புள்ளிகள் அடிப்படையில் பதவி உயர்வு வழங்கும் முறை பின்பற்றப்படுவதால், சிரேஷ்ட நீதிபதிகள் பாதிக்கப்படும் நிலை ஏற்பட்டுள்ளது. அதனால் இந்த விடயத்தில்  நீதிபதிகளுக்கு  அநீதி ஏற்பட்டுள்ளதா என தேடிப்பார்க்க தெரிவுக்குழு அமைக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர்  முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற தண்டனை சட்டக்கோவை (திருத்த) சட்டமூலம் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-மேல் நீதிமன்றங்களுக்கு 16 நீதிபதிகள் பதவி உயர்வு வழங்கி நியமிக்கப்பட்டிருக்கின்றனர்.இவர்கள் அனைவரும் நீதிமன்ற ஆணைக்குழுவினால் நடத்தப்பட்ட நேர்முகப்பரீட்சையில் பெற்ற புள்ளிகளின் அடிப்படையிலேயே நியமிக்கப்பட்டுள்ளனர். நேர்முகப்பரீட்சை நடத்த  நீதிமன்ற ஆணைக்குழுவினால் 3உறுப்பினர்கள்  நியமிக்கப்பட வேண்டும்.
-
-...
-
-[Data](articles/c381a4d2.json)
-
----
-
-### நீதிமன்ற சுயாதீனம் ஆபத்தில்; பிரதம நீதியரசர் விசேட கவனம் செலுத்த வேண்டும் - தயாசிறி ஜயசேகர
-
-*2025-09-25 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226005) · `ta`
-
-அமைச்சர் வசந்த சமரசிங்கவை கைது செய்து நீதிமன்றத்தில் முன்னிலைப்படுத்துமாறு உத்தரவிட்ட காரணத்தால் கல்சிசை நீதிமன்ற நீதிபதி உடன் அமுலுக்கு வரும் வகையில் இடமாற்றம் பெற்றப்பட்டார். சுயாதீனமாக செயற்பட்ட நீதிமன்ற சேவை உத்தியோகத்தர்கள் சங்கம்  அரசியல் நோக்கத்துடன் அரசாங்கத்துடன் தொடர்புப்பட்டுள்ளது. சிரேஷ்டத்துவமிக்க நீதிபதிகள் புறக்கணிக்கப்பட்டுள்ளார்கள். இவ்வாறான செயற்பாடுகளுக்கு இடமளிக்க முடியாது. நாங்கள் இதனை சர்வதேச நீதிமன்றம், சர்வதேச சட்டத்தரணிகள் சங்கம், ட்ரான்ஸ்பேரன்சி இன்டர்நெசனல் ஆகிய நிறுவனங்களுக்கு கொண்டு செல்வோம். நீதிமன்ற சுயாதீனம் குறித்து பிரதம நீதியரசர் விசேட கவனம் செலுத்த வேண்டும் என ஐக்கிய மக்கள் சக்தியின் குருநாகல் மாவட்ட பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (25) நடைபெற்ற  தண்டனைச் சட்டக்கோவை  (திருத்தச்)  சட்டமூலம் மீதான விவாதத்தில்  உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/b1a83116.json)
-
----
-
-### பங்களாதேஷை வீழ்த்திய இந்தியா முதல் அணியாக ஆசிய கிண்ண இறுதிக்குள் நுழைந்தது; இலங்கை ஏமாற்றத்துடன் வெளியேற உள்ளது
-
-*2025-09-25 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226004) · `ta`
-
-இந்தியாவுக்கும் பங்களாதேஷுக்கும் இடையில் துபாய் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் புதன்கிழமை (24) இரவு நடைபெற்ற ரி20 ஆசிய கிண்ண சுப்பர் 4 கிரிக்கெட் போட்டியில் 41 ஓட்டங்களால் வெற்றியீட்டிய இந்தியா முதலாவது அணியாக இறுதிப் போட்டியில் விளையாட தகுதிபெற்றுக்கொண்டது.
-
-அபிஷேக் வர்மாவின் அதிரடி அரைச் சதம், குல்தீப் யாதவ், ஜஸ்ப்ரிட் பும்ரா, வருண் சக்ரவர்த்தி ஆகியோரின் துல்லியமான பந்துவீச்சுகள் என்பன இந்தியாவின் வெற்றியில் பிரதான பங்காற்றின.
-
-பங்களாதேஷுடனான போட்டியில் இந்தியா வெற்றிபெற்றதை அடுத்து நடப்பு ரி29 ஆசிய கிண்ண சம்பியன் இலங்கையின் இறுதி ஆட்ட வாய்ப்பு பறிபோனது உறுதிசெய்யப்பட்டது.
-
-இந் நிலையில் பாகிஸ்தானுக்கும் பங்களாதேஷுக்கும் இடையில் வியாழக்கிழமை (25) நடைபெறவுள்ள சுப்பர் 4 போட்டியில் வெற்றிபெறும் அணி இந்தியாவை இறுதிப் போட்டியில் எதிர்த்தாட தகுதிபெறும்.
-
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இந்தியா 20 ஓவர்கள் நிறைவில் 6 விக்கெட்களை இழந்து 168 ஓட்டங்களைப் பெற்றது.
-
-...
-
-[Data](articles/1fbb0fc7.json)
-
----
-
-### மட்டு போதனா வைத்தியசாலை மலசல கூடத்தில் குழந்தையை பிரசவித்து அதனை மறைத்து வைத்திருந்த சுகாராத சிற்றூழியரான பெண் கைது
-
-*2025-09-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226003) · `ta`
-
-மட்டக்களப்பு போதனா வைத்தியசாலையில் சத்திர சிகிச்சை பிரிவில் மலசல கூடத்தில் குழந்தையை பிரசவித்து அதனை செய்து கட்டிலின் கீழ் மறைத்து வைத்திருந்த அங்கு கடமையாற்றி வரும் 35 வயதுடைய 2 பிள்ளைகளின் தாயான  சுகாதார சிற்றூழியர் ஒருவரை செவ்வாய்க்கிழமை (23) கைது செய்துள்ளதுடன் உயிரிழந்த நிலையில் குழந்தை மீட்கப்பட்ட  சம்பவத்தையடுத்து பொதுமக்கள் மத்தியில் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது
-
-குறித்த வைத்தியசாலையில் சத்திர சிகிச்சை பிரிவில் கடமையாற்றி வரும்  சிற்றூழியரான பெண் திருமணம் முடித்து இரண்டு பிள்ளைகளின் தாயாரான இவர் சம்பவ தினம் திங்கட்கிழமை (22) வழமைபோல வைத்தியசாலையில் கடமையாற்றி வந்துள்ளார்.
-
-இதன் போது  அவருக்கு வயிறு வலிப்பதாக அங்குள்ள மலசல கூடத்திற்கு சென்று ஒருவருக்கும் தெரியாமல்  பெண் குழந்தை ஒன்றை பிரசவித்து அதனை பெட்டி ஒன்றில் மூடி கட்டிலின் கீழ் மறைத்து வைத்துவிட்டு அங்கு கடமையாற்றி வந்துள்ளார்.
-
-...
-
-[Data](articles/37da0c4b.json)
-
----
 
 ### Zakath and poverty: Why the powerful tool falls short in Sri Lanka
 
@@ -2117,5 +2019,129 @@ Wang Se-Ann said that the entire village of Dama, where about 1,000 people live 
 [Data](articles/99cefd04.json)
 
 [Extended Data](ext_articles/99cefd04.ext.json)
+
+---
+
+### Asia-Pacific issuers to have bumpy ride as trade strains hit: S&P Global Ratings report
+
+*2025-09-24 14:29:00* · [`economynextcom`](https://economynext.com/asia-pacific-issuers-to-have-bumpy-ride-as-trade-strains-hit-sp-global-ratings-report-241756/) · `en`
+
+SINGAPORE (S&P Global Ratings) Sept. 24, 2025 — Asia-Pacific’s credit conditions are keeping steady, after strong first-half growth and supportive financing conditions. However, the road ahead looks bumpy. That’s according to a report S&P Global Ratings published today, titled “Credit Conditions Asia-Pacific Q4 2025: On A Jagged Course.”
+
+The “frontloading” of exports and resilient domestic consumption have supported the region’s growth in 2025. However, slower trade will start materializing in fourth-quarter 2025 as effects of tariffs start to unfold. Consequently, we expect Asia-Pacific’s growth to slow to 4.4% in 2025 and 4.0% in 2026.
+
+This combined with other risks could lead to reversals in market sanguinity and easy financing conditions.
+
+...
+
+[Data](articles/719e6edd.json)
+
+[Extended Data](ext_articles/719e6edd.ext.json)
+
+---
+
+### Hurricane Ragasa: 20 million people in China
+
+*2025-09-24 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225947) · `ta`
+
+Hurricane Hurricane Since last Monday in Taiwan. The storm is currently heading towards the southern coast of China. Hong Kong is also attacking.
+
+Sea waves rose sharply in Hong Kong. Hundreds of flights were canceled at Hong Kong's International Airport.
+
+Schools are closed in various cities of China. Even supermarkets were empty. There were no people on the streets.
+
+20 million people were taken safely in China's Guangdong Province. By this hurricane, 185 km. The wind blows at the speed. It is 230 km. It was also reported that it would speed up.
+
+Hurricane Hurricane Cynic. Three people have been killed in landslides and floods in the Philippines. Cars, bikes were thrown. They were lying on one another. Hurricane Hurricane Warning has been issued in Hong Kong. The impact of the storm will be till tomorrow morning.
+
+◼️
+
+[Data](articles/7002f6f1.json)
+
+[Extended Data](ext_articles/7002f6f1.ext.json)
+
+---
+
+### Demonstration in front of the Presidential Secretariat
+
+*2025-09-24 14:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-ஆர்ப்பாட்டம்/175-365207) · `ta`
+
+The National Organization to defend the rights of soldiers staged a demonstration on Wednesday (24) in front of the Presidential Secretariat in Colombo.
+
+The demonstration was carried out based on a number of demands, including widowing.
+
+Demonstrators marched from Colombo to the Presidential Secretariat to the Presidential Secretariat.
+
+◼️
+
+[Data](articles/9e7e29e7.json)
+
+[Extended Data](ext_articles/9e7e29e7.ext.json)
+
+---
+
+### LCs worth USD 1.5 billion opened for vehicle imports so far in 2025
+
+*2025-09-24 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112857/lcs-worth-usd-15-billion-opened-for-vehicle-imports-so-far-in-2025) · `en`
+
+Local banks have opened USD 1,570 million worth of Letters of Credit (LCs) as of September 16, 2025, for the importation of motor vehicles, according to Finance Ministry officials.
+
+This was revealed when the Finance Ministry officials were summoned before the Committee on Public Finance (CoPF) in Parliament.
+
+It was revealed during the Parliamentary Committee on Public Finance meeting that government revenue expectations from vehicle imports are likely to be exceeded by the end of the year.
+
+This was disclosed when CoPF Chairman Dr. Harsha de Silva inquired from Finance Ministry officials pertaining to the expected revenue from vehicles for this year, following the relaxation of imports earlier this year.
+
+Deputy Secretary to the Treasury Dilip Silva in response stated that the government anticipated a tax revenue of Rs. 460 billion for this year.
+
+...
+
+[Data](articles/6283e27e.json)
+
+[Extended Data](ext_articles/6283e27e.ext.json)
+
+---
+
+### SriLankan Airlines’s five-year plan to focus on financial stability
+
+*2025-09-24 13:57:00* · [`economynextcom`](https://economynext.com/srilankan-airliness-five-year-plan-to-focus-on-financial-stability-241749/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines’ said its new five-year strategic plan will focus on achieving financial stability, and recovery from recent fleet disruptions, among other matters.
+
+“SriLankan Airlines’ comprehensive five-year strategy is steering the airline towards operational efficiency and recovery from recent fleet disruptions,” the airline said in a statement.
+
+“Moving forward, SriLankan will focus on achieving financial stability through ongoing debt restructuring, fleet expansion, integration of global sustainability practices and adoption of technological innovations to deliver seamless experiences for the passengers.”
+
+The airline said it had optimized fleet management, driven revenue growth, cost rationalisation and restructuring debt in the last year.
+
+“SriLankan Airlines has improved its on-time performance to 74% this year, up from 69% in 2024, driven by agile fleet management despite global engine and spare parts shortages and performance challenges.”
+
+...
+
+[Data](articles/8d95a568.json)
+
+[Extended Data](ext_articles/8d95a568.ext.json)
+
+---
+
+### The fate of the Norwood student
+
+*2025-09-24 13:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோர்வூட்-மாணவிக்கு-நேர்ந்த-கதி/76-365206) · `ta`
+
+A student who was coming to the Norwood Tamil Maha Vidyalaya from the Norwood surface has slipped into the street and has been inconvenienced.
+
+The student has been admitted to the Dikoya-Klangan Hospital due to a massive injury on her leg. The incident took place on Tuesday (23).
+
+There is no road to Norwood to Norwood and Norwood Tamil Vidyalaya. With the bomb and the pit and the abyss, there is a need to travel on the cross roads that are not steady,
+
+While on the road, a student slipped and was admitted to the hospital with hardship.
+
+Therefore, the residents have demanded that the responsible people renovate the road and the cross road.
+
+◼️
+
+[Data](articles/360b5cb1.json)
+
+[Extended Data](ext_articles/360b5cb1.ext.json)
 
 ---

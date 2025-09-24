@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 07:45:52**
+As of **2025-09-24 07:05:47**
 
 ## Newspaper Stats
 
-*Scraped **77,786** Articles*
+*Scraped **77,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,77 +20,17 @@ adalk | 7,557
 adaderanalk | 10,082
 tamilmirrorlk | 11,713
 virakesarilk | 12,652
-adaderanasinhalalk | 13,587
+adaderanasinhalalk | 13,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,783 (100.0%) of 77,786 articles have been extended.
+77,782 (100.0%) of 77,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
-
-### මාරක අනතුරු කිහිපයක් - පාසල් සිසුවියක් ඇතුළු 04ක් මරුට
-
-*2025-09-24 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214936) · `si`
-
-ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු හතරකින් පාසල් සිසුවියක් ඇතුළු පුද්ගලයින් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-තිස්සමහරාමය, වෙන්නප්පුව, මීරිගම සහ කල්පිටිය පොලිස් වසම්වලින් ඊයේ (23) මෙම අනතුරු වාර්තා වී ඇති බව පොලීසිය පවසයි.
-
-මීරිගම පොලිස් වසමේ පස්යාල ගිරිඋල්ල මාර්ගයේ ඩී.එස්. හන්දිය අසලදී යතුරුපැදියක් දකුණුපසට හැරවීමට යාමේදී පිටුපසින් පැමිණි ප්‍රයිමුවර් රථයේ ගැටී යතුරුපැදියේ පසු පැදිකාරිය ප්‍රයිමුවර් රථයට යටවීමෙන් අනතුරක් සිදුව ඇත.
-
-අනතුරින් යතුරුපැදියේ පසු පැදිකාරිය බරපතළ තුවාල ලබා මීරිගම රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇති බව පොලීසිය පවසයි.
-
-එලෙස මියගොස් ඇත්තේ, නවගමුව, නිට්ටඹුව ප්‍රදේශයේ පදිංචිව සිටි 17 හැවිරිදි පාසල් සිසුවියකි.
-
-මේ අතර තිස්සමහරාමය පොලිස් වසමේ පන්නේගමුව දියබැදිය අතුරු මාර්ගයේ පන්නේගමුව ප්‍රදේශයේදී යතුරුපැදියක් පැදිකරුට පාලනය කරගැනීමට නොහැකිව මාර්ගය අසල තිබූ විදුලි රැහැන් කණුවක ගැටී සිදූ වූ අනතුරින් පැදිකරු බරපතළ තුවාල ලබා තිස්සමහරාමය රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
-
-එලෙස මියගොස් ඇත්තේ, පන්නේගමුව, වීරවිල ප්‍රදේශයේ පදිංචිව සිටි 28 හැවිරිදි තරුණයෙකි.
-
-...
-
-[Data](articles/2c1126a0.json)
-
----
-
-### අකුරට වැඩකිරීමේ විදුලි සේවක වෘත්තීය ක්‍රියාමාර්ගය තවත් දැඩි වෙයි
-
-*2025-09-24 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214935) · `si`
-
-ආරම්භ කර ඇති අකුරට වැඩකිරීමේ වෘත්තීය ක්‍රියාමාර්ගය සැලසුම් කළ පරිදි අද (24) මධ්‍යම රාත්‍රී දක්වා ක්‍රියාත්මක කරන බව විදුලි බල මණ්ඩලයේ විදුලි කාර්මික ශිල්පීන්ගේ සංගමය පවසයි.
-
-එහි සභාපති කෝසල අබේසිංහ මහතා පැවසුවේ, අද දහවල් ඉදිරි වෘත්තීය සමිති ක්‍රියාමාර්ග සම්බන්ධයෙන් සියලු වෘත්ති සමිති එක්ව අවසන් තීරණයක් ගන්නා බවය.
-
-◼️
-
-[Data](articles/e98a3012.json)
-
----
-
-### වහාම ක්‍රියාත්මක වන පරිදි USAC සාමාජිකත්වය අත්හිටුවීමට ICCයෙන් තීරණයක්
-
-*2025-09-24 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214934) · `si`
-
-වහාම ක්‍රියාත්මක වන පරිදි අමෙරිකා එක්සත් ජනපද ජාතික ක්‍රිකට් ආයතනයේ සාමාජිකත්වය අත්හිටුවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
-
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිල ව්‍යවස්ථාව යටතේ ICC සාමාජිකයෙකු ලෙස USA ක්‍රිකට් ආයතනය විසින් එහි බැඳීම් නැවත නැවතත් මෙන්ම අඛණ්ඩව උල්ලංඝනය කිරීම හේතුවෙන් මෙම තීරණය ගෙන ඇති බව වාර්තා වෙයි.
-
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ ඊයේ (23) පැවැති රැස්වීමකින් පසුව මෙම තීරණය ගෙන ඇත.
-
-USACහි අත්හිටුවීම පෙබරවාරි මාසයේ ඉන්දියාවේ සහ ශ්‍රී ලංකාවේ ආරම්භ වන T20 ලෝක කුසලානයට හෝ 2028 ලොස් ඇන්ජලීස් ඔලිම්පික් ක්‍රීඩා උළෙලට ජාතික කණ්ඩායමේ සහභාගීත්වයට බලපාන්නේ නැත.
-
-ජූලි මාසයේ පැවති ICC වාර්ෂික මහා සභා රැස්වීමේදී, "නිදහස් හා සාධාරණ මැතිවරණ" පැවැත්වීමට සහ "පුළුල්" පාලන ප්‍රතිසංස්කරණ සිදු කිරීමට USAC වෙත මාස තුනක් ලබා දී තිබුණි.
-
-ප්‍රතිසංස්කරණවල ප්‍රගතිය මත පදනම්ව සුදුසු යැයි සැලකෙන ඕනෑම ක්‍රියාමාර්ගයක් ගැනීමේ අයිතිය තමන් සතු බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය USAC වෙත අනතුරු ඇඟවීය.
-
-◼️
-
-[Data](articles/2aecf3c1.json)
-
----
 
 ### Heavy rains in several areas
 
@@ -114,25 +54,21 @@ The Department of Meteorology has requested the public to take action to reduce 
 
 ---
 
-### Increase the amount of the elderly
+### முதியோர் தொகை அதிகரிக்கும்
 
 *2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-தொகை-அதிகரிக்கும்/175-365173) · `ta`
 
-In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
+இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் மற்றும் தேசிய கொள்கைக்காக 2006 ஆம் ஆண்டில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
 
-According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
+மாறிவரும் போக்குகளுக்கமைய, இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் காலத்தோடு தழுவியதாக இற்றைப்படுத்தப்பட வேண்டுமென அடையாளங் காணப்பட்டுள்ளது.
 
-In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
+அத்துடன், 2052ஆம் ஆண்டில் 60 வயதுக்கு மேற்பட்ட சனத்தொகை 24.8 சதவீதம் வரை அதிகரிக்குமென ஐக்கிய நாடுகள் சபையின் பொருளாதார மற்றும் சமூக அலகால் எதிர்வு கூறப்பட்டுள்ளமையால், முதியோர்களின் நலனோம்புகை மற்றும் உரிமைகளை மேம்படுத்துதல் மற்றும் பாதுகாத்தல் அவசியமென அடையாளங் காணப்பட்டுள்ளது.
 
-Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
+அதற்கமைய, அரச தேசிய கொள்கை வேலைச் சட்டகமான 'மதிப்புமிகுந்த சிரேஷ்ட பிரஜை, அர்த்தமுள்ள இளைப்பாறிய வாழ்வு' தொனிப்பொருளுக்கமைய, முதியோருக்கு சமூக ரீதியான, பொருளாதார ரீதியான, உடலியல் மற்றும் ஆன்மீக ரீதியான திருப்திகரமான வாழ்வுக்காக வசதிகளை வழங்குவதற்கு இயலுமாகும் வகையில் 'இலங்கையின் முதியோருக்கான தேசிய கொள்கை' தயாரிக்கப்பட்டுள்ளது.
 
-The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Relief.
-
-◼️
+...
 
 [Data](articles/3a4fbc16.json)
-
-[Extended Data](ext_articles/3a4fbc16.ext.json)
 
 ---
 
@@ -2053,5 +1989,63 @@ The initiative will support biodiversity conservation by restoring degraded ecos
 [Data](articles/07f41bfb.json)
 
 [Extended Data](ext_articles/07f41bfb.ext.json)
+
+---
+
+### Sri Lanka and EU sign Euro 8 million grant agreement to support economic recovery
+
+*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-european-union-sign-euro-8-million-grant-agreement-to-support-economic-recovery) · `en`
+
+The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
+
+The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
+
+The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
+
+...
+
+[Data](articles/c50052b2.json)
+
+[Extended Data](ext_articles/c50052b2.ext.json)
+
+---
+
+### Four acting ministers appointed
+
+*2025-09-23 14:51:11* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අමාත්‍යවරු-සිව්-දෙනෙක්-පත්-කෙරේ/11-418675) · `si`
+
+President Anura Kumara Dissanayake has been appointed to four ministries to attend the United States General Assembly to attend the United Nations General Assembly.
+
+A private minister has been appointed to the Ministry of Foreign Affairs, Foreign Employment and Tourism, the Ministry of Defense and Ministry of Finance and Finance Ministry and Ministry of Finance and Economic Development and Economic Development and Economic Development.
+
+Deputy Minister of Labor and Economic Development Anil Jayantha Fernando as the Minister of Finance and Planning and Economic Development
+
+Digital Economic Minister Eranga Weeraratne as the Digital Economic Officers.
+
+Foreign Affairs, Foreign Employment Activity and Foreign Affairs
+
+◼️
+
+[Data](articles/486cf5c6.json)
+
+[Extended Data](ext_articles/486cf5c6.ext.json)
+
+---
+
+### New digital site to access public services
+
+*2025-09-23 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சேவைகளை-அணுக-புதிய-டிஜிட்டல்-தளம்/175-365134) · `ta`
+
+The Cabinet has approved the creation of a 'state superintendent' aimed at uninterrupted access to public services through a digital base.
+
+The current fragmented system forces users to enter the data repeated data on various portals and engage in various fields, subject to many authentication processes.
+
+Evaluation suggests that this is a loss of more than Rs. 500 million per year.
+
+◼️
+
+[Data](articles/17faa375.json)
+
+[Extended Data](ext_articles/17faa375.ext.json)
 
 ---

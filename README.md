@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 05:06:09**
+As of **2025-09-24 05:56:49**
 
 ## Newspaper Stats
 
-*Scraped **77,770** Articles*
+*Scraped **77,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,695
 dailymirrorlk | 4,733
-islandlk | 4,773
+islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,556
+adalk | 7,557
 adaderanalk | 10,082
-tamilmirrorlk | 11,710
+tamilmirrorlk | 11,712
 virakesarilk | 12,652
 adaderanasinhalalk | 13,583
 
@@ -26,25 +26,67 @@ adaderanasinhalalk | 13,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,769 (100.0%) of 77,770 articles have been extended.
+77,772 (100.0%) of 77,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### தற்போதாவது ஏற்றுக்கொள்வீர்களா?
+### ’தமிழர்களை அனுர அரசும் ஏமாற்றியுள்ளது’
+
+*2025-09-24 04:30:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களை-அனுர-அரசும்-ஏமாற்றியுள்ளது/175-365172) · `ta`
+
+தமிழ் மக்களை அனுரகுமார அரசு நம்ப வைத்து ஏமாற்றியுள்ளது தமிழ் மக்களின் நிலைமை முன்பு இருந்ததைவிட மோசமாக்கியுள்ளது என  இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்  தெரிவித்தார்.
+
+ஜனாதிபதியாக அனுரகுமார திசாநாயக்க, பதவியேற்று  ஒரு வருடம்  நிறைவடைந்துள்ள நிலையில், தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகள் நிறைவேற்றப்படவில்லை .தமிழ் மக்களின் அடிப்படை பிரச்சினைகளுக்குக் கூட எவ்வித தீர்வும் வழங்கப்படவில்லை என்றும் குற்றஞ்சாட்டினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) அன்று  இடம்பெற்ற   தேசியக் கட்டிட ஆராய்ச்சி நிறுவகம் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு குறிப்பிட்டார்.
+
+மேலும், ஜனாதிபதியின்  பதவிக் காலத்தில் ஒருவருடம் நிறைவடையும் போது,  ஒரு வருடத்தில் என்ன செய்தீர்கள் என்று எவரும் கேள்வி கேட்கக் கூடாது என்பதற்காகவே இம்மாதம் முதல் வாரத்தில் வடக்கு மற்றும்  ஏனைய மாகாணங்களில் அவசர அவசரமாக அபிவிருத்தி பணிகள் ஆரம்பிக்கப்பட்டன. அவமானப்படக்  கூடாது என்பதற்காகவே அவசரமாக ஒருசில அபிவிருத்திகள் ஆரம்பிக்கப்பட்டன.
+
+...
+
+[Data](articles/a29a222a.json)
+
+---
+
+### Fertilizer available in a timely manner
+
+*2025-09-24 04:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-காலத்தில்-உரம்-கிடைக்கும்/175-365171) · `ta`
+
+"The government has taken steps to obtain fertilizer without delay in a timely manner without delay, and the Tea Council has allocated Rs 2000 million.
+
+Ajantha Kammethake MP at the time of the oral answer in Parliament on Tuesday (23). In response to the questions raised, he added
+
+“Tea cultivation in the plantation industry has recently declined. The problem of fertilizer was mainly due to the lack of fertilizer in the past.. The resolutions made without fertilizer were the opposite of a major crisis. In that way, the tea crops have fallen and we have fertilized for it in the past year.
+
+There were troubles from the people that the fertilizer was supplied only through a company and that there was a delay in fertilizer supply. Some parties also put forward the idea of ​​getting fertilizer from other companies.
+
+Subsequently, we have obtained the permission of the Cabinet to create a new system in the distribution of fertilizer with all the ideas.
+
+...
+
+[Data](articles/ce6141ab.json)
+
+[Extended Data](ext_articles/ce6141ab.ext.json)
+
+---
+
+### Will you accept it right now?
 
 *2025-09-24 04:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போதாவது-ஏற்றுக்கொள்வீர்களா/175-365170) · `ta`
 
-பிரதி அமைச்சர்களுக்கு அதிகாரம் அளிக்கப்படவில்லை என்று குறிப்பிட்டு, பிரதி பாதுகாப்பு அமைச்சர் அருண ஜயசேகரவுக்கு   எதிரான  நம்பிக்கையில்லா பிரேரணையை நிராகரித்தீர்கள். ஆனால், இவர் தற்போது பாதுகாப்பு பதில் அமைச்சராக நியமிக்கப்பட்டுள்ளார். எனவே, நாங்கள் சமர்ப்பித்த நம்பிக்கையில்லா பிரேரணை சரியானது என்பதை தற்போதாவது  ஏற்றுக்கொள்வீர்களா?  என்று  எதிர்க்கட்சிகளின் பிரதம கொறடாவான கயந்த கருணாதிலக  எம்.பி. சபாநாயகரிடம் கேள்வியெழுப்பினார்.
+You rejected the no -confidence motion against Deputy Defense Minister Aruna Jayasekara, noting that the Deputy Ministers were not authorized. But he is currently appointed as the Defense Response Minister. So, will you now accept that the no -confidence motion we submitted is correct?  Gayantha Karunathilaka MP, the prime minister of the opposition parties. He questioned the Speaker.
 
-மேலும் அவர் பேசுகையில், உத்தியோகபூர்வ அரசுமுறை விஜயத்தை மேற்கொண்டு  ஜனாதிபதி அனுரகுமார திசாநாயக்க அமெரிக்கா சென்றுள்ளார்.ஜனாதிபதி வசமுள்ள மூன்று அமைச்சுகளுக்குப் பதில் அமைச்சர்கள்  நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு அறிக்கை வெளியிட்டுள்ளது.
+He also said that President Anura Kumara Dissanayake has visited the United States on an official state visit.
 
-பொருள்கோடல் கட்டளைச் சட்டத்தின் 2(அ) பிரிவில் 'அமைச்சர் ஒருவர் அரசாங்கத்தின் ஏதேனும் கடமை அல்லது கருமத்தை ஆற்றும் போது  அவருக்கு ஜனாதிபதியால் அந்த அதிகாரங்கள் வழங்கப்பட்டுள்ளன என்று கருதப்படும். முறையாக வகையில் குறித்த நபர் நியமிக்கப்பட்டுள்ளார் என்று கருதப்படும்'  என்று குறிப்பிடப்பட்டுள்ளது.
+In Article 2 of the Objective Ordinance Act, it is thought that when a minister has any duty or blackness of the government, he is assumed that the powers have been granted by the President.. It is considered to be appointed by the person properly.
 
 ...
 
 [Data](articles/c5002271.json)
+
+[Extended Data](ext_articles/c5002271.ext.json)
 
 ---
 
@@ -478,6 +520,22 @@ The need to be reconstructed quickly under the two -kilometer highway on the Sou
 
 ---
 
+### The need for investor education about risk-taking and Unit Trusts
+
+*2025-09-23 23:01:00* · [`islandlk`](http://island.lk/the-need-for-investor-education-about-risk-taking-and-unit-trusts/) · `en`
+
+Interview with Jeevan Sukumaran, Secretary, Unit Trust Association, Sri Lanka
+
+What does “risk” really mean in investing, and why should the public not be afraid of it?
+
+At the mention of the word risk in terms of investing, especially in a Sri Lankan context, there can be a significant level of fear or stigma attached to it. To some degree, this is fair given the country’s history of civil war, investment company scams (such as Golden Key/Ceylinco and Sakvithi and in more recent times, the Easter Attacks, Covid and the Economic crisis. This has led to a large majority of potential investors being afraid to venture very far beyond commercial banking products and, therefore, losing out on the earnings potential of other asset classes.
+
+...
+
+[Data](articles/c98755f8.json)
+
+---
+
 ### The president has reached the United States
 
 *2025-09-23 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/225903) · `ta`
@@ -493,6 +551,34 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herum has jo
 [Data](articles/db2b4a41.json)
 
 [Extended Data](ext_articles/db2b4a41.ext.json)
+
+---
+
+### Policy rate jitters seize bourse despite previous positive momentum lingering
+
+*2025-09-23 22:40:00* · [`islandlk`](http://island.lk/policy-rate-jitters-seize-bourse-despite-previous-positive-momentum-lingering/) · `en`
+
+The CSE was able to maintain the previous positive momentum yesterday but investors were concerned about the new policy rates to be announced by the Central Bank today.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 75.95 points, while the S and P SL20 rose by 20.03 points.
+
+Turnover stood at Rs 6.5 billion with 13 crossings. Top seven crossings that were reported in LOLC, which crossed 650,000 shares to the tune of Rs 370.5 million; its shares traded at Rs 570, Capital Alliance Holdings 13 million shares crossed for Rs 221 million; its shares traded at Rs 17, VallibelOne 1.06 million shares crossed for Rs 106 million; its sharestraded at Rs 100.
+
+...
+
+[Data](articles/87c836b4.json)
+
+---
+
+### Sarvodaya Development Finance delegation completes Agri-Innovate immersion at Kasetsart University, Thailand
+
+*2025-09-23 22:39:00* · [`islandlk`](http://island.lk/sarvodaya-development-finance-delegation-completes-agri-innovate-immersion-at-kasetsart-university-thailand/) · `en`
+
+A cross-functional leadership team from Sarvodaya Development Finance PLC (SDF) has completed the International Programme on Agri-Innovate: A Value Creation Journey from Soil to Shelf at the Faculty of Business Administration, Kasetsart University, Bangkok, delivered in collaboration with the Postgraduate Institute of Management (PIM). The mid-September programme focused on end-to-end value-chain innovation, from farm productivity and logistics to markets, risk management and consumer insight, aimed at accelerating sustainable growth in Sri Lanka’s agri-MSME segment.
+
+...
+
+[Data](articles/db160c97.json)
 
 ---
 
@@ -871,6 +957,26 @@ The bird of the bird, represented in 1956, has received 93 bird, represented in 
 [Data](articles/0e410c94.json)
 
 [Extended Data](ext_articles/0e410c94.ext.json)
+
+---
+
+### Heavy bodies and beer are the cause of Tangalle deaths
+
+*2025-09-23 19:32:40* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-හා-බීර-අධික-ලෙස-ශරීර-ගත-වීම-තංගල්ලේ-මරණවලට-හේතුවයි/11-418681) · `si`
+
+The reason for the influence of three persons in the house ofnone house innone house was killed.
+
+The Judicial Medical Officer of the Tangalle Base Hospital Ruwan Nananayakkara has been conducted by the Judicial Medical Officer of the Tangalle Base Hospital.
+
+The deaths have been detected as a result of heavy and heroin have been deemed.
+
+The bodies of two youths were found in a house in a house in the Tangalle Seennakola, another person was receiving treatment at the Tangalle Base Hospital.
+
+◼️
+
+[Data](articles/c7d694ba.json)
+
+[Extended Data](ext_articles/c7d694ba.ext.json)
 
 ---
 
@@ -1939,131 +2045,5 @@ Paranthan Chemicals currently imports chlorine and distributes it throughout the
 [Data](articles/906c61e0.json)
 
 [Extended Data](ext_articles/906c61e0.ext.json)
-
----
-
-### Owner of lorry found concealing drugs in Tangalle to be detained until 29 Sept.
-
-*2025-09-23 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112828/owner-of-lorry-found-concealing-drugs-in-tangalle-to-be-detained-until-29-sept) · `en`
-
-The owner of a lorry that was found concealing heroin and crystal methamphetamine (commonly known as ‘Ice’) in Seenimodara, Tangalle, yesterday (22), has been ordered to be detained for questioning.
-
-Mount Lavinia Magistrate Pasan Amarasena issued the order to allow the Mount Lavinia Police to question the suspect in connection with the discovery of a large haul of narcotics.
-
-The lorry was discovered by police near a house in Seenimodara, Tangalle, where the bodies of two men had previously been recovered. The narcotics were found hidden near the property.
-
-Following the discovery, officers from the Police Special Task Force (STF) arrested the suspect—identified as the owner of the lorry—in possession of 11 grams and 140 milligrams of heroin. He was subsequently handed over to the Mount Lavinia Police Station.
-
-The suspect was produced before the Mount Lavinia Magistrate’s Court today (23), where the order was issued.
-
-◼️
-
-[Data](articles/7ccd4e15.json)
-
-[Extended Data](ext_articles/7ccd4e15.ext.json)
-
----
-
-### 19 kilometers of southern highway renovate
-
-*2025-09-23 14:14:35* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-කිලෝමීටර්-19ක්-අලුත්වැඩියා-කරයි/11-418674) · `si`
-
-The road stream of the Southern Expressway from Kottawa to Dodangoda was opened for traffic in 2011 and no major repair to date.
-
-The need to repair a speedy repair of two to two highway section section of 19 kilometers from the Southern Expressway and 19 km.
-
-Accordingly, it is planned to reform under the second passage for the second-term package, which is destroyed by 0 to 19 kilometers of highways covering 4 kilometers highlights.
-
-The local bidders were summoned by the prices of Rs. 1490.96 million, the minimum bid of the minimum bid of Rs.
-
-◼️
-
-[Data](articles/162d0154.json)
-
-[Extended Data](ext_articles/162d0154.ext.json)
-
----
-
-### Cabinet approval to present the new microfinance bill to Parliament
-
-*2025-09-23 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214911) · `si`
-
-Cabinet approval has been approved to submit the new microfinance and credit regulatory Authority Bill to Parliament.
-
-The new Cabinet approval was given to introduce the new microfinance and Regulatory Authority Act No. 6 of 2016 to establish a wide regulatory framework for microfinance measures in Sri Lanka.
-
-Accordingly, the Bill has been published in the Government Gazette, 7 Pentum of the Supreme Court Pentum has been filed by various parties against the bill.
-
-The Ministry of Finance, Planning and Economic Development has paid attention to the decision given by the Supreme Court regarding the petitions and the 'Sectoral Oversionship Council' in Parliament.
-
-Accordingly, approval was given at the Cabinet Meeting held on 11-11-11 to the introduction of the new microfinance and credit regulatory authority.
-
-The Attorney General's clearance has been received for the new Bill, which was prepared by the Legal Draftsman.
-
-...
-
-[Data](articles/10fc092a.json)
-
-[Extended Data](ext_articles/10fc092a.ext.json)
-
----
-
-### Court orders the owner of an ice lorry and question
-
-*2025-09-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214910) · `si`
-
-Mt.
-
-The suspect was resident of the Ratmalana, Ratmalana.
-
-The lorry was recovered by the police yesterday (22), which was found near the house near the house found near the house near the house in Katambagahawatugamuwa, Tangalle.
-
-Accordingly, the owner of the lorry, which is owned by the STF, has been arrested by the police with heroin with 11 grains and 140 milligrams of heroin.
-
-The suspect was submitted to the Mount Lavinia Magistrate's Court today (23).
-
-◼️
-
-[Data](articles/f9c361e7.json)
-
-[Extended Data](ext_articles/f9c361e7.ext.json)
-
----
-
-### The Dalada Athro-Kayakara is attacking the assistant Hassi
-
-*2025-09-23 13:39:18* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-ඇත්-පන්තියේ-කදිරා-සහායක-හස්ති-පාලකවරයාට-පහර-දෙයි/11-418673) · `si`
-
-The handicrafts of the elephant had been admitted to the Mawanella hospital due to an assault on the Sri Dalada Maligawa elephant assault.
-
-The assault was held at the time of the attack last night while the Assistant Hasion of Assistant had taken place at a time when the elephant Hasion was not available.
-
-Hospital sources say that the 22-year-old Assistant Hasion of the 22-year-old Assistant Hasion is to be transferred to Kegalle hospital for further treatment.
-
-The elected Ayurvedic Medadu is a well-known Ayurvedic Medical Monk is a Savings Sacred to the Sri Dalada Maligawa in 1986.
-
-Mawanella Police said that the attack had occurred when Mawanella was tied at the temple.
-
-◼️
-
-[Data](articles/80ce894f.json)
-
-[Extended Data](ext_articles/80ce894f.ext.json)
-
----
-
-### Uni students’ protest leads to heavy traffic between Narahenpita and Borella
-
-*2025-09-23 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112827/uni-students-protest-leads-to-heavy-traffic-between-narahenpita-and-borella) · `en`
-
-Heavy traffic congestion has been reported from Narahenpita towards Borella owing to a protest, according to Ada Derana reporter today.
-
-Accordingly, the Baseline road has been blocked due to a protest march staged by a group of university students.
-
-◼️
-
-[Data](articles/1ca7232d.json)
-
-[Extended Data](ext_articles/1ca7232d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 14:12:00**
+As of **2025-09-24 14:38:37**
 
 ## Newspaper Stats
 
-*Scraped **77,864** Articles*
+*Scraped **77,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,568
-adaderanalk | 10,092
-tamilmirrorlk | 11,736
+adaderanalk | 10,094
+tamilmirrorlk | 11,738
 virakesarilk | 12,666
 adaderanasinhalalk | 13,605
 
@@ -26,71 +26,167 @@ adaderanasinhalalk | 13,605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,860 (100.0%) of 77,864 articles have been extended.
+77,866 (100.0%) of 77,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### මූල්‍ය සේවා සඳහා ඩිජිටල් පහසුකම් සැපයීමෙන් ලැබෙන වාසි ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
+### Hurricane Hurricane in Taiwan 124 people magic
 
-*2025-09-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214955) · `si`
+*2025-09-24 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
 
-මූල්‍ය සේවා සඳහා ඩිජිටල් යටිතල පහසුකම් ගොඩනැංවීමෙන් සියලු පාර්ශ්වයන්ට ප්‍රතිලාභ අත්වන බව, ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Hurricane Hallian, a popular tourist center, Taiwan's popular tourist destination, killed 14 people.
 
-සැප්තැම්බර් මාසය ඩිජිටල් මාසය ලෙස නම්කරමින් රජයේ ඩිජිටල්කරණ වැඩපිළිවෙළ පිළිබඳ පුළුල් ප්‍රචාරණයක් ලබාදීම ඇතුළු කරුණු අරමුණු කරගත් ෆින්ටෙක් 2025 සමුළුව අද පැවැත්වුණේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදීය.
+The fire department said on Wednesday that 124 people were missing when the city was flooded with water in the hills and flooded the city due to heavy rains during the hurricane.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+The cyclone, which has hit Taiwan since Monday, has now attacked China's southern coast and Hong Kong, the Asian financial center.
 
-...
+The barrier caused by heavy rains in the east has been flooded in the city of Guangfu on Tuesday afternoon.
 
-[Data](articles/ae432dd6.json)
+Fire officials said that all the deceased and the disappeared were in Guangfu, where a large road bridge across a river was flooded.
+
+Wang Se-Ann said that the entire village of Dama, where about 1,000 people live in Townshouse, are flooded and many are still trapped.
+
+◼️
+
+[Data](articles/99cefd04.json)
+
+[Extended Data](ext_articles/99cefd04.ext.json)
 
 ---
 
-### ”கைது செய்யும் முன் அறிவிப்போம்”
+### Demonstration in front of the Presidential Secretariat
+
+*2025-09-24 14:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-ஆர்ப்பாட்டம்/175-365207) · `ta`
+
+The National Organization to defend the rights of soldiers staged a demonstration on Wednesday (24) in front of the Presidential Secretariat in Colombo.
+
+The demonstration was carried out based on a number of demands, including widowing.
+
+Demonstrators marched from Colombo to the Presidential Secretariat to the Presidential Secretariat.
+
+◼️
+
+[Data](articles/9e7e29e7.json)
+
+[Extended Data](ext_articles/9e7e29e7.ext.json)
+
+---
+
+### The fate of the Norwood student
+
+*2025-09-24 13:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோர்வூட்-மாணவிக்கு-நேர்ந்த-கதி/76-365206) · `ta`
+
+A student who was coming to the Norwood Tamil Maha Vidyalaya from the Norwood surface has slipped into the street and has been inconvenienced.
+
+The student has been admitted to the Dikoya-Klangan Hospital due to a massive injury on her leg. The incident took place on Tuesday (23).
+
+There is no road to Norwood to Norwood and Norwood Tamil Vidyalaya. With the bomb and the pit and the abyss, there is a need to travel on the cross roads that are not steady,
+
+While on the road, a student slipped and was admitted to the hospital with hardship.
+
+Therefore, the residents have demanded that the responsible people renovate the road and the cross road.
+
+◼️
+
+[Data](articles/360b5cb1.json)
+
+[Extended Data](ext_articles/360b5cb1.ext.json)
+
+---
+
+### CMC employee arrested for selling heroin and ‘Ice’
+
+*2025-09-24 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112856/cmc-employee-arrested-for-selling-heroin-and-ice) · `en`
+
+An office assistant of the Colombo Municipal Council (CMC) has been arrested by the Walana Anti-Vice Unit for allegedly selling heroin and crystal methamphetamine (commonly known as Ice) to workers of the council.
+
+Police said the suspect had been carefully packaging heroin and ‘Ice’ in his office room over an extended period and distributing it to municipal council workers.
+
+The suspect’s office is reportedly located in a building belonging to the Colombo Municipal Council near Campbell Park.
+
+Acting on a tip-off, officers of the Walana Anti-Vice Unit carried out a raid on September 22 and recovered more than 20 grams of heroin from the suspect’s possession, police said.
+
+The 38-year-old suspect has been taken into custody and handed over to the Borella Police.
+
+After being produced before the Aluthkade Magistrate’s Court, a detention order was issued, and further investigations are ongoing.
+
+◼️
+
+[Data](articles/da4e2f6d.json)
+
+---
+
+### Central Bank Governor explains the benefits of digital facilities for financial services
+
+*2025-09-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214955) · `si`
+
+Central Bank Governor Dr. Nandalal Weerasinghe says that the digital infrastructure for financial services benefits to all parties.
+
+The Pininte 2025 convention was held at the Bandaranaike Memorial International Conference Hall, designated as the digital monthly month.
+
+Speaking further Mr. Dr. Nandalal Weerasinghe,
+
+"The digital infrastructure for financial services benefits to all parties. The Central Bank of Sri Lanka, Second Commercial Banks, customers, are the people. Financial services or at least paying methods of payment methods will come down cost costs and cash savings. The central bank will be able to provide those benefits to the front. The investment for the digitalization of commercial banks will be given high benefits. Money transfer and finance administration is easy and reduces costs. I think the most benefits of the. It enables them to dealize the bank without. The most benefits of the people who properly use the digitization are the most commonly used people. "
+
+◼️
+
+[Data](articles/ae432dd6.json)
+
+[Extended Data](ext_articles/ae432dd6.ext.json)
+
+---
+
+### "We will announce before arrests"
 
 *2025-09-24 13:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைது-செய்யும்-முன்-அறிவிப்போம்/175-365205) · `ta`
 
-முன்னாள் அமைச்சர் உதய கம்மன்பிலவை கைது செய்ய முடிவு எடுக்கப்பட்டால், மனு மூலம் நீதிமன்றத்திற்கு அறிவிப்பதாக சட்டமா அதிபர் மேன்முறையீட்டு நீதிமன்றத்திற்கு புதன்கிழமை (24) அறிவித்துள்ளார்.
+The Attorney General has announced the appeal to the Court of Appeal on Wednesday (24) that if the decision is taken to arrest former minister Udaya Kammanpila, the court will announce the court.
 
-உதய கம்மன்பிலவை கைது செய்வதைத் தடுக்க உத்தரவிடக் கோரி தாக்கல் செய்த ரிட் மனு இன்று (24)  விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, குற்றப் புலனாய்வுத் துறை சார்பாக ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் சுதர்ஷன டி சில்வா, இவ்வாறு தெரிவித்தார்.
+Sudarshana de Silva, Additional Solicitor General, who appeared on behalf of the Criminal Investigation Department (CID), said that the writ petition filed today (24) seeking an order to prevent Udaya Kammanpila.
 
 ◼️
 
 [Data](articles/c60dbc0f.json)
 
+[Extended Data](ext_articles/c60dbc0f.ext.json)
+
 ---
 
-### ”விதவை சம்பளத்தை வழங்கு”
+### “Provide a widow salary”
 
 *2025-09-24 13:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விதவை-சம்பளத்தை-வழங்கு/175-365204) · `ta`
 
 போர்வீரர்களின் உரிமைகளைப் பாதுகாப்பதற்கான தேசிய அமைப்பு கொழும்பில் உள்ள ஜனாதிபதி செயலகத்தின் பிரதான நுழைவாயிலுக்கு முன்னால் அமர்ந்து போராட்டத்தைத் தொடங்கியுள்ளது.
 
-விதவை சம்பளம் வழங்குதல் உள்ளிட்ட பல கோரிக்கைகளை அடிப்படையாகக் கொண்டு இந்தப் போராட்டம் தொடங்கப்பட்டுள்ளது.
+The struggle has been launched based on a number of demands, including widowing.
 
-போராட்டம் தொடங்குவதற்கு முன்பு, போராட்டக்காரர்கள் கொழும்பு கோட்டை ரயில் நிலையத்திலிருந்து ஜனாதிபதி செயலகம் வரை பேரணியாகச் சென்றனர்.
+Before the protest began, the protesters marched from the Colombo Fort Railway Station to the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/fc9f54bb.json)
 
+[Extended Data](ext_articles/fc9f54bb.ext.json)
+
 ---
 
-### කාර්මික ශිල්පීන් අද  මධ්‍යම රාත්‍රිය දක්වාත් අකුරට වැඩ
+### Technicians work to midnight today
 
 *2025-09-24 13:19:18* · [`adalk`](https://www.ada.lk/breaking_news/කාර්මික-ශිල්පීන්-අද--මධ්‍යම-රාත්‍රිය-දක්වාත්-අකුරට-වැඩ/11-418697) · `si`
 
-විදුලි සේවකයින් ආරම්භ කර ඇති අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය, නියමිත පරිදි අද (24) මධ්‍යම රාත්‍රිය දක්වා ක්‍රියාත්මක කරන බව විදුලි බල මණ්ඩලයේ විදුලි කාර්මික ශිල්පීන්ගේ සංගමය දන්වා සිටියි.
+Electriciancies 'Association of the Electriciancies' Association of the CEB will be informed today (24).
 
-ඉදිරි වෘත්තීය සමිති ක්‍රියාමාර්ග පිළිබඳව සියලු වෘත්ති සමිති එක්වී අද දහවල් අවසන් තීරණයක් ගන්නා බවයි එම සංගමය වැඩිදුරටත් දන්වා සිටියි.
+The Association further stated that a final decision will be taken this afternoon regarding the coming trade union action.
 
-මේ අතර විදුළි බල මණ්ඩල සියලු සේවකයන්ගේ නිවාඩු වහාම ත්‍රියාත්මක වන පරිදි අවලංගුකර ඇත. එසේම විදුලි සේවකයන්ගේ සියලු සේවාවන් අත්‍යාවශ්‍ය සෙවාවන් බවට ප්‍රකාශයට පත්කරමින් ජනපතිගේ අත්සනින් යුත් අති විෂේශ ගැසට් නිවේදනයක් පසුගිය 21 වනදා සිට නිකුත් කර තිබේ.
+Meanwhile, the delegation of all employees has been canceled immediately. Also, all the services of electric servants are essential facilities to the president's signature have been released from the 21st from the 21st.
 
 ◼️
 
 [Data](articles/f1b646fd.json)
+
+[Extended Data](ext_articles/f1b646fd.ext.json)
 
 ---
 
@@ -179,6 +275,24 @@ Secretary to the Ministry of Foreign Affairs, Foreign Employment and Tourism Vij
 [Data](articles/932c69fd.json)
 
 [Extended Data](ext_articles/932c69fd.ext.json)
+
+---
+
+### Court will be informed if decision made on Gammanpila’s arrest – AG
+
+*2025-09-24 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112855/court-will-be-informed-if-decision-made-on-gammanpilas-arrest-ag) · `en`
+
+The Attorney General’s Department today (24) informed the Court of Appeal that if a decision is made to arrest former Minister Udaya Gammanpila, the court will be notified of that decision through a motion, said Ada Derana reporter.
+
+Additional Solicitor General Sudarshana de Silva, appearing on behalf of the Criminal Investigation Department (CID), made this submission when the writ petition filed by Udaya Gammanpila—seeking an order to prevent his arrest—was taken up for consideration today.
+
+On September 12, the CID informed the Court of Appeal that no decision had yet been made to arrest the former Minister.
+
+Deputy Solicitor General Sudarshana de Silva, representing the CID, told the court that the police had not at that stage taken a decision to arrest the petitioner, adding that investigations were still ongoing and a final decision would be made thereafter.
+
+...
+
+[Data](articles/385bb55d.json)
 
 ---
 
@@ -481,30 +595,6 @@ The President said the President was due to address the United Nations General A
 [Data](articles/d396a25a.json)
 
 [Extended Data](ext_articles/d396a25a.ext.json)
-
----
-
-### Hurricane Hurricane in Taiwan 124 people magic
-
-*2025-09-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225920) · `ta`
-
-Hurricane Hallian, a popular tourist center, Taiwan's popular tourist destination, killed 14 people.
-
-The fire department said on Wednesday that 124 people were missing when the city was flooded with water in the hills and flooded the city due to heavy rains during the hurricane.
-
-The cyclone, which has hit Taiwan since Monday, has now attacked China's southern coast and Hong Kong, the Asian financial center.
-
-The barrier caused by heavy rains in the east has been flooded in the city of Guangfu on Tuesday afternoon.
-
-Fire officials said that all the deceased and the disappeared were in Guangfu, where a large road bridge across a river was flooded.
-
-Wang Se-Ann said that the entire village of Dama, where about 1,000 people live in Townshouse, are flooded and many are still trapped.
-
-◼️
-
-[Data](articles/99cefd04.json)
-
-[Extended Data](ext_articles/99cefd04.ext.json)
 
 ---
 
@@ -1985,89 +2075,5 @@ The MFB’s opening places Ocean Lanka as a model plant committed to developing 
 [Data](articles/38f1cde2.json)
 
 [Extended Data](ext_articles/38f1cde2.ext.json)
-
----
-
-### Cabinet clears Rs. 2.5 b road, expressway development projects
-
-*2025-09-24 02:15:58* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-Rs-2-5-b-road-expressway-development-projects/56-782086) · `en`
-
-Rs. 1 b from unused OPEC Fund loan and Govt. funds to upgrade Ambilipitiya–Panamura–Buluthota road
-
-Rs. 1.5 b contract awarded to Access WKK JV to repair Kottawa–Dodangoda stretch of Southern Expressway
-
-Cabinet Spokesperson and Minister Dr. Nalinda Jayatissa yesterday said two major road development projects worth more than Rs. 2.4 billion have been approved, drawing on external financing and Government allocations.
-
-He said Sri Lanka had secured a $ 40 million loan from the OPEC Fund to improve the Rakwana–Suriyakanda section of the Galle–Deniyaya–Madampe road.
-
-On Monday the Cabinet cleared the use of this balance, together with domestic funds, to upgrade a 9.62 km section of the Ambilipitiya–Panamura–Buluthota (B115) road from Kolonna to Suriyakanda, Dr. Jayatissa said.
-
-...
-
-[Data](articles/f0a18904.json)
-
-[Extended Data](ext_articles/f0a18904.ext.json)
-
----
-
-### UN to review Sri Lanka enforced disappearances
-
-*2025-09-24 02:14:52* · [`dailyftlk`](https://www.ft.lk/news/UN-to-review-Sri-Lanka-enforced-disappearances/56-782085) · `en`
-
-Seeks progress on addressing 14,988 complaints filed with the Office on Missing Persons
-
-The UN Committee on Enforced Disappearances will review Sri Lanka on Friday, 26 September, in Geneva. The review will take place in two sessions, from 10:00 a.m. to 1:00 p.m. and from 3:00 p.m. to 6:00 p.m. local time, and will be broadcast live on UNTV.
-
-During the public dialogue, the Committee is expected to question the Sri Lankan delegation on a range of issues raised in its ‘List of Issues’, which followed the Government’s submission of its periodic report.
-
-These include progress on addressing the 14,988 complaints filed with the Office on Missing Persons, and whether legal safeguards exist to prevent military authorities from investigating or prosecuting enforced disappearance cases.
-
-...
-
-[Data](articles/3a7477d1.json)
-
-[Extended Data](ext_articles/3a7477d1.ext.json)
-
----
-
-### Parliament Committee approves reports on Probation Services, Thriposha
-
-*2025-09-24 02:14:21* · [`dailyftlk`](https://www.ft.lk/news/Parliament-Committee-approves-reports-on-Probation-Services-Thriposha/56-782084) · `en`
-
-Parliament Secretariat yesterday said the Sectoral Oversight Committee on Health, Media and Women’s Empowerment has approved the Annual Performance Report of the Department of Probation and Child Care Services for 2024 and the Annual Reports of Sri Lanka Thriposha Limited for 2021 and 2023.
-
-The approvals were made at the committee meeting held on 10 September in Parliament under the Chairmanship of Dr. Nihal Abeysinghe. In reviewing the Department of Probation and Child Care Services, members stressed the importance of introducing a monthly system to track the number of cases raised and the measures taken to resolve them. After detailed discussions, the committee endorsed the report.
-
-When considering Sri Lanka Thriposha Limited’s reports, officials said modern silos funded by the World Food Programme and fitted with dryers and cooling systems were being introduced to reduce the risk of raw material contamination.
-
-◼️
-
-[Data](articles/dc5eb449.json)
-
-[Extended Data](ext_articles/dc5eb449.ext.json)
-
----
-
-### CMEV warns of voter knowledge gaps, low trust in election information
-
-*2025-09-24 02:13:59* · [`dailyftlk`](https://www.ft.lk/news/CMEV-warns-of-voter-knowledge-gaps-low-trust-in-election-information/56-782083) · `en`
-
-Assessment finds men and rural voters more engaged than women and urban voters
-
-Misinformation and biased reporting cited as key obstacles to electoral participation
-
-Report calls for legal reforms, stronger Election Commission powers, and media literacy
-
-The Centre for Monitoring Election Violence (CMEV) and the Centre for Policy Alternatives (CPA), in partnership with Internews, yesterday released an Election Information Assessment (EIA) that highlights significant shortcomings in how electoral information is disseminated and accessed in Sri Lanka.
-
-The report, published in the context of the Aragalaya protests and subsequent national elections, found widespread gaps in voter knowledge, with many respondents unaware of different election types and modalities.
-
-It also noted demographic disparities, with men and rural voters showing higher levels of engagement than women and urban voters.
-
-...
-
-[Data](articles/515ef7bf.json)
-
-[Extended Data](ext_articles/515ef7bf.ext.json)
 
 ---

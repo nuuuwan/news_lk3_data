@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 23:56:59**
+As of **2025-09-25 00:36:59**
 
 ## Newspaper Stats
 
-*Scraped **77,964** Articles*
+*Scraped **77,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,578
 adaderanalk | 10,121
-tamilmirrorlk | 11,755
+tamilmirrorlk | 11,756
 virakesarilk | 12,679
-adaderanasinhalalk | 13,623
+adaderanasinhalalk | 13,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,964 (100.0%) of 77,964 articles have been extended.
+77,966 (100.0%) of 77,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### Sri Lanka is expelled from the Asian bowl
+
+*2025-09-24 23:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணத்திலிருந்து-வெளியேற்றப்பட்ட-இலங்கை/44-365247) · `ta`
+
+Sri Lanka has been dismissed from the Asian Cup series following India's winning Super 4 round match against Bangladesh today in Dubai, UAE.
+
+India, Abhishek Sharma's 75 (37), Shubman Gill's 29 (19) runs, Rishad Hossain (2), Mustafizur Rahman, Tansim Hassan, took 6 wickets in 20 overs and lost 6 wickets in 20 overs.. Hardik Pandya scored 38 (29) runs.
+
+When Saif Hassan scored 69 (51) runs on behalf of Bangladesh who won 169 runs, Jasprit Bumrah (2), Kuldeep Yadav (3), Aksar Patel, Varun Chakraborty (2) Failed.
+
+India, which had already won Pakistan, qualified for the finals before their next Sri Lanka.
+
+◼️
+
+[Data](articles/6a58d1c5.json)
+
+[Extended Data](ext_articles/6a58d1c5.ext.json)
+
+---
+
+### India to fight Asian cup
+
+*2025-09-24 23:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214976) · `si`
+
+Bangladesh defeated 41 runs and qualify for the finals of the Asia Cup Twenty20 cricket tournament.
+
+The Super 4 (24) was able to score only 127 runs in 19.3 overs.
+
+With this Jayath of India, the contest against Sri Lanka was able to qualify for the final.
+
+The Bangladesh should have won the final in the match to have any hope for the final match of Sri Lanka with the defeat of Pakistan.
+
+Sri Lanka was officially removed from the tournament.
+
+Bangladesh - Pakistan match will be held tomorrow (25), constructing the Super 4 matches.
+
+The team team can qualify for the final.
+
+◼️
+
+[Data](articles/fab7cf30.json)
+
+[Extended Data](ext_articles/fab7cf30.ext.json)
+
+---
 
 ### Traveling in October Sri Lanka is the best country
 
@@ -2087,53 +2133,5 @@ The Attorney General informed the Court today that a motion would be informed of
 [Data](articles/7bb1baef.json)
 
 [Extended Data](ext_articles/7bb1baef.ext.json)
-
----
-
-### Here's what revealed at the Committee on Vehicle Import
-
-*2025-09-24 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214954) · `si`
-
-The Committee on Finance Committee was revealed that the government expected to be exceeded by the end of the year under the import of vehicle imports.
-
-That was when the Committee met with the Chairman of the Chairman Dr. Harsha De Silva yesterday (23).
-
-Chairman of the Public Finance Committee Dr. Harsha de Silva - what is the expected income of the vehicles this year?
-
-Treasury Deputy Secretary Dilip Silva - "This year is Rs. 460 billion."
-
-Chairman of the Committee on Public Finance Dr. Harsha de Silva - Didn't it change?
-
-Trade & Investment Policy Additional Director General Malshani Abeyratne - "In terms of now. Didn't expect so many vehicles. We see a way coming like 700 billion. "
-
-Chairman of the Committee on Public Finance Dr. Harsha de Silva and the letters of credit?
-
-Additional Director General Director General Musasani Abeyratne - "$ 1570 million. Until September 16th. "
-
-In the meantime, the tourism industry would be around US $ 3.5 billion.
-
-...
-
-[Data](articles/2ef285d7.json)
-
-[Extended Data](ext_articles/2ef285d7.ext.json)
-
----
-
-### Export earnings exceeding US $ 11 billion
-
-*2025-09-24 12:53:32* · [`adalk`](https://www.ada.lk/business/මුල්-මාස-8ට-අපනයන-ආදායම-ඩොලර්-බිලියන-11ක්-ඉක්මවයි/7-418694) · `si`
-
-In the first eight months of the first eight months of the year, the Sri Lankan export sector showed a high quality and stable progress. Total export income is US $ 11554.32 million. It is 6.61% growth compared to the 2024.
-
-Total export earnings in merchandise goods and services in August 2025 were US $ 1,607.58 million. This is 2.57% annual growth compared to August 2024. This reflects the positive impact of strategic efforts taken to expand the energy and market access to Sri Lanka's export sector.
-
-Mr. Mangala Wijesinghe commented on the President and CEO of the EDB.
-
-...
-
-[Data](articles/e494879d.json)
-
-[Extended Data](ext_articles/e494879d.ext.json)
 
 ---

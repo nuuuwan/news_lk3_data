@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 02:37:22**
+As of **2025-09-25 03:06:10**
 
 ## Newspaper Stats
 
-*Scraped **77,972** Articles*
+*Scraped **77,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,528
 adalk | 7,578
-adaderanalk | 10,123
+adaderanalk | 10,124
 tamilmirrorlk | 11,756
 virakesarilk | 12,679
 adaderanasinhalalk | 13,626
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,972 (100.0%) of 77,972 articles have been extended.
+77,973 (100.0%) of 77,973 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,9 +36,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-25 02:07:30* · [`dailyftlk`](https://www.ft.lk/columns/Zakath-and-poverty-Why-the-powerful-tool-falls-short-in-Sri-Lanka/4-782124) · `en`
 
-Zakath (micro finance of a minority Muslim community) is not merely an act of charity but a system meant to eradicate poverty and strengthen social justice. In Sri Lanka, however, its potential remains underutilised due to a consumption-heavy approach and lack of sustainable strategies. Unless zakath distribution evolves from relief to empowerment, Muslims will continue to face the painful irony of widespread poverty, which is said to be three times higher than the national average.
+Zakath is designed not merely to relieve poverty temporarily but to eradicate it by creating economic balance and social solidarity
 
-In Sri Lanka, zakath is too often spoken of only during Ramazan, when most Muslims rush to fulfil their duty and then let the dialog fade away for another year. Yet, zakath was never meant to be a passing ritual; it is a social justice and a lifeline for the poor. If practiced with vision and commitment, it can become a powerful force that uplifts families, restores dignity, and transforms entire communities.
+Modern business enterprises are scientific, complex, and competitive. No project can succeed without rigorous planning — including feasibility studies, project appraisals, business models, and risk management strategies. Although zakath administrators and volunteers dedicate themselves selflessly, most lack the technical expertise required for such tasks. Many are unfamiliar with the importance of professional assessments, while others are hesitant to allocate funds for preliminary studies, considering them “wasteful.” This approach, however, contradicts both reason and revelation
 
 ...
 
@@ -147,6 +147,28 @@ At least five Buddhist monks are reported dead after a cable car broke from the 
 [Data](articles/10beb17f.json)
 
 [Extended Data](ext_articles/10beb17f.ext.json)
+
+---
+
+### Seven Buddhist monks reported dead in cable car accident at Na Uyana Monastery
+
+*2025-09-25 00:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112885/seven-buddhist-monks-reported-dead-in-cable-car-accident-at-na-uyana-monastery) · `en`
+
+(UPDATED: 1.09 a.m.) - The death toll from the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura has increased to seven Buddhist monks.
+
+At least two of the deceased monks are foreign nationals, and their bodies have been placed at the Gokarella District Hospital. The bodies of the other monks have been placed at the Kurunegala Teaching Hospital.
+
+It is reported that 13 Buddhist monks were riding the cable car in the monastery at the time of the accident.
+
+The seriously injured monks have now been admitted to the Kurunegala Teaching Hospital.
+
+At least five Buddhist monks are reported dead after a cable car broke from the cable and fell down at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura, Kurunegala Hospital sources told Ada Derana.
+
+...
+
+[Data](articles/b9e4590d.json)
+
+[Extended Data](ext_articles/b9e4590d.ext.json)
 
 ---
 
@@ -2121,25 +2143,5 @@ Therefore, the residents have demanded that the responsible people renovate the 
 [Data](articles/360b5cb1.json)
 
 [Extended Data](ext_articles/360b5cb1.ext.json)
-
----
-
-### Tipper Cops Police Constable Billy
-
-*2025-09-24 13:52:53* · [`adalk`](https://www.ada.lk/breaking_news/ටිපර්-රියට-පොලිස්-කොස්තාපල්-බිලි/11-418698) · `si`
-
-Nittambuwa Police say that a motorcycle was rushed to a Tipper at the Kandy-Kandy Highway.
-
-The deceased has been identified as a Warakapola Marahena resident who worked in the incident today.. Rukmal is a 33.
-
-Police constable was injured when the tipper vehicle traveling to Kandy before another vehicle, police said. The police said that the injured was the injured in hospitalized by the driver of the lengthy of the leaders of foreign residents.
-
-The autopsy was scheduled to be held today. The traffic section of the Nittambuwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/d0ae30db.json)
-
-[Extended Data](ext_articles/d0ae30db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 10:20:39**
+As of **2025-09-24 11:20:37**
 
 ## Newspaper Stats
 
-*Scraped **77,822** Articles*
+*Scraped **77,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,268 @@ colombotelegraphcom | 788
 economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
-dailyftlk | 5,525
-adalk | 7,560
+dailyftlk | 5,526
+adalk | 7,561
 adaderanalk | 10,090
-tamilmirrorlk | 11,721
+tamilmirrorlk | 11,730
 virakesarilk | 12,662
-adaderanasinhalalk | 13,594
+adaderanasinhalalk | 13,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,813 (100.0%) of 77,822 articles have been extended.
+77,835 (100.0%) of 77,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### අත්තනගලු ඔයට පැන තරුණියක් සියදිවි නසා ගෙන
+### President calls the United Nations General Assembly today
+
+*2025-09-24 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214947) · `si`
+
+President Anura Kumara Dissanayake is also scheduled to address the United Nations General Assembly today.
+
+The President said the President was due to address the United Nations General Assembly at 3.1 pm today.
+
+President Anura Kumara Dissanayake, who left the 80th session of the United Nations General Assembly, arrived in the United States yesterday.
+
+During the visit, the President will hold bilateral discussions with the Secretary General of the United Nations and several heads of state.
+
+President's media unit said that President Anura Kumara Dissanayake is scheduled to meet with Sri Lankans in the United States.
+
+Meanwhile, President Anura Kumara Dissanayake is scheduled to visit the US official visit to Japan.
+
+The President is scheduled to visit Japan from 27th to 30th September, on the 27th of September.
+
+...
+
+[Data](articles/0b21a723.json)
+
+[Extended Data](ext_articles/0b21a723.ext.json)
+
+---
+
+### Alva, Puri kills 20 cows
+
+*2025-09-24 10:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அல்வா-பூரி-தின்றதால்-20-பசுக்கள்-பலி/175-365192) · `ta`
+
+In Haryana, 20 cows surrounding the street have caused shock. Investigations revealed that the cows died after eating foods such as Alva and Puri.
+
+In Haryana's Hisar, a volunteer organization called 'Go Seva Help Line Samiti' operates. The system is involved in the rescue of cows around the streets. More than 20 cows have been killed in the streets in the last three days, said Sita Ram Singhal, founder and director of the organization.
+
+On an average of two street cows die every day in Hisar. It is naturally or caused by accident or accident. 20 cows have died in the last three days in different parts of the city. He said that they often eat foods such as alva, puri and fried snacks, which increase acidity.
+
+◼️
+
+[Data](articles/a0aad318.json)
+
+[Extended Data](ext_articles/a0aad318.ext.json)
+
+---
+
+### Three arrested, including more than Rs.
+
+*2025-09-24 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214946) · `si`
+
+A man who appeared as a doctor and arrested two million rupees and two his assistants to arrest two his assistants.
+
+◼️
+
+[Data](articles/a27af451.json)
+
+[Extended Data](ext_articles/a27af451.ext.json)
+
+---
+
+### America Hanuman Statue: President's supporter controversy
+
+*2025-09-24 10:32:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கா-ஹனுமன்-சிலை-ஜனாதிபதி-ஆதரவாளர்-சர்ச்சை/50-365191) · `ta`
+
+In the United States, a controversy has caused a controversy on the statue of Hanuman, the so -called unity statue.
+
+The 90 -foot -tall Hanuman statue was opened last year at the Sri Ashtalakshmi Temple in Sukharland, USA.
+
+US President Donald Trump's Republican Party, Alexander Dangan, has posted, "Why do we allow a false statue of a false Hindu god in Texas?"
+
+◼️
+
+[Data](articles/38d52ca9.json)
+
+[Extended Data](ext_articles/38d52ca9.ext.json)
+
+---
+
+### Meeting between India-Sri Lankan Foreign Ministers
+
+*2025-09-24 10:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-இலங்கை-வெளிவிகார-அமைச்சர்களுக்கிடையில்-சந்திப்பு/175-365190) · `ta`
+
+Sri Lanka's Foreign Minister Vijitha Herath is part of the United Nations General Assembly (Unga) session.. The meeting between Jaishankar was held in the United States.
+
+In a post on his official X site, Minister Vijitha Herath said that the debate reaffirmed the strong friendship and close cooperation between Sri Lanka and India.
+
+President Anura Kumara Dissanayake is on his way to New York, where the President will address Sri Lanka on Wednesday (24) at 3.15 pm (Unga).
+
+The president will hold bilateral talks with UN Secretary -General Antonio Gutarez and many world leaders during his visit, the Presidential Media Division said.
+
+Meanwhile, Minister Herath also met with US Deputy Secretary of State Alison Hooker.
+
+◼️
+
+[Data](articles/60c56d38.json)
+
+[Extended Data](ext_articles/60c56d38.ext.json)
+
+---
+
+### NASA prepared at a ten-day ride after 50 years
+
+*2025-09-24 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214945) · `si`
+
+NASA has said that the astroad is expected to send astronauts for ten days around February, 50, 2026.
+
+It is reported that NASA has been sent four astronauts from NASA for 50 years since this lunar operation in the world is 50 years.
+
+The acting Deputy Assistant Administrator Lucky said this would be an important opportunity for human space exploration.
+
+The four astronauts traveling in this mission called Artemis II will return to the earth after a ten-day tour.
+
+The purpose of this operation is to check the rocket and spacecraft systems for the lunar landing.
+
+Depending on the success of the operation, Departure III can launch Artemis III to land on the moon.
+
+However, the operation goes on perfection, but Artemis III cannot be launched before mid 2027.
+
+◼️
+
+[Data](articles/e4fabd94.json)
+
+[Extended Data](ext_articles/e4fabd94.ext.json)
+
+---
+
+### Subsequent bombing at midnight; Norwegian people are forbidden to come out
+
+*2025-09-24 10:23:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நள்ளிரவில்-அடுத்தடுத்து-குண்டுவெடிப்பு-நோர்வே-மக்கள்-வெளியே-வர-தடை/50-365189) · `ta`
+
+In the Norwegian capital, Oslo, the subsequent bombs have caused a stir. Police have arrested three suspects.
+
+These two bombings have occurred in Parkwine and Filestrett area. Residents in the area feared and panic.
+
+Norwegian police immediately rushed to the scene. They surrounded the area and carried the search hunting. They found a grenade bomb that had not exploded there.
+
+The three suspects were arrested and taken to trial. Commenting on the blast incident, Oslo Police President Brian Scotnes said:
+
+Bomb exploded in Central Oslo area. We have arrested 3 people on suspicion during the search hunt. We are looking for others associated with them.
+
+The place where the incident took place, is currently under full police control. Local residents said a car from Bislet Stadium went suspiciously. Those who saw the incident claim that they threw two grenades from the car. The investigation continues.
+
+Police have advised the people of the area not to enter the bombs and not get out of the residence.
+
+◼️
+
+[Data](articles/764e65ca.json)
+
+[Extended Data](ext_articles/764e65ca.ext.json)
+
+---
+
+### Indian Navy Commander met Prime Minister
+
+*2025-09-24 10:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பிரதமரைச்-சந்தித்தார்/175-365186) · `ta`
+
+The Indian Navy Commander, ADMIral Dinesh K Tripathi, who visited Sri Lanka on September 21, 2025, met Prime Minister Harini Amarasuriya on Tuesday (23) at the Parliamentary Complex.
+
+The official meeting, which was held between the Commander of the Indian Navy and the Prime Minister Dr. Harini Amarasuriya, discussed a number of important issues on the two sides, including improving security cooperation between the two countries and strengthening long -term friendship.
+
+In addition, emphasizing the importance of working with a joint approach to face challenges, including maritime security and regional security, illegal drug trafficking and illegal fishing activities.. In addition, the Government of India has also focused on providing training opportunities to the Naval Officers in this country.
+
+Indian Navy Chief ADMIral Dinesh K Tripathi is returning to the country on September 25, 2025, after attending the International Maritime Conference of the Sri Lanka Navy for the 12th time.
+
+...
+
+[Data](articles/db29b3d0.json)
+
+[Extended Data](ext_articles/db29b3d0.ext.json)
+
+---
+
+### Sore warning
+
+*2025-09-24 10:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டியாராச்சிக்கு-கடும்-எச்சரிக்கை/175-365185) · `ta`
+
+Sri Lanka PA. He urged to avoid publishing irresponsible and controversial reports at public meetings.
+
+The action has been taken after Kuttiyarachchi's recent comments have stimulated significant concerns among party leaders and led to a strong internal reaction from the party hierarchy.
+
+◼️
+
+[Data](articles/5eb5a8a2.json)
+
+[Extended Data](ext_articles/5eb5a8a2.ext.json)
+
+---
+
+### Most of those who are addicted to addiction are not O/L
+
+*2025-09-24 10:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைக்கு-அடிமையானவர்களில்-பெரும்பாலோர்-O-L-தேர்ச்சி-பெற்றாதவர்கள்/175-365183) · `ta`
+
+Recent study has revealed that most people, including ice addiction in Sri Lanka, are now a burden to the state because they need serious rehabilitation and unemployment.
+
+The research, conducted by Professor Vasantha Athukorala and his team from Peradeniya University, analyzed the forms of prison data and drug -related crimes in 2023.
+
+According to their invention, 185,056 persons were jailed in 2023 for various crimes. Of these, 46,939 are guilty and 29,192 cases are directly related to drugs.
+
+The study found that most of the four major districts of Colombo, Gampaha, Kalutara and Kurunegala were arrested by most drug addicts.
+
+As far as age is concerned, 8,491 of the convicts are between the ages of 22 and 30, while 8,941 are 30-40 years old, which indicates that the most affected group of adults in young and middle-aged adults.
+
+"The increasing number of women in drug abuse is a new trend that requires immediate attention from policymakers and health officials," Professor Athukorala said.
+
+...
+
+[Data](articles/2185b392.json)
+
+[Extended Data](ext_articles/2185b392.ext.json)
+
+---
+
+### போதைக்கு அடிமையானவர்களில் பெரும்பாலோர் O/L தேர்ச்சி பெறாதவர்கள்
+
+*2025-09-24 10:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைக்கு-அடிமையானவர்களில்-பெரும்பாலோர்-O-L-தேர்ச்சி-பெறாதவர்கள்/175-365183) · `ta`
+
+இலங்கையில் ஐஸ் போதைக்கு அடிமையானவர்கள் உட்பட பெரும்பாலான போதைக்கு அடிமையானவர்கள் சாதாரண தரத்திற்கு (சா/த) கீழே கல்வி நிலைகளைக் கொண்டுள்ளனர் என்றும், அவர்களுக்கு தீவிர மறுவாழ்வு தேவைப்படுவதாலும், வேலையில்லாமல் இருப்பதாலும் அவர்கள் இப்போது அரசுக்கு ஒரு சுமையாக மாறிவிட்டதாகவும் சமீபத்திய ஆய்வில் தெரியவந்துள்ளது.
+
+பேராதனை பல்கலைக்கழகத்தைச் சேர்ந்த பேராசிரியர் வசந்த அதுகோரல மற்றும் அவரது குழுவினரால் நடத்தப்பட்ட இந்த ஆராய்ச்சி, 2023 ஆம் ஆண்டில் சிறைத் தரவு மற்றும் போதைப்பொருள் தொடர்பான குற்றங்களின் வடிவங்களை பகுப்பாய்வு செய்தது.
+
+அவர்களின் கண்டுபிடிப்புகளின்படி, 2023 ஆம் ஆண்டில் பல்வேறு குற்றங்களுக்காக 185,056 நபர்கள் சிறையில் அடைக்கப்பட்டனர். இவர்களில், 46,939 பேர் குற்றவாளிகள், 29,192 வழக்குகள் நேரடியாக போதைப்பொருளுடன் தொடர்புடையவை.
+
+கொழும்பு, கம்பஹா, களுத்துறை மற்றும் குருநாகல் ஆகிய நான்கு முக்கிய மாவட்டங்களில் பெரும்பாலான போதைக்கு அடிமையானவர்கள் கைது செய்யப்பட்டதாக ஆய்வில் கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/d94a4e38.json)
+
+---
+
+### Youth commits suicide by jumping into Attanagalu Oya
 
 *2025-09-24 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214944) · `si`
 
-ගම්පහ - මිනුවන්ගොඩ මාර්ගයේ අස්ගිරිය ප්‍රදේශයෙන් අත්තනගලු ඔයට පැන තරුණියක් සියදිවි හානි කරගෙන තිබේ.
+A young girl has committed suicide from the Gampaha-Minuwangoda road in the Gampaha-Minuwangoda road.
 
-පොලීසිය පැවසුවේ අත්තනගලු ඔයේ පාලමෙන් පැන අදාළ තරුණිය සියදිවි හානි කරගෙන ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇති බවය.
+Police said the police had revealed in preliminary investigations into the bridge of the Attanagalu Oya and has committed suicide.
 
-සියදිවි නසා ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව සඳහන්ය.
+The cause of suicide is yet to be ascertained.
 
-අතුරුදන් වු කාන්තාවගේ මළසිරුර සෙවීමේ මෙහෙයුම් පොලීසිය, නාවික හමුදාව සහ ප්‍රදේශවාසීන් එක්ව තවදුරටත් සිදුකරන බව පොලීසිය පැවසුවේය.
+Police, the Navy and Residents of the area continue jointly in search of the disappearance of woman's body.
 
 ◼️
 
 [Data](articles/6a9aca0f.json)
+
+[Extended Data](ext_articles/6a9aca0f.ext.json)
 
 ---
 
@@ -64,105 +294,119 @@ Finally, the future of Tamil nationalist politics, the 13th Amendment and the Pr
 
 ---
 
-### இந்திய வெளிவிவகார அமைச்சர்  ஜெய்சங்கரை சந்தித்தார் வெளிவிவகார அமைச்சர் விஜித ஹேரத்
+### Foreign Minister Vijitha Herath meets Indian Foreign Minister Jaishankar
 
 *2025-09-24 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225922) · `ta`
 
-இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான வலுவான நட்புறவையும் நெருக்கமான ஒத்துழைப்பையும் மீண்டும் உறுதிப்படுத்தும் நோக்கில்,  அமெரிக்காவின் நியூயோர்க்கில் நடைபெறும் ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில்  (UNGA), இலங்கையின் வெளிவிவகார அமைச்சர் விஜித ஹேரத், இந்திய வெளிவிவகார அமைச்சர் எஸ்.ஜெய்சங்கருடன் இருதரப்பு கலந்துரையாடல்களை நடத்தியுள்ளார்.
+Sri Lanka's External Affairs Minister Vijitha Herath has held bilateral discussions with Indian Foreign Minister S. Jaishankar at the United Nations General Assembly (UNGA) in New York, New York, aimed at reaffirming the strong friendship and close cooperation between Sri Lanka and India.
 
-இந்த சந்திப்புக் குறித்து எக்ஸ் தளத்தில் வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் குறிப்பிட்டுள்ளதாவது,
+External Affairs Minister Vijitha Herath on the meeting said the meeting
 
-“அமெரிக்காவில் ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில், இந்திய வெளிவிவகார அமைச்சரைச் சந்தித்தேன், இதன்போது, இலங்கைக்கும் இந்தியாவிற்கும் இடையிலான வலுவான நட்பு மற்றும் நெருக்கமான ஒத்துழைப்பை மீண்டும் உறுதிப்படுத்தினார் ” எனத் தெரிவித்துள்ளார்.
+“At the United Nations General Assembly in the United Nations, I met the Indian Foreign Minister and reiterated the strong friendship and intimate cooperation between Sri Lanka and India,” he said.
 
-இலங்கை வெளிவிகார அமைச்சரைச் சந்தித்து இருதரப்பு ஒத்துழைப்பின் முன்னேற்றத்தை மதிப்பாய்வு செய்தது மகிழ்ச்சி அளிக்கிறது என குறிப்பிட்டுள்ளார்.
+He said that it was a pleasure to meet the Sri Lankan Foreign Minister and review the progress of bilateral cooperation.
 
-ஐக்கிய நாடுகள் சபையின் பொதுச் சபைக் கூட்டத்தில் கலந்து கொள்வதற்காக நியூயோர்க்கில் உள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் அமைச்சர் விஜித ஹேரத்தும் சென்றுள்ளார்.
+Minister Vijitha Herath has also accompanied President Anura Kumara Dissanayake in New York to attend the United Nations General Assembly.
 
-...
+According to the US time, the President will address the General Assembly at 3:15 pm on Wednesday (24).
+
+◼️
 
 [Data](articles/11b2e548.json)
 
+[Extended Data](ext_articles/11b2e548.ext.json)
+
 ---
 
-### පිලිපීන හිටපු ජනපතිට මනුෂ්‍යත්වයට එරෙහි අපරාධ කළායැයි චෝදනා
+### Allegations accused of committing crimes against humanity to the former Philippine president
 
 *2025-09-24 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214943) · `si`
 
-පිලිපීනයේ හිටපු ජනාධිපති රොඩ්‍රිගෝ ඩුටෙර්ටේට එරෙහිව මනුෂ්‍යත්වයට එරෙහි අපරාධ කළායැයි චෝදනා එල්ල වී තිබේ.
+Former President Rodraigo in the Philippines has committed crimes against Dutriette.
 
-ඒ ඔහුට එරෙහිව අන්තර්ජාතික අපරාධ අධිකරණය හමුවේ පැවැත්වෙන නඩු විභාගයට අදාළවය.
+It is in connection with the criminal court against him.
 
-පිලිපීනයේ හිටපු ජනාධිපති රොඩ්‍රිගෝ ඩුටෙර්ටේ සැලකෙන්නේ එරට සිටි දැඩි පාලකයෙක් ලෙසයි.
+Former President Rodraigo Dutriette is considered to be a strict ruler of former President Rodrigo Dutar.
 
-පිලිපීනය වෙළාගත් මත්ද්‍රව්‍ය උවදුර මැඩලීමට මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ට එරෙහි දැඩි පිළිවෙතක් අනුගමනය කළ ඔහු, ධුර දැරූ 2016 - 2022 කාලය තුළ මත්ද්‍රව්‍ය ජාවාරකරුවන් රැසක් මියගිය බව වාර්තා වෙයි.
+He has taken a strong procedure against drug dealers to suppress the Philippines drug menace in 2016 - 2022, reports say.
 
-පසුගිය මාර්තු මාසයේදී ඩුටෙර්ටේ අත්අඩංගුවට ගෙන අන්තර්ජාතික අපරාධ අධිකරණයට ඉදිරිපත් කෙරුණේ බරපතළ ගණයේ අපරාධ සිදුකළ බවට චෝදනා කරමින්ය.
+Last March, the International Criminal Criminal (ICFI was arrested and produced before the crimes of serious crimes.
 
-ඩුටෙර්ටේ සම්බන්ධ අපරාධ චෝදනා පත්‍රය මේ වනවිට ප්‍රසිද්ධියට පත් කර තිබේ.
+The criminal charge sheet related to Duterta has been made public.
 
-ඔහු 2013 - 2016 අතර කාලය තුළ ඔහු පිලිපීනයේ ඩාවෝ නගරයේ නගරාධිපතිවරයාව සිටි කාලය තුළ ඔහුගේ නියෝගය මත සිදුවු බවට සඳහන් ඝාතන මෙන්ම, ජනාධිපති ධුරකාලය තුළ සිදුවූ ඝාතන සම්බන්ධ චෝදනා එහි ඇතුළත්ය.
+In the year 2013 - 2016, he includes the allegations of murders that occurred in the president's postage as well as the mayor of Davo in the Philippines.
 
-මේ අනුව ඩුටෙර්ටේ මනුෂ්‍යත්වයට එරෙහි අපරාධ සිදුකර ඇති බවට චෝදනා ගොනුවී ඇත.
+Accordingly, the crimes have been committed against humanity of Dutert.
 
-...
+He is the first Asian leader who came to the International Tribunal and International Criminal Court.
+
+◼️
 
 [Data](articles/ff633210.json)
 
+[Extended Data](ext_articles/ff633210.ext.json)
+
 ---
 
-### இஸ்ரேலுக்கும் – இலங்கைக்கும் இடையில் புதிய விமான சேவை
+### New flight between Israel and Sri Lanka
 
 *2025-09-24 09:57:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலுக்கும்-இலங்கைக்கும்-இடையில்-புதிய-விமான-சேவை/175-365182) · `ta`
 
-இஸ்ரேலின் எரிக்கா ஏர்லைன்ஸ் விமான சேவைக்கு சொந்தமான புதிய விமானம் ஒன்று கட்டுநாயக்க விமான நிலையத்துக்கு வருகைத் தர உள்ளதாக இஸ்ரேலுக்கான இலங்கை தூதுவர் நிமல் பண்டார குறிப்பிட்டுள்ளார்.
+Sri Lanka's Ambassador to Israel Nimal Bandara has stated that a new aircraft owned by Israel's Erica Airlines will arrive at the Katunayake airport.
 
-இஸ்ரேலிருந்து கட்டுநாயக்க வரை ஆரம்பிக்கப்பட உள்ள புதிய விமான சேவை தொடர்பில் செவ்வாய்க்கிழமை (23) தனது உத்தியோகபூர்வ முகபுத்தக தளத்தில் பதிவொன்றையிட்டு இவ்விடயம் தொடர்பில் தெரியப்படுத்தியுள்ளார்.
+He made a report on his official face book on Tuesday (23) regarding the new flight from Israel to Katunayake.
 
-இஸ்ரேலின் எரிக்கா ஏர்லைன்ஸ் விமான சேவைக்கு சொந்தமான (IZ) – 639 என்ற விமானம் இன்று முதல் செவ்வாய்க்கிழமை தோறும் பிற்பகல் 6.30 மணிக்கு டெல் அவிவ் விமான நிலையத்திலிருந்து கொழும்பு கட்டுநாயக்க விமான நிலையத்தை நோக்கி பயணிக்க உள்ளது.
+Israel's Erica Airlines (IZ) - 639 will be traveling from Tel Aviv Airport to Colombo Katunayake airport at 6.30 pm on Tuesday.
 
-அதற்கமைய இன்று பயணமான விமானம் புதன்கிழமை காலை 6.15 மணியளவில் நாட்டை வந்தடைய உள்ளது. R
+The flight will arrive today at 6.15 am on Wednesday. Remble
 
 ◼️
 
 [Data](articles/affed6fc.json)
 
+[Extended Data](ext_articles/affed6fc.ext.json)
+
 ---
 
-### ஹல்தும்முல்லயில் நிலநடுக்கம்
+### Earthquake
 
 *2025-09-24 09:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்தும்முல்லயில்-நிலநடுக்கம்/175-365181) · `ta`
 
-ஹல்தும்முல்ல, வெலன்விட்ட, அக்கர சீய, லெமஸ்தோட்ட, முருதஹின்ன மற்றும் பிற பகுதிகளில் புதன்கிழமை (24) மாலை 6.46 மற்றும் 6.47 மணிக்கு ஒரு சிறிய நிலநடுக்கம் ஏற்பட்டதாக பதுளை அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+The Badulla Disaster Management Center said that a small earthquake struck at 6.46 and 6.47 pm on Wednesday (24) in Haldummulla, Velanwita, Akkara Seeya, Lemastota, Murudahina and other areas.
 
-இது மிகவும் சிறிய அளவிலான நிலநடுக்கம் என தெரிவிக்கப்படுகின்றதுடன்  மேலும் பல்லேகெலே, ஹக்மன, மஹா கனதராவ மற்றும் அம்பாறை ஆகிய பகுதிகளில்  நிலநடுக்கம் பதிவு செய்யப்படவில்லை என பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் துணை இயக்குநர் ஈ.எம்.எல். உதய குமார தெரிவித்தார்.
+It is reported that this is a very small earthquake and the earthquake has not been recorded in Pallekele, Hakmana, Maha Kanadarawa and Ampara, Deputy Director of the Badulla Disaster Management Center EML. Said Udaya Kumara.
 
-இருப்பினும், இந்த திடீர் நிலநடுக்கம் குறித்து பொதுமக்கள் மிகவும் விழிப்புடன் இருக்குமாறு ஹல்தும்முல்ல பிரதேச செயலாளர்  கே.ஏ.ஜி. பிரியங்கிகா கேட்டுக் கொண்டுள்ளார்.
+However, Haldummulla Divisional Secretary KAG has called for the public to be very vigilant on this sudden earthquake.. Priyankika has asked.
 
 ◼️
 
 [Data](articles/c7f98d5f.json)
 
+[Extended Data](ext_articles/c7f98d5f.ext.json)
+
 ---
 
-### ஜெம்பட்டா வீதி ஸ்ரீ முனீஸ்வரர் ஆலய நவா வரண ஸ்ரீ சக்கர பூஜை
+### Sri Muniswarar Temple
 
 *2025-09-24 09:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெம்பட்டா-வீதி-ஸ்ரீ-முனீஸ்வரர்-ஆலய-நவா-வரண-ஸ்ரீ-சக்கர-பூஜை/175-365180) · `ta`
 
-கொழும்பு ஜெம்பட்டாவீதி அருள்மிகு ஸ்ரீ முனீஸ்வரர் முத்துமாரியம்மன் தேவஸ்தான வருடாந்த நவராத்திரி விழாவை முன்னிட்டு  திங்கட்கிழமை (22) அன்று மாலை நவா வரண ஸ்ரீ சக்கர பூஜை நடைபெற்றது.
+The Nawa Varana Sri Chakra Pooja was held on Monday evening (22) to mark the Annual Navratri Festival of Muthumariamman Devasthana, Sri Muniswarar Muthumariamman, Colombo.
 
-சர்வதேச இந்துமத பீட இணைப்பாளரும் கொழும்பு ஜெம்பட்டாவீதி ஸ்ரீ முனீஸ்வரர் முத்துமாரியம்மன் தேவஸ்தான பிரதம குருவுமான கலாநிதி சிவஸ்ரீ எஸ்.சிவநேசன் குருக்கள் தலைமையில் முன்னேஸ்வரம் வடிவாம்பிகா சமேத முன்னைநாத பெருமான் ஆலய உற்சவகால பிரதமகுரு சிவஸ்ரீ சிதம்பர ஹரிஹர குருக்கள் பூஜை வழிபாடுகளை நடாத்தினார்.
+International Hindu Faculty Coordinator and Sri Muniswarar Muthumariamman Devasthanam, Colombo, headed by Dr. Sivasree Sivanesan, the chief guru of Sri Muniswarar Muthumariamman, led by Dr. Sivanesan.
 
-சாரதா நவராத்திரி விழாவும் நவாவரண ஸ்ரீ சக்கர பூஜையும் நவசக்தி மஹா ஹோமமும் இன்று தொடக்கம் எதிர்வரும் 1ம் திகதி வரை தொடர்ந்து 10 நாட்களுக்கு நடைபெறும்.
+The Sarada Navratri Festival and Navaratha Sri Chakra Pooja and Navasakthi Maha Homam will be held for 10 consecutive days from today to 1st.
 
-தினமும் மாலை கும்ப பூஜை, நவாவரண ஸ்ரீ சக்கர பூஜை, முத்தேவியர் ஹோமம், சாயரட்ச பூஜை, வசந்த மண்டப பூஜை, விசேட தீப ஆராதனை, வேத தோத்திர பாராயணம் என்பன நடைபெறும்.
+Every day, Kumbha Pooja, Navavara Sri Chakra Pooja, Muttaviyar Homam, Sairaksha Pooja, Vasantha Mandapu Pooja, Special Deepa Adoration and Veda Thira recitation will be held.
 
-22ம் திகதி தொடக்கம் 24ம் திகதி வரை ஸ்ரீ துர்க்கா பூஜையும் 25ம் திகதி தொடக்கம் 27ம் திகதி வரை ஸ்ரீ லக்ஷமி பூஜையும் நடைபெறும்.
+The Sri Durga Puja will be held from the 22nd to the 24th and the Sri Lakshmi Pooja will be held from the 25th to the 27th.
 
-எதிர்வரும் 28ம் திகதி தொடக்கம் 30ம் திகதி வரை ஸ்ரீ சரஸ்வதி பூஜை நடைபெறும்.
+The Sri Saraswati Puja will be held from the 28th to the 30th.
 
 ...
 
 [Data](articles/9952e4dd.json)
+
+[Extended Data](ext_articles/9952e4dd.ext.json)
 
 ---
 
@@ -184,15 +428,19 @@ The remarks in question were made during a meeting held recently in Anuradhapura
 
 [Data](articles/863ec581.json)
 
+[Extended Data](ext_articles/863ec581.ext.json)
+
 ---
 
-### அப்பாக்கிட்ட நைசா கேக்கனும் இது ஐஸானு
+### It is also a nisa cake and isanu
 
 *2025-09-24 09:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அப்பாக்கிட்ட-நைசா-கேக்கனும்-இது-ஐஸானு/62-365179) · `ta`
 
 ◼️
 
 [Data](articles/fe0eca87.json)
+
+[Extended Data](ext_articles/fe0eca87.ext.json)
 
 ---
 
@@ -265,6 +513,8 @@ Minister Herath is accompanying President Anura Kumara Dissanayake, who is in Ne
 ...
 
 [Data](articles/ab4df014.json)
+
+[Extended Data](ext_articles/ab4df014.ext.json)
 
 ---
 
@@ -399,6 +649,26 @@ It is reported that the problems of the Tamil people of the North and East have 
 [Data](articles/3437e033.json)
 
 [Extended Data](ext_articles/3437e033.ext.json)
+
+---
+
+### Cricket banned into US cricket
+
+*2025-09-24 07:43:22* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකාවේ-ක්‍රිකට්-ආයතනයට-තහනමක්/3-418687) · `si`
+
+The International Cricket Council has decided to temporarily suspend the USAC (USAC).  International SLC has decided after a meeting on Tuesday.
+
+Despite the suspension of the SLC, the National Cricket team will be hindered to the National Cricket team at the 2028 T20 World Cup in India and Sri Lanka.
+
+At the ICC Annual General Meeting held in July, the ban was imposed on two months when the USA was given a "free and fair commandment".
+
+The ICC says he has the right to take any action that is considered appropriate based on the progress of the reforms.
+
+◼️
+
+[Data](articles/53882cdf.json)
+
+[Extended Data](ext_articles/53882cdf.ext.json)
 
 ---
 
@@ -852,6 +1122,28 @@ The Cabinet has approved the national policy submitted by the Minister of Rural 
 
 ---
 
+### The number of elderly people will increase by 24.8 percent by 2052
+
+*2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-எண்ணிக்கை-2052இல்-24-8-சதவீதம்-அதிகரிக்கும்/175-365173) · `ta`
+
+In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
+
+According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
+
+In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
+
+Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
+
+The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Reinforcement.
+
+◼️
+
+[Data](articles/880dbe91.json)
+
+[Extended Data](ext_articles/880dbe91.ext.json)
+
+---
+
 ### The Anura government has also deceived Tamils
 
 *2025-09-24 04:30:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களை-அனுர-அரசும்-ஏமாற்றியுள்ளது/175-365172) · `ta`
@@ -989,6 +1281,22 @@ Among the hopes many had for the NPP Government when it was elected one year ago
 [Data](articles/1adb75fc.json)
 
 [Extended Data](ext_articles/1adb75fc.ext.json)
+
+---
+
+### NPP Government’s shamelessness over Gaza
+
+*2025-09-24 02:59:31* · [`dailyftlk`](https://www.ft.lk/columns/NPP-Government-s-shamelessness-over-Gaza/4-782108) · `en`
+
+What is glaring, however, is just how completely the NPP has capitulated
+
+Among the hopes many had for the NPP Government when it was elected one year ago was that it would move Sri Lanka to actually opposing the devastating genocide Israel was carrying out against the Palestinian people in Gaza. What the NPP Government has gone on to do since then has been the opposite. A look at its positions on Palestine, its actions while in Government and its own past unearths a shamelessness which all Sri Lankans must contend with.
+
+...
+
+[Data](articles/f8ffc9b4.json)
+
+[Extended Data](ext_articles/f8ffc9b4.ext.json)
 
 ---
 
@@ -1755,265 +2063,5 @@ Pakistan: Shakibzada Barhan, Bakar Saman, Saim Ayub, Hussein Dalaw, Mohammed Naw
 [Data](articles/452c4cbe.json)
 
 [Extended Data](ext_articles/452c4cbe.ext.json)
-
----
-
-### Pakistan won the first ball to bowl in the currency spin
-
-*2025-09-23 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225898) · `ta`
-
-Sri Lanka will face Pakistan in their second match on Tuesday (23) in the Super 4 round of the Asian Cup Cricket T20 series.
-
-In the first match in the Super 4 round, the Sri Lankan team lost to Bangladesh and Pakistan lost to India.
-
-◼️
-
-[Data](articles/5c4feff9.json)
-
-[Extended Data](ext_articles/5c4feff9.ext.json)
-
----
-
-### An expert cricarch is coming
-
-*2025-09-23 19:36:11* · [`adalk`](https://www.ada.lk/sports/ප්‍රවීණ-ක්‍රිකට්-විනිසුරුවරයෙකු-දිවියට-සමුදෙයි/9-418682) · `si`
-
-Harlor (Dickey) Burrd has passed away. When the death of death, 92-year-old Burved Test matches and 69 ODIs have been judged and 39 ODIs have been sentenced to 3 matches. He was brought to his judge after 1996.
-
-The bird of the bird, represented in 1956, has received 93 bird, represented in 1956. He also held the post of Chairman of the State Association.
-
-◼️
-
-[Data](articles/0e410c94.json)
-
-[Extended Data](ext_articles/0e410c94.ext.json)
-
----
-
-### Heavy bodies and beer are the cause of Tangalle deaths
-
-*2025-09-23 19:32:40* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-හා-බීර-අධික-ලෙස-ශරීර-ගත-වීම-තංගල්ලේ-මරණවලට-හේතුවයි/11-418681) · `si`
-
-The reason for the influence of three persons in the house ofnone house innone house was killed.
-
-The Judicial Medical Officer of the Tangalle Base Hospital Ruwan Nananayakkara has been conducted by the Judicial Medical Officer of the Tangalle Base Hospital.
-
-The deaths have been detected as a result of heavy and heroin have been deemed.
-
-The bodies of two youths were found in a house in a house in the Tangalle Seennakola, another person was receiving treatment at the Tangalle Base Hospital.
-
-◼️
-
-[Data](articles/c7d694ba.json)
-
-[Extended Data](ext_articles/c7d694ba.ext.json)
-
----
-
-### To the coin to Pakistan
-
-*2025-09-23 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214923) · `si`
-
-Sri Lanka will be held in the round of the Super School of Super Schools in the Asia T20 cricket tournament today (23).
-
-The Sri Lankan team has invited the Sri Lankan team to bat first.
-
-The Sri Lankan team was defeated first match in the round of the Super Four. Pakistan was defeated before the Indian team.
-
-Critics say that the match is a crucial match for both teams.
-
-◼️
-
-[Data](articles/acc50cf1.json)
-
-[Extended Data](ext_articles/acc50cf1.ext.json)
-
----
-
-### Cause of death revealed after 2 bodies found with drugs haul at house in Tangalle
-
-*2025-09-23 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/112837/cause-of-death-revealed-after-2-bodies-found-with-drugs-haul-at-house-in-tangalle) · `en`
-
-The post-mortem examination on the bodies of the three persons who died under mysterious circumstances in the house, where drugs were later found in the Seenimodara area of Tangalle, has revealed that they died due to overdosing on a mix of heroin and beer.
-
-The post-mortem examination of the bodies was conducted by the Judicial Medical Officer of the Tangalle Base Hospital, Ruwan Nanayakkara.
-
-It has been revealed that the deceased died due to overdose on a mix of heroin and beer.
-
-Ada Derana reproter said that the Judicial Medical Officer is also scheduled to present the facts to the Tangalle Magistrate’s Court in this regard.
-
-The bodies of two persons who died under mysterious circumstances were found in a house in the Seenimodara area of Tangalle yesterday (22) based on inforamtion received by the police.
-
-Another person in the house in question had also died after being admitted to the Tangalle Hospital in critical condition.
-
-...
-
-[Data](articles/bde94ffc.json)
-
-[Extended Data](ext_articles/bde94ffc.ext.json)
-
----
-
-### Electricity is an essential service to parliament tomorrow
-
-*2025-09-23 19:25:16* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-අත්‍යාවශ්‍ය-සේවාවක්-කළ-ගැසට්ටුව-හෙට-පාර්ලිමේන්තුවට/11-418680) · `si`
-
-President Anura Kumara Dissanayake has decided to submit all services related services to the Parliament today (24) to be presented to the Parliament today (24) to approve of the Gazette Notification.
-
-Accordingly, the publication of the gazette, No. 2454/68, No. 61 of 1979, will be presented to the Gazette November 2454/60 under the Essential Public Service Act No 61.
-
-◼️
-
-[Data](articles/0e667059.json)
-
-[Extended Data](ext_articles/0e667059.ext.json)
-
----
-
-### Electricity Essential Service as Essential Service
-
-*2025-09-23 19:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-அத்தியாவசிய-சேவையாக-பிரகடனம்-நாளை-சபையில்-அங்கீகாரம்/175-365149) · `ta`
-
-The party leaders today decided to recognize the gazette notification of President Anura Kumara Dissanayake, who declares electricity as an essential service.
-
-◼️
-
-[Data](articles/d873ff5d.json)
-
-[Extended Data](ext_articles/d873ff5d.ext.json)
-
----
-
-### Sri Lankan main fast bowler not contest today
-
-*2025-09-23 19:10:48* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා-ප්‍රධාන-වේග-පන්දු-යවන්නෙක්-අද-තරගයට-නෑ/9-418679) · `si`
-
-SLC announced that Sri Lanka's fast bowler Visitor Pathirana do not play sports with Pakistan today due to illness today (23). He further stated that he has not received medical treatment due to this illness.
-
-◼️
-
-[Data](articles/1b60beba.json)
-
-[Extended Data](ext_articles/1b60beba.ext.json)
-
----
-
-### Recovery of 1243 kg of heroin, 1845 kg of ice, 472 kg of hussies, 29 kg of cocaine - police spokesman this year
-
-*2025-09-23 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/225897) · `ta`
-
-Overall 705 kg of narcotics have been seized in the roundabout carried out in Tangalle. Police spokesman FU Woodler said that the suspect has been arrested in connection with the incident and that the inquiries are being carried out by different police groups at different angles.
-
-He made this statement at a press conference announcing the Cabinet decisions held at the Government Information Department in Colombo on Tuesday (23).. As he further stated in this regard
-
-Investigations into the suspicious death of a man who was admitted to the Tangalle Hospital on Monday. Accordingly, 705 kg of narcotics have been seized in the surrounding areas of Tangalle - Kahavathuragoda and Seenimodara areas.
-
-Accordingly, 284 kg of heroin and 420 kg of ice have been seized. Investigations are being carried out through the Special Investigation Committee regarding the owner of the seized area. In addition, the T56 rifle, 56 rifles, a motorcycle and 3 lorries were seized during the roundup.
-
-...
-
-[Data](articles/233a3bbe.json)
-
-[Extended Data](ext_articles/233a3bbe.ext.json)
-
----
-
-### Case against Ranga Dissanayake withdraws
-
-*2025-09-23 19:03:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரங்க-திசாநாயக்கவிற்கு-எதிரான-வழக்கு-வாபஸ்/175-365148) · `ta`
-
-The petitioners filed a fundamental rights petition filed against the appointment of Supreme Court Judge Ranga Dissanayake as the Director General of the Commission (CIABOC) for bribery or corruption allegations.
-
-When the case was taken up before a three -judge session of the Supreme Court, comprising Chief Justice Prathi Padman Surasena, Justice Mahinda Sampath and Judge Sampath Abhayakoon, the lawyer of the petitioners sought the court's permission to withdraw the petition.
-
-The petitioners were the petitioners, Shan Senanayake and Vidyalaja Thera, Chairman of the Law and Justice Foundation, and Vidyalaja Kavithaja Thera, the President of the Constitutional Council, Speaker Jagath Wickramaratne, Prime Minister Harini Amarasuriya, Committee of the Constitutional Council, Bribery Commission, and Bribery Commission. Named.
-
-◼️
-
-[Data](articles/ad7ca725.json)
-
-[Extended Data](ext_articles/ad7ca725.ext.json)
-
----
-
-### Peace Struggle for a 3 -year -old boy who died at the Colombo Child Hospital
-
-*2025-09-23 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225896) · `ta`
-
-A 3 -year -old boy who was admitted to Kidney Surgery at Colombo Children's Hospital. A peaceful protest was held on Tuesday (23) against the death of Ayna Hamdi Baslim, who lost the two kidneys due to the negligence of the doctors.
-
-The protest, which was held in front of the Pudukkadai court in Colombo, participated in the boy's relatives, children's rights organizations and many other civilians.
-
-◼️
-
-[Data](articles/af76b62b.json)
-
-[Extended Data](ext_articles/af76b62b.ext.json)
-
----
-
-### Sri Lanka to seek legal advice on $1 bn unpaid marine disaster claim
-
-*2025-09-23 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112836/sri-lanka-to-seek-legal-advice-on-1-bn-unpaid-marine-disaster-claim) · `en`
-
-The Sri Lankan government on Tuesday said it will consult the Attorney General on the next course of action after the owning company of a vessel failed to honour a court order directing it to pay USD 1 billion in compensation for a mishap, considered to be the worst marine disaster in the Indian Ocean.
-
-Singapore-flagged container vessel MV X-Press Pearl caught fire in May 2021 off Colombo port and burned for nearly two weeks while carrying 81 containers of hazardous chemicals, including 25 tonnes of nitric acid.
-
-The incident caused widespread marine pollution, with billions of plastic nurdles and toxic substances spilling into Sri Lankan waters, killing marine life and devastating coastal communities.
-
-Dead turtles, dolphins and whales were seen washed up onto beaches for weeks following the disaster.
-
-On July 24, Sri Lanka’s Supreme Court directed the ship’s owning and operating companies to pay USD 1 billion in compensation, with an initial tranche of USD 250 million due by September 23.
-
-...
-
-[Data](articles/2bef2a2b.json)
-
-[Extended Data](ext_articles/2bef2a2b.ext.json)
-
----
-
-### Electricity Board Trade Union Action - Minister Action
-
-*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
-
-Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
-
-Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
-
-“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
-
-Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
-
-“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
-
-...
-
-[Data](articles/ab765827.json)
-
-[Extended Data](ext_articles/ab765827.ext.json)
-
----
-
-### CEB Trade Union Action - Minister Action
-
-*2025-09-23 18:55:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CEB-தொழிற்சங்க-நடவடிக்கை-அமைச்சர்-அதிரடி/175-365147) · `ta`
-
-Cabinet spokesman Minister Nalinda Jayadissa said that despite the continuous trade union action of electricity workers, the government would not allow the government to allow electricity or electricity in Sri Lanka.
-
-Speaking at a media briefing held after the Cabinet meeting, Minister Jayadissa promised to provide continuous electricity and that necessary steps would be taken to ensure this.
-
-“The government does not allow any sabotage. If something like that happens, we will ensure that the law is severely implemented, ”he warned.
-
-Minister Nalinda Jayatissa pointed out that if the CEB (CEB) is not reconstructed, the Sri Lankan crisis will be confronted.
-
-“We must do this restructuring to make the public offer of concessions. The previous government had planned to privatize CEB by dismissing 50% of employees. But instead, we divided it into four companies and retained it as government agencies, ”he said.
-
-...
-
-[Data](articles/b41fd6e6.json)
-
-[Extended Data](ext_articles/b41fd6e6.ext.json)
 
 ---

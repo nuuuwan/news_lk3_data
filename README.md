@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 21:08:01**
+As of **2025-09-24 20:56:13**
 
 ## Newspaper Stats
 
-*Scraped **77,949** Articles*
+*Scraped **77,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,18 @@ dailyftlk | 5,526
 adalk | 7,578
 adaderanalk | 10,116
 tamilmirrorlk | 11,755
-virakesarilk | 12,674
+virakesarilk | 12,673
 adaderanasinhalalk | 13,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,948 (100.0%) of 77,949 articles have been extended.
+77,948 (100.0%) of 77,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
-
-### சபரிமலை ஐயப்பன் ஆலயம் : இலங்கையில் அங்கீகரிக்கப்பட்ட புனித யாத்திரை தலமாக அமைச்சரவை அங்கீகாரம்
-
-*2025-09-24 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225998) · `ta`
-
-இலங்கை அரசால் அங்கீகரிக்கப்பட்ட புனித யாத்திரை தலமாக சபரிமலை ஐயப்பன் ஆலயத்தை பிரகடனப்படுத்துவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. இந்நிலையில் இதனை இந்திய அரசாங்கத்திற்கு முறையாக அறிவிக்கும் நடவடிக்கை மேற்கொள்ளப்பட்டுவருவதாக கொழும்பு மாநகர சபையின் உறுப்பினர் எஸ்.ஆனந்தகுமார் தெரிவித்துள்ளார்.
-
-நீண்டகாலமாக இலங்கையின் இந்து பக்தர்கள் ஒவ்வொரு ஆண்டும் நவம்பர் முதலாம் திகதி தொடக்கம் அடுத்த வருடத்தின் ஜனவரி மாதம் 31 ஆம் திகதி வரையான காலப்பகுதியில் இந்தியாவின் கேரளா மாநிலத்தில் அமைந்துள்ள சபரிமலை ஐயப்பன் ஆலயத்துக்குச் சென்று தரிசித்து வருகின்றனர். தற்போது ஆண்டுதோறும் 15,000 இற்கும் அதிகமான பக்தர்கள் கலந்து கொள்கின்ற யாத்திரை தலமாக இந்த ஆலயம் அமைந்துள்ளது. இன்னும் இரண்டு மாதத்தில் ஐயப்ப சாமிமார்கள் மாலை அணிந்து சபரிமலைக்கு செல்லவுள்ளனர்.
-
-...
-
-[Data](articles/18f1eaa4.json)
-
----
 
 ### Meeting between President Donald Trump's Southern and Special Representative for Central Asia
 
@@ -2111,5 +2097,29 @@ Additionally, he will meet with members of the Sri Lankan community residing in 
 [Data](articles/8c8baff8.json)
 
 [Extended Data](ext_articles/8c8baff8.ext.json)
+
+---
+
+### Mervyn's case dates back to the exam
+
+*2025-09-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214949) · `si`
+
+As a Minister, the Bribery Commission has set the case against former Minister Mervyn Silva against former Minister Mervyn Silva against former Minister Mervyn Silva against the bribery Commission.
+
+Accordingly, the examination will be taken on November 17, Colombo High Court Judge Mohahadi has ordered.
+
+The Bribery Commission gave the acquaintance when the case was taken up today (24).
+
+Accordingly, the Bribery Commission requested the court to appoint a date to hear the case.
+
+The judge accepted the request made the case to be heard on November 17.
+
+The case has been filed against former Minister Mervyn Silva accused the former Minister Mervyn Silva by accusing the anti-corruption proven to an anti-corruption proceeds in 2010 to 2012.
+
+◼️
+
+[Data](articles/7dbb5863.json)
+
+[Extended Data](ext_articles/7dbb5863.ext.json)
 
 ---

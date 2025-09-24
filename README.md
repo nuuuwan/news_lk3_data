@@ -1,68 +1,170 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 11:57:44**
+As of **2025-09-24 12:38:30**
 
 ## Newspaper Stats
 
-*Scraped **77,842** Articles*
+*Scraped **77,849** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 633
+dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,563
+adalk | 7,565
 adaderanalk | 10,090
 tamilmirrorlk | 11,732
 virakesarilk | 12,662
-adaderanasinhalalk | 13,599
+adaderanasinhalalk | 13,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,840 (100.0%) of 77,842 articles have been extended.
+77,846 (100.0%) of 77,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### கேள்வி கேட்டவர்களைக் காணவில்லை
+### ගම්මන්පිලව අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් නීතිපතිගෙන් අධිකරණයට දැනුම්දීමක්
+
+*2025-09-24 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214953) · `si`
+
+හිටපු ඇමති උදය ගම්මන්පිල මහතා අත්අඩංගුවට ගැනීම සඳහා තීරණයක් ගනු ලැබුවොත් ඒ පිළිබඳව මෝසමක් මාර්ගයෙන් අධිකරණයට දැනුම්දෙන බව නීතිපතිවරයා අද (24) අභියාචනාධිකරණයට දැනුම් දී තිබේ.
+
+තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා උදය ගම්මන්පිල මහතා විසින් ඉදිරිපත් කළ රිට් පෙත්සම අද කැඳවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් සුදර්ශන ද සිල්වා මහතා මෙම දැනුම්දීම සිදුකළේය.
+
+◼️
+
+[Data](articles/4216593c.json)
+
+---
+
+### බියකරු 'රාගසා' චීනයට කඩාවදියි
+
+*2025-09-24 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214952) · `si`
+
+වසරේ භයානකම සුළිකුණාටුව ලෙස සැලකෙන 'රාගසා' සුළිකුණාටුව චීනය දෙසට හමායමින් පවතින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+දැනටමත් තායිවානයට වැඩි බලපෑම් එල්ල කර ඇති 'රාගසා' සුළිකුණාටුව හේතුවෙන් එහි පුද්ගලයින් 14 දෙනෙක් මියගොස් පුද්ගලයින් 124 දෙනෙකු පමණ අතුරුදන්ව ඇති බව වාර්තා වන්නේ.
+
+ඉහළ යන ගංවතුරෙන් හා සුළි කුණාටුවෙන් මියගිය අයගෙන් වැඩි දෙනෙකු වයෝවෘද්ධ පුද්ගලයින් බව විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+තායිවානයේ නැගෙනහිර වෙරළ තීරයේ හුවාලියන් ප්‍රාන්තයේ ඇතැම් ප්‍රදේශවලට 700mmකට වඩා වැඩි වර්ෂාපතනයක් ලැබුණු අතර දකුණු හා නැගෙනහිර නගරවලට 500-600mmක වර්ෂාපතනයක් ලැබුණු බව විදෙස් මාධ්‍ය පවසයි.
+
+අද (24) උදෑවන වන විට තායිවානයේ ටෝයුවාන් ජාත්‍යන්තර ගුවන්තොටුපළේ ගුවන් ගමන් 160කට වැඩි ප්‍රමාණයක් අවලංගු කර ඇති අතර, ඇතැම් ප්‍රදේශවල දුම්රිය මාර්ග ද අත්හිටුවා ඇත.
+
+හොංකොං කාලගුණ බලධාරීන් අද (24) ඔවුන්ගේ ඉහළම ටයිෆූන් අනතුරු ඇඟවීම "T10"නිකුත් කළ අතර කුණාටුව චීන භූමියෙන් කිලෝමීටර් 150ක් නිරිත දෙසින් ගමන් කරන විට සිදුවිය හැකි නායයෑම් පිළිබඳව ද අනතුරු අඟවා තිබේ.‍
+
+...
+
+[Data](articles/a429ee9c.json)
+
+---
+
+### හිටපු ඇමති මර්වින්ගේ නඩුවකට දින නියම වෙයි
+
+*2025-09-24 12:03:35* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-මර්වින්ගේ-නඩුවකට-දින-නියම-වෙයි/11-418690) · `si`
+
+අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් වත්කම් හා දේපොළ අයථා ලෙස උපයා ගත් බවට චෝදනා කරමින්  හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව විභාගයට ගැනීම සඳහා කොළඹ මහාධිකරණය දින නියම කර තිබේ.
+
+ඒ අනුව එම නඩු විභාගය නොවැම්බර් මස 17 වැනිදා ආරම්භ කිරීමට මෙහිදී නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/80275516.json)
+
+---
+
+### Colombo Municipal Council's cargo handed over ice drug
+
+*2025-09-24 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214951) · `si`
+
+The Colombo Municipal Council employees have been arrested by the Walana Corruption Assistant who sold ice and heroin.
+
+The suspect was meticulously meticulous for a long time in his office room, police said.
+
+The office of the employees of the Colombo Municipal Council belonging to the Campbell Ground, he has acted there as an operator.
+
+The Walana Corruption Board has been raided on a tip off on the 22nd and over 20,000 milligrams of heroin was found in possession of the suspect.
+
+The suspect was a 38 year old and handed over to the Borella Police.
+
+The suspect was produced before the Aluthkade Magistrate's Court and obtains detention orders and obtain detention orders.
+
+◼️
+
+[Data](articles/96780396.json)
+
+[Extended Data](ext_articles/96780396.ext.json)
+
+---
+
+### 1,000 political meetings from Ranil?
+
+*2025-09-24 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214950) · `si`
+
+Political sources say that former President Ranil Wickremesinghe has a plan to be abroad on health care.
+
+Accordingly, the former presents to go to a country like France, England, or India.
+
+The former President was invited by the opposition political parties recently acquired opposition responsibility in the face of the political situation.
+
+Accordingly, the former president has focused on the matter and the former President has expressed his views regarding the program to conduct a thousand political meetings.
+
+However, it is reported that Ranil Wickremesinghe has a plan to lead the health condition and in the future.
+
+The specific winnum has not been used in this regard and the former President Ranil Wickremesinghe will take overseas this year, political sources said.
+
+◼️
+
+[Data](articles/783ea5bd.json)
+
+[Extended Data](ext_articles/783ea5bd.ext.json)
+
+---
+
+### Missing those who asked the question
 
 *2025-09-24 11:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேள்வி-கேட்டவர்களைக்-காணவில்லை/175-365198) · `ta`
 
-இன்று பாராளுமன்றத்தில் எழுப்பப்படவிருந்த வாய்மொழி கேள்விகளைச் சமர்ப்பித்த கிட்டத்தட்ட அனைத்து எம்.பி.க்களும் அவைக்கு வராமல் இருந்தது கடுமையான கவலைகளை எழுப்பியது.
+Almost all MPs who submitted verbal questions to be raised in Parliament today raised serious concerns.
 
 ◼️
 
 [Data](articles/a913e6f6.json)
 
+[Extended Data](ext_articles/a913e6f6.ext.json)
+
 ---
 
-### මර්වින්ගේ නඩුවක් විභාගයට දින දෙයි
+### Mervyn's case dates back to the exam
 
 *2025-09-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214949) · `si`
 
-අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් වත්කම් හා දේපොළ අයථා ලෙස උපයා ගත් බවට චෝදනා කරමින්  හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව විභාගයට ගැනීම සඳහා කොළඹ මහාධිකරණය දින නියම කළේය.
+As a Minister, the Bribery Commission has set the case against former Minister Mervyn Silva against former Minister Mervyn Silva against former Minister Mervyn Silva against the bribery Commission.
 
-ඒ අනුව අදාළ නඩුවේ විභාගය නොවැම්බර් මස 17 වනදා ආරම්භ කරන බව කොළඹ මහාධිකරණ විනිසුරු මොහොමඩ් මිහාල් මහතා නියෝග කර ඇත.
+Accordingly, the examination will be taken on November 17, Colombo High Court Judge Mohahadi has ordered.
 
-මෙම නඩුව අද (24) කැඳවූ අවස්ථාවේදී අල්ලස් කොමිසම විසින් මෙම නඩුවට අදාළ ලේඛන කිහිපයක් විත්තියට ලබා දුන්නේය
+The Bribery Commission gave the acquaintance when the case was taken up today (24).
 
-ඒ අනුව මෙම නඩුව විභාග කිරීම සඳහා දිනයක් නියම කරන ලෙසත් අල්ලස් කොමිසම අධිකරණයෙන් ඉල්ලා සිටියේය.
+Accordingly, the Bribery Commission requested the court to appoint a date to hear the case.
 
-එම ඉල්ලීම පිළිගත් විනිසුරුවරයා නඩුව නොවැම්බර් මස 17 වනදා විභාගයට ගැනීමට තීරණයම කළේය.
+The judge accepted the request made the case to be heard on November 17.
 
-2010 වසරේ සිට 2012 වසර දක්වා කාලසීමාව තුළ අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් සිය නීත්‍යානුකූල ආදායම අභිබවා රුපියල් මිලියන 150කට ආසන්න වටිනාකමකින් යුත් වත්කම් සහ දේපොළ අයථා ලෙස අත්පත් කර ගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා කරමින් අල්ලස් කොමිසම විසින් හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබේ.
+The case has been filed against former Minister Mervyn Silva accused the former Minister Mervyn Silva by accusing the anti-corruption proven to an anti-corruption proceeds in 2010 to 2012.
 
 ◼️
 
 [Data](articles/7dbb5863.json)
+
+[Extended Data](ext_articles/7dbb5863.ext.json)
 
 ---
 
@@ -577,6 +679,24 @@ Meanwhile, former parliamentarian Aktipsatti Arachchi said, addressing a meeting
 [Data](articles/ac7837ff.json)
 
 [Extended Data](ext_articles/ac7837ff.ext.json)
+
+---
+
+### Interest rates are not different
+
+*2025-09-24 09:19:17* · [`adalk`](https://www.ada.lk/business/පොලී-අනුපාත-වෙනස්-නොවෙයි/7-418689) · `si`
+
+The Central Bank Monetary Policy Board yesterday (23) has decided to maintain financial policy stance, no longer available at the meeting held yesterday (23).. .
+
+Accordingly, the One Day Policy Rate (OPR) has been decided to maintain the current level of 7.75%. The Central Bank announced that the Board was taken to the decision following the careful consideration of local and global development.
+
+The board is that the current monetary policy stance will help to lead inflation to a 5% target.
+
+◼️
+
+[Data](articles/aa8639f7.json)
+
+[Extended Data](ext_articles/aa8639f7.ext.json)
 
 ---
 
@@ -1450,6 +1570,28 @@ This article serves as Part II of the series originally published in the Daily F
 
 ---
 
+### 
+
+*2025-09-24 02:39:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86449) · `en`
+
+President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.
+
+Anura Kumara Dissanayake known popularly as  Anura and “AKD” , won the Presidential election of 21 September 2024 in  what was described as a gigantic leap. From 418,553 (3.16%) votes in the 2019 Presidential election, AKD increased his vote tally   to 5,634,915 (42.31%) in the 2024 Presidential poll. In the second count of votes with  Sajith Premadasa, AKD obtained  5,740,179 (55.89%) votes
+
+Dissanayake was sworn in as Sri Lanka’s ninth executive president on 23 September 2024 in a simple ceremony at the Presidential secretariat in Colombo.
+
+Speaking at his swearing in event, Anura Kumara Dissanayake stated as follows –  .
+
+“Democracy helped me win. Some voted for me, and others didn’t. But my pledge is to work hard to win the trust of those who didn’t vote for me as well. This is an important part of my Presidency.”
+
+...
+
+[Data](articles/0ba83891.json)
+
+[Extended Data](ext_articles/0ba83891.ext.json)
+
+---
+
 ### EU agrees to $ 9.4 m grant to push sustainable development
 
 *2025-09-24 02:23:25* · [`dailyftlk`](https://www.ft.lk/business/EU-agrees-to-9-4-m-grant-to-push-sustainable-development/34-782092) · `en`
@@ -1909,155 +2051,5 @@ He was not there when he went to the apartment where they were staying to arrest
 [Data](articles/4ad38df2.json)
 
 [Extended Data](ext_articles/4ad38df2.ext.json)
-
----
-
-### Sri Lanka scored 133 runs against Pakistan
-
-*2025-09-23 22:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தானுக்கெதிராக-133-ஓட்டங்களைப்-பெற்ற-இலங்கை/44-365152) · `ta`
-
-Sri Lanka won the first match against Pakistan and scored 133 runs for the loss of 8 wickets in 20 overs.
-
-Shakeen Shah Afridi (3), Haris Raf (2), Hussein Talat (2) and Abar Ahmad scored only 50 (44).
-
-◼️
-
-[Data](articles/87faa1c1.json)
-
-[Extended Data](ext_articles/87faa1c1.ext.json)
-
----
-
-### 134 runs in Pakistan
-
-*2025-09-23 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214929) · `si`
-
-The second match of the Super School of Super School of Asia Trophy Twenty20 tournament is currently conducting with the Pakistani Team.
-
-The Leader of the Pakistan, who won the toss and invited the Sri Lankan team to bat first.
-
-Accordingly, Pakistan fast bowler Shaheen Shah Afridi recovered the first wicket of the Sri Lankan team to bat first.
-
-Shahin Sha Affriedidi was then recovered to the second wicket of the Sri Lankan team.
-
-Pakistani bowlers were diverted to the stadium when the leader Charith scored 20 runs in the field.
-
-Pakistani bowlers allowed the super-folk of the Bangladesh competition.
-
-Kumindu Mendis scored 50 runs in a lonely battle.
-
-The Sri Lankan team, who was helpless by Pakistani bowlers, scored 133 runs for the loss of 08 wickets at the end of 20 overs.
-
-The Sri Lankan team must win this matches to the competition, and if the match will be defeated, the Asia T20 cricket will have to go out of the T20 cricket tournament.
-
-...
-
-[Data](articles/74165f22.json)
-
-[Extended Data](ext_articles/74165f22.ext.json)
-
----
-
-### Trump hits Russia, backs Israel in wide-ranging UN speech
-
-*2025-09-23 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112840/trump-hits-russia-backs-israel-in-wide-ranging-un-speech) · `en`
-
-U.S. President Donald Trump warned Russia on Tuesday that he is prepared to impose strong economic measures if it does not work toward ending the war in Ukraine, and rejected a global move toward recognition of a Palestinian state in a combative speech to the U.N. General Assembly.
-
-In a wide-ranging foreign policy speech that included scathing criticism of the United Nations and European nations, Trump made the case for lower levels of global migration and said world leaders should abandon efforts to fight climate change, which he called “the greatest con job” in the world.
-
-Taken as a whole, the 56-minute speech was a rebuke to the world body and a return to form for Trump, who had routinely bashed the U.N. during his first term as president. Leaders gave him polite applause when he exited the chamber.
-
-...
-
-[Data](articles/8914dda1.json)
-
-[Extended Data](ext_articles/8914dda1.ext.json)
-
----
-
-### Drugs found in Tangalle revealed
-
-*2025-09-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214927) · `si`
-
-It is reported that the drug has been found in the lorry in the lorry, which was found in the lorry, which was found in the lorry, which was found in the lorry in the Tangalle, Seennla, Sungala area and the watermelon sheleled in the Tangalle.
-
-The stock of drugs is piling the Kudawella Mawathakee.
-
-The three killed who were later killed were present and they had been drinking alcohol.
-
-The cost has been taken to a coastal house, police said.
-
-The police said that they had been transporting drugs from the Mawawale beach to Senmodara to Senmodara.
-
-The 49-year-old man was hospitalized by the two sons of his sons to take their father's small lorry.
-
-They have told the police that a group of people attempted to drink alcohol.
-
-They had revealed this after their arrests by the police today.
-
-According to a special operation of two people in a house in the Tangalle Seennakola area, 705 kilograms was discovered yesterday.
-
-The police were able to find 68 kilograms of ice and 970 grams and Rs.
-
-...
-
-[Data](articles/1ce4d595.json)
-
-[Extended Data](ext_articles/1ce4d595.ext.json)
-
----
-
-### President arrives in the US
-
-*2025-09-23 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214928) · `si`
-
-President Anura Kumara Dissanayake, who left the 80th session of the United Nations General Assembly, John Fonseka, USA, USA. Kennedy has reached the International Airport.
-
-John F.. President Anura Kumara Dissanayake was warmly welcomed by President Anura Kumara Dissanayake, the President's Chief Justice President of Sri Lanka's Permanent Representatives from the United Nations.
-
-Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the tour of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/24197bd0.json)
-
-[Extended Data](ext_articles/24197bd0.ext.json)
-
----
-
-### Explanation for Sampath Manambery
-
-*2025-09-23 21:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-விளக்கமறியல்/175-365151) · `ta`
-
-The court today ordered that Sampath Manamperi, who was investigated by the Police Drug Prevention Division, be interrogated.
-
-Accordingly, Sampath Manamberi has been kept in detention until the 26th of this month.
-
-It is noteworthy that he has been interrogated in connection with the incident where two containers of chemicals suspected to have been used to produce an Ice drug in Mitteniya.
-
-In addition, the Valasmulla Magistrate has ordered him to be remanded till October 1 in connection with the incident of arms being found on the land involved.. Remble
-
-◼️
-
-[Data](articles/4522c791.json)
-
-[Extended Data](ext_articles/4522c791.ext.json)
-
----
-
-### Electricity Services Essential Services Gazette; Resolution to submit to Parliament tomorrow
-
-*2025-09-23 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225900) · `ta`
-
-It was decided on Tuesday (23) under the patronage of Hon.
-
-The Gazette Notification No. 2454/68 issued by the President on 21.09.2012 under the Essential Public Services Act No. 61 of 1979 will be presented to Parliament without debate.
-
-◼️
-
-[Data](articles/9611bac4.json)
-
-[Extended Data](ext_articles/9611bac4.ext.json)
 
 ---

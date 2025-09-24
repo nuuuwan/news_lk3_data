@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 23:40:32**
+As of **2025-09-24 23:56:59**
 
 ## Newspaper Stats
 
@@ -26,31 +26,33 @@ adaderanasinhalalk | 13,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,961 (100.0%) of 77,964 articles have been extended.
+77,964 (100.0%) of 77,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### ඔක්තෝබර් මාසයේ සංචාරය කරන්න ලොව හොඳම රට ලංකාව
+### Traveling in October Sri Lanka is the best country
 
 *2025-09-24 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214975) · `si`
 
-ලොව හොඳම සංචාරක ස්ථාන පිළිබඳ තොරතුරු ඉදිරිපත්කරන සඟරාවක් වන බ්‍රිතාත්‍යයේ 'ටයිම් අවුට්' නිකුත්කළ නවතම අනාවරණයට අනුව ඔක්තෝබර් මාසයේ සංචාරය කිරීමට ලොව හොඳම ගමනාන්තය ලෙස ශ්‍රී ලංකාව නම්කර ඇත.
+Sri Lanka has been named the best destination in the world to visit the World's Tim Out
 
-ශ්‍රී ලංකාවේ උණුසුම් නිවර්තන දේශගුණය, සංස්කෘතික උරුමයන් සහ ස්වාභාවික භූ දර්ශන මෙහිදී සැලකිල්ලට ගෙන තිබේ.
+The warm tropical climate, cultural heritage and natural landscapes in Sri Lanka have been taken into account here.
 
-තවද එම සඟරාව දිවයින වටා ඇති ආකර්ශණීය වෙරළ තීරයන් සහ කඳු නැගීම සිට පෞරාණික නටබුන් සහ වනජීවී සෆාරි යනාදියද ශ්‍රී ලංකාව ලොව හොඳම සංචාරක ගමනාන්තය ලෙස තෝරාගැනීමට හේතු වී ඇත.
+The magazine also has the ancient ruins and wildlife to the ancient ruins and wildlife safari, from attractive beaches around the island.
 
-ටයිම් අවුට් සංචාරක සඟරාවට අනුව මෙම ශ්‍රේණිගතකිරීමට සෘතුමය චමත්කාරය, සංස්කෘතික සිදුවීම් සහ ඔක්තෝබර් මාසයේදී විශේෂයෙන් භුක්ති විඳිය හැකි අත්දැකීම් යනාදිය පදනම්කරගෙන තිබේ.
+According to Time Out Travel Joine, this rank is based on seasonal charm, cultural events, and in October.
 
-මෙම ලැයිස්තුවේ දෙවන ස්ථානය තුර්කියටද, අමෙරිකාවේ නිව් මෙක්සිකෝ තෙවන ස්ථානයේ දී නම්කර තිබේ.
+The second place in this list has been named at Turkey and New Mexico third place.
 
-අනෙකුත් ගමනාන්ත වන්නේ ස්පාඤ්ඤයේ වැලෙන්සියා, අමෙරිකාවේ නිව්යෝර්ක්, පිලිපීනය, භූතානය, බොස්නියාව සහ හර්සගොවිනා, රුමේනියාවේ ටිමිසෝරා, අමෙරිකාවේ සැන් ෆ්‍රැන්සිස්කෝ සහ නැමීබියාවයි.
+Other destinations are the Spain, New Yorkia, BhDen, Besania, Bosnia and Hrszonia, Romania San Francisco and Namibia.
 
 ◼️
 
 [Data](articles/fdbde256.json)
+
+[Extended Data](ext_articles/fdbde256.ext.json)
 
 ---
 
@@ -97,6 +99,8 @@ In total, 54 locations have been selected, including six areas known for generat
 ◼️
 
 [Data](articles/97022a80.json)
+
+[Extended Data](ext_articles/97022a80.ext.json)
 
 ---
 
@@ -207,6 +211,8 @@ Other featured destinations include Valencia (Spain), New York City (US), the Ph
 ...
 
 [Data](articles/0ba10b94.json)
+
+[Extended Data](ext_articles/0ba10b94.ext.json)
 
 ---
 

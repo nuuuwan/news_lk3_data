@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 02:20:28**
+As of **2025-09-25 01:38:42**
 
 ## Newspaper Stats
 
-*Scraped **77,972** Articles*
+*Scraped **77,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 788
 economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
-dailyftlk | 5,528
+dailyftlk | 5,527
 adalk | 7,578
-adaderanalk | 10,123
+adaderanalk | 10,121
 tamilmirrorlk | 11,756
 virakesarilk | 12,679
 adaderanasinhalalk | 13,626
@@ -26,49 +26,11 @@ adaderanasinhalalk | 13,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,971 (100.0%) of 77,972 articles have been extended.
+77,969 (100.0%) of 77,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
-
-### Zakath and poverty: Why the powerful tool falls short in Sri Lanka
-
-*2025-09-25 02:07:30* · [`dailyftlk`](https://www.ft.lk/columns/Zakath-and-poverty-Why-the-powerful-tool-falls-short-in-Sri-Lanka/4-782124) · `en`
-
-Zakath (micro finance of a minority Muslim community) is not merely an act of charity but a system meant to eradicate poverty and strengthen social justice. In Sri Lanka, however, its potential remains underutilised due to a consumption-heavy approach and lack of sustainable strategies. Unless zakath distribution evolves from relief to empowerment, Muslims will continue to face the painful irony of widespread poverty, which is said to be three times higher than the national average.
-
-In Sri Lanka, zakath is too often spoken of only during Ramazan, when most Muslims rush to fulfil their duty and then let the dialog fade away for another year. Yet, zakath was never meant to be a passing ritual; it is a social justice and a lifeline for the poor. If practiced with vision and commitment, it can become a powerful force that uplifts families, restores dignity, and transforms entire communities.
-
-...
-
-[Data](articles/80812b7b.json)
-
----
-
-### President Dissanayake addresses UN General Assembly
-
-*2025-09-25 00:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112886/president-dissanayake-addresses-un-general-assembly) · `en`
-
-President Anura Kumara Dissanayake today addressed the General Debate of the 80th Session of the UN General Assembly (UNGA) at the United Nations in New York.
-
-The Sri Lankan President touched on topics including global poverty, debt burden of developing nations and the drug menace during his speech.
-
-This is President Dissanayake’s first time addressing the UN General Assemble since assuming office.
-
-The President arrived at John F. Kennedy International Airport at approximately 8:50 a.m. US time on Tuesday.
-
-Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
-
-During his visit, the President met with the United Nations High Commissioner for Human Rights Volker Türk and is also expected to hold bilateral meetings with the UN Secretary-General and several world leaders.
-
-...
-
-[Data](articles/3f73832b.json)
-
-[Extended Data](ext_articles/3f73832b.ext.json)
-
----
 
 ### AKD’s Year I: Recognising the reality revealed
 
@@ -123,28 +85,6 @@ The monks had a thirteen day when the accident occurred.
 [Data](articles/f80fb1cc.json)
 
 [Extended Data](ext_articles/f80fb1cc.ext.json)
-
----
-
-### Seven Buddhist monks reported dead in cable car accident at Na Uyana Monastery
-
-*2025-09-25 00:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112885/five-buddhist-monks-reported-dead-in-cable-car-accident-at-na-uyana-monastery) · `en`
-
-(UPDATED: 1.09 a.m.) - The death toll from the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura has increased to seven Buddhist monks.
-
-At least two of the deceased monks are foreign nationals, and their bodies have been placed at the Gokarella District Hospital. The bodies of the other monks have been placed at the Kurunegala Teaching Hospital.
-
-It is reported that 13 Buddhist monks were riding the cable car in the monastery at the time of the accident.
-
-The seriously injured monks have now been admitted to the Kurunegala Teaching Hospital.
-
-At least five Buddhist monks are reported dead after a cable car broke from the cable and fell down at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura, Kurunegala Hospital sources told Ada Derana.
-
-...
-
-[Data](articles/10beb17f.json)
-
-[Extended Data](ext_articles/10beb17f.ext.json)
 
 ---
 
@@ -2139,5 +2079,65 @@ The autopsy was scheduled to be held today. The traffic section of the Nittambuw
 [Data](articles/d0ae30db.json)
 
 [Extended Data](ext_articles/d0ae30db.ext.json)
+
+---
+
+### CMC employee arrested for selling heroin and ‘Ice’
+
+*2025-09-24 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112856/cmc-employee-arrested-for-selling-heroin-and-ice) · `en`
+
+An office assistant of the Colombo Municipal Council (CMC) has been arrested by the Walana Anti-Vice Unit for allegedly selling heroin and crystal methamphetamine (commonly known as Ice) to workers of the council.
+
+Police said the suspect had been carefully packaging heroin and ‘Ice’ in his office room over an extended period and distributing it to municipal council workers.
+
+The suspect’s office is reportedly located in a building belonging to the Colombo Municipal Council near Campbell Park.
+
+Acting on a tip-off, officers of the Walana Anti-Vice Unit carried out a raid on September 22 and recovered more than 20 grams of heroin from the suspect’s possession, police said.
+
+The 38-year-old suspect has been taken into custody and handed over to the Borella Police.
+
+After being produced before the Aluthkade Magistrate’s Court, a detention order was issued, and further investigations are ongoing.
+
+◼️
+
+[Data](articles/da4e2f6d.json)
+
+[Extended Data](ext_articles/da4e2f6d.ext.json)
+
+---
+
+### Central Bank Governor explains the benefits of digital facilities for financial services
+
+*2025-09-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214955) · `si`
+
+Central Bank Governor Dr. Nandalal Weerasinghe says that the digital infrastructure for financial services benefits to all parties.
+
+The Pininte 2025 convention was held at the Bandaranaike Memorial International Conference Hall, designated as the digital monthly month.
+
+Speaking further Mr. Dr. Nandalal Weerasinghe,
+
+"The digital infrastructure for financial services benefits to all parties. The Central Bank of Sri Lanka, Second Commercial Banks, customers, are the people. Financial services or at least paying methods of payment methods will come down cost costs and cash savings. The central bank will be able to provide those benefits to the front. The investment for the digitalization of commercial banks will be given high benefits. Money transfer and finance administration is easy and reduces costs. I think the most benefits of the. It enables them to dealize the bank without. The most benefits of the people who properly use the digitization are the most commonly used people. "
+
+◼️
+
+[Data](articles/ae432dd6.json)
+
+[Extended Data](ext_articles/ae432dd6.ext.json)
+
+---
+
+### "We will announce before arrests"
+
+*2025-09-24 13:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைது-செய்யும்-முன்-அறிவிப்போம்/175-365205) · `ta`
+
+The Attorney General has announced the appeal to the Court of Appeal on Wednesday (24) that if the decision is taken to arrest former minister Udaya Kammanpila, the court will announce the court.
+
+Sudarshana de Silva, Additional Solicitor General, who appeared on behalf of the Criminal Investigation Department (CID), said that the writ petition filed today (24) seeking an order to prevent Udaya Kammanpila.
+
+◼️
+
+[Data](articles/c60dbc0f.json)
+
+[Extended Data](ext_articles/c60dbc0f.ext.json)
 
 ---

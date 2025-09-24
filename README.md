@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 09:39:27**
+As of **2025-09-24 09:56:35**
 
 ## Newspaper Stats
 
-*Scraped **77,809** Articles*
+*Scraped **77,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,559
+adalk | 7,560
 adaderanalk | 10,088
-tamilmirrorlk | 11,715
+tamilmirrorlk | 11,717
 virakesarilk | 12,661
-adaderanasinhalalk | 13,591
+adaderanasinhalalk | 13,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,807 (100.0%) of 77,809 articles have been extended.
+77,807 (100.0%) of 77,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### மீரிகம வாகன விபத்தில் பெண் மரணம்
+
+*2025-09-24 09:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீரிகம-வாகன-விபத்தில்-பெண்-மரணம்/175-365178) · `ta`
+
+மீரிகம - பஸ்யால கிரிஉல்ல வீதியில் உள்ள டி.எஸ். சந்திக்கு அருகில் நேற்று இடம்பெற்ற வாகன விபத்தில் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த பகுதியில் மோட்டார் சைக்கிளில் வந்த பெண், கனரக வாகனத்துடன்  மோதியதில் இவ்விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் மோட்டார் சைக்கிளை ஓட்டிச் சென்ற பெண் பலத்த காயமடைந்து மீரிகம  வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்ததாக பொலிஸார்  தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/10cf20c9.json)
+
+---
+
+### ஹல்துமுல்லையில் நில நடுக்கம்
+
+*2025-09-24 09:31:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்துமுல்லையில்-நில-நடுக்கம்/175-365177) · `ta`
+
+◼️
+
+[Data](articles/dcb1fa3c.json)
+
+---
+
+### තිසකුට්ටිට සාගරගෙන් දැඩි අවවාද
+
+*2025-09-24 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214941) · `si`
+
+ප්‍රසිද්ධ රැස්වීම්වලදී වගකීම් විරහිත ප්‍රකාශ කිරීමෙන් වළකින ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිසකුට්ටි ආරච්චිට ශ්‍රී ලංකා පොදුජන පෙරමුණේ මහලේකම් නීතිඥ සාගර කාරියවසම් දැඩි ලෙස අවවාද සිදුකර තිබේ.
+
+ඒ, තිසකුට්ටි ආරච්චි මෑත කාලීනව සිදුකළ බව කියන මතභේදාත්මක ප්‍රකාශ පක්ෂය තුළ සැලකිය යුතු කනස්සල්ලක් ඇති කර ඇති බවට සඳහන් කරමිනි.
+
+ඊට ප්‍රතිචාර වශයෙන් පොහොට්ටුව මෙම දැඩි අවවාදය සිදුකර ඇති බව පැවසෙයි.
+
+හෙට (25) දිනයේදී හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිසකුට්ටි ආරච්චිට පක්ෂ කාර්යාලයට කැඳවීමක් සිදුකර ඇති බවද වාර්තා වෙයි.
+
+මේ අතර පසුගියදා අනුරාධපුරයේ පැවැති රැස්වීමක් අමතමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රී තිසකුට්ටි ආරච්චි පවසා තිබුණේ,
+
+"මේ රටේ නාමල් රාජපක්ෂ ජනාධිපති වෙච්ච දවසට මං මේ රටේ නිල නොලත් ජනාධිපති. මං එයාගේ ළඟම මිත්‍රයා..ළඟම හිතවතා. එහෙමයි කියලා මට ගිහින් කියන්න බැහැ. අරක දෙන්න මේක දෙන්න කියලා. ලංකාවේ වැඩිම ප්‍රතිශතයෙන් අනුරාධපුර දිස්ත්‍රික්කය ජයග්‍රහණය කරනකොට අන්න එයාට ගිහින් කියන්න විතරයි තියෙන්නේ.. අනුරාධපුරයේ මිනිස්සු ඔයාට සැලකුවා කියලා. අනුරාධපුරයේ මිනිස්සුන්ට දැන් ඔයා සලකන්න කියලා."
+
+◼️
+
+[Data](articles/ac7837ff.json)
+
+---
 
 ### தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம்: மாகாண சபைத் தேர்தலும் 13 ஆவது அரசியலமைப்புத் திருத்தமும் !
 
@@ -213,6 +261,22 @@ Reflecting strengthening domestic demand, core inflation is also expected to pic
 [Data](articles/4a607a97.json)
 
 [Extended Data](ext_articles/4a607a97.ext.json)
+
+---
+
+### හල්දුම්මුල්ලේ පොලොව ටිකක් සෙළවෙයි
+
+*2025-09-24 07:34:15* · [`adalk`](https://www.ada.lk/breaking_news/හල්දුම්මුල්ලේ-පොලොව-ටිකක්-සෙළවෙයි/11-418686) · `si`
+
+හල්දුම්මුල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ වෙලන්විට අක්කරසීය ලේමස්තොට මුරුතහින්න ආදී ප්‍රදේශවලට අද 23 සවස 6.46 ,6.47,  විනාඩියේදී සුළු වූ කම්පන තත්ත්වයක් ඇති වී ඇති බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය. මින් කිසිදු හානියක් සිදුවී නැති බවද එම මධ්‍යස්ථානය පැවසීය.
+
+ඉතා සුළු වූ කම්පන තත්ත්වයක් බවට හඳුනාගෙන ඇති අතර එය පල්ලේ කැලේ හක්මන මහ කනදරාව අම්පාර යන භූ කම්පන මානවලට  සංවේදී වී සටහන් වී නොමැති බවද බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ඊ.එම් එල්  උදය කුමාර මහතා පැවසීය.
+
+කෙසේ වෙතත්  මෙම  හදිසි භූ කම්පන තත්ත්වය පිළිබඳව දැඩි අවධානයෙන් පසුවන ලෙස හල්දුමුල්ල ප්‍රාදේශීය ලේකම් කේ ඒ ජී ප්‍රියංගිකා  මහත්මිය ජනතාවගෙන් ඉල්ලා සිටින බවද පැවසීය.
+
+◼️
+
+[Data](articles/650a1494.json)
 
 ---
 
@@ -1963,89 +2027,5 @@ Sri Lanka and Pakistan are contesting and the contest will commence from 08 pm i
 [Data](articles/7999e824.json)
 
 [Extended Data](ext_articles/7999e824.ext.json)
-
----
-
-### Third deaths revealed in Tangalle II ice lorry
-
-*2025-09-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214918) · `si`
-
-It has been revealed that three persons innoffed in a house innone house innovated in the Seennamodara area.
-
-The Judicial Medical Officer of the Tangalle Base Hospital Ruwan Nananayakkara has been conducted by the Judicial Medical Officer of the Tangalle Base Hospital.
-
-The deaths have been revealed due to overwhelming injection of beer and heroin.
-
-The bodies of two youths were found in a house in a house in the Tangalle Seennakola, another person was receiving treatment at the Tangalle Base Hospital.
-
-◼️
-
-[Data](articles/f58612e0.json)
-
-[Extended Data](ext_articles/f58612e0.ext.json)
-
----
-
-### The boy who flew in the plane's landing gear
-
-*2025-09-23 17:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமானத்தின்-லேண்டிங்-கியரில்-ஒளிந்து-கொண்டு-பறந்து-வந்த-சிறுவன்/50-365142) · `ta`
-
-A 13 -year -old boy hid in the plane's landing gear box and shocked everyone. The boy from Afghanistan has come.
-
-The boy made the adventure on Monday (22) at 11 am on an Afghan airline KAM Air flight.
-
-Airport security officials have taken care of the boy as they reached the New Delhi airport for 2 hours.
-
-The boy was found with the Afghan Kurda. The authorities confirmed that he was safe. The boy was then handed over to the Central Occupational Security Force.
-
-At the hearing, Kabul said that he had entered the plane's gear box and hid in the air box.. Officials went to the mountain hearing that he had done this in an interest.
-
-The boy was then sent to Afghanistan on the same flight at 12.30 pm.
-
-◼️
-
-[Data](articles/4731f0e0.json)
-
-[Extended Data](ext_articles/4731f0e0.ext.json)
-
----
-
-### Husband shot in foam bread for his wife
-
-*2025-09-23 17:13:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவிக்கு-நுரை-ரொட்டி-சுட்ட-கணவன்/175-365141) · `ta`
-
-The husband, who failed to give his wife a little bit of a tasty bread, had to stand in a village in Galle district in a situation where he had to stand up to his clothes in front of his wife.
-
-There was also his mother -in -law in his house. Other children came to see her whenever the opportunity was available. Whenever they come, they will come to the head with a bundle. On that day, his eldest brother -in -law came. He unloaded many dry food parcels from his car.
-
-After the elder brother -in -law, the owner of the house and his wife took these dry food packets one by one.
-
-Among them, his mind moved towards the packet of bread flour in a polythene bag without a name or village. The thought of making bread to the chicken gravy at night came to his memory. Its taste came to his memory. At the same time, the tons of tons of his mouth came to the saliva. His wife also recommended this white, marriage and white pocket in the polythene bag.
-
-...
-
-[Data](articles/d8cef763.json)
-
-[Extended Data](ext_articles/d8cef763.ext.json)
-
----
-
-### Sri Lanka is a unique site for international trading events - Prime Minister
-
-*2025-09-23 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225875) · `ta`
-
-Prime Minister Harini Amarasuriya said that Sri Lanka is a unique platform for international trade events and that "SL Mice Expo 2025" is a great opportunity to bring Sri Lanka's name to the international stage.
-
-The Prime Minister said this at the inaugural event of the "SL MICE Expo 2025" exhibition organized by the Sri Lanka Conference Bureau under the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-The exhibition will be held at 100 representatives from 30 countries and the "SL MICE Expo 2025" exhibition will be held for 5 days from today.
-
-Its aim is to make Sri Lanka a leading country in the MICE (Meetings, Incentives, Conferencing, and Exhibitions) field, with the opportunity to showcase and improve their services, products and skills in the domestic and foreign MICE.
-
-...
-
-[Data](articles/28e4c9cf.json)
-
-[Extended Data](ext_articles/28e4c9cf.ext.json)
 
 ---

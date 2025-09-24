@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 19:37:30**
+As of **2025-09-24 19:55:34**
 
 ## Newspaper Stats
 
-*Scraped **77,930** Articles*
+*Scraped **77,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,95 @@ economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,576
+adalk | 7,577
 adaderanalk | 10,111
-tamilmirrorlk | 11,748
-virakesarilk | 12,670
+tamilmirrorlk | 11,753
+virakesarilk | 12,671
 adaderanasinhalalk | 13,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,928 (100.0%) of 77,930 articles have been extended.
+77,930 (100.0%) of 77,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
+### சபரிமலை ஐயப்பன் ஆலயத்தை புனித தலமாக பிரகடனப்படுத்த அங்கீகாரம்
+
+*2025-09-24 19:28:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபரிமலை-ஐயப்பன்-ஆலயத்தை-புனித-தலமாக-பிரகடனப்படுத்த-அங்கீகாரம்/175-365229) · `ta`
+
+இலங்கை அரசால் அங்கீகரிக்கப்பட்ட புனித யாத்திரை தலமாக சபரிமலை ஐயப்பன் ஆலயத்தை பிரகடனப்படுத்துவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. இந்நிலையில் இதனை இந்திய அரசாங்கத்திற்கு முறையாக அறிவிக்கும் நடவடிக்கை மேற்கொள்ளப்பட்டுவருவதாக கொழும்பு மாநகர சபையின் உறுப்பினர் எஸ்.ஆனந்தகுமார் தெரிவித்துள்ளார்.
+
+நீண்டகாலமாக இலங்கையின் இந்து பக்தர்கள் ஒவ்வொரு ஆண்டும் நவம்பர் முதலாம் திகதி தொடக்கம் அடுத்த வருடத்தின் ஜனவரி மாதம் 31 ஆம் திகதி வரையான காலப்பகுதியில் இந்தியாவின் கேரளா மாநிலத்தில் அமைந்துள்ள சபரிமலை ஐயப்பன் ஆலயத்துக்குச் சென்று தரிசித்து வருகின்றனர்.தற்போது ஆண்டுதோறும் 15,000 இற்கும் அதிகமான பக்தர்கள் கலந்து கொள்கின்ற யாத்திரை தலமாக இந்த ஆலயம் அமைந்துள்ளது. இன்னும் இரண்டு மாதத்தில் ஐயப்ப சாமிமார்கள் மாலை அணிந்து சபரிமலைக்கு செல்லவுள்ளனர்.
+
+...
+
+[Data](articles/9a9ef551.json)
+
+---
+
+### மிதிகம ருவானின் நண்பன் கைது
+
+*2025-09-24 19:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதிகம-ருவானின்-நண்பன்-கைது/175-365228) · `ta`
+
+பாதாள உலகக் குழு தலைவரும் சர்வதேச போதைப்பொருள் வலையமைப்புடன் தொடர்புடைய பிரதான சந்தேக நபருமான மிதிகம ருவானின் நண்பன் கைது செய்யப்பட்டுள்ளார்.
+
+வெலிகம மற்றும் மிதிகம பகுதிகளுக்கு இடையில் விசேட அதிரடிப்படையினர் நடத்திய சுற்றிவளைப்பின் போது இவர் கைது செய்யப்பட்டுள்ளார்.
+
+இதன்போது, சந்தேகநபரிடம் இருந்து மூன்று டி-56 துப்பாக்கிகள் பறிமுதல் செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/8dba2d24.json)
+
+---
+
+### பெலன் டி'ஓர் விருது விழா 2025: அதிசிறந்த வீரர் உஸ்மான் டெம்பிலி, அதிசிறந்த வீராங்கனை ஆய்ட்டானா பொன்மாட்டி
+
+*2025-09-24 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/225994) · `ta`
+
+பிரான்ஸ் நியூஸ் மெகஸின் (பிரான்ஸ் செய்தி சஞ்சிகை) மற்றும் பிரெஞ்சு கால்பந்தாட்ட சம்மேளனம் ஆகியவற்றினால் வருடாந்தம் வழங்கப்படும் அதிசிறந்த கால்பந்தாட்ட வீரருக்கான பெலன் டி'ஓர் விருதை பாரிஸ் செய்ன்ட் ஜேர்மெய்ன் கழக வீரரும் பிரான்ஸ் தேசிய வீரருமான உஸ்மான் டெம்பிலி வென்றெடுத்தார்.
+
+அதி சிறந்த வீராங்கனைக்கான பெலன் டி'ஓர் விருதை மூன்றாவது தொடர்ச்சியான வருடமாக பார்சிலோனா மற்றும் ஸ்பெய்ன் மத்திய கள வீராங்கனை ஆய்ட்டானா பொன்மாட்டி வென்றெடுத்தார்.
+
+பிரான்ஸ் தேசத்தில் பாரிஸ் நகரில் அமைந்துள்ள தியேட்டர் டு சாட்லே அரங்கில் கடந்த திங்கட்கிழமை இரவு 69ஆவது பெலன் டி'ஓர் விருது விழா கோலாகலமாக நடைபெற்றது.
+
+இவ் விழாவில் அதி சிறந்த வீரருக்கான பெலன் டி'ஓர் விருதை உஸ்மான் டெம்பிலி வென்றெடுத்தார். இந்த விருதை அவர் முதல் தடவையாக வென்றதுடன் அவ்விருதை கன்னீர்மல்க பெற்றுக்கொண்டார்.
+
+நடந்து முடிந்த 2024 - 2025 கால்பந்தாட்ட பருவ காலத்தில் தனது அதிசிறந்த கால்பந்தாட்ட நுட்பத்திறன்மூலம் பாரிஸ் செய்ன்ட் ஜேர்மெய்ன் கழகத்திற்கு நான்கு சம்பியன் பட்டங்களை உஸ்மான் டெம்பிலி கிடைக்கச் செய்திருந்தார்.
+
+...
+
+[Data](articles/4316ef65.json)
+
+---
+
+### ரணிலை கைதுசெய்ய உத்தரவிட்ட நீதவானுக்கு நடந்தது என்ன?
+
+*2025-09-24 19:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைதுசெய்ய-உத்தரவிட்ட-நீதவானுக்கு-நடந்தது-என்ன/175-365227) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை விளக்கமறியலில் வைக்க உத்தரவிட்ட மாவட்ட நீதவானுக்கு பதவி உயர்வு வழங்கப்பட்டுள்ளது.
+
+ஆனால், அரசாங்கத்தின் அமைச்சர் ஒருவரை கைது செய்ய உத்தரவிட்ட நீதவானுக்கு இடமாற்றம் வழங்கப்பட்டுள்ளது.
+
+இதுதான் இந்த அரசின் சட்ட ஆட்சி  எனக்கூறிய   ஐக்கிய மக்கள் சக்தியின்  பொது செயலாளரும் எம்.பி.யுமான ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+
+ஜே .வி.பி. யின்  காட்டு நீதிமன்ற செயற்பாடுகளை நாங்கள் அறிவோம்.   இந்த நிலைமையை மீண்டும் ஏற்படுத்தவா இப்போது முயற்சிக்கின்றார்கள்  எனவும் கேள்வி எழுப்பினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை இடம்பெற்ற  தண்டனைச் சட்டக்கோவை  திருத்தச்  சட்டமூலம் மீதான விவாதத்திலேயே மேற்கண்டவாறு தெரிவித்தார்
+
+◼️
+
+[Data](articles/61a2f4be.json)
+
+---
+
 ### Participation of North and East Relations Meeting
 
-*2025-09-24 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225993) · `ta`
+*2025-09-24 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225993) · `ta`
 
 Representatives of the Association of North and East will also participate in the 29th meeting of the Missing Faculty Committee on Friday 26th in Geneva.
 
@@ -49,6 +119,18 @@ The Group of Missing Figs under the United Nations is a structure that includes 
 [Data](articles/6b069a44.json)
 
 [Extended Data](ext_articles/6b069a44.ext.json)
+
+---
+
+### ஜனாதிபதிக்கும் டிரம்பின் விசேட பிரதிநிதிக்கும் இடையில் சந்திப்பு
+
+*2025-09-24 18:43:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-டிரம்பின்-விசேட-பிரதிநிதிக்கும்-இடையில்-சந்திப்பு/175-365226) · `ta`
+
+ஜனாதிபதிக்கும் ஜனாதிபதி டொனால்ட் டிரம்பின் தெற்கு மற்றும் மத்திய ஆசியாவிற்கான விசேட பிரதிநிதிக்கும் இடையில் சந்திப்பு.
+
+◼️
+
+[Data](articles/a02dddc8.json)
 
 ---
 
@@ -73,6 +155,24 @@ It is said that he is the father of the elder sister and daughter of the father 
 [Data](articles/17e139da.json)
 
 [Extended Data](ext_articles/17e139da.ext.json)
+
+---
+
+### உ/த பரீட்சார்த்திகள் திரைப்படம் பார்க்க ரூ.5,000 கொடுப்பனவு
+
+*2025-09-24 18:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சார்த்திகள்-திரைப்படம்-பார்க்க-ரூ-5-000-கொடுப்பனவு/175-365225) · `ta`
+
+உயர்தரப் பரீட்சைகளை முடிக்கும் மாணவர்களுக்கு திரைப்படம் பார்ப்பது அல்லது கடற்கரைக்குச் செல்வது போன்ற பொழுதுபோக்கு நடவடிக்கைகளில் ஈடுபட ரூ. 5,000 வழங்க வேண்டும் என்று சபைத் தலைவர் பிமல் ரத்நாயக்க இன்று முன்மொழிந்தார்.
+
+பாராளுமன்றத்தில் பேசிய அமைச்சர், மாணவர்கள் திரைப்படங்கள் மற்றும் நாடகங்களைப் பார்க்கவும், நல்ல இசையைக் கேட்கவும், கடற்கரைகளுக்குச் செல்லவும், கலாச்சார நடவடிக்கைகளில் பங்கேற்கவும் ஊக்குவிக்கப்பட வேண்டும் என்றார்.
+
+"இளைய தலைமுறையினர் வயதுக்கு மாறும்போது இது ஒரு முக்கியமான படியாகும் என்பதால், இந்த விஷயத்தைப் பற்றி நான் ஒரு முறை பிரதமருக்கு நினைவூட்டினேன்," என்று அவர் கூறினார்.
+
+இந்த ஒதுக்கீடு கலாச்சார மற்றும் பொழுதுபோக்கு நடவடிக்கைகளுக்கு மட்டுமே பயன்படுத்தப்பட வேண்டும் என்றும் வேறு எந்த நோக்கத்திற்காகவும் பயன்படுத்தப்படக்கூடாது என்றும் அவர் மேலும் வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/e13e897d.json)
 
 ---
 
@@ -109,6 +209,8 @@ Police stated the suspect is related to underworld figure ‘Midigama Ruwan’ w
 ◼️
 
 [Data](articles/2bdc0f95.json)
+
+[Extended Data](ext_articles/2bdc0f95.ext.json)
 
 ---
 
@@ -166,6 +268,8 @@ Meanwhile, the S&P SL20 Index moved up by 7.92 points to close at 6,081.06 point
 
 [Data](articles/1f04d593.json)
 
+[Extended Data](ext_articles/1f04d593.ext.json)
+
 ---
 
 ### Childbirth in the sewage
@@ -218,15 +322,13 @@ Ransomware gangs routinely publicise attacks and leak stolen data on dark web �
 
 *2025-09-24 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112871/president-hold-talks-with-us-special-envoy-on-south-asia-sergio-gor-in-new-york) · `en`
 
-President Anura Kumara Dissanayake, who is currently in the United States to attend the 80th session of the United Nations General Assembly has met with US President Donald Trump’s Special Envoy for South and Central Asian affairs and Director of the White House Presidential Personnel Office Sergio Gor in New York.
+President Anura Kumara Dissanayake, who is currently in the United States to attend the 80th session of the United Nations General Assembly, met with US President Donald Trump’s Special Envoy for South and Central Asian Affairs and the Director of the White House Presidential Personnel Office, Sergio Gor in New York.
 
-The meeting took place at the Permanent Mission of Sri Lanka to the United Nations in New York.
+The meeting took place at the Office of Sri Lanka’s Permanent Representative to the United Nations, the President’s Media Division said.
 
-President Dissanayake, who arrived in the United States yesterday (23), is scheduled to address the 80th session of the United Nations General Assembly (UNGA) at 3:15 pm US time today (24).
+During the meeting, attention was drawn to areas of significance to both countries, including trade, commerce, tourism and investment, with discussions focusing on further strengthening cooperation in these sectors.
 
-The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time yesterday.
-
-Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
+President Anura Kumara Dissanayake stated that following an unprecedented economic crisis, Sri Lanka, as a new government with a strong public mandate, is committed to pursuing closer and more productive relations with the United States, with priority placed on building a prosperous economy aimed at sustainable growth.
 
 ...
 
@@ -575,6 +677,22 @@ At this meeting, they discussed various aspects of bilateral cooperation and pol
 [Data](articles/c096c4e4.json)
 
 [Extended Data](ext_articles/c096c4e4.ext.json)
+
+---
+
+### විදේශ ගත ශ්‍රමිකයෙකුගේ මරණයකදී හිමිවන වන්දි ලක්ෂ 20 දක්වා ඉහළට
+
+*2025-09-24 16:27:18* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ගත-ශ්‍රමිකයෙකුගේ-මරණයකදී-හිමිවන-වන්දි-ලක්ෂ-20-දක්වා-ඉහළට/11-418702) · `si`
+
+විදේශ රැකියාවක නිරතවන ශ්‍රි ලාංකික ශ්‍රමිකයෙකුට රැකියාව අතරතුරදී සිදුවන මරණයක් සඳහා ගෙවීම් කරනු ලබන රක්ෂණ වන්දි මුදල රුපියල් ලක්ෂ 20 දක්වා ඉහළ නංවා ඇතැයි ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා ප්‍රකාශ කරයි.
+
+ඒ මහතා මේ බව ප්‍රකාශ කළේ අද දින (24) කාර්යාංශයේදී පැවති විශේෂ මාධ්‍ය සාකච්ඡාවකට එක් වෙමිනි.එහිදී අදහස් දැක්වූ වික්‍රමසිංහ මහතා,
+
+“පසුගිය වසර තුළදී ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විදෙස්ගත ශ්‍රමිකයින් වෙනුවෙන් විශාල වැඩකොටසක් කළා. කාර්යාංශයේ කටයුතු සම්බන්ධයෙන් එල්ල වුණු චෝදනාවලට පිළිතුරක් විදිහට නීතිය, ආධිපත්‍ය සාධාරණත්වය ස්ථාපිත කිරීමට පොලිස් නිළධාරීන් 16 දෙනෙකුගෙන් යුත් විශේෂ විමර්ශන ඒකකයක් පිහිටවුවා.  ඒ වගේම විදේශ රැකියා වංචනිකයින්ට හසුවූවන්ට රුපියල් මිලියන 234ක මුදලක් යළි අයකරදීමට හැකිවුණා. මේ වන විට කාර්යාංශ පනත යාවත්කාලීන කිරීමටත් අවශ්‍ය පියවර ගනිමින් පවතිනවා.
+
+...
+
+[Data](articles/4825b5ce.json)
 
 ---
 
@@ -1977,161 +2095,5 @@ Meanwhile, Minister Herath also met with US Deputy Secretary of State Alison Hoo
 [Data](articles/60c56d38.json)
 
 [Extended Data](ext_articles/60c56d38.ext.json)
-
----
-
-### NASA prepared at a ten-day ride after 50 years
-
-*2025-09-24 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214945) · `si`
-
-NASA has said that the astroad is expected to send astronauts for ten days around February, 50, 2026.
-
-It is reported that NASA has been sent four astronauts from NASA for 50 years since this lunar operation in the world is 50 years.
-
-The acting Deputy Assistant Administrator Lucky said this would be an important opportunity for human space exploration.
-
-The four astronauts traveling in this mission called Artemis II will return to the earth after a ten-day tour.
-
-The purpose of this operation is to check the rocket and spacecraft systems for the lunar landing.
-
-Depending on the success of the operation, Departure III can launch Artemis III to land on the moon.
-
-However, the operation goes on perfection, but Artemis III cannot be launched before mid 2027.
-
-◼️
-
-[Data](articles/e4fabd94.json)
-
-[Extended Data](ext_articles/e4fabd94.ext.json)
-
----
-
-### Subsequent bombing at midnight; Norwegian people are forbidden to come out
-
-*2025-09-24 10:23:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நள்ளிரவில்-அடுத்தடுத்து-குண்டுவெடிப்பு-நோர்வே-மக்கள்-வெளியே-வர-தடை/50-365189) · `ta`
-
-In the Norwegian capital, Oslo, the subsequent bombs have caused a stir. Police have arrested three suspects.
-
-These two bombings have occurred in Parkwine and Filestrett area. Residents in the area feared and panic.
-
-Norwegian police immediately rushed to the scene. They surrounded the area and carried the search hunting. They found a grenade bomb that had not exploded there.
-
-The three suspects were arrested and taken to trial. Commenting on the blast incident, Oslo Police President Brian Scotnes said:
-
-Bomb exploded in Central Oslo area. We have arrested 3 people on suspicion during the search hunt. We are looking for others associated with them.
-
-The place where the incident took place, is currently under full police control. Local residents said a car from Bislet Stadium went suspiciously. Those who saw the incident claim that they threw two grenades from the car. The investigation continues.
-
-Police have advised the people of the area not to enter the bombs and not get out of the residence.
-
-◼️
-
-[Data](articles/764e65ca.json)
-
-[Extended Data](ext_articles/764e65ca.ext.json)
-
----
-
-### Indian Navy Commander met Prime Minister
-
-*2025-09-24 10:17:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பிரதமரைச்-சந்தித்தார்/175-365186) · `ta`
-
-The Indian Navy Commander, ADMIral Dinesh K Tripathi, who visited Sri Lanka on September 21, 2025, met Prime Minister Harini Amarasuriya on Tuesday (23) at the Parliamentary Complex.
-
-The official meeting, which was held between the Commander of the Indian Navy and the Prime Minister Dr. Harini Amarasuriya, discussed a number of important issues on the two sides, including improving security cooperation between the two countries and strengthening long -term friendship.
-
-In addition, emphasizing the importance of working with a joint approach to face challenges, including maritime security and regional security, illegal drug trafficking and illegal fishing activities.. In addition, the Government of India has also focused on providing training opportunities to the Naval Officers in this country.
-
-Indian Navy Chief ADMIral Dinesh K Tripathi is returning to the country on September 25, 2025, after attending the International Maritime Conference of the Sri Lanka Navy for the 12th time.
-
-...
-
-[Data](articles/db29b3d0.json)
-
-[Extended Data](ext_articles/db29b3d0.ext.json)
-
----
-
-### Sore warning
-
-*2025-09-24 10:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டியாராச்சிக்கு-கடும்-எச்சரிக்கை/175-365185) · `ta`
-
-Sri Lanka PA. He urged to avoid publishing irresponsible and controversial reports at public meetings.
-
-The action has been taken after Kuttiyarachchi's recent comments have stimulated significant concerns among party leaders and led to a strong internal reaction from the party hierarchy.
-
-◼️
-
-[Data](articles/5eb5a8a2.json)
-
-[Extended Data](ext_articles/5eb5a8a2.ext.json)
-
----
-
-### Most of those who are addicted to addiction are not O/L
-
-*2025-09-24 10:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைக்கு-அடிமையானவர்களில்-பெரும்பாலோர்-O-L-தேர்ச்சி-பெற்றாதவர்கள்/175-365183) · `ta`
-
-Recent study has revealed that most people, including ice addiction in Sri Lanka, are now a burden to the state because they need serious rehabilitation and unemployment.
-
-The research, conducted by Professor Vasantha Athukorala and his team from Peradeniya University, analyzed the forms of prison data and drug -related crimes in 2023.
-
-According to their invention, 185,056 persons were jailed in 2023 for various crimes. Of these, 46,939 are guilty and 29,192 cases are directly related to drugs.
-
-The study found that most of the four major districts of Colombo, Gampaha, Kalutara and Kurunegala were arrested by most drug addicts.
-
-As far as age is concerned, 8,491 of the convicts are between the ages of 22 and 30, while 8,941 are 30-40 years old, which indicates that the most affected group of adults in young and middle-aged adults.
-
-"The increasing number of women in drug abuse is a new trend that requires immediate attention from policymakers and health officials," Professor Athukorala said.
-
-...
-
-[Data](articles/2185b392.json)
-
-[Extended Data](ext_articles/2185b392.ext.json)
-
----
-
-### Most of those who are addicted to addiction are not O/L
-
-*2025-09-24 10:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைக்கு-அடிமையானவர்களில்-பெரும்பாலோர்-O-L-தேர்ச்சி-பெறாதவர்கள்/175-365183) · `ta`
-
-Recent study has revealed that most people, including ice addiction in Sri Lanka, are now a burden to the state because they need serious rehabilitation and unemployment.
-
-The research, conducted by Professor Vasantha Athukorala and his team from Peradeniya University, analyzed the forms of prison data and drug -related crimes in 2023.
-
-According to their invention, 185,056 persons were jailed in 2023 for various crimes. Of these, 46,939 are guilty and 29,192 cases are directly related to drugs.
-
-The study found that most of the four major districts of Colombo, Gampaha, Kalutara and Kurunegala were arrested by most drug addicts.
-
-As far as age is concerned, 8,491 of the convicts are between the ages of 22 and 30, while 8,941 are 30-40 years old, which indicates that the most affected group of adults in young and middle-aged adults.
-
-“The increasing number of women in drug abuse is a new trend that requires immediate attention from policymakers and health officials,” Prof. Athukorala said.
-
-...
-
-[Data](articles/d94a4e38.json)
-
-[Extended Data](ext_articles/d94a4e38.ext.json)
-
----
-
-### Youth commits suicide by jumping into Attanagalu Oya
-
-*2025-09-24 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214944) · `si`
-
-A young girl has committed suicide from the Gampaha-Minuwangoda road in the Gampaha-Minuwangoda road.
-
-Police said the police had revealed in preliminary investigations into the bridge of the Attanagalu Oya and has committed suicide.
-
-The cause of suicide is yet to be ascertained.
-
-Police, the Navy and Residents of the area continue jointly in search of the disappearance of woman's body.
-
-◼️
-
-[Data](articles/6a9aca0f.json)
-
-[Extended Data](ext_articles/6a9aca0f.ext.json)
 
 ---

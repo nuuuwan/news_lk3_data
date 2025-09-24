@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 21:39:17**
+As of **2025-09-24 22:55:15**
 
 ## Newspaper Stats
 
-*Scraped **77,951** Articles*
+*Scraped **77,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,192 @@ dailyftlk | 5,526
 adalk | 7,578
 adaderanalk | 10,117
 tamilmirrorlk | 11,755
-virakesarilk | 12,674
-adaderanasinhalalk | 13,619
+virakesarilk | 12,678
+adaderanasinhalalk | 13,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,950 (100.0%) of 77,951 articles have been extended.
+77,958 (100.0%) of 77,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### බයික් එක ස්ටාට් කරන්න ගිය පියා ලොරියකට යටවෙයි
+### Sri Lanka adolescents beat Sri Lanka
+
+*2025-09-24 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214974) · `si`
+
+Sri Lanka Under-19 team was able to win six wickets in the third wicket match against the under-19 women's group.
+
+Sri Lanka became able to confirm the winner wins the tournament with a 3-0 match against this winner.
+
+Australia scored 100 runs for the loss of 100 wickets for the loss of 6 wickets.
+
+Emily Powell scored 32 runs and Suzy Finn scored 31 runs.
+
+2 wickets and Limmansa Tillakaratne took 02 wickets for 20 runs.
+
+Chasing a target of 101 runs, scored 101 runs for the loss of 4 runs.
+
+There were talented by the balloon (36) and Wimamber Balasuriya.
+
+Lilley Hamilton took 2 wickets for 16 runs, but it was not sufficient to win.
+
+◼️
+
+[Data](articles/8f38b1a6.json)
+
+[Extended Data](ext_articles/8f38b1a6.ext.json)
+
+---
+
+### A program to boot solid waste recovery centers
+
+*2025-09-24 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214973) · `si`
+
+A program to start solid waste recovery centers to facilitate transform into solid waste materials to be reused materials.
+
+The 'Clean Sri Lanka' program and the Ministry of Public Administration, Provincial Councils and Local Government has commenced the program.
+
+Accordingly, the Solid Waste Recovery Center is covered with nine provinces, and the first program has been carried out at the Kattankudy Recovery Center at Kattankudy Urban Council at a cost of Rs.
+
+54 locations have been selected at six places that generate a garbage of unknown.
+
+◼️
+
+[Data](articles/fbdcdd52.json)
+
+[Extended Data](ext_articles/fbdcdd52.ext.json)
+
+---
+
+### India is on our side - Ukrainian President Jelensky
+
+*2025-09-24 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226001) · `ta`
+
+In an interview with Ukrainian President Jelenski yesterday, Russia's war on Ukraine said that India is mostly on their side and that India should be kept on their side.
+
+Russia - India is not in favor of Russia as China is acting in favor of Russia. On the contrary, Jelensky noted that India is mostly on our side.
+
+He hoped that despite some contradictions in the affair of India's oil from Russia, they could deal with them.
+
+Jelensky urged European countries to strengthen relations with India and put India on their side.
+
+India has repeatedly urged the end of the war that has been going on for more than three years. India's position is that "this era is not for war, but peace in the world". In this scenario, these ideas of the Ukrainian Chancellor are significant.
+
+◼️
+
+[Data](articles/c2867aa8.json)
+
+[Extended Data](ext_articles/c2867aa8.ext.json)
+
+---
+
+### WhatsApp-Bill New Update: Introduction of Translation Facility
+
+*2025-09-24 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226000) · `ta`
+
+WhatsApp, the inevitable process of smartphones, is to introduce a new feature to translate text messages from users. By this, the language will no longer be an obstacle.
+
+The main feature of this update is the facility of translating and reading a user's sending text into any language.
+
+Initially, the service is to be launched in 19 languages ​​including English, Hindi, Arabic and Spanish.
+
+Since Meta has acquired WhatsApp, various new features have been continued to be launched, such as photo, video, pdf files and status.
+
+The translation, which is currently being brought, is expected to be a boon for millions of users around the world.
+
+◼️
+
+[Data](articles/280ed62d.json)
+
+[Extended Data](ext_articles/280ed62d.ext.json)
+
+---
+
+### Tire Zameen Bar movie should be screened in Parliament - Bimal Ratnayake
+
+*2025-09-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225996) · `ta`
+
+India's 'Tare Jameen Bar' has had a huge impact on me and my wife. Has inspired to think about the needs of children. Pimal Ratnayake, the chief minister and minister of the council, said the film should be screened for MPs.
+
+He was speaking at a debate on the Penal Code (Amendment) Bill held in Parliament on Wednesday (24).
+
+It is impossible to accept that they will grow up only if children are physically punished. Current parents do not physically punish children.
+
+I recently watched the movie 'Tare Jameen Bar' of India. After seeing this film, it had a huge impact on me and my wife. The film inspired us to think about the needs of children.
+
+Members of Parliament who talks about children should watch the film. Otherwise, they should screen the film. So I ask you to see this image.
+
+◼️
+
+[Data](articles/b34a9444.json)
+
+[Extended Data](ext_articles/b34a9444.ext.json)
+
+---
+
+### The father passed into a lorry
 
 *2025-09-24 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214972) · `si`
 
-වෙන්නප්පුව ප්‍රදේශයේ සිදු වූ අවාසනාවන්ත අනතුරකින් තිදරු පියෙකු මරණයට පත්ව ඇත.
+A father has died in an unfortunate accident in Wennappuwa.
 
-ඔහුගේ යතුරුපැදියේ කික් පැඩලය නිසි ලෙස ක්‍රියාත්මක නොවී ඇති අතර, ඒ හේතුවෙන් සිය යතුරුපැදිය තල්ලුකර පණගැන්වීමට උත්සාහ කර තිබේ.
+The kick pedal of his motorcycle was not properly implemented, and he tried to push his motorcycle.
 
-එහිදී යතුරුපැදිය නොසිතූ ලෙස පාලනයෙන් ගිලිහී ගොස් ඔහු මාර්ගය දෙසට විසිවී ඇති අතර, එම අවස්ථාවේ දී මාර්ගයේ ගමන් කරමින් තිබූ දැව ප්‍රවාහනය කළ ලොරි රථයකට යටවී ඇත.
+There, the motorcycle lost unexpected control and was thrown to the road, and he was subdued to a timber transporting on the road.
 
-වෙන්නප්පුව දුම්මලදෙනිය ප්‍රදේශයේ පදිංචිකරුවෙකු වන ඔහු එම ස්ථානයේම මරණයට පත්ව ඇත.
+He was a resident of Dummaladeniya, Wennappuwa, Wennamaladeniya.
 
 ◼️
 
 [Data](articles/2febc50b.json)
+
+[Extended Data](ext_articles/2febc50b.ext.json)
+
+---
+
+### Steps to include counseling and psychology in school syllabus
+
+*2025-09-24 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214971) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
+
+The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
+
+The Minister further stated that these programs should be implemented to all schools in accordance with a proper plan covering all provinces covering all provinces in the country.
+
+The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
+
+The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
+
+◼️
+
+[Data](articles/658e9c35.json)
+
+[Extended Data](ext_articles/658e9c35.ext.json)
+
+---
+
+### Tensions of a massive ditch in Thailand
+
+*2025-09-24 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225999) · `ta`
+
+A large sudden sudden sudden suddenly occurred on Wednesday morning (24) on the road in front of the Vajira Hospital in Bangkok, Thailand.. The groove continues to expand and is now spreading to the front of the Samsen police station.
+
+The depth of the abyss is more than 50 meters, which has caused fear of a major accident.
+
+Due to this accident, the Dusit District Office, Vajira Hospital Sang Hi and the roads around it have been closed.
+
+Officials are investigating the cause of the sudden crater.
+
+◼️
+
+[Data](articles/2d61e10f.json)
+
+[Extended Data](ext_articles/2d61e10f.ext.json)
 
 ---
 
@@ -1955,163 +2113,5 @@ Additional Savigar General Sudarsitar General Sudarsitar General Sudarsha De Sil
 [Data](articles/4216593c.json)
 
 [Extended Data](ext_articles/4216593c.ext.json)
-
----
-
-### 620 lakhs cannot be cast out with Katunayake
-
-*2025-09-24 12:15:40* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-620ක-ජංගම-දුරකතන-හා-ටැබ්-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-418691) · `si`
-
-A group of airport customs officers have been arrested by the Airport Officers with three passengers who were attempting to be exposed to the Bandaranaike International Airport, which was not told by Green Channel.
-
-All of them are residents of Colombo, and there are two and 62-year-old women and 62-year-old women are a 25 year old man.
-
-They had arrived at Flai Dubai from Dubai at 04.30 am on 04.24 am.
-
-Airport Customs customs have been arrested by airport customs while they were brought to their baggage and 80 tab computers.
-
-Katunayake Airport Customs officers are conducting further investigations
-
-◼️
-
-[Data](articles/349f45ba.json)
-
-[Extended Data](ext_articles/349f45ba.ext.json)
-
----
-
-### Fear 'Ragaa' kills China
-
-*2025-09-24 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214952) · `si`
-
-Foreign media has reported that the terrible monasteries of the year is 'Ragarha' towards China.
-
-It is reported that 14 people have been killed and 124 people have been killed and 124 people have been killed.
-
-Most of the victims of the flooding and hurricane are elderly persons.
-
-At some areas of the Hualian coast of Taiwan, some areas of the Huavalian area received more than 700mm rainfalls.
-
-At Taiwan International Airport today (24), over 160 flights were canceled at Taiwan International Airport and some areas railways were suspended.
-
-The Hong Kong Weather Authorities issued their highest Typhoon alert today (24), and the storm 150 miles [150 km] from the Chinese premises.
-
-The Department of Meteorology has said that the general weather is constantly disturbed by severe rain and thundershowers.
-
-◼️
-
-[Data](articles/a429ee9c.json)
-
-[Extended Data](ext_articles/a429ee9c.ext.json)
-
----
-
-### හිටපු ඇමති මර්වින්ගේ නඩුවකට දින නියම වෙයි
-
-*2025-09-24 12:03:35* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ඇමති-මර්වින්ගේ-නඩුවකට-දින-නියම-වෙයි/11-418690) · `si`
-
-The Colombo High Court has decided to hear the case filed by the Bribery Commission against former Minister Mervyn Silva accused the former Minister Mervyn Silva accused the former Minister Mervyn Silva accused the Minister of Asset and property.
-
-Accordingly, the trial has been commenced on November 17.
-
-◼️
-
-[Data](articles/80275516.json)
-
-[Extended Data](ext_articles/80275516.ext.json)
-
----
-
-### Colombo Municipal Council's cargo handed over ice drug
-
-*2025-09-24 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214951) · `si`
-
-The Colombo Municipal Council employees have been arrested by the Walana Corruption Assistant who sold ice and heroin.
-
-The suspect was meticulously meticulous for a long time in his office room, police said.
-
-The office of the employees of the Colombo Municipal Council belonging to the Campbell Ground, he has acted there as an operator.
-
-The Walana Corruption Board has been raided on a tip off on the 22nd and over 20,000 milligrams of heroin was found in possession of the suspect.
-
-The suspect was a 38 year old and handed over to the Borella Police.
-
-The suspect was produced before the Aluthkade Magistrate's Court and obtains detention orders and obtain detention orders.
-
-◼️
-
-[Data](articles/96780396.json)
-
-[Extended Data](ext_articles/96780396.ext.json)
-
----
-
-### There is no change in the policy rate - the Central Bank of Sri Lanka
-
-*2025-09-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/225934) · `ta`
-
-At its meeting, which was held on Tuesday (23), the Monetary Council decided to maintain a 7.75 per cent current level.
-
-The council made the resolution after careful review of both domestic and global development.
-
-The council considers the current monetary policy position to lead the inflation towards a 5 percent target.
-
-The main inflation based on the Colombo Consumer Price Index has returned to the interview at 2025 and ended the eleven months of money laundering.
-
-◼️
-
-[Data](articles/1f86bb11.json)
-
-[Extended Data](ext_articles/1f86bb11.ext.json)
-
----
-
-### Riots in Ecuador Prison: 14 deaths
-
-*2025-09-24 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/225931) · `ta`
-
-Prison prisoners are suddenly riots in the city of Machala, a port city of Quayaku, in the country of Ecuador.
-
-A policeman was murdered during this time. Prisoners have also been killed in this clash.
-
-A total of 14 people have been killed. 14 people were injured. This was confirmed by police chief William Kale.
-
-The prisoners fired from the inside, throwing bombs and bombshells violently. Some prisoners have escaped. 13 of them were arrested again, he said.
-
-40 minutes later, the situation was brought under control. He said the authorities brought the prison under their control.
-
-In Ecuador. Those who belong to that gang often collide with prisons. In this case, they are colliding with each other.
-
-More than 100 prisoners were killed in a clash in 2021. 500 prisoners have been killed since February 2021. There have also been incidents of horrific incidents that their bodies have been sliced ​​and burned.
-
-◼️
-
-[Data](articles/183e6a41.json)
-
-[Extended Data](ext_articles/183e6a41.ext.json)
-
----
-
-### 1,000 political meetings from Ranil?
-
-*2025-09-24 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214950) · `si`
-
-Political sources say that former President Ranil Wickremesinghe has a plan to be abroad on health care.
-
-Accordingly, the former presents to go to a country like France, England, or India.
-
-The former President was invited by the opposition political parties recently acquired opposition responsibility in the face of the political situation.
-
-Accordingly, the former president has focused on the matter and the former President has expressed his views regarding the program to conduct a thousand political meetings.
-
-However, it is reported that Ranil Wickremesinghe has a plan to lead the health condition and in the future.
-
-The specific winnum has not been used in this regard and the former President Ranil Wickremesinghe will take overseas this year, political sources said.
-
-◼️
-
-[Data](articles/783ea5bd.json)
-
-[Extended Data](ext_articles/783ea5bd.ext.json)
 
 ---

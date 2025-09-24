@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 13:57:08**
+As of **2025-09-24 14:12:00**
 
 ## Newspaper Stats
 
-*Scraped **77,860** Articles*
+*Scraped **77,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,567
+adalk | 7,568
 adaderanalk | 10,092
-tamilmirrorlk | 11,734
+tamilmirrorlk | 11,736
 virakesarilk | 12,666
-adaderanasinhalalk | 13,604
+adaderanasinhalalk | 13,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,859 (100.0%) of 77,860 articles have been extended.
+77,860 (100.0%) of 77,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### මූල්‍ය සේවා සඳහා ඩිජිටල් පහසුකම් සැපයීමෙන් ලැබෙන වාසි ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
+
+*2025-09-24 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214955) · `si`
+
+මූල්‍ය සේවා සඳහා ඩිජිටල් යටිතල පහසුකම් ගොඩනැංවීමෙන් සියලු පාර්ශ්වයන්ට ප්‍රතිලාභ අත්වන බව, ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+සැප්තැම්බර් මාසය ඩිජිටල් මාසය ලෙස නම්කරමින් රජයේ ඩිජිටල්කරණ වැඩපිළිවෙළ පිළිබඳ පුළුල් ප්‍රචාරණයක් ලබාදීම ඇතුළු කරුණු අරමුණු කරගත් ෆින්ටෙක් 2025 සමුළුව අද පැවැත්වුණේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා,
+
+...
+
+[Data](articles/ae432dd6.json)
+
+---
+
+### ”கைது செய்யும் முன் அறிவிப்போம்”
+
+*2025-09-24 13:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைது-செய்யும்-முன்-அறிவிப்போம்/175-365205) · `ta`
+
+முன்னாள் அமைச்சர் உதய கம்மன்பிலவை கைது செய்ய முடிவு எடுக்கப்பட்டால், மனு மூலம் நீதிமன்றத்திற்கு அறிவிப்பதாக சட்டமா அதிபர் மேன்முறையீட்டு நீதிமன்றத்திற்கு புதன்கிழமை (24) அறிவித்துள்ளார்.
+
+உதய கம்மன்பிலவை கைது செய்வதைத் தடுக்க உத்தரவிடக் கோரி தாக்கல் செய்த ரிட் மனு இன்று (24)  விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோது, குற்றப் புலனாய்வுத் துறை சார்பாக ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் சுதர்ஷன டி சில்வா, இவ்வாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c60dbc0f.json)
+
+---
+
+### ”விதவை சம்பளத்தை வழங்கு”
+
+*2025-09-24 13:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விதவை-சம்பளத்தை-வழங்கு/175-365204) · `ta`
+
+போர்வீரர்களின் உரிமைகளைப் பாதுகாப்பதற்கான தேசிய அமைப்பு கொழும்பில் உள்ள ஜனாதிபதி செயலகத்தின் பிரதான நுழைவாயிலுக்கு முன்னால் அமர்ந்து போராட்டத்தைத் தொடங்கியுள்ளது.
+
+விதவை சம்பளம் வழங்குதல் உள்ளிட்ட பல கோரிக்கைகளை அடிப்படையாகக் கொண்டு இந்தப் போராட்டம் தொடங்கப்பட்டுள்ளது.
+
+போராட்டம் தொடங்குவதற்கு முன்பு, போராட்டக்காரர்கள் கொழும்பு கோட்டை ரயில் நிலையத்திலிருந்து ஜனாதிபதி செயலகம் வரை பேரணியாகச் சென்றனர்.
+
+◼️
+
+[Data](articles/fc9f54bb.json)
+
+---
+
+### කාර්මික ශිල්පීන් අද  මධ්‍යම රාත්‍රිය දක්වාත් අකුරට වැඩ
+
+*2025-09-24 13:19:18* · [`adalk`](https://www.ada.lk/breaking_news/කාර්මික-ශිල්පීන්-අද--මධ්‍යම-රාත්‍රිය-දක්වාත්-අකුරට-වැඩ/11-418697) · `si`
+
+විදුලි සේවකයින් ආරම්භ කර ඇති අකුරට වැඩ කිරීමේ වෘත්තීය ක්‍රියා මාර්ගය, නියමිත පරිදි අද (24) මධ්‍යම රාත්‍රිය දක්වා ක්‍රියාත්මක කරන බව විදුලි බල මණ්ඩලයේ විදුලි කාර්මික ශිල්පීන්ගේ සංගමය දන්වා සිටියි.
+
+ඉදිරි වෘත්තීය සමිති ක්‍රියාමාර්ග පිළිබඳව සියලු වෘත්ති සමිති එක්වී අද දහවල් අවසන් තීරණයක් ගන්නා බවයි එම සංගමය වැඩිදුරටත් දන්වා සිටියි.
+
+මේ අතර විදුළි බල මණ්ඩල සියලු සේවකයන්ගේ නිවාඩු වහාම ත්‍රියාත්මක වන පරිදි අවලංගුකර ඇත. එසේම විදුලි සේවකයන්ගේ සියලු සේවාවන් අත්‍යාවශ්‍ය සෙවාවන් බවට ප්‍රකාශයට පත්කරමින් ජනපතිගේ අත්සනින් යුත් අති විෂේශ ගැසට් නිවේදනයක් පසුගිය 21 වනදා සිට නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/f1b646fd.json)
+
+---
 
 ### Here's what revealed at the Committee on Vehicle Import
 
@@ -104,17 +166,19 @@ According to Time Out, these places are selected for their seasonal charm, cultu
 
 ---
 
-### ජනපති හා එජා මානව හිමිකම් මහ කොමසාරිස් අතර හමුවක්
+### President and the UNP meets High Commissioner
 
 *2025-09-24 12:38:57* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-එජා-මානව-හිමිකම්-මහ-කොමසාරිස්-අතර-හමුවක්/11-418692) · `si`
 
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා ඇමරිකා එක්සත් ජනපදයට ගොස් සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ මානව හිමිකම්පිළිබඳ මහ කොමසාරිස් වොල්කර් ටර්ක් මහතා හමුවූ බව ජනාධිපති මාධ්‍ය අංශය (PMD) පැවසීය.
+President Anura Kumara Dissanayake has gone to the United Nations at the United Nations General Assembly to attend the 80th session of the United Nations, the Presidential Media Division (PMD) said.
 
-මෙම හමුවට විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මෙන්ම එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත සහ හිටපු අගවිනිසුරු ජනාධිපති නීතිඥ ජයන්ත ජයසූරිය මහතා ද සහභාගී විය.
+Secretary to the Ministry of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and President's Counsel Jayantha Jayasuriya were also present.
 
 ◼️
 
 [Data](articles/932c69fd.json)
+
+[Extended Data](ext_articles/932c69fd.ext.json)
 
 ---
 
@@ -2005,85 +2069,5 @@ It also noted demographic disparities, with men and rural voters showing higher 
 [Data](articles/515ef7bf.json)
 
 [Extended Data](ext_articles/515ef7bf.ext.json)
-
----
-
-### President formalises, expands Navy oversight of foreign maritime security services
-
-*2025-09-24 02:13:11* · [`dailyftlk`](https://www.ft.lk/news/President-formalises-expands-Navy-oversight-of-foreign-maritime-security-services/56-782082) · `en`
-
-Defence Minister and President Anura Kumara Disanayake has directed the Sri Lanka Navy to take charge of providing operational and administrative support for foreign private security companies engaged in protecting merchant vessels.
-
-In a letter to the Speaker of Parliament dated 20 September 2025, the President said the order was issued under Section 21 of the Navy Act (Chapter 358), citing national interest.
-
-The directive authorises the Navy to maintain a maritime security operation project, covering services and facilities for foreign private maritime security providers. The Navy will also be responsible for storing firearms, ammunition and other equipment belonging to such companies in its armouries, and for transporting the weapons and equipment as required.
-
-According to the order, these duties will be carried out under the supervision of the Defence Ministry, with vehicles or vessels provided by local representatives of the foreign firms, and will be classified as non-naval duties.
-
-...
-
-[Data](articles/faa7ab28.json)
-
-[Extended Data](ext_articles/faa7ab28.ext.json)
-
----
-
-### President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.
-
-*2025-09-24 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=86449) · `en`
-
-Anura Kumara Dissanayake known popularly as  Anura and “AKD” , won the Presidential election of 21 September 2024 in  what was described as a gigantic leap. From 418,553 (3.16%) votes in the 2019 Presidential election, AKD increased his vote tally   to 5,634,915 (42.31%) in the 2024 Presidential poll. In the second count of votes with  Sajith Premadasa, AKD obtained  5,740,179 (55.89%) votes
-
-Dissanayake was sworn in as Sri Lanka’s ninth executive president on 23 September 2024 in a simple ceremony at the Presidential secretariat in Colombo.
-
-Speaking at his swearing in event, Anura Kumara Dissanayake stated as follows –  .
-
-“Democracy helped me win. Some voted for me, and others didn’t. But my pledge is to work hard to win the trust of those who didn’t vote for me as well. This is an important part of my Presidency.”
-
-...
-
-[Data](articles/0ba83891.json)
-
-[Extended Data](ext_articles/0ba83891.ext.json)
-
----
-
-### Signatures of Tamil people to UN Resident Representative
-
-*2025-09-24 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225905) · `ta`
-
-The resident representative of the United Nations, Mr. Mark andre France, was handed over to all Tamil National parties in a signature signing struggle on Tuesday 23rd.
-
-The meeting was held at the UN office in Colombo at 3:30 pm on Tuesday. The signatures were handed over to the letter of Tamil National Party leaders.
-
-Member of Parliament on behalf of Tamil National Party. Chandrakumar and Kuruswamy Surendran, the coordinator of the parties, attended the meeting.
-
-In a letter written to the UN Human Rights High Commissioner, the UN Secretary General, the Security Council and the representatives of the Human Rights Council's members of the Human Rights Council. Vigneswaran, Gajendrakumar on behalf of Ponnambalam. Gajendran, Kau. Wealthy Adakkalanathan, Mr.. Dharmalingam Siddharthan, Mr. Suresh Premachandran, Mr.. Murukesu Chandrakumar and Mr S. Naveendra (Venthan) signed the signature.
-
-...
-
-[Data](articles/f20ad207.json)
-
-[Extended Data](ext_articles/f20ad207.ext.json)
-
----
-
-### Superior to Pakistan
-
-*2025-09-24 00:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214931) · `si`
-
-Pakistan won the match between Sri Lanka and Pakistan in the match of the Asian Cup.
-
-This was in Abuoda, as a match of the Super Four.
-
-With this competition, the Sri Lankan team lost their ability to enter the final match of the Asia Cup.
-
-Sri Lanka scored 134 runs for the loss of 138 runs for the loss of 17 wickets at the end of 17 overs.
-
-◼️
-
-[Data](articles/cec7a002.json)
-
-[Extended Data](ext_articles/cec7a002.ext.json)
 
 ---

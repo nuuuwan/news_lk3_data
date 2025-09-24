@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 04:20:12**
+As of **2025-09-25 05:05:46**
 
 ## Newspaper Stats
 
-*Scraped **77,983** Articles*
+*Scraped **77,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 5,532
 adalk | 7,578
 adaderanalk | 10,124
 tamilmirrorlk | 11,757
-virakesarilk | 12,684
+virakesarilk | 12,689
 adaderanasinhalalk | 13,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,983 (100.0%) of 77,983 articles have been extended.
+77,983 (100.0%) of 77,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### தியாக தீபம் திலீபனின் 38 ஆவது உணர்வு பூர்வ இறுதி நினைவேந்தல் தொடர்பான கலந்துரையாடல்
+
+*2025-09-25 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226012) · `ta`
+
+தியாக தீபன் திலீபம் அவர்களது இறுதி நாள் நினைவேந்தல் தொடர்பான கலந்துரையாடலானது புதன்கிழமை (24) திருகோணமலையில் சம்பூர் ஆலங்குலம் மாவீரர் துயிலுமில்லம் நினைவேந்தல் ஏற்பாட்டு குழுவினரின் ஏற்பாட்டில் இடம் பெற்றது.
+
+தியாக தீபம் திலீபனின் 38ஆவது நினைவேந்தலை மாவட்டம் தழுவிய ரீதியில் 26.09.2025 ந் திகதியன்று நடாத்துவது தொடர்பாக குறித்த கலந்துரையாடலின் போது கலந்தாலோசிக்கப்பட்டது.
+
+இதன் போது குறித்த நினைவேந்தல் ஏற்பாட்டு குழுவின் தலைவர் க.பண்பரசன் தெரிவிக்கையில் 1987ம் ஆண்டு இலங்கையில் இலங்கை இந்திய ஒப்பந்தம் நடைமுறையில் இருக்கும் போது இந்திய அமைதி காக்கும் படையினரால் இலங்கையில் ஏற்பட்ட அட்டூழியங்களுக்கு எதிராக யாழ் நல்லூர் கந்தசாமி கோயில் முன்றலில் உண்ணா விரதம் இருந்து தனது உயிரை தமிழினத்துக்காக தியாகம் செய்த தியாக தீபம் திலீபனின் 38 ஆவது நினைவேந்தல் நிகழ்வை உணர்ச்சி பூர்வமாக முன்னெடுக்க இக் கலந்துரையாடலானது இதற்காக 26.09.2025 அன்று திருகோணமலை குளக்கோட்டன் மண்டபத்தில் இடம் பெறும் இதில் அனைத்து மக்களையும் கலந்து கொள்ளுமாறு ஆலங்குளம் மாவீரர் துயிலுமில்லம் ஏற்பாட்டு குழு சார்பாக அழைக்கிறோம் என்றார்.
+
+◼️
+
+[Data](articles/a09ba4f7.json)
+
+---
 
 ### President meets Pakistan Prime Minister
 
@@ -47,6 +63,22 @@ Focusing on further strengthening relations between Sri Lanka and Pakistan. (A)
 [Data](articles/cee8a76c.json)
 
 [Extended Data](ext_articles/cee8a76c.ext.json)
+
+---
+
+### குருணாகலை – நா உயன ஆரண்ய சேனாசன கேபிள் கார் விபத்தில் 7 பிக்குகள் பலி
+
+*2025-09-25 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226011) · `ta`
+
+குருணாகலை – மெல்சிரிபுரவின் பன்சியாகமவில் அமைந்துள்ள பௌத்த வன ஆசிரமமான நா உயன ஆரண்ய சேனாசனத்தில் இடம்பெற்ற கேபிள் கார் விபத்தில் உயிரிழந்த பிக்குகளின் எண்ணிக்கை ஏழாக அதிகரித்துள்ளது.
+
+உயிரிழந்தவர்களில் இருவர் வெளிநாட்டு பிரஜைகள் எனத் தெரிவிக்கப்படுகிறது. இவர்களின் உடல்கள் கொகருல்ல மாவட்ட வைத்தியசாலையில் வைக்கப்பட்டுள்ளன. ஏனைய பிக்குகளின் உடல்கள் குருணாகலை போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளன.
+
+விபத்து இடம்பெற்ற வேளையில் 13 பிக்குகள் கேபிள் காரில் இருந்ததாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/991c8969.json)
 
 ---
 
@@ -105,6 +137,52 @@ The Police Headquarters said it greatly values the support given by citizens in 
 [Data](articles/f9825dab.json)
 
 [Extended Data](ext_articles/f9825dab.ext.json)
+
+---
+
+### யாழில் பல்வேறு வாள்வெட்டு சம்பவங்களுடன் தொடர்புடைய இளைஞரை தடுப்பு காவலில் வைத்து விசாரிக்க நீதிமன்றம் அனுமதி!
+
+*2025-09-25 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226010) · `ta`
+
+யாழ்ப்பாணத்தில் பல்வேறு வாள்வெட்டு சம்பவங்களுடன் தொடர்புடைய சந்தேகநபர் ஒருவர் 23ஆம் திகதி செவ்வாய்க்கிழமை வெளிநாட்டுக்கு தப்பிச் செல்ல முயன்ற நிலையில் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+பின்னர் அவரிடம் மேற்கொண்ட விசாரணைகளின் அடிப்படையில் புதன்கிழமை (24) கோண்டாவில் பகுதியில் இரண்டு வாள்களும் ஒரு கை குண்டும் மீட்கப்பட்டுள்ளன.
+
+இந்நிலையில் அவரை புதன்கிழமை (24) யாழ்ப்பாண நீதிமன்றத்தில் முற்படுத்திய யாழ். பெருங்குற்றத்தடுப்பு பொலிசார், அவரை இரண்டு நாட்கள் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்வதற்கு அனுமதி கோரியிருந்தனர். பொலிஸார் கோரிக்கைக்கு நீதிமன்றமும் அனுமதி வழங்கியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1c8b676f.json)
+
+---
+
+### பிரேரணையில் பிரத்தியேக உள்ளக நீதிப்பொறிமுறை முன்மொழிவு நீக்கம்
+
+*2025-09-25 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226009) · `ta`
+
+இனப்பிரச்சினை எனும் சொற்பதத்தை நீக்கி மோதல்கள் எனும் பதம் உட்சேர்ப்பு; 61 ஆவது, 64 ஆவது கூட்டத்தில் வாய்மொழிமூல அறிக்கை சமர்ப்பிப்புக்கான கோரிக்கையும் நீக்கம்
+
+பிரிட்டன் தலைமையிலான இணையனுசரணை நாடுகளால் அண்மையில் முன்மொழியப்பட்ட இலங்கை தொடர்பான புதிய பிரேரணையில் தற்போது மேற்கொள்ளப்பட்டிருக்கும் திருத்தங்களின் பிரகாரம், மோதல்கள் என்ற சொல்லின் ஊடாக இனப்பிரச்சினை என்ற சொற்பதம் பதிலீடு செய்யப்பட்டிருப்பதுடன் சர்வதேச மனிதாபிமானச் சட்டத்துக்கு எதிரான குற்றங்கள் தொடர்பில் ஆராய்வதற்காக சுயாதீன சிறப்பு சட்டவாதியின் பங்கேற்புடனான பிரத்யேக நீதித்துறை பொறிமுறையொன்றை நிறுவுவது குறித்து அரசாங்கம் அவதானம் செலுத்தவேண்டுமென வலியுறுத்தப்பட்டிருந்த விடயம் முற்றாக நீக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1cabb51d.json)
+
+---
+
+### அடுத்த தலைமுறை பொறியியலாளர்களுக்கு, தொழில்நுட்பவியலாளர்களுக்கு கைகொடுக்கும் பேராதனை பல்கலைக்கழகத்தின் EngEx 2025 க்கு SLT-MOBITEL வலுவூட்டுகிறது
+
+*2025-09-25 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226008) · `ta`
+
+⦁ EngEx 2025 இன் பிரதான அனுசரணையாளராக இணைந்து கொள்வதற்கு SLT-MOBITEL ஏன் தீர்மானித்தது, இந்தப் பங்காண்மை நிறுவனத்துக்கு எதனைப் பிரதிபலிக்கின்றது?
+
+அடுத்த தலைமுறையினரிடையே AI தொடர்பான புத்தாக்கங்களில் ஈடுபடும் புத்தாக்கவியலாளர்களை எவ்வாறு உருவாக்குவது என்பதில் கவனம் செலுத்தும் வகையிலும், கல்வித்துறைக்கும் தொழிற்துறைக்கும் இடையே பாலத்தை ஏற்படுத்திக் கொடுக்கும் நோக்கிலும் இந்தக் கண்காட்சியின் பிரதான அனுசரணையாளராக SLT-MOBITEL ஆகிய நாம் இணைந்துள்ளோம்.
+
+தொழில்னுட்ப புத்தாக்கதை எவ்வாறு வணிகம் சார்ந்த தொழில்னுட்ப புத்தாக்கமாக மாற்றுவது என்பதில் SLT-MOBITEL ஆகிய நாம் கவனம் செலுத்துகிறோம். ஏனெனில் அவ்வாறான செயற்பாடுகள் வெற்றிகரமானதாக அமைந்திருக்கும். புத்தாக்கமொன்றை ஒரு வணிகமாக எவ்வாறு மாற்றியமைக்கலாம் என்பது தொடர்பான வாய்ப்புகளை அடுத்த தலைமுறையினருக்கு வழங்கி, அதனூடாக அவர்களையும் தொழிற்துறையில் இணைத்து, தம்மை விருத்தி செய்து கொள்வதுடன், தேசத்தின் முன்னேற்றத்திலும் பங்களிப்பு வழங்கக்கூடியதாக இருக்கும்.
+
+...
+
+[Data](articles/66f8adaf.json)
 
 ---
 
@@ -2025,113 +2103,5 @@ Airline also announced tickets for flight. A seat of the economy class of econom
 [Data](articles/d2bb54a6.json)
 
 [Extended Data](ext_articles/d2bb54a6.ext.json)
-
----
-
-### Shahruk won the first National Film Award for 'Javan'
-
-*2025-09-24 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214958) · `si`
-
-The Best Actor was awarded the earth award at the 71st National Film Awards in India.
-
-Shahrudu, a 59-year-old Shahrukhan, is growing as 'King Khan' in the Indian film industry for over 30 years.
-
-The President of India was awarded the National Movie Award by the President of India at the Awards held at the Awards held at the Awards yesterday (23) at the Awards, Delhi.
-
-Shahru Rukh Khan wins the film 'Javan' film directed by the Director of the 'Javan' directed by the Director of the Damili Film Director Atley.
-
-Then, a sensitive video had been released to the Social Media, thanks to the entire group, who contributed to their fans, family and siblings and 'Javan'.
-
-"This is a moment when I appreciate the lifetime of life as well as the national award. Thank you very much for the President of the Jururo, the Chairman and ICT and I thought I was suitable for this honor. "
-
-The film 'Javan' became a record blockbuster film in 2023, and his performance was worse among the people.
-
-◼️
-
-[Data](articles/dca2ecc8.json)
-
-[Extended Data](ext_articles/dca2ecc8.ext.json)
-
----
-
-### Is cryptocurrency legal in Sri Lanka? Central Bank Governor explains
-
-*2025-09-24 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112860/is-cryptocurrency-legal-in-sri-lanka-central-bank-governor-explains) · `en`
-
-Although Sri Lankans cannot use cryptocurrency for transactions in the country, investing in cryptocurrency or virtual currency has no legal impediment due to the non-existence of laws or regulations, according to the Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe.
-
-Investing in cryptocurrency has become a widely debated topic at present, following the revelation that Minister of Trade, Commerce, Food Security and Cooperative Development Wasantha Samarasinghe owns cryptocurrency.
-
-This was revealed based on the report submitted on assets and liabilities to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) by Minister Wasantha Samarasinghe.
-
-When inquired on the legality of cryptocurrency in Sri Lanka, Governor Nandalal Weerasinghe explicitly stated that cryptocurrency cannot be used for transactions within the country.
-
-...
-
-[Data](articles/bcc9272c.json)
-
-[Extended Data](ext_articles/bcc9272c.ext.json)
-
----
-
-### 15 breast cancer patients in Sri Lanka - 3 deaths
-
-*2025-09-24 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214957) · `si`
-
-Fifteen breast cancer patients have been reported in Sri Lanka and about 3 breast cancer patients die daily.
-
-Speaking at a press conference held at the Health Promotion Bureau today (24), Mrs. Dr. Szani Alahapperuma said that 19,457 cancer patients were identified among women in Sri Lanka.
-
-The doctor states that 5,477 breast cancer patients have been identified among women.
-
-The doctor added that almost 30% of the breast cancer patients, the doctor, said that about 30% of breast cancer patients could be cured.
-
-A total of 15,245 people die due to Sri Lankan cancer, and 798 of these conditions are due to death cancer.
-
-"The first one is the exhibition of cancer at the 10th morning of the Havelock City shopping. There is a program to educate the special doctors at 2 pm, and there are a patients who have been identified as long as they have been diagnosed and overcome earlier before they have been identified early. "
-
-...
-
-[Data](articles/5c6b9073.json)
-
-[Extended Data](ext_articles/5c6b9073.ext.json)
-
----
-
-### "MPs should show that picture"
-
-*2025-09-24 15:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-அந்தப்-படத்தைப்-போட்டுக்-காட்ட-வேண்டும்/175-365209) · `ta`
-
-Chairman Bimal Ratnayake today requested the Parliamentary Committee on Arts and Cultural Affairs to screens the Bollywood film 'Tare Jameen Bur' for parliamentarians.
-
-"After seeing Tare Jamen Bur, it had a huge impact on me and my wife. This inspired us to think about the needs of children.
-
-MPs who don't care about children should watch the film. Otherwise, I propose to give them copies of the DVD, ”the minister said.
-
-◼️
-
-[Data](articles/fddda9e5.json)
-
-[Extended Data](ext_articles/fddda9e5.ext.json)
-
----
-
-### Bomb blast in Norway
-
-*2025-09-24 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225948) · `ta`
-
-A bomb blast took place on Tuesday (23) in Norway's capital, Central Oslo.
-
-Norwegian police said that the second bomb found in the same place had exploded in a controlled manner and a suspect had been arrested for investigation.
-
-No injuries have been reported near the university campus and about 500 meters (546 yards) from the State Palace and the Israeli embassy.
-
-The incident took place a day after drones found near Oslo and Copenhagen's airports.
-
-◼️
-
-[Data](articles/f7c354ed.json)
-
-[Extended Data](ext_articles/f7c354ed.ext.json)
 
 ---

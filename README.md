@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 21:20:47**
+As of **2025-09-24 21:39:17**
 
 ## Newspaper Stats
 
-*Scraped **77,950** Articles*
+*Scraped **77,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 7,578
 adaderanalk | 10,117
 tamilmirrorlk | 11,755
 virakesarilk | 12,674
-adaderanasinhalalk | 13,618
+adaderanasinhalalk | 13,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,949 (100.0%) of 77,950 articles have been extended.
+77,950 (100.0%) of 77,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### බයික් එක ස්ටාට් කරන්න ගිය පියා ලොරියකට යටවෙයි
+
+*2025-09-24 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214972) · `si`
+
+වෙන්නප්පුව ප්‍රදේශයේ සිදු වූ අවාසනාවන්ත අනතුරකින් තිදරු පියෙකු මරණයට පත්ව ඇත.
+
+ඔහුගේ යතුරුපැදියේ කික් පැඩලය නිසි ලෙස ක්‍රියාත්මක නොවී ඇති අතර, ඒ හේතුවෙන් සිය යතුරුපැදිය තල්ලුකර පණගැන්වීමට උත්සාහ කර තිබේ.
+
+එහිදී යතුරුපැදිය නොසිතූ ලෙස පාලනයෙන් ගිලිහී ගොස් ඔහු මාර්ගය දෙසට විසිවී ඇති අතර, එම අවස්ථාවේ දී මාර්ගයේ ගමන් කරමින් තිබූ දැව ප්‍රවාහනය කළ ලොරි රථයකට යටවී ඇත.
+
+වෙන්නප්පුව දුම්මලදෙනිය ප්‍රදේශයේ පදිංචිකරුවෙකු වන ඔහු එම ස්ථානයේම මරණයට පත්ව ඇත.
+
+◼️
+
+[Data](articles/2febc50b.json)
+
+---
 
 ### Sabarimalai Iyyappan Temple: Cabinet approval as a pilgrimage to Sri Lanka
 
@@ -65,6 +83,8 @@ The Galle Dialogue 2025 is being held under the theme “Maritime Outlook of the
 ◼️
 
 [Data](articles/ca3b6678.json)
+
+[Extended Data](ext_articles/ca3b6678.ext.json)
 
 ---
 
@@ -2093,19 +2113,5 @@ The specific winnum has not been used in this regard and the former President Ra
 [Data](articles/783ea5bd.json)
 
 [Extended Data](ext_articles/783ea5bd.ext.json)
-
----
-
-### Missing those who asked the question
-
-*2025-09-24 11:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேள்வி-கேட்டவர்களைக்-காணவில்லை/175-365198) · `ta`
-
-Almost all MPs who submitted verbal questions to be raised in Parliament today raised serious concerns.
-
-◼️
-
-[Data](articles/a913e6f6.json)
-
-[Extended Data](ext_articles/a913e6f6.ext.json)
 
 ---

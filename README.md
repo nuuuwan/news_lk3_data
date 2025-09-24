@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 11:41:09**
+As of **2025-09-24 11:57:44**
 
 ## Newspaper Stats
 
-*Scraped **77,840** Articles*
+*Scraped **77,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,55 +18,93 @@ islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,563
 adaderanalk | 10,090
-tamilmirrorlk | 11,731
+tamilmirrorlk | 11,732
 virakesarilk | 12,662
-adaderanasinhalalk | 13,598
+adaderanasinhalalk | 13,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,836 (100.0%) of 77,840 articles have been extended.
+77,840 (100.0%) of 77,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### ஜனாதிபதி- வோல்கர் டர்க் இடையே  சந்திப்பு
+### கேள்வி கேட்டவர்களைக் காணவில்லை
+
+*2025-09-24 11:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேள்வி-கேட்டவர்களைக்-காணவில்லை/175-365198) · `ta`
+
+இன்று பாராளுமன்றத்தில் எழுப்பப்படவிருந்த வாய்மொழி கேள்விகளைச் சமர்ப்பித்த கிட்டத்தட்ட அனைத்து எம்.பி.க்களும் அவைக்கு வராமல் இருந்தது கடுமையான கவலைகளை எழுப்பியது.
+
+◼️
+
+[Data](articles/a913e6f6.json)
+
+---
+
+### මර්වින්ගේ නඩුවක් විභාගයට දින දෙයි
+
+*2025-09-24 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214949) · `si`
+
+අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් වත්කම් හා දේපොළ අයථා ලෙස උපයා ගත් බවට චෝදනා කරමින්  හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව විභාගයට ගැනීම සඳහා කොළඹ මහාධිකරණය දින නියම කළේය.
+
+ඒ අනුව අදාළ නඩුවේ විභාගය නොවැම්බර් මස 17 වනදා ආරම්භ කරන බව කොළඹ මහාධිකරණ විනිසුරු මොහොමඩ් මිහාල් මහතා නියෝග කර ඇත.
+
+මෙම නඩුව අද (24) කැඳවූ අවස්ථාවේදී අල්ලස් කොමිසම විසින් මෙම නඩුවට අදාළ ලේඛන කිහිපයක් විත්තියට ලබා දුන්නේය
+
+ඒ අනුව මෙම නඩුව විභාග කිරීම සඳහා දිනයක් නියම කරන ලෙසත් අල්ලස් කොමිසම අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+එම ඉල්ලීම පිළිගත් විනිසුරුවරයා නඩුව නොවැම්බර් මස 17 වනදා විභාගයට ගැනීමට තීරණයම කළේය.
+
+2010 වසරේ සිට 2012 වසර දක්වා කාලසීමාව තුළ අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් සිය නීත්‍යානුකූල ආදායම අභිබවා රුපියල් මිලියන 150කට ආසන්න වටිනාකමකින් යුත් වත්කම් සහ දේපොළ අයථා ලෙස අත්පත් කර ගැනීම තුළින් දූෂණ විරෝධී පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා කරමින් අල්ලස් කොමිසම විසින් හිටපු අමාත්‍ය මර්වින් සිල්වා මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබේ.
+
+◼️
+
+[Data](articles/7dbb5863.json)
+
+---
+
+### Meeting between President-Volcker Turk
 
 *2025-09-24 11:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வோல்கர்-டர்க்-இடையே-சந்திப்பு/175-365195) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்து கொள்வதற்காக அமெரிக்காவிற்கு விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் ஐக்கிய நாடுகள் சபையின் மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க் (Volker Türk)   இடையிலான சந்திப்பு  ஐக்கிய நாடுகள் சபையின் பொதுச் செயலாளர் அலுவலகத்தில்   அமெரிக்க நேரப்படி செவ்வாய்க்கிழமை (23) பிற்பகல் நடைபெற்றது.
+President Anura Kumara Dissanayake and United Nations Human Rights High Commissioner Volker Türk, who visited the United States to attend the 80th General Assembly session of the United Nations, were held on Tuesday (23).
 
-இதன்போது, ஐக்கிய நாடுகள் சபையின் மனித உரிமைகள் உயர்ஸ்தானிகர் ஜனாதிபதியை அமோகமாக வரவேற்றதுடன் கடந்த வருடத்தில் மனித உரிமை தொடர்பில் இலங்கை எட்டியுள்ள முன்னேற்றம் தொடர்பான விடயங்கள் இதன் போது ஆராயப்பட்டது.
+Meanwhile, the United Nations Human Rights High Commissioner welcomed the President's president and examined the progress of Sri Lanka on human rights over the past year.
 
-வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் மற்றும்  ஐக்கிய நாடுகள் சபைக்கான இலங்கை நிரந்தர  பிரதிநிதியும் முன்னாள் பிரதம நீதியரசருமான ஜனாதிபதி சட்டத்தரணி ஜயந்த ஜெயசூரியவும் இந்நிகழ்வில்  கலந்துகொண்டனர்.
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and President's Permanent Representative to the United Nations and former Chief Justice President Attorney Jayantha Jayasuriya were also present at the event.
 
 ◼️
 
 [Data](articles/32c165bd.json)
 
+[Extended Data](ext_articles/32c165bd.ext.json)
+
 ---
 
-### ජනපති සහ එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් අතර හමුවක්
+### President and United Nations High Commissioner to Meet
 
 *2025-09-24 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214948) · `si`
 
-අනුර කුමාර දිසානායක මහතා සහ එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් වොල්කර් ටර්ක් (Volker Türk) මහතා අතර හමුවක් එක්සත් ජාතීන්ගේ මහලේකම් කාර්යාලයේදී සිදුව තිබේ.
+Anura Kumara Dissanayake and the United Nations High Commissioner for Human Rights was a meeting between Volker Türk (Volker Türk) at the UN Secretaries.
 
-මෙහිදී එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස්වරයා ජනාධිපතිවරයාව උණුසුම් ලෙස පිළිගත් අතර, පසුගිය වසර තුළ ශ්‍රී ලංකාව මානව හිමිකම් සම්බන්ධයෙන් අත්කර ගෙන ඇති ප්‍රගතිය පිළිබඳව කරුණු සාකච්ඡා කරන ලදී.
+The President of the United Nations warmed the President warmly welcomed the President and discussed the progress that Sri Lanka has acquired regarding human rights last year.
 
-මෙම අවස්ථාව සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, එක්සත් ජාතීන්ගේ සංවිධානයේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත, හිටපු අගවිනිසුරු ජනාධිපති නීතිඥ ජයන්ත ජයසූරිය යන මහත්වරුද එක්ව සිටියහ.
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and President's Counsel Jayantha Jayasuriya were also present at the occasion.
 
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වැනි සැසිවාරයට සහභාගී විම සඳහා දිවයිනෙන් පිටත්ව ගිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ අමෙරිකාවට ළඟා විය.
+President Anura Kumara Dissanayake, who left the 80th session of the United Nations General Assembly, arrived in the United States yesterday.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (24) එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමට ද නියමිතය.
+President Anura Kumara Dissanayake is also scheduled to address the United Nations General Assembly today.
 
-ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේ ජනාධිපතිවරයා එරට වේලාවෙන් අද පස්වරු 3.15ට එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමට නියමිත බවය.
+The President said the President was due to address the United Nations General Assembly at 3.1 pm today.
 
 ◼️
 
 [Data](articles/d396a25a.json)
+
+[Extended Data](ext_articles/d396a25a.ext.json)
 
 ---
 
@@ -562,21 +600,23 @@ Minister Herath is accompanying President Anura Kumara Dissanayake, who is in Ne
 
 ---
 
-### ලක්ෂ 155ක කුෂ් කටුනායකින් පන්නන්න බැරි වෙයි
+### 155 lakhs are unable to drop Katnar
 
 *2025-09-24 09:12:01* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-155ක-කුෂ්-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-418688) · `si`
 
-රුපියල් එක් කෝටි පනස් පන් ලක්ෂ හැට දහසක් වටිනා " කුෂ්" මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි විදේශීය ගුවන් මගියෙකු 09/24 දින අලුයම ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A large number of foreign airports' Bureau has been arrested by the Airport Trace of the Air Port Line 9/24 of the 400 million rupees.
 
-මොහු 36 හැවිරිදි ඉන්දීය ජාතික ගුවන් මගියෙකි. මොහු මෙම " කුෂ්" මත්ද්‍රව්‍ය තොගය තායිලන්තයේ බැංකොක් නුවරින් මිළදී ගෙන , ඉන්දියාවේ බැංගලෝර් නුවර වෙත පැමිණ , එතැන් සිට ඉන්ඩිගෝ ගුවන් සේවයේ 6 ඊ - 1183 දරන ගුවන් යානයෙන් 09/24 දින අලුයම 12.00 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+He is a 36-year-old Indian air passenger. He had come to Bangalore in Thailand in Thailand and arrived at Bangalore in Thailand at Bangalore, India.
 
-ඔහු විසින් රැගෙන ආ ගමන් මල්ලේ ඇසුරුම් 03 ක් ලෙස සකස් කර , මෙම " කුෂ්" මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01 යි ග්‍රෑම් 556 ක ප්‍රමාණය සගවා ගෙන තිබුණ.
+He was prepared in three packs of the bag he was brought to him, and the size of 1 kg of crocrisy.
 
-මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සදහා මෙම ගුවන් මගියා සහ ඔහු විසින් රැගෙන ආ " කුෂ්" මත්ද්‍රව්‍ය තොගය 09/24 දින මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය .
+The air passenger and the drug is to be produced before the Negombo Magistrate's Court on further investigations.
 
 ◼️
 
 [Data](articles/a30fcc78.json)
+
+[Extended Data](ext_articles/a30fcc78.ext.json)
 
 ---
 
@@ -2019,47 +2059,5 @@ The Gazette Notification No. 2454/68 issued by the President on 21.09.2012 under
 [Data](articles/9611bac4.json)
 
 [Extended Data](ext_articles/9611bac4.ext.json)
-
----
-
-### A person caught with a fake 1000 rupee coin; Explanation until June 6
-
-*2025-09-23 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225899) · `ta`
-
-The Kekirawa Court Magistrate has ordered the suspect to be produced in court on Tuesday, 22nd.
-
-It has been revealed that a 23 -year -old youth who lives in Dambulla and Kimishcha area has been placed in the case.
-
-The suspect has been arrested by the police station, who was rushed to the scene after the suspect was informed by the owner of Habaran, who was informed that the suspect was a fake currency, when the suspect had been able to buy goods at a shopping center in Habaran on Monday (21) evening.
-
-It is noteworthy that further inquiries into the incident are being carried out by a team of police, including the Inspector General of Police, Wimal, on the advice of the Chief Inspector of Police, Habaran, the Chief Inspector of Police.
-
-◼️
-
-[Data](articles/d4a0bdb1.json)
-
-[Extended Data](ext_articles/d4a0bdb1.ext.json)
-
----
-
-### Cricket retires to be loving judge
-
-*2025-09-23 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214926) · `si`
-
-Harold Burved, a beautiful judge in cricket, has passed away.
-
-At the time of his death, he was 92 years old, foreign media reports.
-
-The Burrrd World Cup has served 66 Tests and six ODIs, including three World Cup final.
-
-Bertured began his career as a batsman in England in 1956.
-
-Harold Burved joins his first match as a judge in May 1970.
-
-◼️
-
-[Data](articles/e49fc15f.json)
-
-[Extended Data](ext_articles/e49fc15f.ext.json)
 
 ---

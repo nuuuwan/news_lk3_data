@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 00:36:59**
+As of **2025-09-25 01:38:42**
 
 ## Newspaper Stats
 
-*Scraped **77,966** Articles*
+*Scraped **77,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,20 +15,78 @@ colombotelegraphcom | 788
 economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
-dailyftlk | 5,526
+dailyftlk | 5,527
 adalk | 7,578
 adaderanalk | 10,121
 tamilmirrorlk | 11,756
 virakesarilk | 12,679
-adaderanasinhalalk | 13,624
+adaderanasinhalalk | 13,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,966 (100.0%) of 77,966 articles have been extended.
+77,969 (100.0%) of 77,969 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-25 (Thursday)
+
+### AKD’s Year I: Recognising the reality revealed
+
+*2025-09-25 00:54:54* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-Year-I-Recognising-the-reality-revealed/4-782122) · `en`
+
+The key thing about the first year of the AKD presidency is that its true character and core content were revealed through action and inaction; roads taken and not taken; choices made and options rejected. The AKD presidency revealed its reality in its first year. It showed its soul.
+
+President AKD spoke at length about economics at the ceremony to kick-off construction of the Kadawatha-Mirigama segment of the Central Expressway project. This passage is key:
+
+“…Even by today, the IMF, World Bank and rating agencies have given extremely important signals about our economy. I saw a report in which the World Bank has given us the recognition that in rebuilding broken-down states, the fastest speed has been registered by Sri Lanka. This is an extremely important factor. Therefore, we are proceeding on our journey with great steadiness and stability…”
+
+TV news showed JVP chief theoretician Bimal Rathnayake leading the cheers as Anura paused, having enunciated this wisdom.
+
+...
+
+[Data](articles/147a97bd.json)
+
+[Extended Data](ext_articles/147a97bd.ext.json)
+
+---
+
+### The number of owners up to 7
+
+*2025-09-25 00:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214978) · `si`
+
+The number of Buddhist monks had risen to seven incidents in an accident last night (24).
+
+Two of us were overseas national monks, and they have been placed at the Groomella area in Gawaralla area.
+
+At the time of the accident, there were 13 Buddhist monks.
+
+The monks who were seriously injured have been admitted to the Kurunegala Teaching Hospital.
+
+◼️
+
+[Data](articles/b6af6342.json)
+
+[Extended Data](ext_articles/b6af6342.ext.json)
+
+---
+
+### An accident of Naa Uyana - 5 monks pass out
+
+*2025-09-25 00:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214977) · `si`
+
+The monks were in danger yesterday (24) a accident in an accident last night (24).
+
+The monks had a thirteen day when the accident occurred.
+
+◼️
+
+[Data](articles/f80fb1cc.json)
+
+[Extended Data](ext_articles/f80fb1cc.ext.json)
+
+---
 
 ### 2025-09-24 (Wednesday)
 
@@ -2081,57 +2139,5 @@ Sudarshana de Silva, Additional Solicitor General, who appeared on behalf of the
 [Data](articles/c60dbc0f.json)
 
 [Extended Data](ext_articles/c60dbc0f.ext.json)
-
----
-
-### “Provide a widow salary”
-
-*2025-09-24 13:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விதவை-சம்பளத்தை-வழங்கு/175-365204) · `ta`
-
-போர்வீரர்களின் உரிமைகளைப் பாதுகாப்பதற்கான தேசிய அமைப்பு கொழும்பில் உள்ள ஜனாதிபதி செயலகத்தின் பிரதான நுழைவாயிலுக்கு முன்னால் அமர்ந்து போராட்டத்தைத் தொடங்கியுள்ளது.
-
-The struggle has been launched based on a number of demands, including widowing.
-
-Before the protest began, the protesters marched from the Colombo Fort Railway Station to the Presidential Secretariat.
-
-◼️
-
-[Data](articles/fc9f54bb.json)
-
-[Extended Data](ext_articles/fc9f54bb.ext.json)
-
----
-
-### Technicians work to midnight today
-
-*2025-09-24 13:19:18* · [`adalk`](https://www.ada.lk/breaking_news/කාර්මික-ශිල්පීන්-අද--මධ්‍යම-රාත්‍රිය-දක්වාත්-අකුරට-වැඩ/11-418697) · `si`
-
-Electriciancies 'Association of the Electriciancies' Association of the CEB will be informed today (24).
-
-The Association further stated that a final decision will be taken this afternoon regarding the coming trade union action.
-
-Meanwhile, the delegation of all employees has been canceled immediately. Also, all the services of electric servants are essential facilities to the president's signature have been released from the 21st from the 21st.
-
-◼️
-
-[Data](articles/f1b646fd.json)
-
-[Extended Data](ext_articles/f1b646fd.ext.json)
-
----
-
-### Saying before courts who arrest the Udaya
-
-*2025-09-24 13:12:41* · [`adalk`](https://www.ada.lk/breaking_news/උදය-අත්අඩංගුවට-ගන්නවානම්-අධිකරණයට-කලින්-කියනවලු/11-418696) · `si`
-
-The Attorney General informed the Court today that a motion would be informed of the judiciary to arrest him regarding the defamatory statements made by former Member of Parliament MP Udaya Gammanpila.
-
-උදය ගම්මන්පිල මහතා විසින් ගොනු කරන ලද රිට් පෙත්සමක් අභියාචනාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජෙනරාල් සුදර්ශන ද සිල්වා මහතා මේ බව ප්‍රකාශය කළේය.
-
-◼️
-
-[Data](articles/7bb1baef.json)
-
-[Extended Data](ext_articles/7bb1baef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 17:59:12**
+As of **2025-09-24 18:21:45**
 
 ## Newspaper Stats
 
-*Scraped **77,894** Articles*
+*Scraped **77,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,573
+adalk | 7,574
 adaderanalk | 10,096
 tamilmirrorlk | 11,745
 virakesarilk | 12,668
@@ -26,67 +26,75 @@ adaderanasinhalalk | 13,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,891 (100.0%) of 77,894 articles have been extended.
+77,895 (100.0%) of 77,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### පළමු සහ 06 ශ්‍රේණි සිසුන්ට අවශ්‍ය මොඩියුලර් මුද්‍රණය කිරීම අරඹයි
+### Modulers launched grades first and 06
 
 *2025-09-24 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214967) · `si`
 
-මොඩියුලර් සඳහා 2026 වර්ෂයේ 1 සහ 6 ශ්‍රේණියේ පාසල් ගුරු පුහුණු වැඩසටහන් නොවැම්බර් මස අග දී අවසන් කිරීමට සැලසුම් කර ඇති බව අධ්‍යාපන අමාත්‍යාංශ ලේකම් නාලක කලුවැව මහතා පැවසී ය.
+The Ministry of Education Nalaka Kabuwewa said that the school teacher training programs in Grade 1 and 6 of the year of 2026 for Modulers have been completed in late November.
 
-ඒ මහතා මේ බව පැවසූවේ පාර්ලිමේන්තුවේ නව අධ්‍යාපන ප්‍රතිසංස්කරණවල වර්තමාන ප්‍රගතිය පිළිබඳ ව සිදුකරන ලද සාකච්ඡාවක් අතරතුර දීය.
+He was speaking at a discussion on the current progress of the new education reforms of the parliament.
 
-ඔහු වැඩිදුරටත් ප්‍රකාශ කර සිටියේ මේ වන විට පුහුණුකරුවන් පුහුණු කිරිමේ TOT (Trainer of Trainer) වැඩසටහන  80%ක් පමණ අවසන් කර ඇති බවත් ඉතිරි පිරිස් මේ වන විට මහරගම ජාතික අධ්‍යාපන ආයතනයේ පුහුණුව ලබමින් සිටින බවත් ය.
+He further stated that the Trainer of Training Tot (traineer of traineer) has been completed and that the remaining persons are currently undergoing training at the National Institute of Education Maharagama.
 
-සියලු පළාත් ආවරණය වන පරිදි ගුරුවරුන් පුහුණු කිරීම සඳහා මෙම පුහුණු කණ්ඩායම් න්‍යායාත්මකව සහ ප්‍රායෝගිකව බිහි කිරීම මෙම වැඩසටහන මගින් කරන බව ද හෙතෙම පැවසී ය.
+He said that this program would create theoretically and practical teachers to train teachers covering teachers.
 
-මෙලෙස පුහුණුව ලැබූ පුහුණුකරුවන් විසින් කලාප මට්ටමින් සහ කොට්ඨාස මට්ටමින් ගුරුවරුන් පුහුණු කිරීමේ කටයුතු ‍ඉදිරියේ දී නොවැම්බර් මස වන විට අවසන් කිරීමට නියමිත අතර, පළමු ශ්‍රේණියේ සහ 06 ශ්‍රේණියේ සිසුන්ට අවශ්‍ය මොඩියුලර් මුද්‍රණය කිරීමේ කටයුතු මේ වන විට ආරම්භ කර ඇති බව ද අධ්‍යාපන අමාත්‍යාංශ ලේකම්වරයා මෙහි දී වැඩි දුරටත් පැවසී ය.
+The Secretary to the Ministry of Education further added that the appointment of teachers at the psychological training at the zonal level and division levels will be completed by November.
 
 ◼️
 
 [Data](articles/77c55dd8.json)
 
+[Extended Data](ext_articles/77c55dd8.ext.json)
+
 ---
 
-### ஜனாதிபதி - தென்னாப்பிரிக்க ஜனாதிபதிக்கு இடையில் சந்திப்பு
+### President - Meeting between South African President
 
 *2025-09-24 17:20:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தென்னாப்பிரிக்க-ஜனாதிபதிக்கு-இடையில்-சந்திப்பு/175-365219) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்து கொள்வதற்காக அமெரிக்காவிற்கு விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் தென்னாப்பிரிக்க ஜனாதிபதி சிரில் ரமபோசாவுக்கு (Cyril Ramaphosa) இடையிலான சந்திப்பு நியூயோர்க் நகரில் ONE Plaza வில் (23) பிற்பகல் (அமெரிக்க நேரப்படி ) இடம்பெற்றது.
+President Anura Kumara Dissanayake and South African President Cyril Ramaphosa, who visited the United States to attend the 80th General Assembly session of the United Nations, took place at the ONE PLAZA (23) in New York City.
 
-இங்கு, தென்னாபிரிக்க ஜனாதிபதியினால், ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு அமோகமாக வரவேற்பளிக்கப்பட்டது. அதனைத் தொடர்ந்து  இரு நாடுகளுக்கும் இடையிலான இருதரப்பு  கலந்துரையாடல் ஆரம்பமானதோடு   இருநாடுகளுக்கும் இடையிலான உறவுகளை மேலும் பலப்படுத்துவது குறித்து இதன் போது கவனம் செலுத்தப்பட்டது.
+Here, President Anurakumara Dissanayake was welcomed by the South African President. This was followed by a bilateral discussion between the two countries and the focus was on further strengthening relations between the two countries.
 
-வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தர பிரதிநிதி, முன்னாள் பிரதம நீதியரசர் ஜனாதிபதி சட்டத்தரணி  ஜயந்த ஜெயசூரிய மற்றும் வெளிநாட்டலுவல்கள் அமைச்சின்  சிரேஸ்ட அதிகாரிகள்  இந்த நிகழ்வில் இணைந்து கொண்டனர்.
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Sri Lanka's Permanent Representative to the United Nations, former Chief Justice of India, President Attorney Jayantha Jayasuriya and Senior Officers of the Ministry of Foreign Affairs were present at the event.
 
 ◼️
 
 [Data](articles/2102e3db.json)
 
+[Extended Data](ext_articles/2102e3db.ext.json)
+
 ---
 
-### විදෙස්ගත ශ්‍රමිකයෙකුගේ මරණයකදී ගෙවන වන්දිය ඉහළට
+### Increase in death of a foreign worker
 
 *2025-09-24 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214966) · `si`
 
-විදේශ රැකියාවක නිරත ශ්‍රමිකයෙකු රැකියාව අතරතුරදී මරමුවට පත්වුවහොත් ඒ සඳහා ගෙවනු ලැබූ රක්ෂණ වන්දිය රුපියල් ලක්ෂ 20ක් දක්වා ඉහළ නංවා තිබේ.
+If a foreign employer worker has taken place during the job, the insurance prosecution has been increased to Rs.
 
-එම කාර්යාංශයේදී අද (24) පැවති විශේෂ මාධ්‍ය සාකච්ඡාවකදී ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා මේ බව පැවසීය.
+The Sri Lanka Bureau of Foreign Employment (SLBFE Bureau) at a special media bureau of the Bureau today (SLBT), Kosala Wickremasinghe said this.
 
-විදේශ රැකියාවකදී සිදුවන මරණයක් මේ දක්වා ගෙවනු ලැබුවේ ලක්ෂ 6ක රක්ෂණ වන්දියක් වන අතර, එම මුදලට ලක්ෂ 14ක් එක්කර මෙලෙස ලක්ෂ 20ක වන්දිය ලබාදෙන බව වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
+The death of a foreign employment was paid up to 6 lakh insurance and Rs.
 
-මේ අතර විදේශ ගත ශ්‍රමිකයින්ගේ මෙරට සිටින සැමියාට හෝ බිරිඳට ව්‍යාපාරයක් ආරම්භ කිරිමේ ණය යෝජනා ක්‍රමයක්ද එම කාර්යාංශය ආරම්භ කර ඇත.
+Meanwhile, the Bureau has begun a loan scheme to start a business to her husband or wife in foreign workers.
 
-ඊට අමතරව විදෙස්ගත ශ්‍රමිකයින්ගේ දරුවන්ට ලබාදෙන ශිෂ්‍යත්ව මුදල් ඉහළ නැංවීමටත්, උසස් අධ්‍යාපනය ලබන දරුවන්ට ලැප්ටොප් පරිගණක ලබාදීමත් තීරණය කර තිබේ.
+In addition, it has been decided to increase scholarships and laptops towards higher education children.
 
-මෙම වසරේ අගෝස්තු වනවිට අමෙරිකානු ඩොලර් බිලියන 5.1ක ප්‍රේෂණ විදෙස්ගත ශ්‍රමිකයින් විසින් මෙරටට ඒ ඇති අතර, එය මෙම වසර අවසන් වනවිට අමෙරිකානු ඩොලර් බිලියන 7.2ක් දක්වා ඉහළ යනු ඇතැයි කෝශල වික්‍රමසිංහ මහතා පැවසීය.
+Sri Lanka has been in remittance of US $ 5.1 billion in August 5 billion in remittances.
 
-...
+He pointed out that 226,240 Sri Lankans are employed for jobs and will be close to 300,000 this year.
+
+◼️
 
 [Data](articles/d0e34841.json)
+
+[Extended Data](ext_articles/d0e34841.ext.json)
 
 ---
 
@@ -313,6 +321,26 @@ The Magistrate's case was recalled on the 8th of October.
 [Data](articles/c885e510.json)
 
 [Extended Data](ext_articles/c885e510.ext.json)
+
+---
+
+### China Easton to be claimed to the world's longest flight
+
+*2025-09-24 15:16:58* · [`adalk`](https://www.ada.lk/international/ලෝකයේ-දීර්ඝතම-ගුවන්-ගමනට-හිමි-වාර්තාවට-චයිනා-ඊස්ටන්-‍-හිමිකම්-කීමට-යයි/3-418700) · `si`
+
+China Easton Airlines is designed to make the world's longest flight report. Accordingly, the airline is scheduled to be implemented from Shanghai in Shanghain, China, from Shanghai, China.
+
+From December 4, the flight will be operated twice a week from the Pudong International Airport from December 4.
+
+The flight covered by this flight, which is designated as MU745 and MU746, is about 12,500 miles covering. The airline is due to be used by the airline with broader boeing 777-300 er aircraft.
+
+Airline also announced tickets for flight. A seat of the economy class of economic class has been placed at a range of $ 1,525 and 2554 and a business class seat at a price of $ 4,994.
+
+◼️
+
+[Data](articles/d2bb54a6.json)
+
+[Extended Data](ext_articles/d2bb54a6.ext.json)
 
 ---
 
@@ -2075,21 +2103,5 @@ It is a matter of government that has been filled with the beds of the district,
 [Data](articles/58d93703.json)
 
 [Extended Data](ext_articles/58d93703.ext.json)
-
----
-
-### අකුරට වැඩකිරීමේ විදුලි සේවක වෘත්තීය ක්‍රියාමාර්ගය තවත් දැඩි වෙයි
-
-*2025-09-24 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214935) · `si`
-
-The Ceylon Electrician Crafts Association of the Electriciancies (24) will be implemented today (24), according to the CEB, according to the CEB.
-
-The Chairman of the President Kosala Abeysinghe said that all professional societies will take a final decision on trade union measures this afternoon.
-
-◼️
-
-[Data](articles/e98a3012.json)
-
-[Extended Data](ext_articles/e98a3012.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 07:05:47**
+As of **2025-09-24 08:17:30**
 
 ## Newspaper Stats
 
-*Scraped **77,783** Articles*
+*Scraped **77,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,149 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,557
-adaderanalk | 10,082
+adalk | 7,558
+adaderanalk | 10,084
 tamilmirrorlk | 11,713
 virakesarilk | 12,652
-adaderanasinhalalk | 13,584
+adaderanasinhalalk | 13,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,782 (100.0%) of 77,783 articles have been extended.
+77,786 (100.0%) of 77,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### මුදල් ප්‍රතිපත්තියේ වෙනසක් නැහැ
+
+*2025-09-24 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214937) · `si`
+
+ඊයේ (23) දින පැවති මුදල් ප්‍රතිපත්ති මණ්ඩල රැස්වීමේ දී මුදල් ප්‍රතිපත්ති ස්ථාවරය නොවනස්ව තවදුරටත් පවත්වා ගැනීමට තීරණය කළ බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ඒ අනුව ශ්‍රී ලංකා මහ බැංකුවේ එක්දින ප්‍රතිපත්ති පොලී අනුපාතිකය (OPR) සියයට 7.75 මට්ටමේම නොවෙනස්ව පවතිනු ඇත.
+
+දේශීය හා ගෝලීය ප්‍රවණතා ඉතා දැඩිව සලකා බැලීමෙන් පසුව මුදල් ප්‍රතිපත්ති මණ්ඩලය මෙම තීරණයට එළඹ තිබේ.
+
+වත්මන් මුදල් ප්‍රතිපත්ති ස්ථාවරය, උද්ධමනය 5%ක ඉලක්කයක් කරා මෙහෙයවීමට සහාය වනු ඇතැයි මණ්ඩලයේ අදහසයි.
+
+◼️
+
+[Data](articles/841409b0.json)
+
+---
+
+### Several fatal accidents - four killed in school girl
+
+*2025-09-24 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214936) · `si`
+
+Four persons including a school girl and four others were killed in four areas.
+
+The accidents have been reported from Tissamaharama, Wennappuwa, Mirigama and Kalpitiya Police Divisions yesterday.
+
+DS Road in Mirigama Police Pasyala Giriulla road. At the junction, a motorbike was a danger to the postboard vehicle, collapsed in the motorcycle.
+
+The motorcyclist has been seriously injured and died on admission to the Mirigama hospital.
+
+The deceased has been identified as a 17 year old schoolgirl residing in Nittambuwa, Nittambuwa.
+
+Meanwhile, the motorcyclist collided with a power traffic in the Paranamuwa road in the Paranamuwa area in the Paranamuwa area in the Paranamuwa area in the Paranamuwa area.
+
+The victim is a 28 year old resident of Weerawila, Panganagamuwa.
+
+Meanwhile, restoring a motorcycle in the Dummaladeniya area in the Wennappuwa police division in the Colombo-Puttalam main road was collided with a wooden lorry.
+
+...
+
+[Data](articles/2c1126a0.json)
+
+[Extended Data](ext_articles/2c1126a0.ext.json)
+
+---
+
+### අකුරට වැඩකිරීමේ විදුලි සේවක වෘත්තීය ක්‍රියාමාර්ගය තවත් දැඩි වෙයි
+
+*2025-09-24 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214935) · `si`
+
+The Ceylon Electrician Crafts Association of the Electriciancies (24) will be implemented today (24), according to the CEB, according to the CEB.
+
+The Chairman of the President Kosala Abeysinghe said that all professional societies will take a final decision on trade union measures this afternoon.
+
+◼️
+
+[Data](articles/e98a3012.json)
+
+[Extended Data](ext_articles/e98a3012.ext.json)
+
+---
+
+### ICC decides to suspend USAC membership with immediate effect
+
+*2025-09-24 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214934) · `si`
+
+The International Cricket Council has decided to suspend the United States National SLC to suspend the United States National Cricket.
+
+It is reported that the decision has been taken as a ICA cricket as an ICA cricket as a ICA.
+
+The decision was taken after a meeting held at the International Cricket Council yesterday.
+
+The suspension of USAC is not affected by the T20 World Cup or 2028 Los Angeles Olympic Games.
+
+At the ICC Annual General Meeting in July, USAC had been given three months to hold "Free and Fair and Fair Elections".
+
+The International Cricket Council warned the USAC that he had the right to take any action that is considered appropriate based on the progress of the reforms.
+
+◼️
+
+[Data](articles/2aecf3c1.json)
+
+[Extended Data](ext_articles/2aecf3c1.ext.json)
+
+---
+
+### Ryan Routh found guilty in Trump golf course assassination attempt
+
+*2025-09-24 06:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112843/ryan-routh-found-guilty-in-trump-golf-course-assassination-attempt) · `en`
+
+The trial of Ryan Wesley Routh came to a dramatic end Tuesday when he tried to stab himself in the neck with a pen after a Florida jury found him guilty of attempting to assassinate Donald Trump last year on a golf course.
+
+“Dad, don’t hurt yourself,” Routh’s daughter, Sara, screamed as the bailiffs struggled to restrain Routh and rushed him out of the courtroom.
+
+A short time later, Routh was returned to the courtroom to complete the proceedings. This time, he was wearing handcuffs, but there was no blood visible on his white shirt, and he did not appear to have succeeded in harming himself.
+
+“We love you, Dad,” Routh’s son, Adam, said after he was escorted out of the courtroom again.
+
+Routh appeared to wink at his kids as he was being led away.
+
+It took the jury just 2½ hours of deliberating to also find Routh guilty of assaulting the Secret Service agent who rousted him from his hiding place and guilty of three federal gun charges stemming from the Sept. 15, 2024, incident.
+
+...
+
+[Data](articles/c1350175.json)
+
+---
+
+### Fairly heavy rainfall expected in parts of the island today
+
+*2025-09-24 06:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/112842/fairly-heavy-rainfall-expected-in-parts-of-the-island-today) · `en`
+
+The Department of Meteorology said that showers will occur at times in the Western, Sabaragamuwa, and North-Western provinces, and in the Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+Fairly heavy falls of above 50 mm are likely in some places, the Department stated.
+
+Showers or thundershowers are likely at a few places in the Uva Province and in the Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 30–40 kmph can be expected at times over the western slopes of the central hills, and in the Central, Northern, North-Central, and North-Western provinces, as well as in the Trincomalee and Hambantota districts, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/e0397af1.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -54,21 +182,43 @@ The Department of Meteorology has requested the public to take action to reduce 
 
 ---
 
-### முதியோர் தொகை அதிகரிக்கும்
+### ලංකාවට ඉදිරියට යාමට ඇති ඉඩ පාකිස්තානය අහුරයි
+
+*2025-09-24 05:18:32* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-ඉදිරියට-යාමට-ඇති-ඉඩ-පාකිස්තානය-අහුරයි/9-418683) · `si`
+
+ශ්‍රී ලංකාවට ආසියානු කුසලාන තරගාවලියේ අවසන් මහ තරගයට පිවිිසීමට ඇති ඉඩකඩ අහුරමින් පාකිස්තානය හා ශ්‍රී ලංකාව තර පැවැති තරගයෙන් පාකිස්තානය කඩුලු පහක ජයක් වාර්තා කිරිමට සමත්විය.
+
+ඒ අනුව සුපිරි හතර දෙනාගේ වටයේ තමන් මුහුණ දුන් තරග දෙකම පරාජයට පත්ව ඇති ශ්‍රී ලංකාවට තරගාවලියෙන් ඉවත්වීමට වැඩි ඉඩක් පවතී.
+
+ශ්‍රී ලංකාවට තවත් ඉතිරිව ඇත්තේ ඉන්දීය කණ්ඩායම සමගින් පැවත්වීමට නියමිත තරගය වෙයි. ඉන්දීය කණ්ඩායම තවදුරටත් තරගාවලියේ අපරාජිතව සිටියි. බංග්ලාදේශය හා පාකිස්තානය තරග එක බැගින් ජයගෙන සිටියි.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම කඩුලු 8ට ලකුණු 133ක් රැස් කළේය. පිළිතුරු ඉනිම ක්‍රීඩා කළ පාකිස්තාන කණ්ඩායම පන්දුවාර 18කදී කඩුලු 5ක් වැයකර ලකුණු 138ක් රැස්කරමින් තරගය ජය ගත්තේය.
+
+◼️
+
+[Data](articles/f80b8490.json)
+
+---
+
+### Increase the amount of the elderly
 
 *2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-தொகை-அதிகரிக்கும்/175-365173) · `ta`
 
-இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் மற்றும் தேசிய கொள்கைக்காக 2006 ஆம் ஆண்டில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
 
-மாறிவரும் போக்குகளுக்கமைய, இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் காலத்தோடு தழுவியதாக இற்றைப்படுத்தப்பட வேண்டுமென அடையாளங் காணப்பட்டுள்ளது.
+According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
 
-அத்துடன், 2052ஆம் ஆண்டில் 60 வயதுக்கு மேற்பட்ட சனத்தொகை 24.8 சதவீதம் வரை அதிகரிக்குமென ஐக்கிய நாடுகள் சபையின் பொருளாதார மற்றும் சமூக அலகால் எதிர்வு கூறப்பட்டுள்ளமையால், முதியோர்களின் நலனோம்புகை மற்றும் உரிமைகளை மேம்படுத்துதல் மற்றும் பாதுகாத்தல் அவசியமென அடையாளங் காணப்பட்டுள்ளது.
+In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
 
-அதற்கமைய, அரச தேசிய கொள்கை வேலைச் சட்டகமான 'மதிப்புமிகுந்த சிரேஷ்ட பிரஜை, அர்த்தமுள்ள இளைப்பாறிய வாழ்வு' தொனிப்பொருளுக்கமைய, முதியோருக்கு சமூக ரீதியான, பொருளாதார ரீதியான, உடலியல் மற்றும் ஆன்மீக ரீதியான திருப்திகரமான வாழ்வுக்காக வசதிகளை வழங்குவதற்கு இயலுமாகும் வகையில் 'இலங்கையின் முதியோருக்கான தேசிய கொள்கை' தயாரிக்கப்பட்டுள்ளது.
+Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
 
-...
+The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Relief.
+
+◼️
 
 [Data](articles/3a4fbc16.json)
+
+[Extended Data](ext_articles/3a4fbc16.ext.json)
 
 ---
 
@@ -1907,145 +2057,5 @@ As the suspect was produced before the Magistrate's Court today (23), the court 
 [Data](articles/6c0f2944.json)
 
 [Extended Data](ext_articles/6c0f2944.ext.json)
-
----
-
-### Indian Navy Commander met security leaders
-
-*2025-09-23 15:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படைத்-தளபதி-பாதுகாப்பு-தலைவர்களை-சந்தித்தார்/175-365135) · `ta`
-
-Indian Navy Commander Admiral Dinesh K. On Monday, Monday (22), Deputy Minister of Defense Aruna Jayasekera (Retired) and Defense Secretary Air Vice Marshall Sampath Purekonda (Retired) were in honor of the Defense Minister on various occasions.
-
-Admiral Tripathi met the Deputy Minister of Defense this morning at his office in Colombo. The Deputy Minister, who was warmly welcomed by him, engaged in a speech with him.
-
-During this time, ways to improve security diplomacy and cooperation between the two countries, humanitarian aid and disaster recovery, drug trafficking in the Indian Ocean region, human trafficking and other maritime crimes, illegal activities, enhancement and enhancement of training and skills development, enhancement and enhancement of the seas, enhanceing training and skills development. Discussions on matters.
-
-Following the meeting, the Indian Navy Commander who visited the Ministry of Defense in Sri Jayawardenapura this afternoon met with the Secretary of Defense.
-
-...
-
-[Data](articles/aceb3cd9.json)
-
-[Extended Data](ext_articles/aceb3cd9.ext.json)
-
----
-
-### Rs.. 5000 gives money with money
-
-*2025-09-23 15:19:10* · [`adalk`](https://www.ada.lk/breaking_news/වීදි-ළමුන්ට-දෙන-රු--5000-හිඟ-මුදලුත්-එක්කම-දෙයි/11-418676) · `si`
-
-Payment of Cost of Living Ones for Children and Children and Standards
-
-The Cabinet Meeting held on 16/06/2010 to implement a program.
-
-Accordingly, the benefits of the public designated program have been launched from July 2025. The above mentioned Rs.
-
-Accordingly, the date on which the benefits of the interpretation begins to be treated as 2025-01 days
-
-Cabinet approval has been granted to be decentralized to the children's accounts.
-
-◼️
-
-[Data](articles/2066a138.json)
-
-[Extended Data](ext_articles/2066a138.ext.json)
-
----
-
-### Euro 8 million between Sri Lanka and the European Union
-
-*2025-09-23 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214912) · `si`
-
-The Government of Sri Lanka has signed a new agreement with the European Union to launch a new agreement with the European Union to carry out sustainable economic recovery through improved biodiversity and solid waste management.
-
-The CARMEN MOUNDO was officially signed by the European Union Ambassador of the European Union and the European Union to the Government of Sri Lanka.
-
-The Ministry of Environment, Provincial Councils and Local Government, the Ministry of Environment and the European Union, the project will be financed by the European Union.
-
-The project will help conservation of biodiversity strategies and promote targeted conservation strategies and promoting sustainable land use practices.
-
-It is also reported that the project will also contribute to the increase in the increasing need for solid waste management systems and promote environmental safety and public health.
-
-...
-
-[Data](articles/5f1b8e9e.json)
-
-[Extended Data](ext_articles/5f1b8e9e.ext.json)
-
----
-
-### Sri Lanka and EU sign €8 million grant agreement to support economic recovery
-
-*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-eu-sign-8-million-grant-agreement-to-support-economic-recovery) · `en`
-
-The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
-
-The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
-
-...
-
-[Data](articles/07f41bfb.json)
-
-[Extended Data](ext_articles/07f41bfb.ext.json)
-
----
-
-### Sri Lanka and EU sign Euro 8 million grant agreement to support economic recovery
-
-*2025-09-23 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112830/sri-lanka-and-european-union-sign-euro-8-million-grant-agreement-to-support-economic-recovery) · `en`
-
-The government signed a grant agreement with the European Union (EU) today (23) to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management.
-
-The EUR 8 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices. It will also address the growing need for effective solid waste management systems, contributing to both environmental protection and improved public health, the Ministry of Finance, Planning and Economic Development said in a statement.
-
-...
-
-[Data](articles/c50052b2.json)
-
-[Extended Data](ext_articles/c50052b2.ext.json)
-
----
-
-### Four acting ministers appointed
-
-*2025-09-23 14:51:11* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අමාත්‍යවරු-සිව්-දෙනෙක්-පත්-කෙරේ/11-418675) · `si`
-
-President Anura Kumara Dissanayake has been appointed to four ministries to attend the United States General Assembly to attend the United Nations General Assembly.
-
-A private minister has been appointed to the Ministry of Foreign Affairs, Foreign Employment and Tourism, the Ministry of Defense and Ministry of Finance and Finance Ministry and Ministry of Finance and Economic Development and Economic Development and Economic Development.
-
-Deputy Minister of Labor and Economic Development Anil Jayantha Fernando as the Minister of Finance and Planning and Economic Development
-
-Digital Economic Minister Eranga Weeraratne as the Digital Economic Officers.
-
-Foreign Affairs, Foreign Employment Activity and Foreign Affairs
-
-◼️
-
-[Data](articles/486cf5c6.json)
-
-[Extended Data](ext_articles/486cf5c6.ext.json)
-
----
-
-### New digital site to access public services
-
-*2025-09-23 14:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சேவைகளை-அணுக-புதிய-டிஜிட்டல்-தளம்/175-365134) · `ta`
-
-The Cabinet has approved the creation of a 'state superintendent' aimed at uninterrupted access to public services through a digital base.
-
-The current fragmented system forces users to enter the data repeated data on various portals and engage in various fields, subject to many authentication processes.
-
-Evaluation suggests that this is a loss of more than Rs. 500 million per year.
-
-◼️
-
-[Data](articles/17faa375.json)
-
-[Extended Data](ext_articles/17faa375.ext.json)
 
 ---

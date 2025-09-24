@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 05:56:49**
+As of **2025-09-24 07:05:47**
 
 ## Newspaper Stats
 
-*Scraped **77,781** Articles*
+*Scraped **77,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,79 @@ islandlk | 4,781
 dailyftlk | 5,525
 adalk | 7,557
 adaderanalk | 10,082
-tamilmirrorlk | 11,712
+tamilmirrorlk | 11,713
 virakesarilk | 12,652
-adaderanasinhalalk | 13,583
+adaderanasinhalalk | 13,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,772 (100.0%) of 77,781 articles have been extended.
+77,782 (100.0%) of 77,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### ’தமிழர்களை அனுர அரசும் ஏமாற்றியுள்ளது’
+### Heavy rains in several areas
+
+*2025-09-24 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214932) · `si`
+
+The Meteorological Department says that today will shower showers in the Western, Sabaragamuwa and North Western provinces.
+
+The department states, in some places. Heavy rains can occur in more than 50.
+
+Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. The Department of Meteorology announces that there are about 30-40 times.
+
+The Department of Meteorology has requested the public to take action to reduce possible dangers with thunderstorms and temporary strong winds.
+
+◼️
+
+[Data](articles/8216a09a.json)
+
+[Extended Data](ext_articles/8216a09a.ext.json)
+
+---
+
+### முதியோர் தொகை அதிகரிக்கும்
+
+*2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-தொகை-அதிகரிக்கும்/175-365173) · `ta`
+
+இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் மற்றும் தேசிய கொள்கைக்காக 2006 ஆம் ஆண்டில் அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+மாறிவரும் போக்குகளுக்கமைய, இலங்கையின் சிரேஷ்ட பிரஜைகள் தொடர்பான தேசிய சமவாயம் காலத்தோடு தழுவியதாக இற்றைப்படுத்தப்பட வேண்டுமென அடையாளங் காணப்பட்டுள்ளது.
+
+அத்துடன், 2052ஆம் ஆண்டில் 60 வயதுக்கு மேற்பட்ட சனத்தொகை 24.8 சதவீதம் வரை அதிகரிக்குமென ஐக்கிய நாடுகள் சபையின் பொருளாதார மற்றும் சமூக அலகால் எதிர்வு கூறப்பட்டுள்ளமையால், முதியோர்களின் நலனோம்புகை மற்றும் உரிமைகளை மேம்படுத்துதல் மற்றும் பாதுகாத்தல் அவசியமென அடையாளங் காணப்பட்டுள்ளது.
+
+அதற்கமைய, அரச தேசிய கொள்கை வேலைச் சட்டகமான 'மதிப்புமிகுந்த சிரேஷ்ட பிரஜை, அர்த்தமுள்ள இளைப்பாறிய வாழ்வு' தொனிப்பொருளுக்கமைய, முதியோருக்கு சமூக ரீதியான, பொருளாதார ரீதியான, உடலியல் மற்றும் ஆன்மீக ரீதியான திருப்திகரமான வாழ்வுக்காக வசதிகளை வழங்குவதற்கு இயலுமாகும் வகையில் 'இலங்கையின் முதியோருக்கான தேசிய கொள்கை' தயாரிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3a4fbc16.json)
+
+---
+
+### The Anura government has also deceived Tamils
 
 *2025-09-24 04:30:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களை-அனுர-அரசும்-ஏமாற்றியுள்ளது/175-365172) · `ta`
 
-தமிழ் மக்களை அனுரகுமார அரசு நம்ப வைத்து ஏமாற்றியுள்ளது தமிழ் மக்களின் நிலைமை முன்பு இருந்ததைவிட மோசமாக்கியுள்ளது என  இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன்  தெரிவித்தார்.
+The Government of Tamil National Alliance (TNA) Batticaloa district parliamentarian R. Sanakiyan said that the state of the Tamil people has been deceived by the Tamil people.
 
-ஜனாதிபதியாக அனுரகுமார திசாநாயக்க, பதவியேற்று  ஒரு வருடம்  நிறைவடைந்துள்ள நிலையில், தமிழ் மக்களுக்கு வழங்கிய வாக்குறுதிகள் நிறைவேற்றப்படவில்லை .தமிழ் மக்களின் அடிப்படை பிரச்சினைகளுக்குக் கூட எவ்வித தீர்வும் வழங்கப்படவில்லை என்றும் குற்றஞ்சாட்டினார்.
+As President Anuragumara Dissanayake, a year after his swearing in, the promises made to the Tamil people have not been fulfilled.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (23) அன்று  இடம்பெற்ற   தேசியக் கட்டிட ஆராய்ச்சி நிறுவகம் சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையிலேயே  இவ்வாறு குறிப்பிட்டார்.
+He was speaking at a debate on the National Building Research Institute Bill held in Parliament on Tuesday (23).
 
-மேலும், ஜனாதிபதியின்  பதவிக் காலத்தில் ஒருவருடம் நிறைவடையும் போது,  ஒரு வருடத்தில் என்ன செய்தீர்கள் என்று எவரும் கேள்வி கேட்கக் கூடாது என்பதற்காகவே இம்மாதம் முதல் வாரத்தில் வடக்கு மற்றும்  ஏனைய மாகாணங்களில் அவசர அவசரமாக அபிவிருத்தி பணிகள் ஆரம்பிக்கப்பட்டன. அவமானப்படக்  கூடாது என்பதற்காகவே அவசரமாக ஒருசில அபிவிருத்திகள் ஆரம்பிக்கப்பட்டன.
+Moreover, when the president's term ends in one year, no one should question what you have done in a year, the first week of this month, in the Northern and other provinces, urgent development work has begun in the Northern and other provinces.. A few developments have been launched in a hurry so as not to be humiliated.
+
+The government did not even take preliminary steps to provide a stable solution to the basic problem faced by the Tamil people. The government has stated that it will resolve the land release issue. But those promises have not yet been fulfilled.
 
 ...
 
 [Data](articles/a29a222a.json)
+
+[Extended Data](ext_articles/a29a222a.ext.json)
 
 ---
 
@@ -534,6 +578,8 @@ At the mention of the word risk in terms of investing, especially in a Sri Lanka
 
 [Data](articles/c98755f8.json)
 
+[Extended Data](ext_articles/c98755f8.ext.json)
+
 ---
 
 ### The president has reached the United States
@@ -568,6 +614,8 @@ Turnover stood at Rs 6.5 billion with 13 crossings. Top seven crossings that wer
 
 [Data](articles/87c836b4.json)
 
+[Extended Data](ext_articles/87c836b4.ext.json)
+
 ---
 
 ### Sarvodaya Development Finance delegation completes Agri-Innovate immersion at Kasetsart University, Thailand
@@ -579,6 +627,8 @@ A cross-functional leadership team from Sarvodaya Development Finance PLC (SDF) 
 ...
 
 [Data](articles/db160c97.json)
+
+[Extended Data](ext_articles/db160c97.ext.json)
 
 ---
 
@@ -1997,53 +2047,5 @@ Evaluation suggests that this is a loss of more than Rs. 500 million per year.
 [Data](articles/17faa375.json)
 
 [Extended Data](ext_articles/17faa375.ext.json)
-
----
-
-### Afghan boy flies from Kabul to Delhi hiding in plane’s landing gear
-
-*2025-09-23 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112829/afghan-boy-flies-from-kabul-to-delhi-hiding-in-planes-landing-gear) · `en`
-
-A 13-year-old Afghan boy made a dangerous journey from Kabul to Delhi, hiding in the landing gear compartment of a Kam Air passenger plane.
-
-Officials say the teen, who is from Kunduz city in northern Afghanistan, was found wandering around on the runway at Delhi’s international airport after the plane landed on Monday.
-
-He was detained by Indian security personnel and questioned for several hours before being sent back to Kabul on the same flight.
-
-The boy reportedly told authorities he did this out of curiosity.
-
-A spokesperson from the Indian Central Industrial Security Force (CISF) said the boy managed to travel undetected on Kam Airlines flight RQ-4401, which landed in Delhi around 11:10am on Sunday.
-
-Police found him roaming around by himself and took him aside for questioning.
-
-The boy reportedly told authorities that he had hidden himself in the rear central landing gear compartment of the said aircraft.
-
-...
-
-[Data](articles/578029f9.json)
-
-[Extended Data](ext_articles/578029f9.ext.json)
-
----
-
-### Sri Lanka seeks investors for caustic soda, chlorine production at Paranthan Chemicals
-
-*2025-09-23 14:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-investors-for-caustic-soda-chlorine-production-at-paranthan-chemicals-241622/) · `en`
-
-ECONOMYNEXT – Sri Lanka will call for expressions of interest from local and foreign investors to produce caustic soda and chlorine as a public-private partnership project at the Paranthan Chemicals Limited factory, minister Nalinda Jayatissa said.
-
-“Paranthan Chemicals Limited has completed a feasibility study on restarting the caustic soda, chlorine manufacturing plant at the premises where its Factory is located,” Jayatissa told reporters.
-
-The proposal to look for investors for the proposed project to be implemented on the 30-acre land allocated to Paranthan Chemicals, a state-owned enterprise, was approved by the Cabinet.
-
-Paranthan Chemicals currently imports chlorine and distributes it throughout the country, he said.
-
-“Since the entire chlorine requirement for the country’s water treatment is imported, there is a risk of it being disrupted in the event of disruptions to global supply chains.
-
-...
-
-[Data](articles/906c61e0.json)
-
-[Extended Data](ext_articles/906c61e0.ext.json)
 
 ---

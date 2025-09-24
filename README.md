@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 13:20:14**
+As of **2025-09-24 13:40:27**
 
 ## Newspaper Stats
 
-*Scraped **77,857** Articles*
+*Scraped **77,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,565
+adalk | 7,566
 adaderanalk | 10,092
 tamilmirrorlk | 11,734
 virakesarilk | 12,666
-adaderanasinhalalk | 13,603
+adaderanasinhalalk | 13,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,857 (100.0%) of 77,857 articles have been extended.
+77,857 (100.0%) of 77,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### වාහන ආනයන ගැන මුදල් පිළිබඳ කාරක සභාවේදී හෙළිවූ දේ මෙන්න
+
+*2025-09-24 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214954) · `si`
+
+වාහන ආනයනයෙන් රජය අපේක්ෂා කළ ආදායම් ඉලක්ක වසර අවසානය වනවිට ඉක්මවා යනු ඇතැයි රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණය විය.
+
+ඒ, එම කාරක සභාව එහි සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (23) රැස්වූ අවස්ථාවේදීය.
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා - වාහනවල අපේක්ෂිත ආදායම මොකක්ද මේ අවුරුද්දට?
+
+භාණ්ඩාගාර නියෝජ්‍ය ලේකම්  දිලිප් සිල්වා - "මේ වසරට බිලියන 460ක්."
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා - ඒක වෙනස් වුණේ නැද්ද?
+
+වෙළෙඳ හා ආයෝජන ප්‍රතිපත්ති අතිරේක අධ්‍යක්ෂ ජනරාල් මල්ෂානි අබේරත්න - "දැන් තියෙන තත්ත්වය අනුව ඊට වැඩිවෙනවා.  මෙච්චර වාහන එයි කියලා බලාපොරොත්තු වුණේ නැහැ. අපිට පේනවා බිලියන 700ක් වගේ එන විදියක් පේනවා."
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා - ණයවර ලිපි කීයක් ඇරලා තියෙනවාද?
+
+වෙළෙඳ හා ආයෝජන ප්‍රතිපත්ති අතිරේක අධ්‍යක්ෂ ජනරාල් මල්ෂානි අබේරත්න - "ඩොලර් මිලියන 1570ක්.  සැප්.16 වෙනකම්."
+
+මේ අතර, මෙම වසරේ සංචාරක ක්ෂේත්‍රයේ ආදායම අමෙරිකානු ඩොලර් බිලියන 3.5ක් පමණ වනු ඇතැයි එහිදී අනාවරණ වුණි.
+
+...
+
+[Data](articles/2ef285d7.json)
+
+---
 
 ### Rs.62 Mill. Three arrested for kidnapping phones and tablets
 
@@ -87,6 +115,26 @@ Additional Savigar General Sudarsitar General Sudarsitar General Sudarsha De Sil
 [Data](articles/4216593c.json)
 
 [Extended Data](ext_articles/4216593c.ext.json)
+
+---
+
+### ලක්ෂ 620ක ජංගම දුරකතන හා ටැබ් කටුනායකින් පන්නන්න බැරි වෙයි
+
+*2025-09-24 12:15:40* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-620ක-ජංගම-දුරකතන-හා-ටැබ්-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-418691) · `si`
+
+රුපියල් හය කෝටි විසි ලක්ෂයක් වටිනා අතිනවීනතම ජංගම දුරකථන සහ ටැබ් පරිගණක තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත්, ඒවා කටුනායක ගුවන් තොටුපොළ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත ''( Green Channel ) ඔස්සේ පිට කර ගෙන යාමට තැත් කළ ගුවන් මගීන් තිදෙනෙකු සමග 09/24 දින ගුවන් තොටුපොළ රේගු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් තිදෙනාම කොළඹ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර ඔවුන් අතරින් 39 හැවිරිදි සහ 62 හැවිරිදි කාන්තාවන් දෙදෙනෙකු සිටින අතර අනෙක් පුද්ගලයා 25 හැවිරිදි පිරිමි පුද්ගලයෙකි .
+
+මොවුන් 09/24 දින අලුයම 04.30 ට ඩුබායි සිට ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 549 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් විසින් රැගෙන ආ ගමන් මලු තුළ අතිනවීනතම ජංගම දුරකථන 559 ක් සහ ටැබ් පරිගණක 80 ක් සගවා ගෙන සිටියදී ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් අත් අඩංගුවේ තබා ගෙන කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති
+
+◼️
+
+[Data](articles/349f45ba.json)
 
 ---
 
@@ -2039,39 +2087,5 @@ Shiran Peiris has said that security personnel have been increased to strengthen
 [Data](articles/8c3b8e0b.json)
 
 [Extended Data](ext_articles/8c3b8e0b.ext.json)
-
----
-
-### The president has reached the United States
-
-*2025-09-23 23:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அமெரிக்காவை-சென்றடைந்தார்/175-365165) · `ta`
-
-President Anura Kumara Dissanayake has traveled to New York City, USA to attend the 80th session of the United Nations General Assembly.
-
-President Anura Kumara Dissanayake will address tomorrow (24) at the United Nations General Assembly. (A)
-
-◼️
-
-[Data](articles/6fbd4ba3.json)
-
-[Extended Data](ext_articles/6fbd4ba3.ext.json)
-
----
-
-### Cabinet approval for the Kottawa -Doddoda Reconstruction of Southern Highway
-
-*2025-09-23 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/225904) · `ta`
-
-The Cabinet has approved the allocation of Rs 1.4 billion for the rehabilitation of the road to the Kottawa - Kottawa on the Southern Highway.
-
-The road from the Kottawa Highway on the Kottawa Highway of the Southern Highway has been opened for motor vehicle traffic in 2011 and no major reconstruction has been carried out so far.
-
-The need to be reconstructed quickly under the two -kilometer highway on the Southern Expressway, from 0 kilometers to 19 kilometers, and the highway area of ​​19 kilometers to 34 km to 34 km / h.. Accordingly, the government is planning to rehabilitate the second Pathage under the second Page, which has a highway highway of 19 kilometers to cover the highway road with 04 routes.
-
-...
-
-[Data](articles/c5aec9e1.json)
-
-[Extended Data](ext_articles/c5aec9e1.ext.json)
 
 ---

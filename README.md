@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 15:08:02**
+As of **2025-09-24 15:20:34**
 
 ## Newspaper Stats
 
-*Scraped **77,871** Articles*
+*Scraped **77,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,569
-adaderanalk | 10,094
+adaderanalk | 10,096
 tamilmirrorlk | 11,739
 virakesarilk | 12,667
 adaderanasinhalalk | 13,605
@@ -26,11 +26,31 @@ adaderanasinhalalk | 13,605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,870 (100.0%) of 77,871 articles have been extended.
+77,871 (100.0%) of 77,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### China evacuates nearly 2 million as super typhoon Ragasa nears landfall
+
+*2025-09-24 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112859/china-evacuates-nearly-2-million-as-super-typhoon-ragasa-nears-landfall) · `en`
+
+Chinese authorities evacuated 1.9 million residents from the southern Guangdong province as super typhoon Ragasa, the most powerful storm of the year, barreled toward China with winds reaching 241 kph and waves higher than lampposts.
+
+The typhoon forced the shutdown of schools and businesses across at least 10 cities as it approached its expected evening landfall between Yangjiang and Zhanjiang. Hong Kong’s observatory recorded maximum sustained winds of 195 kph near the storm’s centre.
+
+Meanwhile, huge waves battered the coastlines of the city of Zhuhai and Hong Kong.
+
+Hong Kong’s observatory said Ragasa had maximum sustained winds near the centre of about 195 kph, and was forecast to keep moving west or west-northwest.
+
+The winds brought by the storm, which blew away parts of a pedestrian bridge’s roof and uprooted hundreds of trees across the city, have since gradually weakened.
+
+...
+
+[Data](articles/54c50040.json)
+
+---
 
 ### The UN. Trump trapped with his wife when he went to the crowd
 
@@ -119,6 +139,26 @@ Demonstrators marched from Colombo to the Presidential Secretariat to the Presid
 [Data](articles/9e7e29e7.json)
 
 [Extended Data](ext_articles/9e7e29e7.ext.json)
+
+---
+
+### LCs worth USD 1.5 billion opened for vehicle imports so far in 2025
+
+*2025-09-24 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112857/lcs-worth-usd-15-billion-opened-for-vehicle-imports-so-far-in-2025) · `en`
+
+Local banks have opened USD 1,570 million worth of Letters of Credit (LCs) as of September 16, 2025, for the importation of motor vehicles, according to Finance Ministry officials.
+
+This was revealed when the Finance Ministry officials were summoned before the Committee on Public Finance (CoPF) in Parliament.
+
+It was revealed during the Parliamentary Committee on Public Finance meeting that government revenue expectations from vehicle imports are likely to be exceeded by the end of the year.
+
+This was disclosed when CoPF Chairman Dr. Harsha de Silva inquired from Finance Ministry officials pertaining to the expected revenue from vehicles for this year, following the relaxation of imports earlier this year.
+
+Deputy Secretary to the Treasury Dilip Silva in response stated that the government anticipated a tax revenue of Rs. 460 billion for this year.
+
+...
+
+[Data](articles/6283e27e.json)
 
 ---
 
@@ -312,19 +352,23 @@ According to Time Out, these places are selected for their seasonal charm, cultu
 
 ---
 
-### විගමනික හරසර වැඩසටහනට වැය කළ රු. කෝටි 6ක් වතුරේ
+### Migrant warranty program. 6 crores in water
 
 *2025-09-24 12:46:47* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-හරසර-වැඩසටහනට-වැය-කළ-රු--කෝටි-6ක්-වතුරේ/11-418693) · `si`
 
-විගමනික  ශ්‍රමිකයින් ඇගයිම සදහා  සංවිධානය කොට තිබු විගමනික හරසර වැඩසටහන සදහා රුපියල් මිලියන 63ක මුදලක්  වියදම්කොට තිබුනද  උත්සව  අවස්ථාවේ ලබාදුන් ආහාරපාන හැර  ශ්‍රමිකයින්ගේ  ඉදිරි සුභසාධනය සදහා  ස්වයං රැකියා හෝ  වෙනත් ප්‍රතිලාභ  ලැබි නොතිබු බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+The National Audit report is issued by the National Audit report that a ceremony has been organized for the assessment of migrant workers.
 
-පැමිණි ශ්‍රමිකයින් සදහා උපහාර පිදිම සදහා  හිටපු ජනාධිපතිතුමාගේ, හිටපු කම්කරු හා විදේශ රැකියා  අමාත්‍යතුමාගේ සහ  හිටපු  රාජ්‍ය ඇමතිතුමාගේ සුභ පැතුම් තුනක් සහිතව  ලිපිගොනුවක් ප්‍රදානය කිරිමට  රුපියල් දහනමලක්ෂ,තිස්පන්දහසක මුදලක් (1,935,000)  වියදම්කොට තිබු බවද විගණන වාර්තාවේ සදහන් වේ.
+The Audit report states that a sum of Rs.
 
-අදාල විගමනික ශ්‍රමිකයින්  උත්සව සදහා කැදවාගෙන ඒමට   බස්රථ 226ක් සදහා  ලංකා ගමනාගමන මණ්ඩලය වෙත රුපියල් අසුලක්ෂ,හතලිස්එක්දහස්,හාරසියහැත්තැහයක මුදලක් (8,041,476)  වැයකොට තිබුණි. ශ්‍රමිකයින්ගේ ප්‍රතිලාභ වලට වඩා  අමතර වියදම් වැඩිපුර දරා තිබු බවද විගණනය මගින් අනාවරණය කොට ඇත.
+222 buses have been spent on 22 buses (8,041,476) for the relevant migrant workers for the festivals (8,041,476). The audit has revealed that additional costs have been increased more than the benefits of workers.
 
-...
+This information is included in the Audit Report which is issued to the performance report issued by the Ministry of External Affairs Ministry of External Affairs Ministry.
+
+◼️
 
 [Data](articles/bde27055.json)
+
+[Extended Data](ext_articles/bde27055.ext.json)
 
 ---
 
@@ -2037,51 +2081,5 @@ This article serves as Part II of the series originally published in the Daily F
 [Data](articles/86934acf.json)
 
 [Extended Data](ext_articles/86934acf.ext.json)
-
----
-
-### EU agrees to $ 9.4 m grant to push sustainable development
-
-*2025-09-24 02:23:25* · [`dailyftlk`](https://www.ft.lk/business/EU-agrees-to-9-4-m-grant-to-push-sustainable-development/34-782092) · `en`
-
-European Union Ambassador to Sri Lanka Carmen Moreno (left) and Treasury Secretary Dr. Harshana Suriyapperuma
-
-Financing to restore degraded ecosystems, targeted conservation strategies, and sustainable land use
-
-Will also develop solid waste management systems to protect environment, improve public health
-
-The Finance Ministry yesterday said that it had signed a Euro 8 million ($ 9.4 million) grant agreement with the European Union to support the country’s sustainable economic recovery through biodiversity conservation and waste management.
-
-The $ 9.4 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
-
-The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices.
-
-...
-
-[Data](articles/ae324c22.json)
-
-[Extended Data](ext_articles/ae324c22.ext.json)
-
----
-
-### MAS Intimates’ COO Ruwan Keragala joins Ambeon Holdings Board
-
-*2025-09-24 02:22:16* · [`dailyftlk`](https://www.ft.lk/business/MAS-Intimates-COO-Ruwan-Keragala-joins-Ambeon-Holdings-Board/34-782091) · `en`
-
-Ambeon Holdings PLC has appointed Ruwan Keragala as an Independent Non-Executive Director of the company.
-
-Keragala is the Chief Operating Officer of MAS Intimates Ltd., Sri Lanka’s largest exporter with a revenue of around $ 1 billion. He previously served as the Finance Director of MAS Intimates for over seven years.
-
-Additionally, he serves as the Deputy Chairperson of a national Buddhist TV channel and a Buddhist social enterprise, ‘Jaya Media Network’.
-
-Keragala holds a Bachelor’s Degree in Business Administration with a First-class Honour, specialised in Human Resource Management from the University of Colombo and holds an MBA from the Imperial College, University of London. He has done his executive Education at the Harvard Business School and INSEAD campus.
-
-He is a Fellow member of the Chartered Institute of Management Accountants UK and the Association of Certified Chartered Accountants UK and an Associate Member of the Chartered Institute of Sri Lanka.
-
-...
-
-[Data](articles/e6159a78.json)
-
-[Extended Data](ext_articles/e6159a78.ext.json)
 
 ---

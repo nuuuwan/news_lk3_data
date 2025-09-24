@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 14:22:45**
+As of **2025-09-24 14:12:00**
 
 ## Newspaper Stats
 
-*Scraped **77,866** Articles*
+*Scraped **77,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,568
 adaderanalk | 10,092
-tamilmirrorlk | 11,738
+tamilmirrorlk | 11,736
 virakesarilk | 12,666
 adaderanasinhalalk | 13,605
 
@@ -26,47 +26,11 @@ adaderanasinhalalk | 13,605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,860 (100.0%) of 77,866 articles have been extended.
+77,860 (100.0%) of 77,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
-
-### ஜனாதிபதி செயலகத்திற்கு  முன்பாக ஆர்ப்பாட்டம்
-
-*2025-09-24 14:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-ஆர்ப்பாட்டம்/175-365207) · `ta`
-
-இராணுவ வீரர்களின் உரிமைகளைப் பாதுகாப்பதற்கான தேசிய அமைப்பு கொழும்பில் உள்ள ஜனாதிபதி செயலகத்தின் பிரதான நுழைவாயிலுக்கு முன்பாக, புதன்கிழமை (24) அன்று ஆர்ப்பாட்டமொன்றை முன்னெடுத்தது.
-
-விதவை சம்பளம் வழங்குதல் உள்ளிட்ட பல கோரிக்கைகளை அடிப்படையாகக் கொண்டு இந்தப் ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
-
-ஆர்ப்பாட்டக்காரர்கள் கொழும்பு புறகோட்டை ரயில் நிலையத்திலிருந்து ஜனாதிபதி செயலகம் வரை பேரணியாகச் சென்று  ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
-
-◼️
-
-[Data](articles/9e7e29e7.json)
-
----
-
-### நோர்வூட் மாணவிக்கு நேர்ந்த கதி
-
-*2025-09-24 13:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோர்வூட்-மாணவிக்கு-நேர்ந்த-கதி/76-365206) · `ta`
-
-நோர்வூட் மேற்பிரிவில் இருந்து நோர்வூட் தமிழ் மகா வித்தியாலயத்துக்கு வந்து கொண்டிருந்த மாணவி,  வீதியில் வழுக்கி விழுந்து ​அசௌகரியத்திற்கு உள்ளாகியுள்ளார்.
-
-அவரது காலில் ஏற்பட்ட பாரிய காயத்தால், அந்த மாணவி, டிக்கோயா-கிளங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். இந்த சம்பவம், செவ்வாய்க்கிழமை (23) இடம்பெற்றுள்ளது.
-
-நோர்வூட் மேல் பிரிவில் இருந்து நோர்வூட் நகரத்துக்கும், நோர்வூட் தமிழ் வித்தியாலயத்துக்கு  செல்வோருக்கு ஒருங்கான வீதி இல்லை. குண்டும் குழியுமாகவும் மேடு பள்ளத்துடன், படிகள் இல்லாத குறுக்கு வீதிகளிலேயே பயணிக்க வேண்டிய நிலைமை ஏற்பட்டுள்ளது,
-
-அவ்வாறான பாதையில் சென்றுக் கொண்டிருந்த போதே மாணவி ஒருவர் வழுக்கி விழுந்து, கடுங்காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-ஆகவே, பொறுப்பானவர்கள் இந்த வீதியையும் குறுக்கு வீதியையும் புனரமைத்து கொடுக்க வேண்டும் என்றும் பிரதேசவாசிகள் கோரிக்கை விடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/360b5cb1.json)
-
----
 
 ### මූල්‍ය සේවා සඳහා ඩිජිටල් පහසුකම් සැපයීමෙන් ලැබෙන වාසි ගැන මහ බැංකු අධිපතිගෙන් පැහැදිලි කිරීමක්
 
@@ -2063,5 +2027,47 @@ These include progress on addressing the 14,988 complaints filed with the Office
 [Data](articles/3a7477d1.json)
 
 [Extended Data](ext_articles/3a7477d1.ext.json)
+
+---
+
+### Parliament Committee approves reports on Probation Services, Thriposha
+
+*2025-09-24 02:14:21* · [`dailyftlk`](https://www.ft.lk/news/Parliament-Committee-approves-reports-on-Probation-Services-Thriposha/56-782084) · `en`
+
+Parliament Secretariat yesterday said the Sectoral Oversight Committee on Health, Media and Women’s Empowerment has approved the Annual Performance Report of the Department of Probation and Child Care Services for 2024 and the Annual Reports of Sri Lanka Thriposha Limited for 2021 and 2023.
+
+The approvals were made at the committee meeting held on 10 September in Parliament under the Chairmanship of Dr. Nihal Abeysinghe. In reviewing the Department of Probation and Child Care Services, members stressed the importance of introducing a monthly system to track the number of cases raised and the measures taken to resolve them. After detailed discussions, the committee endorsed the report.
+
+When considering Sri Lanka Thriposha Limited’s reports, officials said modern silos funded by the World Food Programme and fitted with dryers and cooling systems were being introduced to reduce the risk of raw material contamination.
+
+◼️
+
+[Data](articles/dc5eb449.json)
+
+[Extended Data](ext_articles/dc5eb449.ext.json)
+
+---
+
+### CMEV warns of voter knowledge gaps, low trust in election information
+
+*2025-09-24 02:13:59* · [`dailyftlk`](https://www.ft.lk/news/CMEV-warns-of-voter-knowledge-gaps-low-trust-in-election-information/56-782083) · `en`
+
+Assessment finds men and rural voters more engaged than women and urban voters
+
+Misinformation and biased reporting cited as key obstacles to electoral participation
+
+Report calls for legal reforms, stronger Election Commission powers, and media literacy
+
+The Centre for Monitoring Election Violence (CMEV) and the Centre for Policy Alternatives (CPA), in partnership with Internews, yesterday released an Election Information Assessment (EIA) that highlights significant shortcomings in how electoral information is disseminated and accessed in Sri Lanka.
+
+The report, published in the context of the Aragalaya protests and subsequent national elections, found widespread gaps in voter knowledge, with many respondents unaware of different election types and modalities.
+
+It also noted demographic disparities, with men and rural voters showing higher levels of engagement than women and urban voters.
+
+...
+
+[Data](articles/515ef7bf.json)
+
+[Extended Data](ext_articles/515ef7bf.ext.json)
 
 ---

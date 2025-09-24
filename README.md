@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 03:06:10**
+As of **2025-09-25 03:55:44**
 
 ## Newspaper Stats
 
-*Scraped **77,973** Articles*
+*Scraped **77,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,148 @@ colombotelegraphcom | 788
 economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
-dailyftlk | 5,528
+dailyftlk | 5,529
 adalk | 7,578
 adaderanalk | 10,124
 tamilmirrorlk | 11,756
-virakesarilk | 12,679
+virakesarilk | 12,684
 adaderanasinhalalk | 13,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,973 (100.0%) of 77,973 articles have been extended.
+77,979 (100.0%) of 77,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### Bill postponing the bills that cannot cause mental impacts on children
+
+*2025-09-25 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226007) · `ta`
+
+The Second Assessment Bill (Amendment) Bill (Amendment) Bill, which includes children, parents, teachers or guardians cannot be punished or mental impacts, it was postponed for another day, but it would not be passed for another day.
+
+The debate on the Second Assessment of the Penal Code (Amendment) Bill was inaugurated by Women and Child Affairs Minister Saroja Savitri Bolraj on Wednesday (24).
+
+In addition, the opposition parties also demanded explanations raised by various issues and urged the amendments to it.
+
+It was in this context that the parents of the children. The debate on the second assessment of the Penal Code (Amendment) Bill, which includes teachers or defenders could not be punished or mental impacts, was postponed for another day.
+
+◼️
+
+[Data](articles/eb42c340.json)
+
+[Extended Data](ext_articles/eb42c340.ext.json)
+
+---
+
+### Voyage Sri Lanka 2025 to set sail on 16 October
+
+*2025-09-25 03:09:41* · [`dailyftlk`](https://www.ft.lk/business/Voyage-Sri-Lanka-2025-to-set-sail-on-16-October/34-782142) · `en`
+
+From left: SLPA Harbour Master Capt. Nirmal Silva, EDB Chairman/Chief Executive Officer Mangala Wijesinghe and EDB Acting Director General Erandika Disanayake
+
+The Sri Lanka Export Development Board (EDB) yesterday announced that it will host the second edition of ‘Voyage Sri Lanka’, South Asia’s premier marine summit, on 16 October 2025 at the Kingsbury Hotel in Colombo bringing together global leaders, policymakers, investors, and professionals from across the globe in the field of Blue Economy.
+
+This year’s event will be held under the theme “Unveiling the Blue Economy Potential of Sri Lanka,” highlighting the island nation’s ambition to position itself as a regional hub for marine excellence.
+
+...
+
+[Data](articles/310deddf.json)
+
+[Extended Data](ext_articles/310deddf.ext.json)
+
+---
+
+### Change in the promotion of judges; Is Senior ignored? - Mujibur Rahman
+
+*2025-09-25 03:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226006) · `ta`
+
+When the judges are promoted, the seniority has been given so far. But the system of the National People's Power has been transferred to the government and the system of promotion based on points is affected by senior judges.. Opposition member Mujibur Rahman said the government should take steps to set up a selection committee to seek unjust to the judges.
+
+He said this while addressing the debate on the Penal Code (Amendment) Bill held in Parliament on Wednesday (24).
+
+16 judges have been promoted to the Supreme Court.. 3 members should be appointed by the Court Commission to conduct an interview.
+
+But only two members conducted the interview. The question arises as to why this interview should be conducted without appointing a 3rd member. The 3rd member has been appointed only after the interview.
+
+...
+
+[Data](articles/c381a4d2.json)
+
+[Extended Data](ext_articles/c381a4d2.ext.json)
+
+---
+
+### At risk of court independence; Chief Justice should pay special attention - Dayasiri Jayasekara
+
+*2025-09-25 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226005) · `ta`
+
+Minister Vasantha Samarasinghe was transferred to the court with the court of court because of the arrest of the arrest of the court.. Independent Court Service Officers Association is associated with the government with political purpose. Senior judges are ignored. Cannot accommodate these activities. We will take it to the International Court of Justice, the International Lawyers Association and the Transparency International.. United People's Power MP Dayasiri Jayasekara said the Chief Justice should pay special attention to the independence of the court.
+
+He was speaking at a debate on the Amendment Bill (Amendment) Bill on Wednesday (25) in Parliament.
+
+We gave voice to the ruling side and in the opposition in connection with the independence and legislative theory of the court. Former President Chirani Bandaranaike was summoned to Parliament, inappropriately investigated and dismissed. We fought fiercely against this.
+
+...
+
+[Data](articles/b1a83116.json)
+
+[Extended Data](ext_articles/b1a83116.ext.json)
+
+---
+
+### India, who defeated Bangladesh, entered the Asian Cup as the first team; Sri Lanka is to leave with disappointment
+
+*2025-09-25 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226004) · `ta`
+
+India qualified for the first team in the R20 Asian Cup Super 4 cricket match at the Dubai International Cricket Stadium on Wednesday (24) at the Dubai International Cricket Stadium.
+
+Abhishek Verma's half -century, Kuldeep Yadav, Jasprit Bumrah and Varun Chakraborty played the lead role in India's victory.
+
+Following India's winning match with Bangladesh, the current R 29 Asian Cup Champion was confirmed that Sri Lanka's final chance was lost.
+
+In the meantime, the winning team between Pakistan and Bangladesh on Thursday (25) will qualify for India in the final.
+
+In today's match, India, who were first invited to bat, scored 168 runs for the loss of 6 wickets in 20 overs.
+
+Abhishek Sharma and Shubman Kill shared 77 runs off 38 balls and made India a strong start.
+
+But when Shubman Gill lost 29 runs, India began to play.
+
+Abhishek Sharma, on the other hand, scored 75 runs off 37 balls with six pounds and 5 sixes.
+
+...
+
+[Data](articles/1fbb0fc7.json)
+
+[Extended Data](ext_articles/1fbb0fc7.ext.json)
+
+---
+
+### Woman arrested for giving birth to a child at a modular teaching hospital
+
+*2025-09-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226003) · `ta`
+
+On Tuesday (23), a child of 35 -year -old children, who is working on a 35 -year -old child, who was serving a child at the Surgery Unit of the Batticaloa Teaching Hospital, has been arrested on Tuesday (23).
+
+The mother of two children, who is working in the hospital at the hospital, is the mother of two children.
+
+During this time, he went to the stomach and went to the sewage hall and had a baby girl delivered in a box and hid it under the bed and was on duty.
+
+In this case, a nurse who observed him was admitted to the ward and the doctors who checked him in the ward were found to have a baby and rescued the child who was covered in a box and rescued the child.
+
+The husband of the little girl is serving as a small driver in the hospital and has been living in her husband since last June, and the woman has been living in a 2kg and 485 grams of a baby girl for 38 weeks.
+
+...
+
+[Data](articles/37da0c4b.json)
+
+[Extended Data](ext_articles/37da0c4b.ext.json)
+
+---
 
 ### Zakath and poverty: Why the powerful tool falls short in Sri Lanka
 
@@ -2019,129 +2145,5 @@ Wang Se-Ann said that the entire village of Dama, where about 1,000 people live 
 [Data](articles/99cefd04.json)
 
 [Extended Data](ext_articles/99cefd04.ext.json)
-
----
-
-### Asia-Pacific issuers to have bumpy ride as trade strains hit: S&P Global Ratings report
-
-*2025-09-24 14:29:00* · [`economynextcom`](https://economynext.com/asia-pacific-issuers-to-have-bumpy-ride-as-trade-strains-hit-sp-global-ratings-report-241756/) · `en`
-
-SINGAPORE (S&P Global Ratings) Sept. 24, 2025 — Asia-Pacific’s credit conditions are keeping steady, after strong first-half growth and supportive financing conditions. However, the road ahead looks bumpy. That’s according to a report S&P Global Ratings published today, titled “Credit Conditions Asia-Pacific Q4 2025: On A Jagged Course.”
-
-The “frontloading” of exports and resilient domestic consumption have supported the region’s growth in 2025. However, slower trade will start materializing in fourth-quarter 2025 as effects of tariffs start to unfold. Consequently, we expect Asia-Pacific’s growth to slow to 4.4% in 2025 and 4.0% in 2026.
-
-This combined with other risks could lead to reversals in market sanguinity and easy financing conditions.
-
-...
-
-[Data](articles/719e6edd.json)
-
-[Extended Data](ext_articles/719e6edd.ext.json)
-
----
-
-### Hurricane Ragasa: 20 million people in China
-
-*2025-09-24 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225947) · `ta`
-
-Hurricane Hurricane Since last Monday in Taiwan. The storm is currently heading towards the southern coast of China. Hong Kong is also attacking.
-
-Sea waves rose sharply in Hong Kong. Hundreds of flights were canceled at Hong Kong's International Airport.
-
-Schools are closed in various cities of China. Even supermarkets were empty. There were no people on the streets.
-
-20 million people were taken safely in China's Guangdong Province. By this hurricane, 185 km. The wind blows at the speed. It is 230 km. It was also reported that it would speed up.
-
-Hurricane Hurricane Cynic. Three people have been killed in landslides and floods in the Philippines. Cars, bikes were thrown. They were lying on one another. Hurricane Hurricane Warning has been issued in Hong Kong. The impact of the storm will be till tomorrow morning.
-
-◼️
-
-[Data](articles/7002f6f1.json)
-
-[Extended Data](ext_articles/7002f6f1.ext.json)
-
----
-
-### Demonstration in front of the Presidential Secretariat
-
-*2025-09-24 14:05:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலகத்திற்கு-முன்பாக-ஆர்ப்பாட்டம்/175-365207) · `ta`
-
-The National Organization to defend the rights of soldiers staged a demonstration on Wednesday (24) in front of the Presidential Secretariat in Colombo.
-
-The demonstration was carried out based on a number of demands, including widowing.
-
-Demonstrators marched from Colombo to the Presidential Secretariat to the Presidential Secretariat.
-
-◼️
-
-[Data](articles/9e7e29e7.json)
-
-[Extended Data](ext_articles/9e7e29e7.ext.json)
-
----
-
-### LCs worth USD 1.5 billion opened for vehicle imports so far in 2025
-
-*2025-09-24 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112857/lcs-worth-usd-15-billion-opened-for-vehicle-imports-so-far-in-2025) · `en`
-
-Local banks have opened USD 1,570 million worth of Letters of Credit (LCs) as of September 16, 2025, for the importation of motor vehicles, according to Finance Ministry officials.
-
-This was revealed when the Finance Ministry officials were summoned before the Committee on Public Finance (CoPF) in Parliament.
-
-It was revealed during the Parliamentary Committee on Public Finance meeting that government revenue expectations from vehicle imports are likely to be exceeded by the end of the year.
-
-This was disclosed when CoPF Chairman Dr. Harsha de Silva inquired from Finance Ministry officials pertaining to the expected revenue from vehicles for this year, following the relaxation of imports earlier this year.
-
-Deputy Secretary to the Treasury Dilip Silva in response stated that the government anticipated a tax revenue of Rs. 460 billion for this year.
-
-...
-
-[Data](articles/6283e27e.json)
-
-[Extended Data](ext_articles/6283e27e.ext.json)
-
----
-
-### SriLankan Airlines’s five-year plan to focus on financial stability
-
-*2025-09-24 13:57:00* · [`economynextcom`](https://economynext.com/srilankan-airliness-five-year-plan-to-focus-on-financial-stability-241749/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines’ said its new five-year strategic plan will focus on achieving financial stability, and recovery from recent fleet disruptions, among other matters.
-
-“SriLankan Airlines’ comprehensive five-year strategy is steering the airline towards operational efficiency and recovery from recent fleet disruptions,” the airline said in a statement.
-
-“Moving forward, SriLankan will focus on achieving financial stability through ongoing debt restructuring, fleet expansion, integration of global sustainability practices and adoption of technological innovations to deliver seamless experiences for the passengers.”
-
-The airline said it had optimized fleet management, driven revenue growth, cost rationalisation and restructuring debt in the last year.
-
-“SriLankan Airlines has improved its on-time performance to 74% this year, up from 69% in 2024, driven by agile fleet management despite global engine and spare parts shortages and performance challenges.”
-
-...
-
-[Data](articles/8d95a568.json)
-
-[Extended Data](ext_articles/8d95a568.ext.json)
-
----
-
-### The fate of the Norwood student
-
-*2025-09-24 13:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோர்வூட்-மாணவிக்கு-நேர்ந்த-கதி/76-365206) · `ta`
-
-A student who was coming to the Norwood Tamil Maha Vidyalaya from the Norwood surface has slipped into the street and has been inconvenienced.
-
-The student has been admitted to the Dikoya-Klangan Hospital due to a massive injury on her leg. The incident took place on Tuesday (23).
-
-There is no road to Norwood to Norwood and Norwood Tamil Vidyalaya. With the bomb and the pit and the abyss, there is a need to travel on the cross roads that are not steady,
-
-While on the road, a student slipped and was admitted to the hospital with hardship.
-
-Therefore, the residents have demanded that the responsible people renovate the road and the cross road.
-
-◼️
-
-[Data](articles/360b5cb1.json)
-
-[Extended Data](ext_articles/360b5cb1.ext.json)
 
 ---

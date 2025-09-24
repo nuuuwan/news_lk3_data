@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 19:01:04**
+As of **2025-09-24 19:13:27**
 
 ## Newspaper Stats
 
-*Scraped **77,915** Articles*
+*Scraped **77,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,65 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 788
-economynextcom | 4,695
+economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
 adalk | 7,576
 adaderanalk | 10,109
 tamilmirrorlk | 11,748
-virakesarilk | 12,669
-adaderanasinhalalk | 13,616
+virakesarilk | 12,670
+adaderanasinhalalk | 13,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,915 (100.0%) of 77,915 articles have been extended.
+77,915 (100.0%) of 77,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் கூட்டத்தில் வட, கிழக்கு உறவுகள் பங்கேற்பு
+
+*2025-09-24 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225993) · `ta`
+
+ஜெனிவாவில் 26ஆம் திகதி வெள்ளிக்கிழமை நடைபெறவுள்ள வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் 29 ஆவது கூட்டத்தில் வட, கிழக்கு வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகளின் சங்கத்தின் பிரதிநிதிகளும் பங்கேற்கவுள்ளனர்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஆரம்பமாகி, எதிர்வரும் ஒக்டோபர் மாதம் 8 ஆம் திகதி வரை நடைபெறவுள்ளது.
+
+இக்கூட்டத்தொடருக்கு சமாந்தரமாக வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் 29 ஆவது கூட்டம் கடந்த திங்கட்கிழமை (22) ஆரம்பமாகி, எதிர்வரும் ஒக்டோபர் மாதம் 3 ஆம் திகதி வரை ஜெனிவாவில் நடைபெறவுள்ளது.
+
+ஐக்கிய நாடுகள் சபையின்கீழ் இயங்கிவரும் கிளைக்கட்டமைப்புக்களில் ஒ;றான வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழு என்பது சகல நபர்களையும் வலிந்து காணாமலாக்கப்படல்களிலிருந்து பாதுகாத்தல் தொடர்பான பிரகடனத்தை ஏற்றுக் கையெழுத்திட்டுள்ள உறுப்புநாடுகளால் அப்பிரகடனம் உரியவாறு நடைமுறைப்படுத்தப்படுகின்றதா என்பதைக் கண்காணிப்பதற்கான சுயாதீன நிபுணர்களை உள்ளடக்கியதொரு கட்டமைப்பாகும். இக்குழுவில் உறுப்புநாடுகளால் முன்மொழியப்படும் 10 உறுப்பினர்கள் உள்ளடங்குவர்.
+
+...
+
+[Data](articles/6b069a44.json)
+
+---
+
+### මිදිගම රුවන්ගේ ගෝලයෙක් ගිනිඅවි සමග අත්අඩංගුවට
+
+*2025-09-24 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214969) · `si`
+
+පොලිස් විශේෂ කාර්ය බලකාය අද (24) පස්වරුවේ වැලිගම සහ මිදිගම අතර ප්‍රදේශයන්හි සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී ටී-56 ගිනිඅවි 3ක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සංවිධානාත්මක  පාතාල කල්ලි සාමාජිකයෙකු වන 'මිදිගම රුවන්' ගේ සමීපතමයෙකු බව පොලීසිය පැවසීය.
+
+ලද තොරතුරුකට අනුව අත්අඩංගුවට ගත් සැකකරුගේ ඉදිකරමින් පවතින දෙමහල් නිවසේ උඩුමහල පරීක්ෂා කිරිමේදී මෙම ගිනිඅවි හමුව ඇත.
+
+එහිදී ටී-56 ගිනිඅවි තුනට අමතරව මැගසින් 01 හා උණ්ඩ 30ක්ද පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන් සිය භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු 38 හැවිරිදි වියේ පසුවන වඩු රැකියාවේ නිතරවූ අයෙක් බව පොලීසිය පැවසීය.
+
+ඔහු බූ‍ස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ මේ වනවිට රදවා සිටින මිදිගම රුවන් නමැත්තාගේ පියාගේ වැඩිමහල් සහෝදරියගේ, දියණියගේ ස්වාමිපුරුෂයා බව සඳහන්.
+
+◼️
+
+[Data](articles/17e139da.json)
+
+---
 
 ### Extension of the former Navy Commander
 
@@ -182,6 +222,24 @@ A specific departure date has not yet been confirmed, but informed sources indic
 
 ---
 
+### Nations Trust Bank to buy HSBC Sri Lanka’s business for Rs18bn
+
+*2025-09-24 17:24:00* · [`economynextcom`](https://economynext.com/nations-trust-bank-to-buy-hsbc-sri-lankas-business-for-rs18bn-241802/) · `en`
+
+ECONOMYNEXT – Nations Trust Bank said it has entered into a sale and purchase agreement with The Hongkong and Shanghai Banking Corporation’s Sri Lanka branch (HSBC Sri Lanka) to acquire its retail banking business for 18 billion rupees, and applicable taxes if any.
+
+The proposed acquisition covers HSBC Sri Lanka’s retail banking business including premium banking customers, credit cards, retail loans and accounts of approximately 200,000 customers.
+
+“This transaction was approved by the Board of Directors of NTB on 23 September 2025, and will be funded by internally generated funds, while maintaining all regulatory ratios,” NTB said in the stock exchange filing.
+
+The transaction is expected to reach completion in the first half of 2026, subject to mandatory regulatory approval from the Central Bank of Sri Lanka and “the satisfaction of other conditions precedent as set out in the Sale and Purchase Agreement,” the bank said.
+
+...
+
+[Data](articles/cee98eb6.json)
+
+---
+
 ### Modulers launched grades first and 06
 
 *2025-09-24 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214967) · `si`
@@ -314,6 +372,30 @@ In light of this situation, a special awareness event will be held on October 11
 
 ---
 
+### Sri Lanka rupee flat against dollar, bond yields steady
+
+*2025-09-24 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241796/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/55 to the US dollar on Wednesday, relatively flat from 302.45/60 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.25/32 percent, down from 8.28/33 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2028 closed at 9.08/15 percent, up from 9.05/15 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/56 percent, up from 9.48/54 percent.
+
+A bond maturing on 01.07.2030 closed at 9.68/73 percent, from down 9.68/75 percent.
+
+A bond maturing on 15.12.2032 closed at 10.43/48 percent, up from 10.42/48 percent.
+
+◼️
+
+[Data](articles/e5e2f83c.json)
+
+---
+
 ### NTB to acquire HSBC Sri Lanka’s retail banking business for Rs. 18 billion
 
 *2025-09-24 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112867/ntb-to-acquire-hsbc-sri-lankas-retail-banking-business-for-rs-18-billion) · `en`
@@ -411,6 +493,28 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Jayasuriya and other sen
 [Data](articles/acc49539.json)
 
 [Extended Data](ext_articles/acc49539.ext.json)
+
+---
+
+### Sri Lanka stocks end 0.26-pct higher on financials and capital goods
+
+*2025-09-24 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-0-26-pct-higher-on-financials-and-capital-goods-241779/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) climbed 0.26 percent on Wednesday ending a volatile session, data on its site showed.
+
+The broader ASPI climbed 55.61 points from Tuesday, to end at 21,338.45; while the more liquid S&P SL20 closed 0.13 percent, or 7.92 points higher, at 6,081.06.
+
+The top contributors to the ASPI were Ceylinco Holdings (up 75.00 rupees at 3,175.00), LB Finance (up 8.00 rupees at 149.50), Hayleys (up 3.25 rupees at 188.00), Central Finance Company (up 6.25 rupees at 289.00) and Commercial Bank (up 1.50 rupees at 194.00).
+
+Market turnover was 5.6 billion rupees on Wednesday, while the share volumes was 185,795,899.
+
+Sri Lanka’s Mercantile Investments and Finance PLC said it will seek shareholder approval for a share sub-division which will see an ordinary share split into 200 ordinary shares.
+
+Sri Lanka’s Mercantile Investments and Finance to offer share subdivision
+
+...
+
+[Data](articles/e8233177.json)
 
 ---
 
@@ -642,6 +746,26 @@ In the second phase, all employees reported sick leave in two groups on Septembe
 
 ---
 
+### Sri Lanka sells less than offered treasury bills, yields flat
+
+*2025-09-24 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-yields-flat-241780/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 34 billion rupees of Treasury bills, of an offered 38 billion, with yields flat across maturities, data from the state debt office showed.
+
+The 3-month yield was unchanged at 7.57 percent, with 10 billion rupees of bills offered and 3.21 billion sold.
+
+The 6-month yield was unchanged at 7.89 percent, with 12 billion rupees offered and 29.14 billion sold.
+
+The 12-month yield was unchanged at 8.02 percent with 16 billion rupees offered and 1.98 billion rupees bills sold.
+
+The 3-month and 12-month bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/822effe5.json)
+
+---
+
 ### The best country is named Sri Lankans to visit on October
 
 *2025-09-24 15:33:58* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්තෝබරයේ-සංචාරය-කරන්න-හොඳම-රට-ලංකාව-ලෙස-නම්-කරයි/11-418701) · `si`
@@ -707,6 +831,26 @@ The Magistrate's case was recalled on the 8th of October.
 [Data](articles/c885e510.json)
 
 [Extended Data](ext_articles/c885e510.ext.json)
+
+---
+
+### Sri Lanka central bank chief warns of cryptocurrency’s role in money laundering
+
+*2025-09-24 15:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-chief-warns-of-cryptocurrencys-role-in-money-laundering-241767/) · `en`
+
+ECONOMYNEXT – There is no law on using cryptocurrency as an asset class in Sri Lanka, the central bank governor said, but it raises concerns about money laundering.
+
+“Since cryptocurrency is a relatively new thing, no law has been introduced on cryptocurrency, or virtual currency,” Nandalal Weerasinghe told reporters.
+
+“It cannot be used as legal tender in the country as per our foreign exchange act, but it can be used as an asset class, an investment.
+
+“The problem is, we don’t know if it’s used for money laundering.”
+
+Trade Minister Wasantha Samarasinghe, in his asset declaration, has said he holds 3,000 cryptocurrency, sparking debate on whether or not it is illegal. (Colombo/Sep24/2025)
+
+◼️
+
+[Data](articles/1bd962c3.json)
 
 ---
 
@@ -926,6 +1070,22 @@ Wang Se-Ann said that the entire village of Dama, where about 1,000 people live 
 
 ---
 
+### Asia-Pacific issuers to have bumpy ride as trade strains hit: S&P Global Ratings report
+
+*2025-09-24 14:29:00* · [`economynextcom`](https://economynext.com/asia-pacific-issuers-to-have-bumpy-ride-as-trade-strains-hit-sp-global-ratings-report-241756/) · `en`
+
+SINGAPORE (S&P Global Ratings) Sept. 24, 2025 — Asia-Pacific’s credit conditions are keeping steady, after strong first-half growth and supportive financing conditions. However, the road ahead looks bumpy. That’s according to a report S&P Global Ratings published today, titled “Credit Conditions Asia-Pacific Q4 2025: On A Jagged Course.”
+
+The “frontloading” of exports and resilient domestic consumption have supported the region’s growth in 2025. However, slower trade will start materializing in fourth-quarter 2025 as effects of tariffs start to unfold. Consequently, we expect Asia-Pacific’s growth to slow to 4.4% in 2025 and 4.0% in 2026.
+
+This combined with other risks could lead to reversals in market sanguinity and easy financing conditions.
+
+...
+
+[Data](articles/719e6edd.json)
+
+---
+
 ### Hurricane Ragasa: 20 million people in China
 
 *2025-09-24 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/225947) · `ta`
@@ -985,6 +1145,26 @@ Deputy Secretary to the Treasury Dilip Silva in response stated that the governm
 [Data](articles/6283e27e.json)
 
 [Extended Data](ext_articles/6283e27e.ext.json)
+
+---
+
+### SriLankan Airlines’s five-year plan to focus on financial stability
+
+*2025-09-24 13:57:00* · [`economynextcom`](https://economynext.com/srilankan-airliness-five-year-plan-to-focus-on-financial-stability-241749/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines’ said its new five-year strategic plan will focus on achieving financial stability, and recovery from recent fleet disruptions, among other matters.
+
+“SriLankan Airlines’ comprehensive five-year strategy is steering the airline towards operational efficiency and recovery from recent fleet disruptions,” the airline said in a statement.
+
+“Moving forward, SriLankan will focus on achieving financial stability through ongoing debt restructuring, fleet expansion, integration of global sustainability practices and adoption of technological innovations to deliver seamless experiences for the passengers.”
+
+The airline said it had optimized fleet management, driven revenue growth, cost rationalisation and restructuring debt in the last year.
+
+“SriLankan Airlines has improved its on-time performance to 74% this year, up from 69% in 2024, driven by agile fleet management despite global engine and spare parts shortages and performance challenges.”
+
+...
+
+[Data](articles/8d95a568.json)
 
 ---
 
@@ -1526,6 +1706,24 @@ The case has been filed against former Minister Mervyn Silva accused the former 
 
 ---
 
+### Sanjaya Gunawardana assumes duties as CEO at Sri Lanka’s Sampath Bank
+
+*2025-09-24 11:21:00* · [`economynextcom`](https://economynext.com/sanjaya-gunawardana-assumes-duties-as-ceo-at-sri-lankas-sampath-bank-241735/) · `en`
+
+ECONOMYNEXT – Sanjaya Dias Pujitha Gunawardana has assumed duties as the managing director/chief executive officer of Sri Lanka’s Sampath Bank, effective today, the bank said.
+
+This follows the completion of the term of office of outgoing managing director, Ayodhya Iddawela Perera, on September 23.
+
+Gunawardana holds 6,148 shares, according to the stock exchange filing, and as of the date of her retirement, Perera held 611 shares of the bank.
+
+Sanjaya Gunawardana is a distinguished banking professional with over 36 years of experience across key pillars of the financial services industry, including Retail Banking, Trade Finance, Information Technology, Strategic Planning, and Organizational Development. His multidimensional expertise and visionary leadership have positioned him as a transformative leader in Sri Lanka’s banking sector.
+
+...
+
+[Data](articles/c4e44e6c.json)
+
+---
+
 ### Meeting between President-Volcker Turk
 
 *2025-09-24 11:15:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வோல்கர்-டர்க்-இடையே-சந்திப்பு/175-365195) · `ta`
@@ -1587,6 +1785,30 @@ The President said the President was due to address the United Nations General A
 [Data](articles/d396a25a.json)
 
 [Extended Data](ext_articles/d396a25a.ext.json)
+
+---
+
+### UN Committee on Enforced Disappearances to review Sri Lanka on Sep 26
+
+*2025-09-24 11:09:00* · [`economynextcom`](https://economynext.com/un-committee-on-enforced-disappearances-to-review-sri-lanka-on-sep-26-241728/) · `en`
+
+ECONOMYNEXT – The UN Committee on Enforced Disappearances will review Sri Lanka on September 26 (Friday), from 10:00 to 13:00 and 15:00 to 18:00 (Geneva time).
+
+During the public review, the committee is expected to engage with the state delegation on a range of matters, a statement said.
+
+“Based on the List of Issues (questions and concerns that the Committee sent to the State party after receiving its periodic report), the discussion may cover topics such as:
+
+– progress and outcome of the procedures initiated concerning the 14,988 complaints registered by the Office on Missing Persons;
+
+– legal provisions prevent military authorities from investigating or prosecuting cases of enforced disappearance
+
+(a) The disappearance of members of the Tamil ethnic minority;
+
+(b) The disappearance of protestors in the daily demonstrations that started on 16 March 2022 in Colombo and spread to other areas of the country;
+
+...
+
+[Data](articles/a4cee35e.json)
 
 ---
 
@@ -1893,223 +2115,5 @@ According to the US time, the President will address the General Assembly at 3:1
 [Data](articles/11b2e548.json)
 
 [Extended Data](ext_articles/11b2e548.ext.json)
-
----
-
-### Allegations accused of committing crimes against humanity to the former Philippine president
-
-*2025-09-24 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214943) · `si`
-
-Former President Rodraigo in the Philippines has committed crimes against Dutriette.
-
-It is in connection with the criminal court against him.
-
-Former President Rodraigo Dutriette is considered to be a strict ruler of former President Rodrigo Dutar.
-
-He has taken a strong procedure against drug dealers to suppress the Philippines drug menace in 2016 - 2022, reports say.
-
-Last March, the International Criminal Criminal (ICFI was arrested and produced before the crimes of serious crimes.
-
-The criminal charge sheet related to Duterta has been made public.
-
-In the year 2013 - 2016, he includes the allegations of murders that occurred in the president's postage as well as the mayor of Davo in the Philippines.
-
-Accordingly, the crimes have been committed against humanity of Dutert.
-
-He is the first Asian leader who came to the International Tribunal and International Criminal Court.
-
-◼️
-
-[Data](articles/ff633210.json)
-
-[Extended Data](ext_articles/ff633210.ext.json)
-
----
-
-### New flight between Israel and Sri Lanka
-
-*2025-09-24 09:57:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலுக்கும்-இலங்கைக்கும்-இடையில்-புதிய-விமான-சேவை/175-365182) · `ta`
-
-Sri Lanka's Ambassador to Israel Nimal Bandara has stated that a new aircraft owned by Israel's Erica Airlines will arrive at the Katunayake airport.
-
-He made a report on his official face book on Tuesday (23) regarding the new flight from Israel to Katunayake.
-
-Israel's Erica Airlines (IZ) - 639 will be traveling from Tel Aviv Airport to Colombo Katunayake airport at 6.30 pm on Tuesday.
-
-The flight will arrive today at 6.15 am on Wednesday. Remble
-
-◼️
-
-[Data](articles/affed6fc.json)
-
-[Extended Data](ext_articles/affed6fc.ext.json)
-
----
-
-### Earthquake
-
-*2025-09-24 09:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்தும்முல்லயில்-நிலநடுக்கம்/175-365181) · `ta`
-
-The Badulla Disaster Management Center said that a small earthquake struck at 6.46 and 6.47 pm on Wednesday (24) in Haldummulla, Velanwita, Akkara Seeya, Lemastota, Murudahina and other areas.
-
-It is reported that this is a very small earthquake and the earthquake has not been recorded in Pallekele, Hakmana, Maha Kanadarawa and Ampara, Deputy Director of the Badulla Disaster Management Center EML. Said Udaya Kumara.
-
-However, Haldummulla Divisional Secretary KAG has called for the public to be very vigilant on this sudden earthquake.. Priyankika has asked.
-
-◼️
-
-[Data](articles/c7f98d5f.json)
-
-[Extended Data](ext_articles/c7f98d5f.ext.json)
-
----
-
-### Sri Muniswarar Temple
-
-*2025-09-24 09:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெம்பட்டா-வீதி-ஸ்ரீ-முனீஸ்வரர்-ஆலய-நவா-வரண-ஸ்ரீ-சக்கர-பூஜை/175-365180) · `ta`
-
-The Nawa Varana Sri Chakra Pooja was held on Monday evening (22) to mark the Annual Navratri Festival of Muthumariamman Devasthana, Sri Muniswarar Muthumariamman, Colombo.
-
-International Hindu Faculty Coordinator and Sri Muniswarar Muthumariamman Devasthanam, Colombo, headed by Dr. Sivasree Sivanesan, the chief guru of Sri Muniswarar Muthumariamman, led by Dr. Sivanesan.
-
-The Sarada Navratri Festival and Navaratha Sri Chakra Pooja and Navasakthi Maha Homam will be held for 10 consecutive days from today to 1st.
-
-Every day, Kumbha Pooja, Navavara Sri Chakra Pooja, Muttaviyar Homam, Sairaksha Pooja, Vasantha Mandapu Pooja, Special Deepa Adoration and Veda Thira recitation will be held.
-
-The Sri Durga Puja will be held from the 22nd to the 24th and the Sri Lakshmi Pooja will be held from the 25th to the 27th.
-
-The Sri Saraswati Puja will be held from the 28th to the 30th.
-
-...
-
-[Data](articles/9952e4dd.json)
-
-[Extended Data](ext_articles/9952e4dd.ext.json)
-
----
-
-### Sagara Kariyawasam issues stern warning to ex-MP Thisakutti Arachchi
-
-*2025-09-24 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112850/sagara-kariyawasam-issues-stern-warning-to-ex-mp-thisakutti-arachchi) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) General Secretary and Attorney-at-Law Sagara Kariyawasam has issued a stern warning to former Parliamentarian Thisakutti Arachchi, urging him to refrain from making irresponsible statements at public meetings.
-
-The warning is reported to have been conveyed over the phone.
-
-Thisakutti Arachchi’s recent controversial remarks have raised concerns within the party, prompting the SLPP leadership to issue a strong reprimand.
-
-He has also reportedly been summoned to the party office tomorrow (25).
-
-The remarks in question were made during a meeting held recently in Anuradhapura, where Thisakutti Arachchi stated:
-
-...
-
-[Data](articles/863ec581.json)
-
-[Extended Data](ext_articles/863ec581.ext.json)
-
----
-
-### It is also a nisa cake and isanu
-
-*2025-09-24 09:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அப்பாக்கிட்ட-நைசா-கேக்கனும்-இது-ஐஸானு/62-365179) · `ta`
-
-◼️
-
-[Data](articles/fe0eca87.json)
-
-[Extended Data](ext_articles/fe0eca87.ext.json)
-
----
-
-### Woman death in a vehicle accident
-
-*2025-09-24 09:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீரிகம-வாகன-விபத்தில்-பெண்-மரணம்/175-365178) · `ta`
-
-TS at Mirigama - Basyala Giriulla Road. A woman was killed in a vehicle accident near the junction yesterday.
-
-Police said that the woman on a motorcycle in the area crashed into a heavy vehicle.
-
-The woman was rushed to the Mirigama Hospital, who was rushed to the Mirigama hospital, police said that the accident. Remble
-
-◼️
-
-[Data](articles/10cf20c9.json)
-
-[Extended Data](ext_articles/10cf20c9.ext.json)
-
----
-
-### Earthquake
-
-*2025-09-24 09:31:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்துமுல்லையில்-நில-நடுக்கம்/175-365177) · `ta`
-
-◼️
-
-[Data](articles/dcb1fa3c.json)
-
-[Extended Data](ext_articles/dcb1fa3c.ext.json)
-
----
-
-### Tiskatatate heavily candidate from the ocean
-
-*2025-09-24 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214941) · `si`
-
-Former Parliamentarian Tisakti Arachchi has warned the Secretary-General of the Sri Lanka General Attorney General at the Sri Lanka Public Front.
-
-It is said that the controversial statement of the controversial statements that have been carried out recently in recent years have been made significantly.
-
-In response, the hostile is said to have done this strong admonition.
-
-It is reported that the MP Tisakatti Arachchi has been summoned to the party office tomorrow (25).
-
-Meanwhile, former parliamentarian Aktipsatti Arachchi said, addressing a meeting in Anuradhapura recently,
-
-"The unofficial president of this country for the day of Namal Rajapaksa, this was the president of this country. I'm his nearest friend, the next. I can't go and say that. Tave it to give this. The highest percentage of Sri Lankans wins the Anuradhapura district to go and tell him.. That people in Anuradhapura were treated to you. People in Anuradhapura to treat you now. "
-
-◼️
-
-[Data](articles/ac7837ff.json)
-
-[Extended Data](ext_articles/ac7837ff.ext.json)
-
----
-
-### Interest rates are not different
-
-*2025-09-24 09:19:17* · [`adalk`](https://www.ada.lk/business/පොලී-අනුපාත-වෙනස්-නොවෙයි/7-418689) · `si`
-
-The Central Bank Monetary Policy Board yesterday (23) has decided to maintain financial policy stance, no longer available at the meeting held yesterday (23).. .
-
-Accordingly, the One Day Policy Rate (OPR) has been decided to maintain the current level of 7.75%. The Central Bank announced that the Board was taken to the decision following the careful consideration of local and global development.
-
-The board is that the current monetary policy stance will help to lead inflation to a 5% target.
-
-◼️
-
-[Data](articles/aa8639f7.json)
-
-[Extended Data](ext_articles/aa8639f7.ext.json)
-
----
-
-### FM Vijitha Herath meets Jaishankar to reaffirm strong Sri Lanka-India ties
-
-*2025-09-24 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112849/fm-vijitha-herath-meets-jaishankar-to-reaffirm-strong-sri-lanka-india-ties) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs, Vijitha Herath, held bilateral discussions with India’s External Affairs Minister, S. Jaishankar, on the sidelines of the United Nations General Assembly (UNGA) in the United States, aimed at reaffirming the strong friendship and close cooperation between Sri Lanka and India.
-
-In a post on X (formerly Twitter), Minister Herath stated: “On the sidelines of UNGA in the USA, met with India’s External Affairs Minister, to reaffirm the strong friendship and close cooperation between Sri Lanka and India.”
-
-India’s External Affairs Minister, S. Jaishankar, also commented on the meeting via X, saying it was a pleasure to meet the Sri Lankan Foreign Minister and review the progress of bilateral cooperation.
-
-Minister Herath is accompanying President Anura Kumara Dissanayake, who is in New York to attend the UNGA. The President is scheduled to deliver his address to the General Assembly today (24) at 3:15 p.m. US time.
-
-...
-
-[Data](articles/ab4df014.json)
-
-[Extended Data](ext_articles/ab4df014.ext.json)
 
 ---

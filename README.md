@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 09:39:27**
+As of **2025-09-24 10:09:09**
 
 ## Newspaper Stats
 
-*Scraped **77,809** Articles*
+*Scraped **77,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,135 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,559
+adalk | 7,560
 adaderanalk | 10,088
-tamilmirrorlk | 11,715
+tamilmirrorlk | 11,720
 virakesarilk | 12,661
-adaderanasinhalalk | 13,591
+adaderanasinhalalk | 13,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,807 (100.0%) of 77,809 articles have been extended.
+77,813 (100.0%) of 77,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
 
-### தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம்: மாகாண சபைத் தேர்தலும் 13 ஆவது அரசியலமைப்புத் திருத்தமும் !
+### ஹல்தும்முல்லயில் நிலநடுக்கம்
+
+*2025-09-24 09:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்தும்முல்லயில்-நிலநடுக்கம்/175-365181) · `ta`
+
+ஹல்தும்முல்ல, வெலன்விட்ட, அக்கர சீய, லெமஸ்தோட்ட, முருதஹின்ன மற்றும் பிற பகுதிகளில் புதன்கிழமை (24) மாலை 6.46 மற்றும் 6.47 மணிக்கு ஒரு சிறிய நிலநடுக்கம் ஏற்பட்டதாக பதுளை அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+இது மிகவும் சிறிய அளவிலான நிலநடுக்கம் என தெரிவிக்கப்படுகின்றதுடன்  மேலும் பல்லேகெலே, ஹக்மன, மஹா கனதராவ மற்றும் அம்பாறை ஆகிய பகுதிகளில்  நிலநடுக்கம் பதிவு செய்யப்படவில்லை என பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் துணை இயக்குநர் ஈ.எம்.எல். உதய குமார தெரிவித்தார்.
+
+இருப்பினும், இந்த திடீர் நிலநடுக்கம் குறித்து பொதுமக்கள் மிகவும் விழிப்புடன் இருக்குமாறு ஹல்தும்முல்ல பிரதேச செயலாளர்  கே.ஏ.ஜி. பிரியங்கிகா கேட்டுக் கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/c7f98d5f.json)
+
+---
+
+### ஜெம்பட்டா வீதி ஸ்ரீ முனீஸ்வரர் ஆலய நவா வரண ஸ்ரீ சக்கர பூஜை
+
+*2025-09-24 09:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெம்பட்டா-வீதி-ஸ்ரீ-முனீஸ்வரர்-ஆலய-நவா-வரண-ஸ்ரீ-சக்கர-பூஜை/175-365180) · `ta`
+
+கொழும்பு ஜெம்பட்டாவீதி அருள்மிகு ஸ்ரீ முனீஸ்வரர் முத்துமாரியம்மன் தேவஸ்தான வருடாந்த நவராத்திரி விழாவை முன்னிட்டு  திங்கட்கிழமை (22) அன்று மாலை நவா வரண ஸ்ரீ சக்கர பூஜை நடைபெற்றது.
+
+சர்வதேச இந்துமத பீட இணைப்பாளரும் கொழும்பு ஜெம்பட்டாவீதி ஸ்ரீ முனீஸ்வரர் முத்துமாரியம்மன் தேவஸ்தான பிரதம குருவுமான கலாநிதி சிவஸ்ரீ எஸ்.சிவநேசன் குருக்கள் தலைமையில் முன்னேஸ்வரம் வடிவாம்பிகா சமேத முன்னைநாத பெருமான் ஆலய உற்சவகால பிரதமகுரு சிவஸ்ரீ சிதம்பர ஹரிஹர குருக்கள் பூஜை வழிபாடுகளை நடாத்தினார்.
+
+சாரதா நவராத்திரி விழாவும் நவாவரண ஸ்ரீ சக்கர பூஜையும் நவசக்தி மஹா ஹோமமும் இன்று தொடக்கம் எதிர்வரும் 1ம் திகதி வரை தொடர்ந்து 10 நாட்களுக்கு நடைபெறும்.
+
+தினமும் மாலை கும்ப பூஜை, நவாவரண ஸ்ரீ சக்கர பூஜை, முத்தேவியர் ஹோமம், சாயரட்ச பூஜை, வசந்த மண்டப பூஜை, விசேட தீப ஆராதனை, வேத தோத்திர பாராயணம் என்பன நடைபெறும்.
+
+22ம் திகதி தொடக்கம் 24ம் திகதி வரை ஸ்ரீ துர்க்கா பூஜையும் 25ம் திகதி தொடக்கம் 27ம் திகதி வரை ஸ்ரீ லக்ஷமி பூஜையும் நடைபெறும்.
+
+எதிர்வரும் 28ம் திகதி தொடக்கம் 30ம் திகதி வரை ஸ்ரீ சரஸ்வதி பூஜை நடைபெறும்.
+
+...
+
+[Data](articles/9952e4dd.json)
+
+---
+
+### அப்பாக்கிட்ட நைசா கேக்கனும் இது ஐஸானு
+
+*2025-09-24 09:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/அப்பாக்கிட்ட-நைசா-கேக்கனும்-இது-ஐஸானு/62-365179) · `ta`
+
+◼️
+
+[Data](articles/fe0eca87.json)
+
+---
+
+### Woman death in a vehicle accident
+
+*2025-09-24 09:36:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீரிகம-வாகன-விபத்தில்-பெண்-மரணம்/175-365178) · `ta`
+
+TS at Mirigama - Basyala Giriulla Road. A woman was killed in a vehicle accident near the junction yesterday.
+
+Police said that the woman on a motorcycle in the area crashed into a heavy vehicle.
+
+The woman was rushed to the Mirigama Hospital, who was rushed to the Mirigama hospital, police said that the accident. Remble
+
+◼️
+
+[Data](articles/10cf20c9.json)
+
+[Extended Data](ext_articles/10cf20c9.ext.json)
+
+---
+
+### Earthquake
+
+*2025-09-24 09:31:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹல்துமுல்லையில்-நில-நடுக்கம்/175-365177) · `ta`
+
+◼️
+
+[Data](articles/dcb1fa3c.json)
+
+[Extended Data](ext_articles/dcb1fa3c.ext.json)
+
+---
+
+### Tiskatatate heavily candidate from the ocean
+
+*2025-09-24 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214941) · `si`
+
+Former Parliamentarian Tisakti Arachchi has warned the Secretary-General of the Sri Lanka General Attorney General at the Sri Lanka Public Front.
+
+It is said that the controversial statement of the controversial statements that have been carried out recently in recent years have been made significantly.
+
+In response, the hostile is said to have done this strong admonition.
+
+It is reported that the MP Tisakatti Arachchi has been summoned to the party office tomorrow (25).
+
+Meanwhile, former parliamentarian Aktipsatti Arachchi said, addressing a meeting in Anuradhapura recently,
+
+"The unofficial president of this country for the day of Namal Rajapaksa, this was the president of this country. I'm his nearest friend, the next. I can't go and say that. Tave it to give this. The highest percentage of Sri Lankans wins the Anuradhapura district to go and tell him.. That people in Anuradhapura were treated to you. People in Anuradhapura to treat you now. "
+
+◼️
+
+[Data](articles/ac7837ff.json)
+
+[Extended Data](ext_articles/ac7837ff.ext.json)
+
+---
+
+### The future of Tamil nationalist politics: Provincial Council election and 13th Amendment to the Constitution!
 
 *2025-09-24 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225919) · `ta`
 
-இறுதியாக தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம், 13ஆவது திருத்தத்தையும், மாகாண சபைத் தேர்தலையும் அணுகும் விதம், மற்றும் தமிழ்க் கட்சிகள் தங்களுக்குள் ஒருமித்த கருத்தை உருவாக்கும் திறமையைப் பொறுத்தே அமையும். ஒற்றுமையும், தொலைநோக்குத் திட்டமும் இல்லாவிட்டால், தமிழ்த் தேசியவாத அரசியல் மேலும் பலமிழந்து செல்லும் வாய்ப்புள்ளது.
+Finally, the future of Tamil nationalist politics, the 13th Amendment and the Provincial Council election, and the ability to make a consensus among themselves.. If there is no unity and visionary program, Tamil nationalist politics is likely to fall further.
 
 ◼️
 
 [Data](articles/dce2d5a7.json)
+
+[Extended Data](ext_articles/dce2d5a7.ext.json)
 
 ---
 
@@ -128,6 +232,8 @@ Fire officials said all the dead and missing were in Guangfu, where the waters s
 
 [Data](articles/b0c3837c.json)
 
+[Extended Data](ext_articles/b0c3837c.ext.json)
+
 ---
 
 ### A warning to Trump to Russia in front of world leaders
@@ -213,6 +319,24 @@ Reflecting strengthening domestic demand, core inflation is also expected to pic
 [Data](articles/4a607a97.json)
 
 [Extended Data](ext_articles/4a607a97.ext.json)
+
+---
+
+### Haldummulla is a little seg up
+
+*2025-09-24 07:34:15* · [`adalk`](https://www.ada.lk/breaking_news/හල්දුම්මුල්ලේ-පොලොව-ටිකක්-සෙළවෙයි/11-418686) · `si`
+
+The Disaster Management Center (DMC) said that there was a small shock in the Haldummulla Divisional Secretariat Division in Haldummulla Divisional Secretariat area.. No casualties have been harmed.
+
+The Deputy Director of the Disaster Management Center, the Deputy Director of the Disaster Management Center, has been identified as a very small vibration situation.
+
+However, Haldumulla Divisional Secretary KAG Priyanika has requested the public to be closely concerned about this urgent seismic condition.
+
+◼️
+
+[Data](articles/650a1494.json)
+
+[Extended Data](ext_articles/650a1494.ext.json)
 
 ---
 
@@ -1907,145 +2031,5 @@ The suspect was accepted on the 13th of October on October 13.
 [Data](articles/20f0c72e.json)
 
 [Extended Data](ext_articles/20f0c72e.ext.json)
-
----
-
-### If the national population does not come to power, there will be drug sales in the Tangalle market - Najith
-
-*2025-09-23 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/225887) · `ta`
-
-If the National People's Power -led government had not come to power, the Tangalle area would have been selling drugs in the weekly market. Najith Indika, a parliamentarian of the National People's Power, said that when the drug is captured, only a political party holds a media briefing and criticizes the government's actions.
-
-He was speaking at a debate on the National Building Research Institute Bill held in Parliament on Tuesday (23).
-
-Changed comments about the seizure of drugs are currently referred to. Special attention should be paid to the drug trade and its arrest in the past. When the police go to arrest a politician involved in a drug allegation, the country's president has gone to the place and hugged the politician.
-
-None of the government members in the arrest of cellar groups or drug traders are in front of them to protect them. Because no one involved in such crimes is on the ruling side.
-
-...
-
-[Data](articles/8d1fb096.json)
-
-[Extended Data](ext_articles/8d1fb096.ext.json)
-
----
-
-### The consequences if the government tries to suppress the unions - Namal Rajapaksa warns
-
-*2025-09-23 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/225884) · `ta`
-
-The government must understand that if the trade unions are trying to suppress the union, the result is impossible to act in 1889 and 1988.. Sri Lanka's PA's parliamentarian Namal Rajapaksa said that the country's national agriculture and national production sector has declined in the president's one year regime.
-
-He was speaking at a debate on the National Building Research Institute Bill held in Parliament on Tuesday (23).
-
-A year has passed since the government led by President Anura Kumara Dissanayake.. You can no longer criticize past governments. You have made many promises before the regime.
-
-The growth of the country's agriculture and fisheries sectors in the president's year. The government is working on the stand of importing essential commodities and feeding people. The government should pay special attention to improve national products.
-
-...
-
-[Data](articles/7c4740bf.json)
-
-[Extended Data](ext_articles/7c4740bf.ext.json)
-
----
-
-### Sri Lanka decisive competition in Asia cup today
-
-*2025-09-23 17:33:35* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානයේ-ශ්‍රී-ලංකාවට-තීරණාත්මක-තරගයක්-අද/9-418678) · `si`
-
-Another match participating in the round of the four Supersenda in the Asia Cup Twenty20 tournament will be held today (23).
-
-Sri Lanka and Pakistan are contesting and the contest will commence from 08 pm in Sri Lanka.
-
-◼️
-
-[Data](articles/7999e824.json)
-
-[Extended Data](ext_articles/7999e824.ext.json)
-
----
-
-### Third deaths revealed in Tangalle II ice lorry
-
-*2025-09-23 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214918) · `si`
-
-It has been revealed that three persons innoffed in a house innone house innovated in the Seennamodara area.
-
-The Judicial Medical Officer of the Tangalle Base Hospital Ruwan Nananayakkara has been conducted by the Judicial Medical Officer of the Tangalle Base Hospital.
-
-The deaths have been revealed due to overwhelming injection of beer and heroin.
-
-The bodies of two youths were found in a house in a house in the Tangalle Seennakola, another person was receiving treatment at the Tangalle Base Hospital.
-
-◼️
-
-[Data](articles/f58612e0.json)
-
-[Extended Data](ext_articles/f58612e0.ext.json)
-
----
-
-### The boy who flew in the plane's landing gear
-
-*2025-09-23 17:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமானத்தின்-லேண்டிங்-கியரில்-ஒளிந்து-கொண்டு-பறந்து-வந்த-சிறுவன்/50-365142) · `ta`
-
-A 13 -year -old boy hid in the plane's landing gear box and shocked everyone. The boy from Afghanistan has come.
-
-The boy made the adventure on Monday (22) at 11 am on an Afghan airline KAM Air flight.
-
-Airport security officials have taken care of the boy as they reached the New Delhi airport for 2 hours.
-
-The boy was found with the Afghan Kurda. The authorities confirmed that he was safe. The boy was then handed over to the Central Occupational Security Force.
-
-At the hearing, Kabul said that he had entered the plane's gear box and hid in the air box.. Officials went to the mountain hearing that he had done this in an interest.
-
-The boy was then sent to Afghanistan on the same flight at 12.30 pm.
-
-◼️
-
-[Data](articles/4731f0e0.json)
-
-[Extended Data](ext_articles/4731f0e0.ext.json)
-
----
-
-### Husband shot in foam bread for his wife
-
-*2025-09-23 17:13:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவிக்கு-நுரை-ரொட்டி-சுட்ட-கணவன்/175-365141) · `ta`
-
-The husband, who failed to give his wife a little bit of a tasty bread, had to stand in a village in Galle district in a situation where he had to stand up to his clothes in front of his wife.
-
-There was also his mother -in -law in his house. Other children came to see her whenever the opportunity was available. Whenever they come, they will come to the head with a bundle. On that day, his eldest brother -in -law came. He unloaded many dry food parcels from his car.
-
-After the elder brother -in -law, the owner of the house and his wife took these dry food packets one by one.
-
-Among them, his mind moved towards the packet of bread flour in a polythene bag without a name or village. The thought of making bread to the chicken gravy at night came to his memory. Its taste came to his memory. At the same time, the tons of tons of his mouth came to the saliva. His wife also recommended this white, marriage and white pocket in the polythene bag.
-
-...
-
-[Data](articles/d8cef763.json)
-
-[Extended Data](ext_articles/d8cef763.ext.json)
-
----
-
-### Sri Lanka is a unique site for international trading events - Prime Minister
-
-*2025-09-23 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/225875) · `ta`
-
-Prime Minister Harini Amarasuriya said that Sri Lanka is a unique platform for international trade events and that "SL Mice Expo 2025" is a great opportunity to bring Sri Lanka's name to the international stage.
-
-The Prime Minister said this at the inaugural event of the "SL MICE Expo 2025" exhibition organized by the Sri Lanka Conference Bureau under the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-The exhibition will be held at 100 representatives from 30 countries and the "SL MICE Expo 2025" exhibition will be held for 5 days from today.
-
-Its aim is to make Sri Lanka a leading country in the MICE (Meetings, Incentives, Conferencing, and Exhibitions) field, with the opportunity to showcase and improve their services, products and skills in the domestic and foreign MICE.
-
-...
-
-[Data](articles/28e4c9cf.json)
-
-[Extended Data](ext_articles/28e4c9cf.ext.json)
 
 ---

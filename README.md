@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 08:49:10**
+As of **2025-09-24 09:23:05**
 
 ## Newspaper Stats
 
-*Scraped **77,802** Articles*
+*Scraped **77,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
-adalk | 7,558
+adalk | 7,559
 adaderanalk | 10,087
-tamilmirrorlk | 11,713
+tamilmirrorlk | 11,715
 virakesarilk | 12,660
-adaderanasinhalalk | 13,589
+adaderanasinhalalk | 13,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,802 (100.0%) of 77,802 articles have been extended.
+77,807 (100.0%) of 77,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### The struggle will continue until midnight today
+
+*2025-09-24 08:43:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-வரை-போராட்டம்-தொடரும்/175-365176) · `ta`
+
+Kosala Abeysinghe, president of the Ceylon Electricity Board (CEB) Electricity Technology Association, has said that the struggle to work as per the current law will continue until midnight today.
+
+He said that the final decision would be taken this afternoon after all the trade unions gathered on the upcoming trade union action.. Remble
+
+◼️
+
+[Data](articles/5e3470ec.json)
+
+[Extended Data](ext_articles/5e3470ec.ext.json)
+
+---
+
+### Meeting between Vijitha and Jeyasanka
+
+*2025-09-24 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214940) · `si`
+
+External Affairs Minister Vijitha Herath and Indian Foreign Minister S. A meeting between Jeyzankar has taken place in the United States.
+
+It is in parallel to the United Nations General Assembly session in the country.
+
+Minister Vijitha Herath said that
+
+Minister Vijitha Herath has also joined the United Nations General Assembly to attend the UN General Assembly.
+
+The President is due to address the United Nations General Assembly at 3.15 pm today (24).
+
+The President will hold bilateral discussions with the Secretary General of the United Nations General Secretary and several world heads leaders of the United Nations.
+
+◼️
+
+[Data](articles/a45ad268.json)
+
+[Extended Data](ext_articles/a45ad268.ext.json)
+
+---
+
+### The world's heart-shared love story
+
+*2025-09-24 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214939) · `si`
+
+Foreign media reports, a traditional news team to attack his coach at Oklahoma's in the United States, USA.
+
+The 37-year-old Renan East of the Tigers was killed.
+
+This was the nightmare last Saturday at the Grooler Pines Tiger Reserve at the Grooler Pines Tiger reserve near the Texas Border.
+
+The assault had occurred while calling for Easley and the Tiger audience.
+
+At the moment the LTTE has been raised by Easley, and the tiger's neck and shoulder, foreign media reports that the wife of the LTTE and the small daughter and a spectacular daughter.
+
+It is reported that Israeli's wife has been removed to another cage after the accident occurred.
+
+Easley's body was taken to the State Medical Examiner's Office in Tulsa, Oklahoma.
+
+◼️
+
+[Data](articles/c172fc7c.json)
+
+[Extended Data](ext_articles/c172fc7c.ext.json)
+
+---
 
 ### A warning to Trump to Russia in front of world leaders
 
@@ -55,6 +121,26 @@ At the same time, he has tried to solve several conflicts in the world, but only
 [Data](articles/69c79b25.json)
 
 [Extended Data](ext_articles/69c79b25.ext.json)
+
+---
+
+### Tamil Nadu MPs meet with Indian Ambassador
+
+*2025-09-24 08:02:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-தமிழரசு-எம்-பிக்கள்-சந்திப்பு/175-365175) · `ta`
+
+A meeting between Indian Ambassador to Sri Lanka Santosh Jaw and the Sri Lanka Tamil National Party (TNA) parliamentarians was held yesterday (24).
+
+The meeting was held at the 'India House', the home of the Indian Ambassador in Colombo at 3.30 pm yesterday.
+
+TNA parliamentarians C. Sreedharan, R. Sanakiyan, Dr. P. Sathiyalingam, C.Kukadasan, T. Ravikaran and Dr. E. Sirinath were also present.
+
+It is reported that the problems of the Tamil people of the North and East have been talked about. (A)
+
+◼️
+
+[Data](articles/3437e033.json)
+
+[Extended Data](ext_articles/3437e033.ext.json)
 
 ---
 
@@ -425,6 +511,26 @@ The Department of Meteorology has requested the public to take action to reduce 
 [Data](articles/8216a09a.json)
 
 [Extended Data](ext_articles/8216a09a.ext.json)
+
+---
+
+### Akakira returns to Sri Lanka
+
+*2025-09-24 05:42:35* · [`adalk`](https://www.ada.lk/breaking_news/අකීරා-ගුවන්-සේවය-ලංකාවට-එයි/11-418685) · `si`
+
+Israeli Arkia Airlines will travel to Colombo at Telwa's airport every week on Tuesuwive airport every week. It is scheduled to arrive at the Katunayake Airport at the Katunayake Airport on Wednesday morning.
+
+The plane is due to go across Seychelles due to the banning of Oman and Maldivian aircraft for Israeli aircraft.. The flight is 09.15 hours.
+
+The plane is due to travel to Colombo at 22:30 pm on Wednespirospathy at 05.35 am.
+
+It is informed that the aircraft flying to Israeli tourists once will be activated once.
+
+◼️
+
+[Data](articles/708c62cc.json)
+
+[Extended Data](ext_articles/708c62cc.ext.json)
 
 ---
 
@@ -1949,107 +2055,5 @@ Accordingly, the three-judge bench granted permission and dismissed the petition
 [Data](articles/6627a03f.json)
 
 [Extended Data](ext_articles/6627a03f.ext.json)
-
----
-
-### Explanation for a teenager's head in Hatton
-
-*2025-09-23 16:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-இளைஞனின்-தலையில்-தாக்கியவருக்கு-விளக்கமறியல்/76-365140) · `ta`
-
-The man who attacked and injured a youth in Hatton has been remanded until October 7, on the orders of the Hatton Magistrate's Court Magistrate Peter Poll.
-
-A 30 -year -old family member of the Puppurusa Stoneberg estate and a man in a vehicle, Ambika junction in Hatton city on Thursday. The man who came to the sky then hit the family head. The attacker is the owner of a restaurant in the Kotagala area.
-
-He was attacked in the incident and has now been admitted to the intensive care unit of the Tikoya-Klangan Hospital in a coma.
-
-Hospital sources said that CD scan inspections were carried out at the Kandy Hospital to conduct further tests on his head.. He is the father of a nine -month -old child.
-
-◼️
-
-[Data](articles/dec5fee2.json)
-
-[Extended Data](ext_articles/dec5fee2.ext.json)
-
----
-
-### A petition against the Director of Bribery Commission
-
-*2025-09-23 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225867) · `ta`
-
-A petition on the fundamental rights filed by the President has been withdrawn from the Supreme Court today (23), demanding the appointment of High Court Judge Ranga Dissanayake as the Director General of the Bribery Commission and that the appointment is invalid.
-
-The petition was filed by some of the Vaveltuwa Gnanaprabha Thera and some others.
-
-The hearing of the petition was taken up for hearing today at the three -member court session of Chief Justice Priti Padman Surasena, Mahinda Samarathavardana and Sampath Abeykoon.
-
-At this time, the lawyer appearing on the side of the petitioner informed the court to grant permission to withdraw the petition.
-
-Accordingly, the three -member panel of judges, who granted permission to withdraw the petition, then dismissed the petition.
-
-◼️
-
-[Data](articles/6df06b5f.json)
-
-[Extended Data](ext_articles/6df06b5f.ext.json)
-
----
-
-### Sri Lanka’s Mercantile Investments and Finance to offer share subdivision
-
-*2025-09-23 16:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-mercantile-investments-and-finance-to-offer-share-subdivision-241657/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Mercantile Investments and Finance PLC said it will seek shareholder approval for a share sub-division which will see an ordinary share split into 200 ordinary shares.
-
-3,006,000 ordinary shares of the company are to be split, according the stock exchange filing.
-
-The subdivision of shares will not result in any change to the stated capital of the company, Mercantile Investments and Finance said.
-
-◼️
-
-[Data](articles/ecd46d9b.json)
-
-[Extended Data](ext_articles/ecd46d9b.ext.json)
-
----
-
-### Export earnings exceeding $ 11 billion in the first eight months of 2025
-
-*2025-09-23 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214914) · `si`
-
-The export sector in Sri Lanka has shown a positive level and stable development of the export sector in the first eight months of the year 2025.
-
-Total export earnings is US $ 11554.32 million and a 6.61% growth is compared to 2024.
-
-In August 2025, the total export earnings of the merchandise and services in August 2025 were US $ 1,607.58 million.
-
-Exports, the Export Development Board (EDBSS) says that these reflect the positive impact of strategic efforts to expand the energy and market access to Sri Lanka's export sector.
-
-Mr. Mangala Wijesinghe commented:
-
-...
-
-[Data](articles/0ad0234d.json)
-
-[Extended Data](ext_articles/0ad0234d.ext.json)
-
----
-
-### Sri Lanka’s export earnings hit USD 11.6B in first 8 months of 2025
-
-*2025-09-23 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/112834/sri-lankas-export-earnings-hit-usd-116b-in-first-8-months-of-2025) · `en`
-
-Sri Lanka’s export sector has continued to demonstrate resilience and steady growth during the first eight months of 2025, recording total earnings of US$ 11,554.32 million.
-
-This reflects a strong 6.61% increase compared to the corresponding period in 2024, the Export Development Board (EDB) said in its latest report.
-
-In August 2025 alone, total exports, comprising both merchandise and services reached to US$ 1,607.58 million, recording a 2.57 % year-on-year growth over August 2024. This performance highlights the strength of Sri Lanka’s export sector and the effectiveness of strategies implemented to broaden market access and enhance global competitiveness, the EDB said.
-
-Commenting on the positive results, Mangala Wijesinghe, Chairman and Chief Executive Officer of the Export Development Board (EDB), stated:
-
-...
-
-[Data](articles/a20a154a.json)
-
-[Extended Data](ext_articles/a20a154a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 16:53:41**
+As of **2025-09-24 15:08:02**
 
 ## Newspaper Stats
 
-*Scraped **77,888** Articles*
+*Scraped **77,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,307 +16,21 @@ economynextcom | 4,695
 dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,526
-adalk | 7,571
-adaderanalk | 10,096
-tamilmirrorlk | 11,743
-virakesarilk | 12,668
-adaderanasinhalalk | 13,613
+adalk | 7,569
+adaderanalk | 10,094
+tamilmirrorlk | 11,739
+virakesarilk | 12,667
+adaderanasinhalalk | 13,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,884 (100.0%) of 77,888 articles have been extended.
+77,870 (100.0%) of 77,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
-
-### ජනපති සහ දකුණු අප්‍රිකානු ජනපති අතර හමුවක්
-
-*2025-09-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214964) · `si`
-
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගි වීම සඳහා ඇමරිකා එක්සත් ජනපදයට ගොස් සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දකුණු අප්‍රිකානු ජනාධිපති සිරිල් රමෆෝසා (Cyril Ramaphosa) මහතා අතර හමුව නිව්යෝර්ක් නුවර ONE Plazaහිදී එක්සත් ජනපද වේලාවෙන් 23 වනදා  පස්වරුවේ පැවැත්විණි.
-
-මෙහිදී දකුණු අප්‍රිකානු ජනාධිපතිවරයා විසින් ජනාධිපති අනුර කුමාර දිසානායක මහතාව ඉතා උණුසුම් ලෙස පිළිගනු ලැබීය.
-
-අනතුරුව දෙපාර්ශ්වය අතර ද්විපාර්ශ්වික සාකච්ඡා ආරම්භ වූ අතර, එහිදී දෙරට අතර පවතින සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීම පිළිබඳව අවධානය යොමු විය.
-
-මෙම අවස්ථාව සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, එක්සත් ජාතීන්ගේ සංවිධානයේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත, හිටපු අගවිනිසුරු ජනාධිපති නීතිඥ ජයන්ත ජයසූරිය සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීන් පිරිසක්ද එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/acc49539.json)
-
----
-
-### மஹிந்தவை சந்தித்தார் சந்தோஷ் ஜா
-
-*2025-09-24 16:27:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-சந்தோஷ்-ஜா/175-365217) · `ta`
-
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை, கார்ல்ட்ன் இல்லத்தில், புதன்கிழமை (24) சந்தித்தார்.
-
-இந்த சந்திப்பில்,   இருதரப்பு ஒத்துழைப்பின் பல்வேறு அம்சங்கள் மற்றும்  அரசியல் முன்னேற்றங்கள் குறித்து கலந்துரையாடியுள்ளனர்.
-
-◼️
-
-[Data](articles/c096c4e4.json)
-
----
-
-### ඩිජිටල්කරණයෙන් අධ්‍යාපනයේ සුවිශේෂී පරිවර්තනයක් සිදුකළ හැකියි - අගමැති හරිනි
-
-*2025-09-24 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214963) · `si`
-
-ඩිජිටල් කාර්ය සාධක බලකාය පත්කළේ, අධ්‍යාපන ප්‍රතිසංස්කරණ සිදු කිරීම වෙනුවෙන් බවත්‍ ඩිජිටල්කරණයෙන් අධ්‍යාපන පරිවර්තනයේ සුවිශේෂී වෙනසක් සිදුකළ හැකි බවත් අග්‍රාමාත්‍ය, අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය  ආචාර්ය හරිනි අමරසූරිය මහත්මිය පවසයි.
-
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් දැනුම්වත් කිරීම සඳහා පාර්ලිමේන්තුවේ පැවති අධ්‍යාපනය සඳහා වූ ඩිජිටල් කාර්යසාධක බලකායේ ‍ත්‍රෛමාසික ප්‍රගති සමාලෝචන සාකච්ඡාවට එක් වෙමින් අමාත්‍යවරිය මේ බව සඳහන් කළා ය.
-
-මෙහි දී වැඩිදුරටත් අදහස් දැක්වූ අග්‍රාමාත්‍යතුමිය මෙසේ ද පැවසී ය,
-
-“ඩිජිටල් අධ්‍යාපනය, අධ්‍යාපන  ප්‍රතිසංස්කරණත් සමඟ එක් ව ඉදිරියට යන ක්‍රියාවලියක්. මේ ඩිජිටල් අධ්‍යාපන ප්‍රතිසංස්කරණ වෙනුවෙන් ගත යුතු ඉදිරි පියවර ගැනීමටත් ප්‍රතිපත්ති සකස් කරමින් ඒ සඳහා මග පෙන්වීමටත් අපි අවුරුදු තුනක් සඳහා ඩිජිටල් කාර්ය සාධන බලකාය පත් කළා.
-
-...
-
-[Data](articles/1a74775b.json)
-
----
-
-### பாங்கொக்கில் பாரிய அனர்த்தம்
-
-*2025-09-24 16:24:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாங்கொக்கில்-பாரிய-அனர்த்தம்/50-365216) · `ta`
-
-வஜிரா மருத்துவமனைக்கு முன்னால் சாலையின் ஒரு பகுதி புதன்கிழமை (24) காலை இடிந்து விழுந்ததைத் தொடர்ந்து, புதிய எம்ஆர்டி பர்பிள் பாதை கட்டுமானத்தை தற்காலிகமாக நிறுத்த தாய்லாந்து மாஸ் ரேபிட் டிரான்சிட் அத்தாரிட்டி (எம்ஆர்டிஏ) உத்தரவிட்டுள்ளது.
-
-வஜிரா மருத்துவமனை நிலையம் அருகே இந்த சம்பவம் நடந்ததால், அதிகாரிகள் அந்தப் பகுதியைத் தடுத்து, அருகிலுள்ள குடியிருப்பாளர்களை பாதுகாப்பிற்காக வெளியேற்றினர்.
-
-எம்ஆர்டிஏவின் அறிக்கையின்படி, துணைப் பிரதமரும் போக்குவரத்து அமைச்சருமான பிபாட் ராட்சகிட்பிரகர்ன், துணைப் பிரதமர் மல்லிகா ஜிராபன்வானிச்சிடம், மீட்புப் பணிகளை மேற்பார்வையிட எம்ஆர்டிஏ ஆளுநர் கஜ்பஜோன் உதோம்தம்பாக்டியுடன் சம்பவ இடத்தைப் பார்வையிடுமாறு அறிவுறுத்தினார்.
-
-நிலைமையை விரைவாக நிவர்த்தி செய்யவும் போக்குவரத்தை நிர்வகிக்கவும் எம்ஆர்டிஏ பெருநகர நீர்வழிகள் ஆணையம், பெருநகர மின்சார ஆணையம், தொலைத்தொடர்பு நிறுவனங்கள் மற்றும் உள்ளூர் காவல்துறையினருடன் ஒருங்கிணைந்துள்ளது.
-
-...
-
-[Data](articles/ee8258b5.json)
-
----
-
-### Kottanjane was killed in a constable accident
-
-*2025-09-24 16:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொட்டாஞ்சேனை-கான்ஸ்டபிள்-பஸ்யால-விபத்தில்-பலி/175-365215) · `ta`
-
-Nitambuwa police say that a police constable who was injured when a motorcycle crashed into a tipper on the Basyala Muruthawala ramp in Colombo - Kandy Road
-
-The incident took place on Wednesday (24) and a 33 -year -old SM from Varakapola Mahena, who worked at the Kottanchenai police station.. The deceased is Rukmal.
-
-The accident occurred when a motorcycle collided with a tipper when he tried to overtake another vehicle.
-
-Tipper driver with the help of local residents admitted the injured police constable at the hospital. Police say he died at the time.
-
-◼️
-
-[Data](articles/b8b88766.json)
-
-[Extended Data](ext_articles/b8b88766.ext.json)
-
----
-
-### 1126 complaints of children in seven months
-
-*2025-09-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214962) · `si`
-
-Minister of Women and Child Affairs Saroja Sarajar said that more than 1,000 complaints have been received in the first 7 months of this year.
-
-The Minister of Penal Code, Hon.
-
-She added that children will become severe in housing, school, detention houses, highway.
-
-Minister of Women and Child Affairs Saroja Sarajar said that 1,350 children were filled in last year.
-
-It is also reported that 1,126 children have become fruited during the first 7 months of this year.
-
-◼️
-
-[Data](articles/ebc8e25d.json)
-
-[Extended Data](ext_articles/ebc8e25d.ext.json)
-
----
-
-### The latest situation of the electricity care course
-
-*2025-09-24 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214961) · `si`
-
-Trade unions say the trade union action which opened the Employees of the Ceylon Electricity Federation will not take a strike to strike.
-
-However, they say that the trade union action is being implemented further.
-
-The trade unions have been reported from a few days of the Ceylon Electricity Board to reserve the Ceylon Electricity Board to four sections.
-
-◼️
-
-[Data](articles/cbc3a9c4.json)
-
-[Extended Data](ext_articles/cbc3a9c4.ext.json)
-
----
-
-### Notice to the drivers of Navagamuwa Police Division
-
-*2025-09-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214960) · `si`
-
-Bamiriya police division in Navagamuwa Police Pirivena Maha Viharaya will take place from the 21st to tomorrow (25th).
-
-Accordingly, from 07.00 pm on the date, the sacred relics will visit the streets.
-
-The Perahera begins with the Wata-junction through the Waithota road, along with the Yamama School Mawatha along the Vavuniya road through the Yamama School Mawatha through the Yamama School Mawatha along with the Yamama School Mawatha.
-
-As a result, drivers have been asked to use alternative routes.
-
-From the Kaduwela Wele Junction, crossing the Athurugiriya junction and the vehicles traveling to Athurugiriya junction south. It can be moved to Athurugiriya through Jayawardena Mawatha.
-
-The light vehicles from Athuriya, towards the Kaduwela road from Athuru Road, towards the Kaduwela, towards the Kaduwela road to the Navagamuwa, Sumanatissa Mawatha to the Navagamuwa and Hanwella.
-
-◼️
-
-[Data](articles/ce88ad57.json)
-
-[Extended Data](ext_articles/ce88ad57.ext.json)
-
----
-
-### Former Navy Commander further remanded
-
-*2025-09-24 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214959) · `si`
-
-Polgahawela Magazure Dasurra Dasalla Magazibra Dasadenayake today (24) ordered that Nishantha Ullal (Pension) Nishantha Ullagetenna.
-
-Former Navy Commander (Pension), Rear Admiral (Retired) Sarath Mohoti, who was arrested by Alawwa Police arrested by the police arrested and receiving treatment at the Kurunegala Hospital.
-
-The suspect, the suspects and the 10th suspect in the bail after the case was taken to court.
-
-The former Navy Commander Nishantha Untalhena, former Navy Intelligence Chief of Sarath Mohottenna, was in the Udutadumbara Prison to Squirt Prison.
-
-The case was taken up in the magistrate official studio and the Criminal Investigations Department (CID) said the lawyers and the lawyer of the victims.
-
-The Magistrate's case was recalled on the 8th of October.
-
-◼️
-
-[Data](articles/c885e510.json)
-
-[Extended Data](ext_articles/c885e510.ext.json)
-
----
-
-### Shahruk won the first National Film Award for 'Javan'
-
-*2025-09-24 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214958) · `si`
-
-The Best Actor was awarded the earth award at the 71st National Film Awards in India.
-
-Shahrudu, a 59-year-old Shahrukhan, is growing as 'King Khan' in the Indian film industry for over 30 years.
-
-The President of India was awarded the National Movie Award by the President of India at the Awards held at the Awards held at the Awards yesterday (23) at the Awards, Delhi.
-
-Shahru Rukh Khan wins the film 'Javan' film directed by the Director of the 'Javan' directed by the Director of the Damili Film Director Atley.
-
-Then, a sensitive video had been released to the Social Media, thanks to the entire group, who contributed to their fans, family and siblings and 'Javan'.
-
-"This is a moment when I appreciate the lifetime of life as well as the national award. Thank you very much for the President of the Jururo, the Chairman and ICT and I thought I was suitable for this honor. "
-
-The film 'Javan' became a record blockbuster film in 2023, and his performance was worse among the people.
-
-◼️
-
-[Data](articles/dca2ecc8.json)
-
-[Extended Data](ext_articles/dca2ecc8.ext.json)
-
----
-
-### 15 breast cancer patients in Sri Lanka - 3 deaths
-
-*2025-09-24 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214957) · `si`
-
-Fifteen breast cancer patients have been reported in Sri Lanka and about 3 breast cancer patients die daily.
-
-Speaking at a press conference held at the Health Promotion Bureau today (24), Mrs. Dr. Szani Alahapperuma said that 19,457 cancer patients were identified among women in Sri Lanka.
-
-The doctor states that 5,477 breast cancer patients have been identified among women.
-
-The doctor added that almost 30% of the breast cancer patients, the doctor, said that about 30% of breast cancer patients could be cured.
-
-A total of 15,245 people die due to Sri Lankan cancer, and 798 of these conditions are due to death cancer.
-
-"The first one is the exhibition of cancer at the 10th morning of the Havelock City shopping. There is a program to educate the special doctors at 2 pm, and there are a patients who have been identified as long as they have been diagnosed and overcome earlier before they have been identified early. "
-
-...
-
-[Data](articles/5c6b9073.json)
-
-[Extended Data](ext_articles/5c6b9073.ext.json)
-
----
-
-### "MPs should show that picture"
-
-*2025-09-24 15:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-அந்தப்-படத்தைப்-போட்டுக்-காட்ட-வேண்டும்/175-365209) · `ta`
-
-Chairman Bimal Ratnayake today requested the Parliamentary Committee on Arts and Cultural Affairs to screens the Bollywood film 'Tare Jameen Bur' for parliamentarians.
-
-"After seeing Tare Jamen Bur, it had a huge impact on me and my wife. This inspired us to think about the needs of children.
-
-MPs who don't care about children should watch the film. Otherwise, I propose to give them copies of the DVD, ”the minister said.
-
-◼️
-
-[Data](articles/fddda9e5.json)
-
-[Extended Data](ext_articles/fddda9e5.ext.json)
-
----
-
-### Bomb blast in Norway
-
-*2025-09-24 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225948) · `ta`
-
-A bomb blast took place on Tuesday (23) in Norway's capital, Central Oslo.
-
-Norwegian police said that the second bomb found in the same place had exploded in a controlled manner and a suspect had been arrested for investigation.
-
-No injuries have been reported near the university campus and about 500 meters (546 yards) from the State Palace and the Israeli embassy.
-
-The incident took place a day after drones found near Oslo and Copenhagen's airports.
-
-◼️
-
-[Data](articles/f7c354ed.json)
-
-[Extended Data](ext_articles/f7c354ed.ext.json)
-
----
-
-### China evacuates nearly 2 million as super typhoon Ragasa nears landfall
-
-*2025-09-24 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112859/china-evacuates-nearly-2-million-as-super-typhoon-ragasa-nears-landfall) · `en`
-
-Chinese authorities evacuated 1.9 million residents from the southern Guangdong province as super typhoon Ragasa, the most powerful storm of the year, barreled toward China with winds reaching 241 kph and waves higher than lampposts.
-
-The typhoon forced the shutdown of schools and businesses across at least 10 cities as it approached its expected evening landfall between Yangjiang and Zhanjiang. Hong Kong’s observatory recorded maximum sustained winds of 195 kph near the storm’s centre.
-
-Meanwhile, huge waves battered the coastlines of the city of Zhuhai and Hong Kong.
-
-Hong Kong’s observatory said Ragasa had maximum sustained winds near the centre of about 195 kph, and was forecast to keep moving west or west-northwest.
-
-The winds brought by the storm, which blew away parts of a pedestrian bridge’s roof and uprooted hundreds of trees across the city, have since gradually weakened.
-
-...
-
-[Data](articles/54c50040.json)
-
-[Extended Data](ext_articles/54c50040.ext.json)
-
----
 
 ### The UN. Trump trapped with his wife when he went to the crowd
 
@@ -408,28 +122,6 @@ Demonstrators marched from Colombo to the Presidential Secretariat to the Presid
 
 ---
 
-### LCs worth USD 1.5 billion opened for vehicle imports so far in 2025
-
-*2025-09-24 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112857/lcs-worth-usd-15-billion-opened-for-vehicle-imports-so-far-in-2025) · `en`
-
-Local banks have opened USD 1,570 million worth of Letters of Credit (LCs) as of September 16, 2025, for the importation of motor vehicles, according to Finance Ministry officials.
-
-This was revealed when the Finance Ministry officials were summoned before the Committee on Public Finance (CoPF) in Parliament.
-
-It was revealed during the Parliamentary Committee on Public Finance meeting that government revenue expectations from vehicle imports are likely to be exceeded by the end of the year.
-
-This was disclosed when CoPF Chairman Dr. Harsha de Silva inquired from Finance Ministry officials pertaining to the expected revenue from vehicles for this year, following the relaxation of imports earlier this year.
-
-Deputy Secretary to the Treasury Dilip Silva in response stated that the government anticipated a tax revenue of Rs. 460 billion for this year.
-
-...
-
-[Data](articles/6283e27e.json)
-
-[Extended Data](ext_articles/6283e27e.ext.json)
-
----
-
 ### The fate of the Norwood student
 
 *2025-09-24 13:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோர்வூட்-மாணவிக்கு-நேர்ந்த-கதி/76-365206) · `ta`
@@ -449,26 +141,6 @@ Therefore, the residents have demanded that the responsible people renovate the 
 [Data](articles/360b5cb1.json)
 
 [Extended Data](ext_articles/360b5cb1.ext.json)
-
----
-
-### Tipper Cops Police Constable Billy
-
-*2025-09-24 13:52:53* · [`adalk`](https://www.ada.lk/breaking_news/ටිපර්-රියට-පොලිස්-කොස්තාපල්-බිලි/11-418698) · `si`
-
-Nittambuwa Police say that a motorcycle was rushed to a Tipper at the Kandy-Kandy Highway.
-
-The deceased has been identified as a Warakapola Marahena resident who worked in the incident today.. Rukmal is a 33.
-
-Police constable was injured when the tipper vehicle traveling to Kandy before another vehicle, police said. The police said that the injured was the injured in hospitalized by the driver of the lengthy of the leaders of foreign residents.
-
-The autopsy was scheduled to be held today. The traffic section of the Nittambuwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/d0ae30db.json)
-
-[Extended Data](ext_articles/d0ae30db.ext.json)
 
 ---
 
@@ -568,22 +240,6 @@ Meanwhile, the delegation of all employees has been canceled immediately. Also, 
 
 ---
 
-### Saying before courts who arrest the Udaya
-
-*2025-09-24 13:12:41* · [`adalk`](https://www.ada.lk/breaking_news/උදය-අත්අඩංගුවට-ගන්නවානම්-අධිකරණයට-කලින්-කියනවලු/11-418696) · `si`
-
-The Attorney General informed the Court today that a motion would be informed of the judiciary to arrest him regarding the defamatory statements made by former Member of Parliament MP Udaya Gammanpila.
-
-උදය ගම්මන්පිල මහතා විසින් ගොනු කරන ලද රිට් පෙත්සමක් අභියාචනාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජෙනරාල් සුදර්ශන ද සිල්වා මහතා මේ බව ප්‍රකාශය කළේය.
-
-◼️
-
-[Data](articles/7bb1baef.json)
-
-[Extended Data](ext_articles/7bb1baef.ext.json)
-
----
-
 ### Here's what revealed at the Committee on Vehicle Import
 
 *2025-09-24 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214954) · `si`
@@ -656,23 +312,19 @@ According to Time Out, these places are selected for their seasonal charm, cultu
 
 ---
 
-### Migrant warranty program. 6 crores in water
+### විගමනික හරසර වැඩසටහනට වැය කළ රු. කෝටි 6ක් වතුරේ
 
 *2025-09-24 12:46:47* · [`adalk`](https://www.ada.lk/breaking_news/විගමනික-හරසර-වැඩසටහනට-වැය-කළ-රු--කෝටි-6ක්-වතුරේ/11-418693) · `si`
 
-The National Audit report is issued by the National Audit report that a ceremony has been organized for the assessment of migrant workers.
+විගමනික  ශ්‍රමිකයින් ඇගයිම සදහා  සංවිධානය කොට තිබු විගමනික හරසර වැඩසටහන සදහා රුපියල් මිලියන 63ක මුදලක්  වියදම්කොට තිබුනද  උත්සව  අවස්ථාවේ ලබාදුන් ආහාරපාන හැර  ශ්‍රමිකයින්ගේ  ඉදිරි සුභසාධනය සදහා  ස්වයං රැකියා හෝ  වෙනත් ප්‍රතිලාභ  ලැබි නොතිබු බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
 
-The Audit report states that a sum of Rs.
+පැමිණි ශ්‍රමිකයින් සදහා උපහාර පිදිම සදහා  හිටපු ජනාධිපතිතුමාගේ, හිටපු කම්කරු හා විදේශ රැකියා  අමාත්‍යතුමාගේ සහ  හිටපු  රාජ්‍ය ඇමතිතුමාගේ සුභ පැතුම් තුනක් සහිතව  ලිපිගොනුවක් ප්‍රදානය කිරිමට  රුපියල් දහනමලක්ෂ,තිස්පන්දහසක මුදලක් (1,935,000)  වියදම්කොට තිබු බවද විගණන වාර්තාවේ සදහන් වේ.
 
-222 buses have been spent on 22 buses (8,041,476) for the relevant migrant workers for the festivals (8,041,476). The audit has revealed that additional costs have been increased more than the benefits of workers.
+අදාල විගමනික ශ්‍රමිකයින්  උත්සව සදහා කැදවාගෙන ඒමට   බස්රථ 226ක් සදහා  ලංකා ගමනාගමන මණ්ඩලය වෙත රුපියල් අසුලක්ෂ,හතලිස්එක්දහස්,හාරසියහැත්තැහයක මුදලක් (8,041,476)  වැයකොට තිබුණි. ශ්‍රමිකයින්ගේ ප්‍රතිලාභ වලට වඩා  අමතර වියදම් වැඩිපුර දරා තිබු බවද විගණනය මගින් අනාවරණය කොට ඇත.
 
-This information is included in the Audit Report which is issued to the performance report issued by the Ministry of External Affairs Ministry of External Affairs Ministry.
-
-◼️
+...
 
 [Data](articles/bde27055.json)
-
-[Extended Data](ext_articles/bde27055.ext.json)
 
 ---
 
@@ -2097,5 +1749,339 @@ The Department of Meteorology has requested the public to take action to reduce 
 [Data](articles/8216a09a.json)
 
 [Extended Data](ext_articles/8216a09a.ext.json)
+
+---
+
+### Akakira returns to Sri Lanka
+
+*2025-09-24 05:42:35* · [`adalk`](https://www.ada.lk/breaking_news/අකීරා-ගුවන්-සේවය-ලංකාවට-එයි/11-418685) · `si`
+
+Israeli Arkia Airlines will travel to Colombo at Telwa's airport every week on Tuesuwive airport every week. It is scheduled to arrive at the Katunayake Airport at the Katunayake Airport on Wednesday morning.
+
+The plane is due to go across Seychelles due to the banning of Oman and Maldivian aircraft for Israeli aircraft.. The flight is 09.15 hours.
+
+The plane is due to travel to Colombo at 22:30 pm on Wednespirospathy at 05.35 am.
+
+It is informed that the aircraft flying to Israeli tourists once will be activated once.
+
+◼️
+
+[Data](articles/708c62cc.json)
+
+[Extended Data](ext_articles/708c62cc.ext.json)
+
+---
+
+### Pakistan will allow Sri Lanka to continue
+
+*2025-09-24 05:18:32* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-ඉදිරියට-යාමට-ඇති-ඉඩ-පාකිස්තානය-අහුරයි/9-418683) · `si`
+
+Pakistan won the five wickets in a crop to compete in the final match of the Asia Cup.
+
+Accordingly, both of the matches of the Superstone of the Superstance are more likely to leave the tournament.
+
+Sri Lanka remains to be held with India. Indian team continues to be screened in the tournament. Bangladesh and Pakistan are winning.
+
+Sri Lanka scored 133 runs for the loss of 8 wickets. In reply, Pakistan won 138 runs in 18 overs and scored 138 runs.
+
+◼️
+
+[Data](articles/f80b8490.json)
+
+[Extended Data](ext_articles/f80b8490.ext.json)
+
+---
+
+### Increase the amount of the elderly
+
+*2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-தொகை-அதிகரிக்கும்/175-365173) · `ta`
+
+In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
+
+According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
+
+In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
+
+Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
+
+The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Relief.
+
+◼️
+
+[Data](articles/3a4fbc16.json)
+
+[Extended Data](ext_articles/3a4fbc16.ext.json)
+
+---
+
+### The number of elderly people will increase by 24.8 percent by 2052
+
+*2025-09-24 04:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியோர்-எண்ணிக்கை-2052இல்-24-8-சதவீதம்-அதிகரிக்கும்/175-365173) · `ta`
+
+In 2006, the Cabinet approved the National Equality and National Policy on Senior Citizens of Sri Lanka.
+
+According to changing trends, it has been identified that the national equality of Sri Lanka's senior citizens has been embraced with time.
+
+In addition, the United Nations's economic and social unit has been identified as a need to improve the welfare and rights of the elderly by the United Nations economic and social unit, which is required to increase the population over 60 years by 2052.
+
+Accordingly, the 'National Policy of Sri Lanka' has been prepared in accordance with the 'Senior Senior Citizen', the 'Senior Senior Citizens' and the Meaningful Life', to provide facilities for the elderly for social, economic, physiological, spiritual and spiritual satisfactory life.
+
+The Cabinet has approved the national policy submitted by the Minister of Rural Development, Social Security and Social Reinforcement.
+
+◼️
+
+[Data](articles/880dbe91.json)
+
+[Extended Data](ext_articles/880dbe91.ext.json)
+
+---
+
+### The Anura government has also deceived Tamils
+
+*2025-09-24 04:30:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களை-அனுர-அரசும்-ஏமாற்றியுள்ளது/175-365172) · `ta`
+
+The Government of Tamil National Alliance (TNA) Batticaloa district parliamentarian R. Sanakiyan said that the state of the Tamil people has been deceived by the Tamil people.
+
+As President Anuragumara Dissanayake, a year after his swearing in, the promises made to the Tamil people have not been fulfilled.
+
+He was speaking at a debate on the National Building Research Institute Bill held in Parliament on Tuesday (23).
+
+Moreover, when the president's term ends in one year, no one should question what you have done in a year, the first week of this month, in the Northern and other provinces, urgent development work has begun in the Northern and other provinces.. A few developments have been launched in a hurry so as not to be humiliated.
+
+The government did not even take preliminary steps to provide a stable solution to the basic problem faced by the Tamil people. The government has stated that it will resolve the land release issue. But those promises have not yet been fulfilled.
+
+...
+
+[Data](articles/a29a222a.json)
+
+[Extended Data](ext_articles/a29a222a.ext.json)
+
+---
+
+### Fertilizer available in a timely manner
+
+*2025-09-24 04:25:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-காலத்தில்-உரம்-கிடைக்கும்/175-365171) · `ta`
+
+"The government has taken steps to obtain fertilizer without delay in a timely manner without delay, and the Tea Council has allocated Rs 2000 million.
+
+Ajantha Kammethake MP at the time of the oral answer in Parliament on Tuesday (23). In response to the questions raised, he added
+
+“Tea cultivation in the plantation industry has recently declined. The problem of fertilizer was mainly due to the lack of fertilizer in the past.. The resolutions made without fertilizer were the opposite of a major crisis. In that way, the tea crops have fallen and we have fertilized for it in the past year.
+
+There were troubles from the people that the fertilizer was supplied only through a company and that there was a delay in fertilizer supply. Some parties also put forward the idea of ​​getting fertilizer from other companies.
+
+Subsequently, we have obtained the permission of the Cabinet to create a new system in the distribution of fertilizer with all the ideas.
+
+...
+
+[Data](articles/ce6141ab.json)
+
+[Extended Data](ext_articles/ce6141ab.ext.json)
+
+---
+
+### Will you accept it right now?
+
+*2025-09-24 04:19:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்போதாவது-ஏற்றுக்கொள்வீர்களா/175-365170) · `ta`
+
+You rejected the no -confidence motion against Deputy Defense Minister Aruna Jayasekara, noting that the Deputy Ministers were not authorized. But he is currently appointed as the Defense Response Minister. So, will you now accept that the no -confidence motion we submitted is correct?  Gayantha Karunathilaka MP, the prime minister of the opposition parties. He questioned the Speaker.
+
+He also said that President Anura Kumara Dissanayake has visited the United States on an official state visit.
+
+In Article 2 of the Objective Ordinance Act, it is thought that when a minister has any duty or blackness of the government, he is assumed that the powers have been granted by the President.. It is considered to be appointed by the person properly.
+
+...
+
+[Data](articles/c5002271.json)
+
+[Extended Data](ext_articles/c5002271.ext.json)
+
+---
+
+### Model Sri Lanka is a unique site
+
+*2025-09-24 03:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தனித்துவமான-தளமாகும்/175-365169) · `ta`
+
+Prime Minister Harini Amarasuriya said that Sri Lanka is a unique platform for international trade events and that "SL Mice Expo 2025" is a great opportunity to bring Sri Lanka's name to the international stage.
+
+The SL Mice Exp0 2025 Exhibition organized by the Sri Lanka Conference Bureau (SLCB) under the Ministry of Foreign Affairs, Foreign Employment and Tourism was held on September 23 at the Cinnamon Life Hotel, Colombo.
+
+100 representatives from 30 countries will be participating in the exhibition and the "SL Mice Expo 2025" exhibition will be held for 5 days.
+
+Its aim is to make Sri Lanka a leading country in the field of MICE (Meetings, Incentives, Conferencing, and Exhibitions) and gives the opportunity to showcase and improve their services, products and skills in the domestic and foreign MICE.
+
+...
+
+[Data](articles/b5041a7c.json)
+
+[Extended Data](ext_articles/b5041a7c.ext.json)
+
+---
+
+### Let us accept the unreasonable
+
+*2025-09-24 03:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியாயமற்றதை-ஏற்றுக்கொள்ளோம்/175-365168) · `ta`
+
+The Great Cultural Festival of India and Sri Lanka will be held in Colombo, the capital of Sri Lanka on the 17th of December.
+
+About ten leading singers from India will participate in the event and sing the Tamil film songs. Along with them, famous singers, including Hatton Salim of Sri Lanka, will also show their music.
+
+This cultural festival will be coordinated by the Tamil and Sinhala art forms and strengthening the friendship between the two countries.. In particular, government school students from Tamil Nadu have participated in special dances to restore the endangered traditional Tamil arts.
+
+At this event, Sri Lankan ministers and social elders will be the special guests.
+
+A media briefing to explain this was held in Colombo. During this time, Dr. SM, the International Chairman of the World Tamil Arts and Cultural Art Gallery. According to Rashmi Rumi,
+
+...
+
+[Data](articles/29057993.json)
+
+[Extended Data](ext_articles/29057993.ext.json)
+
+---
+
+### Gaza, genocide and Sri Lanka’s dilemma of conscience
+
+*2025-09-24 03:04:54* · [`dailyftlk`](https://www.ft.lk/columns/Gaza-genocide-and-Sri-Lanka-s-dilemma-of-conscience/4-782109) · `en`
+
+The finding by the United Nations that genocide is occurring in Gaza is an inflection point
+
+The Government should support civil society and free media at home. Journalists should not be threatened for reporting on Gaza
+
+Last week, the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, chaired by former UN High Commissioner for Human Rights Navi Pillay, concluded that Israel has committed genocide in Gaza.
+
+The Commission of Inquiry found that four out of the five acts defined under the 1948 Genocide Convention are being carried out. They are: killing, causing serious bodily or mental harm, deliberately inflicting conditions of life calculated to bring about the destruction of the Palestinians in whole or in part, and imposing measures intended to prevent births.
+
+...
+
+[Data](articles/1810bfaf.json)
+
+[Extended Data](ext_articles/1810bfaf.ext.json)
+
+---
+
+### NPP Government’s shamelessness over Gaza
+
+*2025-09-24 02:59:31* · [`dailyftlk`](https://www.ft.lk/opinion/NPP-Government-s-shamelessness-over-Gaza/14-782108) · `en`
+
+What is glaring, however, is just how completely the NPP has capitulated
+
+Among the hopes many had for the NPP Government when it was elected one year ago was that it would move Sri Lanka to actually opposing the devastating genocide Israel was carrying out against the Palestinian people in Gaza. What the NPP Government has gone on to do since then has been the opposite. A look at its positions on Palestine, its actions while in Government and its own past unearths a shamelessness which all Sri Lankans must contend with.
+
+...
+
+[Data](articles/1adb75fc.json)
+
+[Extended Data](ext_articles/1adb75fc.ext.json)
+
+---
+
+### NPP Government’s shamelessness over Gaza
+
+*2025-09-24 02:59:31* · [`dailyftlk`](https://www.ft.lk/columns/NPP-Government-s-shamelessness-over-Gaza/4-782108) · `en`
+
+What is glaring, however, is just how completely the NPP has capitulated
+
+Among the hopes many had for the NPP Government when it was elected one year ago was that it would move Sri Lanka to actually opposing the devastating genocide Israel was carrying out against the Palestinian people in Gaza. What the NPP Government has gone on to do since then has been the opposite. A look at its positions on Palestine, its actions while in Government and its own past unearths a shamelessness which all Sri Lankans must contend with.
+
+...
+
+[Data](articles/f8ffc9b4.json)
+
+[Extended Data](ext_articles/f8ffc9b4.ext.json)
+
+---
+
+### Who cries for Hambantota, and why?
+
+*2025-09-24 02:56:36* · [`dailyftlk`](https://www.ft.lk/columns/Who-cries-for-Hambantota-and-why/4-782107) · `en`
+
+Hambantota is not merely an alternative; it is a practical solution to systemic inefficiencies in Sri Lanka’s current LPG supply chain
+
+This article is written to set the record straight in response to misleading narratives about the recent Litro Gas tender. It is not about protecting one company’s interest, but about revealing how Hambantota, if rationally utilised, can deliver long-overdue benefits to Sri Lanka’s economy and people.
+
+For time immemorial, Sri Lanka has been a decisive node in global trade. From the days of the Silk Route, Ceylon—as it was then called—connected East and West. Historical records from the Godawaya port in Hambantota show how this southern coast played a role in international trade centuries ago. After 75 years of independence, despite every Government repeating Hambantota’s location-specific advantage as an election slogan, little was done to convert that advantage into real economic prosperity.
+
+...
+
+[Data](articles/4a4b52b7.json)
+
+[Extended Data](ext_articles/4a4b52b7.ext.json)
+
+---
+
+### Sri Lanka’s next big green industry
+
+*2025-09-24 02:47:57* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-next-big-green-industry/4-782103) · `en`
+
+Eco-conscious travellers look for destinations that practise what they preach, and packaging, often overlooked, can reinforce Sri Lanka’s positioning as a responsible, ethical destination
+
+Sustainable food packaging is no longer about simply replacing plastic with paper. The real test lies in creating systems that deliver food safety, preserve shelf life, and meet consumer convenience, all while being environmentally responsible. What matters now is how packaging performs across its entire lifecycle: from raw material sourcing and production to disposal and reuse. That’s where real impact begins.
+
+...
+
+[Data](articles/524e65b7.json)
+
+[Extended Data](ext_articles/524e65b7.ext.json)
+
+---
+
+### Empowering Sri Lanka’s youth: Building globally recognised career pathways beyond university
+
+*2025-09-24 02:44:58* · [`dailyftlk`](https://www.ft.lk/columns/Empowering-Sri-Lanka-s-youth-Building-globally-recognised-career-pathways-beyond-university/4-782102) · `en`
+
+This article serves as Part II of the series originally published in the Daily FT under the title “Reimagining Sri Lanka’s university system.” I collaborated with a fellow civil engineer who graduated from the University of Moratuwa in 1987 and has since charted an impressive career path in the international corporate sector via the Asia Pacific Region. He brings a wealth of insight into the vocational training landscape in both Singapore and Australia. He also shares valuable perspectives drawn from his role on the External Advisory Committee for the practical undergraduate degree programs at Western Sydney University.
+
+...
+
+[Data](articles/86934acf.json)
+
+[Extended Data](ext_articles/86934acf.ext.json)
+
+---
+
+### EU agrees to $ 9.4 m grant to push sustainable development
+
+*2025-09-24 02:23:25* · [`dailyftlk`](https://www.ft.lk/business/EU-agrees-to-9-4-m-grant-to-push-sustainable-development/34-782092) · `en`
+
+European Union Ambassador to Sri Lanka Carmen Moreno (left) and Treasury Secretary Dr. Harshana Suriyapperuma
+
+Financing to restore degraded ecosystems, targeted conservation strategies, and sustainable land use
+
+Will also develop solid waste management systems to protect environment, improve public health
+
+The Finance Ministry yesterday said that it had signed a Euro 8 million ($ 9.4 million) grant agreement with the European Union to support the country’s sustainable economic recovery through biodiversity conservation and waste management.
+
+The $ 9.4 million grant, provided by the European Union, will support a project jointly developed by the Ministry of Public Administration, Provincial Councils and Local Government, the Ministry of Environment, and the EU.
+
+The initiative will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices.
+
+...
+
+[Data](articles/ae324c22.json)
+
+[Extended Data](ext_articles/ae324c22.ext.json)
+
+---
+
+### MAS Intimates’ COO Ruwan Keragala joins Ambeon Holdings Board
+
+*2025-09-24 02:22:16* · [`dailyftlk`](https://www.ft.lk/business/MAS-Intimates-COO-Ruwan-Keragala-joins-Ambeon-Holdings-Board/34-782091) · `en`
+
+Ambeon Holdings PLC has appointed Ruwan Keragala as an Independent Non-Executive Director of the company.
+
+Keragala is the Chief Operating Officer of MAS Intimates Ltd., Sri Lanka’s largest exporter with a revenue of around $ 1 billion. He previously served as the Finance Director of MAS Intimates for over seven years.
+
+Additionally, he serves as the Deputy Chairperson of a national Buddhist TV channel and a Buddhist social enterprise, ‘Jaya Media Network’.
+
+Keragala holds a Bachelor’s Degree in Business Administration with a First-class Honour, specialised in Human Resource Management from the University of Colombo and holds an MBA from the Imperial College, University of London. He has done his executive Education at the Harvard Business School and INSEAD campus.
+
+He is a Fellow member of the Chartered Institute of Management Accountants UK and the Association of Certified Chartered Accountants UK and an Associate Member of the Chartered Institute of Sri Lanka.
+
+...
+
+[Data](articles/e6159a78.json)
+
+[Extended Data](ext_articles/e6159a78.ext.json)
 
 ---

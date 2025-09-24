@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 20:38:36**
+As of **2025-09-24 20:56:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,947 (100.0%) of 77,948 articles have been extended.
+77,948 (100.0%) of 77,948 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -564,19 +564,21 @@ President Anura Kumara Dissanayake stated that following an unprecedented econom
 
 ---
 
-### ක්‍රිප්ටෝ කරන්සි ගැන ලංකාවේ තවමත් නීතියක් නෑ
+### Sri Lanka has no rule yet about Crypto Kankasy
 
 *2025-09-24 17:41:18* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිප්ටෝ-කරන්සි-ගැන-ලංකාවේ-තවමත්-නීතියක්-නෑ/11-418704) · `si`
 
-ක්‍රිප්ටෝ මුදල් සම්බන්ධයෙන් ලංකාව තුළ නීතියක් නොමැති බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පැවැසිය.‍ මුදල් ප්‍රතිපත්ති විවරණය සම්බන්ධයෙන් පැවැති මාධ්‍ය හමුවකදී යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසිය.‍
+Central Bank Governor Dr. Nandalal Weerasinghe said that there was no law in Sri Lanka over Crippable money.
 
-"දැනට නීතියක් නෑ. නීතියක් නැති දේකට නීති විරෝධිද නීතිගතද කියන්න අමාරුයි. නිතියක් නැත්නම් නිතියක් ගේන්න ඕන
+"There is no law. It is difficult to say that lawfuls and lawlessness to what is not lawless. Need to take a law or law
 
-යම්කිසි කාලයකදී.  බැංකු පද්ධතිය හරහා මේ වෙනුවෙන් ගෙවීම් කරන්න බෑ. මේ ගැන අපි රජයට යෝජනා කර තිබෙනවා මේ ගැන කටයුතු කරන්න කමිටුවක් පත්කරන්න කියලා. මේක ප්‍රතිපත්ති තීරණයක් රජයෙන් මේ ගැන සාකච්ඡා කරද්දි එකගත්වයක් තිබෙනවා."
+In some time.  Payments cannot be made through the banking system. We have proposed to the government to appoint a committee to deal with this. This is unlikely when the government discusses this matter. "
 
 ◼️
 
 [Data](articles/4a6ad482.json)
+
+[Extended Data](ext_articles/4a6ad482.ext.json)
 
 ---
 

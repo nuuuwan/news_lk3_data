@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-24 09:23:05**
+As of **2025-09-24 09:39:27**
 
 ## Newspaper Stats
 
-*Scraped **77,807** Articles*
+*Scraped **77,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,32 @@ dailymirrorlk | 4,733
 islandlk | 4,781
 dailyftlk | 5,525
 adalk | 7,559
-adaderanalk | 10,087
+adaderanalk | 10,088
 tamilmirrorlk | 11,715
-virakesarilk | 12,660
+virakesarilk | 12,661
 adaderanasinhalalk | 13,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,807 (100.0%) of 77,807 articles have been extended.
+77,807 (100.0%) of 77,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-24 (Wednesday)
+
+### தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம்: மாகாண சபைத் தேர்தலும் 13 ஆவது அரசியலமைப்புத் திருத்தமும் !
+
+*2025-09-24 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/225919) · `ta`
+
+இறுதியாக தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம், 13ஆவது திருத்தத்தையும், மாகாண சபைத் தேர்தலையும் அணுகும் விதம், மற்றும் தமிழ்க் கட்சிகள் தங்களுக்குள் ஒருமித்த கருத்தை உருவாக்கும் திறமையைப் பொறுத்தே அமையும். ஒற்றுமையும், தொலைநோக்குத் திட்டமும் இல்லாவிட்டால், தமிழ்த் தேசியவாத அரசியல் மேலும் பலமிழந்து செல்லும் வாய்ப்புள்ளது.
+
+◼️
+
+[Data](articles/dce2d5a7.json)
+
+---
 
 ### The struggle will continue until midnight today
 
@@ -95,6 +107,26 @@ Easley's body was taken to the State Medical Examiner's Office in Tulsa, Oklahom
 [Data](articles/c172fc7c.json)
 
 [Extended Data](ext_articles/c172fc7c.ext.json)
+
+---
+
+### Super Typhoon Ragasa kills 14 in Taiwan, leaves 124 missing
+
+*2025-09-24 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112848/super-typhoon-ragasa-kills-14-in-taiwan-leaves-124-missing) · `en`
+
+Fourteen people have died in Taiwan’s popular tourist hub in the eastern county of Hualien, with 124 missing after a barrier lake in the mountains overflowed to deluge a town during a typhoon, the fire department said on Wednesday.
+
+Taiwan has been lashed since Monday by the outer rim of Super Typhoon Ragasa, now hitting China’s southern coast and the Asian financial hub of Hong Kong.
+
+The barrier lake, formed by landslides triggered by earlier heavy rain in the island’s sparsely populated east, burst its banks on Tuesday afternoon to send a wall of water into the township of Guangfu.
+
+The water hit like a “tsunami”, said a Guangfu postman who gave his family name of Hsieh, though he was able to flee to the second floor of the post office just in time. Later, he got home to find his car had been swept into the living-room.
+
+Fire officials said all the dead and missing were in Guangfu, where the waters swept away a major road bridge across a river.
+
+...
+
+[Data](articles/b0c3837c.json)
 
 ---
 
@@ -2015,45 +2047,5 @@ Its aim is to make Sri Lanka a leading country in the MICE (Meetings, Incentives
 [Data](articles/28e4c9cf.json)
 
 [Extended Data](ext_articles/28e4c9cf.ext.json)
-
----
-
-### All services relating to electricity will be approved tomorrow to approve parliament tomorrow
-
-*2025-09-23 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214917) · `si`
-
-The Gazette notification issued by President Anura Kumara Dissanayake is due to be presented to the Parliament tomorrow (24) to conclude all the services of the provision of electricity.
-
-The Secretary General of Parliamentary Secretariat was deciding on the Committee on Parliamentary Affairs.
-
-The publication of the Gazette, No. 2454/68, on 21.09.1979, will be presented to the Gazette No. 2454/61 under the Essential Public Service Act No. 61 of 1979.
-
-◼️
-
-[Data](articles/e4912e4f.json)
-
-[Extended Data](ext_articles/e4912e4f.ext.json)
-
----
-
-### FR petition against appointment of Bribery Commission DG withdrawn
-
-*2025-09-23 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112835/fr-petition-against-appointment-of-bribery-commission-dg-withdrawn) · `en`
-
-The Fundamental Rights petition challenging the appointment of High Court Judge Ranga Dissanayake as the Director General of the Commission to Investigate Allegations against Bribery or Corruption (CIABOC) and the President’s recommendation to the Constitutional Council for the appointment has been withdrawn before the Supreme Court today (23).
-
-The petition had been filed by a group including the Chief Incumbent of the Udawalawe Soma Viharaya, Ven. Wewelduwa Gnanaprabha Thero.
-
-The case was taken up before a three-judge bench of the Supreme Court comprising Chief Justice Preethi Padman Surasena, Justice Mahinda Samayawardhena, and Justice Sampath Abeykoon.
-
-During the hearing, the attorney representing the petitioner sought the court’s permission to withdraw the application.
-
-Accordingly, the three-judge bench granted permission and dismissed the petition.
-
-◼️
-
-[Data](articles/6627a03f.json)
-
-[Extended Data](ext_articles/6627a03f.ext.json)
 
 ---

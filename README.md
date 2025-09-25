@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 15:38:42**
+As of **2025-09-25 15:56:05**
 
 ## Newspaper Stats
 
-*Scraped **78,102** Articles*
+*Scraped **78,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,591
+adalk | 7,592
 adaderanalk | 10,149
-tamilmirrorlk | 11,775
+tamilmirrorlk | 11,778
 virakesarilk | 12,708
 adaderanasinhalalk | 13,642
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 13,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,102 (100.0%) of 78,102 articles have been extended.
+78,102 (100.0%) of 78,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### தூங்கிகொண்டிருந்த கணவனை, கோடாரியால் கொத்திய மனைவி
+
+*2025-09-25 15:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தூங்கிகொண்டிருந்த-கணவனை-கோடாரியால்-கொத்திய-மனைவி/76-365274) · `ta`
+
+தூங்கிக்கொண்டிருந்த கணவனை அவருடைய மனைவி கோடாரியால் கொத்திய சம்பவம், மொனராகலை பொலிஸ் பிரிவுக்குட்பட்ட பொத்துவில் வீதி 19 ஆம் கட்டை பிரதேசத்தில் வீடொன்றில் இடம்பெற்றுள்ளதாக  பொத்துவில் பொலிஸார் தெரிவித்தனர்.
+
+நான்கு குழந்தைகளின் தந்தையான 43 வயதுடைய குடும்பஸ்தர்  திங்கட்கிழமை (22) அன்று இரவு 9 மணியளவில் வீடு திரும்பி,  தூங்கிக்கொண்டிருந்துள்ளார். இந்த சம்பவம், செவ்வாய்க்கிழமை (23) காலை 6:30 மணியளவில் இடம்பெற்றுள்ளது.
+
+வேறொரு பெண்ணுடன் கணவர் தொடர்பில் இருப்பதாக கிடைத்த தகவலுக்கமைய  இந்த தாக்குதல் நடத்தப்பட்டதாக மனைவியிடம் மேற்கொள்ளப்பட்ட ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+இதில் பலத்த காயமடைந்த கணவன் சியம்பலாண்டுவ ஆதார மருத்துவமனையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக மொனராகலை மாவட்ட பொது மருத்துவமனைக்கு மாற்றப்பட்டார்.
+
+தற்போது மொனராகலை மாவட்ட பொது மருத்துவமனையின் தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வருகிறார்.
+
+சந்தேக நபரான நாற்பது வயதுடைய பெண், பொலிஸாரால் கைது செய்யப்பட்டு சியம்பலாண்டுவ நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/8b9ab4c3.json)
+
+---
+
+### பாராளுமன்ற சமையலறைக்குள் எலிகள்?
+
+*2025-09-25 15:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-சமையலறைக்குள்-எலிகள்/175-365273) · `ta`
+
+நேற்று (24) மேற்கொள்ளப்பட்ட ஆய்வின் போது, ​​பாராளுமன்ற சமையலறைக்குள் எலிகள் அல்லது சுகாதாரமற்ற நிலைமைகள் இருப்பதற்கான எந்த ஆதாரமும் கிடைக்கவில்லை என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் பிரசாத் சிறிவர்தன தெரிவித்தார்.
+
+சேமிப்புப் பகுதிகள் கண்ணாடி மற்றும் வலைகளால் பாதுகாக்கப்பட்டதாகவும், ஊழியர்கள் தொடர்ந்து தூய்மையைப் பராமரித்து வருவதாகவும் சிறிவர்தன கூறினார்.
+
+கடந்த 35 ஆண்டுகளில் பாராளுமன்றத்தில் வழங்கப்படும் உணவின் தரம் குறித்து எந்த முறைப்பாடும் வரவில்லை என்றும், சபாநாயகரின் கருத்துக்கள் ஊழியர்களின் கண்ணியம் மற்றும் மரியாதைக்கு தீங்கு விளைவிப்பதாகவும் அவர் கூறினார்.
+
+இருப்பினும், வசதிகள் பழுதடைந்த நிலையில் இருப்பதாகவும் சிறிவர்தன சுட்டிக்காட்டினார். ஏழு அடுப்புகளில் ஆறு அடுப்புகள் செயலிழந்து, உபகரணங்கள் உடைந்து, ஓடுகள் தேய்ந்து, வெளியேற்றும் மின்விசிறிகள் செயல்படவில்லை, கழிப்பறைகள் கூட மோசமான நிலையில் இருப்பதை அவர் கவனித்தார்.
+
+ஊழியர்கள் மேலும் சிரமத்திற்கு ஆளாகாமல் இருப்பதை உறுதி செய்வதற்காக, இந்தக் குறைபாடுகளை உடனடியாக நிவர்த்தி செய்யுமாறு அவர் அதிகாரிகளை வலியுறுத்தினார்.
+
+...
+
+[Data](articles/0d690aae.json)
+
+---
+
+### மனுஷ நாணயக்காரவுக்கு அழைப்பாணை
+
+*2025-09-25 15:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்காரவுக்கு-அழைப்பாணை/175-365272) · `ta`
+
+முன்னாள் தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார, லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவில் (CIABOC) ஆஜராகுமாறு அழைக்கப்பட்டுள்ளார்.
+
+நாளை (26) காலை 9.30 மணிக்கு ஆணையத்தின் முன் ஆஜராகுமாறு அவருக்கு உத்தரவிடப்பட்டுள்ளதாக CIABOC தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/7d26b85e.json)
+
+---
 
 ### Ranil condolences on behalf of the monks
 
@@ -51,6 +107,20 @@ The former President has sent a Nirvana healing of Nirvana healing the monks who
 [Data](articles/f035ebb6.json)
 
 [Extended Data](ext_articles/f035ebb6.ext.json)
+
+---
+
+### කථානායකවරයාට එරෙහිව විශ්වාසභංගයක්
+
+*2025-09-25 14:57:45* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහිව-විශ්වාසභංගයක්/11-418720) · `si`
+
+කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාට  එම ධුරය දැරීමට සුදුසුකම් නොමැති බවත්, කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට තීරණයක් ගෙන ඇති බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී. පෙරේරා මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේ දී අද(25දා) අදහස් පළ කරමින් හෙතෙම  මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f4829a2a.json)
 
 ---
 
@@ -1939,75 +2009,5 @@ Speaking at the UN Headquarters in New York on the 25th morning Sri Lanka time, 
 [Data](articles/230607f9.json)
 
 [Extended Data](ext_articles/230607f9.ext.json)
-
----
-
-### President urges world leaders to commit themselves to building a safe world
-
-*2025-09-25 04:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112887/president-urges-world-leaders-to-commit-themselves-to-building-a-safe-world) · `en`
-
-President Anura Kumara Dissanayake, addressing the 80th session of the United Nations General Assembly, urged world leaders to commit themselves wholeheartedly to building a safe world for future generations. The President stressed that nations must walk hand in hand, not apart.
-
-Speaking at the UN Headquarters in New York this morning (25), the President expressed deep concern over the ongoing humanitarian catastrophe in the Gaza Strip. He called for an immediate ceasefire, the unhindered delivery of humanitarian aid and the release of hostages by all parties, in line with agreements reached by the United Nations and other stakeholders. He further emphasized that strong international pressure must be applied to halt the continuing violence and killings.
-
-...
-
-[Data](articles/570b5115.json)
-
-[Extended Data](ext_articles/570b5115.ext.json)
-
----
-
-### Dileepan's 38th Emotional Final Memorial Discussion
-
-*2025-09-25 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226012) · `ta`
-
-A discussion on the final day of the day was organized by the Sampoor Alangulam Knight Tuilumillam Nivendal organizer in Trincomalee on Wednesday (24).
-
-Dileepan's 38th Nivendalai district was discussed during a discussion on 26.09.2025 on 26.09.2025.
-
-The President of the Memorial Organization Committee, K. Pannabhasan, said in 1987 when the Sri Lankan Indian Agreement was in effect in Sri Lanka, the Indian Peacekeeping Force against the atrocities of the Indian Peacekeeping Force in Sri Lanka "We are invited on behalf of the Alangulam Heroes Tuilumillam organizing committee to attend all the people in the Kulakottan Hall in Trincomalee.
-
-◼️
-
-[Data](articles/a09ba4f7.json)
-
-[Extended Data](ext_articles/a09ba4f7.ext.json)
-
----
-
-### President meets President Portugal with President
-
-*2025-09-25 04:09:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்த்துக்கல்-ஜனாதிபதியுடன்-ஜனாதிபதி-அநுர-சந்திப்பு/175-365250) · `ta`
-
-President Anura Kumara Dissanayake, who has traveled to the United States to attend the 80th General Assembly of the United Nations, has been engaged in bilateral talks with Portugal President Marcelo Rebello de Suza.
-
-The meeting was held in New York City yesterday afternoon at the United Nations Permanent Representative's Office in the US.
-
-The meeting was attended by External Affairs Minister Vijitha Herath and Sri Lanka's permanent representative of the United Nations, former Chief Justice of the United Nations, President's Attorney Jayantha Jayasuriya.. (A)
-
-◼️
-
-[Data](articles/b7798492.json)
-
-[Extended Data](ext_articles/b7798492.ext.json)
-
----
-
-### President meets Australian Prime Minister
-
-*2025-09-25 04:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-பிரதமருடன்-ஜனாதிபதி-சந்திப்பு/175-365249) · `ta`
-
-President Anura Kumara Dissanayake, who visited the United States to attend the 80th General Assembly session of the United Nations, met with Australian Prime Minister Anthony Albanis.
-
-The meeting was held in New York City yesterday afternoon at the United Nations Permanent Representative's Office in the US.
-
-The meeting was attended by External Affairs Minister Vijitha Herath and Sri Lanka's permanent representative of the United Nations, former Chief Justice of the United Nations, President's Attorney Jayantha Jayasuriya.. (A)
-
-◼️
-
-[Data](articles/f9be53f6.json)
-
-[Extended Data](ext_articles/f9be53f6.ext.json)
 
 ---

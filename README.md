@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 18:22:17**
+As of **2025-09-25 18:45:24**
 
 ## Newspaper Stats
 
-*Scraped **78,129** Articles*
+*Scraped **78,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,121 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,595
+adalk | 7,596
 adaderanalk | 10,154
 tamilmirrorlk | 11,782
 virakesarilk | 12,713
-adaderanasinhalalk | 13,648
+adaderanasinhalalk | 13,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,125 (100.0%) of 78,129 articles have been extended.
+78,129 (100.0%) of 78,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### இந்தியா,ரஷ்யா, ருமேனியா துறவிகளும் மரணம்
+### ජනපති අද එක්සත් ජාතීන්ගේ මහ ලේකම් හමුවෙයි
+
+*2025-09-25 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215007) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ එක්සත් ජාතීන්ගේ මහ ලේකම් අන්තෝනියෝ ගුටේරෙස් මහතා අතර හමුව ශ්‍රී ලංකා වේලාවෙන් අද (25) රාත්‍රියේ පැවැත් වීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+එමෙන්ම, ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජනපදයේ වෙසෙන ශ්‍රී ලාංකිකයින් සමග හමුවකටද අද සහභාගී වෙයි.
+
+මේ අතර විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද අද රාජ්‍ය තාන්ත්‍රික හමුවීම් රැසකට එක්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/e8b066b2.json)
+
+---
+
+### 2026 දී අධ්‍යාපන ක්ෂේත්‍රයේ ඩිජිටල් පරිවර්තනයකට සැලසුම්
+
+*2025-09-25 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215006) · `si`
+
+2026 වසරේ මාර්තු වනවිට අධ්‍යාපන ක්‍ෂේත්‍රයේ ඩිජිටල් පරිවර්තනයට අදාළ ප්‍රතිපත්ති රාමුව සම්මත කරගැනීම සඳහා අමාත්‍ය මණ්ඩල අනුමතියට යොමු කිරීමට අපේක්ෂා කරන බව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධව ඩිජිටල් කාර්ය සාධක බළකායේ සැලැස්ම ඉදිරිපත් කරමින් එම නිලධාරීහු පවසා තිබේ.
+
+අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ අනු කාරක සභාව අග්‍රාමාත්‍ය සහ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය ආචාර්ය හරිනි අමරසූරියගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී මේ බව පවසා ඇත.
+
+මෙහිදී අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධව ඩිජිටල් කාර්ය සාධක බලකායේ යෝජිත සැලැස්ම ඉදිරිපත් කරමින් එම නිලධාරිහු අංශය 6ක් ඔස්සේ මෙම ප්‍රතිසංස්කරණ තුළ ඩිජිටල් ක්‍රියාවලිය සිදු කිරීමේ අවශ්‍යතාව පෙන්වා දී තිබේ.
+
+ඒ අනුව ඩිජිටල්කරණය ඔස්සේ ගුරු හිඟයට සාධනීය පිළිතුරක් අපේක්ෂා කරන බව ඔවුන් පවසා ඇත.
+
+...
+
+[Data](articles/ea4b0a42.json)
+
+---
+
+### The death of India, Russia and Romania
 
 *2025-09-25 17:48:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-ரஷ்யா-ருமேனியா-துறவிகளும்-மரணம்/175-365284) · `ta`
 
-குருநாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் வண்டி, புதன்கிழமை (24) இரவு 9 மணியளவில் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் பௌத்த  துறவிகள் ஏழுபேர் உயிரிழந்துள்ளனர்.
+Seven Buddhist monks were killed when a cable carriage broke out at 9 pm on Wednesday (24) at 9 pm.
 
-விபத்து இடம்பெற்ற சந்தர்ப்பத்தில் அதில், பௌத்த  துறவிகள் 13 பேர் பயணித்துள்ளனர். மரணித்த துறவிகளில் வெளிநாடுகளைச் சேர்ந்த துறவிகளும் அடங்குகின்றனர். காயங்களுக்கு உள்ளான ஆறு துறவிகளும் குருநாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். அவர்களில் சிலரின் நிலைமை கவலைக்கிடமாக உள்ளது என்றும் அறியமுடிகின்றது.
+At the time of the accident, 13 Buddhist monks traveled. The dead monks include foreign monks. Six of the wounds have been admitted to the Kurunegala Hospital. It is also known that the situation of some of them is worrisome.
 
-மலை உச்சியில் உள்ள தியானக் குடில்களை நெருங்கும் போது இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the accident occurred when the meditation huts at the top of the hill are approaching.
 
-மரணமடைந்த துறவிகளில் ரஷ்யா, ருமேனியா மற்றும் இந்தியாவைச் சேர்ந்த மூன்று துறவிகளும் அடங்குவர்.  27 வயதுக்கும் 48 வயதுக்கும் இடைப்பட்ட துறவிகளே மரணமடைந்துள்ளனர்.
+The deceased monks include three monks from Russia, Romania and India.  The monks between the ages of 27 and 48 have died.
+
+Dhamma Ranjit Thera (47) from Romania, Dhamma Rakitha Thera (34 years old) from Russia, Dhamma Kaveshi Thera (34 years old) from India, Uttara Nanda Thera (27 years old) from Navalapitiya, Sudha Sumana Thera (37) and Nugakoda Thera (37).
+
+Although seven people can travel simultaneously in the cable car, 13 monks traveled it at the time of the accident, police say.
 
 ...
 
 [Data](articles/458d4cb2.json)
 
+[Extended Data](ext_articles/458d4cb2.ext.json)
+
 ---
 
-### ”ஒரு பெரிய சத்தம் திடீரென்று கேட்டது”
+### “A big noise suddenly heard”
 
 *2025-09-25 17:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-பெரிய-சத்தம்-திடீரென்று-கேட்டது/175-365283) · `ta`
 
-" காட்டுப் பக்கத்திலிருந்து ஒரு பெரிய சத்தம் திடீரென்று,  கேட்டது. சிறிது நேரத்திலேயே, மடத்தில் இருந்து ஒரு சமிக்ஞை கொடுக்கப்பட்டது, அது அவசரநிலையைக் குறிக்கிறது. அதன் பிறகுதான் நாங்கள் அனைவரும் சம்பவ இடத்திற்குச் சென்றோம்," என்று உள்ளூர்வாசி ஒருவர் கூறினார்.
+"A great noise from the wild side suddenly, heard. A signal from the monastery was given in a while, it refers to the emergency. It was only then that we all went to the scene, ”said a locals.
 
-குருநாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் வண்டி, புதன்கிழமை (24) இரவு 9 மணியளவில் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் பௌத்த  துறவிகள் ஏழுபேர் உயிரிழந்துள்ளனர்.
+Seven Buddhist monks were killed when a cable carriage broke out at 9 pm on Wednesday (24) at 9 pm.
 
-விபத்து இடம்பெற்ற சந்தர்ப்பத்தில் அதில், பௌத்த  துறவிகள் 13 பேர் பயணித்துள்ளனர். மரணித்த துறவிகளில் வெளிநாடுகளைச் சேர்ந்த துறவிகளும் அடங்குகின்றனர். காயங்களுக்கு உள்ளான ஆறு துறவிகளும் குருநாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். அவர்களில் சிலரின் நிலைமை கவலைக்கிடமாக உள்ளது என்றும் அறியமுடிகின்றத.
+At the time of the accident, 13 Buddhist monks traveled. The dead monks include foreign monks. Six of the wounds have been admitted to the Kurunegala Hospital. It is also known that the situation of some of them is worrisome.
 
-மலை உச்சியில் உள்ள தியானக் குடில்களை நெருங்கும் போது இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர். இந்த சம்பவம் தொடர்பில், என்று உள்ளூர்வாசி ஒருவர் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தனர்.
+Police say the accident occurred when the meditation huts at the top of the hill.. A local resident said in a statement on the incident.
 
 ◼️
 
 [Data](articles/6d4133a3.json)
 
+[Extended Data](ext_articles/6d4133a3.ext.json)
+
 ---
 
-### ප්‍රංශයේ හිටපු ජනපතිට වසර පහක සිර දඬුවමක්
+### Former French President sentenced to five years in prison
 
 *2025-09-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215005) · `si`
 
-ප්‍රංශයේ හිටපු ජනාධිපති නිකොලස් සාකෝසිට වසර පහක සිර දඬුවමක් නියම කර තිබේ.
+Former President Nicolas Sarkow has been sentenced to five years in prison.
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ, ලිබියානු නායක කර්නල් මුඅම්මර් ගඩාෆිගෙන් යුරෝ මිලියන ගණනක නීතිවිරෝධී අරමුදල් ලබා ගැනීමේ නඩුවකට වරදකරු වූ හිටපු ප්‍රංශ ජනාධිපති මෙලෙස වසර පහක සිර දඬුවමක් නියමකළ බවය.
+Foreign media reports that the former French president was convicted of the lawsuit of euros for millions of euros from Libyan leader Colonel Mumammer Gaddafige.
 
-අක්‍රීය දූෂණය සහ නීතිවිරෝධී මැතිවරණ ප්‍රචාරක කටයුතු සඳහා මුදල් සැපයීම ඇතුළු මෙම නඩුවේ අනෙකුත් සියලු චෝදනාවලින් පැරිස් අපරාධ අධිකරණය ඔහුව නිදොස් කොට නිදහස් කළේය.
+The Paris Criminal Court was acquitted of all other accusations in the case, including providing money for the inactive corruption and illegal election propaganda.
 
-මෙම නඩුව දේශපාලනික වශයෙන් අභිප්‍රේරණය වූවක් බව පවසන සාකෝසි, 2007 මැතිවරණ ව්‍යාපාරයට මුදල් යෙදවීම සඳහා ගඩාෆිගෙන් ලැබුණු අරමුදල් භාවිතා කළ බවට චෝදනා එල්ල විය.
+Sarkozy said that the case was politically motivated by the 2007 election campaign.
 
-ඒ වෙනුවට, බටහිර රටවල් හමුවේ ගඩාෆිගේ කීර්ති නාමයට එරෙහිව සටන් කිරීමට සර්කෝසි උදව් කරන බවට පොරොන්දු වූ බව පැමිණිල්ලේ චෝදනාව විය.
+Instead, the complaint was accused of supporting Gaddafi's reputation against Gaddafi's reputation in the West.
 
-70 හැවිරිදි සාකෝසි 2007 සිට 2012 දක්වා ප්‍රංශයේ ජනාධිපතිවරයා විය.
+70-year-old Sarkoy was the President of France from 2007 to 2012.
 
 ◼️
 
 [Data](articles/44317dba.json)
+
+[Extended Data](ext_articles/44317dba.ext.json)
 
 ---
 
@@ -120,6 +164,20 @@ However, despite risk signals, the two women have arrested the two women to take
 
 ---
 
+### සචිත්‍ර සේනානායකට අධිචෝදනා
+
+*2025-09-25 17:15:52* · [`adalk`](https://www.ada.lk/sports/සචිත්‍ර-සේනානායකට-අධිචෝදනා/9-418723) · `si`
+
+2020 වසරේ ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය අතරතුර ක්‍රීඩකයෙකුට තරග පාවා දීම සම්බන්ධයෙන් හිටපු ක්‍රිකට් ක්‍රීඩක සචිත්‍ර සේනානායක හට නීතිපතිවරයා විසින් අධිචෝදනා ගොනුකර තිබු අතර ඒ අනුව හම්බන්තොට මහාධිකරණ විනිසුරු දුමින්ද මුදුන්කොටුව විසින් අද (25) දින අධිචෝදනා භාරදීම සිදුකරනු ලැබුවා.
+
+සචිත්‍ර සේනානායක වෙනුවෙන් පිනිසිටි අජිත් පතිරණ මහතා ප්‍රමුඛ නීතිඥ කණ්ඩායම විසින් අධිකරණය මහින් ඉල්ලා සිටියේ සචිත්‍ර සේනානායක විදේශ රටක ක්‍රීඩා කරනවා සේම විදෙස් රටක රැකියාවක් කරන බැවින් පනවා තිබු විදෙස් ගමන් තහනම ඉවත්කරන ලෙස ගරු මහාධිකරණය  මගින් ඉල්ලිමක් කර අතර පසුව එය සලකා බලමින් නොවැම්බර් 27 තෙක් තාවකාලිකව ඔහුට පනවා තිබු  විදෙස් ගමන් තහනම ඉවත් කරන ලදී, එමෙන්ම රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප දෙකක් මත සචිත්‍ර සේනානායක මුදා හැරීමටද හා නැවත මෙම නඩුව 2025 නොවැම්බර් 27ට කැඳවීමට  අධිකරණය නියෝග කරන ලදී.
+
+...
+
+[Data](articles/3040abc2.json)
+
+---
+
 ### Adult offer to banks tomorrow
 
 *2025-09-25 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215003) · `si`
@@ -138,17 +196,23 @@ The Elderly Allowance of the Advancement of the Reward of the Reward of Hollower
 
 ---
 
-### මිල වැඩිවීමත් සමග ලොතරැයි අලෙවිය සියයට 37කින් පහළට
+### Lottery sales down 37 percent following the price increases
 
 *2025-09-25 16:58:07* · [`adalk`](https://www.ada.lk/breaking_news/මිල-වැඩිවීමත්-සමග-ලොතරැයි-අලෙවිය-සියයට-37කින්-පහළට/11-418722) · `si`
 
-ජාතික ලොතරැයි මණ්ඩලය විසින්  ලොතරැයිපතක මිල රුපියල් 40 දක්වා වැඩිකිරිමෙන් පසු ඉකුත් වර්ෂයේ දි (2024)  අලෙවිකර තිබු  ලොතරැයිපත් සංඛ්‍යාව  හතලිස්හත්කෝටි,හැටදෙලක්ෂ,හතලිස්හයදහස් දෙකක්  (476,246,002)  දක්වා සියයට 37කින් පහත වැටි ඇති බැව්  ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට  ඇති විගණන වාර්තාවක සදහන් වේ.
+The National Lotteriation Board (NDB) has been selected by the National Audit Office by the National Audit Office by 40 percent to 40 percent to 40 percent to 40 percent to 40 percent to 40 percent to 40 percent to 40 percent of the National Lotterity Board.
 
-ලොතරැයි මණ්ඩලය විසින් 2023 වර්ෂයේ ජුලි මස 06 වැනිදින සිට එතෙක් රුපියල් 20කට අලෙවිකරණු ලැබු ලොතරැයිපතක මිල රුපියල් 40 දක්වා  සියයට සියයකින් වැඩිකරතිබුණි. මිල වැඩිකිරිමට පෙර ආසන්න වශයෙන්  වර්ෂයකට ලොතරැයිපත්  එකසියවිසිනම කෝටි,අසුලක්ෂ,නමදහස්නමසිය හතලිස්දෙකක් (1,298,009,942) අලෙවිකොට තිබුණි.
+The lottery had increased one to Rs.. Before price hike, approximately one year older importance per annum was saladed by millions of billions, calendar, or forty-five (1,298,942).
 
-...
+Lottery reports in the last year after price hike, 4, seventeenth, 2nd thousands of six hundred and forty. (821,763,940) The audits recommended that steps should be taken to develop the sale of lotteries. The Lotteries The audit has stated that lottery will not be essential for customer goods and services. The lottery board has stated that the lottery board is also a product that highlights the consumer victory in the consumer.
+
+The National Lotteries Board is in the audit report issued by the National Lotteries Board.
+
+◼️
 
 [Data](articles/ec08de11.json)
+
+[Extended Data](ext_articles/ec08de11.ext.json)
 
 ---
 
@@ -1955,61 +2019,5 @@ Top attractions include relaxing on the golden beaches of Mirissa and Bentota, e
 [Data](articles/6d99abf6.json)
 
 [Extended Data](ext_articles/6d99abf6.ext.json)
-
----
-
-### PPP project to revive Paranthan Chemicals firm
-
-*2025-09-25 08:02:18* · [`dailyftlk`](https://www.ft.lk/business/PPP-project-to-revive-Paranthan-Chemicals-firm/34-782166) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved calling for expressions of interest (EoIs) from both local and foreign investors to implement a public-private partnership (PPP) project on a 30-acre site allocated from Paranthan Chemicals Company Ltd.
-
-The initiative seeks to re-establish a caustic soda and chlorine manufacturing facility at the former premises of the Paranthan Chemical Factory. Paranthan Chemicals has already completed a feasibility study and is preparing detailed plans to restart operations at the site.
-
-Currently, the company imports chlorine for nationwide distribution, as the entire domestic requirement for water purification depends on imports. Officials have warned that this reliance leaves the country’s water purification system vulnerable to global supply chain disruptions.
-
-...
-
-[Data](articles/d442196e.json)
-
-[Extended Data](ext_articles/d442196e.ext.json)
-
----
-
-### Govt. plans to reposition Batticaloa into tourism hub
-
-*2025-09-25 08:01:21* · [`dailyftlk`](https://www.ft.lk/business/Govt-plans-to-reposition-Batticaloa-into-tourism-hub/34-782165) · `en`
-
-CAASL Chairman Sunil Jayarathne and officials discuss on the Batticaloa Airport runway
-
-The Government is preparing to transform Batticaloa into a hub for tourism and strengthen the national economy. The initiative aims to position the Eastern Province town as a unique tourist destination by capitalising on its geographical advantages, historical significance, and natural beauty.
-
-The Government expects the project to unlock fresh tourism opportunities in the Eastern Province and contribute to broader efforts to diversify Sri Lanka’s tourism offering.
-
-Under the proposed plan, the Government is exploring aerial entertainment and adventure sports in a bid to boost recreational and adventure aviation activities that would make Batticaloa Airport an attraction for both local and foreign tourists. The cultural heritage and scenic environment surrounding the airport are expected to complement these efforts.
-
-...
-
-[Data](articles/16488100.json)
-
-[Extended Data](ext_articles/16488100.ext.json)
-
----
-
-### IIT Madras Pravartak Technologies Foundation forges technology, entrepreneurship ties with Sri Lanka
-
-*2025-09-25 08:00:20* · [`dailyftlk`](https://www.ft.lk/business/IIT-Madras-Pravartak-Technologies-Foundation-forges-technology-entrepreneurship-ties-with-Sri-Lanka/34-782164) · `en`
-
-In a bid to deepen Indo-Lanka collaboration in technology, innovation, research, and entrepreneurship, a high-powered delegation from IIT Madras Pravartak Technologies Foundation visited Colombo this week.
-
-The visit, facilitated by the Indian High Commission, was led by IIT Madras Pravartak Technologies Foundation CEO Dr. M.J. Shankar Raman. During the visit from 22-23 September, the delegation called on Prime Minister Dr. Harini Amarasuriya, Science and Technology Minister Prof. Chrishantha Abeysena, Digital Economy Deputy Minister Eng. Eranga Weeraratne, and also met Chief Adviser to the President on Digital Economy Dr. Hans Wijayasuriya.
-
-Discussions were held on exploring collaboration in building incubation centres for innovation, using technology effectively in education, skilling for Artificial Intelligence (AI), working on human centric applications of AI, etc.
-
-...
-
-[Data](articles/236f3257.json)
-
-[Extended Data](ext_articles/236f3257.ext.json)
 
 ---

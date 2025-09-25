@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 05:56:58**
+As of **2025-09-25 08:25:10**
 
 ## Newspaper Stats
 
-*Scraped **78,001** Articles*
+*Scraped **78,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,279 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 788
-economynextcom | 4,706
+economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
-dailyftlk | 5,533
-adalk | 7,578
-adaderanalk | 10,124
-tamilmirrorlk | 11,757
+dailyftlk | 5,538
+adalk | 7,580
+adaderanalk | 10,128
+tamilmirrorlk | 11,760
 virakesarilk | 12,689
-adaderanasinhalalk | 13,626
+adaderanasinhalalk | 13,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,988 (100.0%) of 78,001 articles have been extended.
+78,012 (100.0%) of 78,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### PPP project to revive Paranthan Chemicals firm
+
+*2025-09-25 08:02:18* · [`dailyftlk`](https://www.ft.lk/business/PPP-project-to-revive-Paranthan-Chemicals-firm/34-782166) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved calling for expressions of interest (EoIs) from both local and foreign investors to implement a public-private partnership (PPP) project on a 30-acre site allocated from Paranthan Chemicals Company Ltd.
+
+The initiative seeks to re-establish a caustic soda and chlorine manufacturing facility at the former premises of the Paranthan Chemical Factory. Paranthan Chemicals has already completed a feasibility study and is preparing detailed plans to restart operations at the site.
+
+Currently, the company imports chlorine for nationwide distribution, as the entire domestic requirement for water purification depends on imports. Officials have warned that this reliance leaves the country’s water purification system vulnerable to global supply chain disruptions.
+
+...
+
+[Data](articles/d442196e.json)
+
+---
+
+### Govt. plans to reposition Batticaloa into tourism hub
+
+*2025-09-25 08:01:21* · [`dailyftlk`](https://www.ft.lk/business/Govt-plans-to-reposition-Batticaloa-into-tourism-hub/34-782165) · `en`
+
+CAASL Chairman Sunil Jayarathne and officials discuss on the Batticaloa Airport runway
+
+The Government is preparing to transform Batticaloa into a hub for tourism and strengthen the national economy. The initiative aims to position the Eastern Province town as a unique tourist destination by capitalising on its geographical advantages, historical significance, and natural beauty.
+
+The Government expects the project to unlock fresh tourism opportunities in the Eastern Province and contribute to broader efforts to diversify Sri Lanka’s tourism offering.
+
+Under the proposed plan, the Government is exploring aerial entertainment and adventure sports in a bid to boost recreational and adventure aviation activities that would make Batticaloa Airport an attraction for both local and foreign tourists. The cultural heritage and scenic environment surrounding the airport are expected to complement these efforts.
+
+...
+
+[Data](articles/16488100.json)
+
+---
+
+### IIT Madras Pravartak Technologies Foundation forges technology, entrepreneurship ties with Sri Lanka
+
+*2025-09-25 08:00:20* · [`dailyftlk`](https://www.ft.lk/business/IIT-Madras-Pravartak-Technologies-Foundation-forges-technology-entrepreneurship-ties-with-Sri-Lanka/34-782164) · `en`
+
+In a bid to deepen Indo-Lanka collaboration in technology, innovation, research, and entrepreneurship, a high-powered delegation from IIT Madras Pravartak Technologies Foundation visited Colombo this week.
+
+The visit, facilitated by the Indian High Commission, was led by IIT Madras Pravartak Technologies Foundation CEO Dr. M.J. Shankar Raman. During the visit from 22-23 September, the delegation called on Prime Minister Dr. Harini Amarasuriya, Science and Technology Minister Prof. Chrishantha Abeysena, Digital Economy Deputy Minister Eng. Eranga Weeraratne, and also met Chief Adviser to the President on Digital Economy Dr. Hans Wijayasuriya.
+
+Discussions were held on exploring collaboration in building incubation centres for innovation, using technology effectively in education, skilling for Artificial Intelligence (AI), working on human centric applications of AI, etc.
+
+...
+
+[Data](articles/236f3257.json)
+
+---
+
+### National Policy on Senior Citizens to be revised
+
+*2025-09-25 07:59:01* · [`dailyftlk`](https://www.ft.lk/business/National-Policy-on-Senior-Citizens-to-be-revised/34-782163) · `en`
+
+The Cabinet of Ministers on Monday approved updating the country’s National Policy on Senior Citizens, first introduced in 2006.
+
+The revision comes in response to shifting global and domestic demographic trends. According to the United Nations Department of Economic and Social Affairs, the proportion of Sri Lankans aged 60 years and above is projected to rise to 24.8% by 2052. As a result, this demographic shift demands stronger measures to safeguard the welfare and rights of senior citizens.
+
+The updated national policy is designed to enable older citizens to live with dignity in supportive social, economic, physical, and spiritual environments. Developed under the theme “Respectful Senior Citizen – Meaningful Retirement”, the framework emphasises both protection and empowerment, aligning with the Government’s broader policy priorities.
+
+...
+
+[Data](articles/d24307a8.json)
+
+---
+
+### Biopharm gets $ 3.98 m insulin contract
+
+*2025-09-25 07:58:42* · [`dailyftlk`](https://www.ft.lk/business/Biopharm-gets-3-98-m-insulin-contract/34-782162) · `en`
+
+The Cabinet of Ministers on Monday (22) approved to award the contract for the supply of 2.2 million vials of Biphasic Isophane Insulin (Human) 30% Soluble, 70% Isophane injection to India’s M/s M.J. Biopharm Ltd.
+
+The contract, valued at $ 3.98 million, was awarded following an international competitive bidding process for the procurement of the insulin used in the treatment of diabetes patients.
+
+Cabinet Spokesman and Health Minister Dr. Nalinda Jayatissa addressing the weekly post-Cabinet meeting media briefing on Tuesday confirmed that two bids were received, with M/s M.J. Biopharm emerging as the lowest substantially responsive bidder.
+
+He noted that the procurement is part of ongoing efforts to ensure uninterrupted access to essential medicines for the country’s growing number of diabetes patients.
+
+The proposal to this effect, submitted by Health Minister Dr. Jayatissa, was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/bb0b5b69.json)
+
+---
+
+### තලාවේ මාරක අනතුරක් - තිදෙනෙකුට දිවි අහිමි වෙයි
+
+*2025-09-25 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214983) · `si`
+
+කුරුණෑගල-අනුරාධපුර ප්‍රධාන මාර්ගයේ තලාව, මීරිගම ප්‍රදේශයේදී ලොරියක් සහ වෑන් රථයක් මුහුණට මුහුණ ගැටීමෙන් තිදෙනෙකු මියගොස් තවත් සිව් දෙනෙකු තුවාල ලබා තිබේ.
+
+◼️
+
+[Data](articles/4f14be34.json)
+
+---
+
+### Wounds were injured in the accident - Welcome to death by jacking
+
+*2025-09-25 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214982) · `si`
+
+The injured monks had taken measures quickly to hospital with the transport of the monks in the Naa Uyana Aranya Senasana in Malaysagama area.
+
+It is reported that the accident occurred at around 9.00 pm at the time of the religious observance of the religious observances on the sacred area.
+
+The monks had a 13 monk in the vehicle at the time of the accident and was identified seven monks.
+
+The Buddhist monks were admitted to Kurunegala Teaching Hospital and the Polgahawela Hospital.
+
+It is said that the monks among the monks who were in the area were in their livestock.
+
+Police said that they were Romania, Russia and Indian national monks.
+
+More monks have been injured in the accident and are receiving treatment at the Kurunegala Teaching Hospital.
+
+Police suspect that the accident had occurred when the bhikku was taken to the mountain to the top of the jungle, while the Pancdagama Police are conducting further investigations.
+
+...
+
+[Data](articles/7c8c104e.json)
+
+[Extended Data](ext_articles/7c8c104e.ext.json)
+
+---
+
+### UN chief stresses need to ensure human control of AI over use of force
+
+*2025-09-25 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112891/un-chief-stresses-need-to-ensure-human-control-of-ai-over-use-of-force) · `en`
+
+UN Secretary-General Antonio Guterres on Wednesday stressed the importance of ensuring human control of artificial intelligence (AI) over the use of force.
+
+“Let us be clear: humanity’s fate cannot be left to an algorithm. Humans must always retain authority over life-and-death decisions,” he told an open debate of the Security Council on AI and international peace and security.
+
+The Security Council and UN member states must ensure that military use of AI remains in full compliance with international law and the UN Charter. Human control and judgment must be preserved in every use of force, he said.
+
+AI is no longer a distant horizon. It is here, transforming daily life, the information space, and the global economy at breathtaking speed. The question is not whether AI will influence international peace and security, but how the world will shape that influence, said Guterres.
+
+...
+
+[Data](articles/a3b290ad.json)
+
+[Extended Data](ext_articles/a3b290ad.ext.json)
+
+---
+
+### Letter committees a safe world to create a safe world - President
+
+*2025-09-25 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214980) · `si`
+
+President Anura Kumara Dissanayake says that it is even worse that the fight against corruption is dangerous.
+
+He pointed out that the fight against corruption should be part of the world's culture.
+
+President Anura Kumara Dissanayake made this statement addressing the 80th session of the United Nations Council.
+
+The President states that the country has now been the latest world, drugs and fried organized criminal groups.
+
+President Anura Kumara Dissanayake added that the 80th session of the United Nations General Assembly that the Palestine is recognized as an independent state and provides the columns between Israel and Palestine.
+
+◼️
+
+[Data](articles/3f2bd56c.json)
+
+[Extended Data](ext_articles/3f2bd56c.ext.json)
+
+---
+
+### We will strengthen the country's people economically
+
+*2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/175-365251) · `ta`
+
+President Anurakumara Dissanayake said that my dream is to strengthen all the people of my country economically.
+
+He was speaking at the United Nations General Assembly. When he further addresses,
+
+The drug and its appropriate market today is creating many worldwide pronunciations.
+
+Drug trade threatens countries and affect global politics and health.
+
+At the same time, it threatens the global goodwill. The Sri Lankan government is taking appropriate action against drugs and crimes and I urge all of you to take up global precautionary measures.
+
+Global action should be taken against drug traders. In addition, rehabilitation centers should be set up to assist the drug victims.
+
+At the same time, we believe that corruption is a barrier to the development of a country and is acting against democracy.
+
+As well as leading to corruption and poverty. It is more dangerous to not take action against corruption.
+
+...
+
+[Data](articles/7034a3df.json)
+
+[Extended Data](ext_articles/7034a3df.ext.json)
+
+---
+
+### Showers over 100mm
+
+*2025-09-25 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214979) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces in the Matara, Matara, Kandy and Nuwara Eliya districts.
+
+In some places mm. The Met Department announces heavy showers around 100.
+
+Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. 40-50) can cause strong winds.
+
+The public is kindly requested to take steps to minimize the dangers of lightning and temporary winds with thunderstorms.
+
+◼️
+
+[Data](articles/6d1bef00.json)
+
+[Extended Data](ext_articles/6d1bef00.ext.json)
+
+---
+
+### නා උයනේ කේබල් කාර් ඩක්කුවක් කඩා වැටී හිමිවරු 7 නමක් අපවත්වෙති
+
+*2025-09-25 06:04:39* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයනේ-කේබල්-කාර්-ඩක්කුවක්-කඩා-වැටී-හිමිවරු-7-නමක්-අපවත්වෙති/11-418706) · `si`
+
+මැල්සිරිපුර, නා උයන ආරණ්‍ය සේනාසනයේ කඳු මුදුනේ ඇති තමන්වහන්සේලාගේ භාවනා කුටි වෙත කේබල් මතින් ගමන්ගන්නා ඩක්කුවකින් වැඩම කරමින් සිටියදී එම ඩක්කුව කඩාවැටී ඊයේ (24) රාත්‍රියේ සිදු වූ අනතුරකින් භික්ෂූන් වහන්සේලා හත් නමක් අපවත්ව තිබේ.
+
+අපවත් වූ හිමිවරුන්ගෙන් දෙදෙනෙකු විදෙස් ජාතික හිමිවරු වන අතර, උන් වහන්සේලාගේ සිරුරු ගොකරැල්ල රෝහලේ තැන්පත් කර ඇත.අනෙකුත් හිමිවරුන්ගේ සිරුරු කුරුණෑගල ශික්ෂණ රෝහලේ නැත්පත් කර තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ එම ඩක්කුවේ භික්ෂූන් වහන්සේලා 13ක් වැඩම කර ඇති බව වාර්තා වන අතර බරපතළ තුවාල ලැබූ හිමිවරු මේ වනවිට කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබති්‍.
+
+◼️
+
+[Data](articles/af450a36.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island today
+
+*2025-09-25 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112889/heavy-showers-above-100mm-expected-in-parts-of-the-island-today) · `en`
+
+Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts. Heavy falls of about 100 mm are likely at some places.
+
+Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/b7e36015.json)
+
+[Extended Data](ext_articles/b7e36015.ext.json)
+
+---
 
 ### President meets top officials ahead of UNGA session
 
@@ -54,6 +308,44 @@ Separately, President Disanayake also met his South African counterpart Cyril Ra
 
 [Data](articles/1f404f86.json)
 
+[Extended Data](ext_articles/1f404f86.ext.json)
+
+---
+
+### President Anura Kumara, Pakistan PM agree to boost bilateral ties at UNGA
+
+*2025-09-25 04:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112888/president-anura-kumara-pakistan-pm-agree-to-boost-bilateral-ties-at-unga) · `en`
+
+President Anura Kumara Dissanayake and Pakistan Prime Minister Shehbaz Sharif met on the sidelines of the 80th United Nations General Assembly, reaffirming the longstanding goodwill between Pakistan and Sri Lanka.
+
+During the meeting, the two leaders discussed ways to further expand cooperation in diverse fields including trade, education, culture, and defense. Both sides emphasized the importance of maintaining high-level exchanges to deepen mutual understanding and partnership.
+
+Highlighting the close bond between the people of both countries, the leaders agreed to enhance cooperation in sports — with a special focus on cricket, a sport cherished in both nations. They also expressed satisfaction with existing ties and vowed to build stronger cultural and educational linkages.
+
+The President and Pakistan PM Shehbaz also exchanged views on regional and global developments.
+
+...
+
+[Data](articles/fea48503.json)
+
+[Extended Data](ext_articles/fea48503.ext.json)
+
+---
+
+### President Anura Kumara urges world leaders to commit themselves to building a safe world for future generations
+
+*2025-09-25 04:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112887/president-anura-kumara-urges-world-leaders-to-commit-themselves-to-building-a-safe-world-for-future-generations) · `en`
+
+President Anura Kumara Dissanayake, addressing the 80th session of the United Nations General Assembly, urged world leaders to commit themselves wholeheartedly to building a safe world for future generations. The President stressed that nations must walk hand in hand, not apart.
+
+Speaking at the UN Headquarters in New York on the 25th morning Sri Lanka time, the President expressed deep concern over the ongoing humanitarian catastrophe in the Gaza Strip. He called for an immediate ceasefire, the unhindered delivery of humanitarian aid and the release of hostages by all parties, in line with agreements reached by the United Nations and other stakeholders. He further emphasized that strong international pressure must be applied to halt the continuing violence and killings.
+
+...
+
+[Data](articles/230607f9.json)
+
+[Extended Data](ext_articles/230607f9.ext.json)
+
 ---
 
 ### Dileepan's 38th Emotional Final Memorial Discussion
@@ -71,6 +363,42 @@ The President of the Memorial Organization Committee, K. Pannabhasan, said in 19
 [Data](articles/a09ba4f7.json)
 
 [Extended Data](ext_articles/a09ba4f7.ext.json)
+
+---
+
+### President meets President Portugal with President
+
+*2025-09-25 04:09:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போர்த்துக்கல்-ஜனாதிபதியுடன்-ஜனாதிபதி-அநுர-சந்திப்பு/175-365250) · `ta`
+
+President Anura Kumara Dissanayake, who has traveled to the United States to attend the 80th General Assembly of the United Nations, has been engaged in bilateral talks with Portugal President Marcelo Rebello de Suza.
+
+The meeting was held in New York City yesterday afternoon at the United Nations Permanent Representative's Office in the US.
+
+The meeting was attended by External Affairs Minister Vijitha Herath and Sri Lanka's permanent representative of the United Nations, former Chief Justice of the United Nations, President's Attorney Jayantha Jayasuriya.. (A)
+
+◼️
+
+[Data](articles/b7798492.json)
+
+[Extended Data](ext_articles/b7798492.ext.json)
+
+---
+
+### President meets Australian Prime Minister
+
+*2025-09-25 04:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-பிரதமருடன்-ஜனாதிபதி-சந்திப்பு/175-365249) · `ta`
+
+President Anura Kumara Dissanayake, who visited the United States to attend the 80th General Assembly session of the United Nations, met with Australian Prime Minister Anthony Albanis.
+
+The meeting was held in New York City yesterday afternoon at the United Nations Permanent Representative's Office in the US.
+
+The meeting was attended by External Affairs Minister Vijitha Herath and Sri Lanka's permanent representative of the United Nations, former Chief Justice of the United Nations, President's Attorney Jayantha Jayasuriya.. (A)
+
+◼️
+
+[Data](articles/f9be53f6.json)
+
+[Extended Data](ext_articles/f9be53f6.ext.json)
 
 ---
 
@@ -554,6 +882,8 @@ For this home remedy, mix 01 teaspoon of baking soda with a teaspoon of olive oi
 
 [Data](articles/8d86ebfb.json)
 
+[Extended Data](ext_articles/8d86ebfb.ext.json)
+
 ---
 
 ### Traveling in October Sri Lanka is the best country
@@ -596,6 +926,8 @@ Representing the Bank at the event was Mr. Ramachandren Sivagnanam, the Assistan
 
 [Data](articles/8b0ae12b.json)
 
+[Extended Data](ext_articles/8b0ae12b.ext.json)
+
 ---
 
 ### Ambassador for Japan visits Tokyo Cement Factory in Trincomalee
@@ -610,6 +942,8 @@ The Ambassador was accompanied by Ms. Yukako Mizunuma, Finance Attaché, and Ms.
 
 [Data](articles/8f101891.json)
 
+[Extended Data](ext_articles/8f101891.ext.json)
+
 ---
 
 ### CSE picks-up speed following CBSL interest rate decision and growth predictions
@@ -623,6 +957,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/dedb7e1b.json)
+
+[Extended Data](ext_articles/dedb7e1b.ext.json)
 
 ---
 
@@ -641,6 +977,8 @@ Welcoming the audience, Fawaz Haque introduced Zaco’s vision and highlighted t
 ...
 
 [Data](articles/cabffcef.json)
+
+[Extended Data](ext_articles/cabffcef.ext.json)
 
 ---
 
@@ -1460,6 +1798,26 @@ It is learned that the husband of the little girl is serving as a small driver i
 
 ---
 
+### Counseling and Psychology to school curriculum
+
+*2025-09-24 17:53:42* · [`adalk`](https://www.ada.lk/breaking_news/උපදේශනය-හා-මනෝ-විද්‍යාව-පාසල්-විෂය-නිර්දේශයට/11-418705) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
+
+The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
+
+Speaking further the Minister said that these programs should be implemented to all schools on a proper plan covering all the provinces covering all the provinces of the country. The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
+
+The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
+
+◼️
+
+[Data](articles/1446cab9.json)
+
+[Extended Data](ext_articles/1446cab9.ext.json)
+
+---
+
 ### UK police arrest man over cyberattack that affected European airports
 
 *2025-09-24 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112872/uk-police-arrest-man-over-cyberattack-that-affected-european-airports) · `en`
@@ -1719,377 +2077,5 @@ A bond maturing on 15.12.2032 closed at 10.43/48 percent, up from 10.42/48 perce
 [Data](articles/e5e2f83c.json)
 
 [Extended Data](ext_articles/e5e2f83c.ext.json)
-
----
-
-### NTB to acquire HSBC Sri Lanka’s retail banking business for Rs. 18 billion
-
-*2025-09-24 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/112867/ntb-to-acquire-hsbc-sri-lankas-retail-banking-business-for-rs-18-billion) · `en`
-
-Nations Trust Bank PLC (NTB) has entered into a binding Sale and Purchase Agreement with HSBC, acting through its Sri Lanka Branch (HSBC Sri Lanka), to acquire its retail banking business carried out in Sri Lanka for a consideration of LKR 18 billion and applicable taxes if any.
-
-“This transaction was approved by the Board of Directors of NTB on 23 September 2025, and will be funded by internally generated funds, while maintaining all regulatory ratios,” NTB has informed the Colombo Stock Exchange (CSE) in a corporate disclosure.
-
-The transaction is expected to reach completion in the first half of 2026, subject to mandatory regulatory approval from the Central Bank of Sri Lanka and the satisfaction of other conditions precedent as set out in the Sale and Purchase Agreement, the bank further said.
-
-...
-
-[Data](articles/a6dc1c54.json)
-
-[Extended Data](ext_articles/a6dc1c54.ext.json)
-
----
-
-### CID suspects the strike temporarily suspended
-
-*2025-09-24 16:47:58* · [`adalk`](https://www.ada.lk/breaking_news/ලංවීම-වර්ජනය-තාවකාලිකව-අත්හිටුවයි/11-418703) · `si`
-
-The trade unions have decided to suspend the Ceylon Electricity Board trade union action to temporarily suspend the process of strike.
-
-However, the trade union action, however, will continue to implement the union action.
-
-◼️
-
-[Data](articles/20172b7b.json)
-
-[Extended Data](ext_articles/20172b7b.ext.json)
-
----
-
-### President Anura Kumara meets his South African counterpart Cyril Ramaphosa in New York
-
-*2025-09-24 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112866/president-anura-kumara-meets-his-south-african-counterpart-cyril-ramaphosa-in-new-york) · `en`
-
-President Anura Kumara Dissanayake, who is currently in the United States to attend the 80th session of the United Nations General Assembly has met his South African counterpart Cyril Ramaphosa.
-
-The meeting took place at the ONE Plaza in New York, according to the President’s Media Division.
-
-President Dissanayake, who arrived in the United States yesterday (23), is scheduled to address the 80th session of the United Nations General Assembly (UNGA) at 3:15 pm US time today (24).
-
-The President’s flight touched down at John F. Kennedy International Airport at approximately 8:50 a.m. US time yesterday.
-
-Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
-
-During his visit, the President is also expected to hold bilateral meetings with the UN Secretary-General and several world leaders.
-
-...
-
-[Data](articles/cae9809e.json)
-
-[Extended Data](ext_articles/cae9809e.ext.json)
-
----
-
-### Japan PM says Palestine state recognition ‘when not if’
-
-*2025-09-24 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112865/japan-pm-says-palestine-state-recognition-when-not-if) · `en`
-
-Japan’s prime minister told the United Nations on Tuesday (Sep 23) that Tokyo’s recognition of the State of Palestine was only a question of time, saying he was “indignant” at recent comments by Israeli officials.
-
-Nearly 80 per cent of UN members recognise the State of Palestine, with a string of countries including Britain, Canada and France adding their names this week after nearly two years of war in Gaza.
-
-“I feel strongly indignant at the statements made by senior Israeli government officials that appear to categorically reject the very notion of Palestinian state-building,” Prime Minister Shigeru Ishiba said.
-
-“For our country, the question is not whether to recognise a Palestinian state, but when. The continued unilateral actions by the government of Israel can never be accepted,” he said.
-
-“I must state clearly that if further actions are taken that obstruct the realisation of a two-state solution, Japan will be compelled to take new measures in response,” he added.
-
-...
-
-[Data](articles/03fc622f.json)
-
-[Extended Data](ext_articles/03fc622f.ext.json)
-
----
-
-### President and South African president meet
-
-*2025-09-24 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214964) · `si`
-
-President Anura Kumara Dissanayake has gone to the United States, Sri Kumara Dissanayake and South African President Cyril Ramaphosa was held at the New York Plaza on the 23rd afternoon.
-
-President Anura Kumara Dissanayake was warmly welcomed by the South African President.
-
-Bilateral discussions were then commenced between the two countries and further strengthening the relations between the two countries.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Jayasuriya and other senior officials of the Ministry of Foreign Affairs were also present at the occasion.
-
-◼️
-
-[Data](articles/acc49539.json)
-
-[Extended Data](ext_articles/acc49539.ext.json)
-
----
-
-### Sri Lanka stocks end 0.26-pct higher on financials and capital goods
-
-*2025-09-24 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-0-26-pct-higher-on-financials-and-capital-goods-241779/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) climbed 0.26 percent on Wednesday ending a volatile session, data on its site showed.
-
-The broader ASPI climbed 55.61 points from Tuesday, to end at 21,338.45; while the more liquid S&P SL20 closed 0.13 percent, or 7.92 points higher, at 6,081.06.
-
-The top contributors to the ASPI were Ceylinco Holdings (up 75.00 rupees at 3,175.00), LB Finance (up 8.00 rupees at 149.50), Hayleys (up 3.25 rupees at 188.00), Central Finance Company (up 6.25 rupees at 289.00) and Commercial Bank (up 1.50 rupees at 194.00).
-
-Market turnover was 5.6 billion rupees on Wednesday, while the share volumes was 185,795,899.
-
-Sri Lanka’s Mercantile Investments and Finance PLC said it will seek shareholder approval for a share sub-division which will see an ordinary share split into 200 ordinary shares.
-
-Sri Lanka’s Mercantile Investments and Finance to offer share subdivision
-
-...
-
-[Data](articles/e8233177.json)
-
-[Extended Data](ext_articles/e8233177.ext.json)
-
----
-
-### Santosh Ja met Mahinda
-
-*2025-09-24 16:27:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-சந்தோஷ்-ஜா/175-365217) · `ta`
-
-Indian High Commissioner to Sri Lanka Santosh Ja met former President Mahinda Rajapaksa at the Carldn residence on Wednesday (24).
-
-At this meeting, they discussed various aspects of bilateral cooperation and political advances.
-
-◼️
-
-[Data](articles/c096c4e4.json)
-
-[Extended Data](ext_articles/c096c4e4.ext.json)
-
----
-
-### Top 20 lack of compensation at the death of a foreign worker
-
-*2025-09-24 16:27:18* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ගත-ශ්‍රමිකයෙකුගේ-මරණයකදී-හිමිවන-වන්දි-ලක්ෂ-20-දක්වා-ඉහළට/11-418702) · `si`
-
-Sri Lanka Foreign Employment Bureau Chairman Kiosala Wickremasinghe says that the insurance compensation paid to a foreign employment abroad has been increased to Rs.
-
-He was speaking at a special press conference held in the Bureau today (24).
-
-"During the past year, the Sri Lanka Bureau of Foreign Employment has been working on behalf of overseas workers. As an answer to the allegations of the Bureau of the Bureau, a special investigation unit was established to establish the law and dominated unit.  Also, foreign employment frauds were recovered to Rs. 234 million to recover. At present, the Bureau Act is also being taken to update the bill.
-
-US $ 5.1 billion in remittances by foreign workers by August this year. We believe that the remittances of the US $ 7.2 billion in Sri Lanka by the end of this year. And then, 226,240 Sri Lankans have been abroad to have more than Rs. 300 million this year.
-
-...
-
-[Data](articles/4825b5ce.json)
-
-[Extended Data](ext_articles/4825b5ce.ext.json)
-
----
-
-### Digitalization can be made a unique translation of education - Prime Minister Harinini
-
-*2025-09-24 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214963) · `si`
-
-The Prime Minister, Education, Higher Education and Vocational Education Minister Dr. Harini Amarasuriya says that the digital Task Force has been appointed to make education reforms.
-
-The Trimare Progress Review discussion of the Digital Task Force for the informed of the Members of Parliament, the Minister said this.
-
-The Prime Minister said: "Look!
-
-"A process that will continue with digital education and education reforms. We appointed Digital Task Force for three years to take steps to take on the digital education reforms and directing policies.
-
-Children go on the road with the foundation of digital education and put them on the road. Therefore, it is essential that we must have to make the necessary steps to build the foundations of digital education and making necessary steps. Appreciate you with you. "
-
-◼️
-
-[Data](articles/1a74775b.json)
-
-[Extended Data](ext_articles/1a74775b.ext.json)
-
----
-
-### Massive disaster in Bangkok (video link)
-
-*2025-09-24 16:24:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாங்கொக்கில்-பாரிய-அனர்த்தம்-வீடியோ-இணைப்பு/50-365216) · `ta`
-
-The Thai Mass Rapid Transit Authority (MRDA) has ordered the temporary to temporarily construct the new MRT Purple route following the collapse of a part of the road in front of the Vajira Hospital on Wednesday morning.
-
-As the incident took place near the Vajira Hospital Station, the authorities blocked the area and evicted the neighbors.
-
-According to the MRTA report, Deputy Prime Minister and Transport Minister Bipat Ratsagit Prakaran advised Deputy Prime Minister Mallika Jirabanwanich to visit the incident with MRDA Governor Kajbajon Udomdhambakki to oversee the rescue operations.
-
-The MRTA Metropolitan Water Resources Authority, the Metropolitan Electricity Authority, Telecommunications Companies and the local police have been integrated.
-
-As a result of the wreckage, the Vajira Hospital has announced that it will close its outpatient services for two days, serving only the inpatients.
-
-...
-
-[Data](articles/3dc5a481.json)
-
-[Extended Data](ext_articles/3dc5a481.ext.json)
-
----
-
-### Massive disaster in Bangkok
-
-*2025-09-24 16:24:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாங்கொக்கில்-பாரிய-அனர்த்தம்/50-365216) · `ta`
-
-The Thai Mass Rapid Transit Authority (MRTA) has ordered the temporary to temporarily construct the new MRT Purple route following the collapse of a part of the road in front of the Vajira Hospital on Wednesday morning.
-
-As the incident took place near the Vajira Hospital Station, the authorities blocked the area and evicted the neighbors.
-
-According to the MRTA report, Deputy Prime Minister and Transport Minister Bipat Ratsagit Prakaran advised Deputy Prime Minister Mallika Jirabanwanich to visit the incident with MRDA Governor Kajbajon Udomdhambakki to oversee the rescue operations.
-
-The MRTA Metropolitan Water Resources Authority, the Metropolitan Electricity Authority, Telecommunications Companies and the local police have been integrated.
-
-As a result of the wreckage, Vajira Hospital has announced that it will close its outpatient services for two days, only serving inpatients.
-
-...
-
-[Data](articles/ee8258b5.json)
-
-[Extended Data](ext_articles/ee8258b5.ext.json)
-
----
-
-### X-Press Pearl disaster: Ship’s agent pays $1 mln out of $1 bln damages to Sri Lanka
-
-*2025-09-24 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112864/x-press-pearl-disaster-ships-agent-pays-1-mln-out-of-1-bln-damagestosrilanka) · `en`
-
-A Singapore-registered ship’s Sri Lanka agent paid US$1 million out of US$1 billion damages awarded for causing the island’s worst pollution, a litigant told AFP on Wednesday (Sep 24).
-
-The Sea Consortium (Private) Limited made the token payment in “good faith” as it did not have the financial capacity to fully cover the damages.
-
-A petitioner who brought action against the MV X-Press Pearl, which sank off Colombo Port in June 2021, said he had been officially informed of the payment.
-
-“I was given a copy of the affidavit of Sea Consortium (to the court) after it paid 300 million rupees (US$1 million) to the Treasury,” environmental activist Hemantha Withanage told AFP.
-
-“They have done this because the court held them responsible for any non-compliance by the Singapore owners.”
-
-The move came as the owners of the X-Press Pearl told AFP in Singapore that they would refuse to pay the massive damages.
-
-...
-
-[Data](articles/45858541.json)
-
-[Extended Data](ext_articles/45858541.ext.json)
-
----
-
-### Kottanjane was killed in a constable accident
-
-*2025-09-24 16:13:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொட்டாஞ்சேனை-கான்ஸ்டபிள்-பஸ்யால-விபத்தில்-பலி/175-365215) · `ta`
-
-Nitambuwa police say that a police constable who was injured when a motorcycle crashed into a tipper on the Basyala Muruthawala ramp in Colombo - Kandy Road
-
-The incident took place on Wednesday (24) and a 33 -year -old SM from Varakapola Mahena, who worked at the Kottanchenai police station.. The deceased is Rukmal.
-
-The accident occurred when a motorcycle collided with a tipper when he tried to overtake another vehicle.
-
-Tipper driver with the help of local residents admitted the injured police constable at the hospital. Police say he died at the time.
-
-◼️
-
-[Data](articles/b8b88766.json)
-
-[Extended Data](ext_articles/b8b88766.ext.json)
-
----
-
-### Over 1,000 complaints on child abuse reported in first seven months of 2025: Minister
-
-*2025-09-24 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112863/over-1000-complaints-on-child-abuse-reported-in-first-seven-months-of-2025-minister) · `en`
-
-Over 1,000 complaints related to child abuse have been reported in the first seven months of this year, according to Minister of Women and Child Affairs, Saroja Savithri Paulraj.
-
-Minister Saroja Savithri Paulraj made this revelation during the second reading debate of the Penal Code (Amendment) Bill in Parliament today (24).
-
-The Minister noted that children are subjected to abuse in various places, including residences, schools, detention centers, and even on public roads.
-
-According to Minister Saroja Savithri Paulraj, 1,350 children were subjected to abuse last year, while 1,126 cases have already been reported in the first seven months of this year alone.
-
-◼️
-
-[Data](articles/f3d2d054.json)
-
-[Extended Data](ext_articles/f3d2d054.ext.json)
-
----
-
-### 1126 complaints of children in seven months
-
-*2025-09-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214962) · `si`
-
-Minister of Women and Child Affairs Saroja Sarajar said that more than 1,000 complaints have been received in the first 7 months of this year.
-
-The Minister of Penal Code, Hon.
-
-She added that children will become severe in housing, school, detention houses, highway.
-
-Minister of Women and Child Affairs Saroja Sarajar said that 1,350 children were filled in last year.
-
-It is also reported that 1,126 children have become fruited during the first 7 months of this year.
-
-◼️
-
-[Data](articles/ebc8e25d.json)
-
-[Extended Data](ext_articles/ebc8e25d.ext.json)
-
----
-
-### The latest situation of the electricity care course
-
-*2025-09-24 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214961) · `si`
-
-Trade unions say the trade union action which opened the Employees of the Ceylon Electricity Federation will not take a strike to strike.
-
-However, they say that the trade union action is being implemented further.
-
-The trade unions have been reported from a few days of the Ceylon Electricity Board to reserve the Ceylon Electricity Board to four sections.
-
-◼️
-
-[Data](articles/cbc3a9c4.json)
-
-[Extended Data](ext_articles/cbc3a9c4.ext.json)
-
----
-
-### Ex-Navy Commander Nishantha Ulugetenne further remanded
-
-*2025-09-24 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112862/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
-
-Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded.
-
-He has been remanded until October 8 by the Polgahawela Magistrate’s Court, said Ada Derana reporter.
-
-The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
-
-◼️
-
-[Data](articles/1ca71ceb.json)
-
-[Extended Data](ext_articles/1ca71ceb.ext.json)
-
----
-
-### CEB workers decide against strike action but to continue work-to-rule campaign
-
-*2025-09-24 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112861/ceb-workers-decide-against-strike-action-but-to-continue-work-to-rule-campaign) · `en`
-
-The ongoing ‘work-to-rule’ campaign launched by several trade unions attached to the Ceylon Electricity Board (CEB) will continue beyond midnight today (24).
-
-A spokesperson stated that all trade unions affiliated with the CEB meet this afternoon to make a collective decision on the next course of action regarding future activities.
-
-Accordingly, members have decided not to continue the ongoing ‘work-to-rule’ campaign after authorities failed to provide any solutions to their demands.
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action under three phases.
-
-The first phase was initiated as a ‘work-to-rule’ trade union action.
-
-In the second phase, all employees reported sick leave in two groups on September 17 and 18, during which a demonstration was also staged opposite the CEB head office.
-
-...
-
-[Data](articles/ff2d2056.json)
-
-[Extended Data](ext_articles/ff2d2056.ext.json)
 
 ---

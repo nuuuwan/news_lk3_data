@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 00:37:04**
+As of **2025-09-26 00:53:30**
 
 ## Newspaper Stats
 
@@ -26,33 +26,37 @@ adaderanasinhalalk | 13,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,166 (100.0%) of 78,167 articles have been extended.
+78,167 (100.0%) of 78,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### පාකිස්තානය අවසන් සටනට
+### Pakistan to the final battle
 
 *2025-09-26 00:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215016) · `si`
 
-බංග්ලාදේශ කණ්ඩායම ලකුණු 11කින් පරාජය කර ආසියානු කුසලාන විස්සිය20 ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට පාකිස්තාන කණ්ඩායම අද (25) සමත් විය.
+The Pakistan won the Bangladesh team by 11 runs and qualify for the final of the Asia Tropics.
 
-මෙහිදී පාකිස්තාන කණ්ඩායමෙන් හිමි වූ ලකුණු 136ක ඉලක්කයට පිළිතුරු ලෙස බංග්ලාදේශයට පන්දුවාර 20 තුළදී කඩුලු 9ක් දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 124ක් පමණි.
+In response to 136 runs in the Pakistani group, Bangladesh was able to score only 124 runs in 20 overs.
 
-ඉන්දීය කණ්ඩායම මේ වනවිට අවසන් මහා තරගයට සුදුසුකම් ලබා සිටින අතර, ඒ අනුව ඉන්දියාව හා පාකිස්තානය එළැඹෙන 28වනදා අවසන් මහා තරගයේ දී තරග වදිනු ඇත.
+The Indian team will be eligible for the finals and will compete in the final on the end of India and Pakistan.
 
-මෙහි විශේෂත්වය වන්නේ ආසියානු කුසලාන ඉතිහාසයේ මීට පෙර කිසිදු අවස්ථාවක ඉන්දියාව හා පාකිස්තානය අවසන් මහා තරගයක් ක්‍රීඩාකර නොමැති වීමය.
+The specialty is that India and Pakistan have not been played at any time in Asia cup history.
 
-ඒ අනුව වසර 41ක (1984 සිට) ඉතිහාසයක් ඇති ආසියානු කුසලාන ඉතිහාසයේ එතෙක් මෙතෙක් පවත්වන උණුසුම් අවසන් මහා තරගය මෙවර පැවැත්වෙනු ඇත.
+Accordingly, in the history of 41 years (since 1984), the warm final will be held in the history of the Asian cup history.
 
-බංග්ලාදේශ කණ්ඩායමේ ආරාධනයෙන් පළමුව පන්දුවට පහරදුන් පාකිස්තානයට පන්දුවාර 20 තුළදී කඩුලු 8ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 135ක් පමණි.
+Batting first, only 135 runs for Pakistan scored 85 wickets in the 20 overs.
 
-එක්දින හා විස්සයි20 ද්විත්ව ආකෘති යටතේම ඉන්දියාව ආසියානු කුසලාන 8කට හිමිකම් කියන අතර, පාකිස්තානය දෙවරක් ආසියානු ශූරයන් වී සිටියි.
+India has claimed to 8 Asia cups under the One Day and Twenty20 double model, and Pakistan is twice.
 
-...
+Although the Banghathu took place in 3 cases, they have been defeated at all times.
+
+◼️
 
 [Data](articles/ac3e61c3.json)
+
+[Extended Data](ext_articles/ac3e61c3.ext.json)
 
 ---
 
@@ -910,6 +914,8 @@ The MP further stated that the Speaker refused to say that it was not denied the
 
 *2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
 
+While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
+
 Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
 
 The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
@@ -917,8 +923,6 @@ The arrests come amid public fury over reckless behaviour during the storm, whic
 The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
 
 Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
-
-The situation turned critical in an instant when a monstrous wave, several metres high, breached the sea wall. The powerful surge completely engulfed the trio, washing them off their feet and onto the pavement behind a barrier.
 
 ...
 

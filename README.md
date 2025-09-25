@@ -1,54 +1,82 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 15:07:47**
+As of **2025-09-25 15:38:42**
 
 ## Newspaper Stats
 
-*Scraped **78,099** Articles*
+*Scraped **78,102** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
-colombotelegraphcom | 789
+colombotelegraphcom | 790
 economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,590
+adalk | 7,591
 adaderanalk | 10,149
 tamilmirrorlk | 11,775
 virakesarilk | 12,708
-adaderanasinhalalk | 13,641
+adaderanasinhalalk | 13,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,095 (100.0%) of 78,099 articles have been extended.
+78,102 (100.0%) of 78,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### டென்மார்க்கில் பல விமான நிலையங்களில் அடையாளம் தெரியாத ட்ரோன்கள் தென்படுவதாக தகவல்
+### Ranil condolences on behalf of the monks
+
+*2025-09-25 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214996) · `si`
+
+Former President Ranil Wickremesinghe says that the deceit monks have expressed their condolences to all who have been able to express their condolences to all who have been killed by the Uyana Aranya Senasana.
+
+The former President made this statement in a statement.
+
+The former President has wishes the monks who are injured in the accident and is a speedy recovery.
+
+President Ranil Wickremesinghe, President Ranil Wickremesinghe, revealed that they were departed to endangered the sanctuary.
+
+The former President has sent a Nirvana healing of Nirvana healing the monks who was unbeaten.
+
+◼️
+
+[Data](articles/f035ebb6.json)
+
+[Extended Data](ext_articles/f035ebb6.ext.json)
+
+---
+
+### There are reports that unidentified drones are visible at many airports in Denmark
 
 *2025-09-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226052) · `ta`
 
-டென்மார்க்கின் பல விமான நிலையங்களில் அடையாளம் தெரியாத ட்ரோன்கள் ட்ரோன் தென்படுவதாக தகவல் வெளியானதை அடுத்து ஆல்போர்க் விமான நிலையம் மூடப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+International media reports that unidentified drones are reported to have been reported at several airports in Denmark.
 
-மூன்று சிறிய விமான நிலையங்களில் இன்று வியாழக்கிழமை (25) அதிகாலை ட்ரோன்கள் தென்பட்டதாக, டேனிஷ் பொலிஸ் உறுதிப்படுத்தியுள்ளது.
+The Danish police have confirmed that drones were seen in three small airports early Thursday (25) morning.
 
-டென்மார்க்கின் முக்கிய விமான நிலையமான கோபன்ஹேகன் விமான நிலையம் தற்காலிகமாக மூடப்பட்டிருந்த நிலையில், வணிக மற்றும் இராணுவ விமானங்களுக்குப் பயன்படுத்தப்படும் ஆல்போர்க் விமானநிலையமும் தற்போது மூடப்பட்டுள்ளது.
+The Copenhagen Airport, Denmark's main airport, has been temporarily closed, and the Albark Airport used for commercial and military aircraft is currently closed.
 
-எஸ்டோனியன், போலந்து மற்றும் ருமேனிய வான்வெளியில் ட்ரோன்கள் மற்றும் விமானங்களுடன் தொடர்புடைய, அண்மைய சம்பவங்கள், ரஷ்யா நேட்டோ பாதுகாப்புகளை சோதித்து வருவதாக கூறப்படும் குற்றச்சாட்டுகளுக்கு வழிவகுத்தன.
+Recent incidents, associated with drones and aircraft in Estonian, Polish and Romanian airspace, have led to allegations that Russia is testing NATO protection.
 
-இதன் பின்னணியில் உள்ளவர்களை விசாரித்து வருவதாகவும், ஒரு வேடிக்கையான என்பதை நிராகரிக்க முடியவில்லை எனவும் டென்மார்க் பொலிஸ் தெரிவித்துள்ளது.
+Denmark police said they were investigating the backdrop and could not reject a funny.
+
+More than one drones have been found near the country's fourth largest city in the country, based on population, located in Jatland, North Denmark, a police report said.
+
+The incidents of drones in Alborg were reported to have been stopped at the Copenhagen airport for 4 hours at the Copenhagen airport on Monday.
 
 ...
 
 [Data](articles/4d468388.json)
+
+[Extended Data](ext_articles/4d468388.ext.json)
 
 ---
 
@@ -72,19 +100,21 @@ The Deputy Minister of Industry and Livestock Resources Namal Karunaratne has sa
 
 ---
 
-### பெக்கோ சமனின் மனைவிக்கு விளக்கமறியல் நீடிப்பு
+### Extension extending to the wife of Becko Saman
 
 *2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
 
-இந்தோனேசியாவில் பிரபல போதைப்பொருள் கடத்தல்காரர்கள் மற்றும் குற்றவியல் கும்பல் உறுப்பினர்களுடன் இருந்தபோது கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான பெக்கோ சமன் மனைவியின் விளக்கமறியல்  அடுத்த மாதம் 9 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது. இதற்கான உத்தரவு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகமவினால் வியாழக்கிழமை (25) பிறப்பிக்கப்பட்டது.
+The explanation of the wife of Becko Saman, an arranged criminal gang, has been extended till the 9th of next month, while he was with famous drug traffickers and criminal gang members in Indonesia.. Colombo Chief Magistrate. Bodarakama was issued on Thursday (25).
 
-மித்தெனிய பகுதியில் சந்தேகநபர் சஜிகா லக்ஷனி செய்ததாகக் கூறப்படும் போதைப்பொருள் குற்றச்சாட்டுகள் தொடர்பான அறிக்கையை சமர்ப்பிக்குமாறு சிஐடிக்கு நீதிமன்றம்  உத்தரவிடப்பட்டது.
+The court was ordered by the CIT to submit a report on the alleged drug allegations alleged that the suspect Sajika Lakshani had committed the suspect in the Mitteniya area.
 
-புகார்தாரர் சார்பாக அரசு வழக்கறிஞர் மற்றும் சந்தேகநபரின் வழக்கறிஞர்கள் அளித்த சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+The order was issued after considering the submissions made by the State Prosecutor and the Suspect of the Suspect on behalf of the complainant.
 
 ◼️
 
 [Data](articles/533e71c6.json)
+
+[Extended Data](ext_articles/533e71c6.ext.json)
 
 ---
 
@@ -106,25 +136,29 @@ The order was issued after considering the submissions made by the State Prosecu
 
 ---
 
-### வனவிலங்கு கணக்கெடுப்பின் போது பொதுமக்களால் வழங்கப்பட்ட தரவுகளில் 50 சதவீதமானவை மாத்திரமே துல்லியமானவை : பிரதி அமைச்சர்
+### Only 50 percent of the data provided by the public during the wildlife survey are accurate: Deputy Minister
 
 *2025-09-25 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226045) · `ta`
 
-அண்மையில் வனவிலங்கு கணக்கெடுப்பின் போது பொதுமக்கள் வழங்கிய தகவல்களில் சுமார் 50 சதவீதமானவையே துல்லியமானது என கமத்தொழில் மற்றும் கால்நடை வளங்கள் பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்துள்ளார்.
+Deputy Minister of Communication and Livestock Resources Namal Karunaratne said that about 50 per cent of the public's information during the recent wildlife survey was accurate.
 
-பாராளுமன்றத்தில் இன்று வியாழக்கிழமை (25) உரையாற்றும் போதே இந்தத் தகவலை அவர் வழங்கினார்.
+He delivered this information while addressing the Parliament today (25).
 
-உணவுப் பயிர்களுக்கு தீங்கு விளைவிக்கும் விலங்குகளை அடையாளம் காணவும், அவற்றை முறையாக ஆய்வு செய்யவும், தகுந்த நடவடிக்கை எடுக்கவும் நோக்கமாகக் கொண்டு, 2025 மார்ச் மாதம் 15 ஆம் திகதியன்று நாடு முழுவதும் வனவிலங்கு கணக்கெடுப்பு நடத்தப்பட்டது.
+A wildlife survey was conducted across the country on March 15, 2025, aimed at identifying animals that harm food crops, proper action and taking appropriate action.
 
-நாடு முழுவதும் ஒரே நேரத்தில் மக்களினால் குரங்குகள், மக்கா குரங்குகள், மயில்கள் மற்றும் இராட்சத அணில் போன்ற விலங்குகளை அடிப்படையாகக் கொண்டு கணக்கெடுப்பு நடத்தப்பட்டது.
+The survey was conducted on the basis of animals such as monkeys, maize monkeys, peacocks and giant squirrels throughout the country.
 
-குரங்குகள் மற்றும் மக்கா குரங்குகள் பற்றி பொதுமக்கள் வழங்கிய தரவுகளில் 50 சதவீதமானவையே துல்லியமானது என்பது உறுதிப்படுத்தப்பட்டதாக பிரதி அமைச்சர் குறிப்பிட்டுள்ளார்.
+The Deputy Minister stated that it was confirmed that 50 per cent of the public's data about monkeys and Makkah monkeys were accurate.
 
-தரவுகள் சரிபார்ப்பின் போது, குரங்குகள் மற்றும் மக்கா குரங்குகள் பற்றி பொதுமக்கள் அளித்த தகவல்களில் 50சதவீதமானவை துல்லியமானது என்பது உறுதிப்படுத்தப்பட்டது.
+At the time of the data verification, it was confirmed that 50 percent of the public information about monkeys and Makkah monkeys were accurate.
+
+Accordingly, they have been confirmed based on the survey data responsible for the recommendations of wildlife damage to food crops.
 
 ...
 
 [Data](articles/f71397e7.json)
+
+[Extended Data](ext_articles/f71397e7.ext.json)
 
 ---
 
@@ -202,21 +236,23 @@ Forty-year-old suspect arrested by police and produced before the Siyambalanduwa
 
 ---
 
-### பாதாள உலக குழுத் தலைவர் பெக்கோ சமன் மனைவிக்கு மீண்டும் விளக்கமறியல்
+### Underworld Group Chairman Becko Saman's wife
 
 *2025-09-25 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226042) · `ta`
 
-பணமோசடி தடுப்புச் சட்டத்தின் கீழ் தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள பாதாள உலகக் குழுத் தலைவர் ‘பெக்கோ சமன்’ என்பவரின் மனைவி ஷாதிகா லக்ஷானியை, ஒக்டோபர் மாதம் 9 ஆம் திகதிவரை விளக்கமறியலில் வைக்க கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Colombo Magistrate's Court has ordered Shadika Lakshani, the wife of the underworld leader of the underworld, Peko Samanam, which is currently being interrogated under the Prevention of Money Laundering Act.
 
-குற்றப் புலனாய்வுத் திணைக்களம் மற்றும் சந்தேக நபரின் சட்டத்தரணிகள் சமர்ப்பித்த சமர்ப்பிப்புகளை பரிசீலித்த பின்னர், கொழும்பு பிரதம நீதவான் அசங்க எஸ்.போதரகம இந்த உத்தரவைப் பிறப்பித்தார்.
+Colombo Chief Magistrate Asanga S. Bodaragama issued the order after considering the submissions submitted by the Criminal Investigation Department and the Attorneys of the suspect.
 
-மித்தெனியவில் இடம்பெற்றதாக கூறப்படும் போதைப்பொருள் கடத்தல் நடவடிக்கைகளுடன் சந்தேக நபர் எவ்வாறு தொடர்புடையவர் என்பது குறித்த ஆதாரங்களின் சுருக்கத்தை அடுத்த நீதிமன்றத் திகதியில் சமர்ப்பிக்குமாறும் நீதவான் இதன்போது குற்றப்புலனாய்வு திணைக்களத்தினருக்கு அறிவுறுத்தியுள்ளார்.
+The Magistrate has also instructed the Criminal Investigation Department to submit the summary of evidence on how the suspect is associated with the alleged drug trafficking in Mitteniya.
 
-ஆகஸ்ட் மாதம் 29 ஆம் திகதி பண்டாரநாயக்க சர்வதேச விமான நிலையத்தை வந்தடைந்த பாதாள உலகக் குழுத் தலைவர் ‘பெக்கோ சமன்’ என்பவரின் மனைவி மற்றும் குழந்தை, குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டிருந்தனர்.
+On August 29, the wife and child of the underworld, Peko Samanamala, who arrived at the Bandaranaike International Airport, were arrested by the Criminal Investigation Department officials.
 
 ◼️
 
 [Data](articles/6651490b.json)
+
+[Extended Data](ext_articles/6651490b.ext.json)
 
 ---
 
@@ -557,6 +593,30 @@ Additionally, the court ordered the detention and interrogation of another lorry
 [Data](articles/23908708.json)
 
 [Extended Data](ext_articles/23908708.ext.json)
+
+---
+
+### Hoogya Heality Center Pilot tomorrow begins tomorrow
+
+*2025-09-25 11:30:14* · [`adalk`](https://www.ada.lk/breaking_news/“ආරෝග්‍යා-සුවතා-මධ්‍යස්ථාන”-නියමු-ව්‍යාපෘතිය-හෙට-ඇරඹෙයි/11-418713) · `si`
+
+According to the new health care centers of Health and Mass Media, Dr. Nalinda Jayatissa has planned to establish the right to close the health care centers in the health care care of the health care care of the health care centers island with respect to the people living in Sri Lanka.
+
+Under this project, a hundred primary health care centers are scheduled to popularize this year under this project under the innovative program for a new state.
+
+The Prime Minister of Health Care Center, which is closer to the public, has been named as Hospital Care Centers.
+
+Accordingly, five hosmoya health centers are to be vested with the public on 26,27,27 of this month under the pilot project.
+
+The Mapalagama Hospital Hospital will be opened to the public as the first center of Hoolagama Health Center Project on September 26.
+
+The Emperor Oya Hospital Center in the Ratnapura District will be provided to the commencement of nearly 5,000 of the Grama Niladhari Divisions in the Ethroya and Lower Habel.
+
+...
+
+[Data](articles/ad30f36a.json)
+
+[Extended Data](ext_articles/ad30f36a.ext.json)
 
 ---
 
@@ -951,6 +1011,22 @@ He was subsequently placed in a special camp for Sri Lankan refugees in Trichy a
 [Data](articles/17e489d8.json)
 
 [Extended Data](ext_articles/17e489d8.ext.json)
+
+---
+
+### Words Matter & Accuracy In Usage Matters Even More
+
+*2025-09-25 09:10:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/words-matter-accuracy-in-usage-matters-even-more/) · `en`
+
+My mother was my first and the last teacher. If she’s looking down from heaven, I suspect she’s quietly pleased with how I’ve navigated this world. She taught me to revere Dr. Samuel Johnson, not just as an erudite Englishman and lexicographer, but as a philosopher who warned, “Integrity without knowledge is weak and useless, and knowledge without integrity is dangerous and dreadful.” She also introduced me to Mrs. Malaprop, that delightfully misguided character from 18th-century theatre, who mangled words with misplaced confidence.
+
+Thanks to my beloved mother, I developed an early aversion to linguistic misuse. Whether in Sinhala or English, the wrong word in the wrong place grates on my ears like a surgical blade drawn across bone and in Sri Lanka, where both languages are wielded by the “educated,” the misuse is rampant.
+
+...
+
+[Data](articles/66352fe1.json)
+
+[Extended Data](ext_articles/66352fe1.ext.json)
 
 ---
 
@@ -1933,59 +2009,5 @@ The meeting was attended by External Affairs Minister Vijitha Herath and Sri Lan
 [Data](articles/f9be53f6.json)
 
 [Extended Data](ext_articles/f9be53f6.ext.json)
-
----
-
-### President meets Pakistan Prime Minister
-
-*2025-09-25 03:54:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தான்-பிரதமருடன்-ஜனாதிபதி-அநுர-சந்திப்பு/175-365248) · `ta`
-
-President Anura Kumara Dissanayake, who visited the United States to attend the 80th General Assembly session of the United Nations, met with Pakistani Prime Minister Shebaz Sharif.
-
-The meeting was held in New York City yesterday afternoon at the United Nations Permanent Representative's Office in the US.
-
-Focusing on further strengthening relations between Sri Lanka and Pakistan. (A)
-
-◼️
-
-[Data](articles/cee8a76c.json)
-
-[Extended Data](ext_articles/cee8a76c.ext.json)
-
----
-
-### Kurunegala - 7 monks killed in a cable car accident
-
-*2025-09-25 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226011) · `ta`
-
-The number of monks died in a cable car accident at the Buddhist Forest Ashram, a Buddhist forest ashore located in Bansiyagama, Melsiripura, Kurunegala.
-
-Two of the casualties are reported to be foreign citizens. Their bodies are kept at the Kogarulla District Hospital. The bodies of other monks have been kept at the Kurunegala Teaching Hospital.
-
-Investigations have revealed that 13 monks were in the cable car at the time of the accident.
-
-◼️
-
-[Data](articles/991c8969.json)
-
-[Extended Data](ext_articles/991c8969.ext.json)
-
----
-
-### Former Navy Commander Nishantha Ulugetenne further remanded
-
-*2025-09-25 03:50:54* · [`dailyftlk`](https://www.ft.lk/news/Former-Navy-Commander-Nishantha-Ulugetenne-further-remanded/56-782151) · `en`
-
-Former Navy Commander Nishantha Ulugetenne and former Navy Intelligence Director Rear Admiral (Retd.) Sarath Mohotti were further remanded till 8 October by Polgahawela Magistrate Udumbara Dasanayake.
-
-Ulugetenne was arrested in July in connection with the disappearance of a youth from Pothuhera, reportedly during his tenure as Director of Naval Intelligence.
-
-Mohotti was arrested by the Criminal Investigation Department on 18 September on charges related to the
-
-◼️
-
-[Data](articles/5d7e60a8.json)
-
-[Extended Data](ext_articles/5d7e60a8.ext.json)
 
 ---

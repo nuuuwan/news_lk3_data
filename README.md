@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 04:20:12**
+As of **2025-09-25 05:56:58**
 
 ## Newspaper Stats
 
-*Scraped **77,983** Articles*
+*Scraped **78,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,65 @@ bbccomsinhala | 677
 colombotelegraphcom | 788
 economynextcom | 4,706
 dailymirrorlk | 4,733
-islandlk | 4,781
-dailyftlk | 5,532
+islandlk | 4,793
+dailyftlk | 5,533
 adalk | 7,578
 adaderanalk | 10,124
 tamilmirrorlk | 11,757
-virakesarilk | 12,684
+virakesarilk | 12,689
 adaderanasinhalalk | 13,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,983 (100.0%) of 77,983 articles have been extended.
+77,988 (100.0%) of 78,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### President meets top officials ahead of UNGA session
+
+*2025-09-25 05:18:26* · [`dailyftlk`](https://www.ft.lk/news/President-meets-top-officials-ahead-of-UNGA-session/56-782153) · `en`
+
+President Anura Kumara Disanayake meets Pakistani Prime Minister Shehbaz Sharif
+
+President Anura Kumara Disanayake, who arrived in the US on Tuesday, met UN High Commissioner for Human Rights Volker Türk, ahead of the 80th session of the UN General Assembly (UNGA).
+
+The meeting took place at the Human Rights Council Chamber of the UN Secretariat in the US.
+
+Türk extended a warm welcome to Disanayake and engaged in bilateral discussions, the President’s Media Division (PMD) said in a statement.
+
+The President also met with US President Donald Trump’s Special Envoy for South and Central Asian Affairs and White House Presidential Personnel Office Director Sergio Gor in New York.
+
+The meeting took place at the Permanent Mission of Sri Lanka to the UN in New York.
+
+Separately, President Disanayake also met his South African counterpart Cyril Ramaphosa.
+
+...
+
+[Data](articles/1f404f86.json)
+
+---
+
+### Dileepan's 38th Emotional Final Memorial Discussion
+
+*2025-09-25 04:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226012) · `ta`
+
+A discussion on the final day of the day was organized by the Sampoor Alangulam Knight Tuilumillam Nivendal organizer in Trincomalee on Wednesday (24).
+
+Dileepan's 38th Nivendalai district was discussed during a discussion on 26.09.2025 on 26.09.2025.
+
+The President of the Memorial Organization Committee, K. Pannabhasan, said in 1987 when the Sri Lankan Indian Agreement was in effect in Sri Lanka, the Indian Peacekeeping Force against the atrocities of the Indian Peacekeeping Force in Sri Lanka "We are invited on behalf of the Alangulam Heroes Tuilumillam organizing committee to attend all the people in the Kulakottan Hall in Trincomalee.
+
+◼️
+
+[Data](articles/a09ba4f7.json)
+
+[Extended Data](ext_articles/a09ba4f7.ext.json)
+
+---
 
 ### President meets Pakistan Prime Minister
 
@@ -47,6 +89,24 @@ Focusing on further strengthening relations between Sri Lanka and Pakistan. (A)
 [Data](articles/cee8a76c.json)
 
 [Extended Data](ext_articles/cee8a76c.ext.json)
+
+---
+
+### Kurunegala - 7 monks killed in a cable car accident
+
+*2025-09-25 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226011) · `ta`
+
+The number of monks died in a cable car accident at the Buddhist Forest Ashram, a Buddhist forest ashore located in Bansiyagama, Melsiripura, Kurunegala.
+
+Two of the casualties are reported to be foreign citizens. Their bodies are kept at the Kogarulla District Hospital. The bodies of other monks have been kept at the Kurunegala Teaching Hospital.
+
+Investigations have revealed that 13 monks were in the cable car at the time of the accident.
+
+◼️
+
+[Data](articles/991c8969.json)
+
+[Extended Data](ext_articles/991c8969.ext.json)
 
 ---
 
@@ -105,6 +165,60 @@ The Police Headquarters said it greatly values the support given by citizens in 
 [Data](articles/f9825dab.json)
 
 [Extended Data](ext_articles/f9825dab.ext.json)
+
+---
+
+### Court permits to investigate a youth involved in various sword incidents in Jaffna
+
+*2025-09-25 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226010) · `ta`
+
+A suspect in Jaffna has been arrested at Katunayake airport on Tuesday 23rd.
+
+Based on his investigation, two swords were recovered on Wednesday (24).
+
+In this case, he was produced before the Jaffna court on Wednesday (24). The police have sought permission to investigate him for two days in police detention. It is noteworthy that the court also granted permission for the police.
+
+◼️
+
+[Data](articles/1c8b676f.json)
+
+[Extended Data](ext_articles/1c8b676f.ext.json)
+
+---
+
+### Proposal removal
+
+*2025-09-25 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226009) · `ta`
+
+The term 'conflict' is the term "conflict"; Removal of a verbal report submission of the 61st and 64th meeting
+
+According to the current amendments to the new proposals related to Sri Lanka by the British -led internet countries, the word 'ethnic problem' has been replaced by the word conflict and the government's abolitionist judiciary to establish an exclusive judiciary with the participation of an independent lawyer to investigate the crimes against international humanitarian law.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The first draft of the 60/L.1 new proposal on Sri Lanka was published on Sri Lanka under the title 'Reconciliation, Responsibility and Human Rights Improves' by the Internet countries including Canada, Malavi, Montenegro and North Mesitonia, which will be implemented during the meeting.
+
+...
+
+[Data](articles/1cabb51d.json)
+
+[Extended Data](ext_articles/1cabb51d.ext.json)
+
+---
+
+### SLT-Mobitel reinforces the University of Peradeniya to the next generation of engineers and technicians.
+
+*2025-09-25 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226008) · `ta`
+
+⦁ Why did the SLT-Mobitel decide to join the ENECEX 2025, what does this partnership reflect?
+
+SLT-Mobitel is the main sponsor of this exhibition to focus on how to create innovators who are involved in AI-related innovations among the next generation and to create a bridge between education and industry.
+
+SLT-Mobitel We are focusing on how to turn professional innovation into a business-based professional innovation. Because such activities are successful. The next generation will be able to afford the opportunity to transform a innovation into a business, thereby enrich them in the industry and contribute to the progress of the nation.
+
+...
+
+[Data](articles/66f8adaf.json)
+
+[Extended Data](ext_articles/66f8adaf.ext.json)
 
 ---
 
@@ -422,6 +536,26 @@ The team team can qualify for the final.
 
 ---
 
+### Glowing skin…
+
+*2025-09-24 23:23:00* · [`islandlk`](http://island.lk/glowing-skin-4/) · `en`
+
+This week I’m giving you some beauty tips for glowing skin and these remedies can all be done at home!
+
+Make a face mask by grating a cucumber and mixing it with 03 tablespoons of yoghurt.
+
+Apply this mask to your face, leave it on for 05 minutes and then rinse off with cold water.
+
+Take a small amount of coconut oil, warm it up between your hands, and massage it onto your face. Wait a few minutes before washing it off with your regular cleanser. You can also leave this home remedy on overnight and wash it off the next morning.
+
+For this home remedy, mix 01 teaspoon of baking soda with a teaspoon of olive oil, and half a spoon of honey. Wet your face and apply this mixture with gentle circular motions. Rinse off with cool water.
+
+...
+
+[Data](articles/8d86ebfb.json)
+
+---
+
 ### Traveling in October Sri Lanka is the best country
 
 *2025-09-24 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214975) · `si`
@@ -443,6 +577,70 @@ Other destinations are the Spain, New Yorkia, BhDen, Besania, Bosnia and Hrszoni
 [Data](articles/fdbde256.json)
 
 [Extended Data](ext_articles/fdbde256.ext.json)
+
+---
+
+### ComBank wins impressive triple at ICC Emerging Asia Banking Conclave & Awards 2025
+
+*2025-09-24 23:05:00* · [`islandlk`](http://island.lk/combank-wins-impressive-triple-at-icc-emerging-asia-banking-conclave-awards-2025/) · `en`
+
+The Commercial Bank of Ceylon was honoured with three prestigious awards at the 3rd Emerging Asia Banking Conclave & Awards 2025, organised by the Indian Chamber of Commerce (ICC).
+
+The Bank received the awards for Best Performance on Growth – Sri Lanka and Best Performance on Profitability – Sri Lanka, and won the Runner-up title for Best Bank in Sri Lanka, achieving a significant triple at this event.
+
+These accolades, presented at Le Meridien in New Delhi, India, highlight the Bank’s robust performance, resilience, and leadership within the region’s financial sector.
+
+Representing the Bank at the event was Mr. Ramachandren Sivagnanam, the Assistant General Manager – Personal Banking. The awards ceremony featured participation from financial institutions across Bhutan, Sri Lanka, Nepal, Myanmar, Bangladesh, and India.
+
+...
+
+[Data](articles/8b0ae12b.json)
+
+---
+
+### Ambassador for Japan visits Tokyo Cement Factory in Trincomalee
+
+*2025-09-24 23:05:00* · [`islandlk`](http://island.lk/ambassador-for-japan-visits-tokyo-cement-factory-in-trincomalee/) · `en`
+
+Akio Isomata, Ambassador of Japan to Sri Lanka, paid an official visit to the Tokyo Cement Factory in Trincomalee, underscoring the long-standing friendship and economic cooperation between Japan and Sri Lanka.
+
+The Ambassador was accompanied by Ms. Yukako Mizunuma, Finance Attaché, and Ms. Sachi Tanaka, Second Secretary of the Embassy of Japan. The visit highlighted Tokyo Cement’s latest expansion project, which recently added one million metric tons to the company’s manufacturing capacity, a milestone in strengthening Sri Lanka’s economic expansion and industrial development.
+
+...
+
+[Data](articles/8f101891.json)
+
+---
+
+### CSE picks-up speed following CBSL interest rate decision and growth predictions
+
+*2025-09-24 23:04:00* · [`islandlk`](http://island.lk/cse-picks-up-speed-following-cbsl-interest-rate-decision-and-growth-predictions/) · `en`
+
+CSE trading activities took off at a slow pace yesterday but later turned positive following the Central Bank’s decision to keep policy rates unchanged at 7.75 percent and projections that the decision will help in steering inflation towards the target of 5 percent coupled with an expansion of economic growth, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 55.6 points while S and P SL20 rose by 14.08 points. Turnover stood at Rs 5.57 billion with 12 crossings. The top seven crossings were: VallibelOne 3.6 million shares crossed to the tune of Rs 372 million and its shares traded at Rs 103, Jetwing Symphony 13 million shares crossed for Rs 227 million; its shares traded at Rs 18.10, Hayleys 700,000 shares crossed for Rs 130 million; its shares traded at Rs 188.
+
+...
+
+[Data](articles/dedb7e1b.json)
+
+---
+
+### Zaco Information Technology Lanka officially launches in Sri Lanka
+
+*2025-09-24 23:03:00* · [`islandlk`](http://island.lk/zaco-information-technology-lanka-officially-launches-in-sri-lanka/) · `en`
+
+Enterprise-Grade IT Hardware, Lifecycle Management, and Green IT Solutions Now Available to Sri Lankan Enterprises
+
+Zaco Information Technology Lanka (PVT) Ltd. has officially launched operations in Sri Lanka as a joint venture between Zaco Computers India and InfoChain Private Limited. The launch event, held at the Computer Society of Sri Lanka (CSSL) Auditorium, marks a key milestone in the company’s international expansion, bringing global-standard IT solutions to the region.
+
+The event was attended by Siraj Kazi (Chairman), Hafiz Sayed (Managing Director), and directors Dr. Malitha Wijesundara and Heshan Karunaratne, along with distinguished guests from the IT and business community.
+
+Welcoming the audience, Fawaz Haque introduced Zaco’s vision and highlighted the importance of technology in accelerating Sri Lanka’s economic growth.
+
+...
+
+[Data](articles/cabffcef.json)
 
 ---
 
@@ -1893,245 +2091,5 @@ In the second phase, all employees reported sick leave in two groups on Septembe
 [Data](articles/ff2d2056.json)
 
 [Extended Data](ext_articles/ff2d2056.ext.json)
-
----
-
-### Sri Lanka sells less than offered treasury bills, yields flat
-
-*2025-09-24 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-less-than-offered-treasury-bills-yields-flat-241780/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 34 billion rupees of Treasury bills, of an offered 38 billion, with yields flat across maturities, data from the state debt office showed.
-
-The 3-month yield was unchanged at 7.57 percent, with 10 billion rupees of bills offered and 3.21 billion sold.
-
-The 6-month yield was unchanged at 7.89 percent, with 12 billion rupees offered and 29.14 billion sold.
-
-The 12-month yield was unchanged at 8.02 percent with 16 billion rupees offered and 1.98 billion rupees bills sold.
-
-The 3-month and 12-month bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/822effe5.json)
-
-[Extended Data](ext_articles/822effe5.ext.json)
-
----
-
-### The best country is named Sri Lankans to visit on October
-
-*2025-09-24 15:33:58* · [`adalk`](https://www.ada.lk/breaking_news/ඔක්තෝබරයේ-සංචාරය-කරන්න-හොඳම-රට-ලංකාව-ලෙස-නම්-කරයි/11-418701) · `si`
-
-Sri Lanka has been named by a global travel magazine, as the best destination to travel in October 2025.
-
-TIMET journal, which is warm and natural beauty, and the Tim Out magazine has been appreciated to Sri Lanka in October.
-
-The golden beaches and mountain ranges will be given to the island visitors to the island.
-
-Sri Lanka has been in the list of Turkey and New Mexico.  The Spain's Valenasia, New York City, Philippines, Bhutan, Bosnia, Bosnia, and other destinations included other destinations included in San Francisco and Namibia.
-
-◼️
-
-[Data](articles/5913ab8d.json)
-
-[Extended Data](ext_articles/5913ab8d.ext.json)
-
----
-
-### Notice to the drivers of Navagamuwa Police Division
-
-*2025-09-24 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214960) · `si`
-
-Bamiriya police division in Navagamuwa Police Pirivena Maha Viharaya will take place from the 21st to tomorrow (25th).
-
-Accordingly, from 07.00 pm on the date, the sacred relics will visit the streets.
-
-The Perahera begins with the Wata-junction through the Waithota road, along with the Yamama School Mawatha along the Vavuniya road through the Yamama School Mawatha through the Yamama School Mawatha along with the Yamama School Mawatha.
-
-As a result, drivers have been asked to use alternative routes.
-
-From the Kaduwela Wele Junction, crossing the Athurugiriya junction and the vehicles traveling to Athurugiriya junction south. It can be moved to Athurugiriya through Jayawardena Mawatha.
-
-The light vehicles from Athuriya, towards the Kaduwela road from Athuru Road, towards the Kaduwela, towards the Kaduwela road to the Navagamuwa, Sumanatissa Mawatha to the Navagamuwa and Hanwella.
-
-◼️
-
-[Data](articles/ce88ad57.json)
-
-[Extended Data](ext_articles/ce88ad57.ext.json)
-
----
-
-### Former Navy Commander further remanded
-
-*2025-09-24 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214959) · `si`
-
-Polgahawela Magazure Dasurra Dasalla Magazibra Dasadenayake today (24) ordered that Nishantha Ullal (Pension) Nishantha Ullagetenna.
-
-Former Navy Commander (Pension), Rear Admiral (Retired) Sarath Mohoti, who was arrested by Alawwa Police arrested by the police arrested and receiving treatment at the Kurunegala Hospital.
-
-The suspect, the suspects and the 10th suspect in the bail after the case was taken to court.
-
-The former Navy Commander Nishantha Untalhena, former Navy Intelligence Chief of Sarath Mohottenna, was in the Udutadumbara Prison to Squirt Prison.
-
-The case was taken up in the magistrate official studio and the Criminal Investigations Department (CID) said the lawyers and the lawyer of the victims.
-
-The Magistrate's case was recalled on the 8th of October.
-
-◼️
-
-[Data](articles/c885e510.json)
-
-[Extended Data](ext_articles/c885e510.ext.json)
-
----
-
-### Sri Lanka central bank chief warns of cryptocurrency’s role in money laundering
-
-*2025-09-24 15:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-chief-warns-of-cryptocurrencys-role-in-money-laundering-241767/) · `en`
-
-ECONOMYNEXT – There is no law on using cryptocurrency as an asset class in Sri Lanka, the central bank governor said, but it raises concerns about money laundering.
-
-“Since cryptocurrency is a relatively new thing, no law has been introduced on cryptocurrency, or virtual currency,” Nandalal Weerasinghe told reporters.
-
-“It cannot be used as legal tender in the country as per our foreign exchange act, but it can be used as an asset class, an investment.
-
-“The problem is, we don’t know if it’s used for money laundering.”
-
-Trade Minister Wasantha Samarasinghe, in his asset declaration, has said he holds 3,000 cryptocurrency, sparking debate on whether or not it is illegal. (Colombo/Sep24/2025)
-
-◼️
-
-[Data](articles/1bd962c3.json)
-
-[Extended Data](ext_articles/1bd962c3.ext.json)
-
----
-
-### China Easton to be claimed to the world's longest flight
-
-*2025-09-24 15:16:58* · [`adalk`](https://www.ada.lk/international/ලෝකයේ-දීර්ඝතම-ගුවන්-ගමනට-හිමි-වාර්තාවට-චයිනා-ඊස්ටන්-‍-හිමිකම්-කීමට-යයි/3-418700) · `si`
-
-China Easton Airlines is designed to make the world's longest flight report. Accordingly, the airline is scheduled to be implemented from Shanghai in Shanghain, China, from Shanghai, China.
-
-From December 4, the flight will be operated twice a week from the Pudong International Airport from December 4.
-
-The flight covered by this flight, which is designated as MU745 and MU746, is about 12,500 miles covering. The airline is due to be used by the airline with broader boeing 777-300 er aircraft.
-
-Airline also announced tickets for flight. A seat of the economy class of economic class has been placed at a range of $ 1,525 and 2554 and a business class seat at a price of $ 4,994.
-
-◼️
-
-[Data](articles/d2bb54a6.json)
-
-[Extended Data](ext_articles/d2bb54a6.ext.json)
-
----
-
-### Shahruk won the first National Film Award for 'Javan'
-
-*2025-09-24 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214958) · `si`
-
-The Best Actor was awarded the earth award at the 71st National Film Awards in India.
-
-Shahrudu, a 59-year-old Shahrukhan, is growing as 'King Khan' in the Indian film industry for over 30 years.
-
-The President of India was awarded the National Movie Award by the President of India at the Awards held at the Awards held at the Awards yesterday (23) at the Awards, Delhi.
-
-Shahru Rukh Khan wins the film 'Javan' film directed by the Director of the 'Javan' directed by the Director of the Damili Film Director Atley.
-
-Then, a sensitive video had been released to the Social Media, thanks to the entire group, who contributed to their fans, family and siblings and 'Javan'.
-
-"This is a moment when I appreciate the lifetime of life as well as the national award. Thank you very much for the President of the Jururo, the Chairman and ICT and I thought I was suitable for this honor. "
-
-The film 'Javan' became a record blockbuster film in 2023, and his performance was worse among the people.
-
-◼️
-
-[Data](articles/dca2ecc8.json)
-
-[Extended Data](ext_articles/dca2ecc8.ext.json)
-
----
-
-### Is cryptocurrency legal in Sri Lanka? Central Bank Governor explains
-
-*2025-09-24 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/112860/is-cryptocurrency-legal-in-sri-lanka-central-bank-governor-explains) · `en`
-
-Although Sri Lankans cannot use cryptocurrency for transactions in the country, investing in cryptocurrency or virtual currency has no legal impediment due to the non-existence of laws or regulations, according to the Governor of the Central Bank of Sri Lanka (CBSL) Dr. Nandalal Weerasinghe.
-
-Investing in cryptocurrency has become a widely debated topic at present, following the revelation that Minister of Trade, Commerce, Food Security and Cooperative Development Wasantha Samarasinghe owns cryptocurrency.
-
-This was revealed based on the report submitted on assets and liabilities to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) by Minister Wasantha Samarasinghe.
-
-When inquired on the legality of cryptocurrency in Sri Lanka, Governor Nandalal Weerasinghe explicitly stated that cryptocurrency cannot be used for transactions within the country.
-
-...
-
-[Data](articles/bcc9272c.json)
-
-[Extended Data](ext_articles/bcc9272c.ext.json)
-
----
-
-### 15 breast cancer patients in Sri Lanka - 3 deaths
-
-*2025-09-24 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214957) · `si`
-
-Fifteen breast cancer patients have been reported in Sri Lanka and about 3 breast cancer patients die daily.
-
-Speaking at a press conference held at the Health Promotion Bureau today (24), Mrs. Dr. Szani Alahapperuma said that 19,457 cancer patients were identified among women in Sri Lanka.
-
-The doctor states that 5,477 breast cancer patients have been identified among women.
-
-The doctor added that almost 30% of the breast cancer patients, the doctor, said that about 30% of breast cancer patients could be cured.
-
-A total of 15,245 people die due to Sri Lankan cancer, and 798 of these conditions are due to death cancer.
-
-"The first one is the exhibition of cancer at the 10th morning of the Havelock City shopping. There is a program to educate the special doctors at 2 pm, and there are a patients who have been identified as long as they have been diagnosed and overcome earlier before they have been identified early. "
-
-...
-
-[Data](articles/5c6b9073.json)
-
-[Extended Data](ext_articles/5c6b9073.ext.json)
-
----
-
-### "MPs should show that picture"
-
-*2025-09-24 15:04:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்களுக்கு-அந்தப்-படத்தைப்-போட்டுக்-காட்ட-வேண்டும்/175-365209) · `ta`
-
-Chairman Bimal Ratnayake today requested the Parliamentary Committee on Arts and Cultural Affairs to screens the Bollywood film 'Tare Jameen Bur' for parliamentarians.
-
-"After seeing Tare Jamen Bur, it had a huge impact on me and my wife. This inspired us to think about the needs of children.
-
-MPs who don't care about children should watch the film. Otherwise, I propose to give them copies of the DVD, ”the minister said.
-
-◼️
-
-[Data](articles/fddda9e5.json)
-
-[Extended Data](ext_articles/fddda9e5.ext.json)
-
----
-
-### Bomb blast in Norway
-
-*2025-09-24 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/225948) · `ta`
-
-A bomb blast took place on Tuesday (23) in Norway's capital, Central Oslo.
-
-Norwegian police said that the second bomb found in the same place had exploded in a controlled manner and a suspect had been arrested for investigation.
-
-No injuries have been reported near the university campus and about 500 meters (546 yards) from the State Palace and the Israeli embassy.
-
-The incident took place a day after drones found near Oslo and Copenhagen's airports.
-
-◼️
-
-[Data](articles/f7c354ed.json)
-
-[Extended Data](ext_articles/f7c354ed.ext.json)
 
 ---

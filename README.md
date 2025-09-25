@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 09:24:05**
+As of **2025-09-25 09:13:38**
 
 ## Newspaper Stats
 
-*Scraped **78,040** Articles*
+*Scraped **78,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,581
-adaderanalk | 10,136
+adaderanalk | 10,132
 tamilmirrorlk | 11,763
 virakesarilk | 12,694
 adaderanasinhalalk | 13,631
@@ -26,247 +26,163 @@ adaderanasinhalalk | 13,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,036 (100.0%) of 78,040 articles have been extended.
+78,020 (100.0%) of 78,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### Minister Vijitha Herath holds bilateral talks with Maldives, Finland and Germany FMs
-
-*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112897/minister-vijitha-herath-holds-bilateral-talks-with-maldives-finland-and-germany-fms) · `en`
-
-Minister of Foreign Affairs Vijitha Herath has held bilateral talks with Ministers of several countries on the sideline of the 80th session of the United Nations General Assembly.
-
-Minister Herath met with Minister of Foreign Affairs of Maldives Abdulla Khaleel on the sidelines of the 80th UN General Assembly.
-
-The duo reviewed the ongoing cooperation and explored ways to further strengthen close bilateral relations.
-
-The Foreign Minister also met the Minister of Foreign Affairs of Finland, Elina Valtonen on the sidelines of the 80th UN General Assembly. The discussions focused on strengthening cooperation between Sri Lanka and Finland.
-
-Minister of Foreign Affairs Vijitha Herath discussed advancing bilateral cooperation and shared perspectives on key global issues during the meeting with the Minister of State at the Federal Foreign Office of Germany, Serap Güler.
-
-The meeting between the duo was also held on the sidelines of the 80th UN General Assembly.
-
-◼️
-
-[Data](articles/041c40f3.json)
-
----
-
-### Hong Kong reopens after world’s most powerful cyclone Ragasa
-
-*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112898/hong-kong-reopens-after-worlds-most-powerful-cyclone-ragasa) · `en`
-
-Hong Kong resumed flights out of its international airport on Thursday after a 36-hour suspension, reopening businesses, transportation services and some schools after the world’s most powerful tropical cyclone this year lashed the financial hub.
-
-Ragasa brought the densely populated city to a standstill from Tuesday afternoon, after sweeping through the northern Philippines and Taiwan where it killed 14, before making landfall on the southern Chinese city of Yangjiang on Wednesday.
-
-More than 100 people were injured in Hong Kong, where authorities imposed the highest typhoon signal 10 for most of Wednesday.
-
-On Thursday, the observatory maintained its second-lowest typhoon signal 3, keeping kindergartens and some schools shut as Ragasa moved away from the city and weakened into a tropical storm.
-
-Huge waves crashed over areas of Hong Kong’s eastern and southern shoreline on Wednesday, with widespread flooding submerging some roads and residential properties.
-
-...
-
-[Data](articles/bfdb1d9d.json)
-
----
-
-### Kurunegala - Three people killed, four injured
+### குருணாகல் - அநுராதபுரம் வீதியில் கோர விபத்து: மூன்று பேர் பலி, நால்வர் காயம் !
 
 *2025-09-25 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226020) · `ta`
 
-Three people were killed and four others were injured in an accident in Mirissa, Thalawa area on the Kurunegala - Anuradhapura main road.
+குருணாகல் - அநுராதபுரம் பிரதான வீதியில் மிரிஸ்ஸ, தலாவ பகுதியில் இடம்பெற்ற கோர விபத்தில், மூன்று பேர் உயிரிழந்ததுடன், மேலும் நால்வர் காயமடைந்துள்ளனர்.
 
-Three people died on the spot. And four are injured. The injured were immediately admitted to a nearby hospital for treatment.
+இந்த விபத்தில் மூன்று பேர் சம்பவ இடத்திலேயே உயிரிழந்தனர். மேலும் நால்வர் படுகாயமடைந்துள்ளனர். காயமடைந்தவர்கள் உடனடியாக சிகிச்சைகளுக்காக அருகில் உள்ள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/6f3a06a8.json)
 
-[Extended Data](ext_articles/6f3a06a8.ext.json)
-
 ---
 
-### Crash that took place this morning: Three dies
+### இன்று காலை இடம்பெற்ற கோர விபத்து :  மூவர் மரணம்
 
 *2025-09-25 08:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-இடம்பெற்ற-கோர-விபத்து-மூவர்-மரணம்/175-365254) · `ta`
 
-Three persons were killed in a vehicle accident on the Kurunegala - Anuradhapura main road, Thalawa, Mirigama area today (25).
+குருநாகல் - அநுராதபுரம் பிரதான வீதியில், தலாவ, மீரிகம பகுதியில் இன்று (25) இடம்பெற்ற வாகன விபத்தில் மூவர் உயிரிழந்துள்ளனர்.
 
-The accident occurred when a van traveling from Kurunegala to Anuradhapura collided with a lorry.
+குருணாகலிலிருந்து அநுராதபுரம் நோக்கிச் சென்றுகொண்டிருந்த வேனும் எதிர்த்திசையில் பயணித்த லொறியும் மோதியதால் இவ் விபத்து ஏற்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/ad8b471a.json)
 
-[Extended Data](ext_articles/ad8b471a.ext.json)
-
 ---
 
-### Driver
+### மது போதையில் வாகனம் செலுத்திய சாரதி
 
 *2025-09-25 08:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-போதையில்-வாகனம்-செலுத்திய-சாரதி/175-365253) · `ta`
 
-A driver who allegedly drove a bus while intoxicated has been arrested in Kandapalai, Nuwara Eliya.
+மது போதையில் பேருந்து செலுத்தியதாக கூறப்படும் சாரதி ஒருவர் நுவரெலியா கந்தப்பளை பகுதியில் கைது செய்யப்பட்டுள்ளார்.
 
-The driver of the bus belonging to the Sri Lanka Transport Board (SLTB) has been arrested from Udapusallawa to Nuwara Eliya.
+உடபுஸ்சல்லாவையிலிருந்து, நுவரெலியா நோக்கி பயணித்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்தை செலுத்திய சாரதியே கைது செய்யப்பட்டுள்ளார்.
 
-When the driver was arrested, about 30 people were traveling on the bus he paid, police said.
+சாரதியை கைது செய்யும் போது, அவர் செலுத்திச்சென்ற பேருந்தில் சுமார் 30 பேர் பயணித்ததாகவும் பொலிஸார் குறிப்பிட்டனர்.
 
-A 55 -year -old driver from Udapusallawa has been arrested. Remble
+உடபுஸ்சல்லாவை பகுதியை சேர்ந்த 55 வயதான சாரதி ஒருவரே கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
 
 ◼️
 
 [Data](articles/c0d14289.json)
 
-[Extended Data](ext_articles/c0d14289.ext.json)
-
 ---
 
-### Iran, US signal possible easing in nuclear tensions
-
-*2025-09-25 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112896/iran-us-signal-possible-easing-in-nuclear-tensions) · `en`
-
-Tehran and Washington signalled a possible softening in nuclear tensions on Wednesday (Sep 24), with Iran insisting it has no ambitions to build nuclear weapons and the US expressing readiness to resume talks aimed at resolving the long-standing standoff.
-
-A few hours after Iranian President Masoud Pezeshkian told the UN General Assembly that Iran will never seek to build a nuclear bomb, US President Donald Trump’s Middle East Envoy Steve Witkoff said “we have no desire to hurt them”.
-
-“We’re talking to them. And why wouldn’t we? We talk to everybody. As well we should. That’s the job. Our job is to solve things,” he told the Concordia summit in New York.
-
-Prior to a 12-day war between Iran and Israel in June, Tehran and Washington held five rounds of nuclear talks but faced major stumbling blocks such as uranium enrichment on Iranian soil, which Western powers want to bring down to zero to minimise any risk of weaponisation.
-
-...
-
-[Data](articles/2a3720d1.json)
-
----
-
-### A woman and a woman who helped her with weapons and drugs in the Matara Special Task Force Base
+### மாத்தறை விசேட அதிரடிப்படை முகாமில் ஆயுதங்கள், போதைப்பொருளுடன் நபரொருவரும் அவருக்கு உதவிய பெண் ஒருவரும் கைது
 
 *2025-09-25 08:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226022) · `ta`
 
-A suspect and a woman who assisted him have been arrested in the Matara Police Special Task Force, with 04 T-56 rifles, one megacin, 27 bullets and heroin.
+மாத்தறை பொலிஸ் விசேட அதிரடிப்படை முகாமில் 04 ரி-56 ரக துப்பாக்கிகள், ஒரு மெகசின், 27 தோட்டாக்கள் மற்றும் ஹெரோயின் போதைப்பொருள் ஆகியவற்றுடன்  சந்தேக நபரொருவரும் அவருக்கு உதவிய பெண் ஒருவரும் கைது செய்யப்பட்டுள்ளனர்.
 
-The two were arrested on Wednesday evening (September 24) in the Pavala area of ​​the Weligama Police Division.
+வெலிகம பொலிஸ் பிரிவிற்குட்பட்ட தொலொஸ்கொட  - இப்பாவல பகுதியில், புதன்கிழமை ( செப்டெம்பர் 24) மாலை குறித்த இருவரும் கைது செய்யப்பட்டுள்ளனர்.
 
-The suspect has been identified as a 38 -year -old from Weligama.
+சந்தேகநபர் 38 வயதான இப்பாவெல, வெலிகம பகுதியைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளது.
 
-The 37 -year -old woman from Weligama has been arrested after investigations.
+அவருக்கு உதவியதாக சந்தேகிக்கப்படும் 37 வயதான இப்பாவெல, வெலிகம பகுதியைச் சேர்ந்த பெண்ணும் விசாரணைகளுக்கு பின்னர் கைது செய்யப்பட்டுள்ளார்.
 
-The two arrested have been taken to the Weligama Police Station for further investigations.
+கைது செய்யப்பட்ட இருவரும் மேலதிக விசாரணைக்காக வெலிகம பொலிஸ் நிலையத்திற்கு அழைத்துச் செல்லப்பட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/5c1c76a2.json)
 
-[Extended Data](ext_articles/5c1c76a2.ext.json)
-
 ---
 
-### The Chinese Navy experiments to a new technology
+### චීන නාවික හමුදාව නව තාක්ෂණයක් අත්හදා බලයි
 
 *2025-09-25 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214984) · `si`
 
-A modern aircraft range of aircraft on a massive aircraft carrier from the Chinese Navy has won the world's attention.
+චීන නාවික හමුදාවට අයත් දැවැන්ත ගුවන් යානා ප්‍රවාහන නෞකාවක් මත සිදුකළ නවීන ගුවන්යානා විහිදුම් තාක්ෂණ ක්‍රමවේදයක් ලෝකයේම අවධානය දිනාගත්තේය.
 
-Foreign media reports that a highlight procedure in modern electromagnetic force had been tested.
+එහිදී නවීන විද්‍යුත් චුම්භක බලයෙන් සවිගැන්වූ විහිදුම් ක්‍රමවේදයක් අත්හදා තිබූ බව විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
 
-The Chinese Navy recently made a modern flight technique.
+නවීන ගුවන්ගතකිරීමේ තාක්ෂණ ක්‍රමවේදයක් අත්හදාබැලීමට චීන නාවික හමුදාව පසුගියදා කටයුතු කළේය.
 
-There was a fleet from a vessel vessel from a vessel vessel from a venerated image vessel.
+එහිදී නවීන ඉලෙක්ට්‍රො මැග්නටික් එනම් විද්‍යුත් චුම්භක බලයෙන් සවිගැන්වූ විහිදුම් ක්‍රමවේදයක් යටතේ එරට නෞකා ප්‍රවාහන යාත්‍රාවක සිට ගුවන් යානා කිහිපයක් ගුවන්ගත කෙරුණි.
 
-The funded J-15t, J-35 and Congesan-Sixings are three fighters.
+මෙලෙස ගුවන්ගත කෙරුණේ J-15T, J-35 සහ කොන්ජින්  - සික්ස්හන්ඩ්‍රඩ් නම් ප්‍රහාරක යානා තුනකි.
 
-Even during the 80th anniversary invasion of the Japanese invasion this year, the aircraft used to be used for this purpose.
+මේ වසරට යෙදී තිබුණු ජපාන ආක්‍රමණය පැරදවීමේ 80 වැනි සංවත්සර උත්සව අතරතුර පවා ප්‍රදර්ශනය කළ මෙම යානා මේ සඳහා යොදාගැනීම කාගේත් අවධානයට ලක්විය.
 
-The image technologies used here was improved by Chinese scientists.
+මෙහිදී යොදාගත් විහිදුම් තාක්ෂණ ක්‍රමවේදය වැඩිදියුණු කර තිබුණේ චීන විද්‍යාඥයින් විසිනි.
 
-It is also considered a chance to represent the possibility of carrying full operations on the fool.
-
-China is considered as a state that has acquired a remarkable advancement of the aircraft production product recently.
-
-The third ship of the Chinese warfront program is the Fujian.
+එමගින් ෆූජියෑන් නෞකා තට්ටුව මත පූර්ණ මෙහෙයුම් සිදුකිරීමට ඇති හැකියාව නිරූපණය කළ අවස්ථාවක් ද ලෙස සැලකේ.
 
 ...
 
 [Data](articles/91da4e18.json)
 
-[Extended Data](ext_articles/91da4e18.ext.json)
-
 ---
 
-### 7 Buddhist monks death after cable car
+### கேபிள் கார் அறுந்து விழுந்ததில் 7 பௌத்த துறவிகள் மரணம்
 
 *2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/175-365252) · `ta`
 
-Seven people were killed when a cable car carrying clergymen crashed yesterday in the Kurunegala - Melsiripura Na Uyana area.
+குருநாகலை - மெல்சிரிபுர நா உயன பகுதியில், நேற்று மதகுருமார்களை ஏற்றிச் சென்ற கேபிள் கார் அறுந்து விழுந்து விபத்துக்குள்ளானதில் 7 பேர் உயிரிழந்தனர்.
 
-Police say two of the victims include two Russian monks and a Cambodian monk.
+உயிரிழந்தவர்களில் இரண்டு ரஷ்ய துறவிகளும், கம்போடிய துறவி ஒருவரும் அடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
 
-In addition, six injured in the incident have been admitted to the Kurunegala Teaching Hospital.
+அத்துடன், இந்த சம்பவத்தில் காயமடைந்த 6 பேர் குருநாகலை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-Thirteen clergy traveled in the cable car when the accident occurred. Remble
+விபத்து நேர்ந்த சந்தர்ப்பத்தில் குறித்த கேபிள் காரில் 13 மதகுருமார்கள் பயணித்துள்ளனர். R
 
 ◼️
 
 [Data](articles/42ba414f.json)
 
-[Extended Data](ext_articles/42ba414f.ext.json)
-
 ---
 
-### Sri Lanka occupies the excellence of the Indian Ocean: Prime Minister Harini is to work with all partners
+### இந்திய பெருங்கடல் அமைவிட சிறப்பை இலங்கை ஆக்கிரமித்துள்ளது : அனைத்து பங்காளிகளுடனும் இணைந்து பணியாற்றுவதே இலக்கு - பிரதமர் ஹரிணி
 
 *2025-09-25 08:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226018) · `ta`
 
-Located in the center of the Indian Ocean, Sri Lanka has realized the privilege and responsibility of its location. This is a miraculous setting.  We have occupied that place. Prime Minister Harini Amarasuriya said that this moment is not only for us, but also for the position we have occupied.
+இந்திய பெருங்கடலின் மையத்தில் அமைந்துள்ள இலங்கை, அதன் இருப்பிடத்தின் சிறப்புரிமையையும் பொறுப்பையும் உணர்ந்துள்ளது. இது ஒரு அதிசயமான அமைவிடமாகும்.  அந்த இடத்தை ஆக்கிரமித்துள்ளோம். இந்த தருணம் அந்த அதிசயமான இருப்பிடம் நமக்கு மட்டும் அல்ல, நாம் ஆக்கிரமித்துள்ள அந்த நிலைப்பாட்டிற்கும் மிகவும் பயனுள்ளதாக இருக்கும் என்று தெரிவித்த பிரதமர் ஹரிணி அமரசூரிய, இந்தியப் பெருங்கடல் அமைதியாகவும், பாதுகாப்பாகவும், நிலையானதாகவும், நியாயம் மற்றும் ஒத்துழைப்பின் மூலம் ஆளப்படுவதை உறுதி செய்வதற்காக அனைத்து பங்காளிகளுடனும் இணைந்து பணியாற்றுவதே இலங்கையின் அர்ப்பணிப்பாகும் என்றும் குறிப்பிட்டார்.
 
-The 12th Galle Discussion of the Indian Ocean Region began on Wednesday. The Prime Minister said this while addressing the gathering. He continues to say,
-
-I appreciate the Sri Lankan Navy's vision and continuous commitment to merge a site for discussion on the future of the Indian Ocean. It strengthens cooperation among global maritime shareholders. The theme of this year is the 'maritime outlook of the Indian Ocean under the changing mechanism' is the time and important. The Indian Ocean is one of the most extended strategic maritime fields in the world, which is also a major lifeline for trade and energy protection.
+இந்திய பெருங்கடல் பிராந்தியத்தின் பாதுகாப்பு கலந்துரையாடலான 12 ஆவது காலி கலந்துரையாடல் நேற்று புதன்கிழமை ஆரம்பமானது. இதில் கலந்துக்கொண்டு உரையாற்றும் போதே பிரதமர் மேற்கண்டவாறு கூறினார். அவர் அங்கு தொடர்ந்தும் கூறுகையில்,
 
 ...
 
 [Data](articles/58499577.json)
 
-[Extended Data](ext_articles/58499577.ext.json)
-
 ---
 
-### Nothing is written in stone: Third -party solution to regional issues can lead to conflicts -Indian Navy Officer
+### எதுவும் கல்லில் எழுதப்படவில்லை: பிராந்திய பிரச்சினைகளுக்கு மூன்றாம் தரப்பு தீர்வு மோதல்களுக்கு வழிவகுக்கலாம் -  இந்திய கடற்படை அதிகாரி
 
 *2025-09-25 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226017) · `ta`
 
-The highest number of national benefits of many countries travel through the Indian Ocean. This is the homeland of a large number of crowded crisis points. Have vulnerable characteristics from all kinds of challenges. So you have to be careful. Although there are additional regional powers in the Indian Ocean region, it is necessary to find regional solutions to regional problems.  And have enough capacity within the region to find those solutions. Nothing is written on stone. Indian Navy Officer Admiral Dinesh K.. Said Tripathi.
+பல நாடுகளின் அதிக அளவு தேசிய நலன்கள் இந்தியப் பெருங்கடல் பகுதி வழியாக பயணிக்கின்றன. இது அதிக எண்ணிக்கையிலான நெரிசலான நெருக்கடி  புள்ளிகளின் தாயகமாகும். அனைத்து வகையான சவால்களிலிருந்தும் பாதிக்கப்படக்கூடிய தன்மைகள் உள்ளன. எனவே கவனமாக  இருக்க வேண்டியிருக்கிறது. இந்தியப் பெருங்கடல் பிராந்தியத்தில் கூடுதல் பிராந்திய சக்திகள் இருப்பதால் அது ஒரு வகையான சமநிலைக்கு வழிவகுக்கும் என்ற கருத்துடன்  உடன்பட்டாலும்,  பிராந்திய பிரச்சனைகளுக்கு பிராந்திய தீர்வுகளை  கண்டுபிடிக்க வேண்டும்.  மேலும் அந்த தீர்வுகளைக் கண்டறிய பிராந்தியத்திற்குள் போதுமான திறன் உள்ளது. எதுவும் கல்லில் எழுதப்படவில்லை. எனவே வேறு எந்த பயனரிடமிருந்தும் உதவி அல்லது ஆலோசனை பெற்றால் மோதலுக்கு வழிவகுக்க கூடும் என இந்திய கடற்படை அதிகாரி  அட்மிரல்  தினேஷ் கே. திரிபதி தெரிவித்தார்.
 
-He said this while attending and addressing the 12th vacancies conference. Continuing to mention that
+12 ஆவது காலி கலந்துரையாடல் மாநாட்டில் கலந்துக்கொண்டு  உரையாற்றும் போதே அவர் இதனை குறிப்பிட்டார். தொடர்ந்தும் குறிப்பிடுகையில்,
 
 ...
 
 [Data](articles/72c3cf1b.json)
 
-[Extended Data](ext_articles/72c3cf1b.ext.json)
-
 ---
 
-### UPDATE: Buddhist monks killed in Buddhist Vihara: 7 Buddhist monks killed
+### Update : பௌத்த விகாரையில் கோர விபத்து: 7 பௌத்த பிக்குகள் பலி
 
 *2025-09-25 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226021) · `ta`
 
-Seven monks, including a Buddhist monk from India, Romania and Russia, have died in the crash of the Cable-Track Operated Cart at the Bansiyagama, Na Iyana Aranya Senasana Viharaya in Upperipura.. Six more monks were injured in the accident.
+மேல்சிறிபுரவில் உள்ள பன்சியகம, நா உயன ஆரண்ய சேனசனா விகாரையில், கம்பித் தடத்தில் இயங்கும் வண்டி (cable-track operated cart) விபத்துக்குள்ளானதில், இந்தியா, ருமேனியா மற்றும் ரஷ்யாவைச் சேர்ந்த தலா ஒரு பௌத்த பிக்கு உட்பட ஏழு பிக்குகள் உயிரிழந்துள்ளனர். இந்த விபத்தில் மேலும் ஆறு பிக்குகள் காயமடைந்துள்ளனர்.
 
-Melappura, Bansiyagama, Na Aranya Senasana Vikarai. Police said the accident occurred as the monks operated on the wire track used for transportation in the warehouse.
+மேல்சிறிபுர, பன்சியகம, நா உயன ஆரண்ய சேனசனா விகாரை. இந்த விகாரையில் பிக்குகள் போக்குவரத்திற்காகப் பயன்படுத்தப்படும் கம்பித் தடத்தில் இயங்கும் வண்டி, கட்டுப்பாட்டை இழந்து கீழே விழுந்ததால் இந்த விபத்து ஏற்பட்டுள்ளதாகப் பொலிஸார் தெரிவித்தனர்.
 
-Seven Buddhist monks have died. They are from Romania, Russia and India each.
+ஏழு பௌத்த பிக்குகள் உயிரிழந்துள்ளனர். இவர்களில் ருமேனியா, ரஷ்யா மற்றும் இந்தியா ஆகிய நாடுகளைச் சேர்ந்த தலா ஒவ்வொரு பிக்கு அடங்குவர்.
 
 ◼️
 
 [Data](articles/db6763bf.json)
-
-[Extended Data](ext_articles/db6763bf.ext.json)
 
 ---
 
@@ -281,8 +197,6 @@ The Sri Lanka Economic and Investment Summit is scheduled to be held on 2-3 Dece
 ...
 
 [Data](articles/a59e68b5.json)
-
-[Extended Data](ext_articles/a59e68b5.ext.json)
 
 ---
 
@@ -299,8 +213,6 @@ Top attractions include relaxing on the golden beaches of Mirissa and Bentota, e
 ...
 
 [Data](articles/6d99abf6.json)
-
-[Extended Data](ext_articles/6d99abf6.ext.json)
 
 ---
 
@@ -410,8 +322,6 @@ A head-on collision involving a lorry and a van has resulted in the death of thr
 
 [Data](articles/e98e30a5.json)
 
-[Extended Data](ext_articles/e98e30a5.ext.json)
-
 ---
 
 ### A fatal accident in the blast - three lives
@@ -425,22 +335,6 @@ Three persons were killed and another injured after a lorry and van in Thalagama
 [Data](articles/4f14be34.json)
 
 [Extended Data](ext_articles/4f14be34.ext.json)
-
----
-
-### Sri Lanka, UN discuss engagement of troops in peacekeeping operations
-
-*2025-09-25 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112894/sri-lanka-un-discuss-engagement-of-troops-in-peacekeeping-operations) · `en`
-
-A high-level United Nations delegation met the Secretary to the Ministry of Defence yesterday (24) to discuss enhancing collaboration in international peacekeeping missions and strengthening human rights initiatives.
-
-The delegation, led by United Nations Resident Coordinator Marc-André Franche and Deputy Director (Protection and Solutions) at the UNHCR Regional Bureau for Asia and the Pacific Karen Whiting, was received by the Defence Secretary, Air Vice Marshal Sampath Thuyacontha (Retd) at the Defence Ministry.
-
-Key areas of discussion included, the engagement of Sri Lankan troops in United Nations peacekeeping operations, accelerating the deployment screening process, conducting specialized training programs and ensuring the provision of necessary equipment conforming to UN standards.
-
-...
-
-[Data](articles/5615718c.json)
 
 ---
 
@@ -458,31 +352,27 @@ Dozens of world leaders gathered at the United Nations on Monday to embrace a Pa
 
 [Data](articles/11e5d623.json)
 
-[Extended Data](ext_articles/11e5d623.ext.json)
-
 ---
 
-### Midigama Ruwan arrested with firearms
+### මිදිගම රුවන්ගේ සමීපතමයෙක් ගිනි අවි සමග අල්ලයි
 
 *2025-09-25 07:16:23* · [`adalk`](https://www.ada.lk/breaking_news/මිදිගම-රුවන්ගේ-සමීපතමයෙක්-ගිනි-අවි-සමග-අල්ලයි/11-418708) · `si`
 
-A closer person of the underworld leader, Ruwan Chamara, or Midigama Ruwan has been arrested yesterday with T-56 riffles, magician and more than 30 Thirty Thirty Thirty Thauna.
+පාතාල කල්ලි නායකයෙකු වු රුවන් චාමර හෙවත් මිදිගම රුවන් නැමැත්තාගේ සමීපතමයෙකු ටී 56 වර්ගයේ ගිනි අවි තුනක්,මැගසිනයක් හා ජීව උණ්ඩ තිහක් සමග ඊයේ (24) සවස වැලිගම ඉබ්බාවල ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව පොලිස් වීශේෂ කාර්ය බලකාය පවසයි.
 
-According to information received by the Force, the weapons have been found in the upper floor of a new two storied house.
+එම බලකාය වෙත ලද තොරතුරකට අනුව අලුතින් ඉදි කරන දෙමහල් නිවසක උඩු මහල පරික්ෂා කිරිමේ දී අදාල අවි ආයුධ සොයා ගෙන තිබේ.
 
-Police suspect that these firearms have been hungry with the objective of doing any crime.
+කිසියම් අපරාධයක් හෝ කිහිපයක් සිදු කිරිමේ අරමුණින් මෙම ගිනි අවි සගවා තබන්නට ඇති බවට පොලීසිය සැක කරයි.
 
-The surrounding area was further visited from the house to find out if other weapons were weapons.
+තවත් අවි ආයුධ ඇත්දැයි සොයා බැලීමට එම නිවස අවට ප්‍රදේශය ද පොලිස් විශේෂ කාර්ය බලකාය ඊයේ රාත්‍රි වන තෙක්ම තව දුරටත් පරික්ෂා කරමීන් තිබුණේය.
 
-The Police Special Task Force has revealed that the 38-year-old suspect was a carpenter and his father's daughter's daughter was the father of the older sister of Midigama Ruwan.
+අත්අඩංගුවට ගත් 38 හැවිරිදි සැකකරු වඩු කාර්මිකයෙකු වන අතර ඔහු දැනට බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ රදවා සිටින මිදිගම රුවන් නැමැත්තාගේ පියාගේ වැඩිමහල් සහෝදරියගේ දියණියගේ සැමියා බවට පොලිස් විශේෂ කාර්ය බලකාය කරුණු අනාවරණය කර ගෙන තිබේ.
 
-However, the suspect was due to be handed over to the Weligama Headquarters and the Police for further investigations. Business of the Special Task Force and Police are conducting further investigations.
+කෙසේ වෙතත් එම සැකකරු වැඩි දුර පරීක්ෂණ සදහා වැලිගම මූලස්ථාන පොලීසිය වෙත භාර දීමට නියමිතව තිබුණි.පොලිස් විශේෂ කාර්ය බලකාය හා පොලීසිය මේ පිළිබඳව වැඩිදුර පරීක්ෂණ මෙහෙයවයි.
 
 ...
 
 [Data](articles/df01194b.json)
-
-[Extended Data](ext_articles/df01194b.ext.json)
 
 ---
 
@@ -527,8 +417,6 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Sri 
 ...
 
 [Data](articles/ed457445.json)
-
-[Extended Data](ext_articles/ed457445.ext.json)
 
 ---
 
@@ -593,8 +481,6 @@ It has been reported that among the deceased monks, three were foreign nationals
 ...
 
 [Data](articles/9735dcaa.json)
-
-[Extended Data](ext_articles/9735dcaa.ext.json)
 
 ---
 
@@ -2055,5 +1941,85 @@ He further stressed that this quota should be used only for cultural and enterta
 [Data](articles/e13e897d.json)
 
 [Extended Data](ext_articles/e13e897d.ext.json)
+
+---
+
+### Extension of the former Navy Commander
+
+*2025-09-24 18:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படைத்-தளபதியின்-விளக்கமறியல்-நீடிப்பு/175-365224) · `ta`
+
+Polgahawela Magistrate Udumbara Dasanayake has ordered the former Navy Commander Nishantha Ulukedenna and former Intelligence Director of the Navy, Rear Admiral (Retired) Sarath Mohoti until the 8th of October.
+
+In July, Uluketenna was arrested in July for the disappearance of a youth from Pothuhera during his Naval Investigation Director.
+
+Mohoti was arrested by the Criminal Investigation Department on September 18 on charges of disappearance.
+
+◼️
+
+[Data](articles/0707c4c3.json)
+
+[Extended Data](ext_articles/0707c4c3.ext.json)
+
+---
+
+### Accomplice of ‘Midigama Ruwan’ arrested with three T-56 firearms during STF operation
+
+*2025-09-24 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112874/accomplice-of-midigama-ruwan-arrested-three-t-56-firearms-during-stf-operation) · `en`
+
+An accomplice of underworld figure ‘Midigama Ruwan’ has been arrested along with firearms during an operation carried out in Weligama this afternoon (24), police stated.
+
+Based on information received by officers of the Police Special Task Force (STF), a search was carried out on the upper floor of a two-storey house which is under construction.
+
+During the search operation, three T-56 assault rifles, one magazine, and 30 bullets hidden at the location were taken into custody.
+
+Police stated the suspect is related to underworld figure ‘Midigama Ruwan’ who is currently being held at the Boossa prison.
+
+◼️
+
+[Data](articles/2bdc0f95.json)
+
+[Extended Data](ext_articles/2bdc0f95.ext.json)
+
+---
+
+### Accomplice of ‘Midigama Ruwan’ arrested with three T-56 firearms during STF operation
+
+*2025-09-24 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112874/accomplice-of-midigama-ruwan-arrested-with-three-t-56-firearms-during-stf-operation) · `en`
+
+An accomplice of underworld figure ‘Midigama Ruwan’ has been arrested along with firearms during an operation carried out in Weligama this afternoon (24), police stated.
+
+Based on information received by officers of the Police Special Task Force (STF), a search was carried out on the upper floor of a two-storey house which is under construction.
+
+During the search operation, three T-56 assault rifles, one magazine, and 30 bullets hidden at the location were taken into custody.
+
+Police stated the suspect is related to underworld figure ‘Midigama Ruwan’ who is currently being held at the Boossa prison.
+
+◼️
+
+[Data](articles/f1215910.json)
+
+[Extended Data](ext_articles/f1215910.ext.json)
+
+---
+
+### President hopes active close relationship with America - President
+
+*2025-09-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214968) · `si`
+
+President Anura Kumara Dissanayake and President Donald Trump to South and Central Asia have been appointed by President Donald Trump and the Presidential Director of White House (SERGIO GAR).
+
+The President had gone to the United States to attend the 80th session of the UN General Assembly and the meeting was held at the Permanent Representative Office in Sri Lanka yesterday (23).
+
+The meeting also focused on important areas, including trade, commercial, tourism and investment, and discussed the development of cooperation in the fields, the Presidential Media Unit said.
+
+After an unprecedented economic crisis, as a new government with a strong mandate, is looking forward to active and close relationship with the United States in a prosperous relationship with the United States of America.
+
+The President also pointed out about the steps taken by the government, including the restructuring of the economy to ensure long-term stability of the economy, including the securing of the people.
+
+...
+
+[Data](articles/bb01cdb6.json)
+
+[Extended Data](ext_articles/bb01cdb6.ext.json)
 
 ---

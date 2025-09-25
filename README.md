@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 12:38:48**
+As of **2025-09-25 12:56:21**
 
 ## Newspaper Stats
 
-*Scraped **78,080** Articles*
+*Scraped **78,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,585
+adalk | 7,587
 adaderanalk | 10,145
 tamilmirrorlk | 11,772
 virakesarilk | 12,705
-adaderanasinhalalk | 13,638
+adaderanasinhalalk | 13,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,076 (100.0%) of 78,080 articles have been extended.
+78,076 (100.0%) of 78,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### මිනිසා සහ මිහිකත වෙනුවෙන් ලෝක ආයුර්වේද දිනය සමරයි
+
+*2025-09-25 12:32:44* · [`adalk`](https://www.ada.lk/business/මිනිසා-සහ-මිහිකත-වෙනුවෙන්-ලෝක-ආයුර්වේද-දිනය-සමරයි/7-418717) · `si`
+
+ලෝක ආයුර්වේද දිනය සමරනු ලබන්නේ, නීරෝගී ජීවිතයක් සඳහා ලොව පුරාණතම, ජීවන දර්ශනයක් වූ ආයුර්වේදයට ගෞරව දැක්වීම පිණිස සහ ආයුර්වේදය සඳහා අධිපති ලෙස ගෞරව දක්වන ධන්වන්තරි දෙවියන්ගේ උපන්දිනය සැමරීම නිමිති කොටගෙනය. ආයුර්වේදය හුදෙක්ම වෛද්‍ය විද්‍යාවක් පමණක්ම නොවන බවත් එය  ජීවන දර්ශනයක් බැවින්, මිනිසාට නිරෝගිව සිටිය හැකි ආකාරය ගැනද ස්වභාව ධර්මය හා මිනිසා අතර, ඇති සහජීවනය තුළින් තිරසාර ජීවන රටාවකට යොමුවීමේ වැදගත්කම ඉස්මතු කිරිමටය.
+
+මෙම දිනයේ අභිමතාර්ථය වනුයේ ආයුර්වේදයේ වැදගත්කම පිළිබඳව ගෝලීය දැනුවත්භාවය ඉහළ නැංවීම, සෞඛ්‍යය සම්පන්න ජීවන රටාවන් දිරිමත් කිරීම, සාම්ප්‍රදායික දැනුම ආරක්ෂා කිරීම සහ ජීවන රටා හා බැඳුණු ශාරීරික, මානසික සහ සමාජීය විපර්යාස වැනි වර්තමාන ජීවන රටාව හා බැඳුණු අභියෝගවලට ආයුර්වේදය තුළින් පිළිතුරු ලබාදීමය.
+
+...
+
+[Data](articles/4cbdbdb5.json)
+
+---
+
+### ගාසා නගරවැසියන් බිලිගත් ඊශ්‍රායල ප්‍රහාරය
+
+*2025-09-25 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214994) · `si`
+
+ඊශ්‍රායලය විසින් ඊයේ දිනයේ ගාසා තීරය වෙත එල්ල කළ ප්‍රහාරවලින් පුද්ගලයින් 80කට අධික පිරිසක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+මියගිය පුද්ගලයින්ගෙන් වැඩි දෙනෙකු ගාසා නගරවාසීන් බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඊයේ (24) රාත්‍රී ගාසා තීරයේ අවතැන් පවුල් රඳවාගෙන සිටි ගොඩනැගිල්ලකට සහ කුඩාරමකට එල්ල වූ ප්‍රහාරයකින් පුද්ගලයින් 20 දෙනෙකු පමණ ජීවිතක්ෂයට පත් වුණි.
+
+මියගිය පුද්ගලයින් අතර ළමුන් සහ කාන්තාවන් ද සිටින බව වාර්තා වේ.
+
+කෙසේවෙතත් අදාළ ප්‍රහාරයන්ට ප්‍රතිචාර දක්වමින් ඊශ්‍රායලය සඳහන් කළේ, හමාස් සටන්කාමීන් ඉලක්ක කරගනිමින් මෙම ප්‍රහාර එල්ල කළ බවය.
+
+◼️
+
+[Data](articles/e167e040.json)
+
+---
 
 ### ஆரையம்பதி பேருந்து நிலையம்: கூரையின்றி அவதியுறும் பயணிகள் ; அதிகாரிகளுக்கு பொதுமக்கள் கண்டனம்
 
@@ -1937,49 +1971,5 @@ The monks had a thirteen day when the accident occurred.
 [Data](articles/f80fb1cc.json)
 
 [Extended Data](ext_articles/f80fb1cc.ext.json)
-
----
-
-### Seven Buddhist monks reported dead in cable car accident at Na Uyana Monastery
-
-*2025-09-25 00:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112885/five-buddhist-monks-reported-dead-in-cable-car-accident-at-na-uyana-monastery) · `en`
-
-(UPDATED: 1.09 a.m.) - The death toll from the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura has increased to seven Buddhist monks.
-
-At least two of the deceased monks are foreign nationals, and their bodies have been placed at the Gokarella District Hospital. The bodies of the other monks have been placed at the Kurunegala Teaching Hospital.
-
-It is reported that 13 Buddhist monks were riding the cable car in the monastery at the time of the accident.
-
-The seriously injured monks have now been admitted to the Kurunegala Teaching Hospital.
-
-At least five Buddhist monks are reported dead after a cable car broke from the cable and fell down at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura, Kurunegala Hospital sources told Ada Derana.
-
-...
-
-[Data](articles/10beb17f.json)
-
-[Extended Data](ext_articles/10beb17f.ext.json)
-
----
-
-### Seven Buddhist monks reported dead in cable car accident at Na Uyana Monastery
-
-*2025-09-25 00:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112885/seven-buddhist-monks-reported-dead-in-cable-car-accident-at-na-uyana-monastery) · `en`
-
-(UPDATED: 1.09 a.m.) - The death toll from the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura has increased to seven Buddhist monks.
-
-At least two of the deceased monks are foreign nationals, and their bodies have been placed at the Gokarella District Hospital. The bodies of the other monks have been placed at the Kurunegala Teaching Hospital.
-
-It is reported that 13 Buddhist monks were riding the cable car in the monastery at the time of the accident.
-
-The seriously injured monks have now been admitted to the Kurunegala Teaching Hospital.
-
-At least five Buddhist monks are reported dead after a cable car broke from the cable and fell down at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura, Kurunegala Hospital sources told Ada Derana.
-
-...
-
-[Data](articles/b9e4590d.json)
-
-[Extended Data](ext_articles/b9e4590d.ext.json)
 
 ---

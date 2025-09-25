@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 01:20:26**
+As of **2025-09-26 01:38:36**
 
 ## Newspaper Stats
 
-*Scraped **78,168** Articles*
+*Scraped **78,170** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
-colombotelegraphcom | 790
+colombotelegraphcom | 792
 economynextcom | 4,717
 dailymirrorlk | 4,733
 islandlk | 4,793
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,167 (100.0%) of 78,168 articles have been extended.
+78,167 (100.0%) of 78,170 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -343,6 +343,32 @@ Perera said that such behavior was undermined to democratic policies and that pa
 [Data](articles/c3897afb.json)
 
 [Extended Data](ext_articles/c3897afb.ext.json)
+
+---
+
+### Stark Realities Of A Medieval Genocide Hidden By Mainstream Media
+
+*2025-09-25 19:43:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/stark-realities-of-a-medieval-genocide-hidden-by-mainstream-media/) · `en`
+
+Little boys whose hands and parts of their face or torso are being blown off from booby-trapped cans of food that soldiers had left behind for starving children; soldiers who leave behind, poisoned food for a starving people to eat, booby-trapped toys that explode when excited children picked them up are promoted as the world’s most moral army.
+
+The harm they have been doing is diabolical, and yet, they expect you to believe they are the victims. Invoking a long-forgotten holocaust and screaming discrimination, they expect you to suspend fundamental human reason to believe that the daily sniping of children with so called “kill shots” to the head or chest and the bombing of entire neighbourhoods that bury families alive and wipe out whole bloodlines is self-defence and just.
+
+...
+
+[Data](articles/3c33188d.json)
+
+---
+
+### Understanding The Pitfalls In Marketing Carbon
+
+*2025-09-25 19:35:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/understanding-the-pitfalls-in-marketing-carbon/) · `en`
+
+It is a tragedy that we still follow the line expounded by the carbon emitters and polluters of the environment. We have accepted a high debt and fossil dependency scenario as the indicator of ‘Economic Development’. Our concerns with adaptation to the ongoing climate changes brought about by our own actions, seem to be minimal. The current disasters of fishermen getting caught in an sudden, random, wind events, are a foretaste of things to come. Sudden violent downpours that strip and erode the soil or delays in rain bearing winds that create harsh drought conditions, will become more frequent. The ‘climate affected’ population will grow with every event. We are witnessing the thin edge of the wedge.
+
+...
+
+[Data](articles/f37c6ccb.json)
 
 ---
 
@@ -2053,43 +2079,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 [Data](articles/e7c37e1d.json)
 
 [Extended Data](ext_articles/e7c37e1d.ext.json)
-
----
-
-### Voyage Sri Lanka 2025 to spotlight blue economy potential
-
-*2025-09-25 11:08:00* · [`economynextcom`](https://economynext.com/voyage-sri-lanka-2025-to-spotlight-blue-economy-potential-241843/) · `en`
-
-ECONOMYNEXT – Voyage Sri Lanka 2025, a marine summit to be held on October 16, will bring together global leaders, policymakers, investors, and professionals from across the globe to discuss the blue economy potential, the Export Development Board said.
-
-Organized by the EDB, the event will be held on the theme “Unveiling the Blue Economy Potential of Sri Lanka.”
-
-It will focus on Sri Lanka’s role as a marine hub in the Indian Ocean, and feature panel discussions, keynote addresses, and interactive networking sessions.
-
-Topics include sustainable practices, technological innovation, investment prospects, and opportunities for regional collaboration in driving the blue economy.
-
-“The summit will spotlight Sri Lanka’s unique geographic advantage as a central hub on major international shipping routes.
-
-“It will also showcase the nation’s growing expertise in marine and offshore services, boat building, nautical tourism, and other emerging maritime sectors.
-
-...
-
-[Data](articles/d58ab920.json)
-
-[Extended Data](ext_articles/d58ab920.ext.json)
-
----
-
-### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
-
-*2025-09-25 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226031) · `ta`
-
-At the current session of the United Nations Human Rights Council in Geneva, it is possible to pass a hazardous resolution on Sri Lanka. The government wants to come to an end to the occasional monitoring of Sri Lanka's human rights situation.
-
-◼️
-
-[Data](articles/73c3d223.json)
-
-[Extended Data](ext_articles/73c3d223.ext.json)
 
 ---

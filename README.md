@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 21:08:29**
+As of **2025-09-25 21:21:01**
 
 ## Newspaper Stats
 
-*Scraped **78,157** Articles*
+*Scraped **78,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ adalk | 7,598
 adaderanalk | 10,157
 tamilmirrorlk | 11,785
 virakesarilk | 12,717
-adaderanasinhalalk | 13,653
+adaderanasinhalalk | 13,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,156 (100.0%) of 78,157 articles have been extended.
+78,157 (100.0%) of 78,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### மோட்டார் சைக்கிள் – பாரவூர்தி நேருக்கு நேர் மோதி விபத்து; இளைஞன் பலி
+### AI භාවිතය පිළිබඳව මධ්‍යම පළාත් රාජ්‍ය නිලධාරීන් දැනුවත් කිරීම හෙට
+
+*2025-09-25 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215012) · `si`
+
+රජයේ ඩිජිටල්කරණ වැඩසටහන සහ AI තාක්ෂණ භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් පළාත් මට්ටමින් දැනුවත් කිරීමේ වැඩසටහන් මාලාවෙහි පළමු පළාත් වැඩසටහන හෙට (26) ප.ව 1.30ට මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත් වේ.
+
+රජයේ ඩිජිටල්කරණ සැලසුම් පැහැදිලි කිරීම සහ AI තාක්ෂණ භාවිතය පිළිබඳව නිලධාරීන්ගේ සාක්ෂරතාවය ඉහළ නැංවීමේ අරමුණින් සිදු කරනු ලබන මෙම වැඩසටහන මධ්‍යම පළාත් සභාව, දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල සහ රජයේ අනෙකුත් ආයතනවල සියලුම විධායක නිලධාරින්ගේ සහභාගීත්වයෙන් පැවැත්වීමට සැලසුම් කර තිබේ.
+
+ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව රජයේ නිලධාරීන් දැනුවත් කිරීමේ වැඩසටහන් 6ක් කොළඹ කේන්ද්‍ර කරගනිමින් මේ වන විට පවත්වා ඇති අතර ඒ සඳහා නිලධාරීන් 4000කට වැඩි පිරිසක් සහභාගී විය.
+
+සියලු පළාත් ආවරණය වන පරිදි පළාත් මට්ටමින් මෙම වැඩසටහන පවත්වා රජයේ ඩිජිටල්කරණ සැලසුම පිළිබඳ රාජ්‍ය නිලධාරියාගේ කාර්යභාරය සහ AI තාක්ෂණය රජයේ කටයුතු සඳහා භාවිතයට යොදා ගැනීම පිළිබඳව කොළඹින් බැහැර සිටින සියලුම රාජ්‍ය නිලධාරීන් දැනුවත් කිරිමට සැලසුම් කර ඇත.
+
+...
+
+[Data](articles/1cb57319.json)
+
+---
+
+### Motorcycle Youth killed
 
 *2025-09-25 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226088) · `ta`
 
-பாரவூர்தியை முந்திச் செல்ல முற்பட்ட மோட்டார் சைக்கிளில் வந்த இளைஞன் எதிரே வந்த மோட்டார் சைக்கிளுடன் நேருக்கு நேர் மோதி உயிரிழந்துள்ளார்.
+A young man who was on a motorbike tried to overtake Paravurthy has died face -to -face with a motorcycle.
 
-யாழ் தென்மராட்சி , சாவகச்சேரி ஏ9 வீதியில் குறித்த விபத்து இடம்பெற்றுள்ளது. இதன் போது மீசாலை கிழக்கைச் சேர்ந்த 21 வயதான இளைஞனே இவ்வாறு உயிரிழந்துள்ளார்.
+The accident occurred on the A9 Road, Chavakachcheri, Jaffna. The 21 -year -old youth from the East of Meesala died.
 
-இவ் விபத்தின் போது மோட்டார் சைக்கிளில் பயணித்த இருவரும் படுகாயங்களுக்குள்ளான நிலையில் சாவகச்சேரி் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+During the accident, the two motorbikes were admitted to the Chavakachcheri Hospital after being injured.
 
 ◼️
 
 [Data](articles/c44d3e78.json)
+
+[Extended Data](ext_articles/c44d3e78.ext.json)
 
 ---
 
@@ -2059,21 +2079,5 @@ The Speaker said despite existing Parliamentary provisions, considering the requ
 [Data](articles/13f4d7f3.json)
 
 [Extended Data](ext_articles/13f4d7f3.ext.json)
-
----
-
-### Speaker reaffirms his decision to reject NCM filed against Deputy Minister of Defence
-
-*2025-09-25 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112899/speaker-reaffirms-his-decision-to-reject-ncm-filed-against-deputy-minister-of-defence) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne today (25) announced to Parliament that he is not in a position to accept the No-Confidence Motion submitted against Deputy Minister of Defence, Major General (Retd.) Aruna Jayasekara by a group of Parliamentarians, citing Parliament procedures.
-
-The motion was signed by the Opposition Leader Sajith Premadasa and 31 other members representing the opposition.
-
-◼️
-
-[Data](articles/8ae38d4a.json)
-
-[Extended Data](ext_articles/8ae38d4a.ext.json)
 
 ---

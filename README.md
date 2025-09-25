@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 11:41:10**
+As of **2025-09-25 11:57:20**
 
 ## Newspaper Stats
 
-*Scraped **78,059** Articles*
+*Scraped **78,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ dailyftlk | 5,540
 adalk | 7,582
 adaderanalk | 10,142
 tamilmirrorlk | 11,767
-virakesarilk | 12,698
+virakesarilk | 12,703
 adaderanasinhalalk | 13,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,059 (100.0%) of 78,059 articles have been extended.
+78,059 (100.0%) of 78,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### வெனிசுவெலாவில் சக்தி வாய்ந்த நிலநடுக்கம்
+
+*2025-09-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226033) · `ta`
+
+வெனிசுவெலாவின் வடமேற்கே ஜூலியா மாகாணத்தில் மெனி கிராண்ட் என்ற இடத்தில், தலைநகர் காரகாஸ் நகரில் இருந்து 600 கி.மீ. மேற்கே சக்தி வாய்ந்த நிலநடுக்கம் ஏற்பட்டது.
+
+இது ரிச்டர் அளவுகோலில் 6.2 ஆக பதிவாகி இருந்தது. இந்நிலநடுக்கம் 7.8 கி.மீ. ஆழத்தில் மையம் கொண்டிருந்தது. நாட்டின் பல்வேறு மாகாணங்களிலும், அண்டை நாடான கொலம்பியாவிலும் நிலநடுக்கம் உணரப்பட்டது.
+
+இதனால், எல்லை பகுதியருகே அமைந்த வீடுகள், அலுவலக கட்டிடங்களில் இருந்து பலர் தப்பி வெளியே ஓடினர். எனினும், இரு நாடுகளிலும் உயிரிழப்பு பற்றி எந்தவித தகவலும் வெளிவரவில்லை. ஆனால், அரசு தொலைக்காட்சியில் வெனிசுவெலா ஜனாதிபதி நிகோலஸ் மதுரோ அறிவியல் சார்ந்த நிகழ்ச்சியை தலைமையேற்று நடத்தினார்.
+
+நிலநடுக்கத்தின்போதும், அதற்கு பின்னரும் இந்த தொலைக்காட்சி நிகழ்ச்சியில் இடையூறு எதுவும் ஏற்படவில்லை. இதன்பின்பு, ஜூலியா மாகாணத்தில் 3.9 மற்றும் பரினாஸ் மாகாணத்தில் 5.4 என்ற அளவில் நிலநடுக்கம் உணரப்பட்டது.
+
+◼️
+
+[Data](articles/5708190c.json)
+
+---
+
+### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
+
+*2025-09-25 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226031) · `ta`
+
+ஜெனீவாவில் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் தற்போதைய  கூட்டத்தொடரில் இலங்கை தொடர்பில் கடுமை தளர்த்தப்பட்ட தீர்மானம் ஒன்றே நிறைவேற்றப்படக்கூடிய சாத்தியம் இருக்கிறது. இலங்கையின் மனித உரிமைகள் நிலைவரம் தொடர்பில் அவ்வப்போது மேற்கொள்ளப்படும் கண்காணிப்பு முடிவுக்கு வரவேண்டும் என்று அரசாங்கம் விரும்பும்.
+
+◼️
+
+[Data](articles/73c3d223.json)
+
+---
+
+### மட்டக்களப்பில் இரு  மகள்களை பாலியல் துஷ்பிரயோகம் செய்த தந்தைக்கு 20 வருட கடூழிய சிறைத்தண்டனை
+
+*2025-09-25 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226030) · `ta`
+
+மட்டக்களப்பு, மாவட்டத்தில் பிரதேசம் ஒன்றில் தனது 7 மற்றும் 8 வயது மகள்களை 2016 ஆண்டு பாலியல் துஷ்பிரயோகம் செய்த தந்தைக்கு 20 வருட கடூழிய சிறைத்தண்டனையும்,  4 குற்றத்துக்கு 40 ஆயிரம் தண்டப்பணமும் பாதிக்கப்பட்ட சிறுமிகளுக்கு தலா ஒரு இலட்சம் ரூபா வீதம் இரண்டு இலட்சம் ரூபாவை வழங்குமாறு மட்டக்களப்பு மேல் நீதிமன்ற நீதிபதி ரி.ஜே.பிரபாகரன் கடந்த 12 ஆம் திகதி வெள்ளிக்கிழமை தீர்ப்பளித்தார்.
+
+56 வயதுடைய  தந்தையார் உள நலம் பாதிக்கப்பட்ட மகள் உட்பட 7 மற்றும் 8 வயதுடைய இரு மகள்களையும் கடந்த 2016 அக்டோபர் மாதம் பாலியல் துஷ்பிரயோகம் மேற்கொண்ட நிலையில் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்டவருக்கு எதிராக மேல் நீதிமன்றத்தில் 4 குற்றச்சாட்டுகளின் கீழ் பொலிஸார் வழக்கு பதிவு செய்து சிறைச்சாலையில் அடைக்கப்பட்டு பின்னர் பிணையில் வெளிவந்துள்ளார். இதனை தொடர்ந்து வழக்கு விசாரணைகள் இடம்பெற்று வந்துள்ளது.
+
+...
+
+[Data](articles/500d23fb.json)
+
+---
 
 ### President holds a bilateral meeting with several foreign state prabelines
 
@@ -67,6 +113,38 @@ The number of accident occurred near the Talawa Mirigama Junction on the Anuradh
 [Data](articles/578c14c6.json)
 
 [Extended Data](ext_articles/578c14c6.ext.json)
+
+---
+
+### மாலைதீவு, பின்லாந்து மற்றும் ஜேர்மனி வெளிவிவகார அமைச்சர்களுடன் அமைச்சர் விஜித ஹேரத் கலந்துரையாடல்
+
+*2025-09-25 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226028) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்து கொள்வதற்காக அமெரிக்காவுக்கு விஜயம் மேற்கொண்டுள்ள வெளிவிவகார அமைச்சர் விஜித ஹேரத் மாலைதீவு, பின்லாந்து மற்றும் ஜேர்மனி வெளிவிவகார அமைச்சர்களுடன் இருதரப்பு கலந்துரையாடல்களை மேற்கொண்டுள்ளார்.
+
+மாலைதீவு வெளிவிவகார அமைச்சர் அப்துல்லா கலீலை அமைச்சர் விஜித ஹேரத் சந்தித்தார். இருவரும் ஒத்துழைப்பை மதிப்பாய்வு செய்து, நெருக்கமான இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவதற்கான வழிகளை ஆராய்ந்தனர்.
+
+அதேவேளை, விஜித ஹேரத்  பின்லாந்து வெளிவிவகார அமைச்சர் எலினா வால்டோனனையும் சந்தித்தார். இலங்கைக்கும் பின்லாந்துக்கும் இடையிலான ஒத்துழைப்பை வலுப்படுத்துவது குறித்த விவாதங்கள் கவனம் செலுத்தப்பட்டது.
+
+ஜேர்மனியின் வெளிவிவகார அமைச்சர் செராப் குலருடனான சந்திப்பின் போது, இருதரப்பு ஒத்துழைப்பை மேம்படுத்துவது மற்றும் முக்கிய உலகளாவிய பிரச்சினைகள் குறித்த பகிரப்பட்ட முன்னோக்குகள் குறித்து வெளிவிவகார அமைச்சர் விஜித ஹேரத் விவாதித்தார்.
+
+◼️
+
+[Data](articles/69bfb717.json)
+
+---
+
+### கற்பிட்டியில் விபத்து : பாதசாரி உயிரிழப்பு
+
+*2025-09-25 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226027) · `ta`
+
+கற்பிட்டி பொலிஸ் பிரிவிற்குட்பட்ட பாலவிய பகுதியில் பாதசாரி மீது மோட்டார் சைக்கிள் மோதி விபத்துக்குள்ளானதில் பாதசாரி உயிரிழந்துள்ளார்.
+
+குறித்த விபத்தில் மோட்டார் சைக்கிள் சாரதி மற்றும் பாதசாரி இருவரும் பலத்த காயமடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/6100bb2a.json)
 
 ---
 
@@ -1943,107 +2021,5 @@ Members of Parliament who talks about children should watch the film. Otherwise,
 [Data](articles/b34a9444.json)
 
 [Extended Data](ext_articles/b34a9444.ext.json)
-
----
-
-### The father passed into a lorry
-
-*2025-09-24 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214972) · `si`
-
-A father has died in an unfortunate accident in Wennappuwa.
-
-The kick pedal of his motorcycle was not properly implemented, and he tried to push his motorcycle.
-
-There, the motorcycle lost unexpected control and was thrown to the road, and he was subdued to a timber transporting on the road.
-
-He was a resident of Dummaladeniya, Wennappuwa, Wennamaladeniya.
-
-◼️
-
-[Data](articles/2febc50b.json)
-
-[Extended Data](ext_articles/2febc50b.ext.json)
-
----
-
-### Steps to include counseling and psychology in school syllabus
-
-*2025-09-24 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214971) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
-
-The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
-
-The Minister further stated that these programs should be implemented to all schools in accordance with a proper plan covering all provinces covering all provinces in the country.
-
-The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
-
-The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
-
-◼️
-
-[Data](articles/658e9c35.json)
-
-[Extended Data](ext_articles/658e9c35.ext.json)
-
----
-
-### Tensions of a massive ditch in Thailand
-
-*2025-09-24 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225999) · `ta`
-
-A large sudden sudden sudden suddenly occurred on Wednesday morning (24) on the road in front of the Vajira Hospital in Bangkok, Thailand.. The groove continues to expand and is now spreading to the front of the Samsen police station.
-
-The depth of the abyss is more than 50 meters, which has caused fear of a major accident.
-
-Due to this accident, the Dusit District Office, Vajira Hospital Sang Hi and the roads around it have been closed.
-
-Officials are investigating the cause of the sudden crater.
-
-◼️
-
-[Data](articles/2d61e10f.json)
-
-[Extended Data](ext_articles/2d61e10f.ext.json)
-
----
-
-### Sabarimalai Iyyappan Temple: Cabinet approval as a pilgrimage to Sri Lanka
-
-*2025-09-24 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225998) · `ta`
-
-The Cabinet has approved the declaration of the Sabarimalai Iyyappan Temple as a pilgrimage recognized by the Government of Sri Lanka. Colombo Municipal Council Member S. Anandakumar said that action is being taken to inform the Government of India.
-
-The long -standing Hindu devotees visit the Sabarimalai Iyyappan Temple in the state of Kerala, India, from November 1 to January 31st of next year.. The temple is currently a pilgrimage to more than 15,000 devotees annually.. In two more months, Iyappa Samimars will wear evening and go to Sabarimala.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Religious and Cultural Affairs to declare the pilgrimage to the Sabarimalai Iyyappan Temple by the Sri Lankan Hindu pilgrims to declare and provide facilities to the Government of Sri Lanka.. We have been recognized for the continuous programs.
-
-...
-
-[Data](articles/18f1eaa4.json)
-
-[Extended Data](ext_articles/18f1eaa4.ext.json)
-
----
-
-### Tariffs and conflict causing major volatility in shipping industry, says UN trade agency
-
-*2025-09-24 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112882/tariffs-and-conflict-causing-major-volatility-in-shipping-industry-says-un-trade-agency) · `en`
-
-The shipping industry is experiencing major volatility amid rising geopolitical tensions and disruptions caused by a wave of new tariffs, according to a report published on Wednesday by the U.N. Trade and Development agency.
-
-Due to an increasingly complex and uncertain global trade environment, subdued industrial activity in major economies and weak Chinese demand for bulk commodities, UNCTAD has revised down its maritime trade growth forecast for 2025.
-
-It now projects overall maritime trade volume to expand 0.5 per cent annually, with containerized trade growing slightly faster at 1.4 per cent.
-
-The report highlights that trade policy shifts, including new tariffs, are disrupting global supply chains.
-
-Maritime navigation in the Black Sea has been complicated by Russia’s war in Ukraine. Conflict in the Middle East drove up shipping costs as vessels were rerouted around the Cape of Good Hope following disruption to the Red Sea, UNCTAD said.
-
-...
-
-[Data](articles/a9fb7dc0.json)
-
-[Extended Data](ext_articles/a9fb7dc0.ext.json)
 
 ---

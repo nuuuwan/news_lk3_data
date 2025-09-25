@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 09:56:43**
+As of **2025-09-25 10:39:10**
 
 ## Newspaper Stats
 
-*Scraped **78,043** Articles*
+*Scraped **78,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,127 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,581
-adaderanalk | 10,136
-tamilmirrorlk | 11,763
-virakesarilk | 12,696
-adaderanasinhalalk | 13,632
+adalk | 7,582
+adaderanalk | 10,140
+tamilmirrorlk | 11,767
+virakesarilk | 12,698
+adaderanasinhalalk | 13,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,040 (100.0%) of 78,043 articles have been extended.
+78,053 (100.0%) of 78,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### எத்திமலையில் நீரில் மூழ்கி ஒருவர் பலி!
+### இரு  மகள்களை பாலியல் துஷ்பிரயோகம்: தந்தைக்கு 20 வருட கடூழிய சிறை
 
-*2025-09-25 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226024) · `ta`
+*2025-09-25 10:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-மகள்களை-பாலியல்-துஷ்பிரயோகம்-தந்தைக்கு-20-வருட-கடூழிய-சிறை/175-365258) · `ta`
 
-எத்திமலை பொலிஸ் பிரிவில் டோசர் ஏரியில் குளிக்கச் சென்ற ஒருவர் நீரில் மூழ்கி காணாமல் போனதாக எத்திமலை பொலிஸ் நிலையத்திற்கு தகவல் கிடைத்தது.
+தனது 7 மற்றும் 8 வயது மகள்களை  2016 ஆண்டு பாலியல் துஷ்பிரயோகம் செய்த தந்தைக்கு இரு குற்றத்துக்கு 20 வருட கடூழிய சிறைத்தண்டனை 4 குற்றத்துக்கு 40 ஆயிரம் தண்டப்பணமும் பாதிக்கப்பட்ட சிறுமிகளுக்கு தலா ஒரு இலட்சம் ரூபாய் வீதம் இரண்டு இலட்சம் ரூபாவை வழங்குமாறு மட்டக்களப்பு மேல் நீதிமன்ற நீதிபதி ரி.ஜே.பிரபாகரன்   தீர்ப்பளித்தார்.
 
-சம்பவத்தில் உயிரிழந்தவர் எத்திமலை வாவி பகுதியைச் சேர்ந்த 54 வயதுடையவர் என ஆரம்பக கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+மாவட்டத்தில் ஒரு பிரதேசத்தைச் சேர்ந்த 56 வயதுடைய தந்தை  உள நலம் பாதிக்கப்பட்ட தனது ஒரு மகள் உட்பட 7 மற்றும் 8 வயதுடைய இரு மகள்களையும் கடந்த 2016 அக்டோபர் மாதம் பாலியல் துஷ்பிரயோகம் மேற்கொண்ட நிலையில் கைது செய்யப்பட்டார்
+
+இவ்வாறு கைது செய்யப்பட்டவருக்கு எதிராக மேல் நீதிமன்றத்தில் 4 குற்றச்சாட்டுகளின் கீழ் பொலிஸார் வழக்கு பதிவு செய்து சிறைச்சாலையில் அடைக்கப்பட்டு பின்னர் பிணையில் விடுதலை செய்யப்பட்டார் இதனை தொடர்ந்து வழக்கு விசாரணைகள் இடம் பெற்று வந்துள்ளது.
+
+...
+
+[Data](articles/a3c8ed3f.json)
+
+---
+
+### இந்தியாவுக்குள் நுழைந்த  இலங்கை பொலிஸ் அதிகாரி  விடுதலை
+
+*2025-09-25 10:10:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்குள்-நுழைந்த-இலங்கை-பொலிஸ்-அதிகாரி-விடுதலை/175-365257) · `ta`
+
+இந்தியாவுக்குள் சட்டவிரோதமாக நுழைந்த இலங்கை பொலிஸ் அதிகாரியை  ராமநாதபுரம் முதன்மை மாவட்ட நீதிமன்றம் விடுதலை செய்து உத்தரவிட்டார்.
+
+இலங்கை கொழும்பு துறைமுக காவல் நிலையத்தில் பணிபுரிந்த காவலர் பிரதீப்குமார் பண்டார(35). இவர் கடந்த 2020.05.09 ஆம் திகதி நள்ளிரவு இலங்கை படகில் ராமேஸ்வரம் அருகே தனுஷ்கோடி கடற்கரையில் வந்திறங்கிய போது, முறையான ஆவணங்களின்றி இந்தியாவிற்குள் நுழைந்ததாக மண்டபம் மரைன் பொலிஸார் கைது செய்து, சென்னை புழல் சிறையில் அடைத்தனர்.
+
+விசாரணையில் கொழும்பில் பறிமுதல் செய்து துறைமுகம் காவல் நிலையத்தில் வைக்கப் பட்ட 23 கிலோ கிராம் ஹெராயின் போதைப்பொருள் மாயமானதில் அவரது சகோதரர்   இலங்கை பொலிஸாரால்  கைது செய்யப்பட்டுள்ளார்.
+
+இந்நிலையில் இவ்வழக்கு சி.பி.சி.ஐ.டி பொலிஸூக்கு மாற்றப்பட்டது. ராமநாதபுரம் சி.பி.சி.ஐ.டி பொஸார் வழக்கு பதிவு செய்து, பிரதீப்குமார் பண்டாரவை விசாரணை செய்தனர்.
+
+விசாரணையில் போதைப்பொருள் கடத்தலில் தனது  சகோதரர் தன்னை மாட்டி விட்டதாகவும், அந்த கைது நடவடிக்கையில் இருந்து தப்பிக்க சட்டவிரோதமாக இந்தியா வந்ததாகவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/1a21d169.json)
+
+---
+
+### Vehicle accident in Nitambuwa; Police Constable Death!
+
+*2025-09-25 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226026) · `ta`
+
+A tipper lorry traveling from Colombo to Kandy near Nambuluwa junction on the Colombo -Kandy main road belonging to the Nittambuwa police division has been killed when a motorcycle crashed into a motorcycle from the opposite direction.
+
+The driver of the motorcycle was seriously injured and died after being admitted to the Vatupitivala hospital.
+
+The 33 -year -old police constable from Varakapola, Mahenagama, was revealed.
+
+◼️
+
+[Data](articles/2a011c17.json)
+
+[Extended Data](ext_articles/2a011c17.ext.json)
+
+---
+
+### Speaker reaffirms his decision to reject NCM filed against Deputy Minister of Defence
+
+*2025-09-25 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112899/speaker-reaffirms-his-decision-to-reject-ncm-filed-against-deputy-minister-of-defence) · `en`
+
+Speaker of House Dr. Jagath Wickramaratne today (25) announced to Parliament that he is not in a position to accept the No-Confidence Motion submitted against Deputy Minister of Defence, Major General (Retd.) Aruna Jayasekara by a group of Parliamentarians, citing Parliament procedures.
+
+The motion was signed by the Opposition Leader Sajith Premadasa and 31 other members representing the opposition.
+
+◼️
+
+[Data](articles/8ae38d4a.json)
+
+[Extended Data](ext_articles/8ae38d4a.ext.json)
+
+---
+
+### Drowning in Etimalai
+
+*2025-09-25 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226024) · `ta`
+
+The Etimalai Police Station was informed that a man who was drowned in the Doser Lake in the Etimalai police division was drowned.
+
+Investigations have revealed that the deceased was 54 years old from Etimalai Vavi.
 
 ◼️
 
 [Data](articles/426be75b.json)
 
+[Extended Data](ext_articles/426be75b.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### One person killed in vehicle accident
+
+*2025-09-25 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226025) · `ta`
+
+One person was killed when a lorry and a motorcycle collided with a motorcycle at the Nilawa junction on Pallapola - Kolanwala Road, Mahawela police division.
+
+In the area of ​​the Mahawella police division, Loriri, who was traveling towards Pallapola - Koholanwala, crashed into a motorcycle in the opposite direction.
+
+The motorcycle driver was seriously injured in the accident and died after being admitted to Matale Hospital.
+
+◼️
+
+[Data](articles/f557ebea.json)
+
+[Extended Data](ext_articles/f557ebea.ext.json)
+
+---
+
+### Parliamentary Council begins
 
 *2025-09-25 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214986) · `si`
 
@@ -54,25 +144,57 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/d57edc9f.json)
 
+[Extended Data](ext_articles/d57edc9f.ext.json)
+
 ---
 
-### சட்டவிரோதமாக இந்தியாவுக்குள் நுழைந்த வழக்கில் இலங்கை பொலிஸ் அதிகாரி விடுதலை
+### Sri Lankan police officer released in case of illegally entering India
 
 *2025-09-25 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226023) · `ta`
 
-இந்தியாவிற்குள் சட்டவிரோதமாக நுழைந்த இலங்கை பொலிஸ்  அதிகாரியை  தமிழகம் ராமநாதபுரம் முதன்மை மாவட்ட நீதிமன்றம் விடுதலை செய்து உத்தரவிட்டுள்ளது.
+Tamil Nadu Ramanathapuram Chief District Court has released a Sri Lankan police officer who has entered India illegally.
 
-இலங்கை கொழும்பு துறைமுக பொலிஸ்   நிலையத்தில் பணிபுரிந்த பொலிஸ் அதிகாரி பிரதீப்குமார் பண்டார(35). இவர் கடந்த 5.9.2020-ம் திகதி நள்ளிரவு இலங்கை படகில் ராமேஸ்வரம் அருகே தனுஷ்கோடி கடற்கரையில் வந்திறங்கிய போது முறையான ஆவணங்களின்றி இந்தியாவிற்குள் நுழைந்ததாக மண்டபம் மரைன்  பொலிஸ் கைது செய்து, சென்னை புழல் சிறையில் அடைத்தனர்.
+Pradeep Kumar Bandara (35), a police officer who works at the Colombo Port Police Station, Sri Lanka. When he arrived at the Dhanushkodi beach near Rameswaram on the Sri Lankan boat on 5.9.2020, Mandapam Marine Police arrested the Marine Police and placed them in the Pullam Jail in Chennai.
 
-விசாரணையில் கொழும்பில் கைப்பற்றப்பட்டு துறைமுகம் பொலிஸ் நிலையத்தில் வைக்கப்பட்ட 23 கிலோ ஹெரோயின் போதைப்பொருள் மாயமானதில் அவரது சகோதரர்  இலங்கை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+His brother has been arrested by the Sri Lankan police for his 23 kg of heroin drugs seized in Colombo and placed at the port police station.
 
-ராமநாதபுரம் சி.பி.சி.ஐ.டி பொலிஸாரால் வழக்கு பதிவு செய்து, பிரதீப்குமார் பண்டாரவை விசாரணை செய்தனர்.
+The Ramanathapuram CBCIT police registered a case and investigated Pradeep Kumar Bandara.
 
-விசாரணையில் போதைப்பொருள் கடத்தலில் தனது  சகோதரர் தன்னை மாட்டி விட்டதாகவும், அந்த கைது நடவடிக்கையில் இருந்து தப்பிக்க சட்டவிரோதமாக இந்தியா வந்ததாகவும் தெரிவித்தார்.
+Investigations said that his brother had been stuck in drug trafficking and that India had illegally came to escape the arrest.
+
+He was subsequently placed in a special camp for Sri Lankan refugees in Trichy as per the Ramanathapuram Primary District Session Court.
 
 ...
 
 [Data](articles/17e489d8.json)
+
+[Extended Data](ext_articles/17e489d8.ext.json)
+
+---
+
+### Detention of the three arrested in connection with drug lorries
+
+*2025-09-25 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214985) · `si`
+
+The Tangalle Magistrate's Magistrate's Magistrate's Magistrate has been detained and questioned about three lorries in Seennakalle Seen Lorrries.
+
+A son of two lorries found at the hospital and the deceased under the deceased, Tangalle Magistrate was produced before the Tangalle Magistrate yesterday (24).
+
+The police have requested the court to hold the suspects and interrogation and the Magistrate ordered to be interrogated on the 29th.
+
+One lorry owner and its driver, who was arrested in connection with the incident, was detained and its driver and the driver of the drug were detained and questioned on the 29th.
+
+Meanwhile, police have commenced investigations into the arrest of the person known as the Nampel - Genemodara in Tangalle.
+
+Several police teams have been deployed to arrest him.
+
+A special operation of the police with three persons in the Seennamodara area in Tangalle recently recovered a large quantity of ice and heroin of 705 kilograms of drugs.
+
+...
+
+[Data](articles/d3c14243.json)
+
+[Extended Data](ext_articles/d3c14243.ext.json)
 
 ---
 
@@ -97,6 +219,30 @@ The meeting between the duo was also held on the sidelines of the 80th UN Genera
 [Data](articles/041c40f3.json)
 
 [Extended Data](ext_articles/041c40f3.ext.json)
+
+---
+
+### Minister Vijitha Herath holds talks with Maldives, Finland and Germany FMs
+
+*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112897/minister-vijitha-herath-holds-talks-with-maldives-finland-and-germany-fms) · `en`
+
+Minister of Foreign Affairs Vijitha Herath has held bilateral talks with Ministers of several countries on the sideline of the 80th session of the United Nations General Assembly.
+
+Minister Herath met with Minister of Foreign Affairs of Maldives Abdulla Khaleel on the sidelines of the 80th UN General Assembly.
+
+The duo reviewed the ongoing cooperation and explored ways to further strengthen close bilateral relations.
+
+The Foreign Minister also met the Minister of Foreign Affairs of Finland, Elina Valtonen on the sidelines of the 80th UN General Assembly. The discussions focused on strengthening cooperation between Sri Lanka and Finland.
+
+Minister of Foreign Affairs Vijitha Herath discussed advancing bilateral cooperation and shared perspectives on key global issues during the meeting with the Minister of State at the Federal Foreign Office of Germany, Serap Güler.
+
+The meeting between the duo was also held on the sidelines of the 80th UN General Assembly.
+
+◼️
+
+[Data](articles/436a5187.json)
+
+[Extended Data](ext_articles/436a5187.ext.json)
 
 ---
 
@@ -135,6 +281,22 @@ Three people died on the spot. And four are injured. The injured were immediate
 [Data](articles/6f3a06a8.json)
 
 [Extended Data](ext_articles/6f3a06a8.ext.json)
+
+---
+
+### Four deaths this morning: Four deaths
+
+*2025-09-25 08:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-இடம்பெற்ற-கோர-விபத்து-நால்வர்-மரணம்/175-365254) · `ta`
+
+Four people were killed in a vehicle accident on the Kurunegala - Anuradhapura main road, Thalawa, Mirigama area today (25).
+
+The accident occurred when a van traveling from Kurunegala to Anuradhapura collided with a lorry.
+
+◼️
+
+[Data](articles/a469b1d0.json)
+
+[Extended Data](ext_articles/a469b1d0.ext.json)
 
 ---
 
@@ -450,6 +612,24 @@ The proposal to this effect, submitted by Health Minister Dr. Jayatissa, was app
 
 ### Three dead and four injured in head-on collision between lorry and van in Thalawa
 
+*2025-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112895/three-dead-and-four-injured-in-head-on-collision-between-lorry-and-van-in-thalawa) · `en`
+
+Three individuals have died and four others have been injured in a head-on collision between a lorry and a van in the Thalawa–Mirigama junction along the Kurunegala–Anuradhapura main road, police stated.
+
+The lorry was traveling from Anuradhapura towards Kurunegala, while the van was also traveling in the opposite direction, according to police.
+
+Seven individuals, including the drivers of both vehicles were admitted to Thalawa and Anuradhapura hospitals. Among the passengers of the van, three have lost their lives.
+
+◼️
+
+[Data](articles/1c36d187.json)
+
+[Extended Data](ext_articles/1c36d187.ext.json)
+
+---
+
+### Three dead and four injured in head-on collision between lorry and van in Thalawa
+
 *2025-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112895/three-dead-four-injured-in-lorry-van-collision-in-thalawa) · `en`
 
 Three individuals have died and four others have been injured in a head-on collision between a lorry and a van in the Thalawa–Mirigama junction along the Kurunegala–Anuradhapura main road, police stated.
@@ -495,6 +675,20 @@ Key areas of discussion included, the engagement of Sri Lankan troops in United 
 [Data](articles/5615718c.json)
 
 [Extended Data](ext_articles/5615718c.ext.json)
+
+---
+
+### About poisonous 9 provinces. පොලිස්පතිවරුන්ට සෘජුවම කියන්න අවස්ථාව
+
+*2025-09-25 07:26:17* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-මත්ද්‍රව්‍ය-ගැන-පළාත්-9-ජෙ-නි--පොලිස්පතිවරුන්ට-සෘජුවම-කියන්න-අවස්ථාව/11-418710) · `si`
+
+Police have introduced a new telephone number to senior DIGs in charge of 9 provinces in connection with poisonous drugs.
+
+◼️
+
+[Data](articles/b605b49e.json)
+
+[Extended Data](ext_articles/b605b49e.ext.json)
 
 ---
 
@@ -652,6 +846,34 @@ It has been reported that among the deceased monks, three were foreign nationals
 
 ---
 
+### We will strengthen the people economically
+
+*2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/150-365251) · `ta`
+
+President Anuragumara Dissanayake said that my dream is to strengthen all the people of my country economically.
+
+He was speaking at the United Nations General Assembly. When he further addresses,
+
+The drug and its appropriate market today is creating many worldwide pronunciations.
+
+Drug trade threatens countries and affect global politics and health.
+
+At the same time, it threatens the global goodwill. The Sri Lankan government is taking appropriate action against drugs and crimes and I urge all of you to take up global precautionary measures.
+
+Global action should be taken against drug traders. In addition, rehabilitation centers should be set up to assist the drug victims.
+
+At the same time, we believe that corruption is a barrier to the development of a country and is acting against democracy.
+
+As well as leading to corruption and poverty. It is more dangerous to not take action against corruption.
+
+...
+
+[Data](articles/4e2afec4.json)
+
+[Extended Data](ext_articles/4e2afec4.ext.json)
+
+---
+
 ### We will strengthen the country's people economically
 
 *2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/175-365251) · `ta`
@@ -799,6 +1021,22 @@ Speaking at the UN Headquarters in New York on the 25th morning Sri Lanka time, 
 [Data](articles/230607f9.json)
 
 [Extended Data](ext_articles/230607f9.ext.json)
+
+---
+
+### President urges world leaders to commit themselves to building a safe world
+
+*2025-09-25 04:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112887/president-urges-world-leaders-to-commit-themselves-to-building-a-safe-world) · `en`
+
+President Anura Kumara Dissanayake, addressing the 80th session of the United Nations General Assembly, urged world leaders to commit themselves wholeheartedly to building a safe world for future generations. The President stressed that nations must walk hand in hand, not apart.
+
+Speaking at the UN Headquarters in New York this morning (25), the President expressed deep concern over the ongoing humanitarian catastrophe in the Gaza Strip. He called for an immediate ceasefire, the unhindered delivery of humanitarian aid and the release of hostages by all parties, in line with agreements reached by the United Nations and other stakeholders. He further emphasized that strong international pressure must be applied to halt the continuing violence and killings.
+
+...
+
+[Data](articles/570b5115.json)
+
+[Extended Data](ext_articles/570b5115.ext.json)
 
 ---
 
@@ -1795,261 +2033,5 @@ The Sri Lanka Police appreciate the support you give as citizenship to eliminate
 [Data](articles/f39c1e70.json)
 
 [Extended Data](ext_articles/f39c1e70.ext.json)
-
----
-
-### Sanjana Kavindi shine continuously; Aussie. Sri Lanka captured the women's R20 series under 19
-
-*2025-09-24 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/225995) · `ta`
-
-The Sri Lankan women under 19 won by 6 wickets in the R20 cricket match against the 19 -year -old Australian women's team held at the Dambulla International Stadium in Rangiri.
-
-With this victory, the Sri Lankan women under the age of 19 are leading the game by 3 - 0.
-
-Sanjana Gavindi continued to shine in the three matches in the series so far and played a key role in Sri Lanka's success.
-
-It is believed that the 16 -year -old Sanjana Gavindi de Silva, a hero of Ratgama, Devapatraja Vidyalaya, is a 'Betham Nissanka' in the future Sri Lankan women's team.
-
-Kavindi Sanjana scored 62 runs in the first match, 24 runs in the second match and 36 runs in the third match today.
-
-The team was limited to 16 overs as the 3rd match was delayed due to rain this morning in Dambulla.
-
-Under the age of 19, the Australian women, who decided to bat first in the upting match, scored 100 runs for the loss of 6 wickets in 16 overs.
-
-Emily Powell scored 32 runs and Lucy bin 31 runs.
-
-...
-
-[Data](articles/4afdb152.json)
-
-[Extended Data](ext_articles/4afdb152.ext.json)
-
----
-
-### Three people shot at immigration detention facility in Dallas
-
-*2025-09-24 19:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112879/three-people-shot-at-immigration-detention-facility-in-dallas) · `en`
-
-Three people have been shot at an Immigration and U.S. Customs Enforcement detention facility in Dallas and the shooter is dead from a self-inflicted gunshot wound, the agency’s director said.
-
-Acting ICE Director Todd Lyons confirmed the shooting during an interview on CNN on Wednesday.
-
-“It could be employees, it could be civilians that were visiting the facility, it could be detainees,” Lyons said of those who were shot. “At this point, we’re still working through that.”
-
-Homeland Security Secretary Kristi Noem said details were still emerging but the agency was confirming there were “multiple injuries and fatalities.” Noem said the motive remained unclear but noted there has been an uptick of targeting of ICE agents.
-
-Dozens of emergency vehicles were seen along a highway near the facility.
-
-◼️
-
-[Data](articles/837ac167.json)
-
-[Extended Data](ext_articles/837ac167.ext.json)
-
----
-
-### More than 1,000 child abuse in 7 months
-
-*2025-09-24 19:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-மாதங்களில்-1-000க்கும்-மேற்பட்ட-சிறுவர்-துஷ்பிரயோகம்/175-365231) · `ta`
-
-More than 1,000 complaints have been lodged in the first seven months of 2025, Women and Child Affairs Minister Saroja Savitri Bolraj said.
-
-He said this while addressing the debate on the second reading of the Penal Code in Parliament today.
-
-He also noted that children are abused in places like homes, schools, barricades and streets.
-
-The Minister pointed out that the number of complaints made this year is high compared to last year.  R
-
-◼️
-
-[Data](articles/af631aa5.json)
-
-[Extended Data](ext_articles/af631aa5.ext.json)
-
----
-
-### Important Notification for the 9 province
-
-*2025-09-24 19:39:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/9-மாகாண-மக்களுக்கும்-முக்கிய-அறிவித்தல்/76-365230) · `ta`
-
-New telephone numbers to the public to provide information about drugs. To be,
-
-The public can provide information on drugs, including heroin, ice, cocaine and cannabis, which are widely found in different parts of the country, by calling the mobile phone number of senior DIG in charge of the concerned province.
-
-While protecting the confidentiality of the information provided, senior DIGs will take immediate legal action, including carrying out the necessary tests and action.
-
-The Sri Lankan police greatly appreciate the support you provide as citizens to eradicate drug threat, and the names of senior DIGs in charge of the relevant provinces and mobile phone numbers are as follows.
-
-◼️
-
-[Data](articles/3c3341b7.json)
-
-[Extended Data](ext_articles/3c3341b7.ext.json)
-
----
-
-### Indian High Commissioner visits ex-President Mahinda Rajapaksa at Carlton House
-
-*2025-09-24 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112878/indian-high-commissioner-visits-ex-president-mahinda-rajapaksa-at-carlton-house) · `en`
-
-High Commissioner of India to Sri Lanka Santosh Jha has visited former President Mahinda Rajapaksa at his private residence in Hambantota today.
-
-The High Commissioner during the meeting with the former President at Carlton House has held discussions pertaining to India-Sri Lanka bilateral cooperation.
-
-The duo has also held talks on recent political developments in Sri Lanka.
-
-◼️
-
-[Data](articles/56c5cfba.json)
-
-[Extended Data](ext_articles/56c5cfba.ext.json)
-
----
-
-### Authority to declare the Sabarimala Iyyappan Temple as a sacred place
-
-*2025-09-24 19:28:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபரிமலை-ஐயப்பன்-ஆலயத்தை-புனித-தலமாக-பிரகடனப்படுத்த-அங்கீகாரம்/175-365229) · `ta`
-
-The Cabinet has approved the declaration of the Sabarimalai Iyyappan Temple as a pilgrimage recognized by the Government of Sri Lanka. Colombo Municipal Council Member S. Anandakumar said that action is being taken to inform the Government of India.
-
-The Hindu devotees of Sri Lanka visit the Sabarimalai Iyyappan Temple in the state of Kerala, Kerala, from November 1st to 31st January next year.. In two more months, Iyappa Samimars will wear evening and go to Sabarimala.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Religious and Cultural Affairs to declare the pilgrimage to the Sabarimalai Iyyappan Temple by the Sri Lankan Hindu pilgrims.
-
-...
-
-[Data](articles/9a9ef551.json)
-
-[Extended Data](ext_articles/9a9ef551.ext.json)
-
----
-
-### Mithigama Ruan's friend arrested
-
-*2025-09-24 19:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதிகம-ருவானின்-நண்பன்-கைது/175-365228) · `ta`
-
-A friend of Mithigama Ruwan, a leader of the underworld and the main suspect in the international drug network, has been arrested.
-
-He was arrested during a raid conducted by Special Task Force between Weligama and Mithigama.
-
-Police said three T-56 guns were seized from the suspect. Remble
-
-◼️
-
-[Data](articles/8dba2d24.json)
-
-[Extended Data](ext_articles/8dba2d24.ext.json)
-
----
-
-### Belan D'Or Award Ceremony 2025: Excellent player Usman Tempili
-
-*2025-09-24 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/225994) · `ta`
-
-The Paris St. Germane Club and French national player Usman Templi won the year's Award for the Best Football Player of the France News Megus (France) Magazine (France) and the French Football Federation.
-
-Barcelona and Spain Central field player Ayyanna Ponmatti won the Belan D'Or Award for the Best Player for the third consecutive year.
-
-The 69th Belan D'Or Award ceremony was held last Monday night at the Theater to Sadley Stadium in Paris, France.
-
-Usman Tempili won the Belan D'Or Award for Best Player. He won the award for the first time and received it.
-
-During the ongoing 2024 - 2025 During the football season, Osman Templi made four champion titles for the Paris St. Germane Corporation through his excellent football technique.
-
-Paris St. Germaine won four champions titles, the European Super Cup, the European Champions League, the Local Double Degree League 1 and the Coob de France.
-
-Barcelona and Spain's Aydana Ponmatti won the Belan D'Or award for the third consecutive year.
-
-...
-
-[Data](articles/4316ef65.json)
-
-[Extended Data](ext_articles/4316ef65.ext.json)
-
----
-
-### What happened to the magistrate who ordered Ranil to arrest?
-
-*2025-09-24 19:10:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-கைதுசெய்ய-உத்தரவிட்ட-நீதவானுக்கு-நடந்தது-என்ன/175-365227) · `ta`
-
-The District Magistrate has been promoted to the detention of former President Ranil Wickremesinghe.
-
-However, the magistrate has been transferred to the magistrate who ordered the arrest of a government minister.
-
-Ranjith Mathuma Bandara, the general secretary of the United People's Power and MP, said this was the legal rule of the state.
-
-J.V.P.. We are aware of the forest court proceedings. He also questioned that they are now trying to re -establish this situation.
-
-He said this in a debate on the Amendment Bill on Wednesday in Parliament
-
-◼️
-
-[Data](articles/61a2f4be.json)
-
-[Extended Data](ext_articles/61a2f4be.ext.json)
-
----
-
-### Printing of modular materials for Grade 1 and Grade 6 students underway
-
-*2025-09-24 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112877/printing-of-modular-materials-for-grade-1-and-grade-6-students-underway) · `en`
-
-The printing of required modular materials for Grade 1 and Grade 6 students for the year 2026 is currently underway, the Secretary to the Ministry of Education, Nalaka Kaluwewe has confirmed.
-
-Secretary Nalaka Kaluwewe also stated that the modular-based training programs for Grade 1 and Grade 6 school teachers for next year are scheduled to be completed by the end of November.
-
-He made this statement during a discussion in Parliament regarding the current progress of the new educational reforms.
-
-Secretary Kaluwewe further mentioned that approximately 80% of the Trainer of Trainers (TOT) program — aimed at preparing teacher trainers — has already been completed, while the remaining participants are currently undergoing training at the National Institute of Education (NIE) in Maharagama.
-
-He added that the objective of the program is to produce both theoretically and practically trained facilitators to carry out teacher training across all provinces.
-
-...
-
-[Data](articles/3ca14a8f.json)
-
-[Extended Data](ext_articles/3ca14a8f.ext.json)
-
----
-
-### Participation of North and East Relations Meeting
-
-*2025-09-24 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/225993) · `ta`
-
-Representatives of the Association of North and East will also participate in the 29th meeting of the Missing Faculty Committee on Friday 26th in Geneva.
-
-The 60th session of the United Nations Human Rights Council will commence on the 8th and will be held until the 8th of October.
-
-The 29th meeting of the Missing Committee on the Convention will commence on Monday (22) and will be held in Geneva until the 3rd of October.
-
-The Group of Missing Figs under the United Nations is a structure that includes independent experts to monitor the fact that it is appropriately implemented by the member of the member states who have signed the Declaration of Protection of All Persons from Disappearances.. The committee includes 10 members proposed by the members.
-
-...
-
-[Data](articles/6b069a44.json)
-
-[Extended Data](ext_articles/6b069a44.ext.json)
-
----
-
-### Insurance compensation for death of migrant worker increased
-
-*2025-09-24 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112876/insurance-compensation-for-death-of-migrant-worker-increased) · `en`
-
-The insurance compensation granted if a Sri Lankan worker employed abroad dies during their employment has been increased up to Rs. 2 million.
-
-This was announced by Koshala Wickremasinghe, Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), during a special media briefing held today (24t.
-
-As of now, the insurance compensation paid for a death occurring during foreign employment was Rs. 600,000, but this amount has now been increased by an additional Rs. 1,4 million, bringing the total compensation to Rs. 2 million, according to Chairman Wickremasinghe.
-
-Additionally, the Bureau has introduced a loan scheme to assist the spouse of Sri Lankan migrant workers in starting a business.
-
-Furthermore, it has been decided to increase the scholarship funds for the children of migrant workers and to provide laptops for those children pursuing higher education.
-
-...
-
-[Data](articles/bcf05bc1.json)
-
-[Extended Data](ext_articles/bcf05bc1.ext.json)
 
 ---

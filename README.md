@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 20:56:26**
+As of **2025-09-25 21:08:29**
 
 ## Newspaper Stats
 
-*Scraped **78,156** Articles*
+*Scraped **78,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 5,540
 adalk | 7,598
 adaderanalk | 10,157
 tamilmirrorlk | 11,785
-virakesarilk | 12,716
+virakesarilk | 12,717
 adaderanasinhalalk | 13,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,156 (100.0%) of 78,156 articles have been extended.
+78,156 (100.0%) of 78,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### மோட்டார் சைக்கிள் – பாரவூர்தி நேருக்கு நேர் மோதி விபத்து; இளைஞன் பலி
+
+*2025-09-25 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226088) · `ta`
+
+பாரவூர்தியை முந்திச் செல்ல முற்பட்ட மோட்டார் சைக்கிளில் வந்த இளைஞன் எதிரே வந்த மோட்டார் சைக்கிளுடன் நேருக்கு நேர் மோதி உயிரிழந்துள்ளார்.
+
+யாழ் தென்மராட்சி , சாவகச்சேரி ஏ9 வீதியில் குறித்த விபத்து இடம்பெற்றுள்ளது. இதன் போது மீசாலை கிழக்கைச் சேர்ந்த 21 வயதான இளைஞனே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவ் விபத்தின் போது மோட்டார் சைக்கிளில் பயணித்த இருவரும் படுகாயங்களுக்குள்ளான நிலையில் சாவகச்சேரி் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/c44d3e78.json)
+
+---
 
 ### Many streets of the city of Galle were submerged
 
@@ -2059,21 +2075,5 @@ The motion was signed by the Opposition Leader Sajith Premadasa and 31 other mem
 [Data](articles/8ae38d4a.json)
 
 [Extended Data](ext_articles/8ae38d4a.ext.json)
-
----
-
-### Drowning in Etimalai
-
-*2025-09-25 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226024) · `ta`
-
-The Etimalai Police Station was informed that a man who was drowned in the Doser Lake in the Etimalai police division was drowned.
-
-Investigations have revealed that the deceased was 54 years old from Etimalai Vavi.
-
-◼️
-
-[Data](articles/426be75b.json)
-
-[Extended Data](ext_articles/426be75b.ext.json)
 
 ---

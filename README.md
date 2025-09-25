@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 15:56:05**
+As of **2025-09-25 16:20:48**
 
 ## Newspaper Stats
 
-*Scraped **78,106** Articles*
+*Scraped **78,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,59 +18,121 @@ islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,592
 adaderanalk | 10,149
-tamilmirrorlk | 11,778
-virakesarilk | 12,708
-adaderanasinhalalk | 13,642
+tamilmirrorlk | 11,779
+virakesarilk | 12,712
+adaderanasinhalalk | 13,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,102 (100.0%) of 78,106 articles have been extended.
+78,112 (100.0%) of 78,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### தூங்கிகொண்டிருந்த கணவனை, கோடாரியால் கொத்திய மனைவி
+### 4 killed in Ladakh violence: curfew order
+
+*2025-09-25 15:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லடாக்-வன்முறையில்-4-பேர்-பலி-ஊரடங்கு-உத்தரவு-பிறப்பிப்பு/175-365276) · `ta`
+
+The struggle is underway demanding that Ladakh, the Union Territory, should be given a separate state status and included in the 6th Schedule of the Constitution.. It has been announced that it will hold talks on behalf of the central government on the 6th of next month.
+
+In the meantime, Ladakhil was invited to protest. The whole blockage struggle took place this morning. Then there was a tension between the protesters and the police. The furious protesters were involved in violence. Police set fire to the vehicles of the police.
+
+The BJP in Leh to express their opposition to the central government. They set fire to the office and attacked it. This caused a tense situation.
+
+In this case, the police threw tear gas and dispersed the protesters. 4 people died in this violence. More than 70 people were injured. Moreover, the Leville curfew has been implemented to control the struggle.
+
+◼️
+
+[Data](articles/f19a0937.json)
+
+[Extended Data](ext_articles/f19a0937.ext.json)
+
+---
+
+### Supreme Court Notification of Express Pearl Compensation
+
+*2025-09-25 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214999) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළව ගොනු කෙරුණු මූලික අයිතිවාසිකම් නඩුකරවලදී ගෙවෙන ලෙස නියම කෙරුණු වන්දි මුදල් ගෙවීම පැහැර හැරීම සම්බන්ධයෙන් එම නෞකාවේ විදේශීය සමාගමට එරෙහිව ගත හැකි නීතිමය ක්‍රියාමාර්ග පිළිබඳ සොයාබලා ලබන ජනවාරි මස 26 වනදා අධිකරණයට කරුණු දක්වන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (25) නීතිපතිවරයාට නියම කළේය.
+
+The order was issued when the petitions were taken up today to look into the orders issued by the relevant fundamental rights petitions.
+
+◼️
+
+[Data](articles/9bfa36f5.json)
+
+[Extended Data](ext_articles/9bfa36f5.ext.json)
+
+---
+
+### New Hurricanes in the Philippines: Schools, Airlines cancel
+
+*2025-09-25 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
+
+Following the death of nine people in the Philippines, the country's schools have been shut down and the flights have been canceled today (September 25).
+
+It has been predicted that severe tornadoes intensify tomorrow (Friday) and then hit the southern tip of Lusone, the largest island of the Philippines.
+
+The Department of Meteorology has reported that there will be widespread floods and landslides in the highlands.
+
+Scientists say the storms are very strong as the world is warming due to the effects of human -driven climate change.
+
+The Philippines Coast Guard said that about 1,500 people were trapped in the ports of Pikol.
+
+◼️
+
+[Data](articles/dbd1c11a.json)
+
+[Extended Data](ext_articles/dbd1c11a.ext.json)
+
+---
+
+### Husband
 
 *2025-09-25 15:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தூங்கிகொண்டிருந்த-கணவனை-கோடாரியால்-கொத்திய-மனைவி/76-365274) · `ta`
 
-தூங்கிக்கொண்டிருந்த கணவனை அவருடைய மனைவி கோடாரியால் கொத்திய சம்பவம், மொனராகலை பொலிஸ் பிரிவுக்குட்பட்ட பொத்துவில் வீதி 19 ஆம் கட்டை பிரதேசத்தில் வீடொன்றில் இடம்பெற்றுள்ளதாக  பொத்துவில் பொலிஸார் தெரிவித்தனர்.
+Pottuvil police said that the incident of the sleeping husband of his wife was taken by his wife, Pottuvil Road, Pottuvil Road, 19th.
 
-நான்கு குழந்தைகளின் தந்தையான 43 வயதுடைய குடும்பஸ்தர்  திங்கட்கிழமை (22) அன்று இரவு 9 மணியளவில் வீடு திரும்பி,  தூங்கிக்கொண்டிருந்துள்ளார். இந்த சம்பவம், செவ்வாய்க்கிழமை (23) காலை 6:30 மணியளவில் இடம்பெற்றுள்ளது.
+The 43 -year -old family of four children returned home on Monday (22) at 9 pm. The incident took place at 6:30 am on Tuesday (23).
 
-வேறொரு பெண்ணுடன் கணவர் தொடர்பில் இருப்பதாக கிடைத்த தகவலுக்கமைய  இந்த தாக்குதல் நடத்தப்பட்டதாக மனைவியிடம் மேற்கொள்ளப்பட்ட ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+Preliminary inquiries have revealed that the attack was carried out by the husband that the husband was in touch with another woman.
 
-இதில் பலத்த காயமடைந்த கணவன் சியம்பலாண்டுவ ஆதார மருத்துவமனையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக மொனராகலை மாவட்ட பொது மருத்துவமனைக்கு மாற்றப்பட்டார்.
+The husband, who was seriously injured, was admitted to the Siyambalanduwa Resource Hospital and was transferred to the Moneragala District General Hospital for further treatment.
 
-தற்போது மொனராகலை மாவட்ட பொது மருத்துவமனையின் தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வருகிறார்.
+He is currently receiving treatment at the Intensive Care Unit of the Moneragala District General Hospital.
 
-சந்தேக நபரான நாற்பது வயதுடைய பெண், பொலிஸாரால் கைது செய்யப்பட்டு சியம்பலாண்டுவ நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The suspect, a forty -year -old woman, has been arrested by the police and produced at the Siyambalanduwa Magistrate's Court.
 
 ◼️
 
 [Data](articles/8b9ab4c3.json)
 
+[Extended Data](ext_articles/8b9ab4c3.ext.json)
+
 ---
 
-### பாராளுமன்ற சமையலறைக்குள் எலிகள்?
+### Mice in the parliamentary kitchen?
 
 *2025-09-25 15:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-சமையலறைக்குள்-எலிகள்/175-365273) · `ta`
 
-நேற்று (24) மேற்கொள்ளப்பட்ட ஆய்வின் போது, ​​பாராளுமன்ற சமையலறைக்குள் எலிகள் அல்லது சுகாதாரமற்ற நிலைமைகள் இருப்பதற்கான எந்த ஆதாரமும் கிடைக்கவில்லை என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் பிரசாத் சிறிவர்தன தெரிவித்தார்.
+Opposition parliamentarian Prasad Siriwardena said that during a study conducted yesterday (24), there was no evidence of rats or unhealthy conditions in the parliamentary kitchen.
 
-சேமிப்புப் பகுதிகள் கண்ணாடி மற்றும் வலைகளால் பாதுகாக்கப்பட்டதாகவும், ஊழியர்கள் தொடர்ந்து தூய்மையைப் பராமரித்து வருவதாகவும் சிறிவர்தன கூறினார்.
+Siriwardena said that the storage areas were protected by glass and nets and that staff continued to maintain cleanliness.
 
-கடந்த 35 ஆண்டுகளில் பாராளுமன்றத்தில் வழங்கப்படும் உணவின் தரம் குறித்து எந்த முறைப்பாடும் வரவில்லை என்றும், சபாநாயகரின் கருத்துக்கள் ஊழியர்களின் கண்ணியம் மற்றும் மரியாதைக்கு தீங்கு விளைவிப்பதாகவும் அவர் கூறினார்.
+He said that in the last 35 years, there was no complaint about the quality of food in Parliament and that the Speaker's comments were harmful to the dignity and respect of the staff.
 
-இருப்பினும், வசதிகள் பழுதடைந்த நிலையில் இருப்பதாகவும் சிறிவர்தன சுட்டிக்காட்டினார். ஏழு அடுப்புகளில் ஆறு அடுப்புகள் செயலிழந்து, உபகரணங்கள் உடைந்து, ஓடுகள் தேய்ந்து, வெளியேற்றும் மின்விசிறிகள் செயல்படவில்லை, கழிப்பறைகள் கூட மோசமான நிலையில் இருப்பதை அவர் கவனித்தார்.
+However, Siriwardena also pointed out that the facilities are in a state of damage. He noticed that six stoves were dysfunctional in the seven ovens, the equipment was broken, the tiles were dumped, the exhaust fan was not functioning, and even the toilets were in bad condition.
 
-ஊழியர்கள் மேலும் சிரமத்திற்கு ஆளாகாமல் இருப்பதை உறுதி செய்வதற்காக, இந்தக் குறைபாடுகளை உடனடியாக நிவர்த்தி செய்யுமாறு அவர் அதிகாரிகளை வலியுறுத்தினார்.
+He urged the authorities to immediately address these shortcomings in order to ensure that the employees are not further inconvenienced.
 
 ...
 
 [Data](articles/0d690aae.json)
+
+[Extended Data](ext_articles/0d690aae.ext.json)
 
 ---
 
@@ -78,13 +140,79 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-25 15:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்காரவுக்கு-அழைப்பாணை/175-365272) · `ta`
 
-முன்னாள் தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார, லஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரிக்கும் ஆணைக்குழுவில் (CIABOC) ஆஜராகுமாறு அழைக்கப்பட்டுள்ளார்.
+Former Labor and Foreign Employment Minister Manusha Nanayakkara has been summoned to appear in the Commission to Investigate Bribery or Corruption.
 
-நாளை (26) காலை 9.30 மணிக்கு ஆணையத்தின் முன் ஆஜராகுமாறு அவருக்கு உத்தரவிடப்பட்டுள்ளதாக CIABOC தெரிவித்துள்ளது.
+CIABOC said he was ordered to appear before the Commission at 9.30 am tomorrow (26).
 
 ◼️
 
 [Data](articles/7d26b85e.json)
+
+[Extended Data](ext_articles/7d26b85e.ext.json)
+
+---
+
+### Invitations to Manusha Nanayakkara by Bribery Commission
+
+*2025-09-25 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226056) · `ta`
+
+தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவில் ஆஜராகுமாறு அழைப்பாணை அனுப்பப்பட்டுள்ளது.
+
+The Bribery Commission said he was ordered to appear before the Commission tomorrow (26) at 9.30 am.
+
+◼️
+
+[Data](articles/efcf8098.json)
+
+[Extended Data](ext_articles/efcf8098.ext.json)
+
+---
+
+### Introducing the new adventure game at the Lotus Tower in Colombo in 2026
+
+*2025-09-25 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226054) · `ta`
+
+Funky jumping (jumping game by rope) will be introduced at the Lotus Tower in Colombo in 2026.
+
+Sri Lanka's Lotus Tower is expected to attract South Asia's first funky jump by 2026.
+
+The scheme is currently in the phase of planning and engineering under the contract between structural engineers and the technical team of the tower.
+
+Shiranda Peiris, president of the Lotus Tower Management Company, said that it is aimed at promoting tourism, technology, technology, adventure and entertainment of South Asia.
+
+He stressed that priority will be given priority for security measures and that the project is not under the Ministry of Sports but also commercial.
+
+It is expected to attract international attention and strengthen Sri Lanka's adventure tourism industry.
+
+◼️
+
+[Data](articles/02c5630e.json)
+
+[Extended Data](ext_articles/02c5630e.ext.json)
+
+---
+
+### Special testing activities across the country!
+
+*2025-09-25 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226053) · `ta`
+
+About 1,006 suspects have been arrested on Wednesday (24) only on Wednesday (24) during crimes and drug prevention.
+
+Accordingly, all the regional police at the regional level; Special activities have been implemented.
+
+Accordingly, 28,669 people have been checked by the police. About 1,006 people have been arrested on suspicion.
+
+31 people have been directly identified in connection with further crimes. 378 persons have been arrested on the occasion and 223 on the occasion.
+
+At the same time, 63 persons have been arrested on charges of driving and 20 for negligence.
+
+4364 people have been arrested for other traffic crimes, the police media unit said.
+
+◼️
+
+[Data](articles/8c89f274.json)
+
+[Extended Data](ext_articles/8c89f274.ext.json)
 
 ---
 
@@ -110,17 +238,19 @@ The former President has sent a Nirvana healing of Nirvana healing the monks who
 
 ---
 
-### කථානායකවරයාට එරෙහිව විශ්වාසභංගයක්
+### No-confidence motion against Speaker
 
 *2025-09-25 14:57:45* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහිව-විශ්වාසභංගයක්/11-418720) · `si`
 
-කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාට  එම ධුරය දැරීමට සුදුසුකම් නොමැති බවත්, කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට තීරණයක් ගෙන ඇති බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී. පෙරේරා මහතා පැවසීය.
+Parliamentarian Medical Jagath Wickramaratne is not eligible to bear the post and has decided to bring a no-confidence motion against the Speaker.. Mr. Perera said.
 
-පාර්ලිමේන්තුවේ දී අද(25දා) අදහස් පළ කරමින් හෙතෙම  මේ බව සඳහන් කළේය.
+He said this in parliament today (25).
 
 ◼️
 
 [Data](articles/f4829a2a.json)
+
+[Extended Data](ext_articles/f4829a2a.ext.json)
 
 ---
 
@@ -1883,131 +2013,5 @@ As well as leading to corruption and poverty. It is more dangerous to not take a
 [Data](articles/7034a3df.json)
 
 [Extended Data](ext_articles/7034a3df.ext.json)
-
----
-
-### Showers over 100mm
-
-*2025-09-25 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214979) · `si`
-
-Showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces in the Matara, Matara, Kandy and Nuwara Eliya districts.
-
-In some places mm. The Met Department announces heavy showers around 100.
-
-Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
-
-At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. 40-50) can cause strong winds.
-
-The public is kindly requested to take steps to minimize the dangers of lightning and temporary winds with thunderstorms.
-
-◼️
-
-[Data](articles/6d1bef00.json)
-
-[Extended Data](ext_articles/6d1bef00.ext.json)
-
----
-
-### There are seven owners who have fallen a cable car dish in the Nawa
-
-*2025-09-25 06:04:39* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයනේ-කේබල්-කාර්-ඩක්කුවක්-කඩා-වැටී-හිමිවරු-7-නමක්-අපවත්වෙති/11-418706) · `si`
-
-The dance was collapsed in a crash at the peak of the hill night of the mountains of Malziripura, Men of Nawazer.
-
-Two of us were overseas national monks and placed their bodies in the Gokarella hospital.
-
-Thirteen monks in the dick in the dick during the accident and were seriously injured and received treatment at Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/af450a36.json)
-
-[Extended Data](ext_articles/af450a36.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island today
-
-*2025-09-25 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112889/heavy-showers-above-100mm-expected-in-parts-of-the-island-today) · `en`
-
-Showers will occur at times in the Western, Sabaragamuwa and North-western provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (25), the Department of Meteorology said.
-
-Heavy falls of about 100mm are likely at some places, the Met. Department added.
-
-A few showers may occur in the North-central province as well.
-
-Showers or thundershowers are likely at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
-
-Fairly strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Central, Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
-
-◼️
-
-[Data](articles/b7e36015.json)
-
-[Extended Data](ext_articles/b7e36015.ext.json)
-
----
-
-### President meets top officials ahead of UNGA session
-
-*2025-09-25 05:18:26* · [`dailyftlk`](https://www.ft.lk/news/President-meets-top-officials-ahead-of-UNGA-session/56-782153) · `en`
-
-President Anura Kumara Disanayake meets Pakistani Prime Minister Shehbaz Sharif
-
-President Anura Kumara Disanayake, who arrived in the US on Tuesday, met UN High Commissioner for Human Rights Volker Türk, ahead of the 80th session of the UN General Assembly (UNGA).
-
-The meeting took place at the Human Rights Council Chamber of the UN Secretariat in the US.
-
-Türk extended a warm welcome to Disanayake and engaged in bilateral discussions, the President’s Media Division (PMD) said in a statement.
-
-The President also met with US President Donald Trump’s Special Envoy for South and Central Asian Affairs and White House Presidential Personnel Office Director Sergio Gor in New York.
-
-The meeting took place at the Permanent Mission of Sri Lanka to the UN in New York.
-
-Separately, President Disanayake also met his South African counterpart Cyril Ramaphosa.
-
-...
-
-[Data](articles/1f404f86.json)
-
-[Extended Data](ext_articles/1f404f86.ext.json)
-
----
-
-### President Anura Kumara, Pakistan PM agree to boost bilateral ties at UNGA
-
-*2025-09-25 04:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112888/president-anura-kumara-pakistan-pm-agree-to-boost-bilateral-ties-at-unga) · `en`
-
-President Anura Kumara Dissanayake and Pakistan Prime Minister Shehbaz Sharif met on the sidelines of the 80th United Nations General Assembly, reaffirming the longstanding goodwill between Pakistan and Sri Lanka.
-
-During the meeting, the two leaders discussed ways to further expand cooperation in diverse fields including trade, education, culture, and defense. Both sides emphasized the importance of maintaining high-level exchanges to deepen mutual understanding and partnership.
-
-Highlighting the close bond between the people of both countries, the leaders agreed to enhance cooperation in sports — with a special focus on cricket, a sport cherished in both nations. They also expressed satisfaction with existing ties and vowed to build stronger cultural and educational linkages.
-
-The President and Pakistan PM Shehbaz also exchanged views on regional and global developments.
-
-...
-
-[Data](articles/fea48503.json)
-
-[Extended Data](ext_articles/fea48503.ext.json)
-
----
-
-### President Anura Kumara urges world leaders to commit themselves to building a safe world for future generations
-
-*2025-09-25 04:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112887/president-anura-kumara-urges-world-leaders-to-commit-themselves-to-building-a-safe-world-for-future-generations) · `en`
-
-President Anura Kumara Dissanayake, addressing the 80th session of the United Nations General Assembly, urged world leaders to commit themselves wholeheartedly to building a safe world for future generations. The President stressed that nations must walk hand in hand, not apart.
-
-Speaking at the UN Headquarters in New York on the 25th morning Sri Lanka time, the President expressed deep concern over the ongoing humanitarian catastrophe in the Gaza Strip. He called for an immediate ceasefire, the unhindered delivery of humanitarian aid and the release of hostages by all parties, in line with agreements reached by the United Nations and other stakeholders. He further emphasized that strong international pressure must be applied to halt the continuing violence and killings.
-
-...
-
-[Data](articles/230607f9.json)
-
-[Extended Data](ext_articles/230607f9.ext.json)
 
 ---

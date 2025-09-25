@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 16:09:29**
+As of **2025-09-25 15:56:05**
 
 ## Newspaper Stats
 
-*Scraped **78,112** Articles*
+*Scraped **78,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,71 +18,19 @@ islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,592
 adaderanalk | 10,149
-tamilmirrorlk | 11,779
-virakesarilk | 12,712
-adaderanasinhalalk | 13,643
+tamilmirrorlk | 11,778
+virakesarilk | 12,708
+adaderanasinhalalk | 13,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,102 (100.0%) of 78,112 articles have been extended.
+78,102 (100.0%) of 78,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
-
-### லடாக் வன்முறையில் 4 பேர் பலி: ஊரடங்கு உத்தரவு பிறப்பிப்பு
-
-*2025-09-25 15:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லடாக்-வன்முறையில்-4-பேர்-பலி-ஊரடங்கு-உத்தரவு-பிறப்பிப்பு/175-365276) · `ta`
-
-யூனியன் பிரதேசமாக உள்ள லடாக்கிற்கு தனி மாநில அந்தஸ்து வழங்கவேண்டும், அரசியலமைப்பின் 6-வது அட்டவணையில் சேர்க்கவேண்டும் என்ற கோரிக்கையை வலியுறுத்தி போராட்டம் நடந்து வருகிறது. இதுதொடர்பாக மத்திய அரசு சார்பில் அடுத்த மாதம் 6-ம் திகதி பேச்சுவார்த்தை நடத்துவதாக அறிவிக்கப்பட்டுள்ளது.
-
-இதற்கிடையே, லடாக்கில்முழு அடைப்பு போராட்டத்துக்கு அழைப்பு விடுக்கப்பட்டது. இன்று காலை முழு அடைப்பு போராட்டம் நடந்தது. அப்போது போராட்டக்காரர்களுக்கும், பொலிஸாருக்கும் இடையே தள்ளுமுள்ளு ஏற்பட்டது. இதனால் ஆத்திரமடைந்த போராட்டக்காரர்கள் வன்முறையில் ஈடுபட்டனர். பொலிஸாரின் வாகனங்களுக்கு தீவைத்தனர்.
-
-மத்திய அரசுக்கு தங்களது எதிர்ப்பை தெரிவிக்கும் வகையில் லே நகரில் உள்ள பா.ஜ.க. அலுவலகத்திற்கு தீ வைத்து அதன் மீது கல்வீசி தாக்குதல் நடத்தினர். இதனால் அங்கு பதற்றமான சூழல் நிலவியது.
-
-இந்நிலையில், பொலிஸார் கண்ணீர்புகை குண்டுகளை வீசி போராட்டக்காரர்களை கலைத்தனர். இந்த வன்முறையில் 4 பேர் உயிரிழந்தனர். 70-க்கும் மேற்பட்டோர் படுகாயம் அடைந்தனர். மேலும், போராட்டத்தைக் கட்டுப்படுத்த லேவில் ஊரடங்கு உத்தரவு அமல்படுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/f19a0937.json)
-
----
-
-### එක්ස්ප්‍රස් පර්ල් වන්දි ගෙවීම පැහැරහැරීම ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් දැනුම්දීමක්
-
-*2025-09-25 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214999) · `si`
-
-එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළව ගොනු කෙරුණු මූලික අයිතිවාසිකම් නඩුකරවලදී ගෙවෙන ලෙස නියම කෙරුණු වන්දි මුදල් ගෙවීම පැහැර හැරීම සම්බන්ධයෙන් එම නෞකාවේ විදේශීය සමාගමට එරෙහිව ගත හැකි නීතිමය ක්‍රියාමාර්ග පිළිබඳ සොයාබලා ලබන ජනවාරි මස 26 වනදා අධිකරණයට කරුණු දක්වන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (25) නීතිපතිවරයාට නියම කළේය.
-
-අදාළ මූලික අයිතිවාසිකම් පෙත්සම් සම්බන්ධයෙන් මීට පෙර නිකුත් කළ නියෝග ක්‍රියාත්මක වී ඇති ආකාරය සොයා බැලීම සඳහා එම පෙත්සම් අද කැඳවූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කෙරුණි.
-
-◼️
-
-[Data](articles/9bfa36f5.json)
-
----
-
-### பிலிப்பைன்ஸில் புதிய சூறாவளி : பாடசாலைகள், விமான சேவைகள் இரத்து
-
-*2025-09-25 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
-
-பிலிப்பைன்ஸில் சூறாவளியினால் ஒன்பது பேர் உயிரிழந்ததைத் தொடர்ந்து, இன்று வியாழக்கிழமை (செப்டம்பர் 25) புதிய சூறாவளி தாக்கும் என எதிர்வு கூறப்பட்டமையினால் நாட்டின் பாடசாலைகள் மூடப்பட்டதுடன் விமானங்களும் இரத்து செய்யப்பட்டுள்ளன.
-
-கடுமையான சூறாவளி நாளை (வெள்ளிக்கிழமை) தீவிரமடைந்து பின்னர் பிலிப்பைன்ஸின் மிகப்பெரிய தீவான லுசோனின் தெற்கு முனையை தாக்கும் என்று எதிர்வு கூறப்பட்டுள்ளது.
-
-மலைப்பகுதிகளில் பரவலான வெள்ளம் மற்றும் மண்சரிவுகள் ஏற்படக்கூடுமென அந்த நாட்டு வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-மனிதனால் இயக்கப்படும் காலநிலை மாற்றத்தின் விளைவுகளால் உலகம் வெப்பமடைவதால் புயல்கள் மிகவும் பலமானதாக வருவதாக விஞ்ஞானிகள் தெரிவித்துள்ளனர்.
-
-பிகோல் துறைமுகங்களில் சுமார் 1,500 பேர் சிக்கித் தவிப்பதாக பிலிப்பைன்ஸ் கடலோர பொலிஸ்படை, தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/dbd1c11a.json)
-
----
 
 ### தூங்கிகொண்டிருந்த கணவனை, கோடாரியால் கொத்திய மனைவி
 
@@ -137,64 +85,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7d26b85e.json)
-
----
-
-### மனுஷ நாணயக்காரவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவினால் அழைப்பாணை!
-
-*2025-09-25 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226056) · `ta`
-
-தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவில் ஆஜராகுமாறு அழைப்பாணை அனுப்பப்பட்டுள்ளது.
-
-நாளை வெள்ளிக்கிழமை (26) காலை 9.30 மணிக்கு ஆணைக்குழுவில் ஆஜராகுமாறு அவருக்கு உத்தரவிடப்பட்டுள்ளதாக இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/efcf8098.json)
-
----
-
-### 2026 இல் கொழும்பு தாமரை கோபுரத்தில் புதிய சாகச விளையாட்டு அறிமுகம்
-
-*2025-09-25 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226054) · `ta`
-
-2026ஆம் ஆண்டு கொழும்பு தாமரை கோபுரத்தில் பங்கி ஜம்பிங் (கயிற்றின்மூலம் குதிக்கும் விளையாட்டு) அறிமுகப்படுத்தப்படவுள்ளது.
-
-இலங்கையின் தாமரை கோபுரம் 2026 ஆம் ஆண்டுக்குள் தெற்காசியாவின் முதல் பங்கி ஜம்ப் ஈர்ப்பை வழங்கும் என எதிர்பார்க்கப்படுகிறது.
-
-கட்டமைப்பு பொறியியலாளர்களுக்கும் கோபுரத்தின் தொழில்நுட்பக் குழுவிற்கும் இடையிலான ஒப்பந்தத்தின் கீழ் இந்த திட்டம் தற்போது திட்டமிடல் மற்றும் பொறியியல் கட்டத்தில் உள்ளது.
-
-சுற்றுலாத்துறையை மேம்படுத்துவதையும், கலாச்சாரம், தொழில்நுட்பம், சாகசம் மற்றும் பொழுதுபோக்குக்கான தெற்காசியாவின் முதன்மையான இடமாக தாமரை கோபுரத்தை நிலைநிறுத்துவதையும் நோக்கமாகக் கொண்டதாக தாமரை கோபுர முகாமைத்துவ நிறுவனத்தின் தலைவர் ஷிரந்த பீரிஸ் தெரிவித்துள்ளார்.
-
-இதன்போது, பாதுகாப்பு நடவடிக்கைகளுக்கு முன்னுரிமை அளிக்கப்படும் எனவும், இந்த திட்டம் விளையாட்டு அமைச்சின் கீழ் அல்ல, வணிக ரீதியானது எனவும் அவர் வலியுறுத்தியுள்ளார்.
-
-இது சர்வதேச கவனத்தை ஈர்க்கும் என்றும் இலங்கையின் சாகச சுற்றுலாத் துறையை வலுப்படுத்தும் என்றும் எதிர்பார்க்கப்படுகிறது.
-
-◼️
-
-[Data](articles/02c5630e.json)
-
----
-
-### நாடு முழுவதும் விசேட சோதனை நடவடிக்கைகள் முன்னெடுப்பு!
-
-*2025-09-25 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226053) · `ta`
-
-நாடளாவிய ரீதியில் குற்றங்கள் மற்றும் போதைப்பொருள் தடுப்பு நடவடிக்கைகளின்போது நேற்று புதன்கிழமை (24) மாத்திரம் சுமார் 1,006 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-அதன்படி, பிரதேச மட்டத்தில் உள்ள அனைத்து பிராந்திய பொலிஸ்; நிலையங்களையும் உள்ளடக்கிய விசேட நடவடிக்கைகள் செயற்படுத்தப்பட்டுள்ளன.
-
-அதற்கமைய, பொலிஸாரினால் 28,669 பேர் சோதனை செய்யப்பட்டுள்ளனர். இதன்போது, சந்தேகத்தின் பேரில் சுமார் 1,006 பேர் கைது செய்யப்பட்டுள்ளனர்.
-
-மேலும் குற்றங்கள் தொடர்பாக 31பேர் நேரடியாக அடையாளம் காணப்பட்டுள்ளனர். பிடியாணையின் பேரில் 378பேரும், திறந்த பிடியாணையின் பேரில் 223 பேரும் கைது செய்யப்பட்டுள்ளனர்.
-
-அதேநேரம், மதுபோதையில் வாகனம் ஓட்டிய குற்றச்சாட்டில் 63 பேரும், கவனக்குறைவாக வாகனம் ஓட்டிய குற்றச்சாட்டில் 20 பேரும் கைது செய்யப்பட்டுள்ளனர்.
-
-ஏனைய போக்குவரத்து குற்றங்களுக்காக, 4364 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/8c89f274.json)
 
 ---
 
@@ -1993,5 +1883,131 @@ As well as leading to corruption and poverty. It is more dangerous to not take a
 [Data](articles/7034a3df.json)
 
 [Extended Data](ext_articles/7034a3df.ext.json)
+
+---
+
+### Showers over 100mm
+
+*2025-09-25 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214979) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa and Northwestern provinces in the Matara, Matara, Kandy and Nuwara Eliya districts.
+
+In some places mm. The Met Department announces heavy showers around 100.
+
+Uva Province and Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places about 2.00.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. 40-50) can cause strong winds.
+
+The public is kindly requested to take steps to minimize the dangers of lightning and temporary winds with thunderstorms.
+
+◼️
+
+[Data](articles/6d1bef00.json)
+
+[Extended Data](ext_articles/6d1bef00.ext.json)
+
+---
+
+### There are seven owners who have fallen a cable car dish in the Nawa
+
+*2025-09-25 06:04:39* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයනේ-කේබල්-කාර්-ඩක්කුවක්-කඩා-වැටී-හිමිවරු-7-නමක්-අපවත්වෙති/11-418706) · `si`
+
+The dance was collapsed in a crash at the peak of the hill night of the mountains of Malziripura, Men of Nawazer.
+
+Two of us were overseas national monks and placed their bodies in the Gokarella hospital.
+
+Thirteen monks in the dick in the dick during the accident and were seriously injured and received treatment at Kurunegala Teaching Hospital.
+
+◼️
+
+[Data](articles/af450a36.json)
+
+[Extended Data](ext_articles/af450a36.ext.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island today
+
+*2025-09-25 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112889/heavy-showers-above-100mm-expected-in-parts-of-the-island-today) · `en`
+
+Showers will occur at times in the Western, Sabaragamuwa and North-western provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (25), the Department of Meteorology said.
+
+Heavy falls of about 100mm are likely at some places, the Met. Department added.
+
+A few showers may occur in the North-central province as well.
+
+Showers or thundershowers are likely at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Central, Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts.
+
+Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+◼️
+
+[Data](articles/b7e36015.json)
+
+[Extended Data](ext_articles/b7e36015.ext.json)
+
+---
+
+### President meets top officials ahead of UNGA session
+
+*2025-09-25 05:18:26* · [`dailyftlk`](https://www.ft.lk/news/President-meets-top-officials-ahead-of-UNGA-session/56-782153) · `en`
+
+President Anura Kumara Disanayake meets Pakistani Prime Minister Shehbaz Sharif
+
+President Anura Kumara Disanayake, who arrived in the US on Tuesday, met UN High Commissioner for Human Rights Volker Türk, ahead of the 80th session of the UN General Assembly (UNGA).
+
+The meeting took place at the Human Rights Council Chamber of the UN Secretariat in the US.
+
+Türk extended a warm welcome to Disanayake and engaged in bilateral discussions, the President’s Media Division (PMD) said in a statement.
+
+The President also met with US President Donald Trump’s Special Envoy for South and Central Asian Affairs and White House Presidential Personnel Office Director Sergio Gor in New York.
+
+The meeting took place at the Permanent Mission of Sri Lanka to the UN in New York.
+
+Separately, President Disanayake also met his South African counterpart Cyril Ramaphosa.
+
+...
+
+[Data](articles/1f404f86.json)
+
+[Extended Data](ext_articles/1f404f86.ext.json)
+
+---
+
+### President Anura Kumara, Pakistan PM agree to boost bilateral ties at UNGA
+
+*2025-09-25 04:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112888/president-anura-kumara-pakistan-pm-agree-to-boost-bilateral-ties-at-unga) · `en`
+
+President Anura Kumara Dissanayake and Pakistan Prime Minister Shehbaz Sharif met on the sidelines of the 80th United Nations General Assembly, reaffirming the longstanding goodwill between Pakistan and Sri Lanka.
+
+During the meeting, the two leaders discussed ways to further expand cooperation in diverse fields including trade, education, culture, and defense. Both sides emphasized the importance of maintaining high-level exchanges to deepen mutual understanding and partnership.
+
+Highlighting the close bond between the people of both countries, the leaders agreed to enhance cooperation in sports — with a special focus on cricket, a sport cherished in both nations. They also expressed satisfaction with existing ties and vowed to build stronger cultural and educational linkages.
+
+The President and Pakistan PM Shehbaz also exchanged views on regional and global developments.
+
+...
+
+[Data](articles/fea48503.json)
+
+[Extended Data](ext_articles/fea48503.ext.json)
+
+---
+
+### President Anura Kumara urges world leaders to commit themselves to building a safe world for future generations
+
+*2025-09-25 04:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112887/president-anura-kumara-urges-world-leaders-to-commit-themselves-to-building-a-safe-world-for-future-generations) · `en`
+
+President Anura Kumara Dissanayake, addressing the 80th session of the United Nations General Assembly, urged world leaders to commit themselves wholeheartedly to building a safe world for future generations. The President stressed that nations must walk hand in hand, not apart.
+
+Speaking at the UN Headquarters in New York on the 25th morning Sri Lanka time, the President expressed deep concern over the ongoing humanitarian catastrophe in the Gaza Strip. He called for an immediate ceasefire, the unhindered delivery of humanitarian aid and the release of hostages by all parties, in line with agreements reached by the United Nations and other stakeholders. He further emphasized that strong international pressure must be applied to halt the continuing violence and killings.
+
+...
+
+[Data](articles/230607f9.json)
+
+[Extended Data](ext_articles/230607f9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 08:25:10**
+As of **2025-09-25 08:51:17**
 
 ## Newspaper Stats
 
-*Scraped **78,020** Articles*
+*Scraped **78,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ colombotelegraphcom | 788
 economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
-dailyftlk | 5,538
+dailyftlk | 5,540
 adalk | 7,580
 adaderanalk | 10,128
-tamilmirrorlk | 11,760
+tamilmirrorlk | 11,761
 virakesarilk | 12,689
-adaderanasinhalalk | 13,630
+adaderanasinhalalk | 13,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,012 (100.0%) of 78,020 articles have been extended.
+78,020 (100.0%) of 78,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### චීන නාවික හමුදාව නව තාක්ෂණයක් අත්හදා බලයි
+
+*2025-09-25 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214984) · `si`
+
+චීන නාවික හමුදාවට අයත් දැවැන්ත ගුවන් යානා ප්‍රවාහන නෞකාවක් මත සිදුකළ නවීන ගුවන්යානා විහිදුම් තාක්ෂණ ක්‍රමවේදයක් ලෝකයේම අවධානය දිනාගත්තේය.
+
+එහිදී නවීන විද්‍යුත් චුම්භක බලයෙන් සවිගැන්වූ විහිදුම් ක්‍රමවේදයක් අත්හදා තිබූ බව විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+
+නවීන ගුවන්ගතකිරීමේ තාක්ෂණ ක්‍රමවේදයක් අත්හදාබැලීමට චීන නාවික හමුදාව පසුගියදා කටයුතු කළේය.
+
+එහිදී නවීන ඉලෙක්ට්‍රො මැග්නටික් එනම් විද්‍යුත් චුම්භක බලයෙන් සවිගැන්වූ විහිදුම් ක්‍රමවේදයක් යටතේ එරට නෞකා ප්‍රවාහන යාත්‍රාවක සිට ගුවන් යානා කිහිපයක් ගුවන්ගත කෙරුණි.
+
+මෙලෙස ගුවන්ගත කෙරුණේ J-15T, J-35 සහ කොන්ජින්  - සික්ස්හන්ඩ්‍රඩ් නම් ප්‍රහාරක යානා තුනකි.
+
+මේ වසරට යෙදී තිබුණු ජපාන ආක්‍රමණය පැරදවීමේ 80 වැනි සංවත්සර උත්සව අතරතුර පවා ප්‍රදර්ශනය කළ මෙම යානා මේ සඳහා යොදාගැනීම කාගේත් අවධානයට ලක්විය.
+
+මෙහිදී යොදාගත් විහිදුම් තාක්ෂණ ක්‍රමවේදය වැඩිදියුණු කර තිබුණේ චීන විද්‍යාඥයින් විසිනි.
+
+එමගින් ෆූජියෑන් නෞකා තට්ටුව මත පූර්ණ මෙහෙයුම් සිදුකිරීමට ඇති හැකියාව නිරූපණය කළ අවස්ථාවක් ද ලෙස සැලකේ.
+
+...
+
+[Data](articles/91da4e18.json)
+
+---
+
+### கேபிள் கார் அறுந்து விழுந்ததில் 7 பௌத்த துறவிகள் மரணம்
+
+*2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/175-365252) · `ta`
+
+குருநாகலை - மெல்சிரிபுர நா உயன பகுதியில், நேற்று மதகுருமார்களை ஏற்றிச் சென்ற கேபிள் கார் அறுந்து விழுந்து விபத்துக்குள்ளானதில் 7 பேர் உயிரிழந்தனர்.
+
+உயிரிழந்தவர்களில் இரண்டு ரஷ்ய துறவிகளும், கம்போடிய துறவி ஒருவரும் அடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அத்துடன், இந்த சம்பவத்தில் காயமடைந்த 6 பேர் குருநாகலை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+விபத்து நேர்ந்த சந்தர்ப்பத்தில் குறித்த கேபிள் காரில் 13 மதகுருமார்கள் பயணித்துள்ளனர். R
+
+◼️
+
+[Data](articles/42ba414f.json)
+
+---
+
+### Sri Lanka’s investment trajectory under spotlight at SLEIS 2025
+
+*2025-09-25 08:08:48* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-investment-trajectory-under-spotlight-at-SLEIS-2025/34-782168) · `en`
+
+The Ceylon Chamber of Commerce yesterday said Sri Lanka’s bid to regain investor confidence and accelerate reforms will take centre stage at the Sri Lanka Economic and Investment Summit (SLEIS) 2025, when the day two session “Where Sri Lanka Stands and What Comes Next?” brings together leaders in investment promotion, capital markets, exports and private equity for a frank assessment of the country’s economic trajectory.
+
+The Sri Lanka Economic and Investment Summit is scheduled to be held on 2-3 December at the Shangri-La Hotel Colombo.
+
+...
+
+[Data](articles/a59e68b5.json)
+
+---
+
+### Time Out ranks Sri Lanka as top travel destination for October 2025
+
+*2025-09-25 08:03:13* · [`dailyftlk`](https://www.ft.lk/business/Time-Out-ranks-Sri-Lanka-as-top-travel-destination-for-October-2025/34-782167) · `en`
+
+Sri Lanka has been ranked the number one destination to visit in October 2025 by global travel magazine Time Out, which unveiled its annual list of top travel spots for the month.
+
+Time Out praised Sri Lanka for its warm tropical climate, cultural heritage, and natural beauty, making it an ideal destination for travellers in October. From golden beaches and hill-country hikes to ancient ruins and wildlife safaris, the island was highlighted as offering “a little bit of everything” for visitors.
+
+Top attractions include relaxing on the golden beaches of Mirissa and Bentota, exploring the historic Sigiriya Rock Fortress, and touring the lush tea plantations of Nuwara Eliya. Wildlife enthusiasts can also experience safaris at Yala and Udawalawe National Parks, where elephants, leopards, and other exotic animals roam freely. The scenic Kandy to Ella train journey is also recommended for travellers seeking breathtaking mountain views.
+
+...
+
+[Data](articles/6d99abf6.json)
+
+---
 
 ### PPP project to revive Paranthan Chemicals firm
 
@@ -45,6 +119,8 @@ Currently, the company imports chlorine for nationwide distribution, as the enti
 ...
 
 [Data](articles/d442196e.json)
+
+[Extended Data](ext_articles/d442196e.ext.json)
 
 ---
 
@@ -64,6 +140,8 @@ Under the proposed plan, the Government is exploring aerial entertainment and ad
 
 [Data](articles/16488100.json)
 
+[Extended Data](ext_articles/16488100.ext.json)
+
 ---
 
 ### IIT Madras Pravartak Technologies Foundation forges technology, entrepreneurship ties with Sri Lanka
@@ -80,6 +158,8 @@ Discussions were held on exploring collaboration in building incubation centres 
 
 [Data](articles/236f3257.json)
 
+[Extended Data](ext_articles/236f3257.ext.json)
+
 ---
 
 ### National Policy on Senior Citizens to be revised
@@ -95,6 +175,8 @@ The updated national policy is designed to enable older citizens to live with di
 ...
 
 [Data](articles/d24307a8.json)
+
+[Extended Data](ext_articles/d24307a8.ext.json)
 
 ---
 
@@ -116,17 +198,21 @@ The proposal to this effect, submitted by Health Minister Dr. Jayatissa, was app
 
 [Data](articles/bb0b5b69.json)
 
+[Extended Data](ext_articles/bb0b5b69.ext.json)
+
 ---
 
-### තලාවේ මාරක අනතුරක් - තිදෙනෙකුට දිවි අහිමි වෙයි
+### A fatal accident in the blast - three lives
 
 *2025-09-25 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214983) · `si`
 
-කුරුණෑගල-අනුරාධපුර ප්‍රධාන මාර්ගයේ තලාව, මීරිගම ප්‍රදේශයේදී ලොරියක් සහ වෑන් රථයක් මුහුණට මුහුණ ගැටීමෙන් තිදෙනෙකු මියගොස් තවත් සිව් දෙනෙකු තුවාල ලබා තිබේ.
+Three persons were killed and another injured after a lorry and van in Thalagama, Kurunegala-Anuradhapura main road.
 
 ◼️
 
 [Data](articles/4f14be34.json)
+
+[Extended Data](ext_articles/4f14be34.ext.json)
 
 ---
 
@@ -250,19 +336,21 @@ The public is kindly requested to take steps to minimize the dangers of lightnin
 
 ---
 
-### නා උයනේ කේබල් කාර් ඩක්කුවක් කඩා වැටී හිමිවරු 7 නමක් අපවත්වෙති
+### There are seven owners who have fallen a cable car dish in the Nawa
 
 *2025-09-25 06:04:39* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයනේ-කේබල්-කාර්-ඩක්කුවක්-කඩා-වැටී-හිමිවරු-7-නමක්-අපවත්වෙති/11-418706) · `si`
 
-මැල්සිරිපුර, නා උයන ආරණ්‍ය සේනාසනයේ කඳු මුදුනේ ඇති තමන්වහන්සේලාගේ භාවනා කුටි වෙත කේබල් මතින් ගමන්ගන්නා ඩක්කුවකින් වැඩම කරමින් සිටියදී එම ඩක්කුව කඩාවැටී ඊයේ (24) රාත්‍රියේ සිදු වූ අනතුරකින් භික්ෂූන් වහන්සේලා හත් නමක් අපවත්ව තිබේ.
+The dance was collapsed in a crash at the peak of the hill night of the mountains of Malziripura, Men of Nawazer.
 
-අපවත් වූ හිමිවරුන්ගෙන් දෙදෙනෙකු විදෙස් ජාතික හිමිවරු වන අතර, උන් වහන්සේලාගේ සිරුරු ගොකරැල්ල රෝහලේ තැන්පත් කර ඇත.අනෙකුත් හිමිවරුන්ගේ සිරුරු කුරුණෑගල ශික්ෂණ රෝහලේ නැත්පත් කර තිබේ.
+Two of us were overseas national monks and placed their bodies in the Gokarella hospital.
 
-අනතුර සිදුවන අවස්ථාවේ එම ඩක්කුවේ භික්ෂූන් වහන්සේලා 13ක් වැඩම කර ඇති බව වාර්තා වන අතර බරපතළ තුවාල ලැබූ හිමිවරු මේ වනවිට කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබති්‍.
+Thirteen monks in the dick in the dick during the accident and were seriously injured and received treatment at Kurunegala Teaching Hospital.
 
 ◼️
 
 [Data](articles/af450a36.json)
+
+[Extended Data](ext_articles/af450a36.ext.json)
 
 ---
 
@@ -1985,97 +2073,5 @@ He pointed out that 226,240 Sri Lankans are employed for jobs and will be close 
 [Data](articles/d0e34841.json)
 
 [Extended Data](ext_articles/d0e34841.ext.json)
-
----
-
-### Digitalization can bring significant transformation to education: PM Harini
-
-*2025-09-24 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112869/digitalization-can-bring-significant-transformation-to-education-pm-harini) · `en`
-
-The Digital Task Force was appointed to facilitate education reform and that digitalization can bring a significant transformation to the education sector in the country, said Prime Minister and Minister of Education, Higher Education, and Vocational Training, Dr. Harini Amarasuriya.
-
-The Prime Minister made these remarks while participating in the quarterly progress review meeting of the Parliamentary Digital Task Force for Education, held to inform Members of Parliament.
-
-Speaking at the meeting, Prime Minister Amarasuriya said digital education is a process that moves forward hand in hand with educational reforms and therefore the government has appointed the Digital Task Force for a three-year period to guide the digital education transformation, to develop policies and to outline the necessary steps to be taken.
-
-...
-
-[Data](articles/d4bd58dc.json)
-
-[Extended Data](ext_articles/d4bd58dc.ext.json)
-
----
-
-### The purpose of transforming Colombo into a thrilling city - Colombo Municipal Mayor
-
-*2025-09-24 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/225941) · `ta`
-
-Colombo Municipal Council Mayor Virai Kelly Baldasar said that the tourists of the International Tourism Federation of Silk Roads in China, China, said that the tourists are planning to make Colombo a 72 -hour space.
-
-Colombo Mayor Vrai Kelly Baldasar, speaking at a public meeting on non -China and spectator
-
-He highlighted the importance of modern silk path that develops contact with tourism, culture and vast efforts.
-
-In a report in Colombo, he outlined Colombo's vision for tourism, including various cultural and entertainment projects designed to improve the traditional guidelines, implementing traditional guidelines and the experience of the visitor.
-
-Mayor Baltasar, MMC Mohammed Jaffer and representatives of the Sri Lanka Tourism Development Bureau have urged Sri Lanka's joint approach to international tourism.
-
-The mayor has expressed the commitment of Colombo to deepen relationships with other silkworm cities and to transform shared ideas to benefit both tourists and local communities.
-
-◼️
-
-[Data](articles/f6546b29.json)
-
-[Extended Data](ext_articles/f6546b29.ext.json)
-
----
-
-### 15 new breast cancer cases reported daily in Sri Lanka: NCCP
-
-*2025-09-24 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112868/15-new-breast-cancer-cases-reported-daily-in-sri-lanka-nccp) · `en`
-
-Approximately 15 new breast cancer cases are reported daily in Sri Lanka, while about three women die each day due to the disease, health authorities have revealed.
-
-Speaking at a media conference held today (24) at the Health Promotion Bureau, Dr. Shreeni Alahapperuma, the Director of the National Cancer Control Programme (NCCP) stated that 19,457 female cancer patients were identified in Sri Lanka in 2022, according to recorded data.
-
-Out of these, 5,477 were breast cancer cases, accounting for 28% of all female cancers.
-
-Dr. Alahapperuma further noted that while early detection of breast cancer leads to successful treatment, around 30% of cases are diagnosed in the late stages, making treatment more difficult.
-
-She said 15,245 cancer-related deaths occur annually in Sri Lanka, out of which 798 deaths are due to breast cancer.
-
-In light of this situation, a special awareness event will be held on October 11 at Havelock City as part of Breast Cancer Awareness Month.
-
-◼️
-
-[Data](articles/af6da77d.json)
-
-[Extended Data](ext_articles/af6da77d.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-24 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241796/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/55 to the US dollar on Wednesday, relatively flat from 302.45/60 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.25/32 percent, down from 8.28/33 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
-
-A bond maturing on 15.12.2028 closed at 9.08/15 percent, up from 9.05/15 percent.
-
-A bond maturing on 15.12.2029 closed at 9.50/56 percent, up from 9.48/54 percent.
-
-A bond maturing on 01.07.2030 closed at 9.68/73 percent, from down 9.68/75 percent.
-
-A bond maturing on 15.12.2032 closed at 10.43/48 percent, up from 10.42/48 percent.
-
-◼️
-
-[Data](articles/e5e2f83c.json)
-
-[Extended Data](ext_articles/e5e2f83c.ext.json)
 
 ---

@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 15:07:47**
+As of **2025-09-25 15:20:26**
 
 ## Newspaper Stats
 
-*Scraped **78,099** Articles*
+*Scraped **78,102** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
-colombotelegraphcom | 789
+colombotelegraphcom | 790
 economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,590
+adalk | 7,591
 adaderanalk | 10,149
 tamilmirrorlk | 11,775
 virakesarilk | 12,708
-adaderanasinhalalk | 13,641
+adaderanasinhalalk | 13,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,095 (100.0%) of 78,099 articles have been extended.
+78,095 (100.0%) of 78,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### අපවත් වූ හිමිවරු වෙනුවෙන් හිටපු ජනපති රනිල්ගෙන් ශෝක පණිවුඩයක්
+
+*2025-09-25 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214996) · `si`
+
+නා උයන ආරණ්‍ය සේනාසනයේ ඩක්කුවක් අනතුරට ලක්වීමෙන් අපවත් වී වදාළ දෙස්-විදෙස් භික්‍ෂූන් වහන්සේලා සියලු දෙනා වෙනුවෙන් තමන්ගේ ශෝකය ප්‍රකාශ කරන බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් හිටපු ජනාධිපතිවරයා මේ බව සඳහන් කර ඇත.
+
+එමෙන්ම අනතුරින් තුවාල ලැබ රෝහල් ගතව ප්‍රතිකාර ලබන භික්‍ෂූන් වහන්සේලාට ඉක්මන් සුවය ප්‍රාර්ථනා කරන බවත් හිටපු ජනපතිවරයා සඳහන් කර තිබේ.
+
+සසර දුක කෙළවර කරගැනීම උදෙසා වනගතව බවුන් වැඩූ උන්වහන්සේලා නික්ම ගියේ බුදුන් වහන්සේ දේශනා කරන ලද අනිත්‍ය දහම පසක් කර දෙමින් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නිවේදනයේ දැක්වෙයි.
+
+අපවත්වී වදාළ ස්වාමීන් වහන්සේලා පැතූ නිර්වාණ සුවය ලැබේවායි හිටපු ජනපතිවරයා සිය නිවේදනයෙන් ප්‍රාර්ථනා කර ඇත.
+
+◼️
+
+[Data](articles/f035ebb6.json)
+
+---
 
 ### டென்மார்க்கில் பல விமான நிலையங்களில் அடையாளம் தெரியாத ட்ரோன்கள் தென்படுவதாக தகவல்
 
@@ -560,6 +580,24 @@ Additionally, the court ordered the detention and interrogation of another lorry
 
 ---
 
+### “ආරෝග්‍යා සුවතා මධ්‍යස්ථාන” නියමු ව්‍යාපෘතිය හෙට ඇරඹෙයි
+
+*2025-09-25 11:30:14* · [`adalk`](https://www.ada.lk/breaking_news/“ආරෝග්‍යා-සුවතා-මධ්‍යස්ථාන”-නියමු-ව්‍යාපෘතිය-හෙට-ඇරඹෙයි/11-418713) · `si`
+
+මෙරට ජීවත්වන ජනතාවට ගෞරවයෙන් හා අභිමානයෙන් යුතුව ‌සෞඛ්‍ය  සේවා රැකවරණ පද්ධතියේ ප්‍රශස්ත ප්‍රතිලාභ වඩාත් සමීපව භුක්ති විදීමේ අයිතිය තහවුරු කිරීම උදෙසා නව රජයේ සෞඛ්‍ය ප්‍රතිපත්තිය යටතේ දිවයින පුරා ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන දහසක්  පළමු අදියර යටතේ පිහිටුවීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ උපදෙස් හා මඟපෙන්වීම  අනුව එම අමාත්‍යාංශය මේවන විට සැලසුම් කර ඇත.
+
+නව රජයේ “සුවපත් රටක් උදෙසා” (HEALTHY SRI LANKA) නව්‍ය වැඩසටහන යටතේ ක්‍රියාත්මකවන මෙම ව්‍යාපෘතිය යටතේ මෙම වර්ෂය තුළ දී ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන සියයක් ජනගත කිරීමට නියමිත ය.
+
+ජනතාවට වඩාත් සමීප, පහසුවෙන් ප්‍රවේශවිය හැකි  ස්ථානයක ස්ථාපිත කරන මෙම  ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථානය ආරෝග්‍යා සුවතා මධ්‍යස්ථාන ලෙස නම් කර ඇත.
+
+ඒ අනුව  ක්‍රියාත්මකවන නියමු ව්‍යාපෘතිය යටතේ මෙම මස 26,27,29 සහ ඔක්තෝබර් 02 යන දිනයන්හි දී ගාල්ල, රත්නපුර, කළුතර, මහනුවර සහ මාතලේ යන දිස්ත්‍රික්ක පහ ආවරණයවන පරිදි ආරෝග්‍යා සුවතා මධ්‍යස්ථාන පහක් ජනතා අයිතියට පත්  කිරීමට නියමිත ය.
+
+...
+
+[Data](articles/ad30f36a.json)
+
+---
+
 ### Powerful earthquake in Venezuela
 
 *2025-09-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226033) · `ta`
@@ -951,6 +989,20 @@ He was subsequently placed in a special camp for Sri Lankan refugees in Trichy a
 [Data](articles/17e489d8.json)
 
 [Extended Data](ext_articles/17e489d8.ext.json)
+
+---
+
+### Words Matter & Accuracy In Usage Matters Even More
+
+*2025-09-25 09:10:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/words-matter-accuracy-in-usage-matters-even-more/) · `en`
+
+My mother was my first and the last teacher. If she’s looking down from heaven, I suspect she’s quietly pleased with how I’ve navigated this world. She taught me to revere Dr. Samuel Johnson, not just as an erudite Englishman and lexicographer, but as a philosopher who warned, “Integrity without knowledge is weak and useless, and knowledge without integrity is dangerous and dreadful.” She also introduced me to Mrs. Malaprop, that delightfully misguided character from 18th-century theatre, who mangled words with misplaced confidence.
+
+Thanks to my beloved mother, I developed an early aversion to linguistic misuse. Whether in Sinhala or English, the wrong word in the wrong place grates on my ears like a surgical blade drawn across bone and in Sri Lanka, where both languages are wielded by the “educated,” the misuse is rampant.
+
+...
+
+[Data](articles/66352fe1.json)
 
 ---
 
@@ -1933,59 +1985,5 @@ The meeting was attended by External Affairs Minister Vijitha Herath and Sri Lan
 [Data](articles/f9be53f6.json)
 
 [Extended Data](ext_articles/f9be53f6.ext.json)
-
----
-
-### President meets Pakistan Prime Minister
-
-*2025-09-25 03:54:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தான்-பிரதமருடன்-ஜனாதிபதி-அநுர-சந்திப்பு/175-365248) · `ta`
-
-President Anura Kumara Dissanayake, who visited the United States to attend the 80th General Assembly session of the United Nations, met with Pakistani Prime Minister Shebaz Sharif.
-
-The meeting was held in New York City yesterday afternoon at the United Nations Permanent Representative's Office in the US.
-
-Focusing on further strengthening relations between Sri Lanka and Pakistan. (A)
-
-◼️
-
-[Data](articles/cee8a76c.json)
-
-[Extended Data](ext_articles/cee8a76c.ext.json)
-
----
-
-### Kurunegala - 7 monks killed in a cable car accident
-
-*2025-09-25 03:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226011) · `ta`
-
-The number of monks died in a cable car accident at the Buddhist Forest Ashram, a Buddhist forest ashore located in Bansiyagama, Melsiripura, Kurunegala.
-
-Two of the casualties are reported to be foreign citizens. Their bodies are kept at the Kogarulla District Hospital. The bodies of other monks have been kept at the Kurunegala Teaching Hospital.
-
-Investigations have revealed that 13 monks were in the cable car at the time of the accident.
-
-◼️
-
-[Data](articles/991c8969.json)
-
-[Extended Data](ext_articles/991c8969.ext.json)
-
----
-
-### Former Navy Commander Nishantha Ulugetenne further remanded
-
-*2025-09-25 03:50:54* · [`dailyftlk`](https://www.ft.lk/news/Former-Navy-Commander-Nishantha-Ulugetenne-further-remanded/56-782151) · `en`
-
-Former Navy Commander Nishantha Ulugetenne and former Navy Intelligence Director Rear Admiral (Retd.) Sarath Mohotti were further remanded till 8 October by Polgahawela Magistrate Udumbara Dasanayake.
-
-Ulugetenne was arrested in July in connection with the disappearance of a youth from Pothuhera, reportedly during his tenure as Director of Naval Intelligence.
-
-Mohotti was arrested by the Criminal Investigation Department on 18 September on charges related to the
-
-◼️
-
-[Data](articles/5d7e60a8.json)
-
-[Extended Data](ext_articles/5d7e60a8.ext.json)
 
 ---

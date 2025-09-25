@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 12:38:48**
+As of **2025-09-25 13:06:48**
 
 ## Newspaper Stats
 
-*Scraped **78,080** Articles*
+*Scraped **78,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,79 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,585
+adalk | 7,587
 adaderanalk | 10,145
 tamilmirrorlk | 11,772
 virakesarilk | 12,705
-adaderanasinhalalk | 13,638
+adaderanasinhalalk | 13,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,076 (100.0%) of 78,080 articles have been extended.
+78,083 (100.0%) of 78,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### ஆரையம்பதி பேருந்து நிலையம்: கூரையின்றி அவதியுறும் பயணிகள் ; அதிகாரிகளுக்கு பொதுமக்கள் கண்டனம்
+### Celebrates World Ayurvedic Day for Man and Earth
 
-*2025-09-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226040) · `ta`
+*2025-09-25 12:32:44* · [`adalk`](https://www.ada.lk/business/මිනිසා-සහ-මිහිකත-වෙනුවෙන්-ලෝක-ආයුර්වේද-දිනය-සමරයි/7-418717) · `si`
 
-மட்டக்களப்பு - கல்முனை பிரதான வீதியிலுள்ள ஆரையம்பதி  பாலமுனை சந்தியில் அமைக்கப்பட்டுள்ள பஸ்தரிப்பு நிலையத்தின் கூரை தகடுகள் இல்லாமையால் பஸ்தரிப்பு நிலையத்தில் பஸ்வண்டிக்காக காத்திருக்கும் பிரயாணிகள் சுட்டெரிக்கும் வெயிலில் பல்வேறு அசௌகரியங்களை எதிர் நோக்கிவருவதாகவும் இதந்த பஸ்தரிப்பு நிலை கூரை இல்லாமல் இருப்பது சம்மந்தப்பட்ட அதிகாரிகளுக்கு கண் இல்லைய என பொதுமக்கள் கடும் விசனம் தெரிவிக்கின்றனர்.
+World Ayurvedic day celebrates the world's ancient, living philosophy, ayurveda, and celebrate the Danniyan God's birthday. Ayurveda is not just medicality and it is not just a healthy, and it is to highlight the importance of a sustainable lifestyle.
 
-குறித்த பஸ்தரிப்பு நிலையத்தில் புதிதாக அமைக்கப்பட்ட கட்டிடத்தின் மேற் கூரைக்கு பிளாஸ்ரிக் கண்ணாடியிலான கூரை உடைந்து முற்று முழுதாக இல்லாமல் போயுள்ளது இந்த நிலையில் பஸவண்டிக்காக காத்திருக்கும் பொதுமக்கள் சுட்டெரிக்கும் வெயிலில் நிக்கமுடியாது பல்வேறு அசளகரியங்களை  எதிர் நோக்கிவருகின்றனர்
+මෙම දිනයේ අභිමතාර්ථය වනුයේ ආයුර්වේදයේ වැදගත්කම පිළිබඳව ගෝලීය දැනුවත්භාවය ඉහළ නැංවීම, සෞඛ්‍යය සම්පන්න ජීවන රටාවන් දිරිමත් කිරීම, සාම්ප්‍රදායික දැනුම ආරක්ෂා කිරීම සහ ජීවන රටා හා බැඳුණු ශාරීරික, මානසික සහ සමාජීය විපර්යාස වැනි වර්තමාන ජීවන රටාව හා බැඳුණු අභියෝගවලට ආයුර්වේදය තුළින් පිළිතුරු ලබාදීමය.
+
+As a pioneer in the field of Ayurveda, the Link Natural, "Ayurvedic knowledge for man and the earth," is emphasized to maintain the balance of Ayurvedic knowledge of man and the ecological knowledge of the ecosystem not only for man's well-being.. Ancient Ayurvedic Group is more suitable and important in relation to the past.
 
 ...
 
+[Data](articles/4cbdbdb5.json)
+
+[Extended Data](ext_articles/4cbdbdb5.ext.json)
+
+---
+
+### Israel's Israeli attack
+
+*2025-09-25 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214994) · `si`
+
+More than 80 people were killed in attacks on Gaza yesterday.
+
+Most of the dead people reported that Gaza was town.
+
+About 20 people were killed in a building that was detained in a large number of families displaced in Gaza last night.
+
+There are also children and women among the dead.
+
+Responding to the attacks, Israel said that Israeli said that the attack targeting Hamas militants.
+
+◼️
+
+[Data](articles/e167e040.json)
+
+[Extended Data](ext_articles/e167e040.ext.json)
+
+---
+
+### Arayambathi Bus Station: Travelers who are suffering from roofing; Public condemning the authorities
+
+*2025-09-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226040) · `ta`
+
+The public has said that the passengers waiting for the bus at the bus station are facing various inconveniences in the sun, due to the lack of roofing plates at the Arayambathi Palamunai junction on the Batticaloa - Kalmunai main road.
+
+Plastic mirror roofs have been broken into the newly built building at the bus station.
+
+Even though the bus roof has been out of the last one year, the authorities have not taken any action to do this? These officers who get the salary of the people's taxpayers are concerned about the departments of the people, who will not serve the people?
+
+Despite being brought to the notice of the relevant authorities, no action has been taken so far, so they have been asked to take action.
+
+◼️
+
 [Data](articles/859e673a.json)
+
+[Extended Data](ext_articles/859e673a.ext.json)
 
 ---
 
@@ -176,6 +222,8 @@ The wife and child of underworld figure ‘Backhoe Saman’ were taken into cust
 
 [Data](articles/542420fe.json)
 
+[Extended Data](ext_articles/542420fe.ext.json)
+
 ---
 
 ### Backo Saman's wife further remanded
@@ -233,6 +281,8 @@ Additionally, the court ordered the detention and interrogation of another lorry
 ...
 
 [Data](articles/23908708.json)
+
+[Extended Data](ext_articles/23908708.ext.json)
 
 ---
 
@@ -345,6 +395,8 @@ According to police, island-wide operations are conducted to apprehend small-, m
 ◼️
 
 [Data](articles/e7c37e1d.json)
+
+[Extended Data](ext_articles/e7c37e1d.ext.json)
 
 ---
 
@@ -1937,49 +1989,5 @@ The monks had a thirteen day when the accident occurred.
 [Data](articles/f80fb1cc.json)
 
 [Extended Data](ext_articles/f80fb1cc.ext.json)
-
----
-
-### Seven Buddhist monks reported dead in cable car accident at Na Uyana Monastery
-
-*2025-09-25 00:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112885/five-buddhist-monks-reported-dead-in-cable-car-accident-at-na-uyana-monastery) · `en`
-
-(UPDATED: 1.09 a.m.) - The death toll from the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura has increased to seven Buddhist monks.
-
-At least two of the deceased monks are foreign nationals, and their bodies have been placed at the Gokarella District Hospital. The bodies of the other monks have been placed at the Kurunegala Teaching Hospital.
-
-It is reported that 13 Buddhist monks were riding the cable car in the monastery at the time of the accident.
-
-The seriously injured monks have now been admitted to the Kurunegala Teaching Hospital.
-
-At least five Buddhist monks are reported dead after a cable car broke from the cable and fell down at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura, Kurunegala Hospital sources told Ada Derana.
-
-...
-
-[Data](articles/10beb17f.json)
-
-[Extended Data](ext_articles/10beb17f.ext.json)
-
----
-
-### Seven Buddhist monks reported dead in cable car accident at Na Uyana Monastery
-
-*2025-09-25 00:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112885/seven-buddhist-monks-reported-dead-in-cable-car-accident-at-na-uyana-monastery) · `en`
-
-(UPDATED: 1.09 a.m.) - The death toll from the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura has increased to seven Buddhist monks.
-
-At least two of the deceased monks are foreign nationals, and their bodies have been placed at the Gokarella District Hospital. The bodies of the other monks have been placed at the Kurunegala Teaching Hospital.
-
-It is reported that 13 Buddhist monks were riding the cable car in the monastery at the time of the accident.
-
-The seriously injured monks have now been admitted to the Kurunegala Teaching Hospital.
-
-At least five Buddhist monks are reported dead after a cable car broke from the cable and fell down at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura, Kurunegala Hospital sources told Ada Derana.
-
-...
-
-[Data](articles/b9e4590d.json)
-
-[Extended Data](ext_articles/b9e4590d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 01:06:09**
+As of **2025-09-26 01:20:26**
 
 ## Newspaper Stats
 
-*Scraped **78,167** Articles*
+*Scraped **78,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ dailyftlk | 5,540
 adalk | 7,599
 adaderanalk | 10,160
 tamilmirrorlk | 11,785
-virakesarilk | 12,718
+virakesarilk | 12,719
 adaderanasinhalalk | 13,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,167 (100.0%) of 78,167 articles have been extended.
+78,167 (100.0%) of 78,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### பங்களாதேஷை வீழ்த்தி ஆசிய கிண்ண இறுதியில் இந்தியாவை எதிர்த்தாட பாகிஸ்தான் தகுதி பெற்றது
+
+*2025-09-26 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226090) · `ta`
+
+பங்களாதேஷுக்கு எதிராக துபாய் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (25) இரவு நடைபெற்ற தீர்மானம் மிக்க ரி20 ஆசிய கிண்ண சுப்பர் 4 கிரிக்கெட் போட்டியில் பரபரப்பான முறையில் 11 ஓட்டங்களால் மிகவும் அவசியமான வெற்றியை பாகிஸ்தான் ஈட்டியது.
+
+இந்த வெற்றியை அடுத்து ஞாயிற்றுக்கிழமை நடைபெறவுள்ள இறுதிப் போட்டியில் இந்தியாவை எதிரத்தாட பாகிஸ்தான் தகுதிபெற்றுக்கொண்டது.
+
+இதற்கு அமைய  பரம வைரிகளான இந்தியாவும் பாகிஸ்தானும்  இந்த வருட ஆசிய கிண்ண கிரிக்கெட் போட்டியில் மூன்றாவது முறையாக ஒன்றையொன்று எதிர்த்தாடவுள்ளன.
+
+இன்றைய சுப்பர் 4 போட்டியில் பாகிஸ்தான் 135 ஓட்டங்களை மாத்திரம் பெற்றபோதிலும் அதன் பந்துவீச்சாளர்கள் மிகத் திறமையாக பந்துவீசி அந்த மொத்த எண்ணிக்கையைத் தக்கவைத்து தமது அணியை வெற்றிபெறச் செய்தனர்.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பாகிஸ்தான் 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 135 ஓட்டங்களைப் பெற்றது.
+
+பங்களாதேஷின் பந்துவீச்சாளர்களிடம் பெரும் சிரமத்தை எதிர்கொண்ட பாகிஸ்தான் முதல் 11 ஓவர்களில் 5 விக்கெட்களை இழந்து 51 ஓட்டங்களை மாத்திரம் பெற்றது.
+
+...
+
+[Data](articles/b253feb2.json)
+
+---
 
 ### Pakistan to the final battle
 
@@ -2069,29 +2091,5 @@ At the current session of the United Nations Human Rights Council in Geneva, it 
 [Data](articles/73c3d223.json)
 
 [Extended Data](ext_articles/73c3d223.ext.json)
-
----
-
-### President holds a bilateral meeting with several foreign state prabelines
-
-*2025-09-25 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214989) · `si`
-
-President Anura Kumara Dissanayake and Pakistan Prime Minister Zehbaz Sharif (SHEBAZ BUS) was held at the Sri Lanka Permanent Representative Office in New York yesterday (24).
-
-President Anura Kumara Dissanayake has gone to the United States to attend the 80th session of the United Nations General Assembly.
-
-President Anura Kumara Dissanayake was warmly welcomed by the Pakistani Prime Minister Zebas Bauff, which further strengthen the long-standing friendship of Sri Lanka and Pakistan.
-
-President Anura Kumara Dissanayake and Australia Prime Minister Anthony Albenas (Anthony Albanese) were held in New York at the Sri Lanka Permanent Representative office of New York yesterday (24).
-
-Australia's Prime Minister Anthony Albena was warmly welcomed by President Anura Kumara Dissanayake.
-
-The two leaders have discussed the strengthening of bilateral relations between the two countries, further expanding the economic and trade cooperation between Sri Lanka and Australia.
-
-...
-
-[Data](articles/8ed11a0e.json)
-
-[Extended Data](ext_articles/8ed11a0e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 17:42:14**
+As of **2025-09-25 17:59:18**
 
 ## Newspaper Stats
 
@@ -26,51 +26,57 @@ adaderanasinhalalk | 13,647
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,121 (100.0%) of 78,125 articles have been extended.
+78,125 (100.0%) of 78,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### සෙල්ෆියක් නිසා ශ්‍රී ලාංකික කාන්තාවක් හොංකොංහිදී අත්අඩංගුවට
+### A Sri Lankan woman arrested in Hong Kong
 
 *2025-09-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215004) · `si`
 
-දරුවෙකු අනතුරේ හෙළා සුළි කුණාටුවක සෙල්ෆි ඡායාරූපයක් ලබාගැනීමට උත්සාහ කිරීමේ සිද්ධියකට ශ්‍රී ලාංකික සහ ඉන්දීය කාන්තාවන් දෙදෙනෙකු හොංකොං පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Hong Kong Police have arrested two Indian women to an attempt to obtain a photo of a cyclone of a child in danger.
 
-මෙම කාන්තාවන් දෙදෙනාගෙන් අදාළ දරුවාගේ මව ඉන්දීය කාන්තාව බව සඳහන්.
+The mother of the two women is said to be an Indian woman.
 
-චීනය දෙසට හමායන 'රාගසා' සුළිකුණුව නිසා මේ දිනවල හොංකොං දේශයටද බලපෑම් ඉල්ල වී ඇත.
+The 'Ragshaza' was also impacted to Hong Kong due to the 'Ragsa' towards China.
 
-ඒ හේතුවෙන් එරට වැසියන්ට ආරක්ෂිත ස්ථාන තුළ රැඳී සිටින ලෙසත්, වෙරළබඩ ප්‍රදේශවලින් ඈත්ව සිටින ලෙසත් එරට ආපදා අංශ අනතුරු ඇඟවීම් නිකුත් කර තිබුණි.
+As a result, the disaster sector warnings had been issued to stay in safe places and staying from coastal areas.
 
-කුණාටු රළ අතිශය අවදානම් බවත්, එය සුළු හෝ අනතුරු ඇඟවීමකින් තොරව කඩාවැදිය හැකි බවටත් ඔවුන් අනතුරු අඟවා ඇත.
+They warned that the storm waves are extremely risks and that it can be broken without a small or warning.
 
-එවන් තත්ත්වයකදී ඉන්දීය සම්බවයක් ඇති මව, සිය දරුවා සමග සුළි කුණාටුවේ ඡායාරූපයක් ගැනීමට ගොස් තිබේ.
+In such a situation, the mother of India has gone to buy a photo with his child.
 
-එම සෙල්ෆි ඡායාරූපය ගෙන ඇතේ එම මවගේ මිතුරිය වන ශ්‍රී ලාංකික කාන්තාවය.
+The Cellfi photo was taken by the Sri Lankan woman, the friend of the mother.
 
-ඔවුන් ඡායාරූපය ගන්නවාත් සමග එකවර රළ පහරක් කඩාවැදී තිදෙනාම ගාසාගෙන ගොස් ඇති අතර, තිදෙනාම වහාම රෝහල්ගතකර තිබේ. ඔවුන්ගේ ජීවිතවලට කිසිදු අවදානමක් නොමැති බව සඳහන්.
+All three have been abandoned by three times with a wave of waves, with them, and all three have been hospitalized. States that their lives have no risk.
+
+However, despite risk signals, the two women have arrested the two women to take the 5-year-old child.
 
 ...
 
 [Data](articles/658fc7c6.json)
 
+[Extended Data](ext_articles/658fc7c6.ext.json)
+
 ---
 
-### වැඩිහිටි දීමනාව හෙට බැංකුවලට
+### Adult offer to banks tomorrow
 
 *2025-09-25 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215003) · `si`
 
-සැප්තැම්බර් මාසය සඳහා වූ වැඩිහිටි දීමනාව හෙට (26) දිනයේ අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධන ප්‍රතිලාභ මණ්ඩලය දැනුම්දී තිබේ.
+The Greeted Benefit Board has been informed that the adult allowance for the month of September will be credited to the beneficiaries of the revenue tomorrow (26).
 
-එම මණ්ඩලය සඳහන් කරන්නෙ මෙලෙස රු. 3,014,260,000ක මුදලක් ප්‍රතිලාභීන් 602,852ක් අතරේ බෙදා හරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී ගිණුම්වලට බැර කිරීමට නියමිතය.
+The Board said:. 3,014,260,000 is to be credited to beneficiaries of beneficiaries, distributing 602,852 beneficiaries.
 
-දාල ප්‍රතිලාභින්ට සැප්තැම්බර් මස 26 දින සිට තමාට හිමි වැඩිහිටි දීමනාව අදාල අස්වැසුම ප්‍රතිලාභි බැංකු ගිනුම මඟින් ලබා ගත හැකිය.
+The Elderly Allowance of the Advancement of the Reward of the Reward of Hollower Beneficiaries is available from September 26.
 
 ◼️
 
 [Data](articles/1b06eb95.json)
+
+[Extended Data](ext_articles/1b06eb95.ext.json)
 
 ---
 
@@ -78,13 +84,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-25 16:45:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාවේ-දින-03කදී-පාසල්-ළමුන්-1000ක්-රෝහල්-ගත-කරයි/11-418721) · `si`
 
-ඉන්දුනීසියාවේ පාසල් සඳහා නොමිලේ ලබා ආහාර විෂවී රෝගාතුර වූ ළමුන් 1000ට වැඩි ප්‍රමාණයක් රෝහල් ගත කර තිබේ.
+More than 1000 children have been admitted to Indonesia's schools free of charge.
 
-මෙම සතියේ සඳුදා සිට බදාදා දක්වා වන දින 03න තුළ ළමන් 1,171 දෙනෙකු මෙලෙස රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media has reported that 1,171 people were hospitalized within the 3 days of this week.
 
 ◼️
 
 [Data](articles/53b4bc2c.json)
+
+[Extended Data](ext_articles/53b4bc2c.ext.json)
 
 ---
 
@@ -165,6 +173,8 @@ Shock footage, which subsequently spread across social media, shows one woman ho
 ...
 
 [Data](articles/348aba08.json)
+
+[Extended Data](ext_articles/348aba08.ext.json)
 
 ---
 

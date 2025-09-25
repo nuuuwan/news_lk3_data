@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 11:41:10**
+As of **2025-09-25 12:38:48**
 
 ## Newspaper Stats
 
-*Scraped **78,059** Articles*
+*Scraped **78,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,351 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,582
-adaderanalk | 10,142
-tamilmirrorlk | 11,767
-virakesarilk | 12,698
-adaderanasinhalalk | 13,635
+adalk | 7,585
+adaderanalk | 10,145
+tamilmirrorlk | 11,772
+virakesarilk | 12,705
+adaderanasinhalalk | 13,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,059 (100.0%) of 78,059 articles have been extended.
+78,076 (100.0%) of 78,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### ஆரையம்பதி பேருந்து நிலையம்: கூரையின்றி அவதியுறும் பயணிகள் ; அதிகாரிகளுக்கு பொதுமக்கள் கண்டனம்
+
+*2025-09-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226040) · `ta`
+
+மட்டக்களப்பு - கல்முனை பிரதான வீதியிலுள்ள ஆரையம்பதி  பாலமுனை சந்தியில் அமைக்கப்பட்டுள்ள பஸ்தரிப்பு நிலையத்தின் கூரை தகடுகள் இல்லாமையால் பஸ்தரிப்பு நிலையத்தில் பஸ்வண்டிக்காக காத்திருக்கும் பிரயாணிகள் சுட்டெரிக்கும் வெயிலில் பல்வேறு அசௌகரியங்களை எதிர் நோக்கிவருவதாகவும் இதந்த பஸ்தரிப்பு நிலை கூரை இல்லாமல் இருப்பது சம்மந்தப்பட்ட அதிகாரிகளுக்கு கண் இல்லைய என பொதுமக்கள் கடும் விசனம் தெரிவிக்கின்றனர்.
+
+குறித்த பஸ்தரிப்பு நிலையத்தில் புதிதாக அமைக்கப்பட்ட கட்டிடத்தின் மேற் கூரைக்கு பிளாஸ்ரிக் கண்ணாடியிலான கூரை உடைந்து முற்று முழுதாக இல்லாமல் போயுள்ளது இந்த நிலையில் பஸவண்டிக்காக காத்திருக்கும் பொதுமக்கள் சுட்டெரிக்கும் வெயிலில் நிக்கமுடியாது பல்வேறு அசளகரியங்களை  எதிர் நோக்கிவருகின்றனர்
+
+...
+
+[Data](articles/859e673a.json)
+
+---
+
+### Highseat gazette leaving
+
+*2025-09-25 12:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-365265) · `ta`
+
+President Anura Kumara Dissanayake has issued a high -ranking gazette in Parliament today in Parliament that President Anura Kumara Dissanayake has issued an armed gazette to protect public security.
+
+The order, which comes into effect from September 27, 2025, was created under Section 12 of the Public Security Act under the powers granted to the President.
+
+However, the procedure of calling the armed forces to maintain public security through a high -level gazette announcement has become a repetition process by subsequent governments.
+
+◼️
+
+[Data](articles/f08ce586.json)
+
+[Extended Data](ext_articles/f08ce586.ext.json)
+
+---
+
+### ’’நம்பிக்கையில்லா பிரேரணையை விவாதிக்க முடியாது’’
+
+*2025-09-25 12:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணையை-விவாதிக்க-முடியாது/175-365264) · `ta`
+
+Speaker Jagath Wickramaratne today reiterated that the no -confidence motion against Deputy Defense Minister Aruna Jayasekera cannot be discussed in accordance with staff, constitutional and international parliamentary procedures.
+
+The Speaker pointed out that the Committee of the Secretaries and the Attorney General submitted to him, claiming that the no -confidence motion in the pending case on the Easter Sunday bombing would not have any legal effect.
+
+◼️
+
+[Data](articles/decfbbf6.json)
+
+[Extended Data](ext_articles/decfbbf6.ext.json)
+
+---
+
+### 20 years rigorous imprisonment for a father who sexually abused two daughters in Batticaloa
+
+*2025-09-25 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226030) · `ta`
+
+Batticaloa High Court Judge RJ Prabhakaran today ruled that the father of 7 and 8 -year -old daughters in the district of Batticaloa has been sentenced to 20 years in prison for sexually abusing her 7 and 8 years of imprisonment for the victims of Rs.
+
+The 56 -year -old father was arrested in October 2016 for allegedly sexually abusing two daughters, including a 7 and 8 -year -old daughter, including the daughter of a mentally ill.
+
+Police have registered a case in the Supreme Court against the arrested person and then released on bail.. This is followed by trial.
+
+On September 27 last year, he was found guilty of evidence, evidence and legal doctor's report on four allegations for sexually abusing 16 -year -old girls against the man.
+
+...
+
+[Data](articles/500d23fb.json)
+
+[Extended Data](ext_articles/500d23fb.ext.json)
+
+---
+
+### 1,006 arrested on suspicion of special operations
+
+*2025-09-25 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214992) · `si`
+
+The Sri Lanka Police are arrested on sustaining 1,006 persons from the Sri Lankan police and drug prevention operations in the Sri Lankan police.
+
+Also, criminal suspects is being arrested throughout the country.
+
+Accordingly, special operations have been implemented covering all local police stations at the divisional level.
+
+◼️
+
+[Data](articles/7f95aa03.json)
+
+[Extended Data](ext_articles/7f95aa03.ext.json)
+
+---
+
+### கிராண்ட்பாஸில் விபத்து : ஒருவர் உயிரிழப்பு
+
+*2025-09-25 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226034) · `ta`
+
+One person was killed when a lorry crashed into a motorcycle on the road at the Grandpass police division.
+
+The motorcycle driver was seriously injured in the accident and died after being admitted to the Colombo National Hospital.
+
+◼️
+
+[Data](articles/aac86c16.json)
+
+[Extended Data](ext_articles/aac86c16.ext.json)
+
+---
+
+### A real-of-year-old minister Namal
+
+*2025-09-25 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214991) · `si`
+
+Minister of Agriculture and Minister Namal Karunaratne says that there is a 50% truth of the information given by the people of the Animal Census Report.
+
+He was addressing the church in Parliament today (26).
+
+The animal session was held island wide on 15th March on March 15.
+
+The survey of the monkey, rod and punishment of the animals that have been conducted at the same time have been held on 50% of the information related to monkeys and relatives.
+
+"Verification of results was confirmed by a 50% truth of information related to monkeys and relatives. Accordingly, the recommendation committee to reduce the recommendations to reduce the crop damage to food crop hazards to treat the 50% value of the survey. "
+
+According to the official report, the Minister said that the ratings of the monkey, monkey, monkey, monkey, and punishment.
+
+The Minister further stated that the survey is not conducting the census of about 6 Grama Niladhari Divisions in Jaffna.
+
+◼️
+
+[Data](articles/7c78832d.json)
+
+[Extended Data](ext_articles/7c78832d.ext.json)
+
+---
+
+### Wife of ‘Backhoe Saman’ further remanded
+
+*2025-09-25 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112905/wife-of-backhoe-saman-further-remanded) · `en`
+
+The wife of underworld figure ‘Backhoe Saman’, Shadhika Lakshani, who is currently in remand custody under the Prevention of Money Laundering Act, has been further remanded until October 9 by the Colombo Magistrate’s Court, Ada Derana reporter said.
+
+This order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after considering submissions made by the Criminal Investigation Department (CID) and the suspect’s attorneys.
+
+The Magistrate also instructed the CID to present a summary of the evidence at the next court date regarding how the suspect is allegedly connected to drug trafficking activities said to have taken place around Middeniya.
+
+The wife and child of underworld figure ‘Backhoe Saman’ were taken into custody by the Criminal Investigation Department upon their arrival at the Bandaranaike International Airport (BIA) on August 29.
+
+◼️
+
+[Data](articles/542420fe.json)
+
+---
+
+### Backo Saman's wife further remanded
+
+*2025-09-25 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214990) · `si`
+
+The wife of Shan, who was remanded under the allegations of the prevention of money laundering, the Colombo Magistrate's Court preserves further remanded until the 9th of this month.
+
+Colombo Chief Magistrate Asanka S. Bodaragama released the order after considering the issues of the Criminal Investigation and the Commander's lawyers.
+
+The Magistrate also ordered the CID to the Criminal Investigation Department (CID) to the CID.
+
+◼️
+
+[Data](articles/a1ddcce9.json)
+
+[Extended Data](ext_articles/a1ddcce9.ext.json)
+
+---
+
+### 4 dies in Thalawa accident
+
+*2025-09-25 11:35:30* · [`adalk`](https://www.ada.lk/breaking_news/තලාව-අනතුරින්-4ක්-මිය-යයි/11-418714) · `si`
+
+A van traveling from Thalawa - Kurunegala main road, a van from Kurunegala and Kurunegala to Kurunegala increased to four death accident.
+
+Six persons, including the injured, were admitted to the Talawa hospital for the treatment of the van.
+
+The condition of the three persons who were traveling in the injured van, they were rushed to the Anuradhapura Teaching Hospital and the other two others were in critical condition.
+
+Talawa Police said that the van was a van owned by a private garment factory.
+
+Police have also revealed that four men, including the van driver among the dead, has revealed that the driver of the van is sleeping.
+
+◼️
+
+[Data](articles/31c1ff89.json)
+
+[Extended Data](ext_articles/31c1ff89.ext.json)
+
+---
+
+### Court grants permission to detain and question suspects in Tangalle drugs seizure
+
+*2025-09-25 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112903/court-grants-permission-to-detain-and-question-suspects-in-tangalle-drugs-seizure) · `en`
+
+The Tangalle Magistrate’s Court has granted permission to police to detain and question three suspects arrested in connection with the discovery of crystal methamphetamine (commonly known as ‘Ice’) and heroin in three lorries in Seenimodara, Tangalle.
+
+Owners of two lorries in which the narcotics were discovered and a son of drug trafficker ‘Unakuruwa Thusitha,’ who died while receiving treatment in hospital, were produced before the Tangalle Magistrate’s Court last evening (24), police said.
+
+Police then had requested permission from court to detain and question the suspects and the Magistrate ordered them to be detained and questioned until September 29.
+
+Additionally, the court ordered the detention and interrogation of another lorry owner and its driver, who were also arrested in connection with the incident, until September 29, police said.
+
+...
+
+[Data](articles/23908708.json)
+
+---
+
+### Powerful earthquake in Venezuela
+
+*2025-09-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226033) · `ta`
+
+600 km from the capital of Karakas, the capital, at Meni Grand, in Julia, northwest of Venezuela. The powerful earthquake in the west occurred.
+
+It was recorded at 6.2 on the Rister Scale. This landfill is 7.8 km. Was the center of the depth. The earthquake was felt in various provinces of the country and neighboring Colombia.
+
+Thus, many fled from homes and office buildings located along the border. However, no information has been revealed in both countries. However, Venezuela President Nicolas Maduro presided over the scientific event on state television.
+
+During the earthquake and after that there was no disruption on the TV show. Subsequently, the earthquake was felt at 3.9 in Julia and 5.4 in Parinas Province.
+
+◼️
+
+[Data](articles/5708190c.json)
+
+[Extended Data](ext_articles/5708190c.ext.json)
+
+---
+
+### An announcement in the weather for heavy rains
+
+*2025-09-25 11:24:31* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-ගැන-කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-418712) · `si`
+
+The Department of Meteorology says that there will be a deternal announcement in the Western and Sabaragamuwa provinces and in the Matara, Matara, Kandy and Nuwara Eliya districts.
+
+MM to some places in these lands. Heavy rains can occur at 10.30 am today
+
+The announcement will be valid tomorrow (26) at 10.30 am.
+
+◼️
+
+[Data](articles/e223bac8.json)
+
+[Extended Data](ext_articles/e223bac8.ext.json)
+
+---
+
+### Massive earthquake in Venezuela
+
+*2025-09-25 11:22:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெனிசுலாவில்-பாரிய-நிலநடுக்கம்/50-365261) · `ta`
+
+600 km from the capital, Karakas, in the northwest of Venezuela, the world's largest oil resources, at Meni Grand, the capital of Julia.. The powerful earthquake in the west has occurred.
+
+As a result, many escaped from homes and office buildings located along the border.
+
+However, Venezuelan President Nicolas Maduro presided over the scientific program on state television.
+
+There was no disruption on the TV show during and after earthquake. Subsequently, the earthquake was felt at 3.9 in Julia and 5.4 in Parinas Province
+
+◼️
+
+[Data](articles/b36e3731.json)
+
+[Extended Data](ext_articles/b36e3731.ext.json)
+
+---
+
+### Don't lock the toilet: Archana Action
+
+*2025-09-25 11:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிப்பறையை-பூட்டவேண்டாம்-அர்ச்சுனா-அதிரடி/175-365260) · `ta`
+
+Jaffna MP Ramanathan Archana, who raised the order issue in Parliament today (25), urged him not to lock the public toilet in Parliament.
+
+“The police say that our public toilet in Parliament will be closed at 4:30 am. They say they are closing the equipment in the toilet.   After that they can't go anywhere. So, even at night, tell me to open the public toilet, "Archana said.
+
+◼️
+
+[Data](articles/955e0fe3.json)
+
+[Extended Data](ext_articles/955e0fe3.ext.json)
+
+---
+
+### Mysame MP Prasad
+
+*2025-09-25 11:17:59* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මුළුතැන්ගේ-මීයෝ-නෑ---මන්ත්‍රී-ප්‍රසාද්/11-418711) · `si`
+
+Gampaha District Parliamentarian Prasad Siriwardena observed Parliamentarian yesterday (24th September) kitchen. At this time, Speaker Medical Jagath Wickramaratne was raised in the kitchen and there was no evidence of the allegations.
+
+The storage rooms have been prepared using glasses and nets, and the staff is constantly working to protect the cleanness of the kitchen and have no problem with the food kitchen for 35 years.. The MP is therefore, the Speaker is a demonstration of the respectment and dignity of the Parliamentary Staff.
+
+Accordingly, the MP expressed his regret for uncommon accusations made by the Speaker and their families.. He said that the leadership should not be given to this, but it is not to encourage and encourage the staff.
+
+...
+
+[Data](articles/c69b9ddf.json)
+
+[Extended Data](ext_articles/c69b9ddf.ext.json)
+
+---
+
+### Over 1,000 individuals arrested during special island-wide police raids
+
+*2025-09-25 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112902/over-1000-individuals-arrested-during-special-island-wide-police-raids) · `en`
+
+A total of 1,006 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (24).
+
+As part of the operation, 28,669 persons were subjected to inspection, the Police Media Division said.
+
+Police have identified 31 individuals directly linked to criminal activities while 601 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 63 drunk drivers were apprehended while a further 20 reckless drivers and 4,364 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/e7c37e1d.json)
+
+---
+
+### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
+
+*2025-09-25 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226031) · `ta`
+
+At the current session of the United Nations Human Rights Council in Geneva, it is possible to pass a hazardous resolution on Sri Lanka. The government wants to come to an end to the occasional monitoring of Sri Lanka's human rights situation.
+
+◼️
+
+[Data](articles/73c3d223.json)
+
+[Extended Data](ext_articles/73c3d223.ext.json)
+
+---
 
 ### President holds a bilateral meeting with several foreign state prabelines
 
@@ -67,6 +397,42 @@ The number of accident occurred near the Talawa Mirigama Junction on the Anuradh
 [Data](articles/578c14c6.json)
 
 [Extended Data](ext_articles/578c14c6.ext.json)
+
+---
+
+### Minister Vijitha Herath discusses with Foreign Ministers Maldives, Finland and Germany
+
+*2025-09-25 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226028) · `ta`
+
+External Affairs Minister Vijitha Herath Maldives, Finance and Germany, who has visited the United States to attend the 80th General Assembly session of the United Nations, has held bilateral discussions with Foreign Ministers.
+
+Minister Vijitha Herath meets Maldivian Foreign Minister Abdullah Khalil. Both reviewed cooperation and analyzed ways to further strengthen bilateral relationships.
+
+Meanwhile, Vijitha Herath also met Foreign Minister Elena Waltonan.. Debates on strengthening cooperation between Sri Lanka and Finland were focused.
+
+During a meeting with German Foreign Minister Seraf Gular, Foreign Minister Vijitha Herath discussed the promotion of bilateral cooperation and the shared perspectives on major global issues.
+
+◼️
+
+[Data](articles/69bfb717.json)
+
+[Extended Data](ext_articles/69bfb717.ext.json)
+
+---
+
+### கற்பிட்டியில் விபத்து : பாதசாரி உயிரிழப்பு
+
+*2025-09-25 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226027) · `ta`
+
+A pedestrian has died after a motorcycle crashed into a pedestrian in the Balaviya area of ​​the Kalpitiya police division.
+
+The motorcycle driver and the pedestrian were seriously injured in the accident.
+
+◼️
+
+[Data](articles/6100bb2a.json)
+
+[Extended Data](ext_articles/6100bb2a.ext.json)
 
 ---
 
@@ -517,6 +883,26 @@ Thirteen clergy traveled in the cable car when the accident occurred. Remble
 [Data](articles/42ba414f.json)
 
 [Extended Data](ext_articles/42ba414f.ext.json)
+
+---
+
+### 7 Buddhist monks death after cable car
+
+*2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/150-365252) · `ta`
+
+Seven people were killed when a cable car carrying clergymen crashed yesterday in the Kurunegala - Melsiripura Na Uyana area.
+
+Police say two of the victims include two Russian monks and a Cambodian monk.
+
+In addition, six injured in the incident have been admitted to the Kurunegala Teaching Hospital.
+
+Thirteen clergy traveled in the cable car when the accident occurred. Remble
+
+◼️
+
+[Data](articles/ecbc462e.json)
+
+[Extended Data](ext_articles/ecbc462e.ext.json)
 
 ---
 
@@ -1595,455 +1981,5 @@ At least five Buddhist monks are reported dead after a cable car broke from the 
 [Data](articles/b9e4590d.json)
 
 [Extended Data](ext_articles/b9e4590d.ext.json)
-
----
-
-### 2025-09-24 (Wednesday)
-
-### Sri Lanka is expelled from the Asian bowl
-
-*2025-09-24 23:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணத்திலிருந்து-வெளியேற்றப்பட்ட-இலங்கை/44-365247) · `ta`
-
-Sri Lanka has been dismissed from the Asian Cup series following India's winning Super 4 round match against Bangladesh today in Dubai, UAE.
-
-India, Abhishek Sharma's 75 (37), Shubman Gill's 29 (19) runs, Rishad Hossain (2), Mustafizur Rahman, Tansim Hassan, took 6 wickets in 20 overs and lost 6 wickets in 20 overs.. Hardik Pandya scored 38 (29) runs.
-
-When Saif Hassan scored 69 (51) runs on behalf of Bangladesh who won 169 runs, Jasprit Bumrah (2), Kuldeep Yadav (3), Aksar Patel, Varun Chakraborty (2) Failed.
-
-India, which had already won Pakistan, qualified for the finals before their next Sri Lanka.
-
-◼️
-
-[Data](articles/6a58d1c5.json)
-
-[Extended Data](ext_articles/6a58d1c5.ext.json)
-
----
-
-### India to fight Asian cup
-
-*2025-09-24 23:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214976) · `si`
-
-Bangladesh defeated 41 runs and qualify for the finals of the Asia Cup Twenty20 cricket tournament.
-
-The Super 4 (24) was able to score only 127 runs in 19.3 overs.
-
-With this Jayath of India, the contest against Sri Lanka was able to qualify for the final.
-
-The Bangladesh should have won the final in the match to have any hope for the final match of Sri Lanka with the defeat of Pakistan.
-
-Sri Lanka was officially removed from the tournament.
-
-Bangladesh - Pakistan match will be held tomorrow (25), constructing the Super 4 matches.
-
-The team team can qualify for the final.
-
-◼️
-
-[Data](articles/fab7cf30.json)
-
-[Extended Data](ext_articles/fab7cf30.ext.json)
-
----
-
-### Glowing skin…
-
-*2025-09-24 23:23:00* · [`islandlk`](http://island.lk/glowing-skin-4/) · `en`
-
-This week I’m giving you some beauty tips for glowing skin and these remedies can all be done at home!
-
-Make a face mask by grating a cucumber and mixing it with 03 tablespoons of yoghurt.
-
-Apply this mask to your face, leave it on for 05 minutes and then rinse off with cold water.
-
-Take a small amount of coconut oil, warm it up between your hands, and massage it onto your face. Wait a few minutes before washing it off with your regular cleanser. You can also leave this home remedy on overnight and wash it off the next morning.
-
-For this home remedy, mix 01 teaspoon of baking soda with a teaspoon of olive oil, and half a spoon of honey. Wet your face and apply this mixture with gentle circular motions. Rinse off with cool water.
-
-...
-
-[Data](articles/8d86ebfb.json)
-
-[Extended Data](ext_articles/8d86ebfb.ext.json)
-
----
-
-### Traveling in October Sri Lanka is the best country
-
-*2025-09-24 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214975) · `si`
-
-Sri Lanka has been named the best destination in the world to visit the World's Tim Out
-
-The warm tropical climate, cultural heritage and natural landscapes in Sri Lanka have been taken into account here.
-
-The magazine also has the ancient ruins and wildlife to the ancient ruins and wildlife safari, from attractive beaches around the island.
-
-According to Time Out Travel Joine, this rank is based on seasonal charm, cultural events, and in October.
-
-The second place in this list has been named at Turkey and New Mexico third place.
-
-Other destinations are the Spain, New Yorkia, BhDen, Besania, Bosnia and Hrszonia, Romania San Francisco and Namibia.
-
-◼️
-
-[Data](articles/fdbde256.json)
-
-[Extended Data](ext_articles/fdbde256.ext.json)
-
----
-
-### ComBank wins impressive triple at ICC Emerging Asia Banking Conclave & Awards 2025
-
-*2025-09-24 23:05:00* · [`islandlk`](http://island.lk/combank-wins-impressive-triple-at-icc-emerging-asia-banking-conclave-awards-2025/) · `en`
-
-The Commercial Bank of Ceylon was honoured with three prestigious awards at the 3rd Emerging Asia Banking Conclave & Awards 2025, organised by the Indian Chamber of Commerce (ICC).
-
-The Bank received the awards for Best Performance on Growth – Sri Lanka and Best Performance on Profitability – Sri Lanka, and won the Runner-up title for Best Bank in Sri Lanka, achieving a significant triple at this event.
-
-These accolades, presented at Le Meridien in New Delhi, India, highlight the Bank’s robust performance, resilience, and leadership within the region’s financial sector.
-
-Representing the Bank at the event was Mr. Ramachandren Sivagnanam, the Assistant General Manager – Personal Banking. The awards ceremony featured participation from financial institutions across Bhutan, Sri Lanka, Nepal, Myanmar, Bangladesh, and India.
-
-...
-
-[Data](articles/8b0ae12b.json)
-
-[Extended Data](ext_articles/8b0ae12b.ext.json)
-
----
-
-### Ambassador for Japan visits Tokyo Cement Factory in Trincomalee
-
-*2025-09-24 23:05:00* · [`islandlk`](http://island.lk/ambassador-for-japan-visits-tokyo-cement-factory-in-trincomalee/) · `en`
-
-Akio Isomata, Ambassador of Japan to Sri Lanka, paid an official visit to the Tokyo Cement Factory in Trincomalee, underscoring the long-standing friendship and economic cooperation between Japan and Sri Lanka.
-
-The Ambassador was accompanied by Ms. Yukako Mizunuma, Finance Attaché, and Ms. Sachi Tanaka, Second Secretary of the Embassy of Japan. The visit highlighted Tokyo Cement’s latest expansion project, which recently added one million metric tons to the company’s manufacturing capacity, a milestone in strengthening Sri Lanka’s economic expansion and industrial development.
-
-...
-
-[Data](articles/8f101891.json)
-
-[Extended Data](ext_articles/8f101891.ext.json)
-
----
-
-### CSE picks-up speed following CBSL interest rate decision and growth predictions
-
-*2025-09-24 23:04:00* · [`islandlk`](http://island.lk/cse-picks-up-speed-following-cbsl-interest-rate-decision-and-growth-predictions/) · `en`
-
-CSE trading activities took off at a slow pace yesterday but later turned positive following the Central Bank’s decision to keep policy rates unchanged at 7.75 percent and projections that the decision will help in steering inflation towards the target of 5 percent coupled with an expansion of economic growth, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 55.6 points while S and P SL20 rose by 14.08 points. Turnover stood at Rs 5.57 billion with 12 crossings. The top seven crossings were: VallibelOne 3.6 million shares crossed to the tune of Rs 372 million and its shares traded at Rs 103, Jetwing Symphony 13 million shares crossed for Rs 227 million; its shares traded at Rs 18.10, Hayleys 700,000 shares crossed for Rs 130 million; its shares traded at Rs 188.
-
-...
-
-[Data](articles/dedb7e1b.json)
-
-[Extended Data](ext_articles/dedb7e1b.ext.json)
-
----
-
-### Zaco Information Technology Lanka officially launches in Sri Lanka
-
-*2025-09-24 23:03:00* · [`islandlk`](http://island.lk/zaco-information-technology-lanka-officially-launches-in-sri-lanka/) · `en`
-
-Enterprise-Grade IT Hardware, Lifecycle Management, and Green IT Solutions Now Available to Sri Lankan Enterprises
-
-Zaco Information Technology Lanka (PVT) Ltd. has officially launched operations in Sri Lanka as a joint venture between Zaco Computers India and InfoChain Private Limited. The launch event, held at the Computer Society of Sri Lanka (CSSL) Auditorium, marks a key milestone in the company’s international expansion, bringing global-standard IT solutions to the region.
-
-The event was attended by Siraj Kazi (Chairman), Hafiz Sayed (Managing Director), and directors Dr. Malitha Wijesundara and Heshan Karunaratne, along with distinguished guests from the IT and business community.
-
-Welcoming the audience, Fawaz Haque introduced Zaco’s vision and highlighted the importance of technology in accelerating Sri Lanka’s economic growth.
-
-...
-
-[Data](articles/cabffcef.json)
-
-[Extended Data](ext_articles/cabffcef.ext.json)
-
----
-
-### Sri Lanka adolescents beat Sri Lanka
-
-*2025-09-24 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214974) · `si`
-
-Sri Lanka Under-19 team was able to win six wickets in the third wicket match against the under-19 women's group.
-
-Sri Lanka became able to confirm the winner wins the tournament with a 3-0 match against this winner.
-
-Australia scored 100 runs for the loss of 100 wickets for the loss of 6 wickets.
-
-Emily Powell scored 32 runs and Suzy Finn scored 31 runs.
-
-2 wickets and Limmansa Tillakaratne took 02 wickets for 20 runs.
-
-Chasing a target of 101 runs, scored 101 runs for the loss of 4 runs.
-
-There were talented by the balloon (36) and Wimamber Balasuriya.
-
-Lilley Hamilton took 2 wickets for 16 runs, but it was not sufficient to win.
-
-◼️
-
-[Data](articles/8f38b1a6.json)
-
-[Extended Data](ext_articles/8f38b1a6.ext.json)
-
----
-
-### Solid waste recycling centers to be established across Sri Lanka
-
-*2025-09-24 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112884/solid-waste-recycling-centers-to-be-established-across-sri-lanka) · `en`
-
-A program has been initiated to establish solid waste recycling centers at local government institutions to facilitate the conversion of solid waste into recyclable materials.
-
-According to the President’s Media Division, the ‘Clean Sri Lanka’ program, in collaboration with the Ministry of Public Administration, Provincial Councils, and the Ministry of Local Government, has launched the initiative.
-
-As part of this program, solid waste recycling centers will be established across various regions, with the first such center being launched at the Kattankudy Urban Council, with an expense of Rs. 50.8 million.
-
-In total, 54 locations have been selected, including six areas known for generating substantial amounts of unprocessed waste. The PMD also mentioned that feasibility studies have been conducted for 25 of these sites.
-
-◼️
-
-[Data](articles/97022a80.json)
-
-[Extended Data](ext_articles/97022a80.ext.json)
-
----
-
-### A program to boot solid waste recovery centers
-
-*2025-09-24 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214973) · `si`
-
-A program to start solid waste recovery centers to facilitate transform into solid waste materials to be reused materials.
-
-The 'Clean Sri Lanka' program and the Ministry of Public Administration, Provincial Councils and Local Government has commenced the program.
-
-Accordingly, the Solid Waste Recovery Center is covered with nine provinces, and the first program has been carried out at the Kattankudy Recovery Center at Kattankudy Urban Council at a cost of Rs.
-
-54 locations have been selected at six places that generate a garbage of unknown.
-
-◼️
-
-[Data](articles/fbdcdd52.json)
-
-[Extended Data](ext_articles/fbdcdd52.ext.json)
-
----
-
-### Emoji laughing on Facebook: screaming on young man in Gujarat; Arresting
-
-*2025-09-24 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226002) · `ta`
-
-A 20 -year -old youth has been stabbed to death in a fight for the use of Laughing Emoji on social network Facebook. The incident has caused a stir in Rajkot, Gujarat, India.
-
-Prince Kumar, a young man from Bihar, died after being shouted.
-
-He has been working with his three relatives at a factory in Gujarat.
-
-Prince posted a post on his Facebook page about his grandfather Rupnarayan Bind, who died four months ago. Bipin Kumar Rajinder Gond responded to a smiling emoji. This resulted in an argument between them.
-
-On September 12 last year, the Bipin came to the scene while Prince was sitting in a three -wheeler outside the factory.
-
-Another suspect, Brijesh Gond, also threatened to kill Prince. During the confrontation, Bipin stabbed with a knife on the back of Prince.
-
-Prince's back was injured with a depth of 1.5 to 2 inches. Immediately he was admitted to the hospital. Doctors said the injury was not serious at the beginning.
-
-...
-
-[Data](articles/11a4821d.json)
-
-[Extended Data](ext_articles/11a4821d.ext.json)
-
----
-
-### India is on our side - Ukrainian President Jelensky
-
-*2025-09-24 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226001) · `ta`
-
-In an interview with Ukrainian President Jelenski yesterday, Russia's war on Ukraine said that India is mostly on their side and that India should be kept on their side.
-
-Russia - India is not in favor of Russia as China is acting in favor of Russia. On the contrary, Jelensky noted that India is mostly on our side.
-
-He hoped that despite some contradictions in the affair of India's oil from Russia, they could deal with them.
-
-Jelensky urged European countries to strengthen relations with India and put India on their side.
-
-India has repeatedly urged the end of the war that has been going on for more than three years. India's position is that "this era is not for war, but peace in the world". In this scenario, these ideas of the Ukrainian Chancellor are significant.
-
-◼️
-
-[Data](articles/c2867aa8.json)
-
-[Extended Data](ext_articles/c2867aa8.ext.json)
-
----
-
-### WhatsApp-Bill New Update: Introduction of Translation Facility
-
-*2025-09-24 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226000) · `ta`
-
-WhatsApp, the inevitable process of smartphones, is to introduce a new feature to translate text messages from users. By this, the language will no longer be an obstacle.
-
-The main feature of this update is the facility of translating and reading a user's sending text into any language.
-
-Initially, the service is to be launched in 19 languages ​​including English, Hindi, Arabic and Spanish.
-
-Since Meta has acquired WhatsApp, various new features have been continued to be launched, such as photo, video, pdf files and status.
-
-The translation, which is currently being brought, is expected to be a boon for millions of users around the world.
-
-◼️
-
-[Data](articles/280ed62d.json)
-
-[Extended Data](ext_articles/280ed62d.ext.json)
-
----
-
-### Sri Lanka named No. 1 destination to visit in October
-
-*2025-09-24 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112883/sri-lanka-named-no-1-destination-to-visit-in-october) · `en`
-
-Sri Lanka has been ranked the number one destination to visit in the month of October by global travel magazine Time Out which released its annual list of the world’s top travel spots for the month.
-
-Sri Lanka’s warm tropical climate, rich cultural heritage and natural landscapes have contributed to it being named the travel top destination by the magazine.
-
-The magazine highlighted Sri Lanka’s as a destination that offers “a little bit of everything” from golden beaches and hill-country hikes to ancient ruins and wildlife safaris.
-
-Türkiye is placed second while United States’ New Mexico has been ranked third in the list.
-
-Other featured destinations include Valencia (Spain), New York City (US), the Philippines, Bhutan, Bosnia and Herzegovina, Timișoara (Romania), San Francisco, and Namibia.
-
-...
-
-[Data](articles/0ba10b94.json)
-
-[Extended Data](ext_articles/0ba10b94.ext.json)
-
----
-
-### Tire Zameen Bar movie should be screened in Parliament - Bimal Ratnayake
-
-*2025-09-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225996) · `ta`
-
-India's 'Tare Jameen Bar' has had a huge impact on me and my wife. Has inspired to think about the needs of children. Pimal Ratnayake, the chief minister and minister of the council, said the film should be screened for MPs.
-
-He was speaking at a debate on the Penal Code (Amendment) Bill held in Parliament on Wednesday (24).
-
-It is impossible to accept that they will grow up only if children are physically punished. Current parents do not physically punish children.
-
-I recently watched the movie 'Tare Jameen Bar' of India. After seeing this film, it had a huge impact on me and my wife. The film inspired us to think about the needs of children.
-
-Members of Parliament who talks about children should watch the film. Otherwise, they should screen the film. So I ask you to see this image.
-
-◼️
-
-[Data](articles/b34a9444.json)
-
-[Extended Data](ext_articles/b34a9444.ext.json)
-
----
-
-### The father passed into a lorry
-
-*2025-09-24 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214972) · `si`
-
-A father has died in an unfortunate accident in Wennappuwa.
-
-The kick pedal of his motorcycle was not properly implemented, and he tried to push his motorcycle.
-
-There, the motorcycle lost unexpected control and was thrown to the road, and he was subdued to a timber transporting on the road.
-
-He was a resident of Dummaladeniya, Wennappuwa, Wennamaladeniya.
-
-◼️
-
-[Data](articles/2febc50b.json)
-
-[Extended Data](ext_articles/2febc50b.ext.json)
-
----
-
-### Steps to include counseling and psychology in school syllabus
-
-*2025-09-24 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214971) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
-
-The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
-
-The Minister further stated that these programs should be implemented to all schools in accordance with a proper plan covering all provinces covering all provinces in the country.
-
-The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
-
-The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
-
-◼️
-
-[Data](articles/658e9c35.json)
-
-[Extended Data](ext_articles/658e9c35.ext.json)
-
----
-
-### Tensions of a massive ditch in Thailand
-
-*2025-09-24 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225999) · `ta`
-
-A large sudden sudden sudden suddenly occurred on Wednesday morning (24) on the road in front of the Vajira Hospital in Bangkok, Thailand.. The groove continues to expand and is now spreading to the front of the Samsen police station.
-
-The depth of the abyss is more than 50 meters, which has caused fear of a major accident.
-
-Due to this accident, the Dusit District Office, Vajira Hospital Sang Hi and the roads around it have been closed.
-
-Officials are investigating the cause of the sudden crater.
-
-◼️
-
-[Data](articles/2d61e10f.json)
-
-[Extended Data](ext_articles/2d61e10f.ext.json)
-
----
-
-### Sabarimalai Iyyappan Temple: Cabinet approval as a pilgrimage to Sri Lanka
-
-*2025-09-24 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225998) · `ta`
-
-The Cabinet has approved the declaration of the Sabarimalai Iyyappan Temple as a pilgrimage recognized by the Government of Sri Lanka. Colombo Municipal Council Member S. Anandakumar said that action is being taken to inform the Government of India.
-
-The long -standing Hindu devotees visit the Sabarimalai Iyyappan Temple in the state of Kerala, India, from November 1 to January 31st of next year.. The temple is currently a pilgrimage to more than 15,000 devotees annually.. In two more months, Iyappa Samimars will wear evening and go to Sabarimala.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Religious and Cultural Affairs to declare the pilgrimage to the Sabarimalai Iyyappan Temple by the Sri Lankan Hindu pilgrims to declare and provide facilities to the Government of Sri Lanka.. We have been recognized for the continuous programs.
-
-...
-
-[Data](articles/18f1eaa4.json)
-
-[Extended Data](ext_articles/18f1eaa4.ext.json)
-
----
-
-### Tariffs and conflict causing major volatility in shipping industry, says UN trade agency
-
-*2025-09-24 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112882/tariffs-and-conflict-causing-major-volatility-in-shipping-industry-says-un-trade-agency) · `en`
-
-The shipping industry is experiencing major volatility amid rising geopolitical tensions and disruptions caused by a wave of new tariffs, according to a report published on Wednesday by the U.N. Trade and Development agency.
-
-Due to an increasingly complex and uncertain global trade environment, subdued industrial activity in major economies and weak Chinese demand for bulk commodities, UNCTAD has revised down its maritime trade growth forecast for 2025.
-
-It now projects overall maritime trade volume to expand 0.5 per cent annually, with containerized trade growing slightly faster at 1.4 per cent.
-
-The report highlights that trade policy shifts, including new tariffs, are disrupting global supply chains.
-
-Maritime navigation in the Black Sea has been complicated by Russia’s war in Ukraine. Conflict in the Middle East drove up shipping costs as vessels were rerouted around the Cape of Good Hope following disruption to the Red Sea, UNCTAD said.
-
-...
-
-[Data](articles/a9fb7dc0.json)
-
-[Extended Data](ext_articles/a9fb7dc0.ext.json)
 
 ---

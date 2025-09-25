@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 13:06:48**
+As of **2025-09-25 13:40:16**
 
 ## Newspaper Stats
 
-*Scraped **78,083** Articles*
+*Scraped **78,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,587
-adaderanalk | 10,145
+adalk | 7,588
+adaderanalk | 10,147
 tamilmirrorlk | 11,772
 virakesarilk | 12,705
 adaderanasinhalalk | 13,639
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,639
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,083 (100.0%) of 78,083 articles have been extended.
+78,085 (100.0%) of 78,086 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,26 @@ Despite being brought to the notice of the relevant authorities, no action has b
 [Data](articles/859e673a.json)
 
 [Extended Data](ext_articles/859e673a.ext.json)
+
+---
+
+### Only 50% of data provided by public during wildlife census accurate: Dy Minister
+
+*2025-09-25 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112906/only-50-of-data-provided-by-public-during-wildlife-census-accurate-dy-minister) · `en`
+
+Around 50% of the information provided by the general public during the recent wildlife census was found to be accurate, according to Deputy Minister of Agriculture and Livestock Namal Karunaratne.
+
+The Deputy Minister presented this information today (26) while addressing Parliament.
+
+The wildlife census, conducted on March 15 across the island, was aimed to identify animals that harm food crops, study them properly, and take appropriate action.
+
+The census, which was conducted simultaneously across the country, focused on animals such as monkeys, toque macaques, peacocks and giant squirrels. According to the Deputy Minister, 50% of the data provided by the public about monkeys and toque macaques was confirmed to be accurate.
+
+...
+
+[Data](articles/d596a829.json)
+
+[Extended Data](ext_articles/d596a829.ext.json)
 
 ---
 
@@ -223,6 +243,30 @@ The wife and child of underworld figure ‘Backhoe Saman’ were taken into cust
 [Data](articles/542420fe.json)
 
 [Extended Data](ext_articles/542420fe.ext.json)
+
+---
+
+### Drone activity confirmed at multiple Denmark airports
+
+*2025-09-25 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112904/drone-activity-confirmed-at-multiple-denmark-airports) · `en`
+
+Denmark’s Aalborg airport in the country’s north has been closed after unauthorised drones were seen in its airspace, according to local authorities.
+
+Three other smaller airports in the country’s southern region - Esbjerg, Sønderborg and Skrydstrup - also reported drone activity, but were not closed.
+
+The incident comes after the country’s Copenhagen airport was forced to close earlier this week due to a drone incursion, which the prime minister described as “the most severe attack on Danish infrastructure so far”.
+
+Police said the devices could be seen from the ground, adding they couldn’t rule out the activity being a prank. They were investigating who was controlling them and their motive.
+
+On Monday, Kastrup airport in Copenhagen was forced to shut for several hours following the sighting of a number of drones.
+
+“It says something about the times we live in and what we as a society must be prepared to deal with,” Prime Minister Mette Frederiksen told reporters earlier this week.
+
+...
+
+[Data](articles/effb335c.json)
+
+[Extended Data](ext_articles/effb335c.ext.json)
 
 ---
 
@@ -1220,6 +1264,22 @@ Police have introduced a new telephone number to senior DIGs in charge of 9 prov
 
 ---
 
+### මාරක අනතුරු 4කින් හතරක් මරුට
+
+*2025-09-25 07:20:57* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-අනතුරු-4කින්-හතරක්-මරුට/11-418709) · `si`
+
+ඊයේ දිනයේදී පොලිස් වසම් 4ක් තුළ සිදුවූ මාරක අනතුරු හතරකින් පුද්ගලයන් 4 දෙනෙක් ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය කියයි.
+
+මහවෙල පොලිස් වසම - 2025.09.24 වන දින සවස් කාලයේ මහවෙල පොලිස් වසමේ පල්ලේපොල කොහොලන්වල මාර්ගයේ නිලව හන්දියේදී කොහොලන්වල දෙස සිට පල්ලේපොල දෙසට ධාවනය වූ ලොරි රථයක් ප්‍රථිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී  අනතුරක් සිදුව ඇත. අනතුරින් යතුරුපැදිකරු බරපතල තුවාල ලබා මාතලේ රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇත. මරණකරු වයස අවුරුදු ‍59 ක් වූ පල්ලේපොල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+නිට්ටඹුව පොලිස් වසම - 2025.09.24 වන දින උදෑසන කාලයේ නිට්ටඹුව පොලිස් වසමේ කොළඹ මහනුවර මාර්ගයේ නාඹුළුව හන්දිය අසලදී කොළඹ දෙස සිට මහනුවර දෙසට ධාවනය වූ ටිපර් රථයක් ප්‍රථිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී  අනතුරක් සිදුව ඇත. අනතුරින් යතුරුපැදිකරු බරපතල තුවාල ලබා වතුපිටිවල රෝහලට ඇතුලත් කිරීමේදී මියගොස් ඇත. මරණකරු වයස අවුරුදු ‍33 ක් වූ මාහේනගම, වරකාපොල ප්‍රදේශයේ පදිංචි පොලිස් කොස්තාපල්වරයෙකි.
+
+...
+
+[Data](articles/9d70a525.json)
+
+---
+
 ### Israeli PM Netanyahu rejects western recognitions of Palestinian State
 
 *2025-09-25 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112893/israeli-pm-netanyahu-rejects-western-recognitions-of-palestinian-state) · `en`
@@ -1474,13 +1534,17 @@ Thirteen monks in the dick in the dick during the accident and were seriously in
 
 *2025-09-25 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112889/heavy-showers-above-100mm-expected-in-parts-of-the-island-today) · `en`
 
-Showers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts. Heavy falls of about 100 mm are likely at some places.
+Showers will occur at times in the Western, Sabaragamuwa and North-western provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (25), the Department of Meteorology said.
 
-Showers or thundershowers are likely at a few places in Uva province and in Ampara and Batticaloa districts after 2.00 p.m.
+Heavy falls of about 100mm are likely at some places, the Met. Department added.
 
-Fairly strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+A few showers may occur in the North-central province as well.
 
-The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+Showers or thundershowers are likely at a few places in the Uva province and in the Ampara and Batticaloa districts after 2.00 p.m.
+
+Fairly strong winds of about 40-50kmph can be expected at times over the Western slopes of the central hills and in the Central, Northern, North-central and North-western provinces and in the Trincomalee and Hambantota districts.
+
+Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
 
 ◼️
 
@@ -1933,61 +1997,5 @@ During his visit, the President met with the United Nations High Commissioner fo
 [Data](articles/3f73832b.json)
 
 [Extended Data](ext_articles/3f73832b.ext.json)
-
----
-
-### AKD’s Year I: Recognising the reality revealed
-
-*2025-09-25 00:54:54* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-Year-I-Recognising-the-reality-revealed/4-782122) · `en`
-
-The key thing about the first year of the AKD presidency is that its true character and core content were revealed through action and inaction; roads taken and not taken; choices made and options rejected. The AKD presidency revealed its reality in its first year. It showed its soul.
-
-President AKD spoke at length about economics at the ceremony to kick-off construction of the Kadawatha-Mirigama segment of the Central Expressway project. This passage is key:
-
-“…Even by today, the IMF, World Bank and rating agencies have given extremely important signals about our economy. I saw a report in which the World Bank has given us the recognition that in rebuilding broken-down states, the fastest speed has been registered by Sri Lanka. This is an extremely important factor. Therefore, we are proceeding on our journey with great steadiness and stability…”
-
-TV news showed JVP chief theoretician Bimal Rathnayake leading the cheers as Anura paused, having enunciated this wisdom.
-
-...
-
-[Data](articles/147a97bd.json)
-
-[Extended Data](ext_articles/147a97bd.ext.json)
-
----
-
-### The number of owners up to 7
-
-*2025-09-25 00:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214978) · `si`
-
-The number of Buddhist monks had risen to seven incidents in an accident last night (24).
-
-Two of us were overseas national monks, and they have been placed at the Groomella area in Gawaralla area.
-
-At the time of the accident, there were 13 Buddhist monks.
-
-The monks who were seriously injured have been admitted to the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/b6af6342.json)
-
-[Extended Data](ext_articles/b6af6342.ext.json)
-
----
-
-### An accident of Naa Uyana - 5 monks pass out
-
-*2025-09-25 00:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214977) · `si`
-
-The monks were in danger yesterday (24) a accident in an accident last night (24).
-
-The monks had a thirteen day when the accident occurred.
-
-◼️
-
-[Data](articles/f80fb1cc.json)
-
-[Extended Data](ext_articles/f80fb1cc.ext.json)
 
 ---

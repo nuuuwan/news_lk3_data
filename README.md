@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 22:37:19**
+As of **2025-09-25 23:20:14**
 
 ## Newspaper Stats
 
-*Scraped **78,162** Articles*
+*Scraped **78,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,74 @@ dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,599
-adaderanalk | 10,157
+adaderanalk | 10,160
 tamilmirrorlk | 11,785
-virakesarilk | 12,717
+virakesarilk | 12,718
 adaderanasinhalalk | 13,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,161 (100.0%) of 78,162 articles have been extended.
+78,166 (100.0%) of 78,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### රේගුව අල්ලස හා දූෂණයට වඩාත්ම නැඹුරු ආයතනය බව අල්ලස් කොමිසම කියයි
+### Muthu Nagar Land Declaration: The Prime Minister's Office confirms that the next 10 days
+
+*2025-09-25 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226089) · `ta`
+
+The Prime Minister's Office has promised to settle for the next 10 days on the Muttu Nagar Agricultural Land Acquisition issue under the Divisional Secretariat Division of Trincomalee.
+
+Demonstrators, who were protesting in front of the Prime Minister's Office for about 12 hours on Wednesday, handed over a Mahajar on the issues they faced that night with the Prime Minister's Office officials.
+
+About 800 acres of agricultural land has been handed over to the Indian private company for the solar power project in Muttu Nagar, which is under the Divisional Secretariat Division of Trincomalee.  In this backdrop, Muthu Nagar farmers staged a protest in front of the Prime Minister's Office in Colombo on Wednesday (24), protesting against the land grabbing and urging them to get their land.
+
+...
+
+[Data](articles/78050246.json)
+
+[Extended Data](ext_articles/78050246.ext.json)
+
+---
+
+### Bribery Commission says that the Customs is the most oriented body to corruption
 
 *2025-09-25 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215015) · `si`
 
-අල්ලස හෝ දූෂණයට වඩාත් නැඹුරු ආයතන සැලකීමේදී මෙරට ආර්ථිකයට ප්‍රධාන වශයෙන් බලපාන ආයතනය රේගු දෙපාර්තමේන්තුව බව, අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ සභාපති, නීල් ඉද්දවෙල මහතා පවසයි.
+The Chairman of the Investigation Commission, the Chairman of the Commission, the Chairman of the Investigation Commission, the President of the Investigation Commission, Investigate Alcohol, said that the Institute of Bribery or Corruption is the mainstream of the Sri Lankan economy.
 
-ශ්‍රී ලංකා පරිපාලන වෘත්තිකයින්ගේ ආයතනය සහ ශ්‍රී ලංකා පරිපාලන සේවා සංගමය විසින් මෙම දේශනය සංවිධාන කර තිබුණේ ජාතික සංවර්ධනය සඳහා අවංකභාවය, විනිවිදභාවය සහය සුපිරිපාලනය යන මාතෘකාව ඔස්සේය.
+The lecture was organized by the Institute of Sri Lanka Administrative Professionals and the Sri Lanka Administrative Service Association.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ සභාපති නීල් ඉද්දවල මහතා,
+Bribery or Corruption Chairman Neil Idedala, Chairman of the Commission
 
 ...
 
 [Data](articles/d01c702d.json)
+
+[Extended Data](ext_articles/d01c702d.ext.json)
+
+---
+
+### President Anura Kumara to meet UN Secretary-General tonight
+
+*2025-09-25 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/112921/president-anura-kumara-to-meet-un-secretary-general-tonight-) · `en`
+
+President Anura Kumara Dissanayake is scheduled to meet the Secretary-General of the United Nations (UN) António Guterres tonight (25), in Sri Lankan time, in New York, according to the President’s Media Division (PMD).
+
+Secretary-General Guterres has arrived in the city to attend the 80th session of the United Nations General Assembly (UNGA), it said.
+
+Additionally, President Dissanayake will participate in a meeting with Sri Lankans residing in the United States, the PMD added.
+
+Meanwhile, Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath is expected to attend a series of diplomatic meetings throughout the day.
+
+◼️
+
+[Data](articles/f03af7da.json)
+
+[Extended Data](ext_articles/f03af7da.ext.json)
 
 ---
 
@@ -71,6 +111,26 @@ The Australian cricket also played the Australian first cricket, and he also pla
 [Data](articles/6e8648b8.json)
 
 [Extended Data](ext_articles/6e8648b8.ext.json)
+
+---
+
+### Palestinian leader pledges to work with Trump, others on UN-backed Gaza plan
+
+*2025-09-25 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112920/palestinian-leader-pledges-to-work-with-trump-others-on-un-backed-gaza-plan) · `en`
+
+Palestinian President Mahmoud Abbas pledged at the United Nations on Thursday to work with U.S. President Donald Trump, Saudi Arabia, France and the United Nations on a peace plan for Gaza overwhelmingly backed by the world body.
+
+The 193-member U.N. General Assembly earlier this month overwhelmingly endorsed a seven-page declaration that aims to advance a two-state solution for Israel and the Palestinians and end the war in Gaza between Israel and Hamas militants.
+
+The declaration emerged from an international conference at the U.N. in July - hosted by Saudi Arabia and France - on the decades-long conflict. The United States and Israel boycotted the event and have rejected the international efforts.
+
+Separately, U.S. special envoy Steve Witkoff said on Wednesday that Trump had presented a 21-point peace plan for the Middle East and Gaza during a meeting with leaders of several Muslim-majority countries on the sidelines of this week’s U.N. General Assembly.
+
+...
+
+[Data](articles/9316e417.json)
+
+[Extended Data](ext_articles/9316e417.ext.json)
 
 ---
 
@@ -119,6 +179,24 @@ Dr. Hans Wijayasuriya of Dr. Hans Wijayasuriya, Information Technology Agency of
 [Data](articles/1cb57319.json)
 
 [Extended Data](ext_articles/1cb57319.ext.json)
+
+---
+
+### Agricultural Insurance Board disburses Rs. 1,669 mln to farmers
+
+*2025-09-25 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112919/agricultural-insurance-board-disburses-rs-1669-mln-to-farmers) · `en`
+
+The Agricultural and Agrarian Insurance Board has disbursed Rs. 1,669 million under the National Crop Insurance Scheme, providing support to 81,234 farmers cultivating paddy, maize, chilli, and potato.
+
+The board also highlighted the implementation of several cattle and goat insurance projects under the Livestock Insurance Scheme, aimed at safeguarding livestock farmers.
+
+In addition, the board reported a significant increase in its financial assets, which have grown to Rs. 2,491 million this year.
+
+◼️
+
+[Data](articles/cca32c83.json)
+
+[Extended Data](ext_articles/cca32c83.ext.json)
 
 ---
 
@@ -1999,85 +2077,5 @@ The number of accident occurred near the Talawa Mirigama Junction on the Anuradh
 [Data](articles/578c14c6.json)
 
 [Extended Data](ext_articles/578c14c6.ext.json)
-
----
-
-### Minister Vijitha Herath discusses with Foreign Ministers Maldives, Finland and Germany
-
-*2025-09-25 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226028) · `ta`
-
-External Affairs Minister Vijitha Herath Maldives, Finance and Germany, who has visited the United States to attend the 80th General Assembly session of the United Nations, has held bilateral discussions with Foreign Ministers.
-
-Minister Vijitha Herath meets Maldivian Foreign Minister Abdullah Khalil. Both reviewed cooperation and analyzed ways to further strengthen bilateral relationships.
-
-Meanwhile, Vijitha Herath also met Foreign Minister Elena Waltonan.. Debates on strengthening cooperation between Sri Lanka and Finland were focused.
-
-During a meeting with German Foreign Minister Seraf Gular, Foreign Minister Vijitha Herath discussed the promotion of bilateral cooperation and the shared perspectives on major global issues.
-
-◼️
-
-[Data](articles/69bfb717.json)
-
-[Extended Data](ext_articles/69bfb717.ext.json)
-
----
-
-### கற்பிட்டியில் விபத்து : பாதசாரி உயிரிழப்பு
-
-*2025-09-25 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226027) · `ta`
-
-A pedestrian has died after a motorcycle crashed into a pedestrian in the Balaviya area of ​​the Kalpitiya police division.
-
-The motorcycle driver and the pedestrian were seriously injured in the accident.
-
-◼️
-
-[Data](articles/6100bb2a.json)
-
-[Extended Data](ext_articles/6100bb2a.ext.json)
-
----
-
-### Sexual abuse of two daughters: 20 years in prison for father
-
-*2025-09-25 10:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-மகள்களை-பாலியல்-துஷ்பிரயோகம்-தந்தைக்கு-20-வருட-கடூழிய-சிறை/175-365258) · `ta`
-
-Batticaloa High Court Judge RJ Prabhakaran has ruled that his 7 and 8 -year -old daughters were raped in 2016 and a two -year imprisonment for two years of rigorous imprisonment for 4 crimes and Rs.
-
-A 56 -year -old father from a area in the district was arrested in October 2016 after sexual abuse
-
-The police have registered a case in the Supreme Court on four charges against the arrested person and later released on bail.
-
-On September 27 last year, he was found guilty of evidence, evidence and legal doctor's report on four allegations for sexually abusing girls for 16 years.
-
-When the case was taken up in the presence of Batticaloa High Court Judge TJ Prabhakaran on Friday, the first offense of sexually abusing an 8 -year -old girl was sentenced to 20 years in prison and 10 thousand rupees and 10 thousand rupees for the second offense.
-
-...
-
-[Data](articles/a3c8ed3f.json)
-
-[Extended Data](ext_articles/a3c8ed3f.ext.json)
-
----
-
-### Death toll in Thalawa van-lorry crash climbs to four
-
-*2025-09-25 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112900/death-toll-in-thalawa-van-lorry-crash-climbs-to-four-) · `en`
-
-The death toll in the accident that occurred along the Kurunegala–Anuradhapura main road has risen to four, according to police.
-
-One of the individuals who was hospitalized following the accident has succumbed to his injuries.
-
-Three individuals died while four others sustained injuries in a head-on collision between a lorry and a van in the Thalawa–Mirigama junction along the Kurunegala–Anuradhapura main road this morning (25).
-
-The lorry was traveling from Anuradhapura towards Kurunegala, while the van was also traveling in the opposite direction, according to police.
-
-Seven individuals, including the drivers of both vehicles were admitted to Thalawa and Anuradhapura hospitals. Among the passengers of the van, three have lost their lives.
-
-◼️
-
-[Data](articles/23334030.json)
-
-[Extended Data](ext_articles/23334030.ext.json)
 
 ---

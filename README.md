@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 14:56:14**
+As of **2025-09-25 15:07:47**
 
 ## Newspaper Stats
 
-*Scraped **78,095** Articles*
+*Scraped **78,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,590
 adaderanalk | 10,149
-tamilmirrorlk | 11,774
-virakesarilk | 12,705
+tamilmirrorlk | 11,775
+virakesarilk | 12,708
 adaderanasinhalalk | 13,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,094 (100.0%) of 78,095 articles have been extended.
+78,095 (100.0%) of 78,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### டென்மார்க்கில் பல விமான நிலையங்களில் அடையாளம் தெரியாத ட்ரோன்கள் தென்படுவதாக தகவல்
+
+*2025-09-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226052) · `ta`
+
+டென்மார்க்கின் பல விமான நிலையங்களில் அடையாளம் தெரியாத ட்ரோன்கள் ட்ரோன் தென்படுவதாக தகவல் வெளியானதை அடுத்து ஆல்போர்க் விமான நிலையம் மூடப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+மூன்று சிறிய விமான நிலையங்களில் இன்று வியாழக்கிழமை (25) அதிகாலை ட்ரோன்கள் தென்பட்டதாக, டேனிஷ் பொலிஸ் உறுதிப்படுத்தியுள்ளது.
+
+டென்மார்க்கின் முக்கிய விமான நிலையமான கோபன்ஹேகன் விமான நிலையம் தற்காலிகமாக மூடப்பட்டிருந்த நிலையில், வணிக மற்றும் இராணுவ விமானங்களுக்குப் பயன்படுத்தப்படும் ஆல்போர்க் விமானநிலையமும் தற்போது மூடப்பட்டுள்ளது.
+
+எஸ்டோனியன், போலந்து மற்றும் ருமேனிய வான்வெளியில் ட்ரோன்கள் மற்றும் விமானங்களுடன் தொடர்புடைய, அண்மைய சம்பவங்கள், ரஷ்யா நேட்டோ பாதுகாப்புகளை சோதித்து வருவதாக கூறப்படும் குற்றச்சாட்டுகளுக்கு வழிவகுத்தன.
+
+இதன் பின்னணியில் உள்ளவர்களை விசாரித்து வருவதாகவும், ஒரு வேடிக்கையான என்பதை நிராகரிக்க முடியவில்லை எனவும் டென்மார்க் பொலிஸ் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/4d468388.json)
+
+---
 
 ### There are no animals in Nedundi
 
@@ -52,6 +72,22 @@ The Deputy Minister of Industry and Livestock Resources Namal Karunaratne has sa
 
 ---
 
+### பெக்கோ சமனின் மனைவிக்கு விளக்கமறியல் நீடிப்பு
+
+*2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
+
+இந்தோனேசியாவில் பிரபல போதைப்பொருள் கடத்தல்காரர்கள் மற்றும் குற்றவியல் கும்பல் உறுப்பினர்களுடன் இருந்தபோது கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான பெக்கோ சமன் மனைவியின் விளக்கமறியல்  அடுத்த மாதம் 9 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது. இதற்கான உத்தரவு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகமவினால் வியாழக்கிழமை (25) பிறப்பிக்கப்பட்டது.
+
+மித்தெனிய பகுதியில் சந்தேகநபர் சஜிகா லக்ஷனி செய்ததாகக் கூறப்படும் போதைப்பொருள் குற்றச்சாட்டுகள் தொடர்பான அறிக்கையை சமர்ப்பிக்குமாறு சிஐடிக்கு நீதிமன்றம்  உத்தரவிடப்பட்டது.
+
+புகார்தாரர் சார்பாக அரசு வழக்கறிஞர் மற்றும் சந்தேகநபரின் வழக்கறிஞர்கள் அளித்த சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/533e71c6.json)
+
+---
+
 ### Puko saman's wife
 
 *2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
@@ -67,6 +103,28 @@ The order was issued after considering the submissions made by the State Prosecu
 [Data](articles/7e54774a.json)
 
 [Extended Data](ext_articles/7e54774a.ext.json)
+
+---
+
+### வனவிலங்கு கணக்கெடுப்பின் போது பொதுமக்களால் வழங்கப்பட்ட தரவுகளில் 50 சதவீதமானவை மாத்திரமே துல்லியமானவை : பிரதி அமைச்சர்
+
+*2025-09-25 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226045) · `ta`
+
+அண்மையில் வனவிலங்கு கணக்கெடுப்பின் போது பொதுமக்கள் வழங்கிய தகவல்களில் சுமார் 50 சதவீதமானவையே துல்லியமானது என கமத்தொழில் மற்றும் கால்நடை வளங்கள் பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் இன்று வியாழக்கிழமை (25) உரையாற்றும் போதே இந்தத் தகவலை அவர் வழங்கினார்.
+
+உணவுப் பயிர்களுக்கு தீங்கு விளைவிக்கும் விலங்குகளை அடையாளம் காணவும், அவற்றை முறையாக ஆய்வு செய்யவும், தகுந்த நடவடிக்கை எடுக்கவும் நோக்கமாகக் கொண்டு, 2025 மார்ச் மாதம் 15 ஆம் திகதியன்று நாடு முழுவதும் வனவிலங்கு கணக்கெடுப்பு நடத்தப்பட்டது.
+
+நாடு முழுவதும் ஒரே நேரத்தில் மக்களினால் குரங்குகள், மக்கா குரங்குகள், மயில்கள் மற்றும் இராட்சத அணில் போன்ற விலங்குகளை அடிப்படையாகக் கொண்டு கணக்கெடுப்பு நடத்தப்பட்டது.
+
+குரங்குகள் மற்றும் மக்கா குரங்குகள் பற்றி பொதுமக்கள் வழங்கிய தரவுகளில் 50 சதவீதமானவையே துல்லியமானது என்பது உறுதிப்படுத்தப்பட்டதாக பிரதி அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+தரவுகள் சரிபார்ப்பின் போது, குரங்குகள் மற்றும் மக்கா குரங்குகள் பற்றி பொதுமக்கள் அளித்த தகவல்களில் 50சதவீதமானவை துல்லியமானது என்பது உறுதிப்படுத்தப்பட்டது.
+
+...
+
+[Data](articles/f71397e7.json)
 
 ---
 
@@ -141,6 +199,24 @@ Forty-year-old suspect arrested by police and produced before the Siyambalanduwa
 [Data](articles/43a8955d.json)
 
 [Extended Data](ext_articles/43a8955d.ext.json)
+
+---
+
+### பாதாள உலக குழுத் தலைவர் பெக்கோ சமன் மனைவிக்கு மீண்டும் விளக்கமறியல்
+
+*2025-09-25 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226042) · `ta`
+
+பணமோசடி தடுப்புச் சட்டத்தின் கீழ் தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள பாதாள உலகக் குழுத் தலைவர் ‘பெக்கோ சமன்’ என்பவரின் மனைவி ஷாதிகா லக்ஷானியை, ஒக்டோபர் மாதம் 9 ஆம் திகதிவரை விளக்கமறியலில் வைக்க கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+குற்றப் புலனாய்வுத் திணைக்களம் மற்றும் சந்தேக நபரின் சட்டத்தரணிகள் சமர்ப்பித்த சமர்ப்பிப்புகளை பரிசீலித்த பின்னர், கொழும்பு பிரதம நீதவான் அசங்க எஸ்.போதரகம இந்த உத்தரவைப் பிறப்பித்தார்.
+
+மித்தெனியவில் இடம்பெற்றதாக கூறப்படும் போதைப்பொருள் கடத்தல் நடவடிக்கைகளுடன் சந்தேக நபர் எவ்வாறு தொடர்புடையவர் என்பது குறித்த ஆதாரங்களின் சுருக்கத்தை அடுத்த நீதிமன்றத் திகதியில் சமர்ப்பிக்குமாறும் நீதவான் இதன்போது குற்றப்புலனாய்வு திணைக்களத்தினருக்கு அறிவுறுத்தியுள்ளார்.
+
+ஆகஸ்ட் மாதம் 29 ஆம் திகதி பண்டாரநாயக்க சர்வதேச விமான நிலையத்தை வந்தடைந்த பாதாள உலகக் குழுத் தலைவர் ‘பெக்கோ சமன்’ என்பவரின் மனைவி மற்றும் குழந்தை, குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டிருந்தனர்.
+
+◼️
+
+[Data](articles/6651490b.json)
 
 ---
 
@@ -420,21 +496,25 @@ The Magistrate also ordered the CID to the Criminal Investigation Department (CI
 
 ---
 
-### පොහොට්ටුවේ තිස්ස කුට්ටි අපුරට එපා කියයි
+### Tissa blocks in the poverty say no
 
 *2025-09-25 11:39:47* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තිස්ස-කුට්ටි-අපුරට-එපා-කියයි/11-418715) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයකු වන තිස්ස කුට්ටිආරච්චි මහතා දේශපාලන වේදිකාවට සුදුස්සකු වුවද අනුරාධපුර දිස්ත්‍රික්කයේ ජනතාවට නායකත්වය ලබා දිය හැකි ජනතා නායකයෙකු නොවන බව ශ්‍රී ලංකා පොදු ජනපෙරමුණේ අනුරාධපුර දිස්ත්‍රික් පළාත් පාලන සභාපතිවරු ඇතුළු නියෝජිතයින් පවසයි.
+Former Parliamentarian Tissa Kuttiarachchi is not a leader of the Anuradhapura district, but is not a people leader to the people of the Anuradhapura district.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අනුරාධපුර දිස්ත්‍රික් නායකයා ලෙස හිටපු අමාත්‍යවරයකු වන තිස්ස කුට්ටිආරච්චි මහතා දිස්ත්‍රික්කයේ ජ්‍යෙෂ්ඨයන් මගහැර වෙනත් ගමනක යමින් සිටින බවත් නිල නොලත් නාමල් රාජපක්ෂගේ රජයේ නිල නොලත් ජනාධිපතිවරයා එතුමන් බව ප්‍රකාශ කළද එවැනි තනතුරක් පිළිබඳව ආණ්ඩු ක්‍රම ව්‍යවස්ථාවෙවත් දැක නැති බවත් අනුරාධපුර මහ නගර සභාවේ හිටපු නගරාධිපති එච්.පී. සෝමදාස මහතා පැවසීය.
+Former minister Tissa Kuttiarachchi as the officials of the Sri Lanka General Minister Tissa Kuttiarachchi, the officials of the Sri Lanka District, is on a different journey in the district, the Constitution of Anuradhapura has not seen such a post, former judicial HP. Mr. Somadasa said.
 
-හිටපු නගරාධිපතිවරයා මේ බව පැවසුවේ ශ්‍රී ලංකා පොදු ජන පෙරමුණේ හිටපු  අනුරාධපුර දිස්ත්‍රික් පළාත් පාලන සභාපතිවරු ඇතුළු නියෝජිතයින් ඊයේ (24දා) අනුරාධපුරයේදී පැවැත්වූ හදිසි මාධ්‍ය සාකච්ඡාවකදීය.
+The former Mayor said this at a press conference held in Anuradhapura yesterday (24), former Anuradhapura District Local Government Chairmen.
 
-ඉතිහාසයේ සිටම වැදගත් පුද්ගලයන් අනුරාධපුර  දිස්ත්‍රික්කයට නායකත්වය ලබා දුන් අතර ඉදිරියේදී ද එවැනි පුද්ගලයන් දිස්ත්‍රික්කයට අවශ්‍ය බව හිටපු නගරාධිපති පැවසීය.
+The leadership of the people from history have been led by Anuradhapura District, while the district needs the district.
+
+He further stated that the people of Tissa Kuttiarachchi in the Anuradhapura district should be a strong opposition of the people and the district leadership in the Anuradhapura district.
 
 ...
 
 [Data](articles/59197c39.json)
+
+[Extended Data](ext_articles/59197c39.ext.json)
 
 ---
 
@@ -1907,81 +1987,5 @@ Mohotti was arrested by the Criminal Investigation Department on 18 September on
 [Data](articles/5d7e60a8.json)
 
 [Extended Data](ext_articles/5d7e60a8.ext.json)
-
----
-
-### Sri Lanka, Philippines to strengthen judicial cooperation with new agreements
-
-*2025-09-25 03:50:18* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Philippines-to-strengthen-judicial-cooperation-with-new-agreements/56-782150) · `en`
-
-In a move to enhance international cooperation in criminal justice, the Cabinet of Ministers on Monday approved two key agreements between Sri Lanka and the Republic of the Philippines to strengthen legal collaboration and prisoner rehabilitation.
-
-The first agreement focuses on mutual legal cooperation in criminal matters, which involves assistance between the two States in delivering judicial documents, collecting evidence, and facilitating criminal investigations and prosecutions.
-
-Addressing the weekly post-Cabinet meeting media briefing on Tuesday, Cabinet Spokesman and Minister Dr. Nalinda Jayatissa noted that formalising such cooperation will help curb cross-border criminal activities while ensuring more effective suppression of offenders.
-
-In addition, the Cabinet of Ministers also approved the signing of an extradition agreement on sentenced persons.
-
-...
-
-[Data](articles/a352ce03.json)
-
-[Extended Data](ext_articles/a352ce03.ext.json)
-
----
-
-### Police publish hotline list for drug-related complaints
-
-*2025-09-25 03:48:12* · [`dailyftlk`](https://www.ft.lk/news/Police-publish-hotline-list-for-drug-related-complaints/56-782149) · `en`
-
-Sri Lanka Police have released a list of contact numbers for members of the public to inform on narcotics-related incidents.
-
-Accordingly, the general public can directly contact the mobile phone number of the relevant Senior Deputy Inspector General (SDIG) of Police and inform them of incidents related to the widespread presence of narcotic substances such as heroin, ‘Ice’, cocaine, and cannabis in various regions of the country.
-
-Police stated that the SDIGs will promptly take necessary actions, including conducting arrests and operations, and take further legal measures to protect the confidentiality of the information provided.
-
-The Police Headquarters said it greatly values the support given by citizens in eliminating drug-related issues, and the mobile phone numbers of the relevant SDIGs of Police in charge of the provinces are provided below.
-
-◼️
-
-[Data](articles/f9825dab.json)
-
-[Extended Data](ext_articles/f9825dab.ext.json)
-
----
-
-### Court permits to investigate a youth involved in various sword incidents in Jaffna
-
-*2025-09-25 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226010) · `ta`
-
-A suspect in Jaffna has been arrested at Katunayake airport on Tuesday 23rd.
-
-Based on his investigation, two swords were recovered on Wednesday (24).
-
-In this case, he was produced before the Jaffna court on Wednesday (24). The police have sought permission to investigate him for two days in police detention. It is noteworthy that the court also granted permission for the police.
-
-◼️
-
-[Data](articles/1c8b676f.json)
-
-[Extended Data](ext_articles/1c8b676f.ext.json)
-
----
-
-### Proposal removal
-
-*2025-09-25 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226009) · `ta`
-
-The term 'conflict' is the term "conflict"; Removal of a verbal report submission of the 61st and 64th meeting
-
-According to the current amendments to the new proposals related to Sri Lanka by the British -led internet countries, the word 'ethnic problem' has been replaced by the word conflict and the government's abolitionist judiciary to establish an exclusive judiciary with the participation of an independent lawyer to investigate the crimes against international humanitarian law.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The first draft of the 60/L.1 new proposal on Sri Lanka was published on Sri Lanka under the title 'Reconciliation, Responsibility and Human Rights Improves' by the Internet countries including Canada, Malavi, Montenegro and North Mesitonia, which will be implemented during the meeting.
-
-...
-
-[Data](articles/1cabb51d.json)
-
-[Extended Data](ext_articles/1cabb51d.ext.json)
 
 ---

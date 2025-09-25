@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 21:39:01**
+As of **2025-09-25 22:22:42**
 
 ## Newspaper Stats
 
-*Scraped **78,159** Articles*
+*Scraped **78,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,87 @@ adalk | 7,599
 adaderanalk | 10,157
 tamilmirrorlk | 11,785
 virakesarilk | 12,717
-adaderanasinhalalk | 13,654
+adaderanasinhalalk | 13,656
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,157 (100.0%) of 78,159 articles have been extended.
+78,160 (100.0%) of 78,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### AI භාවිතය පිළිබඳව මධ්‍යම පළාත් රාජ්‍ය නිලධාරීන් දැනුවත් කිරීම හෙට
+### ඉන්දීය වාර්තාපොත් අලුත්කරමින් බිග් බෑෂ් ක්‍රීඩා කරන්න යන අශ්වින්
+
+*2025-09-25 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215014) · `si`
+
+ඔස්ට්‍රේලියාවේ ප්‍රමුඛතම ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගය වන 'බිග් බෑෂ්' ලීග් තරගාවලියේ එළැඹෙන අදියර සඳහා ඉන්දීය හිටපු තුන්ඉරියව් ක්‍රීඩක රවිචන්ද්‍රන් අශ්වින් ක්‍රීඩා කිරීමට නියමිතය.
+
+මේ වනවිට 39 හැවිරිදි වියේ පසුවන ඔහු සිඩ්නි තන්ඩර් සමගින් ගිවිසුම් අත්සන් තබා තිබේ.
+
+ඒ අනුව ඉන්දීය ජාතික කණ්ඩායමක් නියෝජනය කර 'බිග් බෑෂ්' ලීග් තරගාවලියට ක්‍රීඩාකරන පළමු ඉන්දීය ක්‍රීඩකයා බවට අශ්වින් පත්වනු ඇත.
+
+'බිග් බෑෂ්' ලීග් කාන්තා තරගාවලියට ඉන්දීය ක්‍රීඩිකාවන් ක්‍රීඩා කළද, එරට ජාතික කණ්ඩායම නියෝජනය කරන ක්‍රීඩකයන්ට IPL හැරෙන්න කිසිඳු  ෆ්‍රැන්චයිස් ක්‍රිකට් ලීගයක් ක්‍රීඩාකිරීමට අවසර නොමැත.
+
+ඉන්දීය හිටපු 19න් පහළ නායක උන්මුක්ට් චන්ද් මෙන්ම එරට පළමුපෙළ ක්‍රීඩක නිඛිල් චෞද්‍රි දෙදෙනාම මෑත වසරවලදී බිග් බෑෂ් ලීග ක්‍රීඩාකර තිබේ.
+
+කෙසේ නමුත් ඔවුන්ගෙන් චන්ද් මේ වනවිට ඉන්දියාව අතහැර අමෙරිකාවේ පුරවැසිභාවය ලබා ඇත.
+
+එමෙන්ම චෞද්‍රි ද ඔස්ට්‍රේලියානු පළමුපෙළ ක්‍රිකට් ක්‍රීඩාකරන අතර, ඔහු මෙම මාසයේ දී ටස්මේනියාව වෙනුවෙන් List A මංගල තරගයට ද ක්‍රීඩා කළේය.
+
+◼️
+
+[Data](articles/6e8648b8.json)
+
+---
+
+### 26 Unauthorized camps in Piduruthalagala forest reserve
+
+*2025-09-25 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215013) · `si`
+
+A total of 26 youths who had been able to enter the Piduruthalagala forest reserve.
+
+The group was responding to the officers of the officials of the site and Nuwara Eliya sites and released.
+
+The suspects had guided the guilty, including Nuwara Eliya Magistrate Phiraudika.
+
+She was ordered to adjourn the case until October 16 to punish the suspects.
+
+The suspects were arrested on a raid conducted on information received by the officers of the Nuwara Eliya Reserve to enter the Pidurutalagala forest reserve area.
+
+They are residents of many parts of the island, including Galle, Panadura and Kurunegala, who are 25-only age groups.
+
+◼️
+
+[Data](articles/b1875b73.json)
+
+[Extended Data](ext_articles/b1875b73.ext.json)
+
+---
+
+### Awareness is to educate Central Provincial Officers on Use of AI
 
 *2025-09-25 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215012) · `si`
 
-රජයේ ඩිජිටල්කරණ වැඩසටහන සහ AI තාක්ෂණ භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් පළාත් මට්ටමින් දැනුවත් කිරීමේ වැඩසටහන් මාලාවෙහි පළමු පළාත් වැඩසටහන හෙට (26) ප.ව 1.30ට මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත් වේ.
+Government Executive Officers on Government Digitization Program and AI Technology
 
-රජයේ ඩිජිටල්කරණ සැලසුම් පැහැදිලි කිරීම සහ AI තාක්ෂණ භාවිතය පිළිබඳව නිලධාරීන්ගේ සාක්ෂරතාවය ඉහළ නැංවීමේ අරමුණින් සිදු කරනු ලබන මෙම වැඩසටහන මධ්‍යම පළාත් සභාව, දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල සහ රජයේ අනෙකුත් ආයතනවල සියලුම විධායක නිලධාරින්ගේ සහභාගීත්වයෙන් පැවැත්වීමට සැලසුම් කර තිබේ.
+The program is scheduled to be held under the participation of the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on increasing government digital plans.
 
-ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව රජයේ නිලධාරීන් දැනුවත් කිරීමේ වැඩසටහන් 6ක් කොළඹ කේන්ද්‍ර කරගනිමින් මේ වන විට පවත්වා ඇති අතර ඒ සඳහා නිලධාරීන් 4000කට වැඩි පිරිසක් සහභාගී විය.
+Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
 
-සියලු පළාත් ආවරණය වන පරිදි පළාත් මට්ටමින් මෙම වැඩසටහන පවත්වා රජයේ ඩිජිටල්කරණ සැලසුම පිළිබඳ රාජ්‍ය නිලධාරියාගේ කාර්යභාරය සහ AI තාක්ෂණය රජයේ කටයුතු සඳහා භාවිතයට යොදා ගැනීම පිළිබඳව කොළඹින් බැහැර සිටින සියලුම රාජ්‍ය නිලධාරීන් දැනුවත් කිරිමට සැලසුම් කර ඇත.
+It is planned to educate all government officials who are outside Colombo about the functioning of the State Officer and AI technology to use this program at the provincial digitization plan to cover all provinces.
 
-...
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+Dr. Hans Wijayasuriya of Dr. Hans Wijayasuriya, Information Technology Agency of the Information Technology Agency
+
+◼️
 
 [Data](articles/1cb57319.json)
+
+[Extended Data](ext_articles/1cb57319.ext.json)
 
 ---
 
@@ -350,19 +404,21 @@ At December 31, 2025, the Digital Task Force officials have pointed out that the
 
 ---
 
-### ප්‍රංශ හිටපු ජනපතිට වසර පහක සිර දඩුවම්
+### Former French President sentenced to prison
 
 *2025-09-25 18:06:47* · [`adalk`](https://www.ada.lk/international/ප්‍රංශ-හිටපු-ජනපතිට-වසර-පහක-සිර-දඩුවම්/3-418726) · `si`
 
-තම ජනපතිවරණ ව්‍යාපාරය වෙනුවෙන් ලිබියානු නායක කර්නල් මුවම්මර් ගඩාෆිගෙන් යුරෝ මිලියන ගණනක නීති විරෝධී අරමුදල් ලබා ගැනීමේ නඩුවට අදාළව වරදකරු වූ හිටපු ප්‍රංශ ජනාධිපති නිකොලස් සාකෝසිට වසර පහක සිර දඬුවමක් නියම කර තිබේ.
+Libyan captain Colonel Muammar Gaddafgan has been sentenced to a five-year imprisonment in connection with the presence of the President's Presidential Fund.
 
-නඩු විභාගයෙන් පසු මාධ්‍යවේදීන් අමතමින්, 2007 සිට 2012 දක්වා ප්‍රංශයේ ජනාධිපතිවරයා ලෙස කටයුතු කළ 70 හැවිරිදි සාකෝසි පැවැසුවේ තීන්දුව "නීතියේ ආධිපත්‍යයට අතිශයින්ම බරපතල" එකක් ලෙස හැඳින්වීය.
+After the trial, the 70-year-old Sarkoy, the President of France from 2007 to 2012, was the President of France from 2007 to 2012 and called the verdict as a "extremely serious" to the domination of law.
 
-නඩුව දේශපාලනික වශයෙන් අභිප්‍රේරණය වී ඇති බව පවසන සාකෝසිට, 2007 මැතිවරණ ව්‍යාපාරයට මුදල් යෙදවීම සඳහා ගඩාෆිගෙන් ලැබුණු අරමුදල් භාවිතා කළ බවට චෝදනා එල්ල විය
+Sarkoy said the case was politically motivated by the 2007 funds received from Gaddafiga to finance the 2007 election campaign
 
 ◼️
 
 [Data](articles/661693f0.json)
+
+[Extended Data](ext_articles/661693f0.ext.json)
 
 ---
 
@@ -2029,51 +2085,5 @@ He was subsequently placed in a special camp for Sri Lankan refugees in Trichy a
 [Data](articles/1a21d169.json)
 
 [Extended Data](ext_articles/1a21d169.ext.json)
-
----
-
-### Vehicle accident in Nitambuwa; Police Constable Death!
-
-*2025-09-25 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226026) · `ta`
-
-A tipper lorry traveling from Colombo to Kandy near Nambuluwa junction on the Colombo -Kandy main road belonging to the Nittambuwa police division has been killed when a motorcycle crashed into a motorcycle from the opposite direction.
-
-The driver of the motorcycle was seriously injured and died after being admitted to the Vatupitivala hospital.
-
-The 33 -year -old police constable from Varakapola, Mahenagama, was revealed.
-
-◼️
-
-[Data](articles/2a011c17.json)
-
-[Extended Data](ext_articles/2a011c17.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-25 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241832/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.50/55 to the US dollar on Thursday, relatively flat from 302.45/55 the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.06.2029 was quoted at 9.40/50 percent.
-
-A bond maturing on 15.12.2029 was quoted at 9.50/60 percent, down from 9.50/56 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/75 percent, up from 9.68/73 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/10 percent.
-
-A bond maturing on 15.10.2032 was quoted at 10.40/45 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.43/48 percent.
-
-The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.0000 selling; the British pound was 401.4648 buying, and 412.8266 selling, and the euro was 349.0494 buying, 360.4126 selling.
-
-...
-
-[Data](articles/166c8a4d.json)
-
-[Extended Data](ext_articles/166c8a4d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 18:45:24**
+As of **2025-09-25 19:01:56**
 
 ## Newspaper Stats
 
-*Scraped **78,132** Articles*
+*Scraped **78,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 790
-economynextcom | 4,707
+economynextcom | 4,717
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
@@ -26,43 +26,71 @@ adaderanasinhalalk | 13,650
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,129 (100.0%) of 78,132 articles have been extended.
+78,132 (100.0%) of 78,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### ජනපති අද එක්සත් ජාතීන්ගේ මහ ලේකම් හමුවෙයි
+### President meets UN Secretary-General
 
 *2025-09-25 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215007) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ එක්සත් ජාතීන්ගේ මහ ලේකම් අන්තෝනියෝ ගුටේරෙස් මහතා අතර හමුව ශ්‍රී ලංකා වේලාවෙන් අද (25) රාත්‍රියේ පැවැත් වීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+President Anura Kumara Dissanayake and the United Nations Secretary-General Association will be held at Sri Lanka this night.
 
-එමෙන්ම, ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජනපදයේ වෙසෙන ශ්‍රී ලාංකිකයින් සමග හමුවකටද අද සහභාගී වෙයි.
+President Anura Kumara Dissanayake is also present at the meeting with Sri Lankans living in the United States.
 
-මේ අතර විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද අද රාජ්‍ය තාන්ත්‍රික හමුවීම් රැසකට එක්වීමට නියමිතව තිබේ.
+Meanwhile, Foreign Affairs and Tourism and Tourism Vijitha Herath are also expected to join a number of diplomatic appointments today.
 
 ◼️
 
 [Data](articles/e8b066b2.json)
 
+[Extended Data](ext_articles/e8b066b2.ext.json)
+
 ---
 
-### 2026 දී අධ්‍යාපන ක්ෂේත්‍රයේ ඩිජිටල් පරිවර්තනයකට සැලසුම්
+### Sri Lanka exporters urge govt to delay SVAT removal until proper refunding system in place
+
+*2025-09-25 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-urge-govt-to-delay-svat-removal-until-proper-refunding-system-in-place-241927/) · `en`
+
+ECONOMYNEXT – Sri Lanka exporters collectively have urged the government to delay the removal of SVAT, a tax they have to pay up front when they export before they receive the money from buyers.
+
+The exporters will have to pay interest on cash flow given to the state as a result of charging value added tax on local inputs, following the scrapping of the so-called SVAT scheme, which is a tax payment system based on vouchers.
+
+The government has said the existing SVAT will be removed from October 1.
+
+“The government’s argument that they want to remove SVAT is that some leakages are happening. What we are telling them is if there are leakages happening, don’t carpet bomb all of us. You deal with that. That’s the job of the IRD (Inland Revenue Department),” Shiham Marikkar, Secretary General/CEO at National Chamber of Exporters of Sri Lanka (NCESL).
+
+“That’s their problem. They have to deal with that. You cannot carpet bomb all of the exporters.”
+
+...
+
+[Data](articles/234d3092.json)
+
+---
+
+### Plans to a digital transformation in the education sector in 2026
 
 *2025-09-25 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215006) · `si`
 
-2026 වසරේ මාර්තු වනවිට අධ්‍යාපන ක්‍ෂේත්‍රයේ ඩිජිටල් පරිවර්තනයට අදාළ ප්‍රතිපත්ති රාමුව සම්මත කරගැනීම සඳහා අමාත්‍ය මණ්ඩල අනුමතියට යොමු කිරීමට අපේක්ෂා කරන බව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධව ඩිජිටල් කාර්ය සාධක බළකායේ සැලැස්ම ඉදිරිපත් කරමින් එම නිලධාරීහු පවසා තිබේ.
+The officials have said that the Digital Task Force has said that the Digital Task Force Plan is on the basis of the study framework of the education framework for the digital translation of the education sector by March 2026.
 
-අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ අනු කාරක සභාව අග්‍රාමාත්‍ය සහ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය ආචාර්ය හරිනි අමරසූරියගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී මේ බව පවසා ඇත.
+This was stated when the Committee on Education Reforms on the Ministry of Education, Higher Education and Professional Education
 
-මෙහිදී අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධව ඩිජිටල් කාර්ය සාධක බලකායේ යෝජිත සැලැස්ම ඉදිරිපත් කරමින් එම නිලධාරිහු අංශය 6ක් ඔස්සේ මෙම ප්‍රතිසංස්කරණ තුළ ඩිජිටල් ක්‍රියාවලිය සිදු කිරීමේ අවශ්‍යතාව පෙන්වා දී තිබේ.
+The officers of the Digital Task Force have made the proposed plan of the Digital Task Force on six sectors.
 
-ඒ අනුව ඩිජිටල්කරණය ඔස්සේ ගුරු හිඟයට සාධනීය පිළිතුරක් අපේක්ෂා කරන බව ඔවුන් පවසා ඇත.
+They have said that they seek a positive answer to the shortage of teachers along digitizing.
+
+Also, the digital process is expected to be held on the sectors including providing the school system in any catastrophical conditions, including ICT to educate the school system through digitalization of children.
+
+At December 31, 2025, the Digital Task Force officials have pointed out that there is a single or digital board, a single or digital board.
 
 ...
 
 [Data](articles/ea4b0a42.json)
+
+[Extended Data](ext_articles/ea4b0a42.ext.json)
 
 ---
 
@@ -134,6 +162,48 @@ Instead, the complaint was accused of supporting Gaddafi's reputation against Ga
 
 ---
 
+### Hemas Holdings to buy consumer products company in Kenya
+
+*2025-09-25 17:29:00* · [`economynextcom`](https://economynext.com/hemas-holdings-to-buy-consumer-products-company-in-kenya-241923/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hemas Holdings said that it has entered into a conditional share sale and purchase agreement to acquire a majority equity interest in a consumer products company based in Kenya.
+
+“Completion of the transaction is subject to the receipt of regulatory approvals, including from the Competition Authority of Kenya and the Central Bank of Sri Lanka, as well as satisfaction of other customary conditions precedent,” the company said in a stock exchange filing.
+
+The deal is expected to be finalized within the next 6 months.
+
+Hemas Holdings’ board approved on September 25 to proceed with the agreement, and further developments will be announced in due course, the company said. (Colombo/Sep25/2025)
+
+◼️
+
+[Data](articles/c6c83e57.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields steady
+
+*2025-09-25 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241909/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.50/55 to the US dollar on Thursday, relatively flat from 302.45/55 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 8.25/32 percent.
+
+A bond maturing on 15.09.2027 closed at 8.70/82 percent, up from 8.65/75 percent.
+
+A bond maturing on 15.12.2028 closed at 9.10/15 percent, up from 9.08/15 percent.
+
+A bond maturing on 15.12.2029 closed at 9.52/56 percent, up from 9.50/56 percent.
+
+A bond maturing on 01.07.2030 closed at 9.70/75 percent, up from 9.68/73 percent.
+
+A bond maturing on 15.12.2032 closed at 10.43/47 percent, down from 10.43/48 percent. (Colombo/Sep25/2025)
+
+◼️
+
+[Data](articles/bdff436e.json)
+
+---
+
 ### A Sri Lankan woman arrested in Hong Kong
 
 *2025-09-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215004) · `si`
@@ -164,17 +234,23 @@ However, despite risk signals, the two women have arrested the two women to take
 
 ---
 
-### සචිත්‍ර සේනානායකට අධිචෝදනා
+### Indicator to Sachithra Senanayake
 
 *2025-09-25 17:15:52* · [`adalk`](https://www.ada.lk/sports/සචිත්‍ර-සේනානායකට-අධිචෝදනා/9-418723) · `si`
 
-2020 වසරේ ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය අතරතුර ක්‍රීඩකයෙකුට තරග පාවා දීම සම්බන්ධයෙන් හිටපු ක්‍රිකට් ක්‍රීඩක සචිත්‍ර සේනානායක හට නීතිපතිවරයා විසින් අධිචෝදනා ගොනුකර තිබු අතර ඒ අනුව හම්බන්තොට මහාධිකරණ විනිසුරු දුමින්ද මුදුන්කොටුව විසින් අද (25) දින අධිචෝදනා භාරදීම සිදුකරනු ලැබුවා.
+In 2020, former cricketer Sachithra Senanayake had been indicted by the Attorney General on the betrayal of the competition at the Lanka Premier League.
 
-සචිත්‍ර සේනානායක වෙනුවෙන් පිනිසිටි අජිත් පතිරණ මහතා ප්‍රමුඛ නීතිඥ කණ්ඩායම විසින් අධිකරණය මහින් ඉල්ලා සිටියේ සචිත්‍ර සේනානායක විදේශ රටක ක්‍රීඩා කරනවා සේම විදෙස් රටක රැකියාවක් කරන බැවින් පනවා තිබු විදෙස් ගමන් තහනම ඉවත්කරන ලෙස ගරු මහාධිකරණය  මගින් ඉල්ලිමක් කර අතර පසුව එය සලකා බලමින් නොවැම්බර් 27 තෙක් තාවකාලිකව ඔහුට පනවා තිබු  විදෙස් ගමන් තහනම ඉවත් කරන ලදී, එමෙන්ම රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප දෙකක් මත සචිත්‍ර සේනානායක මුදා හැරීමටද හා නැවත මෙම නඩුව 2025 නොවැම්බර් 27ට කැඳවීමට  අධිකරණය නියෝග කරන ලදී.
+Sachithra Senanayake for Sauthawa Senanayake, the Hon. High Courts were invited to remove foreign travel ban in a foreign country and removed the foreign travel ban in a foreign country, and to release Sachithra Senanayake on two bail of Rs. And the court ordered to be summoned to November 27, annually.
 
-...
+Sachithra Senanayake did not appear to appear in the same case on the 9th of July 2025, where the court was appointed to appear in court today (25).
+
+This is the first time a competition is filed by a national directive to a national player in Sri Lanka under the Sports Metural Prevention Act.
+
+◼️
 
 [Data](articles/3040abc2.json)
+
+[Extended Data](ext_articles/3040abc2.ext.json)
 
 ---
 
@@ -213,6 +289,28 @@ The National Lotteries Board is in the audit report issued by the National Lotte
 [Data](articles/ec08de11.json)
 
 [Extended Data](ext_articles/ec08de11.ext.json)
+
+---
+
+### Sri Lanka stocks continue to climb on financials
+
+*2025-09-25 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-continue-to-climb-on-financials-241893/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) has continued its climb, ending at 0.86 percent on Thursday, data on its site showed.
+
+Continued interest in banks and financial sectors shares were seen.
+
+The broader ASPI climbed 182.61 points from Wednesday, to end at 21,521.06; while the more liquid S&P SL20 closed 0.47 percent, or 28.74 points higher, at 6,109.80.
+
+The top contributors to the ASPI were Sampath Bank (up 4.25 rupees at 146.25), Ceylon Tobacco Company (up 73.25 rupees at 1,672.25), Central Finance Company (up 14.50 rupees at 303.50), Senkadagala Finance (up 108.25 rupees at 699.00) and Distilleries Company (up 8.70 rupees at 55.90).
+
+Market turnover was 9.3 billion rupees on Thursday, while the share volume was 261,287,633.
+
+The Securities and Exchange Commission (SEC) of Sri Lanka presented its 12-step capital market reform agenda, which includes the demutualisation of the Colombo Stock Exchange, this week.
+
+...
+
+[Data](articles/03c51a51.json)
 
 ---
 
@@ -441,6 +539,26 @@ The suspect, a forty -year -old woman, has been arrested by the police and produ
 [Data](articles/8b9ab4c3.json)
 
 [Extended Data](ext_articles/8b9ab4c3.ext.json)
+
+---
+
+### Sri Lanka SEC unveils capital market reform plan, eyes demutualisation of CSE
+
+*2025-09-25 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-unveils-capital-market-reform-plan-eyes-demutualisation-of-cse-241879/) · `en`
+
+ECONOMYNEXT – The Securities and Exchange Commission (SEC) of Sri Lanka has presented its 12-step capital market reform agenda, which includes the demutualisation of the Colombo Stock Exchange.
+
+“This strategic framework comprises of 12 meaningful initiatives, including the demutualisation of the Colombo Stock Exchange, expansion of the corporate debt and collective investment schemes industry, the introduction of new financial instruments, and the establishment of a multi-asset class derivatives exchange,” Hareendra Dissabandara, SEC Chairman said.
+
+“We must have a vibrant capital market for the next generation.”
+
+“Not just shares and bonds, we should be able to deal with digital assets. People are more into crypto currency now, so we must facilitate that area.”
+
+Over the next decade the SEC’s strategy will be driven by the twelve key developmental and regulatory priorities, which aim to deliver three core outcomes, he said;
+
+...
+
+[Data](articles/f0e2d4af.json)
 
 ---
 
@@ -854,6 +972,28 @@ On August 29, the wife and child of the underworld, Peko Samanamala, who arrived
 
 ---
 
+### Sri Lanka opposition to bring no-confidence motion against speaker
+
+*2025-09-25 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-to-bring-no-confidence-motion-against-speaker-241850/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s opposition will bring a no-confidence motion against Parliament speaker Jagath Wickramaratne, MP Ajith Perera said.
+
+“The opposition has decided to table a no-confidence motion against the speaker at the right time,” Perera told parliament.
+
+“If the speaker himself breaks standing orders, if the speaker himself violates standing order 76 1, if the speaker takes upon himself a power he does not possess, if the speaker prevents parliamentarians, this country’s public representatives, from speaking – denying them their supreme rights, there is no greater crime, deputy speaker.”
+
+“The speaker is not suitable for this chair; he does not have the discipline, he does not have impartiality.”
+
+Jagath Wickramaratne is the National Peoples Power governments second speaker.
+
+He replaced Ashoka Ranwala who resigned after a month in the post after his claim to have a PhD was questioned.(Colombo/Sep25/2025)
+
+◼️
+
+[Data](articles/49d1901d.json)
+
+---
+
 ### Celebrates World Ayurvedic Day for Man and Earth
 
 *2025-09-25 12:32:44* · [`adalk`](https://www.ada.lk/business/මිනිසා-සහ-මිහිකත-වෙනුවෙන්-ලෝක-ආයුර්වේද-දිනය-සමරයි/7-418717) · `si`
@@ -969,6 +1109,26 @@ However, the procedure of calling the armed forces to maintain public security t
 [Data](articles/f08ce586.json)
 
 [Extended Data](ext_articles/f08ce586.ext.json)
+
+---
+
+### Sri Lanka weddings promoted to Indian couples
+
+*2025-09-25 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-weddings-promoted-to-indian-couples-241848/) · `en`
+
+ECONOMYNEXT – Sri Lanka Tourism has conducted promotions in India’s Mumbai, Ahmedabad, and Delhi, to market the island as an ‘enchanting’ wedding destination for Indian couples.
+
+The campaign attracted leading wedding planners, event managers, travel agents, and media representatives.
+
+Destination weddings continue to be a trend among Indian families seeking international venues that combine cultural richness, Sri Lanka Tourism said in a statement.
+
+“Recognizing this demand, Sri Lanka Tourism presented the island’s unique offerings – from golden beaches and luxury resorts to romantic hill country escapes, heritage sites, and spiritual backdrops.”
+
+“If marriages are made in heaven, then surely they deserve to be celebrated in paradise. Sri Lanka is that paradise – offering golden beaches, romantic hill country retreats, and heritage estates where Indian couples can create memories that last a lifetime,” Chairman of the Sri Lanka Tourism Promotion Bureau said.
+
+...
+
+[Data](articles/5c9bc345.json)
 
 ---
 
@@ -1348,6 +1508,28 @@ According to police, island-wide operations are conducted to apprehend small-, m
 
 ---
 
+### Voyage Sri Lanka 2025 to spotlight blue economy potential
+
+*2025-09-25 11:08:00* · [`economynextcom`](https://economynext.com/voyage-sri-lanka-2025-to-spotlight-blue-economy-potential-241843/) · `en`
+
+ECONOMYNEXT – Voyage Sri Lanka 2025, a marine summit to be held on October 16, will bring together global leaders, policymakers, investors, and professionals from across the globe to discuss the blue economy potential, the Export Development Board said.
+
+Organized by the EDB, the event will be held on the theme “Unveiling the Blue Economy Potential of Sri Lanka.”
+
+It will focus on Sri Lanka’s role as a marine hub in the Indian Ocean, and feature panel discussions, keynote addresses, and interactive networking sessions.
+
+Topics include sustainable practices, technological innovation, investment prospects, and opportunities for regional collaboration in driving the blue economy.
+
+“The summit will spotlight Sri Lanka’s unique geographic advantage as a central hub on major international shipping routes.
+
+“It will also showcase the nation’s growing expertise in marine and offshore services, boat building, nautical tourism, and other emerging maritime sectors.
+
+...
+
+[Data](articles/d58ab920.json)
+
+---
+
 ### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
 
 *2025-09-25 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226031) · `ta`
@@ -1519,6 +1701,32 @@ The 33 -year -old police constable from Varakapola, Mahenagama, was revealed.
 [Data](articles/2a011c17.json)
 
 [Extended Data](ext_articles/2a011c17.ext.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields steady
+
+*2025-09-25 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241832/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.50/55 to the US dollar on Thursday, relatively flat from 302.45/55 the previous day, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.06.2029 was quoted at 9.40/50 percent.
+
+A bond maturing on 15.12.2029 was quoted at 9.50/60 percent, down from 9.50/56 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.70/75 percent, up from 9.68/73 percent.
+
+A bond maturing on 15.03.2031 was quoted at 10.00/10 percent.
+
+A bond maturing on 15.10.2032 was quoted at 10.40/45 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.43/48 percent.
+
+The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.0000 selling; the British pound was 401.4648 buying, and 412.8266 selling, and the euro was 349.0494 buying, 360.4126 selling.
+
+...
+
+[Data](articles/166c8a4d.json)
 
 ---
 
@@ -1841,183 +2049,5 @@ Prior to a 12-day war between Iran and Israel in June, Tehran and Washington hel
 [Data](articles/2a3720d1.json)
 
 [Extended Data](ext_articles/2a3720d1.ext.json)
-
----
-
-### A woman and a woman who helped her with weapons and drugs in the Matara Special Task Force Base
-
-*2025-09-25 08:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226022) · `ta`
-
-A suspect and a woman who assisted him have been arrested in the Matara Police Special Task Force, with 04 T-56 rifles, one megacin, 27 bullets and heroin.
-
-The two were arrested on Wednesday evening (September 24) in the Pavala area of ​​the Weligama Police Division.
-
-The suspect has been identified as a 38 -year -old from Weligama.
-
-The 37 -year -old woman from Weligama has been arrested after investigations.
-
-The two arrested have been taken to the Weligama Police Station for further investigations.
-
-◼️
-
-[Data](articles/5c1c76a2.json)
-
-[Extended Data](ext_articles/5c1c76a2.ext.json)
-
----
-
-### The Chinese Navy experiments to a new technology
-
-*2025-09-25 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214984) · `si`
-
-A modern aircraft range of aircraft on a massive aircraft carrier from the Chinese Navy has won the world's attention.
-
-Foreign media reports that a highlight procedure in modern electromagnetic force had been tested.
-
-The Chinese Navy recently made a modern flight technique.
-
-There was a fleet from a vessel vessel from a vessel vessel from a venerated image vessel.
-
-The funded J-15t, J-35 and Congesan-Sixings are three fighters.
-
-Even during the 80th anniversary invasion of the Japanese invasion this year, the aircraft used to be used for this purpose.
-
-The image technologies used here was improved by Chinese scientists.
-
-It is also considered a chance to represent the possibility of carrying full operations on the fool.
-
-China is considered as a state that has acquired a remarkable advancement of the aircraft production product recently.
-
-The third ship of the Chinese warfront program is the Fujian.
-
-...
-
-[Data](articles/91da4e18.json)
-
-[Extended Data](ext_articles/91da4e18.ext.json)
-
----
-
-### 7 Buddhist monks death after cable car
-
-*2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/175-365252) · `ta`
-
-Seven people were killed when a cable car carrying clergymen crashed yesterday in the Kurunegala - Melsiripura Na Uyana area.
-
-Police say two of the victims include two Russian monks and a Cambodian monk.
-
-In addition, six injured in the incident have been admitted to the Kurunegala Teaching Hospital.
-
-Thirteen clergy traveled in the cable car when the accident occurred. Remble
-
-◼️
-
-[Data](articles/42ba414f.json)
-
-[Extended Data](ext_articles/42ba414f.ext.json)
-
----
-
-### 7 Buddhist monks death after cable car
-
-*2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/150-365252) · `ta`
-
-Seven people were killed when a cable car carrying clergymen crashed yesterday in the Kurunegala - Melsiripura Na Uyana area.
-
-Police say two of the victims include two Russian monks and a Cambodian monk.
-
-In addition, six injured in the incident have been admitted to the Kurunegala Teaching Hospital.
-
-Thirteen clergy traveled in the cable car when the accident occurred. Remble
-
-◼️
-
-[Data](articles/ecbc462e.json)
-
-[Extended Data](ext_articles/ecbc462e.ext.json)
-
----
-
-### Sri Lanka occupies the excellence of the Indian Ocean: Prime Minister Harini is to work with all partners
-
-*2025-09-25 08:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226018) · `ta`
-
-Located in the center of the Indian Ocean, Sri Lanka has realized the privilege and responsibility of its location. This is a miraculous setting.  We have occupied that place. Prime Minister Harini Amarasuriya said that this moment is not only for us, but also for the position that we occupy, and that the dedication of Sri Lanka is to work with all partners to ensure that the Indian Ocean is quiet, secure and stable.
-
-The 12th Galle Discussion of the Indian Ocean Region began on Wednesday. The Prime Minister said this while addressing the gathering. He continues to say that
-
-...
-
-[Data](articles/58499577.json)
-
-[Extended Data](ext_articles/58499577.ext.json)
-
----
-
-### Nothing is written in stone: Third -party solution to regional issues can lead to conflicts -Indian Navy Officer
-
-*2025-09-25 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226017) · `ta`
-
-The highest number of national benefits of many countries travel through the Indian Ocean. This is the homeland of a large number of crowded crisis points. Have vulnerable characteristics from all kinds of challenges. So have to be careful. Although there are additional regional powers in the Indian Ocean region, it is necessary to find regional solutions to regional problems.  And have enough capacity within the region to find those solutions. Nothing is written on stone. Indian Navy Officer Admiral Dinesh K.. Said Trippati.
-
-He said this while attending and addressing the 12th vacancies conference. Continuing to mention that
-
-...
-
-[Data](articles/72c3cf1b.json)
-
-[Extended Data](ext_articles/72c3cf1b.ext.json)
-
----
-
-### UPDATE: Buddhist monks killed in Buddhist Vihara: 7 Buddhist monks killed
-
-*2025-09-25 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226021) · `ta`
-
-Seven monks, including a Buddhist monk from India, Romania and Russia, have died in the crash of the Cable-Track Operated Cart at the Bansiyagama, Na Iyana Aranya Senasana Viharaya in Upperipura.. Six more monks were injured in the accident.
-
-Melappura, Bansiyagama, Na Aranya Senasana Vikarai. Police said the accident was caused by the loss of control and fell down on the rod, which the monks used for transportation were lost.
-
-Seven Buddhist monks have died. They are from Romania, Russia and India each.
-
-◼️
-
-[Data](articles/db6763bf.json)
-
-[Extended Data](ext_articles/db6763bf.ext.json)
-
----
-
-### Sri Lanka’s investment trajectory under spotlight at SLEIS 2025
-
-*2025-09-25 08:08:48* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-investment-trajectory-under-spotlight-at-SLEIS-2025/34-782168) · `en`
-
-The Ceylon Chamber of Commerce yesterday said Sri Lanka’s bid to regain investor confidence and accelerate reforms will take centre stage at the Sri Lanka Economic and Investment Summit (SLEIS) 2025, when the day two session “Where Sri Lanka Stands and What Comes Next?” brings together leaders in investment promotion, capital markets, exports and private equity for a frank assessment of the country’s economic trajectory.
-
-The Sri Lanka Economic and Investment Summit is scheduled to be held on 2-3 December at the Shangri-La Hotel Colombo.
-
-...
-
-[Data](articles/a59e68b5.json)
-
-[Extended Data](ext_articles/a59e68b5.ext.json)
-
----
-
-### Time Out ranks Sri Lanka as top travel destination for October 2025
-
-*2025-09-25 08:03:13* · [`dailyftlk`](https://www.ft.lk/business/Time-Out-ranks-Sri-Lanka-as-top-travel-destination-for-October-2025/34-782167) · `en`
-
-Sri Lanka has been ranked the number one destination to visit in October 2025 by global travel magazine Time Out, which unveiled its annual list of top travel spots for the month.
-
-Time Out praised Sri Lanka for its warm tropical climate, cultural heritage, and natural beauty, making it an ideal destination for travellers in October. From golden beaches and hill-country hikes to ancient ruins and wildlife safaris, the island was highlighted as offering “a little bit of everything” for visitors.
-
-Top attractions include relaxing on the golden beaches of Mirissa and Bentota, exploring the historic Sigiriya Rock Fortress, and touring the lush tea plantations of Nuwara Eliya. Wildlife enthusiasts can also experience safaris at Yala and Udawalawe National Parks, where elephants, leopards, and other exotic animals roam freely. The scenic Kandy to Ella train journey is also recommended for travellers seeking breathtaking mountain views.
-
-...
-
-[Data](articles/6d99abf6.json)
-
-[Extended Data](ext_articles/6d99abf6.ext.json)
 
 ---

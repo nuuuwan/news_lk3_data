@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 05:56:58**
+As of **2025-09-25 07:06:02**
 
 ## Newspaper Stats
 
-*Scraped **78,001** Articles*
+*Scraped **78,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,87 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 788
-economynextcom | 4,706
+economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,533
-adalk | 7,578
+adalk | 7,579
 adaderanalk | 10,124
-tamilmirrorlk | 11,757
+tamilmirrorlk | 11,759
 virakesarilk | 12,689
-adaderanasinhalalk | 13,626
+adaderanasinhalalk | 13,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,988 (100.0%) of 78,001 articles have been extended.
+77,997 (100.0%) of 78,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### මතු පරපුරට සුරක්ෂිත ලෝකයක් බිහි කිරීමට හදවතට එකඟව ඇප කැප වෙමු  - ජනපති
+
+*2025-09-25 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214980) · `si`
+
+දූෂණයට එරෙහි සටන භයානක වුව ද ඊට එරෙහිව සටන් නොකර සිටීම ඊටත් වඩා භයානක බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු පෙන්වාදෙන්නේ දූෂණයට එරෙහි සටන ලොව සෑම රටකම සංස්කෘතියේ කොටසක් බවට පත්විය යුතු බවය.
+
+එක්සත් ජාතීන්ගේ මහ මණ්ඩලයේ 80 වන සැසිවාරය අමතමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේය.
+
+මත්ද්‍රව්‍ය සහ ඒ හා බැදුණු සංවිධානාත්මක අපරාධ කණ්ඩායම් වර්තමානයේ ලෝකය නවතම ගැටලුවක් වී ඇති බව ජනාධිපතිවරයා එහිදි සඳහන් කළේය.
+
+පලස්තීනය ස්වාධීන රාජ්‍යයක් ලෙස පිලිගන්නා අතර ඊශ්‍රායලය සහ පලස්තීනය අතර පවතින ගැටුම් නතර කිරීම සදහා ලබාදිය හැකි සෑම සහයෝගයක්ම ලබාදෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්සත් ජාතීන්ගේ මහ මණ්ඩලයේ 80 වන සැසිවාරය අමතමින් වැඩිදුරටත් සදහන් කළා.
+
+◼️
+
+[Data](articles/3f2bd56c.json)
+
+---
+
+### ’நாட்டு மக்களை பொருளாதார ரீதியாக வலுப்படுத்துவோம்’
+
+*2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/175-365251) · `ta`
+
+எனது நாட்டு மக்கள் அனைவரையும் பொருளாதார ரீதியாக வலுப்படுத்துவதே எனது கனவாகும் என்று  ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்துள்ளார்.
+
+ஐக்கிய நாடுகள் சபையின் பொதுக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றும் போதே அவர் இவ்வாறு கூறியுள்ளார். அவர் மேலும் உரையாற்றுகையில்,
+
+போதைப்பொருள் மற்றும் அதற்கான சந்தை இன்று உலகளாவிய ரீதியில் பல பிரைச்சினைகளை உருவாக்கி வருகின்றது.
+
+போதைப்பொருள் வர்த்தகம், நாடுகளுக்கு அச்சுறுத்தலை ஏற்படுத்துவதோடு அவை உலகளாவிய அரசியலுக்கும் சுகாதாரத்துக்கும் பாதிப்பை ஏற்படுத்துகின்றது.
+
+அதேவேளை, உலகளாவிய நன்நடைத்துக்கும் அது அச்சுறுத்தலாக அமைக்கின்றது. போதைப்பொருள் மற்றும் குற்றங்களுக்கு எதிராக இலங்கை அரசாங்கம் உரிய நடவடிக்கைகளை எடுத்து வருவதோடு நான் உங்கள் அனைவரையும் உலகளாவிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுப்பதற்காக முன்வருமாறு கேட்டுக்கொள்கின்றேன்.
+
+போதைப்பொருள் வர்த்தகர்களுக்கு எதிராக உலகளாவிய ரீதியில் உரிய நடவடிக்கைள் மேற்கொள்ளப்பட வேண்டும். அத்துடன், போதைப்பொருளால் பாதிக்கப்பட்டவர்களுக்கு உதவுவதற்காக மறுவாழ்வு மையங்கள் அமைக்கப்பட வேண்டும்.
+
+...
+
+[Data](articles/7034a3df.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+
+*2025-09-25 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214979) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+
+ඇතැම් ස්ථානවල මි.මී. 100ක පමණ තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදු විය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටිනු ලැබේ.
+
+◼️
+
+[Data](articles/6d1bef00.json)
+
+---
 
 ### President meets top officials ahead of UNGA session
 
@@ -54,6 +116,8 @@ Separately, President Disanayake also met his South African counterpart Cyril Ra
 
 [Data](articles/1f404f86.json)
 
+[Extended Data](ext_articles/1f404f86.ext.json)
+
 ---
 
 ### Dileepan's 38th Emotional Final Memorial Discussion
@@ -71,6 +135,22 @@ The President of the Memorial Organization Committee, K. Pannabhasan, said in 19
 [Data](articles/a09ba4f7.json)
 
 [Extended Data](ext_articles/a09ba4f7.ext.json)
+
+---
+
+### அவுஸ்திரேலிய பிரதமருடன் ஜனாதிபதி சந்திப்பு
+
+*2025-09-25 04:03:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-பிரதமருடன்-ஜனாதிபதி-சந்திப்பு/175-365249) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்துகொள்வதற்காக அமெரிக்காவுக்குச் சென்றுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, அவுஸ்திரேலிய பிரதமர் அந்தோணி அல்பானீஸ் உள்ளிட்டோரை சந்தித்துக் கலந்துரையாடினார்.
+
+இந்தச் சந்திப்பு நியூயோர்க் நகரில் ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி அலுவலகத்தில் அமெரிக்க நேரப்படி நேற்று (24) பிற்பகல் நடைபெற்றது.
+
+இந்தச் சந்திப்பில், வெளிவிவகார அமைச்சர் விஜித ஹேரத், ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி முன்னாள் பிரதம நீதியரசர் ஜனாதிபதி சட்டத்தரணி ஜயந்த ஜயசூரிய ஆகியோரும் இணைந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/f9be53f6.json)
 
 ---
 
@@ -554,6 +634,8 @@ For this home remedy, mix 01 teaspoon of baking soda with a teaspoon of olive oi
 
 [Data](articles/8d86ebfb.json)
 
+[Extended Data](ext_articles/8d86ebfb.ext.json)
+
 ---
 
 ### Traveling in October Sri Lanka is the best country
@@ -596,6 +678,8 @@ Representing the Bank at the event was Mr. Ramachandren Sivagnanam, the Assistan
 
 [Data](articles/8b0ae12b.json)
 
+[Extended Data](ext_articles/8b0ae12b.ext.json)
+
 ---
 
 ### Ambassador for Japan visits Tokyo Cement Factory in Trincomalee
@@ -610,6 +694,8 @@ The Ambassador was accompanied by Ms. Yukako Mizunuma, Finance Attaché, and Ms.
 
 [Data](articles/8f101891.json)
 
+[Extended Data](ext_articles/8f101891.ext.json)
+
 ---
 
 ### CSE picks-up speed following CBSL interest rate decision and growth predictions
@@ -623,6 +709,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/dedb7e1b.json)
+
+[Extended Data](ext_articles/dedb7e1b.ext.json)
 
 ---
 
@@ -641,6 +729,8 @@ Welcoming the audience, Fawaz Haque introduced Zaco’s vision and highlighted t
 ...
 
 [Data](articles/cabffcef.json)
+
+[Extended Data](ext_articles/cabffcef.ext.json)
 
 ---
 
@@ -1460,6 +1550,26 @@ It is learned that the husband of the little girl is serving as a small driver i
 
 ---
 
+### Counseling and Psychology to school curriculum
+
+*2025-09-24 17:53:42* · [`adalk`](https://www.ada.lk/breaking_news/උපදේශනය-හා-මනෝ-විද්‍යාව-පාසල්-විෂය-නිර්දේශයට/11-418705) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
+
+The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
+
+Speaking further the Minister said that these programs should be implemented to all schools on a proper plan covering all the provinces covering all the provinces of the country. The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
+
+The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
+
+◼️
+
+[Data](articles/1446cab9.json)
+
+[Extended Data](ext_articles/1446cab9.ext.json)
+
+---
+
 ### UK police arrest man over cyberattack that affected European airports
 
 *2025-09-24 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112872/uk-police-arrest-man-over-cyberattack-that-affected-european-airports) · `en`
@@ -1989,107 +2099,5 @@ Tipper driver with the help of local residents admitted the injured police const
 [Data](articles/b8b88766.json)
 
 [Extended Data](ext_articles/b8b88766.ext.json)
-
----
-
-### Over 1,000 complaints on child abuse reported in first seven months of 2025: Minister
-
-*2025-09-24 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112863/over-1000-complaints-on-child-abuse-reported-in-first-seven-months-of-2025-minister) · `en`
-
-Over 1,000 complaints related to child abuse have been reported in the first seven months of this year, according to Minister of Women and Child Affairs, Saroja Savithri Paulraj.
-
-Minister Saroja Savithri Paulraj made this revelation during the second reading debate of the Penal Code (Amendment) Bill in Parliament today (24).
-
-The Minister noted that children are subjected to abuse in various places, including residences, schools, detention centers, and even on public roads.
-
-According to Minister Saroja Savithri Paulraj, 1,350 children were subjected to abuse last year, while 1,126 cases have already been reported in the first seven months of this year alone.
-
-◼️
-
-[Data](articles/f3d2d054.json)
-
-[Extended Data](ext_articles/f3d2d054.ext.json)
-
----
-
-### 1126 complaints of children in seven months
-
-*2025-09-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214962) · `si`
-
-Minister of Women and Child Affairs Saroja Sarajar said that more than 1,000 complaints have been received in the first 7 months of this year.
-
-The Minister of Penal Code, Hon.
-
-She added that children will become severe in housing, school, detention houses, highway.
-
-Minister of Women and Child Affairs Saroja Sarajar said that 1,350 children were filled in last year.
-
-It is also reported that 1,126 children have become fruited during the first 7 months of this year.
-
-◼️
-
-[Data](articles/ebc8e25d.json)
-
-[Extended Data](ext_articles/ebc8e25d.ext.json)
-
----
-
-### The latest situation of the electricity care course
-
-*2025-09-24 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214961) · `si`
-
-Trade unions say the trade union action which opened the Employees of the Ceylon Electricity Federation will not take a strike to strike.
-
-However, they say that the trade union action is being implemented further.
-
-The trade unions have been reported from a few days of the Ceylon Electricity Board to reserve the Ceylon Electricity Board to four sections.
-
-◼️
-
-[Data](articles/cbc3a9c4.json)
-
-[Extended Data](ext_articles/cbc3a9c4.ext.json)
-
----
-
-### Ex-Navy Commander Nishantha Ulugetenne further remanded
-
-*2025-09-24 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/112862/ex-navy-commander-nishantha-ulugetenne-further-remanded) · `en`
-
-Former Commander of the Sri Lanka Navy (SLN), Admiral (Retired) Nishantha Ulugetenne, who was arrested by the Criminal Investigation Department (CID), has been further remanded.
-
-He has been remanded until October 8 by the Polgahawela Magistrate’s Court, said Ada Derana reporter.
-
-The former Navy Commander was arrested on July 28 by the CID in connection with the disappearance of a youth from Pothuhera, which allegedly occurred while he was serving as the Director of Naval Intelligence.
-
-◼️
-
-[Data](articles/1ca71ceb.json)
-
-[Extended Data](ext_articles/1ca71ceb.ext.json)
-
----
-
-### CEB workers decide against strike action but to continue work-to-rule campaign
-
-*2025-09-24 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112861/ceb-workers-decide-against-strike-action-but-to-continue-work-to-rule-campaign) · `en`
-
-The ongoing ‘work-to-rule’ campaign launched by several trade unions attached to the Ceylon Electricity Board (CEB) will continue beyond midnight today (24).
-
-A spokesperson stated that all trade unions affiliated with the CEB meet this afternoon to make a collective decision on the next course of action regarding future activities.
-
-Accordingly, members have decided not to continue the ongoing ‘work-to-rule’ campaign after authorities failed to provide any solutions to their demands.
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action under three phases.
-
-The first phase was initiated as a ‘work-to-rule’ trade union action.
-
-In the second phase, all employees reported sick leave in two groups on September 17 and 18, during which a demonstration was also staged opposite the CEB head office.
-
-...
-
-[Data](articles/ff2d2056.json)
-
-[Extended Data](ext_articles/ff2d2056.ext.json)
 
 ---

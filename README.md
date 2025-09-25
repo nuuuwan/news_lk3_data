@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 16:37:35**
+As of **2025-09-25 16:54:49**
 
 ## Newspaper Stats
 
-*Scraped **78,113** Articles*
+*Scraped **78,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,592
-adaderanalk | 10,149
+adaderanalk | 10,153
 tamilmirrorlk | 11,779
 virakesarilk | 12,712
 adaderanasinhalalk | 13,644
@@ -26,29 +26,37 @@ adaderanasinhalalk | 13,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,112 (100.0%) of 78,113 articles have been extended.
+78,113 (100.0%) of 78,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### ක්‍රිකට් තරග පාවාදීම සම්බන්ධයෙන් සචිත්‍ර සේනානායකට අධිචෝදනා භාරදෙයි
+### Sachithra Senanayake hands over cricket match
 
 *2025-09-25 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215000) · `si`
 
-2020 වසරේ පැවති ශ්‍රී ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී මුදලට තරග පාවාදීම සඳහා ක්‍රීඩකයෙකුට යෝජනා ඉදිරිපත් කිරීම ඇතුළු චෝදනා යටතේ හිටපු ජාතික තලයේ ක්‍රිකට් ක්‍රීඩකයෙකු වන සචිත්‍ර සේනානායකට හට හම්බන්තොට මහාධිකරණයේදී අද (25) අධිචෝදනා භාර දී තිබේ.
+Former national level cricketer Sachithra Senanayake has been indicted today (25) at the Hambantota High Court today (25).
 
-මෙම චෝදනා යටතේ සචිත්‍ර සේනානායක හට නීතිපතිවරයා විසින් පසුගිය ජුනි 5 වනදා අධිචෝදනා ගොනුකර තිබුණි.
+Sachithra Senanayake had been indicted on June 5 on these allegations.
 
-ඒ අනුව හම්බන්තොට මහාධිකරණ විනිසුරු දුමින්ද මුදුන්කොටුව මහතා ඉදිරියේදී විසින් අද (25) සචිත්‍ර සේනානායකට හට අධිචෝදනා භාරදීම සිදුකරනු ලැබූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+Accordingly, the Hambantota High Court Judge Duminda Mudundukotuwa was conducted by Sachithra Senanayake today (25), "Ada Derana reporter said.
 
-සචිත්‍ර සේනානායක වෙනුවෙන් පිනීසිටි අජිත් පතිරණ මහතා ප්‍රමුඛ නීතිඥ කණ්ඩායම විසින් අධිකරණය මහින් ඉල්ලා සිටියේ සචිත්‍ර සේනානායක විදේශ රටක ක්‍රීඩා කරමින් සිටින බවත් විදෙස් රටක රැකියාවක නිරතව සිටින බවත් පනවා තිබු විදෙස් ගමන් තහනම ඉවත්කරන ලෙසය.
+Sachithra Senanayake for Saachu Senanayake, the court demanded that Sachithra Senanayake is working abroad and is working in a foreign country and is working in a foreign country and is employed in a foreign country.
 
-පසුව එය සලකාබලමින් නොවැම්බර් 27 තෙක් තාවකාලිකව ඔහුට පනවා තිබු විදෙස් ගමන් තහනම ඉවත් කළ බව අප වාර්තාකරු පැවසීය.
+Afterwards, it was dismantled the foreign travel ban that he had been temporarily imposed in the temporary till November 27, our correspondent.
+
+Sachitra Senanayake was released on two personal bail of Rs.
+
+Sachithra Senanayake did not appear when the case was taken up on July 92015 and was prescribed by the court to appear in court today (25).
+
+State Counseling Akila, Ayamila for the complaint, appeared on the complaint, our correspondent said.
 
 ...
 
 [Data](articles/4e2098eb.json)
+
+[Extended Data](ext_articles/4e2098eb.ext.json)
 
 ---
 
@@ -90,7 +98,7 @@ The order was issued when the petitions were taken up today to look into the ord
 
 ### New Hurricanes in the Philippines: Schools, Airlines cancel
 
-*2025-09-25 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
+*2025-09-25 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
 
 Following the death of nine people in the Philippines, the country's schools have been shut down and the flights have been canceled today (September 25).
 
@@ -107,6 +115,24 @@ The Philippines Coast Guard said that about 1,500 people were trapped in the por
 [Data](articles/dbd1c11a.json)
 
 [Extended Data](ext_articles/dbd1c11a.ext.json)
+
+---
+
+### Ex-President Ranil extends condolences over tragic accident at Na Uyana Monastery
+
+*2025-09-25 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112914/ex-president-ranil-extends-condolences-over-tragic-accident-at-na-uyana-monastery-) · `en`
+
+Former President Ranil Wickremesinghe has expressed his condolences over the passing of several local and foreign Buddhist monks in the tragic accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura.
+
+In an official statement, he also extended his wishes for a speedy recovery to the monks who were injured in the accident and are currently receiving treatment in the hospital.
+
+He further noted that the venerable Buddhist monks, who dedicated their lives in the forest to ending worldly suffering, had gone forth to share the Buddha’s teachings on impermanence.
+
+Concluding his message, the former President said he prays that the deceased clergy members attain the bliss of nirvana.
+
+◼️
+
+[Data](articles/98976307.json)
 
 ---
 
@@ -236,6 +262,30 @@ At the same time, 63 persons have been arrested on charges of driving and 20 for
 
 ---
 
+### Philippines cancels classes, flights as new storm looms
+
+*2025-09-25 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112913/philippines-cancels-classes-flights-as-new-storm-looms) · `en`
+
+The Philippines shut schools and scrapped flights on Thursday (Sep 25) as a fresh storm threatened to hit just days after a super typhoon killed nine people in the archipelago.
+
+Severe Tropical Storm Bualoi is forecast to intensify into a typhoon on Friday and then slam into the southern end of the Philippines’ largest island, Luzon.
+
+“Widespread flooding and landslides in mountainous areas are possible,” Benison Estareja from the nation’s weather service told a briefing.
+
+The Philippines is hit by an average of 20 storms and typhoons each year, putting millions of people in disaster-prone areas in a state of constant poverty.
+
+Scientists warn that storms are becoming more powerful as the world warms due to the effects of human-driven climate change.
+
+Authorities warned of a “high risk of life-threatening storm surge” of up to 3m with the coming storm.
+
+The Philippine Coast Guard said around 1,500 people were stranded in ports of Bicol, the region where the typhoon is forecast to hit.
+
+...
+
+[Data](articles/84b4f8a2.json)
+
+---
+
 ### Ranil condolences on behalf of the monks
 
 *2025-09-25 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214996) · `si`
@@ -274,6 +324,26 @@ He said this in parliament today (25).
 
 ---
 
+### Former French President Nicolas Sarkozy found guilty of criminal conspiracy in Libya case
+
+*2025-09-25 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112912/former-french-president-nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-case) · `en`
+
+Former French President Nicolas Sarkozy has been found guilty of criminal conspiracy in a case related to taking millions of euros of illicit funds from the late Libyan leader Col Muammar Gaddafi.
+
+The Paris criminal court acquitted him of all other charges, including passive corruption and illegal campaign financing.
+
+Sarkozy, who claims the case is politically motivated, was accused of using the funds from Gaddafi to finance his 2007 election campaign.
+
+In exchange, the prosecution alleged Sarkozy promised to help Gaddafi combat his reputation as a pariah with Western countries.
+
+The investigation was opened in 2013, two years after Saif al-Islam, son of the then-Libyan leader, first accused Sarkozy of taking millions of his father’s money for campaign funding.
+
+...
+
+[Data](articles/2a7dd487.json)
+
+---
+
 ### There are reports that unidentified drones are visible at many airports in Denmark
 
 *2025-09-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226052) · `ta`
@@ -297,6 +367,24 @@ The incidents of drones in Alborg were reported to have been stopped at the Cope
 [Data](articles/4d468388.json)
 
 [Extended Data](ext_articles/4d468388.ext.json)
+
+---
+
+### Tourist arrivals in September top 110,000
+
+*2025-09-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112911/tourist-arrivals-in-september-top-110000) · `en`
+
+A total of 111,823 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 32,570 tourists have arrived from India which accounts to 29.1%. Furthermore, 8,021 persons from the United Kingdom, 6,994 from Germany, 6,316 from China and 6,097 Australian nationals have also visited Sri Lanka in the month of September.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,678,346 with the release of the latest figures for September.
+
+Among them, 358,165 individuals are from India, 159,162 from the UK and 121,116 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/b083a765.json)
 
 ---
 
@@ -1911,99 +1999,5 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Sri 
 [Data](articles/ed457445.json)
 
 [Extended Data](ext_articles/ed457445.ext.json)
-
----
-
-### UN chief stresses need to ensure human control of AI over use of force
-
-*2025-09-25 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112891/un-chief-stresses-need-to-ensure-human-control-of-ai-over-use-of-force) · `en`
-
-UN Secretary-General Antonio Guterres on Wednesday stressed the importance of ensuring human control of artificial intelligence (AI) over the use of force.
-
-“Let us be clear: humanity’s fate cannot be left to an algorithm. Humans must always retain authority over life-and-death decisions,” he told an open debate of the Security Council on AI and international peace and security.
-
-The Security Council and UN member states must ensure that military use of AI remains in full compliance with international law and the UN Charter. Human control and judgment must be preserved in every use of force, he said.
-
-AI is no longer a distant horizon. It is here, transforming daily life, the information space, and the global economy at breathtaking speed. The question is not whether AI will influence international peace and security, but how the world will shape that influence, said Guterres.
-
-...
-
-[Data](articles/a3b290ad.json)
-
-[Extended Data](ext_articles/a3b290ad.ext.json)
-
----
-
-### Letter committees a safe world to create a safe world - President
-
-*2025-09-25 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214980) · `si`
-
-President Anura Kumara Dissanayake says that it is even worse that the fight against corruption is dangerous.
-
-He pointed out that the fight against corruption should be part of the world's culture.
-
-President Anura Kumara Dissanayake made this statement addressing the 80th session of the United Nations Council.
-
-The President states that the country has now been the latest world, drugs and fried organized criminal groups.
-
-President Anura Kumara Dissanayake added that the 80th session of the United Nations General Assembly that the Palestine is recognized as an independent state and provides the columns between Israel and Palestine.
-
-◼️
-
-[Data](articles/3f2bd56c.json)
-
-[Extended Data](ext_articles/3f2bd56c.ext.json)
-
----
-
-### Cable car accident at Na Uyana Monastery: Several injured monks continue to receive treatment
-
-*2025-09-25 06:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112890/cable-car-accident-at-na-uyana-monastery-several-injured-monks-continue-to-receive-treatment) · `en`
-
-Several Buddhist monks injured in the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura continue to receive treatment at the Kurunegala and Polgahawela hospitals.
-
-The accident reportedly occurred at around 9:00 p.m. yesterday (24), as the monks were returning to their meditation huts after completing a religious ceremony held at the offering ground (Pūjā Bhūmiya).
-
-At the time of the accident, 13 monks were inside the cable car. Among them, seven monks lost their lives.
-
-The injured monks were admitted to the Kurunegala Teaching Hospital and the Polgahawela Hospital for treatment.
-
-It is also reported that five monks managed to jump out of the cable car at the time of the accident, sustaining only minor injuries and thereby saving their lives, while four others suffered serious injuries and are currently hospitalized.
-
-It has been reported that among the deceased monks, three were foreign nationals.
-
-...
-
-[Data](articles/9735dcaa.json)
-
-[Extended Data](ext_articles/9735dcaa.ext.json)
-
----
-
-### We will strengthen the people economically
-
-*2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/150-365251) · `ta`
-
-President Anuragumara Dissanayake said that my dream is to strengthen all the people of my country economically.
-
-He was speaking at the United Nations General Assembly. When he further addresses,
-
-The drug and its appropriate market today is creating many worldwide pronunciations.
-
-Drug trade threatens countries and affect global politics and health.
-
-At the same time, it threatens the global goodwill. The Sri Lankan government is taking appropriate action against drugs and crimes and I urge all of you to take up global precautionary measures.
-
-Global action should be taken against drug traders. In addition, rehabilitation centers should be set up to assist the drug victims.
-
-At the same time, we believe that corruption is a barrier to the development of a country and is acting against democracy.
-
-As well as leading to corruption and poverty. It is more dangerous to not take action against corruption.
-
-...
-
-[Data](articles/4e2afec4.json)
-
-[Extended Data](ext_articles/4e2afec4.ext.json)
 
 ---

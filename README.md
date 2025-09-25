@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 01:20:26**
+As of **2025-09-26 02:20:28**
 
 ## Newspaper Stats
 
-*Scraped **78,168** Articles*
+*Scraped **78,170** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
-colombotelegraphcom | 790
+colombotelegraphcom | 792
 economynextcom | 4,717
 dailymirrorlk | 4,733
 islandlk | 4,793
@@ -26,31 +26,37 @@ adaderanasinhalalk | 13,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,167 (100.0%) of 78,168 articles have been extended.
+78,170 (100.0%) of 78,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### பங்களாதேஷை வீழ்த்தி ஆசிய கிண்ண இறுதியில் இந்தியாவை எதிர்த்தாட பாகிஸ்தான் தகுதி பெற்றது
+### Pakistan qualified to oppose India by beating Bangladesh
 
 *2025-09-26 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226090) · `ta`
 
-பங்களாதேஷுக்கு எதிராக துபாய் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (25) இரவு நடைபெற்ற தீர்மானம் மிக்க ரி20 ஆசிய கிண்ண சுப்பர் 4 கிரிக்கெட் போட்டியில் பரபரப்பான முறையில் 11 ஓட்டங்களால் மிகவும் அவசியமான வெற்றியை பாகிஸ்தான் ஈட்டியது.
+Pakistan won the most essential victory by 11 runs in a resolved R20 Asian Cup Super 4 cricket match at the Dubai International Cricket Stadium on Thursday night at the Dubai International Cricket Stadium.
 
-இந்த வெற்றியை அடுத்து ஞாயிற்றுக்கிழமை நடைபெறவுள்ள இறுதிப் போட்டியில் இந்தியாவை எதிரத்தாட பாகிஸ்தான் தகுதிபெற்றுக்கொண்டது.
+Pakistan qualified to oppose India in the final in the final on Sunday.
 
-இதற்கு அமைய  பரம வைரிகளான இந்தியாவும் பாகிஸ்தானும்  இந்த வருட ஆசிய கிண்ண கிரிக்கெட் போட்டியில் மூன்றாவது முறையாக ஒன்றையொன்று எதிர்த்தாடவுள்ளன.
+Accordingly, India and Pakistan will oppose one another for the third time in this year's Asian Cup.
 
-இன்றைய சுப்பர் 4 போட்டியில் பாகிஸ்தான் 135 ஓட்டங்களை மாத்திரம் பெற்றபோதிலும் அதன் பந்துவீச்சாளர்கள் மிகத் திறமையாக பந்துவீசி அந்த மொத்த எண்ணிக்கையைத் தக்கவைத்து தமது அணியை வெற்றிபெறச் செய்தனர்.
+Although Pakistan scored only 135 runs in today's Super 4 match, its bowlers bowled very efficiently and retained the total number.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பாகிஸ்தான் 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 135 ஓட்டங்களைப் பெற்றது.
+Pakistan, who were first invited to bat in the upting match, scored 135 runs for the loss of 8 wickets in 20 overs.
 
-பங்களாதேஷின் பந்துவீச்சாளர்களிடம் பெரும் சிரமத்தை எதிர்கொண்ட பாகிஸ்தான் முதல் 11 ஓவர்களில் 5 விக்கெட்களை இழந்து 51 ஓட்டங்களை மாத்திரம் பெற்றது.
+Pakistan, who faced great difficulty with Bangladesh's bowlers, scored 51 runs for the loss of 5 wickets in the first 11 overs.
+
+Shahibsada Barhan (4), Saim Ayub (0), Bakar Zaman (13), Husain Talat (3) and team captain Salman Aha (19) lost their shaking in a steady interval.
+
+Mohammed Haris (31), Shaheen Shah Abridi (19) and Mohammed Nawaz (25) have made their own contribution.
 
 ...
 
 [Data](articles/b253feb2.json)
+
+[Extended Data](ext_articles/b253feb2.ext.json)
 
 ---
 
@@ -343,6 +349,36 @@ Perera said that such behavior was undermined to democratic policies and that pa
 [Data](articles/c3897afb.json)
 
 [Extended Data](ext_articles/c3897afb.ext.json)
+
+---
+
+### Stark Realities Of A Medieval Genocide Hidden By Mainstream Media
+
+*2025-09-25 19:43:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/stark-realities-of-a-medieval-genocide-hidden-by-mainstream-media/) · `en`
+
+Little boys whose hands and parts of their face or torso are being blown off from booby-trapped cans of food that soldiers had left behind for starving children; soldiers who leave behind, poisoned food for a starving people to eat, booby-trapped toys that explode when excited children picked them up are promoted as the world’s most moral army.
+
+The harm they have been doing is diabolical, and yet, they expect you to believe they are the victims. Invoking a long-forgotten holocaust and screaming discrimination, they expect you to suspend fundamental human reason to believe that the daily sniping of children with so called “kill shots” to the head or chest and the bombing of entire neighbourhoods that bury families alive and wipe out whole bloodlines is self-defence and just.
+
+...
+
+[Data](articles/3c33188d.json)
+
+[Extended Data](ext_articles/3c33188d.ext.json)
+
+---
+
+### Understanding The Pitfalls In Marketing Carbon
+
+*2025-09-25 19:35:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/understanding-the-pitfalls-in-marketing-carbon/) · `en`
+
+It is a tragedy that we still follow the line expounded by the carbon emitters and polluters of the environment. We have accepted a high debt and fossil dependency scenario as the indicator of ‘Economic Development’. Our concerns with adaptation to the ongoing climate changes brought about by our own actions, seem to be minimal. The current disasters of fishermen getting caught in an sudden, random, wind events, are a foretaste of things to come. Sudden violent downpours that strip and erode the soil or delays in rain bearing winds that create harsh drought conditions, will become more frequent. The ‘climate affected’ population will grow with every event. We are witnessing the thin edge of the wedge.
+
+...
+
+[Data](articles/f37c6ccb.json)
+
+[Extended Data](ext_articles/f37c6ccb.ext.json)
 
 ---
 
@@ -2053,43 +2089,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 [Data](articles/e7c37e1d.json)
 
 [Extended Data](ext_articles/e7c37e1d.ext.json)
-
----
-
-### Voyage Sri Lanka 2025 to spotlight blue economy potential
-
-*2025-09-25 11:08:00* · [`economynextcom`](https://economynext.com/voyage-sri-lanka-2025-to-spotlight-blue-economy-potential-241843/) · `en`
-
-ECONOMYNEXT – Voyage Sri Lanka 2025, a marine summit to be held on October 16, will bring together global leaders, policymakers, investors, and professionals from across the globe to discuss the blue economy potential, the Export Development Board said.
-
-Organized by the EDB, the event will be held on the theme “Unveiling the Blue Economy Potential of Sri Lanka.”
-
-It will focus on Sri Lanka’s role as a marine hub in the Indian Ocean, and feature panel discussions, keynote addresses, and interactive networking sessions.
-
-Topics include sustainable practices, technological innovation, investment prospects, and opportunities for regional collaboration in driving the blue economy.
-
-“The summit will spotlight Sri Lanka’s unique geographic advantage as a central hub on major international shipping routes.
-
-“It will also showcase the nation’s growing expertise in marine and offshore services, boat building, nautical tourism, and other emerging maritime sectors.
-
-...
-
-[Data](articles/d58ab920.json)
-
-[Extended Data](ext_articles/d58ab920.ext.json)
-
----
-
-### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
-
-*2025-09-25 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226031) · `ta`
-
-At the current session of the United Nations Human Rights Council in Geneva, it is possible to pass a hazardous resolution on Sri Lanka. The government wants to come to an end to the occasional monitoring of Sri Lanka's human rights situation.
-
-◼️
-
-[Data](articles/73c3d223.json)
-
-[Extended Data](ext_articles/73c3d223.ext.json)
 
 ---

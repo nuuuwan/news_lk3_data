@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 11:41:10**
+As of **2025-09-25 12:14:12**
 
 ## Newspaper Stats
 
-*Scraped **78,059** Articles*
+*Scraped **78,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,209 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,582
+adalk | 7,584
 adaderanalk | 10,142
-tamilmirrorlk | 11,767
-virakesarilk | 12,698
-adaderanasinhalalk | 13,635
+tamilmirrorlk | 11,770
+virakesarilk | 12,704
+adaderanasinhalalk | 13,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,059 (100.0%) of 78,059 articles have been extended.
+78,064 (100.0%) of 78,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### විශේෂ මෙහෙයුම් වලදී  1,006ක් සැකපිට අත්අඩංගුවට
+
+*2025-09-25 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214992) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා පොලීසිය සිදුකරගෙන යනු ලබන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම් වලින් ඊයේ (24) දිනයේ දී පුද්ගලයින් 1,006ක් සැකපිට අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+එමෙන්ම දිවයින පුරා අපරාධවලට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සිදු කරයි.
+
+ඒ අනුව කොට්ඨාස මට්ටමින් සියළුම ප්‍රාදේශීය පොලිස් ස්ථාන ආවරණය වන පරිදි විශේෂ මෙහෙයුම් ක්‍රියාත්මක කර ඇත.
+
+◼️
+
+[Data](articles/7f95aa03.json)
+
+---
+
+### கிராண்ட்பாஸில் விபத்து : ஒருவர் உயிரிழப்பு
+
+*2025-09-25 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226034) · `ta`
+
+கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட இங்குருகொட சந்தியில் வீதியில் லொறி ஒன்று மோட்டார் சைக்கிள் ஒன்றுடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர் பலத்த காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்தார்.
+
+◼️
+
+[Data](articles/aac86c16.json)
+
+---
+
+### සත්ත්ව සංගනන වාර්තාවේ ජනතාව දුන් තොරතුරුවලින් සියයට 50ක් ඇත්ත -නියෝජ්‍ය ඇමති නාමල්
+
+*2025-09-25 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214991) · `si`
+
+සත්ත්ව සංගනන වාර්තාවේ ජනතාව දුන් තොරතුරුවලින් 50%ක සත්‍යතාවක් පවතින බව කෘෂිකර්ම ඉඩම් සහ වාරිමාර්ග අමාත්‍ය නාමල් කරුණාරත්න මහතා සඳහන් කරයි.
+
+අද (26) පාර්ලිමේන්තුවේ දී සභාව අමතමින් අමාත්‍යවරයා මෙම තොරතුරු ඉදිරිපත් කළේය.
+
+ආහාර බෝගවලට හානිකරන සතුන් හඳුනා ගැනීමට සහ නිසි අධ්‍යනයක් සිදුකිරීම මෙන්ම ඒ සඳහා සුදුසු ක්‍රියාමාර්ග ගැනීම සඳහා සිදුකරන ලද මෙම සත්ත්ව සංගනනය පසුගිය මාර්තු 15 දින දිවයින පුරා සිදුකෙරුණි.
+
+එකම වේලාවකදී සිදුකර ඇති මෙම සංගනනයේදී වඳුරා, රිළවා, මොනරා, දඬුලේනා යන සතුන් පිළිබඳ සමීක්ෂණය සිදුකර ඇති අතර, ප්‍රතිඵල අනුව ජනතාව විසින් ලබා දෙන ලද වඳුරන් හා රිළවුන් සම්බන්ධ තොරතුරුවල 50%ක සත්‍යතාවක් පවතින බව අමාත්‍යවරයා පැවසීය.
+
+"ප්‍රතිඵල සත්‍යාපනයේදී තහවුරු වූයේ ප්‍රජාව විසින් ලබා දෙන ලද වඳුරන් හා රිළවුන් සම්බන්ධ තොරතුරුවල 50%ක සත්‍යතාවක් පවතින බවයි. ඒ අනුව සමීක්ෂණයේ අදාළ අගයන්හි 50%ක අගය නිවැරදි අගය ලෙස සැලකීමට ආහාර බෝග වගාවන්ට සිදුවන සත්ත්ව හානි අවම කිරීම සඳහා නිර්දේශ සකස් කිරීමේ කමිටුව තීරණය කරන ලදී."
+
+...
+
+[Data](articles/7c78832d.json)
+
+---
+
+### බැකෝ සමන්ගේ බිරිඳ තවදුරටත් රිමාන්ඩ්
+
+*2025-09-25 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214990) · `si`
+
+මුදල් විශුද්ධිකරණයය වැළක්වීමේ චෝදනා යටතේ රක්ෂිත බන්ධනාගාරගත කර සිටින බැකෝ සමන් නමැත්තාගේ බිරිඳ වන ශාධිකා ලක්ෂානී නමැත්තිය ලබන 09 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ සැකකාරියගේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අසංක එස් බෝදරගම මහතා මෙම නියෝගය නිකුත් කළේය.
+
+එම සැකකාරිය මිද්දෙණිය අවට සිදුවූ බව කියන මත්ද්‍රව්‍ය ජාවාරම්වලට කුමන ආකාරයෙන් සම්බන්ධ වී තිබේදැයි දැක්වෙන සාක්ෂි සම්පීඩනයක් මීළඟ දින අධිකරණයට ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට නියම කළේය.
+
+◼️
+
+[Data](articles/a1ddcce9.json)
+
+---
+
+### තලාව අනතුරින් 4ක් මිය යයි
+
+*2025-09-25 11:35:30* · [`adalk`](https://www.ada.lk/breaking_news/තලාව-අනතුරින්-4ක්-මිය-යයි/11-418714) · `si`
+
+අනුරාධපුර - කුරුණෑගල ප්‍රධාන මාර්ගයේ තලාව මීරිගම හංදිය අනුරාධපුර දෙස සිට කුරුණෑගල දෙසට ගමන් කළ ලොරි රථයක් සහ කුරුණෑගල දෙස සිට අනුරාධපුර දෙසට ගමන් කළ වෑන් රථයක් අද (25) අලුයම මුහුණ මුහුණ ගැටීමේ සිදුවූ රිය අනතුරෙන් මියගිය ගණන හතරක් දක්වා ඉහළ ගොස් තිබේ.
+
+අනතුරෙන් තුවාල ලැබු වෑන් රථයේ රියදුරු ඇතුළු පුද්ගලයින් හය දෙනෙකු සහ ලොරි රථයේ රියදුරු ප්‍රතිකාර සඳහා තලාව රෝහලට ඇතුළත් කෙරුණි.එහිදි වෑන් රථයේ ගමන් කළ පුද්ගලයින් තිදෙනෙකු මියගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+තුවාල ලැබූ වෑන් රථයේ ගමන්ගත් අනෙක් පුද්ගලයින් තිදෙනාගේ තත්ත්වය බරපතළ බැවින් ඔවුන් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කිරීමෙන් පසු තවත් පුද්ගලයෙකු මියගොස් ඇති අතර අනෙක් දෙදෙනාගේ තත්ත්වය බරපතළ බව පොලීසිය සඳහන් කරයි.
+
+වෑන් රථය පෞද්ගලික ඇඟලුම් කම්හලකට අයත් වෑන් රථයක් වන අතර එය ජා ඇළ ප්‍රදේශයේ සිට මුලතිව් දක්වා ගමන්ගත් ගත් එකක් බව තලාව පොලීසිය සඳහන් කළේය.
+
+මිය ගිය පුද්ගලයින් අතර වෑන් රථයේ රියදුරු ඇතුළු පිරිමි පුද්ගලයින් සිව්දෙනෙකු බව පොලීසිය වැඩිදුරටත් පැවසුවේය.අනතුරට හේතුව වෑන් රථයේ රියදුරුට නින්ද යාම බවට මූලික පරීක්ෂණවලදී හෙළිව තිබේ.
+
+◼️
+
+[Data](articles/31c1ff89.json)
+
+---
+
+### Powerful earthquake in Venezuela
+
+*2025-09-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226033) · `ta`
+
+600 km from the capital of Karakas, the capital, at Meni Grand, in Julia, northwest of Venezuela. The powerful earthquake in the west occurred.
+
+It was recorded at 6.2 on the Rister Scale. This landfill is 7.8 km. Was the center of the depth. The earthquake was felt in various provinces of the country and neighboring Colombia.
+
+Thus, many fled from homes and office buildings located along the border. However, no information has been revealed in both countries. However, Venezuela President Nicolas Maduro presided over the scientific event on state television.
+
+During the earthquake and after that there was no disruption on the TV show. Subsequently, the earthquake was felt at 3.9 in Julia and 5.4 in Parinas Province.
+
+◼️
+
+[Data](articles/5708190c.json)
+
+[Extended Data](ext_articles/5708190c.ext.json)
+
+---
+
+### තද වැසි ගැන කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2025-09-25 11:24:31* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-ගැන-කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-418712) · `si`
+
+බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වලත් විටින් විට  වැසි ඇතිවන බව අවාවාදාත්මක නිවේදනයක් නිකුත් කරමින් කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව කියයි.
+
+එම ප්‍ර දේශවල ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බවද අද පෙරවරු 10.30ට නිකුත් කළ මෙම
+
+නිවේදනය හෙට (26දා) පෙරවරු 10.30 දකවා වලංගු බවද එම දෙපාර්තමේන්තුව කියයි .
+
+◼️
+
+[Data](articles/e223bac8.json)
+
+---
+
+### வெனிசுலாவில் பாரிய நிலநடுக்கம்
+
+*2025-09-25 11:22:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெனிசுலாவில்-பாரிய-நிலநடுக்கம்/50-365261) · `ta`
+
+உலக அளவில் மிக பெரிய எண்ணெய் வளம் கொண்ட நாடான வெனிசுலாவின் வடமேற்கே ஜூலியா மாகாணத்தில் மெனி கிராண்ட் என்ற இடத்தில், தலைநகர் காரகாஸ் நகரில் இருந்து 600 கி.மீ. மேற்கே சக்தி வாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது.
+
+இதனால், எல்லை பகுதியருகே அமைந்த வீடுகள், அலுவலக கட்டிடங்களில் இருந்து பலர் தப்பி வெளியே ஓடினர்.
+
+ஆனால், அரசு தொலைக்காட்சியில் வெனிசுலா ஜனாதிபதி நிகோலஸ் மதுரோ அறிவியல் சார்ந்த நிகழ்ச்சியை தலைமையேற்று நடத்தினார்.
+
+நிலநடுக்கத்தின்போதும், அதற்கு பின்னரும் இந்த தொலைக்காட்சி நிகழ்ச்சியில் இடையூறு எதுவும் ஏற்படவில்லை. இதன்பின்பு, ஜூலியா மாகாணத்தில் 3.9 மற்றும் பரினாஸ் மாகாணத்தில் 5.4 என்ற அளவில் நிலநடுக்கம் உணரப்பட்டது
+
+◼️
+
+[Data](articles/b36e3731.json)
+
+---
+
+### கழிப்பறையை பூட்டவேண்டாம்: அர்ச்சுனா அதிரடி
+
+*2025-09-25 11:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிப்பறையை-பூட்டவேண்டாம்-அர்ச்சுனா-அதிரடி/175-365260) · `ta`
+
+பாராளுமன்றத்தில் இன்று (25) ஒழுங்குப் பிரச்சினையை எழுப்பிய யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் ராமநாதன் அர்ச்சுனா, பாராளுமன்றத்தில் பொது கழிப்பறையை பூட்டுப்போட்டு பூட்டவேண்டாம் என்று கேட்டுக்கொண்டார்.
+
+"பாராளுமன்றத்தில் உள்ள எங்கள் பொது கழிப்பறை 4:30 மணிக்கு மூடப்படும் என்று பொலிஸார் கூறுகிறார்கள். கழிப்பறையில் உள்ள உபகரணங்களை கழற்றி எடுத்துச் செல்வதாகக் கூறியே  அதை அப்படியே மூடுவதாக தெரிவிக்கின்றனர்.   அதன் பிறகு அவர்களுக்கு எங்கும் செல்ல முடியாது. எனவே, இரவில் கூட பொது கழிப்பறையை திறந்து வைக்கச் சொல்ல  சொல்லுங்கள்," என்று அர்ச்சுனா கூறினார்.
+
+◼️
+
+[Data](articles/955e0fe3.json)
+
+---
+
+### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
+
+*2025-09-25 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226031) · `ta`
+
+At the current session of the United Nations Human Rights Council in Geneva, it is possible to pass a hazardous resolution on Sri Lanka. The government wants to come to an end to the occasional monitoring of Sri Lanka's human rights situation.
+
+◼️
+
+[Data](articles/73c3d223.json)
+
+[Extended Data](ext_articles/73c3d223.ext.json)
+
+---
+
+### 20 years rigorous imprisonment for a father who sexually abused two daughters in Batticaloa
+
+*2025-09-25 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226030) · `ta`
+
+Batticaloa High Court Judge RJ Prabhakaran today ruled that the father of 7 and 8 -year -old daughters in the district of Batticaloa has been sentenced to 20 years in prison for sexually abusing her 7 and 8 years of imprisonment for the victims of Rs.
+
+The 56 -year -old father was arrested in October 2016 for allegedly sexually abusing two daughters, including a 7 and 8 -year -old daughter, including the daughter of a mentally ill.
+
+Police have registered a case in the Supreme Court against the arrested person and then released on bail.. This is followed by trial.
+
+On September 27 last year, he was found guilty of evidence, evidence and legal doctor's report on four allegations for sexually abusing 16 -year -old girls against the man.
+
+...
+
+[Data](articles/500d23fb.json)
+
+[Extended Data](ext_articles/500d23fb.ext.json)
+
+---
 
 ### President holds a bilateral meeting with several foreign state prabelines
 
@@ -67,6 +255,42 @@ The number of accident occurred near the Talawa Mirigama Junction on the Anuradh
 [Data](articles/578c14c6.json)
 
 [Extended Data](ext_articles/578c14c6.ext.json)
+
+---
+
+### Minister Vijitha Herath discusses with Foreign Ministers Maldives, Finland and Germany
+
+*2025-09-25 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226028) · `ta`
+
+External Affairs Minister Vijitha Herath Maldives, Finance and Germany, who has visited the United States to attend the 80th General Assembly session of the United Nations, has held bilateral discussions with Foreign Ministers.
+
+Minister Vijitha Herath meets Maldivian Foreign Minister Abdullah Khalil. Both reviewed cooperation and analyzed ways to further strengthen bilateral relationships.
+
+Meanwhile, Vijitha Herath also met Foreign Minister Elena Waltonan.. Debates on strengthening cooperation between Sri Lanka and Finland were focused.
+
+During a meeting with German Foreign Minister Seraf Gular, Foreign Minister Vijitha Herath discussed the promotion of bilateral cooperation and the shared perspectives on major global issues.
+
+◼️
+
+[Data](articles/69bfb717.json)
+
+[Extended Data](ext_articles/69bfb717.ext.json)
+
+---
+
+### கற்பிட்டியில் விபத்து : பாதசாரி உயிரிழப்பு
+
+*2025-09-25 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226027) · `ta`
+
+A pedestrian has died after a motorcycle crashed into a pedestrian in the Balaviya area of ​​the Kalpitiya police division.
+
+The motorcycle driver and the pedestrian were seriously injured in the accident.
+
+◼️
+
+[Data](articles/6100bb2a.json)
+
+[Extended Data](ext_articles/6100bb2a.ext.json)
 
 ---
 
@@ -517,6 +741,24 @@ Thirteen clergy traveled in the cable car when the accident occurred. Remble
 [Data](articles/42ba414f.json)
 
 [Extended Data](ext_articles/42ba414f.ext.json)
+
+---
+
+### கேபிள் கார் அறுந்து விழுந்ததில் 7 பௌத்த துறவிகள் மரணம்
+
+*2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/150-365252) · `ta`
+
+குருநாகலை - மெல்சிரிபுர நா உயன பகுதியில், நேற்று மதகுருமார்களை ஏற்றிச் சென்ற கேபிள் கார் அறுந்து விழுந்து விபத்துக்குள்ளானதில் 7 பேர் உயிரிழந்தனர்.
+
+உயிரிழந்தவர்களில் இரண்டு ரஷ்ய துறவிகளும், கம்போடிய துறவி ஒருவரும் அடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+அத்துடன், இந்த சம்பவத்தில் காயமடைந்த 6 பேர் குருநாகலை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+விபத்து நேர்ந்த சந்தர்ப்பத்தில் குறித்த கேபிள் காரில் 13 மதகுருமார்கள் பயணித்துள்ளனர். R
+
+◼️
+
+[Data](articles/ecbc462e.json)
 
 ---
 
@@ -1741,309 +1983,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/dedb7e1b.json)
 
 [Extended Data](ext_articles/dedb7e1b.ext.json)
-
----
-
-### Zaco Information Technology Lanka officially launches in Sri Lanka
-
-*2025-09-24 23:03:00* · [`islandlk`](http://island.lk/zaco-information-technology-lanka-officially-launches-in-sri-lanka/) · `en`
-
-Enterprise-Grade IT Hardware, Lifecycle Management, and Green IT Solutions Now Available to Sri Lankan Enterprises
-
-Zaco Information Technology Lanka (PVT) Ltd. has officially launched operations in Sri Lanka as a joint venture between Zaco Computers India and InfoChain Private Limited. The launch event, held at the Computer Society of Sri Lanka (CSSL) Auditorium, marks a key milestone in the company’s international expansion, bringing global-standard IT solutions to the region.
-
-The event was attended by Siraj Kazi (Chairman), Hafiz Sayed (Managing Director), and directors Dr. Malitha Wijesundara and Heshan Karunaratne, along with distinguished guests from the IT and business community.
-
-Welcoming the audience, Fawaz Haque introduced Zaco’s vision and highlighted the importance of technology in accelerating Sri Lanka’s economic growth.
-
-...
-
-[Data](articles/cabffcef.json)
-
-[Extended Data](ext_articles/cabffcef.ext.json)
-
----
-
-### Sri Lanka adolescents beat Sri Lanka
-
-*2025-09-24 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214974) · `si`
-
-Sri Lanka Under-19 team was able to win six wickets in the third wicket match against the under-19 women's group.
-
-Sri Lanka became able to confirm the winner wins the tournament with a 3-0 match against this winner.
-
-Australia scored 100 runs for the loss of 100 wickets for the loss of 6 wickets.
-
-Emily Powell scored 32 runs and Suzy Finn scored 31 runs.
-
-2 wickets and Limmansa Tillakaratne took 02 wickets for 20 runs.
-
-Chasing a target of 101 runs, scored 101 runs for the loss of 4 runs.
-
-There were talented by the balloon (36) and Wimamber Balasuriya.
-
-Lilley Hamilton took 2 wickets for 16 runs, but it was not sufficient to win.
-
-◼️
-
-[Data](articles/8f38b1a6.json)
-
-[Extended Data](ext_articles/8f38b1a6.ext.json)
-
----
-
-### Solid waste recycling centers to be established across Sri Lanka
-
-*2025-09-24 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112884/solid-waste-recycling-centers-to-be-established-across-sri-lanka) · `en`
-
-A program has been initiated to establish solid waste recycling centers at local government institutions to facilitate the conversion of solid waste into recyclable materials.
-
-According to the President’s Media Division, the ‘Clean Sri Lanka’ program, in collaboration with the Ministry of Public Administration, Provincial Councils, and the Ministry of Local Government, has launched the initiative.
-
-As part of this program, solid waste recycling centers will be established across various regions, with the first such center being launched at the Kattankudy Urban Council, with an expense of Rs. 50.8 million.
-
-In total, 54 locations have been selected, including six areas known for generating substantial amounts of unprocessed waste. The PMD also mentioned that feasibility studies have been conducted for 25 of these sites.
-
-◼️
-
-[Data](articles/97022a80.json)
-
-[Extended Data](ext_articles/97022a80.ext.json)
-
----
-
-### A program to boot solid waste recovery centers
-
-*2025-09-24 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214973) · `si`
-
-A program to start solid waste recovery centers to facilitate transform into solid waste materials to be reused materials.
-
-The 'Clean Sri Lanka' program and the Ministry of Public Administration, Provincial Councils and Local Government has commenced the program.
-
-Accordingly, the Solid Waste Recovery Center is covered with nine provinces, and the first program has been carried out at the Kattankudy Recovery Center at Kattankudy Urban Council at a cost of Rs.
-
-54 locations have been selected at six places that generate a garbage of unknown.
-
-◼️
-
-[Data](articles/fbdcdd52.json)
-
-[Extended Data](ext_articles/fbdcdd52.ext.json)
-
----
-
-### Emoji laughing on Facebook: screaming on young man in Gujarat; Arresting
-
-*2025-09-24 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226002) · `ta`
-
-A 20 -year -old youth has been stabbed to death in a fight for the use of Laughing Emoji on social network Facebook. The incident has caused a stir in Rajkot, Gujarat, India.
-
-Prince Kumar, a young man from Bihar, died after being shouted.
-
-He has been working with his three relatives at a factory in Gujarat.
-
-Prince posted a post on his Facebook page about his grandfather Rupnarayan Bind, who died four months ago. Bipin Kumar Rajinder Gond responded to a smiling emoji. This resulted in an argument between them.
-
-On September 12 last year, the Bipin came to the scene while Prince was sitting in a three -wheeler outside the factory.
-
-Another suspect, Brijesh Gond, also threatened to kill Prince. During the confrontation, Bipin stabbed with a knife on the back of Prince.
-
-Prince's back was injured with a depth of 1.5 to 2 inches. Immediately he was admitted to the hospital. Doctors said the injury was not serious at the beginning.
-
-...
-
-[Data](articles/11a4821d.json)
-
-[Extended Data](ext_articles/11a4821d.ext.json)
-
----
-
-### India is on our side - Ukrainian President Jelensky
-
-*2025-09-24 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226001) · `ta`
-
-In an interview with Ukrainian President Jelenski yesterday, Russia's war on Ukraine said that India is mostly on their side and that India should be kept on their side.
-
-Russia - India is not in favor of Russia as China is acting in favor of Russia. On the contrary, Jelensky noted that India is mostly on our side.
-
-He hoped that despite some contradictions in the affair of India's oil from Russia, they could deal with them.
-
-Jelensky urged European countries to strengthen relations with India and put India on their side.
-
-India has repeatedly urged the end of the war that has been going on for more than three years. India's position is that "this era is not for war, but peace in the world". In this scenario, these ideas of the Ukrainian Chancellor are significant.
-
-◼️
-
-[Data](articles/c2867aa8.json)
-
-[Extended Data](ext_articles/c2867aa8.ext.json)
-
----
-
-### WhatsApp-Bill New Update: Introduction of Translation Facility
-
-*2025-09-24 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226000) · `ta`
-
-WhatsApp, the inevitable process of smartphones, is to introduce a new feature to translate text messages from users. By this, the language will no longer be an obstacle.
-
-The main feature of this update is the facility of translating and reading a user's sending text into any language.
-
-Initially, the service is to be launched in 19 languages ​​including English, Hindi, Arabic and Spanish.
-
-Since Meta has acquired WhatsApp, various new features have been continued to be launched, such as photo, video, pdf files and status.
-
-The translation, which is currently being brought, is expected to be a boon for millions of users around the world.
-
-◼️
-
-[Data](articles/280ed62d.json)
-
-[Extended Data](ext_articles/280ed62d.ext.json)
-
----
-
-### Sri Lanka named No. 1 destination to visit in October
-
-*2025-09-24 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112883/sri-lanka-named-no-1-destination-to-visit-in-october) · `en`
-
-Sri Lanka has been ranked the number one destination to visit in the month of October by global travel magazine Time Out which released its annual list of the world’s top travel spots for the month.
-
-Sri Lanka’s warm tropical climate, rich cultural heritage and natural landscapes have contributed to it being named the travel top destination by the magazine.
-
-The magazine highlighted Sri Lanka’s as a destination that offers “a little bit of everything” from golden beaches and hill-country hikes to ancient ruins and wildlife safaris.
-
-Türkiye is placed second while United States’ New Mexico has been ranked third in the list.
-
-Other featured destinations include Valencia (Spain), New York City (US), the Philippines, Bhutan, Bosnia and Herzegovina, Timișoara (Romania), San Francisco, and Namibia.
-
-...
-
-[Data](articles/0ba10b94.json)
-
-[Extended Data](ext_articles/0ba10b94.ext.json)
-
----
-
-### Tire Zameen Bar movie should be screened in Parliament - Bimal Ratnayake
-
-*2025-09-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/225996) · `ta`
-
-India's 'Tare Jameen Bar' has had a huge impact on me and my wife. Has inspired to think about the needs of children. Pimal Ratnayake, the chief minister and minister of the council, said the film should be screened for MPs.
-
-He was speaking at a debate on the Penal Code (Amendment) Bill held in Parliament on Wednesday (24).
-
-It is impossible to accept that they will grow up only if children are physically punished. Current parents do not physically punish children.
-
-I recently watched the movie 'Tare Jameen Bar' of India. After seeing this film, it had a huge impact on me and my wife. The film inspired us to think about the needs of children.
-
-Members of Parliament who talks about children should watch the film. Otherwise, they should screen the film. So I ask you to see this image.
-
-◼️
-
-[Data](articles/b34a9444.json)
-
-[Extended Data](ext_articles/b34a9444.ext.json)
-
----
-
-### The father passed into a lorry
-
-*2025-09-24 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214972) · `si`
-
-A father has died in an unfortunate accident in Wennappuwa.
-
-The kick pedal of his motorcycle was not properly implemented, and he tried to push his motorcycle.
-
-There, the motorcycle lost unexpected control and was thrown to the road, and he was subdued to a timber transporting on the road.
-
-He was a resident of Dummaladeniya, Wennappuwa, Wennamaladeniya.
-
-◼️
-
-[Data](articles/2febc50b.json)
-
-[Extended Data](ext_articles/2febc50b.ext.json)
-
----
-
-### Steps to include counseling and psychology in school syllabus
-
-*2025-09-24 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214971) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
-
-The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
-
-The Minister further stated that these programs should be implemented to all schools in accordance with a proper plan covering all provinces covering all provinces in the country.
-
-The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
-
-The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
-
-◼️
-
-[Data](articles/658e9c35.json)
-
-[Extended Data](ext_articles/658e9c35.ext.json)
-
----
-
-### Tensions of a massive ditch in Thailand
-
-*2025-09-24 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/225999) · `ta`
-
-A large sudden sudden sudden suddenly occurred on Wednesday morning (24) on the road in front of the Vajira Hospital in Bangkok, Thailand.. The groove continues to expand and is now spreading to the front of the Samsen police station.
-
-The depth of the abyss is more than 50 meters, which has caused fear of a major accident.
-
-Due to this accident, the Dusit District Office, Vajira Hospital Sang Hi and the roads around it have been closed.
-
-Officials are investigating the cause of the sudden crater.
-
-◼️
-
-[Data](articles/2d61e10f.json)
-
-[Extended Data](ext_articles/2d61e10f.ext.json)
-
----
-
-### Sabarimalai Iyyappan Temple: Cabinet approval as a pilgrimage to Sri Lanka
-
-*2025-09-24 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/225998) · `ta`
-
-The Cabinet has approved the declaration of the Sabarimalai Iyyappan Temple as a pilgrimage recognized by the Government of Sri Lanka. Colombo Municipal Council Member S. Anandakumar said that action is being taken to inform the Government of India.
-
-The long -standing Hindu devotees visit the Sabarimalai Iyyappan Temple in the state of Kerala, India, from November 1 to January 31st of next year.. The temple is currently a pilgrimage to more than 15,000 devotees annually.. In two more months, Iyappa Samimars will wear evening and go to Sabarimala.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Religious and Cultural Affairs to declare the pilgrimage to the Sabarimalai Iyyappan Temple by the Sri Lankan Hindu pilgrims to declare and provide facilities to the Government of Sri Lanka.. We have been recognized for the continuous programs.
-
-...
-
-[Data](articles/18f1eaa4.json)
-
-[Extended Data](ext_articles/18f1eaa4.ext.json)
-
----
-
-### Tariffs and conflict causing major volatility in shipping industry, says UN trade agency
-
-*2025-09-24 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112882/tariffs-and-conflict-causing-major-volatility-in-shipping-industry-says-un-trade-agency) · `en`
-
-The shipping industry is experiencing major volatility amid rising geopolitical tensions and disruptions caused by a wave of new tariffs, according to a report published on Wednesday by the U.N. Trade and Development agency.
-
-Due to an increasingly complex and uncertain global trade environment, subdued industrial activity in major economies and weak Chinese demand for bulk commodities, UNCTAD has revised down its maritime trade growth forecast for 2025.
-
-It now projects overall maritime trade volume to expand 0.5 per cent annually, with containerized trade growing slightly faster at 1.4 per cent.
-
-The report highlights that trade policy shifts, including new tariffs, are disrupting global supply chains.
-
-Maritime navigation in the Black Sea has been complicated by Russia’s war in Ukraine. Conflict in the Middle East drove up shipping costs as vessels were rerouted around the Cape of Good Hope following disruption to the Red Sea, UNCTAD said.
-
-...
-
-[Data](articles/a9fb7dc0.json)
-
-[Extended Data](ext_articles/a9fb7dc0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 05:56:58**
+As of **2025-09-25 06:21:31**
 
 ## Newspaper Stats
 
-*Scraped **78,001** Articles*
+*Scraped **78,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,706
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,533
-adalk | 7,578
+adalk | 7,579
 adaderanalk | 10,124
 tamilmirrorlk | 11,757
 virakesarilk | 12,689
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-77,988 (100.0%) of 78,001 articles have been extended.
+77,988 (100.0%) of 78,002 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1460,6 +1460,20 @@ It is learned that the husband of the little girl is serving as a small driver i
 
 ---
 
+### උපදේශනය හා මනෝ විද්‍යාව පාසල් විෂය නිර්දේශයට
+
+*2025-09-24 17:53:42* · [`adalk`](https://www.ada.lk/breaking_news/උපදේශනය-හා-මනෝ-විද්‍යාව-පාසල්-විෂය-නිර්දේශයට/11-418705) · `si`
+
+උපදේශනය හා මනෝ විද්‍යාව පාසල් විෂය නිර්දේශයට ඇතුළත් කළ යුතු බව ද ඒ සඳහා ගුරුවරුන් බඳවා ගැනීමට අවශ්‍ය සැලැස්මක් සකස් කළ යුතු බව ද අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මිය පැවසී ය.
+
+අමාත්‍යවරිය මේ බව ප්‍රකාශ කළේ පාසල් තුළ අධ්‍යාපනය හදාරන සිසු සිසුවියන්ගේ මානසික මට්ටම යහපත් පරිදි පවත්වාගෙන යා හැකි මනෝ උපදේශන ජාතික ප්‍රතිපත්තියක් සකස් කිරීමේ  වැඩටහනේ වර්තමාන තත්ත්වය පිළිබඳ දැනුම්වත් කිරීමේ සාකච්ඡාවකට එක් වෙමිනි.
+
+...
+
+[Data](articles/1446cab9.json)
+
+---
+
 ### UK police arrest man over cyberattack that affected European airports
 
 *2025-09-24 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112872/uk-police-arrest-man-over-cyberattack-that-affected-european-airports) · `en`
@@ -2067,29 +2081,5 @@ The former Navy Commander was arrested on July 28 by the CID in connection with 
 [Data](articles/1ca71ceb.json)
 
 [Extended Data](ext_articles/1ca71ceb.ext.json)
-
----
-
-### CEB workers decide against strike action but to continue work-to-rule campaign
-
-*2025-09-24 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/112861/ceb-workers-decide-against-strike-action-but-to-continue-work-to-rule-campaign) · `en`
-
-The ongoing ‘work-to-rule’ campaign launched by several trade unions attached to the Ceylon Electricity Board (CEB) will continue beyond midnight today (24).
-
-A spokesperson stated that all trade unions affiliated with the CEB meet this afternoon to make a collective decision on the next course of action regarding future activities.
-
-Accordingly, members have decided not to continue the ongoing ‘work-to-rule’ campaign after authorities failed to provide any solutions to their demands.
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU), along with other affiliated unions, had initially decided to stage the trade union action under three phases.
-
-The first phase was initiated as a ‘work-to-rule’ trade union action.
-
-In the second phase, all employees reported sick leave in two groups on September 17 and 18, during which a demonstration was also staged opposite the CEB head office.
-
-...
-
-[Data](articles/ff2d2056.json)
-
-[Extended Data](ext_articles/ff2d2056.ext.json)
 
 ---

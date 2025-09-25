@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 13:40:16**
+As of **2025-09-25 13:57:11**
 
 ## Newspaper Stats
 
-*Scraped **78,086** Articles*
+*Scraped **78,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,588
 adaderanalk | 10,147
-tamilmirrorlk | 11,772
+tamilmirrorlk | 11,773
 virakesarilk | 12,705
-adaderanasinhalalk | 13,639
+adaderanasinhalalk | 13,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,085 (100.0%) of 78,086 articles have been extended.
+78,086 (100.0%) of 78,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### பக்கோ சமனின் மனைவிக்கு விளக்கமறியல் நீடிப்பு
+
+*2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
+
+இந்தோனேசியாவில் பிரபல போதைப்பொருள் கடத்தல்காரர்கள் மற்றும் குற்றவியல் கும்பல் உறுப்பினர்களுடன் இருந்தபோது கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான பக்கோ சமன் மனைவியின் விளக்கமறியல்  அடுத்த மாதம் 9 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது. இதற்கான உத்தரவு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகமவினால் வியாழக்கிழமை (25) பிறப்பிக்கப்பட்டது.
+
+மித்தெனிய பகுதியில் சந்தேகநபர் சஜிகா லக்ஷனி செய்ததாகக் கூறப்படும் போதைப்பொருள் குற்றச்சாட்டுகள் தொடர்பான அறிக்கையை சமர்ப்பிக்குமாறு சிஐடிக்கு நீதிமன்றம்  உத்தரவிடப்பட்டது.
+
+புகார்தாரர் சார்பாக அரசு வழக்கறிஞர் மற்றும் சந்தேகநபரின் வழக்கறிஞர்கள் அளித்த சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/7e54774a.json)
+
+---
+
+### ආරණ්‍ය සේනාසනයේ අනතුරෙන් අපවත් වූ හිමිවරු ගැන අනාවරණයක්
+
+*2025-09-25 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214995) · `si`
+
+මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසනයේ භික්ෂූන්ගේ ගමන් පහසුව සඳහා යොදාගත් ඩක්කුවක් කඩා වැටිමෙන් එහි වැඩම කළ භික්ෂුන් වහන්සේ 7 නමක් අපවත් වූහ.
+
+◼️
+
+[Data](articles/329e5ceb.json)
+
+---
 
 ### Celebrates World Ayurvedic Day for Man and Earth
 
@@ -1264,19 +1292,23 @@ Police have introduced a new telephone number to senior DIGs in charge of 9 prov
 
 ---
 
-### මාරක අනතුරු 4කින් හතරක් මරුට
+### Four killed in 4 fatal accidents
 
 *2025-09-25 07:20:57* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-අනතුරු-4කින්-හතරක්-මරුට/11-418709) · `si`
 
-ඊයේ දිනයේදී පොලිස් වසම් 4ක් තුළ සිදුවූ මාරක අනතුරු හතරකින් පුද්ගලයන් 4 දෙනෙක් ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය කියයි.
+Four persons were killed in four fatal accidents in four police divisions yesterday.
 
-මහවෙල පොලිස් වසම - 2025.09.24 වන දින සවස් කාලයේ මහවෙල පොලිස් වසමේ පල්ලේපොල කොහොලන්වල මාර්ගයේ නිලව හන්දියේදී කොහොලන්වල දෙස සිට පල්ලේපොල දෙසට ධාවනය වූ ලොරි රථයක් ප්‍රථිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී  අනතුරක් සිදුව ඇත. අනතුරින් යතුරුපැදිකරු බරපතල තුවාල ලබා මාතලේ රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇත. මරණකරු වයස අවුරුදු ‍59 ක් වූ පල්ලේපොල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Mahawela Police Division - Mahawela Police Divisions in Mahawela Police Division in Koholan road to Pallethawala road. Motorcyclist seriously injured and admitted to Matale hospital. The deceased is a 59 year old resident of Pallepola.
 
-නිට්ටඹුව පොලිස් වසම - 2025.09.24 වන දින උදෑසන කාලයේ නිට්ටඹුව පොලිස් වසමේ කොළඹ මහනුවර මාර්ගයේ නාඹුළුව හන්දිය අසලදී කොළඹ දෙස සිට මහනුවර දෙසට ධාවනය වූ ටිපර් රථයක් ප්‍රථිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී  අනතුරක් සිදුව ඇත. අනතුරින් යතුරුපැදිකරු බරපතල තුවාල ලබා වතුපිටිවල රෝහලට ඇතුලත් කිරීමේදී මියගොස් ඇත. මරණකරු වයස අවුරුදු ‍33 ක් වූ මාහේනගම, වරකාපොල ප්‍රදේශයේ පදිංචි පොලිස් කොස්තාපල්වරයෙකි.
+Nittambuwa Police Division - A Tipper from Colombo to Kandy, near Colombo, has collided with a motorcycle to Kandy at the Ven.. The motorcyclist seriously injured and died on admission to Wathupitiwala Hospital. The victim is a 33 year old resident of Mahenagama, Warakapola.
+
+Kalpitiya Police Division - Palmyraya, who was traveling towards the Kalpitiya road in Kalpitiya road, has been hit by a motorbike from Kalpitiya road in Kalpitiya road in Kalpitiya road.. Motorcyclist and pedestrian personnel were seriously injured and the pavement was killed when he was admitted to Kalpitiya Hospital. The deceased is a 39 year old resident of the Palakudawa area.
 
 ...
 
 [Data](articles/9d70a525.json)
+
+[Extended Data](ext_articles/9d70a525.ext.json)
 
 ---
 
@@ -1957,45 +1989,5 @@ The husband of the little girl is serving as a small driver in the hospital and 
 [Data](articles/37da0c4b.json)
 
 [Extended Data](ext_articles/37da0c4b.ext.json)
-
----
-
-### Zakath and poverty: Why the powerful tool falls short in Sri Lanka
-
-*2025-09-25 02:07:30* · [`dailyftlk`](https://www.ft.lk/columns/Zakath-and-poverty-Why-the-powerful-tool-falls-short-in-Sri-Lanka/4-782124) · `en`
-
-Zakath is designed not merely to relieve poverty temporarily but to eradicate it by creating economic balance and social solidarity
-
-Modern business enterprises are scientific, complex, and competitive. No project can succeed without rigorous planning — including feasibility studies, project appraisals, business models, and risk management strategies. Although zakath administrators and volunteers dedicate themselves selflessly, most lack the technical expertise required for such tasks. Many are unfamiliar with the importance of professional assessments, while others are hesitant to allocate funds for preliminary studies, considering them “wasteful.” This approach, however, contradicts both reason and revelation
-
-...
-
-[Data](articles/80812b7b.json)
-
-[Extended Data](ext_articles/80812b7b.ext.json)
-
----
-
-### President Dissanayake addresses UN General Assembly
-
-*2025-09-25 00:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112886/president-dissanayake-addresses-un-general-assembly) · `en`
-
-President Anura Kumara Dissanayake today addressed the General Debate of the 80th Session of the UN General Assembly (UNGA) at the United Nations in New York.
-
-The Sri Lankan President touched on topics including global poverty, debt burden of developing nations and the drug menace during his speech.
-
-This is President Dissanayake’s first time addressing the UN General Assemble since assuming office.
-
-The President arrived at John F. Kennedy International Airport at approximately 8:50 a.m. US time on Tuesday.
-
-Upon his arrival, President Dissanayake was warmly received by Sri Lanka’s Permanent Representative to the United Nations, former Chief Justice and President’s Counsel Jayantha Jayasuriya, along with members of his delegation.
-
-During his visit, the President met with the United Nations High Commissioner for Human Rights Volker Türk and is also expected to hold bilateral meetings with the UN Secretary-General and several world leaders.
-
-...
-
-[Data](articles/3f73832b.json)
-
-[Extended Data](ext_articles/3f73832b.ext.json)
 
 ---

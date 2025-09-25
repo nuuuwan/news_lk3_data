@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 20:40:08**
+As of **2025-09-25 20:56:26**
 
 ## Newspaper Stats
 
@@ -26,43 +26,53 @@ adaderanasinhalalk | 13,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,153 (100.0%) of 78,156 articles have been extended.
+78,156 (100.0%) of 78,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### காலி நகரின் பல வீதிகள் நீரில் மூழ்கின
+### Many streets of the city of Galle were submerged
 
 *2025-09-25 20:13:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-நகரின்-பல-வீதிகள்-நீரில்-மூழ்கின/175-365288) · `ta`
 
-இன்று (24) மாலை பெய்த பலத்த மழை காரணமாக காலி நகரின் பல வீதிகள் நீரில் மூழ்கின.
+Due to heavy rains this evening (24), many roads in the city of Galle were submerged.
 
-காலி - வக்வெல்ல பிரதான வீதி காலி பொலிஸ் நிலையத்திற்கு முன்னால் நீரில் மூழ்கியதுடன், காலி - பத்தேகம மாபலகம பிரதான வீதி தலாபிட்டிய பகுதியில் நீரில் மூழ்கியது.
+The Galle - Wakwella main road was submerged in front of the Galle Police Station and drowned in the Talapitiya area of ​​the Galle - Battegama Mapalakama main road.
 
-அத்துடன் சரேன்துகடே மற்றும் தனிபொல் கங்க சந்தி ஆகிய பகுதிகளும் நீரில் மூழ்கின.
+As well as Sarendukade and the private Ganga junction, the areas were submerged.
 
 ◼️
 
 [Data](articles/554e6d91.json)
 
+[Extended Data](ext_articles/554e6d91.ext.json)
+
 ---
 
-### නා උයන ආරණ්‍ය සෙනසුනේ අනතුර ගැන විධිමත් විමර්ශනයක් කරන්න - අධිකරණයෙන් නියෝග
+### Study to formal investigation into the danger of the Uyana Aranya accident - Court orders
 
 *2025-09-25 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215011) · `si`
 
-කුරුණෑගල මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසන භූමිය තුළදී ඩක්කුවක් කඩා වැටීමෙන් භික්ෂූන් වහන්සේ හත් නමක් අපවත් වීමේ සිද්ධිය සම්බන්ධයෙන් විධිමත් විමර්ශනයක් කර අධිකරණයට කරුණු වාර්තා කරන ලෙස මහව මහෙස්ත්‍රාත්වරිය පන්සියගම පොලීසියට නියෝග කර තිබේ.
+Mahawa Magistrate has ordered the Pancagama Police to report a proper investigation into the case of a discrimination of monks during the land of Malziripura, Kurunegala.
 
-සිද්ධියට අදාළ විමර්ශන සඳහා යාන්ත්‍රික ඉංජිනේරුවන්ගේ සහාය ලබාගන්නා ලෙසටද මහව මහෙස්ත්‍රාත් කංචනී අභිමානී සෙනෙවිරත්න මෙනවිය පන්සියගම පොලීසියට නියෝග කර ඇති බව 'අද දෙරණ' වාර්තාකරු පැවසීය.
+Mahawa Magistrate Kachani Abhimani Seneviratne has ordered the Pancagama Police.
 
-මෙම අනතුරින් අපවත් වූ භික්‍ෂූන් වහන්සේගේ මෘත දේහ සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්‍ෂණ පවත්වා ඊට අදාළ වාර්තා වෙන් වෙන් වශයෙන් අධිකරණය හමුවට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත්වරිය කුරුණෑගල ශික්ෂණ රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය නිලධාරීවරයාට ද නියෝග කර තිබේ.
+The Magistrate has ordered the Judicial Medical Officer of the Kurunegala Teaching Hospital to conduct the corresponding reports along the banques.
 
-ඩක්කුවක් කඩා වැටීමේ ක්‍රියාවලියේදී යම් අපරාධමය වරදක් සිදු වී ඇත්ද යන්න පිළිබඳ විමර්ශනවලදී අනාවරණය වන්නේ නම්, ඒ පිළිබඳව අධිකරණයට කරුණු වාර්තා කරන ලෙසද පන්සියගම පොලීසියට මහව මහෙස්ත්‍රාත්වරිය නියෝග කර ඇති බව සඳහන්ය.
+The Mahawa Magistrate has ordered the Pansagama police to report the facts of the event.
 
-...
+The Mahawa Magistrate was ordered that the Punyagama Police had made a demonstration of the delegation of a manuscript in the Naan Uyana.
+
+Meanwhile, Minister of Buddha and Religious Affairs, Hon.
+
+Today, he said that the cremation of the cremation of the cremation of the monks would be held today after the event.
+
+◼️
 
 [Data](articles/f26d7879.json)
+
+[Extended Data](ext_articles/f26d7879.ext.json)
 
 ---
 
@@ -392,19 +402,21 @@ Instead, the complaint was accused of supporting Gaddafi's reputation against Ga
 
 ---
 
-### පිදුරුතලාගල රක්ෂිතයේ අනවසරෙන් කදවුරු  බැදි 26 දෙනෙකු අධිකරණය හමුවට
+### 26 Unauthorized camps in Piduruthalagala forest reserve
 
 *2025-09-25 17:35:06* · [`adalk`](https://www.ada.lk/breaking_news/පිදුරුතලාගල-රක්ෂිතයේ-අනවසරෙන්-කදවුරු--බැදි-26-දෙනෙකු-අධිකරණය-හමුවට/11-418725) · `si`
 
-නුවරඑලිය පිදුරුතලාගල රක්ෂිතයට ඇතුලු වී අවසරයෙන් කදවුරු බැද නතර වී සිටි තරුණ තරුණියන් 26 දෙනෙකු නුවරඑලිය අඩවි වන කාර්යාලයේ නිළධාරින් විසින් අත්අඩංගුවට ගෙන ඇප මත මුදාහැර (25) දින එම සැකකරුවන් නුවරඑලිය මහේස්ත්‍රාත් ලංකාගනී ප්‍රබුද්ධිකා මෙනවිය වෙත ඉදිරිපත් කිරිමෙන් අනතුරුව එම සැකකරුවන් අධිකරණය හමුවේ වරද පිලිගත් නිසා එම සැකකරුවන්ට දඩුවම් ලබා දීමට ඔක්තොම්බර් (16) වන දින දක්වා කල් තැබීමට මහේස්ත්‍රාත්වරිය නියෝග කලහ.
+The suspects were arrested by the Nuwara Eliya Magistrate office to meet the suspects, as the Nuwara Eliya Magistrate and the suspects were presented to the Anuradhapura Magistrate and released on bail due to the permission.
 
-සැකකරුවන් අවසරයකින් තොරව ඉකුත් (07) වන දින පිදුරුතලාගල රක්ෂිතයේ කැරයන් යන ප්‍රදේශයට ඇතුලු වී කදවුරු බැද කදවුරු අවට ගිනි මැළ දලවා සිටින බවට නුවරඑලිය අඩවි වන කාර්යාලයේ නිළධාරින්ට ලද තොරතුරක් මත වැටීමක් සිදු කර සැකකරුවන් අත්අඩංගුවට ගෙන ඇප මත මුදාහැර තිබුනි.
+The suspects had been arrested on a tip off received by the Nuwara Eliya Forest Reserve, including the Cayanuruttagala forest reserve on the area of ​​the Viduruwattegala forest reserve.
 
-අවුරුදු 25 -30 අතර වයස් කාණ්ඩවල පසුවන සැකකරුවන් 26 දෙනා අතර තරුණියන් දෙදෙනෙකුද සිටින බවත්, එම සැකකරුවන් ගාල්ල, පානදුර, කුරුණෑගල ඇතුලු දිවයිනේ ප්‍රදේශ රැසක පිරිසක් බවත්, එම පිරිස මුහුණු පොත හරහා හදුනා ගත් පිරිසත් බවයි තොරතුරු අනාවරණය වී ඇත්තේ.
+It has been revealed that the suspects were among the 26 suspects in the age group of 25-year-old agencies that the suspects were among many parts of Panadura, Panadura and Kurunegala, identified by their families across the face.
 
 ◼️
 
 [Data](articles/332447c8.json)
+
+[Extended Data](ext_articles/332447c8.ext.json)
 
 ---
 

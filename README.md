@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 17:20:29**
+As of **2025-09-25 17:42:14**
 
 ## Newspaper Stats
 
-*Scraped **78,121** Articles*
+*Scraped **78,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,593
-adaderanalk | 10,153
+adalk | 7,594
+adaderanalk | 10,154
 tamilmirrorlk | 11,780
 virakesarilk | 12,713
-adaderanasinhalalk | 13,645
+adaderanasinhalalk | 13,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,121 (100.0%) of 78,121 articles have been extended.
+78,121 (100.0%) of 78,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### සෙල්ෆියක් නිසා ශ්‍රී ලාංකික කාන්තාවක් හොංකොංහිදී අත්අඩංගුවට
+
+*2025-09-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215004) · `si`
+
+දරුවෙකු අනතුරේ හෙළා සුළි කුණාටුවක සෙල්ෆි ඡායාරූපයක් ලබාගැනීමට උත්සාහ කිරීමේ සිද්ධියකට ශ්‍රී ලාංකික සහ ඉන්දීය කාන්තාවන් දෙදෙනෙකු හොංකොං පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙම කාන්තාවන් දෙදෙනාගෙන් අදාළ දරුවාගේ මව ඉන්දීය කාන්තාව බව සඳහන්.
+
+චීනය දෙසට හමායන 'රාගසා' සුළිකුණුව නිසා මේ දිනවල හොංකොං දේශයටද බලපෑම් ඉල්ල වී ඇත.
+
+ඒ හේතුවෙන් එරට වැසියන්ට ආරක්ෂිත ස්ථාන තුළ රැඳී සිටින ලෙසත්, වෙරළබඩ ප්‍රදේශවලින් ඈත්ව සිටින ලෙසත් එරට ආපදා අංශ අනතුරු ඇඟවීම් නිකුත් කර තිබුණි.
+
+කුණාටු රළ අතිශය අවදානම් බවත්, එය සුළු හෝ අනතුරු ඇඟවීමකින් තොරව කඩාවැදිය හැකි බවටත් ඔවුන් අනතුරු අඟවා ඇත.
+
+එවන් තත්ත්වයකදී ඉන්දීය සම්බවයක් ඇති මව, සිය දරුවා සමග සුළි කුණාටුවේ ඡායාරූපයක් ගැනීමට ගොස් තිබේ.
+
+එම සෙල්ෆි ඡායාරූපය ගෙන ඇතේ එම මවගේ මිතුරිය වන ශ්‍රී ලාංකික කාන්තාවය.
+
+ඔවුන් ඡායාරූපය ගන්නවාත් සමග එකවර රළ පහරක් කඩාවැදී තිදෙනාම ගාසාගෙන ගොස් ඇති අතර, තිදෙනාම වහාම රෝහල්ගතකර තිබේ. ඔවුන්ගේ ජීවිතවලට කිසිදු අවදානමක් නොමැති බව සඳහන්.
+
+...
+
+[Data](articles/658fc7c6.json)
+
+---
+
+### වැඩිහිටි දීමනාව හෙට බැංකුවලට
+
+*2025-09-25 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215003) · `si`
+
+සැප්තැම්බර් මාසය සඳහා වූ වැඩිහිටි දීමනාව හෙට (26) දිනයේ අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධන ප්‍රතිලාභ මණ්ඩලය දැනුම්දී තිබේ.
+
+එම මණ්ඩලය සඳහන් කරන්නෙ මෙලෙස රු. 3,014,260,000ක මුදලක් ප්‍රතිලාභීන් 602,852ක් අතරේ බෙදා හරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී ගිණුම්වලට බැර කිරීමට නියමිතය.
+
+දාල ප්‍රතිලාභින්ට සැප්තැම්බර් මස 26 දින සිට තමාට හිමි වැඩිහිටි දීමනාව අදාල අස්වැසුම ප්‍රතිලාභි බැංකු ගිනුම මඟින් ලබා ගත හැකිය.
+
+◼️
+
+[Data](articles/1b06eb95.json)
+
+---
+
+### ඉන්දුනීසියාවේ දින 03කදී පාසල් ළමුන් 1000ක් රෝහල් ගත කරයි
+
+*2025-09-25 16:45:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාවේ-දින-03කදී-පාසල්-ළමුන්-1000ක්-රෝහල්-ගත-කරයි/11-418721) · `si`
+
+ඉන්දුනීසියාවේ පාසල් සඳහා නොමිලේ ලබා ආහාර විෂවී රෝගාතුර වූ ළමුන් 1000ට වැඩි ප්‍රමාණයක් රෝහල් ගත කර තිබේ.
+
+මෙම සතියේ සඳුදා සිට බදාදා දක්වා වන දින 03න තුළ ළමන් 1,171 දෙනෙකු මෙලෙස රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/53b4bc2c.json)
+
+---
 
 ### Minister Sunil Senavi, Sajith, Mahinda, Ranil
 
@@ -89,6 +145,26 @@ The MP further stated that the Speaker refused to say that it was not denied the
 [Data](articles/838d4f67.json)
 
 [Extended Data](ext_articles/838d4f67.ext.json)
+
+---
+
+### Sri Lankan woman among 2 arrested after ‘typhoon selfie’ incident endangers child in HK
+
+*2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
+
+While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
+
+Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
+
+The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
+
+The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
+
+Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
+
+...
+
+[Data](articles/348aba08.json)
 
 ---
 
@@ -1929,71 +2005,5 @@ Seven individuals, including the drivers of both vehicles were admitted to Thala
 [Data](articles/e98e30a5.json)
 
 [Extended Data](ext_articles/e98e30a5.ext.json)
-
----
-
-### A fatal accident in the blast - three lives
-
-*2025-09-25 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214983) · `si`
-
-Three persons were killed and another injured after a lorry and van in Thalagama, Kurunegala-Anuradhapura main road.
-
-◼️
-
-[Data](articles/4f14be34.json)
-
-[Extended Data](ext_articles/4f14be34.ext.json)
-
----
-
-### Sri Lanka, UN discuss engagement of troops in peacekeeping operations
-
-*2025-09-25 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112894/sri-lanka-un-discuss-engagement-of-troops-in-peacekeeping-operations) · `en`
-
-A high-level United Nations delegation met the Secretary to the Ministry of Defence yesterday (24) to discuss enhancing collaboration in international peacekeeping missions and strengthening human rights initiatives.
-
-The delegation, led by United Nations Resident Coordinator Marc-André Franche and Deputy Director (Protection and Solutions) at the UNHCR Regional Bureau for Asia and the Pacific Karen Whiting, was received by the Defence Secretary, Air Vice Marshal Sampath Thuyacontha (Retd) at the Defence Ministry.
-
-Key areas of discussion included, the engagement of Sri Lankan troops in United Nations peacekeeping operations, accelerating the deployment screening process, conducting specialized training programs and ensuring the provision of necessary equipment conforming to UN standards.
-
-...
-
-[Data](articles/5615718c.json)
-
-[Extended Data](ext_articles/5615718c.ext.json)
-
----
-
-### About poisonous 9 provinces. පොලිස්පතිවරුන්ට සෘජුවම කියන්න අවස්ථාව
-
-*2025-09-25 07:26:17* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-මත්ද්‍රව්‍ය-ගැන-පළාත්-9-ජෙ-නි--පොලිස්පතිවරුන්ට-සෘජුවම-කියන්න-අවස්ථාව/11-418710) · `si`
-
-Police have introduced a new telephone number to senior DIGs in charge of 9 provinces in connection with poisonous drugs.
-
-◼️
-
-[Data](articles/b605b49e.json)
-
-[Extended Data](ext_articles/b605b49e.ext.json)
-
----
-
-### Four killed in 4 fatal accidents
-
-*2025-09-25 07:20:57* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-අනතුරු-4කින්-හතරක්-මරුට/11-418709) · `si`
-
-Four persons were killed in four fatal accidents in four police divisions yesterday.
-
-Mahawela Police Division - Mahawela Police Divisions in Mahawela Police Division in Koholan road to Pallethawala road. Motorcyclist seriously injured and admitted to Matale hospital. The deceased is a 59 year old resident of Pallepola.
-
-Nittambuwa Police Division - A Tipper from Colombo to Kandy, near Colombo, has collided with a motorcycle to Kandy at the Ven.. The motorcyclist seriously injured and died on admission to Wathupitiwala Hospital. The victim is a 33 year old resident of Mahenagama, Warakapola.
-
-Kalpitiya Police Division - Palmyraya, who was traveling towards the Kalpitiya road in Kalpitiya road, has been hit by a motorbike from Kalpitiya road in Kalpitiya road in Kalpitiya road.. Motorcyclist and pedestrian personnel were seriously injured and the pavement was killed when he was admitted to Kalpitiya Hospital. The deceased is a 39 year old resident of the Palakudawa area.
-
-...
-
-[Data](articles/9d70a525.json)
-
-[Extended Data](ext_articles/9d70a525.ext.json)
 
 ---

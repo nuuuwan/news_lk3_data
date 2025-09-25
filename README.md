@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 14:11:53**
+As of **2025-09-25 14:38:45**
 
 ## Newspaper Stats
 
-*Scraped **78,090** Articles*
+*Scraped **78,094** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
-colombotelegraphcom | 788
+colombotelegraphcom | 789
 economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,588
-adaderanalk | 10,147
+adalk | 7,589
+adaderanalk | 10,149
 tamilmirrorlk | 11,774
 virakesarilk | 12,705
 adaderanasinhalalk | 13,641
@@ -26,27 +26,29 @@ adaderanasinhalalk | 13,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,088 (100.0%) of 78,090 articles have been extended.
+78,093 (100.0%) of 78,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### நெடுந்தீவில் விலங்குகள் இல்லை
+### There are no animals in Nedundi
 
 *2025-09-25 13:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-விலங்குகள்-இல்லை/175-365269) · `ta`
 
-வனவிலங்கு கணக்கெடுப்பு அண்மையில் முன்னெடுக்கப்பட்டது. அதன்போது பொதுமக்கள் வழங்கிய தகவல்களில் சுமார் 50 சதவீதமானவையே துல்லியமானவை என கமத்தொழில் மற்றும் கால்நடை வளங்கள் பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்துள்ளார்.
+Wildlife Survey recently carried out. The Deputy Minister of Communication and Livestock Resources Namal Karunaratne said that about 50 per cent of the public information is accurate.
 
-பாராளுமன்றத்தில்   வியாழக்கிழமை (25) வாய்மூல விடைக்கான வினாக்கள் நேரத்தில் எழுப்பப்பட்டிருந்த கேள்விக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+He said this while responding to a question raised at the time of oral answer questions in Parliament on Thursday (25).
 
-கிடைத்த புள்ளிவிபரவியல் தகவலின் அடிப்படையில்,  மக்கா குரங்குகள்5,197,517,  குரங்குகள் 1,747,623, முள்ளம்பன்றிகள்  2,666,630 மற்றும் ராட்சத அணில்கள் 4,285,745 உள்ளனர்.
+Based on the available statistics, Makkah monkeys are 5,197,517, monkeys 1,747,623, 2,666,630 and 4,285,745.
 
-யாழ்ப்பாணத்தில் உள்ள நெடுந்தீவில் ஆறு கிராம அலுவலகர் பிரிவுகளில், மக்கா குரங்குகள், குரங்குகள், முள்ளம்பன்றிகள் மற்றும் ராட்சத அணில்கள் இல்லாததால், கணக்கெடுப்பு நடத்தப்படவில்லை எனவும்  கமத்தொழில் மற்றும் கால்நடை வளங்கள் பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்துள்ளார்.
+The Deputy Minister of Industry and Livestock Resources Namal Karunaratne has said that the survey has not been conducted in six Grama Niladhari Divisions in Neduntivu, Jaffna, due to the lack of makka monkeys, monkeys, hedgehogs and giant squirrels.
 
 ◼️
 
 [Data](articles/8f4c4c27.json)
+
+[Extended Data](ext_articles/8f4c4c27.ext.json)
 
 ---
 
@@ -79,6 +81,66 @@ The order was issued after considering the submissions made by the State Prosecu
 [Data](articles/329e5ceb.json)
 
 [Extended Data](ext_articles/329e5ceb.ext.json)
+
+---
+
+### Ex-Minister Manusha Nanayakkara summoned to Bribery Commission
+
+*2025-09-25 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112910/ex-minister-manusha-nanayakkara-summoned-to-bribery-commission) · `en`
+
+Former Minister of Labour and Foreign Employment Manusha Nanayakkara has been summoned to appear before the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Accordingly, the former Minister has been directed to appear before the Commission at 9.30 a.m. tomorrow (26).
+
+◼️
+
+[Data](articles/7424a516.json)
+
+[Extended Data](ext_articles/7424a516.ext.json)
+
+---
+
+### Indian authorities impose security restrictions in remote Ladakh after deadly clashes
+
+*2025-09-25 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112909/indian-authorities-impose-security-restrictions-in-remote-ladakh-after-deadly-clashes) · `en`
+
+Authorities in India enforced security restrictions in two main districts in the remote Ladakh region on Thursday (Sep 25), a day after four people were killed and dozens injured when police clashed with hundreds of protesters demanding greater autonomy from the Indian government for the Himalayan territory.
+
+Officials banned assembly of more than five people in Ladakh’s Leh and Kargil districts following the violent clashes Wednesday. Hundreds of police and paramilitary soldiers patrolled streets Thursday while shops and businesses remained shut due to the restrictions.
+
+Wednesday’s clashes erupted after protesters threw stones at officers trying to stop them from marching in the high-altitude town of Leh. Others set ablaze police and paramilitary vehicles and the local office of India’s ruling Bharatiya Janata Party and some other government buildings, police said.
+
+...
+
+[Data](articles/f770a5d5.json)
+
+[Extended Data](ext_articles/f770a5d5.ext.json)
+
+---
+
+### Sleeping reveals the plans to assassinate hundreds of her husband
+
+*2025-09-25 13:17:54* · [`adalk`](https://www.ada.lk/breaking_news/නිදියහනේදීම-සිය-සැමියා-ඝාතනය-කිරීමට-සැලසුම්කල-හේතු-හෙලිවෙයි/11-418719) · `si`
+
+The 43-year-old father of 43-year-old Forest Resident of the Pottugolla Police Division (23), a 43-year-old father of her wife (23) is receiving treatment at the Kandy General Hospital.
+
+The wife has attacked his head and back area in a wax.
+
+The husband had come to the house around nine o'clock last night.
+
+Initial investigations have revealed that the assault had taken place on information that her husband had run a casual relationship with another woman.
+
+The husband who was seriously injured in the incident was admitted to the Siyambalanduwa Base Hospital and was later transferred to the Moneragala district hospital for further treatment.
+
+He is currently receiving treatment at the Intensive Care Unit of the Moneragala district.
+
+Forty-year-old suspect arrested by police and produced before the Siyambalanduwa Magistrate's Court. (Ij)
+
+◼️
+
+[Data](articles/43a8955d.json)
+
+[Extended Data](ext_articles/43a8955d.ext.json)
 
 ---
 
@@ -122,19 +184,23 @@ Responding to the attacks, Israel said that Israeli said that the attack targeti
 
 ---
 
-### මනුෂට හෙට අල්ලස් කොමිෂන් කැඳවීමක්
+### Manusha tomorrow a bribery calling tomorrow
 
 *2025-09-25 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214993) · `si`
 
-2023 වසරේ කම්කරු හා විදේශ රැකියා අමාත්‍යවරයා ලෙස කටයුතු කළ මනුෂ නානායක්කාර මහතාව ප්‍රකාශයක් සටහන් කරගැනීම සඳහා හෙට (26) දිනයේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණෙන ලෙසට කඳවීමක් සිදුකර ඇත.
+Dr. Nasha Nanayakkara, the Minister of Labor and Foreign Employment in 2023, a banner has been taken to the Investigation Commission tomorrow (26).
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ඊශ්‍රායල් රාජ්‍ය අතර ඇති කරගත් කෘෂිකාර්මික අංශයේ රැකියා වැඩසටහන යටතේ 2023 නොවැම්බර් 05 වන දින අත්සන් කර ඇති ගිවිසුම අනුව මෙරට ශ්‍රමිකයින් ඊශ්‍රායාල් රාජ්‍ය වෙත යැවීම සම්බන්ධයෙන් මෙම ප්‍රකාශ සටහන් කර ගත යුතු බව ලිපියක් මගින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් හිටපු අමාත්‍ය මනුෂ නානායක්කාර මහතා දැනුම් දී තිබේ.
+Former Minister Manusha Nanayakkara has informed the Bribery or Corruption Commission to send these statements regarding the sending of the Sri Lankan workers in the Agricultural Sector Employment and the Sri Lanka Bureau of Foreign Employment and Israeli.
 
-මේ සම්බන්ධයෙන් 2025.09.08 වන දිනද ප්‍රකාශයක් ලබා ගැනීම සදහා ඒ මහතාව කොමිෂන් සභාව වෙත කැදවීම් කල නමුත් ඔහු විදේශ ගතවී සිටීම හේතුවෙන් ප්‍රකාශය ලබා දීම සදහා පැමිණීමට අපොහොසත් වී ඇත.
+The event was summoned to the Commission on 08.09.2010, but he had failed to come to the statement due to his staying abroad.
 
-...
+Therefore, the Commission of Investigation Commission has further informed the Corruption Commission to Investigate Bureau, Jawatta Road, Keppetipola Mawatha, Details of the Old National Identity Office of Keppetipola Mawatha.
+
+◼️
 
 [Data](articles/f78ea713.json)
+
+[Extended Data](ext_articles/f78ea713.ext.json)
 
 ---
 
@@ -883,6 +949,20 @@ Huge waves crashed over areas of Hong Kong’s eastern and southern shoreline on
 [Data](articles/bfdb1d9d.json)
 
 [Extended Data](ext_articles/bfdb1d9d.ext.json)
+
+---
+
+### The JVP: Marxist Lullaby Or Tamils’ Red Hope?
+
+*2025-09-25 08:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-jvp-marxist-lullaby-or-tamils-red-hope/) · `en`
+
+It was Marie Antoinette who, when the French rioted for bread, asked why not give them cake? It did not work for Marie but President Anura Kumara Dissanayake (AKD) seems a firm believer in her bag of tricks. She believed cake will work in place of bread despite the price, but does AKD? Can Tamils be bought over so easily?
+
+Many of us in the Tamil Country were willing to forget that one of the JVP’s five lessons in 1971 was that we Tamils are intrinsicallly chauvinistic and a fifth column for India as Indian aircraft and helicopters straffed JVP positions in 1971.
+
+...
+
+[Data](articles/ef96b8f0.json)
 
 ---
 
@@ -1901,81 +1981,5 @@ SLT-Mobitel We are focusing on how to turn professional innovation into a busine
 [Data](articles/66f8adaf.json)
 
 [Extended Data](ext_articles/66f8adaf.ext.json)
-
----
-
-### Bill postponing the bills that cannot cause mental impacts on children
-
-*2025-09-25 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226007) · `ta`
-
-The Second Assessment Bill (Amendment) Bill (Amendment) Bill, which includes children, parents, teachers or guardians cannot be punished or mental impacts, it was postponed for another day, but it would not be passed for another day.
-
-The debate on the Second Assessment of the Penal Code (Amendment) Bill was inaugurated by Women and Child Affairs Minister Saroja Savitri Bolraj on Wednesday (24).
-
-In addition, the opposition parties also demanded explanations raised by various issues and urged the amendments to it.
-
-It was in this context that the parents of the children. The debate on the second assessment of the Penal Code (Amendment) Bill, which includes teachers or defenders could not be punished or mental impacts, was postponed for another day.
-
-◼️
-
-[Data](articles/eb42c340.json)
-
-[Extended Data](ext_articles/eb42c340.ext.json)
-
----
-
-### Voyage Sri Lanka 2025 to set sail on 16 October
-
-*2025-09-25 03:09:41* · [`dailyftlk`](https://www.ft.lk/business/Voyage-Sri-Lanka-2025-to-set-sail-on-16-October/34-782142) · `en`
-
-From left: SLPA Harbour Master Capt. Nirmal Silva, EDB Chairman/Chief Executive Officer Mangala Wijesinghe and EDB Acting Director General Erandika Disanayake
-
-The Sri Lanka Export Development Board (EDB) yesterday announced that it will host the second edition of ‘Voyage Sri Lanka’, South Asia’s premier marine summit, on 16 October 2025 at the Kingsbury Hotel in Colombo bringing together global leaders, policymakers, investors, and professionals from across the globe in the field of Blue Economy.
-
-This year’s event will be held under the theme “Unveiling the Blue Economy Potential of Sri Lanka,” highlighting the island nation’s ambition to position itself as a regional hub for marine excellence.
-
-...
-
-[Data](articles/310deddf.json)
-
-[Extended Data](ext_articles/310deddf.ext.json)
-
----
-
-### Change in the promotion of judges; Is Senior ignored? - Mujibur Rahman
-
-*2025-09-25 03:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226006) · `ta`
-
-When the judges are promoted, the seniority has been given so far. But the system of the National People's Power has been transferred to the government and the system of promotion based on points is affected by senior judges.. Opposition member Mujibur Rahman said the government should take steps to set up a selection committee to seek unjust to the judges.
-
-He said this while addressing the debate on the Penal Code (Amendment) Bill held in Parliament on Wednesday (24).
-
-16 judges have been promoted to the Supreme Court.. 3 members should be appointed by the Court Commission to conduct an interview.
-
-But only two members conducted the interview. The question arises as to why this interview should be conducted without appointing a 3rd member. The 3rd member has been appointed only after the interview.
-
-...
-
-[Data](articles/c381a4d2.json)
-
-[Extended Data](ext_articles/c381a4d2.ext.json)
-
----
-
-### At risk of court independence; Chief Justice should pay special attention - Dayasiri Jayasekara
-
-*2025-09-25 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226005) · `ta`
-
-Minister Vasantha Samarasinghe was transferred to the court with the court of court because of the arrest of the arrest of the court.. Independent Court Service Officers Association is associated with the government with political purpose. Senior judges are ignored. Cannot accommodate these activities. We will take it to the International Court of Justice, the International Lawyers Association and the Transparency International.. United People's Power MP Dayasiri Jayasekara said the Chief Justice should pay special attention to the independence of the court.
-
-He was speaking at a debate on the Amendment Bill (Amendment) Bill on Wednesday (25) in Parliament.
-
-We gave voice to the ruling side and in the opposition in connection with the independence and legislative theory of the court. Former President Chirani Bandaranaike was summoned to Parliament, inappropriately investigated and dismissed. We fought fiercely against this.
-
-...
-
-[Data](articles/b1a83116.json)
-
-[Extended Data](ext_articles/b1a83116.ext.json)
 
 ---

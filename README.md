@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 08:51:17**
+As of **2025-09-25 09:24:05**
 
 ## Newspaper Stats
 
-*Scraped **78,024** Articles*
+*Scraped **78,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,257 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,580
-adaderanalk | 10,128
-tamilmirrorlk | 11,761
-virakesarilk | 12,689
+adalk | 7,581
+adaderanalk | 10,136
+tamilmirrorlk | 11,763
+virakesarilk | 12,694
 adaderanasinhalalk | 13,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,020 (100.0%) of 78,024 articles have been extended.
+78,036 (100.0%) of 78,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### චීන නාවික හමුදාව නව තාක්ෂණයක් අත්හදා බලයි
+### Minister Vijitha Herath holds bilateral talks with Maldives, Finland and Germany FMs
+
+*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112897/minister-vijitha-herath-holds-bilateral-talks-with-maldives-finland-and-germany-fms) · `en`
+
+Minister of Foreign Affairs Vijitha Herath has held bilateral talks with Ministers of several countries on the sideline of the 80th session of the United Nations General Assembly.
+
+Minister Herath met with Minister of Foreign Affairs of Maldives Abdulla Khaleel on the sidelines of the 80th UN General Assembly.
+
+The duo reviewed the ongoing cooperation and explored ways to further strengthen close bilateral relations.
+
+The Foreign Minister also met the Minister of Foreign Affairs of Finland, Elina Valtonen on the sidelines of the 80th UN General Assembly. The discussions focused on strengthening cooperation between Sri Lanka and Finland.
+
+Minister of Foreign Affairs Vijitha Herath discussed advancing bilateral cooperation and shared perspectives on key global issues during the meeting with the Minister of State at the Federal Foreign Office of Germany, Serap Güler.
+
+The meeting between the duo was also held on the sidelines of the 80th UN General Assembly.
+
+◼️
+
+[Data](articles/041c40f3.json)
+
+---
+
+### Hong Kong reopens after world’s most powerful cyclone Ragasa
+
+*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112898/hong-kong-reopens-after-worlds-most-powerful-cyclone-ragasa) · `en`
+
+Hong Kong resumed flights out of its international airport on Thursday after a 36-hour suspension, reopening businesses, transportation services and some schools after the world’s most powerful tropical cyclone this year lashed the financial hub.
+
+Ragasa brought the densely populated city to a standstill from Tuesday afternoon, after sweeping through the northern Philippines and Taiwan where it killed 14, before making landfall on the southern Chinese city of Yangjiang on Wednesday.
+
+More than 100 people were injured in Hong Kong, where authorities imposed the highest typhoon signal 10 for most of Wednesday.
+
+On Thursday, the observatory maintained its second-lowest typhoon signal 3, keeping kindergartens and some schools shut as Ragasa moved away from the city and weakened into a tropical storm.
+
+Huge waves crashed over areas of Hong Kong’s eastern and southern shoreline on Wednesday, with widespread flooding submerging some roads and residential properties.
+
+...
+
+[Data](articles/bfdb1d9d.json)
+
+---
+
+### Kurunegala - Three people killed, four injured
+
+*2025-09-25 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226020) · `ta`
+
+Three people were killed and four others were injured in an accident in Mirissa, Thalawa area on the Kurunegala - Anuradhapura main road.
+
+Three people died on the spot. And four are injured. The injured were immediately admitted to a nearby hospital for treatment.
+
+◼️
+
+[Data](articles/6f3a06a8.json)
+
+[Extended Data](ext_articles/6f3a06a8.ext.json)
+
+---
+
+### Crash that took place this morning: Three dies
+
+*2025-09-25 08:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-இடம்பெற்ற-கோர-விபத்து-மூவர்-மரணம்/175-365254) · `ta`
+
+Three persons were killed in a vehicle accident on the Kurunegala - Anuradhapura main road, Thalawa, Mirigama area today (25).
+
+The accident occurred when a van traveling from Kurunegala to Anuradhapura collided with a lorry.
+
+◼️
+
+[Data](articles/ad8b471a.json)
+
+[Extended Data](ext_articles/ad8b471a.ext.json)
+
+---
+
+### Driver
+
+*2025-09-25 08:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-போதையில்-வாகனம்-செலுத்திய-சாரதி/175-365253) · `ta`
+
+A driver who allegedly drove a bus while intoxicated has been arrested in Kandapalai, Nuwara Eliya.
+
+The driver of the bus belonging to the Sri Lanka Transport Board (SLTB) has been arrested from Udapusallawa to Nuwara Eliya.
+
+When the driver was arrested, about 30 people were traveling on the bus he paid, police said.
+
+A 55 -year -old driver from Udapusallawa has been arrested. Remble
+
+◼️
+
+[Data](articles/c0d14289.json)
+
+[Extended Data](ext_articles/c0d14289.ext.json)
+
+---
+
+### Iran, US signal possible easing in nuclear tensions
+
+*2025-09-25 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112896/iran-us-signal-possible-easing-in-nuclear-tensions) · `en`
+
+Tehran and Washington signalled a possible softening in nuclear tensions on Wednesday (Sep 24), with Iran insisting it has no ambitions to build nuclear weapons and the US expressing readiness to resume talks aimed at resolving the long-standing standoff.
+
+A few hours after Iranian President Masoud Pezeshkian told the UN General Assembly that Iran will never seek to build a nuclear bomb, US President Donald Trump’s Middle East Envoy Steve Witkoff said “we have no desire to hurt them”.
+
+“We’re talking to them. And why wouldn’t we? We talk to everybody. As well we should. That’s the job. Our job is to solve things,” he told the Concordia summit in New York.
+
+Prior to a 12-day war between Iran and Israel in June, Tehran and Washington held five rounds of nuclear talks but faced major stumbling blocks such as uranium enrichment on Iranian soil, which Western powers want to bring down to zero to minimise any risk of weaponisation.
+
+...
+
+[Data](articles/2a3720d1.json)
+
+---
+
+### A woman and a woman who helped her with weapons and drugs in the Matara Special Task Force Base
+
+*2025-09-25 08:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226022) · `ta`
+
+A suspect and a woman who assisted him have been arrested in the Matara Police Special Task Force, with 04 T-56 rifles, one megacin, 27 bullets and heroin.
+
+The two were arrested on Wednesday evening (September 24) in the Pavala area of ​​the Weligama Police Division.
+
+The suspect has been identified as a 38 -year -old from Weligama.
+
+The 37 -year -old woman from Weligama has been arrested after investigations.
+
+The two arrested have been taken to the Weligama Police Station for further investigations.
+
+◼️
+
+[Data](articles/5c1c76a2.json)
+
+[Extended Data](ext_articles/5c1c76a2.ext.json)
+
+---
+
+### The Chinese Navy experiments to a new technology
 
 *2025-09-25 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214984) · `si`
 
-චීන නාවික හමුදාවට අයත් දැවැන්ත ගුවන් යානා ප්‍රවාහන නෞකාවක් මත සිදුකළ නවීන ගුවන්යානා විහිදුම් තාක්ෂණ ක්‍රමවේදයක් ලෝකයේම අවධානය දිනාගත්තේය.
+A modern aircraft range of aircraft on a massive aircraft carrier from the Chinese Navy has won the world's attention.
 
-එහිදී නවීන විද්‍යුත් චුම්භක බලයෙන් සවිගැන්වූ විහිදුම් ක්‍රමවේදයක් අත්හදා තිබූ බව විදෙස් මාධ්‍ය වාර්තා කර තිබුණි.
+Foreign media reports that a highlight procedure in modern electromagnetic force had been tested.
 
-නවීන ගුවන්ගතකිරීමේ තාක්ෂණ ක්‍රමවේදයක් අත්හදාබැලීමට චීන නාවික හමුදාව පසුගියදා කටයුතු කළේය.
+The Chinese Navy recently made a modern flight technique.
 
-එහිදී නවීන ඉලෙක්ට්‍රො මැග්නටික් එනම් විද්‍යුත් චුම්භක බලයෙන් සවිගැන්වූ විහිදුම් ක්‍රමවේදයක් යටතේ එරට නෞකා ප්‍රවාහන යාත්‍රාවක සිට ගුවන් යානා කිහිපයක් ගුවන්ගත කෙරුණි.
+There was a fleet from a vessel vessel from a vessel vessel from a venerated image vessel.
 
-මෙලෙස ගුවන්ගත කෙරුණේ J-15T, J-35 සහ කොන්ජින්  - සික්ස්හන්ඩ්‍රඩ් නම් ප්‍රහාරක යානා තුනකි.
+The funded J-15t, J-35 and Congesan-Sixings are three fighters.
 
-මේ වසරට යෙදී තිබුණු ජපාන ආක්‍රමණය පැරදවීමේ 80 වැනි සංවත්සර උත්සව අතරතුර පවා ප්‍රදර්ශනය කළ මෙම යානා මේ සඳහා යොදාගැනීම කාගේත් අවධානයට ලක්විය.
+Even during the 80th anniversary invasion of the Japanese invasion this year, the aircraft used to be used for this purpose.
 
-මෙහිදී යොදාගත් විහිදුම් තාක්ෂණ ක්‍රමවේදය වැඩිදියුණු කර තිබුණේ චීන විද්‍යාඥයින් විසිනි.
+The image technologies used here was improved by Chinese scientists.
 
-එමගින් ෆූජියෑන් නෞකා තට්ටුව මත පූර්ණ මෙහෙයුම් සිදුකිරීමට ඇති හැකියාව නිරූපණය කළ අවස්ථාවක් ද ලෙස සැලකේ.
+It is also considered a chance to represent the possibility of carrying full operations on the fool.
+
+China is considered as a state that has acquired a remarkable advancement of the aircraft production product recently.
+
+The third ship of the Chinese warfront program is the Fujian.
 
 ...
 
 [Data](articles/91da4e18.json)
 
+[Extended Data](ext_articles/91da4e18.ext.json)
+
 ---
 
-### கேபிள் கார் அறுந்து விழுந்ததில் 7 பௌத்த துறவிகள் மரணம்
+### 7 Buddhist monks death after cable car
 
 *2025-09-25 08:13:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-அறுந்து-விழுந்ததில்-7-பௌத்த-துறவிகள்-மரணம்/175-365252) · `ta`
 
-குருநாகலை - மெல்சிரிபுர நா உயன பகுதியில், நேற்று மதகுருமார்களை ஏற்றிச் சென்ற கேபிள் கார் அறுந்து விழுந்து விபத்துக்குள்ளானதில் 7 பேர் உயிரிழந்தனர்.
+Seven people were killed when a cable car carrying clergymen crashed yesterday in the Kurunegala - Melsiripura Na Uyana area.
 
-உயிரிழந்தவர்களில் இரண்டு ரஷ்ய துறவிகளும், கம்போடிய துறவி ஒருவரும் அடங்குவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say two of the victims include two Russian monks and a Cambodian monk.
 
-அத்துடன், இந்த சம்பவத்தில் காயமடைந்த 6 பேர் குருநாகலை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In addition, six injured in the incident have been admitted to the Kurunegala Teaching Hospital.
 
-விபத்து நேர்ந்த சந்தர்ப்பத்தில் குறித்த கேபிள் காரில் 13 மதகுருமார்கள் பயணித்துள்ளனர். R
+Thirteen clergy traveled in the cable car when the accident occurred. Remble
 
 ◼️
 
 [Data](articles/42ba414f.json)
+
+[Extended Data](ext_articles/42ba414f.ext.json)
+
+---
+
+### Sri Lanka occupies the excellence of the Indian Ocean: Prime Minister Harini is to work with all partners
+
+*2025-09-25 08:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226018) · `ta`
+
+Located in the center of the Indian Ocean, Sri Lanka has realized the privilege and responsibility of its location. This is a miraculous setting.  We have occupied that place. Prime Minister Harini Amarasuriya said that this moment is not only for us, but also for the position we have occupied.
+
+The 12th Galle Discussion of the Indian Ocean Region began on Wednesday. The Prime Minister said this while addressing the gathering. He continues to say,
+
+I appreciate the Sri Lankan Navy's vision and continuous commitment to merge a site for discussion on the future of the Indian Ocean. It strengthens cooperation among global maritime shareholders. The theme of this year is the 'maritime outlook of the Indian Ocean under the changing mechanism' is the time and important. The Indian Ocean is one of the most extended strategic maritime fields in the world, which is also a major lifeline for trade and energy protection.
+
+...
+
+[Data](articles/58499577.json)
+
+[Extended Data](ext_articles/58499577.ext.json)
+
+---
+
+### Nothing is written in stone: Third -party solution to regional issues can lead to conflicts -Indian Navy Officer
+
+*2025-09-25 08:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226017) · `ta`
+
+The highest number of national benefits of many countries travel through the Indian Ocean. This is the homeland of a large number of crowded crisis points. Have vulnerable characteristics from all kinds of challenges. So you have to be careful. Although there are additional regional powers in the Indian Ocean region, it is necessary to find regional solutions to regional problems.  And have enough capacity within the region to find those solutions. Nothing is written on stone. Indian Navy Officer Admiral Dinesh K.. Said Tripathi.
+
+He said this while attending and addressing the 12th vacancies conference. Continuing to mention that
+
+...
+
+[Data](articles/72c3cf1b.json)
+
+[Extended Data](ext_articles/72c3cf1b.ext.json)
+
+---
+
+### UPDATE: Buddhist monks killed in Buddhist Vihara: 7 Buddhist monks killed
+
+*2025-09-25 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226021) · `ta`
+
+Seven monks, including a Buddhist monk from India, Romania and Russia, have died in the crash of the Cable-Track Operated Cart at the Bansiyagama, Na Iyana Aranya Senasana Viharaya in Upperipura.. Six more monks were injured in the accident.
+
+Melappura, Bansiyagama, Na Aranya Senasana Vikarai. Police said the accident occurred as the monks operated on the wire track used for transportation in the warehouse.
+
+Seven Buddhist monks have died. They are from Romania, Russia and India each.
+
+◼️
+
+[Data](articles/db6763bf.json)
+
+[Extended Data](ext_articles/db6763bf.ext.json)
 
 ---
 
@@ -87,6 +281,8 @@ The Sri Lanka Economic and Investment Summit is scheduled to be held on 2-3 Dece
 ...
 
 [Data](articles/a59e68b5.json)
+
+[Extended Data](ext_articles/a59e68b5.ext.json)
 
 ---
 
@@ -103,6 +299,8 @@ Top attractions include relaxing on the golden beaches of Mirissa and Bentota, e
 ...
 
 [Data](articles/6d99abf6.json)
+
+[Extended Data](ext_articles/6d99abf6.ext.json)
 
 ---
 
@@ -202,6 +400,20 @@ The proposal to this effect, submitted by Health Minister Dr. Jayatissa, was app
 
 ---
 
+### Three dead, four injured in lorry-van collision in Thalawa
+
+*2025-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112895/three-dead-four-injured-in-lorry-van-collision-in-thalawa) · `en`
+
+A head-on collision involving a lorry and a van has resulted in the death of three persons in Thalawa along the Kurunegala-Anuradhapura main road, Police stated.
+
+◼️
+
+[Data](articles/e98e30a5.json)
+
+[Extended Data](ext_articles/e98e30a5.ext.json)
+
+---
+
 ### A fatal accident in the blast - three lives
 
 *2025-09-25 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214983) · `si`
@@ -213,6 +425,64 @@ Three persons were killed and another injured after a lorry and van in Thalagama
 [Data](articles/4f14be34.json)
 
 [Extended Data](ext_articles/4f14be34.ext.json)
+
+---
+
+### Sri Lanka, UN discuss engagement of troops in peacekeeping operations
+
+*2025-09-25 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112894/sri-lanka-un-discuss-engagement-of-troops-in-peacekeeping-operations) · `en`
+
+A high-level United Nations delegation met the Secretary to the Ministry of Defence yesterday (24) to discuss enhancing collaboration in international peacekeeping missions and strengthening human rights initiatives.
+
+The delegation, led by United Nations Resident Coordinator Marc-André Franche and Deputy Director (Protection and Solutions) at the UNHCR Regional Bureau for Asia and the Pacific Karen Whiting, was received by the Defence Secretary, Air Vice Marshal Sampath Thuyacontha (Retd) at the Defence Ministry.
+
+Key areas of discussion included, the engagement of Sri Lankan troops in United Nations peacekeeping operations, accelerating the deployment screening process, conducting specialized training programs and ensuring the provision of necessary equipment conforming to UN standards.
+
+...
+
+[Data](articles/5615718c.json)
+
+---
+
+### Israeli PM Netanyahu rejects western recognitions of Palestinian State
+
+*2025-09-25 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112893/israeli-pm-netanyahu-rejects-western-recognitions-of-palestinian-state) · `en`
+
+The recent recognitions by some Western nations of a Palestinian state will not “bind Israel in any way,” Israel’s Prime Minister Benjamin Netanyahu said on Wednesday.
+
+“A Palestinian state will not arise,” the prime minister’s office posted on X.
+
+Dozens of world leaders gathered at the United Nations on Monday to embrace a Palestinian state, a landmark diplomatic shift nearly two years into the Gaza war that faces fierce resistance from Israel and its close ally the United States.
+
+◼️
+
+[Data](articles/11e5d623.json)
+
+[Extended Data](ext_articles/11e5d623.ext.json)
+
+---
+
+### Midigama Ruwan arrested with firearms
+
+*2025-09-25 07:16:23* · [`adalk`](https://www.ada.lk/breaking_news/මිදිගම-රුවන්ගේ-සමීපතමයෙක්-ගිනි-අවි-සමග-අල්ලයි/11-418708) · `si`
+
+A closer person of the underworld leader, Ruwan Chamara, or Midigama Ruwan has been arrested yesterday with T-56 riffles, magician and more than 30 Thirty Thirty Thirty Thauna.
+
+According to information received by the Force, the weapons have been found in the upper floor of a new two storied house.
+
+Police suspect that these firearms have been hungry with the objective of doing any crime.
+
+The surrounding area was further visited from the house to find out if other weapons were weapons.
+
+The Police Special Task Force has revealed that the 38-year-old suspect was a carpenter and his father's daughter's daughter was the father of the older sister of Midigama Ruwan.
+
+However, the suspect was due to be handed over to the Weligama Headquarters and the Police for further investigations. Business of the Special Task Force and Police are conducting further investigations.
+
+...
+
+[Data](articles/df01194b.json)
+
+[Extended Data](ext_articles/df01194b.ext.json)
 
 ---
 
@@ -241,6 +511,24 @@ Police suspect that the accident had occurred when the bhikku was taken to the m
 [Data](articles/7c8c104e.json)
 
 [Extended Data](ext_articles/7c8c104e.ext.json)
+
+---
+
+### President meets Australian and Portuguese leaders in New York
+
+*2025-09-25 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112892/president-meets-australian-and-portuguese-leaders-in-new-york) · `en`
+
+President Anura Kumara Dissanayake held bilateral discussions with Australian Prime Minister Anthony Albanese at the Permanent Mission of Sri Lanka to the United Nations in New York on the side-lines of the 80th session of the United Nations General Assembly.
+
+President Dissanayake warmly welcomed Prime Minister Albanese before the two leaders engaged in discussions aimed at further expanding economic and trade cooperation and strengthening bilateral relations. Particular emphasis was placed on promoting tourism, as well as exploring new investment and market opportunities, the President’s Media Division said.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Sri Lanka’s Permanent Representative to the United Nations and former Chief Justice, President’s Counsel Jayantha Jayasuriya, along with senior officials of the Ministry of Foreign Affairs, were also present at the meeting.
+
+...
+
+[Data](articles/ed457445.json)
+
+[Extended Data](ext_articles/ed457445.ext.json)
 
 ---
 
@@ -283,6 +571,30 @@ President Anura Kumara Dissanayake added that the 80th session of the United Nat
 [Data](articles/3f2bd56c.json)
 
 [Extended Data](ext_articles/3f2bd56c.ext.json)
+
+---
+
+### Cable car accident at Na Uyana Monastery: Several injured monks continue to receive treatment
+
+*2025-09-25 06:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112890/cable-car-accident-at-na-uyana-monastery-several-injured-monks-continue-to-receive-treatment) · `en`
+
+Several Buddhist monks injured in the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura continue to receive treatment at the Kurunegala and Polgahawela hospitals.
+
+The accident reportedly occurred at around 9:00 p.m. yesterday (24), as the monks were returning to their meditation huts after completing a religious ceremony held at the offering ground (Pūjā Bhūmiya).
+
+At the time of the accident, 13 monks were inside the cable car. Among them, seven monks lost their lives.
+
+The injured monks were admitted to the Kurunegala Teaching Hospital and the Polgahawela Hospital for treatment.
+
+It is also reported that five monks managed to jump out of the cable car at the time of the accident, sustaining only minor injuries and thereby saving their lives, while four others suffered serious injuries and are currently hospitalized.
+
+It has been reported that among the deceased monks, three were foreign nationals.
+
+...
+
+[Data](articles/9735dcaa.json)
+
+[Extended Data](ext_articles/9735dcaa.ext.json)
 
 ---
 
@@ -1743,335 +2055,5 @@ He further stressed that this quota should be used only for cultural and enterta
 [Data](articles/e13e897d.json)
 
 [Extended Data](ext_articles/e13e897d.ext.json)
-
----
-
-### Extension of the former Navy Commander
-
-*2025-09-24 18:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-கடற்படைத்-தளபதியின்-விளக்கமறியல்-நீடிப்பு/175-365224) · `ta`
-
-Polgahawela Magistrate Udumbara Dasanayake has ordered the former Navy Commander Nishantha Ulukedenna and former Intelligence Director of the Navy, Rear Admiral (Retired) Sarath Mohoti until the 8th of October.
-
-In July, Uluketenna was arrested in July for the disappearance of a youth from Pothuhera during his Naval Investigation Director.
-
-Mohoti was arrested by the Criminal Investigation Department on September 18 on charges of disappearance.
-
-◼️
-
-[Data](articles/0707c4c3.json)
-
-[Extended Data](ext_articles/0707c4c3.ext.json)
-
----
-
-### Accomplice of ‘Midigama Ruwan’ arrested with three T-56 firearms during STF operation
-
-*2025-09-24 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112874/accomplice-of-midigama-ruwan-arrested-three-t-56-firearms-during-stf-operation) · `en`
-
-An accomplice of underworld figure ‘Midigama Ruwan’ has been arrested along with firearms during an operation carried out in Weligama this afternoon (24), police stated.
-
-Based on information received by officers of the Police Special Task Force (STF), a search was carried out on the upper floor of a two-storey house which is under construction.
-
-During the search operation, three T-56 assault rifles, one magazine, and 30 bullets hidden at the location were taken into custody.
-
-Police stated the suspect is related to underworld figure ‘Midigama Ruwan’ who is currently being held at the Boossa prison.
-
-◼️
-
-[Data](articles/2bdc0f95.json)
-
-[Extended Data](ext_articles/2bdc0f95.ext.json)
-
----
-
-### Accomplice of ‘Midigama Ruwan’ arrested with three T-56 firearms during STF operation
-
-*2025-09-24 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112874/accomplice-of-midigama-ruwan-arrested-with-three-t-56-firearms-during-stf-operation) · `en`
-
-An accomplice of underworld figure ‘Midigama Ruwan’ has been arrested along with firearms during an operation carried out in Weligama this afternoon (24), police stated.
-
-Based on information received by officers of the Police Special Task Force (STF), a search was carried out on the upper floor of a two-storey house which is under construction.
-
-During the search operation, three T-56 assault rifles, one magazine, and 30 bullets hidden at the location were taken into custody.
-
-Police stated the suspect is related to underworld figure ‘Midigama Ruwan’ who is currently being held at the Boossa prison.
-
-◼️
-
-[Data](articles/f1215910.json)
-
-[Extended Data](ext_articles/f1215910.ext.json)
-
----
-
-### President hopes active close relationship with America - President
-
-*2025-09-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214968) · `si`
-
-President Anura Kumara Dissanayake and President Donald Trump to South and Central Asia have been appointed by President Donald Trump and the Presidential Director of White House (SERGIO GAR).
-
-The President had gone to the United States to attend the 80th session of the UN General Assembly and the meeting was held at the Permanent Representative Office in Sri Lanka yesterday (23).
-
-The meeting also focused on important areas, including trade, commercial, tourism and investment, and discussed the development of cooperation in the fields, the Presidential Media Unit said.
-
-After an unprecedented economic crisis, as a new government with a strong mandate, is looking forward to active and close relationship with the United States in a prosperous relationship with the United States of America.
-
-The President also pointed out about the steps taken by the government, including the restructuring of the economy to ensure long-term stability of the economy, including the securing of the people.
-
-...
-
-[Data](articles/bb01cdb6.json)
-
-[Extended Data](ext_articles/bb01cdb6.ext.json)
-
----
-
-### New union in the hill country?
-
-*2025-09-24 18:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையகத்தில்-புதிய-தொழிற்சங்கம்/76-365223) · `ta`
-
-It is reported that a new union in the hill country will be launched soon. It is reported that an attempt to create a new union is being made due to the shortcomings and dissatisfaction with the major unions.
-
-The legendary unions are not worth the views of the early members of their organizations, their politically ignored, disgusted during the election, the party leadership did not engage in campaigning for their victory, the opportunity to contest the election for senior members, the only emphasis on the party, including the impression of a few people in the party, is due to the impression of a few people in the party.
-
-Former MPs, Provincial Council members, Municipal Council, Pradeshiya Sabha members, social activists, youth, youth, senior members, educators, education, traders, plantation officers, etc., are working on the creation of the union and registering it as a political party.
-
-◼️
-
-[Data](articles/027827cf.json)
-
-[Extended Data](ext_articles/027827cf.ext.json)
-
----
-
-### ASPI closes at new all-time high today
-
-*2025-09-24 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112873/aspi-closes-at-new-all-time-high-today) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 55 points today (24).
-
-Accordingly, the ASPI rose by 55.61 points or 0.26% to close at 21,338.45 points, surpassing the previous high of 21,282.84 points recorded on September 23, 2025.
-
-Meanwhile, the S&P SL20 Index moved up by 7.92 points to close at 6,081.06 points.
-
-◼️
-
-[Data](articles/1f04d593.json)
-
-[Extended Data](ext_articles/1f04d593.ext.json)
-
----
-
-### Childbirth in the sewage
-
-*2025-09-24 18:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசல-கூடத்தில்-பிரசவம்-சிற்றூழியர்-கைது-கையை-விரித்தார்-கணவன்/175-365222) · `ta`
-
-Health Service (37), the mother of 2 children, who was serving the infant in the surgery unit and hidden under a box, was arrested on Tuesday (23).. The body of the infant has been recovered.
-
-The little girl who works in the hospital at the hospital is a married woman and is ready for two children.. He was on duty at the hospital as usual on Monday (22).
-
-He has gone to the sewage hall there, claiming he was in pain. There is no one knowing the woman. He covered the baby in a box and hid under the bed and served there.
-
-In this case, a nurses who observed him after he had increased the blood vessel. The doctors who tested him found that he had a baby.
-
-Investigating the woman, she said that the child was covered with a box and covered under the bed.. The infant has been recovered in the death of the dead.
-
-It is learned that the husband of the little girl is serving as a small driver in the hospital and has been living in her husband since last June.
-
-...
-
-[Data](articles/a58313f3.json)
-
-[Extended Data](ext_articles/a58313f3.ext.json)
-
----
-
-### Counseling and Psychology to school curriculum
-
-*2025-09-24 17:53:42* · [`adalk`](https://www.ada.lk/breaking_news/උපදේශනය-හා-මනෝ-විද්‍යාව-පාසල්-විෂය-නිර්දේශයට/11-418705) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that a plan to enroll the teachers should be included in the school curriculum.
-
-The Minister was speaking at a timely announcement discussion on the preparation of a psychological policy of students who are studying in school.
-
-Speaking further the Minister said that these programs should be implemented to all schools on a proper plan covering all the provinces covering all the provinces of the country. The Minister also said that the Minister of Education was also concerned with the required facilities and resource centers on the facilities and resource centers in the field of education as well as child abuse.
-
-The Minister said that the children are being prepared in consultation with the teacher's violence, including the teachers and subject directors, and the children are very happy with the children's violence.
-
-◼️
-
-[Data](articles/1446cab9.json)
-
-[Extended Data](ext_articles/1446cab9.ext.json)
-
----
-
-### UK police arrest man over cyberattack that affected European airports
-
-*2025-09-24 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112872/uk-police-arrest-man-over-cyberattack-that-affected-european-airports) · `en`
-
-British police said on Wednesday a man had been arrested as part of an investigation into a ransomware attack against Collins Aerospace, owned by RTX , which knocked check-in systems at airports offline and caused widespread travel disruption across Europe.
-
-The National Crime Agency said in a statement that the man, in his 40s, was arrested on Tuesday on suspicion of offences under the Computer Misuse Act and had since been released on conditional bail.
-
-“Although this arrest is a positive step, the investigation into this incident is in its early stages and remains ongoing,” NCA Deputy Director Paul Foster said.
-
-It remained unclear which criminal group was behind last week’s hack. An NCA spokesperson declined to provide further details.
-
-Ransomware gangs routinely publicise attacks and leak stolen data on dark web “leak sites” but websites that monitor those portals had not, as of Wednesday, detected any group claiming the hack.
-
-...
-
-[Data](articles/57d8f752.json)
-
-[Extended Data](ext_articles/57d8f752.ext.json)
-
----
-
-### President hold talks with US Special Envoy on South Asia Sergio Gor in New York
-
-*2025-09-24 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112871/president-hold-talks-with-us-special-envoy-on-south-asia-sergio-gor-in-new-york) · `en`
-
-President Anura Kumara Dissanayake, who is currently in the United States to attend the 80th session of the United Nations General Assembly, met with US President Donald Trump’s Special Envoy for South and Central Asian Affairs and the Director of the White House Presidential Personnel Office, Sergio Gor in New York.
-
-The meeting took place at the Office of Sri Lanka’s Permanent Representative to the United Nations, the President’s Media Division said.
-
-During the meeting, attention was drawn to areas of significance to both countries, including trade, commerce, tourism and investment, with discussions focusing on further strengthening cooperation in these sectors.
-
-President Anura Kumara Dissanayake stated that following an unprecedented economic crisis, Sri Lanka, as a new government with a strong public mandate, is committed to pursuing closer and more productive relations with the United States, with priority placed on building a prosperous economy aimed at sustainable growth.
-
-...
-
-[Data](articles/9c715027.json)
-
-[Extended Data](ext_articles/9c715027.ext.json)
-
----
-
-### Sri Lanka has no rule yet about Crypto Kankasy
-
-*2025-09-24 17:41:18* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිප්ටෝ-කරන්සි-ගැන-ලංකාවේ-තවමත්-නීතියක්-නෑ/11-418704) · `si`
-
-Central Bank Governor Dr. Nandalal Weerasinghe said that there was no law in Sri Lanka over Crippable money.
-
-"There is no law. It is difficult to say that lawfuls and lawlessness to what is not lawless. Need to take a law or law
-
-In some time.  Payments cannot be made through the banking system. We have proposed to the government to appoint a committee to deal with this. This is unlikely when the government discusses this matter. "
-
-◼️
-
-[Data](articles/4a6ad482.json)
-
-[Extended Data](ext_articles/4a6ad482.ext.json)
-
----
-
-### What’s ex-President Ranil’s next political move?
-
-*2025-09-24 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112870/whats-ex-president-ranils-next-political-move) · `en`
-
-Former President Ranil Wickremesinghe is reportedly preparing to travel overseas due to health reasons, according to informed sources.
-
-It is reported that former President Wickremesinghe is considering traveling to either France, the United Kingdom, or India.
-
-In view of the current climate in the country, the former President was recently invited by opposition political parties to take on a leadership role and contribute to future political activities.
-
-Accordingly, former President Ranil Wickremesinghe has taken note of these developments and has expressed views regarding a plan to conduct a series of political meetings.
-
-However, it is reported that due to both his health condition and upcoming political engagements, former President Ranil Wickremesinghe is preparing to travel abroad.
-
-A specific departure date has not yet been confirmed, but informed sources indicate that the former President may leave the country by the end of this year.
-
-◼️
-
-[Data](articles/2d6d9eb3.json)
-
-[Extended Data](ext_articles/2d6d9eb3.ext.json)
-
----
-
-### Nations Trust Bank to buy HSBC Sri Lanka’s business for Rs18bn
-
-*2025-09-24 17:24:00* · [`economynextcom`](https://economynext.com/nations-trust-bank-to-buy-hsbc-sri-lankas-business-for-rs18bn-241802/) · `en`
-
-ECONOMYNEXT – Nations Trust Bank said it has entered into a sale and purchase agreement with The Hongkong and Shanghai Banking Corporation’s Sri Lanka branch (HSBC Sri Lanka) to acquire its retail banking business for 18 billion rupees, and applicable taxes if any.
-
-The proposed acquisition covers HSBC Sri Lanka’s retail banking business including premium banking customers, credit cards, retail loans and accounts of approximately 200,000 customers.
-
-“This transaction was approved by the Board of Directors of NTB on 23 September 2025, and will be funded by internally generated funds, while maintaining all regulatory ratios,” NTB said in the stock exchange filing.
-
-The transaction is expected to reach completion in the first half of 2026, subject to mandatory regulatory approval from the Central Bank of Sri Lanka and “the satisfaction of other conditions precedent as set out in the Sale and Purchase Agreement,” the bank said.
-
-...
-
-[Data](articles/cee98eb6.json)
-
-[Extended Data](ext_articles/cee98eb6.ext.json)
-
----
-
-### Modulers launched grades first and 06
-
-*2025-09-24 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214967) · `si`
-
-The Ministry of Education Nalaka Kabuwewa said that the school teacher training programs in Grade 1 and 6 of the year of 2026 for Modulers have been completed in late November.
-
-He was speaking at a discussion on the current progress of the new education reforms of the parliament.
-
-He further stated that the Trainer of Training Tot (traineer of traineer) has been completed and that the remaining persons are currently undergoing training at the National Institute of Education Maharagama.
-
-He said that this program would create theoretically and practical teachers to train teachers covering teachers.
-
-The Secretary to the Ministry of Education further added that the appointment of teachers at the psychological training at the zonal level and division levels will be completed by November.
-
-◼️
-
-[Data](articles/77c55dd8.json)
-
-[Extended Data](ext_articles/77c55dd8.ext.json)
-
----
-
-### President - Meeting between South African President
-
-*2025-09-24 17:20:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தென்னாப்பிரிக்க-ஜனாதிபதிக்கு-இடையில்-சந்திப்பு/175-365219) · `ta`
-
-President Anura Kumara Dissanayake and South African President Cyril Ramaphosa, who visited the United States to attend the 80th General Assembly session of the United Nations, took place at the ONE PLAZA (23) in New York City.
-
-Here, President Anurakumara Dissanayake was welcomed by the South African President. This was followed by a bilateral discussion between the two countries and the focus was on further strengthening relations between the two countries.
-
-Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Sri Lanka's Permanent Representative to the United Nations, former Chief Justice of India, President Attorney Jayantha Jayasuriya and Senior Officers of the Ministry of Foreign Affairs were present at the event.
-
-◼️
-
-[Data](articles/2102e3db.json)
-
-[Extended Data](ext_articles/2102e3db.ext.json)
-
----
-
-### Increase in death of a foreign worker
-
-*2025-09-24 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214966) · `si`
-
-If a foreign employer worker has taken place during the job, the insurance prosecution has been increased to Rs.
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE Bureau) at a special media bureau of the Bureau today (SLBT), Kosala Wickremasinghe said this.
-
-The death of a foreign employment was paid up to 6 lakh insurance and Rs.
-
-Meanwhile, the Bureau has begun a loan scheme to start a business to her husband or wife in foreign workers.
-
-In addition, it has been decided to increase scholarships and laptops towards higher education children.
-
-Sri Lanka has been in remittance of US $ 5.1 billion in August 5 billion in remittances.
-
-He pointed out that 226,240 Sri Lankans are employed for jobs and will be close to 300,000 this year.
-
-◼️
-
-[Data](articles/d0e34841.json)
-
-[Extended Data](ext_articles/d0e34841.ext.json)
 
 ---

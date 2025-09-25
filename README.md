@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 21:21:01**
+As of **2025-09-25 21:39:01**
 
 ## Newspaper Stats
 
-*Scraped **78,158** Articles*
+*Scraped **78,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 4,717
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,598
+adalk | 7,599
 adaderanalk | 10,157
 tamilmirrorlk | 11,785
 virakesarilk | 12,717
@@ -26,7 +26,7 @@ adaderanasinhalalk | 13,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,157 (100.0%) of 78,158 articles have been extended.
+78,157 (100.0%) of 78,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -347,6 +347,22 @@ At December 31, 2025, the Digital Task Force officials have pointed out that the
 [Data](articles/ea4b0a42.json)
 
 [Extended Data](ext_articles/ea4b0a42.ext.json)
+
+---
+
+### ප්‍රංශ හිටපු ජනපතිට වසර පහක සිර දඩුවම්
+
+*2025-09-25 18:06:47* · [`adalk`](https://www.ada.lk/international/ප්‍රංශ-හිටපු-ජනපතිට-වසර-පහක-සිර-දඩුවම්/3-418726) · `si`
+
+තම ජනපතිවරණ ව්‍යාපාරය වෙනුවෙන් ලිබියානු නායක කර්නල් මුවම්මර් ගඩාෆිගෙන් යුරෝ මිලියන ගණනක නීති විරෝධී අරමුදල් ලබා ගැනීමේ නඩුවට අදාළව වරදකරු වූ හිටපු ප්‍රංශ ජනාධිපති නිකොලස් සාකෝසිට වසර පහක සිර දඬුවමක් නියම කර තිබේ.
+
+නඩු විභාගයෙන් පසු මාධ්‍යවේදීන් අමතමින්, 2007 සිට 2012 දක්වා ප්‍රංශයේ ජනාධිපතිවරයා ලෙස කටයුතු කළ 70 හැවිරිදි සාකෝසි පැවැසුවේ තීන්දුව "නීතියේ ආධිපත්‍යයට අතිශයින්ම බරපතල" එකක් ලෙස හැඳින්වීය.
+
+නඩුව දේශපාලනික වශයෙන් අභිප්‍රේරණය වී ඇති බව පවසන සාකෝසිට, 2007 මැතිවරණ ව්‍යාපාරයට මුදල් යෙදවීම සඳහා ගඩාෆිගෙන් ලැබුණු අරමුදල් භාවිතා කළ බවට චෝදනා එල්ල විය
+
+◼️
+
+[Data](articles/661693f0.json)
 
 ---
 
@@ -2059,25 +2075,5 @@ The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.
 [Data](articles/166c8a4d.json)
 
 [Extended Data](ext_articles/166c8a4d.ext.json)
-
----
-
-### Speaker reaffirms his rejection of NCM against Deputy Defence Minister
-
-*2025-09-25 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112899/speaker-reaffirms-his-rejection-of-ncm-against-deputy-defence-minister) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne today (25) announced to Parliament that he is not in a position to accept the No-Confidence Motion submitted against Deputy Minister of Defence, Major General (Retd.) Aruna Jayasekara by a group of Parliamentarians, citing Parliament procedures.
-
-The motion was signed by the Opposition Leader Sajith Premadasa and 31 other members representing the opposition.
-
-During the commencement of the Parliament sitting today, Speaker Wickramaratne said he has already announced his decision pertaining to the No-Confidence Motion which cannot be appealed or challenged according to Standing Order 76(1).
-
-The Speaker said despite existing Parliamentary provisions, considering the requests made by Members of Parliament, he decided to clarify his decision on the motion.
-
-...
-
-[Data](articles/13f4d7f3.json)
-
-[Extended Data](ext_articles/13f4d7f3.ext.json)
 
 ---

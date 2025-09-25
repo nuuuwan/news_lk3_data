@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 17:59:18**
+As of **2025-09-25 18:22:17**
 
 ## Newspaper Stats
 
-*Scraped **78,125** Articles*
+*Scraped **78,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,594
+adalk | 7,595
 adaderanalk | 10,154
-tamilmirrorlk | 11,780
+tamilmirrorlk | 11,782
 virakesarilk | 12,713
-adaderanasinhalalk | 13,647
+adaderanasinhalalk | 13,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,125 (100.0%) of 78,125 articles have been extended.
+78,125 (100.0%) of 78,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### இந்தியா,ரஷ்யா, ருமேனியா துறவிகளும் மரணம்
+
+*2025-09-25 17:48:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-ரஷ்யா-ருமேனியா-துறவிகளும்-மரணம்/175-365284) · `ta`
+
+குருநாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் வண்டி, புதன்கிழமை (24) இரவு 9 மணியளவில் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் பௌத்த  துறவிகள் ஏழுபேர் உயிரிழந்துள்ளனர்.
+
+விபத்து இடம்பெற்ற சந்தர்ப்பத்தில் அதில், பௌத்த  துறவிகள் 13 பேர் பயணித்துள்ளனர். மரணித்த துறவிகளில் வெளிநாடுகளைச் சேர்ந்த துறவிகளும் அடங்குகின்றனர். காயங்களுக்கு உள்ளான ஆறு துறவிகளும் குருநாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். அவர்களில் சிலரின் நிலைமை கவலைக்கிடமாக உள்ளது என்றும் அறியமுடிகின்றது.
+
+மலை உச்சியில் உள்ள தியானக் குடில்களை நெருங்கும் போது இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+மரணமடைந்த துறவிகளில் ரஷ்யா, ருமேனியா மற்றும் இந்தியாவைச் சேர்ந்த மூன்று துறவிகளும் அடங்குவர்.  27 வயதுக்கும் 48 வயதுக்கும் இடைப்பட்ட துறவிகளே மரணமடைந்துள்ளனர்.
+
+...
+
+[Data](articles/458d4cb2.json)
+
+---
+
+### ”ஒரு பெரிய சத்தம் திடீரென்று கேட்டது”
+
+*2025-09-25 17:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-பெரிய-சத்தம்-திடீரென்று-கேட்டது/175-365283) · `ta`
+
+" காட்டுப் பக்கத்திலிருந்து ஒரு பெரிய சத்தம் திடீரென்று,  கேட்டது. சிறிது நேரத்திலேயே, மடத்தில் இருந்து ஒரு சமிக்ஞை கொடுக்கப்பட்டது, அது அவசரநிலையைக் குறிக்கிறது. அதன் பிறகுதான் நாங்கள் அனைவரும் சம்பவ இடத்திற்குச் சென்றோம்," என்று உள்ளூர்வாசி ஒருவர் கூறினார்.
+
+குருநாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் வண்டி, புதன்கிழமை (24) இரவு 9 மணியளவில் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் பௌத்த  துறவிகள் ஏழுபேர் உயிரிழந்துள்ளனர்.
+
+விபத்து இடம்பெற்ற சந்தர்ப்பத்தில் அதில், பௌத்த  துறவிகள் 13 பேர் பயணித்துள்ளனர். மரணித்த துறவிகளில் வெளிநாடுகளைச் சேர்ந்த துறவிகளும் அடங்குகின்றனர். காயங்களுக்கு உள்ளான ஆறு துறவிகளும் குருநாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். அவர்களில் சிலரின் நிலைமை கவலைக்கிடமாக உள்ளது என்றும் அறியமுடிகின்றத.
+
+மலை உச்சியில் உள்ள தியானக் குடில்களை நெருங்கும் போது இந்த விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர். இந்த சம்பவம் தொடர்பில், என்று உள்ளூர்வாசி ஒருவர் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6d4133a3.json)
+
+---
+
+### ප්‍රංශයේ හිටපු ජනපතිට වසර පහක සිර දඬුවමක්
+
+*2025-09-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215005) · `si`
+
+ප්‍රංශයේ හිටපු ජනාධිපති නිකොලස් සාකෝසිට වසර පහක සිර දඬුවමක් නියම කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ, ලිබියානු නායක කර්නල් මුඅම්මර් ගඩාෆිගෙන් යුරෝ මිලියන ගණනක නීතිවිරෝධී අරමුදල් ලබා ගැනීමේ නඩුවකට වරදකරු වූ හිටපු ප්‍රංශ ජනාධිපති මෙලෙස වසර පහක සිර දඬුවමක් නියමකළ බවය.
+
+අක්‍රීය දූෂණය සහ නීතිවිරෝධී මැතිවරණ ප්‍රචාරක කටයුතු සඳහා මුදල් සැපයීම ඇතුළු මෙම නඩුවේ අනෙකුත් සියලු චෝදනාවලින් පැරිස් අපරාධ අධිකරණය ඔහුව නිදොස් කොට නිදහස් කළේය.
+
+මෙම නඩුව දේශපාලනික වශයෙන් අභිප්‍රේරණය වූවක් බව පවසන සාකෝසි, 2007 මැතිවරණ ව්‍යාපාරයට මුදල් යෙදවීම සඳහා ගඩාෆිගෙන් ලැබුණු අරමුදල් භාවිතා කළ බවට චෝදනා එල්ල විය.
+
+ඒ වෙනුවට, බටහිර රටවල් හමුවේ ගඩාෆිගේ කීර්ති නාමයට එරෙහිව සටන් කිරීමට සර්කෝසි උදව් කරන බවට පොරොන්දු වූ බව පැමිණිල්ලේ චෝදනාව විය.
+
+70 හැවිරිදි සාකෝසි 2007 සිට 2012 දක්වා ප්‍රංශයේ ජනාධිපතිවරයා විය.
+
+◼️
+
+[Data](articles/44317dba.json)
+
+---
 
 ### A Sri Lankan woman arrested in Hong Kong
 
@@ -77,6 +135,20 @@ The Elderly Allowance of the Advancement of the Reward of the Reward of Hollower
 [Data](articles/1b06eb95.json)
 
 [Extended Data](ext_articles/1b06eb95.ext.json)
+
+---
+
+### මිල වැඩිවීමත් සමග ලොතරැයි අලෙවිය සියයට 37කින් පහළට
+
+*2025-09-25 16:58:07* · [`adalk`](https://www.ada.lk/breaking_news/මිල-වැඩිවීමත්-සමග-ලොතරැයි-අලෙවිය-සියයට-37කින්-පහළට/11-418722) · `si`
+
+ජාතික ලොතරැයි මණ්ඩලය විසින්  ලොතරැයිපතක මිල රුපියල් 40 දක්වා වැඩිකිරිමෙන් පසු ඉකුත් වර්ෂයේ දි (2024)  අලෙවිකර තිබු  ලොතරැයිපත් සංඛ්‍යාව  හතලිස්හත්කෝටි,හැටදෙලක්ෂ,හතලිස්හයදහස් දෙකක්  (476,246,002)  දක්වා සියයට 37කින් පහත වැටි ඇති බැව්  ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට  ඇති විගණන වාර්තාවක සදහන් වේ.
+
+ලොතරැයි මණ්ඩලය විසින් 2023 වර්ෂයේ ජුලි මස 06 වැනිදින සිට එතෙක් රුපියල් 20කට අලෙවිකරණු ලැබු ලොතරැයිපතක මිල රුපියල් 40 දක්වා  සියයට සියයකින් වැඩිකරතිබුණි. මිල වැඩිකිරිමට පෙර ආසන්න වශයෙන්  වර්ෂයකට ලොතරැයිපත්  එකසියවිසිනම කෝටි,අසුලක්ෂ,නමදහස්නමසිය හතලිස්දෙකක් (1,298,009,942) අලෙවිකොට තිබුණි.
+
+...
+
+[Data](articles/ec08de11.json)
 
 ---
 
@@ -1939,81 +2011,5 @@ Discussions were held on exploring collaboration in building incubation centres 
 [Data](articles/236f3257.json)
 
 [Extended Data](ext_articles/236f3257.ext.json)
-
----
-
-### National Policy on Senior Citizens to be revised
-
-*2025-09-25 07:59:01* · [`dailyftlk`](https://www.ft.lk/business/National-Policy-on-Senior-Citizens-to-be-revised/34-782163) · `en`
-
-The Cabinet of Ministers on Monday approved updating the country’s National Policy on Senior Citizens, first introduced in 2006.
-
-The revision comes in response to shifting global and domestic demographic trends. According to the United Nations Department of Economic and Social Affairs, the proportion of Sri Lankans aged 60 years and above is projected to rise to 24.8% by 2052. As a result, this demographic shift demands stronger measures to safeguard the welfare and rights of senior citizens.
-
-The updated national policy is designed to enable older citizens to live with dignity in supportive social, economic, physical, and spiritual environments. Developed under the theme “Respectful Senior Citizen – Meaningful Retirement”, the framework emphasises both protection and empowerment, aligning with the Government’s broader policy priorities.
-
-...
-
-[Data](articles/d24307a8.json)
-
-[Extended Data](ext_articles/d24307a8.ext.json)
-
----
-
-### Biopharm gets $ 3.98 m insulin contract
-
-*2025-09-25 07:58:42* · [`dailyftlk`](https://www.ft.lk/business/Biopharm-gets-3-98-m-insulin-contract/34-782162) · `en`
-
-The Cabinet of Ministers on Monday (22) approved to award the contract for the supply of 2.2 million vials of Biphasic Isophane Insulin (Human) 30% Soluble, 70% Isophane injection to India’s M/s M.J. Biopharm Ltd.
-
-The contract, valued at $ 3.98 million, was awarded following an international competitive bidding process for the procurement of the insulin used in the treatment of diabetes patients.
-
-Cabinet Spokesman and Health Minister Dr. Nalinda Jayatissa addressing the weekly post-Cabinet meeting media briefing on Tuesday confirmed that two bids were received, with M/s M.J. Biopharm emerging as the lowest substantially responsive bidder.
-
-He noted that the procurement is part of ongoing efforts to ensure uninterrupted access to essential medicines for the country’s growing number of diabetes patients.
-
-The proposal to this effect, submitted by Health Minister Dr. Jayatissa, was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/bb0b5b69.json)
-
-[Extended Data](ext_articles/bb0b5b69.ext.json)
-
----
-
-### Three dead and four injured in head-on collision between lorry and van in Thalawa
-
-*2025-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112895/three-dead-and-four-injured-in-head-on-collision-between-lorry-and-van-in-thalawa) · `en`
-
-Three individuals have died and four others have been injured in a head-on collision between a lorry and a van in the Thalawa–Mirigama junction along the Kurunegala–Anuradhapura main road, police stated.
-
-The lorry was traveling from Anuradhapura towards Kurunegala, while the van was also traveling in the opposite direction, according to police.
-
-Seven individuals, including the drivers of both vehicles were admitted to Thalawa and Anuradhapura hospitals. Among the passengers of the van, three have lost their lives.
-
-◼️
-
-[Data](articles/1c36d187.json)
-
-[Extended Data](ext_articles/1c36d187.ext.json)
-
----
-
-### Three dead and four injured in head-on collision between lorry and van in Thalawa
-
-*2025-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112895/three-dead-four-injured-in-lorry-van-collision-in-thalawa) · `en`
-
-Three individuals have died and four others have been injured in a head-on collision between a lorry and a van in the Thalawa–Mirigama junction along the Kurunegala–Anuradhapura main road, police stated.
-
-The lorry was traveling from Anuradhapura towards Kurunegala, while the van was also traveling in the opposite direction, according to police.
-
-Seven individuals, including the drivers of both vehicles were admitted to Thalawa and Anuradhapura hospitals. Among the passengers of the van, three have lost their lives.
-
-◼️
-
-[Data](articles/e98e30a5.json)
-
-[Extended Data](ext_articles/e98e30a5.ext.json)
 
 ---

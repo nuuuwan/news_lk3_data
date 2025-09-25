@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 00:23:57**
+As of **2025-09-26 00:37:04**
 
 ## Newspaper Stats
 
@@ -910,8 +910,6 @@ The MP further stated that the Speaker refused to say that it was not denied the
 
 *2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
 
-While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
-
 Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
 
 The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
@@ -919,6 +917,8 @@ The arrests come amid public fury over reckless behaviour during the storm, whic
 The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
 
 Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
+
+The situation turned critical in an instant when a monstrous wave, several metres high, breached the sea wall. The powerful surge completely engulfed the trio, washing them off their feet and onto the pavement behind a barrier.
 
 ...
 

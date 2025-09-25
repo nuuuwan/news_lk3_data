@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 13:57:11**
+As of **2025-09-25 14:11:53**
 
 ## Newspaper Stats
 
-*Scraped **78,088** Articles*
+*Scraped **78,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,57 @@ islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,588
 adaderanalk | 10,147
-tamilmirrorlk | 11,773
+tamilmirrorlk | 11,774
 virakesarilk | 12,705
-adaderanasinhalalk | 13,640
+adaderanasinhalalk | 13,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,086 (100.0%) of 78,088 articles have been extended.
+78,088 (100.0%) of 78,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### பக்கோ சமனின் மனைவிக்கு விளக்கமறியல் நீடிப்பு
+### நெடுந்தீவில் விலங்குகள் இல்லை
+
+*2025-09-25 13:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-விலங்குகள்-இல்லை/175-365269) · `ta`
+
+வனவிலங்கு கணக்கெடுப்பு அண்மையில் முன்னெடுக்கப்பட்டது. அதன்போது பொதுமக்கள் வழங்கிய தகவல்களில் சுமார் 50 சதவீதமானவையே துல்லியமானவை என கமத்தொழில் மற்றும் கால்நடை வளங்கள் பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில்   வியாழக்கிழமை (25) வாய்மூல விடைக்கான வினாக்கள் நேரத்தில் எழுப்பப்பட்டிருந்த கேள்விக்கு பதிலளிக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+கிடைத்த புள்ளிவிபரவியல் தகவலின் அடிப்படையில்,  மக்கா குரங்குகள்5,197,517,  குரங்குகள் 1,747,623, முள்ளம்பன்றிகள்  2,666,630 மற்றும் ராட்சத அணில்கள் 4,285,745 உள்ளனர்.
+
+யாழ்ப்பாணத்தில் உள்ள நெடுந்தீவில் ஆறு கிராம அலுவலகர் பிரிவுகளில், மக்கா குரங்குகள், குரங்குகள், முள்ளம்பன்றிகள் மற்றும் ராட்சத அணில்கள் இல்லாததால், கணக்கெடுப்பு நடத்தப்படவில்லை எனவும்  கமத்தொழில் மற்றும் கால்நடை வளங்கள் பிரதி அமைச்சர் நாமல் கருணாரத்ன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8f4c4c27.json)
+
+---
+
+### Puko saman's wife
 
 *2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
 
-இந்தோனேசியாவில் பிரபல போதைப்பொருள் கடத்தல்காரர்கள் மற்றும் குற்றவியல் கும்பல் உறுப்பினர்களுடன் இருந்தபோது கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான பக்கோ சமன் மனைவியின் விளக்கமறியல்  அடுத்த மாதம் 9 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது. இதற்கான உத்தரவு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகமவினால் வியாழக்கிழமை (25) பிறப்பிக்கப்பட்டது.
+The explanation of the wife of Pako Saman, an arranged criminal gang, has been extended till the 9th of next month when he was with the famous drug traffickers and criminal gang members in Indonesia.. Colombo Chief Magistrate. Bodarakama was issued on Thursday (25).
 
-மித்தெனிய பகுதியில் சந்தேகநபர் சஜிகா லக்ஷனி செய்ததாகக் கூறப்படும் போதைப்பொருள் குற்றச்சாட்டுகள் தொடர்பான அறிக்கையை சமர்ப்பிக்குமாறு சிஐடிக்கு நீதிமன்றம்  உத்தரவிடப்பட்டது.
+The court was ordered by the CIT to submit a report on the alleged drug allegations alleged that the suspect Sajika Lakshani had committed the suspect in the Mitteniya area.
 
-புகார்தாரர் சார்பாக அரசு வழக்கறிஞர் மற்றும் சந்தேகநபரின் வழக்கறிஞர்கள் அளித்த சமர்ப்பிப்புகளை பரிசீலித்த பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+The order was issued after considering the submissions made by the State Prosecutor and the Suspect of the Suspect on behalf of the complainant.
 
 ◼️
 
 [Data](articles/7e54774a.json)
 
+[Extended Data](ext_articles/7e54774a.ext.json)
+
 ---
 
-### ආරණ්‍ය සේනාසනයේ අනතුරෙන් අපවත් වූ හිමිවරු ගැන අනාවරණයක්
+### Disclosure of monies in the accident of the Aranya Senasa
 
 *2025-09-25 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214995) · `si`
 
@@ -57,6 +77,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/329e5ceb.json)
+
+[Extended Data](ext_articles/329e5ceb.ext.json)
 
 ---
 
@@ -97,6 +119,22 @@ Responding to the attacks, Israel said that Israeli said that the attack targeti
 [Data](articles/e167e040.json)
 
 [Extended Data](ext_articles/e167e040.ext.json)
+
+---
+
+### මනුෂට හෙට අල්ලස් කොමිෂන් කැඳවීමක්
+
+*2025-09-25 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214993) · `si`
+
+2023 වසරේ කම්කරු හා විදේශ රැකියා අමාත්‍යවරයා ලෙස කටයුතු කළ මනුෂ නානායක්කාර මහතාව ප්‍රකාශයක් සටහන් කරගැනීම සඳහා හෙට (26) දිනයේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණෙන ලෙසට කඳවීමක් සිදුකර ඇත.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය හා ඊශ්‍රායල් රාජ්‍ය අතර ඇති කරගත් කෘෂිකාර්මික අංශයේ රැකියා වැඩසටහන යටතේ 2023 නොවැම්බර් 05 වන දින අත්සන් කර ඇති ගිවිසුම අනුව මෙරට ශ්‍රමිකයින් ඊශ්‍රායාල් රාජ්‍ය වෙත යැවීම සම්බන්ධයෙන් මෙම ප්‍රකාශ සටහන් කර ගත යුතු බව ලිපියක් මගින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් හිටපු අමාත්‍ය මනුෂ නානායක්කාර මහතා දැනුම් දී තිබේ.
+
+මේ සම්බන්ධයෙන් 2025.09.08 වන දිනද ප්‍රකාශයක් ලබා ගැනීම සදහා ඒ මහතාව කොමිෂන් සභාව වෙත කැදවීම් කල නමුත් ඔහු විදේශ ගතවී සිටීම හේතුවෙන් ප්‍රකාශය ලබා දීම සදහා පැමිණීමට අපොහොසත් වී ඇත.
+
+...
+
+[Data](articles/f78ea713.json)
 
 ---
 
@@ -1939,55 +1977,5 @@ We gave voice to the ruling side and in the opposition in connection with the in
 [Data](articles/b1a83116.json)
 
 [Extended Data](ext_articles/b1a83116.ext.json)
-
----
-
-### India, who defeated Bangladesh, entered the Asian Cup as the first team; Sri Lanka is to leave with disappointment
-
-*2025-09-25 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226004) · `ta`
-
-India qualified for the first team in the R20 Asian Cup Super 4 cricket match at the Dubai International Cricket Stadium on Wednesday (24) at the Dubai International Cricket Stadium.
-
-Abhishek Verma's half -century, Kuldeep Yadav, Jasprit Bumrah and Varun Chakraborty played the lead role in India's victory.
-
-Following India's winning match with Bangladesh, the current R 29 Asian Cup Champion was confirmed that Sri Lanka's final chance was lost.
-
-In the meantime, the winning team between Pakistan and Bangladesh on Thursday (25) will qualify for India in the final.
-
-In today's match, India, who were first invited to bat, scored 168 runs for the loss of 6 wickets in 20 overs.
-
-Abhishek Sharma and Shubman Kill shared 77 runs off 38 balls and made India a strong start.
-
-But when Shubman Gill lost 29 runs, India began to play.
-
-Abhishek Sharma, on the other hand, scored 75 runs off 37 balls with six pounds and 5 sixes.
-
-...
-
-[Data](articles/1fbb0fc7.json)
-
-[Extended Data](ext_articles/1fbb0fc7.ext.json)
-
----
-
-### Woman arrested for giving birth to a child at a modular teaching hospital
-
-*2025-09-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226003) · `ta`
-
-On Tuesday (23), a child of 35 -year -old children, who is working on a 35 -year -old child, who was serving a child at the Surgery Unit of the Batticaloa Teaching Hospital, has been arrested on Tuesday (23).
-
-The mother of two children, who is working in the hospital at the hospital, is the mother of two children.
-
-During this time, he went to the stomach and went to the sewage hall and had a baby girl delivered in a box and hid it under the bed and was on duty.
-
-In this case, a nurse who observed him was admitted to the ward and the doctors who checked him in the ward were found to have a baby and rescued the child who was covered in a box and rescued the child.
-
-The husband of the little girl is serving as a small driver in the hospital and has been living in her husband since last June, and the woman has been living in a 2kg and 485 grams of a baby girl for 38 weeks.
-
-...
-
-[Data](articles/37da0c4b.json)
-
-[Extended Data](ext_articles/37da0c4b.ext.json)
 
 ---

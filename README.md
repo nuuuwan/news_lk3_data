@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 16:20:48**
+As of **2025-09-25 16:37:35**
 
 ## Newspaper Stats
 
-*Scraped **78,112** Articles*
+*Scraped **78,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 7,592
 adaderanalk | 10,149
 tamilmirrorlk | 11,779
 virakesarilk | 12,712
-adaderanasinhalalk | 13,643
+adaderanasinhalalk | 13,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,112 (100.0%) of 78,112 articles have been extended.
+78,112 (100.0%) of 78,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### ක්‍රිකට් තරග පාවාදීම සම්බන්ධයෙන් සචිත්‍ර සේනානායකට අධිචෝදනා භාරදෙයි
+
+*2025-09-25 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215000) · `si`
+
+2020 වසරේ පැවති ශ්‍රී ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී මුදලට තරග පාවාදීම සඳහා ක්‍රීඩකයෙකුට යෝජනා ඉදිරිපත් කිරීම ඇතුළු චෝදනා යටතේ හිටපු ජාතික තලයේ ක්‍රිකට් ක්‍රීඩකයෙකු වන සචිත්‍ර සේනානායකට හට හම්බන්තොට මහාධිකරණයේදී අද (25) අධිචෝදනා භාර දී තිබේ.
+
+මෙම චෝදනා යටතේ සචිත්‍ර සේනානායක හට නීතිපතිවරයා විසින් පසුගිය ජුනි 5 වනදා අධිචෝදනා ගොනුකර තිබුණි.
+
+ඒ අනුව හම්බන්තොට මහාධිකරණ විනිසුරු දුමින්ද මුදුන්කොටුව මහතා ඉදිරියේදී විසින් අද (25) සචිත්‍ර සේනානායකට හට අධිචෝදනා භාරදීම සිදුකරනු ලැබූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+සචිත්‍ර සේනානායක වෙනුවෙන් පිනීසිටි අජිත් පතිරණ මහතා ප්‍රමුඛ නීතිඥ කණ්ඩායම විසින් අධිකරණය මහින් ඉල්ලා සිටියේ සචිත්‍ර සේනානායක විදේශ රටක ක්‍රීඩා කරමින් සිටින බවත් විදෙස් රටක රැකියාවක නිරතව සිටින බවත් පනවා තිබු විදෙස් ගමන් තහනම ඉවත්කරන ලෙසය.
+
+පසුව එය සලකාබලමින් නොවැම්බර් 27 තෙක් තාවකාලිකව ඔහුට පනවා තිබු විදෙස් ගමන් තහනම ඉවත් කළ බව අප වාර්තාකරු පැවසීය.
+
+...
+
+[Data](articles/4e2098eb.json)
+
+---
 
 ### 4 killed in Ladakh violence: curfew order
 
@@ -1985,33 +2005,5 @@ As well as leading to corruption and poverty. It is more dangerous to not take a
 [Data](articles/4e2afec4.json)
 
 [Extended Data](ext_articles/4e2afec4.ext.json)
-
----
-
-### We will strengthen the country's people economically
-
-*2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/175-365251) · `ta`
-
-President Anurakumara Dissanayake said that my dream is to strengthen all the people of my country economically.
-
-He was speaking at the United Nations General Assembly. When he further addresses,
-
-The drug and its appropriate market today is creating many worldwide pronunciations.
-
-Drug trade threatens countries and affect global politics and health.
-
-At the same time, it threatens the global goodwill. The Sri Lankan government is taking appropriate action against drugs and crimes and I urge all of you to take up global precautionary measures.
-
-Global action should be taken against drug traders. In addition, rehabilitation centers should be set up to assist the drug victims.
-
-At the same time, we believe that corruption is a barrier to the development of a country and is acting against democracy.
-
-As well as leading to corruption and poverty. It is more dangerous to not take action against corruption.
-
-...
-
-[Data](articles/7034a3df.json)
-
-[Extended Data](ext_articles/7034a3df.ext.json)
 
 ---

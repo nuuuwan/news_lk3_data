@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 19:38:44**
+As of **2025-09-25 20:40:08**
 
 ## Newspaper Stats
 
-*Scraped **78,148** Articles*
+*Scraped **78,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,125 @@ economynextcom | 4,717
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,596
+adalk | 7,598
 adaderanalk | 10,157
-tamilmirrorlk | 11,782
-virakesarilk | 12,715
-adaderanasinhalalk | 13,651
+tamilmirrorlk | 11,785
+virakesarilk | 12,716
+adaderanasinhalalk | 13,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,148 (100.0%) of 78,148 articles have been extended.
+78,153 (100.0%) of 78,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
+
+### காலி நகரின் பல வீதிகள் நீரில் மூழ்கின
+
+*2025-09-25 20:13:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-நகரின்-பல-வீதிகள்-நீரில்-மூழ்கின/175-365288) · `ta`
+
+இன்று (24) மாலை பெய்த பலத்த மழை காரணமாக காலி நகரின் பல வீதிகள் நீரில் மூழ்கின.
+
+காலி - வக்வெல்ல பிரதான வீதி காலி பொலிஸ் நிலையத்திற்கு முன்னால் நீரில் மூழ்கியதுடன், காலி - பத்தேகம மாபலகம பிரதான வீதி தலாபிட்டிய பகுதியில் நீரில் மூழ்கியது.
+
+அத்துடன் சரேன்துகடே மற்றும் தனிபொல் கங்க சந்தி ஆகிய பகுதிகளும் நீரில் மூழ்கின.
+
+◼️
+
+[Data](articles/554e6d91.json)
+
+---
+
+### නා උයන ආරණ්‍ය සෙනසුනේ අනතුර ගැන විධිමත් විමර්ශනයක් කරන්න - අධිකරණයෙන් නියෝග
+
+*2025-09-25 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215011) · `si`
+
+කුරුණෑගල මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසන භූමිය තුළදී ඩක්කුවක් කඩා වැටීමෙන් භික්ෂූන් වහන්සේ හත් නමක් අපවත් වීමේ සිද්ධිය සම්බන්ධයෙන් විධිමත් විමර්ශනයක් කර අධිකරණයට කරුණු වාර්තා කරන ලෙස මහව මහෙස්ත්‍රාත්වරිය පන්සියගම පොලීසියට නියෝග කර තිබේ.
+
+සිද්ධියට අදාළ විමර්ශන සඳහා යාන්ත්‍රික ඉංජිනේරුවන්ගේ සහාය ලබාගන්නා ලෙසටද මහව මහෙස්ත්‍රාත් කංචනී අභිමානී සෙනෙවිරත්න මෙනවිය පන්සියගම පොලීසියට නියෝග කර ඇති බව 'අද දෙරණ' වාර්තාකරු පැවසීය.
+
+මෙම අනතුරින් අපවත් වූ භික්‍ෂූන් වහන්සේගේ මෘත දේහ සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්‍ෂණ පවත්වා ඊට අදාළ වාර්තා වෙන් වෙන් වශයෙන් අධිකරණය හමුවට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත්වරිය කුරුණෑගල ශික්ෂණ රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය නිලධාරීවරයාට ද නියෝග කර තිබේ.
+
+ඩක්කුවක් කඩා වැටීමේ ක්‍රියාවලියේදී යම් අපරාධමය වරදක් සිදු වී ඇත්ද යන්න පිළිබඳ විමර්ශනවලදී අනාවරණය වන්නේ නම්, ඒ පිළිබඳව අධිකරණයට කරුණු වාර්තා කරන ලෙසද පන්සියගම පොලීසියට මහව මහෙස්ත්‍රාත්වරිය නියෝග කර ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/f26d7879.json)
+
+---
+
+### Prime Minister Harini visits China
+
+*2025-09-25 20:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஹரிணி-சீனா-விஜயம்/175-365287) · `ta`
+
+Prime Minister Harini Amarasuriya is due to visit China in November.
+
+◼️
+
+[Data](articles/073abfaf.json)
+
+[Extended Data](ext_articles/073abfaf.ext.json)
+
+---
+
+### No -confidence motion against the Speaker
+
+*2025-09-25 19:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லாப்-பிரேரணை/175-365286) · `ta`
+
+The United People's Power (SJB) has said that Speaker Jagath Wickramaratne will bring a no -confidence motion against him, accusing him of being unworthy of the recent parliamentary procedures.
+
+United People's Power Member of Parliament, Ajith B.. Perera accused the Speaker of rejecting the previously submitted no -confidence motion without any justification.
+
+Perera said that such behavior was undermined to democratic policies and that parliamentary responsibility was corrooteed.
+
+◼️
+
+[Data](articles/c3897afb.json)
+
+[Extended Data](ext_articles/c3897afb.ext.json)
+
+---
+
+### The president today. Meets the general secretary
+
+*2025-09-25 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226087) · `ta`
+
+President Anura Kumara Dissanayake and the United Nations visited New York to attend the 80th General Assembly of the United Nations. The meeting between General Secretary António Guterres will be held on Thursday night (25).
+
+President Anura Kumara Dissanayake will also attend a meeting with Sri Lankans living in the United States on Thursday (25).
+
+Meanwhile, Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath is also to attend several diplomatic meetings today.
+
+◼️
+
+[Data](articles/dae8c727.json)
+
+[Extended Data](ext_articles/dae8c727.ext.json)
+
+---
+
+### Agricultural and Agrarian Insurance Board
+
+*2025-09-25 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215010) · `si`
+
+1,669 million has been paid under the National Ulankara Scheme.
+
+Accordingly, 81,234 farmers have benefited from the crops of corn, maize, chilli and potatoes.
+
+In addition, there have been a number of cattle and goat insurance projects under the Livestock Insurance Scheme.
+
+The total assets of the Agrarian Insurance Board have been able to increase the amount of financial assets of the Agrarian Insurance Board to Rs. 2,491 million.
+
+◼️
+
+[Data](articles/f97445ec.json)
+
+[Extended Data](ext_articles/f97445ec.ext.json)
+
+---
 
 ### Many roads in Galle beat water
 
@@ -288,6 +392,22 @@ Instead, the complaint was accused of supporting Gaddafi's reputation against Ga
 
 ---
 
+### පිදුරුතලාගල රක්ෂිතයේ අනවසරෙන් කදවුරු  බැදි 26 දෙනෙකු අධිකරණය හමුවට
+
+*2025-09-25 17:35:06* · [`adalk`](https://www.ada.lk/breaking_news/පිදුරුතලාගල-රක්ෂිතයේ-අනවසරෙන්-කදවුරු--බැදි-26-දෙනෙකු-අධිකරණය-හමුවට/11-418725) · `si`
+
+නුවරඑලිය පිදුරුතලාගල රක්ෂිතයට ඇතුලු වී අවසරයෙන් කදවුරු බැද නතර වී සිටි තරුණ තරුණියන් 26 දෙනෙකු නුවරඑලිය අඩවි වන කාර්යාලයේ නිළධාරින් විසින් අත්අඩංගුවට ගෙන ඇප මත මුදාහැර (25) දින එම සැකකරුවන් නුවරඑලිය මහේස්ත්‍රාත් ලංකාගනී ප්‍රබුද්ධිකා මෙනවිය වෙත ඉදිරිපත් කිරිමෙන් අනතුරුව එම සැකකරුවන් අධිකරණය හමුවේ වරද පිලිගත් නිසා එම සැකකරුවන්ට දඩුවම් ලබා දීමට ඔක්තොම්බර් (16) වන දින දක්වා කල් තැබීමට මහේස්ත්‍රාත්වරිය නියෝග කලහ.
+
+සැකකරුවන් අවසරයකින් තොරව ඉකුත් (07) වන දින පිදුරුතලාගල රක්ෂිතයේ කැරයන් යන ප්‍රදේශයට ඇතුලු වී කදවුරු බැද කදවුරු අවට ගිනි මැළ දලවා සිටින බවට නුවරඑලිය අඩවි වන කාර්යාලයේ නිළධාරින්ට ලද තොරතුරක් මත වැටීමක් සිදු කර සැකකරුවන් අත්අඩංගුවට ගෙන ඇප මත මුදාහැර තිබුනි.
+
+අවුරුදු 25 -30 අතර වයස් කාණ්ඩවල පසුවන සැකකරුවන් 26 දෙනා අතර තරුණියන් දෙදෙනෙකුද සිටින බවත්, එම සැකකරුවන් ගාල්ල, පානදුර, කුරුණෑගල ඇතුලු දිවයිනේ ප්‍රදේශ රැසක පිරිසක් බවත්, එම පිරිස මුහුණු පොත හරහා හදුනා ගත් පිරිසත් බවයි තොරතුරු අනාවරණය වී ඇත්තේ.
+
+◼️
+
+[Data](articles/332447c8.json)
+
+---
+
 ### Hemas Holdings to buy consumer products company in Kenya
 
 *2025-09-25 17:29:00* · [`economynextcom`](https://economynext.com/hemas-holdings-to-buy-consumer-products-company-in-kenya-241923/) · `en`
@@ -305,6 +425,28 @@ Hemas Holdings’ board approved on September 25 to proceed with the agreement, 
 [Data](articles/c6c83e57.json)
 
 [Extended Data](ext_articles/c6c83e57.ext.json)
+
+---
+
+### Court order on Naa Uyana Cable Dakku accident
+
+*2025-09-25 17:26:45* · [`adalk`](https://www.ada.lk/breaking_news/නා- උයන-කේබල්-ඩක්කු-අනතුර-ගැන-අධිකරණ-නියෝගයක්/11-418724) · `si`
+
+Mahawa Magistrate Kananathi Abhimani Senge Seneviratne ordered the court to report a proper investigation into the incident in the Naa Uyana Aranya Senaka area in Melsiripura Police, Kurunegala.
+
+The Magistrate also ordered the assistance of mechanical engineers for investigations into the decline of this dack.. The Magistrate was further ordered to preserve the post mortem examination in the court mortality regarding the bodies of the monks who have been identified as the bodies of the monks.
+
+The Mahawa Teaching Hospital has also ordered the police to disclose the bodies of Buddhist monks in the process of releasing the bodies of Buddhist monks.
+
+The Mahawa Magistrate was ordered to be the case with a dictionary of the arrival in the Naa Uyanpura Police in Melsirapura Punziriya, Kurunegala and six others.
+
+The Pancama Police said that the monks had died of a sudden death in the land of the Naa Uyana.
+
+...
+
+[Data](articles/54f0e295.json)
+
+[Extended Data](ext_articles/54f0e295.ext.json)
 
 ---
 
@@ -1921,171 +2063,5 @@ Investigations have revealed that the deceased was 54 years old from Etimalai Va
 [Data](articles/426be75b.json)
 
 [Extended Data](ext_articles/426be75b.ext.json)
-
----
-
-### One person killed in vehicle accident
-
-*2025-09-25 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226025) · `ta`
-
-One person was killed when a lorry and a motorcycle collided with a motorcycle at the Nilawa junction on Pallapola - Kolanwala Road, Mahawela police division.
-
-In the area of ​​the Mahawella police division, Loriri, who was traveling towards Pallapola - Koholanwala, crashed into a motorcycle in the opposite direction.
-
-The motorcycle driver was seriously injured in the accident and died after being admitted to Matale Hospital.
-
-◼️
-
-[Data](articles/f557ebea.json)
-
-[Extended Data](ext_articles/f557ebea.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-25 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214986) · `si`
-
-◼️
-
-[Data](articles/d57edc9f.json)
-
-[Extended Data](ext_articles/d57edc9f.ext.json)
-
----
-
-### Sri Lankan police officer released in case of illegally entering India
-
-*2025-09-25 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226023) · `ta`
-
-Tamil Nadu Ramanathapuram Chief District Court has released a Sri Lankan police officer who has entered India illegally.
-
-Pradeep Kumar Bandara (35), a police officer who works at the Colombo Port Police Station, Sri Lanka. When he arrived at the Dhanushkodi beach near Rameswaram on the Sri Lankan boat on 5.9.2020, Mandapam Marine Police arrested the Marine Police and placed them in the Pullam Jail in Chennai.
-
-His brother has been arrested by the Sri Lankan police for his 23 kg of heroin drugs seized in Colombo and placed at the port police station.
-
-The Ramanathapuram CBCIT police registered a case and investigated Pradeep Kumar Bandara.
-
-Investigations said that his brother had been stuck in drug trafficking and that India had illegally came to escape the arrest.
-
-He was subsequently placed in a special camp for Sri Lankan refugees in Trichy as per the Ramanathapuram Primary District Session Court.
-
-...
-
-[Data](articles/17e489d8.json)
-
-[Extended Data](ext_articles/17e489d8.ext.json)
-
----
-
-### Words Matter & Accuracy In Usage Matters Even More
-
-*2025-09-25 09:10:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/words-matter-accuracy-in-usage-matters-even-more/) · `en`
-
-My mother was my first and the last teacher. If she’s looking down from heaven, I suspect she’s quietly pleased with how I’ve navigated this world. She taught me to revere Dr. Samuel Johnson, not just as an erudite Englishman and lexicographer, but as a philosopher who warned, “Integrity without knowledge is weak and useless, and knowledge without integrity is dangerous and dreadful.” She also introduced me to Mrs. Malaprop, that delightfully misguided character from 18th-century theatre, who mangled words with misplaced confidence.
-
-Thanks to my beloved mother, I developed an early aversion to linguistic misuse. Whether in Sinhala or English, the wrong word in the wrong place grates on my ears like a surgical blade drawn across bone and in Sri Lanka, where both languages are wielded by the “educated,” the misuse is rampant.
-
-...
-
-[Data](articles/66352fe1.json)
-
-[Extended Data](ext_articles/66352fe1.ext.json)
-
----
-
-### Detention of the three arrested in connection with drug lorries
-
-*2025-09-25 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214985) · `si`
-
-The Tangalle Magistrate's Magistrate's Magistrate's Magistrate has been detained and questioned about three lorries in Seennakalle Seen Lorrries.
-
-A son of two lorries found at the hospital and the deceased under the deceased, Tangalle Magistrate was produced before the Tangalle Magistrate yesterday (24).
-
-The police have requested the court to hold the suspects and interrogation and the Magistrate ordered to be interrogated on the 29th.
-
-One lorry owner and its driver, who was arrested in connection with the incident, was detained and its driver and the driver of the drug were detained and questioned on the 29th.
-
-Meanwhile, police have commenced investigations into the arrest of the person known as the Nampel - Genemodara in Tangalle.
-
-Several police teams have been deployed to arrest him.
-
-A special operation of the police with three persons in the Seennamodara area in Tangalle recently recovered a large quantity of ice and heroin of 705 kilograms of drugs.
-
-...
-
-[Data](articles/d3c14243.json)
-
-[Extended Data](ext_articles/d3c14243.ext.json)
-
----
-
-### Minister Vijitha Herath holds talks with Maldives, Finland and Germany FMs
-
-*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112897/minister-vijitha-herath-holds-bilateral-talks-with-maldives-finland-and-germany-fms) · `en`
-
-Minister of Foreign Affairs Vijitha Herath has held bilateral talks with Ministers of several countries on the sideline of the 80th session of the United Nations General Assembly.
-
-Minister Herath met with Minister of Foreign Affairs of Maldives Abdulla Khaleel on the sidelines of the 80th UN General Assembly.
-
-The duo reviewed the ongoing cooperation and explored ways to further strengthen close bilateral relations.
-
-The Foreign Minister also met the Minister of Foreign Affairs of Finland, Elina Valtonen on the sidelines of the 80th UN General Assembly. The discussions focused on strengthening cooperation between Sri Lanka and Finland.
-
-Minister of Foreign Affairs Vijitha Herath discussed advancing bilateral cooperation and shared perspectives on key global issues during the meeting with the Minister of State at the Federal Foreign Office of Germany, Serap Güler.
-
-The meeting between the duo was also held on the sidelines of the 80th UN General Assembly.
-
-◼️
-
-[Data](articles/041c40f3.json)
-
-[Extended Data](ext_articles/041c40f3.ext.json)
-
----
-
-### Minister Vijitha Herath holds talks with Maldives, Finland and Germany FMs
-
-*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112897/minister-vijitha-herath-holds-talks-with-maldives-finland-and-germany-fms) · `en`
-
-Minister of Foreign Affairs Vijitha Herath has held bilateral talks with Ministers of several countries on the sideline of the 80th session of the United Nations General Assembly.
-
-Minister Herath met with Minister of Foreign Affairs of Maldives Abdulla Khaleel on the sidelines of the 80th UN General Assembly.
-
-The duo reviewed the ongoing cooperation and explored ways to further strengthen close bilateral relations.
-
-The Foreign Minister also met the Minister of Foreign Affairs of Finland, Elina Valtonen on the sidelines of the 80th UN General Assembly. The discussions focused on strengthening cooperation between Sri Lanka and Finland.
-
-Minister of Foreign Affairs Vijitha Herath discussed advancing bilateral cooperation and shared perspectives on key global issues during the meeting with the Minister of State at the Federal Foreign Office of Germany, Serap Güler.
-
-The meeting between the duo was also held on the sidelines of the 80th UN General Assembly.
-
-◼️
-
-[Data](articles/436a5187.json)
-
-[Extended Data](ext_articles/436a5187.ext.json)
-
----
-
-### Hong Kong reopens after world’s most powerful cyclone Ragasa
-
-*2025-09-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112898/hong-kong-reopens-after-worlds-most-powerful-cyclone-ragasa) · `en`
-
-Hong Kong resumed flights out of its international airport on Thursday after a 36-hour suspension, reopening businesses, transportation services and some schools after the world’s most powerful tropical cyclone this year lashed the financial hub.
-
-Ragasa brought the densely populated city to a standstill from Tuesday afternoon, after sweeping through the northern Philippines and Taiwan where it killed 14, before making landfall on the southern Chinese city of Yangjiang on Wednesday.
-
-More than 100 people were injured in Hong Kong, where authorities imposed the highest typhoon signal 10 for most of Wednesday.
-
-On Thursday, the observatory maintained its second-lowest typhoon signal 3, keeping kindergartens and some schools shut as Ragasa moved away from the city and weakened into a tropical storm.
-
-Huge waves crashed over areas of Hong Kong’s eastern and southern shoreline on Wednesday, with widespread flooding submerging some roads and residential properties.
-
-...
-
-[Data](articles/bfdb1d9d.json)
-
-[Extended Data](ext_articles/bfdb1d9d.ext.json)
 
 ---

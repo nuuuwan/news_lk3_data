@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 11:20:20**
+As of **2025-09-25 10:39:10**
 
 ## Newspaper Stats
 
-*Scraped **78,059** Articles*
+*Scraped **78,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,122 +17,54 @@ dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,582
-adaderanalk | 10,142
+adaderanalk | 10,140
 tamilmirrorlk | 11,767
 virakesarilk | 12,698
-adaderanasinhalalk | 13,635
+adaderanasinhalalk | 13,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,057 (100.0%) of 78,059 articles have been extended.
+78,053 (100.0%) of 78,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### President holds a bilateral meeting with several foreign state prabelines
-
-*2025-09-25 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214989) · `si`
-
-President Anura Kumara Dissanayake and Pakistan Prime Minister Zehbaz Sharif (SHEBAZ BUS) was held at the Sri Lanka Permanent Representative Office in New York yesterday (24).
-
-President Anura Kumara Dissanayake has gone to the United States to attend the 80th session of the United Nations General Assembly.
-
-President Anura Kumara Dissanayake was warmly welcomed by the Pakistani Prime Minister Zebas Bauff, which further strengthen the long-standing friendship of Sri Lanka and Pakistan.
-
-President Anura Kumara Dissanayake and Australia Prime Minister Anthony Albenas (Anthony Albanese) were held in New York at the Sri Lanka Permanent Representative office of New York yesterday (24).
-
-Australia's Prime Minister Anthony Albena was warmly welcomed by President Anura Kumara Dissanayake.
-
-The two leaders have discussed the strengthening of bilateral relations between the two countries, further expanding the economic and trade cooperation between Sri Lanka and Australia.
-
-...
-
-[Data](articles/8ed11a0e.json)
-
-[Extended Data](ext_articles/8ed11a0e.ext.json)
-
----
-
-### The number of dead in the crash is up
-
-*2025-09-25 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214988) · `si`
-
-The number of accident occurred near the Talawa Mirigama Junction on the Anuradhapura-Kurunegala main road has increased to four.
-
-◼️
-
-[Data](articles/578c14c6.json)
-
-[Extended Data](ext_articles/578c14c6.ext.json)
-
----
-
-### Sexual abuse of two daughters: 20 years in prison for father
+### இரு  மகள்களை பாலியல் துஷ்பிரயோகம்: தந்தைக்கு 20 வருட கடூழிய சிறை
 
 *2025-09-25 10:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-மகள்களை-பாலியல்-துஷ்பிரயோகம்-தந்தைக்கு-20-வருட-கடூழிய-சிறை/175-365258) · `ta`
 
-Batticaloa High Court Judge RJ Prabhakaran has ruled that his 7 and 8 -year -old daughters were raped in 2016 and a two -year imprisonment for two years of rigorous imprisonment for 4 crimes and Rs.
+தனது 7 மற்றும் 8 வயது மகள்களை  2016 ஆண்டு பாலியல் துஷ்பிரயோகம் செய்த தந்தைக்கு இரு குற்றத்துக்கு 20 வருட கடூழிய சிறைத்தண்டனை 4 குற்றத்துக்கு 40 ஆயிரம் தண்டப்பணமும் பாதிக்கப்பட்ட சிறுமிகளுக்கு தலா ஒரு இலட்சம் ரூபாய் வீதம் இரண்டு இலட்சம் ரூபாவை வழங்குமாறு மட்டக்களப்பு மேல் நீதிமன்ற நீதிபதி ரி.ஜே.பிரபாகரன்   தீர்ப்பளித்தார்.
 
-A 56 -year -old father from a area in the district was arrested in October 2016 after sexual abuse
+மாவட்டத்தில் ஒரு பிரதேசத்தைச் சேர்ந்த 56 வயதுடைய தந்தை  உள நலம் பாதிக்கப்பட்ட தனது ஒரு மகள் உட்பட 7 மற்றும் 8 வயதுடைய இரு மகள்களையும் கடந்த 2016 அக்டோபர் மாதம் பாலியல் துஷ்பிரயோகம் மேற்கொண்ட நிலையில் கைது செய்யப்பட்டார்
 
-The police have registered a case in the Supreme Court on four charges against the arrested person and later released on bail.
-
-On September 27 last year, he was found guilty of evidence, evidence and legal doctor's report on four allegations for sexually abusing girls for 16 years.
-
-When the case was taken up in the presence of Batticaloa High Court Judge TJ Prabhakaran on Friday, the first offense of sexually abusing an 8 -year -old girl was sentenced to 20 years in prison and 10 thousand rupees and 10 thousand rupees for the second offense.
+இவ்வாறு கைது செய்யப்பட்டவருக்கு எதிராக மேல் நீதிமன்றத்தில் 4 குற்றச்சாட்டுகளின் கீழ் பொலிஸார் வழக்கு பதிவு செய்து சிறைச்சாலையில் அடைக்கப்பட்டு பின்னர் பிணையில் விடுதலை செய்யப்பட்டார் இதனை தொடர்ந்து வழக்கு விசாரணைகள் இடம் பெற்று வந்துள்ளது.
 
 ...
 
 [Data](articles/a3c8ed3f.json)
 
-[Extended Data](ext_articles/a3c8ed3f.ext.json)
-
 ---
 
-### Death toll in Thalawa van-lorry crash climbs to four
-
-*2025-09-25 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112900/death-toll-in-thalawa-van-lorry-crash-climbs-to-four-) · `en`
-
-The death toll in the accident that occurred along the Kurunegala–Anuradhapura main road has risen to four, according to police.
-
-One of the individuals who was hospitalized following the accident has succumbed to his injuries.
-
-Three individuals died while four others sustained injuries in a head-on collision between a lorry and a van in the Thalawa–Mirigama junction along the Kurunegala–Anuradhapura main road this morning (25).
-
-The lorry was traveling from Anuradhapura towards Kurunegala, while the van was also traveling in the opposite direction, according to police.
-
-Seven individuals, including the drivers of both vehicles were admitted to Thalawa and Anuradhapura hospitals. Among the passengers of the van, three have lost their lives.
-
-◼️
-
-[Data](articles/23334030.json)
-
----
-
-### Sri Lankan police officer released into India
+### இந்தியாவுக்குள் நுழைந்த  இலங்கை பொலிஸ் அதிகாரி  விடுதலை
 
 *2025-09-25 10:10:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்குள்-நுழைந்த-இலங்கை-பொலிஸ்-அதிகாரி-விடுதலை/175-365257) · `ta`
 
-Ramanathapuram Chief District Court has released a Sri Lankan police officer who illegally entered India.
+இந்தியாவுக்குள் சட்டவிரோதமாக நுழைந்த இலங்கை பொலிஸ் அதிகாரியை  ராமநாதபுரம் முதன்மை மாவட்ட நீதிமன்றம் விடுதலை செய்து உத்தரவிட்டார்.
 
-Pradeep Kumar Bandara (35), who works at the Colombo Port Police Station, Sri Lanka. When he arrived at Dhanushkodi beach near Rameswaram near Rameswaram on 09.05.05.05, Mandapam Marine Police arrested Marine police for allegedly entering India without proper documentation.
+இலங்கை கொழும்பு துறைமுக காவல் நிலையத்தில் பணிபுரிந்த காவலர் பிரதீப்குமார் பண்டார(35). இவர் கடந்த 2020.05.09 ஆம் திகதி நள்ளிரவு இலங்கை படகில் ராமேஸ்வரம் அருகே தனுஷ்கோடி கடற்கரையில் வந்திறங்கிய போது, முறையான ஆவணங்களின்றி இந்தியாவிற்குள் நுழைந்ததாக மண்டபம் மரைன் பொலிஸார் கைது செய்து, சென்னை புழல் சிறையில் அடைத்தனர்.
 
-His brother has been arrested by the Sri Lankan police for seizing 23 kg of heroin drugs at the port police station in Colombo.
+விசாரணையில் கொழும்பில் பறிமுதல் செய்து துறைமுகம் காவல் நிலையத்தில் வைக்கப் பட்ட 23 கிலோ கிராம் ஹெராயின் போதைப்பொருள் மாயமானதில் அவரது சகோதரர்   இலங்கை பொலிஸாரால்  கைது செய்யப்பட்டுள்ளார்.
 
-In this case, the case was transferred to the CBCIT police. The Ramanathapuram CBCIT Poscer filed a case and Pradeep Kumar Bandara was investigated.
+இந்நிலையில் இவ்வழக்கு சி.பி.சி.ஐ.டி பொலிஸூக்கு மாற்றப்பட்டது. ராமநாதபுரம் சி.பி.சி.ஐ.டி பொஸார் வழக்கு பதிவு செய்து, பிரதீப்குமார் பண்டாரவை விசாரணை செய்தனர்.
 
-Investigations said that his brother had been stuck in drug trafficking and that India had illegally came to escape the arrest.
-
-He was subsequently placed in a special camp for Sri Lankan refugees in Trichy as per the Ramanathapuram Primary District Session Court.
+விசாரணையில் போதைப்பொருள் கடத்தலில் தனது  சகோதரர் தன்னை மாட்டி விட்டதாகவும், அந்த கைது நடவடிக்கையில் இருந்து தப்பிக்க சட்டவிரோதமாக இந்தியா வந்ததாகவும் தெரிவித்தார்.
 
 ...
 
 [Data](articles/1a21d169.json)
-
-[Extended Data](ext_articles/1a21d169.ext.json)
 
 ---
 
@@ -151,24 +83,6 @@ The 33 -year -old police constable from Varakapola, Mahenagama, was revealed.
 [Data](articles/2a011c17.json)
 
 [Extended Data](ext_articles/2a011c17.ext.json)
-
----
-
-### Speaker reaffirms his rejection of NCM against Deputy Defence Minister
-
-*2025-09-25 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112899/speaker-reaffirms-his-rejection-of-ncm-against-deputy-defence-minister) · `en`
-
-Speaker of House Dr. Jagath Wickramaratne today (25) announced to Parliament that he is not in a position to accept the No-Confidence Motion submitted against Deputy Minister of Defence, Major General (Retd.) Aruna Jayasekara by a group of Parliamentarians, citing Parliament procedures.
-
-The motion was signed by the Opposition Leader Sajith Premadasa and 31 other members representing the opposition.
-
-During the commencement of the Parliament sitting today, Speaker Wickramaratne said he has already announced his decision pertaining to the No-Confidence Motion which cannot be appealed or challenged according to Standing Order 76(1).
-
-The Speaker said despite existing Parliamentary provisions, considering the requests made by Members of Parliament, he decided to clarify his decision on the motion.
-
-...
-
-[Data](articles/13f4d7f3.json)
 
 ---
 
@@ -2041,5 +1955,83 @@ Maritime navigation in the Black Sea has been complicated by Russia’s war in U
 [Data](articles/a9fb7dc0.json)
 
 [Extended Data](ext_articles/a9fb7dc0.ext.json)
+
+---
+
+### Govt committed to working with all partners to ensure Indian Ocean remains peaceful: PM Harini
+
+*2025-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112881/govt-committed-to-working-with-all-partners-to-ensure-indian-ocean-remains-peaceful-pm-harini) · `en`
+
+The government is committed to working with all partners to ensure the Indian Ocean remains a peaceful, secure, sustainable, and well-governed region, founded on fairness and cooperation, Prime Minister Dr. Harini Amarasuriya stated.
+
+The Prime Minister noted that Sri Lanka recognizes both the value and responsibility of its strategic location in the Indian Ocean.
+
+Prime Minister Dr. Harini Amarasuriya made these remarks while addressing the 12th International Maritime Conference “Galle Dialogue 2025,” organized by the Sri Lanka Navy.
+
+The Galle Dialogue 2025 is being held under the theme “Maritime Outlook of the Indian Ocean under Changing Dynamics,” at the Wave and Lake Banquet Hall of the Welisara Navy Base.
+
+◼️
+
+[Data](articles/ca3b6678.json)
+
+[Extended Data](ext_articles/ca3b6678.ext.json)
+
+---
+
+### Meeting between President Donald Trump's Southern and Special Representative for Central Asia
+
+*2025-09-24 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/225997) · `ta`
+
+President Anura Kumara Dissanayake and President Donald Trump's Special Representative to South Asia Held at the permanent representative office.
+
+The meeting was focused on important sectors for the two countries, including trade, commerce, tourism and investment, and the further improvement of those sectors.
+
+President Anura Kumara Dissanayake said that as a new government with a strong People's Commission after the unprecedented economic crisis, a prosperous economic priority focusing on economic growth is expected to maintain an operational and close relationship with the United States.
+
+The President also highlighted the government's steps to ensure transparency, including the restoration of the economy to ensure the long -standing stability of the economy.
+
+...
+
+[Data](articles/6a335b13.json)
+
+[Extended Data](ext_articles/6a335b13.ext.json)
+
+---
+
+### Police release list of contact numbers to inform on drugs-related incidents
+
+*2025-09-24 19:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112880/police-release-list-of-contact-numbers-to-inform-on-drugs-related-incidents) · `en`
+
+Police have released a list of contact numbers for the members of the public to inform on narcotics-related incidents.
+
+Accordingly, the general public can directly contact the mobile phone numbers of the relevant Senior Deputy Inspector General of Police (SDIG) and inform them of incidents related to the widespread presence of narcotic substances such as heroin, ‘Ice’, cocaine and cannabis in various regions of the country.
+
+Police stated that the Senior SDIGs will promptly take necessary actions, including conducting arrests and operations, and take further legal measures to protect the confidentiality of the information provided.
+
+The Police Headquarters said it greatly values the support given by citizens in eliminating drug-related issues, and the mobile phone numbers of the relevant Senior Deputy Inspectors General of Police in charge of the provinces are provided below.
+
+◼️
+
+[Data](articles/d50810eb.json)
+
+[Extended Data](ext_articles/d50810eb.ext.json)
+
+---
+
+### Tell about drugs telephone numbers
+
+*2025-09-24 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214970) · `si`
+
+The public will be able to directly address the mobile number from the Senior DIG of the Anuradhapura DIG, including heroin, ice, cocaine and cannabis in different parts of the island.
+
+Police say that the Senior Deputy Inspector Generals are prompted to take necessary legal action, including continuing legal action, including committing necessary legal action, including the proceedings of the information.
+
+The Sri Lanka Police appreciate the support you give as citizenship to eliminate the drug menace and the names of the Senior Diplomats of the respective Provincial Officers and mobile numbers are as follows.
+
+◼️
+
+[Data](articles/f39c1e70.json)
+
+[Extended Data](ext_articles/f39c1e70.ext.json)
 
 ---

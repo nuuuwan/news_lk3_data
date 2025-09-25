@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 00:13:29**
+As of **2025-09-26 00:23:57**
 
 ## Newspaper Stats
 
-*Scraped **78,166** Articles*
+*Scraped **78,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,41 @@ adalk | 7,599
 adaderanalk | 10,160
 tamilmirrorlk | 11,785
 virakesarilk | 12,718
-adaderanasinhalalk | 13,657
+adaderanasinhalalk | 13,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,166 (100.0%) of 78,166 articles have been extended.
+78,166 (100.0%) of 78,167 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-26 (Friday)
+
+### පාකිස්තානය අවසන් සටනට
+
+*2025-09-26 00:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215016) · `si`
+
+බංග්ලාදේශ කණ්ඩායම ලකුණු 11කින් පරාජය කර ආසියානු කුසලාන විස්සිය20 ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට පාකිස්තාන කණ්ඩායම අද (25) සමත් විය.
+
+මෙහිදී පාකිස්තාන කණ්ඩායමෙන් හිමි වූ ලකුණු 136ක ඉලක්කයට පිළිතුරු ලෙස බංග්ලාදේශයට පන්දුවාර 20 තුළදී කඩුලු 9ක් දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 124ක් පමණි.
+
+ඉන්දීය කණ්ඩායම මේ වනවිට අවසන් මහා තරගයට සුදුසුකම් ලබා සිටින අතර, ඒ අනුව ඉන්දියාව හා පාකිස්තානය එළැඹෙන 28වනදා අවසන් මහා තරගයේ දී තරග වදිනු ඇත.
+
+මෙහි විශේෂත්වය වන්නේ ආසියානු කුසලාන ඉතිහාසයේ මීට පෙර කිසිදු අවස්ථාවක ඉන්දියාව හා පාකිස්තානය අවසන් මහා තරගයක් ක්‍රීඩාකර නොමැති වීමය.
+
+ඒ අනුව වසර 41ක (1984 සිට) ඉතිහාසයක් ඇති ආසියානු කුසලාන ඉතිහාසයේ එතෙක් මෙතෙක් පවත්වන උණුසුම් අවසන් මහා තරගය මෙවර පැවැත්වෙනු ඇත.
+
+බංග්ලාදේශ කණ්ඩායමේ ආරාධනයෙන් පළමුව පන්දුවට පහරදුන් පාකිස්තානයට පන්දුවාර 20 තුළදී කඩුලු 8ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 135ක් පමණි.
+
+එක්දින හා විස්සයි20 ද්විත්ව ආකෘති යටතේම ඉන්දියාව ආසියානු කුසලාන 8කට හිමිකම් කියන අතර, පාකිස්තානය දෙවරක් ආසියානු ශූරයන් වී සිටියි.
+
+...
+
+[Data](articles/ac3e61c3.json)
+
+---
 
 ### 2025-09-25 (Thursday)
 
@@ -2063,19 +2089,5 @@ The two leaders have discussed the strengthening of bilateral relations between 
 [Data](articles/8ed11a0e.json)
 
 [Extended Data](ext_articles/8ed11a0e.ext.json)
-
----
-
-### The number of dead in the crash is up
-
-*2025-09-25 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214988) · `si`
-
-The number of accident occurred near the Talawa Mirigama Junction on the Anuradhapura-Kurunegala main road has increased to four.
-
-◼️
-
-[Data](articles/578c14c6.json)
-
-[Extended Data](ext_articles/578c14c6.ext.json)
 
 ---

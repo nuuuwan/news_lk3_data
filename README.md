@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 16:37:35**
+As of **2025-09-25 17:06:20**
 
 ## Newspaper Stats
 
-*Scraped **78,113** Articles*
+*Scraped **78,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,97 @@ economynextcom | 4,707
 dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
-adalk | 7,592
-adaderanalk | 10,149
-tamilmirrorlk | 11,779
-virakesarilk | 12,712
-adaderanasinhalalk | 13,644
+adalk | 7,593
+adaderanalk | 10,153
+tamilmirrorlk | 11,780
+virakesarilk | 12,713
+adaderanasinhalalk | 13,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,112 (100.0%) of 78,113 articles have been extended.
+78,117 (100.0%) of 78,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
 
-### ක්‍රිකට් තරග පාවාදීම සම්බන්ධයෙන් සචිත්‍ර සේනානායකට අධිචෝදනා භාරදෙයි
+### அமைச்சர் சுனில் செனவி,  சஜித்,மஹிந்த,ரணில் இரங்கல்
+
+*2025-09-25 16:39:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-சுனில்-செனவி-சஜித்-மஹிந்த-ரணில்-இரங்கல்/175-365279) · `ta`
+
+குருநாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனத்தில் மடங்களுக்கு இடையே பயணித்த கேபிள் வண்டி உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் பௌத்த  துறவிகள் ஏழுபேர் உயிரிழந்த சம்பவத்துக்குஅரசாங்கம் மற்றும் பாராளுமன்றம் சார்பாக பௌத்த மத மற்றும் கலாச்சார விவகார அமைச்சர் டாக்டர் சுனில் செனவி தனது இரங்கலை பாராளுமன்றத்தில் வியாழக்கிழமை (25)  தெரிவித்தார்.
+
+சபையில் உரையாற்றிய  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச,  இப்பெரும் துயரச் சம்பவத்தில் உயிரிழந்த சகல பிக்குகளுக்கும் எனது இரங்கலையும், வருத்தத்தையும் மற்றும் ஆழ்ந்த அனுதாபங்களையும் தெரிவித்துக் கொள்கிறேன். காயமடைந்து சிகிச்சை பெற்று வரும் பிக்குகள் விரைவில் குணமடையப் பிரார்த்திக்கின்றேன்.
+
+இப்பிக்குகள் சார்பாக அரசாங்கம் எடுத்துள்ள சகல நடவடிக்கைகளுக்கும் எமது ஒத்துழைப்பை நல்க தயார் என்றார்.
+
+மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனத்தில் நடந்த துயர சம்பவம் குறித்து கேள்விப்பட்டு மிகவும் வருத்தமடைந்ததாக முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ சமூக ஊடகப் பதிவில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/79929379.json)
+
+---
+
+### இந்தியாவில் லடாகில் மாநில அந்தஸ்து கோரி போராட்டம் ;  ஊரடங்கு அமுல்
+
+*2025-09-25 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226062) · `ta`
+
+இந்தியாவில், லடாக்கிற்கு மாநில அந்தஸ்து வழங்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்து வருகின்றனர்.
+
+இந்தியா ; ஜம்மு காஷ்மீருக்கு சிறப்பு அந்தஸ்து வழங்கிய அரசியல் அமைப்பு சட்டப்பிரிவு 370ஐ கடந்த 2019ஆம் ஆண்டு மத்திய அரசு ரத்து செய்தது. மேலும் ஜம்மு காஷ்மீர், லடாக் என இரண்டு யூனியன் பிரதேசங்களாகவும் பிரிக்கப்பட்டன. இந்நிலையில், லடாக்கிற்கு மாநில அந்தஸ்து மற்றும் சுயாட்சி வழங்கும் 6ஆவது அட்டவணை அந்தஸ்து வழங்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்து வருகின்றனர். மாநில அந்தஸ்து மூலம் அதிகாரம் பெறுவதுடன் தனித்துவத்தைத் தக்க வைத்துக்கொள்ளவும் லடாக் பழங்குடிகள் விரும்புகின்றனர். மேலும் திரிபுரா உள்ளிட்ட 4 பழங்குடியின மாநிலங்களுக்கு வழங்கப்படும் அரசமைப்பு சாசனத்தின் 6ஆவது பிரிவு அந்தஸ்து தங்களுக்கும் வழங்கப்பட வேண்டும் எனவும் அவர்கள் கேட்கின்றனர்.
+
+...
+
+[Data](articles/24c8ffad.json)
+
+---
+
+### කථානායකට එරෙහිව විශ්වාසභංගයක් ගෙන එන්න විපක්ෂය සූදානම්
+
+*2025-09-25 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215001) · `si`
+
+කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට බලාපොරොත්තු වන බව සමගි ජන බලවේගය පවසයි.
+
+පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී පෙරේරා මහතා අද (26) පාර්ලිමේන්තුවේ දී සභාව අමතමින් ඒ බව සඳහන් කළේය.
+
+වර්තමාන කථානායක ජගත් වික්‍රමරත්න මහතා කථානායක ධුරය දැරීමටද සුදුසු නොමැති පුද්ගලයෙකු බව පාර්ලිමේන්තු මන්ත්‍රී අජිත් පී පෙරේරා මහතා සඳහන් කරයි.
+
+එහිදී මන්ත්‍රීවරයා වැඩිදුරටත් සඳහන් කළේ කථානායකවරයා විශ්වසභංගය භාරදීම ප්‍රතික්ෂේප කරන බවට හේතු සඳහන් නොකර එය ප්‍රතික්ෂේප කළ බවය.
+
+◼️
+
+[Data](articles/838d4f67.json)
+
+---
+
+### Sachithra Senanayake hands over cricket match
 
 *2025-09-25 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215000) · `si`
 
-2020 වසරේ පැවති ශ්‍රී ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී මුදලට තරග පාවාදීම සඳහා ක්‍රීඩකයෙකුට යෝජනා ඉදිරිපත් කිරීම ඇතුළු චෝදනා යටතේ හිටපු ජාතික තලයේ ක්‍රිකට් ක්‍රීඩකයෙකු වන සචිත්‍ර සේනානායකට හට හම්බන්තොට මහාධිකරණයේදී අද (25) අධිචෝදනා භාර දී තිබේ.
+Former national level cricketer Sachithra Senanayake has been indicted today (25) at the Hambantota High Court today (25).
 
-මෙම චෝදනා යටතේ සචිත්‍ර සේනානායක හට නීතිපතිවරයා විසින් පසුගිය ජුනි 5 වනදා අධිචෝදනා ගොනුකර තිබුණි.
+Sachithra Senanayake had been indicted on June 5 on these allegations.
 
-ඒ අනුව හම්බන්තොට මහාධිකරණ විනිසුරු දුමින්ද මුදුන්කොටුව මහතා ඉදිරියේදී විසින් අද (25) සචිත්‍ර සේනානායකට හට අධිචෝදනා භාරදීම සිදුකරනු ලැබූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+Accordingly, the Hambantota High Court Judge Duminda Mudundukotuwa was conducted by Sachithra Senanayake today (25), "Ada Derana reporter said.
 
-සචිත්‍ර සේනානායක වෙනුවෙන් පිනීසිටි අජිත් පතිරණ මහතා ප්‍රමුඛ නීතිඥ කණ්ඩායම විසින් අධිකරණය මහින් ඉල්ලා සිටියේ සචිත්‍ර සේනානායක විදේශ රටක ක්‍රීඩා කරමින් සිටින බවත් විදෙස් රටක රැකියාවක නිරතව සිටින බවත් පනවා තිබු විදෙස් ගමන් තහනම ඉවත්කරන ලෙසය.
+Sachithra Senanayake for Saachu Senanayake, the court demanded that Sachithra Senanayake is working abroad and is working in a foreign country and is working in a foreign country and is employed in a foreign country.
 
-පසුව එය සලකාබලමින් නොවැම්බර් 27 තෙක් තාවකාලිකව ඔහුට පනවා තිබු විදෙස් ගමන් තහනම ඉවත් කළ බව අප වාර්තාකරු පැවසීය.
+Afterwards, it was dismantled the foreign travel ban that he had been temporarily imposed in the temporary till November 27, our correspondent.
+
+Sachitra Senanayake was released on two personal bail of Rs.
+
+Sachithra Senanayake did not appear when the case was taken up on July 92015 and was prescribed by the court to appear in court today (25).
+
+State Counseling Akila, Ayamila for the complaint, appeared on the complaint, our correspondent said.
 
 ...
 
 [Data](articles/4e2098eb.json)
+
+[Extended Data](ext_articles/4e2098eb.ext.json)
 
 ---
 
@@ -90,7 +148,7 @@ The order was issued when the petitions were taken up today to look into the ord
 
 ### New Hurricanes in the Philippines: Schools, Airlines cancel
 
-*2025-09-25 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
+*2025-09-25 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
 
 Following the death of nine people in the Philippines, the country's schools have been shut down and the flights have been canceled today (September 25).
 
@@ -107,6 +165,26 @@ The Philippines Coast Guard said that about 1,500 people were trapped in the por
 [Data](articles/dbd1c11a.json)
 
 [Extended Data](ext_articles/dbd1c11a.ext.json)
+
+---
+
+### Ex-President Ranil extends condolences over tragic accident at Na Uyana Monastery
+
+*2025-09-25 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112914/ex-president-ranil-extends-condolences-over-tragic-accident-at-na-uyana-monastery-) · `en`
+
+Former President Ranil Wickremesinghe has expressed his condolences over the passing of several local and foreign Buddhist monks in the tragic accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura.
+
+In an official statement, he also extended his wishes for a speedy recovery to the monks who were injured in the accident and are currently receiving treatment in the hospital.
+
+He further noted that the venerable Buddhist monks, who dedicated their lives in the forest to ending worldly suffering, had gone forth to share the Buddha’s teachings on impermanence.
+
+Concluding his message, the former President said he prays that the deceased clergy members attain the bliss of nirvana.
+
+◼️
+
+[Data](articles/98976307.json)
+
+[Extended Data](ext_articles/98976307.ext.json)
 
 ---
 
@@ -236,6 +314,32 @@ At the same time, 63 persons have been arrested on charges of driving and 20 for
 
 ---
 
+### Philippines cancels classes, flights as new storm looms
+
+*2025-09-25 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112913/philippines-cancels-classes-flights-as-new-storm-looms) · `en`
+
+The Philippines shut schools and scrapped flights on Thursday (Sep 25) as a fresh storm threatened to hit just days after a super typhoon killed nine people in the archipelago.
+
+Severe Tropical Storm Bualoi is forecast to intensify into a typhoon on Friday and then slam into the southern end of the Philippines’ largest island, Luzon.
+
+“Widespread flooding and landslides in mountainous areas are possible,” Benison Estareja from the nation’s weather service told a briefing.
+
+The Philippines is hit by an average of 20 storms and typhoons each year, putting millions of people in disaster-prone areas in a state of constant poverty.
+
+Scientists warn that storms are becoming more powerful as the world warms due to the effects of human-driven climate change.
+
+Authorities warned of a “high risk of life-threatening storm surge” of up to 3m with the coming storm.
+
+The Philippine Coast Guard said around 1,500 people were stranded in ports of Bicol, the region where the typhoon is forecast to hit.
+
+...
+
+[Data](articles/84b4f8a2.json)
+
+[Extended Data](ext_articles/84b4f8a2.ext.json)
+
+---
+
 ### Ranil condolences on behalf of the monks
 
 *2025-09-25 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214996) · `si`
@@ -274,6 +378,28 @@ He said this in parliament today (25).
 
 ---
 
+### Former French President Nicolas Sarkozy found guilty of criminal conspiracy in Libya case
+
+*2025-09-25 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112912/former-french-president-nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-case) · `en`
+
+Former French President Nicolas Sarkozy has been found guilty of criminal conspiracy in a case related to taking millions of euros of illicit funds from the late Libyan leader Col Muammar Gaddafi.
+
+The Paris criminal court acquitted him of all other charges, including passive corruption and illegal campaign financing.
+
+Sarkozy, who claims the case is politically motivated, was accused of using the funds from Gaddafi to finance his 2007 election campaign.
+
+In exchange, the prosecution alleged Sarkozy promised to help Gaddafi combat his reputation as a pariah with Western countries.
+
+The investigation was opened in 2013, two years after Saif al-Islam, son of the then-Libyan leader, first accused Sarkozy of taking millions of his father’s money for campaign funding.
+
+...
+
+[Data](articles/2a7dd487.json)
+
+[Extended Data](ext_articles/2a7dd487.ext.json)
+
+---
+
 ### There are reports that unidentified drones are visible at many airports in Denmark
 
 *2025-09-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226052) · `ta`
@@ -297,6 +423,26 @@ The incidents of drones in Alborg were reported to have been stopped at the Cope
 [Data](articles/4d468388.json)
 
 [Extended Data](ext_articles/4d468388.ext.json)
+
+---
+
+### Tourist arrivals in September top 110,000
+
+*2025-09-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112911/tourist-arrivals-in-september-top-110000) · `en`
+
+A total of 111,823 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 32,570 tourists have arrived from India which accounts to 29.1%. Furthermore, 8,021 persons from the United Kingdom, 6,994 from Germany, 6,316 from China and 6,097 Australian nationals have also visited Sri Lanka in the month of September.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,678,346 with the release of the latest figures for September.
+
+Among them, 358,165 individuals are from India, 159,162 from the UK and 121,116 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/b083a765.json)
+
+[Extended Data](ext_articles/b083a765.ext.json)
 
 ---
 
@@ -607,6 +753,20 @@ The Speaker pointed out that the Committee of the Secretaries and the Attorney G
 [Data](articles/decfbbf6.json)
 
 [Extended Data](ext_articles/decfbbf6.ext.json)
+
+---
+
+### බස්නාහිර පෞද්ගලික මගී ප්‍රවාහන බස් සඳහා ටිකට්පත අනිවාර්යයි
+
+*2025-09-25 12:00:03* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පෞද්ගලික-මගී-ප්‍රවාහන-බස්-සඳහා-ටිකට්පත-අනිවාර්යයි/11-418716) · `si`
+
+බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය විසින් ලබන මස පළමුවැනිදා සිට මගීන් වෙනුවෙන් ටිකට්පතක් ලබාදීම අනිවාර්ය කර තිබේ.
+
+ලබන මාසයේ සිට දැඩිව මෙම නීතිය ක්‍රියාත්මක කරන බවත් ටිකට්පත් නොමැති මගීන් හා රියදුරු හා කොන්දොස්තරවරුන් වෙත දැඩි ක්‍රියාමාර්ග ගන්නා බවත් එම අ‍ධිකාරිය පවසයි.
+
+◼️
+
+[Data](articles/8a217a9d.json)
 
 ---
 
@@ -1823,187 +1983,5 @@ Kalpitiya Police Division - Palmyraya, who was traveling towards the Kalpitiya r
 [Data](articles/9d70a525.json)
 
 [Extended Data](ext_articles/9d70a525.ext.json)
-
----
-
-### Israeli PM Netanyahu rejects western recognitions of Palestinian State
-
-*2025-09-25 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112893/israeli-pm-netanyahu-rejects-western-recognitions-of-palestinian-state) · `en`
-
-The recent recognitions by some Western nations of a Palestinian state will not “bind Israel in any way,” Israel’s Prime Minister Benjamin Netanyahu said on Wednesday.
-
-“A Palestinian state will not arise,” the prime minister’s office posted on X.
-
-Dozens of world leaders gathered at the United Nations on Monday to embrace a Palestinian state, a landmark diplomatic shift nearly two years into the Gaza war that faces fierce resistance from Israel and its close ally the United States.
-
-◼️
-
-[Data](articles/11e5d623.json)
-
-[Extended Data](ext_articles/11e5d623.ext.json)
-
----
-
-### Midigama Ruwan arrested with firearms
-
-*2025-09-25 07:16:23* · [`adalk`](https://www.ada.lk/breaking_news/මිදිගම-රුවන්ගේ-සමීපතමයෙක්-ගිනි-අවි-සමග-අල්ලයි/11-418708) · `si`
-
-A closer person of the underworld leader, Ruwan Chamara, or Midigama Ruwan has been arrested yesterday with T-56 riffles, magician and more than 30 Thirty Thirty Thirty Thauna.
-
-According to information received by the Force, the weapons have been found in the upper floor of a new two storied house.
-
-Police suspect that these firearms have been hungry with the objective of doing any crime.
-
-The surrounding area was further visited from the house to find out if other weapons were weapons.
-
-The Police Special Task Force has revealed that the 38-year-old suspect was a carpenter and his father's daughter's daughter was the father of the older sister of Midigama Ruwan.
-
-However, the suspect was due to be handed over to the Weligama Headquarters and the Police for further investigations. Business of the Special Task Force and Police are conducting further investigations.
-
-...
-
-[Data](articles/df01194b.json)
-
-[Extended Data](ext_articles/df01194b.ext.json)
-
----
-
-### Wounds were injured in the accident - Welcome to death by jacking
-
-*2025-09-25 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214982) · `si`
-
-The injured monks had taken measures quickly to hospital with the transport of the monks in the Naa Uyana Aranya Senasana in Malaysagama area.
-
-It is reported that the accident occurred at around 9.00 pm at the time of the religious observance of the religious observances on the sacred area.
-
-The monks had a 13 monk in the vehicle at the time of the accident and was identified seven monks.
-
-The Buddhist monks were admitted to Kurunegala Teaching Hospital and the Polgahawela Hospital.
-
-It is said that the monks among the monks who were in the area were in their livestock.
-
-Police said that they were Romania, Russia and Indian national monks.
-
-More monks have been injured in the accident and are receiving treatment at the Kurunegala Teaching Hospital.
-
-Police suspect that the accident had occurred when the bhikku was taken to the mountain to the top of the jungle, while the Pancdagama Police are conducting further investigations.
-
-...
-
-[Data](articles/7c8c104e.json)
-
-[Extended Data](ext_articles/7c8c104e.ext.json)
-
----
-
-### President meets Australian and Portuguese leaders in New York
-
-*2025-09-25 06:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/112892/president-meets-australian-and-portuguese-leaders-in-new-york) · `en`
-
-President Anura Kumara Dissanayake held bilateral discussions with Australian Prime Minister Anthony Albanese at the Permanent Mission of Sri Lanka to the United Nations in New York on the side-lines of the 80th session of the United Nations General Assembly.
-
-President Dissanayake warmly welcomed Prime Minister Albanese before the two leaders engaged in discussions aimed at further expanding economic and trade cooperation and strengthening bilateral relations. Particular emphasis was placed on promoting tourism, as well as exploring new investment and market opportunities, the President’s Media Division said.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Sri Lanka’s Permanent Representative to the United Nations and former Chief Justice, President’s Counsel Jayantha Jayasuriya, along with senior officials of the Ministry of Foreign Affairs, were also present at the meeting.
-
-...
-
-[Data](articles/ed457445.json)
-
-[Extended Data](ext_articles/ed457445.ext.json)
-
----
-
-### UN chief stresses need to ensure human control of AI over use of force
-
-*2025-09-25 06:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112891/un-chief-stresses-need-to-ensure-human-control-of-ai-over-use-of-force) · `en`
-
-UN Secretary-General Antonio Guterres on Wednesday stressed the importance of ensuring human control of artificial intelligence (AI) over the use of force.
-
-“Let us be clear: humanity’s fate cannot be left to an algorithm. Humans must always retain authority over life-and-death decisions,” he told an open debate of the Security Council on AI and international peace and security.
-
-The Security Council and UN member states must ensure that military use of AI remains in full compliance with international law and the UN Charter. Human control and judgment must be preserved in every use of force, he said.
-
-AI is no longer a distant horizon. It is here, transforming daily life, the information space, and the global economy at breathtaking speed. The question is not whether AI will influence international peace and security, but how the world will shape that influence, said Guterres.
-
-...
-
-[Data](articles/a3b290ad.json)
-
-[Extended Data](ext_articles/a3b290ad.ext.json)
-
----
-
-### Letter committees a safe world to create a safe world - President
-
-*2025-09-25 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214980) · `si`
-
-President Anura Kumara Dissanayake says that it is even worse that the fight against corruption is dangerous.
-
-He pointed out that the fight against corruption should be part of the world's culture.
-
-President Anura Kumara Dissanayake made this statement addressing the 80th session of the United Nations Council.
-
-The President states that the country has now been the latest world, drugs and fried organized criminal groups.
-
-President Anura Kumara Dissanayake added that the 80th session of the United Nations General Assembly that the Palestine is recognized as an independent state and provides the columns between Israel and Palestine.
-
-◼️
-
-[Data](articles/3f2bd56c.json)
-
-[Extended Data](ext_articles/3f2bd56c.ext.json)
-
----
-
-### Cable car accident at Na Uyana Monastery: Several injured monks continue to receive treatment
-
-*2025-09-25 06:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112890/cable-car-accident-at-na-uyana-monastery-several-injured-monks-continue-to-receive-treatment) · `en`
-
-Several Buddhist monks injured in the cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura continue to receive treatment at the Kurunegala and Polgahawela hospitals.
-
-The accident reportedly occurred at around 9:00 p.m. yesterday (24), as the monks were returning to their meditation huts after completing a religious ceremony held at the offering ground (Pūjā Bhūmiya).
-
-At the time of the accident, 13 monks were inside the cable car. Among them, seven monks lost their lives.
-
-The injured monks were admitted to the Kurunegala Teaching Hospital and the Polgahawela Hospital for treatment.
-
-It is also reported that five monks managed to jump out of the cable car at the time of the accident, sustaining only minor injuries and thereby saving their lives, while four others suffered serious injuries and are currently hospitalized.
-
-It has been reported that among the deceased monks, three were foreign nationals.
-
-...
-
-[Data](articles/9735dcaa.json)
-
-[Extended Data](ext_articles/9735dcaa.ext.json)
-
----
-
-### We will strengthen the people economically
-
-*2025-09-25 06:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நாட்டு-மக்களை-பொருளாதார-ரீதியாக-வலுப்படுத்துவோம்/150-365251) · `ta`
-
-President Anuragumara Dissanayake said that my dream is to strengthen all the people of my country economically.
-
-He was speaking at the United Nations General Assembly. When he further addresses,
-
-The drug and its appropriate market today is creating many worldwide pronunciations.
-
-Drug trade threatens countries and affect global politics and health.
-
-At the same time, it threatens the global goodwill. The Sri Lankan government is taking appropriate action against drugs and crimes and I urge all of you to take up global precautionary measures.
-
-Global action should be taken against drug traders. In addition, rehabilitation centers should be set up to assist the drug victims.
-
-At the same time, we believe that corruption is a barrier to the development of a country and is acting against democracy.
-
-As well as leading to corruption and poverty. It is more dangerous to not take action against corruption.
-
-...
-
-[Data](articles/4e2afec4.json)
-
-[Extended Data](ext_articles/4e2afec4.ext.json)
 
 ---

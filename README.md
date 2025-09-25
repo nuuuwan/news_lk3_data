@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-25 19:23:22**
+As of **2025-09-25 19:01:56**
 
 ## Newspaper Stats
 
-*Scraped **78,148** Articles*
+*Scraped **78,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,112 +17,20 @@ dailymirrorlk | 4,733
 islandlk | 4,793
 dailyftlk | 5,540
 adalk | 7,596
-adaderanalk | 10,157
+adaderanalk | 10,154
 tamilmirrorlk | 11,782
-virakesarilk | 12,715
-adaderanasinhalalk | 13,651
+virakesarilk | 12,713
+adaderanasinhalalk | 13,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,142 (100.0%) of 78,148 articles have been extended.
+78,132 (100.0%) of 78,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-25 (Thursday)
-
-### ගාල්ලේ මාර්ග රැසක් ජලයෙන් යටවෙයි
-
-*2025-09-25 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215009) · `si`
-
-අද (24) පස්වරුවේ ගාල්ල නගරයට ඇද හැලුණු අධික වර්ෂාපතනය හේතුවෙන් ගාල්ල නගරයේ මාර්ග කිහිපයක් ජලයෙන් යටවූ බව "අද දෙරණ" වාර්තාකරු පැවසීය.
-
-ගාල්ල - වක්වැල්ල ප්‍රධාන මාර්ගය ගාල්ල පොලීසිය ඉදිරිපිටින්, ගාල්ල - බද්දේගම මාපලගම ප්‍රධාන මාර්ගය තලාපිටිය, සරෙන්තුකඩේ සහ තනිපොල් ගහ හංදිය යන ප්‍රදේශවලින් ජලයෙන් යටවී තිබුණි
-
-මේ අතර ගාල්ල නගරයේ තවත් අතුරු මාර්ග රැසක් ජලයෙන් යටව තිබුණු අතර මාර්ගවල දැඩි රථ වාහන තදබදයක්ද හටගත් බව වාර්තා වෙයි.
-
-ප්‍රදේශවාසීන් චෝදනාකරන්නේ නිසි ලෙස කානු පද්ධති පිරිසුදු නොකිරීම සහ වැසි ජලය බැස යන ප්‍රධාන කාණු මත අනවසර ඉදිකිරීම් ඉදිකර තිබීම නිසා මෙවැනි තත්ත්වයන් නිතර හටගන්නා බවය.
-
-◼️
-
-[Data](articles/cae7e507.json)
-
----
-
-### பிரான்ஸ் முன்னாள் ஜனாதிபதி நிக்கோலஸ் சர்கோசிக்கு 5 ஆண்டு சிறைத்தண்டனை
-
-*2025-09-25 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226086) · `ta`
-
-பிரான்சின் முன்னாள் ஜனாதிபதி நிக்கோலஸ் சர்கோசிக்கு சட்டவிரோத நிதியுதவி தொடர்பான வழக்கில் ஐந்து ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
-
-லிபியத் தலைவர் கர்னல் முயம்மர் கடாபியிடமிருந்து மில்லியன் கணக்கான யூரோக்களை சட்டவிரோதமாக பெற்றதாக அவர் மீது குற்றஞ்சாட்டப்பட்டிருந்தது. இந்த வழக்கில் செயலற்ற ஊழல் மற்றும் சட்டவிரோத பிரச்சார நிதியுதவி தொடர்பான சில குற்றச்சாட்டுகளில் பாரிஸ் குற்றவியல் நீதிமன்றம் அவரை விடுவித்தாலும், முக்கிய குற்றச்சாட்டில் குற்றவாளி என நிரூபிக்கப்பட்டது.
-
-கடாபியிடமிருந்து பெறப்பட்ட நிதி, 2007ஆம் ஆண்டு நடந்த தேர்தல் பிரச்சாரத்திற்கு பயன்படுத்தப்பட்டதாக விசாரணைகளில் தெரியவந்தது.
-
-இந்நிலையில், இந்த வழக்கு அரசியல் நோக்கம் கொண்டது என நிக்கோலஸ் சர்கோசி தனது நிலைப்பாட்டை வெளிப்படுத்தியுள்ளார்.
-
-70 வயதான சர்கோசி, 2007 முதல் 2012 வரை பிரான்சின் ஜனாதிபதியாக பதவி வகித்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/d80997d2.json)
-
----
-
-### மட்டுவில் பொருளாதார மத்திய நிலையத்தை 30ஆம் திகதி முதல் ஆரம்பிக்க நடவடிக்கை
-
-*2025-09-25 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226085) · `ta`
-
-யாழ்ப்பாணம் மட்டுவிலில் அமைந்துள்ள பொருளாதார மத்திய நிலையத்தை மீள ஆரம்பித்தல் தொடர்பான கலந்துரையாடல் மாவட்ட செயலர் மருதலிங்கம் பிரதீபன் தலைமையில் வியாழக்கிழமை (25) மாவட்ட செயலக அலுவலகத்தில் நடைபெற்றது.
-
-அதன்போது,  நிலையத்தின் செயற்பாடுகளை  எதிர்வரும் 30ஆம் திகதி மீள ஆரம்பிப்பது குறித்து பொருளாதார மத்திய நிலையத்துக்குரிய கடை உரிமையாளர்களுடன் கலந்துரையாடப்பட்டது.
-
-பொருளாதார மத்திய நிலையத்தை மீள ஆரம்பிப்பதற்கான செயற்பாடுகள் குறித்தும் அதன் இட அமைவு தொடர்பாகவும் அமைச்சின் உயர் அதிகாரிகளுடன் கலந்துரையாடியதாக குறிப்பிட்டதுடன், பொருளாதார மத்திய நிலையத்துக்குரிய கடை உரிமையாளர்களின் தொடர்ந்து இயக்குவதற்கான தேவைபாடுகள் குறித்தும் கேட்டறிந்து கொண்டார்.
-
-மேலும், இந் நிலையத்தின் செயற்பாடுகளை இந்த மாதம் 30ஆம் திகதி மீள ஆரம்பிப்பதற்கான நடவடிக்கைகளை மேற்கொண்டு, சமூகத்துக்கு பயனுள்ள வகையில் இந்நிலையத்தை மாற்றுவதற்கான நடவடிக்கைகளை மேற்கொள்ள அனைவரதும் ஒத்துழைப்புக்களையும் நல்குமாறும் கேட்டுக்கொண்டார்.
-
-...
-
-[Data](articles/fba5bc0f.json)
-
----
-
-### All Asean countries in support of Sri Lanka, Hong Kong, Chile and Bangladesh joining RCEP
-
-*2025-09-25 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112918/all-asean-countries-in-support-of-sri-lanka-hong-kong-chile-and-bangladesh-joining-rcep) · `en`
-
-Talks are underway to include Hong Kong, Sri Lanka, Chile and Bangladesh in the Asean-led Regional Comprehensive Economic Partnership (RCEP), says Indonesia Vice Minister of Trade Dyah Roro Esti Widya Putri.
-
-Dyah said that ascension talks are underway for the four countries to join RCEP, which is currently the largest free trade agreement in the world.
-
-“There are four countries in ascension. So hopefully we will work into the ascension working group and we are of course in support of any countries that are willing to join RCEP,” she said when met by reporters after the Fourth RCEP Ministers’ meeting in Kuala Lumpur on Thursday (Sept 25).
-
-Dyah also said there were no objections by existing members against the four countries joining RCEP.
-
-The fourth RCEP Ministers’ Meeting is one of the key agendas on the fourth day of the 57th Asean Economic Ministers (AEM) meeting.
-
-...
-
-[Data](articles/9ed7832d.json)
-
----
-
-### Policy framework on digital transformation in education sector to be submitted to cabinet by March 2026
-
-*2025-09-25 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112917/policy-framework-on-digital-transformation-in-education-sector-to-be-submitted-to-cabinet-by-march-2026) · `en`
-
-Officials of the task force for digital transformation in education presented a plan, indicating that by March 2026, it is expected to submit the policy framework related to the digital transformation in the education sector to the cabinet for approval.
-
-This was stated recently (23) at a meeting of the Subcommittee under the Ministerial Consultative Committee on Education, Higher Education and Vocational Education held in Parliament chaired by the Prime Minister and Minister of Education, Higher Education and Vocational Education, Dr. Harini Amarasuriya.
-
-During the Committee meeting held, officials of the task force for digital transformation in education presented the proposed plan and highlighted that the digitalization process within this education reform would focus on six sectors, according to a statement issued today.
-
-...
-
-[Data](articles/b6ec121f.json)
-
----
 
 ### President meets UN Secretary-General
 
@@ -160,8 +68,6 @@ The government has said the existing SVAT will be removed from October 1.
 
 [Data](articles/234d3092.json)
 
-[Extended Data](ext_articles/234d3092.ext.json)
-
 ---
 
 ### Plans to a digital transformation in the education sector in 2026
@@ -185,24 +91,6 @@ At December 31, 2025, the Digital Task Force officials have pointed out that the
 [Data](articles/ea4b0a42.json)
 
 [Extended Data](ext_articles/ea4b0a42.ext.json)
-
----
-
-### Former French President Sarkozy sentenced to 5 years jail in Libya financing scandal
-
-*2025-09-25 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112916/former-french-president-sarkozy-sentenced-to-5-years-jail-in-libya-financing-scandal) · `en`
-
-Former French president Nicolas Sarkozy was sentenced to five years in jail on Thursday (Sep 25) after being found guilty of criminal conspiracy over efforts by close aides to procure funds for his 2007 presidential bid from Libya during the rule of late dictator Muammar Gaddafi.
-
-Sarkozy was acquitted by a Paris court of all other charges, including corruption and receiving illegal campaign financing.
-
-But the ruling means the former president will spend time in jail even if he appeals, a sentence much harsher than many expected.
-
-Sarkozy, who has always denied the charges, was accused of making a deal with Gaddafi in 2005, when he was France’s interior minister, to obtain campaign financing in exchange for supporting the then-isolated Libyan government on the international stage.
-
-...
-
-[Data](articles/7c274e55.json)
 
 ---
 
@@ -290,8 +178,6 @@ Hemas Holdings’ board approved on September 25 to proceed with the agreement, 
 
 [Data](articles/c6c83e57.json)
 
-[Extended Data](ext_articles/c6c83e57.ext.json)
-
 ---
 
 ### Sri Lanka rupee flat against dollar, bond yields steady
@@ -315,8 +201,6 @@ A bond maturing on 15.12.2032 closed at 10.43/47 percent, down from 10.43/48 per
 ◼️
 
 [Data](articles/bdff436e.json)
-
-[Extended Data](ext_articles/bdff436e.ext.json)
 
 ---
 
@@ -427,8 +311,6 @@ The Securities and Exchange Commission (SEC) of Sri Lanka presented its 12-step 
 ...
 
 [Data](articles/03c51a51.json)
-
-[Extended Data](ext_articles/03c51a51.ext.json)
 
 ---
 
@@ -677,8 +559,6 @@ Over the next decade the SEC’s strategy will be driven by the twelve key devel
 ...
 
 [Data](articles/f0e2d4af.json)
-
-[Extended Data](ext_articles/f0e2d4af.ext.json)
 
 ---
 
@@ -1112,8 +992,6 @@ He replaced Ashoka Ranwala who resigned after a month in the post after his clai
 
 [Data](articles/49d1901d.json)
 
-[Extended Data](ext_articles/49d1901d.ext.json)
-
 ---
 
 ### Celebrates World Ayurvedic Day for Man and Earth
@@ -1251,8 +1129,6 @@ Destination weddings continue to be a trend among Indian families seeking intern
 ...
 
 [Data](articles/5c9bc345.json)
-
-[Extended Data](ext_articles/5c9bc345.ext.json)
 
 ---
 
@@ -1652,8 +1528,6 @@ Topics include sustainable practices, technological innovation, investment prosp
 
 [Data](articles/d58ab920.json)
 
-[Extended Data](ext_articles/d58ab920.ext.json)
-
 ---
 
 ### அரசாங்கத்துக்கு முன்னாலிருக்கும் தெரிவு
@@ -1853,8 +1727,6 @@ The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.
 ...
 
 [Data](articles/166c8a4d.json)
-
-[Extended Data](ext_articles/166c8a4d.ext.json)
 
 ---
 
@@ -2073,5 +1945,109 @@ Huge waves crashed over areas of Hong Kong’s eastern and southern shoreline on
 [Data](articles/bfdb1d9d.json)
 
 [Extended Data](ext_articles/bfdb1d9d.ext.json)
+
+---
+
+### The JVP: Marxist Lullaby Or Tamils’ Red Hope?
+
+*2025-09-25 08:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-jvp-marxist-lullaby-or-tamils-red-hope/) · `en`
+
+It was Marie Antoinette who, when the French rioted for bread, asked why not give them cake? It did not work for Marie but President Anura Kumara Dissanayake (AKD) seems a firm believer in her bag of tricks. She believed cake will work in place of bread despite the price, but does AKD? Can Tamils be bought over so easily?
+
+Many of us in the Tamil Country were willing to forget that one of the JVP’s five lessons in 1971 was that we Tamils are intrinsicallly chauvinistic and a fifth column for India as Indian aircraft and helicopters straffed JVP positions in 1971.
+
+...
+
+[Data](articles/ef96b8f0.json)
+
+[Extended Data](ext_articles/ef96b8f0.ext.json)
+
+---
+
+### Kurunegala - Three people killed, four injured
+
+*2025-09-25 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226020) · `ta`
+
+Three people were killed and four others were injured in an accident in Mirissa, Thalawa area on the Kurunegala - Anuradhapura main road.
+
+Three people died on the spot. And four are injured. The injured were immediately admitted to a nearby hospital for treatment.
+
+◼️
+
+[Data](articles/6f3a06a8.json)
+
+[Extended Data](ext_articles/6f3a06a8.ext.json)
+
+---
+
+### Four deaths this morning: Four deaths
+
+*2025-09-25 08:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-இடம்பெற்ற-கோர-விபத்து-நால்வர்-மரணம்/175-365254) · `ta`
+
+Four people were killed in a vehicle accident on the Kurunegala - Anuradhapura main road, Thalawa, Mirigama area today (25).
+
+The accident occurred when a van traveling from Kurunegala to Anuradhapura collided with a lorry.
+
+◼️
+
+[Data](articles/a469b1d0.json)
+
+[Extended Data](ext_articles/a469b1d0.ext.json)
+
+---
+
+### Crash that took place this morning: Three dies
+
+*2025-09-25 08:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-இடம்பெற்ற-கோர-விபத்து-மூவர்-மரணம்/175-365254) · `ta`
+
+Three persons were killed in a vehicle accident on the Kurunegala - Anuradhapura main road, Thalawa, Mirigama area today (25).
+
+The accident occurred when a van traveling from Kurunegala to Anuradhapura collided with a lorry.
+
+◼️
+
+[Data](articles/ad8b471a.json)
+
+[Extended Data](ext_articles/ad8b471a.ext.json)
+
+---
+
+### Driver
+
+*2025-09-25 08:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-போதையில்-வாகனம்-செலுத்திய-சாரதி/175-365253) · `ta`
+
+A driver who allegedly drove a bus while intoxicated has been arrested in Kandapalai, Nuwara Eliya.
+
+The driver of the bus belonging to the Sri Lanka Transport Board (SLTB), who was traveling from Udapusallawa to Nuwara Eliya, has been arrested.
+
+When the driver was arrested, about 30 people were traveling on the bus he paid, police said.
+
+A 55 -year -old driver from Udapusallawa has been arrested. Remble
+
+◼️
+
+[Data](articles/c0d14289.json)
+
+[Extended Data](ext_articles/c0d14289.ext.json)
+
+---
+
+### Iran, US signal possible easing in nuclear tensions
+
+*2025-09-25 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112896/iran-us-signal-possible-easing-in-nuclear-tensions) · `en`
+
+Tehran and Washington signalled a possible softening in nuclear tensions on Wednesday (Sep 24), with Iran insisting it has no ambitions to build nuclear weapons and the US expressing readiness to resume talks aimed at resolving the long-standing standoff.
+
+A few hours after Iranian President Masoud Pezeshkian told the UN General Assembly that Iran will never seek to build a nuclear bomb, US President Donald Trump’s Middle East Envoy Steve Witkoff said “we have no desire to hurt them”.
+
+“We’re talking to them. And why wouldn’t we? We talk to everybody. As well we should. That’s the job. Our job is to solve things,” he told the Concordia summit in New York.
+
+Prior to a 12-day war between Iran and Israel in June, Tehran and Washington held five rounds of nuclear talks but faced major stumbling blocks such as uranium enrichment on Iranian soil, which Western powers want to bring down to zero to minimise any risk of weaponisation.
+
+...
+
+[Data](articles/2a3720d1.json)
+
+[Extended Data](ext_articles/2a3720d1.ext.json)
 
 ---

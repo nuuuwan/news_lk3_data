@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 23:21:18**
+As of **2025-09-26 22:54:58**
 
 ## Newspaper Stats
 
-*Scraped **78,732** Articles*
+*Scraped **78,726** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 304
+lankadeepalk | 298
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -27,71 +27,47 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,710 (100.0%) of 78,732 articles have been extended.
+78,691 (100.0%) of 78,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### ‘‘ආහාර ටොන් කෝටි 130ක් වසරක අපතේ යවනවා‘‘
-
-*2025-09-26 22:39:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආහර-ටන-කට-130ක-වසරක-අපත-යවනව/1-680298) · `si`
-
-ලෝකයේ ජනතාව ආහාර ටොන් කෝටි 130 ක් වසරකට අපතේ යවන බවත් ශ්‍රී ලංකාව සහ මාලදිවයින සඳහා එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානයේ නියෝජිත විමලේන්ද්‍ර ෂරන් මහතා පසුගියදා ප්‍රකාශ කළේය.
-
-ජනතාව ගෝලීයව අපතේ යවන ආහාර ටොන් 130 න් වසරකට කෝටි 300 ක ජනතාවගේ බඩගින්න නැති කිරීමට හැකි බව ෂරන් මහතා පැවැසුවේය.
-
-ශ්‍රී ලංකාවද ආහාර අපතේ යාමේ අභියෝගයට මුහුණදී සිටින බවත් අවසන් වරට එක්සත් ජාතීන්ගේ ආහාර හා කෘෂිකර්ම සංවිධානය ආහාර නාස්තිය පිළිබඳව සිදුකළ සමීක්ෂණයේදී ශ්‍රී ලංකාව දිනකට ආහාර අපද්‍රව්‍ය ටොන් 3963ක් ජනනය වන බව අනාවරණය වී තිබෙන බවත් ඔහු ප්‍රකාශ කළේය. ඒ අනුව වසරකට ජනනය වන ආහාර අපද්‍රව්‍ය ප්‍රමාණය ටොන් ලක්ෂ 14.4 ක් බවද ඔහු පෙන්වා දුන්නේය.
-
-මෙරට නාගරික අපද්‍රව්‍ය වලින් සියයට 50ත් 76ත් අතර ප්‍රමාණයක් තිබෙන්නේ ආහාර අපද්‍රව්‍ය බවත් ඔහු පැවැසුවේය. ඉන් සියයට 38 ක් ගෘහස්ථ ආහාර අප ද්‍රව්‍ය බවත් තවත් සියයට 24 ක් අවන්හල්වලින් ජනනය වන බවත් ඔහු ප්‍රකාශ කළේය. එසේම තවත් සියයට 16ක් වෙළෙඳපොළවලින් සහ සියයට 12ක් මස්කඩ වලින් ජනනය කරන බවද ඔහු පැවැසුවේය.
-
-...
-
-[Data](articles/62e76711.json)
-
----
-
-### 'Weerahera r.m.V. Services bribible
+### ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘
 
 *2025-09-26 22:30:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරහර-R-M-V-සවවලට-අලලස-ගනනව/1-680297) · `si`
 
-The Bribery Commission said that some government officials have received complaints that some government officials have obtained bribes in the Erahera of the Department of Motor Traffic.
+වේරහැර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු කාර්යාලයේ සේවා ලබාදීමේදී ඇතැම් රජයේ නිලධාරීන් අල්ලස් ලබා ගන්නා බවට පැමිණිලි ලැබී ඇති බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවේ කරුණු දක්වමින් අල්ලස් කොමිසම අද(26) පැවසීය.
 
-The bribery commission said that the driver's licensing officer was arrested by the driver's license press and a private security personnel at the court of Rs.
+පරීක්ෂණයට මුහුණ දී රියදුරු බලපත්‍රයක් ලබා ගැනීමට පැමිණි පුද්ගලයකුගෙන් රුපියල් දස දහසක අල්ලසක් ලබා ගත්තේ යැයි අත් අඩංගුවට ගත් එම කාර්යාලයේ රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ නිලධාරියෙකු සහ පුද්ගලික ආරක්ෂක අංශ සේවිකාවක අධිකරණයට ඉදිරිපත් කරමින් අල්ලස් කොමිෂම එසේ පැවසීය.
 
-Kaham Priyankara Sirisena and the Coastal Sirisena and the Coastal Council were produced in court.
+රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ කැලුම් ප්‍රියංකර සිරිසේන සහ ජීවමාලී නමැති සැකකාරිය මෙසේ අධිකරණයට ඉදිරිපත් කෙරිණි.
 
-The Bribery Commission states that the suspects were arrested following a longest investigation by a complaint received by a complaint received by a complaint received.
+අල්ලස් කොමිසම කරුණු දක්වමින් කියා සිටියේ 2024 වර්ෂයේදී ලැබුණු පැමිණිල්ලක් අනුව දීර්ඝ විමර්ශනයක් කිරීමෙන් අනතුරුව මෙම සැකකරුවන් අත්අඩංගුවටයි ගත් බවය.
 
-The second suspect has said that the office was obtained from the office.
-
-She had been working in a private security forces and asked for a bribe of Rs.
-
-The Commission requested that the suspects were remanded to be remanded for the suspects.
+මෙම කාර්යාලයේ අල්ලස් ලබා ගන්නා බවට ලිඛිතව පැමිණිලි ලැබී තිබෙනවා.ඒ අනුව රියදුරු බලපත්‍රයක් ලබා ගැනීමට ගිය පුද්ගලයෙකුට සේවාව ලබා දිය හැකි බවට දෙවන සැකකාර කාන්තාව පවසා තිබෙනවා.
 
 ...
 
 [Data](articles/cb37421c.json)
 
-[Extended Data](ext_articles/cb37421c.ext.json)
-
 ---
 
-### Sri Lanka target 203 runs
+### ශ්‍රී ලංකාවට  ලකුණු 203ක ඉලක්කයක්
 
 *2025-09-26 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215052) · `si`
 
-Sri Lanka and India won the round of Sri Lanka and India won the toss and invited India to bat first.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ අවසන් තරගය ශ්‍රී ලංකාව සහ ඉන්දියාව අතර අද (26) පැවැත්වෙන අතර එහිදී තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකාව ප්‍රථමයෙන් පන්දුවට පහර දීමට ඉන්දියාවට ආරාධනා කළේය.
 
-Accordingly, India scored 202 runs for the loss of 5 wickets in their five overs.
+ඒ අනුව ඉන්දියාව පන්දුවාර 20 අවසානයේ කඩුළු 5ක් දැවී ලකුණු 202ක් රැස් කිරීමට සමත් විය.
 
-ABHISEK SHARMA scored 61 runs for India and Tilak Varma scored 49 not out.
+එහිදී ඉන්දියාව වෙනුවෙන් Abhishek Sharma ලකුණු 61ක් ‍රැස් කළ අතර Tilak Varma නොදැවී ලකුණු 49ක් රැස් කළේය.
 
-Sanju Samson scored 39 runs, axar patel scored 21 runs, leader SURYAKUARI YADA.
+එමෙන්ම Sanju Samson ලකුණු 39ක්ද, Axar Patel ලකුණු 21ක්ද, නායක Suryakumar Yadav ලකුණු 12ක්ද රැස් කිරීමට සමත්විය.
 
-In bowling, Gigh Insightful, Veninduvaranga, Viein Shanaka, and Charath were present at one wicket.
+පන්දු යැවීමේදී මහීෂ් තීක්ෂණ, දුෂ්මන්ත චමීර, වනිඳු හසරංග, දසුන් ශානක හා චරිත් අසලංක එක් කඩුල්ල බැගින් දවා ගත්තේය.
 
-Sri Lanka is due to chase 203 runs.
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 203ක ඉලක්කයක් හඹා ‍යාමට නියමිතය.
 
 කෙසේ වෙතත් මෙය මෙවර ආසියානු කුසලාන තරගාවලියේ දී කණ්ඩායමක් විසින් ඉනිමක දී රැස් කළ වැඩිම ලකුණු ප්‍රමාණය ද වේ.
 
@@ -99,37 +75,11 @@ Sri Lanka is due to chase 203 runs.
 
 [Data](articles/fbfa343a.json)
 
-[Extended Data](ext_articles/fbfa343a.ext.json)
-
----
-
-### Tea fertilizer subsidy to QR
-
-*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
-
-The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
-
-By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
-
-The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
-
-Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
-
-The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
-
-The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
-
-◼️
-
-[Data](articles/56b83a5f.json)
-
-[Extended Data](ext_articles/56b83a5f.ext.json)
-
 ---
 
 ### තේ පොහොර සහනාධාරය QR ක්‍රමයට
 
-*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ත-පහර-සහනධරය-QR-කරමයට/1-680296) · `si`
+*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
 
 කුඩා හා මධ්‍යම පරිමාණ තේ වතු හිමියන් සඳහා පොහොර සහනාධාරය QR ක්‍රමවේදය ඔස්සේ ලබාදීමට රජය තීරණය කර තිබේ.
 
@@ -145,7 +95,7 @@ The government says that under this new methodology, necessary to buy fertilizer
 
 ◼️
 
-[Data](articles/9ed675f7.json)
+[Data](articles/56b83a5f.json)
 
 ---
 
@@ -167,19 +117,17 @@ Police said investigations are currently underway to arrest the suspect. Remble
 
 ---
 
-### Central Environmental Authority Joins Gov Pay
+### මධ්‍යම පරිසර අධිකාරිය GOv pay හා එක් වෙයි
 
 *2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
 
-The Central Environmental Authority (GOV Pay) was commenced today.
+මධ්‍යම පරිසර අධිකාරිය ගව්පේ (Gov pay)රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව සමග එක්ක කටයුතු කිරීම අද දින ආරම්භ කෙරිණි.
 
-The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
+මෙම ගෙවීම් ක්‍රමවේදය නිල වශයෙන් විවෘත කෙරුණු අතර එම ගිවිසුම් අත්සන් කිරීම හා විවෘත කිරීම බත්තරමුල්ල මධ්‍යම පරිසර අධිකාරියේ දී අද දින සිදු කරනු ලැබිණි .
 
 ◼️
 
 [Data](articles/6cff156d.json)
-
-[Extended Data](ext_articles/6cff156d.ext.json)
 
 ---
 
@@ -431,23 +379,19 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### Is the artificial intelligence beat a professional journalist?
+### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කතම-බදධය-වතතය-මධයවදයට-පහරකද/12-680292) · `si`
 
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
 
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
 
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
 
 ...
 
 [Data](articles/3f574452.json)
-
-[Extended Data](ext_articles/3f574452.ext.json)
 
 ---
 
@@ -491,23 +435,19 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### Is the artificial intelligence beat a professional journalist?
+### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/12-680292) · `si`
 
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
 
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
 
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
 
 ...
 
 [Data](articles/f1e9c6ee.json)
-
-[Extended Data](ext_articles/f1e9c6ee.ext.json)
 
 ---
 
@@ -961,30 +901,6 @@ Budget Committee Stage Debate commences on November 15 and will be held on Novem
 
 ---
 
-### අයවැය විසර්ජන පනත් කෙටුම්පත මැතිසබයට
-
-*2025-09-26 17:06:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අයවය-වසරජන-පනත-කටමපත-මතසබයට/1-680286) · `si`
-
-ලබන වර්ෂය (2026) සඳහා වන විසර්ජන පනත් කෙටුම්පත මුදල් ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන වැඩබලන අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා විසින් පාර්ලිමේන්තුවට අද (26) ඉදිරිපත් කරනු ලැබීය.
-
-විසර්ජන පනත් කෙටුම්පතට අදාළ ගැසට් නිවේදනය සැප්තැම්බර් මස 18 වැනිදා නිකුත් කෙරිණ.
-
-එම කෙටුම්පත අනුව  ලබන වසරේ රජයේ සමස්ත වියදම රුපියල් කෝටි 443400කි.
-
-කෙටුම්පතෙන් වැඩිම මුදලක් වැය කර ඇත්තේ මුදල් අමාත්‍යාංශයට වන අතර එය රුපියල් කෝටි 63400කි.
-
-පළාත් සභා සහ පළාත් පාලන  අමාත්‍යාංශයට රුපියල් කෝටි 61800ක්ද  රාජ්‍ය පරිපාලන අමාත්‍යාංශයට රුපියල් කෝටි 59600ක්ද වෙන් කර අැත
-
-ජනාධිපතිවරයාගේ අයවැය කතාව නොවැම්බර් මස 7 වැනිදා ඉදිරිපත් කෙරේ. අයවැය දෙවැනි වර කියවීමේ විවාදය නොවැම්බර් මස 8  වෙනිදා ආරම්භ වී 14 වැනිදා දක්වා(දින හයකි) පැවැත්වේ.
-
-අයවැය කාරක සභා අවස්ථාවේ විවාදය නොවැම්බර් මස 15 වෙනිදා ආරම්භ වී දෙසැම්බර් මස 5  වැනිදා දක්වා (දින 17කි)  පැවැත්වේ. අයවැය තෙවැනි වර කියවීමේ ඡන්ද විමසීම දෙසැම්බර්  5 වෙනිදා පස්වරුවේ පැවැත්වේ
-
-◼️
-
-[Data](articles/e5f39c85.json)
-
----
-
 ### The only meals are: but the chickpeg
 
 *2025-09-26 16:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலைதழைகள்-மட்டும்-தான்-சாப்பாடு-ஆனால்-சிக்ஸ்பேக்/175-365339) · `ta`
@@ -1175,24 +1091,6 @@ This is a serious accusation.  We asked this morning too. Did not give an answe
 
 ---
 
-### මුජිබර්ගේ ප්‍රශ්නෙන් මැතිසබේ රත්වෙයි
-
-*2025-09-26 16:30:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මජබරග-පරශනන-මතසබ-රතවය/1-680285) · `si`
-
-අල්ලස් හෝ දූෂණ චෝදනාව විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් රංග දිසානායක  මහතා ජනතා විමුක්ති පෙරමුණේ නීති අංශයේ ලේකම්වරයා ලෙස වැඩ කර ඇති අයෙකු බවට එහි හිටපු නායකයකු වන නන්දන ගුණතිලක රූපවාහිනී සංවාදයකදී ප්‍රකාශ කළ බව සමගි ජන බලවේගයේ කොළඹ දිස්ත්‍රික් මන්ත්‍රී මුජිබර් රහුමාන් මහතා ප්‍රකාශ කිරීමෙන් පාර්ලිමේන්තුවේදී අද (26) උණුසුම් සංවාදයක් ඇතිවිය.
-
-ඔහු මෙසේ පැවසුවේ කෝප්  කමිටුවේ වාර්තාව පිළිබඳ සභාව කල් තබන අවස්ථාවේ විවාදයේදීය.
-
-අල්ලස් කොමිසම විපක්ෂයේ මන්ත්‍රීවරුන් පසුපස පමණක් හඹා යමින් ආණ්ඩුවේ ඇමැතිවරුන්ට එරෙහිව ඇති චෝදනා විභාග නොකරන්නේ ඒ  හිතවත්කම නිසා දැයි මන්ත්‍රීවරයා  ප්‍රශ්න කළේය.
-
-මේක බරපතළ  චෝදනාවක්.  අපි මේ ගැන අද උදේත්  ඇහුවා. උත්තරයක් දුන්නේ නැහැ. මේ වගේ ස්වාධීන කොමිෂන් සභා ඇති කළේ ස්වාධීන ලෙස වැඩ කරන්නයි. අපිට මෙතන ගැටළුවක් තියෙනවා. රංග දිසානායක විපක්ෂයේ ඉන්න මන්ත්‍රීවරුන් ඔක්කොගෙම ගනුදෙනු හොයනවා. හැබැයි ආණ්ඩුවේ මැති ඇමතිවරුන්ගේ ඒවා හොයන්නේ නැහැ. එහෙම කරන්නෙ නැත්තේ මෙයා ජේවීපි  කාරයෙක් නිසාද. අපිට එහෙම හිතන්න පුළුවන්.
-
-...
-
-[Data](articles/d60717ca.json)
-
----
-
 ### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
 
 *2025-09-26 16:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/90-day-detention-for-ex-slpp-lg-candidate-manamperi) · `en`
@@ -1220,20 +1118,6 @@ The lorry came through Moranthiwuwa to Bandaragama and the lorry driver brake wa
 [Data](articles/05dc4252.json)
 
 [Extended Data](ext_articles/05dc4252.ext.json)
-
----
-
-### වාහන 3ක් එකිනෙක ගැටී 11ක් රෝහලට
-
-*2025-09-26 16:23:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වහන-3ක-එකනක-ගට-11ක-රහලට/1-680284) · `si`
-
-බණ්ඩාරගම කළුතර මාර්ගයේ වෑවිට ලොරියක්, වෑන් රථයක් සහ ත්‍රීරෝද රථයක් එකිනෙක ගැටීමෙන් 11 දෙනකු තුවාල ලබා රෝහල්ගතව ඇතැයි බණ්ඩාරගම පොලිසියය කියයි
-
-ලොරි රථය මොරන්තුදුව දෙස සිට බණ්ඩාරගම දෙසට පැමිණීමේදී ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි ත්‍රීරෝද රථයක් මාර්ගය හරහා පැමිණ ලොරි රථයේ ගැටීමත් සමඟම ලොරි රථ රියදුරු තිරිංග තද කර ඇතිතර ලොරියේ පිටුපසින් පැමිණි වෑන් රථය ලොරියේ ගැටීමෙන් මෙම අනතුර වී ඇතැයි පොලිසිය කියයි
-
-◼️
-
-[Data](articles/12f81555.json)
 
 ---
 
@@ -1336,18 +1220,6 @@ The fourth report of the Committee on Public Enterprises (COPE) was presented in
 [Data](articles/9351441b.json)
 
 [Extended Data](ext_articles/9351441b.ext.json)
-
----
-
-### කෝප් සිවුවැනි හෙළිදරව්ව මෙන්න
-
-*2025-09-26 16:05:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-සවවන-හළදරවව-මනන/1-680283) · `si`
-
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ(කෝප්) සිව්වෙනි වාර්තාව අද පාර්ලිමේන්තුවට ඉදිරිපත් කෙරිණි.
-
-◼️
-
-[Data](articles/d827e863.json)
 
 ---
 
@@ -1934,5 +1806,111 @@ Five underworld members of Padmasiri, who was an organized criminal, was arreste
 [Data](articles/6e4ebbee.json)
 
 [Extended Data](ext_articles/6e4ebbee.ext.json)
+
+---
+
+### Padme's firearms and bullets meet
+
+*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදම-ග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
+
+The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
+
+A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
+
+This information has been revealed in the interrogation by the Western Provincial Council.
+
+Five underworld members of Padmasiri, who was an organized criminal, was arrested for his arrest in Indonesia, and three others, including Kehel Bedma Padkere on the detention department.
+
+◼️
+
+[Data](articles/7782eca5.json)
+
+[Extended Data](ext_articles/7782eca5.ext.json)
+
+---
+
+### Padme's firearms and bullets meet
+
+*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/101-680277) · `si`
+
+The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
+
+A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
+
+This information has been revealed in the interrogation by the Western Provincial Council.
+
+සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් පස්දෙනකු පසුගියදා ඉන්දුනීසියාවේ ජාකාර්ථානුවරදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව කෙහෙල් බද්දර පද්මේ ඇතුළු තිදෙනකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් නියෝග මත රඳවා තබා ඇත.
+
+◼️
+
+[Data](articles/e4e09f91.json)
+
+[Extended Data](ext_articles/e4e09f91.ext.json)
+
+---
+
+### England arrives in Sri Lanka to give lives to 20 children
+
+*2025-09-26 14:54:12* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්-20කට-ජීවිත-දානය-දෙන්න-එංගලන්තයෙන්-වෛද්‍ය-කණ්ඩායමක්-කරාපිටියට-එයි/11-418742) · `si`
+
+The Karapitiya National Hospital came from England to do the heart surgery of children who are undergoing heart disease.  The team has now arrived at the Karapitiya hospital for the cardiac surgery of children every year.
+
+The director of Karapitiya National Hospital, Dr.SP Ranga says that about a week, the Director of Karapitiya National Hospital Dr.SP Ranga says.
+
+Dr. Swan Wijemuni, Chairman of the Department of Health and Media and Information Dr. Sissamala district of the Hon.. The Deputy Minister has also observed the infrastructure of the heart disease.
+
+◼️
+
+[Data](articles/6aac4c50.json)
+
+[Extended Data](ext_articles/6aac4c50.ext.json)
+
+---
+
+### සම්පත් මනම්පේරිව දින 90ක් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
+
+*2025-09-26 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215034) · `si`
+
+The Walasmulla Magistrate's Court today (26) has been granted to retain 90 days of reserves.
+
+He is remanded in connection with the hiding two containers containing two containers containing chemicals that are used to produce ice drugs in the Middeniya area.
+
+◼️
+
+[Data](articles/110416f2.json)
+
+[Extended Data](ext_articles/110416f2.ext.json)
+
+---
+
+### 76th anniversary of the Chinese Republic
+
+*2025-09-26 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சீன-குடியரசின்-76ஆவது-ஆண்டு-நிறைவு-கொண்டாட்டம்/46-365327) · `ta`
+
+Chinnaman Life Hotel, a welcome ceremony to celebrate the 76th anniversary of the founding of the People's Republic of China, was held on Thursday (25).
+
+“This 76 -year journey through wind and rain has embodied the firm feet to make an ancient nation's refreshing dream come true. The Chinese nation, which has more than 5000 years of famous civilization, has risen through difficult efforts, progressed by reform and opening, and advanced in the waves of time. China's Ambassador to Sri Lanka Qi Zhenhong said at the welcome event, "It will undoubtedly achieve new pride in the new era, and make a new contribution to the noble purpose of human peace and development."
+
+◼️
+
+[Data](articles/44524ac3.json)
+
+[Extended Data](ext_articles/44524ac3.ext.json)
+
+---
+
+### Now in the time of Thor-Shall
+
+*2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දන-තර-මර-අහවන-කල/1-680276) · `si`
+
+Headahaduwa District MP Jagath Manule is the time:
+
+Anura Dissanayake addressed the United Nations General Assembly that the opposition to corruption is dangerous.. Who will pay for the price? Because of these things that fell to the people of this country.  The COPE has been sitting in the posts of the governments of the governments of the contract.
+
+◼️
+
+[Data](articles/0d7f0461.json)
+
+[Extended Data](ext_articles/0d7f0461.ext.json)
 
 ---

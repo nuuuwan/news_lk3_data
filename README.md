@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 09:12:34**
+As of **2025-09-26 08:49:37**
 
 ## Newspaper Stats
 
-*Scraped **78,211** Articles*
+*Scraped **78,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,153 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 792
-economynextcom | 4,719
+economynextcom | 4,718
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,601
+adalk | 7,600
 adaderanalk | 10,163
-tamilmirrorlk | 11,787
-virakesarilk | 12,724
-adaderanasinhalalk | 13,661
+tamilmirrorlk | 11,785
+virakesarilk | 12,722
+adaderanasinhalalk | 13,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,209 (100.0%) of 78,211 articles have been extended.
+78,204 (100.0%) of 78,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch
-
-*2025-09-26 09:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-hayleys-fentons-assigned-national-long-term-rating-of-a-by-fitch-241935/) · `en`
-
-ECONOMYNEXT – Sri Lanka-based Hayleys Fentons Limited has assigned a national long-term rating of A+(lka), by Fitch Ratings, with a Stable Outlook.
-
-“The rating reflects HFL’s leading market share in domestic rooftop solar panel sales and installation, which drove cash flow in the financial year ending March 2025,” the ratings agency said.
-
-Hayleys Fentons provides services in renewable energy, building infrastructure systems, information and communication technology, and equipment trading, but the sale and installation of rooftop solar panels, accounts for around 70 percent of the company’s EBITDA.
-
-Fitch Assigns Sri Lanka’s Hayleys Fentons First Time ‘A+(lka)’ National Rating
-
-Fitch Ratings – Colombo/Singapore: Fitch Ratings has assigned Sri Lanka-based Hayleys Fentons Limited (HFL) a National Long-Term Rating of A+(lka). The Outlook is Stable.
-
-...
-
-[Data](articles/bd0dafae.json)
-
----
-
-### 24 மணித்தியாலங்களில் 100 மில்லி மீற்றர் மழை
-
-*2025-09-26 08:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-100-மில்லி-மீற்றர்-மழை/175-365304) · `ta`
-
-நாட்டின் தென்மேற்குப் பகுதிகளில் தற்போது காணப்படும் மழையுடனான வானிலை அடுத்த 24 மணித்தியாலங்களில் தொடர்ந்து பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
-
-மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
-
-வடமத்திய மாகாணத்திலும், மாத்தளை, மன்னார் மற்றும் யாழ்ப்பாண மாவட்டங்களிலும் மழை பெய்யக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/f6567424.json)
-
----
-
-### Landslide warnings are issued for several areas
-
-*2025-09-26 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215021) · `si`
-
-The National Building Research Organization (NBRO) has issued a landslide warning notification for several areas due to the inclement weather that has affected the island.
-
-◼️
-
-[Data](articles/845a0e22.json)
-
-[Extended Data](ext_articles/845a0e22.ext.json)
-
----
-
-### Accident in Chavakachcheri: Youth killed
-
-*2025-09-26 08:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாவகச்சேரியில்-கோர-விபத்து-இளைஞர்-பலி/175-365303) · `ta`
-
-Yall. A youth was killed and a woman was injured in an accident that took place yesterday on the A -9 road in Thenmarachchi, Chavakachcheri - Nuna.
-
-Tipparai traveling from Chavakachcheri to Jaffna, a young man who was traveling from Jaffna to Chavakachcheri in the opposite direction when a woman was trying to overtake a motorbike in the same direction.
-
-The young man died on the spot. The injured woman was admitted to the Chavakachcheri Resource Hospital and transferred to the Jaffna Teaching Hospital for further treatment.
-
-Tilakiswaran Yadus (20 years old) from Budhur junction in Meesalai, North, died in the accident.
-
-◼️
-
-[Data](articles/8ee91797.json)
-
-[Extended Data](ext_articles/8ee91797.ext.json)
-
----
-
-### Seizure of beedi leaves and a variety of agricultural chemicals
-
-*2025-09-26 08:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226095) · `ta`
-
-Police said that illegal beedi leaves and various types of agricultural chemicals have been seized.
-
-These were confiscated during the raid carried out by the Dungalditiya Police Station in the area of ​​the Dungalditiya Police Division on Thursday (25).
-
-In the meantime, 835 kg 800 grams of beedi leaves, 635 kg 600 grams of agricultural chemicals, and 03 boat machines have been seized.
-
-◼️
-
-[Data](articles/cae9e50b.json)
-
-[Extended Data](ext_articles/cae9e50b.ext.json)
-
----
-
-### One person killed in a dispute caused by cash transactions - incident in Negombo
-
-*2025-09-26 08:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226096) · `ta`
-
-One person has died in the Periyamulla area belonging to the Negombo Police Division, police said.
-
-He was admitted to the Negombo Hospital after the attack, and he died without treatment, the Negombo police said.
-
-Investigations have revealed that the deceased is a 44 -year -old from Halgiran Oya.
-
-Initial investigations have revealed that he was killed in a dispute with a man who was identified as a money laundering transaction.
-
-Negombo police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/3c0e1860.json)
-
-[Extended Data](ext_articles/3c0e1860.ext.json)
-
----
-
-### President - UN. General Secretary Antonio Cutters Meeting
-
-*2025-09-26 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226093) · `ta`
-
-United Nations Secretary -General António Guterres on Thursday afternoon in New York, New York. President Anura Kumara Dissanayake met at the headquarters.
-
-The meeting was held at the meeting and the President had extensively explained to the General Secretary about the government's plans to bring Sri Lanka to new heights in economic, social and politically.
-
-It is noteworthy that General Secretary Gutarez has praised the plans and promised to give them full support.
-
-◼️
-
-[Data](articles/46ecfdd0.json)
-
-[Extended Data](ext_articles/46ecfdd0.ext.json)
-
----
 
 ### The 2019 economy reaches in 2026 - President
 
@@ -183,28 +55,6 @@ The ruler who had come to power at that time had gone to the people of Sri Lanka
 [Data](articles/49a73997.json)
 
 [Extended Data](ext_articles/49a73997.ext.json)
-
----
-
-### Chickens collides a panni of transportation lorry
-
-*2025-09-26 07:51:18* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළන්-ප්‍රවාහන-ලොරියක්-වන-අලියෙකුගේ-ගැටෙයි/11-418729) · `si`
-
-The lorry was rolled by a lorry, a lorry, a lorry, a lorry, a lorry, which was transporting chickens in the Dambulla Bakamuna main road.
-
-While the lorry traveled by the Lorry, which was traveling towards the rubbish towards the rubbacco, said that when the lorry was carrying out on the road, the accident occurred because of the road, the accident had occurred due to the road.
-
-He said the car was rolled out of the road with the collapse of the elephant. Was able to see a large number of people in the cupplace at the back of the car. The chickens of the chickens were seen around the road
-
-It was not possible that elephant injured as the elephant was injured in the Wildlife Officers and said that the Laria of the elephant had clashed
-
-However, the Elephartian vehicle was unable to control the bath, the examination would be held if the accident occurred, whether the accident occurred if the elephant was hit by the accident
-
-...
-
-[Data](articles/c7689bfd.json)
-
-[Extended Data](ext_articles/c7689bfd.ext.json)
 
 ---
 
@@ -533,6 +383,24 @@ However, responding to the Opposition’s criticism, Speaker Dr. Wickramaratne y
 [Data](articles/99a25474.json)
 
 [Extended Data](ext_articles/99a25474.ext.json)
+
+---
+
+### President - UN. General Secretary Antonio Cutters Meeting
+
+*2025-09-26 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226093) · `ta`
+
+United Nations Secretary -General António Guterres on Thursday afternoon in New York, New York. President Anura Kumara Dissanayake met at the headquarters.
+
+The meeting was held at the meeting and the President had extensively explained to the General Secretary about the government's plans to bring Sri Lanka to new heights in economic, social and politically.
+
+It is noteworthy that General Secretary Gutarez has praised the plans and promised to give them full support.
+
+◼️
+
+[Data](articles/46ecfdd0.json)
+
+[Extended Data](ext_articles/46ecfdd0.ext.json)
 
 ---
 
@@ -1654,6 +1522,8 @@ The MP further stated that the Speaker refused to say that it was not denied the
 
 *2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
 
+While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
+
 Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
 
 The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
@@ -1661,8 +1531,6 @@ The arrests come amid public fury over reckless behaviour during the storm, whic
 The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
 
 Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
-
-The situation turned critical in an instant when a monstrous wave, several metres high, breached the sea wall. The powerful surge completely engulfed the trio, washing them off their feet and onto the pavement behind a barrier.
 
 ...
 
@@ -2035,5 +1903,137 @@ The incidents of drones in Alborg were reported to have been stopped at the Cope
 [Data](articles/4d468388.json)
 
 [Extended Data](ext_articles/4d468388.ext.json)
+
+---
+
+### Tourist arrivals in September top 110,000
+
+*2025-09-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/112911/tourist-arrivals-in-september-top-110000) · `en`
+
+A total of 111,823 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 32,570 tourists have arrived from India which accounts to 29.1%. Furthermore, 8,021 persons from the United Kingdom, 6,994 from Germany, 6,316 from China and 6,097 Australian nationals have also visited Sri Lanka in the month of September.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,678,346 with the release of the latest figures for September.
+
+Among them, 358,165 individuals are from India, 159,162 from the UK and 121,116 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/b083a765.json)
+
+[Extended Data](ext_articles/b083a765.ext.json)
+
+---
+
+### There are no animals in Nedundi
+
+*2025-09-25 13:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-விலங்குகள்-இல்லை/175-365269) · `ta`
+
+Wildlife Survey recently carried out. The Deputy Minister of Communication and Livestock Resources Namal Karunaratne said that about 50 per cent of the public information is accurate.
+
+He said this while responding to a question raised at the time of oral answer questions in Parliament on Thursday (25).
+
+Based on the available statistics, Makkah monkeys are 5,197,517, monkeys 1,747,623, 2,666,630 and 4,285,745.
+
+The Deputy Minister of Industry and Livestock Resources Namal Karunaratne has said that the survey has not been conducted in six Grama Niladhari Divisions in Neduntivu, Jaffna, due to the lack of makka monkeys, monkeys, hedgehogs and giant squirrels.
+
+◼️
+
+[Data](articles/8f4c4c27.json)
+
+[Extended Data](ext_articles/8f4c4c27.ext.json)
+
+---
+
+### Extension extending to the wife of Becko Saman
+
+*2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
+
+The explanation of the wife of Becko Saman, an arranged criminal gang, has been extended till the 9th of next month, while he was with famous drug traffickers and criminal gang members in Indonesia.. Colombo Chief Magistrate. Bodarakama was issued on Thursday (25).
+
+The court was ordered by the CIT to submit a report on the alleged drug allegations alleged that the suspect Sajika Lakshani had committed the suspect in the Mitteniya area.
+
+The order was issued after considering the submissions made by the State Prosecutor and the Suspect of the Suspect on behalf of the complainant.
+
+◼️
+
+[Data](articles/533e71c6.json)
+
+[Extended Data](ext_articles/533e71c6.ext.json)
+
+---
+
+### Puko saman's wife
+
+*2025-09-25 13:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பக்கோ-சமனின்-மனைவிக்கு-விளக்கமறியல்-நீடிப்பு/175-365268) · `ta`
+
+The explanation of the wife of Pako Saman, an arranged criminal gang, has been extended till the 9th of next month when he was with the famous drug traffickers and criminal gang members in Indonesia.. Colombo Chief Magistrate. Bodarakama was issued on Thursday (25).
+
+The court was ordered by the CIT to submit a report on the alleged drug allegations alleged that the suspect Sajika Lakshani had committed the suspect in the Mitteniya area.
+
+The order was issued after considering the submissions made by the State Prosecutor and the Suspect of the Suspect on behalf of the complainant.
+
+◼️
+
+[Data](articles/7e54774a.json)
+
+[Extended Data](ext_articles/7e54774a.ext.json)
+
+---
+
+### Only 50 percent of the data provided by the public during the wildlife survey are accurate: Deputy Minister
+
+*2025-09-25 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226045) · `ta`
+
+Deputy Minister of Communication and Livestock Resources Namal Karunaratne said that about 50 per cent of the public's information during the recent wildlife survey was accurate.
+
+He delivered this information while addressing the Parliament today (25).
+
+A wildlife survey was conducted across the country on March 15, 2025, aimed at identifying animals that harm food crops, proper action and taking appropriate action.
+
+The survey was conducted on the basis of animals such as monkeys, maize monkeys, peacocks and giant squirrels throughout the country.
+
+The Deputy Minister stated that it was confirmed that 50 per cent of the public's data about monkeys and Makkah monkeys were accurate.
+
+At the time of the data verification, it was confirmed that 50 percent of the public information about monkeys and Makkah monkeys were accurate.
+
+Accordingly, they have been confirmed based on the survey data responsible for the recommendations of wildlife damage to food crops.
+
+...
+
+[Data](articles/f71397e7.json)
+
+[Extended Data](ext_articles/f71397e7.ext.json)
+
+---
+
+### Disclosure of monies in the accident of the Aranya Senasa
+
+*2025-09-25 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214995) · `si`
+
+මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසනයේ භික්ෂූන්ගේ ගමන් පහසුව සඳහා යොදාගත් ඩක්කුවක් කඩා වැටිමෙන් එහි වැඩම කළ භික්ෂුන් වහන්සේ 7 නමක් අපවත් වූහ.
+
+◼️
+
+[Data](articles/329e5ceb.json)
+
+[Extended Data](ext_articles/329e5ceb.ext.json)
+
+---
+
+### Ex-Minister Manusha Nanayakkara summoned to Bribery Commission
+
+*2025-09-25 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/112910/ex-minister-manusha-nanayakkara-summoned-to-bribery-commission) · `en`
+
+Former Minister of Labour and Foreign Employment Manusha Nanayakkara has been summoned to appear before the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Accordingly, the former Minister has been directed to appear before the Commission at 9.30 a.m. tomorrow (26).
+
+◼️
+
+[Data](articles/7424a516.json)
+
+[Extended Data](ext_articles/7424a516.ext.json)
 
 ---

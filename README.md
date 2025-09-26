@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 15:07:35**
+As of **2025-09-26 14:56:13**
 
 ## Newspaper Stats
 
-*Scraped **78,572** Articles*
+*Scraped **78,551** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 217
+lankadeepalk | 200
 newsfirstlk | 418
 dbsjeyarajcom | 634
 bbccomsinhala | 702
@@ -19,135 +19,19 @@ islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,608
 adaderanalk | 10,176
-tamilmirrorlk | 11,804
+tamilmirrorlk | 11,802
 virakesarilk | 12,739
-adaderanasinhalalk | 13,673
+adaderanasinhalalk | 13,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,339 (99.7%) of 78,572 articles have been extended.
+78,339 (99.7%) of 78,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### පද්මේ  ගේ  ගිනි අවි සහ ජිව උණ්ඩ තොගයක් හමුවෙයි
-
-*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදම-ග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
-
-පාතාල කල්ලි සාමාජික 'කෙහෙල්බද්දර පද්මේ' විසින් සඟවා තැබූ බව පැවසෙන ටී-56 පතොරම්  ගිනි අවි සහ යුද හමුදා නිල ඇඳුමට සමාන කට්ටලයක් අධික ප්‍රමාණයක් පෑලියගොඩ මාළු වෙළෙඳසැළ ආසන්නයේ බස් නැවතුමක් පිටුපස කසල ගොඩක් අසල බෑගයක දමා තිබියදී සොයා ගත් බව පෑලියගොඩ  උතුරු අපරාධ කොට්ඨාසය කියයි.
-
-එම බෑගය තුළ තිබී ටී-56 මැගසින් 4ක්, මයික්‍රෝ පිස්තෝලයක් , රිවොල්වර අවියක් ,ටි 56  ජිව උන්ඩ 520 ක් අත්විලංගුවක් , යුද හමුදා නිල ඇඳුමට සමාන ඇඳුමක් සොයා ගැනීමට පොලීසියට හැකිව ඇත.
-
-බස්නාහිර පළාත් උතුරු අපරාධ කොට්ඨාශය විසින් කරනු ලැබූ ප්‍රශ්න කිරීමේදී වලදී මෙම තොරතුරු අනාවරණය වී තිබේ.
-
-සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් පස්දෙනකු පසුගියදා ඉන්දුනීසියාවේ ජාකාර්ථානුවරදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව කෙහෙල් බද්දර පද්මේ ඇතුළු තිදෙනකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් නියෝග මත රඳවා තබා ඇත.
-
-◼️
-
-[Data](articles/7782eca5.json)
-
----
-
-### සම්පත් මනම්පේරිව දින 90ක් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
-
-*2025-09-26 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215034) · `si`
-
-රක්ෂිත බන්ධනාගාරගතව සිටින සම්පත් මනම්පේරි නමැත්තා දින 90ක් රඳවාගෙන ප්‍රශ්නකිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය අද (26) අවසර ලබා දී තිබේ.
-
-මිද්දෙණිය ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගන්නා බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය අඩංගු කන්ටේනර් දෙකක් සඟවා තැබීමේ සිද්ධිය සම්බන්ධයෙන් ඔහු මේ වනවිට රක්ෂිත බන්ධනාගරගතව සිටියි.
-
-◼️
-
-[Data](articles/110416f2.json)
-
----
-
-### சீன குடியரசின் 76ஆவது ஆண்டு நிறைவு கொண்டாட்டம்
-
-*2025-09-26 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சீன-குடியரசின்-76ஆவது-ஆண்டு-நிறைவு-கொண்டாட்டம்/46-365327) · `ta`
-
-சீன மக்கள் குடியரசு நிறுவப்பட்டதன் 76வது ஆண்டு நிறைவைக் கொண்டாடும் வரவேற்பு நிகழ்வு சின்னமன் லைஃப் ஹோட்டல், வியாழக்கிழமை (25) நடைபெற்றது.
-
-”காற்று மற்றும் மழையின் ஊடாக இந்த 76 ஆண்டுகால பயணம், ஒரு பண்டைய தேசத்தின் புத்துணர்ச்சி கனவை நனவாக்குவதற்கான உறுதியான அடிச்சுவடுகளைப் பதித்துள்ளது. 5000 ஆண்டுகளுக்கும் மேலான புகழ்பெற்ற நாகரிகத்தைக் கொண்ட சீன தேசம், கடினமான முயற்சிகள் மூலம் உயர்ந்து, சீர்திருத்தம் மற்றும் திறப்பு மூலம் முன்னேறி, காலத்தின் அலைகளில் முன்னேறியுள்ளது. புதிய சகாப்தத்தில் புதிய பயணத்தில் அது சந்தேகத்திற்கு இடமின்றி புதிய பெருமைகளை அடையும், மேலும் மனித அமைதி மற்றும் வளர்ச்சிக்கான உன்னத நோக்கத்திற்கு புதிய பெரிய பங்களிப்புகளைச் செய்யும்” என்று இலங்கைக்கான சீனாவின் தூதுவர் Qi Zhenhong அந்த வரவேற்பு நிகழ்வில் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/44524ac3.json)
-
----
-
-### දැන් තෝරු-මෝරු අහුවෙන කාලේ
-
-*2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දන-තර-මර-අහවන-කල/1-680276) · `si`
-
-දැන් හාල්මැස්සො නොව තෝරු මෝරු අහුවෙන කාලය බවමහනුවර දිස්ත්‍රික් මන්ත්‍රී ජගත් මනුවර්ණ මහතා:-(ජා.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.
-
-දූෂණයට විරුද්ධ වීම භයානක බවත් දූෂණයට විරුද්ධ නොවී සිටීම ඊට වඩා භයානක බවත් අනුර දිසානායක ජනාධිපති  එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ අමතමින් ප්‍රකාශ කළා.එය අප නැවත අවධාරණය කළ යුතුයි.අපි දේශපාලන පලි ගැනීම් කරනවා යැයි චෝදනා කරනවා.නමුත් ඇත්ත ඒක නෙමෙයි.මත්තල ගුවන් තොටුපොලේ මගින් පර්යන්තය එක  ආණ්ඩුවක් නෙළුම් පොහොට්ටුවක හැඩයකට හදන්න තීරණය කළාම ඊට පස්සේ ආණ්ඩුව ඒක අරලිය පෙත්තක හැඩයකට වෙනස් කරන්න තීරණය කරලා. ඒවට මිල ගෙවන්නෙ කවුද? මේ රටේ ජනතාවගේ සල්ලි.මිනිස්සු පාරට ඇදගෙන වැටුනේ මේ දේවල් නිසා.  කෝප් එකට උත්තර බඳින්න ඕන අය කලින් ආණ්ඩු වල  කෝප් එකේ තනතුරු වල වාඩි වෙලා හිටියා.දැන් හාල්මැස්සො නෙමෙයි තෝරු මෝරු අහුවෙනවා.ඒකට අදාල වැඩපිළිවෙලා ඉතා සාර්ථකව අප කරගෙන යනවා යනුවෙන්ද මනුවර්ණ මහතා කීය.
-
-◼️
-
-[Data](articles/0d7f0461.json)
-
----
-
-### අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජෙනරාල්ට නොතීසි
-
-*2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/1-680275) · `si`
-
-හිටපු කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතාට ඇප ලබාදීම සම්බන්ධයෙන් ලබන 02 දින අධිකරණයේ පෙනී සිට කරුණු දක්වන්නැයි කොළඹ ප්‍රධාන මහේස්ත්‍රාත්  අසංක එස් බෝදරගම මහතා අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජෙනරාල් වරයාට නොතීසි නිකුත් කරමින් අද (26)නියෝග කළේය.
-
-මනූෂ නානායක්කාර මහතා විසින් අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා හා විමර්ශන  අංශ ස්ථානාධිපතිවරයා  වග උත්තරකරු කරමින් පැවරූ අපේක්ෂිත ඇප අයදුම් පත්‍රයත් සලකා බැලීමෙන් පසුව මෙම නොතීසිය නිකුත් කළේය.
-
-ඊශ්‍රායලයේ කෘෂිකාර්මික අංශයේ රැකියා සඳහා මෙරට ශ්‍රමිකයින් යැවීම සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අනුව අත් අඩංගුවට පත්වුවහොත් ඇප ලබා ගත හැකි වන පරිදි පූර්ව ඇපයක් නියම කරන ලෙස ඉල්ලා මෙම පෙත්සම ගොනු කෙරිණි.
-
-පෙත්සම්කාර නානායක්කාර මහතා පසුගිය 24 දින ඩුබායි රාජ්‍යයේ සිට ශ්‍රී ලංකාවට පැමිණෙන අවස්ථාවේදී  කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපලට ගොඩබසින විටම අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ නිලධාරීන් විසින් අල්ලස් කොමිසමට පැමිණෙන ලෙසට ලිපියක් භාරදී ඇති බව ඔහු වෙනුවෙන් පෙනී සිටි  ජනාධිපති නීතිඥ සාලිය පීරිස් මහතා අධිකරණයට කරුණු ඉදිරිපත් කරමින් පැවසීය.
-
-...
-
-[Data](articles/9646c84d.json)
-
----
-
-### අම්බලන්තොට ජල පිරිපහදුවේ කටයුතු තාවකාලිකව නවතී
-
-*2025-09-26 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215033) · `si`
-
-අම්බලන්තොට ජල පිරිපහදු මධ්‍යස්ථානයේ, ජල පිරිපහදු කටයුතු මේ වනවිට තාවකාලිකව නවතා දමා තිබේ.
-
-ඒ සෙවනගල සීනි කර්මාන්ත ශාලාවේ ස්ප්‍රීතු නිෂ්පාදන ආශ්‍රිත ද්‍රව්‍ය යම් ප්‍රමාණයක් වළවේ ගඟට මුසුව තිබීම හේතුවෙන් මීට දින කිහිපයක සිට වලවේ ගඟේ මසුන් මියගොස් ඇති බවට වාර්තා වීමත් සමඟය.
-
-මේ හේතුවෙන් අදාළ සිදුවීම සම්බන්ධයෙන් නිසි පර්යේෂණයක් සිදුකරන තෙක් පිරිපහදුවේ පිරිපහදු කටයුතු තාවකාලිකව අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ ප්‍රාදේශීය ඉංජිනේරු කාර්යාලය දැනුම් දී තිබේ.
-
-එමෙන්ම මෙම තත්ත්වය මත, පවතින පිරිපහදු කළ ජල ප්‍රමාණය අම්බලන්තොට ජල පිරිපහදුවෙන් ජලය සැපයෙන ප්‍රදේශයන්ට ලබාදීමට හැක්කේ තව පැය තුනක පමණ කාලයක් බවද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ  ප්‍රාදේශීය ඉංජිනේරු කාර්යාලය දැනුම් දෙනු ලබයි.
-
-එසේ වුවද තත්ත්වය යථා තත්ත්වයට පත්කර ගැනීමට හැකි වුවහොත් නැවතත් ජල පිරිපහදු කටයුතු සිදුකිරීමටත් හැකි වනු ඇතැයි ද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ ප්‍රාදේශීය ඉංජිනේරු කාර්යාලයේ නිලධාරියෙකු පැවසීය.
-
-පවතින තත්ත්වය තුළ ජලය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය දැනුම් දෙයි.
-
-◼️
-
-[Data](articles/ddcd2c38.json)
-
----
-
-### அமெரிக்காவில் இருந்து ஜப்பானுக்கு புறப்பட்டார் ஜனாதிபதி அனுர
-
-*2025-09-26 14:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவில்-இருந்து-ஜப்பானுக்கு-புறப்பட்டார்-ஜனாதிபதி-அனுர/175-365326) · `ta`
-
-ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபைக் கூட்டத்தில் பங்கேற்பதற்காக அமெரிக்காவிற்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்ட   ஜனாதிபதி அனுரகுமார திசாநாயக்க, தனது விஜயத்தை வெற்றிகரமாக நிறைவு செய்து    25 ஆம் திகதி இரவு ஜோன் எஃப். கெனடி சர்வதேச விமான நிலையத்திலிருந்து ஜப்பானுக்குப்  பயணமானார்.
-
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில், ஜனாதிபதி செப்டம்பர் 27 முதல் 30 ஆம்  திகதி வரை ஜப்பானுக்கான உத்தியோகபூர்வ விஜயத்தை  மேற்கொள்கிறார்.
-
-ஜனாதிபதி அனுரகுமார திசாநாயக்கவுடன்  வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரதும் இந்த விஜயத்தில் இணைந்து கொள்கிறார்.
-
-◼️
-
-[Data](articles/48014d4c.json)
-
----
 
 ### සජිත් ගේ වත්කම් බැරකම් මෙන්න, රු. ලක්ෂ 900 ඉක්මවූ ණයක්
 
@@ -177,20 +61,6 @@ In six baggage he brought, 600 cigarettes crocoded containing 120,000 exotic "pl
 
 ---
 
-### දුම්වැටි ගුවන්තොටින් පන්නන්න බැරිවෙයි
-
-*2025-09-26 14:05:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දමවට-ගවනතටන-පනනනන-බරවය/1-680274) · `si`
-
-රුපියල් එක් කෝටි අසූ ලක්ෂයක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු අද (26) රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
-
-ඔහු විසින් රැගෙන ආ ගමන් මලු 06 ක් තුළ , විදේශීය නිෂ්පාදිත " ප්ලැටිනම්'' වර්ගයේ දුම්වැටි 120,000 ක් අඩංගු දුම්වැටි කාටූන් 600 ක් සගවා ගෙන තිබුණි .‍ෙරේගු නිලධාරීන් විසින් මොහු අත් අඩංගුවේ තබා ගෙන මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
-
-◼️
-
-[Data](articles/acf0a3bb.json)
-
----
-
 ### Seven double cab to work in village health
 
 *2025-09-26 13:57:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගම-සඛය-වඩට-ඩබල-කබ-හතක/101-680273) · `si`
@@ -206,22 +76,6 @@ Accordingly, the Office of the Nivapathana Health Medical Officer of the Kandy D
 [Data](articles/69de178b.json)
 
 [Extended Data](ext_articles/69de178b.ext.json)
-
----
-
-### ගමේ සෞඛ්‍ය වැඩට ඩබල් කැබ් හතක්
-
-*2025-09-26 13:57:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගම-සඛය-වඩට-ඩබල-කබ-හතක/1-680273) · `si`
-
-ආසියා සංවර්ධන බැංකුවේ මුල්‍ය දායකත්වය සහ සෞඛ්‍ය පද්ධති වැඩිදියුණු කිරීමේ ව්‍යාපෘතියේ අනුග්‍රාහකත්වය යටතේ සෞඛ්‍ය පද්ධති වැඩිදියුණු කිරීමේ ව්‍යාපෘතිය මගින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයට ඩබල් කැබ් රථ 7 ක් ලබා දී ඇත.
-
-අදාළ කැබ් රථ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා විසින් සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාල වෙත ලබාදීම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශ පරිශ්‍රයේ දී සිදු කෙරිණි.
-
-ඒ අනුව නුවර දිස්ත්‍රික්ක‌යේ වරල්ලගම සහ ගඟවට කෝරලේ සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහාත්, අනුරාධපුර දිස්ත්‍රික්කයේ හොරොව්පතාන සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහාත්, බදුල්ල දිස්ත්‍රික්කයේ මහියංගණ සහ බණ්ඩාරවෙල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාල සඳහාත්, රත්නපුර දිස්ත්‍රික්කයේ නිවිතිගල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහාත්, කොළඹ ව්‍යාපෘති කළමණාකරණ ඒකකයටත් නිල වශයෙන් කැබ් රථ බාරදීම මෙහිදී සිදු විය.
-
-◼️
-
-[Data](articles/a8c9cd89.json)
 
 ---
 
@@ -1860,5 +1714,175 @@ Tilakiswaran Yadus (20 years old) from Budhur junction in Meesalai, North, died 
 [Data](articles/8ee91797.json)
 
 [Extended Data](ext_articles/8ee91797.ext.json)
+
+---
+
+### COPE Alleges Energy Crisis Was Engineered to Justify Price Hikes
+
+*2025-09-26 08:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/cope-alleges-energy-crisis-was-engineered-to-justify-price-hikes) · `en`
+
+...
+
+[Data](articles/ca38aa5e.json)
+
+[Extended Data](ext_articles/ca38aa5e.ext.json)
+
+---
+
+### Remember the night cricket united South Asia?
+
+*2025-09-26 08:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/remember-the-night-cricket-united-south-asia) · `en`
+
+COLOMBO (News 1st); Cricket in South Asia is often described as a rivalry, a clash of nations, and sometimes even an extension of geopolitics. Yet history offers reminders that this game has also been a powerful force for unity.
+
+One of the most striking examples came during the 1996 Cricket World Cup.
+
+That year, Sri Lanka was hosting the tournament for the very first time alongside India and Pakistan. Just weeks before the matches, however, Colombo was rocked by a devastating bomb blast. Security fears led Australia and New Zealand to refuse to play their scheduled fixtures in Sri Lanka. It was a decision that left the host nation diplomatically isolated and deeply disappointed.
+
+...
+
+[Data](articles/1daa3a81.json)
+
+[Extended Data](ext_articles/1daa3a81.ext.json)
+
+---
+
+### Three persons arrested for fake documents
+
+*2025-09-26 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226097) · `ta`
+
+Bambalapitiya Police Station officials have arrested two suspects for allegedly deceiving people for allegedly sending them to Canada.
+
+Investigations have revealed that the arrested male suspect is 69 years old.
+
+The two women, aged 26 and 68, have been arrested in Konakanara and Borella, police said.
+
+3,831,000 and Rs 3,436,000 have been defrauded for allegedly sending it to Canada.
+
+In addition, the Bambalapitiya police are investigating whether these suspects are involved in other crimes.
+
+◼️
+
+[Data](articles/b5c2cb66.json)
+
+[Extended Data](ext_articles/b5c2cb66.ext.json)
+
+---
+
+### One person killed in a dispute caused by cash transactions - incident in Negombo
+
+*2025-09-26 08:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226096) · `ta`
+
+One person has died in the Periyamulla area belonging to the Negombo Police Division, police said.
+
+He was admitted to the Negombo Hospital after the attack, and he died without treatment, the Negombo police said.
+
+Investigations have revealed that the deceased is a 44 -year -old from Halgiran Oya.
+
+Initial investigations have revealed that he was killed in a dispute with a man who was identified as a money laundering transaction.
+
+Negombo police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/3c0e1860.json)
+
+[Extended Data](ext_articles/3c0e1860.ext.json)
+
+---
+
+### President - UN. General Secretary Antonio Cutters Meeting
+
+*2025-09-26 08:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226093) · `ta`
+
+United Nations Secretary -General António Guterres on Thursday afternoon in New York, New York. President Anura Kumara Dissanayake met at the headquarters.
+
+The meeting was held at the meeting and the President had extensively explained to the General Secretary about the government's plans to bring Sri Lanka to new heights in economic, social and politically.
+
+It is noteworthy that General Secretary Gutarez has praised the plans and promised to give them full support.
+
+◼️
+
+[Data](articles/46ecfdd0.json)
+
+[Extended Data](ext_articles/46ecfdd0.ext.json)
+
+---
+
+### Heavy rains up to 150mm
+
+*2025-09-26 08:07:22* · [`adalk`](https://www.ada.lk/breaking_news/මිලි-මීටර්-150ක්-දක්වා-තද-වැසි/11-418730) · `si`
+
+The extent of the rain condition of the island will continue to be expecting the existing rain condition.
+
+According to the Department, there will be showers at times in the Eastern and Sabaragamuwa provinces.
+
+Some places in the prelates to. He also causes heavy showers over 150.
+
+◼️
+
+[Data](articles/ad2e1280.json)
+
+[Extended Data](ext_articles/ad2e1280.ext.json)
+
+---
+
+### Heavy rains in a grip of provincial
+
+*2025-09-26 08:02:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළත-කපයකට-තද-වස/1-680244) · `si`
+
+The extent of the continuous territory of the island is expected in the next 24 hours.
+
+Showers will occur at times in the Western, Sabaragamuwa, North Western and Southern Province, Kandy and Nuwara Eliya Districts.
+
+In the Western, Sabaragamuwa and North Western provinces, some 100 million is rains.
+
+The Matale, Mannar and Jaffna districts can occur in the Matale, Media and Jaffna Districts.
+
+◼️
+
+[Data](articles/0d3e0ebf.json)
+
+[Extended Data](ext_articles/0d3e0ebf.ext.json)
+
+---
+
+### Heavy rains in a grip of provincial
+
+*2025-09-26 08:02:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළත-කපයකට-තද-වස/101-680244) · `si`
+
+The extent of the continuous territory of the island is expected in the next 24 hours.
+
+Showers will occur at times in the Western, Sabaragamuwa, North Western and Southern Province, Kandy and Nuwara Eliya Districts.
+
+In the Western, Sabaragamuwa and North Western provinces, some 100 million is rains.
+
+උතුරු - මැද පළාතෙත් මාතලේ, මන්නාරම සහ යාපනය දිස්ත්‍රික්කවලත් සිහින් වැසි තත්වයක් ඇති විය හැකියි.
+
+◼️
+
+[Data](articles/54af5cda.json)
+
+[Extended Data](ext_articles/54af5cda.ext.json)
+
+---
+
+### President meets the EMB
+
+*2025-09-26 07:55:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-එජ-මහලකම-හමවක/1-680243) · `si`
+
+President Anura Kumara Dissanayake visited New York to attend the 80th session of the United Nations General Assembly.
+
+Accordingly, the Secretary General of the United Nations headquarters was recognized by the Secretary General. Then they joined a friendly conversation.
+
+The President also briefed the government about the program implemented by the government for the progress of the new economic reforms process in Sri Lanka as well as social and political and political and politically and politically.
+
+The General Secretary of the Government of Sri Lanka stated that the General Secretary of the United Nations appealing to the United Nations and the United Nations will be supported.. Foreign Affairs and Tourism and Tourism Vijitha Jayasuriya and other senior officials of the Ministry of External Affairs were also present.
+
+◼️
+
+[Data](articles/58158dfc.json)
+
+[Extended Data](ext_articles/58158dfc.ext.json)
 
 ---

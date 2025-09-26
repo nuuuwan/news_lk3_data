@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 21:20:26**
+As of **2025-09-26 20:55:53**
 
 ## Newspaper Stats
 
-*Scraped **78,704** Articles*
+*Scraped **78,696** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 288
+lankadeepalk | 285
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -17,7 +17,7 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,618
+adalk | 7,613
 adaderanalk | 10,185
 tamilmirrorlk | 11,816
 virakesarilk | 12,739
@@ -27,25 +27,11 @@ adaderanasinhalalk | 13,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,607 (99.9%) of 78,704 articles have been extended.
+78,547 (99.8%) of 78,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### උ.පෙළ විභාග පරීක්ෂකයන් ඔන්ලයින් තෝරයි
-
-*2025-09-26 20:56:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උ-පළ-වභග-පරකෂකයන-ඔනලයන-තරය/101-680294) · `si`
-
-අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ 2025 විභාගයේ ප්‍රායෝගික පරීක්ෂණ මණ්ඩල පරීක්ෂකවරුන් තෝරා ගැනීම සඳහා මාර්ගගතව අයැදුම්පත් කැඳවන බව විභාග කොමසාරිස් ජනරාල් ඉන්දිකා කුමාරි ලියනගේ මහත්මිය නිවේදනය කරයි.
-
-සැප්තැම්බර් 25 සිට ඔක්තෝබර් 07  දක්වා එම පරීක්ෂකවරුන් තෝරා ගන්නා බවද එම නිවේදනයේ දැක්වේ.
-
-◼️
-
-[Data](articles/af1104a7.json)
-
----
 
 ### Dozens Walk Out As Netanyahu's UN Address Begins
 
@@ -54,8 +40,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7cbde413.json)
-
-[Extended Data](ext_articles/7cbde413.ext.json)
 
 ---
 
@@ -75,7 +59,7 @@ COLOMBO( News 1st); The Appropriation Bill for the 2026 fiscal year was presente
 
 ### තිස්සමහාරාම වෙඩි තැබීමකින් අයෙක් මරුට
 
-*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තසසමහරම-වඩ-තබමකන-අයක-මරට/101-680293) · `si`
+*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තසසමහරම-වඩ-තබමකන-අයක-මරට/1-680293) · `si`
 
 තිස්සමහාරාම පොලිස් වසමේ මුතියම්මාගම ප්‍රදේශයේදී අද (26) පස්වරු 05ට පමණ ගල්කටස් ගිණි අවියකින් වෙඩි තබා පුද්ගලයෙකු  ඝාතනය කර ඇතැයි පොලිසිය පැවසීය .
 
@@ -87,27 +71,7 @@ COLOMBO( News 1st); The Appropriation Bill for the 2026 fiscal year was presente
 
 ◼️
 
-[Data](articles/c70c0551.json)
-
----
-
-### Tissamaharama shot dead
-
-*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තසසමහරම-වඩ-තබමකන-අයක-මරට/1-680293) · `si`
-
-A person has been shot dead at the Mutimgama area in Tissamagama area around 5 pm yesterday, police said.
-
-The murdered was a resident of Tissamaharama Mutumamgama No. 1223.
-
-The police said that he was shot dead while he was in the garage at the Mutimamgama School.
-
-The suspects had been a paramount with the son of the suspect's son and had taken place between the deceased and the suspect, police said.
-
-◼️
-
 [Data](articles/ca551377.json)
-
-[Extended Data](ext_articles/ca551377.ext.json)
 
 ---
 
@@ -167,43 +131,35 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### Is the artificial intelligence beat a professional journalist?
+### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කතම-බදධය-වතතය-මධයවදයට-පහරකද/222-680292) · `si`
 
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
 
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
 
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
 
 ...
 
 [Data](articles/864e24b0.json)
 
-[Extended Data](ext_articles/864e24b0.ext.json)
-
 ---
 
-### Is the artificial intelligence beat a professional journalist?
+### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/222-680292) · `si`
 
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
 
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
 
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
 
 ...
 
 [Data](articles/fd4f85fa.json)
-
-[Extended Data](ext_articles/fd4f85fa.ext.json)
 
 ---
 
@@ -257,21 +213,19 @@ Police also stated that the lorry driver had been attacked by residents of the a
 
 ---
 
-### Vajira pays the last respects to the monks of Naa Uyana
+### නා උයන ආරණ්‍යයේ හිමිවරුන්ට වජිර අවසන් ගෞරව දක්වයි
 
 *2025-09-26 18:40:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයන-ආරණයය-හමවරනට-වජර-අවසන-ගරව-දකවය/1-680291) · `si`
 
-The bhikkus to be held in the last afternoon by the UNP Chairman of the United National Party (UNP) at evening today (26) resulted in the last evening.
+මැල්සිරිපුර - පන්සියගම, නා උයන ආරණ්‍ය සේනාසනයේ ඩක්කුවක් අනතුරට ලක්වීමෙන් අපවත් වූ භික්‍ෂූන් වහන්සේලාට එක්සත් ජාතික පක්ෂ සභාපති වජිර අබේවර්ධන මහතා අද (26) සවස අවසන් ගෞරව දැක්වීය.
 
-Former President Ranil Wickremesinghe, who was told by Wajira Abeywardena, who met the Naussa Senanayake, Mian Uyana.
+නා උයන ආරණ්‍ය සේනාසනාධිපති  අඟුල්ගමුවේ අරියනන්ද හිමි මුණගැසුණු වජිර අබේවර්ධන මහතා  හිටපු උන්වහන්සේට හිටපු  ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ශෝක ප්‍රකාශයද පිළිගැන්වීය.
 
-Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
+එහිදී  රනිල් වික්‍රමසිංහ මහතා දුරකථනයෙන්  සම්බන්ධ වෙමින් නා උයන ආරණ්‍ය සේනාසනාධිපති හිමියන්ට ශෝකය පළ කළේය.
 
 ◼️
 
 [Data](articles/1f7040c2.json)
-
-[Extended Data](ext_articles/1f7040c2.ext.json)
 
 ---
 
@@ -293,17 +247,15 @@ Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
 
 ---
 
-### Catholic conferences of the Nawanean accident
+### නා උයනනේ අනතුර ගැන කතෝලික සම්මේලනයෙන් ශෝක පණිවුඩයක්
 
 *2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/1-680290) · `si`
 
-The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
+කුරුණෑගල, මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසන භූමියේදී හදිසි අනතුරකට ලක්ව භික්ෂූන්වහන්සේ හත් නමක් අපවත්වීම පිළිබඳව සංඝරත්නයට සහ ශ්‍රී ලංකාවාසී සමස්ත බොදු ජනතාවට සංවේගය පළකරන බව ශ්‍රී ලංකා කතෝලික රදගුරු සම්මේලනය ශෝක පණිවුඩයක් නිකුත් කරමින් පවසයි.
 
 ◼️
 
 [Data](articles/7948a903.json)
-
-[Extended Data](ext_articles/7948a903.ext.json)
 
 ---
 
@@ -345,23 +297,21 @@ The court had granted the police permission to hold them up to the 29th of this 
 
 ---
 
-### "The policies of the government" is happy to have
+### ’’ආණ්ඩුවේ ප්‍රතිපත්ති’’ ක්‍රියාත්මක කිරීම ගැන සතුටුයි
 
 *2025-09-26 18:25:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-පරතපතත-කරයතමක-කරම-ගන-සතටය/1-680289) · `si`
 
-The Co-convener of the March 12 Business Rohana Hettiarachchi said that the proceedings of the Government's policy as a "rich country, beautiful life" can be satisfied in the first six months.
+“පොහොසත් රටක්, ලස්සන ජීවිතයක්” ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය මුල් මාස හය තුළ ක්‍රියාත්මක වීම ප්‍රගතිය පිළිබඳ සෑහීමකට පත් විය හැකි බව මාර්තු 12 ව්‍යාපාරයේ  සම කැඳවුම්කරු රෝහණ හෙට්ටිආරච්චි මහතා කොළඹදී පැවසීය.
 
-Hettiarachchi said that the government has shown the review of its progress in the first six months to meet the first six months.
+ප්‍රතිපත්ති ප්‍රකාශනය ඇතුළත් කරුණු ඉටු  කිරීමට අදාළව ආණ්ඩුව  මුල් මාස  හය තුළ අවශ්‍ය මාර්ගයට අවතීර්ණ වී ඇති බව එහි ප්‍රගතිය සම්බන්ධයෙන් සමාලෝචනය කිරීමේදී හෙලිවන බවත් හෙට්ටිආරච්චි මහතා සඳහන් කළේය.
 
-He was speaking at Colombo to launch the first annual monitoring report of the current Government's policy statement, which has been prepared under the theme of a "rich country, beautiful life".
+“පොහොසත් රටක්, ලස්සන ජීවිතයක්” යන තේමාව යටතේ සකස් කර ඇති වර්තමාන රජයේ ප්‍රතිපත්ති ප්‍රකාශනයේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් පැෆ්රල් සංවිධානය හා මාර්තු 12 ව්‍යාපාරය සිදුකළ අධීක්ෂණයට අදාල පළමු අර්ධ වාර්ෂික අධීක්ෂණ වාර්තාව එළිදැක්වීමට කොලඹදී එක්වෙමින් ඔහු මේ බව පැවසීය.
 
-The government representatives and opposition MPs were present at the occasion of the event at the Jahakamin Memorial International Conference Hall.
+කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ ජැස්මින් ශාලාවේදී පැවති මෙම අවසථාව සඳහා  ආණ්ඩුවේ නියෝජිතයින්, විපක්ෂ මන්ත්‍රීවරුන් සමාජ ක්‍රියාකාරීන් ඇතුලු පිරිසක් එක්ව සිටියහ.
 
 ◼️
 
 [Data](articles/5fc1b7d9.json)
-
-[Extended Data](ext_articles/5fc1b7d9.ext.json)
 
 ---
 
@@ -917,20 +867,6 @@ Following the recent arrest of five underworld gang members, including Mandu Pad
 
 ---
 
-### නව වාහන අංක තහඩු නොවැම්බර් 15න් පසුව
-
-*2025-09-26 15:49:15* · [`adalk`](https://www.ada.lk/breaking_news/නව-වාහන-අංක-තහඩු-නොවැම්බර්-15න්-පසුව/11-418748) · `si`
-
-නව විශේෂාංග ඇතුළත් නවීන රියදුරු බලපත්‍රයක් ලබාදීමට අවශ්‍ය කටයුුතු සිදුකරගෙන යන බවත් ඉදිරියේදී එය ඩරියදුරන් වෙත ලබාදීමට හැකි වෙනු ඇති බවත් අමාත්‍ය බිමල් රත්නායක මහතා පැවැසීය. මුජිබර් රහුමාන් මන්ත්‍රීවරයාපාර්ලිමෙන්තුවේදි ‍යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසිය.‍
-
-එසේම නවීන ආරක්ෂක අංගෝපාංග ඇතුළත් වාහන අංක තහඩු නිකුත් කිරීම නොවැම්බර් 15 දා වන විට ලබාදීමට හැකි වෙනු ඇති බවත් ඔහු පැවැසිය. ඒ වෙනුවෙන් ටෙන්ඩර් ක්‍රියාවලිය මේ වන විට අවසන් වෙමින් යනු ඇති බවත් ඔහු පැවැසිය. ‍
-
-◼️
-
-[Data](articles/ff732e77.json)
-
----
-
 ### CEA transactions to be processed via ‘GovPay’ from today
 
 *2025-09-26 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112943/cea-transactions-to-be-processed-via-govpay-from-today) · `en`
@@ -1309,20 +1245,6 @@ Hambantota District MP DV Chanaka has decided that the Knowledge of the General 
 
 ---
 
-### ’’අපි තවත් ඉවසන්නේ නෑ’’
-
-*2025-09-26 15:14:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අප-තවත-ඉවසනන-න/101-680278) · `si`
-
-තවදුරටත් මඩ ගැහීම ඉවසන්නේ නැති බව පොදුජන පෙරමුණ තීරණය කර තිබෙන බව හම්බන්තොට දිස්ත්‍රික් මන්ත්‍රී ඩී.වී චානක මහතා:-(පො.පෙ) පාර්ලිමේන්තුවේදී අද පැවසීය.
-
-"ඒ සියලු දේවල් අධිකරණයේදී බෙදා හදා ගන්න අප තීරණය කර තිබෙනවා ඒ නිසා කියන දේවල් එළියේ කියන්න.වරප්‍රසාද වලට  මුවා වී පාර්ලිමේන්තුවේ ඒ දේවල් කියන්න එපා.මේ ආණ්ඩුව කාලේ ලංකා ඉතිහාසයේ ලොකුම වංචාව වුණා. ඒක තමයි කන්ටේනර් වංචාව.ජනාධිපතිතුමා විසින් පත්කළ කමිටු වාර්තාව පාර්ලිමේන්තුවට ඉදිරිපත් කරන්න අද වනතුරු ආණ්ඩුව අසමත් වෙලා තියෙනවා. ඒ කමිටු වාර්තාවෙන් වෝහාරික විගණනයක් නිර්දේශ කර තිබෙනවා. දැන් ඒ පරීක්ෂණ කෝ" යනුවෙන්ද මන්ත්‍රීවරයා කීය.
-
-◼️
-
-[Data](articles/75ef10bb.json)
-
----
-
 ### Sri Lanka President Heads To Japan After UN Tour
 
 *2025-09-26 15:13:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-president-heads-to-japan-after-un-tour) · `en`
@@ -1481,22 +1403,6 @@ This information has been revealed in the interrogation by the Western Provincia
 
 ---
 
-### ළමුන් 20කට ජීවිත දානය දෙන්න එංගලන්තයෙන් වෛද්‍ය කණ්ඩායමක් කරාපිටියට එයි
-
-*2025-09-26 14:54:12* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්-20කට-ජීවිත-දානය-දෙන්න-එංගලන්තයෙන්-වෛද්‍ය-කණ්ඩායමක්-කරාපිටියට-එයි/11-418742) · `si`
-
-සංකිර්ණ තත්ත්වයේ හෘද රෝගවලට ලක්ව සිටින ළමුන්ගේ හෘද සැත්කම් කිරිම සදහා  එංගලන්තයේ සිට වෛද්‍ය කණ්ඩායමක් මෙවරද කරාපිටිය ජාතික රෝහලට පැමිණියහ.  දැනට දශක දෙකක පමණ කාලයක සිට මෙම වෛද්‍ය කණ්ඩායම  සෑම වර්ෂයකම  ළමුන්ගේ හෘද සැත්කම් කිරිම සදහා කරාපිටිය රෝහලට පැමිණෙති.
-
-මෙකි වෛද්‍ය කණ්ඩායම සතියක පමණ කාලයක් කරාපිටිය ජාතික රෝහලේ රැදි සිටින අතර සංකිර්ණ තත්ත්වයේ හෘද රෝගවලට ලක්ව සිටින වයස  අවුරුදු 12ට අඩු දරුවන් 20 දෙනෙක පමණ හෘද සැත්කම්වලට ලක්කිරිමට නියමිතව ඇති බැව්  කරාපිටිය ජාතික රෝහලේ අධ්‍යක්ෂක වෛද්‍ය.එස්.පි.යු.එම් රංග මහතා පවසයි.
-
-මෙහිදි   සෞඛ්‍ය හා ජනමාධ්‍ය නියෝජ්‍ය ඇමති වෛද්‍ය හංසක විජේමුණි.ගාල්ල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවිර, යන මහත්වරු  එංගලන්තයේ වෛද්‍ය කණ්ඩායම සමග ක්ෂේත්‍ර චාරිකාවකද නිරතවුහ.. එහිදී හෘද රෝග ඒකකයේ පවතින යටිතල පහසුකම් පිළිබඳවද  නියෝජ්‍ය ඇමතිවරයා නිරික්ෂණය කරණු ලැබිය.එහි පවතින අඩුපාඩු  සපුරාලිම සදහා  ගතයුතු  ක්‍රියාමාර්ග පිළිබද රෝහල් බලධාරින් සමග සාකච්ඡාකරනු ලැබිය..
-
-◼️
-
-[Data](articles/6aac4c50.json)
-
----
-
 ### සම්පත් මනම්පේරිව දින 90ක් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
 
 *2025-09-26 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215034) · `si`
@@ -1558,24 +1464,6 @@ Anura Dissanayake addressed the United Nations General Assembly that the opposit
 [Data](articles/963bf3b2.json)
 
 [Extended Data](ext_articles/963bf3b2.ext.json)
-
----
-
-### පාන් පෙත්තක තුවාලයක සම් කොටසක්
-
-*2025-09-26 14:42:20* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-පෙත්තක-තුවාලයක-සම්-කොටසක්/11-418741) · `si`
-
-හැටන් නගරයේ බේකරියකින් මිලට ගත් පෙති කපා ඇසුරුම් කරන ලද පාන් ගෙඩියක එම බේකරියේ සේවයේ නියුතු සේවකයෙකුගේ ඇගිල්ලක තුවාලයක සමේ කොටසක් තිබී පාරිභෝගිකයෙකුට (25) දින හමු වී ඇත.
-
-(25) දින රාත්‍රි ආහාරය සදහා එම බේකරියෙන් රු.180ක මුදලක් ලබා දී පෙති කපා ඇසුරුම් කරන ලද පාන් ගෙඩියක් මිලදී ගෙන එය ආහාරයට ගැනීමේදි පාන් පෙත්තක ඇගිල්ලක තුවාලයක සමේ කොටසක් තිබි හමුවීමත් සමග එම පාර්භෝගිකයා පාන් පරිභෝජනයට නොගෙන එම පාන් රාත්තල සහ ඇගිල්ලක තුවාලයක සමේ කොටස හැටන් දික්ඔය නගර සභාවේ මහජන සෞඛ්‍ය පරික්ෂකවරුන් වෙත ලබා දි ඇත.
-
-ඇගිල්ලක තුවාලයක සමේ කොටස පරික්ෂා කල හැටන් දික්ඔය නගර සභාවේ මහජන සෞඛ්‍ය පරික්ෂකවරුන් කියා සිටියේ එම බේකරියේ නිෂ්පාදන කටයුතු අපිරිසිදු ආකාරයෙන් පවත්වාගෙන යෑම සම්බන්ධයෙන් එම බේකරියේ හිමිකරුට එරෙහිව මීට ප්‍රථම අවස්ථා කිහිපයකදී හැටන් මහේස්ත්‍රාත් අධිකරණය හමුවේ නඩු පවරා දඩ මුදල් අය කර ඇති බවයි.
-
-මෙම සිද්ධිය සම්බන්ධයෙන්ද බේකරියේ අයිතිකරුට එරෙහිව හැටන් මහේස්ත්‍රාත් අධිකරණය හමුවේ යලිත් නඩු කිහිපයක් පැවරීමට පියවර ගන්නා බවයි.
-
-◼️
-
-[Data](articles/a4ea0b97.json)
 
 ---
 
@@ -1647,20 +1535,6 @@ The National Water Supply and Drainage Board also informs the use of water into 
 
 ---
 
-### සෙවනගල ඇල්කොහොල් නිශ්පාදිත ආශ්‍රිත ද්‍රව්‍ය වලවේ ගඟට එක්වෙලා
-
-*2025-09-26 14:37:51* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-ඇල්කොහොල්-නිශ්පාදිත-ආශ්‍රිත-ද්‍රව්‍ය-වලවේ-ගඟට-එක්වෙලා/11-418740) · `si`
-
-සෙවනගල සීනි කර්මාන්ත ශාලාවේ ඇල්කොහොල් නිශ්පාදන ආශ්‍රිත ද්‍රව්‍ය යම් ප්‍රමාණයක් වලවේ ගඟට මුසුව ඇති නිසා මිට දින කීපයක සිට වලවේ ගඟේ මසුන් මැරී ඇති බව වාර්තා වූ අතර එමෙන්ම  අම්බලන්තොට ජල පිරිපහදු මධ්‍යස්ථානයේ, ජල පිරිපහදු කටයුතු තාවකාලිකව විටින් විට නවතා දමන ලදී.
-
-ඒ අනුව අද(26) පෙරවරුවේ සිටද ඒ කාරයෙන්ම යම් අපද්‍රව්‍ය ප්‍රමාණයක් නැවතත් වලවේ ගඟට මුසු වීම හේතුවෙන් මේ සම්බන්ධයෙන් නිසි පර්යේෂණ කටයුතු සිදුකරන තෙක් අද(26) උදැසන සිට නැවතත් අම්බලන්තොට ජල පිරිපහදුවේ පිරිපහදු කටයුතු තාවකාලිකව අත්හිටුවීමට කටයුතු කර තිබෙන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ   ප්‍රාදේශීය ඉංජිනේරු කාර්යාලය දැනුම් දෙනු ලබනවා.
-
-...
-
-[Data](articles/b2c35f0b.json)
-
----
-
 ### President Anura left the United States to Japan
 
 *2025-09-26 14:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவில்-இருந்து-ஜப்பானுக்கு-புறப்பட்டார்-ஜனாதிபதி-அனுர/175-365326) · `ta`
@@ -1676,22 +1550,6 @@ Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Hera is als
 [Data](articles/48014d4c.json)
 
 [Extended Data](ext_articles/48014d4c.ext.json)
-
----
-
-### ලක්ෂ 180ක දුම්වැටි කටුනායකින් පන්නන්න බැරි වෙයි
-
-*2025-09-26 14:29:01* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-180ක-දුම්වැටි-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-418739) · `si`
-
-රුපියල් එක් කෝටි අසූ ලක්ෂයක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු 09/26 දින උදෑසන රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
-
-මොහු කොළඹ , කොටහේන ප්‍රදේශයේ පදිංචි 39 හැවිරිදි ව්‍යාපාරිකයෙකි.ඔහු 09/26 දින උදෑසන 08.50 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
-
-ඔහු විසින් රැගෙන ආ ගමන් මලු 06 ක් තුළ , විදේශීය නිෂ්පාදිත " ප්ලැටිනම්'' වර්ගයේ දුම්වැටි 120,000 ක් අඩංගු දුම්වැටි කාටූන් 600 ක් සගවා ගෙන තිබුණි. රේගු නිලධාරීන් විසින් මොහු අත් අඩංගුවේ තබා ගෙන මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
-
-◼️
-
-[Data](articles/7a9f5cb0.json)
 
 ---
 
@@ -1868,5 +1726,151 @@ The preliminary investigations have revealed that 52 packets of ice narcotics we
 [Data](articles/6ca659e7.json)
 
 [Extended Data](ext_articles/6ca659e7.ext.json)
+
+---
+
+### President to Japan
+
+*2025-09-26 13:27:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනට/1-680271) · `si`
+
+President Anura Kumara Dissanayake completed the US. Kennedy left for Japan at the International Airport.
+
+According to an invitation of the Japanese government, the President on an official visit to Japan to this will be held from the 27th.
+
+Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the visit to President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/76c0a386.json)
+
+[Extended Data](ext_articles/76c0a386.ext.json)
+
+---
+
+### President to Japan
+
+*2025-09-26 13:27:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපනට/101-680271) · `si`
+
+President Anura Kumara Dissanayake completed the US. Kennedy left for Japan at the International Airport.
+
+According to an invitation of the Japanese government, the President on an official visit to Japan to this will be held from the 27th.
+
+Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the visit to President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/b1d0b4b2.json)
+
+[Extended Data](ext_articles/b1d0b4b2.ext.json)
+
+---
+
+### Curved dance made me famous
+
+*2025-09-26 13:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/வளைவு-நெளிவு-நடனமே-என்னை-பிரபலப்படுத்தியது/54-365324) · `ta`
+
+Actress Tamanna is also mixing in the Hindi film world beyond South Indian cinema. Tamanna's dancing beyond acting is the most talked about among the fans.
+
+Especially in the movie 'Kavala ...' in the song 'Kavala ...'. Meanwhile, Tamanna's comments about her dance have gone viral. In it, I am acting pictures in all languages. But, allu Arjun was the one who prompted me to try hard dance moves. After starring in 'Badrinath' with him, you got the opportunity to dance in a lot of films.
+
+◼️
+
+[Data](articles/bfb2b40e.json)
+
+[Extended Data](ext_articles/bfb2b40e.ext.json)
+
+---
+
+### It is definitely building a working public service
+
+*2025-09-26 13:19:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වඩ-කරන-රජය-සවයක-අනවරයයන-හදනව/101-680270) · `si`
+
+Commander MP Nishantha Samaraweera, Chairman, Dr. Nishantha Samaraweera is the most good public service that is efficiently working as government officials efficiently.
+
+"The COPE committee is sent to a commission to send a blast. Once we have accepted the COPE, we have been very responsible for maintaining it.
+
+According to the sovereignty of the people, the COPE has to be introduced to maintaining the profile of the country. We have proposed a scheme of calling.
+
+◼️
+
+[Data](articles/864b7d7f.json)
+
+[Extended Data](ext_articles/864b7d7f.ext.json)
+
+---
+
+### It is definitely building a working public service
+
+*2025-09-26 13:19:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වඩ-කරන-රජය-සවයක-අනවරයයන-හදනව/1-680270) · `si`
+
+Commander MP Nishantha Samaraweera, Chairman, Dr. Nishantha Samaraweera is the most good public service that is efficiently working as government officials efficiently.
+
+"The COPE committee is sent to a commission to send a blast. Once we have accepted the COPE, we have been very responsible for maintaining it.
+
+According to the sovereignty of the people, the COPE has to be introduced to maintaining the profile of the country. We have proposed a scheme of calling.
+
+◼️
+
+[Data](articles/af5f62f5.json)
+
+[Extended Data](ext_articles/af5f62f5.ext.json)
+
+---
+
+### 29 spoons in the stomach of the platform, 19 brushs: frozen doctors in shock
+
+*2025-09-26 13:06:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/வாலிபர்-வயிற்றில்-இருந்த-29-கரண்டிகள்-19-பிரஷ்கள்-அதிர்ச்சியில்-உறைந்த-டாக்டர்கள்/53-365322) · `ta`
+
+There has been a strange incident in Ghaziabad, Uttar Pradesh. Sachin belongs to the Pulandshahar area of ​​Hapur district there. He is a drug addict and has been treated at the rehabilitation center there.
+
+In this case, he suddenly fell into a severe stomach pain. Doctors examined him immediately taken to the hospital. Doctors were shocked to find 2 pen, 19 brushs and 29 spoons in his stomach. He was immediately surgically and saved his life.
+
+Tendulkar is said to have swallowed these items in anger by saying that the food provided at the hospital was inadequate. Also, all day, he has said that they will only be given very few vegetables and a few chapters, and if something comes from home, most will not be given to them, and sometimes only one biscuits per day.
+
+◼️
+
+[Data](articles/abfe4b5f.json)
+
+[Extended Data](ext_articles/abfe4b5f.ext.json)
+
+---
+
+### Pharmaceuthonts - Food, Good Badness
+
+*2025-09-26 13:04:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඖෂධ-ආහර-හඳ-නරක-බලනන-පරකෂණගරයක/1-680269) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa said that the discussions of the state-of-the-art facilities that can be inspected on all fields such as medicines, Ayurveda, Food & Beauty Products.
+
+The Minister was speaking as the Chief Guest at the "World Pharmacies' Day - 2025" organized by the Government Pharmacologists Association to mark World Pharmacies Day.
+
+The World Health Organization, World Health Organization, the World Pharmaceutical Day, the World Pharmaceutical Day is of Pharmacologists, Pharmaceuticals, Pharmacies, Pharmacies and Pharmacologists.
+
+The government's pharmaceuticals association has taken steps to celebrate the World Pharmacy Day, taking the 'Health and Pharmacist' (Think Health Pharmacist.
+
+◼️
+
+[Data](articles/079b4571.json)
+
+[Extended Data](ext_articles/079b4571.ext.json)
+
+---
+
+### Pharmaceuthonts - Food, Good Badness
+
+*2025-09-26 13:04:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඖෂධ-ආහර-හඳ-නරක-බලනන-පරකෂණගරයක/101-680269) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa said that the discussions of the state-of-the-art facilities that can be inspected on all fields such as medicines, Ayurveda, Food & Beauty Products.
+
+The Minister was speaking as the Chief Guest at the "World Pharmacies' Day - 2025" organized by the Government Pharmacologists Association to mark World Pharmacies Day.
+
+The World Health Organization, World Health Organization, the World Pharmaceutical Day, the World Pharmaceutical Day is of Pharmacologists, Pharmaceuticals, Pharmacies, Pharmacies and Pharmacologists.
+
+The government's pharmaceuticals association has taken steps to celebrate the World Pharmacy Day, taking the 'Health and Pharmacist' (Think Health Pharmacist.
+
+◼️
+
+[Data](articles/aa1f0033.json)
+
+[Extended Data](ext_articles/aa1f0033.ext.json)
 
 ---

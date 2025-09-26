@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 22:54:58**
+As of **2025-09-26 22:11:18**
 
 ## Newspaper Stats
 
-*Scraped **78,726** Articles*
+*Scraped **78,719** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 298
+lankadeepalk | 292
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -21,83 +21,17 @@ adalk | 7,619
 adaderanalk | 10,185
 tamilmirrorlk | 11,818
 virakesarilk | 12,739
-adaderanasinhalalk | 13,691
+adaderanasinhalalk | 13,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,691 (100.0%) of 78,726 articles have been extended.
+78,671 (99.9%) of 78,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘
-
-*2025-09-26 22:30:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරහර-R-M-V-සවවලට-අලලස-ගනනව/1-680297) · `si`
-
-වේරහැර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු කාර්යාලයේ සේවා ලබාදීමේදී ඇතැම් රජයේ නිලධාරීන් අල්ලස් ලබා ගන්නා බවට පැමිණිලි ලැබී ඇති බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවේ කරුණු දක්වමින් අල්ලස් කොමිසම අද(26) පැවසීය.
-
-පරීක්ෂණයට මුහුණ දී රියදුරු බලපත්‍රයක් ලබා ගැනීමට පැමිණි පුද්ගලයකුගෙන් රුපියල් දස දහසක අල්ලසක් ලබා ගත්තේ යැයි අත් අඩංගුවට ගත් එම කාර්යාලයේ රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ නිලධාරියෙකු සහ පුද්ගලික ආරක්ෂක අංශ සේවිකාවක අධිකරණයට ඉදිරිපත් කරමින් අල්ලස් කොමිෂම එසේ පැවසීය.
-
-රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ කැලුම් ප්‍රියංකර සිරිසේන සහ ජීවමාලී නමැති සැකකාරිය මෙසේ අධිකරණයට ඉදිරිපත් කෙරිණි.
-
-අල්ලස් කොමිසම කරුණු දක්වමින් කියා සිටියේ 2024 වර්ෂයේදී ලැබුණු පැමිණිල්ලක් අනුව දීර්ඝ විමර්ශනයක් කිරීමෙන් අනතුරුව මෙම සැකකරුවන් අත්අඩංගුවටයි ගත් බවය.
-
-මෙම කාර්යාලයේ අල්ලස් ලබා ගන්නා බවට ලිඛිතව පැමිණිලි ලැබී තිබෙනවා.ඒ අනුව රියදුරු බලපත්‍රයක් ලබා ගැනීමට ගිය පුද්ගලයෙකුට සේවාව ලබා දිය හැකි බවට දෙවන සැකකාර කාන්තාව පවසා තිබෙනවා.
-
-...
-
-[Data](articles/cb37421c.json)
-
----
-
-### ශ්‍රී ලංකාවට  ලකුණු 203ක ඉලක්කයක්
-
-*2025-09-26 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215052) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ අවසන් තරගය ශ්‍රී ලංකාව සහ ඉන්දියාව අතර අද (26) පැවැත්වෙන අතර එහිදී තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකාව ප්‍රථමයෙන් පන්දුවට පහර දීමට ඉන්දියාවට ආරාධනා කළේය.
-
-ඒ අනුව ඉන්දියාව පන්දුවාර 20 අවසානයේ කඩුළු 5ක් දැවී ලකුණු 202ක් රැස් කිරීමට සමත් විය.
-
-එහිදී ඉන්දියාව වෙනුවෙන් Abhishek Sharma ලකුණු 61ක් ‍රැස් කළ අතර Tilak Varma නොදැවී ලකුණු 49ක් රැස් කළේය.
-
-එමෙන්ම Sanju Samson ලකුණු 39ක්ද, Axar Patel ලකුණු 21ක්ද, නායක Suryakumar Yadav ලකුණු 12ක්ද රැස් කිරීමට සමත්විය.
-
-පන්දු යැවීමේදී මහීෂ් තීක්ෂණ, දුෂ්මන්ත චමීර, වනිඳු හසරංග, දසුන් ශානක හා චරිත් අසලංක එක් කඩුල්ල බැගින් දවා ගත්තේය.
-
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 203ක ඉලක්කයක් හඹා ‍යාමට නියමිතය.
-
-කෙසේ වෙතත් මෙය මෙවර ආසියානු කුසලාන තරගාවලියේ දී කණ්ඩායමක් විසින් ඉනිමක දී රැස් කළ වැඩිම ලකුණු ප්‍රමාණය ද වේ.
-
-◼️
-
-[Data](articles/fbfa343a.json)
-
----
-
-### තේ පොහොර සහනාධාරය QR ක්‍රමයට
-
-*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
-
-කුඩා හා මධ්‍යම පරිමාණ තේ වතු හිමියන් සඳහා පොහොර සහනාධාරය QR ක්‍රමවේදය ඔස්සේ ලබාදීමට රජය තීරණය කර තිබේ.
-
-ලංකාවේ වාර්ෂික තේ නිෂ්පාදනය 2030 වර්ෂය වන විට කිලෝ මිලියන 400 ක් දක්වා වර්ධනය කිරීමට මෙම සහනාධාර තේ පොහොර නව ක්‍රමවේදය අනුව දීමට තේ මණ්ඩලය විසින් රුපියල්  මිලියන 2000 ක මුදලක් 2025 වර්ෂය සඳහා වෙන්කර ඇත.
-
-කුඩා තේ වතු සංවර්ධන අධිකාරිය හා ශ්‍රී ලංකා තේ මණ්ඩලය මෙම වැඩසටහන ක්‍රියාත්මක කරයි.
-
-මෙම ව්‍යාපෘතිය යටතේ කි.ග්‍රෑම් 50 ක පොහොර මිටියක් සදහා රු. 4000 ක මුදලක් ද, කි.ග්‍රෑම් 25 පොහොර මිටියක් සදහා රු. 2000 මුදලක් ද, සහනාධාර වශයෙන් ලබාදෙනු ලැබේ.
-
-සහනාධාරලාභීන් වෙත QR කේතයක් ලබාදී රජයේ පොහොර සමාගම ඇතුලු පොහොර ලේකම් කාර්යාලයේ ලියාපදිංචි පොහොර සමාගම් ගණනාවකින් මෙම අනුමත පොහොර ලබා ගත හැකි පරිදි නව වැඩපිළිවෙල ක්‍රියාත්මක කර ඇත.
-
-මෙම නව ක්‍රමවේදය යටතේ පොහොර මිලදි ගැනිමට අවශ්‍ය කටයුතු  ඔක්තෝබර් 1 දින සිට සියලු ප්‍රදේශ වල ක්‍රියාත්මක කරන බව රජය කියයි.
-
-◼️
-
-[Data](articles/56b83a5f.json)
-
----
 
 ### Tissamaharama area shooting: One death
 
@@ -114,20 +48,6 @@ Police said investigations are currently underway to arrest the suspect. Remble
 [Data](articles/67b750ee.json)
 
 [Extended Data](ext_articles/67b750ee.ext.json)
-
----
-
-### මධ්‍යම පරිසර අධිකාරිය GOv pay හා එක් වෙයි
-
-*2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
-
-මධ්‍යම පරිසර අධිකාරිය ගව්පේ (Gov pay)රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව සමග එක්ක කටයුතු කිරීම අද දින ආරම්භ කෙරිණි.
-
-මෙම ගෙවීම් ක්‍රමවේදය නිල වශයෙන් විවෘත කෙරුණු අතර එම ගිවිසුම් අත්සන් කිරීම හා විවෘත කිරීම බත්තරමුල්ල මධ්‍යම පරිසර අධිකාරියේ දී අද දින සිදු කරනු ලැබිණි .
-
-◼️
-
-[Data](articles/6cff156d.json)
 
 ---
 
@@ -379,22 +299,6 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කතම-බදධය-වතතය-මධයවදයට-පහරකද/12-680292) · `si`
-
-(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
-
-අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
-
-සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
-
-...
-
-[Data](articles/3f574452.json)
-
----
-
 ### Is the artificial intelligence beat a professional journalist?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කතම-බදධය-වතතය-මධයවදයට-පහරකද/222-680292) · `si`
@@ -432,22 +336,6 @@ It is a key to population to popularize the video, using artificial intelligence
 [Data](articles/c76f539f.json)
 
 [Extended Data](ext_articles/c76f539f.ext.json)
-
----
-
-### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/12-680292) · `si`
-
-(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
-
-අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
-
-සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
-
-...
-
-[Data](articles/f1e9c6ee.json)
 
 ---
 
@@ -1912,5 +1800,127 @@ Anura Dissanayake addressed the United Nations General Assembly that the opposit
 [Data](articles/0d7f0461.json)
 
 [Extended Data](ext_articles/0d7f0461.ext.json)
+
+---
+
+### Now in the time of Thor-Shall
+
+*2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දන-තර-මර-අහවන-කල/101-680276) · `si`
+
+Headahaduwa District MP Jagath Manule is the time:
+
+Anura Dissanayake addressed the United Nations General Assembly that the opposition to corruption is dangerous.. Who will pay for the price? Because of these things that fell to the people of this country.  The COPE has been sitting in the posts of the governments of the governments of the contract.
+
+◼️
+
+[Data](articles/963bf3b2.json)
+
+[Extended Data](ext_articles/963bf3b2.ext.json)
+
+---
+
+### A leather part of a bread slice
+
+*2025-09-26 14:42:20* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-පෙත්තක-තුවාලයක-සම්-කොටසක්/11-418741) · `si`
+
+A consumer (25) has been found in a bakery of a bakery of a baker in a baker of a baker in Hatton.
+
+(25) The prices of the bread to be used for a bread and an eating of the bread and an eating of the bread, the section of the bread and an agile injury have been provided to the Public Health Inspectors of the Hatton Dickhya Urban Council.
+
+The Hatton Dickoya Urban Urban Council, inspected the skin of an agile injury, said that the bakery owner had filed a case against the owner of the bakery.
+
+The Hatton Magistrate's Court will take several cases before the Hatton Magistrate's Court against the owner of the bakery.
+
+◼️
+
+[Data](articles/a4ea0b97.json)
+
+[Extended Data](ext_articles/a4ea0b97.ext.json)
+
+---
+
+### Court issues notice to the Director General of Bribery Commission
+
+*2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/101-680275) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama has issued notice to the Director General of the Bribery Commission (26) regarding the bail of former Labor and Foreign Employment Minister Manusha Nanayakkara.
+
+Manusha Nanayakkara issued the notice after considering the delegation of the Bribery Commission and the OIC of the Investigation Division of the Bribery Commission.
+
+According to an investigation into the sending of workers in Sri Lanka to employ Sri Lanka's employment in Israel, the petition was filed as he was arrested.
+
+The President's Counsel Saliya Peiris, who was landing from the Bandaranaike International Airport on the 24th of the country, he said that the Bribery Commission officials had filed a letter to the Bribery Commission on the 24th.
+
+The petition will file the petition to the Bribery Commission in writing of the investigations into the Bribery Commission.
+
+◼️
+
+[Data](articles/2bb40837.json)
+
+[Extended Data](ext_articles/2bb40837.ext.json)
+
+---
+
+### Court issues notice to the Director General of Bribery Commission
+
+*2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/1-680275) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama has issued notice to the Director General of the Bribery Commission (26) regarding the bail of former Labor and Foreign Employment Minister Manusha Nanayakkara.
+
+Manusha Nanayakkara issued the notice after considering the delegation of the Bribery Commission and the OIC of the Investigation Division of the Bribery Commission.
+
+According to an investigation into the sending of workers in Sri Lanka to employ Sri Lanka's employment in Israel, the petition was filed as he was arrested.
+
+The President's Counsel Saliya Peiris, who was landing from the Bandaranaike International Airport on the 24th of the country, he said that the Bribery Commission officials had filed a letter to the Bribery Commission on the 24th.
+
+The petition will file the petition to the Bribery Commission in writing of the investigations into the Bribery Commission.
+
+◼️
+
+[Data](articles/9646c84d.json)
+
+[Extended Data](ext_articles/9646c84d.ext.json)
+
+---
+
+### In Ambalantota, the functions of the water refinery stopped temporary
+
+*2025-09-26 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215033) · `si`
+
+The Ambalantota Center, water treatment center, has been temporarily stopped.
+
+It is reported that some of the largest materials in the Viwagala Sugar Factory has been reported to have been reported dead in the River River.
+
+The National Water Supply and Drainage Board's office has been suspended that the refinery activities of refinery suspends to suspend the result of proper research regarding the incident.
+
+On this situation, the National Water Supply and Drainage Board's office will be informed about three hours of water supply of refined water to the water refinery in Ambalantota.
+
+However, an official of the National Water Supply and Drainage Board's office will be able to restore the situation if it is possible to restore the situation.
+
+The National Water Supply and Drainage Board also informs the use of water into the prevailing situation.
+
+◼️
+
+[Data](articles/ddcd2c38.json)
+
+[Extended Data](ext_articles/ddcd2c38.ext.json)
+
+---
+
+### Sevanagala Alcohol gathers to the Walawe River
+
+*2025-09-26 14:37:51* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-ඇල්කොහොල්-නිශ්පාදිත-ආශ්‍රිත-ද්‍රව්‍ය-වලවේ-ගඟට-එක්වෙලා/11-418740) · `si`
+
+Since the Sevanagala Sugar Factory had a number of alcohol producers in the Walawei River, the fish refinery, in Ambalantota, was also temporarily stopped at times.
+
+Accordingly, the National Water Supply and Drainage Board's office will be held today (26) to temporarily suspend the resuse of the Walawe River today (26).
+
+On this situation, an official of the National Water Supply and Drainage Board (NPA) officials, the National Water Supply and Drainage Board (NPF) has been notified to restore water supply to the development of the water refinery in Ambalantota.. However, it is requested to use water to use water.
+
+◼️
+
+[Data](articles/b2c35f0b.json)
+
+[Extended Data](ext_articles/b2c35f0b.ext.json)
 
 ---

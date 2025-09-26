@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 03:20:36**
+As of **2025-09-27 03:38:00**
 
 ## Newspaper Stats
 
@@ -27,31 +27,35 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,797 (100.0%) of 78,798 articles have been extended.
+78,798 (100.0%) of 78,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### இராணுவத்தின் 76வது ஆண்டு நிறைவை முன்னிட்டு சிறப்பு மத நிகழ்ச்சித் தொடர் ஆரம்பம்
+### The Special Religious Series began to mark the 76th anniversary of the Army
 
 *2025-09-27 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226208) · `ta`
 
-இலங்கை இராணுவத்தின் 76 வது ஆண்டு நிறைவை முன்னிட்டு ஆசீர்வாதம் பெற ஏற்பாடு செய்யப்பட்ட சிறப்பு மத நிகழ்ச்சித் தொடர் இன்று, 2025 செப்டம்பர் 26, அன்று அநுராதபுரம் புனித ஜய ஸ்ரீ மஹா போதியில் நடைபெற்ற மத அனுஷ்டானங்களுடன் ஆரம்பமாகியது.
+The special religious event, which was organized to bless the 76th anniversary of the Sri Lankan army, began today with the religious observance of St. Jaya Sri Maha Bodhi, Anuradhapura, September 26, 2025.
 
-இந்த மத நிகழ்ச்சி இராணுவத் தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ அவர்களின் தலைமையில் நடைபெற்றது.
+The religious event was chaired by Army Commander Lieutenant General Lasantha Rodrigo.
 
-ருவன்வெலி மகா சேய முன்பிருந்து ஆரம்பமாகிய இராணுவக் கொடிகளை ஏந்திய ஊர்வலம், ஜய ஸ்ரீ மஹா போதிக்குச் சென்று அங்கு ஆசீர்வாதங்களைப் பெற்றது.
+The procession carrying the military flags that started from the Ruwanweli Maha Saya went to Jaya Sri Maha Bodhi and received blessings.
 
-இந்த மதச் சடங்குகள் எட்டு வழிபாட்டுத் தலங்களுக்குமான (அடமஸ்தந்திபதி) பிரதம தேரர் அதி வண. கலாநிதி பல்லேகம ஹேமரத்ன நாயக்க தேரரின் தலைமையில் நடைபெற்றன.
+These religious rituals are the Prime Minister of the Eight Worship. The event was chaired by Dr. Pallegama Hemaratne Nayaka Thera.
 
-மேலும் இராணுவக் கொடிகளுக்கு ஆசீர்வாதம் பெறுவதற்காக வவுனியா ஸ்ரீ கந்தசாமி கோவில் வளாகத்தில் இராணுவத் தளபதியின் தலைமையில் இந்து மத சடங்குகள் செய்யப்பட்டன.
+The Hindu rituals were chaired by the army commander at the Sri Kandaswamy Temple complex in Vavuniya to bless the military flags.
 
-பின்னர், இராணுவத் தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ அவர்கள் போரினால் பாதிக்கப்பட்ட போர்வீரர்கள் சிகிச்சை பெறும் நல விடுதியான 'அபிமன்சல 1' நலவிடுதியினை சிறப்பு விஜயம் மேற்கொண்டு அவர்களின் நலம் குறித்து விசாரித்தார்.
+Subsequently, Army Commander Lieutenant General Lasantha Rodrigo made a special visit to the war -affected war -torn warfare welfare of the war -torn warfare, and inquired about their welfare.
 
-...
+Senior officials, officers and soldiers participated in the events representing all the army's brigades.
+
+◼️
 
 [Data](articles/29f419d0.json)
+
+[Extended Data](ext_articles/29f419d0.ext.json)
 
 ---
 

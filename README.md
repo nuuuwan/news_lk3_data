@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 22:11:18**
+As of **2025-09-26 23:06:52**
 
 ## Newspaper Stats
 
-*Scraped **78,719** Articles*
+*Scraped **78,726** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 292
+lankadeepalk | 298
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -21,17 +21,93 @@ adalk | 7,619
 adaderanalk | 10,185
 tamilmirrorlk | 11,818
 virakesarilk | 12,739
-adaderanasinhalalk | 13,690
+adaderanasinhalalk | 13,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,671 (99.9%) of 78,719 articles have been extended.
+78,704 (100.0%) of 78,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### 'Weerahera r.m.V. Services bribible
+
+*2025-09-26 22:30:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරහර-R-M-V-සවවලට-අලලස-ගනනව/1-680297) · `si`
+
+The Bribery Commission said that some government officials have received complaints that some government officials have obtained bribes in the Erahera of the Department of Motor Traffic.
+
+The bribery commission said that the driver's licensing officer was arrested by the driver's license press and a private security personnel at the court of Rs.
+
+Kaham Priyankara Sirisena and the Coastal Sirisena and the Coastal Council were produced in court.
+
+The Bribery Commission states that the suspects were arrested following a longest investigation by a complaint received by a complaint received by a complaint received.
+
+The second suspect has said that the office was obtained from the office.
+
+She had been working in a private security forces and asked for a bribe of Rs.
+
+The Commission requested that the suspects were remanded to be remanded for the suspects.
+
+...
+
+[Data](articles/cb37421c.json)
+
+[Extended Data](ext_articles/cb37421c.ext.json)
+
+---
+
+### Sri Lanka target 203 runs
+
+*2025-09-26 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215052) · `si`
+
+Sri Lanka and India won the round of Sri Lanka and India won the toss and invited India to bat first.
+
+Accordingly, India scored 202 runs for the loss of 5 wickets in their five overs.
+
+ABHISEK SHARMA scored 61 runs for India and Tilak Varma scored 49 not out.
+
+Sanju Samson scored 39 runs, axar patel scored 21 runs, leader SURYAKUARI YADA.
+
+In bowling, Gigh Insightful, Veninduvaranga, Viein Shanaka, and Charath were present at one wicket.
+
+Sri Lanka is due to chase 203 runs.
+
+However, this is the highest number of marks collected by a group in the Asian Cup.
+
+◼️
+
+[Data](articles/fbfa343a.json)
+
+[Extended Data](ext_articles/fbfa343a.ext.json)
+
+---
+
+### Tea fertilizer subsidy to QR
+
+*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
+
+The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
+
+By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
+
+The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
+
+Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
+
+The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
+
+The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
+
+◼️
+
+[Data](articles/56b83a5f.json)
+
+[Extended Data](ext_articles/56b83a5f.ext.json)
+
+---
 
 ### Tissamaharama area shooting: One death
 
@@ -48,6 +124,22 @@ Police said investigations are currently underway to arrest the suspect. Remble
 [Data](articles/67b750ee.json)
 
 [Extended Data](ext_articles/67b750ee.ext.json)
+
+---
+
+### Central Environmental Authority Joins Gov Pay
+
+*2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
+
+The Central Environmental Authority (GOV Pay) was commenced today.
+
+The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
+
+◼️
+
+[Data](articles/6cff156d.json)
+
+[Extended Data](ext_articles/6cff156d.ext.json)
 
 ---
 
@@ -301,6 +393,26 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ### Is the artificial intelligence beat a professional journalist?
 
+*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කතම-බදධය-වතතය-මධයවදයට-පහරකද/12-680292) · `si`
+
+(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+
+We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+
+If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
+
+It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+
+...
+
+[Data](articles/3f574452.json)
+
+[Extended Data](ext_articles/3f574452.ext.json)
+
+---
+
+### Is the artificial intelligence beat a professional journalist?
+
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කතම-බදධය-වතතය-මධයවදයට-පහරකද/222-680292) · `si`
 
 (European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
@@ -336,6 +448,26 @@ It is a key to population to popularize the video, using artificial intelligence
 [Data](articles/c76f539f.json)
 
 [Extended Data](ext_articles/c76f539f.ext.json)
+
+---
+
+### Is the artificial intelligence beat a professional journalist?
+
+*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/12-680292) · `si`
+
+(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+
+We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+
+If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
+
+It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+
+...
+
+[Data](articles/f1e9c6ee.json)
+
+[Extended Data](ext_articles/f1e9c6ee.ext.json)
 
 ---
 
@@ -1800,127 +1932,5 @@ Anura Dissanayake addressed the United Nations General Assembly that the opposit
 [Data](articles/0d7f0461.json)
 
 [Extended Data](ext_articles/0d7f0461.ext.json)
-
----
-
-### Now in the time of Thor-Shall
-
-*2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දන-තර-මර-අහවන-කල/101-680276) · `si`
-
-Headahaduwa District MP Jagath Manule is the time:
-
-Anura Dissanayake addressed the United Nations General Assembly that the opposition to corruption is dangerous.. Who will pay for the price? Because of these things that fell to the people of this country.  The COPE has been sitting in the posts of the governments of the governments of the contract.
-
-◼️
-
-[Data](articles/963bf3b2.json)
-
-[Extended Data](ext_articles/963bf3b2.ext.json)
-
----
-
-### A leather part of a bread slice
-
-*2025-09-26 14:42:20* · [`adalk`](https://www.ada.lk/breaking_news/පාන්-පෙත්තක-තුවාලයක-සම්-කොටසක්/11-418741) · `si`
-
-A consumer (25) has been found in a bakery of a bakery of a baker in a baker of a baker in Hatton.
-
-(25) The prices of the bread to be used for a bread and an eating of the bread and an eating of the bread, the section of the bread and an agile injury have been provided to the Public Health Inspectors of the Hatton Dickhya Urban Council.
-
-The Hatton Dickoya Urban Urban Council, inspected the skin of an agile injury, said that the bakery owner had filed a case against the owner of the bakery.
-
-The Hatton Magistrate's Court will take several cases before the Hatton Magistrate's Court against the owner of the bakery.
-
-◼️
-
-[Data](articles/a4ea0b97.json)
-
-[Extended Data](ext_articles/a4ea0b97.ext.json)
-
----
-
-### Court issues notice to the Director General of Bribery Commission
-
-*2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/101-680275) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama has issued notice to the Director General of the Bribery Commission (26) regarding the bail of former Labor and Foreign Employment Minister Manusha Nanayakkara.
-
-Manusha Nanayakkara issued the notice after considering the delegation of the Bribery Commission and the OIC of the Investigation Division of the Bribery Commission.
-
-According to an investigation into the sending of workers in Sri Lanka to employ Sri Lanka's employment in Israel, the petition was filed as he was arrested.
-
-The President's Counsel Saliya Peiris, who was landing from the Bandaranaike International Airport on the 24th of the country, he said that the Bribery Commission officials had filed a letter to the Bribery Commission on the 24th.
-
-The petition will file the petition to the Bribery Commission in writing of the investigations into the Bribery Commission.
-
-◼️
-
-[Data](articles/2bb40837.json)
-
-[Extended Data](ext_articles/2bb40837.ext.json)
-
----
-
-### Court issues notice to the Director General of Bribery Commission
-
-*2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/1-680275) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama has issued notice to the Director General of the Bribery Commission (26) regarding the bail of former Labor and Foreign Employment Minister Manusha Nanayakkara.
-
-Manusha Nanayakkara issued the notice after considering the delegation of the Bribery Commission and the OIC of the Investigation Division of the Bribery Commission.
-
-According to an investigation into the sending of workers in Sri Lanka to employ Sri Lanka's employment in Israel, the petition was filed as he was arrested.
-
-The President's Counsel Saliya Peiris, who was landing from the Bandaranaike International Airport on the 24th of the country, he said that the Bribery Commission officials had filed a letter to the Bribery Commission on the 24th.
-
-The petition will file the petition to the Bribery Commission in writing of the investigations into the Bribery Commission.
-
-◼️
-
-[Data](articles/9646c84d.json)
-
-[Extended Data](ext_articles/9646c84d.ext.json)
-
----
-
-### In Ambalantota, the functions of the water refinery stopped temporary
-
-*2025-09-26 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215033) · `si`
-
-The Ambalantota Center, water treatment center, has been temporarily stopped.
-
-It is reported that some of the largest materials in the Viwagala Sugar Factory has been reported to have been reported dead in the River River.
-
-The National Water Supply and Drainage Board's office has been suspended that the refinery activities of refinery suspends to suspend the result of proper research regarding the incident.
-
-On this situation, the National Water Supply and Drainage Board's office will be informed about three hours of water supply of refined water to the water refinery in Ambalantota.
-
-However, an official of the National Water Supply and Drainage Board's office will be able to restore the situation if it is possible to restore the situation.
-
-The National Water Supply and Drainage Board also informs the use of water into the prevailing situation.
-
-◼️
-
-[Data](articles/ddcd2c38.json)
-
-[Extended Data](ext_articles/ddcd2c38.ext.json)
-
----
-
-### Sevanagala Alcohol gathers to the Walawe River
-
-*2025-09-26 14:37:51* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-ඇල්කොහොල්-නිශ්පාදිත-ආශ්‍රිත-ද්‍රව්‍ය-වලවේ-ගඟට-එක්වෙලා/11-418740) · `si`
-
-Since the Sevanagala Sugar Factory had a number of alcohol producers in the Walawei River, the fish refinery, in Ambalantota, was also temporarily stopped at times.
-
-Accordingly, the National Water Supply and Drainage Board's office will be held today (26) to temporarily suspend the resuse of the Walawe River today (26).
-
-On this situation, an official of the National Water Supply and Drainage Board (NPA) officials, the National Water Supply and Drainage Board (NPF) has been notified to restore water supply to the development of the water refinery in Ambalantota.. However, it is requested to use water to use water.
-
-◼️
-
-[Data](articles/b2c35f0b.json)
-
-[Extended Data](ext_articles/b2c35f0b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 00:52:45**
+As of **2025-09-27 00:11:22**
 
 ## Newspaper Stats
 
-*Scraped **78,780** Articles*
+*Scraped **78,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ colombotelegraphcom | 793
 economynextcom | 4,725
 dailymirrorlk | 4,733
 islandlk | 4,804
-dailyftlk | 5,558
+dailyftlk | 5,553
 adalk | 7,619
 adaderanalk | 10,185
 tamilmirrorlk | 11,818
@@ -27,101 +27,11 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,775 (100.0%) of 78,780 articles have been extended.
+78,750 (100.0%) of 78,775 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2025-09-27 (Saturday)
-
-### Politics of Tamil-Muslim relations
-
-*2025-09-27 00:12:31* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-Tamil-Muslim-relations/4-782245) · `en`
-
-Although the main attention is on Sinhalese-Tamil reconciliation, there is also a need for Tamil-Muslim reconciliation
-
-The introduction of multi-member constituencies in the Eastern Province is a living testimony to Tamil-Muslim political mistrust. That mistrust reached its climax when the LTTE emerged on the scene. Although during its initial stages LTTE was prepared to accommodate the Muslims as Islamic Tamils in their failed Tamil Eelam, thus echoing Ramanathan of 1880s, Tamil-Muslim mistrust continued to bedevil any accommodation and finally led to the expulsion of the entire Muslim community from Jaffna and its suburbs. That was the political climate which eventually produced the ill-conceived SLMC as a party to represent Muslims only
-
-...
-
-[Data](articles/715e17ea.json)
-
-[Extended Data](ext_articles/715e17ea.ext.json)
-
----
-
 ### 2025-09-26 (Friday)
-
-### Selective republicanism of socialist regime rules
-
-*2025-09-26 23:57:02* · [`dailyftlk`](https://www.ft.lk/columns/Selective-republicanism-of-socialist-regime-rules/4-782242) · `en`
-
-The pre-election promises spanning political, social and economic dimensions have been
-
-A bigger picture emerges on the larger canvas of national political life... it is one in which the relatively few, early, ongoing good deeds that should redound to government’s credit are overshadowed by the greater good it has yet to do – because we’re beginning to be agnostic to their potential to effect systemic change, having lost faith in their slow, steady and plebeian ways. Also, we’ve failed to remember the religious zeal of previous dispensations for evil deeds
-
-No good deed goes unpunished, mused libertarian socialist Oscar Wilde, no doubt while in Reading Gaol and reminiscing about that ironic truism in his own short life.
-
-Perhaps some of the stalwarts in governmental ranks share a similar sentiment about the electorate at large today, sensing dissent even beyond the ranks of Tuscany.
-
-...
-
-[Data](articles/269c59a6.json)
-
-[Extended Data](ext_articles/269c59a6.ext.json)
-
----
-
-### Shutting down the internet shuts down your right to know
-
-*2025-09-26 23:50:21* · [`dailyftlk`](https://www.ft.lk/opinion/Shutting-down-the-internet-shuts-down-your-right-to-know/14-782241) · `en`
-
-On 28 September, the world marks both World News Day and the International Day for
-
-Universal Access to Information. For many African countries, these days have always been marked with a realm of hope but in the recent past, it is a reminder of a worrying trend.
-
-When events become politically sensitive or socially tense, governments sometimes respond by shutting down the internet or silencing broadcasters, cutting off the audience; this action severs access to credible news precisely when the public’s need for it is greatest.
-
-Misinformation and disinformation are rampant on social media platforms such as TikTok Live, which have become an alternative source of truth for many.
-
-...
-
-[Data](articles/a6e67b16.json)
-
-[Extended Data](ext_articles/a6e67b16.ext.json)
-
----
-
-### Sri Lanka’s tourism at crossroads: Wake-up call on World Tourism Day
-
-*2025-09-26 23:43:54* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-tourism-at-crossroads-Wake-up-call-on-World-Tourism-Day/14-782239) · `en`
-
-Future growth must balance increased arrivals with a focus on high-value tourism and sustainable site management
-
-The targets may slip, but the opportunity remains. To salvage momentum, authorities must; fast-track visa reforms through Parliament and implement before October, launch at least an interim global campaign leveraging on existing accolades in promotion, coordinate with airlines to expand connectivity, empower the private sector as partners, not bystanders and shift focus from ad-hoc roadshows to a coherent strategy
-
-As the world marks World Tourism Day today, on 27 September, Sri Lanka stands at a critical juncture. Tourism has long been hailed as the country’s “low-hanging fruit” for economic revival and the year 2025 began with bold ambitions; 3 million arrivals and $ 5 billion in earnings. Yet as the final quarter approaches, those lofty goals are slipping out of reach.
-
-...
-
-[Data](articles/70dbb290.json)
-
-[Extended Data](ext_articles/70dbb290.ext.json)
-
----
-
-### City-centric approaches to climate-related human mobility
-
-*2025-09-26 23:40:02* · [`dailyftlk`](https://www.ft.lk/columns/City-centric-approaches-to-climate-related-human-mobility/4-782238) · `en`
-
-City-centric approaches to climate-related human mobility recognise that adaptation is increasingly an urban challenge
-
-As the impacts of climate change become more frequent and intense, people across the globe are forced to adapt. In many cases, adaptation takes place within communities and areas by addressing vulnerabilities and enhancing adaptative capacities, thereby building short- and long-term climate resilience. However, climate change also causes movement, either by choice (e.g., voluntary migration in search of better incomes) or by force (e.g., displacement due to disasters or relocation of coastal populations in the face of sea level rise). Much of this movement goes from rural to urban or peri-urban areas, which are often perceived as desirable locations due to employment options, family connections, and other opportunities.
-
-...
-
-[Data](articles/e39f8cf0.json)
-
----
 
 ### "The food is sending 130 billion tonnes a year
 
@@ -1984,5 +1894,99 @@ The bribery or corruption Commission is politicized today, he said.
 [Data](articles/8cefcb19.json)
 
 [Extended Data](ext_articles/8cefcb19.ext.json)
+
+---
+
+### The doctors do not write bathing now
+
+*2025-09-26 15:29:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරල-දන-බයට-බත-ලයනන-න/1-680281) · `si`
+
+The Kurunegala District MP Nalin Bandara is not written by the presence of the medicine, despite the medicine of hospitals.
+
+The MP said that it was not possible to go to jail, he said.
+
+"This government often sees the Korea. Personal entrepreneurs look to the quarter eye.
+
+The cup needs not only about the past but also for the present things.
+
+The Port Authority had 320 containers of the Port Authority. Today, the police station is positioned locations in the policeplaces.. The COPE does the government officials helpless. No painkillers of the National Hospital. There is no half half of the antibiotics.. Doctors do not write that way today. Due to the lack of bay, the doctors were to jail.
+
+The bribery or corruption Commission is politicized today, he said.
+
+◼️
+
+[Data](articles/d7e61cde.json)
+
+[Extended Data](ext_articles/d7e61cde.ext.json)
+
+---
+
+### Raid Uncovers 500 Rounds of T-56 Ammo Linked Kehelbaddara Padme
+
+*2025-09-26 15:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/raid-uncovers-500-rounds-of-t-56-ammo-linked-kehelbaddara-padme) · `en`
+
+COLOMBO (News 1st); Officers from the Colombo North Crimes Division have uncovered a stockpile of approximately 500 rounds of T-56 ammunition in Peliyagoda, believed to be linked to organized criminal figure Kehelbaddara Padme, who is currently in remand custody.In addition to the ammunition, police also recovered a micro-type pistol, a pair of handcuffs, and four T-56 magazines.
+
+◼️
+
+[Data](articles/04d6ecad.json)
+
+[Extended Data](ext_articles/04d6ecad.ext.json)
+
+---
+
+### Three vehicles collided with a terrible accident in Bandaragama
+
+*2025-09-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215037) · `si`
+
+A van, tipper and three-wheeler collided in the Weita area in Bandaragama.
+
+It is reported that 11 people were injured in the accident and they had taken steps to hospital soon.
+
+◼️
+
+[Data](articles/40e366ed.json)
+
+[Extended Data](ext_articles/40e366ed.ext.json)
+
+---
+
+### Air Passenger arrested with 'Cush'
+
+*2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කෂ-සමඟ-ගවන-මගය-මටට/1-680280) · `si`
+
+A large number of officers of Sri Lanka a Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport Trace, which was leaving the Katunayake airport, has been arrested by a Sri Lankan Air Force Bureau.
+
+He is a 48 year old business engaged in the Ratmalana area in Ratmalana.
+
+Three cases filed by the Mount Lavinia Police and the Colombo Police Narcota Bureau Head Quitha
+
+In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden in a shopping bag.
+
+◼️
+
+[Data](articles/10ee03f0.json)
+
+[Extended Data](ext_articles/10ee03f0.ext.json)
+
+---
+
+### Air Passenger arrested with 'Cush'
+
+*2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කෂ-සමඟ-ගවන-මගය-මටට/101-680280) · `si`
+
+A large number of officers of Sri Lanka a Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport Trace, which was leaving the Katunayake airport, has been arrested by a Sri Lankan Air Force Bureau.
+
+He is a 48 year old business engaged in the Ratmalana area in Ratmalana.
+
+Three cases filed by the Mount Lavinia Police and the Colombo Police Narcota Bureau Head Quitha
+
+In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden in a shopping bag.
+
+◼️
+
+[Data](articles/caaa4340.json)
+
+[Extended Data](ext_articles/caaa4340.ext.json)
 
 ---

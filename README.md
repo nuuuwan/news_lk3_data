@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 16:09:19**
+As of **2025-09-26 16:53:53**
 
 ## Newspaper Stats
 
-*Scraped **78,625** Articles*
+*Scraped **78,633** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 249
-newsfirstlk | 425
+lankadeepalk | 254
+newsfirstlk | 426
 dbsjeyarajcom | 634
 bbccomsinhala | 703
 colombotelegraphcom | 792
@@ -17,7 +17,7 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,611
+adalk | 7,613
 adaderanalk | 10,179
 tamilmirrorlk | 11,806
 virakesarilk | 12,739
@@ -27,83 +27,121 @@ adaderanasinhalalk | 13,678
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,384 (99.7%) of 78,625 articles have been extended.
+78,420 (99.7%) of 78,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### නවකවධ සිද්ධියකට වයඹ විශ්වවිද්‍යාලයේ සිසුන් සිව්දෙනෙකු රිමාන්ඩ්
+### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
+
+*2025-09-26 16:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/90-day-detention-for-ex-slpp-lg-candidate-manamperi) · `en`
+
+COLOMBO (News 1st); The Walasmulla Magistrate’s Court has granted permission for authorities to detain and interrogate Sampath Manamperi, a former Sri Lanka Podujana Peramuna (SLPP) Pradeshiya Sabha candidate, for 90 days in connection with a major narcotics-related investigation.The detention order was issued following a request by the Western Province (North) Crimes Division, which informed the court that Acting Defence Minister Aruna Jayasekera had authorized the extended detention under relevant legal provisions.Manamperi was arrested after police discovered two containers of chemicals on his property in Middeniya, suspected to be used in the production of crystal methamphetamine (commonly known as ‘ICE’). The case was taken up during proceedings at the Walasmulla Magistrate’s Court.The first suspect in the case, Piyal Manamperi, has already been remanded until October 8.
+
+◼️
+
+[Data](articles/df9a645e.json)
+
+---
+
+### Four students of North Western University remanded for an event
 
 *2025-09-26 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215039) · `si`
 
-කුළියාපිටිය වයඹ විශ්වවිද්‍යාලයේ දෙවන වසරේ සිසුවෙකුට නවකවධය ලබා දීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් එම විශ්වවිද්‍යාලයේ තෙවන වසරේ සිසුන් සිව්දෙනෙකු රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කර තිබේ.
+The court has ordered four third-year students of the University who was arrested in connection with the appointment of a second year student of the North Western Province North Western University.
 
-ඒ එම සැකකාර සිසුන් 04 දෙනා අද (26) කුළියාපිටිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+The four suspects were produced before the Kuliyapitiya Magistrate's Court today (26).
 
-එහිදී මහේස්ත්‍රාත්වරයා නියෝග කළේ අදාළ සිසුන් සිව්දෙනා එළැඹෙන 29 දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසය.
+The magistrate ordered that the four students were remanded until the 29th.
 
 ◼️
 
 [Data](articles/e763e041.json)
 
+[Extended Data](ext_articles/e763e041.ext.json)
+
 ---
 
-### සම්පත් මනම්පේරිට දින 90ක රැඳවුම් නියෝග
+### 90-day detention orders
 
 *2025-09-26 15:40:58* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමපත-මනමපරට-දන-90ක-රඳවම-නයග/1-680282) · `si`
 
-මිද්දෙණිය තලාව ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීම සඳහා යොදා ගන්නා රසායනික ද්‍රව්‍ය කොන්ටේනර් දෙකක් ළඟ තබා ගැනීමේ සිද්ධියට අදාළව රක්ෂිත බන්ධනාගාර ගත කොට සිටි සම්පත් මනම්පේරි  උතුර කොළඹ අපරාධ විමර්ශන කොට්ඨාශයේ දින අනූවක් රඳවා තබාගෙන ප්‍රශ්න කිරීමට වලස්මුල්ල මහේස්ත්‍රාත් මල්ශා කොඩිතුවක්කු මෙනෙවිය අවසර දෙනු ලැබීය.
+Miss Walasmulla Magistrate Malusha Kodituwakku granted allotted in the Colombo Criminal Investigation Division to be remanded in the Colombo Criminal Investigation Division.
 
-බන්ධනාගාර ගතව සිටි ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පළාත් පාලන අපේක්ෂක සම්පත් මනම්පේරි හා ඔහුගේ සොහොයුරු ශ්‍රී ලංකා පොදු ජනපෙරමුණේ  අගුණකොළ පෑලැස්ස ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී පියල් මනරි අද පෙරවරුටවේදී වලස් මුල්ල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
+The local government candidate resources and his brother, Sri Lanka's Paluwawa Phalyamara and his brother Sri Lanka's Palipasle Pradeshiya Sabha was produced before the bears.
 
-අද පෙරවරු 10.20 ට පමණ අදාළ නඩුව කැඳවූ මහේස්ත්‍රාත්වරිය උතුරු කොළඹ අපරාධ විමර්ශන නිලධාරීන්ගේ හා සැකකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන්ගෙන් කරුණු විමසනු ලැබීය.
+The Magistrate who convened the case around 10.20 this morning, the Magistrate was asked for the lawyers and the suspects.
 
 ◼️
 
 [Data](articles/e623331e.json)
 
+[Extended Data](ext_articles/e623331e.ext.json)
+
 ---
 
-### මත්කුඩු විකුණූ අඹුසැමි යුවළක් අත්අඩංගුවට
+### ජනපති ජපාන සංචාරය අරඹයි
+
+*2025-09-26 15:40:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ජපාන-සංචාරය-අරඹයි/11-418747) · `si`
+
+අමෙරිකා එක්සත් ජනපදයේ සංචාරය නිම කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානය බලා පිටව ගොස් තිබේ. ඊයේ (25) රාත්‍රියේ  ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජනාධිපතිවරයා ජපානය බලා පිටත්ව ගොස් ඇත.
+
+ජපන් රජයේ ආරාධනයකට අනුව, ජනාධිපතිවරයා සැප්තැම්බර් 27 වන දින සිට 30 වන දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
+
+◼️
+
+[Data](articles/7719b89a.json)
+
+---
+
+### Couple arrested for selling drugs
 
 *2025-09-26 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215038) · `si`
 
-ගැබිනි මව්වරුන්ගේ සායනයට යන මුවාවෙන් අයිස් මත්ද්‍රව්‍ය අලෙවිකළ අඹුසැමි යුවළක් නාවලපිටිය පොලීසිය විසින් අද (26) අත්අඩංගුවට ගෙන තිබේ.
+A couple of the ice has been arrested by the Nawalapitiya Police today (26) following the pregnant mothers clinic.
 
-මෙම අඹුසැමි යුවළ ඊසි කෑෂ් ක්‍රමයට මුදල් ලබාගෙන ගම්පොළ, නාවලපිටිය ප්‍රදේශවල යතුරු පැදියකින් අයිස් මත්ද්‍රව්‍ය බෙදාහරිමින් සිටියදී අත්අඩංගුවට ගෙන ඇත.
+The couple had arrested the couple with money to Easte cash and was arrested in Gampola and Nawalapitiya.
 
-ඔවුන් නාවලපිටිය දොලොස්භාග මාර්ගයේ පිහිටි පැරණි දුම්රිය නිල නිවස අසළ ඇසුරුම් කරන ලද අයිස් පැකට් තබා සිට ඇති බව සඳහන්.
+It is said that they have been placed on the old railway quarters along the ride road.
 
-සැකකරුවන් පරීක්ෂා කිරීමේදී ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් 52ක් (ග්‍රෑම් 35ක්) සොයාගෙන ඇති අතර, එම පැකට්වලින් කිහිපයක් සැකකාර කාන්තාවගේ යට ඇදුම්වල සඟවා තිබී සොයාගෙන ඇත.
+The suspects were recovered (35 grams) packets of packets were found hidden in the worthy woman's underwear.
 
-සැකකාර අඹුසැමි යුවළ ගම්පොළ කිරපන ප්‍රදේශයේ පදිංචි අවුරුදු 23 හා 27 වයස්වල පසුවන්නන්ය.
+The suspect's joke should be residents of the 23rd and 27th and 27th and 27th and 27st of the year.
 
-ඔවුන් 'ඩුබායි තාරු' නමැති මත්ද්‍රව්‍ය ජාවාරම්කරුගෙන් මත්ද්‍රව්‍ය මිලදී ගෙන ඊසි කෑෂ් ක්‍රමයට මෙම බෙදාහැරීම් සිදුකර ඇති බව සඳහන්.
+It is said that they have purchased drugs from the drug dealer named 'Dubai Tars'.
 
-අත්අඩංගුවට ගත් අඹුසැමි යුවළ නාවලපිටිය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතය.
+The arrested Thero is to be produced before the Nawalapitiya Magistrate.
 
 ◼️
 
 [Data](articles/1b876e91.json)
 
+[Extended Data](ext_articles/1b876e91.ext.json)
+
 ---
 
-### දොස්තරලා දැන් බයට බේත් ලියන්නේ නෑ
+### The doctors do not write bathing now
 
 *2025-09-26 15:29:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරල-දන-බයට-බත-ලයනන-න/1-680281) · `si`
 
-වර්තමානයේ රෝහල් වල බෙහෙත් නැති වුනත් දොස්තරලා ඒ බෙහෙත් පිටින් ගන්නට කියා ලියා දෙන්නේ නැතැයි කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නලින් බණ්ඩාර මහතා :-(ස.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.
+The Kurunegala District MP Nalin Bandara is not written by the presence of the medicine, despite the medicine of hospitals.
 
-හිරේ යන්නට මේ විය යැයි කියා බයෙන් දොස්තරලා එලෙස බෙහෙත් නොලියන බවද මන්ත්‍රීවරයා කීය.
+The MP said that it was not possible to go to jail, he said.
 
-"මේ ආණ්ඩුව නිතරම කොරහේ කිඹුල්ලු දකිනවා. පෞද්ගලික ව්‍යවසායකයන් දෙස බලන්නේ වපර ඇහින්.වැඩි ආදායම් ලබන ඇය ගැන බලන්නේ වපන ඇසින්.
+"This government often sees the Korea. Personal entrepreneurs look to the quarter eye.
 
-කෝප් එකෙන් අතීත දේවල් ගැන විතරක් නෙමෙයි වර්තමානෙ දේවල් ගැනත් හොයන්න ඕන.
+The cup needs not only about the past but also for the present things.
 
-...
+The Port Authority had 320 containers of the Port Authority. Today, the police station is positioned locations in the policeplaces.. The COPE does the government officials helpless. No painkillers of the National Hospital. There is no half half of the antibiotics.. Doctors do not write that way today. Due to the lack of bay, the doctors were to jail.
+
+The bribery or corruption Commission is politicized today, he said.
+
+◼️
 
 [Data](articles/d7e61cde.json)
+
+[Extended Data](ext_articles/d7e61cde.ext.json)
 
 ---
 
@@ -117,55 +155,85 @@ COLOMBO (News 1st); Officers from the Colombo North Crimes Division have uncover
 
 [Data](articles/04d6ecad.json)
 
+[Extended Data](ext_articles/04d6ecad.ext.json)
+
 ---
 
-### වාහන තුනක් එකිනෙක ගැටී බණ්ඩාරගමදී බිහිසුණු අනතුරක්
+### Three vehicles collided with a terrible accident in Bandaragama
 
 *2025-09-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215037) · `si`
 
-බණ්ඩාරගම වෑවිට ප්‍රදේශයේදී වෑන් රථයක්, ටිපර් රථක් සහ ත්‍රීරෝද රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+A van, tipper and three-wheeler collided in the Weita area in Bandaragama.
 
-අනතුරින් පුද්ගලයින් 11ක් තුවාල ලබා ඇති අතර ඔවුන් කඩිනමින් රෝහල් ගත කිරීමට කටයුතු කර ඇතැයිද වාර්තා වේ.
+It is reported that 11 people were injured in the accident and they had taken steps to hospital soon.
 
 ◼️
 
 [Data](articles/40e366ed.json)
 
+[Extended Data](ext_articles/40e366ed.ext.json)
+
 ---
 
-### ‘කුෂ්‘ සමඟ ගුවන් මගියා මාට්ටු
+### Air Passenger arrested with 'Cush'
 
 *2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කෂ-සමඟ-ගවන-මගය-මටට/1-680280) · `si`
 
-රුපියල් හතලිස් එක් ලක්ෂ අසූ දහසක් වටිනා " කුෂ්" මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු  ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+A large number of officers of Sri Lanka a Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport Trace, which was leaving the Katunayake airport, has been arrested by a Sri Lankan Air Force Bureau.
 
-මොහු රත්මලාන ප්‍රදේශයේ පදිංච් , වැලි සපයන ව්‍යාපාරයක නිරත 48 හැවිරිදි ව්‍යාපාරිකයෙකි.
+He is a 48 year old business engaged in the Ratmalana area in Ratmalana.
 
-ඔහුට එරෙහිව ගල්කිස්ස පොලීසියේ සහ කොළඹ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශ මූලස්ථානය විසින් පවරා ඇති මත්ද්‍රව්‍ය පිළිබද  නඩු 03 ක් විභාග වෙමින් පවති..
+Three cases filed by the Mount Lavinia Police and the Colombo Police Narcota Bureau Head Quitha
 
-ඔහු විසින් රැගෙන ආ ගමන් මල්ල තුළ , " ෂොපිං "බෑගයක බහා , මෙම " "කුෂ්" මත්ද්‍රව්‍ය ග්‍රෑම් 418 ක ප්‍රමාණය සඟවා ගෙන තිබුණි .
+In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden in a shopping bag.
 
 ◼️
 
 [Data](articles/10ee03f0.json)
 
+[Extended Data](ext_articles/10ee03f0.ext.json)
+
 ---
 
-### திலீபனின் நினைவு தினம் யாழ்.பல்கலைக்கழகத்தில் அனுஷ்டிப்பு
+### Air Passenger arrested with 'Cush'
+
+*2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කෂ-සමඟ-ගවන-මගය-මටට/101-680280) · `si`
+
+A large number of officers of Sri Lanka a Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport Trace, which was leaving the Katunayake airport, has been arrested by a Sri Lankan Air Force Bureau.
+
+He is a 48 year old business engaged in the Ratmalana area in Ratmalana.
+
+Three cases filed by the Mount Lavinia Police and the Colombo Police Narcota Bureau Head Quitha
+
+In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden in a shopping bag.
+
+◼️
+
+[Data](articles/caaa4340.json)
+
+[Extended Data](ext_articles/caaa4340.ext.json)
+
+---
+
+### Dileepan's Memorial Day at the University of Jaffna
 
 *2025-09-26 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலீபனின்-நினைவு-தினம்-யாழ்-பல்கலைக்கழகத்தில்-அனுஷ்டிப்பு/175-365329) · `ta`
 
-ஐந்து அம்சக் கோரிக்கைகளை முன்வைத்து உண்ணாவிரதம் இருந்து உயிர் நீத்த தியாக தீபம் திலீபனின் 38 வது நினைவு தினம், யாழ்ப்பாணப் பல்கலைக்கழகத்தில் வெள்ளிக்கிழமை (26) அனுஷ்டிக்கப்பட்டது.
+The 38th commemoration of Dileepan, the 38th commemoration of the sacrifice of fasting on the five -point demands, was celebrated on Friday (26).
 
-தியாக தீபம் திலீபன் நினைவேந்தல் மதியம் 12 மணிக்கு ஆரம்பித்ததுடன், பொதுச் சுடர் ஏற்றப்பட்டது.
+The sacrificial torch began at 12 noon and the public flame was loaded.
 
-அதனைத் தொடர்ந்து,திலீபனின் உருவப்படத்திற்கு பல்கலைக்கழக சமூகத்தினரால் மலர் மாலை அணிவித்து மலர் தூவியும் அஞ்சலி செலுத்தப்பட்டதுடன் பலரும் உணர்வு பூர்வமாக கலந்து கொண்டனர்.
+Subsequently, the flower garland was paid to the university community to pay tribute to the portrait of Dileepan.
 
-இதன்போது பல்கலைக்கழக மாணவர்கள், பல்கலைக்கழக விரிவுரையாளர்கள், பல்கலைக்கழக கல்விசாரா ஊழியர்கள் என பலரும் கலந்து கொண்டனர்.
+University students, university lecturers and university non -academic staff were also present.
 
-...
+In the North and East, the five -point demands to stop the newly planned Sinhalese settlements, the release of Tamil political prisoners detained in prisons and camps, the emergency law should be completely abolished, the weapons provided to the guards, and the opening of new police stations in Tamil areas should be stopped. He was embroiled in a hunger strike without drinking water in Nallur in Jaffna for 12 days from 26.09.1987.
+
+◼️
 
 [Data](articles/8e4e7e4e.json)
+
+[Extended Data](ext_articles/8e4e7e4e.ext.json)
 
 ---
 
@@ -182,6 +250,18 @@ The law does not take place, but the law will not be implemented.. If the law en
 [Data](articles/46f2a3a2.json)
 
 [Extended Data](ext_articles/46f2a3a2.ext.json)
+
+---
+
+### සම්පත් මනම්පේරි දින 90ක් රඳවාගෙන් ප්‍රශ්න කරයි
+
+*2025-09-26 15:18:09* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-දින-90ක්-රඳවාගෙන්-ප්‍රශ්න-කරයි/11-418746) · `si`
+
+සම්පත් මනම්පේරි දින 90ක් රඳවාගෙන ප්‍රශ්නකිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය අද (26) අවසර  දුන්නේය. මිද්දෙණිය ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගන්නා බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය අඩංගු කන්ටේනර් දෙකක් සඟවා තැබීමේ සිද්ධිය සම්බන්ධයෙන් සම්පත් මනම්පේරි මේ වනවිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගරගතව සිටියි.
+
+◼️
+
+[Data](articles/e19ead0c.json)
 
 ---
 
@@ -230,6 +310,8 @@ Hambantota District MP DV Chanaka has decided that the Knowledge of the General 
 ...
 
 [Data](articles/953e38a0.json)
+
+[Extended Data](ext_articles/953e38a0.ext.json)
 
 ---
 
@@ -319,21 +401,23 @@ Former Minister Manusha Nanayakkara has filed an anticipatory bail application b
 
 ---
 
-### පද්මේගේ ගිනි අවි සහ ජීව උණ්ඩ තොගයක් හමුවෙයි
+### Padme's firearms and bullets meet
 
 *2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදමග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
 
-පාතාල කල්ලි සාමාජික 'කෙහෙල්බද්දර පද්මේ' විසින් සඟවා තැබූ බව පැවසෙන ටී-56 පතොරම්  ගිනි අවි සහ යුද හමුදා නිල ඇඳුමට සමාන කට්ටලයක් අධික ප්‍රමාණයක් පෑලියගොඩ මාළු වෙළෙඳසැළ ආසන්නයේ බස් නැවතුමක් පිටුපස කසල ගොඩක් අසල බෑගයක දමා තිබියදී සොයා ගත් බව පෑලියගොඩ  උතුරු අපරාධ කොට්ඨාසය කියයි.
+The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
 
-එම බෑගය තුළ තිබී ටී-56 මැගසින් 4ක්, මයික්‍රෝ පිස්තෝලයක් , රිවොල්වර අවියක් ,ටි 56  ජිව උන්ඩ 520 ක් අත්විලංගුවක් , යුද හමුදා නිල ඇඳුමට සමාන ඇඳුමක් සොයා ගැනීමට පොලීසියට හැකිව ඇත.
+A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
 
-බස්නාහිර පළාත් උතුරු අපරාධ කොට්ඨාශය විසින් කරනු ලැබූ ප්‍රශ්න කිරීමේදී වලදී මෙම තොරතුරු අනාවරණය වී තිබේ.
+This information has been revealed in the interrogation by the Western Provincial Council.
 
-සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් පස්දෙනකු පසුගියදා ඉන්දුනීසියාවේ ජාකාර්ථානුවරදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව කෙහෙල් බද්දර පද්මේ ඇතුළු තිදෙනකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් නියෝග මත රඳවා තබා ඇත.
+Five underworld members of Padmasiri, who was an organized criminal, was arrested for his arrest in Indonesia, and three others, including Kehel Bedma Padkere on the detention department.
 
 ◼️
 
 [Data](articles/6e4ebbee.json)
+
+[Extended Data](ext_articles/6e4ebbee.ext.json)
 
 ---
 
@@ -354,6 +438,26 @@ Five underworld members of Padmasiri, who was an organized criminal, was arreste
 [Data](articles/7782eca5.json)
 
 [Extended Data](ext_articles/7782eca5.ext.json)
+
+---
+
+### Padme's firearms and bullets meet
+
+*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/101-680277) · `si`
+
+The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
+
+A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
+
+This information has been revealed in the interrogation by the Western Provincial Council.
+
+සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් පස්දෙනකු පසුගියදා ඉන්දුනීසියාවේ ජාකාර්ථානුවරදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව කෙහෙල් බද්දර පද්මේ ඇතුළු තිදෙනකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් නියෝග මත රඳවා තබා ඇත.
+
+◼️
+
+[Data](articles/e4e09f91.json)
+
+[Extended Data](ext_articles/e4e09f91.ext.json)
 
 ---
 
@@ -402,6 +506,44 @@ Anura Dissanayake addressed the United Nations General Assembly that the opposit
 [Data](articles/0d7f0461.json)
 
 [Extended Data](ext_articles/0d7f0461.ext.json)
+
+---
+
+### Now in the time of Thor-Shall
+
+*2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දන-තර-මර-අහවන-කල/101-680276) · `si`
+
+Headahaduwa District MP Jagath Manule is the time:
+
+Anura Dissanayake addressed the United Nations General Assembly that the opposition to corruption is dangerous.. Who will pay for the price? Because of these things that fell to the people of this country.  The COPE has been sitting in the posts of the governments of the governments of the contract.
+
+◼️
+
+[Data](articles/963bf3b2.json)
+
+[Extended Data](ext_articles/963bf3b2.ext.json)
+
+---
+
+### Court issues notice to the Director General of Bribery Commission
+
+*2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/101-680275) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama has issued notice to the Director General of the Bribery Commission (26) regarding the bail of former Labor and Foreign Employment Minister Manusha Nanayakkara.
+
+Manusha Nanayakkara issued the notice after considering the delegation of the Bribery Commission and the OIC of the Investigation Division of the Bribery Commission.
+
+According to an investigation into the sending of workers in Sri Lanka to employ Sri Lanka's employment in Israel, the petition was filed as he was arrested.
+
+The President's Counsel Saliya Peiris, who was landing from the Bandaranaike International Airport on the 24th of the country, he said that the Bribery Commission officials had filed a letter to the Bribery Commission on the 24th.
+
+The petition will file the petition to the Bribery Commission in writing of the investigations into the Bribery Commission.
+
+◼️
+
+[Data](articles/2bb40837.json)
+
+[Extended Data](ext_articles/2bb40837.ext.json)
 
 ---
 
@@ -627,19 +769,21 @@ The preliminary investigations have revealed that 52 packets of ice narcotics we
 
 ---
 
-### ගැබිනි මව් සායනයට යන මුවාවෙන් ‘අයිස් ‘විකුණලා
+### Selling 'ice' with the pregnant parent clinic
 
 *2025-09-26 13:47:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගබන-මව-සයනයට-යන-මවවන-අයස-වකණල/1-680272) · `si`
 
 ගැබිනි මව්වරුන්ගේ සායනයට යන මුවාවෙන් ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් විවිධ ස්ථානවලතබා යන අඹුසැමි යුවලක් (26) දින අත්අඩංගුවට ගත් බව නාවලපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක හරේන්ද්‍ර කළුගම්පිටිය මහතා පැවසීය.
 
-ඊසි කෑෂ් ක්‍රමයට මුදල් ලබා ගෙන අඹුසැමි යුවළක් යතුරු පැදියකින් ගොස් ගම්පොළ, නාවලපිටිය යන ප්‍රදේශවල  අයිස් මත්ද්‍රව්‍ය බෙදා හරින බවට ලද තොරතුරක් මත නාවලපිටිය පොලිසියේ ස්ථානාධිපතිවරයා ඇතුලු නිළධාරින් කණ්ඩායමක් නාවලපිටිය දොලොස්භාග මාර්ගයේ පිහිටි පැරණි දුම්රිය නිළ නිවස අසළදී ඇසුරුම් කරන ලද අයිස් පැකට් තබමින් සිටියදී සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ. ඔවුන් පරික්ෂා කිරිමේදි ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් 52 ක් තිබි සොයා ගත් බව පොලිසිය කියා සිටියේය.
+The suspects have been arrested while employed by the OIC of Nawalapitiya Police Station at Nawalapitiya Police OIC on a motorcycle, which has been paid to Easy Cash.. Police said that 52 packets of ice narcotics were found in their checking.
 
-ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් 52 පැකට් කිහිපයක් සැකකාර කාන්තාවගේ යට ඇදුම්වල තිබි සොයා ගත් බවත්, එක් අයිස් පැකට්ටුවක් රු.7000ක් වැනි මුදලකට අලෙවි කරන බව දැනට කරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇතැයි කියයි.
+The preliminary investigations have revealed that 52 packets of ice narcotics were found in the monstering woman.
 
 ◼️
 
 [Data](articles/6ca659e7.json)
+
+[Extended Data](ext_articles/6ca659e7.ext.json)
 
 ---
 
@@ -1736,151 +1880,5 @@ The audit has recommended that the expeditious and efficient measures should be 
 [Data](articles/d0903506.json)
 
 [Extended Data](ext_articles/d0903506.ext.json)
-
----
-
-### The tree that fell on the bus in Olcotta Mawatha
-
-*2025-09-26 10:36:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒல்கொட்-மாவத்தையில்-பேருந்து-மீது-முறிந்து-விழுந்த-மரம்/175-365309) · `ta`
-
-An accident occurred when a tree fell on a bus this morning at Olkot Mawatha in Colombo.
-
-◼️
-
-[Data](articles/4678be6d.json)
-
-[Extended Data](ext_articles/4678be6d.ext.json)
-
----
-
-### Malaysian drug trafficker death sentence in Singapore
-
-*2025-09-26 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226102) · `ta`
-
-International media reports that a Malaysian person has been mourned for drug trafficking in Singapore.
-
-Despite the demands in that country to abolish the death penalty, this is the 11th execution of this year.
-
-He was later accused of kidnapping about 45 grams (1.6 ounces) of Singapore.
-
-He was to be executed in 2022, but was banned by the court's dismissal in August.
-
-The Malaysian lawyer representing his family said the death sentence had been stopped.
-
-However, Singapore prison officials have informed the family that they will continue the execution and to collect his body within two hours.
-
-The Singapore's Central Drug Prevention Unit issued a report on his execution.
-
-It stated that he was given full legal procedure and the president's mercy petitions failed.
-
-The report also said that the amount of drugs he carried would be addicted to about 540 people a week.
-
-...
-
-[Data](articles/14471b7a.json)
-
-[Extended Data](ext_articles/14471b7a.ext.json)
-
----
-
-### Landslide alert to five districts
-
-*2025-09-26 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226104) · `ta`
-
-Due to heavy rains in some parts of the country, many areas in five districts have been warned about landslides.
-
-The National Building Research Institute (NBRO) said that the landslide precautions will be in effect from 10:00 pm to 10:00 pm on Friday (26).
-
-Accordingly, several Divisional Secretariat Divisions (DSDS) in the Kalutara and Matara districts have been warned of Level 2 (Amber)).
-
-Meanwhile, Level 1 (Yellow) Warning has been issued to several parts of the following districts:
-
-Galle: Nagoda, Elpitiya, Battegama, Yakkalamulla Divisional Secretariat Division and adjoining areas
-
-Kalutara: Palindanuwara, Madhugama Divisional Secretariat Division and adjoining areas
-
-Ratnapuri: Elapatha, Kalana, Belmatulla Divisional Secretariat Division and adjoining areas
-
-◼️
-
-[Data](articles/f0aa3541.json)
-
-[Extended Data](ext_articles/f0aa3541.ext.json)
-
----
-
-### Govt. Rs.. A stick of 2.9
-
-*2025-09-26 10:07:08* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-සැපයුම්කරුවන්ගෙන්-රජයට-රු-බි--2-9ක-පොල්ලක්/11-418734) · `si`
-
-The National Audit Office, the State Pharmaceutical Corporation, the State Pharmaceutical Supply, the State Pharmaceutical Supply, has to be identified as Rs.
-
-On 31st of March this year, Maundant could not be recovered from drug suppliers. Rs. 1,651.98 million to be recovered from unlawful drug suppliers. As at 31st March 2025, the last remembrance of suppliers should be recovered Rs. 279.45 million. The audit has revealed that the recovery is in uncertainty.
-
-The audit has recommended that the expeditious and efficient measures should be taken to recover charged money suppliers.
-
-◼️
-
-[Data](articles/4ae7bcd0.json)
-
-[Extended Data](ext_articles/4ae7bcd0.ext.json)
-
----
-
-### Eight million Presidential Palaces
-
-*2025-09-26 09:57:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-මන්දිර-අටක්-නඩත්තුවට-කෝටි-අටක්/11-418733) · `si`
-
-It has been revealed that the Presidential Secretariat has spent Rs.
-
-392 security personnel in the President's House and 16 civil servants were employed. Thirty, forty-or-forty, forty, forty, forty, forty, forty, forty, forty, forty-or-forty-year, had been spent on 16 civil servants.
-
-The audit report included in the Annual Performance Report issued by the Presidential Secretariat.
-
-◼️
-
-[Data](articles/c9537790.json)
-
-[Extended Data](ext_articles/c9537790.ext.json)
-
----
-
-### Trump announces 100% tariff on branded or patented pharmaceutical imports from Oct 1
-
-*2025-09-26 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112929/trump-announces-100-tariff-on-branded-or-patented-pharmaceutical-imports-from-oct-1) · `en`
-
-United States President Donald Trump announced on Thursday (Sep 25) new tariffs on pharmaceuticals, big-rig trucks, home renovation fixtures and furniture.
-
-Starting Oct 1, “we will be imposing a 100 per cent tariff on any branded or patented pharmaceutical product, unless a company IS BUILDING their pharmaceutical manufacturing plant in America”, the Republican wrote on his Truth Social platform.
-
-In a separate post, he wrote of a 25 per cent tariff on “all ‘heavy (big) trucks’ made in other parts of the world” to support US manufacturers such as “Peterbilt, Kenworth, Freightliner, Mack Trucks and others”.
-
-He said the truck tariffs were “for many reasons, but above all else, for national security purposes”.
-
-Earlier this year, the Trump administration launched a probe into imports of trucks to “determine the effects of national security”.
-
-...
-
-[Data](articles/a72d5646.json)
-
-[Extended Data](ext_articles/a72d5646.ext.json)
-
----
-
-### External degree quality attention
-
-*2025-09-26 09:52:27* · [`adalk`](https://www.ada.lk/breaking_news/බාහිර-උපාධිවල-ගුණාත්මකභාවය-අවාධානයට/11-418732) · `si`
-
-The Deputy Committee on Higher Education Division discussed several issues related to the University of Sri Lanka with the University Vice Chancellors.
-
-The discussion was held at the Chairman of the Hon. Deputy Minister (Dr.) Madura Seneviratne met in parliament recently.
-
-The University Grants Commission (UGC) pointed out that the draft of the policy has already been completed and completed.. Accordingly, the Draft Commission said that the draft will be given to the University Vice Chancellor.
-
-...
-
-[Data](articles/d53b0142.json)
-
-[Extended Data](ext_articles/d53b0142.ext.json)
 
 ---

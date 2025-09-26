@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 10:38:14**
+As of **2025-09-26 11:07:32**
 
 ## Newspaper Stats
 
-*Scraped **78,223** Articles*
+*Scraped **78,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,602
+adalk | 7,603
 adaderanalk | 10,165
-tamilmirrorlk | 11,789
+tamilmirrorlk | 11,791
 virakesarilk | 12,729
 adaderanasinhalalk | 13,663
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 13,663
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,223 (100.0%) of 78,223 articles have been extended.
+78,223 (100.0%) of 78,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### கோழி லொறி மீது மோதிய காட்டு யானை
+
+*2025-09-26 10:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-லொறி-மீது-மோதிய-காட்டு-யானை/175-365310) · `ta`
+
+தம்புள்ளை ரிடியெல்ல பகுதியில் கோழிகளை ஏற்றிச் சென்ற லொறி மீது காட்டு யானை மோதியதில் லொறி கவிழ்ந்து, ஏராளமான கோழிகள் சாலையில் இறந்து கிடந்ததாக வனவிலங்குத் துறை தெரிவித்துள்ளது.
+
+லொறி தம்புள்ளையிலிருந்து பகமுன நோக்கிச் சென்று கொண்டிருந்தபோது காட்டு யானை ஒன்று சாலையைக் கடக்கும்போது இந்த விபத்து ஏற்பட்டதாக லொறியில் பயணித்த ஒரு தொழிலாளி தெரிவித்தார்.
+
+காட்டு யானை மோதியதில் வாகனம் கவிழ்ந்து சாலையை விட்டு விலகிச் சென்றதாகவும் அவர் கூறினார். விபத்தில் ஏராளமான கோழிகள் இறந்திருப்பது தெரிந்தது. உயிருடன் இருந்த மற்ற கோழிகளும் சாலையில் கிடந்தன
+
+◼️
+
+[Data](articles/5536882b.json)
+
+---
+
+### ஒல்கொட் மாவத்தையில்‌ பேருந்து மீது முறிந்து விழுந்த மரம்
+
+*2025-09-26 10:36:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒல்கொட்-மாவத்தையில்-பேருந்து-மீது-முறிந்து-விழுந்த-மரம்/175-365309) · `ta`
+
+கொழும்பு - ஒல்கொட் மாவத்தையில் இன்று (26) காலை பேருந்து ஒன்றின் மீது மரம் முறிந்து விழுந்ததில் விபத்து ஏற்பட்டது.
+
+◼️
+
+[Data](articles/4678be6d.json)
+
+---
+
+### හැටන් කුඩාගම නිවාස රැසක් නායයෑමේ අවධානමක
+
+*2025-09-26 09:47:04* · [`adalk`](https://www.ada.lk/breaking_news/හැටන්-කුඩාගම-නිවාස-රැසක්-නායයෑමේ-අවධානමක/11-418731) · `si`
+
+හැටන් කුඩාගම ප්‍රදේශයේ නිවාස රැසක් ප්‍රදේශයේ පවතින දැඩි අයහපත් කාළගුණයත් සමග තම නිවාස නායයෑමේ අවධානමක ලක් වී ඇති බව පීඩාවට පත් වී සිටින එම නිවාස වල පදිංචිකරුවන් කියා සිටියි.
+
+හැටන් නුවරඑලිය ප්‍රධාන මාර්ගය කාපට් අතුරා ප්‍රතිසංස්කරණය කල අවස්ථාවේ කොටසකට පමණක් ආරක්ෂිත පැති බැම්මක් ඉදි කලද ප්‍රධාන මාර්ගයේ සිට එම නිවාස වලට පිවිසිමට ඇති පියගැටපෙළ මාර්ගයේ එම නිවාස වල පදිංචිකරුවන් එක්ව ඉතිරි කොටසටද ආරක්ෂිත පැති බැම්මක් ඉදි කලද එම ආරක්ෂිත පැති බැම්ම පවතින වර්ෂාවත් සමග සම්පූර්ණයෙන්ම කඩා වැටී ඇති බවයි පීඩාවට පත් පදිංචිකරුවන් කියා සිටියේ.
+
+ආරක්ෂිත පැති බැම්ම කැඩී යාම හේතුවෙන් තම නිවාස අසළම විශාල වශයෙන් පොළව ඉරි තලා ඇති බවත්, එම ස්ථානවලින් වැසි ජලය කාන්දු වීම නිසා ප්‍රධාන මාර්ගයට තම ඉඩම සහ නිවාස නායයෑමේ දැඩි අවධානමක් පවතින නිසා තමන්ට අලුතින් ආරක්ෂිත පැති බැම්මක් ඉදි කිරිමට ආර්ථික පහසුකම් නොමැති නිසා කඩිනමින් ශක්තිමත් ආරක්ෂිත පැති බැම්මක් සකස් කර දෙන ලෙසයි හැටන් කුඩාගම පදිංචිකරුවන් කියා සිටින්නේ.
+
+...
+
+[Data](articles/398e213c.json)
+
+---
 
 ### Troops fall on a bus at Olcott Mawatha
 
@@ -1939,63 +1983,5 @@ In this case, the police threw tear gas and dispersed the protesters. 4 people d
 [Data](articles/f19a0937.json)
 
 [Extended Data](ext_articles/f19a0937.ext.json)
-
----
-
-### Supreme Court Notification of Express Pearl Compensation
-
-*2025-09-25 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214999) · `si`
-
-එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළව ගොනු කෙරුණු මූලික අයිතිවාසිකම් නඩුකරවලදී ගෙවෙන ලෙස නියම කෙරුණු වන්දි මුදල් ගෙවීම පැහැර හැරීම සම්බන්ධයෙන් එම නෞකාවේ විදේශීය සමාගමට එරෙහිව ගත හැකි නීතිමය ක්‍රියාමාර්ග පිළිබඳ සොයාබලා ලබන ජනවාරි මස 26 වනදා අධිකරණයට කරුණු දක්වන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (25) නීතිපතිවරයාට නියම කළේය.
-
-The order was issued when the petitions were taken up today to look into the orders issued by the relevant fundamental rights petitions.
-
-◼️
-
-[Data](articles/9bfa36f5.json)
-
-[Extended Data](ext_articles/9bfa36f5.ext.json)
-
----
-
-### New Hurricanes in the Philippines: Schools, Airlines cancel
-
-*2025-09-25 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
-
-Following the death of nine people in the Philippines, the country's schools have been shut down and the flights have been canceled today (September 25).
-
-It has been predicted that severe tornadoes intensify tomorrow (Friday) and then hit the southern tip of Lusone, the largest island of the Philippines.
-
-The Department of Meteorology has reported that there will be widespread floods and landslides in the highlands.
-
-Scientists say the storms are very strong as the world is warming due to the effects of human -driven climate change.
-
-The Philippines Coast Guard said that about 1,500 people were trapped in the ports of Pikol.
-
-◼️
-
-[Data](articles/dbd1c11a.json)
-
-[Extended Data](ext_articles/dbd1c11a.ext.json)
-
----
-
-### Ex-President Ranil extends condolences over tragic accident at Na Uyana Monastery
-
-*2025-09-25 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112914/ex-president-ranil-extends-condolences-over-tragic-accident-at-na-uyana-monastery-) · `en`
-
-Former President Ranil Wickremesinghe has expressed his condolences over the passing of several local and foreign Buddhist monks in the tragic accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura.
-
-In an official statement, he also extended his wishes for a speedy recovery to the monks who were injured in the accident and are currently receiving treatment in the hospital.
-
-He further noted that the venerable Buddhist monks, who dedicated their lives in the forest to ending worldly suffering, had gone forth to share the Buddha’s teachings on impermanence.
-
-Concluding his message, the former President said he prays that the deceased clergy members attain the bliss of nirvana.
-
-◼️
-
-[Data](articles/98976307.json)
-
-[Extended Data](ext_articles/98976307.ext.json)
 
 ---

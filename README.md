@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 13:40:27**
+As of **2025-09-26 12:55:41**
 
 ## Newspaper Stats
 
-*Scraped **78,261** Articles*
+*Scraped **78,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,85 +18,19 @@ islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,605
 adaderanalk | 10,174
-tamilmirrorlk | 11,799
-virakesarilk | 12,738
+tamilmirrorlk | 11,797
+virakesarilk | 12,736
 adaderanasinhalalk | 13,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,247 (100.0%) of 78,261 articles have been extended.
+78,247 (100.0%) of 78,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### ”பைத்தியங்களின் கேள்விக்கு பதிலளிக்க முடியாது”
-
-*2025-09-26 12:51:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைத்தியங்களின்-கேள்விக்கு-பதிலளிக்க-முடியாது/175-365320) · `ta`
-
-எனக்கு பதிலளிக்க நேரத்தை தரவும் இல்லை​என்றால், குழப்பம் விளைவிக்கும் நபர்களை சபையில் இருந்து வெளியேற்றவும் என்றும் கேட்டுக்கொண்ட சபை முதல்வர் அமைச்சர் பிமல் ரத்நாயக்க, பைத்தியங்களின் கேள்விக்கு பதிலளிக்க முடியாது.
-
-பாராளுமன்றத்தில் இன்று (26) முன்னதாக கேள்வியெழுப்பிய யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் ராமநாதன் அர்ச்சுனா, யாழ். மாவட்டத்தில் செய்த அபிவிருத்தி திட்டங்களின் ஒன்றை கூறுமாறு கேட்டார்.
-
-இதனிடையே அமைச்சின் அறிக்கையை வாசிப்பதற்காக, அமைச்சர் பிமல் ரத்நாயக்கவின் பெயரை, சபாநாயகர் அழைத்தார்.
-
-எனினும், சுஜீவ உங்களையும் அந்த வாட்டுக்குத்தான் அனுப்ப வேண்டும் என அமைச்சர் பிமல் கூறினார்.
-
-மறுபுறத்தில் இருந்த சுஜீவ, எந்த வாட்டுக்கு என்று கேட்க, பின்னர் கூறுகிறேன் என்றார் பிமல்,
-
-எனினும், பைத்தியங்களின் கேள்விக்கு என்னால் பதிலளிக்க முடியாது என்றும், சபையில் குழப்பங்களை ஏற்படுத்தும் நபர்களை உடனடியாக வெளியேற்றுமாறும் கேட்டுக்கொண்டார்.
-
-◼️
-
-[Data](articles/5363c123.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-09-26 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226132) · `ta`
-
-இன்று வெள்ளிக்கிழமை (26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.1151 ஆகவும் கொள்வனவு விலை ரூபா 298.8679 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-இலங்கை மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள இன்றைய (26.09.2025) நாணய மாற்று விகிதங்கள் வருமாறு,
-
-◼️
-
-[Data](articles/3e69f6a3.json)
-
----
-
-### நாமலுக்கு எதிரான “கிரிஷ்“ வழக்கு ; நீதிமன்றம் பிறப்பித்த உத்தரவு!
-
-*2025-09-26 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226128) · `ta`
-
-பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவுக்கு எதிரான  “கிரிஷ்“ வழக்கு தொடர்பில் கோட்டை நீதவான் நீதிமன்றில் உள்ள வழக்கு அறிக்கையை டிசம்பர் 18 ஆம் திகதிக்கு முன்னர் நீதிமன்றில் சமர்ப்பிக்குமாறு பதிவாளரிடம் கொழும்பு மேல் நீதிமன்றம் இன்று வெள்ளிக்கிழமை (26) உத்தரவிட்டுள்ளது.
-
-நாமல் ராஜபக்ஷ இலங்கையில் ரக்பியை ஊக்குவிப்பதற்காக, இந்தியாவின்  ‘கிரிஷ்’ நிறுவனத்திடமிருந்து 70 மில்லியன் ரூபாயினை பெற்று பணமோசடி தடுப்புச் சட்டத்தின் கீழ் குற்றம் செய்ததாக சட்டமா அதிபர் நீதிமன்றில் வழக்கு தாக்கல் செய்துள்ளார்.
-
-வழக்கை பரிசீலனை  செய்த நீதவான், இந்த வழக்கு டிசம்பர் 18 ஆம் திகதி மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்படும் எனவும் கோட்டை நீதவான் நீதிமன்றத்திலிருந்து வழக்கு அறிக்கையை சமர்ப்பிக்குமாறும் உத்தரவிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/a06296db.json)
-
----
-
-### ”யாழ்ப்பாணம் வெற்றிலை பெட்டியல்ல”
-
-*2025-09-26 12:44:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-வெற்றிலை-பெட்டியல்ல/175-365319) · `ta`
-
-இந்த அரசாங்கத்தால் யாழ்ப்பாணத்தில் செய்த ஒரு அபிவிருத்தி திட்டத்தை கூறுமாறு கேட்ட யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் ராமநாதன் அர்ச்சுனா, யாழ்ப்பாணம் வெற்றிலை பெட்டி அல்ல என்றார்.
-
-சும்மா, ஆ காட்டுறது பே காட்டுறதை யாழ்ப்பாணத்தில் காட்டக் கூடாது. யாழ்ப்பாணம் அவரவ வெற்றிலை பெட்டி அல்ல, வரநேரமும் போரநேரமும் சாப்பிடுறதுக்கு அபிவிருத்தி செய்யப்பட்ட ஒரு வேலையை சொல்லுங்க, மாவட்ட அபிவிருத்தி கூட்டத்தில் எடுக்கப்பட்ட தீர்மானங்கள் நடைபெற்றது என்று ஒரு வேலையை கூறுங்கள் என்றார்.
-
-◼️
-
-[Data](articles/7e81d96a.json)
-
----
 
 ### பேத்திக்கு சோறு ஊட்டிய பாட்டியின் தங்க நகை அபகரிப்பு
 
@@ -162,7 +96,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසි වාරයට සහභාගි වීම සඳහා සිදුකළ අමෙරිකා එක්සත් ජනපදයේ සංචාරය සාර්ථකව නිම කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානය බලා පිටව ගොස් තිබේ.
 
-ඊයේ (25) රාත්‍රියේ  ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජනාධිපතිවරයා ජපානය බලා පිටත්ව ගොස් ඇත.
+ඊයේ (25) රාත්‍රියේ  ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජපානය බලා පිටත්ව ගොස් ඇත.
 
 ජපන් රජයේ ආරාධනයකට අනුව, ජනාධිපතිවරයා සැප්තැම්බර් 27 වන දින සිට 30 වන දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
 
@@ -1939,5 +1873,71 @@ Prime Minister Harini Amarasuriya is due to visit China in November.
 [Data](articles/073abfaf.json)
 
 [Extended Data](ext_articles/073abfaf.ext.json)
+
+---
+
+### No -confidence motion against the Speaker
+
+*2025-09-25 19:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லாப்-பிரேரணை/175-365286) · `ta`
+
+The United People's Power (SJB) has said that Speaker Jagath Wickramaratne will bring a no -confidence motion against him, accusing him of being unworthy of the recent parliamentary procedures.
+
+United People's Power Member of Parliament, Ajith B.. Perera accused the Speaker of rejecting the previously submitted no -confidence motion without any justification.
+
+Perera said that such behavior was undermined to democratic policies and that parliamentary responsibility was corrooteed.
+
+◼️
+
+[Data](articles/c3897afb.json)
+
+[Extended Data](ext_articles/c3897afb.ext.json)
+
+---
+
+### Stark Realities Of A Medieval Genocide Hidden By Mainstream Media
+
+*2025-09-25 19:43:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/stark-realities-of-a-medieval-genocide-hidden-by-mainstream-media/) · `en`
+
+Little boys whose hands and parts of their face or torso are being blown off from booby-trapped cans of food that soldiers had left behind for starving children; soldiers who leave behind, poisoned food for a starving people to eat, booby-trapped toys that explode when excited children picked them up are promoted as the world’s most moral army.
+
+The harm they have been doing is diabolical, and yet, they expect you to believe they are the victims. Invoking a long-forgotten holocaust and screaming discrimination, they expect you to suspend fundamental human reason to believe that the daily sniping of children with so called “kill shots” to the head or chest and the bombing of entire neighbourhoods that bury families alive and wipe out whole bloodlines is self-defence and just.
+
+...
+
+[Data](articles/3c33188d.json)
+
+[Extended Data](ext_articles/3c33188d.ext.json)
+
+---
+
+### Understanding The Pitfalls In Marketing Carbon
+
+*2025-09-25 19:35:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/understanding-the-pitfalls-in-marketing-carbon/) · `en`
+
+It is a tragedy that we still follow the line expounded by the carbon emitters and polluters of the environment. We have accepted a high debt and fossil dependency scenario as the indicator of ‘Economic Development’. Our concerns with adaptation to the ongoing climate changes brought about by our own actions, seem to be minimal. The current disasters of fishermen getting caught in an sudden, random, wind events, are a foretaste of things to come. Sudden violent downpours that strip and erode the soil or delays in rain bearing winds that create harsh drought conditions, will become more frequent. The ‘climate affected’ population will grow with every event. We are witnessing the thin edge of the wedge.
+
+...
+
+[Data](articles/f37c6ccb.json)
+
+[Extended Data](ext_articles/f37c6ccb.ext.json)
+
+---
+
+### The president today. Meets the general secretary
+
+*2025-09-25 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226087) · `ta`
+
+President Anura Kumara Dissanayake and the United Nations visited New York to attend the 80th General Assembly of the United Nations. The meeting between General Secretary António Guterres will be held on Thursday night (25).
+
+President Anura Kumara Dissanayake will also attend a meeting with Sri Lankans living in the United States on Thursday (25).
+
+Meanwhile, Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath is also to attend several diplomatic meetings today.
+
+◼️
+
+[Data](articles/dae8c727.json)
+
+[Extended Data](ext_articles/dae8c727.ext.json)
 
 ---

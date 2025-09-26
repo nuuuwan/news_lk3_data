@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 09:23:02**
+As of **2025-09-26 09:56:51**
 
 ## Newspaper Stats
 
-*Scraped **78,211** Articles*
+*Scraped **78,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,601
-adaderanalk | 10,163
-tamilmirrorlk | 11,787
-virakesarilk | 12,724
-adaderanasinhalalk | 13,661
+adaderanalk | 10,165
+tamilmirrorlk | 11,789
+virakesarilk | 12,728
+adaderanasinhalalk | 13,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,211 (100.0%) of 78,211 articles have been extended.
+78,217 (100.0%) of 78,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2025-09-26 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215022) · `si`
+
+◼️
+
+[Data](articles/71f9e327.json)
+
+---
+
+### பல பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை
+
+*2025-09-26 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-365306) · `ta`
+
+நிலவும் சீரற்ற காலநிலை காரணமாக நாட்டின் பல மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அதன்படி, காலி மற்றும் இரத்தினபுரி மாவட்டங்களுக்கு முதலாம் நிலை மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+களுத்துறை மற்றும் மாத்தறை மாவட்டங்களுக்கு இரண்டாம் நிலை மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாகத் தேசிய கட்டட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/6c9c6433.json)
+
+---
+
+### புகையிரத சேவைகளில் தாமதம்
+
+*2025-09-26 09:20:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவைகளில்-தாமதம்/175-365305) · `ta`
+
+அம்பேபுஸ்ஸ பேருந்து நிலையம் அருகே உள்ள புகையிரதம் ஒன்றில் தொழில்நுட்பக் கோளாறு ஏற்பட்டுள்ளது.
+
+இதன் காரணமாக பிரதான மார்க்கத்திலான புகையிரத சேவைகளில் தாமதங்கள் ஏற்படக்கூடும் என்று புகையிரத திணைக்களம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/1dbb412b.json)
+
+---
+
+### Hambantota port investment is not aimed at militarization - Chinese diplomat. Huang Unsong
+
+*2025-09-26 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226100) · `ta`
+
+Stories like 'pearls string' misrepresent Chinese investments for the Indian Ocean region. For example, in the Quader port in Karachi, $ 1.6 billion in Karachi, $ 2 billion in Hambantota and multi -billion dollars in Gibouti, all of which are aimed at improving commercial connectivity and local economies, not aimed at militarization of the region, and the Deputy Director of the South Asian Study University.. Huang Unsong said.
+
+He said this while addressing the 12th vacancies.
+
+While the world faced geopolitical changes, economic conditions and environmental challenges in 2025, the Indian Ocean, which is bordered by more than 30 countries, became the lifeline of global trade, with over 30 countries.. About 75 mates in the world maritime oil trading takes place this way. It is a very important global route that connects Africa's resources and the markets of Europe.
+
+...
+
+[Data](articles/1d3d7f56.json)
+
+[Extended Data](ext_articles/1d3d7f56.ext.json)
+
+---
+
+### Accident in the Jaffna Sawakcheri Police Division; Youth kills!
+
+*2025-09-26 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226099) · `ta`
+
+One person was killed when two motorcycles collided with a 304th kilometer pillar on A-09 road under the Chavakachcheri police division.
+
+The motorcycle traveling from Chavakachcheri to Jaffna crashed into the opposite direction with another motorcycle.
+
+After the two injured were admitted to the Chavakachcheri Hospital, one of them died without treatment.
+
+The victim was a 21 -year -old youth from Meesalai, police said.
+
+◼️
+
+[Data](articles/d80833c5.json)
+
+[Extended Data](ext_articles/d80833c5.ext.json)
+
+---
+
+### Accident in Teldeniya; Woman dies!
+
+*2025-09-26 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226098) · `ta`
+
+A pedestrian was killed when a bus crashed into a pedestrian in the Kengalla area of ​​Kandy -Padiyathalawa road, which belongs to the Teldeniya police division.
+
+He died after being admitted to the Teldeniya Hospital after being seriously injured in the accident.
+
+The deceased is a 55 -year -old woman from Balagolla, police said.
+
+The body is placed in the Teldeniya Hospital. Teldeniya police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/091271ef.json)
+
+[Extended Data](ext_articles/091271ef.ext.json)
+
+---
 
 ### Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch
 
@@ -54,6 +152,26 @@ Fitch Ratings – Colombo/Singapore: Fitch Ratings has assigned Sri Lanka-based 
 
 ---
 
+### Sri Lanka to regain 2019 economic status by next year - President
+
+*2025-09-26 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112927/sri-lanka-to-regain-2019-economic-status-by-next-year-president) · `en`
+
+President Anura Kumara Dissanayake has announced that Sri Lanka is on course to restore its economy to the level it was in 2019, prior to the financial crisis, by next year.
+
+The President made this statement while addressing members of the Sri Lankan community in the United States during his visit to New York for the 80th Session of the United Nations General Assembly (UNGA).
+
+He noted that although Sri Lanka declared bankruptcy in 2022, the country has since made rapid progress in overcoming the crisis.
+
+President Dissanayake also underscored the role of Sri Lankans living abroad, highlighting their financial and moral support during the 2024 presidential and 2025 general elections. He further said that their contribution played a vital role in their victory.
+
+...
+
+[Data](articles/076a7372.json)
+
+[Extended Data](ext_articles/076a7372.ext.json)
+
+---
+
 ### 100mm of rain in 24 hours
 
 *2025-09-26 08:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-100-மில்லி-மீற்றர்-மழை/175-365304) · `ta`
@@ -69,6 +187,30 @@ Rainfall is expected in the North Central Province, Matale, Mannar and Jaffna di
 [Data](articles/f6567424.json)
 
 [Extended Data](ext_articles/f6567424.ext.json)
+
+---
+
+### Landslide warnings issued for several areas in five districts
+
+*2025-09-26 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112926/landslide-warnings-issued-for-several-areas-in-five-districts) · `en`
+
+Early landslide warnings have been issued for multiple areas in five districts as heavy rainfall continues in parts of the island.
+
+Landslide warnings have been in effect from 10:00 p.m. yesterday (25) and will remain in effect until 10:00 p.m. today (26), the National Building Research Organisation (NBRO) said.
+
+Accordingly, a Level 2 (Amber)) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Kalutara and Matara districts as follows:
+
+Meanwhile, a Level 1 (Yellow) warning has been issued for several areas in the following districts:
+
+Galle: Nagoda, Elpitiya, Baddegama, Yakkalamulla Divisional Secretariat DSD and surrounding areas.
+
+Ratnapura: Elapatha, Kalawana, Pelmadulla Divisional Secretariat DSD and surrounding areas.
+
+◼️
+
+[Data](articles/b3e323bd.json)
+
+[Extended Data](ext_articles/b3e323bd.ext.json)
 
 ---
 
@@ -121,6 +263,28 @@ In the meantime, 835 kg 800 grams of beedi leaves, 635 kg 600 grams of agricultu
 [Data](articles/cae9e50b.json)
 
 [Extended Data](ext_articles/cae9e50b.ext.json)
+
+---
+
+### Three persons arrested for fake documents
+
+*2025-09-26 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226097) · `ta`
+
+Bambalapitiya Police Station officials have arrested two suspects for allegedly deceiving people for allegedly sending them to Canada.
+
+Investigations have revealed that the arrested male suspect is 69 years old.
+
+The two women, aged 26 and 68, have been arrested in Konakanara and Borella, police said.
+
+3,831,000 and Rs 3,436,000 have been defrauded for allegedly sending it to Canada.
+
+In addition, the Bambalapitiya police are investigating whether these suspects are involved in other crimes.
+
+◼️
+
+[Data](articles/b5c2cb66.json)
+
+[Extended Data](ext_articles/b5c2cb66.ext.json)
 
 ---
 
@@ -1658,6 +1822,8 @@ The MP further stated that the Speaker refused to say that it was not denied the
 
 *2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
 
+While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
+
 Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
 
 The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
@@ -1665,8 +1831,6 @@ The arrests come amid public fury over reckless behaviour during the storm, whic
 The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
 
 Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
-
-The situation turned critical in an instant when a monstrous wave, several metres high, breached the sea wall. The powerful surge completely engulfed the trio, washing them off their feet and onto the pavement behind a barrier.
 
 ...
 
@@ -1847,197 +2011,5 @@ He urged the authorities to immediately address these shortcomings in order to e
 [Data](articles/0d690aae.json)
 
 [Extended Data](ext_articles/0d690aae.ext.json)
-
----
-
-### மனுஷ நாணயக்காரவுக்கு அழைப்பாணை
-
-*2025-09-25 15:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்காரவுக்கு-அழைப்பாணை/175-365272) · `ta`
-
-Former Labor and Foreign Employment Minister Manusha Nanayakkara has been summoned to appear in the Commission to Investigate Bribery or Corruption.
-
-CIABOC said he was ordered to appear before the Commission at 9.30 am tomorrow (26).
-
-◼️
-
-[Data](articles/7d26b85e.json)
-
-[Extended Data](ext_articles/7d26b85e.ext.json)
-
----
-
-### Invitations to Manusha Nanayakkara by Bribery Commission
-
-*2025-09-25 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226056) · `ta`
-
-தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவுக்கு இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவில் ஆஜராகுமாறு அழைப்பாணை அனுப்பப்பட்டுள்ளது.
-
-The Bribery Commission said he was ordered to appear before the Commission tomorrow (26) at 9.30 am.
-
-◼️
-
-[Data](articles/efcf8098.json)
-
-[Extended Data](ext_articles/efcf8098.ext.json)
-
----
-
-### Introducing the new adventure game at the Lotus Tower in Colombo in 2026
-
-*2025-09-25 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226054) · `ta`
-
-Funky jumping (jumping game by rope) will be introduced at the Lotus Tower in Colombo in 2026.
-
-Sri Lanka's Lotus Tower is expected to attract South Asia's first funky jump by 2026.
-
-The scheme is currently in the phase of planning and engineering under the contract between structural engineers and the technical team of the tower.
-
-Shiranda Peiris, president of the Lotus Tower Management Company, said that it is aimed at promoting tourism, technology, technology, adventure and entertainment of South Asia.
-
-He stressed that priority will be given priority for security measures and that the project is not under the Ministry of Sports but also commercial.
-
-It is expected to attract international attention and strengthen Sri Lanka's adventure tourism industry.
-
-◼️
-
-[Data](articles/02c5630e.json)
-
-[Extended Data](ext_articles/02c5630e.ext.json)
-
----
-
-### Special testing activities across the country!
-
-*2025-09-25 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226053) · `ta`
-
-About 1,006 suspects have been arrested on Wednesday (24) only on Wednesday (24) during crimes and drug prevention.
-
-Accordingly, all the regional police at the regional level; Special activities have been implemented.
-
-Accordingly, 28,669 people have been checked by the police. About 1,006 people have been arrested on suspicion.
-
-31 people have been directly identified in connection with further crimes. 378 persons have been arrested on the occasion and 223 on the occasion.
-
-At the same time, 63 persons have been arrested on charges of driving and 20 for negligence.
-
-4364 people have been arrested for other traffic crimes, the police media unit said.
-
-◼️
-
-[Data](articles/8c89f274.json)
-
-[Extended Data](ext_articles/8c89f274.ext.json)
-
----
-
-### Philippines cancels classes, flights as new storm looms
-
-*2025-09-25 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112913/philippines-cancels-classes-flights-as-new-storm-looms) · `en`
-
-The Philippines shut schools and scrapped flights on Thursday (Sep 25) as a fresh storm threatened to hit just days after a super typhoon killed nine people in the archipelago.
-
-Severe Tropical Storm Bualoi is forecast to intensify into a typhoon on Friday and then slam into the southern end of the Philippines’ largest island, Luzon.
-
-“Widespread flooding and landslides in mountainous areas are possible,” Benison Estareja from the nation’s weather service told a briefing.
-
-The Philippines is hit by an average of 20 storms and typhoons each year, putting millions of people in disaster-prone areas in a state of constant poverty.
-
-Scientists warn that storms are becoming more powerful as the world warms due to the effects of human-driven climate change.
-
-Authorities warned of a “high risk of life-threatening storm surge” of up to 3m with the coming storm.
-
-The Philippine Coast Guard said around 1,500 people were stranded in ports of Bicol, the region where the typhoon is forecast to hit.
-
-...
-
-[Data](articles/84b4f8a2.json)
-
-[Extended Data](ext_articles/84b4f8a2.ext.json)
-
----
-
-### Ranil condolences on behalf of the monks
-
-*2025-09-25 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214996) · `si`
-
-Former President Ranil Wickremesinghe says that the deceit monks have expressed their condolences to all who have been able to express their condolences to all who have been killed by the Uyana Aranya Senasana.
-
-The former President made this statement in a statement.
-
-The former President has wishes the monks who are injured in the accident and is a speedy recovery.
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe, revealed that they were departed to endangered the sanctuary.
-
-The former President has sent a Nirvana healing of Nirvana healing the monks who was unbeaten.
-
-◼️
-
-[Data](articles/f035ebb6.json)
-
-[Extended Data](ext_articles/f035ebb6.ext.json)
-
----
-
-### No-confidence motion against Speaker
-
-*2025-09-25 14:57:45* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහිව-විශ්වාසභංගයක්/11-418720) · `si`
-
-Parliamentarian Medical Jagath Wickramaratne is not eligible to bear the post and has decided to bring a no-confidence motion against the Speaker.. Mr. Perera said.
-
-He said this in parliament today (25).
-
-◼️
-
-[Data](articles/f4829a2a.json)
-
-[Extended Data](ext_articles/f4829a2a.ext.json)
-
----
-
-### Former French President Nicolas Sarkozy found guilty of criminal conspiracy in Libya case
-
-*2025-09-25 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112912/former-french-president-nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-case) · `en`
-
-Former French President Nicolas Sarkozy has been found guilty of criminal conspiracy in a case related to taking millions of euros of illicit funds from the late Libyan leader Col Muammar Gaddafi.
-
-The Paris criminal court acquitted him of all other charges, including passive corruption and illegal campaign financing.
-
-Sarkozy, who claims the case is politically motivated, was accused of using the funds from Gaddafi to finance his 2007 election campaign.
-
-In exchange, the prosecution alleged Sarkozy promised to help Gaddafi combat his reputation as a pariah with Western countries.
-
-The investigation was opened in 2013, two years after Saif al-Islam, son of the then-Libyan leader, first accused Sarkozy of taking millions of his father’s money for campaign funding.
-
-...
-
-[Data](articles/2a7dd487.json)
-
-[Extended Data](ext_articles/2a7dd487.ext.json)
-
----
-
-### There are reports that unidentified drones are visible at many airports in Denmark
-
-*2025-09-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226052) · `ta`
-
-International media reports that unidentified drones are reported to have been reported at several airports in Denmark.
-
-The Danish police have confirmed that drones were seen in three small airports early Thursday (25) morning.
-
-The Copenhagen Airport, Denmark's main airport, has been temporarily closed, and the Albark Airport used for commercial and military aircraft is currently closed.
-
-Recent incidents, associated with drones and aircraft in Estonian, Polish and Romanian airspace, have led to allegations that Russia is testing NATO protection.
-
-Denmark police said they were investigating the backdrop and could not reject a funny.
-
-More than one drones have been found near the country's fourth largest city in the country, based on population, located in Jatland, North Denmark, a police report said.
-
-The incidents of drones in Alborg were reported to have been stopped at the Copenhagen airport for 4 hours at the Copenhagen airport on Monday.
-
-...
-
-[Data](articles/4d468388.json)
-
-[Extended Data](ext_articles/4d468388.ext.json)
 
 ---

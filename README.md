@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 19:37:21**
+As of **2025-09-26 19:12:40**
 
 ## Newspaper Stats
 
-*Scraped **78,655** Articles*
+*Scraped **78,633** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 254
-newsfirstlk | 428
+newsfirstlk | 426
 dbsjeyarajcom | 634
-bbccomsinhala | 704
+bbccomsinhala | 703
 colombotelegraphcom | 792
 economynextcom | 4,719
 dailymirrorlk | 4,733
@@ -19,251 +19,19 @@ islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,613
 adaderanalk | 10,179
-tamilmirrorlk | 11,816
+tamilmirrorlk | 11,806
 virakesarilk | 12,739
-adaderanasinhalalk | 13,687
+adaderanasinhalalk | 13,678
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,473 (99.8%) of 78,655 articles have been extended.
+78,471 (99.8%) of 78,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### பகிடிவதை விவகாரம் : மாணவர்களுக்கு விளக்கமறியல்
-
-*2025-09-26 19:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதை-விவகாரம்-மாணவர்களுக்கு-விளக்கமறியல்/175-365341) · `ta`
-
-வயம்ப பல்கலைக்கழகத்தில் இளநிலை மாணவர் ஒருவருக்கு பகிடிவதை செய்ததாக கூறப்படும் நான்கு மாணவர்களை செப்டெம்பர் 29ஆம் திகதி விளக்கமறியலில் வைக்கமாறு குளியாப்பிட்டிய நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-வயம்ப பல்கலைக்கழகத்தில் இளநிலை மாணவர் ஒருவருக்கு பகிடிவதை செய்த குற்றச்சாட்டில் அதே பல்கலைக்கழகத்தில் கல்வி கற்கும் நான்கு மாணவர்கள் கைதுசெய்யப்பட்டமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/0c6249d1.json)
-
----
-
-### Sri Lanka to Launch New Support System for Families of the Disappeared
-
-*2025-09-26 18:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-launch-new-support-system-for-families-of-the-disappeared) · `en`
-
-...
-
-[Data](articles/999d70cd.json)
-
----
-
-### සීනිමෝදර සිද්ධිය සම්බන්ධව අත්අඩංගුවට ගත් 16 හැවිරිදි සැකකරු රඳවා ප්‍රශ්න කිරීමට අවසර
-
-*2025-09-26 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215048) · `si`
-
-තංගල්ල සීනිමෝදර ප්‍රදේශයේදී මත්ද්‍රව්‍ය සොයාගත් නිවසේ සිටියදී රෝහල් ගත කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්වූ පුද්ගලයාගේ පුත්‍රයෙකු රඳවා තබා ගෙන ප්‍රශ්න කිරීමට අධිකරණය පොලීසියට අවසර ලබා දී තිබේ.
-
-ඒ 16 හැවිරිදි එම පුත්‍රයා අද (26) දිනයේ තංගල්ල මහේස්ත්‍රාත්වරයා වෙත ඉදිරිපත් කිරීමෙන් අනතුරුවය.
-
-ඒ අනුව සැකකරු ලබන මස 01 වැනි දින දක්වා රඳවා තබා ගෙන ප්‍රශ්න කිරීමට පොලීසියට අවසර ලබා දී තිබේ.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් මිය ගිය පුද්ගලයාගේ පුතුන් දෙදෙනා, අදාළ නිවසේ තිබී සොයාගත් මත්ද්‍රව්‍ය සහිත ලොරිවල හිමිකරුවන් ඇතුළු සැකකරුන් 06 දෙනෙකු මීට පෙර පොලීසිය විසින් අත්අඩංගුවයට ගනු ලැබීය.
-
-ඒ අනුව ඉන් එක් පුත්‍රයෙකු සහ ලොරි රථවල හිමිකරුවන් පසුගිය 24 වැනිදා අධිකරණයට ඉදිරිපත් කළේය.
-
-එහිදී එම පිරිස ලබන 29 වැනි දින දක්වා රඳවා තබාගෙන ප්‍රශ්න කිරීමට අධිකරණය විසින් පොලීසිය අවසර ලබා දී තිබුණි.
-
-◼️
-
-[Data](articles/98b21b82.json)
-
----
-
-### කෝප් කමිටුව ශක්තිමත් කිරීමේ අරමුණින් ස්ථාවර නියෝග සංශෝධනයට යෝජනාවක්
-
-*2025-09-26 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215047) · `si`
-
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී (කෝප් කමිටුව) අනාවරණය වන බරපතළ මූල්‍ය වංචා හෝ දුෂණ ක්‍රියාවන්ට එරෙහිව නෛතික පියවර ගැනීමට අදාළව ස්ථාවර නියෝග සංශෝධනය කිරීම සඳහා යෝජනාවක් අද (26) පාර්ලිමේන්තුවට ඉදිරිපත් කෙරිණි.
-
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතා විසින් පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 137 ප්‍රකාරව දැනට පවතින ස්ථාවර නියෝග 120(4) සංශෝධනය සදහා මෙම යෝජනාව ඉදිරිපත් කර ඇත.
-
-කාරක සභාව වෙත විගණකාධිපතිවරයා විසින් ඉදිරිපත් කරනු ලබන වාර්තා පරීක්ෂා කිරීමේදී බරපතළ මුල්‍ය වංචා හෝ දුෂණ ක්‍රියාවන් සිදුව ඇති බවට නිගමනය කළහොත් ඒ සම්බන්ධයෙන් නීතිමය පියවර ගැනීම සඳහා සෘජුව අල්ලස් හෝ දුෂණ විමර්ශන කොමිෂන් සභාවට හෝ පොලිස්පතිවරයාට යොමු කරනු ලැබිය හැකි බවට මෙමඟින් යෝජනා වී ඇත.
-
-ඒ අනුව මෙම යෝජනාව සළකා බැලීමට ස්ථාවර නියෝග පිළිබඳ කාරක සභාව වෙත යොමු කරන ලද අතර අනතුරුව අදාළ ඉදිරි පියවර ගැනීමට නියමිතය.
-
-◼️
-
-[Data](articles/88499fd8.json)
-
----
-
-### මත්ද්‍රව්‍යවලට ඇබ්බැහි වූ ඊශ්‍රායලයේ සිටි ශ්‍රී ලාංකිකයින් දෙදෙනෙකු යළිත් දිවයිනට හරවා එවයි
-
-*2025-09-26 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215046) · `si`
-
-මත්ද්‍රව්‍යවලට ඇබ්බැහිවීම හේතුවෙන් ශාරීරික හා මානසික අසාමාන්‍යතාවන්ට පත් ඊශ්‍රායලයේ සේවය කරන ශ්‍රමිකයින් දෙදෙනෙකු හෙට (27) දිනයේදී නැවත දිවයිනට එවීමට එරට ශ්‍රී ලංකා තානාපති කාර්යාලය කටයුතු යොදා ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
-
-එම කාර්යාංශය පැවසුවේ ඉන් එක් ශ්‍රමිකයෙකු ඊශ්‍රායල් රැකියා වැඩසටහන යටතේ කාර්යාංශයේ ලියාපදිංචි වී පසුගිය 2024 සැප්තැම්බර් මාසයේදී ඊශ්‍රායල රැකියාවක් සඳහා පිටත්ව ගොස් ඇති අයෙකු බවය.
-
-එහිදී ඔහු පසුගිය මාස 2ක කාලය තුළ තම සේවා ස්ථානයට වාර්තා නොකර ඇති අතර ජෙරුසලමේ සිට ශ්‍රී ලාංකිකයින් පිරිසක් විසින් ඔහු ටෙල්අවිව් නුවරට රැගෙන විත් තිබේ. ඒ අනුව එරට ශ්‍රී ලංකා තානාපති කාර්යාලය මැදිහත්ව කටයුතු කිරීමෙන් අනතුරුව ඔහු දිවයිනට පිටත් කිරීමට කටයුතු යොදා ඇත.
-
-අනෙක් පුද්ගලයා වසර 07ක කාලයත් එරට සේවය කර ඇති අයෙකු වන අතර එහිදී ඔහු දීර්ඝ කාලයක් පුරාවට මත්ද්‍රව්‍යවලට ඇබ්බැහි වී ඇති බවත් නියමිත පරිදී තම සේවා ස්ථානයට වාර්තා කර නොමැති බවත් එම කාර්යාංශය පැවසීය.
-
-...
-
-[Data](articles/c1d5bc71.json)
-
----
-
-### අල්ලස් ගත් තවත් තිදෙනෙකු අත්අඩංගුවට
-
-*2025-09-26 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215045) · `si`
-
-අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් සිදු කරන ලද වැටලීම්වලදී ගොවිජන සංවර්ධන නිලධාරියෙකු, කාර්යාල සේවක සේවයේ නිලධාරියෙකු සහ කාන්තා ආරක්ෂක නිලධාරිනියක අත්අඩංගුවට ගෙන තිබේ.
-
-වැටලීම් 02කට අදාළව මෙම තිදෙනා අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
-
-දෙනියාය ප්‍රදේශයේ පුද්ගලයෙකුට අයත් මාර්ගය ආසන්නයේ ඇති කුඹුරු ඉඩමක කන්ටේනර් පෙට්ටියක් තබා තිබිය දී එය පරීක්ෂා කිරීමෙන් පසුව ඒ සඳහා පැමිණිලිකරුට සහන සැලසීමත්, නීතිය මඟින් කටයුතු නොකර සිටීමත් වෙනුවෙන් රු.25,000ක දඩයක් ඉල්ලූ ගොවිජන සංවර්ධන නිලධාරියෙකු මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් පුද්ගලයා දෙනියාය, ගොවිජන සේවා මධ්‍යස්ථානයේ සේවයේ නියුතු ගොවිජන සංවර්ධන නිලධාරියෙකු බව සඳහන් වේ.
-
-මේ අතර රියදුරු බලපත්‍රය ලබා ගැනීමට අවශ්‍ය කටයුතු කරදීම වෙනුවෙන් රුපියල් 10,000ක මුදලක් අල්ලස් වශයෙන් ලබා ගත් වේරහැර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු කාර්යාලයේ රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ කාර්යාල සේවක සේවයේ නිලධාරියෙකු ද ඊයේ (25) අත්අඩංගුවට ගෙන තිබේ.
-
-සමන්තුරෛ ප්‍රදේශයේ පුද්ගලයෙකු විසින් සිදු කරන ලද පැමිණිල්ලකට අනුව මෙම පුද්ගලයා අත්අඩංගුවට ගෙන ඇත.
-
-...
-
-[Data](articles/c804e790.json)
-
----
-
-### ප්‍රදේශ කිහිපයක නායයෑම් අනතුරු ඇඟවීම් යළිත් දීර්ඝ කෙරේ
-
-*2025-09-26 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215044) · `si`
-
-පවතින වර්ෂාපතනය සැලකිල්ලට ගනිමින් දිවයින පුරා ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයකට පනවා තිබූ නාය යෑමේ අනතුරු ඇඟවීම් දීර්ඝ කිරීමට ජාතික ගොඩනැගිලි හා පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
-
-ඒ අනුව අද (26) පස්වරුවේ සිට ක්‍රියාත්මක වන පරිදී එම අනතුරු ඇඟවීම් යළිත් දීර්ඝ කිරීමට පියවර ගන්නා බව එම සංවිධානය පැවසීය.
-
-ඒ අනුව කළුතර දිස්ත්‍රික්කයේ වලල්ලාවිට, මාතර දිස්ත්‍රික්කයේ වැලිපිටිය, නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ, රත්නපුර දිස්ත්‍රික්කයේ කලවාන, යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත අදියර 02ක යටතේ අවධානයෙන් සිටින ලෙස නිවේදනයක් නිකුත් කර තිබේ.
-
-...
-
-[Data](articles/b9aaf2b8.json)
-
----
-
-### වෑවිට බිහිසුණු අනතුරේ නවතම දර්ශන
-
-*2025-09-26 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215043) · `si`
-
-බණ්ඩාරගම - කළුතර මාර්ගයේ වෑවිට ප්‍රදේශයේදී ලොරියක්, වෑන් රථයක් සහ ත්‍රිරෝද රථයක් එකිනෙක ගැටීමෙන් 12 දෙනෙකු තුවාල ලබා තිබේ.
-
-තුවාල ලබා ඇති පිරිස අතර නර්තන කණ්ඩායමක සාමාජිකයන් දස දෙනෙකු සහ එකම පවුලේ මවක් සහ දුවක් වන බව බණ්ඩාරගම පොලීසිය පවසයි.
-
-තුවාල ලැබූවන්ගෙන් 7දෙනෙකු බණ්ඩාරගම දිසාරෝහලේ ප්‍රතිකාර ලබන බවත් පස්දෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා පානදුර මූලික රෝහල වෙත යොමු කළ බවත් බණ්ඩාරගම දිසාරෝහලේ ප්‍රකාශකයෙක් සඳහන් කළේය.
-
-ලොරි රථය මොරන්තුඩුව දෙස සිට බණ්ඩාරගම දෙසට පැමිණීමේදී ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි ත්‍රිරෝද රථයක් මාර්ගය හරහා පැමිණ, ලොරි රථයේ ගැටී පෙරළීමත් සමඟම ලොරි රථ රියදුරු තිරිංග තද කර ඇති අතර ලොරියේ පිටුපසින් පැමිණි වෑන් රථය ලොරියේ ගැටීමෙන් අනතුර සිදුව තිබුණි.
-
-එම අනතුරක් සමගම ප්‍රදේශවාසීන් විසින් ලොරි රථ රියදුරට පහරදී ඇතැයි ද පොලීසිය සඳහන් කරයි.
-
-වෑන් රථයේ ගමන් ගත් පිරිස වස්කඩුව, පොතුපිටිය සිට හලාවත ප්‍රදේශයේ පෙරහැරකට සහභාගි වීම සඳහා යමින් සිටියදී මෙම අනතුර වී ඇතැයි පොලීසිය පැවසීය.
-
-...
-
-[Data](articles/f2e7c102.json)
-
----
-
-### இலைதழைகள் மட்டும் தான் சாப்பாடு: ஆனால் சிக்ஸ்பேக்
-
-*2025-09-26 16:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலைதழைகள்-மட்டும்-தான்-சாப்பாடு-ஆனால்-சிக்ஸ்பேக்/175-365339) · `ta`
-
-இன்றைய காலகட்டத்தில் நிறைய பேர் சாப்பிட, தூங்க நேரமில்லாமல் பிஸியான வாழ்க்கை வாழ்ந்து கொண்டிருக்கின்றோம். குறிப்பாக, ஐடி போன்ற துறைகளில் ஷிப்ட் வேலைக்கு செல்கிறவர்கள் இரவு நேரங்களில் ஜங்க் உணவுகளை அதிகளவில் சாப்பிடுவதால் உடற்பருமன், ரத்த அழுத்தம் போன்ற பல்வேறு உடல்நல பிரச்சினைகளுக்கு ஆளாகி வருகின்றனர். அவர்களுக்கு மருத்துவர்கள் கூறும் ஒரே அறிவுரை சரிவிகித உணவுகளை சரியான நேரத்தில் எடுத்துக் கொள்ள வேண்டும் என்பது தான்.
-
-இப்படியான சூழ்நிலையில் மரங்களிலும், மலைகளிலும் ஏறி அங்குள்ள கீரை வகைகளை மட்டுமே சாப்பிட்டு, இயற்கையான நீரோடைகளில் இருக்கிற தண்ணீரை மட்டுமே குடித்து ஒருவர் பல ஆண்டுகளாக உயிர் வாழ்கிறார் என்றால் நம்ப முடிகிறதா? ஆம், கர்நாடக மாநிலத்தைச் சேர்ந்த இளைஞர் ஒருவர் இப்படிப்பட்ட ஒரு டயட்டை மட்டுமே பின் பற்றி சிக்ஸ் பேக், ஃபிட்னெஸ் என அசால்ட்டாக வலம் வந்து மருத்துவர்களையே ஆச்சர்யத்தில் ஆழ்த்தி வருகிறார்.
-
-யார் இந்த இளைஞர்? அவருடைய வாழ்க்கை முறை எப்படி இருக்கிறது? என்பதை தெரிந்து கொள்ள ஈடிவி பாரத் குழு அவரை தேடிச் சென்றது.
-
-...
-
-[Data](articles/775ce23b.json)
-
----
-
-### கிறிஸ்தவர்கள் நெற்றியில் குங்குமம் பூசிய விவகாரம்
-
-*2025-09-26 16:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிறிஸ்தவர்கள்-நெற்றியில்-குங்குமம்-பூசிய-விவகாரம்/175-365338) · `ta`
-
-கிறிஸ்தவ பிரச்சாரம் செய்ய வந்தவர்களில் சிலரை கோயிலுக்கு அழைத்துச் சென்று, நெற்றியில் குங்குமம் பூசி, கடவுளிடம் மன்னிப்பு கேட்டு விட்டு செல்லும்படி வற்புறுத்தியவர்கள் மீது வழக்கு பதிவு செய்யப்பட்டுள்ளது.
-
-ஜெபம் செய்ய சென்றவர்களுக்கு குங்குமம் பூசியதாக எழுந்த புகாரில் நயினார் நாகேந்திரன் உதவியாளர் உட்பட மூன்று பேர் மீது பொலிஸார் வழக்கு பதிவு செய்துள்ளனர்.
-
-தென்காசி மாவட்டம் ஆலங்குளம் பகுதியிலிருந்து கடந்த 22ஆம் திகதி, சுமார் 30-க்கும் மேற்பட்டோர் நெல்லை மாவட்டம் கீழக்கல்லூர் மற்றும் நடுக்கல்லூர் கிராமங்களுக்கு சென்றுள்ளனர். அவர்கள் கீழக்கல்லூர் பகுதியில் மதப் பிரச்சாரத்தில் ஈடுபட்டதாக கூறப்படுகிறது. இதையடுத்து, அவர்களை இந்து முன்னணி மாவட்டச் செயலாளர் மணிகண்டன் மகாதேவன், பாஜகவை சேர்ந்த அங்குராஜ் உட்பட 3 பேர் வழிமறித்ததாக கூறப்படுகிறது.
-
-...
-
-[Data](articles/dfe41d65.json)
-
----
-
-### நாமலின் கிரிஷ் வழக்கு: நீதிமன்றம் பிறப்பித்த உத்தரவு
-
-*2025-09-26 16:44:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-கிரிஷ்-வழக்கு-நீதிமன்றம்-பிறப்பித்த-உத்தரவு/175-365337) · `ta`
-
-கிரிஷ் ஒப்பந்தம் தொடர்பாக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவுக்கு எதிராக சட்டமா அதிபரால் தாக்கல் செய்யப்பட்ட வழக்கு தொடர்பான  வழக்கின் அசல் அறிக்கையை பெற்றுக்கொள்ள நடவடிக்கை எடுக்குமாறு கொழும்பு மேல் நீதிமன்றம், கோட்டை நீதவான் நீதிமன்றத்தின் பதிவாளருக்கு,  வெள்ளிக்கிழமை (26) உத்தரவிட்டது.
-
-வழக்கு இன்று (26) வௌ்ளிக்கிழமை விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போ​து, குற்றம் சாட்டப்பட்ட நாமல் ராஜபக்ஷவும் நீதிமன்றத்தில் ஆஜராகியிருந்தார்.
-
-◼️
-
-[Data](articles/f5be7f04.json)
-
----
-
-### Sri Lanka To Introduce New Counter - Terrorism Law Aligned with Global Standards
-
-*2025-09-26 16:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-introduce-new-counter-terrorism-law-aligned-with-global-standards) · `en`
-
-...
-
-[Data](articles/216723b7.json)
-
----
-
-### 3 வாகனங்கள் மோதியதில் 11 பேர் காயம்
-
-*2025-09-26 16:38:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வாகனங்கள்-மோதியதில்-11-பேர்-காயம்/175-365336) · `ta`
-
-பண்டாரகம-களுத்துறை வீதியில் லொறி, வேன் மற்றும் முச்சக்கர வண்டி மோதியதில் 11 பேர் காயமடைந்துள்ளதாக பண்டாரகம பொலிஸார் தெரிவிக்கின்றனர். காயமடைந்தவர்கள் நடனக் குழுவைச் சேர்ந்தவர்கள்.
-
-மொரந்துடுவவிலிருந்து பயணித்த லொறி பண்டாரகமவை நெருங்கிக்கொண்டிருந்தபோது, ​​எதிர் திசையில் இருந்து வந்த முச்சக்கர வண்டி ஒன்று வீதியைக்  கடந்து லொறியுடன் மோதியது. லொறி ஓட்டுநர் பிரேக் போட்டதால் லொறியின் பின்னால் வந்த வேன் லொறியுடன் மோதி   விபத்து ஏற்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-காயமடைந்தவர்கள் பண்டாரகம மாவட்ட மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர். பண்டாரகம பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/9582572e.json)
-
----
-
-### භික්ෂූන් වහන්සේලා හත්නමක් අපවත් වීම ගැන කතෝලික රදගුරු සම්මේලනයෙන් ශෝක පණිවුඩයක්
-
-*2025-09-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215042) · `si`
-
-කුරුණෑගල, මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසන භූමිය තුළදී ඩක්කුවක් කඩා වැටීමෙන් භික්ෂූන් වහන්සේ හත් නමක් අපවත් වීමේ සම්බන්ධයෙන් ශ්‍රී ලංකා කතෝලික රදගුරු සම්මේලනයෙන් ශෝක පණිවුඩයක් නිකුත් කර තිබේ.
-
-උන්වහන්සේලාගේ අපවත් වීම සම්බුද්ධ ශාසනයටත්, ශ්‍රී ලංකා දේශයටත් සිදුවු ශෝකජනක පුවතක් බවද අදාළ නිවේදනයේ දැක්වේ.
-
-මෙම ඛේදනීය සිදුවීම පිළිබ﻿ද කතෝලික රදගුරු සම්මේලනයේ සංවේගය පූජ්‍ය සංඝරතනයට සහ ශ්‍රී ලංකාවේ සමස්ත බොදු ජනතාවට පළ කරන බව ද අදාළ නිවේදනයේ තවදුරටත් සඳහන් ය.
-
-අපවත් වී වදාළ දෙස් විදෙස් හිමිවරුන්ට නිවන් සැනසීම ලැබේවා මෙන්ම බරපතළ තුවාල ලබා සිටින හිමිවරුන්ට ඉක්මන් සුවය ලැබේවා යනුවෙන් ද අදාළ නිවේදනයේ දැක්වේ.
-
-◼️
-
-[Data](articles/970849ae.json)
-
----
 
 ### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
 
@@ -276,100 +44,6 @@ COLOMBO (News 1st); The Walasmulla Magistrate’s Court has granted permission f
 [Data](articles/df9a645e.json)
 
 [Extended Data](ext_articles/df9a645e.ext.json)
-
----
-
-### කැනඩා යවන බව පවසා ව්‍යාජ වීසා ස්ටිකර් මඟින් මුදල් වංචා කළ තිදෙනෙක් අත්අඩංගුවට
-
-*2025-09-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215041) · `si`
-
-විදේශගත කරන බව පවසා මුදල් වංචා කිරීමේ අරමුණින් ව්‍යාජ වීසා ස්ටිකර් සන්තකයේ තබාගෙන සිටි සැකකරුවකු හා සැකකාරියන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
-
-කැනඩාව වෙත විදෙස්ගත කරන බව පවසා මෙම මුදල්  වංචා කිරීම සිදුකර ඇති අතර, ඊයේ (25) බම්බලපිටිය පොලීසියට මේ සම්බන්ධයෙන් ලද තොරතුරක් මත සැකකරුවන්ව අත්අඩංගුවට ගෙන ඇත.
-
-සැකකරු අවුරුදු 69ක් වන බොරැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, සැකකාරියන් වයස අවුරුදු 26 හා 68 වයස්වල පසුවන ගෝනගංආර සහ බොරැල්ල ප්‍රදේශයේ පදිංචිකාරියන් බව සඳහන් ය.
-
-කැනඩාවට යවන බවට බවසා එක් සැකකාරියක් රු. 3,831,000ක මුදලක් හා රු. 3,436,000ක මුදලක් වංචා කර ඇති බවට අනාවරණය වී ඇත.
-
-මෙම සැකකරුවන් මෙවැනි තවත් අපරාධවලට සම්බන්ධවී සිටීද යන්න සම්බන්ධයෙන් අනාවරණය කර ගැනීම සඳහා බම්බලපිටිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/cd7d40bd.json)
-
----
-
-### ’’குஷ்’’ஷூடன் விமான பயணி சிக்கினார்
-
-*2025-09-26 16:09:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷூடன்-விமான-பயணி-சிக்கினார்/175-365334) · `ta`
-
-41 இலட்சத்து 80 ஆயிரம்  ரூபாய் மதிப்புள்ள "குஷ்" போதைப்பொருளை நாட்டிற்குள் கொண்டு சென்று கட்டுநாயக்க விமான நிலையத்திலிருந்து வெளியே கொண்டு சென்ற இலங்கை பயணி ஒருவர், வியாழக்கிழமை (25) இரவு விமான நிலைய  பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டார்.
-
-ரத்மலானை பகுதியில் மணல் மற்றும் சரளை விநியோகிக்கும் தொழிலில் ஈடுபட்டுள்ள 48 வயதான தொழிலதிபர் ஆவார்.
-
-அவருக்கு எதிராக கல்கிசை, கொழும்பு பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் தலைமையகத்தால்   போதைப்பொருள் தொடர்பான வழக்குகள் மூன்று பதிவு செய்யப்பட்டுள்ளன.
-
-தாய்லாந்தின் பாங்காக்கில் இருந்து வியாழக்கிழமை (25)  அன்று இரவு 06.30 மணிக்கு இலங்கை ஏர்லைன்ஸ் விமானம் UL-405 மூலம் கட்டுநாயக்க விமான நிலையத்திற்கு வந்தடைந்தார்.
-
-அவர் தனது சூட்கேஸில் "ஷாப்பிங்" பையில் 418 கிராம் "குஷ்" என்ற போதைப்பொருளை மறைத்து வைத்திருந்தார்.
-
-இந்த போதைப்பொருளுடன் அவர்   நீர்கொழும்பு நீதவான் நீதிமன்றத்தில் வெள்ளிக்கிழமை (26) ஆஜர்படுத்தப்பட்டார், அங்கு அவர் ஒக்டோபர் 08 ஆம் திகதி வரை தடுத்து வைத்து விசாரிக்க அனுமதிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/373a3d90.json)
-
----
-
-### විෂ මත්පැන් පානය කිරීමෙන් කොලොම්බියාවේ 11ක් මරුට
-
-*2025-09-26 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215040) · `si`
-
-කොලොම්බියාවේ, බ්රැන්කිලා නගරයේ විෂ සහිත මත්පැන් පානය කිරීම හේතුවෙන් පුද්ගලයින් 11 දෙනෙකු මියගොස් තිබේ.
-
-තවත් පුද්ගලයින් 10 දෙනෙකු එම මත්පැන් පානය කර ඇති වු ආසාත්මිකතා හේතුවෙන් රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-මියගිය පුද්ගලයින්ගෙන් බොහෝ දෙනෙකු නිවාස නොමැති වීදි වැසියන් බව සඳහන් වේ.
-
-විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කළේ අදාළ මත්පැන් නිවසක නිෂ්පාදනය කර ඇති අතර එය නිෂ්පාදනය කළ පුද්ගලයා ද මියගිය පුද්ගලයින් අතර සිටින බවය.
-
-◼️
-
-[Data](articles/135e4e0f.json)
-
----
-
-### பெண்ணின் உள்ளாடைக்குள் ‘ஐஸ்’: 52  பக்கெட்டுகள் மீட்பு
-
-*2025-09-26 16:03:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்ணின்-உள்ளாடைக்குள்-ஐஸ்-52-பக்கெட்டுகள்-மீட்பு/76-365333) · `ta`
-
-மகப்பேறு மருத்துவமனைக்குச் செல்வதாகக் கூறி பல்வேறு இடங்களில் ஐஸ் பாக்கெட்டுகளை விட்டுச் சென்றதாகக் கூறப்படும் ஒரு தம்பதியினர் கடந்த 26 ஆம் திகதி கைது செய்யப்பட்டதாக நாவலப்பிட்டி காவல்துறையின் பொறுப்பதிகாரி தலைமை ஆய்வாளர் ஹரேந்திர கலுகம்பிட்டிய தெரிவித்தார்.
-
-ஈஸி கேஷ் முறை மூலம் பணம் பெற்றுக்கொண்டு மோட்டார் சைக்கிளில் கம்பளை மற்றும் நாவலப்பிட்டி பகுதிகளில் ஒரு தம்பதியினர் ஐஸ் பாக்கெட்டுகளை விட்டுச் சென்றதாக கிடைத்த ரகசிய தகவலின் பேரில், நாவலப்பிட்டி காவல்துறையின் பொறுப்பதிகாரி உள்ளிட்ட அதிகாரிகள் குழு, நாவலப்பிட்டி தொலஸ்பாக  சாலையில் உள்ள பழைய ரயில்வே அதிகாரி வீட்டிற்கு அருகில் ஐஸ் பக்கெட்டுகளை விட்டுச் சென்றபோது சந்தேக நபர்களைக் கைது செய்தனர். சோதனையின் போது அவர்களிடம் 52 ஐஸ் பாக்கெட்டுகள் கண்டுபிடிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-சந்தேகத்திற்குரிய பெண்ணின் உள்ளாடைகளில் 52 ஐஸ் பக்கெட்டுகள் மீட்கப்பட்டதாகவும், முதற்கட்ட விசாரணைகளில் ஒவ்வொரு ஐஸ் பாக்கெட்டும் சுமார் ரூ.7,000க்கு விற்கப்படுவதாகவும் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/e720447a.json)
-
----
-
-### ’கெஹெல்பத்தர பத்மே’வின்  ஆயுதங்கள் மீன் சந்தைக்கு அருகில் மீட்பு
-
-*2025-09-26 15:57:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெல்பத்தர-பத்மே-வின்-ஆயுதங்கள்-மீன்-சந்தைக்கு-அருகில்-மீட்பு/175-365332) · `ta`
-
-பேலியகொட மீன் சந்தைக்கு அருகிலுள்ள பேருந்து நிறுத்தத்திற்குப் பின்னால் உள்ள குப்பைத் தொட்டிக்கு அருகில் உள்ள ஒரு பையில், பாதாள உலகக் கும்பல் உறுப்பினரான 'கெஹெல்பத்தர பத்மே' மறைத்து வைத்திருந்ததாகக் கூறப்படும் பாரிய அளவிலான T-56 வெடிமருந்துகள் மற்றும் இராணுவ சீருடையை ஒத்த ஒரு தொகுதி சீருடைகள் கண்டுபிடிக்கப்பட்டதாக பேலியகொட வடக்கு குற்றப்பிரிவு தெரிவித்துள்ளது.
-
-பைக்குள் 4 T-56 மெகசின்கள், ஒரு மைக்ரோ பிஸ்டல், ஒரு ரிவால்வர்,  T-56 ரக ​ரவைகள் 520 , ஒரு கைவிலங்கு மற்றும் இராணுவ சீருடையை ஒத்த ஒரு தொகுதி சீருடைகள் ஆகியவற்றை பொலிஸார் மீட்டுள்ளனர்.
-
-மேற்கு மாகாண வடக்கு குற்றப்பிரிவு நடத்திய விசாரணைகளின் போது இந்த தகவல் தெரியவந்தது.
-
-இந்தோனேசியாவின் ஜகார்த்தாவில் ஒழுங்கமைக்கப்பட்ட குற்றவாளியான மண்டினு பத்மசிறி அல்லது 'கெஹெல்பத்தர பத்மே' உட்பட ஐந்து பாதாள உலகக் கும்பல் உறுப்பினர்கள் சமீபத்தில் கைது செய்யப்பட்டதைத் தொடர்ந்து, கெஹெல்பத்தர பத்மே உட்பட மேலும் மூன்று பேர் குற்றப் புலனாய்வுத் துறையின் தடுப்பு உத்தரவின் கீழ் தடுத்து வைக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/df0b45b7.json)
 
 ---
 
@@ -422,20 +96,6 @@ According to the Japanese government's invitation, the President is on official 
 [Data](articles/7719b89a.json)
 
 [Extended Data](ext_articles/7719b89a.ext.json)
-
----
-
-### சம்பத் மனம்பேரிக்கு 90 நாள் தடுப்புக்காவல்
-
-*2025-09-26 15:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-90-நாள்-தடுப்புக்காவல்/175-365330) · `ta`
-
-தற்போது தடுப்புக் காவலில் வைக்கப்பட்டுள்ள சம்பத் மனம்பேரியை 90 நாட்கள் காவலில் எடுத்து விசாரிக்க வலஸ்முல்ல நீதவான் நீதிமன்றம் வௌ்ளிக்கிழமை (26) அனுமதி அளித்துள்ளது.
-
-"ஐஸ்" என்ற போதைப்பொருள் தயாரிப்பில் பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் இரண்டு ரசாயனக் கொள்கலன்கள் கண்டுபிடிக்கப்பட்ட சம்பவம் தொடர்பில் அவர் கைது செய்யப்பட்டார்.
-
-◼️
-
-[Data](articles/6332f951.json)
 
 ---
 
@@ -578,24 +238,6 @@ In the North and East, the five -point demands to stop the newly planned Sinhale
 [Data](articles/8e4e7e4e.json)
 
 [Extended Data](ext_articles/8e4e7e4e.ext.json)
-
----
-
-### யாழ்.பல்கலைக்கழகத்தில் திலீபனின் நினைவு தினம்
-
-*2025-09-26 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்தில்-திலீபனின்-நினைவு-தினம்/175-365329) · `ta`
-
-ஐந்து அம்சக் கோரிக்கைகளை முன்வைத்து உண்ணாவிரதம் இருந்து உயிர் நீத்த தியாக தீபம் திலீபனின் 38 வது நினைவு தினம், யாழ்ப்பாணப் பல்கலைக்கழகத்தில் வெள்ளிக்கிழமை (26) அனுஷ்டிக்கப்பட்டது.
-
-தியாக தீபம் திலீபன் நினைவேந்தல் மதியம் 12 மணிக்கு ஆரம்பித்ததுடன், பொதுச் சுடர் ஏற்றப்பட்டது.
-
-அதனைத் தொடர்ந்து,திலீபனின் உருவப்படத்திற்கு பல்கலைக்கழக சமூகத்தினரால் மலர் மாலை அணிவித்து மலர் தூவியும் அஞ்சலி செலுத்தப்பட்டதுடன் பலரும் உணர்வு பூர்வமாக கலந்து கொண்டனர்.
-
-இதன்போது பல்கலைக்கழக மாணவர்கள், பல்கலைக்கழக விரிவுரையாளர்கள், பல்கலைக்கழக கல்விசாரா ஊழியர்கள் என பலரும் கலந்து கொண்டனர்.
-
-...
-
-[Data](articles/fa2a1b95.json)
 
 ---
 
@@ -1339,22 +981,6 @@ However, he asked that I could not answer the question of madness, and to immedi
 
 ---
 
-### ඇමති වසන්ත ඇතුළු තිදෙනා අත්අඩංගුවට ගැනීමට කළ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
-
-*2025-09-26 12:50:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy9nypg0g8qo) · `si`
-
-ඇමති වසන්ත ඇතුළු තිදෙනා අත්අඩංගුවට ගැනීමට කළ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
-
-නැෂනල් වර්කස් ඉන්ස්ටිටියුට් ආයතනය සතු දෙහිවල පිහිටි දෙමහල් ගොඩනැගිල්ල සහිත ඉඩම ව්‍යාජ බදු ඔප්පුවක් සකස් කර රුපියල් ලක්ෂ තිස්හයකට බදු දී වංචා කරන ලදැයි කියන සිද්ධිය සම්බන්ධයෙන් අපරාධ වරදක් සිදුවී ඇති බවට තීරණය කර මුල් පැමිණිලිකරු විසින් නම්කර ඇති පුද්ගලයන් සැකකරුවන් ලෙසට නම් කර ඔවුන් අත්අඩංගුවට ගන්නා ලෙස මුල් පැමිණිලිකරු වෙනුවෙන් කරන ලද ඉල්ලීම ගල්කිස්ස මහේස්ත්‍රාත් පසාන් අමරසේන අද (සැප්තැම්බර් 26) ප්‍රතික්ෂේප කළේය.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් නීතිපති උපදෙස් සඳහා 2025 වර්ෂයේ පෙබරවාරි මස 19 වන දින මෙම නඩුවෙහි විමර්ශන ගොනුව නීතිපතිවරයාට යොමු කර ඇති පසුබිමක සහ මේ සම්බන්ධයෙන් කොළඹ වංචා විමර්ශන කාර්යංශය විසින් දැනට සිදු කර ඇති විමර්ශනයන්ට අනුව අපරාධ වරදක් සිදුවී ඇති බවට කරුණු අනාවරණය නොවීම හේතුවෙන් මහේස්ත්‍රාත්වරයා විසින් පැමිණිලිකරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ මෛත්‍රී ගුණරත්නගේ ඉල්ලීම ප්‍රතික්ෂේප කරන ලදී.
-
-...
-
-[Data](articles/179effb6.json)
-
----
-
 ### Today's currency exchange rate
 
 *2025-09-26 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226132) · `ta`
@@ -1816,5 +1442,449 @@ In addition, the MP's misconception is that all windows are covered with metal z
 [Data](articles/c7cd5760.json)
 
 [Extended Data](ext_articles/c7cd5760.ext.json)
+
+---
+
+### 717 arrested on a special operation
+
+*2025-09-26 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215029) · `si`
+
+Police say 717 persons were arrested on suspicion of criminal and drug prevention operations in Sri Lanka with the operations of the country.
+
+Furthermore further stated that the arrest of suspects involved in crime island wide are carried out in the future.
+
+Accordingly, special operations have been implemented covering all local police stations at the divisional level.
+
+◼️
+
+[Data](articles/4502242d.json)
+
+[Extended Data](ext_articles/4502242d.ext.json)
+
+---
+
+### '' The 2019 Country spent going next year '
+
+*2025-09-26 11:41:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/2019-රට-තබ-තනට-ලබන-අවරදද-යනන-පළවන/101-680266) · `si`
+
+President Anura Kumara Dissanayake said at a Sri Lankan briefing in the United States that Sri Lanka is believed to reach the 2019 economy next year.
+
+Economic experts say that economic experts create a decade in an economic collapse, but it is said that it is possible to take the country in a short time.
+
+The President also said that he was obliged with the expectations and hopes of the country.
+
+Mr. Dissanayake stressed that he was not prepared to be subjected to the influence of the people to power a year ago.
+
+The meeting with the Sri Lankan community in the United States was held at the Standan Island Arts College, New York Kandy.
+
+A large number of Sri Lankan professionals including Sri Lankan professionals in New York were organized by the Sri Lankan professionals.
+
+The President said that the present government has marked a decisive disturbance in the country's economic stability, domination of law, and endangered a good political culture and create a good political culture.
+
+...
+
+[Data](articles/92c2b930.json)
+
+[Extended Data](ext_articles/92c2b930.ext.json)
+
+---
+
+### '' The 2019 Country spent going next year '
+
+*2025-09-26 11:41:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/2019-රට-තබ-තනට-ලබන-අවරදද-යනන-පළවන/1-680266) · `si`
+
+President Anura Kumara Dissanayake said at a Sri Lankan briefing in the United States that Sri Lanka is believed to reach the 2019 economy next year.
+
+Economic experts say that economic experts create a decade in an economic collapse, but it is said that it is possible to take the country in a short time.
+
+The President also said that he was obliged with the expectations and hopes of the country.
+
+Mr. Dissanayake stressed that he was not prepared to be subjected to the influence of the people to power a year ago.
+
+The meeting with the Sri Lankan community in the United States was held at the Standan Island Arts College, New York Kandy.
+
+A large number of Sri Lankan professionals including Sri Lankan professionals in New York were organized by the Sri Lankan professionals.
+
+The President said that the present government has marked a decisive disturbance in the country's economic stability, domination of law, and endangered a good political culture and create a good political culture.
+
+...
+
+[Data](articles/c6df3552.json)
+
+[Extended Data](ext_articles/c6df3552.ext.json)
+
+---
+
+### Inquiry into Kehelbatara Padmeh; Over 500 bullets, capture of guns!
+
+*2025-09-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226120) · `ta`
+
+Battery and guns have been seized by the Western Province Northern Criminal Investigation, based on investigations conducted by the Underworld Group Chairman of the Underworld Group, 'Kehelbattara Padme'.
+
+About 500 bullets and R-56 rifles, four R-56 magazines and a micro pistol have been seized.
+
+Police said the weapons were seized as they were hidden near the Peliyagoda fish market.
+
+◼️
+
+[Data](articles/c9edcf49.json)
+
+[Extended Data](ext_articles/c9edcf49.ext.json)
+
+---
+
+### Government blocked pressure
+
+*2025-09-26 11:40:31* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ආණඩව-හරවණ-දෂණ-වරධය/2-680265) · `si`
+
+The JVP, a party based on Marxist Revolutionary Politics, was placed as a voice of political moral and corruption in recent decades. It is not a haul, but the JVP deliberately a place.
+
+Because they create an unlimited political space, and it was an additional advantage that they would not show "corruption" in the public eye. The politics of the JVP's leading compass gone beaten on the other political parties and people who go to other political parties and individuals in Sri Lanka.
+
+The JVP gained the economic crisis in the recent past and the rumors that are deposed and attractive to corruption and attract large public attention and attractive. But now, the voice voice that the JVP has been predicated to decades can be seen as a role of the fate.
+
+...
+
+[Data](articles/238cf958.json)
+
+[Extended Data](ext_articles/238cf958.ext.json)
+
+---
+
+### Government blocked pressure
+
+*2025-09-26 11:40:31* · [`lankadeepalk`](https://www.lankadeepa.lk/friday/ආණඩව-හරවණ-දෂණ-වරධය/122-680265) · `si`
+
+The JVP, a party based on Marxist Revolutionary Politics, was placed as a voice of political moral and corruption in recent decades. It is not a haul, but the JVP deliberately a place.
+
+Because they create an unlimited political space, and it was an additional advantage that they would not show "corruption" in the public eye. The politics of the JVP's leading compass gone beaten on the other political parties and people who go to other political parties and individuals in Sri Lanka.
+
+The JVP gained the economic crisis in the recent past and the rumors that are deposed and attractive to corruption and attract large public attention and attractive. But now, the voice voice that the JVP has been predicated to decades can be seen as a role of the fate.
+
+...
+
+[Data](articles/b80f0cb0.json)
+
+[Extended Data](ext_articles/b80f0cb0.ext.json)
+
+---
+
+### Court orders Namal's Crish case
+
+*2025-09-26 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215028) · `si`
+
+The Colombo High Court today (26) was appointed to the Registrar of the Fort Magistrate's Court today.
+
+The case was called before the Colombo High Court Judge Armgar Spanishman.
+
+Sampath Mendis, who appeared in behalf of MP Namal Rajapaksa at the time, said that some of the documents asked by the defendant said that the complaint was not given by the Complaint.
+
+The President's Counsel said that the documents were very important to face a fair trial.
+
+Deputy Solicitor General Wasantha Perera, appearing on the response, said that many of the documents were requested by the defendant.
+
+He added that the scribes that the Criminal Investigations Department (CID) will be provided with the documents mentioned by the defendant not yet received.
+
+The judge said the judge said to be able to provide the documents requesting them to the next day before the next day.
+
+The judge also ordered to be summoned for the previous trial seminar on the 18th of December.
+
+...
+
+[Data](articles/1d067895.json)
+
+[Extended Data](ext_articles/1d067895.ext.json)
+
+---
+
+### 2026 Appropriation Bill presented to Parliament
+
+*2025-09-26 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112935/2026-appropriation-bill-presented-to-parliament) · `en`
+
+The Appropriation Bill for the year 2026 has been presented to Parliament today (26) by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+The Appropriation Bill, to allocate funds for the government expenditure in 2026 financial year, was gazetted on September 18.
+
+According to the Appropriation Bill, which the National People’s Power (NPP) government is scheduled to present to Parliament as its second budget, the total government expenditure for 2026 is Rs. 4,434 billion.
+
+The Ministry of Finance has been allocated the largest share, amounting to Rs. 634 billion, for the coming year.
+
+The Ministry of Provincial Councils and Local Government has been allocated Rs. 618 billion, while Rs. 596 billion has been allocated to the Ministry of Public Administration.
+
+◼️
+
+[Data](articles/6408499b.json)
+
+[Extended Data](ext_articles/6408499b.ext.json)
+
+---
+
+### Pujotha found a hidden pistol
+
+*2025-09-26 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215027) · `si`
+
+More than 500 T-56 ammunition, which is said to be hidden by the underworld gang member, has been recovered from the fish shot of Peliyagoda.
+
+The police can also find 4 T-56 Magazines and a micro pistol.
+
+This information has been revealed in the interrogation by the Western Provincial Council.
+
+The underworld gangs were arrested in Indonesia recently.
+
+◼️
+
+[Data](articles/7de9783d.json)
+
+[Extended Data](ext_articles/7de9783d.ext.json)
+
+---
+
+### New vehicle number plates with advanced features to be issued by Nov 15 – Transport Minister
+
+*2025-09-26 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112934/new-vehicle-number-plates-with-advanced-features-to-be-issued-by-nov-15-transport-minister-) · `en`
+
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has stated that new vehicle number plates with advanced security features and modern technology will be issued by November 15.
+
+Minister Ratnayake highlighted in Parliament today (26) that a significant number of vehicles in the market are currently operating without number plates.
+
+He further noted that the Department of Motor Traffic (DMT) has not progressed for about 10 years due to the corruption and negligence in the political actions.
+
+The Minister further stated that a new driving license will be introduced and that temporary measures will be implemented next week to address the issue of vehicles without number plates.
+
+◼️
+
+[Data](articles/a9b997ed.json)
+
+[Extended Data](ext_articles/a9b997ed.ext.json)
+
+---
+
+### Will not be reversed - President
+
+*2025-09-26 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215025) · `si`
+
+President Anura Kumara Dissanayake emphasized that he is obliged to oblige the expectations and hopes of the country and is not prepared to be subjected to the influence of the people.
+
+◼️
+
+[Data](articles/29e11523.json)
+
+[Extended Data](ext_articles/29e11523.ext.json)
+
+---
+
+### A financial transaction kills a life
+
+*2025-09-26 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215026) · `si`
+
+A murder was assaulted by a stick in the Periyamulla area in Negombo.
+
+The deceased has served in a shop in the Periyammulla area in Negombo, where the murder had been carried out.
+
+The murder was hit by a stick in the shop yesterday afternoon yesterday (25).
+
+The body has been placed at the Negombo hospital morgue and the suspect has been identified and the suspect is conducting further investigations.
+
+◼️
+
+[Data](articles/741faab9.json)
+
+[Extended Data](ext_articles/741faab9.ext.json)
+
+---
+
+### Nuwara Eliya Chills at 14°C: Sri Lanka’s Coldest Spot on September 26
+
+*2025-09-26 11:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/nuwara-eliya-chills-at-14%c2%b0c-sri-lanka%e2%80%99s-coldest-spot-on-september-26) · `en`
+
+COLOMBO (News 1st); Sri Lanka experienced a range of minimum temperatures across the island on the morning of 26 September 2025, with Nuwara Eliya recording the lowest temperature at 14.0°C, according to data from the Department of Meteorology.
+
+The temperature readings, collected from meteorological stations nationwide, were visualized on a map showing a gradient from cooler highland regions to warmer coastal and northern zones.
+
+The central highlands, particularly Nuwara Eliya, continue to exhibit significantly cooler temperatures compared to the rest of the island.
+
+◼️
+
+[Data](articles/f2818db4.json)
+
+[Extended Data](ext_articles/f2818db4.ext.json)
+
+---
+
+### Fines for a private company that sells samba rice at high prices
+
+*2025-09-26 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226115) · `ta`
+
+A private company that sold imported samba rice at high prices has been fined.
+
+The Galle Magistrate's Court has issued the order to a private company in the Galle -Kahaduwatta area.
+
+The Consumer Affairs Authority said the fines were imposed after the owner of the company pleaded with his crime.
+
+The concerned company has sold imported samba rice for 1 kilogram of 273 rupees.
+
+However, the Consumer Affairs Authority (CAA) said that the regulated price was 230 rupees per kilogram.
+
+◼️
+
+[Data](articles/601501a2.json)
+
+[Extended Data](ext_articles/601501a2.ext.json)
+
+---
+
+### Co-ops take spotlight in India-Sri Lanka Dialogue in New Delhi
+
+*2025-09-26 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112933/co-ops-take-spotlight-in-india-sri-lanka-dialogue-in-new-delhi) · `en`
+
+India and Sri Lanka have taken a fresh step towards strengthening their cooperative ties with a high-level bilateral meeting in New Delhi on Thursday.
+
+Wasantha Samarasinghe, Minister of Trade, Commerce, Food Security and Cooperative Development of Sri Lanka, met Union Minister of State for Cooperation and Civil Aviation Murlidhar Mohol at Atal Akshay Urja Bhawan to explore new avenues of collaboration in the cooperative sector.
+
+The talks revolved around building stronger institutional linkages, sharing knowledge, and improving the skills of those engaged in the cooperative movement. Both sides acknowledged that cooperatives play a vital role in rural development, food security, and inclusive economic growth, and that closer collaboration could help address common challenges faced by the sector in both countries.
+
+...
+
+[Data](articles/9794759b.json)
+
+[Extended Data](ext_articles/9794759b.ext.json)
+
+---
+
+### Novath layout of vehicle number plates with modern security measures. From 15
+
+*2025-09-26 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215024) · `si`
+
+Minister of Transport, Highways, Ports and Civil Aviation, said that the latest techniques have been provided with the latest technology, Highways, Ports and Civil Aviation.
+
+Speaking further Mr. Dimal Ratnayake said that the number of number plates is in the market.
+
+He also said that due to the corruption and irresponsibility of previous trade companies as well as the corruption and irresponsibility of political activities.
+
+The Minister further stated that a new driving license will be prepared and the costs will be provided in the week.
+
+◼️
+
+[Data](articles/728a5e7c.json)
+
+[Extended Data](ext_articles/728a5e7c.ext.json)
+
+---
+
+### Pre-trial conference fixed for Namal Rajapaksa’s ‘Krrish’ case
+
+*2025-09-26 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112932/pre-trial-conference-fixed-for-namal-rajapaksas-krrish-case) · `en`
+
+The Colombo High Court has ordered that the case filed by the Attorney General against Sri Lanka Podujana Peramuna (SLPP) Member of Parliament Namal Rajapaksa, regarding the controversial ‘Krrish’ project, be called for a pre-trial conference on December 18.
+
+When the case was called today, MP Namal Rajapaksa appeared before the court, said Ada Derana reporter.
+
+After reviewing the case, the Magistrate also directed that steps be taken to summon the original case report from the Fort Magistrate’s Court.
+
+The Attorney General has filed the case alleging that MP Namal Rajapaksa committed an offence under the Prevention of Money Laundering Act by receiving Rs. 70 million from the Indian company ‘Krrish’, under the pretext of promoting rugby in Sri Lanka.
+
+◼️
+
+[Data](articles/17c218df.json)
+
+[Extended Data](ext_articles/17c218df.ext.json)
+
+---
+
+### Advisory issued for strong winds and rough seas
+
+*2025-09-26 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112931/advisory-issued-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for the sea areas off extending from Galle to Pottuvil via Matara and Hambantota, and from Puttalam to Kankasanthurai via Mannar.
+
+The advisory, issued at 09.30 a.m. this morning (26), will be effective for the next 24 until 09.30 a.m. on Saturday (27).
+
+Accordingly, the advisory warns that the sea areas off the coasts extending from Galle to Pottuvil via Matara and Hambantota, and from Puttalam to Kankasanthurai via Mannar will be rough or very rough with strong gusty winds up to 55-65 kmph.
+
+Therefore, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/2dfc38a5.json)
+
+[Extended Data](ext_articles/2dfc38a5.ext.json)
+
+---
+
+### Over 500 rounds of ammunition, firearm recovered after questioning ‘Kehelbaddara Padme’
+
+*2025-09-26 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112930/over-500-rounds-of-ammunition-firearm-recovered-after-questioning-kehelbaddara-padme) · `en`
+
+Further questioning by the Western Province North Crimes Division of the arrested underworld figure ‘Kehelbaddara Padme’, has led to the recovery of over 500 rounds of T-56 ammunition, four T-56 magazines, a micro pistol, and other items.
+
+The weapon and ammunition were found concealed near the Peliyagoda Fish Market, the police reported.
+
+◼️
+
+[Data](articles/0c5b383e.json)
+
+[Extended Data](ext_articles/0c5b383e.ext.json)
+
+---
+
+### Wild elephant crashed into a chicken lorry
+
+*2025-09-26 10:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-லொறி-மீது-மோதிய-காட்டு-யானை/175-365310) · `ta`
+
+The wildlife department said that a lorry crashed into a lorry carrying chickens in the Ridella area of ​​Dambulla.
+
+A worker who was traveling in the lorry said that the accident occurred when a wild elephant crossed the road while traveling from Dambulla to Bhagamuna.
+
+He said the vehicle crashed into a wild elephant and left the road. It was known that plenty of chickens had died in the accident. Other chickens who were alive were lying on the road
+
+◼️
+
+[Data](articles/5536882b.json)
+
+[Extended Data](ext_articles/5536882b.ext.json)
+
+---
+
+### Pharmaceutical suppliers a loss of millions
+
+*2025-09-26 10:39:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඖෂධ-සපයමකරවනගන-සසථවට-මලයන-ගණනක-පඩවක/101-680245) · `si`
+
+The National Audit office states that the State Pharmaceutical Supplies has to be identified to the State Pharmaceutical Supplies from the pharmaceutical suppliers of Rs.
+
+As at 31st March this year, Mait could not be recovered from drug suppliers.
+
+Rs. 1,651.98 million to be recovered from unlawful drug suppliers. The last remembrance of the final reminder was Rs. 279.45 million.
+
+The audit has revealed that the recovery is in uncertainty.
+
+The audit has recommended that the expeditious and efficient measures should be taken to recover charged money suppliers.
+
+◼️
+
+[Data](articles/986a608e.json)
+
+[Extended Data](ext_articles/986a608e.ext.json)
+
+---
+
+### Pharmaceutical suppliers a loss of millions
+
+*2025-09-26 10:39:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඖෂධ-සපයමකරවනගන-සසථවට-මලයන-ගණනක-පඩවක/1-680245) · `si`
+
+The National Audit office states that the State Pharmaceutical Supplies has to be identified to the State Pharmaceutical Supplies from the pharmaceutical suppliers of Rs.
+
+As at 31st March this year, Mait could not be recovered from drug suppliers.
+
+Rs. 1,651.98 million to be recovered from unlawful drug suppliers. The last remembrance of the final reminder was Rs. 279.45 million.
+
+The audit has revealed that the recovery is in uncertainty.
+
+The audit has recommended that the expeditious and efficient measures should be taken to recover charged money suppliers.
+
+◼️
+
+[Data](articles/d0903506.json)
+
+[Extended Data](ext_articles/d0903506.ext.json)
 
 ---

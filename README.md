@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 16:09:19**
+As of **2025-09-26 15:56:06**
 
 ## Newspaper Stats
 
-*Scraped **78,625** Articles*
+*Scraped **78,608** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 249
-newsfirstlk | 425
+lankadeepalk | 240
+newsfirstlk | 420
 dbsjeyarajcom | 634
 bbccomsinhala | 703
 colombotelegraphcom | 792
@@ -21,73 +21,17 @@ adalk | 7,611
 adaderanalk | 10,179
 tamilmirrorlk | 11,806
 virakesarilk | 12,739
-adaderanasinhalalk | 13,678
+adaderanasinhalalk | 13,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,384 (99.7%) of 78,625 articles have been extended.
+78,384 (99.7%) of 78,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### නවකවධ සිද්ධියකට වයඹ විශ්වවිද්‍යාලයේ සිසුන් සිව්දෙනෙකු රිමාන්ඩ්
-
-*2025-09-26 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215039) · `si`
-
-කුළියාපිටිය වයඹ විශ්වවිද්‍යාලයේ දෙවන වසරේ සිසුවෙකුට නවකවධය ලබා දීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් එම විශ්වවිද්‍යාලයේ තෙවන වසරේ සිසුන් සිව්දෙනෙකු රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කර තිබේ.
-
-ඒ එම සැකකාර සිසුන් 04 දෙනා අද (26) කුළියාපිටිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුවය.
-
-එහිදී මහේස්ත්‍රාත්වරයා නියෝග කළේ අදාළ සිසුන් සිව්දෙනා එළැඹෙන 29 දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසය.
-
-◼️
-
-[Data](articles/e763e041.json)
-
----
-
-### සම්පත් මනම්පේරිට දින 90ක රැඳවුම් නියෝග
-
-*2025-09-26 15:40:58* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමපත-මනමපරට-දන-90ක-රඳවම-නයග/1-680282) · `si`
-
-මිද්දෙණිය තලාව ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීම සඳහා යොදා ගන්නා රසායනික ද්‍රව්‍ය කොන්ටේනර් දෙකක් ළඟ තබා ගැනීමේ සිද්ධියට අදාළව රක්ෂිත බන්ධනාගාර ගත කොට සිටි සම්පත් මනම්පේරි  උතුර කොළඹ අපරාධ විමර්ශන කොට්ඨාශයේ දින අනූවක් රඳවා තබාගෙන ප්‍රශ්න කිරීමට වලස්මුල්ල මහේස්ත්‍රාත් මල්ශා කොඩිතුවක්කු මෙනෙවිය අවසර දෙනු ලැබීය.
-
-බන්ධනාගාර ගතව සිටි ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පළාත් පාලන අපේක්ෂක සම්පත් මනම්පේරි හා ඔහුගේ සොහොයුරු ශ්‍රී ලංකා පොදු ජනපෙරමුණේ  අගුණකොළ පෑලැස්ස ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී පියල් මනරි අද පෙරවරුටවේදී වලස් මුල්ල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
-
-අද පෙරවරු 10.20 ට පමණ අදාළ නඩුව කැඳවූ මහේස්ත්‍රාත්වරිය උතුරු කොළඹ අපරාධ විමර්ශන නිලධාරීන්ගේ හා සැකකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන්ගෙන් කරුණු විමසනු ලැබීය.
-
-◼️
-
-[Data](articles/e623331e.json)
-
----
-
-### මත්කුඩු විකුණූ අඹුසැමි යුවළක් අත්අඩංගුවට
-
-*2025-09-26 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215038) · `si`
-
-ගැබිනි මව්වරුන්ගේ සායනයට යන මුවාවෙන් අයිස් මත්ද්‍රව්‍ය අලෙවිකළ අඹුසැමි යුවළක් නාවලපිටිය පොලීසිය විසින් අද (26) අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම අඹුසැමි යුවළ ඊසි කෑෂ් ක්‍රමයට මුදල් ලබාගෙන ගම්පොළ, නාවලපිටිය ප්‍රදේශවල යතුරු පැදියකින් අයිස් මත්ද්‍රව්‍ය බෙදාහරිමින් සිටියදී අත්අඩංගුවට ගෙන ඇත.
-
-ඔවුන් නාවලපිටිය දොලොස්භාග මාර්ගයේ පිහිටි පැරණි දුම්රිය නිල නිවස අසළ ඇසුරුම් කරන ලද අයිස් පැකට් තබා සිට ඇති බව සඳහන්.
-
-සැකකරුවන් පරීක්ෂා කිරීමේදී ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් 52ක් (ග්‍රෑම් 35ක්) සොයාගෙන ඇති අතර, එම පැකට්වලින් කිහිපයක් සැකකාර කාන්තාවගේ යට ඇදුම්වල සඟවා තිබී සොයාගෙන ඇත.
-
-සැකකාර අඹුසැමි යුවළ ගම්පොළ කිරපන ප්‍රදේශයේ පදිංචි අවුරුදු 23 හා 27 වයස්වල පසුවන්නන්ය.
-
-ඔවුන් 'ඩුබායි තාරු' නමැති මත්ද්‍රව්‍ය ජාවාරම්කරුගෙන් මත්ද්‍රව්‍ය මිලදී ගෙන ඊසි කෑෂ් ක්‍රමයට මෙම බෙදාහැරීම් සිදුකර ඇති බව සඳහන්.
-
-අත්අඩංගුවට ගත් අඹුසැමි යුවළ නාවලපිටිය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතය.
-
-◼️
-
-[Data](articles/1b876e91.json)
-
----
 
 ### දොස්තරලා දැන් බයට බේත් ලියන්නේ නෑ
 
@@ -116,20 +60,6 @@ COLOMBO (News 1st); Officers from the Colombo North Crimes Division have uncover
 ◼️
 
 [Data](articles/04d6ecad.json)
-
----
-
-### වාහන තුනක් එකිනෙක ගැටී බණ්ඩාරගමදී බිහිසුණු අනතුරක්
-
-*2025-09-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215037) · `si`
-
-බණ්ඩාරගම වෑවිට ප්‍රදේශයේදී වෑන් රථයක්, ටිපර් රථක් සහ ත්‍රීරෝද රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
-
-අනතුරින් පුද්ගලයින් 11ක් තුවාල ලබා ඇති අතර ඔවුන් කඩිනමින් රෝහල් ගත කිරීමට කටයුතු කර ඇතැයිද වාර්තා වේ.
-
-◼️
-
-[Data](articles/40e366ed.json)
 
 ---
 
@@ -1882,5 +1812,69 @@ The University Grants Commission (UGC) pointed out that the draft of the policy 
 [Data](articles/d53b0142.json)
 
 [Extended Data](ext_articles/d53b0142.ext.json)
+
+---
+
+### Tree falls on bus in Colombo, causing traffic congestion
+
+*2025-09-26 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112928/tree-falls-on-bus-in-colombo-causing-traffic-congestion) · `en`
+
+An accident occurred this morning (26), when a tree fell onto a private passenger bus on Olcott Mawatha in Colombo, near the railway headquarters.
+
+The incident resulted in significant traffic congestion in the area, said Ada Derana reporter.
+
+However, no one was injured in the incident, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/25513d11.json)
+
+[Extended Data](ext_articles/25513d11.ext.json)
+
+---
+
+### Landslide risks Hatton Kadagama homes
+
+*2025-09-26 09:47:04* · [`adalk`](https://www.ada.lk/breaking_news/හැටන්-කුඩාගම-නිවාස-රැසක්-නායයෑමේ-අවධානමක/11-418731) · `si`
+
+Residents say that many houses in Hatton, Hatton Kadagama area is in danger of landslides in the area.
+
+Hatton Nuwara Eliya Main road
+
+The residents of Hatton Kadagala residents say that their homes are largely due to their homes and landslides due to the lack of a safe side wall due to the safety of the safe side wall.
+
+(25) The next few days, a part of the role of the roof and a sidewall of the sidewalks had been launched with heavy rains.
+
+◼️
+
+[Data](articles/398e213c.json)
+
+[Extended Data](ext_articles/398e213c.ext.json)
+
+---
+
+### ASEAN-Led RCEP May Welcome Sri Lanka, Hong Kong, Chile, and Bangladesh
+
+*2025-09-26 09:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/asean-led-rcep-may-welcome-sri-lanka-hong-kong-chile-and-bangladesh) · `en`
+
+...
+
+[Data](articles/7496ee84.json)
+
+[Extended Data](ext_articles/7496ee84.ext.json)
+
+---
+
+### Troops fall on a bus at Olcott Mawatha
+
+*2025-09-26 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215023) · `si`
+
+A tree has been collapsed on a bus at Olcott Mawatha, Colombo this morning.
+
+◼️
+
+[Data](articles/fbfb51f1.json)
+
+[Extended Data](ext_articles/fbfb51f1.ext.json)
 
 ---

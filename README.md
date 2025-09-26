@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 09:23:02**
+As of **2025-09-26 09:39:10**
 
 ## Newspaper Stats
 
-*Scraped **78,211** Articles*
+*Scraped **78,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,601
-adaderanalk | 10,163
+adaderanalk | 10,165
 tamilmirrorlk | 11,787
-virakesarilk | 12,724
+virakesarilk | 12,728
 adaderanasinhalalk | 13,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,211 (100.0%) of 78,211 articles have been extended.
+78,211 (100.0%) of 78,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### அம்பாந்தோட்டை துறைமுக முதலீடு இராணுவமயமாக்கலை நோக்காக கொண்டதல்ல - சீன இராஜதந்திரி கலாநிதி. ஹுவாங் யுன்சோங்
+
+*2025-09-26 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226100) · `ta`
+
+'முத்துக்களின் சரம்' போன்ற கதைகள், இந்திய பெருங்கடல் பிராந்தியத்திற்கான சீன முதலீடுகளை தவறாக சித்தரிக்கின்றன. உதாரணமாக, கராச்சியில் உள்ள குவாடர் துறைமுகத்தில் 1.6 பில்லியன் அமெரிக்க டொலர், அம்பாந்தோட்டையில் 2 பில்லியன் அமெரிக்க டொலர் மற்றும் ஜிபூட்டியில் பல பில்லியன் டொலர்  முதலீடுகள் , இவை  அனைத்தும் வர்த்தக இணைப்பு மற்றும் உள்ளூர் பொருளாதாரங்களை மேம்படுத்துவதை நோக்கமாகக் கொண்டவையே தவிர, இந்தப் பிராந்தியத்தை இராணுவமயமாக்குவதை நோக்கமாகக் கொண்டவை அல்ல என தெற்காசிய கற்கைகளுக்கான நிலையத்தின் பிரதி பணிப்பாளரும் சிச்சுவான் பல்கலைக்கழத்தின்  இணைப்பாளருமான கலாநிதி. ஹுவாங் யுன்சோங் தெரிவித்தார்.
+
+12 ஆவது காலி கலந்துரையாடலில் கலந்துக்கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+...
+
+[Data](articles/1d3d7f56.json)
+
+---
+
+### யாழ்.சாவகச்சேரி பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் விபத்து ; இளைஞர் பலி!
+
+*2025-09-26 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226099) · `ta`
+
+சாவகச்சேரி பொலிஸ் பிரிவிற்குட்பட்ட  ஏ-09 வீதியில் 304வது கிலோமீற்றர் தூணுக்கு அருகில், இரு மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளார்.
+
+சாவகச்சேரியிலிருந்து யாழ்ப்பாணம் நோக்கிச் சென்ற மோட்டார் சைக்கிள், எதிர் திசையில் வந்த மற்றுமொரு மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
+
+காயமடைந்த இருவரும் சாவகச்சேரி வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர், சிகிச்சை பலனின்றி அதில் ஒருவர் உயிரிழந்தார்.
+
+விபத்தில் உயிரிழந்தவர் மீசாலை பகுதியை சேர்ந்த 21 வயதுடைய இளைஞர் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d80833c5.json)
+
+---
+
+### தெல்தெனியவில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு!
+
+*2025-09-26 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226098) · `ta`
+
+தெல்தெனிய பொலிஸ் பிரிவிற்குட்பட்ட கண்டி - பதியத்தலாவ வீதியின் கெங்கல்ல பகுதியில், வீதியை கடக்க முற்பட்ட பாதசாரி மீது பஸ் மோதி விபத்துக்குள்ளானதில் பாதசாரி உயிரிழந்துள்ளார்.
+
+விபத்தில் பலத்த காயமடைந்து தெல்தெனிய வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் சிகிச்சை பலனின்றி அவர் உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர் பலகொல்ல பகுதியைச் சேர்ந்த 55 வயதுடைய பெண் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+சடலம் தெல்தெனிய வைத்தியசாலை பிரேத அறையில் வைக்கப்பட்டுள்ளது. சம்பவம் தொடர்பான மேலதிக விசாரணைகளை தெல்தெனிய பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/091271ef.json)
+
+---
 
 ### Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch
 
@@ -54,6 +104,24 @@ Fitch Ratings – Colombo/Singapore: Fitch Ratings has assigned Sri Lanka-based 
 
 ---
 
+### Sri Lanka to regain 2019 economic status by next year - President
+
+*2025-09-26 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112927/sri-lanka-to-regain-2019-economic-status-by-next-year-president) · `en`
+
+President Anura Kumara Dissanayake has announced that Sri Lanka is on course to restore its economy to the level it was in 2019, prior to the financial crisis, by next year.
+
+The President made this statement while addressing members of the Sri Lankan community in the United States during his visit to New York for the 80th Session of the United Nations General Assembly (UNGA).
+
+He noted that although Sri Lanka declared bankruptcy in 2022, the country has since made rapid progress in overcoming the crisis.
+
+President Dissanayake also underscored the role of Sri Lankans living abroad, highlighting their financial and moral support during the 2024 presidential and 2025 general elections. He further said that their contribution played a vital role in their victory.
+
+...
+
+[Data](articles/076a7372.json)
+
+---
+
 ### 100mm of rain in 24 hours
 
 *2025-09-26 08:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-100-மில்லி-மீற்றர்-மழை/175-365304) · `ta`
@@ -69,6 +137,28 @@ Rainfall is expected in the North Central Province, Matale, Mannar and Jaffna di
 [Data](articles/f6567424.json)
 
 [Extended Data](ext_articles/f6567424.ext.json)
+
+---
+
+### Landslide warnings issued for several areas in five districts
+
+*2025-09-26 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112926/landslide-warnings-issued-for-several-areas-in-five-districts) · `en`
+
+Early landslide warnings have been issued for multiple areas in five districts as heavy rainfall continues in parts of the island.
+
+Landslide warnings have been in effect from 10:00 p.m. yesterday (25) and will remain in effect until 10:00 p.m. today (26), the National Building Research Organisation (NBRO) said.
+
+Accordingly, a Level 2 (Amber)) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Kalutara and Matara districts as follows:
+
+Meanwhile, a Level 1 (Yellow) warning has been issued for several areas in the following districts:
+
+Galle: Nagoda, Elpitiya, Baddegama, Yakkalamulla Divisional Secretariat DSD and surrounding areas.
+
+Ratnapura: Elapatha, Kalawana, Pelmadulla Divisional Secretariat DSD and surrounding areas.
+
+◼️
+
+[Data](articles/b3e323bd.json)
 
 ---
 
@@ -121,6 +211,26 @@ In the meantime, 835 kg 800 grams of beedi leaves, 635 kg 600 grams of agricultu
 [Data](articles/cae9e50b.json)
 
 [Extended Data](ext_articles/cae9e50b.ext.json)
+
+---
+
+### கனடாவுக்கு அனுப்புவதாகக் கூறி ஏமாற்றும் நோக்கில் போலி ஆவணங்களை வைத்திருந்த மூவர் கைது!
+
+*2025-09-26 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226097) · `ta`
+
+கனடாவுக்கு அனுப்புவதாக கூறி மக்களை ஏமாற்றும் நோக்கில் போலி விசாக்களை வைத்திருந்த இரண்டு சந்தேக நபர்களை பம்பலப்பிட்டி பொலிஸ் நிலைய அதிகாரிகள் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட ஆண் சந்தேக நபர் பொரள்ளையில் வசிக்கும் 69 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+மேலும் 26 மற்றும் 68 வயதுடையவர்கள், கோனகனார மற்றும் பொரள்ளையில் வசிக்கும் பெண்கள் இருவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கனடாவுக்கு அனுப்புவதாக கூறி  3,831,000  மற்றும்  3,436,000 ரூபாய் மோசடி செய்துள்ளதாக தெரியவந்துள்ளது.
+
+மேலும், இந்த சந்தேக நபர்கள் இதுபோன்ற வேறு குற்றங்களில் ஈடுபட்டுள்ளார்களா என்பதைக் கண்டறிய பம்பலப்பிட்டி பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b5c2cb66.json)
 
 ---
 
@@ -1658,6 +1768,8 @@ The MP further stated that the Speaker refused to say that it was not denied the
 
 *2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
 
+While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
+
 Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
 
 The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
@@ -1665,8 +1777,6 @@ The arrests come amid public fury over reckless behaviour during the storm, whic
 The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
 
 Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
-
-The situation turned critical in an instant when a monstrous wave, several metres high, breached the sea wall. The powerful surge completely engulfed the trio, washing them off their feet and onto the pavement behind a barrier.
 
 ...
 
@@ -1903,141 +2013,5 @@ It is expected to attract international attention and strengthen Sri Lanka's adv
 [Data](articles/02c5630e.json)
 
 [Extended Data](ext_articles/02c5630e.ext.json)
-
----
-
-### Special testing activities across the country!
-
-*2025-09-25 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226053) · `ta`
-
-About 1,006 suspects have been arrested on Wednesday (24) only on Wednesday (24) during crimes and drug prevention.
-
-Accordingly, all the regional police at the regional level; Special activities have been implemented.
-
-Accordingly, 28,669 people have been checked by the police. About 1,006 people have been arrested on suspicion.
-
-31 people have been directly identified in connection with further crimes. 378 persons have been arrested on the occasion and 223 on the occasion.
-
-At the same time, 63 persons have been arrested on charges of driving and 20 for negligence.
-
-4364 people have been arrested for other traffic crimes, the police media unit said.
-
-◼️
-
-[Data](articles/8c89f274.json)
-
-[Extended Data](ext_articles/8c89f274.ext.json)
-
----
-
-### Philippines cancels classes, flights as new storm looms
-
-*2025-09-25 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/112913/philippines-cancels-classes-flights-as-new-storm-looms) · `en`
-
-The Philippines shut schools and scrapped flights on Thursday (Sep 25) as a fresh storm threatened to hit just days after a super typhoon killed nine people in the archipelago.
-
-Severe Tropical Storm Bualoi is forecast to intensify into a typhoon on Friday and then slam into the southern end of the Philippines’ largest island, Luzon.
-
-“Widespread flooding and landslides in mountainous areas are possible,” Benison Estareja from the nation’s weather service told a briefing.
-
-The Philippines is hit by an average of 20 storms and typhoons each year, putting millions of people in disaster-prone areas in a state of constant poverty.
-
-Scientists warn that storms are becoming more powerful as the world warms due to the effects of human-driven climate change.
-
-Authorities warned of a “high risk of life-threatening storm surge” of up to 3m with the coming storm.
-
-The Philippine Coast Guard said around 1,500 people were stranded in ports of Bicol, the region where the typhoon is forecast to hit.
-
-...
-
-[Data](articles/84b4f8a2.json)
-
-[Extended Data](ext_articles/84b4f8a2.ext.json)
-
----
-
-### Ranil condolences on behalf of the monks
-
-*2025-09-25 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214996) · `si`
-
-Former President Ranil Wickremesinghe says that the deceit monks have expressed their condolences to all who have been able to express their condolences to all who have been killed by the Uyana Aranya Senasana.
-
-The former President made this statement in a statement.
-
-The former President has wishes the monks who are injured in the accident and is a speedy recovery.
-
-President Ranil Wickremesinghe, President Ranil Wickremesinghe, revealed that they were departed to endangered the sanctuary.
-
-The former President has sent a Nirvana healing of Nirvana healing the monks who was unbeaten.
-
-◼️
-
-[Data](articles/f035ebb6.json)
-
-[Extended Data](ext_articles/f035ebb6.ext.json)
-
----
-
-### No-confidence motion against Speaker
-
-*2025-09-25 14:57:45* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහිව-විශ්වාසභංගයක්/11-418720) · `si`
-
-Parliamentarian Medical Jagath Wickramaratne is not eligible to bear the post and has decided to bring a no-confidence motion against the Speaker.. Mr. Perera said.
-
-He said this in parliament today (25).
-
-◼️
-
-[Data](articles/f4829a2a.json)
-
-[Extended Data](ext_articles/f4829a2a.ext.json)
-
----
-
-### Former French President Nicolas Sarkozy found guilty of criminal conspiracy in Libya case
-
-*2025-09-25 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112912/former-french-president-nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-case) · `en`
-
-Former French President Nicolas Sarkozy has been found guilty of criminal conspiracy in a case related to taking millions of euros of illicit funds from the late Libyan leader Col Muammar Gaddafi.
-
-The Paris criminal court acquitted him of all other charges, including passive corruption and illegal campaign financing.
-
-Sarkozy, who claims the case is politically motivated, was accused of using the funds from Gaddafi to finance his 2007 election campaign.
-
-In exchange, the prosecution alleged Sarkozy promised to help Gaddafi combat his reputation as a pariah with Western countries.
-
-The investigation was opened in 2013, two years after Saif al-Islam, son of the then-Libyan leader, first accused Sarkozy of taking millions of his father’s money for campaign funding.
-
-...
-
-[Data](articles/2a7dd487.json)
-
-[Extended Data](ext_articles/2a7dd487.ext.json)
-
----
-
-### There are reports that unidentified drones are visible at many airports in Denmark
-
-*2025-09-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226052) · `ta`
-
-International media reports that unidentified drones are reported to have been reported at several airports in Denmark.
-
-The Danish police have confirmed that drones were seen in three small airports early Thursday (25) morning.
-
-The Copenhagen Airport, Denmark's main airport, has been temporarily closed, and the Albark Airport used for commercial and military aircraft is currently closed.
-
-Recent incidents, associated with drones and aircraft in Estonian, Polish and Romanian airspace, have led to allegations that Russia is testing NATO protection.
-
-Denmark police said they were investigating the backdrop and could not reject a funny.
-
-More than one drones have been found near the country's fourth largest city in the country, based on population, located in Jatland, North Denmark, a police report said.
-
-The incidents of drones in Alborg were reported to have been stopped at the Copenhagen airport for 4 hours at the Copenhagen airport on Monday.
-
-...
-
-[Data](articles/4d468388.json)
-
-[Extended Data](ext_articles/4d468388.ext.json)
 
 ---

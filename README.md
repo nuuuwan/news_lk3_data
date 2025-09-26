@@ -1,391 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 19:55:31**
+As of **2025-09-26 19:12:40**
 
 ## Newspaper Stats
 
-*Scraped **78,661** Articles*
+*Scraped **78,633** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 254
-newsfirstlk | 428
+newsfirstlk | 426
 dbsjeyarajcom | 634
-bbccomsinhala | 704
+bbccomsinhala | 703
 colombotelegraphcom | 792
 economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,613
-adaderanalk | 10,185
-tamilmirrorlk | 11,816
+adaderanalk | 10,179
+tamilmirrorlk | 11,806
 virakesarilk | 12,739
-adaderanasinhalalk | 13,687
+adaderanasinhalalk | 13,678
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,497 (99.8%) of 78,661 articles have been extended.
+78,471 (99.8%) of 78,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### Disposal issue: Explanation for students
-
-*2025-09-26 19:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதை-விவகாரம்-மாணவர்களுக்கு-விளக்கமறியல்/175-365341) · `ta`
-
-The Kiliyapitiya Magistrate's Court has ordered the remand of four students who allegedly shared a junior student at Vayamba University on September 29.
-
-It is noteworthy that four students studying at the same university were arrested on charges of sharing a junior student at Vayamba University. Remble
-
-◼️
-
-[Data](articles/0c6249d1.json)
-
-[Extended Data](ext_articles/0c6249d1.ext.json)
-
----
-
-### 12 injured in collision involving lorry, van and three-wheeler
-
-*2025-09-26 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112948/12-injured-in-collision-involving-lorry-van-and-three-wheeler) · `en`
-
-Twelve people were injured following a traffic collision involving a lorry, a van and a three-wheeler collided in the Wewita area on the Bandaragama-Kalutara road.
-
-Bandaragama Police said that ten members of a traditional dancing group and a mother and daughter from the same family are among the injured.
-
-A spokesperson for the Bandaragama District Hospital said that seven of the injured are receiving treatment at the Bandaragama District Hospital and five have been referred to the Panadura Base Hospital for further treatment.
-
-The incident had occurred when the lorry was approaching Bandaragama from Moranthuduwa, and a three-wheeler coming from the opposite direction crossed the road and hit the lorry, causing it to overturn. The lorry driver had applied the brakes and the van arriving from behind had rear-ended the lorry, causing the accident.
-
-Police also stated that the lorry driver had been attacked by residents of the area following the accident.
-
-...
-
-[Data](articles/11dfcf60.json)
-
----
-
-### Sri Lanka to Launch New Support System for Families of the Disappeared
-
-*2025-09-26 18:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-launch-new-support-system-for-families-of-the-disappeared) · `en`
-
-...
-
-[Data](articles/999d70cd.json)
-
-[Extended Data](ext_articles/999d70cd.ext.json)
-
----
-
-### 16-year-old suspect arrested in Sunghimodara incident
-
-*2025-09-26 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215048) · `si`
-
-The court had granted the police permission to hold a son of the man who was found in the Tangalle Seennalle area.
-
-The 16-year-old son was produced before the Tangalle Magistrate today (26).
-
-Accordingly, the suspect has been granted permission to hold and interrogation.
-
-The two sons of the deceased have been arrested by the police, including the owners of the drug found in the house and six suspects were taken by the police.
-
-Accordingly, one son and lorries were produced before court on the 24th.
-
-The court had granted the police permission to hold them up to the 29th of this month.
-
-◼️
-
-[Data](articles/98b21b82.json)
-
-[Extended Data](ext_articles/98b21b82.ext.json)
-
----
-
-### Sri Lanka, India ties have reached point of unprecedented excellence: Envoy
-
-*2025-09-26 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112947/sri-lanka-india-ties-have-reached-point-of-unprecedented-excellence-envoy) · `en`
-
-The ties between India and Sri Lanka have reached a point of “unprecedented excellence” since the visit of President Anura Kumara Dissanayake to India and the following visit of Prime Minister Narendra Modi to Sri Lanka, the island nation’s envoy said on Friday.
-
-Interacting with PTI Videos on the sidelines of an event in New Delhi, Sri Lankan High Commissioner Mahishini Colonne also said, “Opportunities to explore partnerships are at an optimal level”.
-
-At this point, Sri Lanka has stabilised its economy and is “well on the path of recovery and transformation”, she said, when asked about the current state of its economy.
-
-In this journey, we see immense opportunities for collaboration with India, she said.
-
-High Commissioner Colonne said, “Since our President’s visit to India after his election, and then Prime Minister Modi’s visits to Sri Lanka a few months after it, Sri Lanka-India ties have reached a point of unprecedented excellence”.
-
-...
-
-[Data](articles/f723797e.json)
-
----
-
-### A proposal to amend the Standing Order to strengthen the COPE Committee
-
-*2025-09-26 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215047) · `si`
-
-A proposal to revise the Standing Orders regarding the legal action against the Committee on Public Enterprises (COPE) has been presented to Parliament today.
-
-The proposal has been made by the Chairman of the Committee Dr. Nishantha Samaraweera by the Chairman of the Committee Dr. Nishantha Samaraweera.
-
-It has been suggested that the Bribery or Corruption Commission may directly directly directly to the Commission or the Corruption Commission directly to the Commission or Corruption to take legal action.
-
-The proposal was sent to the Committee on Standing Orders to consider this proposal.
-
-◼️
-
-[Data](articles/88499fd8.json)
-
-[Extended Data](ext_articles/88499fd8.ext.json)
-
----
-
-### Two Sri Lankans in Israel addicted to the island back to the island
-
-*2025-09-26 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215046) · `si`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) says that two workers in Israel who have been physically and emotional abnormal due to drug addiction will be taken back to the island tomorrow (27).
-
-One of the workers said that one of them registered with the Bureau under Israel's employment program, and in September 2024, a man left for a job in September 2024.
-
-There he had not reported to work in his work over the past 2 months and has been brought to Tel Aviv from Jerusalem. Accordingly, the Sri Lankan embassy intervenes in the country will be sent to the island.
-
-The other person is a period of seven years and he has not been arrested for a long time and has not reported to his workplace.
-
-The Foreign Employment Bureau is probably that the law to abroad for drug addiction or to abide in the country, she is likely to be involved in drug addiction and to be imprisoned.
-
-The Bureau said that the functions of the job seekers have been highly aware of the bureau.
-
-◼️
-
-[Data](articles/c1d5bc71.json)
-
-[Extended Data](ext_articles/c1d5bc71.ext.json)
-
----
-
-### Three others arrested
-
-*2025-09-26 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215045) · `si`
-
-A farmers' officer, an office employee officer and a women's security officer has been arrested in raids performed by the Bribery Commission.
-
-The three suspects have been arrested in connection with two raids.
-
-A sum of Rs.
-
-The arrested person is said to be a farmer development officer in the Agrarian Service Center.
-
-Meanwhile, an officer of the driver's licensing department office worked at the Department of Motor Traffic has been arrested yesterday.
-
-According to a complaint made by a person in Samanturai, the person has been arrested.
-
-It is also reported that a women security officer who operated in the Sri Lanka Ayurvedic Drugs Corporation has been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/c804e790.json)
-
-[Extended Data](ext_articles/c804e790.ext.json)
-
----
-
-### Landslide warnings in several areas extended
-
-*2025-09-26 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215044) · `si`
-
-The National Building and Research Organization has taken steps to extend the landslide basement of landslides which were burnting to several Divisional Secretariats across the country, considering the existing rainfall.
-
-According to the organization, action will be taken to extend the warnings today (26).
-
-Accordingly, the Matara District, Kalawana, Kalawana, Kalawana, Kalawana, Nuwara Eliya, Kalawana, Nuwara Eliya, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Gampaha District, has been issued.
-
-Also, in the Colombo District, Baddemulla, Baddemulla, Gampaha, Elpitiya, Kalutara District, Kandy District, Alawwa, Gampaha District District District District Divisional Secretariat Division District Secretariat Divisional Secretariat Divisions A warning announcement has been issued.
-
-In addition, continuous rainfalls in the island are raining in the island and the National Building and Research Organization (NBRO) have informed the public.
-
-◼️
-
-[Data](articles/b9aaf2b8.json)
-
-[Extended Data](ext_articles/b9aaf2b8.ext.json)
-
----
-
-### Latest visions of the horrific accident
-
-*2025-09-26 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215043) · `si`
-
-A lorry, van and three-wheeler collided in the Bandaragama-Kalutara road.
-
-Among the injured were ten members of a dance and a mother and a harm, Bandaragama Police.
-
-A total of 7 injured are treated at the Bandaragama District and five others have been referred to the Panadura Base Hospital.
-
-The lorry was drawn to the pathway from the Keravitah, to Bandaragama and the lorry driver brake was tightened by the lorry behind the lorry.
-
-Residents of the area have been attacked by the lorry driver.
-
-The victim was to attend a procession from the Pothupitiya, Pothupitiya, police said.
-
-Police investigations have revealed that the mother and daughter was traveling back to the house in the three-wheeler.
-
-With the accident, Bandaragama Kalutara road was congested.
-
-◼️
-
-[Data](articles/f2e7c102.json)
-
-[Extended Data](ext_articles/f2e7c102.ext.json)
-
----
-
-### The only meals are: but the chickpeg
-
-*2025-09-26 16:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலைதழைகள்-மட்டும்-தான்-சாப்பாடு-ஆனால்-சிக்ஸ்பேக்/175-365339) · `ta`
-
-We are living a busy life without time to eat a lot of people today. In particular, people who go to work in the IT sectors are suffering from various health problems, such as obesity and blood pressure, as they eat too much of junk foods at night.. The only advice that doctors give to them is to take the right foods in a timely manner.
-
-Can you believe if one survives for many years by drinking only the water in the natural streams, climbing the trees and mountains in the trees and the mountains? Yes, a young man from Karnataka is surprised by the Six Pack and Fitness of the Six Pack and Fitness.
-
-Who is this young man? How is his lifestyle? The ETV Bharat group went to find him to find out.
-
-Buddha Mallik Hosamani hails from Ugarakola in the Sawadatti taluk of Belagavi district, Karnataka. 60 kg weight, 5.9 feet high. The 34 -year -old is a yoga coach. He lives a hut on a mountain called Sithankolla, a short distance from his village. Hosamani shared with us about her lifestyle.
-
-...
-
-[Data](articles/775ce23b.json)
-
-[Extended Data](ext_articles/775ce23b.ext.json)
-
----
-
-### Former FBI director James Comey indicted on two charges
-
-*2025-09-26 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112946/former-fbi-director-james-comey-indicted-on-two-charges) · `en`
-
-A federal grand jury in the US state of Virginia has formally charged former FBI Director James Comey with two offences related to testimony he gave to Congress.
-
-Mr Comey, who has long drawn US President Donald Trump’s criticism, is accused of lying to a Senate committee in 2020 about whether he authorised a leak of classified information to the media.
-
-Responding to the indictment, Mr Comey declared himself innocent and said he had “great confidence in the federal judicial system”.
-
-The indictment comes days after Trump called on the country’s top law enforcement official to more aggressively investigate his political adversaries, including Mr Comey.
-
-An indictment in the US justice system is a formal accusation issued by a grand jury after they review evidence to determine if a case should proceed.
-
-...
-
-[Data](articles/80bff09e.json)
-
----
-
-### Christians
-
-*2025-09-26 16:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிறிஸ்தவர்கள்-நெற்றியில்-குங்குமம்-பூசிய-விவகாரம்/175-365338) · `ta`
-
-A case has been registered against those who have taken some of the Christian campaign to the temple, saffron on the forehead and apologized to God.
-
-Police have registered a case against three people, including Nayanar Nagendran's assistant, on a complaint that the people who went to prayers were made of saffron.
-
-More than 30 people from the Alangulam area of ​​the Tenkasi district have visited the villages of Keelakkalur and Nadukkallur in the Nellai district on the 22nd.. They are said to have been involved in religious propaganda. Subsequently, they were reportedly led by Hindu Front District Secretary Manikandan Mahadevan and Angraj of the BJP.
-
-Later, they seem to have been involved in the argument that the Hindus had entered the areas where most of the lives were in place.. Also, allegations were made that some of the crews who had come to campaign were taken to a nearby temple, coated on the forehead and forced God to apologize to God.. The incident caused a stir.
-
-...
-
-[Data](articles/dfe41d65.json)
-
-[Extended Data](ext_articles/dfe41d65.ext.json)
-
----
-
-### Namal's Girish case: Court order issued
-
-*2025-09-26 16:44:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-கிரிஷ்-வழக்கு-நீதிமன்றம்-பிறப்பித்த-உத்தரவு/175-365337) · `ta`
-
-The Colombo High Court on Friday (26) has ordered the Registrar of the Fort Magistrate's Court to take action to obtain the original report of the case filed by the Attorney General against the Attorney General against the Krishna deal.
-
-The case was taken up for hearing today (26) and the accused Namal Rajapaksa appeared in court.
-
-◼️
-
-[Data](articles/f5be7f04.json)
-
-[Extended Data](ext_articles/f5be7f04.ext.json)
-
----
-
-### Sri Lanka To Introduce New Counter - Terrorism Law Aligned with Global Standards
-
-*2025-09-26 16:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-introduce-new-counter-terrorism-law-aligned-with-global-standards) · `en`
-
-...
-
-[Data](articles/216723b7.json)
-
-[Extended Data](ext_articles/216723b7.ext.json)
-
----
-
-### Update on Na Uyana Monastery cable car tragedy: Full list of victims released
-
-*2025-09-26 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112945/update-on-na-uyana-monastery-cable-car-tragedy-full-list-of-victims-released) · `en`
-
-The bodies of the Indian and Romanian Buddhist monks who lost their lives in the tragic cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) in Pansiyagama, Melsiripura, will be repatriated to their respective countries at the request of their families, in coordination with the High Commissioner’s Office.
-
-The remains of the other monks will be placed at Na Uyana Monastery from 10:00 a.m. on September 26 for final respects. The funeral rites are scheduled to take place on September 27, at 4:00 p.m. at the Pansiyagama Cemetery.
-
-The accident occurred on September 24, 2025, at approximately 9:10 p.m., when 13 monks were traveling from the lower area of Na Uyana Monastery to their dwellings in the Medakanda area. They were using a cable cart that had been in service for around 22 years and was typically used to transport alms and other supplies.
-
-...
-
-[Data](articles/be5ec0df.json)
-
----
-
-### 11 people injured when 3 vehicles crashed
-
-*2025-09-26 16:38:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வாகனங்கள்-மோதியதில்-11-பேர்-காயம்/175-365336) · `ta`
-
-Bandaragama police say that 11 people were injured when a lorry, van and three wheelers crashed into the Bandaragama-Kaluturai road. The injured belong to the dance group.
-
-A three -wheeler from the opposite direction crossed the road as the lorry was approaching Bandaragama.. Police say that the lorry driver crashed into a lorry with a lorry behind the lorry.
-
-The injured have been admitted to the Bandaragama district hospital. Bandaragama police are investigating.
-
-◼️
-
-[Data](articles/9582572e.json)
-
-[Extended Data](ext_articles/9582572e.ext.json)
-
----
-
-### Catholic Bishop of Conference on Being Hatin 'Buddhist Monks' Conference
-
-*2025-09-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215042) · `si`
-
-A condolence message has been issued by the Sri Lanka Catholic Bishop conference regarding the death of a discrimination in the land of Melsiripura, Malaysiripura.
-
-It is also revealed that he was a grieving news for the Sambuddha and Sri Lanka to be the case with him.
-
-The announcement of the Catholic Bishop conference is published in the Catholic Bishop conference.
-
-The statement of the dezed exploitation of the local overseas monks and the monks who have seriously wounded are heavily healing.
-
-◼️
-
-[Data](articles/970849ae.json)
-
-[Extended Data](ext_articles/970849ae.ext.json)
-
----
 
 ### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
 
@@ -398,142 +44,6 @@ COLOMBO (News 1st); The Walasmulla Magistrate’s Court has granted permission f
 [Data](articles/df9a645e.json)
 
 [Extended Data](ext_articles/df9a645e.ext.json)
-
----
-
-### Three arrested for defrauding money by fake Visa stickers claiming to be sent
-
-*2025-09-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215041) · `si`
-
-Two suspects and two suspects have been arrested in charge of pseudo-visa stickers with the intention of cheating money.
-
-The money has been fraudulent and arrested the suspects yesterday (25) and arrested the suspects on information received regarding this yesterday.
-
-The suspect is a 69 year old resident of Borella and the suspects were 26 and 68 years old.
-
-One suspect performing to Canada. 3,831,000 and Rs. 3,831,000 and Rs. It has been revealed that 3,436,000 has been cheated.
-
-Bambalapitiya Police are conducting further investigations to reveal whether these suspects are involved in such crimes.
-
-◼️
-
-[Data](articles/cd7d40bd.json)
-
-[Extended Data](ext_articles/cd7d40bd.ext.json)
-
----
-
-### Kush'Shudan's flight passenger caught
-
-*2025-09-26 16:09:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷூடன்-விமான-பயணி-சிக்கினார்/175-365334) · `ta`
-
-A Sri Lankan passenger who was transporting the "Kush" drug into the country worth Rs 41 lakhs 80 thousand and taken out of the Katunayake airport was arrested by the authorities of the airport police drug detention unit on Thursday night.
-
-He is a 48 -year -old businessman who is involved in sand and gravel distribution industry in Ratmalana.
-
-Three cases of drug -related cases have been registered against him by the headquarters of the Colombo Police Drug Prevention Unit.
-
-He arrived at the Katunayake airport by the Sri Lanka Airlines flight UL-405 at 06.30 pm on Thursday (25) from Thailand's Bangkok.
-
-He hid 418 grams of "Kush" in his suitcase "shopping" bag.
-
-He was produced before the Negombo Magistrate's Court on Friday (26), where he was allowed to be detained until October 08.
-
-◼️
-
-[Data](articles/373a3d90.json)
-
-[Extended Data](ext_articles/373a3d90.ext.json)
-
----
-
-### Four Wayamba Uni. students remanded over ragging incident
-
-*2025-09-26 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112944/four-wayamba-uni-students-remanded-over-ragging-incident) · `en`
-
-The Kuliyapitiya Magistrate’s Court today (26) ordered the remand of four third-year students of the Wayamba University who were arrested in connection with the alleged ragging of a second-year student at the same university.
-
-The suspects were produced before the court earlier today, following which the Magistrate ordered that they be remanded until September 29, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/afffc345.json)
-
----
-
-### 11 killed in Colombia by drinking poison
-
-*2025-09-26 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215040) · `si`
-
-At least 11 people died due to the toxic alcohol in Brakila, Colombia.
-
-Foreign media reports that 10 others have been hospitalized due to allegations that have been drunk.
-
-Many of the dead are homeless streets.
-
-Foreign journalists, the alcohol has been produced in a house and is among the deceased persons.
-
-◼️
-
-[Data](articles/135e4e0f.json)
-
-[Extended Data](ext_articles/135e4e0f.ext.json)
-
----
-
-### In the woman's underwear: 52 buckets recovery
-
-*2025-09-26 16:03:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்ணின்-உள்ளாடைக்குள்-ஐஸ்-52-பக்கெட்டுகள்-மீட்பு/76-365333) · `ta`
-
-Harendra Kalukampitiya, Chief Inspector of Nawalapitiya Police, said that a couple who allegedly left ice packets in various places claiming to go to the maternity hospital on the 26th.
-
-A group of officials, including the Navalapitiya Police Officer in charge of the Nawalapitiya Police, left the ice buckets near the home of the old railway officer on the Nawalapitiya Tholaspaka road after receiving money from the Easy Cash system. Police said they were found 52 ice packets during the raid.
-
-It has been revealed that 52 ice buckets have been recovered in the suspect's underwear and each ice pocket is sold for about Rs 7,000.
-
-◼️
-
-[Data](articles/e720447a.json)
-
-[Extended Data](ext_articles/e720447a.ext.json)
-
----
-
-### The weapons of Kehelbatara Padmeh's weapons rescue near the fish market
-
-*2025-09-26 15:57:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெல்பத்தர-பத்மே-வின்-ஆயுதங்கள்-மீன்-சந்தைக்கு-அருகில்-மீட்பு/175-365332) · `ta`
-
-The Beliyagoda North Criminal Investigation Department said that a bag near the Beliyagoda fish market was found in a bag near the garbage bin, a large-scale T-56 ammunition and a military uniform, allegedly hidden by the underworld gang.
-
-Police have recovered 4 T-56 megacins in the bag, a micro pistol, a revolver, 520 of the T-56 varieties, a handwriting and a volume of military uniforms.
-
-The information was revealed during investigations conducted by the Western Province Northern Province.
-
-Following the recent arrest of five underworld gang members, including Mandu Padmasiri or 'Kehelbattara Padme' organized in Jakarta's Jakarta, three others, including Kehelphtara Padme, have been detained under the Prevention of Criminal Investigation Department.
-
-◼️
-
-[Data](articles/df0b45b7.json)
-
-[Extended Data](ext_articles/df0b45b7.ext.json)
-
----
-
-### CEA transactions to be processed via ‘GovPay’ from today
-
-*2025-09-26 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112943/cea-transactions-to-be-processed-via-govpay-from-today) · `en`
-
-The Ministry of Environment has announced that all payment transactions of the Central Environmental Authority’s (CEA) will be facilitated through the digital payment platform ‘GovPay’ with effect from today (26).
-
-In a statement, the Ministry noted that CEA clients will now be able to carry out all payment-related transactions through ‘GovPay,’ enabling more efficient and transparent services.
-
-In line with the government’s digital governance policy, many state institutions are currently performing their duties using the modern  technology and accordingly, the ‘GovPay’ payment facility has been introduced earlier this year as part of efforts to digitize government transactions.
-
-At present, 137 government institutions are linked to the platform. With today’s addition, the CEA becomes the 138th state institution to integrate the ‘GovPay’ platform into its payment system.
-
-◼️
-
-[Data](articles/05daced8.json)
 
 ---
 
@@ -586,22 +96,6 @@ According to the Japanese government's invitation, the President is on official 
 [Data](articles/7719b89a.json)
 
 [Extended Data](ext_articles/7719b89a.ext.json)
-
----
-
-### சம்பத் மனம்பேரிக்கு 90 நாள் தடுப்புக்காவல்
-
-*2025-09-26 15:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-90-நாள்-தடுப்புக்காவல்/175-365330) · `ta`
-
-The Valasmulla Magistrate's Court on Wednesday (26) has granted permission to investigate Sampath Manamperi, who is currently being detained.
-
-He was arrested in connection with the discovery of two chemical containers suspected of being used in the "ice" drug.
-
-◼️
-
-[Data](articles/6332f951.json)
-
-[Extended Data](ext_articles/6332f951.ext.json)
 
 ---
 
@@ -744,28 +238,6 @@ In the North and East, the five -point demands to stop the newly planned Sinhale
 [Data](articles/8e4e7e4e.json)
 
 [Extended Data](ext_articles/8e4e7e4e.ext.json)
-
----
-
-### Dileepan's Memorial Day at the University of Jaffna
-
-*2025-09-26 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்தில்-திலீபனின்-நினைவு-தினம்/175-365329) · `ta`
-
-The 38th commemoration of Dileepan, the 38th commemoration of the sacrifice of fasting on the five -point demands, was celebrated on Friday (26).
-
-The sacrificial torch began at 12 noon and the public flame was loaded.
-
-Subsequently, the flower garland was paid to the university community to pay tribute to the portrait of Dileepan.
-
-University students, university lecturers and university non -academic staff were also present.
-
-In the North and East, the five -point demands to stop the newly planned Sinhalese settlements, the release of Tamil political prisoners detained in prisons and camps, the emergency law should be completely abolished, the weapons provided to the guards, and the opening of new police stations in Tamil areas should be stopped. He was embroiled in a hunger strike without drinking water in Nallur in Jaffna for 12 days from 26.09.1987.
-
-◼️
-
-[Data](articles/fa2a1b95.json)
-
-[Extended Data](ext_articles/fa2a1b95.ext.json)
 
 ---
 
@@ -1509,28 +981,6 @@ However, he asked that I could not answer the question of madness, and to immedi
 
 ---
 
-### Court denies the request arrests of Minister Wasantha
-
-*2025-09-26 12:50:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy9nypg0g8qo) · `si`
-
-Court denies the request arrests of Minister Wasantha
-
-Mount Lavinia Magistrate Pasan Amaraseena refused to take a criminal offense to the first complainant to be arrested by the two storied tax of the Dehiwala-owned Varday Institute.
-
-The Magistrate refused the request for the Attorney General on February 19, due to the investigation into the Attorney General on February 19, and the investigation into the Attorney General on 19th February.
-
-Deputy Minister Mahinda Jayasinghe, Kaduwela Mayor Ranjan Jayalal and the Colombo Fraud Samarasinghe had come to the Colombo Fraud Samaral and the Colombo Fraud Samarasinghe on the 14th of August due to the statement made by a fake tax deed and had been reported to Rs. Was directed.
-
-All statements regarding the investigation have been finalized in the Declaration of the Executive Committee of the Executive Committee at the General Assembly of the National Workers Convention in the General Assembly.
-
-...
-
-[Data](articles/179effb6.json)
-
-[Extended Data](ext_articles/179effb6.ext.json)
-
----
-
 ### Today's currency exchange rate
 
 *2025-09-26 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226132) · `ta`
@@ -1880,5 +1330,561 @@ The suspect and prosecutions have been taken to the Moneragala Magistrate's Cour
 [Data](articles/552c8b17.json)
 
 [Extended Data](ext_articles/552c8b17.ext.json)
+
+---
+
+### Asian Cup Super 4 round: India - Sri Lanka clashes today
+
+*2025-09-26 12:00:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பை-சூப்பர்-4-சுற்றில்-இந்தியா-இலங்கை-இன்று-மோதுகின்றன/44-365312) · `ta`
+
+The Sri Lankan team clashed in Duba tonight in the last Adut Dutt of the Asia Cup T20 Cricket Series.
+
+The Asian Cup T20 Cricket Series. The series, which has been mixed with 8 teams, is approaching the end. Suri Yagu Mar Yadav, the first two Ad Dung Clay in the Soup Bur, won the tippott.
+
+In the Soup Bur, the team defeated the Pakistan by 6 wiggles with their first Adut Dutt.. The 2nd Adath Dil Wang Katasa team was 41 runs with the Yasat Dil. In this case, the team clashes with Sri Lanka today in the last Adutt.. The game takes place in Dubai at 8 pm.
+
+Sri Lanka lost the chance to lose the end of the Tip Pott.. The team lost 4 wickets with the Yasat the Yasat the Lum and the Pakistani 5 wicked with the 5 wickets.. The team may be the best practitioner for the end of the time.
+
+...
+
+[Data](articles/c30c100b.json)
+
+[Extended Data](ext_articles/c30c100b.ext.json)
+
+---
+
+### More than Rs. 8 million has been spent on maintains
+
+*2025-09-26 12:00:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-මඳර-8ක-නඩතතවට-කට-8කට-වඩ-වයදමක-කරල/101-680267) · `si`
+
+The Presidential Secretariat has also revealed last year (2024) to maintain eight presidential pasters.
+
+392 security personnel in the President's House and 16 civil servants were employed. 13,741,080 had been spent on 16 civil servants to pay 16 civilians (2024).
+
+The audit report has been revealed in the Annual Performance Report issued by the Presidential Secretariat.
+
+◼️
+
+[Data](articles/6ba28c8e.json)
+
+[Extended Data](ext_articles/6ba28c8e.ext.json)
+
+---
+
+### More than Rs. 8 million has been spent on maintains
+
+*2025-09-26 12:00:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-මඳර-8ක-නඩතතවට-කට-8කට-වඩ-වයදමක-කරල/1-680267) · `si`
+
+The Presidential Secretariat has also revealed last year (2024) to maintain eight presidential pasters.
+
+392 security personnel in the President's House and 16 civil servants were employed. 13,741,080 had been spent on 16 civil servants to pay 16 civilians (2024).
+
+The audit report has been revealed in the Annual Performance Report issued by the Presidential Secretariat.
+
+◼️
+
+[Data](articles/ccdf98a5.json)
+
+[Extended Data](ext_articles/ccdf98a5.ext.json)
+
+---
+
+### Over 700 suspects arrested in special island-wide police operations
+
+*2025-09-26 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112936/over-700-suspects-arrested-in-special-island-wide-police-operations) · `en`
+
+The Sri Lanka Police reported that a total of 717 suspects were arrested yesterday (25), during ongoing crime and drug prevention operations conducted across the country.
+
+Authorities stated that efforts to apprehend individuals involved in criminal activities will continue islandwide.
+
+Special operations have been implemented at all regional police stations at the divisional level, said police.
+
+• Number of people directly identified in connection with crimes: 28
+
+◼️
+
+[Data](articles/0e6bca1b.json)
+
+[Extended Data](ext_articles/0e6bca1b.ext.json)
+
+---
+
+### Po Rady Prove Last to the Last: Former President of France
+
+*2025-09-26 11:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடைசிவரை-போ-ராடி-நிரூபிப்-பேன்-பிரான்ஸ்-முன்னாள்-ஜனாதிபதி/50-365311) · `ta`
+
+In 2007, President Tal Prasha Rath Dukkaka, who was held in 2007, has been sentenced to five years in prison for the President Nik Kohsi Sir Kosi, who has received the anti-President Gaddafi of the Libi Ya.
+
+பிரான்​ஸில் கடந்த 2007-ம் ஆண்டு நடந்த ஜனாதிபதி தேர்​தலில் நிக்​கோலஸ் சர்​கோசி வெற்றி பெற்று அதிப​ரா​னார். அப்​போது தேர்​தல் பிரச்​சா​ரத்​துக்​காக லிபி​யா​வின் அப்​போதைய ஜனாதிபதி மாமர் கடாஃபி​யிடம் இருந்து சட்​ட​விரோத​மாக நிதி பெற்​ற​தாக​வும், இதற்கு பிர​திபல​னாக, தனித்​து​விடப்​பட்ட லிபி​யா​வுக்கு சர்​வ​தேச அரங்​கில் பிரான்ஸ் ஆதர​வாக செயல்​படும் என நிக்​கோலஸ் சர்​கோசி உறு​தி​ அளித்ததாகவும் தெரியவந்தது.
+
+It is a series of funds that have been funded by the President of the Chairperson of the President.. President Nick Kolus Sir Kosi refused to do this. In this case, the verdict of the case yesterday. The Judicial Judiciary, who claimed that it was a hostile to Libi, that the President was hosting a five -year -old prisoner.
+
+...
+
+[Data](articles/fbe6780d.json)
+
+[Extended Data](ext_articles/fbe6780d.ext.json)
+
+---
+
+### Small corrections in Parliament Kitchen should be made: Prasad Siriwardena MP
+
+*2025-09-26 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226117) · `ta`
+
+Opposition parliamentarian Prasad Siriwardena has said that small amendments should be made in the Kitchen of Parliament.
+
+In this case, "there are six stoves inactive there and the freezer room should be renewed. "EXHAUST FAN) should be replaced by the kitchen smoke, smell and smell of smells and the equipment used to ensure ventilation in the kitchen," he said.
+
+In addition, the MP's misconception is that all windows are covered with metal zones and glasses and the kitchen has been affected by the kitchen by mice and cockroaches.. Said.
+
+◼️
+
+[Data](articles/c7cd5760.json)
+
+[Extended Data](ext_articles/c7cd5760.ext.json)
+
+---
+
+### 717 arrested on a special operation
+
+*2025-09-26 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215029) · `si`
+
+Police say 717 persons were arrested on suspicion of criminal and drug prevention operations in Sri Lanka with the operations of the country.
+
+Furthermore further stated that the arrest of suspects involved in crime island wide are carried out in the future.
+
+Accordingly, special operations have been implemented covering all local police stations at the divisional level.
+
+◼️
+
+[Data](articles/4502242d.json)
+
+[Extended Data](ext_articles/4502242d.ext.json)
+
+---
+
+### '' The 2019 Country spent going next year '
+
+*2025-09-26 11:41:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/2019-රට-තබ-තනට-ලබන-අවරදද-යනන-පළවන/101-680266) · `si`
+
+President Anura Kumara Dissanayake said at a Sri Lankan briefing in the United States that Sri Lanka is believed to reach the 2019 economy next year.
+
+Economic experts say that economic experts create a decade in an economic collapse, but it is said that it is possible to take the country in a short time.
+
+The President also said that he was obliged with the expectations and hopes of the country.
+
+Mr. Dissanayake stressed that he was not prepared to be subjected to the influence of the people to power a year ago.
+
+The meeting with the Sri Lankan community in the United States was held at the Standan Island Arts College, New York Kandy.
+
+A large number of Sri Lankan professionals including Sri Lankan professionals in New York were organized by the Sri Lankan professionals.
+
+The President said that the present government has marked a decisive disturbance in the country's economic stability, domination of law, and endangered a good political culture and create a good political culture.
+
+...
+
+[Data](articles/92c2b930.json)
+
+[Extended Data](ext_articles/92c2b930.ext.json)
+
+---
+
+### '' The 2019 Country spent going next year '
+
+*2025-09-26 11:41:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/2019-රට-තබ-තනට-ලබන-අවරදද-යනන-පළවන/1-680266) · `si`
+
+President Anura Kumara Dissanayake said at a Sri Lankan briefing in the United States that Sri Lanka is believed to reach the 2019 economy next year.
+
+Economic experts say that economic experts create a decade in an economic collapse, but it is said that it is possible to take the country in a short time.
+
+The President also said that he was obliged with the expectations and hopes of the country.
+
+Mr. Dissanayake stressed that he was not prepared to be subjected to the influence of the people to power a year ago.
+
+The meeting with the Sri Lankan community in the United States was held at the Standan Island Arts College, New York Kandy.
+
+A large number of Sri Lankan professionals including Sri Lankan professionals in New York were organized by the Sri Lankan professionals.
+
+The President said that the present government has marked a decisive disturbance in the country's economic stability, domination of law, and endangered a good political culture and create a good political culture.
+
+...
+
+[Data](articles/c6df3552.json)
+
+[Extended Data](ext_articles/c6df3552.ext.json)
+
+---
+
+### Inquiry into Kehelbatara Padmeh; Over 500 bullets, capture of guns!
+
+*2025-09-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226120) · `ta`
+
+Battery and guns have been seized by the Western Province Northern Criminal Investigation, based on investigations conducted by the Underworld Group Chairman of the Underworld Group, 'Kehelbattara Padme'.
+
+About 500 bullets and R-56 rifles, four R-56 magazines and a micro pistol have been seized.
+
+Police said the weapons were seized as they were hidden near the Peliyagoda fish market.
+
+◼️
+
+[Data](articles/c9edcf49.json)
+
+[Extended Data](ext_articles/c9edcf49.ext.json)
+
+---
+
+### Government blocked pressure
+
+*2025-09-26 11:40:31* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ආණඩව-හරවණ-දෂණ-වරධය/2-680265) · `si`
+
+The JVP, a party based on Marxist Revolutionary Politics, was placed as a voice of political moral and corruption in recent decades. It is not a haul, but the JVP deliberately a place.
+
+Because they create an unlimited political space, and it was an additional advantage that they would not show "corruption" in the public eye. The politics of the JVP's leading compass gone beaten on the other political parties and people who go to other political parties and individuals in Sri Lanka.
+
+The JVP gained the economic crisis in the recent past and the rumors that are deposed and attractive to corruption and attract large public attention and attractive. But now, the voice voice that the JVP has been predicated to decades can be seen as a role of the fate.
+
+...
+
+[Data](articles/238cf958.json)
+
+[Extended Data](ext_articles/238cf958.ext.json)
+
+---
+
+### Government blocked pressure
+
+*2025-09-26 11:40:31* · [`lankadeepalk`](https://www.lankadeepa.lk/friday/ආණඩව-හරවණ-දෂණ-වරධය/122-680265) · `si`
+
+The JVP, a party based on Marxist Revolutionary Politics, was placed as a voice of political moral and corruption in recent decades. It is not a haul, but the JVP deliberately a place.
+
+Because they create an unlimited political space, and it was an additional advantage that they would not show "corruption" in the public eye. The politics of the JVP's leading compass gone beaten on the other political parties and people who go to other political parties and individuals in Sri Lanka.
+
+The JVP gained the economic crisis in the recent past and the rumors that are deposed and attractive to corruption and attract large public attention and attractive. But now, the voice voice that the JVP has been predicated to decades can be seen as a role of the fate.
+
+...
+
+[Data](articles/b80f0cb0.json)
+
+[Extended Data](ext_articles/b80f0cb0.ext.json)
+
+---
+
+### Court orders Namal's Crish case
+
+*2025-09-26 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215028) · `si`
+
+The Colombo High Court today (26) was appointed to the Registrar of the Fort Magistrate's Court today.
+
+The case was called before the Colombo High Court Judge Armgar Spanishman.
+
+Sampath Mendis, who appeared in behalf of MP Namal Rajapaksa at the time, said that some of the documents asked by the defendant said that the complaint was not given by the Complaint.
+
+The President's Counsel said that the documents were very important to face a fair trial.
+
+Deputy Solicitor General Wasantha Perera, appearing on the response, said that many of the documents were requested by the defendant.
+
+He added that the scribes that the Criminal Investigations Department (CID) will be provided with the documents mentioned by the defendant not yet received.
+
+The judge said the judge said to be able to provide the documents requesting them to the next day before the next day.
+
+The judge also ordered to be summoned for the previous trial seminar on the 18th of December.
+
+...
+
+[Data](articles/1d067895.json)
+
+[Extended Data](ext_articles/1d067895.ext.json)
+
+---
+
+### 2026 Appropriation Bill presented to Parliament
+
+*2025-09-26 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112935/2026-appropriation-bill-presented-to-parliament) · `en`
+
+The Appropriation Bill for the year 2026 has been presented to Parliament today (26) by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+The Appropriation Bill, to allocate funds for the government expenditure in 2026 financial year, was gazetted on September 18.
+
+According to the Appropriation Bill, which the National People’s Power (NPP) government is scheduled to present to Parliament as its second budget, the total government expenditure for 2026 is Rs. 4,434 billion.
+
+The Ministry of Finance has been allocated the largest share, amounting to Rs. 634 billion, for the coming year.
+
+The Ministry of Provincial Councils and Local Government has been allocated Rs. 618 billion, while Rs. 596 billion has been allocated to the Ministry of Public Administration.
+
+◼️
+
+[Data](articles/6408499b.json)
+
+[Extended Data](ext_articles/6408499b.ext.json)
+
+---
+
+### Pujotha found a hidden pistol
+
+*2025-09-26 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215027) · `si`
+
+More than 500 T-56 ammunition, which is said to be hidden by the underworld gang member, has been recovered from the fish shot of Peliyagoda.
+
+The police can also find 4 T-56 Magazines and a micro pistol.
+
+This information has been revealed in the interrogation by the Western Provincial Council.
+
+The underworld gangs were arrested in Indonesia recently.
+
+◼️
+
+[Data](articles/7de9783d.json)
+
+[Extended Data](ext_articles/7de9783d.ext.json)
+
+---
+
+### New vehicle number plates with advanced features to be issued by Nov 15 – Transport Minister
+
+*2025-09-26 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112934/new-vehicle-number-plates-with-advanced-features-to-be-issued-by-nov-15-transport-minister-) · `en`
+
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has stated that new vehicle number plates with advanced security features and modern technology will be issued by November 15.
+
+Minister Ratnayake highlighted in Parliament today (26) that a significant number of vehicles in the market are currently operating without number plates.
+
+He further noted that the Department of Motor Traffic (DMT) has not progressed for about 10 years due to the corruption and negligence in the political actions.
+
+The Minister further stated that a new driving license will be introduced and that temporary measures will be implemented next week to address the issue of vehicles without number plates.
+
+◼️
+
+[Data](articles/a9b997ed.json)
+
+[Extended Data](ext_articles/a9b997ed.ext.json)
+
+---
+
+### Will not be reversed - President
+
+*2025-09-26 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215025) · `si`
+
+President Anura Kumara Dissanayake emphasized that he is obliged to oblige the expectations and hopes of the country and is not prepared to be subjected to the influence of the people.
+
+◼️
+
+[Data](articles/29e11523.json)
+
+[Extended Data](ext_articles/29e11523.ext.json)
+
+---
+
+### A financial transaction kills a life
+
+*2025-09-26 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215026) · `si`
+
+A murder was assaulted by a stick in the Periyamulla area in Negombo.
+
+The deceased has served in a shop in the Periyammulla area in Negombo, where the murder had been carried out.
+
+The murder was hit by a stick in the shop yesterday afternoon yesterday (25).
+
+The body has been placed at the Negombo hospital morgue and the suspect has been identified and the suspect is conducting further investigations.
+
+◼️
+
+[Data](articles/741faab9.json)
+
+[Extended Data](ext_articles/741faab9.ext.json)
+
+---
+
+### Nuwara Eliya Chills at 14°C: Sri Lanka’s Coldest Spot on September 26
+
+*2025-09-26 11:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/nuwara-eliya-chills-at-14%c2%b0c-sri-lanka%e2%80%99s-coldest-spot-on-september-26) · `en`
+
+COLOMBO (News 1st); Sri Lanka experienced a range of minimum temperatures across the island on the morning of 26 September 2025, with Nuwara Eliya recording the lowest temperature at 14.0°C, according to data from the Department of Meteorology.
+
+The temperature readings, collected from meteorological stations nationwide, were visualized on a map showing a gradient from cooler highland regions to warmer coastal and northern zones.
+
+The central highlands, particularly Nuwara Eliya, continue to exhibit significantly cooler temperatures compared to the rest of the island.
+
+◼️
+
+[Data](articles/f2818db4.json)
+
+[Extended Data](ext_articles/f2818db4.ext.json)
+
+---
+
+### Fines for a private company that sells samba rice at high prices
+
+*2025-09-26 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226115) · `ta`
+
+A private company that sold imported samba rice at high prices has been fined.
+
+The Galle Magistrate's Court has issued the order to a private company in the Galle -Kahaduwatta area.
+
+The Consumer Affairs Authority said the fines were imposed after the owner of the company pleaded with his crime.
+
+The concerned company has sold imported samba rice for 1 kilogram of 273 rupees.
+
+However, the Consumer Affairs Authority (CAA) said that the regulated price was 230 rupees per kilogram.
+
+◼️
+
+[Data](articles/601501a2.json)
+
+[Extended Data](ext_articles/601501a2.ext.json)
+
+---
+
+### Co-ops take spotlight in India-Sri Lanka Dialogue in New Delhi
+
+*2025-09-26 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112933/co-ops-take-spotlight-in-india-sri-lanka-dialogue-in-new-delhi) · `en`
+
+India and Sri Lanka have taken a fresh step towards strengthening their cooperative ties with a high-level bilateral meeting in New Delhi on Thursday.
+
+Wasantha Samarasinghe, Minister of Trade, Commerce, Food Security and Cooperative Development of Sri Lanka, met Union Minister of State for Cooperation and Civil Aviation Murlidhar Mohol at Atal Akshay Urja Bhawan to explore new avenues of collaboration in the cooperative sector.
+
+The talks revolved around building stronger institutional linkages, sharing knowledge, and improving the skills of those engaged in the cooperative movement. Both sides acknowledged that cooperatives play a vital role in rural development, food security, and inclusive economic growth, and that closer collaboration could help address common challenges faced by the sector in both countries.
+
+...
+
+[Data](articles/9794759b.json)
+
+[Extended Data](ext_articles/9794759b.ext.json)
+
+---
+
+### Novath layout of vehicle number plates with modern security measures. From 15
+
+*2025-09-26 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215024) · `si`
+
+Minister of Transport, Highways, Ports and Civil Aviation, said that the latest techniques have been provided with the latest technology, Highways, Ports and Civil Aviation.
+
+Speaking further Mr. Dimal Ratnayake said that the number of number plates is in the market.
+
+He also said that due to the corruption and irresponsibility of previous trade companies as well as the corruption and irresponsibility of political activities.
+
+The Minister further stated that a new driving license will be prepared and the costs will be provided in the week.
+
+◼️
+
+[Data](articles/728a5e7c.json)
+
+[Extended Data](ext_articles/728a5e7c.ext.json)
+
+---
+
+### Pre-trial conference fixed for Namal Rajapaksa’s ‘Krrish’ case
+
+*2025-09-26 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112932/pre-trial-conference-fixed-for-namal-rajapaksas-krrish-case) · `en`
+
+The Colombo High Court has ordered that the case filed by the Attorney General against Sri Lanka Podujana Peramuna (SLPP) Member of Parliament Namal Rajapaksa, regarding the controversial ‘Krrish’ project, be called for a pre-trial conference on December 18.
+
+When the case was called today, MP Namal Rajapaksa appeared before the court, said Ada Derana reporter.
+
+After reviewing the case, the Magistrate also directed that steps be taken to summon the original case report from the Fort Magistrate’s Court.
+
+The Attorney General has filed the case alleging that MP Namal Rajapaksa committed an offence under the Prevention of Money Laundering Act by receiving Rs. 70 million from the Indian company ‘Krrish’, under the pretext of promoting rugby in Sri Lanka.
+
+◼️
+
+[Data](articles/17c218df.json)
+
+[Extended Data](ext_articles/17c218df.ext.json)
+
+---
+
+### Advisory issued for strong winds and rough seas
+
+*2025-09-26 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112931/advisory-issued-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for the sea areas off extending from Galle to Pottuvil via Matara and Hambantota, and from Puttalam to Kankasanthurai via Mannar.
+
+The advisory, issued at 09.30 a.m. this morning (26), will be effective for the next 24 until 09.30 a.m. on Saturday (27).
+
+Accordingly, the advisory warns that the sea areas off the coasts extending from Galle to Pottuvil via Matara and Hambantota, and from Puttalam to Kankasanthurai via Mannar will be rough or very rough with strong gusty winds up to 55-65 kmph.
+
+Therefore, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/2dfc38a5.json)
+
+[Extended Data](ext_articles/2dfc38a5.ext.json)
+
+---
+
+### Over 500 rounds of ammunition, firearm recovered after questioning ‘Kehelbaddara Padme’
+
+*2025-09-26 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112930/over-500-rounds-of-ammunition-firearm-recovered-after-questioning-kehelbaddara-padme) · `en`
+
+Further questioning by the Western Province North Crimes Division of the arrested underworld figure ‘Kehelbaddara Padme’, has led to the recovery of over 500 rounds of T-56 ammunition, four T-56 magazines, a micro pistol, and other items.
+
+The weapon and ammunition were found concealed near the Peliyagoda Fish Market, the police reported.
+
+◼️
+
+[Data](articles/0c5b383e.json)
+
+[Extended Data](ext_articles/0c5b383e.ext.json)
+
+---
+
+### Wild elephant crashed into a chicken lorry
+
+*2025-09-26 10:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-லொறி-மீது-மோதிய-காட்டு-யானை/175-365310) · `ta`
+
+The wildlife department said that a lorry crashed into a lorry carrying chickens in the Ridella area of ​​Dambulla.
+
+A worker who was traveling in the lorry said that the accident occurred when a wild elephant crossed the road while traveling from Dambulla to Bhagamuna.
+
+He said the vehicle crashed into a wild elephant and left the road. It was known that plenty of chickens had died in the accident. Other chickens who were alive were lying on the road
+
+◼️
+
+[Data](articles/5536882b.json)
+
+[Extended Data](ext_articles/5536882b.ext.json)
+
+---
+
+### Pharmaceutical suppliers a loss of millions
+
+*2025-09-26 10:39:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඖෂධ-සපයමකරවනගන-සසථවට-මලයන-ගණනක-පඩවක/101-680245) · `si`
+
+The National Audit office states that the State Pharmaceutical Supplies has to be identified to the State Pharmaceutical Supplies from the pharmaceutical suppliers of Rs.
+
+As at 31st March this year, Mait could not be recovered from drug suppliers.
+
+Rs. 1,651.98 million to be recovered from unlawful drug suppliers. The last remembrance of the final reminder was Rs. 279.45 million.
+
+The audit has revealed that the recovery is in uncertainty.
+
+The audit has recommended that the expeditious and efficient measures should be taken to recover charged money suppliers.
+
+◼️
+
+[Data](articles/986a608e.json)
+
+[Extended Data](ext_articles/986a608e.ext.json)
+
+---
+
+### Pharmaceutical suppliers a loss of millions
+
+*2025-09-26 10:39:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඖෂධ-සපයමකරවනගන-සසථවට-මලයන-ගණනක-පඩවක/1-680245) · `si`
+
+The National Audit office states that the State Pharmaceutical Supplies has to be identified to the State Pharmaceutical Supplies from the pharmaceutical suppliers of Rs.
+
+As at 31st March this year, Mait could not be recovered from drug suppliers.
+
+Rs. 1,651.98 million to be recovered from unlawful drug suppliers. The last remembrance of the final reminder was Rs. 279.45 million.
+
+The audit has revealed that the recovery is in uncertainty.
+
+The audit has recommended that the expeditious and efficient measures should be taken to recover charged money suppliers.
+
+◼️
+
+[Data](articles/d0903506.json)
+
+[Extended Data](ext_articles/d0903506.ext.json)
 
 ---

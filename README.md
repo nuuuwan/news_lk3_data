@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 19:55:31**
+As of **2025-09-26 20:20:42**
 
 ## Newspaper Stats
 
-*Scraped **78,661** Articles*
+*Scraped **78,688** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 254
+lankadeepalk | 279
 newsfirstlk | 428
 dbsjeyarajcom | 634
 bbccomsinhala | 704
-colombotelegraphcom | 792
+colombotelegraphcom | 793
 economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
@@ -21,17 +21,73 @@ adalk | 7,613
 adaderanalk | 10,185
 tamilmirrorlk | 11,816
 virakesarilk | 12,739
-adaderanasinhalalk | 13,687
+adaderanasinhalalk | 13,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,497 (99.8%) of 78,661 articles have been extended.
+78,517 (99.8%) of 78,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### Sri Lanka to benefit the coin
+
+*2025-09-26 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215049) · `si`
+
+Sri Lanka and India be held today (26)
+
+Sri Lanka won the toss and decided to bowl first.
+
+◼️
+
+[Data](articles/153b518c.json)
+
+[Extended Data](ext_articles/153b518c.ext.json)
+
+---
+
+### Is the artificial intelligence beat a professional journalist?
+
+*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කතම-බදධය-වතතය-මධයවදයට-පහරකද/101-680292) · `si`
+
+(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+
+We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+
+If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
+
+It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+
+...
+
+[Data](articles/012f3730.json)
+
+[Extended Data](ext_articles/012f3730.ext.json)
+
+---
+
+### Is the artificial intelligence beat a professional journalist?
+
+*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/101-680292) · `si`
+
+(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+
+We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+
+If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
+
+It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+
+...
+
+[Data](articles/29e2fc4b.json)
+
+[Extended Data](ext_articles/29e2fc4b.ext.json)
+
+---
 
 ### Disposal issue: Explanation for students
 
@@ -67,6 +123,8 @@ Police also stated that the lorry driver had been attacked by residents of the a
 
 [Data](articles/11dfcf60.json)
 
+[Extended Data](ext_articles/11dfcf60.ext.json)
+
 ---
 
 ### Sri Lanka to Launch New Support System for Families of the Disappeared
@@ -78,6 +136,38 @@ Police also stated that the lorry driver had been attacked by residents of the a
 [Data](articles/999d70cd.json)
 
 [Extended Data](ext_articles/999d70cd.ext.json)
+
+---
+
+### Vajira pays the last respects to the monks of Naa Uyana
+
+*2025-09-26 18:40:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-ආරණයය-හමවරනට-වජර-අවසන-ගරව-දකවය/101-680291) · `si`
+
+The bhikkus to be held in the last afternoon by the UNP Chairman of the United National Party (UNP) at evening today (26) resulted in the last evening.
+
+Former President Ranil Wickremesinghe, who was told by Wajira Abeywardena, who met the Naussa Senanayake, Mian Uyana.
+
+Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
+
+◼️
+
+[Data](articles/f63e1ceb.json)
+
+[Extended Data](ext_articles/f63e1ceb.ext.json)
+
+---
+
+### Catholic conferences of the Nawanean accident
+
+*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/101-680290) · `si`
+
+The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
+
+◼️
+
+[Data](articles/f38f594e.json)
+
+[Extended Data](ext_articles/f38f594e.ext.json)
 
 ---
 
@@ -105,6 +195,26 @@ The court had granted the police permission to hold them up to the 29th of this 
 
 ---
 
+### "The policies of the government" is happy to have
+
+*2025-09-26 18:25:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආණඩව-පරතපතත-කරයතමක-කරම-ගන-සතටය/101-680289) · `si`
+
+The Co-convener of the March 12 Business Rohana Hettiarachchi said that the proceedings of the Government's policy as a "rich country, beautiful life" can be satisfied in the first six months.
+
+Hettiarachchi said that the government has shown the review of its progress in the first six months to meet the first six months.
+
+He was speaking at Colombo to launch the first annual monitoring report of the current Government's policy statement, which has been prepared under the theme of a "rich country, beautiful life".
+
+The government representatives and opposition MPs were present at the occasion of the event at the Jahakamin Memorial International Conference Hall.
+
+◼️
+
+[Data](articles/e6f4b760.json)
+
+[Extended Data](ext_articles/e6f4b760.ext.json)
+
+---
+
 ### Sri Lanka, India ties have reached point of unprecedented excellence: Envoy
 
 *2025-09-26 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112947/sri-lanka-india-ties-have-reached-point-of-unprecedented-excellence-envoy) · `en`
@@ -122,6 +232,8 @@ High Commissioner Colonne said, “Since our President’s visit to India after 
 ...
 
 [Data](articles/f723797e.json)
+
+[Extended Data](ext_articles/f723797e.ext.json)
 
 ---
 
@@ -166,6 +278,40 @@ The Bureau said that the functions of the job seekers have been highly aware of 
 [Data](articles/c1d5bc71.json)
 
 [Extended Data](ext_articles/c1d5bc71.ext.json)
+
+---
+
+### Lokco Podho, in the SLTB depots, has been sitting in the morning
+
+*2025-09-26 17:46:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලගම-ඩපවල-ලකක-පඩඩ-උද-ඉදන-සර-වල/101-680288) · `si`
+
+Ports, Minister of Transport Large Rathnayake said that some CTB depots were eleven workers in the eleven am.
+
+He said that he requested the Divisional Secretaries from the police coordinating committee and now that he had requested the local secretaries from the police.
+
+Sri Lanka Transport Board is completely broken. The management of depots has been completely destroyed. They fill them with unsuitable people in the past government. The officers of some depots have been drinking from the eleven day and drink. There are more people working on the day.
+
+◼️
+
+[Data](articles/3a353a31.json)
+
+[Extended Data](ext_articles/3a353a31.ext.json)
+
+---
+
+### Raise yellow flags in the temple of the Ramanna Nikaya
+
+*2025-09-26 17:43:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රමඤඤ-නකය-වහරවල-කහ-කඩ-ඔසවනන/101-680287) · `si`
+
+The sect is demanding to display yellow flags in all temples of the Ramanna Nikaya, the Sangha Nikaya Sangha Senection of the Sri Lanka Ramanna Nikaya to publish the monks in the Panasiripura, Pansagama Leader Seniority.
+
+The General Registrar of the Ramanna Nikaya The General Registrar of the Ramanna Nikaya has issued the requests.
+
+◼️
+
+[Data](articles/30aa3682.json)
+
+[Extended Data](ext_articles/30aa3682.ext.json)
 
 ---
 
@@ -245,6 +391,32 @@ With the accident, Bandaragama Kalutara road was congested.
 
 ---
 
+### Budget Appropriation Bill to commit
+
+*2025-09-26 17:06:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අයවය-වසරජන-පනත-කටමපත-මතසබයට/101-680286) · `si`
+
+The Appropriation Bill for next year (2026) is presented by Prof. Anil Jayantha Fernando today (26).
+
+The gazette notification for the Appropriation Bill was released on September 18.
+
+Accordingly, the total expenditure in the next year is Rs.
+
+The draft has spent Rs. 63400 million.
+
+Rs. 61800 million and Rs. 59600 million for the Ministry of Local Government
+
+President's budget is presented on November 7. The second reading debate will be held on November 8 and will be held on November 8 (six days).
+
+Budget Committee Stage Debate commences on November 15 and will be held on November 15 (17 days) until December 5. The second reading of the budget will be held on December 5 afternoon
+
+◼️
+
+[Data](articles/2191efcc.json)
+
+[Extended Data](ext_articles/2191efcc.ext.json)
+
+---
+
 ### The only meals are: but the chickpeg
 
 *2025-09-26 16:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலைதழைகள்-மட்டும்-தான்-சாப்பாடு-ஆனால்-சிக்ஸ்பேக்/175-365339) · `ta`
@@ -282,6 +454,8 @@ An indictment in the US justice system is a formal accusation issued by a grand 
 ...
 
 [Data](articles/80bff09e.json)
+
+[Extended Data](ext_articles/80bff09e.ext.json)
 
 ---
 
@@ -347,6 +521,8 @@ The accident occurred on September 24, 2025, at approximately 9:10 p.m., when 13
 
 [Data](articles/be5ec0df.json)
 
+[Extended Data](ext_articles/be5ec0df.ext.json)
+
 ---
 
 ### 11 people injured when 3 vehicles crashed
@@ -387,6 +563,26 @@ The statement of the dezed exploitation of the local overseas monks and the monk
 
 ---
 
+### Mutcar's problem Mathemism
+
+*2025-09-26 16:30:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මජබරග-පරශනන-මතසබ-රතවය/101-680285) · `si`
+
+The Director General of Bribery, the Director General of the Commission of Investigation Commission (Under the Investigation Commission) was a person who had worked as the Secretary of the JVP and had a warm dialogue in Parliament today (26).
+
+He was responding to the Declare report on the report of the COPE Committee.
+
+The MP was questioned whether it was because of the favorable to investigate the allegations against the ministers of the government.
+
+This is a serious accusation.  We asked this morning too. Did not give an answer. This is what independent commissions like this have been working independently. We have a problem here. MPs' opposition in opposition search for all the deals. However, the ministers of the government are not looking for. It is not because he's a JeaPP. We can think so.
+
+...
+
+[Data](articles/8baad408.json)
+
+[Extended Data](ext_articles/8baad408.ext.json)
+
+---
+
 ### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
 
 *2025-09-26 16:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/90-day-detention-for-ex-slpp-lg-candidate-manamperi) · `en`
@@ -398,6 +594,20 @@ COLOMBO (News 1st); The Walasmulla Magistrate’s Court has granted permission f
 [Data](articles/df9a645e.json)
 
 [Extended Data](ext_articles/df9a645e.ext.json)
+
+---
+
+### වාහන 3ක් එකිනෙක ගැටී 11ක් රෝහලට
+
+*2025-09-26 16:23:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වහන-3ක-එකනක-ගට-11ක-රහලට/101-680284) · `si`
+
+බණ්ඩාරගම කළුතර මාර්ගයේ වෑවිට ලොරියක්, වෑන් රථයක් සහ ත්‍රීරෝද රථයක් එකිනෙක ගැටීමෙන් 11 දෙනකු තුවාල ලබා රෝහල්ගතව ඇතැයි බණ්ඩාරගම පොලිසියය කියයි
+
+ලොරි රථය මොරන්තුදුව දෙස සිට බණ්ඩාරගම දෙසට පැමිණීමේදී ප්‍රතිවිරුද්ධ දිසාවෙන් පැමිණි ත්‍රීරෝද රථයක් මාර්ගය හරහා පැමිණ ලොරි රථයේ ගැටීමත් සමඟම ලොරි රථ රියදුරු තිරිංග තද කර ඇතිතර ලොරියේ පිටුපසින් පැමිණි වෑන් රථය ලොරියේ ගැටීමෙන් මෙම අනතුර වී ඇතැයි පොලිසිය කියයි
+
+◼️
+
+[Data](articles/05dc4252.json)
 
 ---
 
@@ -458,6 +668,20 @@ The suspects were produced before the court earlier today, following which the M
 ◼️
 
 [Data](articles/afffc345.json)
+
+[Extended Data](ext_articles/afffc345.ext.json)
+
+---
+
+### කෝප් සිවුවැනි හෙළිදරව්ව මෙන්න
+
+*2025-09-26 16:05:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-සවවන-හළදරවව-මනන/101-680283) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ(කෝප්) සිව්වෙනි වාර්තාව අද පාර්ලිමේන්තුවට ඉදිරිපත් කෙරිණි.
+
+◼️
+
+[Data](articles/9351441b.json)
 
 ---
 
@@ -535,6 +759,8 @@ At present, 137 government institutions are linked to the platform. With today�
 
 [Data](articles/05daced8.json)
 
+[Extended Data](ext_articles/05daced8.ext.json)
+
 ---
 
 ### Four students of North Western University remanded for an event
@@ -552,6 +778,22 @@ The magistrate ordered that the four students were remanded until the 29th.
 [Data](articles/e763e041.json)
 
 [Extended Data](ext_articles/e763e041.ext.json)
+
+---
+
+### සම්පත් මනම්පේරිට දින 90ක රැඳවුම් නියෝග
+
+*2025-09-26 15:40:58* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමපත-මනමපරට-දන-90ක-රඳවම-නයග/101-680282) · `si`
+
+මිද්දෙණිය තලාව ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීම සඳහා යොදා ගන්නා රසායනික ද්‍රව්‍ය කොන්ටේනර් දෙකක් ළඟ තබා ගැනීමේ සිද්ධියට අදාළව රක්ෂිත බන්ධනාගාර ගත කොට සිටි සම්පත් මනම්පේරි  උතුර කොළඹ අපරාධ විමර්ශන කොට්ඨාශයේ දින අනූවක් රඳවා තබාගෙන ප්‍රශ්න කිරීමට වලස්මුල්ල මහේස්ත්‍රාත් මල්ශා කොඩිතුවක්කු මෙනෙවිය අවසර දෙනු ලැබීය.
+
+බන්ධනාගාර ගතව සිටි ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පළාත් පාලන අපේක්ෂක සම්පත් මනම්පේරි හා ඔහුගේ සොහොයුරු ශ්‍රී ලංකා පොදු ජනපෙරමුණේ  අගුණකොළ පෑලැස්ස ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී පියල් මනරි අද පෙරවරුටවේදී වලස් මුල්ල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
+
+අද පෙරවරු 10.20 ට පමණ අදාළ නඩුව කැඳවූ මහේස්ත්‍රාත්වරිය උතුරු කොළඹ අපරාධ විමර්ශන නිලධාරීන්ගේ හා සැකකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන්ගෙන් කරුණු විමසනු ලැබීය.
+
+◼️
+
+[Data](articles/82d88e66.json)
 
 ---
 
@@ -628,6 +870,24 @@ The arrested Thero is to be produced before the Nawalapitiya Magistrate.
 [Data](articles/1b876e91.json)
 
 [Extended Data](ext_articles/1b876e91.ext.json)
+
+---
+
+### දොස්තරලා දැන් බයට බේත් ලියන්නේ නෑ
+
+*2025-09-26 15:29:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දසතරල-දන-බයට-බත-ලයනන-න/101-680281) · `si`
+
+වර්තමානයේ රෝහල් වල බෙහෙත් නැති වුනත් දොස්තරලා ඒ බෙහෙත් පිටින් ගන්නට කියා ලියා දෙන්නේ නැතැයි කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නලින් බණ්ඩාර මහතා :-(ස.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.
+
+හිරේ යන්නට මේ විය යැයි කියා බයෙන් දොස්තරලා එලෙස බෙහෙත් නොලියන බවද මන්ත්‍රීවරයා කීය.
+
+"මේ ආණ්ඩුව නිතරම කොරහේ කිඹුල්ලු දකිනවා. පෞද්ගලික ව්‍යවසායකයන් දෙස බලන්නේ වපර ඇහින්.වැඩි ආදායම් ලබන ඇය ගැන බලන්නේ වපන ඇසින්.
+
+කෝප් එකෙන් අතීත දේවල් ගැන විතරක් නෙමෙයි වර්තමානෙ දේවල් ගැනත් හොයන්න ඕන.
+
+...
+
+[Data](articles/8cefcb19.json)
 
 ---
 
@@ -782,6 +1042,18 @@ The law does not take place, but the law will not be implemented.. If the law en
 [Data](articles/46f2a3a2.json)
 
 [Extended Data](ext_articles/46f2a3a2.ext.json)
+
+---
+
+### රංග දිසානායක ගැන ඇත්ත කියන්න
+
+*2025-09-26 15:19:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රග-දසනයක-ගන-ඇතත-කයනන/101-680279) · `si`
+
+අල්ලස් කොමිසමේ රංග දිසානායක ජේ.වී.පී. නීති කමිටුවේ  සිටි බවට නන්දන ගුණතිලක කළ ප්‍රකාශය ගැන ආණ්ඩුව උත්තර දිය යුතු යැයි කොළඹ දිස්ත්‍රික් මන්ත්‍රී මුජිබුර් රහුමාන් මහතා:- (සජබ) පාර්ලිමේන්තුවේදී පැවසීය.
+
+...
+
+[Data](articles/b785492b.json)
 
 ---
 
@@ -1610,275 +1882,5 @@ Namal Rajapaksa appeared before the court when the case was taken up today.
 [Data](articles/ca504183.json)
 
 [Extended Data](ext_articles/ca504183.ext.json)
-
----
-
-### Eldily bail to directors
-
-*2025-09-26 12:37:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වඩමලට-බහත-වකක-රහල-අධයකෂකවරනට-ඇප/1-680268) · `si`
-
-The Maligakanda Court today ordered the release of a leading private hospital with the sale of drugs to the sale of drugs at higher prices.
-
-◼️
-
-[Data](articles/00dfda24.json)
-
-[Extended Data](ext_articles/00dfda24.ext.json)
-
----
-
-### Eldily bail to directors
-
-*2025-09-26 12:37:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වඩමලට-බහත-වකක-රහල-අධයකෂකවරනට-ඇප/101-680268) · `si`
-
-The Maligakanda Court today ordered the release of a leading private hospital with the sale of drugs to the sale of drugs at higher prices.
-
-◼️
-
-[Data](articles/b004116c.json)
-
-[Extended Data](ext_articles/b004116c.ext.json)
-
----
-
-### President Anura Kumara departs for official visit to Japan
-
-*2025-09-26 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/112938/president-anura-kumara-departs-for-official-visit-to-japan) · `en`
-
-President Anura Kumara Dissanayake, following the successful conclusion of his visit to the United States to attend the 80th session of the United Nations General Assembly (UNGA), has departed for Japan.
-
-According to the President’s Media Division (PMD), he left John F. Kennedy International Airport last night (September 25).
-
-At the invitation of the Japanese government, President Dissanayake is set to undertake an official visit to Japan from September 27 to 30.
-
-During the visit, President Dissanayake will have an audience with His Majesty the Emperor of Japan and he will hold a summit meeting with the Japanese Prime Minister on a wide range of issues of mutual interest, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
-
-President Dissanayake will address a Business Forum attended by high-level representatives of key Japanese businesses and investors in Tokyo focused on emerging economic opportunities in Sri Lanka.
-
-...
-
-[Data](articles/c0fb2d74.json)
-
-[Extended Data](ext_articles/c0fb2d74.ext.json)
-
----
-
-### Grandma's gold jewelry grabbing
-
-*2025-09-26 12:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேத்திக்கு-சோறு-ஊட்டிய-பாட்டியின்-தங்க-நகை-அபகரிப்பு/175-365317) · `ta`
-
-A 25 -year -old youth who was riding his grandmother's gold jewelery on a motorcycle was taken away in Sirivijayapura, Moneragala. Has gone.
-
-One of the two youths who approached the woman who was fed to her baby, showed her a photo on her mobile phone and asked if she was.
-
-While watching it, the young man immediately snatched the gold jewelery from his neck and escaped on a motorcycle he was driving.
-
-The value of this gold jewelery is about 2 lakhs and sixty thousand rupees.
-
-Police investigated the incident and identified the young man from Bibila.
-
-◼️
-
-[Data](articles/526dfcb0.json)
-
-[Extended Data](ext_articles/526dfcb0.ext.json)
-
----
-
-### Information that three national hospitals are operating without directors
-
-*2025-09-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226126) · `ta`
-
-According to health department sources, three hospitals in the country are operating for more than 8 months without permanent directors.
-
-Accordingly, the National Hospitals in Colombo, Kandy and Galle districts are operating without directors.
-
-Currently, Dr. Pradeep Vijayasinghe is managing the National Hospital in Colombo and is also the Director of the Lady Ridgeway Children's Hospital.. Dr. Vijayasinghe is dealing with the administration of two hospitals simultaneously.
-
-Deputy Minister of Health, Hansaka Vijayamuni, told an English media that the interviews for the posts of Deputy Director have already been conducted.
-
-However, due to a new procedure admitted by the Public Service Commission, there has been a delay in announcing the resolutions, he added.
-
-Health officials have urged the vacancies for these major administrative positions to ensure that the largest hospitals in the country are smooth.
-
-◼️
-
-[Data](articles/bf5d622c.json)
-
-[Extended Data](ext_articles/bf5d622c.ext.json)
-
----
-
-### Sri Lanka’s review by UN Committee on Enforced Disappearances in Geneva today
-
-*2025-09-26 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112937/sri-lankas-review-by-un-committee-on-enforced-disappearances-in-geneva-today) · `en`
-
-The United Nations (UN) Committee on Enforced Disappearances (CED), during its 29th session, will review Sri Lanka’s first periodic report today (September 26) in Geneva, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism in Colombo.
-
-Sri Lanka’s Delegation to the Review will be led by the Minister of Justice and National Integration, MP Harshana Nanayakkara, and will consist of senior officials from the Ministry of Justice and National Integration, Attorney-General’s Department, Ministry of Defence, Ministry of Women and Child Affairs, Ministry of Foreign Affairs, Foreign Employment and Tourism, Department of Police, Office on Missing Persons (OMP), Office for Reparations (OR), Office for National Unity and Reconciliation (ONUR), and the Permanent Mission of Sri Lanka to the UN in Geneva.
-
-The review will take the form of a hybrid interactive dialogue between the Government of Sri Lanka delegation and the CED Committee, the ministry said.
-
-...
-
-[Data](articles/86d1224c.json)
-
-[Extended Data](ext_articles/86d1224c.ext.json)
-
----
-
-### 2026 Appropriation Bill in Parliament
-
-*2025-09-26 12:29:00* · [`adalk`](https://www.ada.lk/breaking_news/2026-විසර්ජන-පනත්-කෙටුම්පත-පාර්ලිමේන්තුවට/11-418735) · `si`
-
-2026 Appropriation Bill forwarded to Parliament of Economic Development Prof. Anil Jayantha today (26).
-
-2026 මුදල් වර්ෂය සඳහා වන රජයේ වියදම් ඇතුළත් විසර්ජන පනත් කෙටුම්පත පසුගිය සැප්තැම්බර් මස 18 වන දා ගැසට් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/5558270d.json)
-
-[Extended Data](ext_articles/5558270d.ext.json)
-
----
-
-### JS Arulraj appointed as the new Government Agent of Batticaloa District
-
-*2025-09-26 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226131) · `ta`
-
-JS as the new District Secretary and Government Agent for the Batticaloa District. Arulraj was appointed with the Cabinet permits and started his official duties at the new District Secretariat Office today (26).
-
-Mrs. J.. J.. After Muralitharan retired from the public service from yesterday, J.. S.. The Public Administration, Provincial Councils and Local Government Minister to appoint Arulraj as the Government Agent of the Batticaloa District have been granted permission on 15.09.2025.
-
-JS Arulraj became the principal of the government at an early age with this appointment.
-
-He was an artist at the University of Jaffna and was selected for the Sri Lanka Administrative Service in 2003.
-
-Kinniya was the Assistant Divisional Secretary of Seruvila Divisional Secretariats and has also served in the Northeastern Provincial Council and the Eastern Provincial Council.
-
-...
-
-[Data](articles/84bd86b8.json)
-
-[Extended Data](ext_articles/84bd86b8.ext.json)
-
----
-
-### President launches official visit to Japan
-
-*2025-09-26 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215030) · `si`
-
-President Anura Kumara Dissanayake, who successfully completed the 8th Session of the United Nations General Assembly, left for Japan.
-
-John F.. The President left for Japan from Kennedy International Airporto.
-
-According to the Japanese government's invitation, the President is on official visit to Japan to 30th September.
-
-Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the visit to President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/684050ea.json)
-
-[Extended Data](ext_articles/684050ea.ext.json)
-
----
-
-### Sri Lanka Signals Strong Economic Comeback: Treasury Secretary
-
-*2025-09-26 12:20:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-signals-strong-economic-comeback-treasury-secretary) · `en`
-
-...
-
-[Data](articles/0fa02b6f.json)
-
-[Extended Data](ext_articles/0fa02b6f.ext.json)
-
----
-
-### Vehicle accident with maturations: driver magic
-
-*2025-09-26 12:16:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதிரைக்குற்றிகளுடன்-வாகனம்-விபத்து-சாரதி-மாயம்/72-365315) · `ta`
-
-A vehicle carrying matures near the Vavuniya Pudukkulam area was recovered by police after the accident.
-
-The vehicle was parked by the police on duty when the vehicle was coming from Ilappakulam to Vavuniya.. However, police said it had not stopped.
-
-The vehicle was recovered by the police as the new pond crashed into a nearby area.
-
-◼️
-
-[Data](articles/c4a20ef2.json)
-
-[Extended Data](ext_articles/c4a20ef2.ext.json)
-
----
-
-### Tribute to Dileepan's capital Colombo
-
-*2025-09-26 12:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலீபனுக்கு-தலைநகர்-கொழும்பில்-அஞ்சலி/175-365314) · `ta`
-
-Tyagadeepam Dileepan's 38th anniversary tribute events are being carried out in the Tamil homeland and in the diaspora.
-
-In this backdrop, Vanni district parliamentarian Durairasa Ravikaran paid tribute to the Sacrifice Deepam Dileepan in Colombo, the capital of Sri Lanka.
-
-The second monthly parliamentary session is currently underway for September. Therefore, MP Ravikaran stays in the capital of Sri Lanka to participate in the parliamentary session.. It is in this context that he has paid tribute to Dileepan in Colombo.
-
-It is noteworthy that Thyadheepam Dileepan's image was shot, floral and felt.
-
-◼️
-
-[Data](articles/c4b6a35e.json)
-
-[Extended Data](ext_articles/c4b6a35e.ext.json)
-
----
-
-### Electric Wiring Stolen from Colombo DIG Office Auditorium
-
-*2025-09-26 12:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/electric-wiring-stolen-from-colombo-dig-office-auditorium) · `en`
-
-COLOMBO (News 1st); An unusual theft has been reported from the sixth-floor auditorium of the Colombo Deputy Inspector General of Police (DIG) office, located on Olcott Mawatha, where electric wiring has allegedly been stolen.According to police sources, the auditorium had undergone renovations several months ago.Despite these upgrades, it has now come to light that the electric wiring has been cut and removed by unidentified individuals.The Colombo Central Division Crimes Investigation Unit has launched a probe into the incident.
-
-◼️
-
-[Data](articles/bcae3b43.json)
-
-[Extended Data](ext_articles/bcae3b43.ext.json)
-
----
-
-### Arrested for selling beer for students
-
-*2025-09-26 12:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-பீர்-விற்றவர்-கைது/175-365313) · `ta`
-
-Moneragala police arrested a man for selling beer on a motorbike for students in private classes and schools.
-
-Based on the information received by the Moneragala Police, Moneragala police arrested a man. The suspect is a 43 -year -old from Kumbukanai.
-
-It has been revealed that the students were given beer bottles and had three beer bottles on the motorcycle at the time of the arrest.
-
-When he went to buy a beer from a suspect who was on a motorcycle near Kumbukanna school, police sent a constable and arrested the suspect.
-
-The suspect and prosecutions have been taken to the Moneragala Magistrate's Court, police said.
-
-◼️
-
-[Data](articles/5aef3a6b.json)
-
-[Extended Data](ext_articles/5aef3a6b.ext.json)
-
----
-
-### High Court Calls For Original Case Files Against Namal
-
-*2025-09-26 12:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/high-court-calls-for-original-case-files-against-namal) · `en`
-
-...
-
-[Data](articles/552c8b17.json)
-
-[Extended Data](ext_articles/552c8b17.ext.json)
 
 ---

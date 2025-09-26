@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 00:11:22**
+As of **2025-09-27 01:20:34**
 
 ## Newspaper Stats
 
-*Scraped **78,775** Articles*
+*Scraped **78,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ colombotelegraphcom | 793
 economynextcom | 4,725
 dailymirrorlk | 4,733
 islandlk | 4,804
-dailyftlk | 5,553
+dailyftlk | 5,565
 adalk | 7,619
 adaderanalk | 10,185
 tamilmirrorlk | 11,818
@@ -27,11 +27,227 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,750 (100.0%) of 78,775 articles have been extended.
+78,786 (100.0%) of 78,787 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-27 (Saturday)
+
+### Foreign Ministry coordinates repatriation of foreign monks killed in Na Uyana cable car tragedy
+
+*2025-09-27 00:50:35* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Ministry-coordinates-repatriation-of-foreign-monks-killed-in-Na-Uyana-cable-car-tragedy/56-782261) · `en`
+
+The Foreign Ministry is working with Sri Lanka’s diplomatic missions in India, Romania, and Russia to repatriate the remains of three foreign monks who died in the tragic cable car accident at the Na Uyana Aranya Forest Monastery in Pansiyagama, Kurunegala.
+
+Seven monks were killed and six others seriously injured when the monastery’s cable car—known as “Dakkuwa”—plunged on 24 September while transporting 13 monks back to the hilltop monastery after a religious ceremony.
+
+Foreign Ministry Spokesman Thushara Rodrigo said the temple had requested the Ministry Secretary to obtain the consent of the relatives of the deceased monks to hold final rites at the monastery.
+
+“We have contacted the relatives of the Indian monk through our High Commission in India and they wish to take the remains to India. We are coordinating it at the moment,” Rodrigo told Daily FT.
+
+...
+
+[Data](articles/60e7968a.json)
+
+[Extended Data](ext_articles/60e7968a.ext.json)
+
+---
+
+### Senior Pakistan Navy delegation visits Sri Lanka for Galle Dialogue-2025
+
+*2025-09-27 00:49:09* · [`dailyftlk`](https://www.ft.lk/news/Senior-Pakistan-Navy-delegation-visits-Sri-Lanka-for-Galle-Dialogue-2025/56-782260) · `en`
+
+Pakistan Navy Commander Coastal Areas Rear Admiral Faisal Amin and Commodore (Retd) Bilal Babur, along with other delegation members, called on the High Commission of Pakistan in Colombo yesterday, marking a key moment during their official visit to Sri Lanka.
+
+The distinguished delegation visited Sri Lanka from 23 to 26 September to participate in the Galle Dialogue-2025, an International Maritime Conference organised by the Sri Lanka Navy.
+
+The Pakistan Commission in a statement said the participation of the Pakistan Navy delegation in the Galle Dialogue-2025 highlighted Pakistan’s strong relation with Sri Lanka and Pakistan’s active role in fostering collaborative solutions to complex challenges in the Indian Ocean region.
+
+◼️
+
+[Data](articles/3fc70d4e.json)
+
+[Extended Data](ext_articles/3fc70d4e.ext.json)
+
+---
+
+### Global Dialogue Forum conclave showcases AI’s role in powering green energy, food security and cybersecurity
+
+*2025-09-27 00:47:26* · [`dailyftlk`](https://www.ft.lk/business/Global-Dialogue-Forum-conclave-showcases-AI-s-role-in-powering-green-energy-food-security-and-cybersecurity/34-782259) · `en`
+
+The Global Dialogue Forum (GDF), in partnership with the Club of Rome – India, successfully hosted its international conclave on AI in powering green energy, food security and cybersecurity at the Galle Face Hotel, Colombo, on 20 September. The full-day event convened global policymakers, academics, industry leaders, and innovators to examine how Artificial Intelligence (AI) can be practically deployed to address the most pressing challenges facing societies.
+
+...
+
+[Data](articles/38385210.json)
+
+---
+
+### Sustainable champions in industry receive Ecolabel Sri Lanka recognition
+
+*2025-09-27 00:46:46* · [`dailyftlk`](https://www.ft.lk/business/Sustainable-champions-in-industry-receive-Ecolabel-Sri-Lanka-recognition/34-782258) · `en`
+
+National Cleaner Production Centre CEO Eng. Samantha Kumarasena said that several Sri Lankan companies were awarded Ecolabel certifications, signalling a growing commitment to greener industry practices and responsible production standards.
+
+Ecolabel Sri Lanka yesterday (25) honoured leading companies that have adopted eco-friendly criteria in their operations.
+
+Siam City Cement, Melwa, and Harischandra Mills, representing the cement, steel, and food sectors respectively were newly certified, demonstrating how diverse industries in the country are embracing sustainability, not only as a compliance requirement but also as a strategic advantage in global markets.
+
+Nippon Paints Sri Lanka also received its Ecolabel recertification, affirming the company’s ongoing dedication to reducing environmental impact while maintaining product excellence.
+
+Kumarasena said the awards signal the collective direction of Sri Lanka’s industries toward greener and more responsible growth.
+
+...
+
+[Data](articles/6c7e0c4f.json)
+
+[Extended Data](ext_articles/6c7e0c4f.ext.json)
+
+---
+
+### Sanasa Life Insurance supports Colombo International Book Fair as official insurance partner
+
+*2025-09-27 00:44:50* · [`dailyftlk`](https://www.ft.lk/business/Sanasa-Life-Insurance-supports-Colombo-International-Book-Fair-as-official-insurance-partner/34-782257) · `en`
+
+Partnership agreement signed by Sanasa Life Insurance CEO Nuwanpriya Gunawardane and Sri Lanka Book Publishers Association Chairman Samantha Samarasinhe
+
+Sanasa Life Insurance is the official insurance partner of the highly anticipated Colombo International Book Fair. As an organisation whose ethics extend beyond business, Sanasa Life Insurance views its sponsorship as life insurance partner of the book fair as a key part of its corporate responsibility that aligns with organisational values to support educational endeavors, thereby helping future generations in their path of educating themselves.
+
+...
+
+[Data](articles/7deb3386.json)
+
+[Extended Data](ext_articles/7deb3386.ext.json)
+
+---
+
+### Serendib Flour Mills showcases innovation and engagement at Profood Propack & AgBiz 2025
+
+*2025-09-27 00:43:40* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-showcases-innovation-and-engagement-at-Profood-Propack-AgBiz-2025/34-782256) · `en`
+
+Serendib Flour Mills Ltd., participated in Profood Propack & AgBiz 2025 held from 22 to 24 August at the BMICH, Colombo.
+
+Engaging at Profood Propack & AgBiz 2025 strengthened Serendib Flour Mills’ firm commitment to ‘Nourishing the Nation,’ delivering quality, innovation, and engagement to the heart of Sri Lanka’s food industry.
+
+The event attracted leading industry players, innovators, and consumers, providing an ideal platform for Serendib Flour Mills to showcase its diverse range of products.
+
+The exhibition was an excellent opportunity for the company to connect with valued customers and industry partners. It paved the way for Serendib Flour Mills to demonstrate the quality of products and the dedication to supporting the growth of Sri Lanka’s food industry.
+
+...
+
+[Data](articles/f5c9ef5f.json)
+
+[Extended Data](ext_articles/f5c9ef5f.ext.json)
+
+---
+
+### Yaden Laboratories shines at Tecnosalud 2025
+
+*2025-09-27 00:42:34* · [`dailyftlk`](https://www.ft.lk/business/Yaden-Laboratories-shines-at-Tecnosalud-2025/34-782255) · `en`
+
+Yaden Laboratories participated with outstanding success in Tecnosalud – International Health Fair 2025 as invitees of the prestigious Lima Chamber of Commerce – CCL and its COMSALUD Guild, which was held from 10 to 12 September in Lima, capital of Peru on its 19th convocation.
+
+It has been recognised for more than 25 years as the ‘only health sector fair’ in Peru, and is the main business platform to launch and presentation of innovative products, solutions and services for hospitals, pharmacies and clinics with a meeting place for the main players in the health sector as an ideal space for companies in the sector to generate business and brand recognition.
+
+...
+
+[Data](articles/53b26c28.json)
+
+[Extended Data](ext_articles/53b26c28.ext.json)
+
+---
+
+### Politics of Tamil-Muslim relations
+
+*2025-09-27 00:12:31* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-Tamil-Muslim-relations/4-782245) · `en`
+
+Although the main attention is on Sinhalese-Tamil reconciliation, there is also a need for Tamil-Muslim reconciliation
+
+The introduction of multi-member constituencies in the Eastern Province is a living testimony to Tamil-Muslim political mistrust. That mistrust reached its climax when the LTTE emerged on the scene. Although during its initial stages LTTE was prepared to accommodate the Muslims as Islamic Tamils in their failed Tamil Eelam, thus echoing Ramanathan of 1880s, Tamil-Muslim mistrust continued to bedevil any accommodation and finally led to the expulsion of the entire Muslim community from Jaffna and its suburbs. That was the political climate which eventually produced the ill-conceived SLMC as a party to represent Muslims only
+
+...
+
+[Data](articles/715e17ea.json)
+
+[Extended Data](ext_articles/715e17ea.ext.json)
+
+---
+
 ### 2025-09-26 (Friday)
+
+### Selective republicanism of socialist regime rules
+
+*2025-09-26 23:57:02* · [`dailyftlk`](https://www.ft.lk/columns/Selective-republicanism-of-socialist-regime-rules/4-782242) · `en`
+
+The pre-election promises spanning political, social and economic dimensions have been
+
+A bigger picture emerges on the larger canvas of national political life... it is one in which the relatively few, early, ongoing good deeds that should redound to government’s credit are overshadowed by the greater good it has yet to do – because we’re beginning to be agnostic to their potential to effect systemic change, having lost faith in their slow, steady and plebeian ways. Also, we’ve failed to remember the religious zeal of previous dispensations for evil deeds
+
+No good deed goes unpunished, mused libertarian socialist Oscar Wilde, no doubt while in Reading Gaol and reminiscing about that ironic truism in his own short life.
+
+Perhaps some of the stalwarts in governmental ranks share a similar sentiment about the electorate at large today, sensing dissent even beyond the ranks of Tuscany.
+
+...
+
+[Data](articles/269c59a6.json)
+
+[Extended Data](ext_articles/269c59a6.ext.json)
+
+---
+
+### Shutting down the internet shuts down your right to know
+
+*2025-09-26 23:50:21* · [`dailyftlk`](https://www.ft.lk/opinion/Shutting-down-the-internet-shuts-down-your-right-to-know/14-782241) · `en`
+
+On 28 September, the world marks both World News Day and the International Day for
+
+Universal Access to Information. For many African countries, these days have always been marked with a realm of hope but in the recent past, it is a reminder of a worrying trend.
+
+When events become politically sensitive or socially tense, governments sometimes respond by shutting down the internet or silencing broadcasters, cutting off the audience; this action severs access to credible news precisely when the public’s need for it is greatest.
+
+Misinformation and disinformation are rampant on social media platforms such as TikTok Live, which have become an alternative source of truth for many.
+
+...
+
+[Data](articles/a6e67b16.json)
+
+[Extended Data](ext_articles/a6e67b16.ext.json)
+
+---
+
+### Sri Lanka’s tourism at crossroads: Wake-up call on World Tourism Day
+
+*2025-09-26 23:43:54* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-tourism-at-crossroads-Wake-up-call-on-World-Tourism-Day/14-782239) · `en`
+
+Future growth must balance increased arrivals with a focus on high-value tourism and sustainable site management
+
+The targets may slip, but the opportunity remains. To salvage momentum, authorities must; fast-track visa reforms through Parliament and implement before October, launch at least an interim global campaign leveraging on existing accolades in promotion, coordinate with airlines to expand connectivity, empower the private sector as partners, not bystanders and shift focus from ad-hoc roadshows to a coherent strategy
+
+As the world marks World Tourism Day today, on 27 September, Sri Lanka stands at a critical juncture. Tourism has long been hailed as the country’s “low-hanging fruit” for economic revival and the year 2025 began with bold ambitions; 3 million arrivals and $ 5 billion in earnings. Yet as the final quarter approaches, those lofty goals are slipping out of reach.
+
+...
+
+[Data](articles/70dbb290.json)
+
+[Extended Data](ext_articles/70dbb290.ext.json)
+
+---
+
+### City-centric approaches to climate-related human mobility
+
+*2025-09-26 23:40:02* · [`dailyftlk`](https://www.ft.lk/columns/City-centric-approaches-to-climate-related-human-mobility/4-782238) · `en`
+
+City-centric approaches to climate-related human mobility recognise that adaptation is increasingly an urban challenge
+
+As the impacts of climate change become more frequent and intense, people across the globe are forced to adapt. In many cases, adaptation takes place within communities and areas by addressing vulnerabilities and enhancing adaptative capacities, thereby building short- and long-term climate resilience. However, climate change also causes movement, either by choice (e.g., voluntary migration in search of better incomes) or by force (e.g., displacement due to disasters or relocation of coastal populations in the face of sea level rise). Much of this movement goes from rural to urban or peri-urban areas, which are often perceived as desirable locations due to employment options, family connections, and other opportunities.
+
+...
+
+[Data](articles/e39f8cf0.json)
+
+[Extended Data](ext_articles/e39f8cf0.ext.json)
+
+---
 
 ### "The food is sending 130 billion tonnes a year
 
@@ -1758,235 +1974,5 @@ At present, 137 government institutions are linked to the platform. With today�
 [Data](articles/05daced8.json)
 
 [Extended Data](ext_articles/05daced8.ext.json)
-
----
-
-### Four students of North Western University remanded for an event
-
-*2025-09-26 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215039) · `si`
-
-The court has ordered four third-year students of the University who was arrested in connection with the appointment of a second year student of the North Western Province North Western University.
-
-The four suspects were produced before the Kuliyapitiya Magistrate's Court today (26).
-
-The magistrate ordered that the four students were remanded until the 29th.
-
-◼️
-
-[Data](articles/e763e041.json)
-
-[Extended Data](ext_articles/e763e041.ext.json)
-
----
-
-### 90-day detention orders
-
-*2025-09-26 15:40:58* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමපත-මනමපරට-දන-90ක-රඳවම-නයග/101-680282) · `si`
-
-Miss Walasmulla Magistrate Malusha Kodituwakku granted allotted in the Colombo Criminal Investigation Division to be remanded in the Colombo Criminal Investigation Division.
-
-The local government candidate resources and his brother, Sri Lanka's Paluwawa Phalyamara and his brother Sri Lanka's Palipasle Pradeshiya Sabha was produced before the bears.
-
-The Magistrate who convened the case around 10.20 this morning, the Magistrate was asked for the lawyers and the suspects.
-
-◼️
-
-[Data](articles/82d88e66.json)
-
-[Extended Data](ext_articles/82d88e66.ext.json)
-
----
-
-### 90-day detention orders
-
-*2025-09-26 15:40:58* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමපත-මනමපරට-දන-90ක-රඳවම-නයග/1-680282) · `si`
-
-Miss Walasmulla Magistrate Malusha Kodituwakku granted allotted in the Colombo Criminal Investigation Division to be remanded in the Colombo Criminal Investigation Division.
-
-The local government candidate resources and his brother, Sri Lanka's Paluwawa Phalyamara and his brother Sri Lanka's Palipasle Pradeshiya Sabha was produced before the bears.
-
-The Magistrate who convened the case around 10.20 this morning, the Magistrate was asked for the lawyers and the suspects.
-
-◼️
-
-[Data](articles/e623331e.json)
-
-[Extended Data](ext_articles/e623331e.ext.json)
-
----
-
-### President launches Japan tour
-
-*2025-09-26 15:40:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ජපාන-සංචාරය-අරඹයි/11-418747) · `si`
-
-President Anura Kumara Dissanayake, who completed the visit to the United States, left for Japan. John F.. The President left for Japan from Kennedy International Airporto.
-
-According to the Japanese government's invitation, the President is on official visit to Japan to 30th September.
-
-◼️
-
-[Data](articles/7719b89a.json)
-
-[Extended Data](ext_articles/7719b89a.ext.json)
-
----
-
-### சம்பத் மனம்பேரிக்கு 90 நாள் தடுப்புக்காவல்
-
-*2025-09-26 15:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரிக்கு-90-நாள்-தடுப்புக்காவல்/175-365330) · `ta`
-
-The Valasmulla Magistrate's Court on Wednesday (26) has granted permission to investigate Sampath Manamperi, who is currently being detained.
-
-He was arrested in connection with the discovery of two chemical containers suspected of being used in the "ice" drug.
-
-◼️
-
-[Data](articles/6332f951.json)
-
-[Extended Data](ext_articles/6332f951.ext.json)
-
----
-
-### Couple arrested for selling drugs
-
-*2025-09-26 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215038) · `si`
-
-A couple of the ice has been arrested by the Nawalapitiya Police today (26) following the pregnant mothers clinic.
-
-The couple had arrested the couple with money to Easte cash and was arrested in Gampola and Nawalapitiya.
-
-It is said that they have been placed on the old railway quarters along the ride road.
-
-The suspects were recovered (35 grams) packets of packets were found hidden in the worthy woman's underwear.
-
-The suspect's joke should be residents of the 23rd and 27th and 27th and 27th and 27st of the year.
-
-It is said that they have purchased drugs from the drug dealer named 'Dubai Tars'.
-
-The arrested Thero is to be produced before the Nawalapitiya Magistrate.
-
-◼️
-
-[Data](articles/1b876e91.json)
-
-[Extended Data](ext_articles/1b876e91.ext.json)
-
----
-
-### The doctors do not write bathing now
-
-*2025-09-26 15:29:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දසතරල-දන-බයට-බත-ලයනන-න/101-680281) · `si`
-
-The Kurunegala District MP Nalin Bandara is not written by the presence of the medicine, despite the medicine of hospitals.
-
-The MP said that it was not possible to go to jail, he said.
-
-"This government often sees the Korea. Personal entrepreneurs look to the quarter eye.
-
-The cup needs not only about the past but also for the present things.
-
-The Port Authority had 320 containers of the Port Authority. Today, the police station is positioned locations in the policeplaces.. The COPE does the government officials helpless. No painkillers of the National Hospital. There is no half half of the antibiotics.. Doctors do not write that way today. Due to the lack of bay, the doctors were to jail.
-
-The bribery or corruption Commission is politicized today, he said.
-
-◼️
-
-[Data](articles/8cefcb19.json)
-
-[Extended Data](ext_articles/8cefcb19.ext.json)
-
----
-
-### The doctors do not write bathing now
-
-*2025-09-26 15:29:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරල-දන-බයට-බත-ලයනන-න/1-680281) · `si`
-
-The Kurunegala District MP Nalin Bandara is not written by the presence of the medicine, despite the medicine of hospitals.
-
-The MP said that it was not possible to go to jail, he said.
-
-"This government often sees the Korea. Personal entrepreneurs look to the quarter eye.
-
-The cup needs not only about the past but also for the present things.
-
-The Port Authority had 320 containers of the Port Authority. Today, the police station is positioned locations in the policeplaces.. The COPE does the government officials helpless. No painkillers of the National Hospital. There is no half half of the antibiotics.. Doctors do not write that way today. Due to the lack of bay, the doctors were to jail.
-
-The bribery or corruption Commission is politicized today, he said.
-
-◼️
-
-[Data](articles/d7e61cde.json)
-
-[Extended Data](ext_articles/d7e61cde.ext.json)
-
----
-
-### Raid Uncovers 500 Rounds of T-56 Ammo Linked Kehelbaddara Padme
-
-*2025-09-26 15:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/raid-uncovers-500-rounds-of-t-56-ammo-linked-kehelbaddara-padme) · `en`
-
-COLOMBO (News 1st); Officers from the Colombo North Crimes Division have uncovered a stockpile of approximately 500 rounds of T-56 ammunition in Peliyagoda, believed to be linked to organized criminal figure Kehelbaddara Padme, who is currently in remand custody.In addition to the ammunition, police also recovered a micro-type pistol, a pair of handcuffs, and four T-56 magazines.
-
-◼️
-
-[Data](articles/04d6ecad.json)
-
-[Extended Data](ext_articles/04d6ecad.ext.json)
-
----
-
-### Three vehicles collided with a terrible accident in Bandaragama
-
-*2025-09-26 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215037) · `si`
-
-A van, tipper and three-wheeler collided in the Weita area in Bandaragama.
-
-It is reported that 11 people were injured in the accident and they had taken steps to hospital soon.
-
-◼️
-
-[Data](articles/40e366ed.json)
-
-[Extended Data](ext_articles/40e366ed.ext.json)
-
----
-
-### Air Passenger arrested with 'Cush'
-
-*2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කෂ-සමඟ-ගවන-මගය-මටට/1-680280) · `si`
-
-A large number of officers of Sri Lanka a Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport Trace, which was leaving the Katunayake airport, has been arrested by a Sri Lankan Air Force Bureau.
-
-He is a 48 year old business engaged in the Ratmalana area in Ratmalana.
-
-Three cases filed by the Mount Lavinia Police and the Colombo Police Narcota Bureau Head Quitha
-
-In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden in a shopping bag.
-
-◼️
-
-[Data](articles/10ee03f0.json)
-
-[Extended Data](ext_articles/10ee03f0.ext.json)
-
----
-
-### Air Passenger arrested with 'Cush'
-
-*2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කෂ-සමඟ-ගවන-මගය-මටට/101-680280) · `si`
-
-A large number of officers of Sri Lanka a Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport Trace, which was leaving the Katunayake airport, has been arrested by a Sri Lankan Air Force Bureau.
-
-He is a 48 year old business engaged in the Ratmalana area in Ratmalana.
-
-Three cases filed by the Mount Lavinia Police and the Colombo Police Narcota Bureau Head Quitha
-
-In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden in a shopping bag.
-
-◼️
-
-[Data](articles/caaa4340.json)
-
-[Extended Data](ext_articles/caaa4340.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 05:56:18**
+As of **2025-09-26 07:46:38**
 
 ## Newspaper Stats
 
-*Scraped **78,190** Articles*
+*Scraped **78,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,157 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 792
-economynextcom | 4,717
+economynextcom | 4,718
 dailymirrorlk | 4,733
 islandlk | 4,804
-dailyftlk | 5,549
+dailyftlk | 5,553
 adalk | 7,599
-adaderanalk | 10,160
+adaderanalk | 10,161
 tamilmirrorlk | 11,785
-virakesarilk | 12,719
-adaderanasinhalalk | 13,658
+virakesarilk | 12,722
+adaderanasinhalalk | 13,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,170 (100.0%) of 78,190 articles have been extended.
+78,182 (100.0%) of 78,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### Sri Lanka sells extra Rs275mn Treasury bills after auction
+
+*2025-09-26 07:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs275mn-treasury-bills-after-auction-241929/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 275 million rupees of treasury bills offered on tap at average rates of 7.57 percent and 8.02 percent, the state debt office said, bringing the total of bills sold this week to 34.62 billion rupees.
+
+On Wednesday (24) the debt office raised 34.35 billion rupees of 3, 6 and 12 month bills, after offering 38 billion.
+
+Sri Lanka sells less than offered treasury bills, yields flat
+
+◼️
+
+[Data](articles/3bb2f97a.json)
+
+---
+
+### Showery conditions expected to continue in parts of the island
+
+*2025-09-26 06:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112922/showery-conditions-expected-to-continue-in-parts-of-the-island) · `en`
+
+Prevailing showery condition over the south western parts of the island is expected to continue for the next 24 hours today (26), the Department of Meteorology said.
+
+Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara-Eliya districts.
+
+Heavy rainfall of above 100 mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it said.
+
+Light showers may occur in North-central province and in Matale, Mannar and Jaffna districts.
+
+Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts, the Met Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/0c1482fb.json)
+
+---
+
+### A heavy rain over 100 mm millimeters today
+
+*2025-09-26 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215017) · `si`
+
+The latest Department of Meteorologies today (26), the Department of Meteorologies will be expected in the next 24 hours.
+
+Thundershowers at times in the Western, Sabaragamuwa, Sabaragamuwa, Southern provinces and in the Kandy and Nuwara Eliya districts.
+
+In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle, Matara, Kandy and Nuwara Eliya districts. Heavy rains may occur over 100.
+
+The North-Central province and Matale, Mannar and Jaffna districts will occur.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. (40-50) can cause strong winds.
+
+The public requests the public to take steps to minimize accidents caused by strong winds.
+
+◼️
+
+[Data](articles/13f8cd97.json)
+
+[Extended Data](ext_articles/13f8cd97.ext.json)
+
+---
+
+### Genocide, incitement to genocide and impunity
+
+*2025-09-26 05:59:40* · [`dailyftlk`](https://www.ft.lk/columns/Genocide-incitement-to-genocide-and-impunity/4-782203) · `en`
+
+A classmate’s sister contacted me about three years ago, to say that she was finding it difficult to get a visa to Israel, and that she had heard that I knew the Honorary Consul. I responded immediately. Despite much difficulty, I managed to track the then Honorary Consul down in a country he was taking up residence in. We recalled the many Israel National Days he had invited me to, then taking kindly to the many repeated WhatsApp reminders I sent him, he intervened and through his counterparts in India got her the visa.
+
+...
+
+[Data](articles/d36d749a.json)
+
+[Extended Data](ext_articles/d36d749a.ext.json)
+
+---
+
+### From Panama to Pandora — but never to Hulftsdorp
+
+*2025-09-26 05:53:16* · [`dailyftlk`](https://www.ft.lk/columns/From-Panama-to-Pandora-but-never-to-Hulftsdorp/4-782202) · `en`
+
+“From Panama to Pandora” will still read like a road that bends away from Hulftsdorp
+
+Despite new laws and action plans, Sri Lanka’s response to the Pandora Papers has yielded press releases but no prosecutions — leaving Hulftsdorp absent from the accountability trail
+
+ICIJ’s leaks sparked loud announcements, interagency hand-offs and new laws. Four years on, Sri Lanka has asset portals and press releases — but still no public indictments from Pandora. Where, exactly, does this investigation lead?
+
+...
+
+[Data](articles/c4a506cb.json)
+
+[Extended Data](ext_articles/c4a506cb.ext.json)
+
+---
+
+### Asia-Pacific advances agenda for living wages
+
+*2025-09-26 05:45:56* · [`dailyftlk`](https://www.ft.lk/business/Asia-Pacific-advances-agenda-for-living-wages/34-782200) · `en`
+
+Delegates of International Labour Organisation (ILO) at High-Level Regional Dialogue
+
+Regional dialogue strengthens commitment to inclusive wage-setting aligned with ILO principles
+
+The Asia-Pacific region can demonstrate that living wages are achievable through a systematic approach grounded in social dialogue and evidence-based wage systems, participants at a regional dialogue organised by the International Labour Organisation (ILO) heard.
+
+‘Shaping the living wage agenda in Asia and the Pacific – A High-Level Regional Dialogue under the Global Coalition for Social Justice’ took place 23-26 September in Colombo, Sri Lanka. The event brought together participants from 16 countries to explore making living wages a reality for all workers in Asia and the Pacific.
+
+...
+
+[Data](articles/7c224190.json)
+
+[Extended Data](ext_articles/7c224190.ext.json)
+
+---
+
+### Hayleys Fibre commissions Rs. 600 m coir processing facility to boost exports and rural jobs
+
+*2025-09-26 05:44:19* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fibre-commissions-Rs-600-m-coir-processing-facility-to-boost-exports-and-rural-jobs/34-782199) · `en`
+
+Newly commissioned Rs. 600 million integrated coir processing facility by Hayleys Fibre in Kadigawa, Nikaweratiya, spanning 48-acres in the heart of Sri Lanka’s Coconut Triangle
+
+Hayleys Fibre, a member of the Hayleys Group, announced the commissioning of a Rs. 600 million coir processing facility in Kadigawa, Nikaweratiya, one of the largest recent investments in Sri Lanka’s coconut sector.
+
+The 48-acre site, located in the heart of Sri Lanka’s Coconut Triangle, integrates husk processing, fibre extraction, coco peat milling, drying, and storage within a single facility. Designed to meet nearly one third of the company’s raw material requirements, the operation consolidates every stage of the coir value chain on a single site, enhancing efficiency, quality, and reliability.
+
+...
+
+[Data](articles/9dad5d51.json)
+
+[Extended Data](ext_articles/9dad5d51.ext.json)
+
+---
 
 ### First Capital and Hatch partner to launch ‘First Capital Startup Nation’
 
@@ -43,6 +175,8 @@ First Capital Holdings PLC, a subsidiary of JXG (Janashakthi Group) has stepped 
 ...
 
 [Data](articles/4025ca56.json)
+
+[Extended Data](ext_articles/4025ca56.ext.json)
 
 ---
 
@@ -64,6 +198,8 @@ UN Global Compact Network Sri Lanka Executive Director Rathika de Silva.
 
 [Data](articles/2c9f0ccd.json)
 
+[Extended Data](ext_articles/2c9f0ccd.ext.json)
+
 ---
 
 ### Inaugural National AI Expo and Conference kicks off next week
@@ -79,6 +215,8 @@ Under the theme “In Pursuit of AI”, the Expo will demonstrate how artificial
 ...
 
 [Data](articles/db86d577.json)
+
+[Extended Data](ext_articles/db86d577.ext.json)
 
 ---
 
@@ -96,6 +234,8 @@ HFL’s A+(lka) rating comprises its standalone credit profile of ‘a(lka)’ a
 
 [Data](articles/6480e536.json)
 
+[Extended Data](ext_articles/6480e536.ext.json)
+
 ---
 
 ### Sri Lanka Pavilion shines at Foodex Saudi 2025
@@ -109,6 +249,8 @@ This marked Sri Lanka’s second participation in the Kingdom’s premier food a
 ...
 
 [Data](articles/33a13adc.json)
+
+[Extended Data](ext_articles/33a13adc.ext.json)
 
 ---
 
@@ -126,6 +268,8 @@ Dinemore Founder M.S.M. Rishard said: “We are proud to unveil DinemoreGo, whic
 
 [Data](articles/a83b1f67.json)
 
+[Extended Data](ext_articles/a83b1f67.ext.json)
+
 ---
 
 ### President AKD calls for global unity against poverty, corruption, and war at 80th UN General Assembly
@@ -139,6 +283,8 @@ President Anura Kumara Disanayake on Wednesday addressed the 80th session of the
 ...
 
 [Data](articles/46caf975.json)
+
+[Extended Data](ext_articles/46caf975.ext.json)
 
 ---
 
@@ -165,6 +311,56 @@ However, responding to the Opposition’s criticism, Speaker Dr. Wickramaratne y
 ...
 
 [Data](articles/99a25474.json)
+
+---
+
+### ஜனாதிபதி - ஐ.நா. பொதுச்செயலாளர் அன்டோனியோ குட்டெரெஸ் சந்திப்பு
+
+*2025-09-26 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226093) · `ta`
+
+ஐக்கிய நாடுகள் பொதுச்செயலாளர் அன்டோனியோ குட்டெரெஸை (António Guterres) 25ஆம் திகதி வியாழக்கிழமை பிற்பகல் நியூயோர்க்கிலுள்ள ஐ.நா. தலைமையகத்தில் ஜனாதிபதி அநுர குமார திசாநாயக்க சந்தித்து கலந்துரையாடியுள்ளார்.
+
+குறித்த சந்திப்பில் சிநேகபூர்வ உரையாடல் இடம்பெற்றதுடன், இலங்கையை பொருளாதார, சமூக மற்றும் அரசியல் ரீதிகளில் புதிய உயரத்திற்கு கொண்டு செல்வதற்காக அரசாங்கம் மேற்கொண்டு வரும் செயற்திட்டங்கள் குறித்து பொதுச்செயலாளரிடம் விரிவாக ஜனாதிபதி விளக்கியுள்ளார்.
+
+அத்திட்டங்களை பொதுச்செயலாளர் குட்டெரெஸ் பாராட்டியதோடு, அவற்றுக்கு தனது முழுமையான ஆதரவை வழங்குவதாகவும் உறுதியளித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/46ecfdd0.json)
+
+---
+
+### மத்திய மாகாண அரச அதிகாரிகளுக்கு டிஜிட்டல் மயமாக்கல் மற்றும் AI தொழில்நுட்பத்தின் பயன்பாடு குறித்து விழிப்புணர்வு ஏற்படுத்தும் நிகழ்ச்சி
+
+*2025-09-26 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226092) · `ta`
+
+அரசாங்கத்தின் டிஜிட்டல் மயமாக்கல் திட்டம் மற்றும் AI தொழில்நுட்பத்தின் பயன்பாடு குறித்து மாகாண மட்டத்தில் உள்ள அரச நிறைவேற்று அதிகாரிகளுக்கு விழிப்புணர்வை ஏற்படுத்தும் நிகழ்ச்சித் தொடரின், முதலாவது மாகாண மட்ட நிகழ்ச்சி வெள்ளிக்கிழமை (26) பிற்பகல் 1.30 மணிக்கு கண்டி மாவட்ட செயலகத்தில் நடைபெறும்.
+
+அரசாங்கத்தின் டிஜிட்டல் மயமாக்கல் திட்டங்களை விளக்குவதையும், AI தொழில்நுட்பத்தைப் பயன்படுத்துவது குறித்து அதிகாரிகளின் அறிவை மேம்படுத்துவதையும் நோக்கமாகக் கொண்ட இந்த நிகழ்ச்சி, மத்திய மாகாண சபை, மாவட்டச் செயலகங்கள், பிரதேச செயலகங்கள் மற்றும் ஏனைய அரச நிறுவனங்களின் அனைத்து நிறைவேற்று அதிகாரிகளின் பங்கேற்புடன் நடத்த திட்டமிடப்பட்டுள்ளது. கொழும்பை மையமாகக் கொண்டு டிஜிட்டல் மயமாக்கல் மற்றும் AI தொழில்நுட்பம் குறித்து அரச அதிகாரிகளுக்கான ஆறு விழிப்புணர்வு நிகழ்ச்சிகள் இதுவரை நடத்தப்பட்டுள்ளதுடன், இதில் 4,000க்கும் மேற்பட்ட அதிகாரிகள் பங்கேற்றனர்.
+
+...
+
+[Data](articles/1b984931.json)
+
+---
+
+### அர்ச்சுனா எம்.பியின் கூற்றால் சபையில் சிரிப்பு
+
+*2025-09-26 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226091) · `ta`
+
+பாராளுமன்றத்தின் பிரதான வாயிலில் உள்ள பொது கழிப்பறையை மாலை 04.30மணிக்கு பிறகு மூட வேண்டாம். இரவில் பூட்டு போட வேண்டாம் என்று குறிப்பிடுங்களென யாழ்.மாவட்ட சுயேச்சைக்குழு பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா இராமநாதன் சபாநாயகரிடம் வலியுறுத்தினார்.
+
+அர்ச்சுனாவின் இந்த கருத்தை கேட்டு சபையில் இருந்தவர்கள் சத்தமாக சிரித்தார்கள் சபாநாயகரும் சிரித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) நடைபெற்ற அமர்வில்  ஒழுங்கு பிரச்சினையை முன்வைத்து உரையாற்றிய அர்ச்சுனா நிலையியல் கட்டளை 141 பிரகாரம் இதனை குறிப்பிடுகிறேன். பாராளுமன்றத்தின் பிரதான வாயிலில் உள்ள பொது கழிப்பறை மாலை 04.30மணிக்கு மூடப்படுவதாகவும், அதனால் அசௌகரியங்களுக்கு உள்ளாகுவதாகவும் பொலிஸார் குறிப்பிடுகிறார்கள்.
+
+ஆகவே அந்த பொது கழிப்பறையை மூட வேண்டாம், இரவில் பூட்டு போட வேண்டாம் என்று குறிப்பிடுங்கள் என்றார்.
+
+அர்ச்சுனாவின் இந்த கருத்தை கேட்டு சபையில் இருந்தவர்கள் அனைவரும் சத்தமாக சிரித்தார்கள். சபைக்கு தலைமை தாங்கிய  சபாநாயகர் ஜகத் விக்கிரமரத்ன, அதற்கு ஏதும் பதிலளிக்காமல் சிரித்தவாறு சபை நடவடிக்கைகளை முன்னெடுத்தார்.
+
+◼️
+
+[Data](articles/dc02e95b.json)
 
 ---
 
@@ -1813,197 +2009,5 @@ He replaced Ashoka Ranwala who resigned after a month in the post after his clai
 [Data](articles/49d1901d.json)
 
 [Extended Data](ext_articles/49d1901d.ext.json)
-
----
-
-### Celebrates World Ayurvedic Day for Man and Earth
-
-*2025-09-25 12:32:44* · [`adalk`](https://www.ada.lk/business/මිනිසා-සහ-මිහිකත-වෙනුවෙන්-ලෝක-ආයුර්වේද-දිනය-සමරයි/7-418717) · `si`
-
-World Ayurvedic day celebrates the world's ancient, living philosophy, ayurveda, and celebrate the Danniyan God's birthday. Ayurveda is not just medicality and it is not just a healthy, and it is to highlight the importance of a sustainable lifestyle.
-
-මෙම දිනයේ අභිමතාර්ථය වනුයේ ආයුර්වේදයේ වැදගත්කම පිළිබඳව ගෝලීය දැනුවත්භාවය ඉහළ නැංවීම, සෞඛ්‍යය සම්පන්න ජීවන රටාවන් දිරිමත් කිරීම, සාම්ප්‍රදායික දැනුම ආරක්ෂා කිරීම සහ ජීවන රටා හා බැඳුණු ශාරීරික, මානසික සහ සමාජීය විපර්යාස වැනි වර්තමාන ජීවන රටාව හා බැඳුණු අභියෝගවලට ආයුර්වේදය තුළින් පිළිතුරු ලබාදීමය.
-
-As a pioneer in the field of Ayurveda, the Link Natural, "Ayurvedic knowledge for man and the earth," is emphasized to maintain the balance of Ayurvedic knowledge of man and the ecological knowledge of the ecosystem not only for man's well-being.. Ancient Ayurvedic Group is more suitable and important in relation to the past.
-
-...
-
-[Data](articles/4cbdbdb5.json)
-
-[Extended Data](ext_articles/4cbdbdb5.ext.json)
-
----
-
-### Israel's Israeli attack
-
-*2025-09-25 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214994) · `si`
-
-More than 80 people were killed in attacks on Gaza yesterday.
-
-Most of the dead people reported that Gaza was town.
-
-About 20 people were killed in a building that was detained in a large number of families displaced in Gaza last night.
-
-There are also children and women among the dead.
-
-Responding to the attacks, Israel said that Israeli said that the attack targeting Hamas militants.
-
-◼️
-
-[Data](articles/e167e040.json)
-
-[Extended Data](ext_articles/e167e040.ext.json)
-
----
-
-### Manusha tomorrow a bribery calling tomorrow
-
-*2025-09-25 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214993) · `si`
-
-Dr. Nasha Nanayakkara, the Minister of Labor and Foreign Employment in 2023, a banner has been taken to the Investigation Commission tomorrow (26).
-
-Former Minister Manusha Nanayakkara has informed the Bribery or Corruption Commission to send these statements regarding the sending of the Sri Lankan workers in the Agricultural Sector Employment and the Sri Lanka Bureau of Foreign Employment and Israeli.
-
-The event was summoned to the Commission on 08.09.2010, but he had failed to come to the statement due to his staying abroad.
-
-Therefore, the Commission of Investigation Commission has further informed the Corruption Commission to Investigate Bureau, Jawatta Road, Keppetipola Mawatha, Details of the Old National Identity Office of Keppetipola Mawatha.
-
-◼️
-
-[Data](articles/f78ea713.json)
-
-[Extended Data](ext_articles/f78ea713.ext.json)
-
----
-
-### Arayambathi Bus Station: Travelers who are suffering from roofing; Public condemning the authorities
-
-*2025-09-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226040) · `ta`
-
-The public has said that the passengers waiting for the bus at the bus station are facing various inconveniences in the sun, due to the lack of roofing plates at the Arayambathi Palamunai junction on the Batticaloa - Kalmunai main road.
-
-Plastic mirror roofs have been broken into the newly built building at the bus station.
-
-Even though the bus roof has been out of the last one year, the authorities have not taken any action to do this? These officers who get the salary of the people's taxpayers are concerned about the departments of the people, who will not serve the people?
-
-Despite being brought to the notice of the relevant authorities, no action has been taken so far, so they have been asked to take action.
-
-◼️
-
-[Data](articles/859e673a.json)
-
-[Extended Data](ext_articles/859e673a.ext.json)
-
----
-
-### Only 50% of data provided by public during wildlife census accurate: Dy Minister
-
-*2025-09-25 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112906/only-50-of-data-provided-by-public-during-wildlife-census-accurate-dy-minister) · `en`
-
-Around 50% of the information provided by the general public during the recent wildlife census was found to be accurate, according to Deputy Minister of Agriculture and Livestock Namal Karunaratne.
-
-The Deputy Minister presented this information today (26) while addressing Parliament.
-
-The wildlife census, conducted on March 15 across the island, was aimed to identify animals that harm food crops, study them properly, and take appropriate action.
-
-The census, which was conducted simultaneously across the country, focused on animals such as monkeys, toque macaques, peacocks and giant squirrels. According to the Deputy Minister, 50% of the data provided by the public about monkeys and toque macaques was confirmed to be accurate.
-
-...
-
-[Data](articles/d596a829.json)
-
-[Extended Data](ext_articles/d596a829.ext.json)
-
----
-
-### Highseat gazette leaving
-
-*2025-09-25 12:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-365265) · `ta`
-
-President Anura Kumara Dissanayake has issued a high -ranking gazette in Parliament today in Parliament that President Anura Kumara Dissanayake has issued an armed gazette to protect public security.
-
-The order, which comes into effect from September 27, 2025, was created under Section 12 of the Public Security Act under the powers granted to the President.
-
-However, the procedure of calling the armed forces to maintain public security through a high -level gazette announcement has become a repetition process by subsequent governments.
-
-◼️
-
-[Data](articles/f08ce586.json)
-
-[Extended Data](ext_articles/f08ce586.ext.json)
-
----
-
-### Sri Lanka weddings promoted to Indian couples
-
-*2025-09-25 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-weddings-promoted-to-indian-couples-241848/) · `en`
-
-ECONOMYNEXT – Sri Lanka Tourism has conducted promotions in India’s Mumbai, Ahmedabad, and Delhi, to market the island as an ‘enchanting’ wedding destination for Indian couples.
-
-The campaign attracted leading wedding planners, event managers, travel agents, and media representatives.
-
-Destination weddings continue to be a trend among Indian families seeking international venues that combine cultural richness, Sri Lanka Tourism said in a statement.
-
-“Recognizing this demand, Sri Lanka Tourism presented the island’s unique offerings – from golden beaches and luxury resorts to romantic hill country escapes, heritage sites, and spiritual backdrops.”
-
-“If marriages are made in heaven, then surely they deserve to be celebrated in paradise. Sri Lanka is that paradise – offering golden beaches, romantic hill country retreats, and heritage estates where Indian couples can create memories that last a lifetime,” Chairman of the Sri Lanka Tourism Promotion Bureau said.
-
-...
-
-[Data](articles/5c9bc345.json)
-
-[Extended Data](ext_articles/5c9bc345.ext.json)
-
----
-
-### ’’நம்பிக்கையில்லா பிரேரணையை விவாதிக்க முடியாது’’
-
-*2025-09-25 12:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணையை-விவாதிக்க-முடியாது/175-365264) · `ta`
-
-Speaker Jagath Wickramaratne today reiterated that the no -confidence motion against Deputy Defense Minister Aruna Jayasekera cannot be discussed in accordance with staff, constitutional and international parliamentary procedures.
-
-The Speaker pointed out that the Committee of the Secretaries and the Attorney General submitted to him, claiming that the no -confidence motion in the pending case on the Easter Sunday bombing would not have any legal effect.
-
-◼️
-
-[Data](articles/decfbbf6.json)
-
-[Extended Data](ext_articles/decfbbf6.ext.json)
-
----
-
-### Ticket for Western Private Transport Buses Mandatory
-
-*2025-09-25 12:00:03* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පෞද්ගලික-මගී-ප්‍රවාහන-බස්-සඳහා-ටිකට්පත-අනිවාර්යයි/11-418716) · `si`
-
-The Western Province Road Passenger Transport Authority has been compulsory from the 1st of next month to passengers.
-
-The Authority states that the law will be implemented in next month and the passengers and conductors without tickets will take serious action.
-
-◼️
-
-[Data](articles/8a217a9d.json)
-
-[Extended Data](ext_articles/8a217a9d.ext.json)
-
----
-
-### 20 years rigorous imprisonment for a father who sexually abused two daughters in Batticaloa
-
-*2025-09-25 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226030) · `ta`
-
-Batticaloa High Court Judge RJ Prabhakaran today ruled that the father of 7 and 8 -year -old daughters in the district of Batticaloa has been sentenced to 20 years in prison for sexually abusing her 7 and 8 years of imprisonment for the victims of Rs.
-
-The 56 -year -old father was arrested in October 2016 for allegedly sexually abusing two daughters, including a 7 and 8 -year -old daughter, including the daughter of a mentally ill.
-
-Police have registered a case in the Supreme Court against the arrested person and then released on bail.. This is followed by trial.
-
-On September 27 last year, he was found guilty of evidence, evidence and legal doctor's report on four allegations for sexually abusing 16 -year -old girls against the man.
-
-...
-
-[Data](articles/500d23fb.json)
-
-[Extended Data](ext_articles/500d23fb.ext.json)
 
 ---

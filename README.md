@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 01:38:36**
+As of **2025-09-27 01:56:04**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,786 (100.0%) of 78,787 articles have been extended.
+78,787 (100.0%) of 78,787 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,8 @@ The Global Dialogue Forum (GDF), in partnership with the Club of Rome – India,
 ...
 
 [Data](articles/38385210.json)
+
+[Extended Data](ext_articles/38385210.ext.json)
 
 ---
 

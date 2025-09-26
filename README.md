@@ -1,51 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 14:22:25**
+As of **2025-09-26 14:11:29**
 
 ## Newspaper Stats
 
-*Scraped **78,550** Articles*
+*Scraped **78,469** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 200
-newsfirstlk | 418
+lankadeepalk | 177
+newsfirstlk | 363
 dbsjeyarajcom | 634
-bbccomsinhala | 702
+bbccomsinhala | 701
 colombotelegraphcom | 792
 economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,607
+adalk | 7,606
 adaderanalk | 10,176
 tamilmirrorlk | 11,802
 virakesarilk | 12,739
-adaderanasinhalalk | 13,671
+adaderanasinhalalk | 13,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,277 (99.7%) of 78,550 articles have been extended.
+78,277 (99.8%) of 78,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
-
-### දුම්වැටි ගුවන්තොටින් පන්නන්න බැරිවෙයි
-
-*2025-09-26 14:05:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමවට-ගවනතටන-පනනනන-බරවය/101-680274) · `si`
-
-රුපියල් එක් කෝටි අසූ ලක්ෂයක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු අද (26) රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
-
-ඔහු විසින් රැගෙන ආ ගමන් මලු 06 ක් තුළ , විදේශීය නිෂ්පාදිත " ප්ලැටිනම්'' වර්ගයේ දුම්වැටි 120,000 ක් අඩංගු දුම්වැටි කාටූන් 600 ක් සගවා ගෙන තිබුණි .‍ෙරේගු නිලධාරීන් විසින් මොහු අත් අඩංගුවේ තබා ගෙන මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
-
-◼️
-
-[Data](articles/9af91b3d.json)
-
----
 
 ### ගමේ සෞඛ්‍ය වැඩට ඩබල් කැබ් හතක්
 
@@ -60,26 +46,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/69de178b.json)
-
----
-
-### මධ්‍යම පරිසර අධිකාරියේ ගෙවීම් කටයුතු GovPayහරහා අද සිට
-
-*2025-09-26 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215031) · `si`
-
-මධ්‍යම පරිසර අධිකාරියේ ගෙවීම් කටයුතු අද (26) සිට GovPay හරහා සිදු කරන බව පරිසර අමාත්‍යාංශය පවසයි.
-
-එම අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ මෙමගින් මධ්‍යම පරිසර අධිකාරියේ සේවාලාභීන්ගේ ඕනෑම ගෙවීම් කටයුත්තක් GovPay හරහා අද සිට සිදු කිරීමට අවස්ථාව සලසා දී ඇති බවය.
-
-ඒ අනුව මෙම ගෙවීම් ක්‍රමය මගින් මධ්‍යම පරිසර අධිකාරියේ සේවාලාභීන්ට කාර්යක්ෂම සහ විනිවිදභාවයෙන් යුත් සේවාවක් ලබා ගැනීමට හැකියාව ලැබෙනු ඇතැයි අපේක්ෂා කරන බවද එම අමාත්‍යාංශය පවසයි.
-
-රජයේ ඩිජිටල් රාජ්‍යකරණ ප්‍රතිපත්තිය හා අනුගත වෙමින් මේ වන විට රජයේ ආයතන බොහොමයක් තොරුතුරු තාක්ෂණය භාවිතා කරමින් රාජකාරී කටයුතු සිදු කරනු ලබන අතර ඒ අනුව රාජ්‍ය සේවාවන් ඩිජිටල්කරණය කිරීමේ පියවරක් ලෙස 'GovPay' ගෙවීම් පහසුකම මෙම වසරේ හඳුන්වා දෙන ලදී.
-
-මේ වන විට රජයේ ආයතන 137 ක් GovPay හරහා සම්බන්ධ වන අතර 138 වන රාජ්‍ය ආයතනය ලෙස මධ්‍යම පරිසර අධිකාරිය අද (26) දින සිට සේවාලාභීන්ගේ ඕනෑම ගෙවීම් කටයුත්තක් GovPay හරහා සිදු කිරීම සඳහා අවස්ථාව මෙමගින් සලසා දී ඇත.
-
-◼️
-
-[Data](articles/de6ca6c0.json)
 
 ---
 
@@ -453,20 +419,6 @@ The review will take the form of a hybrid interactive dialogue between the Gover
 
 ---
 
-### 2026 විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට
-
-*2025-09-26 12:29:00* · [`adalk`](https://www.ada.lk/breaking_news/2026-විසර්ජන-පනත්-කෙටුම්පත-පාර්ලිමේන්තුවට/11-418735) · `si`
-
-2026 විසර්ජන පනත් කෙටුම්පත ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත මහතා විසින් අද(26දා) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
-
-2026 මුදල් වර්ෂය සඳහා වන රජයේ වියදම් ඇතුළත් විසර්ජන පනත් කෙටුම්පත පසුගිය සැප්තැම්බර් මස 18 වන දා ගැසට් කරනු ලැබීය.
-
-◼️
-
-[Data](articles/5558270d.json)
-
----
-
 ### JS Arulraj appointed as the new Government Agent of Batticaloa District
 
 *2025-09-26 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226131) · `ta`
@@ -509,16 +461,6 @@ Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the vi
 
 ---
 
-### Sri Lanka Signals Strong Economic Comeback: Treasury Secretary
-
-*2025-09-26 12:20:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-signals-strong-economic-comeback-treasury-secretary) · `en`
-
-...
-
-[Data](articles/0fa02b6f.json)
-
----
-
 ### Vehicle accident with maturations: driver magic
 
 *2025-09-26 12:16:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதிரைக்குற்றிகளுடன்-வாகனம்-விபத்து-சாரதி-மாயம்/72-365315) · `ta`
@@ -557,18 +499,6 @@ It is noteworthy that Thyadheepam Dileepan's image was shot, floral and felt.
 
 ---
 
-### Electric Wiring Stolen from Colombo DIG Office Auditorium
-
-*2025-09-26 12:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/electric-wiring-stolen-from-colombo-dig-office-auditorium) · `en`
-
-COLOMBO (News 1st); An unusual theft has been reported from the sixth-floor auditorium of the Colombo Deputy Inspector General of Police (DIG) office, located on Olcott Mawatha, where electric wiring has allegedly been stolen.According to police sources, the auditorium had undergone renovations several months ago.Despite these upgrades, it has now come to light that the electric wiring has been cut and removed by unidentified individuals.The Colombo Central Division Crimes Investigation Unit has launched a probe into the incident.
-
-◼️
-
-[Data](articles/bcae3b43.json)
-
----
-
 ### Arrested for selling beer for students
 
 *2025-09-26 12:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-பீர்-விற்றவர்-கைது/175-365313) · `ta`
@@ -588,16 +518,6 @@ The suspect and prosecutions have been taken to the Moneragala Magistrate's Cour
 [Data](articles/5aef3a6b.json)
 
 [Extended Data](ext_articles/5aef3a6b.ext.json)
-
----
-
-### High Court Calls For Original Case Files Against Namal
-
-*2025-09-26 12:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/high-court-calls-for-original-case-files-against-namal) · `en`
-
-...
-
-[Data](articles/552c8b17.json)
 
 ---
 
@@ -950,22 +870,6 @@ The body has been placed at the Negombo hospital morgue and the suspect has been
 [Data](articles/741faab9.json)
 
 [Extended Data](ext_articles/741faab9.ext.json)
-
----
-
-### Nuwara Eliya Chills at 14°C: Sri Lanka’s Coldest Spot on September 26
-
-*2025-09-26 11:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/nuwara-eliya-chills-at-14%c2%b0c-sri-lanka%e2%80%99s-coldest-spot-on-september-26) · `en`
-
-COLOMBO (News 1st); Sri Lanka experienced a range of minimum temperatures across the island on the morning of 26 September 2025, with Nuwara Eliya recording the lowest temperature at 14.0°C, according to data from the Department of Meteorology.
-
-The temperature readings, collected from meteorological stations nationwide, were visualized on a map showing a gradient from cooler highland regions to warmer coastal and northern zones.
-
-The central highlands, particularly Nuwara Eliya, continue to exhibit significantly cooler temperatures compared to the rest of the island.
-
-◼️
-
-[Data](articles/f2818db4.json)
 
 ---
 
@@ -1329,16 +1233,6 @@ The residents of Hatton Kadagala residents say that their homes are largely due 
 
 ---
 
-### ASEAN-Led RCEP May Welcome Sri Lanka, Hong Kong, Chile, and Bangladesh
-
-*2025-09-26 09:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/asean-led-rcep-may-welcome-sri-lanka-hong-kong-chile-and-bangladesh) · `en`
-
-...
-
-[Data](articles/7496ee84.json)
-
----
-
 ### Troops fall on a bus at Olcott Mawatha
 
 *2025-09-26 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215023) · `si`
@@ -1399,16 +1293,6 @@ The National Building Research Institute has issued a secondary landslide alert 
 
 ---
 
-### Sri Lanka Pledges Stronger Ties with Cuba
-
-*2025-09-26 09:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-pledges-stronger-ties-with-cuba) · `en`
-
-...
-
-[Data](articles/5bc17a90.json)
-
----
-
 ### Seizure of beedi leaves and a variety of agricultural chemicals
 
 *2025-09-26 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226095) · `ta`
@@ -1458,18 +1342,6 @@ While the world faced geopolitical changes, economic conditions and environmenta
 [Data](articles/1d3d7f56.json)
 
 [Extended Data](ext_articles/1d3d7f56.ext.json)
-
----
-
-### Vijitha Herath and WTO Chief Discuss Trade Reform
-
-*2025-09-26 09:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/vijitha-herath-and-wto-chief-discuss-trade-reform) · `en`
-
-COLOMBO (News 1st); Sri Lanka’s Foreign Minister Vijitha Herath met with Ngozi Okonjo-Iweala, Director-General of the World Trade Organization (WTO), for a bilateral discussion at the United Nations Headquarters.The meeting focused on Sri Lanka’s engagement with the multilateral trading system and explored avenues to enhance cooperation with the WTO. Minister Herath emphasized Sri Lanka’s engagement with the multilateral trading system and ways to strengthen cooperationDirector-General Okonjo-Iweala, while discussing the current global trade landscape, highlighted both the positive developments and challenges facing member states. She also shared insights on the ongoing reform agenda at the WTO, aimed at making the organization more responsive to the needs of developing economies.
-
-◼️
-
-[Data](articles/9fc5a420.json)
 
 ---
 
@@ -1535,18 +1407,6 @@ Fitch Ratings – Colombo/Singapore: Fitch Ratings has assigned Sri Lanka-based 
 
 ---
 
-### Police Seize Over Half a Kilo of Heroin, 1kg of Ice From Ragama
-
-*2025-09-26 08:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/police-seize-over-half-a-kilo-of-heroin-1kg-of-ice-from-ragama) · `en`
-
-COLOMBO (News 1st); A woman was arrested in the Kandepaluwa area of Ragama while in possession of one kilogram of crystal methamphetamine (commonly known as "Ice") and 560 grams of heroin, according to police sources.The arrest was made during a targeted raid conducted based on a tip-off received by the police, which led officers to a residence where the narcotics were discovered. In a related development, four individuals from a neighboring house were also taken into custody for allegedly aiding and abetting the escape of the homeowner, who is believed to be the main suspect behind the drug operation.The police are continuing their search for the fugitive.The arrested woman was produced before the Welikada Magistrate’s Court, where she was remanded until the next hearing scheduled for Monday.
-
-◼️
-
-[Data](articles/ea05e0df.json)
-
----
-
 ### Sri Lanka to regain 2019 economic status by next year - President
 
 *2025-09-26 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112927/sri-lanka-to-regain-2019-economic-status-by-next-year-president) · `en`
@@ -1609,16 +1469,6 @@ Ratnapura: Elapatha, Kalawana, Pelmadulla Divisional Secretariat DSD and surroun
 
 ---
 
-### 100% Tariff On Imported Pharma On October 1: Trump
-
-*2025-09-26 08:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/100-tariff-on-imported-pharma-on-october-1-trump) · `en`
-
-...
-
-[Data](articles/b2cadc60.json)
-
----
-
 ### Landslide warnings are issued for several areas
 
 *2025-09-26 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215021) · `si`
@@ -1650,32 +1500,6 @@ Tilakiswaran Yadus (20 years old) from Budhur junction in Meesalai, North, died 
 [Data](articles/8ee91797.json)
 
 [Extended Data](ext_articles/8ee91797.ext.json)
-
----
-
-### COPE Alleges Energy Crisis Was Engineered to Justify Price Hikes
-
-*2025-09-26 08:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/cope-alleges-energy-crisis-was-engineered-to-justify-price-hikes) · `en`
-
-...
-
-[Data](articles/ca38aa5e.json)
-
----
-
-### Remember the night cricket united South Asia?
-
-*2025-09-26 08:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/remember-the-night-cricket-united-south-asia) · `en`
-
-COLOMBO (News 1st); Cricket in South Asia is often described as a rivalry, a clash of nations, and sometimes even an extension of geopolitics. Yet history offers reminders that this game has also been a powerful force for unity.
-
-One of the most striking examples came during the 1996 Cricket World Cup.
-
-That year, Sri Lanka was hosting the tournament for the very first time alongside India and Pakistan. Just weeks before the matches, however, Colombo was rocked by a devastating bomb blast. Security fears led Australia and New Zealand to refuse to play their scheduled fixtures in Sri Lanka. It was a decision that left the host nation diplomatically isolated and deeply disappointed.
-
-...
-
-[Data](articles/1daa3a81.json)
 
 ---
 
@@ -1830,5 +1654,277 @@ The General Secretary of the Government of Sri Lanka stated that the General Sec
 ...
 
 [Data](articles/c534f066.json)
+
+---
+
+### The 2019 economy reaches in 2026 - President
+
+*2025-09-26 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215020) · `si`
+
+President Anura Kumara Dissanayake says that the year 2019 will be able to move next year before Sri Lanka is in an economic crisis.
+
+The President is speaking at the 80th session of the United Nations General Assembly when Sri Lankans living in the United States met in New York.
+
+President Anura Kumara Dissanayake said that Sri Lanka was officially bankrupt in 2022, Sri Lanka has become a rapid state today.
+
+"Sri Lankans played great support to the President's victory. Helped financially. This contribution caused victory.
+
+An effect of nearly 3% votes in the 2019 election. However, in the 2024 presidential election, the general election and the later general elections were won with the highest number of seats in the history of Sri Lanka.
+
+On April 12, 2022, Sri Lanka was officially declared, we will not pay the debt. That it was a bankrupt state.
+
+The ruler who had come to power at that time had gone to the people of Sri Lanka for the first time.
+
+...
+
+[Data](articles/49a73997.json)
+
+[Extended Data](ext_articles/49a73997.ext.json)
+
+---
+
+### Chickens collides a panni of transportation lorry
+
+*2025-09-26 07:51:18* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළන්-ප්‍රවාහන-ලොරියක්-වන-අලියෙකුගේ-ගැටෙයි/11-418729) · `si`
+
+The lorry was rolled by a lorry, a lorry, a lorry, a lorry, a lorry, which was transporting chickens in the Dambulla Bakamuna main road.
+
+While the lorry traveled by the Lorry, which was traveling towards the rubbish towards the rubbacco, said that when the lorry was carrying out on the road, the accident occurred because of the road, the accident had occurred due to the road.
+
+He said the car was rolled out of the road with the collapse of the elephant. Was able to see a large number of people in the cupplace at the back of the car. The chickens of the chickens were seen around the road
+
+It was not possible that elephant injured as the elephant was injured in the Wildlife Officers and said that the Laria of the elephant had clashed
+
+However, the Elephartian vehicle was unable to control the bath, the examination would be held if the accident occurred, whether the accident occurred if the elephant was hit by the accident
+
+...
+
+[Data](articles/c7689bfd.json)
+
+[Extended Data](ext_articles/c7689bfd.ext.json)
+
+---
+
+### කුකුළු ලොරියක අලියකු හැපිලා
+
+*2025-09-26 07:48:11* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කකළ-ලරයක-අලයක-හපල/101-680242) · `si`
+
+කුකුළන් ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් දඹුල්ල රිදිඇල්ල ප්‍රදේශයේදී වන අලියකුගේ ගැටීමෙන් ලොරි රථය පෙරළීම නිසා කුකුලන් විශාල ප්‍රමාණයක පාරේ තැන්තැන්වල මියගොස් ඇතැයි වනජිවිය කියයි.
+
+දඹුල්ල දෙස සිට බකමූණ දෙසට ලොරිය ධාවනය වෙද්දී   වන අලියකු මාර්ගය හරහා මාරුවෙද්දී  මෙම අනතුර සිදුවූ බව ලොරි රථයේ ගමන් කරමින් සිටි සේවකයෙක් සඳහන් කළේය
+
+වන අලියාගේ ගැටීමත් සමඟම රථය පෙරළී මාර්ගයෙන් ඉවතට ඇදී ගිය බවත් ඔහු සඳහන් කළේය. අනතුරත් සමග කුකුලන්  විශාල ප්‍රමායක් මියගොස් සිටින අයුරු දැක ගැනීමට හැකි විය . තවත් පණපිටින් සිටි කුකුළන් පාර පුරා වැටී තිබෙන අයුරුද දැකගැනීමට හැකි විය
+
+◼️
+
+[Data](articles/631c7ca9.json)
+
+---
+
+### A chicken lorry is humbled
+
+*2025-09-26 07:48:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කකළ-ලරයක-අලයක-හපල/1-680242) · `si`
+
+The lorry transporting chickens, a lorry that the lorry was hit by alanka in Dambulla was killed in a large number of chickens.
+
+While driving the lorry from Dambulla to Older, a group of employees who was traveling in the lorry that the accident had occurred through the road.
+
+He said the car was rolled out of the road with the collapse of the elephant. A large number of chickens was able to see large amounts of puzzles with accident. The chickens of the chickens were seen around the road
+
+◼️
+
+[Data](articles/985cd7e5.json)
+
+[Extended Data](ext_articles/985cd7e5.ext.json)
+
+---
+
+### President Dissanayake meets UN Secretary-General António Gutierrez
+
+*2025-09-26 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112924/president-dissanayake-meets-un-secretary-general-antnio-gutierrez) · `en`
+
+President Anura Kumara Dissanayake, who is in New York to attend the 80th Session of the United Nations General Assembly, met with UN Secretary-General António Gutierrez at the United Nations Headquarters in New York on 25th afternoon.
+
+The Secretary-General warmly received the President upon his arrival at the UN Headquarters, after which the two leaders held a cordial discussion, the Presidential Media Division (PMD) said.
+
+During the meeting, President Dissanayake outlined the progress of Sri Lanka’s new economic reforms as well as key government initiatives aimed at advancing the country’s economic, social and political development.
+
+The Secretary-General commended the Sri Lankan government’s new progressive programme, affirming that the United Nations stands in support of it and extends its full cooperation, according to the PMD.
+
+...
+
+[Data](articles/bcd9b4b3.json)
+
+[Extended Data](ext_articles/bcd9b4b3.ext.json)
+
+---
+
+### Sri Lanka sells extra Rs275mn Treasury bills after auction
+
+*2025-09-26 07:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs275mn-treasury-bills-after-auction-241929/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 275 million rupees of treasury bills offered on tap at average rates of 7.57 percent and 8.02 percent, the state debt office said, bringing the total of bills sold this week to 34.62 billion rupees.
+
+On Wednesday (24) the debt office raised 34.35 billion rupees of 3, 6 and 12 month bills, after offering 38 billion.
+
+Sri Lanka sells less than offered treasury bills, yields flat
+
+◼️
+
+[Data](articles/3bb2f97a.json)
+
+[Extended Data](ext_articles/3bb2f97a.ext.json)
+
+---
+
+### South Korea fires warning shots at North Korean ship crossing sea border
+
+*2025-09-26 07:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112923/south-korea-fires-warning-shots-at-north-korean-ship-crossing-sea-border) · `en`
+
+South Korea fired warning shots on Friday at a North Korean commercial vessel that crossed the maritime border in disputed waters off the Korean peninsula’s west coast, and the vessel subsequently retreated, the South’s military said.
+
+The incursion early on Friday also involved South Korean military transmitting verbal warnings and the operation followed standard protocol, the South’s Joint Chiefs of Staff said in a statement.
+
+The waters around the so-called Northern Limit Line border, which was drawn up after the 1950-53 Korean War, have been the scene of deadly naval clashes in the past. North Korea does not recognise the line as the border.
+
+◼️
+
+[Data](articles/991b764b.json)
+
+[Extended Data](ext_articles/991b764b.ext.json)
+
+---
+
+### Showery conditions expected to continue in parts of the island
+
+*2025-09-26 06:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112922/showery-conditions-expected-to-continue-in-parts-of-the-island) · `en`
+
+Prevailing showery condition over the south western parts of the island is expected to continue for the next 24 hours today (26), the Department of Meteorology said.
+
+Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara-Eliya districts.
+
+Heavy rainfall of above 100 mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it said.
+
+Light showers may occur in North-central province and in Matale, Mannar and Jaffna districts.
+
+Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts, the Met Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/0c1482fb.json)
+
+[Extended Data](ext_articles/0c1482fb.ext.json)
+
+---
+
+### A heavy rain over 100 mm millimeters today
+
+*2025-09-26 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215017) · `si`
+
+The latest Department of Meteorologies today (26), the Department of Meteorologies will be expected in the next 24 hours.
+
+Thundershowers at times in the Western, Sabaragamuwa, Sabaragamuwa, Southern provinces and in the Kandy and Nuwara Eliya districts.
+
+In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle, Matara, Kandy and Nuwara Eliya districts. Heavy rains may occur over 100.
+
+The North-Central province and Matale, Mannar and Jaffna districts will occur.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. (40-50) can cause strong winds.
+
+The public requests the public to take steps to minimize accidents caused by strong winds.
+
+◼️
+
+[Data](articles/13f8cd97.json)
+
+[Extended Data](ext_articles/13f8cd97.ext.json)
+
+---
+
+### Genocide, incitement to genocide and impunity
+
+*2025-09-26 05:59:40* · [`dailyftlk`](https://www.ft.lk/columns/Genocide-incitement-to-genocide-and-impunity/4-782203) · `en`
+
+A classmate’s sister contacted me about three years ago, to say that she was finding it difficult to get a visa to Israel, and that she had heard that I knew the Honorary Consul. I responded immediately. Despite much difficulty, I managed to track the then Honorary Consul down in a country he was taking up residence in. We recalled the many Israel National Days he had invited me to, then taking kindly to the many repeated WhatsApp reminders I sent him, he intervened and through his counterparts in India got her the visa.
+
+...
+
+[Data](articles/d36d749a.json)
+
+[Extended Data](ext_articles/d36d749a.ext.json)
+
+---
+
+### From Panama to Pandora — but never to Hulftsdorp
+
+*2025-09-26 05:53:16* · [`dailyftlk`](https://www.ft.lk/columns/From-Panama-to-Pandora-but-never-to-Hulftsdorp/4-782202) · `en`
+
+“From Panama to Pandora” will still read like a road that bends away from Hulftsdorp
+
+Despite new laws and action plans, Sri Lanka’s response to the Pandora Papers has yielded press releases but no prosecutions — leaving Hulftsdorp absent from the accountability trail
+
+ICIJ’s leaks sparked loud announcements, interagency hand-offs and new laws. Four years on, Sri Lanka has asset portals and press releases — but still no public indictments from Pandora. Where, exactly, does this investigation lead?
+
+...
+
+[Data](articles/c4a506cb.json)
+
+[Extended Data](ext_articles/c4a506cb.ext.json)
+
+---
+
+### Asia-Pacific advances agenda for living wages
+
+*2025-09-26 05:45:56* · [`dailyftlk`](https://www.ft.lk/business/Asia-Pacific-advances-agenda-for-living-wages/34-782200) · `en`
+
+Delegates of International Labour Organisation (ILO) at High-Level Regional Dialogue
+
+Regional dialogue strengthens commitment to inclusive wage-setting aligned with ILO principles
+
+The Asia-Pacific region can demonstrate that living wages are achievable through a systematic approach grounded in social dialogue and evidence-based wage systems, participants at a regional dialogue organised by the International Labour Organisation (ILO) heard.
+
+‘Shaping the living wage agenda in Asia and the Pacific – A High-Level Regional Dialogue under the Global Coalition for Social Justice’ took place 23-26 September in Colombo, Sri Lanka. The event brought together participants from 16 countries to explore making living wages a reality for all workers in Asia and the Pacific.
+
+...
+
+[Data](articles/7c224190.json)
+
+[Extended Data](ext_articles/7c224190.ext.json)
+
+---
+
+### Hayleys Fibre commissions Rs. 600 m coir processing facility to boost exports and rural jobs
+
+*2025-09-26 05:44:19* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fibre-commissions-Rs-600-m-coir-processing-facility-to-boost-exports-and-rural-jobs/34-782199) · `en`
+
+Newly commissioned Rs. 600 million integrated coir processing facility by Hayleys Fibre in Kadigawa, Nikaweratiya, spanning 48-acres in the heart of Sri Lanka’s Coconut Triangle
+
+Hayleys Fibre, a member of the Hayleys Group, announced the commissioning of a Rs. 600 million coir processing facility in Kadigawa, Nikaweratiya, one of the largest recent investments in Sri Lanka’s coconut sector.
+
+The 48-acre site, located in the heart of Sri Lanka’s Coconut Triangle, integrates husk processing, fibre extraction, coco peat milling, drying, and storage within a single facility. Designed to meet nearly one third of the company’s raw material requirements, the operation consolidates every stage of the coir value chain on a single site, enhancing efficiency, quality, and reliability.
+
+...
+
+[Data](articles/9dad5d51.json)
+
+[Extended Data](ext_articles/9dad5d51.ext.json)
+
+---
+
+### First Capital and Hatch partner to launch ‘First Capital Startup Nation’
+
+*2025-09-26 05:41:48* · [`dailyftlk`](https://www.ft.lk/business/First-Capital-and-Hatch-partner-to-launch-First-Capital-Startup-Nation/34-782198) · `en`
+
+First Capital Holdings PLC Managing Director and CEO Dilshan Wirasekara
+
+First Capital Holdings PLC, a subsidiary of JXG (Janashakthi Group) has stepped forward as the title sponsor of First Capital Startup Nation by Hatch, a transformative program that connects investors with Sri Lanka’s most promising startups.
+
+...
+
+[Data](articles/4025ca56.json)
+
+[Extended Data](ext_articles/4025ca56.ext.json)
 
 ---

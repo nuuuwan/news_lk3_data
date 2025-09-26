@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 05:20:15**
+As of **2025-09-26 05:56:18**
 
 ## Newspaper Stats
 
-*Scraped **78,170** Articles*
+*Scraped **78,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ bbccomsinhala | 677
 colombotelegraphcom | 792
 economynextcom | 4,717
 dailymirrorlk | 4,733
-islandlk | 4,793
-dailyftlk | 5,540
+islandlk | 4,804
+dailyftlk | 5,549
 adalk | 7,599
 adaderanalk | 10,160
 tamilmirrorlk | 11,785
@@ -26,11 +26,147 @@ adaderanasinhalalk | 13,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,170 (100.0%) of 78,170 articles have been extended.
+78,170 (100.0%) of 78,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### First Capital and Hatch partner to launch ‘First Capital Startup Nation’
+
+*2025-09-26 05:41:48* · [`dailyftlk`](https://www.ft.lk/business/First-Capital-and-Hatch-partner-to-launch-First-Capital-Startup-Nation/34-782198) · `en`
+
+First Capital Holdings PLC Managing Director and CEO Dilshan Wirasekara
+
+First Capital Holdings PLC, a subsidiary of JXG (Janashakthi Group) has stepped forward as the title sponsor of First Capital Startup Nation by Hatch, a transformative program that connects investors with Sri Lanka’s most promising startups.
+
+...
+
+[Data](articles/4025ca56.json)
+
+---
+
+### Sri Lankan business leaders join global CEOs and govt. representatives at UN Private Sector Forum
+
+*2025-09-26 05:38:41* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-business-leaders-join-global-CEOs-and-govt-representatives-at-UN-Private-Sector-Forum/34-782197) · `en`
+
+UN Secretary-General António Guterres speaking at the UN Private Sector Forum
+
+Sri Lankan business leaders joined more than 50 global CEOs, government representatives, and United Nations leaders at the 2025 UN Global Compact Private Sector Forum (PSF) in New York, convened on 22 September, during the UN General Assembly. The high-level roundtable focused on mobilising private sector investment to close the global financing gap for the Sustainable Development Goals (SDGs) and accelerate inclusive, sustainable growth.
+
+Dilmah Ceylon Tea Company PLC CEO/Chairman and UN Global Compact Network Sri Lanka Chairman Dilhan C. Fernando.
+
+Dialog Axiata PLC Executive Director/Group Chief Executive and UN Global Compact Network Sri Lanka Board Member Supun Weerasinghe.
+
+UN Global Compact Network Sri Lanka Executive Director Rathika de Silva.
+
+...
+
+[Data](articles/2c9f0ccd.json)
+
+---
+
+### Inaugural National AI Expo and Conference kicks off next week
+
+*2025-09-26 05:36:29* · [`dailyftlk`](https://www.ft.lk/business/Inaugural-National-AI-Expo-and-Conference-kicks-off-next-week/34-782196) · `en`
+
+On 29 and 30 September the nation’s digital future will be on full display at the first-ever National AI Expo and Conference 2025 at Monarch Imperial, Colombo.
+
+This is more than just an event; it’s a launchpad for the country’s AI movement, pioneered by the Digital Economy Ministry and SLT-Mobitel, opening the doors of AI and digitalisation to all of Sri Lanka, empowering individuals, businesses, and communities to explore, learn, and actively shape the nation’s digital future.
+
+Under the theme “In Pursuit of AI”, the Expo will demonstrate how artificial intelligence is reshaping sectors such as agriculture, education, banking, finance, IT, healthcare, and manufacturing. Over two action-packed days, attendees can look forward to over 12 sessions, featuring more than 25 speakers and 25 exhibitors, all highlighting innovations that are driving Sri Lanka’s AI movement.
+
+...
+
+[Data](articles/db86d577.json)
+
+---
+
+### Fitch assigns Hayleys Fentons first-time national rating of ‘A+(lka)’; outlook stable
+
+*2025-09-26 05:36:13* · [`dailyftlk`](https://www.ft.lk/business/Fitch-assigns-Hayleys-Fentons-first-time-national-rating-of-A-lka-outlook-stable/34-782195) · `en`
+
+Fitch Ratings has assigned Hayleys Fentons Ltd., (HFL) a National Long-Term Rating of ‘A+(lka)’. The outlook is stable.
+
+The rating reflects HFL’s leading market share in domestic rooftop solar panel sales and installation, which drove cash flow in the financial year ending March 2025 (FY25), alongside slowing growth amid regulatory risks. Diversification into power generation over the next few years carries execution risk but could enhance revenue visibility, subject to the weak credit quality of the sole offtaker, Ceylon Electricity Board (CEB, A(lka)/Stable).
+
+HFL’s A+(lka) rating comprises its standalone credit profile of ‘a(lka)’ and a one-notch uplift for support from its stronger parent, Hayleys PLC (AAA(lka)/Stable), reflecting moderate operating incentives but low legal and strategic incentives.
+
+...
+
+[Data](articles/6480e536.json)
+
+---
+
+### Sri Lanka Pavilion shines at Foodex Saudi 2025
+
+*2025-09-26 05:35:55* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Pavilion-shines-at-Foodex-Saudi-2025/34-782194) · `en`
+
+The Sri Lanka Export Development Board (EDB), in collaboration with the Embassy of Sri Lanka in Saudi Arabia, organised the Sri Lanka Pavilion at Foodex Saudi 2025, held from 21–24 September at the Riyadh International Convention and Exhibition Centre.
+
+This marked Sri Lanka’s second participation in the Kingdom’s premier food and beverage trade fair. Foodex Saudi served as a gateway for international suppliers to access the rapidly growing Saudi market. The event attracted a wide range of global buyers and distributors, providing valuable opportunities for Sri Lankan exporters to showcase their products to a highly targeted audience. Nine Sri Lankan companies from the food and beverage sector participated in the pavilion: Aussee Oats Milling Ltd., Colombo Export and Import Agencies Ltd., Norfolk Foods Ltd., Lanka Guardian Commodities Exports Ltd., Aqua ‘N Green Ltd., Jayalanka Suppliers, Eco Paints Ltd., Ranre International Ltd., and Bughary Bio Spices Ltd.
+
+...
+
+[Data](articles/33a13adc.json)
+
+---
+
+### Dinemore launches DinemoreGo, expands with 14 new prime locations across Sri Lanka
+
+*2025-09-26 05:34:42* · [`dailyftlk`](https://www.ft.lk/business/Dinemore-launches-DinemoreGo-expands-with-14-new-prime-locations-across-Sri-Lanka/34-782193) · `en`
+
+Dinemore Ltd., has announced the launch of its newest venture: DinemoreGo. Built on speed, accessibility, and affordability, DinemoreGo is designed to bring Dinemore’s trusted legacy closer to everyday lifestyles across the island.
+
+As part of its expansion strategy, Dinemore recently acquired International Restaurant Systems Ltd., which previously held an international franchise for a global brand. This acquisition secures 14 prime restaurant locations across Sri Lanka, strengthening Dinemore’s presence in high-visibility hubs and enhancing its ability to serve millions of Sri Lankans with the same trusted quality it has upheld for nearly 30 years.
+
+Dinemore Founder M.S.M. Rishard said: “We are proud to unveil DinemoreGo, which marks an exciting new phase of our journey. These new outlets will deliver our fresh and exquisite dining experience with greater speed and convenience, while carrying forward Dinemore’s heritage of quality and service.”
+
+...
+
+[Data](articles/a83b1f67.json)
+
+---
+
+### President AKD calls for global unity against poverty, corruption, and war at 80th UN General Assembly
+
+*2025-09-26 05:33:56* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-calls-for-global-unity-against-poverty-corruption-and-war-at-80th-UN-General-Assembly/56-782192) · `en`
+
+President Anura Kumara Disanayake addresses 80th session of UN General Assembly
+
+President Anura Kumara Disanayake on Wednesday addressed the 80th session of the UN General Assembly in New York which carries the theme: “Better together: 80 years and more for peace, development and human rights”. He focused on the challenges facing both Sri Lanka and the world, urging the international community to confront pressing issues, from poverty and corruption to the devastating effects of war, advocating for a united effort toward peace, human rights, and sustainable development.
+
+...
+
+[Data](articles/46caf975.json)
+
+---
+
+### SJB to move no-confidence motion against Speaker
+
+*2025-09-26 05:29:24* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-move-no-confidence-motion-against-Speaker/56-782191) · `en`
+
+The Samagi Jana Balawegaya (SJB) has announced plans to table a no-confidence motion against Speaker of Parliament Dr. Jagath Wickramaratne, citing his recent conduct in presiding over Parliamentary proceedings.
+
+Addressing the House, SJB legislator Ajith P. Perera charged that the Speaker had dismissed a previously submitted motion of no confidence without giving reasons. He argued that such actions weaken democratic safeguards and diminish the principle of accountability within Parliament.
+
+However, responding to the Opposition’s criticism, Speaker Dr. Wickramaratne yesterday defended his decision to reject the no-confidence motion brought last month against Deputy Defence Minister Major General (Retd.) Aruna Jayasekera.
+
+...
+
+[Data](articles/d6a6fc13.json)
+
+---
+
+### CoPF considers regulations under Imports and Exports (Control) Act
+
+*2025-09-26 05:28:09* · [`dailyftlk`](https://www.ft.lk/news/CoPF-considers-regulations-under-Imports-and-Exports-Control-Act/56-782190) · `en`
+
+...
+
+[Data](articles/99a25474.json)
+
+---
 
 ### Pakistan qualified to oppose India by beating Bangladesh
 
@@ -169,6 +305,110 @@ The Australian cricket also played the Australian first cricket, and he also pla
 [Data](articles/6e8648b8.json)
 
 [Extended Data](ext_articles/6e8648b8.ext.json)
+
+---
+
+### APIDM launches AI Proficiency for Business Professionals Program
+
+*2025-09-25 21:52:00* · [`islandlk`](http://island.lk/apidm-launches-ai-proficiency-for-business-professionals-program/) · `en`
+
+The Asia Pacific Institute of Digital Marketing (APIDM) officially launched its groundbreaking AI Proficiency for Business Professionals Program at BMICH, Colombo. This initiative marks a milestone in Sri Lanka’s digital transformation journey, empowering leaders, executives, and entrepreneurs to harness AI for business growth, innovation, and responsible leadership.
+
+Unlike technical AI courses, this program is designed to bridge the gap between artificial intelligence and business decision-making, equipping professionals with practical skills to integrate AI into strategy, operations, and day-to-day workflows. It is tailored for non-technical professionals, giving them the confidence and capability to lead AI-driven change within their organizations.
+
+...
+
+[Data](articles/32db701e.json)
+
+---
+
+### HUTCH, the only telecom brand to triumph at SLIM Premier Digital Awards
+
+*2025-09-25 21:52:00* · [`islandlk`](http://island.lk/hutch-the-only-telecom-brand-to-triumph-at-slim-premier-digital-awards/) · `en`
+
+HUTCH Sri Lanka reaffirmed its leadership in digital engagement by winning six awards at SLIM Digis 2.5, making it one of the most awarded brands at this year’s digital excellence forum. This achievement is especially meaningful as HUTCH stood out as the only telecom operator to receive an accolade.
+
+Organized by the Sri Lanka Institute of Marketing (SLIM), SLIM Digis is the country’s most renowned platform for recognising innovation and digital excellence. HUTCH’s recognition reflects its ability to combine creativity with measurable results, staying deeply connected to the everyday needs of its customers while setting high benchmarks in the industry. Evidently, HUTCH is staying ahead in the evolving digital landscape, guided by data-driven decision-making and fueled by novel creativity. The honours reaffirm that those approaches are not just relevant but impactful.
+
+...
+
+[Data](articles/742be6b8.json)
+
+---
+
+### Artslab Creatives’ groundbreaking ‘Forward & Fearless’ AI campaign recognized at SLIM DIGIS 2.5
+
+*2025-09-25 21:51:00* · [`islandlk`](http://island.lk/artslab-creatives-groundbreaking-forward-fearless-ai-campaign-recognized-at-slim-digis-2-5/) · `en`
+
+Artslab Creatives, a leading end-to-end digital marketing services provider, won two prestigious awards at SLIM DIGIS 2.5, Sri Lanka’s premier platform for digital marketing innovation and excellence, for the Fems Sri Lanka “Forward & Fearless” campaign. The campaign was recognized with a Silver Award in the category “Best Use of AI Technologies” and a Bronze Award for “Best CSR / Purpose-Driven Digital Marketing Campaign”, highlighting both its technological innovation and its powerful social impact.
+
+The Fems Sri Lanka “Forward & Fearless” campaign is a revolutionary digital-first initiative that used AI Deepfake technology for positive social impact. It is the first CSR initiative in Sri Lanka to use AI Deepfake technology for user-generated, personalised content and marked Sri Lanka’s first-ever use of Deepfake technology for good, changing the face of menstruation by turning audiences into advocates.
+
+HUTCH, the only telecom brand to triumph at SLIM Premier Digital Awards
+
+...
+
+[Data](articles/87bdbd6b.json)
+
+---
+
+### Standard Chartered appoints Praveen Karunaratne to Country Management Team
+
+*2025-09-25 21:49:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-praveen-karunaratne-to-country-management-team/) · `en`
+
+Standard Chartered Sri Lanka has appointed Praveen Karunaratne, Head of Financial Institutions (FI), to the Country Management Team, effective 15 September 2025.Praveen’s appointment to the Country Management Team ensures strategic oversight and continued development of critical Financial Institutions relationships, reinforcing Standard Chartered’s commitment to institutional banking excellence in Sri Lanka.
+
+Financial Institutions represents a rapidly growing segment and forms a core pillar of the Bank’s global business strategy, targeting 60% of Corporate & Institutional Banking revenue by 2029. The appointment recognises the strategic importance of the Financial Institutions business for Standard Chartered in Sri Lanka.
+
+Standard Chartered’s Financial Institutions business provides essential services including correspondent banking, trade finance, treasury solutions, and capital markets access to local banks, non-bank financial institutions, investors and public sector entities.
+
+...
+
+[Data](articles/05bd569d.json)
+
+---
+
+### SN Travel crowned “Emerging Outbound Tour Operator of the Year”
+
+*2025-09-25 21:49:00* · [`islandlk`](http://island.lk/sn-travel-crowned-emerging-outbound-tour-operator-of-the-year/) · `en`
+
+SN Travel (Pvt) Ltd – the premier outbound tour operator, has been crowned as the “Emerging Outbound Tour Operator of the Year 2025” at the prestigious Lanka Business Awards Ceremony 2025 held on 13th September at the Hilton Colombo Residencies. Lanka Business Awards is a platform created by BWIO Sri Lanka to recognize and reward Sri Lanka’s MSMEs (Micro Small and Medium Enterprises) for their role and contribution to the growth of the Sri Lankan economy.
+
+“We are delighted to be crowned as the emerging outbound tour operator of the year for 2025 at the Lanka Business Awards. This recognition is a testament to the passion, dedication, and love we pour into crafting and curating unforgettable journeys for our clients across 15+ exquisite destinations.
+
+“A huge thank you to our incredible team, loyal travellers, and partners who made this possible,” said Sanjana Jayasinghe, Director of SN Travel (Pvt) Ltd.
+
+CSE bull –run triggered by NTB-HSBC deal and SEC’s market development plans
+
+...
+
+[Data](articles/67f191a6.json)
+
+---
+
+### IASL hosts 16th NAFLIA Conference, driving growth
+
+*2025-09-25 21:48:00* · [`islandlk`](http://island.lk/iasl-hosts-16th-naflia-conference-driving-growth/) · `en`
+
+The Insurance Association of Sri Lanka (IASL), through its Marketing and Sales Forum, hosted the 16th consecutive NAFLIA Conference at the Monarch Imperial. This landmark event continues to play a critical role in developing and recognising the professionalism of life insurance advisors in the country, reaffirming IASL’s ongoing commitment to elevating industry standards and upholding excellence within the life insurance sector.
+
+...
+
+[Data](articles/625e3998.json)
+
+---
+
+### Dialog AI Powers Govi Mithuru – Sri Lanka’s First AI-Powered Agriculture Advisory Platform
+
+*2025-09-25 21:48:00* · [`islandlk`](http://island.lk/dialog-ai-powers-govi-mithuru-sri-lankas-first-ai-powered-agriculture-advisory-platform/) · `en`
+
+Now with an AI Chat and Voice Bot, and an AI Voice Assistant
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has unveiled a new suite of AI-powered features on its pioneering agriculture advisory platform, Govi Mithuru, further strengthening its role as the country’s most trusted digital companion for farmers and home gardeners. Powered by Dialog AI, this milestone pushes forward a vision of enriching lives through technology — empowering farmers, gardeners, and communities with inclusive, future-ready agriculture. Now with a Trilingual AI Chat and Voice Bot and Image-Based Pest Identification on the App, and a Bilingual AI Voice Call Assistant via 616, Govi Mithuru delivers smarter, more accessible farming support for every Sri Lankan.
+
+...
+
+[Data](articles/f0b0ae35.json)
 
 ---
 
@@ -1765,329 +2005,5 @@ On September 27 last year, he was found guilty of evidence, evidence and legal d
 [Data](articles/500d23fb.json)
 
 [Extended Data](ext_articles/500d23fb.ext.json)
-
----
-
-### 1,006 arrested on suspicion of special operations
-
-*2025-09-25 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214992) · `si`
-
-The Sri Lanka Police are arrested on sustaining 1,006 persons from the Sri Lankan police and drug prevention operations in the Sri Lankan police.
-
-Also, criminal suspects is being arrested throughout the country.
-
-Accordingly, special operations have been implemented covering all local police stations at the divisional level.
-
-◼️
-
-[Data](articles/7f95aa03.json)
-
-[Extended Data](ext_articles/7f95aa03.ext.json)
-
----
-
-### கிராண்ட்பாஸில் விபத்து : ஒருவர் உயிரிழப்பு
-
-*2025-09-25 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226034) · `ta`
-
-One person was killed when a lorry crashed into a motorcycle on the road at the Grandpass police division.
-
-The motorcycle driver was seriously injured in the accident and died after being admitted to the Colombo National Hospital.
-
-◼️
-
-[Data](articles/aac86c16.json)
-
-[Extended Data](ext_articles/aac86c16.ext.json)
-
----
-
-### A real-of-year-old minister Namal
-
-*2025-09-25 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214991) · `si`
-
-Minister of Agriculture and Minister Namal Karunaratne says that there is a 50% truth of the information given by the people of the Animal Census Report.
-
-He was addressing the church in Parliament today (26).
-
-The animal session was held island wide on 15th March on March 15.
-
-The survey of the monkey, rod and punishment of the animals that have been conducted at the same time have been held on 50% of the information related to monkeys and relatives.
-
-"Verification of results was confirmed by a 50% truth of information related to monkeys and relatives. Accordingly, the recommendation committee to reduce the recommendations to reduce the crop damage to food crop hazards to treat the 50% value of the survey. "
-
-According to the official report, the Minister said that the ratings of the monkey, monkey, monkey, monkey, and punishment.
-
-The Minister further stated that the survey is not conducting the census of about 6 Grama Niladhari Divisions in Jaffna.
-
-◼️
-
-[Data](articles/7c78832d.json)
-
-[Extended Data](ext_articles/7c78832d.ext.json)
-
----
-
-### Wife of ‘Backhoe Saman’ further remanded
-
-*2025-09-25 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/112905/wife-of-backhoe-saman-further-remanded) · `en`
-
-The wife of underworld figure ‘Backhoe Saman’, Shadhika Lakshani, who is currently in remand custody under the Prevention of Money Laundering Act, has been further remanded until October 9 by the Colombo Magistrate’s Court, Ada Derana reporter said.
-
-This order was issued by Colombo Chief Magistrate Asanka S. Bodaragama after considering submissions made by the Criminal Investigation Department (CID) and the suspect’s attorneys.
-
-The Magistrate also instructed the CID to present a summary of the evidence at the next court date regarding how the suspect is allegedly connected to drug trafficking activities said to have taken place around Middeniya.
-
-The wife and child of underworld figure ‘Backhoe Saman’ were taken into custody by the Criminal Investigation Department upon their arrival at the Bandaranaike International Airport (BIA) on August 29.
-
-◼️
-
-[Data](articles/542420fe.json)
-
-[Extended Data](ext_articles/542420fe.ext.json)
-
----
-
-### Drone activity confirmed at multiple Denmark airports
-
-*2025-09-25 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/112904/drone-activity-confirmed-at-multiple-denmark-airports) · `en`
-
-Denmark’s Aalborg airport in the country’s north has been closed after unauthorised drones were seen in its airspace, according to local authorities.
-
-Three other smaller airports in the country’s southern region - Esbjerg, Sønderborg and Skrydstrup - also reported drone activity, but were not closed.
-
-The incident comes after the country’s Copenhagen airport was forced to close earlier this week due to a drone incursion, which the prime minister described as “the most severe attack on Danish infrastructure so far”.
-
-Police said the devices could be seen from the ground, adding they couldn’t rule out the activity being a prank. They were investigating who was controlling them and their motive.
-
-On Monday, Kastrup airport in Copenhagen was forced to shut for several hours following the sighting of a number of drones.
-
-“It says something about the times we live in and what we as a society must be prepared to deal with,” Prime Minister Mette Frederiksen told reporters earlier this week.
-
-...
-
-[Data](articles/effb335c.json)
-
-[Extended Data](ext_articles/effb335c.ext.json)
-
----
-
-### Backo Saman's wife further remanded
-
-*2025-09-25 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214990) · `si`
-
-The wife of Shan, who was remanded under the allegations of the prevention of money laundering, the Colombo Magistrate's Court preserves further remanded until the 9th of this month.
-
-Colombo Chief Magistrate Asanka S. Bodaragama released the order after considering the issues of the Criminal Investigation and the Commander's lawyers.
-
-The Magistrate also ordered the CID to the Criminal Investigation Department (CID) to the CID.
-
-◼️
-
-[Data](articles/a1ddcce9.json)
-
-[Extended Data](ext_articles/a1ddcce9.ext.json)
-
----
-
-### Tissa blocks in the poverty say no
-
-*2025-09-25 11:39:47* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තිස්ස-කුට්ටි-අපුරට-එපා-කියයි/11-418715) · `si`
-
-Former Parliamentarian Tissa Kuttiarachchi is not a leader of the Anuradhapura district, but is not a people leader to the people of the Anuradhapura district.
-
-Former minister Tissa Kuttiarachchi as the officials of the Sri Lanka General Minister Tissa Kuttiarachchi, the officials of the Sri Lanka District, is on a different journey in the district, the Constitution of Anuradhapura has not seen such a post, former judicial HP. Mr. Somadasa said.
-
-The former Mayor said this at a press conference held in Anuradhapura yesterday (24), former Anuradhapura District Local Government Chairmen.
-
-The leadership of the people from history have been led by Anuradhapura District, while the district needs the district.
-
-He further stated that the people of Tissa Kuttiarachchi in the Anuradhapura district should be a strong opposition of the people and the district leadership in the Anuradhapura district.
-
-...
-
-[Data](articles/59197c39.json)
-
-[Extended Data](ext_articles/59197c39.ext.json)
-
----
-
-### 4 dies in Thalawa accident
-
-*2025-09-25 11:35:30* · [`adalk`](https://www.ada.lk/breaking_news/තලාව-අනතුරින්-4ක්-මිය-යයි/11-418714) · `si`
-
-A van traveling from Thalawa - Kurunegala main road, a van from Kurunegala and Kurunegala to Kurunegala increased to four death accident.
-
-Six persons, including the injured, were admitted to the Talawa hospital for the treatment of the van.
-
-The condition of the three persons who were traveling in the injured van, they were rushed to the Anuradhapura Teaching Hospital and the other two others were in critical condition.
-
-Talawa Police said that the van was a van owned by a private garment factory.
-
-Police have also revealed that four men, including the van driver among the dead, has revealed that the driver of the van is sleeping.
-
-◼️
-
-[Data](articles/31c1ff89.json)
-
-[Extended Data](ext_articles/31c1ff89.ext.json)
-
----
-
-### Court grants permission to detain and question suspects in Tangalle drugs seizure
-
-*2025-09-25 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112903/court-grants-permission-to-detain-and-question-suspects-in-tangalle-drugs-seizure) · `en`
-
-The Tangalle Magistrate’s Court has granted permission to police to detain and question three suspects arrested in connection with the discovery of crystal methamphetamine (commonly known as ‘Ice’) and heroin in three lorries in Seenimodara, Tangalle.
-
-Owners of two lorries in which the narcotics were discovered and a son of drug trafficker ‘Unakuruwa Thusitha,’ who died while receiving treatment in hospital, were produced before the Tangalle Magistrate’s Court last evening (24), police said.
-
-Police then had requested permission from court to detain and question the suspects and the Magistrate ordered them to be detained and questioned until September 29.
-
-Additionally, the court ordered the detention and interrogation of another lorry owner and its driver, who were also arrested in connection with the incident, until September 29, police said.
-
-...
-
-[Data](articles/23908708.json)
-
-[Extended Data](ext_articles/23908708.ext.json)
-
----
-
-### Hoogya Heality Center Pilot tomorrow begins tomorrow
-
-*2025-09-25 11:30:14* · [`adalk`](https://www.ada.lk/breaking_news/“ආරෝග්‍යා-සුවතා-මධ්‍යස්ථාන”-නියමු-ව්‍යාපෘතිය-හෙට-ඇරඹෙයි/11-418713) · `si`
-
-According to the new health care centers of Health and Mass Media, Dr. Nalinda Jayatissa has planned to establish the right to close the health care centers in the health care care of the health care care of the health care centers island with respect to the people living in Sri Lanka.
-
-Under this project, a hundred primary health care centers are scheduled to popularize this year under this project under the innovative program for a new state.
-
-The Prime Minister of Health Care Center, which is closer to the public, has been named as Hospital Care Centers.
-
-Accordingly, five hosmoya health centers are to be vested with the public on 26,27,27 of this month under the pilot project.
-
-The Mapalagama Hospital Hospital will be opened to the public as the first center of Hoolagama Health Center Project on September 26.
-
-The Emperor Oya Hospital Center in the Ratnapura District will be provided to the commencement of nearly 5,000 of the Grama Niladhari Divisions in the Ethroya and Lower Habel.
-
-...
-
-[Data](articles/ad30f36a.json)
-
-[Extended Data](ext_articles/ad30f36a.ext.json)
-
----
-
-### Powerful earthquake in Venezuela
-
-*2025-09-25 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226033) · `ta`
-
-600 km from the capital of Karakas, the capital, at Meni Grand, in Julia, northwest of Venezuela. The powerful earthquake in the west occurred.
-
-It was recorded at 6.2 on the Rister Scale. This landfill is 7.8 km. Was the center of the depth. The earthquake was felt in various provinces of the country and neighboring Colombia.
-
-Thus, many fled from homes and office buildings located along the border. However, no information has been revealed in both countries. However, Venezuela President Nicolas Maduro presided over the scientific event on state television.
-
-During the earthquake and after that there was no disruption on the TV show. Subsequently, the earthquake was felt at 3.9 in Julia and 5.4 in Parinas Province.
-
-◼️
-
-[Data](articles/5708190c.json)
-
-[Extended Data](ext_articles/5708190c.ext.json)
-
----
-
-### An announcement in the weather for heavy rains
-
-*2025-09-25 11:24:31* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-ගැන-කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-418712) · `si`
-
-The Department of Meteorology says that there will be a deternal announcement in the Western and Sabaragamuwa provinces and in the Matara, Matara, Kandy and Nuwara Eliya districts.
-
-MM to some places in these lands. Heavy rains can occur at 10.30 am today
-
-The announcement will be valid tomorrow (26) at 10.30 am.
-
-◼️
-
-[Data](articles/e223bac8.json)
-
-[Extended Data](ext_articles/e223bac8.ext.json)
-
----
-
-### Massive earthquake in Venezuela
-
-*2025-09-25 11:22:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெனிசுலாவில்-பாரிய-நிலநடுக்கம்/50-365261) · `ta`
-
-600 km from the capital, Karakas, in the northwest of Venezuela, the world's largest oil resources, at Meni Grand, the capital of Julia.. The powerful earthquake in the west has occurred.
-
-As a result, many escaped from homes and office buildings located along the border.
-
-However, Venezuelan President Nicolas Maduro presided over the scientific program on state television.
-
-There was no disruption on the TV show during and after earthquake. Subsequently, the earthquake was felt at 3.9 in Julia and 5.4 in Parinas Province
-
-◼️
-
-[Data](articles/b36e3731.json)
-
-[Extended Data](ext_articles/b36e3731.ext.json)
-
----
-
-### Don't lock the toilet: Archana Action
-
-*2025-09-25 11:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழிப்பறையை-பூட்டவேண்டாம்-அர்ச்சுனா-அதிரடி/175-365260) · `ta`
-
-Jaffna MP Ramanathan Archana, who raised the order issue in Parliament today (25), urged him not to lock the public toilet in Parliament.
-
-“The police say that our public toilet in Parliament will be closed at 4:30 am. They say they are closing the equipment in the toilet.   After that they can't go anywhere. So, even at night, tell me to open the public toilet, "Archana said.
-
-◼️
-
-[Data](articles/955e0fe3.json)
-
-[Extended Data](ext_articles/955e0fe3.ext.json)
-
----
-
-### Mysame MP Prasad
-
-*2025-09-25 11:17:59* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මුළුතැන්ගේ-මීයෝ-නෑ---මන්ත්‍රී-ප්‍රසාද්/11-418711) · `si`
-
-Gampaha District Parliamentarian Prasad Siriwardena observed Parliamentarian yesterday (24th September) kitchen. At this time, Speaker Medical Jagath Wickramaratne was raised in the kitchen and there was no evidence of the allegations.
-
-The storage rooms have been prepared using glasses and nets, and the staff is constantly working to protect the cleanness of the kitchen and have no problem with the food kitchen for 35 years.. The MP is therefore, the Speaker is a demonstration of the respectment and dignity of the Parliamentary Staff.
-
-Accordingly, the MP expressed his regret for uncommon accusations made by the Speaker and their families.. He said that the leadership should not be given to this, but it is not to encourage and encourage the staff.
-
-...
-
-[Data](articles/c69b9ddf.json)
-
-[Extended Data](ext_articles/c69b9ddf.ext.json)
-
----
-
-### Over 1,000 individuals arrested during special island-wide police raids
-
-*2025-09-25 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112902/over-1000-individuals-arrested-during-special-island-wide-police-raids) · `en`
-
-A total of 1,006 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (24).
-
-As part of the operation, 28,669 persons were subjected to inspection, the Police Media Division said.
-
-Police have identified 31 individuals directly linked to criminal activities while 601 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 63 drunk drivers were apprehended while a further 20 reckless drivers and 4,364 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/e7c37e1d.json)
-
-[Extended Data](ext_articles/e7c37e1d.ext.json)
 
 ---

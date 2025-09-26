@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 23:06:52**
+As of **2025-09-26 22:54:58**
 
 ## Newspaper Stats
 
@@ -27,85 +27,75 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,704 (100.0%) of 78,726 articles have been extended.
+78,691 (100.0%) of 78,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### 'Weerahera r.m.V. Services bribible
+### ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘
 
 *2025-09-26 22:30:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරහර-R-M-V-සවවලට-අලලස-ගනනව/1-680297) · `si`
 
-The Bribery Commission said that some government officials have received complaints that some government officials have obtained bribes in the Erahera of the Department of Motor Traffic.
+වේරහැර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු කාර්යාලයේ සේවා ලබාදීමේදී ඇතැම් රජයේ නිලධාරීන් අල්ලස් ලබා ගන්නා බවට පැමිණිලි ලැබී ඇති බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවේ කරුණු දක්වමින් අල්ලස් කොමිසම අද(26) පැවසීය.
 
-The bribery commission said that the driver's licensing officer was arrested by the driver's license press and a private security personnel at the court of Rs.
+පරීක්ෂණයට මුහුණ දී රියදුරු බලපත්‍රයක් ලබා ගැනීමට පැමිණි පුද්ගලයකුගෙන් රුපියල් දස දහසක අල්ලසක් ලබා ගත්තේ යැයි අත් අඩංගුවට ගත් එම කාර්යාලයේ රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ නිලධාරියෙකු සහ පුද්ගලික ආරක්ෂක අංශ සේවිකාවක අධිකරණයට ඉදිරිපත් කරමින් අල්ලස් කොමිෂම එසේ පැවසීය.
 
-Kaham Priyankara Sirisena and the Coastal Sirisena and the Coastal Council were produced in court.
+රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ කැලුම් ප්‍රියංකර සිරිසේන සහ ජීවමාලී නමැති සැකකාරිය මෙසේ අධිකරණයට ඉදිරිපත් කෙරිණි.
 
-The Bribery Commission states that the suspects were arrested following a longest investigation by a complaint received by a complaint received by a complaint received.
+අල්ලස් කොමිසම කරුණු දක්වමින් කියා සිටියේ 2024 වර්ෂයේදී ලැබුණු පැමිණිල්ලක් අනුව දීර්ඝ විමර්ශනයක් කිරීමෙන් අනතුරුව මෙම සැකකරුවන් අත්අඩංගුවටයි ගත් බවය.
 
-The second suspect has said that the office was obtained from the office.
-
-She had been working in a private security forces and asked for a bribe of Rs.
-
-The Commission requested that the suspects were remanded to be remanded for the suspects.
+මෙම කාර්යාලයේ අල්ලස් ලබා ගන්නා බවට ලිඛිතව පැමිණිලි ලැබී තිබෙනවා.ඒ අනුව රියදුරු බලපත්‍රයක් ලබා ගැනීමට ගිය පුද්ගලයෙකුට සේවාව ලබා දිය හැකි බවට දෙවන සැකකාර කාන්තාව පවසා තිබෙනවා.
 
 ...
 
 [Data](articles/cb37421c.json)
 
-[Extended Data](ext_articles/cb37421c.ext.json)
-
 ---
 
-### Sri Lanka target 203 runs
+### ශ්‍රී ලංකාවට  ලකුණු 203ක ඉලක්කයක්
 
 *2025-09-26 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215052) · `si`
 
-Sri Lanka and India won the round of Sri Lanka and India won the toss and invited India to bat first.
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ අවසන් තරගය ශ්‍රී ලංකාව සහ ඉන්දියාව අතර අද (26) පැවැත්වෙන අතර එහිදී තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකාව ප්‍රථමයෙන් පන්දුවට පහර දීමට ඉන්දියාවට ආරාධනා කළේය.
 
-Accordingly, India scored 202 runs for the loss of 5 wickets in their five overs.
+ඒ අනුව ඉන්දියාව පන්දුවාර 20 අවසානයේ කඩුළු 5ක් දැවී ලකුණු 202ක් රැස් කිරීමට සමත් විය.
 
-ABHISEK SHARMA scored 61 runs for India and Tilak Varma scored 49 not out.
+එහිදී ඉන්දියාව වෙනුවෙන් Abhishek Sharma ලකුණු 61ක් ‍රැස් කළ අතර Tilak Varma නොදැවී ලකුණු 49ක් රැස් කළේය.
 
-Sanju Samson scored 39 runs, axar patel scored 21 runs, leader SURYAKUARI YADA.
+එමෙන්ම Sanju Samson ලකුණු 39ක්ද, Axar Patel ලකුණු 21ක්ද, නායක Suryakumar Yadav ලකුණු 12ක්ද රැස් කිරීමට සමත්විය.
 
-In bowling, Gigh Insightful, Veninduvaranga, Viein Shanaka, and Charath were present at one wicket.
+පන්දු යැවීමේදී මහීෂ් තීක්ෂණ, දුෂ්මන්ත චමීර, වනිඳු හසරංග, දසුන් ශානක හා චරිත් අසලංක එක් කඩුල්ල බැගින් දවා ගත්තේය.
 
-Sri Lanka is due to chase 203 runs.
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 203ක ඉලක්කයක් හඹා ‍යාමට නියමිතය.
 
-However, this is the highest number of marks collected by a group in the Asian Cup.
+කෙසේ වෙතත් මෙය මෙවර ආසියානු කුසලාන තරගාවලියේ දී කණ්ඩායමක් විසින් ඉනිමක දී රැස් කළ වැඩිම ලකුණු ප්‍රමාණය ද වේ.
 
 ◼️
 
 [Data](articles/fbfa343a.json)
 
-[Extended Data](ext_articles/fbfa343a.ext.json)
-
 ---
 
-### Tea fertilizer subsidy to QR
+### තේ පොහොර සහනාධාරය QR ක්‍රමයට
 
 *2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
 
-The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
+කුඩා හා මධ්‍යම පරිමාණ තේ වතු හිමියන් සඳහා පොහොර සහනාධාරය QR ක්‍රමවේදය ඔස්සේ ලබාදීමට රජය තීරණය කර තිබේ.
 
-By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
+ලංකාවේ වාර්ෂික තේ නිෂ්පාදනය 2030 වර්ෂය වන විට කිලෝ මිලියන 400 ක් දක්වා වර්ධනය කිරීමට මෙම සහනාධාර තේ පොහොර නව ක්‍රමවේදය අනුව දීමට තේ මණ්ඩලය විසින් රුපියල්  මිලියන 2000 ක මුදලක් 2025 වර්ෂය සඳහා වෙන්කර ඇත.
 
-The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
+කුඩා තේ වතු සංවර්ධන අධිකාරිය හා ශ්‍රී ලංකා තේ මණ්ඩලය මෙම වැඩසටහන ක්‍රියාත්මක කරයි.
 
-Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
+මෙම ව්‍යාපෘතිය යටතේ කි.ග්‍රෑම් 50 ක පොහොර මිටියක් සදහා රු. 4000 ක මුදලක් ද, කි.ග්‍රෑම් 25 පොහොර මිටියක් සදහා රු. 2000 මුදලක් ද, සහනාධාර වශයෙන් ලබාදෙනු ලැබේ.
 
-The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
+සහනාධාරලාභීන් වෙත QR කේතයක් ලබාදී රජයේ පොහොර සමාගම ඇතුලු පොහොර ලේකම් කාර්යාලයේ ලියාපදිංචි පොහොර සමාගම් ගණනාවකින් මෙම අනුමත පොහොර ලබා ගත හැකි පරිදි නව වැඩපිළිවෙල ක්‍රියාත්මක කර ඇත.
 
-The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
+මෙම නව ක්‍රමවේදය යටතේ පොහොර මිලදි ගැනිමට අවශ්‍ය කටයුතු  ඔක්තෝබර් 1 දින සිට සියලු ප්‍රදේශ වල ක්‍රියාත්මක කරන බව රජය කියයි.
 
 ◼️
 
 [Data](articles/56b83a5f.json)
-
-[Extended Data](ext_articles/56b83a5f.ext.json)
 
 ---
 
@@ -127,19 +117,17 @@ Police said investigations are currently underway to arrest the suspect. Remble
 
 ---
 
-### Central Environmental Authority Joins Gov Pay
+### මධ්‍යම පරිසර අධිකාරිය GOv pay හා එක් වෙයි
 
 *2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
 
-The Central Environmental Authority (GOV Pay) was commenced today.
+මධ්‍යම පරිසර අධිකාරිය ගව්පේ (Gov pay)රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව සමග එක්ක කටයුතු කිරීම අද දින ආරම්භ කෙරිණි.
 
-The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
+මෙම ගෙවීම් ක්‍රමවේදය නිල වශයෙන් විවෘත කෙරුණු අතර එම ගිවිසුම් අත්සන් කිරීම හා විවෘත කිරීම බත්තරමුල්ල මධ්‍යම පරිසර අධිකාරියේ දී අද දින සිදු කරනු ලැබිණි .
 
 ◼️
 
 [Data](articles/6cff156d.json)
-
-[Extended Data](ext_articles/6cff156d.ext.json)
 
 ---
 
@@ -391,23 +379,19 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### Is the artificial intelligence beat a professional journalist?
+### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කතම-බදධය-වතතය-මධයවදයට-පහරකද/12-680292) · `si`
 
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
 
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
 
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
 
 ...
 
 [Data](articles/3f574452.json)
-
-[Extended Data](ext_articles/3f574452.ext.json)
 
 ---
 
@@ -451,23 +435,19 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### Is the artificial intelligence beat a professional journalist?
+### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/12-680292) · `si`
 
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
+(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
 
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
+අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
 
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
+සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
 
 ...
 
 [Data](articles/f1e9c6ee.json)
-
-[Extended Data](ext_articles/f1e9c6ee.ext.json)
 
 ---
 

@@ -1,301 +1,110 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 13:57:05**
+As of **2025-09-26 12:55:41**
 
 ## Newspaper Stats
 
-*Scraped **78,415** Articles*
+*Scraped **78,257** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 126
 newsfirstlk | 363
 dbsjeyarajcom | 634
-bbccomsinhala | 701
+bbccomsinhala | 677
 colombotelegraphcom | 792
 economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,606
+adalk | 7,605
 adaderanalk | 10,174
-tamilmirrorlk | 11,802
-virakesarilk | 12,738
+tamilmirrorlk | 11,797
+virakesarilk | 12,736
 adaderanasinhalalk | 13,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,261 (99.8%) of 78,415 articles have been extended.
+78,247 (100.0%) of 78,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### ජනපති ජපානෙට
-
-*2025-09-26 13:27:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනට/1-680271) · `si`
-
-එක්සත් ජනපද සංචාරය නිමා කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ඇමරිකාවේ ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජපානය බලා පිටත් විය.
-
-ජපන් රජයේ ආරාධනයකට අනුව, ජනාධිපතිවරයා හෙට( 27) සිට ලබන 30 වැනි දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද එක්ව සිටී.
-
-◼️
-
-[Data](articles/76c0a386.json)
-
----
-
-### வளைவு நெளிவு நடனமே என்னை பிரபலப்படுத்தியது
-
-*2025-09-26 13:21:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/வளைவு-நெளிவு-நடனமே-என்னை-பிரபலப்படுத்தியது/54-365324) · `ta`
-
-தென்னிந்திய சினிமா தாண்டி இந்தி பட உலகிலும் கலக்கி வருகிறார், நடிகை தமன்னா. நடிப்பை தாண்டியும் தமன்னாவின் நடனம் தான் ரசிகர்கள் மத்தியில் அதிகளவில் பேசப்படுகிறது.
-
-குறிப்பாக ‘ஜெயிலர்' படத்தில் ‘காவாலா...' பாடலிலும், இந்தியில் ‘ஸ்திரி-2' படத்தில் ‘ஆஜ் கி ராத்...' பாடலிலும் அவர் போட்ட ஆட்டம் ‘அப்பப்பா...' என்று எண்ணத் தோன்றும். இதற்கிடையில் தனது நடனம் குறித்து தமன்னா நிகழ்ச்சி ஒன்றில் பேசிய கருத்துகள் வைரலாகி இருக்கிறது. அதில், ‘‘நான் எல்லா மொழிகளிலும் படங்கள் நடித்து வருகிறேன். ஆனால், கடினமான நடன அசைவுகளை முயற்சிக்க என்னை தூண்டியது அல்லு அர்ஜுன்தான். அவருடன் ‘பத்ரிநாத்' படத்தில் நடித்த பிறகு, நிறைய படங்களில் நடனமாட வாய்ப்புகள் கிடைத்தன.படங்களில் சிறப்பு பாடல்களாலும், வளைவு நெளிவான அசைவுகளும் தான் என்னை பெரியளவில் பிரபலப்படுத்தியது'', என்று பெருமிதத்துடன் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/bfb2b40e.json)
-
----
-
-### වැඩ කරන රාජ්‍ය සේවයක් අනිවාර්යයෙන් හදනවා
-
-*2025-09-26 13:19:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වඩ-කරන-රජය-සවයක-අනවරයයන-හදනව/1-680270) · `si`
-
-රාජ්‍ය නිලධාරීන් කාර්යක්ෂමව වැඩ කරන ඉතාම හොඳ රාජ්‍ය සේවයක් අනිවාර්යයෙන්ම නිර්මාණය කරන බව කෝප් කමිටු සභාපති ගාල්ල දිස්ත්‍රික් මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතා:-(ජා.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.
-
-"කෝප් කමිටුව ආයතනයක් ගෙන්නනවා බනිනවා යවනවා වගේ අදහසක් සමාජයේ තියෙනවා. අප කෝප් කමිටුව බාරගත් පසුව ඒ කටයුතු පවත්වාගෙන යාමේදී ඉතා වගකීමෙන් කටයුතු කර තිබෙනවා.
-
-ජනතාව ලබාදුන් පරමාධිපත්‍ය බලය අනුව මූල්‍ය විනය පවත්වා ගැනීමට දායක විය හැකි වැදගත්ම ආයතනයක් ලෙස කෝප් කමිටුව  හඳුන්වා දිය හැකියි.කෝප් කමිටුව ගැන සමාජය දකින පෙනුම වෙනස් කර මේ රටේ සිදුවන මූල්‍ය වංචා අවභාවිතා කටයුතු සම්බන්ධයෙන් නිශ්චිත නීති ක්‍රියාමාර්ග කරා එළඹීමට කෝප් කමිටුවට බලය ලබාගත යුතුව තිබෙනවා.අපි විගණනය ගැන දැවැන්ත විශ්වාසයක් තිබෙන ව්‍යාපාරයක්.මේ රටේ මහජනතාවගේ පැවැත්මට ඉතා හානිකර ලෙස තිබෙන වංචාව දූෂණය නාස්තිය මගහරවා ගත යුතුව තිබෙනවා.විද්‍යාත්මක ක්‍රමයකට ආයතන කෝප් කමිටුවට කැඳවා ගැනීමේ ක්‍රමයක් අප යෝජනා කර තිබෙනවා.මේ වන විට ආයතන 14ක් පූර්ණ විමර්ශනය කර තිබෙනවා යනුවෙන්ද මන්ත්‍රීවරයා කීය.
-
-◼️
-
-[Data](articles/af5f62f5.json)
-
----
-
-### வாலிபர் வயிற்றில் இருந்த 29 கரண்டிகள், 19 பிரஷ்கள்: அதிர்ச்சியில் உறைந்த டாக்டர்கள்
-
-*2025-09-26 13:06:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/வாலிபர்-வயிற்றில்-இருந்த-29-கரண்டிகள்-19-பிரஷ்கள்-அதிர்ச்சியில்-உறைந்த-டாக்டர்கள்/53-365322) · `ta`
-
-உத்தரபிரதேசத்தின் காஜியாபாத்தில் நடந்த ஒரு வினோதமான சம்பவம் ஒன்று நடந்துள்ளது. அங்குள்ள ஹபூர் மாவட்டத்தின் புலந்த்ஷாஹர் பகுதியைச் சேர்ந்தவர் சச்சின். போதை பொருளுக்கு அடிமையான இவர் அங்குள்ள மறுவாழ்வு மையத்தில் சிகிச்சைக்கு வந்துள்ளார்.
-
-இந்த நிலையில் திடீரென அவருக்கு கடுமையான வயிற்றி வலி ஏற்பட்டு அலறி துடித்தார். உடனடியாக மருத்துவமனைக்கு கொண்டு செல்லப்பட்ட அவரை டாக்டர்கள் பரிசோதித்தனர். அவரது வயிற்றில் ஸ்கேன் செய்ததில் 2 பேனா, 19 பிரஷ்கள், 29 கரண்டிகள் இருப்பதைக் கண்டு டாக்டர்கள் அதிர்ச்சியில் உறைந்தனர். இதனையடுத்து உடனடியாக அவருக்கு அறுவை சிகிச்சை செய்து உயிரை காப்பாற்றினர்.
-
-...
-
-[Data](articles/abfe4b5f.json)
-
----
-
-### ඖෂධ- ආහාර හොඳ නරක බලන්න පරීක්ෂණාගාරයක්
-
-*2025-09-26 13:04:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඖෂධ-ආහර-හඳ-නරක-බලනන-පරකෂණගරයක/1-680269) · `si`
-
-ඖෂධ, ආයුර්වේද, ආහාර සහ රූපලාවන්‍ය නිෂ්පාදන ආදී සියලු ක්ෂේත්‍රයන්ට අදාලව ප්‍රමිතිය පරීක්ෂා කළ හැකි  අතිනවීන පහසුකම් සහිත පරීක්ෂණාගාරයක් ඉදිකිරීම සඳහා වන සාකච්ඡා සිදු කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-ලෝක ඖෂධවේදීන්ගේ දිනය  නිමිත්තෙන් රජයේ ඖෂධවේදීන්ගේ සංගමය සංවිධානය කළ “ලෝක ඖෂධවේදීන්ගේ දිනය - 2025” සමරු උත්සවයයේ ප්‍රධාන ආරාධිතයා ලෙස එක්වෙමින් අමාත්‍යවරයා මේ බව කීය.
-
-ජගත් ඖෂධවේදී සම්මේලනයත්, ලෝක සෞඛ්‍ය සංවිධානයත්, එක්ව සැප්තැම්බර් මස 25 දිනය ලෝක ඖෂධවේදී දිනය ලෙස නම් කර ඇති අතර, ලොව පුරා රටවල් 158 ක මිලියන 04 කට ආසන්න සාමාජික සංඛ්‍යාවකගෙන් සමන්විත ජගත් ඖෂධවේදීන්ගේ සංගමය ඖෂධවේදීන්, ඖෂධ තාක්ෂණවේදීන්, ඖෂධ විද්‍යාඥයින් සහ ඖෂධවේදී ආචාර්යවරුන්ගෙන් යුක්ත වේ.
-
-ලෝක ඖෂධවේදීන්ගේ දින තේමා පාඨය වන “සෞඛ්‍යය ගැන සිතන්න, ඖෂධවේදියා ගැන සිතන්න”  (Think Health, Think Pharmacist)  යන්න කර ගනිමින් මෙවර ලෝක ඖෂධවේදී දිනය සැමරීමට මෙරට රජයේ ඖෂධවේදීන්ගේ සංගමය පියවර ගෙන තිබුණි.
-
-◼️
-
-[Data](articles/079b4571.json)
-
----
-
-### அரை மணி நேரம் காத்திருப்பு; பூட்டிய அறையில் பேச்சு
-
-*2025-09-26 12:56:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அரை-மணி-நேரம்-காத்திருப்பு-பூட்டிய-அறையில்-பேச்சு/50-365321) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்டு ட்ரம்ப்பை, பாகிஸ்தான் பிரதமர் ஷெபாஸ் ஷெரீஃப் வியாழக்கிழமை (25)  சந்தித்துப் பேசினார். வெள்ளை மாளிகையின் ஓவல் அலுவலகத்தில் நடந்த இந்த சந்திப்பின்போது, பிராந்திய பாதுகாப்பு உள்ளிட்ட விவகாரங்கள் குறித்து பேச்சுவார்த்தை நடத்தியதாக பாகிஸ்தான் பிரதமர் அலுவலகம் தெரிவித்துள்ளது.
-
-நியூயோர்க்கில் நடைபெற்று வரும் ஐக்கிய நாடுகள் பொதுச் சபை கூட்டத்தில் உரையாற்ற அமெரிக்கா சென்றுள்ள பாகிஸ்தான் பிரதமர் ஷெபாஸ் ஷெரீப்,  தலைநகர் வாஷிங்டன் சென்று ஜனாதிபதி டொனால்ட் ட்ரம்ப்பைச் சந்தித்துப் பேசினார். அப்போது, பாகிஸ்தான் ராணுவத் தளபதி அசிம் முனிர் உடன் இருந்தார். பிரதமராக இருந்த இம்ரான் கான், 2019-ல் ஓவல் அலுவலகத்தில் அமெரிக்க ஜனாதிபதியைச் சந்தித்துப் பேசினார். அதன்பிறகு, பாகிஸ்தான் பிரதமர் ஒருவர் ஓவல் அலுவலகத்தில் அமெரிக்க ஜனாதிபதியை சந்திப்பது இதுவே முதல்முறை.
-
-...
-
-[Data](articles/f07fe4a7.json)
-
----
-
-### “Can't answer the question of madness”
-
-*2025-09-26 12:51:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைத்தியங்களின்-கேள்விக்கு-பதிலளிக்க-முடியாது/175-365320) · `ta`
-
-The Chief Minister of the House, Bimal Ratnayake, said that if I do not give me time to respond, I will not be able to answer the question of madness.
-
-Jaffna MP Ramanathan Archana, who was questioned by Parliament today (26). He asked to say one of the development projects made in the district.
-
-Meanwhile, the Speaker summoned Minister Bimal Ratnayake's name to read the report of the ministry.
-
-However, Minister Bimal said that Sujeeva should send you to the waters.
-
-On the other hand, Sujeewa asked, "I will say," Bimal said, "I will say."
-
-However, he asked that I could not answer the question of madness, and to immediately evict people who are confused in the congregation.
-
-◼️
-
-[Data](articles/5363c123.json)
-
-[Extended Data](ext_articles/5363c123.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2025-09-26 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226132) · `ta`
-
-இன்று வெள்ளிக்கிழமை (26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 306.1151 ஆகவும் கொள்வனவு விலை ரூபா 298.8679 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-Today's (26.09.2025) issued by the Central Bank of Sri Lanka
-
-◼️
-
-[Data](articles/3e69f6a3.json)
-
-[Extended Data](ext_articles/3e69f6a3.ext.json)
-
----
-
-### The "Girish" case against Namal; Order issued by the court!
-
-*2025-09-26 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226128) · `ta`
-
-The Colombo High Court on Friday (26) has ordered the registrar to submit a report in the Fort Magistrate's Court on the "Krish" case against MP Namal Rajapaksa before December 18.
-
-Namal Rajapaksa has filed a case in court for allegedly committing Rs 70 million from India's Girish telephone company to promote Rukby in Sri Lanka.
-
-The magistrate, who reviewed the case, ordered the case to be submitted from the Fort Magistrate's Court and the case would be taken up again on December 18.
-
-◼️
-
-[Data](articles/a06296db.json)
-
-[Extended Data](ext_articles/a06296db.ext.json)
-
----
-
-### "Jaffna is not a pawn box"
-
-*2025-09-26 12:44:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-வெற்றிலை-பெட்டியல்ல/175-365319) · `ta`
-
-Jaffna District Parliamentarian Ramanathan Archana said that the government was not a jaundice box in Jaffna.
-
-Just, the show should not be shown in Jaffna. Jaffna is not his pawn box, but a job that has been developed for the time and time of the time and the time of the year, and said that the decisions taken at the District Development meeting were held.
-
-◼️
-
-[Data](articles/7e81d96a.json)
-
-[Extended Data](ext_articles/7e81d96a.ext.json)
-
----
-
-### වැඩිමිලට බෙහෙත් වික්ක රෝහල් අධ්‍යක්ෂකවරුන්ට   ඇප
-
-*2025-09-26 12:37:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වඩමලට-බහත-වකක-රහල-අධයකෂකවරනට-ඇප/1-680268) · `si`
-
-රෝගියකුට වැඩි මිලට ඖෂධ විකිණීම සම්බන්ධයෙන්  වරෙන්තු වී  සිටි නාරාහේන්පිට ප්‍රධාන පෙළේ පෞද්ගලික රෝහලක අධක්‍ෂවරුන් 7 දෙනා  අධිකරණයට ඉදිපත්විමෙන් පසු ලක්ෂ 5  බැගින් වු ශරිර ඇප මත මුදා හැරීමට මාලිගාකන්ද අධිකරණය  අද  (26)  නියෝග කළේය.
-
-◼️
-
-[Data](articles/00dfda24.json)
-
----
-
-### Grandma's gold jewelry grabbing
+### பேத்திக்கு சோறு ஊட்டிய பாட்டியின் தங்க நகை அபகரிப்பு
 
 *2025-09-26 12:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேத்திக்கு-சோறு-ஊட்டிய-பாட்டியின்-தங்க-நகை-அபகரிப்பு/175-365317) · `ta`
 
-A 25 -year -old youth who was riding his grandmother's gold jewelery on a motorcycle was taken away in Sirivijayapura, Moneragala. Has gone.
+ஒரு வீட்டில் தனது பேத்திக்கு சோறு ஊட்டிக்கொண்டிருந்த பாட்டியின் தங்க நகையை மோட்டார் சைக்கிளில் வந்த 25 வயது இளைஞர் ஒருவர் அபகரித்துச் சென்றுள்ள சம்பவம், மொனராகலை, சிரிவிஜயபுராவில் இடம்பெற்றுள்ளது. சென்றுள்ளார்.
 
-One of the two youths who approached the woman who was fed to her baby, showed her a photo on her mobile phone and asked if she was.
+தனது குழந்தைக்கு சோறு ஊட்டிக்கொண்டிருந்த பெண்ணை அணுகிய இரண்டு இளைஞர்களில் ஒருவர், அவரது மொபைல் போனில் இருந்த புகைப்படத்தைக் காட்டி, அவரைத் தெரியுமா என்று கேட்டனர்.
 
-While watching it, the young man immediately snatched the gold jewelery from his neck and escaped on a motorcycle he was driving.
+அதைப் பார்த்துக் கொண்டிருந்தபோது, ​​அந்த இளைஞர் உடனடியாக அவரது கழுத்தில் இருந்த தங்க நகையைப் பறித்துக்கொண்டு, தான் ஓட்டி வந்த மோட்டார் சைக்கிளில் தப்பிச் சென்றார்.
 
-The value of this gold jewelery is about 2 lakhs and sixty thousand rupees.
+இந்த தங்க நகையின் மதிப்பு சுமார் 2 இலட்சத்து அறுபதாயிரம் ரூபாய் என அறியமுடிகின்றது.
 
-Police investigated the incident and identified the young man from Bibila.
+சம்பவம் குறித்து விசாரணைகளை நடத்திய பொலிஸார் , அந்த இளைஞன் பிபில பகுதியைச் சேர்ந்தவர் என அடையாளம் கண்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/526dfcb0.json)
 
-[Extended Data](ext_articles/526dfcb0.ext.json)
-
 ---
 
-### Information that three national hospitals are operating without directors
+### பணிப்பாளர்கள் இன்றி மூன்று தேசிய வைத்தியசாலைகள் இயங்குவதாக தகவல்
 
 *2025-09-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226126) · `ta`
 
-According to health department sources, three hospitals in the country are operating for more than 8 months without permanent directors.
+நாட்டில் மூன்று வைத்தியசாலைகள் 08 மாதங்களுக்கும் அதிகமாக நிரந்தர பணிப்பாளர்கள் இன்றி இயங்கி வருவதாக சுகாதாரத் துறை வட்டாரங்கள் தெரிவிக்கின்றன.
 
-Accordingly, the National Hospitals in Colombo, Kandy and Galle districts are operating without directors.
+அதன்படி,  கொழும்பில், கண்டி மற்றும் காலி ஆகிய மாவட்டங்களிலுள்ள தேசிய வைத்தியசாலைகள் பணிப்பாளர்கள் இன்றி இயங்கி வருகின்றன.
 
-Currently, Dr. Pradeep Vijayasinghe is managing the National Hospital in Colombo and is also the Director of the Lady Ridgeway Children's Hospital.. Dr. Vijayasinghe is dealing with the administration of two hospitals simultaneously.
+தற்போது, கொழும்பில் உள்ள தேசிய வைத்தியசாலையை வைத்தியர் பிரதீப் விஜயசிங்க நிர்வகித்து வருகிறார், அவர் லேடி ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் பணிப்பாளராகவும் பணியாற்றுகிறார். வைத்தியர் விஜயசிங்க இரண்டு வைத்தியசாலைகளின் நிர்வாகத்தையும் ஒரே நேரத்தில் கையாண்டு வருகிறார்.
 
-Deputy Minister of Health, Hansaka Vijayamuni, told an English media that the interviews for the posts of Deputy Director have already been conducted.
+பிரதி பணிப்பாளர் ஆளுநர்  பதவிகளுக்கான நேர்காணல்கள் ஏற்கனவே நடத்தப்பட்டுவிட்டதாக சுகாதார பிரதி  அமைச்சர் வைத்தியர் ஹன்சக விஜயமுனி ஆங்கில ஊடகமொன்றுக்கு தெரிவித்துள்ளார்.
 
-However, due to a new procedure admitted by the Public Service Commission, there has been a delay in announcing the resolutions, he added.
+எனினும், பொது சேவை ஆணையத்தால் ஏற்றுக்கொள்ளப்பட்ட புதிய நடைமுறை ஒன்று காரணமாக தீர்மானங்களை அறிவிப்பதில் தாமதம் ஏற்பட்டுள்ளதாக அவர் மேலும் தெரிவித்துள்ளார்.
 
-Health officials have urged the vacancies for these major administrative positions to ensure that the largest hospitals in the country are smooth.
-
-◼️
+...
 
 [Data](articles/bf5d622c.json)
 
-[Extended Data](ext_articles/bf5d622c.ext.json)
-
 ---
 
-### JS Arulraj appointed as the new Government Agent of Batticaloa District
+### மட்டக்களப்பு மாவட்டத்தின் புதிய அரசாங்க அதிபராக ஜே.எஸ் அருள்ராஜ் நியமனம்
 
 *2025-09-26 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226131) · `ta`
 
-JS as the new District Secretary and Government Agent for the Batticaloa District. Arulraj was appointed with the Cabinet permits and started his official duties at the new District Secretariat Office today (26).
+மட்டக்களப்பு மாவட்டத்திற்கான புதிய மாவட்ட செயலாளராகவும் அரசாங்க அதிபராகவும் ஜே.எஸ். அருள்ராஜ்   அமைச்சரவை அனுமதிகளுடன் நியமிக்கப்பட்டு, இன்று வெள்ளிக்கிழமை (26) தனது உத்தியோகபூர்வ கடமைகளை புதிய மாவட்ட செயலக அலுவலகத்தில் ஆரம்பித்தார் .
 
-Mrs. J.. J.. After Muralitharan retired from the public service from yesterday, J.. S.. The Public Administration, Provincial Councils and Local Government Minister to appoint Arulraj as the Government Agent of the Batticaloa District have been granted permission on 15.09.2025.
+மட்டக்களப்பு மாவட்ட அரசாங்க அதிபராக கடமையாற்றிய திருமதி ஜே. ஜே. முரளிதரன்  நேற்றைய தினம் முதல் பொதுச் சேவையிலிருந்து ஓய்வு பெற்றதை அடுத்து, கிழக்கு மாகாண ஆளுநரின் செயலாளராக தற்போது கடமையாற்றிய இலங்கை நிர்வாக சேவையின் விசேட தர அதிகாரியான  ஜே. எஸ். அருள்ராஜ்  மட்டக்களப்பு மாவட்ட அரசாங்க அதிபராக நியமிக்க பொது நிருவாகம், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் சமர்ப்பித்த முன்மொழிவுக்கு அமைச்சரவை 15.09.2025 அன்று அனுமதி வழங்கப்பட்டடுள்ளது.
 
-JS Arulraj became the principal of the government at an early age with this appointment.
+இந் நியமனத்தினால் குறைந்த வயதில் அரசாங்க அதிபரானவர் என்ற பெருமையை  ஜே.எஸ் அருள்ராஜ் பெற்றுக்கொண்டார்.
 
-He was an artist at the University of Jaffna and was selected for the Sri Lanka Administrative Service in 2003.
-
-Kinniya was the Assistant Divisional Secretary of Seruvila Divisional Secretariats and has also served in the Northeastern Provincial Council and the Eastern Provincial Council.
+யாழ்ப்பாண பல்கலைக்கழகத்தின் கலைப்பட்டதாரியான இவர், 2003 ம் ஆண்டு இலங்கை நிருவாக சேவைக்கு தெரிவு செய்யப்பட்டிருந்தார்.
 
 ...
 
 [Data](articles/84bd86b8.json)
 
-[Extended Data](ext_articles/84bd86b8.ext.json)
-
 ---
 
-### President launches official visit to Japan
+### ජනපති අමෙරිකානු සංචාරය නිම කරමින් ජපාන නිල සංචාරය අරඹයි
 
 *2025-09-26 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215030) · `si`
 
-President Anura Kumara Dissanayake, who successfully completed the 8th Session of the United Nations General Assembly, left for Japan.
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසි වාරයට සහභාගි වීම සඳහා සිදුකළ අමෙරිකා එක්සත් ජනපදයේ සංචාරය සාර්ථකව නිම කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානය බලා පිටව ගොස් තිබේ.
 
-John F.. The President left for Japan from Kennedy International Airporto.
+ඊයේ (25) රාත්‍රියේ  ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජපානය බලා පිටත්ව ගොස් ඇත.
 
-According to the Japanese government's invitation, the President is on official visit to Japan to 30th September.
+ජපන් රජයේ ආරාධනයකට අනුව, ජනාධිපතිවරයා සැප්තැම්බර් 27 වන දින සිට 30 වන දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
 
-Foreign Affairs and Tourism and Tourism Vijitha Herath is also present at the visit to President Anura Kumara Dissanayake.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද එක්ව සිටී.
 
 ◼️
 
 [Data](articles/684050ea.json)
-
-[Extended Data](ext_articles/684050ea.ext.json)
 
 ---
 
@@ -379,22 +188,6 @@ Sri Lanka lost the chance to lose the end of the Tip Pott.. The team lost 4 wick
 
 ---
 
-### ජනපති මැඳුරු 8ක නඩත්තුවට කෝටි 8කට වැඩි වියදමක් කරලා
-
-*2025-09-26 12:00:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-මඳර-8ක-නඩතතවට-කට-8කට-වඩ-වයදමක-කරල/1-680267) · `si`
-
-ජනාධිපති මන්දිර අටක් නඩත්තු කිරිම සදහා ඉකුත් වසරේ (2024)  රුපියල් 80,154,422ක්   ජනාධිපති ලේකම් කාර්යාලය මගින් වැයකොට ඇති බව අනාවරණය වි ඇත.
-
-මෙම ජනාධිපති මන්දිරවල  ආරක්ෂක අංශ නිලධාරින් 392ක්, සිවිල්  සේවකයින් 16 දෙනෙකු  සේවයේ යෙදි තිබුණි. සිවිල් සේවකයින් 16 දෙනෙකු සදහා වැටුප් හා දිමනා  ගෙවිම සදහා ඉකුත් වර්ෂයේ  (2024)  දි රුපියල්  13,741,080 වැයකොට තිබුණි.
-
-ජනාධිපති ලේකම් කාර්යාල සම්බන්දයෙන් 2024 වර්ෂයට අදාළව නිකුත්කොට ඇති වාර්ෂික කාර්යසාධන වාර්තාවට  ඇතුළත්කොට ඇති  විගණන වාර්තාව මගින් මෙම තොරතුරු අනාවරණය වි තිබුණි.
-
-◼️
-
-[Data](articles/ccdf98a5.json)
-
----
-
 ### Over 700 suspects arrested in special island-wide police operations
 
 *2025-09-26 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112936/over-700-suspects-arrested-in-special-island-wide-police-operations) · `en`
@@ -410,8 +203,6 @@ Special operations have been implemented at all regional police stations at the 
 ◼️
 
 [Data](articles/0e6bca1b.json)
-
-[Extended Data](ext_articles/0e6bca1b.ext.json)
 
 ---
 
@@ -433,21 +224,19 @@ It is a series of funds that have been funded by the President of the Chairperso
 
 ---
 
-### Small corrections in Parliament Kitchen should be made: Prasad Siriwardena MP
+### பாராளுமன்ற சமையலறையில் சிறிய அளவில் திருத்தங்கள் மேற்கொள்ளப்படவேண்டும் : பிரசாத் சிறிவர்தன எம்.பி.
 
 *2025-09-26 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226117) · `ta`
 
-Opposition parliamentarian Prasad Siriwardena has said that small amendments should be made in the Kitchen of Parliament.
+பாராளுமன்ற சமையலறையில் சிறிய அளவில் திருத்தங்கள் மேற்கொள்ளப்பட வேண்டும் என எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் பிரசாத் சிறிவர்தன தெரிவித்துள்ளார்.
 
-In this case, "there are six stoves inactive there and the freezer room should be renewed. "EXHAUST FAN) should be replaced by the kitchen smoke, smell and smell of smells and the equipment used to ensure ventilation in the kitchen," he said.
+இந்நிலையில், "அங்கு ஆறு அடுப்புகள் செயலிழந்துள்ளதாகவும், உறைவிப்பான் அறை புதுப்பிக்கப்பட வேண்டும். சமையலறையில் உண்டாகும் புகை, வாசனை மற்றும் தாளிப்பு வாசனைகளை வெளியேற்றி, சமையலறையில் காற்றோட்டத்தை உறுதிசெய்யப் பயன்படும் உபகரணமான க்ஸாஸ்ட் ஃபேன்களையும் (exhaust fan) மாற்ற வேண்டும்" என அவர் தெரிவித்துள்ளார்.
 
-In addition, the MP's misconception is that all windows are covered with metal zones and glasses and the kitchen has been affected by the kitchen by mice and cockroaches.. Said.
+அத்தோடு, அனைத்து ஜன்னல்களும் உலோக வலயங்கள் மற்றும் கண்ணாடிகளால் மூடப்பட்டிருப்பதால், எலிகள் மற்றும் கரப்பான் பூச்சிகளால் சமையலறை பாதிக்கப்பட்டுள்ளதாக சபாநாயகர் தெரிவிப்பது தவறான கருத்து என எம்.பி. தெரிவித்துள்ளார்.
 
 ◼️
 
 [Data](articles/c7cd5760.json)
-
-[Extended Data](ext_articles/c7cd5760.ext.json)
 
 ---
 
@@ -469,59 +258,19 @@ Accordingly, special operations have been implemented covering all local police 
 
 ---
 
-### ’’2019 රට තිබූ තැනට ලබන අවුරුද්දේ යන්න පුළුවන්’’
-
-*2025-09-26 11:41:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/2019-රට-තබ-තනට-ලබන-අවරදද-යනන-පළවන/1-680266) · `si`
-
-ශ්‍රී ලංකාව  2019 තිබූ ආර්ථිකයට ලබන වසරේදී ළඟා වීමට හැකි යැයි විශ්වාස කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ඇමරිකාවේ ශ්‍රී ලාංකික හමුවකදී පැවසීය.
-
-සාමාන්‍යයෙන්  ආර්ථික කඩා වැටීමකදී රටකට අහිමි දශකයක් නිර්මාණය වන බව ආර්ථික විශේෂඥයින් සඳහන් කරන නමුත් තව කෙටි කලකින් රට පෙර පැවති තත්ත්වයට ගැනීමට හැකි බවට දත්ත සහ සංඛ්‍යා මත  පුරෝකථනය කළ හැකි බව සඳහන් කළේය.
-
-තමා බැඳී සිටින්නේ රටේ ජනතාවගේ අපේක්ෂා සහ බලාපොරොත්තු සමඟ පමණක් බව ද ජනාධිපතිවරයා පැවසීය.
-
-මීට වසරකට පෙර රජය බලයට පත් කර ගනිමින් ජනතාව තැබූ අපේක්ෂා ඉටු කිරීමේදී කිසිවෙකුගේ බලපෑම්වලට යටත් වීමට සූදානම් නැති බවද  දිසානායක මහතා අවධාරණය කළේය.
-
-ඇමරිකා එක්සත් ජනපදයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව සමඟ ජනාධිපතිවරයාගේ මෙම හමුව නිව්යෝර්ක් නුවර ස්ටැටන් අයිලන්ඩ් කලා විද්‍යාල මධ්‍යස්ථානයේ දී පෙරේදා  (25) පස්වරුවේ පැවත්විණි.
-
-නිව්යෝර්ක් නුවර  එක්සත් ජාතීන්ගේ සංවිධානයේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත කාර්යාලය සංවිධානය කර තිබූ මෙම හමුවට එරට වෙසෙන ශ්‍රී ලාංකික වෘත්තීයවේදීහු ඇතුළු විශාල පිරිසක් එක්ව සිටියහ.
-
-...
-
-[Data](articles/c6df3552.json)
-
----
-
-### Inquiry into Kehelbatara Padmeh; Over 500 bullets, capture of guns!
+### ‘கெஹெல்பத்தர பத்மே’விடம் விசாரணை ; 500க்கும் மேற்பட்ட தோட்டாக்கள், துப்பாக்கிகள் கைப்பற்றல்!
 
 *2025-09-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226120) · `ta`
 
-Battery and guns have been seized by the Western Province Northern Criminal Investigation, based on investigations conducted by the Underworld Group Chairman of the Underworld Group, 'Kehelbattara Padme'.
+கைது செய்யப்பட்டு  பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பாதாள உலகக் குழுத் தலைவர் ‘கெஹெல்பத்தர பத்மே’ என்பவரிடம் நடத்தப்பட்ட விசாரணைகளின் அடிப்படையில் கிடைக்கப் பெற்ற தகவலின் பேரில் மேல் மாகாண வடக்கு குற்றப்பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் தோட்டாக்கள் மற்றும் துப்பாக்கிகள் கைப்பற்றப்பட்டுள்ளன.
 
-About 500 bullets and R-56 rifles, four R-56 magazines and a micro pistol have been seized.
+சுமார் 500க்கும் மேற்பட்ட தோட்டாக்கள் மற்றும் ரி-56 துப்பாக்கிகள், நான்கு ரி-56 மேகசின்கள் மற்றும் ஒரு மைக்ரோ பிஸ்டல் உள்ளிட்ட பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
 
-Police said the weapons were seized as they were hidden near the Peliyagoda fish market.
+பேலியகொடை மீன் சந்தைக்கு அருகில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் இந்த ஆயுதங்கள் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
 
 ◼️
 
 [Data](articles/c9edcf49.json)
-
-[Extended Data](ext_articles/c9edcf49.ext.json)
-
----
-
-### ආණ්ඩුව හිරවුණු දූෂණ විරෝධය
-
-*2025-09-26 11:40:31* · [`lankadeepalk`](https://www.lankadeepa.lk/friday/ආණඩව-හරවණ-දෂණ-වරධය/122-680265) · `si`
-
-මාක්ස්වාදී විප්ලවවාදී දේශපාලනය මත පදනම් වූ පක්ෂයක් වන ජනතා විමුක්ති පෙරමුණ, මෑත දශක කිහිපය තුළ දේශපාලන සදාචාරයේ සහ දූෂණ විරෝධයේ හඬක් ලෙස ස්ථානගත විය. එය අහඹුවක් නොව, ජවිපෙ හිතාමතාම තමන් ස්ථානගත කිරීමකි.
-
-මන්ද ඒ තුළ ඔවුන්ට අසීමිත දේශපාලන අවකාශයක් නිර්මාණය වන අතර, ඔවුන් මහජන ඇසෙහි “දූෂිතයන්” ලෙස ප්‍රදර්ශනය නොවීම අමතර වාසියක් විය. එම වාසිය ප්‍රයෝජනයට ගත් ජවිපෙ ප්‍රමුඛ මාලිමා දේශපාලනය ලංකාවේ සෙසු දේශපාලන පක්ෂවලට සහ පුද්ගලයන්ට යන එන මං නැති වන ලෙස පහර පිට පහර දුන්නේ ය.
-
-පසුගිය කාලයේ ඇති වූ ආර්ථික අර්බුදය සහ ඒ ආශ්‍රිත විවිධ ජනතා දුක්ගැනවිලි සියල්ල දූෂණයට ලඝුකොට පෙන්වා විශාල මහජන අවධානයක් සහ ආකර්ෂණයක් දිනා ගැනීමට ද ජවිපෙට හැකියාව ලැබුණි. එහෙත් මේ වන විට, ජවිපෙ එසේ දශක ගණනාවක් තිස්සේ කුලු‍ගැන්වූ එම දූෂණ විරෝධී හඬ අද ඔවුන් වෙතම එල්ල වෙමින් තිබීම දරුණු ගණයේ දෛව සරදමක් ලෙස දැක්විය හැකි ය.
-
-...
-
-[Data](articles/b80f0cb0.json)
 
 ---
 
@@ -571,8 +320,6 @@ The Ministry of Provincial Councils and Local Government has been allocated Rs. 
 
 [Data](articles/6408499b.json)
 
-[Extended Data](ext_articles/6408499b.ext.json)
-
 ---
 
 ### Pujotha found a hidden pistol
@@ -611,8 +358,6 @@ The Minister further stated that a new driving license will be introduced and th
 
 [Data](articles/a9b997ed.json)
 
-[Extended Data](ext_articles/a9b997ed.ext.json)
-
 ---
 
 ### Will not be reversed - President
@@ -649,25 +394,23 @@ The body has been placed at the Negombo hospital morgue and the suspect has been
 
 ---
 
-### Fines for a private company that sells samba rice at high prices
+### சம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த  தனியார் நிறுவனத்திற்கு அபராதம்!
 
 *2025-09-26 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226115) · `ta`
 
-A private company that sold imported samba rice at high prices has been fined.
+இறக்குமதி செய்யப்பட்ட சம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த தனியார் நிறுவனமொன்றுக்கு அபராதம் விதிக்கப்பட்டுள்ளது.
 
-The Galle Magistrate's Court has issued the order to a private company in the Galle -Kahaduwatta area.
+காலி - கஹதுவத்த பகுதியில் உள்ள தனியார் நிறுவனமொன்றிற்கே காலி நீதவான் நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
 
-The Consumer Affairs Authority said the fines were imposed after the owner of the company pleaded with his crime.
+நிறுவனத்தின் உரிமையாளர் தனது குற்றத்தை ஒப்புக்கொண்டதை அடுத்து இந்த அபராதம் விதிக்கப்பட்டதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
 
-The concerned company has sold imported samba rice for 1 kilogram of 273 rupees.
+சம்பந்தப்பட்ட நிறுவனம் இறக்குமதி செய்யப்பட்ட சம்பா அரிசியை 1 கிலோகிராம் 273 ரூபாய்க்கு விற்பனை செய்துள்ளது.
 
-However, the Consumer Affairs Authority (CAA) said that the regulated price was 230 rupees per kilogram.
+ஆனால், ஒழுங்குபடுத்தப்பட்ட விலை 1 கிலோகிராமிற்கு 230 ரூபாய் என நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/601501a2.json)
-
-[Extended Data](ext_articles/601501a2.ext.json)
 
 ---
 
@@ -783,26 +526,6 @@ He said the vehicle crashed into a wild elephant and left the road. It was known
 
 ---
 
-### ඖෂධ සැපයුම්කරුවන්ගෙන්  සංස්ථාවට මිලියන ගණනක පාඩුවක්
-
-*2025-09-26 10:39:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඖෂධ-සපයමකරවනගන-සසථවට-මලයන-ගණනක-පඩවක/1-680245) · `si`
-
-වෛද්‍ය සැපයුම් අංශයට  තත්ත්වයෙන් අසමත් හා හානි වු ඖෂධ සපයා තිබිම වෙනුවෙන්  දරණු ලැබු පිරිවැය මෙන්ම ඒ සදහා පරිපාලන ගාස්තු, තොග විනාශ කිරිමේ වියදම් සමඟ  රුපියල් මිලියන 2,996.65ක මුදලක්  ඖෂධ සැපයුම්කරුවන්ගෙන්  රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවට අයවිමට ඇති බැව්  ජාතික විගණන කාර්යාලය පවසයි.
-
-මෙම වර්ෂයේ මාර්තු මස 31 දින වනවිටත්  මෙකි මුදල ඖෂධ සැපයුම්කරුවන්ගෙන් අයකරගැනිමට නොහැකිවි තිබුණි.
-
-අසාදු ලේඛනගත  ඖෂධ සැපයුම්කරුවන්ගෙන්  අයකරගැනිමට  ඇති මුදල රුපියල් මිලියන 1,651.98කි. 2025 වර්ෂයේ මාර්තු මස 31 දින වනවිටත්  අවසාන සිහිකැදවිමේ ලිපියොමුකොට ඇති  සැපයුම්කරුවන්ගේ අයකරගත යුතු  මුදල රුපියල් මිලියන 279.45කි.
-
-එම මුදල් අයකරගැනිම  අවිනිශ්චිත තත්ත්වයක පවතින බවද විගණනය මගින් අනාවරණය කොට ඇත.
-
-අයකරනොගෙන ඇති මුදල්  ඖෂධ සැපයුම්කරුවන්ගෙන් අයකරගැනිම සදහා  කඩිනම් හා කාර්යක්ෂම  ක්‍රියාමාර්ග අනුගමනය කළයුතු බැව්  විගණනය මගින් නිර්දේශකොට ඇත.
-
-◼️
-
-[Data](articles/d0903506.json)
-
----
-
 ### The tree that fell on the bus in Olcotta Mawatha
 
 *2025-09-26 10:36:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒல்கொட்-மாவத்தையில்-பேருந்து-மீது-முறிந்து-விழுந்த-மரம்/175-365309) · `ta`
@@ -870,22 +593,6 @@ Ratnapuri: Elapatha, Kalana, Belmatulla Divisional Secretariat Division and adjo
 [Data](articles/f0aa3541.json)
 
 [Extended Data](ext_articles/f0aa3541.ext.json)
-
----
-
-### ඖෂධ සැපයුම්කරුවන්ගෙන් රජයට රු.බි. 2.9ක පොල්ලක්
-
-*2025-09-26 10:07:08* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-සැපයුම්කරුවන්ගෙන්-රජයට-රු-බි--2-9ක-පොල්ලක්/11-418734) · `si`
-
-වෛද්‍ය සැපයුම් අංශයට  තත්ත්වයෙන් අසමත් හා හානි වු ඖෂධ සපයා තිබිම වෙනුවෙන්  දරනු ලැබු පිරිවැය මෙන්ම ඒ සදහා පරිපාලන ගාස්තු, තොග විනාශ කිරිමේ වියදම් සමග  රුපියල් මිලියන 2,996.65ක මුදලක්  ඖෂධ සැපයුම්කරුවන්ගෙන්  රාජ්‍ය ඖෂධ නීතිගත සංස්ථාවට අයවිමට ඇති බැව්  ජාතික විගණන කාර්යාලය පවසයි.
-
-මෙම වර්ෂයේ මාර්තු මස 31 දින වනවිටත්  මෙකි මුදල ඖෂධ සැපයුම්කරුවන්ගෙන් අයකරගැනිමට නොහැකිවි තිබුණි. අසාදු ලේඛනගත  ඖෂධ සැපයුම්කරුවන්ගෙන්  අයකරගැනිමට  ඇති මුදල රුපියල් මිලියන 1,651.98කි. 2025 වර්ෂයේ මාර්තු මස 31 දින වනවිටත්  අවසාන සිහිකැදවිමේ ලිපියොමුකොට ඇති  සැපයුම්කරුවන්ගේ අයකරගත යුතු  මුදල රුපියල් මිලියන 279.45කි. එම මුදල් අයකරගැනිම  අවිනිශ්චිත තත්ත්වයක පවතින බවද විගණනය මගින් අනාවරණය කොට ඇත.
-
-අයකරනොගෙන ඇති මුදල්  ඖෂධ සැපයුම්කරුවන්ගෙන් අයකරගැනිම සදහා  කඩිනම් හා කාර්යක්ෂම  ක්‍රියාමාර්ග අනුගමනය කළයුතු බැව්  විගණනය මගින් නිර්දේශකොට ඇත.
-
-◼️
-
-[Data](articles/4ae7bcd0.json)
 
 ---
 
@@ -1335,40 +1042,6 @@ Some places in the prelates to. He also causes heavy showers over 150.
 
 ---
 
-### පළාත් කිපයකට තද වැසි
-
-*2025-09-26 08:02:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළත-කපයකට-තද-වස/1-680244) · `si`
-
-දිවයිනේ නිරති දිග ප්‍රදේශවලට දැනට පවතින වැසි තත්වය ඉදිරි 24 පැය තුළත් බලාපොරොත්තුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
-
-බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පලාත්වත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි ඇති වේ.
-
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලි මිටර් 100 වැඩි තරමක තද වැසි ඇති වේ.
-
-උතුරු - මැද පළාතෙත් මාතලේ, මන්නාරම සහ යාපනය දිස්ත්‍රික්කවලත් සිහින් වැසි තත්වයක් ඇති විය හැකියි.
-
-◼️
-
-[Data](articles/0d3e0ebf.json)
-
----
-
-### ජනපති-එ’ජා මහලේකම් හමුවක්
-
-*2025-09-26 07:55:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-එජ-මහලකම-හමවක/1-680243) · `si`
-
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා නිව්යෝර්ක් නුවරට ගිය ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ එක්සත් ජාතීන්ගේ මහලේකම් අන්තෝනියෝ ගුටේරෙස් (António Guterres) මහතා අතර හමුවක් නිව්යෝර්ක් නුවර එම මූලස්ථානයේදී 25 වෙනිදා පස්වරුවේ පැවැත්විණි.
-
-ඒ අනුව, එක්සත් ජාතීන්ගේ මූලස්ථානය වෙත පැමිණි ජනාධිපතිවරයා මහලේකම්වරයා විසින් ගෞරවයෙන් යුතුව පිළිගනු ලැබිණි. අනතුරුව ඔවුහු සුහද කතාබහකටද එක් වූහ.
-
-ශ්‍රී ලංකාවේ නව ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලියේ ප්‍රගතිය මෙන්ම සමාජයීය සහ දේශපාලනමය වශයෙන් ශ්‍රී ලංකාව නව තලයකට ඔසවා තැබීම වෙනුවෙන් මේ වන විට රජය ක්‍රියාත්මක කරමින් ඇති වැඩපිළිවෙළ පිළිබඳවද ජනාධිපතිවරයා මෙහිදී එක්සත් ජාතීන්ගේ මහලේකම්වරයා දැනුවත් කළේය.
-
-...
-
-[Data](articles/58158dfc.json)
-
----
-
 ### The 2019 economy reaches in 2026 - President
 
 *2025-09-26 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215020) · `si`
@@ -1414,22 +1087,6 @@ However, the Elephartian vehicle was unable to control the bath, the examination
 [Data](articles/c7689bfd.json)
 
 [Extended Data](ext_articles/c7689bfd.ext.json)
-
----
-
-### කුකුළු ලොරියක අලියකු හපිලා
-
-*2025-09-26 07:48:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කකළ-ලරයක-අලයක-හපල/1-680242) · `si`
-
-කුකුළන් ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් දඹුල්ල රිදිඇල්ල ප්‍රදේශයේදී වන අලියකුගේ ගැටීමෙන් ලොරි රථය පෙරළීම නිසා කුකුලන් විශාල ප්‍රමාණයක පාරේ තැන්තැන්වල මියගොස් ඇතැයි වනජිවිය කියයි.
-
-දඹුල්ල දෙස සිට බකමූණ දෙසට ලොරිය ධාවනය වෙද්දී   වන අලියකු මාර්ගය හරහා මාරුවෙද්දී  මෙම අනතුර සිදුවූ බව ලොරි රථයේ ගමන් කරමින් සිටි සේවකයෙක් සඳහන් කළේය
-
-වන අලියාගේ ගැටීමත් සමඟම රථය පෙරළී මාර්ගයෙන් ඉවතට ඇදී ගිය බවත් ඔහු සඳහන් කළේය. අනතුරත් සමග කුකුලන්  විශාල ප්‍රමායක් මියගොස් සිටින අයුරු දැක ගැනීමට හැකි විය . තවත් පණපිටින් සිටි කුකුළන් පාර පුරා වැටී තිබෙන අයුරුද දැකගැනීමට හැකි විය
-
-◼️
-
-[Data](articles/985cd7e5.json)
 
 ---
 
@@ -1761,30 +1418,6 @@ However, responding to the Opposition’s criticism, Speaker Dr. Wickramaratne y
 
 ---
 
-### කාලගුණය හදිසියේ වෙනස් වුණේ ඇයි? වැසි තත්ත්වය නිම වෙන්නේ කවදා ද?
-
-*2025-09-26 05:12:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cr70jz41k0do) · `si`
-
-කාලගුණය හදිසියේ වෙනස් වුණේ ඇයි? වැසි තත්ත්වය නිම වෙන්නේ කවදා ද?
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 24 සඳහා තද වැසි පිළිබඳ අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කරනු ලැබ තිබේ.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ නිරිත දිග කොටසේ දැනට පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව ය.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 150ට වැඩි ඉතා තද වැසි ඇති විය හැකි බවට කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අනතුරු අඟවයි.
-
-සැප්තැම්බර් 25 පෙ.ව. 8:30 සිට සැප්තැම්බර් 26 දින පෙ.ව. 2:00 දක්වා කාලය තුළ වැඩි ම වර්ෂාපතනයක් වාර්තා වී ඇත්තේ, ගාල්ල දිස්ත්‍රික්කයේ  නෙළුව ප්‍රදේශයෙනි. මි.මී. 127.5ක් ලෙස එම අගය සටහන් වී ඇත.
-
-ගාල්ල දිස්ත්‍රික්කයේ ම දෙනියාය සහ උඩුගම ප්‍රදේශවල වර්ෂාපතනය පිළිවෙළින් මි.මී. 100.5ක් සහ 97.5 ලෙස වාර්තා වී තිබේ.
-
-බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-...
-
-[Data](articles/3ad66013.json)
-
----
-
 ### Central Provincial Officers to Awareness on Digitalization of Central Province and AI Technology
 
 *2025-09-26 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226092) · `ta`
@@ -1934,5 +1567,377 @@ Meanwhile, Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha 
 [Data](articles/f03af7da.json)
 
 [Extended Data](ext_articles/f03af7da.ext.json)
+
+---
+
+### Ashwin to play Big Bash playing by renewal of Indian reports
+
+*2025-09-25 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215014) · `si`
+
+Former Indian three-picketing Ravichandran Ashwin is to play for the phase of the leading Franchisis Cricket League, Australia's leading Franchise League.
+
+He is 39 years old and has signed agreements with Sydney Thunder.
+
+Accordingly, an Askman will be appointed as the first Indian player to play with the Big Bash League.
+
+Although Indian players play for the Big Bash League Women's Women's Women's players, the national team of the national team is not allowed to play a Franchisis Cricket League.
+
+In the 19-19-Jaffna Under-19 handicap Chandu, the Big Bash leagues have been played in recent years recently.
+
+However, the Chandu has gone to India and receive citizenship in the United States.
+
+The Australian cricket also played the Australian first cricket, and he also played a wedding match on behalf of Tusmania this month.
+
+◼️
+
+[Data](articles/6e8648b8.json)
+
+[Extended Data](ext_articles/6e8648b8.ext.json)
+
+---
+
+### APIDM launches AI Proficiency for Business Professionals Program
+
+*2025-09-25 21:52:00* · [`islandlk`](http://island.lk/apidm-launches-ai-proficiency-for-business-professionals-program/) · `en`
+
+The Asia Pacific Institute of Digital Marketing (APIDM) officially launched its groundbreaking AI Proficiency for Business Professionals Program at BMICH, Colombo. This initiative marks a milestone in Sri Lanka’s digital transformation journey, empowering leaders, executives, and entrepreneurs to harness AI for business growth, innovation, and responsible leadership.
+
+Unlike technical AI courses, this program is designed to bridge the gap between artificial intelligence and business decision-making, equipping professionals with practical skills to integrate AI into strategy, operations, and day-to-day workflows. It is tailored for non-technical professionals, giving them the confidence and capability to lead AI-driven change within their organizations.
+
+...
+
+[Data](articles/32db701e.json)
+
+[Extended Data](ext_articles/32db701e.ext.json)
+
+---
+
+### HUTCH, the only telecom brand to triumph at SLIM Premier Digital Awards
+
+*2025-09-25 21:52:00* · [`islandlk`](http://island.lk/hutch-the-only-telecom-brand-to-triumph-at-slim-premier-digital-awards/) · `en`
+
+HUTCH Sri Lanka reaffirmed its leadership in digital engagement by winning six awards at SLIM Digis 2.5, making it one of the most awarded brands at this year’s digital excellence forum. This achievement is especially meaningful as HUTCH stood out as the only telecom operator to receive an accolade.
+
+Organized by the Sri Lanka Institute of Marketing (SLIM), SLIM Digis is the country’s most renowned platform for recognising innovation and digital excellence. HUTCH’s recognition reflects its ability to combine creativity with measurable results, staying deeply connected to the everyday needs of its customers while setting high benchmarks in the industry. Evidently, HUTCH is staying ahead in the evolving digital landscape, guided by data-driven decision-making and fueled by novel creativity. The honours reaffirm that those approaches are not just relevant but impactful.
+
+...
+
+[Data](articles/742be6b8.json)
+
+[Extended Data](ext_articles/742be6b8.ext.json)
+
+---
+
+### Artslab Creatives’ groundbreaking ‘Forward & Fearless’ AI campaign recognized at SLIM DIGIS 2.5
+
+*2025-09-25 21:51:00* · [`islandlk`](http://island.lk/artslab-creatives-groundbreaking-forward-fearless-ai-campaign-recognized-at-slim-digis-2-5/) · `en`
+
+Artslab Creatives, a leading end-to-end digital marketing services provider, won two prestigious awards at SLIM DIGIS 2.5, Sri Lanka’s premier platform for digital marketing innovation and excellence, for the Fems Sri Lanka “Forward & Fearless” campaign. The campaign was recognized with a Silver Award in the category “Best Use of AI Technologies” and a Bronze Award for “Best CSR / Purpose-Driven Digital Marketing Campaign”, highlighting both its technological innovation and its powerful social impact.
+
+The Fems Sri Lanka “Forward & Fearless” campaign is a revolutionary digital-first initiative that used AI Deepfake technology for positive social impact. It is the first CSR initiative in Sri Lanka to use AI Deepfake technology for user-generated, personalised content and marked Sri Lanka’s first-ever use of Deepfake technology for good, changing the face of menstruation by turning audiences into advocates.
+
+HUTCH, the only telecom brand to triumph at SLIM Premier Digital Awards
+
+...
+
+[Data](articles/87bdbd6b.json)
+
+[Extended Data](ext_articles/87bdbd6b.ext.json)
+
+---
+
+### Standard Chartered appoints Praveen Karunaratne to Country Management Team
+
+*2025-09-25 21:49:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-praveen-karunaratne-to-country-management-team/) · `en`
+
+Standard Chartered Sri Lanka has appointed Praveen Karunaratne, Head of Financial Institutions (FI), to the Country Management Team, effective 15 September 2025.Praveen’s appointment to the Country Management Team ensures strategic oversight and continued development of critical Financial Institutions relationships, reinforcing Standard Chartered’s commitment to institutional banking excellence in Sri Lanka.
+
+Financial Institutions represents a rapidly growing segment and forms a core pillar of the Bank’s global business strategy, targeting 60% of Corporate & Institutional Banking revenue by 2029. The appointment recognises the strategic importance of the Financial Institutions business for Standard Chartered in Sri Lanka.
+
+Standard Chartered’s Financial Institutions business provides essential services including correspondent banking, trade finance, treasury solutions, and capital markets access to local banks, non-bank financial institutions, investors and public sector entities.
+
+...
+
+[Data](articles/05bd569d.json)
+
+[Extended Data](ext_articles/05bd569d.ext.json)
+
+---
+
+### SN Travel crowned “Emerging Outbound Tour Operator of the Year”
+
+*2025-09-25 21:49:00* · [`islandlk`](http://island.lk/sn-travel-crowned-emerging-outbound-tour-operator-of-the-year/) · `en`
+
+SN Travel (Pvt) Ltd – the premier outbound tour operator, has been crowned as the “Emerging Outbound Tour Operator of the Year 2025” at the prestigious Lanka Business Awards Ceremony 2025 held on 13th September at the Hilton Colombo Residencies. Lanka Business Awards is a platform created by BWIO Sri Lanka to recognize and reward Sri Lanka’s MSMEs (Micro Small and Medium Enterprises) for their role and contribution to the growth of the Sri Lankan economy.
+
+“We are delighted to be crowned as the emerging outbound tour operator of the year for 2025 at the Lanka Business Awards. This recognition is a testament to the passion, dedication, and love we pour into crafting and curating unforgettable journeys for our clients across 15+ exquisite destinations.
+
+“A huge thank you to our incredible team, loyal travellers, and partners who made this possible,” said Sanjana Jayasinghe, Director of SN Travel (Pvt) Ltd.
+
+CSE bull –run triggered by NTB-HSBC deal and SEC’s market development plans
+
+...
+
+[Data](articles/67f191a6.json)
+
+[Extended Data](ext_articles/67f191a6.ext.json)
+
+---
+
+### IASL hosts 16th NAFLIA Conference, driving growth
+
+*2025-09-25 21:48:00* · [`islandlk`](http://island.lk/iasl-hosts-16th-naflia-conference-driving-growth/) · `en`
+
+The Insurance Association of Sri Lanka (IASL), through its Marketing and Sales Forum, hosted the 16th consecutive NAFLIA Conference at the Monarch Imperial. This landmark event continues to play a critical role in developing and recognising the professionalism of life insurance advisors in the country, reaffirming IASL’s ongoing commitment to elevating industry standards and upholding excellence within the life insurance sector.
+
+...
+
+[Data](articles/625e3998.json)
+
+[Extended Data](ext_articles/625e3998.ext.json)
+
+---
+
+### Dialog AI Powers Govi Mithuru – Sri Lanka’s First AI-Powered Agriculture Advisory Platform
+
+*2025-09-25 21:48:00* · [`islandlk`](http://island.lk/dialog-ai-powers-govi-mithuru-sri-lankas-first-ai-powered-agriculture-advisory-platform/) · `en`
+
+Now with an AI Chat and Voice Bot, and an AI Voice Assistant
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has unveiled a new suite of AI-powered features on its pioneering agriculture advisory platform, Govi Mithuru, further strengthening its role as the country’s most trusted digital companion for farmers and home gardeners. Powered by Dialog AI, this milestone pushes forward a vision of enriching lives through technology — empowering farmers, gardeners, and communities with inclusive, future-ready agriculture. Now with a Trilingual AI Chat and Voice Bot and Image-Based Pest Identification on the App, and a Bilingual AI Voice Call Assistant via 616, Govi Mithuru delivers smarter, more accessible farming support for every Sri Lankan.
+
+...
+
+[Data](articles/f0b0ae35.json)
+
+[Extended Data](ext_articles/f0b0ae35.ext.json)
+
+---
+
+### Palestinian leader pledges to work with Trump, others on UN-backed Gaza plan
+
+*2025-09-25 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112920/palestinian-leader-pledges-to-work-with-trump-others-on-un-backed-gaza-plan) · `en`
+
+Palestinian President Mahmoud Abbas pledged at the United Nations on Thursday to work with U.S. President Donald Trump, Saudi Arabia, France and the United Nations on a peace plan for Gaza overwhelmingly backed by the world body.
+
+The 193-member U.N. General Assembly earlier this month overwhelmingly endorsed a seven-page declaration that aims to advance a two-state solution for Israel and the Palestinians and end the war in Gaza between Israel and Hamas militants.
+
+The declaration emerged from an international conference at the U.N. in July - hosted by Saudi Arabia and France - on the decades-long conflict. The United States and Israel boycotted the event and have rejected the international efforts.
+
+Separately, U.S. special envoy Steve Witkoff said on Wednesday that Trump had presented a 21-point peace plan for the Middle East and Gaza during a meeting with leaders of several Muslim-majority countries on the sidelines of this week’s U.N. General Assembly.
+
+...
+
+[Data](articles/9316e417.json)
+
+[Extended Data](ext_articles/9316e417.ext.json)
+
+---
+
+### 26 Unauthorized camps in Piduruthalagala forest reserve
+
+*2025-09-25 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215013) · `si`
+
+A total of 26 youths who had been able to enter the Piduruthalagala forest reserve.
+
+The group was responding to the officers of the officials of the site and Nuwara Eliya sites and released.
+
+The suspects had guided the guilty, including Nuwara Eliya Magistrate Phiraudika.
+
+She was ordered to adjourn the case until October 16 to punish the suspects.
+
+The suspects were arrested on a raid conducted on information received by the officers of the Nuwara Eliya Reserve to enter the Pidurutalagala forest reserve area.
+
+They are residents of many parts of the island, including Galle, Panadura and Kurunegala, who are 25-only age groups.
+
+◼️
+
+[Data](articles/b1875b73.json)
+
+[Extended Data](ext_articles/b1875b73.ext.json)
+
+---
+
+### Awareness is to educate Central Provincial Officers on Use of AI
+
+*2025-09-25 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215012) · `si`
+
+Government Executive Officers on Government Digitization Program and AI Technology
+
+The program is scheduled to be held under the participation of the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on increasing government digital plans.
+
+Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
+
+It is planned to educate all government officials who are outside Colombo about the functioning of the State Officer and AI technology to use this program at the provincial digitization plan to cover all provinces.
+
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+Dr. Hans Wijayasuriya of Dr. Hans Wijayasuriya, Information Technology Agency of the Information Technology Agency
+
+◼️
+
+[Data](articles/1cb57319.json)
+
+[Extended Data](ext_articles/1cb57319.ext.json)
+
+---
+
+### Agricultural Insurance Board disburses Rs. 1,669 mln to farmers
+
+*2025-09-25 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/112919/agricultural-insurance-board-disburses-rs-1669-mln-to-farmers) · `en`
+
+The Agricultural and Agrarian Insurance Board has disbursed Rs. 1,669 million under the National Crop Insurance Scheme, providing support to 81,234 farmers cultivating paddy, maize, chilli, and potato.
+
+The board also highlighted the implementation of several cattle and goat insurance projects under the Livestock Insurance Scheme, aimed at safeguarding livestock farmers.
+
+In addition, the board reported a significant increase in its financial assets, which have grown to Rs. 2,491 million this year.
+
+◼️
+
+[Data](articles/cca32c83.json)
+
+[Extended Data](ext_articles/cca32c83.ext.json)
+
+---
+
+### Motorcycle Youth killed
+
+*2025-09-25 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226088) · `ta`
+
+A young man who was on a motorbike tried to overtake Paravurthy has died face -to -face with a motorcycle.
+
+The accident occurred on the A9 Road, Chavakachcheri, Jaffna. The 21 -year -old youth from the East of Meesala died.
+
+During the accident, the two motorbikes were admitted to the Chavakachcheri Hospital after being injured.
+
+◼️
+
+[Data](articles/c44d3e78.json)
+
+[Extended Data](ext_articles/c44d3e78.ext.json)
+
+---
+
+### Many streets of the city of Galle were submerged
+
+*2025-09-25 20:13:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-நகரின்-பல-வீதிகள்-நீரில்-மூழ்கின/175-365288) · `ta`
+
+Due to heavy rains this evening (24), many roads in the city of Galle were submerged.
+
+The Galle - Wakwella main road was submerged in front of the Galle Police Station and drowned in the Talapitiya area of ​​the Galle - Battegama Mapalakama main road.
+
+As well as Sarendukade and the private Ganga junction, the areas were submerged.
+
+◼️
+
+[Data](articles/554e6d91.json)
+
+[Extended Data](ext_articles/554e6d91.ext.json)
+
+---
+
+### Study to formal investigation into the danger of the Uyana Aranya accident - Court orders
+
+*2025-09-25 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215011) · `si`
+
+Mahawa Magistrate has ordered the Pancagama Police to report a proper investigation into the case of a discrimination of monks during the land of Malziripura, Kurunegala.
+
+Mahawa Magistrate Kachani Abhimani Seneviratne has ordered the Pancagama Police.
+
+The Magistrate has ordered the Judicial Medical Officer of the Kurunegala Teaching Hospital to conduct the corresponding reports along the banques.
+
+The Mahawa Magistrate has ordered the Pansagama police to report the facts of the event.
+
+The Mahawa Magistrate was ordered that the Punyagama Police had made a demonstration of the delegation of a manuscript in the Naan Uyana.
+
+Meanwhile, Minister of Buddha and Religious Affairs, Hon.
+
+Today, he said that the cremation of the cremation of the cremation of the monks would be held today after the event.
+
+◼️
+
+[Data](articles/f26d7879.json)
+
+[Extended Data](ext_articles/f26d7879.ext.json)
+
+---
+
+### Prime Minister Harini visits China
+
+*2025-09-25 20:02:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஹரிணி-சீனா-விஜயம்/175-365287) · `ta`
+
+Prime Minister Harini Amarasuriya is due to visit China in November.
+
+◼️
+
+[Data](articles/073abfaf.json)
+
+[Extended Data](ext_articles/073abfaf.ext.json)
+
+---
+
+### No -confidence motion against the Speaker
+
+*2025-09-25 19:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லாப்-பிரேரணை/175-365286) · `ta`
+
+The United People's Power (SJB) has said that Speaker Jagath Wickramaratne will bring a no -confidence motion against him, accusing him of being unworthy of the recent parliamentary procedures.
+
+United People's Power Member of Parliament, Ajith B.. Perera accused the Speaker of rejecting the previously submitted no -confidence motion without any justification.
+
+Perera said that such behavior was undermined to democratic policies and that parliamentary responsibility was corrooteed.
+
+◼️
+
+[Data](articles/c3897afb.json)
+
+[Extended Data](ext_articles/c3897afb.ext.json)
+
+---
+
+### Stark Realities Of A Medieval Genocide Hidden By Mainstream Media
+
+*2025-09-25 19:43:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/stark-realities-of-a-medieval-genocide-hidden-by-mainstream-media/) · `en`
+
+Little boys whose hands and parts of their face or torso are being blown off from booby-trapped cans of food that soldiers had left behind for starving children; soldiers who leave behind, poisoned food for a starving people to eat, booby-trapped toys that explode when excited children picked them up are promoted as the world’s most moral army.
+
+The harm they have been doing is diabolical, and yet, they expect you to believe they are the victims. Invoking a long-forgotten holocaust and screaming discrimination, they expect you to suspend fundamental human reason to believe that the daily sniping of children with so called “kill shots” to the head or chest and the bombing of entire neighbourhoods that bury families alive and wipe out whole bloodlines is self-defence and just.
+
+...
+
+[Data](articles/3c33188d.json)
+
+[Extended Data](ext_articles/3c33188d.ext.json)
+
+---
+
+### Understanding The Pitfalls In Marketing Carbon
+
+*2025-09-25 19:35:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/understanding-the-pitfalls-in-marketing-carbon/) · `en`
+
+It is a tragedy that we still follow the line expounded by the carbon emitters and polluters of the environment. We have accepted a high debt and fossil dependency scenario as the indicator of ‘Economic Development’. Our concerns with adaptation to the ongoing climate changes brought about by our own actions, seem to be minimal. The current disasters of fishermen getting caught in an sudden, random, wind events, are a foretaste of things to come. Sudden violent downpours that strip and erode the soil or delays in rain bearing winds that create harsh drought conditions, will become more frequent. The ‘climate affected’ population will grow with every event. We are witnessing the thin edge of the wedge.
+
+...
+
+[Data](articles/f37c6ccb.json)
+
+[Extended Data](ext_articles/f37c6ccb.ext.json)
+
+---
+
+### The president today. Meets the general secretary
+
+*2025-09-25 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226087) · `ta`
+
+President Anura Kumara Dissanayake and the United Nations visited New York to attend the 80th General Assembly of the United Nations. The meeting between General Secretary António Guterres will be held on Thursday night (25).
+
+President Anura Kumara Dissanayake will also attend a meeting with Sri Lankans living in the United States on Thursday (25).
+
+Meanwhile, Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath is also to attend several diplomatic meetings today.
+
+◼️
+
+[Data](articles/dae8c727.json)
+
+[Extended Data](ext_articles/dae8c727.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 22:54:58**
+As of **2025-09-27 00:11:22**
 
 ## Newspaper Stats
 
-*Scraped **78,726** Articles*
+*Scraped **78,775** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 298
+lankadeepalk | 304
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -20,54 +20,102 @@ dailyftlk | 5,553
 adalk | 7,619
 adaderanalk | 10,185
 tamilmirrorlk | 11,818
-virakesarilk | 12,739
+virakesarilk | 12,782
 adaderanasinhalalk | 13,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,691 (100.0%) of 78,726 articles have been extended.
+78,750 (100.0%) of 78,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘
+### "The food is sending 130 billion tonnes a year
+
+*2025-09-26 22:39:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආහර-ටන-කට-130ක-වසරක-අපත-යවනව/1-680298) · `si`
+
+The people in the world were sending wastes for 130 billion tonnes a year, and the United Nations Food and Agriculture Organization of the United Nations Food and Agriculture Organization for the Maldives recently said.
+
+Sharon said that the people could lose the hunger of the 300 million people in 130 tons of 130 tons of masses.
+
+He said that Sri Lanka was facing the challenge of wasting food and was revealed that 3963 tons of food waste is expected to generate 3963 tons of food waste per day.. He pointed out that the number of food waste generated annually was Rs. 14.4 million.
+
+He also said that 50 to 76 percent of the country's urban waste is food waste. He said 38 percent of these are domestic food and more than another 24 percent of the restaurants. He also said that 16 percent of the market and 12 percent generates 12 percent.
+
+He said that the highest waste was in the Western Province and 60 percent as a percentage.
+
+...
+
+[Data](articles/62e76711.json)
+
+[Extended Data](ext_articles/62e76711.ext.json)
+
+---
+
+### 'Weerahera r.m.V. Services bribible
 
 *2025-09-26 22:30:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරහර-R-M-V-සවවලට-අලලස-ගනනව/1-680297) · `si`
 
-වේරහැර මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු කාර්යාලයේ සේවා ලබාදීමේදී ඇතැම් රජයේ නිලධාරීන් අල්ලස් ලබා ගන්නා බවට පැමිණිලි ලැබී ඇති බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා හමුවේ කරුණු දක්වමින් අල්ලස් කොමිසම අද(26) පැවසීය.
+The Bribery Commission said that some government officials have received complaints that some government officials have obtained bribes in the Erahera of the Department of Motor Traffic.
 
-පරීක්ෂණයට මුහුණ දී රියදුරු බලපත්‍රයක් ලබා ගැනීමට පැමිණි පුද්ගලයකුගෙන් රුපියල් දස දහසක අල්ලසක් ලබා ගත්තේ යැයි අත් අඩංගුවට ගත් එම කාර්යාලයේ රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ නිලධාරියෙකු සහ පුද්ගලික ආරක්ෂක අංශ සේවිකාවක අධිකරණයට ඉදිරිපත් කරමින් අල්ලස් කොමිෂම එසේ පැවසීය.
+The bribery commission said that the driver's licensing officer was arrested by the driver's license press and a private security personnel at the court of Rs.
 
-රියදුරු බලපත්‍ර මුද්‍රණ අංශයේ කැලුම් ප්‍රියංකර සිරිසේන සහ ජීවමාලී නමැති සැකකාරිය මෙසේ අධිකරණයට ඉදිරිපත් කෙරිණි.
+Kaham Priyankara Sirisena and the Coastal Sirisena and the Coastal Council were produced in court.
 
-අල්ලස් කොමිසම කරුණු දක්වමින් කියා සිටියේ 2024 වර්ෂයේදී ලැබුණු පැමිණිල්ලක් අනුව දීර්ඝ විමර්ශනයක් කිරීමෙන් අනතුරුව මෙම සැකකරුවන් අත්අඩංගුවටයි ගත් බවය.
+The Bribery Commission states that the suspects were arrested following a longest investigation by a complaint received by a complaint received by a complaint received.
 
-මෙම කාර්යාලයේ අල්ලස් ලබා ගන්නා බවට ලිඛිතව පැමිණිලි ලැබී තිබෙනවා.ඒ අනුව රියදුරු බලපත්‍රයක් ලබා ගැනීමට ගිය පුද්ගලයෙකුට සේවාව ලබා දිය හැකි බවට දෙවන සැකකාර කාන්තාව පවසා තිබෙනවා.
+The second suspect has said that the office was obtained from the office.
+
+She had been working in a private security forces and asked for a bribe of Rs.
+
+The Commission requested that the suspects were remanded to be remanded for the suspects.
 
 ...
 
 [Data](articles/cb37421c.json)
 
+[Extended Data](ext_articles/cb37421c.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට  ලකුණු 203ක ඉලක්කයක්
+### Shooting in Tissamaharama
+
+*2025-09-26 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226201) · `ta`
+
+A 58 -year -old man was killed in a shooting in Tissamaharama Chandungama area last Friday (26).
+
+Police said the attacker on a motorbike fled after he fired.
+
+Initial investigations revealed that the incident may have been due to the suspect's relationship with the wife of the deceased's son during police investigations.
+
+Tissamaharama police are conducting serious investigations to arrest the suspect in connection with the incident.
+
+◼️
+
+[Data](articles/28129a4d.json)
+
+[Extended Data](ext_articles/28129a4d.ext.json)
+
+---
+
+### Sri Lanka target 203 runs
 
 *2025-09-26 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215052) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ අවසන් තරගය ශ්‍රී ලංකාව සහ ඉන්දියාව අතර අද (26) පැවැත්වෙන අතර එහිදී තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකාව ප්‍රථමයෙන් පන්දුවට පහර දීමට ඉන්දියාවට ආරාධනා කළේය.
+Sri Lanka and India won the round of Sri Lanka and India won the toss and invited India to bat first.
 
-ඒ අනුව ඉන්දියාව පන්දුවාර 20 අවසානයේ කඩුළු 5ක් දැවී ලකුණු 202ක් රැස් කිරීමට සමත් විය.
+Accordingly, India scored 202 runs for the loss of 5 wickets in their five overs.
 
-එහිදී ඉන්දියාව වෙනුවෙන් Abhishek Sharma ලකුණු 61ක් ‍රැස් කළ අතර Tilak Varma නොදැවී ලකුණු 49ක් රැස් කළේය.
+ABHISEK SHARMA scored 61 runs for India and Tilak Varma scored 49 not out.
 
-එමෙන්ම Sanju Samson ලකුණු 39ක්ද, Axar Patel ලකුණු 21ක්ද, නායක Suryakumar Yadav ලකුණු 12ක්ද රැස් කිරීමට සමත්විය.
+Sanju Samson scored 39 runs, axar patel scored 21 runs, leader SURYAKUARI YADA.
 
-පන්දු යැවීමේදී මහීෂ් තීක්ෂණ, දුෂ්මන්ත චමීර, වනිඳු හසරංග, දසුන් ශානක හා චරිත් අසලංක එක් කඩුල්ල බැගින් දවා ගත්තේය.
+In bowling, Gigh Insightful, Veninduvaranga, Viein Shanaka, and Charath were present at one wicket.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 203ක ඉලක්කයක් හඹා ‍යාමට නියමිතය.
+Sri Lanka is due to chase 203 runs.
 
 කෙසේ වෙතත් මෙය මෙවර ආසියානු කුසලාන තරගාවලියේ දී කණ්ඩායමක් විසින් ඉනිමක දී රැස් කළ වැඩිම ලකුණු ප්‍රමාණය ද වේ.
 
@@ -75,27 +123,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/fbfa343a.json)
 
+[Extended Data](ext_articles/fbfa343a.ext.json)
+
 ---
 
-### තේ පොහොර සහනාධාරය QR ක්‍රමයට
+### Tea fertilizer subsidy to QR
 
 *2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
 
-කුඩා හා මධ්‍යම පරිමාණ තේ වතු හිමියන් සඳහා පොහොර සහනාධාරය QR ක්‍රමවේදය ඔස්සේ ලබාදීමට රජය තීරණය කර තිබේ.
+The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
 
-ලංකාවේ වාර්ෂික තේ නිෂ්පාදනය 2030 වර්ෂය වන විට කිලෝ මිලියන 400 ක් දක්වා වර්ධනය කිරීමට මෙම සහනාධාර තේ පොහොර නව ක්‍රමවේදය අනුව දීමට තේ මණ්ඩලය විසින් රුපියල්  මිලියන 2000 ක මුදලක් 2025 වර්ෂය සඳහා වෙන්කර ඇත.
+By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
 
-කුඩා තේ වතු සංවර්ධන අධිකාරිය හා ශ්‍රී ලංකා තේ මණ්ඩලය මෙම වැඩසටහන ක්‍රියාත්මක කරයි.
+The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
 
-මෙම ව්‍යාපෘතිය යටතේ කි.ග්‍රෑම් 50 ක පොහොර මිටියක් සදහා රු. 4000 ක මුදලක් ද, කි.ග්‍රෑම් 25 පොහොර මිටියක් සදහා රු. 2000 මුදලක් ද, සහනාධාර වශයෙන් ලබාදෙනු ලැබේ.
+Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
 
-සහනාධාරලාභීන් වෙත QR කේතයක් ලබාදී රජයේ පොහොර සමාගම ඇතුලු පොහොර ලේකම් කාර්යාලයේ ලියාපදිංචි පොහොර සමාගම් ගණනාවකින් මෙම අනුමත පොහොර ලබා ගත හැකි පරිදි නව වැඩපිළිවෙල ක්‍රියාත්මක කර ඇත.
+The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
 
-මෙම නව ක්‍රමවේදය යටතේ පොහොර මිලදි ගැනිමට අවශ්‍ය කටයුතු  ඔක්තෝබර් 1 දින සිට සියලු ප්‍රදේශ වල ක්‍රියාත්මක කරන බව රජය කියයි.
+The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
 
 ◼️
 
 [Data](articles/56b83a5f.json)
+
+[Extended Data](ext_articles/56b83a5f.ext.json)
+
+---
+
+### Tea fertilizer subsidy to QR
+
+*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ත-පහර-සහනධරය-QR-කරමයට/1-680296) · `si`
+
+The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
+
+By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
+
+The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
+
+Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
+
+The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
+
+The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
+
+◼️
+
+[Data](articles/9ed675f7.json)
+
+[Extended Data](ext_articles/9ed675f7.ext.json)
 
 ---
 
@@ -117,17 +193,19 @@ Police said investigations are currently underway to arrest the suspect. Remble
 
 ---
 
-### මධ්‍යම පරිසර අධිකාරිය GOv pay හා එක් වෙයි
+### Central Environmental Authority Joins Gov Pay
 
 *2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
 
-මධ්‍යම පරිසර අධිකාරිය ගව්පේ (Gov pay)රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව සමග එක්ක කටයුතු කිරීම අද දින ආරම්භ කෙරිණි.
+The Central Environmental Authority (GOV Pay) was commenced today.
 
-මෙම ගෙවීම් ක්‍රමවේදය නිල වශයෙන් විවෘත කෙරුණු අතර එම ගිවිසුම් අත්සන් කිරීම හා විවෘත කිරීම බත්තරමුල්ල මධ්‍යම පරිසර අධිකාරියේ දී අද දින සිදු කරනු ලැබිණි .
+The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
 
 ◼️
 
 [Data](articles/6cff156d.json)
+
+[Extended Data](ext_articles/6cff156d.ext.json)
 
 ---
 
@@ -263,6 +341,24 @@ According to the amendment of these proposals, the committee concludes that the 
 
 ---
 
+### Special Financial Assistance - Minister of Fisheries from the President's Fund for the education of the children of fishermen
+
+*2025-09-26 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226200) · `ta`
+
+Minister of Fisheries, Aquaticity and Marine Resources Ramalingam Chandrasekhar said at a media briefing to clarify the activities of the President's Fund at the Government Information Department on September 25, 2025.
+
+Minister of Fisheries, Aquaticity and Marine Resources Ramalingam Chandrasekhar, Deputy Foreign Affairs, Foreign Employment and Tourism Minister Arun Hemachandra. Additional Secretary of the Ministry of Roshan, Foreign Affairs, Foreign Employment and Tourism, Dr. Sukat Yalegama, President of the Sri Lanka Foreign Employment Bureau, Kosala Wickremesinghe and many others were present.
+
+The Minister said at the meeting that the fishermen who contributed greatly to the economy of the country and the people's protein have been subjected to many difficulties and social margins.. The Minister also pointed out that the educational and life paths of the children of the missing, accidental or imprisoned abroad have been affected.
+
+...
+
+[Data](articles/5d54cd0a.json)
+
+[Extended Data](ext_articles/5d54cd0a.ext.json)
+
+---
+
 ### Tissamaharama shot dead
 
 *2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තසසමහරම-වඩ-තබමකන-අයක-මරට/101-680293) · `si`
@@ -300,6 +396,48 @@ The suspects had been a paramount with the son of the suspect's son and had take
 [Data](articles/ca551377.json)
 
 [Extended Data](ext_articles/ca551377.ext.json)
+
+---
+
+### The Bribery Commission implements the government's repression - Nalin Bandara
+
+*2025-09-26 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226191) · `ta`
+
+What is the position of the government on the fact that a member of the JVP's legal section has been appointed as the Chairman of the Commission on Bribery or Corruption? United People's Power Kurunegala District Parliamentarian Nalin Bandara said that the Bribery Commission is completely politicized and implemented the repression of the government.
+
+He said this while addressing the adjournment debate on the Cobb Committee Report held in Parliament on Friday (26).
+
+Cobb group must explore current activities and irregularities as in the past. Pillaiyan's assistant has received 250 acres of royalty in Pasikuda area. No action has been taken so far as the land has been instructed by the Land Reconstruction Commission.
+
+The operations of the Ports Authority are problematic.  The recent release of 323 containers from Customs has caused massive controversy. Will the Customs and Port Authority be invited to the Cobb Committee in the coming days,
+
+...
+
+[Data](articles/342eb1ee.json)
+
+[Extended Data](ext_articles/342eb1ee.ext.json)
+
+---
+
+### China will make enormous contribution to the noble purpose of peace and development - Chinese Ambassador
+
+*2025-09-26 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226199) · `ta`
+
+Chinese Ambassador to Sri Lanka, Qi Zhenhong, said that on the new era, the Chinese nation will bring new and enormous glory and make new and enormous contributions to the noble purpose of human peace and development.
+
+A welcome ceremony was held at the Chinaman Life Hotel, Colombo on Thursday (25) to mark the 76th anniversary of the establishment of the People's Republic of China.  The Chinese ambassador said this while addressing the event.
+
+He emphasized the enormous growth of China over the past 76 years, China's commitment to the global arena and the deep friendship between Sri Lanka and China.
+
+In the last 76 years, China has emerged as an open and progressive country, which is headed by the Chinese Communist Party (CPC), from an isolated, backward position to all kinds of moderate prosperity.
+
+Today's China is thriving in all sectors. In particular, digital economy and artificial intelligence are committed to the development and high quality growth.
+
+...
+
+[Data](articles/252d7553.json)
+
+[Extended Data](ext_articles/252d7553.ext.json)
 
 ---
 
@@ -379,19 +517,23 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
+### Is the artificial intelligence beat a professional journalist?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කතම-බදධය-වතතය-මධයවදයට-පහරකද/12-680292) · `si`
 
-(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
+(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
 
-අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
+We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
 
-සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
+If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
+
+It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
 
 ...
 
 [Data](articles/3f574452.json)
+
+[Extended Data](ext_articles/3f574452.ext.json)
 
 ---
 
@@ -435,19 +577,23 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
-### කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද?
+### Is the artificial intelligence beat a professional journalist?
 
 *2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/12-680292) · `si`
 
-(යුරෝපීය විකාශන සංගමය ප්‍රවෘත්ති අධ්‍යක්ෂක ලිස් කොර්බින් සහ ලෝක පුවත්පත් සහ ප්‍රවෘත්ති ප්‍රකාශකයින්ගේ සංගමයේ ප්‍රධාන විධායක නිලධාරී වින්සන්ට් පෙයිරෙග්නේ)
+(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
 
-අප අවට ඇති ලෝකය වඩාත් හොඳින් තේරුම් ගැනීමට අප සැවොම කැමැත්තක් දක්වයි. ඇතැම් අවස්ථාවන්හි අපට ගාසා තීරයේ සැබැවින්ම සිදුවන්නේ කුමක්ද හෝ අපගේ පවුල් යැපෙන සෞඛ්‍ය පද්ධතියට රජය සිදුකිරීමට බලාපොරොත්තු වන සංශෝධන මොනවද යන්න පිළිබඳව පැහැදිලි කිරිමක් ලබා ගැනීමට අවශ්‍ය වේ. එසේත් නැතිනම් දිනපතා ගමන් ගන්නා බස් රථෙය් කාල සටහනේ වෙනස් කමක් සිදුවී තිබෙනවාද වැනි සරල කරුණක් පිළිබඳව දැන ගැනීමට වුවමනා වෙයි.
+We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
 
-සොයන තොරතුරු කෙතරම් සංකීර්ණ හෝ සරල වුවත් විශ්වාසදායක ප්‍රවෘත්ති මාර්ගයෙන් එම තොරතුරු ලබා ගැනීමට අප සැමට අයිතියක් ඇත. අප සැවොම අන්තර්ජාලය ඔස්සේ පුදුමයට පත්වන මෙන්ම කම්පනයට පත්වන පුවත් පිළිබඳ වීඩියෝපට නැරඹීමට පුරුදුව සිටී.  නමුත් වර්තමානය වනවිට කෘතීම බුද්ධිය හේතුවෙන් අන්තර්ජාලයේදී අප දකින වීඩියෝ පටයක් සැබෑ එකක්ද එසේත් නැතිනම් කෘතිම බුද්ධියෙන් නිර්මාණය කළ එකක්ද යන්න පිළිබඳව ප්‍රශ්න කළයුතු වාතාවරණයක් උදාවී ඇත.
+If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
+
+It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
 
 ...
 
 [Data](articles/f1e9c6ee.json)
+
+[Extended Data](ext_articles/f1e9c6ee.ext.json)
 
 ---
 
@@ -468,6 +614,26 @@ It is a key to population to popularize the video, using artificial intelligence
 [Data](articles/fd4f85fa.json)
 
 [Extended Data](ext_articles/fd4f85fa.ext.json)
+
+---
+
+### Modern Laboratory for Medicine, Ayurveda, Food and cosmetics- Minister Nalinda Jayatissa
+
+*2025-09-26 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226192) · `ta`
+
+Minister of Health and Media Nalinda Jayatissa said that discussions are underway on the construction of a laboratory with sophisticated facilities that can be conducted on drugs, Ayurveda, food and cosmetics.
+
+Minister of Health and Media Media Nalinda Jayadissa made the issue when he was the chief guest at the "World Pharmacist Day - 2025" commemoration organized by the Government Pharmacists Association on Thursday (25) at the Medical Faculty Auditorium in Colombo.
+
+The World Pharmacists Association and the World Health Organization have declared September 25 as World Pharmacist Day, and the World Pharmacists Association with pharmaceutical lecturers and pharmaceutical lecturers have nearly 4 million members in 158 countries around the world.. Celebrated with the theme of the World Pharmacist Day, "Think as a healthy pharmacist".
+
+There are about 4,500 pharmacists in the country and there is a severe shortage of pharmacists.
+
+...
+
+[Data](articles/5dd150e3.json)
+
+[Extended Data](ext_articles/5dd150e3.ext.json)
 
 ---
 
@@ -673,6 +839,28 @@ The government representatives and opposition MPs were present at the occasion o
 
 ---
 
+### Minister Sunil Senavi advises the court to take legal action if people are panicked by Israel's Sabad residence
+
+*2025-09-26 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226189) · `ta`
+
+Buddha Sasana, Religious and Cultural Affairs Minister Sunil Senavi said that if the actions of the Israeli Sabad house located in Arughampay are in a state of panic, the court has advised the police to take legal action on it.
+
+He was responding to a question of Opposition Member MS Udumaleb at the time of the question of oral answers in Parliament on Friday (26).
+
+In his question, Udumalep has been unanimously decided at the Pottuvil Pradeshiya Sabha Coordination Meeting and the Pottuvil Pradeshiya Sabha session to shut down Israel's illegal Sabad house in Pottuvil, Augkambe area.. So I ask what the move it has taken to prevent this.
+
+The Pottuvil Divisional Development Committee meeting has informed us about the Israeli -owned Sabad house operating near the school of Muslims in Pottuvil, Pottuvil.. According to it
+
+Sri Lankan police have a long intervention required. Similarly, the court has searched for information and informed the court.
+
+...
+
+[Data](articles/6a33b3b9.json)
+
+[Extended Data](ext_articles/6a33b3b9.ext.json)
+
+---
+
 ### Sri Lanka, India ties have reached point of unprecedented excellence: Envoy
 
 *2025-09-26 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112947/sri-lanka-india-ties-have-reached-point-of-unprecedented-excellence-envoy) · `en`
@@ -692,6 +880,60 @@ High Commissioner Colonne said, “Since our President’s visit to India after 
 [Data](articles/f723797e.json)
 
 [Extended Data](ext_articles/f723797e.ext.json)
+
+---
+
+### 'Rajini Gang' starring Rajini Kishan
+
+*2025-09-26 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226186) · `ta`
+
+The new movie starring actor Rajini Kishan is titled 'Rajini Gang' and the teaser has been released on the title.. The teaser of the horror gomadi janeri has received a huge welcome.. Within a short time of release, more than two million viewers are visited and achieved
+
+Director M. Rajini Kishan and Divika have played the lead roles in the film 'Rajini Gang' directed by Ramesh Bharati.. My. S.. Satishkumar has recorded the film. S.. Jones Rupert has composed the music. The film is based on Horror Commodhi Janer, producer CS Padamsand-C. Ariyanraj and Rajini Kishan have co-produced.
+
+VF X scenes in this teaser are more.. Has been attracted to the fans.
+
+◼️
+
+[Data](articles/b857c677.json)
+
+[Extended Data](ext_articles/b857c677.ext.json)
+
+---
+
+### Actress Yashika Anand starrer 'Toss'
+
+*2025-09-26 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226184) · `ta`
+
+The shooting of the movie 'Tas', which is playing the lead role in the heroine of the story, has begun to shoot fans with fans with 'Big Poss'. Former Minister of Tamil Nadu Kadambur C. Raju congratulated the film crew on the participation of a special guest.
+
+Ratan Mowli, Yashika Anand, Vijay Rivi Yogi, Shanna, Tejasri, Sanjay Shankar, directed by director Saku Pandiyan directed 'Das'.. Shantan Anibhajagane is composed by Dharmadurai. The film is being produced as a crime thriller and produced by producer Syed Zafar on behalf of Black Diamond Studio.
+
+Commenting on the film, the director said, “There are three murder cases.. What is the original background? What is the connection between this murder and Yashika Anand? In order to investigate ... The film is ready for a brilliant crime thriller. ”
+
+◼️
+
+[Data](articles/8e7862e0.json)
+
+[Extended Data](ext_articles/8e7862e0.ext.json)
+
+---
+
+### Actress Yashika Anand starrer 'Toss'
+
+*2025-09-26 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226182) · `ta`
+
+The shooting of the movie 'Tas', which is playing the lead role in the heroine of the story, has begun to shoot fans with fans with 'Big Poss'. Former Minister of Tamil Nadu Kadambur C. Raju congratulated the film crew on the participation of a special guest.
+
+இயக்குநர் சகு பாண்டியன் இயக்கத்தில் உருவாகும் 'டாஸ்' திரைப்படத்தில் ரத்தன் மௌலி, யாஷிகா ஆனந்த், விஜய் ரிவி யோகி, ஷன்னா, தேஜாஸ்ரீ, சஞ்சய் சங்கர் உள்ளிட்ட பலர் நடிக்கிறார்கள். Shantan Anibhajagane is composed by Dharmadurai. The film is being produced as a crime thriller and produced by producer Syed Zafar on behalf of Black Diamond Studio.
+
+Commenting on the film, the director said, “There are three murder cases.. What is the original background? What is the connection between this murder and Yashika Anand? In order to investigate ... The film is ready for a brilliant crime thriller. ”
+
+◼️
+
+[Data](articles/ac890434.json)
+
+[Extended Data](ext_articles/ac890434.ext.json)
 
 ---
 
@@ -754,6 +996,28 @@ Sri Lanka Transport Board is completely broken. The management of depots has bee
 [Data](articles/3a353a31.json)
 
 [Extended Data](ext_articles/3a353a31.ext.json)
+
+---
+
+### Music and Preview of the movie 'Night Virus' released by Tamil cinema celebrities
+
+*2025-09-26 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226181) · `ta`
+
+The music and preview release of the film 'Rayavu Viriyas' starring Mahendra and Chikkam Rajesh was played in Chennai.
+
+Directors R.. V.. Udayakumar - Empire - Bose Venkat - Mu. The repository participated as special guests.
+
+Mahendra, Chikkam Rajesh, Neema Ray, 'Shadows' Ravi, Azmita, Kumtaj, Cheran Raj and many others have starred in the upcoming film 'Ravi Viris' directed by debutant director Chikkam Rajesh.
+
+The film has been recorded by Bhaskar. M.. Azhar has composed the music. The film is being produced by Mahendra Film Factory Company, produced by Mahendran.
+
+Commenting on the film, the director said, “Women are still addicted today. We have created this film to raise awareness. ”
+
+◼️
+
+[Data](articles/dfa907dc.json)
+
+[Extended Data](ext_articles/dfa907dc.ext.json)
 
 ---
 
@@ -822,6 +1086,90 @@ It is also reported that a women security officer who operated in the Sri Lanka 
 [Data](articles/c804e790.json)
 
 [Extended Data](ext_articles/c804e790.ext.json)
+
+---
+
+### Who allowed the release of controversial containers? The government should soon reveal - Namal Rajapaksa
+
+*2025-09-26 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226172) · `ta`
+
+The government is using drugs as a weapon to cover up the recent fraud of salt, rice and containers.  Who allowed the government to continue blaming us and allowed them to release 2 containers and other 323 containers that were not tested? Parliamentarian Namal Rajapaksa has said that he should be revealed soon.
+
+Responding to a question raised by a journalist regarding the drug rescued from many parts of the Southern Provinces, Namal Rajapaksa
+
+I was present in court today for a criminal trial filed in court. It has been ruled that the case will be taken up for hearing again on the 18th. The NPP government acts just like the thief and the people like the people. The property details of many in the government have been revealed.
+
+...
+
+[Data](articles/ccff98b7.json)
+
+[Extended Data](ext_articles/ccff98b7.ext.json)
+
+---
+
+### Anil Jayantha Fernando presented the Fund Allocation Bill for the Financial Year 2026
+
+*2025-09-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226170) · `ta`
+
+The Minister of Labor and Economic Development Anil Jayantha Fernando presented the Fund Allocation Bill for the Financial Year 2026 in Parliament.
+
+When the Parliamentary Session was convened on Friday (26), the Minister presided over the Funding Allocation Bill.
+
+Accordingly, the President Anura Kumara Dissanayake has allocated Rs 443435 crore 64,68000 rupees.
+
+64800 crore has been allocated for the Ministry of Defense and Public Safety in the funds allocated for this cost.. 61744 crore 50 lakhs of rupees have been allocated for the Ministry of Defense and Public Security in 2025.
+
+A total of 111715 crore 9980000 lakhs have been allocated for the President's Ministry of Defense, Finance, Planning and Economic Development and the Ministry of Digital Economic Ministry.
+
+Meanwhile, the President's expenses have been allocated 299,29,80,000 for 2025 as the President's expenses of 2026.
+
+...
+
+[Data](articles/cbc98b7a.json)
+
+[Extended Data](ext_articles/cbc98b7a.ext.json)
+
+---
+
+### The government is practicing only those who act against the government; Mujibur Rahman
+
+*2025-09-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226171) · `ta`
+
+The government is observing the transparency that the government has promised to establish. Opposition member Mujibur Rahman said that if the government continues to act, it will not be able to prevent a people's struggle again.
+
+He said this while addressing the adjournment of the House in Parliament on Friday (26).
+
+The people were frustrated with the rulers of the past rulers of corruption. As a result, the struggle of the people in the country in 2022.
+
+It was this struggle that led to this government coming to power. So when the government came to power, he made various promises to the people. According to this, the government received the people's mandate.
+
+But when the transparency of the government, it is only possible for those who act against the government. Wherever the president goes, he is talking about the rule and transparency of the law.
+
+...
+
+[Data](articles/d1d33fbf.json)
+
+[Extended Data](ext_articles/d1d33fbf.ext.json)
+
+---
+
+### The government should be held accountable for the release of 323 containers - TV Sanaka
+
+*2025-09-26 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226169) · `ta`
+
+No inquiries have been made on the recommendations of the President -appointed Committee on the release of 323 containers from the customs. The country has been brought in non -substandard drugs and weapons. The government should be held accountable for the release of containers, said TV Sanaka of the Sri Lanka PA, Hambantota district parliamentarian.
+
+He was speaking at the adjournment debate on the Cobb Committee Report held in Parliament on Friday (26).
+
+We will take appropriate legal action against the members of the Sri Lanka Peoples Alliance (PA). So I request the 159 members of the ruling party to make allegations in Parliament and not make allegations.
+
+The COPE Committee is referring to airports, ports and state agencies.. Who noted that the Colombo Port Development Project would be able to transform the Sigiriya cliff. The country has lost billions of dollars due to the struggle of the Janatha Vimukthi Peramuna.
+
+...
+
+[Data](articles/d2c7c41e.json)
+
+[Extended Data](ext_articles/d2c7c41e.ext.json)
 
 ---
 
@@ -898,6 +1246,32 @@ Budget Committee Stage Debate commences on November 15 and will be held on Novem
 [Data](articles/2191efcc.json)
 
 [Extended Data](ext_articles/2191efcc.ext.json)
+
+---
+
+### Budget Appropriation Bill to commit
+
+*2025-09-26 17:06:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අයවය-වසරජන-පනත-කටමපත-මතසබයට/1-680286) · `si`
+
+The Appropriation Bill for next year (2026) is presented by Prof. Anil Jayantha Fernando today (26).
+
+The gazette notification for the Appropriation Bill was released on September 18.
+
+Accordingly, the total expenditure in the next year is Rs.
+
+The draft has spent Rs. 63400 million.
+
+Rs. 61800 million and Rs. 59600 million for the Ministry of Local Government
+
+President's budget is presented on November 7. The second reading debate will be held on November 8 and will be held on November 8 (six days).
+
+Budget Committee Stage Debate commences on November 15 and will be held on November 15 (17 days) until December 5. The second reading of the budget will be held on December 5 afternoon
+
+◼️
+
+[Data](articles/e5f39c85.json)
+
+[Extended Data](ext_articles/e5f39c85.ext.json)
 
 ---
 
@@ -1091,6 +1465,26 @@ This is a serious accusation.  We asked this morning too. Did not give an answe
 
 ---
 
+### Mutcar's problem Mathemism
+
+*2025-09-26 16:30:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මජබරග-පරශනන-මතසබ-රතවය/1-680285) · `si`
+
+The Director General of Bribery, the Director General of the Commission of Investigation Commission (Under the Investigation Commission) was a person who had worked as the Secretary of the JVP and had a warm dialogue in Parliament today (26).
+
+He was responding to the Declare report on the report of the COPE Committee.
+
+The MP was questioned whether it was because of the favorable to investigate the allegations against the ministers of the government.
+
+This is a serious accusation.  We asked this morning too. Did not give an answer. This is what independent commissions like this have been working independently. We have a problem here. MPs' opposition in opposition search for all the deals. However, the ministers of the government are not looking for. It is not because he's a JeaPP. We can think so.
+
+...
+
+[Data](articles/d60717ca.json)
+
+[Extended Data](ext_articles/d60717ca.ext.json)
+
+---
+
 ### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
 
 *2025-09-26 16:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/90-day-detention-for-ex-slpp-lg-candidate-manamperi) · `en`
@@ -1121,6 +1515,22 @@ The lorry came through Moranthiwuwa to Bandaragama and the lorry driver brake wa
 
 ---
 
+### 3 vehicles were hit by hospital
+
+*2025-09-26 16:23:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වහන-3ක-එකනක-ගට-11ක-රහලට/1-680284) · `si`
+
+Bandaragama police say 11 persons were injured in a lorry, a van and three-wheeler collision road in Bandaragama road
+
+The lorry came through Moranthiwuwa to Bandaragama and the lorry driver brake was crashed into the lorry lorry, police said.
+
+◼️
+
+[Data](articles/12f81555.json)
+
+[Extended Data](ext_articles/12f81555.ext.json)
+
+---
+
 ### Three arrested for defrauding money by fake Visa stickers claiming to be sent
 
 *2025-09-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215041) · `si`
@@ -1140,6 +1550,26 @@ Bambalapitiya Police are conducting further investigations to reveal whether the
 [Data](articles/cd7d40bd.json)
 
 [Extended Data](ext_articles/cd7d40bd.ext.json)
+
+---
+
+### We look forward to solving the issue of Taiti Tissa Vihara
+
+*2025-09-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226164) · `ta`
+
+Jaffna Taiti Tissa Vihara is not registered. Land is not acquired by the government. The land is exploited with transparency. The Taiti Tissa Vihara issue should be investigated to address the truth of the problem. This problem does not have a solution. "We are looking forward to resolving the Taiti Tissa issue through the intervention of the appointed groups," Minister of Buddha Sasana, Religious Affairs and Arts and Cultures said.
+
+In response to the recent questions posed by the Sri Lanka Tamil National Alliance (TNA) parliamentarian S. Siritharan during a session held in Parliament on Friday (26).
+
+Tissa Vikarai is a Vikarai in the North Thaitti area of ​​Valikamam in Jaffna district. This Vihara is not registered. Land related to this shrine is investigated.
+
+Many questions have been raised about the struggles that are taking place in this area.  No official announced to the Ministry on these struggles. There are information based on news published in the media.
+
+...
+
+[Data](articles/6dbcc087.json)
+
+[Extended Data](ext_articles/6dbcc087.ext.json)
 
 ---
 
@@ -1220,6 +1650,20 @@ The fourth report of the Committee on Public Enterprises (COPE) was presented in
 [Data](articles/9351441b.json)
 
 [Extended Data](ext_articles/9351441b.ext.json)
+
+---
+
+### Here is the fourth exposure
+
+*2025-09-26 16:05:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-සවවන-හළදරවව-මනන/1-680283) · `si`
+
+The fourth report of the Committee on Public Enterprises (COPE) was presented in parliament today.
+
+◼️
+
+[Data](articles/d827e863.json)
+
+[Extended Data](ext_articles/d827e863.ext.json)
 
 ---
 
@@ -1544,373 +1988,5 @@ In the bag he brought, "Shopping" bag, which had 418 grams of drugs were hidden 
 [Data](articles/caaa4340.json)
 
 [Extended Data](ext_articles/caaa4340.ext.json)
-
----
-
-### Dileepan's Memorial Day at the University of Jaffna
-
-*2025-09-26 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலீபனின்-நினைவு-தினம்-யாழ்-பல்கலைக்கழகத்தில்-அனுஷ்டிப்பு/175-365329) · `ta`
-
-The 38th commemoration of Dileepan, the 38th commemoration of the sacrifice of fasting on the five -point demands, was celebrated on Friday (26).
-
-The sacrificial torch began at 12 noon and the public flame was loaded.
-
-Subsequently, the flower garland was paid to the university community to pay tribute to the portrait of Dileepan.
-
-University students, university lecturers and university non -academic staff were also present.
-
-In the North and East, the five -point demands to stop the newly planned Sinhalese settlements, the release of Tamil political prisoners detained in prisons and camps, the emergency law should be completely abolished, the weapons provided to the guards, and the opening of new police stations in Tamil areas should be stopped. He was embroiled in a hunger strike without drinking water in Nallur in Jaffna for 12 days from 26.09.1987.
-
-◼️
-
-[Data](articles/8e4e7e4e.json)
-
-[Extended Data](ext_articles/8e4e7e4e.ext.json)
-
----
-
-### Dileepan's Memorial Day at the University of Jaffna
-
-*2025-09-26 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-பல்கலைக்கழகத்தில்-திலீபனின்-நினைவு-தினம்/175-365329) · `ta`
-
-The 38th commemoration of Dileepan, the 38th commemoration of the sacrifice of fasting on the five -point demands, was celebrated on Friday (26).
-
-The sacrificial torch began at 12 noon and the public flame was loaded.
-
-Subsequently, the flower garland was paid to the university community to pay tribute to the portrait of Dileepan.
-
-University students, university lecturers and university non -academic staff were also present.
-
-In the North and East, the five -point demands to stop the newly planned Sinhalese settlements, the release of Tamil political prisoners detained in prisons and camps, the emergency law should be completely abolished, the weapons provided to the guards, and the opening of new police stations in Tamil areas should be stopped. He was embroiled in a hunger strike without drinking water in Nallur in Jaffna for 12 days from 26.09.1987.
-
-◼️
-
-[Data](articles/fa2a1b95.json)
-
-[Extended Data](ext_articles/fa2a1b95.ext.json)
-
----
-
-### Tell the truth about Ranga Dissanayake
-
-*2025-09-26 15:19:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රග-දසනයක-ගන-ඇතත-කයනන/1-680279) · `si`
-
-Bribery Commission JVP. The Colombo District MP Mujuur Rahman said: In parliament, he said:
-
-The law does not take place, but the law will not be implemented.. If the law enforced the program to minimize corruption. We all voted for the anti-corruption Act to minimize corruption.. There is now a problem with the transparency. There is a problem that the rule of law is only by the opponents of the presidency. Now the Bribery Commission is not looking for. Mr. Munibur Rahman said, "Look!
-
-◼️
-
-[Data](articles/46f2a3a2.json)
-
-[Extended Data](ext_articles/46f2a3a2.ext.json)
-
----
-
-### Tell the truth about Ranga Dissanayake
-
-*2025-09-26 15:19:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රග-දසනයක-ගන-ඇතත-කයනන/101-680279) · `si`
-
-Bribery Commission JVP. The Colombo District MP Mujuur Rahman said: In parliament, he said:
-
-The law does not take place, but the law will not be implemented.. If the law enforced the program to minimize corruption. We all voted for the anti-corruption Act to minimize corruption.. There is now a problem with the transparency. There is a problem that the rule of law is only by the opponents of the presidency. Now the Bribery Commission is not looking for. Mr. Munibur Rahman said, "Look!
-
-◼️
-
-[Data](articles/b785492b.json)
-
-[Extended Data](ext_articles/b785492b.ext.json)
-
----
-
-### Resource Manampara questions 90 days
-
-*2025-09-26 15:18:09* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-දින-90ක්-රඳවාගෙන්-ප්‍රශ්න-කරයි/11-418746) · `si`
-
-Walasmulla Magistrate's Court today (26) to interpret 90 days of resource Majarakri. Sampath Manamperi has been arrested and remanded in connection with the hiding two containers of chemicals to be used to produce ice drugs in the Middeniya area.
-
-◼️
-
-[Data](articles/e19ead0c.json)
-
-[Extended Data](ext_articles/e19ead0c.ext.json)
-
----
-
-### Sri Lanka uses 07 double cab
-
-*2025-09-26 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215036) · `si`
-
-The Health System Improvement Project has been provided with seven double cab to the Ministry of Health and Mass Media by the Ministry of Health and Mass Media under the sponsorship of the Asian Development Bank.
-
-The price of the double cab was Rs.
-
-Accordingly, the Office of the Nivitigala Medical Officer of the Colombo District and the Office of the Colombo District Secretariat in the Kandy District was held for the office of the Colombo District Secretariat in the Badulla District and to the Colombo Project Medical Officer of the Colombo District.
-
-The Health Systems Improvement Project has been prepared to obtain 45 cabs for prevention health care in the Central, Uva and Sabaragamuwa provinces.
-
-Accordingly, the recently purchased cabs were officially handed over in the Ministry of Health and Mass Media.
-
-◼️
-
-[Data](articles/159c22d5.json)
-
-[Extended Data](ext_articles/159c22d5.ext.json)
-
----
-
-### "We will not tolerate more"
-
-*2025-09-26 15:14:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අප-තවත-ඉවසනන-න/1-680278) · `si`
-
-Hambantota District MP DV Chanaka has decided that the Knowledge of the General has decided to slander anymore.
-
-"We have decided to share all these things in the court.. That is the container fraud. The government has failed to present the report of the Committee appointed by the President to Parliament.. A committee report recommends a jarly audit. Where are these tests now? "
-
-◼️
-
-[Data](articles/1311b70f.json)
-
-[Extended Data](ext_articles/1311b70f.ext.json)
-
----
-
-### "We will not tolerate more"
-
-*2025-09-26 15:14:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අප-තවත-ඉවසනන-න/101-680278) · `si`
-
-Hambantota District MP DV Chanaka has decided that the Knowledge of the General has decided to slander anymore.
-
-"We have decided to share all these things in the court.. That is the container fraud. The government has failed to present the report of the Committee appointed by the President to Parliament.. A committee report recommends a jarly audit. Where are these tests now? "
-
-◼️
-
-[Data](articles/75ef10bb.json)
-
-[Extended Data](ext_articles/75ef10bb.ext.json)
-
----
-
-### Sri Lanka President Heads To Japan After UN Tour
-
-*2025-09-26 15:13:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-president-heads-to-japan-after-un-tour) · `en`
-
-...
-
-[Data](articles/953e38a0.json)
-
-[Extended Data](ext_articles/953e38a0.ext.json)
-
----
-
-### Firearms and ammunition belonging to Kehelbaradara Padme recovered
-
-*2025-09-26 15:03:24* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේට-අයත්-ගිනි-අවියක්-හා-උණ්ඩ-තොගයක්-සොයා-ගනියි/11-418743) · `si`
-
-The pistol influence of the Kehelbadara Padma, detained and interrogated, T. 56 Magazines, nearly 500 T-56 riffle bullets were found by the police.
-
-According to the interrogation of the investigating officers, the weapons were found near the fish market in Peliyagoda through a phone call obtained by officials.
-
-◼️
-
-[Data](articles/d8f1abb4.json)
-
-[Extended Data](ext_articles/d8f1abb4.ext.json)
-
----
-
-### Manushous petition demanding unleashed on an Expected Guarantee
-
-*2025-09-26 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215035) · `si`
-
-Former Minister Manusha Nanayakkara has filed a petition to the Colombo Magistrate's Court today to release the Bribery Commission before his arrest.
-
-Colombo Chief Magistrate Asanka S.. The Director of the Bribery Commission, note as the respondent as its respondent, has issued notice to the 2nd.
-
-◼️
-
-[Data](articles/3cc82336.json)
-
-[Extended Data](ext_articles/3cc82336.ext.json)
-
----
-
-### Police obtain 90-day detention order on Sampath Manamperi
-
-*2025-09-26 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112942/police-obtain-90-day-detention-order-on-sampath-manamperi) · `en`
-
-The Western Province North Crimes Division has informed the Walasmulla Magistrate that Acting Defence Minister Aruna Jayasekera has issued a 90-day detention order to further question Sampath Manamperi, said Ada Derana reporter.
-
-Manamperi, who was initially detained for interrogation by the Police Narcotics Bureau (PNB), was remanded in custody by the Walasmulla Magistrate’s Court on September 23.
-
-He remains in custody in connection with concealing two containers of chemicals, allegedly intended for the manufacture of crystal methamphetamine (commonly known as ‘Ice’), on his property in the Middeniya area.
-
-◼️
-
-[Data](articles/fa2294f4.json)
-
-[Extended Data](ext_articles/fa2294f4.ext.json)
-
----
-
-### The cost of 2026 is 443,435 crores 6,468,000 rupees
-
-*2025-09-26 14:58:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-ஆம்-ஆண்டுக்கான-செலவீனம்-443-435-கோடியே-6-468-000-ரூபாயாகும்/175-365328) · `ta`
-
-The National People's Power Government, led by President Anura Kumara Dissanayake, was presented in Parliament on Wednesday (26) by the Deputy Minister of Labor and Economic Development Anil Jayantha Fernando.
-
-This is the second budget of the National People's Power Government led by President Anura Kumara Dissanayake.
-
-Accordingly, President Anura Kumara Dissanayake is spending the budget of the government of 2026
-
-The cost of 2026 has increased by Rs 21,610 crore 8,450,000, with the cost of Rs 421,824 crore at Rs 421,824 crore in the budget of 2025.
-
-64,800 crore has been allocated for the Ministry of Defense and Public Safety in the funds allocated for this cost. 617,44 crore 50 lakhs have been allocated for the Ministry of Defense and Public Security in 2025, and for 2026, Rs 3,055 crore 50 lakhs have been allocated for 2026.
-
-...
-
-[Data](articles/5483cd65.json)
-
-[Extended Data](ext_articles/5483cd65.ext.json)
-
----
-
-### Manusha Nanayakkara files anticipatory bail application
-
-*2025-09-26 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112941/manusha-nanayakkara-files-anticipatory-bail-application-) · `en`
-
-Former Minister Manusha Nanayakkara has filed an anticipatory bail application before the Colombo Magistrate’s Court, seeking release on anticipatory bail following possible arrest by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-◼️
-
-[Data](articles/2719f663.json)
-
-[Extended Data](ext_articles/2719f663.ext.json)
-
----
-
-### Padme's firearms and bullets meet
-
-*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදමග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
-
-The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
-
-A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
-
-This information has been revealed in the interrogation by the Western Provincial Council.
-
-Five underworld members of Padmasiri, who was an organized criminal, was arrested for his arrest in Indonesia, and three others, including Kehel Bedma Padkere on the detention department.
-
-◼️
-
-[Data](articles/6e4ebbee.json)
-
-[Extended Data](ext_articles/6e4ebbee.ext.json)
-
----
-
-### Padme's firearms and bullets meet
-
-*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදම-ග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
-
-The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
-
-A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
-
-This information has been revealed in the interrogation by the Western Provincial Council.
-
-Five underworld members of Padmasiri, who was an organized criminal, was arrested for his arrest in Indonesia, and three others, including Kehel Bedma Padkere on the detention department.
-
-◼️
-
-[Data](articles/7782eca5.json)
-
-[Extended Data](ext_articles/7782eca5.ext.json)
-
----
-
-### Padme's firearms and bullets meet
-
-*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/101-680277) · `si`
-
-The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
-
-A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
-
-This information has been revealed in the interrogation by the Western Provincial Council.
-
-සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් පස්දෙනකු පසුගියදා ඉන්දුනීසියාවේ ජාකාර්ථානුවරදී අත්අඩංගුවට ගැනීමෙන් අනතුරුව කෙහෙල් බද්දර පද්මේ ඇතුළු තිදෙනකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් නියෝග මත රඳවා තබා ඇත.
-
-◼️
-
-[Data](articles/e4e09f91.json)
-
-[Extended Data](ext_articles/e4e09f91.ext.json)
-
----
-
-### England arrives in Sri Lanka to give lives to 20 children
-
-*2025-09-26 14:54:12* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්-20කට-ජීවිත-දානය-දෙන්න-එංගලන්තයෙන්-වෛද්‍ය-කණ්ඩායමක්-කරාපිටියට-එයි/11-418742) · `si`
-
-The Karapitiya National Hospital came from England to do the heart surgery of children who are undergoing heart disease.  The team has now arrived at the Karapitiya hospital for the cardiac surgery of children every year.
-
-The director of Karapitiya National Hospital, Dr.SP Ranga says that about a week, the Director of Karapitiya National Hospital Dr.SP Ranga says.
-
-Dr. Swan Wijemuni, Chairman of the Department of Health and Media and Information Dr. Sissamala district of the Hon.. The Deputy Minister has also observed the infrastructure of the heart disease.
-
-◼️
-
-[Data](articles/6aac4c50.json)
-
-[Extended Data](ext_articles/6aac4c50.ext.json)
-
----
-
-### සම්පත් මනම්පේරිව දින 90ක් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර
-
-*2025-09-26 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215034) · `si`
-
-The Walasmulla Magistrate's Court today (26) has been granted to retain 90 days of reserves.
-
-He is remanded in connection with the hiding two containers containing two containers containing chemicals that are used to produce ice drugs in the Middeniya area.
-
-◼️
-
-[Data](articles/110416f2.json)
-
-[Extended Data](ext_articles/110416f2.ext.json)
-
----
-
-### 76th anniversary of the Chinese Republic
-
-*2025-09-26 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சீன-குடியரசின்-76ஆவது-ஆண்டு-நிறைவு-கொண்டாட்டம்/46-365327) · `ta`
-
-Chinnaman Life Hotel, a welcome ceremony to celebrate the 76th anniversary of the founding of the People's Republic of China, was held on Thursday (25).
-
-“This 76 -year journey through wind and rain has embodied the firm feet to make an ancient nation's refreshing dream come true. The Chinese nation, which has more than 5000 years of famous civilization, has risen through difficult efforts, progressed by reform and opening, and advanced in the waves of time. China's Ambassador to Sri Lanka Qi Zhenhong said at the welcome event, "It will undoubtedly achieve new pride in the new era, and make a new contribution to the noble purpose of human peace and development."
-
-◼️
-
-[Data](articles/44524ac3.json)
-
-[Extended Data](ext_articles/44524ac3.ext.json)
-
----
-
-### Now in the time of Thor-Shall
-
-*2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දන-තර-මර-අහවන-කල/1-680276) · `si`
-
-Headahaduwa District MP Jagath Manule is the time:
-
-Anura Dissanayake addressed the United Nations General Assembly that the opposition to corruption is dangerous.. Who will pay for the price? Because of these things that fell to the people of this country.  The COPE has been sitting in the posts of the governments of the governments of the contract.
-
-◼️
-
-[Data](articles/0d7f0461.json)
-
-[Extended Data](ext_articles/0d7f0461.ext.json)
 
 ---

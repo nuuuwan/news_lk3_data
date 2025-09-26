@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 12:13:40**
+As of **2025-09-26 12:38:28**
 
 ## Newspaper Stats
 
-*Scraped **78,242** Articles*
+*Scraped **78,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,604
+adalk | 7,605
 adaderanalk | 10,171
-tamilmirrorlk | 11,792
+tamilmirrorlk | 11,796
 virakesarilk | 12,731
 adaderanasinhalalk | 13,669
 
@@ -26,71 +26,169 @@ adaderanasinhalalk | 13,669
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,237 (100.0%) of 78,242 articles have been extended.
+78,244 (100.0%) of 78,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### கடைசிவரை போ​ராடி நிரூபிப்​பேன்:  பிரான்ஸ் முன்னாள் ஜனாதிபதி
+### முதிரைக்குற்றிகளுடன் வாகனம் விபத்து: சாரதி மாயம்
+
+*2025-09-26 12:16:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதிரைக்குற்றிகளுடன்-வாகனம்-விபத்து-சாரதி-மாயம்/72-365315) · `ta`
+
+வவுனியா புதுக்குளம் பகுதிக்கு அருகாமையில் முதிரைக்குற்றிகளை ஏற்றிச் சென்ற வாகனம் ஒன்று விபத்துக்குள்ளான நிலையில் பொலிஸாரால் மீட்கப்பட்டது.
+
+குறித்த வாகனம் இரணை இலுப்பகுளம் பகுதியில் இருந்து வவுனியா நோக்கி வந்து கொண்டிருந்த போது அங்கு கடமையில் இருந்த பொலிஸாரால் நிறுத்தப்பட்டுள்ளது. எனினும் அது நிறுத்தாமல் சென்றதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்நிலையில் புது குளத்திற்கு அண்மித்த பகுதியில்  விபத்துக்குள்ளான நிலையில் பொலிஸாரால் அவ் வாகனம் மீட்கப்பட்டது.
+
+◼️
+
+[Data](articles/c4a20ef2.json)
+
+---
+
+### திலீபனுக்கு தலைநகர் கொழும்பில் அஞ்சலி
+
+*2025-09-26 12:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலீபனுக்கு-தலைநகர்-கொழும்பில்-அஞ்சலி/175-365314) · `ta`
+
+தியாகதீபம் திலீபனின் 38ஆம் ஆண்டு நினைவேந்தலின் இறுதி நாள் அஞ்சலி நிகழ்வுகள் தமிழர் தாயகப் பகுதிகளிலும், புலம்பெயர் தேசங்களில் உணர்வெழுச்சியுடன் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+இந்நிலையில் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் இலங்கைத் தலைநகர் கொழும்பில் தியாக தீபம் திலீபனுக்கு 26.09.2025இன்று இறுதிநாள் அஞ்சலிகளைச்செலுத்தினார்.
+
+குறிப்பாக தற்போது செப்டம்பர் மாதத்திற்கான இரண்டாவது மாதாந்த பாராளுமன்ற கூட்டத்தொடர் இடம்பெற்றுவருகின்றன. ஆகவே குறித்த பாராளுமன்றக் கூட்டத் தொடரில் பங்கேற்பதற்காக பாராளுமன்ற உறுப்பினர் ரவிகரன் இலங்கைத் தலைநகர் கொழும்பில் தங்கியுள்ளார். இந்நிலையிலேயே அவரால் கொழும்பில் தியாக தீபம் திலீபனுக்கு அஞ்சலி செலுத்தப்பட்டுள்ளது.
+
+அந்த வகையில் தியாகதீபம் திலீபனின் திருவுருவப் படத்திற்கு சுடரேற்றப்பட்டு, மலர் தூவப்பட்டு உணர்வெழுச்சியுடன் மேற்கொள்ளப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c4b6a35e.json)
+
+---
+
+### Arrested for selling beer for students
+
+*2025-09-26 12:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-பீர்-விற்றவர்-கைது/175-365313) · `ta`
+
+Moneragala police arrested a man for selling beer on a motorbike for students in private classes and schools.
+
+Based on the information received by the Moneragala Police, Moneragala police arrested a man. The suspect is a 43 -year -old from Kumbukanai.
+
+It has been revealed that the students were given beer bottles and had three beer bottles on the motorcycle at the time of the arrest.
+
+When he went to buy a beer from a suspect who was on a motorcycle near Kumbukanna school, police sent a constable and arrested the suspect.
+
+The suspect and prosecutions have been taken to the Moneragala Magistrate's Court, police said.
+
+◼️
+
+[Data](articles/5aef3a6b.json)
+
+[Extended Data](ext_articles/5aef3a6b.ext.json)
+
+---
+
+### Asian Cup Super 4 round: India - Sri Lanka clashes today
+
+*2025-09-26 12:00:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பை-சூப்பர்-4-சுற்றில்-இந்தியா-இலங்கை-இன்று-மோதுகின்றன/44-365312) · `ta`
+
+The Sri Lankan team clashed in Duba tonight in the last Adut Dutt of the Asia Cup T20 Cricket Series.
+
+The Asian Cup T20 Cricket Series. The series, which has been mixed with 8 teams, is approaching the end. Suri Yagu Mar Yadav, the first two Ad Dung Clay in the Soup Bur, won the tippott.
+
+In the Soup Bur, the team defeated the Pakistan by 6 wiggles with their first Adut Dutt.. The 2nd Adath Dil Wang Katasa team was 41 runs with the Yasat Dil. In this case, the team clashes with Sri Lanka today in the last Adutt.. The game takes place in Dubai at 8 pm.
+
+Sri Lanka lost the chance to lose the end of the Tip Pott.. The team lost 4 wickets with the Yasat the Yasat the Lum and the Pakistani 5 wicked with the 5 wickets.. The team may be the best practitioner for the end of the time.
+
+...
+
+[Data](articles/c30c100b.json)
+
+[Extended Data](ext_articles/c30c100b.ext.json)
+
+---
+
+### Po Rady Prove Last to the Last: Former President of France
 
 *2025-09-26 11:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடைசிவரை-போ-ராடி-நிரூபிப்-பேன்-பிரான்ஸ்-முன்னாள்-ஜனாதிபதி/50-365311) · `ta`
 
-பி​ரான்​ஸில் கடந்த 2007-ம் ஆண்டு நடை​பெற்ற ஜனாதிபதி தேர்​தல் பிரச்​சா​ரத்​துக்​காக, லிபி​யா​வின் அப்​போதைய ஜனாதிபதி கடாஃபி​யிடம் சட்​ட​விரோத​மாக பணம் பெற்ற வழக்​கில், முன்​னாள் ஜனாதிபதி நிக்​கோலஸ் சர்​கோசிக்கு 5 ஆண்டு சிறை தண்​டனை விதிக்​கப்​பட்​டுள்​ளது.
+In 2007, President Tal Prasha Rath Dukkaka, who was held in 2007, has been sentenced to five years in prison for the President Nik Kohsi Sir Kosi, who has received the anti-President Gaddafi of the Libi Ya.
 
 பிரான்​ஸில் கடந்த 2007-ம் ஆண்டு நடந்த ஜனாதிபதி தேர்​தலில் நிக்​கோலஸ் சர்​கோசி வெற்றி பெற்று அதிப​ரா​னார். அப்​போது தேர்​தல் பிரச்​சா​ரத்​துக்​காக லிபி​யா​வின் அப்​போதைய ஜனாதிபதி மாமர் கடாஃபி​யிடம் இருந்து சட்​ட​விரோத​மாக நிதி பெற்​ற​தாக​வும், இதற்கு பிர​திபல​னாக, தனித்​து​விடப்​பட்ட லிபி​யா​வுக்கு சர்​வ​தேச அரங்​கில் பிரான்ஸ் ஆதர​வாக செயல்​படும் என நிக்​கோலஸ் சர்​கோசி உறு​தி​ அளித்ததாகவும் தெரியவந்தது.
+
+It is a series of funds that have been funded by the President of the Chairperson of the President.. President Nick Kolus Sir Kosi refused to do this. In this case, the verdict of the case yesterday. The Judicial Judiciary, who claimed that it was a hostile to Libi, that the President was hosting a five -year -old prisoner.
 
 ...
 
 [Data](articles/fbe6780d.json)
 
+[Extended Data](ext_articles/fbe6780d.ext.json)
+
 ---
 
-### විශේෂ මෙහෙයුමකින් 717ක් සැකපිට අත්අඩංගුවට
+### 717 arrested on a special operation
 
 *2025-09-26 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215029) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා පොලීසිය සිදුකරගෙන යනු ලබන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම්වලින් ඊයේ (25) දිනයේ දී පුද්ගලයින් 717ක් සැකපිට අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police say 717 persons were arrested on suspicion of criminal and drug prevention operations in Sri Lanka with the operations of the country.
 
-එමෙන්ම දිවයින පුරා මෙලෙස අපරාධවලට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම ඉදිරියේදී සිදුකරන බවද වැඩිදුර සඳහන්.
+Furthermore further stated that the arrest of suspects involved in crime island wide are carried out in the future.
 
-ඒ අනුව කොට්ඨාස මට්ටමින් සියලුම ප්‍රාදේශීය පොලිස් ස්ථාන ආවරණය වන පරිදි විශේෂ මෙහෙයුම් ක්‍රියාත්මක කර ඇත.
+Accordingly, special operations have been implemented covering all local police stations at the divisional level.
 
 ◼️
 
 [Data](articles/4502242d.json)
 
+[Extended Data](ext_articles/4502242d.ext.json)
+
 ---
 
-### නාමල්ගේ ක්‍රිෂ් නඩුවට අධිකරණයෙන් නියෝගයක්
+### Court orders Namal's Crish case
 
 *2025-09-26 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215028) · `si`
 
-ක්‍රිෂ් ගනුදෙනුව සම්බන්ධයෙන් හිටපු අමාත්‍ය නාමල් රාජපක්ෂ මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුවේ කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ පවතින මුල් නඩු වාර්තාව කැඳවීමට පියවර ගන්නා ලෙස කොළඹ මහාධිකරණය අද (26) එහි රෙජිස්ට්‍රාර්වරයාට නියම කළේය.
+The Colombo High Court today (26) was appointed to the Registrar of the Fort Magistrate's Court today.
 
-මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු නදී අපර්ණා සුවඳුරුගොඩ මහත්මිය ඉදිරියේ කැඳවනු ලැබුවාය.
+The case was called before the Colombo High Court Judge Armgar Spanishman.
 
-◼️
+Sampath Mendis, who appeared in behalf of MP Namal Rajapaksa at the time, said that some of the documents asked by the defendant said that the complaint was not given by the Complaint.
+
+The President's Counsel said that the documents were very important to face a fair trial.
+
+Deputy Solicitor General Wasantha Perera, appearing on the response, said that many of the documents were requested by the defendant.
+
+He added that the scribes that the Criminal Investigations Department (CID) will be provided with the documents mentioned by the defendant not yet received.
+
+The judge said the judge said to be able to provide the documents requesting them to the next day before the next day.
+
+The judge also ordered to be summoned for the previous trial seminar on the 18th of December.
+
+...
 
 [Data](articles/1d067895.json)
 
+[Extended Data](ext_articles/1d067895.ext.json)
+
 ---
 
-### 'පද්මේ' සඟවා තිබූ පිස්තෝලයක් පෑලියගොඩින් හමුවෙයි
+### Pujotha found a hidden pistol
 
 *2025-09-26 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215027) · `si`
 
-පාතාල කල්ලි සාමාජික 'කෙහෙල්බද්දර පද්මේ' විසින් සඟවා තැබූ බව පැවසෙන ටී-56 පතොරම් 500කට අධික ප්‍රමාණයක් පෑලියගොඩ මාළු වෙළෙඳසැළ අසලින් සොයාගෙන තිබේ.
+More than 500 T-56 ammunition, which is said to be hidden by the underworld gang member, has been recovered from the fish shot of Peliyagoda.
 
-මෙහිදී ටී-56 මැගසින් 4ක්, මයික්‍රෝ පිස්තෝලයක් ද සොයා ගැනීමට පොලීසියට හැකිව ඇත.
+The police can also find 4 T-56 Magazines and a micro pistol.
 
-බස්නාහිර පළාත් උතුරු අපරාධ කොට්ඨාශය විසින් කරනු ලැබූ ප්‍රශ්න කිරීමේදී වලදී මෙම තොරතුරු අනාවරණය වී තිබේ.
+This information has been revealed in the interrogation by the Western Provincial Council.
 
-සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් කිහිප දෙනෙකු පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට පත්විය.
+The underworld gangs were arrested in Indonesia recently.
 
 ◼️
 
 [Data](articles/7de9783d.json)
+
+[Extended Data](ext_articles/7de9783d.ext.json)
 
 ---
 
@@ -310,6 +408,22 @@ Ratnapuri: Elapatha, Kalana, Belmatulla Divisional Secretariat Division and adjo
 
 ---
 
+### ජනාධිපති මන්දිර අටක් නඩත්තුවට කෝටි අටක්
+
+*2025-09-26 09:57:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-මන්දිර-අටක්-නඩත්තුවට-කෝටි-අටක්/11-418733) · `si`
+
+නාධිපති මන්දිර අටක් නඩත්තු කිරිම සදහා ඉකුත් වර්ෂයේ (2024)  රුපියල් අටකෝටි,එක්ලක්ෂ,පනස්හතරදහස් හාරසියවිසිදෙකක මුදලක් (80,154,422)  ජනාධිපති ලේකම් කාර්යාලය මගින් වැයකොට ඇති බව අනාවරණය වි ඇත.
+
+මෙම ජනාධිපති මන්දිරවල  ආරක්ෂක අංශ නිලධාරින් 392ක්, සිවිල්  සේවකයින් 16 දෙනෙකු  සේවයේ යෙදි තිබුණි. සිවිල් සේවකයින් 16 දෙනෙකු සදහා වැටුප් හා දිමනා  ගෙවිම සදහා ඉකුත් වර්ෂයේ  (2024)  දි රුපියල්  එක්කෝටි,තිස්හත්ලක්ෂ,හතලිස්එකදහස්,අසුවක මුදලක් (13,741,080) වැයකොට තිබුණි.
+
+ජනාධිපති ලේකම් කාර්යාල සම්බන්දයෙන් 2024 වර්ෂයට අදාළව නිකුත්කොට ඇති වාර්ෂික කාර්යසාධන වාර්තාවට  ඇතුලත්කොට ඇති  විගණන වාර්තාව මගින් මෙම තොරතුරු අනාවරණය වි තිබුණි.
+
+◼️
+
+[Data](articles/c9537790.json)
+
+---
+
 ### Trump announces 100% tariff on branded or patented pharmaceutical imports from Oct 1
 
 *2025-09-26 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112929/trump-announces-100-tariff-on-branded-or-patented-pharmaceutical-imports-from-oct-1) · `en`
@@ -332,19 +446,21 @@ Earlier this year, the Trump administration launched a probe into imports of tru
 
 ---
 
-### බාහිර උපාධිවල ගුණාත්මකභාවය අවාධානයට
+### External degree quality attention
 
 *2025-09-26 09:52:27* · [`adalk`](https://www.ada.lk/breaking_news/බාහිර-උපාධිවල-ගුණාත්මකභාවය-අවාධානයට/11-418732) · `si`
 
-උසස් අධ්‍යාපන අංශය පිළිබඳ අනු කාරක සභාව විශ්වවිද්‍යාල උපකුලපතිවරුන් සමඟ ශ්‍රී ලංකාවේ විශ්වවිද්‍යාලවට සම්බන්ධ කරුණු කිහිපයක් පිළිබඳව සාකච්ඡා කිරීම සිදු විය.
+The Deputy Committee on Higher Education Division discussed several issues related to the University of Sri Lanka with the University Vice Chancellors.
 
-මේ පිළිබඳ සාකච්ඡා කිරීම සිදු වූයේ මෙම අනු කාරක සභාව ගරු නියෝජ්‍ය අමාත්‍ය (වෛද්‍ය) මධුර සෙනෙවිරත්න මහතාගේ සභාපතිත්වයෙන් පසුගියදා (23) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+The discussion was held at the Chairman of the Hon. Deputy Minister (Dr.) Madura Seneviratne met in parliament recently.
 
-මෙහිදී ආබාධ සහිත ළමුන් විශ්වවිද්‍යාල සඳහා බඳවා ගැනීමට අවශ්‍ය ප්‍රතිපත්තිය සකස් කිරීම පිළිබඳ අනු කාරක සභාවේ අවධානය යොමු වූ අතර මේ වන විටත් එම ප්‍රතිපත්තියේ කෙටුම්පත සකස් කොට අවසන් වී ඇති බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පෙන්වා දෙන ලදී. මේ අනුව එම කෙටුම්පත විශ්වවිද්‍යාල උපකුලපතිවරුන්ට ලබා දෙන බවද මෙහිදී විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ නිලධාරීහු පැවසූහ.
+The University Grants Commission (UGC) pointed out that the draft of the policy has already been completed and completed.. Accordingly, the Draft Commission said that the draft will be given to the University Vice Chancellor.
 
 ...
 
 [Data](articles/d53b0142.json)
+
+[Extended Data](ext_articles/d53b0142.ext.json)
 
 ---
 
@@ -1843,111 +1959,5 @@ At December 31, 2025, the Digital Task Force officials have pointed out that the
 [Data](articles/ea4b0a42.json)
 
 [Extended Data](ext_articles/ea4b0a42.ext.json)
-
----
-
-### Former French President sentenced to prison
-
-*2025-09-25 18:06:47* · [`adalk`](https://www.ada.lk/international/ප්‍රංශ-හිටපු-ජනපතිට-වසර-පහක-සිර-දඩුවම්/3-418726) · `si`
-
-Libyan captain Colonel Muammar Gaddafgan has been sentenced to a five-year imprisonment in connection with the presence of the President's Presidential Fund.
-
-After the trial, the 70-year-old Sarkoy, the President of France from 2007 to 2012, was the President of France from 2007 to 2012 and called the verdict as a "extremely serious" to the domination of law.
-
-Sarkoy said the case was politically motivated by the 2007 funds received from Gaddafiga to finance the 2007 election campaign
-
-◼️
-
-[Data](articles/661693f0.json)
-
-[Extended Data](ext_articles/661693f0.ext.json)
-
----
-
-### Former French President Sarkozy sentenced to 5 years jail in Libya financing scandal
-
-*2025-09-25 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/112916/former-french-president-sarkozy-sentenced-to-5-years-jail-in-libya-financing-scandal) · `en`
-
-Former French president Nicolas Sarkozy was sentenced to five years in jail on Thursday (Sep 25) after being found guilty of criminal conspiracy over efforts by close aides to procure funds for his 2007 presidential bid from Libya during the rule of late dictator Muammar Gaddafi.
-
-Sarkozy was acquitted by a Paris court of all other charges, including corruption and receiving illegal campaign financing.
-
-But the ruling means the former president will spend time in jail even if he appeals, a sentence much harsher than many expected.
-
-Sarkozy, who has always denied the charges, was accused of making a deal with Gaddafi in 2005, when he was France’s interior minister, to obtain campaign financing in exchange for supporting the then-isolated Libyan government on the international stage.
-
-...
-
-[Data](articles/7c274e55.json)
-
-[Extended Data](ext_articles/7c274e55.ext.json)
-
----
-
-### The death of India, Russia and Romania
-
-*2025-09-25 17:48:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-ரஷ்யா-ருமேனியா-துறவிகளும்-மரணம்/175-365284) · `ta`
-
-Seven Buddhist monks were killed when a cable carriage broke out at 9 pm on Wednesday (24) at 9 pm.
-
-At the time of the accident, 13 Buddhist monks traveled. The dead monks include foreign monks. Six of the wounds have been admitted to the Kurunegala Hospital. It is also known that the situation of some of them is worrisome.
-
-Police say the accident occurred when the meditation huts at the top of the hill are approaching.
-
-The deceased monks include three monks from Russia, Romania and India.  The monks between the ages of 27 and 48 have died.
-
-Dhamma Ranjit Thera (47) from Romania, Dhamma Rakitha Thera (34 years old) from Russia, Dhamma Kaveshi Thera (34 years old) from India, Uttara Nanda Thera (27 years old) from Navalapitiya, Sudha Sumana Thera (37) and Nugakoda Thera (37).
-
-Although seven people can travel simultaneously in the cable car, 13 monks traveled it at the time of the accident, police say.
-
-...
-
-[Data](articles/458d4cb2.json)
-
-[Extended Data](ext_articles/458d4cb2.ext.json)
-
----
-
-### “A big noise suddenly heard”
-
-*2025-09-25 17:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-பெரிய-சத்தம்-திடீரென்று-கேட்டது/175-365283) · `ta`
-
-"A great noise from the wild side suddenly, heard. A signal from the monastery was given in a while, it refers to the emergency. It was only then that we all went to the scene, ”said a locals.
-
-Seven Buddhist monks were killed when a cable carriage broke out at 9 pm on Wednesday (24) at 9 pm.
-
-At the time of the accident, 13 Buddhist monks traveled. The dead monks include foreign monks. Six of the wounds have been admitted to the Kurunegala Hospital. It is also known that the situation of some of them is worrisome.
-
-Police say the accident occurred when the meditation huts at the top of the hill.. A local resident said in a statement on the incident.
-
-◼️
-
-[Data](articles/6d4133a3.json)
-
-[Extended Data](ext_articles/6d4133a3.ext.json)
-
----
-
-### Former French President sentenced to five years in prison
-
-*2025-09-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215005) · `si`
-
-Former President Nicolas Sarkow has been sentenced to five years in prison.
-
-Foreign media reports that the former French president was convicted of the lawsuit of euros for millions of euros from Libyan leader Colonel Mumammer Gaddafige.
-
-The Paris Criminal Court was acquitted of all other accusations in the case, including providing money for the inactive corruption and illegal election propaganda.
-
-Sarkozy said that the case was politically motivated by the 2007 election campaign.
-
-Instead, the complaint was accused of supporting Gaddafi's reputation against Gaddafi's reputation in the West.
-
-70-year-old Sarkoy was the President of France from 2007 to 2012.
-
-◼️
-
-[Data](articles/44317dba.json)
-
-[Extended Data](ext_articles/44317dba.ext.json)
 
 ---

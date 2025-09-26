@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 05:56:18**
+As of **2025-09-26 08:18:15**
 
 ## Newspaper Stats
 
-*Scraped **78,190** Articles*
+*Scraped **78,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,183 @@ newsfirstlk | 363
 dbsjeyarajcom | 634
 bbccomsinhala | 677
 colombotelegraphcom | 792
-economynextcom | 4,717
+economynextcom | 4,718
 dailymirrorlk | 4,733
 islandlk | 4,804
-dailyftlk | 5,549
-adalk | 7,599
-adaderanalk | 10,160
+dailyftlk | 5,553
+adalk | 7,600
+adaderanalk | 10,161
 tamilmirrorlk | 11,785
-virakesarilk | 12,719
-adaderanasinhalalk | 13,658
+virakesarilk | 12,722
+adaderanasinhalalk | 13,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,170 (100.0%) of 78,190 articles have been extended.
+78,198 (100.0%) of 78,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### 2019 වසරේ තිබුණ ආර්ථිකයට 2026 දී ළඟාවෙන්න පුළුවන් - ජනපති
+
+*2025-09-26 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215020) · `si`
+
+ශ්‍රී ලංකාව ආර්ථික අර්බුදයකට ලක්වීමට පෙර 2019 වසරේ තිබූ තත්ත්වයට ලබන වසරේ දී යාමට හැකිවනු ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට එක්ව සිටින ජනාධිපතිවරයා අමෙරිකාවේ වෙසෙන ශ්‍රී ලාංකිකයින් නිව්යෝර්ක්හිදී හමු වූ අවස්ථාවේ දී මේ බව පැවසීය.
+
+මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසා සිටියේ, 2022 වසරේ දී නිල වශයෙන් බංකොළොත් රාජ්‍යයක් බවට වූ ශ්‍රී ලංකාව, අද එම අර්බුදය වේගයෙන් සමනය කරගත් රාජ්‍යයක් බවට පත්ව ඇති බවයි.
+
+"ජනාධිපතිවරයෙන් ලබාගත් ජයග්‍රහණයට විශාල සහයෝගයක් විදෙස් ගත ශ්‍රී ලාංකිකයන් ඉටුකළා. මූල්‍යමය ලෙස උදව් කළා. ඒ දායකත්වය ජයග්‍රහණ ලබාගන්න හේතු වුණා.
+
+අපි 2019 මැතිවරණයේ දී 3%කට ආසන්න ඡන්ද ප්‍රතිඵලයක් හිමිව තිබූ ව්‍යපාරයක්. නමුත් 2024 ජනාධිපතිවරණයේදීත්, පසුව පැවති මහ මැතිවරණයේදීත් ලංකා ඉතිහාසයේ වැඩිම මන්ත්‍රී ධුර සංඛ්‍යාවක් හිමිකරගනිමින් ජයග්‍රහණය කරන්න ලැබුණා.
+
+2022 අප්‍රේල් 12 වනදා එවක ශ්‍රී ලංකාව නිල වශයෙන් ප්‍රකාශයට පත්කළා අපි ණය ගෙවන්නේ නෑ. බංකොළොත් රාජ්‍යයක් බවට පත්වුණා කියලා.
+
+...
+
+[Data](articles/49a73997.json)
+
+---
+
+### Sri Lanka sells extra Rs275mn Treasury bills after auction
+
+*2025-09-26 07:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs275mn-treasury-bills-after-auction-241929/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 275 million rupees of treasury bills offered on tap at average rates of 7.57 percent and 8.02 percent, the state debt office said, bringing the total of bills sold this week to 34.62 billion rupees.
+
+On Wednesday (24) the debt office raised 34.35 billion rupees of 3, 6 and 12 month bills, after offering 38 billion.
+
+Sri Lanka sells less than offered treasury bills, yields flat
+
+◼️
+
+[Data](articles/3bb2f97a.json)
+
+[Extended Data](ext_articles/3bb2f97a.ext.json)
+
+---
+
+### Showery conditions expected to continue in parts of the island
+
+*2025-09-26 06:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112922/showery-conditions-expected-to-continue-in-parts-of-the-island) · `en`
+
+Prevailing showery condition over the south western parts of the island is expected to continue for the next 24 hours today (26), the Department of Meteorology said.
+
+Showers will occur at times in Western, Sabaragamuwa, North-western and Southern provinces and in Kandy and Nuwara-Eliya districts.
+
+Heavy rainfall of above 100 mm are likely at some places in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, it said.
+
+Light showers may occur in North-central province and in Matale, Mannar and Jaffna districts.
+
+Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Central, Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts, the Met Department added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+◼️
+
+[Data](articles/0c1482fb.json)
+
+[Extended Data](ext_articles/0c1482fb.ext.json)
+
+---
+
+### A heavy rain over 100 mm millimeters today
+
+*2025-09-26 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215017) · `si`
+
+The latest Department of Meteorologies today (26), the Department of Meteorologies will be expected in the next 24 hours.
+
+Thundershowers at times in the Western, Sabaragamuwa, Sabaragamuwa, Southern provinces and in the Kandy and Nuwara Eliya districts.
+
+In some places in the Western, Sabaragamuwa and North Western provinces, in some places in Galle, Matara, Kandy and Nuwara Eliya districts. Heavy rains may occur over 100.
+
+The North-Central province and Matale, Mannar and Jaffna districts will occur.
+
+At times, there are now in the Central, North, North, North-Central and North Western provinces and in the North Western Provinces.. (40-50) can cause strong winds.
+
+The public requests the public to take steps to minimize accidents caused by strong winds.
+
+◼️
+
+[Data](articles/13f8cd97.json)
+
+[Extended Data](ext_articles/13f8cd97.ext.json)
+
+---
+
+### Genocide, incitement to genocide and impunity
+
+*2025-09-26 05:59:40* · [`dailyftlk`](https://www.ft.lk/columns/Genocide-incitement-to-genocide-and-impunity/4-782203) · `en`
+
+A classmate’s sister contacted me about three years ago, to say that she was finding it difficult to get a visa to Israel, and that she had heard that I knew the Honorary Consul. I responded immediately. Despite much difficulty, I managed to track the then Honorary Consul down in a country he was taking up residence in. We recalled the many Israel National Days he had invited me to, then taking kindly to the many repeated WhatsApp reminders I sent him, he intervened and through his counterparts in India got her the visa.
+
+...
+
+[Data](articles/d36d749a.json)
+
+[Extended Data](ext_articles/d36d749a.ext.json)
+
+---
+
+### From Panama to Pandora — but never to Hulftsdorp
+
+*2025-09-26 05:53:16* · [`dailyftlk`](https://www.ft.lk/columns/From-Panama-to-Pandora-but-never-to-Hulftsdorp/4-782202) · `en`
+
+“From Panama to Pandora” will still read like a road that bends away from Hulftsdorp
+
+Despite new laws and action plans, Sri Lanka’s response to the Pandora Papers has yielded press releases but no prosecutions — leaving Hulftsdorp absent from the accountability trail
+
+ICIJ’s leaks sparked loud announcements, interagency hand-offs and new laws. Four years on, Sri Lanka has asset portals and press releases — but still no public indictments from Pandora. Where, exactly, does this investigation lead?
+
+...
+
+[Data](articles/c4a506cb.json)
+
+[Extended Data](ext_articles/c4a506cb.ext.json)
+
+---
+
+### Asia-Pacific advances agenda for living wages
+
+*2025-09-26 05:45:56* · [`dailyftlk`](https://www.ft.lk/business/Asia-Pacific-advances-agenda-for-living-wages/34-782200) · `en`
+
+Delegates of International Labour Organisation (ILO) at High-Level Regional Dialogue
+
+Regional dialogue strengthens commitment to inclusive wage-setting aligned with ILO principles
+
+The Asia-Pacific region can demonstrate that living wages are achievable through a systematic approach grounded in social dialogue and evidence-based wage systems, participants at a regional dialogue organised by the International Labour Organisation (ILO) heard.
+
+‘Shaping the living wage agenda in Asia and the Pacific – A High-Level Regional Dialogue under the Global Coalition for Social Justice’ took place 23-26 September in Colombo, Sri Lanka. The event brought together participants from 16 countries to explore making living wages a reality for all workers in Asia and the Pacific.
+
+...
+
+[Data](articles/7c224190.json)
+
+[Extended Data](ext_articles/7c224190.ext.json)
+
+---
+
+### Hayleys Fibre commissions Rs. 600 m coir processing facility to boost exports and rural jobs
+
+*2025-09-26 05:44:19* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fibre-commissions-Rs-600-m-coir-processing-facility-to-boost-exports-and-rural-jobs/34-782199) · `en`
+
+Newly commissioned Rs. 600 million integrated coir processing facility by Hayleys Fibre in Kadigawa, Nikaweratiya, spanning 48-acres in the heart of Sri Lanka’s Coconut Triangle
+
+Hayleys Fibre, a member of the Hayleys Group, announced the commissioning of a Rs. 600 million coir processing facility in Kadigawa, Nikaweratiya, one of the largest recent investments in Sri Lanka’s coconut sector.
+
+The 48-acre site, located in the heart of Sri Lanka’s Coconut Triangle, integrates husk processing, fibre extraction, coco peat milling, drying, and storage within a single facility. Designed to meet nearly one third of the company’s raw material requirements, the operation consolidates every stage of the coir value chain on a single site, enhancing efficiency, quality, and reliability.
+
+...
+
+[Data](articles/9dad5d51.json)
+
+[Extended Data](ext_articles/9dad5d51.ext.json)
+
+---
 
 ### First Capital and Hatch partner to launch ‘First Capital Startup Nation’
 
@@ -43,6 +201,8 @@ First Capital Holdings PLC, a subsidiary of JXG (Janashakthi Group) has stepped 
 ...
 
 [Data](articles/4025ca56.json)
+
+[Extended Data](ext_articles/4025ca56.ext.json)
 
 ---
 
@@ -64,6 +224,8 @@ UN Global Compact Network Sri Lanka Executive Director Rathika de Silva.
 
 [Data](articles/2c9f0ccd.json)
 
+[Extended Data](ext_articles/2c9f0ccd.ext.json)
+
 ---
 
 ### Inaugural National AI Expo and Conference kicks off next week
@@ -79,6 +241,8 @@ Under the theme “In Pursuit of AI”, the Expo will demonstrate how artificial
 ...
 
 [Data](articles/db86d577.json)
+
+[Extended Data](ext_articles/db86d577.ext.json)
 
 ---
 
@@ -96,6 +260,8 @@ HFL’s A+(lka) rating comprises its standalone credit profile of ‘a(lka)’ a
 
 [Data](articles/6480e536.json)
 
+[Extended Data](ext_articles/6480e536.ext.json)
+
 ---
 
 ### Sri Lanka Pavilion shines at Foodex Saudi 2025
@@ -109,6 +275,8 @@ This marked Sri Lanka’s second participation in the Kingdom’s premier food a
 ...
 
 [Data](articles/33a13adc.json)
+
+[Extended Data](ext_articles/33a13adc.ext.json)
 
 ---
 
@@ -126,6 +294,8 @@ Dinemore Founder M.S.M. Rishard said: “We are proud to unveil DinemoreGo, whic
 
 [Data](articles/a83b1f67.json)
 
+[Extended Data](ext_articles/a83b1f67.ext.json)
+
 ---
 
 ### President AKD calls for global unity against poverty, corruption, and war at 80th UN General Assembly
@@ -139,6 +309,8 @@ President Anura Kumara Disanayake on Wednesday addressed the 80th session of the
 ...
 
 [Data](articles/46caf975.json)
+
+[Extended Data](ext_articles/46caf975.ext.json)
 
 ---
 
@@ -156,6 +328,8 @@ However, responding to the Opposition’s criticism, Speaker Dr. Wickramaratne y
 
 [Data](articles/d6a6fc13.json)
 
+[Extended Data](ext_articles/d6a6fc13.ext.json)
+
 ---
 
 ### CoPF considers regulations under Imports and Exports (Control) Act
@@ -165,6 +339,64 @@ However, responding to the Opposition’s criticism, Speaker Dr. Wickramaratne y
 ...
 
 [Data](articles/99a25474.json)
+
+[Extended Data](ext_articles/99a25474.ext.json)
+
+---
+
+### President - UN. General Secretary Antonio Cutters Meeting
+
+*2025-09-26 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226093) · `ta`
+
+United Nations Secretary -General António Guterres on Thursday afternoon in New York, New York. President Anura Kumara Dissanayake met at the headquarters.
+
+The meeting was held at the meeting and the President had extensively explained to the General Secretary about the government's plans to bring Sri Lanka to new heights in economic, social and politically.
+
+It is noteworthy that General Secretary Gutarez has praised the plans and promised to give them full support.
+
+◼️
+
+[Data](articles/46ecfdd0.json)
+
+[Extended Data](ext_articles/46ecfdd0.ext.json)
+
+---
+
+### Central Provincial Officers to Awareness on Digitalization of Central Province and AI Technology
+
+*2025-09-26 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226092) · `ta`
+
+The first provincial level event will be held at the Kandy District Secretariat at 1.30 pm on Friday (26) at 1.30 pm.
+
+The event is aimed at explaining the government's digitalization projects and the improving the knowledge of the authorities on the use of AI technology and is scheduled to be held with the participation of all the executive officers of the Central Provincial Council, District Secretariats, Divisional Secretariats and other state institutions.. Six awareness programs for state officials have been conducted on digitalization and AI technology based in Colombo, which has so far participated in which more than 4,000 officials participated.
+
+...
+
+[Data](articles/1b984931.json)
+
+[Extended Data](ext_articles/1b984931.ext.json)
+
+---
+
+### Archana's laughter in the congregation by MP's claim
+
+*2025-09-26 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226091) · `ta`
+
+Do not close the public toilet at the main gate of Parliament at 04.30 pm. Jaffna Member of Parliament Ramanathan Archana Ramanathan urged the Speaker to mention not to lock the night.
+
+Those in the congregation laughed aloud and the Speaker laughed.
+
+Speaking at a session held in Parliament on Thursday (25), I am referring to the Archana Status Command 141.. Police say that the public toilet at the main gate of Parliament will be closed at 04.30 pm and therefore inconveniences.
+
+So do not close the public toilet and not lock at night.
+
+All those in the congregation listened to this idea of ​​Archana smiled aloud. Speaker Jagath Wickramaratne, who presided over the House, laughed and laughed at the House.
+
+◼️
+
+[Data](articles/dc02e95b.json)
+
+[Extended Data](ext_articles/dc02e95b.ext.json)
 
 ---
 
@@ -320,6 +552,8 @@ Unlike technical AI courses, this program is designed to bridge the gap between 
 
 [Data](articles/32db701e.json)
 
+[Extended Data](ext_articles/32db701e.ext.json)
+
 ---
 
 ### HUTCH, the only telecom brand to triumph at SLIM Premier Digital Awards
@@ -333,6 +567,8 @@ Organized by the Sri Lanka Institute of Marketing (SLIM), SLIM Digis is the coun
 ...
 
 [Data](articles/742be6b8.json)
+
+[Extended Data](ext_articles/742be6b8.ext.json)
 
 ---
 
@@ -350,6 +586,8 @@ HUTCH, the only telecom brand to triumph at SLIM Premier Digital Awards
 
 [Data](articles/87bdbd6b.json)
 
+[Extended Data](ext_articles/87bdbd6b.ext.json)
+
 ---
 
 ### Standard Chartered appoints Praveen Karunaratne to Country Management Team
@@ -365,6 +603,8 @@ Standard Chartered’s Financial Institutions business provides essential servic
 ...
 
 [Data](articles/05bd569d.json)
+
+[Extended Data](ext_articles/05bd569d.ext.json)
 
 ---
 
@@ -384,6 +624,8 @@ CSE bull –run triggered by NTB-HSBC deal and SEC’s market development plans
 
 [Data](articles/67f191a6.json)
 
+[Extended Data](ext_articles/67f191a6.ext.json)
+
 ---
 
 ### IASL hosts 16th NAFLIA Conference, driving growth
@@ -395,6 +637,8 @@ The Insurance Association of Sri Lanka (IASL), through its Marketing and Sales F
 ...
 
 [Data](articles/625e3998.json)
+
+[Extended Data](ext_articles/625e3998.ext.json)
 
 ---
 
@@ -409,6 +653,8 @@ Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has unveiled a new su
 ...
 
 [Data](articles/f0b0ae35.json)
+
+[Extended Data](ext_articles/f0b0ae35.ext.json)
 
 ---
 
@@ -801,6 +1047,22 @@ The government has said the existing SVAT will be removed from October 1.
 [Data](articles/234d3092.json)
 
 [Extended Data](ext_articles/234d3092.ext.json)
+
+---
+
+### ජනපති සහ ට්‍රම්ප්ගේ විශේෂ නියෝජිත අතර හමුවක්
+
+*2025-09-25 18:10:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-ට්‍රම්ප්ගේ-විශේෂ-නියෝජිත-අතර-හමුවක්/11-418727) · `si`
+
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගි වීම සඳහා ඇමරිකා එක්සත් ජනපදයට ගොස් සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දකුණු සහ මධ්‍යම ආසියාව සඳහා ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතාගේ විශේෂ නියෝජිත, එක්සත් ජනපදය විසින් ඉන්දියාවට නම් කරන ලද තානාපති සහ ධවල මන්දිර ජනාධිපති කාර්ය මණ්ඩල අධ්‍යක්ෂ සර්ජියෝ ගෝර් (Sergio Gor) මහතා අතර හමුවක් එක්සත් ජාතීන්ගේ සංවිධානයේ ශ්‍රී ලංකාවේ නිත්‍ය නියෝජිත කාර්යාලයේදී පැවැත්විණි.
+
+මෙම හමුවේදී වෙළෙඳ, වාණිජ, සංචාරක සහ ආයෝජන ඇතුළු දෙරටට වැදගත් ක්ෂේත්‍ර පිළිබඳ අවධානය යොමු වූ අතර එම ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් වර්ධනය කර ගැනීම පිළිබඳව සාකච්ඡා විය.
+
+පෙර නොවූ විරු ආර්ථික අර්බුදයකින් පසු, ශක්තිමත් ජනවරමක් සහිත නව රජයක් ලෙස, ආර්ථික වර්ධනය ඉලක්ක කරගත් සමෘද්ධිමත් ආර්ථිකයක් සඳහා වන ප්‍රමුඛතාවය මත ඇමරිකා එක්සත් ජනපදය සමඟ ක්‍රියාකාරී මෙන්ම වඩා සමීප සම්බන්ධතාවයක් පවත්වා ගැනීමට බලාපොරාත්තු වන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී සදහන් කළේය.
+
+...
+
+[Data](articles/082bf8ad.json)
 
 ---
 
@@ -1769,241 +2031,5 @@ Forty-year-old suspect arrested by police and produced before the Siyambalanduwa
 [Data](articles/43a8955d.json)
 
 [Extended Data](ext_articles/43a8955d.ext.json)
-
----
-
-### Underworld Group Chairman Becko Saman's wife
-
-*2025-09-25 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226042) · `ta`
-
-The Colombo Magistrate's Court has ordered Shadika Lakshani, the wife of the underworld leader of the underworld, Peko Samanam, which is currently being interrogated under the Prevention of Money Laundering Act.
-
-Colombo Chief Magistrate Asanga S. Bodaragama issued the order after considering the submissions submitted by the Criminal Investigation Department and the Attorneys of the suspect.
-
-The Magistrate has also instructed the Criminal Investigation Department to submit the summary of evidence on how the suspect is associated with the alleged drug trafficking in Mitteniya.
-
-On August 29, the wife and child of the underworld, Peko Samanamala, who arrived at the Bandaranaike International Airport, were arrested by the Criminal Investigation Department officials.
-
-◼️
-
-[Data](articles/6651490b.json)
-
-[Extended Data](ext_articles/6651490b.ext.json)
-
----
-
-### Sri Lanka opposition to bring no-confidence motion against speaker
-
-*2025-09-25 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-to-bring-no-confidence-motion-against-speaker-241850/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s opposition will bring a no-confidence motion against Parliament speaker Jagath Wickramaratne, MP Ajith Perera said.
-
-“The opposition has decided to table a no-confidence motion against the speaker at the right time,” Perera told parliament.
-
-“If the speaker himself breaks standing orders, if the speaker himself violates standing order 76 1, if the speaker takes upon himself a power he does not possess, if the speaker prevents parliamentarians, this country’s public representatives, from speaking – denying them their supreme rights, there is no greater crime, deputy speaker.”
-
-“The speaker is not suitable for this chair; he does not have the discipline, he does not have impartiality.”
-
-Jagath Wickramaratne is the National Peoples Power governments second speaker.
-
-He replaced Ashoka Ranwala who resigned after a month in the post after his claim to have a PhD was questioned.(Colombo/Sep25/2025)
-
-◼️
-
-[Data](articles/49d1901d.json)
-
-[Extended Data](ext_articles/49d1901d.ext.json)
-
----
-
-### Celebrates World Ayurvedic Day for Man and Earth
-
-*2025-09-25 12:32:44* · [`adalk`](https://www.ada.lk/business/මිනිසා-සහ-මිහිකත-වෙනුවෙන්-ලෝක-ආයුර්වේද-දිනය-සමරයි/7-418717) · `si`
-
-World Ayurvedic day celebrates the world's ancient, living philosophy, ayurveda, and celebrate the Danniyan God's birthday. Ayurveda is not just medicality and it is not just a healthy, and it is to highlight the importance of a sustainable lifestyle.
-
-මෙම දිනයේ අභිමතාර්ථය වනුයේ ආයුර්වේදයේ වැදගත්කම පිළිබඳව ගෝලීය දැනුවත්භාවය ඉහළ නැංවීම, සෞඛ්‍යය සම්පන්න ජීවන රටාවන් දිරිමත් කිරීම, සාම්ප්‍රදායික දැනුම ආරක්ෂා කිරීම සහ ජීවන රටා හා බැඳුණු ශාරීරික, මානසික සහ සමාජීය විපර්යාස වැනි වර්තමාන ජීවන රටාව හා බැඳුණු අභියෝගවලට ආයුර්වේදය තුළින් පිළිතුරු ලබාදීමය.
-
-As a pioneer in the field of Ayurveda, the Link Natural, "Ayurvedic knowledge for man and the earth," is emphasized to maintain the balance of Ayurvedic knowledge of man and the ecological knowledge of the ecosystem not only for man's well-being.. Ancient Ayurvedic Group is more suitable and important in relation to the past.
-
-...
-
-[Data](articles/4cbdbdb5.json)
-
-[Extended Data](ext_articles/4cbdbdb5.ext.json)
-
----
-
-### Israel's Israeli attack
-
-*2025-09-25 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214994) · `si`
-
-More than 80 people were killed in attacks on Gaza yesterday.
-
-Most of the dead people reported that Gaza was town.
-
-About 20 people were killed in a building that was detained in a large number of families displaced in Gaza last night.
-
-There are also children and women among the dead.
-
-Responding to the attacks, Israel said that Israeli said that the attack targeting Hamas militants.
-
-◼️
-
-[Data](articles/e167e040.json)
-
-[Extended Data](ext_articles/e167e040.ext.json)
-
----
-
-### Manusha tomorrow a bribery calling tomorrow
-
-*2025-09-25 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214993) · `si`
-
-Dr. Nasha Nanayakkara, the Minister of Labor and Foreign Employment in 2023, a banner has been taken to the Investigation Commission tomorrow (26).
-
-Former Minister Manusha Nanayakkara has informed the Bribery or Corruption Commission to send these statements regarding the sending of the Sri Lankan workers in the Agricultural Sector Employment and the Sri Lanka Bureau of Foreign Employment and Israeli.
-
-The event was summoned to the Commission on 08.09.2010, but he had failed to come to the statement due to his staying abroad.
-
-Therefore, the Commission of Investigation Commission has further informed the Corruption Commission to Investigate Bureau, Jawatta Road, Keppetipola Mawatha, Details of the Old National Identity Office of Keppetipola Mawatha.
-
-◼️
-
-[Data](articles/f78ea713.json)
-
-[Extended Data](ext_articles/f78ea713.ext.json)
-
----
-
-### Arayambathi Bus Station: Travelers who are suffering from roofing; Public condemning the authorities
-
-*2025-09-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226040) · `ta`
-
-The public has said that the passengers waiting for the bus at the bus station are facing various inconveniences in the sun, due to the lack of roofing plates at the Arayambathi Palamunai junction on the Batticaloa - Kalmunai main road.
-
-Plastic mirror roofs have been broken into the newly built building at the bus station.
-
-Even though the bus roof has been out of the last one year, the authorities have not taken any action to do this? These officers who get the salary of the people's taxpayers are concerned about the departments of the people, who will not serve the people?
-
-Despite being brought to the notice of the relevant authorities, no action has been taken so far, so they have been asked to take action.
-
-◼️
-
-[Data](articles/859e673a.json)
-
-[Extended Data](ext_articles/859e673a.ext.json)
-
----
-
-### Only 50% of data provided by public during wildlife census accurate: Dy Minister
-
-*2025-09-25 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112906/only-50-of-data-provided-by-public-during-wildlife-census-accurate-dy-minister) · `en`
-
-Around 50% of the information provided by the general public during the recent wildlife census was found to be accurate, according to Deputy Minister of Agriculture and Livestock Namal Karunaratne.
-
-The Deputy Minister presented this information today (26) while addressing Parliament.
-
-The wildlife census, conducted on March 15 across the island, was aimed to identify animals that harm food crops, study them properly, and take appropriate action.
-
-The census, which was conducted simultaneously across the country, focused on animals such as monkeys, toque macaques, peacocks and giant squirrels. According to the Deputy Minister, 50% of the data provided by the public about monkeys and toque macaques was confirmed to be accurate.
-
-...
-
-[Data](articles/d596a829.json)
-
-[Extended Data](ext_articles/d596a829.ext.json)
-
----
-
-### Highseat gazette leaving
-
-*2025-09-25 12:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-365265) · `ta`
-
-President Anura Kumara Dissanayake has issued a high -ranking gazette in Parliament today in Parliament that President Anura Kumara Dissanayake has issued an armed gazette to protect public security.
-
-The order, which comes into effect from September 27, 2025, was created under Section 12 of the Public Security Act under the powers granted to the President.
-
-However, the procedure of calling the armed forces to maintain public security through a high -level gazette announcement has become a repetition process by subsequent governments.
-
-◼️
-
-[Data](articles/f08ce586.json)
-
-[Extended Data](ext_articles/f08ce586.ext.json)
-
----
-
-### Sri Lanka weddings promoted to Indian couples
-
-*2025-09-25 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-weddings-promoted-to-indian-couples-241848/) · `en`
-
-ECONOMYNEXT – Sri Lanka Tourism has conducted promotions in India’s Mumbai, Ahmedabad, and Delhi, to market the island as an ‘enchanting’ wedding destination for Indian couples.
-
-The campaign attracted leading wedding planners, event managers, travel agents, and media representatives.
-
-Destination weddings continue to be a trend among Indian families seeking international venues that combine cultural richness, Sri Lanka Tourism said in a statement.
-
-“Recognizing this demand, Sri Lanka Tourism presented the island’s unique offerings – from golden beaches and luxury resorts to romantic hill country escapes, heritage sites, and spiritual backdrops.”
-
-“If marriages are made in heaven, then surely they deserve to be celebrated in paradise. Sri Lanka is that paradise – offering golden beaches, romantic hill country retreats, and heritage estates where Indian couples can create memories that last a lifetime,” Chairman of the Sri Lanka Tourism Promotion Bureau said.
-
-...
-
-[Data](articles/5c9bc345.json)
-
-[Extended Data](ext_articles/5c9bc345.ext.json)
-
----
-
-### ’’நம்பிக்கையில்லா பிரேரணையை விவாதிக்க முடியாது’’
-
-*2025-09-25 12:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணையை-விவாதிக்க-முடியாது/175-365264) · `ta`
-
-Speaker Jagath Wickramaratne today reiterated that the no -confidence motion against Deputy Defense Minister Aruna Jayasekera cannot be discussed in accordance with staff, constitutional and international parliamentary procedures.
-
-The Speaker pointed out that the Committee of the Secretaries and the Attorney General submitted to him, claiming that the no -confidence motion in the pending case on the Easter Sunday bombing would not have any legal effect.
-
-◼️
-
-[Data](articles/decfbbf6.json)
-
-[Extended Data](ext_articles/decfbbf6.ext.json)
-
----
-
-### Ticket for Western Private Transport Buses Mandatory
-
-*2025-09-25 12:00:03* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පෞද්ගලික-මගී-ප්‍රවාහන-බස්-සඳහා-ටිකට්පත-අනිවාර්යයි/11-418716) · `si`
-
-The Western Province Road Passenger Transport Authority has been compulsory from the 1st of next month to passengers.
-
-The Authority states that the law will be implemented in next month and the passengers and conductors without tickets will take serious action.
-
-◼️
-
-[Data](articles/8a217a9d.json)
-
-[Extended Data](ext_articles/8a217a9d.ext.json)
-
----
-
-### 20 years rigorous imprisonment for a father who sexually abused two daughters in Batticaloa
-
-*2025-09-25 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226030) · `ta`
-
-Batticaloa High Court Judge RJ Prabhakaran today ruled that the father of 7 and 8 -year -old daughters in the district of Batticaloa has been sentenced to 20 years in prison for sexually abusing her 7 and 8 years of imprisonment for the victims of Rs.
-
-The 56 -year -old father was arrested in October 2016 for allegedly sexually abusing two daughters, including a 7 and 8 -year -old daughter, including the daughter of a mentally ill.
-
-Police have registered a case in the Supreme Court against the arrested person and then released on bail.. This is followed by trial.
-
-On September 27 last year, he was found guilty of evidence, evidence and legal doctor's report on four allegations for sexually abusing 16 -year -old girls against the man.
-
-...
-
-[Data](articles/500d23fb.json)
-
-[Extended Data](ext_articles/500d23fb.ext.json)
 
 ---

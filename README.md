@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 11:40:57**
+As of **2025-09-26 11:57:23**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ adaderanasinhalalk | 13,666
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,235 (100.0%) of 78,237 articles have been extended.
+78,237 (100.0%) of 78,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### තැබූ පියවර ආපසු හරවන්නේ නෑ - ජනපති
+### Will not be reversed - President
 
 *2025-09-26 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215025) · `si`
 
-තමා බැඳී සිටින්නේ රටේ ජනතාවගේ අපේක්ෂා සහ බලාපොරොත්තු සමඟ පමණක් බවත්, මීට වසරකට පෙර වත්මන් රජය බලයට පත් කර ගනිමින් ජනතාව තැබූ අපේක්ෂා ඉටු කිරීමේදී කිසිවෙකුගේ බලපෑම්වලට යටත් වීමට සූදානම් නොමැති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+President Anura Kumara Dissanayake emphasized that he is obliged to oblige the expectations and hopes of the country and is not prepared to be subjected to the influence of the people.
 
 ◼️
 
 [Data](articles/29e11523.json)
 
+[Extended Data](ext_articles/29e11523.ext.json)
+
 ---
 
-### මුදල් ගනුදෙනුවක් ජීවිතයක් බිලිගනී
+### A financial transaction kills a life
 
 *2025-09-26 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215026) · `si`
 
-මීගමුව පොලිස් වසමේ පෙරියමුල්ල ප්‍රදේශයේදී පොල්ලකින් පහරදී ඝාතනයක් සිදුකර තිබේ.
+A murder was assaulted by a stick in the Periyamulla area in Negombo.
 
-මියගිය පුද්ගලයා මීගමුව පෙරියමුල්ල ප්‍රදේශයේ වෙළෙඳසැලක සේවය කර ඇති අතර එහිදී ඔහු හා මිතුරු වූ පුද්ගලයෙකු සමඟ සිදුකර ඇති මුදල් ගනුදෙනුවක් සම්බන්ධව ඇති වූ ආරවුලකදී මෙම ඝාතනය සිදුකර ඇත.
+The deceased has served in a shop in the Periyammulla area in Negombo, where the murder had been carried out.
 
-ඊයේ (25) දහවල් කාලයේදී සැකකරු වෙළෙඳසැල තුළදී පොල්ලකින් පහරදී මෙම ඝාතනය සිදුකර ඇත.
+The murder was hit by a stick in the shop yesterday afternoon yesterday (25).
 
-මෘත ශරීරය පශ්චාත් මරණ පරීක්ෂණය සඳහා මීගමුව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ඝාතනයට සම්බන්ධ සැකකරු හඳුනාගෙන ගෙන ඇති බවත් සැකකකරු අත්අඩංගුවට ගැනීමට මීගමුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු බවත් පොලීසිය පවසයි.
+The body has been placed at the Negombo hospital morgue and the suspect has been identified and the suspect is conducting further investigations.
 
 ◼️
 
 [Data](articles/741faab9.json)
+
+[Extended Data](ext_articles/741faab9.ext.json)
 
 ---
 

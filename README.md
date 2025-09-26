@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 12:13:40**
+As of **2025-09-26 12:24:06**
 
 ## Newspaper Stats
 
-*Scraped **78,242** Articles*
+*Scraped **78,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,604
 adaderanalk | 10,171
-tamilmirrorlk | 11,792
+tamilmirrorlk | 11,794
 virakesarilk | 12,731
 adaderanasinhalalk | 13,669
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 13,669
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,237 (100.0%) of 78,242 articles have been extended.
+78,237 (100.0%) of 78,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### மாணவர்களுக்கு பீர் விற்றவர் கைது
+
+*2025-09-26 12:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-பீர்-விற்றவர்-கைது/175-365313) · `ta`
+
+தனியார் வகுப்புகள் மற்றும் பாடசாலைகளில் கல்விப்பயிலும் மாணவர்களுக்கு மோட்டார் சைக்கிளில் பீர் விற்பனை செய்த ஒருவரை மொனராகலை பொலிஸார் கடந்த 25 ஆம் திகதி கைது செய்தனர்.
+
+மொனராகலை பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில், கும்புக்கனை பகுதியில் வைத்து  ஒருவரை மொனராகலை பொலிஸார்   கைது செய்தனர். சந்தேக நபர் கும்புக்கனை பகுதியைச் சேர்ந்த 43 வயதுடையவர்.
+
+மாணவர்களுக்கு பீர் போத்தல்கள் வழங்கப்பட்டதாகவும், கைது செய்யப்பட்ட நேரத்தில் மோட்டார் சைக்கிளில் மூன்று பீர் போத்தல்கள் இருந்ததாகவும் தெரியவந்துள்ளது.
+
+கும்புக்கனை பாடசாலைக்கு அருகில் மோட்டார் சைக்கிளில் வந்த சந்தேக நபரிடமிருந்து பீர் வாங்கச் சென்றபோது, ​​பொலிஸார் ஒரு கான்ஸ்டபிளை அனுப்பி சந்தேக நபரைக் கைது செய்தனர்.
+
+சந்தேக நபர், வழக்குப் பொருட்களும் மொனராகலை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5aef3a6b.json)
+
+---
+
+### ஆசிய கோப்பை சூப்பர் 4 சுற்றில்: இந்தியா - இலங்கை இன்று மோதுகின்றன
+
+*2025-09-26 12:00:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பை-சூப்பர்-4-சுற்றில்-இந்தியா-இலங்கை-இன்று-மோதுகின்றன/44-365312) · `ta`
+
+ஆசிய கோப்பை டி20 கிரிக்​கெட் தொடரின் சூப்​பர் 4 சுற்​றின் கடைசி ஆட்​டத்​தில் இன்று இரவு இந்​தியா - இலங்கை அணி​கள் துபா​யில் மோதுகின்​றன.
+
+ஆசிய கோப்பை டி20 கிரிக்​கெட் தொடர் ஐக்​கிய அரபு அமீரகத்​தில் நடை​பெற்று வரு​கிறது. 8 அணி​கள் கலந்து கொண்​டுள்ள இந்த தொடர் இறு​திக்​கட்​டத்தை நெருங்கி உள்​ளது. சூப்​பர் 4 சுற்​றில் முதல் இரு ஆட்​டங்​களி​லும் வெற்றி பெற்ற சூர்​யகு​மார் யாதவ் தலை​மையி​லான இந்​திய அணி இறு​திப் போட்​டிக்கு தகுதி பெற்று விட்​டது.
+
+சூப்​பர் 4 சுற்​றில் இந்​திய அணி தனது முதல் ஆட்​டத்​தில் 6 விக்​கெட்​கள் வித்​தி​யாசத்​தில் பாகிஸ்​தானை தோற்​கடித்து இருந்​தது. நேற்று முன்​தினம் நடை​பெற்ற 2-வது ஆட்​டத்​தில் வங்​கதேச அணியை 41 ஓட்டங்கள் வித்​தி​யாசத்​தில் வீழ்த்​தி​யிருந்​தது. இந்​நிலை​யில் சூப்​பர் 4 சுற்​றின் கடைசி ஆட்​டத்​தில் இந்​திய அணி இன்று இலங்​கை​யுடன் மோதுகிறது. இந்த ஆட்​டம் இரவு 8 மணிக்கு துபா​யில் நடை​பெறுகிறது.
+
+...
+
+[Data](articles/c30c100b.json)
+
+---
 
 ### கடைசிவரை போ​ராடி நிரூபிப்​பேன்:  பிரான்ஸ் முன்னாள் ஜனாதிபதி
 
@@ -70,7 +106,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු නදී අපර්ණා සුවඳුරුගොඩ මහත්මිය ඉදිරියේ කැඳවනු ලැබුවාය.
 
-◼️
+එම අවස්ථාවේදී විත්තිකාර නාමල් රාජපක්ෂ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සම්පත් මෙන්ඩිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් විත්තිය විසින් ඉල්ලා සිටි ලේඛන අතුරින් සමහර ලේඛන මෙතෙක් පැමිණිල්ල විසින් තමන්ට ලබාදී නොමැති බව පැවසුවේය.
+
+සාධාරණ නඩු විභාගයකට මුහුණදීම සඳහා එම ලේඛන ඉතා වැදගත් බව ජනාධිපති නීතිඥවරයා පැවසුවේය.
+
+ඊට ප්‍රතිචාර දැක්වූ පැමිණිල්ල වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් වසන්ත පෙරේරා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් විත්තිය විසින් ඉල්ලා සිටි ලේඛනවලින් බොහොමයක් මේ වන විටත් ඔවුන් වෙත ලබාදී තිබෙන බව පැවසුවේය.
+
+...
 
 [Data](articles/1d067895.json)
 
@@ -1905,49 +1947,5 @@ Although seven people can travel simultaneously in the cable car, 13 monks trave
 [Data](articles/458d4cb2.json)
 
 [Extended Data](ext_articles/458d4cb2.ext.json)
-
----
-
-### “A big noise suddenly heard”
-
-*2025-09-25 17:43:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-பெரிய-சத்தம்-திடீரென்று-கேட்டது/175-365283) · `ta`
-
-"A great noise from the wild side suddenly, heard. A signal from the monastery was given in a while, it refers to the emergency. It was only then that we all went to the scene, ”said a locals.
-
-Seven Buddhist monks were killed when a cable carriage broke out at 9 pm on Wednesday (24) at 9 pm.
-
-At the time of the accident, 13 Buddhist monks traveled. The dead monks include foreign monks. Six of the wounds have been admitted to the Kurunegala Hospital. It is also known that the situation of some of them is worrisome.
-
-Police say the accident occurred when the meditation huts at the top of the hill.. A local resident said in a statement on the incident.
-
-◼️
-
-[Data](articles/6d4133a3.json)
-
-[Extended Data](ext_articles/6d4133a3.ext.json)
-
----
-
-### Former French President sentenced to five years in prison
-
-*2025-09-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215005) · `si`
-
-Former President Nicolas Sarkow has been sentenced to five years in prison.
-
-Foreign media reports that the former French president was convicted of the lawsuit of euros for millions of euros from Libyan leader Colonel Mumammer Gaddafige.
-
-The Paris Criminal Court was acquitted of all other accusations in the case, including providing money for the inactive corruption and illegal election propaganda.
-
-Sarkozy said that the case was politically motivated by the 2007 election campaign.
-
-Instead, the complaint was accused of supporting Gaddafi's reputation against Gaddafi's reputation in the West.
-
-70-year-old Sarkoy was the President of France from 2007 to 2012.
-
-◼️
-
-[Data](articles/44317dba.json)
-
-[Extended Data](ext_articles/44317dba.ext.json)
 
 ---

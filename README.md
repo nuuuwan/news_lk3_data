@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 03:38:00**
+As of **2025-09-27 04:06:30**
 
 ## Newspaper Stats
 
-*Scraped **78,798** Articles*
+*Scraped **78,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,804
 dailyftlk | 5,565
 adalk | 7,619
 adaderanalk | 10,187
-tamilmirrorlk | 11,818
+tamilmirrorlk | 11,819
 virakesarilk | 12,791
 adaderanasinhalalk | 13,691
 
@@ -27,11 +27,35 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,798 (100.0%) of 78,798 articles have been extended.
+78,799 (100.0%) of 78,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Twin infant and mother death during childbirth
+
+*2025-09-27 03:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசவத்தின்-போது-இரட்டை-சிசுக்களும்-தாயும்-உயிரிழப்பு/175-365357) · `ta`
+
+Yall. The mother, who died of the deaths of twin babies at the Teaching Hospital, died without treatment.
+
+The deceased is Nimalaraj Sarumathi (age 28), a young mother of Somasundaram Road, Anaikottai.
+
+On Sunday, the 21st of this month. When two infants were delivered by surgery at the Teaching Hospital, one infant died and the fetus died in a few hours.
+
+The mother, who was still undergoing treatment, died yesterday morning (26) without treatment.
+
+Jaffna regarding this death. District Sudden Death Investigation Officer Arumugam Jayapalasingham conducted investigations. The witnesses were regulated by the Manipay police.
+
+Anatomical parts have been sent to Colombo for chemical analysis to detect the cause of death in the autopsy. (A)
+
+◼️
+
+[Data](articles/c8f233f0.json)
+
+[Extended Data](ext_articles/c8f233f0.ext.json)
+
+---
 
 ### The Special Religious Series began to mark the 76th anniversary of the Army
 
@@ -1988,25 +2012,5 @@ Bambalapitiya Police are conducting further investigations to reveal whether the
 [Data](articles/cd7d40bd.json)
 
 [Extended Data](ext_articles/cd7d40bd.ext.json)
-
----
-
-### We look forward to solving the issue of Taiti Tissa Vihara
-
-*2025-09-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226164) · `ta`
-
-Jaffna Taiti Tissa Vihara is not registered. Land is not acquired by the government. The land is exploited with transparency. The Taiti Tissa Vihara issue should be investigated to address the truth of the problem. This problem does not have a solution. "We are looking forward to resolving the Taiti Tissa issue through the intervention of the appointed groups," Minister of Buddha Sasana, Religious Affairs and Arts and Cultures said.
-
-In response to the recent questions posed by the Sri Lanka Tamil National Alliance (TNA) parliamentarian S. Siritharan during a session held in Parliament on Friday (26).
-
-Tissa Vikarai is a Vikarai in the North Thaitti area of ​​Valikamam in Jaffna district. This Vihara is not registered. Land related to this shrine is investigated.
-
-Many questions have been raised about the struggles that are taking place in this area.  No official announced to the Ministry on these struggles. There are information based on news published in the media.
-
-...
-
-[Data](articles/6dbcc087.json)
-
-[Extended Data](ext_articles/6dbcc087.ext.json)
 
 ---

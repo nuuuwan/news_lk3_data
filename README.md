@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 09:56:51**
+As of **2025-09-26 10:09:25**
 
 ## Newspaper Stats
 
-*Scraped **78,220** Articles*
+*Scraped **78,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,23 +16,35 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,601
+adalk | 7,602
 adaderanalk | 10,165
 tamilmirrorlk | 11,789
-virakesarilk | 12,728
-adaderanasinhalalk | 13,662
+virakesarilk | 12,729
+adaderanasinhalalk | 13,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,217 (100.0%) of 78,220 articles have been extended.
+78,220 (100.0%) of 78,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### ඕල්කට් මාවතේ බස් රථයක් මතට ගසක් කඩා වැටෙයි
+
+*2025-09-26 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215023) · `si`
+
+කොළඹ ඕල්කට් මාවතේ බස් රථයක් මතට අද (26) පෙරවරුවේ ගසක් කඩා වැටී අනතුරක් සිදුව ඇත.
+
+◼️
+
+[Data](articles/fbfb51f1.json)
+
+---
+
+### Parliamentary Council begins
 
 *2025-09-26 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215022) · `si`
 
@@ -40,35 +52,73 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/71f9e327.json)
 
+[Extended Data](ext_articles/71f9e327.ext.json)
+
 ---
 
-### பல பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை
+### தியாகி திலிபனின் தியாகம் வரலாற்றில் என்றும் தமிழினத்திற்கு வழிகாட்டி நிற்கின்றது - அஞ்சலியில் தவிசாளர்  நிரோஷ்
+
+*2025-09-26 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226101) · `ta`
+
+தியாக தீபம் திலிபன் அவர்கள் தமிழ் மக்களுக்கு எதிரான ஒடுக்கு முறைகளுக்கு எதிராகப் போராடினார். அவர் எமது மக்கள் தாயகத்தில் சுதந்திரமாக வாழவேண்டும் என்பதற்காக அகிம்சை வழியில் தன் இன்னுயிரினைத் தியாகம் செய்தார். தியாக தீபத்தின் நினைவுகளை எமது மக்கள் வரலாற்று ரீதியில் என்றும் நினைவுகூர்கின்றனர் என வலிகாமம் கிழக்கு பிரதேச சபை தவிசாளர் தியாகராஜா  நிரோஷ்  தெரிவித்தார்.
+
+பிரதேச சபையில் வியாழக்கிழமை இடம்பெற்ற அஞ்சலி நிகழ்வில் அஞ்சலியுரையாற்றுகையிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும், எமது மக்களுக்கு எதிரான ஒடுக்கு முறைகளுக்கு எதிராக அகிம்சை வழியில் தன் உயிரை நீராகாரம் ஏனும் அருந்தாது ஆகுதியாக்கிய மகானுக்கு தமிழர் தேசம் அஞ்சலிக்கின்றது. இன்றும் தியாக தீபம் திலிபன் எதற்காகப் போராடினாரோ அவரது போராட்டத்திற்கான காரணங்கள் தீர்க்கப்படாது அவ்வாறே கானப்படுகின்றன. அரசாங்கங்கள் மாறி மாறி ஆட்சிக்கு வந்த போதும் தமிழ் மக்கள் மீதான ஒடுக்கு முறைகளுக்கு எதிரான அடிப்படைகளில் எவ்வித மாற்றத்தினையும் செய்யவில்லை.
+
+...
+
+[Data](articles/b119bb69.json)
+
+---
+
+### Landslide alert to several areas
 
 *2025-09-26 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-365306) · `ta`
 
-நிலவும் சீரற்ற காலநிலை காரணமாக நாட்டின் பல மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Due to the inclement weather, many districts of the country have been warned.
 
-அதன்படி, காலி மற்றும் இரத்தினபுரி மாவட்டங்களுக்கு முதலாம் நிலை மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Accordingly, the first landslide warning has been issued to Galle and Ratnapura districts.
 
-களுத்துறை மற்றும் மாத்தறை மாவட்டங்களுக்கு இரண்டாம் நிலை மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாகத் தேசிய கட்டட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது. R
+The National Building Research Institute has issued a secondary landslide alert for Kalutara and Matara districts. Remble
 
 ◼️
 
 [Data](articles/6c9c6433.json)
 
+[Extended Data](ext_articles/6c9c6433.ext.json)
+
 ---
 
-### புகையிரத சேவைகளில் தாமதம்
+### Seizure of beedi leaves and a variety of agricultural chemicals
+
+*2025-09-26 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226095) · `ta`
+
+Police said that illegal beedi leaves and various types of agricultural chemicals have been seized.
+
+These were confiscated during the raid carried out by the Dungalditiya Police Station in the area of ​​the Dungalditiya Police Division on Thursday (25).
+
+In the meantime, 835 kg 800 grams of beedi leaves, 635 kg 600 grams of agricultural chemicals, and 03 boat machines have been seized.
+
+◼️
+
+[Data](articles/cae9e50b.json)
+
+[Extended Data](ext_articles/cae9e50b.ext.json)
+
+---
+
+### Delay in train services
 
 *2025-09-26 09:20:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவைகளில்-தாமதம்/175-365305) · `ta`
 
-அம்பேபுஸ்ஸ பேருந்து நிலையம் அருகே உள்ள புகையிரதம் ஒன்றில் தொழில்நுட்பக் கோளாறு ஏற்பட்டுள்ளது.
+A train near the Ambepussa bus stand has caused a technical failure.
 
-இதன் காரணமாக பிரதான மார்க்கத்திலான புகையிரத சேவைகளில் தாமதங்கள் ஏற்படக்கூடும் என்று புகையிரத திணைக்களம் அறிவித்துள்ளது. R
+The Department of Railways has announced that there will be delays in the main railway services.. Remble
 
 ◼️
 
 [Data](articles/1dbb412b.json)
+
+[Extended Data](ext_articles/1dbb412b.ext.json)
 
 ---
 
@@ -248,24 +298,6 @@ Tilakiswaran Yadus (20 years old) from Budhur junction in Meesalai, North, died 
 
 ---
 
-### Seizure of beedi leaves and a variety of agricultural chemicals
-
-*2025-09-26 08:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226095) · `ta`
-
-Police said that illegal beedi leaves and various types of agricultural chemicals have been seized.
-
-These were confiscated during the raid carried out by the Dungalditiya Police Station in the area of ​​the Dungalditiya Police Division on Thursday (25).
-
-In the meantime, 835 kg 800 grams of beedi leaves, 635 kg 600 grams of agricultural chemicals, and 03 boat machines have been seized.
-
-◼️
-
-[Data](articles/cae9e50b.json)
-
-[Extended Data](ext_articles/cae9e50b.ext.json)
-
----
-
 ### Three persons arrested for fake documents
 
 *2025-09-26 08:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226097) · `ta`
@@ -325,6 +357,22 @@ It is noteworthy that General Secretary Gutarez has praised the plans and promis
 [Data](articles/46ecfdd0.json)
 
 [Extended Data](ext_articles/46ecfdd0.ext.json)
+
+---
+
+### මිලි මීටර් 150ක් දක්වා තද වැසි
+
+*2025-09-26 08:07:22* · [`adalk`](https://www.ada.lk/breaking_news/මිලි-මීටර්-150ක්-දක්වා-තද-වැසි/11-418730) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ දැනට පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+ඒ් අනුව බසේනාහිර සහ සබරගමුව පළාත්වලත් ගොල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වලත් විටින් විට වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+ඒම ප්‍ර දේශවල වල ඇතැම් ස්ථා්ථානවලට.මී. 150 ට වැඩි ඉතො තද වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/ad2e1280.json)
 
 ---
 
@@ -1943,73 +1991,5 @@ Concluding his message, the former President said he prays that the deceased cle
 [Data](articles/98976307.json)
 
 [Extended Data](ext_articles/98976307.ext.json)
-
----
-
-### Husband
-
-*2025-09-25 15:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தூங்கிகொண்டிருந்த-கணவனை-கோடாரியால்-கொத்திய-மனைவி/76-365274) · `ta`
-
-Pottuvil police said that the incident of the sleeping husband of his wife was taken by his wife, Pottuvil Road, Pottuvil Road, 19th.
-
-The 43 -year -old family of four children returned home on Monday (22) at 9 pm. The incident took place at 6:30 am on Tuesday (23).
-
-Preliminary inquiries have revealed that the attack was carried out by the husband that the husband was in touch with another woman.
-
-The husband, who was seriously injured, was admitted to the Siyambalanduwa Resource Hospital and was transferred to the Moneragala District General Hospital for further treatment.
-
-He is currently receiving treatment at the Intensive Care Unit of the Moneragala District General Hospital.
-
-The suspect, a forty -year -old woman, has been arrested by the police and produced at the Siyambalanduwa Magistrate's Court.
-
-◼️
-
-[Data](articles/8b9ab4c3.json)
-
-[Extended Data](ext_articles/8b9ab4c3.ext.json)
-
----
-
-### Sri Lanka SEC unveils capital market reform plan, eyes demutualisation of CSE
-
-*2025-09-25 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-unveils-capital-market-reform-plan-eyes-demutualisation-of-cse-241879/) · `en`
-
-ECONOMYNEXT – The Securities and Exchange Commission (SEC) of Sri Lanka has presented its 12-step capital market reform agenda, which includes the demutualisation of the Colombo Stock Exchange.
-
-“This strategic framework comprises of 12 meaningful initiatives, including the demutualisation of the Colombo Stock Exchange, expansion of the corporate debt and collective investment schemes industry, the introduction of new financial instruments, and the establishment of a multi-asset class derivatives exchange,” Hareendra Dissabandara, SEC Chairman said.
-
-“We must have a vibrant capital market for the next generation.”
-
-“Not just shares and bonds, we should be able to deal with digital assets. People are more into crypto currency now, so we must facilitate that area.”
-
-Over the next decade the SEC’s strategy will be driven by the twelve key developmental and regulatory priorities, which aim to deliver three core outcomes, he said;
-
-...
-
-[Data](articles/f0e2d4af.json)
-
-[Extended Data](ext_articles/f0e2d4af.ext.json)
-
----
-
-### Mice in the parliamentary kitchen?
-
-*2025-09-25 15:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-சமையலறைக்குள்-எலிகள்/175-365273) · `ta`
-
-Opposition parliamentarian Prasad Siriwardena said that during a study conducted yesterday (24), there was no evidence of rats or unhealthy conditions in the parliamentary kitchen.
-
-Siriwardena said that the storage areas were protected by glass and nets and that staff continued to maintain cleanliness.
-
-He said that in the last 35 years, there was no complaint about the quality of food in Parliament and that the Speaker's comments were harmful to the dignity and respect of the staff.
-
-However, Siriwardena also pointed out that the facilities are in a state of damage. He noticed that six stoves were dysfunctional in the seven ovens, the equipment was broken, the tiles were dumped, the exhaust fan was not functioning, and even the toilets were in bad condition.
-
-He urged the authorities to immediately address these shortcomings in order to ensure that the employees are not further inconvenienced.
-
-...
-
-[Data](articles/0d690aae.json)
-
-[Extended Data](ext_articles/0d690aae.ext.json)
 
 ---

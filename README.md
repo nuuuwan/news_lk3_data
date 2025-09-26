@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 10:38:14**
+As of **2025-09-26 11:19:57**
 
 ## Newspaper Stats
 
-*Scraped **78,223** Articles*
+*Scraped **78,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,241 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,602
-adaderanalk | 10,165
-tamilmirrorlk | 11,789
-virakesarilk | 12,729
-adaderanasinhalalk | 13,663
+adalk | 7,603
+adaderanalk | 10,171
+tamilmirrorlk | 11,791
+virakesarilk | 12,731
+adaderanasinhalalk | 13,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,223 (100.0%) of 78,223 articles have been extended.
+78,226 (100.0%) of 78,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### Co-ops take spotlight in India-Sri Lanka Dialogue in New Delhi
+
+*2025-09-26 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/112933/co-ops-take-spotlight-in-india-sri-lanka-dialogue-in-new-delhi) · `en`
+
+India and Sri Lanka have taken a fresh step towards strengthening their cooperative ties with a high-level bilateral meeting in New Delhi on Thursday.
+
+Wasantha Samarasinghe, Minister of Trade, Commerce, Food Security and Cooperative Development of Sri Lanka, met Union Minister of State for Cooperation and Civil Aviation Murlidhar Mohol at Atal Akshay Urja Bhawan to explore new avenues of collaboration in the cooperative sector.
+
+The talks revolved around building stronger institutional linkages, sharing knowledge, and improving the skills of those engaged in the cooperative movement. Both sides acknowledged that cooperatives play a vital role in rural development, food security, and inclusive economic growth, and that closer collaboration could help address common challenges faced by the sector in both countries.
+
+...
+
+[Data](articles/9794759b.json)
+
+---
+
+### නවීන ආරක්ෂක ක්‍රමවේද සහිත වාහන අංක තහඩු නොවැ. 15 සිට
+
+*2025-09-26 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215024) · `si`
+
+නවතම ආරක්ෂක ක්‍රමවේද සහිත නවීන තාක්ෂණයෙන් යුත් නව අංක තහඩු නොවැම්බර් 15 වනවිට ලබාදීමට කටයුතු කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ අමාත්‍ය බිමල් රත්නායක මහතා පවසා සිටියේ, මේ වනවිට අංක තහඩු නොමැති වාහන ප්‍රමාණයක් වෙළෙදපොළ තුළ පවතින බවය.
+
+එමෙන්ම පෙර පැවති වෙළෙඳ සමාගම් මෙන්ම දේශපාලන ක්‍රියාවන්හි දූෂිතභාවය හා වගකීම් විරහිතභාවය නිසා මෝටර් රථ දෙපාර්තමේනතුව වසර 10ක් වැනි කාලයක් දියුණු නොවී පවතින බවද පැවසීය.
+
+නව රියදුරු බලපත්‍රයක්ද සකස් කරන බවත්, අංක තහඩු නොමැති වාහන සඳහා එළැඔන සතියේ දී තාවකාලික විසදුම් ලබාදෙන බවත් අමාත්‍යවරයා වැඩිදුර සඳහන් කළේය.
+
+◼️
+
+[Data](articles/728a5e7c.json)
+
+---
+
+### Pre-trial conference fixed for Namal Rajapaksa’s ‘Krrish’ case
+
+*2025-09-26 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/112932/pre-trial-conference-fixed-for-namal-rajapaksas-krrish-case) · `en`
+
+The Colombo High Court has ordered that the case filed by the Attorney General against Sri Lanka Podujana Peramuna (SLPP) Member of Parliament Namal Rajapaksa, regarding the controversial ‘Krrish’ project, be called for a pre-trial conference on December 18.
+
+When the case was called today, MP Namal Rajapaksa appeared before the court, said Ada Derana reporter.
+
+After reviewing the case, the Magistrate also directed that steps be taken to summon the original case report from the Fort Magistrate’s Court.
+
+The Attorney General has filed the case alleging that MP Namal Rajapaksa committed an offence under the Prevention of Money Laundering Act by receiving Rs. 70 million from the Indian company ‘Krrish’, under the pretext of promoting rugby in Sri Lanka.
+
+◼️
+
+[Data](articles/17c218df.json)
+
+---
+
+### Advisory issued for strong winds and rough seas
+
+*2025-09-26 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112931/advisory-issued-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for the sea areas off extending from Galle to Pottuvil via Matara and Hambantota, and from Puttalam to Kankasanthurai via Mannar.
+
+The advisory, issued at 09.30 a.m. this morning (26), will be effective for the next 24 until 09.30 a.m. on Saturday (27).
+
+Accordingly, the advisory warns that the sea areas off the coasts extending from Galle to Pottuvil via Matara and Hambantota, and from Puttalam to Kankasanthurai via Mannar will be rough or very rough with strong gusty winds up to 55-65 kmph.
+
+Therefore, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/2dfc38a5.json)
+
+---
+
+### Over 500 rounds of ammunition, firearm recovered after questioning ‘Kehelbaddara Padme’
+
+*2025-09-26 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112930/over-500-rounds-of-ammunition-firearm-recovered-after-questioning-kehelbaddara-padme) · `en`
+
+Further questioning by the Western Province North Crimes Division of the arrested underworld figure ‘Kehelbaddara Padme’, has led to the recovery of over 500 rounds of T-56 ammunition, four T-56 magazines, a micro pistol, and other items.
+
+The weapon and ammunition were found concealed near the Peliyagoda Fish Market, the police reported.
+
+◼️
+
+[Data](articles/0c5b383e.json)
+
+---
+
+### Wild elephant crashed into a chicken lorry
+
+*2025-09-26 10:46:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-லொறி-மீது-மோதிய-காட்டு-யானை/175-365310) · `ta`
+
+The wildlife department said that a lorry crashed into a lorry carrying chickens in the Ridella area of ​​Dambulla.
+
+A worker who was traveling in the lorry said that the accident occurred when a wild elephant crossed the road while traveling from Dambulla to Bhagamuna.
+
+He said the vehicle crashed into a wild elephant and left the road. It was known that plenty of chickens had died in the accident. Other chickens who were alive were lying on the road
+
+◼️
+
+[Data](articles/5536882b.json)
+
+[Extended Data](ext_articles/5536882b.ext.json)
+
+---
+
+### The tree that fell on the bus in Olcotta Mawatha
+
+*2025-09-26 10:36:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒல்கொட்-மாவத்தையில்-பேருந்து-மீது-முறிந்து-விழுந்த-மரம்/175-365309) · `ta`
+
+An accident occurred when a tree fell on a bus this morning at Olkot Mawatha in Colombo.
+
+◼️
+
+[Data](articles/4678be6d.json)
+
+[Extended Data](ext_articles/4678be6d.ext.json)
+
+---
+
+### சிங்கப்பூரில் மலேசிய போதைப்பொருள் கடத்தல்காரருக்கு மரண தண்டனை!
+
+*2025-09-26 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226102) · `ta`
+
+சிங்கப்பூரில் போதைப்பொருள் கடத்தல் குற்றச்சாட்டுக்காக, மலேசிய நபரொருவர் துக்கிலிடப்பட்டதாக சர்வதேச ஊடகங்கள் தெரிவித்துள்ளன.
+
+மரண தண்டனையை ஒழிக்க வேண்டும் என அந்த நாட்டில் கோரிக்கைகள் இருந்தபோதிலும், இந்த வருடத்தின் 11வது மரணதண்டனையாக இது பதிவாகியுள்ளது.
+
+பின்னர் சிங்கப்பூருக்கு சுமார் 45 கிராம் (1.6 அவுன்ஸ்) ஹெரோயின் கடத்தியதாக அவர்மீது குற்றம் சுமத்தப்பட்டது.
+
+2022ஆம் ஆண்டு அவர் தூக்கிலிடப்படவிருந்தார், ஆனால் ஆகஸ்ட் மாதம் நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டமையால் தடை ஏற்பட்டுள்ளது.
+
+அவரது குடும்பத்தைப் பிரதிநிதித்துவப்படுத்தும் மலேசிய சட்டத்தரணி நிறைவேற்றப்பட வேண்டிய மரணதண்டனை நிறுத்தப்பட்டதாக தெரிவித்தார்;.
+
+இருப்பினும், சிங்கப்பூர் சிறை அதிகாரிகள் மரணதண்டனை தொடரும் என்றும், இரண்டு மணி நேரத்திற்குள் அவரது உடலை சேகரிக்குமாறும் குடும்பத்தினரிடம் தெரிவித்துள்ளனர்.
+
+சிங்கப்பூரின் மத்திய போதைப்பொருள் தடுப்புப் பிரிவு ஒரு அறிக்கையில் அவரது மரணதண்டனையை தொடர்பான அறிவிப்புக்கள் வெளியிடப்பட்டிருந்தது.
+
+...
+
+[Data](articles/14471b7a.json)
+
+---
+
+### ஐந்து மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை
+
+*2025-09-26 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226104) · `ta`
+
+நாட்டின் சில பகுதிகளில் தொடர்ந்து கடும் மழை பெய்து வருவதால், ஐந்து மாவட்டங்களில் உள்ள பல பகுதிகளுக்கு  மண்சரிவு தொடர்பில் முன்னெச்சரிக்கைகள் விடுக்கப்பட்டுள்ளன.
+
+இந்த மண்சரிவு முன்னெச்சரிக்கைகள்  நேற்று வியாழக்கிழமை  (25) இரவு 10:00 மணி முதல் இன்று வெள்ளிக்கிழமை (26) இரவு 10:00 மணி வரை அமுலில் இருக்கும் என தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் (NBRO) தெரிவித்துள்ளது.
+
+அதன்படி, களுத்துறை மற்றும் மாத்தறை மாவட்டங்களில் உள்ள பல பிரதேச செயலகப் பிரிவுகள் (DSDs) மற்றும் அதைச் சுற்றியுள்ள பகுதிகளுக்கு நிலை 2 (ஆம்பர்)) எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இதேவேளை, பின்வரும் மாவட்டங்களில் பல பகுதிகளுக்கு நிலை 1 (மஞ்சள்) எச்சரிக்கை விடுக்கப்பட்டுள்ளது:
+
+காலி: நாகொடை, எல்பிட்டிய, பத்தேகம, யக்கலமுல்ல பிரதேச செயலக பிரிவு மற்றும் அதனை அண்டிய பகுதிகள்
+
+களுத்துறை: பாலிந்தநுவர, மதுகம பிரதேச செயலக பிரிவு மற்றும் அதனை அண்டிய பகுதிகள்
+
+இரத்னபுரி: எலபத்த, கலவான, பெல்மதுல்ல பிரதேச செயலக பிரிவு மற்றும் அதனை அண்டிய பகுதிகள்
+
+◼️
+
+[Data](articles/f0aa3541.json)
+
+---
+
+### Trump announces 100% tariff on branded or patented pharmaceutical imports from Oct 1
+
+*2025-09-26 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/112929/trump-announces-100-tariff-on-branded-or-patented-pharmaceutical-imports-from-oct-1) · `en`
+
+United States President Donald Trump announced on Thursday (Sep 25) new tariffs on pharmaceuticals, big-rig trucks, home renovation fixtures and furniture.
+
+Starting Oct 1, “we will be imposing a 100 per cent tariff on any branded or patented pharmaceutical product, unless a company IS BUILDING their pharmaceutical manufacturing plant in America”, the Republican wrote on his Truth Social platform.
+
+In a separate post, he wrote of a 25 per cent tariff on “all ‘heavy (big) trucks’ made in other parts of the world” to support US manufacturers such as “Peterbilt, Kenworth, Freightliner, Mack Trucks and others”.
+
+He said the truck tariffs were “for many reasons, but above all else, for national security purposes”.
+
+Earlier this year, the Trump administration launched a probe into imports of trucks to “determine the effects of national security”.
+
+...
+
+[Data](articles/a72d5646.json)
+
+---
+
+### Tree falls on bus in Colombo, causing traffic congestion
+
+*2025-09-26 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112928/tree-falls-on-bus-in-colombo-causing-traffic-congestion) · `en`
+
+An accident occurred this morning (26), when a tree fell onto a private passenger bus on Olcott Mawatha in Colombo, near the railway headquarters.
+
+The incident resulted in significant traffic congestion in the area, said Ada Derana reporter.
+
+However, no one was injured in the incident, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/25513d11.json)
+
+---
+
+### Landslide risks Hatton Kadagama homes
+
+*2025-09-26 09:47:04* · [`adalk`](https://www.ada.lk/breaking_news/හැටන්-කුඩාගම-නිවාස-රැසක්-නායයෑමේ-අවධානමක/11-418731) · `si`
+
+Residents say that many houses in Hatton, Hatton Kadagama area is in danger of landslides in the area.
+
+Hatton Nuwara Eliya Main road
+
+The residents of Hatton Kadagala residents say that their homes are largely due to their homes and landslides due to the lack of a safe side wall due to the safety of the safe side wall.
+
+(25) The next few days, a part of the role of the roof and a sidewall of the sidewalks had been launched with heavy rains.
+
+◼️
+
+[Data](articles/398e213c.json)
+
+[Extended Data](ext_articles/398e213c.ext.json)
+
+---
 
 ### Troops fall on a bus at Olcott Mawatha
 
@@ -1749,253 +1969,5 @@ The Elderly Allowance of the Advancement of the Reward of the Reward of Hollower
 [Data](articles/1b06eb95.json)
 
 [Extended Data](ext_articles/1b06eb95.ext.json)
-
----
-
-### Lottery sales down 37 percent following the price increases
-
-*2025-09-25 16:58:07* · [`adalk`](https://www.ada.lk/breaking_news/මිල-වැඩිවීමත්-සමග-ලොතරැයි-අලෙවිය-සියයට-37කින්-පහළට/11-418722) · `si`
-
-The National Lotteriation Board (NDB) has been selected by the National Audit Office by the National Audit Office by 40 percent to 40 percent to 40 percent to 40 percent to 40 percent to 40 percent to 40 percent to 40 percent of the National Lotterity Board.
-
-The lottery had increased one to Rs.. Before price hike, approximately one year older importance per annum was saladed by millions of billions, calendar, or forty-five (1,298,942).
-
-Lottery reports in the last year after price hike, 4, seventeenth, 2nd thousands of six hundred and forty. (821,763,940) The audits recommended that steps should be taken to develop the sale of lotteries. The Lotteries The audit has stated that lottery will not be essential for customer goods and services. The lottery board has stated that the lottery board is also a product that highlights the consumer victory in the consumer.
-
-The National Lotteries Board is in the audit report issued by the National Lotteries Board.
-
-◼️
-
-[Data](articles/ec08de11.json)
-
-[Extended Data](ext_articles/ec08de11.ext.json)
-
----
-
-### Sri Lanka stocks continue to climb on financials
-
-*2025-09-25 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-continue-to-climb-on-financials-241893/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) has continued its climb, ending at 0.86 percent on Thursday, data on its site showed.
-
-Continued interest in banks and financial sectors shares were seen.
-
-The broader ASPI climbed 182.61 points from Wednesday, to end at 21,521.06; while the more liquid S&P SL20 closed 0.47 percent, or 28.74 points higher, at 6,109.80.
-
-The top contributors to the ASPI were Sampath Bank (up 4.25 rupees at 146.25), Ceylon Tobacco Company (up 73.25 rupees at 1,672.25), Central Finance Company (up 14.50 rupees at 303.50), Senkadagala Finance (up 108.25 rupees at 699.00) and Distilleries Company (up 8.70 rupees at 55.90).
-
-Market turnover was 9.3 billion rupees on Thursday, while the share volume was 261,287,633.
-
-The Securities and Exchange Commission (SEC) of Sri Lanka presented its 12-step capital market reform agenda, which includes the demutualisation of the Colombo Stock Exchange, this week.
-
-...
-
-[Data](articles/03c51a51.json)
-
-[Extended Data](ext_articles/03c51a51.ext.json)
-
----
-
-### ඉන්දුනීසියාවේ දින 03කදී පාසල් ළමුන් 1000ක් රෝහල් ගත කරයි
-
-*2025-09-25 16:45:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාවේ-දින-03කදී-පාසල්-ළමුන්-1000ක්-රෝහල්-ගත-කරයි/11-418721) · `si`
-
-More than 1000 children have been admitted to Indonesia's schools free of charge.
-
-Foreign media has reported that 1,171 people were hospitalized within the 3 days of this week.
-
-◼️
-
-[Data](articles/53b4bc2c.json)
-
-[Extended Data](ext_articles/53b4bc2c.ext.json)
-
----
-
-### Minister Sunil Senavi, Sajith, Mahinda, Ranil
-
-*2025-09-25 16:39:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-சுனில்-செனவி-சஜித்-மஹிந்த-ரணில்-இரங்கல்/175-365279) · `ta`
-
-Buddhist Religious and Cultural Affairs Minister Dr Sunil Senavi said on Thursday (25) on behalf of the Government and Parliament for the death of seven Buddhist monks in the Kurunegala, Melziripura Na, Aranya Senasanasam, when the cable car crashed into a crash.
-
-Addressing the House. I pray that the monks who are injured and treated to heal quickly.
-
-He said that our cooperation is ready for all the government's actions on behalf of these.
-
-Former President Mahinda Rajapaksa said in a social media report that he was very sad to hear about the tragedy at the Melziripura Na Eyana and the tragedy of the Aranya Senasanam.
-
-“I extend my deepest condolences to the local and foreign monks who died in that unexpected accident.
-
-I pray for the dead Buddhist sons who were engaged in meditation in lush and quiet environment. I pray that Buddhist sons who are being treated at the hospital will be healed soon, ”said Mahinda Rajapaksa.
-
-...
-
-[Data](articles/79929379.json)
-
-[Extended Data](ext_articles/79929379.ext.json)
-
----
-
-### Struggle to demand state status in Ladagil in India;  Curfew
-
-*2025-09-25 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226062) · `ta`
-
-In India, the people of the area are demanding state status for Ladakh.
-
-India; In 2019, the Central Government canceled Article 370 of the Constitution that gave Jammu and Kashmir special status.. Also divided into two union territories - Jammu and Kashmir and Ladakh. In this case, the people of the area are demanding that the state status and autonomy be given to Ladakh.. Ladakh tribes prefer to gain power through state status and maintain uniqueness. They also ask that they should be given the status of Article 6 of the Constitution of Constitution to 4 Aboriginal States, including Tripura.
-
-...
-
-[Data](articles/24c8ffad.json)
-
-[Extended Data](ext_articles/24c8ffad.ext.json)
-
----
-
-### Opposition is ready to bring a no-confidenceability against the speaker
-
-*2025-09-25 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215001) · `si`
-
-The proposal is expected to bring a no-confidence motion against the Speaker.
-
-MP Ajith P Perera addressed the church today (26).
-
-The present speaker Jagath Wickremaratne is also not suitable for the post of Speaker.
-
-The MP further stated that the Speaker refused to say that it was not denied the reasonsance of the Helanda.
-
-◼️
-
-[Data](articles/838d4f67.json)
-
-[Extended Data](ext_articles/838d4f67.ext.json)
-
----
-
-### Sri Lankan woman among 2 arrested after ‘typhoon selfie’ incident endangers child in HK
-
-*2025-09-25 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/112915/sri-lankan-woman-among-2-arrested-after-typhoon-selfie-incident-endangers-child-in-hk) · `en`
-
-While taking a selfie, two women and a child were swept away by powerful waves during Typhoon Ragasa in Hong Kong on September 24. pic.twitter.com/cmfBNxKBhH— Weather Monitor (@WeatherMonitors) September 25, 2025
-
-Hong Kong police have arrested two women, identified as nationals of India and Sri Lanka, following a perilous incident during Typhoon Ragasa in which a young child was endangered.
-
-The arrests come amid public fury over reckless behaviour during the storm, which had already left a mother and child fighting for their lives in a separate tragedy.
-
-The latest incident unfolded on Tuesday afternoon at the waterfront near the South Horizons estate in Ap Lei Chau. While the city was under the No. 10 Hurricane Signal, the two women, accompanied by a young boy, ventured onto the exposed shoreline.
-
-Shock footage, which subsequently spread across social media, shows one woman holding the child while the other appears to be recording a video on her mobile phone.
-
-...
-
-[Data](articles/348aba08.json)
-
-[Extended Data](ext_articles/348aba08.ext.json)
-
----
-
-### Sachithra Senanayake hands over cricket match
-
-*2025-09-25 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215000) · `si`
-
-Former national level cricketer Sachithra Senanayake has been indicted today (25) at the Hambantota High Court today (25).
-
-Sachithra Senanayake had been indicted on June 5 on these allegations.
-
-Accordingly, the Hambantota High Court Judge Duminda Mudundukotuwa was conducted by Sachithra Senanayake today (25), "Ada Derana reporter said.
-
-Sachithra Senanayake for Saachu Senanayake, the court demanded that Sachithra Senanayake is working abroad and is working in a foreign country and is working in a foreign country and is employed in a foreign country.
-
-Afterwards, it was dismantled the foreign travel ban that he had been temporarily imposed in the temporary till November 27, our correspondent.
-
-Sachitra Senanayake was released on two personal bail of Rs.
-
-Sachithra Senanayake did not appear when the case was taken up on July 92015 and was prescribed by the court to appear in court today (25).
-
-State Counseling Akila, Ayamila for the complaint, appeared on the complaint, our correspondent said.
-
-...
-
-[Data](articles/4e2098eb.json)
-
-[Extended Data](ext_articles/4e2098eb.ext.json)
-
----
-
-### 4 killed in Ladakh violence: curfew order
-
-*2025-09-25 15:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லடாக்-வன்முறையில்-4-பேர்-பலி-ஊரடங்கு-உத்தரவு-பிறப்பிப்பு/175-365276) · `ta`
-
-The struggle is underway demanding that Ladakh, the Union Territory, should be given a separate state status and included in the 6th Schedule of the Constitution.. It has been announced that it will hold talks on behalf of the central government on the 6th of next month.
-
-In the meantime, Ladakhil was invited to protest. The whole blockage struggle took place this morning. Then there was a tension between the protesters and the police. The furious protesters were involved in violence. Police set fire to the vehicles of the police.
-
-The BJP in Leh to express their opposition to the central government. They set fire to the office and attacked it. This caused a tense situation.
-
-In this case, the police threw tear gas and dispersed the protesters. 4 people died in this violence. More than 70 people were injured. Moreover, the Leville curfew has been implemented to control the struggle.
-
-◼️
-
-[Data](articles/f19a0937.json)
-
-[Extended Data](ext_articles/f19a0937.ext.json)
-
----
-
-### Supreme Court Notification of Express Pearl Compensation
-
-*2025-09-25 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/214999) · `si`
-
-එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළව ගොනු කෙරුණු මූලික අයිතිවාසිකම් නඩුකරවලදී ගෙවෙන ලෙස නියම කෙරුණු වන්දි මුදල් ගෙවීම පැහැර හැරීම සම්බන්ධයෙන් එම නෞකාවේ විදේශීය සමාගමට එරෙහිව ගත හැකි නීතිමය ක්‍රියාමාර්ග පිළිබඳ සොයාබලා ලබන ජනවාරි මස 26 වනදා අධිකරණයට කරුණු දක්වන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (25) නීතිපතිවරයාට නියම කළේය.
-
-The order was issued when the petitions were taken up today to look into the orders issued by the relevant fundamental rights petitions.
-
-◼️
-
-[Data](articles/9bfa36f5.json)
-
-[Extended Data](ext_articles/9bfa36f5.ext.json)
-
----
-
-### New Hurricanes in the Philippines: Schools, Airlines cancel
-
-*2025-09-25 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226057) · `ta`
-
-Following the death of nine people in the Philippines, the country's schools have been shut down and the flights have been canceled today (September 25).
-
-It has been predicted that severe tornadoes intensify tomorrow (Friday) and then hit the southern tip of Lusone, the largest island of the Philippines.
-
-The Department of Meteorology has reported that there will be widespread floods and landslides in the highlands.
-
-Scientists say the storms are very strong as the world is warming due to the effects of human -driven climate change.
-
-The Philippines Coast Guard said that about 1,500 people were trapped in the ports of Pikol.
-
-◼️
-
-[Data](articles/dbd1c11a.json)
-
-[Extended Data](ext_articles/dbd1c11a.ext.json)
-
----
-
-### Ex-President Ranil extends condolences over tragic accident at Na Uyana Monastery
-
-*2025-09-25 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/112914/ex-president-ranil-extends-condolences-over-tragic-accident-at-na-uyana-monastery-) · `en`
-
-Former President Ranil Wickremesinghe has expressed his condolences over the passing of several local and foreign Buddhist monks in the tragic accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) at Pansiyagama in Melsiripura.
-
-In an official statement, he also extended his wishes for a speedy recovery to the monks who were injured in the accident and are currently receiving treatment in the hospital.
-
-He further noted that the venerable Buddhist monks, who dedicated their lives in the forest to ending worldly suffering, had gone forth to share the Buddha’s teachings on impermanence.
-
-Concluding his message, the former President said he prays that the deceased clergy members attain the bliss of nirvana.
-
-◼️
-
-[Data](articles/98976307.json)
-
-[Extended Data](ext_articles/98976307.ext.json)
 
 ---

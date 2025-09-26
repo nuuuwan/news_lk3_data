@@ -1,41 +1,257 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 15:07:35**
+As of **2025-09-26 15:56:06**
 
 ## Newspaper Stats
 
-*Scraped **78,572** Articles*
+*Scraped **78,608** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 217
-newsfirstlk | 418
+lankadeepalk | 240
+newsfirstlk | 420
 dbsjeyarajcom | 634
-bbccomsinhala | 702
+bbccomsinhala | 703
 colombotelegraphcom | 792
 economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,608
-adaderanalk | 10,176
-tamilmirrorlk | 11,804
+adalk | 7,611
+adaderanalk | 10,179
+tamilmirrorlk | 11,806
 virakesarilk | 12,739
-adaderanasinhalalk | 13,673
+adaderanasinhalalk | 13,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,339 (99.7%) of 78,572 articles have been extended.
+78,384 (99.7%) of 78,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### පද්මේ  ගේ  ගිනි අවි සහ ජිව උණ්ඩ තොගයක් හමුවෙයි
+### දොස්තරලා දැන් බයට බේත් ලියන්නේ නෑ
 
-*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදම-ග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
+*2025-09-26 15:29:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරල-දන-බයට-බත-ලයනන-න/1-680281) · `si`
+
+වර්තමානයේ රෝහල් වල බෙහෙත් නැති වුනත් දොස්තරලා ඒ බෙහෙත් පිටින් ගන්නට කියා ලියා දෙන්නේ නැතැයි කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නලින් බණ්ඩාර මහතා :-(ස.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.
+
+හිරේ යන්නට මේ විය යැයි කියා බයෙන් දොස්තරලා එලෙස බෙහෙත් නොලියන බවද මන්ත්‍රීවරයා කීය.
+
+"මේ ආණ්ඩුව නිතරම කොරහේ කිඹුල්ලු දකිනවා. පෞද්ගලික ව්‍යවසායකයන් දෙස බලන්නේ වපර ඇහින්.වැඩි ආදායම් ලබන ඇය ගැන බලන්නේ වපන ඇසින්.
+
+කෝප් එකෙන් අතීත දේවල් ගැන විතරක් නෙමෙයි වර්තමානෙ දේවල් ගැනත් හොයන්න ඕන.
+
+...
+
+[Data](articles/d7e61cde.json)
+
+---
+
+### Raid Uncovers 500 Rounds of T-56 Ammo Linked Kehelbaddara Padme
+
+*2025-09-26 15:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/raid-uncovers-500-rounds-of-t-56-ammo-linked-kehelbaddara-padme) · `en`
+
+COLOMBO (News 1st); Officers from the Colombo North Crimes Division have uncovered a stockpile of approximately 500 rounds of T-56 ammunition in Peliyagoda, believed to be linked to organized criminal figure Kehelbaddara Padme, who is currently in remand custody.In addition to the ammunition, police also recovered a micro-type pistol, a pair of handcuffs, and four T-56 magazines.
+
+◼️
+
+[Data](articles/04d6ecad.json)
+
+---
+
+### ‘කුෂ්‘ සමඟ ගුවන් මගියා මාට්ටු
+
+*2025-09-26 15:25:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කෂ-සමඟ-ගවන-මගය-මටට/1-680280) · `si`
+
+රුපියල් හතලිස් එක් ලක්ෂ අසූ දහසක් වටිනා " කුෂ්" මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු  ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොහු රත්මලාන ප්‍රදේශයේ පදිංච් , වැලි සපයන ව්‍යාපාරයක නිරත 48 හැවිරිදි ව්‍යාපාරිකයෙකි.
+
+ඔහුට එරෙහිව ගල්කිස්ස පොලීසියේ සහ කොළඹ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශ මූලස්ථානය විසින් පවරා ඇති මත්ද්‍රව්‍ය පිළිබද  නඩු 03 ක් විභාග වෙමින් පවති..
+
+ඔහු විසින් රැගෙන ආ ගමන් මල්ල තුළ , " ෂොපිං "බෑගයක බහා , මෙම " "කුෂ්" මත්ද්‍රව්‍ය ග්‍රෑම් 418 ක ප්‍රමාණය සඟවා ගෙන තිබුණි .
+
+◼️
+
+[Data](articles/10ee03f0.json)
+
+---
+
+### திலீபனின் நினைவு தினம் யாழ்.பல்கலைக்கழகத்தில் அனுஷ்டிப்பு
+
+*2025-09-26 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலீபனின்-நினைவு-தினம்-யாழ்-பல்கலைக்கழகத்தில்-அனுஷ்டிப்பு/175-365329) · `ta`
+
+ஐந்து அம்சக் கோரிக்கைகளை முன்வைத்து உண்ணாவிரதம் இருந்து உயிர் நீத்த தியாக தீபம் திலீபனின் 38 வது நினைவு தினம், யாழ்ப்பாணப் பல்கலைக்கழகத்தில் வெள்ளிக்கிழமை (26) அனுஷ்டிக்கப்பட்டது.
+
+தியாக தீபம் திலீபன் நினைவேந்தல் மதியம் 12 மணிக்கு ஆரம்பித்ததுடன், பொதுச் சுடர் ஏற்றப்பட்டது.
+
+அதனைத் தொடர்ந்து,திலீபனின் உருவப்படத்திற்கு பல்கலைக்கழக சமூகத்தினரால் மலர் மாலை அணிவித்து மலர் தூவியும் அஞ்சலி செலுத்தப்பட்டதுடன் பலரும் உணர்வு பூர்வமாக கலந்து கொண்டனர்.
+
+இதன்போது பல்கலைக்கழக மாணவர்கள், பல்கலைக்கழக விரிவுரையாளர்கள், பல்கலைக்கழக கல்விசாரா ஊழியர்கள் என பலரும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/8e4e7e4e.json)
+
+---
+
+### Tell the truth about Ranga Dissanayake
+
+*2025-09-26 15:19:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රග-දසනයක-ගන-ඇතත-කයනන/1-680279) · `si`
+
+Bribery Commission JVP. The Colombo District MP Mujuur Rahman said: In parliament, he said:
+
+The law does not take place, but the law will not be implemented.. If the law enforced the program to minimize corruption. We all voted for the anti-corruption Act to minimize corruption.. There is now a problem with the transparency. There is a problem that the rule of law is only by the opponents of the presidency. Now the Bribery Commission is not looking for. Mr. Munibur Rahman said, "Look!
+
+◼️
+
+[Data](articles/46f2a3a2.json)
+
+[Extended Data](ext_articles/46f2a3a2.ext.json)
+
+---
+
+### Sri Lanka uses 07 double cab
+
+*2025-09-26 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215036) · `si`
+
+The Health System Improvement Project has been provided with seven double cab to the Ministry of Health and Mass Media by the Ministry of Health and Mass Media under the sponsorship of the Asian Development Bank.
+
+The price of the double cab was Rs.
+
+Accordingly, the Office of the Nivitigala Medical Officer of the Colombo District and the Office of the Colombo District Secretariat in the Kandy District was held for the office of the Colombo District Secretariat in the Badulla District and to the Colombo Project Medical Officer of the Colombo District.
+
+The Health Systems Improvement Project has been prepared to obtain 45 cabs for prevention health care in the Central, Uva and Sabaragamuwa provinces.
+
+Accordingly, the recently purchased cabs were officially handed over in the Ministry of Health and Mass Media.
+
+◼️
+
+[Data](articles/159c22d5.json)
+
+[Extended Data](ext_articles/159c22d5.ext.json)
+
+---
+
+### "We will not tolerate more"
+
+*2025-09-26 15:14:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අප-තවත-ඉවසනන-න/1-680278) · `si`
+
+Hambantota District MP DV Chanaka has decided that the Knowledge of the General has decided to slander anymore.
+
+"We have decided to share all these things in the court.. That is the container fraud. The government has failed to present the report of the Committee appointed by the President to Parliament.. A committee report recommends a jarly audit. Where are these tests now? "
+
+◼️
+
+[Data](articles/1311b70f.json)
+
+[Extended Data](ext_articles/1311b70f.ext.json)
+
+---
+
+### Sri Lanka President Heads To Japan After UN Tour
+
+*2025-09-26 15:13:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-president-heads-to-japan-after-un-tour) · `en`
+
+...
+
+[Data](articles/953e38a0.json)
+
+---
+
+### Firearms and ammunition belonging to Kehelbaradara Padme recovered
+
+*2025-09-26 15:03:24* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේට-අයත්-ගිනි-අවියක්-හා-උණ්ඩ-තොගයක්-සොයා-ගනියි/11-418743) · `si`
+
+The pistol influence of the Kehelbadara Padma, detained and interrogated, T. 56 Magazines, nearly 500 T-56 riffle bullets were found by the police.
+
+According to the interrogation of the investigating officers, the weapons were found near the fish market in Peliyagoda through a phone call obtained by officials.
+
+◼️
+
+[Data](articles/d8f1abb4.json)
+
+[Extended Data](ext_articles/d8f1abb4.ext.json)
+
+---
+
+### Manushous petition demanding unleashed on an Expected Guarantee
+
+*2025-09-26 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215035) · `si`
+
+Former Minister Manusha Nanayakkara has filed a petition to the Colombo Magistrate's Court today to release the Bribery Commission before his arrest.
+
+Colombo Chief Magistrate Asanka S.. The Director of the Bribery Commission, note as the respondent as its respondent, has issued notice to the 2nd.
+
+◼️
+
+[Data](articles/3cc82336.json)
+
+[Extended Data](ext_articles/3cc82336.ext.json)
+
+---
+
+### Police obtain 90-day detention order on Sampath Manamperi
+
+*2025-09-26 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/112942/police-obtain-90-day-detention-order-on-sampath-manamperi) · `en`
+
+The Western Province North Crimes Division has informed the Walasmulla Magistrate that Acting Defence Minister Aruna Jayasekera has issued a 90-day detention order to further question Sampath Manamperi, said Ada Derana reporter.
+
+Manamperi, who was initially detained for interrogation by the Police Narcotics Bureau (PNB), was remanded in custody by the Walasmulla Magistrate’s Court on September 23.
+
+He remains in custody in connection with concealing two containers of chemicals, allegedly intended for the manufacture of crystal methamphetamine (commonly known as ‘Ice’), on his property in the Middeniya area.
+
+◼️
+
+[Data](articles/fa2294f4.json)
+
+[Extended Data](ext_articles/fa2294f4.ext.json)
+
+---
+
+### The cost of 2026 is 443,435 crores 6,468,000 rupees
+
+*2025-09-26 14:58:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2026-ஆம்-ஆண்டுக்கான-செலவீனம்-443-435-கோடியே-6-468-000-ரூபாயாகும்/175-365328) · `ta`
+
+The National People's Power Government, led by President Anura Kumara Dissanayake, was presented in Parliament on Wednesday (26) by the Deputy Minister of Labor and Economic Development Anil Jayantha Fernando.
+
+This is the second budget of the National People's Power Government led by President Anura Kumara Dissanayake.
+
+Accordingly, President Anura Kumara Dissanayake is spending the budget of the government of 2026
+
+The cost of 2026 has increased by Rs 21,610 crore 8,450,000, with the cost of Rs 421,824 crore at Rs 421,824 crore in the budget of 2025.
+
+64,800 crore has been allocated for the Ministry of Defense and Public Safety in the funds allocated for this cost. 617,44 crore 50 lakhs have been allocated for the Ministry of Defense and Public Security in 2025, and for 2026, Rs 3,055 crore 50 lakhs have been allocated for 2026.
+
+...
+
+[Data](articles/5483cd65.json)
+
+[Extended Data](ext_articles/5483cd65.ext.json)
+
+---
+
+### Manusha Nanayakkara files anticipatory bail application
+
+*2025-09-26 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112941/manusha-nanayakkara-files-anticipatory-bail-application-) · `en`
+
+Former Minister Manusha Nanayakkara has filed an anticipatory bail application before the Colombo Magistrate’s Court, seeking release on anticipatory bail following possible arrest by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+◼️
+
+[Data](articles/2719f663.json)
+
+[Extended Data](ext_articles/2719f663.ext.json)
+
+---
+
+### පද්මේගේ ගිනි අවි සහ ජීව උණ්ඩ තොගයක් හමුවෙයි
+
+*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදමග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
 
 පාතාල කල්ලි සාමාජික 'කෙහෙල්බද්දර පද්මේ' විසින් සඟවා තැබූ බව පැවසෙන ටී-56 පතොරම්  ගිනි අවි සහ යුද හමුදා නිල ඇඳුමට සමාන කට්ටලයක් අධික ප්‍රමාණයක් පෑලියගොඩ මාළු වෙළෙඳසැළ ආසන්නයේ බස් නැවතුමක් පිටුපස කසල ගොඩක් අසල බෑගයක දමා තිබියදී සොයා ගත් බව පෑලියගොඩ  උතුරු අපරාධ කොට්ඨාසය කියයි.
 
@@ -47,7 +263,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/6e4ebbee.json)
+
+---
+
+### Padme's firearms and bullets meet
+
+*2025-09-26 14:54:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදම-ග-ගන-අව-සහ-ජව-උණඩ-තගයක-හමවය/1-680277) · `si`
+
+The T-56 ammunition firearms and analysis of the underworld gang member was hidden by the underworld member.
+
+A micro pistol, a micro pistol, a reckon, and 520 live in a military base, has been able to find a suit of a military unique dress in the same bag.
+
+This information has been revealed in the interrogation by the Western Provincial Council.
+
+Five underworld members of Padmasiri, who was an organized criminal, was arrested for his arrest in Indonesia, and three others, including Kehel Bedma Padkere on the detention department.
+
+◼️
+
 [Data](articles/7782eca5.json)
+
+[Extended Data](ext_articles/7782eca5.ext.json)
 
 ---
 
@@ -55,109 +291,145 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-26 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215034) · `si`
 
-රක්ෂිත බන්ධනාගාරගතව සිටින සම්පත් මනම්පේරි නමැත්තා දින 90ක් රඳවාගෙන ප්‍රශ්නකිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය අද (26) අවසර ලබා දී තිබේ.
+The Walasmulla Magistrate's Court today (26) has been granted to retain 90 days of reserves.
 
-මිද්දෙණිය ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගන්නා බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය අඩංගු කන්ටේනර් දෙකක් සඟවා තැබීමේ සිද්ධිය සම්බන්ධයෙන් ඔහු මේ වනවිට රක්ෂිත බන්ධනාගරගතව සිටියි.
+He is remanded in connection with the hiding two containers containing two containers containing chemicals that are used to produce ice drugs in the Middeniya area.
 
 ◼️
 
 [Data](articles/110416f2.json)
 
+[Extended Data](ext_articles/110416f2.ext.json)
+
 ---
 
-### சீன குடியரசின் 76ஆவது ஆண்டு நிறைவு கொண்டாட்டம்
+### 76th anniversary of the Chinese Republic
 
 *2025-09-26 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சீன-குடியரசின்-76ஆவது-ஆண்டு-நிறைவு-கொண்டாட்டம்/46-365327) · `ta`
 
-சீன மக்கள் குடியரசு நிறுவப்பட்டதன் 76வது ஆண்டு நிறைவைக் கொண்டாடும் வரவேற்பு நிகழ்வு சின்னமன் லைஃப் ஹோட்டல், வியாழக்கிழமை (25) நடைபெற்றது.
+Chinnaman Life Hotel, a welcome ceremony to celebrate the 76th anniversary of the founding of the People's Republic of China, was held on Thursday (25).
 
-”காற்று மற்றும் மழையின் ஊடாக இந்த 76 ஆண்டுகால பயணம், ஒரு பண்டைய தேசத்தின் புத்துணர்ச்சி கனவை நனவாக்குவதற்கான உறுதியான அடிச்சுவடுகளைப் பதித்துள்ளது. 5000 ஆண்டுகளுக்கும் மேலான புகழ்பெற்ற நாகரிகத்தைக் கொண்ட சீன தேசம், கடினமான முயற்சிகள் மூலம் உயர்ந்து, சீர்திருத்தம் மற்றும் திறப்பு மூலம் முன்னேறி, காலத்தின் அலைகளில் முன்னேறியுள்ளது. புதிய சகாப்தத்தில் புதிய பயணத்தில் அது சந்தேகத்திற்கு இடமின்றி புதிய பெருமைகளை அடையும், மேலும் மனித அமைதி மற்றும் வளர்ச்சிக்கான உன்னத நோக்கத்திற்கு புதிய பெரிய பங்களிப்புகளைச் செய்யும்” என்று இலங்கைக்கான சீனாவின் தூதுவர் Qi Zhenhong அந்த வரவேற்பு நிகழ்வில் தெரிவித்தார்.
+“This 76 -year journey through wind and rain has embodied the firm feet to make an ancient nation's refreshing dream come true. The Chinese nation, which has more than 5000 years of famous civilization, has risen through difficult efforts, progressed by reform and opening, and advanced in the waves of time. China's Ambassador to Sri Lanka Qi Zhenhong said at the welcome event, "It will undoubtedly achieve new pride in the new era, and make a new contribution to the noble purpose of human peace and development."
 
 ◼️
 
 [Data](articles/44524ac3.json)
 
+[Extended Data](ext_articles/44524ac3.ext.json)
+
 ---
 
-### දැන් තෝරු-මෝරු අහුවෙන කාලේ
+### Now in the time of Thor-Shall
 
 *2025-09-26 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දන-තර-මර-අහවන-කල/1-680276) · `si`
 
-දැන් හාල්මැස්සො නොව තෝරු මෝරු අහුවෙන කාලය බවමහනුවර දිස්ත්‍රික් මන්ත්‍රී ජගත් මනුවර්ණ මහතා:-(ජා.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.
+Headahaduwa District MP Jagath Manule is the time:
 
-දූෂණයට විරුද්ධ වීම භයානක බවත් දූෂණයට විරුද්ධ නොවී සිටීම ඊට වඩා භයානක බවත් අනුර දිසානායක ජනාධිපති  එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ අමතමින් ප්‍රකාශ කළා.එය අප නැවත අවධාරණය කළ යුතුයි.අපි දේශපාලන පලි ගැනීම් කරනවා යැයි චෝදනා කරනවා.නමුත් ඇත්ත ඒක නෙමෙයි.මත්තල ගුවන් තොටුපොලේ මගින් පර්යන්තය එක  ආණ්ඩුවක් නෙළුම් පොහොට්ටුවක හැඩයකට හදන්න තීරණය කළාම ඊට පස්සේ ආණ්ඩුව ඒක අරලිය පෙත්තක හැඩයකට වෙනස් කරන්න තීරණය කරලා. ඒවට මිල ගෙවන්නෙ කවුද? මේ රටේ ජනතාවගේ සල්ලි.මිනිස්සු පාරට ඇදගෙන වැටුනේ මේ දේවල් නිසා.  කෝප් එකට උත්තර බඳින්න ඕන අය කලින් ආණ්ඩු වල  කෝප් එකේ තනතුරු වල වාඩි වෙලා හිටියා.දැන් හාල්මැස්සො නෙමෙයි තෝරු මෝරු අහුවෙනවා.ඒකට අදාල වැඩපිළිවෙලා ඉතා සාර්ථකව අප කරගෙන යනවා යනුවෙන්ද මනුවර්ණ මහතා කීය.
+Anura Dissanayake addressed the United Nations General Assembly that the opposition to corruption is dangerous.. Who will pay for the price? Because of these things that fell to the people of this country.  The COPE has been sitting in the posts of the governments of the governments of the contract.
 
 ◼️
 
 [Data](articles/0d7f0461.json)
 
+[Extended Data](ext_articles/0d7f0461.ext.json)
+
 ---
 
-### අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජෙනරාල්ට නොතීසි
+### Court issues notice to the Director General of Bribery Commission
 
 *2025-09-26 14:39:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලස-කමසම-අධයකෂ-ජනරලට-නතස/1-680275) · `si`
 
-හිටපු කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතාට ඇප ලබාදීම සම්බන්ධයෙන් ලබන 02 දින අධිකරණයේ පෙනී සිට කරුණු දක්වන්නැයි කොළඹ ප්‍රධාන මහේස්ත්‍රාත්  අසංක එස් බෝදරගම මහතා අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජෙනරාල් වරයාට නොතීසි නිකුත් කරමින් අද (26)නියෝග කළේය.
+Colombo Chief Magistrate Asanka S. Bodaragama has issued notice to the Director General of the Bribery Commission (26) regarding the bail of former Labor and Foreign Employment Minister Manusha Nanayakkara.
 
-මනූෂ නානායක්කාර මහතා විසින් අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා හා විමර්ශන  අංශ ස්ථානාධිපතිවරයා  වග උත්තරකරු කරමින් පැවරූ අපේක්ෂිත ඇප අයදුම් පත්‍රයත් සලකා බැලීමෙන් පසුව මෙම නොතීසිය නිකුත් කළේය.
+Manusha Nanayakkara issued the notice after considering the delegation of the Bribery Commission and the OIC of the Investigation Division of the Bribery Commission.
 
-ඊශ්‍රායලයේ කෘෂිකාර්මික අංශයේ රැකියා සඳහා මෙරට ශ්‍රමිකයින් යැවීම සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අනුව අත් අඩංගුවට පත්වුවහොත් ඇප ලබා ගත හැකි වන පරිදි පූර්ව ඇපයක් නියම කරන ලෙස ඉල්ලා මෙම පෙත්සම ගොනු කෙරිණි.
+According to an investigation into the sending of workers in Sri Lanka to employ Sri Lanka's employment in Israel, the petition was filed as he was arrested.
 
-පෙත්සම්කාර නානායක්කාර මහතා පසුගිය 24 දින ඩුබායි රාජ්‍යයේ සිට ශ්‍රී ලංකාවට පැමිණෙන අවස්ථාවේදී  කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපලට ගොඩබසින විටම අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ නිලධාරීන් විසින් අල්ලස් කොමිසමට පැමිණෙන ලෙසට ලිපියක් භාරදී ඇති බව ඔහු වෙනුවෙන් පෙනී සිටි  ජනාධිපති නීතිඥ සාලිය පීරිස් මහතා අධිකරණයට කරුණු ඉදිරිපත් කරමින් පැවසීය.
+The President's Counsel Saliya Peiris, who was landing from the Bandaranaike International Airport on the 24th of the country, he said that the Bribery Commission officials had filed a letter to the Bribery Commission on the 24th.
 
-...
+The petition will file the petition to the Bribery Commission in writing of the investigations into the Bribery Commission.
+
+◼️
 
 [Data](articles/9646c84d.json)
 
+[Extended Data](ext_articles/9646c84d.ext.json)
+
 ---
 
-### අම්බලන්තොට ජල පිරිපහදුවේ කටයුතු තාවකාලිකව නවතී
+### In Ambalantota, the functions of the water refinery stopped temporary
 
 *2025-09-26 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215033) · `si`
 
-අම්බලන්තොට ජල පිරිපහදු මධ්‍යස්ථානයේ, ජල පිරිපහදු කටයුතු මේ වනවිට තාවකාලිකව නවතා දමා තිබේ.
+The Ambalantota Center, water treatment center, has been temporarily stopped.
 
-ඒ සෙවනගල සීනි කර්මාන්ත ශාලාවේ ස්ප්‍රීතු නිෂ්පාදන ආශ්‍රිත ද්‍රව්‍ය යම් ප්‍රමාණයක් වළවේ ගඟට මුසුව තිබීම හේතුවෙන් මීට දින කිහිපයක සිට වලවේ ගඟේ මසුන් මියගොස් ඇති බවට වාර්තා වීමත් සමඟය.
+It is reported that some of the largest materials in the Viwagala Sugar Factory has been reported to have been reported dead in the River River.
 
-මේ හේතුවෙන් අදාළ සිදුවීම සම්බන්ධයෙන් නිසි පර්යේෂණයක් සිදුකරන තෙක් පිරිපහදුවේ පිරිපහදු කටයුතු තාවකාලිකව අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ ප්‍රාදේශීය ඉංජිනේරු කාර්යාලය දැනුම් දී තිබේ.
+The National Water Supply and Drainage Board's office has been suspended that the refinery activities of refinery suspends to suspend the result of proper research regarding the incident.
 
-එමෙන්ම මෙම තත්ත්වය මත, පවතින පිරිපහදු කළ ජල ප්‍රමාණය අම්බලන්තොට ජල පිරිපහදුවෙන් ජලය සැපයෙන ප්‍රදේශයන්ට ලබාදීමට හැක්කේ තව පැය තුනක පමණ කාලයක් බවද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ  ප්‍රාදේශීය ඉංජිනේරු කාර්යාලය දැනුම් දෙනු ලබයි.
+On this situation, the National Water Supply and Drainage Board's office will be informed about three hours of water supply of refined water to the water refinery in Ambalantota.
 
-එසේ වුවද තත්ත්වය යථා තත්ත්වයට පත්කර ගැනීමට හැකි වුවහොත් නැවතත් ජල පිරිපහදු කටයුතු සිදුකිරීමටත් හැකි වනු ඇතැයි ද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ ප්‍රාදේශීය ඉංජිනේරු කාර්යාලයේ නිලධාරියෙකු පැවසීය.
+However, an official of the National Water Supply and Drainage Board's office will be able to restore the situation if it is possible to restore the situation.
 
-පවතින තත්ත්වය තුළ ජලය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ද ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය දැනුම් දෙයි.
+The National Water Supply and Drainage Board also informs the use of water into the prevailing situation.
 
 ◼️
 
 [Data](articles/ddcd2c38.json)
 
+[Extended Data](ext_articles/ddcd2c38.ext.json)
+
 ---
 
-### அமெரிக்காவில் இருந்து ஜப்பானுக்கு புறப்பட்டார் ஜனாதிபதி அனுர
+### President Anura left the United States to Japan
 
 *2025-09-26 14:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவில்-இருந்து-ஜப்பானுக்கு-புறப்பட்டார்-ஜனாதிபதி-அனுர/175-365326) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபைக் கூட்டத்தில் பங்கேற்பதற்காக அமெரிக்காவிற்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்ட   ஜனாதிபதி அனுரகுமார திசாநாயக்க, தனது விஜயத்தை வெற்றிகரமாக நிறைவு செய்து    25 ஆம் திகதி இரவு ஜோன் எஃப். கெனடி சர்வதேச விமான நிலையத்திலிருந்து ஜப்பானுக்குப்  பயணமானார்.
+President Anura Kumara Dissanayake, who made an official visit to the United States to attend the 80th General Assembly of the United Nations, concluded his visit to John F.. He traveled from Kenady International Airport to Japan.
 
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில், ஜனாதிபதி செப்டம்பர் 27 முதல் 30 ஆம்  திகதி வரை ஜப்பானுக்கான உத்தியோகபூர்வ விஜயத்தை  மேற்கொள்கிறார்.
+At the invitation of the Japanese government, the President makes an official visit to Japan from September 27 to 30.
 
-ஜனாதிபதி அனுரகுமார திசாநாயக்கவுடன்  வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரதும் இந்த விஜயத்தில் இணைந்து கொள்கிறார்.
+Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Hera is also joining President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/48014d4c.json)
 
+[Extended Data](ext_articles/48014d4c.ext.json)
+
 ---
 
-### සජිත් ගේ වත්කම් බැරකම් මෙන්න, රු. ලක්ෂ 900 ඉක්මවූ ණයක්
+### Here's Sajith's assets liabs, Rs. A loan over Rs 900 lakhs
 
 *2025-09-26 14:19:55* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-ගේ-වත්කම්-බැරකම්-මෙන්න--රු--ලක්ෂ-900-ඉක්මවූ-ණයක්/11-418738) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ වත්මක් හා බැරකම් පෙරේදා දිනයේදී අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් ප්‍රසිද්ධ කර තිබේ. එම ප්‍රකාශය අනුව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා රු ලක්ෂ 900 ඉක්ම වූ ණය ප්‍රමාණයක් විවිධ බැංකු වල තිබේ.
+Similarly, the Opposition Leader Sajith Premadasa has been published by the Bribery or Corruption Commission on the liabilities. According to the statement, Opposition Leader Sajith Premadasa has over Rs. 900 million in various banks.
 
 ◼️
 
 [Data](articles/3791708c.json)
+
+[Extended Data](ext_articles/3791708c.ext.json)
+
+---
+
+### Chinese Ambassador reaffirms commitment to strengthening ties with Sri Lanka
+
+*2025-09-26 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112940/chinese-ambassador-reaffirms-commitment-to-strengthening-ties-with-sri-lanka) · `en`
+
+Chinese Ambassador to Sri Lanka Qi Zhenhong has reaffirmed China’s longstanding friendship with Sri Lanka, emphasizing that the relationship, which spans over two millennia, continues to remain “deeply rooted and flourishing.”
+
+Speaking at a reception in Colombo to mark the 76th anniversary of the founding of the People’s Republic of China, Ambassador Qi highlighted the success of President Anura Kumara Dissanayake’s visit to China earlier this year.
+
+“At the start of this year, President Dissanayake paid a successful visit to China. Our two leaders reached important outcomes, which provided new strategic guidance for the growth of our bilateral relations,” he said.
+
+The Ambassador pledged that China would continue to work closely with Sri Lanka to promote mutual prosperity, peace, and development, describing the two nations as partners bound by shared aspirations despite challenges.
+
+...
+
+[Data](articles/38cbe9b0.json)
+
+[Extended Data](ext_articles/38cbe9b0.ext.json)
 
 ---
 
@@ -181,13 +453,15 @@ In six baggage he brought, 600 cigarettes crocoded containing 120,000 exotic "pl
 
 *2025-09-26 14:05:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දමවට-ගවනතටන-පනනනන-බරවය/1-680274) · `si`
 
-රුපියල් එක් කෝටි අසූ ලක්ෂයක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු අද (26) රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+A Sri Lankan Air Drug Administration Division has been arrested by a Sri Lankan Air Drug Administration Division (26).
 
-ඔහු විසින් රැගෙන ආ ගමන් මලු 06 ක් තුළ , විදේශීය නිෂ්පාදිත " ප්ලැටිනම්'' වර්ගයේ දුම්වැටි 120,000 ක් අඩංගු දුම්වැටි කාටූන් 600 ක් සගවා ගෙන තිබුණි .‍ෙරේගු නිලධාරීන් විසින් මොහු අත් අඩංගුවේ තබා ගෙන මේ පිළිබද වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
+In six baggage he brought, 600 cigarettes crocoded containing 120,000 exotic "platinum" type cigarettes.
 
 ◼️
 
 [Data](articles/acf0a3bb.json)
+
+[Extended Data](ext_articles/acf0a3bb.ext.json)
 
 ---
 
@@ -209,19 +483,21 @@ Accordingly, the Office of the Nivapathana Health Medical Officer of the Kandy D
 
 ---
 
-### ගමේ සෞඛ්‍ය වැඩට ඩබල් කැබ් හතක්
+### Seven double cab to work in village health
 
 *2025-09-26 13:57:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගම-සඛය-වඩට-ඩබල-කබ-හතක/1-680273) · `si`
 
-ආසියා සංවර්ධන බැංකුවේ මුල්‍ය දායකත්වය සහ සෞඛ්‍ය පද්ධති වැඩිදියුණු කිරීමේ ව්‍යාපෘතියේ අනුග්‍රාහකත්වය යටතේ සෞඛ්‍ය පද්ධති වැඩිදියුණු කිරීමේ ව්‍යාපෘතිය මගින් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයට ඩබල් කැබ් රථ 7 ක් ලබා දී ඇත.
+The Health and Mass Media Development Project has been provided with seven double cab to the Ministry of Health and Mass Media.
 
-අදාළ කැබ් රථ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා විසින් සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාල වෙත ලබාදීම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශ පරිශ්‍රයේ දී සිදු කෙරිණි.
+The Ministry of Health and Mass Media was provided to the Medical Officer of Health and Medical Officers by Hon.
 
-ඒ අනුව නුවර දිස්ත්‍රික්ක‌යේ වරල්ලගම සහ ගඟවට කෝරලේ සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහාත්, අනුරාධපුර දිස්ත්‍රික්කයේ හොරොව්පතාන සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහාත්, බදුල්ල දිස්ත්‍රික්කයේ මහියංගණ සහ බණ්ඩාරවෙල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාල සඳහාත්, රත්නපුර දිස්ත්‍රික්කයේ නිවිතිගල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සඳහාත්, කොළඹ ව්‍යාපෘති කළමණාකරණ ඒකකයටත් නිල වශයෙන් කැබ් රථ බාරදීම මෙහිදී සිදු විය.
+Accordingly, the Office of the Nivapathana Health Medical Officer of the Kandy District and the Colombo District Medical Officer of Health of the Colombo District, the Colombo District Medical Officer of Health, the Colombo Project Medical Officer of the Ratnapura District and handed over the Colombo Project Medical Officer of Health in the Ratnapura District.
 
 ◼️
 
 [Data](articles/a8c9cd89.json)
+
+[Extended Data](ext_articles/a8c9cd89.ext.json)
 
 ---
 
@@ -278,6 +554,22 @@ The preliminary investigations have revealed that 52 packets of ice narcotics we
 [Data](articles/5149a5c7.json)
 
 [Extended Data](ext_articles/5149a5c7.ext.json)
+
+---
+
+### ගැබිනි මව් සායනයට යන මුවාවෙන් ‘අයිස් ‘විකුණලා
+
+*2025-09-26 13:47:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගබන-මව-සයනයට-යන-මවවන-අයස-වකණල/1-680272) · `si`
+
+ගැබිනි මව්වරුන්ගේ සායනයට යන මුවාවෙන් ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් විවිධ ස්ථානවලතබා යන අඹුසැමි යුවලක් (26) දින අත්අඩංගුවට ගත් බව නාවලපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක හරේන්ද්‍ර කළුගම්පිටිය මහතා පැවසීය.
+
+ඊසි කෑෂ් ක්‍රමයට මුදල් ලබා ගෙන අඹුසැමි යුවළක් යතුරු පැදියකින් ගොස් ගම්පොළ, නාවලපිටිය යන ප්‍රදේශවල  අයිස් මත්ද්‍රව්‍ය බෙදා හරින බවට ලද තොරතුරක් මත නාවලපිටිය පොලිසියේ ස්ථානාධිපතිවරයා ඇතුලු නිළධාරින් කණ්ඩායමක් නාවලපිටිය දොලොස්භාග මාර්ගයේ පිහිටි පැරණි දුම්රිය නිළ නිවස අසළදී ඇසුරුම් කරන ලද අයිස් පැකට් තබමින් සිටියදී සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ. ඔවුන් පරික්ෂා කිරිමේදි ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් 52 ක් තිබි සොයා ගත් බව පොලිසිය කියා සිටියේය.
+
+ඇසුරුම් කරන ලද අයිස් මත්ද්‍රව්‍ය පැකට් 52 පැකට් කිහිපයක් සැකකාර කාන්තාවගේ යට ඇදුම්වල තිබි සොයා ගත් බවත්, එක් අයිස් පැකට්ටුවක් රු.7000ක් වැනි මුදලකට අලෙවි කරන බව දැනට කරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇතැයි කියයි.
+
+◼️
+
+[Data](articles/6ca659e7.json)
 
 ---
 
@@ -485,6 +777,22 @@ Today's (26.09.2025) issued by the Central Bank of Sri Lanka
 
 ---
 
+### Sri Lanka participated in the Asian Cup today
+
+*2025-09-26 12:49:50* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානයේ-ශ්‍රී-ලංකාව-සහභාගී-වන-අවසන්-තරගය-අද/9-418737) · `si`
+
+ආසියානු කුසලාන විස්සයි 20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන අවසන් තරගය අද(26දා) පැවැත්වීමට නියමිතව තිබේ.
+
+Sri Lanka will contest with India and the contest will commence at 08 pm.
+
+◼️
+
+[Data](articles/412a5e90.json)
+
+[Extended Data](ext_articles/412a5e90.ext.json)
+
+---
+
 ### The "Girish" case against Namal; Order issued by the court!
 
 *2025-09-26 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226128) · `ta`
@@ -516,6 +824,22 @@ Just, the show should not be shown in Jaffna. Jaffna is not his pawn box, but a 
 [Data](articles/7e81d96a.json)
 
 [Extended Data](ext_articles/7e81d96a.ext.json)
+
+---
+
+### Here is the order that was given today about Namal's Crish case
+
+*2025-09-26 12:39:43* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-ක්‍රිෂ්-නඩුව-ගැන-අද-ලබා-දුන්-නියෝගය-මෙන්න/11-418736) · `si`
+
+ක්‍රිෂ් ගනුදෙනුව සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුවට අදාළව කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ පවතින මුල් නඩු වාර්තාව කැඳවීමට පියවර ගන්නා ලෙස කොළඹ මහාධිකරණය අද (26දා) එහි රෙජිස්ට්‍රාර්වරයාට නියෝග කළේය.
+
+Namal Rajapaksa appeared before the court when the case was taken up today.
+
+◼️
+
+[Data](articles/ca504183.json)
+
+[Extended Data](ext_articles/ca504183.ext.json)
 
 ---
 
@@ -1552,313 +1876,5 @@ A tree has been collapsed on a bus at Olcott Mawatha, Colombo this morning.
 [Data](articles/fbfb51f1.json)
 
 [Extended Data](ext_articles/fbfb51f1.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-09-26 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215022) · `si`
-
-◼️
-
-[Data](articles/71f9e327.json)
-
-[Extended Data](ext_articles/71f9e327.ext.json)
-
----
-
-### The sacrifice of the martyr Dilipan is forever in history -Nirosh in Anjali
-
-*2025-09-26 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226101) · `ta`
-
-Sacrifice Deepam Tilipan fought against the oppression against the Tamil people. He sacrificed his life in nonviolence in order to live freely in our homeland. Thiagarajah Nirosh, the Chairman of the Valikamam East Pradeshiya Sabha, said that the memories of the sacrificial torch are recalling and recalling the memories of the sacrifice.
-
-He was speaking at a tribute to the Pradeshiya Sabha on Thursday.. He is also a tribute to the Mahan who has made his life in a non -violent way against the oppression against our people.. The reasons for his struggle will not be resolved today. Even when governments have come to power, they have made no change in the basics of oppression on the Tamil people.
-
-...
-
-[Data](articles/b119bb69.json)
-
-[Extended Data](ext_articles/b119bb69.ext.json)
-
----
-
-### Landslide alert to several areas
-
-*2025-09-26 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-365306) · `ta`
-
-Due to the inclement weather, many districts of the country have been warned.
-
-Accordingly, the first landslide warning has been issued to Galle and Ratnapura districts.
-
-The National Building Research Institute has issued a secondary landslide alert for Kalutara and Matara districts. Remble
-
-◼️
-
-[Data](articles/6c9c6433.json)
-
-[Extended Data](ext_articles/6c9c6433.ext.json)
-
----
-
-### Sri Lanka Pledges Stronger Ties with Cuba
-
-*2025-09-26 09:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-pledges-stronger-ties-with-cuba) · `en`
-
-...
-
-[Data](articles/5bc17a90.json)
-
-[Extended Data](ext_articles/5bc17a90.ext.json)
-
----
-
-### Seizure of beedi leaves and a variety of agricultural chemicals
-
-*2025-09-26 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226095) · `ta`
-
-Police said that illegal beedi leaves and various types of agricultural chemicals have been seized.
-
-These were confiscated during the raid carried out by the Dungalditiya Police Station in the area of ​​the Dungalditiya Police Division on Thursday (25).
-
-In the meantime, 835 kg 800 grams of beedi leaves, 635 kg 600 grams of agricultural chemicals, and 03 boat machines have been seized.
-
-◼️
-
-[Data](articles/cae9e50b.json)
-
-[Extended Data](ext_articles/cae9e50b.ext.json)
-
----
-
-### Delay in train services
-
-*2025-09-26 09:20:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவைகளில்-தாமதம்/175-365305) · `ta`
-
-A train near the Ambepussa bus stand has caused a technical failure.
-
-The Department of Railways has announced that there will be delays in the main railway services.. Remble
-
-◼️
-
-[Data](articles/1dbb412b.json)
-
-[Extended Data](ext_articles/1dbb412b.ext.json)
-
----
-
-### Hambantota port investment is not aimed at militarization - Chinese diplomat. Huang Unsong
-
-*2025-09-26 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226100) · `ta`
-
-Stories like 'pearls string' misrepresent Chinese investments for the Indian Ocean region. For example, in the Quader port in Karachi, $ 1.6 billion in Karachi, $ 2 billion in Hambantota and multi -billion dollars in Gibouti, all of which are aimed at improving commercial connectivity and local economies, not aimed at militarization of the region, and the Deputy Director of the South Asian Study University.. Huang Unsong said.
-
-He said this while addressing the 12th vacancies.
-
-While the world faced geopolitical changes, economic conditions and environmental challenges in 2025, the Indian Ocean, which is bordered by more than 30 countries, became the lifeline of global trade, with over 30 countries.. About 75 mates in the world maritime oil trading takes place this way. It is a very important global route that connects Africa's resources and the markets of Europe.
-
-...
-
-[Data](articles/1d3d7f56.json)
-
-[Extended Data](ext_articles/1d3d7f56.ext.json)
-
----
-
-### Vijitha Herath and WTO Chief Discuss Trade Reform
-
-*2025-09-26 09:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/vijitha-herath-and-wto-chief-discuss-trade-reform) · `en`
-
-COLOMBO (News 1st); Sri Lanka’s Foreign Minister Vijitha Herath met with Ngozi Okonjo-Iweala, Director-General of the World Trade Organization (WTO), for a bilateral discussion at the United Nations Headquarters.The meeting focused on Sri Lanka’s engagement with the multilateral trading system and explored avenues to enhance cooperation with the WTO. Minister Herath emphasized Sri Lanka’s engagement with the multilateral trading system and ways to strengthen cooperationDirector-General Okonjo-Iweala, while discussing the current global trade landscape, highlighted both the positive developments and challenges facing member states. She also shared insights on the ongoing reform agenda at the WTO, aimed at making the organization more responsive to the needs of developing economies.
-
-◼️
-
-[Data](articles/9fc5a420.json)
-
-[Extended Data](ext_articles/9fc5a420.ext.json)
-
----
-
-### Accident in the Jaffna Sawakcheri Police Division; Youth kills!
-
-*2025-09-26 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226099) · `ta`
-
-One person was killed when two motorcycles collided with a 304th kilometer pillar on A-09 road under the Chavakachcheri police division.
-
-The motorcycle traveling from Chavakachcheri to Jaffna crashed into the opposite direction with another motorcycle.
-
-After the two injured were admitted to the Chavakachcheri Hospital, one of them died without treatment.
-
-The victim was a 21 -year -old youth from Meesalai, police said.
-
-◼️
-
-[Data](articles/d80833c5.json)
-
-[Extended Data](ext_articles/d80833c5.ext.json)
-
----
-
-### Accident in Teldeniya; Woman dies!
-
-*2025-09-26 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226098) · `ta`
-
-A pedestrian was killed when a bus crashed into a pedestrian in the Kengalla area of ​​Kandy -Padiyathalawa road, which belongs to the Teldeniya police division.
-
-He died after being admitted to the Teldeniya Hospital after being seriously injured in the accident.
-
-The deceased is a 55 -year -old woman from Balagolla, police said.
-
-The body is placed in the Teldeniya Hospital. Teldeniya police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/091271ef.json)
-
-[Extended Data](ext_articles/091271ef.ext.json)
-
----
-
-### Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch
-
-*2025-09-26 09:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-hayleys-fentons-assigned-national-long-term-rating-of-a-by-fitch-241935/) · `en`
-
-ECONOMYNEXT – Sri Lanka-based Hayleys Fentons Limited has assigned a national long-term rating of A+(lka), by Fitch Ratings, with a Stable Outlook.
-
-“The rating reflects HFL’s leading market share in domestic rooftop solar panel sales and installation, which drove cash flow in the financial year ending March 2025,” the ratings agency said.
-
-Hayleys Fentons provides services in renewable energy, building infrastructure systems, information and communication technology, and equipment trading, but the sale and installation of rooftop solar panels, accounts for around 70 percent of the company’s EBITDA.
-
-Fitch Assigns Sri Lanka’s Hayleys Fentons First Time ‘A+(lka)’ National Rating
-
-Fitch Ratings – Colombo/Singapore: Fitch Ratings has assigned Sri Lanka-based Hayleys Fentons Limited (HFL) a National Long-Term Rating of A+(lka). The Outlook is Stable.
-
-...
-
-[Data](articles/bd0dafae.json)
-
-[Extended Data](ext_articles/bd0dafae.ext.json)
-
----
-
-### Police Seize Over Half a Kilo of Heroin, 1kg of Ice From Ragama
-
-*2025-09-26 08:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/police-seize-over-half-a-kilo-of-heroin-1kg-of-ice-from-ragama) · `en`
-
-COLOMBO (News 1st); A woman was arrested in the Kandepaluwa area of Ragama while in possession of one kilogram of crystal methamphetamine (commonly known as "Ice") and 560 grams of heroin, according to police sources.The arrest was made during a targeted raid conducted based on a tip-off received by the police, which led officers to a residence where the narcotics were discovered. In a related development, four individuals from a neighboring house were also taken into custody for allegedly aiding and abetting the escape of the homeowner, who is believed to be the main suspect behind the drug operation.The police are continuing their search for the fugitive.The arrested woman was produced before the Welikada Magistrate’s Court, where she was remanded until the next hearing scheduled for Monday.
-
-◼️
-
-[Data](articles/ea05e0df.json)
-
-[Extended Data](ext_articles/ea05e0df.ext.json)
-
----
-
-### Sri Lanka to regain 2019 economic status by next year - President
-
-*2025-09-26 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112927/sri-lanka-to-regain-2019-economic-status-by-next-year-president) · `en`
-
-President Anura Kumara Dissanayake has announced that Sri Lanka is on course to restore its economy to the level it was in 2019, prior to the financial crisis, by next year.
-
-The President made this statement while addressing members of the Sri Lankan community in the United States during his visit to New York for the 80th Session of the United Nations General Assembly (UNGA).
-
-He noted that although Sri Lanka declared bankruptcy in 2022, the country has since made rapid progress in overcoming the crisis.
-
-President Dissanayake also underscored the role of Sri Lankans living abroad, highlighting their financial and moral support during the 2024 presidential and 2025 general elections. He further said that their contribution played a vital role in their victory.
-
-...
-
-[Data](articles/076a7372.json)
-
-[Extended Data](ext_articles/076a7372.ext.json)
-
----
-
-### 100mm of rain in 24 hours
-
-*2025-09-26 08:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-100-மில்லி-மீற்றர்-மழை/175-365304) · `ta`
-
-The Department of Meteorology has announced that the weather with the current rainfall in the southwestern parts of the country will continue in the next 24 hours.
-
-Heavy rainfall is expected in some places in the Western, Sabaragamuwa and North Western Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Rainfall is expected in the North Central Province, Matale, Mannar and Jaffna districts. (A)
-
-◼️
-
-[Data](articles/f6567424.json)
-
-[Extended Data](ext_articles/f6567424.ext.json)
-
----
-
-### Landslide warnings issued for several areas in five districts
-
-*2025-09-26 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/112926/landslide-warnings-issued-for-several-areas-in-five-districts) · `en`
-
-Early landslide warnings have been issued for multiple areas in five districts as heavy rainfall continues in parts of the island.
-
-Landslide warnings have been in effect from 10:00 p.m. yesterday (25) and will remain in effect until 10:00 p.m. today (26), the National Building Research Organisation (NBRO) said.
-
-Accordingly, a Level 2 (Amber)) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Kalutara and Matara districts as follows:
-
-Meanwhile, a Level 1 (Yellow) warning has been issued for several areas in the following districts:
-
-Galle: Nagoda, Elpitiya, Baddegama, Yakkalamulla Divisional Secretariat DSD and surrounding areas.
-
-Ratnapura: Elapatha, Kalawana, Pelmadulla Divisional Secretariat DSD and surrounding areas.
-
-◼️
-
-[Data](articles/b3e323bd.json)
-
-[Extended Data](ext_articles/b3e323bd.ext.json)
-
----
-
-### 100% Tariff On Imported Pharma On October 1: Trump
-
-*2025-09-26 08:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/100-tariff-on-imported-pharma-on-october-1-trump) · `en`
-
-...
-
-[Data](articles/b2cadc60.json)
-
-[Extended Data](ext_articles/b2cadc60.ext.json)
-
----
-
-### Landslide warnings are issued for several areas
-
-*2025-09-26 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215021) · `si`
-
-The National Building Research Organization (NBRO) has issued a landslide warning notification for several areas due to the inclement weather that has affected the island.
-
-◼️
-
-[Data](articles/845a0e22.json)
-
-[Extended Data](ext_articles/845a0e22.ext.json)
-
----
-
-### Accident in Chavakachcheri: Youth killed
-
-*2025-09-26 08:26:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாவகச்சேரியில்-கோர-விபத்து-இளைஞர்-பலி/175-365303) · `ta`
-
-Yall. A youth was killed and a woman was injured in an accident that took place yesterday on the A -9 road in Thenmarachchi, Chavakachcheri - Nuna.
-
-Tipparai traveling from Chavakachcheri to Jaffna, a young man who was traveling from Jaffna to Chavakachcheri in the opposite direction when a woman was trying to overtake a motorbike in the same direction.
-
-The young man died on the spot. The injured woman was admitted to the Chavakachcheri Resource Hospital and transferred to the Jaffna Teaching Hospital for further treatment.
-
-Tilakiswaran Yadus (20 years old) from Budhur junction in Meesalai, North, died in the accident.
-
-◼️
-
-[Data](articles/8ee91797.json)
-
-[Extended Data](ext_articles/8ee91797.ext.json)
 
 ---

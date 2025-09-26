@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 11:57:23**
+As of **2025-09-26 12:13:40**
 
 ## Newspaper Stats
 
-*Scraped **78,237** Articles*
+*Scraped **78,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ economynextcom | 4,719
 dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
-adalk | 7,603
+adalk | 7,604
 adaderanalk | 10,171
-tamilmirrorlk | 11,791
+tamilmirrorlk | 11,792
 virakesarilk | 12,731
-adaderanasinhalalk | 13,666
+adaderanasinhalalk | 13,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,237 (100.0%) of 78,237 articles have been extended.
+78,237 (100.0%) of 78,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
+
+### கடைசிவரை போ​ராடி நிரூபிப்​பேன்:  பிரான்ஸ் முன்னாள் ஜனாதிபதி
+
+*2025-09-26 11:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடைசிவரை-போ-ராடி-நிரூபிப்-பேன்-பிரான்ஸ்-முன்னாள்-ஜனாதிபதி/50-365311) · `ta`
+
+பி​ரான்​ஸில் கடந்த 2007-ம் ஆண்டு நடை​பெற்ற ஜனாதிபதி தேர்​தல் பிரச்​சா​ரத்​துக்​காக, லிபி​யா​வின் அப்​போதைய ஜனாதிபதி கடாஃபி​யிடம் சட்​ட​விரோத​மாக பணம் பெற்ற வழக்​கில், முன்​னாள் ஜனாதிபதி நிக்​கோலஸ் சர்​கோசிக்கு 5 ஆண்டு சிறை தண்​டனை விதிக்​கப்​பட்​டுள்​ளது.
+
+பிரான்​ஸில் கடந்த 2007-ம் ஆண்டு நடந்த ஜனாதிபதி தேர்​தலில் நிக்​கோலஸ் சர்​கோசி வெற்றி பெற்று அதிப​ரா​னார். அப்​போது தேர்​தல் பிரச்​சா​ரத்​துக்​காக லிபி​யா​வின் அப்​போதைய ஜனாதிபதி மாமர் கடாஃபி​யிடம் இருந்து சட்​ட​விரோத​மாக நிதி பெற்​ற​தாக​வும், இதற்கு பிர​திபல​னாக, தனித்​து​விடப்​பட்ட லிபி​யா​வுக்கு சர்​வ​தேச அரங்​கில் பிரான்ஸ் ஆதர​வாக செயல்​படும் என நிக்​கோலஸ் சர்​கோசி உறு​தி​ அளித்ததாகவும் தெரியவந்தது.
+
+...
+
+[Data](articles/fbe6780d.json)
+
+---
+
+### විශේෂ මෙහෙයුමකින් 717ක් සැකපිට අත්අඩංගුවට
+
+*2025-09-26 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215029) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා පොලීසිය සිදුකරගෙන යනු ලබන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම්වලින් ඊයේ (25) දිනයේ දී පුද්ගලයින් 717ක් සැකපිට අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+එමෙන්ම දිවයින පුරා මෙලෙස අපරාධවලට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම ඉදිරියේදී සිදුකරන බවද වැඩිදුර සඳහන්.
+
+ඒ අනුව කොට්ඨාස මට්ටමින් සියලුම ප්‍රාදේශීය පොලිස් ස්ථාන ආවරණය වන පරිදි විශේෂ මෙහෙයුම් ක්‍රියාත්මක කර ඇත.
+
+◼️
+
+[Data](articles/4502242d.json)
+
+---
+
+### නාමල්ගේ ක්‍රිෂ් නඩුවට අධිකරණයෙන් නියෝගයක්
+
+*2025-09-26 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215028) · `si`
+
+ක්‍රිෂ් ගනුදෙනුව සම්බන්ධයෙන් හිටපු අමාත්‍ය නාමල් රාජපක්ෂ මහතාට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුවේ කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවේ පවතින මුල් නඩු වාර්තාව කැඳවීමට පියවර ගන්නා ලෙස කොළඹ මහාධිකරණය අද (26) එහි රෙජිස්ට්‍රාර්වරයාට නියම කළේය.
+
+මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු නදී අපර්ණා සුවඳුරුගොඩ මහත්මිය ඉදිරියේ කැඳවනු ලැබුවාය.
+
+◼️
+
+[Data](articles/1d067895.json)
+
+---
+
+### 'පද්මේ' සඟවා තිබූ පිස්තෝලයක් පෑලියගොඩින් හමුවෙයි
+
+*2025-09-26 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215027) · `si`
+
+පාතාල කල්ලි සාමාජික 'කෙහෙල්බද්දර පද්මේ' විසින් සඟවා තැබූ බව පැවසෙන ටී-56 පතොරම් 500කට අධික ප්‍රමාණයක් පෑලියගොඩ මාළු වෙළෙඳසැළ අසලින් සොයාගෙන තිබේ.
+
+මෙහිදී ටී-56 මැගසින් 4ක්, මයික්‍රෝ පිස්තෝලයක් ද සොයා ගැනීමට පොලීසියට හැකිව ඇත.
+
+බස්නාහිර පළාත් උතුරු අපරාධ කොට්ඨාශය විසින් කරනු ලැබූ ප්‍රශ්න කිරීමේදී වලදී මෙම තොරතුරු අනාවරණය වී තිබේ.
+
+සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි හෙවත් 'කෙහෙල්බද්දර පද්මේ' ඇතළු පාතාල කල්ලි සාමාජිකයන් කිහිප දෙනෙකු පසුගියදා ඉන්දුනීසියාවේදී අත්අඩංගුවට පත්විය.
+
+◼️
+
+[Data](articles/7de9783d.json)
+
+---
 
 ### Will not be reversed - President
 
@@ -267,6 +329,22 @@ Earlier this year, the Trump administration launched a probe into imports of tru
 [Data](articles/a72d5646.json)
 
 [Extended Data](ext_articles/a72d5646.ext.json)
+
+---
+
+### බාහිර උපාධිවල ගුණාත්මකභාවය අවාධානයට
+
+*2025-09-26 09:52:27* · [`adalk`](https://www.ada.lk/breaking_news/බාහිර-උපාධිවල-ගුණාත්මකභාවය-අවාධානයට/11-418732) · `si`
+
+උසස් අධ්‍යාපන අංශය පිළිබඳ අනු කාරක සභාව විශ්වවිද්‍යාල උපකුලපතිවරුන් සමඟ ශ්‍රී ලංකාවේ විශ්වවිද්‍යාලවට සම්බන්ධ කරුණු කිහිපයක් පිළිබඳව සාකච්ඡා කිරීම සිදු විය.
+
+මේ පිළිබඳ සාකච්ඡා කිරීම සිදු වූයේ මෙම අනු කාරක සභාව ගරු නියෝජ්‍ය අමාත්‍ය (වෛද්‍ය) මධුර සෙනෙවිරත්න මහතාගේ සභාපතිත්වයෙන් පසුගියදා (23) පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදීය.
+
+මෙහිදී ආබාධ සහිත ළමුන් විශ්වවිද්‍යාල සඳහා බඳවා ගැනීමට අවශ්‍ය ප්‍රතිපත්තිය සකස් කිරීම පිළිබඳ අනු කාරක සභාවේ අවධානය යොමු වූ අතර මේ වන විටත් එම ප්‍රතිපත්තියේ කෙටුම්පත සකස් කොට අවසන් වී ඇති බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පෙන්වා දෙන ලදී. මේ අනුව එම කෙටුම්පත විශ්වවිද්‍යාල උපකුලපතිවරුන්ට ලබා දෙන බවද මෙහිදී විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ නිලධාරීහු පැවසූහ.
+
+...
+
+[Data](articles/d53b0142.json)
 
 ---
 
@@ -1871,121 +1949,5 @@ Instead, the complaint was accused of supporting Gaddafi's reputation against Ga
 [Data](articles/44317dba.json)
 
 [Extended Data](ext_articles/44317dba.ext.json)
-
----
-
-### 26 Unauthorized camps in Piduruthalagala forest reserve
-
-*2025-09-25 17:35:06* · [`adalk`](https://www.ada.lk/breaking_news/පිදුරුතලාගල-රක්ෂිතයේ-අනවසරෙන්-කදවුරු--බැදි-26-දෙනෙකු-අධිකරණය-හමුවට/11-418725) · `si`
-
-The suspects were arrested by the Nuwara Eliya Magistrate office to meet the suspects, as the Nuwara Eliya Magistrate and the suspects were presented to the Anuradhapura Magistrate and released on bail due to the permission.
-
-The suspects had been arrested on a tip off received by the Nuwara Eliya Forest Reserve, including the Cayanuruttagala forest reserve on the area of ​​the Viduruwattegala forest reserve.
-
-It has been revealed that the suspects were among the 26 suspects in the age group of 25-year-old agencies that the suspects were among many parts of Panadura, Panadura and Kurunegala, identified by their families across the face.
-
-◼️
-
-[Data](articles/332447c8.json)
-
-[Extended Data](ext_articles/332447c8.ext.json)
-
----
-
-### Hemas Holdings to buy consumer products company in Kenya
-
-*2025-09-25 17:29:00* · [`economynextcom`](https://economynext.com/hemas-holdings-to-buy-consumer-products-company-in-kenya-241923/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hemas Holdings said that it has entered into a conditional share sale and purchase agreement to acquire a majority equity interest in a consumer products company based in Kenya.
-
-“Completion of the transaction is subject to the receipt of regulatory approvals, including from the Competition Authority of Kenya and the Central Bank of Sri Lanka, as well as satisfaction of other customary conditions precedent,” the company said in a stock exchange filing.
-
-The deal is expected to be finalized within the next 6 months.
-
-Hemas Holdings’ board approved on September 25 to proceed with the agreement, and further developments will be announced in due course, the company said. (Colombo/Sep25/2025)
-
-◼️
-
-[Data](articles/c6c83e57.json)
-
-[Extended Data](ext_articles/c6c83e57.ext.json)
-
----
-
-### Court order on Naa Uyana Cable Dakku accident
-
-*2025-09-25 17:26:45* · [`adalk`](https://www.ada.lk/breaking_news/නා- උයන-කේබල්-ඩක්කු-අනතුර-ගැන-අධිකරණ-නියෝගයක්/11-418724) · `si`
-
-Mahawa Magistrate Kananathi Abhimani Senge Seneviratne ordered the court to report a proper investigation into the incident in the Naa Uyana Aranya Senaka area in Melsiripura Police, Kurunegala.
-
-The Magistrate also ordered the assistance of mechanical engineers for investigations into the decline of this dack.. The Magistrate was further ordered to preserve the post mortem examination in the court mortality regarding the bodies of the monks who have been identified as the bodies of the monks.
-
-The Mahawa Teaching Hospital has also ordered the police to disclose the bodies of Buddhist monks in the process of releasing the bodies of Buddhist monks.
-
-The Mahawa Magistrate was ordered to be the case with a dictionary of the arrival in the Naa Uyanpura Police in Melsirapura Punziriya, Kurunegala and six others.
-
-The Pancama Police said that the monks had died of a sudden death in the land of the Naa Uyana.
-
-...
-
-[Data](articles/54f0e295.json)
-
-[Extended Data](ext_articles/54f0e295.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-25 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241909/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.50/55 to the US dollar on Thursday, relatively flat from 302.45/55 the previous day, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 8.25/32 percent.
-
-A bond maturing on 15.09.2027 closed at 8.70/82 percent, up from 8.65/75 percent.
-
-A bond maturing on 15.12.2028 closed at 9.10/15 percent, up from 9.08/15 percent.
-
-A bond maturing on 15.12.2029 closed at 9.52/56 percent, up from 9.50/56 percent.
-
-A bond maturing on 01.07.2030 closed at 9.70/75 percent, up from 9.68/73 percent.
-
-A bond maturing on 15.12.2032 closed at 10.43/47 percent, down from 10.43/48 percent. (Colombo/Sep25/2025)
-
-◼️
-
-[Data](articles/bdff436e.json)
-
-[Extended Data](ext_articles/bdff436e.ext.json)
-
----
-
-### A Sri Lankan woman arrested in Hong Kong
-
-*2025-09-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215004) · `si`
-
-Hong Kong Police have arrested two Indian women to an attempt to obtain a photo of a cyclone of a child in danger.
-
-The mother of the two women is said to be an Indian woman.
-
-The 'Ragshaza' was also impacted to Hong Kong due to the 'Ragsa' towards China.
-
-As a result, the disaster sector warnings had been issued to stay in safe places and staying from coastal areas.
-
-They warned that the storm waves are extremely risks and that it can be broken without a small or warning.
-
-In such a situation, the mother of India has gone to buy a photo with his child.
-
-The Cellfi photo was taken by the Sri Lankan woman, the friend of the mother.
-
-All three have been abandoned by three times with a wave of waves, with them, and all three have been hospitalized. States that their lives have no risk.
-
-However, despite risk signals, the two women have arrested the two women to take the 5-year-old child.
-
-...
-
-[Data](articles/658fc7c6.json)
-
-[Extended Data](ext_articles/658fc7c6.ext.json)
 
 ---

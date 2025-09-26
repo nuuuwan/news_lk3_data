@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 12:38:28**
+As of **2025-09-26 12:55:41**
 
 ## Newspaper Stats
 
-*Scraped **78,247** Articles*
+*Scraped **78,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,132 @@ dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,553
 adalk | 7,605
-adaderanalk | 10,171
-tamilmirrorlk | 11,796
-virakesarilk | 12,731
-adaderanasinhalalk | 13,669
+adaderanalk | 10,174
+tamilmirrorlk | 11,797
+virakesarilk | 12,736
+adaderanasinhalalk | 13,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,244 (100.0%) of 78,247 articles have been extended.
+78,247 (100.0%) of 78,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-26 (Friday)
 
-### முதிரைக்குற்றிகளுடன் வாகனம் விபத்து: சாரதி மாயம்
+### பேத்திக்கு சோறு ஊட்டிய பாட்டியின் தங்க நகை அபகரிப்பு
+
+*2025-09-26 12:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேத்திக்கு-சோறு-ஊட்டிய-பாட்டியின்-தங்க-நகை-அபகரிப்பு/175-365317) · `ta`
+
+ஒரு வீட்டில் தனது பேத்திக்கு சோறு ஊட்டிக்கொண்டிருந்த பாட்டியின் தங்க நகையை மோட்டார் சைக்கிளில் வந்த 25 வயது இளைஞர் ஒருவர் அபகரித்துச் சென்றுள்ள சம்பவம், மொனராகலை, சிரிவிஜயபுராவில் இடம்பெற்றுள்ளது. சென்றுள்ளார்.
+
+தனது குழந்தைக்கு சோறு ஊட்டிக்கொண்டிருந்த பெண்ணை அணுகிய இரண்டு இளைஞர்களில் ஒருவர், அவரது மொபைல் போனில் இருந்த புகைப்படத்தைக் காட்டி, அவரைத் தெரியுமா என்று கேட்டனர்.
+
+அதைப் பார்த்துக் கொண்டிருந்தபோது, ​​அந்த இளைஞர் உடனடியாக அவரது கழுத்தில் இருந்த தங்க நகையைப் பறித்துக்கொண்டு, தான் ஓட்டி வந்த மோட்டார் சைக்கிளில் தப்பிச் சென்றார்.
+
+இந்த தங்க நகையின் மதிப்பு சுமார் 2 இலட்சத்து அறுபதாயிரம் ரூபாய் என அறியமுடிகின்றது.
+
+சம்பவம் குறித்து விசாரணைகளை நடத்திய பொலிஸார் , அந்த இளைஞன் பிபில பகுதியைச் சேர்ந்தவர் என அடையாளம் கண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/526dfcb0.json)
+
+---
+
+### பணிப்பாளர்கள் இன்றி மூன்று தேசிய வைத்தியசாலைகள் இயங்குவதாக தகவல்
+
+*2025-09-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226126) · `ta`
+
+நாட்டில் மூன்று வைத்தியசாலைகள் 08 மாதங்களுக்கும் அதிகமாக நிரந்தர பணிப்பாளர்கள் இன்றி இயங்கி வருவதாக சுகாதாரத் துறை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+அதன்படி,  கொழும்பில், கண்டி மற்றும் காலி ஆகிய மாவட்டங்களிலுள்ள தேசிய வைத்தியசாலைகள் பணிப்பாளர்கள் இன்றி இயங்கி வருகின்றன.
+
+தற்போது, கொழும்பில் உள்ள தேசிய வைத்தியசாலையை வைத்தியர் பிரதீப் விஜயசிங்க நிர்வகித்து வருகிறார், அவர் லேடி ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் பணிப்பாளராகவும் பணியாற்றுகிறார். வைத்தியர் விஜயசிங்க இரண்டு வைத்தியசாலைகளின் நிர்வாகத்தையும் ஒரே நேரத்தில் கையாண்டு வருகிறார்.
+
+பிரதி பணிப்பாளர் ஆளுநர்  பதவிகளுக்கான நேர்காணல்கள் ஏற்கனவே நடத்தப்பட்டுவிட்டதாக சுகாதார பிரதி  அமைச்சர் வைத்தியர் ஹன்சக விஜயமுனி ஆங்கில ஊடகமொன்றுக்கு தெரிவித்துள்ளார்.
+
+எனினும், பொது சேவை ஆணையத்தால் ஏற்றுக்கொள்ளப்பட்ட புதிய நடைமுறை ஒன்று காரணமாக தீர்மானங்களை அறிவிப்பதில் தாமதம் ஏற்பட்டுள்ளதாக அவர் மேலும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/bf5d622c.json)
+
+---
+
+### மட்டக்களப்பு மாவட்டத்தின் புதிய அரசாங்க அதிபராக ஜே.எஸ் அருள்ராஜ் நியமனம்
+
+*2025-09-26 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226131) · `ta`
+
+மட்டக்களப்பு மாவட்டத்திற்கான புதிய மாவட்ட செயலாளராகவும் அரசாங்க அதிபராகவும் ஜே.எஸ். அருள்ராஜ்   அமைச்சரவை அனுமதிகளுடன் நியமிக்கப்பட்டு, இன்று வெள்ளிக்கிழமை (26) தனது உத்தியோகபூர்வ கடமைகளை புதிய மாவட்ட செயலக அலுவலகத்தில் ஆரம்பித்தார் .
+
+மட்டக்களப்பு மாவட்ட அரசாங்க அதிபராக கடமையாற்றிய திருமதி ஜே. ஜே. முரளிதரன்  நேற்றைய தினம் முதல் பொதுச் சேவையிலிருந்து ஓய்வு பெற்றதை அடுத்து, கிழக்கு மாகாண ஆளுநரின் செயலாளராக தற்போது கடமையாற்றிய இலங்கை நிர்வாக சேவையின் விசேட தர அதிகாரியான  ஜே. எஸ். அருள்ராஜ்  மட்டக்களப்பு மாவட்ட அரசாங்க அதிபராக நியமிக்க பொது நிருவாகம், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் சமர்ப்பித்த முன்மொழிவுக்கு அமைச்சரவை 15.09.2025 அன்று அனுமதி வழங்கப்பட்டடுள்ளது.
+
+இந் நியமனத்தினால் குறைந்த வயதில் அரசாங்க அதிபரானவர் என்ற பெருமையை  ஜே.எஸ் அருள்ராஜ் பெற்றுக்கொண்டார்.
+
+யாழ்ப்பாண பல்கலைக்கழகத்தின் கலைப்பட்டதாரியான இவர், 2003 ம் ஆண்டு இலங்கை நிருவாக சேவைக்கு தெரிவு செய்யப்பட்டிருந்தார்.
+
+...
+
+[Data](articles/84bd86b8.json)
+
+---
+
+### ජනපති අමෙරිකානු සංචාරය නිම කරමින් ජපාන නිල සංචාරය අරඹයි
+
+*2025-09-26 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215030) · `si`
+
+එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසි වාරයට සහභාගි වීම සඳහා සිදුකළ අමෙරිකා එක්සත් ජනපදයේ සංචාරය සාර්ථකව නිම කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානය බලා පිටව ගොස් තිබේ.
+
+ඊයේ (25) රාත්‍රියේ  ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජපානය බලා පිටත්ව ගොස් ඇත.
+
+ජපන් රජයේ ආරාධනයකට අනුව, ජනාධිපතිවරයා සැප්තැම්බර් 27 වන දින සිට 30 වන දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ මෙම සංචාරය සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද එක්ව සිටී.
+
+◼️
+
+[Data](articles/684050ea.json)
+
+---
+
+### Vehicle accident with maturations: driver magic
 
 *2025-09-26 12:16:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதிரைக்குற்றிகளுடன்-வாகனம்-விபத்து-சாரதி-மாயம்/72-365315) · `ta`
 
-வவுனியா புதுக்குளம் பகுதிக்கு அருகாமையில் முதிரைக்குற்றிகளை ஏற்றிச் சென்ற வாகனம் ஒன்று விபத்துக்குள்ளான நிலையில் பொலிஸாரால் மீட்கப்பட்டது.
+A vehicle carrying matures near the Vavuniya Pudukkulam area was recovered by police after the accident.
 
-குறித்த வாகனம் இரணை இலுப்பகுளம் பகுதியில் இருந்து வவுனியா நோக்கி வந்து கொண்டிருந்த போது அங்கு கடமையில் இருந்த பொலிஸாரால் நிறுத்தப்பட்டுள்ளது. எனினும் அது நிறுத்தாமல் சென்றதாக பொலிஸார் தெரிவித்தனர்.
+The vehicle was parked by the police on duty when the vehicle was coming from Ilappakulam to Vavuniya.. However, police said it had not stopped.
 
-இந்நிலையில் புது குளத்திற்கு அண்மித்த பகுதியில்  விபத்துக்குள்ளான நிலையில் பொலிஸாரால் அவ் வாகனம் மீட்கப்பட்டது.
+The vehicle was recovered by the police as the new pond crashed into a nearby area.
 
 ◼️
 
 [Data](articles/c4a20ef2.json)
 
+[Extended Data](ext_articles/c4a20ef2.ext.json)
+
 ---
 
-### திலீபனுக்கு தலைநகர் கொழும்பில் அஞ்சலி
+### Tribute to Dileepan's capital Colombo
 
 *2025-09-26 12:12:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலீபனுக்கு-தலைநகர்-கொழும்பில்-அஞ்சலி/175-365314) · `ta`
 
-தியாகதீபம் திலீபனின் 38ஆம் ஆண்டு நினைவேந்தலின் இறுதி நாள் அஞ்சலி நிகழ்வுகள் தமிழர் தாயகப் பகுதிகளிலும், புலம்பெயர் தேசங்களில் உணர்வெழுச்சியுடன் மேற்கொள்ளப்பட்டு வருகின்றன.
+Tyagadeepam Dileepan's 38th anniversary tribute events are being carried out in the Tamil homeland and in the diaspora.
 
-இந்நிலையில் வன்னி மாவட்ட பாராளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் இலங்கைத் தலைநகர் கொழும்பில் தியாக தீபம் திலீபனுக்கு 26.09.2025இன்று இறுதிநாள் அஞ்சலிகளைச்செலுத்தினார்.
+In this backdrop, Vanni district parliamentarian Durairasa Ravikaran paid tribute to the Sacrifice Deepam Dileepan in Colombo, the capital of Sri Lanka.
 
-குறிப்பாக தற்போது செப்டம்பர் மாதத்திற்கான இரண்டாவது மாதாந்த பாராளுமன்ற கூட்டத்தொடர் இடம்பெற்றுவருகின்றன. ஆகவே குறித்த பாராளுமன்றக் கூட்டத் தொடரில் பங்கேற்பதற்காக பாராளுமன்ற உறுப்பினர் ரவிகரன் இலங்கைத் தலைநகர் கொழும்பில் தங்கியுள்ளார். இந்நிலையிலேயே அவரால் கொழும்பில் தியாக தீபம் திலீபனுக்கு அஞ்சலி செலுத்தப்பட்டுள்ளது.
+The second monthly parliamentary session is currently underway for September. Therefore, MP Ravikaran stays in the capital of Sri Lanka to participate in the parliamentary session.. It is in this context that he has paid tribute to Dileepan in Colombo.
 
-அந்த வகையில் தியாகதீபம் திலீபனின் திருவுருவப் படத்திற்கு சுடரேற்றப்பட்டு, மலர் தூவப்பட்டு உணர்வெழுச்சியுடன் மேற்கொள்ளப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+It is noteworthy that Thyadheepam Dileepan's image was shot, floral and felt.
 
 ◼️
 
 [Data](articles/c4b6a35e.json)
+
+[Extended Data](ext_articles/c4b6a35e.ext.json)
 
 ---
 
@@ -108,6 +188,24 @@ Sri Lanka lost the chance to lose the end of the Tip Pott.. The team lost 4 wick
 
 ---
 
+### Over 700 suspects arrested in special island-wide police operations
+
+*2025-09-26 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112936/over-700-suspects-arrested-in-special-island-wide-police-operations) · `en`
+
+The Sri Lanka Police reported that a total of 717 suspects were arrested yesterday (25), during ongoing crime and drug prevention operations conducted across the country.
+
+Authorities stated that efforts to apprehend individuals involved in criminal activities will continue islandwide.
+
+Special operations have been implemented at all regional police stations at the divisional level, said police.
+
+• Number of people directly identified in connection with crimes: 28
+
+◼️
+
+[Data](articles/0e6bca1b.json)
+
+---
+
 ### Po Rady Prove Last to the Last: Former President of France
 
 *2025-09-26 11:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கடைசிவரை-போ-ராடி-நிரூபிப்-பேன்-பிரான்ஸ்-முன்னாள்-ஜனாதிபதி/50-365311) · `ta`
@@ -126,6 +224,22 @@ It is a series of funds that have been funded by the President of the Chairperso
 
 ---
 
+### பாராளுமன்ற சமையலறையில் சிறிய அளவில் திருத்தங்கள் மேற்கொள்ளப்படவேண்டும் : பிரசாத் சிறிவர்தன எம்.பி.
+
+*2025-09-26 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226117) · `ta`
+
+பாராளுமன்ற சமையலறையில் சிறிய அளவில் திருத்தங்கள் மேற்கொள்ளப்பட வேண்டும் என எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் பிரசாத் சிறிவர்தன தெரிவித்துள்ளார்.
+
+இந்நிலையில், "அங்கு ஆறு அடுப்புகள் செயலிழந்துள்ளதாகவும், உறைவிப்பான் அறை புதுப்பிக்கப்பட வேண்டும். சமையலறையில் உண்டாகும் புகை, வாசனை மற்றும் தாளிப்பு வாசனைகளை வெளியேற்றி, சமையலறையில் காற்றோட்டத்தை உறுதிசெய்யப் பயன்படும் உபகரணமான க்ஸாஸ்ட் ஃபேன்களையும் (exhaust fan) மாற்ற வேண்டும்" என அவர் தெரிவித்துள்ளார்.
+
+அத்தோடு, அனைத்து ஜன்னல்களும் உலோக வலயங்கள் மற்றும் கண்ணாடிகளால் மூடப்பட்டிருப்பதால், எலிகள் மற்றும் கரப்பான் பூச்சிகளால் சமையலறை பாதிக்கப்பட்டுள்ளதாக சபாநாயகர் தெரிவிப்பது தவறான கருத்து என எம்.பி. தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c7cd5760.json)
+
+---
+
 ### 717 arrested on a special operation
 
 *2025-09-26 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215029) · `si`
@@ -141,6 +255,22 @@ Accordingly, special operations have been implemented covering all local police 
 [Data](articles/4502242d.json)
 
 [Extended Data](ext_articles/4502242d.ext.json)
+
+---
+
+### ‘கெஹெல்பத்தர பத்மே’விடம் விசாரணை ; 500க்கும் மேற்பட்ட தோட்டாக்கள், துப்பாக்கிகள் கைப்பற்றல்!
+
+*2025-09-26 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226120) · `ta`
+
+கைது செய்யப்பட்டு  பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பாதாள உலகக் குழுத் தலைவர் ‘கெஹெல்பத்தர பத்மே’ என்பவரிடம் நடத்தப்பட்ட விசாரணைகளின் அடிப்படையில் கிடைக்கப் பெற்ற தகவலின் பேரில் மேல் மாகாண வடக்கு குற்றப்பிரிவினரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் தோட்டாக்கள் மற்றும் துப்பாக்கிகள் கைப்பற்றப்பட்டுள்ளன.
+
+சுமார் 500க்கும் மேற்பட்ட தோட்டாக்கள் மற்றும் ரி-56 துப்பாக்கிகள், நான்கு ரி-56 மேகசின்கள் மற்றும் ஒரு மைக்ரோ பிஸ்டல் உள்ளிட்ட பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+பேலியகொடை மீன் சந்தைக்கு அருகில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் இந்த ஆயுதங்கள் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/c9edcf49.json)
 
 ---
 
@@ -172,6 +302,26 @@ The judge also ordered to be summoned for the previous trial seminar on the 18th
 
 ---
 
+### 2026 Appropriation Bill presented to Parliament
+
+*2025-09-26 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112935/2026-appropriation-bill-presented-to-parliament) · `en`
+
+The Appropriation Bill for the year 2026 has been presented to Parliament today (26) by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+The Appropriation Bill, to allocate funds for the government expenditure in 2026 financial year, was gazetted on September 18.
+
+According to the Appropriation Bill, which the National People’s Power (NPP) government is scheduled to present to Parliament as its second budget, the total government expenditure for 2026 is Rs. 4,434 billion.
+
+The Ministry of Finance has been allocated the largest share, amounting to Rs. 634 billion, for the coming year.
+
+The Ministry of Provincial Councils and Local Government has been allocated Rs. 618 billion, while Rs. 596 billion has been allocated to the Ministry of Public Administration.
+
+◼️
+
+[Data](articles/6408499b.json)
+
+---
+
 ### Pujotha found a hidden pistol
 
 *2025-09-26 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215027) · `si`
@@ -189,6 +339,24 @@ The underworld gangs were arrested in Indonesia recently.
 [Data](articles/7de9783d.json)
 
 [Extended Data](ext_articles/7de9783d.ext.json)
+
+---
+
+### New vehicle number plates with advanced features to be issued by Nov 15 – Transport Minister
+
+*2025-09-26 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112934/new-vehicle-number-plates-with-advanced-features-to-be-issued-by-nov-15-transport-minister-) · `en`
+
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake has stated that new vehicle number plates with advanced security features and modern technology will be issued by November 15.
+
+Minister Ratnayake highlighted in Parliament today (26) that a significant number of vehicles in the market are currently operating without number plates.
+
+He further noted that the Department of Motor Traffic (DMT) has not progressed for about 10 years due to the corruption and negligence in the political actions.
+
+The Minister further stated that a new driving license will be introduced and that temporary measures will be implemented next week to address the issue of vehicles without number plates.
+
+◼️
+
+[Data](articles/a9b997ed.json)
 
 ---
 
@@ -223,6 +391,26 @@ The body has been placed at the Negombo hospital morgue and the suspect has been
 [Data](articles/741faab9.json)
 
 [Extended Data](ext_articles/741faab9.ext.json)
+
+---
+
+### சம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த  தனியார் நிறுவனத்திற்கு அபராதம்!
+
+*2025-09-26 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226115) · `ta`
+
+இறக்குமதி செய்யப்பட்ட சம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த தனியார் நிறுவனமொன்றுக்கு அபராதம் விதிக்கப்பட்டுள்ளது.
+
+காலி - கஹதுவத்த பகுதியில் உள்ள தனியார் நிறுவனமொன்றிற்கே காலி நீதவான் நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+நிறுவனத்தின் உரிமையாளர் தனது குற்றத்தை ஒப்புக்கொண்டதை அடுத்து இந்த அபராதம் விதிக்கப்பட்டதாக நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
+
+சம்பந்தப்பட்ட நிறுவனம் இறக்குமதி செய்யப்பட்ட சம்பா அரிசியை 1 கிலோகிராம் 273 ரூபாய்க்கு விற்பனை செய்துள்ளது.
+
+ஆனால், ஒழுங்குபடுத்தப்பட்ட விலை 1 கிலோகிராமிற்கு 230 ரூபாய் என நுகர்வோர் விவகார அதிகாரசபை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/601501a2.json)
 
 ---
 
@@ -408,19 +596,21 @@ Ratnapuri: Elapatha, Kalana, Belmatulla Divisional Secretariat Division and adjo
 
 ---
 
-### ජනාධිපති මන්දිර අටක් නඩත්තුවට කෝටි අටක්
+### Eight million Presidential Palaces
 
 *2025-09-26 09:57:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-මන්දිර-අටක්-නඩත්තුවට-කෝටි-අටක්/11-418733) · `si`
 
-නාධිපති මන්දිර අටක් නඩත්තු කිරිම සදහා ඉකුත් වර්ෂයේ (2024)  රුපියල් අටකෝටි,එක්ලක්ෂ,පනස්හතරදහස් හාරසියවිසිදෙකක මුදලක් (80,154,422)  ජනාධිපති ලේකම් කාර්යාලය මගින් වැයකොට ඇති බව අනාවරණය වි ඇත.
+It has been revealed that the Presidential Secretariat has spent Rs.
 
-මෙම ජනාධිපති මන්දිරවල  ආරක්ෂක අංශ නිලධාරින් 392ක්, සිවිල්  සේවකයින් 16 දෙනෙකු  සේවයේ යෙදි තිබුණි. සිවිල් සේවකයින් 16 දෙනෙකු සදහා වැටුප් හා දිමනා  ගෙවිම සදහා ඉකුත් වර්ෂයේ  (2024)  දි රුපියල්  එක්කෝටි,තිස්හත්ලක්ෂ,හතලිස්එකදහස්,අසුවක මුදලක් (13,741,080) වැයකොට තිබුණි.
+392 security personnel in the President's House and 16 civil servants were employed. Thirty, forty-or-forty, forty, forty, forty, forty, forty, forty, forty, forty-or-forty-year, had been spent on 16 civil servants.
 
-ජනාධිපති ලේකම් කාර්යාල සම්බන්දයෙන් 2024 වර්ෂයට අදාළව නිකුත්කොට ඇති වාර්ෂික කාර්යසාධන වාර්තාවට  ඇතුලත්කොට ඇති  විගණන වාර්තාව මගින් මෙම තොරතුරු අනාවරණය වි තිබුණි.
+The audit report included in the Annual Performance Report issued by the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/c9537790.json)
+
+[Extended Data](ext_articles/c9537790.ext.json)
 
 ---
 
@@ -1749,215 +1939,5 @@ Meanwhile, Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha 
 [Data](articles/dae8c727.json)
 
 [Extended Data](ext_articles/dae8c727.ext.json)
-
----
-
-### Agricultural and Agrarian Insurance Board
-
-*2025-09-25 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215010) · `si`
-
-1,669 million has been paid under the National Ulankara Scheme.
-
-Accordingly, 81,234 farmers have benefited from the crops of corn, maize, chilli and potatoes.
-
-In addition, there have been a number of cattle and goat insurance projects under the Livestock Insurance Scheme.
-
-The total assets of the Agrarian Insurance Board have been able to increase the amount of financial assets of the Agrarian Insurance Board to Rs. 2,491 million.
-
-◼️
-
-[Data](articles/f97445ec.json)
-
-[Extended Data](ext_articles/f97445ec.ext.json)
-
----
-
-### Many roads in Galle beat water
-
-*2025-09-25 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215009) · `si`
-
-The Ada Derana reporter said several roads in Galle were flooded by heavy rainfall today (24).
-
-Galle-Wakwella main road in Galle and Baddegama Mapalagama main road in Galle and Baddegama Mapalagama main road from Talapitiya, Saravankadura, and Indigenous Tarming Station
-
-Meanwhile, many other by-roads in Galle were flooded with water, and the road was also reported.
-
-Residents allege that not properly drainage system and unauthorized constructions on the main drains of rainwater drains.
-
-◼️
-
-[Data](articles/cae7e507.json)
-
-[Extended Data](ext_articles/cae7e507.ext.json)
-
----
-
-### 5 years in prison for former French President Nicolas Sarkozy
-
-*2025-09-25 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226086) · `ta`
-
-Former President of France Nicholas Sarkozy has been sentenced to five years in prison for illegal funding.
-
-He was accused of illegally obtaining millions of euros from Libyan leader Colonel Murmar Gaddafi. In this case, the Paris Criminal Court acquitted him on some of the allegations of passive corruption and illegal propaganda funding, but was proved to be guilty of the main charges.
-
-Investigations revealed that the funds received from Gaddafi were used for the 2007 election campaign.
-
-In this case, Nicholas Sarkozy has revealed his position that the case is politically intended.
-
-Sarkozy, 70, was the president of France from 2007 to 2012.
-
-◼️
-
-[Data](articles/d80997d2.json)
-
-[Extended Data](ext_articles/d80997d2.ext.json)
-
----
-
-### Steps to commence the Economic Center in Matuvil from 30th
-
-*2025-09-25 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226085) · `ta`
-
-Discussion on the inauguration of the Economic Center in Mathuvil, Jaffna was held at the District Secretariat office on Thursday (25) under the patronage of District Secretary Marudalingam Pradeepan.
-
-At the same time, the shop owners of the Economic Center were discussed with the restoration of the station on the 30th of this month.
-
-He said that he had discussed with the top officials of the ministry on the resumption of the economic center and the need for the continued operation of the shop owners of the Economic Center.
-
-He also urged everyone to cooperate to take steps to restructure the operation of the station on the 30th of this month and to take steps to change the station in usefulness.
-
-Additional Government Agent, District Agriculture Director, Planning Director, District Chief Engineer, Chavakachcheri Divisional Secretary, Accountant, Economic Center Manager, Business Representatives and Leasing of the stores were leased.
-
-◼️
-
-[Data](articles/fba5bc0f.json)
-
-[Extended Data](ext_articles/fba5bc0f.ext.json)
-
----
-
-### All Asean countries in support of Sri Lanka, Hong Kong, Chile and Bangladesh joining RCEP
-
-*2025-09-25 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112918/all-asean-countries-in-support-of-sri-lanka-hong-kong-chile-and-bangladesh-joining-rcep) · `en`
-
-Talks are underway to include Hong Kong, Sri Lanka, Chile and Bangladesh in the Asean-led Regional Comprehensive Economic Partnership (RCEP), says Indonesia Vice Minister of Trade Dyah Roro Esti Widya Putri.
-
-Dyah said that ascension talks are underway for the four countries to join RCEP, which is currently the largest free trade agreement in the world.
-
-“There are four countries in ascension. So hopefully we will work into the ascension working group and we are of course in support of any countries that are willing to join RCEP,” she said when met by reporters after the Fourth RCEP Ministers’ meeting in Kuala Lumpur on Thursday (Sept 25).
-
-Dyah also said there were no objections by existing members against the four countries joining RCEP.
-
-The fourth RCEP Ministers’ Meeting is one of the key agendas on the fourth day of the 57th Asean Economic Ministers (AEM) meeting.
-
-...
-
-[Data](articles/9ed7832d.json)
-
-[Extended Data](ext_articles/9ed7832d.ext.json)
-
----
-
-### Policy framework on digital transformation in education sector to be submitted to cabinet by March 2026
-
-*2025-09-25 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112917/policy-framework-on-digital-transformation-in-education-sector-to-be-submitted-to-cabinet-by-march-2026) · `en`
-
-Officials of the task force for digital transformation in education presented a plan, indicating that by March 2026, it is expected to submit the policy framework related to the digital transformation in the education sector to the cabinet for approval.
-
-This was stated recently (23) at a meeting of the Subcommittee under the Ministerial Consultative Committee on Education, Higher Education and Vocational Education held in Parliament chaired by the Prime Minister and Minister of Education, Higher Education and Vocational Education, Dr. Harini Amarasuriya.
-
-During the Committee meeting held, officials of the task force for digital transformation in education presented the proposed plan and highlighted that the digitalization process within this education reform would focus on six sectors, according to a statement issued today.
-
-...
-
-[Data](articles/b6ec121f.json)
-
-[Extended Data](ext_articles/b6ec121f.ext.json)
-
----
-
-### President meets UN Secretary-General
-
-*2025-09-25 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215007) · `si`
-
-President Anura Kumara Dissanayake and the United Nations Secretary-General Association will be held at Sri Lanka this night.
-
-President Anura Kumara Dissanayake is also present at the meeting with Sri Lankans living in the United States.
-
-Meanwhile, Foreign Affairs and Tourism and Tourism Vijitha Herath are also expected to join a number of diplomatic appointments today.
-
-◼️
-
-[Data](articles/e8b066b2.json)
-
-[Extended Data](ext_articles/e8b066b2.ext.json)
-
----
-
-### Sri Lanka exporters urge govt to delay SVAT removal until proper refunding system in place
-
-*2025-09-25 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-urge-govt-to-delay-svat-removal-until-proper-refunding-system-in-place-241927/) · `en`
-
-ECONOMYNEXT – Sri Lanka exporters collectively have urged the government to delay the removal of SVAT, a tax they have to pay up front when they export before they receive the money from buyers.
-
-The exporters will have to pay interest on cash flow given to the state as a result of charging value added tax on local inputs, following the scrapping of the so-called SVAT scheme, which is a tax payment system based on vouchers.
-
-The government has said the existing SVAT will be removed from October 1.
-
-“The government’s argument that they want to remove SVAT is that some leakages are happening. What we are telling them is if there are leakages happening, don’t carpet bomb all of us. You deal with that. That’s the job of the IRD (Inland Revenue Department),” Shiham Marikkar, Secretary General/CEO at National Chamber of Exporters of Sri Lanka (NCESL).
-
-“That’s their problem. They have to deal with that. You cannot carpet bomb all of the exporters.”
-
-...
-
-[Data](articles/234d3092.json)
-
-[Extended Data](ext_articles/234d3092.ext.json)
-
----
-
-### President and Trump's special representative
-
-*2025-09-25 18:10:48* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-ට්‍රම්ප්ගේ-විශේෂ-නියෝජිත-අතර-හමුවක්/11-418727) · `si`
-
-President Anura Kumara Dissanayake, who was named by President Donald Trump and the Presidential Representative of the United Nations General Assembly was held at the UN (SERGO GOR) in Sri Lanka.
-
-The meeting also focused on important areas, including trade, commercial, tourism and investment, and discussed the cooperation of the fields.
-
-President Anura Kumara Dissanayake said that after an unprecedented economic crisis, as a new government with a strong mandate, is looking forward to active and close relationship with a prosperous economy targeting an economic growth.
-
-The President also pointed out about the steps taken by the government, including the restructuring of the economy to ensure long-term stability of the economy, including the securing of the people.
-
-The two sides reviewed the progress of the negotiations of the US authorities to address the trade unability to resolve trade unability to resolve trade unability.
-
-...
-
-[Data](articles/082bf8ad.json)
-
-[Extended Data](ext_articles/082bf8ad.ext.json)
-
----
-
-### Plans to a digital transformation in the education sector in 2026
-
-*2025-09-25 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215006) · `si`
-
-The officials have said that the Digital Task Force has said that the Digital Task Force Plan is on the basis of the study framework of the education framework for the digital translation of the education sector by March 2026.
-
-This was stated when the Committee on Education Reforms on the Ministry of Education, Higher Education and Professional Education
-
-The officers of the Digital Task Force have made the proposed plan of the Digital Task Force on six sectors.
-
-They have said that they seek a positive answer to the shortage of teachers along digitizing.
-
-Also, the digital process is expected to be held on the sectors including providing the school system in any catastrophical conditions, including ICT to educate the school system through digitalization of children.
-
-At December 31, 2025, the Digital Task Force officials have pointed out that there is a single or digital board, a single or digital board.
-
-...
-
-[Data](articles/ea4b0a42.json)
-
-[Extended Data](ext_articles/ea4b0a42.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 01:56:04**
+As of **2025-09-27 02:20:15**
 
 ## Newspaper Stats
 
-*Scraped **78,787** Articles*
+*Scraped **78,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,62 @@ dailymirrorlk | 4,733
 islandlk | 4,804
 dailyftlk | 5,565
 adalk | 7,619
-adaderanalk | 10,185
+adaderanalk | 10,187
 tamilmirrorlk | 11,818
-virakesarilk | 12,782
+virakesarilk | 12,790
 adaderanasinhalalk | 13,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,787 (100.0%) of 78,787 articles have been extended.
+78,797 (100.0%) of 78,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Many measures are needed to ensure the safety of domestic flights - Sajith Premadasa
+
+*2025-09-27 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226207) · `ta`
+
+Our country is high in comparison with other countries in the security of the airline. Opposition leader Sajith Premadasa, however, said that more measures should be taken to ensure the safety of domestic flights.
+
+He said this while addressing the adjournment of the House in Parliament on Friday (26).
+
+As a country, it is a pleasure to see that our air travel protection is at high level. The score for our country is 92 percent in the air safety score, which is a high -level score compared to other countries in our country.
+
+As a country, however, we need to take more attention to domestic aviation safety, especially if we take steps to improve air traffic safety. Because of the 2022 hecopter accident occurred. Similarly, accidents occurred during domestic flights over 2020,2021,2023.
+
+...
+
+[Data](articles/c095110c.json)
+
+[Extended Data](ext_articles/c095110c.ext.json)
+
+---
+
+### A confusing situation at the Akkaraippana Divisional Hospital
+
+*2025-09-27 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226206) · `ta`
+
+Some residents of the area alleged that a youth who was admitted to the hospital died and died because he was not treated properly.
+
+A 25 -year -old youth from the Bambarakala estate belonging to the Akkaraipattana police division has taken the house to the hospital on the 23rd of this month.
+
+In this case, the condition of the disease was intensified yesterday. Subsequently, the young man has brought his relatives to the hospital. The doctor who examined him was advised to stay and get treatment.
+
+In the meantime, some of the people of the area have been aggressive that they have entered the hospital and died due to lack of proper treatment.
+
+Subsequently, the police officers, including the officer in charge of the Akkaraipattana police station, rushed to the hospital.
+
+◼️
+
+[Data](articles/4247f272.json)
+
+[Extended Data](ext_articles/4247f272.ext.json)
+
+---
 
 ### Foreign Ministry coordinates repatriation of foreign monks killed in Na Uyana cable car tragedy
 
@@ -68,6 +110,34 @@ The Pakistan Commission in a statement said the participation of the Pakistan Na
 [Data](articles/3fc70d4e.json)
 
 [Extended Data](ext_articles/3fc70d4e.ext.json)
+
+---
+
+### India wins the Asian Bowl last Super 4; Nissanka became the 4th Sri Lankan who scored a century in three cricket
+
+*2025-09-27 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226205) · `ta`
+
+India won the Super over the last Super 4 cricket match of the R20 Asian Cup held at the Dubai International Cricket Stadium on Friday (26).
+
+In order to determine the winning team, Sri Lanka lost 2 wickets in the supervision over and scored only 2 runs.
+
+In reply, India won the Over and won 3 runs in the same ball.
+
+Sri Lanka, who won 203 runs in the upcoming match, scored 202 runs for the loss of 5 wickets in 20 overs with the help of Beth and Nissankav's virgin century.
+
+Bethum Nissan was very efficient and scored 107 runs off 58 balls with 7 pounds and 6 sixes and lost the first ball of the last over.
+
+He became the fourth Sri Lankan who scored a century in all three international cricket matches by scoring a century.. He became the 28th player in the entire cricket world and trio cricket.
+
+Gusal Janith Perera scored 58 runs and shared 127 runs in the 3rd wicket with Beth and Nissank.
+
+Dasun Shanaka scored 22 runs without losing the game.
+
+...
+
+[Data](articles/3ebfff12.json)
+
+[Extended Data](ext_articles/3ebfff12.ext.json)
 
 ---
 
@@ -156,6 +226,68 @@ It has been recognised for more than 25 years as the ‘only health sector fair�
 [Data](articles/53b26c28.json)
 
 [Extended Data](ext_articles/53b26c28.ext.json)
+
+---
+
+### Citizens with general expectations cannot be separated -Chinese Ambassador
+
+*2025-09-27 00:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226204) · `ta`
+
+Chinese policy states that citizens with general expectations cannot be separated by mountains or seas. Chinese Ambassador to Sri Lanka Ki Senhong said that Sri Lanka and China have been seen as 2000 years old historical allies.
+
+A reception was organized at the Chinaman Life Hotel, Colombo on Thursday (25) to mark the 76th anniversary of the establishment of the People's Republic of China. The Chinese ambassador said this while addressing the event.
+
+Chinese policy states that citizens with general expectations cannot be separated by mountains or seas. There is more historical friendship between China and Sri Lanka for 2000 years.
+
+President Anura Kumara Dissanayake made an official visit to China this year. During this time, compliance with the two leaders and the two countries reached the bonds of strengthening the bonds between the two countries.. We will work together in the future.
+
+...
+
+[Data](articles/5ab9ff40.json)
+
+[Extended Data](ext_articles/5ab9ff40.ext.json)
+
+---
+
+### We will only focus on cricket and play without Villangam- Hamanpreet, Sanaa
+
+*2025-09-27 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226202) · `ta`
+
+Fatima Sana, the leader of the two teams, said that India and Pakistan played only cricket while playing in the ICC Women's World Cup competition.
+
+In response to questions raised during the daytime meeting at the ICC Women's World Cup, the leaders of the teams for the 13th chapter of the ICC, in Bangalore and at the Colombo Ratnadeep Hotel today.
+
+During the Women's World Cup, the leaders of the two teams raised questions about the controversy between India and Pakistan during the Asian Cup Cricket Tournament in the UAE.
+
+In response, Hamanpreet Gore said, “We will only focus on cricket game and play very elegantly. We will not interfere with unnecessary matters. We will play well without interfering with things beyond our control. ”
+
+At the same time, 'We are here to play cricket (Sri Lanka). We have no other thought. The Sri Lankan soil where the World Cup Cricket Tournament is held is like our own soil. "Sri Lanka and Pakistan have similar conditions," said Fatima Sanaa.
+
+...
+
+[Data](articles/d7c993be.json)
+
+[Extended Data](ext_articles/d7c993be.ext.json)
+
+---
+
+### My goal is to go to Sri Lanka for the semi -finals - Samari Attapattu
+
+*2025-09-27 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226203) · `ta`
+
+“My goal is to go to Sri Lanka to the semi -finals of the ICC Women's World Cup before I retire. We will think about what to do next after going to the semi -final. However, if the semi -finals are gone, it is the biggest thing, ”the team captain Samari Atapattu said.
+
+Meanwhile, the ICC Women's World Cup (50 Over) Cricket Tournament to be held in India and Sri Lanka. The World Cup will be challenging for all teams, while the team leaders have expressed the unanimous notion that all teams will try to win.
+
+Samari Athapathu and other teams of other teams made this statement during a media briefing on the ICC Women's World Cup Cricket Tournament held in Bangalore and Colombo on Friday (26).
+
+The current Champion Australia, Bangladesh, England, India, New Zealand, Pakistan and South Africa will take part in the ICC Women's World Cup match between India and Sri Lanka on September 30 in Guwahati.
+
+...
+
+[Data](articles/61bede2c.json)
+
+[Extended Data](ext_articles/61bede2c.ext.json)
 
 ---
 
@@ -411,6 +543,30 @@ Police said investigations are currently underway to arrest the suspect. Remble
 
 ---
 
+### 58-year-old shot dead in Tissamaharama
+
+*2025-09-26 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112950/58-year-old-shot-dead-in-tissamaharama) · `en`
+
+A 58-year-old individual has died following a shooting incident reported in the Sandungama area in Tissamaharama this evening (26).
+
+The incident occurred in the Muthiyammana area at around 5.00 p.m. when the victim was shot with a home-made ‘Galkatas’ type firearm which uses 12-bore ammunition, police said.
+
+According to reports, the assailant arrived on a motorcycle, carried out the shooting, and fled the scene.
+
+Police further stated that the suspect is believed to be a resident of the same area.
+
+Preliminary investigations have revealed that the shooting may have stemmed from a personal dispute, reportedly linked to a relationship between the suspect and the wife of the deceased’s son.
+
+Tissamaharama Police have launched further investigations to apprehend the suspect.
+
+◼️
+
+[Data](articles/b2346a05.json)
+
+[Extended Data](ext_articles/b2346a05.ext.json)
+
+---
+
 ### Central Environmental Authority Joins Gov Pay
 
 *2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
@@ -512,6 +668,26 @@ The police said that investigations are currently underway to arrest the suspect
 [Data](articles/71afa351.json)
 
 [Extended Data](ext_articles/71afa351.ext.json)
+
+---
+
+### Dozens of delegates from multiple nations walk out of UN hall as Israeli prime minister prepares to speak
+
+*2025-09-26 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112949/dozens-of-delegates-from-multiple-nations-walk-out-of-un-hall-as-israeli-prime-minister-prepares-to-speak) · `en`
+
+Israeli Prime Minister Benjamin Netanyahu told the U.N. General Assembly on Friday that Israel “must finish the job” against Hamas in Gaza, giving a defiant U.N. speech despite growing international isolation over his refusal to end the devastating war in Gaza.
+
+He spoke after dozens of delegates from multiple nations walked out of the U.N. General Assembly hall en masse Friday as he prepared to speak.
+
+As the Israeli leader spoke, unintelligible shouts echoed around the hall. Applause rang out in other quarters as he spoke. The U.S. delegation, which has backed Netanyahu in his campaign against Hamas, stayed put. The few world powers in attendance, the United States and the United Kingdom, did not send their most senior officials or even their UN ambassador to their section. Instead, it was filled out with more junior, low-level diplomats.
+
+“Anti-semitism dies hard. In fact, it doesn’t die at all,” Netanyahu said. Netanyahu routinely accuses his critics of antisemitism.
+
+...
+
+[Data](articles/b224c059.json)
+
+[Extended Data](ext_articles/b224c059.ext.json)
 
 ---
 
@@ -1391,6 +1567,24 @@ The COPE Committee is referring to airports, ports and state agencies.. Who note
 
 ---
 
+### Opposition Leader on the Procurement of Profile
+
+*2025-09-26 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226166) · `ta`
+
+Opposition Leader Sajith Premadasa has lodged a complaint with Jamuni Kamal Dushara on Thursday, saying that he did not submit information on his assets and responsibilities.. The United People's Power said the allegation put forward by him was completely unfounded.
+
+The Leader of the Opposition has issued a statement issued by a report. The report further stated:
+
+We have already revealed to the media that the letter was received by the Secretary General of Parliament Kushani Rohanadeera on 23.04.2012, with the signature of Parliamentary Secretary General Kushani Rohanadeera, who claimed that information on the assets and responsibilities of Opposition Sajith Premadasa was received by the Secretariat.
+
+...
+
+[Data](articles/0ed3d835.json)
+
+[Extended Data](ext_articles/0ed3d835.ext.json)
+
+---
+
 ### Landslide warnings in several areas extended
 
 *2025-09-26 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215044) · `si`
@@ -1814,167 +2008,5 @@ Total exports grew by 7.48 percent to 3.39 billion dollars, JAAF said, compared 
 [Data](articles/81904baf.json)
 
 [Extended Data](ext_articles/81904baf.ext.json)
-
----
-
-### Kush'Shudan's flight passenger caught
-
-*2025-09-26 16:09:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷூடன்-விமான-பயணி-சிக்கினார்/175-365334) · `ta`
-
-A Sri Lankan passenger who was transporting the "Kush" drug into the country worth Rs 41 lakhs 80 thousand and taken out of the Katunayake airport was arrested by the authorities of the airport police drug detention unit on Thursday night.
-
-He is a 48 -year -old businessman who is involved in sand and gravel distribution industry in Ratmalana.
-
-Three cases of drug -related cases have been registered against him by the headquarters of the Colombo Police Drug Prevention Unit.
-
-He arrived at the Katunayake airport by the Sri Lanka Airlines flight UL-405 at 06.30 pm on Thursday (25) from Thailand's Bangkok.
-
-He hid 418 grams of "Kush" in his suitcase "shopping" bag.
-
-He was produced before the Negombo Magistrate's Court on Friday (26), where he was allowed to be detained until October 08.
-
-◼️
-
-[Data](articles/373a3d90.json)
-
-[Extended Data](ext_articles/373a3d90.ext.json)
-
----
-
-### Four Wayamba Uni. students remanded over ragging incident
-
-*2025-09-26 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/112944/four-wayamba-uni-students-remanded-over-ragging-incident) · `en`
-
-The Kuliyapitiya Magistrate’s Court today (26) ordered the remand of four third-year students of the Wayamba University who were arrested in connection with the alleged ragging of a second-year student at the same university.
-
-The suspects were produced before the court earlier today, following which the Magistrate ordered that they be remanded until September 29, said Ada Derana reporter.
-
-◼️
-
-[Data](articles/afffc345.json)
-
-[Extended Data](ext_articles/afffc345.ext.json)
-
----
-
-### Here is the fourth exposure
-
-*2025-09-26 16:05:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-සවවන-හළදරවව-මනන/101-680283) · `si`
-
-The fourth report of the Committee on Public Enterprises (COPE) was presented in parliament today.
-
-◼️
-
-[Data](articles/9351441b.json)
-
-[Extended Data](ext_articles/9351441b.ext.json)
-
----
-
-### Here is the fourth exposure
-
-*2025-09-26 16:05:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-සවවන-හළදරවව-මනන/1-680283) · `si`
-
-The fourth report of the Committee on Public Enterprises (COPE) was presented in parliament today.
-
-◼️
-
-[Data](articles/d827e863.json)
-
-[Extended Data](ext_articles/d827e863.ext.json)
-
----
-
-### 11 killed in Colombia by drinking poison
-
-*2025-09-26 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215040) · `si`
-
-At least 11 people died due to the toxic alcohol in Brakila, Colombia.
-
-Foreign media reports that 10 others have been hospitalized due to allegations that have been drunk.
-
-Many of the dead are homeless streets.
-
-Foreign journalists, the alcohol has been produced in a house and is among the deceased persons.
-
-◼️
-
-[Data](articles/135e4e0f.json)
-
-[Extended Data](ext_articles/135e4e0f.ext.json)
-
----
-
-### In the woman's underwear: 52 buckets recovery
-
-*2025-09-26 16:03:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்ணின்-உள்ளாடைக்குள்-ஐஸ்-52-பக்கெட்டுகள்-மீட்பு/76-365333) · `ta`
-
-Harendra Kalukampitiya, Chief Inspector of Nawalapitiya Police, said that a couple who allegedly left ice packets in various places claiming to go to the maternity hospital on the 26th.
-
-A group of officials, including the Navalapitiya Police Officer in charge of the Nawalapitiya Police, left the ice buckets near the home of the old railway officer on the Nawalapitiya Tholaspaka road after receiving money from the Easy Cash system. Police said they were found 52 ice packets during the raid.
-
-It has been revealed that 52 ice buckets have been recovered in the suspect's underwear and each ice pocket is sold for about Rs 7,000.
-
-◼️
-
-[Data](articles/e720447a.json)
-
-[Extended Data](ext_articles/e720447a.ext.json)
-
----
-
-### The weapons of Kehelbatara Padmeh's weapons rescue near the fish market
-
-*2025-09-26 15:57:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹெல்பத்தர-பத்மே-வின்-ஆயுதங்கள்-மீன்-சந்தைக்கு-அருகில்-மீட்பு/175-365332) · `ta`
-
-The Beliyagoda North Criminal Investigation Department said that a bag near the Beliyagoda fish market was found in a bag near the garbage bin, a large-scale T-56 ammunition and a military uniform, allegedly hidden by the underworld gang.
-
-Police have recovered 4 T-56 megacins in the bag, a micro pistol, a revolver, 520 of the T-56 varieties, a handwriting and a volume of military uniforms.
-
-The information was revealed during investigations conducted by the Western Province Northern Province.
-
-Following the recent arrest of five underworld gang members, including Mandu Padmasiri or 'Kehelbattara Padme' organized in Jakarta's Jakarta, three others, including Kehelphtara Padme, have been detained under the Prevention of Criminal Investigation Department.
-
-◼️
-
-[Data](articles/df0b45b7.json)
-
-[Extended Data](ext_articles/df0b45b7.ext.json)
-
----
-
-### New Vehicle Number Plates After November 15
-
-*2025-09-26 15:49:15* · [`adalk`](https://www.ada.lk/breaking_news/නව-වාහන-අංක-තහඩු-නොවැම්බර්-15න්-පසුව/11-418748) · `si`
-
-Minister Bimal Ratnayake said that the necessary matters will be provided with a modern driving license that includes new features.. He was responding to a question referred to a question referred to as Mujibar Rahman.
-
-He also said that the issuing of modern security vehicles will be issued by November 15. He also said that the tender process will be completed by now. ‍
-
-◼️
-
-[Data](articles/ff732e77.json)
-
-[Extended Data](ext_articles/ff732e77.ext.json)
-
----
-
-### CEA transactions to be processed via ‘GovPay’ from today
-
-*2025-09-26 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112943/cea-transactions-to-be-processed-via-govpay-from-today) · `en`
-
-The Ministry of Environment has announced that all payment transactions of the Central Environmental Authority’s (CEA) will be facilitated through the digital payment platform ‘GovPay’ with effect from today (26).
-
-In a statement, the Ministry noted that CEA clients will now be able to carry out all payment-related transactions through ‘GovPay,’ enabling more efficient and transparent services.
-
-In line with the government’s digital governance policy, many state institutions are currently performing their duties using the modern  technology and accordingly, the ‘GovPay’ payment facility has been introduced earlier this year as part of efforts to digitize government transactions.
-
-At present, 137 government institutions are linked to the platform. With today’s addition, the CEA becomes the 138th state institution to integrate the ‘GovPay’ platform into its payment system.
-
-◼️
-
-[Data](articles/05daced8.json)
-
-[Extended Data](ext_articles/05daced8.ext.json)
 
 ---

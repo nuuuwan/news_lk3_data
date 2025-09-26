@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-26 16:53:53**
+As of **2025-09-26 19:12:40**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,678
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,420 (99.7%) of 78,633 articles have been extended.
+78,471 (99.8%) of 78,633 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ COLOMBO (News 1st); The Walasmulla Magistrate’s Court has granted permission f
 ◼️
 
 [Data](articles/df9a645e.json)
+
+[Extended Data](ext_articles/df9a645e.ext.json)
 
 ---
 
@@ -81,17 +83,19 @@ The Magistrate who convened the case around 10.20 this morning, the Magistrate w
 
 ---
 
-### ජනපති ජපාන සංචාරය අරඹයි
+### President launches Japan tour
 
 *2025-09-26 15:40:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ජපාන-සංචාරය-අරඹයි/11-418747) · `si`
 
-අමෙරිකා එක්සත් ජනපදයේ සංචාරය නිම කළ ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානය බලා පිටව ගොස් තිබේ. ඊයේ (25) රාත්‍රියේ  ජෝන් එෆ්. කෙනඩි ජාත්‍යන්තර ගුවන්තොටුපළින් ජනාධිපතිවරයා ජපානය බලා පිටත්ව ගොස් ඇත.
+President Anura Kumara Dissanayake, who completed the visit to the United States, left for Japan. John F.. The President left for Japan from Kennedy International Airporto.
 
-ජපන් රජයේ ආරාධනයකට අනුව, ජනාධිපතිවරයා සැප්තැම්බර් 27 වන දින සිට 30 වන දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
+According to the Japanese government's invitation, the President is on official visit to Japan to 30th September.
 
 ◼️
 
 [Data](articles/7719b89a.json)
+
+[Extended Data](ext_articles/7719b89a.ext.json)
 
 ---
 
@@ -253,15 +257,17 @@ The law does not take place, but the law will not be implemented.. If the law en
 
 ---
 
-### සම්පත් මනම්පේරි දින 90ක් රඳවාගෙන් ප්‍රශ්න කරයි
+### Resource Manampara questions 90 days
 
 *2025-09-26 15:18:09* · [`adalk`](https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-දින-90ක්-රඳවාගෙන්-ප්‍රශ්න-කරයි/11-418746) · `si`
 
-සම්පත් මනම්පේරි දින 90ක් රඳවාගෙන ප්‍රශ්නකිරීමට වලස්මුල්ල මහෙස්ත්‍රාත් අධිකරණය අද (26) අවසර  දුන්නේය. මිද්දෙණිය ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය නිපදවීමට යොදාගන්නා බවට සැක කෙරෙන රසායනික ද්‍රව්‍ය අඩංගු කන්ටේනර් දෙකක් සඟවා තැබීමේ සිද්ධිය සම්බන්ධයෙන් සම්පත් මනම්පේරි මේ වනවිට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගරගතව සිටියි.
+Walasmulla Magistrate's Court today (26) to interpret 90 days of resource Majarakri. Sampath Manamperi has been arrested and remanded in connection with the hiding two containers of chemicals to be used to produce ice drugs in the Middeniya area.
 
 ◼️
 
 [Data](articles/e19ead0c.json)
+
+[Extended Data](ext_articles/e19ead0c.ext.json)
 
 ---
 

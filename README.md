@@ -1,37 +1,207 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 12:10:19**
+As of **2025-09-27 12:37:11**
 
 ## Newspaper Stats
 
-*Scraped **78,861** Articles*
+*Scraped **78,871** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 311
+lankadeepalk | 316
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
 colombotelegraphcom | 793
-economynextcom | 4,727
+economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,622
-adaderanalk | 10,194
-tamilmirrorlk | 11,825
+adalk | 7,623
+adaderanalk | 10,195
+tamilmirrorlk | 11,826
 virakesarilk | 12,804
-adaderanasinhalalk | 13,700
+adaderanasinhalalk | 13,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,861 (100.0%) of 78,861 articles have been extended.
+78,868 (100.0%) of 78,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### பிரான்ஸ் ஜனாதிபதியை சந்தித்தார் அநுர
+
+*2025-09-27 12:13:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-ஜனாதிபதியை-சந்தித்தார்-அநுர/175-365364) · `ta`
+
+ஐக்கிய நாடுகள் சபையின் (BBNJ) பிரகடன உடன்படிக்கையின் அங்கத்துவத்தில் 60 நாடுகள் நிறைவு செய்ததை முன்னிட்டு, பிரான்ஸ் அரசாங்கம் சிறப்பு நிகழ்வை ஏற்பாடு செய்திருந்தது.
+
+இந்த உடன்படிக்கையில் அங்கம் வகிக்கும் உறுப்பு நாடான இலங்கையைப் பிரதிநிதித்துவப்படுத்தி, ஜனாதிபதி அநுரகுமார திசாநாயக்கவும் இந்நிகழ்வில் கலந்துகொண்டார்.
+
+இதன்போது, பிரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்ரோனை சந்தித்த ஜனாதிபதி அநுரகுமார திசாநாயக்க சுமுகமான உரையாடலில் ஈடுபட்டதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/3eb9f046.json)
+
+---
+
+### Notification for all tax payers
+
+*2025-09-27 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215064) · `si`
+
+2024/2025 Inland Revenue Department has given all the taxpayers to carry out the final income tax payments for the valuation period.
+
+This order is relevant to companies, corporations, joint ventures and other registered institutions.
+
+The Tax Taxes, which is not waiting for the payment sheets, can be done by online tax payment facility (OTPP) by any branch of Bank of Ceylon.
+
+Physical payment papers are not staying for physical payment papers, referring to delays or negative payments.
+
+The Department of Inland Revenue is informed that all taxes are informed or not paying taxes or reduced or reduce the delay and interest on delay payments.
+
+◼️
+
+[Data](articles/b1adb21d.json)
+
+[Extended Data](ext_articles/b1adb21d.ext.json)
+
+---
+
+### Sri Lanka business delegation to visit Japan
+
+*2025-09-27 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-business-delegation-to-visit-japan-242005/) · `en`
+
+ECONOMYNEXT – A team of 18 Sri Lankan business leaders are set to visit Japan later this month, the Sri Lanka–Japan Business Council (SLJBC) of The Ceylon Chamber of Commerce said.
+
+The delegation is led by Krishan Balendra, chairperson of the chamber and John Keells Holdings, and the visit will coincide with the President Anura Dissanayake’s visit to Japan.
+
+A key feature of the visit will be the Business Forum in Tokyo, organised in partnership with the Japan Chamber of Commerce and Industry (JCCI), the Japan External Trade Organization (JETRO), the Ministry of Economy, Trade and Industry (METI), and the Japan International Cooperation Agency (JICA).
+
+The visit is aimed at facilitating new trade, investment, and collaboration opportunities between the two countries, the chamber said.
+
+“The delegation will participate in targeted B2B sessions in Osaka, organized by the Export Development Board, enabling Sri Lankan companies to connect directly with potential Japanese partners.”
+
+...
+
+[Data](articles/5043c046.json)
+
+[Extended Data](ext_articles/5043c046.ext.json)
+
+---
+
+### The opposition asks for good food
+
+*2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වපකෂය-හඳ-කම-ඉලලය/101-680308) · `si`
+
+Opposition MPs have requested Speaker of Opposition to temporarily close it and correct the errors, as they have stated that there is a problem with the kitchen kitchen.
+
+The new Democratic Front of the New Democratic Front is a significant responsibility to provide a clean meal for parliamentary foods in this regard.
+
+The Speaker has said that all necessary work will be done to correct all the wrongs in the parliamentary kitchen.
+
+A special committee was also appointed by the Speaker to look into the shortcomings of the kitchen kitchen.
+
+The Speaker was addressing a meeting in Polonnaruwa and stated that the kitchen of the Parliament was a bad
+
+The Speaker said that some food was prepared for salad even for its dirtyness.
+
+Meanwhile, employees allege that some heads are trying to persuade the media shows that the Speaker's statement is high by the Speaker.
+
+They say that the kitchen has been laundering in a period of time and is a timely need to correct this situation.
+
+...
+
+[Data](articles/e772ac4d.json)
+
+[Extended Data](ext_articles/e772ac4d.ext.json)
+
+---
+
+### President Anura Kumara attends dinner reception hosted by Donald Trump
+
+*2025-09-27 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112958/president-anura-kumara-attends-dinner-reception-hosted-by-donald-trump) · `en`
+
+President of Sri Lanka, Anura Kumara Dissanayake, attended a special dinner reception hosted by the President of the United States, Donald Trump, on September 23 at the Lotte New York Palace Hotel.
+
+The event was organized for heads of state who had arrived in New York to participate in the 80th Session of the United Nations General Assembly,  President Dissanayake stated in a post on X (formerly Twitter).
+
+During the occasion, President Dissanayake also engaged in a cordial conversation with President Trump.
+
+◼️
+
+[Data](articles/2431154a.json)
+
+---
+
+### 11 hospitalized at threw accident
+
+*2025-09-27 11:47:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සරබර-අනතරන-11ක-රහලට/101-680306) · `si`
+
+The Mahiyanganaya Police said that 11 people were injured and admitted to a van that had taken a van in the Sorborra Van area today (26).
+
+A resident of Kilagoda, Badulla, has been injured in accidents accident
+
+Among the injured were six women, including a 10-year-old child.
+
+The van is raised by the van while the van was taken out of a large tree while he was traveling back to Badulla and had been deprived of a large tree while the van was taken out of the van while the injured police officers were rushed to the Mahiyangana Hospital.
+
+◼️
+
+[Data](articles/90b2cc00.json)
+
+[Extended Data](ext_articles/90b2cc00.ext.json)
+
+---
+
+### Doctor injured in accident
+
+*2025-09-27 11:35:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මටර-රථ-අනතරන-තවල-ලබ-වදයවරයක-රහලට/101-680305) · `si`
+
+Piliyandala Police say that a car riding a doctor in the Jridagoda area in Piliyandala
+
+The front section of two shop in the accident has been seriously damaged
+
+The doctor had reported this accident in front of the two shops and collided with the shops in the front of the shops.
+
+Police said that the doctor was admitted to hospital due to a serious illness
+
+In the accident and the front of the two stores of the two shops have been treated
+
+◼️
+
+[Data](articles/aec1d02f.json)
+
+[Extended Data](ext_articles/aec1d02f.ext.json)
+
+---
+
+### President to be held in America
+
+*2025-09-27 11:33:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පරශය-ඇමරකව-පවත-ව-උතසවයකට-ජනපතත-යය/101-680304) · `si`
+
+President Anura Kumara Dissanayake was also present at a function organized by the French government to mark the completion of 60 countries on the United Nations Convention on Marine Biodiversity in the area.
+
+French President Emanuel Mcron was held in New York with the participation of Heads of State.
+
+President Anura Kumara Dissanayake was attended by Sri Lanka as a member country in a member of the agreement.
+
+As the 58th member country, Sri Lanka made up on September 16, 2025, and the parties of the agreement became a state of the agreement.
+
+After two decades of discussions, this agreement is known as the BBNJ, which is known as BBNJ, have already signed 60 countries.
+
+This Agreement covered with 2/3 oceans in the world, it is taken to sustain the ocean biodiversity, sustainable use, sustainable use of ocean biodiversity and share the biodiversity benefits to areas. The agreement is to be officially implemented since January 17, 2026.
+
+◼️
+
+[Data](articles/1c7ae929.json)
+
+[Extended Data](ext_articles/1c7ae929.ext.json)
+
+---
 
 ### Surkumar, who spoke of the Pallgam attack, worries
 
@@ -1902,165 +2072,5 @@ Sri Lanka won the toss and decided to bowl first.
 [Data](articles/153b518c.json)
 
 [Extended Data](ext_articles/153b518c.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කතම-බදධය-වතතය-මධයවදයට-පහරකද/101-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/012f3730.json)
-
-[Extended Data](ext_articles/012f3730.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/1-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/06672a60.json)
-
-[Extended Data](ext_articles/06672a60.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/101-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/29e2fc4b.json)
-
-[Extended Data](ext_articles/29e2fc4b.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කතම-බදධය-වතතය-මධයවදයට-පහරකද/12-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/3f574452.json)
-
-[Extended Data](ext_articles/3f574452.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කතම-බදධය-වතතය-මධයවදයට-පහරකද/222-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/864e24b0.json)
-
-[Extended Data](ext_articles/864e24b0.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කතම-බදධය-වතතය-මධයවදයට-පහරකද/1-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/c76f539f.json)
-
-[Extended Data](ext_articles/c76f539f.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/12-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/f1e9c6ee.json)
-
-[Extended Data](ext_articles/f1e9c6ee.ext.json)
-
----
-
-### Is the artificial intelligence beat a professional journalist?
-
-*2025-09-26 19:27:50* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කෘතිම-බුද්ධිය-වෘත්තීය-මාධ්‍යවේදියාට-පහරක්ද-/222-680292) · `si`
-
-(European Broadcasting Union) news director Liz Corbin and World Publishers' Executive Association Vince Tiragenee)
-
-We all prefer to better understand the world around us. In some cases, we need to explain what the amendments are really going to do in the Gaza, what is really going to be done to the government to do so,. Or you may want to know a simple point, such as the dating back on the day of the bus.
-
-If the information is looking for or simple, we all have the right to obtain that information through reliable news. We are all used to watch and watch news that is surprised and shocked online.  But nowadays, the video we see on the Internet is an atmosphere that should be questioned whether a video we see on the Internet is true or artificial.
-
-It is a key to population to popularize the video, using artificial intelligence, using artificial intelligence in the Internet, or whether a video or photograph of art is created by the Internet.
-
-...
-
-[Data](articles/fd4f85fa.json)
-
-[Extended Data](ext_articles/fd4f85fa.ext.json)
 
 ---

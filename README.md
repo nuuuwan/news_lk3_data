@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 17:20:29**
+As of **2025-09-27 17:40:57**
 
 ## Newspaper Stats
 
-*Scraped **78,932** Articles*
+*Scraped **78,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
 adaderanalk | 10,200
-tamilmirrorlk | 11,830
+tamilmirrorlk | 11,831
 virakesarilk | 12,820
 adaderanasinhalalk | 13,708
 
@@ -27,11 +27,27 @@ adaderanasinhalalk | 13,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,932 (100.0%) of 78,932 articles have been extended.
+78,932 (100.0%) of 78,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### கேபிள் கார் விபத்தில் உயிரிழந்த பிக்குகளுக்கு சஜித் இறுதி அஞ்சலி
+
+*2025-09-27 16:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்தில்-உயிரிழந்த-பிக்குகளுக்கு-சஜித்-இறுதி-அஞ்சலி/175-365369) · `ta`
+
+குருணாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் கார் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் உள்நாட்டு மற்றும் வெளிநாட்டைச் சேர்ந்த ஏழு பிக்குகள் உயிரிழந்தனர்.
+
+இத்துயர் சம்பவத்தில் உயிரிழந்த பிக்குகளின் பூதவுடல்கள்  மெல்சிரிபுர நா உயன ஆரண்ய சேனாசனத்தில் வைக்கப்பட்டுள்ளன.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (27) இப்பூதவுடல்களுக்கு இறுதி அஞ்சலி செலுத்தினார்.R
+
+◼️
+
+[Data](articles/8c2f8890.json)
+
+---
 
 ### Central Provincial Public Officers informed of AI Technology
 
@@ -2086,31 +2102,5 @@ The people requested the public to take measures to reduce the danger of strong 
 [Data](articles/6e518eb9.json)
 
 [Extended Data](ext_articles/6e518eb9.ext.json)
-
----
-
-### Police attacked people and blessings:
-
-*2025-09-27 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226209) · `ta`
-
-With the protection of hundreds of policemen despite the opposition of the people, the supplies of the riot police have come to Mannar Nagar in massive vehicles from Friday (26) to the early hours of this morning.
-
-Hundreds of people and the blessings of one of the people gathered together and staged a protest at the Mannar entrance.
-
-The riot burial is being carried with the protection of the police.. This has caused tension in the Mannar city area.
-
-Many women were injured in the attack by police in Mannar yesterday (26).
-
-In Mannar, the people are continuing to fight against the wind power project in Mannar.
-
-In this case, many people have been taken to hospital with a brutal attack on people who tried to quietly prevent the vehicles carrying windmills.
-
-The President said last month that he would not implement any plans against the wishes of the people and set up a group of people's views and provide a good solution.
-
-...
-
-[Data](articles/256ff690.json)
-
-[Extended Data](ext_articles/256ff690.ext.json)
 
 ---

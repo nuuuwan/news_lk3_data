@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 10:08:36**
+As of **2025-09-27 10:38:03**
 
 ## Newspaper Stats
 
-*Scraped **78,833** Articles*
+*Scraped **78,839** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 306
+lankadeepalk | 310
 newsfirstlk | 435
 dbsjeyarajcom | 635
-bbccomsinhala | 704
+bbccomsinhala | 705
 colombotelegraphcom | 793
 economynextcom | 4,727
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,620
+adalk | 7,621
 adaderanalk | 10,190
 tamilmirrorlk | 11,824
 virakesarilk | 12,791
@@ -27,11 +27,77 @@ adaderanasinhalalk | 13,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,828 (100.0%) of 78,833 articles have been extended.
+78,837 (100.0%) of 78,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Government boss redirected Japanese investors
+
+*2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/1-680303) · `si`
+
+It is reported that the number of investors had frustrated and returned to a meeting of Japanese investors in Sri Lanka.
+
+Later, when the officer was proposed to discuss the officer elsewhere, those investors refused.
+
+President Rajapaksa, President Ranman, who was trying to meet with a high level of approval on a road safety program, he was speaking at a press conference held in Colombo.
+
+"Of course I just wanted to implement this precious program for this country. Implement it and protect the lives of the innocent people of this country who die from road accidents. There's nothing to give myself to give myself. No matter anyone else executes this work, it is okay. I'm ready to submit this program to the government. Don't implement it belongs to them. Minister Hon. Minister said that I was presented with the country with great necessity. "
+
+Sanara Araya said that he was very embarrassed and the number of Japanese investors had been severely embarrassed by no opportunity to discuss the matter.
+
+...
+
+[Data](articles/d0c03bce.json)
+
+[Extended Data](ext_articles/d0c03bce.ext.json)
+
+---
+
+### Fearing cases: Opposition MPs suffer twice
+
+*2025-09-27 09:56:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නඩවලට-බයවල-වපකෂය-මනතරල-වසසක-ගළ-වල/1-680302) · `si`
+
+The opposition in general is facing a serious crisis by depriving the government and outside the opposition members of the opposition as well as several former members of the opposition and several former members.
+
+According to sources, they have avoided their responsibilities in Parliament on certain matters.
+
+"I have some cases. So I have been able to miss a little silent at this time, "she said.
+
+Political commentators say that the voice of the opposition is weakened in Parliament and outside Parliament.
+
+It is reported that there are many cases against the opposition members of the opposition and several former people.
+
+These include silence members in Parliament and the political stage, not to seek the attacks on the government due to various cases.
+
+◼️
+
+[Data](articles/6e09a3d5.json)
+
+[Extended Data](ext_articles/6e09a3d5.ext.json)
+
+---
+
+### Postal crores from mail be kept
+
+*2025-09-27 09:47:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-කට-සයක-ඕට-හරන-අරන/1-680301) · `si`
+
+In the absence of the fingerprint machines, 28403 employees in Colombo Central Postal Exchange, 28403 million people have been transferred to the law.
+
+In addition, seven employees of the governing office have been paid Rs.
+
+Meanwhile, more than Rs.
+
+Meanwhile, the Department of Posts had a loss of nearly 475,000 schools in the Sri Lankan parcel and export company under the General Parcel Service.
+
+◼️
+
+[Data](articles/6ddc5493.json)
+
+[Extended Data](ext_articles/6ddc5493.ext.json)
+
+---
 
 ### 11 Injured In Mahiyangana Road Accident
 
@@ -42,6 +108,8 @@ COLOMBO(News 1st); Eleven people were injured in an accident near the first mile
 ◼️
 
 [Data](articles/f0f305b1.json)
+
+[Extended Data](ext_articles/f0f305b1.ext.json)
 
 ---
 
@@ -55,6 +123,8 @@ COLOMBO(News 1st); The government has paid close attention to institutions issui
 
 [Data](articles/3c4bd6d5.json)
 
+[Extended Data](ext_articles/3c4bd6d5.ext.json)
+
 ---
 
 ### Wattala Suspect Linked To Multiple Shootings
@@ -64,6 +134,8 @@ COLOMBO(News 1st); The government has paid close attention to institutions issui
 ...
 
 [Data](articles/b9b32e1e.json)
+
+[Extended Data](ext_articles/b9b32e1e.ext.json)
 
 ---
 
@@ -76,6 +148,8 @@ COLOMBO(News 1st); Police Headquarters announced that action has been taken agai
 ◼️
 
 [Data](articles/5049d53c.json)
+
+[Extended Data](ext_articles/5049d53c.ext.json)
 
 ---
 
@@ -392,6 +466,24 @@ Kusal Mendis left the first wicket of the Sri Lankan innings, but Kusal Janith j
 [Data](articles/f4821817.json)
 
 [Extended Data](ext_articles/f4821817.ext.json)
+
+---
+
+### ආසිරි රෝහලේ අධ්‍යක්ෂවරු අධිකරණයට ඉදිරිපත් වීමෙන් පසුව ඇප මත මුදා හැරීමට නියෝග
+
+*2025-09-27 03:52:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g73vgyq91o) · `si`
+
+ආසිරි රෝහලේ අධ්‍යක්ෂවරු අධිකරණයට ඉදිරිපත් වීමෙන් පසුව ඇප මත මුදා හැරීමට නියෝග
+
+නේවාසික රෝගියෙකුට වැඩි මිලට ඖෂධ නිකුත් කිරීම සම්බන්ධයෙන් ගොනුකර තිබූ නඩුවකට පෙනී නොසිටීම හේතුවෙන් අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ නාරාහේන්පිට ආසිරි රෝහල් සමාගමේ සභාපති අශෝක් පතිරගේ ඇතුළු එහි අධ්‍යක්ෂවරු අධිකරණයට ඉදිරිපත් වීමෙන් පසු ඔවුන් ඇප මත මුදාහරින ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් අධිකරණය (සැප්තැම්බර් 26 වැනිදා) නියම කළේය.
+
+ඒ අනුව අධිකරණයට ඉදිරිපත් වූ අශෝක පතිරගේ, මංජුල කරුණාරත්න, සුදර්ශන් අහංගම, හැරිස් ප්‍රේමරත්න, සිවකුමාර් සෙල්ලයියා, හර්ෂ කුමාර් කයිමාල් සහ අජිත් කරුණාරත්න යන අධ්‍යක්ෂවරු  රුපියල් ලක්ෂ 5 බැගින් වූ ශරීර ඇප මත මුදා හරින ලෙස මාලිගාකන්ද වැඩ බලන මහේස්ත්‍රාත් ෂර්මිලා සහබ්දීන් නියෝග කළාය.
+
+ඉන් අනතුරුව විත්තිකරුවන්ට එරෙහිව නිකුත් කර තිබූ වරෙන්තු ආපසු කැඳවීමටද වැඩ බලන මහේස්ත්‍රාත්වරිය විසින් නියෝග කරන ලදී.
+
+...
+
+[Data](articles/74434874.json)
 
 ---
 
@@ -846,6 +938,24 @@ As the impacts of climate change become more frequent and intense, people across
 [Data](articles/e39f8cf0.json)
 
 [Extended Data](ext_articles/e39f8cf0.ext.json)
+
+---
+
+### Institution of Bribery?
+
+*2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලසට-බරම-ආයතනය/1-680300) · `si`
+
+The Bribery Commission has conducted a wide survey last year to the preparation of the National Policy Plan, and the first place between the institutions identified as more orientally oriented institutions.
+
+He said that the second place politicians and the third place is Sri Lanka Customs. He said that the four-like place will be entitled to the Immigration and Emigration Office, the Ministries of the Ministry of Lands, Provincial Councils, Divisional Secretariats, Register General's Office.
+
+He stated that the complaints received when the public identifors the research and the Commission of Bribery or Corruption Commission have identified the 5 institutions mainly to the economy.. Sri Lanka Customs has won the first place and is owned by the Department of Inland Revenue and the Provincial Revenue Department and the Provincial Revenue Department.. He said he was the remaining institutions of the Excise, Immigration and Emigration and Motor Traffic Departments.
+
+◼️
+
+[Data](articles/3b1e2252.json)
+
+[Extended Data](ext_articles/3b1e2252.ext.json)
 
 ---
 
@@ -1860,101 +1970,5 @@ Sri Lankan police have a long intervention required. Similarly, the court has se
 [Data](articles/6a33b3b9.json)
 
 [Extended Data](ext_articles/6a33b3b9.ext.json)
-
----
-
-### Sri Lanka, India ties have reached point of unprecedented excellence: Envoy
-
-*2025-09-26 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112947/sri-lanka-india-ties-have-reached-point-of-unprecedented-excellence-envoy) · `en`
-
-The ties between India and Sri Lanka have reached a point of “unprecedented excellence” since the visit of President Anura Kumara Dissanayake to India and the following visit of Prime Minister Narendra Modi to Sri Lanka, the island nation’s envoy said on Friday.
-
-Interacting with PTI Videos on the sidelines of an event in New Delhi, Sri Lankan High Commissioner Mahishini Colonne also said, “Opportunities to explore partnerships are at an optimal level”.
-
-At this point, Sri Lanka has stabilised its economy and is “well on the path of recovery and transformation”, she said, when asked about the current state of its economy.
-
-In this journey, we see immense opportunities for collaboration with India, she said.
-
-High Commissioner Colonne said, “Since our President’s visit to India after his election, and then Prime Minister Modi’s visits to Sri Lanka a few months after it, Sri Lanka-India ties have reached a point of unprecedented excellence”.
-
-...
-
-[Data](articles/f723797e.json)
-
-[Extended Data](ext_articles/f723797e.ext.json)
-
----
-
-### 'Rajini Gang' starring Rajini Kishan
-
-*2025-09-26 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226186) · `ta`
-
-The new movie starring actor Rajini Kishan is titled 'Rajini Gang' and the teaser has been released on the title.. The teaser of the horror gomadi janeri has received a huge welcome.. Within a short time of release, more than two million viewers are visited and achieved
-
-Director M. Rajini Kishan and Divika have played the lead roles in the film 'Rajini Gang' directed by Ramesh Bharati.. My. S.. Satishkumar has recorded the film. S.. Jones Rupert has composed the music. The film is based on Horror Commodhi Janer, producer CS Padamsand-C. Ariyanraj and Rajini Kishan have co-produced.
-
-VF X scenes in this teaser are more.. Has been attracted to the fans.
-
-◼️
-
-[Data](articles/b857c677.json)
-
-[Extended Data](ext_articles/b857c677.ext.json)
-
----
-
-### Actress Yashika Anand starrer 'Toss'
-
-*2025-09-26 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226184) · `ta`
-
-The shooting of the movie 'Tas', which is playing the lead role in the heroine of the story, has begun to shoot fans with fans with 'Big Poss'. Former Minister of Tamil Nadu Kadambur C. Raju congratulated the film crew on the participation of a special guest.
-
-Ratan Mowli, Yashika Anand, Vijay Rivi Yogi, Shanna, Tejasri, Sanjay Shankar, directed by director Saku Pandiyan directed 'Das'.. Shantan Anibhajagane is composed by Dharmadurai. The film is being produced as a crime thriller and produced by producer Syed Zafar on behalf of Black Diamond Studio.
-
-Commenting on the film, the director said, “There are three murder cases.. What is the original background? What is the connection between this murder and Yashika Anand? In order to investigate ... The film is ready for a brilliant crime thriller. ”
-
-◼️
-
-[Data](articles/8e7862e0.json)
-
-[Extended Data](ext_articles/8e7862e0.ext.json)
-
----
-
-### Actress Yashika Anand starrer 'Toss'
-
-*2025-09-26 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226182) · `ta`
-
-The shooting of the movie 'Tas', which is playing the lead role in the heroine of the story, has begun to shoot fans with fans with 'Big Poss'. Former Minister of Tamil Nadu Kadambur C. Raju congratulated the film crew on the participation of a special guest.
-
-இயக்குநர் சகு பாண்டியன் இயக்கத்தில் உருவாகும் 'டாஸ்' திரைப்படத்தில் ரத்தன் மௌலி, யாஷிகா ஆனந்த், விஜய் ரிவி யோகி, ஷன்னா, தேஜாஸ்ரீ, சஞ்சய் சங்கர் உள்ளிட்ட பலர் நடிக்கிறார்கள். Shantan Anibhajagane is composed by Dharmadurai. The film is being produced as a crime thriller and produced by producer Syed Zafar on behalf of Black Diamond Studio.
-
-Commenting on the film, the director said, “There are three murder cases.. What is the original background? What is the connection between this murder and Yashika Anand? In order to investigate ... The film is ready for a brilliant crime thriller. ”
-
-◼️
-
-[Data](articles/ac890434.json)
-
-[Extended Data](ext_articles/ac890434.ext.json)
-
----
-
-### A proposal to amend the Standing Order to strengthen the COPE Committee
-
-*2025-09-26 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215047) · `si`
-
-A proposal to revise the Standing Orders regarding the legal action against the Committee on Public Enterprises (COPE) has been presented to Parliament today.
-
-The proposal has been made by the Chairman of the Committee Dr. Nishantha Samaraweera by the Chairman of the Committee Dr. Nishantha Samaraweera.
-
-It has been suggested that the Bribery or Corruption Commission may directly directly directly to the Commission or the Corruption Commission directly to the Commission or Corruption to take legal action.
-
-The proposal was sent to the Committee on Standing Orders to consider this proposal.
-
-◼️
-
-[Data](articles/88499fd8.json)
-
-[Extended Data](ext_articles/88499fd8.ext.json)
 
 ---

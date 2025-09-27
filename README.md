@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 07:43:57**
+As of **2025-09-27 07:05:00**
 
 ## Newspaper Stats
 
-*Scraped **78,812** Articles*
+*Scraped **78,807** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 306
+lankadeepalk | 304
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -19,7 +19,7 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,619
 adaderanalk | 10,187
-tamilmirrorlk | 11,822
+tamilmirrorlk | 11,819
 virakesarilk | 12,791
 adaderanasinhalalk | 13,691
 
@@ -27,59 +27,11 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,807 (100.0%) of 78,812 articles have been extended.
+78,807 (100.0%) of 78,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### மன்னார் போராட்டத்தில் நள்ளிரவில் பதற்றம்: பலர் காயம்
-
-*2025-09-27 06:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-போராட்டத்தில்-நள்ளிரவில்-பதற்றம்-பலர்-காயம்/175-365360) · `ta`
-
-மன்னாரில் நேற்று (26) இரவு 10 மணி முதல் காற்றாலைக்கு எதிரான போராட்டம் இடம் பெற்று வரும் நிலையில், பொலிஸார் மேற்கொண்டு தாக்குதலில் பெண்கள் ஆண்கள் என பலர் காயமடைந்திருக்கின்றனர்.
-
-மன்னாரில் காற்றாலை மின் செயற்திட்டத்துக்கு எதிராக மக்கள் தொடர்சியாக போராடிவருகின்ற நிலையில்  மக்களின் விருப்பத்திற்கு மாறாக காற்றாலைகளை தீவுக்குள் கொண்டு செல்வதற்கான முயற்சி இடம் பெற்றது
-
-இந்த நிலையில் குறித்த காற்றாலை உதிரிபாகங்களை ஏற்றி வந்த வாகனங்களை போராடி அமைதியான முறையில் தடுக்க முயன்ற மக்கள் மீது பொலிஸார்  தாக்குதலை மேற்கொண்ட நிலையில் பலர் காயம் அடைந்தை நிலையில் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர். (a)
-
-◼️
-
-[Data](articles/81a898b7.json)
-
----
-
-### ஐ.நாவில் நெதன்யாகுவுக்கு எதிர்ப்பு
-
-*2025-09-27 03:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-நெதன்யாகுவுக்கு-எதிர்ப்பு/175-365359) · `ta`
-
-ஐ.நா பொதுச் சபையில் இஸ்ரேல் பிரதமர் நெதன்யாகு உரையாற்ற வந்ததும் அங்கிருந்து பல்வேறு நாட்டு தலைவர்கள் மற்றும் அதிகாரிகள் உள்ளிட்ட பிரதிநிதிகள் பலரும் அவையை விட்டு வெளியேறினர்.
-
-ஐ.நா பொதுச் சபையின் 80 ஆவது கூட்டம் அமெரிக்காவில் நடைபெற்று வருகிறது. இதில் நேற்று இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு பங்கேற்று உரையாற்றினார். தனது உரையில் அவர், “பாலஸ்தீனத்துக்கு தனி நாடு அங்கீகாரம் கூடாது. அந்த அங்கீகாரம், இஸ்ரேலியர்கள் தற்கொலை செய்து கொள்வதற்கு இணையானது. இந்த விவகாரத்தில் பாலஸ்தீனத்துக்கு ஆதரவு தெரிவிக்கும் நாடுகள் வெட்கப்பட வேண்டும். சிறிய ஆதரவுடன் சுமார் ஏழு மோதல்களை இஸ்ரேல் கையாள்கிறது” என்று பேசினார்.
-
-முன்னதாக தனது உரையை நிகழ்த்துவதற்காக நெதன்யாகு மேடைக்கு வந்த சில நொடிகளில் அவருக்கு எதிர்ப்பு தெரிவிக்கும் விதமாக அவையில் இருந்த பல்வேறு நாட்டுத் தலைவர்கள், அதிகாரிகள் உள்ளிட்ட பிரதிநிதிகள் பலரும் தங்கள் இருக்கைகளை விட்டு உடனடியாக எழுந்து கூட்டாக வெளிநடப்பு செய்தனர்.
-
-...
-
-[Data](articles/1ff5e7b1.json)
-
----
-
-### ’பாலஸ்தீனத்துக்கு தனி நாடு அங்கீகாரம் கூடாது’
-
-*2025-09-27 03:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலஸ்தீனத்துக்கு-தனி-நாடு-அங்கீகாரம்-கூடாது/50-365358) · `ta`
-
-ஹமாஸ், ஹவுதி, ஹிஸ்புல்லா உள்ளிட்ட தீவிரவாத அமைப்புகளின் இயக்கத்தை தங்கள் தேசம் நசுக்கி உள்ளது எனவும் பாலஸ்தீனத்துக்கு தனி நாடு அங்கீகாரம் கூடாது என்றும் இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு தெரிவித்துள்ளார்.
-
-ஐ.நா. பொதுச் சபையின் 80 ஆவது கூட்டத்தில் நேற்று வெள்ளிக்கிழமை உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் உரையாற்றுகையில்,
-
-கடந்த ஆண்டு இங்கு பேசியபோது இந்த வரைபடத்தை நான் காண்பித்து இருந்தேன். இந்த வரைபடத்தில் ஈரானின் தீவிரவாத செயல்பாடு குறிப்பிடப்பட்டுள்ளது. இந்த வரைபடம் உலகத்துக்கே அச்சுறுத்தலாக அமைந்துள்ளது. எங்கள் பிராந்தியத்துக்கும், தேசத்துக்கும் இதே நிலைதான். அணு ஆயுதங்கள் மற்றும் பாலிஸ்டிக் ஏவுகணைகளை ஈரான் உருவாக்கி வருகிறது. அதற்கான திட்ட பணியில் ஈரான் தீவிரம் காட்டுகிறது. இது இஸ்ரேலை மட்டும் அழிப்பதற்கானது அல்ல. அமெரிக்கா உள்ளிட்ட உலக நாடுகளுக்கு இது அச்சுறுத்தலாக அமைந்துள்ளது. இதன்மூலம் மற்ற நாடுகளை ஈரான் மிரட்டி வருகிறது.
-
-...
-
-[Data](articles/8d24b20f.json)
-
----
 
 ### Twin infant and mother death during childbirth
 
@@ -478,36 +430,6 @@ As the impacts of climate change become more frequent and intense, people across
 [Data](articles/e39f8cf0.json)
 
 [Extended Data](ext_articles/e39f8cf0.ext.json)
-
----
-
-### අල්ලසට බරම ආයතනය?
-
-*2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලසට-බරම-ආයතනය/101-680300) · `si`
-
-ජාතික දූෂණ විරෝධී ක්‍රියාකාරී සැලැසුම සකස් කිරීම සඳහා පසුගිය වසරේදී එම වසර පුරාවට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම දීප ව්‍යාප්ත සමීක්ෂණයක් කළ බවත් එහිදී මහජනතාව අල්ලස හෝ දූෂණයට වඩාත් නැඹුරු ආයතන ලෙස හඳුනාගෙන ඇති ආයතන අතර පළමු තැන පොලිසියට හිමිවන බවත් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ සභාපති විශ්‍රාමික විනිසුරු නීල් ඉද්දවල මහතා පැවැසුවේය.
-
-දෙවැනි ස්ථානය දේශපාලනඥයන් බවත් තෙවැනි ස්ථානය ශ්‍රී ලංකා රේගුව බවත් ඔහු ප්‍රකාශ කළේය. එහි සිවූ වැනි ස්ථානය ආගමන හා විගමන දෙපාර්තමේන්තුවට හිමිවන බවත් ඉතිරි ස්ථාන අමාත්‍යාංශ, ඉඩම් ලියාපදිංචි කිරීමේ කාර්යාලය, පළාත් සභා, විදේශ රැකියා කාර්යාංශය, ප්‍රාදේශීය ලේකම් කාර්යාල, රෙජිස්ටර් ජනරාල් කාර්යාලයට හිමිවන බව ඔහු පැවැසුවේය.
-
-...
-
-[Data](articles/cfe5f0e6.json)
-
----
-
-### ලොව වේගතවත්ම මෝටර් රථය
-
-*2025-09-26 22:43:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලව-වගතවතම-මටර-රථය/1-680299) · `si`
-
-ලොව වේගවත්ම මෝටර් රථය නිපදවීමට ලොව ප්‍රධානතම විද්‍යුත් මෝටර් රථ නිෂ්පාදකයා වන බී.වයි.ඩී සමාගමට හැකියාව ලැබී ඇත. "යැන්ග්වැන් යූ9 එක්ස්ට්‍රීම්" ලෙස නම් කර ඇති මෙම මෝටර් රථය පැයට කිලෝ මීටර 496.22 ක උපරිම වේගයක් වාර්තා කර ඇත.
-
-චීනයේ බී.වයි.ඩී සමාගම මෙලෙස බිඳ දමා ඇත්තේ බුගාටි චිරෝන් සුපර් ස්පෝර්ට් 2019 හිමිකර ගෙන තිබූ වාර්තාවය. බුගාටි චිරෝන් මෝටර් රථයට පැයට කිලෝ මීටර 490.5 ක උපරිම වේගයකින් ධාවනය වීමේ හැකියාව ඇත. විද්‍යුත් මෝටර් රථයක් මෙම වාර්තාව හිමිකර ගත් පළමු අවස්ථාව මෙය වේ. "යැන්ග්වැන් යූ9 එක්ස්ට්‍රීම්" රථය චීනයේ ඇමෙරිකානු ඩොලර් 233,000 ක් මුදලකට (රුපියල් කෝටි 7 ක් පමණ) අලෙවි වේ.
-
-ලෝකයේ අලුත් වාහන අලෙවියෙන් සියයට 50 ක් හිමිකර ගැනීමට විද්‍යුත් මෝටර් රථවලට මේ වනවිට හැකියාව ලැබී ඇති අතර "යැන්ග්වැන් යූ9 එක්ස්ට්‍රීම්" මෝටර් රථය හේතුවෙන් ලොව වේගවත්ම මෝටර් රථයට හිමි වාර්තාවද මේ වනවිට විද්‍යුත් මෝටර් රථවලට හිමිවී ඇත.
-
-◼️
-
-[Data](articles/ce7e26d9.json)
 
 ---
 
@@ -1994,5 +1916,93 @@ The case was taken up for hearing today (26) and the accused Namal Rajapaksa app
 [Data](articles/f5be7f04.json)
 
 [Extended Data](ext_articles/f5be7f04.ext.json)
+
+---
+
+### Sri Lanka To Introduce New Counter - Terrorism Law Aligned with Global Standards
+
+*2025-09-26 16:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-introduce-new-counter-terrorism-law-aligned-with-global-standards) · `en`
+
+...
+
+[Data](articles/216723b7.json)
+
+[Extended Data](ext_articles/216723b7.ext.json)
+
+---
+
+### Update on Na Uyana Monastery cable car tragedy: Full list of victims released
+
+*2025-09-26 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112945/update-on-na-uyana-monastery-cable-car-tragedy-full-list-of-victims-released) · `en`
+
+The bodies of the Indian and Romanian Buddhist monks who lost their lives in the tragic cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) in Pansiyagama, Melsiripura, will be repatriated to their respective countries at the request of their families, in coordination with the High Commissioner’s Office.
+
+The remains of the other monks will be placed at Na Uyana Monastery from 10:00 a.m. on September 26 for final respects. The funeral rites are scheduled to take place on September 27, at 4:00 p.m. at the Pansiyagama Cemetery.
+
+The accident occurred on September 24, 2025, at approximately 9:10 p.m., when 13 monks were traveling from the lower area of Na Uyana Monastery to their dwellings in the Medakanda area. They were using a cable cart that had been in service for around 22 years and was typically used to transport alms and other supplies.
+
+...
+
+[Data](articles/be5ec0df.json)
+
+[Extended Data](ext_articles/be5ec0df.ext.json)
+
+---
+
+### 11 people injured when 3 vehicles crashed
+
+*2025-09-26 16:38:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வாகனங்கள்-மோதியதில்-11-பேர்-காயம்/175-365336) · `ta`
+
+Bandaragama police say that 11 people were injured when a lorry, van and three wheelers crashed into the Bandaragama-Kaluturai road. The injured belong to the dance group.
+
+A three -wheeler from the opposite direction crossed the road as the lorry was approaching Bandaragama.. Police say that the lorry driver crashed into a lorry with a lorry behind the lorry.
+
+The injured have been admitted to the Bandaragama district hospital. Bandaragama police are investigating.
+
+◼️
+
+[Data](articles/9582572e.json)
+
+[Extended Data](ext_articles/9582572e.ext.json)
+
+---
+
+### Catholic Bishop of Conference on Being Hatin 'Buddhist Monks' Conference
+
+*2025-09-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215042) · `si`
+
+A condolence message has been issued by the Sri Lanka Catholic Bishop conference regarding the death of a discrimination in the land of Melsiripura, Malaysiripura.
+
+It is also revealed that he was a grieving news for the Sambuddha and Sri Lanka to be the case with him.
+
+The announcement of the Catholic Bishop conference is published in the Catholic Bishop conference.
+
+The statement of the dezed exploitation of the local overseas monks and the monks who have seriously wounded are heavily healing.
+
+◼️
+
+[Data](articles/970849ae.json)
+
+[Extended Data](ext_articles/970849ae.ext.json)
+
+---
+
+### Mutcar's problem Mathemism
+
+*2025-09-26 16:30:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මජබරග-පරශනන-මතසබ-රතවය/101-680285) · `si`
+
+The Director General of Bribery, the Director General of the Commission of Investigation Commission (Under the Investigation Commission) was a person who had worked as the Secretary of the JVP and had a warm dialogue in Parliament today (26).
+
+He was responding to the Declare report on the report of the COPE Committee.
+
+The MP was questioned whether it was because of the favorable to investigate the allegations against the ministers of the government.
+
+This is a serious accusation.  We asked this morning too. Did not give an answer. This is what independent commissions like this have been working independently. We have a problem here. MPs' opposition in opposition search for all the deals. However, the ministers of the government are not looking for. It is not because he's a JeaPP. We can think so.
+
+...
+
+[Data](articles/8baad408.json)
+
+[Extended Data](ext_articles/8baad408.ext.json)
 
 ---

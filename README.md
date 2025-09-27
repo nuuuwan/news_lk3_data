@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 15:20:38**
+As of **2025-09-27 15:37:42**
 
 ## Newspaper Stats
 
-*Scraped **78,906** Articles*
+*Scraped **78,918** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 330
+lankadeepalk | 337
 newsfirstlk | 439
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -18,20 +18,78 @@ dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
-adaderanalk | 10,195
+adaderanalk | 10,199
 tamilmirrorlk | 11,828
-virakesarilk | 12,814
+virakesarilk | 12,815
 adaderanasinhalalk | 13,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,906 (100.0%) of 78,906 articles have been extended.
+78,906 (100.0%) of 78,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### මබ්බෲක්ට  පාර්ලිමේන්තුවේ ලොකු පුටුවක්
+
+*2025-09-27 15:11:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මබබකට-පරලමනතව-ලක-පටවක/101-680314) · `si`
+
+පාර්ලිමේන්තුවේ නියෝජ්‍ය  අධ්‍යක්ෂ( පරිපාලන)  ලෙස කටයුතු කළ  මබ්බෲක් මාර්සූක්  මහතා  පාර්ලිමේන්තුවේ පරිපාලන අධ්‍යක්ෂක තනතුරට උසස් කරනු ලැබ සිටී
+
+ඔහු නියෝජ්‍ය  අධ්‍යක්ෂ( පරිපාලන) තනතුරට පත්වීමට පෙර කටයුතු කළේ  මහජන පෙත්සම් කාරක සභාවේ  සහකාර අධ්‍යක්ෂවරයා ලෙසය.
+
+කාලයක් ගුරු වෘත්තියේ නියැලී සිට පාර්ලිමේන්තු  නිලධාරියකු ලෙස  මැතිසබයේ  සේවයට එක්වූ මම්බෲක් මහතා මන්ත්‍රීවරුන්ගේ පෞද්ගලික මන්ත්‍රී යෝජනා සිංහල ඉංග්‍රීසි  සහ දෙමළ යන භාෂා ත්‍රිත්වයෙන්ම සකස් කිරීමට සුවිශේෂ නිපුණත්වයක් දැක්වූ අයෙකි.
+
+උදය මුණසිංහ  මහතා  පාර්ලිමේන්තු පරිපාලන අධ්‍යක්ෂ ධූරයෙන් පසුගියදා විශ්‍රාම  ලැබීමෙන්  එම තනතුර පුරප්පාඩු විය
+
+◼️
+
+[Data](articles/85be10f4.json)
+
+---
+
+### “ஜீலே”வின் சகா போதைப்பொருட்களுடன் கைது!
+
+*2025-09-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226243) · `ta`
+
+வெளிநாட்டில் தலைமறைவாக உள்ள பாதாள உலக கும்பலைச் சேர்ந்தவரும் போதைப்பொருள் கடத்தல்காரருமான “ஜீலே” என்பவரின் சகா ஒருவர் போதைப்பொருட்களுடன் பொலிஸ் விசேட அதிரடிப்படையினரால் வியாழக்கிழமை (25) கைதுசெய்யப்பட்டுள்ளார்.
+
+பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் பேரில் ஹோகந்தர பிரதேசத்தில் சந்தேகத்திற்கிடமான முறையில் பயணித்த முச்சக்கரவண்டியில் மேற்கொள்ளப்பட்ட சோதனையில்  சந்தேக நபர் கைதுசெய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து 502 கிராம் ஐஸ் மற்றும் 104 கிராம் ஹெரோயின் உள்ளிட்ட போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/770007b0.json)
+
+---
+
+### Final rites commence for monks killed in Na Uyana Monastery cable car accident
+
+*2025-09-27 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112962/final-rites-commence-for-monks-killed-in-na-uyana-monastery-cable-car-accident) · `en`
+
+The final rites for the Buddhist monks who lost their lives in the tragic cable car accident at Na Uyana Monastery in Melsiripura have commenced at the Pansiyagama Cemetery.
+
+A large number of monks, including members of the Maha Sangha, as well as devotees, gathered at Na Uyana Monastery to pay their last respects.
+
+The remains of the monks had been placed at the monastery from 10:00 a.m. on September 26 for officials and devotees to offer their respects.
+
+Opposition Leader Sajith Premadasa also paid his respects last evening (26), while ‘Sarvajana Balaya’ Member of Parliament Dilith Jayaweera visited the monastery this morning (27).
+
+The remains of the Russian Buddhist monk were brought to Na Uyana Monastery last night following the family’s request to have his last rites performed in Sri Lanka.
+
+Accordingly, the burial of the deceased Sri Lankan monks and the Russian monk is scheduled for 4:00 p.m. today at the cemetery.
+
+...
+
+[Data](articles/4360598b.json)
+
+---
 
 ### Completely suspended all boxing activities in Ghana
 
@@ -113,6 +171,26 @@ After paying the final tribute here, he met with the chief Thera of the Aranya S
 
 ---
 
+### Inefficient appliances a major cause of energy loss, warns SLSEA
+
+*2025-09-27 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112961/inefficient-appliances-a-major-cause-of-energy-loss-warns-slsea) · `en`
+
+The Sri Lanka Sustainable Energy Authority (SLSEA) has stated that a significant portion of energy loss in the country is caused by inefficient electrical appliances, particularly refrigerators that are over 10 years old.
+
+The Director General of the Authority, Harsha Wickramasinghe, made this remarks while addressing the media following a ceremony in Colombo.
+
+“Surveys have shown that inefficient household appliances in Sri Lanka contribute to high electricity bills. This issue is most commonly observed in refrigerators and air conditioners,” he said.
+
+According to Wickramasinghe, one in three refrigerators in homes in the Western Province is in an unusable condition, leading to electricity consumption exceeding 100 units per month.
+
+He further noted that the import of inefficient appliances into Sri Lanka has already been halted, and similar regulations for air conditioners will be strictly enforced by the end of this year.
+
+◼️
+
+[Data](articles/165a8bf3.json)
+
+---
+
 ### Is the refrigerator more than 10 years old?
 
 *2025-09-27 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215068) · `si`
@@ -161,6 +239,24 @@ This program is organized by the Presidential Secretariat, the Digital Economic 
 
 ---
 
+### AI ගැන මහනුවරට උගන්වයි
+
+*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/AI-ගන-මහනවරට-උගනවය/101-680312) · `si`
+
+රජයේ ඩිජිටල්කරණ වැඩසටහන සහ AI තාක්ෂණ භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් පළාත් මට්ටමින් දැනුවත් කිරීමේ වැඩසටහන් මාලාවෙහි පළමු පළාත් වැඩසටහන  මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත්විණි.
+
+රජයේ ඩිජිටල්කරණ සැලසුම් පැහැදිලි කිරීම සහ AI තාක්ෂණ භාවිතය පිළිබඳව නිලධාරීන්ගේ සාක්ෂරතාවය ඉහළ නැංවීමේ අරමුණින් සංවිධානය කරන ලද මෙම වැඩසටහන මධ්‍යම පළාත් සභාව, දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල සහ රජයේ අනෙකුත් ආයතනවල සියලුම විධායක නිලධාරීන්ගේ සහභාගීත්වයෙන් පැවැත්විණි.
+
+ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව රජයේ නිලධාරීන් දැනුවත් කිරීමේ වැඩසටහන් 6ක් කොළඹ කේන්ද්‍ර කරගනිමින් මේ වන විට පවත්වා ඇති අතර ඒ සඳහා නිලධාරීහු 4000කට වැඩි පිරිසක් සහභාගී වූහ.
+
+සියලු පළාත් ආවරණය වන පරිදි පළාත් මට්ටමින් මෙම වැඩසටහන පවත්වා රජයේ ඩිජිටල්කරණ සැලසුම පිළිබඳ රාජ්‍ය නිලධාරියාගේ කාර්යභාරය සහ AI තාක්ෂණය රජයේ කටයුතු සඳහා භාවිතයට යොදා ගැනීම පිළිබඳව කොළඹින් බැහැර සිටින සියලුම රාජ්‍ය නිලධාරීන් දැනුවත් කිරිමට සැලසුම් කර ඇතැයි ජනාධිපති කාර්යාලය පවසයි.
+
+...
+
+[Data](articles/e137c4f1.json)
+
+---
+
 ### 717 Arrested In Island-Wide Police Operation
 
 *2025-09-27 13:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/717-arrested-in-island-wide-police-operation) · `en`
@@ -172,6 +268,26 @@ COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide
 [Data](articles/1ee617c1.json)
 
 [Extended Data](ext_articles/1ee617c1.ext.json)
+
+---
+
+### නානුඔය දුම්රිය ස්ථානයේ ලෝක සංචාරක දිනය සැමරේ
+
+*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/101-680311) · `si`
+
+ලෝක සංචාරක දිනය නිමිත්තෙන් නානුඔය දුම්රිය ස්ථානයේදි සංචාරක දිනය සැමරීමේ උත්සවයක් එම දුම්රිය පරිශ්‍රයේදි අද (27) දින සිදු කෙරිණ.
+
+නානුඔය දුම්රිය ස්ථානයේ සංචාරක රියදුරන්ගේ සංගමය සහ සංචාරක ත්‍රීරෝද රථ හිමියන්ගේ සංගමය එක්ව නානුඔය දුම්රිය ස්ථානයේ ස්ථානාධිපතිවරයා ඇතුලු කාර්යමණ්ඩලයේ සහයෝගය ඇතිව නානුඔය දුම්රිය ස්ථානයට ගමන් ගන්නා විදේශීය සංචාරකයන් සහ නානුඔය දුම්රිය ස්ථානයට මගී ප්‍රවාහන දුම්රියන්වලින් පැමිණි විදේශීය සංචාරකයන්ට උනුසුම් අයුරින් මල් මාලා පළදවා පිළිගනු ලැබූහ.
+
+නානුඔය දුම්රිය ස්ථානයේදී දේශීය සංස්කෘතිය විදහා දැක්වෙන් සංස්කෘතිකාංග ගණනාවක්ද පාසල් ළමුන් විසින් විදේශිකයන් හමුවේ ඉදිරිපත් කල අතර, ලෝක සංචාරක දිනයේදි මෙරටට පැමිණි තමන්ව පිලිගැනීම සම්බන්ධයෙන් විදේශික සංචාරකයන් සිය සතුට පල කරනු ලැබූහ.
+
+ලෝක සංචාරක දිනයෙදි දුම්රියෙන් ගමන් කිරිමට පැමිණි සංචාරකයන් නානුඔය දුම්රිය ස්ථානයේදි නර්ථනයේ යෙදෙන අයුරුද අප කැමරාවේ සටහන් විය.
+
+මෙම අවස්ථාවට නානුඔය පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයා, සංචාරක හෝටල් හිමියන්, සංචාරක කර්මාන්තයේ යෙදී සිටින පුද්ගලයන් ඇතුලු ප්‍රදේශවාසීන් විශාල පිරිසක් සහභාගි වී සිටියහ.
+
+◼️
+
+[Data](articles/613b9e69.json)
 
 ---
 
@@ -263,6 +379,26 @@ It is noteworthy that the event was organized for the heads of state in New York
 
 ---
 
+### IRD reminds taxpayers to settle final income tax payments
+
+*2025-09-27 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112960/ird-reminds-taxpayers-to-settle-final-income-tax-payments-) · `en`
+
+The Inland Revenue Department (IRD) has notified all taxpayers to make their final income tax payments for the 2024/2025 assessment year on or before September 30.
+
+This requirement applies to individuals, companies, corporations, partnerships, and other registered entities.
+
+The IRD stated that tax payments can be made through the Online Tax Payment Platform (OTPP) or at any branch of the Bank of Ceylon (BOC) without the need for physical payment slips.
+
+Taxpayers have also been reminded that interest and penalties will be imposed for delays or failures in making payments.
+
+The Department further emphasized that penalties and interest charged for late or non-payment will not be waived or reduced under any circumstances.
+
+◼️
+
+[Data](articles/8f7cb4d0.json)
+
+---
+
 ### Special announcement for all taxpayers!
 
 *2025-09-27 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226233) · `ta`
@@ -282,6 +418,24 @@ The Internal Revenue Department has issued a statement to all taxpayers, saying 
 [Data](articles/586f550e.json)
 
 [Extended Data](ext_articles/586f550e.ext.json)
+
+---
+
+### කෝප් කෝපාවට හොරු අල්ලන බලය
+
+*2025-09-27 13:11:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-කපවට-හර-අලලන-බලය/101-680310) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ පිළිබඳ  පාර්ලිමේන්තු කාරක සභාව(කෝප්)  සහ  රාජ්‍ය ගිණුම් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට (කෝපා) රාජ්‍ය ආයතනවල   දුෂණ  සහ  ඒවාට සම්බන්ධ ප්‍රධානීන් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීම  සදහා  අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට  හෝ නීතිපති දෙපාර්තමේන්තුවට නිර්දේශ හෝ පැමිණිලි  ඉදිරිපත්  කිරීමේ බලතල ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර ඇත.
+
+මේ අනුව එම කමිටු දෙකට එකී බලතල ලබාදීම සඳහා  ස්ථාවර නියෝග ළඟදීම සංශෝධනය  කෙරෙනු ඇතැයි පාර්ලිමේන්තු ආරංචි මාර්ග සඳහන් කළේය.
+
+ස්ථාවර නියෝග සංශෝධනය කිරීම අනුමත කිරීම සඳහා  යෝජනාවක්  ස්ථාවර නියෝග කාරක සභාවට යොමු කිරීමටද  පාර්ලිමේන්තුවේ අනුමැතිය පෙරේදා ලැබිණ.
+
+රාජ්‍ය ආයතනවල දූෂණ සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට( කෝප් කමිටුව) සහ  රජයේ ගිණුම් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට (කෝපා )    අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට  හෝ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට හෝ නීතිපතිවරයාට  පැමිණිලි  හෝ නිර්දේශ ඉදිරිපත්  කිරීමේ  බලයක් මේ දක්වාම නොතිබිණ.
+
+...
+
+[Data](articles/310eb7e8.json)
 
 ---
 
@@ -425,6 +579,22 @@ According to further investigations by the police, it was revealed that the susp
 
 ---
 
+### Advisory issued for multi-day boats in Bay of Bengal deep sea areas
+
+*2025-09-27 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112959/advisory-issued-for-multi-day-boats-in-bay-of-bengal-deep-sea-areas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ advisory for multi-day boats operating in the deep sea areas of the Bay of Bengal.
+
+According to the Department, wind speeds in the sea areas marked under the advisory category on the map are expected to increase to 55–65 kmph at times, with the sea conditions becoming rough or very rough occasionally.
+
+Accordingly, naval and fishing communities are advised to remain vigilant.
+
+◼️
+
+[Data](articles/de613faa.json)
+
+---
+
 ### Anura met French president
 
 *2025-09-27 12:13:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-ஜனாதிபதியை-சந்தித்தார்-அநுர/175-365364) · `ta`
@@ -558,6 +728,22 @@ President Anura Kumara Dissanayake said President Anura Kumara Dissanayake said.
 [Data](articles/1a069ba8.json)
 
 [Extended Data](ext_articles/1a069ba8.ext.json)
+
+---
+
+### අනුර-ට්‍රම්ප් සුහඳ කතාබහක
+
+*2025-09-27 11:56:16* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අනර-ටරමප-සහඳ-කතබහක/101-680307) · `si`
+
+ඇමෙරිකා ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා ඇමරිකාවේදී හමුවීම සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය නිල ෆේස්බුක් ගිණුමේ සටහනක් තබා ඇත.
+
+"එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා නිව්යෝර්ක් නුවරට පැමිණ සිටි රාජ්‍ය නායකයන් වෙනුවෙන් ඇමරිකා එක්සත් ජනපද ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා විසින් පසුගිය 23 දා Lotte New York Palace හෝටලයේදී පිරිනමන ලද විශේෂ රාත්‍රී භෝජන සංග්‍රහය සඳහා එක්වීමි.
+
+එහිදී ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා සමඟ සුහද කථා බහකද නිරත වීමි" යනුවෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7adaf8f3.json)
 
 ---
 
@@ -1060,6 +1246,22 @@ Palestinian medical sources have confirmed that many people were killed on Frida
 [Data](articles/b57f4e70.json)
 
 [Extended Data](ext_articles/b57f4e70.ext.json)
+
+---
+
+### රජයේ ලොක්කෙක් ජපාන ආයෝජකයන් හරවා යවලා
+
+*2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/101-680303) · `si`
+
+ශ්‍රී ලංකාවේ ආයෝජනයකට පැමිණි ජපානයේ ආයෝජකයන් පිරිසකට ඉහළ පෙළේ නිලධාරියකු සාකච්ඡාවකට අවස්ථාවේදී ඉන් මගහැර යෑම හේතුවෙන් එම ආයෝජකයන් පිරිස කලකිරීමට පත්ව ආපසු හැරී ගොස් ඇතැයි වාර්තාවේ.
+
+පසුව එම නිලධාරියා පෝය දිනයක වෙනත් ස්ථානයක සාකච්ඡා කිරීමට යෝජනා කර ඇති අවස්ථාවේදී එම ආයෝජකයන් එය ප්‍රතික්ෂේප කර ඇත.
+
+මේ සිද්ධියවූයේ මාර්ග ආරක්ෂණ වැඩපිළිවෙලක් සම්බන්ධයෙන් රජයේ අනුමැතිය ලබා ගැනීමට අමාත්‍යාංශ උසස් නිලධාරියෙකු හමුවීමට උත්සාහ දැරූ අවස්ථාවේදී බව එම ජපන් ආයෝජකයන් පිරිස සම්බන්ධීකරණය කළ රාජපුත්‍ර සමූහ ව්‍යාපාරයේ සභාපති සජීව් රාජපුත්‍ර මහතා කොළඹදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී පැවසීය.
+
+...
+
+[Data](articles/906951c9.json)
 
 ---
 
@@ -1904,217 +2106,5 @@ The Global Dialogue Forum (GDF), in partnership with the Club of Rome – India,
 [Data](articles/38385210.json)
 
 [Extended Data](ext_articles/38385210.ext.json)
-
----
-
-### Sustainable champions in industry receive Ecolabel Sri Lanka recognition
-
-*2025-09-27 00:46:46* · [`dailyftlk`](https://www.ft.lk/business/Sustainable-champions-in-industry-receive-Ecolabel-Sri-Lanka-recognition/34-782258) · `en`
-
-National Cleaner Production Centre CEO Eng. Samantha Kumarasena said that several Sri Lankan companies were awarded Ecolabel certifications, signalling a growing commitment to greener industry practices and responsible production standards.
-
-Ecolabel Sri Lanka yesterday (25) honoured leading companies that have adopted eco-friendly criteria in their operations.
-
-Siam City Cement, Melwa, and Harischandra Mills, representing the cement, steel, and food sectors respectively were newly certified, demonstrating how diverse industries in the country are embracing sustainability, not only as a compliance requirement but also as a strategic advantage in global markets.
-
-Nippon Paints Sri Lanka also received its Ecolabel recertification, affirming the company’s ongoing dedication to reducing environmental impact while maintaining product excellence.
-
-Kumarasena said the awards signal the collective direction of Sri Lanka’s industries toward greener and more responsible growth.
-
-...
-
-[Data](articles/6c7e0c4f.json)
-
-[Extended Data](ext_articles/6c7e0c4f.ext.json)
-
----
-
-### Sanasa Life Insurance supports Colombo International Book Fair as official insurance partner
-
-*2025-09-27 00:44:50* · [`dailyftlk`](https://www.ft.lk/business/Sanasa-Life-Insurance-supports-Colombo-International-Book-Fair-as-official-insurance-partner/34-782257) · `en`
-
-Partnership agreement signed by Sanasa Life Insurance CEO Nuwanpriya Gunawardane and Sri Lanka Book Publishers Association Chairman Samantha Samarasinhe
-
-Sanasa Life Insurance is the official insurance partner of the highly anticipated Colombo International Book Fair. As an organisation whose ethics extend beyond business, Sanasa Life Insurance views its sponsorship as life insurance partner of the book fair as a key part of its corporate responsibility that aligns with organisational values to support educational endeavors, thereby helping future generations in their path of educating themselves.
-
-...
-
-[Data](articles/7deb3386.json)
-
-[Extended Data](ext_articles/7deb3386.ext.json)
-
----
-
-### Serendib Flour Mills showcases innovation and engagement at Profood Propack & AgBiz 2025
-
-*2025-09-27 00:43:40* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-showcases-innovation-and-engagement-at-Profood-Propack-AgBiz-2025/34-782256) · `en`
-
-Serendib Flour Mills Ltd., participated in Profood Propack & AgBiz 2025 held from 22 to 24 August at the BMICH, Colombo.
-
-Engaging at Profood Propack & AgBiz 2025 strengthened Serendib Flour Mills’ firm commitment to ‘Nourishing the Nation,’ delivering quality, innovation, and engagement to the heart of Sri Lanka’s food industry.
-
-The event attracted leading industry players, innovators, and consumers, providing an ideal platform for Serendib Flour Mills to showcase its diverse range of products.
-
-The exhibition was an excellent opportunity for the company to connect with valued customers and industry partners. It paved the way for Serendib Flour Mills to demonstrate the quality of products and the dedication to supporting the growth of Sri Lanka’s food industry.
-
-...
-
-[Data](articles/f5c9ef5f.json)
-
-[Extended Data](ext_articles/f5c9ef5f.ext.json)
-
----
-
-### Yaden Laboratories shines at Tecnosalud 2025
-
-*2025-09-27 00:42:34* · [`dailyftlk`](https://www.ft.lk/business/Yaden-Laboratories-shines-at-Tecnosalud-2025/34-782255) · `en`
-
-Yaden Laboratories participated with outstanding success in Tecnosalud – International Health Fair 2025 as invitees of the prestigious Lima Chamber of Commerce – CCL and its COMSALUD Guild, which was held from 10 to 12 September in Lima, capital of Peru on its 19th convocation.
-
-It has been recognised for more than 25 years as the ‘only health sector fair’ in Peru, and is the main business platform to launch and presentation of innovative products, solutions and services for hospitals, pharmacies and clinics with a meeting place for the main players in the health sector as an ideal space for companies in the sector to generate business and brand recognition.
-
-...
-
-[Data](articles/53b26c28.json)
-
-[Extended Data](ext_articles/53b26c28.ext.json)
-
----
-
-### Citizens with general expectations cannot be separated -Chinese Ambassador
-
-*2025-09-27 00:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226204) · `ta`
-
-Chinese policy states that citizens with general expectations cannot be separated by mountains or seas. Chinese Ambassador to Sri Lanka Ki Senhong said that Sri Lanka and China have been seen as 2000 years old historical allies.
-
-A reception was organized at the Chinaman Life Hotel, Colombo on Thursday (25) to mark the 76th anniversary of the establishment of the People's Republic of China. The Chinese ambassador said this while addressing the event.
-
-Chinese policy states that citizens with general expectations cannot be separated by mountains or seas. There is more historical friendship between China and Sri Lanka for 2000 years.
-
-President Anura Kumara Dissanayake made an official visit to China this year. During this time, compliance with the two leaders and the two countries reached the bonds of strengthening the bonds between the two countries.. We will work together in the future.
-
-...
-
-[Data](articles/5ab9ff40.json)
-
-[Extended Data](ext_articles/5ab9ff40.ext.json)
-
----
-
-### We will only focus on cricket and play without Villangam- Hamanpreet, Sanaa
-
-*2025-09-27 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226202) · `ta`
-
-Fatima Sana, the leader of the two teams, said that India and Pakistan played only cricket while playing in the ICC Women's World Cup competition.
-
-In response to questions raised during the daytime meeting at the ICC Women's World Cup, the leaders of the teams for the 13th chapter of the ICC, in Bangalore and at the Colombo Ratnadeep Hotel today.
-
-During the Women's World Cup, the leaders of the two teams raised questions about the controversy between India and Pakistan during the Asian Cup Cricket Tournament in the UAE.
-
-In response, Hamanpreet Gore said, “We will only focus on cricket game and play very elegantly. We will not interfere with unnecessary matters. We will play well without interfering with things beyond our control. ”
-
-At the same time, 'We are here to play cricket (Sri Lanka). We have no other thought. The Sri Lankan soil where the World Cup Cricket Tournament is held is like our own soil. "Sri Lanka and Pakistan have similar conditions," said Fatima Sanaa.
-
-...
-
-[Data](articles/d7c993be.json)
-
-[Extended Data](ext_articles/d7c993be.ext.json)
-
----
-
-### My goal is to go to Sri Lanka for the semi -finals - Samari Attapattu
-
-*2025-09-27 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226203) · `ta`
-
-“My goal is to go to Sri Lanka to the semi -finals of the ICC Women's World Cup before I retire. We will think about what to do next after going to the semi -final. However, if the semi -finals are gone, it is the biggest thing, ”the team captain Samari Atapattu said.
-
-Meanwhile, the ICC Women's World Cup (50 Over) Cricket Tournament to be held in India and Sri Lanka. The World Cup will be challenging for all teams, while the team leaders have expressed the unanimous notion that all teams will try to win.
-
-Samari Athapathu and other teams of other teams made this statement during a media briefing on the ICC Women's World Cup Cricket Tournament held in Bangalore and Colombo on Friday (26).
-
-The current Champion Australia, Bangladesh, England, India, New Zealand, Pakistan and South Africa will take part in the ICC Women's World Cup match between India and Sri Lanka on September 30 in Guwahati.
-
-...
-
-[Data](articles/61bede2c.json)
-
-[Extended Data](ext_articles/61bede2c.ext.json)
-
----
-
-### Politics of Tamil-Muslim relations
-
-*2025-09-27 00:12:31* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-Tamil-Muslim-relations/4-782245) · `en`
-
-Although the main attention is on Sinhalese-Tamil reconciliation, there is also a need for Tamil-Muslim reconciliation
-
-The introduction of multi-member constituencies in the Eastern Province is a living testimony to Tamil-Muslim political mistrust. That mistrust reached its climax when the LTTE emerged on the scene. Although during its initial stages LTTE was prepared to accommodate the Muslims as Islamic Tamils in their failed Tamil Eelam, thus echoing Ramanathan of 1880s, Tamil-Muslim mistrust continued to bedevil any accommodation and finally led to the expulsion of the entire Muslim community from Jaffna and its suburbs. That was the political climate which eventually produced the ill-conceived SLMC as a party to represent Muslims only
-
-...
-
-[Data](articles/715e17ea.json)
-
-[Extended Data](ext_articles/715e17ea.ext.json)
-
----
-
-### 2025-09-26 (Friday)
-
-### Selective republicanism of socialist regime rules
-
-*2025-09-26 23:57:02* · [`dailyftlk`](https://www.ft.lk/columns/Selective-republicanism-of-socialist-regime-rules/4-782242) · `en`
-
-The pre-election promises spanning political, social and economic dimensions have been
-
-A bigger picture emerges on the larger canvas of national political life... it is one in which the relatively few, early, ongoing good deeds that should redound to government’s credit are overshadowed by the greater good it has yet to do – because we’re beginning to be agnostic to their potential to effect systemic change, having lost faith in their slow, steady and plebeian ways. Also, we’ve failed to remember the religious zeal of previous dispensations for evil deeds
-
-No good deed goes unpunished, mused libertarian socialist Oscar Wilde, no doubt while in Reading Gaol and reminiscing about that ironic truism in his own short life.
-
-Perhaps some of the stalwarts in governmental ranks share a similar sentiment about the electorate at large today, sensing dissent even beyond the ranks of Tuscany.
-
-...
-
-[Data](articles/269c59a6.json)
-
-[Extended Data](ext_articles/269c59a6.ext.json)
-
----
-
-### Shutting down the internet shuts down your right to know
-
-*2025-09-26 23:50:21* · [`dailyftlk`](https://www.ft.lk/opinion/Shutting-down-the-internet-shuts-down-your-right-to-know/14-782241) · `en`
-
-On 28 September, the world marks both World News Day and the International Day for
-
-Universal Access to Information. For many African countries, these days have always been marked with a realm of hope but in the recent past, it is a reminder of a worrying trend.
-
-When events become politically sensitive or socially tense, governments sometimes respond by shutting down the internet or silencing broadcasters, cutting off the audience; this action severs access to credible news precisely when the public’s need for it is greatest.
-
-Misinformation and disinformation are rampant on social media platforms such as TikTok Live, which have become an alternative source of truth for many.
-
-...
-
-[Data](articles/a6e67b16.json)
-
-[Extended Data](ext_articles/a6e67b16.ext.json)
-
----
-
-### Sri Lanka’s tourism at crossroads: Wake-up call on World Tourism Day
-
-*2025-09-26 23:43:54* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-tourism-at-crossroads-Wake-up-call-on-World-Tourism-Day/14-782239) · `en`
-
-Future growth must balance increased arrivals with a focus on high-value tourism and sustainable site management
-
-The targets may slip, but the opportunity remains. To salvage momentum, authorities must; fast-track visa reforms through Parliament and implement before October, launch at least an interim global campaign leveraging on existing accolades in promotion, coordinate with airlines to expand connectivity, empower the private sector as partners, not bystanders and shift focus from ad-hoc roadshows to a coherent strategy
-
-As the world marks World Tourism Day today, on 27 September, Sri Lanka stands at a critical juncture. Tourism has long been hailed as the country’s “low-hanging fruit” for economic revival and the year 2025 began with bold ambitions; 3 million arrivals and $ 5 billion in earnings. Yet as the final quarter approaches, those lofty goals are slipping out of reach.
-
-...
-
-[Data](articles/70dbb290.json)
-
-[Extended Data](ext_articles/70dbb290.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 22:20:33**
+As of **2025-09-27 22:36:55**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,993 (100.0%) of 78,994 articles have been extended.
+78,994 (100.0%) of 78,994 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,15 +85,17 @@ The fishermen have not paid attention to the risk of the fishermen, and the Depa
 
 ---
 
-### விஜய் கூட்டத்தில் 29  பேர் உயிரிழப்பு.
+### 29 people die in Vijay meeting
 
 *2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-29-பேர்-உயிரிழப்பு/175-365384) · `ta`
 
-தமிழகத்தின் கரூரில் விஜய் நடத்திய பரப்புரையில் ஏற்பட்ட நெரிசலில் சிக்கி 3 குழந்தைகள் உட்பட 29 பேர் உயிரிழப்பு.
+29 people, including 3 children, were killed in a congestion in Vijay's campaign in Karur in Tamil Nadu.
 
 ◼️
 
 [Data](articles/a2e9b144.json)
+
+[Extended Data](ext_articles/a2e9b144.ext.json)
 
 ---
 

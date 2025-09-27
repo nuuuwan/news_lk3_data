@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 08:57:21**
+As of **2025-09-27 08:35:50**
 
 ## Newspaper Stats
 
-*Scraped **78,826** Articles*
+*Scraped **78,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,217 +13,25 @@ newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
 colombotelegraphcom | 793
-economynextcom | 4,727
+economynextcom | 4,725
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,620
-adaderanalk | 10,190
-tamilmirrorlk | 11,824
+adaderanalk | 10,187
+tamilmirrorlk | 11,822
 virakesarilk | 12,791
-adaderanasinhalalk | 13,697
+adaderanasinhalalk | 13,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,812 (100.0%) of 78,826 articles have been extended.
+78,812 (100.0%) of 78,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### සහකාර පොලිස් අධිකාරි උසස් කිරීම්වලට එරෙහිව පෙත්සම්
-
-*2025-09-27 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215060) · `si`
-
-සහකාර පොලිස් අධිකාරීවරුන් බඳවාගැනීම සඳහා ඉකුත් දා පැවැති විභාගයට පෙනී සිටි අය අතුරින්
-
-45 දෙනෙකු සහකාර පොලිස් අධිකාරී ධුරයට උසස් කිරීම තුළින් සිය මූලික අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ප්‍රධාන පොලිස් පරීක්ෂකවරු සහ පොලිස් පරීක්ෂකවරු 170 දෙනෙකු ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් 3ක් ගොනු කර තිබේ.
-
-එහි වගඋත්තරකරුවන් ලෙස පොලිස්පතිවරයා, උසස්වීම් ලද සහකාර පොලිස් අධිකාරීවරු සහ ජාතික පොලිස් කොමිසමේ සාමාජිකයන් නම් කර ඇත.
-
-නීතිඥ මංජුල බාලසූරිය මහතා ගොනුකර ඇති පෙතසම් තුළින් ඔවුන් සඳහන් කර සිටින්නේ, ප්‍රධාන පොලිස් පරීක්ෂකවරු සහ පොලිස් පරීක්ෂකවරු සහකාර පොලිස් අධිකාරී ධුරය උසස් කිරීම සඳහා පැවති සීමිත තරග විභාගයේ ප්‍රතිඵල මත ඉකුත් 25 වනදා 45 දෙනෙකු සහකාර පොලිස් අධිකාරි ධුරයට උසස් කළ බවය.
-
-මෙම විභාගයේදී ප්‍රශ්න පත්‍රයක් පිටවී ඇති බවට තොරතුරු අනාවරණය වූ බවත්, ඊට අමතරව අදාළ විභාගයේ ප්‍රතිඵල ප්‍රමාද වී නිකුත් කළ බවත්, එය හිතාමතා කළ ක්‍රියාවක් බවත් පෙත්සමේ සඳහන්ව ඇත.
-
-මීට පෙර අවස්ථාවලදී සහකාර පොලිස් අධිකාරි ධුරයට උසස් කරනු ලැබුවේ ජ්‍යෙෂ්ඨත්වය මත බව ඔවුන් සඳහන් කරයි.
-
-...
-
-[Data](articles/50c8b239.json)
-
----
-
-### ජනපතිගේ ජපාන සංචාරය අදින් ඇරඹේ
-
-*2025-09-27 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215058) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ජපානයේ නිල සංචාරය අද (27) ආරම්භ කිරීමට නියමිතය.
-
-ජපන් රජය විසින් සිදුකරන ලද ආරාධනයකට අනුව අද සිට ලබන30 වන දින දක්වා ජනාධිපතිවරයා ජපානයේ නිල සංචාරයක නිරත වීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
-
-මෙම සංචාරය තුළ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා, ජපන් අධිරාජ්‍යයා හමුවීමටද නියමිතය.
-
-තවද ජපන් අග්‍රාමාත්‍යවරයා සමග අන්‍යෝන්‍ය වශයෙන් වැදගත් කරුණු ගණනාවක් පිළිබද අවධාරණය කෙරෙන සමුළු රැස්වීමක් ද පැවැත්වීමට කටයුතු යොදා තිබේ.
-
-මෙහිදී ටෝකියෝවේ ප්‍රමුඛතම ජපන් ව්‍යාපාර සහ අයෝජකයින්ගේ ඉහළ පෙළේ නියෝජිතයින්ගේ සහභාගිත්වයෙන් පැවැත්වෙන ව්‍යාපාරික සංසදයක් ද ජනාධිතිවරයා විසින් ඇමතීමට නියමිතව ඇත.
-
-ඊට අමතරව 'එක්ස්පෝ 2025 ඔසාකා' ප්‍රදර්ශනය සඳහා ද ජපන් රජයේ ආරාධිතයෙකු ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා සහභාගි වනු ඇති බව විදේශ කටයුතු අමාත්‍යංශය සදහන් කළේය.
-
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගි වීම සඳහා පසුගියදා අමෙරිකාවේ නිව්යෝර්ක් බලා පිටත්ව ගිය ජනාධිපතිවරයා එහි සිට මෙම ජපාන සංචාරය සිදුකරනු ලැබීය.
-
-◼️
-
-[Data](articles/6189d396.json)
-
----
-
-### அனைத்து வரி செலுத்துவோருக்கும் முக்கிய அறிவிப்பு
-
-*2025-09-27 07:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-வரி-செலுத்துவோருக்கும்-முக்கிய-அறிவிப்பு/175-365362) · `ta`
-
-2025 செப்டம்பர் 30 அல்லது அதற்கு முன் வரிகளை செலுத்துமாறு அனைத்து வரி செலுத்துவோருக்கும் உள்நாட்டு இறைவரித் திணைக்களம் அறிவுறுத்தியுள்ளது.
-
-இந்த உத்தரவு தனிநபர்கள், நிறுவனங்கள், நிறுவன கூட்டாண்மைகள் மற்றும் பிற பதிவு செய்யப்பட்ட நிறுவனங்களுக்கும் பொருந்தும் எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-இறுதி கட்டணத்தை இணையவழி வரி செலுத்தும் தளம் அல்லது இலங்கை வங்கியின் எந்த கிளையிலும் செலுத்த முடியும் எனக் குறிப்பிடப்பட்டுள்ளது.
-
-தாமதங்கள் அல்லது தவறவிட்ட கட்டணங்கள் வட்டி மற்றும் அபராதங்களுக்கு வழிவகுக்கும் எனவும் உள்நாட்டு இறைவரித் திணைக்களம் எச்சரித்துள்ளது. R
-
-◼️
-
-[Data](articles/f3fb4bf7.json)
-
----
-
-### Pakistan ‘won the war’ against India, PM Sharif tells UNGA
-
-*2025-09-27 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112953/pakistan-won-the-war-against-india-pm-sharif-tells-unga) · `en`
-
-Prime Minister Shehbaz Sharif on Friday, highlighting the human rights violations in Kashmir and Palestine and condemning terrorism, reiterated Pakistan’s commitment to peace and dialogue but vowed to resolutely defend the nation against any external aggression or India’s usurpation of water rights.
-
-The prime minister, in his 25-minute address at the 80th session of the United Nations General Assembly here, encompassed all national, regional, and international issues, including the recent Pakistan-India war, Kashmir, Palestine, terrorism, Afghanistan, ongoing floods in Pakistan and multilateralism.
-
-PM Shehbaz, who spoke for the third time to the 193-member world body, began his remarks highlighting the world’s complexities like intensifying conflicts, violation of international laws, humanitarian crises, disinformation, arms race, emerging technologies and climate change.
-
-...
-
-[Data](articles/160a40af.json)
-
----
-
-### එකම ආයතනයක සේවය කළ දෙදෙනා අතර ඇතිවූ ආරවුල මරණයකින් කෙළවර වෙයි
-
-*2025-09-27 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215057) · `si`
-
-පහරදීමක් හේතුවෙන් බරපතළ තුවාල සහිතව මුල්ලේරියාව රෝහලට ඇතුළත් කර සිටි කාන්තාවක් මියගොස් තිබේ.
-
-පොලීසිය සඳහන් කළේ ඊයේ (26) සවස් කාලයේ වැලිකඩ පොලිස් වසමේ අංගොඩ ප්‍රදේශයේදී මෙම සිද්ධිය ඇතිවී තිබෙන බවය.
-
-සිද්ධියට සම්බන්ධ සැකකරු අසල්වාසී පුද්ගලයෙකු වන අතර මියගිය කාන්තාව සහ සැකකරු එකම ආයතනයක පිරිසිදු කිරීමේ රැකියාවක් සිදුකරමින් සිට ඇත.
-
-ඇතිවූ ආරවුලක් හේතුවෙන් සැකකරු විසින් අදාළ කාන්තාවගේ නිවසේදී ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී තිබේ.
-
-සිද්ධියට සම්බන්ධ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර වැලිකඩ පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-◼️
-
-[Data](articles/915950f6.json)
-
----
-
-### Bribery Commission to file indictments against Rajitha Senaratne
-
-*2025-09-27 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112952/bribery-commission-to-file-indictments-against-rajitha-senaratne-) · `en`
-
-The Bribery Commission informed the Colombo Magistrate’s Court that indictments will be filed before the High Court against former Fisheries Minister Rajitha Senaratne and two others, over allegations that the government incurred a loss of more than Rs. 26 million by awarding the sand mining project at the Kirinda Fishery Harbour to a Korean company in violation of legal procedures.
-
-The case was taken up before Colombo Chief Magistrate Asanka S. Bodaragama yesterday (26), said Ada Derana reporter.
-
-Bribery Commission officials informed the court that indictments would be filed before the High Court following the completion of investigations into the incident.
-
-Former Fisheries Minister Rajitha Senaratne and former Chairman of the Ceylon Fishery Harbour Corporation, Upali Liyanage, have been named as defendants in the case. Both have been released on bail.
-
-◼️
-
-[Data](articles/91b2309a.json)
-
----
-
-### Fairly heavy rainfall expected in parts of the island
-
-*2025-09-27 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112951/fairly-heavy-rainfall-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department states that showers will occur at times in Western, Sabaragamuwa, North-western, and Southern provinces, and in Kandy and Nuwara Eliya districts.
-
-Fairly heavy rainfall of above 50 mm is likely at some places in Western, Sabaragamuwa, and North-western provinces, and in Galle, Matara, Kandy, and Nuwara Eliya districts.
-
-Light showers may occur in the North-central Province, and in Matale, Mannar, and Jaffna districts, the Department said.
-
-Strong winds of about 40–50 kmph can be expected at times over the western slopes of the central hills, and in Central, Northern, North-central, and North-western provinces, as well as in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds.
-
-◼️
-
-[Data](articles/6a0a4128.json)
-
----
-
-### கடலில் விழுந்த இளைஞர் உயிரிழப்பு
-
-*2025-09-27 07:03:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-விழுந்த-இளைஞர்-உயிரிழப்பு/175-365361) · `ta`
-
-யாழ். மண்டைதீவுக் கடலில் மீன்பிடிக்கச் சென்றபோது கடலில் விழுந்த இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
-
-இவ்வாறு உயிரிழந்தவர் சாவற்காடு ஆனைக்கோட்டையைச் சேர்ந்த சிவரத்தினம் சந்தோஸ் (வயது 17) என்பவராவார்.
-
-நேற்று வெள்ளிக்கிழமை (26) அதிகாலை சிறிய தந்தையுடன் மீன் பிடிக்க சென்று மண்டைதீவில் கடலில் விழுந்தத நிலையில் யாழ். போதனா வைத்தியசாலைக்கு கொண்டு சென்ற போது உயிரிழந்துள்ளார்.
-
-இம் மரணம் தொடர்பில் யாழ். மாவட்ட திடீர் மரண விசாரணை அதிகாரி ஆறுமுகம் ஜெயபாலசிங்கம் விசாரணைகளை மேற்கொண்டார். சாட்சிகளை மானிப்பாய் பொலிஸார் நெறிப்படுத்தினர்.
-
-◼️
-
-[Data](articles/5676a2e9.json)
-
----
-
-### EU gives Sri Lanka 8mn for biodiversity conservation and solid waste management
-
-*2025-09-27 07:00:00* · [`economynextcom`](https://economynext.com/eu-gives-sri-lanka-8mn-for-biodiversity-conservation-and-solid-waste-management-242013/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed an 8 million euro grant agreement with the European Union to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management, the Ministry of Finance said.
-
-The 8 million euro grant will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices.
-
-“Biodiversity is one of the most important assets of Sri Lanka, and through this project we will work together with the authorities to strengthen its protection by improving management of waste,” EU Ambassador Carmen Moreno said.
-
-The European Union contributes to these connections through its Global Gateway Strategy.
-
-...
-
-[Data](articles/07973b55.json)
-
----
-
-### රාජිතට එරෙහිව අධිචෝදනා ගොනු කරන බව දැනුම්දෙයි
-
-*2025-09-27 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215056) · `si`
-
-කිරින්ද ධීවර වරායේ වැලි ඉවත් කිරීමේ කටයුතු කොරියානු සමාගමකට පැවරීම තුළින් රජයට රුපියල් ලක්ෂ 260 කට අධික පාඩුවක් සිදු කළ බවට චෝදනා කරමින් හිටපු ධීවර අමාත්‍ය රාජිත සේනාරත්න ඇතුළු විත්තිකරුවන් දෙදෙනෙකුට එරෙහිව මහාධිකරණය හමුවේ අධිචෝදනා ගොනු කරන බව අල්ලස් කොමිසම ඊයේ (26) කොළඹ මහේස්ත්‍රාත්  අධිකරණයට දැනුම් දුනි.
-
-මෙම නඩුකරය ඊයේ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා ඉදිරියේ කැඳවා තිබුණි.
-
-එහිදී අල්ලස් කොමිසමේ නිලධාරීන් අධිකරණයට දැනුම් දුන්නේ මෙම සිද්ධියට අදාළ විමර්ශන කටයුතු අවසන් වීමෙන් පසුව මෙම සැකකරුවන්ට එරෙහිව මහාධිකරණය හමුවේ අධිචෝදනා ගොනු කිරීමට කටයුතු කරන බවය.
-
-මෙම නඩුවේ විත්තිකරුවන් ලෙස හිටපු ධීවර අමාත්‍ය රාජිත සේනාරත්න සහ ධීවර වරාය නීතිගත සංස්ථාවේ හිටපු සභාපති උපාලි ලියනගේ යන අය නම් කර තිබේ.
-
-◼️
-
-[Data](articles/be5a96a6.json)
-
----
 
 ### Tension at midnight in the Mannar struggle: many injured
 
@@ -240,50 +48,6 @@ In this case, the police attacked the people who tried to quietly prevent the ve
 [Data](articles/81a898b7.json)
 
 [Extended Data](ext_articles/81a898b7.ext.json)
-
----
-
-### අදත් ලොකු වැස්සක්
-
-*2025-09-27 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215055) · `si`
-
-බස්නාහිර, සබරගමුව, වයඹ සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (27) දිනයේ විටින්විට වැසි ඇතිවිය හැකිය.
-
-අද දිනය සඳහා කාලගුණ අනාවැකිය නිකුත් කරමින් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
-
-උතුරු-මැද පළාතේත් මාතලේ, මන්නාරම, සහ යාපනය දිස්ත්‍රික්කවලත් සිහින් වැසි ඇති විය හැකිය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් මධ්‍යම, උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින්විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇති වෙයි.
-
-තද සුළං මඟින් සිදුවිය හැකි අනතුර, අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-◼️
-
-[Data](articles/6e518eb9.json)
-
----
-
-### සුපිරි පන්දුවාරයෙන් ඉන්දියාවට ජය
-
-*2025-09-27 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215054) · `si`
-
-පැතුම් නිස්සංක හා කුසල් ජනිත්ගේ උත්සාහවන්ත ඉනිම් ද්විත්වයට වටිනාකමක් නොදුන් පසුපෙළ පිතිකරුවන්ගේ දුර්වල පිතිහරඹය හේතුවෙන් ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ ඊයේ (26) පැවති තරගයෙන් ඉන්දියාව හමුවේ තියුණු පරාජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවිය.
-
-තරගාවලියේ සුපිරි සිව්දෙනාගේ වටයේ තරග අවසන් කරමින් මෙම තරගය ඩුබායි හිදී ඊයේ (26) රාත්‍රියේ පැවැත්විණි.
-
-මෙහිදී ශ්‍රී ලංකා කණ්ඩායමේ ආරධනයෙන් පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 5ක් දැවී ලකුණු 202ක් රැස්කිරීමට සමත් විය.
-
-කෙසේ නමුත් එම ඉලක්කය ආසන්නයටම ගිය ශ්‍රී ලංකාව ද පන්දුවාර 20 තුළදී කඩුලු 5ක් දැවී ලකුණු 202ක් රැස්කළේය.
-
-එහිදී විශිෂ්ට ඉනිමක් ක්‍රීඩාකළ පැතුම් නිස්සංක සිය විස්සයි20 ක්‍රිකට් දිවියේ කුළුදුල් ශතකය රැස්කරමින් ලකුණු 107ක් රැස්කිරීමට සමත් විය.
-
-ඒ වෙනුවෙන් පන්දු 58කට පමණක් මුහුණදුන් ඔහු අලංකාර හයේ පහර 6ක් හා හතරේ පහර 7ක් එල්ල කළේය.
-
-පැතුම්ගේ මෙම ඉනිමත් සමග ශ්‍රී ලංකා ක්‍රිකට් වංශකතාවේ ටෙස්ට් ශතකයක්, එක්දින ද්විත්ව ශතකයක් හා විස්සයි20 ශතකයක් රැස්කළ පළමු පිතිකරුවා ලෙස ඔහු වාර්තා පොත් අතරට එක්විය.
-
-...
-
-[Data](articles/f4821817.json)
 
 ---
 
@@ -414,20 +178,6 @@ Subsequently, the police officers, including the officer in charge of the Akkara
 [Data](articles/4247f272.json)
 
 [Extended Data](ext_articles/4247f272.ext.json)
-
----
-
-### Cultivating circular futures: Youth as agents of change
-
-*2025-09-27 00:54:00* · [`economynextcom`](https://economynext.com/cultivating-circular-futures-youth-as-agents-of-change-241998/) · `en`
-
-On September 29, the world marks the International Day of Awareness on Food Loss and Waste, highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
-
-The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
-
-...
-
-[Data](articles/b185f16a.json)
 
 ---
 
@@ -1974,5 +1724,295 @@ It is also reported that a women security officer who operated in the Sri Lanka 
 [Data](articles/c804e790.json)
 
 [Extended Data](ext_articles/c804e790.ext.json)
+
+---
+
+### Who allowed the release of controversial containers? The government should soon reveal - Namal Rajapaksa
+
+*2025-09-26 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226172) · `ta`
+
+The government is using drugs as a weapon to cover up the recent fraud of salt, rice and containers.  Who allowed the government to continue blaming us and allowed them to release 2 containers and other 323 containers that were not tested? Parliamentarian Namal Rajapaksa has said that he should be revealed soon.
+
+Responding to a question raised by a journalist regarding the drug rescued from many parts of the Southern Provinces, Namal Rajapaksa
+
+I was present in court today for a criminal trial filed in court. It has been ruled that the case will be taken up for hearing again on the 18th. The NPP government acts just like the thief and the people like the people. The property details of many in the government have been revealed.
+
+...
+
+[Data](articles/ccff98b7.json)
+
+[Extended Data](ext_articles/ccff98b7.ext.json)
+
+---
+
+### Anil Jayantha Fernando presented the Fund Allocation Bill for the Financial Year 2026
+
+*2025-09-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226170) · `ta`
+
+The Minister of Labor and Economic Development Anil Jayantha Fernando presented the Fund Allocation Bill for the Financial Year 2026 in Parliament.
+
+When the Parliamentary Session was convened on Friday (26), the Minister presided over the Funding Allocation Bill.
+
+Accordingly, the President Anura Kumara Dissanayake has allocated Rs 443435 crore 64,68000 rupees.
+
+64800 crore has been allocated for the Ministry of Defense and Public Safety in the funds allocated for this cost.. 61744 crore 50 lakhs of rupees have been allocated for the Ministry of Defense and Public Security in 2025.
+
+A total of 111715 crore 9980000 lakhs have been allocated for the President's Ministry of Defense, Finance, Planning and Economic Development and the Ministry of Digital Economic Ministry.
+
+Meanwhile, the President's expenses have been allocated 299,29,80,000 for 2025 as the President's expenses of 2026.
+
+...
+
+[Data](articles/cbc98b7a.json)
+
+[Extended Data](ext_articles/cbc98b7a.ext.json)
+
+---
+
+### The government is practicing only those who act against the government; Mujibur Rahman
+
+*2025-09-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226171) · `ta`
+
+The government is observing the transparency that the government has promised to establish. Opposition member Mujibur Rahman said that if the government continues to act, it will not be able to prevent a people's struggle again.
+
+He said this while addressing the adjournment of the House in Parliament on Friday (26).
+
+The people were frustrated with the rulers of the past rulers of corruption. As a result, the struggle of the people in the country in 2022.
+
+It was this struggle that led to this government coming to power. So when the government came to power, he made various promises to the people. According to this, the government received the people's mandate.
+
+But when the transparency of the government, it is only possible for those who act against the government. Wherever the president goes, he is talking about the rule and transparency of the law.
+
+...
+
+[Data](articles/d1d33fbf.json)
+
+[Extended Data](ext_articles/d1d33fbf.ext.json)
+
+---
+
+### The government should be held accountable for the release of 323 containers - TV Sanaka
+
+*2025-09-26 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226169) · `ta`
+
+No inquiries have been made on the recommendations of the President -appointed Committee on the release of 323 containers from the customs. The country has been brought in non -substandard drugs and weapons. The government should be held accountable for the release of containers, said TV Sanaka of the Sri Lanka PA, Hambantota district parliamentarian.
+
+He was speaking at the adjournment debate on the Cobb Committee Report held in Parliament on Friday (26).
+
+We will take appropriate legal action against the members of the Sri Lanka Peoples Alliance (PA). So I request the 159 members of the ruling party to make allegations in Parliament and not make allegations.
+
+The COPE Committee is referring to airports, ports and state agencies.. Who noted that the Colombo Port Development Project would be able to transform the Sigiriya cliff. The country has lost billions of dollars due to the struggle of the Janatha Vimukthi Peramuna.
+
+...
+
+[Data](articles/d2c7c41e.json)
+
+[Extended Data](ext_articles/d2c7c41e.ext.json)
+
+---
+
+### Opposition Leader on the Procurement of Profile
+
+*2025-09-26 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226166) · `ta`
+
+Opposition Leader Sajith Premadasa has lodged a complaint with Jamuni Kamal Dushara on Thursday, saying that he did not submit information on his assets and responsibilities.. The United People's Power said the allegation put forward by him was completely unfounded.
+
+The Leader of the Opposition has issued a statement issued by a report. The report further stated:
+
+We have already revealed to the media that the letter was received by the Secretary General of Parliament Kushani Rohanadeera on 23.04.2012, with the signature of Parliamentary Secretary General Kushani Rohanadeera, who claimed that information on the assets and responsibilities of Opposition Sajith Premadasa was received by the Secretariat.
+
+...
+
+[Data](articles/0ed3d835.json)
+
+[Extended Data](ext_articles/0ed3d835.ext.json)
+
+---
+
+### Landslide warnings in several areas extended
+
+*2025-09-26 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215044) · `si`
+
+The National Building and Research Organization has taken steps to extend the landslide basement of landslides which were burnting to several Divisional Secretariats across the country, considering the existing rainfall.
+
+According to the organization, action will be taken to extend the warnings today (26).
+
+Accordingly, the Matara District, Kalawana, Kalawana, Kalawana, Kalawana, Nuwara Eliya, Kalawana, Nuwara Eliya, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Gampaha District, has been issued.
+
+Also, in the Colombo District, Baddemulla, Baddemulla, Gampaha, Elpitiya, Kalutara District, Kandy District, Alawwa, Gampaha District District District District Divisional Secretariat Division District Secretariat Divisional Secretariat Divisions A warning announcement has been issued.
+
+In addition, continuous rainfalls in the island are raining in the island and the National Building and Research Organization (NBRO) have informed the public.
+
+◼️
+
+[Data](articles/b9aaf2b8.json)
+
+[Extended Data](ext_articles/b9aaf2b8.ext.json)
+
+---
+
+### Latest visions of the horrific accident
+
+*2025-09-26 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215043) · `si`
+
+A lorry, van and three-wheeler collided in the Bandaragama-Kalutara road.
+
+Among the injured were ten members of a dance and a mother and a harm, Bandaragama Police.
+
+A total of 7 injured are treated at the Bandaragama District and five others have been referred to the Panadura Base Hospital.
+
+The lorry was drawn to the pathway from the Keravitah, to Bandaragama and the lorry driver brake was tightened by the lorry behind the lorry.
+
+Residents of the area have been attacked by the lorry driver.
+
+The victim was to attend a procession from the Pothupitiya, Pothupitiya, police said.
+
+Police investigations have revealed that the mother and daughter was traveling back to the house in the three-wheeler.
+
+With the accident, Bandaragama Kalutara road was congested.
+
+◼️
+
+[Data](articles/f2e7c102.json)
+
+[Extended Data](ext_articles/f2e7c102.ext.json)
+
+---
+
+### Budget Appropriation Bill to commit
+
+*2025-09-26 17:06:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අයවය-වසරජන-පනත-කටමපත-මතසබයට/101-680286) · `si`
+
+The Appropriation Bill for next year (2026) is presented by Prof. Anil Jayantha Fernando today (26).
+
+The gazette notification for the Appropriation Bill was released on September 18.
+
+Accordingly, the total expenditure in the next year is Rs.
+
+The draft has spent Rs. 63400 million.
+
+Rs. 61800 million and Rs. 59600 million for the Ministry of Local Government
+
+President's budget is presented on November 7. The second reading debate will be held on November 8 and will be held on November 8 (six days).
+
+Budget Committee Stage Debate commences on November 15 and will be held on November 15 (17 days) until December 5. The second reading of the budget will be held on December 5 afternoon
+
+◼️
+
+[Data](articles/2191efcc.json)
+
+[Extended Data](ext_articles/2191efcc.ext.json)
+
+---
+
+### Budget Appropriation Bill to commit
+
+*2025-09-26 17:06:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අයවය-වසරජන-පනත-කටමපත-මතසබයට/1-680286) · `si`
+
+The Appropriation Bill for next year (2026) is presented by Prof. Anil Jayantha Fernando today (26).
+
+The gazette notification for the Appropriation Bill was released on September 18.
+
+Accordingly, the total expenditure in the next year is Rs.
+
+The draft has spent Rs. 63400 million.
+
+Rs. 61800 million and Rs. 59600 million for the Ministry of Local Government
+
+President's budget is presented on November 7. The second reading debate will be held on November 8 and will be held on November 8 (six days).
+
+Budget Committee Stage Debate commences on November 15 and will be held on November 15 (17 days) until December 5. The second reading of the budget will be held on December 5 afternoon
+
+◼️
+
+[Data](articles/e5f39c85.json)
+
+[Extended Data](ext_articles/e5f39c85.ext.json)
+
+---
+
+### The only meals are: but the chickpeg
+
+*2025-09-26 16:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலைதழைகள்-மட்டும்-தான்-சாப்பாடு-ஆனால்-சிக்ஸ்பேக்/175-365339) · `ta`
+
+We are living a busy life without time to eat a lot of people today. In particular, people who go to work in the IT sectors are suffering from various health problems, such as obesity and blood pressure, as they eat too much of junk foods at night.. The only advice that doctors give to them is to take the right foods in a timely manner.
+
+Can you believe if one survives for many years by drinking only the water in the natural streams, climbing the trees and mountains in the trees and the mountains? Yes, a young man from Karnataka is surprised by the Six Pack and Fitness of the Six Pack and Fitness.
+
+Who is this young man? How is his lifestyle? The ETV Bharat group went to find him to find out.
+
+Buddha Mallik Hosamani hails from Ugarakola in the Sawadatti taluk of Belagavi district, Karnataka. 60 kg weight, 5.9 feet high. The 34 -year -old is a yoga coach. He lives a hut on a mountain called Sithankolla, a short distance from his village. Hosamani shared with us about her lifestyle.
+
+...
+
+[Data](articles/775ce23b.json)
+
+[Extended Data](ext_articles/775ce23b.ext.json)
+
+---
+
+### Former FBI director James Comey indicted on two charges
+
+*2025-09-26 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112946/former-fbi-director-james-comey-indicted-on-two-charges) · `en`
+
+A federal grand jury in the US state of Virginia has formally charged former FBI Director James Comey with two offences related to testimony he gave to Congress.
+
+Mr Comey, who has long drawn US President Donald Trump’s criticism, is accused of lying to a Senate committee in 2020 about whether he authorised a leak of classified information to the media.
+
+Responding to the indictment, Mr Comey declared himself innocent and said he had “great confidence in the federal judicial system”.
+
+The indictment comes days after Trump called on the country’s top law enforcement official to more aggressively investigate his political adversaries, including Mr Comey.
+
+An indictment in the US justice system is a formal accusation issued by a grand jury after they review evidence to determine if a case should proceed.
+
+...
+
+[Data](articles/80bff09e.json)
+
+[Extended Data](ext_articles/80bff09e.ext.json)
+
+---
+
+### Sri Lanka stocks close up, driven by capital goods
+
+*2025-09-26 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-capital-goods-241975/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) continued to climb, ending 0.36 percent higher on Friday, data on its site showed.
+
+The ASPI climbed 77.93 points, to end at 21,598.99; while the S&P SL20 closed 0.15 percent, or 8.99 points higher, at 6,111.57.
+
+Investor interest moved to telecommunication, capital goods and food, beverage and tobacco sector shares.
+
+Top contributors to the ASPI were Dialog Axiata (up 0.80 rupees at 26.80), Hemas Holdings (up 0.80 rupees at 32.90), Ceylon Grain Elevators (up 26.25 rupees at 374.00), Sunshine Holdings (up 1.10 rupees at 31.20) and Kelani Cables (up 141.75 rupees at 1,153.75).
+
+Market turnover was 6 billion rupees, while the share volume was 148,061,192.
+
+US president Donald Trump’s newly imposed 100 percent tariff on brands and patented pharmaceutical products has dragged down the Asian equity markets, Reuters said.
+
+...
+
+[Data](articles/0e70bb90.json)
+
+[Extended Data](ext_articles/0e70bb90.ext.json)
+
+---
+
+### Christians
+
+*2025-09-26 16:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிறிஸ்தவர்கள்-நெற்றியில்-குங்குமம்-பூசிய-விவகாரம்/175-365338) · `ta`
+
+A case has been registered against those who have taken some of the Christian campaign to the temple, saffron on the forehead and apologized to God.
+
+Police have registered a case against three people, including Nayanar Nagendran's assistant, on a complaint that the people who went to prayers were made of saffron.
+
+More than 30 people from the Alangulam area of ​​the Tenkasi district have visited the villages of Keelakkalur and Nadukkallur in the Nellai district on the 22nd.. They are said to have been involved in religious propaganda. Subsequently, they were reportedly led by Hindu Front District Secretary Manikandan Mahadevan and Angraj of the BJP.
+
+Later, they seem to have been involved in the argument that the Hindus had entered the areas where most of the lives were in place.. Also, allegations were made that some of the crews who had come to campaign were taken to a nearby temple, coated on the forehead and forced God to apologize to God.. The incident caused a stir.
+
+...
+
+[Data](articles/dfe41d65.json)
+
+[Extended Data](ext_articles/dfe41d65.ext.json)
 
 ---

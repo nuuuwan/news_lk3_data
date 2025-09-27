@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 11:06:38**
+As of **2025-09-27 11:57:01**
 
 ## Newspaper Stats
 
-*Scraped **78,844** Articles*
+*Scraped **78,861** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 310
+lankadeepalk | 311
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -18,20 +18,112 @@ dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,622
-adaderanalk | 10,193
-tamilmirrorlk | 11,824
-virakesarilk | 12,791
-adaderanasinhalalk | 13,699
+adaderanalk | 10,194
+tamilmirrorlk | 11,825
+virakesarilk | 12,804
+adaderanasinhalalk | 13,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,841 (100.0%) of 78,844 articles have been extended.
+78,860 (100.0%) of 78,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Surkumar, who spoke of the Pallgam attack, worries
+
+*2025-09-27 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215063) · `si`
+
+The ICC fined the Indian leader Surkumar Yadav against the 'Palgam' attack on the 'Pakistan' attack on the Base Round of the Asia Cup.
+
+It is said that a fined 30% fined by his competition fee.
+
+The match was held on the 14th of this month and the match beat Pakistan by 7 wickets.
+
+The Indian leader said that the victory was dedicated to the Indian armed forces.
+
+The 'Palgam' was disaster and the washed with their families.
+
+However, Pakistan has complained to the ICC against that statement.
+
+The final decision has been taken after the formal investigation of the ICC Rithard Richardson.
+
+However, it is said that India has appealed to the ICC verdict.
+
+At the bottom of the South Kashmir, 26 people were killed by a shooting group of South Kashmir, a popular tourist area of ​​India.
+
+However, India alleges that Pakistan is behind the attack.
+
+As a result, several shots were carried out between the two countries, and in the last over, the final was silent.
+
+◼️
+
+[Data](articles/0a319b0f.json)
+
+[Extended Data](ext_articles/0a319b0f.ext.json)
+
+---
+
+### President participates in the United Nations Declaration Agreement (BBNJ)
+
+*2025-09-27 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226223) · `ta`
+
+The event organized by the Government of France on September 25, with the participation of other countries in the United Nations, including the President of the French government, on September 25, in view of the merger of the United Nations Declaration of Oceanism on the Protection and Sustainability of the Security of the Security and Sustainability of the Ocean Biology of the Ocean Biology of the National Limit. President Anura Kumara Dissanayake represented Sri Lanka.
+
+Sri Lanka joined the agreement on September 16, 2025, the 58th member of the agreement, and thereby became the country of the agreement.
+
+After two decades of negotiations, the agreement, known as the Ocean Biology Agreement (BBNJ), has now signed 60 countries, which led to the implementation of the agreement.
+
+...
+
+[Data](articles/84500942.json)
+
+[Extended Data](ext_articles/84500942.ext.json)
+
+---
+
+### President attends ceremony celebrating 60th accession to BBNJ Agreement
+
+*2025-09-27 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/112957/president-attends-ceremony-celebrating-60th-accession-to-bbnj-agreement) · `en`
+
+A ceremony organised by the Government of France to mark the accession of 60 countries to the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (BBNJ Agreement) was held in New York on the 25th, with the participation of French President Emmanuel Macron and other world leaders.
+
+Representing Sri Lanka, a State Party to the Agreement, President Anura Kumara Dissanayake also attended the event, according to the President’s Media Division (PMD).
+
+Sri Lanka became the 58th State Party to the Agreement on 16 September 2025, thereby formally acceding to the Convention.
+
+Following two decades of negotiations, the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (commonly referred to as the BBNJ Agreement) has now been signed by 60 countries, enabling its entry into force, the PMD said.
+
+...
+
+[Data](articles/eafd5ea4.json)
+
+---
+
+### 100% Tax on Indian Drugs: Donald Trump
+
+*2025-09-27 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226221) · `ta`
+
+US President Donald Trump has announced that the 100 per cent tax will be levied from October 1 for pharmaceutical products imported from overseas, including India.
+
+With 50 per cent tax on Indian goods, 100 per cent tax on drugs is seen as the next attack of the US president.
+
+Donald Trump took over as US President last January. Since he took office, he has been announcing the import tax on various countries. He also announced additional tax on goods imported from various countries, including India and China.
+
+Trump first imposed a 25 per cent tax on Indian goods and announced that he should stop buying crude oil from Russia. Since India did not accept it, he imposed an additional 25 per cent tax on India. Thus, 50 per cent tax on imported Indian goods is taxed in the United States. This has resulted in a rift in the relationship between India and the US.
+
+Meanwhile, Union Trade and Industry Minister Push Goyal has gone to the US to negotiate with the US government on trade.
+
+...
+
+[Data](articles/d3016b95.json)
+
+[Extended Data](ext_articles/d3016b95.ext.json)
+
+---
 
 ### President meets Anura and French president
 
@@ -59,6 +151,138 @@ This agreement covers 2/3 oceans in the world, action will be taken to protect o
 
 ---
 
+### The US is to cancel Colombian President Gustao Petro's visa
+
+*2025-09-27 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226217) · `ta`
+
+International media reports that the US is to cancel Colombian President Gustavo Petro's visa for actions in New York City.
+
+Outside the United Nations headquarters in New York, the Colombian president has joined the Colombian president with many Palestinian protesters.
+
+No details of Colombian President Petro's crime in the records are not known.
+
+However, the widespread scenes on social media were seen yesterday (26) with the Colombian president's affiliated with the protesters outside the United Nations headquarters in New York.
+
+The US Foreign Ministry has announced that Colombian President Gustavo has canceled his visa, due to the reckless and fire of Colombian President Gustao Petro.
+
+Colombian President Gustavo has urged US demonstrators to incite violence violence in Petro New York City, according to the US Foreign Ministry in its official X.
+
+...
+
+[Data](articles/5c0961b3.json)
+
+[Extended Data](ext_articles/5c0961b3.ext.json)
+
+---
+
+### Motorcycle accident
+
+*2025-09-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226213) · `ta`
+
+One person was killed in a motorcycle accident that took place on Friday evening (26) evening in the Molkawa -Pulathsingha road, belonging to the Pulathsingha police division in Kalutara.
+
+The accident occurred when a motorcycle traveling towards Molkhava collided with a motorcycle from the opposite direction.
+
+One of the motorcycle drivers died without treatment, after two motorcycle drivers were seriously injured in the accident and were admitted to the Horana Hospital for further treatment.
+
+The other motorcycle driver has been transferred to the Colombo National Hospital for further treatment.
+
+Investigations have revealed that the victim was a 26 -year -old from Pulathsingha, Pattuwila.
+
+◼️
+
+[Data](articles/57c21b01.json)
+
+[Extended Data](ext_articles/57c21b01.ext.json)
+
+---
+
+### Van
+
+*2025-09-27 10:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-விபத்துக்குள்ளான-வேன்/175-365363) · `ta`
+
+A van in the first pillar of the Mahiyanganaya - Grathurukkottai main road has crashed into a tree and crashed into a tree.
+
+Eleven people who were traveling in the van were injured and admitted to the Mahiyanganaya Hospital and Badulla Hospital. R
+
+◼️
+
+[Data](articles/183a8030.json)
+
+[Extended Data](ext_articles/183a8030.ext.json)
+
+---
+
+### Woman brutally murdered in the opposite house
+
+*2025-09-27 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226212) · `ta`
+
+Welikada police said that a woman has been brutally assaulted and murdered in the Angodai area of ​​the Welikada Police Division.
+
+Investigations have revealed that the murderer is 65 years old from Angoda, Akkonna.
+
+Police said the murder was caused by a dispute between a woman and a man in the opposite house.
+
+The woman who was attacked was admitted to the Mulleria Hospital and died without treatment, police said.
+
+Investigations have revealed that the man who lives in the opposite house and the murdered woman are working as an employee in the same company.
+
+Subsequently, the suspect who lives in the opposite house has been arrested and the Welikada police are conducting further investigations.
+
+◼️
+
+[Data](articles/ce4ad6d6.json)
+
+[Extended Data](ext_articles/ce4ad6d6.ext.json)
+
+---
+
+### A van crashed into a pilgrimage 11 people injured
+
+*2025-09-27 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226220) · `ta`
+
+The van carrying pilgrims in the Badulla - Mahiyanganaya and Grathurugottawa area collided with a tree and was injured when 11 people were injured and admitted to Mahiyanganaya hospital, police said.
+
+Five men, six women and a 10 -year -old boy from Badulla and Kailagoda were injured in the accident.
+
+While returning to Badulla after leaving the pilgrimage to Anuradhapura, police said that the van driver was sleeping and crashed into a large tree.
+
+Police have carried out work to rescue the injured and take them to the Mahiyanganaya hospital.
+
+Police say the van has been severely damaged in the accident and the condition of many of the injured is worrisome.
+
+◼️
+
+[Data](articles/477ed7a0.json)
+
+[Extended Data](ext_articles/477ed7a0.ext.json)
+
+---
+
+### Israeli attack across Gaza: 60 Palestinians killed in one day
+
+*2025-09-27 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226219) · `ta`
+
+According to international media reports, about 60 Palestinians were killed in Israel's attacks across Gaza on Friday (26).
+
+Israel has intensified its attacks since the launch of ground operations on September 16.
+
+The attacks were carried out on Friday, including Al-Wahda Street, Shadi Camp and Nasser's neighborhood.
+
+Officials of the country say that the situation is getting worse as Israeli attacks are targeting different sites and locations.
+
+In the midst of an increased bomb attack, it is said that "an air strike for every eight or nine minutes."
+
+Palestinian medical sources have confirmed that many people were killed on Friday when they tried to help from the controversial Israeli and the US -backed sites with the deaths of Israeli attacks.
+
+◼️
+
+[Data](articles/b57f4e70.json)
+
+[Extended Data](ext_articles/b57f4e70.ext.json)
+
+---
+
 ### Government boss redirected Japanese investors
 
 *2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/1-680303) · `si`
@@ -78,6 +302,28 @@ Sanara Araya said that he was very embarrassed and the number of Japanese invest
 [Data](articles/d0c03bce.json)
 
 [Extended Data](ext_articles/d0c03bce.ext.json)
+
+---
+
+### Increase in the nuisance of wild elephants in Samanthurai; The area demanded immediate action
+
+*2025-09-27 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226218) · `ta`
+
+The atrocities of wild elephants in Samanthurai area are increasing day by day and the people have said that people are afraid to protect their lives and property.
+
+A wild elephant has damaged home walls, shop, banana and coconut trees in the early hours of Saturday morning (27).
+
+As a result, people living in Samanthurai area in the Ampara district are afraid of wild elephants at night.
+
+In this regard, there have been incidents of wild elephants in the past few days, including the village of Samanthurai, Sennel village 01 and the village of Sennel Village.
+
+Also, the wild elephants are walking every night, and they are afraid to go out at night because they are damaging the people of the area, the beneficiaries and the beneficiaries.
+
+...
+
+[Data](articles/27919bf6.json)
+
+[Extended Data](ext_articles/27919bf6.ext.json)
 
 ---
 
@@ -102,6 +348,26 @@ These include silence members in Parliament and the political stage, not to seek
 [Data](articles/6e09a3d5.json)
 
 [Extended Data](ext_articles/6e09a3d5.ext.json)
+
+---
+
+### Capture guns and ammunition near the Peliyagoda fish market!
+
+*2025-09-27 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226211) · `ta`
+
+The Western Province Northern Police Crime Prevention Unit has been seized by the Western Province.
+
+The guns and ammunition have been seized from the area behind the police station near the Peliyagoda fish market.
+
+The Western Province Northern Police Crime Prevention Unit said that the items received from him have been seized after investigating the head of the underworld gang of underworld gang.
+
+According to the Western Province Northern Police Crime Unit, small guns and ammunition made abroad, revolver rifles made abroad, 3 T-56 ammunition, 52 T-56 living ammunition, self-operated guns and military uniforms have been seized.
+
+◼️
+
+[Data](articles/26a0c81d.json)
+
+[Extended Data](ext_articles/26a0c81d.ext.json)
 
 ---
 
@@ -209,6 +475,8 @@ Six of the injured are currently receiving treatment at the Badulla Hospital, wh
 
 [Data](articles/e0849beb.json)
 
+[Extended Data](ext_articles/e0849beb.ext.json)
+
 ---
 
 ### A van that a van carrying a pilgrimage is a terrible accident
@@ -246,6 +514,8 @@ They allege that a question paper of the examination had been leaked, while the 
 ...
 
 [Data](articles/8f94273d.json)
+
+[Extended Data](ext_articles/8f94273d.ext.json)
 
 ---
 
@@ -288,6 +558,8 @@ During the visit, President Dissanayake will have an audience with His Majesty t
 ...
 
 [Data](articles/1a06eec4.json)
+
+[Extended Data](ext_articles/1a06eec4.ext.json)
 
 ---
 
@@ -497,6 +769,32 @@ In this case, the police attacked the people who tried to quietly prevent the ve
 
 ---
 
+### The weather today
+
+*2025-09-27 06:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226210) · `ta`
+
+The Department of Meteorology has said that frequent rainfall is expected in Sabaragamuwa, Upper, North Western and Southern Provinces, Kandy and Nuwara Eliya districts.
+
+Heavy rains are expected to occur in some parts of the Sabaragamuwa, Western and North Western Provinces, as well as some areas of Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Heavy rains are expected in the North Central Province as well as in Matale, Mannar and Jaffna districts.
+
+Strong winds can be frequent at speeds of 40 - 50 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
+
+The public is asked to avoid damage to the cause of strong winds. ‌ ‌ ‌
+
+Rainfall is expected in many parts of the sea regions from Puttalam to Colombo and Hambantota.
+
+Winds from the southwest at 30 to 40 kilometers per hour in the sea regions.
+
+...
+
+[Data](articles/a74bd7b9.json)
+
+[Extended Data](ext_articles/a74bd7b9.ext.json)
+
+---
+
 ### A big rain today
 
 *2025-09-27 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215055) · `si`
@@ -516,6 +814,32 @@ The people requested the public to take measures to reduce the danger of strong 
 [Data](articles/6e518eb9.json)
 
 [Extended Data](ext_articles/6e518eb9.ext.json)
+
+---
+
+### Police attacked people and blessings:
+
+*2025-09-27 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226209) · `ta`
+
+With the protection of hundreds of policemen despite the opposition of the people, the supplies of the riot police have come to Mannar Nagar in massive vehicles from Friday (26) to the early hours of this morning.
+
+Hundreds of people and the blessings of one of the people gathered together and staged a protest at the Mannar entrance.
+
+The riot burial is being carried with the protection of the police.. This has caused tension in the Mannar city area.
+
+Many women were injured in the attack by police in Mannar yesterday (26).
+
+In Mannar, the people are continuing to fight against the wind power project in Mannar.
+
+In this case, many people have been taken to hospital with a brutal attack on people who tried to quietly prevent the vehicles carrying windmills.
+
+The President said last month that he would not implement any plans against the wishes of the people and set up a group of people's views and provide a good solution.
+
+...
+
+[Data](articles/256ff690.json)
+
+[Extended Data](ext_articles/256ff690.ext.json)
 
 ---
 
@@ -1736,243 +2060,5 @@ It is a key to population to popularize the video, using artificial intelligence
 [Data](articles/fd4f85fa.json)
 
 [Extended Data](ext_articles/fd4f85fa.ext.json)
-
----
-
-### Yarl Dreamin’ fuels innovation in Sri Lanka’s growing salesforce trailblazer community
-
-*2025-09-26 19:22:00* · [`islandlk`](http://island.lk/yarl-dreamin-fuels-innovation-in-sri-lankas-growing-salesforce-trailblazer-community/) · `en`
-
-Yarl Dreamin’ is Sri Lanka’s premier community-driven Salesforce conference, hosted annually by the Yarl Salesforce Ohana in Jaffna. Launched in 2023 as the island’s first community-led Salesforce event, it has grown into a platform uniting beginners, professionals, and industry leaders through hands-on workshops, expert sessions, and networking. This year’s conference drew over 350 learners and professionals from the Salesforce ecosystem in Sri Lanka.
-
-The event created a platform to showcase the growing Sri Lankan Trailblazer Community, offering insights into the Salesforce AI-platform – Agentforce, and the opportunities digital transformation brings for businesses and professionals. Together with the Workforce Development Partners in Sri Lanka – Yarl Salesforce Ohana and Code Terriers, the community aims to skill around 1,000 learners over the coming year through structured training, mentorship, and local cohorts.
-
-...
-
-[Data](articles/ec16d750.json)
-
-[Extended Data](ext_articles/ec16d750.ext.json)
-
----
-
-### Modern Laboratory for Medicine, Ayurveda, Food and cosmetics- Minister Nalinda Jayatissa
-
-*2025-09-26 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226192) · `ta`
-
-Minister of Health and Media Nalinda Jayatissa said that discussions are underway on the construction of a laboratory with sophisticated facilities that can be conducted on drugs, Ayurveda, food and cosmetics.
-
-Minister of Health and Media Media Nalinda Jayadissa made the issue when he was the chief guest at the "World Pharmacist Day - 2025" commemoration organized by the Government Pharmacists Association on Thursday (25) at the Medical Faculty Auditorium in Colombo.
-
-The World Pharmacists Association and the World Health Organization have declared September 25 as World Pharmacist Day, and the World Pharmacists Association with pharmaceutical lecturers and pharmaceutical lecturers have nearly 4 million members in 158 countries around the world.. Celebrated with the theme of the World Pharmacist Day, "Think as a healthy pharmacist".
-
-There are about 4,500 pharmacists in the country and there is a severe shortage of pharmacists.
-
-...
-
-[Data](articles/5dd150e3.json)
-
-[Extended Data](ext_articles/5dd150e3.ext.json)
-
----
-
-### AIA Exclusive reaches 200+ customer milestone in further elevating standards in personalised finance
-
-*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/aia-exclusive-reaches-200-customer-milestone-in-further-elevating-standards-in-personalised-finance/) · `en`
-
-AIA Sri Lanka is proud to announce a significant milestone in its journey toward delivering exceptional, customer-centric financial services. The company has successfully onboarded 200+ customers into its flagship AIA Exclusive programme, reaffirming its commitment to providing premium, personalised insurance and investment solutions tailored to the evolving needs of today’s discerning clientele.
-
-...
-
-[Data](articles/00f86aca.json)
-
-[Extended Data](ext_articles/00f86aca.ext.json)
-
----
-
-### Most awaited SLIM Effie 2025 Awards launches – celebrating marketing effectiveness with global prestige
-
-*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/most-awaited-slim-effie-2025-awards-launches-celebrating-marketing-effectiveness-with-global-prestige/) · `en`
-
-The Sri Lanka Institute of Marketing (SLIM) has officially announced the launch of Effie Awards 2025, the world’s most respected accolade in marketing effectiveness, now hosted in Sri Lanka under the stewardship of SLIM for the 18th consecutive year.
-
-Globally recognized as the gold standard for marketing achievement, Effie Awards shine a spotlight on ideas that work, campaigns that marry creativity with measurable business impact. In Sri Lanka, the Effie Awards have become a defining stage where the country’s brightest marketers showcase their effectiveness stories to the world.
-
-“Effie Awards are not just about winning trophies, they are about proving the power of marketing to transform businesses, industries, and society at large. As SLIM, we are proud to champion this global benchmark locally, giving our marketers the recognition they deserve on the world stage,” said Prof. Dewasiri N. Jayantha, President of SLIM.
-
-...
-
-[Data](articles/8dce9e8a.json)
-
-[Extended Data](ext_articles/8dce9e8a.ext.json)
-
----
-
-### CSE marks 40th anniversary with 4,000 tree reforestation initiative
-
-*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/cse-marks-40th-anniversary-with-4000-tree-reforestation-initiative/) · `en`
-
-In celebration of its 40th anniversary, the Colombo Stock Exchange (CSE) signed a Memorandum of Understanding (MOU) to launch a landmark CSR initiative in collaboration with the non-profit environmental organization, ‘Rainforest Protectors of Sri Lanka’. Themed “Let’s Celebrate 40 Years with 4,000 Trees,” the project aims to reforest four acres of land in Rajawaka, contributing to long-term forest restoration and environmental sustainability.
-
-Through this partnership, the CSE contributes to the ongoing reforestation effort under the WANAROPA program, which is aligned with the global ‘Bonn Challenge’ target of restoring 200,000 hectares of degraded forest land in Sri Lanka. The site is located in the Rajawaka area, on the border of the wet and intermediate zones, a region that hosts diverse landscapes and rich biodiversity, including elephants, leopards, natural bee colonies, and other unique ecosystems.
-
-...
-
-[Data](articles/ee72d1e3.json)
-
-[Extended Data](ext_articles/ee72d1e3.ext.json)
-
----
-
-### Bourse’s robustness boosted by LB Finance’s acquisition of 55.6% stake in Associated Motorways
-
-*2025-09-26 19:18:00* · [`islandlk`](http://island.lk/bourses-robustness-boosted-by-lb-finances-acquisition-of-55-6-stake-in-associated-motorways/) · `en`
-
-Stock market activities continued with their positive proclivities yesterday and a transaction of note was the acquisition of a 55.6 percent stake in Association Motorways Pvt. Ltd by LB Finance. Under this acquisition, LB Finance invested Rs 3.7 billion to purchase 74.3 million shares at a share price of Rs 50. This enabled to increase the business portfolio to a great extent of LB Finance, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 77.93 points, while the S and P SL20 rose by 10.95 points. Turnover stood at Rs 6 billion with nine crossings.
-
-...
-
-[Data](articles/1a910626.json)
-
-[Extended Data](ext_articles/1a910626.ext.json)
-
----
-
-### Disposal issue: Explanation for students
-
-*2025-09-26 19:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதை-விவகாரம்-மாணவர்களுக்கு-விளக்கமறியல்/175-365341) · `ta`
-
-The Kiliyapitiya Magistrate's Court has ordered the remand of four students who allegedly shared a junior student at Vayamba University on September 29.
-
-It is noteworthy that four students studying at the same university were arrested on charges of sharing a junior student at Vayamba University. Remble
-
-◼️
-
-[Data](articles/0c6249d1.json)
-
-[Extended Data](ext_articles/0c6249d1.ext.json)
-
----
-
-### Discussion of the dress: Explanation for students
-
-*2025-09-26 19:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையை-கழற்றி-பகிடிவதை-மாணவர்களுக்கு-விளக்கமறியல்/175-365341) · `ta`
-
-A newly admitted to the Northwest University in Kiliyapitiya was arrested by the Kiliyapitiya police for allegedly causing serious injuries to a racking.
-
-All four students were produced before the Kuliyapitiya Magistrate Mikil Sirandana Hathurusinghe and placed in interrogation until September 29.
-
-They belong to Hettipola, Kattupola, emerald and Ukuwela areas. The victim was injured and admitted to the Kuliyapitiya Teaching Hospital, police said.
-
-They said the suspects took the victim to a secret place and tried to unravel his clothes and that he was attacked when he protested.
-
-The police went to the identification parade, but the lawyers appearing for the suspects said that they were the same university students and that they were familiar with each other and did not need a march.
-
-However, the magistrate allowed the lawyers' request and ordered the prison authorities to present the suspects on the next date of the case.
-
-◼️
-
-[Data](articles/801ebbdf.json)
-
-[Extended Data](ext_articles/801ebbdf.ext.json)
-
----
-
-### 12 injured in collision involving lorry, van and three-wheeler
-
-*2025-09-26 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112948/12-injured-in-collision-involving-lorry-van-and-three-wheeler) · `en`
-
-Twelve people were injured following a traffic collision involving a lorry, a van and a three-wheeler collided in the Wewita area on the Bandaragama-Kalutara road.
-
-Bandaragama Police said that ten members of a traditional dancing group and a mother and daughter from the same family are among the injured.
-
-A spokesperson for the Bandaragama District Hospital said that seven of the injured are receiving treatment at the Bandaragama District Hospital and five have been referred to the Panadura Base Hospital for further treatment.
-
-The incident had occurred when the lorry was approaching Bandaragama from Moranthuduwa, and a three-wheeler coming from the opposite direction crossed the road and hit the lorry, causing it to overturn. The lorry driver had applied the brakes and the van arriving from behind had rear-ended the lorry, causing the accident.
-
-Police also stated that the lorry driver had been attacked by residents of the area following the accident.
-
-...
-
-[Data](articles/11dfcf60.json)
-
-[Extended Data](ext_articles/11dfcf60.ext.json)
-
----
-
-### Sri Lanka to Launch New Support System for Families of the Disappeared
-
-*2025-09-26 18:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-launch-new-support-system-for-families-of-the-disappeared) · `en`
-
-...
-
-[Data](articles/999d70cd.json)
-
-[Extended Data](ext_articles/999d70cd.ext.json)
-
----
-
-### Vajira pays the last respects to the monks of Naa Uyana
-
-*2025-09-26 18:40:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයන-ආරණයය-හමවරනට-වජර-අවසන-ගරව-දකවය/1-680291) · `si`
-
-The bhikkus to be held in the last afternoon by the UNP Chairman of the United National Party (UNP) at evening today (26) resulted in the last evening.
-
-Former President Ranil Wickremesinghe, who was told by Wajira Abeywardena, who met the Naussa Senanayake, Mian Uyana.
-
-Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
-
-◼️
-
-[Data](articles/1f7040c2.json)
-
-[Extended Data](ext_articles/1f7040c2.ext.json)
-
----
-
-### Vajira pays the last respects to the monks of Naa Uyana
-
-*2025-09-26 18:40:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-ආරණයය-හමවරනට-වජර-අවසන-ගරව-දකවය/101-680291) · `si`
-
-The bhikkus to be held in the last afternoon by the UNP Chairman of the United National Party (UNP) at evening today (26) resulted in the last evening.
-
-Former President Ranil Wickremesinghe, who was told by Wajira Abeywardena, who met the Naussa Senanayake, Mian Uyana.
-
-Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
-
-◼️
-
-[Data](articles/f63e1ceb.json)
-
-[Extended Data](ext_articles/f63e1ceb.ext.json)
-
----
-
-### Catholic conferences of the Nawanean accident
-
-*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/1-680290) · `si`
-
-The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
-
-◼️
-
-[Data](articles/7948a903.json)
-
-[Extended Data](ext_articles/7948a903.ext.json)
-
----
-
-### Catholic conferences of the Nawanean accident
-
-*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/101-680290) · `si`
-
-The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
-
-◼️
-
-[Data](articles/f38f594e.json)
-
-[Extended Data](ext_articles/f38f594e.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 12:37:11**
+As of **2025-09-27 13:05:48**
 
 ## Newspaper Stats
 
-*Scraped **78,871** Articles*
+*Scraped **78,880** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 316
+lankadeepalk | 322
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -20,32 +20,52 @@ dailyftlk | 5,565
 adalk | 7,623
 adaderanalk | 10,195
 tamilmirrorlk | 11,826
-virakesarilk | 12,804
+virakesarilk | 12,807
 adaderanasinhalalk | 13,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,868 (100.0%) of 78,871 articles have been extended.
+78,871 (100.0%) of 78,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### பிரான்ஸ் ஜனாதிபதியை சந்தித்தார் அநுர
+### அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் - ஜனாதிபதி அநுரகுமார இடையில் சந்திப்பு!
+
+*2025-09-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226231) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் மற்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இடையில் சந்திப்பொன்று இடம்பெற்றுள்ளது.
+
+இந்த சந்திப்பு அமெரிக்காவின் நியூயோர்க் நகரத்தில் உள்ள Lotte New York Palace ஹோட்டலில் கடந்த 23 ஆம் திகதி இடம்பெற்றுள்ளது.
+
+ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்து கொள்ள நியூயோர்க் நகரத்திற்கு வருகை தந்திருந்த அரச தலைவர்களுக்காக அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப், ஏற்பாடு செய்திருந்த இரவு விருந்தின் போதே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+இதன்போது, ஜனாதிபதி டொனால்ட் ட்ரம்ப் மற்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இடையில் சிநேகபூர்வ உரையாடல் ஒன்று இடம்பெற்றதாக ஜனாதிபதி அநுரகுமார தனது முகநூல் பக்கத்தில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b304d04c.json)
+
+---
+
+### Anura met French president
 
 *2025-09-27 12:13:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-ஜனாதிபதியை-சந்தித்தார்-அநுர/175-365364) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் (BBNJ) பிரகடன உடன்படிக்கையின் அங்கத்துவத்தில் 60 நாடுகள் நிறைவு செய்ததை முன்னிட்டு, பிரான்ஸ் அரசாங்கம் சிறப்பு நிகழ்வை ஏற்பாடு செய்திருந்தது.
+The French government has organized a special event in view of the completion of 60 countries in the membership of the United Nations (BBNJ) Declaration of Declaration.
 
-இந்த உடன்படிக்கையில் அங்கம் வகிக்கும் உறுப்பு நாடான இலங்கையைப் பிரதிநிதித்துவப்படுத்தி, ஜனாதிபதி அநுரகுமார திசாநாயக்கவும் இந்நிகழ்வில் கலந்துகொண்டார்.
+President Anura Kumara Dissanayake also participated in the event, representing Sri Lanka, a member of the agreement.
 
-இதன்போது, பிரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்ரோனை சந்தித்த ஜனாதிபதி அநுரகுமார திசாநாயக்க சுமுகமான உரையாடலில் ஈடுபட்டதாக தெரிவிக்கப்படுகின்றது. R
+It is reported that President Anura Kumara Dissanayake, who met French President Emanuel Macron, was involved in a smooth conversation.. Remble
 
 ◼️
 
 [Data](articles/3eb9f046.json)
+
+[Extended Data](ext_articles/3eb9f046.ext.json)
 
 ---
 
@@ -93,6 +113,26 @@ The visit is aimed at facilitating new trade, investment, and collaboration oppo
 
 ---
 
+### විපක්ෂය හොඳ කෑම  ඉල්ලයි
+
+*2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වපකෂය-හඳ-කම-ඉලලය/1-680308) · `si`
+
+පාර්ලිමේන්තු මුළුතැන්ගෙයි ( කුස්සිය) සෞඛ්‍ය ආරක්ෂාව පිළිබඳ ගැටලුවක් පවතින බව  ප්‍රකාශ කර ඇති  හෙයින් එය තාවකාලිකව වසා දමා එම වැරදි වහාම නිවැරදි කරන්නැයි  විපක්ෂයේ මන්ත්‍රීවරුන්  කතානායක  වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගෙන් ඉල්ලීමක් කර ඇත.
+
+මේ සම්බන්ධයෙන් පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී කරුණු දක්වා ඇති   නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී රවී කරුණානායක මහතා පාර්ලිමේන්තුවෙන් සැපයෙන ආහාර සඳහා මන්ත්‍රීවරුන් සහ සේවකයන් සැලකිය යුතු මුදලක් ගෙවන හෙයින්  පිරිසිදු කෑම වේලක් සැපයීමේ වගකීමක් පාලනාධිකාරියට තිබෙන බවයි.
+
+මෙහිදී අදහස් දක්වා ඇති කතානායකවරයා පවසා  ඇත්තේ පාර්ලිමේන්තු මුළුතැන් ගෙයි වැරදි සියල්ල නිවැරදි කිරීමට ඉදිරියේදී අවශ්‍ය සියලු කටයුතු කරන බවයි.
+
+පාර්ලිමේන්තු මුළුතැන්ගෙයි අඩුපාඩු සොයා බැලීම සඳහා කතානායකවරයා විසින්  විශේෂ කමිටුවක්ද  පසුගියදා  පත් කෙරුණු  අතර එම කමිටුවෙන්  ඉදිරිපත් කෙරෙන වාර්තාව අනුව  එහි අඩුපාඩු නිවැරදි කිරීමට කටයුතු කෙරෙනු ඇත.
+
+කතානායකවරයා පසුගියදා පොළොන්නරුවේදී රැස්වීමක් අමතමින් පාර්ලිමේන්තුවේ මුළුතැන්ගෙය නරකාදියක් බව ප්‍රකාශ කළේය
+
+...
+
+[Data](articles/238a0ffc.json)
+
+---
+
 ### The opposition asks for good food
 
 *2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වපකෂය-හඳ-කම-ඉලලය/101-680308) · `si`
@@ -121,6 +161,22 @@ They say that the kitchen has been laundering in a period of time and is a timel
 
 ---
 
+### අනුර-ට්‍රම්ප් සුහඳ කතාබහක
+
+*2025-09-27 11:56:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අනර-ටරමප-සහඳ-කතබහක/1-680307) · `si`
+
+ඇමෙරිකා ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා ඇමරිකාවේදී හමුවීම සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය නිල ෆේස්බුක් ගිණුමේ සටහනක් තබා ඇත.
+
+"එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා නිව්යෝර්ක් නුවරට පැමිණ සිටි රාජ්‍ය නායකයන් වෙනුවෙන් ඇමරිකා එක්සත් ජනපද ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා විසින් පසුගිය 23 දා Lotte New York Palace හෝටලයේදී පිරිනමන ලද විශේෂ රාත්‍රී භෝජන සංග්‍රහය සඳහා එක්වීමි.
+
+එහිදී ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා සමඟ සුහද කථා බහකද නිරත වීමි" යනුවෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/1a069ba8.json)
+
+---
+
 ### President Anura Kumara attends dinner reception hosted by Donald Trump
 
 *2025-09-27 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112958/president-anura-kumara-attends-dinner-reception-hosted-by-donald-trump) · `en`
@@ -134,6 +190,8 @@ During the occasion, President Dissanayake also engaged in a cordial conversatio
 ◼️
 
 [Data](articles/2431154a.json)
+
+[Extended Data](ext_articles/2431154a.ext.json)
 
 ---
 
@@ -154,6 +212,44 @@ The van is raised by the van while the van was taken out of a large tree while h
 [Data](articles/90b2cc00.json)
 
 [Extended Data](ext_articles/90b2cc00.ext.json)
+
+---
+
+### සොරබොර අනතුරින් 11ක් රෝහලට
+
+*2025-09-27 11:47:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සරබර-අනතරන-11ක-රහලට/1-680306) · `si`
+
+මහියංගන ගිරාදුරුකෝට්ට ප්‍රධාන මාර්ගයේ සොරබොර 1 කනුව ප්‍රදේශයේ දී අද (26) රාත්‍රි වන්දනා නඩයක් රැගත් වෑන් රථයක් මාර්ගයෙන් ඉවතට පැන ගසක ගැටිමෙන් 11 දෙනකු තුවාල ලබා මහියංගන රෝහලට ඇතුළත් කළ බව මහියංගන පොලිසිය පවසයි .
+
+බදුල්ල කයිලගොඩ ප්‍රදේශයේ පදිංචි පිරිසක් අනතුරින් මෙසේ තුවාල ලබා ඇතයි පොලිසිය කීය
+
+තුවාලකරුවන් අතර අවුරුදු 10ක කුඩා දරුවකු ඇතුලු  කාන්තාවෝ හයක් වෙති.
+
+මොවුන් අනුරාධපුරයට ගොස් ආපසු බදුල්ල බලා ගමන් කරමින් සිටියදි වෑන් රථයේ රියැදුරුට නින්ද යාම නිසාවෙන් මෙසේ වෑන් රථය මාර්ගයේ ඉවතට පැන විශාල ගසක ගැටීඇති අතර ,තුවාලකරුවන් වෑන් රථය තුල සිරවී සිටියදි මහත් වෙහෙසක් දරා පොලිස් නිළධාරින් අවට උදවිය එක්වී ඉවතට ගෙන මහියංගන රෝහලට ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/aac483d0.json)
+
+---
+
+### මෝටර් රථ අනතුරින් තුවාල ලැබූ වෛද්‍යවරයෙක් රෝහලට
+
+*2025-09-27 11:35:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මටර-රථ-අනතරන-තවල-ලබ-වදයවරයක-රහලට/1-680305) · `si`
+
+වෛද්‍යවරයෙකු පැදවූ මෝටර් රථයක් පිළියන්දල ජාලියගොඩ ප්‍රදේශයේදී පෙරළී යාමෙන් වෛද්‍යවරයා රෝහල් ගත කළ බව පිළියන්දල පොලිසිය කියයි
+
+සිදුවූ අනතුරින් වෙළඳසැල් දෙකක ඉදිරිපස  කොටසට බරපතල හානි සිදුවී ඇත
+
+වෛද්‍යවරයා පිළියන්දල දෙස සිට කොළඹ දෙසට මෝටර් රථය ධාවනය කිරීමේදී මාර්ගයෙන් ඉවතට පැන වෙළඳසැල් දෙක ඉදිරිපස කොටසේ ගැටී පෙරළි මෙම අනතුර වී ඇතැයි පොලිසිය සඳහන් කරයි
+
+වෛද්‍යවරයා රෝහල් ගත කර ඇත්තේ එම අවස්ථාවේදී ඇතිවූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් බව පොලිසිය කියයි
+
+අනතුරින් මෝටර් රථයට සහ වෙළඳසැල් දෙකේ ඉදිරිපස කොටසට බරපතළ අලාභ සිදුවී ඇත
+
+◼️
+
+[Data](articles/4de51bcd.json)
 
 ---
 
@@ -200,6 +296,58 @@ This Agreement covered with 2/3 oceans in the world, it is taken to sustain the 
 [Data](articles/1c7ae929.json)
 
 [Extended Data](ext_articles/1c7ae929.ext.json)
+
+---
+
+### ප්‍රංශය ඇමරිකාවේ පැවැත් වූ උත්සවයකට ජනපතිත් යයි
+
+*2025-09-27 11:33:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරශය-ඇමරකව-පවත-ව-උතසවයකට-ජනපතත-යය/1-680304) · `si`
+
+ජාතික දේශ සීමාවට ඔබ්බෙන් පිහිටි ප්‍රදේශවල සමුද්‍ර ජෛව විවිධත්ව සංරක්ෂණය සහ තිරසාර භාවිතය සම්බන්ධ සාගර නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ සම්මුතිය යටතේ වන ගිවිසුමට අදාළ (BBNJ) සාමාජිකත්වයට, රටවල් 60ක් සම්පූර්ණ වීම නිමිත්තෙන් ප්‍රංශ රජය විසින් සංවිධානය කළ උත්සවයකට ජනාධිපති අනුර කුමාර දිසානායක මහතාද සහභාගී විය.
+
+ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රොන් මහතා ඇතුළු සෙසු රටවල රාජ්‍ය නායකයන්ගේ සහභාගීත්වයෙන් නිව්යෝර්ක් නුවරදී මෙම උත්සවය පැවැත්විණි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම උත්සවයට සහභාගී වූයේ මෙම ගිවිසුමට එළැඹි සාමාජික රටක් වශයෙන් ශ්‍රී ලංකාව නියෝජනය කරමිනි.
+
+එම ගිවිසුමට එළැඹි 58 වන සාමාජික රට ලෙස, ශ්‍රී ලංකාව 2025 සැප්තැම්බර් 16 වන දින ඊට එළැඹුණු අතර, එමඟින් එම සම්මුතියේ පාර්ශ්ව රාජ්‍යයක් බවට පත් විය.
+
+දශක දෙකක සාකච්ඡා වලින් පසු, ජාතික දේශ සීමාවට ඔබ්බෙන් පිහිටි ප්‍රදේශවල සමුද්‍ර ජෛව විවිධත්වය පිළිබඳ ගිවිසුම (BBNJ) ලෙස හැඳින්වෙන මෙම ගිවිසුමට මේ වන විට රටවල් 60ක් අත්සන් තබා ඇත.
+
+...
+
+[Data](articles/c82a2150.json)
+
+---
+
+### 9 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை!
+
+*2025-09-27 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226226) · `ta`
+
+நாட்டின் சில பகுதிகளில் தொடர்ந்து பெய்து வரும் கடும் மழை காரணமாக ஒன்பது மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் (NBRO) தெரிவித்துள்ளது.
+
+அதன்படி, கொழும்பு, களுத்துறை, காலி, மாத்தறை, கண்டி, நுவரெலியா, கேகாலை, இரத்தினபுரி மற்றும் குருணாகல் ஆகிய மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/80479839.json)
+
+---
+
+### மொனராகலை - மாத்தறை பிரதான வீதியில் விபத்து ; ஒருவர் பலி!
+
+*2025-09-27 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226215) · `ta`
+
+மொனராகலை - மாத்தறை பிரதான வீதியில் 70வது வீதி சந்திக்கு அருகில், இடம்பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்துள்ளதாக லுனுகம்வெஹெர பொலிஸார் தெரிவித்தனர்.
+
+லுனுகம்வெஹெர நோக்கிச் சென்ற பஸ் ஒன்று மோட்டார் சைக்கிளை முந்திச் செல்ல முயன்றபோது, மோட்டார் சைக்கிளுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர் பலத்த காயமடைந்து தணமல்வில வைத்தியசாலையில் அனுமதிக்கப்பட்டு, பின்னர் மேலதிக சிகிச்சைக்காக ஹம்பாந்தோட்டை வைத்தியசாலைக்கு மாற்றப்பட்டதையடுத்து சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+விபத்துடன் தொடர்புடைய பஸ்ஸின் சாரதி கைது செய்யப்பட்டுள்ளதுடன் லுனுகம்வெஹெர பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/d64ad409.json)
 
 ---
 
@@ -1924,153 +2072,5 @@ The Committee on Public Enterprises (COPE), the Chairman of Parliament (COPE met
 [Data](articles/7cbde413.json)
 
 [Extended Data](ext_articles/7cbde413.ext.json)
-
----
-
-### 2026 Appropriation Bill Presented To Parliament
-
-*2025-09-26 20:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/2026-appropriation-bill-presented-to-parliament) · `en`
-
-COLOMBO( News 1st); The Appropriation Bill for the 2026 fiscal year was presented to Parliament today by Acting Minister of Finance, Professor Anil Jayantha Fernando.According to the Appropriation bill, which the current government intends to submit as its second budget, total government expenditure for the year 2026 is projected at Rs. 4,434 billion.
-
-...
-
-[Data](articles/3f14cb46.json)
-
-[Extended Data](ext_articles/3f14cb46.ext.json)
-
----
-
-### COPE Amendments revision to strengthen the COPE
-
-*2025-09-26 20:10:59* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-කමිටුව-ශක්තිමත්-කිරීමට-ස්ථාවර-නියෝග-සංශෝධනය-කරයි/11-418750) · `si`
-
-A proposal to revise the Standing Orders regarding serious financial frauds and corruption against the committee of the Committee (COPE) was presented to Parliament today (26).
-
-Committees of the Committee Dr. Nishantha Samaraweera made the proposal for the current Standing Orders of the Committee in terms of 137 Standing Orders of Parliament.
-
-According to the amendment of these proposals, the committee concludes that the Auditor General has taken serious financial frauds or corruption, the Committee may directly direct the bribery or corruption to the Commission directly to the Commission directly to the Commission directly to the Commission or the Corruption.
-
-◼️
-
-[Data](articles/56492bf2.json)
-
-[Extended Data](ext_articles/56492bf2.ext.json)
-
----
-
-### Special Financial Assistance - Minister of Fisheries from the President's Fund for the education of the children of fishermen
-
-*2025-09-26 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226200) · `ta`
-
-Minister of Fisheries, Aquaticity and Marine Resources Ramalingam Chandrasekhar said at a media briefing to clarify the activities of the President's Fund at the Government Information Department on September 25, 2025.
-
-Minister of Fisheries, Aquaticity and Marine Resources Ramalingam Chandrasekhar, Deputy Foreign Affairs, Foreign Employment and Tourism Minister Arun Hemachandra. Additional Secretary of the Ministry of Roshan, Foreign Affairs, Foreign Employment and Tourism, Dr. Sukat Yalegama, President of the Sri Lanka Foreign Employment Bureau, Kosala Wickremesinghe and many others were present.
-
-The Minister said at the meeting that the fishermen who contributed greatly to the economy of the country and the people's protein have been subjected to many difficulties and social margins.. The Minister also pointed out that the educational and life paths of the children of the missing, accidental or imprisoned abroad have been affected.
-
-...
-
-[Data](articles/5d54cd0a.json)
-
-[Extended Data](ext_articles/5d54cd0a.ext.json)
-
----
-
-### Tissamaharama shot dead
-
-*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තසසමහරම-වඩ-තබමකන-අයක-මරට/101-680293) · `si`
-
-A person has been shot dead at the Mutimgama area in Tissamagama area around 5 pm yesterday, police said.
-
-The murdered was a resident of Tissamaharama Mutumamgama No. 1223.
-
-The police said that he was shot dead while he was in the garage at the Mutimamgama School.
-
-The suspects had been a paramount with the son of the suspect's son and had taken place between the deceased and the suspect, police said.
-
-◼️
-
-[Data](articles/c70c0551.json)
-
-[Extended Data](ext_articles/c70c0551.ext.json)
-
----
-
-### Tissamaharama shot dead
-
-*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තසසමහරම-වඩ-තබමකන-අයක-මරට/1-680293) · `si`
-
-A person has been shot dead at the Mutimgama area in Tissamagama area around 5 pm yesterday, police said.
-
-The murdered was a resident of Tissamaharama Mutumamgama No. 1223.
-
-The police said that he was shot dead while he was in the garage at the Mutimamgama School.
-
-The suspects had been a paramount with the son of the suspect's son and had taken place between the deceased and the suspect, police said.
-
-◼️
-
-[Data](articles/ca551377.json)
-
-[Extended Data](ext_articles/ca551377.ext.json)
-
----
-
-### The Bribery Commission implements the government's repression - Nalin Bandara
-
-*2025-09-26 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226191) · `ta`
-
-What is the position of the government on the fact that a member of the JVP's legal section has been appointed as the Chairman of the Commission on Bribery or Corruption? United People's Power Kurunegala District Parliamentarian Nalin Bandara said that the Bribery Commission is completely politicized and implemented the repression of the government.
-
-He said this while addressing the adjournment debate on the Cobb Committee Report held in Parliament on Friday (26).
-
-Cobb group must explore current activities and irregularities as in the past. Pillaiyan's assistant has received 250 acres of royalty in Pasikuda area. No action has been taken so far as the land has been instructed by the Land Reconstruction Commission.
-
-The operations of the Ports Authority are problematic.  The recent release of 323 containers from Customs has caused massive controversy. Will the Customs and Port Authority be invited to the Cobb Committee in the coming days,
-
-...
-
-[Data](articles/342eb1ee.json)
-
-[Extended Data](ext_articles/342eb1ee.ext.json)
-
----
-
-### China will make enormous contribution to the noble purpose of peace and development - Chinese Ambassador
-
-*2025-09-26 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226199) · `ta`
-
-Chinese Ambassador to Sri Lanka, Qi Zhenhong, said that on the new era, the Chinese nation will bring new and enormous glory and make new and enormous contributions to the noble purpose of human peace and development.
-
-A welcome ceremony was held at the Chinaman Life Hotel, Colombo on Thursday (25) to mark the 76th anniversary of the establishment of the People's Republic of China.  The Chinese ambassador said this while addressing the event.
-
-He emphasized the enormous growth of China over the past 76 years, China's commitment to the global arena and the deep friendship between Sri Lanka and China.
-
-In the last 76 years, China has emerged as an open and progressive country, which is headed by the Chinese Communist Party (CPC), from an isolated, backward position to all kinds of moderate prosperity.
-
-Today's China is thriving in all sectors. In particular, digital economy and artificial intelligence are committed to the development and high quality growth.
-
-...
-
-[Data](articles/252d7553.json)
-
-[Extended Data](ext_articles/252d7553.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2025-09-26 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215049) · `si`
-
-Sri Lanka and India be held today (26)
-
-Sri Lanka won the toss and decided to bowl first.
-
-◼️
-
-[Data](articles/153b518c.json)
-
-[Extended Data](ext_articles/153b518c.ext.json)
 
 ---

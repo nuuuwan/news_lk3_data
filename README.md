@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 03:54:48**
+As of **2025-09-28 04:20:25**
 
 ## Newspaper Stats
 
-*Scraped **79,013** Articles*
+*Scraped **79,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ lankadeepalk | 356
 newsfirstlk | 442
 dbsjeyarajcom | 635
 bbccomsinhala | 706
-colombotelegraphcom | 797
+colombotelegraphcom | 798
 economynextcom | 4,731
 dailymirrorlk | 4,733
 islandlk | 4,812
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,013 (100.0%) of 79,013 articles have been extended.
+79,014 (100.0%) of 79,014 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,6 +82,24 @@ However, Wije's arrival for this rally has delayed, and the people have already 
 [Data](articles/a053653c.json)
 
 [Extended Data](ext_articles/a053653c.ext.json)
+
+---
+
+### The Importance Of Education In Emergencies For Eliminating The Dependency Mindset
+
+*2025-09-27 22:03:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-importance-of-education-in-emergencies-for-eliminating-the-dependency-mindset/) · `en`
+
+Emergencies—whether natural disasters, armed conflicts, pandemics, or economic crises—disrupt the normal functioning of societies. In such contexts, the education system often collapses, leaving children and communities vulnerable to a “dependency mindset.” This mindset is characterized by reliance on external aid rather than building self-reliance and sustainable solutions.
+
+Education plays a critical role in preventing and eliminating this dependency. By continuing learning even during crises, education nurtures resilience, independence, and problem-solving capabilities, enabling individuals and communities to rebuild their futures
+
+The dependency mindset refers to a psychological and social state where individuals or communities rely excessively on external aid rather than developing internal capacities to solve their own problems.
+
+...
+
+[Data](articles/3c479893.json)
+
+[Extended Data](ext_articles/3c479893.ext.json)
 
 ---
 
@@ -2014,19 +2032,5 @@ COLOMBO(News 1st); Police Headquarters announced that 328 suspects linked to org
 [Data](articles/496cdac7.json)
 
 [Extended Data](ext_articles/496cdac7.ext.json)
-
----
-
-### AKD Attends Trump's Special Dinner Reception Ahead Of Japan Visit
-
-*2025-09-27 13:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/akd-attends-trump-s-special-dinner-reception-ahead-of-japan-visit) · `en`
-
-COLOMBO(News 1st); US President Donald Trump hosted a special dinner on the 23rd at the Lotte New York Palace Hotel for heads of state attending the 80th session of the United Nations General Assembly.President Anura Kumara Dissanayake was among the attendees at the event.
-
-◼️
-
-[Data](articles/84aa6707.json)
-
-[Extended Data](ext_articles/84aa6707.ext.json)
 
 ---

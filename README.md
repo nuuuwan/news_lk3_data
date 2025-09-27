@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 10:08:36**
+As of **2025-09-27 10:20:29**
 
 ## Newspaper Stats
 
-*Scraped **78,833** Articles*
+*Scraped **78,837** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 306
+lankadeepalk | 310
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 704
@@ -27,11 +27,65 @@ adaderanasinhalalk | 13,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,828 (100.0%) of 78,833 articles have been extended.
+78,828 (100.0%) of 78,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### රජයේ ලොක්කෙක් ජපාන ආයෝජකයන් හරවා යවලා
+
+*2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/1-680303) · `si`
+
+ශ්‍රී ලංකාවේ ආයෝජනයකට පැමිණි ජපානයේ ආයෝජකයන් පිරිසකට ඉහළ පෙළේ නිලධාරියකු සාකච්ඡාවකට අවස්ථාවේදී ඉන් මගහැර යෑම හේතුවෙන් එම ආයෝජකයන් පිරිස කලකිරීමට පත්ව ආපසු හැරී ගොස් ඇතැයි වාර්තාවේ.
+
+පසුව එම නිලධාරියා පෝය දිනයක වෙනත් ස්ථානයක සාකච්ඡා කිරීමට යෝජනා කර ඇති අවස්ථාවේදී එම ආයෝජකයන් එය ප්‍රතික්ෂේප කර ඇත.
+
+මේ සිද්ධියවූයේ මාර්ග ආරක්ෂණ වැඩපිළිවෙලක් සම්බන්ධයෙන් රජයේ අනුමැතිය ලබා ගැනීමට අමාත්‍යාංශ උසස් නිලධාරියෙකු හමුවීමට උත්සාහ දැරූ අවස්ථාවේදී බව එම ජපන් ආයෝජකයන් පිරිස සම්බන්ධීකරණය කළ රාජපුත්‍ර සමූහ ව්‍යාපාරයේ සභාපති සජීව් රාජපුත්‍ර මහතා කොළඹදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී පැවසීය.
+
+...
+
+[Data](articles/d0c03bce.json)
+
+---
+
+### නඩුවලට බියවෙලා: විපක්ෂයේ මන්ත්‍රීලා විස්සක් ගොළු වෙලා
+
+*2025-09-27 09:56:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නඩවලට-බයවල-වපකෂය-මනතරල-වසසක-ගළ-වල/1-680302) · `si`
+
+විවිධ නඩු පැවරුණු විපක්ෂයේ දැනට සිටින මන්ත්‍රීවරුන් මෙන්ම හිටපු මන්ත්‍රීවරුන් විස්සකට ආසන්න පිරිසක් ආණ්ඩුව විවේචනය කරමින් අදහස් දැක්වීම කර ඇර ඇති හෙයින් පාර්ලිමේන්තුවේදීත් ඉන් පිටතදීත් ආණ්ඩුවට එරෙහිව ලොකු හඬක් නැගීමට ඇති අනගි අවස්ථාව අහිමි වීමෙන් පොදුවේ විපක්ෂය දැඩි අර්බුදයකට මුහුණදී සිටී.
+
+සමහර කාරණා සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී අදහස් දැක්වීමට විපක්ෂයේ පක්ෂ නායකයන් සමහර මන්ත්‍රීවරුන්ට වගකීම් පවරා ඇතත් ඔවුන් අවස්ථා ගණනාවකදීම ඒවා මගහැර ගොස් ඇතැයි ආරංචි මාර්ග සඳහන් කළේය.
+
+" මට නඩු ටිකක් තියෙනවා. ඒ නිසා මම මේ වෙලාවේ ටිකක් නිහඩව ඉන්නම්" යනුවෙන් පවසා එසේ මඟ හැර ගොස් ඇති බව දැනගන්නට ඇත.
+
+මේ තත්වය යටතේ විපක්ෂයේ හඬ පාර්ලිමේන්තුව තුළත් ඉන් පිටතත් දුර්වල වුණු තත්වයක් පෙනෙන්නට ඇතැයි දේශපාලන විචාරකයෝ සඳහන් කරති.
+
+විපක්ෂයේ දැනට සිටින මන්ත්‍රීවරුන් සහ හිටපු මන්ත්‍රීවරුන් විස්සකට ආසන්න පිරිසකට එරෙහිව විවිධ නඩු පවතින බව වාර්තාවේ.
+
+විවිධ නඩු හේතුවෙන් ආණ්ඩුවට ප්‍රහාර ඉල්ලා නොකර මෙසේ නිහඬව සිටින මෙම පිරිසට පාර්ලිමේන්තුවේදී මෙන්ම දේශපාලන වේදිකාවේ පසුගිය කාලයේදී ප්‍රබලව සිය කටහඬ අවදි කළ මන්ත්‍රීවරුද ඇතුළත් වෙති.
+
+◼️
+
+[Data](articles/6e09a3d5.json)
+
+---
+
+### තැපෑලේ කෝටි සීයක ඕටී හොරෙන් අරන්
+
+*2025-09-27 09:47:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-කට-සයක-ඕට-හරන-අරන/1-680301) · `si`
+
+ඇඟිලි සලකුණු යන්ත්‍ර සවිකර නොතිබියදීත් කොළඹ මධ්‍යම තැපැල් හුවමාරුවේ සේවකයන් 28403කට නීතියට පටහැනිව රුපියල් කෝටි 65 කට වැඩි අතිකාල දීමනා ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය නිකුත් කළ අලුත්ම වාර්තාවක සඳහන් වේ.
+
+මෙයට අමතරව දිසා ගිණුම් කාරයාල දාහතරක ඇඟිලි සලකුණු යන්ත්‍රයේ පැමිණීමේ හා පිටවීමේ වෙලාවන් සලකා බැලීමකින් තොරව ගිය වසරේ ජුනි මාසය දක්වා රුපියල් කෝටි 37කට වැඩි අතිකාල දීමනා ගෙවා ඇතැයි පවසන එම කාර්යාලය පාලක කාර්යාලයේ සේවකයන් හත්දෙනෙකුටද ඇගිලි සලකුණු නොමැතිව රුපියල් ලක්ෂ 40කට වැඩි අතිකාල ගෙවා තිබූ බවද සඳහන් කරයි.
+
+මේ අතර ඇඟිලි සලකුණු යන්ත්‍රයක් සවි කර තිබුණද ඇඟිලි සලකුණු යන්ත්‍රයේ පැමිණීමේ හා පිටවීමේ වෙලාවන් සලකා බැලීමකින් තොරව රාත්‍රී හත අට නමය දහය යන වේලාවල් වල රාජකාරී කළ බව සාවද්‍ය ලෙස දක්වා රුපියල් ලක්‍ෂ හැත්තෑවකට වැඩි අධිකාල දීමනා ගෙවා තිබූ බවත් එම අතිකාල දීමනා ගෙ වීම් වල නිවැරදිතාවය මේ හේතුවෙන් විගණනයට පරීක්ෂා කළ නොහැකි වූ බවත් එම වාර්තාවේ දැක්වේ.
+
+...
+
+[Data](articles/6ddc5493.json)
+
+---
 
 ### 11 Injured In Mahiyangana Road Accident
 
@@ -846,6 +900,20 @@ As the impacts of climate change become more frequent and intense, people across
 [Data](articles/e39f8cf0.json)
 
 [Extended Data](ext_articles/e39f8cf0.ext.json)
+
+---
+
+### අල්ලසට බරම ආයතනය?
+
+*2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලසට-බරම-ආයතනය/1-680300) · `si`
+
+ජාතික දූෂණ විරෝධී ක්‍රියාකාරී සැලැසුම සකස් කිරීම සඳහා පසුගිය වසරේදී එම වසර පුරාවට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම දීප ව්‍යාප්ත සමීක්ෂණයක් කළ බවත් එහිදී මහජනතාව අල්ලස හෝ දූෂණයට වඩාත් නැඹුරු ආයතන ලෙස හඳුනාගෙන ඇති ආයතන අතර පළමු තැන පොලිසියට හිමිවන බවත් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ සභාපති විශ්‍රාමික විනිසුරු නීල් ඉද්දවල මහතා පැවැසුවේය.
+
+දෙවැනි ස්ථානය දේශපාලනඥයන් බවත් තෙවැනි ස්ථානය ශ්‍රී ලංකා රේගුව බවත් ඔහු ප්‍රකාශ කළේය. එහි සිවූ වැනි ස්ථානය ආගමන හා විගමන දෙපාර්තමේන්තුවට හිමිවන බවත් ඉතිරි ස්ථාන අමාත්‍යාංශ, ඉඩම් ලියාපදිංචි කිරීමේ කාර්යාලය, පළාත් සභා, විදේශ රැකියා කාර්යාංශය, ප්‍රාදේශීය ලේකම් කාර්යාල, රෙජිස්ටර් ජනරාල් කාර්යාලයට හිමිවන බව ඔහු පැවැසුවේය.
+
+...
+
+[Data](articles/3b1e2252.json)
 
 ---
 
@@ -1882,79 +1950,5 @@ High Commissioner Colonne said, “Since our President’s visit to India after 
 [Data](articles/f723797e.json)
 
 [Extended Data](ext_articles/f723797e.ext.json)
-
----
-
-### 'Rajini Gang' starring Rajini Kishan
-
-*2025-09-26 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226186) · `ta`
-
-The new movie starring actor Rajini Kishan is titled 'Rajini Gang' and the teaser has been released on the title.. The teaser of the horror gomadi janeri has received a huge welcome.. Within a short time of release, more than two million viewers are visited and achieved
-
-Director M. Rajini Kishan and Divika have played the lead roles in the film 'Rajini Gang' directed by Ramesh Bharati.. My. S.. Satishkumar has recorded the film. S.. Jones Rupert has composed the music. The film is based on Horror Commodhi Janer, producer CS Padamsand-C. Ariyanraj and Rajini Kishan have co-produced.
-
-VF X scenes in this teaser are more.. Has been attracted to the fans.
-
-◼️
-
-[Data](articles/b857c677.json)
-
-[Extended Data](ext_articles/b857c677.ext.json)
-
----
-
-### Actress Yashika Anand starrer 'Toss'
-
-*2025-09-26 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226184) · `ta`
-
-The shooting of the movie 'Tas', which is playing the lead role in the heroine of the story, has begun to shoot fans with fans with 'Big Poss'. Former Minister of Tamil Nadu Kadambur C. Raju congratulated the film crew on the participation of a special guest.
-
-Ratan Mowli, Yashika Anand, Vijay Rivi Yogi, Shanna, Tejasri, Sanjay Shankar, directed by director Saku Pandiyan directed 'Das'.. Shantan Anibhajagane is composed by Dharmadurai. The film is being produced as a crime thriller and produced by producer Syed Zafar on behalf of Black Diamond Studio.
-
-Commenting on the film, the director said, “There are three murder cases.. What is the original background? What is the connection between this murder and Yashika Anand? In order to investigate ... The film is ready for a brilliant crime thriller. ”
-
-◼️
-
-[Data](articles/8e7862e0.json)
-
-[Extended Data](ext_articles/8e7862e0.ext.json)
-
----
-
-### Actress Yashika Anand starrer 'Toss'
-
-*2025-09-26 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226182) · `ta`
-
-The shooting of the movie 'Tas', which is playing the lead role in the heroine of the story, has begun to shoot fans with fans with 'Big Poss'. Former Minister of Tamil Nadu Kadambur C. Raju congratulated the film crew on the participation of a special guest.
-
-இயக்குநர் சகு பாண்டியன் இயக்கத்தில் உருவாகும் 'டாஸ்' திரைப்படத்தில் ரத்தன் மௌலி, யாஷிகா ஆனந்த், விஜய் ரிவி யோகி, ஷன்னா, தேஜாஸ்ரீ, சஞ்சய் சங்கர் உள்ளிட்ட பலர் நடிக்கிறார்கள். Shantan Anibhajagane is composed by Dharmadurai. The film is being produced as a crime thriller and produced by producer Syed Zafar on behalf of Black Diamond Studio.
-
-Commenting on the film, the director said, “There are three murder cases.. What is the original background? What is the connection between this murder and Yashika Anand? In order to investigate ... The film is ready for a brilliant crime thriller. ”
-
-◼️
-
-[Data](articles/ac890434.json)
-
-[Extended Data](ext_articles/ac890434.ext.json)
-
----
-
-### A proposal to amend the Standing Order to strengthen the COPE Committee
-
-*2025-09-26 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215047) · `si`
-
-A proposal to revise the Standing Orders regarding the legal action against the Committee on Public Enterprises (COPE) has been presented to Parliament today.
-
-The proposal has been made by the Chairman of the Committee Dr. Nishantha Samaraweera by the Chairman of the Committee Dr. Nishantha Samaraweera.
-
-It has been suggested that the Bribery or Corruption Commission may directly directly directly to the Commission or the Corruption Commission directly to the Commission or Corruption to take legal action.
-
-The proposal was sent to the Committee on Standing Orders to consider this proposal.
-
-◼️
-
-[Data](articles/88499fd8.json)
-
-[Extended Data](ext_articles/88499fd8.ext.json)
 
 ---

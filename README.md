@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 14:37:47**
+As of **2025-09-27 15:05:44**
 
 ## Newspaper Stats
 
-*Scraped **78,888** Articles*
+*Scraped **78,906** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 322
-newsfirstlk | 438
+lankadeepalk | 330
+newsfirstlk | 439
 dbsjeyarajcom | 635
 bbccomsinhala | 705
 colombotelegraphcom | 793
@@ -20,18 +20,94 @@ dailyftlk | 5,565
 adalk | 7,624
 adaderanalk | 10,195
 tamilmirrorlk | 11,828
-virakesarilk | 12,807
-adaderanasinhalalk | 13,703
+virakesarilk | 12,814
+adaderanasinhalalk | 13,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,887 (100.0%) of 78,888 articles have been extended.
+78,896 (100.0%) of 78,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### ඝානාවේ සියලුම බොක්සිං ක්‍රියාකාරකම් සම්පූර්ණයෙන්ම අත්හිටුවයි
+
+*2025-09-27 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215070) · `si`
+
+බොක්සිං ක්‍රීඩකයෙකුගේ මරණයෙන් පසු ඝානාවේ සියලුම බොක්සිං ක්‍රියාකාරකම් සම්පූර්ණයෙන්ම අත්හිටුවා තිබේ.
+
+බාහුබලි ලෙස ජනප්‍රිය අර්නස්ට් අකුෂේ මියයන විට 32 හැවිරිදි වියේ පසුවූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මූලික පරික්ෂණවලදී හෙළිව ඇත්තේ සටනේදී ඇති වූ අභ්‍යන්තර තුවාල හේතුවෙන් තරගයෙන් දින 11කට පසුව මෙම මරණය සිදුව ඇති බවය.
+
+එරට ජාතික ක්‍රීඩා අධිකාරිය නිවේදනයක් නිකුත් කරමින් පවසන්නේ ජීවිත ආරක්ෂා කිරීම, ක්‍රීඩාවේ අඛණ්ඩතාව ආරක්ෂා සහ එහි අනාගතය සහතික කිරීමට අවශ්‍ය පියවරක් ලෙස මෙම පියවර ගෙන ඇති බවය.
+
+මෙම සිදුවීම මාස හයක් ඇතුළත ඝානාවේ වෘත්තීය සටන්කරුවෙකුගේ දෙවන මරණය  බවයි විදෙස් වාර්තා සඳහන් කළේ.
+
+◼️
+
+[Data](articles/0c5814b3.json)
+
+---
+
+### The clergy of the wooden monastery, the monks, today
+
+*2025-09-27 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215069) · `si`
+
+The clergy will be held today (27) this afternoon that the owners of the owners who were killed in an accident.
+
+A large number of people, including the Maha Sangha, and devotees have come to the Aranya Senasana to pay their last respects to monks.
+
+A dick used for the convenience used for the convenience of the Moana Uyana Aranya Senasana was held on the 24th.
+
+The monks of Ven. Rummania Dhammarenzi, Ven. Navagavangama Janamalpitiya, Ven. Nawalapitiya, Ven
+
+Opposition Leader Sajith Premadasa gave his final respects to the monks who had been oursome at night and the Leader of the United States leader Dilith Jayaweera was also given to the last respects.
+
+Meanwhile, the remains of the Indian and Romanian monks who have been identified are to be coordinated with the relatives of the customers' relatives.
+
+With the funeral of the Russian national monk, the body was working to the Aranya Senasana last night.
+
+...
+
+[Data](articles/9a51b259.json)
+
+[Extended Data](ext_articles/9a51b259.ext.json)
+
+---
+
+### குருணாகல் கேபிள் கார் விபத்தில் உயிரிழந்த பிக்குகளுக்கு இறுதி அஞ்சலி செலுத்தினார் எதிர்க்கட்சி தலைவர்!
+
+*2025-09-27 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226239) · `ta`
+
+அண்மையில் குருணாகல் மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் கார் உடைந்து வீழ்ந்து  விபத்தில் உயிரிழந்த பிக்குகளின் பூதவுடல்களுக்கு சனிக்கிழமை (27) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இறுதி அஞ்சலி செலுத்தினார்.
+
+இந்த விபத்தில் உள்ளானதில் உள்நாட்டு மற்றும் வெளிநாட்டைச் சேர்ந்த ஏழு பிக்குகள் உயிரிழந்தனர். மேலும் சில பிக்குகள் காயங்களுடன் வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+இத்துயர் சம்பவத்தில் உயிரிழந்த பிக்குகளின் பூதவுடல்கள்  மெல்சிரிபுர நா உயன ஆரண்ய சேனாசனத்தில் வைக்கப்பட்டுள்ளன.
+
+இங்கு இறுதி அஞ்சலி செலுத்தியதன் பிற்பாடு, இந்த விபத்து குறித்து மேலும் அறிந்து கொள்ள, ஆரண்ய சேனாசனத்தின் சங்கைக்குரிய தலைமை தேரரைச் சந்தித்து கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/2a092c28.json)
+
+---
+
+### Final Rites Of Monks From Na Uyana Senasana Tragedy, Today
+
+*2025-09-27 14:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/final-rites-of-monks-from-na-uyana-senasana-tragedy-today) · `en`
+
+...
+
+[Data](articles/56ef2604.json)
+
+[Extended Data](ext_articles/56ef2604.ext.json)
+
+---
 
 ### Is the refrigerator more than 10 years old?
 
@@ -59,6 +135,28 @@ Sri Lanka has stopped importing low equipment. By the end of this year, the law 
 
 ---
 
+### Teaches Kandy about AI
+
+*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/AI-ගන-මහනවරට-උගනවය/1-680312) · `si`
+
+Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat at the Kandy District Secretariat.
+
+The program was organized by the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
+
+Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
+
+The Presidential Secretariat says that the function of the Government Officer and AI techniques on the use of the Government Superintendent of Government Digitalization Plan to cover all provinces and the government officials on the government's use of public purposes and AI technology are also allocated to educate the government.
+
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+◼️
+
+[Data](articles/4508f2a5.json)
+
+[Extended Data](ext_articles/4508f2a5.ext.json)
+
+---
+
 ### 717 Arrested In Island-Wide Police Operation
 
 *2025-09-27 13:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/717-arrested-in-island-wide-police-operation) · `en`
@@ -70,6 +168,28 @@ COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide
 [Data](articles/1ee617c1.json)
 
 [Extended Data](ext_articles/1ee617c1.ext.json)
+
+---
+
+### World Tourism Day celebrated at Nanu Oya Railway Station
+
+*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/1-680311) · `si`
+
+A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
+
+Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
+
+The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
+
+Visitors to the train on World Tourism
+
+The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
+
+◼️
+
+[Data](articles/d909ae75.json)
+
+[Extended Data](ext_articles/d909ae75.ext.json)
 
 ---
 
@@ -101,19 +221,101 @@ COLOMBO(News 1st); US President Donald Trump hosted a special dinner on the 23rd
 
 ---
 
-### டிரம்பை சந்தித்தார் அனுர
+### மத்திய மாகாண அரச அதிகாரிகளுக்கு டிஜிட்டல் மயமாக்கல் மற்றும் AI தொழில்நுட்பத்தின் பயன்பாடு குறித்து விழிப்புணர்வு நிகழ்ச்சி
+
+*2025-09-27 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226238) · `ta`
+
+அரசாங்கத்தின் டிஜிட்டல் மயமாக்கல் திட்டம் மற்றும் AI தொழில்நுட்பத்தின் பயன்பாடு குறித்து மாகாண மட்டத்தில் உள்ள அரச நிறைவேற்று அதிகாரிகளுக்கு விழிப்புணர்வை ஏற்படுத்தும் நிகழ்ச்சித் தொடரின், முதலாவது மாகாண மட்ட நிகழ்ச்சி நேற்று வெள்ளிக்கிழமை (26) கண்டி மாவட்ட செயலகத்தில் நடைபெற்றது.
+
+அரசாங்கத்தின் டிஜிட்டல் மயமாக்கல் திட்டங்களை தெளிவுபடுத்துவதையும், AI தொழில்நுட்பத்தைப் பயன்படுத்துவது குறித்து அதிகாரிகளின் அறிவை மேம்படுத்துவதையும் நோக்கமாகக் கொண்ட இந்த நிகழ்ச்சி, மத்திய மாகாண சபை, மாவட்டச் செயலகங்கள், பிரதேச செயலகங்கள் மற்றும் ஏனைய அரச நிறுவனங்களின் அனைத்து நிறைவேற்று அதிகாரிகளின் பங்கேற்புடன் நடைபெற்றது.
+
+கொழும்பை மையமாகக் கொண்டு டிஜிட்டல் மயமாக்கல் மற்றும் AI தொழில்நுட்பம் குறித்து அரச அதிகாரிகளுக்கான ஆறு விழிப்புணர்வு நிகழ்ச்சிகள் இதுவரை நடத்தப்பட்டுள்ளதுடன், இதில் 4,000க்கும் மேற்பட்ட அதிகாரிகள் பங்கேற்றனர்.
+
+...
+
+[Data](articles/03891c95.json)
+
+---
+
+### Anura met Trump
 
 *2025-09-27 13:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்பை-சந்தித்தார்-அனுர/175-365366) · `ta`
 
-ஜனாதிபதி அனுரகுமார திசாநாயக்க மற்றும் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் இருவருக்குமிடையில் சுமுகமான கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+There is a smooth discussion between President Anura Kumara Dissanayake and US President Donald Trump.
 
-லொட்டே நியூயோர்க் அரண்மனை ஹோட்டலில் ஜனாதிபதி டிரம்ப் வழங்கிய இரவு விருந்து நிகழ்ச்சியில் கலந்து கொண்டதாக போதே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+The meeting took place at a dinner party offered by President Trump at the New York Palace Hotel.
 
-ஐக்கிய நாடுகள் சபையின் பொதுச் சபையின் (UNGA) 80வது அமர்வில் பங்கேற்க நியூயோர்க்கில் உள்ள அரச தலைவர்களுக்காக இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+It is noteworthy that the event was organized for the heads of state in New York to attend the 80th session of the United Nations General Assembly (Unga).. Remble
 
 ◼️
 
 [Data](articles/6b283f98.json)
+
+[Extended Data](ext_articles/6b283f98.ext.json)
+
+---
+
+### வரி செலுத்தும் அனைவருக்கும் விசேட அறிவிப்பு!
+
+*2025-09-27 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226233) · `ta`
+
+2024 /2025 மதிப்பீட்டு ஆண்டிற்கான இறுதி வருமான வரி செலுத்துதல்களை, செப்டெம்பர் மாதம் 30 ஆம் திகதி அல்லது அதற்கு முன்னதாக செலுத்துமாறு அனைத்து வரி செலுத்துவோருக்கும், உள்நாட்டு இறைவரித் திணைக்களம் அறிவுறுத்தியுள்ளது.
+
+இந்த உத்தரவு தனிநபர்கள் மற்றும் நிறுவனங்கள், கூட்டாண்மைகள் மற்றும் பிற பதிவு செய்யப்பட்ட நிறுவனங்களுக்கும் பொருந்தும் என குறிப்பிடப்பட்டுள்ளது.
+
+செலுத்த வேண்டிய வரித் தொகையை இலங்கை வங்கியின் எந்தவொரு கிளையிலும் ஒன்-லைன் வரி செலுத்தும் முறையினூடாக செலுத்தலாம் என்றும் உள்நாட்டு இறைவரித் திணைக்களம் தெரிவித்துள்ளது.
+
+வரி செலுத்த தாமதித்தால் அல்லது தவறவிட்டால் வட்டி மற்றும் அபராதங்கள் விதிக்கப்படும் எனவும், நேரடி கட்டணச் சீட்டுகளுக்காக காத்திருக்க வேண்டாம் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
+
+வரி செலுத்தாமை அல்லது தாமதமாக பணம் செலுத்துவதற்கு விதிக்கப்படும் அபராதங்கள் மற்றும் வட்டி ஒருபோதும் தள்ளுபடி செய்யப்படாது அல்லது குறைக்கப்படாது என உள்நாட்டு இறைவரித் திணைக்களம் அனைத்து வரி செலுத்துவோருக்கும் அறிக்கையொன்றை வெளியிட்டு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/586f550e.json)
+
+---
+
+### The power of catching thieves into the coop coffee
+
+*2025-09-27 13:11:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කපවට-හර-අලලන-බලය/1-680310) · `si`
+
+The Committee on Parliamentary Affairs has decided to promote bribery and corruption to the Committee on Public Institutions regarding the corresponding and heads of public institutions on public institutions.
+
+Accordingly, the Standing Orders will soon be amended for the two committees.
+
+A proposal to approve the revision of Standing Orders was also given to the Standing Order Committee.
+
+The Bribery Committee on Public Enterprises and Corruption (COPE) and the CID or the CID or the CID or the CID or the CID or the CID or the CID have not been given to the Investigation Department.
+
+In the recent past, the Criminal Investigation Department and the Attorney General will refer to the Commission to Investigate Allegations of Bribery or Corruption in the recent past.
+
+◼️
+
+[Data](articles/5a2f3c55.json)
+
+[Extended Data](ext_articles/5a2f3c55.ext.json)
+
+---
+
+### VIP - Assets of the Palmyra Comprehension - Liabilities
+
+*2025-09-27 13:00:03* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පරභ-නරපරභ-මලමව-වතකම-බරකම/2-680309) · `si`
+
+His assets published on the Bribery or Corruption Minister Wasantha Samarasinghe, the Minister of Commerce, Cooperation and Co-operatives has been presented in the website of Bribery or Corruption.
+
+It is why his assets say that the value of his assets is about seven and a half crores. Critics question whether a leader of the proletariat has such a large wealth.
+
+When the JVP is a full-time activist in the JVP, JVP members and supporters of the JVP are at times of the JVP policy.
+
+Now, some question some. They ask whether Mr. Samarasinghe is the most relative of the JVP as a full-time activist, but as a relatively large wealth.
+
+Foreign Affairs Minister Vijitha Herath, the leaders of the national promos. Several vocational education Deputy Minister of Education Nalin Hewage and some of the opposition parties are questioning the assets of Nalin Hewage.
+
+...
+
+[Data](articles/3e773cc2.json)
+
+[Extended Data](ext_articles/3e773cc2.ext.json)
 
 ---
 
@@ -186,6 +388,26 @@ President Anurakumara posted on his Facebook page that there was a concurry conv
 [Data](articles/b304d04c.json)
 
 [Extended Data](ext_articles/b304d04c.ext.json)
+
+---
+
+### வத்தளையில் ஐஸ் போதைப்பொருளுடன் கைதுசெய்யப்பட்டவர் பல்வேறு குற்றச்செயல்களுடன் தொடர்புடையவர் என அடையாளம்!
+
+*2025-09-27 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226224) · `ta`
+
+வத்தளை, எலகந்த பகுதியில் கடந்த திங்கட்கிழமை (22)  ஐஸ் போதைப் பொருட்களுடன் கைது செய்யப்பட்ட சந்தேக நபர் , நாடு முழுவதும் பதிவான பல கொள்ளை மற்றும் துப்பாக்கிச் சூட்டுச் சம்பவங்களுடன் தொடர்புடையவர் என  அடையாளம் காணப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வத்தளை பொலிஸ் பிரிவின் எலகந்த பகுதியில் நடத்தப்பட்ட சிறப்பு நடவடிக்கையின் போது, களனி பிரிவு குற்றப் புலனாய்வுத் துறை அதிகாரிகள் குழுவால் கடந்த திங்கட்கிழமை (22)  வயதுடைய குறித்த சந்தேக நபர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட நபர் வடக்கு முல்லேரியாவைச் சேர்ந்த 45 வயதுடையவர் என்பதுடன் இவரிடமிருந்து 10.2 கிராம் ஐஸ் போதைப்பொருளையும் பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+மேலும் சந்தேக நபர் இந்த போதைப்பொருளை விற்பனை செய்யும் நோக்கத்துடன் வைத்திருந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+
+இந்நிலையில் சந்தேக நபர் கைது செய்யப்பட்டு கடந்த  செவ்வாய்க்கிழமை (23) வெலிசறை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் சந்தேக நபரை 07 நாட்கள் தடுப்புக்காவலில் வைக்க நீதிமன்றம் பொலிஸாருக்கு உத்தரவிட்டது.
+
+...
+
+[Data](articles/8b11aac6.json)
 
 ---
 
@@ -383,6 +605,26 @@ The van is raised by the van while the van was taken out of a large tree while h
 
 ---
 
+### மேலதிக வகுப்புகளுக்கு செல்லும் மாணவர்களை இலக்கு வைத்து போதைப்பொருள் விற்பனை ; இளைஞன் கைது!
+
+*2025-09-27 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226227) · `ta`
+
+பொலன்னறுவை, மெதிரிகிரிய பிரதேசத்தில் போதைப்பொருள் விற்பனையில் ஈடுபட்ட இளைஞன் ஒருவன் மெதிரிகிரய பொலிஸாரால் நேற்று வெள்ளிக்கிழமை (26) கைதுசெய்யப்பட்டுள்ளார்.
+
+மெதிரிகிரய பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபரான இளைஞன் போதைப்பொருட்களுடன் கைதுசெய்யப்பட்டுள்ளார்.
+
+இவர் மருதானையிலிருந்து மெதிரிகிரிய பிரதேசத்திற்கு போதைப்பொருட்களை கொண்டு சென்று மேலதிக வகுப்புகளுக்கு செல்லும் மாணவர்கள் மற்றும் பிரதேச மக்களுக்கு போதைப்பொருட்களை விற்பனை செய்து வந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+கைதுசெய்யப்பட்ட இளைஞனிடமிருந்து 4 கிராம் 100 மில்லி கிராம் ஹொரோயின் , 7 கிராம் 25 மில்லி கிராம் ஐஸ் மற்றும் போதைப்பொருள் விற்பனை மூலம் சம்பாதித்த 14  இலட்சம் ரூபாய் பணம் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+இதனையடுத்து கைதுசெய்யப்பட்ட இளைஞனை இன்று சனிக்கிழமை (27) ஹிங்குரக்கொட நீதவான் நீதிமன்றில் ஆஜர்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/3069d4e0.json)
+
+---
+
 ### Doctor injured in accident
 
 *2025-09-27 11:35:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මටර-රථ-අනතරන-තවල-ලබ-වදයවරයක-රහලට/1-680305) · `si`
@@ -488,6 +730,44 @@ Accordingly, the National Building Research Institute further stated that the la
 [Data](articles/80479839.json)
 
 [Extended Data](ext_articles/80479839.ext.json)
+
+---
+
+### சம்மாந்துறை பொலிஸாரின் அதிரடி நடவடிக்கை ; பலர் கைது, 20 மோட்டார் சைக்கிள்கள் கைப்பற்றல்
+
+*2025-09-27 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226216) · `ta`
+
+சம்மாந்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் தலைக்கவசம் அணியாமை, சாரதி அனுமதிப்பத்திரம் இல்லாமை மற்றும் போக்குவரத்து சட்ட திட்டங்களை மீறிய குற்றச்சாட்டுகளின் கீழ் பலரை சம்மாந்துறை பொலிஸார் கைது செய்துள்ளனர். அத்தோடு மோட்டார் சைக்கிளையும் சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரி தலைமையிலான குழுவினர் கைப்பற்றியுள்ளனர்.
+
+இந்த நடவடிக்கை வெள்ளிக்கிழமை (26)  அம்பாறை மாவட்டம், சம்மாந்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பிரதான வீதியில் நடைபெற்றது.
+
+சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரிக்கு கிடைக்கப்பெற்ற முறைப்பாட்டிற்கு அமைய மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கையின் நடவடிக்கையின் போது சிலர் கைது செய்யப்பட்டுள்ளனர்.
+
+அத்துடன், சில மோட்டார் சைக்கிளையும் பொலிஸார் கைப்பற்றியுள்ளதுடன், கைது செய்யப்பட்டவர்கள் உள்ளிட்ட சான்றுப் பொருள்கள் என்பன சட்ட நடவடிக்கைக்காக சம்மாந்துறை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளன.
+
+குறித்த சுற்றிவளைப்பு நடவடிக்கையில் சம்மாந்துறை, சவளக்கடை, மத்திய முகாம் பொலிஸார் கடமையில் ஈடுபடுத்தப்பட்டனர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3fc3744c.json)
+
+---
+
+### முச்சக்கரவண்டி மரத்தில் மோதி விபத்து : பெண் பலி ; இருவர் காயம்!
+
+*2025-09-27 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226214) · `ta`
+
+இரத்தினபுரியில் கொலன்ன பொலிஸ் பிரிவுக்கு உட்பட்ட அலிவாடிய பிரதேசத்தில் இடம்பெற்ற விபத்தில் பெண் ஒருவர் உயிரிழந்துள்ளதாக கொலன்ன பொலிஸார் தெரிவித்தனர்.
+
+வலக்கடை நோக்கிச் சென்ற முச்சக்கரவண்டி ஒன்று மரத்தில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் முச்சக்கரவண்டி சாரதி மற்றும் பின் இருக்கையில் இருந்த இரண்டு பெண்கள் பலத்த காயமடைந்துள்ளனர்.
+
+சிகிச்சை  பெற்றுவந்த மற்றொரு பெண் மேலதிக சிகிச்சைகளுக்காக எம்பிலிப்பிட்டிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/8ee25eb7.json)
 
 ---
 
@@ -1816,291 +2096,5 @@ As the world marks World Tourism Day today, on 27 September, Sri Lanka stands at
 [Data](articles/70dbb290.json)
 
 [Extended Data](ext_articles/70dbb290.ext.json)
-
----
-
-### City-centric approaches to climate-related human mobility
-
-*2025-09-26 23:40:02* · [`dailyftlk`](https://www.ft.lk/columns/City-centric-approaches-to-climate-related-human-mobility/4-782238) · `en`
-
-City-centric approaches to climate-related human mobility recognise that adaptation is increasingly an urban challenge
-
-As the impacts of climate change become more frequent and intense, people across the globe are forced to adapt. In many cases, adaptation takes place within communities and areas by addressing vulnerabilities and enhancing adaptative capacities, thereby building short- and long-term climate resilience. However, climate change also causes movement, either by choice (e.g., voluntary migration in search of better incomes) or by force (e.g., displacement due to disasters or relocation of coastal populations in the face of sea level rise). Much of this movement goes from rural to urban or peri-urban areas, which are often perceived as desirable locations due to employment options, family connections, and other opportunities.
-
-...
-
-[Data](articles/e39f8cf0.json)
-
-[Extended Data](ext_articles/e39f8cf0.ext.json)
-
----
-
-### Institution of Bribery?
-
-*2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලසට-බරම-ආයතනය/1-680300) · `si`
-
-The Bribery Commission has conducted a wide survey last year to the preparation of the National Policy Plan, and the first place between the institutions identified as more orientally oriented institutions.
-
-He said that the second place politicians and the third place is Sri Lanka Customs. He said that the four-like place will be entitled to the Immigration and Emigration Office, the Ministries of the Ministry of Lands, Provincial Councils, Divisional Secretariats, Register General's Office.
-
-He stated that the complaints received when the public identifors the research and the Commission of Bribery or Corruption Commission have identified the 5 institutions mainly to the economy.. Sri Lanka Customs has won the first place and is owned by the Department of Inland Revenue and the Provincial Revenue Department and the Provincial Revenue Department.. He said he was the remaining institutions of the Excise, Immigration and Emigration and Motor Traffic Departments.
-
-◼️
-
-[Data](articles/3b1e2252.json)
-
-[Extended Data](ext_articles/3b1e2252.ext.json)
-
----
-
-### Institution of Bribery?
-
-*2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලසට-බරම-ආයතනය/101-680300) · `si`
-
-The Bribery Commission has conducted a wide survey last year to the preparation of the National Policy Plan, and the first place between the institutions identified as more orientally oriented institutions.
-
-He said that the second place politicians and the third place is Sri Lanka Customs. He said that the four-like place will be entitled to the Immigration and Emigration Office, the Ministries of the Ministry of Lands, Provincial Councils, Divisional Secretariats, Register General's Office.
-
-He stated that the complaints received when the public identifors the research and the Commission of Bribery or Corruption Commission have identified the 5 institutions mainly to the economy.. Sri Lanka Customs has won the first place and is owned by the Department of Inland Revenue and the Provincial Revenue Department and the Provincial Revenue Department.. He said he was the remaining institutions of the Excise, Immigration and Emigration and Motor Traffic Departments.
-
-◼️
-
-[Data](articles/cfe5f0e6.json)
-
-[Extended Data](ext_articles/cfe5f0e6.ext.json)
-
----
-
-### The fastest car in the world
-
-*2025-09-26 22:43:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලව-වගතවතම-මටර-රථය/1-680299) · `si`
-
-The world's leading electronic car manufacturer, the world's leading electrical car manufacturer to produce the world's fastest car.. The car named Yangwan U 9 Xstremes "The car has recorded a maximum speed of 496.22 kg.
-
-චීනයේ බී.වයි.ඩී සමාගම මෙලෙස බිඳ දමා ඇත්තේ බුගාටි චිරෝන් සුපර් ස්පෝර්ට් 2019 හිමිකර ගෙන තිබූ වාර්තාවය. The car is capable of running at a maximum speed of 490.5 kg per hour. This is the first time an electronic car has won this report. "Yangwan U 9 Extreme is sold to US $ 233,000 (Rs.
-
-Electronic cars have been able to win 50 percent of the world's new vehicles.
-
-◼️
-
-[Data](articles/ce7e26d9.json)
-
-[Extended Data](ext_articles/ce7e26d9.ext.json)
-
----
-
-### "The food is sending 130 billion tonnes a year
-
-*2025-09-26 22:39:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආහර-ටන-කට-130ක-වසරක-අපත-යවනව/1-680298) · `si`
-
-The people in the world were sending wastes for 130 billion tonnes a year, and the United Nations Food and Agriculture Organization of the United Nations Food and Agriculture Organization for the Maldives recently said.
-
-Sharon said that the people could lose the hunger of the 300 million people in 130 tons of 130 tons of masses.
-
-He said that Sri Lanka was facing the challenge of wasting food and was revealed that 3963 tons of food waste is expected to generate 3963 tons of food waste per day.. He pointed out that the number of food waste generated annually was Rs. 14.4 million.
-
-He also said that 50 to 76 percent of the country's urban waste is food waste. He said 38 percent of these are domestic food and more than another 24 percent of the restaurants. He also said that 16 percent of the market and 12 percent generates 12 percent.
-
-He said that the highest waste was in the Western Province and 60 percent as a percentage.
-
-...
-
-[Data](articles/62e76711.json)
-
-[Extended Data](ext_articles/62e76711.ext.json)
-
----
-
-### 'Weerahera r.m.V. Services bribible
-
-*2025-09-26 22:30:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරහර-R-M-V-සවවලට-අලලස-ගනනව/1-680297) · `si`
-
-The Bribery Commission said that some government officials have received complaints that some government officials have obtained bribes in the Erahera of the Department of Motor Traffic.
-
-The bribery commission said that the driver's licensing officer was arrested by the driver's license press and a private security personnel at the court of Rs.
-
-Kaham Priyankara Sirisena and the Coastal Sirisena and the Coastal Council were produced in court.
-
-The Bribery Commission states that the suspects were arrested following a longest investigation by a complaint received by a complaint received by a complaint received.
-
-The second suspect has said that the office was obtained from the office.
-
-She had been working in a private security forces and asked for a bribe of Rs.
-
-The Commission requested that the suspects were remanded to be remanded for the suspects.
-
-...
-
-[Data](articles/cb37421c.json)
-
-[Extended Data](ext_articles/cb37421c.ext.json)
-
----
-
-### Shooting in Tissamaharama
-
-*2025-09-26 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226201) · `ta`
-
-A 58 -year -old man was killed in a shooting in Tissamaharama Chandungama area last Friday (26).
-
-Police said the attacker on a motorbike fled after he fired.
-
-Initial investigations revealed that the incident may have been due to the suspect's relationship with the wife of the deceased's son during police investigations.
-
-Tissamaharama police are conducting serious investigations to arrest the suspect in connection with the incident.
-
-◼️
-
-[Data](articles/28129a4d.json)
-
-[Extended Data](ext_articles/28129a4d.ext.json)
-
----
-
-### Sri Lanka target 203 runs
-
-*2025-09-26 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215052) · `si`
-
-Sri Lanka and India won the round of Sri Lanka and India won the toss and invited India to bat first.
-
-Accordingly, India scored 202 runs for the loss of 5 wickets in their five overs.
-
-ABHISEK SHARMA scored 61 runs for India and Tilak Varma scored 49 not out.
-
-Sanju Samson scored 39 runs, axar patel scored 21 runs, leader SURYAKUARI YADA.
-
-In bowling, Gigh Insightful, Veninduvaranga, Viein Shanaka, and Charath were present at one wicket.
-
-Sri Lanka is due to chase 203 runs.
-
-කෙසේ වෙතත් මෙය මෙවර ආසියානු කුසලාන තරගාවලියේ දී කණ්ඩායමක් විසින් ඉනිමක දී රැස් කළ වැඩිම ලකුණු ප්‍රමාණය ද වේ.
-
-◼️
-
-[Data](articles/fbfa343a.json)
-
-[Extended Data](ext_articles/fbfa343a.ext.json)
-
----
-
-### Tea fertilizer subsidy to QR
-
-*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
-
-The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
-
-By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
-
-The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
-
-Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
-
-The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
-
-The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
-
-◼️
-
-[Data](articles/56b83a5f.json)
-
-[Extended Data](ext_articles/56b83a5f.ext.json)
-
----
-
-### Tea fertilizer subsidy to QR
-
-*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ත-පහර-සහනධරය-QR-කරමයට/1-680296) · `si`
-
-The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
-
-By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
-
-The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
-
-Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
-
-The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
-
-The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
-
-◼️
-
-[Data](articles/9ed675f7.json)
-
-[Extended Data](ext_articles/9ed675f7.ext.json)
-
----
-
-### Tissamaharama area shooting: One death
-
-*2025-09-26 21:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திஸ்ஸமஹாராம-பகுதியில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-365356) · `ta`
-
-A shooting incident took place at 5 pm today (26) in Tissamaharama Muttiyam.
-
-The shooting was also reported to be the result of a relationship between the gunman and the wife of the son of the deceased.
-
-Police said investigations are currently underway to arrest the suspect. Remble
-
-◼️
-
-[Data](articles/67b750ee.json)
-
-[Extended Data](ext_articles/67b750ee.ext.json)
-
----
-
-### 58-year-old shot dead in Tissamaharama
-
-*2025-09-26 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112950/58-year-old-shot-dead-in-tissamaharama) · `en`
-
-A 58-year-old individual has died following a shooting incident reported in the Sandungama area in Tissamaharama this evening (26).
-
-The incident occurred in the Muthiyammana area at around 5.00 p.m. when the victim was shot with a home-made ‘Galkatas’ type firearm which uses 12-bore ammunition, police said.
-
-According to reports, the assailant arrived on a motorcycle, carried out the shooting, and fled the scene.
-
-Police further stated that the suspect is believed to be a resident of the same area.
-
-Preliminary investigations have revealed that the shooting may have stemmed from a personal dispute, reportedly linked to a relationship between the suspect and the wife of the deceased’s son.
-
-Tissamaharama Police have launched further investigations to apprehend the suspect.
-
-◼️
-
-[Data](articles/b2346a05.json)
-
-[Extended Data](ext_articles/b2346a05.ext.json)
-
----
-
-### Central Environmental Authority Joins Gov Pay
-
-*2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
-
-The Central Environmental Authority (GOV Pay) was commenced today.
-
-The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
-
-◼️
-
-[Data](articles/6cff156d.json)
-
-[Extended Data](ext_articles/6cff156d.ext.json)
-
----
-
-### Central Environmental Authority Joins Gov Pay
-
-*2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/1-680295) · `si`
-
-The Central Environmental Authority (GOV Pay) was commenced today.
-
-The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
-
-◼️
-
-[Data](articles/9c7cc34a.json)
-
-[Extended Data](ext_articles/9c7cc34a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 21:38:39**
+As of **2025-09-27 22:09:03**
 
 ## Newspaper Stats
 
-*Scraped **78,991** Articles*
+*Scraped **78,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,19 +21,57 @@ adalk | 7,626
 adaderanalk | 10,206
 tamilmirrorlk | 11,835
 virakesarilk | 12,837
-adaderanasinhalalk | 13,715
+adaderanasinhalalk | 13,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,988 (100.0%) of 78,991 articles have been extended.
+78,992 (100.0%) of 78,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### கரூர் செய்தி கவலையளிக்கிறது: தமிழக முதல்வர்
+### මරදානේ විශේෂ පොලිස් මෙහෙයුමක්
+
+*2025-09-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215082) · `si`
+
+මරදාන ප්‍රදේශයේ අද (27) සවස පොලීසිය විසින් විශේෂ මෙහෙයුමක් සිදු කර තිබේ.
+
+මරදාන stroke place ඇතුළු ස්ථාන කිහිපයක් මුල් කර ගනිමින් මෙම විශේෂ මෙහෙයුම ක්‍රියාත්මක කර ඇත.
+
+එහිදී වරෙන්තුකරුවන් හා විවිධ අපරාධවලට සම්බන්ධ පුද්ගලයන් තිස් දෙනෙකු අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/44747c61.json)
+
+---
+
+### Agricultural and Agrarian Insurance Board receives highest progress in the last year
+
+*2025-09-27 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215081) · `si`
+
+The agriculture and the Agrarian Insurance Board (Agricultural and Agrarian) (agricultural and Agrarian) has been able to achieve the highest progress in the Ministry of Agriculture, Livestock, Land and Irrigation.
+
+The Chairman of the Board Chairman Premadasiri Jasinghahahachchi said that the amount of financial assets could be increased to Rs.
+
+The new resources insurance scheme have been able to implement the new insurance schemes for cinnamon, rubber and banana plantations that cattle, rubber and bananas cultivation have been introduced under the Livestock Insurance Scheme.
+
+He also said that the accident is also introduced to Kithul, Palmyra and Coconut industrialists.
+
+The fishermen have not paid attention to the risk of the fishermen, and the Department of Agriculture has been given to the Board, No. 20 of 1999 and is also a dangerous death life insurance scheme for all the warning.
+
+...
+
+[Data](articles/bdae452a.json)
+
+[Extended Data](ext_articles/bdae452a.ext.json)
+
+---
+
+### Karur news is worried: Chief Minister of Tamil Nadu
 
 *2025-09-27 21:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-செய்தி-கவலையளிக்கிறது-தமிழக-முதல்வர்/175-365385) · `ta`
 
@@ -41,33 +79,39 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/913c4962.json)
 
+[Extended Data](ext_articles/913c4962.ext.json)
+
 ---
 
-### விஜய் கூட்டத்தில் 2பேர்9  உயிரிழப்பு.
+### 2 people died in Vijay meeting.
 
 *2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-2பேர்9-உயிரிழப்பு/175-365384) · `ta`
 
-தமிழகத்தின் கரூரில் விஜய் நடத்திய பரப்புரையில் ஏற்பட்ட நெரிசலில் சிக்கி 3 குழந்தைகள் உட்பட 29 பேர் உயிரிழப்பு.
+29 people, including 3 children, were killed in a congestion in Vijay's campaign in Karur in Tamil Nadu.
 
 ◼️
 
 [Data](articles/ebe168d0.json)
 
+[Extended Data](ext_articles/ebe168d0.ext.json)
+
 ---
 
-### இலங்கையில் சடுதியாக அதிகரிக்கும் விவாகரத்து
+### Divorce in Sri Lanka
 
 *2025-09-27 20:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சடுதியாக-அதிகரிக்கும்-விவாகரத்து/175-365383) · `ta`
 
-இலங்கையில் அதிகரித்து வரும் விவாகரத்து விகிதம் காரணமாக பெண்கள் தலைமைதாங்கும் குடும்பங்களின் எண்ணிக்கை சீராக உயர்ந்து வருவதாக களனிப் பல்கலைக்கழகத்தின் சமூகவியல் துறையின் சிரேஷ்ட விரிவுரையாளர் கலாநிதி அனோஷா எதிரிசிங்க தெரிவித்தார்.
+Senior Lecturer of the Department of Sociology at the University of Kelaniya, Dr. Anosha Etirisinghe said that the number of women headed families is rising steadily due to the rising divorce rates in Sri Lanka.
 
-பெண்களின் நிதி நிலைத்தன்மையை வலுப்படுத்துவது அவர்களின் குடும்பங்களின் நல்வாழ்வுக்கும் பரந்த சமூகத்துக்கும் அத்தியாவசியமானது என்றும் அவர் வலியுறுத்தினார்.
+He emphasized that strengthening women's financial stability is essential to the well -being of their families and the vast community.
 
-எனவே, பெண்களுக்குப் பொருளாதார ரீதியாக அதிகாரம் அளிக்க வேண்டியதன் அவசரத் தேவையையும் அவர் சுட்டிக்காட்டினார். R
+He, therefore, also pointed out the urgent need for women to be economically empowered. Remble
 
 ◼️
 
 [Data](articles/4af83bbb.json)
+
+[Extended Data](ext_articles/4af83bbb.ext.json)
 
 ---
 
@@ -2016,49 +2060,5 @@ It is reported that President Anura Kumara Dissanayake, who met French President
 [Data](articles/3eb9f046.json)
 
 [Extended Data](ext_articles/3eb9f046.ext.json)
-
----
-
-### Notification for all tax payers
-
-*2025-09-27 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215064) · `si`
-
-2024/2025 Inland Revenue Department has given all the taxpayers to carry out the final income tax payments for the valuation period.
-
-This order is relevant to companies, corporations, joint ventures and other registered institutions.
-
-The Tax Taxes, which is not waiting for the payment sheets, can be done by online tax payment facility (OTPP) by any branch of Bank of Ceylon.
-
-Physical payment papers are not staying for physical payment papers, referring to delays or negative payments.
-
-The Department of Inland Revenue is informed that all taxes are informed or not paying taxes or reduced or reduce the delay and interest on delay payments.
-
-◼️
-
-[Data](articles/b1adb21d.json)
-
-[Extended Data](ext_articles/b1adb21d.ext.json)
-
----
-
-### Sri Lanka business delegation to visit Japan
-
-*2025-09-27 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-business-delegation-to-visit-japan-242005/) · `en`
-
-ECONOMYNEXT – A team of 18 Sri Lankan business leaders are set to visit Japan later this month, the Sri Lanka–Japan Business Council (SLJBC) of The Ceylon Chamber of Commerce said.
-
-The delegation is led by Krishan Balendra, chairperson of the chamber and John Keells Holdings, and the visit will coincide with the President Anura Dissanayake’s visit to Japan.
-
-A key feature of the visit will be the Business Forum in Tokyo, organised in partnership with the Japan Chamber of Commerce and Industry (JCCI), the Japan External Trade Organization (JETRO), the Ministry of Economy, Trade and Industry (METI), and the Japan International Cooperation Agency (JICA).
-
-The visit is aimed at facilitating new trade, investment, and collaboration opportunities between the two countries, the chamber said.
-
-“The delegation will participate in targeted B2B sessions in Osaka, organized by the Export Development Board, enabling Sri Lankan companies to connect directly with potential Japanese partners.”
-
-...
-
-[Data](articles/5043c046.json)
-
-[Extended Data](ext_articles/5043c046.ext.json)
 
 ---

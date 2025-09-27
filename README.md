@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 17:40:57**
+As of **2025-09-27 18:19:05**
 
 ## Newspaper Stats
 
-*Scraped **78,933** Articles*
+*Scraped **78,942** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 339
-newsfirstlk | 439
+lankadeepalk | 344
+newsfirstlk | 441
 dbsjeyarajcom | 635
 bbccomsinhala | 706
-colombotelegraphcom | 793
+colombotelegraphcom | 795
 economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
@@ -27,25 +27,115 @@ adaderanasinhalalk | 13,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,932 (100.0%) of 78,933 articles have been extended.
+78,940 (100.0%) of 78,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### கேபிள் கார் விபத்தில் உயிரிழந்த பிக்குகளுக்கு சஜித் இறுதி அஞ்சலி
+### Floods, Strong Winds and Heavy Rain Hit Multiple Provinces
+
+*2025-09-27 17:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/floods-strong-winds-and-heavy-rain-hit-multiple-provinces) · `en`
+
+COLOMBO(News 1st); One person has died, and 58 people from 17 families have been affected by disasters caused by heavy rains.The Disaster Management Center reported that 15 houses were partially damaged in the Galle, Kalutara, and Jaffna districts.Meanwhile, the Department of Meteorology warns that the deep-sea area of the Bay of Bengal may become very rough at times, with wind speeds reaching 55–65 km/h. Fishermen and naval personnel are urged to exercise caution while sailing.Showers are expected at times in the Western, Sabaragamuwa, Northwestern, and Southern provinces, as well as in the Kandy and Nuwara Eliya districts. Some areas, including Galle, Matara, Kandy, and Nuwara Eliya, may experience heavy rainfall exceeding 50 mm.Strong winds of 40–50 km/h are predicted in the western slopes of the Central Highlands, and in the Central, Northern, North-Central, and Northwestern provinces, as well as in the Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/177998cb.json)
+
+---
+
+### Major Cities on High Alert as Dengue Threat Looms
+
+*2025-09-27 17:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/major-cities-on-high-alert-as-dengue-threat-looms) · `en`
+
+COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destroy mosquito breeding sites during the rainy season.Public Medical Consultant of the National Dengue Control Unit, Prashila Samaraweera stated that Colombo, Gampaha, Jaffna, and Batticaloa districts have been identified as high-risk areas for dengue.So far this year, a total of 38,702 dengue cases have been reported.Twenty-one people have died from dengue complications.
+
+◼️
+
+[Data](articles/ffb79d83.json)
+
+---
+
+### Narahenpita renews railway station
+
+*2025-09-27 17:22:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නරහනපට-දමරය-පළ-අලත-කරය/1-680327) · `si`
+
+The refurbishment of Narahenpita Railway Station began today (27) under the Dream Destination program.
+
+Narahenpita Railway Station, regarding the Kelani Sand Road, is located in the middle of the Kotara Road and the Kirulapone Railway Station.
+
+The station is located in two main platforms and one ticket counter from Colombo from 5.06km.
+
+The rank of the Department of Labor, Department of Motor Traffic, including the Department of Motor Traffic, including the Department of Motor Traffic, and Semi-State and Private Institution are using a large number of passengers traveling to everyday duties.
+
+The construction of a passenger flyover to the comfort of the railway stations, the construction of a passenger flyover development, enhance the roof of the second platform, is implemented with full sponsorship and cozy facilities to train passengers.
+
+◼️
+
+[Data](articles/1d60ebbe.json)
+
+[Extended Data](ext_articles/1d60ebbe.ext.json)
+
+---
+
+### 450 institutions called for '' White Ali '
+
+*2025-09-27 16:50:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සද-අල-හයනන-ආයතන-450කන-වරත-කඳවය/1-680326) · `si`
+
+The Parliamentary Committee on Public Enterprises (COPE) has decided to expand the performance of 450 state institutions.
+
+Accordingly, the COPE committee is being taken to summon the written reports to obtain information on how the recommendations of the Audit Reports.
+
+Commenting in this regard, COPE Chairman Dr. Nishavi Samaraweera says that the most corruption and irregularities are being selected for investigations.
+
+Nishantha Samaraweera added that the heads of corruption and irregularities will soon be taken to the Committee on corruption and corruption, corruption and corruption.
+
+◼️
+
+[Data](articles/33e097f8.json)
+
+[Extended Data](ext_articles/33e097f8.ext.json)
+
+---
+
+### Good entrepreneurs '' 'full'
+
+*2025-09-27 16:22:32* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හඳ-වයවසයකයන-බහකරන-පරපන-වඩක/1-680323) · `si`
+
+The Field Organization has launched a new program to create new entrepreneurs at the ground level with a national transformation.
+
+The first stage of empowering ground-level women's entrepreneurs, Mr. Ananda Vasaganha said at a press conference held in Colombo.
+
+Accordingly, the filled householders will be provided with 1,000 small business locations (boxes - boxes) in the country under the first round.   He said that they would allow them to start their own micro-level movements.
+
+He further stated that it will get attitude to prepare for business preparations and that these people will be involved in structured programs to make them strong entrepreneurs.
+
+The Field Organization has established the main objective of accepting the existing governance as the main objective of making a good governance beyond it.
+
+◼️
+
+[Data](articles/ac15463e.json)
+
+[Extended Data](ext_articles/ac15463e.ext.json)
+
+---
+
+### Sajith's final tribute to monks died in a cable car accident
 
 *2025-09-27 16:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்தில்-உயிரிழந்த-பிக்குகளுக்கு-சஜித்-இறுதி-அஞ்சலி/175-365369) · `ta`
 
-குருணாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் கார் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் உள்நாட்டு மற்றும் வெளிநாட்டைச் சேர்ந்த ஏழு பிக்குகள் உயிரிழந்தனர்.
+Seven monks from domestic and abroad were killed when a cable car crashed between the monasteries in the Aranya Senasana, Kurunegala, Melsiripura Na, collapsed.
 
-இத்துயர் சம்பவத்தில் உயிரிழந்த பிக்குகளின் பூதவுடல்கள்  மெல்சிரிபுர நா உயன ஆரண்ய சேனாசனத்தில் வைக்கப்பட்டுள்ளன.
+The bodies of the monks who died in this incident have been placed in the Melziripura Na Aranya Senasanasana.
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (27) இப்பூதவுடல்களுக்கு இறுதி அஞ்சலி செலுத்தினார்.R
+Opposition Leader Sajith Premadasa paid a final tribute to the Buddhists today (27).
 
 ◼️
 
 [Data](articles/8c2f8890.json)
+
+[Extended Data](ext_articles/8c2f8890.ext.json)
 
 ---
 
@@ -196,6 +286,46 @@ Under this project, a hundred primary health care centers, which will be easily 
 [Data](articles/3d693ca5.json)
 
 [Extended Data](ext_articles/3d693ca5.ext.json)
+
+---
+
+### Health Challenges Somehow
+
+*2025-09-27 15:26:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සඛය-අභයග-කහම-හර-දනනව/1-680315) · `si`
+
+Health and Mass Media Media Media Dr. Nalinda Jayamattha said he would win the challenges in the health sector since ancient times.
+
+The Minister of Hooguma Health Center, Galle was the first center of the project of the project for the project formed across the country.
+
+The center provides health services for nearly five thousand people living in the Grama Niladhari Divisions in Mapalagama, Talgaswala, Gonalagoda East.
+
+Under this project, a hundred primary health care centers, which will be easily accessible to the people, is designated as a closer in an easy-to-accessible location.
+
+◼️
+
+[Data](articles/862c911e.json)
+
+[Extended Data](ext_articles/862c911e.ext.json)
+
+---
+
+### Mabbuke is a big chair in Parliament
+
+*2025-09-27 15:11:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මබබකට-පරලමනතව-ලක-පටවක/1-680314) · `si`
+
+Mabbuke Marzork, who served as Deputy Director (Administration), has been promoted to the post of Administrative Director of Parliament
+
+He acted as the Deputy Director (Administrative) to the post of Administration as the Assistant Director of the Public Petitions Committee.
+
+Speaking to Measby Members of Parliament as a parliamentarian for a period of time is a special competency to prepare Sinhala English and Tamil languages.
+
+Udaya Munasinghe was vacant by retirement from the post of PSSP
+
+◼️
+
+[Data](articles/7f108f04.json)
+
+[Extended Data](ext_articles/7f108f04.ext.json)
 
 ---
 
@@ -931,6 +1061,18 @@ The visit is aimed at facilitating new trade, investment, and collaboration oppo
 
 ---
 
+### When Journalism Amplifies Apartheid: The Jaffna Monitor & The Israeli Narrative
+
+*2025-09-27 11:59:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-journalism-amplifies-apartheid-the-jaffna-monitor-the-israeli-narrative/) · `en`
+
+...
+
+[Data](articles/8ff6f481.json)
+
+[Extended Data](ext_articles/8ff6f481.ext.json)
+
+---
+
 ### The opposition asks for good food
 
 *2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වපකෂය-හඳ-කම-ඉලලය/1-680308) · `si`
@@ -1230,6 +1372,20 @@ It is noteworthy that the Central Campaign and Central Camp Police were on duty 
 [Data](articles/3fc3744c.json)
 
 [Extended Data](ext_articles/3fc3744c.ext.json)
+
+---
+
+### History Will Not Forgive Us
+
+*2025-09-27 11:18:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/history-will-not-forgive-us/) · `en`
+
+“Always go too far, because that’s where you’ll find the truth” ~ Albert Camus
+
+...
+
+[Data](articles/33b79d4d.json)
+
+[Extended Data](ext_articles/33b79d4d.ext.json)
 
 ---
 
@@ -1912,195 +2068,5 @@ PM Shehbaz, who spoke for the third time to the 193-member world body, began his
 [Data](articles/160a40af.json)
 
 [Extended Data](ext_articles/160a40af.ext.json)
-
----
-
-### The dispute between the two servants of the same institution end the death
-
-*2025-09-27 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215057) · `si`
-
-A woman was admitted to the Mulleriyawa Hospital with serious injuries due to a attack.
-
-Police said that the incident had occurred in Angoda area in the Welikada area yesterday.
-
-The suspect is a neighborhood and the deceased woman and the suspect have been cleaned by a single institution.
-
-Investigations have revealed that the suspect had been assaulted by the suspect at the woman's house at the woman's house and had committed the murder.
-
-Welikada Police are conducting further investigations.
-
-◼️
-
-[Data](articles/915950f6.json)
-
-[Extended Data](ext_articles/915950f6.ext.json)
-
----
-
-### Bribery Commission to file indictments against Rajitha Senaratne
-
-*2025-09-27 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/112952/bribery-commission-to-file-indictments-against-rajitha-senaratne-) · `en`
-
-The Bribery Commission informed the Colombo Magistrate’s Court that indictments will be filed before the High Court against former Fisheries Minister Rajitha Senaratne and two others, over allegations that the government incurred a loss of more than Rs. 26 million by awarding the sand mining project at the Kirinda Fishery Harbour to a Korean company in violation of legal procedures.
-
-The case was taken up before Colombo Chief Magistrate Asanka S. Bodaragama yesterday (26), said Ada Derana reporter.
-
-Bribery Commission officials informed the court that indictments would be filed before the High Court following the completion of investigations into the incident.
-
-Former Fisheries Minister Rajitha Senaratne and former Chairman of the Ceylon Fishery Harbour Corporation, Upali Liyanage, have been named as defendants in the case. Both have been released on bail.
-
-◼️
-
-[Data](articles/91b2309a.json)
-
-[Extended Data](ext_articles/91b2309a.ext.json)
-
----
-
-### Fairly heavy rainfall expected in parts of the island
-
-*2025-09-27 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112951/fairly-heavy-rainfall-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department states that showers will occur at times in Western, Sabaragamuwa, North-western, and Southern provinces, and in Kandy and Nuwara Eliya districts.
-
-Fairly heavy rainfall of above 50 mm is likely at some places in Western, Sabaragamuwa, and North-western provinces, and in Galle, Matara, Kandy, and Nuwara Eliya districts.
-
-Light showers may occur in the North-central Province, and in Matale, Mannar, and Jaffna districts, the Department said.
-
-Strong winds of about 40–50 kmph can be expected at times over the western slopes of the central hills, and in Central, Northern, North-central, and North-western provinces, as well as in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds.
-
-◼️
-
-[Data](articles/6a0a4128.json)
-
-[Extended Data](ext_articles/6a0a4128.ext.json)
-
----
-
-### Death
-
-*2025-09-27 07:03:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-விழுந்த-இளைஞர்-உயிரிழப்பு/175-365361) · `ta`
-
-Yall. A young man who fell into the sea died while fishing in the Mandi Island Sea.
-
-The deceased is Sivarathinam Santos (age 17) from Sawakkadu Anaikottai.
-
-In the early hours of Friday morning (26), Jaffna went to fish with a small father. He died when she was taken to the teaching hospital.
-
-Jaffna regarding this death. District Sudden Death Investigation Officer Arumugam Jayapalasingham conducted investigations. The witnesses were regulated by the Manipay police.
-
-◼️
-
-[Data](articles/5676a2e9.json)
-
-[Extended Data](ext_articles/5676a2e9.ext.json)
-
----
-
-### EU gives Sri Lanka 8mn for biodiversity conservation and solid waste management
-
-*2025-09-27 07:00:00* · [`economynextcom`](https://economynext.com/eu-gives-sri-lanka-8mn-for-biodiversity-conservation-and-solid-waste-management-242013/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed an 8 million euro grant agreement with the European Union to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management, the Ministry of Finance said.
-
-The 8 million euro grant will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices.
-
-“Biodiversity is one of the most important assets of Sri Lanka, and through this project we will work together with the authorities to strengthen its protection by improving management of waste,” EU Ambassador Carmen Moreno said.
-
-The European Union contributes to these connections through its Global Gateway Strategy.
-
-...
-
-[Data](articles/07973b55.json)
-
-[Extended Data](ext_articles/07973b55.ext.json)
-
----
-
-### It is notified that the indictment will be indicted against Rajitha
-
-*2025-09-27 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215056) · `si`
-
-The Bribery Commission was informed by the Bribery Magistrate yesterday (26), alleging that the government was charged by the High Court for a Korean company.
-
-The case was called before Colombo Chief Magistrate Asanka S. Bodaragama yesterday.
-
-The Bribery Commission informed the court that the suspects would be indicted in the High Court against the suspects after the investigation into the incident.
-
-Former Fisheries Minister Rajitha Senaratne and the former Chairman of the Fisheries Ports Corporation have been named as the defendants.
-
-◼️
-
-[Data](articles/be5a96a6.json)
-
-[Extended Data](ext_articles/be5a96a6.ext.json)
-
----
-
-### Tension at midnight in the Mannar struggle: many injured
-
-*2025-09-27 06:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-போராட்டத்தில்-நள்ளிரவில்-பதற்றம்-பலர்-காயம்/175-365360) · `ta`
-
-Many women were injured in the attack on the police, as the fight against the windmill was taking place in Mannar last night.
-
-As people continue to fight against the wind power project in Mannar, there was an attempt to bring windmills into the island rather
-
-In this case, the police attacked the people who tried to quietly prevent the vehicles carrying windmills and the hospital.. (A)
-
-◼️
-
-[Data](articles/81a898b7.json)
-
-[Extended Data](ext_articles/81a898b7.ext.json)
-
----
-
-### The weather today
-
-*2025-09-27 06:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226210) · `ta`
-
-The Department of Meteorology has said that frequent rainfall is expected in Sabaragamuwa, Upper, North Western and Southern Provinces, Kandy and Nuwara Eliya districts.
-
-Heavy rains are expected to occur in some parts of the Sabaragamuwa, Western and North Western Provinces, as well as some areas of Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Heavy rains are expected in the North Central Province as well as in Matale, Mannar and Jaffna districts.
-
-Strong winds can be frequent at speeds of 40 - 50 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
-
-The public is asked to avoid damage to the cause of strong winds. ‌ ‌ ‌
-
-Rainfall is expected in many parts of the sea regions from Puttalam to Colombo and Hambantota.
-
-Winds from the southwest at 30 to 40 kilometers per hour in the sea regions.
-
-...
-
-[Data](articles/a74bd7b9.json)
-
-[Extended Data](ext_articles/a74bd7b9.ext.json)
-
----
-
-### A big rain today
-
-*2025-09-27 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215055) · `si`
-
-Showers will occur at times in the Western, Sabaragamuwa, North Western and Southern provinces today (27).
-
-The Department of Meteorology points out the weather forecast today, in some places in the Western, Sabaragamuwa and North Western provinces.. Heavy rains can occur in more than 50.
-
-The North-Central, Matale, Mannar, and Jaffna districts may occur.
-
-Whakinitura is situated in the Trincomalee, North, North-Central and North Western provinces, in the Central, North, North-Central and North Western Provinces.. 40-50. There will be about strong winds.
-
-The people requested the public to take measures to reduce the danger of strong winds.
-
-◼️
-
-[Data](articles/6e518eb9.json)
-
-[Extended Data](ext_articles/6e518eb9.ext.json)
 
 ---

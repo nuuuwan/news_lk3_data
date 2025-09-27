@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 14:08:30**
+As of **2025-09-27 14:37:47**
 
 ## Newspaper Stats
 
-*Scraped **78,886** Articles*
+*Scraped **78,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,45 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
 adaderanalk | 10,195
-tamilmirrorlk | 11,827
+tamilmirrorlk | 11,828
 virakesarilk | 12,807
-adaderanasinhalalk | 13,702
+adaderanasinhalalk | 13,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,885 (100.0%) of 78,886 articles have been extended.
+78,887 (100.0%) of 78,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Is the refrigerator more than 10 years old?
+
+*2025-09-27 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215068) · `si`
+
+The Sri Lanka Sustainable Energy Authority (SLMC) says that energy losses are more likely due to efficient electrical equipment.
+
+The institute shows that the use of refrigeration is increasing due to more than 10 years.
+
+The Director General of the Superintendent Harrien Wickremesinghe said this was revealed to the media after a ceremony with a ceremony.
+
+"In surveys, we learned that the efficient domestic electricity bills of Sri Lanka is a cause of high electricity electricity.
+
+There is this question in a refrigerator that uses more than 10 years. And in air conditioning.
+
+There are three inappropriate in use in the homes of the Western Province. As a result, electricity units will exceed 100 per month.
+
+Sri Lanka has stopped importing low equipment. By the end of this year, the law will also be raised to adapimedists.
+
+◼️
+
+[Data](articles/548775be.json)
+
+[Extended Data](ext_articles/548775be.ext.json)
+
+---
 
 ### 717 Arrested In Island-Wide Police Operation
 
@@ -42,6 +68,8 @@ COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide
 ◼️
 
 [Data](articles/1ee617c1.json)
+
+[Extended Data](ext_articles/1ee617c1.ext.json)
 
 ---
 
@@ -70,6 +98,22 @@ COLOMBO(News 1st); US President Donald Trump hosted a special dinner on the 23rd
 [Data](articles/84aa6707.json)
 
 [Extended Data](ext_articles/84aa6707.ext.json)
+
+---
+
+### டிரம்பை சந்தித்தார் அனுர
+
+*2025-09-27 13:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்பை-சந்தித்தார்-அனுர/175-365366) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க மற்றும் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் இருவருக்குமிடையில் சுமுகமான கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+
+லொட்டே நியூயோர்க் அரண்மனை ஹோட்டலில் ஜனாதிபதி டிரம்ப் வழங்கிய இரவு விருந்து நிகழ்ச்சியில் கலந்து கொண்டதாக போதே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+ஐக்கிய நாடுகள் சபையின் பொதுச் சபையின் (UNGA) 80வது அமர்வில் பங்கேற்க நியூயோர்க்கில் உள்ள அரச தலைவர்களுக்காக இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/6b283f98.json)
 
 ---
 
@@ -2058,37 +2102,5 @@ The payment method was officially opened and the signing and opening of the agre
 [Data](articles/9c7cc34a.json)
 
 [Extended Data](ext_articles/9c7cc34a.ext.json)
-
----
-
-### A / L Examine Inspectors Are Online
-
-*2025-09-26 20:56:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උ-පළ-වභග-පරකෂකයන-ඔනලයන-තරය/101-680294) · `si`
-
-Commissioner General of Examinations Indika Kumari Liyanage announced that applications were invited online to select the Practical Inspectors of the GCE Advanced Level 2025.
-
-The announcer states that these inspectors are selected from September 25 to October 7.
-
-◼️
-
-[Data](articles/af1104a7.json)
-
-[Extended Data](ext_articles/af1104a7.ext.json)
-
----
-
-### A / L Examine Inspectors Are Online
-
-*2025-09-26 20:56:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උ-පළ-වභග-පරකෂකයන-ඔනලයන-තරය/1-680294) · `si`
-
-Commissioner General of Examinations Indika Kumari Liyanage announced that applications were invited online to select the Practical Inspectors of the GCE Advanced Level 2025.
-
-The announcer states that these inspectors are selected from September 25 to October 7.
-
-◼️
-
-[Data](articles/f780c28d.json)
-
-[Extended Data](ext_articles/f780c28d.ext.json)
 
 ---

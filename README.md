@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 13:20:24**
+As of **2025-09-27 13:38:28**
 
 ## Newspaper Stats
 
-*Scraped **78,881** Articles*
+*Scraped **78,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,37 +21,61 @@ adalk | 7,623
 adaderanalk | 10,195
 tamilmirrorlk | 11,827
 virakesarilk | 12,807
-adaderanasinhalalk | 13,701
+adaderanasinhalalk | 13,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,880 (100.0%) of 78,881 articles have been extended.
+78,881 (100.0%) of 78,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### பெண் கொடூர கொலை : ஒருவர் கைது
+### සුළං බලාගාරයෙන් උණුසුම් වූ මන්නාරම
+
+*2025-09-27 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215065) · `si`
+
+මන්නාරම නගරයේ ඉදිකිරීමට යෝජිත සුළං බලාගාර වෙත අවශ්‍ය ටර්බයින හා අනෙකුත් උපකරණ ඊයේ (27) රාත්‍රියේ රැගෙන ඒමත් සමග ප්‍රදේශයේ ජනතාව ඊට එරෙහිව දැඩි විරෝධයක් පලකර තිබේ.
+
+සුළං බලාගාර ටර්බයින හා අනෙකුත් උපකරණ මන්නාරම නගරයට රැගෙන නොඑන ලෙසට ඉල්ලීම් කරමින් ජනතාව විරෝධතාවල නිරත වූ බව සදහන්ය.
+
+කෙසේවෙතත් පොලිස් කැරලි මර්දන කණ්ඩායම් උපයෝගී කරනගනිමින් මන්නාරම නගරය වෙත සුළං බලාගාරට අවශ්‍ය ටර්බයින් හා අනෙකුත් උපකරණ රැගත් වාහන රැගෙන ඒම සිදුකළ බව 'අද දෙරණ' වාර්තාකරු පැවසීය.
+
+මන්නාරම දූපත සීමාවේ සුළං බලාගාර ඉදිකිරීම නතර කරන ලෙසට හා මන්නාරම දූපත අවට සීමාවේ ඛනිජ වැලි කැනීම නවත්වන ලෙසට ඉල්ලීම් කරමින් මන්නාරම ජනතාව අඛණ්ඩව 55 වන දිනටත් ඊයේ මන්නාරම නගරය මධ්‍යයේ විරෝධතාවල නිරත විය.
+
+කෙසේවෙතත් සුළං බලාගාරයට අවශ්‍ය ටර්බයින් හා අනෙකුත් උපකරණ රැගෙන ඒමත් සමග එම විරෝධතා උත්සන්න වූ අතර, උණුසුම් තත්ත්වයක් ද හටගෙන තිබුණි.
+
+එහිදී විරෝධතාකරුවන් තිදෙනෙකු තුවාල ලැබූ අතර, ජනතාව චෝදනා කරන්නේ පොලීසිය විසින් එම පහරදීම් සිදුකළ බවය.
+
+...
+
+[Data](articles/0211a2bc.json)
+
+---
+
+### Woman brutally murdered: one arrested
 
 *2025-09-27 12:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கொடூர-கொலை-ஒருவர்-கைது/175-365365) · `ta`
 
-வெலிக்கடை - அங்கொடை பகுதியில் நேற்று பெண்ணொருவர்  கூரிய ஆயுதத்தால் தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளதாக வெலிக்கடை பொலிஸார் தெரிவித்தனர்.
+Welikada police said that a woman was assaulted and murdered yesterday in the Welikada - Angodai area.
 
-கொலைசெய்யப்பட்டவர் அங்கொடை , அக்கொன பகுதியைச் சேர்ந்த 65 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+Investigations have revealed that the murderer is 65 years old from Angoda, Akkonna area.
 
-பெண்ணுக்கும் எதிர் வீட்டில் வசிக்கும் நபருக்கும் இடையில் ஏற்பட்ட தகராறு காரணமாக இந்த கொலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said the murder was caused by a dispute between a woman and a man in the opposite house.
 
-தாக்குதலுக்குள்ளான பெண் முல்லேரியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், சிகிச்சை பலனின்றி உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+The woman who was attacked was admitted to the Mulleria Hospital and died without treatment, police said.
 
-எதிர் வீட்டில் வசிக்கும் நபரும், கொலைசெய்யப்பட்ட பெண்ணும் ஒரே நிறுவனத்தில் பணியாளராகப் பணிபுரிந்து வந்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+Investigations have revealed that the man who lives in the opposite house and the murdered woman are working as an employee in the same company.
 
-இதனையடுத்து எதிர் வீட்டில் வசிக்கும் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன், வெலிக்கடை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறனர். R
+Subsequently, the suspect who lives in the opposite house has been arrested and the Welikada police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/228a58a6.json)
+
+[Extended Data](ext_articles/228a58a6.ext.json)
 
 ---
 
@@ -2080,31 +2104,5 @@ As the Israeli leader spoke, unintelligible shouts echoed around the hall. Appla
 [Data](articles/b224c059.json)
 
 [Extended Data](ext_articles/b224c059.ext.json)
-
----
-
-### The CEB loss to the year 2014 to 2022. B 594
-
-*2025-09-26 20:18:46* · [`adalk`](https://www.ada.lk/breaking_news/2014-වර්ෂයේ-සිට-2022-වර්ෂය-දක්වා-විදුලිබල-මණ්ඩලයේ-පාඩුව-රු--බි-594ක්/11-418751) · `si`
-
-• The establishment of the Electricity Board (CEB) is divided into the restructuring of this institution - COPE committee
-
-• Electricity cut in about 18 hours of electricity for the last days.
-
-• Rs.. It is revealed that the contractor has not yet been given at the cost of Rs. 124.30 million.
-
-• Troops of the Sri Lanka Electricity Board's Provident Fund Rules. 64 million education loans and Rs.. 6,618.3 The property loans has been assigned to 2024.
-
-• A acting officer as an internal auditor is the displeasure of the COPE for 11 months.
-
-Sri Lanka Electricity Board (CEB) loss from 2014 to 2022. 594,368 million (COPE) was revealed in the Committee on Public Enterprises.
-
-The Committee on Public Enterprises (COPE), the Chairman of Parliament (COPE met with the Chairman of Parliament) (Dr.) (Dr.) Nishantha Samaraweera met with the Chairman of Parliament (Dr.).
-
-...
-
-[Data](articles/2779452f.json)
-
-[Extended Data](ext_articles/2779452f.ext.json)
 
 ---

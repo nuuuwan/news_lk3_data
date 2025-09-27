@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 22:36:55**
+As of **2025-09-27 22:53:37**
 
 ## Newspaper Stats
 
-*Scraped **78,994** Articles*
+*Scraped **78,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,56 @@ lankadeepalk | 356
 newsfirstlk | 442
 dbsjeyarajcom | 635
 bbccomsinhala | 706
-colombotelegraphcom | 795
+colombotelegraphcom | 796
 economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,626
 adaderanalk | 10,206
-tamilmirrorlk | 11,836
+tamilmirrorlk | 11,837
 virakesarilk | 12,837
-adaderanasinhalalk | 13,717
+adaderanasinhalalk | 13,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,994 (100.0%) of 78,994 articles have been extended.
+78,994 (100.0%) of 78,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### கரூர் விவகாரம்: 40 பேர் மரணம்: 50 பேருக்கு காயம்
+
+*2025-09-27 22:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-விவகாரம்-40-பேர்-மரணம்-50-பேருக்கு-காயம்/175-365386) · `ta`
+
+கரூரில் நடிகர் விஜய் கலந்து கொண்ட கூட்டத்தில் நெரிசலில் சிக்கி உயிரிழந்தவர்களின் எண்ணிக்கை 40 ஆக உயர்ந்துள்ளது.
+
+◼️
+
+[Data](articles/26c0017a.json)
+
+---
+
+### විජේගේ දේශපාලන රැලියක ඇති වූ තෙරපීමකින් 31ක් මරුට
+
+*2025-09-27 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215083) · `si`
+
+තමිල්නාඩුවේ කරූර් දිස්ත්‍රික්කයේ පැවති විජේගේ දේශපාලන රැලියක ඇති වූ තෙරපීමකින් පුද්ගලයින් 31 දෙනෙකු මිය ගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ විශාල පිරිසක් එක්රැස් වීම නිසා ඇති වූ තදබදය හේතුවෙන් සමහර පුද්ගලයින් ක්ලාන්ත වී ඇති අතර ඒ හේතුවෙන් මෙම තෙරපීම ඇති වූ බවය.
+
+මෙම රැලිය සඳහා අවම වශයෙන් 30,000ක පමණ පිරිසක්වත් සහභාගී වී සිට ඇති බව එරට පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+කෙසේ වෙතත් මෙම රැලිය සඳහා විජේගේ පැමිණීම පැය හයකට වඩා ප්‍රමාද වී ඇති අතර ඒ වන විටත් සෙනඟ පාලනය කරගත නොහැකි මට්ටමකට පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/a053653c.json)
+
+---
 
 ### Special police operation in Maradana
 
@@ -808,6 +838,20 @@ It is noteworthy that this cycle of hunger strike continues to continue in the d
 [Data](articles/bd773f52.json)
 
 [Extended Data](ext_articles/bd773f52.ext.json)
+
+---
+
+### In Defence Of The Diaspora: Why Sri Lanka Should Embrace Expat Voting
+
+*2025-09-27 16:58:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-defence-of-the-diaspora-why-sri-lanka-should-embrace-expat-voting/) · `en`
+
+The proposal to grant digital voting rights to Sri Lankan expatriates has provoked fierce opposition from some quarters. In “South Asian Spring: Why Expats Should Not Get Digital Vote in Sri Lanka” the author argues that enfranchising expats is a threat to sovereignty, opens the door to external interference, and undermines the integrity of domestic governance. While these are serious concerns in principle, a closer look reveals that many of them rest upon dubious assumptions, selective history, and fear of change rather than evidence. Below, while contesting the major claims by the author, it will be shown that extending voting rights abroad is not only defensible but aligns with democratic norms worldwide.
+
+The author claims: Granting expats voting rights is a gamble with sovereignty, giving the ballot to people who do not live under Sri Lankan laws, do not face its burdens, and do not pay its taxes.
+
+...
+
+[Data](articles/65e0cdee.json)
 
 ---
 
@@ -1996,67 +2040,5 @@ Subsequently, the suspect who lives in the opposite house has been arrested and 
 [Data](articles/228a58a6.json)
 
 [Extended Data](ext_articles/228a58a6.ext.json)
-
----
-
-### US President Donald Trump - President Anurakumara
-
-*2025-09-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226231) · `ta`
-
-There is a meeting between US President Donald Trump and President Anura Kumara Dissanayake.
-
-The meeting took place on the 23rd of last month at the Lotte New York Palace Hotel in New York City, USA.
-
-The meeting took place during a dinner party organized by US President Donald Trump for the head of state for the head of state to attend the 80th General Assembly session of the United Nations.
-
-President Anurakumara posted on his Facebook page that there was a concurry conversation between President Donald Trump and President Anuragumara Dissanayake.
-
-◼️
-
-[Data](articles/b304d04c.json)
-
-[Extended Data](ext_articles/b304d04c.ext.json)
-
----
-
-### Identifying the person arrested with ice drugs in Wattala!
-
-*2025-09-27 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226224) · `ta`
-
-The suspect, who was arrested with ice drugs on Monday (22) in the Elakanda area in Wattala, has been identified as involved in several robbery and shootings reported across the country, police said.
-
-Police said the suspect was arrested by a group of Criminal Investigation Department officials of the Kelaniya Division on Monday (22) during a special operation conducted by the Wattala Police Division.
-
-The arrested person is 45 -year -old from North Mulleria and police have seized 10.2 grams of ice from him.
-
-Investigations have revealed that the suspect was aimed at selling the drug.
-
-The court ordered the police to keep the suspect for seven days after the suspect was arrested and produced at the Welisara Magistrate's Court on Tuesday (23).
-
-According to further investigations by the police, it was revealed that the suspect was involved in a series of crimes, including armed robbery and firing.
-
-...
-
-[Data](articles/8b11aac6.json)
-
-[Extended Data](ext_articles/8b11aac6.ext.json)
-
----
-
-### Advisory issued for multi-day boats in Bay of Bengal deep sea areas
-
-*2025-09-27 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/112959/advisory-issued-for-multi-day-boats-in-bay-of-bengal-deep-sea-areas) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ advisory for multi-day boats operating in the deep sea areas of the Bay of Bengal.
-
-According to the Department, wind speeds in the sea areas marked under the advisory category on the map are expected to increase to 55–65 kmph at times, with the sea conditions becoming rough or very rough occasionally.
-
-Accordingly, naval and fishing communities are advised to remain vigilant.
-
-◼️
-
-[Data](articles/de613faa.json)
-
-[Extended Data](ext_articles/de613faa.ext.json)
 
 ---

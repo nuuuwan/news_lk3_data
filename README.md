@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 18:56:17**
+As of **2025-09-27 18:19:05**
 
 ## Newspaper Stats
 
-*Scraped **78,950** Articles*
+*Scraped **78,942** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 347
+lankadeepalk | 344
 newsfirstlk | 441
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -17,131 +17,21 @@ economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,625
+adalk | 7,624
 adaderanalk | 10,200
 tamilmirrorlk | 11,831
 virakesarilk | 12,820
-adaderanasinhalalk | 13,712
+adaderanasinhalalk | 13,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,948 (100.0%) of 78,950 articles have been extended.
+78,940 (100.0%) of 78,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### මත් උවඳුර තුරන් කිරීමේ නව වැඩපිළිවෙලක් ගැන ඇමති කියයි
-
-*2025-09-27 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215077) · `si`
-
-සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය අතර ඍජු සම්බන්ධයක් ඇති බවත් එය ක්‍රමයෙන් ව්‍යාප්ත වීම හරහා රටේ දරුවන් එහි ගොදුරක් බවට පත්ව ඇති බවත් මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-යහපත්, බුද්ධිමත් සමාජයක් නිර්මාණය කිරීමට නම් හොඳ මානව සම්පතක් සිටිය යුතු බවත්, මෙම මත් උවඳුරට රටේ දරුවන් ගොදුරු වීම හරහා යහපත් සමාජයක් නිර්මාණය කිරීමට හැකියාවක් නොමැති අතර ඉන් සිදු වන්නේ රටේ අනාගත පරපුර විනාශ වී යාම බවත් එහිදී ඔහු සඳහන් කර සිටියේය.
-
-එමෙන්ම බන්ධනාගාරවල සිටින අපාරධකරුවන් අතර 72%ක්ම මත්ද්‍රව්‍ය භාවිතය පිළිබඳ වැරදි සම්බන්ධ පුද්ගලයින් වන අතර මෙම ප්‍රමාණය 100%ක් දක්වා වර්ධනය වුවහොත් සමාජය තුළ මහා ව්‍යසයනක් ඇති වන බවද අමාත්‍යවරයා එහිදී අවධාරණය කළේය.
-
-ඔහු වැඩිදුරටත් පැවසුවේ ආර්ථික වශයෙන් රට කෙතරම් දියුණු වුවද රටේ අනාගත පරපුර මෙම ව්‍යවසනයට ගොදුරු වී සිටී නම් අපි රටක් ලෙස දියුණු වී පළක් නොමැති බවය.
-
-පොලීසියේ අලුතින් බඳවා ගන්නා නිලධාරීන්ගෙන් 15%ක් 20%ක් අතර ප්‍රමාණයක් මත්ද්‍රව්‍යවලට ඇබ්බැහි වී ඇති අතර ඒ හේතුවෙන් ජනවා‍රි මාසයේ සිට මේ දක්වා නිලධාරීන් 68කගේ වැඩ තහනමට ලක්ව ඇති බවද එහිදී ඔහු සඳහන් කළේය.
-
-...
-
-[Data](articles/68ba1ffb.json)
-
----
-
-### President arrives in Japan
-
-*2025-09-27 18:23:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනයට-ළඟ-වය/1-680330) · `si`
-
-The Hon.
-
-Sri Lanka's Ambassador of Japan Akio Soomata (AKIO ISOMATA), Sri Lankan Ambassador (AKIO ISOMATA), Sri Lanka's Ambassador to Japan and senior officials of the Ministry of External Affairs Janaka Kumarasinghe was convicted.
-
-President Anura Kumara Dissanayake is on an official visit to Japan from 27th to 30th.
-
-President Anura Kumara Dissanayake is the chief guest at the Sri Lanka Day Day Celebration in Oscaka on September 27.
-
-The event is organized by the Sri Lanka Tourism Promotion Bureau and Japan's embassy in Japan.
-
-During his visit, President Anura Kumara Dissanayake will meet the Natural Emperor Prime Minister, Japanese Chief Minister, Economic, Trade and Industries Minister.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/e5b5b851.json)
-
-[Extended Data](ext_articles/e5b5b851.ext.json)
-
----
-
-### American Commercial Council Chairman meets President
-
-*2025-09-27 18:18:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමරක-වනජ-මණඩල-සභපත-ජනපත-හමවය/1-680329) · `si`
-
-A meeting between the US Chamber of Commerce (South Asia) Athle Kashup (ATL KEAP) and President Anura Kumara Dissanayake said in the United States.
-
-The meeting took place during the 80th session of the United Nations General Assembly.
-
-මෙහිදී මෙහිදී ශ්‍රී ලංකා ජනාධිපතිවරයා සහ අතුල් කේෂප් මහතා අතර කෙටි සාකච්ඡාවක් ද පැවැත්විණි.
-
-◼️
-
-[Data](articles/985dedd0.json)
-
-[Extended Data](ext_articles/985dedd0.ext.json)
-
----
-
-### Three members of the president
-
-*2025-09-27 18:16:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-නවත-රජය-නයකයන-තදනක-හමව/1-680328) · `si`
-
-President Anura Kumara Dissanayake met Cyprus, Argentina and Slovenia in the United States.
-
-This was found at the special dinner awarded to the United Nations Leaders in New York Palace Hotel for attending the 80th session of the United Nations General Assembly.
-
-The President of Cyprus, Nikos Christi, President Javier Milei and President Nataša Pirc Musar of Slovenia, President Nataša Pirc Musicia.
-
-◼️
-
-[Data](articles/b4e89a92.json)
-
-[Extended Data](ext_articles/b4e89a92.ext.json)
-
----
-
-### President arrives in Japan
-
-*2025-09-27 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215076) · `si`
-
-The Hon.
-
-Ambassador of Japanese in Sri Lanka Ako Eroadana, Sri Lanka's Ambassador to Japan and the Senior Officer of the Ministry of External Affairs was welcomed by senior officials of the Ministry of External Affairs.
-
-President Anura Kumara Dissanayake is on an official visit to Japan from today (27).
-
-President Anura Kumara Dissanayake is the chief guest of the Sri Lanka Tourism Promotion Bureau and Japan's Sri Lanka's Embassy in Oscaka today.
-
-During his visit, President Anura Kumara Dissanayake is due to meet the Natural Prime Minister of Japan and the Minister of Defense, the Minister of External Affairs, Economic and Industries.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/44bc3c7e.json)
-
-[Extended Data](ext_articles/44bc3c7e.ext.json)
-
----
 
 ### Floods, Strong Winds and Heavy Rain Hit Multiple Provinces
 
@@ -152,8 +42,6 @@ COLOMBO(News 1st); One person has died, and 58 people from 17 families have been
 ◼️
 
 [Data](articles/177998cb.json)
-
-[Extended Data](ext_articles/177998cb.ext.json)
 
 ---
 
@@ -166,30 +54,6 @@ COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destr
 ◼️
 
 [Data](articles/ffb79d83.json)
-
-[Extended Data](ext_articles/ffb79d83.ext.json)
-
----
-
-### Mongolian security consultant meets security heads of Sri Lanka
-
-*2025-09-27 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215075) · `si`
-
-Sri Lanka's Mongolian Defense Advisor Colonel Odsuren Zayat and Deputy Minister of Defense Major General Aruna Jayasekara was held at his office in Colombo.
-
-The Deputy Minister has warmly welcomed the Colonel Zayat very hot and have a friendly discussion on the mutual importance.
-
-The Defense Secretary Air Vice Marshal resources have also been found at Colonel Zayat, Defense Ministry.
-
-There is focusing on the main areas of security and exchange.
-
-These appointments marked the effective and successful move to strengthen security ties between Mongolia and Sri Lanka.
-
-◼️
-
-[Data](articles/a0f706d7.json)
-
-[Extended Data](ext_articles/a0f706d7.ext.json)
 
 ---
 
@@ -212,28 +76,6 @@ The construction of a passenger flyover to the comfort of the railway stations, 
 [Data](articles/1d60ebbe.json)
 
 [Extended Data](ext_articles/1d60ebbe.ext.json)
-
----
-
-### Narahenpita Railway Station begins
-
-*2025-09-27 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215074) · `si`
-
-The modernization of Narahenpita Railway Station began today (27) under the Dream Destination program.
-
-Narahenpita Railway Station, which is considered another unique railway station, is located in the Kelani Sand road, is located in the middle of the Kirulappana Railway Station.
-
-The station is comprised of two main platforms and one ticket counter, located 3.72m from Colombo from 5.06 km.
-
-Accordingly, the train station station is scheduled to build a passenger flyover development, improvement and modern purposes.
-
-The renovation work is to be conducted by the private sponsorship of the private sector.
-
-◼️
-
-[Data](articles/3d79ff0e.json)
-
-[Extended Data](ext_articles/3d79ff0e.ext.json)
 
 ---
 
@@ -1068,26 +910,6 @@ There, the police controlled the situation and had never attacked civilians.
 [Data](articles/0211a2bc.json)
 
 [Extended Data](ext_articles/0211a2bc.ext.json)
-
----
-
-### ප්‍රථම ආරෝග්‍යා සුවතා මධ්‍යස්ථානය ගාල්ල මාපලගම දී ජනතා අයිතියට
-
-*2025-09-27 12:46:37* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රථම-ආරෝග්‍යා-සුවතා-මධ්‍යස්ථානය-ගාල්ල-මාපලගම-දී-ජනතා-අයිතියට/11-418753) · `si`
-
-නව රජයේ සෞඛ්‍ය ප්‍රතිපත්තිය යටතේ දිවයින පුරා ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන දහසක් පළමු අදියර යටතේ පිහිටුවීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ උපදෙස් හා මඟපෙන්වීම අනුව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය මේ වන විට සැලසුම් කර ඇත.
-
-එම ආරෝග්‍යා සුවතා මධ්‍යස්ථාන ව්‍යාපෘතියේ පළමු මධ්‍යස්ථානය ලෙස ගාල්ල දිස්ත්‍රික්කයේ, මාපලගම ආරෝග්‍යා සුවතා මධ්‍යස්ථානය ජනතා අයිතියට පත් කිරීම ඊයේ (26) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සිදු කෙරිණ.
-
-මෙහි දී පළමු සේවාලාභියා ලියාපදිංචිය ද සහ ලියාපදිංචිය සහිත කාඩ්පත ලබාදීම අමාත්‍යවරයා අතින් සිදුවිය.
-
-මෙම මධ්‍යස්ථානය මඟින් මාපලගම, තල්ගස්වල, ගෝනලගොඩ සහ ගෝනලගොඩ නැගෙනහිර යන ග්‍රාමනිලධාරී වසම්වල ජීවත්වන පන්දහසකට ආසන්න ජනතාවකට සුව සේවාවන් සැපයෙනු ඇත.
-
-මෙරට සෞඛ්‍ය සේවාව වෙනස් කරන වැදගත් පියවරක්, දැවැන්ත පෙරළියක ආරම්භය අද දින සනිටුහන් කරන බවත්, වර්තමානයේ මෙන්ම ඉදිරි වසර 10 කට 15 කට පසු මුහුණ දෙන අභියෝගවලට මුහුණ දෙන ආකාරය අද දින සැලසුම් කෙරෙන බවද සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මෙහිදී පැවැසීය.
-
-...
-
-[Data](articles/b50b5c14.json)
 
 ---
 
@@ -2076,5 +1898,175 @@ COLOMBO(News 1st); Police Headquarters announced that action has been taken agai
 [Data](articles/a4543c86.json)
 
 [Extended Data](ext_articles/a4543c86.ext.json)
+
+---
+
+### Van carrying pilgrims crashes into tree near Sorabora Wewa; 11 injured
+
+*2025-09-27 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/112956/van-carrying-pilgrims-crashes-into-tree-near-sorabora-wewa-11-injured) · `en`
+
+An accident occurred when a van carrying a group of pilgrims veered off the road and crashed into a tree in the 1st Milepost area of Sorabora Wewa, along the Mahiyanganaya–Girandurukotte main road.
+
+The incident took place at around 11:00 p.m. yesterday (26), said Ada Derana reporter.
+
+Eleven passengers traveling in the van sustained injuries and were admitted to the Mahiyangana Hospital and the Badulla Hospital.
+
+According to reports, the group from the Badulla area was returning from Anuradhapura at the time of the accident.
+
+Six of the injured are currently receiving treatment at the Badulla Hospital, while five remain under treatment at the Mahiyangana Hospital.
+
+◼️
+
+[Data](articles/e0849beb.json)
+
+[Extended Data](ext_articles/e0849beb.ext.json)
+
+---
+
+### A van that a van carrying a pilgrimage is a terrible accident
+
+*2025-09-27 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215061) · `si`
+
+A van carrying a pilgrimage from the Sorbore tank in Mahiyangana-Girasurukottu jailed by a van and accident occurred from a tree.
+
+The accident had occurred at around 11 pm yesterday (26), 11 am injured and admitted to the Mahiyangana Hospital and Badulla Hospital.
+
+The accident had occurred while a group of people in Badulla had returned to Anuradhapura.
+
+It is reported that six injured are receiving treatment at the Mahiyanganaya Hospital.
+
+◼️
+
+[Data](articles/b94a8e46.json)
+
+[Extended Data](ext_articles/b94a8e46.ext.json)
+
+---
+
+### 170 police officers file FR petitions over ASP promotions
+
+*2025-09-27 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112955/170-police-officers-file-fr-petitions-over-asp-promotions) · `en`
+
+Three Fundamental Rights (FR) petitions have been filed before the Supreme Court by 170 Chief Inspectors and Inspectors of Police, challenging the promotion of 45 officers to the post of Assistant Superintendent of Police (ASP) based on a recent limited competitive examination.
+
+The Inspector General of Police (IGP), the promoted ASPs, and members of the National Police Commission (NPC) have been named as respondents in the petitions, which were filed by Attorney-at-Law Manjula Balasooriya, said Ada Derana reporter.
+
+The petitioners claim that 45 Inspectors of Police were promoted on September 25 to the post of ASP based on the results of the limited competitive examination.
+
+They allege that a question paper of the examination had been leaked, while the results were released after an unusual delay, which they argue was deliberate.
+
+...
+
+[Data](articles/8f94273d.json)
+
+[Extended Data](ext_articles/8f94273d.ext.json)
+
+---
+
+### Petitions against Assistant Superintendent of Police
+
+*2025-09-27 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215060) · `si`
+
+Of the persons who sat for the recruitment of ASP to be recruited
+
+170 Chief Inspectors and Inspectors of Police have filed 3 fundamental rights petitions in the Supreme Court to promote 45 people by promotion of the Assistant Superintendent of Assurance.
+
+The IGP and the members of the National Police Commission have named the IGP and the National Police Commission as respondents.
+
+According to petivers, the petitions have been filed by lawyer Manjula Balasuriya, the Chief Inspectors and Inspectors of Police were promoted to the post of Assistant Superintendent of Police to promote the office of Assistant Superintendent.
+
+It is revealed that the question paper had been exited during this examination and that the results of the examination were delayed and that it was deliberately issued.
+
+They say that the Assistant Superintendent of Police have been promoted to the post of Assistant Superintendent.
+
+...
+
+[Data](articles/50c8b239.json)
+
+[Extended Data](ext_articles/50c8b239.ext.json)
+
+---
+
+### President Anura Kumara to begin official visit to Japan today
+
+*2025-09-27 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112954/president-anura-kumara-to-begin-official-visit-to-japan-today) · `en`
+
+President Anura Kumara Dissanayake is scheduled to commence his official visit to Japan today (27), following the successful conclusion of his visit to the United States, where he attended the 80th session of the United Nations General Assembly (UNGA).
+
+According to the President’s Media Division (PMD), President Dissanayake departed for Japan from John F. Kennedy International Airport on the night of September 25.
+
+At the invitation of the Japanese government, President Dissanayake is set to undertake an official visit to Japan from September 27 to 30.
+
+During the visit, President Dissanayake will have an audience with His Majesty the Emperor of Japan and he will hold a summit meeting with the Japanese Prime Minister on a wide range of issues of mutual interest, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+...
+
+[Data](articles/1a06eec4.json)
+
+[Extended Data](ext_articles/1a06eec4.ext.json)
+
+---
+
+### President's visit to Japan begins today
+
+*2025-09-27 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215058) · `si`
+
+President Anura Kumara Dissanayake is scheduled to commence the Japanese official visit to Sri Lanka today (27).
+
+The President is scheduled to visit Japan until the 30th of this month, according to the next day of the Government of Japan.
+
+President Anura Kumara Dissanayake is also scheduled to meet the Japanese emperor.
+
+It also holds a convention meeting to emphasize a number of mutual important issues with the Japanese Prime Minister.
+
+The President also addresses a business forum at the participating in the top Japanese businesses and proposals in Tokyo.
+
+The Ministry of External Affairs said that President Anura Kumara Dissanayake would also participate in Expo 2025 Osaca.
+
+The President who left the 80th session of the United Nations General Assembly, the President had commissioned the Japanese tour.
+
+◼️
+
+[Data](articles/6189d396.json)
+
+[Extended Data](ext_articles/6189d396.ext.json)
+
+---
+
+### The main notice for all taxpayers
+
+*2025-09-27 07:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-வரி-செலுத்துவோருக்கும்-முக்கிய-அறிவிப்பு/175-365362) · `ta`
+
+The Department of Home Affairs has advised all taxpayers to pay taxes on September 30, 2025.
+
+The order is also applied to individuals, corporations, corporate allies and other registered companies.
+
+It is stated that the final fee can be paid at any branch of the Bank of Sri Lanka.
+
+The Department of Home Affairs has warned that delays or missed fees can lead to interest and fines. Remble
+
+◼️
+
+[Data](articles/f3fb4bf7.json)
+
+[Extended Data](ext_articles/f3fb4bf7.ext.json)
+
+---
+
+### Pakistan ‘won the war’ against India, PM Sharif tells UNGA
+
+*2025-09-27 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112953/pakistan-won-the-war-against-india-pm-sharif-tells-unga) · `en`
+
+Prime Minister Shehbaz Sharif on Friday, highlighting the human rights violations in Kashmir and Palestine and condemning terrorism, reiterated Pakistan’s commitment to peace and dialogue but vowed to resolutely defend the nation against any external aggression or India’s usurpation of water rights.
+
+The prime minister, in his 25-minute address at the 80th session of the United Nations General Assembly here, encompassed all national, regional, and international issues, including the recent Pakistan-India war, Kashmir, Palestine, terrorism, Afghanistan, ongoing floods in Pakistan and multilateralism.
+
+PM Shehbaz, who spoke for the third time to the 193-member world body, began his remarks highlighting the world’s complexities like intensifying conflicts, violation of international laws, humanitarian crises, disinformation, arms race, emerging technologies and climate change.
+
+...
+
+[Data](articles/160a40af.json)
+
+[Extended Data](ext_articles/160a40af.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 09:56:15**
+As of **2025-09-27 10:08:36**
 
 ## Newspaper Stats
 
-*Scraped **78,828** Articles*
+*Scraped **78,833** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 306
-newsfirstlk | 431
-dbsjeyarajcom | 634
+newsfirstlk | 435
+dbsjeyarajcom | 635
 bbccomsinhala | 704
 colombotelegraphcom | 793
 economynextcom | 4,727
@@ -27,11 +27,57 @@ adaderanasinhalalk | 13,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,826 (100.0%) of 78,828 articles have been extended.
+78,828 (100.0%) of 78,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### 11 Injured In Mahiyangana Road Accident
+
+*2025-09-27 09:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/11-injured-in-mahiyangana-road-accident) · `en`
+
+COLOMBO(News 1st); Eleven people were injured in an accident near the first milepost on the Mahiyangana–Giradurukottha main road.Police said the accident occurred last night, and the injured were admitted to the Mahiyanganaya Hospital.The victims were part of a group traveling to Badulla after a pilgrimage to Anuradhapura.According to police, the accident was caused when the van driver fell asleep at the wheel.Those involved were residents of Kailagoda, Badulla.Among the injured are five males, including a 10-year-old child, and six females.
+
+◼️
+
+[Data](articles/f0f305b1.json)
+
+---
+
+### Govt Cracks Down On Fake Job Certificates
+
+*2025-09-27 09:44:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/govt-cracks-down-on-fake-job-certificates) · `en`
+
+COLOMBO(News 1st); The government has paid close attention to institutions issuing fake certificates to send drug addicts abroad for employment.The Sri Lanka Bureau of Foreign Employment (SLBFE) announced that strict legal action will be taken against such institutions.The Bureau also advised Sri Lankan workers not to seek foreign employment while addicted to drugs and warned against drug use while working overseas.The SLBFE said it has taken steps to repatriate two Sri Lankan workers in Israel found to be drug addicts.One of them had traveled to Israel last year but failed to report to work for two months. He was brought to Tel Aviv by a group of Sri Lankans, after which the embassy facilitated his return to the island.The other individual, who had been working in Israel for about seven years, was reported to have long been addicted to drugs and had not reported to his workplace.
+
+◼️
+
+[Data](articles/3c4bd6d5.json)
+
+---
+
+### Wattala Suspect Linked To Multiple Shootings
+
+*2025-09-27 09:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/wattala-suspect-linked-to-multiple-shootings) · `en`
+
+...
+
+[Data](articles/b9b32e1e.json)
+
+---
+
+### Police Act Against 4,630 Criminals In Year
+
+*2025-09-27 09:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/police-act-against-4-630-criminals-in-year) · `en`
+
+COLOMBO(News 1st); Police Headquarters announced that action has been taken against 4,630 criminals over the past year.Police Media Spokesperson, Assistant Superintendent of Police, F. U. Wootler, stated that 5.1 million individuals were checked, leading to 142,000 arrests.He further noted that 45,490 day warrants and 30,884 open warrants were issued to apprehend suspects.
+
+◼️
+
+[Data](articles/5049d53c.json)
+
+---
 
 ### President Dissanayake In Japan Visit
 
@@ -41,23 +87,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/a4543c86.json)
 
+[Extended Data](ext_articles/a4543c86.ext.json)
+
 ---
 
-### වන්දනා නඩයක් රැගත් වෑන් රථයක් ගසක ගැටී බිහිසුණු අනතුරක්
+### A van that a van carrying a pilgrimage is a terrible accident
 
 *2025-09-27 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215061) · `si`
 
-මහියංගන - ගිරාදුරුකෝට්ට ප්‍රධාන මාර්ගයේ සොරබොර වැව 1 කනුව ප්‍රදේශයේදී වන්දනා නඩයක් රැගත් වෑන් රථයක් මාර්ගයෙන් ඉවතට පැන ගසක ගැටී අනතුරක් සිදුවී තිබේ.
+A van carrying a pilgrimage from the Sorbore tank in Mahiyangana-Girasurukottu jailed by a van and accident occurred from a tree.
 
-ඊයේ (26) රාත්‍රී 11ට පමණ මෙම අනතුර සිදුවී ඇති අතර, වෑන් රථයේ ගමන් ගත් 11 දෙනකු තුවාල ලබා මහියංගන රෝහලට සහ බදුල්ල රෝහලට ඇතුළත් කර ඇත.
+The accident had occurred at around 11 pm yesterday (26), 11 am injured and admitted to the Mahiyangana Hospital and Badulla Hospital.
 
-බදුල්ල ප්‍රදේශයේ පිරිසක් අනුරාධපුරයට ගොස් යළි පැමිණෙමින් සිටියදී මෙම අනතුර සිදුව තිබේ.
+The accident had occurred while a group of people in Badulla had returned to Anuradhapura.
 
-තුවාලකරුවන් 6ක් බදුල්ල රෝහලේ සහ තුවාලකරුවන් 5ක් මහියංගනය රෝහලේ ප්‍රතිකාර බලමින් සිටින බව වාර්තා වේ.
+It is reported that six injured are receiving treatment at the Mahiyanganaya Hospital.
 
 ◼️
 
 [Data](articles/b94a8e46.json)
+
+[Extended Data](ext_articles/b94a8e46.ext.json)
 
 ---
 
@@ -1906,85 +1956,5 @@ The proposal was sent to the Committee on Standing Orders to consider this propo
 [Data](articles/88499fd8.json)
 
 [Extended Data](ext_articles/88499fd8.ext.json)
-
----
-
-### Two Sri Lankans in Israel addicted to the island back to the island
-
-*2025-09-26 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215046) · `si`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) says that two workers in Israel who have been physically and emotional abnormal due to drug addiction will be taken back to the island tomorrow (27).
-
-One of the workers said that one of them registered with the Bureau under Israel's employment program, and in September 2024, a man left for a job in September 2024.
-
-There he had not reported to work in his work over the past 2 months and has been brought to Tel Aviv from Jerusalem. Accordingly, the Sri Lankan embassy intervenes in the country will be sent to the island.
-
-The other person is a period of seven years and he has not been arrested for a long time and has not reported to his workplace.
-
-The Foreign Employment Bureau is probably that the law to abroad for drug addiction or to abide in the country, she is likely to be involved in drug addiction and to be imprisoned.
-
-The Bureau said that the functions of the job seekers have been highly aware of the bureau.
-
-◼️
-
-[Data](articles/c1d5bc71.json)
-
-[Extended Data](ext_articles/c1d5bc71.ext.json)
-
----
-
-### Lokco Podho, in the SLTB depots, has been sitting in the morning
-
-*2025-09-26 17:46:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලගම-ඩපවල-ලකක-පඩඩ-උද-ඉදන-සර-වල/101-680288) · `si`
-
-Ports, Minister of Transport Large Rathnayake said that some CTB depots were eleven workers in the eleven am.
-
-He said that he requested the Divisional Secretaries from the police coordinating committee and now that he had requested the local secretaries from the police.
-
-Sri Lanka Transport Board is completely broken. The management of depots has been completely destroyed. They fill them with unsuitable people in the past government. The officers of some depots have been drinking from the eleven day and drink. There are more people working on the day.
-
-◼️
-
-[Data](articles/3a353a31.json)
-
-[Extended Data](ext_articles/3a353a31.ext.json)
-
----
-
-### Music and Preview of the movie 'Night Virus' released by Tamil cinema celebrities
-
-*2025-09-26 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226181) · `ta`
-
-The music and preview release of the film 'Rayavu Viriyas' starring Mahendra and Chikkam Rajesh was played in Chennai.
-
-Directors R.. V.. Udayakumar - Empire - Bose Venkat - Mu. The repository participated as special guests.
-
-Mahendra, Chikkam Rajesh, Neema Ray, 'Shadows' Ravi, Azmita, Kumtaj, Cheran Raj and many others have starred in the upcoming film 'Ravi Viris' directed by debutant director Chikkam Rajesh.
-
-The film has been recorded by Bhaskar. M.. Azhar has composed the music. The film is being produced by Mahendra Film Factory Company, produced by Mahendran.
-
-Commenting on the film, the director said, “Women are still addicted today. We have created this film to raise awareness. ”
-
-◼️
-
-[Data](articles/dfa907dc.json)
-
-[Extended Data](ext_articles/dfa907dc.ext.json)
-
----
-
-### Raise yellow flags in the temple of the Ramanna Nikaya
-
-*2025-09-26 17:43:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රමඤඤ-නකය-වහරවල-කහ-කඩ-ඔසවනන/101-680287) · `si`
-
-The sect is demanding to display yellow flags in all temples of the Ramanna Nikaya, the Sangha Nikaya Sangha Senection of the Sri Lanka Ramanna Nikaya to publish the monks in the Panasiripura, Pansagama Leader Seniority.
-
-The General Registrar of the Ramanna Nikaya The General Registrar of the Ramanna Nikaya has issued the requests.
-
-◼️
-
-[Data](articles/30aa3682.json)
-
-[Extended Data](ext_articles/30aa3682.ext.json)
 
 ---

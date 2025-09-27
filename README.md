@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 17:58:04**
+As of **2025-09-27 17:40:57**
 
 ## Newspaper Stats
 
-*Scraped **78,940** Articles*
+*Scraped **78,933** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 344
+lankadeepalk | 339
 newsfirstlk | 439
 dbsjeyarajcom | 635
 bbccomsinhala | 706
-colombotelegraphcom | 795
+colombotelegraphcom | 793
 economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
@@ -27,83 +27,25 @@ adaderanasinhalalk | 13,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,933 (100.0%) of 78,940 articles have been extended.
+78,932 (100.0%) of 78,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### නාරාහේන්පිට දුම්රිය පොළ අලුත් කරයි
-
-*2025-09-27 17:22:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නරහනපට-දමරය-පළ-අලත-කරය/1-680327) · `si`
-
-“Clean Sri Lanka” සමගාමී ව්‍යාපෘතියක් ලෙස ක්‍රියාත්මක “Dream Destination” වැඩසටහන යටතේ නාරාහේන්පිට දුම්රිය ස්ථානය නවීකරණය කිරීම අද (27) ආරම්භ කෙරිණි.
-
-කැලණි වැලි මාර්ගයේ තවත් එක් සුවිශේෂී දුම්රිය ස්ථානයක් සේ සලකන නාරාහේන්පිට දුම්රිය ස්ථානය කොටා පාර දුම්රිය ස්ථානයට හා කිරුලපන දුම්රිය ස්ථානයට මැදිව පිහිටා ඇත.
-
-කොළඹ සිට 5.06km දුරක් හා මුහුදු මට්ටමේ සිට උස 3.72mකින් පිහිටා ඇති මෙම දුම්රිය ස්ථානය ප්‍රධාන වේදිකා දෙකකින් හා එක් ටිකට් කවුන්ටරයකින් සමන්විත වෙයි.
-
-කම්කරු දෙපාර්තමේන්තුව, මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව, මිනින්දෝරු දෙපාර්තමේන්තුව, ඇතුළු රාජ්‍ය, අර්ධ රාජ්‍ය හා පෞද්ගලික ආයතනය රැසකට යාබඳව පිහිටා ඇති මෙම දුම්රිය ස්ථානය එදිනෙදා රාජකාරී කටයුතු සඳහා පැමිණෙන මගී ජනතාව විශාල පිරිසක් භාවිතා කරති.
-
-...
-
-[Data](articles/1d60ebbe.json)
-
----
-
-### ’’සුදු අලි’’ හොයන්න ආයතන 450කින් වාර්තා කැඳවයි
-
-*2025-09-27 16:50:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සද-අල-හයනන-ආයතන-450කන-වරත-කඳවය/1-680326) · `si`
-
-රාජ්‍ය ආයතන 450ක කාර්ය සාධනය පුළුල්ව පරීක්ෂා කිරීමට පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව (කෝප් කමිටුව) තීරණය කර ඇත.
-
-මේ අනුව විගණන වාර්තාවල නිර්දේශ ක්‍රියාත්මක කර ඇති ආකාරය සම්බන්ධයෙන් තොරතුරු විස්තරාත්මකව ලබා ගැනීම සඳහා ඒ ආයතන හාරසිය පනහෙන්ම ලිඛිත වාර්තා කැඳවීමට කෝප් කමිටුව කටයුතු කරමින් සිටි.
-
-මේ සම්බන්ධයෙන් අදහස් දක්වන කෝප් කමිටු සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා  පවසන්නේ  දූෂණ වංචා සහ අක්‍රමිකතා වැඩිම ආයතන විමර්ශන සඳහා තෝරාගැනීමට මේ ආකාරයට  කටයුතු කරන බවයි.
-
-දූෂණ වංචා සහ අක්‍රමිකතා වැඩි ආයතන වල ප්‍රධානීන් ඉතාම ඉක්මනින්ම කමිටුව හමුවට කැඳවා ඒවායේ දූෂණ පිළිබඳව විමර්ශනය කිරීමට බලාපොරොත්තු වන බවත්  එම විමර්ශනවලදී පැහැදිලි වශයෙන්ම අනාවරණය වන දූෂණ වංචා සහ අක්‍රමිකතා පිළිබඳව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට  යොමු කිරීමට පියවර ගන්නා බවත් නිශාන්ත සමරවීර මහතා වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/33e097f8.json)
-
----
-
-### හොඳ ව්‍යවසායකයන් බිහිකරන ’’පිරිපුන්’’ වැඩක්
-
-*2025-09-27 16:22:32* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හඳ-වයවසයකයන-බහකරන-පරපන-වඩක/1-680323) · `si`
-
-පිරිපුන් සංවිධානය ජාතික පරිවර්තනයක් අරමුණු කරගනිමින් බිම් මට්ටමින්  නව ව්‍යවසායකයන් බිහි කිරීමේ අලුත්ම වැඩපිළිවෙලක්  ආරම්භ කර ඇත.
-
-බිම් මට්ටමේ කාන්තා ව්‍යවසායකයින් සවිබල ගැන්වීම මෙහි පළමු අදියර බව පිරිපුන් සංවිධානයේ සභාපති ඉංජිනේරු ආනන්ද දේවසිංහ මහතා කොළඹදී  පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී  පැවසීය.
-
-මේ අනුව පිරිපුන් සංවිධානය  රට පුරා තෝරාගත් ගෘහණියන්ට කුඩා ව්‍යාපාර ස්ථාන (පෙට්ටි - කඩ) 1,000ක් පළමු වටය යටතේ ලබාදීමට කටයුතු කෙරේ.   එමඟින් ඔවුන්ට තමන්ගේම ක්ෂුද්‍ර මට්ටමේ ව්‍යාපාර ආරම්භ කිරීමට ඉඩ  ප්‍රස්ථාව සැලසෙන බව  දේවසිංහ මහතා ප්‍රකාශ කළේය.
-
-කාන්තාවන්ට   ව්‍යාපාර සඳහා සූදානම් වීම සඳහා ආකල්පමය පුහුණුවක්ද  මෙමගින්  ලැබෙනු ඇති බවත් ඉන් අනතුරුව එම පිරිස්  ශක්තිමත් ව්‍යවසායකයින් බවට පත් කිරීම සඳහා   ව්‍යුහගත වැඩසටහන්වලට සම්බන්ධ කර ගැනෙන බවත්  හෙතෙම කීවේය.
-
-පිරිපුන් සංවිධානය පිහිටවනු ලැබ ඇත්තේ පවතින පාලනය පිළිගන්නා ගමන් ඉන්  ඔබ්බට යන  යහපාලනයක් ඇති කිරීම මූලික   අරමුණු කර ගනිමිනැයිද  ආනන්ද දේවසිංහ මහතා වැඩිදුරටත්  පැවසීය.
-
-◼️
-
-[Data](articles/ac15463e.json)
-
----
-
-### Sajith's final tribute to monks died in a cable car accident
+### கேபிள் கார் விபத்தில் உயிரிழந்த பிக்குகளுக்கு சஜித் இறுதி அஞ்சலி
 
 *2025-09-27 16:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்தில்-உயிரிழந்த-பிக்குகளுக்கு-சஜித்-இறுதி-அஞ்சலி/175-365369) · `ta`
 
-Seven monks from domestic and abroad were killed when a cable car crashed between the monasteries in the Aranya Senasana, Kurunegala, Melsiripura Na, collapsed.
+குருணாகல், மெல்சிறிபுர நா உயன, ஆரண்ய சேனாசனவில் மடங்களுக்கு இடையே பயணித்த கேபிள் கார் உடைந்து வீழ்ந்து விபத்துக்கு உள்ளானதில் உள்நாட்டு மற்றும் வெளிநாட்டைச் சேர்ந்த ஏழு பிக்குகள் உயிரிழந்தனர்.
 
-The bodies of the monks who died in this incident have been placed in the Melziripura Na Aranya Senasanasana.
+இத்துயர் சம்பவத்தில் உயிரிழந்த பிக்குகளின் பூதவுடல்கள்  மெல்சிரிபுர நா உயன ஆரண்ய சேனாசனத்தில் வைக்கப்பட்டுள்ளன.
 
-Opposition Leader Sajith Premadasa paid a final tribute to the Buddhists today (27).
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (27) இப்பூதவுடல்களுக்கு இறுதி அஞ்சலி செலுத்தினார்.R
 
 ◼️
 
 [Data](articles/8c2f8890.json)
-
-[Extended Data](ext_articles/8c2f8890.ext.json)
 
 ---
 
@@ -254,42 +196,6 @@ Under this project, a hundred primary health care centers, which will be easily 
 [Data](articles/3d693ca5.json)
 
 [Extended Data](ext_articles/3d693ca5.ext.json)
-
----
-
-### සෞඛ්‍ය අභියෝග කොහොම හරි දිනනවා
-
-*2025-09-27 15:26:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සඛය-අභයග-කහම-හර-දනනව/1-680315) · `si`
-
-අතීතයේ පටන් සෞඛ්‍ය ක්ෂේත්‍රයේ පැවැති  අභියෝග ජයගන්නා බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතින් මහතා පැවසීය.
-
-ආරෝග්‍යා සුවතා මධ්‍යස්ථාන දහසක් රට පුරා පිහිටුවීමේ ව්‍යාපෘතියේ පළමු මධ්‍යස්ථානය ලෙස ගාල්ල මාපලගම ආරෝග්‍යා සුවතා මධ්‍යස්ථානය ජනතා අයිතියට පත් කරමින් අමාත්‍යවරයා මේ බව කීය.
-
-මෙම මධ්‍යස්ථානය මඟින් මාපලගම, තල්ගස්වල, ගෝනලගොඩ සහ ගෝනලගොඩ නැගෙනහිර යන ග්‍රාමනිලධාරී වසම්වල ජීවත්වන පන්දහසකට ආසන්න ජනතාවකට සුව සේවාවන් සැපයෙනු ඇත.
-
-නව රජයේ “සුවපත් රටක් උදෙසා” (HEALTHY SRI LANKA) නව්‍ය වැඩසටහන යටතේ ක්‍රියාත්මක වන මෙම ව්‍යාපෘතිය යටතේ මෙම වර්ෂයේ  දී ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන සියයක් ජනගත කිරීමට නියමිත අතර, ජනතාවට වඩාත් සමීප, පහසුවෙන් ප්‍රවේශ විය හැකි ස්ථානයක ස්ථාපිත කෙරෙන  මෙම ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථානය "ආරෝග්‍යා සුවතා මධ්‍යස්ථාන" ලෙස නම් කර ඇත.
-
-◼️
-
-[Data](articles/862c911e.json)
-
----
-
-### මබ්බෲක්ට  පාර්ලිමේන්තුවේ ලොකු පුටුවක්
-
-*2025-09-27 15:11:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මබබකට-පරලමනතව-ලක-පටවක/1-680314) · `si`
-
-පාර්ලිමේන්තුවේ නියෝජ්‍ය  අධ්‍යක්ෂ( පරිපාලන)  ලෙස කටයුතු කළ  මබ්බෲක් මාර්සූක්  මහතා  පාර්ලිමේන්තුවේ පරිපාලන අධ්‍යක්ෂක තනතුරට උසස් කරනු ලැබ සිටී
-
-ඔහු නියෝජ්‍ය  අධ්‍යක්ෂ( පරිපාලන) තනතුරට පත්වීමට පෙර කටයුතු කළේ  මහජන පෙත්සම් කාරක සභාවේ  සහකාර අධ්‍යක්ෂවරයා ලෙසය.
-
-කාලයක් ගුරු වෘත්තියේ නියැලී සිට පාර්ලිමේන්තු  නිලධාරියකු ලෙස  මැතිසබයේ  සේවයට එක්වූ මම්බෲක් මහතා මන්ත්‍රීවරුන්ගේ පෞද්ගලික මන්ත්‍රී යෝජනා සිංහල ඉංග්‍රීසි  සහ දෙමළ යන භාෂා ත්‍රිත්වයෙන්ම සකස් කිරීමට සුවිශේෂ නිපුණත්වයක් දැක්වූ අයෙකි.
-
-උදය මුණසිංහ  මහතා  පාර්ලිමේන්තු පරිපාලන අධ්‍යක්ෂ ධූරයෙන් පසුගියදා විශ්‍රාම  ලැබීමෙන්  එම තනතුර පුරප්පාඩු විය
-
-◼️
-
-[Data](articles/7f108f04.json)
 
 ---
 
@@ -1025,16 +931,6 @@ The visit is aimed at facilitating new trade, investment, and collaboration oppo
 
 ---
 
-### When Journalism Amplifies Apartheid: The Jaffna Monitor & The Israeli Narrative
-
-*2025-09-27 11:59:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-journalism-amplifies-apartheid-the-jaffna-monitor-the-israeli-narrative/) · `en`
-
-...
-
-[Data](articles/8ff6f481.json)
-
----
-
 ### The opposition asks for good food
 
 *2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වපකෂය-හඳ-කම-ඉලලය/1-680308) · `si`
@@ -1334,18 +1230,6 @@ It is noteworthy that the Central Campaign and Central Camp Police were on duty 
 [Data](articles/3fc3744c.json)
 
 [Extended Data](ext_articles/3fc3744c.ext.json)
-
----
-
-### History Will Not Forgive Us
-
-*2025-09-27 11:18:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/history-will-not-forgive-us/) · `en`
-
-“Always go too far, because that’s where you’ll find the truth” ~ Albert Camus
-
-...
-
-[Data](articles/33b79d4d.json)
 
 ---
 
@@ -2070,5 +1954,153 @@ Former Fisheries Minister Rajitha Senaratne and former Chairman of the Ceylon Fi
 [Data](articles/91b2309a.json)
 
 [Extended Data](ext_articles/91b2309a.ext.json)
+
+---
+
+### Fairly heavy rainfall expected in parts of the island
+
+*2025-09-27 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112951/fairly-heavy-rainfall-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department states that showers will occur at times in Western, Sabaragamuwa, North-western, and Southern provinces, and in Kandy and Nuwara Eliya districts.
+
+Fairly heavy rainfall of above 50 mm is likely at some places in Western, Sabaragamuwa, and North-western provinces, and in Galle, Matara, Kandy, and Nuwara Eliya districts.
+
+Light showers may occur in the North-central Province, and in Matale, Mannar, and Jaffna districts, the Department said.
+
+Strong winds of about 40–50 kmph can be expected at times over the western slopes of the central hills, and in Central, Northern, North-central, and North-western provinces, as well as in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damage caused by strong winds.
+
+◼️
+
+[Data](articles/6a0a4128.json)
+
+[Extended Data](ext_articles/6a0a4128.ext.json)
+
+---
+
+### Death
+
+*2025-09-27 07:03:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-விழுந்த-இளைஞர்-உயிரிழப்பு/175-365361) · `ta`
+
+Yall. A young man who fell into the sea died while fishing in the Mandi Island Sea.
+
+The deceased is Sivarathinam Santos (age 17) from Sawakkadu Anaikottai.
+
+In the early hours of Friday morning (26), Jaffna went to fish with a small father. He died when she was taken to the teaching hospital.
+
+Jaffna regarding this death. District Sudden Death Investigation Officer Arumugam Jayapalasingham conducted investigations. The witnesses were regulated by the Manipay police.
+
+◼️
+
+[Data](articles/5676a2e9.json)
+
+[Extended Data](ext_articles/5676a2e9.ext.json)
+
+---
+
+### EU gives Sri Lanka 8mn for biodiversity conservation and solid waste management
+
+*2025-09-27 07:00:00* · [`economynextcom`](https://economynext.com/eu-gives-sri-lanka-8mn-for-biodiversity-conservation-and-solid-waste-management-242013/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed an 8 million euro grant agreement with the European Union to launch a new initiative aimed at fostering sustainable economic recovery through improved biodiversity conservation and solid waste management, the Ministry of Finance said.
+
+The 8 million euro grant will support biodiversity conservation by restoring degraded ecosystems, implementing targeted conservation strategies, and promoting sustainable land-use practices.
+
+“Biodiversity is one of the most important assets of Sri Lanka, and through this project we will work together with the authorities to strengthen its protection by improving management of waste,” EU Ambassador Carmen Moreno said.
+
+The European Union contributes to these connections through its Global Gateway Strategy.
+
+...
+
+[Data](articles/07973b55.json)
+
+[Extended Data](ext_articles/07973b55.ext.json)
+
+---
+
+### It is notified that the indictment will be indicted against Rajitha
+
+*2025-09-27 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215056) · `si`
+
+The Bribery Commission was informed by the Bribery Magistrate yesterday (26), alleging that the government was charged by the High Court for a Korean company.
+
+The case was called before Colombo Chief Magistrate Asanka S. Bodaragama yesterday.
+
+The Bribery Commission informed the court that the suspects would be indicted in the High Court against the suspects after the investigation into the incident.
+
+Former Fisheries Minister Rajitha Senaratne and the former Chairman of the Fisheries Ports Corporation have been named as the defendants.
+
+◼️
+
+[Data](articles/be5a96a6.json)
+
+[Extended Data](ext_articles/be5a96a6.ext.json)
+
+---
+
+### Tension at midnight in the Mannar struggle: many injured
+
+*2025-09-27 06:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-போராட்டத்தில்-நள்ளிரவில்-பதற்றம்-பலர்-காயம்/175-365360) · `ta`
+
+Many women were injured in the attack on the police, as the fight against the windmill was taking place in Mannar last night.
+
+As people continue to fight against the wind power project in Mannar, there was an attempt to bring windmills into the island rather
+
+In this case, the police attacked the people who tried to quietly prevent the vehicles carrying windmills and the hospital.. (A)
+
+◼️
+
+[Data](articles/81a898b7.json)
+
+[Extended Data](ext_articles/81a898b7.ext.json)
+
+---
+
+### The weather today
+
+*2025-09-27 06:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226210) · `ta`
+
+The Department of Meteorology has said that frequent rainfall is expected in Sabaragamuwa, Upper, North Western and Southern Provinces, Kandy and Nuwara Eliya districts.
+
+Heavy rains are expected to occur in some parts of the Sabaragamuwa, Western and North Western Provinces, as well as some areas of Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Heavy rains are expected in the North Central Province as well as in Matale, Mannar and Jaffna districts.
+
+Strong winds can be frequent at speeds of 40 - 50 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
+
+The public is asked to avoid damage to the cause of strong winds. ‌ ‌ ‌
+
+Rainfall is expected in many parts of the sea regions from Puttalam to Colombo and Hambantota.
+
+Winds from the southwest at 30 to 40 kilometers per hour in the sea regions.
+
+...
+
+[Data](articles/a74bd7b9.json)
+
+[Extended Data](ext_articles/a74bd7b9.ext.json)
+
+---
+
+### A big rain today
+
+*2025-09-27 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215055) · `si`
+
+Showers will occur at times in the Western, Sabaragamuwa, North Western and Southern provinces today (27).
+
+The Department of Meteorology points out the weather forecast today, in some places in the Western, Sabaragamuwa and North Western provinces.. Heavy rains can occur in more than 50.
+
+The North-Central, Matale, Mannar, and Jaffna districts may occur.
+
+Whakinitura is situated in the Trincomalee, North, North-Central and North Western provinces, in the Central, North, North-Central and North Western Provinces.. 40-50. There will be about strong winds.
+
+The people requested the public to take measures to reduce the danger of strong winds.
+
+◼️
+
+[Data](articles/6e518eb9.json)
+
+[Extended Data](ext_articles/6e518eb9.ext.json)
 
 ---

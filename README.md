@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 19:36:40**
+As of **2025-09-27 19:20:32**
 
 ## Newspaper Stats
 
-*Scraped **78,951** Articles*
+*Scraped **78,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,626
+adalk | 7,625
 adaderanalk | 10,200
 tamilmirrorlk | 11,831
 virakesarilk | 12,820
@@ -27,33 +27,11 @@ adaderanasinhalalk | 13,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,950 (100.0%) of 78,951 articles have been extended.
+78,950 (100.0%) of 78,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### අපිට ඇල් වතුර වීදුරවක්වත් එපා, ව්‍යාපෘති පමණයි අවශ්‍ය
-
-*2025-09-27 18:39:19* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ඇල්-වතුර-වීදුරවක්වත්-එපා--ව්‍යාපෘති-පමණයි-අවශ්‍ය/11-418755) · `si`
-
-අප බැඳී සිටින්නේ රටේ ජනතාවගේ අපේක්ෂා සහ බලාපොරොත්තු සමඟ පමණයි
-
-ශ්‍රී ලංකාවේ නව පරිවර්තනයක් වෙනුවෙන් තැබූ පියවර ආපසු හරවන්නේ නැහැ
-
-වසරක් වැනි කෙටි කාලයක් තුළ රටේ සියලු ක්ෂේත්‍රවල තීරණාත්මක හැරවුමක් සනිටුහන් කළා
-
-– ජනපති එක්සත් ජනපදයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව සමඟ පැවති හමුවේදි පවසයි
-
-තමා බැඳී සිටින්නේ රටේ ජනතාවගේ අපේක්ෂා සහ බලාපොරොත්තු සමඟ පමණක් බවත්, මීට වසරකට පෙර වත්මන් රජය බලයට පත් කර ගනිමින් ජනතාව තැබූ අපේක්ෂා ඉටු කිරීමේදී කිසිවෙකුගේ බලපෑම්වලට යටත් වීමට සූදානම් නොමැති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
-
-රටේ ආර්ථික ස්ථාවරත්වය, නීතියේ ආධිපත්‍යය තහවුරු කිරීම, කාර්යක්ෂම රාජ්‍ය සේවයක් ඇති කිරීම සහ වංචා දූෂණ අවසන් කිරීම, මත්ද්‍රව්‍ය සහ බැඳුණු සංවිධානාත්මක අපරාධ මැඬපැවැත්වීම සහ යහපත් දේශපාලන සංස්කෘතියක් නිර්මාණය කිරීමේදී වසරක් වැනි කෙටි කාලයක් තුළ තීරණාත්මක හැරවුමක් වත්මන් රජය සනිටුහන් කර තිබෙන බවත්, සියලු ක්ෂේත්‍රයන්හි ලැබූ මෙම ජයග්‍රහණ ඉදිරියටම ගෙන යනවා මිස කිසිසේත් ආපසු නොහරවන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
-
-...
-
-[Data](articles/59de8f0d.json)
-
----
 
 ### Minister says a new program to eliminate drugs
 
@@ -2096,5 +2074,17 @@ COLOMBO(News 1st); Police Headquarters announced that action has been taken agai
 [Data](articles/5049d53c.json)
 
 [Extended Data](ext_articles/5049d53c.ext.json)
+
+---
+
+### President Dissanayake In Japan Visit
+
+*2025-09-27 09:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/president-dissanayake-in-japan-visit) · `en`
+
+...
+
+[Data](articles/a4543c86.json)
+
+[Extended Data](ext_articles/a4543c86.ext.json)
 
 ---

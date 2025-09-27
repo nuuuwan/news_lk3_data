@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 05:56:18**
+As of **2025-09-27 07:05:00**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,799 (100.0%) of 78,807 articles have been extended.
+78,807 (100.0%) of 78,807 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1073,6 +1073,8 @@ The event created a platform to showcase the growing Sri Lankan Trailblazer Comm
 
 [Data](articles/ec16d750.json)
 
+[Extended Data](ext_articles/ec16d750.ext.json)
+
 ---
 
 ### Modern Laboratory for Medicine, Ayurveda, Food and cosmetics- Minister Nalinda Jayatissa
@@ -1105,6 +1107,8 @@ AIA Sri Lanka is proud to announce a significant milestone in its journey toward
 
 [Data](articles/00f86aca.json)
 
+[Extended Data](ext_articles/00f86aca.ext.json)
+
 ---
 
 ### Most awaited SLIM Effie 2025 Awards launches – celebrating marketing effectiveness with global prestige
@@ -1121,6 +1125,8 @@ Globally recognized as the gold standard for marketing achievement, Effie Awards
 
 [Data](articles/8dce9e8a.json)
 
+[Extended Data](ext_articles/8dce9e8a.ext.json)
+
 ---
 
 ### CSE marks 40th anniversary with 4,000 tree reforestation initiative
@@ -1135,6 +1141,8 @@ Through this partnership, the CSE contributes to the ongoing reforestation effor
 
 [Data](articles/ee72d1e3.json)
 
+[Extended Data](ext_articles/ee72d1e3.ext.json)
+
 ---
 
 ### Bourse’s robustness boosted by LB Finance’s acquisition of 55.6% stake in Associated Motorways
@@ -1148,6 +1156,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/1a910626.json)
+
+[Extended Data](ext_articles/1a910626.ext.json)
 
 ---
 

@@ -1,45 +1,147 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 16:36:32**
+As of **2025-09-27 17:06:04**
 
 ## Newspaper Stats
 
-*Scraped **78,922** Articles*
+*Scraped **78,932** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 339
 newsfirstlk | 439
 dbsjeyarajcom | 635
-bbccomsinhala | 705
+bbccomsinhala | 706
 colombotelegraphcom | 793
 economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
-adaderanalk | 10,199
+adaderanalk | 10,200
 tamilmirrorlk | 11,830
-virakesarilk | 12,815
-adaderanasinhalalk | 13,705
+virakesarilk | 12,820
+adaderanasinhalalk | 13,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,921 (100.0%) of 78,922 articles have been extended.
+78,932 (100.0%) of 78,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### பட்ஜெட்டை இந்த பேனாவுலதான் எழுதுவேன்...
+### Central Provincial Public Officers informed of AI Technology
+
+*2025-09-27 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215073) · `si`
+
+Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat yesterday (26).
+
+The program was organized by the provincial council, the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
+
+Six programs to educate government officials on digitizing and AI technology have been conducted and more than 4,000 officers participated.
+
+It is planned to educate all government officials who are outside Colombo about the functioning of the State Officer and AI technology to use this program at the provincial digitization plan to cover all provinces.
+
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+Dr. Hans Wijayasuriya of Dr. Hans Wijayasuriya, Information Technology Agency of IT Agency
+
+...
+
+[Data](articles/be8f302c.json)
+
+[Extended Data](ext_articles/be8f302c.ext.json)
+
+---
+
+### President and Trump meet
+
+*2025-09-27 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215072) · `si`
+
+President Anura Kumara Dissanayake and the US President have met with Donald Trump.
+
+The US President had warmly welcomed by Anura Kumara Dissanayake and a friendly chat was also engaged in a friendly chat.
+
+The meeting was held during the special dinner of the United Nations leaders who had arrived in New York to attend the 80th session of the United Nations General Assembly.
+
+◼️
+
+[Data](articles/5f3e848b.json)
+
+[Extended Data](ext_articles/5f3e848b.ext.json)
+
+---
+
+### I will write the budget ...
 
 *2025-09-27 16:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்ஜெட்டை-இந்த-பேனாவுலதான்-எழுதுவேன்/175-365368) · `ta`
 
 ◼️
 
 [Data](articles/834d9295.json)
+
+[Extended Data](ext_articles/834d9295.ext.json)
+
+---
+
+### The program to modernize the Narahenpitti Railway Station
+
+*2025-09-27 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226244) · `ta`
+
+The program to modernize the Narahenpita Railway Station on Saturday (27) was launched under the "Dream Destination" program implemented with the "Clean Sri Lanka" program.
+
+The Narahenpitti Railway Station, which is considered to be another unique railway station on the Kelaniwa road, is located between the Koda Road Railway Station and the Kirulapana Railway Station.
+
+Located at a distance of 5.06 km from Colombo and at a height of 3.72 m above sea level, the railway station consists of two main platforms and a ticket counter.
+
+The railway station, located near a number of state, semi -government and private companies, including the Department of Labor, the Transport Department and the Department of Land Survey, is using a large number of passengers for daily duties.
+
+...
+
+[Data](articles/5ab5959f.json)
+
+[Extended Data](ext_articles/5ab5959f.ext.json)
+
+---
+
+### South Korea has asked Trump to be ‘peacemaker’ with North Korea: FM Hyun
+
+*2025-09-27 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112963/south-korea-has-asked-trump-to-be-peacemaker-with-north-korea-fm-hyun) · `en`
+
+South Korea’s president has asked President Donald Trump to become a peacemaker and use his leadership to get North Korea to talks to reduce military tensions on the Korean Peninsula, the South’s top diplomat said Friday.
+
+Trump welcomed the request from President Lee Jae-myung and he expressed his willingness to be engaged with North Korea again, Foreign Minister Cho Hyun said in an interview with The Associated Press. There was no immediate word from the White House.
+
+Trump and North Korean leader Kim Jong Un met three times as North Korea was building a nuclear weapons stockpile, which Kim views as key to the country’s security and his continued rule of the northeast Asian country.
+
+...
+
+[Data](articles/2b5a51e2.json)
+
+[Extended Data](ext_articles/2b5a51e2.ext.json)
+
+---
+
+### It rains this evening
+
+*2025-09-27 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215071) · `si`
+
+Several spells of showers can occur in the Western, Sabaragamuwa and North Western provinces, in Galle, Kandy and Nuwara Eliya districts.
+
+And the Uva Province is also in the Ampara District. Showers or thundershowers will occur at several places about 2.00.
+
+The North, North-Medium, North-Medium, North-Medium, North-Medium, North Western and Central provinces are also in the North, North-Central and Central provinces.. It is reported that 40-50 can cause strong winds.
+
+The Department of Meteorological Department requests to take necessary steps to minimize the damages caused by strong winds.
+
+◼️
+
+[Data](articles/d8d42cda.json)
+
+[Extended Data](ext_articles/d8d42cda.ext.json)
 
 ---
 
@@ -164,6 +266,50 @@ The event was the second death of a professional fighter in Ghana within six mon
 [Data](articles/0c5814b3.json)
 
 [Extended Data](ext_articles/0c5814b3.ext.json)
+
+---
+
+### Two buses collided face -to -face!
+
+*2025-09-27 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226241) · `ta`
+
+Two persons were injured in a bus accident in Dompe area on Pookoda - Dompe Road in Gampaha, police said.
+
+The accident occurred when a bus carrying factory staff collided head -on with a private bus, police said.
+
+Drivers of two buses were injured during the accident, police said, police said.
+
+◼️
+
+[Data](articles/28501d02.json)
+
+[Extended Data](ext_articles/28501d02.ext.json)
+
+---
+
+### The reason for the high electricity tariff is the use of ineffective electrical devices - the Sri Lanka Sustainable Power Authority
+
+*2025-09-27 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226240) · `ta`
+
+The Sri Lanka Sustainable Energy Authority has said that the reason for the high electricity tariff is the use of ineffective electrical equipment.
+
+Commenting on the media after an event in Colombo, the Director of the Authority Harsha Wickremasinghe said this.
+
+This loss is often caused by the use of refrigerators over 10 years.
+
+During the study, the use of incompetent power equipment is the cause of high electricity tariffs in homes in Sri Lanka.
+
+He noted that the problem is usually found in refrigerators used for over 10 years.
+
+One -third of the houses in the Western Province is unusable.
+
+The Air Conditioners will be tightened by the end of this year, said Harsha Wickremasinghe, Director of the Sri Lanka Standards Authority.
+
+◼️
+
+[Data](articles/06fafc1f.json)
+
+[Extended Data](ext_articles/06fafc1f.ext.json)
 
 ---
 
@@ -529,6 +675,24 @@ In the recent past, the Criminal Investigation Department and the Attorney Gener
 
 ---
 
+### The country's computer literacy rate is low!
+
+*2025-09-27 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226234) · `ta`
+
+In 2024, the Department of Summit and Statistics estimates that only two in the country were educated as computer literate.
+
+Accordingly, 64.1 per cent of Sri Lankans are unable to use the computer.
+
+The Survey Results show that from 2023 to 2024 to 3.1 percent, the Department of Commerce and Statistics; Reported.
+
+◼️
+
+[Data](articles/41adb239.json)
+
+[Extended Data](ext_articles/41adb239.ext.json)
+
+---
+
 ### VIP - Assets of the Palmyra Comprehension - Liabilities
 
 *2025-09-27 13:00:03* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පරභ-නරපරභ-මලමව-වතකම-බරකම/2-680309) · `si`
@@ -548,6 +712,30 @@ Foreign Affairs Minister Vijitha Herath, the leaders of the national promos. Sev
 [Data](articles/3e773cc2.json)
 
 [Extended Data](ext_articles/3e773cc2.ext.json)
+
+---
+
+### Tangalle drug incident; Permission to investigate the son of the victim in police detention without treatment at the hospital
+
+*2025-09-27 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226235) · `ta`
+
+Two bodies were recovered from a house on September 22 in Tangalle, Hambantota, and another person in the house died at the Tangalle Base Hospital without treatment.. The Tangalle Magistrate's Court yesterday (26) granted permission to investigate the son of the deceased.
+
+Drugs, including 245 kg of ice and 380 kg of heroin, have been seized.
+
+As well as 5 pistol rifles and a r - 56 firing.
+
+Accordingly, the magistrate has granted permission to investigate the son of the deceased until October 1.
+
+Police suspect the driver of a lorry containing drugs in the hospital without treatment.
+
+Earlier, six people have been arrested in connection with the incident and they have been placed in police detention until September 29.
+
+◼️
+
+[Data](articles/184684a8.json)
+
+[Extended Data](ext_articles/184684a8.ext.json)
 
 ---
 
@@ -1924,209 +2112,5 @@ The President said last month that he would not implement any plans against the 
 [Data](articles/256ff690.json)
 
 [Extended Data](ext_articles/256ff690.ext.json)
-
----
-
-### India wins the super-over
-
-*2025-09-27 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215054) · `si`
-
-Due to the weakest batsmen of the Asia Trophy Tsunami T20 cricket, the Sri Lankan team was defeated in the face of the Asia Trophy T20 cricket match yesterday.
-
-The competition was held at Dubai last night, completing the round of the Super Four Super Schools in the tournament.
-
-India scored 202 runs for the loss of 5 wickets in the 20 overs.
-
-However, Sri Lanka, near the target, scored 202 runs for the loss of 5 wickets in the 20 overs.
-
-A Great Innings Marked Rs.
-
-He won only 58 balls to the meeting and launched six sixes and seven fours.
-
-He was among the first batsman who scored a Tests and Twenty-Dual Century and Twenty20-century Tesh, with the wishes of Sri Lanka.
-
-Sri Lankan batsman was the highest number of runs in the international T20.
-
-Tillakaratne Dilshan had that report before. He was unbeaten on 104 runs against Australia in 2011.
-
-Kusal Mendis left the first wicket of the Sri Lankan innings, but Kusal Janith joined the second wicket.
-
-...
-
-[Data](articles/f4821817.json)
-
-[Extended Data](ext_articles/f4821817.ext.json)
-
----
-
-### Directors of Asiri Hospital released on bail after being produced before court
-
-*2025-09-27 03:52:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g73vgyq91o) · `si`
-
-Directors of Asiri Hospital released on bail after being produced before court
-
-As Chairman of Ashok Pathirage, the Chairman of Ashok Pathirage, was released on bail after being filed in courtesy, was released on bail after being carried out by a resident of a resident of the prices of drugs.
-
-Accordingly, Asoka Pathirage, Manjula Pathirage, Manjula Karunaratne, Sudarshan Ahangama, Sivalis Premaratne, Sivakumar and Ajith Karunaratne were released on bail of Rs.
-
-The Acting Magistrate also ordered the recall of the warned warrants.
-
-According to a complaint lodged by the Ministry of Health, the National Drug Regulatory Authority (NDB) has filed the case against the directors of the hospital.
-
-The case was accused of receiving a maximum retail price for the drugs, Samarakoon Mudiyanselage, Kumarihami, who was given treatment at the Narahenpita area in February 07 and 19.
-
-The case was filed against the defendants under 11 charges.
-
-...
-
-[Data](articles/74434874.json)
-
-[Extended Data](ext_articles/74434874.ext.json)
-
----
-
-### Opposition to Netanyahu in the UN
-
-*2025-09-27 03:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-நெதன்யாகுவுக்கு-எதிர்ப்பு/175-365359) · `ta`
-
-When Israeli Prime Minister Netanyahu addressed the UN General Assembly, several representatives, including various countries and officials, left the party.
-
-The 80th meeting of the UN General Assembly is being held in the United States. Israeli Prime Minister Benjamin Netanyahu addressed the gathering yesterday. In his speech, he said, “Palestine should not recognize a separate country. That recognition is parallel to the Israeli suicide. Countries that support Palestine on this issue should be ashamed. Israel is dealing with about seven conflicts with little support. ”
-
-Earlier, in a few seconds of Netanyahu's stage to make his speech, several representatives, including various country leaders and officials in the House, got up and walked away from their seats.
-
-Thus most of the seats were void during the Netanyahu text. Video related to this is going viral on social networks. It is noteworthy that Netanyahu's text was broadcast by loudspeakers on the Gaza border. (A)
-
-◼️
-
-[Data](articles/1ff5e7b1.json)
-
-[Extended Data](ext_articles/1ff5e7b1.ext.json)
-
----
-
-### Palestine should not recognize a separate country for Palestine
-
-*2025-09-27 03:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலஸ்தீனத்துக்கு-தனி-நாடு-அங்கீகாரம்-கூடாது/50-365358) · `ta`
-
-Israeli Prime Minister Benjamin Netanyahu has said that their nation has suppressed the movement of extremist organizations, including Hamas, Houthi and Hizbullah.
-
-The UN. He said this while addressing the 80th meeting of the General Assembly on Friday. When he further addresses,
-
-I was showing this map when I spoke here last year. The extremist activity of Iran is mentioned in this map. This map is a threat to the world. This is the same for our region and nation. Iran is developing nuclear weapons and ballistic missiles. Iran intensifies in the appropriate project. This is not just to destroy Israel. It is a threat to world countries including the US. Iran is threatening other countries.
-
-...
-
-[Data](articles/8d24b20f.json)
-
-[Extended Data](ext_articles/8d24b20f.ext.json)
-
----
-
-### Twin infant and mother death during childbirth
-
-*2025-09-27 03:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசவத்தின்-போது-இரட்டை-சிசுக்களும்-தாயும்-உயிரிழப்பு/175-365357) · `ta`
-
-Yall. The mother, who died of the deaths of twin babies at the Teaching Hospital, died without treatment.
-
-The deceased is Nimalaraj Sarumathi (age 28), a young mother of Somasundaram Road, Anaikottai.
-
-On Sunday, the 21st of this month. When two infants were delivered by surgery at the Teaching Hospital, one infant died and the fetus died in a few hours.
-
-The mother, who was still undergoing treatment, died yesterday morning (26) without treatment.
-
-Jaffna regarding this death. District Sudden Death Investigation Officer Arumugam Jayapalasingham conducted investigations. The witnesses were regulated by the Manipay police.
-
-Anatomical parts have been sent to Colombo for chemical analysis to detect the cause of death in the autopsy. (A)
-
-◼️
-
-[Data](articles/c8f233f0.json)
-
-[Extended Data](ext_articles/c8f233f0.ext.json)
-
----
-
-### The Special Religious Series began to mark the 76th anniversary of the Army
-
-*2025-09-27 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226208) · `ta`
-
-The special religious event, which was organized to bless the 76th anniversary of the Sri Lankan army, began today with the religious observance of St. Jaya Sri Maha Bodhi, Anuradhapura, September 26, 2025.
-
-The religious event was chaired by Army Commander Lieutenant General Lasantha Rodrigo.
-
-The procession carrying the military flags that started from the Ruwanweli Maha Saya went to Jaya Sri Maha Bodhi and received blessings.
-
-These religious rituals are the Prime Minister of the Eight Worship. The event was chaired by Dr. Pallegama Hemaratne Nayaka Thera.
-
-The Hindu rituals were chaired by the army commander at the Sri Kandaswamy Temple complex in Vavuniya to bless the military flags.
-
-Subsequently, Army Commander Lieutenant General Lasantha Rodrigo made a special visit to the war -affected war -torn warfare welfare of the war -torn warfare, and inquired about their welfare.
-
-Senior officials, officers and soldiers participated in the events representing all the army's brigades.
-
-◼️
-
-[Data](articles/29f419d0.json)
-
-[Extended Data](ext_articles/29f419d0.ext.json)
-
----
-
-### Many measures are needed to ensure the safety of domestic flights - Sajith Premadasa
-
-*2025-09-27 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226207) · `ta`
-
-Our country is high in comparison with other countries in the security of the airline. Opposition leader Sajith Premadasa, however, said that more measures should be taken to ensure the safety of domestic flights.
-
-He said this while addressing the adjournment of the House in Parliament on Friday (26).
-
-As a country, it is a pleasure to see that our air travel protection is at high level. The score for our country is 92 percent in the air safety score, which is a high -level score compared to other countries in our country.
-
-As a country, however, we need to take more attention to domestic aviation safety, especially if we take steps to improve air traffic safety. Because of the 2022 hecopter accident occurred. Similarly, accidents occurred during domestic flights over 2020,2021,2023.
-
-...
-
-[Data](articles/c095110c.json)
-
-[Extended Data](ext_articles/c095110c.ext.json)
-
----
-
-### A confusing situation at the Akkaraippana Divisional Hospital
-
-*2025-09-27 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226206) · `ta`
-
-Some residents of the area alleged that a youth who was admitted to the hospital died and died because he was not treated properly.
-
-A 25 -year -old youth from the Bambarakala estate belonging to the Akkaraipattana police division has taken the house to the hospital on the 23rd of this month.
-
-In this case, the condition of the disease was intensified yesterday. Subsequently, the young man has brought his relatives to the hospital. The doctor who examined him was advised to stay and get treatment.
-
-In the meantime, some of the people of the area have been aggressive that they have entered the hospital and died due to lack of proper treatment.
-
-Subsequently, the police officers, including the officer in charge of the Akkaraipattana police station, rushed to the hospital.
-
-◼️
-
-[Data](articles/4247f272.json)
-
-[Extended Data](ext_articles/4247f272.ext.json)
-
----
-
-### Cultivating circular futures: Youth as agents of change
-
-*2025-09-27 00:54:00* · [`economynextcom`](https://economynext.com/cultivating-circular-futures-youth-as-agents-of-change-241998/) · `en`
-
-On September 29, the world marks the International Day of Awareness on Food Loss and Waste, highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
-
-The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
-
-...
-
-[Data](articles/b185f16a.json)
-
-[Extended Data](ext_articles/b185f16a.ext.json)
 
 ---

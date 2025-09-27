@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 16:20:30**
+As of **2025-09-27 16:36:32**
 
 ## Newspaper Stats
 
-*Scraped **78,921** Articles*
+*Scraped **78,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
 adaderanalk | 10,199
-tamilmirrorlk | 11,829
+tamilmirrorlk | 11,830
 virakesarilk | 12,815
 adaderanasinhalalk | 13,705
 
@@ -27,11 +27,21 @@ adaderanasinhalalk | 13,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,921 (100.0%) of 78,921 articles have been extended.
+78,921 (100.0%) of 78,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### பட்ஜெட்டை இந்த பேனாவுலதான் எழுதுவேன்...
+
+*2025-09-27 16:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்ஜெட்டை-இந்த-பேனாவுலதான்-எழுதுவேன்/175-365368) · `ta`
+
+◼️
+
+[Data](articles/834d9295.json)
+
+---
 
 ### Seized many motorcycles
 
@@ -2118,25 +2128,5 @@ The traditional “take-make-use-discard” model has proved unsustainable. A sh
 [Data](articles/b185f16a.json)
 
 [Extended Data](ext_articles/b185f16a.ext.json)
-
----
-
-### Foreign Ministry coordinates repatriation of foreign monks killed in Na Uyana cable car tragedy
-
-*2025-09-27 00:50:35* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Ministry-coordinates-repatriation-of-foreign-monks-killed-in-Na-Uyana-cable-car-tragedy/56-782261) · `en`
-
-The Foreign Ministry is working with Sri Lanka’s diplomatic missions in India, Romania, and Russia to repatriate the remains of three foreign monks who died in the tragic cable car accident at the Na Uyana Aranya Forest Monastery in Pansiyagama, Kurunegala.
-
-Seven monks were killed and six others seriously injured when the monastery’s cable car—known as “Dakkuwa”—plunged on 24 September while transporting 13 monks back to the hilltop monastery after a religious ceremony.
-
-Foreign Ministry Spokesman Thushara Rodrigo said the temple had requested the Ministry Secretary to obtain the consent of the relatives of the deceased monks to hold final rites at the monastery.
-
-“We have contacted the relatives of the Indian monk through our High Commission in India and they wish to take the remains to India. We are coordinating it at the moment,” Rodrigo told Daily FT.
-
-...
-
-[Data](articles/60e7968a.json)
-
-[Extended Data](ext_articles/60e7968a.ext.json)
 
 ---

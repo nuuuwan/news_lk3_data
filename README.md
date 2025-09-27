@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 11:06:38**
+As of **2025-09-27 11:39:30**
 
 ## Newspaper Stats
 
-*Scraped **78,844** Articles*
+*Scraped **78,860** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 310
+lankadeepalk | 311
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -19,19 +19,83 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,622
 adaderanalk | 10,193
-tamilmirrorlk | 11,824
-virakesarilk | 12,791
-adaderanasinhalalk | 13,699
+tamilmirrorlk | 11,825
+virakesarilk | 12,804
+adaderanasinhalalk | 13,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,841 (100.0%) of 78,844 articles have been extended.
+78,847 (100.0%) of 78,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Surkumar, who spoke of the Pallgam attack, worries
+
+*2025-09-27 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215063) · `si`
+
+The ICC fined the Indian leader Surkumar Yadav against the 'Palgam' attack on the 'Pakistan' attack on the Base Round of the Asia Cup.
+
+It is said that a fined 30% fined by his competition fee.
+
+The match was held on the 14th of this month and the match beat Pakistan by 7 wickets.
+
+The Indian leader said that the victory was dedicated to the Indian armed forces.
+
+The 'Palgam' was disaster and the washed with their families.
+
+However, Pakistan has complained to the ICC against that statement.
+
+The final decision has been taken after the formal investigation of the ICC Rithard Richardson.
+
+However, it is said that India has appealed to the ICC verdict.
+
+At the bottom of the South Kashmir, 26 people were killed by a shooting group of South Kashmir, a popular tourist area of ​​India.
+
+However, India alleges that Pakistan is behind the attack.
+
+As a result, several shots were carried out between the two countries, and in the last over, the final was silent.
+
+◼️
+
+[Data](articles/0a319b0f.json)
+
+[Extended Data](ext_articles/0a319b0f.ext.json)
+
+---
+
+### ஐக்கிய நாடுகள் சபையின் பிரகடன உடன்படிக்கையில் (BBNJ) 60 ஆவது உறுப்பு நாடு இணைந்ததை முன்னிட்டு இடம்பெற்ற நிகழ்வில் ஜனாதிபதி பங்கேற்பு
+
+*2025-09-27 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226223) · `ta`
+
+தேசிய அதிகார வரம்பிற்கு அப்பாற்பட்ட பகுதிகளின் சமுத்திர உயிரியல் பல்வகைமையின் பாதுகாப்பு மற்றும் நிலைபேறான பயன்பாடு தொடர்பான சமுத்திர சட்டம் குறித்த ஐக்கிய நாடுகள் சபையின் பிரகடன உடன்படிக்கையில் (BBNJ) 60 ஆவது உறுப்பு நாடு இணைந்ததை முன்னிட்டு, பிரான்ஸ் அரசாங்கத்தால் ஏற்பாடு செய்யப்பட்டிருந்த நிகழ்வு, செப்டெம்பர் 25 ஆம் திகதி பிரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்ரோன் உள்ளிட்ட ஏனைய நாடுகளின் அரச தலைவர்களின் பங்கேற்புடன் நியுயோர்க் நகரில் நடைபெற்றதுடன், இந்த உடன்படிக்கையில் அங்கம் வகிக்கும் உறுப்பு நாடான இலங்கையைப் பிரதிநிதித்துவப்படுத்தி ஜனாதிபதி அநுரகுமார திசாநாயக்கவும் அதில் கலந்து கொண்டார்.
+
+இந்த உடன்படிக்கையில் இணைந்த 58 ஆவது உறுப்பு நாடாக, இலங்கை 2025 செப்டெம்பர் 16 ஆம் திகதி  இந்த உடன்படிக்கையில் இணைந்ததுடன், இதன் மூலம் இந்த உடன்படிக்கையின்  தரப்பு நாடாக மாறியது.
+
+...
+
+[Data](articles/84500942.json)
+
+---
+
+### இந்திய மருந்துகள் இறக்குமதிக்கு 100% வரி : டொனால்ட் ட்ரம்ப்
+
+*2025-09-27 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226221) · `ta`
+
+இந்தியா உட்பட வெளிநாடுகளில் இருந்து இறக்குமதி செய்யப்படும் மருந்துப் பொருட்களுக்கு ஒக்டோபர் 1ஆம் திகதி முதல் 100 சதவீத வரி விதிக்கப்படும் என அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் அறிவித்துள்ளார்.
+
+ஏற்கெனவே இந்தியப் பொருட்களுக்கு 50 சதவீத வரி விதிக்கப்பட்டுள்ள நிலையில், மருந்துப் பொருட்களுக்கு 100 சதவீத வரி விதிக்கப்பட்டிருப்பது அமெரிக்க ஜனாதிபதியின் அடுத்த தாக்குதலாக பார்க்கப்படுகிறது.
+
+அமெரிக்க ஜனாதிபதியாக டொனால்ட் ட்ரம்ப் கடந்த ஜனவரி மாதம் பொறுப்பேற்றார். அவர் பதவியேற்றது முதல், பல்வேறு நாடுகள் மீது சரமாரியாக இறக்குமதி வரி விதிப்பை அறிவித்து வருகிறார். இந்தியா, சீனா உட்பட பல்வேறு நாடுகளில் இருந்து இறக்குமதி செய்யப்படும் பொருட்களுக்கு கூடுதல் வரியையும் அவர் அறிவித்தார்.
+
+...
+
+[Data](articles/d3016b95.json)
+
+---
 
 ### President meets Anura and French president
 
@@ -59,6 +123,126 @@ This agreement covers 2/3 oceans in the world, action will be taken to protect o
 
 ---
 
+### கொலம்பிய ஜனாதிபதி குஸ்டாவோ பெட்ரோவின் விசாவை அமெரிக்கா இரத்து செய்ய உள்ளது
+
+*2025-09-27 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226217) · `ta`
+
+நியூயோர்க் நகரில் நடந்த செயல்களுக்காக, கொலம்பிய ஜனாதிபதி குஸ்டாவோ பெட்ரோவின் விசாவை அமெரிக்கா இரத்து செய்ய உள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+நியூயோர்க்கில் உள்ள ஐக்கிய நாடுகள் சபையின் தலைமையகத்திற்கு வெளியே, பல பாலஸ்தீன ஆதரவு போராட்டக்காரர்களுடன் கொலம்பிய ஜனாதிபதி இணைந்துள்ளமை படமாக்கப்பட்டது.
+
+குறித்த பதிவுகளில் கொலம்பிய ஜனாதிபதி பெட்ரோவின் குற்றம் குறித்து விபரங்கள் எதுவும் அறியப்படவில்லை.
+
+இருப்பினும், சமூக ஊடகங்களில் பரவலாகப் பரவிய காட்சிகள், நேற்று வெள்ளிக்கிழமை(26) நியூயோர்க்கில் உள்ள ஐக்கிய நாடுகள் சபையின் தலைமையகத்திற்கு வெளியே இடம்பெற்ற போராட்டக்காரர்களுடன் கொலம்பிய ஜனாதிபதி இணைந்த காட்சிகள் காணப்பட்டன.
+
+கொலம்பிய ஜனாதிபதி குஸ்டாவோ பெட்ரோவின் பொறுப்பற்ற மற்றும் தீக்குளிக்கும் செயல்களை காரணம் காட்டி, அவரது விசாவை இரத்து செய்வதாக அமெரிக்க வெளியுறவுத்துறை அறிவித்துள்ளது.
+
+...
+
+[Data](articles/5c0961b3.json)
+
+---
+
+### மோட்டார் சைக்கிள் விபத்தில் ஒருவர் உயிரிழப்பு!
+
+*2025-09-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226213) · `ta`
+
+களுத்துறையில் புலத்சிங்கள பொலிஸ் பிரிவுக்குட்பட்ட மொல்காவ - புலத்சிங்கள வீதியின் பருத்தல்வில பகுதியில், நேற்று வெள்ளிக்கிழமை (26) மாலை, இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+
+மொல்காவ நோக்கிச் சென்ற மோட்டார் சைக்கிள் ஒன்று எதிர் திசையில் இருந்து வந்த மோட்டார் சைக்கிள் மீது நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் மோட்டார் சைக்கிள் ஓட்டுநர்கள் இருவரும் பலத்த காயமடைந்து புலத்சிங்கள வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைகளுக்காக ஹொரன வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர் மோட்டார் சைக்கிள் ஓட்டுநர்களில் ஒருவர், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+மற்றைய மோட்டார் சைக்கிள் ஓட்டுநர் மேலதிக சிகிச்சைகளுக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+விபத்தில் உயிரிழந்தவர் புலத்சிங்கள, பருத்தல்வில பகுதியைச் சேர்ந்த 26 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/57c21b01.json)
+
+---
+
+### Van
+
+*2025-09-27 10:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-விபத்துக்குள்ளான-வேன்/175-365363) · `ta`
+
+A van in the first pillar of the Mahiyanganaya - Grathurukkottai main road has crashed into a tree and crashed into a tree.
+
+Eleven people who were traveling in the van were injured and admitted to the Mahiyanganaya Hospital and Badulla Hospital. R
+
+◼️
+
+[Data](articles/183a8030.json)
+
+[Extended Data](ext_articles/183a8030.ext.json)
+
+---
+
+### அங்கொடையில் பெண் கொடூரமாக கொலை: எதிர் வீட்டில் வசிப்பவர் கைது!
+
+*2025-09-27 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226212) · `ta`
+
+வெலிக்கடை பொலிஸ் பிரிவுக்குட்பட்ட அங்கொடை பகுதியில் பெண்ணொருவர்  கூரிய ஆயுதத்தால் கொடூரமாக தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளதாக வெலிக்கடை பொலிஸார் தெரிவித்தனர்.
+
+கொலைசெய்யப்பட்டவர் அங்கொடை , அக்கொன பகுதியைச் சேர்ந்த 65 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+பெண்ணுக்கும் எதிர் வீட்டில் வசிக்கும் நபருக்கும் இடையில் ஏற்பட்ட தகராறு காரணமாக இந்த கொலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தாக்குதலுக்குள்ளான பெண் முல்லேரியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், சிகிச்சை பலனின்றி உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+எதிர் வீட்டில் வசிக்கும் நபரும், கொலைசெய்யப்பட்ட பெண்ணும் ஒரே நிறுவனத்தில் பணியாளராகப் பணிபுரிந்து வந்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+இதனையடுத்து எதிர் வீட்டில் வசிக்கும் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன், வெலிக்கடை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறனர்.
+
+◼️
+
+[Data](articles/ce4ad6d6.json)
+
+---
+
+### யாத்திரைக்கு சென்ற வேன் மரத்தில் மோதி விபத்து ; 11 பேர் காயம்
+
+*2025-09-27 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226220) · `ta`
+
+பதுளை - மஹியங்கனை, கிராதுருகொட்டாவ பகுதியில் யாத்திரீகர்களை ஏற்றிச் சென்ற வேன், ஒன்று வீதியை விட்டு விலகி மரத்தில் மோதி விபத்துக்குள்ளானதில்,  11 பேர் காயமடைந்து மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் பதுளை, கைலகொட பகுதியைச் சேர்ந்த ஐந்து ஆண்கள், ஆறு பெண்கள் மற்றும் 10 வயது சிறுவன்  வேன் சாரதி ஆகியோர் காயடைந்துள்ளனர்.
+
+அனுராதபுரத்திற்கு யாத்திரை சென்றுவிட்டு பதுளைக்குத் திரும்பிக் கொண்டிருந்தபோது, வேன் சாரதி தூங்கியதால், வேன் வீதியை விட்டு விலகி பெரிய மரத்தில் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+விபத்தில் காயடைந்தவர்களை மீட்டு மஹியங்கனை வைத்தியசாலைக்கு  கொண்டு செல்லும் பணிகளை பொலிஸார் முன்னெடுத்தனர்.
+
+விபத்தில் வேன் கடுமையாக சேதமடைந்துள்ளதாகவும், காயமடைந்தவர்களில் பலரின் நிலை கவலைக்கிடமாக இருப்பதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/477ed7a0.json)
+
+---
+
+### காசா முழுவதும் இஸ்ரேலிய தாக்குதல்: ஒரே நாளில் 60 பாலஸ்தீனியர்கள் பலி
+
+*2025-09-27 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226219) · `ta`
+
+காசா முழுவதும் இஸ்ரேல் நடத்திய தாக்குதல்களில் நேற்று வெள்ளிக்கிழமை (26) சுமார் 60 பாலஸ்தீனியர்கள் கொல்லப்பட்டதாக மருத்துவ வட்டாரங்கள் தெரிவித்ததாக சர்வதேச ஊடகமொன்று செய்தி வெளியிட்டுள்ளது.
+
+செப்டம்பர் 16ஆம் திகதி தரைவழி நடவடிக்கையைத் தொடங்கியதிலிருந்து இஸ்ரேல் தனது தாக்குதல்களை தீவிரப்படுத்தியுள்ளது.
+
+அல்-வேஹ்தா தெரு, ஷாதி முகாம் மற்றும் நாசர் சுற்றுப்புறம் உள்ளிட்ட இடங்கள் நேற்று வெள்ளிக்கிழமை தாக்குதல்கள் நடத்தப்பட்டன.
+
+வெவ்வேறு தளங்கள் மற்றும் இடங்களை குறிவைத்து இஸ்ரேலிய தாக்குதல்கள் அதிகரித்து வருவதால் நிலைமை மோசமாகி வருவதாக அந்த நாட்டு அதிகாரிகள் தெரிவிக்கின்றனர்.
+
+அதிகரித்த குண்டுவீச்சு தாக்குதலுக்கு மத்தியில், "ஒவ்வொரு எட்டு அல்லது ஒன்பது நிமிடங்களுக்கு ஒரு வான்வழித் தாக்குதலை" நடத்தியதாக குறிப்பிடப்படுகிறது.
+
+இஸ்ரேலிய தாக்குதல்களால் ஏற்பட்ட உயிரிழப்புகளுடன், சர்ச்சைக்குரிய இஸ்ரேல் மற்றும் அமெரிக்காவின் ஆதரவுடன் நடத்தப்படும் தளங்களிலிருந்து உதவி பெற முயன்றபோது வெள்ளிக்கிழமை பலர் கொல்லப்பட்டதாக பாலஸ்தீன மருத்துவ வட்டாரங்கள் உறுதிப்படுத்தியுள்ளன.
+
+◼️
+
+[Data](articles/b57f4e70.json)
+
+---
+
 ### Government boss redirected Japanese investors
 
 *2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/1-680303) · `si`
@@ -78,6 +262,24 @@ Sanara Araya said that he was very embarrassed and the number of Japanese invest
 [Data](articles/d0c03bce.json)
 
 [Extended Data](ext_articles/d0c03bce.ext.json)
+
+---
+
+### சம்மாந்துறையில் காட்டு யானைகளின் தொல்லை அதிகரிப்பு ; உடனடியாக நடவடிக்கை எடுக்குமாறு பிரதேசமக்கள் கோரிக்கை
+
+*2025-09-27 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226218) · `ta`
+
+சம்மாந்துறை பிரதேசத்தில் காட்டு யானைகளின் அட்டூழியம் நாளுக்கு நாள் அதிகரித்து வருகின்றது என்பதுடன், மக்கள் தங்கள் உயிர் மற்றும் சொத்துகளை பாதுகாப்பதற்காக அச்சத்துடன் வாழும் நிலைமை ஏற்பட்டுள்ளதாக பிரதேசமக்கள் தெரிவித்துள்ளனர்.
+
+இன்று சனிக்கிழமை (27) அதிகாலை சம்மாந்துறை , உடங்கா ஆகிய பகுதியில் காட்டு யானை ஒன்று வீட்டு மதில்களையும், கடை ஒன்றினையும், பயன் தரும் வாழை மற்றும் தென்னை மரங்களையும் சேதப்படுத்தியுள்ளது.
+
+இதனால் அம்பாறை மாவட்டத்தில் சம்மாந்துறை பிரதேசத்தில் வாழும் மக்கள் இரவு வேளைகளில் காட்டு யானைகளின் தொல்லையால் அச்சமடைந்துள்ளனர்.
+
+இது தொடர்பாக, சம்மாந்துறை செந்நெல் கிராமம் 01, செந்நெல் கிராமம் 02 உள்ளிட்ட பகுதிகளில் கடந்த சில நாட்களாக இரவுநேரங்களில் காட்டு யானைகள் உட்புகுந்து வீட்டுத் தோட்டங்கள், வீட்டு மதில்கள், கடை அறைகள் போன்றவற்றை சேதப்படுத்திய சம்பவங்கள் தொடர்ந்து பதிவாகி வருகின்றன.
+
+...
+
+[Data](articles/27919bf6.json)
 
 ---
 
@@ -102,6 +304,24 @@ These include silence members in Parliament and the political stage, not to seek
 [Data](articles/6e09a3d5.json)
 
 [Extended Data](ext_articles/6e09a3d5.ext.json)
+
+---
+
+### பேலியகொடை மீன் சந்தைக்கு அருகில் துப்பாக்கிகள், வெடிமருந்துகள் கைப்பற்றல்!
+
+*2025-09-27 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226211) · `ta`
+
+வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிகள், வெடிமருந்துகள் மற்றும் சில பொருட்களை மேல் மாகாண வடக்கு பொலிஸ் குற்றத் தடுப்பு பிரிவினால் கைப்பற்றப்பட்டுள்ளன.
+
+பேலியகொடை மீன் சந்தைக்குச் செல்லும் வீதிக்கு அருகில் உள்ள பொலிஸ் நிலையத்திற்குப் பின்னால் உள்ள பகுதியில் இருந்து குறித்த துப்பாக்கிகள் மற்றும் வெடிமருந்துகள் கைப்பற்றப்பட்டுள்ளன.
+
+பொலிஸ் காவலில் வைக்கப்பட்டுள்ள  பாதாள உலக கும்பலின் தலைவரான கெஹெல்பத்தர பத்மே என்பவரை விசாரணைக்குட்படுத்திய பின்னர், அவரிடமிருந்து பெறப்பட்ட தகவலக்கமைய இந்த பொருட்கள் கைப்பற்றப்பட்டுள்ளதாக மேல் மாகாண வடக்கு பொலிஸ் குற்றத் தடுப்பு பிரிவு தெரிவித்துள்ளது.
+
+அதற்கமைய, குறித்த பகுதியில் இருந்து வெளிநாட்டில் தயாரிக்கப்பட்ட சிறிய ரக துப்பாக்கிகள் மற்றும் வெடிமருந்துகள், வெளிநாட்டில் தயாரிக்கப்பட்ட ரிவால்வர் ரக துப்பாக்கிகள், 3 ரி-56 ரக வெடிமருந்துகள், 52 ரி-56ரக உயிருள்ள வெடிமருந்துகள், சுயமாக இயக்கப்படும் துப்பாக்கிகள் மற்றும் இராணுவ சீருடைகள் போன்றன கைப்பற்றப்பட்டுள்ளதாக மேல் மாகாண வடக்கு பொலிஸ் குற்றத் தடுப்பு பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/26a0c81d.json)
 
 ---
 
@@ -209,6 +429,8 @@ Six of the injured are currently receiving treatment at the Badulla Hospital, wh
 
 [Data](articles/e0849beb.json)
 
+[Extended Data](ext_articles/e0849beb.ext.json)
+
 ---
 
 ### A van that a van carrying a pilgrimage is a terrible accident
@@ -246,6 +468,8 @@ They allege that a question paper of the examination had been leaked, while the 
 ...
 
 [Data](articles/8f94273d.json)
+
+[Extended Data](ext_articles/8f94273d.ext.json)
 
 ---
 
@@ -288,6 +512,8 @@ During the visit, President Dissanayake will have an audience with His Majesty t
 ...
 
 [Data](articles/1a06eec4.json)
+
+[Extended Data](ext_articles/1a06eec4.ext.json)
 
 ---
 
@@ -497,6 +723,28 @@ In this case, the police attacked the people who tried to quietly prevent the ve
 
 ---
 
+### இன்றைய வானிலை
+
+*2025-09-27 06:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226210) · `ta`
+
+சப்ரகமுவ, மேல், வடமேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அடிக்கடி மழை  பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ, மேல் மற்றும் வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களின் சில இடங்களிலும் 50 மில்லமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+வடமத்திய மாகாணத்திலும் அத்துடன் மாத்தளை, மன்னார் மற்றும் யாழ்ப்பாணம் மாவட்டங்களிலும் இலேசான மழை பெய்யக்கூடும்.
+
+மத்திய மலைப் பிராந்தியத்தின் மேற்கு சரிவுகளிலும், வடக்கு, வடமத்திய, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் அத்துடன் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் மணித்தியாலத்திற்கு சுமார் 40 - 50 கிலோமீற்றர் வேகத்தில் அடிக்கடி  பலத்த காற்று வீசக் கூடும்.
+
+பலத்த காற்று வீசுகின்ற  சந்தர்ப்பங்களில் ஏற்படக்கூடிய சேதங்களை தவிர்த்துக் கொள்ளுமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகின்றனர். ‌
+
+புத்தளம் தொடக்கம் கொழும்பு, காலி ஊடாக ஹம்பாந்தோட்டை வரையான கடல் பிராந்தியங்களின் பல இடங்களில் மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/a74bd7b9.json)
+
+---
+
 ### A big rain today
 
 *2025-09-27 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215055) · `si`
@@ -516,6 +764,26 @@ The people requested the public to take measures to reduce the danger of strong 
 [Data](articles/6e518eb9.json)
 
 [Extended Data](ext_articles/6e518eb9.ext.json)
+
+---
+
+### பொலிஸ் பாதுகாப்புடன் காற்றாலை மின் கோபுரம் அமைப்பதற்கான பொருட்கள் மன்னாரை நோக்கி : மக்கள்,  அருட்தந்தையர்கள் மீது பொலிஸார் தாக்குதல் !
+
+*2025-09-27 06:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226209) · `ta`
+
+மக்களின் எதிர்ப்பையும் மீறி நூற்றுக்கணக்கான பொலிஸாரின் பாதுகாப்புடன் கலகம் அடக்கும் பொலிஸாரின் துணையுடன் காற்றாலை மின் கோபுரங்கள் அமைப்பதற்கான பொருட்கள் பாரிய வாகனங்களில் மன்னார் நகரை நோக்கி கொண்டு வெள்ளிக்கிழமை (26) இரவு முதல் இன்று (27) அதிகாலை வரை வரப்பட்டுள்ளது.
+
+இந்த நிலையில் ஒன்று கூடிய பல நூற்றுக்கணக்கான மக்கள் மற்றும் அருட்தந்தையர்கள் இணைந்து மன்னார் நுழைவு பகுதியில் போராட்டம் ஒன்றை நடத்தினர்.
+
+கலகம் அடக்கம் பொலிஸாரின் பாதுகாப்புடன் குறித்த காற்றாலை கோபுரத்துக்கான பொருட்கள் எடுத்துச் செல்லப்பட்டு கொண்டிருக்கின்றது . இதனால் மன்னார் நகர பகுதியில் பதற்ற நிலை ஏற்பட்டிருக்கின்றது.
+
+மன்னாரில் நேற்று (26) வெள்ளிக்கிழமை இரவு 10 மணி முதல்  காற்றாலைக்கு எதிரான போராட்டம் இடம் பெற்று வரும் நிலையில் பொலிசார் மேற்கொண்ட தாக்குதலில் பெண்கள் ஆண்கள் என பலர் காயமடைந்திருக்கின்றனர்.
+
+மன்னாரில் காற்றாலை மின் செயற்திட்டத்துக்கு எதிராக மக்கள் தொடர்சியாக போராடிவருகின்ற நிலையில்  மக்களின் விருப்பத்திற்கு மாறாக காற்றாலைகளை தீவுக்குள் கொண்டு செல்வதற்கான முயற்சி இடம்பெற்றது.
+
+...
+
+[Data](articles/256ff690.json)
 
 ---
 
@@ -1752,227 +2020,5 @@ The event created a platform to showcase the growing Sri Lankan Trailblazer Comm
 [Data](articles/ec16d750.json)
 
 [Extended Data](ext_articles/ec16d750.ext.json)
-
----
-
-### Modern Laboratory for Medicine, Ayurveda, Food and cosmetics- Minister Nalinda Jayatissa
-
-*2025-09-26 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226192) · `ta`
-
-Minister of Health and Media Nalinda Jayatissa said that discussions are underway on the construction of a laboratory with sophisticated facilities that can be conducted on drugs, Ayurveda, food and cosmetics.
-
-Minister of Health and Media Media Nalinda Jayadissa made the issue when he was the chief guest at the "World Pharmacist Day - 2025" commemoration organized by the Government Pharmacists Association on Thursday (25) at the Medical Faculty Auditorium in Colombo.
-
-The World Pharmacists Association and the World Health Organization have declared September 25 as World Pharmacist Day, and the World Pharmacists Association with pharmaceutical lecturers and pharmaceutical lecturers have nearly 4 million members in 158 countries around the world.. Celebrated with the theme of the World Pharmacist Day, "Think as a healthy pharmacist".
-
-There are about 4,500 pharmacists in the country and there is a severe shortage of pharmacists.
-
-...
-
-[Data](articles/5dd150e3.json)
-
-[Extended Data](ext_articles/5dd150e3.ext.json)
-
----
-
-### AIA Exclusive reaches 200+ customer milestone in further elevating standards in personalised finance
-
-*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/aia-exclusive-reaches-200-customer-milestone-in-further-elevating-standards-in-personalised-finance/) · `en`
-
-AIA Sri Lanka is proud to announce a significant milestone in its journey toward delivering exceptional, customer-centric financial services. The company has successfully onboarded 200+ customers into its flagship AIA Exclusive programme, reaffirming its commitment to providing premium, personalised insurance and investment solutions tailored to the evolving needs of today’s discerning clientele.
-
-...
-
-[Data](articles/00f86aca.json)
-
-[Extended Data](ext_articles/00f86aca.ext.json)
-
----
-
-### Most awaited SLIM Effie 2025 Awards launches – celebrating marketing effectiveness with global prestige
-
-*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/most-awaited-slim-effie-2025-awards-launches-celebrating-marketing-effectiveness-with-global-prestige/) · `en`
-
-The Sri Lanka Institute of Marketing (SLIM) has officially announced the launch of Effie Awards 2025, the world’s most respected accolade in marketing effectiveness, now hosted in Sri Lanka under the stewardship of SLIM for the 18th consecutive year.
-
-Globally recognized as the gold standard for marketing achievement, Effie Awards shine a spotlight on ideas that work, campaigns that marry creativity with measurable business impact. In Sri Lanka, the Effie Awards have become a defining stage where the country’s brightest marketers showcase their effectiveness stories to the world.
-
-“Effie Awards are not just about winning trophies, they are about proving the power of marketing to transform businesses, industries, and society at large. As SLIM, we are proud to champion this global benchmark locally, giving our marketers the recognition they deserve on the world stage,” said Prof. Dewasiri N. Jayantha, President of SLIM.
-
-...
-
-[Data](articles/8dce9e8a.json)
-
-[Extended Data](ext_articles/8dce9e8a.ext.json)
-
----
-
-### CSE marks 40th anniversary with 4,000 tree reforestation initiative
-
-*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/cse-marks-40th-anniversary-with-4000-tree-reforestation-initiative/) · `en`
-
-In celebration of its 40th anniversary, the Colombo Stock Exchange (CSE) signed a Memorandum of Understanding (MOU) to launch a landmark CSR initiative in collaboration with the non-profit environmental organization, ‘Rainforest Protectors of Sri Lanka’. Themed “Let’s Celebrate 40 Years with 4,000 Trees,” the project aims to reforest four acres of land in Rajawaka, contributing to long-term forest restoration and environmental sustainability.
-
-Through this partnership, the CSE contributes to the ongoing reforestation effort under the WANAROPA program, which is aligned with the global ‘Bonn Challenge’ target of restoring 200,000 hectares of degraded forest land in Sri Lanka. The site is located in the Rajawaka area, on the border of the wet and intermediate zones, a region that hosts diverse landscapes and rich biodiversity, including elephants, leopards, natural bee colonies, and other unique ecosystems.
-
-...
-
-[Data](articles/ee72d1e3.json)
-
-[Extended Data](ext_articles/ee72d1e3.ext.json)
-
----
-
-### Bourse’s robustness boosted by LB Finance’s acquisition of 55.6% stake in Associated Motorways
-
-*2025-09-26 19:18:00* · [`islandlk`](http://island.lk/bourses-robustness-boosted-by-lb-finances-acquisition-of-55-6-stake-in-associated-motorways/) · `en`
-
-Stock market activities continued with their positive proclivities yesterday and a transaction of note was the acquisition of a 55.6 percent stake in Association Motorways Pvt. Ltd by LB Finance. Under this acquisition, LB Finance invested Rs 3.7 billion to purchase 74.3 million shares at a share price of Rs 50. This enabled to increase the business portfolio to a great extent of LB Finance, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 77.93 points, while the S and P SL20 rose by 10.95 points. Turnover stood at Rs 6 billion with nine crossings.
-
-...
-
-[Data](articles/1a910626.json)
-
-[Extended Data](ext_articles/1a910626.ext.json)
-
----
-
-### Disposal issue: Explanation for students
-
-*2025-09-26 19:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதை-விவகாரம்-மாணவர்களுக்கு-விளக்கமறியல்/175-365341) · `ta`
-
-The Kiliyapitiya Magistrate's Court has ordered the remand of four students who allegedly shared a junior student at Vayamba University on September 29.
-
-It is noteworthy that four students studying at the same university were arrested on charges of sharing a junior student at Vayamba University. Remble
-
-◼️
-
-[Data](articles/0c6249d1.json)
-
-[Extended Data](ext_articles/0c6249d1.ext.json)
-
----
-
-### Discussion of the dress: Explanation for students
-
-*2025-09-26 19:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆடையை-கழற்றி-பகிடிவதை-மாணவர்களுக்கு-விளக்கமறியல்/175-365341) · `ta`
-
-A newly admitted to the Northwest University in Kiliyapitiya was arrested by the Kiliyapitiya police for allegedly causing serious injuries to a racking.
-
-All four students were produced before the Kuliyapitiya Magistrate Mikil Sirandana Hathurusinghe and placed in interrogation until September 29.
-
-They belong to Hettipola, Kattupola, emerald and Ukuwela areas. The victim was injured and admitted to the Kuliyapitiya Teaching Hospital, police said.
-
-They said the suspects took the victim to a secret place and tried to unravel his clothes and that he was attacked when he protested.
-
-The police went to the identification parade, but the lawyers appearing for the suspects said that they were the same university students and that they were familiar with each other and did not need a march.
-
-However, the magistrate allowed the lawyers' request and ordered the prison authorities to present the suspects on the next date of the case.
-
-◼️
-
-[Data](articles/801ebbdf.json)
-
-[Extended Data](ext_articles/801ebbdf.ext.json)
-
----
-
-### 12 injured in collision involving lorry, van and three-wheeler
-
-*2025-09-26 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/112948/12-injured-in-collision-involving-lorry-van-and-three-wheeler) · `en`
-
-Twelve people were injured following a traffic collision involving a lorry, a van and a three-wheeler collided in the Wewita area on the Bandaragama-Kalutara road.
-
-Bandaragama Police said that ten members of a traditional dancing group and a mother and daughter from the same family are among the injured.
-
-A spokesperson for the Bandaragama District Hospital said that seven of the injured are receiving treatment at the Bandaragama District Hospital and five have been referred to the Panadura Base Hospital for further treatment.
-
-The incident had occurred when the lorry was approaching Bandaragama from Moranthuduwa, and a three-wheeler coming from the opposite direction crossed the road and hit the lorry, causing it to overturn. The lorry driver had applied the brakes and the van arriving from behind had rear-ended the lorry, causing the accident.
-
-Police also stated that the lorry driver had been attacked by residents of the area following the accident.
-
-...
-
-[Data](articles/11dfcf60.json)
-
-[Extended Data](ext_articles/11dfcf60.ext.json)
-
----
-
-### Sri Lanka to Launch New Support System for Families of the Disappeared
-
-*2025-09-26 18:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-launch-new-support-system-for-families-of-the-disappeared) · `en`
-
-...
-
-[Data](articles/999d70cd.json)
-
-[Extended Data](ext_articles/999d70cd.ext.json)
-
----
-
-### Vajira pays the last respects to the monks of Naa Uyana
-
-*2025-09-26 18:40:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයන-ආරණයය-හමවරනට-වජර-අවසන-ගරව-දකවය/1-680291) · `si`
-
-The bhikkus to be held in the last afternoon by the UNP Chairman of the United National Party (UNP) at evening today (26) resulted in the last evening.
-
-Former President Ranil Wickremesinghe, who was told by Wajira Abeywardena, who met the Naussa Senanayake, Mian Uyana.
-
-Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
-
-◼️
-
-[Data](articles/1f7040c2.json)
-
-[Extended Data](ext_articles/1f7040c2.ext.json)
-
----
-
-### Vajira pays the last respects to the monks of Naa Uyana
-
-*2025-09-26 18:40:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-ආරණයය-හමවරනට-වජර-අවසන-ගරව-දකවය/101-680291) · `si`
-
-The bhikkus to be held in the last afternoon by the UNP Chairman of the United National Party (UNP) at evening today (26) resulted in the last evening.
-
-Former President Ranil Wickremesinghe, who was told by Wajira Abeywardena, who met the Naussa Senanayake, Mian Uyana.
-
-Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
-
-◼️
-
-[Data](articles/f63e1ceb.json)
-
-[Extended Data](ext_articles/f63e1ceb.ext.json)
-
----
-
-### Catholic conferences of the Nawanean accident
-
-*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/1-680290) · `si`
-
-The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
-
-◼️
-
-[Data](articles/7948a903.json)
-
-[Extended Data](ext_articles/7948a903.ext.json)
-
----
-
-### Catholic conferences of the Nawanean accident
-
-*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/101-680290) · `si`
-
-The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
-
-◼️
-
-[Data](articles/f38f594e.json)
-
-[Extended Data](ext_articles/f38f594e.ext.json)
 
 ---

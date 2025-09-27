@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 15:37:42**
+As of **2025-09-27 16:20:30**
 
 ## Newspaper Stats
 
-*Scraped **78,918** Articles*
+*Scraped **78,921** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 337
+lankadeepalk | 339
 newsfirstlk | 439
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -19,7 +19,7 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
 adaderanalk | 10,199
-tamilmirrorlk | 11,828
+tamilmirrorlk | 11,829
 virakesarilk | 12,815
 adaderanasinhalalk | 13,705
 
@@ -27,45 +27,87 @@ adaderanasinhalalk | 13,705
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,906 (100.0%) of 78,918 articles have been extended.
+78,921 (100.0%) of 78,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### මබ්බෲක්ට  පාර්ලිමේන්තුවේ ලොකු පුටුවක්
+### Seized many motorcycles
+
+*2025-09-27 15:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலரது-மோட்டார்-சைக்கிள்கள்-பறிமுதல்/175-365367) · `ta`
+
+Motorcycles have been confiscated for violating public transport laws in Ampara - Samanthurai.
+
+In the meantime, they have been confiscated due to the fact that motorcycles, without insurance, driving without a driver's license and wearing helmets.
+
+In addition, more than 20 suspects have been taken against the allegations of violating public transport laws, police said that legal action has been taken.. Remble
+
+◼️
+
+[Data](articles/c67e03ea.json)
+
+[Extended Data](ext_articles/c67e03ea.ext.json)
+
+---
+
+### Health Challenges Somehow
+
+*2025-09-27 15:26:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සඛය-අභයග-කහම-හර-දනනව/101-680315) · `si`
+
+Health and Mass Media Media Media Dr. Nalinda Jayamattha said he would win the challenges in the health sector since ancient times.
+
+The Minister of Hooguma Health Center, Galle was the first center of the project of the project for the project formed across the country.
+
+The center provides health services for nearly five thousand people living in the Grama Niladhari Divisions in Mapalagama, Talgaswala, Gonalagoda East.
+
+Under this project, a hundred primary health care centers, which will be easily accessible to the people, is designated as a closer in an easy-to-accessible location.
+
+◼️
+
+[Data](articles/3d693ca5.json)
+
+[Extended Data](ext_articles/3d693ca5.ext.json)
+
+---
+
+### Mabbuke is a big chair in Parliament
 
 *2025-09-27 15:11:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මබබකට-පරලමනතව-ලක-පටවක/101-680314) · `si`
 
-පාර්ලිමේන්තුවේ නියෝජ්‍ය  අධ්‍යක්ෂ( පරිපාලන)  ලෙස කටයුතු කළ  මබ්බෲක් මාර්සූක්  මහතා  පාර්ලිමේන්තුවේ පරිපාලන අධ්‍යක්ෂක තනතුරට උසස් කරනු ලැබ සිටී
+Mabbuke Marzork, who served as Deputy Director (Administration), has been promoted to the post of Administrative Director of Parliament
 
-ඔහු නියෝජ්‍ය  අධ්‍යක්ෂ( පරිපාලන) තනතුරට පත්වීමට පෙර කටයුතු කළේ  මහජන පෙත්සම් කාරක සභාවේ  සහකාර අධ්‍යක්ෂවරයා ලෙසය.
+He acted as the Deputy Director (Administrative) to the post of Administration as the Assistant Director of the Public Petitions Committee.
 
-කාලයක් ගුරු වෘත්තියේ නියැලී සිට පාර්ලිමේන්තු  නිලධාරියකු ලෙස  මැතිසබයේ  සේවයට එක්වූ මම්බෲක් මහතා මන්ත්‍රීවරුන්ගේ පෞද්ගලික මන්ත්‍රී යෝජනා සිංහල ඉංග්‍රීසි  සහ දෙමළ යන භාෂා ත්‍රිත්වයෙන්ම සකස් කිරීමට සුවිශේෂ නිපුණත්වයක් දැක්වූ අයෙකි.
+Speaking to Measby Members of Parliament as a parliamentarian for a period of time is a special competency to prepare Sinhala English and Tamil languages.
 
-උදය මුණසිංහ  මහතා  පාර්ලිමේන්තු පරිපාලන අධ්‍යක්ෂ ධූරයෙන් පසුගියදා විශ්‍රාම  ලැබීමෙන්  එම තනතුර පුරප්පාඩු විය
+Udaya Munasinghe was vacant by retirement from the post of PSSP
 
 ◼️
 
 [Data](articles/85be10f4.json)
 
+[Extended Data](ext_articles/85be10f4.ext.json)
+
 ---
 
-### “ஜீலே”வின் சகா போதைப்பொருட்களுடன் கைது!
+### Arrested with "Jile"
 
 *2025-09-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226243) · `ta`
 
-வெளிநாட்டில் தலைமறைவாக உள்ள பாதாள உலக கும்பலைச் சேர்ந்தவரும் போதைப்பொருள் கடத்தல்காரருமான “ஜீலே” என்பவரின் சகா ஒருவர் போதைப்பொருட்களுடன் பொலிஸ் விசேட அதிரடிப்படையினரால் வியாழக்கிழமை (25) கைதுசெய்யப்பட்டுள்ளார்.
+A colleague of "Jile", a drug trafficker who belongs to a underworld gang abroad, has been arrested by the Special Task Force on Thursday (25).
 
-பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் பேரில் ஹோகந்தர பிரதேசத்தில் சந்தேகத்திற்கிடமான முறையில் பயணித்த முச்சக்கரவண்டியில் மேற்கொள்ளப்பட்ட சோதனையில்  சந்தேக நபர் கைதுசெய்யப்பட்டுள்ளார்.
+The suspect has been arrested in a suspected three -wheeler in Hogantha area on information received by the Special Task Force.
 
-சந்தேக நபரிடமிருந்து 502 கிராம் ஐஸ் மற்றும் 104 கிராம் ஹெரோயின் உள்ளிட்ட போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+Drugs, including 502 grams of ice and 104 grams of heroin, have been seized from the suspect.
 
-இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Further investigations are being carried out by the Police Special Task Force and the police.
 
 ◼️
 
 [Data](articles/770007b0.json)
+
+[Extended Data](ext_articles/770007b0.ext.json)
 
 ---
 
@@ -88,6 +130,8 @@ Accordingly, the burial of the deceased Sri Lankan monks and the Russian monk is
 ...
 
 [Data](articles/4360598b.json)
+
+[Extended Data](ext_articles/4360598b.ext.json)
 
 ---
 
@@ -189,6 +233,8 @@ He further noted that the import of inefficient appliances into Sri Lanka has al
 
 [Data](articles/165a8bf3.json)
 
+[Extended Data](ext_articles/165a8bf3.ext.json)
+
 ---
 
 ### Is the refrigerator more than 10 years old?
@@ -239,21 +285,25 @@ This program is organized by the Presidential Secretariat, the Digital Economic 
 
 ---
 
-### AI ගැන මහනුවරට උගන්වයි
+### Teaches Kandy about AI
 
 *2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/AI-ගන-මහනවරට-උගනවය/101-680312) · `si`
 
-රජයේ ඩිජිටල්කරණ වැඩසටහන සහ AI තාක්ෂණ භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් පළාත් මට්ටමින් දැනුවත් කිරීමේ වැඩසටහන් මාලාවෙහි පළමු පළාත් වැඩසටහන  මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත්විණි.
+Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat at the Kandy District Secretariat.
 
-රජයේ ඩිජිටල්කරණ සැලසුම් පැහැදිලි කිරීම සහ AI තාක්ෂණ භාවිතය පිළිබඳව නිලධාරීන්ගේ සාක්ෂරතාවය ඉහළ නැංවීමේ අරමුණින් සංවිධානය කරන ලද මෙම වැඩසටහන මධ්‍යම පළාත් සභාව, දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල සහ රජයේ අනෙකුත් ආයතනවල සියලුම විධායක නිලධාරීන්ගේ සහභාගීත්වයෙන් පැවැත්විණි.
+The program was organized by the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
 
-ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව රජයේ නිලධාරීන් දැනුවත් කිරීමේ වැඩසටහන් 6ක් කොළඹ කේන්ද්‍ර කරගනිමින් මේ වන විට පවත්වා ඇති අතර ඒ සඳහා නිලධාරීහු 4000කට වැඩි පිරිසක් සහභාගී වූහ.
+Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
 
-සියලු පළාත් ආවරණය වන පරිදි පළාත් මට්ටමින් මෙම වැඩසටහන පවත්වා රජයේ ඩිජිටල්කරණ සැලසුම පිළිබඳ රාජ්‍ය නිලධාරියාගේ කාර්යභාරය සහ AI තාක්ෂණය රජයේ කටයුතු සඳහා භාවිතයට යොදා ගැනීම පිළිබඳව කොළඹින් බැහැර සිටින සියලුම රාජ්‍ය නිලධාරීන් දැනුවත් කිරිමට සැලසුම් කර ඇතැයි ජනාධිපති කාර්යාලය පවසයි.
+The Presidential Secretariat says that the function of the Government Officer and AI techniques on the use of the Government Superintendent of Government Digitalization Plan to cover all provinces and the government officials on the government's use of public purposes and AI technology are also allocated to educate the government.
 
-...
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+◼️
 
 [Data](articles/e137c4f1.json)
+
+[Extended Data](ext_articles/e137c4f1.ext.json)
 
 ---
 
@@ -271,23 +321,25 @@ COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide
 
 ---
 
-### නානුඔය දුම්රිය ස්ථානයේ ලෝක සංචාරක දිනය සැමරේ
+### World Tourism Day celebrated at Nanu Oya Railway Station
 
 *2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/101-680311) · `si`
 
-ලෝක සංචාරක දිනය නිමිත්තෙන් නානුඔය දුම්රිය ස්ථානයේදි සංචාරක දිනය සැමරීමේ උත්සවයක් එම දුම්රිය පරිශ්‍රයේදි අද (27) දින සිදු කෙරිණ.
+A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
 
-නානුඔය දුම්රිය ස්ථානයේ සංචාරක රියදුරන්ගේ සංගමය සහ සංචාරක ත්‍රීරෝද රථ හිමියන්ගේ සංගමය එක්ව නානුඔය දුම්රිය ස්ථානයේ ස්ථානාධිපතිවරයා ඇතුලු කාර්යමණ්ඩලයේ සහයෝගය ඇතිව නානුඔය දුම්රිය ස්ථානයට ගමන් ගන්නා විදේශීය සංචාරකයන් සහ නානුඔය දුම්රිය ස්ථානයට මගී ප්‍රවාහන දුම්රියන්වලින් පැමිණි විදේශීය සංචාරකයන්ට උනුසුම් අයුරින් මල් මාලා පළදවා පිළිගනු ලැබූහ.
+Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
 
-නානුඔය දුම්රිය ස්ථානයේදී දේශීය සංස්කෘතිය විදහා දැක්වෙන් සංස්කෘතිකාංග ගණනාවක්ද පාසල් ළමුන් විසින් විදේශිකයන් හමුවේ ඉදිරිපත් කල අතර, ලෝක සංචාරක දිනයේදි මෙරටට පැමිණි තමන්ව පිලිගැනීම සම්බන්ධයෙන් විදේශික සංචාරකයන් සිය සතුට පල කරනු ලැබූහ.
+The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
 
-ලෝක සංචාරක දිනයෙදි දුම්රියෙන් ගමන් කිරිමට පැමිණි සංචාරකයන් නානුඔය දුම්රිය ස්ථානයේදි නර්ථනයේ යෙදෙන අයුරුද අප කැමරාවේ සටහන් විය.
+Visitors to the train on World Tourism
 
-මෙම අවස්ථාවට නානුඔය පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයා, සංචාරක හෝටල් හිමියන්, සංචාරක කර්මාන්තයේ යෙදී සිටින පුද්ගලයන් ඇතුලු ප්‍රදේශවාසීන් විශාල පිරිසක් සහභාගි වී සිටියහ.
+The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
 
 ◼️
 
 [Data](articles/613b9e69.json)
+
+[Extended Data](ext_articles/613b9e69.ext.json)
 
 ---
 
@@ -397,6 +449,8 @@ The Department further emphasized that penalties and interest charged for late o
 
 [Data](articles/8f7cb4d0.json)
 
+[Extended Data](ext_articles/8f7cb4d0.ext.json)
+
 ---
 
 ### Special announcement for all taxpayers!
@@ -421,21 +475,25 @@ The Internal Revenue Department has issued a statement to all taxpayers, saying 
 
 ---
 
-### කෝප් කෝපාවට හොරු අල්ලන බලය
+### The power of catching thieves into the coop coffee
 
 *2025-09-27 13:11:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-කපවට-හර-අලලන-බලය/101-680310) · `si`
 
-පොදු ව්‍යාපාර පිළිබඳ පිළිබඳ  පාර්ලිමේන්තු කාරක සභාව(කෝප්)  සහ  රාජ්‍ය ගිණුම් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට (කෝපා) රාජ්‍ය ආයතනවල   දුෂණ  සහ  ඒවාට සම්බන්ධ ප්‍රධානීන් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීම  සදහා  අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට  හෝ නීතිපති දෙපාර්තමේන්තුවට නිර්දේශ හෝ පැමිණිලි  ඉදිරිපත්  කිරීමේ බලතල ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර ඇත.
+The Committee on Parliamentary Affairs has decided to promote bribery and corruption to the Committee on Public Institutions regarding the corresponding and heads of public institutions on public institutions.
 
-මේ අනුව එම කමිටු දෙකට එකී බලතල ලබාදීම සඳහා  ස්ථාවර නියෝග ළඟදීම සංශෝධනය  කෙරෙනු ඇතැයි පාර්ලිමේන්තු ආරංචි මාර්ග සඳහන් කළේය.
+Accordingly, the Standing Orders will soon be amended for the two committees.
 
-ස්ථාවර නියෝග සංශෝධනය කිරීම අනුමත කිරීම සඳහා  යෝජනාවක්  ස්ථාවර නියෝග කාරක සභාවට යොමු කිරීමටද  පාර්ලිමේන්තුවේ අනුමැතිය පෙරේදා ලැබිණ.
+A proposal to approve the revision of Standing Orders was also given to the Standing Order Committee.
 
-රාජ්‍ය ආයතනවල දූෂණ සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට( කෝප් කමිටුව) සහ  රජයේ ගිණුම් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට (කෝපා )    අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට  හෝ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට හෝ නීතිපතිවරයාට  පැමිණිලි  හෝ නිර්දේශ ඉදිරිපත්  කිරීමේ  බලයක් මේ දක්වාම නොතිබිණ.
+The Bribery Committee on Public Enterprises and Corruption (COPE) and the CID or the CID or the CID or the CID or the CID or the CID or the CID have not been given to the Investigation Department.
 
-...
+In the recent past, the Criminal Investigation Department and the Attorney General will refer to the Commission to Investigate Allegations of Bribery or Corruption in the recent past.
+
+◼️
 
 [Data](articles/310eb7e8.json)
+
+[Extended Data](ext_articles/310eb7e8.ext.json)
 
 ---
 
@@ -593,6 +651,8 @@ Accordingly, naval and fishing communities are advised to remain vigilant.
 
 [Data](articles/de613faa.json)
 
+[Extended Data](ext_articles/de613faa.ext.json)
+
 ---
 
 ### Anura met French president
@@ -731,19 +791,21 @@ President Anura Kumara Dissanayake said President Anura Kumara Dissanayake said.
 
 ---
 
-### අනුර-ට්‍රම්ප් සුහඳ කතාබහක
+### Anura-Trump is a friendly chat
 
 *2025-09-27 11:56:16* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අනර-ටරමප-සහඳ-කතබහක/101-680307) · `si`
 
-ඇමෙරිකා ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා ඇමරිකාවේදී හමුවීම සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය නිල ෆේස්බුක් ගිණුමේ සටහනක් තබා ඇත.
+President Anura Kumara Dissanayake has placed a note on his official Facebook account for meeting US President Donald Trump in the United States.
 
-"එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගී වීම සඳහා නිව්යෝර්ක් නුවරට පැමිණ සිටි රාජ්‍ය නායකයන් වෙනුවෙන් ඇමරිකා එක්සත් ජනපද ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා විසින් පසුගිය 23 දා Lotte New York Palace හෝටලයේදී පිරිනමන ලද විශේෂ රාත්‍රී භෝජන සංග්‍රහය සඳහා එක්වීමි.
+"The US President Donald Trump was presented by the US President Donald Trump on the 23rd of the United Nations Leaders in New York.
 
-එහිදී ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මහතා සමඟ සුහද කථා බහකද නිරත වීමි" යනුවෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා සඳහන් කරයි.
+President Anura Kumara Dissanayake said President Anura Kumara Dissanayake said.
 
 ◼️
 
 [Data](articles/7adaf8f3.json)
+
+[Extended Data](ext_articles/7adaf8f3.ext.json)
 
 ---
 
@@ -1249,19 +1311,25 @@ Palestinian medical sources have confirmed that many people were killed on Frida
 
 ---
 
-### රජයේ ලොක්කෙක් ජපාන ආයෝජකයන් හරවා යවලා
+### Government boss redirected Japanese investors
 
 *2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/101-680303) · `si`
 
-ශ්‍රී ලංකාවේ ආයෝජනයකට පැමිණි ජපානයේ ආයෝජකයන් පිරිසකට ඉහළ පෙළේ නිලධාරියකු සාකච්ඡාවකට අවස්ථාවේදී ඉන් මගහැර යෑම හේතුවෙන් එම ආයෝජකයන් පිරිස කලකිරීමට පත්ව ආපසු හැරී ගොස් ඇතැයි වාර්තාවේ.
+It is reported that the number of investors had frustrated and returned to a meeting of Japanese investors in Sri Lanka.
 
-පසුව එම නිලධාරියා පෝය දිනයක වෙනත් ස්ථානයක සාකච්ඡා කිරීමට යෝජනා කර ඇති අවස්ථාවේදී එම ආයෝජකයන් එය ප්‍රතික්ෂේප කර ඇත.
+Later, when the officer was proposed to discuss the officer elsewhere, those investors refused.
 
-මේ සිද්ධියවූයේ මාර්ග ආරක්ෂණ වැඩපිළිවෙලක් සම්බන්ධයෙන් රජයේ අනුමැතිය ලබා ගැනීමට අමාත්‍යාංශ උසස් නිලධාරියෙකු හමුවීමට උත්සාහ දැරූ අවස්ථාවේදී බව එම ජපන් ආයෝජකයන් පිරිස සම්බන්ධීකරණය කළ රාජපුත්‍ර සමූහ ව්‍යාපාරයේ සභාපති සජීව් රාජපුත්‍ර මහතා කොළඹදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී පැවසීය.
+President Rajapaksa, President Ranman, who was trying to meet with a high level of approval on a road safety program, he was speaking at a press conference held in Colombo.
+
+" ඇත්තෙන්ම මට ඕන වුණේ මේ රට වෙනුවෙන් මේ වටිනා වැඩපිළිවෙළ ක්‍රියාත්මක කරන්න. Implement it and protect the lives of the innocent people of this country who die from road accidents. There's nothing to give myself to give myself. No matter anyone else executes this work, it is okay. I'm ready to submit this program to the government. Don't implement it belongs to them. Minister Hon. Minister said that I was presented with the country with great necessity. "
+
+Sanara Araya said that he was very embarrassed and the number of Japanese investors had been severely embarrassed by no opportunity to discuss the matter.
 
 ...
 
 [Data](articles/906951c9.json)
+
+[Extended Data](ext_articles/906951c9.ext.json)
 
 ---
 
@@ -1330,6 +1398,30 @@ These include silence members in Parliament and the political stage, not to seek
 [Data](articles/6e09a3d5.json)
 
 [Extended Data](ext_articles/6e09a3d5.ext.json)
+
+---
+
+### Fearing cases: Opposition MPs suffer twice
+
+*2025-09-27 09:56:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නඩවලට-බයවල-වපකෂය-මනතරල-වසසක-ගළ-වල/101-680302) · `si`
+
+The opposition in general is facing a serious crisis by depriving the government and outside the opposition members of the opposition as well as several former members of the opposition and several former members.
+
+According to sources, they have avoided their responsibilities in Parliament on certain matters.
+
+"I have some cases. So I have been able to miss a little silent at this time, "she said.
+
+Political commentators say that the voice of the opposition is weakened in Parliament and outside Parliament.
+
+It is reported that there are many cases against the opposition members of the opposition and several former people.
+
+විවිධ නඩු හේතුවෙන් ආණ්ඩුවට ප්‍රහාර ඉල්ලා නොකර මෙසේ නිහඬව සිටින මෙම පිරිසට පාර්ලිමේන්තුවේදී මෙන්ම දේශපාලන වේදිකාවේ පසුගිය කාලයේදී ප්‍රබලව සිය කටහඬ අවදි කළ මන්ත්‍රීවරුද ඇතුළත් වෙති.
+
+◼️
+
+[Data](articles/bafc89f4.json)
+
+[Extended Data](ext_articles/bafc89f4.ext.json)
 
 ---
 
@@ -2046,65 +2138,5 @@ Foreign Ministry Spokesman Thushara Rodrigo said the temple had requested the Mi
 [Data](articles/60e7968a.json)
 
 [Extended Data](ext_articles/60e7968a.ext.json)
-
----
-
-### Senior Pakistan Navy delegation visits Sri Lanka for Galle Dialogue-2025
-
-*2025-09-27 00:49:09* · [`dailyftlk`](https://www.ft.lk/news/Senior-Pakistan-Navy-delegation-visits-Sri-Lanka-for-Galle-Dialogue-2025/56-782260) · `en`
-
-Pakistan Navy Commander Coastal Areas Rear Admiral Faisal Amin and Commodore (Retd) Bilal Babur, along with other delegation members, called on the High Commission of Pakistan in Colombo yesterday, marking a key moment during their official visit to Sri Lanka.
-
-The distinguished delegation visited Sri Lanka from 23 to 26 September to participate in the Galle Dialogue-2025, an International Maritime Conference organised by the Sri Lanka Navy.
-
-The Pakistan Commission in a statement said the participation of the Pakistan Navy delegation in the Galle Dialogue-2025 highlighted Pakistan’s strong relation with Sri Lanka and Pakistan’s active role in fostering collaborative solutions to complex challenges in the Indian Ocean region.
-
-◼️
-
-[Data](articles/3fc70d4e.json)
-
-[Extended Data](ext_articles/3fc70d4e.ext.json)
-
----
-
-### India wins the Asian Bowl last Super 4; Nissanka became the 4th Sri Lankan who scored a century in three cricket
-
-*2025-09-27 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226205) · `ta`
-
-India won the Super over the last Super 4 cricket match of the R20 Asian Cup held at the Dubai International Cricket Stadium on Friday (26).
-
-In order to determine the winning team, Sri Lanka lost 2 wickets in the supervision over and scored only 2 runs.
-
-In reply, India won the Over and won 3 runs in the same ball.
-
-Sri Lanka, who won 203 runs in the upcoming match, scored 202 runs for the loss of 5 wickets in 20 overs with the help of Beth and Nissankav's virgin century.
-
-Bethum Nissan was very efficient and scored 107 runs off 58 balls with 7 pounds and 6 sixes and lost the first ball of the last over.
-
-He became the fourth Sri Lankan who scored a century in all three international cricket matches by scoring a century.. He became the 28th player in the entire cricket world and trio cricket.
-
-Gusal Janith Perera scored 58 runs and shared 127 runs in the 3rd wicket with Beth and Nissank.
-
-Dasun Shanaka scored 22 runs without losing the game.
-
-...
-
-[Data](articles/3ebfff12.json)
-
-[Extended Data](ext_articles/3ebfff12.ext.json)
-
----
-
-### Global Dialogue Forum conclave showcases AI’s role in powering green energy, food security and cybersecurity
-
-*2025-09-27 00:47:26* · [`dailyftlk`](https://www.ft.lk/business/Global-Dialogue-Forum-conclave-showcases-AI-s-role-in-powering-green-energy-food-security-and-cybersecurity/34-782259) · `en`
-
-The Global Dialogue Forum (GDF), in partnership with the Club of Rome – India, successfully hosted its international conclave on AI in powering green energy, food security and cybersecurity at the Galle Face Hotel, Colombo, on 20 September. The full-day event convened global policymakers, academics, industry leaders, and innovators to examine how Artificial Intelligence (AI) can be practically deployed to address the most pressing challenges facing societies.
-
-...
-
-[Data](articles/38385210.json)
-
-[Extended Data](ext_articles/38385210.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 00:20:59**
+As of **2025-09-27 23:56:45**
 
 ## Newspaper Stats
 
-*Scraped **79,013** Articles*
+*Scraped **78,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,42 +12,26 @@ lankadeepalk | 356
 newsfirstlk | 442
 dbsjeyarajcom | 635
 bbccomsinhala | 706
-colombotelegraphcom | 797
-economynextcom | 4,731
+colombotelegraphcom | 796
+economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,626
-adaderanalk | 10,210
+adaderanalk | 10,206
 tamilmirrorlk | 11,837
-virakesarilk | 12,845
+virakesarilk | 12,837
 adaderanasinhalalk | 13,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,998 (100.0%) of 79,013 articles have been extended.
+78,997 (100.0%) of 78,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### 30 arrested during special police operation in Maradana
-
-*2025-09-27 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112975/30-arrested-during-special-police-operation-in-maradana-) · `en`
-
-Police have arrested a total of 30 individuals in a special operation carried out in the Maradana area including Stroke Place, this evening (27).
-
-According to police, the arrested individuals include those with pending warrants as well as others wanted in connection with various crimes.
-
-The Sri Lanka Army has also taken part in the coordinated effort.
-
-◼️
-
-[Data](articles/5555b656.json)
-
----
 
 ### Karur affair: 40 people die: 50 injured
 
@@ -80,44 +64,6 @@ However, Wije's arrival for this rally has delayed, and the people have already 
 [Data](articles/a053653c.json)
 
 [Extended Data](ext_articles/a053653c.ext.json)
-
----
-
-### Stampede at Indian actor Vijay’s rally in Karur leaves 10 dead
-
-*2025-09-27 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112974/stampede-at-indian-actor-vijays-rally-in-karur-leaves-10-dead) · `en`
-
-A stampede at the rally of actor-politician Vijay, in Tamil Nadu’s Karur, has left at least 10 persons dead, NDTV reported, citing officials of a local hospital. The death toll is feared to rise further.
-
-Vijay, who recently launched his political party Tamilaga Vettri Kazhagam (TVK), arrived around six hours late at the rally venue in Karur, the report said, adding that around 30,000 people gathered at the venue to hear him.
-
-The crowd swelled and became uncontrollable even as Vijay was addressing the gathering and a number of persons including party workers and a few children fainted and fell down.
-
-Several workers noticed the situation and raised an alarm and Vijay took note and halted his speech and threw water bottles from atop the custom-built campaign bus, PTI reported. Ambulances had a tough time negotiating the heavily crowded thoroughfare to reach the spot, the news agency added.
-
-...
-
-[Data](articles/141abeaf.json)
-
----
-
-### கரூரில் பெருந்துயரம்: விஜய் பிரசார கூட்ட நெரிசலில் சிக்கி 31 பேர் பரிதாப பலி !
-
-*2025-09-27 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226268) · `ta`
-
-தமிழக வெற்றிக் கழகத்தின் தலைவர் விஜய் இன்று சனிக்கிழமை (செப்டம்பர் 27, 2025)  கரூர் மாவட்டத்தில் மக்களைச் சந்தித்து உரையாற்றியபோது, கட்டுக்கடங்காத கூட்டம் கூடியதால் ஏற்பட்ட கூட்ட நெரிசலில் சிக்கி 31 பேர் உயிரிழந்தனர். இது கரூர் மாவட்டத்தில் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது.
-
-அப்போதே கூட்டத்தில் இருந்த ஒரு பெண் மயக்கமடைந்தார். உடனடியாக அவர் அம்பியூலன்ஸ் மூலம் வைத்தியசாலைக்கு அழைத்துச் செல்லப்பட்டார்.
-
-விஜய் பேசி முடித்துவிட்டுப் புறப்பட்ட பிறகு, கூட்டம் கலைந்து செல்லும்போது பெரும் நெரிசல் ஏற்பட்டது. இதில் 50-க்கும் மேற்பட்டோர் மயக்கமடைந்தனர். அவர்கள் உடனடியாக வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு சிகிச்சை அளிக்கப்பட்டனர்.
-
-முதற்கட்டமாக 2 பேர் சிகிச்சை பலனின்றி உயிரிழந்ததாகத் தெரிவிக்கப்பட்டது. இதனைத் தொடர்ந்து வைத்தியசாலையில் இருந்து வந்த தகவல்கள் மிகுந்த துயரத்தை அளித்தன.
-
-இரண்டாம் கட்டமாக, ஒரு பெண், 3 குழந்தைகள் உட்பட 10 பேர் உயிரிழந்ததாக தகவல் வெளியானது.
-
-...
-
-[Data](articles/3ba9a796.json)
 
 ---
 
@@ -161,26 +107,6 @@ The fishermen have not paid attention to the risk of the fishermen, and the Depa
 
 ---
 
-### President Dissanayake attends Sri Lanka Day at ‘EXPO 2025 Osaka’
-
-*2025-09-27 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112973/president-dissanayake-attends-sri-lanka-day-at-expo-2025-osaka-) · `en`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan, arrived this morning (27) at the Kansai International Airport in Osaka, Japan.
-
-As the first engagement of his visit, the President attended the Sri Lanka Day celebrations at the “EXPO 2025” exhibition being held in Osaka, Japan, the President’s Media Division (PMD) said.
-
-The Sri Lanka Day celebrations, organised jointly by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, showcased a variety of cultural performances reflecting Sri Lankan identity. The cultural programme attracted a large audience of both Japanese nationals and international visitors.
-
-During the ‘EXPO 2025 Osaka’, the President also visited the Sri Lanka and Japan exhibition pavilions, the PMD said.
-
-Addressing the gathering, President Dissanayake further noted that ‘EXPO 2025’ provides Sri Lanka with a global platform to share its vision for a bright future, grounded in its culture, innovation and human values.
-
-...
-
-[Data](articles/6f396df5.json)
-
----
-
 ### Karur news is worried: Chief Minister of Tamil Nadu
 
 *2025-09-27 21:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-செய்தி-கவலையளிக்கிறது-தமிழக-முதல்வர்/175-365385) · `ta`
@@ -190,22 +116,6 @@ Addressing the gathering, President Dissanayake further noted that ‘EXPO 2025�
 [Data](articles/913c4962.json)
 
 [Extended Data](ext_articles/913c4962.ext.json)
-
----
-
-### தொடர்ச்சியான சவால்களை எதிர்கொண்ட இலங்கை தற்போது நிலைபேறான மற்றும் பங்கேற்பு பொருளாதாரத்தை மீளக் கட்டியெழுப்புகின்றது - ஜப்பானில் ஜனாதிபதி
-
-*2025-09-27 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226267) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, சனிக்கிழமை (27) முற்பகல் ஜப்பானின் ஒசாகா நகரில் உள்ள கன்சாய் சர்வதேச விமான நிலையத்தை சென்றடைந்தார்.
-
-தனது விஜயத்தின் முதல் நிகழ்வாக, ஜப்பானின் ஒசாகாவில் நடைபெறுகின்ற “எக்ஸ்போ 2025” கண்காட்சியில் இலங்கை தின நிகழ்வில் ஜனாதிபதி பங்கேற்றார்.
-
-இலங்கை சுற்றுலா ஊக்குவிப்பு பணியகம் மற்றும் ஜப்பானில் உள்ள இலங்கை தூதரகம் இணைந்து ஏற்பாடு செய்த இலங்கை தின நிகழ்வு, இலங்கையின் அடையாளத்தை பிரதிபலிக்கும் பல்வேறு கலாசார அம்சங்களுடன் வண்ணமயமாக இருந்தது. இந்த கலாசார நிகழ்வைக் காண ஏராளமான ஜப்பானியர்கள் மட்டுமின்றி வெளிநாட்டினரும் கூடியிருந்தனர்.
-
-...
-
-[Data](articles/a507a64a.json)
 
 ---
 
@@ -255,38 +165,6 @@ He, therefore, also pointed out the urgent need for women to be economically emp
 
 ---
 
-### ஜனாதிபதி ஜப்பானை சென்றடைந்தார் : "எக்ஸ்போ 2025" இலங்கை தின நிகழ்வு ஜனாதிபதி தலைமையில்...
-
-*2025-09-27 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226266) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, சனிக்கிழமை (27) முற்பகல் ஜப்பானின் ஒசாகா நகரில் உள்ள கன்சாய் சர்வதேச விமான நிலையத்தை சென்றடைந்தார்
-
-அங்கு, இலங்கைக்கான ஜப்பானிய தூதுவர் அகியோ இசொமதா (Akio ISOMATA), ஜப்பானுக்கான இலங்கைத் தூதுவர் பேராசிரியர் பிவிதுரு ஜனக் குமாரசிங்க மற்றும் ஜப்பான் வெளிவிவகார அமைச்சின் உயர் அதிகாரிகள் ஜனாதிபதியை அமோகமாக வரவேற்றனர்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க செப்டெம்பர் 27 முதல் 30 வரை ஜப்பானில் உத்தியோகபூர்வ விஜயம் மேற்கொள்ளவுள்ளார்.
-
-செப்டெம்பர் 27 ஆம் திகதி ஜப்பானின் ஒசாகா நகரில் நடைபெறவுள்ள "எக்ஸ்போ 2025" இலங்கை தின நிகழ்வில் ஜனாதிபதி அநுரகுமார திசாநாயக்க பிரதம அதிதியாக கலந்து கொள்ளவுள்ளார்.
-
-இலங்கை சுற்றுலா ஊக்குவிப்பு பணியகமும் ஜப்பானில் உள்ள இலங்கை தூதரகமும் இணைந்து இந்த நிகழ்வை ஏற்பாடு செய்துள்ளன.
-
-...
-
-[Data](articles/eb1809e2.json)
-
----
-
-### இலங்கையின் சுற்றுலா வெற்றி: வளர்ச்சிக்கும் பிராந்திய மறுமலர்ச்சிக்குமான ஒரு வரைபடம்
-
-*2025-09-27 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226225) · `ta`
-
-இலங்கையின் சுற்றுலாத் துறை, நாட்டின் பொருளாதார மீட்சிக்கு ஒரு இன்றியமையாத இயந்திரமாக நிரூபிக்கப்பட்டுள்ளது. தற்போதைய அரசாங்கத்தின் மூலோபாய முயற்சிகள் இந்தத் துறையை வெற்றிகரமாகப் புத்துயிர் பெறச் செய்து, சர்வதேச சுற்றுலாப் பயணிகளின் வருகையில் ஒரு குறிப்பிடத்தக்க எழுச்சிக்கு வழிவகுத்ததுடன், இது முந்தைய சாதனைகளை விஞ்சியுள்ளது. இந்த பங்களிப்பு விலைமதிப்பற்றது. அந்நியச் செலாவணியை விரைவாக நிரப்பி, வர்த்தக சமநிலையை நிலைப்படுத்தி, உள்ளூர் பொருளாதாரங்களை மேம்படுத்துகிறது மற்றும் முக்கியமான வேலை வாய்ப்புகளை உருவாக்குகிறது.
-
-◼️
-
-[Data](articles/c9d51aa9.json)
-
----
-
 ### Landslide warnings are issued for several areas
 
 *2025-09-27 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215080) · `si`
@@ -300,24 +178,6 @@ The announcement is valid from 4.00 pm to 4.00 pm tomorrow (27).
 [Data](articles/f8b655fd.json)
 
 [Extended Data](ext_articles/f8b655fd.ext.json)
-
----
-
-### Police officers allegedly tipped off ‘Padme’ on ASP Olugala’s arrival in Indonesia
-
-*2025-09-27 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112970/police-officers-allegedly-tipped-off-padme-on-asp-olugalas-arrival-in-indonesia) · `en`
-
-It has been revealed that notorious underworld figure ‘Kehelbaddara Padme’ was tipped off by certain police officers regarding the arrival of Assistant Superintendent of Police (ASP) Rohan Olugala in Indonesia to apprehend him and other criminals including ‘Commando Salintha’.
-
-This has been revealed during the ongoing investigations, police said.
-
-Further reports indicate that the Interpol Red Notice issued for the arrest of ‘Kehelbaddara Padme’ had also been disclosed to him through local police sources.
-
-A large-scale joint operation was conducted by the police forces of Sri Lanka and Indonesia, with Sri Lankan officers engaged in surveillance operations in Indonesia for several days by contributing to the effort.
-
-...
-
-[Data](articles/f9f79393.json)
 
 ---
 
@@ -482,26 +342,6 @@ He further said that no matter how economically the country develops, if the fut
 [Data](articles/12ec9959.json)
 
 [Extended Data](ext_articles/12ec9959.ext.json)
-
----
-
-### Viksit Bharat Run to showcase India-Sri Lanka friendship
-
-*2025-09-27 19:11:00* · [`economynextcom`](https://economynext.com/viksit-bharat-run-to-showcase-india-sri-lanka-friendship-242039/) · `en`
-
-ECONOMYNEXT – The High Commission of India in Colombo and the Indian Cultural Association, have organised the Viksit Bharat Run 2025 on Sunday (28) from 6 am onwards from Galle Face Green to promote social responsibility, civic participation, and community service.
-
-“The event will feature a 5 km run from Galle Face Green, with the participation of Indian diaspora and Sri Lankan citizens in celebration of the enduring bonds of friendship between India and Sri Lanka,” the high commission said.
-
-The run is part of Seva Pakhwada (Sep 17 – Oct 2), during which activities are organised in India and in over 150 cities across the globe.
-
-The initiative marks the 75th birthday of Indian Prime Minister Narendra Modi.
-
-Cultural performances of Indian music and dance will highlight India’s development journey. (Colombo/Sep27/2025)
-
-◼️
-
-[Data](articles/32a5f003.json)
 
 ---
 
@@ -819,24 +659,6 @@ COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destr
 
 ---
 
-### The Hypocrisy Of The Scalpel: Is Sri Lanka’s Medical Watchdog Controlled By A Union?
-
-*2025-09-27 17:42:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-hypocrisy-of-the-scalpel-is-sri-lankas-medical-watchdog-controlled-by-a-union/) · `en`
-
-The Government Medical Officers Association (GMOA), Sri Lanka’s powerful doctors’ trade union, is currently making headlines for urging the Minister of Health to appoint a President to the Sri Lanka Medical Council (SLMC) who possesses “the highest stature, qualifications, and credentials,” is free from any conflicts of interest, and has no “commitments which may interfere” with their duties.
-
-It’s an admirable demand—but the entire medical profession and the public are left asking: Is this the ultimate act of hypocrisy?
-
-The GMOA’s call for unimpeachable integrity at the top is directly contradicted by serious allegations regarding its own actions within the SLMC, the very body mandated to regulate and discipline doctors for the public good.
-
-...
-
-[Data](articles/f216bd28.json)
-
-[Extended Data](ext_articles/f216bd28.ext.json)
-
----
-
 ### Baldi - Movie Review
 
 *2025-09-27 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226264) · `ta`
@@ -1023,22 +845,6 @@ It is noteworthy that this cycle of hunger strike continues to continue in the d
 
 ---
 
-### இலஞ்சம், ஊழலுடன் தொடர்புடைய பொது சேவைகளில் முதலிடத்தில் பொலிஸ் - இலஞ்சம், ஊழல் விசாரணை ஆணைக்குழுவின் தலைவர்
-
-*2025-09-27 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226254) · `ta`
-
-இலஞ்சம் அல்லது ஊழல் என்பவற்றுடன் அதிகளவில் தொடர்புடைய முதல் 10 பொது சேவைகளில் பொலிஸ் முதலிடம் வகிக்கிறது. அரசியல்வாதிகள், சுங்கம், குடிவரவு – குடியகல்வு திணைக்களம், பாடசாலைகள், அமைச்சுக்கள் என முக்கிய நிறுவனங்கள் அடுத்தடுத்த இடங்களில் உள்ளன. இந்த நிலைமை மாற்றப்பட்டால் மாத்திரமே இலஞ்ச, ஊழல் அற்ற நாட்டை கட்டியெழுப்ப முடியும் என்று இலஞ்சம் அல்லது ஊழல் விசாரணைகள் தொடர்பான ஆணைக்குழுவின் தலைவர் நீல் இத்தவெல தெரிவித்தார்.
-
-கொழும்பில்  வெள்ளிக்கிழமை (26) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-மக்களின் நிலைப்பாட்டுக்கமைய இலஞ்சம் அல்லது ஊழல் என்பவற்றுடன் அதிகளவு தொடர்புடையது பொலிஸார் என எம்மால் முன்னெடுக்கப்பட்ட ஆய்வொன்றில் கண்டறியப்பட்டுள்ளது.
-
-...
-
-[Data](articles/0c1ed4ef.json)
-
----
-
 ### In Defence Of The Diaspora: Why Sri Lanka Should Embrace Expat Voting
 
 *2025-09-27 16:58:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-defence-of-the-diaspora-why-sri-lanka-should-embrace-expat-voting/) · `en`
@@ -1159,42 +965,6 @@ Nishantha Samaraweera added that the heads of corruption and irregularities will
 
 ---
 
-### The program to modernize the Narahenpitti Railway Station
-
-*2025-09-27 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226244) · `ta`
-
-The program to modernize the Narahenpita Railway Station on Saturday (27) was launched under the "Dream Destination" program implemented with the "Clean Sri Lanka" program.
-
-The Narahenpitti Railway Station, which is considered to be another unique railway station on the Kelaniwa road, is located between the Koda Road Railway Station and the Kirulapana Railway Station.
-
-Located at a distance of 5.06 km from Colombo and at a height of 3.72 m above sea level, the railway station consists of two main platforms and a ticket counter.
-
-The railway station, located near a number of state, semi -government and private companies, including the Department of Labor, the Transport Department and the Department of Land Survey, is using a large number of passengers for daily duties.
-
-...
-
-[Data](articles/5ab5959f.json)
-
-[Extended Data](ext_articles/5ab5959f.ext.json)
-
----
-
-### யாழ்ப்பாணப் பல்கலைக்கழகத்தில் சிரேஷ்ட பேராசியர், பேராசிரியர் பதவி உயர்வுகளுக்குப் பேரவை அங்கீகாரம்
-
-*2025-09-27 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226249) · `ta`
-
-யாழ்ப்பாணப் பல்கலைக்கழகத்தில் பேராசிரியர் ஒருவரைச் சிரேஷ்ட பேராசியரகவும், சிரேஷ்ட விரிவுரையாளர்கள் ஆறு பேரைப் பேராசிரியர்களாகவும் பதவி உயர்த்துவதற்குப் பல்கலைக்கழகப் பேரவை ஒப்புதல் வழங்கியுள்ளது.
-
-விவசாய பீடத்தின் விவசாய உயிரியல் துறையைச் சேர்ந்த ரோசிரியர் ஒருவரைச் சிரேஷ்ட பேராசிரியராகவும், மருத்துவ பீடத்தின் சத்திரசிகிச்சையியல் துறை மற்றும் உடற்கூற்றியல் துறை ஆகிய துறைகளைச் சேர்ந்த சிரேஷ்ட விரிவுரையாளர்கள் மூன்று பேரையும், கலைப்பீடத்தின் புவியியல் துறை, இந்து கற்கைகள் பீடத்தின் சமஸ்கிருதத்துறை மற்றும் இணைந்த சுகாதார விஞ்ஞானங்கள் பீடத்தின் விளையட்டு விஞ்ஞான அலகைச் சேர்ந்த சிரேஷ்ட விரிவுரையாளர் ஒருவரையும் பேராசிரியர்களாகப் பதவி உயர்த்துவதற்கே பல்கலைக்கழகப் பேரவை ஒப்புதல்   வழங்கியுள்ளது.
-
-பல்கலைக்கழகப் பேரவையின் மாதாந்தக் கூட்டம் செப்ரெம்பர் 27 ஆம் திகதி சனிக்கிழமை துணைவேந்தர் பேராசிரியர் சி.சிறிசற்குணராஜா தலைமையில் நடைபெற்றது.
-
-...
-
-[Data](articles/a89480c4.json)
-
----
-
 ### Police who brutally attacked people in Mannar; Action to arrest those in the hospital
 
 *2025-09-27 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226250) · `ta`
@@ -1278,24 +1048,6 @@ The Field Organization has established the main objective of accepting the exist
 [Data](articles/aeea688b.json)
 
 [Extended Data](ext_articles/aeea688b.ext.json)
-
----
-
-### ''பெண்ணியத்தின் எதிர்காலம்: கலை, செயல்பாடு மற்றும் தெற்காசியப் பெண்" கண்காட்சியைப் பார்வையிட்டார் பிரதமர்
-
-*2025-09-27 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226229) · `ta`
-
-வரலாற்றாசிரியர் கலாநிதி அர்ஷியா லோகந்த்வாலா (Dr. Arshiya Lokhandwala) நெறிப்படுத்தப்பட்ட, "பெண்ணியத்தின் எதிர்காலம்: கலை, செயல்பாடு மற்றும் தெற்காசியப் பெண்" எனும் தலைப்பிலான தெற்காசியப் பெண்ணிய கலைஞர்களின் படைப்புகளை உள்ளடக்கிய கலைக் கண்காட்சியைப் பிரதமர் ஹரிணி அமரசூரிய பார்வையிட்டார்.
-
-இந்தக் கண்காட்சி கொழும்பு தேசிய அருங்காட்சியகத்தில்  அமைந்திருக்கும் லோட்டஸ் கலைக்கூடத்தில் வெள்ளிககிழமை (26)  இடம்பெற்றது.
-
-இந்தக் கலைக் கண்காட்சி பெண்ணியத்தின் எதிர்காலம், பாலின சமத்துவமின்மை, பாலினம் அடிப்படையிலான அமைப்பு ரீதியான வன்முறை போன்ற விடயங்களைக் கேள்விக்குள்ளாக்குவதுடன், பெண்களின் ஆற்றல், சுதந்திரம் மற்றும் ஒத்துழைப்பு ஆகியவற்றுக்கு மேடை அமைக்கின்றது.
-
-இலங்கை, இந்தியா, நேபாளம், பங்களாதேஷ் மற்றும் பாகிஸ்தான் ஆகிய தெற்காசிய நாடுகளைப் பிரதிநிதித்துவப்படுத்தும் பதினொரு பெண்ணிய கலைஞர்களின் படைப்புகள் இங்கு காட்சிப்படுத்தப்படுகின்றன. இவர்கள் தத்தமது நாடுகளில் பெண்கள் எதிர்கொள்ளும் பிரச்சினைகளைத் தமது கலைப் படைப்புகள் மூலம் வெளிப்படுத்தி இருக்கின்றனர்.
-
-...
-
-[Data](articles/ae41beae.json)
 
 ---
 
@@ -1426,6 +1178,26 @@ The arrested suspect has been reported to have sold liquor bottles to school stu
 [Data](articles/834d9295.json)
 
 [Extended Data](ext_articles/834d9295.ext.json)
+
+---
+
+### The program to modernize the Narahenpitti Railway Station
+
+*2025-09-27 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226244) · `ta`
+
+The program to modernize the Narahenpita Railway Station on Saturday (27) was launched under the "Dream Destination" program implemented with the "Clean Sri Lanka" program.
+
+The Narahenpitti Railway Station, which is considered to be another unique railway station on the Kelaniwa road, is located between the Koda Road Railway Station and the Kirulapana Railway Station.
+
+Located at a distance of 5.06 km from Colombo and at a height of 3.72 m above sea level, the railway station consists of two main platforms and a ticket counter.
+
+The railway station, located near a number of state, semi -government and private companies, including the Department of Labor, the Transport Department and the Department of Land Survey, is using a large number of passengers for daily duties.
+
+...
+
+[Data](articles/5ab5959f.json)
+
+[Extended Data](ext_articles/5ab5959f.ext.json)
 
 ---
 
@@ -1582,24 +1354,6 @@ Prashantha Lawl de Alwis, Principal of the Law College of Sri Lanka, praised the
 [Data](articles/06b7f076.json)
 
 [Extended Data](ext_articles/06b7f076.ext.json)
-
----
-
-### Foreign investors buy Sri Lanka rupee bonds for fifth straight week
-
-*2025-09-27 15:01:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-fifth-straight-week-242021/) · `en`
-
-ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a fifth straight week in the week ended on September 25 with the offshore holding in local bonds at two-year high, the Central Bank data showed, amid a surge in global investor appetite for government bonds.
-
-Foreign investors bought a net 334 million rupee ($1.11 million) worth of government securities in the week ended on September 25, extending the inflows to a net 14,041 million rupee ($46.8 million) in the five weeks.
-
-Government bond funds across the world saw a surge in demand as they saw a hefty USD 22.96 billion weekly net investment, the largest figure since at least 2022 amid a robust $10.01 billion weekly inflow in the short-term funds segment, Reuters reported.
-
-Foreign holdings in Sri Lanka’s rupee bonds were at 120.6 billion rupees on September 25, their highest since December 2023, official data showed.
-
-...
-
-[Data](articles/8f335015.json)
 
 ---
 
@@ -1988,5 +1742,309 @@ COLOMBO(News 1st); US President Donald Trump hosted a special dinner on the 23rd
 [Data](articles/84aa6707.json)
 
 [Extended Data](ext_articles/84aa6707.ext.json)
+
+---
+
+### Awareness Program on Central Provincial Officers Digitalization and AI Technology
+
+*2025-09-27 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226238) · `ta`
+
+The first provincial level event was held at the Kandy District Secretariat on Friday (26th) to raise awareness of the government's digitalization program and the use of AI technology.
+
+The event was aimed at clarifying the government's digitalization programs and the knowledge of the authorities on the use of AI technology and was held with the participation of the Central Provincial Council, District Secretariats, Divisional Secretariats and other state institutions.
+
+Six awareness programs for state officials have been conducted on digitalization and AI technology based in Colombo, which has so far participated in which more than 4,000 officials participated.
+
+It is planned to raise awareness for all state officials outside Colombo on the role of state officials and AI technology for government activities on the government's digitalization scheme.
+
+...
+
+[Data](articles/03891c95.json)
+
+[Extended Data](ext_articles/03891c95.ext.json)
+
+---
+
+### Anura met Trump
+
+*2025-09-27 13:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்பை-சந்தித்தார்-அனுர/175-365366) · `ta`
+
+There is a smooth discussion between President Anura Kumara Dissanayake and US President Donald Trump.
+
+The meeting took place at a dinner party offered by President Trump at the New York Palace Hotel.
+
+It is noteworthy that the event was organized for the heads of state in New York to attend the 80th session of the United Nations General Assembly (Unga).. Remble
+
+◼️
+
+[Data](articles/6b283f98.json)
+
+[Extended Data](ext_articles/6b283f98.ext.json)
+
+---
+
+### Motorcycle - Plowing machine collision; Young man kills!
+
+*2025-09-27 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226237) · `ta`
+
+Hambagamuwa police said that a youth was killed when a motorcycle collided with a motorcycle and an opposite direction near the Malakandura junction on the Hambagamuwa Weloya road.
+
+The accident occurred when a motorcycle traveling from Malakandura to Mahabelasa collided with a plowing machine from the opposite direction, police said.
+
+The motorcycle driver was seriously injured in the accident and died after being admitted to the Embilipitiya Hospital.
+
+The driver of the plowing machine has been arrested in connection with the accident and Hambagamuwa police are conducting further investigations.
+
+◼️
+
+[Data](articles/0620dbea.json)
+
+[Extended Data](ext_articles/0620dbea.ext.json)
+
+---
+
+### IRD reminds taxpayers to settle final income tax payments
+
+*2025-09-27 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112960/ird-reminds-taxpayers-to-settle-final-income-tax-payments-) · `en`
+
+The Inland Revenue Department (IRD) has notified all taxpayers to make their final income tax payments for the 2024/2025 assessment year on or before September 30.
+
+This requirement applies to individuals, companies, corporations, partnerships, and other registered entities.
+
+The IRD stated that tax payments can be made through the Online Tax Payment Platform (OTPP) or at any branch of the Bank of Ceylon (BOC) without the need for physical payment slips.
+
+Taxpayers have also been reminded that interest and penalties will be imposed for delays or failures in making payments.
+
+The Department further emphasized that penalties and interest charged for late or non-payment will not be waived or reduced under any circumstances.
+
+◼️
+
+[Data](articles/8f7cb4d0.json)
+
+[Extended Data](ext_articles/8f7cb4d0.ext.json)
+
+---
+
+### 10 people against 10 people who maintain dengue in the Thondamanadu area
+
+*2025-09-27 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226236) · `ta`
+
+The homeowner has been fined Rs.
+
+The Point Pedro Magistrate's Court has filed a case against 10 owners who maintained the spread of dengue mosquitoes during the dengue control field on Friday (26).
+
+After the 10 owners of the House during the trial, the 10 people were sentenced to 10 people at a rate of 80 thousand rupees each.
+
+◼️
+
+[Data](articles/efc2a5ed.json)
+
+[Extended Data](ext_articles/efc2a5ed.ext.json)
+
+---
+
+### Special announcement for all taxpayers!
+
+*2025-09-27 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226233) · `ta`
+
+The Department of Home Affairs has instructed all taxpayers to pay the final income tax payments for 2024/2025 on the 30th of September.
+
+It is stated that the order also applies to individuals and institutions, partnerships and other registered companies.
+
+The Department of Home Affairs has said that the tax payable can be paid through the one-line tax system of any branch of the Bank of Sri Lanka.
+
+It is advised that interest and penalties will be imposed if the tax is delayed or missed and not waiting for direct fee tickets.
+
+The Internal Revenue Department has issued a statement to all taxpayers, saying that tax payments or late payments and interest will never be waived or reduced.
+
+◼️
+
+[Data](articles/586f550e.json)
+
+[Extended Data](ext_articles/586f550e.ext.json)
+
+---
+
+### The power of catching thieves into the coop coffee
+
+*2025-09-27 13:11:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-කපවට-හර-අලලන-බලය/101-680310) · `si`
+
+The Committee on Parliamentary Affairs has decided to promote bribery and corruption to the Committee on Public Institutions regarding the corresponding and heads of public institutions on public institutions.
+
+Accordingly, the Standing Orders will soon be amended for the two committees.
+
+A proposal to approve the revision of Standing Orders was also given to the Standing Order Committee.
+
+The Bribery Committee on Public Enterprises and Corruption (COPE) and the CID or the CID or the CID or the CID or the CID or the CID or the CID have not been given to the Investigation Department.
+
+In the recent past, the Criminal Investigation Department and the Attorney General will refer to the Commission to Investigate Allegations of Bribery or Corruption in the recent past.
+
+◼️
+
+[Data](articles/310eb7e8.json)
+
+[Extended Data](ext_articles/310eb7e8.ext.json)
+
+---
+
+### The power of catching thieves into the coop coffee
+
+*2025-09-27 13:11:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කපවට-හර-අලලන-බලය/1-680310) · `si`
+
+The Committee on Parliamentary Affairs has decided to promote bribery and corruption to the Committee on Public Institutions regarding the corresponding and heads of public institutions on public institutions.
+
+Accordingly, the Standing Orders will soon be amended for the two committees.
+
+A proposal to approve the revision of Standing Orders was also given to the Standing Order Committee.
+
+The Bribery Committee on Public Enterprises and Corruption (COPE) and the CID or the CID or the CID or the CID or the CID or the CID or the CID have not been given to the Investigation Department.
+
+In the recent past, the Criminal Investigation Department and the Attorney General will refer to the Commission to Investigate Allegations of Bribery or Corruption in the recent past.
+
+◼️
+
+[Data](articles/5a2f3c55.json)
+
+[Extended Data](ext_articles/5a2f3c55.ext.json)
+
+---
+
+### The country's computer literacy rate is low!
+
+*2025-09-27 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226234) · `ta`
+
+In 2024, the Department of Summit and Statistics estimates that only two in the country were educated as computer literate.
+
+Accordingly, 64.1 per cent of Sri Lankans are unable to use the computer.
+
+The Survey Results show that from 2023 to 2024 to 3.1 percent, the Department of Commerce and Statistics; Reported.
+
+◼️
+
+[Data](articles/41adb239.json)
+
+[Extended Data](ext_articles/41adb239.ext.json)
+
+---
+
+### VIP - Assets of the Palmyra Comprehension - Liabilities
+
+*2025-09-27 13:00:03* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පරභ-නරපරභ-මලමව-වතකම-බරකම/2-680309) · `si`
+
+His assets published on the Bribery or Corruption Minister Wasantha Samarasinghe, the Minister of Commerce, Cooperation and Co-operatives has been presented in the website of Bribery or Corruption.
+
+It is why his assets say that the value of his assets is about seven and a half crores. Critics question whether a leader of the proletariat has such a large wealth.
+
+When the JVP is a full-time activist in the JVP, JVP members and supporters of the JVP are at times of the JVP policy.
+
+Now, some question some. They ask whether Mr. Samarasinghe is the most relative of the JVP as a full-time activist, but as a relatively large wealth.
+
+Foreign Affairs Minister Vijitha Herath, the leaders of the national promos. Several vocational education Deputy Minister of Education Nalin Hewage and some of the opposition parties are questioning the assets of Nalin Hewage.
+
+...
+
+[Data](articles/3e773cc2.json)
+
+[Extended Data](ext_articles/3e773cc2.ext.json)
+
+---
+
+### Tangalle drug incident; Permission to investigate the son of the victim in police detention without treatment at the hospital
+
+*2025-09-27 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226235) · `ta`
+
+Two bodies were recovered from a house on September 22 in Tangalle, Hambantota, and another person in the house died at the Tangalle Base Hospital without treatment.. The Tangalle Magistrate's Court yesterday (26) granted permission to investigate the son of the deceased.
+
+Drugs, including 245 kg of ice and 380 kg of heroin, have been seized.
+
+As well as 5 pistol rifles and a r - 56 firing.
+
+Accordingly, the magistrate has granted permission to investigate the son of the deceased until October 1.
+
+Police suspect the driver of a lorry containing drugs in the hospital without treatment.
+
+Earlier, six people have been arrested in connection with the incident and they have been placed in police detention until September 29.
+
+◼️
+
+[Data](articles/184684a8.json)
+
+[Extended Data](ext_articles/184684a8.ext.json)
+
+---
+
+### Mannar - Hot From Walad Power Plant
+
+*2025-09-27 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215065) · `si`
+
+The people of the area had commissioned against the LTTE's area yesterday (27), with the sustainable territory and other equipment to construct the city of Mannar.
+
+It is said that the masses protested to promote the wind to be taken to Mannar town.
+
+However, police rebel groups were brought to the Mannar Turbine and other equipment to the city of Mannar, Ada Derana reporter.
+
+The people of Mannar were continued to protest the city of Mannar yesterday, asking for the construction of the wind power plants in Mannar Island and to stop mineral sand.
+
+However, the protests were intensified, with the carrying territory and other equipment needed to the wind power plant.
+
+Three protesters were injured and the people were assaulted by the police.
+
+When contacted by the Mannar Police, a group of people were protesting at the Town of Mannar town.
+
+There, the police controlled the situation and had never attacked civilians.
+
+...
+
+[Data](articles/0211a2bc.json)
+
+[Extended Data](ext_articles/0211a2bc.ext.json)
+
+---
+
+### First Hospital Hoodya Health Center vested with the public in Mapalagama, Galle
+
+*2025-09-27 12:46:37* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රථම-ආරෝග්‍යා-සුවතා-මධ්‍යස්ථානය-ගාල්ල-මාපලගම-දී-ජනතා-අයිතියට/11-418753) · `si`
+
+The Ministry of Health and Mass Media has planned to establish a million primary health care centers island wide under the new government health policy.
+
+The first center of the Hospital was the first center of the Holosana Hospital Thuga district was held at the Mapalagama Hospital Hospital in Galle District yesterday (26) under the patronage of Hon.
+
+The first cititure registration and registration card was handled by the Minister.
+
+The center provides health services for nearly five thousand people living in the Grama Niladhari Divisions in Mapalagama, Talgaswala, Gonalagoda East.
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa said that today's health care is now planning to mark the beginning of a massive turn today.
+
+The Ayurvedic medical field is also established in Sri Lanka as well as health care in the Ayurvedic medical field will also commence a number of health activities.
+
+...
+
+[Data](articles/b50b5c14.json)
+
+[Extended Data](ext_articles/b50b5c14.ext.json)
+
+---
+
+### Woman brutally murdered: one arrested
+
+*2025-09-27 12:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கொடூர-கொலை-ஒருவர்-கைது/175-365365) · `ta`
+
+Welikada police said that a woman was assaulted and murdered yesterday in the Welikada - Angodai area.
+
+Investigations have revealed that the murderer is 65 years old from Angoda, Akkonna area.
+
+Police said the murder was caused by a dispute between a woman and a man in the opposite house.
+
+The woman who was attacked was admitted to the Mulleria Hospital and died without treatment, police said.
+
+Investigations have revealed that the man who lives in the opposite house and the murdered woman are working as an employee in the same company.
+
+Subsequently, the suspect who lives in the opposite house has been arrested and the Welikada police are conducting further investigations.. Remble
+
+◼️
+
+[Data](articles/228a58a6.json)
+
+[Extended Data](ext_articles/228a58a6.ext.json)
 
 ---

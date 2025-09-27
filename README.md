@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 18:39:59**
+As of **2025-09-27 18:19:05**
 
 ## Newspaper Stats
 
-*Scraped **78,948** Articles*
+*Scraped **78,942** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 347
+lankadeepalk | 344
 newsfirstlk | 441
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -21,97 +21,17 @@ adalk | 7,624
 adaderanalk | 10,200
 tamilmirrorlk | 11,831
 virakesarilk | 12,820
-adaderanasinhalalk | 13,711
+adaderanasinhalalk | 13,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,946 (100.0%) of 78,948 articles have been extended.
+78,940 (100.0%) of 78,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### ජනපති ජපානයට ළඟා වෙයි
-
-*2025-09-27 18:23:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනයට-ළඟ-වය/1-680330) · `si`
-
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (27) පෙරවරුවේ ජපානයේ, ඔසාකා නුවර පිහිටි කන්සායි ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ළඟා විය.
-
-එහිදී  ශ්‍රී ලංකාවේ ජපාන තානාපති අකියෝ ඉසොමතා (Akio ISOMATA), ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරුන් සහ ජපාන විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීන් විසින් ජනාධිපතිවරයා හරසරින් පිළිගනු ලැබීය.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සැප්තැම්බර් 27 වන දින සිට 30 වන දා දක්වා ජපානයේ නිල සංචාරයක නිරත වේ.
-
-සැප්තැම්බර් 27 වන දින ජපානයේ ඔසාකාහි පැවැත්වෙන “එක්ස්පෝ 2025” ශ්‍රී ලංකා දින සැමරුමේ ප්‍රධාන ආරාධිත අමුත්තා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා සහභාගී වීමට නියමිතය.
-
-ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය සහ ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය එක්ව මෙම උත්සවය සංවිධානය කරනු ලබයි.
-
-...
-
-[Data](articles/e5b5b851.json)
-
----
-
-### ඇමරිකා වානිජ මණ්ඩල සභාපති ජනපති හමුවෙයි
-
-*2025-09-27 18:18:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමරක-වනජ-මණඩල-සභපත-ජනපත-හමවය/1-680329) · `si`
-
-එක්සත් ජනපද වාණිජ මණ්ඩලයේ ජ්‍යෙෂ්ඨ උප සභාපති (දකුණු ආසියාව) අතුල් කේෂප් (Atul Keshap) මහතා සහ ජනාධිපති අනුර කුමාර දිසානායක මහතා අතර හමුවක් ඇමරිකාවේදී සිදු විය.
-
-මෙම හමුව සිදු වූයේ එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරය අතරතුරදීය.
-
-මෙහිදී මෙහිදී ශ්‍රී ලංකා ජනාධිපතිවරයා සහ අතුල් කේෂප් මහතා අතර කෙටි සාකච්ඡාවක් ද පැවැත්විණි.
-
-◼️
-
-[Data](articles/985dedd0.json)
-
----
-
-### Three members of the president
-
-*2025-09-27 18:16:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-නවත-රජය-නයකයන-තදනක-හමව/1-680328) · `si`
-
-President Anura Kumara Dissanayake met Cyprus, Argentina and Slovenia in the United States.
-
-This was found at the special dinner awarded to the United Nations Leaders in New York Palace Hotel for attending the 80th session of the United Nations General Assembly.
-
-The President of Cyprus, Nikos Christi, President Javier Milei and President Nataša Pirc Musar of Slovenia, President Nataša Pirc Musicia.
-
-◼️
-
-[Data](articles/b4e89a92.json)
-
-[Extended Data](ext_articles/b4e89a92.ext.json)
-
----
-
-### President arrives in Japan
-
-*2025-09-27 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215076) · `si`
-
-The Hon.
-
-Ambassador of Japanese in Sri Lanka Ako Eroadana, Sri Lanka's Ambassador to Japan and the Senior Officer of the Ministry of External Affairs was welcomed by senior officials of the Ministry of External Affairs.
-
-President Anura Kumara Dissanayake is on an official visit to Japan from today (27).
-
-President Anura Kumara Dissanayake is the chief guest of the Sri Lanka Tourism Promotion Bureau and Japan's Sri Lanka's Embassy in Oscaka today.
-
-During his visit, President Anura Kumara Dissanayake is due to meet the Natural Prime Minister of Japan and the Minister of Defense, the Minister of External Affairs, Economic and Industries.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/44bc3c7e.json)
-
-[Extended Data](ext_articles/44bc3c7e.ext.json)
-
----
 
 ### Floods, Strong Winds and Heavy Rain Hit Multiple Provinces
 
@@ -122,8 +42,6 @@ COLOMBO(News 1st); One person has died, and 58 people from 17 families have been
 ◼️
 
 [Data](articles/177998cb.json)
-
-[Extended Data](ext_articles/177998cb.ext.json)
 
 ---
 
@@ -136,30 +54,6 @@ COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destr
 ◼️
 
 [Data](articles/ffb79d83.json)
-
-[Extended Data](ext_articles/ffb79d83.ext.json)
-
----
-
-### Mongolian security consultant meets security heads of Sri Lanka
-
-*2025-09-27 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215075) · `si`
-
-Sri Lanka's Mongolian Defense Advisor Colonel Odsuren Zayat and Deputy Minister of Defense Major General Aruna Jayasekara was held at his office in Colombo.
-
-The Deputy Minister has warmly welcomed the Colonel Zayat very hot and have a friendly discussion on the mutual importance.
-
-The Defense Secretary Air Vice Marshal resources have also been found at Colonel Zayat, Defense Ministry.
-
-There is focusing on the main areas of security and exchange.
-
-These appointments marked the effective and successful move to strengthen security ties between Mongolia and Sri Lanka.
-
-◼️
-
-[Data](articles/a0f706d7.json)
-
-[Extended Data](ext_articles/a0f706d7.ext.json)
 
 ---
 
@@ -182,28 +76,6 @@ The construction of a passenger flyover to the comfort of the railway stations, 
 [Data](articles/1d60ebbe.json)
 
 [Extended Data](ext_articles/1d60ebbe.ext.json)
-
----
-
-### Narahenpita Railway Station begins
-
-*2025-09-27 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215074) · `si`
-
-The modernization of Narahenpita Railway Station began today (27) under the Dream Destination program.
-
-Narahenpita Railway Station, which is considered another unique railway station, is located in the Kelani Sand road, is located in the middle of the Kirulappana Railway Station.
-
-The station is comprised of two main platforms and one ticket counter, located 3.72m from Colombo from 5.06 km.
-
-Accordingly, the train station station is scheduled to build a passenger flyover development, improvement and modern purposes.
-
-The renovation work is to be conducted by the private sponsorship of the private sector.
-
-◼️
-
-[Data](articles/3d79ff0e.json)
-
-[Extended Data](ext_articles/3d79ff0e.ext.json)
 
 ---
 
@@ -2068,5 +1940,133 @@ It is reported that six injured are receiving treatment at the Mahiyanganaya Hos
 [Data](articles/b94a8e46.json)
 
 [Extended Data](ext_articles/b94a8e46.ext.json)
+
+---
+
+### 170 police officers file FR petitions over ASP promotions
+
+*2025-09-27 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/112955/170-police-officers-file-fr-petitions-over-asp-promotions) · `en`
+
+Three Fundamental Rights (FR) petitions have been filed before the Supreme Court by 170 Chief Inspectors and Inspectors of Police, challenging the promotion of 45 officers to the post of Assistant Superintendent of Police (ASP) based on a recent limited competitive examination.
+
+The Inspector General of Police (IGP), the promoted ASPs, and members of the National Police Commission (NPC) have been named as respondents in the petitions, which were filed by Attorney-at-Law Manjula Balasooriya, said Ada Derana reporter.
+
+The petitioners claim that 45 Inspectors of Police were promoted on September 25 to the post of ASP based on the results of the limited competitive examination.
+
+They allege that a question paper of the examination had been leaked, while the results were released after an unusual delay, which they argue was deliberate.
+
+...
+
+[Data](articles/8f94273d.json)
+
+[Extended Data](ext_articles/8f94273d.ext.json)
+
+---
+
+### Petitions against Assistant Superintendent of Police
+
+*2025-09-27 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215060) · `si`
+
+Of the persons who sat for the recruitment of ASP to be recruited
+
+170 Chief Inspectors and Inspectors of Police have filed 3 fundamental rights petitions in the Supreme Court to promote 45 people by promotion of the Assistant Superintendent of Assurance.
+
+The IGP and the members of the National Police Commission have named the IGP and the National Police Commission as respondents.
+
+According to petivers, the petitions have been filed by lawyer Manjula Balasuriya, the Chief Inspectors and Inspectors of Police were promoted to the post of Assistant Superintendent of Police to promote the office of Assistant Superintendent.
+
+It is revealed that the question paper had been exited during this examination and that the results of the examination were delayed and that it was deliberately issued.
+
+They say that the Assistant Superintendent of Police have been promoted to the post of Assistant Superintendent.
+
+...
+
+[Data](articles/50c8b239.json)
+
+[Extended Data](ext_articles/50c8b239.ext.json)
+
+---
+
+### President Anura Kumara to begin official visit to Japan today
+
+*2025-09-27 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/112954/president-anura-kumara-to-begin-official-visit-to-japan-today) · `en`
+
+President Anura Kumara Dissanayake is scheduled to commence his official visit to Japan today (27), following the successful conclusion of his visit to the United States, where he attended the 80th session of the United Nations General Assembly (UNGA).
+
+According to the President’s Media Division (PMD), President Dissanayake departed for Japan from John F. Kennedy International Airport on the night of September 25.
+
+At the invitation of the Japanese government, President Dissanayake is set to undertake an official visit to Japan from September 27 to 30.
+
+During the visit, President Dissanayake will have an audience with His Majesty the Emperor of Japan and he will hold a summit meeting with the Japanese Prime Minister on a wide range of issues of mutual interest, the Ministry of Foreign Affairs, Foreign Employment and Tourism said.
+
+...
+
+[Data](articles/1a06eec4.json)
+
+[Extended Data](ext_articles/1a06eec4.ext.json)
+
+---
+
+### President's visit to Japan begins today
+
+*2025-09-27 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215058) · `si`
+
+President Anura Kumara Dissanayake is scheduled to commence the Japanese official visit to Sri Lanka today (27).
+
+The President is scheduled to visit Japan until the 30th of this month, according to the next day of the Government of Japan.
+
+President Anura Kumara Dissanayake is also scheduled to meet the Japanese emperor.
+
+It also holds a convention meeting to emphasize a number of mutual important issues with the Japanese Prime Minister.
+
+The President also addresses a business forum at the participating in the top Japanese businesses and proposals in Tokyo.
+
+The Ministry of External Affairs said that President Anura Kumara Dissanayake would also participate in Expo 2025 Osaca.
+
+The President who left the 80th session of the United Nations General Assembly, the President had commissioned the Japanese tour.
+
+◼️
+
+[Data](articles/6189d396.json)
+
+[Extended Data](ext_articles/6189d396.ext.json)
+
+---
+
+### The main notice for all taxpayers
+
+*2025-09-27 07:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-வரி-செலுத்துவோருக்கும்-முக்கிய-அறிவிப்பு/175-365362) · `ta`
+
+The Department of Home Affairs has advised all taxpayers to pay taxes on September 30, 2025.
+
+The order is also applied to individuals, corporations, corporate allies and other registered companies.
+
+It is stated that the final fee can be paid at any branch of the Bank of Sri Lanka.
+
+The Department of Home Affairs has warned that delays or missed fees can lead to interest and fines. Remble
+
+◼️
+
+[Data](articles/f3fb4bf7.json)
+
+[Extended Data](ext_articles/f3fb4bf7.ext.json)
+
+---
+
+### Pakistan ‘won the war’ against India, PM Sharif tells UNGA
+
+*2025-09-27 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112953/pakistan-won-the-war-against-india-pm-sharif-tells-unga) · `en`
+
+Prime Minister Shehbaz Sharif on Friday, highlighting the human rights violations in Kashmir and Palestine and condemning terrorism, reiterated Pakistan’s commitment to peace and dialogue but vowed to resolutely defend the nation against any external aggression or India’s usurpation of water rights.
+
+The prime minister, in his 25-minute address at the 80th session of the United Nations General Assembly here, encompassed all national, regional, and international issues, including the recent Pakistan-India war, Kashmir, Palestine, terrorism, Afghanistan, ongoing floods in Pakistan and multilateralism.
+
+PM Shehbaz, who spoke for the third time to the 193-member world body, began his remarks highlighting the world’s complexities like intensifying conflicts, violation of international laws, humanitarian crises, disinformation, arms race, emerging technologies and climate change.
+
+...
+
+[Data](articles/160a40af.json)
+
+[Extended Data](ext_articles/160a40af.ext.json)
 
 ---

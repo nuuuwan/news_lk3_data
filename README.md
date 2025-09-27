@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 00:10:08**
+As of **2025-09-27 23:56:45**
 
 ## Newspaper Stats
 
-*Scraped **78,998** Articles*
+*Scraped **78,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ lankadeepalk | 356
 newsfirstlk | 442
 dbsjeyarajcom | 635
 bbccomsinhala | 706
-colombotelegraphcom | 797
+colombotelegraphcom | 796
 economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,997 (100.0%) of 78,998 articles have been extended.
+78,997 (100.0%) of 78,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -656,22 +656,6 @@ COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destr
 [Data](articles/ffb79d83.json)
 
 [Extended Data](ext_articles/ffb79d83.ext.json)
-
----
-
-### The Hypocrisy Of The Scalpel: Is Sri Lanka’s Medical Watchdog Controlled By A Union?
-
-*2025-09-27 17:42:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-hypocrisy-of-the-scalpel-is-sri-lankas-medical-watchdog-controlled-by-a-union/) · `en`
-
-The Government Medical Officers Association (GMOA), Sri Lanka’s powerful doctors’ trade union, is currently making headlines for urging the Minister of Health to appoint a President to the Sri Lanka Medical Council (SLMC) who possesses “the highest stature, qualifications, and credentials,” is free from any conflicts of interest, and has no “commitments which may interfere” with their duties.
-
-It’s an admirable demand—but the entire medical profession and the public are left asking: Is this the ultimate act of hypocrisy?
-
-The GMOA’s call for unimpeachable integrity at the top is directly contradicted by serious allegations regarding its own actions within the SLMC, the very body mandated to regulate and discipline doctors for the public good.
-
-...
-
-[Data](articles/f216bd28.json)
 
 ---
 
@@ -2038,5 +2022,29 @@ The Ayurvedic medical field is also established in Sri Lanka as well as health c
 [Data](articles/b50b5c14.json)
 
 [Extended Data](ext_articles/b50b5c14.ext.json)
+
+---
+
+### Woman brutally murdered: one arrested
+
+*2025-09-27 12:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கொடூர-கொலை-ஒருவர்-கைது/175-365365) · `ta`
+
+Welikada police said that a woman was assaulted and murdered yesterday in the Welikada - Angodai area.
+
+Investigations have revealed that the murderer is 65 years old from Angoda, Akkonna area.
+
+Police said the murder was caused by a dispute between a woman and a man in the opposite house.
+
+The woman who was attacked was admitted to the Mulleria Hospital and died without treatment, police said.
+
+Investigations have revealed that the man who lives in the opposite house and the murdered woman are working as an employee in the same company.
+
+Subsequently, the suspect who lives in the opposite house has been arrested and the Welikada police are conducting further investigations.. Remble
+
+◼️
+
+[Data](articles/228a58a6.json)
+
+[Extended Data](ext_articles/228a58a6.ext.json)
 
 ---

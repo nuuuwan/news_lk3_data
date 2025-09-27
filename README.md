@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 20:06:20**
+As of **2025-09-27 20:20:34**
 
 ## Newspaper Stats
 
-*Scraped **78,953** Articles*
+*Scraped **78,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,8 +18,8 @@ dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,626
-adaderanalk | 10,200
-tamilmirrorlk | 11,831
+adaderanalk | 10,203
+tamilmirrorlk | 11,832
 virakesarilk | 12,820
 adaderanasinhalalk | 13,713
 
@@ -27,11 +27,29 @@ adaderanasinhalalk | 13,713
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,952 (100.0%) of 78,953 articles have been extended.
+78,953 (100.0%) of 78,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### அவுஸ்திரேலிய பாராளுமன்றத்தில் தேவாவுக்கு கௌரவம்
+
+*2025-09-27 19:56:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அவுஸ்திரேலிய-பாராளுமன்றத்தில்-தேவாவுக்கு-கௌரவம்/54-365382) · `ta`
+
+கானா பாடல்களாக இருந்தாலும், மெலடியாக இருந்தாலும் தன்னுடைய இசையால் ரசிக்க வைத்தவர் இசையமைப்பாளர் தேவா. கடந்த 1986-ம் ஆண்டு வெளியான ‘மாட்டுக்கார மன்னர்’ படத்தின் மூலம் தமிழ் சினிமாவில் இசையமைப்பாளராக அறிமுகமான தேவா, பிறந்து வளர்ந்தது எல்லாம் மயிலாப்பூர் விசாலாட்சி தோட்டம் பக்கத்தில் இருக்கும் குடிசை பகுதி தான்.
+
+இயல்பாகவே சென்னையில் காசிமேடு, ராயபுரம், வில்லிவாக்கம் பகுதிகளில் கானா பாடல்கள் தேவாவுக்கும் மிகவும் பரிச்சயமான ஒன்று.
+
+கானா மன்னன் என பாராட்டப்பட்ட தேவா, 400-க்கும் அதிகமான படங்களில் பல சூப்பர் ஹிட் பாடல்களை கொடுத்து ரசிகர்களின் மனதில் நீங்கா இடம் பிடித்தவர்.
+
+இந்நிலையில் தேவாவுக்கு ஆஸ்திரேலிய நாட்டில் கிடைத்துள்ள கௌரவம் கவனம் பெற்றுள்ளது. சமீபத்தில் தேவா ஆஸ்திரேலியா சென்றிருந்தார். அவருக்கு ஆஸ்திரேலிய நாடாளுமன்றத்தில் சிறப்பான வரவேற்பு அளிக்கப்பட்டிருக்கிறது. R
+
+◼️
+
+[Data](articles/c29ab089.json)
+
+---
 
 ### 46 Police Inspectors Promoted To Superintendents
 
@@ -42,6 +60,8 @@ COLOMBO(News 1st);Forty-six Inspectors of Police and Chief Inspectors of Police 
 ◼️
 
 [Data](articles/eb6efba7.json)
+
+[Extended Data](ext_articles/eb6efba7.ext.json)
 
 ---
 
@@ -153,6 +173,22 @@ Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of t
 
 ---
 
+### President Dissanayake meets US Chamber’s SVP Atul Keshap
+
+*2025-09-27 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112966/president-dissanayake-meets-us-chambers-svp-atul-keshap) · `en`
+
+President Anura Kumara Dissanayake met and held discussions with Mr Atul Keshap, Senior Vice President (South Asia) of the US Chamber of Commerce, during his official visit to the United States to participate in the 80th Session of the UN General Assembly in New York.
+
+A former US Ambassador to Sri Lanka, the retired diplomat also currently serves as the President of the US-India Business Council (USIBC) and US-Bangladesh Business Council.
+
+The Sri Lankan President met with Mr Keshap and the US Chamber’s South Asia team “for a warm and collaborative discussion on economic reforms, fiscal stabilization, and expanding commercial and investment ties and shared prosperity,” the US Chamber said in an ‘X’ post.
+
+◼️
+
+[Data](articles/3edc7fef.json)
+
+---
+
 ### American Commercial Council Chairman meets President
 
 *2025-09-27 18:18:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමරක-වනජ-මණඩල-සභපත-ජනපත-හමවය/1-680329) · `si`
@@ -212,6 +248,26 @@ Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of t
 [Data](articles/44bc3c7e.json)
 
 [Extended Data](ext_articles/44bc3c7e.ext.json)
+
+---
+
+### At least 100 feared dead in northwest Nigeria gold mine collapse
+
+*2025-09-27 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112965/at-least-100-feared-dead-in-northwest-nigeria-gold-mine-collapse) · `en`
+
+At least 100 people are feared dead following the collapse of a gold mining pit in Nigeria’s Zamfara State, survivors and residents said on Friday.
+
+The pit at the Kadauri mining site in the Maru local government area caved in on Thursday while scores of artisanal miners were working underground, witnesses told Reuters. Rescue operations continued into Friday.
+
+Sanusi Auwal, a local resident involved in rescue efforts, said at least 13 bodies had been retrieved from the rubble, including that of his cousin. “Over 100 miners were involved during the collapse,” Auwal told Reuters by phone.
+
+“We are lucky to be rescued alive. Out of more than 100 people, only 15 of us were rescued,” said Isa Sani, who is currently receiving treatment for injuries.
+
+Muhammadu Isa of the Zamfara State miners association confirmed the incident, adding that some rescuers also suffocated while trying to dig out victims.
+
+...
+
+[Data](articles/2c532676.json)
 
 ---
 
@@ -326,6 +382,24 @@ Nishantha Samaraweera added that the heads of corruption and irregularities will
 [Data](articles/33e097f8.json)
 
 [Extended Data](ext_articles/33e097f8.ext.json)
+
+---
+
+### Provincial program launched to educate govt officials on digitalization & AI
+
+*2025-09-27 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112964/provincial-program-launched-to-educate-govt-officials-on-digitalization-ai) · `en`
+
+The first provincial program in a series designed to sensitize government executives on the government’s digitalization initiatives and the use of AI technology at the provincial level was held yesterday (26) at the Kandy District Secretariat.
+
+The program, aimed at clarifying the government’s digitalization plans and enhancing officials’ literacy in AI technology, was attended by executive officers from the Central Provincial Council, District Secretariats, Divisional Secretariats, and other government institutions.
+
+So far, six programs focused on digitalization and AI technology have been conducted in Colombo, with participation exceeding 4,000 government officials.
+
+The provincial-level initiative aims to reach all provinces, educating government officers outside Colombo about their role in advancing the government’s digitalization agenda and applying AI technology for official purposes.
+
+...
+
+[Data](articles/6c8dffdd.json)
 
 ---
 
@@ -2046,73 +2120,5 @@ It is reported that there are many cases against the opposition members of the o
 [Data](articles/bafc89f4.json)
 
 [Extended Data](ext_articles/bafc89f4.ext.json)
-
----
-
-### Capture guns and ammunition near the Peliyagoda fish market!
-
-*2025-09-27 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226211) · `ta`
-
-The Western Province Northern Police Crime Prevention Unit has been seized by the Western Province.
-
-The guns and ammunition have been seized from the area behind the police station near the Peliyagoda fish market.
-
-The Western Province Northern Police Crime Prevention Unit said that the items received from him have been seized after investigating the head of the underworld gang of underworld gang.
-
-According to the Western Province Northern Police Crime Unit, small guns and ammunition made abroad, revolver rifles made abroad, 3 T-56 ammunition, 52 T-56 living ammunition, self-operated guns and military uniforms have been seized.
-
-◼️
-
-[Data](articles/26a0c81d.json)
-
-[Extended Data](ext_articles/26a0c81d.ext.json)
-
----
-
-### Postal crores from mail be kept
-
-*2025-09-27 09:47:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-කට-සයක-ඕට-හරන-අරන/1-680301) · `si`
-
-In the absence of the fingerprint machines, 28403 employees in Colombo Central Postal Exchange, 28403 million people have been transferred to the law.
-
-In addition, seven employees of the governing office have been paid Rs.
-
-Meanwhile, more than Rs.
-
-Meanwhile, the Department of Posts had a loss of nearly 475,000 schools in the Sri Lankan parcel and export company under the General Parcel Service.
-
-◼️
-
-[Data](articles/6ddc5493.json)
-
-[Extended Data](ext_articles/6ddc5493.ext.json)
-
----
-
-### 11 Injured In Mahiyangana Road Accident
-
-*2025-09-27 09:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/11-injured-in-mahiyangana-road-accident) · `en`
-
-COLOMBO(News 1st); Eleven people were injured in an accident near the first milepost on the Mahiyangana–Giradurukottha main road.Police said the accident occurred last night, and the injured were admitted to the Mahiyanganaya Hospital.The victims were part of a group traveling to Badulla after a pilgrimage to Anuradhapura.According to police, the accident was caused when the van driver fell asleep at the wheel.Those involved were residents of Kailagoda, Badulla.Among the injured are five males, including a 10-year-old child, and six females.
-
-◼️
-
-[Data](articles/f0f305b1.json)
-
-[Extended Data](ext_articles/f0f305b1.ext.json)
-
----
-
-### Govt Cracks Down On Fake Job Certificates
-
-*2025-09-27 09:44:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/govt-cracks-down-on-fake-job-certificates) · `en`
-
-COLOMBO(News 1st); The government has paid close attention to institutions issuing fake certificates to send drug addicts abroad for employment.The Sri Lanka Bureau of Foreign Employment (SLBFE) announced that strict legal action will be taken against such institutions.The Bureau also advised Sri Lankan workers not to seek foreign employment while addicted to drugs and warned against drug use while working overseas.The SLBFE said it has taken steps to repatriate two Sri Lankan workers in Israel found to be drug addicts.One of them had traveled to Israel last year but failed to report to work for two months. He was brought to Tel Aviv by a group of Sri Lankans, after which the embassy facilitated his return to the island.The other individual, who had been working in Israel for about seven years, was reported to have long been addicted to drugs and had not reported to his workplace.
-
-◼️
-
-[Data](articles/3c4bd6d5.json)
-
-[Extended Data](ext_articles/3c4bd6d5.ext.json)
 
 ---

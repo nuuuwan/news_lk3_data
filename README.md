@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 07:05:00**
+As of **2025-09-27 08:13:37**
 
 ## Newspaper Stats
 
-*Scraped **78,807** Articles*
+*Scraped **78,813** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 304
+lankadeepalk | 306
 newsfirstlk | 430
 dbsjeyarajcom | 634
 bbccomsinhala | 704
@@ -17,9 +17,9 @@ economynextcom | 4,725
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,619
+adalk | 7,620
 adaderanalk | 10,187
-tamilmirrorlk | 11,819
+tamilmirrorlk | 11,822
 virakesarilk | 12,791
 adaderanasinhalalk | 13,691
 
@@ -27,11 +27,67 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,807 (100.0%) of 78,807 articles have been extended.
+78,812 (100.0%) of 78,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### Tension at midnight in the Mannar struggle: many injured
+
+*2025-09-27 06:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-போராட்டத்தில்-நள்ளிரவில்-பதற்றம்-பலர்-காயம்/175-365360) · `ta`
+
+Many women were injured in the attack on the police, as the fight against the windmill was taking place in Mannar last night.
+
+As people continue to fight against the wind power project in Mannar, there was an attempt to bring windmills into the island rather
+
+In this case, the police attacked the people who tried to quietly prevent the vehicles carrying windmills and the hospital.. (A)
+
+◼️
+
+[Data](articles/81a898b7.json)
+
+[Extended Data](ext_articles/81a898b7.ext.json)
+
+---
+
+### Opposition to Netanyahu in the UN
+
+*2025-09-27 03:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-நெதன்யாகுவுக்கு-எதிர்ப்பு/175-365359) · `ta`
+
+When Israeli Prime Minister Netanyahu addressed the UN General Assembly, several representatives, including various countries and officials, left the party.
+
+The 80th meeting of the UN General Assembly is being held in the United States. Israeli Prime Minister Benjamin Netanyahu addressed the gathering yesterday. In his speech, he said, “Palestine should not recognize a separate country. That recognition is parallel to the Israeli suicide. Countries that support Palestine on this issue should be ashamed. Israel is dealing with about seven conflicts with little support. ”
+
+Earlier, in a few seconds of Netanyahu's stage to make his speech, several representatives, including various country leaders and officials in the House, got up and walked away from their seats.
+
+Thus most of the seats were void during the Netanyahu text. Video related to this is going viral on social networks. It is noteworthy that Netanyahu's text was broadcast by loudspeakers on the Gaza border. (A)
+
+◼️
+
+[Data](articles/1ff5e7b1.json)
+
+[Extended Data](ext_articles/1ff5e7b1.ext.json)
+
+---
+
+### Palestine should not recognize a separate country for Palestine
+
+*2025-09-27 03:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலஸ்தீனத்துக்கு-தனி-நாடு-அங்கீகாரம்-கூடாது/50-365358) · `ta`
+
+Israeli Prime Minister Benjamin Netanyahu has said that their nation has suppressed the movement of extremist organizations, including Hamas, Houthi and Hizbullah.
+
+The UN. He said this while addressing the 80th meeting of the General Assembly on Friday. When he further addresses,
+
+I was showing this map when I spoke here last year. The extremist activity of Iran is mentioned in this map. This map is a threat to the world. This is the same for our region and nation. Iran is developing nuclear weapons and ballistic missiles. Iran intensifies in the appropriate project. This is not just to destroy Israel. It is a threat to world countries including the US. Iran is threatening other countries.
+
+...
+
+[Data](articles/8d24b20f.json)
+
+[Extended Data](ext_articles/8d24b20f.ext.json)
+
+---
 
 ### Twin infant and mother death during childbirth
 
@@ -433,6 +489,42 @@ As the impacts of climate change become more frequent and intense, people across
 
 ---
 
+### Institution of Bribery?
+
+*2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලසට-බරම-ආයතනය/101-680300) · `si`
+
+The Bribery Commission has conducted a wide survey last year to the preparation of the National Policy Plan, and the first place between the institutions identified as more orientally oriented institutions.
+
+He said that the second place politicians and the third place is Sri Lanka Customs. He said that the four-like place will be entitled to the Immigration and Emigration Office, the Ministries of the Ministry of Lands, Provincial Councils, Divisional Secretariats, Register General's Office.
+
+He stated that the complaints received when the public identifors the research and the Commission of Bribery or Corruption Commission have identified the 5 institutions mainly to the economy.. Sri Lanka Customs has won the first place and is owned by the Department of Inland Revenue and the Provincial Revenue Department and the Provincial Revenue Department.. He said he was the remaining institutions of the Excise, Immigration and Emigration and Motor Traffic Departments.
+
+◼️
+
+[Data](articles/cfe5f0e6.json)
+
+[Extended Data](ext_articles/cfe5f0e6.ext.json)
+
+---
+
+### The fastest car in the world
+
+*2025-09-26 22:43:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලව-වගතවතම-මටර-රථය/1-680299) · `si`
+
+The world's leading electronic car manufacturer, the world's leading electrical car manufacturer to produce the world's fastest car.. The car named Yangwan U 9 Xstremes "The car has recorded a maximum speed of 496.22 kg.
+
+චීනයේ බී.වයි.ඩී සමාගම මෙලෙස බිඳ දමා ඇත්තේ බුගාටි චිරෝන් සුපර් ස්පෝර්ට් 2019 හිමිකර ගෙන තිබූ වාර්තාවය. The car is capable of running at a maximum speed of 490.5 kg per hour. This is the first time an electronic car has won this report. "Yangwan U 9 Extreme is sold to US $ 233,000 (Rs.
+
+Electronic cars have been able to win 50 percent of the world's new vehicles.
+
+◼️
+
+[Data](articles/ce7e26d9.json)
+
+[Extended Data](ext_articles/ce7e26d9.ext.json)
+
+---
+
 ### "The food is sending 130 billion tonnes a year
 
 *2025-09-26 22:39:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආහර-ටන-කට-130ක-වසරක-අපත-යවනව/1-680298) · `si`
@@ -738,6 +830,28 @@ As the Israeli leader spoke, unintelligible shouts echoed around the hall. Appla
 [Data](articles/b224c059.json)
 
 [Extended Data](ext_articles/b224c059.ext.json)
+
+---
+
+### 2014 වර්ෂයේ සිට 2022 වර්ෂය දක්වා විදුලිබල මණ්ඩලයේ පාඩුව රු. බි 594ක්
+
+*2025-09-26 20:18:46* · [`adalk`](https://www.ada.lk/breaking_news/2014-වර්ෂයේ-සිට-2022-වර්ෂය-දක්වා-විදුලිබල-මණ්ඩලයේ-පාඩුව-රු--බි-594ක්/11-418751) · `si`
+
+• ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ කොටස් බෙදී ඇති ආකාරය අපැහැදිලි බැවින් මෙම ආයතනය ප්‍රතිව්‍යුහගත කිරීමේදී ගැටලු ඇතිවිය හැකියි - කෝප් කමිටුව
+
+• පසුගිය කාලසීමාවේ පැය 18 පමණ විදුලිය කප්පාදු කිරීමට සිදු වූයේ පද්ධතියේ ගැටලුවක් නිසා නොව ශ්‍රී ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවට තිබූ ණය ගෙවාගන්න බැරි වූ නිසා - නිලධාරීන්
+
+• පුත්තලම ගල් අඟුරු ව්‍යාපෘතිය වෙනුවෙන් රු. මිලියන 124.30 ක් වැයකොට මිලදීගත් වාහන 6ක් කොන්ත්‍රාත්කරු විසින් මේ වන විටත් ලබාදී නැති බව අනාවරණය වෙයි.
+
+• ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ අර්ථසාධක අරමුදලේ රීතිවලට පටහැනිව රු. මිලියන 64 අධ්‍යාපන ණය සහ රු. මිලියන 6,618.3 දේපල ණය ලෙස 2024 වර්ෂය තුළදී ලබාදී ඇති බව අනාවරණය වේ.
+
+• අභ්‍යන්තර විගණක ලෙස වැඩබලන නිලධාරියෙක් මාස 11ක් තිස්‍සේ රාජකාරී අවරණය කරමින් සිටීම ගැන කෝප් කමිටුවේ අප්‍රසාදය.
+
+2015 වර්ෂය හැර 2014 වර්ෂයේ සිට 2022 වර්ෂය දක්වා ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ පාඩුව රු. මිලියන 594,368 ක් බව පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේදී (කෝප්)  අනාවරණය විය.
+
+...
+
+[Data](articles/2779452f.json)
 
 ---
 
@@ -1900,109 +2014,5 @@ Later, they seem to have been involved in the argument that the Hindus had enter
 [Data](articles/dfe41d65.json)
 
 [Extended Data](ext_articles/dfe41d65.ext.json)
-
----
-
-### Namal's Girish case: Court order issued
-
-*2025-09-26 16:44:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-கிரிஷ்-வழக்கு-நீதிமன்றம்-பிறப்பித்த-உத்தரவு/175-365337) · `ta`
-
-The Colombo High Court on Friday (26) has ordered the Registrar of the Fort Magistrate's Court to take action to obtain the original report of the case filed by the Attorney General against the Attorney General against the Krishna deal.
-
-The case was taken up for hearing today (26) and the accused Namal Rajapaksa appeared in court.
-
-◼️
-
-[Data](articles/f5be7f04.json)
-
-[Extended Data](ext_articles/f5be7f04.ext.json)
-
----
-
-### Sri Lanka To Introduce New Counter - Terrorism Law Aligned with Global Standards
-
-*2025-09-26 16:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/sri-lanka-to-introduce-new-counter-terrorism-law-aligned-with-global-standards) · `en`
-
-...
-
-[Data](articles/216723b7.json)
-
-[Extended Data](ext_articles/216723b7.ext.json)
-
----
-
-### Update on Na Uyana Monastery cable car tragedy: Full list of victims released
-
-*2025-09-26 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/112945/update-on-na-uyana-monastery-cable-car-tragedy-full-list-of-victims-released) · `en`
-
-The bodies of the Indian and Romanian Buddhist monks who lost their lives in the tragic cable car accident at the Na Uyana Monastery (Nā Uyana Āranya Senāsanaya) in Pansiyagama, Melsiripura, will be repatriated to their respective countries at the request of their families, in coordination with the High Commissioner’s Office.
-
-The remains of the other monks will be placed at Na Uyana Monastery from 10:00 a.m. on September 26 for final respects. The funeral rites are scheduled to take place on September 27, at 4:00 p.m. at the Pansiyagama Cemetery.
-
-The accident occurred on September 24, 2025, at approximately 9:10 p.m., when 13 monks were traveling from the lower area of Na Uyana Monastery to their dwellings in the Medakanda area. They were using a cable cart that had been in service for around 22 years and was typically used to transport alms and other supplies.
-
-...
-
-[Data](articles/be5ec0df.json)
-
-[Extended Data](ext_articles/be5ec0df.ext.json)
-
----
-
-### 11 people injured when 3 vehicles crashed
-
-*2025-09-26 16:38:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வாகனங்கள்-மோதியதில்-11-பேர்-காயம்/175-365336) · `ta`
-
-Bandaragama police say that 11 people were injured when a lorry, van and three wheelers crashed into the Bandaragama-Kaluturai road. The injured belong to the dance group.
-
-A three -wheeler from the opposite direction crossed the road as the lorry was approaching Bandaragama.. Police say that the lorry driver crashed into a lorry with a lorry behind the lorry.
-
-The injured have been admitted to the Bandaragama district hospital. Bandaragama police are investigating.
-
-◼️
-
-[Data](articles/9582572e.json)
-
-[Extended Data](ext_articles/9582572e.ext.json)
-
----
-
-### Catholic Bishop of Conference on Being Hatin 'Buddhist Monks' Conference
-
-*2025-09-26 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215042) · `si`
-
-A condolence message has been issued by the Sri Lanka Catholic Bishop conference regarding the death of a discrimination in the land of Melsiripura, Malaysiripura.
-
-It is also revealed that he was a grieving news for the Sambuddha and Sri Lanka to be the case with him.
-
-The announcement of the Catholic Bishop conference is published in the Catholic Bishop conference.
-
-The statement of the dezed exploitation of the local overseas monks and the monks who have seriously wounded are heavily healing.
-
-◼️
-
-[Data](articles/970849ae.json)
-
-[Extended Data](ext_articles/970849ae.ext.json)
-
----
-
-### Mutcar's problem Mathemism
-
-*2025-09-26 16:30:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මජබරග-පරශනන-මතසබ-රතවය/101-680285) · `si`
-
-The Director General of Bribery, the Director General of the Commission of Investigation Commission (Under the Investigation Commission) was a person who had worked as the Secretary of the JVP and had a warm dialogue in Parliament today (26).
-
-He was responding to the Declare report on the report of the COPE Committee.
-
-The MP was questioned whether it was because of the favorable to investigate the allegations against the ministers of the government.
-
-This is a serious accusation.  We asked this morning too. Did not give an answer. This is what independent commissions like this have been working independently. We have a problem here. MPs' opposition in opposition search for all the deals. However, the ministers of the government are not looking for. It is not because he's a JeaPP. We can think so.
-
-...
-
-[Data](articles/8baad408.json)
-
-[Extended Data](ext_articles/8baad408.ext.json)
 
 ---

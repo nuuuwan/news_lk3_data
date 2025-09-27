@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 11:19:59**
+As of **2025-09-27 11:06:38**
 
 ## Newspaper Stats
 
-*Scraped **78,847** Articles*
+*Scraped **78,844** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 311
+lankadeepalk | 310
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -19,45 +19,19 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,622
 adaderanalk | 10,193
-tamilmirrorlk | 11,825
+tamilmirrorlk | 11,824
 virakesarilk | 12,791
-adaderanasinhalalk | 13,700
+adaderanasinhalalk | 13,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,841 (100.0%) of 78,847 articles have been extended.
+78,841 (100.0%) of 78,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### පහල්ගම් ප්‍රහාරය ගැන කතා කළ සූර්යකුමාර්ට වැඩ වරදියි
-
-*2025-09-27 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215063) · `si`
-
-ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ මූලික වටයේ පාකිස්තානයට එරෙහිව පැවති තරගයෙන් පසු 'පහල්ගම්' ප්‍රහාරය ගැන අදහස් දැක් වූ ඉන්දීය නායක සූර්යකුමාර් යාදව්ට එරෙහිව ICCය දඩ නියම කර තිබේ.
-
-ඒ අනුව ඔහුගේ තරග ගාස්තුවෙන් 30%ක දඩයක් නියම කර ඇති බව සඳහන්.
-
-මේ මස ඉකුත් 14 වනදා මෙම තරගය පැවති අතර, එම තරගයෙන් පාකිස්තානය කඩුලු 7කින් පරාජය කිරීමට ඉන්දීය කණ්ඩායම සමත් විය.
-
-එම තරගයෙන් අනතුරුව පැවති මාධ්‍ය සාකච්චාවේදී ඉන්දීය නායකයා පවසා සිටියේ, එම ජයග්‍රහණය ඉන්දීය සන්නද්ධ හමුදාවන්ට වෙනුවෙන් කැපකරන බවයි.
-
-එමෙන්ම 'පහල්ගම්' ත්‍රස්ත ප්‍රහාරයෙන් විපතට පත්වූවන් සහ ඔවුන්ගේ පවුල් සමග බේදාගන්නා බවය.
-
-කෙසේ නමුත් පාකිස්තානය එම ප්‍රකාශයට එරෙහිව ICCයට පැමිණිළි කර තිබේ.
-
-ඒ අනුව ICC තරග තීරක රිචී රිචඩ්සන්ගේ ප්‍රධානත්වයෙන් පැවති විධිමත් සොයාබැලීමකින් අනතුරුව මෙම දඩ පැනීමේ අවසන් තීරණය ගෙන ඇත.
-
-කෙසේ වෙතත් ICC තීන්දුවට එරෙහිව ඉන්දියාව අභියාචනයක් ඉදිරිපත් කර ඇති බව සඳහන්.
-
-...
-
-[Data](articles/0a319b0f.json)
-
----
 
 ### President meets Anura and French president
 
@@ -82,20 +56,6 @@ This agreement covers 2/3 oceans in the world, action will be taken to protect o
 [Data](articles/d6ba5783.json)
 
 [Extended Data](ext_articles/d6ba5783.ext.json)
-
----
-
-### மரத்தில் மோதி விபத்துக்குள்ளான வேன்
-
-*2025-09-27 10:21:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-விபத்துக்குள்ளான-வேன்/175-365363) · `ta`
-
-மஹியங்கனை - கிராதுருக்கோட்டை பிரதான வீதியில் உள்ள சொரபோர வெவ முதலாம் தூண் பகுதியில் வேன் ஒன்று வீதியை விட்டு விலகி மரத்தில் மோதி விபத்துக்குள்ளாகியுள்ளது.
-
-இதில் வேனில் பயணித்த 11 பேர் காயமடைந்து மஹியங்கனை வைத்தியசாலை மற்றும் பதுளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். R
-
-◼️
-
-[Data](articles/183a8030.json)
 
 ---
 
@@ -1986,5 +1946,33 @@ Ranil Wickremesinghe was grieved to the Uyana Aranya Senanayake.
 [Data](articles/f63e1ceb.json)
 
 [Extended Data](ext_articles/f63e1ceb.ext.json)
+
+---
+
+### Catholic conferences of the Nawanean accident
+
+*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/1-680290) · `si`
+
+The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
+
+◼️
+
+[Data](articles/7948a903.json)
+
+[Extended Data](ext_articles/7948a903.ext.json)
+
+---
+
+### Catholic conferences of the Nawanean accident
+
+*2025-09-26 18:30:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයනන-අනතර-ගන-කතලක-සමමලනයන-ශක-පණවඩයක/101-680290) · `si`
+
+The Sri Lanka Catholic Bishop of Sri Lanka (Catholic Bishop) has issued a condolence to the Sangha and Sri Lankan Boduvasage in the area of ​​Kurunegala.
+
+◼️
+
+[Data](articles/f38f594e.json)
+
+[Extended Data](ext_articles/f38f594e.ext.json)
 
 ---

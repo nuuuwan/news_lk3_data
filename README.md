@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 09:38:31**
+As of **2025-09-27 09:56:15**
 
 ## Newspaper Stats
 
-*Scraped **78,826** Articles*
+*Scraped **78,828** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 306
-newsfirstlk | 430
+newsfirstlk | 431
 dbsjeyarajcom | 634
 bbccomsinhala | 704
 colombotelegraphcom | 793
@@ -21,17 +21,45 @@ adalk | 7,620
 adaderanalk | 10,190
 tamilmirrorlk | 11,824
 virakesarilk | 12,791
-adaderanasinhalalk | 13,697
+adaderanasinhalalk | 13,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,826 (100.0%) of 78,826 articles have been extended.
+78,826 (100.0%) of 78,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### President Dissanayake In Japan Visit
+
+*2025-09-27 09:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/president-dissanayake-in-japan-visit) · `en`
+
+...
+
+[Data](articles/a4543c86.json)
+
+---
+
+### වන්දනා නඩයක් රැගත් වෑන් රථයක් ගසක ගැටී බිහිසුණු අනතුරක්
+
+*2025-09-27 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215061) · `si`
+
+මහියංගන - ගිරාදුරුකෝට්ට ප්‍රධාන මාර්ගයේ සොරබොර වැව 1 කනුව ප්‍රදේශයේදී වන්දනා නඩයක් රැගත් වෑන් රථයක් මාර්ගයෙන් ඉවතට පැන ගසක ගැටී අනතුරක් සිදුවී තිබේ.
+
+ඊයේ (26) රාත්‍රී 11ට පමණ මෙම අනතුර සිදුවී ඇති අතර, වෑන් රථයේ ගමන් ගත් 11 දෙනකු තුවාල ලබා මහියංගන රෝහලට සහ බදුල්ල රෝහලට ඇතුළත් කර ඇත.
+
+බදුල්ල ප්‍රදේශයේ පිරිසක් අනුරාධපුරයට ගොස් යළි පැමිණෙමින් සිටියදී මෙම අනතුර සිදුව තිබේ.
+
+තුවාලකරුවන් 6ක් බදුල්ල රෝහලේ සහ තුවාලකරුවන් 5ක් මහියංගනය රෝහලේ ප්‍රතිකාර බලමින් සිටින බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/b94a8e46.json)
+
+---
 
 ### Petitions against Assistant Superintendent of Police
 
@@ -1958,57 +1986,5 @@ The General Registrar of the Ramanna Nikaya The General Registrar of the Ramanna
 [Data](articles/30aa3682.json)
 
 [Extended Data](ext_articles/30aa3682.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields steady
-
-*2025-09-26 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-241992/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.50/55 to the US dollar on Friday, while bond yields closed up on the short end, steady on the mid and long tenors, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.25/30 percent, down from 8.25/32 percent.
-
-A bond maturing on 15.09.2027 closed at 8.75/85 percent, up from 8.70/82 percent.
-
-A bond maturing on 15.12.2028 closed at 9.10/16 percent, up from 9.10/15 percent.
-
-A bond maturing on 15.12.2029 closed at 9.54/60 percent, up from 9.52/56 percent.
-
-A bond maturing on 01.07.2030 closed at 9.67/70 percent, down from 9.70/75 percent.
-
-A bond maturing on 15.12.2032 closed at 10.43/48 percent, up from 10.43/47 percent. (Colombo/Sep26/2025)
-
-◼️
-
-[Data](articles/1541a973.json)
-
-[Extended Data](ext_articles/1541a973.ext.json)
-
----
-
-### Three others arrested
-
-*2025-09-26 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215045) · `si`
-
-A farmers' officer, an office employee officer and a women's security officer has been arrested in raids performed by the Bribery Commission.
-
-The three suspects have been arrested in connection with two raids.
-
-A sum of Rs.
-
-The arrested person is said to be a farmer development officer in the Agrarian Service Center.
-
-Meanwhile, an officer of the driver's licensing department office worked at the Department of Motor Traffic has been arrested yesterday.
-
-According to a complaint made by a person in Samanturai, the person has been arrested.
-
-It is also reported that a women security officer who operated in the Sri Lanka Ayurvedic Drugs Corporation has been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/c804e790.json)
-
-[Extended Data](ext_articles/c804e790.ext.json)
 
 ---

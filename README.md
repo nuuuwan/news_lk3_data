@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 22:09:03**
+As of **2025-09-27 22:20:33**
 
 ## Newspaper Stats
 
-*Scraped **78,993** Articles*
+*Scraped **78,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,626
 adaderanalk | 10,206
-tamilmirrorlk | 11,835
+tamilmirrorlk | 11,836
 virakesarilk | 12,837
 adaderanasinhalalk | 13,717
 
@@ -27,25 +27,27 @@ adaderanasinhalalk | 13,717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,992 (100.0%) of 78,993 articles have been extended.
+78,993 (100.0%) of 78,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### මරදානේ විශේෂ පොලිස් මෙහෙයුමක්
+### Special police operation in Maradana
 
 *2025-09-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215082) · `si`
 
-මරදාන ප්‍රදේශයේ අද (27) සවස පොලීසිය විසින් විශේෂ මෙහෙයුමක් සිදු කර තිබේ.
+Police have conducted a special operation this evening in the Maradana area.
 
-මරදාන stroke place ඇතුළු ස්ථාන කිහිපයක් මුල් කර ගනිමින් මෙම විශේෂ මෙහෙයුම ක්‍රියාත්මක කර ඇත.
+The special operation has been implemented by several locations including the Maradana Stroke Place.
 
-එහිදී වරෙන්තුකරුවන් හා විවිධ අපරාධවලට සම්බන්ධ පුද්ගලයන් තිස් දෙනෙකු අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලීසිය පැවසුවේය.
+Thirty persons were able to arrest warrants and various crimes.
 
 ◼️
 
 [Data](articles/44747c61.json)
+
+[Extended Data](ext_articles/44747c61.ext.json)
 
 ---
 
@@ -80,6 +82,18 @@ The fishermen have not paid attention to the risk of the fishermen, and the Depa
 [Data](articles/913c4962.json)
 
 [Extended Data](ext_articles/913c4962.ext.json)
+
+---
+
+### விஜய் கூட்டத்தில் 29  பேர் உயிரிழப்பு.
+
+*2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-29-பேர்-உயிரிழப்பு/175-365384) · `ta`
+
+தமிழகத்தின் கரூரில் விஜய் நடத்திய பரப்புரையில் ஏற்பட்ட நெரிசலில் சிக்கி 3 குழந்தைகள் உட்பட 29 பேர் உயிரிழப்பு.
+
+◼️
+
+[Data](articles/a2e9b144.json)
 
 ---
 
@@ -2042,23 +2056,5 @@ Accordingly, naval and fishing communities are advised to remain vigilant.
 [Data](articles/de613faa.json)
 
 [Extended Data](ext_articles/de613faa.ext.json)
-
----
-
-### Anura met French president
-
-*2025-09-27 12:13:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-ஜனாதிபதியை-சந்தித்தார்-அநுர/175-365364) · `ta`
-
-The French government has organized a special event in view of the completion of 60 countries in the membership of the United Nations (BBNJ) Declaration of Declaration.
-
-President Anura Kumara Dissanayake also participated in the event, representing Sri Lanka, a member of the agreement.
-
-It is reported that President Anura Kumara Dissanayake, who met French President Emanuel Macron, was involved in a smooth conversation.. Remble
-
-◼️
-
-[Data](articles/3eb9f046.json)
-
-[Extended Data](ext_articles/3eb9f046.ext.json)
 
 ---

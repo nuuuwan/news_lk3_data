@@ -1,125 +1,89 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 10:55:04**
+As of **2025-09-27 10:20:29**
 
 ## Newspaper Stats
 
-*Scraped **78,841** Articles*
+*Scraped **78,837** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 310
 newsfirstlk | 435
 dbsjeyarajcom | 635
-bbccomsinhala | 705
+bbccomsinhala | 704
 colombotelegraphcom | 793
 economynextcom | 4,727
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,622
+adalk | 7,620
 adaderanalk | 10,190
 tamilmirrorlk | 11,824
 virakesarilk | 12,791
-adaderanasinhalalk | 13,699
+adaderanasinhalalk | 13,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,839 (100.0%) of 78,841 articles have been extended.
+78,828 (100.0%) of 78,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### ජනපති අනුර හා ප්‍රංශ ජනපති අතර හමුවක්
-
-*2025-09-27 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215062) · `si`
-
-BBNJ සාමාජිකත්වයට 60වන රටත් එක්වීම සැමරීම සඳහා නිව්යෝර්ක් හිදී පවත්වනු ලැබූ උත්සවයට ජනාධිපති අනුර කුමාර දිසානායක මහතාද සහභාගි වි තිබේ.
-
-අමෙරිකාවේ පැවති එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට එක්වූ අවස්ථාවේදී මේ සඳහා සහභාගි වූ බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
-
-ජාතික දේශ සීමාවට ඔබ්බෙන් පිහිටි ප්‍රදේශවල සමුද්‍ර ජෛව විවිධත්ව සංරක්ෂණය සහ තිරසාර භාවිතය සම්බන්ධ සාගර නීතිය පිළිබඳ එක්සත් ජාතීන්ගේ සම්මුතිය යටතේ වන ගිවිසුම මෙලෙස 'BBNJ' ලෙසින් හඳුන්වනු ලැබේ.
-
-ඒ සඳහා රටවල් 60ක් සම්පූර්ණ වීම නිමිත්තෙන් ප්‍රංශ රජය විසින් මෙම උත්සවය සංවිධානය කර තිබුණි.
-
-ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රොන් මහතා ඇතුළු සෙසු රටවල රාජ්‍ය නායකයන් රැසක් ඒ සඳහා එක්ව ඇත.
-
-මෙම ගිවිසුමට එක් වූ 58වන සාමාජික රට ශ්‍රී ලංකාව වන අතර, 2025 සැප්තැම්බර් 16වනදා ඊට අදාළ ගිවිසුමට එළැඹ තිබේ.
-
-ලෝකයේ සාගරවලින් 2/3ක් ආවරණය කරන මෙම ගිවිසුමෙන්, සාගර ජෛව විවිධත්වය ආරක්ෂා කිරීමට, තිරසාර ලෙස භාවිත කිරීමට සහ ස්වදේශීය අධිකරණ බලයෙන් ඔබ්බට වූ ප්‍රදේශවලට එම ජෛව විවිධත්ව ප්‍රතිලාභ බෙදා ගැනීමට කටයුතු කෙරේ.
-
-...
-
-[Data](articles/d6ba5783.json)
-
----
-
-### Government boss redirected Japanese investors
+### රජයේ ලොක්කෙක් ජපාන ආයෝජකයන් හරවා යවලා
 
 *2025-09-27 10:05:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/1-680303) · `si`
 
-It is reported that the number of investors had frustrated and returned to a meeting of Japanese investors in Sri Lanka.
+ශ්‍රී ලංකාවේ ආයෝජනයකට පැමිණි ජපානයේ ආයෝජකයන් පිරිසකට ඉහළ පෙළේ නිලධාරියකු සාකච්ඡාවකට අවස්ථාවේදී ඉන් මගහැර යෑම හේතුවෙන් එම ආයෝජකයන් පිරිස කලකිරීමට පත්ව ආපසු හැරී ගොස් ඇතැයි වාර්තාවේ.
 
-Later, when the officer was proposed to discuss the officer elsewhere, those investors refused.
+පසුව එම නිලධාරියා පෝය දිනයක වෙනත් ස්ථානයක සාකච්ඡා කිරීමට යෝජනා කර ඇති අවස්ථාවේදී එම ආයෝජකයන් එය ප්‍රතික්ෂේප කර ඇත.
 
-President Rajapaksa, President Ranman, who was trying to meet with a high level of approval on a road safety program, he was speaking at a press conference held in Colombo.
-
-"Of course I just wanted to implement this precious program for this country. Implement it and protect the lives of the innocent people of this country who die from road accidents. There's nothing to give myself to give myself. No matter anyone else executes this work, it is okay. I'm ready to submit this program to the government. Don't implement it belongs to them. Minister Hon. Minister said that I was presented with the country with great necessity. "
-
-Sanara Araya said that he was very embarrassed and the number of Japanese investors had been severely embarrassed by no opportunity to discuss the matter.
+මේ සිද්ධියවූයේ මාර්ග ආරක්ෂණ වැඩපිළිවෙලක් සම්බන්ධයෙන් රජයේ අනුමැතිය ලබා ගැනීමට අමාත්‍යාංශ උසස් නිලධාරියෙකු හමුවීමට උත්සාහ දැරූ අවස්ථාවේදී බව එම ජපන් ආයෝජකයන් පිරිස සම්බන්ධීකරණය කළ රාජපුත්‍ර සමූහ ව්‍යාපාරයේ සභාපති සජීව් රාජපුත්‍ර මහතා කොළඹදී පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී පැවසීය.
 
 ...
 
 [Data](articles/d0c03bce.json)
 
-[Extended Data](ext_articles/d0c03bce.ext.json)
-
 ---
 
-### Fearing cases: Opposition MPs suffer twice
+### නඩුවලට බියවෙලා: විපක්ෂයේ මන්ත්‍රීලා විස්සක් ගොළු වෙලා
 
 *2025-09-27 09:56:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නඩවලට-බයවල-වපකෂය-මනතරල-වසසක-ගළ-වල/1-680302) · `si`
 
-The opposition in general is facing a serious crisis by depriving the government and outside the opposition members of the opposition as well as several former members of the opposition and several former members.
+විවිධ නඩු පැවරුණු විපක්ෂයේ දැනට සිටින මන්ත්‍රීවරුන් මෙන්ම හිටපු මන්ත්‍රීවරුන් විස්සකට ආසන්න පිරිසක් ආණ්ඩුව විවේචනය කරමින් අදහස් දැක්වීම කර ඇර ඇති හෙයින් පාර්ලිමේන්තුවේදීත් ඉන් පිටතදීත් ආණ්ඩුවට එරෙහිව ලොකු හඬක් නැගීමට ඇති අනගි අවස්ථාව අහිමි වීමෙන් පොදුවේ විපක්ෂය දැඩි අර්බුදයකට මුහුණදී සිටී.
 
-According to sources, they have avoided their responsibilities in Parliament on certain matters.
+සමහර කාරණා සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී අදහස් දැක්වීමට විපක්ෂයේ පක්ෂ නායකයන් සමහර මන්ත්‍රීවරුන්ට වගකීම් පවරා ඇතත් ඔවුන් අවස්ථා ගණනාවකදීම ඒවා මගහැර ගොස් ඇතැයි ආරංචි මාර්ග සඳහන් කළේය.
 
-"I have some cases. So I have been able to miss a little silent at this time, "she said.
+" මට නඩු ටිකක් තියෙනවා. ඒ නිසා මම මේ වෙලාවේ ටිකක් නිහඩව ඉන්නම්" යනුවෙන් පවසා එසේ මඟ හැර ගොස් ඇති බව දැනගන්නට ඇත.
 
-Political commentators say that the voice of the opposition is weakened in Parliament and outside Parliament.
+මේ තත්වය යටතේ විපක්ෂයේ හඬ පාර්ලිමේන්තුව තුළත් ඉන් පිටතත් දුර්වල වුණු තත්වයක් පෙනෙන්නට ඇතැයි දේශපාලන විචාරකයෝ සඳහන් කරති.
 
-It is reported that there are many cases against the opposition members of the opposition and several former people.
+විපක්ෂයේ දැනට සිටින මන්ත්‍රීවරුන් සහ හිටපු මන්ත්‍රීවරුන් විස්සකට ආසන්න පිරිසකට එරෙහිව විවිධ නඩු පවතින බව වාර්තාවේ.
 
-These include silence members in Parliament and the political stage, not to seek the attacks on the government due to various cases.
+විවිධ නඩු හේතුවෙන් ආණ්ඩුවට ප්‍රහාර ඉල්ලා නොකර මෙසේ නිහඬව සිටින මෙම පිරිසට පාර්ලිමේන්තුවේදී මෙන්ම දේශපාලන වේදිකාවේ පසුගිය කාලයේදී ප්‍රබලව සිය කටහඬ අවදි කළ මන්ත්‍රීවරුද ඇතුළත් වෙති.
 
 ◼️
 
 [Data](articles/6e09a3d5.json)
 
-[Extended Data](ext_articles/6e09a3d5.ext.json)
-
 ---
 
-### Postal crores from mail be kept
+### තැපෑලේ කෝටි සීයක ඕටී හොරෙන් අරන්
 
 *2025-09-27 09:47:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-කට-සයක-ඕට-හරන-අරන/1-680301) · `si`
 
-In the absence of the fingerprint machines, 28403 employees in Colombo Central Postal Exchange, 28403 million people have been transferred to the law.
+ඇඟිලි සලකුණු යන්ත්‍ර සවිකර නොතිබියදීත් කොළඹ මධ්‍යම තැපැල් හුවමාරුවේ සේවකයන් 28403කට නීතියට පටහැනිව රුපියල් කෝටි 65 කට වැඩි අතිකාල දීමනා ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය නිකුත් කළ අලුත්ම වාර්තාවක සඳහන් වේ.
 
-In addition, seven employees of the governing office have been paid Rs.
+මෙයට අමතරව දිසා ගිණුම් කාරයාල දාහතරක ඇඟිලි සලකුණු යන්ත්‍රයේ පැමිණීමේ හා පිටවීමේ වෙලාවන් සලකා බැලීමකින් තොරව ගිය වසරේ ජුනි මාසය දක්වා රුපියල් කෝටි 37කට වැඩි අතිකාල දීමනා ගෙවා ඇතැයි පවසන එම කාර්යාලය පාලක කාර්යාලයේ සේවකයන් හත්දෙනෙකුටද ඇගිලි සලකුණු නොමැතිව රුපියල් ලක්ෂ 40කට වැඩි අතිකාල ගෙවා තිබූ බවද සඳහන් කරයි.
 
-Meanwhile, more than Rs.
+මේ අතර ඇඟිලි සලකුණු යන්ත්‍රයක් සවි කර තිබුණද ඇඟිලි සලකුණු යන්ත්‍රයේ පැමිණීමේ හා පිටවීමේ වෙලාවන් සලකා බැලීමකින් තොරව රාත්‍රී හත අට නමය දහය යන වේලාවල් වල රාජකාරී කළ බව සාවද්‍ය ලෙස දක්වා රුපියල් ලක්‍ෂ හැත්තෑවකට වැඩි අධිකාල දීමනා ගෙවා තිබූ බවත් එම අතිකාල දීමනා ගෙ වීම් වල නිවැරදිතාවය මේ හේතුවෙන් විගණනයට පරීක්ෂා කළ නොහැකි වූ බවත් එම වාර්තාවේ දැක්වේ.
 
-Meanwhile, the Department of Posts had a loss of nearly 475,000 schools in the Sri Lankan parcel and export company under the General Parcel Service.
-
-◼️
+...
 
 [Data](articles/6ddc5493.json)
-
-[Extended Data](ext_articles/6ddc5493.ext.json)
 
 ---
 
@@ -133,8 +97,6 @@ COLOMBO(News 1st); Eleven people were injured in an accident near the first mile
 
 [Data](articles/f0f305b1.json)
 
-[Extended Data](ext_articles/f0f305b1.ext.json)
-
 ---
 
 ### Govt Cracks Down On Fake Job Certificates
@@ -147,8 +109,6 @@ COLOMBO(News 1st); The government has paid close attention to institutions issui
 
 [Data](articles/3c4bd6d5.json)
 
-[Extended Data](ext_articles/3c4bd6d5.ext.json)
-
 ---
 
 ### Wattala Suspect Linked To Multiple Shootings
@@ -158,8 +118,6 @@ COLOMBO(News 1st); The government has paid close attention to institutions issui
 ...
 
 [Data](articles/b9b32e1e.json)
-
-[Extended Data](ext_articles/b9b32e1e.ext.json)
 
 ---
 
@@ -172,8 +130,6 @@ COLOMBO(News 1st); Police Headquarters announced that action has been taken agai
 ◼️
 
 [Data](articles/5049d53c.json)
-
-[Extended Data](ext_articles/5049d53c.ext.json)
 
 ---
 
@@ -490,32 +446,6 @@ Kusal Mendis left the first wicket of the Sri Lankan innings, but Kusal Janith j
 [Data](articles/f4821817.json)
 
 [Extended Data](ext_articles/f4821817.ext.json)
-
----
-
-### Directors of Asiri Hospital released on bail after being produced before court
-
-*2025-09-27 03:52:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g73vgyq91o) · `si`
-
-Directors of Asiri Hospital released on bail after being produced before court
-
-As Chairman of Ashok Pathirage, the Chairman of Ashok Pathirage, was released on bail after being filed in courtesy, was released on bail after being carried out by a resident of a resident of the prices of drugs.
-
-Accordingly, Asoka Pathirage, Manjula Pathirage, Manjula Karunaratne, Sudarshan Ahangama, Sivalis Premaratne, Sivakumar and Ajith Karunaratne were released on bail of Rs.
-
-The Acting Magistrate also ordered the recall of the warned warrants.
-
-According to a complaint lodged by the Ministry of Health, the National Drug Regulatory Authority (NDB) has filed the case against the directors of the hospital.
-
-The case was accused of receiving a maximum retail price for the drugs, Samarakoon Mudiyanselage, Kumarihami, who was given treatment at the Narahenpita area in February 07 and 19.
-
-The case was filed against the defendants under 11 charges.
-
-...
-
-[Data](articles/74434874.json)
-
-[Extended Data](ext_articles/74434874.ext.json)
 
 ---
 
@@ -973,21 +903,17 @@ As the impacts of climate change become more frequent and intense, people across
 
 ---
 
-### Institution of Bribery?
+### අල්ලසට බරම ආයතනය?
 
 *2025-09-26 22:47:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලසට-බරම-ආයතනය/1-680300) · `si`
 
-The Bribery Commission has conducted a wide survey last year to the preparation of the National Policy Plan, and the first place between the institutions identified as more orientally oriented institutions.
+ජාතික දූෂණ විරෝධී ක්‍රියාකාරී සැලැසුම සකස් කිරීම සඳහා පසුගිය වසරේදී එම වසර පුරාවට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම දීප ව්‍යාප්ත සමීක්ෂණයක් කළ බවත් එහිදී මහජනතාව අල්ලස හෝ දූෂණයට වඩාත් නැඹුරු ආයතන ලෙස හඳුනාගෙන ඇති ආයතන අතර පළමු තැන පොලිසියට හිමිවන බවත් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ සභාපති විශ්‍රාමික විනිසුරු නීල් ඉද්දවල මහතා පැවැසුවේය.
 
-He said that the second place politicians and the third place is Sri Lanka Customs. He said that the four-like place will be entitled to the Immigration and Emigration Office, the Ministries of the Ministry of Lands, Provincial Councils, Divisional Secretariats, Register General's Office.
+දෙවැනි ස්ථානය දේශපාලනඥයන් බවත් තෙවැනි ස්ථානය ශ්‍රී ලංකා රේගුව බවත් ඔහු ප්‍රකාශ කළේය. එහි සිවූ වැනි ස්ථානය ආගමන හා විගමන දෙපාර්තමේන්තුවට හිමිවන බවත් ඉතිරි ස්ථාන අමාත්‍යාංශ, ඉඩම් ලියාපදිංචි කිරීමේ කාර්යාලය, පළාත් සභා, විදේශ රැකියා කාර්යාංශය, ප්‍රාදේශීය ලේකම් කාර්යාල, රෙජිස්ටර් ජනරාල් කාර්යාලයට හිමිවන බව ඔහු පැවැසුවේය.
 
-He stated that the complaints received when the public identifors the research and the Commission of Bribery or Corruption Commission have identified the 5 institutions mainly to the economy.. Sri Lanka Customs has won the first place and is owned by the Department of Inland Revenue and the Provincial Revenue Department and the Provincial Revenue Department.. He said he was the remaining institutions of the Excise, Immigration and Emigration and Motor Traffic Departments.
-
-◼️
+...
 
 [Data](articles/3b1e2252.json)
-
-[Extended Data](ext_articles/3b1e2252.ext.json)
 
 ---
 
@@ -1980,5 +1906,49 @@ The government representatives and opposition MPs were present at the occasion o
 [Data](articles/e6f4b760.json)
 
 [Extended Data](ext_articles/e6f4b760.ext.json)
+
+---
+
+### Minister Sunil Senavi advises the court to take legal action if people are panicked by Israel's Sabad residence
+
+*2025-09-26 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226189) · `ta`
+
+Buddha Sasana, Religious and Cultural Affairs Minister Sunil Senavi said that if the actions of the Israeli Sabad house located in Arughampay are in a state of panic, the court has advised the police to take legal action on it.
+
+He was responding to a question of Opposition Member MS Udumaleb at the time of the question of oral answers in Parliament on Friday (26).
+
+In his question, Udumalep has been unanimously decided at the Pottuvil Pradeshiya Sabha Coordination Meeting and the Pottuvil Pradeshiya Sabha session to shut down Israel's illegal Sabad house in Pottuvil, Augkambe area.. So I ask what the move it has taken to prevent this.
+
+The Pottuvil Divisional Development Committee meeting has informed us about the Israeli -owned Sabad house operating near the school of Muslims in Pottuvil, Pottuvil.. According to it
+
+Sri Lankan police have a long intervention required. Similarly, the court has searched for information and informed the court.
+
+...
+
+[Data](articles/6a33b3b9.json)
+
+[Extended Data](ext_articles/6a33b3b9.ext.json)
+
+---
+
+### Sri Lanka, India ties have reached point of unprecedented excellence: Envoy
+
+*2025-09-26 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112947/sri-lanka-india-ties-have-reached-point-of-unprecedented-excellence-envoy) · `en`
+
+The ties between India and Sri Lanka have reached a point of “unprecedented excellence” since the visit of President Anura Kumara Dissanayake to India and the following visit of Prime Minister Narendra Modi to Sri Lanka, the island nation’s envoy said on Friday.
+
+Interacting with PTI Videos on the sidelines of an event in New Delhi, Sri Lankan High Commissioner Mahishini Colonne also said, “Opportunities to explore partnerships are at an optimal level”.
+
+At this point, Sri Lanka has stabilised its economy and is “well on the path of recovery and transformation”, she said, when asked about the current state of its economy.
+
+In this journey, we see immense opportunities for collaboration with India, she said.
+
+High Commissioner Colonne said, “Since our President’s visit to India after his election, and then Prime Minister Modi’s visits to Sri Lanka a few months after it, Sri Lanka-India ties have reached a point of unprecedented excellence”.
+
+...
+
+[Data](articles/f723797e.json)
+
+[Extended Data](ext_articles/f723797e.ext.json)
 
 ---

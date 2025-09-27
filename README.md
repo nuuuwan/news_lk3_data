@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 14:54:35**
+As of **2025-09-27 14:37:47**
 
 ## Newspaper Stats
 
-*Scraped **78,896** Articles*
+*Scraped **78,888** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 328
-newsfirstlk | 439
+lankadeepalk | 322
+newsfirstlk | 438
 dbsjeyarajcom | 635
 bbccomsinhala | 705
 colombotelegraphcom | 793
@@ -21,47 +21,17 @@ adalk | 7,624
 adaderanalk | 10,195
 tamilmirrorlk | 11,828
 virakesarilk | 12,807
-adaderanasinhalalk | 13,704
+adaderanasinhalalk | 13,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,888 (100.0%) of 78,896 articles have been extended.
+78,887 (100.0%) of 78,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
-
-### නා උයන ආරණ්‍ය සෙනසුනේ අපවත් වූ හිමිවරුන්ගේ භූමදාන පූජෝත්සවය අද
-
-*2025-09-27 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215069) · `si`
-
-මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසනයේදී අනතුරකට ලක්වීමෙන් අපවත් වී වදාළ හිමිවරුන්ගේ දේහ පිළිබඳ භූමදාන පූජෝත්සවය අද (27) පස්වරුවේ සිදුකෙරේ.
-
-භික්ෂූන් වහන්සේට අවසන් ගෞරව දැක්වීම සඳහා මහා සංඝරත්නය, සැදැහැවතුන් ඇතුළු විශාල පිරිසක්  ආරණ්‍ය සේනාසනය වෙත පැමිණ සිටී.
-
-මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසනයේ ගමන් පහසුව සඳහා යොදාගත් ඩක්කුවක් කඩාවැටී හිමිවරු 07 නමක් පසුගිය 24 වැනිදා අපවත් වූහ.
-
-පූජ්‍ය රුමේනියාවේ ධම්මරන්සි හිමි, පූජ්‍ය රුසියාවේ ධම්මරක්ඛිත හිමි, පූජ්‍ය ඉන්දියාවේ ධම්මගවේෂි හිමි, පූජ්‍ය නුගේගොඩ විපස්සි හිමි, පූජ්‍ය මල්වානේගම සමිද්ධි හිමි, පූජ්‍ය නාවලපිටියේ උත්තරානන්ද හිමි සහ පූජ්‍ය උඩවලවේ සන්තසුමන හිමි යන භික්ෂූන් වහන්සේ මෙලෙස අපවත් වූහ.
-
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාද ඊයේ (26) රාත්‍රියේ අපවත් වූ භික්ෂූන් වහන්සේට සිය අවසන් ගෞරව දැක්වූ අතර, සර්වජන බලය පක්ෂයේ නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතාද අද පෙරවරුවේ මැල්සිරිපුර නා උයන ආරණ්‍ය සේනාසනය වෙත පැමිණ අවසන් ගෞරව දැක්වීය.
-
-...
-
-[Data](articles/9a51b259.json)
-
----
-
-### Final Rites Of Monks From Na Uyana Senasana Tragedy, Today
-
-*2025-09-27 14:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/final-rites-of-monks-from-na-uyana-senasana-tragedy-today) · `en`
-
-...
-
-[Data](articles/56ef2604.json)
-
----
 
 ### Is the refrigerator more than 10 years old?
 
@@ -89,24 +59,6 @@ Sri Lanka has stopped importing low equipment. By the end of this year, the law 
 
 ---
 
-### AI ගැන මහනුවරට උගන්වයි
-
-*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/AI-ගන-මහනවරට-උගනවය/1-680312) · `si`
-
-රජයේ ඩිජිටල්කරණ වැඩසටහන සහ AI තාක්ෂණ භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් පළාත් මට්ටමින් දැනුවත් කිරීමේ වැඩසටහන් මාලාවෙහි පළමු පළාත් වැඩසටහන  මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත්විණි.
-
-රජයේ ඩිජිටල්කරණ සැලසුම් පැහැදිලි කිරීම සහ AI තාක්ෂණ භාවිතය පිළිබඳව නිලධාරීන්ගේ සාක්ෂරතාවය ඉහළ නැංවීමේ අරමුණින් සංවිධානය කරන ලද මෙම වැඩසටහන මධ්‍යම පළාත් සභාව, දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල සහ රජයේ අනෙකුත් ආයතනවල සියලුම විධායක නිලධාරීන්ගේ සහභාගීත්වයෙන් පැවැත්විණි.
-
-ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව රජයේ නිලධාරීන් දැනුවත් කිරීමේ වැඩසටහන් 6ක් කොළඹ කේන්ද්‍ර කරගනිමින් මේ වන විට පවත්වා ඇති අතර ඒ සඳහා නිලධාරීහු 4000කට වැඩි පිරිසක් සහභාගී වූහ.
-
-සියලු පළාත් ආවරණය වන පරිදි පළාත් මට්ටමින් මෙම වැඩසටහන පවත්වා රජයේ ඩිජිටල්කරණ සැලසුම පිළිබඳ රාජ්‍ය නිලධාරියාගේ කාර්යභාරය සහ AI තාක්ෂණය රජයේ කටයුතු සඳහා භාවිතයට යොදා ගැනීම පිළිබඳව කොළඹින් බැහැර සිටින සියලුම රාජ්‍ය නිලධාරීන් දැනුවත් කිරිමට සැලසුම් කර ඇතැයි ජනාධිපති කාර්යාලය පවසයි.
-
-...
-
-[Data](articles/4508f2a5.json)
-
----
-
 ### 717 Arrested In Island-Wide Police Operation
 
 *2025-09-27 13:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/717-arrested-in-island-wide-police-operation) · `en`
@@ -118,26 +70,6 @@ COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide
 [Data](articles/1ee617c1.json)
 
 [Extended Data](ext_articles/1ee617c1.ext.json)
-
----
-
-### නානුඔය දුම්රිය ස්ථානයේ ලෝක සංචාරක දිනය සැමරේ
-
-*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/1-680311) · `si`
-
-ලෝක සංචාරක දිනය නිමිත්තෙන් නානුඔය දුම්රිය ස්ථානයේදි සංචාරක දිනය සැමරීමේ උත්සවයක් එම දුම්රිය පරිශ්‍රයේදි අද (27) දින සිදු කෙරිණ.
-
-නානුඔය දුම්රිය ස්ථානයේ සංචාරක රියදුරන්ගේ සංගමය සහ සංචාරක ත්‍රීරෝද රථ හිමියන්ගේ සංගමය එක්ව නානුඔය දුම්රිය ස්ථානයේ ස්ථානාධිපතිවරයා ඇතුලු කාර්යමණ්ඩලයේ සහයෝගය ඇතිව නානුඔය දුම්රිය ස්ථානයට ගමන් ගන්නා විදේශීය සංචාරකයන් සහ නානුඔය දුම්රිය ස්ථානයට මගී ප්‍රවාහන දුම්රියන්වලින් පැමිණි විදේශීය සංචාරකයන්ට උනුසුම් අයුරින් මල් මාලා පළදවා පිළිගනු ලැබූහ.
-
-නානුඔය දුම්රිය ස්ථානයේදී දේශීය සංස්කෘතිය විදහා දැක්වෙන් සංස්කෘතිකාංග ගණනාවක්ද පාසල් ළමුන් විසින් විදේශිකයන් හමුවේ ඉදිරිපත් කල අතර, ලෝක සංචාරක දිනයේදි මෙරටට පැමිණි තමන්ව පිලිගැනීම සම්බන්ධයෙන් විදේශික සංචාරකයන් සිය සතුට පල කරනු ලැබූහ.
-
-ලෝක සංචාරක දිනයෙදි දුම්රියෙන් ගමන් කිරිමට පැමිණි සංචාරකයන් නානුඔය දුම්රිය ස්ථානයේදි නර්ථනයේ යෙදෙන අයුරුද අප කැමරාවේ සටහන් විය.
-
-මෙම අවස්ථාවට නානුඔය පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයා, සංචාරක හෝටල් හිමියන්, සංචාරක කර්මාන්තයේ යෙදී සිටින පුද්ගලයන් ඇතුලු ප්‍රදේශවාසීන් විශාල පිරිසක් සහභාගි වී සිටියහ.
-
-◼️
-
-[Data](articles/d909ae75.json)
 
 ---
 
@@ -169,55 +101,19 @@ COLOMBO(News 1st); US President Donald Trump hosted a special dinner on the 23rd
 
 ---
 
-### Anura met Trump
+### டிரம்பை சந்தித்தார் அனுர
 
 *2025-09-27 13:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிரம்பை-சந்தித்தார்-அனுர/175-365366) · `ta`
 
-There is a smooth discussion between President Anura Kumara Dissanayake and US President Donald Trump.
+ஜனாதிபதி அனுரகுமார திசாநாயக்க மற்றும் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் இருவருக்குமிடையில் சுமுகமான கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
 
-The meeting took place at a dinner party offered by President Trump at the New York Palace Hotel.
+லொட்டே நியூயோர்க் அரண்மனை ஹோட்டலில் ஜனாதிபதி டிரம்ப் வழங்கிய இரவு விருந்து நிகழ்ச்சியில் கலந்து கொண்டதாக போதே இந்த சந்திப்பு இடம்பெற்றுள்ளது.
 
-It is noteworthy that the event was organized for the heads of state in New York to attend the 80th session of the United Nations General Assembly (Unga).. Remble
+ஐக்கிய நாடுகள் சபையின் பொதுச் சபையின் (UNGA) 80வது அமர்வில் பங்கேற்க நியூயோர்க்கில் உள்ள அரச தலைவர்களுக்காக இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
 
 ◼️
 
 [Data](articles/6b283f98.json)
-
-[Extended Data](ext_articles/6b283f98.ext.json)
-
----
-
-### කෝප් කෝපාවට හොරු අල්ලන බලය
-
-*2025-09-27 13:11:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කපවට-හර-අලලන-බලය/1-680310) · `si`
-
-පොදු ව්‍යාපාර පිළිබඳ පිළිබඳ  පාර්ලිමේන්තු කාරක සභාව(කෝප්)  සහ  රාජ්‍ය ගිණුම් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට (කෝපා) රාජ්‍ය ආයතනවල   දුෂණ  සහ  ඒවාට සම්බන්ධ ප්‍රධානීන් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කිරීම  සදහා  අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට  හෝ නීතිපති දෙපාර්තමේන්තුවට නිර්දේශ හෝ පැමිණිලි  ඉදිරිපත්  කිරීමේ බලතල ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර ඇත.
-
-මේ අනුව එම කමිටු දෙකට එකී බලතල ලබාදීම සඳහා  ස්ථාවර නියෝග ළඟදීම සංශෝධනය  කෙරෙනු ඇතැයි පාර්ලිමේන්තු ආරංචි මාර්ග සඳහන් කළේය.
-
-ස්ථාවර නියෝග සංශෝධනය කිරීම අනුමත කිරීම සඳහා  යෝජනාවක්  ස්ථාවර නියෝග කාරක සභාවට යොමු කිරීමටද  පාර්ලිමේන්තුවේ අනුමැතිය පෙරේදා ලැබිණ.
-
-රාජ්‍ය ආයතනවල දූෂණ සම්බන්ධයෙන් පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට( කෝප් කමිටුව) සහ  රජයේ ගිණුම් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට (කෝපා )    අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට  හෝ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට හෝ නීතිපතිවරයාට  පැමිණිලි  හෝ නිර්දේශ ඉදිරිපත්  කිරීමේ  බලයක් මේ දක්වාම නොතිබිණ.
-
-...
-
-[Data](articles/5a2f3c55.json)
-
----
-
-### ප්‍රභූ - නිර්ප්‍රභූ මාලිමාවේ වත්කම් - බැරකම්
-
-*2025-09-27 13:00:03* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පරභ-නරපරභ-මලමව-වතකම-බරකම/2-680309) · `si`
-
-වෙළෙඳ, වාණිජ, ආහාර සුරක්‍ෂිතතාව හා සමුපකර සංවර්ධන ඇමැති වසන්ත සමරසිංහ මහතා විසින් ඉදිරිපත් කරනු ලැබ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ වෙබ් අඩවියේ පළකර ඇති ඔහුගේ වත්කම් ප්‍රකාශය මේ වන විට බොහෝ දෙනාගේ, විශේෂයෙන්ම විරුද්ධ පක්‍ෂවල කතාබහට ලක්වී ඇත.
-
-ඒ ඔහුගේ වත්කම්වල වටිනාකම රුපියල් කෝටි විසි හතහමාරක් පමණ වන බව ඉන් කියැවෙන හෙයිනි. විවේචකයන් ප්‍රශ්න කරන්නේ නිර්ධන පන්තියේ පක්ෂයක නායකයකු සතුව මෙතරම් විශාල ධනයක් තිබිය හැකි ද යන්නයි.
-
-එසේම තමා ජාතික ජන බලවේගයේ ප්‍රධාන පක්ෂය වන ජනතා විමුක්ති පෙරමුණේ පූර්ණ කාලීන ක්‍රියාකාරිකයකු වශයෙන් කටයුතු කරද්දී පූර්ණ කාලීන සාමාජිකයන් නඩත්තු කිරීමේ ජවිපෙ පිළිවෙත අනුව ඇතැම් ප්‍රදේශවලදී ජවිපෙ සාමාජිකයන් හා ආධාරකරුවන් තමන්ට විටෙක සහල් ටිකකින් හෝ කෙසෙල් කැනකින් හෝ ආධාර කරන බව සමරසිංහ මහතා ජනමාධ්‍ය සම්මුඛ සාකච්ඡාවකදී ප්‍රකාශ කර තිබිණි.
-
-...
-
-[Data](articles/3e773cc2.json)
 
 ---
 
@@ -2084,5 +1980,127 @@ Sri Lanka is due to chase 203 runs.
 [Data](articles/fbfa343a.json)
 
 [Extended Data](ext_articles/fbfa343a.ext.json)
+
+---
+
+### Tea fertilizer subsidy to QR
+
+*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ත-පහර-සහනධරය-QR-කරමයට/101-680296) · `si`
+
+The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
+
+By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
+
+The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
+
+Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
+
+The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
+
+The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
+
+◼️
+
+[Data](articles/56b83a5f.json)
+
+[Extended Data](ext_articles/56b83a5f.ext.json)
+
+---
+
+### Tea fertilizer subsidy to QR
+
+*2025-09-26 21:54:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ත-පහර-සහනධරය-QR-කරමයට/1-680296) · `si`
+
+The government has decided to provide fertilizer subsidy through QR Production for Small and Medium Signal Tea owners
+
+By 2030, the annual tea production in Sri Lanka to increase to 400 million kilos to 400 million rupees.
+
+The program is implemented by the Tea Small Holdings Development Authority and the Sri Lanka Tea Board.
+
+Under this project, 50 kg fertilizer bundle of fertilizer bundle. 4000 million, Rs. 25 kg and fertilizer bundle. 2000 is also provided as subsidy.
+
+The new program has been implemented in several registered fertilizer companies, including the Fertilizer Secretariat, which provides a QR code to subsidies.
+
+The government says that under this new methodology, necessary to buy fertilizers will be implemented in all areas from October 1.
+
+◼️
+
+[Data](articles/9ed675f7.json)
+
+[Extended Data](ext_articles/9ed675f7.ext.json)
+
+---
+
+### Tissamaharama area shooting: One death
+
+*2025-09-26 21:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திஸ்ஸமஹாராம-பகுதியில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-365356) · `ta`
+
+A shooting incident took place at 5 pm today (26) in Tissamaharama Muttiyam.
+
+The shooting was also reported to be the result of a relationship between the gunman and the wife of the son of the deceased.
+
+Police said investigations are currently underway to arrest the suspect. Remble
+
+◼️
+
+[Data](articles/67b750ee.json)
+
+[Extended Data](ext_articles/67b750ee.ext.json)
+
+---
+
+### 58-year-old shot dead in Tissamaharama
+
+*2025-09-26 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112950/58-year-old-shot-dead-in-tissamaharama) · `en`
+
+A 58-year-old individual has died following a shooting incident reported in the Sandungama area in Tissamaharama this evening (26).
+
+The incident occurred in the Muthiyammana area at around 5.00 p.m. when the victim was shot with a home-made ‘Galkatas’ type firearm which uses 12-bore ammunition, police said.
+
+According to reports, the assailant arrived on a motorcycle, carried out the shooting, and fled the scene.
+
+Police further stated that the suspect is believed to be a resident of the same area.
+
+Preliminary investigations have revealed that the shooting may have stemmed from a personal dispute, reportedly linked to a relationship between the suspect and the wife of the deceased’s son.
+
+Tissamaharama Police have launched further investigations to apprehend the suspect.
+
+◼️
+
+[Data](articles/b2346a05.json)
+
+[Extended Data](ext_articles/b2346a05.ext.json)
+
+---
+
+### Central Environmental Authority Joins Gov Pay
+
+*2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/101-680295) · `si`
+
+The Central Environmental Authority (GOV Pay) was commenced today.
+
+The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
+
+◼️
+
+[Data](articles/6cff156d.json)
+
+[Extended Data](ext_articles/6cff156d.ext.json)
+
+---
+
+### Central Environmental Authority Joins Gov Pay
+
+*2025-09-26 21:12:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරය-GOv-pay-හ-එක-වය/1-680295) · `si`
+
+The Central Environmental Authority (GOV Pay) was commenced today.
+
+The payment method was officially opened and the signing and opening of the agreements were carried out today at the Central Environmental Authority of Battaramulla.
+
+◼️
+
+[Data](articles/9c7cc34a.json)
+
+[Extended Data](ext_articles/9c7cc34a.ext.json)
 
 ---

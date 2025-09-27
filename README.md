@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 05:20:08**
+As of **2025-09-27 05:56:18**
 
 ## Newspaper Stats
 
-*Scraped **78,799** Articles*
+*Scraped **78,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 704
 colombotelegraphcom | 793
 economynextcom | 4,725
 dailymirrorlk | 4,733
-islandlk | 4,804
+islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,619
 adaderanalk | 10,187
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,691
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,799 (100.0%) of 78,799 articles have been extended.
+78,799 (100.0%) of 78,807 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1061,6 +1061,20 @@ It is a key to population to popularize the video, using artificial intelligence
 
 ---
 
+### Yarl Dreamin’ fuels innovation in Sri Lanka’s growing salesforce trailblazer community
+
+*2025-09-26 19:22:00* · [`islandlk`](http://island.lk/yarl-dreamin-fuels-innovation-in-sri-lankas-growing-salesforce-trailblazer-community/) · `en`
+
+Yarl Dreamin’ is Sri Lanka’s premier community-driven Salesforce conference, hosted annually by the Yarl Salesforce Ohana in Jaffna. Launched in 2023 as the island’s first community-led Salesforce event, it has grown into a platform uniting beginners, professionals, and industry leaders through hands-on workshops, expert sessions, and networking. This year’s conference drew over 350 learners and professionals from the Salesforce ecosystem in Sri Lanka.
+
+The event created a platform to showcase the growing Sri Lankan Trailblazer Community, offering insights into the Salesforce AI-platform – Agentforce, and the opportunities digital transformation brings for businesses and professionals. Together with the Workforce Development Partners in Sri Lanka – Yarl Salesforce Ohana and Code Terriers, the community aims to skill around 1,000 learners over the coming year through structured training, mentorship, and local cohorts.
+
+...
+
+[Data](articles/ec16d750.json)
+
+---
+
 ### Modern Laboratory for Medicine, Ayurveda, Food and cosmetics- Minister Nalinda Jayatissa
 
 *2025-09-26 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226192) · `ta`
@@ -1078,6 +1092,62 @@ There are about 4,500 pharmacists in the country and there is a severe shortage 
 [Data](articles/5dd150e3.json)
 
 [Extended Data](ext_articles/5dd150e3.ext.json)
+
+---
+
+### AIA Exclusive reaches 200+ customer milestone in further elevating standards in personalised finance
+
+*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/aia-exclusive-reaches-200-customer-milestone-in-further-elevating-standards-in-personalised-finance/) · `en`
+
+AIA Sri Lanka is proud to announce a significant milestone in its journey toward delivering exceptional, customer-centric financial services. The company has successfully onboarded 200+ customers into its flagship AIA Exclusive programme, reaffirming its commitment to providing premium, personalised insurance and investment solutions tailored to the evolving needs of today’s discerning clientele.
+
+...
+
+[Data](articles/00f86aca.json)
+
+---
+
+### Most awaited SLIM Effie 2025 Awards launches – celebrating marketing effectiveness with global prestige
+
+*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/most-awaited-slim-effie-2025-awards-launches-celebrating-marketing-effectiveness-with-global-prestige/) · `en`
+
+The Sri Lanka Institute of Marketing (SLIM) has officially announced the launch of Effie Awards 2025, the world’s most respected accolade in marketing effectiveness, now hosted in Sri Lanka under the stewardship of SLIM for the 18th consecutive year.
+
+Globally recognized as the gold standard for marketing achievement, Effie Awards shine a spotlight on ideas that work, campaigns that marry creativity with measurable business impact. In Sri Lanka, the Effie Awards have become a defining stage where the country’s brightest marketers showcase their effectiveness stories to the world.
+
+“Effie Awards are not just about winning trophies, they are about proving the power of marketing to transform businesses, industries, and society at large. As SLIM, we are proud to champion this global benchmark locally, giving our marketers the recognition they deserve on the world stage,” said Prof. Dewasiri N. Jayantha, President of SLIM.
+
+...
+
+[Data](articles/8dce9e8a.json)
+
+---
+
+### CSE marks 40th anniversary with 4,000 tree reforestation initiative
+
+*2025-09-26 19:19:00* · [`islandlk`](http://island.lk/cse-marks-40th-anniversary-with-4000-tree-reforestation-initiative/) · `en`
+
+In celebration of its 40th anniversary, the Colombo Stock Exchange (CSE) signed a Memorandum of Understanding (MOU) to launch a landmark CSR initiative in collaboration with the non-profit environmental organization, ‘Rainforest Protectors of Sri Lanka’. Themed “Let’s Celebrate 40 Years with 4,000 Trees,” the project aims to reforest four acres of land in Rajawaka, contributing to long-term forest restoration and environmental sustainability.
+
+Through this partnership, the CSE contributes to the ongoing reforestation effort under the WANAROPA program, which is aligned with the global ‘Bonn Challenge’ target of restoring 200,000 hectares of degraded forest land in Sri Lanka. The site is located in the Rajawaka area, on the border of the wet and intermediate zones, a region that hosts diverse landscapes and rich biodiversity, including elephants, leopards, natural bee colonies, and other unique ecosystems.
+
+...
+
+[Data](articles/ee72d1e3.json)
+
+---
+
+### Bourse’s robustness boosted by LB Finance’s acquisition of 55.6% stake in Associated Motorways
+
+*2025-09-26 19:18:00* · [`islandlk`](http://island.lk/bourses-robustness-boosted-by-lb-finances-acquisition-of-55-6-stake-in-associated-motorways/) · `en`
+
+Stock market activities continued with their positive proclivities yesterday and a transaction of note was the acquisition of a 55.6 percent stake in Association Motorways Pvt. Ltd by LB Finance. Under this acquisition, LB Finance invested Rs 3.7 billion to purchase 74.3 million shares at a share price of Rs 50. This enabled to increase the business portfolio to a great extent of LB Finance, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 77.93 points, while the S and P SL20 rose by 10.95 points. Turnover stood at Rs 6 billion with nine crossings.
+
+...
+
+[Data](articles/1a910626.json)
 
 ---
 
@@ -1924,93 +1994,5 @@ This is a serious accusation.  We asked this morning too. Did not give an answe
 [Data](articles/8baad408.json)
 
 [Extended Data](ext_articles/8baad408.ext.json)
-
----
-
-### Mutcar's problem Mathemism
-
-*2025-09-26 16:30:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මජබරග-පරශනන-මතසබ-රතවය/1-680285) · `si`
-
-The Director General of Bribery, the Director General of the Commission of Investigation Commission (Under the Investigation Commission) was a person who had worked as the Secretary of the JVP and had a warm dialogue in Parliament today (26).
-
-He was responding to the Declare report on the report of the COPE Committee.
-
-The MP was questioned whether it was because of the favorable to investigate the allegations against the ministers of the government.
-
-This is a serious accusation.  We asked this morning too. Did not give an answer. This is what independent commissions like this have been working independently. We have a problem here. MPs' opposition in opposition search for all the deals. However, the ministers of the government are not looking for. It is not because he's a JeaPP. We can think so.
-
-...
-
-[Data](articles/d60717ca.json)
-
-[Extended Data](ext_articles/d60717ca.ext.json)
-
----
-
-### 90-Day Detention for Ex-SLPP LG Candidate Manamperi
-
-*2025-09-26 16:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/90-day-detention-for-ex-slpp-lg-candidate-manamperi) · `en`
-
-COLOMBO (News 1st); The Walasmulla Magistrate’s Court has granted permission for authorities to detain and interrogate Sampath Manamperi, a former Sri Lanka Podujana Peramuna (SLPP) Pradeshiya Sabha candidate, for 90 days in connection with a major narcotics-related investigation.The detention order was issued following a request by the Western Province (North) Crimes Division, which informed the court that Acting Defence Minister Aruna Jayasekera had authorized the extended detention under relevant legal provisions.Manamperi was arrested after police discovered two containers of chemicals on his property in Middeniya, suspected to be used in the production of crystal methamphetamine (commonly known as ‘ICE’). The case was taken up during proceedings at the Walasmulla Magistrate’s Court.The first suspect in the case, Piyal Manamperi, has already been remanded until October 8.
-
-◼️
-
-[Data](articles/df9a645e.json)
-
-[Extended Data](ext_articles/df9a645e.ext.json)
-
----
-
-### 3 vehicles were hit by hospital
-
-*2025-09-26 16:23:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වහන-3ක-එකනක-ගට-11ක-රහලට/101-680284) · `si`
-
-Bandaragama police say 11 persons were injured in a lorry, a van and three-wheeler collision road in Bandaragama road
-
-The lorry came through Moranthiwuwa to Bandaragama and the lorry driver brake was crashed into the lorry lorry, police said.
-
-◼️
-
-[Data](articles/05dc4252.json)
-
-[Extended Data](ext_articles/05dc4252.ext.json)
-
----
-
-### 3 vehicles were hit by hospital
-
-*2025-09-26 16:23:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වහන-3ක-එකනක-ගට-11ක-රහලට/1-680284) · `si`
-
-Bandaragama police say 11 persons were injured in a lorry, a van and three-wheeler collision road in Bandaragama road
-
-The lorry came through Moranthiwuwa to Bandaragama and the lorry driver brake was crashed into the lorry lorry, police said.
-
-◼️
-
-[Data](articles/12f81555.json)
-
-[Extended Data](ext_articles/12f81555.ext.json)
-
----
-
-### Three arrested for defrauding money by fake Visa stickers claiming to be sent
-
-*2025-09-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215041) · `si`
-
-Two suspects and two suspects have been arrested in charge of pseudo-visa stickers with the intention of cheating money.
-
-The money has been fraudulent and arrested the suspects yesterday (25) and arrested the suspects on information received regarding this yesterday.
-
-The suspect is a 69 year old resident of Borella and the suspects were 26 and 68 years old.
-
-One suspect performing to Canada. 3,831,000 and Rs. 3,831,000 and Rs. It has been revealed that 3,436,000 has been cheated.
-
-Bambalapitiya Police are conducting further investigations to reveal whether these suspects are involved in such crimes.
-
-◼️
-
-[Data](articles/cd7d40bd.json)
-
-[Extended Data](ext_articles/cd7d40bd.ext.json)
 
 ---

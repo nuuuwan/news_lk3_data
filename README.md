@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 13:56:32**
+As of **2025-09-27 13:38:28**
 
 ## Newspaper Stats
 
-*Scraped **78,885** Articles*
+*Scraped **78,882** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 322
-newsfirstlk | 437
+newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
 colombotelegraphcom | 793
@@ -17,7 +17,7 @@ economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,624
+adalk | 7,623
 adaderanalk | 10,195
 tamilmirrorlk | 11,827
 virakesarilk | 12,807
@@ -27,61 +27,31 @@ adaderanasinhalalk | 13,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,882 (100.0%) of 78,885 articles have been extended.
+78,881 (100.0%) of 78,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### 328 Organized Crime Suspects In Custody
-
-*2025-09-27 13:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/328-organized-crime-suspects-in-custody) · `en`
-
-COLOMBO(News 1st); Police Headquarters announced that 328 suspects linked to organized crime are currently in custody under detention orders.Police Media Spokesperson, Assistant Superintendent of Police F. U. Wootler, stated that 38 shooters are among those detained.Police Headquarters further reported that 1,721 local and foreign firearms have been seized during the period under review.ASP Wootler added that these include 61 T-56 assault rifles.
-
-◼️
-
-[Data](articles/496cdac7.json)
-
----
-
-### AKD Attends Trump's Special Dinner Reception Ahead Of Japan Visit
-
-*2025-09-27 13:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/akd-attends-trump-s-special-dinner-reception-ahead-of-japan-visit) · `en`
-
-COLOMBO(News 1st); US President Donald Trump hosted a special dinner on the 23rd at the Lotte New York Palace Hotel for heads of state attending the 80th session of the United Nations General Assembly.President Anura Kumara Dissanayake was among the attendees at the event.
-
-◼️
-
-[Data](articles/84aa6707.json)
-
----
-
-### Mannar - Hot From Walad Power Plant
+### සුළං බලාගාරයෙන් උණුසුම් වූ මන්නාරම
 
 *2025-09-27 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215065) · `si`
 
-The people of the area had commissioned against the LTTE's area yesterday (27), with the sustainable territory and other equipment to construct the city of Mannar.
+මන්නාරම නගරයේ ඉදිකිරීමට යෝජිත සුළං බලාගාර වෙත අවශ්‍ය ටර්බයින හා අනෙකුත් උපකරණ ඊයේ (27) රාත්‍රියේ රැගෙන ඒමත් සමග ප්‍රදේශයේ ජනතාව ඊට එරෙහිව දැඩි විරෝධයක් පලකර තිබේ.
 
-It is said that the masses protested to promote the wind to be taken to Mannar town.
+සුළං බලාගාර ටර්බයින හා අනෙකුත් උපකරණ මන්නාරම නගරයට රැගෙන නොඑන ලෙසට ඉල්ලීම් කරමින් ජනතාව විරෝධතාවල නිරත වූ බව සදහන්ය.
 
-However, police rebel groups were brought to the Mannar Turbine and other equipment to the city of Mannar, Ada Derana reporter.
+කෙසේවෙතත් පොලිස් කැරලි මර්දන කණ්ඩායම් උපයෝගී කරනගනිමින් මන්නාරම නගරය වෙත සුළං බලාගාරට අවශ්‍ය ටර්බයින් හා අනෙකුත් උපකරණ රැගත් වාහන රැගෙන ඒම සිදුකළ බව 'අද දෙරණ' වාර්තාකරු පැවසීය.
 
-The people of Mannar were continued to protest the city of Mannar yesterday, asking for the construction of the wind power plants in Mannar Island and to stop mineral sand.
+මන්නාරම දූපත සීමාවේ සුළං බලාගාර ඉදිකිරීම නතර කරන ලෙසට හා මන්නාරම දූපත අවට සීමාවේ ඛනිජ වැලි කැනීම නවත්වන ලෙසට ඉල්ලීම් කරමින් මන්නාරම ජනතාව අඛණ්ඩව 55 වන දිනටත් ඊයේ මන්නාරම නගරය මධ්‍යයේ විරෝධතාවල නිරත විය.
 
-However, the protests were intensified, with the carrying territory and other equipment needed to the wind power plant.
+කෙසේවෙතත් සුළං බලාගාරයට අවශ්‍ය ටර්බයින් හා අනෙකුත් උපකරණ රැගෙන ඒමත් සමග එම විරෝධතා උත්සන්න වූ අතර, උණුසුම් තත්ත්වයක් ද හටගෙන තිබුණි.
 
-Three protesters were injured and the people were assaulted by the police.
-
-When contacted by the Mannar Police, a group of people were protesting at the Town of Mannar town.
-
-There, the police controlled the situation and had never attacked civilians.
+එහිදී විරෝධතාකරුවන් තිදෙනෙකු තුවාල ලැබූ අතර, ජනතාව චෝදනා කරන්නේ පොලීසිය විසින් එම පහරදීම් සිදුකළ බවය.
 
 ...
 
 [Data](articles/0211a2bc.json)
-
-[Extended Data](ext_articles/0211a2bc.ext.json)
 
 ---
 
@@ -2092,5 +2062,47 @@ Mount Lavinia Magistrate Amarasene, who refused the request, said that insuffici
 [Data](articles/58305c9a.json)
 
 [Extended Data](ext_articles/58305c9a.ext.json)
+
+---
+
+### Man shot dead in Tissamaharama
+
+*2025-09-26 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215050) · `si`
+
+A shooting was shot at Tissamaharama at Mutimmana area around 5 pm today.
+
+A 58-year-old man was killed and the shooting was killed by a shooting of a stone house shoes.
+
+The shooter who had come to shoot was fled by a motorcycle and the suspect was a resident of the same area.
+
+It is reported that the shooting was taken by the shooting between the victim's wife's wife.
+
+The police said that investigations are currently underway to arrest the suspect.
+
+◼️
+
+[Data](articles/71afa351.json)
+
+[Extended Data](ext_articles/71afa351.ext.json)
+
+---
+
+### Dozens of delegates from multiple nations walk out of UN hall as Israeli prime minister prepares to speak
+
+*2025-09-26 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/112949/dozens-of-delegates-from-multiple-nations-walk-out-of-un-hall-as-israeli-prime-minister-prepares-to-speak) · `en`
+
+Israeli Prime Minister Benjamin Netanyahu told the U.N. General Assembly on Friday that Israel “must finish the job” against Hamas in Gaza, giving a defiant U.N. speech despite growing international isolation over his refusal to end the devastating war in Gaza.
+
+He spoke after dozens of delegates from multiple nations walked out of the U.N. General Assembly hall en masse Friday as he prepared to speak.
+
+As the Israeli leader spoke, unintelligible shouts echoed around the hall. Applause rang out in other quarters as he spoke. The U.S. delegation, which has backed Netanyahu in his campaign against Hamas, stayed put. The few world powers in attendance, the United States and the United Kingdom, did not send their most senior officials or even their UN ambassador to their section. Instead, it was filled out with more junior, low-level diplomats.
+
+“Anti-semitism dies hard. In fact, it doesn’t die at all,” Netanyahu said. Netanyahu routinely accuses his critics of antisemitism.
+
+...
+
+[Data](articles/b224c059.json)
+
+[Extended Data](ext_articles/b224c059.ext.json)
 
 ---

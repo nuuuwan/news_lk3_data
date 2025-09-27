@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 19:20:32**
+As of **2025-09-27 20:06:20**
 
 ## Newspaper Stats
 
-*Scraped **78,950** Articles*
+*Scraped **78,953** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 347
-newsfirstlk | 441
+newsfirstlk | 442
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 795
@@ -17,21 +17,87 @@ economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,625
+adalk | 7,626
 adaderanalk | 10,200
 tamilmirrorlk | 11,831
 virakesarilk | 12,820
-adaderanasinhalalk | 13,712
+adaderanasinhalalk | 13,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,950 (100.0%) of 78,950 articles have been extended.
+78,952 (100.0%) of 78,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### 46 Police Inspectors Promoted To Superintendents
+
+*2025-09-27 19:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/46-police-inspectors-promoted-to-superintendents) · `en`
+
+COLOMBO(News 1st);Forty-six Inspectors of Police and Chief Inspectors of Police have been promoted to the rank of Superintendent of Police.Public Security Minister Ananda Wijepala stated that 34 Senior Superintendents have also been elevated to Deputy Inspectors General.Additionally, two Deputy Inspectors General have been promoted to Senior Deputy Inspectors General.Minister Wijepala added that the process to promote 5,000 police constables to Chief Inspectors has also begun.He noted that these promotions, which had been on hold for the past five years, are being implemented this year.
+
+◼️
+
+[Data](articles/eb6efba7.json)
+
+---
+
+### The police have returned to Padma that ASP came to Indonesia
+
+*2025-09-27 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215078) · `si`
+
+It has been revealed that Assistant Superintendent Assistant Superintendent of Police Rohan Oliathgala has returned to Indonesia that Assistant Superintendent of Kehelbadara Padkerens and Commandor Salinala.
+
+Meanwhile, it is reported that the International Police have issued the red warrant issued through the international police to arrest Kehelbadara Padma.
+
+Kehelbadara Padkerens and Commando Salini, including Criminals, launched a massive operation to arrest in Indonesia.
+
+It is no secret that officials join the operations have worked hard to commit to severe sacrifices in Indonesia.
+
+Mr. Ogalaragala has been informed of the perpetrators of the police that the afforders have been informed of the police and he has called on the telephone number. It is reported that the number has been checked.
+
+The victims were then revealed to Indonesia.
+
+Accordingly, the Kehelbadara Padkere of the Kehelbadara Padkeren, Commando Salin and Kudu Nilanga, has been revealed.
+
+...
+
+[Data](articles/205bc316.json)
+
+[Extended Data](ext_articles/205bc316.ext.json)
+
+---
+
+### We don't even have a glass of glass, the projects only need
+
+*2025-09-27 18:39:19* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ඇල්-වතුර-වීදුරවක්වත්-එපා--ව්‍යාපෘති-පමණයි-අවශ්‍ය/11-418755) · `si`
+
+We are obliged with the expectations and hopes of the country
+
+Sri Lanka's new translation will not be reversed
+
+In all areas of the country marked a critical turn
+
+- President says the President in the United States of Sri Lanka
+
+President Anura Kumara Dissanayake emphasized that he is obliged to oblige the expectations and hopes of the country and is not prepared to be subjected to the influence of the people.
+
+The President emphasized that the present government has marked the economic stability of the country, efficient public service, and corruption and corruption, and to end the corruption and corruption, and the brutality of the corruption.
+
+The next challenge that the country is in the face of the country is to make the country's victories to the ordinary people of the country and the budget of the next year is with that end.
+
+President Anura Kumara Dissanayake said this to the Sri Lankan community in New York, the US-time (25) at the United States of America.
+
+...
+
+[Data](articles/59de8f0d.json)
+
+[Extended Data](ext_articles/59de8f0d.ext.json)
+
+---
 
 ### Minister says a new program to eliminate drugs
 
@@ -2048,43 +2114,5 @@ COLOMBO(News 1st); The government has paid close attention to institutions issui
 [Data](articles/3c4bd6d5.json)
 
 [Extended Data](ext_articles/3c4bd6d5.ext.json)
-
----
-
-### Wattala Suspect Linked To Multiple Shootings
-
-*2025-09-27 09:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/wattala-suspect-linked-to-multiple-shootings) · `en`
-
-...
-
-[Data](articles/b9b32e1e.json)
-
-[Extended Data](ext_articles/b9b32e1e.ext.json)
-
----
-
-### Police Act Against 4,630 Criminals In Year
-
-*2025-09-27 09:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/police-act-against-4-630-criminals-in-year) · `en`
-
-COLOMBO(News 1st); Police Headquarters announced that action has been taken against 4,630 criminals over the past year.Police Media Spokesperson, Assistant Superintendent of Police, F. U. Wootler, stated that 5.1 million individuals were checked, leading to 142,000 arrests.He further noted that 45,490 day warrants and 30,884 open warrants were issued to apprehend suspects.
-
-◼️
-
-[Data](articles/5049d53c.json)
-
-[Extended Data](ext_articles/5049d53c.ext.json)
-
----
-
-### President Dissanayake In Japan Visit
-
-*2025-09-27 09:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/president-dissanayake-in-japan-visit) · `en`
-
-...
-
-[Data](articles/a4543c86.json)
-
-[Extended Data](ext_articles/a4543c86.ext.json)
 
 ---

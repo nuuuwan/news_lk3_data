@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 12:37:11**
+As of **2025-09-27 13:20:24**
 
 ## Newspaper Stats
 
-*Scraped **78,871** Articles*
+*Scraped **78,881** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 316
+lankadeepalk | 322
 newsfirstlk | 435
 dbsjeyarajcom | 635
 bbccomsinhala | 705
@@ -19,33 +19,77 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,623
 adaderanalk | 10,195
-tamilmirrorlk | 11,826
-virakesarilk | 12,804
+tamilmirrorlk | 11,827
+virakesarilk | 12,807
 adaderanasinhalalk | 13,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,868 (100.0%) of 78,871 articles have been extended.
+78,880 (100.0%) of 78,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### பிரான்ஸ் ஜனாதிபதியை சந்தித்தார் அநுர
+### பெண் கொடூர கொலை : ஒருவர் கைது
+
+*2025-09-27 12:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கொடூர-கொலை-ஒருவர்-கைது/175-365365) · `ta`
+
+வெலிக்கடை - அங்கொடை பகுதியில் நேற்று பெண்ணொருவர்  கூரிய ஆயுதத்தால் தாக்கப்பட்டு கொலை செய்யப்பட்டுள்ளதாக வெலிக்கடை பொலிஸார் தெரிவித்தனர்.
+
+கொலைசெய்யப்பட்டவர் அங்கொடை , அக்கொன பகுதியைச் சேர்ந்த 65 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+பெண்ணுக்கும் எதிர் வீட்டில் வசிக்கும் நபருக்கும் இடையில் ஏற்பட்ட தகராறு காரணமாக இந்த கொலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தாக்குதலுக்குள்ளான பெண் முல்லேரியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், சிகிச்சை பலனின்றி உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+எதிர் வீட்டில் வசிக்கும் நபரும், கொலைசெய்யப்பட்ட பெண்ணும் ஒரே நிறுவனத்தில் பணியாளராகப் பணிபுரிந்து வந்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+இதனையடுத்து எதிர் வீட்டில் வசிக்கும் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன், வெலிக்கடை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறனர். R
+
+◼️
+
+[Data](articles/228a58a6.json)
+
+---
+
+### US President Donald Trump - President Anurakumara
+
+*2025-09-27 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226231) · `ta`
+
+There is a meeting between US President Donald Trump and President Anura Kumara Dissanayake.
+
+The meeting took place on the 23rd of last month at the Lotte New York Palace Hotel in New York City, USA.
+
+The meeting took place during a dinner party organized by US President Donald Trump for the head of state for the head of state to attend the 80th General Assembly session of the United Nations.
+
+President Anurakumara posted on his Facebook page that there was a concurry conversation between President Donald Trump and President Anuragumara Dissanayake.
+
+◼️
+
+[Data](articles/b304d04c.json)
+
+[Extended Data](ext_articles/b304d04c.ext.json)
+
+---
+
+### Anura met French president
 
 *2025-09-27 12:13:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-ஜனாதிபதியை-சந்தித்தார்-அநுர/175-365364) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் (BBNJ) பிரகடன உடன்படிக்கையின் அங்கத்துவத்தில் 60 நாடுகள் நிறைவு செய்ததை முன்னிட்டு, பிரான்ஸ் அரசாங்கம் சிறப்பு நிகழ்வை ஏற்பாடு செய்திருந்தது.
+The French government has organized a special event in view of the completion of 60 countries in the membership of the United Nations (BBNJ) Declaration of Declaration.
 
-இந்த உடன்படிக்கையில் அங்கம் வகிக்கும் உறுப்பு நாடான இலங்கையைப் பிரதிநிதித்துவப்படுத்தி, ஜனாதிபதி அநுரகுமார திசாநாயக்கவும் இந்நிகழ்வில் கலந்துகொண்டார்.
+President Anura Kumara Dissanayake also participated in the event, representing Sri Lanka, a member of the agreement.
 
-இதன்போது, பிரான்ஸ் ஜனாதிபதி இமானுவேல் மெக்ரோனை சந்தித்த ஜனாதிபதி அநுரகுமார திசாநாயக்க சுமுகமான உரையாடலில் ஈடுபட்டதாக தெரிவிக்கப்படுகின்றது. R
+It is reported that President Anura Kumara Dissanayake, who met French President Emanuel Macron, was involved in a smooth conversation.. Remble
 
 ◼️
 
 [Data](articles/3eb9f046.json)
+
+[Extended Data](ext_articles/3eb9f046.ext.json)
 
 ---
 
@@ -95,6 +139,34 @@ The visit is aimed at facilitating new trade, investment, and collaboration oppo
 
 ### The opposition asks for good food
 
+*2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වපකෂය-හඳ-කම-ඉලලය/1-680308) · `si`
+
+Opposition MPs have requested Speaker of Opposition to temporarily close it and correct the errors, as they have stated that there is a problem with the kitchen kitchen.
+
+The new Democratic Front of the New Democratic Front is a significant responsibility to provide a clean meal for parliamentary foods in this regard.
+
+The Speaker has said that all necessary work will be done to correct all the wrongs in the parliamentary kitchen.
+
+A special committee was also appointed by the Speaker to look into the shortcomings of the kitchen kitchen.
+
+The Speaker was addressing a meeting in Polonnaruwa and stated that the kitchen of the Parliament was a bad
+
+The Speaker said that some food was prepared for salad even for its dirtyness.
+
+Meanwhile, employees allege that some heads are trying to persuade the media shows that the Speaker's statement is high by the Speaker.
+
+They say that the kitchen has been laundering in a period of time and is a timely need to correct this situation.
+
+...
+
+[Data](articles/238a0ffc.json)
+
+[Extended Data](ext_articles/238a0ffc.ext.json)
+
+---
+
+### The opposition asks for good food
+
 *2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වපකෂය-හඳ-කම-ඉලලය/101-680308) · `si`
 
 Opposition MPs have requested Speaker of Opposition to temporarily close it and correct the errors, as they have stated that there is a problem with the kitchen kitchen.
@@ -121,6 +193,24 @@ They say that the kitchen has been laundering in a period of time and is a timel
 
 ---
 
+### Anura-Trump is a friendly chat
+
+*2025-09-27 11:56:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අනර-ටරමප-සහඳ-කතබහක/1-680307) · `si`
+
+President Anura Kumara Dissanayake has placed a note on his official Facebook account for meeting US President Donald Trump in the United States.
+
+"The US President Donald Trump was presented by the US President Donald Trump on the 23rd of the United Nations Leaders in New York.
+
+President Anura Kumara Dissanayake said President Anura Kumara Dissanayake said.
+
+◼️
+
+[Data](articles/1a069ba8.json)
+
+[Extended Data](ext_articles/1a069ba8.ext.json)
+
+---
+
 ### President Anura Kumara attends dinner reception hosted by Donald Trump
 
 *2025-09-27 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112958/president-anura-kumara-attends-dinner-reception-hosted-by-donald-trump) · `en`
@@ -134,6 +224,8 @@ During the occasion, President Dissanayake also engaged in a cordial conversatio
 ◼️
 
 [Data](articles/2431154a.json)
+
+[Extended Data](ext_articles/2431154a.ext.json)
 
 ---
 
@@ -154,6 +246,48 @@ The van is raised by the van while the van was taken out of a large tree while h
 [Data](articles/90b2cc00.json)
 
 [Extended Data](ext_articles/90b2cc00.ext.json)
+
+---
+
+### 11 hospitalized at threw accident
+
+*2025-09-27 11:47:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සරබර-අනතරන-11ක-රහලට/1-680306) · `si`
+
+The Mahiyanganaya Police said that 11 people were injured and admitted to a van that had taken a van in the Sorborra Van area today (26).
+
+A resident of Kilagoda, Badulla, has been injured in accidents accident
+
+Among the injured were six women, including a 10-year-old child.
+
+The van is raised by the van while the van was taken out of a large tree while he was traveling back to Badulla and had been deprived of a large tree while the van was taken out of the van while the injured police officers were rushed to the Mahiyangana Hospital.
+
+◼️
+
+[Data](articles/aac483d0.json)
+
+[Extended Data](ext_articles/aac483d0.ext.json)
+
+---
+
+### Doctor injured in accident
+
+*2025-09-27 11:35:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මටර-රථ-අනතරන-තවල-ලබ-වදයවරයක-රහලට/1-680305) · `si`
+
+Piliyandala Police say that a car riding a doctor in the Jridagoda area in Piliyandala
+
+The front section of two shop in the accident has been seriously damaged
+
+The doctor had reported this accident in front of the two shops and collided with the shops in the front of the shops.
+
+Police said that the doctor was admitted to hospital due to a serious illness
+
+In the accident and the front of the two stores of the two shops have been treated
+
+◼️
+
+[Data](articles/4de51bcd.json)
+
+[Extended Data](ext_articles/4de51bcd.ext.json)
 
 ---
 
@@ -200,6 +334,66 @@ This Agreement covered with 2/3 oceans in the world, it is taken to sustain the 
 [Data](articles/1c7ae929.json)
 
 [Extended Data](ext_articles/1c7ae929.ext.json)
+
+---
+
+### President to be held in America
+
+*2025-09-27 11:33:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරශය-ඇමරකව-පවත-ව-උතසවයකට-ජනපතත-යය/1-680304) · `si`
+
+President Anura Kumara Dissanayake was also present at a function organized by the French government to mark the completion of 60 countries on the United Nations Convention on Marine Biodiversity in the area.
+
+French President Emanuel Mcron was held in New York with the participation of Heads of State.
+
+President Anura Kumara Dissanayake was attended by Sri Lanka as a member country in a member of the agreement.
+
+As the 58th member country, Sri Lanka made up on September 16, 2025, and the parties of the agreement became a state of the agreement.
+
+After two decades of discussions, this agreement is known as the BBNJ, which is known as BBNJ, have already signed 60 countries.
+
+This Agreement covered with 2/3 oceans in the world, it is taken to sustain the ocean biodiversity, sustainable use, sustainable use of ocean biodiversity and share the biodiversity benefits to areas. The agreement is to be officially implemented since January 17, 2026.
+
+◼️
+
+[Data](articles/c82a2150.json)
+
+[Extended Data](ext_articles/c82a2150.ext.json)
+
+---
+
+### 9 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை!
+
+*2025-09-27 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226226) · `ta`
+
+The National Building Research Institute (NBRO) said that nine districts have been warned due to heavy rains in some parts of the country.
+
+Accordingly, the National Building Research Institute further stated that the landslides have been issued to the districts of Colombo, Kalutara, Galle, Matara, Kandy, Nuwara Eliya, Kegalle, Ratnapura and Kurunegala.
+
+◼️
+
+[Data](articles/80479839.json)
+
+[Extended Data](ext_articles/80479839.ext.json)
+
+---
+
+### Accident on Monaragala - Matara main road; One kills!
+
+*2025-09-27 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226215) · `ta`
+
+Lunugamvehera police said that one person was killed in a vehicle accident near the 70th road junction on the Moneragala - Matara main road.
+
+The accident occurred when a bus heading towards Lunugamvehera was trying to overtake a motorcycle.
+
+The driver of the motorcycle was seriously injured and admitted to the Tanamalwila Hospital and later transferred to the Hambantota Hospital for further treatment.
+
+The driver of the bus has been arrested in connection with the accident and Lunugamvehera police are conducting further investigations.
+
+◼️
+
+[Data](articles/d64ad409.json)
+
+[Extended Data](ext_articles/d64ad409.ext.json)
 
 ---
 
@@ -1912,165 +2106,5 @@ The Committee on Public Enterprises (COPE), the Chairman of Parliament (COPE met
 [Data](articles/2779452f.json)
 
 [Extended Data](ext_articles/2779452f.ext.json)
-
----
-
-### Dozens Walk Out As Netanyahu's UN Address Begins
-
-*2025-09-26 20:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/dozens-walk-out-as-netanyahu-s-un-address-begins) · `en`
-
-...
-
-[Data](articles/7cbde413.json)
-
-[Extended Data](ext_articles/7cbde413.ext.json)
-
----
-
-### 2026 Appropriation Bill Presented To Parliament
-
-*2025-09-26 20:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/26/2026-appropriation-bill-presented-to-parliament) · `en`
-
-COLOMBO( News 1st); The Appropriation Bill for the 2026 fiscal year was presented to Parliament today by Acting Minister of Finance, Professor Anil Jayantha Fernando.According to the Appropriation bill, which the current government intends to submit as its second budget, total government expenditure for the year 2026 is projected at Rs. 4,434 billion.
-
-...
-
-[Data](articles/3f14cb46.json)
-
-[Extended Data](ext_articles/3f14cb46.ext.json)
-
----
-
-### COPE Amendments revision to strengthen the COPE
-
-*2025-09-26 20:10:59* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-කමිටුව-ශක්තිමත්-කිරීමට-ස්ථාවර-නියෝග-සංශෝධනය-කරයි/11-418750) · `si`
-
-A proposal to revise the Standing Orders regarding serious financial frauds and corruption against the committee of the Committee (COPE) was presented to Parliament today (26).
-
-Committees of the Committee Dr. Nishantha Samaraweera made the proposal for the current Standing Orders of the Committee in terms of 137 Standing Orders of Parliament.
-
-According to the amendment of these proposals, the committee concludes that the Auditor General has taken serious financial frauds or corruption, the Committee may directly direct the bribery or corruption to the Commission directly to the Commission directly to the Commission directly to the Commission or the Corruption.
-
-◼️
-
-[Data](articles/56492bf2.json)
-
-[Extended Data](ext_articles/56492bf2.ext.json)
-
----
-
-### Special Financial Assistance - Minister of Fisheries from the President's Fund for the education of the children of fishermen
-
-*2025-09-26 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226200) · `ta`
-
-Minister of Fisheries, Aquaticity and Marine Resources Ramalingam Chandrasekhar said at a media briefing to clarify the activities of the President's Fund at the Government Information Department on September 25, 2025.
-
-Minister of Fisheries, Aquaticity and Marine Resources Ramalingam Chandrasekhar, Deputy Foreign Affairs, Foreign Employment and Tourism Minister Arun Hemachandra. Additional Secretary of the Ministry of Roshan, Foreign Affairs, Foreign Employment and Tourism, Dr. Sukat Yalegama, President of the Sri Lanka Foreign Employment Bureau, Kosala Wickremesinghe and many others were present.
-
-The Minister said at the meeting that the fishermen who contributed greatly to the economy of the country and the people's protein have been subjected to many difficulties and social margins.. The Minister also pointed out that the educational and life paths of the children of the missing, accidental or imprisoned abroad have been affected.
-
-...
-
-[Data](articles/5d54cd0a.json)
-
-[Extended Data](ext_articles/5d54cd0a.ext.json)
-
----
-
-### Tissamaharama shot dead
-
-*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තසසමහරම-වඩ-තබමකන-අයක-මරට/101-680293) · `si`
-
-A person has been shot dead at the Mutimgama area in Tissamagama area around 5 pm yesterday, police said.
-
-The murdered was a resident of Tissamaharama Mutumamgama No. 1223.
-
-The police said that he was shot dead while he was in the garage at the Mutimamgama School.
-
-The suspects had been a paramount with the son of the suspect's son and had taken place between the deceased and the suspect, police said.
-
-◼️
-
-[Data](articles/c70c0551.json)
-
-[Extended Data](ext_articles/c70c0551.ext.json)
-
----
-
-### Tissamaharama shot dead
-
-*2025-09-26 19:58:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තසසමහරම-වඩ-තබමකන-අයක-මරට/1-680293) · `si`
-
-A person has been shot dead at the Mutimgama area in Tissamagama area around 5 pm yesterday, police said.
-
-The murdered was a resident of Tissamaharama Mutumamgama No. 1223.
-
-The police said that he was shot dead while he was in the garage at the Mutimamgama School.
-
-The suspects had been a paramount with the son of the suspect's son and had taken place between the deceased and the suspect, police said.
-
-◼️
-
-[Data](articles/ca551377.json)
-
-[Extended Data](ext_articles/ca551377.ext.json)
-
----
-
-### The Bribery Commission implements the government's repression - Nalin Bandara
-
-*2025-09-26 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226191) · `ta`
-
-What is the position of the government on the fact that a member of the JVP's legal section has been appointed as the Chairman of the Commission on Bribery or Corruption? United People's Power Kurunegala District Parliamentarian Nalin Bandara said that the Bribery Commission is completely politicized and implemented the repression of the government.
-
-He said this while addressing the adjournment debate on the Cobb Committee Report held in Parliament on Friday (26).
-
-Cobb group must explore current activities and irregularities as in the past. Pillaiyan's assistant has received 250 acres of royalty in Pasikuda area. No action has been taken so far as the land has been instructed by the Land Reconstruction Commission.
-
-The operations of the Ports Authority are problematic.  The recent release of 323 containers from Customs has caused massive controversy. Will the Customs and Port Authority be invited to the Cobb Committee in the coming days,
-
-...
-
-[Data](articles/342eb1ee.json)
-
-[Extended Data](ext_articles/342eb1ee.ext.json)
-
----
-
-### China will make enormous contribution to the noble purpose of peace and development - Chinese Ambassador
-
-*2025-09-26 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226199) · `ta`
-
-Chinese Ambassador to Sri Lanka, Qi Zhenhong, said that on the new era, the Chinese nation will bring new and enormous glory and make new and enormous contributions to the noble purpose of human peace and development.
-
-A welcome ceremony was held at the Chinaman Life Hotel, Colombo on Thursday (25) to mark the 76th anniversary of the establishment of the People's Republic of China.  The Chinese ambassador said this while addressing the event.
-
-He emphasized the enormous growth of China over the past 76 years, China's commitment to the global arena and the deep friendship between Sri Lanka and China.
-
-In the last 76 years, China has emerged as an open and progressive country, which is headed by the Chinese Communist Party (CPC), from an isolated, backward position to all kinds of moderate prosperity.
-
-Today's China is thriving in all sectors. In particular, digital economy and artificial intelligence are committed to the development and high quality growth.
-
-...
-
-[Data](articles/252d7553.json)
-
-[Extended Data](ext_articles/252d7553.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2025-09-26 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215049) · `si`
-
-Sri Lanka and India be held today (26)
-
-Sri Lanka won the toss and decided to bowl first.
-
-◼️
-
-[Data](articles/153b518c.json)
-
-[Extended Data](ext_articles/153b518c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 21:05:47**
+As of **2025-09-27 21:38:39**
 
 ## Newspaper Stats
 
-*Scraped **78,987** Articles*
+*Scraped **78,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,73 @@ islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,626
 adaderanalk | 10,206
-tamilmirrorlk | 11,832
+tamilmirrorlk | 11,835
 virakesarilk | 12,837
-adaderanasinhalalk | 13,714
+adaderanasinhalalk | 13,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,987 (100.0%) of 78,987 articles have been extended.
+78,988 (100.0%) of 78,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
+
+### கரூர் செய்தி கவலையளிக்கிறது: தமிழக முதல்வர்
+
+*2025-09-27 21:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-செய்தி-கவலையளிக்கிறது-தமிழக-முதல்வர்/175-365385) · `ta`
+
+◼️
+
+[Data](articles/913c4962.json)
+
+---
+
+### விஜய் கூட்டத்தில் 2பேர்9  உயிரிழப்பு.
+
+*2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-2பேர்9-உயிரிழப்பு/175-365384) · `ta`
+
+தமிழகத்தின் கரூரில் விஜய் நடத்திய பரப்புரையில் ஏற்பட்ட நெரிசலில் சிக்கி 3 குழந்தைகள் உட்பட 29 பேர் உயிரிழப்பு.
+
+◼️
+
+[Data](articles/ebe168d0.json)
+
+---
+
+### இலங்கையில் சடுதியாக அதிகரிக்கும் விவாகரத்து
+
+*2025-09-27 20:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சடுதியாக-அதிகரிக்கும்-விவாகரத்து/175-365383) · `ta`
+
+இலங்கையில் அதிகரித்து வரும் விவாகரத்து விகிதம் காரணமாக பெண்கள் தலைமைதாங்கும் குடும்பங்களின் எண்ணிக்கை சீராக உயர்ந்து வருவதாக களனிப் பல்கலைக்கழகத்தின் சமூகவியல் துறையின் சிரேஷ்ட விரிவுரையாளர் கலாநிதி அனோஷா எதிரிசிங்க தெரிவித்தார்.
+
+பெண்களின் நிதி நிலைத்தன்மையை வலுப்படுத்துவது அவர்களின் குடும்பங்களின் நல்வாழ்வுக்கும் பரந்த சமூகத்துக்கும் அத்தியாவசியமானது என்றும் அவர் வலியுறுத்தினார்.
+
+எனவே, பெண்களுக்குப் பொருளாதார ரீதியாக அதிகாரம் அளிக்க வேண்டியதன் அவசரத் தேவையையும் அவர் சுட்டிக்காட்டினார். R
+
+◼️
+
+[Data](articles/4af83bbb.json)
+
+---
+
+### Landslide warnings are issued for several areas
+
+*2025-09-27 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215080) · `si`
+
+The National Building Research Organization (NBRO) has issued a landslide warning notification for several areas due to the inclement weather that has affected the island.
+
+The announcement is valid from 4.00 pm to 4.00 pm tomorrow (27).
+
+◼️
+
+[Data](articles/f8b655fd.json)
+
+[Extended Data](ext_articles/f8b655fd.ext.json)
+
+---
 
 ### Let's build a world where everyone can shine together
 
@@ -2006,91 +2060,5 @@ The visit is aimed at facilitating new trade, investment, and collaboration oppo
 [Data](articles/5043c046.json)
 
 [Extended Data](ext_articles/5043c046.ext.json)
-
----
-
-### When Journalism Amplifies Apartheid: The Jaffna Monitor & The Israeli Narrative
-
-*2025-09-27 11:59:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-journalism-amplifies-apartheid-the-jaffna-monitor-the-israeli-narrative/) · `en`
-
-...
-
-[Data](articles/8ff6f481.json)
-
-[Extended Data](ext_articles/8ff6f481.ext.json)
-
----
-
-### The opposition asks for good food
-
-*2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වපකෂය-හඳ-කම-ඉලලය/1-680308) · `si`
-
-Opposition MPs have requested Speaker of Opposition to temporarily close it and correct the errors, as they have stated that there is a problem with the kitchen kitchen.
-
-The new Democratic Front of the New Democratic Front is a significant responsibility to provide a clean meal for parliamentary foods in this regard.
-
-The Speaker has said that all necessary work will be done to correct all the wrongs in the parliamentary kitchen.
-
-A special committee was also appointed by the Speaker to look into the shortcomings of the kitchen kitchen.
-
-The Speaker was addressing a meeting in Polonnaruwa and stated that the kitchen of the Parliament was a bad
-
-The Speaker said that some food was prepared for salad even for its dirtyness.
-
-Meanwhile, employees allege that some heads are trying to persuade the media shows that the Speaker's statement is high by the Speaker.
-
-They say that the kitchen has been laundering in a period of time and is a timely need to correct this situation.
-
-...
-
-[Data](articles/238a0ffc.json)
-
-[Extended Data](ext_articles/238a0ffc.ext.json)
-
----
-
-### The opposition asks for good food
-
-*2025-09-27 11:58:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වපකෂය-හඳ-කම-ඉලලය/101-680308) · `si`
-
-Opposition MPs have requested Speaker of Opposition to temporarily close it and correct the errors, as they have stated that there is a problem with the kitchen kitchen.
-
-The new Democratic Front of the New Democratic Front is a significant responsibility to provide a clean meal for parliamentary foods in this regard.
-
-The Speaker has said that all necessary work will be done to correct all the wrongs in the parliamentary kitchen.
-
-A special committee was also appointed by the Speaker to look into the shortcomings of the kitchen kitchen.
-
-The Speaker was addressing a meeting in Polonnaruwa and stated that the kitchen of the Parliament was a bad
-
-The Speaker said that some food was prepared for salad even for its dirtyness.
-
-Meanwhile, employees allege that some heads are trying to persuade the media shows that the Speaker's statement is high by the Speaker.
-
-They say that the kitchen has been laundering in a period of time and is a timely need to correct this situation.
-
-...
-
-[Data](articles/e772ac4d.json)
-
-[Extended Data](ext_articles/e772ac4d.ext.json)
-
----
-
-### Anura-Trump is a friendly chat
-
-*2025-09-27 11:56:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අනර-ටරමප-සහඳ-කතබහක/1-680307) · `si`
-
-President Anura Kumara Dissanayake has placed a note on his official Facebook account for meeting US President Donald Trump in the United States.
-
-"The US President Donald Trump was presented by the US President Donald Trump on the 23rd of the United Nations Leaders in New York.
-
-President Anura Kumara Dissanayake said President Anura Kumara Dissanayake said.
-
-◼️
-
-[Data](articles/1a069ba8.json)
-
-[Extended Data](ext_articles/1a069ba8.ext.json)
 
 ---

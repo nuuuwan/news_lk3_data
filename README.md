@@ -1,133 +1,45 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-27 16:52:35**
+As of **2025-09-27 16:36:32**
 
 ## Newspaper Stats
 
-*Scraped **78,932** Articles*
+*Scraped **78,922** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 339
 newsfirstlk | 439
 dbsjeyarajcom | 635
-bbccomsinhala | 706
+bbccomsinhala | 705
 colombotelegraphcom | 793
 economynextcom | 4,728
 dailymirrorlk | 4,733
 islandlk | 4,812
 dailyftlk | 5,565
 adalk | 7,624
-adaderanalk | 10,200
+adaderanalk | 10,199
 tamilmirrorlk | 11,830
-virakesarilk | 12,820
-adaderanasinhalalk | 13,708
+virakesarilk | 12,815
+adaderanasinhalalk | 13,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-78,922 (100.0%) of 78,932 articles have been extended.
+78,921 (100.0%) of 78,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-27 (Saturday)
 
-### AI තාක්ෂණය ගැන මධ්‍යම පළාත් රාජ්‍ය නිලධාරීන් දැනුවත් කෙරේ
-
-*2025-09-27 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215073) · `si`
-
-රජයේ ඩිජිටල්කරණ වැඩසටහන සහ AI තාක්ෂණ භාවිතය පිළිබඳව රජයේ විධායක නිලධාරීන් පළාත් මට්ටමින් දැනුවත් කිරීමේ වැඩසටහන් මාලාවෙහි පළමු පළාත් වැඩසටහන ඊයේ (26) මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේදී පැවැත්විණි.
-
-රජයේ ඩිජිටල්කරණ සැලසුම් පැහැදිළි කිරීම සහ AI තාක්ෂණ භාවිතය පිළිබඳව නිලධාරීන්ගේ සාක්ෂරතාවය ඉහළ නැංවීමේ අරමුණින් සංවිධානය කරන ලද මෙම වැඩසටහන මධ්‍යම පළාත් සභාව, දිස්ත්‍රික් ලේකම් කාර්යාල, ප්‍රාදේශීය ලේකම් කාර්යාල සහ රජයේ අනෙකුත් ආයතනවල සියලුම විධායක නිලධාරින්ගේ සහභාගීත්වයෙන් පැවැත්විණි.
-
-ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව රජයේ නිලධාරීන් දැනුවත් කිරීමේ වැඩසටහන් 6ක් කොළඹ කේන්ද්‍ර කරගනිමින් මේ වන විට පවත්වා ඇති අතර ඒ සඳහා නිලධාරීන් 4,000කට වැඩි පිරිසක් සහභාගී විය.
-
-සියලු පළාත් ආවරණය වන පරිදි පළාත් මට්ටමින් මෙම වැඩසටහන පවත්වා රජයේ ඩිජිටල්කරණ සැලසුම පිළිබඳ රාජ්‍ය නිලධාරියාගේ කාර්යභාරය සහ AI තාක්ෂණය රජයේ කටයුතු සඳහා භාවිතයට යොදා ගැනීම පිළිබඳව කොළඹින් බැහැර සිටින සියලුම රාජ්‍ය නිලධාරීන් දැනුවත් කිරිමට සැලසුම් කර ඇත.
-
-...
-
-[Data](articles/be8f302c.json)
-
----
-
-### ජනපති හා ට්‍රම්ප් අතර හමුවක්
-
-*2025-09-27 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215072) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර හමුවක් සිදුව තිබේ.
-
-එහිදී අමෙරිකානු ජනාධිපතිවරයා විසින් අනුර කුමාර දිසානායක මහතා ඉතා උණුසුම් ලෙස පිළිගෙන තිබූ අතර සුහද කථාබහක ද නිරත වූ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
-
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වන සැසිවාරයට සහභාගි වීම සඳහා නිව්යෝක් නුවරට පැමිණ සිටි රාජ්‍ය නායකයින් වෙනුවෙන් අමෙරිකානු ජනාධිපතිවරයා පිරිණමන ලද විශේෂ රාත්‍රී භෝජන සංග්‍රහය අතරතුර මෙම හමුව සිදුව ඇත.
-
-◼️
-
-[Data](articles/5f3e848b.json)
-
----
-
-### I will write the budget ...
+### பட்ஜெட்டை இந்த பேனாவுலதான் எழுதுவேன்...
 
 *2025-09-27 16:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்ஜெட்டை-இந்த-பேனாவுலதான்-எழுதுவேன்/175-365368) · `ta`
 
 ◼️
 
 [Data](articles/834d9295.json)
-
-[Extended Data](ext_articles/834d9295.ext.json)
-
----
-
-### நாரஹேன்பிட்டி புகையிரத நிலையத்தை நவீனமயப்படுத்தும் திட்டம் ஆரம்பம்
-
-*2025-09-27 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226244) · `ta`
-
-“Clean Sri Lanka” வேலைத்திட்டத்துடன் இணைந்தவகையில் செயற்படுத்தப்படும்  “Dream Destination” வேலைத்திட்டத்தின் கீழ் நாரஹேன்பிட்டி புகையிரத நிலையத்தை நவீனமயப்படுத்தும் வேலைத்திட்டம் சனிக்கிழமை (27) ஆரம்பிக்கப்பட்டது.
-
-களனிவெளிப் பாதையின் மற்றுமொரு தனித்துவமான புகையிரத நிலையமாக கருதப்படும் நாரஹேன்பிட்டி புகையிரத நிலையம், கொடா வீதி புகையிரத நிலையத்திற்கும் கிருலப்பன புகையிரத நிலையத்திற்கும் இடையில் அமைந்துள்ளது.
-
-கொழும்பிலிருந்து 5.06 கி.மீ தூரத்திலும், கடல் மட்டத்திலிருந்து 3.72 மீ உயரத்திலும் அமைந்துள்ள இந்த புகையிரத நிலையம், இரண்டு பிரதான மேடைகளையும் ஒரு பயணச்சீட்டு கவுண்டரையும் கொண்டுள்ளது.
-
-தொழில் திணைக்களம், போக்குவரத்துத் திணைக்களம், நில அளவைத் திணைக்களம் உள்ளிட்ட பல அரச, அரை - அரச மற்றும் தனியார் நிறுவனங்களுக்கு அருகில் அமைந்துள்ள இந்த புகையிரத நிலையத்தை, அன்றாட கடமைகளுக்காக வரும் ஏராளமான பயணிகள் பயன்படுத்தி வருகின்றனர்.
-
-...
-
-[Data](articles/5ab5959f.json)
-
----
-
-### South Korea has asked Trump to be ‘peacemaker’ with North Korea: FM Hyun
-
-*2025-09-27 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112963/south-korea-has-asked-trump-to-be-peacemaker-with-north-korea-fm-hyun) · `en`
-
-South Korea’s president has asked President Donald Trump to become a peacemaker and use his leadership to get North Korea to talks to reduce military tensions on the Korean Peninsula, the South’s top diplomat said Friday.
-
-Trump welcomed the request from President Lee Jae-myung and he expressed his willingness to be engaged with North Korea again, Foreign Minister Cho Hyun said in an interview with The Associated Press. There was no immediate word from the White House.
-
-Trump and North Korean leader Kim Jong Un met three times as North Korea was building a nuclear weapons stockpile, which Kim views as key to the country’s security and his continued rule of the northeast Asian country.
-
-...
-
-[Data](articles/2b5a51e2.json)
-
----
-
-### අද හවසටත් වැස්ස
-
-*2025-09-27 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215071) · `si`
-
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එමෙන්ම ඌව පළාතේත් අම්පාර දිස්ත්‍රික්කයේත් ප.ව. 2.00න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකියි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු - මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති විය හැකි බව වාර්තා වේ.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටින්නේ තද සුළං මඟින් සිදු විය හැකි අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
-
-◼️
-
-[Data](articles/d8d42cda.json)
 
 ---
 
@@ -252,46 +164,6 @@ The event was the second death of a professional fighter in Ghana within six mon
 [Data](articles/0c5814b3.json)
 
 [Extended Data](ext_articles/0c5814b3.ext.json)
-
----
-
-### இரண்டு பஸ்கள் நேருக்கு நேர் மோதி விபத்து!
-
-*2025-09-27 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226241) · `ta`
-
-கம்பஹாவில் பூகொடை - தொம்பே வீதியில் தொம்பே பிரதேசத்தில் இடம்பெற்ற பஸ் விபத்தில் இரண்டு பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-தொழிற்சாலை ஊழியர்களை ஏற்றிச் சென்ற பஸ் ஒன்று தனியார் பஸ்ஸுடன் நேருக்கு நேர் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது இரண்டு பஸ்களினதும் சாரதிகள் காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக பொலிஸார் மேலும் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/28501d02.json)
-
----
-
-### அதிக மின்சாரக் கட்டணத்திற்குக் காரணம் திறனற்ற மின் சாதனங்களின் பயன்பாடு ஆகும் - இலங்கை நிலைபெறுதகு சக்தி அதிகாரசபை
-
-*2025-09-27 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226240) · `ta`
-
-அதிக மின்சாரக் கட்டணத்திற்கு காரணம் திறனற்ற மின் சாதனங்களின் பயன்பாடு என இலங்கை நிலைபெறுதகு சக்தி அதிகாரசபை (Sri Lanka Sustainable Energy Authority) தெரிவித்துள்ளது.
-
-கொழும்பில் நடைபெற்ற நிகழ்வொன்றிற்கு பின்னர் ஊடகங்களுக்குப் கருத்துரைத்த அதிகாரசபையின் பணிப்பாளர் ஜெனரல் ஹர்ஷ விக்ரமசிங்க இதனைத் தெரிவித்தார்.
-
-இந்த இழப்பு பெரும்பாலும் 10 ஆண்டுகளுக்கும் மேலான குளிர்சாதனப் பெட்டிகளைப் பயன்படுத்துவதால் ஏற்படுகிறது.
-
-ஆய்வுகளின் போது, இலங்கையில் உள்ள வீடுகளில் அதிக மின்சாரக் கட்டணத்திற்கு காரணமாக இருப்பது திறனற்ற மின் சாதனங்களின் பயன்பாடு ஆகும்.
-
-இந்தப் பிரச்சனை பொதுவாக 10 ஆண்டுகளுக்கும் மேலாகப் பயன்படுத்தப்படும் குளிர்சாதனப் பெட்டிகளில் காணப்படுவதாக குறிப்பிட்டார்.
-
-மேல் மாகாணத்தில் உள்ள வீடுகளில் மூன்றில் ஒரு குளிர்சாதனப் பெட்டி பயன்படுத்த முடியாத நிலையில் உள்ளது.
-
-இந்த வருட இறுதிக்குள் காற்று சீரமைப்பிக்கும் (air conditioners)  இதே விதி கடுமையாக்கப்படும் எனவும் இலங்கை நிலைபெறுதகு வலு அதிகாரசபையின் பணிப்பாளர் ஜெனரல் ஹர்ஷ விக்ரமசிங்க தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/06fafc1f.json)
 
 ---
 
@@ -657,22 +529,6 @@ In the recent past, the Criminal Investigation Department and the Attorney Gener
 
 ---
 
-### நாட்டின் கணினி கல்வியறிவு விகிதம் குறைவு!
-
-*2025-09-27 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226234) · `ta`
-
-2024 ஆம் ஆண்டில் நாட்டில் ஐந்தில் இருவர் மட்டுமே கணினி கல்வியறிவு பெற்றவர்கள் என தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் மதிப்பிட்டுள்ளது.
-
-அதற்கமைய, 64.1 சதவீத இலங்கையர்கள் கணினியைப் பயன்படுத்த முடியாத நிலையில் உள்ளனர் எனவும் தெரிவிக்கப்பட்டுள்ளது.
-
-கணக்கெடுப்பு முடிவுகள் 2023 முதல் 2024 வரை 3.1 சதவீத புள்ளிகள் குறைவதைக் காட்டுவதாகவும் தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம்; தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/41adb239.json)
-
----
-
 ### VIP - Assets of the Palmyra Comprehension - Liabilities
 
 *2025-09-27 13:00:03* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පරභ-නරපරභ-මලමව-වතකම-බරකම/2-680309) · `si`
@@ -692,28 +548,6 @@ Foreign Affairs Minister Vijitha Herath, the leaders of the national promos. Sev
 [Data](articles/3e773cc2.json)
 
 [Extended Data](ext_articles/3e773cc2.ext.json)
-
----
-
-### தங்காலை போதைப்பொருள் சம்பவம் ; வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்தவரின் மகனை பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்ய அனுமதி!
-
-*2025-09-27 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226235) · `ta`
-
-அம்பாந்தோட்டையில் தங்காலை, சீனிமோதர பகுதியில் செப்டெம்பர் 22 ஆம் திகதி வீடொன்றிலிருந்து இரண்டு சடலங்கள் மீட்கப்பட்டதுடன் அந்த வீட்டிலிருந்த மற்றுமொரு நபர் தங்காலை ஆதார வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்தார். இவ்வாறு உயிரிழந்தவரின் மகனை பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்யுமாறு தங்காலை நீதவான் நீதிமன்றம் நேற்று வெள்ளிக்கிழமை (26) அனுமதி வழங்கியுள்ளது.
-
-245 கிலோ கிராம் ஐஸ் மற்றும் 380 கிலோ கிராம் ஹெரோயின் உள்ளிட்ட போதைப்பொருட்களே இவ்வாறு கைப்பற்றப்பட்டுள்ளது.
-
-அத்துடன் 5 பிஸ்டல் ரக துப்பாக்கிகள் மற்றும் ஒரு ரி - 56 ரக துப்பாக்கிளும் கைப்பற்றப்பட்டுள்ளன.
-
-அதன்படி, உயிரிழந்தவரின் மகனை ஒக்டோபர் மாதம் 01 ஆம் திகதி வரை பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்யுமாறு நீதவான் அனுமதி வழங்கியுள்ளார்.
-
-வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்தவர் போதைப்பொருட்கள் அடங்கிய லொறியின் சாரதி என பொலிஸார் சந்தேகிக்கின்றனர்.
-
-இந்த சம்பவம் தொடர்பில் இதற்கு முன்னர் 06 பேர் கைதுசெய்யப்பட்டுள்ள நிலையில் அவர்கள் செப்டெம்பர் 29 ஆம் திகதி வரை பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/184684a8.json)
 
 ---
 
@@ -2090,5 +1924,209 @@ The President said last month that he would not implement any plans against the 
 [Data](articles/256ff690.json)
 
 [Extended Data](ext_articles/256ff690.ext.json)
+
+---
+
+### India wins the super-over
+
+*2025-09-27 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215054) · `si`
+
+Due to the weakest batsmen of the Asia Trophy Tsunami T20 cricket, the Sri Lankan team was defeated in the face of the Asia Trophy T20 cricket match yesterday.
+
+The competition was held at Dubai last night, completing the round of the Super Four Super Schools in the tournament.
+
+India scored 202 runs for the loss of 5 wickets in the 20 overs.
+
+However, Sri Lanka, near the target, scored 202 runs for the loss of 5 wickets in the 20 overs.
+
+A Great Innings Marked Rs.
+
+He won only 58 balls to the meeting and launched six sixes and seven fours.
+
+He was among the first batsman who scored a Tests and Twenty-Dual Century and Twenty20-century Tesh, with the wishes of Sri Lanka.
+
+Sri Lankan batsman was the highest number of runs in the international T20.
+
+Tillakaratne Dilshan had that report before. He was unbeaten on 104 runs against Australia in 2011.
+
+Kusal Mendis left the first wicket of the Sri Lankan innings, but Kusal Janith joined the second wicket.
+
+...
+
+[Data](articles/f4821817.json)
+
+[Extended Data](ext_articles/f4821817.ext.json)
+
+---
+
+### Directors of Asiri Hospital released on bail after being produced before court
+
+*2025-09-27 03:52:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g73vgyq91o) · `si`
+
+Directors of Asiri Hospital released on bail after being produced before court
+
+As Chairman of Ashok Pathirage, the Chairman of Ashok Pathirage, was released on bail after being filed in courtesy, was released on bail after being carried out by a resident of a resident of the prices of drugs.
+
+Accordingly, Asoka Pathirage, Manjula Pathirage, Manjula Karunaratne, Sudarshan Ahangama, Sivalis Premaratne, Sivakumar and Ajith Karunaratne were released on bail of Rs.
+
+The Acting Magistrate also ordered the recall of the warned warrants.
+
+According to a complaint lodged by the Ministry of Health, the National Drug Regulatory Authority (NDB) has filed the case against the directors of the hospital.
+
+The case was accused of receiving a maximum retail price for the drugs, Samarakoon Mudiyanselage, Kumarihami, who was given treatment at the Narahenpita area in February 07 and 19.
+
+The case was filed against the defendants under 11 charges.
+
+...
+
+[Data](articles/74434874.json)
+
+[Extended Data](ext_articles/74434874.ext.json)
+
+---
+
+### Opposition to Netanyahu in the UN
+
+*2025-09-27 03:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-நெதன்யாகுவுக்கு-எதிர்ப்பு/175-365359) · `ta`
+
+When Israeli Prime Minister Netanyahu addressed the UN General Assembly, several representatives, including various countries and officials, left the party.
+
+The 80th meeting of the UN General Assembly is being held in the United States. Israeli Prime Minister Benjamin Netanyahu addressed the gathering yesterday. In his speech, he said, “Palestine should not recognize a separate country. That recognition is parallel to the Israeli suicide. Countries that support Palestine on this issue should be ashamed. Israel is dealing with about seven conflicts with little support. ”
+
+Earlier, in a few seconds of Netanyahu's stage to make his speech, several representatives, including various country leaders and officials in the House, got up and walked away from their seats.
+
+Thus most of the seats were void during the Netanyahu text. Video related to this is going viral on social networks. It is noteworthy that Netanyahu's text was broadcast by loudspeakers on the Gaza border. (A)
+
+◼️
+
+[Data](articles/1ff5e7b1.json)
+
+[Extended Data](ext_articles/1ff5e7b1.ext.json)
+
+---
+
+### Palestine should not recognize a separate country for Palestine
+
+*2025-09-27 03:33:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலஸ்தீனத்துக்கு-தனி-நாடு-அங்கீகாரம்-கூடாது/50-365358) · `ta`
+
+Israeli Prime Minister Benjamin Netanyahu has said that their nation has suppressed the movement of extremist organizations, including Hamas, Houthi and Hizbullah.
+
+The UN. He said this while addressing the 80th meeting of the General Assembly on Friday. When he further addresses,
+
+I was showing this map when I spoke here last year. The extremist activity of Iran is mentioned in this map. This map is a threat to the world. This is the same for our region and nation. Iran is developing nuclear weapons and ballistic missiles. Iran intensifies in the appropriate project. This is not just to destroy Israel. It is a threat to world countries including the US. Iran is threatening other countries.
+
+...
+
+[Data](articles/8d24b20f.json)
+
+[Extended Data](ext_articles/8d24b20f.ext.json)
+
+---
+
+### Twin infant and mother death during childbirth
+
+*2025-09-27 03:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசவத்தின்-போது-இரட்டை-சிசுக்களும்-தாயும்-உயிரிழப்பு/175-365357) · `ta`
+
+Yall. The mother, who died of the deaths of twin babies at the Teaching Hospital, died without treatment.
+
+The deceased is Nimalaraj Sarumathi (age 28), a young mother of Somasundaram Road, Anaikottai.
+
+On Sunday, the 21st of this month. When two infants were delivered by surgery at the Teaching Hospital, one infant died and the fetus died in a few hours.
+
+The mother, who was still undergoing treatment, died yesterday morning (26) without treatment.
+
+Jaffna regarding this death. District Sudden Death Investigation Officer Arumugam Jayapalasingham conducted investigations. The witnesses were regulated by the Manipay police.
+
+Anatomical parts have been sent to Colombo for chemical analysis to detect the cause of death in the autopsy. (A)
+
+◼️
+
+[Data](articles/c8f233f0.json)
+
+[Extended Data](ext_articles/c8f233f0.ext.json)
+
+---
+
+### The Special Religious Series began to mark the 76th anniversary of the Army
+
+*2025-09-27 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226208) · `ta`
+
+The special religious event, which was organized to bless the 76th anniversary of the Sri Lankan army, began today with the religious observance of St. Jaya Sri Maha Bodhi, Anuradhapura, September 26, 2025.
+
+The religious event was chaired by Army Commander Lieutenant General Lasantha Rodrigo.
+
+The procession carrying the military flags that started from the Ruwanweli Maha Saya went to Jaya Sri Maha Bodhi and received blessings.
+
+These religious rituals are the Prime Minister of the Eight Worship. The event was chaired by Dr. Pallegama Hemaratne Nayaka Thera.
+
+The Hindu rituals were chaired by the army commander at the Sri Kandaswamy Temple complex in Vavuniya to bless the military flags.
+
+Subsequently, Army Commander Lieutenant General Lasantha Rodrigo made a special visit to the war -affected war -torn warfare welfare of the war -torn warfare, and inquired about their welfare.
+
+Senior officials, officers and soldiers participated in the events representing all the army's brigades.
+
+◼️
+
+[Data](articles/29f419d0.json)
+
+[Extended Data](ext_articles/29f419d0.ext.json)
+
+---
+
+### Many measures are needed to ensure the safety of domestic flights - Sajith Premadasa
+
+*2025-09-27 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226207) · `ta`
+
+Our country is high in comparison with other countries in the security of the airline. Opposition leader Sajith Premadasa, however, said that more measures should be taken to ensure the safety of domestic flights.
+
+He said this while addressing the adjournment of the House in Parliament on Friday (26).
+
+As a country, it is a pleasure to see that our air travel protection is at high level. The score for our country is 92 percent in the air safety score, which is a high -level score compared to other countries in our country.
+
+As a country, however, we need to take more attention to domestic aviation safety, especially if we take steps to improve air traffic safety. Because of the 2022 hecopter accident occurred. Similarly, accidents occurred during domestic flights over 2020,2021,2023.
+
+...
+
+[Data](articles/c095110c.json)
+
+[Extended Data](ext_articles/c095110c.ext.json)
+
+---
+
+### A confusing situation at the Akkaraippana Divisional Hospital
+
+*2025-09-27 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226206) · `ta`
+
+Some residents of the area alleged that a youth who was admitted to the hospital died and died because he was not treated properly.
+
+A 25 -year -old youth from the Bambarakala estate belonging to the Akkaraipattana police division has taken the house to the hospital on the 23rd of this month.
+
+In this case, the condition of the disease was intensified yesterday. Subsequently, the young man has brought his relatives to the hospital. The doctor who examined him was advised to stay and get treatment.
+
+In the meantime, some of the people of the area have been aggressive that they have entered the hospital and died due to lack of proper treatment.
+
+Subsequently, the police officers, including the officer in charge of the Akkaraipattana police station, rushed to the hospital.
+
+◼️
+
+[Data](articles/4247f272.json)
+
+[Extended Data](ext_articles/4247f272.ext.json)
+
+---
+
+### Cultivating circular futures: Youth as agents of change
+
+*2025-09-27 00:54:00* · [`economynextcom`](https://economynext.com/cultivating-circular-futures-youth-as-agents-of-change-241998/) · `en`
+
+On September 29, the world marks the International Day of Awareness on Food Loss and Waste, highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
+
+The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
+
+...
+
+[Data](articles/b185f16a.json)
+
+[Extended Data](ext_articles/b185f16a.ext.json)
 
 ---

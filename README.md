@@ -1,311 +1,35 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 08:57:12**
+As of **2025-09-28 05:20:05**
 
 ## Newspaper Stats
 
-*Scraped **79,047** Articles*
+*Scraped **79,014** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 358
-newsfirstlk | 446
+lankadeepalk | 356
+newsfirstlk | 442
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
-economynextcom | 4,732
+economynextcom | 4,731
 dailymirrorlk | 4,733
-islandlk | 4,828
+islandlk | 4,812
 dailyftlk | 5,565
-adalk | 7,628
-adaderanalk | 10,212
-tamilmirrorlk | 11,840
+adalk | 7,626
+adaderanalk | 10,210
+tamilmirrorlk | 11,837
 virakesarilk | 12,845
-adaderanasinhalalk | 13,721
+adaderanasinhalalk | 13,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,042 (100.0%) of 79,047 articles have been extended.
+79,014 (100.0%) of 79,014 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-09-28 (Sunday)
-
-### අදත් වැසි වාර කිහිපයක්
-
-*2025-09-28 08:27:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අදත-වස-වර-කහපයක/101-680336) · `si`
-
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (28) වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
-
-ඌව පළාතේත් අම්පාර දිස්ත්‍රික්කයේත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකිය.
-
-ගාල්ල සිට මාතර සහ හම්බන්තොට හරහා පොතුවිල් දක්වා සහ හලාවත සිට මන්නාරම, කන්කසන්තුරය සහ මුලතිව් හරහා ත්‍රිකුණාමලය දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. (50-60) පමණ දක්වා ඉහළ යා හැකි බවත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/eb495c50.json)
-
----
-
-### ඉරානයට එරෙහිව නැවත සම්බාධක පනවයි
-
-*2025-09-28 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215086) · `si`
-
-ඉරානයේ න්‍යෂ්ටික වැඩසටහන සම්බන්ධයෙන් ඇති කරගත් ජාත්‍යන්තර ගිවිසුම 2015 දී ඉවත් කිරීමෙන් අනතුරුව වසර 10කට පසු එක්සත් ජාතීන්ගේ සංවිධානය විසින් ඉරානය මත දැඩි ආර්ථික හා මිලිටරි සම්බාධක නැවත පැනවීමට තීරණය කර තිබේ.
-
-පසුගිය මාසයේ එක්සත් රාජධානිය, ප්‍රංශය සහ ජර්මනිය විසින් එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලයට ලිපියක් යවමින්, ඉරානය සිය පොරොන්දු ඉටු කිරීමට අපොහොසත් වූ බවට චෝදනා කිරීම හේතුවෙන් මෙම තීරණය ගෙන ඇත.
-
-එමෙන්ම මෙම සම්බාධක වළක්වා ගැනීම සඳහා රාජ්‍ය තාන්ත්‍රික විසඳුමක් සොයා ගැනීමට ඉරානයට දින 30ක කාලයක් ලබා දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-ඒ අනුව ඉරානය එක්සත් රාජධානිය, ප්‍රංශය සහ ජර්මනිය යන රටවල සේවය කළ තානාපතිවරුන් කිහිපදෙනෙකු ආපසු කැදවීමට ද පියවර ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-එක්සත් ජාතීන්ගේ මහා මණ්ඩලය ඇමතීමෙන් දින කිහිපයකට පසු නිව්යෝර්ක් සිට ටෙහෙරාන් බලා පිටත්ව යන අතරතුර ඉරාන ජනාධිපති මසූඩ් පෙසෙෂ්කියන් පවසා ඇත්තේ "අපි මේ වගේ උගුලකට හසු වෙලා හැම මාසෙම අපේ බෙල්ල වටේ තොණ්ඩුවක් තියාගන්නේ ඇයි?" ලෙසය.
-
-...
-
-[Data](articles/1d799a0e.json)
-
----
-
-### Rubber industry calls for SVAT removal delay, warns of liquidity crunch
-
-*2025-09-28 08:00:00* · [`economynextcom`](https://economynext.com/rubber-industry-calls-for-svat-removal-delay-warns-of-liquidity-crunch-242051/) · `en`
-
-ECONOMYNEXT – A Sri Lanka rubber traders group has said the government’s decision to abolish the Simplified Value Added Tax (SVAT) scheme from October 1 would cause ‘severe and far-reaching consequences’, and urged it to differ or phase it out.
-
-“Removing SVAT without a tested and operational refund mechanism will trigger widespread financial distress across Sri Lanka’s natural rubber industry, threatening smallholder livelihoods, SME viability, export competitiveness, and foreign exchange inflows vital to the nation’s recovery,” the Colombo Rubber Traders’ Association (CRTA) said in a statement.
-
-Sri Lanka’s natural rubber sector supports tens of thousands of smallholder farmers, CRTA pointed out.
-
-“The removal of SVAT will force manufacturers to pay billions in VAT upfront, causing delays in purchasing raw rubber and exerting downward pressure on farm gate prices.”
-
-...
-
-[Data](articles/0a049292.json)
-
----
-
-### අද වහින හැටි මෙන්න
-
-*2025-09-28 07:43:45* · [`adalk`](https://www.ada.lk/breaking_news/අද-වහින-හැටි-මෙන්න/11-418756) · `si`
-
-බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් ගාල්ල, මාතර ම නුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව කියයි.
-
-ඌව පළාතෙත් අම්පාර දිස්ත්‍රික්කයේත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව කියයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශ වලත් උතුරු, උතුරු-මැද, වයඹ හා මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය හා හම්බන්හතාට දිස්ික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව පවසයි.
-
-◼️
-
-[Data](articles/c69b7d30.json)
-
----
-
-### Showers And Strong Winds Expected In Several Areas
-
-*2025-09-28 07:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/showers-and-strong-winds-expected-in-several-areas) · `en`
-
-Colombo (News 1st); The Meteorological Department has announced that Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/ee940913.json)
-
-[Extended Data](ext_articles/ee940913.ext.json)
-
----
-
-### President meets the US Chairman of the US Chamber of Commerce
-
-*2025-09-28 07:35:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-வர்த்தக-சபை-உப-தலைவருடன்-ஜனாதிபதி-சந்திப்பு/175-365390) · `ta`
-
-President Anura Kumara Dissanayake has met with senior vice president of the US Chamber of Commerce Atul Keshab.
-
-The President, who went to New York to attend the 80th General Assembly of the United Nations, is on the meeting.
-
-◼️
-
-[Data](articles/6cedd33a.json)
-
-[Extended Data](ext_articles/6cedd33a.ext.json)
-
----
-
-### Relief For State Sector Local Government Candidates
-
-*2025-09-28 07:20:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/relief-for-state-sector-local-government-candidates) · `en`
-
-COLOMBO(News 1st); The Secretary of the Ministry of Public Administration, Provincial Councils, and Local Government, Aloka Bandara, has issued a special circular providing relief to state sector employees who contested the local government elections that was to be held on 9th March 2023. According to the circular, state officials who take leave to contest in the elections will receive only their basic salary without deducting the leave period from their vacation leave balance.The nomination papers submitted by state officials will be considered invalid and non-est.The decision was made in accordance with the approval given by the Cabinet of Ministers on the 25th of this month.
-
-◼️
-
-[Data](articles/572f566a.json)
-
-[Extended Data](ext_articles/572f566a.ext.json)
-
----
-
-### Troops went up at a political rally at Vijay
-
-*2025-09-28 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215085) · `si`
-
-The number of people who died in a political rally at the Curuwane, India, has risen to 39.
-
-The Indian media reported that 10 children, 17 women, 17 women, including 39 men.
-
-Another 46 persons were injured in the incident and 21 of them were seriously in hospital.
-
-It is reported that about 30,000 people have been present at least 30,000 people for the rally of Vijay.
-
-However, the Ministry of Home Affairs has requested the Ministry of Tamil Nadu regarding the incident.
-
-Meanwhile, the DIG in charge of Tamil Nadu has said that Vijayage Party had requested permission to hold the rally to Karur Lighthouse Plants.
-
-However, he said that the rally was not allowed to conduct the rally in the area.
-
-The rally was asked to hold permission from 10.00 am to 3 pm and had begun to attend the meeting from 11.00 pm and had come to the Indian media.
-
-The police have also had to prosecute a District Secretary to the police, a party member responsible for organizing Wijee's rally.
-
-...
-
-[Data](articles/8d5d2e18.json)
-
-[Extended Data](ext_articles/8d5d2e18.ext.json)
-
----
-
-### The number of casualties in Karur increases to 39
-
-*2025-09-28 06:49:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூரில்-உயிரிழந்தவர்களின்-எண்ணிக்கை-39-ஆக-அதிகரிப்பு/175-365388) · `ta`
-
-The TWC held in Karur. 39 people, including children and women, died tragically during the meeting. Also, many are being treated for life -threatening conditions.
-
-In this case, the Emergency Assistance Center of the Karur District Collector's Office has been announced to find out about the victims of the accident in Karur.
-
-As the Karur crowds are rising, "I am going to Karur tonight and meet the families of the dead in the tragedy, to console and visit the hospital." Tamil Nadu Chief Minister MK Stalin said. (A)
-
-◼️
-
-[Data](articles/8e1428fe.json)
-
-[Extended Data](ext_articles/8e1428fe.ext.json)
-
----
-
-### United Nations arms embargo, other sanctions reimposed on Iran
-
-*2025-09-28 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112977/united-nations-arms-embargo-other-sanctions-reimposed-on-iran) · `en`
-
-The United Nations reinstated an arms embargo and other sanctions on Iran on Saturday following a process triggered by key European powers that Tehran has warned will be met with a harsh response.
-
-Britain, France and Germany triggered the return of sanctions on Iran at the U.N. Security Council over accusations the country has violated a 2015 deal that aimed to stop it developing a nuclear bomb. Iran denies seeking nuclear weapons.
-
-The end of the decade-long nuclear deal originally agreed by Iran, Britain, Germany, France, the United States, Russia and China is likely to exacerbate tensions in the Middle East, just months after Israel and the U.S. bombed Iranian nuclear sites.
-
-U.N. sanctions imposed by the Security Council in resolutions adopted between 2006 and 2010 were reinstated at 8 p.m. EDT Saturday (0000 GMT). Attempts to delay the return of all sanctions on Iran failed on the sidelines of the annual gathering of world leaders at the U.N. this week.
-
-...
-
-[Data](articles/21e92bac.json)
-
-[Extended Data](ext_articles/21e92bac.ext.json)
-
----
-
-### 2026–2029 Election Plan to Be Announced in November
-
-*2025-09-28 06:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/20262029-election-plan-to-be-announced-in-november) · `en`
-
-Colombo (News 1st); The Election Commission announced that the 2026–2029 Election Strategic Plan will be unveiled in the first week of November.Elections Commissioner General Saman Sri Ratnayake said the plan is now in its final stages of preparation. He further noted that work has also begun on drafting new laws related to early elections.
-
-◼️
-
-[Data](articles/00bf7490.json)
-
-[Extended Data](ext_articles/00bf7490.ext.json)
-
----
-
-### COPE Calls Institutions for Review
-
-*2025-09-28 06:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/cope-calls-institutions-for-review) · `en`
-
-Colombo (News 1st); All institutions under the Committee on Public Enterprises (COPE) have been summoned for a meeting on the 2nd.COPE Chairman Dr. Nishantha Samaraweera said that 457 institutions are included. He noted that the discussions will focus on common issues such as the possible misuse of public funds, as well as the future plans of these institutions.
-
-◼️
-
-[Data](articles/9fe9233c.json)
-
-[Extended Data](ext_articles/9fe9233c.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-28 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112976/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (28), the Department of Meteorology said.
-
-Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts, the Met. Department added.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/2a1de20b.json)
-
-[Extended Data](ext_articles/2a1de20b.ext.json)
-
----
-
-### Several showers today
-
-*2025-09-28 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215084) · `si`
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces can be held in Galle, Kandy, and Nuwara Eliya districts today (28).
-
-The Department said in the Uva Province in the Uva Province. Showers or thundershowers will occur at several places, about 2.00.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (40-50) can cause strong winds.
-
-Winds from Galle to Matara and Hambantota from time to time in the sea areas off the coast extending from the Kankasanthurai and Mullaittivu.. The announcement states that around (50-60) can increase.
-
-The sea areas off the coast extending from Galle to Matara and Hambantota can be roughly rough at Trincomalee, Kankasanthurai and Mullaitivu.
-
-◼️
-
-[Data](articles/a9e43498.json)
-
-[Extended Data](ext_articles/a9e43498.ext.json)
-
----
-
-### I am heartbroken
-
-*2025-09-28 06:05:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயம்-நொறுங்கிப்-போய்-இருக்கிறேன்/175-365387) · `ta`
-
-The heart is shattered; The Karur congestion incident says that I am in pain and sadness that is unbearable and unbearable.. Chairman Vijay said.
-
-“I am heartbroken. I am working in pain and sadness that cannot bear, words that cannot be said.
-
-I extend my deepest sympathies and condolences to the families of my brothers and sisters who died in Karur. Those who get treatment at the hospital, pray for healing soon. ” Vijay has thus said.
-
-Prime Minister Modi, Defense Minister Rajnath Singh, Tamil Nadu Chief Minister MK Stalin and Opposition Leader Edappadi Palanisamy. (A)
-
-◼️
-
-[Data](articles/03989fa0.json)
-
-[Extended Data](ext_articles/03989fa0.ext.json)
-
----
 
 ### 2025-09-27 (Saturday)
 
@@ -899,24 +623,6 @@ Commenting on the occasion, the Minister of Defense and Parliamentary Affairs An
 
 ---
 
-### වැව් රක්ෂිත මැන්නත් ව්‍යාපාරික ස්ථාන ඉවත් කිරීමේ වැඩසටහනක් නෑ
-
-*2025-09-27 18:25:57* · [`adalk`](https://www.ada.lk/breaking_news/වැව්-රක්ෂිත-මැන්නත්-ව්‍යාපාරික-ස්ථාන-ඉවත්-කිරීමේ-වැඩසටහනක්-නෑ/11-418754) · `si`
-
-වැව් රක්ෂිත රජය විසින් මායිම් සලකුණු කළද ඒවායේ ඇති ගොවිතැන්, පදිංචි අය, ව්‍යාපාරික ස්ථාන ඉවත් කිරීමේ වැඩපිළිවෙළක් ක්‍රියාත්මක නොකරන බවත් ඒවා විධිමත් අයුරින් එම අයටත් නැවත ලබාදීම සහ ඉවත් කළ යුතු අයට වෙනත් විකල්ප ස්ථාන ලබාදීම සඳහා රජයේ  අවධානය යොමුවී ඇතැයි මාතලේ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී  සුනිල් බියන්වල මහතා 27 දින පැවසීය.
-
-වාරිමාර්ග දෙපාර්තමේන්තුව යටතේ පවතින මාතලේ දිස්ත්‍රික්කයේ වෑමැඩිල්ල ජලාශයේ සහ දේවහුව ජලාශයේ වැව් රක්ෂිත මායිම් සලකුණු කිරීමේ වැඩසටහන ආරම්භ කිරීම 27 දින පාර්ලිමේන්තු මන්ත්‍රීවරයාගේ ප්‍රධානත්වයෙන් වෑමැඩිල්ල ජලාශයේදී සිදුකෙරිණි.
-
-දඹුල්ල වාරිමාර්ග ඉංජිනේරු කාර්යාලය ගොවි සංවිධාන එක්ව මෙය සංවිධානය කොට ඇත්තේ ක්ලීන් ශ්‍රී  ලංකා වැඩසටහන යටතේ වීම විශේෂත්වයෙකි. මෙහිදී  වාරිමාර්ග නිලධාරීන් රාජ්‍ය නිලධාරීන් දේශපාලන අධිකාරිය එක්ව  සිටීම විශේෂත්වයකි.
-
-වාරි මහිමය අපේ උරුමය පොහොසත් රටක් ලස්සන ජීවිතයක් වෑ මැඩිල්ල හා දේවහුව   ජලාශයන්හි වැව්රක්ෂිත සීමා ලකුණු කිරීම හා ජල පෝෂක ප්‍රදේශ ආරක්‍ෂා කර ගැනීමේ ව්‍යාපෘතිය ලෙස මෙය නම් කොට තිබිණි.
-
-...
-
-[Data](articles/e6e92570.json)
-
----
-
 ### President arrives in Japan
 
 *2025-09-27 18:23:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනයට-ළඟ-වය/1-680330) · `si`
@@ -1143,24 +849,6 @@ COLOMBO(News 1st); One person has died, and 58 people from 17 families have been
 
 ---
 
-### Labookellie Estate
-
-*2025-09-27 17:47:00* · [`islandlk`](http://island.lk/labookellie-estate/) · `en`
-
-over 150 years of tea heritage looks to the future under Damro
-
-High above the mist-draped peaks of Sri Lanka’s Central Highlands, where crisp winds whisper across emerald slopes, lies the iconic Labookellie Estate. Established in 1870, this plantation has stood the test of time as one of the country’s most renowned tea estates, blending heritage, innovation and community service in a way that continues to shape the identity of Ceylon Tea.
-
-Today, under the stewardship of the Damro Group, Labookellie remains both a symbol of Sri Lanka’s tea legacy and a vibrant contributor to its economy and culture.
-
-...
-
-[Data](articles/6a5cd34f.json)
-
-[Extended Data](ext_articles/6a5cd34f.ext.json)
-
----
-
 ### Major Cities on High Alert as Dengue Threat Looms
 
 *2025-09-27 17:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/major-cities-on-high-alert-as-dengue-threat-looms) · `en`
@@ -1172,40 +860,6 @@ COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destr
 [Data](articles/ffb79d83.json)
 
 [Extended Data](ext_articles/ffb79d83.ext.json)
-
----
-
-### Cultivating Circular Futures: Youth as Agents of Change
-
-*2025-09-27 17:45:00* · [`islandlk`](http://island.lk/cultivating-circular-futures-youth-as-agents-of-change/) · `en`
-
-On September 29, the world marks the International Day of Awareness on Food Loss and Waste,
-
-highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
-
-The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
-
-...
-
-[Data](articles/a36524f1.json)
-
-[Extended Data](ext_articles/a36524f1.ext.json)
-
----
-
-### The Kingswood Reader: A refined and sophisticated opus:
-
-*2025-09-27 17:45:00* · [`islandlk`](http://island.lk/the-kingswood-reader-a-refined-and-sophisticated-opus/) · `en`
-
-When I received the invitation to speak at this most august occasion, I must confess, I had to check Vihanga Perera’s invitation twice. You see, I’m not from Kingswood. I’m a Josephian—and in schoolboy terms, that makes me something like the distant cousin you see only at weddings, funerals, and maybe, at cricket or rugger matches.
-
-But let me tell you sincerely why I stand here. Because beyond the colours of our alma maters, beyond the chants of “Go Kingswood!” or “Forward Joes!”, there is something more lasting, more sacred, more binding. It is the soul of our schools. It is memory. It is story. It is the written word that we pass down like a torch, from one generation to the next.
-
-...
-
-[Data](articles/b54eede5.json)
-
-[Extended Data](ext_articles/b54eede5.ext.json)
 
 ---
 
@@ -1371,40 +1025,6 @@ The construction of a passenger flyover to the comfort of the railway stations, 
 
 ---
 
-### INSEE Sanstha Cement takes global stage in Kotler’s Essentials of Modern Marketing – Sri Lanka Edition
-
-*2025-09-27 17:16:00* · [`islandlk`](http://island.lk/insee-sanstha-cement-takes-global-stage-in-kotlers-essentials-of-modern-marketing-sri-lanka-edition/) · `en`
-
-INSEE Cement’s flagship brand, INSEE Sanstha Cement, has been featured as a case study in the first-ever Sri Lanka edition of Essentials of Modern Marketing (EOMM) by globally renowned marketing pioneer, Prof. Philip Kotler.
-
-The prestigious publication was launched on 22 August 2025 at Cinnamon Grand Hotel, Colombo, in collaboration with Kotler Impact Inc. and Deyo Consultancy and Advisory. Being the first country in the EOMM global series with a dedicated edition marks a milestone, showcasing the nation’s marketing innovation and brand excellence globally.
-
-...
-
-[Data](articles/0338c280.json)
-
-[Extended Data](ext_articles/0338c280.ext.json)
-
----
-
-### HNB Assurance Sales Force Shines at Life Industry Sales Competition
-
-*2025-09-27 17:15:00* · [`islandlk`](http://island.lk/hnb-assurance-sales-force-shines-at-life-industry-sales-competition/) · `en`
-
-HNB Assurance PLC (HNBA) recorded outstanding success of its sales team at the Life Industry Sales Competition held during the NAFLIA Conference, where the Company secured eleven prestigious accolades across both the Advisor Channel and the Partnership Channel. Demonstrating exceptional performance and commitment, the winners from HNBA delivered outstanding performances at a national level, showcasing the strength of the organization
-
-The accolades spanned a diverse range of categories including Fast Starters, Advisors, Supervisors and Bancassurance Officers, reflecting the collective strength and capability of HNBA’s sales force.
-
-Among the winners, Gammeda Liyanage Deepa Shamalie was recognized as Best Advisor – Silver, while Anjula Prasath Thilakarathne earned the Best Advisor – Bronze award. In the Bancassurance category, Dinushika Ratnayake was awarded Best Bancassurance Officer – Silver, and J. I. M. Fernando secured the Best Bancassurance Officer – Bronze.
-
-...
-
-[Data](articles/29768c30.json)
-
-[Extended Data](ext_articles/29768c30.ext.json)
-
----
-
 ### Narahenpita Railway Station begins
 
 *2025-09-27 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215074) · `si`
@@ -1424,60 +1044,6 @@ The renovation work is to be conducted by the private sponsorship of the private
 [Data](articles/3d79ff0e.json)
 
 [Extended Data](ext_articles/3d79ff0e.ext.json)
-
----
-
-### Royal junior stickers retain Chandi Chanmugam trophy after Karunasiri’s hat trick
-
-*2025-09-27 17:10:00* · [`islandlk`](http://island.lk/royal-junior-stickers-retain-chandi-chanmugam-trophy-after-karunasiris-hat-trick/) · `en`
-
-A hat trick with two late goals by Savain Karunasiri led Royal College under 16 to win Chandi Chanmugam Challenge trophy by 5-1 against their arch rivals St. Thomas’ College Mount Lavinia in the annual hockey encounter played at Colombo International Astro Turf last weekend.
-
-From the start, the both teams found it difficult to overcome their traditional rivals, but Royal Vice Captain Karunasiri reflected a fast moving ball into the goal to score the first goal of the match. Later Seth Pathirathna added a stylish goal to lead the Reid avenue team with 2-0 at the lemons.
-
-In the second half, the STC bounced back with a reverse stick goal by their skipper Hansa Thilakarathne to reduce the Royal lead to 2-1 before Vidu Wijesinghe scored the third goal for Royal. Karunasiri scored two goals within quick succession in the last seven minutes of the game to secure a 5-1 victory for Royal.
-
-With the win, Royal juniors won the Chandi Chanmugam trophy for the second successive year.
-
-...
-
-[Data](articles/3b47645e.json)
-
-[Extended Data](ext_articles/3b47645e.ext.json)
-
----
-
-### Standard Chartered appoints Praveen Karunaratne to Country Management Team
-
-*2025-09-27 17:09:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-praveen-karunaratne-to-country-management-team-2/) · `en`
-
-Standard Chartered Sri Lanka has appointed Praveen Karunaratne, Head of Financial Institutions (FI), to the Country Management Team, effective 15 Sept.
-
-Praveen’s appointment to the Country Management Team ensures strategic oversight and continued development of critical Financial Institutions relationships, reinforcing Standard Chartered’s commitment to institutional banking excellence in Sri Lanka.
-
-Financial Institutions represents a rapidly growing segment and forms a core pillar of the Bank’s global business strategy, targeting 60% of Corporate & Institutional Banking revenue by 2029. The appointment recognises the strategic importance of the Financial Institutions business for Standard Chartered in Sri Lanka.
-
-...
-
-[Data](articles/a08be861.json)
-
-[Extended Data](ext_articles/a08be861.ext.json)
-
----
-
-### Ceylinco Life launches ‘Family Savari 19’ with fun in Beijing, Malaysia and Pearl Bay
-
-*2025-09-27 17:09:00* · [`islandlk`](http://island.lk/ceylinco-life-launches-family-savari-19-with-fun-in-beijing-malaysia-and-pearl-bay/) · `en`
-
-Sri Lanka’s most anticipated life insurance customer promotion is back – bigger, brighter, and brimming with adventure, with Ceylinco Life unveiling the 19th edition of its iconic ‘Family Savari’ mega promotion, promising unforgettable journeys abroad and at home for hundreds of lucky policyholder families.
-
-Over nearly two decades, Family Savari has become a household name, touching the lives of more than 11,000 families – a staggering 37,000 people – with experiences that go far beyond conventional rewards. In its 19th year, the excitement continues with the announcement of the destinations for 2026.
-
-...
-
-[Data](articles/c091dd84.json)
-
-[Extended Data](ext_articles/c091dd84.ext.json)
 
 ---
 
@@ -1972,5 +1538,499 @@ In addition, more than 20 suspects have been taken against the allegations of vi
 [Data](articles/c67e03ea.json)
 
 [Extended Data](ext_articles/c67e03ea.ext.json)
+
+---
+
+### Health Challenges Somehow
+
+*2025-09-27 15:26:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සඛය-අභයග-කහම-හර-දනනව/101-680315) · `si`
+
+Health and Mass Media Media Media Dr. Nalinda Jayamattha said he would win the challenges in the health sector since ancient times.
+
+The Minister of Hooguma Health Center, Galle was the first center of the project of the project for the project formed across the country.
+
+The center provides health services for nearly five thousand people living in the Grama Niladhari Divisions in Mapalagama, Talgaswala, Gonalagoda East.
+
+Under this project, a hundred primary health care centers, which will be easily accessible to the people, is designated as a closer in an easy-to-accessible location.
+
+◼️
+
+[Data](articles/3d693ca5.json)
+
+[Extended Data](ext_articles/3d693ca5.ext.json)
+
+---
+
+### Health Challenges Somehow
+
+*2025-09-27 15:26:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සඛය-අභයග-කහම-හර-දනනව/1-680315) · `si`
+
+Health and Mass Media Media Media Dr. Nalinda Jayamattha said he would win the challenges in the health sector since ancient times.
+
+The Minister of Hooguma Health Center, Galle was the first center of the project of the project for the project formed across the country.
+
+The center provides health services for nearly five thousand people living in the Grama Niladhari Divisions in Mapalagama, Talgaswala, Gonalagoda East.
+
+Under this project, a hundred primary health care centers, which will be easily accessible to the people, is designated as a closer in an easy-to-accessible location.
+
+◼️
+
+[Data](articles/862c911e.json)
+
+[Extended Data](ext_articles/862c911e.ext.json)
+
+---
+
+### Mabbuke is a big chair in Parliament
+
+*2025-09-27 15:11:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මබබකට-පරලමනතව-ලක-පටවක/1-680314) · `si`
+
+Mabbuke Marzork, who served as Deputy Director (Administration), has been promoted to the post of Administrative Director of Parliament
+
+He acted as the Deputy Director (Administrative) to the post of Administration as the Assistant Director of the Public Petitions Committee.
+
+Speaking to Measby Members of Parliament as a parliamentarian for a period of time is a special competency to prepare Sinhala English and Tamil languages.
+
+Udaya Munasinghe was vacant by retirement from the post of PSSP
+
+◼️
+
+[Data](articles/7f108f04.json)
+
+[Extended Data](ext_articles/7f108f04.ext.json)
+
+---
+
+### Mabbuke is a big chair in Parliament
+
+*2025-09-27 15:11:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මබබකට-පරලමනතව-ලක-පටවක/101-680314) · `si`
+
+Mabbuke Marzork, who served as Deputy Director (Administration), has been promoted to the post of Administrative Director of Parliament
+
+He acted as the Deputy Director (Administrative) to the post of Administration as the Assistant Director of the Public Petitions Committee.
+
+Speaking to Measby Members of Parliament as a parliamentarian for a period of time is a special competency to prepare Sinhala English and Tamil languages.
+
+Udaya Munasinghe was vacant by retirement from the post of PSSP
+
+◼️
+
+[Data](articles/85be10f4.json)
+
+[Extended Data](ext_articles/85be10f4.ext.json)
+
+---
+
+### Executive Presidential system is important: Law College Principal
+
+*2025-09-27 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226242) · `ta`
+
+Prashantha La Dalvis, Principal of the Law College of Sri Lanka, said that the executive presidential system is important to maintain unity among various ethnic groups in the country and prevent foreign influence.
+
+Prashantha Lal de Alwis, Principal of the Law College of Sri Lanka, said this during a committee debate on Friday (26) on its performance in the government's expected implementation.
+
+As a result, the executive presidency should not be temporarily canceled.
+
+Prashantha Lawl de Alwis, Principal of the Law College of Sri Lanka, praised the achievements of the government in administrative reforms in areas such as enacting a law to abolish the benefits as per the promise of former presidents.
+
+◼️
+
+[Data](articles/06b7f076.json)
+
+[Extended Data](ext_articles/06b7f076.ext.json)
+
+---
+
+### Foreign investors buy Sri Lanka rupee bonds for fifth straight week
+
+*2025-09-27 15:01:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-for-fifth-straight-week-242021/) · `en`
+
+ECONOMYNEXT – Foreign investors bought Sri Lanka government securities for a fifth straight week in the week ended on September 25 with the offshore holding in local bonds at two-year high, the Central Bank data showed, amid a surge in global investor appetite for government bonds.
+
+Foreign investors bought a net 334 million rupee ($1.11 million) worth of government securities in the week ended on September 25, extending the inflows to a net 14,041 million rupee ($46.8 million) in the five weeks.
+
+Government bond funds across the world saw a surge in demand as they saw a hefty USD 22.96 billion weekly net investment, the largest figure since at least 2022 amid a robust $10.01 billion weekly inflow in the short-term funds segment, Reuters reported.
+
+Foreign holdings in Sri Lanka’s rupee bonds were at 120.6 billion rupees on September 25, their highest since December 2023, official data showed.
+
+...
+
+[Data](articles/8f335015.json)
+
+[Extended Data](ext_articles/8f335015.ext.json)
+
+---
+
+### Arrested with "Jile"
+
+*2025-09-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226243) · `ta`
+
+A colleague of "Jile", a drug trafficker who belongs to a underworld gang abroad, has been arrested by the Special Task Force on Thursday (25).
+
+The suspect has been arrested in a suspected three -wheeler in Hogantha area on information received by the Special Task Force.
+
+Drugs, including 502 grams of ice and 104 grams of heroin, have been seized from the suspect.
+
+Further investigations are being carried out by the Police Special Task Force and the police.
+
+◼️
+
+[Data](articles/770007b0.json)
+
+[Extended Data](ext_articles/770007b0.ext.json)
+
+---
+
+### Seal to the restaurant in cotton
+
+*2025-09-27 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226232) · `ta`
+
+The restaurant operating in the Point Pedro area has been sealed under a court order.
+
+Sudden tests were carried out by Public Health Inspectors at the food manipulation centers under the rule of the Point Pedro Urban Council.
+
+At the same time, three owners were sued by the Point Pedro Magistrate's Court under the allegations, including the functioning of health problems.
+
+When the trial was taken up in court on Friday (26), the three owners in court accepted the allegations against them, ordered to be sealed by a health hazard of a health hazard.
+
+◼️
+
+[Data](articles/1a0f021b.json)
+
+[Extended Data](ext_articles/1a0f021b.ext.json)
+
+---
+
+### Final rites commence for monks killed in Na Uyana Monastery cable car accident
+
+*2025-09-27 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112962/final-rites-commence-for-monks-killed-in-na-uyana-monastery-cable-car-accident) · `en`
+
+The final rites for the Buddhist monks who lost their lives in the tragic cable car accident at Na Uyana Monastery in Melsiripura have commenced at the Pansiyagama Cemetery.
+
+A large number of monks, including members of the Maha Sangha, as well as devotees, gathered at Na Uyana Monastery to pay their last respects.
+
+The remains of the monks had been placed at the monastery from 10:00 a.m. on September 26 for officials and devotees to offer their respects.
+
+Opposition Leader Sajith Premadasa also paid his respects last evening (26), while ‘Sarvajana Balaya’ Member of Parliament Dilith Jayaweera visited the monastery this morning (27).
+
+The remains of the Russian Buddhist monk were brought to Na Uyana Monastery last night following the family’s request to have his last rites performed in Sri Lanka.
+
+Accordingly, the burial of the deceased Sri Lankan monks and the Russian monk is scheduled for 4:00 p.m. today at the cemetery.
+
+...
+
+[Data](articles/4360598b.json)
+
+[Extended Data](ext_articles/4360598b.ext.json)
+
+---
+
+### Completely suspended all boxing activities in Ghana
+
+*2025-09-27 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215070) · `si`
+
+After a boxer's death, all boxing activities of Ghana have been completely suspended.
+
+According to foreign media, the 32-year-old Ernast Akhey was a 32-year-old.
+
+Preliminary investigations revealed that the death was held 11 days after the competition.
+
+The National Sports Authority of the country says this step has been taken as a measure of protecting life, protecting and ensure its future.
+
+The event was the second death of a professional fighter in Ghana within six months.
+
+◼️
+
+[Data](articles/0c5814b3.json)
+
+[Extended Data](ext_articles/0c5814b3.ext.json)
+
+---
+
+### Two buses collided face -to -face!
+
+*2025-09-27 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226241) · `ta`
+
+Two persons were injured in a bus accident in Dompe area on Pookoda - Dompe Road in Gampaha, police said.
+
+The accident occurred when a bus carrying factory staff collided head -on with a private bus, police said.
+
+Drivers of two buses were injured during the accident, police said, police said.
+
+◼️
+
+[Data](articles/28501d02.json)
+
+[Extended Data](ext_articles/28501d02.ext.json)
+
+---
+
+### The reason for the high electricity tariff is the use of ineffective electrical devices - the Sri Lanka Sustainable Power Authority
+
+*2025-09-27 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226240) · `ta`
+
+The Sri Lanka Sustainable Energy Authority has said that the reason for the high electricity tariff is the use of ineffective electrical equipment.
+
+Commenting on the media after an event in Colombo, the Director of the Authority Harsha Wickremasinghe said this.
+
+This loss is often caused by the use of refrigerators over 10 years.
+
+During the study, the use of incompetent power equipment is the cause of high electricity tariffs in homes in Sri Lanka.
+
+He noted that the problem is usually found in refrigerators used for over 10 years.
+
+One -third of the houses in the Western Province is unusable.
+
+The Air Conditioners will be tightened by the end of this year, said Harsha Wickremasinghe, Director of the Sri Lanka Standards Authority.
+
+◼️
+
+[Data](articles/06fafc1f.json)
+
+[Extended Data](ext_articles/06fafc1f.ext.json)
+
+---
+
+### The clergy of the wooden monastery, the monks, today
+
+*2025-09-27 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215069) · `si`
+
+The clergy will be held today (27) this afternoon that the owners of the owners who were killed in an accident.
+
+A large number of people, including the Maha Sangha, and devotees have come to the Aranya Senasana to pay their last respects to monks.
+
+A dick used for the convenience used for the convenience of the Moana Uyana Aranya Senasana was held on the 24th.
+
+The monks of Ven. Rummania Dhammarenzi, Ven. Navagavangama Janamalpitiya, Ven. Nawalapitiya, Ven
+
+Opposition Leader Sajith Premadasa gave his final respects to the monks who had been oursome at night and the Leader of the United States leader Dilith Jayaweera was also given to the last respects.
+
+Meanwhile, the remains of the Indian and Romanian monks who have been identified are to be coordinated with the relatives of the customers' relatives.
+
+With the funeral of the Russian national monk, the body was working to the Aranya Senasana last night.
+
+...
+
+[Data](articles/9a51b259.json)
+
+[Extended Data](ext_articles/9a51b259.ext.json)
+
+---
+
+### Opposition Leader paid tribute to monks who died in a car accident in Kurunegala!
+
+*2025-09-27 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226239) · `ta`
+
+Opposition Leader Sajith Premadasa paid tribute on Saturday (27) to the Buddhists of the monks who died in an accident.
+
+Seven monks from domestic and abroad died in the crash. Some monks are being treated at the hospital with injuries.
+
+The boutiques of the monks who died in the incident have been placed in the Melsiripura Na Aranya Senasana.
+
+After paying the final tribute here, he met with the chief Thera of the Aranya Senasanam to learn more about the accident.
+
+◼️
+
+[Data](articles/2a092c28.json)
+
+[Extended Data](ext_articles/2a092c28.ext.json)
+
+---
+
+### Final Rites Of Monks From Na Uyana Senasana Tragedy, Today
+
+*2025-09-27 14:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/final-rites-of-monks-from-na-uyana-senasana-tragedy-today) · `en`
+
+...
+
+[Data](articles/56ef2604.json)
+
+[Extended Data](ext_articles/56ef2604.ext.json)
+
+---
+
+### Inefficient appliances a major cause of energy loss, warns SLSEA
+
+*2025-09-27 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112961/inefficient-appliances-a-major-cause-of-energy-loss-warns-slsea) · `en`
+
+The Sri Lanka Sustainable Energy Authority (SLSEA) has stated that a significant portion of energy loss in the country is caused by inefficient electrical appliances, particularly refrigerators that are over 10 years old.
+
+The Director General of the Authority, Harsha Wickramasinghe, made this remarks while addressing the media following a ceremony in Colombo.
+
+“Surveys have shown that inefficient household appliances in Sri Lanka contribute to high electricity bills. This issue is most commonly observed in refrigerators and air conditioners,” he said.
+
+According to Wickramasinghe, one in three refrigerators in homes in the Western Province is in an unusable condition, leading to electricity consumption exceeding 100 units per month.
+
+He further noted that the import of inefficient appliances into Sri Lanka has already been halted, and similar regulations for air conditioners will be strictly enforced by the end of this year.
+
+◼️
+
+[Data](articles/165a8bf3.json)
+
+[Extended Data](ext_articles/165a8bf3.ext.json)
+
+---
+
+### Is the refrigerator more than 10 years old?
+
+*2025-09-27 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215068) · `si`
+
+The Sri Lanka Sustainable Energy Authority (SLMC) says that energy losses are more likely due to efficient electrical equipment.
+
+The institute shows that the use of refrigeration is increasing due to more than 10 years.
+
+The Director General of the Superintendent Harrien Wickremesinghe said this was revealed to the media after a ceremony with a ceremony.
+
+"In surveys, we learned that the efficient domestic electricity bills of Sri Lanka is a cause of high electricity electricity.
+
+There is this question in a refrigerator that uses more than 10 years. And in air conditioning.
+
+There are three inappropriate in use in the homes of the Western Province. As a result, electricity units will exceed 100 per month.
+
+Sri Lanka has stopped importing low equipment. By the end of this year, the law will also be raised to adapimedists.
+
+◼️
+
+[Data](articles/548775be.json)
+
+[Extended Data](ext_articles/548775be.ext.json)
+
+---
+
+### Teaches Kandy about AI
+
+*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/AI-ගන-මහනවරට-උගනවය/1-680312) · `si`
+
+Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat at the Kandy District Secretariat.
+
+The program was organized by the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
+
+Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
+
+The Presidential Secretariat says that the function of the Government Officer and AI techniques on the use of the Government Superintendent of Government Digitalization Plan to cover all provinces and the government officials on the government's use of public purposes and AI technology are also allocated to educate the government.
+
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+◼️
+
+[Data](articles/4508f2a5.json)
+
+[Extended Data](ext_articles/4508f2a5.ext.json)
+
+---
+
+### Teaches Kandy about AI
+
+*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/AI-ගන-මහනවරට-උගනවය/101-680312) · `si`
+
+Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat at the Kandy District Secretariat.
+
+The program was organized by the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
+
+Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
+
+The Presidential Secretariat says that the function of the Government Officer and AI techniques on the use of the Government Superintendent of Government Digitalization Plan to cover all provinces and the government officials on the government's use of public purposes and AI technology are also allocated to educate the government.
+
+This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
+
+◼️
+
+[Data](articles/e137c4f1.json)
+
+[Extended Data](ext_articles/e137c4f1.ext.json)
+
+---
+
+### 717 Arrested In Island-Wide Police Operation
+
+*2025-09-27 13:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/717-arrested-in-island-wide-police-operation) · `en`
+
+COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide crime and drug prevention operation.Police said 27,932 individuals were tested yesterday during the operation.Among those arrested yesterday were 28 individuals directly linked to crimes, 246 with day warrants, and 166 with open warrants.Police also reported that 32 drunk drivers and 23 reckless drivers were taken into custody.In addition, 3,747 people were arrested for traffic and other related offenses.The operation is being carried out across the island on the instructions of the Inspector General of Police.
+
+◼️
+
+[Data](articles/1ee617c1.json)
+
+[Extended Data](ext_articles/1ee617c1.ext.json)
+
+---
+
+### World Tourism Day celebrated at Nanu Oya Railway Station
+
+*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/101-680311) · `si`
+
+A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
+
+Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
+
+The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
+
+Visitors to the train on World Tourism
+
+The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
+
+◼️
+
+[Data](articles/613b9e69.json)
+
+[Extended Data](ext_articles/613b9e69.ext.json)
+
+---
+
+### World Tourism Day celebrated at Nanu Oya Railway Station
+
+*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/1-680311) · `si`
+
+A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
+
+Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
+
+The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
+
+Visitors to the train on World Tourism
+
+The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
+
+◼️
+
+[Data](articles/d909ae75.json)
+
+[Extended Data](ext_articles/d909ae75.ext.json)
+
+---
+
+### World Tourism Day celebrated at Nanu Oya Railway Station
+
+*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/ld_events/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/244-680311) · `si`
+
+A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
+
+Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
+
+The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
+
+Visitors to the train on World Tourism
+
+The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
+
+◼️
+
+[Data](articles/e501411e.json)
+
+[Extended Data](ext_articles/e501411e.ext.json)
+
+---
+
+### 328 Organized Crime Suspects In Custody
+
+*2025-09-27 13:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/328-organized-crime-suspects-in-custody) · `en`
+
+COLOMBO(News 1st); Police Headquarters announced that 328 suspects linked to organized crime are currently in custody under detention orders.Police Media Spokesperson, Assistant Superintendent of Police F. U. Wootler, stated that 38 shooters are among those detained.Police Headquarters further reported that 1,721 local and foreign firearms have been seized during the period under review.ASP Wootler added that these include 61 T-56 assault rifles.
+
+◼️
+
+[Data](articles/496cdac7.json)
+
+[Extended Data](ext_articles/496cdac7.ext.json)
 
 ---

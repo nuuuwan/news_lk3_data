@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 18:19:35**
+As of **2025-09-28 18:40:29**
 
 ## Newspaper Stats
 
-*Scraped **79,220** Articles*
+*Scraped **79,228** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 400
+lankadeepalk | 406
 newsfirstlk | 456
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,638
-adaderanalk | 10,233
+adaderanalk | 10,235
 tamilmirrorlk | 11,866
 virakesarilk | 12,891
 adaderanasinhalalk | 13,739
@@ -27,47 +27,69 @@ adaderanasinhalalk | 13,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,214 (100.0%) of 79,220 articles have been extended.
+79,222 (100.0%) of 79,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### චීනයේ හිටපු කෘෂිකර්ම අමාත්‍යවරයාට අත්හිටවූ මරණ දඬුවමක්
+### Death penalty for former Chinese agriculture
 
 *2025-09-28 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215106) · `si`
 
-චීනයේ හිටපු කෘෂිකර්ම හා ග්‍රාමීය කටයුතු අමාත්‍ය ටැන්ග් රෙන්ජියන්ට, අල්ලස් ලබා ගැනීමේ චෝදනාව මත මරණ දඬුවම නියම වූ බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The Minister of Agriculture and Rural Affairs of China and Rural Affairs Tang Renjan have sentenced to death on charges of bribery.
 
-2007 සිට 2024 දක්වා විවිධ තනතුරු දරමින් ටැන්ග්, යුවාන් මිලියන 268කට (අමෙරිකානු ඩොලර් මිලියන 37.6) වැඩි මුදලක් සහ දේපළ ඇතුළුව අල්ලස් ලබා ගෙන ඇති බව සඳහන් වේ.
+Tang, 11 million US $ 37.6 million (US $ 37.6 million) has been obtained by Rs. 37.6 million.
 
-කෙසේ වෙතත් ඔහු තමා සිදු කළ අපරාධ පිළිබඳව පාපොච්චාරණය කර ඇති නිසා මහජන අධිකරණය ඔහුගේ මරණ දඬුවම වසර දෙකකට අත්හිටුවා ඇත.
+However, he has been suspended for two years due to his conversing his crimes.
 
-මෙම කරුණු පිළිබඳව දූෂණ විරෝධී නිරීක්ෂණ ආයතනය විසින් විමර්ශනයට ලක් කර ඔහු තනතුරෙන් ඉවත් කිරීමෙන් මාස හයකට පසු, 2024 නොවැම්බර් මාසයේදී චීන කොමියුනිස්ට් පක්ෂය (CCP) විසින් ටැන්ග් නෙරපා හරින ලදී.
+In November 2024, the Chinese Communist Party (CCP) was evicted by the Chinese Communist Party (CCP) in November 2024 after the anti-corruption observation institute was dismissed.
 
-ටැන්ග්ගේ විමර්ශනය අසාමාන්‍ය ලෙස වේගවත් වූ අතර හිටපු ආරක්ෂක අමාත්‍ය ලී ෂැංෆු සහ ඔහුගේ පූර්වගාමියා වූ, වෙයි ෆෙන්ග්හේ සම්බන්ධයෙන් ද ඒ හා සමානව පරීක්ෂණ ආරම්භ කර ඇත.
+Tang's investigation was extraordinarily accelerated and the former Defense Minister Li Shangfu and his predecessor, began investigations into Fenu.
 
-කෘෂිකර්ම හා ග්‍රාමීය කටයුතු අමාත්‍යවරයා ලෙස නම් කිරීමට පෙර ටැන්ග් 2017 සිට 2020 දක්වා බටහිර ගන්සු පළාතේ ආණ්ඩුකාරවරයා වශයෙන් ද කටයුතු කර ඇති බව වාර්තා වේ.
+Tang has also served as the Minister of Agriculture and Rural Affairs to the Governor of the West Gunaward.
 
 ◼️
 
 [Data](articles/a698e197.json)
 
+[Extended Data](ext_articles/a698e197.ext.json)
+
 ---
 
-### சிறுவர் துஷ்பிரயோக தண்டிப்பு சட்டமூலம்;பிரதமர் விளக்கம்
+### Child Abuse Punishment Bill; PM Explanation
 
 *2025-09-28 17:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-தண்டிப்பு-சட்டமூலம்-பிரதமர்-விளக்கம்/175-365423) · `ta`
 
-சிறுவர் துஷ்பிரயோகத்தைத் தண்டிப்பது தொடர்பான முன்மொழியப்பட்ட சட்டம் பாடசாலைகளையோ அல்லது ஆசிரியர்களையோ இலக்காகக் கொண்டதல்ல, மாறாக சமூகம் முழுவதும் குழந்தைகளைப் பாதுகாப்பதை நோக்கமாகக் கொண்டுள்ளது என்று பிரதமரும் கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சருமான கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+The Prime Minister and Minister of Education, Higher Education and Vocational Education, Dr. Harini Amarasuriya, said that the proposed law on punishing child abuse is not aimed at schools or teachers, but also aimed at protecting children throughout the community.
 
-தேசிய பாடசாலைகளின் அதிபர்களுக்கு விளக்கமளிக்கும் வகையில் வெள்ளிக்கிழமை (27) கல்வி அமைச்சில் நடைபெற்ற நிகழ்ச்சியில் பேசிய அமரசூரிய, இந்தத் திருத்தம் பாடசாலைகள், நிறுவனங்கள், பொலிஸ் மற்றும் வீடுகளில் குழந்தைகள் எதிர்கொள்ளும் உடல் மற்றும் உளவியல் ரீதியான துஷ்பிரயோகங்களைக் கையாள்கிறது என்று விளக்கினார்.
+Speaking at a function held at the Ministry of Education on Friday (27), Amarasuriya explained that the amendment is dealing with the physical and psychological abuse of children in schools, institutions, police and homes.
 
-"இது பாடசாலைகளுக்கோ அல்லது ஆசிரியர்களுக்கோ எதிராக வடிவமைக்கப்பட்ட சட்டம் அல்ல. இது சமூகத்தில் உள்ள அனைத்து குழந்தைகளின் பாதுகாப்பிற்காக உருவாக்கப்பட்ட ஒரு சீர்திருத்தமாகும்," என்று அவர் கூறினார்.
+“This is not a law designed against schools or teachers. This is a reform created for the safety of all children in the community, ”he said.
+
+The Prime Minister emphasized that law does not prohibit morality in schools. “We don't stop the punishment or avoid discipline. We say that there should be no punishment by physically or mentally violently. There are many positive ways to maintain discipline without causing harm or humiliation, ”he added.
 
 ...
 
 [Data](articles/931e8bab.json)
+
+[Extended Data](ext_articles/931e8bab.ext.json)
+
+---
+
+### Ex-Western PC member Amal Silva arrested by Walana Anti-Vice Squad
+
+*2025-09-28 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113003/ex-western-pc-member-amal-silva-arrested-by-walana-anti-vice-squad) · `en`
+
+Former Western Provincial Council member Amal Silva has been arrested by the Walana Anti-Vice Squad, police stated.
+
+He has been apprehended with three luxury vehicles valued at Rs. 60 million registered by using forged documents.
+
+◼️
+
+[Data](articles/f065e04f.json)
+
+[Extended Data](ext_articles/f065e04f.ext.json)
 
 ---
 
@@ -85,25 +107,69 @@ COLOMBO (News 1st): SriLankan Airlines has reported a 10% increase in passenger 
 
 ---
 
-### විජේගේ රැලියේදී මියගිය අය අතර  අවුරුදු 2ක පුංචි පුතෙකුත්
+### China’s former agriculture minister gets suspended death sentence for bribery
+
+*2025-09-28 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113002/chinas-former-agriculture-minister-gets-suspended-death-sentence-for-bribery) · `en`
+
+Tang Renjian, China’s former minister of agriculture and rural affairs, was sentenced to death with reprieve for bribery at a court in Jilin province on Sunday (Sep 28), according to state news agency Xinhua.
+
+Tang took bribes, including cash and property worth over 268 million yuan (US$37.6 million), in various positions held from 2007 to 2024, Xinhua said.
+
+The Changchun Intermediate People’s Court suspended his death sentence for two years, noting he had confessed to his crimes, it added.
+
+China’s Communist Party (CCP) expelled Tang in November 2024, six months after he was placed under investigation by the anti-graft watchdog and removed from his post.
+
+Tang’s investigation was unusually swift and followed similar investigations into former defence minister Li Shangfu and his predecessor Wei Fenghe.
+
+...
+
+[Data](articles/d6d2012e.json)
+
+[Extended Data](ext_articles/d6d2012e.ext.json)
+
+---
+
+### A 2-year-old son of the deceased during Vijay's rally
 
 *2025-09-28 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215104) · `si`
 
-ඉන්දීය නළු තලපති විජේගේ දේශපාලන රැලියේ දී ඇතිවූ තෙරපීමෙන් මිය ගිය අය අතර අවුරුදු 2ක් වයසැති කුඩා දරුවෙකුද සිටින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media reports, a 2-year-old child is a 2-year-old child among the deaths of the death of Indian actor.
 
-මිය ගිය දරුවාගේ පියා මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර ඇත්තේ මෙවැනි ජනාකීර්ණ උත්සවවලට කිසි විටෙකත් තම දරුවන් රැගෙන නොයන ලෙසය.
+The father of the deceased child is referring to the media not to take their children to these crowded festivals.
 
-එමෙන්ම දරුවා හැඬීමට පටන් ගත් නිසා රැගෙන ආ බවත් රැස්වීමට විජේ පැමිණි අවස්ථාවේ විදුලිය විසන්ධි කිරීම නිසා ඔහු කියන දේවල් පැහැදිලිව නොඇසීම හේතුවෙන් සියලු දෙනා බසය ළඟට යාමට උත්සහා කළ බවත් මිය ගිය දරුවාගේ ඥාතියෙකු මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර ඇත.
+The child was brought and brought to the meeting, and he had tried to go to the bus and told the media due to his claim to meet the meeting.
 
-එමෙන්ම ඇය වැඩිදුරටත් සඳහන් කර සිටියේ දරුවාගේ මරණයට විජේට දොස් පැවරිය යුතු නැති බවත් දරුවා එවැනි තැනකට රැගෙන යාම ඔවුන්ගේ වරදක් වන බවය.
+She added that Wijeo is not to blame for the death of the child and that it is wrong to take the child to such a place.
 
-කෙසේවෙතත් මෙම සිදුවීමෙන් මේ වන විට 39 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති අතර එම පිරිස අතර ළමුන් 10ක්, කාන්තාවන් 17, පිරිමි පුද්ගලයින් 12 දෙනෙකු ඇතුළත් වේ.
+However, 39 people were killed and 10 children, 17 women, 17 men.
 
-සිද්ධියෙන් තවත් පුද්ගලයින් 46 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවද ඉන් 21කගේ තත්ත්වය බරපතළ බවද ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+Another 46 persons were injured in the incident and 21 of them were seriously in hospital.
+
+It is reported that about 30,000 people have been present at least 30,000 people for the rally of Vijay.
+
+However, the Ministry of Home Affairs has requested the Ministry of Tamil Nadu regarding the incident.
+
+Meanwhile, the DIG in charge of Tamil Nadu has said that Vijayage Party had requested permission to hold the rally to Karur Lighthouse Plants.
 
 ...
 
 [Data](articles/442b7da1.json)
+
+[Extended Data](ext_articles/442b7da1.ext.json)
+
+---
+
+### මැදවච්චිය අධිකරණයේ කා.කා.සහිකාවක මත් පෙති සමග මාට්ටු
+
+*2025-09-28 16:55:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදවචචය-අධකරණය-ක-ක-සහකවක-මත-පත-සමග-මටට/1-680364) · `si`
+
+මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ සේවිකාවක  මත්පෙති හතළිහක් සමග  සැකපිට ප්‍රශ්න කිරීම සඳහා අද සවස අත්අඩංගුවට ගත් බව මිහින්තලේ පොලිසිය කියයි.
+
+මෙම කාන්තාව මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ කාර්යාල කාර්යය සහිකාවක ලෙස සේවය කරන්නියක බව මිහින්තලේ පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/f577c49d.json)
 
 ---
 
@@ -123,23 +189,43 @@ Mihintale Police say that the woman is a commercial partner in the Medawachchiya
 
 ---
 
-### පොලිස් විශේෂ මෙහෙයුම යටතේ තවත් 664ක් අත්අඩංගුවට
+### Another 664 arrested under police special operation
 
 *2025-09-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215102) · `si`
 
-පොලීසිය විසින් දිවයින පුරා සිදුකරන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ විශේෂ මෙහෙයුම යටතේ ඊයේ (28) දිනයේ දී පුද්ගලයින් 664ක් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+At the same day, 664 persons were arrested by the police opening of the criminal and drug prevention of the country.
 
-එමෙන්ම විවිධ අපරාධ සිද්ධීන්වලට සෘජුව සම්බන්ධ පුද්ගලයින් 7 දෙනෙකු අත්අඩංගුවට ගත් බවද පොලීසිය පවසයි.
+Seven persons directly involved in criminal incidents have been arrested, police said.
 
-පොලිස් මාධ්‍ය කොට්ඨාශය සඳහන් කර සිටියේ, මෙම මෙහෙයුමේදී පුද්ගලයින් 28,778 දෙනෙකු පරීක්ෂාවට ලක්කළ බවය.
+The police media division states that 28,778 persons were inspected at the operation.
 
-එහිදී වරෙන්තුකරුවන් 254ක්, විවෘත වරෙන්තුකරුවන් 163ක් අත්අඩංගුවට ගැනීමට පොලීසියට හැකිව ඇත.
+Police can also arrest 254 warrants, 163 open warrants.
 
-මේ අතර මෙම මෙහෙයුම යටතේම බීමත් හා අපරික්ෂාකාරී රිය ධාවනය සම්බන්ධයෙන් පුද්ගලයින් 56 දෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+Meanwhile, 56 persons have been arrested in connection with drunk and unresrtured driving.
 
 ◼️
 
 [Data](articles/9c349f7f.json)
+
+[Extended Data](ext_articles/9c349f7f.ext.json)
+
+---
+
+### ගහ ගත්ත අය දැන් තංගල්ලට බලන්න යනවා
+
+*2025-09-28 16:41:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගහ-ගතත-අය-දන-තගලලට-බලනන-යනව/1-680363) · `si`
+
+එකිනෙකා ගහ ගත්ත අය දැන් බලන්න තංගල්ලට යනවා යැයි ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේදී අද පැවසීය.
+
+ජනාධිපතිවරයා මේ බව කීවේ ටෝකියෝ හි පැවති ශ්‍රී ලාංකික හමුවකදීය.
+
+"නීති හදපු අයම නීති කඩනවා නම් මොකද කරන්නේ.ඔවුන් දන්නවා නීතිය තියෙනවා ක්‍රියාත්මක වෙන්නේ නෑ කියලා.ඉස්සරහට අප නීතිය ක්‍රියාත්මක වන බව තහවුරු කරනවා.පක්ෂ හතළිහක් එක කාමරයකට එකතු වෙන්න තරම් අපි ඒක ඔප්පු කර තියෙනවා.
+
+මං දැක්කා අදත් තංගල්ලේ යනවා බලන්න.මේ එකිනෙකා ගහ ගත්ත අය.දූෂණ විරෝධී පනත හරියට ක්‍රියාත්මක වෙන බව මේ අය දැන් දන්නවා යනුවෙන් ද ජනාධිපතිවරයා කීය.
+
+◼️
+
+[Data](articles/3eb23746.json)
 
 ---
 
@@ -203,6 +289,42 @@ If a petition is on the country, it must be debated in Parliament. But it does n
 
 ---
 
+### 2029 යූ.කේ රැකියාවකට ඩිජිටල් හැඳුණුම්පත අනිවාර්ය කරයි
+
+*2025-09-28 16:31:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/2029-ය-ක-රකයවකට-ඩජටල-හඳණමපත-අනවරය-කරය/1-680362) · `si`
+
+නීති විරෝධී සංක්‍රමණ වැළැක්වීමේ පියවරක් ලෙස 2029 වසරේ සිට එක්සත් රාජධානියේ රැකියාවක් කිරීම සඳහා එරට රජය නිකුත් කරන ඩිජිටල් හැඳුනුම්පත ළඟ තිබීම අනිවාර්ය කර තිබේ.
+
+ඩිජිටල් හැඳුනුම්පත් ක්‍රමය හඳුන්වා දෙමින් අග්‍රාමාත්‍ය කීර් ස්ටාර්ම ප්‍රකාශ කර ඇත්තේ ඩිජිටල් හැඳුනුම්පත මගින් එක්සත් රාජධනියට නීති විරෝධීව පැමිණ රැකියා කිරීම අපහසු වනු ඇති බවත් ඊට අමතරව එමගින් ජනතාවට විශේෂ ප්‍රතිලාභ ගණනාවක් අත්වනු ඇති බවත්ය.
+
+කෙසේ නමුත් විරුද්ධ පක්ෂය පවසා ඇත්තේ ඩිජිටල් හැඳුනුම්පතින් නීති විරෝධී සංක්‍රමණිකයන් පැමිණීම වැළැක්වීමට නොහැකි බවයි.
+
+අග්‍රාමාත්‍යවරයා ඩිජිටල් හැඳුනුම්පත් ක්‍රමය නිවේදනය කිරීමත් සමග අත්සන් ලක්ෂ 16 කට වැඩි ප්‍රමාණයකින් යුතු පෙත්සමක් ඊට විරුද්ධව ඉදිරිපත් වී ඇත . රජය විසින් නිකුත් කරනු ලබන හැඳුනුම්පතකට ලියාපදිංචි වන ලෙස කිසිවකුටත් බල නොකළ යුතු බව එම පෙත්සමේ සඳහන් වේ. රජය ජනතව පාලනය කිරීම සහ නිරීක්ෂණය කිරීමේ පළමු පියවර ඩිජිටල් හැඳුනුම්පත බවද එම පෙත්සමේ දැක්වේ.
+
+...
+
+[Data](articles/b6d08fe5.json)
+
+---
+
+### ලොව උසම පාලම
+
+*2025-09-28 16:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලව-උසම-පලම/1-680361) · `si`
+
+ලොව උසම පාලමට හිමි වාර්තාව හිමිකර ගනිමින් චීනයේ හුවාජියෑන්ග් ග්‍රෑන්ඩ් කැන්යන් පාලම  අද (28) ජනතා අයිතියට පත්විය. අවුරුදු තුනක් පුරා විශාල කඳු දෙකක් යා කරමින් ඉදිවුණු හුවාජියෑන්ග් පාලම ලොව දිගින් සහ උසින් වැඩිම පාලම වේ.
+
+චීනයේ ග්වීජෝ පළාතේ ඉදිකර ඇති මෙම පාලම පහළ ගලා යන ගංගාවට මීටර් 625 ක් ඉහළින් ඉදිවී ඇත.
+
+මීට පෙර ලොව උසම පාලමට හිමි වාර්තාව හිමිකරගෙන තිබුණේ ද ග්වීජෝ පළාතේම තවත් පාලමකි. මීට පෙරට එම වාර්තාව හිමිකරගෙන තිබූ පාළමේ උස මීටර 565 කි.
+
+එරට මාධ්‍ය හුවාජියෑන්ග් ග්‍රෑන්ඩ් කැන්යන් පාලම නිල වශයෙන් විවෘත කිරීම ඩ්‍රෝන දර්ශන මගින් සජීවීව විකාශය කළ අතර දැවැන්ත ව්‍යුහය හරහා වාහන ගමන් කරන ආකාරය, එහි නිල් ආධාරක කුළුණු අර්ධ වශයෙන් වලාකුළුවලින් වැසී ඇති ආකාරය ඉන් පෙන්නුම් කෙරිණි. හුවාජියෑන්ග් ග්‍රෑන්ඩ් කැන්යන් පාලම විවෘතවීමත් සමග එම ප්‍රදේශ දෙක අතර ගමනාගමනයට ගතවූ කාලය පැය දෙකයි විනාඩි දෙකකින් අඩුවී තිබෙන බව පළාත් ප්‍රවාහන දෙපාර්තමේන්තුවේ ප්‍රධානී ෂැං යින් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/61461294.json)
+
+---
+
 ### World's tallest bridge
 
 *2025-09-28 16:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලව-උසම-පලම/101-680361) · `si`
@@ -220,6 +342,28 @@ The official opening of the media Huwagang Grand Granid Bridge showed a lonely o
 [Data](articles/fc18777d.json)
 
 [Extended Data](ext_articles/fc18777d.ext.json)
+
+---
+
+### ලබන අයවැයෙන් අලුත් බදු ගහන්නේ නෑ
+
+*2025-09-28 16:23:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලබන-අයවයන-අලත-බද-ගහනන-න/1-680360) · `si`
+
+මෙවර අයවැය ලේඛනයෙන් අලුත් කිසිදු බද්දක් හඳුන්වා නොදී ඉන්නට උත්සාහ කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේ දී අද (28)පැවසීය.
+
+තවත් ඉදිරියට යාමේදී පවතින බදු ප්‍රතිශතයන් අඩු කිරීමටද කටයුතු කරන බව ජනාධිපතිවරයා කීය.
+
+ජනාධිපති අනුර දිසානායක මහතා මේ බව කීවේ ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව සමඟ ටෝකියෝහිදී පැවැති රැස්වීමකදීය.
+
+බදු බර වැඩි යැයි ඇතැමුන් කියන බව කී ජනාධිපතිවරයා එලෙස බදු බර වැඩි වන්නේ ඇයි දැයි සලකා බැලිය යුතු බව කීය.
+
+මෙලෙස රජයට ආදායම් උපයා ගන්නට සිදුවී ඇත්තේ එළියේ ආර්ථිකය කුඩා නිසා යැයි ද එළියේ ආර්ථිකය විශාල වුණොත් බදු ප්‍රමාණය අඩු කරන්න පුළුවන් කම ඇතැයි ද ජනාධිපතිවරයා සඳහන් කළේය.රජයට එවැනි සැලසුමක් ඇතැයි ද ජනාධිපතිවරයා කීය. සියලු පුරවැසියන් භාණ්ඩ මිලදී ගැනීමේදී සියයට 18ක බද්දක් ගෙවීම යුක්ති සහගත නැතැයි ද නමුත් එළියේ ආර්ථිකය කුඩා වීම නිසා ඒ බද්ධ අය කරන්නට සිදුවී ඇතැයි ද ජනාධිපතිවරයා සඳහන් කළේය.
+
+අතීත අයවැය ‍ලේඛන වල හැම විටම සිදුවී තිබෙන්නේ නැවත නැවත අලුතින් බදු යෝජනා ඉදිරිපත් කිරීම බවද ජනාධිපති අනුර කුමාර දිසානායක මහතා කීය.
+
+◼️
+
+[Data](articles/3244d1ce.json)
 
 ---
 
@@ -335,19 +479,21 @@ Sri Lanka's tax history will be an important milestone on October 1, 2025. Accor
 
 ---
 
-### සීමා පැන්න තවත් ඉන්දීය ධීවරයින් 12ක් අත්අඩංගුවට
+### 12 Indian fishermen arrested
 
 *2025-09-28 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215100) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව හා එක්ව අද (28) අළුයම් කාලයේ, යාපනය  ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන්  වූ මෙරට මුහුදු සීමාවේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුමක් මඟින්, දේශීය ජල තීරය තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රාවක් සමඟ ඉන්දීය ධීවරයින් දොළොස් දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+The Sri Lanka Navy, the Department of Coast Guard today (28), has been taken into custody by the Navy with a Indian fishermen with Indian fishing vessel in the local floor.
 
-විදේශීය ධීවර යාත්‍රා මෙරට මුහුදු සීමාව උල්ලංඝනය කරමින් සිදු කරනු ලබන නීති විරෝධී ධීවර කටයුතු මැඩ පවත්වා, දේශීය ධීවර ප්‍රජාවගේ ජීවනෝපාය රැකදීම වෙනුවෙන් නාවික හමුදාව සහ වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව නිරන්තර මෙහෙයුම් සිදු කරනු ලබයි.
+The Department of Navy and the Coast Guard are conducting constant operations to protect the livelihood of foreign fishing boundaries.
 
-මෙම මෙහෙයුම මඟින් නාවික හමුදා භාරයට ගත් ඉන්දීය ධීවර යාත්‍රාව සහ එහි සිටි ඉන්දීය ධීවරයින් දොළොස්දෙනා කන්කසන්තුරය වරාය වෙත රැගෙවිත් ඉදිරි නීතිමය කටයුතු සඳහා යාපනය මයිලඩි ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දී ඇත.
+The Indian fishing vessel and its fishermen taken into custody by the Navy were taken to the Jaffna Milokentani Fisheries Office for future legal action.
 
 ◼️
 
 [Data](articles/acb76aa5.json)
+
+[Extended Data](ext_articles/acb76aa5.ext.json)
 
 ---
 
@@ -369,19 +515,21 @@ Cargage staff said the train was slowly traveling and the woman was close to the
 
 ---
 
-### பொடி மெனிக்கேயில் சிக்கிய பெண்
+### The woman caught in the powder menike
 
 *2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கேயில்-சிக்கிய-பெண்/76-365416) · `ta`
 
-பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பொடி மெனிக்கே ரயிலில் மோதிய ஒரு பெண், அதன் இயந்திரத்திற்குள் சிக்கி இருந்த நிலையில் அருகிலுள்ள கரேஜில் பணிப்புரிந்த தொழிலாளர்களால் மீட்கப்பட்டு டிக் ஓயா அடிப்படை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby carge and has been admitted to Dik Oya Basic Hospital.
 
-ஹட்டன் ரயில் நிலையத்திற்கு அருகில், ஹட்டன் - நுவரெலியா பிரதான வீதியில் உள்ள ரயில் கடவைக்கு அருகில் இந்த விபத்து நிகழ்ந்தது.
+The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near Hatton Railway Station.
 
-பொடி மெனிக்கே ரயில் மெதுவாக பயணித்ததாகவும்,குறித்த பெண் நீண்ட நேரம் ரயில் பாதைக்கு அருகில் இருந்ததாகவும் கரேஜ் ஊழியர்கள் தெரிவித்துள்ளனர்.
+Cargage staff said the train was slowly traveling and the woman had been close to the railway line for a long time.
 
 ◼️
 
 [Data](articles/ccc9af4e.json)
+
+[Extended Data](ext_articles/ccc9af4e.ext.json)
 
 ---
 
@@ -478,6 +626,28 @@ Akash and Gokulasree have gone to attend the Tawaka meeting in Karur yesterday. 
 [Data](articles/6c436f12.json)
 
 [Extended Data](ext_articles/6c436f12.ext.json)
+
+---
+
+### කුඩු නිෂ්පාදිත රටක් වීම බරපතල තත්වයක්
+
+*2025-09-28 15:28:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කඩ-නෂපදත-රටක-වම-බරපතල-තතවයක/1-680354) · `si`
+
+මත්ද්‍රව්‍ය නිෂ්පාදනය කරන රටක් බවට ශ්‍රී ලංකාව පත්වීම බරපතල තත්ත්වයක් බව  තිබ්බොටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මල්වතු පාර්ශවයේ මහානායක හිමියෝ පවසති.
+
+උන්වහන්සේ ඒ බව අවධාරණය කර සිටියේ  අමාත්‍ය ආනන්ද විජේපාල සහ පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසූරිය යන මහත්වරුන් උන්වහන්සේ බැහැ දැක ආශිර්වාද ලබාගත් අවස්ථාවේදීය.
+
+මත් ද්‍රව්‍ය මැඩලීම සඳහා රජය විධිමත් වැඩපිළිවෙලක් ක්‍රියාත්මක කළ යුතුයි.
+
+රුණ පරපුර මත්ද්‍රව්‍ය උවරෙන් ගලවා ගැනීම සඳහා රජය විසින් පුළුල් වැඩපිළිවෙළක් ක්‍රියාත්මක කළ යුතුයි.  මත්ද්‍රව්‍ය උවදුරෙන් රට ගලවා ගැනීම සඳහා වත්මන් රජය අවංක උවමනාවකින් යුතුව කටයුතු කරන බව පෙනෙන්නට තියෙනවා.
+
+මතට ඇබ්බැහි වූවන් පුනරුත්ථාපනය කළද පසුව ඔවුන් නැවතත් ඊට ඇබ්බැහි වන බවට ආරංචි ලැබෙමින් තිබෙනවා.  මතට ඇබ්බැහි වූවන්ගේ පුනරුත්ථාපන කටයුතු විධිමත්ව සිදුකළ යුතුයි. තිබෙන බවත් උන්වහන්සේ අවධාරණය කළේය.
+
+මෙහිදී අමාත්‍ය ආනන්ද විජේපාල මහතා අවධාරණය කර සිටියේ විවිධ රටවලින් විදේශිකයන් මෙරටට පැමිණ ලෝකය ඇති අධික විෂ සහිත මත්ද්‍රව්‍ය මෙරට නිෂ්පාදනය කොට ඇති බවට කරුණු අනාවරණය වී ඇති බවයි.
+
+◼️
+
+[Data](articles/9208a47c.json)
 
 ---
 
@@ -1816,161 +1986,5 @@ It is also allowed to blackened one -fifth of the mirror to prevent the sunlight
 [Data](articles/8da7dd98.json)
 
 [Extended Data](ext_articles/8da7dd98.ext.json)
-
----
-
-### Slice
-
-*2025-09-28 11:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாண்-துண்டில்-நறுக்கென-கடிப்பட்ட-விரல்-தோல்-துண்டு/76-365403) · `ta`
-
-A shocking incident has been reported in Hatton. The client discovered a portion of human skin from a finger in a piece of pieces purchased from the local bakery.
-
-Customer. 180 ரூபாய் கொடுத்து வியாழக்கிழமை (25) இரவு உணவிற்கு பாண்  வாங்கியதாக தகவல்கள் தெரிவிக்கின்றன. While consuming the pan, the person took care of the skin and avoided eating more. Hatton-Dikoya Municipal Council has handed over to the Public Health Inspectors (PHI), polluted with leather.
-
-After reviewing the evidence, the PhIs said the Bakery owner had already been charged with the Hatton Magistrate's Court several times and sued for maintaining the premises unhealthy.
-
-Officials said that steps are being taken to file several new cases against the bakery owner in connection with the recent incident.
-
-◼️
-
-[Data](articles/aeeb00e2.json)
-
-[Extended Data](ext_articles/aeeb00e2.ext.json)
-
----
-
-### Boy killed
-
-*2025-09-28 11:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-சிறுவன்-பலி/175-365402) · `ta`
-
-A 14 -year -old boy dies after colliding with a train from Badulla to Colombo Fort.
-
-The boy from Medagama, who was traveling with his friends to Colombo Fort with his friends, landed on a train to Tissmalola.
-
-Police investigations revealed that the boy was hit by the train while trying to cross the rails.
-
-◼️
-
-[Data](articles/0b977545.json)
-
-[Extended Data](ext_articles/0b977545.ext.json)
-
----
-
-### If all parties join the UNP, no political force can compensate for it- Naveen Dissanayake
-
-*2025-09-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226296) · `ta`
-
-If all parties join with the United National Party, no other political force can compensate for it. About 15 lakh voters do not vote due to the split between the United People's Power and the UNP. Former Minister Naveen Dissanayake said that if their expectation is met, we can easily ensure our success.
-
-He further stated that he was speaking to the media after a discussion held on Sunday in Anuradhapura.
-
-Continuing negotiations with United People's Power. Other parties have agreed to work with us. If all parties can unite within the camp of the United National Party can start the journey for victory from there. The United National Party alone has about 40 lakh votes.
-
-So our expectation is that these 40 lakh voters should be added to one place. I am actively involved in the effort. So all the UNP. We also urge supporters to participate in it. Leadership is not a problem here. So the leaders of both parties can hold those positions.
-
-...
-
-[Data](articles/23c170bc.json)
-
-[Extended Data](ext_articles/23c170bc.ext.json)
-
----
-
-### Overcoming name is another name of the Nawawala accident
-
-*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/1-680344) · `si`
-
-There was another name that was wounded by the electricity driven dack in the electrical monk who lives in the Paniyagama Oya Aranya Senasana.
-
-The monks 7 monks were in the event recently and another six were wounded.
-
-The Indicota Thero, Pannipitiya, is being treated at the Kurunegala Teaching Hospital.
-
-The injured in the accident was receiving treatment at the ICU of the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/39811de7.json)
-
-[Extended Data](ext_articles/39811de7.ext.json)
-
----
-
-### Overcoming name is another name of the Nawawala accident
-
-*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/101-680344) · `si`
-
-There was another name that was wounded by the electricity driven dack in the electrical monk who lives in the Paniyagama Oya Aranya Senasana.
-
-The monks 7 monks were in the event recently and another six were wounded.
-
-The Indicota Thero, Pannipitiya, is being treated at the Kurunegala Teaching Hospital.
-
-The injured in the accident was receiving treatment at the ICU of the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/6a17bd9e.json)
-
-[Extended Data](ext_articles/6a17bd9e.ext.json)
-
----
-
-### Saudi Arabian military advisor met the defense secretary
-
-*2025-09-28 11:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவுதி-அரேபிய-இராணுவ-ஆலோசகர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365401) · `ta`
-
-Captain (Navy) Hussain Othman Al Kowileet, Defense Advisor of Saudi Arabian Embassy in New Delhi and Colombo, met with Defense Secretary Eyaris Marshall Sampath Sampath Sampath (retirement) at the Ministry of Defense on Wednesday (26).
-
-The Saudi Arabian security consultant was warmly welcomed by the Defense Secretary and held a smooth discussion with him.
-
-During this time they exchanged comments on mutual interested matters and strengthening bilateral cooperation. They also recalled the long -term goodwill between the two countries.
-
-◼️
-
-[Data](articles/d0403eee.json)
-
-[Extended Data](ext_articles/d0403eee.ext.json)
-
----
-
-### First ‘Health and Wellness Center’ opens in Mapalagama
-
-*2025-09-28 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112986/first-health-and-wellness-center-opens-in-mapalagama) · `en`
-
-A health service will be established in Sri Lanka which prioritizes the well-being of the people and ensures accountability, while health professionals are committed to safeguarding public health, the Minister of Health and Mass Media, Dr. Nalinda Jayatissa stated.
-
-The Minister said this while participating in the opening of the Mapalagama Health and Wellness Center in the Galle District as the first step of the “Healthy Sri Lanka” program.
-
-Under this program, which is implemented under the government’s innovative program for a healthy country, 100 primary health care centers are scheduled to be opened this year.
-
-The centers, established in convenient and easily accessible locations, will operate as comprehensive primary healthcare units offering a wide range of essential services.
-
-...
-
-[Data](articles/478d4934.json)
-
-[Extended Data](ext_articles/478d4934.ext.json)
-
----
-
-### Digital ID is compulsory for working in the UK
-
-*2025-09-28 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215094) · `si`
-
-As a goal of suppressing illegal immigration, digital identity card is to be used to work in the UK.
-
-The New Digital Identity Card Scheme is difficult to serve in the UK, which provides a range of benefits to the citizens.
-
-Foreign media reports that after the arrival of the Labor Party, the government has been stressed to solve the illegal immigration problem with the arrival of more than 50,000 migrants.
-
-It is difficult to work illegally working in the country due to the new digital identity card.
-
-◼️
-
-[Data](articles/c0c8e43d.json)
-
-[Extended Data](ext_articles/c0c8e43d.ext.json)
 
 ---

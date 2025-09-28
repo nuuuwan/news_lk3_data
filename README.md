@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 19:06:15**
+As of **2025-09-28 18:55:56**
 
 ## Newspaper Stats
 
@@ -179,17 +179,9 @@ The Prime Minister emphasized that law does not prohibit morality in schools. �
 
 *2025-09-28 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113003/ex-western-pc-member-amal-silva-arrested-by-walana-anti-vice-squad) · `en`
 
-Amal Silva, a former member of the Western Provincial Council, has been arrested by the Walana Anti-Vice Squad, along with three luxury vehicles worth approximately Rs. 60 million, which had been allegedly registered using forged documents, police stated.
+Former Western Provincial Council member Amal Silva has been arrested by the Walana Anti-Vice Squad, police stated.
 
-He was arrested today (28) during a raid carried out based on intelligence received by the Walana Anti-Vice Squad.
-
-According to reports, the vehicles had been illegally imported into the country and registered with the Department of Motor Traffic under fraudulent registration numbers using forged documentation.
-
-Among the vehicles seized were three SUVs, including a Land Rover and Mitsubishi Jeep.
-
-Preliminary police investigations have revealed that the registration numbers used belonged to government-owned vehicles, and fake documents were generated to facilitate the illegal registration of these luxury vehicles.
-
-The suspect is scheduled to be produced before the Panadura Magistrate’s Court tomorrow (29).
+He has been apprehended with three luxury vehicles valued at Rs. 60 million registered by using forged documents.
 
 ◼️
 

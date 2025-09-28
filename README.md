@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 02:36:56**
+As of **2025-09-29 03:05:48**
 
 ## Newspaper Stats
 
-*Scraped **79,294** Articles*
+*Scraped **79,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
-tamilmirrorlk | 11,871
+tamilmirrorlk | 11,872
 virakesarilk | 12,922
 adaderanasinhalalk | 13,749
 
@@ -27,11 +27,31 @@ adaderanasinhalalk | 13,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,294 (100.0%) of 79,294 articles have been extended.
+79,295 (100.0%) of 79,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### Earthquake in China
+
+*2025-09-29 01:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-நில-அதிர்வு/50-365443) · `ta`
+
+Eleven people were injured in an earthquake in China's Kansu province. Many houses were damaged.
+
+The earthquake in the Langzi district of China's Kansu province yesterday morning occurred at 5.6 McNett.
+
+Of these, 17 houses were demolished. More than 3,500 residential buildings were damaged. About 7,800 people left their homes in Langzi and Jangcian districts.
+
+Five of the six people taken to the hospital are being treated in the wreckage. (A)
+
+◼️
+
+[Data](articles/74acf053.json)
+
+[Extended Data](ext_articles/74acf053.ext.json)
+
+---
 
 ### Asian Bowl Cricket: India champion for the 9th time
 
@@ -2030,29 +2050,5 @@ The High Commission has reported that four fishermen have been safely sent back 
 [Data](articles/2e7c234f.json)
 
 [Extended Data](ext_articles/2e7c234f.ext.json)
-
----
-
-### Call for public disabled tomorrow in Mannar
-
-*2025-09-28 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226328) · `ta`
-
-Mannar Citizens Committee Chairman Aruttantha S. Mugas Adikallar has called for all parties to cooperate in the Mannar's public cripple struggle tomorrow (29) in protest against the windmill project in Mannar and the police attack on the people.
-
-He was speaking at a media briefing held in Mannar for the 57th day on Sunday (28).
-
-We are calling on the public in the Mannar district tomorrow. All the activities must be completely stopped and cooperated.
-
-Those who duty in non -governmental organizations should cooperate with us not to go to duties tomorrow.
-
-The rally will commence from the Mannar Public Playground at 10 am on Monday (29). The rally will reach the Mannar Bazaar area.
-
-At the end of the struggle, our request will be handed over to the Mannar District Government Agent to hand over to the President of the Mahajar President at the end of the struggle.
-
-...
-
-[Data](articles/37c0ec89.json)
-
-[Extended Data](ext_articles/37c0ec89.ext.json)
 
 ---

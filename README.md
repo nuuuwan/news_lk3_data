@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 21:56:13**
+As of **2025-09-28 22:20:28**
 
 ## Newspaper Stats
 
-*Scraped **79,274** Articles*
+*Scraped **79,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,125 @@ economynextcom | 4,733
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,641
+adalk | 7,642
 adaderanalk | 10,238
-tamilmirrorlk | 11,868
-virakesarilk | 12,914
-adaderanasinhalalk | 13,743
+tamilmirrorlk | 11,870
+virakesarilk | 12,916
+adaderanasinhalalk | 13,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,271 (100.0%) of 79,274 articles have been extended.
+79,277 (100.0%) of 79,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### ஆசியக் கிண்ணம்: இந்தியாவுக்கு வெற்றியிலக்கு 147 ஓட்டங்கள்
+
+*2025-09-28 22:05:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணம்-இந்தியாவுக்கு-வெற்றியிலக்கு-147-ஓட்டங்கள்/44-365428) · `ta`
+
+ஐக்கிய அரபு அமீரகத்தின் டுபாயில் இன்று நடைபெற்று வரும் இறுதிப் போட்டியின் நாணயச் சுழற்சியில் வென்ற இந்திய அணியின் தலைவர் சூரியகுமார் யாதவ், பாகிஸ்தானை முதலில் துடுப்பெடுத்தாடப் பணித்தார்.
+
+அந்தவகையில் முதலில் துடுப்பெடுத்தாடிய பாகிஸ்தான், சஹிப்ஸடா பர்ஹான், பக்கர் ஸமன் மூலம் சிறப்பான ஆரம்பத்தைப் பெற்றது. 57 (38) ஓட்டங்களுடன் வருண் சக்கரவர்த்தியிடம் பர்ஹான் வீழ்ந்ததன் பின்னர் 12.4 ஓவர்களில் ஒரு விக்கெட் இழப்புக்கு 113 ஓட்டங்களைப் பெற்றிருந்த பாகிஸ்தான் மேலும் 33 ஓட்டங்களைப் பெறுவதற்குள் குல்தீப் யாதவ் (4), அக்ஸர் பட்டேல் (2), வருண் சக்கரவர்த்தி, ஜஸ்பிரிட் பும்ராவிடம் (2) 9 விக்கெட்டுகளைப் பறிகொடுத்து 19.1 ஓவர்களில் சகல விக்கெட்டுகளையும் இழந்து 146 ஓட்டங்களையே பெற்றது.
+
+◼️
+
+[Data](articles/e3c19453.json)
+
+---
+
+### விஜய் வீட்டுக்கு வெடிகுண்டு மிரட்டல்
+
+*2025-09-28 21:59:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்-வீட்டுக்கு-வெடிகுண்டு-மிரட்டல்/54-365427) · `ta`
+
+தவெக தலைவர் விஜய் வீட்டுக்கு வெடிகுண்டு மிரட்டல் விடுக்கப்பட்டுள்ளது. சென்னை நீலாங்கரையில் உள்ள விஜய் வீட்டிற்கு மர்ம நபர் இமெயில் மூலமாக வெடிகுண்டு மிரட்டல் விடுத்துள்ளார்.
+
+கரூரில் நேற்று தவெக தலைவர் விஜய் நடத்திய பிரசார கூட்டத்தில் நெரிசல் ஏற்பட்டது. இந்த கூட்ட நெரிசலில் சிக்கி 40 பேர் உயிரிழந்த சம்பவம் நாட்டையே உலுக்கியுள்ளது.
+
+கரூர் கூட்ட நெரிசல் சம்பவம் தொடர்பாக விசாரணை நடத்த ஓய்வு பெற்ற நீதிபதி அருணா ஜெகதீசன் தலைமையில் ஒரு நபர் விசாரணை ஆணையம் அமைக்கப்பட்டது.
+
+இது ஒரு புறம் இருக்க நடிகர் விஜய்யின் வீட்டின் முன்பு போலீஸ் பாதுகாப்பு போடப்பட்டு உள்ளது.
+
+சென்னையில் உள்ள நீலாங்கரை வீட்டின் முன்பு போலீசார் பாதுகாப்புக்கு நிற்க வைக்கப்பட்டுள்ளனர். இந்த நிலையில் விஜய்யின் வீட்டிற்கு வெடிகுண்டு மிரட்டல் விடுக்கப்பட்டுள்ளமை பரபரப்பை அதிகரித்துள்ளது..R
+
+◼️
+
+[Data](articles/b1cdd86a.json)
+
+---
+
+### Arrested in the manufacture of illegal leakage
+
+*2025-09-28 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226350) · `ta`
+
+Police said that a man involved in illegal leakage production was arrested and others had fled during the raid carried out by Valaichenai police in Batticaloa.
+
+The equipment used for production, including 1817000 milliliters of leakage, has also been seized.
+
+Under the guidance of the police station in charge of the Valaichenai Special Division on Sunday, the 28th, the police officer Lasantha Bandara led by SJAsanka, led by SJAsanka, was seized during the raid on the Vanneri Kalkani forest area.
+
+The suspect is being produced at the Valaichenai Magistrate's Court, including the seized items and the police are conducting further investigations.
+
+It is noteworthy that the police have seized such a surrounding campaign in the Valaichenai Kinnayadi area.
+
+◼️
+
+[Data](articles/fc3acd0c.json)
+
+[Extended Data](ext_articles/fc3acd0c.ext.json)
+
+---
+
+### ඉන්දියාවට ලකුණු 147ක ඉලක්කයක්
+
+*2025-09-28 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215114) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අද (28) පැවැත්වෙන අවසන් මහා තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවාර 19.1කදී සියලුදෙනා දැවී ලකුණු 146ක් රැස්කිරීමට සමත් විය.
+
+ඒ අනුව ආසියානු ශූරයන් ලෙසින් කිරුළු පැළඳීමට ඉන්දියාවට ලකුණු 147ක ඉලක්කයක් හිමිවිය.
+
+පාකිස්තාන කණ්ඩායමට සාර්ථක ආරම්භයක් රැගෙන ඒමට සහිබ්සාඩා ෆර්හාන් හා ෆකර් සමාන් සමත් වූ අතර, ඔවුන් දෙදෙනා පළමු කඩුල්ලට පන්දු 58කදී ලකුණු 84ක් රැස්කිරීමට සමත් විය.
+
+කෙසේ නමුත් එහිදී පන්දු 38කින් ලකුණු 57ක් රැස්කළ ෆර්හාන් දැවීයාමත් සමග පාකිස්තාන ඉනිමේ කඩාවැටීමට ආරම්භ විය.
+
+එතැන් සිට ලකුණු 62ක් තුළ පාකිස්තාන සියලුම පිතිකරුවන් දැවී ගියේය.
+
+පාකිස්තානය ඉනිමේ පළමු පන්දුවාර 10 අවසන් වනවිට ලකුණු පුවරුව 87/1ක් ලෙස සටහන් වූ අතර, අවසන් පන්දුවාර 9.1කදී එය සටහන් වූයේ 59/9ක් ලෙසය.
+
+පාකිස්තාන පිතිකරුවන් අසරණ කළ පන්දු යැවීමක නිතර වූ කුල්දීප් යාදව් ලකුණු 30කට කඩුලු 4ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/eb986965.json)
+
+---
+
+### උකුස්සාට හසු වූ රන් කාසි හොරු
+
+*2025-09-28 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215113) · `si`
+
+නිධානයකින් ලබාගත් රන් කාසි විකිණීමට ඇති බව පවසා ගැනුම්කරුවන් රවටන ජාවාරම්කරුවන් පිරිසක් නීතියේ රැහැනට හසුකරදීමට අද දෙරණ උකුස්සාට හැකිවිය.
+
+නිධන්වලින් ලබාගත් රත්‍රං අලෙවිකරන බව පවසා ජනතාව රවටන ජාවාරම්කරුවන් පිළිබඳව අද දෙරණ උකුස්සා අවස්ථා රැසකදීමට රට හමුවේ අනාවරණ කර තිබේ.
+
+එවන් පසුබිමක සංවිධානාත්මක කණ්ඩායමක් දිවයිනේ විවිධ ප්‍රදේශ කේන්ද්‍රකර ගනිමින් තවත් එවැනිම ජාවාරමක් සිදුකරන බවට අපට තොරතුරු ලැබුණි.
+
+ඒ අනුව උකුස්සා පළමුව උපායදූතයෙකු මාර්ගයෙන් ජාවාරම්කරු සමඟ හිතවත්කමක් ගොඩනගාගත්තේ අපටද රත්‍රං මිලදීගැනීමට අවශ්‍ය බව පවසමිනි.
+
+එහිදී සිත්ඇදගන්නා සුළු අයුරින් අප සමග සංවාදයේ යෙදෙන ජවාරම්කරු හමුවීමට අප දිනයක් යොදාගෙන මිහින්තලය ප්‍රදේශයට ළඟාවන්නේ ජාවාරම පිළිබඳව සැකහැර දැනගැනීම සඳහාය.
+
+අපව මිහින්තලේ ප්‍රදේශයේ විවිධ ස්ථානවලට කැඳවන ජාවාරම්කරු අනතුරුව මරදන්කඩවල ප්‍රදේශයට පැමිණෙන ලෙස දැනුම්දුන්නේය.
+
+අනතුරුව අප මේ පිළිබඳව මරදන්කඩවල පොලීසිය දැනුම්වත් කිරීමෙන් පසු එහි නිලධාරීන් කණ්ඩායමක් සමග අදාළ ප්‍රදේශයට ළඟාවන්නේ අඳුරවැටුණ පසුවය.
+
+...
+
+[Data](articles/7958b6c3.json)
+
+---
 
 ### President Says Equal Application of Law Unites Citizens Across Party Lines
 
@@ -42,6 +146,30 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake, speaking during his off
 ◼️
 
 [Data](articles/68a47be6.json)
+
+[Extended Data](ext_articles/68a47be6.ext.json)
+
+---
+
+### ඉන්දීය ක්‍රිකට් සභාපති පුටුව මිතුන් මන්හාස්ට
+
+*2025-09-28 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215112) · `si`
+
+ඉන්දීය ක්‍රිකට් ආයතනයේ (BCCI) නව සභාපතිවරයා ලෙස මිතුන් මන්හාස් තේරීපත් විය.
+
+BCCI 94වන වාර්ෂික මහා සභා රැස්වීම අද (28) පැවැති අතර, එහිදී ඔහු නිතරගයෙන් තේරී පත් විය.
+
+ඉන්දීය පළමුපෙළ ක්‍රිකට් ක්‍රීඩකයෙකු මෙන්ම දිල්ලි ප්‍රාන්ත කණ්ඩායමේ හිටපු නායකයකේද වන මන්හාස් එරට 37 වන ක්‍රිකට් සභාපතිවරයා වේ.
+
+45 හැවිරිදි මන්හාස් පළමු පෙළ ශතක 27ක් හා ශතක 49ක් රැස්කර ඇති ඔහු ලකුණු 9,714ක් රැස්කළ ඇත.
+
+දිල්ලි ප්‍රාන්ත කණ්ඩායමට අමතරව ඉන්දීය ඒ, ඉන්දීය 19න් පහළ, චෙන්නායි සුපර් කිංග්ස්, දිල්ලි ඩෙයාඩෙවිල්ස්  ඇතුළු කණ්ඩායම් කිහිපයක්ම නියෝජනය කර ඇත.
+
+ඉන්දීය හිටපු සභාපති රොජර් බිනී ඉකුත් අගෝස්තු මස සිය ධුරයෙන් ඉල්ලා අස්විය. ඒ හේතුවෙන් වැඩබලන සභාපතිවරයා ලෙස උප සභාපති රජීව් ශුක්ලා කටයුතු කළේය.
+
+◼️
+
+[Data](articles/9c27eada.json)
 
 ---
 
@@ -57,19 +185,45 @@ Later, former Presidents Mahinda Rajapaksa and Ranil Wickremesinghe engaged in a
 
 [Data](articles/e879eafe.json)
 
+[Extended Data](ext_articles/e879eafe.ext.json)
+
 ---
 
-### மஹிந்த ராஜபக்சவை சந்தித்த இ.தொ.கா பிரதிகள்
+### මනම්පේරිගේ පාපොච්චාරණයෙන් තවත් තොරතුරු එළියට
+
+*2025-09-28 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215111) · `si`
+
+බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ රඳවා සිටින සම්පත් මනම්පේරිගෙන් විමර්ශන නිලධාරීන් දීර්ඝ ලෙස ප්‍රශ්න කර ඇති අතර එහිදී අයිස් අමුද්‍රව්‍ය ඇතුළු කරුණු සම්බන්ධයෙන් කරුණු රැසක් අනාවරණ වී තිබේ.
+
+සම්පත් මනම්පේරි විමර්ශන නිලධාරීන් හමුවේ පවසා ඇත්තේ, අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කරන බවට පැවසෙන රසායනික ද්‍රව්‍ය මෙරටට රැගෙනවිත් දිනකට පසුව ඒවා අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදාගන්නා රසායනික බවට තමන් දැනගත් බවය.
+
+එතෙක් තමන් ඒ පිළිබදව කිසිවක් දැන නොසිටි බවද සැකකරු පවසා තිබේ.
+
+ඔහුගෙන් කරන ලද ප්‍රශ්න කිරීම්වලදී අනාවරණය වී ඇත්තේ බැකෝ සමන්ගේ වට්ස්ඇප් දැනුම්දීම මත එම කන්ටේනර් දෙක මිද්දෙණිය ප්‍රදේශයට රැගෙන ගිය බවය.
+
+එහිදී බැකෝ සමන් විසින් ''අයියේ කන්ටේනර් දෙකක් තියෙනවා. ඒ දෙක නිදහස් කරගන්න ඕනා. මට ඒක කරලා දෙන්න පුළුවන් ද? යනුවෙන් සම්පත් මනම්පේරිගෙන් විමසා ඇති අතර ඊට ඔහු ''ලෙඩක් වැටෙන දෙයක්ද මල්ලී'' යනුවෙන් විමසා ඇත.
+
+එහිදී බැකෝ සමන් ''එහෙම දෙයක් නෙවෙයි අයියේ. ගල් වගයක් එන්නේ. වරායෙන් නිදහස් කරලා තියෙන්නේ. අයියට තියෙන්නේ ගිහින් ගන්න විතරයි ”‍ යනුවෙන් සඳහන් කළ බව මනම්පේරි ප්‍රකාශ කර තිබුණි.
+
+...
+
+[Data](articles/be1baae5.json)
+
+---
+
+### CWC copies met with Mahinda Rajapaksa
 
 *2025-09-28 20:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-ராஜபக்சவை-சந்தித்த-இ-தொ-கா-பிரதிகள்/175-365425) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவை, இ.தொ.கா பொதுச்செயலாளரும் பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், மற்றும் இ.தொ.கா நிதிச்செயலாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான மருதப்பாண்டி ராமேஸ்வரன் ஆகியோர் இன்று (28) தங்காலை, கால்டன் இல்லத்தில் சந்தித்தனர்.
+Former President Mahinda Rajapaksa, CWC general secretary and parliamentarian Jeevan Thondaman, and CWC financialist and former parliamentarian Maruthappandi Rameshwaran met at the Tangalle, Calton House today.
 
-இந்த சந்திப்பின் போது, அவர்கள் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவின் சுகநிலை குறித்தும் நலம் விசாரித்து உரையாடியதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+During the meeting, it was reported that they had addressed the health of former President Mahinda Rajapaksa.. Remble
 
 ◼️
 
 [Data](articles/f802a9a7.json)
+
+[Extended Data](ext_articles/f802a9a7.ext.json)
 
 ---
 
@@ -193,6 +347,30 @@ The Prime Minister opened the museum and planted a symbol of a tree in the park.
 
 ---
 
+### අයිස්වලට වඩා දරුණු මත්ද්‍රව්‍යක් මෙරටදී නිෂ්පාදනය කර ඇති බවට තොරතුරු
+
+*2025-09-28 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215108) · `si`
+
+අයිස් හෙවත් මෙතැම්ෆෙටමීන් මත්ද්‍රව්‍යට වඩා දරුණු ගණයේ මත්ද්‍රව්‍යක් මෙරටදී නිෂ්පාදනය කර ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+පසුගියදා වැලිගම ප්‍රදේශයේ නවාතැන්පලකදී සොයාගත් මත්ද්‍රව්‍ය සාම්පල පරීක්ෂාවෙන් මේ බව තහවුරු වී ඇති බව පොලිස් දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+වැලිගම පොලීසියට ලැබුණ තොරතුරකට අනුව සිදුකළ වැටලීමකදී පසුගියදා මත්ද්‍රව්‍ය නිෂ්පාදන ස්ථානයක් වටලා විදෙස් ජාතික තරුණයෙකු අත්අඩංගුවට ගනු ලැබීය.
+
+එම ස්ථානයේදී තිබී මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදා ගන්නා අමුද්‍රව්‍ය සහ උපකරණ සොයා ගනු ලැබු අතර එහි සාම්පල වැඩිදුර පරීක්ෂණ සඳහා රජයේ රස පරික්ෂක දෙපාර්තමේන්තුව වෙත භාරදී තිබේ.
+
+රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ මූලික පරීකෂණවලට අනුව අනාවරණය වී ඇත්තේ එම ස්ථානයේ තිබී ඇත්තේ අයිස් මත්ද්‍රව්‍යවලට වඩා භායානක නව මත්ද්‍රව්‍යක් බවය.
+
+ඊට අදාළ වාර්තාව ඉදිරි දින කිහිපය තුල නිකුත් කිරීමට බලාපොරොත්තුවන බව පොලිස් දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මේ අතර තංගල්ල ප්‍රදේශයේ ලොරි රථ 03ක තිබී සොයාගත් මත්ද්‍රව්‍ය තොගය සම්බන්ධයෙන් සිදුකරන පරීක්ෂණවලට අනුව මෝටර් රථයක් තංගල්ල කොට්ඨාශ අපරාධ විමර්ශන ඒකකය භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/6a806a55.json)
+
+---
+
 ### Woman collided with powder Menike train
 
 *2025-09-28 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226347) · `ta`
@@ -296,6 +474,30 @@ The hospital administration has stated that appropriate measures have been taken
 [Data](articles/b6863045.json)
 
 [Extended Data](ext_articles/b6863045.ext.json)
+
+---
+
+### Sri Lanka becomes a drug manufacturing country
+
+*2025-09-28 18:37:20* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-නිෂ්පාදනය-කරන-රටක්-බවට-ලංකාව-පත්වීම-බරපතල-තත්ත්වයක්/11-418771) · `si`
+
+The Mahanayala Thera The General of Malwatte Sirindala, the General Mananayake, says that the appointment of Sri Lanka is a drug manufacturing country.
+
+He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowed down to see Him Eve.
+
+The Thera emphasized that the government has to implement a wide range of program to rescue the younger generation from the drug menace.
+
+The Thera emphasized that even though he rehabilitated rehabilitation of addicts, but the rehabilitation of the addicts should be addressed again.
+
+Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
+
+The Handisle was to expand the current center of the Handisa to have the rehabilitation of drug addicts and to prevent drug addicts and the president of the president is working on the next two to three weeks.
+
+...
+
+[Data](articles/2fb4a01e.json)
+
+[Extended Data](ext_articles/2fb4a01e.ext.json)
 
 ---
 
@@ -1747,6 +1949,28 @@ The power supply was cut off for 18 hours daily in 2022. The problem of the powe
 
 ---
 
+### 12 Sri Lankans deported - Sri Lankan Ambassador to Israel
+
+*2025-09-28 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226319) · `ta`
+
+Sri Lankan Ambassador to Israel Nimal Bandara says that about 12 Sri Lankans have recently been sent back to Sri Lanka due to mental health problems or drug use problems.
+
+Ambassador Nimal Bandara added that the Embassy of Sri Lanka is urging the families of relevant families to avoid sending people with mental health problems or drug use for foreign work.
+
+He added that two more Sri Lankans were deported from Israel to Colombo last Thursday.
+
+Ambassador Nimal Bandara, who issued a statement, said that the two Sri Lankans were sent to the country via Dubai and deported at the request of their family members.
+
+He added that a person wandered in various places without going to work due to drug use, and that the second person fled his workplace and wandered without work.
+
+...
+
+[Data](articles/9ed44fdc.json)
+
+[Extended Data](ext_articles/9ed44fdc.ext.json)
+
+---
+
 ### More than 125,000 tourists arrive so far this month
 
 *2025-09-28 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226317) · `ta`
@@ -1786,195 +2010,5 @@ The other youth is a 24-year-old resident of Mumulleriya.
 [Data](articles/14ded56a.json)
 
 [Extended Data](ext_articles/14ded56a.ext.json)
-
----
-
-### Youth dies in accident
-
-*2025-09-28 14:18:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රය-අනතරන-තරණයක-මරට/1-680352) · `si`
-
-Two youths traveling in Malabe Thalahena. One youth died in collision with a car, says the Talangama Police said that the other youth was seriously injured.
-
-The deceased has been identified as Prabhabarara Silva, who resided Gemunu Mawatha in Battaramulla.
-
-Police say the motorcycle traveling towards Malabe from Malabe to Battaramulla has been hit by the motorcycle in the opposite direction.
-
-Preliminary investigations have revealed that the police were killed by the victim of the deceased.
-
-The other youth is a 24-year-old resident of Mumulleriya.
-
-◼️
-
-[Data](articles/359df4c0.json)
-
-[Extended Data](ext_articles/359df4c0.ext.json)
-
----
-
-### Four Indian fishermen deported to Andhra Pradesh after 52 days in Jaffna Prison
-
-*2025-09-28 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112997/four-indian-fishermen-deported-to-andhra-pradesh-after-52-days-in-jaffna-prison) · `en`
-
-Four fishermen from Andhra Pradesh, India who were released after 52 days of detention at a Jaffna Prison, will return home on September 30, Indian media reports suggest.
-
-The boat carrying the fishermen sailed from the Sri Lankan shore for Kakinada on September 27.
-
-The four fishermen were handed over to Indian authorities on Friday.
-
-They were deported following efforts by the state government officials in Andhra Pradesh Bhavan in New Delhi.
-
-The Sri Lankan Coast Guard handed over the fishermen to the Indian Coast Guard at the Mandapam Camp on September 26, and from there they left for Kakinada.
-
-The fishermen had sailed to Nagapattinam to purchase a second-hand fishing trawler, but while returning home, they drifted in Sri Lankan waters due to a GPS error, according to the report.
-
-The Sri Lankan Navy arrested the fishermen on August 4, and since then, they have been held in prison.
-
-...
-
-[Data](articles/ce63c161.json)
-
-[Extended Data](ext_articles/ce63c161.ext.json)
-
----
-
-### Ranil to see Mahinda View Mahinda Carlton
-
-*2025-09-28 14:11:29* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-මහින්දව-බලන්න-කාල්ටන්-යයි/11-418768) · `si`
-
-Former President Ranil Wickremesinghe has gone to the Carlton house to visit former President Mahinda Rajapaksa today (28).
-
-◼️
-
-[Data](articles/d552eb2e.json)
-
-[Extended Data](ext_articles/d552eb2e.ext.json)
-
----
-
-### Ranil met Mahinda
-
-*2025-09-28 14:09:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-ரணில்/175-365411) · `ta`
-
-Former President Ranil Wickremesinghe met his former political rival Mahinda Rajapaksa at his residence in Tangalle today.
-
-Wickremesinghe thanked Rajapaksa for his support when he was arrested and interrogated last month.
-
-According to the former president's office, Wickremesinghe met him while Rajapakse was returning from personal journey.
-
-◼️
-
-[Data](articles/83e8cf3a.json)
-
-[Extended Data](ext_articles/83e8cf3a.ext.json)
-
----
-
-### 2000 new to public service
-
-*2025-09-28 14:08:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-සවයට-අලතන-2000ක/101-680351) · `si`
-
-The Government has decided to recruit 2,000 new joint vehicles to Grade III of the Public Service Service Service Service Service (Management Services) in Service Service Service.
-
-They officially join the Public Service "Appointing Letters Giving Presentation" The Prime Minister Dr. Harini Amarasuriya will be held tomorrow (29) at Temple Trees.
-
-The Ministry of Public Administration, Provincial Councils and the Local Government said that they were the highest number of people in the public service on the GCE O / L examination after the year 2018.
-
-President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the essential vacancies and that the recruitment is being made from time to time.
-
-◼️
-
-[Data](articles/2f9635a5.json)
-
-[Extended Data](ext_articles/2f9635a5.ext.json)
-
----
-
-### 2000 new to public service
-
-*2025-09-28 14:08:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-සවයට-අලතන-2000ක/1-680351) · `si`
-
-The Government has decided to recruit 2,000 new joint vehicles to Grade III of the Public Service Service Service Service Service (Management Services) in Service Service Service.
-
-They officially join the Public Service "Appointing Letters Giving Presentation" The Prime Minister Dr. Harini Amarasuriya will be held tomorrow (29) at Temple Trees.
-
-The Ministry of Public Administration, Provincial Councils and the Local Government said that they were the highest number of people in the public service on the GCE O / L examination after the year 2018.
-
-President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the essential vacancies and that the recruitment is being made from time to time.
-
-◼️
-
-[Data](articles/efc36d98.json)
-
-[Extended Data](ext_articles/efc36d98.ext.json)
-
----
-
-### 439 Sinharaja and flear forest water related plants are threatened
-
-*2025-09-28 14:03:35* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජ-හා-පරිවාර-වනාන්තර-ආශ්‍රිත-ශාක-439ක්-තර්ජ්ජනයක/11-418767) · `si`
-
-The Sinharaja forest in the Singunahajaya Forest District and around the Sinharaja forest in the Ranapura District, four hundred and thirty ninety (439), said Professor Sisira Ediriwei at the University of Science and Technology Division of the Uva Wellassa University.
-
-He was speaking to the media today (28) a program to entertain and conservation of conservation of arrests organized by the Forest Department.. The program was held yesterday (27) and this day.
-
-Speaking further Mr. Head, if he had been taken as the Ratwatathathurapura district, four hundred and thirty ninety-nine hundred nine hundred species have been threatened. Data I am presenting I am by twenty twenty twenty twenty-red data book. ඒ අනුව ශාක වර්ග හාරසිය තිස් නමයක් අපි දැනට වාර්තා ගත කරලා තියෙනවා . The caste of the Occard of Occasy, when he was taken by the Occia family, has been threatened.
-
-...
-
-[Data](articles/b5532666.json)
-
-[Extended Data](ext_articles/b5532666.ext.json)
-
----
-
-### The greatest contribution of Indian Muslims cannot be forgotten
-
-*2025-09-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226313) · `ta`
-
-Sri Lanka Muslim Congress leader and Kandy district parliamentarian Rauf Hakeem said that we can never forget the great contribution of Indian Muslims.
-
-He said this while giving the reception at the decoration ceremony for the foreign personality held in Colombo on the 19th.
-
-When the Professor Great Indian Union Muslim League, former MP Munirul Millat Khadar Mukheedin presented a high award for Takaisal Tamil as a Tamil, and he was listening to the greeting.
-
-In fact, the leader of the Indian Union Muslim League, who is in the other states of India, who is in the other states of India, who is in the forefront of the Indian Union Muslim League, who is in a country where there are 25 crore Muslims living in India, in a country where there are 25 million Muslims living in India, are celebrating with him in a state where the Chief Minister of Tamil Nadu is celebrating the miracle of the Dravidian system, especially the Dravidian system. We organized the event.
-
-...
-
-[Data](articles/0bdbc385.json)
-
-[Extended Data](ext_articles/0bdbc385.ext.json)
-
----
-
-### Luxury car accident collided with car elephant
-
-*2025-09-28 14:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-கார்-யானையுடன்-மோதி-விபத்து/175-365410) · `ta`
-
-A luxury car collided with an elephant on Saturday (27) at 7 pm.
-
-During this time, the car collided with the elephant in the Pottuvil forest area belonging to the Pottuvil police division and the family traveled in it and the travelers who traveled in it.
-
-Travelers have said that the elephants are on the main street on the main road at night and evening.
-
-◼️
-
-[Data](articles/5abff311.json)
-
-[Extended Data](ext_articles/5abff311.ext.json)
-
----
-
-### The provincial council election and the politics of Muslims
-
-*2025-09-28 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226299) · `ta`
-
-The vote banks of the Muslim parties and the people's confidence in it. This is not the case with the arrival of the NP. Muslim leaders and politicians who speak in genius must understand that it has happened before.
-
-◼️
-
-[Data](articles/bb5e7116.json)
-
-[Extended Data](ext_articles/bb5e7116.ext.json)
 
 ---

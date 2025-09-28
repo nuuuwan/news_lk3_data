@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 20:54:15**
+As of **2025-09-28 21:37:56**
 
 ## Newspaper Stats
 
-*Scraped **79,269** Articles*
+*Scraped **79,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,641
-adaderanalk | 10,236
+adaderanalk | 10,238
 tamilmirrorlk | 11,867
 virakesarilk | 12,914
 adaderanasinhalalk | 13,743
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,267 (100.0%) of 79,269 articles have been extended.
+79,271 (100.0%) of 79,271 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -171,6 +171,32 @@ According to the neighbors, the woman was on the train while the Bodi Menige tra
 
 ---
 
+### Madras high court cancels urgent hearing on Karur stampede tragedy
+
+*2025-09-28 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113006/madras-high-court-cancels-urgent-hearing-on-karur-stampede-tragedy) · `en`
+
+Madras High Court today (28) cancelled its urgent hearing, scheduled for 4.30 p.m., on a plea related to the deadly stampede at actor-turned-politician Vijay’s Tamilaga Vetri Kazhagam (TVK) rally in Tamil Nadu’s Karur.
+
+A vacation bench of Justice N. Senthilkumar had agreed to hear a petition moved by N. Senthilkannan of Karur district.
+
+However, the court, after perusing the papers, noted that the plea was not a fresh case but an impleading petition in an already pending matter concerning police permissions for TVK’s public meetings and chose to drop the urgent listing.
+
+Meanwhile, the death toll in the tragic crush climbed to 40, police said on Sunday.
+
+The stampede occurred late on Saturday at Velusamypuram, where thousands had gathered to see Vijay speak as part of his state-wide political campaign.
+
+Overcrowding and confusion as the event wound down triggered panic, with people jostling to exit.
+
+Nine of those killed were children; dozens more remain hospitalised, some in critical condition.
+
+...
+
+[Data](articles/0110cd27.json)
+
+[Extended Data](ext_articles/0110cd27.ext.json)
+
+---
+
 ### Former municipal councilors arrested in Pohoth
 
 *2025-09-28 18:56:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-හටප-නගරක-මනතර-අතඅඩගවට/101-680367) · `si`
@@ -230,6 +256,28 @@ The hospital administration has stated that appropriate measures have been taken
 [Data](articles/b6863045.json)
 
 [Extended Data](ext_articles/b6863045.ext.json)
+
+---
+
+### President in Japan hints no new taxes will be introduced in 2026 budget
+
+*2025-09-28 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113005/president-in-japan-hints-no-new-taxes-will-be-introduced-in-2026-budget) · `en`
+
+President Anura Kumara Dissanayake says that over the past year, Sri Lanka has managed to maintain a balance in its diplomatic relations.
+
+The President emphasized that in a world where economies and markets transcend national borders, no country can move forward alone, and Sri Lanka is working to elevate its standing globally through strong diplomatic ties.
+
+He also pointed out that for the country to move ahead, national unity must be built, and reiterated that the past year will be recorded in Sri Lankan history as a year where no ethno religious conflict was attempted internally.
+
+The President made these remarks today (28) at the Reiyukai Hall in Tokyo during a gathering with Sri Lankans residing in Japan.
+
+The meeting was organized jointly by the Sri Lankan Embassy in Japan and volunteer organizations. A large number of attendees joined, including members of the Maha Sangha, priests, professionals, and university students living in Japan.
+
+...
+
+[Data](articles/1a1f7858.json)
+
+[Extended Data](ext_articles/1a1f7858.ext.json)
 
 ---
 
@@ -1065,23 +1113,25 @@ The Chairman and CEO of each institution will participate in this discussion.
 
 ---
 
-### කන්තෝරැ 457 ක ලොක්කෝ මැතිසබයට
+### Bokeko of the Kantore 457 to Messian
 
 *2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කනතර-457-ක-ලකක-මතසබයට/1-680359) · `si`
 
-පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව (කෝප් කමිටුව) රජයේ ආයතන 457 ක ප්‍රධානීන් ලබන 2 වැනිදා පාර්ලිමේන්තුවට කැඳවා ඇත.
+Parliamentary Select Committee on Public Business (COPE) (COPE) has been summoned to parliament on the 2nd government.
 
-පාර්ලිමේන්තුවේ කමිටුවක් හමුවට ආයතන ප්‍රධානීන් එකවර වැඩිම ප්‍රමාණයක් කැඳවෙන පළමු අවස්ථාව මෙයයි.
+This is the first time that the heads of the institute is summoned before a committee of Parliament.
 
-කෝප් කමිටුවේ කාර්යභාරය සහ එහි කටයුතු ඉදිරියට පවත්වාගෙන යෑමේදී මතුව ඇති ගැටලු මෙන්ම ආයතනවල කාර්ය සාධනය සම්බන්ධයෙන් කරුණු විමසීම සඳහා මෙම ආයතන මෙසේ කැඳවා ඇතැයි කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා ලංකාදීපයට පැවසීය.
+Chairman of the COPE committee, Dr. Nishantha Samaraweera told Lankadeepa to hear the functions of the COPE Committee and its work.
 
-ආයතනවල විගණනයන් පිළිබඳව සහ ඒවායේ ක්‍රියාකාරීත්වය පිළිබඳව මූලික තොරතුරු ලබාගැනීමද මෙහිදී සිදුකෙරේ.
+The basic information on the audits and functions of the institutions are obtained.
 
-සෑම ආයතනයකම සභාපතිවරයා සහ ප්‍රධාන විධායක නිලධාරියා මෙම සාකච්ඡාවට සහභාගි වීමට නියමිතය.
+The Chairman and CEO of each institution will participate in this discussion.
 
 ◼️
 
 [Data](articles/f0897213.json)
+
+[Extended Data](ext_articles/f0897213.ext.json)
 
 ---
 
@@ -1944,47 +1994,5 @@ As a replica, steps have been taken to implement the law against 46,909 drivers 
 [Data](articles/32e59934.json)
 
 [Extended Data](ext_articles/32e59934.ext.json)
-
----
-
-### President meets Sri Lankan community living in Japan today
-
-*2025-09-28 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226312) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, will meet with the Sri Lankan community living in Japan on Sunday afternoon.
-
-The President made a three -day official visit to Japan on Saturday (27).
-
-Japanese Ambassador to Sri Lanka Akio Isomata, Sri Lanka Ambassador to Japan, Prof. Pivithuru Janak Kumarasinghe and Senior Officers of the Japanese Foreign Ministry welcomed the President.
-
-President Anura Kumara Dissanayake was the chief guest at the "Expo 2025" event organized by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan.
-
-Following yesterday's events, the president, who traveled from Shin-Osaka railway station to Tokyo this morning, will meet the Sri Lankan community living in Japan this afternoon.
-
-...
-
-[Data](articles/231f1a66.json)
-
-[Extended Data](ext_articles/231f1a66.ext.json)
-
----
-
-### Karur: The families of the deceased are Rs.. 20 Lakhs: Tauga
-
-*2025-09-28 13:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-உயிரிழந்தவர்களின்-குடும்பத்தினருக்கு-தலா-ரூ-20-லட்சம்-தவெக/175-365409) · `ta`
-
-At least 40 people were killed in a crowded crowd at Karur. In this case, the family of the victims of the crowd. Tamil Nadu Victory Corporation Chairman Vijay has announced that Rs 20 lakh relief will be given
-
-Unstruvely, the heart and mind are very heavy, thinking of what happened yesterday in Karur. In a great mood that loses our relationships, I do not know how to tell my mind. Eyes and minds are upset.
-
-All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
-
-My own .... At the same time, I share this great tragedy close to your mind.
-
-...
-
-[Data](articles/469f7313.json)
-
-[Extended Data](ext_articles/469f7313.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 00:20:46**
+As of **2025-09-29 00:36:37**
 
 ## Newspaper Stats
 
-*Scraped **79,284** Articles*
+*Scraped **79,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,238
 tamilmirrorlk | 11,870
-virakesarilk | 12,916
+virakesarilk | 12,921
 adaderanasinhalalk | 13,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,284 (100.0%) of 79,284 articles have been extended.
+79,284 (100.0%) of 79,289 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -877,6 +877,40 @@ Subsequently, letters were submitted to the special committees who visited the v
 
 ---
 
+### ஜனாதிபதியின் அமெரிக்க விஜயம் ஏமாற்றமளித்துள்ளது  - திஸ்ஸ அத்தநாயக்க
+
+*2025-09-28 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226342) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க இதுவரை சென்ற வெளிநாட்டு பயணங்கள் எவ்வாறு நாட்டுக்கு பயனற்றவையோ அதேபோன்று தான் அவரது அமெரிக்க விஜயமும் அமைந்துள்ளது. அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்புடன் தீர்வை வரி குறித்து பேச்சுவார்த்தைகளை முன்னெடுத்து வரி சலுகை பெறப்படும் என பரவலாக எதிர்பார்க்கப்பட்ட போதிலும், அந்த எதிர்பார்ப்பை நிறைவேற்ற ஜனாதிபதி அநுரகுமார திஸாநாயக்க தவறியுள்ளதாக ஐக்கிய மக்கள் சக்தியின் தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+கண்டியில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க இதுவரையில் சுமார் 7 – 8 நாடுகளுக்கு பயணம் செய்திருக்கின்றார். கடந்த வாரம் அமெரிக்கா சென்றிருந்த அவர் தற்போது ஜப்பான் சென்றுள்ளார்.
+
+ஜப்பான் விஜத்துடன் சேர்த்து அவரது வெளிநாட்டு பயணங்களால் நாட்டுக்கு என்ன நன்மை கிடைத்துள்ளது? அமெரிக்கா சென்றிருந்த ஜனாதிபதி அநுர, இலங்கை எதிர்கொண்டுள்ள பாரிய நெருக்கடியான தீர்வை வரி தொடர்பில் ட்ரம்புடன் பேச்சுவார்த்தைகளை முன்னெடுப்பார் என்று பரவலாக எதிர்பார்க்கப்பட்டது.
+
+...
+
+[Data](articles/801f9d5b.json)
+
+---
+
+### அடுத்த ஜனாதிபதித் தேர்தலில் ஆட்சி மாற்றத்தை  ஏற்படுத்துவதற்கு எதிர்க்கட்சிகள் இப்போதிருந்தே தயாராக வேண்டும்  - ரவி கருணாநாயக்க
+
+*2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226338) · `ta`
+
+தலைமைத்துவம், சின்னம் என வெ வ்வேறு விடயங்களைக் கூறிக் கொண்டு இனியும் பிளவுகளை நோக்கி பயணிக்க கூடாது. அடுத்த ஜனாதிபதித் தேர்தலில் ஆட்சி மாற்றத்தை ஏற்படுத்துவதற்கு எதிர்க்கட்சிகள் இப்போதிருந்தே தயாராக வேண்டும். அதுவே எதிர்க்கட்சி ஆதரவாளர்களின் அபிலாஷையாகவுள்ளதாக பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்தார்.
+
+கொழும்பில் நேற்று சனிக்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனநாயகத்தைப் பாதுகாப்பதற்கான அனைவரும் ஒன்றிணைய வேண்டும் என்பதே மக்களின் அபிலாஷையாகவுள்ளது. இது வசனங்களுக்கு மாத்திரம் வரையறுக்கப்படவில்லை. எனவே இதனை நடைமுறையில் சாத்தியமாக்குவதற்கு அனைவரும் அர்ப்பணிப்புடன் செயற்பட வேண்டும். அனைத்து கட்சிகளும் ஒன்றிணைவது மாத்திரமின்றி அதிலிருந்து எவ்வாறு முன்னோக்கிப் பயணிப்பது என்பதில் அவதானம் செலுத்த வேண்டும்.
+
+...
+
+[Data](articles/8e238077.json)
+
+---
+
 ### Jaffna Wickremesinghe Bharat Flow 2025
 
 *2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226340) · `ta`
@@ -946,6 +980,22 @@ Tang’s investigation was unusually swift and followed similar investigations i
 [Data](articles/d6d2012e.json)
 
 [Extended Data](ext_articles/d6d2012e.ext.json)
+
+---
+
+### போதைப்பொருள் கடத்தல் தொடர்பில் சிவப்பு அறிவித்தல் விடுக்கப்பட்டுள்ள  72 சந்தேகநபர்களில் 32 பேர் எங்கிருக்கிறார் என்பதும் தெரியும்  - பொது மக்கள் பாதுகாப்பு அமைச்சர்
+
+*2025-09-28 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226336) · `ta`
+
+உள்நாட்டில் மாத்திரமின்றி வெளிநாடுகளிலிருந்து இலங்கையில் போதைப்பொருள் கடத்தலுடன் தொடர்புடையவர்களை கைது செய்வதற்கான நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளன. சிவப்பு அறிவித்தல் விடுக்கப்பட்டுள்ள 72 சந்தேகநபர்களில் 32 சந்தேகநபர்கள் எங்கு இருக்கின்றார்கள் என்பதும் இனங்காணப்பட்டுள்ளதாக பொது மக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+நேற்று சனிக்கிழமை (27)  மல்வத்து மற்றும் அஸ்கிரிய பீடங்களின் மகாநாயக்க தேரர்களை சந்தித்து போதைப்பொருள் ஒழிப்பு திட்டங்கள் தொடர்பில் தெளிவுபடுத்திய பின்னர் ஊடகங்களுக்கு கருத்து வெளியிட்ட போதே அவர் இதனைத் தெரிவித்தார். இது தொடர்பில் அவர் மேலும் குறிப்பிடுகையில்,
+
+உள்நாட்டில் மாத்திரமின்றி வெளிநாடுகளிலிருந்து இலங்கையில் போதைப்பொருள் கடத்தலுடன் தொடர்புடையவர்களை கைது செய்வதற்கான நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளன. சிவப்பு அறிவித்தல் விடுக்கப்பட்டுள்ள 72 சந்தேகநபர்களில் 32 சந்தேகநபர்கள் எங்கு இருக்கின்றார்கள் என்பதும் இனங்காணப்பட்டுள்ளது.
+
+...
+
+[Data](articles/4b033681.json)
 
 ---
 
@@ -1044,6 +1094,22 @@ As the speakers who spoke before me mentioned, most people in our province are m
 [Data](articles/23c21182.json)
 
 [Extended Data](ext_articles/23c21182.ext.json)
+
+---
+
+### எமது ஒவ்வொரு சொத்துக்களுக்கும் எம்மால் பொறுப்பு கூற முடியும் ; எதிர்க்கட்சிகளின் கூச்சல்களால் நாம் கலவரமடையவில்லை - சுகாதார அமைச்சர்
+
+*2025-09-28 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226332) · `ta`
+
+தேசிய மக்கள் சக்தி அரசாங்கத்திலுள்ள அமைச்சர்களின் சொத்து விபரங்கள் எதிர்க்கட்சிகளால் தேடி கண்டுபிடிக்கப்பட்டவையல்ல. அவை நாமாக முன்வந்து சமர்ப்பிக்கப்பட்டவையாகும். எமது ஒவ்வொரு சொத்துக்களுக்கும் எம்மால் பொறுப்பு கூற முடியும். எனவே எதிர்க்கட்சிகளின் கூச்சல்களுக்கு நாம் கலவரமடையவில்லை என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+காலி – மாபலகம பிரதேசத்தில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+எமது சொத்து விபரங்கள் எதிர்க்கட்சிகளால் தேடி கண்டுபிடிக்கப்பட்டவையல்ல. இலஞ்சம் அல்லது ஊழல் விசாரணை ஆணைக்குழுவில் நாமாக முன்வைத்து சமர்ப்பித்தமையால் தான் அவை தொடர்பில் அனைத்து தெரிந்து கொண்டுள்ளனர். இவ்வாறு எம்மால் முன்வைக்கப்பட்டு சொத்து விபரங்களில் ஒவ்வொரு சொத்துக்கும் பொறுப்பு கூற முடியும். எனவே தான் எவ்வித தயக்கமும் இன்றி அதனை சமர்ப்பித்திருக்கின்றோம்.
+
+...
+
+[Data](articles/b7a80a20.json)
 
 ---
 
@@ -1952,89 +2018,5 @@ The families of the deceased have been compensated for the families of the decea
 [Data](articles/a129e98c.json)
 
 [Extended Data](ext_articles/a129e98c.ext.json)
-
----
-
-### 594,368 million rupees loss to the Electricity Board in 8 years
-
-*2025-09-28 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226318) · `ta`
-
-From 2014 to 2022, the Ceylon Electricity Board (CEB) has faced a loss of 594,368 million rupees.. The committee headed by COPE Committee Nishantha Samaraweera was convened last week at the Parliament building to review the report of the Ceylon Electricity Board 2022 and 2023 to review the report and the practical action report.
-
-One of the main factors of the loss is that a few surveillance activities have been obtained from the outsiders, with many factors in the Electricity Board, based on the report of the Auditor General.
-
-With the Electricity Board (CEB) in 2022, the public faced massive crises. However, since 2023, the Electricity Board has been confirmed to be profitable.
-
-The power supply was cut off for 18 hours daily in 2022. The problem of the power supply was not cut off due to the problems of the construction.. Officials pointed out in the presence of a group of officials that the power supply was in trouble due to the failure of the Ceylon Petroleum Corporation.
-
-...
-
-[Data](articles/3db9270f.json)
-
-[Extended Data](ext_articles/3db9270f.ext.json)
-
----
-
-### 12 Sri Lankans deported - Sri Lankan Ambassador to Israel
-
-*2025-09-28 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226319) · `ta`
-
-Sri Lankan Ambassador to Israel Nimal Bandara says that about 12 Sri Lankans have recently been sent back to Sri Lanka due to mental health problems or drug use problems.
-
-Ambassador Nimal Bandara added that the Embassy of Sri Lanka is urging the families of relevant families to avoid sending people with mental health problems or drug use for foreign work.
-
-He added that two more Sri Lankans were deported from Israel to Colombo last Thursday.
-
-Ambassador Nimal Bandara, who issued a statement, said that the two Sri Lankans were sent to the country via Dubai and deported at the request of their family members.
-
-He added that a person wandered in various places without going to work due to drug use, and that the second person fled his workplace and wandered without work.
-
-...
-
-[Data](articles/9ed44fdc.json)
-
-[Extended Data](ext_articles/9ed44fdc.ext.json)
-
----
-
-### More than 125,000 tourists arrive so far this month
-
-*2025-09-28 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226317) · `ta`
-
-A total of 126,379 tourists visited the country in September, according to the Sri Lanka Tourism Development Authority data.
-
-A total of 37,179 tourists from India have arrived, which is 29.4%. In September, 8,937 from the United Kingdom, 7,799 from Germany, 7,049 from Australia and 7,226 from China.
-
-With the release of the latest figures for September, the number of tourists visiting Sri Lanka by 2025 increased to 1,692,902.
-
-Among them, 362,774 from India, 160,078 from the UK and 121,452 from Russia, said the Sri Lanka Tourism Development Authority.
-
-◼️
-
-[Data](articles/f38f1be4.json)
-
-[Extended Data](ext_articles/f38f1be4.ext.json)
-
----
-
-### Youth dies in accident
-
-*2025-09-28 14:18:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තරණයක-මරට/101-680352) · `si`
-
-Two youths traveling in Malabe Thalahena. One youth died in collision with a car, says the Talangama Police said that the other youth was seriously injured.
-
-The deceased has been identified as Prabhabarara Silva, who resided Gemunu Mawatha in Battaramulla.
-
-Police say the motorcycle traveling towards Malabe from Malabe to Battaramulla has been hit by the motorcycle in the opposite direction.
-
-Preliminary investigations have revealed that the police were killed by the victim of the deceased.
-
-The other youth is a 24-year-old resident of Mumulleriya.
-
-◼️
-
-[Data](articles/14ded56a.json)
-
-[Extended Data](ext_articles/14ded56a.ext.json)
 
 ---

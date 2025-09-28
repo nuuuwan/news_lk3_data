@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 03:37:20**
+As of **2025-09-29 04:07:30**
 
 ## Newspaper Stats
 
-*Scraped **79,295** Articles*
+*Scraped **79,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,80 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,872
-virakesarilk | 12,922
+virakesarilk | 12,925
 adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,295 (100.0%) of 79,295 articles have been extended.
+79,298 (100.0%) of 79,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### Politicians are also afraid of law - the president
+
+*2025-09-29 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226354) · `ta`
+
+Law and order should be better implemented if the country is to improve. Everyone should be afraid of the law. Legislative politicians for the people of the country are afraid of the law today. The law is currently working in a room where 40 political parties have been in conflict in the past. President Anura Kumara Dissanayake said that they are going daily for Tangalle.
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said this while addressing the Sri Lankan community living in Japan on Sunday (28) in Tokyo.
+
+Prior to the presidential election in 2024, we met Sri Lankans living abroad and engaged in extensive discussions.. Sri Lankans living abroad have fully cooperated with a new political change.
+
+Sri Lankans living abroad are the main stakeholders for the new political change in Sri Lanka.. How to investigate whether or not a year of completion is better.
+
+...
+
+[Data](articles/7b2f3736.json)
+
+[Extended Data](ext_articles/7b2f3736.ext.json)
+
+---
+
+### 14 boy death
+
+*2025-09-29 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226353) · `ta`
+
+A boy was killed in a train traveling from Badulla to Colombo on Saturday (27) in Rambukkana area, police said.
+
+The incident has been reported near the Tissallabola railway station belonging to the Rambukana Police Division. The boy who was traveling from Rambukkana to Colombo with friends landed at Tissamalola Railway Station. The boy is on the other side of the railway track without landing on the passenger train.
+
+Investigations have revealed that the train traveling from Badulla to Colombo was killed on the spot.. The boy from the 14 -year -old Medamaka area has died. Meanwhile, Rambukkana police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/826f3512.json)
+
+[Extended Data](ext_articles/826f3512.ext.json)
+
+---
+
+### Explanation of the arrested female merchant for 11 years
+
+*2025-09-29 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226352) · `ta`
+
+The Batticaloa Magistrate's Court on Sunday (28) has ordered a famous female drug dealer who had been arrested for 11 years in Kattankudi for 11 years.
+
+Following the information received by the police, Kattankudy 6th Section 6 of Jinnah Mawatha was arrested by the police on the 22nd of this month, police arrested a woman businessman who was involved in a drug business
+
+According to the information he gave him after the investigation, the magistrate ordered that four people from Kattankudi area were arrested and produced in court.
+
+Initial investigations by the police revealed that the arrested female dealer had been involved in the drug business for the past 11 years and that she had not arrested the police so far.
+
+In this case, the woman dealer was detained by the police detention until five days of police detention till Sunday (28).
+
+Subsequently, the Magistrate was produced before the Batticaloa Magistrate's Court today and ordered him to be remanded until the 5th of this month.
+
+◼️
+
+[Data](articles/4860d3f6.json)
+
+[Extended Data](ext_articles/4860d3f6.ext.json)
+
+---
 
 ### Earthquake in China
 
@@ -1986,69 +2048,5 @@ According to police, island-wide operations are conducted to apprehend small-, m
 [Data](articles/f922a156.json)
 
 [Extended Data](ext_articles/f922a156.ext.json)
-
----
-
-### The woman under the little gem
-
-*2025-09-28 15:14:10* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පඩ-මණකට-යට-ව-කත/101-680353) · `si`
-
-A woman who was involved in the engine operated from Badulla to Colombo Fort, she was admitted to the Dikoya Dikoya Municipal Council, Chairman of Hatton Dickoya Urbodaya.
-
-The accident had occurred near the Hatton Station located near the Hatton Station.
-
-Podi Menike train was slowly and that the woman who was seriously injured in the railway crash was a long-railway crash and was staying near the railway line.
-
-◼️
-
-[Data](articles/7e384bf7.json)
-
-[Extended Data](ext_articles/7e384bf7.ext.json)
-
----
-
-### The woman under the little gem
-
-*2025-09-28 15:14:10* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පඩ-මණකට-යට-ව-කත/1-680353) · `si`
-
-A woman who was involved in the engine operated from Badulla to Colombo Fort, she was admitted to the Dikoya Dikoya Municipal Council, Chairman of Hatton Dickoya Urbodaya.
-
-The accident had occurred near the Hatton Station located near the Hatton Station.
-
-Podi Menike train was slowly and that the woman who was seriously injured in the railway crash was a long-railway crash and was staying near the railway line.
-
-◼️
-
-[Data](articles/c5f7c819.json)
-
-[Extended Data](ext_articles/c5f7c819.ext.json)
-
----
-
-### Four Indian fishermen who were kept in detention for 52 days were deported to Andhra Pradesh
-
-*2025-09-28 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226327) · `ta`
-
-Indian media reports that four fishermen from Andhra Pradesh will return home on September 30 after being kept in the Jaffna jail for 52 days.
-
-The boat carrying the fishermen departed from the Sri Lankan coast to Kakinada on September 27.
-
-They were deported following the efforts of state officials in Andhra Pradesh Bhavan in New Delhi.
-
-On September 26, the Sri Lanka Coast Guard handed over the fishermen to the Indian Coast Guard at the Mandapam camp.
-
-The fishermen had gone to Nagapattinam to buy a secondary trawling fishing boat.
-
-But when returning home, reports reported that Sri Lanka was floating in water due to technical disorder.
-
-After taking the issue to the Foreign Ministry, the Indian High Commission in Colombo began their efforts to return.
-
-The High Commission has reported that four fishermen have been safely sent back to the Sri Lankan government and the support of the Indian and Sri Lanka Navy and Coast Guard.
-
-◼️
-
-[Data](articles/2e7c234f.json)
-
-[Extended Data](ext_articles/2e7c234f.ext.json)
 
 ---

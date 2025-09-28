@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 14:37:51**
+As of **2025-09-28 15:20:23**
 
 ## Newspaper Stats
 
-*Scraped **79,160** Articles*
+*Scraped **79,181** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 390
+lankadeepalk | 391
 newsfirstlk | 452
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -17,37 +17,295 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,634
-adaderanalk | 10,222
-tamilmirrorlk | 11,856
-virakesarilk | 12,876
+adalk | 7,636
+adaderanalk | 10,228
+tamilmirrorlk | 11,859
+virakesarilk | 12,885
 adaderanasinhalalk | 13,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,158 (100.0%) of 79,160 articles have been extended.
+79,173 (100.0%) of 79,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### රාජ්‍ය සේවයට අලුතින් 2000ක්
+### அமெரிக்காவில் ஹோட்டலில் துப்பாக்கி சூடு ; 3 பேர் உயிரிழப்பு
+
+*2025-09-28 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226325) · `ta`
+
+அமெரிக்காவின் தெற்கு கரோலினா மாகாணம் சவுத் போர்ட் யார்ட் பஸ்னி பகுதியில் கடற்கரை பகுதி அருகே ஹோட்டல் ஒன்றில் துப்பாக்கி சூட்டு சம்பவம் இடம் பெற்றுள்ளது.
+
+படகில் வந்த மர்ம கும்பல் படகில் இருந்தவாறு கடற்கரை அருகே உள்ள ஹோட்டல் மீது துப்பாக்கி சூடு நடத்தியுள்ளனர். இந்த துப்பாக்கி சூட்டில் 3 பேர் உயிரிழந்துள்ளதோடு, 8 பேர் படுகாயமடைந்துள்ளனர்.
+
+தகவலறிந்து விரைந்து சென்ற பொலிஸார் படுகாயமடைந்தவர்களை மீட்டு அருகில் உள்ள வைத்தியசாலையில் அனுமதித்தனர். மேலும், இந்த துப்பாக்கி சூடு தாக்குதல் குறித்து விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/5cb37706.json)
+
+---
+
+### கரூர் சம்பவம் – உயிரிழந்தோரின் எண்ணிக்கை 40 ஆக அதிகரிப்பு
+
+*2025-09-28 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226323) · `ta`
+
+தமிழகத்தின் கரூரில் நடைபெற்ற த.வெ.க தலைவர் விஜய் பிரச்சாரத்தின்போது கூட்ட நெரிசலில் உயிரிழந்தோரின் எண்ணிக்கை 40 ஆக அதிகரித்துள்ளது.
+
+கரூர் வேலுசாமிபுரத்தில் தவெக தலைவர் விஜய், நேற்று இரவு தேர்தல் பிரச்சாரத்தில் ஈடுபட்டார்.
+
+முன்னதாக, காலை 10.30 மணிக்கு விஜய் பிரச்சாரம் செய்ய பொலிஸ் தரப்பில் அனுமதி அளிக்கப்பட்டிருந்தது.
+
+ஆனால், நாமக்கல்லில் பிரச்சாரம் செய்துவிட்டு பிற்பகல் 03 மணிக்குப் பிறகுதான் விஜய் புறப்பட்டார்.
+
+இதனிடையே, கரூர் வேலுசாமிபுரத்தில் பகல் 12 மணி முதல் தொண்டர்கள், இரசிகர்கள் கூடினர்.
+
+கரூர் மாவட்ட எல்லையான வேலாயுதம்பாளையத்தில் இருந்தே கூட்டம் அதிகமாக இருந்ததால் பிரச்சாரப் பேருந்து மிகவும் மெதுவாக நகர்ந்தது. இதனால் இரவு 7.15 மணிக்குதான் பிரச்சார இடத்துக்கு விஜய் வர முடிந்தது.
+
+அங்கு விஜய் பேச ஆரம்பித்தபோது, அவரது மைக் வேலை செய்யவில்லை. அவரது பேச்சைக் கேட்பதற்காக பின்னால் இருப்பவர்கள் நெருங்கியடித்தபடி பிரச்சாரப் பேருந்தை நோக்கி வந்தனர். இதனால் முன்னால் காத்திருந்தவர்கள் நெரிசலில் சிக்குண்டனர்.
+
+...
+
+[Data](articles/b6e183b4.json)
+
+---
+
+### Plantation Labor Salary issue: Court order to be executed?
+
+*2025-09-28 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226314) · `ta`
+
+For the future development of the plantation industry, it is mandatory to switch from the daily wage to the production -based wage system.
+
+◼️
+
+[Data](articles/44848830.json)
+
+[Extended Data](ext_articles/44848830.ext.json)
+
+---
+
+### More than 125,000 tourists arrive so far this month
+
+*2025-09-28 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226317) · `ta`
+
+A total of 126,379 tourists visited the country in September, according to the Sri Lanka Tourism Development Authority data.
+
+A total of 37,179 tourists from India have arrived, which is 29.4%. In September, 8,937 from the United Kingdom, 7,799 from Germany, 7,049 from Australia and 7,226 from China.
+
+With the release of the latest figures for September, the number of tourists visiting Sri Lanka by 2025 increased to 1,692,902.
+
+Among them, 362,774 from India, 160,078 from the UK and 121,452 from Russia, said the Sri Lanka Tourism Development Authority.
+
+◼️
+
+[Data](articles/f38f1be4.json)
+
+[Extended Data](ext_articles/f38f1be4.ext.json)
+
+---
+
+### Youth dies in accident
+
+*2025-09-28 14:18:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තරණයක-මරට/101-680352) · `si`
+
+Two youths traveling in Malabe Thalahena. One youth died in collision with a car, says the Talangama Police said that the other youth was seriously injured.
+
+The deceased has been identified as Prabhabarara Silva, who resided Gemunu Mawatha in Battaramulla.
+
+Police say the motorcycle traveling towards Malabe from Malabe to Battaramulla has been hit by the motorcycle in the opposite direction.
+
+Preliminary investigations have revealed that the police were killed by the victim of the deceased.
+
+The other youth is a 24-year-old resident of Mumulleriya.
+
+◼️
+
+[Data](articles/14ded56a.json)
+
+[Extended Data](ext_articles/14ded56a.ext.json)
+
+---
+
+### Ranil to see Mahinda View Mahinda Carlton
+
+*2025-09-28 14:11:29* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-මහින්දව-බලන්න-කාල්ටන්-යයි/11-418768) · `si`
+
+Former President Ranil Wickremesinghe has gone to the Carlton house to visit former President Mahinda Rajapaksa today (28).
+
+◼️
+
+[Data](articles/d552eb2e.json)
+
+[Extended Data](ext_articles/d552eb2e.ext.json)
+
+---
+
+### Ranil met Mahinda
+
+*2025-09-28 14:09:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-ரணில்/175-365411) · `ta`
+
+Former President Ranil Wickremesinghe met his former political rival Mahinda Rajapaksa at his residence in Tangalle today.
+
+Wickremesinghe thanked Rajapaksa for his support when he was arrested and interrogated last month.
+
+According to the former president's office, Wickremesinghe met him while Rajapakse was returning from personal journey.
+
+◼️
+
+[Data](articles/83e8cf3a.json)
+
+[Extended Data](ext_articles/83e8cf3a.ext.json)
+
+---
+
+### 2000 new to public service
 
 *2025-09-28 14:08:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-සවයට-අලතන-2000ක/101-680351) · `si`
 
-රාජ්‍ය සේවයේ කළමනාකරණ සේවා නිලධාරී සේවයේ III ශ්‍රේණියට අලුතින් 2000 ක් බඳවා ගැනීමට රජය තීරණය කර තිබේ.
+The Government has decided to recruit 2,000 new joint vehicles to Grade III of the Public Service Service Service Service Service (Management Services) in Service Service Service.
 
-ඔවුන්  නිල වශයෙන් රාජ්‍ය සේවයට එක් කෙරෙන "පත්වීම් ලිපි ප්‍රදානෝත්සවය" අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවියගේ ප්‍රධානත්වයෙන්   අරලියගහ මන්දිරයේදී හෙට (29) පැවැත්වේ.
+They officially join the Public Service "Appointing Letters Giving Presentation" The Prime Minister Dr. Harini Amarasuriya will be held tomorrow (29) at Temple Trees.
 
-2018 වර්ෂයෙන් පසු උසස් පෙළ සුදුසුකම් මත තරඟ විභාගයකින් රාජ්‍ය සේවයට ඇතුළත් වන වැඩිම පිරිස මොවුන්  බව රාජ්‍ය පරිපාලන, පළාත් සභා සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Public Administration, Provincial Councils and the Local Government said that they were the highest number of people in the public service on the GCE O / L examination after the year 2018.
 
-රාජ්‍ය අංශයේ අත්‍යවශ්‍ය පුරප්පාඩු සඳහා 30,000 ක් බඳවා ගැනීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා  අයවැයෙන්  සැලැස්මක් යෝජනා කළ අතර  වරින් වර එම බඳවා ගැනීම් සිදු කරමින් සිටින බවද අමාත්‍යාංශය කියයි.
+President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the essential vacancies and that the recruitment is being made from time to time.
 
 ◼️
 
 [Data](articles/2f9635a5.json)
+
+[Extended Data](ext_articles/2f9635a5.ext.json)
+
+---
+
+### The greatest contribution of Indian Muslims cannot be forgotten
+
+*2025-09-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226313) · `ta`
+
+Sri Lanka Muslim Congress leader and Kandy district parliamentarian Rauf Hakeem said that we can never forget the great contribution of Indian Muslims.
+
+He said this while giving the reception at the decoration ceremony for the foreign personality held in Colombo on the 19th.
+
+When the Professor Great Indian Union Muslim League, former MP Munirul Millat Khadar Mukheedin presented a high award for Takaisal Tamil as a Tamil, and he was listening to the greeting.
+
+In fact, the leader of the Indian Union Muslim League, who is in the other states of India, who is in the other states of India, who is in the forefront of the Indian Union Muslim League, who is in a country where there are 25 crore Muslims living in India, in a country where there are 25 million Muslims living in India, are celebrating with him in a state where the Chief Minister of Tamil Nadu is celebrating the miracle of the Dravidian system, especially the Dravidian system. We organized the event.
+
+...
+
+[Data](articles/0bdbc385.json)
+
+[Extended Data](ext_articles/0bdbc385.ext.json)
+
+---
+
+### Luxury car accident collided with car elephant
+
+*2025-09-28 14:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-கார்-யானையுடன்-மோதி-விபத்து/175-365410) · `ta`
+
+A luxury car collided with an elephant on Saturday (27) at 7 pm.
+
+During this time, the car collided with the elephant in the Pottuvil forest area belonging to the Pottuvil police division and the family traveled in it and the travelers who traveled in it.
+
+Travelers have said that the elephants are on the main street on the main road at night and evening.
+
+◼️
+
+[Data](articles/5abff311.json)
+
+[Extended Data](ext_articles/5abff311.ext.json)
+
+---
+
+### The provincial council election and the politics of Muslims
+
+*2025-09-28 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226299) · `ta`
+
+The vote banks of the Muslim parties and the people's confidence in it. This is not the case with the arrival of the NP. Muslim leaders and politicians who speak in genius must understand that it has happened before.
+
+◼️
+
+[Data](articles/bb5e7116.json)
+
+[Extended Data](ext_articles/bb5e7116.ext.json)
+
+---
+
+### சிறை­யி­ல­டைக்­கப்­படும் பிரான்ஸின்  முன்னாள் ஜனா­தி­பதி சார்­கோஸி
+
+*2025-09-28 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226298) · `ta`
+
+France's court has sentenced a five -year jail on criminal charges against France's former president Nicolas Sargos. Significantly, the court has ordered that he should be jailed until the verdict of the Sarcosi appealed against the verdict.
+
+◼️
+
+[Data](articles/e56b97aa.json)
+
+[Extended Data](ext_articles/e56b97aa.ext.json)
+
+---
+
+### 80% of heart disease deaths globally are preventable, experts say
+
+*2025-09-28 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112996/80-of-heart-disease-deaths-globally-are-preventable-experts-say-) · `en`
+
+It is regrettable that 80% of heart disease-related deaths worldwide are preventable, says Dr. Sampath Withanawasam, President of the Sri Lanka College of Cardiology.
+
+Speaking at an event held at the Viharamahadevi Park in Colombo, in view of World Heart Day, Dr. Withanawasam emphasized that the day’s main objective is to encourage collective action to prevent avoidable heart-related deaths.
+
+He highlighted that maintaining a simple and healthy lifestyle can significantly reduce the risk of heart disease. This includes regular physical activity, a healthy diet, avoiding smoking, managing stress, and undergoing regular health checkups.
+
+“Knowing how to identify a heart attack, its symptoms, and how to respond is not just the responsibility of medical professionals. It’s something everyone should be aware of.
+
+If you are informed and respond quickly, there is a lot doctors and nurses can do to help.
+
+...
+
+[Data](articles/0522bcf3.json)
+
+---
+
+### President meets Sri Lankan community living in Japan today
+
+*2025-09-28 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226312) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, will meet with the Sri Lankan community living in Japan on Sunday afternoon.
+
+The President made a three -day official visit to Japan on Saturday (27).
+
+Japanese Ambassador to Sri Lanka Akio Isomata, Sri Lanka Ambassador to Japan, Prof. Pivithuru Janak Kumarasinghe and Senior Officers of the Japanese Foreign Ministry welcomed the President.
+
+President Anura Kumara Dissanayake was the chief guest at the "Expo 2025" event organized by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan.
+
+Following yesterday's events, the president, who traveled from Shin-Osaka railway station to Tokyo this morning, will meet the Sri Lankan community living in Japan this afternoon.
+
+...
+
+[Data](articles/231f1a66.json)
+
+[Extended Data](ext_articles/231f1a66.ext.json)
+
+---
+
+### Karur: The families of the deceased are Rs.. 20 Lakhs: Tauga
+
+*2025-09-28 13:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-உயிரிழந்தவர்களின்-குடும்பத்தினருக்கு-தலா-ரூ-20-லட்சம்-தவெக/175-365409) · `ta`
+
+At least 40 people were killed in a crowded crowd at Karur. In this case, the family of the victims of the crowd. Tamil Nadu Victory Corporation Chairman Vijay has announced that Rs 20 lakh relief will be given
+
+Unstruvely, the heart and mind are very heavy, thinking of what happened yesterday in Karur. In a great mood that loses our relationships, I do not know how to tell my mind. Eyes and minds are upset.
+
+All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
+
+My own .... At the same time, I share this great tragedy close to your mind.
+
+...
+
+[Data](articles/469f7313.json)
+
+[Extended Data](ext_articles/469f7313.ext.json)
 
 ---
 
@@ -93,23 +351,39 @@ According to the police, the class road leader also received statements regardin
 
 ---
 
-### දරුවෙකුට පහරදුන් හිටපු පීසී අත්අඩංගුවට
+### Former PC arrested for assaulting a child
 
 *2025-09-28 13:38:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවකට-පහරදන-හටප-පස-අතඅඩගවට/101-680350) · `si`
 
 පාසලකට කඩා වැදී 9 හැවිරිදි  දරුවෙකුට පහර දුන්  පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව නවගමුව පොලිසිය කියයි.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වැඩ තහනමට ලක් වූ කොස්තාපල්වරයෙකි. පහර කෑමට ලක් වූ දරුවා රෝහල් ගතව ඇත.
+The suspect is a constable with a suspended constable. The attacker was hospitalized.
 
-සැකකාර කොස්තාපල්වරයාගේ දියණිය සහ පහර කෑ දරුවා එකම පාසලේ එකම පන්තියක ඉගෙනුම ලබන අතර තවත් දරුවන් කීප දෙනෙකු සමග එකතුව සෙල්ලම් කරමින් සිටියදී දැරිය තල්ලුවී බිම වැටීමෙන් ඉදිරි දතේ කොටසක් කැඩී ගොස් ඇතැයි පොලිසිය කියයි.
+The suspect's daughter and the daughter of the suspected child are studying in the same class, while playing the collection with several other children, the girl has broken the girl.
 
-මෙයින් උරණව තිබූූ දැරියගේ පියා වන සැකකරු  පන්ති කාමරයට කඩා වැදී දරුවාට පහර දී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණයය වී ඇත.
+Police investigations have revealed that the suspect was the father of the girl who had been announced.
 
-අදාල පැමිණිල්ල සම්බන්ධයෙන් පන්ති පාර ගුරුතුමියගෙන්ද ප්‍රකාශ ලබා ගත් බව පොලිසිය කියයි.
+According to the police, the class road leader also received statements regarding the complaint.
 
 ◼️
 
 [Data](articles/9521d8ac.json)
+
+[Extended Data](ext_articles/9521d8ac.ext.json)
+
+---
+
+### Will the President confirm the right to receive information?
+
+*2025-09-28 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226297) · `ta`
+
+It is important that the president, who thinks that everything in his government should be honest and transparent, is going to ensure the right to know information.
+
+◼️
+
+[Data](articles/5b773cdf.json)
+
+[Extended Data](ext_articles/5b773cdf.ext.json)
 
 ---
 
@@ -161,6 +435,42 @@ While my own, I am losing our lives, and expressing deep condolences with the pa
 
 ---
 
+### Security stepped up at Vijay’s Chennai home after deadly Karur stampede
+
+*2025-09-28 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112995/security-stepped-up-at-vijays-chennai-home-after-deadly-karur-stampede) · `en`
+
+Security has been tightened outside actor-politician Vijay’s residence in Chennai after a stampede at his rally in Karur left 39 people, including 10 children and 16 women, dead on Saturday.
+
+Tamil Nadu Chief Minister M K Stalin described the incident as one of the state’s worst tragedies in recent times and announced a judicial commission of inquiry led by retired High Court Justice Aruna Jagadeesan. He also chaired an emergency meeting of senior officials in Chennai to review the situation.
+
+The stampede occurred around 7.30 pm as thousands of people, who had been waiting since afternoon, surged forward while Tamilaga Vettri Kazhagam (TVK) chief Vijay was addressing them from atop his campaign vehicle. Several people fainted due to heat, dehydration, and suffocation as they waited for hours in the sun for a glimpse of their favourite star. Videos from the spot showed boys breaking into huts and climbing out of their roofs in a frantic search for escape routes.
+
+...
+
+[Data](articles/f82c3c22.json)
+
+---
+
+### Harry suggests people trying to sabotage reconciliation with King
+
+*2025-09-28 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112994/harry-suggests-people-trying-to-sabotage-reconciliation-with-king) · `en`
+
+The Duke of Sussex has suggested people are trying to sabotage his reconciliation with King Charles, as he described media reports about their recent meeting as “categorically false”.
+
+Prince Harry met his father at Clarence House in London on 10 September, in their first face to face meeting since February 2024.
+
+However, a report in the Sun on Saturday suggested the reunion had been more formal than expected, with the duke reportedly left feeling like he was being treated as an official visitor, rather than family.
+
+In a statement, Prince Harry’s spokesperson said the claims were “pure invention fed, one can only assume, by sources intent on sabotaging any reconciliation between father and son”.
+
+The Sun newspaper said Prince Harry had confirmed aspects of its reporting. It said the duke’s office “was given full right of reply yesterday in advance of publication and opted not to give a response to the Sun’s carefully sourced account of the meeting”.
+
+...
+
+[Data](articles/4528990d.json)
+
+---
+
 ### Increasing American - Sri Lanka's intimacy
 
 *2025-09-28 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226293) · `ta`
@@ -172,6 +482,28 @@ Many of the events that took place in September 2025 are sufficient to make the 
 [Data](articles/16aa7946.json)
 
 [Extended Data](ext_articles/16aa7946.ext.json)
+
+---
+
+### COPE summons all institutions under its purview for special discussion
+
+*2025-09-28 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112993/cope-summons-all-institutions-under-its-purview-for-special-discussion) · `en`
+
+The Committee on Public Enterprises (COPE) has summoned all institutions under its jurisdiction for a special meeting.
+
+The meeting is scheduled to take place on October 2 at the Parliamentary complex, according to COPE Chairman Dr. Nishantha Samaraweera.
+
+The main objective of the meeting is to discuss the challenges currently being faced in the ongoing functions and responsibilities of the COPE Committee.
+
+At present, 457 state enterprises fall under the oversight of COPE.
+
+Dr. Samaraweera further stated that written notifications have been sent to the secretaries of those institutions regarding the meeting.
+
+The session aims to gather preliminary information on the audits of the respective institutions and their operational performance.
+
+◼️
+
+[Data](articles/283f7758.json)
 
 ---
 
@@ -331,6 +663,24 @@ The President will also participate in the Sri Lanka Investment Forum organized 
 
 ---
 
+### Ranil visits Mahinda at Carlton House in Tangalle
+
+*2025-09-28 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/112992/ranil-visits-mahinda-at-carlton-house-in-tangalle) · `en`
+
+A meeting between former President Ranil Wickremesinghe and former President Mahinda Rajapaksa took place this morning (28) at Carlton House in Tangalle.
+
+The meeting took place while former President Ranil Wickremesinghe was en-route from Kataragama to Colombo, according to a statement from the United National Party (UNP) media unit.
+
+During the meeting, former President Ranil Wickremesinghe expressed his gratitude to former President Mahinda Rajapaksa for the role he played during the period when Wickremesinghe was imprisoned.
+
+Former President Ranil Wickremesinghe also took steps to inquire about Mahinda Rajapaksa’s health and well-being during his visit to Carlton House, statement added further.
+
+◼️
+
+[Data](articles/b124d8a5.json)
+
+---
+
 ### Marc Márquez Seals 2025 MotoGP World Championship
 
 *2025-09-28 12:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/marc-m%c3%a1rquez-seals-2025-motogp-world-championship) · `en`
@@ -444,6 +794,26 @@ With the opening of a major gap with a major gap with a major gap of 1,420 meter
 [Data](articles/5679dc58.json)
 
 [Extended Data](ext_articles/5679dc58.ext.json)
+
+---
+
+### President to meet Sri Lankan community in Japan today
+
+*2025-09-28 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112991/president-to-meet-sri-lankan-community-in-japan-today) · `en`
+
+President Anura Kumara Dissanayake, who is currently on an official visit to Japan, is scheduled to meet with the Sri Lankan community residing in Japan this afternoon (28) in Tokyo.
+
+President Dissanayake landed in Japan yesterday (27), marking the beginning of his three-day official visit.
+
+Upon his arrival, he was warmly welcomed by Isomata Akio, the Japanese Ambassador to Sri Lanka, Professor Pivithuru Janak Kumarasinghe, the Sri Lankan Ambassador to Japan; and senior officials from Japan’s Ministry of Foreign Affairs.
+
+Yesterday (27), the President attended the Sri Lanka Day Celebration as the chief guest, organized in line with “Expo 2025” in Osaka. The event was jointly organized by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan.
+
+Following yesterday’s events, the President departed this morning (28) from Shin-Osaka railway station to Tokyo, where he is scheduled to meet the Sri Lankan community in Japan later this afternoon, the President’s Media Division.
+
+...
+
+[Data](articles/8b9dffba.json)
 
 ---
 
@@ -1281,6 +1651,24 @@ Meanwhile, Batticaloa is second to the list of those who live in and 172 people,
 
 ---
 
+### Five crores in water by stopping at Nuwara Eliya Sports Complex
+
+*2025-09-28 10:50:28* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය-ක්‍රීඩා-සංකීර්ණය-ඉදිකිරීම-නැවැත්වීමෙන්-කෝටි-පහක්-වතුරේ/11-418760) · `si`
+
+The National Audit Office (51,047,021) has been completed as a default expenditure of Rs. A audit report is mentioned.
+
+The project was renewed in 2021 and this project was requested in 2023, in 2023, and was asked for compensation. The University of Moratuwa, the consulting of the project, was also requested by the University of Moratuwa, as a result of the project.
+
+Although Sports Ministry had consulted the stability, despite the lack of law. The claim of contract and consulting agencies to cancel the project for the Cancellation of the project, specialist counseling (3,648,000) had paid a sum of Rs.
+
+...
+
+[Data](articles/cdba2f05.json)
+
+[Extended Data](ext_articles/cdba2f05.ext.json)
+
+---
+
 ### Cable car crash; more death of a monk
 
 *2025-09-28 10:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்து-மேலும்-ஒரு-துறவி-மரணம்/175-365397) · `ta`
@@ -1534,445 +1922,5 @@ Always happy to come to Sri Lanka. Civilized bonds between India and Sri Lanka h
 [Data](articles/45b70886.json)
 
 [Extended Data](ext_articles/45b70886.ext.json)
-
----
-
-### Two suspects arrested over Rs. 6 mln gold jewelry heist
-
-*2025-09-28 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112984/two-suspects-arrested-over-rs-6-mln-gold-jewelry-heist-) · `en`
-
-Two suspects have been arrested in Kiribathgoda in connection with the investigation into the robbery of gold jewelry worth Rs. 6 million after assaulting a person in the Ganemulla Police Division.
-
-The duo was arrested following a special investigation conducted by a team of officers from the Western Province North Crime Division.
-
-The two youths, aged 17 and 20, are reported to be residents of Kendaliyaddapaluwa and Ganemulla areas.
-
-Following the interrogation of the suspects, two gold biscuits weighing 121 grams and 350 milligrams, and 17 grams and 15 milligrams, which were prepared after melting down the stolen gold items, were also recovered.
-
-The Western Province North Crime Division is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/c8fb6857.json)
-
-[Extended Data](ext_articles/c8fb6857.ext.json)
-
----
-
-### 13 -year -old girl
-
-*2025-09-28 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226286) · `ta`
-
-A 13 -year -old girl died in the Kokkadichcholai area in Batticaloa, where the incident took place on Saturday evening.
-
-Meanwhile, 105 people have committed suicide in eight months, including 26 women and a 12 -year -old boy from January in the district, a police officer said.
-
-The death of a 13 -year -old girl from Kokkadicholai has died.
-
-The girl and her twin sister are living with her mother as the girl's father is working abroad.
-
-In this case, the father from abroad sent money to the twin sisters to buy clothes. In this case, the father has said that the girl will be paid to buy clothes when he returns to the country next month.
-
-Angered by the father, the girl, who was angry that the father did not pay her to buy her clothes, she died at 5.45 pm yesterday.
-
-Initial investigations by the police revealed that the relatives had rescued him and took him to the Batticaloa Teaching Hospital.
-
-...
-
-[Data](articles/42a98eca.json)
-
-[Extended Data](ext_articles/42a98eca.ext.json)
-
----
-
-### China's tallest bridge, China Huajianang bridge opens for traffic
-
-*2025-09-28 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215090) · `si`
-
-It was opened today (28) to commence the transportation of the Huajiang Bridge, which opens two large mountains in China.
-
-Located in the province of China, the main bridge is the width of 1,420 meters and the largest bridge in the world.
-
-The bridge and the river flowing below the river below the river flow below is 625 meters and is the world's highest gap in the world.
-
-With the opening of the bridge today, the 2 hour period has been reduced to 2 minutes.
-
-The construction took three years for the construction of the project, and its design was focused on integration of tourism with tourism.
-
-The bridge that has been flown below a long river, this bridge will be a new factor in the future.
-
-◼️
-
-[Data](articles/6dae5273.json)
-
-[Extended Data](ext_articles/6dae5273.ext.json)
-
----
-
-### Health Minister says there is establishing health service responsible for the people
-
-*2025-09-28 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215091) · `si`
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa says that the health of the people will be established in Sri Lanka as well as the people are responsible for the people.
-
-The Minister made this observation to be the first center of the Hospital Mapelagama Hospital in Galle District recently.
-
-Under this project, 100 primary care centers are to be resorted to the innovative program for a state of healing country. The primary health care of the primary care centers will be designated more closely, closer to the people.
-
-He was speaking at the time Minister the minister said that there were many challenges in the health sector and to overcome the challenge of winning them.
-
-He pointed out that the support of all community is essential for this purpose.
-
-...
-
-[Data](articles/c9379cda.json)
-
-[Extended Data](ext_articles/c9379cda.ext.json)
-
----
-
-### Another monk who was injured in the accident of Naa Uyana
-
-*2025-09-28 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215089) · `si`
-
-Another monk who was receiving treatment in the accident in the accident was injured in the accident in general area Malziripura.
-
-He has been treated at the ICU of the Kurunegala Hospital.
-
-Accordingly, the number of owners have gone up to 8.
-
-Another five Buddhist monks are being treated at the Kurunegala Hospital.
-
-The night was a dangerous and injured on the cables of the monastery.
-
-It was reported that the 13 Monks had a 13 bhikkus.
-
-Three Thero were the overseas national monks and the monks lived in India, Romania and Russian countries.
-
-At the time of the dick, a 13 Buddhist monks had lived away from a dack.
-
-◼️
-
-[Data](articles/edc18aa6.json)
-
-[Extended Data](ext_articles/edc18aa6.ext.json)
-
----
-
-### Karur rally congestion - Tamil Nadu News News
-
-*2025-09-28 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226280) · `ta`
-
-Tamil Nadu media has reported that Vijay may be arrested by the leader of the Tamil Victory Association.
-
-Vijay is likely to be arrested after 39 people were killed in a congestion in Karur.
-
-As the 2026 assembly elections are being held, the political parties in Tamil Nadu have launched serious campaigns and people's meetings.
-
-In particular, the ruling party, the main opposition party, the AIADMK, and Vijay's TVK, which are in anticipation, are holding public meetings in various parts of Tamil Nadu.
-
-In this backdrop, the leader of the Tamil Victory Association, Vijay, held a people meeting in Karur yesterday.
-
-In India, the deaths of religious events have occurred in the past.. But this is the first time that so many people have been killed in a political party meeting.
-
-Eight people were killed in the congestion at Telugu Desam Party leader Chandrababu Naidu in 2022 in Andhra Pradesh in 2022.
-
-Vijay is likely to be arrested in connection with the death toll in Karur.
-
-...
-
-[Data](articles/ef1a8ea6.json)
-
-[Extended Data](ext_articles/ef1a8ea6.ext.json)
-
----
-
-### Dileepan's memory
-
-*2025-09-28 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226281) · `ta`
-
-The criticism that only one party should dominate should be held as a public event.
-
-◼️
-
-[Data](articles/eac43da8.json)
-
-[Extended Data](ext_articles/eac43da8.ext.json)
-
----
-
-### The government has been improperly acting in the Mannar wind farm - Kavinda Jayawardena
-
-*2025-09-28 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226279) · `ta`
-
-The government has been improperly acting in the Mannar windmill issue. United People's Power Gampaha District Parliamentarian Kavinda Jayawardena said that the attack on civilians and religious leaders who were involved in the protests without respecting the opinions of the people of the area were strongly condemned.
-
-The above mentioned the police attacked the civilians who were protesting against the Mannar windmill.
-
-The last government has signed the Mannar windmill with Adani.. Environmentalists and civilian parties are continuously leading the way that this project will affect the environment.
-
-To protect the natural features of the Mannar Island, which is considered to be the largest island of Sri Lanka. The President said that the Mannar windmill was openly discussed with all parties.
-
-...
-
-[Data](articles/3dcfab3c.json)
-
-[Extended Data](ext_articles/3dcfab3c.ext.json)
-
----
-
-### Pedestrian death
-
-*2025-09-28 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226276) · `ta`
-
-A pedestrian was killed when a bus collided with a bus from Galle to Hikkaduwa near the Ratgama junction of the Ratgama police division.
-
-The woman was injured when a bus traveling from Galle to Hikkaduwa crashed into a pedestrian on the sidewalk on Saturday (27).
-
-The injured woman died after being admitted to a pedestrian vacant hospital.
-
-Investigations have revealed that the deceased was 77 years old from Poosa.
-
-The body has been placed in the funeral room of the vacant hospital and the driver of the bus has been arrested.
-
-◼️
-
-[Data](articles/29ecb2ca.json)
-
-[Extended Data](ext_articles/29ecb2ca.ext.json)
-
----
-
-### Cable car accident at Na Uyana Monastery: Death toll rises to 8
-
-*2025-09-28 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112983/cable-car-accident-at-na-uyana-monastery-death-toll-rises-to-8) · `en`
-
-The death toll from the cable car accident at the Na Uyana Monastery has risen to eight, after another monk who was receiving treatment in the Intensive Care Unit (ICU) succumbed to injuries sustained in the incident.
-
-Meanwhile, another five Buddhist monks are still receiving treatment at the Kurunegala Hospital.
-
-◼️
-
-[Data](articles/6e8869c7.json)
-
-[Extended Data](ext_articles/6e8869c7.ext.json)
-
----
-
-### Boy killed in train
-
-*2025-09-28 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226275) · `ta`
-
-A boy was killed when a train collided with a train from Badulla to Colombo at Tissmalla railway station belonging to the Rambukanai police division.
-
-The boy who died in the incident has been identified as a 14 -year -old from Medagama.
-
-The boy was traveling with friends to the Tissmalla railway station on a train from Rambukkana to Colombo Fort.
-
-It was revealed that the train from Badulla to Colombo Fort was reported to be on the train.
-
-◼️
-
-[Data](articles/f46c906f.json)
-
-[Extended Data](ext_articles/f46c906f.ext.json)
-
----
-
-### TV leader Vijay arrested? Home security
-
-*2025-09-28 09:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/த-வெ-க-தலைவர்-விஜய்-கைது-வீட்டுக்கு-பலத்த-பாதுகாப்பு/175-365392) · `ta`
-
-Indian media reports that police protection has been provided to the house of TV leader Vijay in Chennai.
-
-Following the demand for Karur, the security for his home has been increased.
-
-15 policemen are headed by a police inspector to Vijay's house in Neelangara.
-
-The action has been taken since last night. Earlier, the central government has already provided him with 'Y' section.
-
-It seems that all those who are suspicious of Vijay's house have been ordered to investigate.
-
-The police are providing security on both sides of the road in his house where Vijay is currently staying in Neelangara, Chennai.
-
-◼️
-
-[Data](articles/8bb42ae7.json)
-
-[Extended Data](ext_articles/8bb42ae7.ext.json)
-
----
-
-### India - Sri Lanka Relations - High Commissioner Mahishini Kolonne
-
-*2025-09-28 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226277) · `ta`
-
-High Commissioner Mahishini Kolonne has said that the bilateral ties between India and Sri Lanka have reached the "unprecedented" visit of President Anura Kumara Dissanayake and the arrival of Prime Minister Narendra Modi.
-
-Speaking to the media after an event in Delhi, High Commissioner Mahishini Kolonne said the above.. As he continues to mention,
-
-Stabilizing Sri Lanka's current economic status and excellent on the path of recovery and change. In this journey, we find great opportunities to cooperate with India. Since his visit to India after the election of President Anura Kumara Dissanayake, Prime Minister Modi visited Sri Lanka a few months later, Sri Lanka -India relations have reached no excellent position.
-
-...
-
-[Data](articles/90d7f34e.json)
-
-[Extended Data](ext_articles/90d7f34e.ext.json)
-
----
-
-### 14-Year-Old Student Killed by Train at Rambukkana
-
-*2025-09-28 09:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/14-year-old-student-killed-by-train-at-rambukkana) · `en`
-
-Colombo (News 1st):A 14-year-old student has died after being hit by a train at the Rambukkana-Tismalpola railway station.Police stated that he had arrived at Tismalpola station with a group of friends on a train running from Rambukkana to Colombo Fort.At the time, he stepped onto the railway track instead of the platform, police said.The student was struck by a train traveling from Badulla to Colombo Fort and died on the spot.The deceased is a resident of Medagama.
-
-◼️
-
-[Data](articles/44dab670.json)
-
-[Extended Data](ext_articles/44dab670.ext.json)
-
----
-
-### Gold jewelery robbery in Ganamulla area; Two arrested arrests!
-
-*2025-09-28 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226274) · `ta`
-
-Two suspects have been arrested for allegedly assaulting a man in Ganemulla and robbing gold jewelery worth about Rs 60 lakh.
-
-A group of officials from the Western Province Northern Crime Prevention Division arrested two suspects in the Kiribathgoda area on Saturday (27).
-
-Police say the robbery took place on the 20th of this month.
-
-Initial investigations have revealed that the suspects were 17 and 20 years old and they were from Kendaliyatapaluwa and Ganemulla.
-
-121 grams of 350 milligrams of stolen gold items and two gold pieces with 17 grams of 15 milligrams have been discovered from them.
-
-The Western Province Northern Crime Prevention Unit is conducting further investigations.
-
-◼️
-
-[Data](articles/247d83db.json)
-
-[Extended Data](ext_articles/247d83db.ext.json)
-
----
-
-### Two youths arrested for robbery of jewelery worth Rs
-
-*2025-09-28 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215088) · `si`
-
-Two suspects have been arrested in Kiribathgoda, who was attacked by a person and the robbery of jewelery worth about Rs.
-
-The two men were arrested following a special investigation made by a team of officers of the Western Province.
-
-The arrested persons were 17 and 20 youths of the aged 17 and 20 years of age.
-
-The gold items carried out from the suspects were found two milligrams of gold and 3 milligrams of gold and 15 mg 15 milligrams.
-
-The Western Province North Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/fc223000.json)
-
-[Extended Data](ext_articles/fc223000.ext.json)
-
----
-
-### Teenage boy dies after being hit by train in Rambukkana
-
-*2025-09-28 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112982/teenage-boy-dies-after-being-hit-by-train-in-rambukkana-) · `en`
-
-A 14-year-old boy has been killed after being hit by an express train at the Tismalpola railway station in the Rambukkana police division.
-
-The deceased has been identified as a resident of Medagama, police said.
-
-The boy had visited the Tismalpola station with several friends on a train traveling from Rambukkana to Colombo Fort. After getting off, he has stepped onto the railway track instead of the platform.
-
-At that moment, an express train en route from Badulla to Colombo Fort had approached and fatally struck him, according to preliminary police investigations.
-
-The Rambukkana Police is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/097f3be3.json)
-
-[Extended Data](ext_articles/097f3be3.ext.json)
-
----
-
-### "Angi Kingdom"; The government should unite to defeat the government to bring about the constitution - Gajendrakumar says - Gajendrakumar
-
-*2025-09-28 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226278) · `ta`
-
-Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA), has said that the National People's Power Government is not a complete solution for the Tamils.
-
-A workshop was held in Switzerland from the 14th to 21st to clarify the members of the Sri Lankan ruling and opposition parties on the country's federal political system and national integrity of the country in connection with the Sri Lanka -Switzerland Parliamentary Alliance Association.
-
-A public meeting was held with 13 members who went there to represent Sri Lanka's ruling and opposition parties.
-
-Commenting on issues including the solution to the ethnic problem, Dr. Nihal Abeysinghe, the General Secretary of the National People's Power and Member of Parliament, said that the new constitutional draft prepared from 2015 to 2019 to 2019 and amendments to the political parties.
-
-...
-
-[Data](articles/f2316914.json)
-
-[Extended Data](ext_articles/f2316914.ext.json)
-
----
-
-### Special test action in Maradana; 30 arrested
-
-*2025-09-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226273) · `ta`
-
-Special raids were carried out by the police in Colombo - Maradana on Saturday evening (27).
-
-◼️
-
-[Data](articles/4e152d06.json)
-
-[Extended Data](ext_articles/4e152d06.ext.json)
-
----
-
-### Children's Day National Week: Minister Saroja Savitri Bolraj participates in the 1929 support service awareness sticker event
-
-*2025-09-28 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226272) · `ta`
-
-Women and Child Affairs Minister Saroja Savitri Bolraj said that she participated in the 1929 Children's Service Service Service Service, organized by the National Children's Safety Commission on Friday, 26th, to mark the second day of the "Children's Day National Week" announced for World Children's Day in 2025.
-
-The Minister of Women and Child Affairs has said that the vehicles carrying school children have been inspected by the National Transport Authority officials; Noted.
-
-The Minister of Women and Child Affairs said that the school's transport vehicle owners and drivers who participated in the event were also likely to exchange comments.
-
-And boys in traffic in the future; He also noted that this conversation would be an encouragement for the success of the actions taken to protect.
-
-...
-
-[Data](articles/b374af39.json)
-
-[Extended Data](ext_articles/b374af39.ext.json)
-
----
-
-### Child dies after collision with train
-
-*2025-09-28 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215087) · `si`
-
-A boy was killed after collision with a train traveling from Badulla to Colombo Fort at the Rambukkana Police Division in Rambukkana Police Division.
-
-The victim was a 14 year old resident of the Medagama area.
-
-The deceased has visited the Rambukkana railway station from Rambukkana to Colombo Fort and went down to the railway stage while traveling from the train.
-
-Preliminary investigations have revealed that he had collided with the train from Badulla to Colombo Fort.
-
-◼️
-
-[Data](articles/b7ca0f28.json)
-
-[Extended Data](ext_articles/b7ca0f28.ext.json)
 
 ---

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 05:20:05**
+As of **2025-09-28 07:09:04**
 
 ## Newspaper Stats
 
-*Scraped **79,014** Articles*
+*Scraped **79,032** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 356
-newsfirstlk | 442
+lankadeepalk | 357
+newsfirstlk | 443
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
 economynextcom | 4,731
 dailymirrorlk | 4,733
-islandlk | 4,812
+islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,626
 adaderanalk | 10,210
@@ -27,9 +27,23 @@ adaderanasinhalalk | 13,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,014 (100.0%) of 79,014 articles have been extended.
+79,025 (100.0%) of 79,032 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-09-28 (Sunday)
+
+### COPE Calls Institutions for Review
+
+*2025-09-28 06:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/cope-calls-institutions-for-review) · `en`
+
+Colombo (News 1st); All institutions under the Committee on Public Enterprises (COPE) have been summoned for a meeting on the 2nd.COPE Chairman Dr. Nishantha Samaraweera said that 457 institutions are included. He noted that the discussions will focus on common issues such as the possible misuse of public funds, as well as the future plans of these institutions.
+
+◼️
+
+[Data](articles/9fe9233c.json)
+
+---
 
 ### 2025-09-27 (Saturday)
 
@@ -849,6 +863,24 @@ COLOMBO(News 1st); One person has died, and 58 people from 17 families have been
 
 ---
 
+### Labookellie Estate
+
+*2025-09-27 17:47:00* · [`islandlk`](http://island.lk/labookellie-estate/) · `en`
+
+over 150 years of tea heritage looks to the future under Damro
+
+High above the mist-draped peaks of Sri Lanka’s Central Highlands, where crisp winds whisper across emerald slopes, lies the iconic Labookellie Estate. Established in 1870, this plantation has stood the test of time as one of the country’s most renowned tea estates, blending heritage, innovation and community service in a way that continues to shape the identity of Ceylon Tea.
+
+Today, under the stewardship of the Damro Group, Labookellie remains both a symbol of Sri Lanka’s tea legacy and a vibrant contributor to its economy and culture.
+
+...
+
+[Data](articles/6a5cd34f.json)
+
+[Extended Data](ext_articles/6a5cd34f.ext.json)
+
+---
+
 ### Major Cities on High Alert as Dengue Threat Looms
 
 *2025-09-27 17:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/major-cities-on-high-alert-as-dengue-threat-looms) · `en`
@@ -860,6 +892,40 @@ COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destr
 [Data](articles/ffb79d83.json)
 
 [Extended Data](ext_articles/ffb79d83.ext.json)
+
+---
+
+### Cultivating Circular Futures: Youth as Agents of Change
+
+*2025-09-27 17:45:00* · [`islandlk`](http://island.lk/cultivating-circular-futures-youth-as-agents-of-change/) · `en`
+
+On September 29, the world marks the International Day of Awareness on Food Loss and Waste,
+
+highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
+
+The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
+
+...
+
+[Data](articles/a36524f1.json)
+
+[Extended Data](ext_articles/a36524f1.ext.json)
+
+---
+
+### The Kingswood Reader: A refined and sophisticated opus:
+
+*2025-09-27 17:45:00* · [`islandlk`](http://island.lk/the-kingswood-reader-a-refined-and-sophisticated-opus/) · `en`
+
+When I received the invitation to speak at this most august occasion, I must confess, I had to check Vihanga Perera’s invitation twice. You see, I’m not from Kingswood. I’m a Josephian—and in schoolboy terms, that makes me something like the distant cousin you see only at weddings, funerals, and maybe, at cricket or rugger matches.
+
+But let me tell you sincerely why I stand here. Because beyond the colours of our alma maters, beyond the chants of “Go Kingswood!” or “Forward Joes!”, there is something more lasting, more sacred, more binding. It is the soul of our schools. It is memory. It is story. It is the written word that we pass down like a torch, from one generation to the next.
+
+...
+
+[Data](articles/b54eede5.json)
+
+[Extended Data](ext_articles/b54eede5.ext.json)
 
 ---
 
@@ -1025,6 +1091,40 @@ The construction of a passenger flyover to the comfort of the railway stations, 
 
 ---
 
+### INSEE Sanstha Cement takes global stage in Kotler’s Essentials of Modern Marketing – Sri Lanka Edition
+
+*2025-09-27 17:16:00* · [`islandlk`](http://island.lk/insee-sanstha-cement-takes-global-stage-in-kotlers-essentials-of-modern-marketing-sri-lanka-edition/) · `en`
+
+INSEE Cement’s flagship brand, INSEE Sanstha Cement, has been featured as a case study in the first-ever Sri Lanka edition of Essentials of Modern Marketing (EOMM) by globally renowned marketing pioneer, Prof. Philip Kotler.
+
+The prestigious publication was launched on 22 August 2025 at Cinnamon Grand Hotel, Colombo, in collaboration with Kotler Impact Inc. and Deyo Consultancy and Advisory. Being the first country in the EOMM global series with a dedicated edition marks a milestone, showcasing the nation’s marketing innovation and brand excellence globally.
+
+...
+
+[Data](articles/0338c280.json)
+
+[Extended Data](ext_articles/0338c280.ext.json)
+
+---
+
+### HNB Assurance Sales Force Shines at Life Industry Sales Competition
+
+*2025-09-27 17:15:00* · [`islandlk`](http://island.lk/hnb-assurance-sales-force-shines-at-life-industry-sales-competition/) · `en`
+
+HNB Assurance PLC (HNBA) recorded outstanding success of its sales team at the Life Industry Sales Competition held during the NAFLIA Conference, where the Company secured eleven prestigious accolades across both the Advisor Channel and the Partnership Channel. Demonstrating exceptional performance and commitment, the winners from HNBA delivered outstanding performances at a national level, showcasing the strength of the organization
+
+The accolades spanned a diverse range of categories including Fast Starters, Advisors, Supervisors and Bancassurance Officers, reflecting the collective strength and capability of HNBA’s sales force.
+
+Among the winners, Gammeda Liyanage Deepa Shamalie was recognized as Best Advisor – Silver, while Anjula Prasath Thilakarathne earned the Best Advisor – Bronze award. In the Bancassurance category, Dinushika Ratnayake was awarded Best Bancassurance Officer – Silver, and J. I. M. Fernando secured the Best Bancassurance Officer – Bronze.
+
+...
+
+[Data](articles/29768c30.json)
+
+[Extended Data](ext_articles/29768c30.ext.json)
+
+---
+
 ### Narahenpita Railway Station begins
 
 *2025-09-27 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215074) · `si`
@@ -1044,6 +1144,60 @@ The renovation work is to be conducted by the private sponsorship of the private
 [Data](articles/3d79ff0e.json)
 
 [Extended Data](ext_articles/3d79ff0e.ext.json)
+
+---
+
+### Royal junior stickers retain Chandi Chanmugam trophy after Karunasiri’s hat trick
+
+*2025-09-27 17:10:00* · [`islandlk`](http://island.lk/royal-junior-stickers-retain-chandi-chanmugam-trophy-after-karunasiris-hat-trick/) · `en`
+
+A hat trick with two late goals by Savain Karunasiri led Royal College under 16 to win Chandi Chanmugam Challenge trophy by 5-1 against their arch rivals St. Thomas’ College Mount Lavinia in the annual hockey encounter played at Colombo International Astro Turf last weekend.
+
+From the start, the both teams found it difficult to overcome their traditional rivals, but Royal Vice Captain Karunasiri reflected a fast moving ball into the goal to score the first goal of the match. Later Seth Pathirathna added a stylish goal to lead the Reid avenue team with 2-0 at the lemons.
+
+In the second half, the STC bounced back with a reverse stick goal by their skipper Hansa Thilakarathne to reduce the Royal lead to 2-1 before Vidu Wijesinghe scored the third goal for Royal. Karunasiri scored two goals within quick succession in the last seven minutes of the game to secure a 5-1 victory for Royal.
+
+With the win, Royal juniors won the Chandi Chanmugam trophy for the second successive year.
+
+...
+
+[Data](articles/3b47645e.json)
+
+[Extended Data](ext_articles/3b47645e.ext.json)
+
+---
+
+### Standard Chartered appoints Praveen Karunaratne to Country Management Team
+
+*2025-09-27 17:09:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-praveen-karunaratne-to-country-management-team-2/) · `en`
+
+Standard Chartered Sri Lanka has appointed Praveen Karunaratne, Head of Financial Institutions (FI), to the Country Management Team, effective 15 Sept.
+
+Praveen’s appointment to the Country Management Team ensures strategic oversight and continued development of critical Financial Institutions relationships, reinforcing Standard Chartered’s commitment to institutional banking excellence in Sri Lanka.
+
+Financial Institutions represents a rapidly growing segment and forms a core pillar of the Bank’s global business strategy, targeting 60% of Corporate & Institutional Banking revenue by 2029. The appointment recognises the strategic importance of the Financial Institutions business for Standard Chartered in Sri Lanka.
+
+...
+
+[Data](articles/a08be861.json)
+
+[Extended Data](ext_articles/a08be861.ext.json)
+
+---
+
+### Ceylinco Life launches ‘Family Savari 19’ with fun in Beijing, Malaysia and Pearl Bay
+
+*2025-09-27 17:09:00* · [`islandlk`](http://island.lk/ceylinco-life-launches-family-savari-19-with-fun-in-beijing-malaysia-and-pearl-bay/) · `en`
+
+Sri Lanka’s most anticipated life insurance customer promotion is back – bigger, brighter, and brimming with adventure, with Ceylinco Life unveiling the 19th edition of its iconic ‘Family Savari’ mega promotion, promising unforgettable journeys abroad and at home for hundreds of lucky policyholder families.
+
+Over nearly two decades, Family Savari has become a household name, touching the lives of more than 11,000 families – a staggering 37,000 people – with experiences that go far beyond conventional rewards. In its 19th year, the excitement continues with the announcement of the destinations for 2026.
+
+...
+
+[Data](articles/c091dd84.json)
+
+[Extended Data](ext_articles/c091dd84.ext.json)
 
 ---
 
@@ -1621,6 +1775,40 @@ Udaya Munasinghe was vacant by retirement from the post of PSSP
 
 ---
 
+### Trump announces 100 percent tariff on Pharmaceutical imports from Oct. 1
+
+*2025-09-27 15:11:00* · [`islandlk`](http://island.lk/trump-announces-100-percent-tariff-on-pharmaceutical-imports-from-oct-1/) · `en`
+
+US President Donald Trump announced a 100 percent tariff on “branded and patented pharmaceutical imports,” effective October 1, 2025, unless companies establish manufacturing facilities in the United States.
+
+“Starting October 1, 2025, we will be imposing a 100 pc tariff on any branded or patented pharmaceutical product, unless a company is building its pharmaceutical manufacturing plant in America,” Trump declared on his social media platform.
+
+Trump said that the new tariff would not apply to companies already “building” pharmaceutical manufacturing facilities in the United States.
+
+“’Building’ will be defined as ‘breaking ground’ and/or ‘under construction.’ There will, therefore, be no tariff on these pharmaceutical products if construction has started,” he said.
+
+...
+
+[Data](articles/db529741.json)
+
+[Extended Data](ext_articles/db529741.ext.json)
+
+---
+
+### Is Japan ready for its first female PM?
+
+*2025-09-27 15:10:00* · [`islandlk`](http://island.lk/is-japan-ready-for-its-first-female-pm/) · `en`
+
+Japan has never confronted the raw contradiction inherent in its postwar democracy: a nation reconstructed from devastation, yet shackled by entrenched hierarchies that dictate who may wield authority. The first week of next month, however, a singular possibility emerges. Sanae Takaichi, former economic security minister and unflinching conservative, positions herself as the foremost contender to assume the premiership, an office long monopolised by men. Her candidacy is not merely symbolic; it exposes the fissures in Japan’s political system, its gender inequities, and the enduring influence of historical power brokers, while raising profound questions about legitimacy, merit, and risk in governance.
+
+...
+
+[Data](articles/0127dc8d.json)
+
+[Extended Data](ext_articles/0127dc8d.ext.json)
+
+---
+
 ### Executive Presidential system is important: Law College Principal
 
 *2025-09-27 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226242) · `ta`
@@ -1814,223 +2002,5 @@ With the funeral of the Russian national monk, the body was working to the Arany
 [Data](articles/9a51b259.json)
 
 [Extended Data](ext_articles/9a51b259.ext.json)
-
----
-
-### Opposition Leader paid tribute to monks who died in a car accident in Kurunegala!
-
-*2025-09-27 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226239) · `ta`
-
-Opposition Leader Sajith Premadasa paid tribute on Saturday (27) to the Buddhists of the monks who died in an accident.
-
-Seven monks from domestic and abroad died in the crash. Some monks are being treated at the hospital with injuries.
-
-The boutiques of the monks who died in the incident have been placed in the Melsiripura Na Aranya Senasana.
-
-After paying the final tribute here, he met with the chief Thera of the Aranya Senasanam to learn more about the accident.
-
-◼️
-
-[Data](articles/2a092c28.json)
-
-[Extended Data](ext_articles/2a092c28.ext.json)
-
----
-
-### Final Rites Of Monks From Na Uyana Senasana Tragedy, Today
-
-*2025-09-27 14:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/final-rites-of-monks-from-na-uyana-senasana-tragedy-today) · `en`
-
-...
-
-[Data](articles/56ef2604.json)
-
-[Extended Data](ext_articles/56ef2604.ext.json)
-
----
-
-### Inefficient appliances a major cause of energy loss, warns SLSEA
-
-*2025-09-27 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112961/inefficient-appliances-a-major-cause-of-energy-loss-warns-slsea) · `en`
-
-The Sri Lanka Sustainable Energy Authority (SLSEA) has stated that a significant portion of energy loss in the country is caused by inefficient electrical appliances, particularly refrigerators that are over 10 years old.
-
-The Director General of the Authority, Harsha Wickramasinghe, made this remarks while addressing the media following a ceremony in Colombo.
-
-“Surveys have shown that inefficient household appliances in Sri Lanka contribute to high electricity bills. This issue is most commonly observed in refrigerators and air conditioners,” he said.
-
-According to Wickramasinghe, one in three refrigerators in homes in the Western Province is in an unusable condition, leading to electricity consumption exceeding 100 units per month.
-
-He further noted that the import of inefficient appliances into Sri Lanka has already been halted, and similar regulations for air conditioners will be strictly enforced by the end of this year.
-
-◼️
-
-[Data](articles/165a8bf3.json)
-
-[Extended Data](ext_articles/165a8bf3.ext.json)
-
----
-
-### Is the refrigerator more than 10 years old?
-
-*2025-09-27 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215068) · `si`
-
-The Sri Lanka Sustainable Energy Authority (SLMC) says that energy losses are more likely due to efficient electrical equipment.
-
-The institute shows that the use of refrigeration is increasing due to more than 10 years.
-
-The Director General of the Superintendent Harrien Wickremesinghe said this was revealed to the media after a ceremony with a ceremony.
-
-"In surveys, we learned that the efficient domestic electricity bills of Sri Lanka is a cause of high electricity electricity.
-
-There is this question in a refrigerator that uses more than 10 years. And in air conditioning.
-
-There are three inappropriate in use in the homes of the Western Province. As a result, electricity units will exceed 100 per month.
-
-Sri Lanka has stopped importing low equipment. By the end of this year, the law will also be raised to adapimedists.
-
-◼️
-
-[Data](articles/548775be.json)
-
-[Extended Data](ext_articles/548775be.ext.json)
-
----
-
-### Teaches Kandy about AI
-
-*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/AI-ගන-මහනවරට-උගනවය/1-680312) · `si`
-
-Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat at the Kandy District Secretariat.
-
-The program was organized by the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
-
-Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
-
-The Presidential Secretariat says that the function of the Government Officer and AI techniques on the use of the Government Superintendent of Government Digitalization Plan to cover all provinces and the government officials on the government's use of public purposes and AI technology are also allocated to educate the government.
-
-This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
-
-◼️
-
-[Data](articles/4508f2a5.json)
-
-[Extended Data](ext_articles/4508f2a5.ext.json)
-
----
-
-### Teaches Kandy about AI
-
-*2025-09-27 13:53:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/AI-ගන-මහනවරට-උගනවය/101-680312) · `si`
-
-Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat at the Kandy District Secretariat.
-
-The program was organized by the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
-
-Six programs to educate government officials on digitizing and AI technology have been conducted in Colombo.
-
-The Presidential Secretariat says that the function of the Government Officer and AI techniques on the use of the Government Superintendent of Government Digitalization Plan to cover all provinces and the government officials on the government's use of public purposes and AI technology are also allocated to educate the government.
-
-This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
-
-◼️
-
-[Data](articles/e137c4f1.json)
-
-[Extended Data](ext_articles/e137c4f1.ext.json)
-
----
-
-### 717 Arrested In Island-Wide Police Operation
-
-*2025-09-27 13:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/717-arrested-in-island-wide-police-operation) · `en`
-
-COLOMBO(News 1st); 717 suspects have been arrested under the ongoing island-wide crime and drug prevention operation.Police said 27,932 individuals were tested yesterday during the operation.Among those arrested yesterday were 28 individuals directly linked to crimes, 246 with day warrants, and 166 with open warrants.Police also reported that 32 drunk drivers and 23 reckless drivers were taken into custody.In addition, 3,747 people were arrested for traffic and other related offenses.The operation is being carried out across the island on the instructions of the Inspector General of Police.
-
-◼️
-
-[Data](articles/1ee617c1.json)
-
-[Extended Data](ext_articles/1ee617c1.ext.json)
-
----
-
-### World Tourism Day celebrated at Nanu Oya Railway Station
-
-*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/101-680311) · `si`
-
-A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
-
-Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
-
-The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
-
-Visitors to the train on World Tourism
-
-The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
-
-◼️
-
-[Data](articles/613b9e69.json)
-
-[Extended Data](ext_articles/613b9e69.ext.json)
-
----
-
-### World Tourism Day celebrated at Nanu Oya Railway Station
-
-*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/1-680311) · `si`
-
-A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
-
-Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
-
-The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
-
-Visitors to the train on World Tourism
-
-The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
-
-◼️
-
-[Data](articles/d909ae75.json)
-
-[Extended Data](ext_articles/d909ae75.ext.json)
-
----
-
-### World Tourism Day celebrated at Nanu Oya Railway Station
-
-*2025-09-27 13:35:09* · [`lankadeepalk`](https://www.lankadeepa.lk/ld_events/නනඔය-දමරය-සථනය-ලක-සචරක-දනය-සමර/244-680311) · `si`
-
-A ceremony to commemorate tourist day at the Nanu Oya railway station at the Nanu Oya railway station.
-
-Traveling Station at the Nanu Oya Railway Station and the Travel Journal of Traveling Station, the Nanu Oya Station OIC, welcomed foreign tourists and Nanu Oya railway station.
-
-The number of cultural events were presented before the school children, demonstrated in Nanu Oya railway station and the school children were produced before foreigners, and foreign tourists were predicted regarding the acknowledgment on the world tourist date.
-
-Visitors to the train on World Tourism
-
-The OIC of the Nanu Oya Police Station, tourist hotel owners, tourism and residents of the area participated in the event.
-
-◼️
-
-[Data](articles/e501411e.json)
-
-[Extended Data](ext_articles/e501411e.ext.json)
-
----
-
-### 328 Organized Crime Suspects In Custody
-
-*2025-09-27 13:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/328-organized-crime-suspects-in-custody) · `en`
-
-COLOMBO(News 1st); Police Headquarters announced that 328 suspects linked to organized crime are currently in custody under detention orders.Police Media Spokesperson, Assistant Superintendent of Police F. U. Wootler, stated that 38 shooters are among those detained.Police Headquarters further reported that 1,721 local and foreign firearms have been seized during the period under review.ASP Wootler added that these include 61 T-56 assault rifles.
-
-◼️
-
-[Data](articles/496cdac7.json)
-
-[Extended Data](ext_articles/496cdac7.ext.json)
 
 ---

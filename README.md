@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 19:37:01**
+As of **2025-09-28 20:20:18**
 
 ## Newspaper Stats
 
-*Scraped **79,256** Articles*
+*Scraped **79,267** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 409
-newsfirstlk | 456
+lankadeepalk | 411
+newsfirstlk | 458
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -18,20 +18,132 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,641
-adaderanalk | 10,235
+adaderanalk | 10,236
 tamilmirrorlk | 11,867
-virakesarilk | 12,911
-adaderanasinhalalk | 13,740
+virakesarilk | 12,914
+adaderanasinhalalk | 13,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,256 (100.0%) of 79,256 articles have been extended.
+79,263 (100.0%) of 79,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவை சந்தித்த இ.தொ.கா பிரதிகள்!
+
+*2025-09-28 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226349) · `ta`
+
+இலங்கையின் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவை, இ.தொ.கா பொதுச்செயலாளரும் பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், மற்றும் இ.தொ.கா நிதிச்செயலாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான மருதப்பாண்டி ராமேஸ்வரன் ஆகியோர் ஞாயிற்றுக்கிழமை (28) தங்காலை, கால்டன் இல்லத்தில் சந்தித்தனர்.
+
+இந்த சந்திப்பின் போது, அவர்கள் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவின் சுகநிலை குறித்தும் நலம் விசாரித்து உரையாடியதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6d5bc2f6.json)
+
+---
+
+### Dead body found under Kaduwela Bridge
+
+*2025-09-28 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215110) · `si`
+
+The body of the body was found under the Kaduwela Bridge in the Kelani River.
+
+Kaduwela Police said that a stalls of stone had been tied to the corpses.
+
+About four days ago, the man was dead, and the corpse had been severely spoiled.
+
+Only the underwear was found, and the man had been tied up and collided with the stones.
+
+Criminal investigations in Nugegoda Police are conducting further investigations.
+
+◼️
+
+[Data](articles/fbc0a162.json)
+
+[Extended Data](ext_articles/fbc0a162.ext.json)
+
+---
+
+### 170 Police Officers go to Court challenging Promotions
+
+*2025-09-28 19:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/170-police-officers-go-to-court-challenging-promotions) · `en`
+
+...
+
+[Data](articles/923d7dcb.json)
+
+[Extended Data](ext_articles/923d7dcb.ext.json)
+
+---
+
+### 105 Shops Raided for Selling Rice Above Maximum Retail Price
+
+*2025-09-28 19:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/105-shops-raided-for-selling-rice-above-maximum-retail-price) · `en`
+
+COLOMBO (News 1st) - The Consumer Affairs Authority (CAA) has raided 105 shops across the country for selling rice at inflated prices. The authority said the raids were conducted islandwide over the past two weeks. The Consumer Affairs Authority further affirmed that legal action will be taken against the shop owners found violating the law.
+
+◼️
+
+[Data](articles/8859d2e8.json)
+
+[Extended Data](ext_articles/8859d2e8.ext.json)
+
+---
+
+### India to benefit from the coin
+
+*2025-09-28 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215109) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අවසන් තරගය පාකිස්ථානය සහ ඉන්දියාව අතර අද (28) පැවැත්වෙයි.
+
+India won the toss and win the bowling first.
+
+◼️
+
+[Data](articles/cca6c948.json)
+
+[Extended Data](ext_articles/cca6c948.ext.json)
+
+---
+
+### Namal to hear fishing grief
+
+*2025-09-28 19:31:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නමල-ධවර-දක-අහනන-යය/101-680369) · `si`
+
+Namal Rajapaksa, National Organizer of the General Manager
+
+Also, the fishing community informed Namal Rajapaksa regarding the damage to the ocean environment due to foreign fishermen from Mannar to Norochcholai.
+
+The discussion also discussed the program to take place on the threat and influence of foreign fishermen and the damages to Sri Lankan fishermen.
+
+◼️
+
+[Data](articles/9d473df6.json)
+
+[Extended Data](ext_articles/9d473df6.ext.json)
+
+---
+
+### கல்விச் சீர்திருத்தங்கள் மூலம் சூழல்நேயப் பாடசாலைகளையும், சூழல்நேயச் சிறுவர்களையும் உருவாக்குவதே எமது இலக்காகும் - பிரதமர்
+
+*2025-09-28 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226348) · `ta`
+
+அனைத்து உயிரினங்களின் இருப்பையும் உறுதிப்படுத்தும் நிலையான சுற்றுச்சூழலை உருவாக்கி, கல்விச் சீர்திருத்தங்கள் மூலம் சூழல்நேயப் பாடசாலைகளையும், சூழல்நேயச் சிறுவர்களையும் உருவாக்குவதே எமது அரசாங்கத்தின் தேசிய இலக்காகுமென பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+பேராதனை அரச தாவரவியல் பூங்காவில் ஞாயிற்றுக்கிழமை (28) புதிதாகத் திறந்து வைக்கப்பட்ட மூன் நினைவு அருங்காட்சியகத்தை (Moon Memorial Museum) திறந்து வைக்கும் நிகழ்வில் கலந்துகொண்டு பிரதமர் இதனைத் தெரிவித்தார்.
+
+பேராதனை அரச தாவரவியல் பூங்காவின் 200 வருட பாரம்பரியம் மிக்க தாவரவியல் வரலாற்றை நினைவுகூரும் வகையில், புதிதாகத் திறந்து வைக்கப்பட்ட இந்த மூன் நினைவுத் தாவரவியல் அருங்காட்சியகம், பூங்காவின் ஸ்தாபகரான அலெக்சாண்டர் மூன் அவர்களை நினைவுகூரும் நோக்குடன் ஸ்தாபிக்கப்பட்டிருக்கின்றது.
+
+...
+
+[Data](articles/28d43559.json)
+
+---
 
 ### Woman collided with powder Menike train
 
@@ -144,6 +256,48 @@ The police said that the arrested former Provincial Council member would be prod
 [Data](articles/c46df30f.json)
 
 [Extended Data](ext_articles/c46df30f.ext.json)
+
+---
+
+### Government prospect of introducing new taxes from the next budget - President
+
+*2025-09-28 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215107) · `si`
+
+The government has played a considerable role in the development of the rule of law, ensuring the domination of the law, and the domination of the law, such as the domination of the law, such as the domination of the law, and the domination of the law, such as the domination of the law, and the domination of the law.
+
+The President also said that the government hopes to meet the economic growth targets in the country's economy and that no new taxes will be expected to introduce any taxes and reduces the reduction of the taxes imposed.
+
+President Anura Kumara Dissanayake made this observation at the reiyukai hall in Tokyo this afternoon.
+
+Sri Lankan community in Japan said to Sri Lanka, which is being built, and invest in the journey of the country.
+
+The President added that the government is ready to provide all necessary facilities for this purpose.
+
+The President has pointed out that Sri Lanka has been able to protect the balance of diplomatic relations over the past year.
+
+...
+
+[Data](articles/058a6dc5.json)
+
+[Extended Data](ext_articles/058a6dc5.ext.json)
+
+---
+
+### 12 Indian fishermen arrested for poaching off Delft Island
+
+*2025-09-28 18:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113004/12-indian-fishermen-arrested-for-poaching-off-delft-island) · `en`
+
+The Sri Lanka Navy has seized a fishing boat and apprehended 12 Indian fishermen for poaching in Sri Lankan waters off the Delft Island in Jaffna earlier today (28).
+
+The operation was conducted in coordination with the Sri Lanka Coast Guard, the Navy stated.
+
+The seized boat and the Indian fishermen have been brought to the Kankesanthurai harbour and have handed over to the Fisheries Inspector of Myliddy for further legal proceedings.
+
+The Navy stated that taking into account the harmful impacts of those practices on the livelihood of local fishermen, Navy officers and Coast Guard continue to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing boats trespassing into island waters.
+
+◼️
+
+[Data](articles/51ef6594.json)
 
 ---
 
@@ -879,6 +1033,28 @@ President Anura Kumara Dissanayake said that the past budget documents have alwa
 
 ---
 
+### Bokeko of the Kantore 457 to Messian
+
+*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනතර-457-ක-ලකක-මතසබයට/101-680359) · `si`
+
+Parliamentary Select Committee on Public Business (COPE) (COPE) has been summoned to parliament on the 2nd government.
+
+This is the first time that the heads of the institute is summoned before a committee of Parliament.
+
+Chairman of the COPE committee, Dr. Nishantha Samaraweera told Lankadeepa to hear the functions of the COPE Committee and its work.
+
+The basic information on the audits and functions of the institutions are obtained.
+
+The Chairman and CEO of each institution will participate in this discussion.
+
+◼️
+
+[Data](articles/c218dff5.json)
+
+[Extended Data](ext_articles/c218dff5.ext.json)
+
+---
+
 ### Karu Jayasuriya; Leadership beyond the post
 
 *2025-09-28 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226333) · `ta`
@@ -1431,6 +1607,22 @@ The families of the deceased have been compensated for the families of the decea
 
 ---
 
+### 8 வருடங்களில் மின்சார சபைக்கு  594,368 மில்லியன் ரூபா நட்டம்  கோப் குழுவில் தகவல்
+
+*2025-09-28 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226318) · `ta`
+
+2014 முதல் 2022ஆம் ஆண்டுவரையான காலப்பகுதியில் இலங்கை மின்சார சபை 594,368 மில்லியன் ரூபா நட்டத்தை எதிர்கொண்டுள்ளதாக கோப் குழுவில் வெளிப்படுத்தப்பட்டது. இலங்கை மின்சார சபையின் 2022 மற்றும் 2023 ஆம் ஆண்டுக்குரிய கணக்காய்வாளர் நாயகத்தின் அறிக்கை மற்றும் நடைமுறை செயலாற்றுகை அறிக்கை ஆகியவற்றை பரிசீலனை செய்வதற்காக கோப் குழுவின் தலைவர் நிஷாந்த சமரவீரவின் தலைமையில் குழு கடந்த வாரம் பாராளுமன்ற கட்டிடத்தொகுதியில் கூடியது.
+
+கணக்காய்வாளர் நாயகத்தின் அறிக்கையை அடிப்படையாகக் கொண்டு மின்சார சபையின் நட்டத்துக்கான பல காரணிகள் வெளிப்படுத்தப்பட்ட நிலையில் மின்சார சபையில் போதுமான சேவையாளர்கள் உள்ள நிலையில் ஒருசில கண்காணிப்பு நடவடிக்கைகள் வெளியக தரப்பிடமிருந்து பெற்றுக்கொள்ளப்பட்டமை நட்டத்துக்கான காரணிகளில் பிரதான ஒன்றாக சுட்டிக்காட்டப்பட்டுள்ளது.
+
+மின்சார சபை தொடர்ச்சியான நட்டமடைந்த நிலையில் 2022 ஆம் ஆண்டு மின்கட்டணம் ஒருகட்டமாக அதிகரித்ததால் பொதுமக்கள் பாரிய நெருக்கடிகளை எதிர்கொண்டார்கள். இருப்பினும் 2023 ஆம் ஆண்டுக்கு பின்னர் மின்சார சபை இலாபமடையும் நிலைக்கு உறுதிப்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3db9270f.json)
+
+---
+
 ### More than 125,000 tourists arrive so far this month
 
 *2025-09-28 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226317) · `ta`
@@ -1780,235 +1972,5 @@ My own .... At the same time, I share this great tragedy close to your mind.
 [Data](articles/d87c04b0.json)
 
 [Extended Data](ext_articles/d87c04b0.ext.json)
-
----
-
-### Former PC arrested for assaulting a child
-
-*2025-09-28 13:38:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවකට-පහරදන-හටප-පස-අතඅඩගවට/1-680350) · `si`
-
-The Navagamuwa Police say a police constable who was hit by a 9-year-old child.
-
-The suspect is a constable with a suspended constable. The attacker was hospitalized.
-
-The suspect's daughter and the daughter of the suspected child are studying in the same class, while playing the collection with several other children, the girl has broken the girl.
-
-Police investigations have revealed that the suspect was the father of the girl who had been announced.
-
-According to the police, the class road leader also received statements regarding the complaint.
-
-◼️
-
-[Data](articles/01912a40.json)
-
-[Extended Data](ext_articles/01912a40.ext.json)
-
----
-
-### Former PC arrested for assaulting a child
-
-*2025-09-28 13:38:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවකට-පහරදන-හටප-පස-අතඅඩගවට/101-680350) · `si`
-
-පාසලකට කඩා වැදී 9 හැවිරිදි  දරුවෙකුට පහර දුන්  පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව නවගමුව පොලිසිය කියයි.
-
-The suspect is a constable with a suspended constable. The attacker was hospitalized.
-
-The suspect's daughter and the daughter of the suspected child are studying in the same class, while playing the collection with several other children, the girl has broken the girl.
-
-Police investigations have revealed that the suspect was the father of the girl who had been announced.
-
-According to the police, the class road leader also received statements regarding the complaint.
-
-◼️
-
-[Data](articles/9521d8ac.json)
-
-[Extended Data](ext_articles/9521d8ac.ext.json)
-
----
-
-### Will the President confirm the right to receive information?
-
-*2025-09-28 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226297) · `ta`
-
-It is important that the president, who thinks that everything in his government should be honest and transparent, is going to ensure the right to know information.
-
-◼️
-
-[Data](articles/5b773cdf.json)
-
-[Extended Data](ext_articles/5b773cdf.ext.json)
-
----
-
-### Special detection of heart disease deaths
-
-*2025-09-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215098) · `si`
-
-Dr. Sampath Withanaasam, a specialist of the Cardiologist Association, Specialists of the Cardiologist Assistant Medical Doctors Association
-
-He was speaking at a program held at Viharamamaduvi Park in Colombo for the World Hearts Day.
-
-The doctor emphasized that the main objective of the World Heritage Day is to arrange to prevent preventable hearts.
-
-He also points out that he is able to reduce heart disease through a simple and healthy life.
-
-The doctor added that exercise, avoiding good food pattern, abstaining from smoking and avoiding stressful actions and health tests are also important.
-
-Speaking further Mr. Dr. Sampath Withanaasam, Chairman of the Cardialogy Association, Speaking further
-
-...
-
-[Data](articles/b2845d9e.json)
-
-[Extended Data](ext_articles/b2845d9e.ext.json)
-
----
-
-### Karur crowded death: Vijay announces relief for families
-
-*2025-09-28 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226306) · `ta`
-
-Tamil Nadu Victory Council Chairman Vijay has announced that he will provide relief to the families of the victims of the Karur crowd in Tamil Nadu.
-
-He also said that by the grace of the Lord, we will try to recover from everything.
-
-Tamil Nadu Victory Corporation President Vijay campaigned in Veluchamipuram area in Karur district on Saturday (27).
-
-In this case, he said, “Hello everyone who lives in my chest. Untilled, the heart and mind are very heavy, thinking of what happened yesterday in Karur.
-
-In the great mood of losing our relationships, I do not know how to tell my mind. Eyes and minds are upset. All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
-
-While my own, I am losing our lives, and expressing deep condolences with the painful pain, and I share this great tragedy.
-
-...
-
-[Data](articles/84984d09.json)
-
-[Extended Data](ext_articles/84984d09.ext.json)
-
----
-
-### Security stepped up at Vijay’s Chennai home after deadly Karur stampede
-
-*2025-09-28 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112995/security-stepped-up-at-vijays-chennai-home-after-deadly-karur-stampede) · `en`
-
-Security has been tightened outside actor-politician Vijay’s residence in Chennai after a stampede at his rally in Karur left 39 people, including 10 children and 16 women, dead on Saturday.
-
-Tamil Nadu Chief Minister M K Stalin described the incident as one of the state’s worst tragedies in recent times and announced a judicial commission of inquiry led by retired High Court Justice Aruna Jagadeesan. He also chaired an emergency meeting of senior officials in Chennai to review the situation.
-
-The stampede occurred around 7.30 pm as thousands of people, who had been waiting since afternoon, surged forward while Tamilaga Vettri Kazhagam (TVK) chief Vijay was addressing them from atop his campaign vehicle. Several people fainted due to heat, dehydration, and suffocation as they waited for hours in the sun for a glimpse of their favourite star. Videos from the spot showed boys breaking into huts and climbing out of their roofs in a frantic search for escape routes.
-
-...
-
-[Data](articles/f82c3c22.json)
-
-[Extended Data](ext_articles/f82c3c22.ext.json)
-
----
-
-### Harry suggests people trying to sabotage reconciliation with King
-
-*2025-09-28 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112994/harry-suggests-people-trying-to-sabotage-reconciliation-with-king) · `en`
-
-The Duke of Sussex has suggested people are trying to sabotage his reconciliation with King Charles, as he described media reports about their recent meeting as “categorically false”.
-
-Prince Harry met his father at Clarence House in London on 10 September, in their first face to face meeting since February 2024.
-
-However, a report in the Sun on Saturday suggested the reunion had been more formal than expected, with the duke reportedly left feeling like he was being treated as an official visitor, rather than family.
-
-In a statement, Prince Harry’s spokesperson said the claims were “pure invention fed, one can only assume, by sources intent on sabotaging any reconciliation between father and son”.
-
-The Sun newspaper said Prince Harry had confirmed aspects of its reporting. It said the duke’s office “was given full right of reply yesterday in advance of publication and opted not to give a response to the Sun’s carefully sourced account of the meeting”.
-
-...
-
-[Data](articles/4528990d.json)
-
-[Extended Data](ext_articles/4528990d.ext.json)
-
----
-
-### Increasing American - Sri Lanka's intimacy
-
-*2025-09-28 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226293) · `ta`
-
-Many of the events that took place in September 2025 are sufficient to make the reverse change in security relations between the US and Sri Lanka.
-
-◼️
-
-[Data](articles/16aa7946.json)
-
-[Extended Data](ext_articles/16aa7946.ext.json)
-
----
-
-### COPE summons all institutions under its purview for special discussion
-
-*2025-09-28 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112993/cope-summons-all-institutions-under-its-purview-for-special-discussion) · `en`
-
-The Committee on Public Enterprises (COPE) has summoned all institutions under its jurisdiction for a special meeting.
-
-The meeting is scheduled to take place on October 2 at the Parliamentary complex, according to COPE Chairman Dr. Nishantha Samaraweera.
-
-The main objective of the meeting is to discuss the challenges currently being faced in the ongoing functions and responsibilities of the COPE Committee.
-
-At present, 457 state enterprises fall under the oversight of COPE.
-
-Dr. Samaraweera further stated that written notifications have been sent to the secretaries of those institutions regarding the meeting.
-
-The session aims to gather preliminary information on the audits of the respective institutions and their operational performance.
-
-◼️
-
-[Data](articles/283f7758.json)
-
-[Extended Data](ext_articles/283f7758.ext.json)
-
----
-
-### Ranil to visit Carlton
-
-*2025-09-28 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215097) · `si`
-
-Former President Ranil Wickremesinghe met with former President Mahinda Rajapaksa at Carlton House this morning.
-
-The former President Ranil Wickremesinghe is from Kataragama to Colombo.
-
-Ranil Wickremesinghe thanked Mahinda Rajapakse regarding the role of his role.
-
-Ranil Wickremesinghe was also taken to consult with Mr. Mahinda Rajapaksa's pleasure.
-
-◼️
-
-[Data](articles/b0d0a1a4.json)
-
-[Extended Data](ext_articles/b0d0a1a4.ext.json)
-
----
-
-### The world's tallest bridge opening in China
-
-*2025-09-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226300) · `ta`
-
-The world's tallest Huajiang Grand Canyon Bridge in China is open today (28).
-
-The bridge has broken the engineering record of another bridge in Quezo after completing construction work in three years.
-
-The Huajiang Grand Canyon Bridge is located at a height of 625 meters above the river and the vast valley in the rough province of China, the southern province of China.
-
-The world's second tallest 565 -meter Baibanjiang Bridge is also in Quezo.
-
-It is reported that a large number of visitors, including project engineers and local officials, attended the opening of the bridge.
-
-"The opening of the Huajiang Grand Canyan Bridge will reduce the travel time between the two parts to two minutes to two minutes," said Jong of the Provincial Transport Department Jong's on the 24th.
-
-Its opening said, "It is" making enormous improvements in regional transport and paying new inspiration in regional economic and social development. "
-
-...
-
-[Data](articles/ef96ec08.json)
-
-[Extended Data](ext_articles/ef96ec08.ext.json)
 
 ---

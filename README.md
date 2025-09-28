@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 10:38:09**
+As of **2025-09-28 10:55:26**
 
 ## Newspaper Stats
 
-*Scraped **79,057** Articles*
+*Scraped **79,065** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 358
+lankadeepalk | 364
 newsfirstlk | 447
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -19,7 +19,7 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,629
 adaderanalk | 10,215
-tamilmirrorlk | 11,843
+tamilmirrorlk | 11,845
 virakesarilk | 12,845
 adaderanasinhalalk | 13,723
 
@@ -27,11 +27,81 @@ adaderanasinhalalk | 13,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,057 (100.0%) of 79,057 articles have been extended.
+79,057 (100.0%) of 79,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### මත් රකුසා පරදවන්න ජනපතිගෙන් අලුත් වැඩක්
+
+*2025-09-28 10:28:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මත-රකස-පරදවනන-ජනපතගන-අලත-වඩක/1-680338) · `si`
+
+මත්ද්‍රව්‍ය ව්‍යසනයට පිළියමක් ලෙස තව දින දහයක් දොළහක් ඇතුළත මත්ද්‍රව්‍ය ශ්‍රී ලංකා භූමියෙන් තුරන් කිරීම සඳහා වූ ජාතික ව්‍යාපාරයක් ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් ආරම්භ කරන බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල  මහතා පැවසීය
+
+මත්ද්‍රව්‍ය වලින් දරු පරපුරු ආරක්ෂා කර ගැනීමේ අභියෝගය රජය භාර ගෙන ඇති බවද ඔහු කීවේය.
+
+මත්ද්‍රව්‍ය රටට පැමිණීම ගලා ඒම වැළැක්වීමට උපරිම උත්සාහය දරණ බව පැවසූ අමාත්‍යවරයා මත්ද්‍රව්‍ය සැපයුම අඩාල කිරීමටද ක්‍රියාමාර්ග ගනිමින් සිටින බව ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/e0befa29.json)
+
+---
+
+### “விஜய் கைது செய்யப்படுவாரா?”: கரூரில் முதல்வர் ஸ்டாலின் விளக்கம்
+
+*2025-09-28 10:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கைது-செய்யப்படுவாரா-கரூரில்-முதல்வர்-ஸ்டாலின்-விளக்கம்/175-365394) · `ta`
+
+தவெக தலைவர் விஜய் கைது செய்யப்படுவாரா என்ற கேள்விக்கு முதல்வர் ஸ்டாலின் பதிலளித்துள்ளார்.
+
+கரூரில் நடைபெற்ற தவெக தலைவர் விஜய் பிரச்சாரத்தின்போது கூட்ட நெரிசலில் சிக்கி குழந்தைகள் உட்பட 38 பேர் பரிதாபமாக உயிரிழந்தனர். மேலும், பலர் உயிருக்கு ஆபத்தான நிலையில் சிகிச்சை பெற்று வருகின்றனர். நாடு முழுவதும் இந்த சம்பவம் அதிர்வலைகளை ஏற்படுத்தியுள்ளது.
+
+இந்த நிலையில் முதலமைச்சர் மு.க.ஸ்டாலின் தனி விமானம் மூலம் நள்ளிரவில் கரூர் புறப்பட்டுச் சென்றார். அங்கு அவர் கூட்ட நெரிசலில் சிக்கி உயிரிழந்தவர்களின் உடல்களுக்கு அஞ்சலி செலுத்தினார். பின்னர் அவர்களின் குடும்பத்தினரை சந்தித்து ஆறுதல் கூறினார். மேலும் மருத்துவமனைகளில் சிகிச்சை பெற்று வருபவர்களையும் சந்தித்து நலம் விசாரித்தார்.
+
+...
+
+[Data](articles/47d2dc86.json)
+
+---
+
+### ’’மரணத்தின் படையெடுப்பால் கரூர் கருப்பூர் ஆகிவிட்டது’’ - வைரமுத்து இரங்கல்
+
+*2025-09-28 10:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணத்தின்-படையெடுப்பால்-கரூர்-கருப்பூர்-ஆகிவிட்டது-வைரமுத்து-இரங்கல்/175-365393) · `ta`
+
+கரூர்: தமிழக வெற்றி கழகத்தின் தலைவர் விஜய் நேற்று கரூரில் பிரச்சாரம் மேற்கொண்டிருந்த நிலையில், கூட்ட நெரிசலில் சிக்கி 39 பேர் உயிரிழந்துள்ளனர்.
+
+இச்சம்பவம் நாடு முழுவதும் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது. திரைப் பிரபலங்கள், அரசியல் கட்சித் தலைவர்கள் பலரும் தங்களது இரங்கலைத் தெரிவித்து வருகின்றனர்.
+
+இந்நிலையில், மரணத்தின் படையெடுப்பால் கரூர் கருப்பூர் ஆகிவிட்டது என்று வைரமுத்து தனது எக்ஸ் தள பக்கத்தில் இரங்கல் பதிவிட்டுள்ளார்.
+
+நடிகரும், தவெக தலைவருமான விஜய் நேற்று நாமக்கல் மற்றும் கரூர் மாவட்டங்களில் விஜய் பிரச்சாரத்தில் ஈடுபட்டார்.
+
+வெள்ளிக்கிழமை இரவு முதல், சனிக்கிழமை காலை முதலே என விஜயைக் காண்பதற்காக ஏராளமானோர் அப்பகுதியில் குவிந்தனர். பெண்கள், குழந்தைகள், சிறுவர்கள் என ஆயிரக்கணக்கானோர் விஜய் பிரச்சாரம் மேற்கொள்ளும் பகுதியில் திரண்டிருந்தனர்.
+
+ஒரு கட்டத்தில் கூட்டத்தை கட்டுப்படுத்த முடியாமல் அப்பகுதியில் கடுமையான நெரிசல் ஏற்பட்டது. விஜய் பேசப் பேசவே பலரும் மயக்கமடைந்தனர்.
+
+...
+
+[Data](articles/a94de691.json)
+
+---
+
+### අපරාධවලට වැඩ්ඩෝ වැඩි හරියක් ’’කුඩ්ඩෝ’’
+
+*2025-09-28 10:22:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධවලට-වඩඩ-වඩ-හරයක-කඩඩ/1-680337) · `si`
+
+බන්ධනාගාරවල  අපරාධකරුවන්ගෙන් සියයට 72ක්ම මත්ද්‍රව්‍ය භාවිතය පිළිබඳ වැරදිවලට  සම්බන්ධ අය  බව අලුත්ම සමීක්ෂණයකින් තොරතුරු හෙළි වී ඇතැයි මහජන ආරක්ෂක අමාත්‍යාංශය පවසයි
+
+මෙම තත්වය සියයට සීයක් දක්වා වර්ධනය වුවහොත් සමාජයේ මහා ව්‍යසනයක් ඇතිවිය හැකි බව එම අමාත්‍යාංශ නිලධාරීහු පෙන්වා දෙති.
+
+මේ අතර සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය  අතරද ඍජු සම්බන්ධතාවයක් ඇති බව පොලීසියට තොරතුරු අනාවරණයවී ඇත. පසුගිය කාලයේදී අත්අඩංගුවට ගත් පාතාලකරුවන් බොහෝ දෙනෙකුද මත්ද්‍රව්‍ය ජාවාරම්  සමඟ සම්බන්ධ අය බව හෙළිවී යැයි  පොලිස් මූලස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/e1fe99fb.json)
+
+---
 
 ### TV leader Vijay arrested? Home security
 
@@ -130,6 +200,24 @@ Authorities in the central province of Ha Tinh have started to evacuate more tha
 [Data](articles/94e87a21.json)
 
 [Extended Data](ext_articles/94e87a21.ext.json)
+
+---
+
+### අදත් වැසි වාර කිහිපයක්
+
+*2025-09-28 08:27:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අදත-වස-වර-කහපයක/1-680336) · `si`
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (28) වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+ඌව පළාතේත් අම්පාර දිස්ත්‍රික්කයේත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+ගාල්ල සිට මාතර සහ හම්බන්තොට හරහා පොතුවිල් දක්වා සහ හලාවත සිට මන්නාරම, කන්කසන්තුරය සහ මුලතිව් හරහා ත්‍රිකුණාමලය දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. (50-60) පමණ දක්වා ඉහළ යා හැකි බවත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/8bcce74c.json)
 
 ---
 
@@ -845,6 +933,26 @@ A large-scale joint operation was conducted by the police forces of Sri Lanka an
 
 ---
 
+### කාටත් එකට බැබලෙන්න හැකි ලෝකයක් හදමු
+
+*2025-09-27 20:11:35* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටත-එකට-බබලනන-හක-ලකයක-හදම/1-680332) · `si`
+
+සියලුම දෙනාට බැබලෙන්නට හැකි ලෝකයක් නිර්මාණය කිරීමට එක්ව කටයුතු කරන ලෙස ආරාධනා කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේදී පැවසීය.
+
+අඛණ්ඩ අභියෝග වලට මුහුණ දුන් ශ්‍රී ලංකාව මේ වන විට තිරසාර සහ සහභාගීත්ව ආර්ථිකයක් නැවත ගොඩනඟමින් සිටින බවද ජනාධිපතිවරයා කීය.
+
+ජනාධිපතිවරයා මේ බව කීවේ එක්ස්පෝ 2025 ඔසාකා” (EXPO 2025 Osaka) ප්‍රදර්ශනයේ ශ්‍රී ලංකා දින සැමරුම් උත්සවයේදීය.
+
+ජනාධිපතිවරයා ජපාන සංචාරයේ පළමු කටයුත්ත ලෙස ඔසාකා නුවර පැවැත්වෙන “එක්ස්පෝ 2025” ප්‍රදර්ශනයේ ශ්‍රී ලංකා දින සැමරුම් උත්සවය සඳහා සහභාගි විය.
+
+ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය සහ ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය එක්ව සංවිධානය කළ ශ්‍රී ලංකා දින උත්සවය, ශ්‍රී ලාංකීය අනන්‍යතාව පිළිඹිබු කරන විවිධ සංස්කෘතිකාංගවලින් විචිත්‍රවත් වූ අතර, මෙම සංස්කෘතික උත්සවය නැරඹීම සඳහා ජපන් ජාතිකයින් මෙන්ම විදේශිකයෝ විශාල පිරිසක් රැස්ව සිටියහ.
+
+◼️
+
+[Data](articles/32864ae6.json)
+
+---
+
 ### Let's build a world where everyone can shine together
 
 *2025-09-27 20:11:35* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටත-එකට-බබලනන-හක-ලකයක-හදම/101-680332) · `si`
@@ -864,6 +972,22 @@ The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the 
 [Data](articles/ee24ac9e.json)
 
 [Extended Data](ext_articles/ee24ac9e.ext.json)
+
+---
+
+### ’’ඩක්කුව’’ හදන  වැඩේ නාමල් බාරගනී
+
+*2025-09-27 20:03:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඩකකව-හදන-වඩ-නමල-බරගන/1-680331) · `si`
+
+භික්ෂූන් වහන්සේලා අනතුරට ලක් වූ මැල්සිරිපුර නා උයනේ ඩක්කුව  විද්‍යාත්මකව පිළිසකර කර දෙන බවට නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා පොරොන්දුවක්  දුන්නේය.
+
+මේ සිද්ධියට වගකිව යුත්තේ මොන ස්වාමීන් වහන්සේ ද මොන දායකයා ද කියා සොය සොයා ඉදීමට ආණ්ඩුවට අවශ්‍යතාවක් නැතැයි ද ඔහු සඳහන් කළේය.
+
+නියෝජ්‍ය අමාත්‍යවරයා මෙසේ පැවසුවේ එම අනතුරින් අපවත් වූ භික්ෂූන් වහන්සේලාගේ ආදාහන පූජෝත්සවයට සහභාගි වෙමිනි.
+
+◼️
+
+[Data](articles/a52b2784.json)
 
 ---
 
@@ -1848,153 +1972,5 @@ Nishantha Samaraweera added that the heads of corruption and irregularities will
 [Data](articles/f2988015.json)
 
 [Extended Data](ext_articles/f2988015.ext.json)
-
----
-
-### The program to modernize the Narahenpitti Railway Station
-
-*2025-09-27 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226244) · `ta`
-
-The program to modernize the Narahenpita Railway Station on Saturday (27) was launched under the "Dream Destination" program implemented with the "Clean Sri Lanka" program.
-
-The Narahenpitti Railway Station, which is considered to be another unique railway station on the Kelaniwa road, is located between the Koda Road Railway Station and the Kirulapana Railway Station.
-
-Located at a distance of 5.06 km from Colombo and at a height of 3.72 m above sea level, the railway station consists of two main platforms and a ticket counter.
-
-The railway station, located near a number of state, semi -government and private companies, including the Department of Labor, the Transport Department and the Department of Land Survey, is using a large number of passengers for daily duties.
-
-...
-
-[Data](articles/5ab5959f.json)
-
-[Extended Data](ext_articles/5ab5959f.ext.json)
-
----
-
-### Senior Professor at the University of Jaffna
-
-*2025-09-27 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226249) · `ta`
-
-The University Council has approved the promotion of a professor at the University of Jaffna to promote a senior professor and six senior lecturers as professors.
-
-A Rosier, a Rosier, a Senior Professor of Agricultural Biology, and Senior Lecturers from the Department of Survey of the Faculty and the Department of Survey of the Faculty, the Geological Survey of the Department of Arts The council has approved.
-
-The monthly meeting of the University Council was held on Saturday, September 27, chaired by Vice Chancellor Professor C. Sirisakkunnarajah.
-
-Rosiery G.. Thirukumaran, Head of the Department of Surveyor and Senior Lecturer, Kidney Surgeon, Balasingham Balakobi, Senior Lecturer and Sun. Dr. Nakamuthu Pradeeparajah, Chairman of Sanskrit and Senior Lecturer, Dr. Maheshwarakurukkal Palakalasanathasarma and the head of the science unit and Senior Lecturer, Dr. Sivanesan Sabha Anaan.
-
-...
-
-[Data](articles/a89480c4.json)
-
-[Extended Data](ext_articles/a89480c4.ext.json)
-
----
-
-### Police who brutally attacked people in Mannar; Action to arrest those in the hospital
-
-*2025-09-27 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226250) · `ta`
-
-The civilians who were brutally assaulted by the police have been admitted to the Mannar General Hospital via a carriage carriage.
-
-At this juncture, the police have been involved in a variety of false cases against the public to cover up the crime against them.
-
-In particular, steps have been taken to arrest those who are being treated at the Mannar Hospital and are taking steps to arrest some of the social activists who are working on the protest.
-
-Peliser has taken steps to arrest the people, not only to attack the people in a democratic struggle, has caused great turmoil among the Mannar people.
-
-It is noteworthy that the protest committee is going to take legal action against women, clergy and civilians in the peaceful people's struggle and lodge a complaint with the Human Rights Commission and the Police Complaints Division.
-
-◼️
-
-[Data](articles/dd829b79.json)
-
-[Extended Data](ext_articles/dd829b79.ext.json)
-
----
-
-### Provincial program launched to educate govt officials on digitalization & AI
-
-*2025-09-27 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112964/provincial-program-launched-to-educate-govt-officials-on-digitalization-ai) · `en`
-
-The first provincial program in a series designed to sensitize government executives on the government’s digitalization initiatives and the use of AI technology at the provincial level was held yesterday (26) at the Kandy District Secretariat.
-
-The program, aimed at clarifying the government’s digitalization plans and enhancing officials’ literacy in AI technology, was attended by executive officers from the Central Provincial Council, District Secretariats, Divisional Secretariats, and other government institutions.
-
-So far, six programs focused on digitalization and AI technology have been conducted in Colombo, with participation exceeding 4,000 government officials.
-
-The provincial-level initiative aims to reach all provinces, educating government officers outside Colombo about their role in advancing the government’s digitalization agenda and applying AI technology for official purposes.
-
-...
-
-[Data](articles/6c8dffdd.json)
-
-[Extended Data](ext_articles/6c8dffdd.ext.json)
-
----
-
-### Good entrepreneurs '' 'full'
-
-*2025-09-27 16:22:32* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හඳ-වයවසයකයන-බහකරන-පරපන-වඩක/1-680323) · `si`
-
-The Field Organization has launched a new program to create new entrepreneurs at the ground level with a national transformation.
-
-The first stage of empowering ground-level women's entrepreneurs, Mr. Ananda Vasaganha said at a press conference held in Colombo.
-
-Accordingly, the filled householders will be provided with 1,000 small business locations (boxes - boxes) in the country under the first round.   He said that they would allow them to start their own micro-level movements.
-
-He further stated that it will get attitude to prepare for business preparations and that these people will be involved in structured programs to make them strong entrepreneurs.
-
-The Field Organization has established the main objective of accepting the existing governance as the main objective of making a good governance beyond it.
-
-◼️
-
-[Data](articles/ac15463e.json)
-
-[Extended Data](ext_articles/ac15463e.ext.json)
-
----
-
-### Good entrepreneurs '' 'full'
-
-*2025-09-27 16:22:32* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හඳ-වයවසයකයන-බහකරන-පරපන-වඩක/101-680323) · `si`
-
-The Field Organization has launched a new program to create new entrepreneurs at the ground level with a national transformation.
-
-The first stage of empowering ground-level women's entrepreneurs, Mr. Ananda Vasaganha said at a press conference held in Colombo.
-
-Accordingly, the filled householders will be provided with 1,000 small business locations (boxes - boxes) in the country under the first round.   He said that they would allow them to start their own micro-level movements.
-
-He further stated that it will get attitude to prepare for business preparations and that these people will be involved in structured programs to make them strong entrepreneurs.
-
-The Field Organization has established the main objective of accepting the existing governance as the main objective of making a good governance beyond it.
-
-◼️
-
-[Data](articles/aeea688b.json)
-
-[Extended Data](ext_articles/aeea688b.ext.json)
-
----
-
-### The Prime Minister visited the exhibition of 'the future of feminism: Arts, Activity and South Asian Woman ”
-
-*2025-09-27 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226229) · `ta`
-
-Historian Dr. Arshia Lokantwala (Dr.. Prime Minister Harini Amarasuriya visited the arts exhibition of South Asian feminist artists titled "Future of Feminism: Arts, Activity and South Asian Woman".
-
-The exhibition was held on Friday (26) at the Lotus Art Gallery at the National Museum in Colombo.
-
-The art exhibition questioned the future of feminism, gender inequality, and gender -based violence and set the stage for women's energy, independence and cooperation.
-
-Here are the works of eleven feminist artists representing South Asian countries of Sri Lanka, India, Nepal, Bangladesh and Pakistan. They have expressed the problems faced by women in their countries through their art works.
-
-The exhibition is also displayed in many countries of the world. Earlier, the exhibition was held in Kathmandu, Nepal. The exhibition in Sri Lanka will be held from September 26 to October 08 at the Lotus Art Gallery at the National Museum in Colombo.
-
-...
-
-[Data](articles/ae41beae.json)
-
-[Extended Data](ext_articles/ae41beae.ext.json)
 
 ---

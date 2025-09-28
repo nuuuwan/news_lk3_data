@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 05:05:57**
+As of **2025-09-29 05:20:40**
 
 ## Newspaper Stats
 
-*Scraped **79,302** Articles*
+*Scraped **79,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,66 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,872
-virakesarilk | 12,929
+virakesarilk | 12,932
 adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,302 (100.0%) of 79,302 articles have been extended.
+79,302 (100.0%) of 79,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### தியாக தீபம் திலீபன் நினைவேந்தல் துண்டுப் பிரசுரம் சம்பவத்துக்கும் எமக்கும் தொடர்பில்லை ; எங்கள் மீது கஜேந்திரர் அணி சேறு பூசுகின்றனர் - இராமலிங்கம் சந்திரசேகர்
+
+*2025-09-29 04:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226361) · `ta`
+
+தியாக தீபம் திலீபனின் நினைவேந்தல் இறுதி நாளில் துண்டுப் பிரசுரங்களை விநியோகித்த சம்பவத்துக்கும் தேசிய மக்கள் சக்திக்கும் எவ்வித தொடர்பும் இல்லை என்று தெரிவித்த அக்கட்சியின் நிறைவேற்றுக் குழு உறுப்பினரும் அமைச்சருமான இராமலிங்கம் சந்திரசேகர், எங்கள் மீது கஜேந்திரர் அணி சேறு பூசுவதாக தெரிவித்தார்.
+
+யாழ்ப்பாணத்தில் ஞாயிற்றுக்கிழமை (28) ஊடகங்களுக்கு கருத்துத் தெரிவித்த போதே கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர் இதனை தெரிவித்தார்.
+
+மேலும் தெரிவிக்கையில்,கடந்த ஒரு வார காலமாக திலீபன் நினைவேந்தல் நடைபெற்றது. அங்கு அனுஷ்டிப்பை செய்ய நாங்கள் சென்றபோது தடுக்கப்பட்டோம். அதன் பிறகு சில தினங்களுக்கு முன்னர் இறுதி நாள் நினைவேந்தல் நடந்து முடிந்தது. அன்று யாரோ ஒருவர் துண்டுப் பிரசுரங்களை விநியோகித்ததாகவும் அவர் மீது தங்கள் வன்முறையை கஜேந்திரர் அணி கையாண்டதாகவும் அதேபோன்று நியாயத்தன்மையை கேட்க சென்ற வேறு சிலரும் பல்வேறு இன்னல்கள் ஏற்பட்டதாகவும் தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/cccddba1.json)
+
+---
+
+### பாதாள குழுக்கள் – போதைப்பொருள் வலையமைப்பை ஒழிப்பேன் – ஜனாதிபதி
+
+*2025-09-29 04:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226360) · `ta`
+
+பாதாள குழுக்கள் மற்றும் போதைப்பொருள் வர்த்தகர்களுக்காக செயற்பட்ட அரச நிர்வாக கட்டமைப்பை முழுமையாக இல்லாதொழிப்பேன். பல உண்மைகள் வெளிவரும் போது அரசியல்வாதிகள் பலர் கலக்கமடைந்துள்ளார்கள் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க ஞாயிற்றுக்கிழமை (28) பிற்பகல் ஜப்பானில் வசிக்கும் இலங்கை சமூகத்தினரை டோக்கியோவில் சந்தித்து உரையாடுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சமூக கட்டமைப்பில் போதைப்பொருள் பாரியதொரு அழிவை ஏற்படுத்தியுள்ளது. இளைஞர் யுவதிகளில் பெரும்பாலானோர் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள். சிறைச்சாலைகளில் உள்ள கைதிகளில் பெரும்பாலானோர் போதைப்பொருள் மற்றும் அதனுடனான குற்றச்சாட்டுக்களுடன் தொடர்புப்பட்டுள்ளார்கள்.
+
+...
+
+[Data](articles/6f54e42b.json)
+
+---
+
+### ஐக்கிய தேசியக் கட்சியின் ஆண்டு நிறைவு – ‘நாட்டை ஒன்றிணைக்கும் உறவை தொடர வேண்டும்’ : தவிசாளர் வஜிர அபேவர்த்தன
+
+*2025-09-29 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226359) · `ta`
+
+நாட்டை ஐக்கியப்படுத்தும் நோக்கிலே  ஐக்கிய  தேசிய கட்சியின்  ஆண்டு நிறைவு விழாவை அனைவரையும் ஒன்றிணைத்துக்கொண்டு கொண்டாடினோம்.அந்த தொடர்புகளை நாங்கள் தொடர்ந்து முன்னெடுத்துச்செல்ல வேண்டும் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+
+காலியில் அமைந்துள்ள ஐக்கிய தேசிய கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை (28)  இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+அரசியல்வாதிகள் மற்றும் பிரபலங்களின் சொத்துகள் மற்றும் பொறுப்புக்கள் தொடர்பில் தேடிப்பார்க்கப்போவதாக  ஊடகங்களில் செய்தி வெளியிடப்பட்டிருந்தது. அதில் எனது பெயரும் தெவிக்கப்பட்டிருந்தது. எனது சொத்து மற்றும் பொறுப்புக்கள் தொடர்பில்  சுமார் 30 வருடங்களுக்கும் அதிக காலம்  சமர்ப்பித்திருக்கிறேன். இந்த சொத்து, மற்றும் பொறுப்புக்களை தேடிப்பார்க்கும் இந்த நடவடிக்கைக்கும் அப்பால் சென்று, தேடிப்பார்க்கும் பொறிமுறை ஒன்றை  ரணில் விக்ரமசிங்க ஜனாதிபதி பதவியில் இருக்கும், அரசாங்கத்தினால் அனுமதிக்கப்பட்ட ஊழல் எதிர்ப்பு சட்டத்தின் ஊடாக சமர்ப்பிக்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/978b42ef.json)
+
+---
 
 ### Stop the Mannar windmill project; Police attack on civilians is vehemently condemned - Mano Ganesan
 
@@ -1974,65 +2022,5 @@ COLOMBO(News 1st) - Ten leptospirosis related deaths have been reported from the
 [Data](articles/5ab4755c.json)
 
 [Extended Data](ext_articles/5ab4755c.ext.json)
-
----
-
-### Certainly finished: Death in Karur congestion
-
-*2025-09-28 15:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிச்சயம்-முடிந்த-ஜோடி-கரூர்-நெரிசலில்-மரணம்/175-365415) · `ta`
-
-Tamil Nadu Victory Council President Vijay campaigned in Karur. The campaign was held at 7 pm at Karur Veluchamipuram. During the propaganda crowd suddenly the crowd was crowded. A total of 39 people, including 10 children, 17 women and 12 men, were killed in the crowd.
-
-In this case, the tragedy of the death of a couple of people who have been trapped in the Karur crowd. Akash (age 24) from Karur and Gokulasree (age 24) have been married just a few days ago.. Soon the two were about to get married.
-
-Akash and Gokulasree have gone to attend the Tawaka meeting in Karur yesterday. Akash and Gokulasree died tragically. The incident has caused great tragedy.
-
-◼️
-
-[Data](articles/1f16a921.json)
-
-[Extended Data](ext_articles/1f16a921.ext.json)
-
----
-
-### Karur crowded:
-
-*2025-09-28 15:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-கூட்ட-நெரிசல்-திருமண-நிச்சயம்-முடிந்த-ஜோடி-உயிரிழப்பு/175-365415) · `ta`
-
-Tamil Nadu Victory Association President Vijay campaigned in Karur. The campaign was held at 7 pm at Karur Veluchamipuram. Sudden congestion during the campaign meeting. A total of 39 people, including 10 children, 17 women and 12 men, were killed in the crowd.
-
-In this case, the death of a pair of marriage in the Karur crowd has caused great tragedy. Akash (age 24) from Karur and Gokulasree (age 24) have been married just a few days ago.. Soon the two were about to get married.
-
-Akash and Gokulasree have gone to attend the Tawaka meeting in Karur yesterday. Akash and Gokulasree died tragically. The incident has caused great tragedy.
-
-◼️
-
-[Data](articles/6c436f12.json)
-
-[Extended Data](ext_articles/6c436f12.ext.json)
-
----
-
-### It is a serious situation to be a country of powder
-
-*2025-09-28 15:28:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කඩ-නෂපදත-රටක-වම-බරපතල-තතවයක/1-680354) · `si`
-
-The Mahanayala Thera Thera was a serious situation into a drug manufacturing country.
-
-He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowled out for Him Eve.
-
-The government should implement a proper program to suppress drugs.
-
-The government should implement a wide range of programs to rescue the Ruth the generation.  The current government seems to be genuinely desire to rescue the country from drugs.
-
-Rehabilitated the addiction, but then they are getting used again.  The rehabilitation of the addicts should be carried out properly. The Thera emphasized that there is available.
-
-Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
-
-◼️
-
-[Data](articles/9208a47c.json)
-
-[Extended Data](ext_articles/9208a47c.ext.json)
 
 ---

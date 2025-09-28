@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 13:38:45**
+As of **2025-09-28 14:08:24**
 
 ## Newspaper Stats
 
-*Scraped **79,150** Articles*
+*Scraped **79,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,31 +17,97 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,633
+adalk | 7,634
 adaderanalk | 10,222
-tamilmirrorlk | 11,855
-virakesarilk | 12,875
-adaderanasinhalalk | 13,732
+tamilmirrorlk | 11,856
+virakesarilk | 12,876
+adaderanasinhalalk | 13,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,148 (100.0%) of 79,150 articles have been extended.
+79,152 (100.0%) of 79,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### அதிகரிக்கும் அமெரிக்க -  இலங்கை நெருக்கம்
+### கரூர் கூட்ட நெரிசல்: உயிரிழந்தவர்களின் குடும்பத்தினருக்கு தலா ரூ. 20 லட்சம் நிவாரணம் - தவெக தலைவர் வ
+
+*2025-09-28 13:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-கூட்ட-நெரிசல்-உயிரிழந்தவர்களின்-குடும்பத்தினருக்கு-தலா-ரூ-20-லட்சம்-நிவாரணம்-தவெக-தலைவர்-விஜய்/175-365409) · `ta`
+
+கரூரில்  நடந்த தவெக பிரசார கூட்டத்தில் ஏற்பட்ட கூட்ட நெரிசலில் 40 பேர் உயிரிழந்தனர். இந்நிலையில், கூட்ட நெரிசலில் உயிரிழந்தவர்களின் குடும்பத்தினருக்கு தலா ரூ. 20 லட்சம் நிவாரணம் வழங்கப்படும் என்று தமிழக வெற்றிக் கழக தலைவர் விஜய் அறிவித்துள்ளார்
+
+கற்பனைக்கும் எட்டாத வகையில், கரூரில் நேற்று நிகழ்ந்ததை நினைத்து, இதயமும் மனதும் மிகமிகக் கனத்துப் போயிருக்கும் சூழல். நம் உறவுகளை இழந்து தவிக்கும் பெருந்துயர்மிகு மனநிலையில், என் மனம் படுகிற வேதனையை எப்படிச் சொல்வதென்றே தெரியவில்லை. கண்களும் மனசும் கலங்கித் தவிக்கிறேன்.
+
+நான் சந்தித்த உங்கள் எல்லோருடைய முகங்களும் என் மனதில் வந்து போகின்றன. பாசமும் நேசமும் காட்டும் என் உறவுகளை நினைக்க நினைக்க, அது என் இதயத்தை மேலும் மேலும் அதன் இடத்திலிருந்தே நழுவச் செய்கிறது.
+
+என் சொந்தங்களே… நம் உயிரனைய உறவுகளை இழந்து தவிக்கும் உங்களுக்கு, சொல்லொணா வேதனையுடன் ஆழ்ந்த இரங்கலைத் தெரிவித்துக்கொள்கிறன். அதே வேளையில், இப்பெரும் சோகத்தை உங்கள் மனதுக்கு நெருக்கமாக நின்று பகிர்ந்துகொள்கிறேன்.
+
+...
+
+[Data](articles/d87c04b0.json)
+
+---
+
+### හෘද රෝග මරණ ගැන විශේෂ අනාවරණයක්
+
+*2025-09-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215098) · `si`
+
+ලොව පුරා හෘද රෝග හේතුවෙන් සිදුවන මරණවලින් සියයට 80ක්ම වළක්වා ගත හැකි මරණ වීම කණගාටුවට කරුණක් බව හෘද රෝග විශේෂඥ වෛද්‍යවරුන්ගේ සංගමයේ සභාපති විශේෂඥ වෛද්‍ය සම්පත් විතානවසම් මහතා පවසයි.
+
+ලෝක හෘද දිනය වෙනුවෙන් කොළඹ විහාරමහාදේවී උද්‍යානයේ පැවති වැඩසටහනකට එක්වෙමින් ඒ මහතා මේ බව කියා සිටියේය.
+
+ලෝක හදවත් දිනයේ ප්‍රධාන අරමුණක් වන්නේ වළක්වා ගත හැකි හදවත් මරණ වළක්වා ගැනීම සඳහා එක්වී කටයුතු කිරීම බව වෛද්‍යවරයා එහිදී අවධාරණය කළේය.
+
+එමෙන්ම ඔහු පෙන්වා දෙන්නේ සරල හා නිරෝගී දිවි පෙවෙතක් ගත කිරීම හරහා හෘද රෝග අවම කර ගැනීමට හැකියාව ලැබෙන බවය.
+
+ව්‍යායාම, යහපත් ආහාර රටාව, දුම්පානයෙන් වැළකී සිටීම සහ ආතතිය ඇතිවන ක්‍රියාවන්ගෙන් වැළකීම මෙන්ම නිතිපතා කරන සෞඛ්‍ය පරීක්ෂාවන් ද මේ සඳහා වැදගත් වන බව වෛද්‍යවරයා වැඩිදුරටත් පැවසුවේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ හෘද රෝග විශේෂඥ වෛද්‍යවරුන්ගේ සංගමයේ සභාපති විශේෂඥ වෛද්‍ය සම්පත් විතානවසම් මහතා,
+
+...
+
+[Data](articles/b2845d9e.json)
+
+---
+
+### Karur crowded death: Vijay announces relief for families
+
+*2025-09-28 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226306) · `ta`
+
+Tamil Nadu Victory Council Chairman Vijay has announced that he will provide relief to the families of the victims of the Karur crowd in Tamil Nadu.
+
+He also said that by the grace of the Lord, we will try to recover from everything.
+
+Tamil Nadu Victory Corporation President Vijay campaigned in Veluchamipuram area in Karur district on Saturday (27).
+
+In this case, he said, “Hello everyone who lives in my chest. Untilled, the heart and mind are very heavy, thinking of what happened yesterday in Karur.
+
+In the great mood of losing our relationships, I do not know how to tell my mind. Eyes and minds are upset. All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
+
+While my own, I am losing our lives, and expressing deep condolences with the painful pain, and I share this great tragedy.
+
+...
+
+[Data](articles/84984d09.json)
+
+[Extended Data](ext_articles/84984d09.ext.json)
+
+---
+
+### Increasing American - Sri Lanka's intimacy
 
 *2025-09-28 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226293) · `ta`
 
-2025 செப்­டெம்பர் மாதம் இடம்­பெற்ற பல நிகழ்­வுகள் அமெ­ரிக்­கா­வுக்கும் இலங்­கைக்கும் இடை­யி­லான பாது­காப்பு உற­வு­களில் ஏற்­பட்டு வரு­கின்ற,  தலைகீழ் மாற்­றத்தை உணர்த்­து­வ­தற்கு போது­மா­னது.
+Many of the events that took place in September 2025 are sufficient to make the reverse change in security relations between the US and Sri Lanka.
 
 ◼️
 
 [Data](articles/16aa7946.json)
+
+[Extended Data](ext_articles/16aa7946.ext.json)
 
 ---
 
@@ -65,25 +131,29 @@ Ranil Wickremesinghe was also taken to consult with Mr. Mahinda Rajapaksa's plea
 
 ---
 
-### உலகின் மிக உயரமான பாலம் சீனாவில் திறப்பு
+### The world's tallest bridge opening in China
 
 *2025-09-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226300) · `ta`
 
-சீனாவிலுள்ள உலகின் மிக உயரமான ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் இன்று ஞாயிற்றுக்கிழமை (28) போக்குவரத்துக்காக திறக்கப்பட்டுள்ளது.
+The world's tallest Huajiang Grand Canyon Bridge in China is open today (28).
 
-மூன்று வருடங்களில் கட்டுமான பணிகளை நிறைவு செய்து குய்சோவில் உள்ள மற்றொரு பாலத்தின் பொறியியல் சாதனையை  இந்த பாலம் முறியடித்துள்ளது.
+The bridge has broken the engineering record of another bridge in Quezo after completing construction work in three years.
 
-சீனாவின் கரடுமுரடான தெற்கு மாகாணமான குய்சோவில் உள்ள நதி மற்றும் பரந்த பள்ளத்தாக்கின் மேலே 625 மீட்டர் உயரத்தில் ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் அமைந்துள்ளது.
+The Huajiang Grand Canyon Bridge is located at a height of 625 meters above the river and the vast valley in the rough province of China, the southern province of China.
 
-உலகின் இரண்டாவது மிக உயரமான 565 மீட்டர் பெய்பன்ஜியாங் பாலமும் குய்சோவிலேயே உள்ளது.
+The world's second tallest 565 -meter Baibanjiang Bridge is also in Quezo.
 
-இந்த பாலம்  திறப்பு நிகழ்வில் திட்ட பொறியாளர்கள் மற்றும் உள்ளூர் அதிகாரிகள் உட்பட ஏராளமான பார்வையாளர்கள் கலந்து கொண்டனர் என தெரிவிக்கப்படுகிறது.
+It is reported that a large number of visitors, including project engineers and local officials, attended the opening of the bridge.
 
-“ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் திறக்கப்படுவதன் மூலம் இரு பகுதிகளுக்கும் இடையிலான பயண நேரம் இரண்டு மணி நேரத்திலிருந்து இரண்டு நிமிடங்களாகக் குறையும்” என மாகாண போக்குவரத்துத் திணைக்களத் தலைவர் ஜாங் யின் கடந்த  24 ஆம் திகதி அன்று தெரிவித்திருந்தார்.
+"The opening of the Huajiang Grand Canyan Bridge will reduce the travel time between the two parts to two minutes to two minutes," said Jong of the Provincial Transport Department Jong's on the 24th.
+
+Its opening said, "It is" making enormous improvements in regional transport and paying new inspiration in regional economic and social development. "
 
 ...
 
 [Data](articles/ef96ec08.json)
+
+[Extended Data](ext_articles/ef96ec08.ext.json)
 
 ---
 
@@ -234,6 +304,24 @@ The laws of the country said that Arjun Mahendran is also allegedly allocated an
 [Data](articles/686f6d5e.json)
 
 [Extended Data](ext_articles/686f6d5e.ext.json)
+
+---
+
+### World's tallest bridge opens in China, two hours of travel reduction in two minutes
+
+*2025-09-28 12:22:44* · [`adalk`](https://www.ada.lk/international/ලොව-උසම-පාලම-චීනයේදී-විවෘත-කරයි--පැය-දෙකක-ගමන්-කාලය-විනාඩි-දෙකකට-අඩුවෙයි/3-418765) · `si`
+
+World's tallest bridge records traffic in southwestern China's Guides. After three years of construction, the passing period of the Grand Canyon is reduced to two hours from two hours.
+
+The Huwaching Grand Canon Bridge at the mountain range of Guideshow is 625 meters high by the Golden Gate Bridge of San Francisco.
+
+With the opening of a major gap with a major gap with a major gap of 1,420 meters, China's tallest bridge was 565.4 meters in the Bayipan River.
+
+◼️
+
+[Data](articles/5679dc58.json)
+
+[Extended Data](ext_articles/5679dc58.ext.json)
 
 ---
 
@@ -1886,83 +1974,5 @@ He further said there was a crowd surge after the official Twitter handle of Vij
 [Data](articles/3a63de28.json)
 
 [Extended Data](ext_articles/3a63de28.ext.json)
-
----
-
-### Child dies after collision with train
-
-*2025-09-28 08:10:57* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියෙ-ගැටී-දරුවෙක්-මරුට/11-418757) · `si`
-
-Rambukkana Police have launched an investigation into a Message that a boy was killed and a boy who had been hit by the Rambukkana Police Division in Rambukkana Police Division.. The victim was a 14 year old resident of the Medagama area.
-
-The deceased has been revealed to the Thimbukkana Railway Station, which was traveling from Rambukkana to Colombo Fort and was collided with the railway train to the railway stage when the train was gone to the railway stage.. Rambukkana Police are conducting further investigations. The accident occurred yesterday (27).
-
-◼️
-
-[Data](articles/ed298d52.json)
-
-[Extended Data](ext_articles/ed298d52.ext.json)
-
----
-
-### Sanctions imposed against Iran
-
-*2025-09-28 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215086) · `si`
-
-After 10 years after 2015, the International Covenant with Iran's nuclear program has been removed in 2015, the United Nations has decided to restore severe economic and military sanctions on Iran.
-
-The decision has been taken due to the UK, France and Germany to the United Nations Security Council to the UN Security Council on the United Nations.
-
-Foreign media reports that it has been given 30 days to find a diplomatic solution to prevent these sanctions.
-
-Accordingly, Iran has taken steps to call several ambassadors who served in the UK, France and Germany in Germany.
-
-A few days after the United Nations General Assembly departed, Iranian President Masodod Peshkian said: "Why do we keep a nondar around our neck every month?" As well as.
-
-He reiterated that the Tehran had no intention of developing nuclear weapons, he was accused of trying to break the Islamic Republic.
-
-...
-
-[Data](articles/1d799a0e.json)
-
-[Extended Data](ext_articles/1d799a0e.ext.json)
-
----
-
-### Trump orders deployment of troops to Portland, ICE facilities
-
-*2025-09-28 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112978/trump-orders-deployment-of-troops-to-portland-ice-facilities) · `en`
-
-U.S. PresidentDonald Trump on Saturday said he was directing the U.S. military to deploy to Portland, Oregon and to protect federal immigration facilities against “domestic terrorists”, saying he was authorizing them to use “full force, if necessary.”
-
-Ordering the latest crackdown on a Democrat-led city, Trump said in a social media post that he was directing Defense Secretary Pete Hegseth “to provide all necessary Troops to protect War ravaged Portland, and any of our ICE Facilities under siege from attack by Antifa, and other domestic terrorists.”
-
-Portland Mayor Keith Wilson, who like other Oregon officials learned of Trump’s order from social media, said: “The number of necessary troops is zero, in Portland and any other American city. The president will not find lawlessness or violence here unless he plans to perpetrate it.”
-
-...
-
-[Data](articles/aff3983b.json)
-
-[Extended Data](ext_articles/aff3983b.ext.json)
-
----
-
-### Rubber industry calls for SVAT removal delay, warns of liquidity crunch
-
-*2025-09-28 08:00:00* · [`economynextcom`](https://economynext.com/rubber-industry-calls-for-svat-removal-delay-warns-of-liquidity-crunch-242051/) · `en`
-
-ECONOMYNEXT – A Sri Lanka rubber traders group has said the government’s decision to abolish the Simplified Value Added Tax (SVAT) scheme from October 1 would cause ‘severe and far-reaching consequences’, and urged it to differ or phase it out.
-
-“Removing SVAT without a tested and operational refund mechanism will trigger widespread financial distress across Sri Lanka’s natural rubber industry, threatening smallholder livelihoods, SME viability, export competitiveness, and foreign exchange inflows vital to the nation’s recovery,” the Colombo Rubber Traders’ Association (CRTA) said in a statement.
-
-Sri Lanka’s natural rubber sector supports tens of thousands of smallholder farmers, CRTA pointed out.
-
-“The removal of SVAT will force manufacturers to pay billions in VAT upfront, causing delays in purchasing raw rubber and exerting downward pressure on farm gate prices.”
-
-...
-
-[Data](articles/0a049292.json)
-
-[Extended Data](ext_articles/0a049292.ext.json)
 
 ---

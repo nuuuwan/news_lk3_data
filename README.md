@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 18:19:35**
+As of **2025-09-28 19:06:15**
 
 ## Newspaper Stats
 
-*Scraped **79,220** Articles*
+*Scraped **79,249** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 400
+lankadeepalk | 406
 newsfirstlk | 456
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -17,57 +17,287 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,638
-adaderanalk | 10,233
-tamilmirrorlk | 11,866
-virakesarilk | 12,891
-adaderanasinhalalk | 13,739
+adalk | 7,640
+adaderanalk | 10,235
+tamilmirrorlk | 11,867
+virakesarilk | 12,908
+adaderanasinhalalk | 13,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,214 (100.0%) of 79,220 articles have been extended.
+79,228 (100.0%) of 79,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### චීනයේ හිටපු කෘෂිකර්ම අමාත්‍යවරයාට අත්හිටවූ මරණ දඬුවමක්
+### கைதுசெய்யப்பட்ட இந்திய மீனவர்களுக்கு ஒக்ரோபர் 1 ஆம் திகதிவரை விளக்கமறியல்!
+
+*2025-09-28 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226345) · `ta`
+
+இலங்கை - நெடுந்தீவு அருகே மீன்பிடியில் ஈடடுபட்ட காரைக்கால் மீனவர்கள் 12 பேர் இலங்கை கடற்படையினரால் 28ஆம் திகதி ஞாயிற்றுக்கிழமை கைது செய்யப்பட்டனர்.
+
+இவர்கள்  யாழ்ப்பாணம் காங்கேசன்துறை கடற்படை முகாமுக்கு அழைத்துவரப்பட்டு கடற் படையினரால் விசாரணைகள் மேற்கொள்ளப்பட்ட பின்னர்  கடற்தொழில் நீரியல் வளங்கள் திணைக்கள அதிகாரிகளிடம் இவர்கள் ஒப்படைக்கப்பட்டு  யாழ்ப்பாணம் ஊர்காவற்றுறை நீதவான் இல்லத்தில் இன்று மாலை ஆஜர் படுத்தப்படபோது ஒக்ரோபர் 1 ஆம் திகதிவரை விளக்கமறியலில் வைக்க உத்தரவிடப்பட்டது.
+
+◼️
+
+[Data](articles/9e45c597.json)
+
+---
+
+### போலி ஆவணங்களுடன் ஆடம்பர வாகனங்கள் : முன்னாள் மாகாண சபை உறுப்பினர் அமல் சில்வா கைது
+
+*2025-09-28 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226344) · `ta`
+
+முன்னாள் மேல் மாகாண சபை உறுப்பினர் அமல் சில்வா, போலி ஆவணங்களை பயன்படுத்திய குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளார்.
+
+வலான ஊழல் ஒழிப்பு பிரிவு அதிகாரிகள் மேற்கொண்ட விசேட நடவடிக்கையின் போது, சந்தேகநபர் 60 மில்லியன் ரூபாய் பெறுமதியான மூன்று ஆடம்பர வாகனங்களுடன் பிடிபட்டதாக காவல்துறை ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+கைது செய்யப்பட்ட முன்னாள் மாகாண சபை உறுப்பினர், மேலதிக விசாரணைகளுக்காக நீதிமன்றத்தில் ஆஜர்படுத்தப்படுவார் எனவும், சம்பவம் தொடர்பான விசாரணைகள் தீவிரமாக முன்னெடுக்கப்படுவதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c46df30f.json)
+
+---
+
+### Viksit Bharat Run, 2025…
+
+*2025-09-28 17:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/Viksit-Bharat-Run-2025/150-365424) · `ta`
+
+கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயம், இந்திய அரசின் இளைஞர் விவகாரங்கள் மற்றும் விளையாட்டு அமைச்சகத்தின் கீழ் உள்ள MY Bharat உடன் இணைந்து, இந்திய கலாச்சார சங்கத்துடன் இணைந்து, 2025 செப்டம்பர் 28, அன்று கொழும்பு  காலி முகத்திடலில் விக்சித் பாரத் ஓட்டம் 2025 ஐ   முன்னெடுத்தது.
+
+150 க்கும் மேற்பட்ட சர்வதேச இடங்களில் ஒரே நேரத்தில் நடத்தப்பட்ட இந்த நிகழ்வு, சேவை, உடற்பயிற்சி மற்றும் நிலைத்தன்மையின் உண்மையான உலகளாவிய கொண்டாட்டமாக மாறியது.
+
+2047 இல் அபிவிருத்தி அடைந்த இந்தியா, இந்தியப் பிரதமர் ஸ்ரீ நரேந்திர மோடியின் தொலைநோக்குப் பார்வையை வலுப்படுத்தியது மற்றும் இந்தியாவிற்கும் இலங்கைக்கும் இடையிலான நட்பு மற்றும் நல்லெண்ணத்தின் ஆழமான வேரூன்றிய பிணைப்புகளை எடுத்துக்காட்டுகிறது.
+
+◼️
+
+[Data](articles/c3fe819f.json)
+
+---
+
+### Death penalty for former Chinese agriculture
 
 *2025-09-28 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215106) · `si`
 
-චීනයේ හිටපු කෘෂිකර්ම හා ග්‍රාමීය කටයුතු අමාත්‍ය ටැන්ග් රෙන්ජියන්ට, අල්ලස් ලබා ගැනීමේ චෝදනාව මත මරණ දඬුවම නියම වූ බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The Minister of Agriculture and Rural Affairs of China and Rural Affairs Tang Renjan have sentenced to death on charges of bribery.
 
-2007 සිට 2024 දක්වා විවිධ තනතුරු දරමින් ටැන්ග්, යුවාන් මිලියන 268කට (අමෙරිකානු ඩොලර් මිලියන 37.6) වැඩි මුදලක් සහ දේපළ ඇතුළුව අල්ලස් ලබා ගෙන ඇති බව සඳහන් වේ.
+Tang, 11 million US $ 37.6 million (US $ 37.6 million) has been obtained by Rs. 37.6 million.
 
-කෙසේ වෙතත් ඔහු තමා සිදු කළ අපරාධ පිළිබඳව පාපොච්චාරණය කර ඇති නිසා මහජන අධිකරණය ඔහුගේ මරණ දඬුවම වසර දෙකකට අත්හිටුවා ඇත.
+However, he has been suspended for two years due to his conversing his crimes.
 
-මෙම කරුණු පිළිබඳව දූෂණ විරෝධී නිරීක්ෂණ ආයතනය විසින් විමර්ශනයට ලක් කර ඔහු තනතුරෙන් ඉවත් කිරීමෙන් මාස හයකට පසු, 2024 නොවැම්බර් මාසයේදී චීන කොමියුනිස්ට් පක්ෂය (CCP) විසින් ටැන්ග් නෙරපා හරින ලදී.
+In November 2024, the Chinese Communist Party (CCP) was evicted by the Chinese Communist Party (CCP) in November 2024 after the anti-corruption observation institute was dismissed.
 
-ටැන්ග්ගේ විමර්ශනය අසාමාන්‍ය ලෙස වේගවත් වූ අතර හිටපු ආරක්ෂක අමාත්‍ය ලී ෂැංෆු සහ ඔහුගේ පූර්වගාමියා වූ, වෙයි ෆෙන්ග්හේ සම්බන්ධයෙන් ද ඒ හා සමානව පරීක්ෂණ ආරම්භ කර ඇත.
+Tang's investigation was extraordinarily accelerated and the former Defense Minister Li Shangfu and his predecessor, began investigations into Fenu.
 
-කෘෂිකර්ම හා ග්‍රාමීය කටයුතු අමාත්‍යවරයා ලෙස නම් කිරීමට පෙර ටැන්ග් 2017 සිට 2020 දක්වා බටහිර ගන්සු පළාතේ ආණ්ඩුකාරවරයා වශයෙන් ද කටයුතු කර ඇති බව වාර්තා වේ.
+Tang has also served as the Minister of Agriculture and Rural Affairs to the Governor of the West Gunaward.
 
 ◼️
 
 [Data](articles/a698e197.json)
 
+[Extended Data](ext_articles/a698e197.ext.json)
+
 ---
 
-### சிறுவர் துஷ்பிரயோக தண்டிப்பு சட்டமூலம்;பிரதமர் விளக்கம்
+### Child Abuse Punishment Bill; PM Explanation
 
 *2025-09-28 17:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-தண்டிப்பு-சட்டமூலம்-பிரதமர்-விளக்கம்/175-365423) · `ta`
 
-சிறுவர் துஷ்பிரயோகத்தைத் தண்டிப்பது தொடர்பான முன்மொழியப்பட்ட சட்டம் பாடசாலைகளையோ அல்லது ஆசிரியர்களையோ இலக்காகக் கொண்டதல்ல, மாறாக சமூகம் முழுவதும் குழந்தைகளைப் பாதுகாப்பதை நோக்கமாகக் கொண்டுள்ளது என்று பிரதமரும் கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சருமான கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+The Prime Minister and Minister of Education, Higher Education and Vocational Education, Dr. Harini Amarasuriya, said that the proposed law on punishing child abuse is not aimed at schools or teachers, but also aimed at protecting children throughout the community.
 
-தேசிய பாடசாலைகளின் அதிபர்களுக்கு விளக்கமளிக்கும் வகையில் வெள்ளிக்கிழமை (27) கல்வி அமைச்சில் நடைபெற்ற நிகழ்ச்சியில் பேசிய அமரசூரிய, இந்தத் திருத்தம் பாடசாலைகள், நிறுவனங்கள், பொலிஸ் மற்றும் வீடுகளில் குழந்தைகள் எதிர்கொள்ளும் உடல் மற்றும் உளவியல் ரீதியான துஷ்பிரயோகங்களைக் கையாள்கிறது என்று விளக்கினார்.
+Speaking at a function held at the Ministry of Education on Friday (27), Amarasuriya explained that the amendment is dealing with the physical and psychological abuse of children in schools, institutions, police and homes.
 
-"இது பாடசாலைகளுக்கோ அல்லது ஆசிரியர்களுக்கோ எதிராக வடிவமைக்கப்பட்ட சட்டம் அல்ல. இது சமூகத்தில் உள்ள அனைத்து குழந்தைகளின் பாதுகாப்பிற்காக உருவாக்கப்பட்ட ஒரு சீர்திருத்தமாகும்," என்று அவர் கூறினார்.
+“This is not a law designed against schools or teachers. This is a reform created for the safety of all children in the community, ”he said.
+
+The Prime Minister emphasized that law does not prohibit morality in schools. “We don't stop the punishment or avoid discipline. We say that there should be no punishment by physically or mentally violently. There are many positive ways to maintain discipline without causing harm or humiliation, ”he added.
 
 ...
 
 [Data](articles/931e8bab.json)
+
+[Extended Data](ext_articles/931e8bab.ext.json)
+
+---
+
+### බස්නාහිර පළාත් හිටපු මන්ත්‍රී අමල් සිල්වා අත්අඩංගුවට
+
+*2025-09-28 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215105) · `si`
+
+ව්‍යාජ ලියකියවිලි යොදා ලියාපදිංචි කර තිබූ රුපියල් කෝටි 6 ක් වටිනා සුඛෝපභෝගී රථවාහන 3 ක් සමඟ බස්නාහිර පළාත් සභාවේ හිටපු මන්ත්‍රී අමල් සිල්වා වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකයේ නිළධාරින්ට ලැබුණ තොරතුරකට අනුව සිදුකළ වැටලීමකදී අද (28) දිනයේ මෙම සැකකරු අත්අඩංගුවට ගෙන ඇති බව සඳහන් වේ.
+
+නීති විරෝධී ලෙස මෙම රථවාහන මෙරටට ආනයනය කර කූඨ ලේඛන භාවිතා කරමින් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව මගින් ව්‍යාජ අංක යටතේ ලියාපදිංචි කර ඇති බව සඳහන්වේ.
+
+මෙහිදී ලෑන්ඩ් රෝවර් සහ මිට්සුබිෂි වර්ගයේ ජීප් රථ 03ක් සොයාගෙන ඇත.
+
+රාජ්‍ය ආයතනවලට අයත් ගර්භිත කරන ලද වාහනවල ලියාපදිංචි අංක යටතේ කූඨ ලේඛන සකස් කළ මෙම වාහන ලියාපදිංචිකර ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+පානදුර මහෙස්ත්‍රාත් අධිකරණයේ පවතින නඩු කටයුක්තකට අනුව අත්අඩංගුවට ගත් සැකකරු හෙට (29) දින අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/febf9ee3.json)
+
+---
+
+### காணா­மல்­போன இனப்­பி­ரச்­சினை
+
+*2025-09-28 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226289) · `ta`
+
+ஐ.நா. மனித உரி­மைகள் பேர­வையில் அனு­ச­ரணை நாடு­களால் முன்­வைக்­கப்­பட்­டி­ருந்த முத­லா­வது  தீர்­மான வரைவில் இருந்து ஒரு விடயம் இரண்­டா­வது வரைவில் நீக்­கப்­பட்­டி­ருக்­கி­றது.
+
+◼️
+
+[Data](articles/1db40b9e.json)
+
+---
+
+### உலக மகளிர் மாநாட்டில் பங்கேற்பதற்காக  பிரதமர் ஹரிணி அமரசூரிய சீனா விஜயம்
+
+*2025-09-28 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226316) · `ta`
+
+1995 உலக மகளிர் மாநாட்டின் 30ஆவது ஆண்டு நிறைவைக் குறிக்கும் வகையில் பீஜிங்கில் உலக மகளிர் உச்சி மாநாட்டை நடத்த சீனா ஏற்பாடு செய்துள்ளது.
+
+இந்த மாநாட்டில் கலந்துக்கொள்வதற்காக பிரதமர் ஹரிணி அமரசூரிய அடுத்த வாரம் இறுதியில் சீனாவுக்கு விஜயம் செய்யவுள்ளார். இதன்போது சீன ஜனாதிபதி ஷீ ஜின்பிங் மற்றும் அந்நாட்டு பிரதமர் உள்ளிட்டவர்களை சந்தித்து இருதரப்பு கலந்துரையாடல்களையும் முன்னெடுக்கவுள்ளார்.
+
+முப்பது ஆண்டுகளுக்கு முன்பு, ஐக்கிய நாடுகள் சபையின் நான்காவது உலக மகளிர் மாநாடு பீஜிங்கில் நடைபெற்றது. அந்த மாநாட்டைக் கொண்டாடுவதற்கும், பீஜிங் பிரகடனம் மற்றும் செயற்றிட்டத்தின்  அமுலாக்கத்தை ஊக்குவிப்பதற்கும், சீன அரசாங்கமும் ஐ.நா. பெண்கள் அமைப்பும் இணைந்து நியூயோர்க்கில் உள்ள ஐ.நா. தலைமையகத்தில் உலக மகளிர் உச்சி மாநாட்டை ஏற்பாடு செய்திருந்தது.
+
+மேலும், 2025 ஆண்டில் மற்றொரு உலக மகளிர் உச்சி மாநாட்டைக் கூட்டுவதற்கு சீன ஜனாதிபதி ஷி ஜின்பிங் முன்மொழிந்துள்ளார்.
+
+...
+
+[Data](articles/f36d2087.json)
+
+---
+
+### Ex-Western PC member Amal Silva arrested by Walana Anti-Vice Squad
+
+*2025-09-28 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113003/ex-western-pc-member-amal-silva-arrested-by-walana-anti-vice-squad) · `en`
+
+Amal Silva, a former member of the Western Provincial Council, has been arrested by the Walana Anti-Vice Squad, along with three luxury vehicles worth approximately Rs. 60 million, which had been allegedly registered using forged documents, police stated.
+
+He was arrested today (28) during a raid carried out based on intelligence received by the Walana Anti-Vice Squad.
+
+According to reports, the vehicles had been illegally imported into the country and registered with the Department of Motor Traffic under fraudulent registration numbers using forged documentation.
+
+Among the vehicles seized were three SUVs, including a Land Rover and Mitsubishi Jeep.
+
+Preliminary police investigations have revealed that the registration numbers used belonged to government-owned vehicles, and fake documents were generated to facilitate the illegal registration of these luxury vehicles.
+
+The suspect is scheduled to be produced before the Panadura Magistrate’s Court tomorrow (29).
+
+◼️
+
+[Data](articles/f065e04f.json)
+
+[Extended Data](ext_articles/f065e04f.ext.json)
+
+---
+
+### 80 ஆவது ஐ.நா. பொதுச்சபை அமர்வு: பலஸ்தீன எதிர்காலத்தைக் கட்டியெழுப்புவதற்கான மாற்றத்தின் தொடக்கப் புள்ளி
+
+*2025-09-28 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226307) · `ta`
+
+மெக்ரோனின் அறிவித்தல், பலஸ்தீனர்களுக்காக அறிவிக்கப்பட்ட வெறும் சலுகை அல்ல. அது பலஸ்தீன மக்களுக்கு சிறந்ததொரு எதிர்காலத்தை ஏற்படுத்திக் கொடுப்பதற்காக சர்வதேச சமூகத்தைத் தூண்டும் காத்திரமான முயற்சி.
+
+இன்றளவில் பலஸ்தீன் இராஜ்ஜியத்தை கட்டியெழுப்புவதற்கு இராஜதந்திர ரீதியில் ஒவ்வொரு செங்கல்லாக கட்டியெழுப்பப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/789941e0.json)
+
+---
+
+### உறுதியான நடவடிக்கைகள் எதுவும் இன்றி எதிர்பார்த்தபடி வாய்ச்சவடால்களுடன் முடிடைந்த அரபு - இஸ்லாமிய உச்சி மாநாடு
+
+*2025-09-28 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226309) · `ta`
+
+எண்ணெய் வளம் நிறைந்த வளை­குடா நாடான கட்டார், 2025 செப்­டம்பர் 15 ஆம் திகதி தனது தலை­ந­க­ரான டோஹாவில் ஒரு அரபு மற்றும் இஸ்­லா­மிய உச்­சி­மா­நாட்டை நடத்­தி­யது. ஒரு வாரத்­துக்கு முன், அமெ­ரிக்க ஆத­ர­வுடன் முன்வைக்­கப்­பட்ட போர்­நி­றுத்த பேச்­சு­வார்த்­தை­களைப் பற்றி விவா­திக்க டோஹாவில்   கூடி­யி­ருந்த ஹமாஸ் தலை­வர்­களைக் கொல்­வதை நோக்­க­மாகக் கொண்ட பாசி­ச­வாத சட்ட விரோத குடி­யேற்ற நாடான  இஸ்ரேல் நடத்­திய தாக்­கு­தல்கள் பற்றி ஆராய இந்த மாநாட்­டுக்­கான அழைப்பு விடுக்­கப்­பட்­டி­ருந்­தது.
+
+◼️
+
+[Data](articles/d692f1de.json)
+
+---
+
+### கேள்விக்கு இலக்காகும் ஊடக அறம்
+
+*2025-09-28 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226305) · `ta`
+
+உலகத்தைப் பதட்ட நிலைக்கு இட்டுச் செல்லும் ஊடகங்களின் போக்கு கண்டனத்துக்கு உரியது. செய்திகளின் விளைவாக சமூகத்தில் உருவாகக் கூடிய விபரீதத்தை இவ்வாறு செயற்படும் ஊடகங்களுக்கு யார் புரிய வைப்பது?
+
+◼️
+
+[Data](articles/f6c58e33.json)
+
+---
+
+### பொதுமக்கள் தங்கள் சுகாதாரம் குறித்து விழிப்புணர்வுடன் இல்லாமல் இருந்தாலும் அவர்களின் ஆரோக்கியத்தை கவனித்துக்கொள்வது சுகாதார மற்றும் நல்வாழ்வு மைய ஊழியர்களின் பொறுப்பாகும் - சுகாதார அமைச்சர்
+
+*2025-09-28 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226343) · `ta`
+
+இந்த நாட்டில் வாழும் மக்கள் கண்ணியமான முறையில் சுகாதாரசேவையை எளிதில் பெற்றுக்கொள்ளகூடியவகையில் உறுதிசெய்வதற்காக, தற்போதைய அரசாங்கத்தின் சுகாதாரக்கொள்கையின் முதல் கட்டமாக சுகாதாரம் மற்றும் ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் ஆலோசனை மற்றும் வழிகாட்டுதலின் கீழ், நாடு முழுவதும் ஆயிரம் ஆரம்ப சுகாதார மையங்களை நிறுவ அமைச்சகம் ஏற்கனவே திட்டமிட்டுள்ளது.
+
+மேலும் மக்களுக்கு எளிதில் அணுகக்கூடிய இடத்தில் நிறுவப்படும் இந்த ஆரம்ப சுகாதார நிலையங்கள்" ஆரோக்கியம் மற்றும் நல்வாழ்வுமையம்" என்று பெயரிடப்பட்டுள்ளன. இது நாட்டின் சுகாதாரசேவையை நல்லவழியில் மாற்றி அமைக்கும் சிறந்த மாற்றத்தின் முதல் ஆரம்பமாக இது காணப்படுகிறது.
+
+மேலும் புதிய அரசாங்கத்தின் சிறந்த திட்டமான "HEALTHY SRI LANKA" இன் திட்டத்தின் கீழ், இந்த ஆண்டு நூறு ஆரம்ப சுகாதார மையங்கள் நிறுவ திட்டமிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/5c486afd.json)
+
+---
+
+### மன்னாரில் காற்றாலைகளை நிறுவுவதற்கு முன்னர் அரசு மக்களுடன் கலந்துரையாடல்களுக்கு வர வேண்டும் ; வர தவறும் பட்சத்தில் மக்கள் தொடர்ந்தும் அரசுக்கு எதிராக போராடுவார்கள் - வி.எஸ்.சிவகரன்
+
+*2025-09-28 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226341) · `ta`
+
+போராட்டத்தில் ஈடுபட்ட மக்களுடன் பொலிஸார் காட்டுமிராண்டித்தனமாக நடந்து கொண்டுள்ளனர்.ஒரு ஜனநாயக நாட்டில் உரிமை கேட்டு போராடுவது தவறா? போராட்டத்தின் ஊடாக ஆட்சிக்கு வந்தவர்கள்  என்றால் அது ஜே.வி.பி  என மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றிய தலைவர் வி.எஸ்.சிவகரன் தெரிவித்துள்ளார்.
+
+மன்னாரில் இன்று ஞாயிற்றுக்கிழமை (28) மதியம் இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+மன்னாரில் கடந்த 5 வருடங்களுக்கு மேலாக பல்வேறு விதமான போராட்டங்களும்,கோரிக்கைகளும் முன் வைக்கப்பட்டு வருகின்ற சூழ்நிலையில், கடந்த மாதம் 7 ஆம் திகதி பாராளுமன்றத்தில் அமைச்சர்களுடன் சந்திப்பும்,13  ஆம் திகதி  ஜனாதிபதியுடனான சந்திப்பிற்கு பின்னர் ஒரு மாத காலம் இடை நிறுத்தப்பட்டிருந்த  பணிகள் அதற்கு பின்னர் மாவட்டத்தில் இயங்குகின்ற அமைப்புக்களுடனான கலந்துரையாடல், பாதிக்கப்பட்ட தரப்புக்களுடன் 5 இடங்களில் கலந்துரையாடல் என இடம் பெற்றன.
+
+...
+
+[Data](articles/6fbf33f4.json)
+
+---
+
+### யாழ்ப்பாணம் விக்சித் பாரத் ஓட்டம் 2025
+
+*2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226340) · `ta`
+
+இந்திய துணைத் தூதரகத்தின் ஏற்பாட்டில் யாழ்ப்பாணம் திருவள்ளுவர் கலாசார மண்டபத்தில் இன்று ஞாயிற்றுக்கிழமை  (28) நடைபெற்ற 'யாழ்ப்பாணம் விக்சித் பாரத் ஓட்டம் 2025' இன் நிகழ்வில், கடற்றொழில், நீரியல் மற்றும் கடல்வளங்கள் அமைச்சர் இ.சந்திரசேகரன், வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் மற்றும் இந்திய துணைத்தூதுவர் சாய்முரளி ஆகியோர் கலந்து கொண்டு, ஓட்ட நிகழ்வைத் தொடக்கி வைத்ததுடன் வெற்றியாளர்களுக்கு சான்றிதழ்களும் வழங்கிக் கௌரவித்தனர்.
+
+உலகளாவிய அளவில் 150 இற்க்கும் மேற்பட்ட இடங்களில் ஒரே நேரத்தில் நடைபெற்ற விக்சித் பாரத் ஓட்டம் 2025, இந்தியாவின் முன்னேற்றப் பயணத்தை கொண்டாடுவதோடு, சேவை, மனவொற்றுமை மற்றும் நிலைத்தன்மையை ஊக்குவித்து, உலகம் முழுவதும் சமூகங்களை இணைக்கும். இந்தியாவின் முன்னேற்றத்தையும் பண்பாட்டு மதிப்புகளையும் இந்நிகழ்ச்சி வெளிப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/92bac253.json)
+
+---
+
+### கால்டன் இல்லத்தில் மஹிந்தவை சந்தித்த ரணில்  கைது செய்யப்பட்டபோது வழங்கிய ஒத்துழைப்பிற்கு நன்றியும் தெரிவிப்பு
+
+*2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226339) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தங்காலையிலுள்ள கால்டன் இல்லத்துக்கு சென்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை சந்தித்துள்ளார். ஞாயிற்றுக்கிழமை (28) இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கதிர்காமத்தில் இருந்து கொழும்புக்கு செல்லும் வழியில் இந்தச் சந்திப்பு இடம்பெற்றதாக ஐக்கிய தேசிய கட்சியின் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இந்த சந்திப்பின் போது, தான் சிறையில் இருந்த காலத்தில் மஹிந்த ராஜபக்ஷ ஆற்றிய பங்களிப்பிற்காக முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க அவருக்கு நன்றியைத் தெரிவித்துள்ளார்.
+
+மேலும் இதன் போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, மஹிந்த ராஜபக்ஷவின் உடல்நலம் மற்றும் நல்வாழ்வு குறித்து விசாரித்தார் என்றும் ஐக்கிய தேசிய கட்சி ஊடகப்பிரிவு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dcc851fd.json)
 
 ---
 
@@ -85,25 +315,143 @@ COLOMBO (News 1st): SriLankan Airlines has reported a 10% increase in passenger 
 
 ---
 
-### විජේගේ රැලියේදී මියගිය අය අතර  අවුරුදු 2ක පුංචි පුතෙකුත්
+### China’s former agriculture minister gets suspended death sentence for bribery
+
+*2025-09-28 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113002/chinas-former-agriculture-minister-gets-suspended-death-sentence-for-bribery) · `en`
+
+Tang Renjian, China’s former minister of agriculture and rural affairs, was sentenced to death with reprieve for bribery at a court in Jilin province on Sunday (Sep 28), according to state news agency Xinhua.
+
+Tang took bribes, including cash and property worth over 268 million yuan (US$37.6 million), in various positions held from 2007 to 2024, Xinhua said.
+
+The Changchun Intermediate People’s Court suspended his death sentence for two years, noting he had confessed to his crimes, it added.
+
+China’s Communist Party (CCP) expelled Tang in November 2024, six months after he was placed under investigation by the anti-graft watchdog and removed from his post.
+
+Tang’s investigation was unusually swift and followed similar investigations into former defence minister Li Shangfu and his predecessor Wei Fenghe.
+
+...
+
+[Data](articles/d6d2012e.json)
+
+[Extended Data](ext_articles/d6d2012e.ext.json)
+
+---
+
+### காற்றாலைக்கு எதிராக கட்டைக்காட்டில் வெடித்தது போராட்டம்!
+
+*2025-09-28 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226337) · `ta`
+
+மன்னார் காற்றாலை திட்டத்தை எதிர்த்து மக்கள் எழுப்பிய ஜனநாயக போராட்டத்தில் ஈடுபட்ட பொதுமக்கள் மீதும் பங்கு தந்தையர்கள் மீதும்  காவல்துறை மேற்கொண்ட தாக்குதலை கண்டித்து வடமராட்சி கிழக்கு கட்டைக்காட்டில் அமைதி வழி போராட்டம் ஒன்று இன்று (28) முன்னெடுக்கப்பட்டது.
+
+மன்னார் மக்களுக்கு பாதிப்பாக அமையக்கூடிய காற்றாலை திட்டத்திற்கு எதிர்ப்பு தெரிவித்து மன்னாரில் போராட்டம் தீவிரம் அடைந்துவரும் நிலையில் அங்கு போராட்டத்தில் ஈடுபட்டிருப்பவர்கள் மீது அரச அடக்குமுறை பயன்படுத்தப்படுகிறது.
+
+போராட்டத்தில் ஈடுபடும் மக்கள் மீதும், அருட் தந்தையர்கள் மீதும் தாக்குதல் மேற்கொள்ளப்படுவதை கண்டித்தும் மன்னார் மக்களின் போராட்டத்திற்கு ஆதரவழிக்கும் முகமாக வடமராட்சி கிழக்கு கட்டைக்காட்டில் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+கட்டைக்காடு பொதுமக்களின் ஒழுங்குபடுத்தலில் கட்டைக்காடு பங்கு தந்தை தலைமையில் இன்று காலை 7:30 மணி அளவில் குறித்த போராட்டம் முன்னெடுக்கப்பட்டது
+
+...
+
+[Data](articles/681699b3.json)
+
+---
+
+### A 2-year-old son of the deceased during Vijay's rally
 
 *2025-09-28 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215104) · `si`
 
-ඉන්දීය නළු තලපති විජේගේ දේශපාලන රැලියේ දී ඇතිවූ තෙරපීමෙන් මිය ගිය අය අතර අවුරුදු 2ක් වයසැති කුඩා දරුවෙකුද සිටින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media reports, a 2-year-old child is a 2-year-old child among the deaths of the death of Indian actor.
 
-මිය ගිය දරුවාගේ පියා මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර ඇත්තේ මෙවැනි ජනාකීර්ණ උත්සවවලට කිසි විටෙකත් තම දරුවන් රැගෙන නොයන ලෙසය.
+The father of the deceased child is referring to the media not to take their children to these crowded festivals.
 
-එමෙන්ම දරුවා හැඬීමට පටන් ගත් නිසා රැගෙන ආ බවත් රැස්වීමට විජේ පැමිණි අවස්ථාවේ විදුලිය විසන්ධි කිරීම නිසා ඔහු කියන දේවල් පැහැදිලිව නොඇසීම හේතුවෙන් සියලු දෙනා බසය ළඟට යාමට උත්සහා කළ බවත් මිය ගිය දරුවාගේ ඥාතියෙකු මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර ඇත.
+The child was brought and brought to the meeting, and he had tried to go to the bus and told the media due to his claim to meet the meeting.
 
-එමෙන්ම ඇය වැඩිදුරටත් සඳහන් කර සිටියේ දරුවාගේ මරණයට විජේට දොස් පැවරිය යුතු නැති බවත් දරුවා එවැනි තැනකට රැගෙන යාම ඔවුන්ගේ වරදක් වන බවය.
+She added that Wijeo is not to blame for the death of the child and that it is wrong to take the child to such a place.
 
-කෙසේවෙතත් මෙම සිදුවීමෙන් මේ වන විට 39 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති අතර එම පිරිස අතර ළමුන් 10ක්, කාන්තාවන් 17, පිරිමි පුද්ගලයින් 12 දෙනෙකු ඇතුළත් වේ.
+However, 39 people were killed and 10 children, 17 women, 17 men.
 
-සිද්ධියෙන් තවත් පුද්ගලයින් 46 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවද ඉන් 21කගේ තත්ත්වය බරපතළ බවද ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+Another 46 persons were injured in the incident and 21 of them were seriously in hospital.
+
+It is reported that about 30,000 people have been present at least 30,000 people for the rally of Vijay.
+
+However, the Ministry of Home Affairs has requested the Ministry of Tamil Nadu regarding the incident.
+
+Meanwhile, the DIG in charge of Tamil Nadu has said that Vijayage Party had requested permission to hold the rally to Karur Lighthouse Plants.
 
 ...
 
 [Data](articles/442b7da1.json)
+
+[Extended Data](ext_articles/442b7da1.ext.json)
+
+---
+
+### 12 ஆவது நாளாக தொடரும் முத்து நகர் விவசாயிகளின் சத்தியக் கிரகப் போராட்டம் ; பிரதமரின் வாக்குறுதிக்கு ஆறு நாட்களே மீதம்
+
+*2025-09-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226335) · `ta`
+
+திருகோணமலை முத்து நகர் விவசாயிகளின் 12வது நாளாக  சத்யாக்கிரக போராட்டம் இன்றும் (28)திருகோணமலை மாவட்ட செயலகம் முன்  தொடர்கிறது.
+
+கடந்த வாரம் கொழும்பில் பிரதமரை சந்தித்த போது பத்து நாட்களுக்குல் தீர்வை வழங்குவதாக கூறி இன்னும் பிரதமர் அவர்களின் காலக்கெடு மீதி 06 நாட்களே உள்ளன, திருகோணமலை வளங்களை சூரையாடுவதை நிறுத்து போன்ற பல வாசகங்களை ஏந்தியவாறும் சத்யாக் கிரகப் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+இதன் போது ஊடகங்களுக்கு இன்று ஞாயிற்றுக்கிழமை (28) கருத்து தெரிவித்த விவசாயிகள் கடந்த 53 வருடங்களாக பரம்பரை பரம்பரையாக செய்து வந்த எங்கள் விவசாய பூமியை எங்களுக்கு வழங்குங்கள்.
+
+இந்திய கம்பனிகளுக்கு சூரிய மின் சக்தி உற்பத்திக்காக வழங்கப்பட்ட விளை நிலங்களை மீளக் கொடுங்கள் எனவும் பிரதமர் 10 நாட்கள் அவகாசம் கொடுத்த நிலையில் இன்னும் ஆறு நாட்களே மீதமுள்ளன நல்லதொரு தீர்வை பிரதமர் எமக்கு வழங்குவார் எர எதிர்பார்க்கிறோம்.
+
+◼️
+
+[Data](articles/739260b3.json)
+
+---
+
+### எல்லாவற்றையும் எதிர்ப்பது என்ற மக்களின் மனநிலையில் மாற்றம் வேண்டும் - ஆளுநர் நா.வேதநாயகன்
+
+*2025-09-28 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226334) · `ta`
+
+எல்லாவற்றையும் எதிர்ப்பது என்ற மக்களின் மனநிலையில் மாற்றம் வேண்டும். கிடைக்கின்ற சந்தர்ப்பங்களைப் பயன்படுத்திக்கொண்டு பேரம் பேசி எமக்குத் தேவையானதை நாம் பெற்றுக்கொள்ள வேண்டும். இதனூடாக எமது மாகாண மக்களின் வாழ்க்கைத்தரம் உயரவேண்டும் என வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் தெரிவித்தார்.
+
+யாழ்ப்பாணம் வர்த்தக கைத்தொழில்துறை மன்றத்தின் வெள்ளிவிழாக் கொண்டாட்டம் யாழ்ப்பாணத்தில் உள்ள தனியார் மண்டபத்தில்  சனிக்கிழமை (27) நடைபெற்றது.
+
+இலங்கையின் மொத்த தேசிய உற்பத்திக்கு எமது மாகாணம் 4 சதவீதத்தையே பங்களிப்புச் செய்கின்றது. இதை 10 அல்லது அதைவிடக் கூடியளவு உயர்த்துவதற்குத் தேவையான வளம் எமது மாகாணத்தில் இருக்கின்றது. நாங்கள் எங்கள் வளங்களை முழுமையாகப் பயன்படுத்தவில்லை.
+
+பெறுமதி சேர் உற்பத்திப் பொருட்களாக மாற்றுவது மற்றும் ஏற்றுமதியை மேற்கொள்வது என்ற இரண்டு முறைமைகளின் ஊடாகவும் தேசிய உற்பத்திக்கான எங்களின் பங்களிப்பை பெருமளவு அதிகரித்துக் கொள்ள முடியும்.
+
+...
+
+[Data](articles/23c21182.json)
+
+---
+
+### கோஹகொட குப்பை மேடு: சூழல் பாதிப்புகள் குறித்து நடவடிக்கை எடுக்கப்படவில்லை – அமைப்புகள் குற்றச்சாட்டு
+
+*2025-09-28 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226331) · `ta`
+
+கடுகாஸ்தோட்டை, கண்டி நகரில் சில பகுதிகளுக்கு சுற்றாடல் பாதிப்புக்களை  ஏற்படுத்தி வரும் கோஹகொட குப்பை மேடு தொடர்பாக உரிய நடவடிக்கை எடுக்குமாறு சூழல் அமைப்புகள் பொறுப்பானவர்களுக்கு வேண்டுகோள் விடுத்தும் இதுவரை நடவடிக்கைகள்  எடுக்கப்பட வில்லை என சூழல் அமைப்புக்கள்  கூறுகின்றன.
+
+கண்டி மாநகர சபையின்,  கோஹகொட குப்பை மேடு குறித்து நம்பந்தப்பட்டவர்களுக்கு  பலமுறை நினைவூட்டப்பட்ட போதிலும், மகாவலி கங்கை மற்றும்  கண்டி பாரிய குடிநீர் வினியோகத்திட்டம் என்பவற்றின் அருகில் ஏற்பட்டு வரும் துர்நாற்றம் மற்றும் சுற்றாடல் மாசடைதல் போன்றவற்றைக்  கட்டுப்படுத்த அவர்கள் தவறிவருவதாக பொது மக்கள் குற்றம் சாட்டுகின்றனர்.
+
+மேற்படி பிரச்சினைகாரணமாக, கட்டுகஸ்தொட்டை மற்றும் மகாவலி கங்கையை அண்மித்து மேற்கொள்ளப்படும்  முதலீடுகளில் பாரிய பிரச்சினை ஏற்பட்டுள்ளதாகத் சில நிறுவனங்கள் தெரிவிக்கின்றன.
+
+இப் பகுதியில் தொடங்கப்பட்ட  வீடமைப்புத்திட்டம், மற்றும் பல சுற்றாடல் ஹோட்டல்கள் அமைக்கும் பணி போன்ற பல அபிவிருத்தித் திட்டங்கள்  மேற்படி  துர்நாற்றம் காரணமாக கைவிடப்படும் நிலை ஏற்பட்டுள்ளது என முதலீட்டாளர்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/6be2cb77.json)
+
+---
+
+### Karawachchiya Court of Justice arrested with pills in a casa
+
+*2025-09-28 16:55:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදවචචය-අධකරණය-ක-ක-සහකවක-මත-පත-සමග-මටට/1-680364) · `si`
+
+Mihintale police said that the suspects were arrested this evening to interrogation with a workers at the Medawachchiya Magistrate's Court.
+
+Mihintale Police say that the woman is a commercial partner in the Medawachchiya Magistrate's Court.
+
+◼️
+
+[Data](articles/f577c49d.json)
+
+[Extended Data](ext_articles/f577c49d.ext.json)
 
 ---
 
@@ -123,23 +471,89 @@ Mihintale Police say that the woman is a commercial partner in the Medawachchiya
 
 ---
 
-### පොලිස් විශේෂ මෙහෙයුම යටතේ තවත් 664ක් අත්අඩංගුවට
+### Another 664 arrested under police special operation
 
 *2025-09-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215102) · `si`
 
-පොලීසිය විසින් දිවයින පුරා සිදුකරන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ විශේෂ මෙහෙයුම යටතේ ඊයේ (28) දිනයේ දී පුද්ගලයින් 664ක් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+At the same day, 664 persons were arrested by the police opening of the criminal and drug prevention of the country.
 
-එමෙන්ම විවිධ අපරාධ සිද්ධීන්වලට සෘජුව සම්බන්ධ පුද්ගලයින් 7 දෙනෙකු අත්අඩංගුවට ගත් බවද පොලීසිය පවසයි.
+Seven persons directly involved in criminal incidents have been arrested, police said.
 
-පොලිස් මාධ්‍ය කොට්ඨාශය සඳහන් කර සිටියේ, මෙම මෙහෙයුමේදී පුද්ගලයින් 28,778 දෙනෙකු පරීක්ෂාවට ලක්කළ බවය.
+The police media division states that 28,778 persons were inspected at the operation.
 
-එහිදී වරෙන්තුකරුවන් 254ක්, විවෘත වරෙන්තුකරුවන් 163ක් අත්අඩංගුවට ගැනීමට පොලීසියට හැකිව ඇත.
+Police can also arrest 254 warrants, 163 open warrants.
 
-මේ අතර මෙම මෙහෙයුම යටතේම බීමත් හා අපරික්ෂාකාරී රිය ධාවනය සම්බන්ධයෙන් පුද්ගලයින් 56 දෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+Meanwhile, 56 persons have been arrested in connection with drunk and unresrtured driving.
 
 ◼️
 
 [Data](articles/9c349f7f.json)
+
+[Extended Data](ext_articles/9c349f7f.ext.json)
+
+---
+
+### சிறுபான்மையா? சகோதர இனமா? ; கண்டியில் ஆர்ப்பாட்டப் பேரணி
+
+*2025-09-28 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226330) · `ta`
+
+இலங்கையிலுள்ள பல்வேறு இனக்குழுக்களை பொது மேடைகளில் அடையாளப்படுத்தும் போது சிறுபான்மை, பெரும்பான்மை என்ற பதங்கள் பயன்படுத்தப்பட்டு வருகின்றன.
+
+இதனைத் தவிர்த்து சகோதர இனம், சகோதர சமயம், சகோதர மொழி என்ற சொற்பதங்கள் பயன்ட படுத்தப்பட வேண்டும் எனக் கோரிக்கை விடுத்து பொதுமக்களை விழிப் பூட்டும் அமைதி ஆர்பாட்டப் பேரணி ஒன்று கண்டியில் சனிக்கிழமை (27)  மாலை இடம்பெற்றது.
+
+கண்டி ஜோர்ஜ் சில்வா பூங்காமுன் இடம் பெற்ற இப்பேரணியை தேசிய சமாதான பேரவை, கண்டி சர்வமத அமைப்பு, கண்டி பிரஜைகள் அமைப்பு போன்ற பல்வேறு அமைப்புக்கள் இணைந்து  ஏற்பாடு செய்திருந்தன. 'தமிழ், முஸ்ரிம் அல்ல. சகோதர இனம்', 'இந்து, இஸ்லாம் அல்ல, சகோதர சமயம்' என்ற அடிப்படையில் பதாதைகள் காட்சிப் படுத்தப்பட்டிருந்தன.
+
+ரேனுகா மல்லியகொட, நீதிக்கான சட்டஅமைப்பின் செயலாளரும், சப்ரகமுவ பல்கலைக்கழக செனட் உறுப்பினருமான சட்டத்தரணி கலாநிதி ஹேரத் எம் ஆரியரத்ன, முன்னாள் பாராளுமன்ற உறுப்பினர் நவரத்ன பண்டா உற்பட பலர் இதில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/7d20c3ae.json)
+
+---
+
+### குர்தீஸ்களின்  பூகோள அரசியல்
+
+*2025-09-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226321) · `ta`
+
+குர்தீஸ்கள் தமது வெளிவிவகார கொள்கையில் அமெரிக்காவுடனும் இஸ்ரேலுடனும் நெருங்கிய தொடர்புகளைக் கொண்டுள்ளனர். இதனால் குர்தீஸ்களின் சுயாட்சி நிர்வாக அரசாங்கம் துருக்கியின் தென் பிராந்தியத்தில் அதிகரித்த பாதுகாப்புச் சவால்களை உருவாக்கக்கூடும் என்பது அங்காராவின் கவலையாக உள்ளது.
+
+◼️
+
+[Data](articles/e73e7db4.json)
+
+---
+
+### New tax changes in Sri Lanka - from October 1 - impact on people, business and country financial
+
+*2025-09-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226324) · `ta`
+
+Sri Lanka's tax history will be an important milestone on October 1, 2025. According to the government's decisions, many important changes are in effect in tax mode. Its aim is to reduce the financial burden, expand revenue and strengthen the financial order in accordance with the IMF recommendations.
+
+◼️
+
+[Data](articles/f629242b.json)
+
+[Extended Data](ext_articles/f629242b.ext.json)
+
+---
+
+### People who have been attacked now go to Tangalle
+
+*2025-09-28 16:41:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගහ-ගතත-අය-දන-තගලලට-බලනන-යනව/1-680363) · `si`
+
+President Anura Kumara Dissanayake said in Japan today to visit Tangalle.
+
+The President said this at a Sri Lankan meeting held in Tokyo.
+
+"What if the law builders break the rules, what does the law do not work? We have proven that to join the law to join one room.
+
+I saw you today go to Tangalle. The President now knows that the anti-affair bill is acting properly.
+
+◼️
+
+[Data](articles/3eb23746.json)
+
+[Extended Data](ext_articles/3eb23746.ext.json)
 
 ---
 
@@ -203,6 +617,48 @@ If a petition is on the country, it must be debated in Parliament. But it does n
 
 ---
 
+### 2029 The digital identity card is mandatory to a job
+
+*2025-09-28 16:31:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/2029-ය-ක-රකයවකට-ඩජටල-හඳණමපත-අනවරය-කරය/1-680362) · `si`
+
+It is compulsory that the government is issued to the digital identity card issued in the UK since 2029 as a preventive measure of illegal immigration.
+
+The Prime Minister Keerv Starma has stated that it will be difficult to come into the United Digtain by digital identity card and that it will make a number of special benefits to the people by the Digital ID.
+
+However, the Opposition has said that the Digital ID is not preventive to prevent illegal migrants.
+
+As the Prime Minister announced the digital identity card system, a petition filed against it. The petition states that the government should not force anyone to register to the identity card issued by the government. The petition is also the first step in controlling and observing the government.
+
+If a petition is on the country, it must be debated in Parliament. But it does not apply to policy.
+
+◼️
+
+[Data](articles/b6d08fe5.json)
+
+[Extended Data](ext_articles/b6d08fe5.ext.json)
+
+---
+
+### World's tallest bridge
+
+*2025-09-28 16:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලව-උසම-පලම/1-680361) · `si`
+
+China Huwajang Grand Canon Bridge opened the world's tallest bridge. The Huwajiang Bridge has built two large mountains for three years is the world's long bridge.
+
+The bridge, which was built in Gu. Gwejo, has built up 625 meters above the flow of the bridge.
+
+Earlier, the world's tallest bridge was won by another bridge in Guva. The record was 565 meters in the forest of the report.
+
+The official opening of the media Huwagang Grand Granid Bridge showed a lonely opening of the bridge, and the way vehicles traveling through the massive structure is partially closed down by clouds.. With the opening of the Huwachi Grand Canan Bridge, the Head of the Provincial Transport Department Shang stated that traffic between the two territory had decreased within two and two minutes.
+
+◼️
+
+[Data](articles/61461294.json)
+
+[Extended Data](ext_articles/61461294.ext.json)
+
+---
+
 ### World's tallest bridge
 
 *2025-09-28 16:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලව-උසම-පලම/101-680361) · `si`
@@ -220,6 +676,30 @@ The official opening of the media Huwagang Grand Granid Bridge showed a lonely o
 [Data](articles/fc18777d.json)
 
 [Extended Data](ext_articles/fc18777d.ext.json)
+
+---
+
+### The next budget does not pay new taxes
+
+*2025-09-28 16:23:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලබන-අයවයන-අලත-බද-ගහනන-න/1-680360) · `si`
+
+President Anura Kumara Dissanayake said in Japan today (28), he said this year's budget is trying to be introduced.
+
+The proceedings of the proceed will also be taken to reduce the percentage of taxes.
+
+President Anura Dissanayake said this at a meeting held in Tokyo with the Sri Lankan community living in Japan.
+
+Some say that some say that the tax burden will be increased.
+
+The President said that the government had to earn income as the economy was small, he said.. The President has also charged the payment of 18 percent of the increase in the economy of all citizens.
+
+President Anura Kumara Dissanayake said that the past budget documents have always taken place in repetition of new tax proposals.
+
+◼️
+
+[Data](articles/3244d1ce.json)
+
+[Extended Data](ext_articles/3244d1ce.ext.json)
 
 ---
 
@@ -321,33 +801,21 @@ The overpopulation of monkeys and toque macaques has long been a persistent and 
 
 ---
 
-### New tax changes in Sri Lanka - from October 1 - impact on people, business and country financial
-
-*2025-09-28 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226324) · `ta`
-
-Sri Lanka's tax history will be an important milestone on October 1, 2025. According to the government's decisions, many important changes are in effect in tax mode. Its aim is to reduce the financial burden, expand revenue and strengthen the financial order in accordance with the IMF recommendations.
-
-◼️
-
-[Data](articles/f629242b.json)
-
-[Extended Data](ext_articles/f629242b.ext.json)
-
----
-
-### සීමා පැන්න තවත් ඉන්දීය ධීවරයින් 12ක් අත්අඩංගුවට
+### 12 Indian fishermen arrested
 
 *2025-09-28 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215100) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව හා එක්ව අද (28) අළුයම් කාලයේ, යාපනය  ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන්  වූ මෙරට මුහුදු සීමාවේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුමක් මඟින්, දේශීය ජල තීරය තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රාවක් සමඟ ඉන්දීය ධීවරයින් දොළොස් දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+The Sri Lanka Navy, the Department of Coast Guard today (28), has been taken into custody by the Navy with a Indian fishermen with Indian fishing vessel in the local floor.
 
-විදේශීය ධීවර යාත්‍රා මෙරට මුහුදු සීමාව උල්ලංඝනය කරමින් සිදු කරනු ලබන නීති විරෝධී ධීවර කටයුතු මැඩ පවත්වා, දේශීය ධීවර ප්‍රජාවගේ ජීවනෝපාය රැකදීම වෙනුවෙන් නාවික හමුදාව සහ වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව නිරන්තර මෙහෙයුම් සිදු කරනු ලබයි.
+The Department of Navy and the Coast Guard are conducting constant operations to protect the livelihood of foreign fishing boundaries.
 
-මෙම මෙහෙයුම මඟින් නාවික හමුදා භාරයට ගත් ඉන්දීය ධීවර යාත්‍රාව සහ එහි සිටි ඉන්දීය ධීවරයින් දොළොස්දෙනා කන්කසන්තුරය වරාය වෙත රැගෙවිත් ඉදිරි නීතිමය කටයුතු සඳහා යාපනය මයිලඩි ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දී ඇත.
+The Indian fishing vessel and its fishermen taken into custody by the Navy were taken to the Jaffna Milokentani Fisheries Office for future legal action.
 
 ◼️
 
 [Data](articles/acb76aa5.json)
+
+[Extended Data](ext_articles/acb76aa5.ext.json)
 
 ---
 
@@ -369,19 +837,21 @@ Cargage staff said the train was slowly traveling and the woman was close to the
 
 ---
 
-### பொடி மெனிக்கேயில் சிக்கிய பெண்
+### The woman caught in the powder menike
 
 *2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கேயில்-சிக்கிய-பெண்/76-365416) · `ta`
 
-பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பொடி மெனிக்கே ரயிலில் மோதிய ஒரு பெண், அதன் இயந்திரத்திற்குள் சிக்கி இருந்த நிலையில் அருகிலுள்ள கரேஜில் பணிப்புரிந்த தொழிலாளர்களால் மீட்கப்பட்டு டிக் ஓயா அடிப்படை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby carge and has been admitted to Dik Oya Basic Hospital.
 
-ஹட்டன் ரயில் நிலையத்திற்கு அருகில், ஹட்டன் - நுவரெலியா பிரதான வீதியில் உள்ள ரயில் கடவைக்கு அருகில் இந்த விபத்து நிகழ்ந்தது.
+The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near Hatton Railway Station.
 
-பொடி மெனிக்கே ரயில் மெதுவாக பயணித்ததாகவும்,குறித்த பெண் நீண்ட நேரம் ரயில் பாதைக்கு அருகில் இருந்ததாகவும் கரேஜ் ஊழியர்கள் தெரிவித்துள்ளனர்.
+Cargage staff said the train was slowly traveling and the woman had been close to the railway line for a long time.
 
 ◼️
 
 [Data](articles/ccc9af4e.json)
+
+[Extended Data](ext_articles/ccc9af4e.ext.json)
 
 ---
 
@@ -478,6 +948,30 @@ Akash and Gokulasree have gone to attend the Tawaka meeting in Karur yesterday. 
 [Data](articles/6c436f12.json)
 
 [Extended Data](ext_articles/6c436f12.ext.json)
+
+---
+
+### It is a serious situation to be a country of powder
+
+*2025-09-28 15:28:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කඩ-නෂපදත-රටක-වම-බරපතල-තතවයක/1-680354) · `si`
+
+The Mahanayala Thera Thera was a serious situation into a drug manufacturing country.
+
+He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowled out for Him Eve.
+
+The government should implement a proper program to suppress drugs.
+
+The government should implement a wide range of programs to rescue the Ruth the generation.  The current government seems to be genuinely desire to rescue the country from drugs.
+
+Rehabilitated the addiction, but then they are getting used again.  The rehabilitation of the addicts should be carried out properly. The Thera emphasized that there is available.
+
+Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
+
+◼️
+
+[Data](articles/9208a47c.json)
+
+[Extended Data](ext_articles/9208a47c.ext.json)
 
 ---
 
@@ -741,6 +1235,24 @@ For the future development of the plantation industry, it is mandatory to switch
 
 ---
 
+### විජේගේ රැළියේ තෙරපීමෙන් 39ක් ජීවිතක්ෂයට
+
+*2025-09-28 14:22:12* · [`adalk`](https://www.ada.lk/international/විජේගේ-රැළියේ-තෙරපීමෙන්-39ක්-ජීවිතක්ෂයට/3-418769) · `si`
+
+ඉන්දීය සුපිරි නළු විජේ දකුණු ඉන්දියාවේ තමිල්නාඩු ප්‍රාන්තයේ පැවත්වූ දේශපාලන රැලියක් අතරතුර ඇති වූ තෙරපීමකින් ළමුන් ඇතුළු අවම වශයෙන් පුද්ගලයින් 39 දෙනෙකු මිය ගොස් ඇති බව නිලධාරීහු පවසති.
+
+දකුණු කරූර් දිස්ත්‍රික්කයේ පැවැති මෙම රැළිය සඳමා දස දහස් ගණනක් ජනතාව රැස්ව සිටියහ. රැළිය ආරම්භ කිරීමද පැය කිහිපයකින් ප්‍රමාද වූ බව ප්‍රාදේශීය මාධ්‍ය වාර්තා කළේය. රූපවාහිනියේ විකාශය වූ රූපවලින් පෙනී ගියේ පිරී ඉතිරී ගිය ජනකායක් අතර ජනතාව ක්ලාන්ත වී සිටින බවයි.
+
+තමිල්නාඩු මහ ඇමති එම්.කේ. ස්ටාලින් කරූර් හි වාර්තාකරුවන්ට පැවසුවේ මියගිය සංඛ්‍යාවට අවම වශයෙන් කාන්තාවන් 17 දෙනෙකු, පිරිමින් 13 දෙනෙකු සහ ළමුන් නව දෙනෙකු ඇතුළත් වන බවයි. තවත් 51 දෙනෙකු ප්‍රතිකාර ලබමින් සිටි බව ඔහු පැවසීය.
+
+මියගිය අයගේ පවුල්වලට ඉන්දීය රුපියල් මිලියනයක (ඩොලර් 11,300; පවුම් 8,400) වන්දි ලබා දෙන බවත්, සිද්ධිය සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන බවත් ස්ටාලින් වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/a129e98c.json)
+
+---
+
 ### More than 125,000 tourists arrive so far this month
 
 *2025-09-28 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226317) · `ta`
@@ -900,6 +1412,22 @@ President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the
 [Data](articles/efc36d98.json)
 
 [Extended Data](ext_articles/efc36d98.ext.json)
+
+---
+
+### සිංහරාජ හා පරිවාර වනාන්තර ආශ්‍රිත ශාක 439ක් තර්ජ්ජනයක
+
+*2025-09-28 14:03:35* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජ-හා-පරිවාර-වනාන්තර-ආශ්‍රිත-ශාක-439ක්-තර්ජ්ජනයක/11-418767) · `si`
+
+රතනපුර දිස්ත්‍රික්කයේ සිංහරාජය වනාන්තරය හා අවට වනාන්තර ආශ්‍රීතව ශාක වර්ග හාරසිය තිස් නමයක් (439) වද වීමට ලක්ව  ඇති  ඌව වෙල්ලස්ස විශ්ව විද්‍යාලයයේ විද්‍යා හා තාක්ෂණ අධ්‍යන අංශයේ ව්‍යාහරික විද්‍යා පීටයේ මහාචාර්ය සිසිර එදිරිවීර මහතා පැවසිය.
+
+ඒ මහතා ඒ බව පැවසුවේ වන සංරක්ෂණ දෙපාර්මේන්තුව මගින් සංවිධානය කල වද  වද වී යාමේ තර්ජනයට ලක්ව ඇති ශාක හදුනා ගැනීම හා සංරක්ෂණය කිරිම පිළිබදව දැනුවත් කිරීමේ වැඩසටහනකට අද (28) වනදා සම්බන්ධ වෙමින් මාධ්‍ය වෙත අදහස් දක්වමිනි. මෙම වැඩසටහන ඊයේ (27) සහා අද දිනයේදී පැවැත්විිනි .
+
+එහිදි වැඩිදුරටත් කතා කල ඒ මහතා " රතනපුර දිස්ත්‍රික්කය වශයෙන් ගත්තොත් අද වෙනකොට  ශාක විශේෂ  හාරසිය තිස් නමයක් වද වීමේ තර්ජනයට ලක් වෙලා තියෙනවා. දත්ත මම ඉදිරිපත් කරන්නේ මම දෙදෙහස් විස්ස රතු දත්ත පොත ආශ්‍රයෙන්. ඒ අනුව ශාක වර්ග හාරසිය තිස් නමයක් අපි දැනට වාර්තා ගත කරලා තියෙනවා . ඒ අතින් ගත්තාම ඔකේසිය පවුලෙන් ගත්තම ඕකිඩ් කියන කුලය විශාල වශයෙන් වද විමේ තර්ජනයට ලක්වෙලා තියෙනවා .
+
+...
+
+[Data](articles/b5532666.json)
 
 ---
 
@@ -1424,553 +1952,5 @@ Ducati's Marc Marquez clinched his seventh MotoGP championship at the Japanese G
 [Data](articles/069f0df9.json)
 
 [Extended Data](ext_articles/069f0df9.ext.json)
-
----
-
-### What happened to Batalanda report
-
-*2025-09-28 12:34:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බටලනද-වරතවටවචච-ද/101-680347) · `si`
-
-Minister of Public and Member of Parliament has said that the report of the Batalawa Commission has been sent to the Attorney General.
-
-The Attorney General will take appropriate action. The report of the Batalawa commission was presented recently.
-
-◼️
-
-[Data](articles/2fe684ff.json)
-
-[Extended Data](ext_articles/2fe684ff.ext.json)
-
----
-
-### What happened to Batalanda report
-
-*2025-09-28 12:34:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බටලනද-වරතවටවචච-ද/1-680347) · `si`
-
-Minister of Public and Member of Parliament has said that the report of the Batalawa Commission has been sent to the Attorney General.
-
-The Attorney General will take appropriate action. The report of the Batalawa commission was presented recently.
-
-◼️
-
-[Data](articles/3367d460.json)
-
-[Extended Data](ext_articles/3367d460.ext.json)
-
----
-
-### Look at Mahinda Ranil
-
-*2025-09-28 12:30:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-බලනන-රනල-යය/1-680346) · `si`
-
-Former President Ranil Wickremesinghe visited the Carlton house this morning to consult former President Mahinda Rajapaksa.
-
-Ranil Wickremesinghe admitted that he was friendly and friendly. The two ex-leaders have been staying in the current political information and the late stories.
-
-◼️
-
-[Data](articles/83b1a467.json)
-
-[Extended Data](ext_articles/83b1a467.ext.json)
-
----
-
-### Arjuna Mahendran should be sent to Singapore
-
-*2025-09-28 12:26:16* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අරජන-මහනදරන-ඕන-සගපපරවට-දනවය/101-680345) · `si`
-
-The Minister of Defense and Parliamentary Affairs Ananda Wijepala said that the attempt to arrest the former Central Bank Governor Arjuna Mahendran has not been abandoned.
-
-He said that he was using strategic tactics and said that he had informed the country as a essential person to Sri Lanka
-
-The laws of the country said that Arjun Mahendran is also allegedly allocated and a Singapore.
-
-◼️
-
-[Data](articles/3ec96cce.json)
-
-[Extended Data](ext_articles/3ec96cce.ext.json)
-
----
-
-### Arjuna Mahendran should be sent to Singapore
-
-*2025-09-28 12:26:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අරජන-මහනදරන-ඕන-සගපපරවට-දනවය/1-680345) · `si`
-
-The Minister of Defense and Parliamentary Affairs Ananda Wijepala said that the attempt to arrest the former Central Bank Governor Arjuna Mahendran has not been abandoned.
-
-He said that he was using strategic tactics and said that he had informed the country as a essential person to Sri Lanka
-
-The laws of the country said that Arjun Mahendran is also allegedly allocated and a Singapore.
-
-◼️
-
-[Data](articles/686f6d5e.json)
-
-[Extended Data](ext_articles/686f6d5e.ext.json)
-
----
-
-### World's tallest bridge opens in China, two hours of travel reduction in two minutes
-
-*2025-09-28 12:22:44* · [`adalk`](https://www.ada.lk/international/ලොව-උසම-පාලම-චීනයේදී-විවෘත-කරයි--පැය-දෙකක-ගමන්-කාලය-විනාඩි-දෙකකට-අඩුවෙයි/3-418765) · `si`
-
-World's tallest bridge records traffic in southwestern China's Guides. After three years of construction, the passing period of the Grand Canyon is reduced to two hours from two hours.
-
-The Huwaching Grand Canon Bridge at the mountain range of Guideshow is 625 meters high by the Golden Gate Bridge of San Francisco.
-
-With the opening of a major gap with a major gap with a major gap of 1,420 meters, China's tallest bridge was 565.4 meters in the Bayipan River.
-
-◼️
-
-[Data](articles/5679dc58.json)
-
-[Extended Data](ext_articles/5679dc58.ext.json)
-
----
-
-### President to meet Sri Lankan community in Japan today
-
-*2025-09-28 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/112991/president-to-meet-sri-lankan-community-in-japan-today) · `en`
-
-President Anura Kumara Dissanayake, who is currently on an official visit to Japan, is scheduled to meet with the Sri Lankan community residing in Japan this afternoon (28) in Tokyo.
-
-President Dissanayake landed in Japan yesterday (27), marking the beginning of his three-day official visit.
-
-Upon his arrival, he was warmly welcomed by Isomata Akio, the Japanese Ambassador to Sri Lanka, Professor Pivithuru Janak Kumarasinghe, the Sri Lankan Ambassador to Japan; and senior officials from Japan’s Ministry of Foreign Affairs.
-
-Yesterday (27), the President attended the Sri Lanka Day Celebration as the chief guest, organized in line with “Expo 2025” in Osaka. The event was jointly organized by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan.
-
-Following yesterday’s events, the President departed this morning (28) from Shin-Osaka railway station to Tokyo, where he is scheduled to meet the Sri Lankan community in Japan later this afternoon, the President’s Media Division.
-
-...
-
-[Data](articles/8b9dffba.json)
-
-[Extended Data](ext_articles/8b9dffba.ext.json)
-
----
-
-### President to Meet Sri Lankans In Japan
-
-*2025-09-28 12:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/president-to-meet-sri-lankans-in-japan) · `en`
-
-Colombo(News 1st):President Anura Kumara Dissanayake is scheduled to meet with the Sri Lankan community in Japan today.According to the Presidential Media Division, the event will take place in Tokyo.The President arrived at Kansai International Airport in Osaka yesterday morning, marking the start of his official visit to Japan, undertaken at the invitation of the Japanese government.He also attended the EXPO 2025 exhibition yesterday.During the visit, President Dissanayake is expected to hold meetings with the Emperor of Japan and the Japanese Prime Minister.
-
-◼️
-
-[Data](articles/03163789.json)
-
-[Extended Data](ext_articles/03163789.ext.json)
-
----
-
-### Improving Sri Lanka's accountability program;  Anandi Sasitharan emphasizes the UN Human Rights Council
-
-*2025-09-28 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226304) · `ta`
-
-If only the Sri Lankan accountability program is to be completed in this series, the project should be upgraded to the gathering of resources beyond war crimes, violations of humanity and human rights violations beyond human rights violations.. Former Minister of Northern Province and the victim of the disappearance of the victim, Ananthi Sasitharan said that it would be further deceiving the affected parties who were already disappointed by the internal systems without any improvement.
-
-He said this while addressing a side event of the 60th session of the United Nations Human Rights Council.
-
-Immediate action should be taken in connection with the ethnic cleansing against the Tamil people in Sri Lanka. To approach the matter, there is a need for an international investigation system that can be fully justified and freedom.
-
-...
-
-[Data](articles/8361bee1.json)
-
-[Extended Data](ext_articles/8361bee1.ext.json)
-
----
-
-### The General Secretary of the National People's Power
-
-*2025-09-28 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226303) · `ta`
-
-The general secretary and parliamentarian of the National People's Power and Member of Parliament, Dr. Nihal Abeysinghe, said that the new constitutional draft prepared from the 2015-2019 will be restored and the process of reading the proposals submitted by the political parties to be amended.
-
-A workshop was held in Switzerland from the 14th to 21st to clarify the members of the Sri Lankan ruling and opposition parties on the country's federal political system and national integrity of the country in connection with the Sri Lanka -Switzerland Parliamentary Alliance Association.
-
-A public meeting was held with 13 members who went there to represent Sri Lanka's ruling and opposition parties.
-
-...
-
-[Data](articles/1f940214.json)
-
-[Extended Data](ext_articles/1f940214.ext.json)
-
----
-
-### Is the unity of the opposition parties possible?
-
-*2025-09-28 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226285) · `ta`
-
-Speaking at a recent UNP, its leader and former president, Ranil Wickremesinghe and the leaders of other parties, emphasized the need to unite the government to oppose the government.
-
-◼️
-
-[Data](articles/7cfdc8ef.json)
-
-[Extended Data](ext_articles/7cfdc8ef.ext.json)
-
----
-
-### Over 125,000 tourist arrivals recorded in September
-
-*2025-09-28 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112990/over-125000-tourist-arrivals-recorded-in-september) · `en`
-
-A total of 126,379 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
-
-According to data released by the SLTDA, a total of 37,179 tourists have arrived from India which accounts to 29.4%. Furthermore, 8,937 persons from the United Kingdom, 7,799 from Germany, 7,049 from Australia and 7,226 Chinese nationals have also visited Sri Lanka in the month of September.
-
-Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,692,902 with the release of the latest figures for September.
-
-Among them, 362,774 individuals are from India, 160,078 from the UK and 121,452 are from Russia, the SLTDA noted.
-
-◼️
-
-[Data](articles/dcc52827.json)
-
-[Extended Data](ext_articles/dcc52827.ext.json)
-
----
-
-### Stealing van, mortgage, lover who rides with girlfriend
-
-*2025-09-28 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேனைத்-திருடி-அடகு-வைத்து-காதலியுடன்-சவாரி-செய்த-காதலன்/76-365406) · `ta`
-
-The suspect was arrested when he returned home with his girlfriend to buy a super motorcycle, using the money at a shop in Pallapola, Matale, who stole 7 million worth of van from a vehicle selling in Kandy.
-
-During a long investigation conducted on the basis of information received by the Kandy Headquarters Police Crime Branch, Kandy. A 32 -year -old man from Madipola, Matale, was arrested at a restaurant on Senanayake Street.
-
-D.S.. The suspect, who entered a vehicle selling at Senanayake Street last night, stole a Toyota Nova van and its associated documents from the shop.
-
-The suspect has a mortgage broker in Pallapola area, Matale. Ponetting the van for 1.5 million and bought a modern motorcycle with that money. He was arrested by the police while traveling with his girlfriend at the same restaurant he worked.
-
-◼️
-
-[Data](articles/90bce81b.json)
-
-[Extended Data](ext_articles/90bce81b.ext.json)
-
----
-
-### Diluted Geneva draft
-
-*2025-09-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226284) · `ta`
-
-The UN. At the 60th session of the Human Rights Council, the proposal was completed at 1.00 pm on the 25th of this month.
-
-◼️
-
-[Data](articles/a29136e5.json)
-
-[Extended Data](ext_articles/a29136e5.ext.json)
-
----
-
-### President Mahinda Rajapaksa today visits the Sri Lankan community in Japan
-
-*2025-09-28 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215095) · `si`
-
-President Anura Kumara Dissanayake is due to meet the Sri Lankan community in Japan at Tokyo.
-
-The President arrived in Japan yesterday (27), commenced his three-day Japanese official visit.
-
-Ambassador of Japanese in Sri Lanka Aquian Soomala, Sri Lanka's Ambassador to Japan and senior officials of the Ministry of External Affairs Janakarachchi welcomed the President.
-
-President Anura Kumara Dissanayake was the chief guest at the Sri Lanka Day celebration of the Sri Lanka Day celebration in Japan, Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan.
-
-The President is due to meet the Sri Lankan community living in Japan this afternoon after yesterday's programs.
-
-During his visit, President Anura Kumara Dissanayake is due to meet the Natural Prime Minister of Japan and the Minister of Defense, the Minister of External Affairs, Economic and Industries.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-...
-
-[Data](articles/46cff94c.json)
-
-[Extended Data](ext_articles/46cff94c.ext.json)
-
----
-
-### China’s Huajiang Grand Canyon Bridge opens as world’s tallest bridge
-
-*2025-09-28 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112988/chinas-huajiang-grand-canyon-bridge-opens-as-worlds-tallest-bridge) · `en`
-
-The Huajiang Grand Canyon Bridge in southwest China’s Guizhou Province will open today (28), officially becoming the tallest bridge in the world.
-
-Stretching 2,890 meters in length with a main span of 1,420 meters, the Huajiang Grand Canyon Bridge rises 625 meters above the river, setting a new global record.
-
-It is not only the tallest bridge on earth but also the world’s largest span bridge ever built in a mountainous area.
-
-Construction began in early 2022, with engineers and workers confronting the steep natural barrier of the Huajiang Grand Canyon. To achieve millimeter-level precision at an altitude of 600 meters, the project employed advanced methods including drone technology, intelligent monitoring systems, and ultra-high-strength building materials.
-
-The completion of the bridge marks a major milestone for infrastructure development in China’s mountainous southwest, boosting connectivity and showcasing the country’s engineering capabilities.
-
-◼️
-
-[Data](articles/2ee3e2c6.json)
-
-[Extended Data](ext_articles/2ee3e2c6.ext.json)
-
----
-
-### இராணுவத்தின் குற்றங்களை வெளிப்படுத்த சோமரத்ன ராஜபக்ஷ விசாரிக்கப்படுவாரா? ; வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐ.நா. The reporters of the group question the government
-
-*2025-09-28 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226302) · `ta`
-
-The United Nations reporters on the disappearance of the disappearance of the United Nations have questioned the Sri Lankan government as Somatna Rajapakse has announced that he will be included in the investigation process as he is ready to testify on the crimes committed by the military.
-
-Responding to the government, Minister Harshana Nanayakkara said that the officers of the Office of Missing Persons had met Somatna Rajapaksa and had received the necessary information.
-
-Following him, Justice Minister Harshana Nanayakkara said that the officers of the office of the recent missing persons had visited Somatna Rajapakse at the prison and had been found.
-
-The 29th Meeting of the Missing Field Committee on the 60th Session of the United Nations Human Rights Council commenced in Geneva last Monday (22). The Sri Lankan affair was examined yesterday (26) at the meeting, which will be held until October 3.
-
-...
-
-[Data](articles/7ba545ae.json)
-
-[Extended Data](ext_articles/7ba545ae.ext.json)
-
----
-
-### Vijay escapes: Pussy is stuck
-
-*2025-09-28 11:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-தப்பினார்-புஸ்ஸி-சிக்கினார்/175-365405) · `ta`
-
-Karur city police have filed a case against three persons, including the party's general secretary Pussy Anand, in connection with the death of 39 people at the Tauga campaign meeting.
-
-At least 39 people were killed at the Tauga campaign at Karur Velusamipuram yesterday (27). More than 50 people were injured. Karur city police have filed a case against the three persons under five sections of the Karur city police, VP Mathiyalakan, General Secretary N. Anand and Deputy General Secretary Nirmal Kumar.
-
-Accordingly, Section 105 (Penalty for the Murder), Section 110 (Criminal Investigation), Section 125 (Hurry Risk or Punishment for Human Life)
-
-◼️
-
-[Data](articles/5d84da2e.json)
-
-[Extended Data](ext_articles/5d84da2e.ext.json)
-
----
-
-### 77-year-old woman dies in bus accident in Rathgama
-
-*2025-09-28 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112987/77-year-old-woman-dies-in-bus-accident-in-rathgama) · `en`
-
-A woman has died in an accident reported along the Galle–Colombo main road, at the Rathgama junction.
-
-The accident occurred when a bus traveling from Galle towards Hikkaduwa rammed onto the woman, who was walking along the side of the road.
-
-The woman, who sustained severe injuries in the accident, succumbed while being admitted to the Karapitiya Hospital.
-
-The body has been placed at the morgue of the Karapitiya Hospital.
-
-The driver of the bus involved in the accident has been taken into custody.
-
-◼️
-
-[Data](articles/d3a2c345.json)
-
-[Extended Data](ext_articles/d3a2c345.ext.json)
-
----
-
-### World Tourism Day Celebration at Katunayake Airport
-
-*2025-09-28 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226301) · `ta`
-
-World Tourism Day was celebrated on the morning of September 27, with the officials of the Sri Lanka Tourism Development Authority, the Visit to the Katunayake International Airport.
-
-Mrs. Anusha Damayanti, Director of the Sri Lanka Tourism Development Authority, was the chief guest of the event.
-
-During this time, foreign tourists visited the country were warmly welcomed and packs of cake and tea were given to them.
-
-At the same time, a group of upland and folk dancers performed dances for tourists who arrived at the Katunayake airport.
-
-Speaking at the event, Anusha Damayanti, Director of the Sri Lanka Tourism Development Authority, said that 1.67 million foreign tourists have visited the country so far.
-
-The event was held on September 27 at 12:00 pm at the Katunayake airport.
-
-◼️
-
-[Data](articles/b941b85d.json)
-
-[Extended Data](ext_articles/b941b85d.ext.json)
-
----
-
-### ’’வழக்கறிஞர்’’ ’’டாக்டர்’’ ஸ்டிக்கர்கள் தடை
-
-*2025-09-28 11:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கறிஞர்-டாக்டர்-ஸ்டிக்கர்கள்-தடை/175-365404) · `ta`
-
-The Motor Transport Department says that it is illegal to paste stickers in different sizes in front of vehicles to represent lawyers, doctors or other experts, schools or universities.
-
-The Department of Transport also states that only the motor revenue license is allowed in the glasses of the vehicles.
-
-It is also allowed to blackened one -fifth of the mirror to prevent the sunlight from entering the interior.
-
-◼️
-
-[Data](articles/8da7dd98.json)
-
-[Extended Data](ext_articles/8da7dd98.ext.json)
-
----
-
-### Slice
-
-*2025-09-28 11:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாண்-துண்டில்-நறுக்கென-கடிப்பட்ட-விரல்-தோல்-துண்டு/76-365403) · `ta`
-
-A shocking incident has been reported in Hatton. The client discovered a portion of human skin from a finger in a piece of pieces purchased from the local bakery.
-
-Customer. 180 ரூபாய் கொடுத்து வியாழக்கிழமை (25) இரவு உணவிற்கு பாண்  வாங்கியதாக தகவல்கள் தெரிவிக்கின்றன. While consuming the pan, the person took care of the skin and avoided eating more. Hatton-Dikoya Municipal Council has handed over to the Public Health Inspectors (PHI), polluted with leather.
-
-After reviewing the evidence, the PhIs said the Bakery owner had already been charged with the Hatton Magistrate's Court several times and sued for maintaining the premises unhealthy.
-
-Officials said that steps are being taken to file several new cases against the bakery owner in connection with the recent incident.
-
-◼️
-
-[Data](articles/aeeb00e2.json)
-
-[Extended Data](ext_articles/aeeb00e2.ext.json)
-
----
-
-### Boy killed
-
-*2025-09-28 11:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-சிறுவன்-பலி/175-365402) · `ta`
-
-A 14 -year -old boy dies after colliding with a train from Badulla to Colombo Fort.
-
-The boy from Medagama, who was traveling with his friends to Colombo Fort with his friends, landed on a train to Tissmalola.
-
-Police investigations revealed that the boy was hit by the train while trying to cross the rails.
-
-◼️
-
-[Data](articles/0b977545.json)
-
-[Extended Data](ext_articles/0b977545.ext.json)
-
----
-
-### If all parties join the UNP, no political force can compensate for it- Naveen Dissanayake
-
-*2025-09-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226296) · `ta`
-
-If all parties join with the United National Party, no other political force can compensate for it. About 15 lakh voters do not vote due to the split between the United People's Power and the UNP. Former Minister Naveen Dissanayake said that if their expectation is met, we can easily ensure our success.
-
-He further stated that he was speaking to the media after a discussion held on Sunday in Anuradhapura.
-
-Continuing negotiations with United People's Power. Other parties have agreed to work with us. If all parties can unite within the camp of the United National Party can start the journey for victory from there. The United National Party alone has about 40 lakh votes.
-
-So our expectation is that these 40 lakh voters should be added to one place. I am actively involved in the effort. So all the UNP. We also urge supporters to participate in it. Leadership is not a problem here. So the leaders of both parties can hold those positions.
-
-...
-
-[Data](articles/23c170bc.json)
-
-[Extended Data](ext_articles/23c170bc.ext.json)
-
----
-
-### Overcoming name is another name of the Nawawala accident
-
-*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/1-680344) · `si`
-
-There was another name that was wounded by the electricity driven dack in the electrical monk who lives in the Paniyagama Oya Aranya Senasana.
-
-The monks 7 monks were in the event recently and another six were wounded.
-
-The Indicota Thero, Pannipitiya, is being treated at the Kurunegala Teaching Hospital.
-
-The injured in the accident was receiving treatment at the ICU of the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/39811de7.json)
-
-[Extended Data](ext_articles/39811de7.ext.json)
-
----
-
-### Overcoming name is another name of the Nawawala accident
-
-*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/101-680344) · `si`
-
-There was another name that was wounded by the electricity driven dack in the electrical monk who lives in the Paniyagama Oya Aranya Senasana.
-
-The monks 7 monks were in the event recently and another six were wounded.
-
-The Indicota Thero, Pannipitiya, is being treated at the Kurunegala Teaching Hospital.
-
-The injured in the accident was receiving treatment at the ICU of the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/6a17bd9e.json)
-
-[Extended Data](ext_articles/6a17bd9e.ext.json)
-
----
-
-### Saudi Arabian military advisor met the defense secretary
-
-*2025-09-28 11:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவுதி-அரேபிய-இராணுவ-ஆலோசகர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365401) · `ta`
-
-Captain (Navy) Hussain Othman Al Kowileet, Defense Advisor of Saudi Arabian Embassy in New Delhi and Colombo, met with Defense Secretary Eyaris Marshall Sampath Sampath Sampath (retirement) at the Ministry of Defense on Wednesday (26).
-
-The Saudi Arabian security consultant was warmly welcomed by the Defense Secretary and held a smooth discussion with him.
-
-During this time they exchanged comments on mutual interested matters and strengthening bilateral cooperation. They also recalled the long -term goodwill between the two countries.
-
-◼️
-
-[Data](articles/d0403eee.json)
-
-[Extended Data](ext_articles/d0403eee.ext.json)
-
----
-
-### First ‘Health and Wellness Center’ opens in Mapalagama
-
-*2025-09-28 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112986/first-health-and-wellness-center-opens-in-mapalagama) · `en`
-
-A health service will be established in Sri Lanka which prioritizes the well-being of the people and ensures accountability, while health professionals are committed to safeguarding public health, the Minister of Health and Mass Media, Dr. Nalinda Jayatissa stated.
-
-The Minister said this while participating in the opening of the Mapalagama Health and Wellness Center in the Galle District as the first step of the “Healthy Sri Lanka” program.
-
-Under this program, which is implemented under the government’s innovative program for a healthy country, 100 primary health care centers are scheduled to be opened this year.
-
-The centers, established in convenient and easily accessible locations, will operate as comprehensive primary healthcare units offering a wide range of essential services.
-
-...
-
-[Data](articles/478d4934.json)
-
-[Extended Data](ext_articles/478d4934.ext.json)
-
----
-
-### Digital ID is compulsory for working in the UK
-
-*2025-09-28 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215094) · `si`
-
-As a goal of suppressing illegal immigration, digital identity card is to be used to work in the UK.
-
-The New Digital Identity Card Scheme is difficult to serve in the UK, which provides a range of benefits to the citizens.
-
-Foreign media reports that after the arrival of the Labor Party, the government has been stressed to solve the illegal immigration problem with the arrival of more than 50,000 migrants.
-
-It is difficult to work illegally working in the country due to the new digital identity card.
-
-◼️
-
-[Data](articles/c0c8e43d.json)
-
-[Extended Data](ext_articles/c0c8e43d.ext.json)
 
 ---

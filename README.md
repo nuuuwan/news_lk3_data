@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 00:36:37**
+As of **2025-09-29 01:05:39**
 
 ## Newspaper Stats
 
-*Scraped **79,289** Articles*
+*Scraped **79,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,94 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,642
-adaderanalk | 10,238
-tamilmirrorlk | 11,870
+adaderanalk | 10,240
+tamilmirrorlk | 11,871
 virakesarilk | 12,921
-adaderanasinhalalk | 13,748
+adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,284 (100.0%) of 79,289 articles have been extended.
+79,293 (100.0%) of 79,293 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-29 (Monday)
+
+### India wins the Jan 9th consecutive year
+
+*2025-09-29 00:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215115) · `si`
+
+Pakistani bowlers were killed by Thilak Virmar's militant battle, defeated the Pakistan's 5 wickets in 5 wickets.
+
+India was able to cross the last (19.4) in the final (19.4) in the final (19.4) of the final (19.4) of the final.
+
+The main pilot of the Indian victory, Thilak Virma scored 69 runs while he faced 53 balls.
+
+Verma, who stayed in the wicket, and nine fours, and nine fours were courageous.
+
+Abhishek Shaurma, who gave an ineffective start to the Indian innings, was bowled out for 5 runs today.
+
+Pakistani bowlers were able to sit back in the stupa in the 20 runs.
+
+However, the 4th wicket was left to the 4th wicket and there was nothing but the 4th wicket to be restored to Pakistan.
+
+Shahin Shah Afridi (1/20) and Fahim Asshahf (3/29) were a successful bowler.
+
+However, Haris Rauf was the main factor in the Pakistan's 50-year-old defeat.
+
+Batting first Pakistan scored 146 runs for the loss of 146 in 19.1 overs.
+
+◼️
+
+[Data](articles/66b66c30.json)
+
+[Extended Data](ext_articles/66b66c30.ext.json)
+
+---
+
+### India, the champion of beating Pakistan
+
+*2025-09-29 00:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தானை-வீழ்த்தி-சம்பியனான-இந்தியா/44-365442) · `ta`
+
+India became the ninth time in the final with Pakistan on Sunday (28) in Dubai, United Arab Emirates.
+
+Suriyakumar Yadav, the captain of the Indian team, won the tournament in the currency spin, and worked for Pakistan first.
+
+Pakistan, who was the first to bat, got a good start by Sahibsada Burhan and Backer Saman. Pakistan scored 113 runs for the loss of 113 runs in 12.4 overs after Burhan fell to the Emperor with 57 (38), Kuldeep Yadav (4), Aksar Patel (2), Varun Emperor and Jasprit Bumrah (2) and 9 wickets for 19.1 wickets.
+
+In reply, India scored 147 runs in the first place, with Bahim Ashraf (2) and Shakin Shah Abri, Abhishek Sharma, team captain Suriyakumar Yadav and Shubman Kill lost 3 wickets in 4 overs.
+
+Then Tilak Verma and Sanju Samson moved to April Ahmad as Samson fell to Samson. Shivam Dube, who then joined Tilak, moved to India with 33 (22) runs and Dubey fell to Bahim at the end of the 19th over.
+
+...
+
+[Data](articles/8a9eaa88.json)
+
+[Extended Data](ext_articles/8a9eaa88.ext.json)
+
+---
+
 ### 2025-09-28 (Sunday)
+
+### Creating eco-friendly schools and environmentally responsible children a key objective - PM
+
+*2025-09-28 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113008/creating-eco-friendly-schools-and-environmentally-responsible-children-a-key-objective-pm) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that as a government of the National People’s Power, it is the national vision to build a sustainable environment that ensures the sustain of all living beings and one of the key objectives is to create eco-friendly schools and environmentally responsible children through educational reforms.
+
+The prime minister made these remarks while addressing the opening of the newly established Moon Memorial Museum at the Royal Botanic Gardens, Peradeniya, on Sunday (28).
+
+The newly opened Moon Memorial Botanical Museum was established to commemorate the founder of the garden, Mr. Alexander Moon, marking the celebration of 200 years of the proud history of botany at the Royal Botanical Gardens, Peradeniya.
+
+...
+
+[Data](articles/23e69b7b.json)
+
+[Extended Data](ext_articles/23e69b7b.ext.json)
+
+---
 
 ### Asian Cup: 147 runs for India
 
@@ -146,6 +220,30 @@ Inspection was revealed that he was submerged with a manner similar to the gold 
 [Data](articles/7958b6c3.json)
 
 [Extended Data](ext_articles/7958b6c3.ext.json)
+
+---
+
+### Body of Indian monk who died in cable car crash repatriated
+
+*2025-09-28 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113007/body-of-indian-monk-who-died-in-cable-car-crash-repatriated) · `en`
+
+The body of an Indian monk, who was among the eight Buddhist monks killed in a cable car crash at a forest monastery in Sri Lanka, was sent back to India on Sunday, officials said today.
+
+Also, the toll in the Wednesday night’s crash has risen to eight with the death of one of the six injured monks, the officials added.
+
+Seven Buddhist monks, including the Indian national, were killed and six others were injured after the cable-operated rail cart came crashing at the Na Uyana Aranya Senasanaya, a renowned Buddhist monastery located in Nikaweratiya.
+
+“The body of the Indian monk has been sent back to his relatives in Maharashtra in India,” the Indian High Commission said.
+
+The body of Dhamma Gavesi, 34, a native of Wardha district, was sent to Mumbai, one of his relatives said in India.
+
+“One of the six monks, who was critically injured and in hospital, passed away last night, increasing the death toll to eight,” Sri Lankan officials said.
+
+...
+
+[Data](articles/86a6fa74.json)
+
+[Extended Data](ext_articles/86a6fa74.ext.json)
 
 ---
 
@@ -877,37 +975,45 @@ Subsequently, letters were submitted to the special committees who visited the v
 
 ---
 
-### ஜனாதிபதியின் அமெரிக்க விஜயம் ஏமாற்றமளித்துள்ளது  - திஸ்ஸ அத்தநாயக்க
+### President's visit to the president is disappointing - Tissa Attanayake
 
 *2025-09-28 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226342) · `ta`
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க இதுவரை சென்ற வெளிநாட்டு பயணங்கள் எவ்வாறு நாட்டுக்கு பயனற்றவையோ அதேபோன்று தான் அவரது அமெரிக்க விஜயமும் அமைந்துள்ளது. அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்புடன் தீர்வை வரி குறித்து பேச்சுவார்த்தைகளை முன்னெடுத்து வரி சலுகை பெறப்படும் என பரவலாக எதிர்பார்க்கப்பட்ட போதிலும், அந்த எதிர்பார்ப்பை நிறைவேற்ற ஜனாதிபதி அநுரகுமார திஸாநாயக்க தவறியுள்ளதாக ஐக்கிய மக்கள் சக்தியின் தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+President Anura Kumara Dissanayake has been on his US visit as the foreign trips are useless to the country.. United People's Power Organizer Tissa Attanayake said President Anura Kumara Dissanayake had failed to meet the expectation, despite widely expected that the tax concession would be received by US President Donald Trump.
 
-கண்டியில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held in Kandy on Sunday (28).
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க இதுவரையில் சுமார் 7 – 8 நாடுகளுக்கு பயணம் செய்திருக்கின்றார். கடந்த வாரம் அமெரிக்கா சென்றிருந்த அவர் தற்போது ஜப்பான் சென்றுள்ளார்.
+President Anura Kumara Dissanayake has traveled to about 7 - 8 countries so far. He was in the US last week and is currently in Japan.
 
-ஜப்பான் விஜத்துடன் சேர்த்து அவரது வெளிநாட்டு பயணங்களால் நாட்டுக்கு என்ன நன்மை கிடைத்துள்ளது? அமெரிக்கா சென்றிருந்த ஜனாதிபதி அநுர, இலங்கை எதிர்கொண்டுள்ள பாரிய நெருக்கடியான தீர்வை வரி தொடர்பில் ட்ரம்புடன் பேச்சுவார்த்தைகளை முன்னெடுப்பார் என்று பரவலாக எதிர்பார்க்கப்பட்டது.
+What is the benefit of the country by his foreign trips along with a visit to Japan? It was widely expected that President Anura, who had traveled to the US, would hold talks with Trump on the tax on Sri Lanka.
+
+No news has been reported that President Anura Kumara Dissanayake met with Trump as the US visit is currently over.
 
 ...
 
 [Data](articles/801f9d5b.json)
 
+[Extended Data](ext_articles/801f9d5b.ext.json)
+
 ---
 
-### அடுத்த ஜனாதிபதித் தேர்தலில் ஆட்சி மாற்றத்தை  ஏற்படுத்துவதற்கு எதிர்க்கட்சிகள் இப்போதிருந்தே தயாராக வேண்டும்  - ரவி கருணாநாயக்க
+### Opposition parties should now be prepared to bring about regime change in the next presidential election - Ravi Karunanayake
 
 *2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226338) · `ta`
 
-தலைமைத்துவம், சின்னம் என வெ வ்வேறு விடயங்களைக் கூறிக் கொண்டு இனியும் பிளவுகளை நோக்கி பயணிக்க கூடாது. அடுத்த ஜனாதிபதித் தேர்தலில் ஆட்சி மாற்றத்தை ஏற்படுத்துவதற்கு எதிர்க்கட்சிகள் இப்போதிருந்தே தயாராக வேண்டும். அதுவே எதிர்க்கட்சி ஆதரவாளர்களின் அபிலாஷையாகவுள்ளதாக பாராளுமன்ற உறுப்பினர் ரவி கருணாநாயக்க தெரிவித்தார்.
+Leadership and symbol. Opposition parties must now be prepared to bring about regime change in the next presidential election. Parliamentarian Ravi Karunanayake said that that would be the aspiration of opposition supporters.
 
-கொழும்பில் நேற்று சனிக்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held in Colombo yesterday (27).
 
-ஜனநாயகத்தைப் பாதுகாப்பதற்கான அனைவரும் ஒன்றிணைய வேண்டும் என்பதே மக்களின் அபிலாஷையாகவுள்ளது. இது வசனங்களுக்கு மாத்திரம் வரையறுக்கப்படவில்லை. எனவே இதனை நடைமுறையில் சாத்தியமாக்குவதற்கு அனைவரும் அர்ப்பணிப்புடன் செயற்பட வேண்டும். அனைத்து கட்சிகளும் ஒன்றிணைவது மாத்திரமின்றி அதிலிருந்து எவ்வாறு முன்னோக்கிப் பயணிப்பது என்பதில் அவதானம் செலுத்த வேண்டும்.
+The aspiration of the people is that everyone to protect democracy should unite. This is not just defined for verses. So everyone must act with dedication to make this practically possible. All parties have to pay attention to how to travel from it.
+
+Leadership and symbol. Opposition parties must now be prepared to bring about regime change in the next presidential election. The United National Party, the United People's Power is not two different parties. These are the same parties. I am also committed to accomplishing it.
 
 ...
 
 [Data](articles/8e238077.json)
+
+[Extended Data](ext_articles/8e238077.ext.json)
 
 ---
 
@@ -983,19 +1089,23 @@ Tang’s investigation was unusually swift and followed similar investigations i
 
 ---
 
-### போதைப்பொருள் கடத்தல் தொடர்பில் சிவப்பு அறிவித்தல் விடுக்கப்பட்டுள்ள  72 சந்தேகநபர்களில் 32 பேர் எங்கிருக்கிறார் என்பதும் தெரியும்  - பொது மக்கள் பாதுகாப்பு அமைச்சர்
+### Of the 72 suspects who have been declared red on drug trafficking, 32 are also known - Minister of Public Security
 
 *2025-09-28 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226336) · `ta`
 
-உள்நாட்டில் மாத்திரமின்றி வெளிநாடுகளிலிருந்து இலங்கையில் போதைப்பொருள் கடத்தலுடன் தொடர்புடையவர்களை கைது செய்வதற்கான நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளன. சிவப்பு அறிவித்தல் விடுக்கப்பட்டுள்ள 72 சந்தேகநபர்களில் 32 சந்தேகநபர்கள் எங்கு இருக்கின்றார்கள் என்பதும் இனங்காணப்பட்டுள்ளதாக பொது மக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+Steps have been taken to arrest those involved in drug trafficking from abroad in Sri Lanka. Public Security Minister Ananda Wijebala said that the 72 of the 72 suspects who have been made of red have been identified.
 
-நேற்று சனிக்கிழமை (27)  மல்வத்து மற்றும் அஸ்கிரிய பீடங்களின் மகாநாயக்க தேரர்களை சந்தித்து போதைப்பொருள் ஒழிப்பு திட்டங்கள் தொடர்பில் தெளிவுபடுத்திய பின்னர் ஊடகங்களுக்கு கருத்து வெளியிட்ட போதே அவர் இதனைத் தெரிவித்தார். இது தொடர்பில் அவர் மேலும் குறிப்பிடுகையில்,
+He was speaking to the media after meeting with the Mahanayaka Thera of the Malwathu and Asgiriya Faculty on Saturday. As he further stated in this regard,
 
-உள்நாட்டில் மாத்திரமின்றி வெளிநாடுகளிலிருந்து இலங்கையில் போதைப்பொருள் கடத்தலுடன் தொடர்புடையவர்களை கைது செய்வதற்கான நடவடிக்கைகளும் எடுக்கப்பட்டுள்ளன. சிவப்பு அறிவித்தல் விடுக்கப்பட்டுள்ள 72 சந்தேகநபர்களில் 32 சந்தேகநபர்கள் எங்கு இருக்கின்றார்கள் என்பதும் இனங்காணப்பட்டுள்ளது.
+Steps have been taken to arrest those involved in drug trafficking from abroad in Sri Lanka. Of the 72 suspects who have been made of red, 32 are also identified.
+
+Another 20 people have been arrested abroad and placed under interrogation. They will soon be brought to the country and will be brought before the law. About 30 000 vacancies found in the police and special Task Force. The recruitment process has been initiated. In addition, the promotions are given in accordance with the senior conditions of the police officers.
 
 ...
 
 [Data](articles/4b033681.json)
+
+[Extended Data](ext_articles/4b033681.ext.json)
 
 ---
 
@@ -1097,19 +1207,23 @@ As the speakers who spoke before me mentioned, most people in our province are m
 
 ---
 
-### எமது ஒவ்வொரு சொத்துக்களுக்கும் எம்மால் பொறுப்பு கூற முடியும் ; எதிர்க்கட்சிகளின் கூச்சல்களால் நாம் கலவரமடையவில்லை - சுகாதார அமைச்சர்
+### We can be responsible for each of our property; We are not rioting because of the shouts of the opposition - the Minister of Health
 
 *2025-09-28 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226332) · `ta`
 
-தேசிய மக்கள் சக்தி அரசாங்கத்திலுள்ள அமைச்சர்களின் சொத்து விபரங்கள் எதிர்க்கட்சிகளால் தேடி கண்டுபிடிக்கப்பட்டவையல்ல. அவை நாமாக முன்வந்து சமர்ப்பிக்கப்பட்டவையாகும். எமது ஒவ்வொரு சொத்துக்களுக்கும் எம்மால் பொறுப்பு கூற முடியும். எனவே எதிர்க்கட்சிகளின் கூச்சல்களுக்கு நாம் கலவரமடையவில்லை என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+The property details of ministers in the National People's Power Government are not searched by the opposition parties. They are the ones who have volunteered to. We can be responsible for each of our property. Health Minister Nalinda Jayatissa said, "We are not rioting for the shouts of the opposition parties."
 
-காலி – மாபலகம பிரதேசத்தில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that he was speaking to the media after attending an event in Galle - Mabalagama area.
 
-எமது சொத்து விபரங்கள் எதிர்க்கட்சிகளால் தேடி கண்டுபிடிக்கப்பட்டவையல்ல. இலஞ்சம் அல்லது ஊழல் விசாரணை ஆணைக்குழுவில் நாமாக முன்வைத்து சமர்ப்பித்தமையால் தான் அவை தொடர்பில் அனைத்து தெரிந்து கொண்டுள்ளனர். இவ்வாறு எம்மால் முன்வைக்கப்பட்டு சொத்து விபரங்களில் ஒவ்வொரு சொத்துக்கும் பொறுப்பு கூற முடியும். எனவே தான் எவ்வித தயக்கமும் இன்றி அதனை சமர்ப்பித்திருக்கின்றோம்.
+Our property details are not searched by opposition parties. All of them are aware of the submission of the Bribery or Corruption Commission. Thus we are put forward and can be responsible for each property in property details. This is why we have submitted it without any hesitation.
+
+If anyone is in doubt about our assets, we are ready to respond to it.. However, this is a challenge for those who illegally collected property. Is the real challenge for those who are shouting about our assets from the opposition?
 
 ...
 
 [Data](articles/b7a80a20.json)
+
+[Extended Data](ext_articles/b7a80a20.ext.json)
 
 ---
 
@@ -1936,87 +2050,5 @@ Police rushed to the scene and rescued the injured and admitted to a nearby hosp
 [Data](articles/5cb37706.json)
 
 [Extended Data](ext_articles/5cb37706.ext.json)
-
----
-
-### Karur incident - The number of casualties increased to 40
-
-*2025-09-28 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226323) · `ta`
-
-The number of casualties in the crowd during the campaign of TV leader Vijay in Karur in Tamil Nadu has increased to 40.
-
-கரூர் வேலுசாமிபுரத்தில் தவெக தலைவர் விஜய், நேற்று இரவு தேர்தல் பிரச்சாரத்தில் ஈடுபட்டார்.
-
-Earlier, at 10.30 am, the police had been allowed to campaign.
-
-However, Vijay left at 3 pm after campaigning in Namakkal.
-
-Meanwhile, volunteers and fans gathered at Karur Velusamipuram from 12 pm.
-
-The campaign bus moved very slowly as the crowd was so high from Velayuthampalayam on the Karur district border. Thus, Vijay was able to come to the campaign at 7.15 pm.
-
-When Vijay started talking there, his Mike didn't work. The people behind him came to the campaign bus to listen to his speech. Thus, those who waited in front of them were crowded.
-
-While Vijay was talking, many people began to breathe in. Also, some people were injured when the tree in the area collapsed. It was only after Vijay's campaign to rescue them.
-
-...
-
-[Data](articles/b6e183b4.json)
-
-[Extended Data](ext_articles/b6e183b4.ext.json)
-
----
-
-### Singapore urges UN to curb Security Council vetoes
-
-*2025-09-28 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112998/singapore-urges-un-to-curb-security-council-vetoes) · `en`
-
-Singapore has called on the United Nations to rein in the rising use of veto powers by the five permanent members of the Security Council and pressed for reforms to make the organisation more inclusive.
-
-Delivering the country’s national statement at the UN General Assembly in New York on Sunday (Sep 28), Foreign Affairs Minister Vivian Balakrishnan said the veto is being deployed with growing frequency at a time of widening conflicts.
-
-“The increasing, and if I may add, cynical use of vetoes by the P5 must be constrained,” said Dr Balakrishnan, adding that the wider UN membership must reach an agreement on how this veto is exercised in the future.
-
-“Just as the world has changed dramatically in the last 80 years, it is also clear that the UN needs to reform to be fit for purpose for the next stretch,” he said. “We need a more representative and a more inclusive UN that reflects current realities.”
-
-...
-
-[Data](articles/c898e201.json)
-
-[Extended Data](ext_articles/c898e201.ext.json)
-
----
-
-### Plantation Labor Salary issue: Court order to be executed?
-
-*2025-09-28 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226314) · `ta`
-
-For the future development of the plantation industry, it is mandatory to switch from the daily wage to the production -based wage system.
-
-◼️
-
-[Data](articles/44848830.json)
-
-[Extended Data](ext_articles/44848830.ext.json)
-
----
-
-### 39 killed in Wijee's rally
-
-*2025-09-28 14:22:12* · [`adalk`](https://www.ada.lk/international/විජේගේ-රැළියේ-තෙරපීමෙන්-39ක්-ජීවිතක්ෂයට/3-418769) · `si`
-
-Officials say that at least 39 people, including children, have died in a political rally during the state of Tamil Nadu in South India.
-
-Tens of thousands of people gathered in the South Curraw district. Regional media reported that the launch of the rally was too late in a few hours. The televised images of the television showed that the people were fainted between a filled people.
-
-Tamil Nadu Chief Minister MK. ස්ටාලින් කරූර් හි වාර්තාකරුවන්ට පැවසුවේ මියගිය සංඛ්‍යාවට අවම වශයෙන් කාන්තාවන් 17 දෙනෙකු, පිරිමින් 13 දෙනෙකු සහ ළමුන් නව දෙනෙකු ඇතුළත් වන බවයි. He said that 51 others were receiving treatment.
-
-The families of the deceased have been compensated for the families of the deceased and that an inquiry will be conducted into the incident.
-
-◼️
-
-[Data](articles/a129e98c.json)
-
-[Extended Data](ext_articles/a129e98c.ext.json)
 
 ---

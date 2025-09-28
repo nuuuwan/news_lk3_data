@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 13:38:45**
+As of **2025-09-28 14:37:51**
 
 ## Newspaper Stats
 
-*Scraped **79,150** Articles*
+*Scraped **79,160** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 384
+lankadeepalk | 390
 newsfirstlk | 452
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -17,31 +17,161 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,633
+adalk | 7,634
 adaderanalk | 10,222
-tamilmirrorlk | 11,855
-virakesarilk | 12,875
-adaderanasinhalalk | 13,732
+tamilmirrorlk | 11,856
+virakesarilk | 12,876
+adaderanasinhalalk | 13,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,148 (100.0%) of 79,150 articles have been extended.
+79,158 (100.0%) of 79,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### அதிகரிக்கும் அமெரிக்க -  இலங்கை நெருக்கம்
+### රාජ්‍ය සේවයට අලුතින් 2000ක්
+
+*2025-09-28 14:08:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-සවයට-අලතන-2000ක/101-680351) · `si`
+
+රාජ්‍ය සේවයේ කළමනාකරණ සේවා නිලධාරී සේවයේ III ශ්‍රේණියට අලුතින් 2000 ක් බඳවා ගැනීමට රජය තීරණය කර තිබේ.
+
+ඔවුන්  නිල වශයෙන් රාජ්‍ය සේවයට එක් කෙරෙන "පත්වීම් ලිපි ප්‍රදානෝත්සවය" අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවියගේ ප්‍රධානත්වයෙන්   අරලියගහ මන්දිරයේදී හෙට (29) පැවැත්වේ.
+
+2018 වර්ෂයෙන් පසු උසස් පෙළ සුදුසුකම් මත තරඟ විභාගයකින් රාජ්‍ය සේවයට ඇතුළත් වන වැඩිම පිරිස මොවුන්  බව රාජ්‍ය පරිපාලන, පළාත් සභා සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහන් කරයි.
+
+රාජ්‍ය අංශයේ අත්‍යවශ්‍ය පුරප්පාඩු සඳහා 30,000 ක් බඳවා ගැනීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා  අයවැයෙන්  සැලැස්මක් යෝජනා කළ අතර  වරින් වර එම බඳවා ගැනීම් සිදු කරමින් සිටින බවද අමාත්‍යාංශය කියයි.
+
+◼️
+
+[Data](articles/2f9635a5.json)
+
+---
+
+### Karur crowds: Rs.. 20 Lakhs Relief - The Leader
+
+*2025-09-28 13:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-கூட்ட-நெரிசல்-உயிரிழந்தவர்களின்-குடும்பத்தினருக்கு-தலா-ரூ-20-லட்சம்-நிவாரணம்-தவெக-தலைவர்-விஜய்/175-365409) · `ta`
+
+At least 40 people were killed in a crowded crowd at Karur. In this case, the family of the victims of the crowd. Tamil Nadu Victory Corporation Chairman Vijay has announced that Rs 20 lakh relief will be given
+
+Unstruvely, the heart and mind are very heavy, thinking of what happened yesterday in Karur. In a great mood that loses our relationships, I do not know how to tell my mind. Eyes and minds are upset.
+
+All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
+
+My own .... At the same time, I share this great tragedy close to your mind.
+
+...
+
+[Data](articles/d87c04b0.json)
+
+[Extended Data](ext_articles/d87c04b0.ext.json)
+
+---
+
+### Former PC arrested for assaulting a child
+
+*2025-09-28 13:38:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවකට-පහරදන-හටප-පස-අතඅඩගවට/1-680350) · `si`
+
+The Navagamuwa Police say a police constable who was hit by a 9-year-old child.
+
+The suspect is a constable with a suspended constable. The attacker was hospitalized.
+
+The suspect's daughter and the daughter of the suspected child are studying in the same class, while playing the collection with several other children, the girl has broken the girl.
+
+Police investigations have revealed that the suspect was the father of the girl who had been announced.
+
+According to the police, the class road leader also received statements regarding the complaint.
+
+◼️
+
+[Data](articles/01912a40.json)
+
+[Extended Data](ext_articles/01912a40.ext.json)
+
+---
+
+### දරුවෙකුට පහරදුන් හිටපු පීසී අත්අඩංගුවට
+
+*2025-09-28 13:38:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවකට-පහරදන-හටප-පස-අතඅඩගවට/101-680350) · `si`
+
+පාසලකට කඩා වැදී 9 හැවිරිදි  දරුවෙකුට පහර දුන්  පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව නවගමුව පොලිසිය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වැඩ තහනමට ලක් වූ කොස්තාපල්වරයෙකි. පහර කෑමට ලක් වූ දරුවා රෝහල් ගතව ඇත.
+
+සැකකාර කොස්තාපල්වරයාගේ දියණිය සහ පහර කෑ දරුවා එකම පාසලේ එකම පන්තියක ඉගෙනුම ලබන අතර තවත් දරුවන් කීප දෙනෙකු සමග එකතුව සෙල්ලම් කරමින් සිටියදී දැරිය තල්ලුවී බිම වැටීමෙන් ඉදිරි දතේ කොටසක් කැඩී ගොස් ඇතැයි පොලිසිය කියයි.
+
+මෙයින් උරණව තිබූූ දැරියගේ පියා වන සැකකරු  පන්ති කාමරයට කඩා වැදී දරුවාට පහර දී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණයය වී ඇත.
+
+අදාල පැමිණිල්ල සම්බන්ධයෙන් පන්ති පාර ගුරුතුමියගෙන්ද ප්‍රකාශ ලබා ගත් බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/9521d8ac.json)
+
+---
+
+### Special detection of heart disease deaths
+
+*2025-09-28 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215098) · `si`
+
+Dr. Sampath Withanaasam, a specialist of the Cardiologist Association, Specialists of the Cardiologist Assistant Medical Doctors Association
+
+He was speaking at a program held at Viharamamaduvi Park in Colombo for the World Hearts Day.
+
+The doctor emphasized that the main objective of the World Heritage Day is to arrange to prevent preventable hearts.
+
+He also points out that he is able to reduce heart disease through a simple and healthy life.
+
+The doctor added that exercise, avoiding good food pattern, abstaining from smoking and avoiding stressful actions and health tests are also important.
+
+Speaking further Mr. Dr. Sampath Withanaasam, Chairman of the Cardialogy Association, Speaking further
+
+...
+
+[Data](articles/b2845d9e.json)
+
+[Extended Data](ext_articles/b2845d9e.ext.json)
+
+---
+
+### Karur crowded death: Vijay announces relief for families
+
+*2025-09-28 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226306) · `ta`
+
+Tamil Nadu Victory Council Chairman Vijay has announced that he will provide relief to the families of the victims of the Karur crowd in Tamil Nadu.
+
+He also said that by the grace of the Lord, we will try to recover from everything.
+
+Tamil Nadu Victory Corporation President Vijay campaigned in Veluchamipuram area in Karur district on Saturday (27).
+
+In this case, he said, “Hello everyone who lives in my chest. Untilled, the heart and mind are very heavy, thinking of what happened yesterday in Karur.
+
+In the great mood of losing our relationships, I do not know how to tell my mind. Eyes and minds are upset. All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
+
+While my own, I am losing our lives, and expressing deep condolences with the painful pain, and I share this great tragedy.
+
+...
+
+[Data](articles/84984d09.json)
+
+[Extended Data](ext_articles/84984d09.ext.json)
+
+---
+
+### Increasing American - Sri Lanka's intimacy
 
 *2025-09-28 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226293) · `ta`
 
-2025 செப்­டெம்பர் மாதம் இடம்­பெற்ற பல நிகழ்­வுகள் அமெ­ரிக்­கா­வுக்கும் இலங்­கைக்கும் இடை­யி­லான பாது­காப்பு உற­வு­களில் ஏற்­பட்டு வரு­கின்ற,  தலைகீழ் மாற்­றத்தை உணர்த்­து­வ­தற்கு போது­மா­னது.
+Many of the events that took place in September 2025 are sufficient to make the reverse change in security relations between the US and Sri Lanka.
 
 ◼️
 
 [Data](articles/16aa7946.json)
+
+[Extended Data](ext_articles/16aa7946.ext.json)
 
 ---
 
@@ -65,25 +195,29 @@ Ranil Wickremesinghe was also taken to consult with Mr. Mahinda Rajapaksa's plea
 
 ---
 
-### உலகின் மிக உயரமான பாலம் சீனாவில் திறப்பு
+### The world's tallest bridge opening in China
 
 *2025-09-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226300) · `ta`
 
-சீனாவிலுள்ள உலகின் மிக உயரமான ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் இன்று ஞாயிற்றுக்கிழமை (28) போக்குவரத்துக்காக திறக்கப்பட்டுள்ளது.
+The world's tallest Huajiang Grand Canyon Bridge in China is open today (28).
 
-மூன்று வருடங்களில் கட்டுமான பணிகளை நிறைவு செய்து குய்சோவில் உள்ள மற்றொரு பாலத்தின் பொறியியல் சாதனையை  இந்த பாலம் முறியடித்துள்ளது.
+The bridge has broken the engineering record of another bridge in Quezo after completing construction work in three years.
 
-சீனாவின் கரடுமுரடான தெற்கு மாகாணமான குய்சோவில் உள்ள நதி மற்றும் பரந்த பள்ளத்தாக்கின் மேலே 625 மீட்டர் உயரத்தில் ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் அமைந்துள்ளது.
+The Huajiang Grand Canyon Bridge is located at a height of 625 meters above the river and the vast valley in the rough province of China, the southern province of China.
 
-உலகின் இரண்டாவது மிக உயரமான 565 மீட்டர் பெய்பன்ஜியாங் பாலமும் குய்சோவிலேயே உள்ளது.
+The world's second tallest 565 -meter Baibanjiang Bridge is also in Quezo.
 
-இந்த பாலம்  திறப்பு நிகழ்வில் திட்ட பொறியாளர்கள் மற்றும் உள்ளூர் அதிகாரிகள் உட்பட ஏராளமான பார்வையாளர்கள் கலந்து கொண்டனர் என தெரிவிக்கப்படுகிறது.
+It is reported that a large number of visitors, including project engineers and local officials, attended the opening of the bridge.
 
-“ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் திறக்கப்படுவதன் மூலம் இரு பகுதிகளுக்கும் இடையிலான பயண நேரம் இரண்டு மணி நேரத்திலிருந்து இரண்டு நிமிடங்களாகக் குறையும்” என மாகாண போக்குவரத்துத் திணைக்களத் தலைவர் ஜாங் யின் கடந்த  24 ஆம் திகதி அன்று தெரிவித்திருந்தார்.
+"The opening of the Huajiang Grand Canyan Bridge will reduce the travel time between the two parts to two minutes to two minutes," said Jong of the Provincial Transport Department Jong's on the 24th.
+
+Its opening said, "It is" making enormous improvements in regional transport and paying new inspiration in regional economic and social development. "
 
 ...
 
 [Data](articles/ef96ec08.json)
+
+[Extended Data](ext_articles/ef96ec08.ext.json)
 
 ---
 
@@ -102,6 +236,24 @@ The two ex-leaders have been staying in the current political information and th
 [Data](articles/fb22d892.json)
 
 [Extended Data](ext_articles/fb22d892.ext.json)
+
+---
+
+### Look at Mahinda Ranil
+
+*2025-09-28 12:45:57* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-බලනන-රනල-යය/1-680349) · `si`
+
+Former President Ranil Wickremesinghe visited the Carlton house this morning to consult former President Mahinda Rajapaksa.
+
+Ranil Wickremesinghe welcomed the "hello 'and was very friendly.
+
+The two ex-leaders have been staying in the current political information and the late stories.
+
+◼️
+
+[Data](articles/fd73098a.json)
+
+[Extended Data](ext_articles/fd73098a.ext.json)
 
 ---
 
@@ -155,6 +307,30 @@ Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of t
 
 ---
 
+### Meet the Sri Lankan Sri Lankans visit train
+
+*2025-09-28 12:38:21* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අනර-ජපන-ලකකයන-හමවනන-කචචයන-යය/1-680348) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ටෝකියෝහිදී අද (28) පස්වරුවේ ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව හමුවීමට නියමිතය.
+
+The President arrived in Japan yesterday (27), commenced his three-day Japanese official visit.
+
+Sri Lanka's Ambassador of Japan Akio Soometa (AKIO ISOMATA), Sri Lankan Ambassador to Japan, the President was convinced by senior officials of the Ministry of External Affairs Janaka Kumarasinghe.
+
+The President has left the Shin-OSAKA train to Tokyo on Tokyo this evening this afternoon, the President will visit Sri Lanka in Japan.
+
+During his visit, President Anura Kumara Dissanayake will meet the Natural Emperor Prime Minister, Japanese Chief Minister, Economic, Trade and Industries Minister.
+
+The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
+
+...
+
+[Data](articles/e98c26b0.json)
+
+[Extended Data](ext_articles/e98c26b0.ext.json)
+
+---
+
 ### Marc Márquez Seals 2025 MotoGP World Championship
 
 *2025-09-28 12:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/marc-m%c3%a1rquez-seals-2025-motogp-world-championship) · `en`
@@ -182,6 +358,22 @@ The Attorney General will take appropriate action. The report of the Batalawa co
 [Data](articles/2fe684ff.json)
 
 [Extended Data](ext_articles/2fe684ff.ext.json)
+
+---
+
+### What happened to Batalanda report
+
+*2025-09-28 12:34:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බටලනද-වරතවටවචච-ද/1-680347) · `si`
+
+Minister of Public and Member of Parliament has said that the report of the Batalawa Commission has been sent to the Attorney General.
+
+The Attorney General will take appropriate action. The report of the Batalawa commission was presented recently.
+
+◼️
+
+[Data](articles/3367d460.json)
+
+[Extended Data](ext_articles/3367d460.ext.json)
 
 ---
 
@@ -234,6 +426,24 @@ The laws of the country said that Arjun Mahendran is also allegedly allocated an
 [Data](articles/686f6d5e.json)
 
 [Extended Data](ext_articles/686f6d5e.ext.json)
+
+---
+
+### World's tallest bridge opens in China, two hours of travel reduction in two minutes
+
+*2025-09-28 12:22:44* · [`adalk`](https://www.ada.lk/international/ලොව-උසම-පාලම-චීනයේදී-විවෘත-කරයි--පැය-දෙකක-ගමන්-කාලය-විනාඩි-දෙකකට-අඩුවෙයි/3-418765) · `si`
+
+World's tallest bridge records traffic in southwestern China's Guides. After three years of construction, the passing period of the Grand Canyon is reduced to two hours from two hours.
+
+The Huwaching Grand Canon Bridge at the mountain range of Guideshow is 625 meters high by the Golden Gate Bridge of San Francisco.
+
+With the opening of a major gap with a major gap with a major gap of 1,420 meters, China's tallest bridge was 565.4 meters in the Bayipan River.
+
+◼️
+
+[Data](articles/5679dc58.json)
+
+[Extended Data](ext_articles/5679dc58.ext.json)
 
 ---
 
@@ -1764,205 +1974,5 @@ Preliminary investigations have revealed that he had collided with the train fro
 [Data](articles/b7ca0f28.json)
 
 [Extended Data](ext_articles/b7ca0f28.ext.json)
-
----
-
-### Vietnam evacuates thousands, shuts airports as Typhoon Bualoi nears
-
-*2025-09-28 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112981/vietnam-evacuates-thousands-shuts-airports-as-typhoon-bualoi-nears) · `en`
-
-Vietnam closed airports and evacuated thousands of people in potentially affected areas on Sunday (Sep 28) as intensifying Typhoon Bualoi barrelled towards the country, days after causing at least 10 deaths and widespread flooding in the Philippines.
-
-The typhoon, which was packing wind speeds of up to 133 kmh as of 9am local time, is expected to make landfall in central Vietnam late on Sunday, earlier than previous forecasts as it was travelling fast, according to Vietnam’s national weather forecast agency.
-
-“This is a rapidly moving storm - nearly twice the average speed - with strong intensity and a broad area of impact. It is capable of triggering multiple natural disasters simultaneously, including powerful winds, heavy rainfall, flooding, flash floods, landslides, and coastal inundation,” the agency added.
-
-Authorities in the central province of Ha Tinh have started to evacuate more than 15,000 people, the government said, adding that thousands of troops were standing ready.
-
-...
-
-[Data](articles/94e87a21.json)
-
-[Extended Data](ext_articles/94e87a21.ext.json)
-
----
-
-### Several showers today
-
-*2025-09-28 08:27:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අදත-වස-වර-කහපයක/1-680336) · `si`
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces can be held in Galle, Kandy and Nuwara Eliya districts today.
-
-In the Uva Province and Ampara District. Showers or thundershowers will occur at several places, about 2.00.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (40-50) can cause strong winds.
-
-Winds from Galle to Matara and Hambantota from time to time in the sea areas off the coast extending from the Kankasanthurai and Mullaittivu.. It is noted that (50-60) can increase up to around.
-
-◼️
-
-[Data](articles/8bcce74c.json)
-
-[Extended Data](ext_articles/8bcce74c.ext.json)
-
----
-
-### Several showers today
-
-*2025-09-28 08:27:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අදත-වස-වර-කහපයක/101-680336) · `si`
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces can be held in Galle, Kandy and Nuwara Eliya districts today.
-
-In the Uva Province and Ampara District. Showers or thundershowers will occur at several places, about 2.00.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (40-50) can cause strong winds.
-
-Winds from Galle to Matara and Hambantota from time to time in the sea areas off the coast extending from the Kankasanthurai and Mullaittivu.. It is noted that (50-60) can increase up to around.
-
-◼️
-
-[Data](articles/eb495c50.json)
-
-[Extended Data](ext_articles/eb495c50.ext.json)
-
----
-
-### We are rebuilding the standard economy
-
-*2025-09-28 08:27:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலையான-பொருளாதாரத்தை-மீளக்-கட்டியெழுப்புகின்றோம்/175-365391) · `ta`
-
-President Anura Kumara Dissanayake has said that Sri Lanka is currently rebuilding the stable and participation economy, which has faced a series of challenges and ensures that the quality of life of all citizens will be improved through that prosperity.
-
-The President made this statement while addressing the Sri Lanka Day event held at the 'Expo 2025 World Exhibition in Osaka, Japan.
-
-In his speech, the president stressed the Sri Lankan commitment to friendship, general goals and Sri Lanka's commitment to economic change.
-
-Friendship is one of the precious bonds of mankind. It combines individuals, communities and cultures, crosses the borders and combines countries to create a better world.
-
-The 'Expo 2025' exhibition serves as a global platform for more than 150 countries to express mutual friendship, harmony, cultural diversity and human values.
-
-...
-
-[Data](articles/9e17158a.json)
-
-[Extended Data](ext_articles/9e17158a.ext.json)
-
----
-
-### The election strategy plan is completed and completed
-
-*2025-09-28 08:21:21* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-උපාය-මාර්ග-සැලැස්ම-සකස්-කර-අවසන්/11-418758) · `si`
-
-Elections Commissioner General Saman Sri Ratnayake said that the election strategic plan was completed and announced in November.
-
-Mr. Saman Sri Ratnayake, the women who have been selected for 12 local government bodies in the Nuwara Eliya district, participating in a awareness program at Hatton Dinnin Hall to educate the 12 local bodies in the Nuwara Eliya District.
-
-"By the first week of November, we publish 2026 - 2029 strategy plan. It's in the final stage we are. We have informed the parties with parties with all the districts with all the sorts of people and are included in this. There is nothing in the administration of the Commission, everything we have, all your things, the public and the demands we are trying to perform the requests in four years. The document was prepared to publish the relevant document by the first week of November. The old things were included in the new things.
-
-...
-
-[Data](articles/60e4b07e.json)
-
-[Extended Data](ext_articles/60e4b07e.ext.json)
-
----
-
-### Stampede at Vijay’s Karur rally: Death toll rises to 38
-
-*2025-09-28 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112979/stampede-at-vijays-karur-rally-death-toll-rises-to-38) · `en`
-
-The toll from the stampede at actor Vijay’s public rally in Karur has risen to 38, Tamil Nadu DGP G Venkataraman said on Sunday.
-
-The crowd swelled due to the delayed arrival of the actor-politician to the venue and they lacked sufficient food and water during the waiting hours under the hot sun, he told reporters here.
-
-“An unfortunate incident happened; a regrettable one. As per latest information, 38 have persons have died. They are 12 men, 16 women and 10 children,” he said in an early morning briefing.
-
-He further said there was a crowd surge after the official Twitter handle of Vijay’s TVK party mentioned that he would arrive at the meeting venue by 12 noon.
-
-“Permission (for the meeting) was sought for between 3 pm-10 pm. The TVK Twitter account said he will come at 12 and crowd started coming in from 11 AM. He came at 7.40 PM. The people lacked sufficient food water under the hot sun.”
-
-...
-
-[Data](articles/3a63de28.json)
-
-[Extended Data](ext_articles/3a63de28.ext.json)
-
----
-
-### Child dies after collision with train
-
-*2025-09-28 08:10:57* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියෙ-ගැටී-දරුවෙක්-මරුට/11-418757) · `si`
-
-Rambukkana Police have launched an investigation into a Message that a boy was killed and a boy who had been hit by the Rambukkana Police Division in Rambukkana Police Division.. The victim was a 14 year old resident of the Medagama area.
-
-The deceased has been revealed to the Thimbukkana Railway Station, which was traveling from Rambukkana to Colombo Fort and was collided with the railway train to the railway stage when the train was gone to the railway stage.. Rambukkana Police are conducting further investigations. The accident occurred yesterday (27).
-
-◼️
-
-[Data](articles/ed298d52.json)
-
-[Extended Data](ext_articles/ed298d52.ext.json)
-
----
-
-### Sanctions imposed against Iran
-
-*2025-09-28 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215086) · `si`
-
-After 10 years after 2015, the International Covenant with Iran's nuclear program has been removed in 2015, the United Nations has decided to restore severe economic and military sanctions on Iran.
-
-The decision has been taken due to the UK, France and Germany to the United Nations Security Council to the UN Security Council on the United Nations.
-
-Foreign media reports that it has been given 30 days to find a diplomatic solution to prevent these sanctions.
-
-Accordingly, Iran has taken steps to call several ambassadors who served in the UK, France and Germany in Germany.
-
-A few days after the United Nations General Assembly departed, Iranian President Masodod Peshkian said: "Why do we keep a nondar around our neck every month?" As well as.
-
-He reiterated that the Tehran had no intention of developing nuclear weapons, he was accused of trying to break the Islamic Republic.
-
-...
-
-[Data](articles/1d799a0e.json)
-
-[Extended Data](ext_articles/1d799a0e.ext.json)
-
----
-
-### Trump orders deployment of troops to Portland, ICE facilities
-
-*2025-09-28 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112978/trump-orders-deployment-of-troops-to-portland-ice-facilities) · `en`
-
-U.S. PresidentDonald Trump on Saturday said he was directing the U.S. military to deploy to Portland, Oregon and to protect federal immigration facilities against “domestic terrorists”, saying he was authorizing them to use “full force, if necessary.”
-
-Ordering the latest crackdown on a Democrat-led city, Trump said in a social media post that he was directing Defense Secretary Pete Hegseth “to provide all necessary Troops to protect War ravaged Portland, and any of our ICE Facilities under siege from attack by Antifa, and other domestic terrorists.”
-
-Portland Mayor Keith Wilson, who like other Oregon officials learned of Trump’s order from social media, said: “The number of necessary troops is zero, in Portland and any other American city. The president will not find lawlessness or violence here unless he plans to perpetrate it.”
-
-...
-
-[Data](articles/aff3983b.json)
-
-[Extended Data](ext_articles/aff3983b.ext.json)
-
----
-
-### Rubber industry calls for SVAT removal delay, warns of liquidity crunch
-
-*2025-09-28 08:00:00* · [`economynextcom`](https://economynext.com/rubber-industry-calls-for-svat-removal-delay-warns-of-liquidity-crunch-242051/) · `en`
-
-ECONOMYNEXT – A Sri Lanka rubber traders group has said the government’s decision to abolish the Simplified Value Added Tax (SVAT) scheme from October 1 would cause ‘severe and far-reaching consequences’, and urged it to differ or phase it out.
-
-“Removing SVAT without a tested and operational refund mechanism will trigger widespread financial distress across Sri Lanka’s natural rubber industry, threatening smallholder livelihoods, SME viability, export competitiveness, and foreign exchange inflows vital to the nation’s recovery,” the Colombo Rubber Traders’ Association (CRTA) said in a statement.
-
-Sri Lanka’s natural rubber sector supports tens of thousands of smallholder farmers, CRTA pointed out.
-
-“The removal of SVAT will force manufacturers to pay billions in VAT upfront, causing delays in purchasing raw rubber and exerting downward pressure on farm gate prices.”
-
-...
-
-[Data](articles/0a049292.json)
-
-[Extended Data](ext_articles/0a049292.ext.json)
 
 ---

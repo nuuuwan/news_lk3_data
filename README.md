@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 20:37:37**
+As of **2025-09-28 20:54:15**
 
 ## Newspaper Stats
 
-*Scraped **79,267** Articles*
+*Scraped **79,269** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 411
+lankadeepalk | 412
 newsfirstlk | 458
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
-economynextcom | 4,732
+economynextcom | 4,733
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,267 (100.0%) of 79,267 articles have been extended.
+79,267 (100.0%) of 79,269 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1065,6 +1065,26 @@ The Chairman and CEO of each institution will participate in this discussion.
 
 ---
 
+### කන්තෝරැ 457 ක ලොක්කෝ මැතිසබයට
+
+*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කනතර-457-ක-ලකක-මතසබයට/1-680359) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව (කෝප් කමිටුව) රජයේ ආයතන 457 ක ප්‍රධානීන් ලබන 2 වැනිදා පාර්ලිමේන්තුවට කැඳවා ඇත.
+
+පාර්ලිමේන්තුවේ කමිටුවක් හමුවට ආයතන ප්‍රධානීන් එකවර වැඩිම ප්‍රමාණයක් කැඳවෙන පළමු අවස්ථාව මෙයයි.
+
+කෝප් කමිටුවේ කාර්යභාරය සහ එහි කටයුතු ඉදිරියට පවත්වාගෙන යෑමේදී මතුව ඇති ගැටලු මෙන්ම ආයතනවල කාර්ය සාධනය සම්බන්ධයෙන් කරුණු විමසීම සඳහා මෙම ආයතන මෙසේ කැඳවා ඇතැයි කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා ලංකාදීපයට පැවසීය.
+
+ආයතනවල විගණනයන් පිළිබඳව සහ ඒවායේ ක්‍රියාකාරීත්වය පිළිබඳව මූලික තොරතුරු ලබාගැනීමද මෙහිදී සිදුකෙරේ.
+
+සෑම ආයතනයකම සභාපතිවරයා සහ ප්‍රධාන විධායක නිලධාරියා මෙම සාකච්ඡාවට සහභාගි වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f0897213.json)
+
+---
+
 ### Karu Jayasuriya; Leadership beyond the post
 
 *2025-09-28 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226333) · `ta`
@@ -1966,25 +1986,5 @@ My own .... At the same time, I share this great tragedy close to your mind.
 [Data](articles/469f7313.json)
 
 [Extended Data](ext_articles/469f7313.ext.json)
-
----
-
-### Karur crowds: Rs.. 20 Lakhs Relief - The Leader
-
-*2025-09-28 13:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-கூட்ட-நெரிசல்-உயிரிழந்தவர்களின்-குடும்பத்தினருக்கு-தலா-ரூ-20-லட்சம்-நிவாரணம்-தவெக-தலைவர்-விஜய்/175-365409) · `ta`
-
-At least 40 people were killed in a crowded crowd at Karur. In this case, the family of the victims of the crowd. Tamil Nadu Victory Corporation Chairman Vijay has announced that Rs 20 lakh relief will be given
-
-Unstruvely, the heart and mind are very heavy, thinking of what happened yesterday in Karur. In a great mood that loses our relationships, I do not know how to tell my mind. Eyes and minds are upset.
-
-All of your faces I met come to my mind. To think of my relationships that show affection and love, it slipped my heart more and more.
-
-My own .... At the same time, I share this great tragedy close to your mind.
-
-...
-
-[Data](articles/d87c04b0.json)
-
-[Extended Data](ext_articles/d87c04b0.ext.json)
 
 ---

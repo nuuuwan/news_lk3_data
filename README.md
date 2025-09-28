@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 17:20:29**
+As of **2025-09-28 17:41:15**
 
 ## Newspaper Stats
 
-*Scraped **79,209** Articles*
+*Scraped **79,214** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 398
-newsfirstlk | 455
+lankadeepalk | 400
+newsfirstlk | 456
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -18,7 +18,7 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,638
-adaderanalk | 10,231
+adaderanalk | 10,233
 tamilmirrorlk | 11,864
 virakesarilk | 12,891
 adaderanasinhalalk | 13,735
@@ -27,11 +27,71 @@ adaderanasinhalalk | 13,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,209 (100.0%) of 79,209 articles have been extended.
+79,209 (100.0%) of 79,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### Sri Lankan Airlines Records Passenger and Revenue Surge, Restores Grounded Aircraft Back to Service
+
+*2025-09-28 17:13:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/sri-lankan-airlines-records-passenger-and-revenue-surge-restores-grounded-aircraft-back-to-service) · `en`
+
+COLOMBO (News 1st): SriLankan Airlines has reported a 10% increase in passenger revenue during the first five months of the 2025-2026 financial year.The national carrier also recorded a 22% rise in passenger numbers during the same period. Operational efficiency of the national carrier has improved significantly, reaching 74%, up from 69% in the previous financial year.Meanwhile, two aircraft belonging to the SriLankan Airlines that had been grounded for an extended period due to engine issues, have now returned to service. The national carrier confirmed that another aircraft, scheduled for repairs, is expected to return to service early next year.
+
+◼️
+
+[Data](articles/51aa3c2d.json)
+
+---
+
+### මැදවච්චිය අධිකරණයේ කා.කා.සහිකාවක මත් පෙති සමග මාට්ටු
+
+*2025-09-28 16:55:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදවචචය-අධකරණය-ක-ක-සහකවක-මත-පත-සමග-මටට/101-680364) · `si`
+
+මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ සේවිකාවක  මත්පෙති හතළිහක් සමග  සැකපිට ප්‍රශ්න කිරීම සඳහා අද සවස අත්අඩංගුවට ගත් බව මිහින්තලේ පොලිසිය කියයි.
+
+මෙම කාන්තාව මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ කාර්යාල කාර්යය සහිකාවක ලෙස සේවය කරන්නියක බව මිහින්තලේ පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/f8383a45.json)
+
+---
+
+### ගහ ගත්ත අය දැන් තංගල්ලට බලන්න යනවා
+
+*2025-09-28 16:41:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගහ-ගතත-අය-දන-තගලලට-බලනන-යනව/101-680363) · `si`
+
+එකිනෙකා ගහ ගත්ත අය දැන් බලන්න තංගල්ලට යනවා යැයි ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේදී අද පැවසීය.
+
+ජනාධිපතිවරයා මේ බව කීවේ ටෝකියෝ හි පැවති ශ්‍රී ලාංකික හමුවකදීය.
+
+"නීති හදපු අයම නීති කඩනවා නම් මොකද කරන්නේ.ඔවුන් දන්නවා නීතිය තියෙනවා ක්‍රියාත්මක වෙන්නේ නෑ කියලා.ඉස්සරහට අප නීතිය ක්‍රියාත්මක වන බව තහවුරු කරනවා.පක්ෂ හතළිහක් එක කාමරයකට එකතු වෙන්න තරම් අපි ඒක ඔප්පු කර තියෙනවා.
+
+මං දැක්කා අදත් තංගල්ලේ යනවා බලන්න.මේ එකිනෙකා ගහ ගත්ත අය.දූෂණ විරෝධී පනත හරියට ක්‍රියාත්මක වෙන බව මේ අය දැන් දන්නවා යනුවෙන් ද ජනාධිපතිවරයා කීය.
+
+◼️
+
+[Data](articles/e95f0161.json)
+
+---
+
+### “Law on corporal punishment not a legal amendment aimed at teachers”: PM Harini
+
+*2025-09-28 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113001/law-on-corporal-punishment-not-a-legal-amendment-aimed-at-teachers-pm-harini) · `en`
+
+The law on corporal punishment is not a legal amendment aimed at schools or teachers, but a reform made for the protection of children throughout society,” said Prime Minister and Minister of Education, Higher Education and Vocational Training, Dr. Harini Amarasuriya.
+
+She made this statement during a program held yesterday (27) at the Ministry of Education with the participation of principals of national schools.
+
+The Prime Minister further emphasized that this issue extends beyond schools and relates to both physical and psychological punishment of children.
+
+...
+
+[Data](articles/5f602786.json)
+
+---
 
 ### 2029 The digital identity card is mandatory to a job
 
@@ -148,6 +208,26 @@ Therefore, in the struggle for our rights to be carried out in the district, we 
 [Data](articles/c507ceee.json)
 
 [Extended Data](ext_articles/c507ceee.ext.json)
+
+---
+
+### Infectious disease spreading among monkeys in Polonnaruwa raises public health concerns
+
+*2025-09-28 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113000/infectious-disease-spreading-among-monkeys-in-polonnaruwa-raises-public-health-concerns) · `en`
+
+A suspected infectious disease is reportedly spreading among monkey and toque macaque populations in Polonnaruwa and Giritale, prompting concern among wildlife officials and local communities.
+
+Officials warn there is a heightened risk of transmission to humans in areas surrounding the sacred city, where large groups of monkeys and toque macaques roam freely.
+
+Therefore, wildlife authorities have urged the general public to be vigilant and take necessary precautions.
+
+While the disease is believed to be potentially zoonotic—capable of being transmitted from animals to humans—public awareness about the threat remains low, increasing the potential for undetected spread, officials have stated.
+
+The overpopulation of monkeys and toque macaques has long been a persistent and unresolved issue in both Polonnaruwa and Giritale, exacerbating the current situation.
+
+...
+
+[Data](articles/d7f037f3.json)
 
 ---
 
@@ -1890,97 +1970,5 @@ Accordingly, a parcel was found in the 12-bullets of the 12-bullets that were pr
 [Data](articles/11559580.json)
 
 [Extended Data](ext_articles/11559580.ext.json)
-
----
-
-### උණ්ඩ 24ක් සමග  තාත්තයි පුතයි මාට්ටු
-
-*2025-09-28 11:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උණඩ-24ක-සමග-තතතය-පතය-මටට/1-680342) · `si`
-
-Wennappuwa Mahappuwa Police are arrested with the 24 foot-bullets that have been arrested in Mirissan, Wennappuwa.
-
-According to police, the two, a 17-year-old resident of Mirissankotuwa, has a resident of the Katana, a 20-year-old girl has escaped.
-
-The husband's husband has lodged a complaint with the Wennappuwa Police that the girl's father and brother would attempt to attack him.
-
-The youth has made his home on matters that the girl has said that the girl's mother had stated that his mother had a bullest bullet in his house.
-
-Accordingly, a parcel was found in the 12-bullets of the 12-bullets that were provided with the cupboard when inspected the house.
-
-◼️
-
-[Data](articles/b6e40fb8.json)
-
-[Extended Data](ext_articles/b6e40fb8.ext.json)
-
----
-
-### எகிப்திய தூதுவர் பாதுகாப்பு செயலாளரை சந்தித்தார்
-
-*2025-09-28 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எகிப்திய-தூதுவர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365400) · `ta`
-
-The Ambassador of the Arab Republic of Egypt, Ambrahim, Ambrahim, the Ambassador to Sri Lanka, met with Defense Secretary Air Wisemarshal Sampath Sampath Purekonda (retirement) at the Ministry of Defense on Wednesday (26).
-
-The Defense Secretary who warmly welcomed the Egyptian ambassador was involved in a smooth discussion with him. During this time, discussion was discussed on strengthening bilateral relations and expanding ways of security cooperation.
-
-In addition, the two countries have discussed the increase in educational and professional transactions between the security institutions of the two countries.
-
-The Egyptian Ambassador highlighted Egypt's commitment to expand the security ties with Sri Lanka, highlighting the opportunities for knowledge sharing and joint ventures.
-
-◼️
-
-[Data](articles/0867325c.json)
-
-[Extended Data](ext_articles/0867325c.ext.json)
-
----
-
-### Manamperi’s Mobile Phones Destroyed Amid ICE Investigation
-
-*2025-09-28 11:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/manamperi%e2%80%99s-mobile-phones-destroyed-amid-ice-investigation) · `en`
-
-COLOMBO(News 1st):Sampath Manamperi, currently in custody, has reportedly destroyed two of his mobile phones.This was revealed questioning by the Western North Crime Division.Police said further analysis is underway on the numbers linked to the destroyed devices.Yesterday, the Acting Minister of Defense granted permission to detain and interrogate Manamperi, a former Sri Lanka Podujana Peramuna Pradeshiya Sabha candidate, for 90 days.He is the second suspect in the case involving the discovery of chemicals used to manufacture the drug ICE in Middeniya.
-
-◼️
-
-[Data](articles/c5015bb7.json)
-
-[Extended Data](ext_articles/c5015bb7.ext.json)
-
----
-
-### 'Laurer' '' Doctor '' Stickers prohibited
-
-*2025-09-28 11:13:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලයර-ඩකටර-සටකර-තහනම/1-680341) · `si`
-
-The Department of Motor Traffic says that the lawyers in front of the front glass of vehicles are illegal to see doctors or other professionals, schools or university to make school or university.
-
-The Department states that the revenue license is only permitted to be pasted at the front glass of vehicles.
-
-Also, the interior is also allowed to darkest part of the top five in the front glass to prevent sunlight.
-
-◼️
-
-[Data](articles/53bbbc46.json)
-
-[Extended Data](ext_articles/53bbbc46.ext.json)
-
----
-
-### 'Laurer' '' Doctor '' Stickers prohibited
-
-*2025-09-28 11:13:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලයර-ඩකටර-සටකර-තහනම/101-680341) · `si`
-
-The Department of Motor Traffic says that the lawyers in front of the front glass of vehicles are illegal to see doctors or other professionals, schools or university to make school or university.
-
-The Department states that the revenue license is only permitted to be pasted at the front glass of vehicles.
-
-Also, the interior is also allowed to darkest part of the top five in the front glass to prevent sunlight.
-
-◼️
-
-[Data](articles/5b5e0def.json)
-
-[Extended Data](ext_articles/5b5e0def.ext.json)
 
 ---

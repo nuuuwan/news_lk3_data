@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 12:21:32**
+As of **2025-09-28 12:53:52**
 
 ## Newspaper Stats
 
-*Scraped **79,123** Articles*
+*Scraped **79,142** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 373
-newsfirstlk | 450
+lankadeepalk | 380
+newsfirstlk | 452
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -17,113 +17,309 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,630
-adaderanalk | 10,218
+adalk | 7,633
+adaderanalk | 10,222
 tamilmirrorlk | 11,855
-virakesarilk | 12,871
-adaderanasinhalalk | 13,729
+virakesarilk | 12,873
+adaderanasinhalalk | 13,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,106 (100.0%) of 79,123 articles have been extended.
+79,132 (100.0%) of 79,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### எதிர்க்­கட்­சி­களின் ஒன்­றி­ணைவு சாத்­தி­யமா?
+### Marc Márquez Seals 2025 MotoGP World Championship
+
+*2025-09-28 12:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/marc-m%c3%a1rquez-seals-2025-motogp-world-championship) · `en`
+
+Ducati's Marc Marquez clinched his seventh MotoGP championship at the Japanese Grand Prix on Sunday and his first since 2019 after he took an unassailable lead in the world championship with five rounds to spare.Marquez needed to outscore his brother and title contender Alex of Gresini Racing by three or more points by the end of the weekend, and he finished second behind his teammate Francesco Bagnaia in Sunday's race to clinch the title.
+
+◼️
+
+[Data](articles/069f0df9.json)
+
+---
+
+### මහින්ද බලන්න රනිල් යයි
+
+*2025-09-28 12:30:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-බලනන-රනල-යය/1-680346) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සුව දුක් විමසීම සඳහා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද පෙරවරුවේ කාල්ටන් නිවසට ගියේය.
+
+එහිදී මහින්ද රාජපක්ෂ මහතා "ආයුබෝවන්" කියා ඉතා සුහදශීලීව රනිල්  වික්‍රමසිංහ  මහතා පිළිගත්තේය. හිටපු නායකයන් දෙදෙනා වත්මන් දේශපාලන තොරතුරු මෙන්ම ආගිය කතා  කියමින් මඳ වේලාවක් රැඳී සිට තිබේ.
+
+◼️
+
+[Data](articles/83b1a467.json)
+
+---
+
+### අර්ජුන මහේන්ද්‍රන් ඕනෑ: සිංගප්පූරුවට දන්වයි
+
+*2025-09-28 12:26:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අරජන-මහනදරන-ඕන-සගපපරවට-දනවය/1-680345) · `si`
+
+හිටපු මහ බැංකු අධිපති අර්ජුන මහේන්ද්‍රන් අත්අඩංගුවට ගැනීමේ උත්සාහය අතහැර නැතැයි මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල  මහතා පැවසීය.
+
+ඒ සඳහා උපාය  උපක්‍රම පාවිච්චි කරමින් සිටින බව  කී  අමාත්‍යවරයා  ඔහු ශ්‍රී ලංකාවට  අත්‍යවශ්‍ය පුද්ගලයෙකු යැයි  ඒ රටට  දැනුම් දී ඇති බවද  සඳහන් කළේය
+
+අර්ජුන් මහේන්ද්‍රන් නමත් වෙනස්කර සිංගප්පූරු ජාතිකයෙකු ලෙස එහි  ජීවත්වන බවත්  ඔහු අත්අඩංගුවට ගැනීමට ඒ රටේ  නීති රීති යම් බාධාවක්  බවත්  හෙතෙම  සඳහන් කළේය.
+
+◼️
+
+[Data](articles/686f6d5e.json)
+
+---
+
+### President to Meet Sri Lankans In Japan
+
+*2025-09-28 12:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/president-to-meet-sri-lankans-in-japan) · `en`
+
+Colombo(News 1st):President Anura Kumara Dissanayake is scheduled to meet with the Sri Lankan community in Japan today.According to the Presidential Media Division, the event will take place in Tokyo.The President arrived at Kansai International Airport in Osaka yesterday morning, marking the start of his official visit to Japan, undertaken at the invitation of the Japanese government.He also attended the EXPO 2025 exhibition yesterday.During the visit, President Dissanayake is expected to hold meetings with the Emperor of Japan and the Japanese Prime Minister.
+
+◼️
+
+[Data](articles/03163789.json)
+
+---
+
+### Improving Sri Lanka's accountability program;  Anandi Sasitharan emphasizes the UN Human Rights Council
+
+*2025-09-28 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226304) · `ta`
+
+If only the Sri Lankan accountability program is to be completed in this series, the project should be upgraded to the gathering of resources beyond war crimes, violations of humanity and human rights violations beyond human rights violations.. Former Minister of Northern Province and the victim of the disappearance of the victim, Ananthi Sasitharan said that it would be further deceiving the affected parties who were already disappointed by the internal systems without any improvement.
+
+He said this while addressing a side event of the 60th session of the United Nations Human Rights Council.
+
+Immediate action should be taken in connection with the ethnic cleansing against the Tamil people in Sri Lanka. To approach the matter, there is a need for an international investigation system that can be fully justified and freedom.
+
+...
+
+[Data](articles/8361bee1.json)
+
+[Extended Data](ext_articles/8361bee1.ext.json)
+
+---
+
+### The General Secretary of the National People's Power
+
+*2025-09-28 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226303) · `ta`
+
+The general secretary and parliamentarian of the National People's Power and Member of Parliament, Dr. Nihal Abeysinghe, said that the new constitutional draft prepared from the 2015-2019 will be restored and the process of reading the proposals submitted by the political parties to be amended.
+
+A workshop was held in Switzerland from the 14th to 21st to clarify the members of the Sri Lankan ruling and opposition parties on the country's federal political system and national integrity of the country in connection with the Sri Lanka -Switzerland Parliamentary Alliance Association.
+
+A public meeting was held with 13 members who went there to represent Sri Lanka's ruling and opposition parties.
+
+...
+
+[Data](articles/1f940214.json)
+
+[Extended Data](ext_articles/1f940214.ext.json)
+
+---
+
+### Is the unity of the opposition parties possible?
 
 *2025-09-28 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226285) · `ta`
 
-அண்­மையில் ஐக்­கிய தேசியக் கட்­சியின் சம்­மே­ளனக் கூட்­டத்தில் உரை­யாற்­றிய அதன் தலை­வரும் முன்னாள் ஜனா­தி­ப­தி­யு­மான, ரணில் விக்­கி­ர­ம­சிங்­கவும், ஏனைய கட்­சி­களின் தலை­வர்­களும், அர­சாங்­கத்தை எதிர்ப்­ப­தற்கு  எதிர்க்­கட்­சிகள் ஒன்­றி­ணைய வேண்­டி­யதன் அவ­சி­யத்தை வலி­யு­றுத்­தி­யி­ருந்­தனர்.
+Speaking at a recent UNP, its leader and former president, Ranil Wickremesinghe and the leaders of other parties, emphasized the need to unite the government to oppose the government.
 
 ◼️
 
 [Data](articles/7cfdc8ef.json)
 
+[Extended Data](ext_articles/7cfdc8ef.ext.json)
+
 ---
 
-### வேனைத் திருடி, அடகு வைத்து, காதலியுடன் சவாரி செய்த காதலன்
+### Over 125,000 tourist arrivals recorded in September
+
+*2025-09-28 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112990/over-125000-tourist-arrivals-recorded-in-september) · `en`
+
+A total of 126,379 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 37,179 tourists have arrived from India which accounts to 29.4%. Furthermore, 8,937 persons from the United Kingdom, 7,799 from Germany, 7,049 from Australia and 7,226 Chinese nationals have also visited Sri Lanka in the month of September.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,692,902 with the release of the latest figures for September.
+
+Among them, 362,774 individuals are from India, 160,078 from the UK and 121,452 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/dcc52827.json)
+
+[Extended Data](ext_articles/dcc52827.ext.json)
+
+---
+
+### Stealing van, mortgage, lover who rides with girlfriend
 
 *2025-09-28 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேனைத்-திருடி-அடகு-வைத்து-காதலியுடன்-சவாரி-செய்த-காதலன்/76-365406) · `ta`
 
-கண்டி நகரில் உள்ள ஒரு வாகன விற்பனையகத்தில் இருந்து 7 மில்லியன் மதிப்புள்ள வேனை திருடி, மாத்தளை, பல்லேபொலவில் உள்ள ஒரு  கடையில் வாகனத்தை அடகு வைத்து, அந்தப் பணத்தைப் பயன்படுத்தி ஒரு சூப்பர் மோட்டார் சைக்கிளை வாங்க தனது காதலியுடன் வீடு திரும்பும் போது சந்தேக நபர் கைது செய்யப்பட்டார்.
+The suspect was arrested when he returned home with his girlfriend to buy a super motorcycle, using the money at a shop in Pallapola, Matale, who stole 7 million worth of van from a vehicle selling in Kandy.
 
-கண்டி தலைமையக காவல்துறையின் குற்றப்பிரிவுக்குக் கிடைத்த தகவலின் அடிப்படையில் நடத்தப்பட்ட நீண்ட விசாரணையின் போது,  கண்டி, டி.எஸ். சேனநாயக்க தெருவில் உள்ள ஒரு உணவகத்தில் பணியாளராகப் பணிபுரிந்த மாத்தளை, மடிபொலவைச் சேர்ந்த 32 வயதுடைய ஒருவர் கைது செய்யப்பட்டார்.
+During a long investigation conducted on the basis of information received by the Kandy Headquarters Police Crime Branch, Kandy. A 32 -year -old man from Madipola, Matale, was arrested at a restaurant on Senanayake Street.
 
-டி.எஸ். சேனநாயக்க தெருவில் உள்ள ஒரு வாகன விற்பனையகத்திற்குள் கடந்த 22 ஆம் திகதி இரவு நுழைந்த சந்தேக நபர், விற்பனையகத்திலிருந்து ஒரு டொயோட்டா நோவா வேன் மற்றும் அதனுடன் தொடர்புடைய ஆவணங்களைத் திருடியுள்ளார்.
+D.S.. The suspect, who entered a vehicle selling at Senanayake Street last night, stole a Toyota Nova van and its associated documents from the shop.
 
-...
+The suspect has a mortgage broker in Pallapola area, Matale. Ponetting the van for 1.5 million and bought a modern motorcycle with that money. He was arrested by the police while traveling with his girlfriend at the same restaurant he worked.
+
+◼️
 
 [Data](articles/90bce81b.json)
 
+[Extended Data](ext_articles/90bce81b.ext.json)
+
 ---
 
-### நீர்த்­துப்­போன ஜெனிவா வரைவு
+### Diluted Geneva draft
 
 *2025-09-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226284) · `ta`
 
-ஐ.நா. மனித உரி­மைகள் பேர­வை யின் 60 ஆவது கூட்­டத்­தொ­டரில் பிரே­ர­ணை­களை முன்­வைப்­ப­தற்­கான காலை­எல்லை கடந்த 25 திகதி பிற்­பகல் 1.00 மணி­ய­ளவில் நிறை­வ­டைந்­தது.
+The UN. At the 60th session of the Human Rights Council, the proposal was completed at 1.00 pm on the 25th of this month.
 
 ◼️
 
 [Data](articles/a29136e5.json)
 
+[Extended Data](ext_articles/a29136e5.ext.json)
+
 ---
 
-### இராணுவத்தின் குற்றங்களை வெளிப்படுத்த சோமரத்ன ராஜபக்ஷ விசாரிக்கப்படுவாரா? ; வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐ.நா. குழுவின் அறிக்கையாளர்கள் அரசாங்கத்திடம் கேள்வி
+### President Mahinda Rajapaksa today visits the Sri Lankan community in Japan
+
+*2025-09-28 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215095) · `si`
+
+President Anura Kumara Dissanayake is due to meet the Sri Lankan community in Japan at Tokyo.
+
+The President arrived in Japan yesterday (27), commenced his three-day Japanese official visit.
+
+Ambassador of Japanese in Sri Lanka Aquian Soomala, Sri Lanka's Ambassador to Japan and senior officials of the Ministry of External Affairs Janakarachchi welcomed the President.
+
+President Anura Kumara Dissanayake was the chief guest at the Sri Lanka Day celebration of the Sri Lanka Day celebration in Japan, Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan.
+
+The President is due to meet the Sri Lankan community living in Japan this afternoon after yesterday's programs.
+
+During his visit, President Anura Kumara Dissanayake is due to meet the Natural Prime Minister of Japan and the Minister of Defense, the Minister of External Affairs, Economic and Industries.
+
+The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
+
+...
+
+[Data](articles/46cff94c.json)
+
+[Extended Data](ext_articles/46cff94c.ext.json)
+
+---
+
+### China’s Huajiang Grand Canyon Bridge opens as world’s tallest bridge
+
+*2025-09-28 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112988/chinas-huajiang-grand-canyon-bridge-opens-as-worlds-tallest-bridge) · `en`
+
+The Huajiang Grand Canyon Bridge in southwest China’s Guizhou Province will open today (28), officially becoming the tallest bridge in the world.
+
+Stretching 2,890 meters in length with a main span of 1,420 meters, the Huajiang Grand Canyon Bridge rises 625 meters above the river, setting a new global record.
+
+It is not only the tallest bridge on earth but also the world’s largest span bridge ever built in a mountainous area.
+
+Construction began in early 2022, with engineers and workers confronting the steep natural barrier of the Huajiang Grand Canyon. To achieve millimeter-level precision at an altitude of 600 meters, the project employed advanced methods including drone technology, intelligent monitoring systems, and ultra-high-strength building materials.
+
+The completion of the bridge marks a major milestone for infrastructure development in China’s mountainous southwest, boosting connectivity and showcasing the country’s engineering capabilities.
+
+◼️
+
+[Data](articles/2ee3e2c6.json)
+
+[Extended Data](ext_articles/2ee3e2c6.ext.json)
+
+---
+
+### இராணுவத்தின் குற்றங்களை வெளிப்படுத்த சோமரத்ன ராஜபக்ஷ விசாரிக்கப்படுவாரா? ; வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐ.நா. The reporters of the group question the government
 
 *2025-09-28 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226302) · `ta`
 
-இராணுவத்தினரால் இழைக்கப்பட்ட குற்றங்கள் தொடர்பில் சாட்சியம் வழங்குவதற்குத் தயாராக இருப்பதாக சோமரத்ன ராஜபக்ஷ அறிவித்திருக்கும் நிலையில், அவர் விசாரணை செயன்முறைகளில் அவர் உள்வாங்கப்படுவாரா என வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐக்கிய நாடுகள் குழுவின் அறிக்கையாளர்கள் இலங்கை அரசாங்கத்திடம் கேள்வி எழுப்பியுள்ளனர்.
+The United Nations reporters on the disappearance of the disappearance of the United Nations have questioned the Sri Lankan government as Somatna Rajapakse has announced that he will be included in the investigation process as he is ready to testify on the crimes committed by the military.
 
-அரசாங்கத்தின் சார்பில் அதற்குப் பதிலளித்துள்ள அமைச்சர் ஹர்ஷன நாணயக்கார, காணாமல்போனோர் பற்றிய அலுவலகத்தின் அதிகாரிகள் சோமரத்ன ராஜபக்ஷவை சந்தித்து அவசியமான தகவல்களைப் பெற்றிருப்பதாகத் தெரிவித்துள்ளார்.
+Responding to the government, Minister Harshana Nanayakkara said that the officers of the Office of Missing Persons had met Somatna Rajapaksa and had received the necessary information.
 
-அவரைத்தொடர்ந்து கருத்துரைத்த நீதியமைச்சர் ஹர்ஷன நாணயக்கார, அண்மையில் காணாமல்போனோர் பற்றிய அலுவலகத்தின் அதிகாரிகள் சோமரத்ன ராஜபக்ஷவை சிறைச்சாலையில் சென்று சந்தித்தாகவும், அவசியமான தகவல்கள்பெறப்பட்டிருப்பதாகவும் குறிப்பிட்டார்.
+Following him, Justice Minister Harshana Nanayakkara said that the officers of the office of the recent missing persons had visited Somatna Rajapakse at the prison and had been found.
+
+The 29th Meeting of the Missing Field Committee on the 60th Session of the United Nations Human Rights Council commenced in Geneva last Monday (22). The Sri Lankan affair was examined yesterday (26) at the meeting, which will be held until October 3.
 
 ...
 
 [Data](articles/7ba545ae.json)
 
+[Extended Data](ext_articles/7ba545ae.ext.json)
+
 ---
 
-### விஜய் தப்பினார்: புஸ்ஸி சிக்கினார்
+### Vijay escapes: Pussy is stuck
 
 *2025-09-28 11:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-தப்பினார்-புஸ்ஸி-சிக்கினார்/175-365405) · `ta`
 
-தவெக பிரச்சாரக் கூட்டத்தில் 39 பேர் உயிரிழந்தது தொடர்பாக அக்கட்சியின் பொதுச் செயலாளர் புஸ்ஸி ஆனந்த் உள்ளிட்ட 3 பேர் மீது 5 பிரிவுகளின் கீழ் கரூர் நகர பொலிஸார் வழக்குப் பதிவு செய்துள்ளனர்.
+Karur city police have filed a case against three persons, including the party's general secretary Pussy Anand, in connection with the death of 39 people at the Tauga campaign meeting.
 
-கரூர் வேலுசாமிபுரத்தில் நேற்று (27)  நடந்த தவெக பிரச்சாரக் கூட்டத்தில் 39 பேர் உயிரிழந்தனர். 50-க்கும் மேற்பட்டோர் காயமடைந்தனர். இது தொடர்பாக கரூர் நகர பொலிஸார் தவெக கரூர் மேற்கு மாவட்ட செயலாளர் வி.பி.மதியழகன், பொதுச் செயலாளர் என்.ஆனந்த், துணை பொதுச் செயலாளர் நிர்மல்குமார் ஆகிய 3 பேர் மீது 5 பிரிவுகளின் கீழ் கரூர் நகர பொலிஸார் வழக்குப் பதிவு செய்துள்ளனர்.
+At least 39 people were killed at the Tauga campaign at Karur Velusamipuram yesterday (27). More than 50 people were injured. Karur city police have filed a case against the three persons under five sections of the Karur city police, VP Mathiyalakan, General Secretary N. Anand and Deputy General Secretary Nirmal Kumar.
 
-அதன்படி, பிரிவு 105 (கொலைக்கு சமமல்லாத குற்றமற்ற கொலைக்கான தண்டனை), பிரிவு 110 (குற்றமற்ற கொலை செய்ய முயற்சி), பிரிவு 125 (மனித உயிருக்கு ஆபத்தை ஏற்படுத்தும் அவசரம் அல்லது அலட்சிய செயல்களுக்கு தண்டனை), பிரிவு 223 (பொது அதிகாரியின் உத்தரவுக்கு கீழ்ப்படியாமை), பொதுச் சொத்துக்கு சேதம் விளைவித்தல் ஆகிய 5 பிரிவுகளின் கீழ் வழக்குப் பதிவு செய்யப்பட்டுள்ளது.
+Accordingly, Section 105 (Penalty for the Murder), Section 110 (Criminal Investigation), Section 125 (Hurry Risk or Punishment for Human Life)
 
 ◼️
 
 [Data](articles/5d84da2e.json)
 
+[Extended Data](ext_articles/5d84da2e.ext.json)
+
 ---
 
-### கட்டுநாயக்க விமான நிலையத்தில் உலக சுற்றுலா தினம் கோலாகலக் கொண்டாட்டம்
+### 77-year-old woman dies in bus accident in Rathgama
+
+*2025-09-28 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112987/77-year-old-woman-dies-in-bus-accident-in-rathgama) · `en`
+
+A woman has died in an accident reported along the Galle–Colombo main road, at the Rathgama junction.
+
+The accident occurred when a bus traveling from Galle towards Hikkaduwa rammed onto the woman, who was walking along the side of the road.
+
+The woman, who sustained severe injuries in the accident, succumbed while being admitted to the Karapitiya Hospital.
+
+The body has been placed at the morgue of the Karapitiya Hospital.
+
+The driver of the bus involved in the accident has been taken into custody.
+
+◼️
+
+[Data](articles/d3a2c345.json)
+
+[Extended Data](ext_articles/d3a2c345.ext.json)
+
+---
+
+### World Tourism Day Celebration at Katunayake Airport
 
 *2025-09-28 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226301) · `ta`
 
-இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் அதிகாரிகளால், கட்டுநாயக்க சர்வதேச விமான நிலையத்தின் வருகை முனையத்தில் மிகுந்த ஆடம்பரமாகவும் விழாவாகவும், செப்டம்பர் 27 ஆம் திகதி காலை உலக சுற்றுலா தினம்,  கொண்டாடப்பட்டது.
+World Tourism Day was celebrated on the morning of September 27, with the officials of the Sri Lanka Tourism Development Authority, the Visit to the Katunayake International Airport.
 
-இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் திருமதி அனுஷா தமயந்தி, நிகழ்வின் பிரதம அதிதியாக கலந்து கொண்டார்.
+Mrs. Anusha Damayanti, Director of the Sri Lanka Tourism Development Authority, was the chief guest of the event.
 
-இதன்போது,  நாட்டுக்கு வருகைத்தந்த வெளிநாட்டு சுற்றுலாப் பயணிகள் அன்புடன் வரவேற்கப்பட்டு, கேக் மற்றும் தேயிலை அடங்கிய பொதிகள் அவர்களுக்கு வழங்கப்பட்டன.
+During this time, foreign tourists visited the country were warmly welcomed and packs of cake and tea were given to them.
 
-அதேநேரம், மலையக மற்றும் நாட்டுப்புற நடனக் கலைஞர்கள் குழுவும், கட்டுநாயக்க விமான நிலையத்திற்கு வந்த சுற்றுலாப் பயணிகளுக்காக நடனங்களை நிகழ்த்தினர்.
+At the same time, a group of upland and folk dancers performed dances for tourists who arrived at the Katunayake airport.
 
-இந்த நிகழ்வில் உரையாற்றிய இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் அனுஷா தமயந்தி,இதுவரை 1.67 மில்லியன் வெளிநாட்டு சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை தந்துள்ளதாக தெரிவித்தார்.
+Speaking at the event, Anusha Damayanti, Director of the Sri Lanka Tourism Development Authority, said that 1.67 million foreign tourists have visited the country so far.
 
-இந்த நிகழ்ச்சி செப்டம்பர் 27 ஆம் திகதி மதியம் 12:00 மணி வரை கட்டுநாயக்க விமான நிலையத்தில் நடைபெற்றமை குறிப்பிடத்தக்கது.
+The event was held on September 27 at 12:00 pm at the Katunayake airport.
 
 ◼️
 
 [Data](articles/b941b85d.json)
+
+[Extended Data](ext_articles/b941b85d.ext.json)
 
 ---
 
@@ -131,71 +327,81 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-09-28 11:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கறிஞர்-டாக்டர்-ஸ்டிக்கர்கள்-தடை/175-365404) · `ta`
 
-வழக்கறிஞர்கள், மருத்துவர்கள் அல்லது பிற நிபுணர்கள், பாடசாலைகள் அல்லது பல்கலைக்கழகங்களைக் குறிக்கும் வகையில் வாகனங்களின் முன்  கண்ணாயில் பல்வேறு அளவுகளில் ஸ்டிக்கர்களை ஒட்டுவது சட்டவிரோதமானது என்று மோட்டார் போக்குவரத்துத் திணைக்களம் கூறுகிறது.
+The Motor Transport Department says that it is illegal to paste stickers in different sizes in front of vehicles to represent lawyers, doctors or other experts, schools or universities.
 
-வாகனங்களின் கண்ணாடிகளில் மோட்டார் வருவாய் உரிமம் மட்டுமே ஒட்ட அனுமதிக்கப்படுகிறது என்றும் போக்குவரத்துத் திணைக்களம் கூறுகிறது.
+The Department of Transport also states that only the motor revenue license is allowed in the glasses of the vehicles.
 
-சூரிய ஒளி உட்புறத்தில் நுழைவதைத் தடுக்க கண்ணாடியின் மேல்பகுதியில்  ஐந்தில் ஒரு பகுதியை இருட்டடிப்பு செய்யவும் அனுமதிக்கப்படுகிறது.
+It is also allowed to blackened one -fifth of the mirror to prevent the sunlight from entering the interior.
 
 ◼️
 
 [Data](articles/8da7dd98.json)
 
+[Extended Data](ext_articles/8da7dd98.ext.json)
+
 ---
 
-### பாண் துண்டில் நறுக்கென கடிப்பட்ட விரல் தோல் துண்டு
+### Slice
 
 *2025-09-28 11:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாண்-துண்டில்-நறுக்கென-கடிப்பட்ட-விரல்-தோல்-துண்டு/76-365403) · `ta`
 
-ஹட்டனில் ஓர் அதிர்ச்சியூட்டும் சம்பவம் பதிவாகியுள்ளது. உள்ளூர் பேக்கரியில் இருந்து வாங்கப்பட்ட துண்டுகளாக்கப்பட்ட பாண் துண்டுக்குள் ஒரு விரலில் இருந்து மனித தோலின் ஒரு பகுதியை வாடிக்கையாளர் கண்டுபிடித்தார்.
+A shocking incident has been reported in Hatton. The client discovered a portion of human skin from a finger in a piece of pieces purchased from the local bakery.
 
-வாடிக்கையாளர் ரூ. 180 ரூபாய் கொடுத்து வியாழக்கிழமை (25) இரவு உணவிற்கு பாண்  வாங்கியதாக தகவல்கள் தெரிவிக்கின்றன. பாண் துண்டை உட்கொள்ளும் போது, ​​அந்த நபர் தோல் துண்டைக் கவனித்து உடனடியாக மேலும் சாப்பிடுவதைத் தவிர்த்தார். தோல் துண்டுடன் மாசுபட்ட பாண் துண்டை ஹட்டன்- டிக்கோயா நகராட்சி மன்றத்தின் பொது சுகாதார ஆய்வாளர்களிடம் (PHI) ஒப்படைத்துள்ளார்.
+Customer. 180 ரூபாய் கொடுத்து வியாழக்கிழமை (25) இரவு உணவிற்கு பாண்  வாங்கியதாக தகவல்கள் தெரிவிக்கின்றன. While consuming the pan, the person took care of the skin and avoided eating more. Hatton-Dikoya Municipal Council has handed over to the Public Health Inspectors (PHI), polluted with leather.
 
-ஆதாரங்களை ஆராய்ந்த பின்னர், PHI கள், பேக்கரி உரிமையாளருக்கு ஹட்டன் நீதிவான் நீதிமன்றத்தில் பல முறை ஏற்கனவே அபராதம் விதிக்கப்பட்டு, வளாகத்தை சுகாதாரமற்ற நிலையில் பராமரித்ததற்காக வழக்குத் தொடரப்பட்டதாக தெரிவித்தனர்.
+After reviewing the evidence, the PhIs said the Bakery owner had already been charged with the Hatton Magistrate's Court several times and sued for maintaining the premises unhealthy.
 
-இந்த சமீபத்திய சம்பவம் தொடர்பாக பேக்கரி உரிமையாளருக்கு எதிராக பல புதிய வழக்குகளைத் தாக்கல் செய்ய நடவடிக்கை எடுக்கப்பட்டு வருவதாக அதிகாரிகள் தெரிவித்தனர்.
+Officials said that steps are being taken to file several new cases against the bakery owner in connection with the recent incident.
 
 ◼️
 
 [Data](articles/aeeb00e2.json)
 
+[Extended Data](ext_articles/aeeb00e2.ext.json)
+
 ---
 
-### ரயிலில் மோதி சிறுவன் பலி
+### Boy killed
 
 *2025-09-28 11:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-சிறுவன்-பலி/175-365402) · `ta`
 
-பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கிச் சென்ற ரயிலில் மோதி 14 வயது சிறுவன் உயிரிழந்துள்ளார்.
+A 14 -year -old boy dies after colliding with a train from Badulla to Colombo Fort.
 
-மெதகம பகுதியைச் சேர்ந்த குறித்த சிறுவன், தனது நண்பர்களுடன் ரம்புக்கனையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயிலில் திஸ்மல்பொல ரயில் நிலையத்திற்கு வந்து இறங்கிய நிலையில் நடைமேடைக்கு பதிலாக ரயில் பாதையில் காலடி வைத்துள்ளார்.
+The boy from Medagama, who was traveling with his friends to Colombo Fort with his friends, landed on a train to Tissmalola.
 
-இதன்போது குறித்த சிறுவன் தண்டவாளத்தைக் கடக்க முயன்ற போது ரயிலுடன் மோதியுள்ளார் என பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+Police investigations revealed that the boy was hit by the train while trying to cross the rails.
 
 ◼️
 
 [Data](articles/0b977545.json)
 
+[Extended Data](ext_articles/0b977545.ext.json)
+
 ---
 
-### ஐ.தே.க.வுடன் அனைத்து கட்சிகளும் இணைந்தால் எந்தவொரு அரசியல் சக்தியாலும் அதற்கு ஈடு கொடுக்க முடியாது - நவீன் திஸாநாயக்க
+### If all parties join the UNP, no political force can compensate for it- Naveen Dissanayake
 
 *2025-09-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226296) · `ta`
 
-ஐக்கிய தேசிய கட்சியுடன் அனைத்து கட்சிகளும் இணைந்தால் வேறு எந்தவொரு அரசியல் சக்தியாலும் அதற்கு ஈடு கொடுக்க முடியாது. ஐக்கிய மக்கள் சக்தி மற்றும் ஐ.தே.க.வுக்கு இடையிலான பிளவினால் சுமார் 15 இலட்சம் வாக்காளர்கள் வாக்களிக்காமலிருக்கின்றனர். அவர்களின் எதிர்பார்ப்பு நிறைவேற்றப்பட்டால் இலகுவாக எமது வெற்றியை உறுதிப்படுத்திக் கொள்ள முடியும் என முன்னாள் அமைச்சர் நவீன் திஸாநாயக்க தெரிவித்தார்.
+If all parties join with the United National Party, no other political force can compensate for it. About 15 lakh voters do not vote due to the split between the United People's Power and the UNP. Former Minister Naveen Dissanayake said that if their expectation is met, we can easily ensure our success.
 
-அநுராதபுரத்தில் நேற்று ஞாயிறுக்கிழமை இடம்பெற்ற கலந்துரையாடலொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that he was speaking to the media after a discussion held on Sunday in Anuradhapura.
 
-ஐக்கிய மக்கள் சக்தியுடன் தொடர்ந்தும் பேச்சுவார்த்தைகள் இடம்பெற்றுக் கொண்டிருக்கின்றன. ஏனைய கட்சிகளும் எம்முடன் இணைந்து செயற்பட இணக்கம் தெரிவித்துள்ளன. ஐக்கிய தேசிய கட்சியின் முகாமுக்குள் அனைத்து கட்சிகளையும் ஒன்றிணைக்க முடியுமானால் அங்கிருந்து வெற்றிக்கான பயணத்தை ஆரம்பிக்க முடியும். ஐக்கிய தேசிய கட்சிக்கு மாத்திரம் சுமார் 40 இலட்சம் வாக்குகள் உள்ளன.
+Continuing negotiations with United People's Power. Other parties have agreed to work with us. If all parties can unite within the camp of the United National Party can start the journey for victory from there. The United National Party alone has about 40 lakh votes.
+
+So our expectation is that these 40 lakh voters should be added to one place. I am actively involved in the effort. So all the UNP. We also urge supporters to participate in it. Leadership is not a problem here. So the leaders of both parties can hold those positions.
 
 ...
 
 [Data](articles/23c170bc.json)
 
+[Extended Data](ext_articles/23c170bc.ext.json)
+
 ---
 
 ### නා උයනේ අනතුරින් තවත් හිමි නමක් අපවත් වෙති
 
-*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/101-680344) · `si`
+*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/1-680344) · `si`
 
 පන්සියගම  නා උයන ආරණ්‍ය සේනාසනයේ භාවනා යෝගීව වැඩ වාසය කරන භික්ෂූන් වහන්සේ රැගත් විදුලියෙන් ක්‍රියාත්මක කරන ඩක්කුව කඩා වැටී ප්‍රපාතයට වැටීමෙන් තුවාල ලැබූ තවත් හිමි නමක් අපවත් වූහ.
 
@@ -207,23 +413,65 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/6a17bd9e.json)
+[Data](articles/39811de7.json)
 
 ---
 
-### சவுதி அரேபிய இராணுவ ஆலோசகர் பாதுகாப்பு செயலாளரை சந்தித்தார்
+### Overcoming name is another name of the Nawawala accident
+
+*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/101-680344) · `si`
+
+There was another name that was wounded by the electricity driven dack in the electrical monk who lives in the Paniyagama Oya Aranya Senasana.
+
+The monks 7 monks were in the event recently and another six were wounded.
+
+The Indicota Thero, Pannipitiya, is being treated at the Kurunegala Teaching Hospital.
+
+The injured in the accident was receiving treatment at the ICU of the Kurunegala Teaching Hospital.
+
+◼️
+
+[Data](articles/6a17bd9e.json)
+
+[Extended Data](ext_articles/6a17bd9e.ext.json)
+
+---
+
+### Saudi Arabian military advisor met the defense secretary
 
 *2025-09-28 11:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவுதி-அரேபிய-இராணுவ-ஆலோசகர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365401) · `ta`
 
-புது தில்லி மற்றும் கொழும்பில் உள்ள சவுதி அரேபிய தூதரகத்தின் பாதுகாப்பு ஆலோசகர்Captain (Navy) Hussain Othman Al Kowaileet,பாதுகாப்பு செயலாளர் எயார்வைஸ் மார்ஷல் சம்பத் துயகொந்தாவை (ஓய்வு) வௌ்ளிக்கிழமை ( 26) பாதுகாப்பு அமைச்சில் மரியாதை நிமித்தம் சந்தித்தார்.
+Captain (Navy) Hussain Othman Al Kowileet, Defense Advisor of Saudi Arabian Embassy in New Delhi and Colombo, met with Defense Secretary Eyaris Marshall Sampath Sampath Sampath (retirement) at the Ministry of Defense on Wednesday (26).
 
-வருகை தந்த சவுதி அரேபிய பாதுகாப்பு ஆலோசகரை, பாதுகாப்பு செயலாளர் அன்புடன் வரவேற்றதுடன், அவருடன் சுமூக கலந்துரையாடலில் ஈடுபட்டார்.
+The Saudi Arabian security consultant was warmly welcomed by the Defense Secretary and held a smooth discussion with him.
 
-இதன் போது பரஸ்பர ஆர்வமுள்ள விடயங்கள் மற்றும் இரு தரப்பு ஒத்துழைப்பை வலுப்படுத்தல் குறித்து கருத்துக்களைப் பரிமாறிக்கொண்டனர். அத்துடன் இரு நாடுகளுக்கும் இடையில் நிலவும் நீண்டகால நல்லுறவையம் நினைவு கூர்ந்தனர்.
+During this time they exchanged comments on mutual interested matters and strengthening bilateral cooperation. They also recalled the long -term goodwill between the two countries.
 
 ◼️
 
 [Data](articles/d0403eee.json)
+
+[Extended Data](ext_articles/d0403eee.ext.json)
+
+---
+
+### First ‘Health and Wellness Center’ opens in Mapalagama
+
+*2025-09-28 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112986/first-health-and-wellness-center-opens-in-mapalagama) · `en`
+
+A health service will be established in Sri Lanka which prioritizes the well-being of the people and ensures accountability, while health professionals are committed to safeguarding public health, the Minister of Health and Mass Media, Dr. Nalinda Jayatissa stated.
+
+The Minister said this while participating in the opening of the Mapalagama Health and Wellness Center in the Galle District as the first step of the “Healthy Sri Lanka” program.
+
+Under this program, which is implemented under the government’s innovative program for a healthy country, 100 primary health care centers are scheduled to be opened this year.
+
+The centers, established in convenient and easily accessible locations, will operate as comprehensive primary healthcare units offering a wide range of essential services.
+
+...
+
+[Data](articles/478d4934.json)
+
+[Extended Data](ext_articles/478d4934.ext.json)
 
 ---
 
@@ -247,9 +495,25 @@ It is difficult to work illegally working in the country due to the new digital 
 
 ---
 
-### කන්ටේනර් හොරු අල්ලන්න නාමල්ගෙන්  අභියෝගයක්
+### Namal challenges to catch containers
 
 *2025-09-28 11:24:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනටනර-හර-අලලනන-නමලගන-අභයගයක/101-680343) · `si`
+
+MP Namal Rajapaksa said that he would challenge the government to hold the thieves behind the opposition without changing the containers.
+
+Namal Rajapaksa added that there was no government that has created the opposition.
+
+◼️
+
+[Data](articles/0df7e55a.json)
+
+[Extended Data](ext_articles/0df7e55a.ext.json)
+
+---
+
+### කන්ටේනර් හොරු අල්ලන්න නාමල්ගෙන්  අභියෝගයක්
+
+*2025-09-28 11:24:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කනටනර-හර-අලලනන-නමලගන-අභයගයක/1-680343) · `si`
 
 විපක්ෂය පස්සේ පන්නන්නේ නැතුව කන්ටේනර් පන්නපු හොරු ටික මුලින්ම අල්ලලා ඉන්නැයි තමා රජයට අභියෝග කරන බව ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ නාමල් රාජපක්ෂ මහතා පැවසීය.
 
@@ -257,7 +521,7 @@ It is difficult to work illegally working in the country due to the new digital 
 
 ◼️
 
-[Data](articles/0df7e55a.json)
+[Data](articles/ace5a2fa.json)
 
 ---
 
@@ -289,9 +553,51 @@ In the UK, 160,078 from the UK, 121,452 from Germany and 105,443 people from Ger
 
 ---
 
-### උණ්ඩ 24ක් සමග  තාත්තයි පුතයි මාට්ටු
+### The stolen van cared for a motorcycle and crashed with girlfriend
+
+*2025-09-28 11:19:10* · [`adalk`](https://www.ada.lk/breaking_news/හොරකම්-කළ-වෑන්-රථය-උගස්-කර-යතුරු-පැදියක්-මිලට-අරන්-පෙම්වතිය-සමග-රවුම්-ගහලා/11-418763) · `si`
+
+The suspect was arrested while mortgaging a sales center in Kandy to a motorcycle at Pallepola, Matale.
+
+A 32-year-old resident of the Madipola area, was arrested in the long review of the Kandy Headquarters Police.
+
+සැකකරු රාත්‍රී ඩී.එස්. The vehicle outlets of Teta Noas and the relevant documents have been stolen at the vehicle outlets maintained at Senanayake Street.
+
+The suspect was arrested by the police while mortgage a motorcycle for a motorcycle of Rs.
+
+◼️
+
+[Data](articles/f9e4bed2.json)
+
+[Extended Data](ext_articles/f9e4bed2.ext.json)
+
+---
+
+### Dad and son, with 24 ammunition
 
 *2025-09-28 11:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උණඩ-24ක-සමග-තතතය-පතය-මටට/101-680342) · `si`
+
+Wennappuwa Mahappuwa Police are arrested with the 24 foot-bullets that have been arrested in Mirissan, Wennappuwa.
+
+According to police, the two, a 17-year-old resident of Mirissankotuwa, has a resident of the Katana, a 20-year-old girl has escaped.
+
+The husband's husband has lodged a complaint with the Wennappuwa Police that the girl's father and brother would attempt to attack him.
+
+The youth has made his home on matters that the girl has said that the girl's mother had stated that his mother had a bullest bullet in his house.
+
+Accordingly, a parcel was found in the 12-bullets of the 12-bullets that were provided with the cupboard when inspected the house.
+
+◼️
+
+[Data](articles/11559580.json)
+
+[Extended Data](ext_articles/11559580.ext.json)
+
+---
+
+### උණ්ඩ 24ක් සමග  තාත්තයි පුතයි මාට්ටු
+
+*2025-09-28 11:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උණඩ-24ක-සමග-තතතය-පතය-මටට/1-680342) · `si`
 
 වෙන්නප්පුව මිරිස්සන්කොටුව කිරාගාර ප්‍රදේශයේ නිවසක අල්මාරියක සගවා තිබු විශ්‍රාමික පොලිස් සැරයන්වරයකුගේ බව කියන බෝර 12 වර්ගයේ ජිව උණ්ඩ 24 ක් සමග පිය පුතු දෙපලක්  අත් අඩංගුවට ගත් බව වෙන්නප්පුව මුලස්ථාන පොලිසිය කියයි.
 
@@ -305,7 +611,7 @@ In the UK, 160,078 from the UK, 121,452 from Germany and 105,443 people from Ger
 
 ◼️
 
-[Data](articles/11559580.json)
+[Data](articles/b6e40fb8.json)
 
 ---
 
@@ -313,17 +619,19 @@ In the UK, 160,078 from the UK, 121,452 from Germany and 105,443 people from Ger
 
 *2025-09-28 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எகிப்திய-தூதுவர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365400) · `ta`
 
-இலங்கைக்கான எகிப்து அரபுக் குடியரசின் தூதுவர் அதிமேதகு Adel Ibrahim,வௌ்ளிக்கிழமை ( 26) அன்று பாதுகாப்பு அமைச்சில் பாதுகாப்பு செயலாளர் எயார் வைஸ்மார்ஷல் சம்பத் தூயகொந்தாவை (ஓய்வு) மரியாதை நிமித்தம் சந்தித்தார்.
+The Ambassador of the Arab Republic of Egypt, Ambrahim, Ambrahim, the Ambassador to Sri Lanka, met with Defense Secretary Air Wisemarshal Sampath Sampath Purekonda (retirement) at the Ministry of Defense on Wednesday (26).
 
-எகிப்திய தூதரை அன்புடன் வரவேற்ற பாதுகாப்பு செயலாளர் அவருடன் சுமூக கலந்துரையாடலில் ஈடுபட்டார். இதன் போது இருதரப்பு உறவுகளை வலுப்படுத்துதல் மற்றும் பாதுகாப்பு ஒத்துழைப்புக்கான வழிகளை விரிவுபடுத்துதல் தொடர்பில் கலந்துரையாடப்பட்டது.
+The Defense Secretary who warmly welcomed the Egyptian ambassador was involved in a smooth discussion with him. During this time, discussion was discussed on strengthening bilateral relations and expanding ways of security cooperation.
 
-மேலும், இரு நாடுகளின் பாதுகாப்புநிறுவனங்களுக்கிடையில் கல்வி மற்றும் தொழில்முறை பரிமாற்றங்களை அதிகரித்தல் தொடர்பிலும் கலந்துரையாடப்பட்டது.
+In addition, the two countries have discussed the increase in educational and professional transactions between the security institutions of the two countries.
 
-அறிவுப் பகிர்வு மற்றும் கூட்டுமுயற்சிகளுக்கான வாய்ப்புகளை எடுத்துக்காட்டி, இலங்கையுடனான பாதுகாப்பு உறவுகளை விரிவுப்படுத்துவதில் எகிப்தின் உறுதிப்பாட்டை எகிப்த்திய தூதுவர் எடுத்துரைத்தார்.
+The Egyptian Ambassador highlighted Egypt's commitment to expand the security ties with Sri Lanka, highlighting the opportunities for knowledge sharing and joint ventures.
 
 ◼️
 
 [Data](articles/0867325c.json)
+
+[Extended Data](ext_articles/0867325c.ext.json)
 
 ---
 
@@ -343,7 +651,7 @@ COLOMBO(News 1st):Sampath Manamperi, currently in custody, has reportedly destro
 
 ### ’’ලෝයර්’’ ’’ඩොක්ටර්’’  ස්ටිකර්  තහනම්
 
-*2025-09-28 11:13:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලයර-ඩකටර-සටකර-තහනම/101-680341) · `si`
+*2025-09-28 11:13:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලයර-ඩකටර-සටකර-තහනම/1-680341) · `si`
 
 රථ වාහනවල ඉදිරිපස වීදුරුවල නීතිඥවරුන් වෛද්‍යවරුන් හෝ වෙනත් වෘත්තිකයන්, පාසල් හෝ විශ්ව විද්‍යාල   හැඟවීමට විවිධ ලොකු කුඩා ස්ටිකර් ඇලවීම නීති විරෝධී බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පවසයි
 
@@ -353,7 +661,25 @@ COLOMBO(News 1st):Sampath Manamperi, currently in custody, has reportedly destro
 
 ◼️
 
+[Data](articles/53bbbc46.json)
+
+---
+
+### 'Laurer' '' Doctor '' Stickers prohibited
+
+*2025-09-28 11:13:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලයර-ඩකටර-සටකර-තහනම/101-680341) · `si`
+
+The Department of Motor Traffic says that the lawyers in front of the front glass of vehicles are illegal to see doctors or other professionals, schools or university to make school or university.
+
+The Department states that the revenue license is only permitted to be pasted at the front glass of vehicles.
+
+Also, the interior is also allowed to darkest part of the top five in the front glass to prevent sunlight.
+
+◼️
+
 [Data](articles/5b5e0def.json)
+
+[Extended Data](ext_articles/5b5e0def.ext.json)
 
 ---
 
@@ -382,6 +708,22 @@ Colombo(News 1st): Another monk who was injured when a cable cart came crashing 
 [Data](articles/7829a833.json)
 
 [Extended Data](ext_articles/7829a833.ext.json)
+
+---
+
+### ආසියානු කුසලානයේ අවසන් මහා තරගය අද
+
+*2025-09-28 11:09:16* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානයේ-අවසන්-මහා-තරගය-අද/9-418762) · `si`
+
+ආසියානු කුසලාන විස්සයි 20 ක්‍රිකට් තරගාවලියේ අවසාන මහා තරගය අද පැවැත්වීමට නියමිතව තිබේ.
+
+ඉන්දියාව සහ පාකිස්තානය අතර ඩුබායි හීදි පැවැත්වෙන මෙම තරගය මෙරට වේලාවෙන් ප.ව.08ට ආම්භ වීමට නියමිතව ඇත.
+
+ආසියානු කුසලානය ආරම්භ වී අවුරුදු 41ක ඉතිහාසය තුළ පළමුවරට අවසන් මහා තරගයකදී මෙම කණ්ඩායම් දෙක තරගවැදීම විශේෂත්වයකී.
+
+◼️
+
+[Data](articles/5508407d.json)
 
 ---
 
@@ -473,6 +815,22 @@ The Opposition Leader was speaking at a program held in the Welewewa area in Ana
 
 ---
 
+### ’’කරන්ට්’’   වදින දිනය සජිත් කියයි
+
+*2025-09-28 10:53:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කරනට-වදන-දනය-සජත-කයය/1-680340) · `si`
+
+ආණ්ඩුව අයි.එම්.එෆ් පදයට නටමින් විදුලි බිල වැඩි කිරීමට සූදානම්  වන  බව විපක්ෂ නායක  සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+බලයට පත්වීමට පෙර රුපියල් තුන්දාහේ ලයිට් බිල  රුපියල් දෙදාහ  දක්වා අඩු කරන බව පැවසූවත්  බලයට පත්වූ පසු එම පොරොන්දුව අමතක කළේ   යැයි  සඳහන් කළ  හෙතෙම  මේ අය දැන් නටමින් සිටින්නේ  අයිඑම්එෆ්  පදයට  බවද  ප්‍රකාශ කළේය.
+
+විපක්ෂ නායකවරයා මෙසේ පැවසුවේ ආනමඩුව නව ගත්තේගම වෙලේවැව ප්‍රදේශයේ පැවති වැඩසටහනකදීය.
+
+◼️
+
+[Data](articles/4a504782.json)
+
+---
+
 ### Stole a van and moves with girlfriend
 
 *2025-09-28 10:52:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වනරයක-සරගන-උගස-කර-පමවතය-එකක-සවර-ගහල/101-680339) · `si`
@@ -493,21 +851,23 @@ The suspect was arrested by the police while mortgage a motorcycle for a motorcy
 
 ---
 
-### වෑන්රියක් සොරාගෙන උගස් කර පෙම්වතිය එක්ක සවාරි ගහලා
+### Stole a van and moves with girlfriend
 
 *2025-09-28 10:52:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වනරයක-සරගන-උගස-කර-පමවතය-එකක-සවර-ගහල/1-680339) · `si`
 
-මහනුවර නගරයේ වාහන අලෙවි සැලකින් 70 ලක්ෂයක් වටිනා වෑන් රථයක් සොරකම් කොට එම රථය මාතලේ පල්ලේපොළ ප්‍රදේශයේ උගස් මධ්‍යස්ථානයකට උගස්කොට එම මුදලින් සුපිරි යතුරුපැදියක් මිලදී ගෙන ඔහුගේ පෙම්වතිය සමඟ යමින් සිටියදී සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+The suspect was arrested while mortgaging a sales center in Kandy to a motorcycle at Pallepola, Matale.
 
-මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශයට ලද තොරතුරකට අනුව සිදුකළ දීර්ඝ විමර්ශනයේදී මහනුවර ඩී.එස්.සේනානායක වීදියේ අවන්හලක සේවකයෙකු ලෙස සේවය කළ මාතලේ මාදිපොල ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකු එසේ අත්අඩංගුවට ගෙන තිබේ.
+A 32-year-old resident of the Madipola area, was arrested in the long review of the Kandy Headquarters Police.
 
-සැකකරු රාත්‍රී ඩී.එස්. සේනානායක වීදියේ පවත්වාගෙන යනු ලබන වාහන අලෙවිසලකට පසුගිය 22 වැනි දින රාත්‍රී කාලයේ ඇතුළු වී ටොයටා නෝහා වර්ගයට අයත් වෑන් රථයක් සහ ඊට අදාළ ලියකියවිලිද වාහන අලෙවි සැලෙන් සොරා ගෙන ගොස් තිබුණි.
+The suspect is night DS. The vehicle outlets of Teta Noas and the relevant documents have been stolen at the vehicle outlets maintained at Senanayake Street.
 
-සැකකරු එම වෑන් රථය මාතලේ පල්ලේපොල ප්‍රදේශයේ උගස් කරුවෙකුට රුපියල් ලක්ෂ 15 ක මුදලකට උගස් කොට එම මුදලින් නවීන පන්නයේ යතුරු පැදියක් මිලදී ගෙන ඔහු සේවය කළ අවන්හලේම සේවයේ නියුතු යුතු පෙම්වතිය සමඟ ගමන් කරමින් සිටියදී පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+The suspect was arrested by the police while mortgage a motorcycle for a motorcycle of Rs.
 
 ◼️
 
 [Data](articles/eb9dec21.json)
+
+[Extended Data](ext_articles/eb9dec21.ext.json)
 
 ---
 
@@ -632,6 +992,24 @@ Nothing in politics is stable, no one is permanent friends, no, no permanent ene
 [Data](articles/7d6fecbc.json)
 
 [Extended Data](ext_articles/7d6fecbc.ext.json)
+
+---
+
+### Another monk who was injured in the Nawa cable dakkok accident
+
+*2025-09-28 10:39:23* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයන-කේබල්-ඩක්කු-අනතුරින්-තුවාල-ලබා-සිටි-තවත්-හිමිනමක්-අපවත්වෙති/11-418759) · `si`
+
+Another monk who was receiving treatment at the cable dakkok accident in Malziripura, Malziripura. Accordingly, the number of owners of the accident had risen to 8.
+
+The monk who was receiving treatment at the Intensive Care Unit of the Kurunegala Teaching Hospital has become. Another injured bicycles are being treated at the Kurunegala Hospital.
+
+It was reported that the 13 bhikkus had been in the dick. Three Thero were the overseas national monks and the monks lived in India, Romania and Russian countries.
+
+◼️
+
+[Data](articles/02c9b413.json)
+
+[Extended Data](ext_articles/02c9b413.ext.json)
 
 ---
 
@@ -1558,363 +1936,5 @@ U.N. sanctions imposed by the Security Council in resolutions adopted between 20
 [Data](articles/21e92bac.json)
 
 [Extended Data](ext_articles/21e92bac.ext.json)
-
----
-
-### 2026–2029 Election Plan to Be Announced in November
-
-*2025-09-28 06:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/20262029-election-plan-to-be-announced-in-november) · `en`
-
-Colombo (News 1st); The Election Commission announced that the 2026–2029 Election Strategic Plan will be unveiled in the first week of November.Elections Commissioner General Saman Sri Ratnayake said the plan is now in its final stages of preparation. He further noted that work has also begun on drafting new laws related to early elections.
-
-◼️
-
-[Data](articles/00bf7490.json)
-
-[Extended Data](ext_articles/00bf7490.ext.json)
-
----
-
-### COPE Calls Institutions for Review
-
-*2025-09-28 06:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/cope-calls-institutions-for-review) · `en`
-
-Colombo (News 1st); All institutions under the Committee on Public Enterprises (COPE) have been summoned for a meeting on the 2nd.COPE Chairman Dr. Nishantha Samaraweera said that 457 institutions are included. He noted that the discussions will focus on common issues such as the possible misuse of public funds, as well as the future plans of these institutions.
-
-◼️
-
-[Data](articles/9fe9233c.json)
-
-[Extended Data](ext_articles/9fe9233c.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-28 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/112976/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (28), the Department of Meteorology said.
-
-Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts, the Met. Department added.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/2a1de20b.json)
-
-[Extended Data](ext_articles/2a1de20b.ext.json)
-
----
-
-### Mahinda and Ranil about 'redemption' in politics
-
-*2025-09-28 06:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226271) · `ta`
-
-He is trying to show that people are still sympathetic to him, and believe that he can use the current opportunity to increase the influence of his party. Mahinda Rajapaksa did not even be free after the experience that he and his families were obliged to the Sinhalese as the end of the war.
-
-◼️
-
-[Data](articles/eec1cbce.json)
-
-[Extended Data](ext_articles/eec1cbce.ext.json)
-
----
-
-### Several showers today
-
-*2025-09-28 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215084) · `si`
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces can be held in Galle, Kandy, and Nuwara Eliya districts today (28).
-
-The Department said in the Uva Province in the Uva Province. Showers or thundershowers will occur at several places, about 2.00.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (40-50) can cause strong winds.
-
-Winds from Galle to Matara and Hambantota from time to time in the sea areas off the coast extending from the Kankasanthurai and Mullaittivu.. The announcement states that around (50-60) can increase.
-
-The sea areas off the coast extending from Galle to Matara and Hambantota can be roughly rough at Trincomalee, Kankasanthurai and Mullaitivu.
-
-◼️
-
-[Data](articles/a9e43498.json)
-
-[Extended Data](ext_articles/a9e43498.ext.json)
-
----
-
-### The weather today
-
-*2025-09-28 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226269) · `ta`
-
-The Department of Meteorology has said that rainfall will occur in Sabaragamuwa, Western and North Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-There is a chance of rain or thunderstorms after two o'clock in the afternoon.
-
-Strong winds can be frequent at speeds of 40 - 50 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
-
-The public is asked to avoid damage to the cause of strong winds.
-
-Rainfall is expected in many parts of the sea regions from Colombo to Galle, Matara and Hambantota.
-
-Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
-
-From Chilaw to Mannar, Kankesanthurai and Mullaitivu via Trincomalee, Galle to Pottuvil, Matara, Hambantota, Pottuvil, 50 - 60 km / h.. In these cases, these sea regions are turbulent.
-
-Therefore, fishermen and maritime workers who go to the sea are asked to engage in fisheries.
-
-◼️
-
-[Data](articles/42b4b4aa.json)
-
-[Extended Data](ext_articles/42b4b4aa.ext.json)
-
----
-
-### I am heartbroken
-
-*2025-09-28 06:05:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதயம்-நொறுங்கிப்-போய்-இருக்கிறேன்/175-365387) · `ta`
-
-The heart is shattered; The Karur congestion incident says that I am in pain and sadness that is unbearable and unbearable.. Chairman Vijay said.
-
-“I am heartbroken. I am working in pain and sadness that cannot bear, words that cannot be said.
-
-I extend my deepest sympathies and condolences to the families of my brothers and sisters who died in Karur. Those who get treatment at the hospital, pray for healing soon. ” Vijay has thus said.
-
-Prime Minister Modi, Defense Minister Rajnath Singh, Tamil Nadu Chief Minister MK Stalin and Opposition Leader Edappadi Palanisamy. (A)
-
-◼️
-
-[Data](articles/03989fa0.json)
-
-[Extended Data](ext_articles/03989fa0.ext.json)
-
----
-
-### 2025-09-27 (Saturday)
-
-### 30 arrested during special police operation in Maradana
-
-*2025-09-27 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112975/30-arrested-during-special-police-operation-in-maradana-) · `en`
-
-Police have arrested a total of 30 individuals in a special operation carried out in the Maradana area including Stroke Place, this evening (27).
-
-According to police, the arrested individuals include those with pending warrants as well as others wanted in connection with various crimes.
-
-The Sri Lanka Army has also taken part in the coordinated effort.
-
-◼️
-
-[Data](articles/5555b656.json)
-
-[Extended Data](ext_articles/5555b656.ext.json)
-
----
-
-### Karur affair: 40 people die: 50 injured
-
-*2025-09-27 22:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-விவகாரம்-40-பேர்-மரணம்-50-பேருக்கு-காயம்/175-365386) · `ta`
-
-The number of casualties trapped in a meeting attended by actor Vijay in Karur has risen to 40.
-
-◼️
-
-[Data](articles/26c0017a.json)
-
-[Extended Data](ext_articles/26c0017a.ext.json)
-
----
-
-### 31 killed in a thruthonts of Vijay's political rally
-
-*2025-09-27 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215083) · `si`
-
-31 people have been killed in a thruthont in Vijay, Vijay, Vijay, in the Curaur District of Tamil Nadu.
-
-Foreign media reports that some people were fainted due to a large number of people.
-
-The rally had attended at least 30,000 people, police said.
-
-However, Wije's arrival for this rally has delayed, and the people have already reached uncontrolled.
-
-◼️
-
-[Data](articles/a053653c.json)
-
-[Extended Data](ext_articles/a053653c.ext.json)
-
----
-
-### The Importance Of Education In Emergencies For Eliminating The Dependency Mindset
-
-*2025-09-27 22:03:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-importance-of-education-in-emergencies-for-eliminating-the-dependency-mindset/) · `en`
-
-Emergencies—whether natural disasters, armed conflicts, pandemics, or economic crises—disrupt the normal functioning of societies. In such contexts, the education system often collapses, leaving children and communities vulnerable to a “dependency mindset.” This mindset is characterized by reliance on external aid rather than building self-reliance and sustainable solutions.
-
-Education plays a critical role in preventing and eliminating this dependency. By continuing learning even during crises, education nurtures resilience, independence, and problem-solving capabilities, enabling individuals and communities to rebuild their futures
-
-The dependency mindset refers to a psychological and social state where individuals or communities rely excessively on external aid rather than developing internal capacities to solve their own problems.
-
-...
-
-[Data](articles/3c479893.json)
-
-[Extended Data](ext_articles/3c479893.ext.json)
-
----
-
-### Stampede at Indian actor Vijay’s rally in Karur leaves 10 dead
-
-*2025-09-27 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112974/stampede-at-indian-actor-vijays-rally-in-karur-leaves-10-dead) · `en`
-
-A stampede at the rally of actor-politician Vijay, in Tamil Nadu’s Karur, has left at least 10 persons dead, NDTV reported, citing officials of a local hospital. The death toll is feared to rise further.
-
-Vijay, who recently launched his political party Tamilaga Vettri Kazhagam (TVK), arrived around six hours late at the rally venue in Karur, the report said, adding that around 30,000 people gathered at the venue to hear him.
-
-The crowd swelled and became uncontrollable even as Vijay was addressing the gathering and a number of persons including party workers and a few children fainted and fell down.
-
-Several workers noticed the situation and raised an alarm and Vijay took note and halted his speech and threw water bottles from atop the custom-built campaign bus, PTI reported. Ambulances had a tough time negotiating the heavily crowded thoroughfare to reach the spot, the news agency added.
-
-...
-
-[Data](articles/141abeaf.json)
-
-[Extended Data](ext_articles/141abeaf.ext.json)
-
----
-
-### Vijay campaign jam in Karur: 31 people killed
-
-*2025-09-27 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226268) · `ta`
-
-Tamil Nadu Victory Council President Vijay met with people in Karur district on Saturday (September 27, 2025).. This has caused great tragedy in Karur district.
-
-A woman who was in the crowd then felt faint. He was immediately taken to the hospital by Ambulance.
-
-After Vijay's departure, there was a huge congestion when the crowd dissolved. More than 50 people were unconscious. They were immediately taken to the hospital and treated.
-
-It was reported that 2 people died without treatment for the first time. Following this, the information from the hospital caused great distress.
-
-In the second phase, it was reported that 10 people, including a woman and 3 children, died.
-
-Currently, District Health Minister Ma Subramanian has confirmed that a total of 31 people, including 6 children and 16 women, have been killed in the Vijay campaign meeting.
-
-It is feared that 12 more people are being treated in this tragedy, causing deaths.
-
-◼️
-
-[Data](articles/3ba9a796.json)
-
-[Extended Data](ext_articles/3ba9a796.ext.json)
-
----
-
-### Special police operation in Maradana
-
-*2025-09-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215082) · `si`
-
-Police have conducted a special operation this evening in the Maradana area.
-
-The special operation has been implemented by several locations including the Maradana Stroke Place.
-
-Thirty persons were able to arrest warrants and various crimes.
-
-◼️
-
-[Data](articles/44747c61.json)
-
-[Extended Data](ext_articles/44747c61.ext.json)
-
----
-
-### Agricultural and Agrarian Insurance Board receives highest progress in the last year
-
-*2025-09-27 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215081) · `si`
-
-The agriculture and the Agrarian Insurance Board (Agricultural and Agrarian) (agricultural and Agrarian) has been able to achieve the highest progress in the Ministry of Agriculture, Livestock, Land and Irrigation.
-
-The Chairman of the Board Chairman Premadasiri Jasinghahahachchi said that the amount of financial assets could be increased to Rs.
-
-The new resources insurance scheme have been able to implement the new insurance schemes for cinnamon, rubber and banana plantations that cattle, rubber and bananas cultivation have been introduced under the Livestock Insurance Scheme.
-
-He also said that the accident is also introduced to Kithul, Palmyra and Coconut industrialists.
-
-The fishermen have not paid attention to the risk of the fishermen, and the Department of Agriculture has been given to the Board, No. 20 of 1999 and is also a dangerous death life insurance scheme for all the warning.
-
-...
-
-[Data](articles/bdae452a.json)
-
-[Extended Data](ext_articles/bdae452a.ext.json)
-
----
-
-### President Dissanayake attends Sri Lanka Day at ‘EXPO 2025 Osaka’
-
-*2025-09-27 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112973/president-dissanayake-attends-sri-lanka-day-at-expo-2025-osaka-) · `en`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan, arrived this morning (27) at the Kansai International Airport in Osaka, Japan.
-
-As the first engagement of his visit, the President attended the Sri Lanka Day celebrations at the “EXPO 2025” exhibition being held in Osaka, Japan, the President’s Media Division (PMD) said.
-
-The Sri Lanka Day celebrations, organised jointly by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, showcased a variety of cultural performances reflecting Sri Lankan identity. The cultural programme attracted a large audience of both Japanese nationals and international visitors.
-
-During the ‘EXPO 2025 Osaka’, the President also visited the Sri Lanka and Japan exhibition pavilions, the PMD said.
-
-Addressing the gathering, President Dissanayake further noted that ‘EXPO 2025’ provides Sri Lanka with a global platform to share its vision for a bright future, grounded in its culture, innovation and human values.
-
-...
-
-[Data](articles/6f396df5.json)
-
-[Extended Data](ext_articles/6f396df5.ext.json)
-
----
-
-### Karur news is worried: Chief Minister of Tamil Nadu
-
-*2025-09-27 21:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-செய்தி-கவலையளிக்கிறது-தமிழக-முதல்வர்/175-365385) · `ta`
-
-◼️
-
-[Data](articles/913c4962.json)
-
-[Extended Data](ext_articles/913c4962.ext.json)
-
----
-
-### Faced with a series of challenges, Sri Lanka is currently rebuilding the stable and participation economy
-
-*2025-09-27 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226267) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, arrived at the Kansai International Airport in Osaka, Japan on Saturday (27).
-
-The first event of his visit, the President participated in the Sri Lanka Day event at the "Expo 2025" exhibition in Osaka, Japan.
-
-The Sri Lanka Embassy in Sri Lanka and the Sri Lanka Embassy in Japan was colorful with various cultural features that reflect the identity of Sri Lanka. Not only a large number of Japanese but also foreigners gathered to watch this cultural event.
-
-Speaking at the event, President Anuragumara Dissanayake said that during this time of changes in the world, Sri Lanka is at an important stage in its economic journey and that Sri Lanka is facing a series of challenges and that the benefits of this development will be upgraded and the benefits of this development will be upgraded.
-
-...
-
-[Data](articles/a507a64a.json)
-
-[Extended Data](ext_articles/a507a64a.ext.json)
-
----
-
-### 29 people die in Vijay meeting
-
-*2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-29-பேர்-உயிரிழப்பு/175-365384) · `ta`
-
-29 people, including 3 children, were killed in a congestion in Vijay's campaign in Karur in Tamil Nadu.
-
-◼️
-
-[Data](articles/a2e9b144.json)
-
-[Extended Data](ext_articles/a2e9b144.ext.json)
 
 ---

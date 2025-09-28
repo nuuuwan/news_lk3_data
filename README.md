@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 04:37:15**
+As of **2025-09-29 04:54:49**
 
 ## Newspaper Stats
 
-*Scraped **79,298** Articles*
+*Scraped **79,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,78 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,872
-virakesarilk | 12,925
+virakesarilk | 12,929
 adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,298 (100.0%) of 79,298 articles have been extended.
+79,298 (100.0%) of 79,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### மன்னார் காற்றாலை திட்டத்தை உடன் நிறுத்துங்கள்; பொதுமக்கள் மீதான பொலிஸாரின் தாக்குதல் வன்மையாக கண்டிக்கத்தக்கது - மனோ கணேசன், காவிந்த ஜயவர்தன
+
+*2025-09-29 04:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226358) · `ta`
+
+மன்னார் காற்றாலைத் திட்டத்தை ஒருமாதத்துக்கேனும் இடைநிறுத்தி மன்னார் மாவட்ட மக்களுடன் ஜனாதிபதி நேரடியாக பேச்சுவார்த்தையில் ஈடுபட வேண்டும். இந்த பிரச்சினைக்கு தீர்வு காண்பதற்கு முழுமையான ஒத்துழைப்பு வழங்க தயார். ஜனநாயக ரீதியிலான போராட்டத்தில் ஈடுபட்ட பொதுமக்கள் மீது பொலிஸார் தாக்குதல் மேற்கொண்டமை வன்மையாக கண்டிக்கத்தக்கது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான மனோ கணேசன், காவிந்த ஜயவர்தன ஆகியோர் கடும் அதிருப்தியை வெளிப்படுத்தினார்.
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான மனோ கணேசன், காவிந்த ஜயவர்தன 29ஆம் திகதி திங்கட்கிழமை மன்னாருக்கு சென்று, மதத் தலைவர்கள், போராட்டத்தில் ஈடுபடும் பொதுமக்கள் உட்பட சிவில் தரப்பினரை சந்தித்து கலந்துரையாடவுள்ளதுடன், மன்னார் காற்றாலைத் திட்டத்துக்கு எதிரான போராட்டத்திலும் கலந்துக்கொள்ளவுள்ளனர்.
+
+...
+
+[Data](articles/76dfb9ce.json)
+
+---
+
+### மன்னார் காற்றாலை திட்டம் தொடர்பில் அரசியல் காய்நகர்த்தல் இடம்பெறுகிறது - அமைச்சர் இராமலிங்கம் சந்திரசேகர்
+
+*2025-09-29 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226357) · `ta`
+
+மன்னார் காற்றாலை திட்டத்தை தொடர்புப்படுத்தி விரிக்கப்பட்டுள்ள பொறியில் சிக்க வேண்டாம் என்று மன்னார் மாவட்ட மக்களிடம் தயவுடன் கேட்டுக்கொள்கிறோம்.இந்த பொறி உங்களுக்கு மாத்திரமானதல்ல, உங்களுடைய பிள்ளைகளுக்கும் உரியது.உங்களுடைய பிரதேசத்தையே இந்த பொறி நாசமாக்கும்.ஆகவே மக்கள் கவனமாக செயற்பட வேண்டும் என்று கேட்டுக்கொள்கிறேன். காற்றாலை திட்டம் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளது.ஆரம்பிக்கப்பட்ட பணிகளை நிறைவுப்படுத்த வாய்ப்பளிக்குமாறே மக்களிடம் கோருகிறோம்.இந்த திட்டத்தால் எவ்வித பாதிப்பும் ஏற்படாது. போராட்டத்தின் பின்னணியில் அரசியல் காய்நகர்த்தல் இடம்பெறுகிறது என கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
+
+வடக்கில் இடம்பெற்ற திலீபனின் அனுஸ்டிப்புக்கு சென்றபோது ஒரு தரப்பினர் எம்மை தடுத்தார்கள். அனுஸ்டிப்பின் இறுதி நாளன்று யாரோ ஒருவர் துண்டிப்பிரசுரத்தை விநியோகித்ததாகவும், வன்முறையை கையாளும் கஜேந்திரகுமாரின் அணி அந்த நபர் மீது வன்முறையை கையாண்டதாகவும் குறிப்பிடப்படுகிறது.இந்த சம்பவத்துக்கும் தேசிய மக்கள் சக்திக்கும் இடையில் எவ்வித தொடர்பும் கிடையாது.
+
+...
+
+[Data](articles/1db363fb.json)
+
+---
+
+### மித்தெனியக்கு கொண்டு செல்லப்பட்ட ஐஸ் இரசாயனக் கொள்கலன்கள் தொடர்பில் சம்பத் மனம்பேரி பெக்கோ சமனின் தொடர்பு – குற்றப்பிரிவு தகவல்
+
+*2025-09-29 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226356) · `ta`
+
+சம்பத் மனம்பேரி பெக்கோ சமனின் அறிவுறுத்தலின் பேரில் ஐஸ் இரசாயனம் அடங்கிய இரு கொள்கலன்களையும் மித்தெனிய பகுதிக்கு கொண்டு சென்றமை விசாரணைகளின் போது தெரியவந்துள்ளதாக மேல் மாகாண வடக்கு குற்றப்பிரிவு தெரிவித்துள்ளது.
+
+தடுப்புக்காவல் உத்தரவின் பேரில்  மேல் மாகாண வடக்கு குற்றப் பிரிவினரால் தடுத்து வைக்கப்பட்டுள்ள சம்பத் மனம்பேரியிடம் மேற்கொள்ளப்பட்ட விசாரணையின் போது, மித்தெனிய பகுதியில் கண்டெடுக்கப்பட்ட ஐஸ் போதைப்பொருள் அடங்கிய இரண்டு கொள்கலன்கள் தொடர்பாக விசாரணை அதிகாரிகளால் மேலும் பல உண்மைகளை வெளிக்கொணரப்பட்டுள்ளன.
+
+சந்தேகநபர், பெக்கோ சமனின் அறிவுறுத்தலின் பேரில் ஐஸ் இரசாயனம் அடங்கிய இரு கொள்கலன்களையும் மித்தெனிய பகுதிக்கு கொண்டு சென்றதாகவும், எனினும் அவை ஐஸ் போதைப்பொருள்  தயாரிக்கப் பயன்படுத்தப்படும் இரசாயனம் என்பது தனக்கு ஒரு சில நாட்களுக்குப் பின்னரே தெரியவந்ததாகவும் தெரிவித்துள்ளார்.  குறித்த இரு கொள்கலன்களையும் பொறுப்பேற்குமாறு பெக்கோ சமன் இந்தோனேசிய பொலிஸாரால் கைது செய்யப்படுவதற்கு முன்னரே  வாட்சப் செயலியினுடாக  அறிவுருத்தியிருந்தார்.
+
+...
+
+[Data](articles/a3ae4893.json)
+
+---
+
+### நிலக்கரி கொள்முதல் வழிகாட்டல் மீறப்பட்டதா? – புபுது ஜயகொடை சந்தேகம்
+
+*2025-09-29 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226355) · `ta`
+
+மின் உற்பத்திக்கான நிலக்கறி கேள்விக்கோரலின்போது  அரசாங்கம் பின்பற்றிய தகுதிகளை பார்க்கும்போது, குறித்த ஒரு  நிறுவனத்துக்கு வழங்கும் நோக்கில் கொள்முதல் வழிகாட்டலை மீறியுள்ளதா என்ற சந்தேகம் எழுகிறது என முன்னிலை சோசலி கட்சியின் கல்விச் செயலாளர் புபுது ஜயகொட தெரிவித்தார்.
+
+பொலன்னறுவை பிரதேசத்தில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற மக்கள் சந்திப்பொன்றில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மின் உற்பத்திக்கான நிலக்கறி விநியோக கேள்விக்கோரல் கடந்த  15ஆம் திகதி பகிரங்கப்படுத்தப்பட்டிருந்தது. அந்த கேள்விக்கோரலின் ஆகக்குறைந்த கேள்வித்தொகையை சமர்ப்பித்த குறித்த  நிறுவனத்துக்கு அது உரித்தானது. என்றாலும் நிலக்கறி விநியோக கேள்விக்கோரலின் போது, பின்பற்றிய தகுதிகளை பார்க்கும்போது, இந்த கேள்விக்கோரல் குறித்த அந்த நிறுவனத்துக்கு வழங்கும் நோக்கிலே கொள்முதல் வழிகாட்டலை மீறியுள்ளதா என்ற சந்தேகம் எழுகிறது.
+
+...
+
+[Data](articles/9e1c3e7a.json)
+
+---
 
 ### Politicians are also afraid of law - the president
 
@@ -1956,97 +2016,5 @@ Minister Ananda Wijepala emphasized that it has been revealed that foreigners co
 [Data](articles/9208a47c.json)
 
 [Extended Data](ext_articles/9208a47c.ext.json)
-
----
-
-### It is a serious situation to be a country of powder
-
-*2025-09-28 15:28:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කඩ-නෂපදත-රටක-වම-බරපතල-තතවයක/101-680354) · `si`
-
-The Mahanayala Thera Thera was a serious situation into a drug manufacturing country.
-
-He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowled out for Him Eve.
-
-The government should implement a proper program to suppress drugs.
-
-The government should implement a wide range of programs to rescue the Ruth the generation.  The current government seems to be genuinely desire to rescue the country from drugs.
-
-Rehabilitated the addiction, but then they are getting used again.  The rehabilitation of the addicts should be carried out properly. The Thera emphasized that there is available.
-
-Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
-
-◼️
-
-[Data](articles/fffd4ffa.json)
-
-[Extended Data](ext_articles/fffd4ffa.ext.json)
-
----
-
-### Ukraine President Volodimir Jelensky condemns 12 -hour Russian attacks
-
-*2025-09-28 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226320) · `ta`
-
-About four people have died in Ukraine in a major Russian air strike that lasted more than 12 hours, and more than 40 people were injured, according to international media reports.
-
-Ukraine President Volodimir Jelenski says that the attacks on Ukraine's capital, Kiev, include a 12 -year -old girl in the victims.
-
-Russia reported about 600 drones and several missiles towards Ukraine, its Air Force said.
-
-President Jelensky noted that at least 16 people were injured in the Saborijia area, including three children, including three children.
-
-Ukraine President Volodimir Jelenski has condemned that Ukraine would retaliate and the attack would continue to kill Moscow.
-
-The media has reported that Russia has not made any comments on recent attacks.
-
-◼️
-
-[Data](articles/c9aba19d.json)
-
-[Extended Data](ext_articles/c9aba19d.ext.json)
-
----
-
-### Prime Minister Harinini
-
-*2025-09-28 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215099) · `si`
-
-The punishment bill is not aimed at school or teachers and is amended for the safety of the children in the entire society.
-
-The Prime Minister made this observation at a program held at the Ministry of Education yesterday (27) to announce the principals of the National Schools.
-
-Speaking further the Prime Minister said that
-
-"It's not just school, you know all children in society like the agencies, agenual children who have been transformed by the police, go to the agencies, agenuals, and children in society. It takes place, or mental.
-
-A number of serious problems have emerged from the elders of society or responsible people. This is not a law aimed at schools or aimed at teachers. This is amend on punishing children as a whole. This is a revision that is focusing on physical punishment, especially the agency children, children and children who are children in probation.
-
-...
-
-[Data](articles/f092998f.json)
-
-[Extended Data](ext_articles/f092998f.ext.json)
-
----
-
-### 28,500 individuals subjected to inspection during special operation yesterday
-
-*2025-09-28 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112999/28500-individuals-subjected-to-inspection-during-special-operation-yesterday) · `en`
-
-A total of 664 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (27).
-
-As part of the operation, 28,778 people were subjected to inspection, the Police Media Division said.
-
-Police have identified seven individuals directly linked to criminal activities while 417 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 42 drunk drivers were apprehended while a further 14 reckless drivers and 3,895 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/f922a156.json)
-
-[Extended Data](ext_articles/f922a156.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 04:37:15**
+As of **2025-09-29 05:05:57**
 
 ## Newspaper Stats
 
-*Scraped **79,298** Articles*
+*Scraped **79,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,96 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,872
-virakesarilk | 12,925
+virakesarilk | 12,929
 adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,298 (100.0%) of 79,298 articles have been extended.
+79,302 (100.0%) of 79,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### Stop the Mannar windmill project; Police attack on civilians is vehemently condemned - Mano Ganesan
+
+*2025-09-29 04:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226358) · `ta`
+
+The President should directly negotiate with the people of Mannar district to suspend the Mannar windmill project for a month. Ready to provide full cooperation to solve this issue. United People's Power MPs Mano Ganesan and Kavinda Jayawardena expressed their displeasure that the police attacked the civilians involved in a democratic struggle.
+
+United People's Power MPs Mano Ganesan will visit Mannar on Monday 29th and meet with civil parties, including religious leaders and civilians, and will participate in the protest against the Mannar Wind Project.
+
+United People's Power MPs Mano Ganesan and Kavinda Jayawardena held a special media briefing at the Opposition Leader's Office in Colombo to condemn the attack on the police in protest of the Mannar windmill.
+
+Police have brutally attacked the public who were involved in a democratic protest in protest of the Mannar windmill project.. We strongly condemn the activities of the police.
+
+...
+
+[Data](articles/76dfb9ce.json)
+
+[Extended Data](ext_articles/76dfb9ce.ext.json)
+
+---
+
+### Political Ceylon
+
+*2025-09-29 04:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226357) · `ta`
+
+We are kindly asking the people of Mannar district not to get caught up in the trap of the Mannar windmill project. This trap is not for you but your children. This trap will ruin your area.. The wind power project has already been launched.. Fisheries Minister Ramalingam Chandrasekhar said politics is behind the struggle.
+
+When we went to Dileepan's observation in the north, a party blocked us. It is said that someone had distributed the disconnect on the last day of the observance and that Gajendrakumar's team of violence had dealt with violence on the man.
+
+We do not need to act in a lower way. If we are taking action against minor activities as a party, we can act in other ways.. We accept that everyone has the right to fight and express ideas.
+
+Media freedom and freedom of expression have been confirmed than in the past. That is why many criticisms and allegations are being made against us today.. They have no other job. They are opposed to all the development projects in the North.
+
+...
+
+[Data](articles/1db363fb.json)
+
+[Extended Data](ext_articles/1db363fb.ext.json)
+
+---
+
+### Contact Sampath Manamamberi Becko Saman on Ice Chemical Containe carried to Mitteni - Criminal Information
+
+*2025-09-29 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226356) · `ta`
+
+The Western Province Northern Crime Division said that the two containers containing ice chemicals were brought to the Mitteniya area on the instructions of Sampath Manamberry Becko Saman.
+
+Investigations carried out by Sampath Manamperi detained by the Western Province Northern Crime Division on the detention order have revealed many more facts by two containers of ice drugs found in the Mitteniya area.
+
+The suspect said that on the instructions of Becko Saman, the two containers of ice chemicals were brought to the Mitteniya region, although they were revealed a few days later.  Becko Saman advised the Watch process before the arrest of the Indonesian police to take charge of the two containers.
+
+...
+
+[Data](articles/a3ae4893.json)
+
+[Extended Data](ext_articles/a3ae4893.ext.json)
+
+---
+
+### Was the coal purchase guidelines violated? - Pubudu Jayakoda Suspicion
+
+*2025-09-29 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226355) · `ta`
+
+In view of the qualifications the government has adopted during the coal generation questioning for power generation, there is suspicion that the procurement guidance has been aimed at providing a company to a company.
+
+He was speaking at a public meeting held in Polonnaruwa on Sunday (28).
+
+The coal supply questionnaire for power generation was made public on the 15th of last month. It belongs to the company that submitted the lowest question. However, during the coal supply questioning, the qualifications followed are doubtful whether the procurement guidance was aimed at providing the company on this question.
+
+Allegations have been made with the name of the company.. The company said in a report submitted to the State Entrepreneurship Executive Committee on 2016,9,2016 that the company had violated the State Purchase Guidelines during the distribution of 30 thousand matricthon rice to Sathosa in 2014.
+
+...
+
+[Data](articles/9e1c3e7a.json)
+
+[Extended Data](ext_articles/9e1c3e7a.ext.json)
+
+---
 
 ### Politicians are also afraid of law - the president
 
@@ -1956,97 +2034,5 @@ Minister Ananda Wijepala emphasized that it has been revealed that foreigners co
 [Data](articles/9208a47c.json)
 
 [Extended Data](ext_articles/9208a47c.ext.json)
-
----
-
-### It is a serious situation to be a country of powder
-
-*2025-09-28 15:28:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කඩ-නෂපදත-රටක-වම-බරපතල-තතවයක/101-680354) · `si`
-
-The Mahanayala Thera Thera was a serious situation into a drug manufacturing country.
-
-He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowled out for Him Eve.
-
-The government should implement a proper program to suppress drugs.
-
-The government should implement a wide range of programs to rescue the Ruth the generation.  The current government seems to be genuinely desire to rescue the country from drugs.
-
-Rehabilitated the addiction, but then they are getting used again.  The rehabilitation of the addicts should be carried out properly. The Thera emphasized that there is available.
-
-Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
-
-◼️
-
-[Data](articles/fffd4ffa.json)
-
-[Extended Data](ext_articles/fffd4ffa.ext.json)
-
----
-
-### Ukraine President Volodimir Jelensky condemns 12 -hour Russian attacks
-
-*2025-09-28 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226320) · `ta`
-
-About four people have died in Ukraine in a major Russian air strike that lasted more than 12 hours, and more than 40 people were injured, according to international media reports.
-
-Ukraine President Volodimir Jelenski says that the attacks on Ukraine's capital, Kiev, include a 12 -year -old girl in the victims.
-
-Russia reported about 600 drones and several missiles towards Ukraine, its Air Force said.
-
-President Jelensky noted that at least 16 people were injured in the Saborijia area, including three children, including three children.
-
-Ukraine President Volodimir Jelenski has condemned that Ukraine would retaliate and the attack would continue to kill Moscow.
-
-The media has reported that Russia has not made any comments on recent attacks.
-
-◼️
-
-[Data](articles/c9aba19d.json)
-
-[Extended Data](ext_articles/c9aba19d.ext.json)
-
----
-
-### Prime Minister Harinini
-
-*2025-09-28 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215099) · `si`
-
-The punishment bill is not aimed at school or teachers and is amended for the safety of the children in the entire society.
-
-The Prime Minister made this observation at a program held at the Ministry of Education yesterday (27) to announce the principals of the National Schools.
-
-Speaking further the Prime Minister said that
-
-"It's not just school, you know all children in society like the agencies, agenual children who have been transformed by the police, go to the agencies, agenuals, and children in society. It takes place, or mental.
-
-A number of serious problems have emerged from the elders of society or responsible people. This is not a law aimed at schools or aimed at teachers. This is amend on punishing children as a whole. This is a revision that is focusing on physical punishment, especially the agency children, children and children who are children in probation.
-
-...
-
-[Data](articles/f092998f.json)
-
-[Extended Data](ext_articles/f092998f.ext.json)
-
----
-
-### 28,500 individuals subjected to inspection during special operation yesterday
-
-*2025-09-28 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112999/28500-individuals-subjected-to-inspection-during-special-operation-yesterday) · `en`
-
-A total of 664 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (27).
-
-As part of the operation, 28,778 people were subjected to inspection, the Police Media Division said.
-
-Police have identified seven individuals directly linked to criminal activities while 417 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 42 drunk drivers were apprehended while a further 14 reckless drivers and 3,895 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/f922a156.json)
-
-[Extended Data](ext_articles/f922a156.ext.json)
 
 ---

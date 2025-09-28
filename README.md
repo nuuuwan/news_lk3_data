@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 11:39:43**
+As of **2025-09-28 12:21:32**
 
 ## Newspaper Stats
 
-*Scraped **79,080** Articles*
+*Scraped **79,123** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 368
+lankadeepalk | 373
 newsfirstlk | 450
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -18,20 +18,314 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,630
-adaderanalk | 10,215
-tamilmirrorlk | 11,848
-virakesarilk | 12,845
-adaderanasinhalalk | 13,727
+adaderanalk | 10,218
+tamilmirrorlk | 11,855
+virakesarilk | 12,871
+adaderanasinhalalk | 13,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,075 (100.0%) of 79,080 articles have been extended.
+79,106 (100.0%) of 79,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### எதிர்க்­கட்­சி­களின் ஒன்­றி­ணைவு சாத்­தி­யமா?
+
+*2025-09-28 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226285) · `ta`
+
+அண்­மையில் ஐக்­கிய தேசியக் கட்­சியின் சம்­மே­ளனக் கூட்­டத்தில் உரை­யாற்­றிய அதன் தலை­வரும் முன்னாள் ஜனா­தி­ப­தி­யு­மான, ரணில் விக்­கி­ர­ம­சிங்­கவும், ஏனைய கட்­சி­களின் தலை­வர்­களும், அர­சாங்­கத்தை எதிர்ப்­ப­தற்கு  எதிர்க்­கட்­சிகள் ஒன்­றி­ணைய வேண்­டி­யதன் அவ­சி­யத்தை வலி­யு­றுத்­தி­யி­ருந்­தனர்.
+
+◼️
+
+[Data](articles/7cfdc8ef.json)
+
+---
+
+### வேனைத் திருடி, அடகு வைத்து, காதலியுடன் சவாரி செய்த காதலன்
+
+*2025-09-28 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேனைத்-திருடி-அடகு-வைத்து-காதலியுடன்-சவாரி-செய்த-காதலன்/76-365406) · `ta`
+
+கண்டி நகரில் உள்ள ஒரு வாகன விற்பனையகத்தில் இருந்து 7 மில்லியன் மதிப்புள்ள வேனை திருடி, மாத்தளை, பல்லேபொலவில் உள்ள ஒரு  கடையில் வாகனத்தை அடகு வைத்து, அந்தப் பணத்தைப் பயன்படுத்தி ஒரு சூப்பர் மோட்டார் சைக்கிளை வாங்க தனது காதலியுடன் வீடு திரும்பும் போது சந்தேக நபர் கைது செய்யப்பட்டார்.
+
+கண்டி தலைமையக காவல்துறையின் குற்றப்பிரிவுக்குக் கிடைத்த தகவலின் அடிப்படையில் நடத்தப்பட்ட நீண்ட விசாரணையின் போது,  கண்டி, டி.எஸ். சேனநாயக்க தெருவில் உள்ள ஒரு உணவகத்தில் பணியாளராகப் பணிபுரிந்த மாத்தளை, மடிபொலவைச் சேர்ந்த 32 வயதுடைய ஒருவர் கைது செய்யப்பட்டார்.
+
+டி.எஸ். சேனநாயக்க தெருவில் உள்ள ஒரு வாகன விற்பனையகத்திற்குள் கடந்த 22 ஆம் திகதி இரவு நுழைந்த சந்தேக நபர், விற்பனையகத்திலிருந்து ஒரு டொயோட்டா நோவா வேன் மற்றும் அதனுடன் தொடர்புடைய ஆவணங்களைத் திருடியுள்ளார்.
+
+...
+
+[Data](articles/90bce81b.json)
+
+---
+
+### நீர்த்­துப்­போன ஜெனிவா வரைவு
+
+*2025-09-28 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226284) · `ta`
+
+ஐ.நா. மனித உரி­மைகள் பேர­வை யின் 60 ஆவது கூட்­டத்­தொ­டரில் பிரே­ர­ணை­களை முன்­வைப்­ப­தற்­கான காலை­எல்லை கடந்த 25 திகதி பிற்­பகல் 1.00 மணி­ய­ளவில் நிறை­வ­டைந்­தது.
+
+◼️
+
+[Data](articles/a29136e5.json)
+
+---
+
+### இராணுவத்தின் குற்றங்களை வெளிப்படுத்த சோமரத்ன ராஜபக்ஷ விசாரிக்கப்படுவாரா? ; வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐ.நா. குழுவின் அறிக்கையாளர்கள் அரசாங்கத்திடம் கேள்வி
+
+*2025-09-28 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226302) · `ta`
+
+இராணுவத்தினரால் இழைக்கப்பட்ட குற்றங்கள் தொடர்பில் சாட்சியம் வழங்குவதற்குத் தயாராக இருப்பதாக சோமரத்ன ராஜபக்ஷ அறிவித்திருக்கும் நிலையில், அவர் விசாரணை செயன்முறைகளில் அவர் உள்வாங்கப்படுவாரா என வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐக்கிய நாடுகள் குழுவின் அறிக்கையாளர்கள் இலங்கை அரசாங்கத்திடம் கேள்வி எழுப்பியுள்ளனர்.
+
+அரசாங்கத்தின் சார்பில் அதற்குப் பதிலளித்துள்ள அமைச்சர் ஹர்ஷன நாணயக்கார, காணாமல்போனோர் பற்றிய அலுவலகத்தின் அதிகாரிகள் சோமரத்ன ராஜபக்ஷவை சந்தித்து அவசியமான தகவல்களைப் பெற்றிருப்பதாகத் தெரிவித்துள்ளார்.
+
+அவரைத்தொடர்ந்து கருத்துரைத்த நீதியமைச்சர் ஹர்ஷன நாணயக்கார, அண்மையில் காணாமல்போனோர் பற்றிய அலுவலகத்தின் அதிகாரிகள் சோமரத்ன ராஜபக்ஷவை சிறைச்சாலையில் சென்று சந்தித்தாகவும், அவசியமான தகவல்கள்பெறப்பட்டிருப்பதாகவும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/7ba545ae.json)
+
+---
+
+### விஜய் தப்பினார்: புஸ்ஸி சிக்கினார்
+
+*2025-09-28 11:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-தப்பினார்-புஸ்ஸி-சிக்கினார்/175-365405) · `ta`
+
+தவெக பிரச்சாரக் கூட்டத்தில் 39 பேர் உயிரிழந்தது தொடர்பாக அக்கட்சியின் பொதுச் செயலாளர் புஸ்ஸி ஆனந்த் உள்ளிட்ட 3 பேர் மீது 5 பிரிவுகளின் கீழ் கரூர் நகர பொலிஸார் வழக்குப் பதிவு செய்துள்ளனர்.
+
+கரூர் வேலுசாமிபுரத்தில் நேற்று (27)  நடந்த தவெக பிரச்சாரக் கூட்டத்தில் 39 பேர் உயிரிழந்தனர். 50-க்கும் மேற்பட்டோர் காயமடைந்தனர். இது தொடர்பாக கரூர் நகர பொலிஸார் தவெக கரூர் மேற்கு மாவட்ட செயலாளர் வி.பி.மதியழகன், பொதுச் செயலாளர் என்.ஆனந்த், துணை பொதுச் செயலாளர் நிர்மல்குமார் ஆகிய 3 பேர் மீது 5 பிரிவுகளின் கீழ் கரூர் நகர பொலிஸார் வழக்குப் பதிவு செய்துள்ளனர்.
+
+அதன்படி, பிரிவு 105 (கொலைக்கு சமமல்லாத குற்றமற்ற கொலைக்கான தண்டனை), பிரிவு 110 (குற்றமற்ற கொலை செய்ய முயற்சி), பிரிவு 125 (மனித உயிருக்கு ஆபத்தை ஏற்படுத்தும் அவசரம் அல்லது அலட்சிய செயல்களுக்கு தண்டனை), பிரிவு 223 (பொது அதிகாரியின் உத்தரவுக்கு கீழ்ப்படியாமை), பொதுச் சொத்துக்கு சேதம் விளைவித்தல் ஆகிய 5 பிரிவுகளின் கீழ் வழக்குப் பதிவு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5d84da2e.json)
+
+---
+
+### கட்டுநாயக்க விமான நிலையத்தில் உலக சுற்றுலா தினம் கோலாகலக் கொண்டாட்டம்
+
+*2025-09-28 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226301) · `ta`
+
+இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் அதிகாரிகளால், கட்டுநாயக்க சர்வதேச விமான நிலையத்தின் வருகை முனையத்தில் மிகுந்த ஆடம்பரமாகவும் விழாவாகவும், செப்டம்பர் 27 ஆம் திகதி காலை உலக சுற்றுலா தினம்,  கொண்டாடப்பட்டது.
+
+இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் திருமதி அனுஷா தமயந்தி, நிகழ்வின் பிரதம அதிதியாக கலந்து கொண்டார்.
+
+இதன்போது,  நாட்டுக்கு வருகைத்தந்த வெளிநாட்டு சுற்றுலாப் பயணிகள் அன்புடன் வரவேற்கப்பட்டு, கேக் மற்றும் தேயிலை அடங்கிய பொதிகள் அவர்களுக்கு வழங்கப்பட்டன.
+
+அதேநேரம், மலையக மற்றும் நாட்டுப்புற நடனக் கலைஞர்கள் குழுவும், கட்டுநாயக்க விமான நிலையத்திற்கு வந்த சுற்றுலாப் பயணிகளுக்காக நடனங்களை நிகழ்த்தினர்.
+
+இந்த நிகழ்வில் உரையாற்றிய இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் அனுஷா தமயந்தி,இதுவரை 1.67 மில்லியன் வெளிநாட்டு சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை தந்துள்ளதாக தெரிவித்தார்.
+
+இந்த நிகழ்ச்சி செப்டம்பர் 27 ஆம் திகதி மதியம் 12:00 மணி வரை கட்டுநாயக்க விமான நிலையத்தில் நடைபெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b941b85d.json)
+
+---
+
+### ’’வழக்கறிஞர்’’ ’’டாக்டர்’’ ஸ்டிக்கர்கள் தடை
+
+*2025-09-28 11:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கறிஞர்-டாக்டர்-ஸ்டிக்கர்கள்-தடை/175-365404) · `ta`
+
+வழக்கறிஞர்கள், மருத்துவர்கள் அல்லது பிற நிபுணர்கள், பாடசாலைகள் அல்லது பல்கலைக்கழகங்களைக் குறிக்கும் வகையில் வாகனங்களின் முன்  கண்ணாயில் பல்வேறு அளவுகளில் ஸ்டிக்கர்களை ஒட்டுவது சட்டவிரோதமானது என்று மோட்டார் போக்குவரத்துத் திணைக்களம் கூறுகிறது.
+
+வாகனங்களின் கண்ணாடிகளில் மோட்டார் வருவாய் உரிமம் மட்டுமே ஒட்ட அனுமதிக்கப்படுகிறது என்றும் போக்குவரத்துத் திணைக்களம் கூறுகிறது.
+
+சூரிய ஒளி உட்புறத்தில் நுழைவதைத் தடுக்க கண்ணாடியின் மேல்பகுதியில்  ஐந்தில் ஒரு பகுதியை இருட்டடிப்பு செய்யவும் அனுமதிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/8da7dd98.json)
+
+---
+
+### பாண் துண்டில் நறுக்கென கடிப்பட்ட விரல் தோல் துண்டு
+
+*2025-09-28 11:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாண்-துண்டில்-நறுக்கென-கடிப்பட்ட-விரல்-தோல்-துண்டு/76-365403) · `ta`
+
+ஹட்டனில் ஓர் அதிர்ச்சியூட்டும் சம்பவம் பதிவாகியுள்ளது. உள்ளூர் பேக்கரியில் இருந்து வாங்கப்பட்ட துண்டுகளாக்கப்பட்ட பாண் துண்டுக்குள் ஒரு விரலில் இருந்து மனித தோலின் ஒரு பகுதியை வாடிக்கையாளர் கண்டுபிடித்தார்.
+
+வாடிக்கையாளர் ரூ. 180 ரூபாய் கொடுத்து வியாழக்கிழமை (25) இரவு உணவிற்கு பாண்  வாங்கியதாக தகவல்கள் தெரிவிக்கின்றன. பாண் துண்டை உட்கொள்ளும் போது, ​​அந்த நபர் தோல் துண்டைக் கவனித்து உடனடியாக மேலும் சாப்பிடுவதைத் தவிர்த்தார். தோல் துண்டுடன் மாசுபட்ட பாண் துண்டை ஹட்டன்- டிக்கோயா நகராட்சி மன்றத்தின் பொது சுகாதார ஆய்வாளர்களிடம் (PHI) ஒப்படைத்துள்ளார்.
+
+ஆதாரங்களை ஆராய்ந்த பின்னர், PHI கள், பேக்கரி உரிமையாளருக்கு ஹட்டன் நீதிவான் நீதிமன்றத்தில் பல முறை ஏற்கனவே அபராதம் விதிக்கப்பட்டு, வளாகத்தை சுகாதாரமற்ற நிலையில் பராமரித்ததற்காக வழக்குத் தொடரப்பட்டதாக தெரிவித்தனர்.
+
+இந்த சமீபத்திய சம்பவம் தொடர்பாக பேக்கரி உரிமையாளருக்கு எதிராக பல புதிய வழக்குகளைத் தாக்கல் செய்ய நடவடிக்கை எடுக்கப்பட்டு வருவதாக அதிகாரிகள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/aeeb00e2.json)
+
+---
+
+### ரயிலில் மோதி சிறுவன் பலி
+
+*2025-09-28 11:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-சிறுவன்-பலி/175-365402) · `ta`
+
+பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கிச் சென்ற ரயிலில் மோதி 14 வயது சிறுவன் உயிரிழந்துள்ளார்.
+
+மெதகம பகுதியைச் சேர்ந்த குறித்த சிறுவன், தனது நண்பர்களுடன் ரம்புக்கனையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயிலில் திஸ்மல்பொல ரயில் நிலையத்திற்கு வந்து இறங்கிய நிலையில் நடைமேடைக்கு பதிலாக ரயில் பாதையில் காலடி வைத்துள்ளார்.
+
+இதன்போது குறித்த சிறுவன் தண்டவாளத்தைக் கடக்க முயன்ற போது ரயிலுடன் மோதியுள்ளார் என பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/0b977545.json)
+
+---
+
+### ஐ.தே.க.வுடன் அனைத்து கட்சிகளும் இணைந்தால் எந்தவொரு அரசியல் சக்தியாலும் அதற்கு ஈடு கொடுக்க முடியாது - நவீன் திஸாநாயக்க
+
+*2025-09-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226296) · `ta`
+
+ஐக்கிய தேசிய கட்சியுடன் அனைத்து கட்சிகளும் இணைந்தால் வேறு எந்தவொரு அரசியல் சக்தியாலும் அதற்கு ஈடு கொடுக்க முடியாது. ஐக்கிய மக்கள் சக்தி மற்றும் ஐ.தே.க.வுக்கு இடையிலான பிளவினால் சுமார் 15 இலட்சம் வாக்காளர்கள் வாக்களிக்காமலிருக்கின்றனர். அவர்களின் எதிர்பார்ப்பு நிறைவேற்றப்பட்டால் இலகுவாக எமது வெற்றியை உறுதிப்படுத்திக் கொள்ள முடியும் என முன்னாள் அமைச்சர் நவீன் திஸாநாயக்க தெரிவித்தார்.
+
+அநுராதபுரத்தில் நேற்று ஞாயிறுக்கிழமை இடம்பெற்ற கலந்துரையாடலொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஐக்கிய மக்கள் சக்தியுடன் தொடர்ந்தும் பேச்சுவார்த்தைகள் இடம்பெற்றுக் கொண்டிருக்கின்றன. ஏனைய கட்சிகளும் எம்முடன் இணைந்து செயற்பட இணக்கம் தெரிவித்துள்ளன. ஐக்கிய தேசிய கட்சியின் முகாமுக்குள் அனைத்து கட்சிகளையும் ஒன்றிணைக்க முடியுமானால் அங்கிருந்து வெற்றிக்கான பயணத்தை ஆரம்பிக்க முடியும். ஐக்கிய தேசிய கட்சிக்கு மாத்திரம் சுமார் 40 இலட்சம் வாக்குகள் உள்ளன.
+
+...
+
+[Data](articles/23c170bc.json)
+
+---
+
+### නා උයනේ අනතුරින් තවත් හිමි නමක් අපවත් වෙති
+
+*2025-09-28 11:33:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/න-උයන-අනතරන-තවත-හම-නමක-අපවත-වත/101-680344) · `si`
+
+පන්සියගම  නා උයන ආරණ්‍ය සේනාසනයේ භාවනා යෝගීව වැඩ වාසය කරන භික්ෂූන් වහන්සේ රැගත් විදුලියෙන් ක්‍රියාත්මක කරන ඩක්කුව කඩා වැටී ප්‍රපාතයට වැටීමෙන් තුවාල ලැබූ තවත් හිමි නමක් අපවත් වූහ.
+
+පසුගිය දා සිදු වූ එම අනතුරින් භික්ෂූන් වහන්සේලා 7 නමක් අපවත් වූ අතර තවත් භික්ෂූන් වහන්සේ හය නමක් තුවාල ලදහ.
+
+කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටී  පන්නිපිටියේ ඉන්දෝභාස හිමියන් අද  අලුයම අපවත් වූහ.
+
+අනතුරින් තුවාල ලැබූ ඉන්දෝභාස හිමියෝ කුරුණෑගල ශික්ෂණ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රථිකාර ලබමින් සිටියහ.
+
+◼️
+
+[Data](articles/6a17bd9e.json)
+
+---
+
+### சவுதி அரேபிய இராணுவ ஆலோசகர் பாதுகாப்பு செயலாளரை சந்தித்தார்
+
+*2025-09-28 11:30:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவுதி-அரேபிய-இராணுவ-ஆலோசகர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365401) · `ta`
+
+புது தில்லி மற்றும் கொழும்பில் உள்ள சவுதி அரேபிய தூதரகத்தின் பாதுகாப்பு ஆலோசகர்Captain (Navy) Hussain Othman Al Kowaileet,பாதுகாப்பு செயலாளர் எயார்வைஸ் மார்ஷல் சம்பத் துயகொந்தாவை (ஓய்வு) வௌ்ளிக்கிழமை ( 26) பாதுகாப்பு அமைச்சில் மரியாதை நிமித்தம் சந்தித்தார்.
+
+வருகை தந்த சவுதி அரேபிய பாதுகாப்பு ஆலோசகரை, பாதுகாப்பு செயலாளர் அன்புடன் வரவேற்றதுடன், அவருடன் சுமூக கலந்துரையாடலில் ஈடுபட்டார்.
+
+இதன் போது பரஸ்பர ஆர்வமுள்ள விடயங்கள் மற்றும் இரு தரப்பு ஒத்துழைப்பை வலுப்படுத்தல் குறித்து கருத்துக்களைப் பரிமாறிக்கொண்டனர். அத்துடன் இரு நாடுகளுக்கும் இடையில் நிலவும் நீண்டகால நல்லுறவையம் நினைவு கூர்ந்தனர்.
+
+◼️
+
+[Data](articles/d0403eee.json)
+
+---
+
+### Digital ID is compulsory for working in the UK
+
+*2025-09-28 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215094) · `si`
+
+As a goal of suppressing illegal immigration, digital identity card is to be used to work in the UK.
+
+The New Digital Identity Card Scheme is difficult to serve in the UK, which provides a range of benefits to the citizens.
+
+Foreign media reports that after the arrival of the Labor Party, the government has been stressed to solve the illegal immigration problem with the arrival of more than 50,000 migrants.
+
+It is difficult to work illegally working in the country due to the new digital identity card.
+
+◼️
+
+[Data](articles/c0c8e43d.json)
+
+[Extended Data](ext_articles/c0c8e43d.ext.json)
+
+---
+
+### කන්ටේනර් හොරු අල්ලන්න නාමල්ගෙන්  අභියෝගයක්
+
+*2025-09-28 11:24:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනටනර-හර-අලලනන-නමලගන-අභයගයක/101-680343) · `si`
+
+විපක්ෂය පස්සේ පන්නන්නේ නැතුව කන්ටේනර් පන්නපු හොරු ටික මුලින්ම අල්ලලා ඉන්නැයි තමා රජයට අභියෝග කරන බව ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ නාමල් රාජපක්ෂ මහතා පැවසීය.
+
+විපක්ෂය මර්දනය කර  ගොඩ ගිය ආණ්ඩුවක් නැතැයිද නාමල්  රාජපක්ෂ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/0df7e55a.json)
+
+---
+
+### Tourist arrivals in September exceeding one thousand and six thousand
+
+*2025-09-28 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215093) · `si`
+
+Tourist Development Authority (SLTDA) has said that the number of tourists arrived in September.
+
+According to the report, the number of tourist arrivals on the 24th of September was 126,379.
+
+Most of the tourists have come from India and it is 37,179.
+
+The second most visitors have come from the UK and 8,9.7.
+
+Germany has arrived in Sri Lanka during the month of 7,799 tourists, 7,226 tourists from China and 8,049 tourists from Australia.
+
+In the meantime, the number of tourist arrivals in Sri Lanka has risen to 1,692,902.
+
+The highest number of tourists had come from India and 362,774.
+
+In the UK, 160,078 from the UK, 121,452 from Germany and 105,443 people from Germany have visited the country.
+
+◼️
+
+[Data](articles/7342534d.json)
+
+[Extended Data](ext_articles/7342534d.ext.json)
+
+---
+
+### උණ්ඩ 24ක් සමග  තාත්තයි පුතයි මාට්ටු
+
+*2025-09-28 11:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උණඩ-24ක-සමග-තතතය-පතය-මටට/101-680342) · `si`
+
+වෙන්නප්පුව මිරිස්සන්කොටුව කිරාගාර ප්‍රදේශයේ නිවසක අල්මාරියක සගවා තිබු විශ්‍රාමික පොලිස් සැරයන්වරයකුගේ බව කියන බෝර 12 වර්ගයේ ජිව උණ්ඩ 24 ක් සමග පිය පුතු දෙපලක්  අත් අඩංගුවට ගත් බව වෙන්නප්පුව මුලස්ථාන පොලිසිය කියයි.
+
+මිරිස්සන්කොටුව ප්‍රදේශයේ පදිංචි 17 හැවිරිදි තරුණියක කටාන ප්‍රදේශයේ පදිංචි 20 හැවිරිදි තරුණයකු සමග ඇතිකර ගෙන තිබු ආදර සම්බන්දතාවයක් මත දෙදෙනා පැන ගොස් වෙනම ජිවිත්වි ඇති බව පොලිසිය කියයි.
+
+එම සිද්ධියට තරුණියගේ පියා සහ සහෝදරයා තමාට පහර දිමට තැත් කරන බවට තරුණියගේ සැමියා වෙන්නප්පුව පොලිසියට පැමිණිලි කර ඇත.
+
+එම පැමිණිල්ලේ දි තරුණයා විසින් තරුණියගේ මව සිය නිවසේ ජිව උණ්ඩ තොගයක් තිබෙන බවට ද පවසා ඇති බවට පැමිණිල්ලේ කර ඇති කරුණු මත පොලිසිය සිය නිවස පරාක්ෂා කර ඇත.
+
+ඒ අනුව අදාල නිවස පරික්ෂා කිරිමේදි අල්මාරියක සගවා තිබු බෝර 12 වර්ගයේ ජිව උණ්ඩ 24 ක් බහා තිබු පාර්සලයක් සොයා ගත් බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/11559580.json)
+
+---
+
+### எகிப்திய தூதுவர் பாதுகாப்பு செயலாளரை சந்தித்தார்
+
+*2025-09-28 11:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எகிப்திய-தூதுவர்-பாதுகாப்பு-செயலாளரை-சந்தித்தார்/175-365400) · `ta`
+
+இலங்கைக்கான எகிப்து அரபுக் குடியரசின் தூதுவர் அதிமேதகு Adel Ibrahim,வௌ்ளிக்கிழமை ( 26) அன்று பாதுகாப்பு அமைச்சில் பாதுகாப்பு செயலாளர் எயார் வைஸ்மார்ஷல் சம்பத் தூயகொந்தாவை (ஓய்வு) மரியாதை நிமித்தம் சந்தித்தார்.
+
+எகிப்திய தூதரை அன்புடன் வரவேற்ற பாதுகாப்பு செயலாளர் அவருடன் சுமூக கலந்துரையாடலில் ஈடுபட்டார். இதன் போது இருதரப்பு உறவுகளை வலுப்படுத்துதல் மற்றும் பாதுகாப்பு ஒத்துழைப்புக்கான வழிகளை விரிவுபடுத்துதல் தொடர்பில் கலந்துரையாடப்பட்டது.
+
+மேலும், இரு நாடுகளின் பாதுகாப்புநிறுவனங்களுக்கிடையில் கல்வி மற்றும் தொழில்முறை பரிமாற்றங்களை அதிகரித்தல் தொடர்பிலும் கலந்துரையாடப்பட்டது.
+
+அறிவுப் பகிர்வு மற்றும் கூட்டுமுயற்சிகளுக்கான வாய்ப்புகளை எடுத்துக்காட்டி, இலங்கையுடனான பாதுகாப்பு உறவுகளை விரிவுப்படுத்துவதில் எகிப்தின் உறுதிப்பாட்டை எகிப்த்திய தூதுவர் எடுத்துரைத்தார்.
+
+◼️
+
+[Data](articles/0867325c.json)
+
+---
 
 ### Manamperi’s Mobile Phones Destroyed Amid ICE Investigation
 
@@ -42,6 +336,38 @@ COLOMBO(News 1st):Sampath Manamperi, currently in custody, has reportedly destro
 ◼️
 
 [Data](articles/c5015bb7.json)
+
+[Extended Data](ext_articles/c5015bb7.ext.json)
+
+---
+
+### ’’ලෝයර්’’ ’’ඩොක්ටර්’’  ස්ටිකර්  තහනම්
+
+*2025-09-28 11:13:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලයර-ඩකටර-සටකර-තහනම/101-680341) · `si`
+
+රථ වාහනවල ඉදිරිපස වීදුරුවල නීතිඥවරුන් වෛද්‍යවරුන් හෝ වෙනත් වෘත්තිකයන්, පාසල් හෝ විශ්ව විද්‍යාල   හැඟවීමට විවිධ ලොකු කුඩා ස්ටිකර් ඇලවීම නීති විරෝධී බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පවසයි
+
+රථ වාහනවල ඉදිරිපස වීදුරුවේ ඇලවීමට  අවසර ඇත්තේ  ආදායම් බලපත්‍රය  පමණක් බවද  එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එසේම අභ්‍යන්තරයට හිරු එළිය වැළැක්වීම සඳහා  ඉදිරිපස වීදුරුවේ ඉහළ  පහෙන් එකක කොටසක්  අඳුරු කිරීමටද  අවසර ඇත.
+
+◼️
+
+[Data](articles/5b5e0def.json)
+
+---
+
+### Karur in tears; Exposed facts; Did Vijay late for the meeting?
+
+*2025-09-28 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226295) · `ta`
+
+The time to speak to Vijay Namakkal is 8.45 am. Have written the time on their official page. But he left the Chennai airport at 8.45 am. He then arrived at the Trichy airport at 10 am.    From there you have to travel 90km to Namakkal Road. It usually takes about two hours.   What is the time to depart when the time he gave is 8.45?  When Vijay knows that Vijay is coming, it is normal for the traffic congestion in the Ammakkam, so when should he go out considering the traffic congestion?  The time he arrived at Karur is 2.30pm. At the same time, the time he spoke to Karur was 12 o'clock. The time he arrived at 7 pm. Who is responsible for this delay?
+
+◼️
+
+[Data](articles/102fe1cc.json)
+
+[Extended Data](ext_articles/102fe1cc.ext.json)
 
 ---
 
@@ -55,19 +381,77 @@ Colombo(News 1st): Another monk who was injured when a cable cart came crashing 
 
 [Data](articles/7829a833.json)
 
+[Extended Data](ext_articles/7829a833.ext.json)
+
 ---
 
-### “ஓட்டு போடுங்கள், குழந்தைகளை பலியாக்காதீர்கள்”
+### Tears of tears in Jaffna
+
+*2025-09-28 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226294) · `ta`
+
+The scene of the tears of tears for the past three days from Velankanni Mata Sarupam in the Jaffna - Maniyantottam area has kept the devotees.
+
+The crowds are gathering to see this as the incident has now been a speech.
+
+◼️
+
+[Data](articles/b44d376c.json)
+
+[Extended Data](ext_articles/b44d376c.ext.json)
+
+---
+
+### "Drive, do not sacrifice children"
 
 *2025-09-28 11:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டு-போடுங்கள்-குழந்தைகளை-பலியாக்காதீர்கள்/175-365399) · `ta`
 
-“ஓட்டு போடுங்கள் - விரும்பும் நபர்களுக்கு, ஆனால் கூட்டம் போடாதீர்கள் - வாழ்வை தொலைக்க அதிலும் இறுதி ஊர்வலத்தில் பிய்த்து எறியப்படும் பிஞ்சு பூக்களாய் குழந்தைகளை பலியாக்காதீர்கள்” என கரூர் சம்பவம் குறித்து ஆர்.பார்த்திபன் பதிவு செய்துள்ளார்.
+R. Baripan has recorded on the Karur incident, "Do not kill the children as the funeral flowers that are thrown in the funeral."
 
-இது குறித்து நடிகர் பார்த்திபன் தனது எக்ஸ்வலைதள பக்கத்தில் கூறியிருப்பதாவது: “ 'கூட்டம்' என்ற ஒற்றை வார்த்தைக்கு பின்.... 10,100,1000,1000000000000000000000 போன்ற பூஜ்ய உயிர்களின் அன்பும், பாசமும், தன்னலமற்ற ஊக்கப்படுத்துதலும், வலியும், வேதனையும் முடிவில் கேள்விக் கேட்பாறற்ற பிணங்களாய் வெள்ளை போர்த்தி, வண்ண மாலை சாத்தி, (இருந்தால்) உறவினர்களின் கண்ணீர் ஆற்றில் கரைக்கச் சொல்லி 'கொடுத்து வைத்தவர்கள்' ஓட்டு போடுங்கள் - விரும்பும் நபர்களுக்கு, ஆனால் கூட்டம் போடாதீர்கள் - வாழ்வை தொலைக்க அதிலும் இறுதி ஊர்வலத்தில் பிய்த்து எறியப்படும் பிஞ்சு பூக்களாய் குழந்தைகளை பலியாக்காதீர்கள்” என பதிவிட்டுள்ளார்.
+Actor Parthiban said on his Excellence page: “After a single word '' meeting '.... 10,100,100,100,10000000000000000000,000, the love, affection, selfless motivation of zero, self -indulgent, pain and pain in the end of the white wraps, the colored garland, the tears of the relatives of the relatives 'tears' Don't sacrifice. ”
 
-...
+Similarly, he did not know who to comfort the families of 31 people who had previously killed in the crowded crowd in Karur (31 people killed and 39 people).. He also tweeted that the 58 people who are still in treatment will pray for everyone to heal.
+
+Also, composer GV Prakash posted on his Twitter page, “The scenes of the demanding. To whom to comfort and do not know how to comfort. May the soul of the victims of the Karur tragedy rest in the Lord. My deepest condolences to friends and relatives. ” Has posted.
+
+◼️
 
 [Data](articles/48a3154a.json)
+
+[Extended Data](ext_articles/48a3154a.ext.json)
+
+---
+
+### Na -Cable Cable Car Accident
+
+*2025-09-28 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226292) · `ta`
+
+A Piku man who was receiving treatment in a recent cable car accident at the Melsiripura Na Aranya Senasanasana, Kurunegala, died on Sunday.
+
+Seven monks from domestic and abroad died in the accident when the cable car crashed into traffic between the monasteries of the Naa Aranya Senasanam.
+
+The casualties include three foreign monks from Russia, Romania and India.
+
+Meanwhile, it is reported that 05 monks are still receiving treatment at the Kurunegala Teaching Hospital.
+
+◼️
+
+[Data](articles/b84e95c7.json)
+
+[Extended Data](ext_articles/b84e95c7.ext.json)
+
+---
+
+### Lands Release work
+
+*2025-09-28 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226283) · `ta`
+
+The UN. The solution to land issues has been pointed out as the 13th issue of the new resolution of the Human Rights Council.
+
+◼️
+
+[Data](articles/057e38bd.json)
+
+[Extended Data](ext_articles/057e38bd.ext.json)
 
 ---
 
@@ -109,41 +493,95 @@ The suspect was arrested by the police while mortgage a motorcycle for a motorcy
 
 ---
 
-### ஆடை வாங்க பணம் தராததால் உயிரை மாய்த்த சிறுமி
+### වෑන්රියක් සොරාගෙන උගස් කර පෙම්වතිය එක්ක සවාරි ගහලා
 
-*2025-09-28 10:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆடை-வாங்க-பணம்-தராததால்-உயிரை-மாய்த்த-சிறுமி/73-365398) · `ta`
+*2025-09-28 10:52:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වනරයක-සරගන-උගස-කර-පමවතය-එකක-සවර-ගහල/1-680339) · `si`
 
-மட்டக்களப்பு, கொக்கட்டிச்சோலை பிரதேசத்தில் 13 வயதுடைய சிறுமி ஒருவர் தன் உயிரை மாய்த்துக் கொண்ட சம்பவம் சனிக்கிழமை (27)மாலை இடம் பெற்றுள்ளது.
+මහනුවර නගරයේ වාහන අලෙවි සැලකින් 70 ලක්ෂයක් වටිනා වෑන් රථයක් සොරකම් කොට එම රථය මාතලේ පල්ලේපොළ ප්‍රදේශයේ උගස් මධ්‍යස්ථානයකට උගස්කොට එම මුදලින් සුපිරි යතුරුපැදියක් මිලදී ගෙන ඔහුගේ පෙම්වතිය සමඟ යමින් සිටියදී සැකකරු අත්අඩංගුවට ගෙන තිබේ.
 
-கொக்கட்டிச்சோலை குளிமடு காஞ்சிரம்குடாவைச் சேர்ந்த 13 வயதுடைய லிங்கம் லட்சுமி என்ற சிறுமியே இவ்வாறு உயிரிழந்துள்ளார்.
+මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශයට ලද තොරතුරකට අනුව සිදුකළ දීර්ඝ විමර්ශනයේදී මහනුවර ඩී.එස්.සේනානායක වීදියේ අවන්හලක සේවකයෙකු ලෙස සේවය කළ මාතලේ මාදිපොල ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකු එසේ අත්අඩංගුවට ගෙන තිබේ.
 
-சிறுமியின் தந்தை வெளிநாட்டில்  வேலை செய்துவரும் நிலையில் குறித்த சிறுமி அவரது தாய் மற்றும் இரட்டை சகோதரியும் வாழ்ந்து வந்துள்ளார்.
+සැකකරු රාත්‍රී ඩී.එස්. සේනානායක වීදියේ පවත්වාගෙන යනු ලබන වාහන අලෙවිසලකට පසුගිය 22 වැනි දින රාත්‍රී කාලයේ ඇතුළු වී ටොයටා නෝහා වර්ගයට අයත් වෑන් රථයක් සහ ඊට අදාළ ලියකියවිලිද වාහන අලෙවි සැලෙන් සොරා ගෙන ගොස් තිබුණි.
 
-இந்த நிலையில் தந்தையார் இரட்டை சகோதரிகளுக்கு ஆடைகள்வாங்குவதற்கு பணம் அனுப்பியுள்ளதுடன் அடுத்த மாதம் நாட்டுக்கு திரும்பி வந்ததும் குறித்த சிறுமிக்கு ஆடைகள் வாங்குவதற்கு பணம் தருவதாக கூறியுள்ளார்.
+සැකකරු එම වෑන් රථය මාතලේ පල්ලේපොල ප්‍රදේශයේ උගස් කරුවෙකුට රුපියල් ලක්ෂ 15 ක මුදලකට උගස් කොට එම මුදලින් නවීන පන්නයේ යතුරු පැදියක් මිලදී ගෙන ඔහු සේවය කළ අවන්හලේම සේවයේ නියුතු යුතු පෙම්වතිය සමඟ ගමන් කරමින් සිටියදී පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
 
-தனக்கு ஆடைகள் வாங்க தந்தை பணம் தரவில்லை என கோபமடைந்த சிறுமி வீட்டில் வைத்து தன் உயிரை மாய்த்து கொண்டுள்ளார். இதனை கண்ட உறவினர்கள் அவரை மீட்டு மட்டக்களப்பு போதனா வைத்தியசாலைக்கு  கொண்டு சென்ற போதும் அவர் உயிரிழந்துள்ளதாக பொலிஸாரின் ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது
+◼️
 
-...
-
-[Data](articles/84db6ab5.json)
+[Data](articles/eb9dec21.json)
 
 ---
 
-### கேபிள் கார் விபத்து;மேலும் ஒரு துறவி மரணம்
+### The little girl who lost his life because she did not pay for the garment
+
+*2025-09-28 10:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆடை-வாங்க-பணம்-தராததால்-உயிரை-மாய்த்த-சிறுமி/73-365398) · `ta`
+
+A 13 -year -old girl in Kokkadichcholai, Batticaloa, was killed on Saturday evening (27).
+
+The death of a 13 -year -old Lingam Lakshmi, a 13 -year -old girl from Kukkatichcholai Kalimadu Kanjramkuda, died.
+
+The girl's father is living abroad and her mother and twin sister are living.
+
+In this case, the father has sent money to the twin sisters and said that he would give the girl to buy clothes when he returned to the country next month.
+
+Angered by the father who did not pay for her clothes. Initial investigations by the police revealed that the relatives who saw this and took him to the Batticaloa Teaching Hospital
+
+Meanwhile, Batticaloa is second to the list of those who live in and 172 people, including 48 women, from January 1, 2024, from January 2024 last year.. From January 1, 2025, 105 people, including a 12 -year -old boy and 26 women, have died, according to police district data.
+
+◼️
+
+[Data](articles/84db6ab5.json)
+
+[Extended Data](ext_articles/84db6ab5.ext.json)
+
+---
+
+### Cable car crash; more death of a monk
 
 *2025-09-28 10:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்து-மேலும்-ஒரு-துறவி-மரணம்/175-365397) · `ta`
 
-மெல்சிரிபுராவில் உள்ள நா உயன ஆரண்ய சேனாசனத்தில் கேபிள் கார் விபத்துக்குள்ளானதைத் தொடர்ந்து, குருநாகல் ஆதார மருத்துவமனையின் தீவிர சிகிச்சைப் பிரிவில் (ICU) சிகிச்சை பெற்று வந்த மற்றொரு துறவி காலமானார்.
+Another monk, who was receiving treatment at the intensive care unit of the Kurunegala Resource Hospital (ICU), passed away following a cable car crash at the Na Eyana Aranya Senasanasa in Melsiripura.
 
-பல துறவிகளின் உயிரைப் பறித்த இந்த சம்பவத்தின் விளைவாக, தற்போது இறப்பு எண்ணிக்கை எட்டாக உயர்ந்துள்ளது.
+As a result of this incident, which has taken the lives of many monks, the number of deaths has risen to eight.
 
-தீவிர மருத்துவ சிகிச்சை அளிக்கப்பட்ட போதிலும், துறவி நேற்று உயிரிழந்ததாக மருத்துவமனை வட்டாரங்கள் தெரிவித்தன.
+Hospital sources said the monk died yesterday despite the intensive medical treatment.
 
-இதற்கிடையில், சம்பவத்தில் இறந்த ஏழு துறவிகளில் ஐந்து பேரின் இறுதிச் சடங்குகள் நேற்று மெல்சிரிபுர - பன்சியகம பொது மயானத்தில் செய்யப்பட்டன.
+Meanwhile, the funeral of five of the seven monks who died in the incident was performed yesterday at the Melsiripura -Bansiyagama public cemetery.
 
 ◼️
 
 [Data](articles/694c8757.json)
+
+[Extended Data](ext_articles/694c8757.ext.json)
+
+---
+
+### He says he has political self -esteem to provide a solution that will further strengthen the freedom of commemoration - Minister Harshana Nanayakkara
+
+*2025-09-28 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226291) · `ta`
+
+The Minister of Justice and National Integration Harshana Nanayakkara has promised to strengthen the gap in the future, pointing out that the rights of the previous governments have been restricted on the right to commemorate, and that his government has given the full freedom to commemorate those who died in the war so as not to highlight the banned terrorist movements.
+
+The 29th Meeting of the Missing Field Committee on the 60th Session of the United Nations Human Rights Council commenced in Geneva last Monday (22). The Sri Lankan affair was examined yesterday (26) at the meeting, which will be held until October 3.
+
+...
+
+[Data](articles/3a911b83.json)
+
+[Extended Data](ext_articles/3a911b83.ext.json)
+
+---
+
+### Will the provincial council election be held?
+
+*2025-09-28 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226290) · `ta`
+
+Last week, some media outlets reported that the government was preparing to hold provincial council elections. After the presidential election, the government first planned to hold the general election, local election and provincial council elections quickly. Accordingly, despite the two -thirds majority in the general election, there was an unexpected setback in the local elections, causing the government to disappear suddenly.
+
+◼️
+
+[Data](articles/516fb788.json)
+
+[Extended Data](ext_articles/516fb788.ext.json)
 
 ---
 
@@ -180,6 +618,20 @@ The remains are placed at the Galle hospital morgue and the driver of the accide
 [Data](articles/32f7248f.json)
 
 [Extended Data](ext_articles/32f7248f.ext.json)
+
+---
+
+### Immutable political law
+
+*2025-09-28 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226282) · `ta`
+
+Nothing in politics is stable, no one is permanent friends, no, no permanent enemies.
+
+◼️
+
+[Data](articles/7d6fecbc.json)
+
+[Extended Data](ext_articles/7d6fecbc.ext.json)
 
 ---
 
@@ -303,6 +755,72 @@ Meanwhile, the police have revealed that there is a direct relationship between 
 
 ---
 
+### Easter Attack: Terrorism
+
+*2025-09-28 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226287) · `ta`
+
+Terrorism has become a globalized trade. The Easter bombing in Sri Lanka is a terrible reminder of this reality.  Retired Indian Navy officer Admiral Anil Kumar Sawla said that no country can reach the safety of maritime safety, he said, adding that all the navy's joint effort and the unique advantages of maritime diplomacy can face challenges.
+
+Admiral Anil Kumar Soula said this while attending the 'Maritime Conversation' conference in Colombo. As he continues to mention,
+
+Always happy to come to Sri Lanka. Civilized bonds between India and Sri Lanka have been thousands of years ago. Moreover, the Indian Navy and the Sri Lankan Navy are almost bonded. Maritime diplomacy and regional security challenges are common to all countries. Maritime security and the use of sea for economic benefits are inseparable. So protection and growth must go hand in hand. It is important to ensure that the maritime resources are unlimited and their standard use.
+
+...
+
+[Data](articles/45b70886.json)
+
+[Extended Data](ext_articles/45b70886.ext.json)
+
+---
+
+### Two suspects arrested over Rs. 6 mln gold jewelry heist
+
+*2025-09-28 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/112984/two-suspects-arrested-over-rs-6-mln-gold-jewelry-heist-) · `en`
+
+Two suspects have been arrested in Kiribathgoda in connection with the investigation into the robbery of gold jewelry worth Rs. 6 million after assaulting a person in the Ganemulla Police Division.
+
+The duo was arrested following a special investigation conducted by a team of officers from the Western Province North Crime Division.
+
+The two youths, aged 17 and 20, are reported to be residents of Kendaliyaddapaluwa and Ganemulla areas.
+
+Following the interrogation of the suspects, two gold biscuits weighing 121 grams and 350 milligrams, and 17 grams and 15 milligrams, which were prepared after melting down the stolen gold items, were also recovered.
+
+The Western Province North Crime Division is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/c8fb6857.json)
+
+[Extended Data](ext_articles/c8fb6857.ext.json)
+
+---
+
+### 13 -year -old girl
+
+*2025-09-28 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226286) · `ta`
+
+A 13 -year -old girl died in the Kokkadichcholai area in Batticaloa, where the incident took place on Saturday evening.
+
+Meanwhile, 105 people have committed suicide in eight months, including 26 women and a 12 -year -old boy from January in the district, a police officer said.
+
+The death of a 13 -year -old girl from Kokkadicholai has died.
+
+The girl and her twin sister are living with her mother as the girl's father is working abroad.
+
+In this case, the father from abroad sent money to the twin sisters to buy clothes. In this case, the father has said that the girl will be paid to buy clothes when he returns to the country next month.
+
+Angered by the father, the girl, who was angry that the father did not pay her to buy her clothes, she died at 5.45 pm yesterday.
+
+Initial investigations by the police revealed that the relatives had rescued him and took him to the Batticaloa Teaching Hospital.
+
+...
+
+[Data](articles/42a98eca.json)
+
+[Extended Data](ext_articles/42a98eca.ext.json)
+
+---
+
 ### China's tallest bridge, China Huajianang bridge opens for traffic
 
 *2025-09-28 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215090) · `si`
@@ -377,6 +895,126 @@ At the time of the dick, a 13 Buddhist monks had lived away from a dack.
 
 ---
 
+### Karur rally congestion - Tamil Nadu News News
+
+*2025-09-28 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226280) · `ta`
+
+Tamil Nadu media has reported that Vijay may be arrested by the leader of the Tamil Victory Association.
+
+Vijay is likely to be arrested after 39 people were killed in a congestion in Karur.
+
+As the 2026 assembly elections are being held, the political parties in Tamil Nadu have launched serious campaigns and people's meetings.
+
+In particular, the ruling party, the main opposition party, the AIADMK, and Vijay's TVK, which are in anticipation, are holding public meetings in various parts of Tamil Nadu.
+
+In this backdrop, the leader of the Tamil Victory Association, Vijay, held a people meeting in Karur yesterday.
+
+In India, the deaths of religious events have occurred in the past.. But this is the first time that so many people have been killed in a political party meeting.
+
+Eight people were killed in the congestion at Telugu Desam Party leader Chandrababu Naidu in 2022 in Andhra Pradesh in 2022.
+
+Vijay is likely to be arrested in connection with the death toll in Karur.
+
+...
+
+[Data](articles/ef1a8ea6.json)
+
+[Extended Data](ext_articles/ef1a8ea6.ext.json)
+
+---
+
+### Dileepan's memory
+
+*2025-09-28 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226281) · `ta`
+
+The criticism that only one party should dominate should be held as a public event.
+
+◼️
+
+[Data](articles/eac43da8.json)
+
+[Extended Data](ext_articles/eac43da8.ext.json)
+
+---
+
+### The government has been improperly acting in the Mannar wind farm - Kavinda Jayawardena
+
+*2025-09-28 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226279) · `ta`
+
+The government has been improperly acting in the Mannar windmill issue. United People's Power Gampaha District Parliamentarian Kavinda Jayawardena said that the attack on civilians and religious leaders who were involved in the protests without respecting the opinions of the people of the area were strongly condemned.
+
+The above mentioned the police attacked the civilians who were protesting against the Mannar windmill.
+
+The last government has signed the Mannar windmill with Adani.. Environmentalists and civilian parties are continuously leading the way that this project will affect the environment.
+
+To protect the natural features of the Mannar Island, which is considered to be the largest island of Sri Lanka. The President said that the Mannar windmill was openly discussed with all parties.
+
+...
+
+[Data](articles/3dcfab3c.json)
+
+[Extended Data](ext_articles/3dcfab3c.ext.json)
+
+---
+
+### Pedestrian death
+
+*2025-09-28 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226276) · `ta`
+
+A pedestrian was killed when a bus collided with a bus from Galle to Hikkaduwa near the Ratgama junction of the Ratgama police division.
+
+The woman was injured when a bus traveling from Galle to Hikkaduwa crashed into a pedestrian on the sidewalk on Saturday (27).
+
+The injured woman died after being admitted to a pedestrian vacant hospital.
+
+Investigations have revealed that the deceased was 77 years old from Poosa.
+
+The body has been placed in the funeral room of the vacant hospital and the driver of the bus has been arrested.
+
+◼️
+
+[Data](articles/29ecb2ca.json)
+
+[Extended Data](ext_articles/29ecb2ca.ext.json)
+
+---
+
+### Cable car accident at Na Uyana Monastery: Death toll rises to 8
+
+*2025-09-28 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/112983/cable-car-accident-at-na-uyana-monastery-death-toll-rises-to-8) · `en`
+
+The death toll from the cable car accident at the Na Uyana Monastery has risen to eight, after another monk who was receiving treatment in the Intensive Care Unit (ICU) succumbed to injuries sustained in the incident.
+
+Meanwhile, another five Buddhist monks are still receiving treatment at the Kurunegala Hospital.
+
+◼️
+
+[Data](articles/6e8869c7.json)
+
+[Extended Data](ext_articles/6e8869c7.ext.json)
+
+---
+
+### Boy killed in train
+
+*2025-09-28 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226275) · `ta`
+
+A boy was killed when a train collided with a train from Badulla to Colombo at Tissmalla railway station belonging to the Rambukanai police division.
+
+The boy who died in the incident has been identified as a 14 -year -old from Medagama.
+
+The boy was traveling with friends to the Tissmalla railway station on a train from Rambukkana to Colombo Fort.
+
+It was revealed that the train from Badulla to Colombo Fort was reported to be on the train.
+
+◼️
+
+[Data](articles/f46c906f.json)
+
+[Extended Data](ext_articles/f46c906f.ext.json)
+
+---
+
 ### TV leader Vijay arrested? Home security
 
 *2025-09-28 09:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/த-வெ-க-தலைவர்-விஜய்-கைது-வீட்டுக்கு-பலத்த-பாதுகாப்பு/175-365392) · `ta`
@@ -401,6 +1039,24 @@ The police are providing security on both sides of the road in his house where V
 
 ---
 
+### India - Sri Lanka Relations - High Commissioner Mahishini Kolonne
+
+*2025-09-28 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226277) · `ta`
+
+High Commissioner Mahishini Kolonne has said that the bilateral ties between India and Sri Lanka have reached the "unprecedented" visit of President Anura Kumara Dissanayake and the arrival of Prime Minister Narendra Modi.
+
+Speaking to the media after an event in Delhi, High Commissioner Mahishini Kolonne said the above.. As he continues to mention,
+
+Stabilizing Sri Lanka's current economic status and excellent on the path of recovery and change. In this journey, we find great opportunities to cooperate with India. Since his visit to India after the election of President Anura Kumara Dissanayake, Prime Minister Modi visited Sri Lanka a few months later, Sri Lanka -India relations have reached no excellent position.
+
+...
+
+[Data](articles/90d7f34e.json)
+
+[Extended Data](ext_articles/90d7f34e.ext.json)
+
+---
+
 ### 14-Year-Old Student Killed by Train at Rambukkana
 
 *2025-09-28 09:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/14-year-old-student-killed-by-train-at-rambukkana) · `en`
@@ -412,6 +1068,30 @@ Colombo (News 1st):A 14-year-old student has died after being hit by a train at 
 [Data](articles/44dab670.json)
 
 [Extended Data](ext_articles/44dab670.ext.json)
+
+---
+
+### Gold jewelery robbery in Ganamulla area; Two arrested arrests!
+
+*2025-09-28 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226274) · `ta`
+
+Two suspects have been arrested for allegedly assaulting a man in Ganemulla and robbing gold jewelery worth about Rs 60 lakh.
+
+A group of officials from the Western Province Northern Crime Prevention Division arrested two suspects in the Kiribathgoda area on Saturday (27).
+
+Police say the robbery took place on the 20th of this month.
+
+Initial investigations have revealed that the suspects were 17 and 20 years old and they were from Kendaliyatapaluwa and Ganemulla.
+
+121 grams of 350 milligrams of stolen gold items and two gold pieces with 17 grams of 15 milligrams have been discovered from them.
+
+The Western Province Northern Crime Prevention Unit is conducting further investigations.
+
+◼️
+
+[Data](articles/247d83db.json)
+
+[Extended Data](ext_articles/247d83db.ext.json)
 
 ---
 
@@ -434,6 +1114,82 @@ The Western Province North Criminal Division is conducting further investigation
 [Data](articles/fc223000.json)
 
 [Extended Data](ext_articles/fc223000.ext.json)
+
+---
+
+### Teenage boy dies after being hit by train in Rambukkana
+
+*2025-09-28 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112982/teenage-boy-dies-after-being-hit-by-train-in-rambukkana-) · `en`
+
+A 14-year-old boy has been killed after being hit by an express train at the Tismalpola railway station in the Rambukkana police division.
+
+The deceased has been identified as a resident of Medagama, police said.
+
+The boy had visited the Tismalpola station with several friends on a train traveling from Rambukkana to Colombo Fort. After getting off, he has stepped onto the railway track instead of the platform.
+
+At that moment, an express train en route from Badulla to Colombo Fort had approached and fatally struck him, according to preliminary police investigations.
+
+The Rambukkana Police is conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/097f3be3.json)
+
+[Extended Data](ext_articles/097f3be3.ext.json)
+
+---
+
+### "Angi Kingdom"; The government should unite to defeat the government to bring about the constitution - Gajendrakumar says - Gajendrakumar
+
+*2025-09-28 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226278) · `ta`
+
+Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA), has said that the National People's Power Government is not a complete solution for the Tamils.
+
+A workshop was held in Switzerland from the 14th to 21st to clarify the members of the Sri Lankan ruling and opposition parties on the country's federal political system and national integrity of the country in connection with the Sri Lanka -Switzerland Parliamentary Alliance Association.
+
+A public meeting was held with 13 members who went there to represent Sri Lanka's ruling and opposition parties.
+
+Commenting on issues including the solution to the ethnic problem, Dr. Nihal Abeysinghe, the General Secretary of the National People's Power and Member of Parliament, said that the new constitutional draft prepared from 2015 to 2019 to 2019 and amendments to the political parties.
+
+...
+
+[Data](articles/f2316914.json)
+
+[Extended Data](ext_articles/f2316914.ext.json)
+
+---
+
+### Special test action in Maradana; 30 arrested
+
+*2025-09-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226273) · `ta`
+
+Special raids were carried out by the police in Colombo - Maradana on Saturday evening (27).
+
+◼️
+
+[Data](articles/4e152d06.json)
+
+[Extended Data](ext_articles/4e152d06.ext.json)
+
+---
+
+### Children's Day National Week: Minister Saroja Savitri Bolraj participates in the 1929 support service awareness sticker event
+
+*2025-09-28 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226272) · `ta`
+
+Women and Child Affairs Minister Saroja Savitri Bolraj said that she participated in the 1929 Children's Service Service Service Service, organized by the National Children's Safety Commission on Friday, 26th, to mark the second day of the "Children's Day National Week" announced for World Children's Day in 2025.
+
+The Minister of Women and Child Affairs has said that the vehicles carrying school children have been inspected by the National Transport Authority officials; Noted.
+
+The Minister of Women and Child Affairs said that the school's transport vehicle owners and drivers who participated in the event were also likely to exchange comments.
+
+And boys in traffic in the future; He also noted that this conversation would be an encouragement for the success of the actions taken to protect.
+
+...
+
+[Data](articles/b374af39.json)
+
+[Extended Data](ext_articles/b374af39.ext.json)
 
 ---
 
@@ -853,6 +1609,20 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
+### Mahinda and Ranil about 'redemption' in politics
+
+*2025-09-28 06:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226271) · `ta`
+
+He is trying to show that people are still sympathetic to him, and believe that he can use the current opportunity to increase the influence of his party. Mahinda Rajapaksa did not even be free after the experience that he and his families were obliged to the Sinhalese as the end of the war.
+
+◼️
+
+[Data](articles/eec1cbce.json)
+
+[Extended Data](ext_articles/eec1cbce.ext.json)
+
+---
+
 ### Several showers today
 
 *2025-09-28 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215084) · `si`
@@ -872,6 +1642,34 @@ The sea areas off the coast extending from Galle to Matara and Hambantota can be
 [Data](articles/a9e43498.json)
 
 [Extended Data](ext_articles/a9e43498.ext.json)
+
+---
+
+### The weather today
+
+*2025-09-28 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226269) · `ta`
+
+The Department of Meteorology has said that rainfall will occur in Sabaragamuwa, Western and North Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+There is a chance of rain or thunderstorms after two o'clock in the afternoon.
+
+Strong winds can be frequent at speeds of 40 - 50 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
+
+The public is asked to avoid damage to the cause of strong winds.
+
+Rainfall is expected in many parts of the sea regions from Colombo to Galle, Matara and Hambantota.
+
+Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
+
+From Chilaw to Mannar, Kankesanthurai and Mullaitivu via Trincomalee, Galle to Pottuvil, Matara, Hambantota, Pottuvil, 50 - 60 km / h.. In these cases, these sea regions are turbulent.
+
+Therefore, fishermen and maritime workers who go to the sea are asked to engage in fisheries.
+
+◼️
+
+[Data](articles/42b4b4aa.json)
+
+[Extended Data](ext_articles/42b4b4aa.ext.json)
 
 ---
 
@@ -1118,865 +1916,5 @@ Speaking at the event, President Anuragumara Dissanayake said that during this t
 [Data](articles/a2e9b144.json)
 
 [Extended Data](ext_articles/a2e9b144.ext.json)
-
----
-
-### 2 people died in Vijay meeting.
-
-*2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-2பேர்9-உயிரிழப்பு/175-365384) · `ta`
-
-29 people, including 3 children, were killed in a congestion in Vijay's campaign in Karur in Tamil Nadu.
-
-◼️
-
-[Data](articles/ebe168d0.json)
-
-[Extended Data](ext_articles/ebe168d0.ext.json)
-
----
-
-### Divorce in Sri Lanka
-
-*2025-09-27 20:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சடுதியாக-அதிகரிக்கும்-விவாகரத்து/175-365383) · `ta`
-
-Senior Lecturer of the Department of Sociology at the University of Kelaniya, Dr. Anosha Etirisinghe said that the number of women headed families is rising steadily due to the rising divorce rates in Sri Lanka.
-
-He emphasized that strengthening women's financial stability is essential to the well -being of their families and the vast community.
-
-He, therefore, also pointed out the urgent need for women to be economically empowered. Remble
-
-◼️
-
-[Data](articles/4af83bbb.json)
-
-[Extended Data](ext_articles/4af83bbb.ext.json)
-
----
-
-### President reached Japan: "Expo 2025" led by the President of Sri Lanka ...
-
-*2025-09-27 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226266) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, arrived at the Kansai International Airport in Osaka, Japan on Saturday (27)
-
-There, Japanese Ambassador to Sri Lanka Akio Isomata, Sri Lankan Ambassador to Japan, Prof. Pivithuru Janak Kumarasinghe and top officials of the Foreign Ministry of Japan welcomed the President.
-
-President Anura Kumara Dissanayake will make an official visit to Japan from September 27 to 30.
-
-President Anura Kumara Dissanayake will be the chief guest at the "Expo 2025" event in Osaka, Japan on September 27.
-
-The event was organized by the Sri Lanka Tourism Promotion Bureau and the Sri Lanka Embassy in Japan.
-
-President Anura Kumara Dissanayake is scheduled to meet with Japanese Emperor Naruhito and will hold bilateral talks with Japanese Prime Minister Shigeru Ishiba and Japanese Defense Minister, Foreign Minister, Economics, Commerce and Industry Minister.
-
-...
-
-[Data](articles/eb1809e2.json)
-
-[Extended Data](ext_articles/eb1809e2.ext.json)
-
----
-
-### Sri Lanka's Tourism Success: A Map for Growth and Regional Renaissance
-
-*2025-09-27 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226225) · `ta`
-
-Sri Lanka's tourism industry has proven to be an essential machine for the country's economic recovery. The strategic efforts of the current government have successfully revived the sector and led to a significant upheaval in the arrival of international tourists, which surpassed previous achievements.. This contribution is precious. Foreign exchange rapidly fill in the trade balance, improves local economies and creates important job opportunities.
-
-◼️
-
-[Data](articles/c9d51aa9.json)
-
-[Extended Data](ext_articles/c9d51aa9.ext.json)
-
----
-
-### Landslide warnings are issued for several areas
-
-*2025-09-27 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215080) · `si`
-
-The National Building Research Organization (NBRO) has issued a landslide warning notification for several areas due to the inclement weather that has affected the island.
-
-The announcement is valid from 4.00 pm to 4.00 pm tomorrow (27).
-
-◼️
-
-[Data](articles/f8b655fd.json)
-
-[Extended Data](ext_articles/f8b655fd.ext.json)
-
----
-
-### Police officers allegedly tipped off ‘Padme’ on ASP Olugala’s arrival in Indonesia
-
-*2025-09-27 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/112970/police-officers-allegedly-tipped-off-padme-on-asp-olugalas-arrival-in-indonesia) · `en`
-
-It has been revealed that notorious underworld figure ‘Kehelbaddara Padme’ was tipped off by certain police officers regarding the arrival of Assistant Superintendent of Police (ASP) Rohan Olugala in Indonesia to apprehend him and other criminals including ‘Commando Salintha’.
-
-This has been revealed during the ongoing investigations, police said.
-
-Further reports indicate that the Interpol Red Notice issued for the arrest of ‘Kehelbaddara Padme’ had also been disclosed to him through local police sources.
-
-A large-scale joint operation was conducted by the police forces of Sri Lanka and Indonesia, with Sri Lankan officers engaged in surveillance operations in Indonesia for several days by contributing to the effort.
-
-...
-
-[Data](articles/f9f79393.json)
-
-[Extended Data](ext_articles/f9f79393.ext.json)
-
----
-
-### Let's build a world where everyone can shine together
-
-*2025-09-27 20:11:35* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටත-එකට-බබලනන-හක-ලකයක-හදම/1-680332) · `si`
-
-President Anura Kumara Dissanayake said in Japan that he is invited to work together to create a world where all can be broken.
-
-Sri Lanka is rebuilding a sustainable and participatory economy, which faced continuous challenges.
-
-The President was speaking at the Sri Lanka Day Celebration at the Expo 2025 Ozaka Exhibition.
-
-The President participated in the Sri Lanka Day Day Celebration at Osaka, Expo 2025 Exhibition on the Japan visit.
-
-The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, the Sri Lankan Day Cultural Embassy, ​​which reflects the Sri Lankan identity, and a large number of foreigners were gathered to watch the Cultural Festival.
-
-◼️
-
-[Data](articles/32864ae6.json)
-
-[Extended Data](ext_articles/32864ae6.ext.json)
-
----
-
-### Let's build a world where everyone can shine together
-
-*2025-09-27 20:11:35* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටත-එකට-බබලනන-හක-ලකයක-හදම/101-680332) · `si`
-
-President Anura Kumara Dissanayake said in Japan that he is invited to work together to create a world where all can be broken.
-
-Sri Lanka is rebuilding a sustainable and participatory economy, which faced continuous challenges.
-
-The President was speaking at the Sri Lanka Day Celebration at the Expo 2025 Ozaka Exhibition.
-
-The President participated in the Sri Lanka Day Day Celebration at Osaka, Expo 2025 Exhibition on the Japan visit.
-
-The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, the Sri Lankan Day Cultural Embassy, ​​which reflects the Sri Lankan identity, and a large number of foreigners were gathered to watch the Cultural Festival.
-
-◼️
-
-[Data](articles/ee24ac9e.json)
-
-[Extended Data](ext_articles/ee24ac9e.ext.json)
-
----
-
-### Namal accepts the work of building
-
-*2025-09-27 20:03:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඩකකව-හදන-වඩ-නමල-බරගන/1-680331) · `si`
-
-Deputy Minister Namal Karunaratne made a promise that the monks were in danger of monks.
-
-He added that the government does not need to see what the monks are responsible for this incident and what the contributors.
-
-The Deputy Minister also participated in the monkey of the monks who were in the accident.
-
-◼️
-
-[Data](articles/a52b2784.json)
-
-[Extended Data](ext_articles/a52b2784.ext.json)
-
----
-
-### Namal accepts the work of building
-
-*2025-09-27 20:03:19* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඩකකව-හදන-වඩ-නමල-බරගන/101-680331) · `si`
-
-Deputy Minister Namal Karunaratne made a promise that the monks were in danger of monks.
-
-He added that the government does not need to see what the monks are responsible for this incident and what the contributors.
-
-The Deputy Minister also participated in the monkey of the monks who were in the accident.
-
-◼️
-
-[Data](articles/ca50590a.json)
-
-[Extended Data](ext_articles/ca50590a.ext.json)
-
----
-
-### President joins Sri Lanka Day celebration at the President's Expo 2025 Exhibition
-
-*2025-09-27 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215079) · `si`
-
-The Hon.
-
-As the first task of his visit, the President also participated in the Sri Lanka Day to Celebration at Osaka, Japan.
-
-The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, the Sri Lankan Day Cultural Embassy, ​​which reflects the Sri Lankan identity, and a large number of foreigners were gathered to watch the Cultural Festival.
-
-Addressing the House of Festival, President Anura Kumara Dissanayake said that Sri Lanka will be in a decisive moment on its economic journey and that Sri Lanka is rebuilt by a sustainable and participatory economy.
-
-The President said that the benefits of this development were broadly shared and the prosperity of the prosperity of every citizen would be exalted.
-
-The President pointed out that the 2025 Expo show that Sri Lanka has created a global platform for a bright future based on its culture, innovation and human values ​​based on.
-
-...
-
-[Data](articles/b10c82ba.json)
-
-[Extended Data](ext_articles/b10c82ba.ext.json)
-
----
-
-### Deva is honored in Australian Parliament
-
-*2025-09-27 19:56:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அவுஸ்திரேலிய-பாராளுமன்றத்தில்-தேவாவுக்கு-கௌரவம்/54-365382) · `ta`
-
-The music composer Deva is the one who has admired his music. Deva, who made his debut as a composer in Tamil cinema through the 1986 film 'Matukkara King', was born and raised.
-
-Naturally, Ghana songs in Kasimedu, Rayapuram and Villivakkam in Chennai are one of the most familiar to Deva.
-
-Deva, who has been hailed as the king of Ghana, has made many super hit songs in more than 400 films.
-
-In this case, Deva has received the attention of the Australian country. Recently, Deva had gone to Australia. He has been welcomed in the Australian Parliament. Remble
-
-◼️
-
-[Data](articles/c29ab089.json)
-
-[Extended Data](ext_articles/c29ab089.ext.json)
-
----
-
-### 46 Police Inspectors Promoted To Superintendents
-
-*2025-09-27 19:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/46-police-inspectors-promoted-to-superintendents) · `en`
-
-COLOMBO(News 1st);Forty-six Inspectors of Police and Chief Inspectors of Police have been promoted to the rank of Superintendent of Police.Public Security Minister Ananda Wijepala stated that 34 Senior Superintendents have also been elevated to Deputy Inspectors General.Additionally, two Deputy Inspectors General have been promoted to Senior Deputy Inspectors General.Minister Wijepala added that the process to promote 5,000 police constables to Chief Inspectors has also begun.He noted that these promotions, which had been on hold for the past five years, are being implemented this year.
-
-◼️
-
-[Data](articles/eb6efba7.json)
-
-[Extended Data](ext_articles/eb6efba7.ext.json)
-
----
-
-### President Dissanayake arrives in Japan for three-day visit
-
-*2025-09-27 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112969/president-dissanayake-arrives-in-japan-for-three-day-visit) · `en`
-
-President Anura Kumara Dissanayake arrived this morning (27) at Kansai International Airport in Osaka, commencing his official visit to Japan, according to the President’s Media Division (PMD).
-
-He was warmly received at the airport by Japan’s Ambassador to Sri Lanka, Akio ISOMATA, Sri Lanka’s Ambassador to Japan, Prof. Pivithuru Janak Kumarasinghe and senior officials of the Japanese Ministry of Foreign Affairs.
-
-At the invitation of the Government of Japan, President Dissanayake is undertaking an official visit to Japan from 27 to 30 September.
-
-On 27 September, he is scheduled to participate as the Chief Guest at the “Expo 2025” Sri Lanka Day celebrations in Osaka, organised jointly by the Sri Lanka Tourism Promotion Bureau and the Embassy of Sri Lanka in Japan.
-
-...
-
-[Data](articles/d67edcea.json)
-
-[Extended Data](ext_articles/d67edcea.ext.json)
-
----
-
-### The police have returned to Padma that ASP came to Indonesia
-
-*2025-09-27 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215078) · `si`
-
-It has been revealed that Assistant Superintendent Assistant Superintendent of Police Rohan Oliathgala has returned to Indonesia that Assistant Superintendent of Kehelbadara Padkerens and Commandor Salinala.
-
-Meanwhile, it is reported that the International Police have issued the red warrant issued through the international police to arrest Kehelbadara Padma.
-
-Kehelbadara Padkerens and Commando Salini, including Criminals, launched a massive operation to arrest in Indonesia.
-
-It is no secret that officials join the operations have worked hard to commit to severe sacrifices in Indonesia.
-
-Mr. Ogalaragala has been informed of the perpetrators of the police that the afforders have been informed of the police and he has called on the telephone number. It is reported that the number has been checked.
-
-The victims were then revealed to Indonesia.
-
-Accordingly, the Kehelbadara Padkere of the Kehelbadara Padkeren, Commando Salin and Kudu Nilanga, has been revealed.
-
-...
-
-[Data](articles/205bc316.json)
-
-[Extended Data](ext_articles/205bc316.ext.json)
-
----
-
-### Public Security Minister reveals plans for new anti-drug campaign
-
-*2025-09-27 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/112968/public-security-minister-reveals-plans-for-new-anti-drug-campaign) · `en`
-
-Minister of Public Security Ananda Wijepala says that there is a direct link between organized crime and drugs and that the country’s children have become victims of the latter through its gradual spread.
-
-He stated that in order to create a righteous and intelligent society, there must be good human resources, and that it is not possible to create a righteous society by making the country’s children fall prey to this drug menace and this will destroy the future generations of the country.
-
-The Minister also emphasized that 72% of the criminals in prisons are people involved in drug related crimes and if this number increases to 100%, there will be a great disaster in the society.
-
-He further said that no matter how economically the country develops, if the future generations of the country are victims of this disaster, Sri Lanka will not be able to develop as a country.
-
-...
-
-[Data](articles/12ec9959.json)
-
-[Extended Data](ext_articles/12ec9959.ext.json)
-
----
-
-### Viksit Bharat Run to showcase India-Sri Lanka friendship
-
-*2025-09-27 19:11:00* · [`economynextcom`](https://economynext.com/viksit-bharat-run-to-showcase-india-sri-lanka-friendship-242039/) · `en`
-
-ECONOMYNEXT – The High Commission of India in Colombo and the Indian Cultural Association, have organised the Viksit Bharat Run 2025 on Sunday (28) from 6 am onwards from Galle Face Green to promote social responsibility, civic participation, and community service.
-
-“The event will feature a 5 km run from Galle Face Green, with the participation of Indian diaspora and Sri Lankan citizens in celebration of the enduring bonds of friendship between India and Sri Lanka,” the high commission said.
-
-The run is part of Seva Pakhwada (Sep 17 – Oct 2), during which activities are organised in India and in over 150 cities across the globe.
-
-The initiative marks the 75th birthday of Indian Prime Minister Narendra Modi.
-
-Cultural performances of Indian music and dance will highlight India’s development journey. (Colombo/Sep27/2025)
-
-◼️
-
-[Data](articles/32a5f003.json)
-
-[Extended Data](ext_articles/32a5f003.ext.json)
-
----
-
-### Court sentences Indian fisherman to jail, orders release of four others
-
-*2025-09-27 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/112967/court-sentences-indian-fisherman-to-jail-orders-release-of-four-others) · `en`
-
-A Sri Lankan court on Friday ordered the release of four Indian fishermen and sentenced another fisherman, also hailing from Rameswaram, to one year of imprisonment for repeated violation of maritime boundaries.
-
-The court also imposed a penalty on all five fishermen, who were arrested by the Sri Lankan Navy on July 28 for violating the International Maritime Boundary Line (IMBL) while they were fishing near the Mannar coast.
-
-The fishermen had been lodged in Vavuniya Prison, and their case came up for hearing for the ninth time on Friday.
-
-Following the verdict, all five were shifted from Vavuniya Prison to an outer facility, pending completion of formalities.
-
-◼️
-
-[Data](articles/cda7c40e.json)
-
-[Extended Data](ext_articles/cda7c40e.ext.json)
-
----
-
-### We don't even have a glass of glass, the projects only need
-
-*2025-09-27 18:39:19* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-ඇල්-වතුර-වීදුරවක්වත්-එපා--ව්‍යාපෘති-පමණයි-අවශ්‍ය/11-418755) · `si`
-
-We are obliged with the expectations and hopes of the country
-
-Sri Lanka's new translation will not be reversed
-
-In all areas of the country marked a critical turn
-
-- President says the President in the United States of Sri Lanka
-
-President Anura Kumara Dissanayake emphasized that he is obliged to oblige the expectations and hopes of the country and is not prepared to be subjected to the influence of the people.
-
-The President emphasized that the present government has marked the economic stability of the country, efficient public service, and corruption and corruption, and to end the corruption and corruption, and the brutality of the corruption.
-
-The next challenge that the country is in the face of the country is to make the country's victories to the ordinary people of the country and the budget of the next year is with that end.
-
-President Anura Kumara Dissanayake said this to the Sri Lankan community in New York, the US-time (25) at the United States of America.
-
-...
-
-[Data](articles/59de8f0d.json)
-
-[Extended Data](ext_articles/59de8f0d.ext.json)
-
----
-
-### Minister says a new program to eliminate drugs
-
-*2025-09-27 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215077) · `si`
-
-Public Defense Minister Ananda Wijepala says that there is a direct link between organized crime and drugs and that children have become a victim of gradually spreading.
-
-He said that it is necessary to have a good human resource to create a good, intelligent society and is not able to create a good society through the victims of the country.
-
-The Minister emphasized that 72% of the abuse of prisons in prisons are fabrications of drug abuse and this is a 100% majority in society.
-
-He added that if the country's future generation is the victim of the country, we have not improved as a country.
-
-He said that 15% of the newly recruited officers of the police have become drugs and 68 officers have been suspended since January.
-
-The Minister further stated that the President will commence a national project to eradicate the drug within 10 days as a remedy for this disaster.
-
-Commenting on the occasion, the Minister of Defense and Parliamentary Affairs Ananda Wijepala said,
-
-...
-
-[Data](articles/68ba1ffb.json)
-
-[Extended Data](ext_articles/68ba1ffb.ext.json)
-
----
-
-### There is no program to measure tank reserves and removal of business places
-
-*2025-09-27 18:25:57* · [`adalk`](https://www.ada.lk/breaking_news/වැව්-රක්ෂිත-මැන්නත්-ව්‍යාපාරික-ස්ථාන-ඉවත්-කිරීමේ-වැඩසටහනක්-නෑ/11-418754) · `si`
-
-The Matale District Parliamentarian Sunil Biannwala said that the government was not ranked by the tanks of the tanks and residents.
-
-The Border Marking Program of the Irrigation Department in the Matale District under the Irrigation Department was launched in the area under the patronage of the MP on 27th MP.
-
-Dambulla Irrigation Engineership Office Farmers' organizations are organized under the Clean Sri Lanka Program. The Irrigation Officers are noteworthy that public officers participating in the political authority.
-
-The glory of a rich country of our heritage has been named as a project to mark the vibrate restrictions of madilla and the reservoirs in the rich.
-
-It was noteworthy that the government was not paying a fair price to the local world's ingres in Matale district and the government's request was not paid to the local world's harvest in Matale District.
-
-...
-
-[Data](articles/e6e92570.json)
-
-[Extended Data](ext_articles/e6e92570.ext.json)
-
----
-
-### President arrives in Japan
-
-*2025-09-27 18:23:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනයට-ළඟ-වය/1-680330) · `si`
-
-The Hon.
-
-Sri Lanka's Ambassador of Japan Akio Soomata (AKIO ISOMATA), Sri Lankan Ambassador (AKIO ISOMATA), Sri Lanka's Ambassador to Japan and senior officials of the Ministry of External Affairs Janaka Kumarasinghe was convicted.
-
-President Anura Kumara Dissanayake is on an official visit to Japan from 27th to 30th.
-
-President Anura Kumara Dissanayake is the chief guest at the Sri Lanka Day Day Celebration in Oscaka on September 27.
-
-The event is organized by the Sri Lanka Tourism Promotion Bureau and Japan's embassy in Japan.
-
-During his visit, President Anura Kumara Dissanayake will meet the Natural Emperor Prime Minister, Japanese Chief Minister, Economic, Trade and Industries Minister.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/e5b5b851.json)
-
-[Extended Data](ext_articles/e5b5b851.ext.json)
-
----
-
-### President arrives in Japan
-
-*2025-09-27 18:23:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපනයට-ළඟ-වය/101-680330) · `si`
-
-The Hon.
-
-Sri Lanka's Ambassador of Japan Akio Soomata (AKIO ISOMATA), Sri Lankan Ambassador (AKIO ISOMATA), Sri Lanka's Ambassador to Japan and senior officials of the Ministry of External Affairs Janaka Kumarasinghe was convicted.
-
-President Anura Kumara Dissanayake is on an official visit to Japan from 27th to 30th.
-
-President Anura Kumara Dissanayake is the chief guest at the Sri Lanka Day Day Celebration in Oscaka on September 27.
-
-The event is organized by the Sri Lanka Tourism Promotion Bureau and Japan's embassy in Japan.
-
-During his visit, President Anura Kumara Dissanayake will meet the Natural Emperor Prime Minister, Japanese Chief Minister, Economic, Trade and Industries Minister.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/fe7f3398.json)
-
-[Extended Data](ext_articles/fe7f3398.ext.json)
-
----
-
-### President Dissanayake meets US Chamber’s SVP Atul Keshap
-
-*2025-09-27 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/112966/president-dissanayake-meets-us-chambers-svp-atul-keshap) · `en`
-
-President Anura Kumara Dissanayake met and held discussions with Mr Atul Keshap, Senior Vice President (South Asia) of the US Chamber of Commerce, during his official visit to the United States to participate in the 80th Session of the UN General Assembly in New York.
-
-A former US Ambassador to Sri Lanka, the retired diplomat also currently serves as the President of the US-India Business Council (USIBC) and US-Bangladesh Business Council.
-
-The Sri Lankan President met with Mr Keshap and the US Chamber’s South Asia team “for a warm and collaborative discussion on economic reforms, fiscal stabilization, and expanding commercial and investment ties and shared prosperity,” the US Chamber said in an ‘X’ post.
-
-◼️
-
-[Data](articles/3edc7fef.json)
-
-[Extended Data](ext_articles/3edc7fef.ext.json)
-
----
-
-### American Commercial Council Chairman meets President
-
-*2025-09-27 18:18:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමරක-වනජ-මණඩල-සභපත-ජනපත-හමවය/1-680329) · `si`
-
-A meeting between the US Chamber of Commerce (South Asia) Athle Kashup (ATL KEAP) and President Anura Kumara Dissanayake said in the United States.
-
-The meeting took place during the 80th session of the United Nations General Assembly.
-
-මෙහිදී මෙහිදී ශ්‍රී ලංකා ජනාධිපතිවරයා සහ අතුල් කේෂප් මහතා අතර කෙටි සාකච්ඡාවක් ද පැවැත්විණි.
-
-◼️
-
-[Data](articles/985dedd0.json)
-
-[Extended Data](ext_articles/985dedd0.ext.json)
-
----
-
-### American Commercial Council Chairman meets President
-
-*2025-09-27 18:18:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමරක-වනජ-මණඩල-සභපත-ජනපත-හමවය/101-680329) · `si`
-
-A meeting between the US Chamber of Commerce (South Asia) Athle Kashup (ATL KEAP) and President Anura Kumara Dissanayake said in the United States.
-
-The meeting took place during the 80th session of the United Nations General Assembly.
-
-The President of Sri Lanka and Mr. Athul Kashaps also held a brief discussion.
-
-◼️
-
-[Data](articles/c37e88ad.json)
-
-[Extended Data](ext_articles/c37e88ad.ext.json)
-
----
-
-### Three members of the president
-
-*2025-09-27 18:16:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-නවත-රජය-නයකයන-තදනක-හමව/1-680328) · `si`
-
-President Anura Kumara Dissanayake met Cyprus, Argentina and Slovenia in the United States.
-
-This was found at the special dinner awarded to the United Nations Leaders in New York Palace Hotel for attending the 80th session of the United Nations General Assembly.
-
-The President of Cyprus, Nikos Christi, President Javier Milei and President Nataša Pirc Musar of Slovenia, President Nataša Pirc Musicia.
-
-◼️
-
-[Data](articles/b4e89a92.json)
-
-[Extended Data](ext_articles/b4e89a92.ext.json)
-
----
-
-### Three members of the president
-
-*2025-09-27 18:16:11* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-නවත-රජය-නයකයන-තදනක-හමව/101-680328) · `si`
-
-President Anura Kumara Dissanayake met Cyprus, Argentina and Slovenia in the United States.
-
-This was found at the special dinner awarded to the United Nations Leaders in New York Palace Hotel for attending the 80th session of the United Nations General Assembly.
-
-The President of Cyprus, Nikos Christi, President Javier Milei and President Nataša Pirc Musar of Slovenia, President Nataša Pirc Musicia.
-
-◼️
-
-[Data](articles/ea2b3738.json)
-
-[Extended Data](ext_articles/ea2b3738.ext.json)
-
----
-
-### President arrives in Japan
-
-*2025-09-27 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215076) · `si`
-
-The Hon.
-
-Ambassador of Japanese in Sri Lanka Ako Eroadana, Sri Lanka's Ambassador to Japan and the Senior Officer of the Ministry of External Affairs was welcomed by senior officials of the Ministry of External Affairs.
-
-President Anura Kumara Dissanayake is on an official visit to Japan from today (27).
-
-President Anura Kumara Dissanayake is the chief guest of the Sri Lanka Tourism Promotion Bureau and Japan's Sri Lanka's Embassy in Oscaka today.
-
-During his visit, President Anura Kumara Dissanayake is due to meet the Natural Prime Minister of Japan and the Minister of Defense, the Minister of External Affairs, Economic and Industries.
-
-The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
-
-Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/44bc3c7e.json)
-
-[Extended Data](ext_articles/44bc3c7e.ext.json)
-
----
-
-### At least 100 feared dead in northwest Nigeria gold mine collapse
-
-*2025-09-27 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/112965/at-least-100-feared-dead-in-northwest-nigeria-gold-mine-collapse) · `en`
-
-At least 100 people are feared dead following the collapse of a gold mining pit in Nigeria’s Zamfara State, survivors and residents said on Friday.
-
-The pit at the Kadauri mining site in the Maru local government area caved in on Thursday while scores of artisanal miners were working underground, witnesses told Reuters. Rescue operations continued into Friday.
-
-Sanusi Auwal, a local resident involved in rescue efforts, said at least 13 bodies had been retrieved from the rubble, including that of his cousin. “Over 100 miners were involved during the collapse,” Auwal told Reuters by phone.
-
-“We are lucky to be rescued alive. Out of more than 100 people, only 15 of us were rescued,” said Isa Sani, who is currently receiving treatment for injuries.
-
-Muhammadu Isa of the Zamfara State miners association confirmed the incident, adding that some rescuers also suffocated while trying to dig out victims.
-
-...
-
-[Data](articles/2c532676.json)
-
-[Extended Data](ext_articles/2c532676.ext.json)
-
----
-
-### President Anurakumara - Senior Vice President of US Chamber of Commerce meets Atul Keshab
-
-*2025-09-27 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226265) · `ta`
-
-There is a meeting between President Anura Kumara Dissanayake and the Senior Vice President of the US Chamber of Commerce (South Asia) Atul Keshap.
-
-He made an official visit to the United States to attend the 80th General Assembly session of the United Nations.
-
-President Anura Kumara met the Senior Vice President of the US Chamber of Commerce (South Asia) Atul Keshab.
-
-◼️
-
-[Data](articles/1287d297.json)
-
-[Extended Data](ext_articles/1287d297.ext.json)
-
----
-
-### Floods, Strong Winds and Heavy Rain Hit Multiple Provinces
-
-*2025-09-27 17:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/floods-strong-winds-and-heavy-rain-hit-multiple-provinces) · `en`
-
-COLOMBO(News 1st); One person has died, and 58 people from 17 families have been affected by disasters caused by heavy rains.The Disaster Management Center reported that 15 houses were partially damaged in the Galle, Kalutara, and Jaffna districts.Meanwhile, the Department of Meteorology warns that the deep-sea area of the Bay of Bengal may become very rough at times, with wind speeds reaching 55–65 km/h. Fishermen and naval personnel are urged to exercise caution while sailing.Showers are expected at times in the Western, Sabaragamuwa, Northwestern, and Southern provinces, as well as in the Kandy and Nuwara Eliya districts. Some areas, including Galle, Matara, Kandy, and Nuwara Eliya, may experience heavy rainfall exceeding 50 mm.Strong winds of 40–50 km/h are predicted in the western slopes of the Central Highlands, and in the Central, Northern, North-Central, and Northwestern provinces, as well as in the Trincomalee and Hambantota districts.
-
-◼️
-
-[Data](articles/177998cb.json)
-
-[Extended Data](ext_articles/177998cb.ext.json)
-
----
-
-### Labookellie Estate
-
-*2025-09-27 17:47:00* · [`islandlk`](http://island.lk/labookellie-estate/) · `en`
-
-over 150 years of tea heritage looks to the future under Damro
-
-High above the mist-draped peaks of Sri Lanka’s Central Highlands, where crisp winds whisper across emerald slopes, lies the iconic Labookellie Estate. Established in 1870, this plantation has stood the test of time as one of the country’s most renowned tea estates, blending heritage, innovation and community service in a way that continues to shape the identity of Ceylon Tea.
-
-Today, under the stewardship of the Damro Group, Labookellie remains both a symbol of Sri Lanka’s tea legacy and a vibrant contributor to its economy and culture.
-
-...
-
-[Data](articles/6a5cd34f.json)
-
-[Extended Data](ext_articles/6a5cd34f.ext.json)
-
----
-
-### Major Cities on High Alert as Dengue Threat Looms
-
-*2025-09-27 17:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/27/major-cities-on-high-alert-as-dengue-threat-looms) · `en`
-
-COLOMBO(News 1st);The National Dengue Control Unit has urged the public to destroy mosquito breeding sites during the rainy season.Public Medical Consultant of the National Dengue Control Unit, Prashila Samaraweera stated that Colombo, Gampaha, Jaffna, and Batticaloa districts have been identified as high-risk areas for dengue.So far this year, a total of 38,702 dengue cases have been reported.Twenty-one people have died from dengue complications.
-
-◼️
-
-[Data](articles/ffb79d83.json)
-
-[Extended Data](ext_articles/ffb79d83.ext.json)
-
----
-
-### Cultivating Circular Futures: Youth as Agents of Change
-
-*2025-09-27 17:45:00* · [`islandlk`](http://island.lk/cultivating-circular-futures-youth-as-agents-of-change/) · `en`
-
-On September 29, the world marks the International Day of Awareness on Food Loss and Waste,
-
-highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
-
-The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
-
-...
-
-[Data](articles/a36524f1.json)
-
-[Extended Data](ext_articles/a36524f1.ext.json)
-
----
-
-### The Kingswood Reader: A refined and sophisticated opus:
-
-*2025-09-27 17:45:00* · [`islandlk`](http://island.lk/the-kingswood-reader-a-refined-and-sophisticated-opus/) · `en`
-
-When I received the invitation to speak at this most august occasion, I must confess, I had to check Vihanga Perera’s invitation twice. You see, I’m not from Kingswood. I’m a Josephian—and in schoolboy terms, that makes me something like the distant cousin you see only at weddings, funerals, and maybe, at cricket or rugger matches.
-
-But let me tell you sincerely why I stand here. Because beyond the colours of our alma maters, beyond the chants of “Go Kingswood!” or “Forward Joes!”, there is something more lasting, more sacred, more binding. It is the soul of our schools. It is memory. It is story. It is the written word that we pass down like a torch, from one generation to the next.
-
-...
-
-[Data](articles/b54eede5.json)
-
-[Extended Data](ext_articles/b54eede5.ext.json)
-
----
-
-### The Hypocrisy Of The Scalpel: Is Sri Lanka’s Medical Watchdog Controlled By A Union?
-
-*2025-09-27 17:42:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-hypocrisy-of-the-scalpel-is-sri-lankas-medical-watchdog-controlled-by-a-union/) · `en`
-
-The Government Medical Officers Association (GMOA), Sri Lanka’s powerful doctors’ trade union, is currently making headlines for urging the Minister of Health to appoint a President to the Sri Lanka Medical Council (SLMC) who possesses “the highest stature, qualifications, and credentials,” is free from any conflicts of interest, and has no “commitments which may interfere” with their duties.
-
-It’s an admirable demand—but the entire medical profession and the public are left asking: Is this the ultimate act of hypocrisy?
-
-The GMOA’s call for unimpeachable integrity at the top is directly contradicted by serious allegations regarding its own actions within the SLMC, the very body mandated to regulate and discipline doctors for the public good.
-
-...
-
-[Data](articles/f216bd28.json)
-
-[Extended Data](ext_articles/f216bd28.ext.json)
-
----
-
-### Baldi - Movie Review
-
-*2025-09-27 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226264) · `ta`
-
-Product: STK Brames & Binu George Alexander Productions
-
-Actors: Shane Nikam, Shantanu Bhagyaraj, Preity Azrani, Selvaraghavan, Alphonse Putra, Purnima Mohan and many others.
-
-Malayalam star Actor Shane Nikam starring Malayalam star Shane Nikam Karana) Did it beat? Or not? We will continue to see.
-
-Udayan (Shane Nikab), Kumar (Shantanu Bhagyaraj) and his two close friends have been placed in the Kabaddi group of Panchami Riders.
-
-They once defeated the Kabaddi team called Pottamarai and win the trophy. One is the main representative of the Pottamarai group.. Udayan, Kumar and his two friends are very good in the Panchami group, Bhairavan (Selvaraghavan), the leader of the group.. Asking them to play for our team ... To him too.. Then there is talks with Udayan and Kumar.
-
-...
-
-[Data](articles/cfe7d6af.json)
-
-[Extended Data](ext_articles/cfe7d6af.ext.json)
-
----
-
-### Director's star couple's successor ..!?
-
-*2025-09-27 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226263) · `ta`
-
-Surya - Jodhika's successor, Thea Surya, has directed the 'Leading Light' and directed the director.
-
-In the Bollywood screen world, the life of female workers in the cinematography category ... Describing their experiences ... The documentary creation is ready for 'leating light'. This is the driver of Thea Surya. It was co -produced by Surya and Jodhika on behalf of 2D Entertainment.
-
-This work, which is based on documentary creation, will be screened at the Film House in Los Angeles and California, USA from September 26 to October. This documentary creation, which is acclaimed in places where the world has been screened - qualified for the Oscar Award and win the award ..!? The expectation is.
-
-Sivakumar - Surya - has crossed the two generations and is currently in the field of third -generation Thea and the film industry.
-
-◼️
-
-[Data](articles/dab7084e.json)
-
-[Extended Data](ext_articles/dab7084e.ext.json)
-
----
-
-### Mongolian security consultant meets security heads of Sri Lanka
-
-*2025-09-27 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215075) · `si`
-
-Sri Lanka's Mongolian Defense Advisor Colonel Odsuren Zayat and Deputy Minister of Defense Major General Aruna Jayasekara was held at his office in Colombo.
-
-The Deputy Minister has warmly welcomed the Colonel Zayat very hot and have a friendly discussion on the mutual importance.
-
-The Defense Secretary Air Vice Marshal resources have also been found at Colonel Zayat, Defense Ministry.
-
-There is focusing on the main areas of security and exchange.
-
-These appointments marked the effective and successful move to strengthen security ties between Mongolia and Sri Lanka.
-
-◼️
-
-[Data](articles/a0f706d7.json)
-
-[Extended Data](ext_articles/a0f706d7.ext.json)
-
----
-
-### Update of 'STR 49' starring Silambarasan
-
-*2025-09-27 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226262) · `ta`
-
-The film crew has officially announced the release of the debut video of the new movie starring Silambarasan, the leading star actor in the Tamil film industry.
-
-Kalaipuli S Thanu is producing the movie 'STR49', which is being played in the lead role in the director of director Vijayamaran.. The film crew has been providing exciting news to fans who have been waiting for more details on the film.
-
-Silambarasan -Vettimaran S.. The title of the new film in the Tanu Alliance - the hero of the film, Silambarasan's appearance - storyline - has announced that a number of issues will be released.. Thus the fans of Silambarasan and Vijayamaran have been encouraged.
-
-◼️
-
-[Data](articles/8821d81a.json)
-
-[Extended Data](ext_articles/8821d81a.ext.json)
-
----
-
-### 'Music' AR. The first song of 'Vathankal' released by Rahman
-
-*2025-09-27 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226261) · `ta`
-
-The first song 'Unake Unakkai ..', which is featured in the movie 'Vattanal', starring actor Dhruvan Mano, has been released.
-
-Dhruvan Mano, Meenakshi Govindarajan, R.. K. Suresh, Mano, Vinodhini Vaidyanathan, 'Adukalam' Narain, Vidya Pradeep, 'Kabali' Viswant. M.. A.. Anand has composed the cinematography and composed the film for the film. Producers Dr. A.. Afternoon. Veerammal has co -produced.
-
-The first look of the film was released and attracted the attention of the audience ... The first song, which begins with 'You Nee Unakkai Thing ..' and the lyrical video for the song. The song is written by songwriter Yuga Bharati, playback singer Karthik and singer Shavini Raveendra.. This song, which is a melody, has attracted everyone.
-
-◼️
-
-[Data](articles/98838d45.json)
-
-[Extended Data](ext_articles/98838d45.ext.json)
-
----
-
-### Narahenpita renews railway station
-
-*2025-09-27 17:22:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නරහනපට-දමරය-පළ-අලත-කරය/101-680327) · `si`
-
-The refurbishment of Narahenpita Railway Station began today (27) under the Dream Destination program.
-
-Narahenpita Railway Station, regarding the Kelani Sand Road, is located in the middle of the Kotara Road and the Kirulapone Railway Station.
-
-The station is located in two main platforms and one ticket counter from Colombo from 5.06km.
-
-The rank of the Department of Labor, Department of Motor Traffic, including the Department of Motor Traffic, including the Department of Motor Traffic, and Semi-State and Private Institution are using a large number of passengers traveling to everyday duties.
-
-The construction of a passenger flyover to the comfort of the railway stations, the construction of a passenger flyover development, enhance the roof of the second platform, is implemented with full sponsorship and cozy facilities to train passengers.
-
-◼️
-
-[Data](articles/1ac2dadc.json)
-
-[Extended Data](ext_articles/1ac2dadc.ext.json)
 
 ---

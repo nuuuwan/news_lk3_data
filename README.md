@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 01:05:39**
+As of **2025-09-29 01:19:54**
 
 ## Newspaper Stats
 
-*Scraped **79,293** Articles*
+*Scraped **79,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,38 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,871
-virakesarilk | 12,921
+virakesarilk | 12,922
 adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,293 (100.0%) of 79,293 articles have been extended.
+79,293 (100.0%) of 79,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### ஆசிய கிண்ண கிரிக்கெட் : 9வது முறையாக இந்தியா சாம்பியன்
+
+*2025-09-29 00:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226351) · `ta`
+
+ஆசியக் கிண்ண கிரிக்கெட் தொடரின் இறுதிப் போட்டியில் இந்திய அணி, பாகிஸ்தானை 5 விக்கெட் வித்தியாசத்தில் வீழ்த்தி, 9வது முறையாக ஆசிய சாம்பியன் பட்டத்தை வென்றது.
+
+துபாய் சர்வதேச கிரிக்கெட் மைதானத்தில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற பரபரப்பான ஆட்டத்தில் பாகிஸ்தான் அணி முதலில் துடுப்பெடுத்தாடி, 20 ஓவர்களில் 147 ஓட்டங்கள் குவித்தது.
+
+அந்த இலக்கை எதிர்கொண்ட இந்திய அணி, நிதானமான ஆட்டத்துடன் 5 விக்கெட்டுகள் இழப்புக்கு வெற்றியைப் பெற்றது.
+
+இப்போட்டியில் இந்திய துடுப்பாட்ட வீரர்கள் தொடக்கத்தில் சில விக்கெட்டுகளை இழந்தபோதிலும், நடுப்பகுதியில் தைரியமாக விளையாடி இலக்கை எட்டிச் சென்றனர்.
+
+இந்த வெற்றியுடன் இந்தியா, ஆசிய கிண்ண வரலாற்றில் தனது ஆதிக்கத்தை மேலும் வலுப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/dee44d3c.json)
+
+---
 
 ### India wins the Jan 9th consecutive year
 
@@ -2032,23 +2052,5 @@ At the end of the struggle, our request will be handed over to the Mannar Distri
 [Data](articles/37c0ec89.json)
 
 [Extended Data](ext_articles/37c0ec89.ext.json)
-
----
-
-### Firing at a hotel in the United States; 3 people die
-
-*2025-09-28 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226325) · `ta`
-
-The shooting incident took place at a hotel near the coastal area of ​​South Carolina, South Carolina, USA.
-
-The mysterious gang on the boat opened fire on a hotel near the beach. Three people were killed and 8 were injured in the shooting.
-
-Police rushed to the scene and rescued the injured and admitted to a nearby hospital. Also, they are investigating the firing attack.
-
-◼️
-
-[Data](articles/5cb37706.json)
-
-[Extended Data](ext_articles/5cb37706.ext.json)
 
 ---

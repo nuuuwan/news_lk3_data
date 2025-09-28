@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 19:37:01**
+As of **2025-09-28 19:53:54**
 
 ## Newspaper Stats
 
-*Scraped **79,256** Articles*
+*Scraped **79,261** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 409
-newsfirstlk | 456
+lankadeepalk | 411
+newsfirstlk | 457
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -21,17 +21,59 @@ adalk | 7,641
 adaderanalk | 10,235
 tamilmirrorlk | 11,867
 virakesarilk | 12,911
-adaderanasinhalalk | 13,740
+adaderanasinhalalk | 13,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,256 (100.0%) of 79,256 articles have been extended.
+79,256 (100.0%) of 79,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### 105 Shops Raided for Selling Rice Above Maximum Retail Price
+
+*2025-09-28 19:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/105-shops-raided-for-selling-rice-above-maximum-retail-price) · `en`
+
+COLOMBO (News 1st) - The Consumer Affairs Authority (CAA) has raided 105 shops across the country for selling rice at inflated prices. The authority said the raids were conducted islandwide over the past two weeks. The Consumer Affairs Authority further affirmed that legal action will be taken against the shop owners found violating the law.
+
+◼️
+
+[Data](articles/8859d2e8.json)
+
+---
+
+### කාසියේ වාසිය ඉන්දියාවට
+
+*2025-09-28 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215109) · `si`
+
+ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අවසන් තරගය පාකිස්ථානය සහ ඉන්දියාව අතර අද (28) පැවැත්වෙයි.
+
+එහිදී කාසියේ වාසිය දිනා ගැනීමට ඉන්දියාව සමත් වූ අතර ඔවුන් ප්‍රථමයෙන් පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/cca6c948.json)
+
+---
+
+### නාමල් ධීවර දුක අහන්න යයි
+
+*2025-09-28 19:31:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නමල-ධවර-දක-අහනන-යය/101-680369) · `si`
+
+පොදුජන පෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අද (28)කල්පිටිය, නොරොච්චෝල ඉලන්තිඅඩියේදී ධීවර ප්‍රජාව හමු විය.
+
+එසේම මන්නාරම සිට  නොරොච්චෝල දක්වා මුහුදු සීමාවේ විදේශීය ධීවරයන් විසින් 'බොටම් ටෝලිම්' ඇදීම හේතුවෙන් සාගර පරිසරයට කරන හානිය සම්බන්ධයෙන් ධීවර ප්‍රජාව මෙහිදී නාමල් රාජපක්ෂ මහතා දැනුවත් කළේය.
+
+විදෙස් ධීවරයන් ලාංකික ධීවරයින්ට කරන තර්ජන හා බලපැම් මෙන්ම  දැල් හා ආම්පන්න වලට කරන හානි සම්බන්ධවත් ලාංකික ධීවර ප්‍රජාවට සාධාරණයක් ඉටු කර ගැනීමේ වැඩපිළිවෙල පිළිබඳවත් මෙහිදී සාකච්ඡා කෙරිණි.
+
+◼️
+
+[Data](articles/9d473df6.json)
+
+---
 
 ### Woman collided with powder Menike train
 
@@ -144,6 +186,26 @@ The police said that the arrested former Provincial Council member would be prod
 [Data](articles/c46df30f.json)
 
 [Extended Data](ext_articles/c46df30f.ext.json)
+
+---
+
+### එළැඹෙන අයවැයෙන් නව බදු හඳුන්වා නොදීම රජයේ අපේක්ෂාවයි - ජනපති
+
+*2025-09-28 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215107) · `si`
+
+මෙරට බිඳ වැටුණු ආර්ථිකය ගොඩනඟමින් ආර්ථික ස්ථාවරත්වය ඇති කිරීම, නීතියේ විධානයේ ආධිපත්‍යය තහවුරු කිරීම, දූෂණ වංචාවලින් තොර පාලනයක් ඇති කිරීම, රාජ්‍ය යාන්ත්‍රණය කාර්යක්ෂම කිරීම වැනි ජනතාව අපේක්ෂා කළ නව පරිවර්තනයන් වෙනුවෙන් ඉකුත් වසර තුළ රජය සැලකිය වැඩ කොටසක් ඉටු කර තිබෙන බව නාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+එමෙන්ම ජනාධිපතිවරයා පැවසුවේ රට තුළ ගොඩනැඟෙන ආර්ථිකයෙහි, ආර්ථික වර්ධන ඉලක්ක සපුරා ගැනීම රජයේ අපේක්ෂාව බවත් එළැඹෙන අයවැය ලේඛනයෙන් අලුතින් කිසිදු බද්දක් හඳුන්වා දීමට අපේක්ෂා නොකරන බවත්, පනවා ඇති ඇතැම් බදු ප්‍රතිශත අඩු කිරීමටද ඉදිරියේදී අවධානය යොමු කරන බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව සමඟ හමුවකට අද (28) පස්වරුවේ ටෝකියෝ හි  Reiyukai ශාලාවේදී එක් වෙමිනි.
+
+එමෙන්ම ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාවට ඔහු පැවසුවේ ගොඩනැඟෙමින් තිබෙන ශ්‍රී ලංකාවට නොබියව පැමිණ ආයෝජනය කර, රට දිනවීමේ ගමනේ කොටස්කරුවන් බවට පත්වන ලෙසටය.
+
+ඒ වෙනුවෙන් අවශ්‍ය සියලු පහසුකම් සපයා දීමට රජය සූදානම් බවද ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/058a6dc5.json)
 
 ---
 
@@ -876,6 +938,26 @@ President Anura Kumara Dissanayake said that the past budget documents have alwa
 [Data](articles/3244d1ce.json)
 
 [Extended Data](ext_articles/3244d1ce.ext.json)
+
+---
+
+### කන්තෝරැ 457 ක ලොක්කෝ මැතිසබයට
+
+*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනතර-457-ක-ලකක-මතසබයට/101-680359) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව (කෝප් කමිටුව) රජයේ ආයතන 457 ක ප්‍රධානීන් ලබන 2 වැනිදා පාර්ලිමේන්තුවට කැඳවා ඇත.
+
+පාර්ලිමේන්තුවේ කමිටුවක් හමුවට ආයතන ප්‍රධානීන් එකවර වැඩිම ප්‍රමාණයක් කැඳවෙන පළමු අවස්ථාව මෙයයි.
+
+කෝප් කමිටුවේ කාර්යභාරය සහ එහි කටයුතු ඉදිරියට පවත්වාගෙන යෑමේදී මතුව ඇති ගැටලු මෙන්ම ආයතනවල කාර්ය සාධනය සම්බන්ධයෙන් කරුණු විමසීම සඳහා මෙම ආයතන මෙසේ කැඳවා ඇතැයි කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා ලංකාදීපයට පැවසීය.
+
+ආයතනවල විගණනයන් පිළිබඳව සහ ඒවායේ ක්‍රියාකාරීත්වය පිළිබඳව මූලික තොරතුරු ලබාගැනීමද මෙහිදී සිදුකෙරේ.
+
+සෑම ආයතනයකම සභාපතිවරයා සහ ප්‍රධාන විධායක නිලධාරියා මෙම සාකච්ඡාවට සහභාගි වීමට නියමිතය.
+
+◼️
+
+[Data](articles/c218dff5.json)
 
 ---
 
@@ -1904,111 +1986,5 @@ The stampede occurred around 7.30 pm as thousands of people, who had been waitin
 [Data](articles/f82c3c22.json)
 
 [Extended Data](ext_articles/f82c3c22.ext.json)
-
----
-
-### Harry suggests people trying to sabotage reconciliation with King
-
-*2025-09-28 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/112994/harry-suggests-people-trying-to-sabotage-reconciliation-with-king) · `en`
-
-The Duke of Sussex has suggested people are trying to sabotage his reconciliation with King Charles, as he described media reports about their recent meeting as “categorically false”.
-
-Prince Harry met his father at Clarence House in London on 10 September, in their first face to face meeting since February 2024.
-
-However, a report in the Sun on Saturday suggested the reunion had been more formal than expected, with the duke reportedly left feeling like he was being treated as an official visitor, rather than family.
-
-In a statement, Prince Harry’s spokesperson said the claims were “pure invention fed, one can only assume, by sources intent on sabotaging any reconciliation between father and son”.
-
-The Sun newspaper said Prince Harry had confirmed aspects of its reporting. It said the duke’s office “was given full right of reply yesterday in advance of publication and opted not to give a response to the Sun’s carefully sourced account of the meeting”.
-
-...
-
-[Data](articles/4528990d.json)
-
-[Extended Data](ext_articles/4528990d.ext.json)
-
----
-
-### Increasing American - Sri Lanka's intimacy
-
-*2025-09-28 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226293) · `ta`
-
-Many of the events that took place in September 2025 are sufficient to make the reverse change in security relations between the US and Sri Lanka.
-
-◼️
-
-[Data](articles/16aa7946.json)
-
-[Extended Data](ext_articles/16aa7946.ext.json)
-
----
-
-### COPE summons all institutions under its purview for special discussion
-
-*2025-09-28 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112993/cope-summons-all-institutions-under-its-purview-for-special-discussion) · `en`
-
-The Committee on Public Enterprises (COPE) has summoned all institutions under its jurisdiction for a special meeting.
-
-The meeting is scheduled to take place on October 2 at the Parliamentary complex, according to COPE Chairman Dr. Nishantha Samaraweera.
-
-The main objective of the meeting is to discuss the challenges currently being faced in the ongoing functions and responsibilities of the COPE Committee.
-
-At present, 457 state enterprises fall under the oversight of COPE.
-
-Dr. Samaraweera further stated that written notifications have been sent to the secretaries of those institutions regarding the meeting.
-
-The session aims to gather preliminary information on the audits of the respective institutions and their operational performance.
-
-◼️
-
-[Data](articles/283f7758.json)
-
-[Extended Data](ext_articles/283f7758.ext.json)
-
----
-
-### Ranil to visit Carlton
-
-*2025-09-28 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215097) · `si`
-
-Former President Ranil Wickremesinghe met with former President Mahinda Rajapaksa at Carlton House this morning.
-
-The former President Ranil Wickremesinghe is from Kataragama to Colombo.
-
-Ranil Wickremesinghe thanked Mahinda Rajapakse regarding the role of his role.
-
-Ranil Wickremesinghe was also taken to consult with Mr. Mahinda Rajapaksa's pleasure.
-
-◼️
-
-[Data](articles/b0d0a1a4.json)
-
-[Extended Data](ext_articles/b0d0a1a4.ext.json)
-
----
-
-### The world's tallest bridge opening in China
-
-*2025-09-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226300) · `ta`
-
-The world's tallest Huajiang Grand Canyon Bridge in China is open today (28).
-
-The bridge has broken the engineering record of another bridge in Quezo after completing construction work in three years.
-
-The Huajiang Grand Canyon Bridge is located at a height of 625 meters above the river and the vast valley in the rough province of China, the southern province of China.
-
-The world's second tallest 565 -meter Baibanjiang Bridge is also in Quezo.
-
-It is reported that a large number of visitors, including project engineers and local officials, attended the opening of the bridge.
-
-"The opening of the Huajiang Grand Canyan Bridge will reduce the travel time between the two parts to two minutes to two minutes," said Jong of the Provincial Transport Department Jong's on the 24th.
-
-Its opening said, "It is" making enormous improvements in regional transport and paying new inspiration in regional economic and social development. "
-
-...
-
-[Data](articles/ef96ec08.json)
-
-[Extended Data](ext_articles/ef96ec08.ext.json)
 
 ---

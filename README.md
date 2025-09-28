@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 22:20:28**
+As of **2025-09-28 22:53:53**
 
 ## Newspaper Stats
 
@@ -27,43 +27,47 @@ adaderanasinhalalk | 13,748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,277 (100.0%) of 79,284 articles have been extended.
+79,284 (100.0%) of 79,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### ஆசியக் கிண்ணம்: இந்தியாவுக்கு வெற்றியிலக்கு 147 ஓட்டங்கள்
+### Asian Cup: 147 runs for India
 
 *2025-09-28 22:05:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசியக்-கிண்ணம்-இந்தியாவுக்கு-வெற்றியிலக்கு-147-ஓட்டங்கள்/44-365428) · `ta`
 
-ஐக்கிய அரபு அமீரகத்தின் டுபாயில் இன்று நடைபெற்று வரும் இறுதிப் போட்டியின் நாணயச் சுழற்சியில் வென்ற இந்திய அணியின் தலைவர் சூரியகுமார் யாதவ், பாகிஸ்தானை முதலில் துடுப்பெடுத்தாடப் பணித்தார்.
+Indian captain Suriyakumar Yadav won the first match of the final of the final of the final of the final in Dubai, the United Arab Emirates.
 
-அந்தவகையில் முதலில் துடுப்பெடுத்தாடிய பாகிஸ்தான், சஹிப்ஸடா பர்ஹான், பக்கர் ஸமன் மூலம் சிறப்பான ஆரம்பத்தைப் பெற்றது. 57 (38) ஓட்டங்களுடன் வருண் சக்கரவர்த்தியிடம் பர்ஹான் வீழ்ந்ததன் பின்னர் 12.4 ஓவர்களில் ஒரு விக்கெட் இழப்புக்கு 113 ஓட்டங்களைப் பெற்றிருந்த பாகிஸ்தான் மேலும் 33 ஓட்டங்களைப் பெறுவதற்குள் குல்தீப் யாதவ் (4), அக்ஸர் பட்டேல் (2), வருண் சக்கரவர்த்தி, ஜஸ்பிரிட் பும்ராவிடம் (2) 9 விக்கெட்டுகளைப் பறிகொடுத்து 19.1 ஓவர்களில் சகல விக்கெட்டுகளையும் இழந்து 146 ஓட்டங்களையே பெற்றது.
+Pakistan, who was the first to bat, got a good start by Sahibsada Burhan and Backer Saman. After Burhan fell to Emperor with 57 (38), Pakistan, who had 113 runs for the loss of one wicket in 12.4 overs, Kuldeep Yadav (4), Aksar Patel (2), Varun Emperor, Jasprit Bumrah (2) Received.
 
 ◼️
 
 [Data](articles/e3c19453.json)
 
+[Extended Data](ext_articles/e3c19453.ext.json)
+
 ---
 
-### விஜய் வீட்டுக்கு வெடிகுண்டு மிரட்டல்
+### Bomb threatening Vijay home
 
 *2025-09-28 21:59:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்-வீட்டுக்கு-வெடிகுண்டு-மிரட்டல்/54-365427) · `ta`
 
-தவெக தலைவர் விஜய் வீட்டுக்கு வெடிகுண்டு மிரட்டல் விடுக்கப்பட்டுள்ளது. சென்னை நீலாங்கரையில் உள்ள விஜய் வீட்டிற்கு மர்ம நபர் இமெயில் மூலமாக வெடிகுண்டு மிரட்டல் விடுத்துள்ளார்.
+Bomb bomb threatening. The mysterious person has bombed the mysterious person in the Vijay's house in Neelangara, Chennai.
 
-கரூரில் நேற்று தவெக தலைவர் விஜய் நடத்திய பிரசார கூட்டத்தில் நெரிசல் ஏற்பட்டது. இந்த கூட்ட நெரிசலில் சிக்கி 40 பேர் உயிரிழந்த சம்பவம் நாட்டையே உலுக்கியுள்ளது.
+In Karur yesterday. இந்த கூட்ட நெரிசலில் சிக்கி 40 பேர் உயிரிழந்த சம்பவம் நாட்டையே உலுக்கியுள்ளது.
 
-கரூர் கூட்ட நெரிசல் சம்பவம் தொடர்பாக விசாரணை நடத்த ஓய்வு பெற்ற நீதிபதி அருணா ஜெகதீசன் தலைமையில் ஒரு நபர் விசாரணை ஆணையம் அமைக்கப்பட்டது.
+A person's inquiry commission was set up under the leadership of retired judge Aruna Jegadeesan to investigate the Karur crowd.
 
-இது ஒரு புறம் இருக்க நடிகர் விஜய்யின் வீட்டின் முன்பு போலீஸ் பாதுகாப்பு போடப்பட்டு உள்ளது.
+On the one hand, police protection has been put in front of actor Vijay's house.
 
-சென்னையில் உள்ள நீலாங்கரை வீட்டின் முன்பு போலீசார் பாதுகாப்புக்கு நிற்க வைக்கப்பட்டுள்ளனர். இந்த நிலையில் விஜய்யின் வீட்டிற்கு வெடிகுண்டு மிரட்டல் விடுக்கப்பட்டுள்ளமை பரபரப்பை அதிகரித்துள்ளது..R
+Police have been placed in security in front of the Neelangara house in Chennai. In this case, the bomb threatening Vijay's house has increased.
 
 ◼️
 
 [Data](articles/b1cdd86a.json)
+
+[Extended Data](ext_articles/b1cdd86a.ext.json)
 
 ---
 
@@ -89,51 +93,59 @@ It is noteworthy that the police have seized such a surrounding campaign in the 
 
 ---
 
-### ඉන්දියාවට ලකුණු 147ක ඉලක්කයක්
+### India target 147 runs
 
 *2025-09-28 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215114) · `si`
 
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අද (28) පැවැත්වෙන අවසන් මහා තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවාර 19.1කදී සියලුදෙනා දැවී ලකුණු 146ක් රැස්කිරීමට සමත් විය.
+Pakistan won the batting first in 19.1 overs of the Asian Cup Twenty20 tournament.
 
-ඒ අනුව ආසියානු ශූරයන් ලෙසින් කිරුළු පැළඳීමට ඉන්දියාවට ලකුණු 147ක ඉලක්කයක් හිමිවිය.
+Accordingly, India has a target of 147 to be crowned as Asian Champions.
 
-පාකිස්තාන කණ්ඩායමට සාර්ථක ආරම්භයක් රැගෙන ඒමට සහිබ්සාඩා ෆර්හාන් හා ෆකර් සමාන් සමත් වූ අතර, ඔවුන් දෙදෙනා පළමු කඩුල්ලට පන්දු 58කදී ලකුණු 84ක් රැස්කිරීමට සමත් විය.
+Sappada Farhan and Fauker Saman managed to bring a successful start to the Pakistan team.
 
-කෙසේ නමුත් එහිදී පන්දු 38කින් ලකුණු 57ක් රැස්කළ ෆර්හාන් දැවීයාමත් සමග පාකිස්තාන ඉනිමේ කඩාවැටීමට ආරම්භ විය.
+However, Farhan had scored 57 runs in 38 balls, he began to collapse in the Pakistani innings.
 
-එතැන් සිට ලකුණු 62ක් තුළ පාකිස්තාන සියලුම පිතිකරුවන් දැවී ගියේය.
+All the batsmen were burnt in 62 runs.
 
 පාකිස්තානය ඉනිමේ පළමු පන්දුවාර 10 අවසන් වනවිට ලකුණු පුවරුව 87/1ක් ලෙස සටහන් වූ අතර, අවසන් පන්දුවාර 9.1කදී එය සටහන් වූයේ 59/9ක් ලෙසය.
 
-පාකිස්තාන පිතිකරුවන් අසරණ කළ පන්දු යැවීමක නිතර වූ කුල්දීප් යාදව් ලකුණු 30කට කඩුලු 4ක් දවාගත්තේය.
+Pakistan bowled out a bowling with bowling helplessly, Tulrayip Yadu took 4 wickets for 30 runs.
 
 ◼️
 
 [Data](articles/eb986965.json)
 
+[Extended Data](ext_articles/eb986965.ext.json)
+
 ---
 
-### උකුස්සාට හසු වූ රන් කාසි හොරු
+### The golden coins that have been caught
 
 *2025-09-28 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215113) · `si`
 
-නිධානයකින් ලබාගත් රන් කාසි විකිණීමට ඇති බව පවසා ගැනුම්කරුවන් රවටන ජාවාරම්කරුවන් පිරිසක් නීතියේ රැහැනට හසුකරදීමට අද දෙරණ උකුස්සාට හැකිවිය.
+Ada Derana Uk was able to traveled a group of boys to the law where the gold coins were for sale in a treasure.
 
-නිධන්වලින් ලබාගත් රත්‍රං අලෙවිකරන බව පවසා ජනතාව රවටන ජාවාරම්කරුවන් පිළිබඳව අද දෙරණ උකුස්සා අවස්ථා රැසකදීමට රට හමුවේ අනාවරණ කර තිබේ.
+The people have revealed in the country to several occasions on the deceptive decomposies that the people who have been marketed in treasure hunters.
 
 එවන් පසුබිමක සංවිධානාත්මක කණ්ඩායමක් දිවයිනේ විවිධ ප්‍රදේශ කේන්ද්‍රකර ගනිමින් තවත් එවැනිම ජාවාරමක් සිදුකරන බවට අපට තොරතුරු ලැබුණි.
 
-ඒ අනුව උකුස්සා පළමුව උපායදූතයෙකු මාර්ගයෙන් ජාවාරම්කරු සමඟ හිතවත්කමක් ගොඩනගාගත්තේ අපටද රත්‍රං මිලදීගැනීමට අවශ්‍ය බව පවසමිනි.
+Accordingly, the hawk was first, saying that we wanted to buy gold with the racket.
 
-එහිදී සිත්ඇදගන්නා සුළු අයුරින් අප සමග සංවාදයේ යෙදෙන ජවාරම්කරු හමුවීමට අප දිනයක් යොදාගෙන මිහින්තලය ප්‍රදේශයට ළඟාවන්නේ ජාවාරම පිළිබඳව සැකහැර දැනගැනීම සඳහාය.
+It uses a date using a day to meet the racket to meet the racket to meet the racket to meet the racket.
 
-අපව මිහින්තලේ ප්‍රදේශයේ විවිධ ස්ථානවලට කැඳවන ජාවාරම්කරු අනතුරුව මරදන්කඩවල ප්‍රදේශයට පැමිණෙන ලෙස දැනුම්දුන්නේය.
+The racketeer called us to various places in the Mihintale later told the Maradakadawala area.
 
-අනතුරුව අප මේ පිළිබඳව මරදන්කඩවල පොලීසිය දැනුම්වත් කිරීමෙන් පසු එහි නිලධාරීන් කණ්ඩායමක් සමග අදාළ ප්‍රදේශයට ළඟාවන්නේ අඳුරවැටුණ පසුවය.
+Subsequently, after the police are informed about this, the identity of the area reaches the area after it was nearing a group of officials.
+
+The racketeer was arrested in the Maradankadawala Police Officers immediately.
+
+Inspection was revealed that he was submerged with a manner similar to the gold coins.
 
 ...
 
 [Data](articles/7958b6c3.json)
+
+[Extended Data](ext_articles/7958b6c3.ext.json)
 
 ---
 
@@ -151,25 +163,27 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake, speaking during his off
 
 ---
 
-### ඉන්දීය ක්‍රිකට් සභාපති පුටුව මිතුන් මන්හාස්ට
+### President of India Cricket Mithun Guhaz
 
 *2025-09-28 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215112) · `si`
 
-ඉන්දීය ක්‍රිකට් ආයතනයේ (BCCI) නව සභාපතිවරයා ලෙස මිතුන් මන්හාස් තේරීපත් විය.
+The Mithun Manhas was elected as the new Chairman of the Indian Cricket (BCCI).
 
-BCCI 94වන වාර්ෂික මහා සභා රැස්වීම අද (28) පැවැති අතර, එහිදී ඔහු නිතරගයෙන් තේරී පත් විය.
+The BCCI 94th Annual General Meeting held today (28), he was unanimously elected.
 
-ඉන්දීය පළමුපෙළ ක්‍රිකට් ක්‍රීඩකයෙකු මෙන්ම දිල්ලි ප්‍රාන්ත කණ්ඩායමේ හිටපු නායකයකේද වන මන්හාස් එරට 37 වන ක්‍රිකට් සභාපතිවරයා වේ.
+The Manhas is one of the 37th Cricket Chairman of the Former Cricketer and former Delhi's County.
 
-45 හැවිරිදි මන්හාස් පළමු පෙළ ශතක 27ක් හා ශතක 49ක් රැස්කර ඇති ඔහු ලකුණු 9,714ක් රැස්කළ ඇත.
+He had scored 27 centuries and 49 centuries and 49 centuries.
 
-දිල්ලි ප්‍රාන්ත කණ්ඩායමට අමතරව ඉන්දීය ඒ, ඉන්දීය 19න් පහළ, චෙන්නායි සුපර් කිංග්ස්, දිල්ලි ඩෙයාඩෙවිල්ස්  ඇතුළු කණ්ඩායම් කිහිපයක්ම නියෝජනය කර ඇත.
+In addition to Delhi, the Indian, Chennai Super Kings, Delhi Daredevils, have represented Under-19s.
 
-ඉන්දීය හිටපු සභාපති රොජර් බිනී ඉකුත් අගෝස්තු මස සිය ධුරයෙන් ඉල්ලා අස්විය. ඒ හේතුවෙන් වැඩබලන සභාපතිවරයා ලෙස උප සභාපති රජීව් ශුක්ලා කටයුතු කළේය.
+Former Indian Chairman Roger Bini resigned from his post last August. As a result, Vice President Rajla Shukla worked as acting chairman.
 
 ◼️
 
 [Data](articles/9c27eada.json)
+
+[Extended Data](ext_articles/9c27eada.ext.json)
 
 ---
 
@@ -189,25 +203,31 @@ Later, former Presidents Mahinda Rajapaksa and Ranil Wickremesinghe engaged in a
 
 ---
 
-### මනම්පේරිගේ පාපොච්චාරණයෙන් තවත් තොරතුරු එළියට
+### Mounquady confessions out of more information
 
 *2025-09-28 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215111) · `si`
 
-බස්නාහිර උතුර අපරාධ කොට්ඨාසය භාරයේ රඳවා සිටින සම්පත් මනම්පේරිගෙන් විමර්ශන නිලධාරීන් දීර්ඝ ලෙස ප්‍රශ්න කර ඇති අතර එහිදී අයිස් අමුද්‍රව්‍ය ඇතුළු කරුණු සම්බන්ධයෙන් කරුණු රැසක් අනාවරණ වී තිබේ.
+Investigations from the Western North Criminal Division have been interrogated by investigations into resource Mamanamigher.
 
-සම්පත් මනම්පේරි විමර්ශන නිලධාරීන් හමුවේ පවසා ඇත්තේ, අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනය කරන බවට පැවසෙන රසායනික ද්‍රව්‍ය මෙරටට රැගෙනවිත් දිනකට පසුව ඒවා අයිස් මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදාගන්නා රසායනික බවට තමන් දැනගත් බවය.
+Sampath Manampehi Investigations have said that they were told that they were used to produce ice drug production a day later.
 
-එතෙක් තමන් ඒ පිළිබදව කිසිවක් දැන නොසිටි බවද සැකකරු පවසා තිබේ.
+The suspect has said that he was aware of it.
 
-ඔහුගෙන් කරන ලද ප්‍රශ්න කිරීම්වලදී අනාවරණය වී ඇත්තේ බැකෝ සමන්ගේ වට්ස්ඇප් දැනුම්දීම මත එම කන්ටේනර් දෙක මිද්දෙණිය ප්‍රදේශයට රැගෙන ගිය බවය.
+His interrogations revealed that the two containers were taken to the Middeniya area due to the interrogation of the backhow.
 
-එහිදී බැකෝ සමන් විසින් ''අයියේ කන්ටේනර් දෙකක් තියෙනවා. ඒ දෙක නිදහස් කරගන්න ඕනා. මට ඒක කරලා දෙන්න පුළුවන් ද? යනුවෙන් සම්පත් මනම්පේරිගෙන් විමසා ඇති අතර ඊට ඔහු ''ලෙඩක් වැටෙන දෙයක්ද මල්ලී'' යනුවෙන් විමසා ඇත.
+Where Bako Saman has two bait. You need to release the two. Can I do that? Sampath Manamathi has asked the Manampatha, which he has asked 'a sickness' and his brother.'
 
-එහිදී බැකෝ සමන් ''එහෙම දෙයක් නෙවෙයි අයියේ. ගල් වගයක් එන්නේ. වරායෙන් නිදහස් කරලා තියෙන්නේ. අයියට තියෙන්නේ ගිහින් ගන්න විතරයි ”‍ යනුවෙන් සඳහන් කළ බව මනම්පේරි ප්‍රකාශ කර තිබුණි.
+Where backhoe Saun '' not that. There is some stones coming. Been released from the port. Manamperi had stated that the brother had been gone. "
+
+Accordingly, Sampath Manamperi had gone to the Minemptee to the Midddeniya and the relevant containers were sent to the Midddeniya.
+
+Sampath Manamperi's brother Piyal Manampori was also supported.
 
 ...
 
 [Data](articles/be1baae5.json)
+
+[Extended Data](ext_articles/be1baae5.ext.json)
 
 ---
 
@@ -347,27 +367,33 @@ The Prime Minister opened the museum and planted a symbol of a tree in the park.
 
 ---
 
-### අයිස්වලට වඩා දරුණු මත්ද්‍රව්‍යක් මෙරටදී නිෂ්පාදනය කර ඇති බවට තොරතුරු
+### It is information that a severe drug is produced in Sri Lanka
 
 *2025-09-28 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215108) · `si`
 
-අයිස් හෙවත් මෙතැම්ෆෙටමීන් මත්ද්‍රව්‍යට වඩා දරුණු ගණයේ මත්ද්‍රව්‍යක් මෙරටදී නිෂ්පාදනය කර ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+It has been revealed that the ice or Methampamamine has produced a vier drug drug over drugs.
 
-පසුගියදා වැලිගම ප්‍රදේශයේ නවාතැන්පලකදී සොයාගත් මත්ද්‍රව්‍ය සාම්පල පරීක්ෂාවෙන් මේ බව තහවුරු වී ඇති බව පොලිස් දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Police Department states that this has been inspected at a drug samples in Weligama recently.
 
-වැලිගම පොලීසියට ලැබුණ තොරතුරකට අනුව සිදුකළ වැටලීමකදී පසුගියදා මත්ද්‍රව්‍ය නිෂ්පාදන ස්ථානයක් වටලා විදෙස් ජාතික තරුණයෙකු අත්අඩංගුවට ගනු ලැබීය.
+According to a raid conducted by the Weligama Police, a recent national youth was arrested recently.
 
-එම ස්ථානයේදී තිබී මත්ද්‍රව්‍ය නිෂ්පාදනයට යොදා ගන්නා අමුද්‍රව්‍ය සහ උපකරණ සොයා ගනු ලැබු අතර එහි සාම්පල වැඩිදුර පරීක්ෂණ සඳහා රජයේ රස පරික්ෂක දෙපාර්තමේන්තුව වෙත භාරදී තිබේ.
+The raw materials and equipment used in the area were found to be handed over to the Government Task Inspector Department for further investigations.
 
-රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ මූලික පරීකෂණවලට අනුව අනාවරණය වී ඇත්තේ එම ස්ථානයේ තිබී ඇත්තේ අයිස් මත්ද්‍රව්‍යවලට වඩා භායානක නව මත්ද්‍රව්‍යක් බවය.
+According to the preliminary inquiries of the Government Analyst's Department, the preliminary investigations were revealed that the ice is far from the ice drugs.
 
-ඊට අදාළ වාර්තාව ඉදිරි දින කිහිපය තුල නිකුත් කිරීමට බලාපොරොත්තුවන බව පොලිස් දෙපාර්තමේන්තුව සඳහන් කළේය.
+The police Department said that the report is expected to be issued in the next few days.
 
-මේ අතර තංගල්ල ප්‍රදේශයේ ලොරි රථ 03ක තිබී සොයාගත් මත්ද්‍රව්‍ය තොගය සම්බන්ධයෙන් සිදුකරන පරීක්ෂණවලට අනුව මෝටර් රථයක් තංගල්ල කොට්ඨාශ අපරාධ විමර්ශන ඒකකය භාරයට ගෙන තිබේ.
+Meanwhile, the Tangalle Divisional Investigation Unit has taken into custody by Tangalle Divisional Criminal Investigation Unit.
 
-...
+The suspects carrying drug transportation have been recovered from the Matara area.
+
+Police have found more than 700 kilograms of heroin and ice in Tangalle recently, police said.
+
+◼️
 
 [Data](articles/6a806a55.json)
+
+[Extended Data](ext_articles/6a806a55.ext.json)
 
 ---
 

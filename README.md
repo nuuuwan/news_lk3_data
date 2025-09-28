@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 17:58:02**
+As of **2025-09-28 18:19:35**
 
 ## Newspaper Stats
 
-*Scraped **79,214** Articles*
+*Scraped **79,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,57 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,638
 adaderanalk | 10,233
-tamilmirrorlk | 11,864
+tamilmirrorlk | 11,866
 virakesarilk | 12,891
-adaderanasinhalalk | 13,735
+adaderanasinhalalk | 13,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,214 (100.0%) of 79,214 articles have been extended.
+79,214 (100.0%) of 79,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### චීනයේ හිටපු කෘෂිකර්ම අමාත්‍යවරයාට අත්හිටවූ මරණ දඬුවමක්
+
+*2025-09-28 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215106) · `si`
+
+චීනයේ හිටපු කෘෂිකර්ම හා ග්‍රාමීය කටයුතු අමාත්‍ය ටැන්ග් රෙන්ජියන්ට, අල්ලස් ලබා ගැනීමේ චෝදනාව මත මරණ දඬුවම නියම වූ බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+2007 සිට 2024 දක්වා විවිධ තනතුරු දරමින් ටැන්ග්, යුවාන් මිලියන 268කට (අමෙරිකානු ඩොලර් මිලියන 37.6) වැඩි මුදලක් සහ දේපළ ඇතුළුව අල්ලස් ලබා ගෙන ඇති බව සඳහන් වේ.
+
+කෙසේ වෙතත් ඔහු තමා සිදු කළ අපරාධ පිළිබඳව පාපොච්චාරණය කර ඇති නිසා මහජන අධිකරණය ඔහුගේ මරණ දඬුවම වසර දෙකකට අත්හිටුවා ඇත.
+
+මෙම කරුණු පිළිබඳව දූෂණ විරෝධී නිරීක්ෂණ ආයතනය විසින් විමර්ශනයට ලක් කර ඔහු තනතුරෙන් ඉවත් කිරීමෙන් මාස හයකට පසු, 2024 නොවැම්බර් මාසයේදී චීන කොමියුනිස්ට් පක්ෂය (CCP) විසින් ටැන්ග් නෙරපා හරින ලදී.
+
+ටැන්ග්ගේ විමර්ශනය අසාමාන්‍ය ලෙස වේගවත් වූ අතර හිටපු ආරක්ෂක අමාත්‍ය ලී ෂැංෆු සහ ඔහුගේ පූර්වගාමියා වූ, වෙයි ෆෙන්ග්හේ සම්බන්ධයෙන් ද ඒ හා සමානව පරීක්ෂණ ආරම්භ කර ඇත.
+
+කෘෂිකර්ම හා ග්‍රාමීය කටයුතු අමාත්‍යවරයා ලෙස නම් කිරීමට පෙර ටැන්ග් 2017 සිට 2020 දක්වා බටහිර ගන්සු පළාතේ ආණ්ඩුකාරවරයා වශයෙන් ද කටයුතු කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/a698e197.json)
+
+---
+
+### சிறுவர் துஷ்பிரயோக தண்டிப்பு சட்டமூலம்;பிரதமர் விளக்கம்
+
+*2025-09-28 17:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-தண்டிப்பு-சட்டமூலம்-பிரதமர்-விளக்கம்/175-365423) · `ta`
+
+சிறுவர் துஷ்பிரயோகத்தைத் தண்டிப்பது தொடர்பான முன்மொழியப்பட்ட சட்டம் பாடசாலைகளையோ அல்லது ஆசிரியர்களையோ இலக்காகக் கொண்டதல்ல, மாறாக சமூகம் முழுவதும் குழந்தைகளைப் பாதுகாப்பதை நோக்கமாகக் கொண்டுள்ளது என்று பிரதமரும் கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சருமான கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+தேசிய பாடசாலைகளின் அதிபர்களுக்கு விளக்கமளிக்கும் வகையில் வெள்ளிக்கிழமை (27) கல்வி அமைச்சில் நடைபெற்ற நிகழ்ச்சியில் பேசிய அமரசூரிய, இந்தத் திருத்தம் பாடசாலைகள், நிறுவனங்கள், பொலிஸ் மற்றும் வீடுகளில் குழந்தைகள் எதிர்கொள்ளும் உடல் மற்றும் உளவியல் ரீதியான துஷ்பிரயோகங்களைக் கையாள்கிறது என்று விளக்கினார்.
+
+"இது பாடசாலைகளுக்கோ அல்லது ஆசிரியர்களுக்கோ எதிராக வடிவமைக்கப்பட்ட சட்டம் அல்ல. இது சமூகத்தில் உள்ள அனைத்து குழந்தைகளின் பாதுகாப்பிற்காக உருவாக்கப்பட்ட ஒரு சீர்திருத்தமாகும்," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/931e8bab.json)
+
+---
 
 ### Sri Lankan Airlines Records Passenger and Revenue Surge, Restores Grounded Aircraft Back to Service
 
@@ -44,6 +82,28 @@ COLOMBO (News 1st): SriLankan Airlines has reported a 10% increase in passenger 
 [Data](articles/51aa3c2d.json)
 
 [Extended Data](ext_articles/51aa3c2d.ext.json)
+
+---
+
+### විජේගේ රැලියේදී මියගිය අය අතර  අවුරුදු 2ක පුංචි පුතෙකුත්
+
+*2025-09-28 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215104) · `si`
+
+ඉන්දීය නළු තලපති විජේගේ දේශපාලන රැලියේ දී ඇතිවූ තෙරපීමෙන් මිය ගිය අය අතර අවුරුදු 2ක් වයසැති කුඩා දරුවෙකුද සිටින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මිය ගිය දරුවාගේ පියා මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර ඇත්තේ මෙවැනි ජනාකීර්ණ උත්සවවලට කිසි විටෙකත් තම දරුවන් රැගෙන නොයන ලෙසය.
+
+එමෙන්ම දරුවා හැඬීමට පටන් ගත් නිසා රැගෙන ආ බවත් රැස්වීමට විජේ පැමිණි අවස්ථාවේ විදුලිය විසන්ධි කිරීම නිසා ඔහු කියන දේවල් පැහැදිලිව නොඇසීම හේතුවෙන් සියලු දෙනා බසය ළඟට යාමට උත්සහා කළ බවත් මිය ගිය දරුවාගේ ඥාතියෙකු මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කර ඇත.
+
+එමෙන්ම ඇය වැඩිදුරටත් සඳහන් කර සිටියේ දරුවාගේ මරණයට විජේට දොස් පැවරිය යුතු නැති බවත් දරුවා එවැනි තැනකට රැගෙන යාම ඔවුන්ගේ වරදක් වන බවය.
+
+කෙසේවෙතත් මෙම සිදුවීමෙන් මේ වන විට 39 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති අතර එම පිරිස අතර ළමුන් 10ක්, කාන්තාවන් 17, පිරිමි පුද්ගලයින් 12 දෙනෙකු ඇතුළත් වේ.
+
+සිද්ධියෙන් තවත් පුද්ගලයින් 46 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවද ඉන් 21කගේ තත්ත්වය බරපතළ බවද ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+...
+
+[Data](articles/442b7da1.json)
 
 ---
 
@@ -60,6 +120,26 @@ Mihintale Police say that the woman is a commercial partner in the Medawachchiya
 [Data](articles/f8383a45.json)
 
 [Extended Data](ext_articles/f8383a45.ext.json)
+
+---
+
+### පොලිස් විශේෂ මෙහෙයුම යටතේ තවත් 664ක් අත්අඩංගුවට
+
+*2025-09-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215102) · `si`
+
+පොලීසිය විසින් දිවයින පුරා සිදුකරන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ විශේෂ මෙහෙයුම යටතේ ඊයේ (28) දිනයේ දී පුද්ගලයින් 664ක් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+එමෙන්ම විවිධ අපරාධ සිද්ධීන්වලට සෘජුව සම්බන්ධ පුද්ගලයින් 7 දෙනෙකු අත්අඩංගුවට ගත් බවද පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය කොට්ඨාශය සඳහන් කර සිටියේ, මෙම මෙහෙයුමේදී පුද්ගලයින් 28,778 දෙනෙකු පරීක්ෂාවට ලක්කළ බවය.
+
+එහිදී වරෙන්තුකරුවන් 254ක්, විවෘත වරෙන්තුකරුවන් 163ක් අත්අඩංගුවට ගැනීමට පොලීසියට හැකිව ඇත.
+
+මේ අතර මෙම මෙහෙයුම යටතේම බීමත් හා අපරික්ෂාකාරී රිය ධාවනය සම්බන්ධයෙන් පුද්ගලයින් 56 දෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/9c349f7f.json)
 
 ---
 
@@ -255,6 +335,22 @@ Sri Lanka's tax history will be an important milestone on October 1, 2025. Accor
 
 ---
 
+### සීමා පැන්න තවත් ඉන්දීය ධීවරයින් 12ක් අත්අඩංගුවට
+
+*2025-09-28 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215100) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව, වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව හා එක්ව අද (28) අළුයම් කාලයේ, යාපනය  ඩෙල්ෆ්ට් දූපතට ඔබ්බෙන්  වූ මෙරට මුහුදු සීමාවේ සිදුකළ විශේෂ සෝදිසි මෙහෙයුමක් මඟින්, දේශීය ජල තීරය තුළ අනවසර ධීවර කටයුතු සිදුකළ ඉන්දීය ධීවර යාත්‍රාවක් සමඟ ඉන්දීය ධීවරයින් දොළොස් දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
+
+විදේශීය ධීවර යාත්‍රා මෙරට මුහුදු සීමාව උල්ලංඝනය කරමින් සිදු කරනු ලබන නීති විරෝධී ධීවර කටයුතු මැඩ පවත්වා, දේශීය ධීවර ප්‍රජාවගේ ජීවනෝපාය රැකදීම වෙනුවෙන් නාවික හමුදාව සහ වෙරළාරක්‍ෂක දෙපාර්තමේන්තුව නිරන්තර මෙහෙයුම් සිදු කරනු ලබයි.
+
+මෙම මෙහෙයුම මඟින් නාවික හමුදා භාරයට ගත් ඉන්දීය ධීවර යාත්‍රාව සහ එහි සිටි ඉන්දීය ධීවරයින් දොළොස්දෙනා කන්කසන්තුරය වරාය වෙත රැගෙවිත් ඉදිරි නීතිමය කටයුතු සඳහා යාපනය මයිලඩි ධීවර පරීක්‍ෂක කාර්යාලය වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/acb76aa5.json)
+
+---
+
 ### The woman caught in the powder meni
 
 *2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கே-சிக்கிய-பெண்/76-365416) · `ta`
@@ -270,6 +366,22 @@ Cargage staff said the train was slowly traveling and the woman was close to the
 [Data](articles/3c48430d.json)
 
 [Extended Data](ext_articles/3c48430d.ext.json)
+
+---
+
+### பொடி மெனிக்கேயில் சிக்கிய பெண்
+
+*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கேயில்-சிக்கிய-பெண்/76-365416) · `ta`
+
+பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பொடி மெனிக்கே ரயிலில் மோதிய ஒரு பெண், அதன் இயந்திரத்திற்குள் சிக்கி இருந்த நிலையில் அருகிலுள்ள கரேஜில் பணிப்புரிந்த தொழிலாளர்களால் மீட்கப்பட்டு டிக் ஓயா அடிப்படை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+ஹட்டன் ரயில் நிலையத்திற்கு அருகில், ஹட்டன் - நுவரெலியா பிரதான வீதியில் உள்ள ரயில் கடவைக்கு அருகில் இந்த விபத்து நிகழ்ந்தது.
+
+பொடி மெனிக்கே ரயில் மெதுவாக பயணித்ததாகவும்,குறித்த பெண் நீண்ட நேரம் ரயில் பாதைக்கு அருகில் இருந்ததாகவும் கரேஜ் ஊழியர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ccc9af4e.json)
 
 ---
 
@@ -1860,125 +1972,5 @@ It is difficult to work illegally working in the country due to the new digital 
 [Data](articles/c0c8e43d.json)
 
 [Extended Data](ext_articles/c0c8e43d.ext.json)
-
----
-
-### Secured side walls are built with soil on the upcountry route
-
-*2025-09-28 11:27:01* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-මාර්ගවලට-පස්වලින්-ආරක්ෂිත-පැති-බැමි-ඉදි-කරයි/11-418764) · `si`
-
-Roads Development Authority has commenced a promotional installation program to educate the safe and drivers in the hills to reduce vehicles in the Kandyan mountains.
-
-Under the first phase of the most terrible bus on the area of ​​Nuwara Eliya, Nuwara Eliya, Nuwara Eliya, Nuwara Eliya, Nuwara Eliya road, and fix road sign boards are on the road.
-
-The Road Development Authority has taken steps to take over 24 people and more than 50 people were injured in the accident and the road was to build five walls of strict slopes.
-
-◼️
-
-[Data](articles/7ecc254c.json)
-
-[Extended Data](ext_articles/7ecc254c.ext.json)
-
----
-
-### Namal challenges to catch containers
-
-*2025-09-28 11:24:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනටනර-හර-අලලනන-නමලගන-අභයගයක/101-680343) · `si`
-
-MP Namal Rajapaksa said that he would challenge the government to hold the thieves behind the opposition without changing the containers.
-
-Namal Rajapaksa added that there was no government that has created the opposition.
-
-◼️
-
-[Data](articles/0df7e55a.json)
-
-[Extended Data](ext_articles/0df7e55a.ext.json)
-
----
-
-### Namal challenges to catch containers
-
-*2025-09-28 11:24:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කනටනර-හර-අලලනන-නමලගන-අභයගයක/1-680343) · `si`
-
-MP Namal Rajapaksa said that he would challenge the government to hold the thieves behind the opposition without changing the containers.
-
-Namal Rajapaksa added that there was no government that has created the opposition.
-
-◼️
-
-[Data](articles/ace5a2fa.json)
-
-[Extended Data](ext_articles/ace5a2fa.ext.json)
-
----
-
-### Tourist arrivals in September exceeding one thousand and six thousand
-
-*2025-09-28 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215093) · `si`
-
-Tourist Development Authority (SLTDA) has said that the number of tourists arrived in September.
-
-According to the report, the number of tourist arrivals on the 24th of September was 126,379.
-
-Most of the tourists have come from India and it is 37,179.
-
-The second most visitors have come from the UK and 8,9.7.
-
-Germany has arrived in Sri Lanka during the month of 7,799 tourists, 7,226 tourists from China and 8,049 tourists from Australia.
-
-In the meantime, the number of tourist arrivals in Sri Lanka has risen to 1,692,902.
-
-The highest number of tourists had come from India and 362,774.
-
-In the UK, 160,078 from the UK, 121,452 from Germany and 105,443 people from Germany have visited the country.
-
-◼️
-
-[Data](articles/7342534d.json)
-
-[Extended Data](ext_articles/7342534d.ext.json)
-
----
-
-### The stolen van cared for a motorcycle and crashed with girlfriend
-
-*2025-09-28 11:19:10* · [`adalk`](https://www.ada.lk/breaking_news/හොරකම්-කළ-වෑන්-රථය-උගස්-කර-යතුරු-පැදියක්-මිලට-අරන්-පෙම්වතිය-සමග-රවුම්-ගහලා/11-418763) · `si`
-
-The suspect was arrested while mortgaging a sales center in Kandy to a motorcycle at Pallepola, Matale.
-
-A 32-year-old resident of the Madipola area, was arrested in the long review of the Kandy Headquarters Police.
-
-සැකකරු රාත්‍රී ඩී.එස්. The vehicle outlets of Teta Noas and the relevant documents have been stolen at the vehicle outlets maintained at Senanayake Street.
-
-The suspect was arrested by the police while mortgage a motorcycle for a motorcycle of Rs.
-
-◼️
-
-[Data](articles/f9e4bed2.json)
-
-[Extended Data](ext_articles/f9e4bed2.ext.json)
-
----
-
-### Dad and son, with 24 ammunition
-
-*2025-09-28 11:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උණඩ-24ක-සමග-තතතය-පතය-මටට/101-680342) · `si`
-
-Wennappuwa Mahappuwa Police are arrested with the 24 foot-bullets that have been arrested in Mirissan, Wennappuwa.
-
-According to police, the two, a 17-year-old resident of Mirissankotuwa, has a resident of the Katana, a 20-year-old girl has escaped.
-
-The husband's husband has lodged a complaint with the Wennappuwa Police that the girl's father and brother would attempt to attack him.
-
-The youth has made his home on matters that the girl has said that the girl's mother had stated that his mother had a bullest bullet in his house.
-
-Accordingly, a parcel was found in the 12-bullets of the 12-bullets that were provided with the cupboard when inspected the house.
-
-◼️
-
-[Data](articles/11559580.json)
-
-[Extended Data](ext_articles/11559580.ext.json)
 
 ---

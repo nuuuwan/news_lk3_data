@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 11:07:06**
+As of **2025-09-28 10:38:09**
 
 ## Newspaper Stats
 
-*Scraped **79,070** Articles*
+*Scraped **79,057** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 364
-newsfirstlk | 448
+lankadeepalk | 358
+newsfirstlk | 447
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -19,201 +19,19 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,629
 adaderanalk | 10,215
-tamilmirrorlk | 11,845
+tamilmirrorlk | 11,843
 virakesarilk | 12,845
-adaderanasinhalalk | 13,727
+adaderanasinhalalk | 13,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,065 (100.0%) of 79,070 articles have been extended.
+79,057 (100.0%) of 79,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
-
-### Sri Lanka Cricket Team Returns After Super Fours: Will Work on our Shortcomings and Move Forward, Says Head Coach Jayasuriya
-
-*2025-09-28 10:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/sri-lanka-cricket-team-returns-after-super-fours-will-work-on-our-shortcomings-and-move-forward-says-head-coach-jayasuriya) · `en`
-
-COLOMBO(News 1st): The Sri Lankan cricket team has returned home after a thrilling Super 4 encounter against India at the Dubai International Cricket Stadium. In a nail-biting finish, both teams had ended the 20 overs tied at 202/5. India’s opener Abhishek Sharma had led the way with 61 off 31 balls, while Sri Lanka’s Pathum Nissanka had played a brilliant 107, keeping his side in contention.The match had gone to a Super Over, where India’s Arshdeep Singh had taken two crucial wickets, and captain Suryakumar Yadav had struck the winning runs on the very first ball, handing India a dramatic victory.
-
-◼️
-
-[Data](articles/d90084fb.json)
-
----
-
-### රත්ගම දී මාරක අනතුරක්
-
-*2025-09-28 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215092) · `si`
-
-ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ රත්ගම හන්දිය ආසන්නයේදී සිදු වූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-ගාල්ල දෙස සිට හික්කඩුව දෙසට ධාවනය වූ බස් රථයක් මාර්ගය අයිනේ ගමන් කළ කාන්තාවගේ ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
-
-අනතුරින් බරපතළ තුවාල ලැබූ කාන්තාව ගාල්ල රෝහලට ඇතුළත් කිරීමේදී මිය ගොස් තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 77ක් වූ බූස්ස ප්‍රදේශයේ පදිංචිකාරියකි.
-
-මෘත ශරීරය ගාල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර අනතුරට සම්බන්ධ බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/32f7248f.json)
-
----
-
-### President a new job to defeat drugs
-
-*2025-09-28 10:28:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මත-රකස-පරදවනන-ජනපතගන-අලත-වඩක/1-680338) · `si`
-
-Minister of Defense and Parliamentary Affairs Ananda Wijepala said that the president will be launched to eliminate the drug from Sri Lankan land within ten days as a remedy of the drug disaster.
-
-He said the government had taken over the challenge of defending children from drugs.
-
-The minister said that he was attempting to prevent the flow of the drug supply to prevent the flow of the country.
-
-◼️
-
-[Data](articles/e0befa29.json)
-
-[Extended Data](ext_articles/e0befa29.ext.json)
-
----
-
-### “Will Vijay be arrested?”: Stalin's description of Karur
-
-*2025-09-28 10:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கைது-செய்யப்படுவாரா-கரூரில்-முதல்வர்-ஸ்டாலின்-விளக்கம்/175-365394) · `ta`
-
-Chief Minister Stalin has responded to the question of whether he will be arrested.
-
-38 people, including children, were tragically killed during a crowded crowd during the campaign in Karur. Also, many are being treated for life -threatening conditions. The incident has caused shocks across the country.
-
-In this case, Chief Minister MK Stalin left Karur at midnight. There he paid tribute to the bodies of the victims of the crowd. Then met their family and comforted. He also met those who were receiving treatment at hospitals.
-
-Speaking to reporters, Chief Minister Stalin said: “I stand in front of you with great sadness and heavy heart. I could not talk about the greatness of Karur. It was reported that many people were going to the hospital after breathing in the crowd at 7.30 pm last night. Immediately, I called the legislator Senthil Balaji and the District Collector to rush to the hospital.
-
-...
-
-[Data](articles/47d2dc86.json)
-
-[Extended Data](ext_articles/47d2dc86.ext.json)
-
----
-
-### Karur has become Karupur by invasion of death
-
-*2025-09-28 10:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணத்தின்-படையெடுப்பால்-கரூர்-கருப்பூர்-ஆகிவிட்டது-வைரமுத்து-இரங்கல்/175-365393) · `ta`
-
-Karur: Tamil Nadu Victory League leader Vijay was campaigning in Karur yesterday.
-
-The incident has caused great tragedy across the country. Many screen celebrities and political party leaders are expressing their condolences.
-
-In this case, Vairamuthu posted condolences on his X site that Karur had become Karupur due to the invasion of death.
-
-Actor and Tauga leader Vijay campaigned in Namakkal and Karur districts yesterday.
-
-From Friday night, a large number of people gathered in the area to see Vijay from Saturday morning. Thousands of women, children and children gathered in the Vijay campaign.
-
-At one point caused severe congestion in the area unable to control the crowd. Many were unconscious to speak Vijay.
-
-At this point, 39 people, including 10 children and 17 women, were killed in the crowd. More than 40 people were injured. Political party leader and screen celebrities are condolences.
-
-The poet Vairamuthu also condoled. Poet and songwriter poet Vairamuthu posted on his X site page:
-
-...
-
-[Data](articles/a94de691.json)
-
-[Extended Data](ext_articles/a94de691.ext.json)
-
----
-
-### The more of the crimes, the '' kuddo '
-
-*2025-09-28 10:22:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධවලට-වඩඩ-වඩ-හරයක-කඩඩ/1-680337) · `si`
-
-According to the latest survey, 72 percent of the criminals of prisons have been involved in misconceptions of drug abuse
-
-The Ministry of Ministries pointed out that if the situation grows to 100 percent, the Ministry of Socialist Ministry pointed out.
-
-Meanwhile, the police have revealed that there is a direct relationship between organized crime and drugs. The police headquarters has revealed that most of the underworld victims have been associated with drug trafficking recently.
-
-◼️
-
-[Data](articles/e1fe99fb.json)
-
-[Extended Data](ext_articles/e1fe99fb.ext.json)
-
----
-
-### ලොව උසම පාලම වන චීනයේ Huajiang පාලම ගමනාගමනය සඳහා විවෘත කෙරේ
-
-*2025-09-28 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215090) · `si`
-
-විශාල කඳු දෙකක් යා කරමින් චීනයේ ඉදිකර තිබෙන ලොව උසම පාලම වන Huajiang පාලමෙහි ගමනාගමන කටයුතු ආරම්භ කරමින් රථවාහන ධාවනය සඳහා අද (28) එය විවෘත කෙරිණ.
-
-චීනයේ Guizhou පළාතේ පිහිටා ඇති මෙම ප්‍රධාන පාලම, පළලින් මීටර් 1,420 ක් වන අතර, ලොව දිගින් සහ උසින් ද වැඩිම පාලම වේ.
-
-පාලම සහ ඊට පහළින් ගලා යන ගංගාවේ ජලය මතුපිට අතර උසෙහි පරතරය මීටර් 625ක් වන අතර, ලොව එවැනි වැඩිම පරතරයක් සහිත ස්ථානය වන්නේ ද මෙයයි.
-
-පාලම අද දින මෙලෙස ගමනාගමනය සඳහා විවෘත කිරීමත් සමඟ, මීට පෙර ඒ අතර ගමනාගමනයට ගත වූ පැය 2ක කාලය දැන් මිනිත්තු 2ක් දක්වා අඩු වී ඇත.
-
-මෙහි ඉදිකිරීම් සඳහා වසර තුනක් ගත වූ අතර, එහි සැලසුම ආරම්භයේ සිටම ඒ අවට සංචාරක සම්පත් සමඟ ඒකාබද්ධ කිරීම කෙරෙහි විශේෂ අවධානය යොමු කරන ලදී.
-
-පහළින් ගලා බසිනා දිගු ගංගාවකට ඉහළින්, එය හරහා ඇති විශාල කඳු දෙකක් යා කරමින් ඉදිකර තිබෙන මෙම පාලම අනාගතයේ දී ප්‍රධාන ප්‍රවාහන මාර්ගයක් පමණක් නොව, එම කඳු දෙපස සිටින ජනතාවගේ ජීවිත නඟා සිටුවීමට ද හැකි නව සාධකයක් බවට පත්වනු ඇත.
-
-◼️
-
-[Data](articles/6dae5273.json)
-
----
-
-### ජනතාවට වග කියන සෞඛ්‍ය සේවාවක් ස්ථාපිත කරන බව සෞඛ්‍ය ඇමති කියයි
-
-*2025-09-28 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215091) · `si`
-
-ජනතාවගේ සුවතාවය සෞඛ්‍ය කාර්ය මණ්ඩලය භාර ගන්නා සේම ජනතාවට වගකියන සෞඛ්‍ය සේවාවක් මෙරට ස්ථාපිත කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අමාත්‍යවරයා මේ බව පැවසුවේ ආරෝග්‍යා සුවතා මධ්‍යස්ථාන ව්‍යාපෘතියේ පළමු මධ්‍යස්ථානය ලෙස ගාල්ල දිස්ත්‍රික්කයේ මාපලගම ආරෝග්‍ය සුවතා මධ්‍යස්ථානය ජනතා අයිතියට පත් කිරීමේ අවස්ථාවට පසුගියදා එක් වෙමිනි.
-
-රජයේ සුවපත් රටක් උදෙසා නව්‍ය වැඩසටහන යටතේ ක්‍රියාත්මක වන මෙම ව්‍යාපෘතිය යටතේ මෙම වර්ෂය තුළදී ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන 100ක් ජනගත කිරීමට නියමිත අතර ජනතාවට වඩාත් සමීප, පහසුවෙන් ප්‍රවේශ විය හැකි ස්ථානයක ස්ථාපිත කරන මෙම ප්‍රාථමික සෞඛ්‍ය සත්කාර "ආරෝග්‍යා සුවතා මධ්‍යස්ථාන" ලෙසද නම් කර තිබේ.
-
-මෙම අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා පැවසුවේ අතීතයේ පටන් සෞඛ්‍ය ක්ෂේත්‍රයේ අභියෝග රැසක් පැවතිය බවත් එම අභියෝග ජයගෙන සුවතාවට පවත්වාගෙන යාමේ අභියෝගය ජය ගැනීමට කටයුතු කරන බවත්ය.
-
-...
-
-[Data](articles/c9379cda.json)
-
----
-
-### නා උයන ආරණ්‍ය සේනාසනයේ අනතුරින් තුවාල ලබා සිටි තවත් හිමිනමක් අපවත් වෙයි
-
-*2025-09-28 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215089) · `si`
-
-මැල්සිරිපුර, නා උයන ආරණ්‍ය සේනාසනයේ සිදුවූ අනතුරින් තුවාල ලබා ප්‍රතිකාර ලබමින් සිටි තවත් හිමිනමක් අපවත් වී තිබේ.
-
-උන්වහන්සේ කුරුණෑගල රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී අපවත් වී ඇත.
-
-ඒ අනුව මෙම අනතුරින් මේ වන විට අපවත් වූ හිමිවරු සංඛ්‍යාව 08 දක්වා ඉහළ ගොස් තිබේ.
-
-එමෙන්ම සිද්ධියෙන් තවත් භික්ෂුන් වහන්සේලා පස්නමක් තවදුරටත් කුරුණෑගල රෝහලේ ප්‍රතිකාර ලබමින් සිටිති.
-
-එම ආරණ්‍ය සේනාසනයේ කේබල් මතින් ගමන් ගන්නා ඩක්කුවක් කඩා වැටී අනතුරක් සිදුවූයේ පසුගිය 24 වැනිදා රාත්‍රියේය.
-
-අනතුර සිදුවන අවස්ථාවේදී එම ඩක්කුවේ භික්ෂුන් වහන්සේලා 13 නමක් සිට ඇති බවත් වාර්තා විය.
-
-අනතුරින් අපවත් වූ හිමිවරුන් තිදෙනෙකු විදෙස් ජාතික හිමිවරුන් වූ අතර එම හිමිවරුන් ඉන්දියාව, රුමේනියාව සහ රුසියානු රටවල වාසය කළ හිමිවරුන් විය.
-
-ඩක්කුව කඩා වැටෙන අවස්ථාවේදී එහි සිටි භික්ෂුන් වහන්සේලා 13 නමකගෙන් දෙනමක් ඩක්කුවෙන් ඉවතට පැන දිවි බේරාගෙන තිබුණි.
-
-◼️
-
-[Data](articles/edc18aa6.json)
-
----
 
 ### TV leader Vijay arrested? Home security
 
@@ -312,26 +130,6 @@ Authorities in the central province of Ha Tinh have started to evacuate more tha
 [Data](articles/94e87a21.json)
 
 [Extended Data](ext_articles/94e87a21.ext.json)
-
----
-
-### Several showers today
-
-*2025-09-28 08:27:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අදත-වස-වර-කහපයක/1-680336) · `si`
-
-Several spells of showers in the Western, Sabaragamuwa and Northwestern provinces can be held in Galle, Kandy and Nuwara Eliya districts today.
-
-In the Uva Province and Ampara District. Showers or thundershowers will occur at several places, about 2.00.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (40-50) can cause strong winds.
-
-Winds from Galle to Matara and Hambantota from time to time in the sea areas off the coast extending from the Kankasanthurai and Mullaittivu.. It is noted that (50-60) can increase up to around.
-
-◼️
-
-[Data](articles/8bcce74c.json)
-
-[Extended Data](ext_articles/8bcce74c.ext.json)
 
 ---
 
@@ -1049,28 +847,6 @@ A large-scale joint operation was conducted by the police forces of Sri Lanka an
 
 ### Let's build a world where everyone can shine together
 
-*2025-09-27 20:11:35* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටත-එකට-බබලනන-හක-ලකයක-හදම/1-680332) · `si`
-
-President Anura Kumara Dissanayake said in Japan that he is invited to work together to create a world where all can be broken.
-
-Sri Lanka is rebuilding a sustainable and participatory economy, which faced continuous challenges.
-
-The President was speaking at the Sri Lanka Day Celebration at the Expo 2025 Ozaka Exhibition.
-
-The President participated in the Sri Lanka Day Day Celebration at Osaka, Expo 2025 Exhibition on the Japan visit.
-
-The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, the Sri Lankan Day Cultural Embassy, ​​which reflects the Sri Lankan identity, and a large number of foreigners were gathered to watch the Cultural Festival.
-
-◼️
-
-[Data](articles/32864ae6.json)
-
-[Extended Data](ext_articles/32864ae6.ext.json)
-
----
-
-### Let's build a world where everyone can shine together
-
 *2025-09-27 20:11:35* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටත-එකට-බබලනන-හක-ලකයක-හදම/101-680332) · `si`
 
 President Anura Kumara Dissanayake said in Japan that he is invited to work together to create a world where all can be broken.
@@ -1088,24 +864,6 @@ The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the 
 [Data](articles/ee24ac9e.json)
 
 [Extended Data](ext_articles/ee24ac9e.ext.json)
-
----
-
-### Namal accepts the work of building
-
-*2025-09-27 20:03:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඩකකව-හදන-වඩ-නමල-බරගන/1-680331) · `si`
-
-Deputy Minister Namal Karunaratne made a promise that the monks were in danger of monks.
-
-He added that the government does not need to see what the monks are responsible for this incident and what the contributors.
-
-The Deputy Minister also participated in the monkey of the monks who were in the accident.
-
-◼️
-
-[Data](articles/a52b2784.json)
-
-[Extended Data](ext_articles/a52b2784.ext.json)
 
 ---
 
@@ -1986,5 +1744,257 @@ The author claims: Granting expats voting rights is a gamble with sovereignty, g
 [Data](articles/65e0cdee.json)
 
 [Extended Data](ext_articles/65e0cdee.ext.json)
+
+---
+
+### 12 Sri Lankans deported from Israel
+
+*2025-09-27 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226253) · `ta`
+
+Sri Lankan Ambassador to Israel Nimal Bandara says that about 12 Sri Lankans have recently been sent back to Sri Lanka due to mental health problems or drug use problems.
+
+Ambassador Nimal Bandara added that the Embassy of Sri Lanka is urging the families of relevant families to avoid sending people with mental health problems or drug use for foreign work.
+
+He added that two more Sri Lankans were deported from Israel to Colombo last Thursday.
+
+Ambassador Nimal Bandara, who issued a statement, said that the two Sri Lankans were sent to the country via Dubai and deported at the request of their family members.
+
+He added that a person wandered in various places due to drug use and that the second person fled his workplace due to depression and wandered without work.. The two have been handed over to the embassy by members of the Sri Lankan community in Israel.
+
+...
+
+[Data](articles/055e85b6.json)
+
+[Extended Data](ext_articles/055e85b6.ext.json)
+
+---
+
+### Point Pedro Urban Council negligence
+
+*2025-09-27 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226251) · `ta`
+
+The negligence of the Point Pedro Municipal Council on Saturday morning (27) on the morning of the Point Pedro on the 751 main road in Jaffna.
+
+The water cart belonging to the Point Pedro Urban Council departed to distribute water to the people.
+
+The carriage passed in front of the wheel and the car when the car passes through the 751 main road in Jaffna.
+
+At that time, people were not traveling along the street.
+
+People say that the city council should immediately stop this negligence of the city council and take up the work of the Point Pedro Urban Council.
+
+◼️
+
+[Data](articles/1fd7b90b.json)
+
+[Extended Data](ext_articles/1fd7b90b.ext.json)
+
+---
+
+### Demonstration in Vavuniya protests against Mannar windmill project
+
+*2025-09-27 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226252) · `ta`
+
+A demonstration was held in Vavuniya on Saturday (27), condemning the action taken by the police in protest of the wind power project to be installed in Mannar.
+
+The people's struggle movement and the mass organization for social justice for the Vavuniya Social Justice have launched a demonstration.
+
+The government has launched a barbaric activity against the people of Mannar for the past 56 days.
+
+The demonstration was carried out at the old bus station in Vavuniya and the protesters who marched to various parts of the city, the protesters, provided leaflets to the public.
+
+◼️
+
+[Data](articles/ba189832.json)
+
+[Extended Data](ext_articles/ba189832.ext.json)
+
+---
+
+### 450 institutions called for '' White Ali '
+
+*2025-09-27 16:50:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සද-අල-හයනන-ආයතන-450කන-වරත-කඳවය/1-680326) · `si`
+
+The Parliamentary Committee on Public Enterprises (COPE) has decided to expand the performance of 450 state institutions.
+
+Accordingly, the COPE committee is being taken to summon the written reports to obtain information on how the recommendations of the Audit Reports.
+
+Commenting in this regard, COPE Chairman Dr. Nishavi Samaraweera says that the most corruption and irregularities are being selected for investigations.
+
+Nishantha Samaraweera added that the heads of corruption and irregularities will soon be taken to the Committee on corruption and corruption, corruption and corruption.
+
+◼️
+
+[Data](articles/33e097f8.json)
+
+[Extended Data](ext_articles/33e097f8.ext.json)
+
+---
+
+### 450 institutions called for '' White Ali '
+
+*2025-09-27 16:50:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සද-අල-හයනන-ආයතන-450කන-වරත-කඳවය/101-680326) · `si`
+
+The Parliamentary Committee on Public Enterprises (COPE) has decided to expand the performance of 450 state institutions.
+
+Accordingly, the COPE committee is being taken to summon the written reports to obtain information on how the recommendations of the Audit Reports.
+
+Commenting in this regard, COPE Chairman Dr. Nishavi Samaraweera says that the most corruption and irregularities are being selected for investigations.
+
+Nishantha Samaraweera added that the heads of corruption and irregularities will soon be taken to the Committee on corruption and corruption, corruption and corruption.
+
+◼️
+
+[Data](articles/f2988015.json)
+
+[Extended Data](ext_articles/f2988015.ext.json)
+
+---
+
+### The program to modernize the Narahenpitti Railway Station
+
+*2025-09-27 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226244) · `ta`
+
+The program to modernize the Narahenpita Railway Station on Saturday (27) was launched under the "Dream Destination" program implemented with the "Clean Sri Lanka" program.
+
+The Narahenpitti Railway Station, which is considered to be another unique railway station on the Kelaniwa road, is located between the Koda Road Railway Station and the Kirulapana Railway Station.
+
+Located at a distance of 5.06 km from Colombo and at a height of 3.72 m above sea level, the railway station consists of two main platforms and a ticket counter.
+
+The railway station, located near a number of state, semi -government and private companies, including the Department of Labor, the Transport Department and the Department of Land Survey, is using a large number of passengers for daily duties.
+
+...
+
+[Data](articles/5ab5959f.json)
+
+[Extended Data](ext_articles/5ab5959f.ext.json)
+
+---
+
+### Senior Professor at the University of Jaffna
+
+*2025-09-27 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226249) · `ta`
+
+The University Council has approved the promotion of a professor at the University of Jaffna to promote a senior professor and six senior lecturers as professors.
+
+A Rosier, a Rosier, a Senior Professor of Agricultural Biology, and Senior Lecturers from the Department of Survey of the Faculty and the Department of Survey of the Faculty, the Geological Survey of the Department of Arts The council has approved.
+
+The monthly meeting of the University Council was held on Saturday, September 27, chaired by Vice Chancellor Professor C. Sirisakkunnarajah.
+
+Rosiery G.. Thirukumaran, Head of the Department of Surveyor and Senior Lecturer, Kidney Surgeon, Balasingham Balakobi, Senior Lecturer and Sun. Dr. Nakamuthu Pradeeparajah, Chairman of Sanskrit and Senior Lecturer, Dr. Maheshwarakurukkal Palakalasanathasarma and the head of the science unit and Senior Lecturer, Dr. Sivanesan Sabha Anaan.
+
+...
+
+[Data](articles/a89480c4.json)
+
+[Extended Data](ext_articles/a89480c4.ext.json)
+
+---
+
+### Police who brutally attacked people in Mannar; Action to arrest those in the hospital
+
+*2025-09-27 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226250) · `ta`
+
+The civilians who were brutally assaulted by the police have been admitted to the Mannar General Hospital via a carriage carriage.
+
+At this juncture, the police have been involved in a variety of false cases against the public to cover up the crime against them.
+
+In particular, steps have been taken to arrest those who are being treated at the Mannar Hospital and are taking steps to arrest some of the social activists who are working on the protest.
+
+Peliser has taken steps to arrest the people, not only to attack the people in a democratic struggle, has caused great turmoil among the Mannar people.
+
+It is noteworthy that the protest committee is going to take legal action against women, clergy and civilians in the peaceful people's struggle and lodge a complaint with the Human Rights Commission and the Police Complaints Division.
+
+◼️
+
+[Data](articles/dd829b79.json)
+
+[Extended Data](ext_articles/dd829b79.ext.json)
+
+---
+
+### Provincial program launched to educate govt officials on digitalization & AI
+
+*2025-09-27 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/112964/provincial-program-launched-to-educate-govt-officials-on-digitalization-ai) · `en`
+
+The first provincial program in a series designed to sensitize government executives on the government’s digitalization initiatives and the use of AI technology at the provincial level was held yesterday (26) at the Kandy District Secretariat.
+
+The program, aimed at clarifying the government’s digitalization plans and enhancing officials’ literacy in AI technology, was attended by executive officers from the Central Provincial Council, District Secretariats, Divisional Secretariats, and other government institutions.
+
+So far, six programs focused on digitalization and AI technology have been conducted in Colombo, with participation exceeding 4,000 government officials.
+
+The provincial-level initiative aims to reach all provinces, educating government officers outside Colombo about their role in advancing the government’s digitalization agenda and applying AI technology for official purposes.
+
+...
+
+[Data](articles/6c8dffdd.json)
+
+[Extended Data](ext_articles/6c8dffdd.ext.json)
+
+---
+
+### Good entrepreneurs '' 'full'
+
+*2025-09-27 16:22:32* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හඳ-වයවසයකයන-බහකරන-පරපන-වඩක/1-680323) · `si`
+
+The Field Organization has launched a new program to create new entrepreneurs at the ground level with a national transformation.
+
+The first stage of empowering ground-level women's entrepreneurs, Mr. Ananda Vasaganha said at a press conference held in Colombo.
+
+Accordingly, the filled householders will be provided with 1,000 small business locations (boxes - boxes) in the country under the first round.   He said that they would allow them to start their own micro-level movements.
+
+He further stated that it will get attitude to prepare for business preparations and that these people will be involved in structured programs to make them strong entrepreneurs.
+
+The Field Organization has established the main objective of accepting the existing governance as the main objective of making a good governance beyond it.
+
+◼️
+
+[Data](articles/ac15463e.json)
+
+[Extended Data](ext_articles/ac15463e.ext.json)
+
+---
+
+### Good entrepreneurs '' 'full'
+
+*2025-09-27 16:22:32* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හඳ-වයවසයකයන-බහකරන-පරපන-වඩක/101-680323) · `si`
+
+The Field Organization has launched a new program to create new entrepreneurs at the ground level with a national transformation.
+
+The first stage of empowering ground-level women's entrepreneurs, Mr. Ananda Vasaganha said at a press conference held in Colombo.
+
+Accordingly, the filled householders will be provided with 1,000 small business locations (boxes - boxes) in the country under the first round.   He said that they would allow them to start their own micro-level movements.
+
+He further stated that it will get attitude to prepare for business preparations and that these people will be involved in structured programs to make them strong entrepreneurs.
+
+The Field Organization has established the main objective of accepting the existing governance as the main objective of making a good governance beyond it.
+
+◼️
+
+[Data](articles/aeea688b.json)
+
+[Extended Data](ext_articles/aeea688b.ext.json)
+
+---
+
+### The Prime Minister visited the exhibition of 'the future of feminism: Arts, Activity and South Asian Woman ”
+
+*2025-09-27 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226229) · `ta`
+
+Historian Dr. Arshia Lokantwala (Dr.. Prime Minister Harini Amarasuriya visited the arts exhibition of South Asian feminist artists titled "Future of Feminism: Arts, Activity and South Asian Woman".
+
+The exhibition was held on Friday (26) at the Lotus Art Gallery at the National Museum in Colombo.
+
+The art exhibition questioned the future of feminism, gender inequality, and gender -based violence and set the stage for women's energy, independence and cooperation.
+
+Here are the works of eleven feminist artists representing South Asian countries of Sri Lanka, India, Nepal, Bangladesh and Pakistan. They have expressed the problems faced by women in their countries through their art works.
+
+The exhibition is also displayed in many countries of the world. Earlier, the exhibition was held in Kathmandu, Nepal. The exhibition in Sri Lanka will be held from September 26 to October 08 at the Lotus Art Gallery at the National Museum in Colombo.
+
+...
+
+[Data](articles/ae41beae.json)
+
+[Extended Data](ext_articles/ae41beae.ext.json)
 
 ---

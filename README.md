@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 03:55:01**
+As of **2025-09-29 03:37:20**
 
 ## Newspaper Stats
 
-*Scraped **79,298** Articles*
+*Scraped **79,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,68 +20,18 @@ dailyftlk | 5,565
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,872
-virakesarilk | 12,925
+virakesarilk | 12,922
 adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,295 (100.0%) of 79,298 articles have been extended.
+79,295 (100.0%) of 79,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### சட்டத்துக்கு அரசியல்வாதிகளும் அச்சமடையும் நிலை உருவாகியுள்ளது – ஜனாதிபதி
-
-*2025-09-29 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226354) · `ta`
-
-நாடு என்ற ரீதியில் முன்னேற்றமடைய வேண்டுமாயின் சட்டம் மற்றும் ஒழுங்கு சிறந்த முறையில் செயற்படுத்தப்பட வேண்டும். சட்டத்துக்கு அனைவரும் அச்சமடைய வேண்டும். நாட்டு மக்களுக்காக சட்டமியற்றிய அரசியல்வாதிகள் இன்று சட்டத்துக்கு அச்சமடைந்துள்ளார்கள். கடந்த காலங்களில் முரண்பட்டுக்கொண்டிருந்த 40 அரசியல் கட்சிகள் ஒரு அறையில் கூடி பேசும் அளவுக்கு சட்டம் தற்போது செயற்படுகிறது. தங்காலைக்கும் தினசரி செல்கிறார்கள் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
-
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க  ஞாயிற்றுக்கிழமை (28) பிற்பகல் ஜப்பானில் வசிக்கும் இலங்கை சமூகத்தினரை டோக்கியோவில் சந்தித்து உரையாடுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-2024 ஆம் ஆண்டு நடைபெற்ற ஜனாதிபதித்த தேர்தலுக்கு முன்னர் வெளிநாடுகளில் வசிக்கும் இலங்கையர்களை சந்தித்து விரிவான கலந்துரையாடல்களில் ஈடுபட்டோம். புதிய அரசியல் மாற்றம் ஒன்று ஏற்படுவதற்கு வெளிநாடுகளில் வசிக்கும் இலங்கையர்கள் முழுமையான ஒத்துழைப்பு வழங்கினார்கள்.
-
-...
-
-[Data](articles/7b2f3736.json)
-
----
-
-### ரயிலில் மோதுண்டு 14 சிறுவன் உயிரிழப்பு
-
-*2025-09-29 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226353) · `ta`
-
-ரம்புக்கன பகுதியில் சனிக்கிழமை (27) பதுளையிலிருந்து கொழும்பு நோக்கிப் பயணித்த கடுகதி ரயிலில் மோதுண்டு சிறுவன் ஒருவன் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-ரம்புக்கன பொலிஸ் பிரிவுக்குட்பட்ட திஸ்மல்பொல புகையிரத நிலையத்துக்கருகில் மேற்படி சம்பவம் பதிவாகியுள்ளது. நண்பர்களுடன் ரம்புக்கனையிலிருந்து கொழும்பு நோக்கி சென்ற ரயிலில் பயணித்த சிறுவன், திஸ்ஸமல்பொல புகையிரத நிலையத்தில் இறங்கியுள்ளார். குறித்த சிறுவன் பயணிகள் இறங்க வேண்டிய புகையிரத மேடையில் இறங்காமல் மறுபக்கமாக இருந்து ரயில் தண்டவாளத்தில் இறங்கியுள்ளார்.
-
-இதன்போது பதுளையிலிருந்து கொழும்பு நோக்கிப் பயணித்த கடுகதி ரயிலில் மோதுண்டு சம்பவ இடத்திலேயே பலியாகியுள்ளதாக விசாரணைகளின் போது தெரியவந்துள்ளது. 14 வயதுடைய மெதமக பகுதியை சேர்ந்த சிறுவனே இவ்வாறு உயிரிழந்துள்ளார். இதேவேளை மேற்படி விபத்துச் சம்பவம் தொடர்பில் ரம்புக்கன பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/826f3512.json)
-
----
-
-### காத்தான்குடியில் 11 வருடங்களாக போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டு வந்த கைது செய்யப்பட்ட பெண் வியாபாரிக்கு விளக்கமறியல்
-
-*2025-09-29 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226352) · `ta`
-
-காத்தான்குடியில் 11 வருடங்களாக போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டு வந்த 6 கிராம் ஜஸ் போதை பொருளுடன் கைது செய்யப்பட்ட பிரபல பெண் போதை பொருள் வியாபாரியை எதிர்வரும் 5ம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் ஞாயிற்றுக்கிழமை (28) உத்தரவிட்டார்.
-
-பொலிசாருக்கு கிடைத்த தகவல் ஒன்றிணை அடுத்து காத்தான்குடி 6ம் பிரிவு ஜின்னா மாவத்தையிலுள்ள வீடு ஒன்றை கடந்த 22ம் திகதி பொலிசார் முற்றுகையிட்டு போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டு வந்த பெண் வியாபாரியை 6 கிராம் ஜஸ் போதை பொருளுடன் கைது செய்தனர்
-
-அவரை கைது செய்து விசாரணையை அடுத்து அவர் வழங்கிய தகவலுக்கு அமைய காத்தான்குடி பகுதியைச் சேர்ந்த 4 பேரை ஜஸ் போதை பொருளுடன் கைது செய்து நீதிமன்றில் ஆஜர்படுத்தப்பட்டதையடுத்து விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
-
-இதேவேளை கைது செய்யப்பட்ட பெண் வியாபாரி கடந்த 11 வருடங்களாக போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டு வந்துள்ளதாகவும் இதுவரை அவர் இருந்த பொலிசார் கைது செய்யவில்லை என பொலிசாரின் ஆரம்பக்கட்ட விசாரணையில் தெரியவந்துள்ளது
-
-...
-
-[Data](articles/4860d3f6.json)
-
----
 
 ### Earthquake in China
 
@@ -2036,5 +1986,69 @@ According to police, island-wide operations are conducted to apprehend small-, m
 [Data](articles/f922a156.json)
 
 [Extended Data](ext_articles/f922a156.ext.json)
+
+---
+
+### The woman under the little gem
+
+*2025-09-28 15:14:10* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පඩ-මණකට-යට-ව-කත/101-680353) · `si`
+
+A woman who was involved in the engine operated from Badulla to Colombo Fort, she was admitted to the Dikoya Dikoya Municipal Council, Chairman of Hatton Dickoya Urbodaya.
+
+The accident had occurred near the Hatton Station located near the Hatton Station.
+
+Podi Menike train was slowly and that the woman who was seriously injured in the railway crash was a long-railway crash and was staying near the railway line.
+
+◼️
+
+[Data](articles/7e384bf7.json)
+
+[Extended Data](ext_articles/7e384bf7.ext.json)
+
+---
+
+### The woman under the little gem
+
+*2025-09-28 15:14:10* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පඩ-මණකට-යට-ව-කත/1-680353) · `si`
+
+A woman who was involved in the engine operated from Badulla to Colombo Fort, she was admitted to the Dikoya Dikoya Municipal Council, Chairman of Hatton Dickoya Urbodaya.
+
+The accident had occurred near the Hatton Station located near the Hatton Station.
+
+Podi Menike train was slowly and that the woman who was seriously injured in the railway crash was a long-railway crash and was staying near the railway line.
+
+◼️
+
+[Data](articles/c5f7c819.json)
+
+[Extended Data](ext_articles/c5f7c819.ext.json)
+
+---
+
+### Four Indian fishermen who were kept in detention for 52 days were deported to Andhra Pradesh
+
+*2025-09-28 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226327) · `ta`
+
+Indian media reports that four fishermen from Andhra Pradesh will return home on September 30 after being kept in the Jaffna jail for 52 days.
+
+The boat carrying the fishermen departed from the Sri Lankan coast to Kakinada on September 27.
+
+They were deported following the efforts of state officials in Andhra Pradesh Bhavan in New Delhi.
+
+On September 26, the Sri Lanka Coast Guard handed over the fishermen to the Indian Coast Guard at the Mandapam camp.
+
+The fishermen had gone to Nagapattinam to buy a secondary trawling fishing boat.
+
+But when returning home, reports reported that Sri Lanka was floating in water due to technical disorder.
+
+After taking the issue to the Foreign Ministry, the Indian High Commission in Colombo began their efforts to return.
+
+The High Commission has reported that four fishermen have been safely sent back to the Sri Lankan government and the support of the Indian and Sri Lanka Navy and Coast Guard.
+
+◼️
+
+[Data](articles/2e7c234f.json)
+
+[Extended Data](ext_articles/2e7c234f.ext.json)
 
 ---

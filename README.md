@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 12:21:32**
+As of **2025-09-28 12:37:48**
 
 ## Newspaper Stats
 
-*Scraped **79,123** Articles*
+*Scraped **79,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,53 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,630
-adaderanalk | 10,218
+adalk | 7,632
+adaderanalk | 10,222
 tamilmirrorlk | 11,855
-virakesarilk | 12,871
-adaderanasinhalalk | 13,729
+virakesarilk | 12,873
+adaderanasinhalalk | 13,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,106 (100.0%) of 79,123 articles have been extended.
+79,106 (100.0%) of 79,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### இலங்கை தொடர்பான பொறுப்புக்கூறல்  செயற்திட்டம் மேம்படுத்தப்படவேண்டும் ;  ஐ.நா மனித உரிமைகள் பேரவையில் அனந்தி சசிதரன் வலியுறுத்தல்
+
+*2025-09-28 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226304) · `ta`
+
+இலங்கை தொடர்பான பொறுப்புக்கூறல் செயற்திட்டம் மாத்திரம் இக்கூட்டத்தொடரில் காலநீடிப்பு செய்யப்படுமாக இருந்தால், போர்க்குற்றங்கள், மனிதகுலத்துக்கு எதிரான மீறல்கள் மற்றும் மனித உரிமை மீறல்கள் என்பவற்றுக்கு அப்பால் இனவழிப்பு மற்றும் இனவழிப்பு நோக்கம் என்பன தொடர்பிலும் ஆதாரங்களைத் திரட்டுவதற்கு ஏதுவான வகையில் அச்செயற்திட்டம் மேம்படுத்தப்படவேண்டும். அன்றேல் எந்தவொரு முன்னேற்றமும் இன்றி, உள்ளகப்பொறிமுறைகளினால் ஏற்கனவே ஏமாற்றமடைந்திருக்கும் பாதிக்கப்பட்ட தரப்பினரை மேலும் ஏமாற்றுவதாகவே அது அமையும் என வடமாகாண முன்னாள் அமைச்சரும், வலிந்து காணாமலாக்கப்படலால் பாதிக்கப்பட்டவருமான அனந்தி சசிதரன் தெரிவித்துள்ளார்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடரின் பக்க நிகழ்வொன்றில் உரையாற்றியபோதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+இலங்கையில் தமிழ் மக்களுக்கு எதிராக நிகழ்த்தப்பட்ட இனவழிப்பு தொடர்பில் உடனடியாக நடவடிக்கை எடுக்கப்படவேண்டும். இவ்விவகாரத்தை அணுகுவதற்கு அவ்விடயம் சார்ந்து முழுமையான நியாயாதிக்கத்தையும், சுதந்திரத்தையும் கொண்டிருக்கக்கூடிய சர்வதேச விசாரணைப்பொறிமுறையொன்று அவசியமாகும்.
+
+...
+
+[Data](articles/8361bee1.json)
+
+---
+
+### நல்லாட்சியில் அரசியலமைப்பு  வரைவு மீளக்கொண்டுவரப்படும்  தமிழ்மக்களின் ஆணை தம்வசமே இருப்பதாக தேசிய மக்கள் சக்தியின் பொதுச்செயலாளர்  சுவிஸில் தெரிவிப்பு
+
+*2025-09-28 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226303) · `ta`
+
+2015 - 2019 ஆம் ஆண்டு வரையான காலப்பகுதியில் தயாரிக்கப்பட்ட புதிய அரசியலமைப்பு வரைவு மீளக்கொண்டுவரப்படும் எனவும், அதில் மேற்கொள்ளப்படவேண்டிய திருத்தங்க ளென அரசியல் கட்சிகளால் சமர்ப்பிக்கப்பட்ட முன்மொழிவுகளை வாசித்து ஆராயும் பணிகள் முடிவுறும் தருவாயில் இருப்பதாகவும்  தேசிய மக்கள் சக்தியின் பொதுச்செயலாளரும் பாராளுமன்ற உறுப்பினருமான கலாநிதி நிஹால் அபேசிங்க தெரிவித்துள்ளார்.
+
+இலங்கை - சுவிஸ்லாந்து பாராளுமன்ற நட்புறவு சங்கத்துடன் கூட்டிணைந்து சுவிஸ்லாந்து அரசாங்கத்தின் ஏற்பாட்டில் அந்நாட்டின் கூட்டாட்சி அரசியல் முறைமை மற்றும் தேசிய ஒருமைப்பாடு வலுவாக்கம் என்பன பற்றி இலங்கையின் ஆளும் மற்றும் எதிர்க்கட்சிகளைப் பிரதிநிதித்துவப்படுத்தும் உறுப்பினர்களுக்குத் தெளிவூட்டும் வகையிலான செயலமர்வொன்று கடந்த 14 - 21 ஆம் திகதி வரை சுவிஸ்லாந்தில் நடைபெற்றது.
+
+இச்செயமலர்வின் ஓரங்கமாக இலங்கையின் ஆளும், எதிர்க்கட்சிகளைப் பிரதிநிதித்துவப்படுத்தி அங்கு சென்ற 13 உறுப்பினர்களுடனான மக்கள் சந்திப்பொன்று நடைபெற்றது.
+
+...
+
+[Data](articles/1f940214.json)
+
+---
 
 ### எதிர்க்­கட்­சி­களின் ஒன்­றி­ணைவு சாத்­தி­யமா?
 
@@ -42,6 +74,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7cfdc8ef.json)
+
+---
+
+### Over 125,000 tourist arrivals recorded in September
+
+*2025-09-28 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/112990/over-125000-tourist-arrivals-recorded-in-september) · `en`
+
+A total of 126,379 tourists have arrived in the country thus far in September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
+
+According to data released by the SLTDA, a total of 37,179 tourists have arrived from India which accounts to 29.4%. Furthermore, 8,937 persons from the United Kingdom, 7,799 from Germany, 7,049 from Australia and 7,226 Chinese nationals have also visited Sri Lanka in the month of September.
+
+Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,692,902 with the release of the latest figures for September.
+
+Among them, 362,774 individuals are from India, 160,078 from the UK and 121,452 are from Russia, the SLTDA noted.
+
+◼️
+
+[Data](articles/dcc52827.json)
 
 ---
 
@@ -70,6 +120,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a29136e5.json)
+
+---
+
+### ජනපති අද ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව හමුවෙයි
+
+*2025-09-28 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215095) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ටෝකියෝහිදී අද (28) පස්වරුවේ ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව හමුවීමට නියමිතය.
+
+සිය තෙදින ජපාන නිල සංචාරය ආරම්භ කරමින් ජනාධිපතිවරයා ඊයේ (27) දිනයේදී ජපානයට පැමිණියේය.
+
+එහිදී ශ්‍රී ලංකාවේ ජපාන තානාපති අකියෝ ඉසොමතා, ජපානයේ සිටින ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ ජපාන විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීන් විසින් ජනාධිපතිවරයාව හරසරින් පිළිගනු ලැබීය.
+
+ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය සහ ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය එක්ව ජපානයේ ඔසාකාහි පැවැත්වෙන “එක්ස්පෝ 2025” සංවිධානය කරනු ලැබූ ශ්‍රී ලංකා දින සැමරුමේ ප්‍රධාන ආරාධිත අමුත්තා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (27) සහභාගී විය.
+
+ඊයේ පැවති වැඩසටහන්වලින් අනතුරුව අද (28) උදෑසන Shin- Osaka දුම්රියපොළින් ටෝකියෝ බලා පිටත් වූ ජනාධිපතිවරයා අද පස්වරුවේ ටෝකියෝහිදී ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව හමුවීමට නියමිතය.
+
+...
+
+[Data](articles/46cff94c.json)
+
+---
+
+### China’s Huajiang Grand Canyon Bridge opens as world’s tallest bridge
+
+*2025-09-28 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/112988/chinas-huajiang-grand-canyon-bridge-opens-as-worlds-tallest-bridge) · `en`
+
+The Huajiang Grand Canyon Bridge in southwest China’s Guizhou Province will open today (28), officially becoming the tallest bridge in the world.
+
+Stretching 2,890 meters in length with a main span of 1,420 meters, the Huajiang Grand Canyon Bridge rises 625 meters above the river, setting a new global record.
+
+It is not only the tallest bridge on earth but also the world’s largest span bridge ever built in a mountainous area.
+
+Construction began in early 2022, with engineers and workers confronting the steep natural barrier of the Huajiang Grand Canyon. To achieve millimeter-level precision at an altitude of 600 meters, the project employed advanced methods including drone technology, intelligent monitoring systems, and ultra-high-strength building materials.
+
+The completion of the bridge marks a major milestone for infrastructure development in China’s mountainous southwest, boosting connectivity and showcasing the country’s engineering capabilities.
+
+◼️
+
+[Data](articles/2ee3e2c6.json)
 
 ---
 
@@ -102,6 +192,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5d84da2e.json)
+
+---
+
+### 77-year-old woman dies in bus accident in Rathgama
+
+*2025-09-28 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/112987/77-year-old-woman-dies-in-bus-accident-in-rathgama) · `en`
+
+A woman has died in an accident reported along the Galle–Colombo main road, at the Rathgama junction.
+
+The accident occurred when a bus traveling from Galle towards Hikkaduwa rammed onto the woman, who was walking along the side of the road.
+
+The woman, who sustained severe injuries in the accident, succumbed while being admitted to the Karapitiya Hospital.
+
+The body has been placed at the morgue of the Karapitiya Hospital.
+
+The driver of the bus involved in the accident has been taken into custody.
+
+◼️
+
+[Data](articles/d3a2c345.json)
 
 ---
 
@@ -227,6 +337,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### First ‘Health and Wellness Center’ opens in Mapalagama
+
+*2025-09-28 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/112986/first-health-and-wellness-center-opens-in-mapalagama) · `en`
+
+A health service will be established in Sri Lanka which prioritizes the well-being of the people and ensures accountability, while health professionals are committed to safeguarding public health, the Minister of Health and Mass Media, Dr. Nalinda Jayatissa stated.
+
+The Minister said this while participating in the opening of the Mapalagama Health and Wellness Center in the Galle District as the first step of the “Healthy Sri Lanka” program.
+
+Under this program, which is implemented under the government’s innovative program for a healthy country, 100 primary health care centers are scheduled to be opened this year.
+
+The centers, established in convenient and easily accessible locations, will operate as comprehensive primary healthcare units offering a wide range of essential services.
+
+...
+
+[Data](articles/478d4934.json)
+
+---
+
 ### Digital ID is compulsory for working in the UK
 
 *2025-09-28 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215094) · `si`
@@ -286,6 +414,24 @@ In the UK, 160,078 from the UK, 121,452 from Germany and 105,443 people from Ger
 [Data](articles/7342534d.json)
 
 [Extended Data](ext_articles/7342534d.ext.json)
+
+---
+
+### හොරකම් කළ වෑන් රථය උගස් කර යතුරු පැදියක් මිලට අරන් පෙම්වතිය සමග රවුම් ගහලා
+
+*2025-09-28 11:19:10* · [`adalk`](https://www.ada.lk/breaking_news/හොරකම්-කළ-වෑන්-රථය-උගස්-කර-යතුරු-පැදියක්-මිලට-අරන්-පෙම්වතිය-සමග-රවුම්-ගහලා/11-418763) · `si`
+
+මහනුවර නගරයේ වාහන අලෙවි සැලකින් 70 ලක්ෂයක් වටිනා වෑන් රථයක් සොරකම් කොට එම රථය මාතලේ පල්ලේපොළ ප්‍රදේශයේ උගස් මධ්‍යස්ථානයකට උගස්කොට එම මුදලින් සුපිරි යතුරුපැදියක් මිලදී ගෙන ඔහුගේ පෙම්වතිය සමග යමින් සිටියදී සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශයට ලද තොරතුරකට අනුව සිදුකළ දීර්ඝ විමර්ශනයේදී මහනුවර ඩී.එස්.සේනානායක වීදියේ අවන්හලක සේවකයෙකු ලෙස සේවය කළ මාතලේ මාදිපොල ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකු එසේ අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු රාත්‍රී ඩී.එස්. සේනානායක වීදියේ පවත්වාගෙන යනු ලබන වාහන අලෙවිසලකට පසුගිය 22 වැනි දින රාත්‍රී කාලයේ ඇතුළු වී ටොයටා නෝහා වර්ගයට අයත් වෑන් රථයක් සහ ඊට අදාළ ලියකියවිලිද වාහන අලෙවි සැලෙන් සොරා ගෙන ගොස් තිබුණි.
+
+සැකකරු එම වෑන් රථය මාතලේ පල්ලේපොල ප්‍රදේශයේ උගස් කරුවෙකුට රුපියල් ලක්ෂ 15 ක මුදලකට උගස් කොට එම මුදලින් නවීන පන්නයේ යතුරු පැදියක් මිලදී ගෙන ඔහු සේවය කළ අවන්හලේම සේවයේ නියුතු යුතු පෙම්වතිය සමඟ ගමන් කරමින් සිටියදී පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/f9e4bed2.json)
 
 ---
 
@@ -632,6 +778,22 @@ Nothing in politics is stable, no one is permanent friends, no, no permanent ene
 [Data](articles/7d6fecbc.json)
 
 [Extended Data](ext_articles/7d6fecbc.ext.json)
+
+---
+
+### නා උයන කේබල් ඩක්කු අනතුරින් තුවාල ලබා සිටි තවත් හිමිනමක් අපවත්වෙති
+
+*2025-09-28 10:39:23* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයන-කේබල්-ඩක්කු-අනතුරින්-තුවාල-ලබා-සිටි-තවත්-හිමිනමක්-අපවත්වෙති/11-418759) · `si`
+
+මැල්සිරිපුර, නා උයන ආරණ්‍ය සේනාසනයේ කේබල් ඩක්කු අනතුරින් තුවාල ලබා ප්‍රතිකාර ලබමින් සිටි තවත් හිමිනමක් අපවත් වී තිබේ. ඒ අනුව එම අනතුරින් අපවත්වූ හිමිවරුන් සංඛ්‍යාව 8ක් දක්වා ඉහළ ගොස් තිබේ.
+
+කුරුණෑගල ශික්ෂණ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි හිමිනමක් මෙසේ අපවත් වී ඇත. තුවාල ලැබූ තවත් භික්ෂුන් වහන්සේලා පස්නමක් කුරුණෑගල රෝහලේ ප්‍රතිකාර ලබමින් සිටිති.
+
+අනතුර සිදුවන අවස්ථාවේදී එම ඩක්කුවේ භික්ෂුන් වහන්සේලා 13 නමක් සිට ඇති බවත් වාර්තා විය. අනතුරින් අපවත් වූ හිමිවරුන් තිදෙනෙකු විදෙස් ජාතික හිමිවරුන් වූ අතර එම හිමිවරුන් ඉන්දියාව, රුමේනියාව සහ රුසියානු රටවල වාසය කළ හිමිවරුන් විය.
+
+◼️
+
+[Data](articles/02c9b413.json)
 
 ---
 
@@ -1744,177 +1906,5 @@ However, Wije's arrival for this rally has delayed, and the people have already 
 [Data](articles/a053653c.json)
 
 [Extended Data](ext_articles/a053653c.ext.json)
-
----
-
-### The Importance Of Education In Emergencies For Eliminating The Dependency Mindset
-
-*2025-09-27 22:03:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-importance-of-education-in-emergencies-for-eliminating-the-dependency-mindset/) · `en`
-
-Emergencies—whether natural disasters, armed conflicts, pandemics, or economic crises—disrupt the normal functioning of societies. In such contexts, the education system often collapses, leaving children and communities vulnerable to a “dependency mindset.” This mindset is characterized by reliance on external aid rather than building self-reliance and sustainable solutions.
-
-Education plays a critical role in preventing and eliminating this dependency. By continuing learning even during crises, education nurtures resilience, independence, and problem-solving capabilities, enabling individuals and communities to rebuild their futures
-
-The dependency mindset refers to a psychological and social state where individuals or communities rely excessively on external aid rather than developing internal capacities to solve their own problems.
-
-...
-
-[Data](articles/3c479893.json)
-
-[Extended Data](ext_articles/3c479893.ext.json)
-
----
-
-### Stampede at Indian actor Vijay’s rally in Karur leaves 10 dead
-
-*2025-09-27 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/112974/stampede-at-indian-actor-vijays-rally-in-karur-leaves-10-dead) · `en`
-
-A stampede at the rally of actor-politician Vijay, in Tamil Nadu’s Karur, has left at least 10 persons dead, NDTV reported, citing officials of a local hospital. The death toll is feared to rise further.
-
-Vijay, who recently launched his political party Tamilaga Vettri Kazhagam (TVK), arrived around six hours late at the rally venue in Karur, the report said, adding that around 30,000 people gathered at the venue to hear him.
-
-The crowd swelled and became uncontrollable even as Vijay was addressing the gathering and a number of persons including party workers and a few children fainted and fell down.
-
-Several workers noticed the situation and raised an alarm and Vijay took note and halted his speech and threw water bottles from atop the custom-built campaign bus, PTI reported. Ambulances had a tough time negotiating the heavily crowded thoroughfare to reach the spot, the news agency added.
-
-...
-
-[Data](articles/141abeaf.json)
-
-[Extended Data](ext_articles/141abeaf.ext.json)
-
----
-
-### Vijay campaign jam in Karur: 31 people killed
-
-*2025-09-27 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226268) · `ta`
-
-Tamil Nadu Victory Council President Vijay met with people in Karur district on Saturday (September 27, 2025).. This has caused great tragedy in Karur district.
-
-A woman who was in the crowd then felt faint. He was immediately taken to the hospital by Ambulance.
-
-After Vijay's departure, there was a huge congestion when the crowd dissolved. More than 50 people were unconscious. They were immediately taken to the hospital and treated.
-
-It was reported that 2 people died without treatment for the first time. Following this, the information from the hospital caused great distress.
-
-In the second phase, it was reported that 10 people, including a woman and 3 children, died.
-
-Currently, District Health Minister Ma Subramanian has confirmed that a total of 31 people, including 6 children and 16 women, have been killed in the Vijay campaign meeting.
-
-It is feared that 12 more people are being treated in this tragedy, causing deaths.
-
-◼️
-
-[Data](articles/3ba9a796.json)
-
-[Extended Data](ext_articles/3ba9a796.ext.json)
-
----
-
-### Special police operation in Maradana
-
-*2025-09-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215082) · `si`
-
-Police have conducted a special operation this evening in the Maradana area.
-
-The special operation has been implemented by several locations including the Maradana Stroke Place.
-
-Thirty persons were able to arrest warrants and various crimes.
-
-◼️
-
-[Data](articles/44747c61.json)
-
-[Extended Data](ext_articles/44747c61.ext.json)
-
----
-
-### Agricultural and Agrarian Insurance Board receives highest progress in the last year
-
-*2025-09-27 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215081) · `si`
-
-The agriculture and the Agrarian Insurance Board (Agricultural and Agrarian) (agricultural and Agrarian) has been able to achieve the highest progress in the Ministry of Agriculture, Livestock, Land and Irrigation.
-
-The Chairman of the Board Chairman Premadasiri Jasinghahahachchi said that the amount of financial assets could be increased to Rs.
-
-The new resources insurance scheme have been able to implement the new insurance schemes for cinnamon, rubber and banana plantations that cattle, rubber and bananas cultivation have been introduced under the Livestock Insurance Scheme.
-
-He also said that the accident is also introduced to Kithul, Palmyra and Coconut industrialists.
-
-The fishermen have not paid attention to the risk of the fishermen, and the Department of Agriculture has been given to the Board, No. 20 of 1999 and is also a dangerous death life insurance scheme for all the warning.
-
-...
-
-[Data](articles/bdae452a.json)
-
-[Extended Data](ext_articles/bdae452a.ext.json)
-
----
-
-### President Dissanayake attends Sri Lanka Day at ‘EXPO 2025 Osaka’
-
-*2025-09-27 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/112973/president-dissanayake-attends-sri-lanka-day-at-expo-2025-osaka-) · `en`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan, arrived this morning (27) at the Kansai International Airport in Osaka, Japan.
-
-As the first engagement of his visit, the President attended the Sri Lanka Day celebrations at the “EXPO 2025” exhibition being held in Osaka, Japan, the President’s Media Division (PMD) said.
-
-The Sri Lanka Day celebrations, organised jointly by the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, showcased a variety of cultural performances reflecting Sri Lankan identity. The cultural programme attracted a large audience of both Japanese nationals and international visitors.
-
-During the ‘EXPO 2025 Osaka’, the President also visited the Sri Lanka and Japan exhibition pavilions, the PMD said.
-
-Addressing the gathering, President Dissanayake further noted that ‘EXPO 2025’ provides Sri Lanka with a global platform to share its vision for a bright future, grounded in its culture, innovation and human values.
-
-...
-
-[Data](articles/6f396df5.json)
-
-[Extended Data](ext_articles/6f396df5.ext.json)
-
----
-
-### Karur news is worried: Chief Minister of Tamil Nadu
-
-*2025-09-27 21:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-செய்தி-கவலையளிக்கிறது-தமிழக-முதல்வர்/175-365385) · `ta`
-
-◼️
-
-[Data](articles/913c4962.json)
-
-[Extended Data](ext_articles/913c4962.ext.json)
-
----
-
-### Faced with a series of challenges, Sri Lanka is currently rebuilding the stable and participation economy
-
-*2025-09-27 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226267) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, arrived at the Kansai International Airport in Osaka, Japan on Saturday (27).
-
-The first event of his visit, the President participated in the Sri Lanka Day event at the "Expo 2025" exhibition in Osaka, Japan.
-
-The Sri Lanka Embassy in Sri Lanka and the Sri Lanka Embassy in Japan was colorful with various cultural features that reflect the identity of Sri Lanka. Not only a large number of Japanese but also foreigners gathered to watch this cultural event.
-
-Speaking at the event, President Anuragumara Dissanayake said that during this time of changes in the world, Sri Lanka is at an important stage in its economic journey and that Sri Lanka is facing a series of challenges and that the benefits of this development will be upgraded and the benefits of this development will be upgraded.
-
-...
-
-[Data](articles/a507a64a.json)
-
-[Extended Data](ext_articles/a507a64a.ext.json)
-
----
-
-### 29 people die in Vijay meeting
-
-*2025-09-27 21:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கூட்டத்தில்-29-பேர்-உயிரிழப்பு/175-365384) · `ta`
-
-29 people, including 3 children, were killed in a congestion in Vijay's campaign in Karur in Tamil Nadu.
-
-◼️
-
-[Data](articles/a2e9b144.json)
-
-[Extended Data](ext_articles/a2e9b144.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 14:37:51**
+As of **2025-09-28 14:55:19**
 
 ## Newspaper Stats
 
-*Scraped **79,160** Articles*
+*Scraped **79,165** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 390
+lankadeepalk | 391
 newsfirstlk | 452
 dbsjeyarajcom | 635
 bbccomsinhala | 706
@@ -17,9 +17,9 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,634
+adalk | 7,635
 adaderanalk | 10,222
-tamilmirrorlk | 11,856
+tamilmirrorlk | 11,859
 virakesarilk | 12,876
 adaderanasinhalalk | 13,733
 
@@ -27,27 +27,99 @@ adaderanasinhalalk | 13,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,158 (100.0%) of 79,160 articles have been extended.
+79,160 (100.0%) of 79,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### රාජ්‍ය සේවයට අලුතින් 2000ක්
+### රිය අනතුරින් තරුණයෙක් මරුට
+
+*2025-09-28 14:18:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තරණයක-මරට/101-680352) · `si`
+
+මාලඹේ තලාහේන ප්‍රදේශයේදී, තරුණයන් දෙදෙනෙකු ගමන් ගත් යතුරුපැදියක්. මෝටර් රථයක මුහුණට මුහුණ ගැටීමෙන් එක් තරුණයකු මිය ගොස් අනෙක් තරුණයා බරපතල තුවාල ලැබූ බව තලංගම පොලිසිය කියයි කියයි.
+
+අනතුරින් මියගොස් තිබුණේ බත්තරමුල්ල ශ්‍රී සුභූති පුර ගැමුණු මාවත පදිංචිව සිටි ඔමිදු පබසරද සිල්වා 21තරුණයෙකි.
+
+තරුණයන් දෙදෙනා ගමන් ගත්ත යතුරුපැදිය මාලබේ සිට බත්තරමුල්ල දෙසට පැමිණීමේදී ඊට ප්‍රතිවිරුද්ධ දිශාවට ධාවනය වෙමින් තිබූ මෝටර් රථයේ යතුරුපැදිය ගැටී මෙම අනතුර වී ඇතැයි පොලිසිය කියයි.
+
+යතුරුපැදිය ධාවනය කළ මිය ගිය තරුණයාගේ වරදින්  මෙම අනතුර වී ඇති බව පොලිසිය සිදු කළ මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+බරපතල තුවාල ලද අනෙක් තරුණයා මුමුල්ලේරියාව ප්‍රදේශයේ පදිංචි 24 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/14ded56a.json)
+
+---
+
+### மஹிந்தவை சந்தித்தார் ரணில்
+
+*2025-09-28 14:09:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்தார்-ரணில்/175-365411) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது முன்னாள் அரசியல் போட்டியாளரான மஹிந்த ராஜபக்ஷவை இன்று தங்காலையில் உள்ள அவரது இல்லத்தில் சந்தித்தார்.
+
+கடந்த மாதம் தாம் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டபோது ராஜபக்ச அளித்த ஆதரவுக்கு விக்கிரமசிங்க நன்றி தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதியின் அலுவலகத்தின்படி, ராஜபக்ச தனிப்பட்ட பயணத்திலிருந்து திரும்பிக் கொண்டிருந்தபோது, ​​விக்கிரமசிங்க அவரைச் சந்தித்தார்.
+
+◼️
+
+[Data](articles/83e8cf3a.json)
+
+---
+
+### 2000 new to public service
 
 *2025-09-28 14:08:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-සවයට-අලතන-2000ක/101-680351) · `si`
 
-රාජ්‍ය සේවයේ කළමනාකරණ සේවා නිලධාරී සේවයේ III ශ්‍රේණියට අලුතින් 2000 ක් බඳවා ගැනීමට රජය තීරණය කර තිබේ.
+The Government has decided to recruit 2,000 new joint vehicles to Grade III of the Public Service Service Service Service Service (Management Services) in Service Service Service.
 
-ඔවුන්  නිල වශයෙන් රාජ්‍ය සේවයට එක් කෙරෙන "පත්වීම් ලිපි ප්‍රදානෝත්සවය" අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවියගේ ප්‍රධානත්වයෙන්   අරලියගහ මන්දිරයේදී හෙට (29) පැවැත්වේ.
+They officially join the Public Service "Appointing Letters Giving Presentation" The Prime Minister Dr. Harini Amarasuriya will be held tomorrow (29) at Temple Trees.
 
-2018 වර්ෂයෙන් පසු උසස් පෙළ සුදුසුකම් මත තරඟ විභාගයකින් රාජ්‍ය සේවයට ඇතුළත් වන වැඩිම පිරිස මොවුන්  බව රාජ්‍ය පරිපාලන, පළාත් සභා සභා සහ පළාත් පාලන අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Public Administration, Provincial Councils and the Local Government said that they were the highest number of people in the public service on the GCE O / L examination after the year 2018.
 
-රාජ්‍ය අංශයේ අත්‍යවශ්‍ය පුරප්පාඩු සඳහා 30,000 ක් බඳවා ගැනීමට ජනාධිපති අනුර කුමාර දිසානායක මහතා  අයවැයෙන්  සැලැස්මක් යෝජනා කළ අතර  වරින් වර එම බඳවා ගැනීම් සිදු කරමින් සිටින බවද අමාත්‍යාංශය කියයි.
+President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the essential vacancies and that the recruitment is being made from time to time.
 
 ◼️
 
 [Data](articles/2f9635a5.json)
+
+[Extended Data](ext_articles/2f9635a5.ext.json)
+
+---
+
+### சொகுசு கார் யானையுடன் மோதி விபத்து
+
+*2025-09-28 14:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-கார்-யானையுடன்-மோதி-விபத்து/175-365410) · `ta`
+
+காத்தான்குடியில் இருந்து பொத்துவில் நோக்கி பிரயாணம் செய்த சொகுசு கார் யானையுடன் மோதி சனிக்கிழமை(27) இரவு 7 விபத்துக்குள்ளானது.
+
+இதன் போது பொத்துவில் பொலிஸ் பிரிவுக்குட்பட்ட பொத்துவில் ஊறணி காட்டுப்பகுதியில்  யானையுடன் மோதுண்டு குறித்த கார் பலத்த சேதமடைந்ததுடன் அதில்  பயணித்த குடும்பம் தெய்வாதீனமாக காயங்கள் ஏதுமின்றி  தப்பியுள்ளனர்.
+
+மேலும் குறித்த பகுதிகளில் பிரதான வீதியில்  இரவு மற்றும் மாலை மற்றும் இரவு நேரங்களில் யானைகளின் நடமாட்டம் அதிகமாக காணப்படுவதாக பயணிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/5abff311.json)
+
+---
+
+### கரூர் : உயிரிழந்தவர்களின் குடும்பத்தினருக்கு தலா ரூ. 20 லட்சம் : தவெக
+
+*2025-09-28 13:46:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-உயிரிழந்தவர்களின்-குடும்பத்தினருக்கு-தலா-ரூ-20-லட்சம்-தவெக/175-365409) · `ta`
+
+கரூரில்  நடந்த தவெக பிரசார கூட்டத்தில் ஏற்பட்ட கூட்ட நெரிசலில் 40 பேர் உயிரிழந்தனர். இந்நிலையில், கூட்ட நெரிசலில் உயிரிழந்தவர்களின் குடும்பத்தினருக்கு தலா ரூ. 20 லட்சம் நிவாரணம் வழங்கப்படும் என்று தமிழக வெற்றிக் கழக தலைவர் விஜய் அறிவித்துள்ளார்
+
+கற்பனைக்கும் எட்டாத வகையில், கரூரில் நேற்று நிகழ்ந்ததை நினைத்து, இதயமும் மனதும் மிகமிகக் கனத்துப் போயிருக்கும் சூழல். நம் உறவுகளை இழந்து தவிக்கும் பெருந்துயர்மிகு மனநிலையில், என் மனம் படுகிற வேதனையை எப்படிச் சொல்வதென்றே தெரியவில்லை. கண்களும் மனசும் கலங்கித் தவிக்கிறேன்.
+
+நான் சந்தித்த உங்கள் எல்லோருடைய முகங்களும் என் மனதில் வந்து போகின்றன. பாசமும் நேசமும் காட்டும் என் உறவுகளை நினைக்க நினைக்க, அது என் இதயத்தை மேலும் மேலும் அதன் இடத்திலிருந்தே நழுவச் செய்கிறது.
+
+என் சொந்தங்களே… நம் உயிரனைய உறவுகளை இழந்து தவிக்கும் உங்களுக்கு, சொல்லொணா வேதனையுடன் ஆழ்ந்த இரங்கலைத் தெரிவித்துக்கொள்கிறன். அதே வேளையில், இப்பெரும் சோகத்தை உங்கள் மனதுக்கு நெருக்கமாக நின்று பகிர்ந்துகொள்கிறேன்.
+
+...
+
+[Data](articles/469f7313.json)
 
 ---
 
@@ -93,23 +165,25 @@ According to the police, the class road leader also received statements regardin
 
 ---
 
-### දරුවෙකුට පහරදුන් හිටපු පීසී අත්අඩංගුවට
+### Former PC arrested for assaulting a child
 
 *2025-09-28 13:38:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවකට-පහරදන-හටප-පස-අතඅඩගවට/101-680350) · `si`
 
 පාසලකට කඩා වැදී 9 හැවිරිදි  දරුවෙකුට පහර දුන්  පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව නවගමුව පොලිසිය කියයි.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වැඩ තහනමට ලක් වූ කොස්තාපල්වරයෙකි. පහර කෑමට ලක් වූ දරුවා රෝහල් ගතව ඇත.
+The suspect is a constable with a suspended constable. The attacker was hospitalized.
 
-සැකකාර කොස්තාපල්වරයාගේ දියණිය සහ පහර කෑ දරුවා එකම පාසලේ එකම පන්තියක ඉගෙනුම ලබන අතර තවත් දරුවන් කීප දෙනෙකු සමග එකතුව සෙල්ලම් කරමින් සිටියදී දැරිය තල්ලුවී බිම වැටීමෙන් ඉදිරි දතේ කොටසක් කැඩී ගොස් ඇතැයි පොලිසිය කියයි.
+The suspect's daughter and the daughter of the suspected child are studying in the same class, while playing the collection with several other children, the girl has broken the girl.
 
-මෙයින් උරණව තිබූූ දැරියගේ පියා වන සැකකරු  පන්ති කාමරයට කඩා වැදී දරුවාට පහර දී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණයය වී ඇත.
+Police investigations have revealed that the suspect was the father of the girl who had been announced.
 
-අදාල පැමිණිල්ල සම්බන්ධයෙන් පන්ති පාර ගුරුතුමියගෙන්ද ප්‍රකාශ ලබා ගත් බව පොලිසිය කියයි.
+According to the police, the class road leader also received statements regarding the complaint.
 
 ◼️
 
 [Data](articles/9521d8ac.json)
+
+[Extended Data](ext_articles/9521d8ac.ext.json)
 
 ---
 
@@ -1281,6 +1355,20 @@ Meanwhile, Batticaloa is second to the list of those who live in and 172 people,
 
 ---
 
+### නුවරඑළිය ක්‍රීඩා සංකීර්ණය ඉදිකිරීම නැවැත්වීමෙන් කෝටි පහක් වතුරේ
+
+*2025-09-28 10:50:28* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය-ක්‍රීඩා-සංකීර්ණය-ඉදිකිරීම-නැවැත්වීමෙන්-කෝටි-පහක්-වතුරේ/11-418760) · `si`
+
+නුවරඑළිය ප්‍රදේශයේ මිටර් 1,895ක උසින් යුතු ක්‍රිඩා අමාත්‍යංශයට අයත්  හෙක්ටයාර් 34.5ක ඉඩමක  ඉදිකිරිමට සැලසුම්කොට තිබු  ක්‍රිඩා සංකිරණයක් ඉදිකිරිමේ ව්‍යාපෘතිය  නවතා දැමිම හේතුවෙන් මෙකි ව්‍යාපෘතිය සදහා  ණය සැලසුම් ගාස්තු ලෙස ගෙවා තිබු රුපියල් පන්කෝටි, දසලක්ෂ,හතලිස්හත්දහස් විසිඑකක මුදල (51,047,021)  නිෂ්කාර්ය වියදමක් බවට පත්ව  ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+
+2021 වර්ෂයේ දි මෙකි ව්‍යාපෘතිය නවතාදමා තිබු අතර  මේ හේ කොනතුවෙන් 2023 වර්ෂයේ දි  කොන්ත්‍රාත්කරු විසින්  යුරෝ  දෙකෝටි,තිස්ලක්ෂ,විසිහයදහස්,හාරසියදාහතයි ශත හැත්තැහයක (23,026,417.76)   වන්දි මුදලක් ඉල්ලා තිබුණි. ව්‍යාපෘතිය නවතා දැමිම නිසා මෙකි ව්‍යාපෘතියේ උපදේශන ආයතනය වන  මොරටුව  විශ්වවිද්‍යාලය විසින් තිස්හත්කෝටි,අසුලක්ෂ,හැටහත්දහසක  (378,067,000)  වන්දි මුදලක් ද ඉල්ලුම්කොට තිබුණි.
+
+...
+
+[Data](articles/cdba2f05.json)
+
+---
+
 ### Cable car crash; more death of a monk
 
 *2025-09-28 10:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்து-மேலும்-ஒரு-துறவி-மரணம்/175-365397) · `ta`
@@ -1878,101 +1966,5 @@ The Western Province North Criminal Division is conducting further investigation
 [Data](articles/fc223000.json)
 
 [Extended Data](ext_articles/fc223000.ext.json)
-
----
-
-### Teenage boy dies after being hit by train in Rambukkana
-
-*2025-09-28 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/112982/teenage-boy-dies-after-being-hit-by-train-in-rambukkana-) · `en`
-
-A 14-year-old boy has been killed after being hit by an express train at the Tismalpola railway station in the Rambukkana police division.
-
-The deceased has been identified as a resident of Medagama, police said.
-
-The boy had visited the Tismalpola station with several friends on a train traveling from Rambukkana to Colombo Fort. After getting off, he has stepped onto the railway track instead of the platform.
-
-At that moment, an express train en route from Badulla to Colombo Fort had approached and fatally struck him, according to preliminary police investigations.
-
-The Rambukkana Police is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/097f3be3.json)
-
-[Extended Data](ext_articles/097f3be3.ext.json)
-
----
-
-### "Angi Kingdom"; The government should unite to defeat the government to bring about the constitution - Gajendrakumar says - Gajendrakumar
-
-*2025-09-28 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226278) · `ta`
-
-Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front (TNA), has said that the National People's Power Government is not a complete solution for the Tamils.
-
-A workshop was held in Switzerland from the 14th to 21st to clarify the members of the Sri Lankan ruling and opposition parties on the country's federal political system and national integrity of the country in connection with the Sri Lanka -Switzerland Parliamentary Alliance Association.
-
-A public meeting was held with 13 members who went there to represent Sri Lanka's ruling and opposition parties.
-
-Commenting on issues including the solution to the ethnic problem, Dr. Nihal Abeysinghe, the General Secretary of the National People's Power and Member of Parliament, said that the new constitutional draft prepared from 2015 to 2019 to 2019 and amendments to the political parties.
-
-...
-
-[Data](articles/f2316914.json)
-
-[Extended Data](ext_articles/f2316914.ext.json)
-
----
-
-### Special test action in Maradana; 30 arrested
-
-*2025-09-28 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226273) · `ta`
-
-Special raids were carried out by the police in Colombo - Maradana on Saturday evening (27).
-
-◼️
-
-[Data](articles/4e152d06.json)
-
-[Extended Data](ext_articles/4e152d06.ext.json)
-
----
-
-### Children's Day National Week: Minister Saroja Savitri Bolraj participates in the 1929 support service awareness sticker event
-
-*2025-09-28 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226272) · `ta`
-
-Women and Child Affairs Minister Saroja Savitri Bolraj said that she participated in the 1929 Children's Service Service Service Service, organized by the National Children's Safety Commission on Friday, 26th, to mark the second day of the "Children's Day National Week" announced for World Children's Day in 2025.
-
-The Minister of Women and Child Affairs has said that the vehicles carrying school children have been inspected by the National Transport Authority officials; Noted.
-
-The Minister of Women and Child Affairs said that the school's transport vehicle owners and drivers who participated in the event were also likely to exchange comments.
-
-And boys in traffic in the future; He also noted that this conversation would be an encouragement for the success of the actions taken to protect.
-
-...
-
-[Data](articles/b374af39.json)
-
-[Extended Data](ext_articles/b374af39.ext.json)
-
----
-
-### Child dies after collision with train
-
-*2025-09-28 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215087) · `si`
-
-A boy was killed after collision with a train traveling from Badulla to Colombo Fort at the Rambukkana Police Division in Rambukkana Police Division.
-
-The victim was a 14 year old resident of the Medagama area.
-
-The deceased has visited the Rambukkana railway station from Rambukkana to Colombo Fort and went down to the railway stage while traveling from the train.
-
-Preliminary investigations have revealed that he had collided with the train from Badulla to Colombo Fort.
-
-◼️
-
-[Data](articles/b7ca0f28.json)
-
-[Extended Data](ext_articles/b7ca0f28.ext.json)
 
 ---

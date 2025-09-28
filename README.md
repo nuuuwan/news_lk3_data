@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 13:05:49**
+As of **2025-09-28 13:38:45**
 
 ## Newspaper Stats
 
-*Scraped **79,148** Articles*
+*Scraped **79,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,90 +20,138 @@ dailyftlk | 5,565
 adalk | 7,633
 adaderanalk | 10,222
 tamilmirrorlk | 11,855
-virakesarilk | 12,873
+virakesarilk | 12,875
 adaderanasinhalalk | 13,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,142 (100.0%) of 79,148 articles have been extended.
+79,148 (100.0%) of 79,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### මහින්ද බලන්න රනිල් කාල්ටන් නිවසට යයි
+### அதிகரிக்கும் அமெரிக்க -  இலங்கை நெருக்கம்
+
+*2025-09-28 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226293) · `ta`
+
+2025 செப்­டெம்பர் மாதம் இடம்­பெற்ற பல நிகழ்­வுகள் அமெ­ரிக்­கா­வுக்கும் இலங்­கைக்கும் இடை­யி­லான பாது­காப்பு உற­வு­களில் ஏற்­பட்டு வரு­கின்ற,  தலைகீழ் மாற்­றத்தை உணர்த்­து­வ­தற்கு போது­மா­னது.
+
+◼️
+
+[Data](articles/16aa7946.json)
+
+---
+
+### Ranil to visit Carlton
 
 *2025-09-28 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215097) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අතර හමුවක් අද (28) පෙරවරුවේ තංගල්ල කාල්ටන් නිවසේදී පැවැත්විණි.
+Former President Ranil Wickremesinghe met with former President Mahinda Rajapaksa at Carlton House this morning.
 
-ඒ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කතරගම සිට කොළඹ බලා පැමිණෙන අතරවාරයේදීය.
+The former President Ranil Wickremesinghe is from Kataragama to Colombo.
 
-එහිදී තමන් සිරගත කළ අවස්ථාවේදී කළ කාර්යභාරය සම්බන්ධයෙන් රනිල් වික්‍රමසිංහ මහතා මෙහිදී මහින්ද රාජපක්ෂ මහතාට සිය ස්තූතිය පළ කළේය.
+Ranil Wickremesinghe thanked Mahinda Rajapakse regarding the role of his role.
 
-එමෙන්ම කාල්ටන් නිවසට පැමිණි රනිල් වික්‍රමසිංහ මහතා මහින්ද රාජපක්ෂ මහතාගේ සැප සනීප සම්බන්ධයෙන්ද විමසා බැලීමට පියවර ගනු ලැබීය.
+Ranil Wickremesinghe was also taken to consult with Mr. Mahinda Rajapaksa's pleasure.
 
 ◼️
 
 [Data](articles/b0d0a1a4.json)
 
+[Extended Data](ext_articles/b0d0a1a4.ext.json)
+
 ---
 
-### මහින්ද බලන්න රනිල් යයි
+### உலகின் மிக உயரமான பாலம் சீனாவில் திறப்பு
+
+*2025-09-28 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226300) · `ta`
+
+சீனாவிலுள்ள உலகின் மிக உயரமான ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் இன்று ஞாயிற்றுக்கிழமை (28) போக்குவரத்துக்காக திறக்கப்பட்டுள்ளது.
+
+மூன்று வருடங்களில் கட்டுமான பணிகளை நிறைவு செய்து குய்சோவில் உள்ள மற்றொரு பாலத்தின் பொறியியல் சாதனையை  இந்த பாலம் முறியடித்துள்ளது.
+
+சீனாவின் கரடுமுரடான தெற்கு மாகாணமான குய்சோவில் உள்ள நதி மற்றும் பரந்த பள்ளத்தாக்கின் மேலே 625 மீட்டர் உயரத்தில் ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் அமைந்துள்ளது.
+
+உலகின் இரண்டாவது மிக உயரமான 565 மீட்டர் பெய்பன்ஜியாங் பாலமும் குய்சோவிலேயே உள்ளது.
+
+இந்த பாலம்  திறப்பு நிகழ்வில் திட்ட பொறியாளர்கள் மற்றும் உள்ளூர் அதிகாரிகள் உட்பட ஏராளமான பார்வையாளர்கள் கலந்து கொண்டனர் என தெரிவிக்கப்படுகிறது.
+
+“ஹுவாஜியாங் கிராண்ட் கேன்யன் பாலம் திறக்கப்படுவதன் மூலம் இரு பகுதிகளுக்கும் இடையிலான பயண நேரம் இரண்டு மணி நேரத்திலிருந்து இரண்டு நிமிடங்களாகக் குறையும்” என மாகாண போக்குவரத்துத் திணைக்களத் தலைவர் ஜாங் யின் கடந்த  24 ஆம் திகதி அன்று தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/ef96ec08.json)
+
+---
+
+### Look at Mahinda Ranil
 
 *2025-09-28 12:45:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-බලනන-රනල-යය/101-680349) · `si`
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සුව දුක් විමසීම සඳහා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද පෙරවරුවේ කාල්ටන් නිවසට ගියේය.
+Former President Ranil Wickremesinghe visited the Carlton house this morning to consult former President Mahinda Rajapaksa.
 
-එහිදී මහින්ද රාජපක්ෂ මහතා "ආයුබෝවන්" කියා ඉතා සුහදශීලීව රනිල් වික්‍රමසිංහ මහතා පිළිගත්තේය.
+Ranil Wickremesinghe welcomed the "hello 'and was very friendly.
 
-හිටපු නායකයන් දෙදෙනා වත්මන් දේශපාලන තොරතුරු මෙන්ම ආගිය කතා කියමින් මඳ වේලාවක් රැඳී සිට තිබේ.
+The two ex-leaders have been staying in the current political information and the late stories.
 
 ◼️
 
 [Data](articles/fb22d892.json)
 
+[Extended Data](ext_articles/fb22d892.ext.json)
+
 ---
 
-### ආයතන 457ක නියෝජිතයින්ට කෝප් කමිටුවෙන් කැඳවීමක්
+### 457 institutions summoned from the COPE Committee
 
 *2025-09-28 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215096) · `si`
 
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවට අදාළ සියලු ආයතන වෙත කෝප් කමිටුවෙන් කැඳවීමක් සිදුකර තිබේ.
+The COPE has been summoned to all institutions on the Committee on Public Enterprises or COPE.
 
-ලබන ඔක්තෝබර් මස 02 වන දින මෙම කැඳවීම සිදුකර ඇති බව කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා සඳහන් කළේය.
+Chairman of the COPE committee, Dr. Nishantha Samaraweera said that the call was carried out on the 2nd of October.
 
-කෝප් කමිටුවේ සිදුවන කාර්යය භාරය සහ එහි කටයුතු ඉදිරියට පවත්වා ගෙන යාමේදී මතුව ඇති ගැටලුකාරී තත්ත්වයන් පිළිබඳව සාකච්ඡා කිරීමේ අරමුණින් මෙම කැඳවීම සිදුකර ඇත.
+The call has been taken to discuss the problems of the COPE and the problems that have arisen at the proceedings of the COPE.
 
-මේ වන විට පොදු ව්‍යාපාර පිළිබඳ කාරය සභාව හෙවත් කෝප් කමිටුවට රාජ්‍ය ව්‍යාපාර 457ක් අයත් වන අතර එම ආයතනවල ලේකම්වරුන්ට මේ සම්බන්ධයෙන් ලිඛිතව දැනුම් දී ඇති බව වෛද්‍ය නිශාන්ත සමරවීර මහතා වැඩිදුරටත් සඳහන් කළේය.
+Dr. Nishantha Samaraweera added that the church of the public owns 457 state enterprises.
 
-අදාළ ආයතනවල විගණනයන් පිළිබඳව සහ ඒ වායේ ක්‍රියාකාරීත්වය පිළිබඳව මූලිකව තොරතුරු ලබා ගැනීම මෙහිදී සිදු කිරීමට නියමිතව තිබේ.
+It is due to obtain basic information on the audits of the relevant institutions and the performance of that gase.
 
-ඔක්තෝබර් මස 02 වන දින පාර්ලිමේන්තු සංකීර්ණයේදී මෙම සාකච්ඡාව පැවැත්වීමට නියමිතය.
+The discussion is scheduled to be held at the parliament complex on October 2.
 
 ◼️
 
 [Data](articles/fe9b4f64.json)
 
+[Extended Data](ext_articles/fe9b4f64.ext.json)
+
 ---
 
-### අනුර ජපානේ ලාංකිකයන් හමුවෙන්න කෝච්චියෙන් යයි
+### Meet the Sri Lankan Sri Lankans visit train
 
 *2025-09-28 12:38:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අනර-ජපන-ලකකයන-හමවනන-කචචයන-යය/101-680348) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ටෝකියෝහිදී අද (28) පස්වරුවේ ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව හමුවීමට නියමිතය.
+President Anura Kumara Dissanayake is due to meet the Sri Lankan community in Japan at Tokyo.
 
-සිය තෙදින ජපාන නිල සංචාරය ආරම්භ කරමින් ජනාධිපතිවරයා ඊයේ (27) දිනයේදී ජපානයට පැමිණියේය.
+The President arrived in Japan yesterday (27), commenced his three-day Japanese official visit.
 
-එහිදී  ශ්‍රී ලංකාවේ ජපාන තානාපති අකියෝ ඉසොමතා (Akio ISOMATA), ජපානයේ සිටින ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ ජපාන විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු විසින් ජනාධිපතිවරයා හරසරින් පිළිගනු ලැබීය.
+Sri Lanka's Ambassador of Japan Akio Soometa (AKIO ISOMATA), Sri Lankan Ambassador to Japan, the President was convinced by senior officials of the Ministry of External Affairs Janaka Kumarasinghe.
 
-ඊයේ පැවති වැඩසටහන් වලින් අනතුරුව අද (28) උදෑසන Shin- Osaka දුම්රියපොළින් ටෝකියෝ හි     Shinkansen දුම්රියපොළ බලා පිටත් වූ ජනාධිපතිවරයා අද පස්වරුවේ ටෝකියෝහිදී  ජපානයේ වෙසෙන ශ්‍රී ලාංකික ප්‍රජාව හමුවීමට නියමිතය.
+The President has left the Shin-OSAKA train to Tokyo on Tokyo this evening this afternoon, the President will visit Sri Lanka in Japan.
 
-...
+During his visit, President Anura Kumara Dissanayake will meet the Natural Emperor Prime Minister, Japanese Chief Minister, Economic, Trade and Industries Minister.
+
+The President will also participate in the Sri Lanka Investment Forum organized by the Sri Lanka and Japanese Chambers.
+
+Minister of Foreign Affairs and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs have joined the visit with President Anura Kumara Dissanayake.
+
+◼️
 
 [Data](articles/6d44384a.json)
+
+[Extended Data](ext_articles/6d44384a.ext.json)
 
 ---
 
@@ -121,17 +169,19 @@ Ducati's Marc Marquez clinched his seventh MotoGP championship at the Japanese G
 
 ---
 
-### බටලන්ද වාර්තාවටවෙච්ච දේ
+### What happened to Batalanda report
 
 *2025-09-28 12:34:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බටලනද-වරතවටවචච-ද/101-680347) · `si`
 
-බටලන්ද කොමිෂන් සභා වාර්තාව  නීතිපතිවරයාට යොමු කර ඇතැයි   මහජන ආරක්ෂක  සහ  පාර්ලිමේන්තු කටයුතු  අමාත්‍ය  ආනන්ද විජේපාල  මහතා පැවසීය.
+Minister of Public and Member of Parliament has said that the report of the Batalawa Commission has been sent to the Attorney General.
 
-නීතිපතිවරයා ඒ සම්බන්ධයෙන් අවශ්‍ය  සුදුසු  ක්‍රියාමාර්ග ගනු ඇතැයිද  හෙතෙම   සඳහන් කළේය. බටලන්ද කොමිෂන්  සභා වාර්තාව පාර්ලිමේන්තුවටද පසුගියදා ඉදිරිපත් කෙරිණ.
+The Attorney General will take appropriate action. The report of the Batalawa commission was presented recently.
 
 ◼️
 
 [Data](articles/2fe684ff.json)
+
+[Extended Data](ext_articles/2fe684ff.ext.json)
 
 ---
 
@@ -151,19 +201,21 @@ Ranil Wickremesinghe admitted that he was friendly and friendly. The two ex-lead
 
 ---
 
-### අර්ජුන මහේන්ද්‍රන් ඕනෑ: සිංගප්පූරුවට දන්වයි
+### Arjuna Mahendran should be sent to Singapore
 
 *2025-09-28 12:26:16* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අරජන-මහනදරන-ඕන-සගපපරවට-දනවය/101-680345) · `si`
 
-හිටපු මහ බැංකු අධිපති අර්ජුන මහේන්ද්‍රන් අත්අඩංගුවට ගැනීමේ උත්සාහය අතහැර නැතැයි මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල  මහතා පැවසීය.
+The Minister of Defense and Parliamentary Affairs Ananda Wijepala said that the attempt to arrest the former Central Bank Governor Arjuna Mahendran has not been abandoned.
 
-ඒ සඳහා උපාය  උපක්‍රම පාවිච්චි කරමින් සිටින බව  කී  අමාත්‍යවරයා  ඔහු ශ්‍රී ලංකාවට  අත්‍යවශ්‍ය පුද්ගලයෙකු යැයි  ඒ රටට  දැනුම් දී ඇති බවද  සඳහන් කළේය
+He said that he was using strategic tactics and said that he had informed the country as a essential person to Sri Lanka
 
-අර්ජුන් මහේන්ද්‍රන් නමත් වෙනස්කර සිංගප්පූරු ජාතිකයෙකු ලෙස එහි  ජීවත්වන බවත්  ඔහු අත්අඩංගුවට ගැනීමට ඒ රටේ  නීති රීති යම් බාධාවක්  බවත්  හෙතෙම  සඳහන් කළේය.
+The laws of the country said that Arjun Mahendran is also allegedly allocated and a Singapore.
 
 ◼️
 
 [Data](articles/3ec96cce.json)
+
+[Extended Data](ext_articles/3ec96cce.ext.json)
 
 ---
 
@@ -1912,37 +1964,5 @@ Sri Lanka’s natural rubber sector supports tens of thousands of smallholder fa
 [Data](articles/0a049292.json)
 
 [Extended Data](ext_articles/0a049292.ext.json)
-
----
-
-### Here's how we have been shut
-
-*2025-09-28 07:43:45* · [`adalk`](https://www.ada.lk/breaking_news/අද-වහින-හැටි-මෙන්න/11-418756) · `si`
-
-Several spells of showers in the Western, Sabaragamuwa and North Western provinces and several showers will occur in Galle, Kandy and Nuwara Eliya Districts.
-
-Uva Province. Showers or thundershowers will occur at several places, about 2.00.
-
-At least one of the districts in the North, North-Central, North-Western and Central provinces in the North, North-Central, Northwestern and Central provinces.. The Department says that there is about strong winds in about 40-50.
-
-◼️
-
-[Data](articles/c69b7d30.json)
-
-[Extended Data](ext_articles/c69b7d30.ext.json)
-
----
-
-### Showers And Strong Winds Expected In Several Areas
-
-*2025-09-28 07:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/showers-and-strong-winds-expected-in-several-areas) · `en`
-
-Colombo (News 1st); The Meteorological Department has announced that Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
-
-◼️
-
-[Data](articles/ee940913.json)
-
-[Extended Data](ext_articles/ee940913.ext.json)
 
 ---

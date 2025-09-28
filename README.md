@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 09:25:53**
+As of **2025-09-28 10:08:30**
 
 ## Newspaper Stats
 
-*Scraped **79,047** Articles*
+*Scraped **79,056** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 358
-newsfirstlk | 446
+newsfirstlk | 447
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -17,21 +17,97 @@ economynextcom | 4,732
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,628
-adaderanalk | 10,212
-tamilmirrorlk | 11,840
+adalk | 7,629
+adaderanalk | 10,215
+tamilmirrorlk | 11,842
 virakesarilk | 12,845
-adaderanasinhalalk | 13,721
+adaderanasinhalalk | 13,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,047 (100.0%) of 79,047 articles have been extended.
+79,056 (100.0%) of 79,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### 14-Year-Old Student Killed by Train at Rambukkana
+
+*2025-09-28 09:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/14-year-old-student-killed-by-train-at-rambukkana) · `en`
+
+Colombo (News 1st):A 14-year-old student has died after being hit by a train at the Rambukkana-Tismalpola railway station.Police stated that he had arrived at Tismalpola station with a group of friends on a train running from Rambukkana to Colombo Fort.At the time, he stepped onto the railway track instead of the platform, police said.The student was struck by a train traveling from Badulla to Colombo Fort and died on the spot.The deceased is a resident of Medagama.
+
+◼️
+
+[Data](articles/44dab670.json)
+
+[Extended Data](ext_articles/44dab670.ext.json)
+
+---
+
+### Two youths arrested for robbery of jewelery worth Rs
+
+*2025-09-28 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215088) · `si`
+
+Two suspects have been arrested in Kiribathgoda, who was attacked by a person and the robbery of jewelery worth about Rs.
+
+The two men were arrested following a special investigation made by a team of officers of the Western Province.
+
+The arrested persons were 17 and 20 youths of the aged 17 and 20 years of age.
+
+The gold items carried out from the suspects were found two milligrams of gold and 3 milligrams of gold and 15 mg 15 milligrams.
+
+The Western Province North Criminal Division is conducting further investigations.
+
+◼️
+
+[Data](articles/fc223000.json)
+
+[Extended Data](ext_articles/fc223000.ext.json)
+
+---
+
+### Child dies after collision with train
+
+*2025-09-28 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215087) · `si`
+
+A boy was killed after collision with a train traveling from Badulla to Colombo Fort at the Rambukkana Police Division in Rambukkana Police Division.
+
+The victim was a 14 year old resident of the Medagama area.
+
+The deceased has visited the Rambukkana railway station from Rambukkana to Colombo Fort and went down to the railway stage while traveling from the train.
+
+Preliminary investigations have revealed that he had collided with the train from Badulla to Colombo Fort.
+
+◼️
+
+[Data](articles/b7ca0f28.json)
+
+[Extended Data](ext_articles/b7ca0f28.ext.json)
+
+---
+
+### Vietnam evacuates thousands, shuts airports as Typhoon Bualoi nears
+
+*2025-09-28 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112981/vietnam-evacuates-thousands-shuts-airports-as-typhoon-bualoi-nears) · `en`
+
+Vietnam closed airports and evacuated thousands of people in potentially affected areas on Sunday (Sep 28) as intensifying Typhoon Bualoi barrelled towards the country, days after causing at least 10 deaths and widespread flooding in the Philippines.
+
+The typhoon, which was packing wind speeds of up to 133 kmh as of 9am local time, is expected to make landfall in central Vietnam late on Sunday, earlier than previous forecasts as it was travelling fast, according to Vietnam’s national weather forecast agency.
+
+“This is a rapidly moving storm - nearly twice the average speed - with strong intensity and a broad area of impact. It is capable of triggering multiple natural disasters simultaneously, including powerful winds, heavy rainfall, flooding, flash floods, landslides, and coastal inundation,” the agency added.
+
+Authorities in the central province of Ha Tinh have started to evacuate more than 15,000 people, the government said, adding that thousands of troops were standing ready.
+
+...
+
+[Data](articles/94e87a21.json)
+
+[Extended Data](ext_articles/94e87a21.ext.json)
+
+---
 
 ### Several showers today
 
@@ -50,6 +126,66 @@ Winds from Galle to Matara and Hambantota from time to time in the sea areas off
 [Data](articles/eb495c50.json)
 
 [Extended Data](ext_articles/eb495c50.ext.json)
+
+---
+
+### We are rebuilding the standard economy
+
+*2025-09-28 08:27:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலையான-பொருளாதாரத்தை-மீளக்-கட்டியெழுப்புகின்றோம்/175-365391) · `ta`
+
+President Anura Kumara Dissanayake has said that Sri Lanka is currently rebuilding the stable and participation economy, which has faced a series of challenges and ensures that the quality of life of all citizens will be improved through that prosperity.
+
+The President made this statement while addressing the Sri Lanka Day event held at the 'Expo 2025 World Exhibition in Osaka, Japan.
+
+In his speech, the president stressed the Sri Lankan commitment to friendship, general goals and Sri Lanka's commitment to economic change.
+
+Friendship is one of the precious bonds of mankind. It combines individuals, communities and cultures, crosses the borders and combines countries to create a better world.
+
+The 'Expo 2025' exhibition serves as a global platform for more than 150 countries to express mutual friendship, harmony, cultural diversity and human values.
+
+...
+
+[Data](articles/9e17158a.json)
+
+[Extended Data](ext_articles/9e17158a.ext.json)
+
+---
+
+### Stampede at Vijay’s Karur rally: Death toll rises to 38
+
+*2025-09-28 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/112979/stampede-at-vijays-karur-rally-death-toll-rises-to-38) · `en`
+
+The toll from the stampede at actor Vijay’s public rally in Karur has risen to 38, Tamil Nadu DGP G Venkataraman said on Sunday.
+
+The crowd swelled due to the delayed arrival of the actor-politician to the venue and they lacked sufficient food and water during the waiting hours under the hot sun, he told reporters here.
+
+“An unfortunate incident happened; a regrettable one. As per latest information, 38 have persons have died. They are 12 men, 16 women and 10 children,” he said in an early morning briefing.
+
+He further said there was a crowd surge after the official Twitter handle of Vijay’s TVK party mentioned that he would arrive at the meeting venue by 12 noon.
+
+“Permission (for the meeting) was sought for between 3 pm-10 pm. The TVK Twitter account said he will come at 12 and crowd started coming in from 11 AM. He came at 7.40 PM. The people lacked sufficient food water under the hot sun.”
+
+...
+
+[Data](articles/3a63de28.json)
+
+[Extended Data](ext_articles/3a63de28.ext.json)
+
+---
+
+### Child dies after collision with train
+
+*2025-09-28 08:10:57* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියෙ-ගැටී-දරුවෙක්-මරුට/11-418757) · `si`
+
+Rambukkana Police have launched an investigation into a Message that a boy was killed and a boy who had been hit by the Rambukkana Police Division in Rambukkana Police Division.. The victim was a 14 year old resident of the Medagama area.
+
+The deceased has been revealed to the Thimbukkana Railway Station, which was traveling from Rambukkana to Colombo Fort and was collided with the railway train to the railway stage when the train was gone to the railway stage.. Rambukkana Police are conducting further investigations. The accident occurred yesterday (27).
+
+◼️
+
+[Data](articles/ed298d52.json)
+
+[Extended Data](ext_articles/ed298d52.ext.json)
 
 ---
 
@@ -74,6 +210,24 @@ He reiterated that the Tehran had no intention of developing nuclear weapons, he
 [Data](articles/1d799a0e.json)
 
 [Extended Data](ext_articles/1d799a0e.ext.json)
+
+---
+
+### Trump orders deployment of troops to Portland, ICE facilities
+
+*2025-09-28 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/112978/trump-orders-deployment-of-troops-to-portland-ice-facilities) · `en`
+
+U.S. PresidentDonald Trump on Saturday said he was directing the U.S. military to deploy to Portland, Oregon and to protect federal immigration facilities against “domestic terrorists”, saying he was authorizing them to use “full force, if necessary.”
+
+Ordering the latest crackdown on a Democrat-led city, Trump said in a social media post that he was directing Defense Secretary Pete Hegseth “to provide all necessary Troops to protect War ravaged Portland, and any of our ICE Facilities under siege from attack by Antifa, and other domestic terrorists.”
+
+Portland Mayor Keith Wilson, who like other Oregon officials learned of Trump’s order from social media, said: “The number of necessary troops is zero, in Portland and any other American city. The president will not find lawlessness or violence here unless he plans to perpetrate it.”
+
+...
+
+[Data](articles/aff3983b.json)
+
+[Extended Data](ext_articles/aff3983b.ext.json)
 
 ---
 
@@ -186,6 +340,24 @@ The police have also had to prosecute a District Secretary to the police, a part
 [Data](articles/8d5d2e18.json)
 
 [Extended Data](ext_articles/8d5d2e18.ext.json)
+
+---
+
+### Increase in the number of casualties in Karur
+
+*2025-09-28 06:49:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூரில்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-365388) · `ta`
+
+The TWC held in Karur. 39 people, including children and women, died tragically during the meeting. Also, many are being treated for life -threatening conditions.
+
+In this case, the Emergency Assistance Center of Karur District Collector's Office Emergency Assistance Center has been announced to find out about the victims of the accident in Karur.
+
+As the Karur crowds are rising, "I am going to Karur tonight and meet the families of the dead in the tragedy, to console and visit the hospital." Tamil Nadu Chief Minister MK Stalin said. (A)
+
+◼️
+
+[Data](articles/65766a0a.json)
+
+[Extended Data](ext_articles/65766a0a.ext.json)
 
 ---
 
@@ -1818,173 +1990,5 @@ Opposition Leader Sajith Premadasa paid a final tribute to the Buddhists today (
 [Data](articles/8c2f8890.json)
 
 [Extended Data](ext_articles/8c2f8890.ext.json)
-
----
-
-### Special Events on World Tourism Day in Nanuoya - Audi Foreigners
-
-*2025-09-27 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226248) · `ta`
-
-World Travel Day is celebrated every year from September 27, 1980, according to a special event to celebrate the tourism industry which is celebrated for its role in economic development at the Nanu Oya Railway Station.
-
-The event was greeted by a special guests of the school's bandwidth parade team from the main road to the Nanuoya Railway Station, Nuwara Eliya - Thalawakalai.
-
-A special reception for foreign and domestic tourists who attended the event was a great enjoyment of some foreign tourists.
-
-During the shadow on Saturday (27), the dances of schoolchildren were performed to entertain the tourists who were traveling from Nanuoya Railway Station at the Nanuoya Railway Station.
-
-The event was attended by top officials of the Nanuoya Railway Station, Nuwara Eliya City's Tourist Hostel Officers, Officers, Nuwara Eliya Tourism Police Security Officers, Nanuoya Police Station Officers, Nanuoya Nagar Foreign School Principal, Teachers and the General.
-
-◼️
-
-[Data](articles/19a6d767.json)
-
-[Extended Data](ext_articles/19a6d767.ext.json)
-
----
-
-### 1,916 road accidents registered within this year!
-
-*2025-09-27 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226246) · `ta`
-
-1,916 road accidents have been reported in the period of 2025, police said.
-
-2,037 people were killed and 3,787 injured during the accident, police said.
-
-The police have asked the public and motorists to adhere to the street rules and act responsibly.
-
-◼️
-
-[Data](articles/3d782347.json)
-
-[Extended Data](ext_articles/3d782347.ext.json)
-
----
-
-### Central Provincial Public Officers informed of AI Technology
-
-*2025-09-27 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215073) · `si`
-
-Government Executive Officers on Government Digitization Program and AI Technology Use of Government Executives were held at the Kandy District Secretariat yesterday (26).
-
-The program was organized by the provincial council, the Central Provincial Council, District Secretariats, Divisional Secretariats, Divisional Secretariats, Divisional Secretariats and other other institutions on government digital plans.
-
-Six programs to educate government officials on digitizing and AI technology have been conducted and more than 4,000 officers participated.
-
-It is planned to educate all government officials who are outside Colombo about the functioning of the State Officer and AI technology to use this program at the provincial digitization plan to cover all provinces.
-
-This program is organized by the Presidential Secretariat, the Digital Economic Ministry and ICT Agency (ICTA).
-
-Dr. Hans Wijayasuriya of Dr. Hans Wijayasuriya, Information Technology Agency of IT Agency
-
-...
-
-[Data](articles/be8f302c.json)
-
-[Extended Data](ext_articles/be8f302c.ext.json)
-
----
-
-### President and Trump meet
-
-*2025-09-27 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215072) · `si`
-
-President Anura Kumara Dissanayake and the US President have met with Donald Trump.
-
-The US President had warmly welcomed by Anura Kumara Dissanayake and a friendly chat was also engaged in a friendly chat.
-
-The meeting was held during the special dinner of the United Nations leaders who had arrived in New York to attend the 80th session of the United Nations General Assembly.
-
-◼️
-
-[Data](articles/5f3e848b.json)
-
-[Extended Data](ext_articles/5f3e848b.ext.json)
-
----
-
-### Arrested for selling liquor bottles for school children
-
-*2025-09-27 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226247) · `ta`
-
-A suspect has been arrested by the Moneragala police for selling liquor bottles to students who go to school and higher classes.
-
-The suspect has been arrested with a motorcycle near a school in the Moneragala - Kumbukanai area.
-
-The arrested suspect has been reported to have sold liquor bottles to school students and students who go to the upper classes on a motorbike.
-
-◼️
-
-[Data](articles/08d98e15.json)
-
-[Extended Data](ext_articles/08d98e15.ext.json)
-
----
-
-### I will write the budget ...
-
-*2025-09-27 16:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்ஜெட்டை-இந்த-பேனாவுலதான்-எழுதுவேன்/175-365368) · `ta`
-
-◼️
-
-[Data](articles/834d9295.json)
-
-[Extended Data](ext_articles/834d9295.ext.json)
-
----
-
-### South Korea has asked Trump to be ‘peacemaker’ with North Korea: FM Hyun
-
-*2025-09-27 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/112963/south-korea-has-asked-trump-to-be-peacemaker-with-north-korea-fm-hyun) · `en`
-
-South Korea’s president has asked President Donald Trump to become a peacemaker and use his leadership to get North Korea to talks to reduce military tensions on the Korean Peninsula, the South’s top diplomat said Friday.
-
-Trump welcomed the request from President Lee Jae-myung and he expressed his willingness to be engaged with North Korea again, Foreign Minister Cho Hyun said in an interview with The Associated Press. There was no immediate word from the White House.
-
-Trump and North Korean leader Kim Jong Un met three times as North Korea was building a nuclear weapons stockpile, which Kim views as key to the country’s security and his continued rule of the northeast Asian country.
-
-...
-
-[Data](articles/2b5a51e2.json)
-
-[Extended Data](ext_articles/2b5a51e2.ext.json)
-
----
-
-### It rains this evening
-
-*2025-09-27 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215071) · `si`
-
-Several spells of showers can occur in the Western, Sabaragamuwa and North Western provinces, in Galle, Kandy and Nuwara Eliya districts.
-
-And the Uva Province is also in the Ampara District. Showers or thundershowers will occur at several places about 2.00.
-
-The North, North-Medium, North-Medium, North-Medium, North-Medium, North Western and Central provinces are also in the North, North-Central and Central provinces.. It is reported that 40-50 can cause strong winds.
-
-The Department of Meteorological Department requests to take necessary steps to minimize the damages caused by strong winds.
-
-◼️
-
-[Data](articles/d8d42cda.json)
-
-[Extended Data](ext_articles/d8d42cda.ext.json)
-
----
-
-### Seized many motorcycles
-
-*2025-09-27 15:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலரது-மோட்டார்-சைக்கிள்கள்-பறிமுதல்/175-365367) · `ta`
-
-Motorcycles have been confiscated for violating public transport laws in Ampara - Samanthurai.
-
-In the meantime, they have been confiscated due to the fact that motorcycles, without insurance, driving without a driver's license and wearing helmets.
-
-In addition, more than 20 suspects have been taken against the allegations of violating public transport laws, police said that legal action has been taken.. Remble
-
-◼️
-
-[Data](articles/c67e03ea.json)
-
-[Extended Data](ext_articles/c67e03ea.ext.json)
 
 ---

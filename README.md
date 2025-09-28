@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 21:37:56**
+As of **2025-09-28 21:56:13**
 
 ## Newspaper Stats
 
-*Scraped **79,271** Articles*
+*Scraped **79,274** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 412
-newsfirstlk | 458
+newsfirstlk | 460
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -19,7 +19,7 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,641
 adaderanalk | 10,238
-tamilmirrorlk | 11,867
+tamilmirrorlk | 11,868
 virakesarilk | 12,914
 adaderanasinhalalk | 13,743
 
@@ -27,11 +27,51 @@ adaderanasinhalalk | 13,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,271 (100.0%) of 79,271 articles have been extended.
+79,271 (100.0%) of 79,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### President Says Equal Application of Law Unites Citizens Across Party Lines
+
+*2025-09-28 21:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/president-says-equal-application-of-law-unites-citizens-across-party-lines) · `en`
+
+COLOMBO (News 1st) - President Anura Kumara Dissanayake, speaking during his official visit to Japan, said the fear some people feel when the law is applied equally to all citizens is evident in how they abandon party lines and unite as one. He shared these remarks while meeting with Sri Lankans in Tokyo today. He emphasized that having laws is not enough; their proper implementation is crucial. The President stressed the importance of confronting the damage caused over time and noted that the Anti-Corruption Act is now being enforced fairly, regardless of wealth or status.The President also said that evidence of certain past crimes has been destroyed.
+
+◼️
+
+[Data](articles/68a47be6.json)
+
+---
+
+### Ranil Travels to Carlton to Meet Mahinda
+
+*2025-09-28 21:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/ranil-travels-to-carlton-to-meet-mahinda) · `en`
+
+COLOMBO (News 1st) - Former President Ranil Wickremesinghe visited Former President Mahinda Rajapaksa at his Carlton residence in Tangalle, to inquire into the health of former President Mahinda Rajapaksa.
+
+Later, former Presidents Mahinda Rajapaksa and Ranil Wickremesinghe engaged in a cordial conversation.The former presidents further met with the members of the public from various parts of the country who had also gathered at the residence to meet the two former presidents.Several politicians who have served under both leaders were also present during the visit.
+
+◼️
+
+[Data](articles/e879eafe.json)
+
+---
+
+### மஹிந்த ராஜபக்சவை சந்தித்த இ.தொ.கா பிரதிகள்
+
+*2025-09-28 20:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-ராஜபக்சவை-சந்தித்த-இ-தொ-கா-பிரதிகள்/175-365425) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவை, இ.தொ.கா பொதுச்செயலாளரும் பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், மற்றும் இ.தொ.கா நிதிச்செயலாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான மருதப்பாண்டி ராமேஸ்வரன் ஆகியோர் இன்று (28) தங்காலை, கால்டன் இல்லத்தில் சந்தித்தனர்.
+
+இந்த சந்திப்பின் போது, அவர்கள் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவின் சுகநிலை குறித்தும் நலம் விசாரித்து உரையாடியதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/f802a9a7.json)
+
+---
 
 ### CWC copies met former President Mahinda Rajapaksa
 
@@ -1936,63 +1976,5 @@ The vote banks of the Muslim parties and the people's confidence in it. This is 
 [Data](articles/bb5e7116.json)
 
 [Extended Data](ext_articles/bb5e7116.ext.json)
-
----
-
-### சிறை­யி­ல­டைக்­கப்­படும் பிரான்ஸின்  முன்னாள் ஜனா­தி­பதி சார்­கோஸி
-
-*2025-09-28 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226298) · `ta`
-
-France's court has sentenced a five -year jail on criminal charges against France's former president Nicolas Sargos. Significantly, the court has ordered that he should be jailed until the verdict of the Sarcosi appealed against the verdict.
-
-◼️
-
-[Data](articles/e56b97aa.json)
-
-[Extended Data](ext_articles/e56b97aa.ext.json)
-
----
-
-### 80% of heart disease deaths globally are preventable, experts say
-
-*2025-09-28 13:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/112996/80-of-heart-disease-deaths-globally-are-preventable-experts-say-) · `en`
-
-It is regrettable that 80% of heart disease-related deaths worldwide are preventable, says Dr. Sampath Withanawasam, President of the Sri Lanka College of Cardiology.
-
-Speaking at an event held at the Viharamahadevi Park in Colombo, in view of World Heart Day, Dr. Withanawasam emphasized that the day’s main objective is to encourage collective action to prevent avoidable heart-related deaths.
-
-He highlighted that maintaining a simple and healthy lifestyle can significantly reduce the risk of heart disease. This includes regular physical activity, a healthy diet, avoiding smoking, managing stress, and undergoing regular health checkups.
-
-“Knowing how to identify a heart attack, its symptoms, and how to respond is not just the responsibility of medical professionals. It’s something everyone should be aware of.
-
-If you are informed and respond quickly, there is a lot doctors and nurses can do to help.
-
-...
-
-[Data](articles/0522bcf3.json)
-
-[Extended Data](ext_articles/0522bcf3.ext.json)
-
----
-
-### Testing of 51 lakh individuals; Speaker
-
-*2025-09-28 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226310) · `ta`
-
-More than one million individuals have been raided by the police so far this year.. According to police spokesman FU Woodler, police spokesman FU Woodler said that 4,630 suspects have been arrested in connection with various crimes.
-
-He made this special statement on Saturday (27).
-
-About 51 lakh individuals have been tested so far this year. Accordingly, 104 000 people have been subjected to further investigations.
-
-Of these, 4,630 suspects have been arrested in connection with various crimes.. The arrest of drugs and underworld groups is also being carried out by the police to reduce road accidents.
-
-As a replica, steps have been taken to implement the law against 46,909 drivers who have been drinking liquor and pursuing 3,404 cases of negligence at high speeds.
-
-...
-
-[Data](articles/32e59934.json)
-
-[Extended Data](ext_articles/32e59934.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 17:41:15**
+As of **2025-09-28 17:58:02**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,209 (100.0%) of 79,214 articles have been extended.
+79,214 (100.0%) of 79,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,37 +43,43 @@ COLOMBO (News 1st): SriLankan Airlines has reported a 10% increase in passenger 
 
 [Data](articles/51aa3c2d.json)
 
+[Extended Data](ext_articles/51aa3c2d.ext.json)
+
 ---
 
-### මැදවච්චිය අධිකරණයේ කා.කා.සහිකාවක මත් පෙති සමග මාට්ටු
+### Karawachchiya Court of Justice arrested with pills in a casa
 
 *2025-09-28 16:55:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදවචචය-අධකරණය-ක-ක-සහකවක-මත-පත-සමග-මටට/101-680364) · `si`
 
-මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ සේවිකාවක  මත්පෙති හතළිහක් සමග  සැකපිට ප්‍රශ්න කිරීම සඳහා අද සවස අත්අඩංගුවට ගත් බව මිහින්තලේ පොලිසිය කියයි.
+Mihintale police said that the suspects were arrested this evening to interrogation with a workers at the Medawachchiya Magistrate's Court.
 
-මෙම කාන්තාව මැදවච්චිය මහේස්ත්‍රාත් අධිකරණයේ කාර්යාල කාර්යය සහිකාවක ලෙස සේවය කරන්නියක බව මිහින්තලේ පොලිසිය කියයි.
+Mihintale Police say that the woman is a commercial partner in the Medawachchiya Magistrate's Court.
 
 ◼️
 
 [Data](articles/f8383a45.json)
 
+[Extended Data](ext_articles/f8383a45.ext.json)
+
 ---
 
-### ගහ ගත්ත අය දැන් තංගල්ලට බලන්න යනවා
+### People who have been attacked now go to Tangalle
 
 *2025-09-28 16:41:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගහ-ගතත-අය-දන-තගලලට-බලනන-යනව/101-680363) · `si`
 
-එකිනෙකා ගහ ගත්ත අය දැන් බලන්න තංගල්ලට යනවා යැයි ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේදී අද පැවසීය.
+President Anura Kumara Dissanayake said in Japan today to visit Tangalle.
 
-ජනාධිපතිවරයා මේ බව කීවේ ටෝකියෝ හි පැවති ශ්‍රී ලාංකික හමුවකදීය.
+The President said this at a Sri Lankan meeting held in Tokyo.
 
-"නීති හදපු අයම නීති කඩනවා නම් මොකද කරන්නේ.ඔවුන් දන්නවා නීතිය තියෙනවා ක්‍රියාත්මක වෙන්නේ නෑ කියලා.ඉස්සරහට අප නීතිය ක්‍රියාත්මක වන බව තහවුරු කරනවා.පක්ෂ හතළිහක් එක කාමරයකට එකතු වෙන්න තරම් අපි ඒක ඔප්පු කර තියෙනවා.
+"What if the law builders break the rules, what does the law do not work? We have proven that to join the law to join one room.
 
-මං දැක්කා අදත් තංගල්ලේ යනවා බලන්න.මේ එකිනෙකා ගහ ගත්ත අය.දූෂණ විරෝධී පනත හරියට ක්‍රියාත්මක වෙන බව මේ අය දැන් දන්නවා යනුවෙන් ද ජනාධිපතිවරයා කීය.
+I saw you today go to Tangalle. The President now knows that the anti-affair bill is acting properly.
 
 ◼️
 
 [Data](articles/e95f0161.json)
+
+[Extended Data](ext_articles/e95f0161.ext.json)
 
 ---
 
@@ -90,6 +96,8 @@ The Prime Minister further emphasized that this issue extends beyond schools and
 ...
 
 [Data](articles/5f602786.json)
+
+[Extended Data](ext_articles/5f602786.ext.json)
 
 ---
 
@@ -228,6 +236,8 @@ The overpopulation of monkeys and toque macaques has long been a persistent and 
 ...
 
 [Data](articles/d7f037f3.json)
+
+[Extended Data](ext_articles/d7f037f3.ext.json)
 
 ---
 

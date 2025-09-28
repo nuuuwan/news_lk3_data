@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 10:08:30**
+As of **2025-09-28 10:38:09**
 
 ## Newspaper Stats
 
-*Scraped **79,056** Articles*
+*Scraped **79,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,629
 adaderanalk | 10,215
-tamilmirrorlk | 11,842
+tamilmirrorlk | 11,843
 virakesarilk | 12,845
 adaderanasinhalalk | 13,723
 
@@ -27,11 +27,35 @@ adaderanasinhalalk | 13,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,056 (100.0%) of 79,056 articles have been extended.
+79,057 (100.0%) of 79,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### TV leader Vijay arrested? Home security
+
+*2025-09-28 09:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/த-வெ-க-தலைவர்-விஜய்-கைது-வீட்டுக்கு-பலத்த-பாதுகாப்பு/175-365392) · `ta`
+
+Indian media reports that police protection has been provided to the house of TV leader Vijay in Chennai.
+
+Following the demand for Karur, the security for his home has been increased.
+
+15 policemen are headed by a police inspector to Vijay's house in Neelangara.
+
+The action has been taken since last night. Earlier, the central government has already provided him with 'Y' section.
+
+It seems that all those who are suspicious of Vijay's house have been ordered to investigate.
+
+The police are providing security on both sides of the road in his house where Vijay is currently staying in Neelangara, Chennai.
+
+◼️
+
+[Data](articles/8bb42ae7.json)
+
+[Extended Data](ext_articles/8bb42ae7.ext.json)
+
+---
 
 ### 14-Year-Old Student Killed by Train at Rambukkana
 
@@ -1972,23 +1996,5 @@ The exhibition is also displayed in many countries of the world. Earlier, the ex
 [Data](articles/ae41beae.json)
 
 [Extended Data](ext_articles/ae41beae.ext.json)
-
----
-
-### Sajith's final tribute to monks died in a cable car accident
-
-*2025-09-27 16:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேபிள்-கார்-விபத்தில்-உயிரிழந்த-பிக்குகளுக்கு-சஜித்-இறுதி-அஞ்சலி/175-365369) · `ta`
-
-Seven monks from domestic and abroad were killed when a cable car crashed between the monasteries in the Aranya Senasana, Kurunegala, Melsiripura Na, collapsed.
-
-The bodies of the monks who died in this incident have been placed in the Melziripura Na Aranya Senasanasana.
-
-Opposition Leader Sajith Premadasa paid a final tribute to the Buddhists today (27).
-
-◼️
-
-[Data](articles/8c2f8890.json)
-
-[Extended Data](ext_articles/8c2f8890.ext.json)
 
 ---

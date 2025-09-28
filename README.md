@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 15:20:23**
+As of **2025-09-28 16:06:52**
 
 ## Newspaper Stats
 
-*Scraped **79,181** Articles*
+*Scraped **79,194** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 391
-newsfirstlk | 452
+lankadeepalk | 394
+newsfirstlk | 455
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
@@ -19,57 +19,243 @@ islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,636
 adaderanalk | 10,228
-tamilmirrorlk | 11,859
-virakesarilk | 12,885
+tamilmirrorlk | 11,862
+virakesarilk | 12,889
 adaderanasinhalalk | 13,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,173 (100.0%) of 79,181 articles have been extended.
+79,185 (100.0%) of 79,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
 
-### அமெரிக்காவில் ஹோட்டலில் துப்பாக்கி சூடு ; 3 பேர் உயிரிழப்பு
+### மன்னாரில் பொது முடக்கத்திற்கு அழைப்பு
+
+*2025-09-28 15:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-பொது-முடக்கத்திற்கு-அழைப்பு/175-365417) · `ta`
+
+மன்னாரில் முன்னெடுக்கப்படவுள்ள காற்றாலை திட்டத்திற்கு எதிராகவும்,மக்கள் மீது பொலிஸார் மேற்கொண்ட தாக்குதல் சம்பவத்தை கண்டித்தும் திங்கட்கிழமை (29) அன்று மன்னாரில் முன்னெடுக்கப்படவுள்ள பொது முடக்கம்  போராட்டத்திற்கு அனைத்து தரப்பினரும் பூரண ஒத்துழைப்பை வழங்க வேண்டும் என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் கோரிக்கை விடுத்துள்ளார்.
+
+மன்னாரில் ஞாயிற்றுக்கிழமை (28) அன்று 57 ஆவது நாளாக போராட்டம் இடம் பெற்று வரும் நிலையில் அங்கு இடம்பெற்ற ஊடக சந்திப்பில் கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+மன்னார் மாவட்டம் முழுவதும் திங்கட்கிழமை(29) அன்று பொது முடக்களுக்கு அழைப்பு விடுக்கின்றோம்.அனைத்து செயல்பாடுகளும் முழுமையாக நிறுத்தி ஒத்துழைப்பு வழங்க வேண்டும்.
+
+எமது போராட்டத்திற்குவலு சேர்க்கும் வகையில் பொது போக்குவரத்துகள் அனைத்தையும்நிறுத்தி,வர்த்தக நிலையங்களை மூடி மாவட்டத்தை ஸ்தம்பிதம் அடையச் செய்து எமது போராட்டத்திற்கு வலு சேர்க்க வேண்டுகோள் விடுக்கின்றோம்.
+
+...
+
+[Data](articles/c507ceee.json)
+
+---
+
+### இலங்கையில் புதிய வரி மாற்றங்கள் - ஒக்டோபர் 1 முதல் - மக்கள், வணிகம் மற்றும் நாட்டின் நிதிநிலை மீது தாக்கம்
+
+*2025-09-28 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226324) · `ta`
+
+2025 ஒக்டோபர் முதலாம் திகதி இலங்கையின் வரி வரலாற்றில் ஒரு முக்கிய மைல்கல்லாக அமையவிருக்கின்றது. அரசாங்கம் எடுத்துள்ள முடிவுகளின் படி, வரி முறையில் பல முக்கியமான மாற்றங்கள் நடைமுறைக்கு வருகின்றன. இதன் நோக்கம் – நிதிச் சுமையைக் குறைத்தல், வருவாயை விரிவுபடுத்தல் மற்றும் சர்வதேச நாணய நிதியத்தின் (IMF) பரிந்துரைகளுக்கு ஏற்ப நிதி ஒழுங்கை வலுப்படுத்துதல் ஆகும்.
+
+◼️
+
+[Data](articles/f629242b.json)
+
+---
+
+### ரயில் இயந்திரத்திற்குள் சிக்கிய பெண்
+
+*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-இயந்திரத்திற்குள்-சிக்கிய-பெண்/76-365416) · `ta`
+
+பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பொடி மெனிக்கே ரயிலில் மோதிய ஒரு பெண், அதன் இயந்திரத்திற்குள் சிக்கி இருந்த நிலையில் அருகிலுள்ள கேரேஜில் பணிப்புரிந்த தொழிலாளர்களால் மீட்கப்பட்டு டிக் ஓயா அடிப்படை மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+ஹட்டன் ரயில் நிலையத்திற்கு அருகில், ஹட்டன் - நுவரெலியா பிரதான வீதியில் உள்ள ரயில் கடவைக்கு அருகில் இந்த விபத்து நிகழ்ந்தது.
+
+பொடி மெனிக்கே ரயில் மெதுவாக பயணித்ததாகவும்,குறித்த பெண் நீண்ட நேரம் ரயில் பாதைக்கு அருகில் இருந்ததாகவும் கேரேஜ் ஊழியர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f54c56d5.json)
+
+---
+
+### 664 Arrested in Island-Wide Crime Crackdown
+
+*2025-09-28 15:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/664-arrested-in-island-wide-crime-crackdown) · `en`
+
+COLOMBO (News 1st): Another 664 suspects were arrested yesterday as part of the ongoing island-wide crime and drug prevention operation.Police said that under the operation, a total of 28,778 people were tested yesterday. Among those arrested were seven individuals directly linked to crimes, 254 people with day warrants, and 163 with open warrants. Police added that 42 drunk drivers and 14 reckless drivers were also taken into custody yesterday.In total, 3,895 people were arrested for other traffic related offenses.The operation is being conducted nationwide under the directives of the Inspector General of Police.
+
+◼️
+
+[Data](articles/1d88c2c1.json)
+
+---
+
+### 12 Indian Fishermen Arrested in Delft Sea
+
+*2025-09-28 15:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/12-indian-fishermen-arrested-in-delft-sea) · `en`
+
+COLOMBO (News 1st) -  12 Indian fishermen were arrested by the Sri Lanka Navy off the coast of the Delft Sea in Jaffna.The Indian fishermen were taken into custody along with their vessel while they were engaging in fishing activities violating Sri Lanka’s maritime boundaries. The arrested fishermen are scheduled to be handed over to the Directorate of Fisheries in Kankesanthurai.
+
+◼️
+
+[Data](articles/403706a5.json)
+
+---
+
+### Anuradhapura Records 10 Leptospirosis Deaths In 2025
+
+*2025-09-28 15:34:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/anuradhapura-records-10-leptospirosis-deaths-in-2025) · `en`
+
+COLOMBO(News 1st) - Ten leptospirosis related deaths have been reported from the Anuradhapura district during the course of this year.Dr. Thejana Somatilaka, Epidemiologist at the Anuradhapura Regional Health Services Office, stated that nearly 300 leptospirosis patients are reported annually from the district.
+
+◼️
+
+[Data](articles/5ab4755c.json)
+
+---
+
+### Karur crowded:
+
+*2025-09-28 15:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-கூட்ட-நெரிசல்-திருமண-நிச்சயம்-முடிந்த-ஜோடி-உயிரிழப்பு/175-365415) · `ta`
+
+Tamil Nadu Victory Association President Vijay campaigned in Karur. The campaign was held at 7 pm at Karur Veluchamipuram. Sudden congestion during the campaign meeting. A total of 39 people, including 10 children, 17 women and 12 men, were killed in the crowd.
+
+In this case, the death of a pair of marriage in the Karur crowd has caused great tragedy. Akash (age 24) from Karur and Gokulasree (age 24) have been married just a few days ago.. Soon the two were about to get married.
+
+Akash and Gokulasree have gone to attend the Tawaka meeting in Karur yesterday. Akash and Gokulasree died tragically. The incident has caused great tragedy.
+
+◼️
+
+[Data](articles/6c436f12.json)
+
+[Extended Data](ext_articles/6c436f12.ext.json)
+
+---
+
+### 12 மணி நேரம் நீடித்த ரஷ்ய தாக்குதல்களுக்கு உக்ரேன் ஜனாதிபதி வோலோடிமிர் ஜெலென்ஸ்கி கண்டனம்
+
+*2025-09-28 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226320) · `ta`
+
+12 மணி நேரத்திற்கும் மேலாக நீடித்த ஒரு பெரிய ரஷ்ய வான்வழித் தாக்குதலில் உக்ரேனில் சுமார் நால்வர் பேர் உயிரிழந்துள்ளதுடன், 40ற்கும் மேற்பட்டோர் காயமடைந்துள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+உக்ரேனின் தலைநகர் கீவ் மீது குறித்த தாக்குதல்கள் நடத்தப்பட்டதாகவும், பாதிக்கப்பட்டவர்களில் 12 வயது சிறுமி ஒருவரும் அடங்குவதாக உக்ரேன் ஜனாதிபதி வோலோடிமிர் ஜெலென்ஸ்கி தெரிவித்துள்ளார்.
+
+ரஷ்யா, யுக்ரைனின் ஏழு பகுதிகளை நோக்கி சுமார் 600 ட்ரோன்கள் மற்றும் பல ஏவுகணைகளை ஏவியதாக அதன் விமானப்படை தெரிவித்துள்ளது.
+
+மோசமான இந்த தாக்குதலில் மூன்று குழந்தைகள் உட்பட சபோரிஜியா பகுதியில் குறைந்தது 16 பேர் காயமடைந்ததாகவும் ஜனாதிபதி ஜெலென்ஸ்கி குறிப்பிட்டுள்ளார்.
+
+உக்ரேன் பதிலடி கொடுக்கும் என்றும், இந்தத் தாக்குதல் மாஸ்கோ தொடர்ந்து சண்டையிட்டு கொல்ல விரும்புகிறது என்றும் உக்ரேன் ஜனாதிபதி வோலோடிமிர் ஜெலென்ஸ்கி கண்டணம் தெரிவித்துள்ளார்.
+
+அண்மைய தாக்குதல்கள் குறித்து ரஷ்யா எவ்வித கருத்துக்களும் தெரிவிக்கவில்லை என அந்த நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/c9aba19d.json)
+
+---
+
+### The woman under the little gem
+
+*2025-09-28 15:14:10* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පඩ-මණකට-යට-ව-කත/1-680353) · `si`
+
+A woman who was involved in the engine operated from Badulla to Colombo Fort, she was admitted to the Dikoya Dikoya Municipal Council, Chairman of Hatton Dickoya Urbodaya.
+
+The accident had occurred near the Hatton Station located near the Hatton Station.
+
+Podi Menike train was slowly and that the woman who was seriously injured in the railway crash was a long-railway crash and was staying near the railway line.
+
+◼️
+
+[Data](articles/c5f7c819.json)
+
+[Extended Data](ext_articles/c5f7c819.ext.json)
+
+---
+
+### 52 நாட்கள் தடுப்புக்காவலில் வைக்கப்பட்டிருந்த இந்திய மீனவர்கள் நால்வர் ஆந்திராவிற்கு நாடு கடத்தப்பட்டனர்
+
+*2025-09-28 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226327) · `ta`
+
+யாழ்ப்பாண சிறையில் 52 நாட்கள் தடுப்புக்காவலில் வைக்கப்பட்டிருந்ததன் பின்னர், விடுவிக்கப்பட்ட இந்தியாவில் ஆந்திராவைச் சேர்ந்த நான்கு மீனவர்கள் செப்டம்பர் 30 ஆம் திகதி வீடு திரும்புவார்கள் என்று இந்திய ஊடகங்கள் தெரிவிக்கின்றன.
+
+மீனவர்களை ஏற்றிச் சென்ற படகு செப்டம்பர் 27 ஆம் திகதி இலங்கை கடற்கரையிலிருந்து காக்கிநாடாவுக்குப் புறப்பட்டது.
+
+புதுடில்லியில் உள்ள ஆந்திரப் பிரதேச பவனில் உள்ள மாநில அரச அதிகாரிகளின் முயற்சிகளைத் தொடர்ந்து அவர்கள் நாடு கடத்தப்பட்டனர்.
+
+இலங்கை கடலோர காவற்படை செப்டம்பர் 26 ஆம் திகதி மண்டபம் முகாமிலுள்ள இந்திய கடலோர காவற்படையிடம் மீனவர்களை ஒப்படைத்தது.
+
+மீனவர்கள் ஒரு இரண்டாம் நிலை இழுவைமடி மீன்பிடி படகு வாங்க நாகப்பட்டினத்திற்குச் சென்றிருந்தனர்.
+
+ஆனால் வீடு திரும்பும் போது, தொழினுட்ப கோளாறு காரணமாக இலங்கை நீரில் மிதந்ததாக அறிக்கைகள் தெரிவிப்பதாக குறிப்பிட்டுள்ளனர்.
+
+வெளியுறவு அமைச்சகத்திடம் இந்த பிரச்சினையை எடுத்துக் கொண்டதை அடுத்து, கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயம் அவர்கள் திரும்புவதற்கான முயற்சிகளைத் ஆரம்பித்தது.
+
+...
+
+[Data](articles/2e7c234f.json)
+
+---
+
+### மன்னாரில் நாளை பொது முடக்கத்திற்கு அழைப்பு
+
+*2025-09-28 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226328) · `ta`
+
+மன்னாரில் முன்னெடுக்கப்படவுள்ள காற்றாலை திட்டத்திற்கு எதிராகவும்,மக்கள் மீது பொலிஸார் மேற்கொண்ட தாக்குதல் சம்பவத்தை கண்டித்தும் நாளை திங்கட்கிழமை (29) மன்னாரில் முன்னெடுக்கப்படவுள்ள பொது முடக்கல்  போராட்டத்திற்கு அனைத்து தரப்பினரும் பூரண ஒத்துழைப்பை வழங்க வேண்டும் என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் கோரிக்கை விடுத்துள்ளார்.
+
+மன்னாரில் இன்றைய தினம் ஞாயிற்றுக்கிழமை (28) 57 ஆவது நாளாக போராட்டம் இடம் பெற்று வரும் நிலையில் அங்கு இடம்பெற்ற ஊடக சந்திப்பில் கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+மன்னார் மாவட்டம் முழுவதும் நாளை திங்கட்கிழமை பொது முடக்களுக்கு அழைப்பு விடுக்கின்றோம்.அனைத்து செயல்பாடுகளும் முழுமையாக நிறுத்தி ஒத்துழைப்பு வழங்க வேண்டும்.எமது போராட்டத்திற்கு வலு சேர்க்கும் வகையில் பொது போக்குவரத்து கள் அனைத்தையும் நிறுத்தி,வர்த்தக நிலையங்களை மூடி மாவட்டத்தை ஸ்தம்பிதம் அடையச் செய்து எமது போராட்டத்திற்கு வலு சேர்க்க வேண்டுகோள் விடுக்கின்றோம்.
+
+...
+
+[Data](articles/37c0ec89.json)
+
+---
+
+### Firing at a hotel in the United States; 3 people die
 
 *2025-09-28 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226325) · `ta`
 
-அமெரிக்காவின் தெற்கு கரோலினா மாகாணம் சவுத் போர்ட் யார்ட் பஸ்னி பகுதியில் கடற்கரை பகுதி அருகே ஹோட்டல் ஒன்றில் துப்பாக்கி சூட்டு சம்பவம் இடம் பெற்றுள்ளது.
+The shooting incident took place at a hotel near the coastal area of ​​South Carolina, South Carolina, USA.
 
-படகில் வந்த மர்ம கும்பல் படகில் இருந்தவாறு கடற்கரை அருகே உள்ள ஹோட்டல் மீது துப்பாக்கி சூடு நடத்தியுள்ளனர். இந்த துப்பாக்கி சூட்டில் 3 பேர் உயிரிழந்துள்ளதோடு, 8 பேர் படுகாயமடைந்துள்ளனர்.
+The mysterious gang on the boat opened fire on a hotel near the beach. Three people were killed and 8 were injured in the shooting.
 
-தகவலறிந்து விரைந்து சென்ற பொலிஸார் படுகாயமடைந்தவர்களை மீட்டு அருகில் உள்ள வைத்தியசாலையில் அனுமதித்தனர். மேலும், இந்த துப்பாக்கி சூடு தாக்குதல் குறித்து விசாரணை நடத்தி வருகின்றனர்.
+Police rushed to the scene and rescued the injured and admitted to a nearby hospital. Also, they are investigating the firing attack.
 
 ◼️
 
 [Data](articles/5cb37706.json)
 
+[Extended Data](ext_articles/5cb37706.ext.json)
+
 ---
 
-### கரூர் சம்பவம் – உயிரிழந்தோரின் எண்ணிக்கை 40 ஆக அதிகரிப்பு
+### Karur incident - The number of casualties increased to 40
 
-*2025-09-28 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226323) · `ta`
+*2025-09-28 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226323) · `ta`
 
-தமிழகத்தின் கரூரில் நடைபெற்ற த.வெ.க தலைவர் விஜய் பிரச்சாரத்தின்போது கூட்ட நெரிசலில் உயிரிழந்தோரின் எண்ணிக்கை 40 ஆக அதிகரித்துள்ளது.
+The number of casualties in the crowd during the campaign of TV leader Vijay in Karur in Tamil Nadu has increased to 40.
 
 கரூர் வேலுசாமிபுரத்தில் தவெக தலைவர் விஜய், நேற்று இரவு தேர்தல் பிரச்சாரத்தில் ஈடுபட்டார்.
 
-முன்னதாக, காலை 10.30 மணிக்கு விஜய் பிரச்சாரம் செய்ய பொலிஸ் தரப்பில் அனுமதி அளிக்கப்பட்டிருந்தது.
+Earlier, at 10.30 am, the police had been allowed to campaign.
 
-ஆனால், நாமக்கல்லில் பிரச்சாரம் செய்துவிட்டு பிற்பகல் 03 மணிக்குப் பிறகுதான் விஜய் புறப்பட்டார்.
+However, Vijay left at 3 pm after campaigning in Namakkal.
 
-இதனிடையே, கரூர் வேலுசாமிபுரத்தில் பகல் 12 மணி முதல் தொண்டர்கள், இரசிகர்கள் கூடினர்.
+Meanwhile, volunteers and fans gathered at Karur Velusamipuram from 12 pm.
 
-கரூர் மாவட்ட எல்லையான வேலாயுதம்பாளையத்தில் இருந்தே கூட்டம் அதிகமாக இருந்ததால் பிரச்சாரப் பேருந்து மிகவும் மெதுவாக நகர்ந்தது. இதனால் இரவு 7.15 மணிக்குதான் பிரச்சார இடத்துக்கு விஜய் வர முடிந்தது.
+The campaign bus moved very slowly as the crowd was so high from Velayuthampalayam on the Karur district border. Thus, Vijay was able to come to the campaign at 7.15 pm.
 
-அங்கு விஜய் பேச ஆரம்பித்தபோது, அவரது மைக் வேலை செய்யவில்லை. அவரது பேச்சைக் கேட்பதற்காக பின்னால் இருப்பவர்கள் நெருங்கியடித்தபடி பிரச்சாரப் பேருந்தை நோக்கி வந்தனர். இதனால் முன்னால் காத்திருந்தவர்கள் நெரிசலில் சிக்குண்டனர்.
+When Vijay started talking there, his Mike didn't work. The people behind him came to the campaign bus to listen to his speech. Thus, those who waited in front of them were crowded.
+
+While Vijay was talking, many people began to breathe in. Also, some people were injured when the tree in the area collapsed. It was only after Vijay's campaign to rescue them.
 
 ...
 
 [Data](articles/b6e183b4.json)
+
+[Extended Data](ext_articles/b6e183b4.ext.json)
 
 ---
 
@@ -129,6 +315,28 @@ The other youth is a 24-year-old resident of Mumulleriya.
 
 ---
 
+### Youth dies in accident
+
+*2025-09-28 14:18:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රය-අනතරන-තරණයක-මරට/1-680352) · `si`
+
+Two youths traveling in Malabe Thalahena. One youth died in collision with a car, says the Talangama Police said that the other youth was seriously injured.
+
+The deceased has been identified as Prabhabarara Silva, who resided Gemunu Mawatha in Battaramulla.
+
+Police say the motorcycle traveling towards Malabe from Malabe to Battaramulla has been hit by the motorcycle in the opposite direction.
+
+Preliminary investigations have revealed that the police were killed by the victim of the deceased.
+
+The other youth is a 24-year-old resident of Mumulleriya.
+
+◼️
+
+[Data](articles/359df4c0.json)
+
+[Extended Data](ext_articles/359df4c0.ext.json)
+
+---
+
 ### Ranil to see Mahinda View Mahinda Carlton
 
 *2025-09-28 14:11:29* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-මහින්දව-බලන්න-කාල්ටන්-යයි/11-418768) · `si`
@@ -178,6 +386,26 @@ President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the
 [Data](articles/2f9635a5.json)
 
 [Extended Data](ext_articles/2f9635a5.ext.json)
+
+---
+
+### 2000 new to public service
+
+*2025-09-28 14:08:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-සවයට-අලතන-2000ක/1-680351) · `si`
+
+The Government has decided to recruit 2,000 new joint vehicles to Grade III of the Public Service Service Service Service Service (Management Services) in Service Service Service.
+
+They officially join the Public Service "Appointing Letters Giving Presentation" The Prime Minister Dr. Harini Amarasuriya will be held tomorrow (29) at Temple Trees.
+
+The Ministry of Public Administration, Provincial Councils and the Local Government said that they were the highest number of people in the public service on the GCE O / L examination after the year 2018.
+
+President Anura Kumara Dissanayake has proposed a plan to recruit 30,000 for the essential vacancies and that the recruitment is being made from time to time.
+
+◼️
+
+[Data](articles/efc36d98.json)
+
+[Extended Data](ext_articles/efc36d98.ext.json)
 
 ---
 
@@ -264,6 +492,8 @@ If you are informed and respond quickly, there is a lot doctors and nurses can d
 ...
 
 [Data](articles/0522bcf3.json)
+
+[Extended Data](ext_articles/0522bcf3.ext.json)
 
 ---
 
@@ -449,6 +679,8 @@ The stampede occurred around 7.30 pm as thousands of people, who had been waitin
 
 [Data](articles/f82c3c22.json)
 
+[Extended Data](ext_articles/f82c3c22.ext.json)
+
 ---
 
 ### Harry suggests people trying to sabotage reconciliation with King
@@ -468,6 +700,8 @@ The Sun newspaper said Prince Harry had confirmed aspects of its reporting. It s
 ...
 
 [Data](articles/4528990d.json)
+
+[Extended Data](ext_articles/4528990d.ext.json)
 
 ---
 
@@ -504,6 +738,8 @@ The session aims to gather preliminary information on the audits of the respecti
 ◼️
 
 [Data](articles/283f7758.json)
+
+[Extended Data](ext_articles/283f7758.ext.json)
 
 ---
 
@@ -679,6 +915,8 @@ Former President Ranil Wickremesinghe also took steps to inquire about Mahinda R
 
 [Data](articles/b124d8a5.json)
 
+[Extended Data](ext_articles/b124d8a5.ext.json)
+
 ---
 
 ### Marc Márquez Seals 2025 MotoGP World Championship
@@ -814,6 +1052,8 @@ Following yesterday’s events, the President departed this morning (28) from Sh
 ...
 
 [Data](articles/8b9dffba.json)
+
+[Extended Data](ext_articles/8b9dffba.ext.json)
 
 ---
 
@@ -1686,241 +1926,5 @@ Meanwhile, the funeral of five of the seven monks who died in the incident was p
 [Data](articles/694c8757.json)
 
 [Extended Data](ext_articles/694c8757.ext.json)
-
----
-
-### He says he has political self -esteem to provide a solution that will further strengthen the freedom of commemoration - Minister Harshana Nanayakkara
-
-*2025-09-28 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226291) · `ta`
-
-The Minister of Justice and National Integration Harshana Nanayakkara has promised to strengthen the gap in the future, pointing out that the rights of the previous governments have been restricted on the right to commemorate, and that his government has given the full freedom to commemorate those who died in the war so as not to highlight the banned terrorist movements.
-
-The 29th Meeting of the Missing Field Committee on the 60th Session of the United Nations Human Rights Council commenced in Geneva last Monday (22). The Sri Lankan affair was examined yesterday (26) at the meeting, which will be held until October 3.
-
-...
-
-[Data](articles/3a911b83.json)
-
-[Extended Data](ext_articles/3a911b83.ext.json)
-
----
-
-### Will the provincial council election be held?
-
-*2025-09-28 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226290) · `ta`
-
-Last week, some media outlets reported that the government was preparing to hold provincial council elections. After the presidential election, the government first planned to hold the general election, local election and provincial council elections quickly. Accordingly, despite the two -thirds majority in the general election, there was an unexpected setback in the local elections, causing the government to disappear suddenly.
-
-◼️
-
-[Data](articles/516fb788.json)
-
-[Extended Data](ext_articles/516fb788.ext.json)
-
----
-
-### Sri Lanka Cricket Team Returns After Super Fours: Will Work on our Shortcomings and Move Forward, Says Head Coach Jayasuriya
-
-*2025-09-28 10:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/sri-lanka-cricket-team-returns-after-super-fours-will-work-on-our-shortcomings-and-move-forward-says-head-coach-jayasuriya) · `en`
-
-COLOMBO(News 1st): The Sri Lankan cricket team has returned home after a thrilling Super 4 encounter against India at the Dubai International Cricket Stadium. In a nail-biting finish, both teams had ended the 20 overs tied at 202/5. India’s opener Abhishek Sharma had led the way with 61 off 31 balls, while Sri Lanka’s Pathum Nissanka had played a brilliant 107, keeping his side in contention.The match had gone to a Super Over, where India’s Arshdeep Singh had taken two crucial wickets, and captain Suryakumar Yadav had struck the winning runs on the very first ball, handing India a dramatic victory.
-
-◼️
-
-[Data](articles/d90084fb.json)
-
-[Extended Data](ext_articles/d90084fb.ext.json)
-
----
-
-### A fatal accident in Ratgama
-
-*2025-09-28 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215092) · `si`
-
-A woman was killed in an accident near the Colombo-Colombo main road.
-
-The accident had occurred when a bus was traveling on Galle to Hikkaduwa.
-
-The woman who was seriously injured in the accident has died in admission to the Galle Hospital.
-
-The victim was a 77 year old resident of Boossa.
-
-The remains are placed at the Galle hospital morgue and the driver of the accident has been arrested.
-
-◼️
-
-[Data](articles/32f7248f.json)
-
-[Extended Data](ext_articles/32f7248f.ext.json)
-
----
-
-### Immutable political law
-
-*2025-09-28 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226282) · `ta`
-
-Nothing in politics is stable, no one is permanent friends, no, no permanent enemies.
-
-◼️
-
-[Data](articles/7d6fecbc.json)
-
-[Extended Data](ext_articles/7d6fecbc.ext.json)
-
----
-
-### Another monk who was injured in the Nawa cable dakkok accident
-
-*2025-09-28 10:39:23* · [`adalk`](https://www.ada.lk/breaking_news/නා-උයන-කේබල්-ඩක්කු-අනතුරින්-තුවාල-ලබා-සිටි-තවත්-හිමිනමක්-අපවත්වෙති/11-418759) · `si`
-
-Another monk who was receiving treatment at the cable dakkok accident in Malziripura, Malziripura. Accordingly, the number of owners of the accident had risen to 8.
-
-The monk who was receiving treatment at the Intensive Care Unit of the Kurunegala Teaching Hospital has become. Another injured bicycles are being treated at the Kurunegala Hospital.
-
-It was reported that the 13 bhikkus had been in the dick. Three Thero were the overseas national monks and the monks lived in India, Romania and Russian countries.
-
-◼️
-
-[Data](articles/02c9b413.json)
-
-[Extended Data](ext_articles/02c9b413.ext.json)
-
----
-
-### President a new job to defeat drugs
-
-*2025-09-28 10:28:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මත-රකස-පරදවනන-ජනපතගන-අලත-වඩක/101-680338) · `si`
-
-Minister of Defense and Parliamentary Affairs Ananda Wijepala said that the president will be launched to eliminate the drug from Sri Lankan land within ten days as a remedy of the drug disaster.
-
-He said the government had taken over the challenge of defending children from drugs.
-
-The minister said that he was attempting to prevent the flow of the drug supply to prevent the flow of the country.
-
-◼️
-
-[Data](articles/0c33403c.json)
-
-[Extended Data](ext_articles/0c33403c.ext.json)
-
----
-
-### President a new job to defeat drugs
-
-*2025-09-28 10:28:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මත-රකස-පරදවනන-ජනපතගන-අලත-වඩක/1-680338) · `si`
-
-Minister of Defense and Parliamentary Affairs Ananda Wijepala said that the president will be launched to eliminate the drug from Sri Lankan land within ten days as a remedy of the drug disaster.
-
-He said the government had taken over the challenge of defending children from drugs.
-
-The minister said that he was attempting to prevent the flow of the drug supply to prevent the flow of the country.
-
-◼️
-
-[Data](articles/e0befa29.json)
-
-[Extended Data](ext_articles/e0befa29.ext.json)
-
----
-
-### “Will Vijay be arrested?”: Stalin's description of Karur
-
-*2025-09-28 10:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-கைது-செய்யப்படுவாரா-கரூரில்-முதல்வர்-ஸ்டாலின்-விளக்கம்/175-365394) · `ta`
-
-Chief Minister Stalin has responded to the question of whether he will be arrested.
-
-38 people, including children, were tragically killed during a crowded crowd during the campaign in Karur. Also, many are being treated for life -threatening conditions. The incident has caused shocks across the country.
-
-In this case, Chief Minister MK Stalin left Karur at midnight. There he paid tribute to the bodies of the victims of the crowd. Then met their family and comforted. He also met those who were receiving treatment at hospitals.
-
-Speaking to reporters, Chief Minister Stalin said: “I stand in front of you with great sadness and heavy heart. I could not talk about the greatness of Karur. It was reported that many people were going to the hospital after breathing in the crowd at 7.30 pm last night. Immediately, I called the legislator Senthil Balaji and the District Collector to rush to the hospital.
-
-...
-
-[Data](articles/47d2dc86.json)
-
-[Extended Data](ext_articles/47d2dc86.ext.json)
-
----
-
-### Karur has become Karupur by invasion of death
-
-*2025-09-28 10:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரணத்தின்-படையெடுப்பால்-கரூர்-கருப்பூர்-ஆகிவிட்டது-வைரமுத்து-இரங்கல்/175-365393) · `ta`
-
-Karur: Tamil Nadu Victory League leader Vijay was campaigning in Karur yesterday.
-
-The incident has caused great tragedy across the country. Many screen celebrities and political party leaders are expressing their condolences.
-
-In this case, Vairamuthu posted condolences on his X site that Karur had become Karupur due to the invasion of death.
-
-Actor and Tauga leader Vijay campaigned in Namakkal and Karur districts yesterday.
-
-From Friday night, a large number of people gathered in the area to see Vijay from Saturday morning. Thousands of women, children and children gathered in the Vijay campaign.
-
-At one point caused severe congestion in the area unable to control the crowd. Many were unconscious to speak Vijay.
-
-At this point, 39 people, including 10 children and 17 women, were killed in the crowd. More than 40 people were injured. Political party leader and screen celebrities are condolences.
-
-The poet Vairamuthu also condoled. Poet and songwriter poet Vairamuthu posted on his X site page:
-
-...
-
-[Data](articles/a94de691.json)
-
-[Extended Data](ext_articles/a94de691.ext.json)
-
----
-
-### The more of the crimes, the '' kuddo '
-
-*2025-09-28 10:22:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපරධවලට-වඩඩ-වඩ-හරයක-කඩඩ/101-680337) · `si`
-
-According to the latest survey, 72 percent of the criminals of prisons have been involved in misconceptions of drug abuse
-
-The Ministry of Ministries pointed out that if the situation grows to 100 percent, the Ministry of Socialist Ministry pointed out.
-
-මේ අතර සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය  අතරද ඍජු සම්බන්ධතාවයක් ඇති බව පොලීසියට තොරතුරු අනාවරණයවී ඇත. The police headquarters has revealed that most of the underworld victims have been associated with drug trafficking recently.
-
-◼️
-
-[Data](articles/799a9c26.json)
-
-[Extended Data](ext_articles/799a9c26.ext.json)
-
----
-
-### The more of the crimes, the '' kuddo '
-
-*2025-09-28 10:22:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධවලට-වඩඩ-වඩ-හරයක-කඩඩ/1-680337) · `si`
-
-According to the latest survey, 72 percent of the criminals of prisons have been involved in misconceptions of drug abuse
-
-The Ministry of Ministries pointed out that if the situation grows to 100 percent, the Ministry of Socialist Ministry pointed out.
-
-Meanwhile, the police have revealed that there is a direct relationship between organized crime and drugs. The police headquarters has revealed that most of the underworld victims have been associated with drug trafficking recently.
-
-◼️
-
-[Data](articles/e1fe99fb.json)
-
-[Extended Data](ext_articles/e1fe99fb.ext.json)
-
----
-
-### Easter Attack: Terrorism
-
-*2025-09-28 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226287) · `ta`
-
-Terrorism has become a globalized trade. The Easter bombing in Sri Lanka is a terrible reminder of this reality.  Retired Indian Navy officer Admiral Anil Kumar Sawla said that no country can reach the safety of maritime safety, he said, adding that all the navy's joint effort and the unique advantages of maritime diplomacy can face challenges.
-
-Admiral Anil Kumar Soula said this while attending the 'Maritime Conversation' conference in Colombo. As he continues to mention,
-
-Always happy to come to Sri Lanka. Civilized bonds between India and Sri Lanka have been thousands of years ago. Moreover, the Indian Navy and the Sri Lankan Navy are almost bonded. Maritime diplomacy and regional security challenges are common to all countries. Maritime security and the use of sea for economic benefits are inseparable. So protection and growth must go hand in hand. It is important to ensure that the maritime resources are unlimited and their standard use.
-
-...
-
-[Data](articles/45b70886.json)
-
-[Extended Data](ext_articles/45b70886.ext.json)
 
 ---

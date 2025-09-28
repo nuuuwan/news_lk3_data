@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-28 21:56:13**
+As of **2025-09-28 22:07:45**
 
 ## Newspaper Stats
 
-*Scraped **79,274** Articles*
+*Scraped **79,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,39 @@ economynextcom | 4,733
 dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
-adalk | 7,641
+adalk | 7,642
 adaderanalk | 10,238
 tamilmirrorlk | 11,868
-virakesarilk | 12,914
+virakesarilk | 12,916
 adaderanasinhalalk | 13,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,271 (100.0%) of 79,274 articles have been extended.
+79,274 (100.0%) of 79,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-28 (Sunday)
+
+### வாகனேரியில் சட்டவிரோத கசிப்பு உற்பத்தியில் ஈடுபட்டவர் கைது
+
+*2025-09-28 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226350) · `ta`
+
+மட்டக்களப்பு வாகனேரியில் வாழைச்சேனை பொலிசார் மேற்கொண்ட சுற்றி வளைப்பின் போது சட்ட விரோத கசிப்பு உற்பத்தி நடவடிக்கையில் ஈடுபட்ட ஒருவர் கைது செய்யப்பட்டதுடன் ஏனையோர் தப்பி ஓடி விட்டதாகவும் பொலிசார் தெரிவித்தனர்.
+
+இதன்போது 1817000 மில்லி லீற்றர் கசிப்பு உட்பட உற்பத்திக்கு பயன்படுத்தப்படும் உபகரணங்களும் கைப்பற்றப்பட்டுள்ளதாக தெரிவித்தனர்.
+
+28ஆம் திகதி ஞாயிற்றுக்கிழமை நன்பகல் வேளை வாழைச்சேனை பொலிஸ் விசேட பிரிவிற்கு கிடைத்த இரகசிய தகவலையடுத்து பொலிஸ் நிலையப் பொறுப்பதிகாரி லசந்த பண்டார வழிகாட்டலில் எஸ்.ஜ.அசங்க தலைமையிலான போதை தடுப்பு பிரிவினர் வாகனேரி கல்கனி எனும் காட்டுப் பகுதியில் மேற் கொண்ட சுற்றி வளைப்பின் போது 11 பரல்கள் கொண்ட  கசிப்பும் கசிப்பு உற்பத்திக்கு பயன்படுத்தம் பொருட்களும் கைப்பற்றப்பட்டுள்ளன.
+
+கைப்பற்றப்பட்ட பொருட்கள் உட்பட சந்தேக நபரை வாழைச்சேனை நீதவான் நீதிமன்றில் ஆஜர்படுத்துவதற்கான நடவடிக்கையை மேற்கொண்டதுடன் மேலதிக விசாரணைகளை பொலிசார் மேற்கொண்டு வருகின்றனர்
+
+...
+
+[Data](articles/fc3acd0c.json)
+
+---
 
 ### President Says Equal Application of Law Unites Citizens Across Party Lines
 
@@ -42,6 +60,8 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake, speaking during his off
 ◼️
 
 [Data](articles/68a47be6.json)
+
+[Extended Data](ext_articles/68a47be6.ext.json)
 
 ---
 
@@ -57,19 +77,23 @@ Later, former Presidents Mahinda Rajapaksa and Ranil Wickremesinghe engaged in a
 
 [Data](articles/e879eafe.json)
 
+[Extended Data](ext_articles/e879eafe.ext.json)
+
 ---
 
-### மஹிந்த ராஜபக்சவை சந்தித்த இ.தொ.கா பிரதிகள்
+### CWC copies met with Mahinda Rajapaksa
 
 *2025-09-28 20:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-ராஜபக்சவை-சந்தித்த-இ-தொ-கா-பிரதிகள்/175-365425) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவை, இ.தொ.கா பொதுச்செயலாளரும் பாராளுமன்ற உறுப்பினருமான ஜீவன் தொண்டமான், மற்றும் இ.தொ.கா நிதிச்செயலாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான மருதப்பாண்டி ராமேஸ்வரன் ஆகியோர் இன்று (28) தங்காலை, கால்டன் இல்லத்தில் சந்தித்தனர்.
+Former President Mahinda Rajapaksa, CWC general secretary and parliamentarian Jeevan Thondaman, and CWC financialist and former parliamentarian Maruthappandi Rameshwaran met at the Tangalle, Calton House today.
 
-இந்த சந்திப்பின் போது, அவர்கள் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவின் சுகநிலை குறித்தும் நலம் விசாரித்து உரையாடியதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+During the meeting, it was reported that they had addressed the health of former President Mahinda Rajapaksa.. Remble
 
 ◼️
 
 [Data](articles/f802a9a7.json)
+
+[Extended Data](ext_articles/f802a9a7.ext.json)
 
 ---
 
@@ -296,6 +320,24 @@ The hospital administration has stated that appropriate measures have been taken
 [Data](articles/b6863045.json)
 
 [Extended Data](ext_articles/b6863045.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය නිෂ්පාදනය කරන රටක් බවට ලංකාව පත්වීම බරපතල තත්ත්වයක්
+
+*2025-09-28 18:37:20* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-නිෂ්පාදනය-කරන-රටක්-බවට-ලංකාව-පත්වීම-බරපතල-තත්ත්වයක්/11-418771) · `si`
+
+මත්ද්‍රව්‍ය නිෂ්පාදනය කරන රටක් බවට ශ්‍රී ලංකාව පත්වීම බරපතල තත්ත්වයක් බවත් මැඩලීම සඳහා රජය විධිමත් වැඩපිළිවෙලක් ක්‍රියාත්මක කළ යුතුව තිබෙන බවත් අතිපූජ්‍ය තිබ්බොටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මල්වතු පාර්ශවයේ මහානායක හිමියෝ පවසති.
+
+උන්වහන්සේ ඒ බව අවධාරණය කර සිටියේ අද (28) අමාත්‍ය ආනන්ද විජේපාල සහ පොලිස්පති  නීතිඥ ප්‍රියන්ත වීරසූරිය යන මහත්වරුන් උන්වහන්සේ බැහැ දැක ආශිර්වාද ලබාගත් අවස්ථාවේදීය.
+
+එහිදී උන්වහන්සේ වැඩිදුරටත් අවධාරණය කර සිටියේ තරුණ පරපුර මත්ද්‍රව්‍ය උවදුරෙන් ගලවා ගැනීම සඳහා රජය විසින් පුළුල් වැඩපිළිවෙළක් ක්‍රියාත්මක කළ යුතුව තිබෙන බවත් මත්ද්‍රව්‍ය උවදුරෙන් රට ගලවා ගැනීම සඳහා වත්මන් රජය අවංක උවමනාවකින් යුතුව කටයුතු කරන බව පෙනෙන්නට තිබෙන බවත්ය.
+
+මතට ඇබ්බැහි වූවන් පුනරුත්ථාපනය කළද පසුව ඔවුන් නැවතත් ඊට ඇබ්බැහි වන බවට ආරංචි ලැබෙමින් තිබෙන බවත් අතට ඇබ්බැහි වූවන්ගේ පුනරුත්ථාපන කටයුතු විධිමත්ව සිදුකළ යුතුව තිබෙන බවත් උන්වහන්සේ අවධාරණය කළේය.
+
+...
+
+[Data](articles/2fb4a01e.json)
 
 ---
 
@@ -1747,6 +1789,24 @@ The power supply was cut off for 18 hours daily in 2022. The problem of the powe
 
 ---
 
+### 12 இலங்கையர்கள்  நாடு கடத்தப்பட்டனர் -  இஸ்ரேலுக்கான இலங்கைத் தூதுவர் தெரிவிப்பு
+
+*2025-09-28 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226319) · `ta`
+
+இஸ்ரேலில் இருந்து அண்மையில் சுமார் 12 இலங்கையர்கள் மனநலப் பிரச்சினைகள் அல்லது போதைப்பொருள் பாவனைப் பிரச்சினைகள் காரணமாக இலங்கைக்குத் திருப்பி அனுப்பப்பட்டுள்ளதாக, இஸ்ரேலுக்கான இலங்கைத் தூதுவர் நிமல் பண்டார தெரிவித்துள்ளார்.
+
+மனநலப் பிரச்சினைகள் அல்லது போதைப்பொருள் பாவனைப் பிரச்சினைகள் உள்ளவர்களை வெளிநாட்டு வேலைக்காக அனுப்புவதைத் தவிர்க்குமாறு தொடர்புடைய குடும்பங்களை இலங்கைத் தூதரகம் வலியுறுத்துவதாகவும் தூதுவர் நிமல் பண்டார மேலும் தெரிவித்தார்.
+
+இஸ்ரேலில் கட்டுமான வேலைகளில் ஈடுபட்டிருந்த மற்றும் பொருத்தமற்ற நடத்தையை வெளிப்படுத்திய மேலும் இரு இலங்கையர்கள், கடந்த வியாழக்கிழமை இஸ்ரேலிலிருந்து கொழும்பிற்குத் நாடு கடத்தப்பட்டனர் என்றும் அவர் மேலும் தெரிவித்தார்.
+
+அறிக்கையொன்றை வெளியிட்டுள்ள தூதுவர் நிமல் பண்டார, அந்த இரண்டு இலங்கையர்களும் டுபாய் வழியாக நாட்டிற்கு அனுப்பப்பட்டதாகவும், அவர்களது குடும்ப உறுப்பினர்களின் கோரிக்கையின் பேரிலேயே நாடு கடத்தல் மேற்கொள்ளப்பட்டதாகவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9ed44fdc.json)
+
+---
+
 ### More than 125,000 tourists arrive so far this month
 
 *2025-09-28 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226317) · `ta`
@@ -1924,57 +1984,5 @@ Speaking further Mr. Head, if he had been taken as the Ratwatathathurapura distr
 [Data](articles/b5532666.json)
 
 [Extended Data](ext_articles/b5532666.ext.json)
-
----
-
-### The greatest contribution of Indian Muslims cannot be forgotten
-
-*2025-09-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226313) · `ta`
-
-Sri Lanka Muslim Congress leader and Kandy district parliamentarian Rauf Hakeem said that we can never forget the great contribution of Indian Muslims.
-
-He said this while giving the reception at the decoration ceremony for the foreign personality held in Colombo on the 19th.
-
-When the Professor Great Indian Union Muslim League, former MP Munirul Millat Khadar Mukheedin presented a high award for Takaisal Tamil as a Tamil, and he was listening to the greeting.
-
-In fact, the leader of the Indian Union Muslim League, who is in the other states of India, who is in the other states of India, who is in the forefront of the Indian Union Muslim League, who is in a country where there are 25 crore Muslims living in India, in a country where there are 25 million Muslims living in India, are celebrating with him in a state where the Chief Minister of Tamil Nadu is celebrating the miracle of the Dravidian system, especially the Dravidian system. We organized the event.
-
-...
-
-[Data](articles/0bdbc385.json)
-
-[Extended Data](ext_articles/0bdbc385.ext.json)
-
----
-
-### Luxury car accident collided with car elephant
-
-*2025-09-28 14:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-கார்-யானையுடன்-மோதி-விபத்து/175-365410) · `ta`
-
-A luxury car collided with an elephant on Saturday (27) at 7 pm.
-
-During this time, the car collided with the elephant in the Pottuvil forest area belonging to the Pottuvil police division and the family traveled in it and the travelers who traveled in it.
-
-Travelers have said that the elephants are on the main street on the main road at night and evening.
-
-◼️
-
-[Data](articles/5abff311.json)
-
-[Extended Data](ext_articles/5abff311.ext.json)
-
----
-
-### The provincial council election and the politics of Muslims
-
-*2025-09-28 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226299) · `ta`
-
-The vote banks of the Muslim parties and the people's confidence in it. This is not the case with the arrival of the NP. Muslim leaders and politicians who speak in genius must understand that it has happened before.
-
-◼️
-
-[Data](articles/bb5e7116.json)
-
-[Extended Data](ext_articles/bb5e7116.ext.json)
 
 ---

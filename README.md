@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 01:38:03**
+As of **2025-09-29 01:55:45**
 
 ## Newspaper Stats
 
@@ -27,29 +27,31 @@ adaderanasinhalalk | 13,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,293 (100.0%) of 79,294 articles have been extended.
+79,294 (100.0%) of 79,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### ஆசிய கிண்ண கிரிக்கெட் : 9வது முறையாக இந்தியா சாம்பியன்
+### Asian Bowl Cricket: India champion for the 9th time
 
 *2025-09-29 00:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226351) · `ta`
 
-ஆசியக் கிண்ண கிரிக்கெட் தொடரின் இறுதிப் போட்டியில் இந்திய அணி, பாகிஸ்தானை 5 விக்கெட் வித்தியாசத்தில் வீழ்த்தி, 9வது முறையாக ஆசிய சாம்பியன் பட்டத்தை வென்றது.
+In the final of the Asian Cup cricket series, the Indian team beat Pakistan by 5 wickets and won the Asian championship for the 9th time.
 
-துபாய் சர்வதேச கிரிக்கெட் மைதானத்தில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற பரபரப்பான ஆட்டத்தில் பாகிஸ்தான் அணி முதலில் துடுப்பெடுத்தாடி, 20 ஓவர்களில் 147 ஓட்டங்கள் குவித்தது.
+Pakistan scored 147 runs in 20 overs in a hectic match on Sunday (28) at the Dubai International Cricket Ground.
 
-அந்த இலக்கை எதிர்கொண்ட இந்திய அணி, நிதானமான ஆட்டத்துடன் 5 விக்கெட்டுகள் இழப்புக்கு வெற்றியைப் பெற்றது.
+Facing that goal, the Indian team won the loss of 5 wickets with a relaxed match.
 
-இப்போட்டியில் இந்திய துடுப்பாட்ட வீரர்கள் தொடக்கத்தில் சில விக்கெட்டுகளை இழந்தபோதிலும், நடுப்பகுதியில் தைரியமாக விளையாடி இலக்கை எட்டிச் சென்றனர்.
+The Indian batsmen lost a few wickets at the start, but in the middle of the match, playing boldly.
 
-இந்த வெற்றியுடன் இந்தியா, ஆசிய கிண்ண வரலாற்றில் தனது ஆதிக்கத்தை மேலும் வலுப்படுத்தியுள்ளது.
+With this victory, India has further strengthened its dominance in the Asian bowl history.
 
 ◼️
 
 [Data](articles/dee44d3c.json)
+
+[Extended Data](ext_articles/dee44d3c.ext.json)
 
 ---
 

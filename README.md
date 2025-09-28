@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 00:36:37**
+As of **2025-09-29 00:51:48**
 
 ## Newspaper Stats
 
-*Scraped **79,289** Articles*
+*Scraped **79,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,76 @@ dailymirrorlk | 4,733
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,642
-adaderanalk | 10,238
-tamilmirrorlk | 11,870
+adaderanalk | 10,240
+tamilmirrorlk | 11,871
 virakesarilk | 12,921
-adaderanasinhalalk | 13,748
+adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,284 (100.0%) of 79,289 articles have been extended.
+79,284 (100.0%) of 79,293 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-09-29 (Monday)
+
+### 9වන වරටත් ආසියානු ශූරතාව ඉන්දියාවට
+
+*2025-09-29 00:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215115) · `si`
+
+පාකිස්තාන පන්දු යවන්නන්ට මෙල්ල නොවූ තිලක් වර්මාගේ සටන්කාමී පිතිහරඹය හේතුවෙන් පාකිස්තාන කණ්ඩායම කඩුලු 5කින් පරාජය කර 9වන වරටත් ආසියානු ශූරයන් ලෙසින් කිරුළු පැළදීමට ඉන්දියාව සමත් විය.
+
+ඩුබායි ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ අද (28) පැවති අවසන් මහා තරගයේ පාකිස්තාන කණ්ඩායමෙන් හිමි වූ ලකුණු 147ක ඉලක්කය කඩුලු 5ක් දැවී තිබියදී තරගයේ අවසන් (19.4) පන්දුවාරයේ දී පසුකර යෑමට ඉන්දියාවට හැකිවිය.
+
+ඉන්දීය ජයග්‍රහණයේ ප්‍රධාන නියමුවා වූ තිලක් වර්මා නොදැවී ලකුණු 69ක් රැස්කිරීමට සමත් වූ අතර, ඒ වෙනුවෙන් ඔහු පන්දු 53කට මුහුණදුන්නේය.
+
+පැය එක හමාරකටත් අධික කාලයක් කඩුල්ලේ රැඳී සිටි වර්මා සිය ඉනිම හයේ පහර 4කින් හා හතරේ පහර 9කින් වර්ණවත් කළේය.
+
+මෙම තරගාවලිය පුරා ඉන්දීය ඉනිමට ප්‍රවේගකාරී ආරම්භයක් ලබාදුන් අභිෂේක් ෂර්මා අද ලකුණු 5ක දැවී ගියේය.
+
+එමෙන්ම ගිල්, සූර්යකුමාර්ද ලකුණු 20ක් තුළ යළි ක්‍රීඩාගාරයේ අසුන්ගැන්වීමට පාකිස්තාන පන්දු යවන්නෝ සමත් වූහ.
+
+...
+
+[Data](articles/66b66c30.json)
+
+---
+
+### பாகிஸ்தானை வீழ்த்தி சம்பியனான இந்தியா
+
+*2025-09-29 00:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாகிஸ்தானை-வீழ்த்தி-சம்பியனான-இந்தியா/44-365442) · `ta`
+
+ஐக்கிய அரபு அமீரகத்தின் டுபாயில் ஞாயிற்றுக்கிழமை (28) நடைபெற்ற பாகிஸ்தானுடனான இறுதிப் போட்டியில் வென்றே ஒன்பதாவது தடவையாக இந்தியா சம்பியனானது.
+
+இப்போட்டியின் நாணயச் சுழற்சியில் வென்ற இந்திய அணியின் தலைவர் சூரியகுமார் யாதவ், பாகிஸ்தானை முதலில் துடுப்பெடுத்தாடப் பணித்தார்.
+
+அந்தவகையில் முதலில் துடுப்பெடுத்தாடிய பாகிஸ்தான், சஹிப்ஸடா பர்ஹான், பக்கர் ஸமன் மூலம் சிறப்பான ஆரம்பத்தைப் பெற்றது. 57 (38) ஓட்டங்களுடன் வருண் சக்கரவர்த்தியிடம் பர்ஹான் வீழ்ந்ததன் பின்னர் 12.4 ஓவர்களில் ஒரு விக்கெட் இழப்புக்கு 113 ஓட்டங்களைப் பெற்றிருந்த பாகிஸ்தான் மேலும் 33 ஓட்டங்களைப் பெறுவதற்குள் குல்தீப் யாதவ் (4), அக்ஸர் பட்டேல் (2), வருண் சக்கரவர்த்தி, ஜஸ்பிரிட் பும்ராவிடம் (2) 9 விக்கெட்டுகளைப் பறிகொடுத்து 19.1 ஓவர்களில் சகல விக்கெட்டுகளையும் இழந்து 146 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/8a9eaa88.json)
+
+---
+
 ### 2025-09-28 (Sunday)
+
+### Creating eco-friendly schools and environmentally responsible children a key objective - PM
+
+*2025-09-28 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113008/creating-eco-friendly-schools-and-environmentally-responsible-children-a-key-objective-pm) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that as a government of the National People’s Power, it is the national vision to build a sustainable environment that ensures the sustain of all living beings and one of the key objectives is to create eco-friendly schools and environmentally responsible children through educational reforms.
+
+The prime minister made these remarks while addressing the opening of the newly established Moon Memorial Museum at the Royal Botanic Gardens, Peradeniya, on Sunday (28).
+
+The newly opened Moon Memorial Botanical Museum was established to commemorate the founder of the garden, Mr. Alexander Moon, marking the celebration of 200 years of the proud history of botany at the Royal Botanical Gardens, Peradeniya.
+
+...
+
+[Data](articles/23e69b7b.json)
+
+---
 
 ### Asian Cup: 147 runs for India
 
@@ -146,6 +202,28 @@ Inspection was revealed that he was submerged with a manner similar to the gold 
 [Data](articles/7958b6c3.json)
 
 [Extended Data](ext_articles/7958b6c3.ext.json)
+
+---
+
+### Body of Indian monk who died in cable car crash repatriated
+
+*2025-09-28 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113007/body-of-indian-monk-who-died-in-cable-car-crash-repatriated) · `en`
+
+The body of an Indian monk, who was among the eight Buddhist monks killed in a cable car crash at a forest monastery in Sri Lanka, was sent back to India on Sunday, officials said today.
+
+Also, the toll in the Wednesday night’s crash has risen to eight with the death of one of the six injured monks, the officials added.
+
+Seven Buddhist monks, including the Indian national, were killed and six others were injured after the cable-operated rail cart came crashing at the Na Uyana Aranya Senasanaya, a renowned Buddhist monastery located in Nikaweratiya.
+
+“The body of the Indian monk has been sent back to his relatives in Maharashtra in India,” the Indian High Commission said.
+
+The body of Dhamma Gavesi, 34, a native of Wardha district, was sent to Mumbai, one of his relatives said in India.
+
+“One of the six monks, who was critically injured and in hospital, passed away last night, increasing the death toll to eight,” Sri Lankan officials said.
+
+...
+
+[Data](articles/86a6fa74.json)
 
 ---
 
@@ -1936,87 +2014,5 @@ Police rushed to the scene and rescued the injured and admitted to a nearby hosp
 [Data](articles/5cb37706.json)
 
 [Extended Data](ext_articles/5cb37706.ext.json)
-
----
-
-### Karur incident - The number of casualties increased to 40
-
-*2025-09-28 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226323) · `ta`
-
-The number of casualties in the crowd during the campaign of TV leader Vijay in Karur in Tamil Nadu has increased to 40.
-
-கரூர் வேலுசாமிபுரத்தில் தவெக தலைவர் விஜய், நேற்று இரவு தேர்தல் பிரச்சாரத்தில் ஈடுபட்டார்.
-
-Earlier, at 10.30 am, the police had been allowed to campaign.
-
-However, Vijay left at 3 pm after campaigning in Namakkal.
-
-Meanwhile, volunteers and fans gathered at Karur Velusamipuram from 12 pm.
-
-The campaign bus moved very slowly as the crowd was so high from Velayuthampalayam on the Karur district border. Thus, Vijay was able to come to the campaign at 7.15 pm.
-
-When Vijay started talking there, his Mike didn't work. The people behind him came to the campaign bus to listen to his speech. Thus, those who waited in front of them were crowded.
-
-While Vijay was talking, many people began to breathe in. Also, some people were injured when the tree in the area collapsed. It was only after Vijay's campaign to rescue them.
-
-...
-
-[Data](articles/b6e183b4.json)
-
-[Extended Data](ext_articles/b6e183b4.ext.json)
-
----
-
-### Singapore urges UN to curb Security Council vetoes
-
-*2025-09-28 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/112998/singapore-urges-un-to-curb-security-council-vetoes) · `en`
-
-Singapore has called on the United Nations to rein in the rising use of veto powers by the five permanent members of the Security Council and pressed for reforms to make the organisation more inclusive.
-
-Delivering the country’s national statement at the UN General Assembly in New York on Sunday (Sep 28), Foreign Affairs Minister Vivian Balakrishnan said the veto is being deployed with growing frequency at a time of widening conflicts.
-
-“The increasing, and if I may add, cynical use of vetoes by the P5 must be constrained,” said Dr Balakrishnan, adding that the wider UN membership must reach an agreement on how this veto is exercised in the future.
-
-“Just as the world has changed dramatically in the last 80 years, it is also clear that the UN needs to reform to be fit for purpose for the next stretch,” he said. “We need a more representative and a more inclusive UN that reflects current realities.”
-
-...
-
-[Data](articles/c898e201.json)
-
-[Extended Data](ext_articles/c898e201.ext.json)
-
----
-
-### Plantation Labor Salary issue: Court order to be executed?
-
-*2025-09-28 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226314) · `ta`
-
-For the future development of the plantation industry, it is mandatory to switch from the daily wage to the production -based wage system.
-
-◼️
-
-[Data](articles/44848830.json)
-
-[Extended Data](ext_articles/44848830.ext.json)
-
----
-
-### 39 killed in Wijee's rally
-
-*2025-09-28 14:22:12* · [`adalk`](https://www.ada.lk/international/විජේගේ-රැළියේ-තෙරපීමෙන්-39ක්-ජීවිතක්ෂයට/3-418769) · `si`
-
-Officials say that at least 39 people, including children, have died in a political rally during the state of Tamil Nadu in South India.
-
-Tens of thousands of people gathered in the South Curraw district. Regional media reported that the launch of the rally was too late in a few hours. The televised images of the television showed that the people were fainted between a filled people.
-
-Tamil Nadu Chief Minister MK. ස්ටාලින් කරූර් හි වාර්තාකරුවන්ට පැවසුවේ මියගිය සංඛ්‍යාවට අවම වශයෙන් කාන්තාවන් 17 දෙනෙකු, පිරිමින් 13 දෙනෙකු සහ ළමුන් නව දෙනෙකු ඇතුළත් වන බවයි. He said that 51 others were receiving treatment.
-
-The families of the deceased have been compensated for the families of the deceased and that an inquiry will be conducted into the incident.
-
-◼️
-
-[Data](articles/a129e98c.json)
-
-[Extended Data](ext_articles/a129e98c.ext.json)
 
 ---

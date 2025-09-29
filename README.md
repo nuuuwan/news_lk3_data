@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 00:37:01**
+As of **2025-09-30 00:13:25**
 
 ## Newspaper Stats
 
-*Scraped **79,648** Articles*
+*Scraped **79,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,122 +16,22 @@ colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
-dailyftlk | 5,588
+dailyftlk | 5,584
 adalk | 7,667
 adaderanalk | 10,280
 tamilmirrorlk | 11,918
-virakesarilk | 12,998
+virakesarilk | 12,992
 adaderanasinhalalk | 13,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,644 (100.0%) of 79,648 articles have been extended.
+79,638 (100.0%) of 79,638 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2025-09-30 (Tuesday)
-
-### Can Gaza be saved by the UN General Assembly through a 1950 Resolution?
-
-*2025-09-30 00:09:55* · [`dailyftlk`](https://www.ft.lk/columns/Can-Gaza-be-saved-by-the-UN-General-Assembly-through-a-1950-Resolution/4-782357) · `en`
-
-If blocked by a veto-wielding country, the UNGA has the means to bypass the Security Council
-
-An immediate ceasefire in Palestine, which is being bombed every 8-9 minutes according to the UN spokesperson Stephane Dujarric, was deadlocked at the Security Council last week through a veto by the United States of America. A deadlock which blocked a potential halt to the killing of civilians at a scale and intensity that the world has not seen in living memory outside of World War II.
-
-Thankfully, all is not lost at the United Nations. In this situation of deadlock where there is a threat to global peace and security, the UN General Assembly (UNGA) isn’t entirely helpless. If blocked by a veto-wielding country, the UNGA has the means to bypass the Security Council by invoking a 1950 Resolution known as Uniting for Peace, Resolution 377 A(V), which gives the General Assembly the power to recommend a number of mechanisms including the use of force.
-
-...
-
-[Data](articles/ffa3e8dd.json)
-
-[Extended Data](ext_articles/ffa3e8dd.ext.json)
-
----
-
 ### 2025-09-29 (Monday)
-
-### Budget 2025: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2025-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/66618729.json)
-
-[Extended Data](ext_articles/66618729.ext.json)
-
----
-
-### 3 lorries were seized with drugs in Tangalle; Continued explanation for the suspects
-
-*2025-09-29 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226443) · `ta`
-
-The Tangalle Magistrate's Court has ordered that four suspects arrested in connection with the incident in connection with the incident in the Tangalle Seeni Mottara area.
-
-The order was issued by the magistrate on Monday (29) as the suspects were produced before the trial.
-
-Three lorries were seized with ice and heroin in the Tangalle Seenimodara and Kodellawa area on the 22nd (Monday). The bodies and narcotics of the two were killed. About 705 kg of narcotics were recovered by the police during the raid that day, and a T-56 rifle and 5 rifle rifles were seized.
-
-Two sons of Unakuruwe Dusitha, who died after being admitted to the hospital, have already been arrested after the incident, three registered owners and a lorry driver have been arrested.
-
-...
-
-[Data](articles/5049941e.json)
-
-[Extended Data](ext_articles/5049941e.ext.json)
-
----
-
-### Justice delayed and institutional credibility: Lessons from Easter Sunday case
-
-*2025-09-29 22:38:57* · [`dailyftlk`](https://www.ft.lk/columns/Justice-delayed-and-institutional-credibility-Lessons-from-Easter-Sunday-case/4-782350) · `en`
-
-Justice delayed has not only compounded victims’ suffering but has also damaged institutional credibility
-
-To analyse the justice delays and inconsistencies following the 2019 Easter Sunday attacks, and to propose policy measures to strengthen the rule of law, enhance prosecutorial and judicial independence, and restore public trust in Sri Lanka’s criminal justice system.
-
-The Easter Sunday terrorist attacks in April 2019 killed over 260 people and injured hundreds.
-
-Inconsistencies in prosecutorial decisions by the Attorney General’s Department, coupled with judicial delays, have raised questions about political interference, institutional weakness, and erosion of public trust.
-
-This case has become a litmus test for the credibility of Sri Lanka’s criminal justice system.
-
-Justice must be equal, timely, and free from political influence.
-
-Prolonged delays have weakened the principle of equality before the law.
-
-...
-
-[Data](articles/4a75ae76.json)
-
-[Extended Data](ext_articles/4a75ae76.ext.json)
-
----
-
-### Ranil’s resolve to end rule of law
-
-*2025-09-29 22:28:34* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-resolve-to-end-rule-of-law/4-782349) · `en`
-
-“The reactionary is always willing to take a progressive attitude on any issue that is dead” – Theodore Roosevelt
-
-Ranil Wickremesinghe (RW), one of the fallen heroes at the 2024 Presidential Election, has been reported to be planning to organise 1,000 rallies across the country and calling all Opposition leaders, their aficionados and apparatchiks to rally behind him in his war against what he described as a “constitutional dictatorship”. If one understood the logic behind that concoction, one would have gathered that if there is a dictatorship prevailing currently in the country then that dictatorship has been permitted by the constitution.
-
-...
-
-[Data](articles/c61184e5.json)
-
-[Extended Data](ext_articles/c61184e5.ext.json)
-
----
 
 ### EA Gets Acquired in a $55 Billion Deal—The Biggest Power-Up in Gaming History
 
@@ -334,28 +234,6 @@ Following the introduction of the two countries' representatives, there have bee
 [Data](articles/f2643640.json)
 
 [Extended Data](ext_articles/f2643640.ext.json)
-
----
-
-### 12th month of Anura
-
-*2025-09-29 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226442) · `ta`
-
-President Anura Kumara Dissanayake's regime has completed its first year. This first year is a period of time, such as government efforts, caution, and strategies for normal economic issues.
-
-In this way, it would be appropriate to focus on the economic and economic reach of the President when the President was looking at the first regime of Anuragumara.
-
-This is because the government has been expressed since the first day of the rule of the government, rather than political and economic issues.
-
-Focusing on some vegetables, fruits and groceries, with inflation, GDP growth, tourism, exports, labor money laundering and stockpile.
-
-In that case, first, when looking at inflation, inflation is a common sense of family.  Thus, the 2024 crisis was 2.4 percent in July. When compared to that time, food prices have increased by 0.8 percent. Prices of non -food products have risen by 0.4 percent.
-
-...
-
-[Data](articles/0acf1732.json)
-
-[Extended Data](ext_articles/0acf1732.ext.json)
 
 ---
 
@@ -1811,26 +1689,6 @@ I wish to remind you that you are not joining a traditional public service. You 
 
 ---
 
-### தன்பாலினத்தவர்களுக்குரிய வசதிகளை ஏற்படுத்திக்கொடுக்குமாறு சுற்றுலாத்துறை அதிகார சபை அறிவித்துள்ளமை முறையற்றது ; நாமல் ராஜபக்ஷ
-
-*2025-09-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226412) · `ta`
-
-சுற்றுலாத்துறையை மேம்படுத்துவதற்காக  தன்பாலினத்தவர்களுக்குரிய வசதிகளை ஏற்படுத்திக்கொடுக்குமாறு சுற்றுலாத்துறை அதிகார சபை அறிவித்துள்ளமை முறையற்றது. இந்த தீர்மானத்தை அரசாங்கம் மீள்பரிசீலனை செய்ய வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும்,பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ தெரிவித்தார்.
-
-அரச நிர்வாகத்தில் இடம்பெறும் முறைகேடுகள் அனைத்தையும் கடந்த அரசாங்கங்கள் மீது சுமத்துவதை ஆட்சியாளர்கள் பிரதான கொள்கையாக கொண்டுள்ளார்கள்.
-
-ஆட்சிக்கு வந்து ஒருவருடம் நிறைவடைந்துள்ளது ஆகவே இன்றும் கடந்த காலங்களை விமர்சித்துக் கொண்டிக்க வேண்டாம் என்று அரசாங்கத்திடம் குறிப்பிட்டுக்கொள்கிறோம்.
-
-போதைப்பொருள் குற்றச்சாட்டையும் ராஜபக்ஷர்கள் மீது சுமத்துவதற்கு அரசாங்கம் முயற்சிக்கிறது.கைப்பற்றப்படும் போதைப்பொருள் பற்றி மாத்திரமே பேசப்படுகிறது.
-
-ஆனால் சர்வதேச புலனாய்வு பிரிவினரால் முன்கூட்டியதாகவே தகவல் வழங்கப்பட்ட 2 கொள்கலன்களை விடுவித்தவர்கள் பற்றி ஏதும் குறிப்பிடப்படுவதில்லை.
-
-...
-
-[Data](articles/2082e3fd.json)
-
----
-
 ### It is not normal for a private bank to stop all its activities in Sri Lanka - the United People's Power
 
 *2025-09-29 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226417) · `ta`
@@ -2030,5 +1888,137 @@ The deceased is Thivanka Piyatissa, a third year student of the Faculty of Scien
 [Data](articles/b9f01a58.json)
 
 [Extended Data](ext_articles/b9f01a58.ext.json)
+
+---
+
+### Peradeniya medical student killed in accident
+
+*2025-09-29 16:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරදණ-වදය-සසව-අනතරන-මරට/1-680422) · `si`
+
+A 24-year-old student was killed in an accident in the Urapola Junction area in Kadugannawa, police said.
+
+The student has died due to a lorry transport vehicle traveling to the University of Kadugannawa main road.
+
+The deceased is Thivanka Piyatissa, a third year student of the Faculty of Science, Peradeniya University, Peradeniya University.
+
+◼️
+
+[Data](articles/eb18e799.json)
+
+[Extended Data](ext_articles/eb18e799.ext.json)
+
+---
+
+### 'Yatisi' film director directed by Sasikumar
+
+*2025-09-29 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226425) · `ta`
+
+Official information has been revealed that director Tarani Rajendran is directing the film 'Ayodhya', 'Garuda', 'Nandan' and 'Tourist Family' and the unnamed film, which has been named as the leading star of Sasikumar's story.
+
+Sasikumar, Seyon, Bhavani Sri, Samudrakani, Shivata, Kishore and many others are starring in the upcoming film directed by director Tharani Rajendran.
+
+The film was made on behalf of JK Film International.. Produced by Kamalakannan.
+
+The shooting of the film is going on bright. In this case, the film crew has released a photo of the character he is accepted by the film's hero Sasikumar's birthday.
+
+Commenting on the film, the director said, “The storyline is set in the backdrop of the British who ruled India.
+
+Sasikumar, the hero of the story, appears as a naval officer. There are also action exnses scenes in the film. ”
+
+Seventy percent of filming has been completed.. The film crew is excited that the film and teaser will be released soon.
+
+◼️
+
+[Data](articles/994c2524.json)
+
+[Extended Data](ext_articles/994c2524.ext.json)
+
+---
+
+### Tokyo Talks: Sri Lanka Secures UAVs, Backs Free Indo-Pacific Vision
+
+*2025-09-29 16:12:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/tokyo-talks-sri-lanka-secures-uavs-backs-free-indo-pacific-vision) · `en`
+
+COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake and Japanese Prime Minister Ishiba Shigeru reaffirmed their commitment to deepening bilateral security and strategic cooperation during high-level talks in Tokyo on Monday. The meeting marked a significant step in advancing defense collaboration and regional stability in the Indo-Pacific.
+
+Both leaders emphasized the importance of enhancing Sri Lanka’s security and deterrence capabilities to safeguard peace in the Indian Ocean Region. In a landmark move, Japan announced the provision of advanced Unmanned Aerial Vehicles (UAVs) to Sri Lanka under its first Official Security Assistance (OSA) initiative. The UAVs will bolster maritime surveillance and disaster relief operations, reinforcing Sri Lanka’s role in maintaining regional security.
+
+...
+
+[Data](articles/65ef94f6.json)
+
+[Extended Data](ext_articles/65ef94f6.ext.json)
+
+---
+
+### Conversation with India to start a solar panel manufacturing plant
+
+*2025-09-29 16:09:56* · [`adalk`](https://www.ada.lk/breaking_news/සූර්ය-පැනල-නිෂ්පාදන-කර්මාන්ත-ශාලාවක්-ආරම්භයට-ඉන්දියාව-සමග-සාකච්ඡා/11-418792) · `si`
+
+Minister of Energy Minister Kumara Jayakody met with Indian Energy, Housing and Urban Affairs, and the progress of the energy cooperation between Sri Phari Palhard Joshi (Shri Pilad Joshi) and discussions with India. Surveyed.
+
+In particular, many procurement procedures for the renewable energy factory in Sri Lanka with the Minister of Renewable Energy in Sri Lanka have been discussed and discussed with further training in Sri Lanka.. The Energy Factory Structure of the Energy Sector also discussed the steps that can be taken to achieve efficiency in the establishment objectives and the efficiency of the institutional structures.
+
+The Indian Industrial Federation (PC) conquest and the exhibition was held in New Delhi in India recently, the participation of the energy and the above discussions were organized.
+
+◼️
+
+[Data](articles/28b200a7.json)
+
+[Extended Data](ext_articles/28b200a7.ext.json)
+
+---
+
+### University student dies in accident
+
+*2025-09-29 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226423) · `ta`
+
+A university student has died in an accident at Urapola junction on the main road of Kadugannawa - Colombo main road, police said.
+
+The victim was a 24 -year -old student who was educated at the Faculty of Science, Peradeniya University.
+
+இந்த பல்கலைக்கழக மாணவன் பேராதனை பல்கலைக்கழகத்தை நோக்கி மோட்டார் சைக்கிளில் சென்றுக்கொண்டிருக்கும் போது பாரவூர்தியில் மோதி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a71af255.json)
+
+[Extended Data](ext_articles/a71af255.ext.json)
+
+---
+
+### Discussions with India to improve energy cooperation
+
+*2025-09-29 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215140) · `si`
+
+Minister of Energy, Kumara Jayakody, who is traveling in India and Minister of India and Urban Affairs, a meeting with Sriouha Lal Kar and Renewable Energy Minister Sri Phahahar Lal Karr and Renewable Energy Minister Sri Phauhar Lal Karr and Renewable Energy Minister.
+
+There, the development of energy cooperation between the two countries have discussed the progress of the projects in Sri Lanka with India and discussed future investment opportunities.
+
+In particular, many procurement procedures, including the renewable energy factory in Sri Lanka with the Minister of Renewable Energy, has been discussed, and discussing further training programs in the renewable energy industry.
+
+It is also discussed on the steps that can be taken to enhance efficiency in the structural structures of the Energy Factory Structure and the Energy structures.
+
+The Indian Industry Federation was organized by the Indian Industry Federation and the exhibition in New Delhi in India recently.
+
+◼️
+
+[Data](articles/2e16aeea.json)
+
+[Extended Data](ext_articles/2e16aeea.ext.json)
+
+---
+
+### Sri Lanka and Japan Pledge Stronger Ties In Joint Statement
+
+*2025-09-29 16:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka-and-japan-pledge-stronger-ties-in-joint-statement) · `en`
+
+COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake met Japanese Prime Minister Ishiba Shigeru in Tokyo on Monday, reaffirming the two nations’ commitment to deepen their longstanding partnership across economic, security, and development spheres. In a joint statement issued after the talks, both leaders underscored their intention to expand cooperation under the Comprehensive Partnership framework. The discussions focused on economic recovery, infrastructure development, trade, and regional security.
+
+◼️
+
+[Data](articles/41df1bec.json)
+
+[Extended Data](ext_articles/41df1bec.ext.json)
 
 ---

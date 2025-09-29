@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 16:10:20**
+As of **2025-09-29 15:39:06**
 
 ## Newspaper Stats
 
-*Scraped **79,517** Articles*
+*Scraped **79,510** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 439
-newsfirstlk | 483
+lankadeepalk | 437
+newsfirstlk | 482
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -17,177 +17,89 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,661
+adalk | 7,660
 adaderanalk | 10,257
 tamilmirrorlk | 11,903
 virakesarilk | 12,968
-adaderanasinhalalk | 13,772
+adaderanasinhalalk | 13,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,514 (100.0%) of 79,517 articles have been extended.
+79,501 (100.0%) of 79,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### Sri Lanka Secures Major Japanese Support for Growth and Stability
-
-*2025-09-29 15:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka-secures-major-japanese-support-for-growth-and-stability) · `en`
-
-COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake met Japanese Prime Minister Ishiba Shigeru in Tokyo on Monday (29), reaffirming the two nations’ commitment to deepen their longstanding partnership across economic, security, and development spheres.
-
-In a joint statement issued after the talks, both leaders underscored their intention to expand cooperation under the Comprehensive Partnership framework.
-
-The discussions focused on economic recovery, infrastructure development, trade, and regional security.
-
-Prime Minister Ishiba praised Sri Lanka’s progress in stabilizing its economy through IMF-backed reforms and debt restructuring. He reiterated Japan’s continued support for these efforts, highlighting Japan’s role as a co-chair of the Official Creditor Committee and its early bilateral agreement on debt restructuring earlier this year.
-
-...
-
-[Data](articles/59f61153.json)
-
----
-
-### විශ්වවිද්‍යාල ආචාර්යවරු හෙට වර්ජනයක
-
-*2025-09-29 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215139) · `si`
-
-විශ්වවිද්‍යාල පද්ධතියේ පවතින ගැටලු විසඳීමට රජය මෙතෙක් අපොහොසත් වීම හේතුවෙන් හෙට (30) වර්ජන ක්‍රියාමාර්ගයක නිරත වන බව විශ්වවිද්‍යාලයීය ආචාර්යවරුන්ගේ සමිති සම්මේලනය පවසයි.
-
-◼️
-
-[Data](articles/02123331.json)
-
----
-
-### Sexual disease for monkeys
+### குரங்குகளுக்கு பாலியல் நோய்
 
 *2025-09-29 15:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளுக்கு-பாலியல்-நோய்/175-365483) · `ta`
 
-Increased rates of `syphilis, a sexually transmitted disease among monkeys and papuons living around the holy shrine of Polonnaruwa.
+பொலன்னறுவை புனித தலத்தைச் சுற்றி வாழும் குரங்குகள் மற்றும் பபூன்களிடையே பாலியல் ரீதியாக பரவும் நோயான `சிபிலிஸ்’ பரவும் வீதம் அதிகரித்துள்ளமை கண்டறியப்பட்டுள்ளது.
 
-Nihal Pushpa Kumara, veterinarian of the Eastern Health Management Division, said that the disease is spreading among monkeys and papuons in the Polonnaruwa district.
+பொலன்னறுவை மாவட்டத்தில் குரங்குகள் மற்றும் பபூன்கள் மத்தியில் இந்த நோய் பரவி வருவதாக கிழக்கு சுகாதார மேலாண்மை பிரிவின் கால்நடை மருத்துவர் நிஹால் புஷ்ப குமார தெரிவித்தார்.
 
-Although last year's tests did not reveal whether the disease spread among monkeys and papuons, this year's tests have been confirmed.
+குரங்குகள் மற்றும் பபூன்களிடையே இந்த நோய் பரவியதா என்பது கடந்த ஆண்டு நடத்தப்பட்ட சோதனைகள் ஊடாக  வெளிப்படுத்தவில்லை என்றாலும், இந்த ஆண்டு நடத்தப்பட்ட சோதனைகளில் இது   உறுதிப்படுத்தப்பட்டுள்ளது.
 
-He also stressed that the spread of the disease is high among monkeys and papuons wandering around the holy place.
+புனித தலத்தைச் சுற்றித் திரியும் குரங்குகள் மற்றும் பபூன்கள் கூட்டங்களிடையே இந்த நோய் பரவுவது அதிகமாகக் காணப்படுவதாகவும் அவர் வலியுறுத்தினார்.
 
-Also, many monkeys and mice affected by Siplis were identified by tests conducted in 2023-2024.
+மேலும் சிபிலிஸால் பாதிக்கப்பட்ட பல குரங்குகள் மற்றும் எலிகள் 2023-2024 ஆம் ஆண்டுகளிலும்  நடத்தப்பட்ட சோதனைகளின் ஊடாக அடையாளம் காணப்பட்டன.
 
 ◼️
 
 [Data](articles/54c78270.json)
 
-[Extended Data](ext_articles/54c78270.ext.json)
-
 ---
 
-### Explosive incident in a dilapidated house in Kilinochchi: two injured
+### கிளிநொச்சியில் பாழடைந்த வீடொன்றுக்குள் வெடிப்பு சம்பவம்: இருவர் காயம்
 
 *2025-09-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226407) · `ta`
 
-Two people were injured in an explosion inside a dilapidated house in Kilinochchi.
+கிளிநொச்சியில் உள்ள பாழடைந்த வீடொன்றுக்குள் ஏற்பட்ட வெடிப்பு சம்பவத்தில் இரண்டு பேர் காயமடைந்துள்ளனர்.
 
-Two people who went to renovate a dilapidated house were injured when they were doing their job.
+பாழடைந்த வீடொன்றை புனரமைக்கச் சென்ற இருவர் தங்கள் வேலையைச் செய்து கொண்டிருந்தபோது, வீட்டில் புதைக்கப்பட்டிருந்த வெடிகுண்டு வெடித்ததில் காயமடைந்துள்ளனர்.
 
-Both injured have been admitted to the Kilinochchi Hospital for emergency treatment during the explosion.
+வெடிப்பு சம்பவத்தின் போது பலத்த காயமடைந்த இருவரும் அவசர சிகிச்சைக்காக கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/f0bb3f5e.json)
 
-[Extended Data](ext_articles/f0bb3f5e.ext.json)
-
 ---
 
-### Blessing at Sri Dalada House for military flags
+### இராணுவக் கொடிகளுக்கு ஸ்ரீ தலதா மாளிகையில் ஆசீர்வாதம்
 
 *2025-09-29 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226414) · `ta`
 
-As part of the special religious events organized to commemorate the 76th anniversary of the Sri Lankan army, the blessing of the Sri Dalada House for the military flags was held on Sunday (28) at the Sri Dalada House complex in Kandy.
+இலங்கை இராணுவத்தின் 76வது ஆண்டு நிறைவை நினைவுகூரும் வகையில் ஏற்பாடு செய்யப்பட்ட சிறப்பு மத நிகழ்ச்சிகளின் ஒரு பகுதியாக, இராணுவக் கொடிகளுக்கு ஸ்ரீ தலதா மாளிகையில் ஆசீர்வாதம் பெறும் விழா ஞாயிற்றுக்கிழமை (28) கண்டியில் உள்ள ஸ்ரீ தலதா மாளிகை வளாகத்தில் நடைபெற்றது.
 
-The event was chaired by Army Commander Lieutenant General Lasantha Rodrigo.
+இந்த நிகழ்ச்சி இராணுவத் தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ தலைமையில் நடைபெற்றது.
 
-Senior officials, officers and soldiers were present at the event, representing all the army's brigades.
+இராணுவத்தின் அனைத்து படையணிகளையும் பிரதிநிதித்துவப்படுத்தி சிரேஷ்ட அதிகாரிகள், அதிகாரிகள் மற்றும் சிப்பாய்கள் இந்த நிகழ்வில் கலந்துகொண்டனர்.
 
 ◼️
 
 [Data](articles/175a1a96.json)
 
-[Extended Data](ext_articles/175a1a96.ext.json)
-
 ---
 
-### Day to consider a petition against Minister Upali Pannila
-
-*2025-09-29 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215138) · `si`
-
-The Court of Appeal was set to call on February 27 to consider a petition filed by Dr. Upali Panilage.
-
-The petition was presented by the President of the New Thirty Front, Mr. Asala Herath.
-
-The petition was called before the Court of Appeal, Principal of the Court of Appeal and Priyantha Fernando.
-
-The judge's panel of judges presented to the petitioners and the lawyers of the lawyers, the petition filed to be summoned on February 27.
-
-The petitioner says that after the last general election, Dr. Upali Pannila was appointed as a national listing MP in the national power.
-
-When the appointment was made by Mr. Upali Pannila, Upali Pannila was serving as a sociological professor at Ruhuna University.
-
-The petitioner requested the Court of Appeal to issue a parliamentary post as a parliamentarian as a parliamentary position as a parliamentary position as a parliamentary term.
-
-◼️
-
-[Data](articles/3c2e3ab1.json)
-
-[Extended Data](ext_articles/3c2e3ab1.ext.json)
-
----
-
-### Political Public Service End
-
-*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දශපලන-ගත-රජය-සවය-අවසන/1-680419) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the government's objective is to establish an independent and efficient public service providing proper service to the people.
-
-The Prime Minister also demanded the collection of the role of the development of the country through an efficient public service dedicated to the people.
-
-The Prime Minister was addressing the ceremony held at Temple Trees today (29) at Temple Trees today (29).
-
-Prime Minister Dr. Harari Amarasuriya said:
-
-"You would like to remind you that it is not for a traditional public service. You are not a ineffective and political service so far.
-
-The minister said to the people and an independent public service.
-
-◼️
-
-[Data](articles/16ced147.json)
-
-[Extended Data](ext_articles/16ced147.ext.json)
-
----
-
-### Bail for Amal Silva!
+### அமல் சில்வாவுக்கு பிணை!
 
 *2025-09-29 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226413) · `ta`
 
-The Panadura Magistrate's Court today (29) ordered the release of former Western Provincial Council member Amal Silva on bail.
+முன்னாள் மேல் மாகாண சபை உறுப்பினர் அமல் சில்வாவை பிணையில் விடுதலை செய்யுமாறு பாணந்துறை நீதவான் நீதிமன்றம் இன்று திங்கட்கிழமை (29) உத்தரவிட்டுள்ளது.
 
-Accordingly, the magistrate has ordered Amal Silva to be released on two bodies worth Rs 50 lakhs.
+அதன்படி, அமல் சில்வாவை 50 இலட்சம் ரூபா பெறுமதியான இரண்டு சரீர பிணைகளில் விடுதலை செய்யுமாறு நீதவான் உத்தரவிட்டுள்ளார்.
 
-Amal Silva Valana has been arrested on Sunday (28) on charges of illegally importing three jeep vehicles worth Rs 6 crore and producing fake documents.
+6 கோடி ரூபாய் பெறுமதியான மூன்று ஜீப் வாகனங்களை சட்டவிரோதமாக இறக்குமதி செய்து, அதற்கு போலி ஆவணங்களை தயாரித்த குற்றச்சாட்டில்  அமல் சில்வா வலான ஊழல் ஒழிப்பு பிரிவு அதிகாரிகளால் நேற்று ஞாயிற்றுக்கிழமை (28) கைதுசெய்யப்பட்டுள்ளார்.
 
-The arrested former Western Provincial Council member Amal Silva was released on bail after being produced at the Panadura Magistrate's Court today.
+கைதுசெய்யப்பட்ட முன்னாள் மேல் மாகாண சபை உறுப்பினர் அமல் சில்வா பாணந்துறை நீதவான் நீதிமன்றில் இன்று ஆஜர்படுத்தப்பட்டதையடுத்து பிணையில் விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/3919b984.json)
-
-[Extended Data](ext_articles/3919b984.ext.json)
 
 ---
 
@@ -236,30 +148,6 @@ The beauty of the beauty will be held in Bangkok, Thailand from September 30 to 
 [Data](articles/90237897.json)
 
 [Extended Data](ext_articles/90237897.ext.json)
-
----
-
-### Former Minister Champika's petition dates back
-
-*2025-09-29 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215137) · `si`
-
-Former Minister Minister Patali Champika Ranawaka, who has been filed by the Attorney General to the Colombo High Court, has been appointed as the Attorney General to issue a serious operation in Rajagiriya area in 2016.
-
-The petition was called before the Court of Appeal today (29).
-
-The judge who appeared on behalf of Mr. Champiri Ranawaka, Patali Champika Ranawaka, was sentenced to summons on November 24 to the examination.
-
-Former Minister Patali Champika Ranawaka has been charged with Gotabhaya Rajapaksa's residents against former Minister Patali Vimanawa Ranawaka on the 28th of February 2016.
-
-The petitioner stated that the basic objections have been sentenced to the preliminary objections to reject the preliminary objections to the law and reject them.
-
-The petition has come to the Court of Appeal to issue the decision to issue a decree to the law and issued a decision to issue the decision as the decision was taken into law and issued a decision.
-
-◼️
-
-[Data](articles/47453c26.json)
-
-[Extended Data](ext_articles/47453c26.ext.json)
 
 ---
 
@@ -316,20 +204,6 @@ During the tenure of former President Gotabhaya Rajapakse, the Attorney General 
 [Data](articles/9383431f.json)
 
 [Extended Data](ext_articles/9383431f.ext.json)
-
----
-
-### අත්අඩංගුවට ගත් අර්ච්චුනාට ලැබුණු නියෝගය මෙන්න
-
-*2025-09-29 14:42:49* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-අර්ච්චුනාට-ලැබුණු-නියෝගය-මෙන්න/11-418791) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා ඇප මත නිදහස් කිරීමට කොටුව මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
-
-ඒ අනුව රුපියල් මිලියනය බැගින් වූ ශරීර ඇප දෙකක් මත ඇප ලබා දීමට අධිකරණය නියෝග කර ඇත.
-
-◼️
-
-[Data](articles/6f767858.json)
 
 ---
 
@@ -1229,23 +1103,21 @@ Anand (Shivaji Ganesan), the youngest Jamindar, is the youngest of the Jamindar 
 
 ---
 
-### Father and son arrested with bullets
+### வென்னப்புவையில் தோட்டாக்களுடன் தந்தையும் மகனும் கைது!
 
 *2025-09-29 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226394) · `ta`
 
-Father and son have been arrested by the father and son of Wennappuwa in Puttalam, Wennappuwa and Mirissankotuwa area.
+புத்தளம், வென்னப்புவை, மிரிஸ்ஸன்கொட்டுவ பிரதேசத்தில் போர் 12 ரக துப்பாக்கிக்குரிய தோட்டாக்களுடன் தந்தை மற்றும் மகன் வென்னப்புவை பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளனர்.
 
-A 17 -year -old girl has lodged a complaint at the Wennappuwa police station that the father and brother are trying to attack him and have bullets at home because he lives with her beloved.
+தான் காதலிப்பவருடன் வசித்து வருவதால், தந்தையும் சகோதரனும் தன்னை தாக்குவதற்கு முயற்சிப்பதாகவும் வீட்டில் தோட்டாக்கள் இருப்பதாகவும் 17 வயதுடைய யுவதி ஒருவர் வென்னப்புவை பொலிஸ் நிலையத்தில் முறைப்பாடு அளித்துள்ளார்.
 
-Subsequently, both father and son have been arrested by the Wennappuwa police in a house in Mirissankotuwa area.
+இதனையடுத்து, வென்னப்புவை பொலிஸாரால் மிரிஸ்ஸன்கொட்டுவ பிரதேசத்தில் உள்ள வீடொன்றில் மேற்கொள்ளப்பட்ட சோதனையில் தந்தை மற்றும் மகன் ஆகிய இருவரும் கைதுசெய்யப்பட்டுள்ளனர்.
 
-During the raid, 24 bullets of the war were seized by the police from the house of the house.
+இந்த சோதனை நடவடிக்கையின் போது வீட்டின் அலுமாரியில் இருந்து போர் 12 ரக துப்பாக்கிக்குரிய 24 தோட்டாக்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
 
 ◼️
 
 [Data](articles/8e1aca12.json)
-
-[Extended Data](ext_articles/8e1aca12.ext.json)
 
 ---
 
@@ -1423,8 +1295,6 @@ The President is scheduled to conclude his official visit to Japan tomorrow.
 
 [Data](articles/fe8d21f4.json)
 
-[Extended Data](ext_articles/fe8d21f4.ext.json)
-
 ---
 
 ### Land decline in the construction work in Mawanella; The bodies of two workers are recovered!
@@ -1481,8 +1351,6 @@ However, according to Ada Derana reporter, the bodies of all three individuals h
 
 [Data](articles/94b83d82.json)
 
-[Extended Data](ext_articles/94b83d82.ext.json)
-
 ---
 
 ### “Digital Transformation Depends on People” - PM
@@ -1514,24 +1382,6 @@ He has been handed over to the Western Province Southern District Crime Branch a
 [Data](articles/eed19599.json)
 
 [Extended Data](ext_articles/eed19599.ext.json)
-
----
-
-### President meets Japanese Prime Minister today
-
-*2025-09-29 11:51:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-අද-ජපන-අගමත-හමවය/1-680402) · `si`
-
-President Anura Kumara Dissanayake is scheduled to hold talks at the Japanese Prime Minister's Office today (29) at the Japanese Prime Minister's Office today (29).
-
-The two countries will focus on the fields, investment, investment cooperation and security of the two countries.
-
-Dr. Hans Wijayasuriya of Foreign Affairs and Tourism and Tourism, Dr. Hans Wijayasuriya, Presidential Economic Advisor to the President and the Ministry of External Affairs will participate in these discussions.
-
-◼️
-
-[Data](articles/816a1d30.json)
-
-[Extended Data](ext_articles/816a1d30.ext.json)
 
 ---
 
@@ -1658,8 +1508,6 @@ An operation was launched earlier today to extricate the individuals safely.
 ◼️
 
 [Data](articles/fad1c7ff.json)
-
-[Extended Data](ext_articles/fad1c7ff.ext.json)
 
 ---
 
@@ -1930,5 +1778,135 @@ The first, second and third place teams are owners of CDS accounts, and if they 
 [Data](articles/c92d2c8d.json)
 
 [Extended Data](ext_articles/c92d2c8d.ext.json)
+
+---
+
+### Don’t Overlook Sri Lanka — It’s a Paradise Waiting to Be Explored
+
+*2025-09-29 11:09:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/don%e2%80%99t-overlook-sri-lanka-%e2%80%94-it%e2%80%99s-a-paradise-waiting-to-be-explored) · `en`
+
+COLOMBO (News 1st); Multi-award-winning luxury travel designer Dani Wilson Naqvi named Sri Lanka as the most underrated destination in the global travel landscape.
+
+“Sri Lanka is a place I always recommend,” Naqvi said on the travel podcast Travel Stories with Moush. “You can be up in the tea trails, surrounded by misty mountains that feel like Switzerland, and within hours, be on a golden beach watching whales or enjoying a safari.”
+
+The island nation, often overshadowed by more commercialized destinations, offers a rare blend of luxury, nature, culture, and adventure — all within a compact geography.
+
+From the lush highlands of Ella and Nuwara Eliya to the sun-kissed shores of Mirissa and Trincomalee, Sri Lanka is a paradise waiting to be explored.
+
+Naqvi emphasized that Sri Lanka’s hospitality, cuisine, and diversity of experiences make it a standout destination. “The food is amazing, the service is excellent, and there’s so much to do — yet many travelers still overlook it.”
+
+...
+
+[Data](articles/322c21ad.json)
+
+[Extended Data](ext_articles/322c21ad.ext.json)
+
+---
+
+### Fuel Filling Station in Nedundi; Agreement on Oct 4! - The younger son
+
+*2025-09-29 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226379) · `ta`
+
+The contract for the setting up of a refueling station in Nedundi is scheduled to be held on October 4.. Said Ilangumaran.
+
+Due to the lack of refueling station in the Nedundevu area, the people of the area go to Velani and get their fuel.
+
+The residents of the area are looking for a sail from Nedundi to the indicator for about an hour, from the indicator to the Velanai area to buy fuel and bring it back to Nedundevu.
+
+In this backdrop, Parliamentarian Ilangumaran said that the contract for the setting up of a refueling plant will be held on the 4th of this month, with the people living there for a long time to set up a refueling station in Nedundi.
+
+It is noteworthy that people living in the islands have long been demanding that fuel stations be set up for other sea islands, like Nedundevu.
+
+◼️
+
+[Data](articles/7d1a3e11.json)
+
+[Extended Data](ext_articles/7d1a3e11.ext.json)
+
+---
+
+### Massive disaster at Mawanella
+
+*2025-09-29 11:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவனெல்லையில்-பாரிய-அனர்த்தம்/175-365462) · `ta`
+
+A group of workers who were working on the wall of the wall on Monday (29) in the Mawanella, Aluthnuwara and Manikawa area collapsed.
+
+Rescue operations have been launched to rescue those who have been trapped under the wreckage. Emergency groups and local residents are currently helping this initiative.
+
+◼️
+
+[Data](articles/b4b1adc4.json)
+
+[Extended Data](ext_articles/b4b1adc4.ext.json)
+
+---
+
+### தெற்காசியாவில் சீனாவின் 'புஜியான்' அச்சுறுத்துமா ?
+
+*2025-09-29 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226378) · `ta`
+
+China's 'Fujian' aircraft is to open a new chapter on military strength, political influence and security strategy in the Indian Ocean region. As Admiral Tripathi noted, how to face these challenges is in the hands of regional countries.
+
+◼️
+
+[Data](articles/9fef0abf.json)
+
+[Extended Data](ext_articles/9fef0abf.ext.json)
+
+---
+
+### Michigan Church
+
+*2025-09-29 10:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மிச்சிகன்-தேவாலயத்தில்-வாகனத்தில்-மோதி-துப்பாக்கிச்-சூடு-நால்வர்-உயிரிழப்பு/50-365461) · `ta`
+
+At least four people were killed and eight people were injured when a gunman drove a vehicle inside the Michigan church, fired and set fire to the building.
+
+Officials said that the attack took place during Sunday, which was attended by hundreds of people in the church of Jesus Christ on the day of Jesus Christ in the Grand Blang, 60 miles northwest northwest.
+
+The suspect, who was identified as a 40 -year -old Thomas Jacob Sanford from Michigan's Bardon, was later shot dead by police at a church car parking lot.
+
+Officials who have called the incident as a "targeted violent act" but claim that the purpose is not clear.
+
+Grand Blank Township Police Chief William Renye said at a press conference on Sunday that two people died of firing injuries.
+
+He later said that two more people were dead and "some" are missing, but he could not say how many.
+
+Chief Renye said that when the "hundreds of" people entered the place of worship, a gunman drove a vehicle into the building.
+
+...
+
+[Data](articles/1c36da9a.json)
+
+[Extended Data](ext_articles/1c36da9a.ext.json)
+
+---
+
+### Civil Security Gets New Role Under Public Security
+
+*2025-09-29 10:56:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/civil-security-gets-new-role-under-public-security) · `en`
+
+COLOMBO (News 1st); The Civil Security Department is set to be placed under the purview of the Ministry of Public Security, according to Minister Ananda Wijepala.As part of the upcoming plans, a larger number of Civil Security Officers will be deployed to protect agricultural lands and private property from wild elephant intrusions, particularly in vulnerable rural areas.
+
+◼️
+
+[Data](articles/54261df8.json)
+
+[Extended Data](ext_articles/54261df8.ext.json)
+
+---
+
+### A Movawa Eat Money falls on labor
+
+*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මවනලල-පස-කනදක-කමකර-පරසක-මතට-වට/101-680400) · `si`
+
+A mound has collapsed on three in Mawanella, Aluthnuwara and Menikkawa area.
+
+The police said that they have to rescue them.
+
+◼️
+
+[Data](articles/070b57a6.json)
+
+[Extended Data](ext_articles/070b57a6.ext.json)
 
 ---

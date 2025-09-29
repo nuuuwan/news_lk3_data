@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 16:37:14**
+As of **2025-09-29 16:21:12**
 
 ## Newspaper Stats
 
-*Scraped **79,526** Articles*
+*Scraped **79,519** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 443
+lankadeepalk | 440
 newsfirstlk | 484
 dbsjeyarajcom | 635
 bbccomsinhala | 707
@@ -19,85 +19,19 @@ islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,661
 adaderanalk | 10,257
-tamilmirrorlk | 11,906
+tamilmirrorlk | 11,903
 virakesarilk | 12,968
-adaderanasinhalalk | 13,773
+adaderanasinhalalk | 13,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,517 (100.0%) of 79,526 articles have been extended.
+79,517 (100.0%) of 79,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### අපරාධකරුවන් හැත්තෑ දෙදෙනකුට රතු නිවේදන
-
-*2025-09-29 16:19:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධකරවන-හතත-දදනකට-රත-නවදන/1-680424) · `si`
-
-විදේශයන්හි ශ්‍රී ලාංකික අපරාධකරුවන් හැත්තෑ දෙදෙනෙකු වෙනුවෙන් ජාත්‍යන්තර පොලිසිය රතු නිවේදන නිකුත් කර ඇතැයි  මහජන ආරක්ෂක අමාත්‍ය ආනන්ද  විජේපාල මහතා පැවසීය.
-
-ශ්‍රී ලාංකික අපරාධකරුවන් තිස් දෙනෙකු විදේශයන්හි සිටින ස්ථාන හඳුනාගෙන ඇතැයි පැවසූ අමාත්‍යවරයා  අපරාධකරුවන් විසිදෙනකු  විදේශයන්හි හිර භාරයේ සිටින බවද ප්‍රකාශ කළේය
-
-එම පිරිස මෙරටට ගෙන්වා ගැනීමට කටයුතු කරගෙන යන බවද හෙතෙම කීවේය.
-
-◼️
-
-[Data](articles/97383e3f.json)
-
----
-
-### බැකෝ සමන්ගේ බිරිඳගේ දුරකථන තවත් පරීක්ෂා කරන්න නියෝග
-
-*2025-09-29 16:15:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බක-සමනග-බරඳග-දරකථන-තවත-පරකෂ-කරනන-නයග/1-680423) · `si`
-
-ප්‍රකට මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සහ අපරාධ කල්ලි සාමාජිකයින් සමඟ සිටියදී  ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන  රඳවා ප්‍රශ්න කිරීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගතකළ  සංවිධානාත්මක අපරාධ කල්ලි සාමාජික බැකෝ සමන්ගේ බිරිඳගේ ජංගම දුරකථන දෙක ඔස්සේ තවදුරටත් විමර්ශන කිරීමට කොළඹ ප්‍රධාන  මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා රහස් පොලීසියට අද(29) නියෝග කළේය .
-
-සැකකාරිය සන්තකයේ තිබී අත්අඩංගුවට ගත් ජංගම දුරකථන දෙකෙහි මුර පද සම්බන්ධයෙන් කරුණු විමසා බන්ධනාගාරය තුළදී  ප්‍රකාශ ලබා ගැනීමට අවසර දෙන්නැයි රහස් පොලිසිය මෝෂමක් ඉදිරිපත් කරමින් කළ ඉල්ලීම සලකා බැලීමෙන් පසුව මෙම නියෝගය නිකුත් කළේය.
-
-විෂ වර්ග අබිං සහ අන්තරායක ඖෂධ පාලක පනතේ 54 වගන්තිය ප්‍රකාරව  අත්අඩංගුවට ගෙන අධිකරණ නියෝග පරිදි රක්ෂිත බන්ධනාගාර ගත කළ සැකකාරියගේ ජංගම දුරකථනය දෙකෙහි මුර පද බන්ධනාගාරයට ගොස් ඇයලවා  ඉවත් කරගෙන ඉදිරි විමර්ශන කටයුතු කිරීම සඳහා මෙම අවසරය ඉල්ලා සිටිමෙන් පසුව මෙම නියෝගය නිකුත් කළේය.
-
-◼️
-
-[Data](articles/633f6c02.json)
-
----
-
-### පේරාදෙණි වෛද්‍ය සිසුවා අනතුරින් මරුට
-
-*2025-09-29 16:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරදණ-වදය-සසව-අනතරන-මරට/1-680422) · `si`
-
-කඩුගන්නාව ඌරාපොළ හන්දිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් පේරාදෙණිය විශ්වවිද්‍යාලයේ විද්‍යා පීඨයේ ලබමින් සිටි 24 හැවිරිදි සිසුවකු මියගොස් ඇති බව පොලිසිය කියයි.
-
-එම විශ්ව විද්‍යාල සිසුවා කඩුගන්නාව කොළඹ ප්‍රධාන මාර්ගයේ  යතුරු පැදියකින් විශ්ව විද්‍යාලය වෙත යමින් සිටියදී කොළඹ දිසාවට ධාවනය වූ වාහන ප්‍රවාහනය කරන තට්ටු ලොරියක ගැටීම හේතුවෙන් එම ස්ථානයේදීම සිසුවා මියගොස් ඇති බව පොලිසිය කියයි.
-
-මෙසේ මියගොස් ඇත්තේ අරනායක ප්‍රදේශයේ පදිංචිකරුවකු වූ තිවංක පියතිස්ස (24) නැමැති පේරාදෙණිය විශ්ව විද්‍යාලයේ විද්‍යා පීඨයේ තුන්වෙනි වසරේ සිසුවෙකි.
-
-◼️
-
-[Data](articles/eb18e799.json)
-
----
-
-### ඉන්දියාව සමග බලශක්ති සහයෝගීතාව වර්ධනයට සාකච්ඡා
-
-*2025-09-29 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215140) · `si`
-
-ඉන්දියාවේ සංචාරයක නිරත බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා සහ ඉන්දීය බලශක්ති, නිවාස හා නාගරික කටයුතු අමාත්‍ය ශ්‍රී මනෝහර් ලාල් කට්ටාර් සහ පුනර්ජනනීය බලශක්ති අමාත්‍ය ශ්‍රී ප්‍රලාද් ජෝෂි යන මහත්වරුන් අතර හමුවක් පැවැත්විය.
-
-එහිදී, දෙරට අතර බලශක්ති සහයෝගීතාව වර්ධනය කිරීම, දැනට ඉන්දියාව සමග මෙරට ආරම්භ කර ඇති ව්‍යාපෘති වල ප්‍රගතිය මෙන්ම අනාගත ආයෝජන අවස්ථා පිළිබදවත් සාකච්ඡා කර තිබේ.
-
-විශේෂයෙන්ම ඉන්දියානු පුනර්ජනනීය බලශක්ති අමාත්‍යවරයා සමග ලංකාවේ පුනර්ජනනීය බලශක්ති ව්‍යාපෘති සම්බන්ධයෙන් ලංකාවේ පුනර්ජනනීය බලශක්තිය සඳහා අවම මිලක් ලබාගැනීම සඳහා අවශ්‍ය ප්‍රසම්පාදන ක්‍රමවේදයන් ඇතුලු කරුණු රැසක්ද මෙරට සූර්ය පැනල නිෂ්පාදන කර්මාන්ත ශාලාවක් ස්ථාපිත කිරීම සඳහා අවශ්‍ය සහයෝගය ලබාගැනීම සඳහා මෙන්ම පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ වැඩිදුර පුහුණු අවස්ථා ලාංකිකයන්ට ලබාගැනීම පිළිබඳව අවධානය යොමුකරමින් සාකච්ඡා කර ඇත.
-
-බලශක්ති ක්ෂේත්‍රයේ ආයතන ව්‍යුහයන් සම්බන්ධ ඉන්දියානු අත්දැකීම් පිළිබඳවද බලශක්ති අරමුණු ඉටුකර ගැනීමෙහිලා එකී ආයතන ව්‍යුහයන් තුළ කාර්යක්ෂමතාව වර්ධනය කරගැනීමට ගත හැකි පියවර පිළිබඳවද තවදුරටත් සාකච්ඡා කර තිබේ.
-
-...
-
-[Data](articles/2e16aeea.json)
-
----
 
 ### Sri Lanka and Japan Pledge Stronger Ties In Joint Statement
 
@@ -108,24 +42,6 @@ COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake met Japanese P
 ◼️
 
 [Data](articles/41df1bec.json)
-
----
-
-### ‘ஐஸ்’ ஜோடி கிள்ளாடி: தங்கியிருந்த 3 வீடுகளிலும் சிக்கின
-
-*2025-09-29 16:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஐஸ்-ஜோடி-கிள்ளாடி-தங்கியிருந்த-3-வீடுகளிலும்-சிக்கின/76-365486) · `ta`
-
-ஐஸ் போதைப்பொருள் சகிதம் கைது செய்யப்பட்ட கம்பளை தம்பதியினர் தங்கியிருந்த மூன்று வீடுகளை சோதனையிட்ட பொலிஸார், ஐஸ் போதைப்பொருள் மற்றும் உபகரணங்கள் என்பவற்றை கைப்பற்றியுள்ளனர்.
-
-கம்பளையில் இருந்து கினிகத்தேனை வரை ஐஸ் போதைப்பொருள் விற்பனையில் ஈடுபட்ட தம்பதியினர் நாவலப்பிட்டியவில் கடந்த 25 ஆம் திகதி கைது செய்யப்பட்டனர்.  அப்பெண்ணிடம் மேற்கொள்ளப்பட்ட சோதனையின் போது, அப்பெண்ணின் உள்ளாடையில் மறைத்து வைத்தியிருந்த 52 பக்கெட் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டன.
-
-இவர்கள் நாவலப்பிட்டிய நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர். கணவனுக்கு 7 நாட்கள் தடுப்பு காவல் உத்தரவு பொலிஸாரால் பெற்றப்பட்டிருந்தது. ஐந்து மாத கர்ப்பிணியான மனைவி எதிர்வரும் 15 ஆம் திகதிவரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-இந்நிலையில் 22 வயதான கணவரை அழைத்துக்கொண்டு, அவர்கள் தங்கி இருந்த மூன்று வீடுகளை பொலிஸார், கடந்த இரண்டு நாட்களும் சோதனைக்குட்படுத்தினர்.  இதன்போது இரு வீடகளில் இருந்து ஐஸ் போதைப்பொருள், உபகரணங்கள் என்பன மீட்கப்பட்டுள்ளன.
-
-...
-
-[Data](articles/b50a3317.json)
 
 ---
 
@@ -832,20 +748,6 @@ Two persons who went to excavation work in a dilapidated house continued their w
 [Data](articles/63130853.json)
 
 [Extended Data](ext_articles/63130853.ext.json)
-
----
-
-### கிளிநொச்சியில் குண்டு வெடிப்பு : இருவர் படுகாயம்
-
-*2025-09-29 13:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கிளிநொச்சியில்-குண்டு-வெடிப்பு-இருவர்-படுகாயம்/150-365478) · `ta`
-
-கிளிநொச்சி தட்டுவான் கொட்டியில் இன்று காலை 11:30 மணியளவில் குண்டு வெடிப்பு சம்பவம் ஒன்று இடம்பெற்றுள்ளது .
-
-பாழடைந்த வீடொன்றில் அகழ்வு பணிக்காக சென்ற இரு நபர்கள் தமது பணியினை தொடர்ந்த போது நிலத்திற்கு கீழ் இருந்த குண்டு வெடித்துள்ளது இதன் போது பலத்த காயமடைந்த இருவரும் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
-
-◼️
-
-[Data](articles/6b74a1ed.json)
 
 ---
 
@@ -1902,5 +1804,121 @@ At least three workers are reportedly trapped in the mudslide collapse at the Ma
 [Data](articles/473cf26d.json)
 
 [Extended Data](ext_articles/473cf26d.ext.json)
+
+---
+
+### The bodies of two of two flooding on the mound
+
+*2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-දෙදෙනෙකුගේ-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
+
+11.54 A.M. The bodies of two workers who were subjected to a wall of Mawanella and a wall of the land of Menikka have been recovered from the crash.
+
+11.24 A mound has collapsed on a group of workers who were in the Menikka area in the Manikka area. They have begun rescue work. About three workers were serving as the accident occurred.
+
+◼️
+
+[Data](articles/7f0d6043.json)
+
+[Extended Data](ext_articles/7f0d6043.ext.json)
+
+---
+
+### Tissani Perera from us to the world of 2025
+
+*2025-09-29 11:26:41* · [`adalk`](https://www.ada.lk/breaking_news/2025-ලෝක-රූ-රැජිනට-ටිෂානි-පෙරේරා-අපෙන්/11-418782) · `si`
+
+Tishani Perera departed from Sri Lanka to attend the 12th World Queen of Thailand.
+
+The tournament is a tournament of the world's leading queen, which will be held in Bangkok from Thailand from 09/30 to 10/130 to 10/18.
+
+Tishani Perera at 01.30 am on SriLankan Airlines on 01.30 am, SriLankan Airlines UL. The flight held on the 402-owned aircraft left for Bangkok, Thailand.
+
+Tishani Perera won the final of the Sri Lankan robbery in Mount Lavinia Hotel on the 9/24 of the last major competition.
+
+Tissani Perera's parents, relatives and national coach for the match of the Queen of the Queen Tissani Perera were also present at the Katunayake Airport. (I J)
+
+◼️
+
+[Data](articles/5f70aa87.json)
+
+[Extended Data](ext_articles/5f70aa87.ext.json)
+
+---
+
+### The challenge of getting investors
+
+*2025-09-29 11:24:52* · [`lankadeepalk`](https://www.lankadeepa.lk/monday_meeting/ආයජකයන-ගනව-ගනම-අභයගය/118-680401) · `si`
+
+"These reforms are essential in accordance with world standards of labor laws. Our hope is a legal framework for the protection, productivity of labor rights and improving investment in the Sri Lankan economy. "
+
+Deputy Minister of Labor Mahinda Jayasinghe told the media about a month ago. He further emphasized that the proposed amendments are prepared to reflect the modern economic reality in accordance with the Statutes of the International Labor Organization Statutes.
+
+The JVP / Mass the JVP will tell us a year review of the government's revival of the government, no matter how the one says, he must ask the minds of the mind. If the Deputy Minister of Labor / Company is recommended to amend the JVP / Company, the Good Governance of Minister Malik Samarawickrema, is the pioneer of the Minister of Labor and Specialist in 2017.
+
+...
+
+[Data](articles/6248e01f.json)
+
+[Extended Data](ext_articles/6248e01f.ext.json)
+
+---
+
+### The challenge of getting investors
+
+*2025-09-29 11:24:52* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ආයජකයන-ගනව-ගනම-අභයගය/2-680401) · `si`
+
+"These reforms are essential in accordance with world standards of labor laws. Our hope is a legal framework for the protection, productivity of labor rights and improving investment in the Sri Lankan economy. "
+
+Deputy Minister of Labor Mahinda Jayasinghe told the media about a month ago. He further emphasized that the proposed amendments are prepared to reflect the modern economic reality in accordance with the Statutes of the International Labor Organization Statutes.
+
+The JVP / Mass the JVP will tell us a year review of the government's revival of the government, no matter how the one says, he must ask the minds of the mind. If the Deputy Minister of Labor / Company is recommended to amend the JVP / Company, the Good Governance of Minister Malik Samarawickrema, is the pioneer of the Minister of Labor and Specialist in 2017.
+
+...
+
+[Data](articles/a8f16a2f.json)
+
+[Extended Data](ext_articles/a8f16a2f.ext.json)
+
+---
+
+### The actress who refused to play Rajinikanth, not two times ...
+
+*2025-09-29 11:24:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ரஜினிகாந்துடன்-நடிக்க-ஒன்றல்ல-இரண்டல்ல-4-முறை-மறுத்த-நடிகை-யார்-தெரியுமா/54-365465) · `ta`
+
+Needless to say about superstar Rajinikanth. Has been working in the film industry for more than 50 years. He has fans all over India. He was a normal bus operator and entered the film world with his interest in acting and is currently in the title of 'superstar'.
+
+In 1975, K.. Rajinikanth, who entered the film industry through Balasandar directed 'Ariparupa Ragas'. At the beginning of the cinema, Rajinikanth often played negative roles.
+
+Later, he started acting as a hero with the film 'Kavikkuil'. Has acted in more than 100 films so far. He has acted in many languages ​​including Tamil, Telugu, Kannada and Hindi.
+
+Rajinikanth's recent movie 'Kuli' directed by Lokesh Kanakaraj has been well received. He is currently working on the film Jailor 2.
+
+Do you know that an actress has rejected him, while many actresses are waiting for the opportunity to play Rajini?. Yes, not one, not two 4 times the actress has rejected. He is no one else, actress Aishwarya Rai,
+
+...
+
+[Data](articles/82538390.json)
+
+[Extended Data](ext_articles/82538390.ext.json)
+
+---
+
+### Tajuddin's death: family emphasizes new investigation
+
+*2025-09-29 11:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீனின்-மரணம்-புதிய-விசாரணைக்கு-குடும்பத்தினர்-வலியுறுத்தல்/175-365464) · `ta`
+
+The family of the late Sri Lankan rugby player Wasim Tajuddin has urged the government led by Anura Kumara Dissanayake to investigate his death again.. They have been denied justice for more than 13 years.
+
+Speaking to the media, Tajuddin's uncle recalled that the family was told that Tajuddin had died in a car accident during the incident in May 2012.
+
+“When I went to the scene, he was in the passenger's seat and the vehicle had only had much damage. Surprisingly, someone may have died in such an accident, ”he said.
+
+He added that the initial report at the time had decided that Tajuddin was driving fast and drunkenly, and that he died of breathing of smoke from the accident.
+
+◼️
+
+[Data](articles/d8840ea9.json)
+
+[Extended Data](ext_articles/d8840ea9.ext.json)
 
 ---

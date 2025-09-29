@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 05:57:43**
+As of **2025-09-29 06:23:06**
 
 ## Newspaper Stats
 
-*Scraped **79,306** Articles*
+*Scraped **79,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,22 +16,272 @@ colombotelegraphcom | 798
 dailymirrorlk | 4,733
 economynextcom | 4,734
 islandlk | 4,828
-dailyftlk | 5,565
+dailyftlk | 5,578
 adalk | 7,642
 adaderanalk | 10,240
 tamilmirrorlk | 11,872
 virakesarilk | 12,932
-adaderanasinhalalk | 13,749
+adaderanasinhalalk | 13,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,306 (100.0%) of 79,306 articles have been extended.
+79,306 (100.0%) of 79,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### ප්‍රදේශ කිහිපයකට අද වැසි වාර කිහිපයක්
+
+*2025-09-29 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215117) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පැවසුවේ අද දිනයේදී වයඹ පළාතේ ද වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+ඌව පළාතේත් අම්පාර දිස්ත්‍රික්කයේත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (35-45) ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/38ea95c2.json)
+
+---
+
+### Bhutan’s Queen Mother commends MTI’s strategy consulting contribution
+
+*2025-09-29 06:05:41* · [`dailyftlk`](https://www.ft.lk/business/Bhutan-s-Queen-Mother-commends-MTI-s-strategy-consulting-contribution/34-782306) · `en`
+
+MTI Consulting  CEO Hilmy Cader, recently met with Tarayana Foundation Founding President Queen Mother of Bhutan Dorji Wangmo Wangchuck, for whom MTI had the privilege of developing the strategic plan.
+
+“Our visit to the Royal Palace in Mothithang was marked by Her Majesty’s gracious hospitality and an enlightening exchange of ideas. The depth of Her Majesty’s wisdom and commitment to uplifting lives through the Foundation left a lasting impression,” said Cader.
+
+MTI developed five strategic initiatives for Tarayana Foundation, which will assist them to continue building a happy and prosperous Bhutan. After conducting the first three stages of MTI’s 8S Model—Scope, Scan and Sights—MTI recommended going ahead with five strategic initiatives that were identified as the key aspects that Tarayana can focus on.
+
+...
+
+[Data](articles/694bd603.json)
+
+---
+
+### Cultivating circular futures: Youth as agents of change
+
+*2025-09-29 06:03:40* · [`dailyftlk`](https://www.ft.lk/columns/Cultivating-circular-futures-Youth-as-agents-of-change/4-782305) · `en`
+
+Empowering young people to lead in circular food systems generates ripple effects across communities, policies, and markets
+
+On 29 September, the world marks the International Day of Awareness on Food Loss and Waste, highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
+
+The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
+
+...
+
+[Data](articles/edebe08b.json)
+
+---
+
+### First year of AKD Government: Is it RW in driving seat with a difference?
+
+*2025-09-29 06:00:30* · [`dailyftlk`](https://www.ft.lk/columns/First-year-of-AKD-Government-Is-it-RW-in-driving-seat-with-a-difference/4-782304) · `en`
+
+The Government of Anura Kumara Disanayake or AKD Government, has completed one year by September 2025. Many, except those in the Government, have ventured into analysing its performance during this initial year. From the Government side, a performance report is expected to be presented by AKD himself when he will present his Budget for 2026 in November 2025.
+
+...
+
+[Data](articles/909f0f41.json)
+
+---
+
+### COPE, oversight, and boundaries of power: Necessary caution
+
+*2025-09-29 05:53:08* · [`dailyftlk`](https://www.ft.lk/columns/COPE-oversight-and-boundaries-of-power-Necessary-caution/4-782303) · `en`
+
+Strengthening COPE should mean better research support, stronger audit collaboration, and continuous capacity
+
+As someone who has been privileged to represent all three critical domains of the COPE process — as a Chairman of a State-Owned Enterprise (SOE), a Secretary of a Ministry, and as a Chair of COPE — I feel a strong sense of responsibility to express my concerns about the recent proposal put forward under Standing Order 137 by the current COPE Chair, Dr. Nishantha Samaraweera, MP (NPP).
+
+The motion seeks to amend Standing Order 120, granting COPE the authority to directly refer its findings to law enforcement bodies such as the IGP or the Commission to Investigate Allegations of Bribery or Corruption (CIABOC). While I appreciate the spirit of accountability that underpins the proposal, I must stress — with the full weight of my experience — that such a reform must be approached with great care, constitutional awareness, and institutional intelligence.
+
+...
+
+[Data](articles/6941aae4.json)
+
+---
+
+### China and Sri Lanka pledge to deepen ties
+
+*2025-09-29 05:43:53* · [`dailyftlk`](https://www.ft.lk/news/China-and-Sri-Lanka-pledge-to-deepen-ties/56-782300) · `en`
+
+China celebrates 76th anniversary of founding of People’s Republic of China
+
+Praises President Disanayake’s State visit to China resulted in new strategic guidance for bilateral ties
+
+Describes SL as an important partner in China’s neighbourhood diplomacy
+
+Labour Minister Dr. Anil Jayantha Fernando commends China for being a steadfast partner for Sri Lanka’s emergency aid and debt restructuring support
+
+Highlights China’s support for Sri Lanka’s development and connectivity through BRI
+
+China and Sri Lanka last week reaffirmed their longstanding friendship and pledged to deepen cooperation across multiple sectors at a reception hosted by the Chinese Embassy to mark the 76th anniversary of the founding of the People’s Republic of China.
+
+...
+
+[Data](articles/3669c441.json)
+
+---
+
+### India, Sri Lanka hold second meeting of Joint Working Group on renewable energy
+
+*2025-09-29 05:40:46* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-hold-second-meeting-of-Joint-Working-Group-on-renewable-energy/56-782299) · `en`
+
+The Second Meeting of the India-Sri Lanka Joint Working Group (JWG) on renewable energy was held virtually on 23 September 2025. The Indian delegation was led by New and Renewable Energy Ministry Secretary Shri Santosh Kumar Sarangi and the Sri Lankan delegation was led by Energy Ministry Secretary Prof. K.T.M Udayanga Hemapala.
+
+The two sides briefed each other on developments in the field of renewable energy, including solar, wind, and emerging technologies such as green hydrogen. The potential of “One Sun, One World, One Grid” was also highlighted.  Both sides reiterated their commitment to strengthening bilateral energy ties, with a focus on affordable and sustainable energy. The Joint Working Group will continue to serve as a platform to facilitate policy-level discussion, project development and knowledge exchange in the renewable energy sector.
+
+◼️
+
+[Data](articles/ea5175c3.json)
+
+---
+
+### Reverse Osmosis water plant inaugurated at Hambantota District General Hospital
+
+*2025-09-29 05:39:38* · [`dailyftlk`](https://www.ft.lk/news/Reverse-Osmosis-water-plant-inaugurated-at-Hambantota-District-General-Hospital/56-782298) · `en`
+
+A Reverse Osmosis (RO) water plant was inaugurated in the OPD area of the District General Hospital, Hambantota, during the High Commissioner of India to Sri Lanka Santosh Jha’s recent visit to the Southern Province.
+
+According to the Indian High Commission, Santosh Jha paid a visit to the Southern Province of Sri Lanka on 24 and 25 September, during which the RO water plant was inaugurated.
+
+The plant, donated by the Government of India, is expected to benefit around 1000 people daily, including patients, visitors and hospital staff. The Mayor and Deputy Mayor of Hambantota were present on the occasion.
+
+On Thursday, the High Commissioner visited Sri Vijayarama Purana Viharaya in Ambalangoda, Galle, a temple that houses wooden artefacts of exceptional craftsmanship and ancient artistry. The High Commissioner extended financial assistance for the completion of works at the temple premises to install 80 wooden statues of Lord Buddha.
+
+...
+
+[Data](articles/2fdc15cb.json)
+
+---
+
+### Govt. assures welfare of SL workers in Kuwait
+
+*2025-09-29 05:37:14* · [`dailyftlk`](https://www.ft.lk/news/Govt-assures-welfare-of-SL-workers-in-Kuwait/56-782297) · `en`
+
+Says SL Mission in Kuwait working closely with Kuwaiti authorities to resolve cases affecting Sri Lankan women housed at Government Shelter
+
+Notes at any given time, between 40 and 70 Sri Lankans sheltered at facility
+
+Stresses commitment to safeguarding dignity and welfare of SL workers overseas
+
+Foreign Affairs, Foreign Employment and Tourism Acting Minister Arun Hemachandra yesterday said the Government has assured the welfare of Sri Lankan domestic workers in Kuwait by taking urgent measures to address those concerns following reports circulating on social media.
+
+Assuring to take urgent measures to address those concerns over the welfare of Sri Lankan domestic workers in Kuwait, he said the Sri Lankan Embassy in Kuwait, headed by Ambassador Lakshitha Ratnayake, is working closely with Kuwaiti authorities to resolve cases affecting Sri Lankan women housed at the Government Shelter operated by the Public Authority for Manpower.
+
+...
+
+[Data](articles/0d82104d.json)
+
+---
+
+### QR code tea fertiliser subsidy with Rs. 4,000 discount from 1 Oct.
+
+*2025-09-29 05:36:13* · [`dailyftlk`](https://www.ft.lk/news/QR-code-tea-fertiliser-subsidy-with-Rs-4-000-discount-from-1-Oct/56-782296) · `en`
+
+The Government will roll out fertiliser subsidies for small and medium tea growers through a QR code-based system starting 1 October.
+
+Farmers can redeem the subsidy at fertiliser suppliers registered with the National Fertiliser Secretariat, including the State-owned distributor, by presenting the QR code. The scheme offers a discount of Rs. 4,000 on a 50 kg pack and Rs. 2,000 on a 25 kg pack.
+
+The Sri Lanka Tea Board has earmarked Rs. 2 billion for the 2025 subsidy program. The initiative is part of a broader plan to lift annual tea output to 400 million kilograms by 2030.
+
+Support will be channelled mainly to smallholders, who account for about three-quarters of national green leaf production.
+
+The program is jointly administered by the Tea Small Holdings Development Authority and the Tea Board.
+
+◼️
+
+[Data](articles/f7b33d72.json)
+
+---
+
+### Digital education policy to go before Cabinet by March 2026
+
+*2025-09-29 05:35:53* · [`dailyftlk`](https://www.ft.lk/news/Digital-education-policy-to-go-before-Cabinet-by-March-2026/56-782295) · `en`
+
+A framework for digitalising Sri Lanka’s education system will be submitted to the Cabinet by March 2026, the Digital Task Force on Education Reform said last week.
+
+The update was presented at the Subcommittee on Education under the Ministerial Consultative Committee, chaired by Prime Minister and Education Minister Dr. Harini Amarasuriya, on Tuesday.
+
+Officials outlined six priority areas for digitalisation, including tackling teacher shortages, providing ICT equipment, ensuring continuity of schooling during disruptions, and integrating digital tools into learning.
+
+They said all schools without internet access will be connected by 31 December. Schools currently lacking basic digital resources will be given at least one smart board and a computer or laptop. Data presented showed three schools remain without electricity, 546 without computers or tablets, and 2,088 without smart boards.
+
+...
+
+[Data](articles/dce238b5.json)
+
+---
+
+### Colombo International Book Fair tickets now on PickMe
+
+*2025-09-29 05:34:53* · [`dailyftlk`](https://www.ft.lk/news/Colombo-International-Book-Fair-tickets-now-on-PickMe/56-782294) · `en`
+
+Up to three free tickets for online ticket buyers via PickMe app
+
+Visitors to the Colombo International Book Fair 2025 are now busy securing their entry tickets directly through the PickMe app, a first for the country’s largest literary gathering.
+
+With just a few taps, PickMe’s Events feature lets users buy book fair tickets in-app and check in with a quick QR scan at special counters set up at the Bandaranaike Memorial International Conference Hall (BMICH), offering a seamless gate-pass style entry without having to queue up.
+
+To encourage adoption of the digital check-in experience, PickMe users become eligible for three free tickets anytime during the 10-day fair.
+
+The Book Fair, running from 27 September to 6 October, is one of Colombo’s most jam-packed cultural events. Its location at the BMICH, slightly away from regular public transport routes, often adds to the inconvenience.
+
+...
+
+[Data](articles/431e3a52.json)
+
+---
+
+### Former Western PC member Amal Silva arrested by Walana Anti-Vice Squad
+
+*2025-09-29 05:31:50* · [`dailyftlk`](https://www.ft.lk/news/Former-Western-PC-member-Amal-Silva-arrested-by-Walana-Anti-Vice-Squad/56-782293) · `en`
+
+Former Western Provincial Council (PC) member Amal Silva was arrested yesterday by the Walana Anti-Vice Squad, along with three luxury vehicles worth around Rs. 60 million, which had been allegedly registered using forged documents.
+
+Police said he was arrested during a raid carried out based on intelligence received by the Walana Anti-Vice Squad.
+
+According to reports, the vehicles had been illegally imported into the country and registered with the Department of Motor Traffic under fraudulent registration numbers using forged documentation.
+
+Among the vehicles seized were three SUVs, including a Land Rover and Mitsubishi Jeep.
+
+Preliminary Police investigations have revealed that the registration numbers used belonged to State-owned vehicles, and fake documents were generated to facilitate the illegal registration of these luxury vehicles.
+
+The suspect is scheduled to be produced before the Panadura Magistrate’s Court today (29).
+
+◼️
+
+[Data](articles/9da8ba79.json)
+
+---
+
+### CPSTL to enforce merit-based hiring and promotions
+
+*2025-09-29 05:31:33* · [`dailyftlk`](https://www.ft.lk/news/CPSTL-to-enforce-merit-based-hiring-and-promotions/56-782292) · `en`
+
+Ceylon Petroleum Storage Terminals Ltd., (CPSTL) last week said future decisions on recruitment, promotions, and transfers will be based solely on merit, free from political or personal influence.
+
+CPSTL Chairman D.J.A.S. De S. Rajakaruna, speaking at a media briefing marking one year of the Government’s tenure, said the company had operated without a clear human resources framework for more than three decades. A new policy has now been introduced to address this gap, he noted.
+
+The Chairman urged the public not to seek jobs or transfers through Ministers or senior officials, stressing that only qualifications and experience would guide decisions.
+
+Rajakaruna added that in restructuring its workforce, the company had to reduce staff numbers due to skills gaps and mismatched roles. The new organisational plan, prepared by a State institution after a comprehensive study, defines positions and appointments according to professional criteria.
+
+...
+
+[Data](articles/b7a4bb77.json)
+
+---
 
 ### Sri Lanka budget deficit down 55-pct in August amid tax inflows, moderate capex
 
@@ -1778,271 +2028,5 @@ President Anura Kumara Dissanayake said that the past budget documents have alwa
 [Data](articles/181d7d10.json)
 
 [Extended Data](ext_articles/181d7d10.ext.json)
-
----
-
-### The next budget does not pay new taxes
-
-*2025-09-28 16:23:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලබන-අයවයන-අලත-බද-ගහනන-න/1-680360) · `si`
-
-President Anura Kumara Dissanayake said in Japan today (28), he said this year's budget is trying to be introduced.
-
-The proceedings of the proceed will also be taken to reduce the percentage of taxes.
-
-President Anura Dissanayake said this at a meeting held in Tokyo with the Sri Lankan community living in Japan.
-
-Some say that some say that the tax burden will be increased.
-
-The President said that the government had to earn income as the economy was small, he said.. The President has also charged the payment of 18 percent of the increase in the economy of all citizens.
-
-President Anura Kumara Dissanayake said that the past budget documents have always taken place in repetition of new tax proposals.
-
-◼️
-
-[Data](articles/3244d1ce.json)
-
-[Extended Data](ext_articles/3244d1ce.ext.json)
-
----
-
-### Bokeko of the Kantore 457 to Messian
-
-*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනතර-457-ක-ලකක-මතසබයට/101-680359) · `si`
-
-Parliamentary Select Committee on Public Business (COPE) (COPE) has been summoned to parliament on the 2nd government.
-
-This is the first time that the heads of the institute is summoned before a committee of Parliament.
-
-Chairman of the COPE committee, Dr. Nishantha Samaraweera told Lankadeepa to hear the functions of the COPE Committee and its work.
-
-The basic information on the audits and functions of the institutions are obtained.
-
-The Chairman and CEO of each institution will participate in this discussion.
-
-◼️
-
-[Data](articles/c218dff5.json)
-
-[Extended Data](ext_articles/c218dff5.ext.json)
-
----
-
-### Bokeko of the Kantore 457 to Messian
-
-*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කනතර-457-ක-ලකක-මතසබයට/1-680359) · `si`
-
-Parliamentary Select Committee on Public Business (COPE) (COPE) has been summoned to parliament on the 2nd government.
-
-This is the first time that the heads of the institute is summoned before a committee of Parliament.
-
-Chairman of the COPE committee, Dr. Nishantha Samaraweera told Lankadeepa to hear the functions of the COPE Committee and its work.
-
-The basic information on the audits and functions of the institutions are obtained.
-
-The Chairman and CEO of each institution will participate in this discussion.
-
-◼️
-
-[Data](articles/f0897213.json)
-
-[Extended Data](ext_articles/f0897213.ext.json)
-
----
-
-### Karu Jayasuriya; Leadership beyond the post
-
-*2025-09-28 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226333) · `ta`
-
-Karu Jayasuriya enters his 85th August 2025 September 25. This is not only to honor his long life, but to think deeply about a life that has diligently protected ambitions and institutions.
-
-◼️
-
-[Data](articles/5a33d195.json)
-
-[Extended Data](ext_articles/5a33d195.ext.json)
-
----
-
-### Social illness between striking and monkeys in Polonnaruwa
-
-*2025-09-28 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215101) · `si`
-
-It has been reported that a social illnesses are spreading between prices and monkeys in Polonnaruwa and Giritale.
-
-The sacred area is at risk of spreading the disease and the wildly nationals asking the people as they are at a risk of the disease.
-
-It is said that even though the disease is in danger of breeding, people have no awareness.
-
-The excessive problem of prick and monkey population is still unresolved problem, which has been a long-standing problem in Polonnaruwa and Giritale.
-
-However, the infection of these infections and the strikes are being carried out these days.
-
-◼️
-
-[Data](articles/42f5eed2.json)
-
-[Extended Data](ext_articles/42f5eed2.ext.json)
-
----
-
-### The current economic reality of the country
-
-*2025-09-28 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226326) · `ta`
-
-'There are no changes in the percentage of poverty, malnutrition and debts at the social level despite the fact that GDP is expressed as growth'
-
-◼️
-
-[Data](articles/dc5f7ad9.json)
-
-[Extended Data](ext_articles/dc5f7ad9.ext.json)
-
----
-
-### Call for public disabled in Mannar
-
-*2025-09-28 15:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-பொது-முடக்கத்திற்கு-அழைப்பு/175-365417) · `ta`
-
-The Mannar Citizens Committee Chairman Aruttantha S. Mugas Adikallar has called for all parties to cooperate in the Mannar public paralysis struggle on Monday (29) in protest against the windmill project in Mannar and the police attack on the people.
-
-He was speaking at a media briefing held in Mannar on Sunday (28) for the 57th day.
-
-We invite the public on Monday (29) throughout the Mannar district.
-
-We appeal to our struggle to reinforce our struggle to stop all the public transport, close the trade centers and reach the district.
-
-Those who duty in NGOs must cooperate on Monday (29) duties. The rally will be held from 10 am on Monday (29) at the Mannar Public Playground. The rally will reach the Mannar Bazaar area.
-
-The struggle will be carried out till 1.30 pm.
-
-Therefore, in the struggle for our rights to be carried out in the district, we will take up the fishermen, traders, public transport services, including all parties, including all sides.
-
-◼️
-
-[Data](articles/c507ceee.json)
-
-[Extended Data](ext_articles/c507ceee.ext.json)
-
----
-
-### Infectious disease spreading among monkeys in Polonnaruwa raises public health concerns
-
-*2025-09-28 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113000/infectious-disease-spreading-among-monkeys-in-polonnaruwa-raises-public-health-concerns) · `en`
-
-A suspected infectious disease is reportedly spreading among monkey and toque macaque populations in Polonnaruwa and Giritale, prompting concern among wildlife officials and local communities.
-
-Officials warn there is a heightened risk of transmission to humans in areas surrounding the sacred city, where large groups of monkeys and toque macaques roam freely.
-
-Therefore, wildlife authorities have urged the general public to be vigilant and take necessary precautions.
-
-While the disease is believed to be potentially zoonotic—capable of being transmitted from animals to humans—public awareness about the threat remains low, increasing the potential for undetected spread, officials have stated.
-
-The overpopulation of monkeys and toque macaques has long been a persistent and unresolved issue in both Polonnaruwa and Giritale, exacerbating the current situation.
-
-...
-
-[Data](articles/d7f037f3.json)
-
-[Extended Data](ext_articles/d7f037f3.ext.json)
-
----
-
-### 12 Indian fishermen arrested
-
-*2025-09-28 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215100) · `si`
-
-The Sri Lanka Navy, the Department of Coast Guard today (28), has been taken into custody by the Navy with a Indian fishermen with Indian fishing vessel in the local floor.
-
-The Department of Navy and the Coast Guard are conducting constant operations to protect the livelihood of foreign fishing boundaries.
-
-The Indian fishing vessel and its fishermen taken into custody by the Navy were taken to the Jaffna Milokentani Fisheries Office for future legal action.
-
-◼️
-
-[Data](articles/acb76aa5.json)
-
-[Extended Data](ext_articles/acb76aa5.ext.json)
-
----
-
-### The woman caught in the powder meni
-
-*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கே-சிக்கிய-பெண்/76-365416) · `ta`
-
-A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby carge and has been admitted to Dik Oya Basic Hospital.
-
-The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near the Hatton railway station.
-
-Cargage staff said the train was slowly traveling and the woman was close to the railway line for a long time.
-
-◼️
-
-[Data](articles/3c48430d.json)
-
-[Extended Data](ext_articles/3c48430d.ext.json)
-
----
-
-### The woman caught in the powder menike
-
-*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கேயில்-சிக்கிய-பெண்/76-365416) · `ta`
-
-A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby carge and has been admitted to Dik Oya Basic Hospital.
-
-The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near Hatton Railway Station.
-
-Cargage staff said the train was slowly traveling and the woman had been close to the railway line for a long time.
-
-◼️
-
-[Data](articles/ccc9af4e.json)
-
-[Extended Data](ext_articles/ccc9af4e.ext.json)
-
----
-
-### The woman caught inside the train engine
-
-*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-இயந்திரத்திற்குள்-சிக்கிய-பெண்/76-365416) · `ta`
-
-A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby garage as she was trapped inside its machine and has been admitted to Dik Oya Basic Hospital.
-
-The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near Hatton Railway Station.
-
-Garage employees said the train had traveled slowly and the woman had been close to the railway line for a long time.
-
-◼️
-
-[Data](articles/f54c56d5.json)
-
-[Extended Data](ext_articles/f54c56d5.ext.json)
-
----
-
-### 664 Arrested in Island-Wide Crime Crackdown
-
-*2025-09-28 15:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/664-arrested-in-island-wide-crime-crackdown) · `en`
-
-COLOMBO (News 1st): Another 664 suspects were arrested yesterday as part of the ongoing island-wide crime and drug prevention operation.Police said that under the operation, a total of 28,778 people were tested yesterday. Among those arrested were seven individuals directly linked to crimes, 254 people with day warrants, and 163 with open warrants. Police added that 42 drunk drivers and 14 reckless drivers were also taken into custody yesterday.In total, 3,895 people were arrested for other traffic related offenses.The operation is being conducted nationwide under the directives of the Inspector General of Police.
-
-◼️
-
-[Data](articles/1d88c2c1.json)
-
-[Extended Data](ext_articles/1d88c2c1.ext.json)
-
----
-
-### 12 Indian Fishermen Arrested in Delft Sea
-
-*2025-09-28 15:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/12-indian-fishermen-arrested-in-delft-sea) · `en`
-
-COLOMBO (News 1st) -  12 Indian fishermen were arrested by the Sri Lanka Navy off the coast of the Delft Sea in Jaffna.The Indian fishermen were taken into custody along with their vessel while they were engaging in fishing activities violating Sri Lanka’s maritime boundaries. The arrested fishermen are scheduled to be handed over to the Directorate of Fisheries in Kankesanthurai.
-
-◼️
-
-[Data](articles/403706a5.json)
-
-[Extended Data](ext_articles/403706a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 03:20:28**
+As of **2025-09-30 03:08:01**
 
 ## Newspaper Stats
 
-*Scraped **79,670** Articles*
+*Scraped **79,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,742
 islandlk | 4,839
-dailyftlk | 5,603
+dailyftlk | 5,599
 adalk | 7,667
 adaderanalk | 10,280
 tamilmirrorlk | 11,919
@@ -27,79 +27,11 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,666 (100.0%) of 79,670 articles have been extended.
+79,666 (100.0%) of 79,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### PM calls on new SLAS officers to stand against corruption, irregularities
-
-*2025-09-30 02:26:47* · [`dailyftlk`](https://www.ft.lk/news/PM-calls-on-new-SLAS-officers-to-stand-against-corruption-irregularities/56-782390) · `en`
-
-Prime Minister Dr. Harini Amarasuriya yesterday called on newly appointed Sri Lanka Administrative Service (SLAS) officers to contribute to building a dedicated and efficient public service free from political interference and malpractice.
-
-Addressing 1,890 newly appointed Grade III SLAS officers, she said the Government’s goal is to establish an independent public service that properly serves the people.
-
-“You are not joining a traditional public service. You are not entering the inefficient, politically-influenced public service that has prevailed for years, but rather an independent service that stands on behalf of the people,” she said at the ceremony held to award appointments to those officers who were selected from the open competitive examination and subsequent interviews for recruitment to Grade III of the SLAS.
-
-...
-
-[Data](articles/d62c7c8f.json)
-
----
-
-### BASL defends lawyers’ car passes, says Gazette does not apply
-
-*2025-09-30 02:25:28* · [`dailyftlk`](https://www.ft.lk/news/BASL-defends-lawyers-car-passes-says-Gazette-does-not-apply/56-782389) · `en`
-
-The Bar Association of Sri Lanka (BASL) has written to the Inspector General of Police to clarify the position on lawyers’ car passes, following recent public debate on the issue.
-
-In its letter, the Association said that attempts to invalidate or remove the passes on the basis of a Gazette Notification would be unlawful, since the order does not extend to the use of BASL-issued vehicle passes.
-
-The Association argued that the passes, displayed on windscreens, do not contravene the Motor Traffic Act.
-
-The BASL expressed confidence that the existing system of issuing passes would continue unchanged, emphasising their role in day-to-day legal practice and security arrangements.
-
-It noted that the passes allow attorneys-at-law to be identified when entering courts, tribunals and other institutions linked to the administration of justice, and are also used by law enforcement as verification that a vehicle belongs to a lawyer.
-
-...
-
-[Data](articles/72d001de.json)
-
----
-
-### CA Sri Lanka present Budget 2026 proposals
-
-*2025-09-30 02:22:24* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-present-Budget-2026-proposals/34-782388) · `en`
-
-CA Sri Lanka President Heshana Kuruppu (centre left) presenting the Budget proposals to Treasury Secretary Dr. Harshana Suriyapperuma in the presence of CA Sri Lanka and Finance Ministry officials
-
-The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) yesterday announced that it has formally presented its proposals for the forthcoming National Budget 2026 to the Government.
-
-The proposals presented by CA Sri Lanka addresses several critical pillars of fiscal management, including policy planning and implementation, the establishment of a Tax Ombudsman, enhancing strategic trade policy and broadening the export base.
-
-It also included reforming the tax system to ensure equity and drive growth, reducing cash usage and promoting digital transactions, amendments to the administrative provisions, transformations within the State Sector, and strengthening fiscal discipline through the Public Finance Management Act.
-
-...
-
-[Data](articles/110515b1.json)
-
----
-
-### ICC Sri Lanka hosts Arbitration and Mediation Conference
-
-*2025-09-30 02:19:30* · [`dailyftlk`](https://www.ft.lk/business/ICC-Sri-Lanka-hosts-Arbitration-and-Mediation-Conference/34-782387) · `en`
-
-The International Chamber of Commerce of Sri Lanka (ICC) inaugurated the Arbitration & Mediation Hearing Centre in South Asia on 10 September in Colombo 3. The Centre was officially declared open by ICC Dispute Resolution Services Singapore Director – Arbitration and ADR, South Asia Tejus Chauhan on the invitation of ICC Sri Lanka and ICC Sri Lanka Arbitration & Mediation Hearing Centre Chairman and Attorney-at-Law Shanil Fernando, marking a historic milestone for the region.
-
-The ICC Sri Lanka Arbitration & Mediation Hearing Centre was established through the ICC Sri Lanka Chapter. The Centre will serve as a hub for commercial arbitration and mediation proceedings under ICC rules, offering businesses a reliable platform to resolve disputes efficiently. Speaking at the opening, Fernando noted that the Centre will also function as an educational platform to promote learning in arbitration and mediation practices.
-
-...
-
-[Data](articles/6ceebfa5.json)
-
----
 
 ### US investment outlook flags Sri Lanka’s stalled SOE privatisation, labour laws
 
@@ -2004,5 +1936,93 @@ Moreover, a bomb disposal team was also deployed outside the politician’s hous
 [Data](articles/b3753969.json)
 
 [Extended Data](ext_articles/b3753969.ext.json)
+
+---
+
+### Cash Association released into the Secretary General
+
+*2025-09-29 16:41:36* · [`adalk`](https://www.ada.lk/breaking_news/වරෙන්තු-නිකුත්-වූ-සජබ-මහ-ලේකම්-අධිකරණයට-ඉදිරිපත්-වෙයි/11-418794) · `si`
+
+The Government Secretary General of the Nuwara Eliya Magistrate's Court is produced before the Nuwara Eliya Magistrate's Court.
+
+UNP General Secretary Ranjith Madduwa was produced before the Nuwara Eliya Magistrate's Court today (29).
+
+Harimensional Squadron General Secretary of the Judicial Examination of the Court of Justice after the production of the courts said that he had to appear in a case without proper communication in the Election Commission.
+
+"All in each district will be brought to the party headquarters to the head office of the party and direct the Elections Commission Office in the relevant districts in the Nuwara Eliya Districts, the Nuwara Eliya districts,
+
+The case was filed that the report was not properly.
+
+The Elections Commission has told the police from the Elections Commission after the case filed by the case.. Today, we have presented to the warrant that we have a lasting date and offers our innocence and offers our innocence.
+
+◼️
+
+[Data](articles/c9d093a6.json)
+
+[Extended Data](ext_articles/c9d093a6.ext.json)
+
+---
+
+### '' Not all pens can do '
+
+*2025-09-29 16:40:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/එක-පන-පහරන-ඔකකම-කරනන-බ/101-680425) · `si`
+
+Health Mass Media Minister Dr. Nalinda Jayatissa said that an economically degeneration phase will be built in phase phase, the Minister of Health Mass Media Minister Dr. Nalinda Jayatissa said.
+
+The Minister emphasized that action will be taken to recover everything in the future.
+
+The Minister was speaking at the 48th profile commend of Professor Senaka Bibile.
+
+The village was organized by Senaka Bibile Memorial Organization, former Vice Chancellor of the University of Sri Jayewardenepura, Professor Narada Warnasuriya.
+
+Professor Senaka Bibile passed away on September 29, 1977 and continues to celebrate the date on 29th September every year.
+
+◼️
+
+[Data](articles/39157975.json)
+
+[Extended Data](ext_articles/39157975.ext.json)
+
+---
+
+### '' Not all pens can do '
+
+*2025-09-29 16:40:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/එක-පන-පහරන-ඔකකම-කරනන-බ/1-680425) · `si`
+
+Health Mass Media Minister Dr. Nalinda Jayatissa said that an economically degeneration phase will be built in phase phase, the Minister of Health Mass Media Minister Dr. Nalinda Jayatissa said.
+
+The Minister emphasized that action will be taken to recover everything in the future.
+
+The Minister was speaking at the 48th profile commend of Professor Senaka Bibile.
+
+The village was organized by Senaka Bibile Memorial Organization, former Vice Chancellor of the University of Sri Jayewardenepura, Professor Narada Warnasuriya.
+
+Professor Senaka Bibile passed away on September 29, 1977 and continues to celebrate the date on 29th September every year.
+
+◼️
+
+[Data](articles/a266a82b.json)
+
+[Extended Data](ext_articles/a266a82b.ext.json)
+
+---
+
+### சட்டவிரோத மீன்பிடி முறைகளைத் தடுப்பதற்காக கடற்படையின் விசேட நடவடிக்கை ; 36 பேர் கைது!
+
+*2025-09-29 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226420) · `ta`
+
+The Sri Lankan navy, in collaboration with the Department of Fisheries and Aquatic Resources in the last two weeks (from September 16 to 25), has arrested 36 charges of using banned fishing nets and ammunition, illegal fishing, illegal fishing and illegal fishing.
+
+During the special raid, the Marines seized thirteen (13) Tinky boats and two (02) boats.
+
+Accordingly, the Eastern and Northern Central Navy Commandments, the two -fold (36) (36) (36), are the result of the activities of Trincomalee's Boulder Point, Norway Island, Diamond Point, Vavuniya, Paul Point and Pigeon Island and Pigeon.
+
+In addition, the suspects arrested in these activities, banned fishing equipment and fishing boats have been handed over to the Fisheries and Water Resources Offices in Trincomalee, Kuchchaveli, Mullaitivu, Muttur, Mannar and Batticaloa for further legal action.
+
+◼️
+
+[Data](articles/0c0d1bc7.json)
+
+[Extended Data](ext_articles/0c0d1bc7.ext.json)
 
 ---

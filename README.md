@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 10:38:31**
+As of **2025-09-29 11:08:12**
 
 ## Newspaper Stats
 
-*Scraped **79,375** Articles*
+*Scraped **79,391** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 419
-newsfirstlk | 468
+lankadeepalk | 420
+newsfirstlk | 470
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 798
@@ -17,21 +17,135 @@ dailymirrorlk | 4,733
 economynextcom | 4,734
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,645
+adalk | 7,649
 adaderanalk | 10,245
-tamilmirrorlk | 11,877
+tamilmirrorlk | 11,884
 virakesarilk | 12,933
-adaderanasinhalalk | 13,758
+adaderanasinhalalk | 13,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,374 (100.0%) of 79,375 articles have been extended.
+79,385 (100.0%) of 79,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### Civil Security Gets New Role Under Public Security
+
+*2025-09-29 10:56:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/civil-security-gets-new-role-under-public-security) · `en`
+
+COLOMBO (News 1st); The Civil Security Department is set to be placed under the purview of the Ministry of Public Security, according to Minister Ananda Wijepala.As part of the upcoming plans, a larger number of Civil Security Officers will be deployed to protect agricultural lands and private property from wild elephant intrusions, particularly in vulnerable rural areas.
+
+◼️
+
+[Data](articles/54261df8.json)
+
+---
+
+### මාවනැල්ලේ පස් කන්දක් කම්කරු පිරිසක් මතට වැටේ
+
+*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මවනලල-පස-කනදක-කමකර-පරසක-මතට-වට/101-680400) · `si`
+
+මාවනැල්ල, අලුත්නුවර, මාණික්කාව ප්‍රදේශයේ තාප්පයක් බඳිමින් සිටි තිදෙනකු  මතට පස් කන්දක් කඩා වැටී ඇතැයි පොලීසිය කියයි.
+
+මේ වන විට ඔවුන් බේරාගැනීමේ කටයුතු සිදුවන බවද පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/070b57a6.json)
+
+---
+
+### උදය ගම්මන්පිලගෙන් අල්ලස් කොමිසමට පැමිණිල්ලක්
+
+*2025-09-29 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215127) · `si`
+
+පිවිතුරු හෙළ උරුමයේ නායක උදය ගම්මන්පිල මහතා අද (29) පෙරවරුවේ අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ගොනු කර තිබේ.
+
+ඒ ආණ්ඩුවේ මන්ත්‍රීවරුන් විසින් ලබා ගන්නා ලද මාසික වැටුප පක්ෂ අරමුදලට යොමු කිරීමෙන් දේශපාලන කටයුතු සිදු කිරීම සම්බන්ධවය.
+
+අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ගොනු කිරීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් උදය ගම්මන්පිල මහතා පැවසුවේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වෙත ලබා දෙන මාසික දීමනාව තමන්ට අවැසි ආකාරයට වියදම් කළ නොහැකි බවය.
+
+ඒ අනුව මාසිකව කෝටි 3කට වඩා වැඩි මුදලක් ආණ්ඩුවේ මන්ත්‍රීවරු 159 දෙනා විසින් ලබා ගනිමින් එය පක්ෂ අරමුදල වෙත බැර කර දේශපාලන කටයුතු වෙනුවෙන් යොදා ගැනීම මහජන මුදල් අවභාවිත කිරීමක් වන බවත් ඒ අනුව මේ සම්බන්ධව විමර්ශනය කරන ලෙස ඉල්ලා තමන් අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ගොනු කළ බවත් ඔහු පැවසීය.
+
+...
+
+[Data](articles/bc1fa014.json)
+
+---
+
+### ரயிலில் மோதி உயிரிழந்த ஆணிண் பாகங்கள் மீட்பு
+
+*2025-09-29 10:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-உயிரிழந்த-ஆணிண்-பாகங்கள்-மீட்பு/175-365460) · `ta`
+
+தலை மன்னாரில் இருந்து கொழும்பு நோக்கி பயணித்த புகையிரதத்தில் மோதி உயிரிழந்த நிலையில் ஞாயிற்றுக்கிழமை (28) அன்று காலை சடலம் ஒன்று மீட்கப்பட்டுள்ளது.
+
+சடலமாக மீட்கப்பட்ட நபர் நீர்கொழும்பைச் சேர்ந்த W.M.A. சரத் அந்தோனி (வயது-60) என தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/1890d074.json)
+
+---
+
+### Sri Lankan Students to Get Free Google AI Tools
+
+*2025-09-29 10:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lankan-students-to-get-free-google-ai-tools) · `en`
+
+COLOMBO (News 1st); Google has agreed to provide its advanced AI platform, Gemini, along with other premium student benefits, free of charge to Sri Lankan students, Deputy Minister of Digital Economy Eranga Weeraratne revealed on Monday (29).
+
+The announcement, marks the culmination of months of collaboration between the Ministry of Digital Economy and Google.
+
+The initiative will grant students across the country access to cutting-edge artificial intelligence tools, cloud computing platforms, and digital learning resources — all at no cost.
+
+“This is a game changer,” said Deputy Minister Weeraratne. “It will level the playing field and put our students on par with anyone, anywhere in the world.”
+
+The move is expected to significantly boost Sri Lanka’s national capacity in AI development and digital literacy, empowering the next generation to innovate, solve complex challenges, and compete globally.
+
+...
+
+[Data](articles/b6c53139.json)
+
+---
+
+### Mountains crashes on a group of workers
+
+*2025-09-29 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215126) · `si`
+
+Movena, Aluthnuwara and Nikkawa area has collapsed on a crowd of workers in the Menikka area.
+
+Our correspondent said that they have begun rescue.
+
+◼️
+
+[Data](articles/ad75f50e.json)
+
+[Extended Data](ext_articles/ad75f50e.ext.json)
+
+---
+
+### Pakistani minister who ran the Asian Cup
+
+*2025-09-29 10:22:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பையைத்-தூக்கிக்கொண்டு-ஓடிய-பாகிஸ்தான்-அமைச்சர்/44-365459) · `ta`
+
+The 2025 Asian Cup final has been completed with a shameful and bad incident that cricket has never happened in the world. The Indian team, who defeated Pakistan and won the Asia Cup for the 9th time, was refused to have the chance to celebrate the trophy and had to return to the hotel with a mere hand.
+
+Moshin Naqvi, chairman of the Asian Cricket Council (ACC) and the Chairman of the Pakistan Cricket Board (PCB), took the trophy for the winning team and left the stadium.
+
+After Ring Singh scored the run for the last over in the last over, the Indian players celebrated the field. Interviews of post -competition players took place. But, then, what happened after that. The prize ceremony has not been started for more than an hour.
+
+Initially, the Indian team refused to buy the trophy by Moshin Naqvi. But the real reason was worse than that. As the Asian Cricket Council president, Moshin Naqvi, took out the Asia Cup and Medals to the Indian team at the end of the confusion.
+
+...
+
+[Data](articles/586a7030.json)
+
+[Extended Data](ext_articles/586a7030.ext.json)
+
+---
 
 ### Kottawa Raid Uncovers 458 Bullets and Heroin
 
@@ -42,6 +156,78 @@ COLOMBO (News 1st); A major breakthrough in narcotics and illegal arms investiga
 ◼️
 
 [Data](articles/88f9fec7.json)
+
+[Extended Data](ext_articles/88f9fec7.ext.json)
+
+---
+
+### Salman Ali Aga
+
+*2025-09-29 10:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிசுத்-தொகையைத்-தூக்கி-எறிந்த-சல்மான்-அலி-அகா/44-365457) · `ta`
+
+In the final of the 2025 Asian Cup, the Indian team beat Pakistan for the third time and won their 9th title. In spite of this victory, Pakistan Captain Salman Ali Aga, who threw the second place cheque, caused great controversy and confusion.
+
+India and Pakistan teams clashed in this series three times. The Indian team won three times - Group Round, Super 4 and Final. In this, the final only went up to the last over. The Indian team has easily won the other two matches. This was the cause of the frustration of the Pakistani captain.
+
+After the match, the frustration of the defeat in the face of Pakistan Captain Salman Ali Aka became the frustration of the defeat. He was invited to the stage to receive the prize money for the second place. Within a few seconds of receiving the gift from the Asian Cricket Council chairman Moshin Naqi, he threw the check there, expressing his frustration.
+
+...
+
+[Data](articles/d704d910.json)
+
+[Extended Data](ext_articles/d704d910.ext.json)
+
+---
+
+### ඇමරිකාවේ පල්ලියක වෙඩි තැබීමක් - 04ක් මරුට
+
+*2025-09-29 10:01:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇමරිකාවේ-පල්ලියක-වෙඩි-තැබීමක්---04ක්-මරුට/11-418779) · `si`
+
+ඇමරිකාවේ මිචිගන් හී පල්ලියටකදී එල්ල කළ වෙඩි තැබීමකින් පුද්ගලයන් 04 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+වෙඩික්කරු මොටර් රථයක් වේගයෙන් ධාවනය කරමින් පල්ලිය තුලට කඩාවැදී ඇති අතර, අනතුරු ඔහු  විසින් වෙඩි තබා තිබේ.
+
+අනතුර පල්ලිය තුළ ගිනි ගැනීමක් සිදුව ඇති අතර, තවත් පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+වෙඩික්කරු පල්ලියෙන් පිටතට පැමිණි පසු පොලීිසිය වෙඩි තබා ඔහුව ඝාතනය කර තිබේ.
+
+◼️
+
+[Data](articles/fbf50b7f.json)
+
+---
+
+### I have you ....
+
+*2025-09-29 09:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எனக்கே-உனக்கா/62-365455) · `ta`
+
+◼️
+
+[Data](articles/d9e75a95.json)
+
+[Extended Data](ext_articles/d9e75a95.ext.json)
+
+---
+
+### 2 Case; Cancer of Authorization; Investigation Today
+
+*2025-09-29 09:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-நாளில்-2-கேஸ்-தவெக-அங்கீகாரம்-ரத்து-இன்று-விசாரணை/175-365454) · `ta`
+
+The CBI has filed a case for the CBI to investigate due to a planned conspiracy by the Karur incident in Chennai, and the petition has been filed for the cancellation of the party's approval.
+
+The investigation into the above petitions is due to the biggest excitement and anticipation of the people of Tamil Nadu.
+
+Actor Vijay's participation in a campaign meeting in Karur yesterday. In this case, many others are receiving treatment at Karur Government Hospital.
+
+In this, a woman named Sukuna died without treatment.. As a result, the death toll from the crowds in Karur has died at 41.
+
+While the Tamil Nadu victory was accused of being a deliberate conspiracy to investigate the CBI investigation, the party's lawyers appealed to the Madurai Icord's holiday judge Dandapani that the CBI or the Special Investigation Team should be properly investigated and to protect the surveillance camera footage.
+
+...
+
+[Data](articles/1197183e.json)
+
+[Extended Data](ext_articles/1197183e.ext.json)
 
 ---
 
@@ -70,6 +256,48 @@ COLOMBO (News 1st) - The National Dengue Control Unit has announced that the num
 [Data](articles/f066e228.json)
 
 [Extended Data](ext_articles/f066e228.ext.json)
+
+---
+
+### The invention of drugs more dangerous than ice in Sri Lanka
+
+*2025-09-29 09:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-ஐஸை-விட-ஆபத்தான-போதைப்பொருள்-கண்டுபிடிப்பு/175-365453) · `ta`
+
+The police department said that the drug was made more dangerous than the methampatamine in the country by checking the drug samples found in a shelter in Weligama recently.
+
+In a raid conducted by the Weligama police, a foreign youth was arrested recently surrounded by a drug manufacturing plant.
+
+The raw materials and equipment used for drug production were found at the site and its samples were handed over to the Government Analyst Department for further examination.
+
+According to the preliminary examination of the Government Analyst Department, it has been confirmed that the foundation of new drugs has been found more dangerous than ice drugs.
+
+The police department said the report would be issued in the next few days.  R
+
+◼️
+
+[Data](articles/4b3b1032.json)
+
+[Extended Data](ext_articles/4b3b1032.ext.json)
+
+---
+
+### Do not have trophy and medal; the Indian team's action results
+
+*2025-09-29 09:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/கோப்பையும்-பதக்கமும்-வேண்டாம்-இந்திய-அணி-அதிரடி-முடிவு/88-365452) · `ta`
+
+There is a peak clash between India and Pakistan. The Bahlkam attack also features the Asian Cricket Cup in the Operation Sindur line.
+
+India won the trophy in the Asia Cup final yesterday but the Indian team boycotted the trophy without buying the trophy. In this message, you can find a set of events held at the stadium yesterday after the competition.
+
+The Asian Cup cricket final was held yesterday at the Dubai Cricket Ground. This is the first time India -Pakistan will clash in the history of Asian Cup history. India won Pakistan in both the League and Super 4 rounds of the current Asian Cup.
+
+The impact of the Bahlkam attack and the Operation Sindur echoed in cricket. Controversy that India did not shake hands with Pakistani players in the first match. On the other hand, Suryakumar, the captain of the Indian team, said that the victory would submit to the victims of the Bahlkam attack.
+
+...
+
+[Data](articles/2629d33f.json)
+
+[Extended Data](ext_articles/2629d33f.ext.json)
 
 ---
 
@@ -333,6 +561,30 @@ The victim is a 21 year old resident of Sri Subhthipipura, Battaramulla.
 
 ---
 
+### Shapes leading to court against Diyawadana Nilame
+
+*2025-09-29 08:29:17* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-නිලවරණයට-එරෙහිව-අධිකරණයට-යන-හැඩ/11-418777) · `si`
+
+Civil Intelligence Front (Civil Intelligence) Convener of the Kandyan Front (Civil Intelligence) will be resolved to be resolved for the appointment of a historic Sri Dalada Maligawa.
+
+He emphasized that the Trustees of nearly 160 rules are yet to be officially announced by the Kandyan Kingdom of Diyawadana.
+
+Commissioner General of Buddhist Affairs RMG. Sanjaya said that when a query from Mr. Senaratne has not received the number of electoral names so far from the Ministry of Affairs.
+
+It is said that the resident of the adult monks who were the Rajamaha Viharaya stewards had been identified as the first custodians.
+
+The convener of the Civil Intelligence Front Sanjaya Mahawatta says that this is the only vote of the world that has not been summoned by voters in any voter turnout.
+
+Meanwhile, Commissioner General of Buddhist Affairs RMG. Senaratne has informed the Sri Diyawadana Nilame candidagama, Senkadagala.
+
+...
+
+[Data](articles/adc479ed.json)
+
+[Extended Data](ext_articles/adc479ed.ext.json)
+
+---
+
 ### India’s Operation Sindoor Referenced by Prime Minister Following Cricket Victory Over Pakistan
 
 *2025-09-29 08:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/india%e2%80%99s-operation-sindoor-referenced-by-prime-minister-following-cricket-victory-over-pakistan) · `en`
@@ -370,6 +622,26 @@ India won 147 runs for the loss of 57 runs for the loss of 5 wickets in the fina
 [Data](articles/9412fdee.json)
 
 [Extended Data](ext_articles/9412fdee.ext.json)
+
+---
+
+### Four killed in Michigan in Michigan, USA
+
+*2025-09-29 08:07:58* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකාවේ-මිචිගන්හි-පල්ලියකට-එල්ල-වූ-ප්‍රහාරයකින්-හතරක්-මරුට/3-418775) · `si`
+
+An international media reports that at least four people were killed and several others were injured when a gun was shot dead for a mosque.
+
+The officials that the attack on the shrine of Grand Blalank, a city of Grand Blalank from Detroit (100 km) from the northwitter, said that there were hundreds of
+
+The suspect, Thomas Jacob Sanford, who was identified as 40-year-old Thomas Jacob Sanford, was later identified as 40-year-old Thomas Jacob Sanford.
+
+The authorities are investigating the incident as a "target violent act", but the motive is still not clear.
+
+◼️
+
+[Data](articles/c1c235d6.json)
+
+[Extended Data](ext_articles/c1c235d6.ext.json)
 
 ---
 
@@ -1029,15 +1301,15 @@ Rajakaruna added that in restructuring its workforce, the company had to reduce 
 
 *2025-09-29 05:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-55-pct-in-august-amid-tax-inflows-moderate-capex-242067/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s budget deficit fell to 411 billion rupees in August 2025, down 55 percent from a year earlier, amid a 30.7 percent rise in taxes and slower capital expenditure, official data show.
+ECONOMYNEXT – Sri Lanka’s budget deficit fell to 411 billion rupees in August 2025, down 55 percent from a year earlier, amid a 30.7 percent rise in taxes and slower capital expenditure, official data showed.
 
-Tax revenues grew to 3,068.5 billion rupees, from 2,348.5 billion rupees and current spending also grew by a double-digit 11.2 percent to 3,381 billion rupees.
+Tax revenues grew to 3,068.5 billion rupees, from 2,348.5 billion rupees, and current spending also grew by a double-digit 11.2 percent to 3,381 billion rupees.
 
-Sri Lanka has public sector bloated by unemployed graduates and salaries eat up a large volume of taxes, though nominal wage levels fell after recent currency crises and they now have to be increased. A salary hike was given this year.
+Sri Lanka has a public sector bloated by unemployed graduates, and salaries eat up a large volume of taxes, though nominal wage levels fell after recent currency crises and they now have to be increased. A salary hike was given this year.
 
-Central bank wages have been steeply increased amid criticism as it was responsible for high level of inflation and open market operations, which critics hold out as the height of unaccountability.
+Central bank wages have been steeply increased amid criticism as it was responsible for the high level of inflation and open market operations, which critics hold out as the height of unaccountability.
 
-Central bank wages are not directly seen in the budget, but is an item that affect non-tax revenues.
+Central bank wages are not directly seen in the budget, but is an item that affects non-tax revenues.
 
 ...
 
@@ -1738,295 +2010,5 @@ Sampath Manamperi's brother Piyal Manampori was also supported.
 [Data](articles/be1baae5.json)
 
 [Extended Data](ext_articles/be1baae5.ext.json)
-
----
-
-### CWC copies met with Mahinda Rajapaksa
-
-*2025-09-28 20:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-ராஜபக்சவை-சந்தித்த-இ-தொ-கா-பிரதிகள்/175-365425) · `ta`
-
-Former President Mahinda Rajapaksa, CWC general secretary and parliamentarian Jeevan Thondaman, and CWC financialist and former parliamentarian Maruthappandi Rameshwaran met at the Tangalle, Calton House today.
-
-During the meeting, it was reported that they had addressed the health of former President Mahinda Rajapaksa.. Remble
-
-◼️
-
-[Data](articles/f802a9a7.json)
-
-[Extended Data](ext_articles/f802a9a7.ext.json)
-
----
-
-### CWC copies met former President Mahinda Rajapaksa
-
-*2025-09-28 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226349) · `ta`
-
-Former President Mahinda Rajapaksa, CWC general secretary and parliamentarian Jeevan Thondaman, and CWC financialist and former parliamentarian Maruthappandi Rameswaran met at the Tangalle, Calton residence on Sunday.
-
-During the meeting, it was reported that they had addressed the health of former President Mahinda Rajapaksa.
-
-◼️
-
-[Data](articles/6d5bc2f6.json)
-
-[Extended Data](ext_articles/6d5bc2f6.ext.json)
-
----
-
-### Dead body found under Kaduwela Bridge
-
-*2025-09-28 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215110) · `si`
-
-The body of the body was found under the Kaduwela Bridge in the Kelani River.
-
-Kaduwela Police said that a stalls of stone had been tied to the corpses.
-
-About four days ago, the man was dead, and the corpse had been severely spoiled.
-
-Only the underwear was found, and the man had been tied up and collided with the stones.
-
-Criminal investigations in Nugegoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fbc0a162.json)
-
-[Extended Data](ext_articles/fbc0a162.ext.json)
-
----
-
-### 170 Police Officers go to Court challenging Promotions
-
-*2025-09-28 19:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/170-police-officers-go-to-court-challenging-promotions) · `en`
-
-...
-
-[Data](articles/923d7dcb.json)
-
-[Extended Data](ext_articles/923d7dcb.ext.json)
-
----
-
-### 105 Shops Raided for Selling Rice Above Maximum Retail Price
-
-*2025-09-28 19:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/105-shops-raided-for-selling-rice-above-maximum-retail-price) · `en`
-
-COLOMBO (News 1st) - The Consumer Affairs Authority (CAA) has raided 105 shops across the country for selling rice at inflated prices. The authority said the raids were conducted islandwide over the past two weeks. The Consumer Affairs Authority further affirmed that legal action will be taken against the shop owners found violating the law.
-
-◼️
-
-[Data](articles/8859d2e8.json)
-
-[Extended Data](ext_articles/8859d2e8.ext.json)
-
----
-
-### India to benefit from the coin
-
-*2025-09-28 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215109) · `si`
-
-ආසියානු කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අවසන් තරගය පාකිස්ථානය සහ ඉන්දියාව අතර අද (28) පැවැත්වෙයි.
-
-India won the toss and win the bowling first.
-
-◼️
-
-[Data](articles/cca6c948.json)
-
-[Extended Data](ext_articles/cca6c948.ext.json)
-
----
-
-### Namal to hear fishing grief
-
-*2025-09-28 19:31:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නමල-ධවර-දක-අහනන-යය/101-680369) · `si`
-
-Namal Rajapaksa, National Organizer of the General Manager
-
-Also, the fishing community informed Namal Rajapaksa regarding the damage to the ocean environment due to foreign fishermen from Mannar to Norochcholai.
-
-The discussion also discussed the program to take place on the threat and influence of foreign fishermen and the damages to Sri Lankan fishermen.
-
-◼️
-
-[Data](articles/9d473df6.json)
-
-[Extended Data](ext_articles/9d473df6.ext.json)
-
----
-
-### Namal to hear fishing grief
-
-*2025-09-28 19:31:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නමල-ධවර-දක-අහනන-යය/1-680369) · `si`
-
-Namal Rajapaksa, National Organizer of the General Manager
-
-Also, the fishing community informed Namal Rajapaksa regarding the damage to the ocean environment due to foreign fishermen from Mannar to Norochcholai.
-
-The discussion also discussed the program to take place on the threat and influence of foreign fishermen and the damages to Sri Lankan fishermen.
-
-◼️
-
-[Data](articles/e67801b0.json)
-
-[Extended Data](ext_articles/e67801b0.ext.json)
-
----
-
-### Our goal is to create environmental schools and environmental children through educational reforms - the Prime Minister
-
-*2025-09-28 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226348) · `ta`
-
-Prime Minister Harini Amarasuriya said that it is the national target of our government to create a stable environment that ensures the existence of all living things and create environmental schools and environmental children through educational reforms.
-
-The Prime Minister was speaking at the inauguration of the newly opened Moon Memorial Museum at the Peradeniya State Botanic Gardens on Sunday (28).
-
-The newly opened Moon's Botanical Museum is established with the aim of commemorating the Park's founder, Alexander Moon, to commemorate the 200 -year traditional botanical history of the Peradeniya State Botanic Gardens.
-
-The Botanic Museum, which is open for public viewing daily from 9.00 am to 3.00 pm, provides intellect to domestic people and school students, including special plants, plant samples, economic crops, plant history and other foreign botanical museums. The main purpose.
-
-The Prime Minister opened the museum and planted a symbol of a tree in the park.
-
-...
-
-[Data](articles/28d43559.json)
-
-[Extended Data](ext_articles/28d43559.ext.json)
-
----
-
-### It is information that a severe drug is produced in Sri Lanka
-
-*2025-09-28 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215108) · `si`
-
-It has been revealed that the ice or Methampamamine has produced a vier drug drug over drugs.
-
-The Police Department states that this has been inspected at a drug samples in Weligama recently.
-
-According to a raid conducted by the Weligama Police, a recent national youth was arrested recently.
-
-The raw materials and equipment used in the area were found to be handed over to the Government Task Inspector Department for further investigations.
-
-According to the preliminary inquiries of the Government Analyst's Department, the preliminary investigations were revealed that the ice is far from the ice drugs.
-
-The police Department said that the report is expected to be issued in the next few days.
-
-Meanwhile, the Tangalle Divisional Investigation Unit has taken into custody by Tangalle Divisional Criminal Investigation Unit.
-
-The suspects carrying drug transportation have been recovered from the Matara area.
-
-Police have found more than 700 kilograms of heroin and ice in Tangalle recently, police said.
-
-◼️
-
-[Data](articles/6a806a55.json)
-
-[Extended Data](ext_articles/6a806a55.ext.json)
-
----
-
-### Woman collided with powder Menike train
-
-*2025-09-28 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226347) · `ta`
-
-Hatton police said that a woman who was hit by a train was severely injured and admitted to the Dikoya Klangan Divisional Hospital on Sunday, 28th.
-
-The accident occurred at around 1:30 pm near the railway crossing on the Hatton -Nuwara Eliya main road near the Hatton railway station.
-
-According to the neighbors, the woman was on the train while the Bodi Menige train driver was moving slowly and the woman who was injured in the accident for a long time.
-
-◼️
-
-[Data](articles/dc4301fc.json)
-
-[Extended Data](ext_articles/dc4301fc.ext.json)
-
----
-
-### Madras high court cancels urgent hearing on Karur stampede tragedy
-
-*2025-09-28 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113006/madras-high-court-cancels-urgent-hearing-on-karur-stampede-tragedy) · `en`
-
-Madras High Court today (28) cancelled its urgent hearing, scheduled for 4.30 p.m., on a plea related to the deadly stampede at actor-turned-politician Vijay’s Tamilaga Vetri Kazhagam (TVK) rally in Tamil Nadu’s Karur.
-
-A vacation bench of Justice N. Senthilkumar had agreed to hear a petition moved by N. Senthilkannan of Karur district.
-
-However, the court, after perusing the papers, noted that the plea was not a fresh case but an impleading petition in an already pending matter concerning police permissions for TVK’s public meetings and chose to drop the urgent listing.
-
-Meanwhile, the death toll in the tragic crush climbed to 40, police said on Sunday.
-
-The stampede occurred late on Saturday at Velusamypuram, where thousands had gathered to see Vijay speak as part of his state-wide political campaign.
-
-Overcrowding and confusion as the event wound down triggered panic, with people jostling to exit.
-
-Nine of those killed were children; dozens more remain hospitalised, some in critical condition.
-
-...
-
-[Data](articles/0110cd27.json)
-
-[Extended Data](ext_articles/0110cd27.ext.json)
-
----
-
-### Former municipal councilors arrested in Pohoth
-
-*2025-09-28 18:56:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහටටව-හටප-නගරක-මනතර-අතඅඩගවට/1-680367) · `si`
-
-Former Municipal Councilor of Mount Lavinia Municipal Councilor and the Western Member of the Western Provincial Council Amal Silva has been arrested using three crores of Rs.
-
-According to information received by the OIC Chief Inspector Indika Udaya Kumara was arrested on December 31 and January on December 31st December.
-
-Investigations on the songs have been revealed that the vehicles were prepared and used by these vehicles.
-
-According to the police, one jeep used a meaning to the meaning of the Sri Lanka Army, he has been confirmed that the vehicles are not imported by the Sri Lanka Customs.
-
-◼️
-
-[Data](articles/1c02c0c3.json)
-
-[Extended Data](ext_articles/1c02c0c3.ext.json)
-
----
-
-### Former municipal councilors arrested in Pohoth
-
-*2025-09-28 18:56:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-හටප-නගරක-මනතර-අතඅඩගවට/101-680367) · `si`
-
-Former Municipal Councilor of Mount Lavinia Municipal Councilor and the Western Member of the Western Provincial Council Amal Silva has been arrested using three crores of Rs.
-
-According to information received by the OIC Chief Inspector Indika Udaya Kumara was arrested on December 31 and January on December 31st December.
-
-Investigations on the songs have been revealed that the vehicles were prepared and used by these vehicles.
-
-According to the police, one jeep used a meaning to the meaning of the Sri Lanka Army, he has been confirmed that the vehicles are not imported by the Sri Lanka Customs.
-
-◼️
-
-[Data](articles/2e850c2d.json)
-
-[Extended Data](ext_articles/2e850c2d.ext.json)
-
----
-
-### Currently laid down by coal tender
-
-*2025-09-28 18:53:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගල-අඟර-ටනඩරයන-දෂණයකට-පර-කපල/101-680366) · `si`
-
-The Frontline Socialist Party Education Secretary Pubudu Jayagoda said that the importation of coal imports required to generate coal generating is not eligible for electricity.
-
-He said:
-
-The tender was opened in the coal supply of coal to the electrical generator on September 15. Tripant Chemper, which submitted the minimum bid, was entitled to the company. The tender is emerged, the suspicion of procurement guidelines for the purpose of giving this company.
-
-According to the Ceylon Coal Registration Registration, the minimum qualifying criteria for coal is only 1,000,000 metric tons (1 million), at least 1,000,000 metric tons (1 million) coal pool.
-
-However, the minimum qualifying criteria should have to be 100,000 metric tons of 2025. That company has been registered with 90 percent to 100,000 metric tons from 1 million metric tonnes. This is clearly suspicious.
-
-...
-
-[Data](articles/19135291.json)
-
-[Extended Data](ext_articles/19135291.ext.json)
 
 ---

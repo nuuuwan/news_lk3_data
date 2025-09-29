@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 18:46:15**
+As of **2025-09-29 17:59:12**
 
 ## Newspaper Stats
 
-*Scraped **79,587** Articles*
+*Scraped **79,562** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 454
-newsfirstlk | 488
+lankadeepalk | 450
+newsfirstlk | 487
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -17,173 +17,21 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,664
-adaderanalk | 10,270
-tamilmirrorlk | 11,914
-virakesarilk | 12,986
-adaderanasinhalalk | 13,777
+adalk | 7,663
+adaderanalk | 10,267
+tamilmirrorlk | 11,909
+virakesarilk | 12,978
+adaderanasinhalalk | 13,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,577 (100.0%) of 79,587 articles have been extended.
+79,561 (100.0%) of 79,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### ලංකා - ජපන් නායකයෝ ඒකාබද්ධ මාධ්‍ය හමුවක
-
-*2025-09-29 18:34:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලක-ජපන-නයකය-ඒකබදධ-මධය-හමවක/1-680433) · `si`
-
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී අද (29) පෙරවරුවේ පැවැත්විණි.
-
-ජපාන අග්‍රාමාත්‍ය කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයා ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබූ අතර, ජනාධිපතිවරයා වෙනුවෙන් ජපාන ස්වයං ආරක්ෂක බලකායේ උත්තමාචාරද පිළිගැන්විණි. එම පෙළපාළිය නිරීක්ෂණය සඳහාද ජනාධිපතිවරයා එක් විය.
-
-දෙරටේ නියෝජිත පිරිස හඳුන්වා දීමෙන් අනතුරුව, ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා අතර නිල සාකච්ඡා ආරම්භ කෙරිණි.
-
-ජපානය සහ ශ්‍රී ලංකාව අතර පවතීන දීර්ඝකාලීන සමීප මිත්‍රත්වය තවදුරටත් ශක්තිමත් කර ගනිමින්, දෙරට අතර වෙළෙඳ, ආයෝජන, ආර්ථික, සංවර්ධන ආධාර සහ කලාපීය ආරක්ෂාව ආදී කරුණු ආවරණය කෙරෙන පරිදි විවිධ ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් පුළුල් කර ගැනීම පිළිබඳව එහිදී අවධානය යොමු කෙරිණි.
-
-...
-
-[Data](articles/e9cee0eb.json)
-
----
-
-### ’’ஹரக் கட்டா அநியாயமாக தடுத்து வைக்கப்பட்டுள்ளார்”
-
-*2025-09-29 18:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்-கட்டா-அநியாயமாக-தடுத்து-வைக்கப்பட்டுள்ளார்/175-365495) · `ta`
-
-"ஹரக் கட்டா" என்ற பாதாள உலகக் குழுவால் நன்கு அறியப்பட்ட நதுன் சிந்தக விக்ரமரத்ன, மூத்த பொலிஸ் அதிகாரிகள் மற்றும் அரசியல்வாதிகள் சம்பந்தப்பட்ட லஞ்சக் குற்றச்சாட்டுகளை அம்பலப்படுத்துவதைத் தடுக்க, பயங்கரவாதத் தடுப்புச் சட்டத்தின் (PTA) கீழ் அநியாயமாக தடுத்து வைக்கப்பட்டுள்ளதாக அவரது குடும்பத்தினர் குற்றம் சாட்டியுள்ளனர்.
-
-ஜெனீவாவில் உள்ள வலுக்கட்டாயமாக காணாமல் ஆக்கப்பட்டோர் குழுவிடம் அளித்த முறைப்பாட்டில், விக்ரமரத்னவின் தந்தை நெல்சன் மெர்வின் விக்ரமரத்ன, தனது மகன் மீது ஆயுதங்கள், போதைப்பொருள் அல்லது கடுமையான குற்றவியல் குற்றச்சாட்டுகள் எதுவும் பதிவு செய்யப்படாத போதிலும், தொடர்ச்சியான தடுப்பு உத்தரவுகளின் கீழ் 30 மாதங்களுக்கும் மேலாக தடுத்து வைக்கப்பட்டுள்ளதாகக் கூறினார். இதுவரை எழுப்பப்பட்ட ஒரே வழக்குகள் காவலில் இருந்து தப்பிக்க முயன்றதாகக் கூறப்படுவது தொடர்பானவை.
-
-...
-
-[Data](articles/888b074e.json)
-
----
-
-### HSBC இன்‌ விசேட அறிவிப்பு
-
-*2025-09-29 18:08:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/HSBC-இன்-விசேட-அறிவிப்பு/47-365494) · `ta`
-
-◼️
-
-[Data](articles/d15bb163.json)
-
----
-
-### Oil prices drop 1% on expected global supply growth
-
-*2025-09-29 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113038/oil-prices-drop-1-on-expected-global-supply-growth) · `en`
-
-Oil prices fell by more than 1 per cent on Monday as OPEC+ plans for another increase to oil output in November and the resumption of oil exports by Iraq’s Kurdistan region via Turkey raised the global supply outlook.
-
-Brent crude futures dropped $1.01, or 1.4 per cent, to $69.12 a barrel by 1019 GMT after settling at their highest since July 31 on Friday. U.S. West Texas Intermediate crude was down $1.11, or 1.7 per cent, at $64.61.
-
-The Organization of the Petroleum Exporting Countries and its allies, together known as OPEC+, is likely to approve another increase to crude oil production at its meeting on Sunday.
-
-The group is expected to confirm an increase of at least 137,000 barrels per day for November as rising oil prices encourage efforts to regain market share, said three sources.
-
-However, OPEC+ has been pumping almost 500,000 bpd less than its targets, defying market expectations of a supply glut.
-
-...
-
-[Data](articles/43997ce0.json)
-
----
-
-### CID Probe Uncovers Major Lapses in Release of Container Linked to ‘Ice’ Drug Syndicate
-
-*2025-09-29 18:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/cid-probe-uncovers-major-lapses-in-release-of-container-linked-to-%e2%80%98ice%e2%80%99-drug-syndicate) · `en`
-
-...
-
-[Data](articles/80887a93.json)
-
----
-
-### The 81st anniversary of the Slesa Association
-
-*2025-09-29 17:56:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLESAசங்கத்தின்-81வது-ஆண்டு-நிறைவு/175-365493) · `ta`
-
-The 81st anniversary of the former Sri Lankan Veterans Association (SESA) was held on Sunday (28) at the Grand Medland Reception Hall in Colombo.
-
-Defense Secretary Air Vice Marshal Sampath (Retired) was the chief guest at the event. He was the chief guest of security secretary and special guests.
-
-Addressing the gathering, the Secretary of Defense said that the right leadership, timely decisions, and the proper implementation of the then -armed forces were properly implemented by the then Armed Forces.
-
-He expressed his gratitude for the infinite sacrifices and precious service made by all retired and death warriors for the sovereignty, regional integrity and peace of the homeland.
-
-Also, when the country is moving towards sustainable growth, he emphasized that it is very important to use the experience and knowledge of the warriors to encourage and guide the current youth. He added that this would contribute to the building of a patriotic and decent society.
-
-...
-
-[Data](articles/158792db.json)
-
-[Extended Data](ext_articles/158792db.ext.json)
-
----
-
-### The UN's 80th General Assembly session and Europe's third wave move
-
-*2025-09-29 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226436) · `ta`
-
-The 80th General Assembly of the United Nations has been held in New York City with the participation of world leaders in New York City.. The United Nations is the key to solving world problems. However, questions about its current activity and future were the focus of this session. In particular, the events involving US President Donald Trump and France President Emanuel Macron have been focused worldwide.
-
-This time, the United Nations President Donald Trump's speech at the United Nations General Assembly is considered as important as his direct and sharp criticisms on the United Nations and many other countries.. He pointed out that the technical issues he faced at the beginning of his speech were particularly proof of the UN executives, such as the disorder in an electrical lifting in the convention hall and the obstruction of his speech in the telephone.
-
-...
-
-[Data](articles/a7520823.json)
-
-[Extended Data](ext_articles/a7520823.ext.json)
-
----
-
-### Japan committed to development and stability - President
-
-*2025-09-29 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215145) · `si`
-
-President Anura Kumara Dissanayake was held at the Prime Minister's Office premises this morning at the Prime Minister's Office premises on an invitation of the Japanese government.
-
-The President was admitted to the Japanese Prime Minister's Office, the Japanese Prime Minister Shageeru Ishiba (Self-Security Force) for the President.. The President was also observed.
-
-After introducing the delegation of the two countries, President Anura Kumara Dissanayake and Japanese Prime Minister Shadiru Ishiba had commenced official discussions.
-
-The two countries have further strengthened the cooperation of trade, investment, economic, development assistance and regional security between Japan and Sri Lanka.
-
-The Productivity of the Dairy Sector Productivity (Project For The Dairyvity Assistance in the Dairy A Assistance of the Dairy A Assistance and Officer) has been signed.
-
-...
-
-[Data](articles/441226b6.json)
-
-[Extended Data](ext_articles/441226b6.ext.json)
-
----
-
-### Mobile phones of Backhoe Saman’s wife to be sent for forensic examination
-
-*2025-09-29 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113037/mobile-phones-of-backhoe-samans-wife-to-be-sent-for-forensic-examination) · `en`
-
-The Criminal Investigation Department (CID) informed the Colombo Magistrate’s Court today (29) that an inquiry is being conducted pertaining to the mobile phones belonging to Shadhika Lakshani, the wife of Backhoe Saman, who is currently detained under the Prevention of Money Laundering Act.
-
-The complaint was filed today by the CID and was called before Colombo Chief Magistrate Asanka S. Bodaragama through a motion.
-
-During the proceedings, police informed court that the suspect had two mobile phones in her possession at the time of arrest, which contained her "passwords," and that the passwords need to be removed.
-
-Police stated that the two mobile phones will be sent to the CID’s Forensic Laboratory for further investigation related to the incident.
-
-The suspect, who was recently taken into custody in Indonesia and brought to Sri Lanka, is being investigated by the CID for possible involvement with a drug trafficking network operating Middeniya.
-
-...
-
-[Data](articles/319967eb.json)
-
----
 
 ### From Oct 1, Ticketless Travel Will Cost You
 
@@ -195,231 +43,21 @@ COLOMBO (News 1st); The Western Province Road Passenger Transport Authority has 
 
 [Data](articles/23008e39.json)
 
-[Extended Data](ext_articles/23008e39.ext.json)
-
----
-
-### Violence against Mannar people
-
-*2025-09-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226435) · `ta`
-
-The oppressive violence against the people fighting for their existence in Mannar is the blatant manifestation of state terrorism that has once again staged on the Tamil people.. Said Srikanta.
-
-He made this statement at a media briefing held at a private guest hotel on Mattin Road, Jaffna.
-
-If the government did not accept the real justice struggle of the people against the Mannar wind power plant, it should have legally arrested the people involved if it was illegal.
-
-But the state has no power to attack them and cause injuries.
-
-In this context, the state -led government is in office for a year, we consider this wild darbar that is an example of the attitude of the government when the democratic struggles against the state are expanding.
-
-And no one who respects the fundamental rights of the people can accept democracy to recognize or recognize this ritual.
-
-...
-
-[Data](articles/c4b0d1b2.json)
-
-[Extended Data](ext_articles/c4b0d1b2.ext.json)
-
----
-
-### ජනපති-ජපන් අගමැති හමු වෙයි
-
-*2025-09-29 17:26:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-අගමත-හම-වය/1-680427) · `si`
-
-ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) සහ ජනාධිපති අනුර කුමාර දිසානායක මහත්වරුන් අතර හමුව ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී අද (29) සිදු විය.
-
-මෙහිදී පැවති සාකච්ඡාවලදී ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දීර්ඝකාලීන සමීප සබඳතා තවදුරටත් ශක්තිමත් කර ගනිමින් දෙරට අතර වෙළෙඳ, ආයෝජන, ආර්ථික, සංවර්ධන ආධාර සහ කලාපීය ආරක්ෂාව ඇතුළු ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් පුළුල් කර ගැනීම පිළිබඳව අවධානය යොමු කර තිබේ.
-
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය විසින් දක්වන ලද සහාය වෙනුවෙන් මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයට කෘතවේදීත්වයද පළ කර ඇත.
-
-එමෙන්ම, මෙරට සංවර්ධන ක්‍රියාවලියේදී සමීප මිතුරකු සහ ණය ආධාර මෙන්ම ප්‍රදාන සපයන්නකු වශයෙන් බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ සංවර්ධන ව්‍යාපෘතිය ඇතුළු ව්‍යාපෘති රැසක් සඳහා ජපාන රජයෙන් ලැබෙන අඛණ්ඩ දායකත්වය සහ සහයෝගයද ජනාධිපතිවරයා එහිදී ඇගැයීමට ලක් කර ඇත.
-
-◼️
-
-[Data](articles/4f5b13c3.json)
-
----
-
-### ASPI closes at new all-time high today
-
-*2025-09-29 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113036/aspi-closes-at-new-all-time-high-today) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 77 points today (29).
-
-Accordingly, the ASPI rose by 77.31 points or 0.36% to close at 21,676.30 points, surpassing the previous high of 21,598.99 points recorded on September 26, 2025.
-
-Meanwhile, the S&P SL20 Index moved up by 7.64 points to close at 6,119.21 points.
-
-◼️
-
-[Data](articles/d720ebc7.json)
-
----
-
-### Sri Lanka - India talks on power cooperation
-
-*2025-09-29 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226430) · `ta`
-
-Minister of Power and Energy Kumara Jayakody has met with the Indian renewable power minister and held talks on the cooperation of Sri Lanka -India strength.
-
-The meeting was held in collaboration with the recently organized power conference and exhibition organized by the Indian Industrial Federation in New Delhi.
-
-Minister Kumara Jayakody, who is on an official visit to India, discussed with the new and renewable power minister Prakalath Joshi of the Central Government of India, Prakalat Joshi, to improve the cooperation of energy between the two countries, to review the progress of current joint plans, and to investigate future investment opportunities.
-
-At this meeting with the Indian Minister of Power and Energy, the emphasis was given to renewable power cooperation.. In these discussions, the introduction of competitive purchasing methods has been paid to ensure the minimum price for renewable strength in Sri Lanka.
-
-...
-
-[Data](articles/d38804e8.json)
-
-[Extended Data](ext_articles/d38804e8.ext.json)
-
----
-
-### Sri Lanka found 'Mephedrone' drug for the first time from Sri Lanka
-
-*2025-09-29 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215144) · `si`
-
-The Government Analyst's report has revealed that the substance found from a nation in Moldova arrested on 21st September.
-
-Senior DIG Kathsiri Jayalath said that the drug has been revealed to other drugs such as ice, such as ice.
-
-◼️
-
-[Data](articles/45233bbb.json)
-
-[Extended Data](ext_articles/45233bbb.ext.json)
-
----
-
-### 594,368 million losses to the Ceylon Electricity Board from 2014 to 2022
-
-*2025-09-29 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226434) · `ta`
-
-Besides 2015, from 2014 to 2022, the Ceylon Electricity Board's loss was Rs 594,368 million.
-
-The Committee (COP) Member of Parliament Nishantha Samaraweera, headed by its chairman of the Government of Ceylon, was convened in Parliament on Wednesday (24) to investigate the report of the Auditor General of the Ceylon Electricity Board 2022 and 2023.
-
-The Cobb Committee pointed out that there were many reasons for the loss based on the report of the Auditor General and said that some activities of the council were given to the public when there were employees in the company.. Due to such a series of losses in August 2022, the group pointed out that the electricity tariffs were increased by increasing, causing people to suffer great difficulties.. However, it was revealed that the Electricity Board had made a profit after 2023.
-
-...
-
-[Data](articles/3601b1c0.json)
-
-[Extended Data](ext_articles/3601b1c0.ext.json)
-
----
-
-### Purchase Rans to the Klangan Hospital Outpatient Division
-
-*2025-09-29 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226433) · `ta`
-
-At the Dikoya Klangan Hospital, the Attan Lions Association gifted a sum of rays to the hospital for the outpatient unit and the welfare of those who visit the clinic services.
-
-Attan Lions Club Chairman S. Sappani, Secretary Nallusamy, Lion Prabhakar, Klangan Hospital Development Association Secretary Sankaramanivannan, Treasurer P. Nagendran and Dr. Arulkumaran were also present.
-
-◼️
-
-[Data](articles/73313540.json)
-
-[Extended Data](ext_articles/73313540.ext.json)
-
 ---
 
 ### ‘Mephedrone’ drug discovered for the first time in Sri Lanka - Senior DIG Southern Province
 
 *2025-09-29 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113035/mephedrone-drug-discovered-for-the-first-time-in-sri-lanka-senior-dig-southern-province) · `en`
 
-Sri Lanka has detected the highly dangerous synthetic stimulant drug ‘Mephedrone’ for the first time, the Senior Deputy Inspector General of Police (DIG) of the Southern Province Kithsiri Jayalath stated.
+The report by the Government Analyst revealed that the substance recovered from a foreigner from Moldova arrested in Weligama on 21 September is an empathogen-stimulant drug ‘Mephedrone’.
 
-The discovery was made following an examination by the Government Analyst of the substance recovered from a Moldova national arrested in Weligama on 21 September.
-
-Accordingly, the Government Analyst has issued a report confirming the detection of ‘Mephedrone’ drug.
-
-Senior DIG of the Southern Province Kithsiri Jayalath stated that the stimulant drug ‘Mephedrone’ is more dangerous than other narcotic drugs such as crystal methamphetamine (commonly known as ‘Ice’).
+The drug is more dangerous than other narcotic drugs such as ‘Ice’ and detected for the first time in Sri Lanka, according to Kithsiri Jayalath, Senior DIG, Southern Province.
 
 ◼️
 
 [Data](articles/0f180a6b.json)
 
 [Extended Data](ext_articles/0f180a6b.ext.json)
-
----
-
-### Japanese Prime Minister - Two major projects in the presence of President Anura
-
-*2025-09-29 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226416) · `ta`
-
-Japanese Ambassador Akio Isomada and Sri Lanka's Foreign Employment and Tourism Minister Vijitha Herath signed the inauguration of the Official Security Assistance Scheme (OSA) Scheme (OSA) program and the project of the dairy farming industry.
-
-Japan's first OSA for Sri Lanka indicates that bilateral cooperation in security has entered a new phase. OSA, which was launched in 2023, is Japan's new subsidy assistance cooperation structure to strengthen the safety and preventive skills of similar -minded countries. OSA helps to be a recipient of armed forces, different from the official development assistance (ODA) for the economic and social development of developing countries.
-
-...
-
-[Data](articles/655f932c.json)
-
-[Extended Data](ext_articles/655f932c.ext.json)
-
----
-
-### Navratri Cultural Program at Mayurapathi Sri Bhadrakali Temple
-
-*2025-09-29 17:09:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மயூரபதி-ஸ்ரீ-பத்ரகாளி-கோயிலில்-நவராத்திரி-கலாச்சார-நிகழ்ச்சி/46-365491) · `ta`
-
-The Navratri Cultural Program was held at the Mayurapathy Sri Bhadrakali Temple in Wellawatte with a colorful ceremony.
-
-◼️
-
-[Data](articles/960f4084.json)
-
-[Extended Data](ext_articles/960f4084.ext.json)
-
----
-
-### A report on investigations into the wife of Saman's wife
-
-*2025-09-29 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215142) · `si`
-
-The Criminal Investigation Department (CID) informed the Magistrate's Court today (29), a wife of the wife of Ven Kankik Lakshani.
-
-Colombo Chief Magistrate Asanka S. Bodaragama was summoned through a motion filed by the Criminal Investigation Department today.
-
-The police also informed the police when he was arrested by the court and was arrested in her two mobile phones and wanted to remove it.
-
-The two mobile phones will be sent to the Criminal Investigation Department to carry out the future investigations into the incident.
-
-The CID is investigating whether the suspect has been arrested with the network connected to the network associated with the Narcotics Trafficking in Middeniya recently.
-
-The Chief Magistrate was presented to the Department of Criminal Investigations on the following day a comprehensive report on the suspect.
-
-◼️
-
-[Data](articles/ad837dd9.json)
-
-[Extended Data](ext_articles/ad837dd9.ext.json)
-
----
-
-### The United Arab Emirates Ambassador met the Speaker
-
-*2025-09-29 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226431) · `ta`
-
-Ambassador of Sri Lanka, Khalid Nasser Al -US, met with Jagath Wickremaratne in Parliament on Thursday (25).
-
-Speaker Jagath Wickremaratne pointed out long -term bilateral relations between Sri Lanka and the United Arab Emirates since 1979 and recalled the historical relations between Sri Lanka and the Arab countries.
-
-He added that the Sri Lankan community in the Middle East would contribute significantly to the national economy.
-
-The Speaker pointed out that the United Arab Emirates is the 7th largest export of Sri Lankan products and emphasized the importance of further expansion of trade relations.
-
-Ambassador Khalid Nasser al -American pointed out strategic benefits, including the geographical location of Sri Lanka, skilled human resources, mineral wealth, natural beauty and attraction to tourism.. He emphasized the need to encourage these to attract more investments.
-
-...
-
-[Data](articles/43e83662.json)
-
-[Extended Data](ext_articles/43e83662.ext.json)
 
 ---
 
@@ -459,24 +97,6 @@ The deceased has been identified as Diwanga Piyadissa, 24, a third year student 
 
 ---
 
-### Medical student killed in accident
-
-*2025-09-29 16:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மருத்துவ-மாணவன்-விபத்தில்-பலி/76-365490) · `ta`
-
-A 24 -year -old student of the Peradeniya University's Faculty of Science has died in a vehicle accident at Urapola junction in Kadugannawa, police said.
-
-Police say that a university student who was riding a motorbike to the university on the main road of Kadugannawa-Colombo crashed into a double-tier truck carrying vehicles to Colombo.
-
-The deceased has been identified as Divanga Piyadissa (24), a third -year student of the Faculty of Medical Faculty of Peradeniya University.
-
-◼️
-
-[Data](articles/8c24a748.json)
-
-[Extended Data](ext_articles/8c24a748.ext.json)
-
----
-
 ### Maithri says poems
 
 *2025-09-29 16:53:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මතර-කව-කයය/101-680426) · `si`
@@ -492,22 +112,6 @@ The ex-President was a special event to sing the poem on the pink flower stall i
 [Data](articles/03dd1753.json)
 
 [Extended Data](ext_articles/03dd1753.ext.json)
-
----
-
-### මෛත්‍රී කවි කියයි
-
-*2025-09-29 16:53:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතර-කව-කයය/1-680426) · `si`
-
-කිසිදු දේශපාලනඥයකු අධ්‍යාපනයට අද තැබීම හොඳ නැතැයි  හිටපු ජනාධිපති මෛත්‍රිපාල  සිරිසේන මහතා පැවසීය
-
-අධ්‍යාපනයට අත තියන එක දේශපාලන අයිති වගකීමක් නොවන බව පැවසූ හිටපු ජනාධිපතිවරයා එය අධ්‍යාපන විශේෂඥයන්ට අයිති දෙයක් බවද  සඳහන් කළේය.
-
-හිටපු ජනාධිපතිවරයා දරුවන් ඉදිරියේ  මෙහිදී රෝස මලේ නටුවෙ කවිය තාලයට ගායනා  කිරීමද මෙහිදී සිදු වූ විශේෂ සිද්ධියක් විය.
-
-◼️
-
-[Data](articles/73d12946.json)
 
 ---
 
@@ -534,28 +138,6 @@ A protest group from Colombo came in support of the protest.
 [Data](articles/0a1c0bd7.json)
 
 [Extended Data](ext_articles/0a1c0bd7.ext.json)
-
----
-
-### Mannar windmill: The government should abandon its stubbornness and guarantee the rights of the people - Suresh Premachandran
-
-*2025-09-29 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226428) · `ta`
-
-Social activists, ecologists and psychologists have expressed their stubbornness and guarantee the people's rights of the Eelam People's Revolutionary Liberation Front, Suresh Priyamachandran, as the newly built wind power towers in the Mannar island will be affected and the environment will be affected.
-
-He said that any development action should be guaranteed to guarantee the prosperous future of the people and not to threaten their lives.
-
-He said this in a media statement issued by Suresh Premachandran:
-
-Various efforts are being made to strengthen alternative power in Sri Lanka, such as wind power towers and solar power plants.. In particular, the government is encouraging the private sector to build massive windmills due to the sea around the area in the Mannar Island area.
-
-Mannar people are facing two problems. One, the mineral mud is plundered. Wind power towers are set up in areas where people can live.
-
-...
-
-[Data](articles/86a2ecff.json)
-
-[Extended Data](ext_articles/86a2ecff.ext.json)
 
 ---
 
@@ -599,46 +181,6 @@ Professor Senaka Bibile passed away on September 29, 1977 and continues to celeb
 
 ---
 
-### ’’එක පෑන් පහරින්  ඔක්කොම කරන්න බෑ’’
-
-*2025-09-29 16:40:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/එක-පන-පහරන-ඔකකම-කරනන-බ/1-680425) · `si`
-
-ආර්ථික වශයෙන් පරිහානියට පත්වූ රටක් අදියරෙන් අදියර ගොඩනගමින් ආර්ථික වර්ධනයක් උදාකර ගනු ලබන අවස්ථාවක සියලු අඩුපාඩු එක් පෑන් පහරකින් සම්පුර්ණ කර ගත නොහැකි බව සෞඛ්‍ය ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය  නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-ඉදිරියේ දී සියල්ල යථා තත්වයට පත් කර ගැනීමට කටයුතු කරන බව ද අමාත්‍යවරයා අවධාරණය කළේ ය.
-
-අමාත්‍යවරයා මේ බව කීවේ ජාතික ඖෂධ ප්‍රතිපත්තියේ නිර්මාතෘ මහාචාර්ය සේනක බිබිලේ මහතාගේ 48වන ගුණ සමරුමට සහභාගී වෙමිනි.
-
-සේනක බිබිලේ අනුස්මරණ සංවිධානය විසින් සංවිධානය කරනු ලැබූ  මෙම ගුණ සමරුමේ සමරු දෙසුම පැවැත්වූයේ ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ හිටපු උපකුලපති සම්මානිත මහාචාර්ය නාරද වර්ණසූරිය මහතායි.
-
-මහාචාර්ය සේනක බිබිලේ මහතා 1977 වර්ෂයේ සැප්තැම්බර් 29  දින ගයනාවේ දී අභාවප්‍රාප්ත වූ අතර එම දිනය සමරමින් සෑම වර්ෂයකම සැප්තැම්බර් මස 29  දින අඛණ්ඩව මෙම සැමරුම් උත්සවය පවත්වනු ලබයි.
-
-◼️
-
-[Data](articles/a266a82b.json)
-
----
-
-### சட்டவிரோத மீன்பிடி முறைகளைத் தடுப்பதற்காக கடற்படையின் விசேட நடவடிக்கை ; 36 பேர் கைது!
-
-*2025-09-29 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226420) · `ta`
-
-The Sri Lankan navy, in collaboration with the Department of Fisheries and Aquatic Resources in the last two weeks (from September 16 to 25), has arrested 36 charges of using banned fishing nets and ammunition, illegal fishing, illegal fishing and illegal fishing.
-
-During the special raid, the Marines seized thirteen (13) Tinky boats and two (02) boats.
-
-Accordingly, the Eastern and Northern Central Navy Commandments, the two -fold (36) (36) (36), are the result of the activities of Trincomalee's Boulder Point, Norway Island, Diamond Point, Vavuniya, Paul Point and Pigeon Island and Pigeon.
-
-In addition, the suspects arrested in these activities, banned fishing equipment and fishing boats have been handed over to the Fisheries and Water Resources Offices in Trincomalee, Kuchchaveli, Mullaitivu, Muttur, Mannar and Batticaloa for further legal action.
-
-◼️
-
-[Data](articles/0c0d1bc7.json)
-
-[Extended Data](ext_articles/0c0d1bc7.ext.json)
-
----
-
 ### Japan Grants ¥500 Mn to Sri Lanka for High-Tech UAVs
 
 *2025-09-29 16:34:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/japan-grants-%c2%a5500-mn-to-sri-lanka-for-high-tech-uavs) · `en`
@@ -658,22 +200,6 @@ Sri Lanka occupies a critical position along key maritime routes connecting Asia
 [Data](articles/a20f2329.json)
 
 [Extended Data](ext_articles/a20f2329.ext.json)
-
----
-
-### Showers and showers
-
-*2025-09-29 16:32:44* · [`adalk`](https://www.ada.lk/breaking_news/කුඩයක්-අරන්-යන්න-හෙටත්-තැනින්-තැන-වැසි/11-418793) · `si`
-
-Several spells of rainfall in the Western, Sabaragamuwa and Northwestern provinces have occurred in the Nuwara Eliya, Kandy, Galle and Matara districts.
-
-In Trincomalee, North-Central, Northwestern and Central provinces, in the North, North-Central, North Western and Central provinces, as well as in the North, North-Central, Northwestern and Central provinces.. It will be as a speed of 30-40.
-
-◼️
-
-[Data](articles/b9962214.json)
-
-[Extended Data](ext_articles/b9962214.ext.json)
 
 ---
 
@@ -697,26 +223,6 @@ I wish to remind you that you are not joining a traditional public service. You 
 
 ---
 
-### The hunger strike continues for the 5th day in Jaffna demanding international justice
-
-*2025-09-29 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226427) · `ta`
-
-The hunger strike for international justice was held in Jaffna for the fifth day today (29) in the arrangement of the Relatives Association of the North and East.
-
-This struggle is Jaffna. Semmani will be held on the 25th of October until the 1st of October.
-
-The hunger strike has begun to demand justice for issues including human rights violations during the civil war in Sri Lanka and the disappearance of those who have disappeared, rejecting the domestic mechanism, urging the international investigation, and demanding justice for the human burial issue.
-
-The protest began as relatives, activists and civilians of the five districts of the North were participating in the protest, at the beginning of the protest, the protest began with the opening of the protest.
-
-...
-
-[Data](articles/c143aaff.json)
-
-[Extended Data](ext_articles/c143aaff.ext.json)
-
----
-
 ### Special Task Force Excavation Action in Batticaloa Land in Liberation Tigers
 
 *2025-09-29 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226424) · `ta`
@@ -736,6 +242,26 @@ Meanwhile, the area has been under the control of the LTTE in the past and the L
 [Data](articles/a6854247.json)
 
 [Extended Data](ext_articles/a6854247.ext.json)
+
+---
+
+### The hunger strike continues for the 5th day in Jaffna demanding international justice
+
+*2025-09-29 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226427) · `ta`
+
+The hunger strike for international justice was held in Jaffna for the fifth day today (29) in the arrangement of the Relatives Association of the North and East.
+
+This struggle is Jaffna. Semmani will be held on the 25th of October until the 1st of October.
+
+The hunger strike has begun to demand justice for issues including human rights violations during the civil war in Sri Lanka and the disappearance of those who have disappeared, rejecting the domestic mechanism, urging the international investigation, and demanding justice for the human burial issue.
+
+The protest began as relatives, activists and civilians of the five districts of the North were participating in the protest, at the beginning of the protest, the protest began with the opening of the protest.
+
+...
+
+[Data](articles/c143aaff.json)
+
+[Extended Data](ext_articles/c143aaff.ext.json)
 
 ---
 
@@ -1168,6 +694,22 @@ Today is the birthday of former Speaker Sri Langabemanya Karu Jayasuriya. இத
 [Data](articles/c9ce797c.json)
 
 [Extended Data](ext_articles/c9ce797c.ext.json)
+
+---
+
+### Japanese Prime Minister - Two major projects in the presence of President Anura
+
+*2025-09-29 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226416) · `ta`
+
+Japanese Ambassador Akio Isomada and Sri Lanka's Foreign Employment and Tourism Minister Vijitha Herath signed the inauguration of the Official Security Assistance Scheme (OSA) Scheme (OSA) program and the project of the dairy farming industry.
+
+Japan's first OSA for Sri Lanka indicates that bilateral cooperation in security has entered a new phase. OSA, which was launched in 2023, is Japan's new subsidy assistance cooperation structure to strengthen the safety and preventive skills of similar -minded countries. OSA helps to be a recipient of armed forces, different from the official development assistance (ODA) for the economic and social development of developing countries.
+
+...
+
+[Data](articles/655f932c.json)
+
+[Extended Data](ext_articles/655f932c.ext.json)
 
 ---
 
@@ -1944,5 +1486,475 @@ Preliminary investigations have been revealed that the vehicles made under the r
 [Data](articles/c82d41d2.json)
 
 [Extended Data](ext_articles/c82d41d2.ext.json)
+
+---
+
+### Appeals Court directs wildlife dept. to submit report on human-elephant conflict proposals
+
+*2025-09-29 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113023/appeals-court-directs-wildlife-dept-to-submit-report-on-human-elephant-conflict-proposals) · `en`
+
+The Court of Appeal has ordered the Department of Wildlife Conservation to submit, by November 10, information on the steps taken to implement the proposals prepared by the Centre for Environmental Justice to mitigate the human-elephant conflict.
+
+The petition was taken up today before a Court of Appeal bench comprising Justices Damitha Thotawatta and Sarath Dissanayake, said Ada Derana reporter.
+
+The Centre for Environmental Justice had previously submitted a series of proposals for the Court’s intervention to address the human-elephant conflict.
+
+On the advice of the Court, these proposals were forwarded to the Department of Wildlife Conservation for implementation. However, they have yet to be carried out, said Attorney-at-Law Dr. Ravindranath Dabare, appearing on behalf of the Centre for Environmental Justice.
+
+Dr. Dabare further alleged that the Department of Wildlife Conservation has not even provided the Court with information regarding any steps taken to implement the proposals.
+
+...
+
+[Data](articles/1a31ff3d.json)
+
+[Extended Data](ext_articles/1a31ff3d.ext.json)
+
+---
+
+### Bomb blast in Kilinochchi: two injured
+
+*2025-09-29 13:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-குண்டு-வெடிப்பு-இருவர்-படுகாயம்/175-365478) · `ta`
+
+கிளிநொச்சி தட்டுவான் கொட்டியில் இன்று காலை 11:30 மணியளவில் குண்டு வெடிப்பு சம்பவம் ஒன்று இடம்பெற்றுள்ளது .
+
+Two persons who went to excavation work in a dilapidated house continued their work.
+
+◼️
+
+[Data](articles/63130853.json)
+
+[Extended Data](ext_articles/63130853.ext.json)
+
+---
+
+### Bomb blast in Kilinochchi: two injured
+
+*2025-09-29 13:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கிளிநொச்சியில்-குண்டு-வெடிப்பு-இருவர்-படுகாயம்/150-365478) · `ta`
+
+A bomb blast took place at 11:30 am this morning at the Kilinochchi Tattuvan Kotte.
+
+Two persons who went to excavation work in a dilapidated house continued their work.
+
+◼️
+
+[Data](articles/6b74a1ed.json)
+
+[Extended Data](ext_articles/6b74a1ed.ext.json)
+
+---
+
+### The role of healing the tying veins
+
+*2025-09-29 13:39:37* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/ගුලි-වෙලා---ගැට-ගැසෙන-නහර-ගැට-ගැසීම--සුවකරන-රක්තමෝක්ෂන/12-680415) · `si`
+
+◼️
+
+[Data](articles/df1d8cf5.json)
+
+[Extended Data](ext_articles/df1d8cf5.ext.json)
+
+---
+
+### Three trillion is borrowing next year
+
+*2025-09-29 13:38:47* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේදී-ට්‍රිලියන-තුනක්-ණය-ගන්නවා/11-418790) · `si`
+
+President Anura Kumara Dissanayake addressing Sri Lankans living in Japan next year.
+
+"For the first time in Sri Lanka, we earn more income than the earnings expected from the budget. So is enough for the total cost. Next year, we expect to take a loan of three tears.
+
+Currently, 90 percent of state revenue is not wrong. However, a criticism is that tax is too heavy. Why Taxes A little weight. The economy of the becoming is small.  18 percent pay taxes in purchasing goods and services. Not fair.
+
+We do not impose any new tax from this year's budget. We have explained that the law is operating. This will not end in the year "
+
+◼️
+
+[Data](articles/e782512c.json)
+
+[Extended Data](ext_articles/e782512c.ext.json)
+
+---
+
+### Two injured in an explosion in Kilinochchi
+
+*2025-09-29 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215132) · `si`
+
+Two persons were seriously injured in a pittunction of Gupakita, Kilinochchi.
+
+The crash is thriving when two people who have gone to a dilapidated house excavation.
+
+Two persons who were seriously injured in the explosion have been admitted to the Kilinochchi hospital for emergency treatment.
+
+◼️
+
+[Data](articles/433df147.json)
+
+[Extended Data](ext_articles/433df147.ext.json)
+
+---
+
+### Court of judge into court
+
+*2025-09-29 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215133) · `si`
+
+The Court of Appeal has set to the Department of Wildlife on November 10 regarding the intervention of the Asia Center for the intervention of the Appeal Court.
+
+The petition was called before the Court of Appeal of Damith Thotawatte and Sarath Dissanayake today (29).
+
+In the intervention of the Elephant conflict, the previous environmentality center was prepared by the Environmental Justice Center.
+
+Attorney-at-Law Dr. Ravindranath Dabare, appearing on behalf of the Environment Cartoon, said that when the case had not been implemented to implement the series of proposals.
+
+He accused the wildlife department to date the actions taken against implementing the series of proposals.
+
+After considering the proposals, the judges' panel has been asked to implement this proposal to the Department of Wildlife on November 10.
+
+◼️
+
+[Data](articles/769466f2.json)
+
+[Extended Data](ext_articles/769466f2.ext.json)
+
+---
+
+### Talaila stops: Archana arrested
+
+*2025-09-29 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையிலா-நிறுத்துவது-அர்ச்சுனா-கைது/175-365477) · `ta`
+
+Parliamentarian Ramanathan Aruchuna, who visited the Paraikkottai police station this morning, was arrested by the police.
+
+The incident was followed by a video of a police officer of the Pettah police station after participating in the recent Satyagraha in Colombo.
+
+Police have confirmed that the arrest was held as a part of an investigation into the matter.
+
+Member of Parliament Archana has parked his vehicle in the pedestrian crossing. The traffic police said that the vehicle should not be parked here.
+
+It is noteworthy that Archana had heard that the vehicle would be stopped in your head without parking.
+
+◼️
+
+[Data](articles/ef195d8a.json)
+
+[Extended Data](ext_articles/ef195d8a.ext.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රී අර්ච්චුනා අත්අඩංගුවට
+
+*2025-09-29 13:35:06* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අර්ච්චුනා-අත්අඩංගුවට/11-418789) · `si`
+
+MP Ramanathan Arachchuna has been arrested by the Fort Police.
+
+He was arrested in the event that the Fort was taken to the Fort to be given this statement this morning.
+
+◼️
+
+[Data](articles/d7d71650.json)
+
+[Extended Data](ext_articles/d7d71650.ext.json)
+
+---
+
+### The President meets the Japanese Prime Minister today
+
+*2025-09-29 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226399) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, will meet with Shigeru Ishiba at the Japanese Prime Minister's Office today (29).
+
+In the meantime, focus will be on the sectors of the economy, investment, development cooperation and security of the two countries.
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, President's Senior Advisor to Digital Economics, Dr. Hans Vijayasuriya, President's Senior Economic Advisor Duminda Hulangamuwa and many other senior officials of the Ministry of Foreign Affairs are also present.
+
+◼️
+
+[Data](articles/3b84a089.json)
+
+[Extended Data](ext_articles/3b84a089.ext.json)
+
+---
+
+### Former Western PC member Amal Silva granted bail
+
+*2025-09-29 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113022/former-western-pc-member-amal-silva-granted-bail) · `en`
+
+Former Western Provincial Councilor Amal Silva, who was arrested yesterday (28) by the Walana Anti-Vice Squad, has been granted bail, said Ada Derana reporter.
+
+Accordingly, he was released on two surety bail amounting to Rs. 5 million each.
+
+Former Western Provincial Councilor Amal Silva was arrested yesterday along with three luxury vehicles valued at approximately Rs. 60 million, which had been registered using forged documents.
+
+It was reported that the vehicles were illegally imported to Sri Lanka and registered under forged registration numbers at the Department of Motor Traffic using fabricated documents.
+
+Accordingly, the three luxury jeeps—Land Rover and Mitsubishi models—were seized during yesterday’s raid.
+
+Preliminary investigations by police revealed that forged documents were created under registration numbers belonging to vehicles from state institutions, and registered with the Department of Motor Traffic.
+
+◼️
+
+[Data](articles/093b1a43.json)
+
+[Extended Data](ext_articles/093b1a43.ext.json)
+
+---
+
+### Passion student killed in an accident
+
+*2025-09-29 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-සිසුවා-රිය-අනතුරකින්-මරුට/11-418788) · `si`
+
+A 24-year-old student was killed in an accident in the Urapola Junction area in Kadugannawa Police Division, police said.
+
+The student was killed in a motorcycle at Kadugannawa main road yesterday (28), police said.
+
+The deceased has been identified as Thivanka Piyatissa, a resident of that captain, a third year student of the Faculty of Science, Peradeniya.
+
+The body of the body has been placed at the Peradeniya Teaching Hospital for conducting a post mortem, and the carrier has been arrested by Kadugannawa Police.
+
+◼️
+
+[Data](articles/2447f1a5.json)
+
+[Extended Data](ext_articles/2447f1a5.ext.json)
+
+---
+
+### Archhechchi arrested
+
+*2025-09-29 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215131) · `si`
+
+MP Ramanathan Arachchuna has been arrested by the Fort Police.
+
+He was arrested at the time of the Fort to Police today (29).
+
+The MP was found recently during a Sathyagraha in Colombo recently.
+
+The MP has arrested the MP at an investigation into the incident this morning.
+
+◼️
+
+[Data](articles/d9a3a1c6.json)
+
+[Extended Data](ext_articles/d9a3a1c6.ext.json)
+
+---
+
+### Jaffna District MP Ramanathan Archchuna arrested
+
+*2025-09-29 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113021/jaffna-district-mp-ramanathan-archchuna-arrested-) · `en`
+
+Jaffna District Member of Parliament Dr. Ramanathan Archchuna has been taken into custody by the Fort Police.
+
+He was arrested this morning (29) when he arrived at the Fort Police Station to record a statement.
+
+During a recent Satyagraha held in Colombo, the MP was seen allegedly arguing with a police officer on duty from the Fort Police.
+
+He was taken into custody this morning in connection with an investigation on charges of obstructing police duty.
+
+◼️
+
+[Data](articles/c058dd1f.json)
+
+[Extended Data](ext_articles/c058dd1f.ext.json)
+
+---
+
+### The government expects not to introduce new taxes on the next budget - President in Japan
+
+*2025-09-29 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226397) · `ta`
+
+President Anura Kumara Dissanayake said Sri Lanka was able to maintain balance in diplomatic relations last year.
+
+In a world with no national borders in the economy and the market, the president stressed that no country can progress alone and that the best diplomatic relations will raise Sri Lanka to the culmination of the world.
+
+The president pointed out that last year was the year of the year that the country was to create national unity, to create national unity, and that no ethnic conflict in Sri Lankan history was a year old.
+
+President Anura Kumara Dissanayake said this while addressing a meeting with the Sri Lankan community living in Japan on Saturday afternoon (27) at the Reiyukai Hall in Tokyo.
+
+The meeting was organized by the Sri Lankan embassies and NGOs in Japan, attended by Maha Sangam, religious leaders, professionals, university students and many others in Japan.
+
+...
+
+[Data](articles/539a0ee3.json)
+
+[Extended Data](ext_articles/539a0ee3.ext.json)
+
+---
+
+### Construction Site Disaster: 3 Dead in Mawanella
+
+*2025-09-29 13:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/construction-site-disaster-3-dead-in-mawanella) · `en`
+
+COLOMBO (News 1st); The death toll from the tragic landslide in the Aluthnuwara area of Mawanella has risen to three, following the recovery of another body buried under the collapsed earth embankment. Police confirmed that one individual remains hospitalized with injuries sustained during the incident.The landslide occurred near a residential construction site, where three workers were engaged in building activities when a mass of earth suddenly gave way, burying them beneath tons of debris. Rescue operations, led by local police and supported by residents, began immediately and have continued under challenging conditions.
+
+◼️
+
+[Data](articles/f50b6802.json)
+
+[Extended Data](ext_articles/f50b6802.ext.json)
+
+---
+
+### Monthly Scholarship for Children of Migrant Workers
+
+*2025-09-29 13:06:43* · [`adalk`](https://www.ada.lk/breaking_news/විගමණික-ශ්‍රමිකයින්ගේ-දරුවන්ට-මාසිකව-ශිෂ්‍යාධාර/11-418787) · `si`
+
+Acting Foreign External Affairs Minister Arung Hemachandra stated that a scholarship has launched a scholarship program.
+
+He made these comments deployed in the press conference on the program to provide the public to the public.
+
+"As part of political transformation after the new government, the Presidential Fund has commenced a scholarship for the children of migrant workers through the Presidential Fund. The Presidential Fund is to be the right of the people. It's not a privilege.
+
+Now we see it is systematically transformed into the right of the people. But the last season, the Presidential Fund spoke in different places including Parliament. Now that era is over. At the moment of populist regime, we see opportunities for the people have many benefits.
+
+...
+
+[Data](articles/90a0f852.json)
+
+[Extended Data](ext_articles/90a0f852.ext.json)
+
+---
+
+### Inactive Police Units Will Be Bypassed in Drug Raids
+
+*2025-09-29 13:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/inactive-police-units-will-be-bypassed-in-drug-raids) · `en`
+
+...
+
+[Data](articles/91837681.json)
+
+[Extended Data](ext_articles/91837681.ext.json)
+
+---
+
+### Drug use; Colombo district school students are increasingly affected
+
+*2025-09-29 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226387) · `ta`
+
+The National Risk Lights Control Board (NDDCB) has reported that Colombo district school students have been affected by the drug addiction.
+
+The National Risk Lights Control Board (NDDCB) has also stated that schoolchildren from low -income communities have been addicted to drug use.
+
+Accordingly, the districts of Kandy, Gampaha, Kurunegala, Anuradhapura, Galle, Ratnapura and Kalutara have been identified as high risk areas.
+
+The National Risk Lights Control Board has announced that it will introduce a six -member program, including the treatment and maintenance of school students who are addicted to drug use.
+
+◼️
+
+[Data](articles/d9f5a4ac.json)
+
+[Extended Data](ext_articles/d9f5a4ac.ext.json)
+
+---
+
+### Sunded SI Kazippu racket
+
+*2025-09-29 13:00:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වඩ-තහනම-ව-එස-අය-කසපප-ජවරම-යදල/101-680414) · `si`
+
+Bandaragama Police say that a sub-inspector who was suspended was suspended by a motorcycle hiding in a motorcycle.
+
+The suspect has been taken into police custody by 3750 millilitors with the suspect.
+
+The suspect sub-inspector of the Vedagama area in Bandaragama has been illegal and sold to the demand of his motorcycle, police said.
+
+The suspect was arrested as a result of a suspended officer in the Indian misconduct and had been banned due to various misconduct.
+
+◼️
+
+[Data](articles/490cd890.json)
+
+[Extended Data](ext_articles/490cd890.ext.json)
+
+---
+
+### Sunded SI Kazippu racket
+
+*2025-09-29 13:00:21* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වඩ-තහනම-ව-එස-අය-කසපප-ජවරම-යදල/1-680414) · `si`
+
+Bandaragama Police say that a sub-inspector who was suspended was suspended by a motorcycle hiding in a motorcycle.
+
+The suspect has been taken into police custody by 3750 millilitors with the suspect.
+
+The suspect sub-inspector of the Vedagama area in Bandaragama has been illegal and sold to the demand of his motorcycle, police said.
+
+The suspect was arrested as a result of a suspended officer in the Indian misconduct and had been banned due to various misconduct.
+
+◼️
+
+[Data](articles/728cb498.json)
+
+[Extended Data](ext_articles/728cb498.ext.json)
+
+---
+
+### Sri Lanka’s Digital Economy Vision Anchored in People
+
+*2025-09-29 13:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka%e2%80%99s-digital-economy-vision-anchored-in-people) · `en`
+
+...
+
+[Data](articles/8d0e5dd8.json)
+
+[Extended Data](ext_articles/8d0e5dd8.ext.json)
+
+---
+
+### Police constable arrested for attacking student and assaulting student
+
+*2025-09-29 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226396) · `ta`
+
+A police constable has been arrested by Navagamuwa police for allegedly assaulting a student into a school in Navagamuwa area.
+
+The suspect has been educated with a student who was assaulted in a school on the daughter of the suspended police constable.
+
+In this case, the daughter of the suspected police constable, who was suspended, was thrown down while playing with fellow students during the school break.
+
+This has resulted in a tooth in front of the daughter of the suspended police constable.
+
+The angry suspect's work has been suspended by the suspended police constable and attacked the student.
+
+◼️
+
+[Data](articles/4445275b.json)
+
+[Extended Data](ext_articles/4445275b.ext.json)
+
+---
+
+### Action to recruit 25 people for vacancies in the Sri Lanka Police Medical Services Division
+
+*2025-09-29 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226392) · `ta`
+
+இலங்கை பொலிஸ், பொலிஸ் மருத்துவ சேவைப் பிரிவில் உள்ள 25 வெற்றிடங்களை நிரப்ப, பொது மற்றும் தனியார் துறைகளில் உள்ள தகுதிவாய்ந்த மருத்துவ நிபுணர்களிடமிருந்து விண்ணப்பங்களை கோரியுள்ளது.
+
+Eligible and interested applicants must submit their applications by October 27, 2025.
+
+Applicants are asked to contact the number 011-2552953 for further inquiries.
+
+◼️
+
+[Data](articles/2378c103.json)
+
+[Extended Data](ext_articles/2378c103.ext.json)
+
+---
+
+### Pakistan donates his prize money from Indian attack
+
+*2025-09-29 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215130) · `si`
+
+The Pakistani Cricket team has decided to provide the families of the victims on May 07's attack on the Asia Cup.
+
+The Pakistani Cricket has announced that the money is being awarded to civilians including the children who have died in the attack.
+
+The finals of the Asian Cup was the final of the Asian Cup yesterday and the defeated Pakistan defeated the Pakistan won the championship.
+
+Pakistan-team leader Salman Agraya said that the Indian team's behavior was also disrespectful to the Indian team in the tournament.
+
+The Indian team also denied the Chairman of the Asian Cricket Council and the Chairman of Pakistani Cricket as well as the Chairman of Pakistani Cricket.
+
+◼️
+
+[Data](articles/f311a1c9.json)
+
+[Extended Data](ext_articles/f311a1c9.ext.json)
 
 ---

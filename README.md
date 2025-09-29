@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 21:56:04**
+As of **2025-09-29 21:38:32**
 
 ## Newspaper Stats
 
-*Scraped **79,621** Articles*
+*Scraped **79,611** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 465
+lankadeepalk | 462
 newsfirstlk | 489
 dbsjeyarajcom | 635
 bbccomsinhala | 708
@@ -20,58 +20,22 @@ dailyftlk | 5,584
 adalk | 7,667
 adaderanalk | 10,274
 tamilmirrorlk | 11,915
-virakesarilk | 12,992
-adaderanasinhalalk | 13,784
+virakesarilk | 12,986
+adaderanasinhalalk | 13,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,611 (100.0%) of 79,621 articles have been extended.
+79,607 (100.0%) of 79,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### මහනුවර මාර්ගයේ බස් රථ අනතුරින් 12ක්‌ රෝහලට
-
-*2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/101-680438) · `si`
-
-රන්දෙනිගල මහනුවර මාර්ගයේ ගමන් කරමින් තිබූ පෞද්ගලික බස් රථයක් කීර්ති බණ්ඩාරපුර ප්‍රදේශයේදී අනතුරකට පත්වීම හේතුවෙන් එහි ගමන් කරමින් සිටි මඟින් 12 දෙනකු කැන්කැටිය ග්‍රාමීය රෝහලට ඇතුළත් කොට ඇති බව වලපනේ පොලීසිය කියයි.
-
-බස් රථය ඇඟලුම් කම්මලක සේවකයන් ප්‍රවාහනය කරමින් සිටියදී ඇති වූ කාර්මික දෝෂයක් හේතුවෙන් මාර්ගයෙන් ඉවතට පැන ගල්වැටියක වැදීමෙන් මෙම අනතුර සිදුවී ඇති බව පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/3724061c.json)
-
----
-
-### IMF දූත මණ්ඩල ප්‍රධානී අගමැතිනිය හමුවෙයි
-
-*2025-09-29 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215152) · `si`
-
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහා වන මෙහෙයුම් මණ්ඩල ප්‍රධානී,  Evan Papageorgiou මහතා අද(29) අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවිය.
-
-එහිදී රජය විසින් ක්‍රියාත්මක කරනු ලබන ප්‍රතිසංස්කරණ වැඩසටහනේ ප්‍රගතිය ඔහුගේ ඇගයීමට ලක් වූ අතර, විශේෂයෙන්ම පාලනය ශක්තිමත් කිරීමට සහ දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව ඔහු ප්‍රශංසා පළ කළේය.
-
-බදු ප්‍රතිපත්ති ප්‍රතිසංස්කරණවල වැදගත්කම,  බදු නිදහස් කිරීම් (tax exemptions) සම්බන්ධයෙන් ගෙන ඇති පියවර පිළිබඳව ද ඔහු සිය අවධානය යොමු කළේය.
-
-එසේම, 2026 ජාතික අයවැයෙන් සමාජ ආරක්ෂණ පද්ධතිය සඳහා සම්පත් වෙන් කිරීම ද පැපජෝර්ජියු මහතාගේ ඇගයුමට ලක් විය.
-
-2026 අයවැයෙන් ජනතාව සවිබල ගැන්වීමට පියවර ගැනීමේ වැදගත්කම මෙහිදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අවධාරණය කළාය.
-
-ආර්ථික ප්‍රගතිය ජනතාවගේ අවශ්‍යතාවලට අනුකූල විය යුතු බවත්,  ගුණාත්මක ආයෝජන ආකර්ෂණය කර ගැනීම රජයේ ප්‍රමුඛතාවක් බවත් අග්‍රාමාත්‍යවරිය අවධාරණය කළාය.
-
-...
-
-[Data](articles/eaf23632.json)
-
----
-
 ### හරිනි - රොබෝ එක්ක කතා කරයි
 
-*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරන-රබ-එකක-කත-කරය/101-680437) · `si`
+*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරන-රබ-එකක-කත-කරය/1-680437) · `si`
 
 ශ්‍රී ලංකාව ඩිජිටල් යුගයක්  කරා ගෙන යාමේ අරමුණ සාක්ෂාත් කර ගැනීම සඳහා අත්‍යවශ්‍ය මූලික පියවර වන්නේ නවීන තාක්ෂණයට අනුකූල වන මානව සම්පතක් නිර්මාණය කිරීම බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය  පැවසුවාය.
 
@@ -83,53 +47,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/7290ee17.json)
-
----
-
-### Harini - talks with robot
-
-*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරන-රබ-එකක-කත-කරය/1-680437) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the essential steps to achieve Sri Lanka to achieve Sri Lanka towards a digital era.
-
-The Prime Minister said that more than the new education reforms has been allocated.
-
-The Prime Minister was speaking at the Monarchy Imperial Hotel, Kottaramaya, Battaramaya, the 'National Ai Expo 2025' seminar and the exhibition in Sri Lanka.
-
-The seminar will be held together in collaboration with the Digital Economic Ministry and the Exhibition on September 29 and 30th September 29 and 30.
-
-The National Exhibition is a leading destiny for artificial intelligence, creating artificial intelligence, researnings of artificance, businessmen and companies to introduce the use of artificial, businessmen and companies.
-
-◼️
-
 [Data](articles/e7269f32.json)
-
-[Extended Data](ext_articles/e7269f32.ext.json)
-
----
-
-### '' Mani's column. Not out-36! '' Leave the work
-
-*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/1-680436) · `si`
-
-Senior journalist lovely humility mal's "Mani's column. Noot Out 36! "The work was held today (UK) at the BMICH on the Bandaranaike Conference Hall.
-
-The former Chairman of the Customs Officers' Association of Customs Officers of the Massi's column, a reader of Mawi's column, was presented to the former Chairman of the Association of Customs Officers.
-
-A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Atthanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Thilanga Sumathipala and Tissa Attanayake were present at the occasion.
-
-◼️
-
-[Data](articles/2a6fa0e8.json)
-
-[Extended Data](ext_articles/2a6fa0e8.ext.json)
 
 ---
 
 ### ’’මානිගේ තීරුව. NOT OUT 36!’’ කෘතිය එළිදකියි
 
-*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/101-680436) · `si`
+*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/1-680436) · `si`
 
 ජ්‍යෙෂ්ඨ මාධ්‍යවේදී සුන්දර නිහතමානීද මැල් මහතාගේ "මානිගේ තීරුව. NOT OUT 36!" කෘතිය දොරටවැඩුම බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේ කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනයේ පොත් එළිදක්වන ස්ථානයේදී අද (29) සිදුකෙරිණි.
 
@@ -139,7 +63,7 @@ A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa 
 
 ◼️
 
-[Data](articles/b79d48ea.json)
+[Data](articles/2a6fa0e8.json)
 
 ---
 
@@ -158,54 +82,6 @@ The bus was hit by a route route and 12 people in the bus was injured and rushed
 [Data](articles/0ea1d5e9.json)
 
 [Extended Data](ext_articles/0ea1d5e9.ext.json)
-
----
-
-### ஜனாதிபதிக்கும் ஜப்பான் பாதுகாப்பு அமைச்சருக்கும் இடையில் கலந்துரையாடல்
-
-*2025-09-29 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226441) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, திங்கட்கிழமை (29) டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் ஜப்பான் பாதுகாப்பு அமைச்சர் டி.எம். நகதானியைச் (DM Nakatani) சந்தித்து கலந்துரையாடலில் ஈடுபட்டார்.
-
-இரு நாடுகளுக்கும் இடையிலான நீண்டகால நட்புறவு, பிராந்திய பாதுகாப்பு மற்றும் பாதுகாப்பு விடயங்களில் இலங்கைக்கும் ஜப்பானுக்கும் இடையிலான தற்போதைய ஒத்துழைப்பை மேலும் வலுப்படுத்துவது குறித்து  இதன் போது வெகுவாக ஆராயப்பட்டது.
-
-வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் மற்றும் இலங்கை தூதுக்குழுவினர் இந்த சந்திப்பில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/6512e908.json)
-
----
-
-### ஜனாதிபதிக்கும் ஜப்பான் நிதி அமைச்சருக்கும் இடையே இருதரப்பு பேச்சுவார்த்தை
-
-*2025-09-29 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226440) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் ஜப்பான் நிதி அமைச்சர் கதோ கசுனொபுவிற்கும்  (KATO Katsunobu) இடையில் திங்கட்கிழமை (29) பிற்பகல் டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் இருதரப்பு பேச்சுவார்த்தை  நடைபெற்றது.
-
-இரு நாடுகளுக்கும் இடையிலான வர்த்தகம், முதலீடு மற்றும் பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது குறித்தும்  ஜப்பான்  உதவி/JICA  ஒத்துழைப்பின் கீழ் தற்போது செயல்படுத்தப்படும் மற்றும்  செயல்படுத்த எதிர்பார்க்கப்படும்  புதிய திட்டங்கள் குறித்து கவனம் செலுத்தப்பட்டது.
-
-வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், டிஜிட்டல் பொருளாதாரம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் கலாநிதி ஹான்ஸ் விஜயசூரிய, ஜனாதிபதியின் சிரேஷ்ட பொருளாதார ஆலோசகர் துமிந்த ஹுலங்கமுவ, ஜப்பானுக்கான இலங்கைத் தூதுவர், பேராசிரியர் பிவிதுரு ஜனக் குமாரசிங்க மற்றும் வெளிநாட்டலுவல்கள் அமைச்சின் சிரேஷ்ட அதிகாரிகள் பலரும் இந்த நிகழ்வில் கலந்துகொண்டனர்.
-
-◼️
-
-[Data](articles/2a4b2f6a.json)
-
----
-
-### அபிவிருத்தி மற்றும் ஸ்தீரத்தன்மையை ஏற்படுத்த  ஜப்பானுடன் இணைந்து அர்ப்பணிப்பேன் - ஜனாதிபதி
-
-*2025-09-29 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226439) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவை வரவேற்கும் உத்தியோகபூர்வ நிகழ்வு ஜப்பான் பிரதமர் அலுவலகத்தில் திங்கட்கிழமை (29) காலை நடைபெற்றது.
-
-ஜப்பான் பிரதமர் அலுவலகத்திற்கு  வருகை  தந்த ஜனாதிபதிக்கு  ஜப்பான் பிரதமர் ஷிகெரு இஷிபாவினால்(Shigeru ISHIBA)   மகத்தான வரவேற்பு அளிககப்பட்டது. அதனைத் தொடர்ந்து, ஜனாதிபதி அநுரகுமார திசாநாயக்க ஜப்பானிய சுய பாதுகாப்புப் படையின் மரியாதையை  ஏற்றுக்கொண்டதுடன், அந்த அணிவகுப்பை பார்வையிடவும் இணைந்தார்.
-
-இருநாட்டு பிரதிநிதிகள் அறிமுகம் செய்யப்பட்டதைத் தொடர்ந்து ஜனாதிபதி அநுர குமார திசாநாயக்கவிற்கும் ஜப்பான் பிரதமர் ஷிகெரு இஷிபாவுக்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பு ஆரம்பமானது.
-
-...
-
-[Data](articles/ed6e125a.json)
 
 ---
 
@@ -269,21 +145,19 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 
 ---
 
-### President - Japanese Finance Minister
+### ජනපති - ජපාන මුදල් ඇමති සාකච්ඡා
 
 *2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/1-680435) · `si`
 
-President Anura Kumara Dissanayake and Japanese Finance Minister Kazyou Kazinobu (Kato Katsunobu) on an invitation of the Government of Japan was held at the Imperial Hotel in Tokyo.
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
 
-The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
+මෙහිදී දෙරට අතර වෙළෙඳ, ආයෝජන සහ ආර්ථික සහයෝගිතාව ඉහළ නංවා ගැනීම පිළිබඳ මෙන්ම, ජපන් ආධාර /JICA සහයෝගීතාව යටතේ දැනට ක්‍රියාත්මක සහ ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව ව්‍යාපෘති පිළිබඳ විශේෂ අවධානය යොමු කෙරිණි.
 
-Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
+මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ  ජනාධිපති ප්‍රධාන උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ආර්ථික කටයුතු පිළිබඳ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක දුමින්ද හුලංගමුව, ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් සහභාගී වූහ.
 
 ◼️
 
 [Data](articles/a4fd73ab.json)
-
-[Extended Data](ext_articles/a4fd73ab.ext.json)
 
 ---
 
@@ -405,27 +279,25 @@ The LTTE also decided to summon the COPE meeting on 24th of this month.
 
 ---
 
-### Red light to electricity from COPE committee
+### කෝප් කමිටුවෙන් විදුලියට රතු එළියක්
 
 *2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කමටවන-වදලයට-රත-එළයක/1-680434) · `si`
 
-The Parliament Select Committee of the Commonwealth Parliament (Coop Committee) has shown that the company's restructuring can cause serious problems in the future.
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ කොටස් බෙදී ඇති ආකාරය අපැහැදිලි බැවින්  ආයතනය ප්‍රතිව්‍යුහගතකරණය කිරීමේදී ඉදිරියේදී බරපතළ  ගැටලු ඇතිවිය හැකි බව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව ( කොප් කමිටුව)  එහි  නිලධාරීන්ට පෙන්වාදී ඇත.
 
-Chairman of the COPE committee, Dr. Nishantha Samaraweera, Chairman of the COPE
+එල්ටීඑල් සමාගමේ කොටස් බෙදී ඇති ආකාරය ඇපැහැදිලි බවත්  ආයතනයන් ප්‍රතිව්‍යුහගත කිරීමේදී මේ තත්වය ගැටළුවක් විය හැකි බවත් කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා පැවැසුවේය
 
-He also said that the LTTE's shares have problems with the controversial and the operational of ECot Company.
+එල්ටීඑල් සමාගමේ කොටස් වෙස්ට් කොස්ට් ආයතනය සහ  ඊසොට්  සමාගම යන ආයතන වලට බෙදී  ඇති  අාකාරය සහ ඒවායේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ගැටලු පවතින බවද ඔහු සඳහන් කළේය.
 
-The committee members of the committee also pointed out that the division of partition as well as its functionality is very obscure.
+මෙහිදී කාරක සභාවේ මන්ත්‍රීවරුන්ද පෙන්වා දුන්නේ කොටස් බෙදීම මෙන්ම එහි  ක්‍රියාකාරීත්වය ඉතාම අපැහැදිලි බවයි.
 
-As a result, the Lecturer and officials should act quickly to explain this situation.
+මේ නිසා මේ තත්වය පැහැදිලි කර ගැනීමට නීති  අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් ඉක්මනින්ම කටයුතු කළ යුතු බව  කාරක සභාව නිර්දේශ කළේය.
 
-The LTTE also decided to summon the COPE meeting on 24th of this month.
+මේ අනුව එල්.ටී.එල් සමාගම ලබන මස 24 වැනිදා කෝප් කමිටුව හමුවට කැඳවීමටද තීරණය කෙරිණි.
 
 ◼️
 
 [Data](articles/591e413f.json)
-
-[Extended Data](ext_articles/591e413f.ext.json)
 
 ---
 
@@ -488,22 +360,6 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/0809c314.json)
 
 [Extended Data](ext_articles/0809c314.ext.json)
-
----
-
-### சிங்கள மக்கள் தமது தலைவரைக் காட்டிக் கொடுத்துள்ளனர் எனது கடவுள் பிரபாகரன் - இராமநாதன் அர்ச்சுனா
-
-*2025-09-29 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226438) · `ta`
-
-மஹிந்த ராஜபக்ஷ போன்றவர்கள் மீது நடவடிக்கை எடுக்க முடியாததால் எம்மைப் போன்றவர்களை இலக்கு வைக்கின்றனர். எனது கடவுள் பிரபாகரன் என்பதை அச்சமின்றி கூறுகின்றேன். ஆனால் சிங்கள மக்கள் தமக்காக சேவையாற்றிய மஹிந்த ராஜபக்ஷவை காட்டிக் கொடுத்துள்ளனர் என பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா தெரிவித்தார்.
-
-திங்கட்கிழமை (29) நீதிமன்ற வளாகத்தில் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-பிரபாகரன் எனது கடவுள் என்பதே எனது நிலைப்பாடாகும். எனக்காக உயிர் நீத்தவர்களுக்காக நான் முன்னிற்கின்றேன். ஆனால் இந்நாட்டு மக்கள் தமக்காக உயிர் நீத்த இராணுவ வீரர்களுக்காக முன்னின்ற தமது தலைவரை காட்டிக் கொடுத்துள்ளனர். மஹிந்த ராஜபக்ஷ தமிழ் மக்களின் தலைவர் அல்ல., ஆனால் அவர் சிங்கள மக்களின் தலைவராவார்.
-
-...
-
-[Data](articles/b4598bed.json)
 
 ---
 
@@ -870,24 +726,6 @@ At this meeting with the Indian Minister of Power and Energy, the emphasis was g
 [Data](articles/d38804e8.json)
 
 [Extended Data](ext_articles/d38804e8.ext.json)
-
----
-
-### புலம்பெயர் தொழிலாளர்களின் பிள்ளைகளுக்காக ஜனாதிபதி நிதியத்தின் மூலம் மாதாந்த கல்வி உதவி – அமைச்சர் அருண் ஹேமச்சந்திர
-
-*2025-09-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226429) · `ta`
-
-ஜனாதிபதி நிதியத்தின் மூலம் புலம்பெயர் தொழிலாளர்களின் பிள்ளைகளின் கல்விக்காக  மாதாந்தம் நிதி உதவி  வழங்கும் வேலைத்திட்டத்தை ஆரம்பித்திருக்கிறோம் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு பதில் அமைச்சர் அருண் ஹேமச்சந்திர தெரிவித்தார்.
-
-புலம்பெயர் தொழிலாளர்களின் பிள்ளைகளின் கல்விக்கு ஜனாதிபதி நிதியத்தால் வழங்கும் மாணவர் உதவித் தொகை தொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-புதிய அரசாங்கம் ஆட்சிக்கு வந்த பின்னர் இடம்பெற்ற அரசியல் மாற்றங்களின் ஒரு பகுதியாகவே ஜனாதிபதி நிதியம் ஊடாக  புலம்பெயர்ந்த தொழிலாளர்களின் பிள்ளைகளுக்கு மாணவர் உதவித்தொகை வழங்கும் வேலைத்திட்டம் ஒன்றை ஆரம்பித்திருக்கிறோம். ஜனாதிபதி நிதியம் என்பது மக்களுக்கு உரித்தாகவேண்டிய ஒன்றாகும். அது வரப்பிரசாதம் அல்ல.
-
-தற்போது அது முறையாக மக்களின் உரிமையாக மாற்றப்பட்டு வருவதை நாங்கள் காணிகிறோம். என்றாலும் கடந்த காலங்களில் இந்த ஜனாதிபதி நிதியம் துஷ்பிரயோகம் செய்தமை தொடர்பில் பாராளுமன்றம் உள்ளிட்ட பல்வேறு இடங்களில் பேசப்பட்டது.
-
-...
-
-[Data](articles/6fb72d8a.json)
 
 ---
 
@@ -1336,22 +1174,6 @@ I wish to remind you that you are not joining a traditional public service. You 
 [Data](articles/3d34d1cc.json)
 
 [Extended Data](ext_articles/3d34d1cc.ext.json)
-
----
-
-### தனியார் வங்கியொன்று இலங்கையில் அதன் அனைத்து செயற்பாடுகளை நிறுத்திக் கொள்ள தீர்மானித்துள்ளமை சாதாரண விடயமல்ல – ஐக்கிய மக்கள் சக்தி
-
-*2025-09-29 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226417) · `ta`
-
-உலகில் நீண்ட வரலாற்றைக் கொண்ட தனியார் வங்கியொன்று இலங்கையில் அதன் அனைத்து செயற்பாடுகளை நிறுத்திக் கொள்ள தீர்மானித்துள்ளமை சாதாரண விடயமல்ல. இது இலங்கையில் வங்கி கட்டமைப்பு மற்றும் பொருளாதாரம் தொடர்பில் எதிர்மறையான ஒரு போக்கினையே காண்பிக்கிறது. எனவே அரசாங்கம் இவ்விடயத்தில் தலையிட்டு இதனை தடுப்பதற்கான நடவடிக்கை எடுக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
-
-கொழும்பில்  ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-நாட்டின் பொருளாதாரம் தொடர்பில் மறைக்கப்பட்ட நெருக்கடியொன்று உருவாகியுள்ளது. பொருளாதார நிபுணர்கள், நாட்டிலுள்ள முதலீட்டாளர்கள், வெளிநாட்டு நிறுவனங்களில் இன்னும் சில ஆண்டுகளில் இலங்கை செலுத்த வேண்டிய வெளிநாட்டு கடன்களை மீள செலுத்தாவிட்டால் ஏற்படக் கூடிய பாதிப்புக்கள் தொடர்பில் முன்னெச்சரிக்கை விடுத்துள்ளன. எமக்கு கற்பனை உலகில் வாழ முடியாது.
-
-...
-
-[Data](articles/7705d931.json)
 
 ---
 
@@ -1988,5 +1810,197 @@ The petitioner requested the Court of Appeal to issue a parliamentary post as a 
 [Data](articles/3c2e3ab1.json)
 
 [Extended Data](ext_articles/3c2e3ab1.ext.json)
+
+---
+
+### Political Public Service End
+
+*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දශපලන-ගත-රජය-සවය-අවසන/1-680419) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the government's objective is to establish an independent and efficient public service providing proper service to the people.
+
+The Prime Minister also demanded the collection of the role of the development of the country through an efficient public service dedicated to the people.
+
+The Prime Minister was addressing the ceremony held at Temple Trees today (29) at Temple Trees today (29).
+
+Prime Minister Dr. Harari Amarasuriya said:
+
+"You would like to remind you that it is not for a traditional public service. You are not a ineffective and political service so far.
+
+The minister said to the people and an independent public service.
+
+◼️
+
+[Data](articles/16ced147.json)
+
+[Extended Data](ext_articles/16ced147.ext.json)
+
+---
+
+### Political Public Service End
+
+*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දශපලන-ගත-රජය-සවය-අවසන/101-680419) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the government's objective is to establish an independent and efficient public service providing proper service to the people.
+
+The Prime Minister also demanded the collection of the role of the development of the country through an efficient public service dedicated to the people.
+
+The Prime Minister was addressing the ceremony held at Temple Trees today (29) at Temple Trees today (29).
+
+Prime Minister Dr. Harari Amarasuriya said:
+
+"You would like to remind you that it is not for a traditional public service. You are not a ineffective and political service so far.
+
+The minister said to the people and an independent public service.
+
+◼️
+
+[Data](articles/af38b336.json)
+
+[Extended Data](ext_articles/af38b336.ext.json)
+
+---
+
+### Bail for Amal Silva!
+
+*2025-09-29 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226413) · `ta`
+
+The Panadura Magistrate's Court today (29) ordered the release of former Western Provincial Council member Amal Silva on bail.
+
+Accordingly, the magistrate has ordered Amal Silva to be released on two bodies worth Rs 50 lakhs.
+
+Amal Silva Valana has been arrested on Sunday (28) on charges of illegally importing three jeep vehicles worth Rs 6 crore and producing fake documents.
+
+The arrested former Western Provincial Council member Amal Silva was released on bail after being produced at the Panadura Magistrate's Court today.
+
+◼️
+
+[Data](articles/3919b984.json)
+
+[Extended Data](ext_articles/3919b984.ext.json)
+
+---
+
+### 25 doctors recruit for the police medical service unit
+
+*2025-09-29 15:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-வைத்திய-சேவைப்-பிரிவிற்கு-25-வைத்தியர்கள்-ஆட்சேர்ப்பு/175-365482) · `ta`
+
+◼️
+
+[Data](articles/bb8cc32a.json)
+
+[Extended Data](ext_articles/bb8cc32a.ext.json)
+
+---
+
+### Politics won the Asian Cup final…! ; Both countries to take charge of
+
+*2025-09-29 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226410) · `ta`
+
+The Indian team won the Asian Bowl in Dubai on Sunday in Dubai and won the Asian Cup for the ninth time. However, the fact that the two captains behaved during the prize giving have caused furious and anger among the cricket match enthusiasts.
+
+When Pakistan won the second place, he bought it and threw it at the stadium when he was given the cash card.. At the same time, the Indian team celebrated their victory without the victory.
+
+There are many events that have never been featured in a series of cricket or competition, only among the Indian Pakistan teams in the Asian Cup series.. In the first match where the two teams clashed at the beginning, the two captain did not shake hands. Though the Indian team won the match, the team players left the stadium without joining hands with Pakistan.
+
+...
+
+[Data](articles/abde6fe8.json)
+
+[Extended Data](ext_articles/abde6fe8.ext.json)
+
+---
+
+### Miss Grand International - 2025 Sri Lankan woman participating in beauty
+
+*2025-09-29 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226408) · `ta`
+
+A woman named Dishani Perera will participate in Sri Lanka representing Sri Lanka in the 12th Miss Grand International - 2025 beauty pageant in Thailand.
+
+A woman named Tishani Perera left Thailand from Katunayake airport at 1:30 am today (29) to participate in the beauty pageant.
+
+The beauty of the beauty will be held in Bangkok, Thailand from September 30 to October 18.
+
+◼️
+
+[Data](articles/90237897.json)
+
+[Extended Data](ext_articles/90237897.ext.json)
+
+---
+
+### Former Minister Champika's petition dates back
+
+*2025-09-29 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215137) · `si`
+
+Former Minister Minister Patali Champika Ranawaka, who has been filed by the Attorney General to the Colombo High Court, has been appointed as the Attorney General to issue a serious operation in Rajagiriya area in 2016.
+
+The petition was called before the Court of Appeal today (29).
+
+The judge who appeared on behalf of Mr. Champiri Ranawaka, Patali Champika Ranawaka, was sentenced to summons on November 24 to the examination.
+
+Former Minister Patali Champika Ranawaka has been charged with Gotabhaya Rajapaksa's residents against former Minister Patali Vimanawa Ranawaka on the 28th of February 2016.
+
+The petitioner stated that the basic objections have been sentenced to the preliminary objections to reject the preliminary objections to the law and reject them.
+
+The petition has come to the Court of Appeal to issue the decision to issue a decree to the law and issued a decision to issue the decision as the decision was taken into law and issued a decision.
+
+◼️
+
+[Data](articles/47453c26.json)
+
+[Extended Data](ext_articles/47453c26.ext.json)
+
+---
+
+### Action order for Archana
+
+*2025-09-29 14:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-அதிரடி-உத்தரவு/175-365481) · `ta`
+
+Parliamentarian Ramanathan Aruchuna, who was on his way to the Paraikkottai police station this morning to present a affidavit, was arrested after his affidavit.
+
+When the Magistrate was produced before the court, the magistrate ordered him to be released on bail.
+
+◼️
+
+[Data](articles/b5cbda01.json)
+
+[Extended Data](ext_articles/b5cbda01.ext.json)
+
+---
+
+### Two persons seriously injured in an explosion in Kilinochchi
+
+*2025-09-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113027/two-persons-seriously-injured-in-an-explosion-in-kilinochchi) · `en`
+
+Two individuals sustained serious injuries following an explosion in Thattuvankotti, Kilinochchi this morning (29).
+
+The incident occurred when the two individuals, engaged in excavation work at an abandoned house, accidentally triggered a buried bomb that detonated while they were working.
+
+The two injured individuals have been admitted to the Kilinochchi Hospital for emergency treatment.
+
+◼️
+
+[Data](articles/467a5be2.json)
+
+[Extended Data](ext_articles/467a5be2.ext.json)
+
+---
+
+### Parliamentarian Ramanathan Archana bail
+
+*2025-09-29 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226406) · `ta`
+
+The arrested Jaffna district parliamentarian Ramanathan Archana has been granted bail.
+
+He has been released on two bodies worth Rs 10 lakh each by the Colombo Fort Magistrate's Court.
+
+Ramanathan Archana was arrested when he visited the Fort Police Station on Monday (29) morning.
+
+◼️
+
+[Data](articles/aceb2981.json)
+
+[Extended Data](ext_articles/aceb2981.ext.json)
 
 ---

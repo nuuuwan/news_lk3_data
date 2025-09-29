@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 14:24:47**
+As of **2025-09-29 14:40:02**
 
 ## Newspaper Stats
 
-*Scraped **79,470** Articles*
+*Scraped **79,472** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 431
-newsfirstlk | 478
+lankadeepalk | 432
+newsfirstlk | 479
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -27,27 +27,63 @@ adaderanasinhalalk | 13,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,467 (100.0%) of 79,470 articles have been extended.
+79,470 (100.0%) of 79,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### சீனாவின் முன்னாள் அமைச்சருக்கு மரண தண்டனை
+### Archchuna Arrested Over Alleged Abuse of Police
+
+*2025-09-29 14:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/archchuna-arrested-over-alleged-abuse-of-police) · `en`
+
+COLOMBO (News 1st): Jaffna District Member of Parliament Dr. Ramanathan Archchuna was arrested this morning by Fort Police, following allegations of obstructing police duties in Colombo.
+
+According to police sources, the MP was summoned to the Fort Police station to provide a statement regarding an incident that occurred during a satyagraha demonstration, where he allegedly confronted and verbally reprimanded a police officer on duty.
+
+The arrest was made when the MP arrived at the station with regard to the ongoing investigation
+
+◼️
+
+[Data](articles/143b503d.json)
+
+---
+
+### පිපිරීමකින් දෙන්නෙක් රෝහලේ
+
+*2025-09-29 14:02:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පපරමකන-දනනක-රහල/101-680416) · `si`
+
+කිලිනොච්චියේ සිදු වූ පිපිරීමකින් පුද්ගලයින් දෙදෙනකු බරපතල තුවාල ලබා රෝහල් ගත කොට ඇති බවය පොලීසිය කියයි.
+
+කිලිනොච්චි තට්ටුවාන් කෝට්ටේ ප්‍රදේශයේදී අද (29) දා මෙම පිපිරිම සිදුව තිබේ.
+
+අතහැර දමා තිබු නිවසක කැනීම් කටයුත්තක් සිදු කරමින් සිටියදී වල දමා තිබු බෝම්බයක් පුපුරා ගොස් අදාළ පුද්ගලයින් දෙදෙනා තුවාල ලබන්නට ඇති බවට සැක කෙරේ.
+
+ඒ අනුව බරපතල තුවාල ලැබූ පුද්ගලයින් කිලිනොච්චිය දිස්ත්‍රික් රෝහලට  ඇතුලත් කර ඇති අතර කිලිනොච්චිය පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/b9733e61.json)
+
+---
+
+### Death sentence to former minister of China
 
 *2025-09-29 13:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-முன்னாள்-அமைச்சருக்கு-மரண-தண்டனை/50-365479) · `ta`
 
-சீனாவின் விவசாய மற்றும் கிராமிய  விவகாரத் துறையின் முன்னாள் அமைச்சர் டொங் ரெஞ்சியனுக்கு மரண தண்டனை விதித்து அந்நாட்டு நீதிமன்றம் ஞாயிற்றுக்கிழமை (28) உத்தரவிட்டுள்ளது.
+The court on Sunday (28) ordered the death penalty to death of former Minister of Agriculture and Rural Affairs of China.
 
-முன்னாள் அமைச்சர் டொங் ரெஞ்சியன் 2007 முதல் 2024-ஆம் ஆண்டு வரை மத்திய மற்றும் உள்ளூர் அளவில் அவர் வகித்த பல்வேறு பதவிகளை தவறாகப் பயன்படுத்தியதாகக் கூறப்படுகிறது.
+Former minister Dong Renjian is said to have misused various positions he held at the central and local level from 2007 to 2024.
 
-வணிக நடவடிக்கைகள், திட்ட ஒப்பந்தம் மற்றும் வேலை வழங்குதல் போன்ற விடயங்களில் சட்டவிரோதமாக மொத்தம் 268 மில்லியன் டொலர் ரொக்கமாகவும் மதிப்புமிக்க பொருட்களாகவும் அவர் பெற்றுள்ளார்.
+He has illegally acquired a total of $ 268 million in cash and valuable goods on business activities, project contract and employment.
 
-இந்த வழக்கை விசாரித்த வடகிழக்கு சீனாவின் ஜிலின் மாகாணத்தில் உள்ள சாங்சுனின் இடைநிலை நீதிமன்றம், அவருக்கு மரணதண்டனை விதித்து நேற்று தீா்ப்பளித்தது. மேலும், அவரது அரசியல் உரிமைகள் அனைத்தும் பறிக்கப்படுவதாக நீதிமன்றம் தெரிவித்தது.
+The Sanghun's Intermediate Court in the Northeastern China province, which heard the case, sentenced him to death yesterday.. Moreover, the court said that all his political rights were being taken away.
 
 ◼️
 
 [Data](articles/37e71c7e.json)
+
+[Extended Data](ext_articles/37e71c7e.ext.json)
 
 ---
 
@@ -75,17 +111,19 @@ Preliminary investigations have been revealed that the vehicles made under the r
 
 ---
 
-### கிளிநொச்சியில் குண்டு வெடிப்பு : இருவர் படுகாயம்
+### Bomb blast in Kilinochchi: two injured
 
 *2025-09-29 13:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-குண்டு-வெடிப்பு-இருவர்-படுகாயம்/175-365478) · `ta`
 
 கிளிநொச்சி தட்டுவான் கொட்டியில் இன்று காலை 11:30 மணியளவில் குண்டு வெடிப்பு சம்பவம் ஒன்று இடம்பெற்றுள்ளது .
 
-பாழடைந்த வீடொன்றில் அகழ்வு பணிக்காக சென்ற இரு நபர்கள் தமது பணியினை தொடர்ந்த போது நிலத்திற்கு கீழ் இருந்த குண்டு வெடித்துள்ளது இதன் போது பலத்த காயமடைந்த இருவரும் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
+Two persons who went to excavation work in a dilapidated house continued their work.
 
 ◼️
 
 [Data](articles/63130853.json)
+
+[Extended Data](ext_articles/63130853.ext.json)
 
 ---
 
@@ -143,23 +181,25 @@ After considering the proposals, the judges' panel has been asked to implement t
 
 ---
 
-### தலையிலா நிறுத்துவது: அர்ச்சுனா கைது
+### Talaila stops: Archana arrested
 
 *2025-09-29 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையிலா-நிறுத்துவது-அர்ச்சுனா-கைது/175-365477) · `ta`
 
-புறக்கோட்டை பொலிஸ் நிலையத்துக்கு வாக்குமூலமொன்றை வழங்குவதற்காக இன்று காலை சென்ற பாராளுமன்ற உறுப்பினர் இராமநாதன் அருச்சுனா புறக்கோட்டை பொலிஸாரால் கைது செய்யப்பட்டார்.
+Parliamentarian Ramanathan Aruchuna, who visited the Paraikkottai police station this morning, was arrested by the police.
 
-கொழும்பில் அண்மையில் நடைபெற்ற சத்தியாக்கிரகத்தில் பங்குபற்றியமையையடுத்து புறக்கோட்டை பொலிஸ் நிலைய பொலிஸ் அதிகாரியொருவரை அவதூறுக்குள்ளாக்கியதாக காணொளிகள் வெளியாகிய சம்பவத்தையடுத்தே இக்கைது இடம்பெற்றுள்ளது.
+The incident was followed by a video of a police officer of the Pettah police station after participating in the recent Satyagraha in Colombo.
 
-குறித்த விடயம் தொடர்பாக இடம்பெற்றுக் கொண்டிருக்கும் விசாரணையொன்றின் அங்கமொன்றாகவே கைது இடம்ம்பெற்றதாக பொலிஸார் உறுதிப்படுத்தியுள்ளனர்.
+Police have confirmed that the arrest was held as a part of an investigation into the matter.
 
-பாராளுமன்ற உறுப்பினர் அர்ச்சுனா, தான் வந்த வாகனத்தை, பாதசாரிகள் கடவையில் நிறுத்தியுள்ளார். அப்போது அங்கிருந்த போக்குவரத்து பொலிஸார், வாகனத்தை இவ்விடத்தில் நிறுத்தக்கூடாது என கூறியுள்ளார்.
+Member of Parliament Archana has parked his vehicle in the pedestrian crossing. The traffic police said that the vehicle should not be parked here.
 
-அப்போது, வாகனத்தை இங்கு நிறுத்தாமல் உங்கள் தலையிலா நிறுத்துவது என அர்ச்சுனா கேட்டிருந்தார் என்பது குறிப்பிடத்தக்கது.
+It is noteworthy that Archana had heard that the vehicle would be stopped in your head without parking.
 
 ◼️
 
 [Data](articles/ef195d8a.json)
+
+[Extended Data](ext_articles/ef195d8a.ext.json)
 
 ---
 
@@ -1900,33 +1940,5 @@ The Chairman of the Authority said that he had legalized over 1,000 raids and sa
 [Data](articles/d3ccc3df.json)
 
 [Extended Data](ext_articles/d3ccc3df.ext.json)
-
----
-
-### New System to Grant Yearly Promotions for Police Officers
-
-*2025-09-29 08:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/new-system-to-grant-yearly-promotions-for-police-officers) · `en`
-
-COLOMBO (News 1st) - Minister of Public Security Ananda Wijepala says that a system will be introduced to promote police officers every year.He said promotions will be granted based on seniority, performance, and examinations, and will depend on existing vacancies.Minister Ananda Wijepala noted that there are about 30,000 vacancies in the Police and the Special Task Force, and approval has been granted for recruitment.Interviews are currently underway, and the first batch of recruits is scheduled to enter police academies by December.
-
-◼️
-
-[Data](articles/7cfcd989.json)
-
-[Extended Data](ext_articles/7cfcd989.ext.json)
-
----
-
-### President Dissanayake’s Third Day in Japan: Key Meetings and Engagements Ahead
-
-*2025-09-29 08:36:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/president-dissanayake%e2%80%99s-third-day-in-japan-key-meetings-and-engagements-ahead) · `en`
-
-COLOMBO (News 1st) - President Anura Kumara Dissanayake is on the third day of his official visit to Japan today.Yesterday, the President met with members of the Sri Lankan community in Tokyo.During the course of the visit, President Dissanayake is scheduled to meet Emperor Naruhito of Japan.He is also expected to hold bilateral discussions with Japanese Prime Minister Shigeru Ishiba and several senior ministers.In addition, the President will participate in the Sri Lanka Investment Forum in Tokyo, organized jointly by the Sri Lanka and Japan Chambers of Commerce.
-
-◼️
-
-[Data](articles/e303d021.json)
-
-[Extended Data](ext_articles/e303d021.ext.json)
 
 ---

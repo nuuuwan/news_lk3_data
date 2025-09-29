@@ -1,53 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 19:21:51**
+As of **2025-09-29 19:03:07**
 
 ## Newspaper Stats
 
-*Scraped **79,592** Articles*
+*Scraped **79,587** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 454
-newsfirstlk | 489
+newsfirstlk | 488
 dbsjeyarajcom | 635
-bbccomsinhala | 708
+bbccomsinhala | 707
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,665
+adalk | 7,664
 adaderanalk | 10,270
 tamilmirrorlk | 11,914
 virakesarilk | 12,986
-adaderanasinhalalk | 13,779
+adaderanasinhalalk | 13,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,589 (100.0%) of 79,592 articles have been extended.
+79,587 (100.0%) of 79,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### ජනපති සහ ජපාන මුදල් අමාත්‍යවරයා අතර ද්වීපාර්ශ්වික සාකච්ඡා
-
-*2025-09-29 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215147) · `si`
-
-ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
-
-මෙහිදී දෙරට අතර වෙළෙඳ, ආයෝජන සහ ආර්ථික සහයෝගිතාව ඉහළ නංවා ගැනීම පිළිබඳ මෙන්ම, ජපන් ආධාර /JICA සහයෝගීතාව යටතේ දැනට ක්‍රියාත්මක සහ ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව ව්‍යාපෘති පිළිබඳ විශේෂ අවධානය යොමු කෙරිණි.
-
-මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ  ජනාධිපති ප්‍රධාන උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ආර්ථික කටයුතු පිළිබඳ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක දුමින්ද හුලංගමුව, ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් සහභාගී වූහ.
-
-◼️
-
-[Data](articles/0809c314.json)
-
----
 
 ### Lanka-Japan leaders in joint press conference
 
@@ -71,26 +55,6 @@ Signing of exchange leaves on the productivity of the dairy sector productivity 
 
 ---
 
-### ක්‍රිස් වෝක්ස් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගනී
-
-*2025-09-29 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215146) · `si`
-
-එංගලන්ත තුන් ඉරියව් ක්‍රීඩක ක්‍රිස් වෝක්ස් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගන්නා බව නිවේදනය කර තිබේ.
-
-ඒ සමඟම රට නියෝජනය කරමින් වසර 15ක ක්‍රිකට් වෘත්තීය ජීවිතයකට ක්‍රිස් වෝක්ස් එලෙස තිත තැබීමට තීරණය කර ඇත.
-
-ජූලි මස අවසානයේ ඉන්දියාවට එරෙහිව පැවති පස්වන ටෙස්ට් තරගයේදී ක්‍රිස් වෝක්ස්ගේ උරහිසේ ආබාධයක් ඇති විය.
-
-එම ආබාධය හේතුවෙන් අළු බඳුන සංචිතයෙන් වෝක්ස් ඉවත් කිරීමට තීරණය කළ බව එංගලන්ත කණ්ඩායමේ කළමනාකාර අධ්‍යක්ෂවරයා ඉන්ස්ටග්‍රෑම් ගිණුමේ සටහනක් තබා තිබුණි.
-
-36 හැවිරිදි වියේ පසුවන වෝක්ස්  ටෙස්ට් තරග 62ක්, එක්දින තරග 122ක් සහ විස්සයි20 තරග 33ක්  සඳහා එංගලන්ත කණ්ඩායම නියෝජනය කර තිබේ.
-
-◼️
-
-[Data](articles/72fb8c9c.json)
-
----
-
 ### Harak Kata is unjustly detained ”
 
 *2025-09-29 18:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்-கட்டா-அநியாயமாக-தடுத்து-வைக்கப்பட்டுள்ளார்/175-365495) · `ta`
@@ -108,18 +72,6 @@ He fears that talk about this will lead to revenge and that further restrictions
 [Data](articles/888b074e.json)
 
 [Extended Data](ext_articles/888b074e.ext.json)
-
----
-
-### Sri Lanka’s $5B FDI Target Faces Reality Check
-
-*2025-09-29 18:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka%e2%80%99s-5b-fdi-target-faces-reality-check) · `en`
-
-...
-
-[Data](articles/bae6974d.json)
-
-[Extended Data](ext_articles/bae6974d.ext.json)
 
 ---
 
@@ -1010,18 +962,6 @@ Both leaders emphasized the importance of enhancing Sri Lanka’s security and d
 [Data](articles/65ef94f6.json)
 
 [Extended Data](ext_articles/65ef94f6.ext.json)
-
----
-
-### සූර්ය පැනල නිෂ්පාදන කර්මාන්ත ශාලාවක් ආරම්භයට ඉන්දියාව සමග සාකච්ඡා
-
-*2025-09-29 16:09:56* · [`adalk`](https://www.ada.lk/breaking_news/සූර්ය-පැනල-නිෂ්පාදන-කර්මාන්ත-ශාලාවක්-ආරම්භයට-ඉන්දියාව-සමග-සාකච්ඡා/11-418792) · `si`
-
-බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා ඉන්දියාවේ සංචාරයක නිරත වෙමින් ඉන්දීය බලශක්ති, නිවාස හා නාගරික කටයුතු අමාත්‍ය ශ්‍රී මනෝහර් ලාල් කට්ටාර් (Manohar Lal Khattar) සහ පුනර්ජනනීය බලශක්ති  අමාත්‍ය ශ්‍රී ප්‍රලාද් ජෝෂි (Shri Pralhad Joshi) යන මහත්වරුන් හමුවී දෙරට අතර බලශක්ති සහයෝගීතාව වර්ධනය කිරීම, දැනට ඉන්දියාව සමග මෙරට ආරම්භ කර ඇති ව්‍යාපෘති වල ප්‍රගතිය මෙන්ම අනාගත ආයෝජන අවස්ථා පිළිබදවත් සාකච්ඡාවක නියැළිණි.
-
-...
-
-[Data](articles/28b200a7.json)
 
 ---
 
@@ -1950,5 +1890,85 @@ The Attorney General had filed an indictment against former Minister Patali Cham
 [Data](articles/9fcb2e15.json)
 
 [Extended Data](ext_articles/9fcb2e15.ext.json)
+
+---
+
+### Death sentence to former minister of China
+
+*2025-09-29 13:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-முன்னாள்-அமைச்சருக்கு-மரண-தண்டனை/50-365479) · `ta`
+
+The court on Sunday (28) ordered the death penalty to death of former Minister of Agriculture and Rural Affairs of China.
+
+Former minister Dong Renjian is said to have misused various positions he held at the central and local level from 2007 to 2024.
+
+He has illegally acquired a total of $ 268 million in cash and valuable goods on business activities, project contract and employment.
+
+The Sanghun's Intermediate Court in the Northeastern China province, which heard the case, sentenced him to death yesterday.. Moreover, the court said that all his political rights were being taken away.
+
+◼️
+
+[Data](articles/37e71c7e.json)
+
+[Extended Data](ext_articles/37e71c7e.ext.json)
+
+---
+
+### Woman working in court with drug pills
+
+*2025-09-29 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226388) · `ta`
+
+A woman working at the Madawachi Magistrate's Court in Anuradhapura was arrested by Mihintale police on Sunday evening with drug pills.
+
+The suspect has been arrested in connection with the investigation into the information received by the Mihintale police.
+
+◼️
+
+[Data](articles/2391ef83.json)
+
+[Extended Data](ext_articles/2391ef83.ext.json)
+
+---
+
+### Parliamentarian Ramanathan Archana arrested
+
+*2025-09-29 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226400) · `ta`
+
+Parliamentarian Ramanathan was arrested by the Archana Fort Police on Monday (29).
+
+Ramanathan was arrested when he was visiting the Fort Police Station this morning to make a confession.
+
+After participating in a recent protest in Colombo, it was revealed that a police officer at the Fort Police Station was disrupted.
+
+Parliamentarian Ramanathan Archana was arrested when he visited the Fort Police Station this morning for an investigation into the incident.
+
+◼️
+
+[Data](articles/04bb7ae6.json)
+
+[Extended Data](ext_articles/04bb7ae6.ext.json)
+
+---
+
+### Western Provincial Councilor Amal Silva released on bail
+
+*2025-09-29 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215134) · `si`
+
+Western Provincial Counciation Unit, who was arrested with three luxury vehicles for 3 billion rupees registered with fake documents, was bailed by the Western Provincial Counciation Unit.
+
+He issued the order by the Panadura Magistrate's Court today (29).
+
+Former Western Provincial Councilor Amal Silva Walana Police had arrested three luxury vehicles worth Rs.
+
+It is said that these traffic is illegally imported to the country and registered under the Department of Motor Traffic.
+
+There were three LAND ROVER and Mitsubishily jeeps.
+
+Preliminary investigations have been revealed that the vehicles made under the registered vehicles of state institutions under registered vehicles belonging to state institutions have been identified.
+
+◼️
+
+[Data](articles/c82d41d2.json)
+
+[Extended Data](ext_articles/c82d41d2.ext.json)
 
 ---

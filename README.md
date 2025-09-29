@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 14:40:02**
+As of **2025-09-29 14:56:53**
 
 ## Newspaper Stats
 
-*Scraped **79,472** Articles*
+*Scraped **79,476** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 432
-newsfirstlk | 479
+newsfirstlk | 481
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,657
+adalk | 7,659
 adaderanalk | 10,248
 tamilmirrorlk | 11,900
 virakesarilk | 12,955
@@ -27,11 +27,45 @@ adaderanasinhalalk | 13,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,470 (100.0%) of 79,472 articles have been extended.
+79,472 (100.0%) of 79,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### Sri Lanka Drafts First-Ever National Heritage Policy
+
+*2025-09-29 14:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka-drafts-first-ever-national-heritage-policy) · `en`
+
+COLOMBO (News 1st); The Ministry of Cultural Affairs has officially received the draft of Sri Lanka’s first-ever National Heritage Policy.
+
+The draft was compiled by a committee of experts led by Dr. Gamini Wijesuriya, a respected authority in heritage conservation.
+
+The expert committee has proposed a consultative process, where individuals with proven expertise and practical experience in heritage-related fields will be invited to submit recommendations and feedback.
+
+◼️
+
+[Data](articles/23055944.json)
+
+---
+
+### “Sri Lanka Collapsed Because We Lost Our Ethics” - Cardinal
+
+*2025-09-29 14:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/%e2%80%9csri-lanka-collapsed-because-we-lost-our-ethics%e2%80%9d-cardinal) · `en`
+
+COLOMBO (News 1st); His Eminence Malcolm Cardinal Ranjith, Archbishop of Colombo, delivered a scathing critique of Sri Lanka’s past leadership and societal decline, stating that the country’s collapse was not accidental — but the result of a systemic failure of ethics, accountability, and justice.
+
+Leading with moral skepticism, the Cardinal warned that a society without principles is destined to fall, and that Sri Lanka’s current crisis stems from a long-standing erosion of values across all levels of leadership.
+
+“From the highest ranks to the grassroots,” he said, “a culture of corruption, theft, and selective justice has dragged the nation into ruin.”
+
+He pointed to the absence of policy direction, integrity, and respect for law, noting that despite Sri Lanka’s natural beauty and potential, the country has become one of the most indebted in the world.
+
+...
+
+[Data](articles/1a1af46b.json)
+
+---
 
 ### Archchuna Arrested Over Alleged Abuse of Police
 
@@ -47,23 +81,27 @@ The arrest was made when the MP arrived at the station with regard to the ongoin
 
 [Data](articles/143b503d.json)
 
+[Extended Data](ext_articles/143b503d.ext.json)
+
 ---
 
-### පිපිරීමකින් දෙන්නෙක් රෝහලේ
+### Two hospitalized in explosion
 
 *2025-09-29 14:02:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පපරමකන-දනනක-රහල/101-680416) · `si`
 
-කිලිනොච්චියේ සිදු වූ පිපිරීමකින් පුද්ගලයින් දෙදෙනකු බරපතල තුවාල ලබා රෝහල් ගත කොට ඇති බවය පොලීසිය කියයි.
+Two persons were injured in the explosion in Kilinochchi, police said.
 
-කිලිනොච්චි තට්ටුවාන් කෝට්ටේ ප්‍රදේශයේදී අද (29) දා මෙම පිපිරිම සිදුව තිබේ.
+The explosion occurred in the Galinochchi Tatunkola area in Kilinochchi today (29).
 
-අතහැර දමා තිබු නිවසක කැනීම් කටයුත්තක් සිදු කරමින් සිටියදී වල දමා තිබු බෝම්බයක් පුපුරා ගොස් අදාළ පුද්ගලයින් දෙදෙනා තුවාල ලබන්නට ඇති බවට සැක කෙරේ.
+A bomb exploded while conducting an excavation work in a dropped house and suspected that the two persons were injured.
 
-ඒ අනුව බරපතල තුවාල ලැබූ පුද්ගලයින් කිලිනොච්චිය දිස්ත්‍රික් රෝහලට  ඇතුලත් කර ඇති අතර කිලිනොච්චිය පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+The victims have been admitted to the Kilinochchi District hospital and the Kilinochchi police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b9733e61.json)
+
+[Extended Data](ext_articles/b9733e61.ext.json)
 
 ---
 
@@ -200,6 +238,20 @@ It is noteworthy that Archana had heard that the vehicle would be stopped in you
 [Data](articles/ef195d8a.json)
 
 [Extended Data](ext_articles/ef195d8a.ext.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රී අර්ච්චුනා අත්අඩංගුවට
+
+*2025-09-29 13:35:06* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අර්ච්චුනා-අත්අඩංගුවට/11-418789) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා කොටුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අද (29දා) පෙරවරුවේ ප්‍රකාශයක් ලබා දීම සඳහා කොටුව පොලීසිය වෙත පැමිණි අවස්තාවේදි ඔහුව අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/d7d71650.json)
 
 ---
 
@@ -416,6 +468,20 @@ Digital Economic Economic Economic Economic Minister Eranga Weeraratne announced
 [Data](articles/47f22f00.json)
 
 [Extended Data](ext_articles/47f22f00.ext.json)
+
+---
+
+### ආණ්ඩුවේ මන්ත්‍රීවරුන්ට එරෙහිව ගම්මන්පිලගෙන් අල්ලස් කොමිසමට පැමිණිල්ලක්
+
+*2025-09-29 12:48:42* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මන්ත්‍රීවරුන්ට-එරෙහිව-ගම්මන්පිලගෙන්-අල්ලස්-කොමිසමට-පැමිණිල්ලක්/11-418786) · `si`
+
+පිවිතුරු හෙළ උරුමයේ නායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා අද (29දා)  අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ගොනු කර තිබේ.
+
+ආණ්ඩුවේ මන්ත්‍රීවරුන් විසින් ලබා ගන්නා ලද මාසික වැටුප පක්ෂ අරමුදලට යොමු කිරීමෙන් දේශපාලන කටයුතු සිදු කිරීම සම්බන්ධව ​ඔහු විසින් මෙලෙස පැමිණිල්ල ඉදිරිපත් කර ඇත.
+
+◼️
+
+[Data](articles/2a86b202.json)
 
 ---
 
@@ -1858,87 +1924,5 @@ Police said the keys were fled and two slopes in front of two nights on the 12 n
 [Data](articles/2296fb3a.json)
 
 [Extended Data](ext_articles/2296fb3a.ext.json)
-
----
-
-### 15 children have escaped from detention
-
-*2025-09-29 08:54:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රඳවම-නවසයන-ළමන-15ක-පන-ගහන/101-680389) · `si`
-
-The Sapugaskanda Police say 15 children who were detained in the Sapugaskanda Mama Detention Home said.
-
-The suspects are those who have been sent to the inventory after the robbery and riots in the Western Province.
-
-The children are residents of Bandaragama, Bandaragama, Maligakanda, Mattakanda, Mattakkanda, Atackulla, Colombo 14, Colombo 14.
-
-The child care officer has lodged a complaint with the child to escape children.
-
-◼️
-
-[Data](articles/f989ce7c.json)
-
-[Extended Data](ext_articles/f989ce7c.ext.json)
-
----
-
-### Suspect arrested with drugs including drug bullets
-
-*2025-09-29 08:51:21* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතදරවය-ජව-උණඩ-ඇතළ-හරබඩ-සමඟ-අයක-මටට/1-680388) · `si`
-
-A person has been arrested in the Kottawa Rukmala road area and a large quantity of drug number plates and a large quantity of documents.
-
-The suspect was taken into police custody, 45 pills, 45 plates, 30 sheets of 400 gdies, 400 garments, 400 garments, 400 different bullets.
-
-The suspect has been arrested according to police STF officials according to a tip off received by the officers of the Sri Jayewardenepura camp. The suspect is a 24-year-old resident of Moratuwa.
-
-◼️
-
-[Data](articles/0a5065ad.json)
-
-[Extended Data](ext_articles/0a5065ad.ext.json)
-
----
-
-### Suspect arrested with drugs including drug bullets
-
-*2025-09-29 08:51:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මතදරවය-ජව-උණඩ-ඇතළ-හරබඩ-සමඟ-අයක-මටට/101-680388) · `si`
-
-A person has been arrested in the Kottawa Rukmala road area and a large quantity of drug number plates and a large quantity of documents.
-
-The suspect was taken into police custody, 45 pills, 45 plates, 30 sheets of 400 gdies, 400 garments, 400 garments, 400 different bullets.
-
-The suspect has been arrested according to police STF officials according to a tip off received by the officers of the Sri Jayewardenepura camp. The suspect is a 24-year-old resident of Moratuwa.
-
-◼️
-
-[Data](articles/5b730647.json)
-
-[Extended Data](ext_articles/5b730647.ext.json)
-
----
-
-### 105 shops raided at higher prices
-
-*2025-09-29 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215124) · `si`
-
-The Consumer Affairs Authority said that 105 shops sold over control over control over the control of control over the past two weeks.
-
-The authority said that the authority was also taken to prosecute roles sold.
-
-The Authority said that if a control price is specified for rice, legal action will be taken to take legal action at higher prices.
-
-The authority said that if he was charged in a large number of cases, he was able to set a fine of Rs.
-
-If a private company is convicted, the court said that the courtship could be taken to confirm the goods or imprisonment, both of the above fines from Rs.
-
-Meanwhile, the Consumer Affairs Authority has also passed over 3,000 raids associated with rice in the year.
-
-The Chairman of the Authority said that he had legalized over 1,000 raids and said a press conference held at a media briefing.
-
-◼️
-
-[Data](articles/d3ccc3df.json)
-
-[Extended Data](ext_articles/d3ccc3df.ext.json)
 
 ---

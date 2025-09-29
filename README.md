@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 22:07:02**
+As of **2025-09-29 21:38:32**
 
 ## Newspaper Stats
 
-*Scraped **79,622** Articles*
+*Scraped **79,611** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 465
+lankadeepalk | 462
 newsfirstlk | 489
 dbsjeyarajcom | 635
-bbccomsinhala | 709
+bbccomsinhala | 708
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,736
@@ -20,138 +20,50 @@ dailyftlk | 5,584
 adalk | 7,667
 adaderanalk | 10,274
 tamilmirrorlk | 11,915
-virakesarilk | 12,992
-adaderanasinhalalk | 13,784
+virakesarilk | 12,986
+adaderanasinhalalk | 13,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,621 (100.0%) of 79,622 articles have been extended.
+79,607 (100.0%) of 79,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### Bus to hospital at Kandy road
-
-*2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/101-680438) · `si`
-
-A private bus traveling along the Randenigala Kandy road was admitted to the Kancatiya Rural Hospital due to a crash in Keerthi Bandarapura areas.
-
-The accident had occurred due to a technical fault with a technical fault while transporting the employees of a garment workers.
-
-◼️
-
-[Data](articles/3724061c.json)
-
-[Extended Data](ext_articles/3724061c.ext.json)
-
----
-
-### Head of IMF Meeting Prime Minister
-
-*2025-09-29 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215152) · `si`
-
-Evan Papagetorg, Head of the International Monetary Fund, met Prime Minister Dr. Welini Amarasuriya at Temple Trees today (29).
-
-The progress of the government's reform program was evaluated, especially the actions taken to strengthen and reduce corruption.
-
-He also paid attention to the steps taken by the importance of tax policy reforms, tax exemptions (TAX EXEEMPTIONS).
-
-Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
-
-Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
-
-The Prime Minister emphasized that economic progress should be in accordance with the needs of the people and that the attractiveness of quality investment is a priority.
-
-The Prime Minister pointed out that the strengthening of social security is essential and that increasing groups are needed to ensure long-term sustainability.
-
-...
-
-[Data](articles/eaf23632.json)
-
-[Extended Data](ext_articles/eaf23632.ext.json)
-
----
-
-### Harini - talks with robot
-
-*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරන-රබ-එකක-කත-කරය/101-680437) · `si`
-
-Prime Minister Dr. Harini Amarasuriya said that the essential steps to achieve Sri Lanka to achieve Sri Lanka towards a digital era.
-
-The Prime Minister said that more than the new education reforms has been allocated.
-
-The Prime Minister was speaking at the Monarchy Imperial Hotel, Kottaramaya, Battaramaya, the 'National Ai Expo 2025' seminar and the exhibition in Sri Lanka.
-
-The seminar will be held together in collaboration with the Digital Economic Ministry and the Exhibition on September 29 and 30th September 29 and 30.
-
-The National Exhibition is a leading destiny for artificial intelligence, creating artificial intelligence, researnings of artificance, businessmen and companies to introduce the use of artificial, businessmen and companies.
-
-◼️
-
-[Data](articles/7290ee17.json)
-
-[Extended Data](ext_articles/7290ee17.ext.json)
-
----
-
-### Harini - talks with robot
+### හරිනි - රොබෝ එක්ක කතා කරයි
 
 *2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරන-රබ-එකක-කත-කරය/1-680437) · `si`
 
-Prime Minister Dr. Harini Amarasuriya said that the essential steps to achieve Sri Lanka to achieve Sri Lanka towards a digital era.
+ශ්‍රී ලංකාව ඩිජිටල් යුගයක්  කරා ගෙන යාමේ අරමුණ සාක්ෂාත් කර ගැනීම සඳහා අත්‍යවශ්‍ය මූලික පියවර වන්නේ නවීන තාක්ෂණයට අනුකූල වන මානව සම්පතක් නිර්මාණය කිරීම බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය  පැවසුවාය.
 
-The Prime Minister said that more than the new education reforms has been allocated.
+ඒ සඳහා නව අධ්‍යාපන ප්‍රතිසංස්කරණ වල වැඩි ඉඩක් වෙන් කර ඇති බවද අග්‍රාමාත්‍යවරිය කීවාය.
 
-The Prime Minister was speaking at the Monarchy Imperial Hotel, Kottaramaya, Battaramaya, the 'National Ai Expo 2025' seminar and the exhibition in Sri Lanka.
+ශ්‍රී ලංකාවේ ප්‍රථමවරට පැවැත්වූ  AI තාක්ෂණය පිළිබදව "NATIONAL AI EXPO 2025 " සම්මන්ත්‍රණය හා ප්‍රදර්ශනයෙහි ආරම්භක අවස්ථාවට එක්වෙමින් බත්තරමුල්ල මොනාර්චි  ඉම්පෙරියල් හෝටලයේදී   අග්‍රාමාත්‍යවරිය මේ බව පැවසුවාය.
 
-The seminar will be held together in collaboration with the Digital Economic Ministry and the Exhibition on September 29 and 30th September 29 and 30.
+ඩිජිටල් ආර්ථික අමාත්‍යංශය සහ ශ්‍රී ලංකා ටෙලිකොම් මොබිටෙල් ආයතනය එක්ව සංවිධානය කරන මෙම සම්මන්ත්‍රණය හා ප්‍රදර්ශනය  සැප්තැම්බර් 29 හා 30 දෙදින පුරා බත්තරමුල්ල මොනාර්ච් ඉම්පීරියල් හෝටලයේදී පැවැත්වේ.
 
-The National Exhibition is a leading destiny for artificial intelligence, creating artificial intelligence, researnings of artificance, businessmen and companies to introduce the use of artificial, businessmen and companies.
-
-◼️
+...
 
 [Data](articles/e7269f32.json)
 
-[Extended Data](ext_articles/e7269f32.ext.json)
-
 ---
 
-### '' Mani's column. Not out-36! '' Leave the work
+### ’’මානිගේ තීරුව. NOT OUT 36!’’ කෘතිය එළිදකියි
 
 *2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/1-680436) · `si`
 
-Senior journalist lovely humility mal's "Mani's column. Noot Out 36! "The work was held today (UK) at the BMICH on the Bandaranaike Conference Hall.
+ජ්‍යෙෂ්ඨ මාධ්‍යවේදී සුන්දර නිහතමානීද මැල් මහතාගේ "මානිගේ තීරුව. NOT OUT 36!" කෘතිය දොරටවැඩුම බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේ කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනයේ පොත් එළිදක්වන ස්ථානයේදී අද (29) සිදුකෙරිණි.
 
-The former Chairman of the Customs Officers' Association of Customs Officers of the Massi's column, a reader of Mawi's column, was presented to the former Chairman of the Association of Customs Officers.
+ග්‍රන්ථය මුල් පිට මානිගේ තීරුවේ පාඨකයකු වන රේගු නිලධාරීන්ගේ සංගමයේ හිටපු සභාපති  විපුල මිනුවම් පිටිය මහතා වෙත පිළිගැන්විය.
 
-A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Atthanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Thilanga Sumathipala and Tissa Attanayake were present at the occasion.
+එම අවස්ථාවට බද්දේගම දුටුගැමුණු රජමහා විහාරාධිපති වැලිවිටියේ සුමන හිමි, දිලිත් ජයවීර, තිලංග  සුමතිපාල, තිස්ස අත්තනායක ඩළස් අලහපෙරුම,යන දේශපාලඥයින් මෙන්ම  පුවත්පත් කතුවරුන්, මාධ්‍යවේදීන්, සහ පාඨකයින් විශාල ප්‍රමාණයක් මෙම අවස්ථාවට සහභාගී වූහ.
 
 ◼️
 
 [Data](articles/2a6fa0e8.json)
-
-[Extended Data](ext_articles/2a6fa0e8.ext.json)
-
----
-
-### '' Mani's column. Not out-36! '' Leave the work
-
-*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/101-680436) · `si`
-
-Senior journalist lovely humility mal's "Mani's column. Noot Out 36! "The work was held today (UK) at the BMICH on the Bandaranaike Conference Hall.
-
-The former Chairman of the Customs Officers' Association of Customs Officers of the Massi's column, a reader of Mawi's column, was presented to the former Chairman of the Association of Customs Officers.
-
-A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Atthanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Thilanga Sumathipala and Tissa Attanayake were present at the occasion.
-
-◼️
-
-[Data](articles/b79d48ea.json)
-
-[Extended Data](ext_articles/b79d48ea.ext.json)
 
 ---
 
@@ -170,62 +82,6 @@ The bus was hit by a route route and 12 people in the bus was injured and rushed
 [Data](articles/0ea1d5e9.json)
 
 [Extended Data](ext_articles/0ea1d5e9.ext.json)
-
----
-
-### Discussion between President and Japan Defense Minister
-
-*2025-09-29 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226441) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said that Japanese Defense Minister TM at the Imperial Hotel in Tokyo on Monday (29). He met DM Nakatani and engaged in discussion.
-
-It was rapidly investigated on further strengthening the current cooperation between Sri Lanka and Japan on long -term friendship, regional security and security matters between the two countries.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and the Sri Lankan delegation were present at the meeting.
-
-◼️
-
-[Data](articles/6512e908.json)
-
-[Extended Data](ext_articles/6512e908.ext.json)
-
----
-
-### Bilateral talks between President and Japan Finance Minister
-
-*2025-09-29 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226440) · `ta`
-
-The bilateral talks were held at the Imperial Hotel in Tokyo on Monday afternoon between President Anura Kumara Dissanayake and Japanese Finance Minister Kato Kasunobu (29) at the invitation of the Japanese government.
-
-The focus was on the implementation and implementation of the new projects that are currently being implemented and implemented under the Japanese Assistance/JICA cooperation on trade, investment and economic cooperation between the two countries.
-
-Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, President's Senior Advisor to Digital Economy Dr. Hans Vijayasuriya, President's Senior Economic Advisor Duminda Hulangamuwa, Sri Lanka Ambassador to Japan
-
-◼️
-
-[Data](articles/2a4b2f6a.json)
-
-[Extended Data](ext_articles/2a4b2f6a.ext.json)
-
----
-
-### I will be dedicated to Japan to create development and stability - President
-
-*2025-09-29 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226439) · `ta`
-
-The official event to welcome President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, was held on Monday (29) at the Japanese Prime Minister's Office.
-
-Japanese Prime Minister Shigeru Ishiba was welcomed by Japanese Prime Minister's Prime Minister's Office. Subsequently, President Anura Kumara Dissanayake accepted the honor of the Japanese self -defense force and joined the march.
-
-The official meeting between President Anura Kumara Dissanayake and Japanese Prime Minister Shikheru Ishiba began following the introduction of the bilateral representatives.
-
-Following the long -standing close friendship between Japan and Sri Lanka, the focus was on the continued dissemination of various sectors, including business, investment, economic, development assistance and zonal security between the two countries.
-
-...
-
-[Data](articles/ed6e125a.json)
-
-[Extended Data](ext_articles/ed6e125a.ext.json)
 
 ---
 
@@ -289,21 +145,19 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 
 ---
 
-### President - Japanese Finance Minister
+### ජනපති - ජපාන මුදල් ඇමති සාකච්ඡා
 
 *2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/1-680435) · `si`
 
-President Anura Kumara Dissanayake and Japanese Finance Minister Kazyou Kazinobu (Kato Katsunobu) on an invitation of the Government of Japan was held at the Imperial Hotel in Tokyo.
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
 
-The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
+මෙහිදී දෙරට අතර වෙළෙඳ, ආයෝජන සහ ආර්ථික සහයෝගිතාව ඉහළ නංවා ගැනීම පිළිබඳ මෙන්ම, ජපන් ආධාර /JICA සහයෝගීතාව යටතේ දැනට ක්‍රියාත්මක සහ ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව ව්‍යාපෘති පිළිබඳ විශේෂ අවධානය යොමු කෙරිණි.
 
-Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
+මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ  ජනාධිපති ප්‍රධාන උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ආර්ථික කටයුතු පිළිබඳ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක දුමින්ද හුලංගමුව, ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් සහභාගී වූහ.
 
 ◼️
 
 [Data](articles/a4fd73ab.json)
-
-[Extended Data](ext_articles/a4fd73ab.ext.json)
 
 ---
 
@@ -425,27 +279,25 @@ The LTTE also decided to summon the COPE meeting on 24th of this month.
 
 ---
 
-### Red light to electricity from COPE committee
+### කෝප් කමිටුවෙන් විදුලියට රතු එළියක්
 
 *2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කමටවන-වදලයට-රත-එළයක/1-680434) · `si`
 
-The Parliament Select Committee of the Commonwealth Parliament (Coop Committee) has shown that the company's restructuring can cause serious problems in the future.
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ කොටස් බෙදී ඇති ආකාරය අපැහැදිලි බැවින්  ආයතනය ප්‍රතිව්‍යුහගතකරණය කිරීමේදී ඉදිරියේදී බරපතළ  ගැටලු ඇතිවිය හැකි බව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව ( කොප් කමිටුව)  එහි  නිලධාරීන්ට පෙන්වාදී ඇත.
 
-Chairman of the COPE committee, Dr. Nishantha Samaraweera, Chairman of the COPE
+එල්ටීඑල් සමාගමේ කොටස් බෙදී ඇති ආකාරය ඇපැහැදිලි බවත්  ආයතනයන් ප්‍රතිව්‍යුහගත කිරීමේදී මේ තත්වය ගැටළුවක් විය හැකි බවත් කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා පැවැසුවේය
 
-He also said that the LTTE's shares have problems with the controversial and the operational of ECot Company.
+එල්ටීඑල් සමාගමේ කොටස් වෙස්ට් කොස්ට් ආයතනය සහ  ඊසොට්  සමාගම යන ආයතන වලට බෙදී  ඇති  අාකාරය සහ ඒවායේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ගැටලු පවතින බවද ඔහු සඳහන් කළේය.
 
-The committee members of the committee also pointed out that the division of partition as well as its functionality is very obscure.
+මෙහිදී කාරක සභාවේ මන්ත්‍රීවරුන්ද පෙන්වා දුන්නේ කොටස් බෙදීම මෙන්ම එහි  ක්‍රියාකාරීත්වය ඉතාම අපැහැදිලි බවයි.
 
-As a result, the Lecturer and officials should act quickly to explain this situation.
+මේ නිසා මේ තත්වය පැහැදිලි කර ගැනීමට නීති  අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් ඉක්මනින්ම කටයුතු කළ යුතු බව  කාරක සභාව නිර්දේශ කළේය.
 
-The LTTE also decided to summon the COPE meeting on 24th of this month.
+මේ අනුව එල්.ටී.එල් සමාගම ලබන මස 24 වැනිදා කෝප් කමිටුව හමුවට කැඳවීමටද තීරණය කෙරිණි.
 
 ◼️
 
 [Data](articles/591e413f.json)
-
-[Extended Data](ext_articles/591e413f.ext.json)
 
 ---
 
@@ -508,26 +360,6 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/0809c314.json)
 
 [Extended Data](ext_articles/0809c314.ext.json)
-
----
-
-### Sinhalese people have betrayed their leader Prabhakaran - Ramanathan Archana
-
-*2025-09-29 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226438) · `ta`
-
-People like us are targeted as Mahinda Rajapaksa unable to take action against people. I am afraid that my God is Prabhakaran. But MP Ramanathan Archana said that the Sinhalese people have betrayed Mahinda Rajapaksa, who served for themselves.
-
-He further stated that the media was commenting on Monday (29) at the court premises.
-
-Prabhakaran is my position that is my God. I am ahead of those who have survived me. But the people of this country have betrayed their leader for the soldiers who survived themselves. Mahinda Rajapaksa is not the leader of the Tamil people, but he is the leader of the Sinhala people.
-
-But they have betrayed Mahinda Rajapaksa. When I said that Namal, I believed them. The whole country believed it. When the liars came up with the lies, everyone believed in them. But in the end, all their lies have begun to emerge.
-
-...
-
-[Data](articles/b4598bed.json)
-
-[Extended Data](ext_articles/b4598bed.ext.json)
 
 ---
 
@@ -894,28 +726,6 @@ At this meeting with the Indian Minister of Power and Energy, the emphasis was g
 [Data](articles/d38804e8.json)
 
 [Extended Data](ext_articles/d38804e8.ext.json)
-
----
-
-### Monthly Education Assistant - Minister Arun Hemachandra through the President's Fund
-
-*2025-09-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226429) · `ta`
-
-Minister of State for Foreign and Foreign Employment Arun Hemachandra said that we have launched a monthly financial assistance program for the education of the children of diaspora workers through the Presidential Fund.
-
-He said this while commenting on the student scholarship provided by the President's Fund to the education of the children of the diaspora workers.
-
-As part of the political changes that have taken place since the new government came to power, we have launched a program to provide student scholarships to the children of migrant workers through the Presidential Fund.. The President's Fund is one of the people who need. It is not a boon.
-
-We see that it is currently being transformed into people's rights. However, in the past, the presidential fund was abused in various places, including Parliament.
-
-Currently that era is over. At this time, there is a number of benefits to the people, and we see that there are many benefits to the people.
-
-...
-
-[Data](articles/6fb72d8a.json)
-
-[Extended Data](ext_articles/6fb72d8a.ext.json)
 
 ---
 
@@ -1364,26 +1174,6 @@ I wish to remind you that you are not joining a traditional public service. You 
 [Data](articles/3d34d1cc.json)
 
 [Extended Data](ext_articles/3d34d1cc.ext.json)
-
----
-
-### It is not normal for a private bank to stop all its activities in Sri Lanka - the United People's Power
-
-*2025-09-29 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226417) · `ta`
-
-It is not uncommon for a private bank in the world to stop all its activities in Sri Lanka. This shows a negative course in Sri Lanka's bank structure and economy. United People's Power Parliamentarian Ajith P. Perera said the government should intervene in this regard and take steps to prevent this.
-
-He further stated at a press conference held in Colombo on Sunday (28).
-
-A hidden crisis has been formed in relation to the country's economy. Economists, investors in the country have issued a precautionary impact on foreign companies in foreign companies if they do not repay foreign loans to Sri Lanka in a few years.. We cannot live in a world of fantasy.
-
-The Gotabhaya Rajapakse government did not make the right decisions in a timely manner, causing massive crises and eventually collapsed. This year's 5 -year reign of the year begins with the return of foreign loans. You have to pay about $ 5 billion a year.
-
-...
-
-[Data](articles/7705d931.json)
-
-[Extended Data](ext_articles/7705d931.ext.json)
 
 ---
 
@@ -1865,24 +1655,6 @@ The protest rally began from the district public playground to protest the work 
 
 ---
 
-### ශ්‍රී ලංකාව ඇතුළු සාක් කලාපීය රටවල උරුම ගැන 'ලොවට කියන' සාක් උරුම සංසදය
-
-*2025-09-29 15:41:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cly7e3g3nr3o) · `si`
-
-ශ්‍රී ලංකාව ඇතුළු සාක් කලාපීය රටවල උරුම ගැන 'ලොවට කියන' සාක් උරුම සංසදය
-
-සාක් සංස්කෘතික මධ්‍යස්ථානය විසින් ක්‍රියාත්මක කරනු ලබන සාක් කලාපයට අයත් රටවල කලාව, සංස්කෘතිය, ඓතිහාසික ස්ථාන, කෞතුකාගාර සහ සංරක්ෂණ වැඩසටන් ආදිය ප්‍රවර්ධනය කෙරෙන පළමු සාර්ක් උරුම සංසදය සැප්. 30 වන දා කොළඹ ඇරඹේ.
-
-ඔක්. 2 වන දා දක්වා දින තුනක් පුරා පැවැත්වෙන මෙම සංසදය දකුණු ආසියාවේ සංස්කෘතික උරුමයන් සංරක්ෂණය කිරීම, ආරක්ෂා කිරීම සහ ප්‍රවර්ධනය කිරීම සඳහා වන සංධිස්ථානයක් වන අතර ම රටවල් අතර සංස්කෘතික සහයෝගීතාව ශක්තිමත් කිරීමේ වැඩසටහනක් ද වේ.
-
-මේ සඳහා සහභාගිවන්නන් අතරට සාක් රටවල ජ්‍යෙෂ්ඨ නිලධාරීන්, කෞතුකාගාර විශේෂඥයින්, සාක් මූලස්ථානයේ නියෝජිතයින්, යුනෙස්කෝ නියෝජිතයින් සහ උරුමයන් පිළිබඳව අධ්‍යයනය කරන විද්වතුන් ඇතුළත් වේ.
-
-...
-
-[Data](articles/0d76021c.json)
-
----
-
 ### A life dedicated to the unity of the nation
 
 *2025-09-29 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226409) · `ta`
@@ -2012,5 +1784,223 @@ Senior officials, officers and soldiers were present at the event, representing 
 [Data](articles/175a1a96.json)
 
 [Extended Data](ext_articles/175a1a96.ext.json)
+
+---
+
+### Day to consider a petition against Minister Upali Pannila
+
+*2025-09-29 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215138) · `si`
+
+The Court of Appeal was set to call on February 27 to consider a petition filed by Dr. Upali Panilage.
+
+The petition was presented by the President of the New Thirty Front, Mr. Asala Herath.
+
+The petition was called before the Court of Appeal, Principal of the Court of Appeal and Priyantha Fernando.
+
+The judge's panel of judges presented to the petitioners and the lawyers of the lawyers, the petition filed to be summoned on February 27.
+
+The petitioner says that after the last general election, Dr. Upali Pannila was appointed as a national listing MP in the national power.
+
+When the appointment was made by Mr. Upali Pannila, Upali Pannila was serving as a sociological professor at Ruhuna University.
+
+The petitioner requested the Court of Appeal to issue a parliamentary post as a parliamentarian as a parliamentary position as a parliamentary position as a parliamentary term.
+
+◼️
+
+[Data](articles/3c2e3ab1.json)
+
+[Extended Data](ext_articles/3c2e3ab1.ext.json)
+
+---
+
+### Political Public Service End
+
+*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දශපලන-ගත-රජය-සවය-අවසන/1-680419) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the government's objective is to establish an independent and efficient public service providing proper service to the people.
+
+The Prime Minister also demanded the collection of the role of the development of the country through an efficient public service dedicated to the people.
+
+The Prime Minister was addressing the ceremony held at Temple Trees today (29) at Temple Trees today (29).
+
+Prime Minister Dr. Harari Amarasuriya said:
+
+"You would like to remind you that it is not for a traditional public service. You are not a ineffective and political service so far.
+
+The minister said to the people and an independent public service.
+
+◼️
+
+[Data](articles/16ced147.json)
+
+[Extended Data](ext_articles/16ced147.ext.json)
+
+---
+
+### Political Public Service End
+
+*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දශපලන-ගත-රජය-සවය-අවසන/101-680419) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the government's objective is to establish an independent and efficient public service providing proper service to the people.
+
+The Prime Minister also demanded the collection of the role of the development of the country through an efficient public service dedicated to the people.
+
+The Prime Minister was addressing the ceremony held at Temple Trees today (29) at Temple Trees today (29).
+
+Prime Minister Dr. Harari Amarasuriya said:
+
+"You would like to remind you that it is not for a traditional public service. You are not a ineffective and political service so far.
+
+The minister said to the people and an independent public service.
+
+◼️
+
+[Data](articles/af38b336.json)
+
+[Extended Data](ext_articles/af38b336.ext.json)
+
+---
+
+### Bail for Amal Silva!
+
+*2025-09-29 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226413) · `ta`
+
+The Panadura Magistrate's Court today (29) ordered the release of former Western Provincial Council member Amal Silva on bail.
+
+Accordingly, the magistrate has ordered Amal Silva to be released on two bodies worth Rs 50 lakhs.
+
+Amal Silva Valana has been arrested on Sunday (28) on charges of illegally importing three jeep vehicles worth Rs 6 crore and producing fake documents.
+
+The arrested former Western Provincial Council member Amal Silva was released on bail after being produced at the Panadura Magistrate's Court today.
+
+◼️
+
+[Data](articles/3919b984.json)
+
+[Extended Data](ext_articles/3919b984.ext.json)
+
+---
+
+### 25 doctors recruit for the police medical service unit
+
+*2025-09-29 15:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-வைத்திய-சேவைப்-பிரிவிற்கு-25-வைத்தியர்கள்-ஆட்சேர்ப்பு/175-365482) · `ta`
+
+◼️
+
+[Data](articles/bb8cc32a.json)
+
+[Extended Data](ext_articles/bb8cc32a.ext.json)
+
+---
+
+### Politics won the Asian Cup final…! ; Both countries to take charge of
+
+*2025-09-29 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226410) · `ta`
+
+The Indian team won the Asian Bowl in Dubai on Sunday in Dubai and won the Asian Cup for the ninth time. However, the fact that the two captains behaved during the prize giving have caused furious and anger among the cricket match enthusiasts.
+
+When Pakistan won the second place, he bought it and threw it at the stadium when he was given the cash card.. At the same time, the Indian team celebrated their victory without the victory.
+
+There are many events that have never been featured in a series of cricket or competition, only among the Indian Pakistan teams in the Asian Cup series.. In the first match where the two teams clashed at the beginning, the two captain did not shake hands. Though the Indian team won the match, the team players left the stadium without joining hands with Pakistan.
+
+...
+
+[Data](articles/abde6fe8.json)
+
+[Extended Data](ext_articles/abde6fe8.ext.json)
+
+---
+
+### Miss Grand International - 2025 Sri Lankan woman participating in beauty
+
+*2025-09-29 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226408) · `ta`
+
+A woman named Dishani Perera will participate in Sri Lanka representing Sri Lanka in the 12th Miss Grand International - 2025 beauty pageant in Thailand.
+
+A woman named Tishani Perera left Thailand from Katunayake airport at 1:30 am today (29) to participate in the beauty pageant.
+
+The beauty of the beauty will be held in Bangkok, Thailand from September 30 to October 18.
+
+◼️
+
+[Data](articles/90237897.json)
+
+[Extended Data](ext_articles/90237897.ext.json)
+
+---
+
+### Former Minister Champika's petition dates back
+
+*2025-09-29 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215137) · `si`
+
+Former Minister Minister Patali Champika Ranawaka, who has been filed by the Attorney General to the Colombo High Court, has been appointed as the Attorney General to issue a serious operation in Rajagiriya area in 2016.
+
+The petition was called before the Court of Appeal today (29).
+
+The judge who appeared on behalf of Mr. Champiri Ranawaka, Patali Champika Ranawaka, was sentenced to summons on November 24 to the examination.
+
+Former Minister Patali Champika Ranawaka has been charged with Gotabhaya Rajapaksa's residents against former Minister Patali Vimanawa Ranawaka on the 28th of February 2016.
+
+The petitioner stated that the basic objections have been sentenced to the preliminary objections to reject the preliminary objections to the law and reject them.
+
+The petition has come to the Court of Appeal to issue the decision to issue a decree to the law and issued a decision to issue the decision as the decision was taken into law and issued a decision.
+
+◼️
+
+[Data](articles/47453c26.json)
+
+[Extended Data](ext_articles/47453c26.ext.json)
+
+---
+
+### Action order for Archana
+
+*2025-09-29 14:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-அதிரடி-உத்தரவு/175-365481) · `ta`
+
+Parliamentarian Ramanathan Aruchuna, who was on his way to the Paraikkottai police station this morning to present a affidavit, was arrested after his affidavit.
+
+When the Magistrate was produced before the court, the magistrate ordered him to be released on bail.
+
+◼️
+
+[Data](articles/b5cbda01.json)
+
+[Extended Data](ext_articles/b5cbda01.ext.json)
+
+---
+
+### Two persons seriously injured in an explosion in Kilinochchi
+
+*2025-09-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113027/two-persons-seriously-injured-in-an-explosion-in-kilinochchi) · `en`
+
+Two individuals sustained serious injuries following an explosion in Thattuvankotti, Kilinochchi this morning (29).
+
+The incident occurred when the two individuals, engaged in excavation work at an abandoned house, accidentally triggered a buried bomb that detonated while they were working.
+
+The two injured individuals have been admitted to the Kilinochchi Hospital for emergency treatment.
+
+◼️
+
+[Data](articles/467a5be2.json)
+
+[Extended Data](ext_articles/467a5be2.ext.json)
+
+---
+
+### Parliamentarian Ramanathan Archana bail
+
+*2025-09-29 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226406) · `ta`
+
+The arrested Jaffna district parliamentarian Ramanathan Archana has been granted bail.
+
+He has been released on two bodies worth Rs 10 lakh each by the Colombo Fort Magistrate's Court.
+
+Ramanathan Archana was arrested when he visited the Fort Police Station on Monday (29) morning.
+
+◼️
+
+[Data](articles/aceb2981.json)
+
+[Extended Data](ext_articles/aceb2981.ext.json)
 
 ---

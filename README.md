@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 22:38:11**
+As of **2025-09-29 23:20:23**
 
 ## Newspaper Stats
 
-*Scraped **79,630** Articles*
+*Scraped **79,632** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 468
-newsfirstlk | 489
+newsfirstlk | 490
 dbsjeyarajcom | 635
 bbccomsinhala | 709
 colombotelegraphcom | 800
@@ -21,17 +21,55 @@ adalk | 7,667
 adaderanalk | 10,274
 tamilmirrorlk | 11,918
 virakesarilk | 12,992
-adaderanasinhalalk | 13,786
+adaderanasinhalalk | 13,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,627 (100.0%) of 79,630 articles have been extended.
+79,631 (100.0%) of 79,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### EA Gets Acquired in a $55 Billion Deal—The Biggest Power-Up in Gaming History
+
+*2025-09-29 22:23:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/ea-gets-acquired-in-a-55-billion-deal%e2%80%94the-biggest-power-up-in-gaming-history) · `en`
+
+“Game Over? More like Level Up! EA Just Got Acquired in a $55 Billion Power Play”
+
+COLOMBO (News 1st); Electronic Arts (EA), the powerhouse behind franchises like FIFA, Madden NFL, and Battlefield, is about to hit a new high score.
+
+The gaming giant announced today (29) that it has entered into a definitive agreement to be acquired by an investor consortium led by Saudi Arabia’s Public Investment Fund (PIF), Silver Lake, and Affinity Partners in an all-cash deal valued at a jaw-dropping $55 billion—the largest all-cash sponsor take-private deal in history.
+
+Under the terms of the agreement, the consortium will acquire 100% of EA, with PIF rolling over its existing 9.9% stake. EA shareholders will receive $210 per share in cash, representing a 25% premium over EA’s unaffected share price of $168.32 as of September 25, 2025, and even topping its all-time high of $179.01 from August 14, 2025.
+
+...
+
+[Data](articles/139aefdd.json)
+
+[Extended Data](ext_articles/139aefdd.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ආයෝජන ප්‍රතිපත්ති ක්‍රියාත්මක වීම ගැන අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවට ගැටලුවක්
+
+*2025-09-29 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215155) · `si`
+
+ශ්‍රී ලංකාවේ විදේශ ආයෝජන ප්‍රතිපත්ති ක්‍රියාත්මක කිරීමේදී නොගැලපෙන ස්වභාවයක් දක්නට ලැබෙන බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව පවසයි.
+
+ඔවුන් නිකුත්කළ 2025 වසරට අදාළව ශ්‍රී ලංකාවේ ආයෝජන පසුබිම පිළිබඳ වාර්තාවේ දැක්වෙන්නේ නව පරිපාලනය යටතේ ඉහළ මට්ටමේ දේශපාලන අල්ලස් ඉල්ලීම් අඩු බවක් පෙනෙන්නට තිබුණද විශේෂයෙන් තහවුරු වූ වරප්‍රසාද ලත් කණ්ඩායම් විසින් ආරක්ෂා කරන ලද අංශ තුළ ආයතනික දූෂණය දිගටම සිදුකරගෙන යන බවය.
+
+2025 වසරට අදාළව ශ්‍රී ලංකාවේ ආයෝජන පසුබිම පිළිබඳ අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව ප්‍රකාශනයක් නිකුත්කර තිබේ.
+
+එහි දැක්වෙන්නේ ජාතික ජන බලවේග ආණ්ඩුව ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සහයෝගයෙන් කටයුතු කරමින් ආයෝජකයින්ට සහතිකයක් ලබාදුන්නද ඔවුන්ගේ අතීතයේ සිට පැවත එන බටහිර විරෝධී, මාක්ස්වාදී බලපෑම් සහිත මතවාද හේතුවෙන් ආයෝජකයින් බොහෝ දෙනෙක් ශ්‍රී ලංකාවේ ආයෝජනය කිරීම සම්බන්ධයෙන් අවිනිශ්චිත බවකින් පසුවන බවය.
+
+...
+
+[Data](articles/5c22130d.json)
+
+---
 
 ### President and the Minister of Defense
 
@@ -91,21 +129,25 @@ He said that there is any attempt to sabotage the investigations of bribery or c
 
 ---
 
-### உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் காப்பாளராக செந்தில் தொண்டமான்?
+### Senthil Thondaman is the guardian of the World Tamil Cultural Movement?
 
 *2025-09-29 21:47:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்-தமிழ்ப்-பண்பாட்டு-இயக்கத்தின்-காப்பாளராக-செந்தில்-தொண்டமான்/175-365499) · `ta`
 
-உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் காப்பாளராக பொறுப்பேற்குமாறு இ.தொ.கா தலைவர் செந்தில் தொண்டமானுக்கு உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தால் அழைப்பு விடுக்கப்பட்டுள்ளது.
+CWC leader Senthil Thondaman has been invited by the World Tamil Cultural Movement to take over as the guardian of the World Tamil Cultural Movement.
 
-இது குறித்து, உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தால் செந்தில் தொண்டமானுக்கு அனுப்பி வைக்கப்பட்டுள்ள கடிதத்தில்,
+In a letter sent to Senthil Thondaman by the World Tamil Cultural Movement,
 
-"தமிழ்ப் பண்பாட்டுத் தலைநகராக விளங்கும் யாழ்ப்பாணத்தில். தமிழ்ப் பண்பாட்டு வழி உலகளாவிய தமிழர்களை ஒருங்கிணைப்பதையும் தமிழ் மொழி வளர்ச்சி மற்றும் தமிழர் இன மேம்பாடு ஆகியவற்றுக்குப் பாடுபடுவதையும் நோக்கமாகக் கொண்டு உலகத் தமிழ்ப் பண்பாட்டு இயக்கம் (உ த ப இ) 1974 ஆம் ஆண்டில் ஆவணஞானி குரும்பசிட்டி கனகரத்தினம் அவர்களால் தோற்றுவிக்கப் பெற்றது.
+“In Jaffna, which is the capital of Tamil Cultural. In 1974, the World Tamil Cultural Movement (UP) was created by the documentary Kurumbasiti Kanagaratnam, aimed at integrating Tamils ​​worldwide and working for the development of Tamil language and the development of Tamil language.
 
-பத்துக்கும் மேற்பட்ட நாடுகளில் கிளைகளைக் கொண்டு, கடந்த 50 ஆண்டுகளாகத் தொய்வின்றித் தொடர்ந்து தமிழ் தமிழர் மேம்பாட்டுப் பணிகளை ஆற்றி வருகின்ற இவ்வியக்கம் அண்மையில் சென்னையில் பொன்விழாவைக் கோலாகலமாகக் கொண்டாடியது.
+With branches in more than ten countries, the Tamil Nadu Tamil Nadu has been carrying out the development of Tamil Tamil development for the past 50 years.
+
+In general, in the development of Tamil language, the Tamil ethnic development and the development of Tamil workers, they are constantly praised and admirable.
 
 ...
 
 [Data](articles/641f8402.json)
+
+[Extended Data](ext_articles/641f8402.ext.json)
 
 ---
 
@@ -153,19 +195,21 @@ Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to
 
 ---
 
-### ஜப்பான் தலைவர்களை சந்தித்தார் அநுர
+### Anura met Japanese leaders
 
 *2025-09-29 21:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தலைவர்களை-சந்தித்தார்-அநுர/175-365498) · `ta`
 
-ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அனுரகுமார திசாநாயக்கவுக்கான உத்தியோகபூர்வ வரவேற்பு நிகழ்வு இன்று (29) காலை ஜப்பான் பிரதமர் அலுவலகத்தில் நடைபெற்றது.
+The official reception for President Anura Kumara Dissanayake, who was on an official visit to Japan at the invitation of the Japanese government, was held this morning at the Japanese Prime Minister's Office.
 
-ஜப்பான் பிரதமர் அலுவலகத்திற்கு வந்த ஜனாதிபதி அநுரவை ஜப்பான் பிரதமர் அன்புடன் வரவேற்றார்.
+Japanese Prime Minister welcomed President Anura, who came to the Prime Minister's Office.
 
-இரு நாடுகளின் பிரதிநிதிகள் குழுவும் அறிமுகப்படுத்தப்பட்டதைத் தொடர்ந்து, ஜனாதிபதி அனுரகுமார திசாநாயக்கவிற்கும் ஜப்பான் பிரதமர் ஷிகெரு இஷிபாவிற்கும் இடையே உத்தியோகபூர்வ பேச்சுவார்த்தைகள் இடம்பெற்றுள்ளன.. R
+Following the introduction of the two countries' representatives, there have been official talks between President Anura Kumara Dissanayake and Japanese Prime Minister Shikheru Ishiba.. Remble
 
 ◼️
 
 [Data](articles/f2643640.json)
+
+[Extended Data](ext_articles/f2643640.ext.json)
 
 ---
 
@@ -211,17 +255,19 @@ The Prime Minister pointed out that the strengthening of social security is esse
 
 ---
 
-### பேருந்து விபத்தில் 12 பேர் படுகாயம்
+### 12 people injured in bus accident
 
 *2025-09-29 21:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-விபத்தில்-12-பேர்-படுகாயம்/175-365497) · `ta`
 
-பதுளை - கண்டி பிரதான வீதியின் கீர்த்திபண்டாரபுர பகுதியில், பேருந்து ஒன்று விபத்துக்குள்ளானது.
+A bus crashed into the Keertipandarapura area of ​​Badulla - Kandy main road.
 
-ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிச் சென்ற இந்த பேருந்து விபத்துக்குள்ளானதில் 12 பேர் காயமடைந்துள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+Police said 12 people were injured in the accident that carried out a garment industry employees.
 
 ◼️
 
 [Data](articles/a7b94371.json)
+
+[Extended Data](ext_articles/a7b94371.ext.json)
 
 ---
 
@@ -1966,51 +2012,5 @@ The Federation of the University Teachers' Associations (FUTA) says that the gov
 [Data](articles/02123331.json)
 
 [Extended Data](ext_articles/02123331.ext.json)
-
----
-
-### Appeals Court sets hearing for petition seeking to invalidate MP Upali Pannilage’s parliamentary seat
-
-*2025-09-29 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113030/appeals-court-sets-hearing-for-petition-seeking-to-invalidate-mp-upali-pannilages-parliamentary-seat) · `en`
-
-The Court of Appeal has scheduled a hearing for February 27, 2026 to consider a petition requesting an order to invalidate the parliamentary seat of Dr. Upali Pannilage.
-
-The petition was filed by Oshala Herath, the Chairman of the ‘Abhinawa Niwahal Peramuna’.
-
-The petition was taken up today (29) before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando.
-
-After reviewing the submissions presented by the legal representatives of both the petitioner and the respondent, the bench ordered that the case be scheduled for February 27, 2026, for further clarification and confirmation of facts.
-
-The petitioner states that Dr. Upali Pannilage was appointed as a National List MP of the National People’s Power (NPP) following the last general election.
-
-However, at the time of his appointment, he was reportedly serving as a Senior Lecturer at the University of Ruhuna, which, according to the petitioner, is a violation of election laws.
-
-...
-
-[Data](articles/a1cb0ffe.json)
-
-[Extended Data](ext_articles/a1cb0ffe.ext.json)
-
----
-
-### Setting up windmills in Mannar, people gathered against the anarchy of the police! ; Confiscation
-
-*2025-09-29 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226418) · `ta`
-
-The public crippling protest took place today (29) in Mannar, against the wind power plant in Mannar and the police attack on the people.. In order to attend, tens of thousands of people from many parts of the Mannar district have come to their opposition.
-
-The whole of Mannar district was invited to the public free today. The invitation was made by the Mannar Citizens Committee and the Struggle Group.
-
-Accordingly, since this morning, all the trade centers in all areas, including the Mannar Bazaar area, have been closed.
-
-All private transport services stopped. Fishermen in various villages do not go to the sea. Tens of thousands of people gathered at the Mannar Public Playground at around 10.30 am today.
-
-The protest rally began from the district public playground to protest the work of the windmill and the police.
-
-...
-
-[Data](articles/4de1e739.json)
-
-[Extended Data](ext_articles/4de1e739.ext.json)
 
 ---

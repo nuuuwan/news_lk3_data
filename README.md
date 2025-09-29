@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 09:56:44**
+As of **2025-09-29 10:21:06**
 
 ## Newspaper Stats
 
-*Scraped **79,371** Articles*
+*Scraped **79,374** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 419
-newsfirstlk | 464
+newsfirstlk | 467
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 798
@@ -27,25 +27,69 @@ adaderanasinhalalk | 13,758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,366 (100.0%) of 79,371 articles have been extended.
+79,374 (100.0%) of 79,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### பிறந்து சில நாட்களான பெண் குழந்தை உயிருடன் மீட்பு
+### Thriposha Production Temporarily Halted Due to Shortage of Maize
+
+*2025-09-29 09:45:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/thriposha-production-temporarily-halted-due-to-shortage-of-maize) · `en`
+
+COLOMBO (News 1st) - Thriposha production in Sri Lanka has been temporarily suspended.The Sri Lanka Thriposha Company announced that the suspension was due to the unavailability of maize required for production.Cabinet approval had earlier been granted to import 18,000 metric tons of maize for Thriposha production. However, the Controller General of Imports and Exports has presented amendments to the approval.Chairman of the Sri Lanka Thriposha Limited, Amal Attanayake, stated that until the new Cabinet paper, inclusive of those amendments, is presented to the Cabinet on the 7th and receives approval, the maize importation has been halted.As a result, production of Thriposha has been on hold since the 21st of September.The Chairman further noted that once maize imports resume after the 7th of October, Thriposha production will return to normal. He added that the stocks already produced are currently being distributed across the country.
+
+◼️
+
+[Data](articles/1a7c2b56.json)
+
+[Extended Data](ext_articles/1a7c2b56.ext.json)
+
+---
+
+### Rise in Dengue Cases Reported from Nine Districts
+
+*2025-09-29 09:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/rise-in-dengue-cases-reported-from-nine-districts) · `en`
+
+COLOMBO (News 1st) - The National Dengue Control Unit has announced that the number of dengue patients reported from nine districts has increased.Community Medical Specialist Dr. Prashila Samaraweera of the National Dengue Control Unit says that a total of 38,764 dengue patients have been reported from across the country during the recent period.
+
+◼️
+
+[Data](articles/f066e228.json)
+
+[Extended Data](ext_articles/f066e228.ext.json)
+
+---
+
+### Municipal Councilor Amal Silva Handed Over to Pinwatte Police
+
+*2025-09-29 09:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/municipal-councilor-amal-silva-handed-over-to-pinwatte-police) · `en`
+
+COLOMBO (News 1st) - The Walana Anti-Corruption Unit says that member of the Dehiwala-Mount Lavinia Municipal Council Amal Silva, who is in custody, has been handed over to the Pinwatte Police for further investigation. Police say that the suspect is scheduled to be produced before court.He was arrested yesterday for possessing three luxury jeeps, valued at over Rs. 60 million, allegedly imported illegally and registered under forged documents.Amal Silva is also a former member of the Western Provincial Council.
+
+◼️
+
+[Data](articles/60e38939.json)
+
+[Extended Data](ext_articles/60e38939.ext.json)
+
+---
+
+### A few days after the birth of a baby boy alive
 
 *2025-09-29 09:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறந்து-சில-நாட்களான-பெண்-குழந்தை-உயிருடன்-மீட்பு/175-365451) · `ta`
 
-ஒலுவில் பிரதேசத்தில் பிறந்து சில நாட்களான பெண் குழந்தை ஒன்று நேற்று உயிருடன் மீட்கப்பட்டுள்ளது.
+A few days after being born in Oluvil area, a baby girl was rescued yesterday.
 
-மீன்பிடிக்க சென்ற ஒருவரால் கொடுக்கப்பட்ட தகவலுக்கமைய குழந்தை மீட்கப்பட்டு ஒலுவில் பிரதேச வைத்தியசாலைக்கு கொண்டு சென்று தற்பொழுது அக்கரைப்பற்று ஆதார வைத்தியசாலைக்கு இடமாற்றம் செய்யப்பட்டுள்ளது.
+According to the information given by a person who went to the fishing, the child has been rescued and taken to the Oluvil Divisional Hospital and is now transferred to the Akkaraipattu Base Hospital.
 
-குறித்த குழந்தையை பொலிஸாரின் ஊடாக நீதிமன்றில் பாரப்படுத்த உரிய நடவடிக்கைகள் மேற்கொள்ளப்பட்டுள்ளதாக வைத்தியசாலை நிர்வாகம் குறிப்பிட்டுள்ளது. R
+The hospital administration has stated that the child has taken appropriate steps to be taken to court in court.. Remble
 
 ◼️
 
 [Data](articles/07242ca4.json)
+
+[Extended Data](ext_articles/07242ca4.ext.json)
 
 ---
 
@@ -68,6 +112,8 @@ In cases where rice is concealed, the court also has the authority to impose a f
 ...
 
 [Data](articles/99db72e0.json)
+
+[Extended Data](ext_articles/99db72e0.ext.json)
 
 ---
 
@@ -109,6 +155,8 @@ Peer influence has been identified as a major factor influencing school children
 
 [Data](articles/975623b3.json)
 
+[Extended Data](ext_articles/975623b3.ext.json)
+
 ---
 
 ### 15 children have escaped from detention
@@ -131,19 +179,21 @@ The child care officer has lodged a complaint with the child to escape children.
 
 ---
 
-### මත්ද්‍රව්‍ය-ජීව උණ්ඩ ඇතුළු හොරබඩු සමඟ අයෙක් මාට්ටු
+### Suspect arrested with drugs including drug bullets
 
 *2025-09-29 08:51:21* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතදරවය-ජව-උණඩ-ඇතළ-හරබඩ-සමඟ-අයක-මටට/1-680388) · `si`
 
-කොට්ටාව රුක්මලේ පාර ප්‍රදේශයේ සිදු කළ වැටලීමකදී හොරයින් මත්ද්‍රව‍්‍ය ජීව උණ්ඩ සහ වාහන අංක තහඩු සහ ඊට අදාළ ලිපි ලේඛන තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකාය කියයි.
+A person has been arrested in the Kottawa Rukmala road area and a large quantity of drug number plates and a large quantity of documents.
 
-එම සැකකරු සන්තකයේ තිබී හොරෙයින්  මත්ද්‍රව්‍ය ග්‍රෑම් 75 යි මිලිගෑම් 400 ක් විවිධ වර්ගයේ ජීව උණ්ඩ  458 ක් , ටි 56 පතොරොම්  ගැබ් එකක් , ව්‍යාජව සකස් කළ වාහනයක් අංක තහඩු 30 ක් , ආදායම් බලපත්‍ර සහ රක්ෂණ සහතික 30 හා ජංගම දුරකථන දෙකක් පොලිස් භාරයට ගෙන ඇත.
+The suspect was taken into police custody, 45 pills, 45 plates, 30 sheets of 400 gdies, 400 garments, 400 garments, 400 different bullets.
 
-පොලිස් විශේෂ කාර්ය බළකා ශ්‍රී ජයවර්ධනපුර කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත  අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 24 ක් වන මොරටුව අගුලාන පදිංචිකරුවෙකි.
+The suspect has been arrested according to police STF officials according to a tip off received by the officers of the Sri Jayewardenepura camp. The suspect is a 24-year-old resident of Moratuwa.
 
 ◼️
 
 [Data](articles/0a5065ad.json)
+
+[Extended Data](ext_articles/0a5065ad.ext.json)
 
 ---
 
@@ -342,6 +392,8 @@ The suspect has been handed over to the Western Province Southern Crime Division
 ◼️
 
 [Data](articles/23db3f9a.json)
+
+[Extended Data](ext_articles/23db3f9a.ext.json)
 
 ---
 
@@ -1986,71 +2038,5 @@ However, the minimum qualifying criteria should have to be 100,000 metric tons o
 [Data](articles/79c46b95.json)
 
 [Extended Data](ext_articles/79c46b95.ext.json)
-
----
-
-### Abroad
-
-*2025-09-28 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226346) · `ta`
-
-A baby girl has been rescued for a few days after being born in Oluvil area.
-
-The child has been rescued and taken to the Oluvil Divisional Hospital and is now transferred to the Akkaraipattu Resource Hospital.
-
-The child who was rescued in the Oluvil area, which belongs to the Akkaraipattu Police Division on Sunday (28), has been admitted to the Akkaraipattu Resource Hospital for treatment.
-
-The hospital administration has stated that appropriate measures have been taken to appoint the child in court through the police.
-
-◼️
-
-[Data](articles/b6863045.json)
-
-[Extended Data](ext_articles/b6863045.ext.json)
-
----
-
-### Sri Lanka becomes a drug manufacturing country
-
-*2025-09-28 18:37:20* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-නිෂ්පාදනය-කරන-රටක්-බවට-ලංකාව-පත්වීම-බරපතල-තත්ත්වයක්/11-418771) · `si`
-
-The Mahanayala Thera The General of Malwatte Sirindala, the General Mananayake, says that the appointment of Sri Lanka is a drug manufacturing country.
-
-He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowed down to see Him Eve.
-
-The Thera emphasized that the government has to implement a wide range of program to rescue the younger generation from the drug menace.
-
-The Thera emphasized that even though he rehabilitated rehabilitation of addicts, but the rehabilitation of the addicts should be addressed again.
-
-Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
-
-The Handisle was to expand the current center of the Handisa to have the rehabilitation of drug addicts and to prevent drug addicts and the president of the president is working on the next two to three weeks.
-
-...
-
-[Data](articles/2fb4a01e.json)
-
-[Extended Data](ext_articles/2fb4a01e.ext.json)
-
----
-
-### Unawatuna’s Sky Breeze Café wins global award
-
-*2025-09-28 18:36:00* · [`islandlk`](http://island.lk/unawatunas-sky-breeze-cafe-wins-global-award/) · `en`
-
-Sky Breeze, a beachside café in Unawatuna, has been honoured with the title “Best All-Day Scenic Dining Café Experience” at the Global Business Excellence Awards 2025.
-
-The London Business Consultancy, which organised the ceremony held in Colombo, presented the award, recognising the café’s unique semi fine dining experience. Sky Breeze offers a refined menu of familiar and coastal-inspired flavours in a relaxed, Balinese-inspired setting with open spaces and tropical design.
-
-Beyond all-day dining, the café is known for its weekly events, including fine dining nights, live music, and a monthly beach market, solidifying its reputation as a key dining destination on the southern coast.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c88c06c5.json)
-
-[Extended Data](ext_articles/c88c06c5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 23:20:23**
+As of **2025-09-29 23:57:23**
 
 ## Newspaper Stats
 
-*Scraped **79,632** Articles*
+*Scraped **79,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,667
-adaderanalk | 10,274
+adaderanalk | 10,280
 tamilmirrorlk | 11,918
 virakesarilk | 12,992
 adaderanasinhalalk | 13,787
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,631 (100.0%) of 79,632 articles have been extended.
+79,638 (100.0%) of 79,638 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,21 +53,27 @@ Under the terms of the agreement, the consortium will acquire 100% of EA, with P
 
 ---
 
-### ශ්‍රී ලංකාවේ ආයෝජන ප්‍රතිපත්ති ක්‍රියාත්මක වීම ගැන අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවට ගැටලුවක්
+### US State Department issues a problem for Sri Lanka's investment policies
 
 *2025-09-29 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215155) · `si`
 
-ශ්‍රී ලංකාවේ විදේශ ආයෝජන ප්‍රතිපත්ති ක්‍රියාත්මක කිරීමේදී නොගැලපෙන ස්වභාවයක් දක්නට ලැබෙන බව අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව පවසයි.
+The US Department of State says that Sri Lanka's foreign investment policies will be seen.
 
-ඔවුන් නිකුත්කළ 2025 වසරට අදාළව ශ්‍රී ලංකාවේ ආයෝජන පසුබිම පිළිබඳ වාර්තාවේ දැක්වෙන්නේ නව පරිපාලනය යටතේ ඉහළ මට්ටමේ දේශපාලන අල්ලස් ඉල්ලීම් අඩු බවක් පෙනෙන්නට තිබුණද විශේෂයෙන් තහවුරු වූ වරප්‍රසාද ලත් කණ්ඩායම් විසින් ආරක්ෂා කරන ලද අංශ තුළ ආයතනික දූෂණය දිගටම සිදුකරගෙන යන බවය.
+The Investment Background of the Sri Lanka Released on the year 2025, Sri Lanka's high level demands under the new administration, corporate corruption is continuing to continue the corporate corruption.
 
-2025 වසරට අදාළව ශ්‍රී ලංකාවේ ආයෝජන පසුබිම පිළිබඳ අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව ප්‍රකාශනයක් නිකුත්කර තිබේ.
+The US Department of State Department has issued a statement on the investment background of Sri Lanka in connection with the year 2025.
 
-එහි දැක්වෙන්නේ ජාතික ජන බලවේග ආණ්ඩුව ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සහයෝගයෙන් කටයුතු කරමින් ආයෝජකයින්ට සහතිකයක් ලබාදුන්නද ඔවුන්ගේ අතීතයේ සිට පැවත එන බටහිර විරෝධී, මාක්ස්වාදී බලපෑම් සහිත මතවාද හේතුවෙන් ආයෝජකයින් බොහෝ දෙනෙක් ශ්‍රී ලංකාවේ ආයෝජනය කිරීම සම්බන්ධයෙන් අවිනිශ්චිත බවකින් පසුවන බවය.
+It states that the national power collaboration with the International Monetary Fund, the West and Marxist effects of their past, many investors are uncertain about investing in Sri Lanka due to anti-Western, Marxist effects.
+
+The American State Department states that the Board of Investment of Sri Lanka is the main investment agent, which is not incompatible with the implementation of foreign investment policies in Sri Lanka.
+
+The report states that unwanted regulations have seen the weaknesses of legal uncertainty and the officers.
 
 ...
 
 [Data](articles/5c22130d.json)
+
+[Extended Data](ext_articles/5c22130d.ext.json)
 
 ---
 
@@ -86,6 +92,24 @@ Foreign, Foreign Employment and Tourism and Tourism Vijitha Herath and the Sri L
 [Data](articles/ca1ae3d1.json)
 
 [Extended Data](ext_articles/ca1ae3d1.ext.json)
+
+---
+
+### Sri Lanka’s investment climate remains challenging: US State Department
+
+*2025-09-29 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113049/sri-lankas-investment-climate-remains-challenging-us-state-department-) · `en`
+
+While 5 percent GDP growth in 2024 exceeded expectations, Sri Lanka’s investment climate remains challenging, according to the US Statement Department.
+
+While the sweeping electoral victories of President Anura Kumara Dissanayake and the National People’s Power (NPP) parliamentary coalition in late 2024 have provided political stability, in the 2025 Investment Climate Statement on Sri Lanka, the US State Department said NPP’s commitment to the country’s US$3 billion, four-year (2023-2027) Extended Fund Facility IMF program reassured investors, but many remain wary given the NPP leadership’s historically anti-Western, Marxist-influenced ideology.
+
+The report said foreign direct investment (FDI) remains constrained, with most transactions in the modest US$3 to US$5 million range.
+
+...
+
+[Data](articles/54baa19d.json)
+
+[Extended Data](ext_articles/54baa19d.ext.json)
 
 ---
 
@@ -213,6 +237,26 @@ Following the introduction of the two countries' representatives, there have bee
 
 ---
 
+### Prime Minister meets IMF Mission Chief for Sri Lanka
+
+*2025-09-29 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113048/prime-minister-meets-imf-mission-chief-for-sri-lanka) · `en`
+
+The Mission Chief for Sri Lanka of the International Monetary Fund (IMF), Evan Papageorgiou, met with Prime Minister Dr. Harini Amarasuriya at Temple Trees on September 29.
+
+During the meeting, Papageorgiou commended the government’s commitment to the ongoing reform programme, noting in particular the measures to strengthen governance and reduce corruption, the Prime Minister’s Media Division stated.
+
+He has also recognized the importance of tax policy reforms, especially with regard to exemptions and welcomed the allocation of resources in the 2026 national budget for the social protection system.
+
+The Prime Minister stressed that economic progress must align with the needs of the people and emphasized the government’s priority of attracting quality investments. Dr. Amarasuriya also highlighted that while strengthening social protection is vital, empowering economically vulnerable groups is essential to ensure long-term sustainability.
+
+...
+
+[Data](articles/47de2b3e.json)
+
+[Extended Data](ext_articles/47de2b3e.ext.json)
+
+---
+
 ### Bus to hospital at Kandy road
 
 *2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/101-680438) · `si`
@@ -268,6 +312,26 @@ Police said 12 people were injured in the accident that carried out a garment in
 [Data](articles/a7b94371.json)
 
 [Extended Data](ext_articles/a7b94371.ext.json)
+
+---
+
+### President discusses investment opportunities with Japanese business leaders
+
+*2025-09-29 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113046/president-discusses-investment-opportunities-with-japanese-business-leaders) · `en`
+
+President Anura Kumara Dissanayake participated in a roundtable discussion with leading Japanese business leaders today (29) at the headquarters of the Japan External Trade Organization (JETRO).
+
+The discussion was held with the participation of Ishiguro Norihiko, the Chairman and CEO of JETRO, and Fumihiko Kabayashi, the Chairman of the Japan–Sri Lanka Business Cooperation Committee (JSLBCC) and Chairman of ITOCHU Corporation.
+
+During the session, the President had outlined the new investment opportunities available in Sri Lanka and highlighted the measures taken by the government to create an investment-friendly environment while eliminating fraud and corruption.
+
+President Dissanayake has also emphasized the importance of strengthening trade cooperation between Sri Lanka and Japan, one of Sri Lanka’s key economic partners underscoring the mutual benefits that such collaboration would bring to both nations, according to the President’s Media Division.
+
+◼️
+
+[Data](articles/4d38f78d.json)
+
+[Extended Data](ext_articles/4d38f78d.ext.json)
 
 ---
 
@@ -351,6 +415,26 @@ A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa 
 
 ---
 
+### 12 injured in bus accident in Randenigala
+
+*2025-09-29 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113045/12-injured-in-bus-accident-in-randenigala) · `en`
+
+At least 12 individuals have sustained injuries in an accident reported along the Kandy-Badulla main road in Randenigala this evening (29), police stated.
+
+A private bus belonging to an apparel factory met with an accident between the 36th and 37th mileposts in Randenigala.
+
+The accident occurred due to a sudden mechanical failure of the bus, according to police.
+
+Twelve passengers on the bus sustained injuries and have been admitted to the Kandeketiya District Hospital for treatment.
+
+◼️
+
+[Data](articles/107868b4.json)
+
+[Extended Data](ext_articles/107868b4.ext.json)
+
+---
+
 ### Randenigala bus accident to hospital
 
 *2025-09-29 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215151) · `si`
@@ -384,6 +468,28 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Her
 [Data](articles/6512e908.json)
 
 [Extended Data](ext_articles/6512e908.ext.json)
+
+---
+
+### UK plans tougher rules for migrants seeking to stay in country
+
+*2025-09-29 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113044/uk-plans-tougher-rules-for-migrants-seeking-to-stay-in-country) · `en`
+
+Britain’s interior minister on Monday (Sep 29) proposed tough new rules for migrants seeking to settle in the United Kingdom, as the ruling Labour Party bolstered its fight against the hard right at its annual conference.
+
+Migrants looking to remain indefinitely will have to have a job, not claim benefits, and undertake volunteer community work under plans designed to claw back support among voters drawn to the anti-immigrant Reform UK party, whose popularity is soaring.
+
+Confronting Reform, led by firebrand Nigel Farage, is the main theme of Labour’s four-day gathering in Liverpool, northwest England.
+
+Currently, migrants with family in Britain and who have lived there for five years qualify for “indefinite leave to remain” - permanent residence - as do those who have lived legally in the UK for 10 years on any type of visa.
+
+Eligible applicants meeting those thresholds also earn the right to live, work and study in the UK and to apply for benefits and British citizenship.
+
+...
+
+[Data](articles/5568459d.json)
+
+[Extended Data](ext_articles/5568459d.ext.json)
 
 ---
 
@@ -500,6 +606,26 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/a4fd73ab.json)
 
 [Extended Data](ext_articles/a4fd73ab.ext.json)
+
+---
+
+### Defence Ministry to get tough on the use of ‘Hakka Patas’ or ‘Cheena Patas’
+
+*2025-09-29 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113043/defence-ministry-to-get-tough-on-the-use-of-hakka-patas-or-cheena-patas) · `en`
+
+The Ministry of Defence has advised the general public to refrain from using illegal explosives and to assist by reporting any incidents of manufacturing, possessing, or selling the already prohibited “Hakka Patas” or “Cheena Patas” used to produce them, to the nearest police station or wildlife authorities.
+
+The Defence Ministry said it has been reported that an illegal explosive called “Cheena Patas” is being produced in some parts of the island using raw materials and other chemicals issued for the firecracker and fireworks industry.
+
+Information has also been received that another illegal explosive called “Hakka Patas” is being manufactured using “Cheena Patas” and the raw materials used for firecracker and fireworks production, the Ministry added.
+
+These illegal explosives are reportedly used widely to deter wild animals from harming farmlands. However, reports indicate that these explosives have caused severe injuries and deaths to both people and wild animals in the recent past.
+
+...
+
+[Data](articles/1fceb58b.json)
+
+[Extended Data](ext_articles/1fceb58b.ext.json)
 
 ---
 
@@ -1894,123 +2020,5 @@ COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake met Japanese P
 [Data](articles/41df1bec.json)
 
 [Extended Data](ext_articles/41df1bec.ext.json)
-
----
-
-### Ice's couple Killadi: 3 homes stuck
-
-*2025-09-29 16:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஐஸ்-ஜோடி-கிள்ளாடி-தங்கியிருந்த-3-வீடுகளிலும்-சிக்கின/76-365486) · `ta`
-
-Police have searched three houses where the Ice drug -arrested couple was arrested and seized ice drugs and equipment.
-
-The couple were arrested in Nawalapitiya on the 25th of this month.  During the raid carried out by the woman, 52 buckets of ice were seized in her underwear.
-
-They were produced at the Nawalapitiya court. The husband was received by the police for 7 days detention order. The five -month -old wife has been kept in detention until the 15th of this month.
-
-In this case, the 22 -year -old husband took the three houses where they were staying.  Ice drugs and equipment have been recovered from two houses.
-
-Ice buckets and equipment have been recovered as the house in the Udagama - Angellapitiya area on Gampola, Gampola, Gampola, and the house on the Chinghapitiya area on the Gampola, Tholaspagai road
-
-The suspect has made two marriages. The first wife has a 15 -month -old baby.
-
-◼️
-
-[Data](articles/b50a3317.json)
-
-[Extended Data](ext_articles/b50a3317.ext.json)
-
----
-
-### University lecturers to launch strike tomorrow over several issues
-
-*2025-09-29 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113032/university-lecturers-to-launch-strike-tomorrow-over-several-issues-) · `en`
-
-The Federation of University Teachers’ Associations (FUTA) has announced that university lecturers will engage in strike action tomorrow (30) due to the government’s continued failure to resolve the pressing issues within the university system.
-
-FUTA Secretary, Senior Lecturer Charudaththe Ilangasinghe, made this statement during a media conference held today (29).
-
-He stated that although it has been a year since the current government came into power, there has still been no resolution to the ongoing crises affecting state universities.
-
-Charudaththe Ilangasinghe further emphasized that the public education in the country is currently facing a severe crisis.
-
-Ilangasinghe also highlighted the serious shortage of university lecturers, noting that over 200 lecturers have left the University of Peradeniya alone within the past year.
-
-◼️
-
-[Data](articles/319d93f8.json)
-
-[Extended Data](ext_articles/319d93f8.ext.json)
-
----
-
-### Moody’s affirms India’s Baa3 rating, maintains stable outlook
-
-*2025-09-29 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113031/moodys-affirms-indias-baa3-rating-maintains-stable-outlook) · `en`
-
-Moody’s Ratings on Monday affirmed the Government of India’s long-term local and foreign-currency issuer ratings and the local-currency senior unsecured rating at Baa3. The ratings agency also affirmed India’s other short-term local-currency rating at P-3. The outlook remains stable.
-
-“The rating affirmation and stable outlook reflect our view that India’s prevailing credit strengths, including its large, fast-growing economy, sound external position and stable domestic financing base for ongoing fiscal deficits, will be sustained,” it said.
-
-These strengths lend resilience to adverse external trends, in particular as high US (Aa1 stable) tariffs and other international policy measures hinder India’s capacity to attract manufacturing investment, it added. India’s credit strengths are balanced by long-standing weaknesses on the fiscal side, which will remain.
-
-...
-
-[Data](articles/18e8449e.json)
-
-[Extended Data](ext_articles/18e8449e.ext.json)
-
----
-
-### Sri Lanka Secures Major Japanese Support for Growth and Stability
-
-*2025-09-29 15:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka-secures-major-japanese-support-for-growth-and-stability) · `en`
-
-COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake met Japanese Prime Minister Ishiba Shigeru in Tokyo on Monday (29), reaffirming the two nations’ commitment to deepen their longstanding partnership across economic, security, and development spheres.
-
-In a joint statement issued after the talks, both leaders underscored their intention to expand cooperation under the Comprehensive Partnership framework.
-
-The discussions focused on economic recovery, infrastructure development, trade, and regional security.
-
-Prime Minister Ishiba praised Sri Lanka’s progress in stabilizing its economy through IMF-backed reforms and debt restructuring. He reiterated Japan’s continued support for these efforts, highlighting Japan’s role as a co-chair of the Official Creditor Committee and its early bilateral agreement on debt restructuring earlier this year.
-
-...
-
-[Data](articles/59f61153.json)
-
-[Extended Data](ext_articles/59f61153.ext.json)
-
----
-
-### Elephants and human beings emphasize the uncontrollable life in Jaffna
-
-*2025-09-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226419) · `ta`
-
-Elephants and human beings were held in Jaffna on Monday (29) to emphasize the uncontrollable life of the public.
-
-Jaffna organized by the Sri Lanka Wild Elephant Protection Association. The signature operations were carried out on Monday in the city and Tuesday in other parts of the city.
-
-It is reported that the signature collection that has begun nationwide will continue in the Northern Province, under the theme "Do not kill elephants for your greed."
-
-Manoharan Sasikaran, Coordinator of the Northern Province of the Sri Lanka Wild Elephant Protection Association and members from Colombo participated in the event.
-
-◼️
-
-[Data](articles/0da03397.json)
-
-[Extended Data](ext_articles/0da03397.ext.json)
-
----
-
-### University lecturers on strike tomorrow
-
-*2025-09-29 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215139) · `si`
-
-The Federation of the University Teachers' Associations (FUTA) says that the government has failed to solve the problems of the university system.
-
-◼️
-
-[Data](articles/02123331.json)
-
-[Extended Data](ext_articles/02123331.ext.json)
 
 ---

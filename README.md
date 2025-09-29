@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 19:56:07**
+As of **2025-09-29 20:09:58**
 
 ## Newspaper Stats
 
-*Scraped **79,592** Articles*
+*Scraped **79,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,665
+adalk | 7,666
 adaderanalk | 10,270
 tamilmirrorlk | 11,914
 virakesarilk | 12,986
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,592 (100.0%) of 79,592 articles have been extended.
+79,592 (100.0%) of 79,593 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -650,6 +650,22 @@ Moreover, a bomb disposal team was also deployed outside the politician’s hous
 [Data](articles/b3753969.json)
 
 [Extended Data](ext_articles/b3753969.ext.json)
+
+---
+
+### වරෙන්තු නිකුත් වූ සජබ මහ ලේකම් අධිකරණයට ඉදිරිපත් වෙයි
+
+*2025-09-29 16:41:36* · [`adalk`](https://www.ada.lk/breaking_news/වරෙන්තු-නිකුත්-වූ-සජබ-මහ-ලේකම්-අධිකරණයට-ඉදිරිපත්-වෙයි/11-418794) · `si`
+
+පසුගිය පළාත් පාලන මැතිවරණයේ වියදම් වාර්තා නිසි ලෙස ඉදිරිපත් නොකිරීමේ චෝදනාව මත වරෙන්තු නිකුත් වූ ස.ජ.බ මහ ලේකම් රංජිත් මද්ධුමබණ්ඩාර නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් වෙයි.
+
+පසුගිය පළාත් පාලන මැතිවරණයේ නුවරඑළිය දිස්ත්‍රික්කයට අදාළ පක්ෂ කාර්යාලය විසින් මැතිවරණ කොමිෂන් සභාවට ඉදිරිපත් කළ යුතු මැතිවරණ වියදම් වාර්තාව නිසි වේලාවට ඉදිරිපත් නොකිරීම මත ගොනු කරනු ලැබූ නඩුවට අදාළව නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු නිකුත් කර තිබූ සමගි ජන බලවේගය පක්ෂ මහලේකම් රංජිත් මද්දුමණ්ඩාර මහතා අද (29) නීතිඥවරු හරහා නුවරඑළිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් විය.
+
+අධිකරණයට ඉදිරිපත් වීමෙන් අනතුරුව අධිකරණ සංකීර්ණයෙන් පිටතට පැමිණි සමගි ජන බලවේග මහලේකම් රංජිත් මද්ධුම බණ්ඩාර මහතා මාධ්‍යය වෙත අදහස් දැක්වෙමින් කියා සිටියේ මැතිවරණ කොමිෂන් සභාවේ නිසි සන්නිවේදනයක් නොමැතිකමින් කාල වේලාවන් නිකරුනේ ගතකරමින් නඩුවකට පෙනී සිටීමට සිදුවූ බවයි.
+
+...
+
+[Data](articles/c9d093a6.json)
 
 ---
 
@@ -1940,25 +1956,5 @@ Police investigations have revealed that he was suspended as he was on duty at t
 [Data](articles/8289a2c5.json)
 
 [Extended Data](ext_articles/8289a2c5.ext.json)
-
----
-
-### Court sets date to hear Champika Ranawaka’s petition over ‘hit -and-run’ case
-
-*2025-09-29 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113024/court-sets-date-to-hear-champika-ranawakas-petition-over-hit-and-run-case) · `en`
-
-The Court of Appeal has scheduled the hearing of former Minister Patali Champika Ranawaka’s writ petition seeking to annul charges filed against him over the 2016 hit-and-run incident on November 24.
-
-The petition was called before Court of Appeal Justice Frank Gunawardena today (29), Ada Derana reporter said.
-
-Accordingly, the judge, considering a request made by Attorney Amarasiri Panditharatne, appearing for Patali Champika Ranawaka, ordered that the relevant petition be called for hearing on November 24.
-
-The Attorney General had filed an indictment against former Minister Patali Champika Ranawaka before the Colombo High Court during the tenure of former president Gotabaya Rajapaksa for causing a motor accident by reckless driving on February 28, 2016 in Rajagiriya.
-
-...
-
-[Data](articles/9fcb2e15.json)
-
-[Extended Data](ext_articles/9fcb2e15.ext.json)
 
 ---

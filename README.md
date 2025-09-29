@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 22:55:14**
+As of **2025-09-29 22:38:11**
 
 ## Newspaper Stats
 
-*Scraped **79,631** Articles*
+*Scraped **79,630** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 468
-newsfirstlk | 490
+newsfirstlk | 489
 dbsjeyarajcom | 635
 bbccomsinhala | 709
 colombotelegraphcom | 800
@@ -27,29 +27,11 @@ adaderanasinhalalk | 13,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,627 (100.0%) of 79,631 articles have been extended.
+79,627 (100.0%) of 79,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### EA Gets Acquired in a $55 Billion Deal—The Biggest Power-Up in Gaming History
-
-*2025-09-29 22:23:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/ea-gets-acquired-in-a-55-billion-deal%e2%80%94the-biggest-power-up-in-gaming-history) · `en`
-
-“Game Over? More like Level Up! EA Just Got Acquired in a $55 Billion Power Play”
-
-COLOMBO (News 1st); Electronic Arts (EA), the powerhouse behind franchises like FIFA, Madden NFL, and Battlefield, is about to hit a new high score.
-
-The gaming giant announced today (29) that it has entered into a definitive agreement to be acquired by an investor consortium led by Saudi Arabia’s Public Investment Fund (PIF), Silver Lake, and Affinity Partners in an all-cash deal valued at a jaw-dropping $55 billion—the largest all-cash sponsor take-private deal in history.
-
-Under the terms of the agreement, the consortium will acquire 100% of EA, with PIF rolling over its existing 9.9% stake. EA shareholders will receive $210 per share in cash, representing a 25% premium over EA’s unaffected share price of $168.32 as of September 25, 2025, and even topping its all-time high of $179.01 from August 14, 2025.
-
-...
-
-[Data](articles/139aefdd.json)
-
----
 
 ### President and the Minister of Defense
 
@@ -2008,5 +1990,27 @@ However, at the time of his appointment, he was reportedly serving as a Senior L
 [Data](articles/a1cb0ffe.json)
 
 [Extended Data](ext_articles/a1cb0ffe.ext.json)
+
+---
+
+### Setting up windmills in Mannar, people gathered against the anarchy of the police! ; Confiscation
+
+*2025-09-29 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226418) · `ta`
+
+The public crippling protest took place today (29) in Mannar, against the wind power plant in Mannar and the police attack on the people.. In order to attend, tens of thousands of people from many parts of the Mannar district have come to their opposition.
+
+The whole of Mannar district was invited to the public free today. The invitation was made by the Mannar Citizens Committee and the Struggle Group.
+
+Accordingly, since this morning, all the trade centers in all areas, including the Mannar Bazaar area, have been closed.
+
+All private transport services stopped. Fishermen in various villages do not go to the sea. Tens of thousands of people gathered at the Mannar Public Playground at around 10.30 am today.
+
+The protest rally began from the district public playground to protest the work of the windmill and the police.
+
+...
+
+[Data](articles/4de1e739.json)
+
+[Extended Data](ext_articles/4de1e739.ext.json)
 
 ---

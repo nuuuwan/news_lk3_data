@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 14:56:53**
+As of **2025-09-29 15:39:06**
 
 ## Newspaper Stats
 
-*Scraped **79,476** Articles*
+*Scraped **79,510** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 432
-newsfirstlk | 481
+lankadeepalk | 437
+newsfirstlk | 482
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -17,21 +17,243 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,659
-adaderanalk | 10,248
-tamilmirrorlk | 11,900
-virakesarilk | 12,955
-adaderanasinhalalk | 13,767
+adalk | 7,660
+adaderanalk | 10,257
+tamilmirrorlk | 11,903
+virakesarilk | 12,968
+adaderanasinhalalk | 13,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,472 (100.0%) of 79,476 articles have been extended.
+79,501 (100.0%) of 79,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### குரங்குகளுக்கு பாலியல் நோய்
+
+*2025-09-29 15:18:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளுக்கு-பாலியல்-நோய்/175-365483) · `ta`
+
+பொலன்னறுவை புனித தலத்தைச் சுற்றி வாழும் குரங்குகள் மற்றும் பபூன்களிடையே பாலியல் ரீதியாக பரவும் நோயான `சிபிலிஸ்’ பரவும் வீதம் அதிகரித்துள்ளமை கண்டறியப்பட்டுள்ளது.
+
+பொலன்னறுவை மாவட்டத்தில் குரங்குகள் மற்றும் பபூன்கள் மத்தியில் இந்த நோய் பரவி வருவதாக கிழக்கு சுகாதார மேலாண்மை பிரிவின் கால்நடை மருத்துவர் நிஹால் புஷ்ப குமார தெரிவித்தார்.
+
+குரங்குகள் மற்றும் பபூன்களிடையே இந்த நோய் பரவியதா என்பது கடந்த ஆண்டு நடத்தப்பட்ட சோதனைகள் ஊடாக  வெளிப்படுத்தவில்லை என்றாலும், இந்த ஆண்டு நடத்தப்பட்ட சோதனைகளில் இது   உறுதிப்படுத்தப்பட்டுள்ளது.
+
+புனித தலத்தைச் சுற்றித் திரியும் குரங்குகள் மற்றும் பபூன்கள் கூட்டங்களிடையே இந்த நோய் பரவுவது அதிகமாகக் காணப்படுவதாகவும் அவர் வலியுறுத்தினார்.
+
+மேலும் சிபிலிஸால் பாதிக்கப்பட்ட பல குரங்குகள் மற்றும் எலிகள் 2023-2024 ஆம் ஆண்டுகளிலும்  நடத்தப்பட்ட சோதனைகளின் ஊடாக அடையாளம் காணப்பட்டன.
+
+◼️
+
+[Data](articles/54c78270.json)
+
+---
+
+### கிளிநொச்சியில் பாழடைந்த வீடொன்றுக்குள் வெடிப்பு சம்பவம்: இருவர் காயம்
+
+*2025-09-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226407) · `ta`
+
+கிளிநொச்சியில் உள்ள பாழடைந்த வீடொன்றுக்குள் ஏற்பட்ட வெடிப்பு சம்பவத்தில் இரண்டு பேர் காயமடைந்துள்ளனர்.
+
+பாழடைந்த வீடொன்றை புனரமைக்கச் சென்ற இருவர் தங்கள் வேலையைச் செய்து கொண்டிருந்தபோது, வீட்டில் புதைக்கப்பட்டிருந்த வெடிகுண்டு வெடித்ததில் காயமடைந்துள்ளனர்.
+
+வெடிப்பு சம்பவத்தின் போது பலத்த காயமடைந்த இருவரும் அவசர சிகிச்சைக்காக கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/f0bb3f5e.json)
+
+---
+
+### இராணுவக் கொடிகளுக்கு ஸ்ரீ தலதா மாளிகையில் ஆசீர்வாதம்
+
+*2025-09-29 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226414) · `ta`
+
+இலங்கை இராணுவத்தின் 76வது ஆண்டு நிறைவை நினைவுகூரும் வகையில் ஏற்பாடு செய்யப்பட்ட சிறப்பு மத நிகழ்ச்சிகளின் ஒரு பகுதியாக, இராணுவக் கொடிகளுக்கு ஸ்ரீ தலதா மாளிகையில் ஆசீர்வாதம் பெறும் விழா ஞாயிற்றுக்கிழமை (28) கண்டியில் உள்ள ஸ்ரீ தலதா மாளிகை வளாகத்தில் நடைபெற்றது.
+
+இந்த நிகழ்ச்சி இராணுவத் தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ தலைமையில் நடைபெற்றது.
+
+இராணுவத்தின் அனைத்து படையணிகளையும் பிரதிநிதித்துவப்படுத்தி சிரேஷ்ட அதிகாரிகள், அதிகாரிகள் மற்றும் சிப்பாய்கள் இந்த நிகழ்வில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/175a1a96.json)
+
+---
+
+### அமல் சில்வாவுக்கு பிணை!
+
+*2025-09-29 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226413) · `ta`
+
+முன்னாள் மேல் மாகாண சபை உறுப்பினர் அமல் சில்வாவை பிணையில் விடுதலை செய்யுமாறு பாணந்துறை நீதவான் நீதிமன்றம் இன்று திங்கட்கிழமை (29) உத்தரவிட்டுள்ளது.
+
+அதன்படி, அமல் சில்வாவை 50 இலட்சம் ரூபா பெறுமதியான இரண்டு சரீர பிணைகளில் விடுதலை செய்யுமாறு நீதவான் உத்தரவிட்டுள்ளார்.
+
+6 கோடி ரூபாய் பெறுமதியான மூன்று ஜீப் வாகனங்களை சட்டவிரோதமாக இறக்குமதி செய்து, அதற்கு போலி ஆவணங்களை தயாரித்த குற்றச்சாட்டில்  அமல் சில்வா வலான ஊழல் ஒழிப்பு பிரிவு அதிகாரிகளால் நேற்று ஞாயிற்றுக்கிழமை (28) கைதுசெய்யப்பட்டுள்ளார்.
+
+கைதுசெய்யப்பட்ட முன்னாள் மேல் மாகாண சபை உறுப்பினர் அமல் சில்வா பாணந்துறை நீதவான் நீதிமன்றில் இன்று ஆஜர்படுத்தப்பட்டதையடுத்து பிணையில் விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3919b984.json)
+
+---
+
+### 25 doctors recruit for the police medical service unit
+
+*2025-09-29 15:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-வைத்திய-சேவைப்-பிரிவிற்கு-25-வைத்தியர்கள்-ஆட்சேர்ப்பு/175-365482) · `ta`
+
+◼️
+
+[Data](articles/bb8cc32a.json)
+
+[Extended Data](ext_articles/bb8cc32a.ext.json)
+
+---
+
+### Politics won the Asian Cup final…! ; Both countries to take charge of
+
+*2025-09-29 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226410) · `ta`
+
+The Indian team won the Asian Bowl in Dubai on Sunday in Dubai and won the Asian Cup for the ninth time. However, the fact that the two captains behaved during the prize giving have caused furious and anger among the cricket match enthusiasts.
+
+When Pakistan won the second place, he bought it and threw it at the stadium when he was given the cash card.. At the same time, the Indian team celebrated their victory without the victory.
+
+There are many events that have never been featured in a series of cricket or competition, only among the Indian Pakistan teams in the Asian Cup series.. In the first match where the two teams clashed at the beginning, the two captain did not shake hands. Though the Indian team won the match, the team players left the stadium without joining hands with Pakistan.
+
+...
+
+[Data](articles/abde6fe8.json)
+
+[Extended Data](ext_articles/abde6fe8.ext.json)
+
+---
+
+### Miss Grand International - 2025 Sri Lankan woman participating in beauty
+
+*2025-09-29 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226408) · `ta`
+
+A woman named Dishani Perera will participate in Sri Lanka representing Sri Lanka in the 12th Miss Grand International - 2025 beauty pageant in Thailand.
+
+A woman named Tishani Perera left Thailand from Katunayake airport at 1:30 am today (29) to participate in the beauty pageant.
+
+The beauty of the beauty will be held in Bangkok, Thailand from September 30 to October 18.
+
+◼️
+
+[Data](articles/90237897.json)
+
+[Extended Data](ext_articles/90237897.ext.json)
+
+---
+
+### Action order for Archana
+
+*2025-09-29 14:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-அதிரடி-உத்தரவு/175-365481) · `ta`
+
+Parliamentarian Ramanathan Aruchuna, who was on his way to the Paraikkottai police station this morning to present a affidavit, was arrested after his affidavit.
+
+When the Magistrate was produced before the court, the magistrate ordered him to be released on bail.
+
+◼️
+
+[Data](articles/b5cbda01.json)
+
+[Extended Data](ext_articles/b5cbda01.ext.json)
+
+---
+
+### Parliamentarian Ramanathan Archana bail
+
+*2025-09-29 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226406) · `ta`
+
+The arrested Jaffna district parliamentarian Ramanathan Archana has been granted bail.
+
+He has been released on two bodies worth Rs 10 lakh each by the Colombo Fort Magistrate's Court.
+
+Ramanathan Archana was arrested when he visited the Fort Police Station on Monday (29) morning.
+
+◼️
+
+[Data](articles/aceb2981.json)
+
+[Extended Data](ext_articles/aceb2981.ext.json)
+
+---
+
+### Former Minister Patali Champika Ranawaka's plea
+
+*2025-09-29 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226405) · `ta`
+
+The court has announced the date of hearing the petition of former minister Patali Champika Ranawaka.
+
+The Court of Appeal has announced that the petition filed by former minister Patali Champika Ranawaka will be taken up for hearing on November 24 demanding the cancellation of the allegations filed against him in connection with the 2016 vehicle accident.
+
+The petition was taken up for hearing in the presence of Appeal Court Judge Frank Gunawardena on Monday (29).
+
+The judge considering the request of Attorney -at -Law Amarasiri Panditharatne on behalf of Patali Champika Ranawaka and ordered the relevant petition to be heard on November 24.
+
+During the tenure of former President Gotabhaya Rajapakse, the Attorney General had filed an indictment in the Colombo High Court against former minister Patali Champika Ranawaka in connection with the accident in Rajagiriya on February 28, 2016.
+
+...
+
+[Data](articles/9383431f.json)
+
+[Extended Data](ext_articles/9383431f.ext.json)
+
+---
+
+### MP Archchuna Released on Bail After Arrest
+
+*2025-09-29 14:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/mp-archchuna-released-on-bail-after-arrest) · `en`
+
+COLOMBO (News1st); Jaffna District Member of Parliament Dr. Ramanathan Archchuna was released on two personal bail bonds of one million rupees each, following his arrest earlier in the day in connection with an ongoing investigation into a recent protest incident in Colombo.
+
+The arrest took place when the MP arrived at the Fort Police Station to provide a statement regarding allegations that he had verbally abused a police officer during a satyagraha demonstration held in the Fort area.
+
+◼️
+
+[Data](articles/e1856e59.json)
+
+[Extended Data](ext_articles/e1856e59.ext.json)
+
+---
+
+### Paraicuna released on bail
+
+*2025-09-29 14:38:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනතර-අරචනට-ඇප/1-680418) · `si`
+
+Fort Magistrate Isurra Neththikumara ordered that MP Dr. Ramanathan, who was arrested in two charges including criminal force of a police officer on the duties of a police officer.
+
+The other charge against him was the other accusation against him. He welcomed the guilty of the court. The allegations are to be filed in the other accusation.
+
+◼️
+
+[Data](articles/4bdcf9f6.json)
+
+[Extended Data](ext_articles/4bdcf9f6.ext.json)
+
+---
+
+### Proper database has not yet been taken regarding reading of Sri Lankan books
+
+*2025-09-29 14:38:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/මරට-පත-කයවම-ගන-නස-දතත-සමකෂණයක-තවමත-සදවල-න/2-680417) · `si`
+
+Since 2004, the month of October has been declared as a National Reading Month. Accordingly, the theme of the theme of 2025 is based on the National Reading Month of this year, based on the theme of the year.
+
+The National Reading Month is on October.   Concurrently, in October, school library date and library web have been engaged in. School Library Week is the last week of October every year and Monday is the school library day. Accordingly, the year 2025 will be operated from Monday, October 27 to October 31st. It is to be celebrated in schools through the theme "Let's Read Books". The beginning of the entire society is the beginning of the school. Therefore, the importance of reading the book for schools is a valuable activity to read the importance of the book.
+
+...
+
+[Data](articles/ca8bf62b.json)
+
+[Extended Data](ext_articles/ca8bf62b.ext.json)
+
+---
 
 ### Sri Lanka Drafts First-Ever National Heritage Policy
 
@@ -46,6 +268,8 @@ The expert committee has proposed a consultative process, where individuals with
 ◼️
 
 [Data](articles/23055944.json)
+
+[Extended Data](ext_articles/23055944.ext.json)
 
 ---
 
@@ -65,6 +289,26 @@ He pointed to the absence of policy direction, integrity, and respect for law, n
 
 [Data](articles/1a1af46b.json)
 
+[Extended Data](ext_articles/1a1af46b.ext.json)
+
+---
+
+### Architida released on bail
+
+*2025-09-29 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215136) · `si`
+
+MP Ramanathan Arachchi has been granted bail to the arrest and produced before the court.
+
+He had been arrested when he visited the Fort Police Station this morning.
+
+The MP had been interrupted during a Sathyagraha in front of the Colombo Fort Railway Station, and the MP had been arrested when the MP arrived at the Fort Police regarding the investigation into the incident.
+
+◼️
+
+[Data](articles/71bced88.json)
+
+[Extended Data](ext_articles/71bced88.ext.json)
+
 ---
 
 ### Archchuna Arrested Over Alleged Abuse of Police
@@ -82,6 +326,48 @@ The arrest was made when the MP arrived at the station with regard to the ongoin
 [Data](articles/143b503d.json)
 
 [Extended Data](ext_articles/143b503d.ext.json)
+
+---
+
+### Japan meets the Prime Minister of Japan
+
+*2025-09-29 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215135) · `si`
+
+Tokyo Shiri Shire Dissanayake and Japanese Prime Minister Izuba Shiriyro have been found in Japan.
+
+The purpose of both sides, recalls the long-term friendly relations between Japan and Sri Lanka, and the two countries have reaffirmed to further strengthened and expanding cooperation in the fields of deeper and economic cooperation.
+
+The Prime Minister of the Japanese commemorated his journey to restore the Sri Lankan economy by continuing implementation of the International Finance Fund Program and restructuring the Sri Lankan reform effort.
+
+President Anura Kumara Dissanayake thanked the Leader of the Official Borrower and a member of the Official Borrower Committee to end the restructuring process of Sri Lanka and the first official borrower committee of the Official Borrower Committee in March this year.
+
+In 2024, the President expressed his gratitude to the continued support given to 11 loan projects that had been signed before the country.
+
+...
+
+[Data](articles/d7d79bb8.json)
+
+[Extended Data](ext_articles/d7d79bb8.ext.json)
+
+---
+
+### Two hospitalized in explosion
+
+*2025-09-29 14:02:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පපරමකන-දනනක-රහල/1-680416) · `si`
+
+Two persons were injured in the explosion in Kilinochchi, police said.
+
+The explosion occurred in the Galinochchi Tatunkola area in Kilinochchi today (29).
+
+A bomb exploded while conducting an excavation work in a dropped house and suspected that the two persons were injured.
+
+The victims have been admitted to the Kilinochchi District hospital and the Kilinochchi police are conducting further investigations.
+
+◼️
+
+[Data](articles/7cbd5d2b.json)
+
+[Extended Data](ext_articles/7cbd5d2b.ext.json)
 
 ---
 
@@ -105,6 +391,90 @@ The victims have been admitted to the Kilinochchi District hospital and the Kili
 
 ---
 
+### Sri Lanka and Japan agree to expand security and economic ties
+
+*2025-09-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113025/sri-lanka-and-japan-agree-to-expand-security-and-economic-ties) · `en`
+
+President Anura Kumara Dissanayake has met with the Prime Minister of Japan, Ishiba Shigeru in Tokyo today (29), during his official visit to Japan.
+
+The President is currently in Japan on an official three-day visit.
+
+During the meeting, both leaders reaffirmed their intention to further deepen and expand cooperation, including inter alia in the areas of security, economy, investment, and development cooperation, under the framework of the deepened and expanded Comprehensive Partnership established between the two countries, the Ministry of Foreign Affairs said in a statement.
+
+Prime Minister Ishiba commended the trajectory of recovery of the Sri Lankan economy through the steady implementation of the International Monetary Fund program and debt restructuring, and reiterated Japan’s continued support for Sri Lanka’s reform efforts.
+
+...
+
+[Data](articles/94043860.json)
+
+[Extended Data](ext_articles/94043860.ext.json)
+
+---
+
+### Demonstration by the public demanding the suspension of the new Chancellor's appointment in Muttur
+
+*2025-09-29 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226398) · `ta`
+
+A public demonstration was held on Monday (29) in front of the Muttur Saddam Vidyalaya.
+
+The alumni, parents and civilians engaged in the protest, demanding the suspension of the new Chancellor's appointment.
+
+The protesters insisted that the former Chancellor had taken the school on the path to progress, which had fallen in educational activities and morals, and that if he continued to serve, it would lead to many more advances.
+
+Immediately after learning of the incident, the Muttur Zonal Education Office and the police arrived at the scene.
+
+The Zonal Education Director asked the parents, alumni and school development team to come to the Zonal Education Office.
+
+The Zonal Education Director then asked them to explain and asked parents and the public to submit these demands by writing.
+
+◼️
+
+[Data](articles/8c7ebbc7.json)
+
+[Extended Data](ext_articles/8c7ebbc7.ext.json)
+
+---
+
+### Illegal liquor sales; Sub -Inspector arrested for suspended
+
+*2025-09-29 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226402) · `ta`
+
+A Sub -Inspector of Police suspended for illegal liquor sales has been arrested by Bandaragama police.
+
+According to information received by the Bandaragama police, the suspect's suspected Sub Inspector of Police has been arrested with a motorcycle near a school in Kalutara - Bandaragama area.
+
+Police investigations have revealed that he was suspended as he was on duty at the Borella Police Station as a Sub Inspector of Police.
+
+3750 millilters of illegal liquor has been seized from the suspected sub -inspector.
+
+◼️
+
+[Data](articles/8289a2c5.json)
+
+[Extended Data](ext_articles/8289a2c5.ext.json)
+
+---
+
+### Court sets date to hear Champika Ranawaka’s petition over ‘hit -and-run’ case
+
+*2025-09-29 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113024/court-sets-date-to-hear-champika-ranawakas-petition-over-hit-and-run-case) · `en`
+
+The Court of Appeal has scheduled the hearing of former Minister Patali Champika Ranawaka’s writ petition seeking to annul charges filed against him over the 2016 hit-and-run incident on November 24.
+
+The petition was called before Court of Appeal Justice Frank Gunawardena today (29), Ada Derana reporter said.
+
+Accordingly, the judge, considering a request made by Attorney Amarasiri Panditharatne, appearing for Patali Champika Ranawaka, ordered that the relevant petition be called for hearing on November 24.
+
+The Attorney General had filed an indictment against former Minister Patali Champika Ranawaka before the Colombo High Court during the tenure of former president Gotabaya Rajapaksa for causing a motor accident by reckless driving on February 28, 2016 in Rajagiriya.
+
+...
+
+[Data](articles/9fcb2e15.json)
+
+[Extended Data](ext_articles/9fcb2e15.ext.json)
+
+---
+
 ### Death sentence to former minister of China
 
 *2025-09-29 13:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-முன்னாள்-அமைச்சருக்கு-மரண-தண்டனை/50-365479) · `ta`
@@ -122,6 +492,42 @@ The Sanghun's Intermediate Court in the Northeastern China province, which heard
 [Data](articles/37e71c7e.json)
 
 [Extended Data](ext_articles/37e71c7e.ext.json)
+
+---
+
+### Woman working in court with drug pills
+
+*2025-09-29 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226388) · `ta`
+
+A woman working at the Madawachi Magistrate's Court in Anuradhapura was arrested by Mihintale police on Sunday evening with drug pills.
+
+The suspect has been arrested in connection with the investigation into the information received by the Mihintale police.
+
+◼️
+
+[Data](articles/2391ef83.json)
+
+[Extended Data](ext_articles/2391ef83.ext.json)
+
+---
+
+### Parliamentarian Ramanathan Archana arrested
+
+*2025-09-29 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226400) · `ta`
+
+Parliamentarian Ramanathan was arrested by the Archana Fort Police on Monday (29).
+
+Ramanathan was arrested when he was visiting the Fort Police Station this morning to make a confession.
+
+After participating in a recent protest in Colombo, it was revealed that a police officer at the Fort Police Station was disrupted.
+
+Parliamentarian Ramanathan Archana was arrested when he visited the Fort Police Station this morning for an investigation into the incident.
+
+◼️
+
+[Data](articles/04bb7ae6.json)
+
+[Extended Data](ext_articles/04bb7ae6.ext.json)
 
 ---
 
@@ -146,6 +552,28 @@ Preliminary investigations have been revealed that the vehicles made under the r
 [Data](articles/c82d41d2.json)
 
 [Extended Data](ext_articles/c82d41d2.ext.json)
+
+---
+
+### Appeals Court directs wildlife dept. to submit report on human-elephant conflict proposals
+
+*2025-09-29 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113023/appeals-court-directs-wildlife-dept-to-submit-report-on-human-elephant-conflict-proposals) · `en`
+
+The Court of Appeal has ordered the Department of Wildlife Conservation to submit, by November 10, information on the steps taken to implement the proposals prepared by the Centre for Environmental Justice to mitigate the human-elephant conflict.
+
+The petition was taken up today before a Court of Appeal bench comprising Justices Damitha Thotawatta and Sarath Dissanayake, said Ada Derana reporter.
+
+The Centre for Environmental Justice had previously submitted a series of proposals for the Court’s intervention to address the human-elephant conflict.
+
+On the advice of the Court, these proposals were forwarded to the Department of Wildlife Conservation for implementation. However, they have yet to be carried out, said Attorney-at-Law Dr. Ravindranath Dabare, appearing on behalf of the Centre for Environmental Justice.
+
+Dr. Dabare further alleged that the Department of Wildlife Conservation has not even provided the Court with information regarding any steps taken to implement the proposals.
+
+...
+
+[Data](articles/1a31ff3d.json)
+
+[Extended Data](ext_articles/1a31ff3d.ext.json)
 
 ---
 
@@ -245,13 +673,77 @@ It is noteworthy that Archana had heard that the vehicle would be stopped in you
 
 *2025-09-29 13:35:06* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මන්ත්‍රී-අර්ච්චුනා-අත්අඩංගුවට/11-418789) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා කොටුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+MP Ramanathan Arachchuna has been arrested by the Fort Police.
 
-අද (29දා) පෙරවරුවේ ප්‍රකාශයක් ලබා දීම සඳහා කොටුව පොලීසිය වෙත පැමිණි අවස්තාවේදි ඔහුව අත්අඩංගුවට ගෙන ඇත.
+He was arrested in the event that the Fort was taken to the Fort to be given this statement this morning.
 
 ◼️
 
 [Data](articles/d7d71650.json)
+
+[Extended Data](ext_articles/d7d71650.ext.json)
+
+---
+
+### The President meets the Japanese Prime Minister today
+
+*2025-09-29 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226399) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, will meet with Shigeru Ishiba at the Japanese Prime Minister's Office today (29).
+
+In the meantime, focus will be on the sectors of the economy, investment, development cooperation and security of the two countries.
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, President's Senior Advisor to Digital Economics, Dr. Hans Vijayasuriya, President's Senior Economic Advisor Duminda Hulangamuwa and many other senior officials of the Ministry of Foreign Affairs are also present.
+
+◼️
+
+[Data](articles/3b84a089.json)
+
+[Extended Data](ext_articles/3b84a089.ext.json)
+
+---
+
+### Former Western PC member Amal Silva granted bail
+
+*2025-09-29 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113022/former-western-pc-member-amal-silva-granted-bail) · `en`
+
+Former Western Provincial Councilor Amal Silva, who was arrested yesterday (28) by the Walana Anti-Vice Squad, has been granted bail, said Ada Derana reporter.
+
+Accordingly, he was released on two surety bail amounting to Rs. 5 million each.
+
+Former Western Provincial Councilor Amal Silva was arrested yesterday along with three luxury vehicles valued at approximately Rs. 60 million, which had been registered using forged documents.
+
+It was reported that the vehicles were illegally imported to Sri Lanka and registered under forged registration numbers at the Department of Motor Traffic using fabricated documents.
+
+Accordingly, the three luxury jeeps—Land Rover and Mitsubishi models—were seized during yesterday’s raid.
+
+Preliminary investigations by police revealed that forged documents were created under registration numbers belonging to vehicles from state institutions, and registered with the Department of Motor Traffic.
+
+◼️
+
+[Data](articles/093b1a43.json)
+
+[Extended Data](ext_articles/093b1a43.ext.json)
+
+---
+
+### Passion student killed in an accident
+
+*2025-09-29 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-සිසුවා-රිය-අනතුරකින්-මරුට/11-418788) · `si`
+
+A 24-year-old student was killed in an accident in the Urapola Junction area in Kadugannawa Police Division, police said.
+
+The student was killed in a motorcycle at Kadugannawa main road yesterday (28), police said.
+
+The deceased has been identified as Thivanka Piyatissa, a resident of that captain, a third year student of the Faculty of Science, Peradeniya.
+
+The body of the body has been placed at the Peradeniya Teaching Hospital for conducting a post mortem, and the carrier has been arrested by Kadugannawa Police.
+
+◼️
+
+[Data](articles/2447f1a5.json)
+
+[Extended Data](ext_articles/2447f1a5.ext.json)
 
 ---
 
@@ -272,6 +764,26 @@ The MP has arrested the MP at an investigation into the incident this morning.
 [Data](articles/d9a3a1c6.json)
 
 [Extended Data](ext_articles/d9a3a1c6.ext.json)
+
+---
+
+### Jaffna District MP Ramanathan Archchuna arrested
+
+*2025-09-29 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113021/jaffna-district-mp-ramanathan-archchuna-arrested-) · `en`
+
+Jaffna District Member of Parliament Dr. Ramanathan Archchuna has been taken into custody by the Fort Police.
+
+He was arrested this morning (29) when he arrived at the Fort Police Station to record a statement.
+
+During a recent Satyagraha held in Colombo, the MP was seen allegedly arguing with a police officer on duty from the Fort Police.
+
+He was taken into custody this morning in connection with an investigation on charges of obstructing police duty.
+
+◼️
+
+[Data](articles/c058dd1f.json)
+
+[Extended Data](ext_articles/c058dd1f.ext.json)
 
 ---
 
@@ -363,6 +875,26 @@ The suspect was arrested as a result of a suspended officer in the Indian miscon
 
 ---
 
+### Sunded SI Kazippu racket
+
+*2025-09-29 13:00:21* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වඩ-තහනම-ව-එස-අය-කසපප-ජවරම-යදල/1-680414) · `si`
+
+Bandaragama Police say that a sub-inspector who was suspended was suspended by a motorcycle hiding in a motorcycle.
+
+The suspect has been taken into police custody by 3750 millilitors with the suspect.
+
+The suspect sub-inspector of the Vedagama area in Bandaragama has been illegal and sold to the demand of his motorcycle, police said.
+
+The suspect was arrested as a result of a suspended officer in the Indian misconduct and had been banned due to various misconduct.
+
+◼️
+
+[Data](articles/728cb498.json)
+
+[Extended Data](ext_articles/728cb498.ext.json)
+
+---
+
 ### Sri Lanka’s Digital Economy Vision Anchored in People
 
 *2025-09-29 13:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka%e2%80%99s-digital-economy-vision-anchored-in-people) · `en`
@@ -372,6 +904,28 @@ The suspect was arrested as a result of a suspended officer in the Indian miscon
 [Data](articles/8d0e5dd8.json)
 
 [Extended Data](ext_articles/8d0e5dd8.ext.json)
+
+---
+
+### Police constable arrested for attacking student and assaulting student
+
+*2025-09-29 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226396) · `ta`
+
+A police constable has been arrested by Navagamuwa police for allegedly assaulting a student into a school in Navagamuwa area.
+
+The suspect has been educated with a student who was assaulted in a school on the daughter of the suspended police constable.
+
+In this case, the daughter of the suspected police constable, who was suspended, was thrown down while playing with fellow students during the school break.
+
+This has resulted in a tooth in front of the daughter of the suspended police constable.
+
+The angry suspect's work has been suspended by the suspended police constable and attacked the student.
+
+◼️
+
+[Data](articles/4445275b.json)
+
+[Extended Data](ext_articles/4445275b.ext.json)
 
 ---
 
@@ -453,6 +1007,30 @@ Mohsin Naqvi is the Chairman of the Asian Cricket Council (ACC). He is currently
 
 ---
 
+### Ousted PM Oli banned from leaving Nepal amid probe over deadly protests
+
+*2025-09-29 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113020/ousted-pm-oli-banned-from-leaving-nepal-amid-probe-over-deadly-protests) · `en`
+
+Nepal has imposed travel bans on ousted prime minister KP Sharma Oli and four former senior officials as part of an investigation into deadly unrest earlier this month, the interior minister said Monday.
+
+Youth-led protests that began on September 8 over a brief social media ban, economic hardship and corruption quickly morphed into nationwide fury after a deadly crackdown.
+
+Two days of violence left at least 73 people dead, the parliament and government offices were burned down, and forced the government’s collapse.
+
+In addition to Oli, travel bans have been placed on former home minister Ramesh Lekhak, former head of the National Investigation Department security agency, Hutaraj Thapa, and two other senior bureaucrats.
+
+Interim Prime Minister Sushila Karki, who is leading the Himalayan nation until elections in March 2026, set up a commission to probe the violence.
+
+Home Minister Om Prakash Aryal told AFP on Monday that the ban is “already in effect.”
+
+...
+
+[Data](articles/21221d38.json)
+
+[Extended Data](ext_articles/21221d38.ext.json)
+
+---
+
 ### Sri Lanka seeks Google Company to provide free AI search engines for students
 
 *2025-09-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226385) · `ta`
@@ -471,17 +1049,19 @@ Digital Economic Economic Economic Economic Minister Eranga Weeraratne announced
 
 ---
 
-### ආණ්ඩුවේ මන්ත්‍රීවරුන්ට එරෙහිව ගම්මන්පිලගෙන් අල්ලස් කොමිසමට පැමිණිල්ලක්
+### Gammanpila lodges a complaint to Bribery Commission against government MPs
 
 *2025-09-29 12:48:42* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මන්ත්‍රීවරුන්ට-එරෙහිව-ගම්මන්පිලගෙන්-අල්ලස්-කොමිසමට-පැමිණිල්ලක්/11-418786) · `si`
 
-පිවිතුරු හෙළ උරුමයේ නායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා අද (29දා)  අල්ලස් කොමිසම වෙත පැමිණිල්ලක් ගොනු කර තිබේ.
+Former UNP MP, leader of the JHU MP has lodged a complaint with the Bribery Commission today (29).
 
-ආණ්ඩුවේ මන්ත්‍රීවරුන් විසින් ලබා ගන්නා ලද මාසික වැටුප පක්ෂ අරමුදලට යොමු කිරීමෙන් දේශපාලන කටයුතු සිදු කිරීම සම්බන්ධව ​ඔහු විසින් මෙලෙස පැමිණිල්ල ඉදිරිපත් කර ඇත.
+He has lodged a complaint with regard to political activities by directing the monthly salary obtained by the government to the party fund.
 
 ◼️
 
 [Data](articles/2a86b202.json)
+
+[Extended Data](ext_articles/2a86b202.ext.json)
 
 ---
 
@@ -520,6 +1100,24 @@ Anand (Shivaji Ganesan), the youngest Jamindar, is the youngest of the Jamindar 
 [Data](articles/75e53741.json)
 
 [Extended Data](ext_articles/75e53741.ext.json)
+
+---
+
+### வென்னப்புவையில் தோட்டாக்களுடன் தந்தையும் மகனும் கைது!
+
+*2025-09-29 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226394) · `ta`
+
+புத்தளம், வென்னப்புவை, மிரிஸ்ஸன்கொட்டுவ பிரதேசத்தில் போர் 12 ரக துப்பாக்கிக்குரிய தோட்டாக்களுடன் தந்தை மற்றும் மகன் வென்னப்புவை பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளனர்.
+
+தான் காதலிப்பவருடன் வசித்து வருவதால், தந்தையும் சகோதரனும் தன்னை தாக்குவதற்கு முயற்சிப்பதாகவும் வீட்டில் தோட்டாக்கள் இருப்பதாகவும் 17 வயதுடைய யுவதி ஒருவர் வென்னப்புவை பொலிஸ் நிலையத்தில் முறைப்பாடு அளித்துள்ளார்.
+
+இதனையடுத்து, வென்னப்புவை பொலிஸாரால் மிரிஸ்ஸன்கொட்டுவ பிரதேசத்தில் உள்ள வீடொன்றில் மேற்கொள்ளப்பட்ட சோதனையில் தந்தை மற்றும் மகன் ஆகிய இருவரும் கைதுசெய்யப்பட்டுள்ளனர்.
+
+இந்த சோதனை நடவடிக்கையின் போது வீட்டின் அலுமாரியில் இருந்து போர் 12 ரக துப்பாக்கிக்குரிய 24 தோட்டாக்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/8e1aca12.json)
 
 ---
 
@@ -605,22 +1203,6 @@ The children fled the window and door of the two rooms where the children were d
 
 ---
 
-### Woman working in court with drug pills
-
-*2025-09-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226388) · `ta`
-
-A woman working at the Madawachi Magistrate's Court in Anuradhapura was arrested by Mihintale police on Sunday evening with drug pills.
-
-The suspect has been arrested in connection with the investigation into the information received by the Mihintale police.
-
-◼️
-
-[Data](articles/2391ef83.json)
-
-[Extended Data](ext_articles/2391ef83.ext.json)
-
----
-
 ### Sale of rice at a higher price than the control price; Consumer Affairs Authority test at 105 business centers
 
 *2025-09-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226381) · `ta`
@@ -697,6 +1279,24 @@ Rescue operations have been initiated to rescue those who have been trapped unde
 
 ---
 
+### President Anura Kumara to meet Japanese PM Shigeru Ishiba today
+
+*2025-09-29 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113019/president-anura-kumara-to-meet-japanese-pm-shigeru-ishiba-today) · `en`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, is scheduled to meet Japanese Prime Minister Shigeru Ishiba at the Prime Minister’s Office in Tokyo today (29).
+
+The discussions are expected to focus on a wide range of areas, including the economy, investment, development cooperation, and security, the President’s Media Division said.
+
+Joining the President at the talks will be Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Chief Advisor to the President on Digital Economy Dr. Hans Wijeyasuriya, Senior Economic Advisor to the President Duminda Hulangamuwa, along with a delegation of senior officials from the Ministry of Foreign Affairs.
+
+The President is scheduled to conclude his official visit to Japan tomorrow.
+
+◼️
+
+[Data](articles/fe8d21f4.json)
+
+---
+
 ### Land decline in the construction work in Mawanella; The bodies of two workers are recovered!
 
 *2025-09-29 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226386) · `ta`
@@ -732,6 +1332,24 @@ Mr. Mathisha Hewavitharana possesses over 20 years of extensive experience in th
 [Data](articles/0a8442be.json)
 
 [Extended Data](ext_articles/0a8442be.ext.json)
+
+---
+
+### Bodies of all three persons found in Mawanella bund collapse
+
+*2025-09-29 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113018/bodies-of-all-three-persons-found-in-mawanella-bund-collapse) · `en`
+
+The bodies of all three individuals have been recovered after a mound of earth collapsed onto workers at a construction site in Manikkawa, Mawanella.
+
+A group of workers were building a wall in Aluthnuwara, Mawanella, when a mound of earth collapsed onto them this morning (29).
+
+Rescue operations were carried out promptly to extricate the workers safely.
+
+However, according to Ada Derana reporter, the bodies of all three individuals have now been recovered.
+
+◼️
+
+[Data](articles/94b83d82.json)
 
 ---
 
@@ -874,6 +1492,22 @@ COLOMBO (News 1st); An earthslip struck the Aluthnuwara area of Mawanella early 
 [Data](articles/55d3c466.json)
 
 [Extended Data](ext_articles/55d3c466.ext.json)
+
+---
+
+### Bodies of two persons recovered in Mawanella bund collapse
+
+*2025-09-29 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113017/bodies-of-two-persons-recovered-in-mawanella-bund-collapse) · `en`
+
+The bodies of two individuals have been found after a mound of earth collapsed onto workers at a construction site in Manikkawa, Mawanella.
+
+According to police at least three workers at the site when the incident occurred.
+
+An operation was launched earlier today to extricate the individuals safely.
+
+◼️
+
+[Data](articles/fad1c7ff.json)
 
 ---
 
@@ -1274,655 +1908,5 @@ The police said that they have to rescue them.
 [Data](articles/070b57a6.json)
 
 [Extended Data](ext_articles/070b57a6.ext.json)
-
----
-
-### All three killed in Mawanella Earth
-
-*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මවනලල-පස-කනදට-යට-ව-තදනම-මරට/101-680400) · `si`
-
-The bodies of the three workers who were submerged in the Mouthnawa Manikakkawa land have been recovered from the three employees who were submerged.
-
-Four who worked the place and was not under one. Another employee has been flooded to the mountain and says the relief teams that he is working with backhoes.
-
-A mound has collapsed on three in Mawanella, Aluthnuwara and Menikkawa area.
-
-The police said that they have to rescue them.
-
-◼️
-
-[Data](articles/097893e0.json)
-
-[Extended Data](ext_articles/097893e0.ext.json)
-
----
-
-### All three killed in Mawanella Earth
-
-*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මවනලල-පස-කනදට-යට-ව-තදනම-මරට/1-680400) · `si`
-
-The bodies of the three workers who were submerged in the Mouthnawa Manikakkawa land have been recovered from the three employees who were submerged.
-
-Four who worked the place and was not under one. Another employee has been flooded to the mountain and says the relief teams that he is working with backhoes.
-
-A mound has collapsed on three in Mawanella, Aluthnuwara and Menikkawa area.
-
-The police said that they have to rescue them.
-
-◼️
-
-[Data](articles/e94a22ce.json)
-
-[Extended Data](ext_articles/e94a22ce.ext.json)
-
----
-
-### A Movawa Eat Money falls on labor
-
-*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මවනලල-පස-කනදක-කමකර-පරසක-මතට-වට/1-680400) · `si`
-
-A mound has collapsed on three in Mawanella, Aluthnuwara and Menikkawa area.
-
-The police said that they have to rescue them.
-
-◼️
-
-[Data](articles/ef270b60.json)
-
-[Extended Data](ext_articles/ef270b60.ext.json)
-
----
-
-### A complaint to Bribery Commission of Udaya Gammanpila
-
-*2025-09-29 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215127) · `si`
-
-Udaya Gammanpila has lodged a complaint with the Bribery Commission this morning (Jahani).
-
-The monthly salary obtained by the MPs was involved in political activities by directing the party fund.
-
-Speaking on a complaint to the Bribery Commission, Udaya Gammanpila said that the monthly allowance provided to Members of Parliament cannot be expensive as he could.
-
-Accordingly, a complaint has been lodged a complaint with the Bribery Commission as a result of the 159 million members of the government and to investigate the party's fund.
-
-"Payment of money to be used for the political fund, which is used to maintain fuel, and offices to the party to maintain the fuel, and offices.. The corruption of the 159 MPs of the 159 MPs of the 159 MPs and the 149 MPs have taken the money of the 149 MPs.. So we came to the Bribery Commission today to implement the law for the 160s. "
-
-◼️
-
-[Data](articles/bc1fa014.json)
-
-[Extended Data](ext_articles/bc1fa014.ext.json)
-
----
-
-### Recovery
-
-*2025-09-29 10:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-உயிரிழந்த-ஆணின்-பாகங்கள்-மீட்பு/175-365460) · `ta`
-
-A body has been recovered on Sunday morning (28) after the body was hit by a train from Talaimannar to Colombo.
-
-The person who was recovered by the body, W.M.A from Negombo. Sarath Anthony (age-60) has been revealed.
-
-The train from Talaimannar to Colombo on Sunday morning (28), the Chaud Bar Railway Station, was traveling to Colombo.
-
-The body has been caught by the body of parts of the Saudpar -Talladi Railway Road, near the double -eyed bridge.
-
-Sudden death investigator P. Prabha Nandan visited the body.
-
-During this time, the person who kept the National Identity Card and a driver's license recovered from his belongings was W.M.A. Sarath Anthony (age-60) was identified as a native of Negombo.
-
-A sum of money from his belongings and a railway ticket for Rs.
-
-The body of the recovered body has been placed in the Mannar General Hospital.
-
-◼️
-
-[Data](articles/0e8bbc30.json)
-
-[Extended Data](ext_articles/0e8bbc30.ext.json)
-
----
-
-### ரயிலில் மோதி உயிரிழந்த ஆணிண் பாகங்கள் மீட்பு
-
-*2025-09-29 10:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-உயிரிழந்த-ஆணிண்-பாகங்கள்-மீட்பு/175-365460) · `ta`
-
-A body has been recovered on Sunday morning (28) after a collision with a train from head Mannar to Colombo.
-
-The body recovered by the body of the body of W.M.A from Negombo. Sarath Anthony (age-60) has been revealed.
-
-◼️
-
-[Data](articles/1890d074.json)
-
-[Extended Data](ext_articles/1890d074.ext.json)
-
----
-
-### The safe wall prevents a great danger
-
-*2025-09-29 10:35:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආරකෂත-බමම-වශල-අනතරක-වළකවය/101-680399) · `si`
-
-A private bus traveling from Nuwara Eliya has been removed from the road in Walapane and prevailing a large hatch in the road.
-
-The accident had occurred in the Maha Uva Maha Uva region with the accident in Walapane main road.
-
-According to the Road Development Authority, a large number of road accidents on the Maha Uva bend area along the road, the road was taken off the road due to the construction of a safe bowl from the soil, the Walapane Police said.
-
-At the time of a technical prosecution of the bus, the bus was imprisoned due to a technical fault in the bus.
-
-Walapane said that the accident had been injured in the accident and had left the bus to bring a bus from Jaffna to the Jaffna police.
-
-◼️
-
-[Data](articles/5222358d.json)
-
-[Extended Data](ext_articles/5222358d.ext.json)
-
----
-
-### Ex-Minister Udaya Gammanpila arrives at Bribery Commission
-
-*2025-09-29 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113016/ex-minister-udaya-gammanpila-arrives-at-bribery-commission) · `en`
-
-Former Minister Udaya Gammanpila has arrived at the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) this morning (29) to lodge a complaint.
-
-The complaint concerns the alleged transfer of monthly salaries by government Members of Parliament to a party fund, which, according to Gammanpila, is subsequently used for political activities.
-
-Speaking to the media after filing the complaint, Gammanpila stated that Members of Parliament are not permitted to utilize their monthly allowances at their own discretion.
-
-He alleged that 159 government MPs, by transferring over Rs. 30 million collectively each month into a party fund and using it for political purposes, are misusing public funds.
-
-“Sending this money to party funds, which are then used to pay telephone bills, fuel expenses, and office maintenance, and subsequently directing it toward political activities, constitutes a misuse of public funds,” Gammanpila said.
-
-...
-
-[Data](articles/198e2d0f.json)
-
-[Extended Data](ext_articles/198e2d0f.ext.json)
-
----
-
-### Sri Lankan Students to Get Free Google AI Tools
-
-*2025-09-29 10:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lankan-students-to-get-free-google-ai-tools) · `en`
-
-COLOMBO (News 1st); Google has agreed to provide its advanced AI platform, Gemini, along with other premium student benefits, free of charge to Sri Lankan students, Deputy Minister of Digital Economy Eranga Weeraratne revealed on Monday (29).
-
-The announcement, marks the culmination of months of collaboration between the Ministry of Digital Economy and Google.
-
-The initiative will grant students across the country access to cutting-edge artificial intelligence tools, cloud computing platforms, and digital learning resources — all at no cost.
-
-“This is a game changer,” said Deputy Minister Weeraratne. “It will level the playing field and put our students on par with anyone, anywhere in the world.”
-
-The move is expected to significantly boost Sri Lanka’s national capacity in AI development and digital literacy, empowering the next generation to innovate, solve complex challenges, and compete globally.
-
-...
-
-[Data](articles/b6c53139.json)
-
-[Extended Data](ext_articles/b6c53139.ext.json)
-
----
-
-### Partition with Senok Trade Combine to provide exclusive benefits to Ban Asia Bank customers
-
-*2025-09-29 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226374) · `ta`
-
-Ban Asia Bank, one of the most innovative and customers -centered banks in Sri Lanka, has joined the Senok Trade Combine (Pvt) Ltd], a multi -operated joint venture in the sectors of vehicles, construction, renewable energy and business.
-
-This cooperation refers to a significant milestone in connecting financial services with industrial leadership to provide more valuables to Sri Lankan businesses and consumers.
-
-The BANAsia Bank will expand its financial expertise to fulfill the comprehensive functions of Seno, and create new opportunities for growth in many sectors.
-
-Customers' customers can access specialized financial packages, including flexible leasing choices, trade financial solutions and customized credit facilities that will facilitate investing in vehicles, devices and other trading purposes.
-
-...
-
-[Data](articles/12f0ff12.json)
-
-[Extended Data](ext_articles/12f0ff12.ext.json)
-
----
-
-### Workers trapped as earth bund collapses at construction site in Mawanella
-
-*2025-09-29 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113015/workers-trapped-as-earth-bund-collapses-at-construction-site-in-mawanella) · `en`
-
-An earth bund has collapsed at a construction site in Manikkawa, Mawanella, trapping at least three workers on site.
-
-Rescue operations to extricate the individuals safely are currently underway, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/3d157f64.json)
-
-[Extended Data](ext_articles/3d157f64.ext.json)
-
----
-
-### Mountains crashes on a group of workers
-
-*2025-09-29 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215126) · `si`
-
-Movena, Aluthnuwara and Nikkawa area has collapsed on a crowd of workers in the Menikka area.
-
-Our correspondent said that they have begun rescue.
-
-◼️
-
-[Data](articles/ad75f50e.json)
-
-[Extended Data](ext_articles/ad75f50e.ext.json)
-
----
-
-### Pakistani minister who ran the Asian Cup
-
-*2025-09-29 10:22:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பையைத்-தூக்கிக்கொண்டு-ஓடிய-பாகிஸ்தான்-அமைச்சர்/44-365459) · `ta`
-
-The 2025 Asian Cup final has been completed with a shameful and bad incident that cricket has never happened in the world. The Indian team, who defeated Pakistan and won the Asia Cup for the 9th time, was refused to have the chance to celebrate the trophy and had to return to the hotel with a mere hand.
-
-Moshin Naqvi, chairman of the Asian Cricket Council (ACC) and the Chairman of the Pakistan Cricket Board (PCB), took the trophy for the winning team and left the stadium.
-
-After Ring Singh scored the run for the last over in the last over, the Indian players celebrated the field. Interviews of post -competition players took place. But, then, what happened after that. The prize ceremony has not been started for more than an hour.
-
-Initially, the Indian team refused to buy the trophy by Moshin Naqvi. But the real reason was worse than that. As the Asian Cricket Council president, Moshin Naqvi, took out the Asia Cup and Medals to the Indian team at the end of the confusion.
-
-...
-
-[Data](articles/586a7030.json)
-
-[Extended Data](ext_articles/586a7030.ext.json)
-
----
-
-### Shooter kills at least four, wounds eight at Michigan church
-
-*2025-09-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113014/shooter-kills-at-least-four-wounds-eight-at-michigan-church) · `en`
-
-A man who crashed his vehicle through the front doors of a Michigan church opened fire with an assault rifle and set the church ablaze, killing at least four people and wounding at least eight others before dying in a shootout with police, officials said.
-
-Police said the perpetrator, identified as Thomas Jacob Sanford, 40, a former U.S. Marine from the nearby town of Burton, deliberately set fire to the Church of Jesus Christ of Latter-day Saints, which was engulfed in flames and billowing smoke.
-
-Two of the shooting victims died and eight others were hospitalized, officials said. Several hours after the shooting, police reported finding at least two more bodies in the charred remains of the church, which had not yet been cleared and may contain other victims.
-
-“There are some that are unaccounted for,” Grand Blanc Township Police Chief William Renye told a press conference.
-
-...
-
-[Data](articles/74111196.json)
-
-[Extended Data](ext_articles/74111196.ext.json)
-
----
-
-### Kottawa Raid Uncovers 458 Bullets and Heroin
-
-*2025-09-29 10:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/kottawa-raid-uncovers-458-bullets-and-heroin) · `en`
-
-COLOMBO (News 1st); A major breakthrough in narcotics and illegal arms investigations was made in the Rukmale Road area of Kottawa, where police apprehended a 24-year-old suspect in possession of a large cache of illicit items, including heroin and various types of live ammunition.According to police sources, the suspect was found with 75 grams and 400 milligrams of heroin, along with a stockpile of 458 live ammunition rounds, including T-56 bullets.Authorities also recovered 30 counterfeit vehicle license plates, 15 forged revenue licenses, 15 fake insurance certificates, and two mobile phones believed to be used in criminal activities.The suspect, a resident of Angulana, Moratuwa, was taken into custody and has been handed over to the Western Province - South Crimes Investigation Unit for further interrogation and legal proceedings.
-
-◼️
-
-[Data](articles/88f9fec7.json)
-
-[Extended Data](ext_articles/88f9fec7.ext.json)
-
----
-
-### Avoid the soil wall
-
-*2025-09-29 10:16:37* · [`adalk`](https://www.ada.lk/picture_story/මහා-අනතුරක්-පස්-බැම්ම-නිසා-වැළකෙයි/10-418780) · `si`
-
-A private bus traveling from Nuwara Eliya to Jaffna has resigned from the road in Walapane, a large haul of the road to stay in the road.
-
-(28) The accident occurred at around 4:14 pm, Walapane Maha Uva region.
-
-According to the Walapahena, the Road Development Authority had taken several road accidents on the soil caused by the Road Development Authority due to the high slopes of the Maha Uva.
-
-At the time of a technical prosecution of the bus, the bus was imprisoned due to a technical fault in the bus.
-
-Walapane said that no injuries were injured in the accident and the victim was taken out of Jaffna from Jaffna and brought a bus from Jaffna.
-
-◼️
-
-[Data](articles/3423aa52.json)
-
-[Extended Data](ext_articles/3423aa52.ext.json)
-
----
-
-### Great firing in the United States: Church firing, fire - four killed, many injured!
-
-*2025-09-29 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226375) · `ta`
-
-International media reports that a church has been shot and firefighters in the Grand Blanc, Michigan, USA.. At least four people were killed and eight injured in the incident.
-
-A person suspected of carried out the attack has been identified as 40 -year -old Thomas Jacob Sanford. He hails from Burton.
-
-During the morning of Sunday (28), the suspect crashed his vehicle on the main door of the church and began to shoot with a firearm, Grand Blanc police said.
-
-According to the fire department, the suspect is said to have set fire to the church using gasoline -like fuel. The entire church was completely damaged due to the fire.
-
-Police said that the bodies of four people have been recovered in the incident and that the church was completely damaged by the fire.
-
-In eight minutes after the emergency call, police rushed to the scene and shot dead Thomas Jacob Sanford.
-
-...
-
-[Data](articles/b2350a77.json)
-
-[Extended Data](ext_articles/b2350a77.ext.json)
-
----
-
-### Salman Ali Aga
-
-*2025-09-29 10:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிசுத்-தொகையைத்-தூக்கி-எறிந்த-சல்மான்-அலி-அகா/44-365457) · `ta`
-
-In the final of the 2025 Asian Cup, the Indian team beat Pakistan for the third time and won their 9th title. In spite of this victory, Pakistan Captain Salman Ali Aga, who threw the second place cheque, caused great controversy and confusion.
-
-India and Pakistan teams clashed in this series three times. The Indian team won three times - Group Round, Super 4 and Final. In this, the final only went up to the last over. The Indian team has easily won the other two matches. This was the cause of the frustration of the Pakistani captain.
-
-After the match, the frustration of the defeat in the face of Pakistan Captain Salman Ali Aka became the frustration of the defeat. He was invited to the stage to receive the prize money for the second place. Within a few seconds of receiving the gift from the Asian Cricket Council chairman Moshin Naqi, he threw the check there, expressing his frustration.
-
-...
-
-[Data](articles/d704d910.json)
-
-[Extended Data](ext_articles/d704d910.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-29 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242096/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.62/65 to the US dollar on Monday, weaker from 302.50/55 on Friday, while bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2029 was quoted at 9.55/60 percent, up from 9.54/60 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.68/72 percent, up from 9.67/70 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/10 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.43/48 percent.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.33 percent, or 70.41 points, at 21,669; the S&P SL20 was up 0.34 percent, or 20.64 points, at 6,132.
-
-43,000 million rupees Treasury bills are to be issued through an auction on October 1. (Colombo/Sep29/2025)
-
-◼️
-
-[Data](articles/71000460.json)
-
-[Extended Data](ext_articles/71000460.ext.json)
-
----
-
-### Four killed in a church in US
-
-*2025-09-29 10:01:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇමරිකාවේ-පල්ලියක-වෙඩි-තැබීමක්---04ක්-මරුට/11-418779) · `si`
-
-Four persons were shot at a mosque in a church in the United States.
-
-The shooter is rapidly driving a motor vehicle and kills the war.
-
-Foreign media reports that the danger was a fire in the mosque and another injured.
-
-After the shooter came out of the church, the police had shot and killed him.
-
-◼️
-
-[Data](articles/fbf50b7f.json)
-
-[Extended Data](ext_articles/fbf50b7f.ext.json)
-
----
-
-### I have you ....
-
-*2025-09-29 09:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எனக்கே-உனக்கா/62-365455) · `ta`
-
-◼️
-
-[Data](articles/d9e75a95.json)
-
-[Extended Data](ext_articles/d9e75a95.ext.json)
-
----
-
-### 2 Case; Cancer of Authorization; Investigation Today
-
-*2025-09-29 09:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-நாளில்-2-கேஸ்-தவெக-அங்கீகாரம்-ரத்து-இன்று-விசாரணை/175-365454) · `ta`
-
-The CBI has filed a case for the CBI to investigate due to a planned conspiracy by the Karur incident in Chennai, and the petition has been filed for the cancellation of the party's approval.
-
-The investigation into the above petitions is due to the biggest excitement and anticipation of the people of Tamil Nadu.
-
-Actor Vijay's participation in a campaign meeting in Karur yesterday. In this case, many others are receiving treatment at Karur Government Hospital.
-
-In this, a woman named Sukuna died without treatment.. As a result, the death toll from the crowds in Karur has died at 41.
-
-While the Tamil Nadu victory was accused of being a deliberate conspiracy to investigate the CBI investigation, the party's lawyers appealed to the Madurai Icord's holiday judge Dandapani that the CBI or the Special Investigation Team should be properly investigated and to protect the surveillance camera footage.
-
-...
-
-[Data](articles/1197183e.json)
-
-[Extended Data](ext_articles/1197183e.ext.json)
-
----
-
-### Thriposha Production Temporarily Halted Due to Shortage of Maize
-
-*2025-09-29 09:45:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/thriposha-production-temporarily-halted-due-to-shortage-of-maize) · `en`
-
-COLOMBO (News 1st) - Thriposha production in Sri Lanka has been temporarily suspended.The Sri Lanka Thriposha Company announced that the suspension was due to the unavailability of maize required for production.Cabinet approval had earlier been granted to import 18,000 metric tons of maize for Thriposha production. However, the Controller General of Imports and Exports has presented amendments to the approval.Chairman of the Sri Lanka Thriposha Limited, Amal Attanayake, stated that until the new Cabinet paper, inclusive of those amendments, is presented to the Cabinet on the 7th and receives approval, the maize importation has been halted.As a result, production of Thriposha has been on hold since the 21st of September.The Chairman further noted that once maize imports resume after the 7th of October, Thriposha production will return to normal. He added that the stocks already produced are currently being distributed across the country.
-
-◼️
-
-[Data](articles/1a7c2b56.json)
-
-[Extended Data](ext_articles/1a7c2b56.ext.json)
-
----
-
-### Rise in Dengue Cases Reported from Nine Districts
-
-*2025-09-29 09:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/rise-in-dengue-cases-reported-from-nine-districts) · `en`
-
-COLOMBO (News 1st) - The National Dengue Control Unit has announced that the number of dengue patients reported from nine districts has increased.Community Medical Specialist Dr. Prashila Samaraweera of the National Dengue Control Unit says that a total of 38,764 dengue patients have been reported from across the country during the recent period.
-
-◼️
-
-[Data](articles/f066e228.json)
-
-[Extended Data](ext_articles/f066e228.ext.json)
-
----
-
-### The invention of drugs more dangerous than ice in Sri Lanka
-
-*2025-09-29 09:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-ஐஸை-விட-ஆபத்தான-போதைப்பொருள்-கண்டுபிடிப்பு/175-365453) · `ta`
-
-The police department said that the drug was made more dangerous than the methampatamine in the country by checking the drug samples found in a shelter in Weligama recently.
-
-In a raid conducted by the Weligama police, a foreign youth was arrested recently surrounded by a drug manufacturing plant.
-
-The raw materials and equipment used for drug production were found at the site and its samples were handed over to the Government Analyst Department for further examination.
-
-According to the preliminary examination of the Government Analyst Department, it has been confirmed that the foundation of new drugs has been found more dangerous than ice drugs.
-
-The police department said the report would be issued in the next few days.  R
-
-◼️
-
-[Data](articles/4b3b1032.json)
-
-[Extended Data](ext_articles/4b3b1032.ext.json)
-
----
-
-### Do not have trophy and medal; the Indian team's action results
-
-*2025-09-29 09:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/கோப்பையும்-பதக்கமும்-வேண்டாம்-இந்திய-அணி-அதிரடி-முடிவு/88-365452) · `ta`
-
-There is a peak clash between India and Pakistan. The Bahlkam attack also features the Asian Cricket Cup in the Operation Sindur line.
-
-India won the trophy in the Asia Cup final yesterday but the Indian team boycotted the trophy without buying the trophy. In this message, you can find a set of events held at the stadium yesterday after the competition.
-
-The Asian Cup cricket final was held yesterday at the Dubai Cricket Ground. This is the first time India -Pakistan will clash in the history of Asian Cup history. India won Pakistan in both the League and Super 4 rounds of the current Asian Cup.
-
-The impact of the Bahlkam attack and the Operation Sindur echoed in cricket. Controversy that India did not shake hands with Pakistani players in the first match. On the other hand, Suryakumar, the captain of the Indian team, said that the victory would submit to the victims of the Bahlkam attack.
-
-...
-
-[Data](articles/2629d33f.json)
-
-[Extended Data](ext_articles/2629d33f.ext.json)
-
----
-
-### Municipal Councilor Amal Silva Handed Over to Pinwatte Police
-
-*2025-09-29 09:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/municipal-councilor-amal-silva-handed-over-to-pinwatte-police) · `en`
-
-COLOMBO (News 1st) - The Walana Anti-Corruption Unit says that member of the Dehiwala-Mount Lavinia Municipal Council Amal Silva, who is in custody, has been handed over to the Pinwatte Police for further investigation. Police say that the suspect is scheduled to be produced before court.He was arrested yesterday for possessing three luxury jeeps, valued at over Rs. 60 million, allegedly imported illegally and registered under forged documents.Amal Silva is also a former member of the Western Provincial Council.
-
-◼️
-
-[Data](articles/60e38939.json)
-
-[Extended Data](ext_articles/60e38939.ext.json)
-
----
-
-### Hurricane Hurricane; 20 killed in the Philippines; 12 fishermen magic in Vietnam
-
-*2025-09-29 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226372) · `ta`
-
-Various cities have been affected by the Puwalai hurricane since last Friday in the Philippines. Houses and buildings are surrounded by floodwaters. The trees fell down. The electrical connection was also disconnected.
-
-Thus, 23 thousand families have migrated. 1,400 relief camps have been established in which they are housed. Up to 20 people have died in the Central Philippines.
-
-In this case, the hurricane is moving towards Vietnam. It was reported that its impact was severe.
-
-The Puwaloi Storm crosses the shore in northern central Vietnam early Monday morning. Homes have been damaged and damaged electrical structures. Two people have been killed and 12 fishermen have disappeared due to a hurricane flooding rain and massive wave rise.
-
-Thus, thousands of people in the central and northern provinces of Vietnam were taken to safe areas.
-
-117 km of heavy winds by the tornado. The speed has declined to 88 km (55 miles).
-
-◼️
-
-[Data](articles/887e8d35.json)
-
-[Extended Data](ext_articles/887e8d35.ext.json)
-
----
-
-### A few days after the birth of a baby boy alive
-
-*2025-09-29 09:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறந்து-சில-நாட்களான-பெண்-குழந்தை-உயிருடன்-மீட்பு/175-365451) · `ta`
-
-A few days after being born in Oluvil area, a baby girl was rescued yesterday.
-
-According to the information given by a person who went to the fishing, the child has been rescued and taken to the Oluvil Divisional Hospital and is now transferred to the Akkaraipattu Base Hospital.
-
-The hospital administration has stated that the child has taken appropriate steps to be taken to court in court.. Remble
-
-◼️
-
-[Data](articles/07242ca4.json)
-
-[Extended Data](ext_articles/07242ca4.ext.json)
-
----
-
-### CAA raids over 100 shops for selling rice above control price
-
-*2025-09-29 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113013/caa-raids-over-100-shops-for-selling-rice-above-control-price) · `en`
-
-The Consumer Affairs Authority (CAA) has raided a total of 105 shops over the past two weeks for selling rice above the government-imposed control price.
-
-The Authority announced that legal proceedings are being initiated against those traders who sold rice at inflated prices, in violation of the price regulations.
-
-It further emphasized that strict legal action will be taken against anyone selling rice above the stipulated price.
-
-According to the CAA, if a sole proprietorship is found guilty of such an offense, the owner can be fined between Rs. 100,000 and Rs. 500,000, or face imprisonment for up to five months, or both.
-
-The Authority further stated that under the CAA Act, if a private company is found guilty of selling rice above the control price, the court may impose a fine ranging from Rs. 500,000 to Rs. 5 million.
-
-In cases where rice is concealed, the court also has the authority to impose a fine, imprisonment, or both, in addition to confiscating the relevant stock of goods.
-
-...
-
-[Data](articles/99db72e0.json)
-
-[Extended Data](ext_articles/99db72e0.ext.json)
-
----
-
-### One killed and 12 missing from the hurricane of Vietnam
-
-*2025-09-29 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215125) · `si`
-
-"Buloi 'has died due to the hurricane," the bullock affected.
-
-Another 12 persons have gone missing, foreign media reports said.
-
-Over 28,500 people have taken steps to protect over 28,500 people to safe locations due to this inclement weather.
-
-The authorities have also taken steps to temporarily close four airports in Vietnam.
-
-◼️
-
-[Data](articles/fbb50621.json)
-
-[Extended Data](ext_articles/fbb50621.ext.json)
-
----
-
-### NDDCB reports higher risk of drug addiction among schoolchildren in Western Province
-
-*2025-09-29 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/113012/nddcb-reports-higher-risk-of-drug-addiction-among-schoolchildren-in-western-province) · `en`
-
-The National Dangerous Drugs Control Board (NDDCB) has revealed that the highest number of drug-addicted schoolchildren in the country is reportedly from the Western Province.
-
-The NDDCB further noted that Colombo District records the highest number of cases, with children from low-income communities in areas such as Grandpass, Thotalanga, Slave Island, Angulana, Keselwatte, Panadura, Dehiwala, Mount Lavinia, Hikkaduwa, and several other locations being more vulnerable to drug abuse.
-
-In addition, it is reported that certain areas in the Kandy district have also been identified as areas where school children are most likely to be addicted to drugs.
-
-The NDDCB also stated that the Gampaha, Kurunegala, Anuradhapura, Galle, Ratnapura and Kalutara districts have also been identified as risky.
-
-Peer influence has been identified as a major factor influencing school children’s use of drugs.
-
-...
-
-[Data](articles/975623b3.json)
-
-[Extended Data](ext_articles/975623b3.ext.json)
-
----
-
-### 15 children have escaped from detention
-
-*2025-09-29 08:54:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රඳවම-නවසයන-ළමන-15ක-පන-ගහන/1-680389) · `si`
-
-The Sapugaskanda Police say that 15 children have escaped from Makaya Boys' Detention Center under the Department of Probation and Child Care Department.
-
-These children are allegations on various crimes and are being held on court orders, police said.
-
-These children are children in different parts of the Western Province and have 52 children in the detention center.
-
-Police said the keys were fled and two slopes in front of two nights on the 12 night.
-
-◼️
-
-[Data](articles/2296fb3a.json)
-
-[Extended Data](ext_articles/2296fb3a.ext.json)
 
 ---

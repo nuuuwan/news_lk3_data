@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 15:09:06**
+As of **2025-09-29 14:56:53**
 
 ## Newspaper Stats
 
-*Scraped **79,480** Articles*
+*Scraped **79,476** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 432
-newsfirstlk | 482
+newsfirstlk | 481
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -17,35 +17,21 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,660
+adalk | 7,659
 adaderanalk | 10,248
 tamilmirrorlk | 11,900
 virakesarilk | 12,955
-adaderanasinhalalk | 13,769
+adaderanasinhalalk | 13,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,472 (100.0%) of 79,480 articles have been extended.
+79,472 (100.0%) of 79,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### MP Archchuna Released on Bail After Arrest
-
-*2025-09-29 14:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/mp-archchuna-released-on-bail-after-arrest) · `en`
-
-COLOMBO (News1st); Jaffna District Member of Parliament Dr. Ramanathan Archchuna was released on two personal bail bonds of one million rupees each, following his arrest earlier in the day in connection with an ongoing investigation into a recent protest incident in Colombo.
-
-The arrest took place when the MP arrived at the Fort Police Station to provide a statement regarding allegations that he had verbally abused a police officer during a satyagraha demonstration held in the Fort area.
-
-◼️
-
-[Data](articles/e1856e59.json)
-
----
 
 ### Sri Lanka Drafts First-Ever National Heritage Policy
 
@@ -81,22 +67,6 @@ He pointed to the absence of policy direction, integrity, and respect for law, n
 
 ---
 
-### අර්ච්චුනාට ඇප
-
-*2025-09-29 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215136) · `si`
-
-අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතාට ඇප ලබා දී තිබේ.
-
-අද පෙරවරුවේ ප්‍රකාශයක් ලබා දීම සඳහා කොටුව පොලිස් ස්ථානය වෙත පැමිණි අවස්ථාවේදි ඔහු මෙසේ අත්අඩංගුවට ගෙන තිබුණි.
-
-පසුගියදා කොළඹ කොටුව දුම්රිය ස්ථානය ඉදිරිපිට පැවති සත්‍යග්‍රහයක් අතරතුර එහි පැමිණි මන්ත්‍රීවරයා පොලිස් නිලධාරියෙකුගේ රාජකාරියට බාධා කර ඇති අතර එම සිදුවීම සම්බන්ධව සිදු කෙරෙන විමර්ශනයකට අදාළව මන්ත්‍රීවරයා කොටුව පොලීසිය වෙත පැමිණි අවස්ථාවේදී මෙසේ අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/71bced88.json)
-
----
-
 ### Archchuna Arrested Over Alleged Abuse of Police
 
 *2025-09-29 14:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/archchuna-arrested-over-alleged-abuse-of-police) · `en`
@@ -112,22 +82,6 @@ The arrest was made when the MP arrived at the station with regard to the ongoin
 [Data](articles/143b503d.json)
 
 [Extended Data](ext_articles/143b503d.ext.json)
-
----
-
-### ජනපති ජපාන අග්‍රාමාත්‍යවරයා හමුවෙයි
-
-*2025-09-29 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215135) · `si`
-
-ජපානයේ නිල සංචාරක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන අග්‍රාමාත්‍ය  ඉෂිබා ෂිගේරු  මහතා අතර හමුව ටෝකියෝ නුවරදි සිදුව තිබේ.
-
-එහිදී ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දිගුකාලීන මිත්‍ර සබඳතා සිහිපත් කරමින් දෙරට අතර ස්ථාපිත කර ඇති ගැඹුරු සහ පුළුල් විස්තීරණ හවුල්කාරිත්වයේ රාමුව යටතේ ආරක්ෂාව, ආර්ථික ආයෝජන සහ සංවර්ධන සහයෝගීතාව යන ක්ෂේත්‍රවල සහයෝගීතාව තවදුරටත් වර්ධනය කිරීමට සහ පුළුල් කිරීමට දෙපාර්ශ්වයටම ඇති අරමුණ පිළිබඳව නැවත තහවුරු කර ඇත.
-
-ජාත්‍යන්තර මූල්‍ය අරමුදල් වැඩසටහන අඛණ්ඩව ක්‍රියාත්මක කිරීම සහ ණය ප්‍රතිව්‍යුහගත කිරීම තුළින් ශ්‍රි ලංකා ආර්ථිකය යථා තත්ත්වයට පත් කිරීමේ ගමන් මග පිළිබඳව ජපාන අග්‍රාමාත්‍යවරයා සිය ප්‍රසාදය පළ කළ අතර ශ්‍රී ලංකාවේ ප්‍රතිසංස්කරණ ප්‍රයත්නය සඳහා ජපානය අඛණ්ඩ සහයෝගය දක්වන බව යළිත් අවධාරණය කළේය.
-
-...
-
-[Data](articles/d7d79bb8.json)
 
 ---
 
@@ -298,24 +252,6 @@ It is noteworthy that Archana had heard that the vehicle would be stopped in you
 ◼️
 
 [Data](articles/d7d71650.json)
-
----
-
-### පේරේ සිසුවා රිය අනතුරකින් මරුට
-
-*2025-09-29 13:21:11* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-සිසුවා-රිය-අනතුරකින්-මරුට/11-418788) · `si`
-
-කඩුගන්නාව පොලිස් වසමේ ඌරාපොළ හන්දිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් පේරාදෙණිය විශ්වවිද්‍යාලයේ විද්‍යා පීඨයේ ලබමින් සිටි 24  හැවිරිදි සිසුවෙකු මියගොස් ඇති බව පොලිසිය කියයි.
-
-එම විශ්ව විද්‍යාල සිසුවා කඩුගන්නාව කොළඹ ප්‍රධාන මාර්ගයේ ඊයේ (28) රාත්‍රියේ යතුරු පැදියකින් විශ්ව විද්‍යාලය වෙත යමින් සිටියදී කොළඹ දිසාවට ධාවනය වූ වාහන ප්‍රවාහනය කරන කැරියර් රථයක ගැටීම හේතුවෙන් එම ස්ථානයේදීම සිසුවා මියගොස් ඇති බව පොලිසිය කියයි.
-
-මෙසේ මියගොස් ඇත්තේ අර නායක ප්‍රදේශයේ පදිංචිකරුවකුු වූ තිවංක පියතිස්ස (24) නැමැති පේරාදෙණිය විශ්වවිද්‍යාලයේ විද්‍යා පීඨයේ තුන්වෙනි වසරේ සිසුවෙකි.
-
-පශ්චාත් මරණ පරීක්ෂණය පැවැත්වීම සඳහා මෘත දේහය පෙරදෙණිය ශික්ෂණ රෝහලේ තැන්පත් කොට තිබෙන අතර කැරියර් රථය පැදවූ බව කියන 24 හැවිරිදි රියදුරු කඩුගන්නාව පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/2447f1a5.json)
 
 ---
 
@@ -1902,5 +1838,91 @@ The hospital administration has stated that the child has taken appropriate step
 [Data](articles/07242ca4.json)
 
 [Extended Data](ext_articles/07242ca4.ext.json)
+
+---
+
+### CAA raids over 100 shops for selling rice above control price
+
+*2025-09-29 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113013/caa-raids-over-100-shops-for-selling-rice-above-control-price) · `en`
+
+The Consumer Affairs Authority (CAA) has raided a total of 105 shops over the past two weeks for selling rice above the government-imposed control price.
+
+The Authority announced that legal proceedings are being initiated against those traders who sold rice at inflated prices, in violation of the price regulations.
+
+It further emphasized that strict legal action will be taken against anyone selling rice above the stipulated price.
+
+According to the CAA, if a sole proprietorship is found guilty of such an offense, the owner can be fined between Rs. 100,000 and Rs. 500,000, or face imprisonment for up to five months, or both.
+
+The Authority further stated that under the CAA Act, if a private company is found guilty of selling rice above the control price, the court may impose a fine ranging from Rs. 500,000 to Rs. 5 million.
+
+In cases where rice is concealed, the court also has the authority to impose a fine, imprisonment, or both, in addition to confiscating the relevant stock of goods.
+
+...
+
+[Data](articles/99db72e0.json)
+
+[Extended Data](ext_articles/99db72e0.ext.json)
+
+---
+
+### One killed and 12 missing from the hurricane of Vietnam
+
+*2025-09-29 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215125) · `si`
+
+"Buloi 'has died due to the hurricane," the bullock affected.
+
+Another 12 persons have gone missing, foreign media reports said.
+
+Over 28,500 people have taken steps to protect over 28,500 people to safe locations due to this inclement weather.
+
+The authorities have also taken steps to temporarily close four airports in Vietnam.
+
+◼️
+
+[Data](articles/fbb50621.json)
+
+[Extended Data](ext_articles/fbb50621.ext.json)
+
+---
+
+### NDDCB reports higher risk of drug addiction among schoolchildren in Western Province
+
+*2025-09-29 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/113012/nddcb-reports-higher-risk-of-drug-addiction-among-schoolchildren-in-western-province) · `en`
+
+The National Dangerous Drugs Control Board (NDDCB) has revealed that the highest number of drug-addicted schoolchildren in the country is reportedly from the Western Province.
+
+The NDDCB further noted that Colombo District records the highest number of cases, with children from low-income communities in areas such as Grandpass, Thotalanga, Slave Island, Angulana, Keselwatte, Panadura, Dehiwala, Mount Lavinia, Hikkaduwa, and several other locations being more vulnerable to drug abuse.
+
+In addition, it is reported that certain areas in the Kandy district have also been identified as areas where school children are most likely to be addicted to drugs.
+
+The NDDCB also stated that the Gampaha, Kurunegala, Anuradhapura, Galle, Ratnapura and Kalutara districts have also been identified as risky.
+
+Peer influence has been identified as a major factor influencing school children’s use of drugs.
+
+...
+
+[Data](articles/975623b3.json)
+
+[Extended Data](ext_articles/975623b3.ext.json)
+
+---
+
+### 15 children have escaped from detention
+
+*2025-09-29 08:54:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රඳවම-නවසයන-ළමන-15ක-පන-ගහන/1-680389) · `si`
+
+The Sapugaskanda Police say that 15 children have escaped from Makaya Boys' Detention Center under the Department of Probation and Child Care Department.
+
+These children are allegations on various crimes and are being held on court orders, police said.
+
+These children are children in different parts of the Western Province and have 52 children in the detention center.
+
+Police said the keys were fled and two slopes in front of two nights on the 12 night.
+
+◼️
+
+[Data](articles/2296fb3a.json)
+
+[Extended Data](ext_articles/2296fb3a.ext.json)
 
 ---

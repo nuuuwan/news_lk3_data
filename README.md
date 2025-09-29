@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 12:39:11**
+As of **2025-09-29 13:07:03**
 
 ## Newspaper Stats
 
-*Scraped **79,423** Articles*
+*Scraped **79,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,14 +12,14 @@ lankadeepalk | 427
 newsfirstlk | 475
 dbsjeyarajcom | 635
 bbccomsinhala | 707
-colombotelegraphcom | 798
+colombotelegraphcom | 799
 dailymirrorlk | 4,733
-economynextcom | 4,734
+economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,654
 adaderanalk | 10,248
-tamilmirrorlk | 11,894
+tamilmirrorlk | 11,897
 virakesarilk | 12,933
 adaderanasinhalalk | 13,762
 
@@ -27,11 +27,63 @@ adaderanasinhalalk | 13,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,421 (100.0%) of 79,423 articles have been extended.
+79,425 (100.0%) of 79,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### ”LGBTQ சுற்றுலாவை ஊக்குவிக்க வேண்டாம்”
+
+*2025-09-29 12:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/LGBTQ-சுற்றுலாவை-ஊக்குவிக்க-வேண்டாம்/175-365474) · `ta`
+
+இலங்கையில் LGBTQ சுற்றுலாவை மேம்படுத்துவதற்கு அனுமதிக்கும் அரசாங்கத்தின் நடவடிக்கையை விமர்சித்த கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித், அத்தகைய நடவடிக்கை நாட்டின் கலாச்சாரத்தை அழித்துவிடும் என்றார்.
+
+"தங்கள் ஏற்றுக்கொள்ள முடியாத ஆசைகளை நிறைவேற்ற இங்கு வரும் வெளிநாட்டினரால் இலங்கையின் குழந்தைகள் மற்றும் இளைஞர்கள் பலியாக அனுமதிக்கக்கூடாது. ஜனாதிபதி அனுரகுமார திசாநாயக்க இதை அறிந்திருக்கிறாரா என்பது எங்களுக்குத் தெரியாது, ஆனால் அவர் பிரச்சினையின் தீவிரத்தை புரிந்துகொள்வார் என்று நாங்கள் நம்புகிறோம்," என்று கர்தினால் ரஞ்சித் ஞாயிற்றுக்கிழமை வழிபாட்டில் கூறினார்.
+
+"ஓரினச்சேர்க்கை மனப்பான்மையுடன் பிறந்தவர்களை நாம் துன்புறுத்தக்கூடாது. அவர்களை கருணையுடன் நடத்த வேண்டும். இருப்பினும், அத்தகைய மனப்பான்மையுடன் பிறக்காதவர்களை மாற்றும்படி கட்டாயப்படுத்தக்கூடாது," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/7004918c.json)
+
+---
+
+### அந்த உறுப்பில் இருந்த நகக்கீறல்: திடுக்கிடும் தகவல்
+
+*2025-09-29 12:22:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-உறுப்பில்-இருந்த-நகக்கீறல்-திடுக்கிடும்-தகவல்/175-365472) · `ta`
+
+திருவெரும்பூர் ரயில்வே டிராக்கிற்கு அருகில் தனியார் பேருந்து ஓட்டுணரான கே. ரமேஷ்குமார் (50) கொடூரமாக குத்தப்பட்ட நிலையில் சடலமாகக் கண்டுபிடிக்கப்பட்ட சம்பவம் திருச்சியில் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+இந்தக் கொலையின் பின்னணியில் ஓட்டுநருக்கும் குற்றவாளியின் மனைவிக்கும் இடையிலான தகாத உறவே உள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குற்றவாளிகளாக அம்பேத்கர் நகரைச் சேர்ந்த வீரமுத்து (52) மற்றும் அவரது மனைவி லட்சுமி (45) ஆகிய தம்பதியர் கைது செய்யப்பட்டுள்ளனர்.சம்பவம் வியாழக்கிழமை இரவு நேரத்தில் நடந்ததாகக் கூறப்படுகிறது.
+
+ரமேஷ்குமார் தனது வேலையை முடித்துவிட்டு வீட்டுக்கு திரும்பிக் கொண்டிருந்தபோது, அவரது வீட்டிற்கு அருகில் வீரமுத்து தம்பதியருடன் சச்சரவு ஏற்பட்டது. தகாத உறவு காரணமாக வீரமுத்து முன்பே ரமேஷ்குமாருக்கு எச்சரிக்கை விடுத்திருந்தார்.
+
+...
+
+[Data](articles/b1c173d6.json)
+
+---
+
+### தடுப்பு மையத்திலிருந்து 15 சிறார்கள் தப்பினர்
+
+*2025-09-29 12:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பு-மையத்திலிருந்து-15-சிறார்கள்-தப்பினர்/175-365471) · `ta`
+
+நன்னடத்தை மற்றும் குழந்தைகள் பாதுகாப்புத் துறையின் கட்டுப்பாட்டில் உள்ள மாகொல சிறுவர் தடுப்பு மையத்திலிருந்து 15 சிறுவர்கள் தப்பிச் சென்றுள்ளதாக சப்புகஸ்கந்த காவல்துறை தெரிவித்துள்ளது.
+
+இந்தக் குழந்தைகள் பல்வேறு குற்றங்களுக்காக நீதிமன்ற உத்தரவின் பேரில் தடுத்து வைக்கப்பட்டுள்ளவர்கள் என்றும், மஹர, கொழும்பு, மாளிகாகந்த மற்றும் கடுவெல உள்ளிட்ட பல நீதிமன்றங்களில் அவர்களுக்கு எதிராக வழக்குகள் விசாரிக்கப்பட்டு வருவதாகவும் காவல்துறை தெரிவித்துள்ளது.
+
+இந்தக் குழந்தைகள் மேற்கு மாகாணத்தின் பல்வேறு பகுதிகளைச் சேர்ந்த குழந்தைகள் என்றும், 16 மற்றும் 17 வயதுடையவர்கள் என்றும் காவல்துறை தெரிவித்துள்ளது. இந்தத் தடுப்பு மையத்தில் 52 குழந்தைகள் உள்ளனர் என்றும் காவல்துறை தெரிவித்துள்ளது.
+
+இந்தக் குழந்தைகள் கடந்த 27 ஆம் திகதி நள்ளிரவு 12 மணியளவில் அவர்கள் தடுத்து வைக்கப்பட்டிருந்த இரண்டு அறைகளின் ஜன்னல் மற்றும் கதவை உடைத்து தப்பிச் சென்றதாகவும், அங்கு இரண்டு காவலர்கள் பணியில் இருந்ததாகவும் காவல்துறை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5e53f05c.json)
+
+---
 
 ### The bus that was traveling to Jaffna escaped: 28 people escaped
 
@@ -63,6 +115,8 @@ Valappanai police said that no one was injured in the accident and the passenger
 
 [Data](articles/c7f8ab18.json)
 
+[Extended Data](ext_articles/c7f8ab18.ext.json)
+
 ---
 
 ### Recovery as corpses in Mawanella
@@ -78,6 +132,26 @@ Rescue operations have been initiated to rescue those who have been trapped unde
 [Data](articles/f475da24.json)
 
 [Extended Data](ext_articles/f475da24.ext.json)
+
+---
+
+### Mathisha Hewavitharana to head Sri Lanka’s Siyapatha Finance
+
+*2025-09-29 11:55:00* · [`economynextcom`](https://economynext.com/mathisha-hewavitharana-to-head-sri-lankas-siyapatha-finance-242118/) · `en`
+
+ECONOMYNEXT – Mathisha Bhadrika Don Hewavitharana will become chief executive officer of Siyapatha Finance PLC, with effect from October 1, the company said.
+
+Hewavitharana currently serves as the chief strategy officer of Siyapatha Finance, a subsidiary of Sampath Bank.
+
+A brief profile of Hewavitharana, as provided by the finance company, follows:
+
+Mr. Mathisha Hewavitharana possesses over 20 years of extensive experience in the financial services industry, having commenced his professional journey in 2005 at Siyapatha Finance PLC. His career has encompassed a wide array of functional areas, including Marketing, Credit, Branch Operations, Branding and Marketing Communications, Product and Business Development, and Strategic Planning and Execution.
+
+...
+
+[Data](articles/0a8442be.json)
+
+[Extended Data](ext_articles/0a8442be.ext.json)
 
 ---
 
@@ -221,17 +295,19 @@ The two countries will focus on the fields, investment, investment cooperation a
 
 ---
 
-### පස් කන්දට යටවූ දෙදෙනෙකුගේ සිරුරු ගොඩ ගනියි
+### The bodies of two of two flooding on the mound
 
 *2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-දෙදෙනෙකුගේ-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
 
-11.54 A.M. මාවනැල්ල, මාණික්කාව ප්‍ර දේශයේ තාප්පයක් බදිමින් සිටි කම්කරුවක් පිරිසක් මතට පස් කන්දක් කඩා වැටීමෙන් සිදුවූ අනතුරින් එම පස්කන්දට යටවී සිටි කම්කරුවන් දෙදෙනෙකුගේ සිරුරු මේ වන විට ගොඩගෙන තිබේ.
+11.54 A.M. The bodies of two workers who were subjected to a wall of Mawanella and a wall of the land of Menikka have been recovered from the crash.
 
-11.24 A.M  අලුත්නුවර, මාණික්කාව ප්‍රදේශයේ තාප්පයක් බඳිමින් සිටි කම්කරුවන් පිරිසක් මතට පස් කන්දක් කඩා වැටී තිබේ. ඔවුන් මුදාගැනීමේ කටයුතු ආරම්භ කර තිබේ. අනතුර සිදුවන අවස්ථාව වන විට කම්කරුවන් තිදෙනෙක් පමණ සේවය කරමින් සිට තිබේ.
+11.24 A mound has collapsed on a group of workers who were in the Menikka area in the Manikka area. They have begun rescue work. About three workers were serving as the accident occurred.
 
 ◼️
 
 [Data](articles/7f0d6043.json)
+
+[Extended Data](ext_articles/7f0d6043.ext.json)
 
 ---
 
@@ -702,6 +778,32 @@ After the match, the frustration of the defeat in the face of Pakistan Captain S
 [Data](articles/d704d910.json)
 
 [Extended Data](ext_articles/d704d910.ext.json)
+
+---
+
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-09-29 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242096/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 302.62/65 to the US dollar on Monday, weaker from 302.50/55 on Friday, while bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2029 was quoted at 9.55/60 percent, up from 9.54/60 percent.
+
+A bond maturing on 01.07.2030 was quoted at 9.68/72 percent, up from 9.67/70 percent.
+
+A bond maturing on 15.03.2031 was quoted at 10.00/10 percent.
+
+A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.43/48 percent.
+
+The Colombo Stocks Exchange was trading in green; The ASPI was up 0.33 percent, or 70.41 points, at 21,669; the S&P SL20 was up 0.34 percent, or 20.64 points, at 6,132.
+
+43,000 million rupees Treasury bills are to be issued through an auction on October 1. (Colombo/Sep29/2025)
+
+◼️
+
+[Data](articles/71000460.json)
+
+[Extended Data](ext_articles/71000460.ext.json)
 
 ---
 
@@ -1371,6 +1473,20 @@ But experts told AFP that Netanyahu appeared to be cornered, facing growing inte
 
 ---
 
+### Hopefully, President AKD Now Sees Why The Public Service Is Slow
+
+*2025-09-29 07:00:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hopefully-president-akd-now-sees-why-the-public-service-is-slow/) · `en`
+
+President of Anura Kumara Dissanayake (AKD) remarked a few days ago that the public service appears to be dragging its feet. He cited a few reasons—but in truth, there are more that deserve the attention of his ministers, particularly on why government machinery so often creaks instead of hums.
+
+Politicization in the Past –  For decades, ministries danced to the tunes of politicians rather than the rhythms of good governance. Entire procedures and departments were bent to serve political masters, with “development” often meaning “deals.” Now that such undue influence is said to be fading, there really is no excuse for delays.
+
+...
+
+[Data](articles/21b32d69.json)
+
+---
+
 ### Four persons killed in a chapelled in America
 
 *2025-09-29 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215119) · `si`
@@ -1840,133 +1956,5 @@ The Book Fair, running from 27 September to 6 October, is one of Colombo’s mos
 [Data](articles/431e3a52.json)
 
 [Extended Data](ext_articles/431e3a52.ext.json)
-
----
-
-### Former Western PC member Amal Silva arrested by Walana Anti-Vice Squad
-
-*2025-09-29 05:31:50* · [`dailyftlk`](https://www.ft.lk/news/Former-Western-PC-member-Amal-Silva-arrested-by-Walana-Anti-Vice-Squad/56-782293) · `en`
-
-Former Western Provincial Council (PC) member Amal Silva was arrested yesterday by the Walana Anti-Vice Squad, along with three luxury vehicles worth around Rs. 60 million, which had been allegedly registered using forged documents.
-
-Police said he was arrested during a raid carried out based on intelligence received by the Walana Anti-Vice Squad.
-
-According to reports, the vehicles had been illegally imported into the country and registered with the Department of Motor Traffic under fraudulent registration numbers using forged documentation.
-
-Among the vehicles seized were three SUVs, including a Land Rover and Mitsubishi Jeep.
-
-Preliminary Police investigations have revealed that the registration numbers used belonged to State-owned vehicles, and fake documents were generated to facilitate the illegal registration of these luxury vehicles.
-
-The suspect is scheduled to be produced before the Panadura Magistrate’s Court today (29).
-
-◼️
-
-[Data](articles/9da8ba79.json)
-
-[Extended Data](ext_articles/9da8ba79.ext.json)
-
----
-
-### CPSTL to enforce merit-based hiring and promotions
-
-*2025-09-29 05:31:33* · [`dailyftlk`](https://www.ft.lk/news/CPSTL-to-enforce-merit-based-hiring-and-promotions/56-782292) · `en`
-
-Ceylon Petroleum Storage Terminals Ltd., (CPSTL) last week said future decisions on recruitment, promotions, and transfers will be based solely on merit, free from political or personal influence.
-
-CPSTL Chairman D.J.A.S. De S. Rajakaruna, speaking at a media briefing marking one year of the Government’s tenure, said the company had operated without a clear human resources framework for more than three decades. A new policy has now been introduced to address this gap, he noted.
-
-The Chairman urged the public not to seek jobs or transfers through Ministers or senior officials, stressing that only qualifications and experience would guide decisions.
-
-Rajakaruna added that in restructuring its workforce, the company had to reduce staff numbers due to skills gaps and mismatched roles. The new organisational plan, prepared by a State institution after a comprehensive study, defines positions and appointments according to professional criteria.
-
-...
-
-[Data](articles/b7a4bb77.json)
-
-[Extended Data](ext_articles/b7a4bb77.ext.json)
-
----
-
-### Sri Lanka budget deficit down 55-pct in August amid tax inflows, moderate capex
-
-*2025-09-29 05:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-55-pct-in-august-amid-tax-inflows-moderate-capex-242067/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit fell to 411 billion rupees in August 2025, down 55 percent from a year earlier, amid a 30.7 percent rise in taxes and slower capital expenditure, official data showed.
-
-Tax revenues grew to 3,068.5 billion rupees, from 2,348.5 billion rupees, and current spending also grew by a double-digit 11.2 percent to 3,381 billion rupees.
-
-Sri Lanka has a public sector bloated by unemployed graduates, and salaries eat up a large volume of taxes, though nominal wage levels fell after recent currency crises and they now have to be increased. A salary hike was given this year.
-
-Central bank wages have been steeply increased amid criticism as it was responsible for the high level of inflation and open market operations, which critics hold out as the height of unaccountability.
-
-Central bank wages are not directly seen in the budget, but is an item that affects non-tax revenues.
-
-...
-
-[Data](articles/66647f71.json)
-
-[Extended Data](ext_articles/66647f71.ext.json)
-
----
-
-### The sacrificial torch Dileepan is not related to the incident; Gajendra team is muddy on us -Ramalingam Chandrasekhar
-
-*2025-09-29 04:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226361) · `ta`
-
-Ramalingam Chandrasekhar, a member of the party's executive committee and minister, said the Gajendra team was muddy on us, saying that the sacrificial torch of Dileepan's commemoration on the last day of the pamphlets and the national people's power had nothing to do.
-
-Fisheries Minister Ramalingam Chandrasekhar made this statement while speaking to the media in Jaffna on Sunday (28).
-
-Dileepan Memorial has been held for the past one week. Was blocked when we went to perform the observance there. After that a few days ago, the last day of memory ended. It was reported that someone had distributed pamphlets on that day and that the Gajendra team had dealt with their violence against him, and some others who had gone to hear justice.
-
-The incident has nothing to do with the national people's power. There is no contribution in this. We don't have that downstream work. As a ruling party, we can take a different way if we want to take up the little ones. We do not do that iconic work.
-
-...
-
-[Data](articles/cccddba1.json)
-
-[Extended Data](ext_articles/cccddba1.ext.json)
-
----
-
-### Underworld Groups - Eradication of Drug Network - President
-
-*2025-09-29 04:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226360) · `ta`
-
-I will completely eliminate the state administrative structure of the underworld groups and drug traders. President Anura Kumara Dissanayake said many politicians were disturbed when many facts were revealed.
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said this while addressing the Sri Lankan community living in Japan on Sunday (28) in Tokyo.
-
-The drug has caused a massive destruction in the social structure. இளைஞர் யுவதிகளில் பெரும்பாலானோர் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள். Most of the prisoners in prisons are involved in drugs and accusations.
-
-The drug trade and the underworld groups are acting as a black kingdom. Negombo police and Tangalle police have been arrested in connection with the shooting incident within the Pudukkadai court.
-
-Army officers who sold arms to the underworld have now been arrested and the T56 guns have gone out of the military camps.
-
-...
-
-[Data](articles/6f54e42b.json)
-
-[Extended Data](ext_articles/6f54e42b.ext.json)
-
----
-
-### United National Party (UNP)
-
-*2025-09-29 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226359) · `ta`
-
-The United National Party (UNP) Chairman Vajira Abeywardena said that we should continue to carry out those contacts.
-
-He was speaking at a press conference held at the United National Party office in Galle on Sunday (28).
-
-The media reported that it was going to look into the assets and responsibilities of politicians and celebrities. My name was also in it. I have submitted over 30 years in relation to my property and responsibilities. Ranil Wickremesinghe has been submitted to the presidency of Ranil Wickremesinghe, through the government's sanctioned anti -corruption law.
-
-When some of our political parties showed up to the world as our country was corrupt, Ranil Wickremasinghe allowed the anti -corruption Bill on August 8, 2023, to Parliament on August 8, 2023.. Must remember one of the people in particular. Ranil Vikramasi, who ruled the country for two and a half years, has set up legal plans to curb this corruption within the country.
-
-...
-
-[Data](articles/978b42ef.json)
-
-[Extended Data](ext_articles/978b42ef.ext.json)
 
 ---

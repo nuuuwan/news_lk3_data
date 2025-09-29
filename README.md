@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 13:57:32**
+As of **2025-09-29 14:24:47**
 
 ## Newspaper Stats
 
-*Scraped **79,463** Articles*
+*Scraped **79,470** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 430
+lankadeepalk | 431
 newsfirstlk | 478
 dbsjeyarajcom | 635
 bbccomsinhala | 707
@@ -19,35 +19,167 @@ islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,657
 adaderanalk | 10,248
-tamilmirrorlk | 11,897
+tamilmirrorlk | 11,900
 virakesarilk | 12,955
-adaderanasinhalalk | 13,764
+adaderanasinhalalk | 13,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,462 (100.0%) of 79,463 articles have been extended.
+79,467 (100.0%) of 79,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### අර්ච්චුනා අත්අඩංගුවට
+### சீனாவின் முன்னாள் அமைச்சருக்கு மரண தண்டனை
+
+*2025-09-29 13:50:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-முன்னாள்-அமைச்சருக்கு-மரண-தண்டனை/50-365479) · `ta`
+
+சீனாவின் விவசாய மற்றும் கிராமிய  விவகாரத் துறையின் முன்னாள் அமைச்சர் டொங் ரெஞ்சியனுக்கு மரண தண்டனை விதித்து அந்நாட்டு நீதிமன்றம் ஞாயிற்றுக்கிழமை (28) உத்தரவிட்டுள்ளது.
+
+முன்னாள் அமைச்சர் டொங் ரெஞ்சியன் 2007 முதல் 2024-ஆம் ஆண்டு வரை மத்திய மற்றும் உள்ளூர் அளவில் அவர் வகித்த பல்வேறு பதவிகளை தவறாகப் பயன்படுத்தியதாகக் கூறப்படுகிறது.
+
+வணிக நடவடிக்கைகள், திட்ட ஒப்பந்தம் மற்றும் வேலை வழங்குதல் போன்ற விடயங்களில் சட்டவிரோதமாக மொத்தம் 268 மில்லியன் டொலர் ரொக்கமாகவும் மதிப்புமிக்க பொருட்களாகவும் அவர் பெற்றுள்ளார்.
+
+இந்த வழக்கை விசாரித்த வடகிழக்கு சீனாவின் ஜிலின் மாகாணத்தில் உள்ள சாங்சுனின் இடைநிலை நீதிமன்றம், அவருக்கு மரணதண்டனை விதித்து நேற்று தீா்ப்பளித்தது. மேலும், அவரது அரசியல் உரிமைகள் அனைத்தும் பறிக்கப்படுவதாக நீதிமன்றம் தெரிவித்தது.
+
+◼️
+
+[Data](articles/37e71c7e.json)
+
+---
+
+### Western Provincial Councilor Amal Silva released on bail
+
+*2025-09-29 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215134) · `si`
+
+Western Provincial Counciation Unit, who was arrested with three luxury vehicles for 3 billion rupees registered with fake documents, was bailed by the Western Provincial Counciation Unit.
+
+He issued the order by the Panadura Magistrate's Court today (29).
+
+Former Western Provincial Councilor Amal Silva Walana Police had arrested three luxury vehicles worth Rs.
+
+It is said that these traffic is illegally imported to the country and registered under the Department of Motor Traffic.
+
+There were three LAND ROVER and Mitsubishily jeeps.
+
+Preliminary investigations have been revealed that the vehicles made under the registered vehicles of state institutions under registered vehicles belonging to state institutions have been identified.
+
+◼️
+
+[Data](articles/c82d41d2.json)
+
+[Extended Data](ext_articles/c82d41d2.ext.json)
+
+---
+
+### கிளிநொச்சியில் குண்டு வெடிப்பு : இருவர் படுகாயம்
+
+*2025-09-29 13:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-குண்டு-வெடிப்பு-இருவர்-படுகாயம்/175-365478) · `ta`
+
+கிளிநொச்சி தட்டுவான் கொட்டியில் இன்று காலை 11:30 மணியளவில் குண்டு வெடிப்பு சம்பவம் ஒன்று இடம்பெற்றுள்ளது .
+
+பாழடைந்த வீடொன்றில் அகழ்வு பணிக்காக சென்ற இரு நபர்கள் தமது பணியினை தொடர்ந்த போது நிலத்திற்கு கீழ் இருந்த குண்டு வெடித்துள்ளது இதன் போது பலத்த காயமடைந்த இருவரும் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்
+
+◼️
+
+[Data](articles/63130853.json)
+
+---
+
+### The role of healing the tying veins
+
+*2025-09-29 13:39:37* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/ගුලි-වෙලා---ගැට-ගැසෙන-නහර-ගැට-ගැසීම--සුවකරන-රක්තමෝක්ෂන/12-680415) · `si`
+
+◼️
+
+[Data](articles/df1d8cf5.json)
+
+[Extended Data](ext_articles/df1d8cf5.ext.json)
+
+---
+
+### Two injured in an explosion in Kilinochchi
+
+*2025-09-29 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215132) · `si`
+
+Two persons were seriously injured in a pittunction of Gupakita, Kilinochchi.
+
+The crash is thriving when two people who have gone to a dilapidated house excavation.
+
+Two persons who were seriously injured in the explosion have been admitted to the Kilinochchi hospital for emergency treatment.
+
+◼️
+
+[Data](articles/433df147.json)
+
+[Extended Data](ext_articles/433df147.ext.json)
+
+---
+
+### Court of judge into court
+
+*2025-09-29 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215133) · `si`
+
+The Court of Appeal has set to the Department of Wildlife on November 10 regarding the intervention of the Asia Center for the intervention of the Appeal Court.
+
+The petition was called before the Court of Appeal of Damith Thotawatte and Sarath Dissanayake today (29).
+
+In the intervention of the Elephant conflict, the previous environmentality center was prepared by the Environmental Justice Center.
+
+Attorney-at-Law Dr. Ravindranath Dabare, appearing on behalf of the Environment Cartoon, said that when the case had not been implemented to implement the series of proposals.
+
+He accused the wildlife department to date the actions taken against implementing the series of proposals.
+
+After considering the proposals, the judges' panel has been asked to implement this proposal to the Department of Wildlife on November 10.
+
+◼️
+
+[Data](articles/769466f2.json)
+
+[Extended Data](ext_articles/769466f2.ext.json)
+
+---
+
+### தலையிலா நிறுத்துவது: அர்ச்சுனா கைது
+
+*2025-09-29 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையிலா-நிறுத்துவது-அர்ச்சுனா-கைது/175-365477) · `ta`
+
+புறக்கோட்டை பொலிஸ் நிலையத்துக்கு வாக்குமூலமொன்றை வழங்குவதற்காக இன்று காலை சென்ற பாராளுமன்ற உறுப்பினர் இராமநாதன் அருச்சுனா புறக்கோட்டை பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+கொழும்பில் அண்மையில் நடைபெற்ற சத்தியாக்கிரகத்தில் பங்குபற்றியமையையடுத்து புறக்கோட்டை பொலிஸ் நிலைய பொலிஸ் அதிகாரியொருவரை அவதூறுக்குள்ளாக்கியதாக காணொளிகள் வெளியாகிய சம்பவத்தையடுத்தே இக்கைது இடம்பெற்றுள்ளது.
+
+குறித்த விடயம் தொடர்பாக இடம்பெற்றுக் கொண்டிருக்கும் விசாரணையொன்றின் அங்கமொன்றாகவே கைது இடம்ம்பெற்றதாக பொலிஸார் உறுதிப்படுத்தியுள்ளனர்.
+
+பாராளுமன்ற உறுப்பினர் அர்ச்சுனா, தான் வந்த வாகனத்தை, பாதசாரிகள் கடவையில் நிறுத்தியுள்ளார். அப்போது அங்கிருந்த போக்குவரத்து பொலிஸார், வாகனத்தை இவ்விடத்தில் நிறுத்தக்கூடாது என கூறியுள்ளார்.
+
+அப்போது, வாகனத்தை இங்கு நிறுத்தாமல் உங்கள் தலையிலா நிறுத்துவது என அர்ச்சுனா கேட்டிருந்தார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ef195d8a.json)
+
+---
+
+### Archhechchi arrested
 
 *2025-09-29 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215131) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා කොටුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+MP Ramanathan Arachchuna has been arrested by the Fort Police.
 
-අද (29) පෙරවරුවේ ප්‍රකාශයක් ලබා දීම සඳහා කොටුව පොලීසිය වෙත පැමිණි අවස්තාවේදි ඒ මහතා මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+He was arrested at the time of the Fort to Police today (29).
 
-පසුගියදා කොළඹ පැවැති සත්‍යග්‍රහයක් අතරතුර එහි පැමිණී මන්ත්‍රීවරයා පසුව කොටුව පොලීසියේ පොලිස් නිලධාරියෙකුට බැණ වැදුණු අයුරු දක්නට ලැබුණි.
+The MP was found recently during a Sathyagraha in Colombo recently.
 
-එම සිදුවීම සම්බන්ධව සිදුකරන විමර්ශනයකට අදාළව මන්ත්‍රීවරයා කොටුව පොලීසිය වෙත පැමිණි අවස්ථාවේදී අද පෙරවරුවේ අත්අඩංගුවට ගෙන ඇත.
+The MP has arrested the MP at an investigation into the incident this morning.
 
 ◼️
 
 [Data](articles/d9a3a1c6.json)
+
+[Extended Data](ext_articles/d9a3a1c6.ext.json)
 
 ---
 
@@ -1796,163 +1928,5 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake is on the third day of h
 [Data](articles/e303d021.json)
 
 [Extended Data](ext_articles/e303d021.ext.json)
-
----
-
-### 96 vehicles missing in the Survey Department
-
-*2025-09-29 08:35:51* · [`adalk`](https://www.ada.lk/breaking_news/මිනින්දෝරු-දෙපාර්තමේන්තුවේ-වාහන-96ක්-අතුරුදන්/11-418778) · `si`
-
-A audit report issued by the National Audit Office is unable to find any information in the area of ​​the Survey Department.
-
-According to the Department of Motor Traffic, 384 vehicles have been selected in the Survey Department's Transport Division. According to the Audit report, the Department is not included in the vehicle list.
-
-Four vehicles are after 2006, and the audit has revealed that the remaining vehicles were between 1957 and 1996.
-
-The main accounting officer of the Survey Department has stated that the department has taken advice with the consultation of the vehicles that do not have advice on the audit.. The main accounting officer has stated that he is planning to consult the Motor Traffic Department.
-
-Since it is very old, the archives have been found to be tested, including the archives.  This information is included in the audit report issued by the Survey Department of 2024.
-
-◼️
-
-[Data](articles/ccdb7800.json)
-
-[Extended Data](ext_articles/ccdb7800.ext.json)
-
----
-
-### Weather today
-
-*2025-09-29 08:31:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680387) · `si`
-
-Several spells of showers can be in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya Districts.
-
-The North Western Province is also reported today (29).
-
-In the Uva Province and Ampara District. Showers or thundershowers will occur at a few places about 2.00.
-
-Vitth in the North, North-Central, North Western and Central provinces, North, North-Central, North Western and Central provinces
-
-◼️
-
-[Data](articles/63d0d0c5.json)
-
-[Extended Data](ext_articles/63d0d0c5.ext.json)
-
----
-
-### Weather today
-
-*2025-09-29 08:31:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680387) · `si`
-
-Several spells of showers can be in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya Districts.
-
-The North Western Province is also reported today (29).
-
-In the Uva Province and Ampara District. Showers or thundershowers will occur at a few places about 2.00.
-
-Vitth in the North, North-Central, North Western and Central provinces, North, North-Central, North Western and Central provinces
-
-◼️
-
-[Data](articles/f573d047.json)
-
-[Extended Data](ext_articles/f573d047.ext.json)
-
----
-
-### Seven fatal accidents, six killed in clashes
-
-*2025-09-29 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215123) · `si`
-
-A car traveling towards the road to Minuwangoda, near the Montah Junction of the Ela Minuwangoda road, has been reported from Jawangoda.
-
-The pavement was seriously injured and rushed to the Ragama Hospital with serious injuries.
-
-The deceased has been identified as a 60 year old resident of Ja-Ja Ela.
-
-Also, Deniyaya, a motorbike rode towards the 61st kilometer in Akuressa road, a motorbike has been collided with a motorbike.
-
-The motor vehicle and the victim was seriously injured and admitted to the Kosnelugoda hospital.
-
-The deceased has been identified as 19 year old resident of Morawaka.
-
-Meanwhile, a fatal accident occurred in the Talahena area on Kollupitiya road.
-
-The accident had occurred when a motorcycle was not to control the motorcycle to Koswatta.
-
-The driver and the passagers were seriously injured and rushed to the Koswatta hospital.
-
-The victim is a 21 year old resident of Sri Subhthipipura, Battaramulla.
-
-...
-
-[Data](articles/fa3e5fca.json)
-
-[Extended Data](ext_articles/fa3e5fca.ext.json)
-
----
-
-### Shapes leading to court against Diyawadana Nilame
-
-*2025-09-29 08:29:17* · [`adalk`](https://www.ada.lk/breaking_news/දියවඩන-නිලමේ-නිලවරණයට-එරෙහිව-අධිකරණයට-යන-හැඩ/11-418777) · `si`
-
-Civil Intelligence Front (Civil Intelligence) Convener of the Kandyan Front (Civil Intelligence) will be resolved to be resolved for the appointment of a historic Sri Dalada Maligawa.
-
-He emphasized that the Trustees of nearly 160 rules are yet to be officially announced by the Kandyan Kingdom of Diyawadana.
-
-Commissioner General of Buddhist Affairs RMG. Sanjaya said that when a query from Mr. Senaratne has not received the number of electoral names so far from the Ministry of Affairs.
-
-It is said that the resident of the adult monks who were the Rajamaha Viharaya stewards had been identified as the first custodians.
-
-The convener of the Civil Intelligence Front Sanjaya Mahawatta says that this is the only vote of the world that has not been summoned by voters in any voter turnout.
-
-Meanwhile, Commissioner General of Buddhist Affairs RMG. Senaratne has informed the Sri Diyawadana Nilame candidagama, Senkadagala.
-
-...
-
-[Data](articles/adc479ed.json)
-
-[Extended Data](ext_articles/adc479ed.ext.json)
-
----
-
-### India’s Operation Sindoor Referenced by Prime Minister Following Cricket Victory Over Pakistan
-
-*2025-09-29 08:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/india%e2%80%99s-operation-sindoor-referenced-by-prime-minister-following-cricket-victory-over-pakistan) · `en`
-
-Following India’s cricket victory over Pakistan, Prime Minister Narendra Modi referred to Operation Sindoor, describing it as a significant achievement for the nation.In a statement, the Prime Minister highlighted that the victory was one of the positive outcomes and represented a triumph for India. He also extended his best wishes to the Indian cricket team.In yesterday’s thrilling final, India defeated arch-rivals Pakistan by five wickets.The Operation Sindoor refers to India’s military action carried out against Pakistan in response to the recent terrorist attack that took place in Pahalgam.
-
-◼️
-
-[Data](articles/b4c47e59.json)
-
-[Extended Data](ext_articles/b4c47e59.ext.json)
-
----
-
-### Indian Trophy rejected the Asian Trophy
-
-*2025-09-29 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215122) · `si`
-
-The Indian Cup 20 has refused to win the trophy to win the final.
-
-The Minister of Home Affairs, Minister of Home Affairs and the President of the Asian Cricket Council Mohazin Naki was reluctant to give the cup.
-
-"We have decided not to gain Asia's Trophy at the hands of Pakistan, the ACC Chairman of ACC," said the Governing Board of the Cricket Board.
-
-The Asian Cricket Council has informed me that the Indian cricket team will not receive their awards tonight. "
-
-Indian captain Surkumar Yadav said that he had not seen the loss of a champion since he started playing cricket.
-
-However, the Indian team who refused to get the Asian cup was celebrated without the cup.
-
-India won 147 runs for the loss of 57 runs for the loss of 5 wickets in the final in yesterday's final.
-
-◼️
-
-[Data](articles/9412fdee.json)
-
-[Extended Data](ext_articles/9412fdee.ext.json)
 
 ---

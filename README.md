@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 22:22:42**
+As of **2025-09-29 22:38:11**
 
 ## Newspaper Stats
 
-*Scraped **79,627** Articles*
+*Scraped **79,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,667
 adaderanalk | 10,274
-tamilmirrorlk | 11,915
+tamilmirrorlk | 11,918
 virakesarilk | 12,992
 adaderanasinhalalk | 13,786
 
@@ -27,99 +27,145 @@ adaderanasinhalalk | 13,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,622 (100.0%) of 79,627 articles have been extended.
+79,627 (100.0%) of 79,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### ජනපති සහ ජපාන ආරක්ෂක අමාත්‍යවරයා අතර සාකච්ඡාවක්
+### President and the Minister of Defense
 
 *2025-09-29 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215154) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (29) ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපාන ආරක්ෂක අමාත්‍ය ඩී එම් නකටානි (DM Nakatani) මහතා හමුවී සාකච්ඡාවක නිරත විය.
+President Anura Kumara Dissanayake on an invite of the Government of Japan, President Anura Kumara Dissanayake has met with the Defense Minister DM Nakani (DM Nakatani) at Tokyo, Tokyo, today (29).
 
-දෙරටේ දීර්ඝ කාලීන මිත්‍රත්වය, කලාපීය ආරක්ෂාව සහ ආරක්ෂක කටයුතු සම්බන්ධව ශ්‍රී ලංකාව සහ ජපානය අතර පවතින සහයෝගීතාව තව දුරටත් ශක්තිමත් කිරීම පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+The two countries discussed further discussions with strengthening collaboration between Sri Lanka and Japan on long-term friendship, regional protection and security.
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු ශ්‍රී ලංකා නියෝජිත පිරිසද මෙම අවස්ථාවට එක් වූහ.
+Foreign, Foreign Employment and Tourism and Tourism Vijitha Herath and the Sri Lankan delegation were also present.
 
 ◼️
 
 [Data](articles/ca1ae3d1.json)
 
+[Extended Data](ext_articles/ca1ae3d1.ext.json)
+
 ---
 
-### නියෝජ්‍ය ඇමති මහින්ද ජයසිංහගෙන් ගුරු - විදුහල්පතිවරුන්ට දැනුම්දීමක්
+### Deputy Minister Mahinda Jayasinghe notice to Teachers - Princes
 
 *2025-09-29 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215153) · `si`
 
-දරුවන් හිංසනයට ලක්වීම වැළැක්වීම සහ දරුවන් ශික්ෂණයට ලක් කිරීම සම්බන්ධයෙන් ලාංකේය සමාජය තුළ සංවාදයක් නිර්මාණය වීම සාධනීය තත්ත්වයක් බව ලංකා ගුරුසේවා සංගමයේ ප්‍රධාන ලේකම්, කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා පවසයි.
+The Chief Secretary of the Ceylon Teachers' Union, Deputy Minister of Labor Secretary Mahinda Jayasinghe says that it is a positive situation to create a dialogue in the Sri Lankan society to prevent victims of violence and to investigate children.
 
-කෙසේ වෙතත් නව නීති සංශෝධන යටතේ ගුරු-විදුහල්පතිවරුන් අගතියට පත් වන බවට පළවන අදහස් ප්‍රතික්ෂේප කරන බව නියෝජ්‍ය අමාත්‍යවරයා අවධාරණය කළේය.
+However, the Deputy Minister emphasized that under the new legal amendments, however, the Deputy Minister emphasized that the teacher-principals are rejected.
 
-මහින්ද ජයසිංහ මහතා මේ බව ප්‍රකාශ කළේ ලංකා ගුරුසේවා සංගමය විසින් අද (29) කොළඹදී කැඳවා තිබූ මාධ්‍ය හමුවකට එක්වෙමිනි.
+Mr. Mahinda Jayasinghe was speaking at a media briefing held in Colombo today (29) by the Ceylon Teachers' Union.
 
-දරුවන් සම්බන්ධයෙන් මේ වනවිටත් නීති, රීති සහ චක්‍රලේඛ රැසක් පවතින බව පෙන්වා දෙන මහින්ද ජයසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ, මෙරට ගුරු-විදුහල්පතිවරුන් අනේකවිධ දුෂ්කරතා මධ්‍යයේ වුවද දරුවන් ශික්ෂණය කිරීමට මේ වනවිටත් කටයුතු කරමින් සිටින පිරිසක් බවයි.
+He said that there are several laws and circulars regarding children in the country.
 
-මෙරට පාසල් අධ්‍යාපන ක්‍රියාවලිය නූතනත්වයට ගෙන එමින් ශික්ෂණයක් සහිත ශිෂ්‍ය ප්‍රජාවක් මෙන්ම ඉහළ වෘත්තීමයභාවයක් සහිත ගුරු-විදුහල්පති සේවයක් නිර්මාණය කිරීම වත්මන් රජයේ ප්‍රමුඛ අරමුණ වන බවද ඒ මහතා පෙන්වා දුන්නේය.
+He further stated that the present government is the main objective of the present government to create a student community and high professional community.
 
 ...
 
 [Data](articles/459ce726.json)
 
+[Extended Data](ext_articles/459ce726.ext.json)
+
 ---
 
-### අල්ලසේ රංගගෙන් නන්දනට පිළිතුරක්
+### Nandana reply from the bribe
 
 *2025-09-29 21:50:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලස-රගගන-නනදනට-පළතරක/101-680441) · `si`
 
-තමා ජනතා විමුක්ති පෙරමුණේ කිසිම වැඩ පිළිවෙලකට තමා කිසිම අවස්ථාවක සම්බන්ධ වී නැතැයි අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් රංග දිසානායක මහතා පැවසීය .
+The Director General of Bribery Commission, the Director General of Bribery Commission, the Director General of Bribery Commission, he said he had never been involved in any program of the JVP.
 
-නන්දන ගුණතිලක මහතාගේ ප්‍රකාශය කිසිම පදනමක් නැති එකක් බවද ඔහු ප්‍රකාශ කළේය.
+He said that Mr. Nandana Gunatilleke's statement is lacking.
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් ආරම්භ කරන ලද විමර්ශන කඩාකප්පල් කිරීමේ කිසියම් උත්සාහයක් පවතින බවද  හෙතෙම  සඳහන් කරයි. මේ කාරණය සම්බන්ධයෙන් කොමිසමේ අවධානයට යොමු කිරීමට අධ්‍යක්ෂ ජනරාල්වරයා  බලාපොරොත්තු වෙයි.
+He said that there is any attempt to sabotage the investigations of bribery or corruption.. The Director General expects the Commission to address the matter.
 
 ◼️
 
 [Data](articles/15b0d866.json)
 
+[Extended Data](ext_articles/15b0d866.ext.json)
+
 ---
 
-### ජනපතිගෙන් ජපන් ආයෝජකයන්ට ඇරැයුමක්
+### உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் காப்பாளராக செந்தில் தொண்டமான்?
 
-*2025-09-29 21:47:03* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපතගන-ජපන-ආයජකයනට-ඇරයමක/101-680440) · `si`
+*2025-09-29 21:47:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்-தமிழ்ப்-பண்பாட்டு-இயக்கத்தின்-காப்பாளராக-செந்தில்-தொண்டமான்/175-365499) · `ta`
 
-ජපාන නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ජපාන විදේශ වෙළෙඳ සංවිධාන (JETRO) මූලස්ථානයේදී ජපානයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සමඟ වට මේස සාකච්ඡාවකට එක් විය.
+உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் காப்பாளராக பொறுப்பேற்குமாறு இ.தொ.கா தலைவர் செந்தில் தொண்டமானுக்கு உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தால் அழைப்பு விடுக்கப்பட்டுள்ளது.
 
-ජපාන විදේශ වෙළඳ සංවිධානයේ (JETRO)  සභාපති  සහ ප්‍රධාන විධායක නිලධාරී ඉෂිගුරො නොරිහිකො (ISHIGURO Norihiko) මහතාගේ සහභාගීත්වයෙන් පැවති මෙම සාකච්ඡාව සඳහා ජපන් ශ්‍රී ලංකා ව්‍යාපාරික සහයෝගිතා කමිටුවේ (JSLBCC) සභාපති සහ ITOCHU සමාගමේ සභාපති  ෆුමිහිකො කොබයාෂි (Fumihiko Kabayashi) මහතා ඇතුළු පිරිසක් එක්ව සිටියහ.
+இது குறித்து, உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தால் செந்தில் தொண்டமானுக்கு அனுப்பி வைக்கப்பட்டுள்ள கடிதத்தில்,
 
-ශ්‍රී ලංකාවේ පවතින නව ආයෝජන අවස්ථා පිළිබඳ මෙහිදී පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා රටේ ආයෝජන හිතකර පරිසරයක් ගොඩනඟමින් වංචා සහ දූෂණය පිටුදැකීමට වත්මන් රජය  ගෙන ඇති පියවරද පැහැදිලි කළේය.
+"தமிழ்ப் பண்பாட்டுத் தலைநகராக விளங்கும் யாழ்ப்பாணத்தில். தமிழ்ப் பண்பாட்டு வழி உலகளாவிய தமிழர்களை ஒருங்கிணைப்பதையும் தமிழ் மொழி வளர்ச்சி மற்றும் தமிழர் இன மேம்பாடு ஆகியவற்றுக்குப் பாடுபடுவதையும் நோக்கமாகக் கொண்டு உலகத் தமிழ்ப் பண்பாட்டு இயக்கம் (உ த ப இ) 1974 ஆம் ஆண்டில் ஆவணஞானி குரும்பசிட்டி கனகரத்தினம் அவர்களால் தோற்றுவிக்கப் பெற்றது.
 
-ශ්‍රී ලංකාවේ ප්‍රධාන ආර්ථික හවුල්කරුවකු ලෙස ශ්‍රී ලංකාව සහ ජපානය අතර වෙළෙඳ සහයෝගීතාව තවදුරටත් ඉහළ නංවා ගැනීමේ අවශ්‍යතාව සහ එමගින් අන්‍යෝන්‍ය වශයෙන් හිමිවන ප්‍රතිලාභ පිළිබඳවද ජනාධිපතිවරයා මෙහිදී වැඩිදුරටත් පෙන්වා දුන්නේය.
+பத்துக்கும் மேற்பட்ட நாடுகளில் கிளைகளைக் கொண்டு, கடந்த 50 ஆண்டுகளாகத் தொய்வின்றித் தொடர்ந்து தமிழ் தமிழர் மேம்பாட்டுப் பணிகளை ஆற்றி வருகின்ற இவ்வியக்கம் அண்மையில் சென்னையில் பொன்விழாவைக் கோலாகலமாகக் கொண்டாடியது.
 
 ...
 
-[Data](articles/825acc3a.json)
+[Data](articles/641f8402.json)
 
 ---
 
-### අයි.එම්.එෆ්- රජයේ ප්‍රතිසංස්කරණ ප්‍රගතිය අගයයි
+### President to visit Japanese investors
+
+*2025-09-29 21:47:03* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපතගන-ජපන-ආයජකයනට-ඇරයමක/101-680440) · `si`
+
+President Anura Kumara Dissanayake is on a Japanese Foreign Organization at the Jetro, headquarters in Jetro, headquarters.
+
+The discussion was held by the Japanese foreign trade organization (JSLBCC) and the President of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President of the ITOCC.
+
+President Anura Kumara Dissanayake, pointed out on new investment opportunities in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
+
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/825acc3a.json)
+
+[Extended Data](ext_articles/825acc3a.ext.json)
+
+---
+
+### IMF - Government Reform Progresses Progress
 
 *2025-09-29 21:44:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අය-එම-එෆ-රජය-පරතසසකරණ-පරගතය-අගයය/101-680439) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහා වන මෙහෙයුම් මණ්ඩල ප්‍රධානී,  Evan Papageorgiou මහතා  අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය අද (29)හමුවිය.
+The International Monetary Fund (IMF) is headed by Evan Papgergio at Temple Trees.
 
-රජය විසින් ක්‍රියාත්මක කරනු ලබන ප්‍රතිසංස්කරණ වැඩසටහනේ ප්‍රගතිය එහිදී  ඔහුගේ ඇගයීමට ලක් වූ අතර, විශේෂයෙන්ම පාලනය ශක්තිමත් කිරීමට සහ දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව  ප්‍රශංසා පළ කළේය.
+The progress of the government's reform program was evaluated, especially the actions taken to strengthen and reduce corruption.
 
-බදු ප්‍රතිපත්ති ප්‍රතිසංස්කරණ වල වැදගත්කම,  බදු නිදහස් කිරීම් (tax exemptions) සම්බන්ධයෙන් ගෙන ඇති පියවර පිළිබඳව ද ඔහු සිය අවධානය යොමු කළේය.
+He also paid attention to the steps taken in relation to the importance of tax policy reforms, tax exemptions (TAX Exemptions).
 
-එසේම, 2026 ජාතික අයවැයෙන් සමාජ ආරක්ෂණ පද්ධතිය සඳහා සම්පත් වෙන් කිරීම ද පැපජෝර්ජියු මහතාගේ ඇගයුමට ලක් විය.
+Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
 
-2026 අයවැයෙන් ජනතාව සවිබල ගැන්වීමට පියවර ගැනීමේ වැදගත්කම මෙහිදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අවධාරණය කළාය.
+Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
 
 ◼️
 
 [Data](articles/b236be85.json)
+
+[Extended Data](ext_articles/b236be85.ext.json)
+
+---
+
+### ஜப்பான் தலைவர்களை சந்தித்தார் அநுர
+
+*2025-09-29 21:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தலைவர்களை-சந்தித்தார்-அநுர/175-365498) · `ta`
+
+ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அனுரகுமார திசாநாயக்கவுக்கான உத்தியோகபூர்வ வரவேற்பு நிகழ்வு இன்று (29) காலை ஜப்பான் பிரதமர் அலுவலகத்தில் நடைபெற்றது.
+
+ஜப்பான் பிரதமர் அலுவலகத்திற்கு வந்த ஜனாதிபதி அநுரவை ஜப்பான் பிரதமர் அன்புடன் வரவேற்றார்.
+
+இரு நாடுகளின் பிரதிநிதிகள் குழுவும் அறிமுகப்படுத்தப்பட்டதைத் தொடர்ந்து, ஜனாதிபதி அனுரகுமார திசாநாயக்கவிற்கும் ஜப்பான் பிரதமர் ஷிகெரு இஷிபாவிற்கும் இடையே உத்தியோகபூர்வ பேச்சுவார்த்தைகள் இடம்பெற்றுள்ளன.. R
+
+◼️
+
+[Data](articles/f2643640.json)
 
 ---
 
@@ -162,6 +208,20 @@ The Prime Minister pointed out that the strengthening of social security is esse
 [Data](articles/eaf23632.json)
 
 [Extended Data](ext_articles/eaf23632.ext.json)
+
+---
+
+### பேருந்து விபத்தில் 12 பேர் படுகாயம்
+
+*2025-09-29 21:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-விபத்தில்-12-பேர்-படுகாயம்/175-365497) · `ta`
+
+பதுளை - கண்டி பிரதான வீதியின் கீர்த்திபண்டாரபுர பகுதியில், பேருந்து ஒன்று விபத்துக்குள்ளானது.
+
+ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிச் சென்ற இந்த பேருந்து விபத்துக்குள்ளானதில் 12 பேர் காயமடைந்துள்ளதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a7b94371.json)
 
 ---
 
@@ -1952,61 +2012,5 @@ The protest rally began from the district public playground to protest the work 
 [Data](articles/4de1e739.json)
 
 [Extended Data](ext_articles/4de1e739.ext.json)
-
----
-
-### SAARD Heritage SAARCE SAARC
-
-*2025-09-29 15:41:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cly7e3g3nr3o) · `si`
-
-SAARD Heritage SAARCE SAARC
-
-SAARC Heritage Forum promotes etc.. On the 30th, Colombo opens.
-
-Oct. The three-day forum, which is held up to 2, is a milestone to preserve and promote cultural cooperation between the countries.
-
-Among the participants include senior officers, museum experts, the representatives of the SAARC Headquarters, SAARC Headquarters, UNESCO representatives and heritage.
-
-The main functions of cultural or historical sites to facilitate the people of the South Asia to facilitate the cultural and cultural sites for the cultural routes of the SAARC countries can be compiled to facilitate important religious and cultural sites.
-
-World Heritage Experter Dr. Gamini Wijesuriya said that the work of the SAARC Heritage is that "we want to be aware of the inheritance of the input in the region," said.
-
-Dr. Gamini Wijesuriya also served as a director of the Sri Lanka Institute of Science and tomorrow (September 30).
-
-...
-
-[Data](articles/0d76021c.json)
-
-[Extended Data](ext_articles/0d76021c.ext.json)
-
----
-
-### A life dedicated to the unity of the nation
-
-*2025-09-29 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226409) · `ta`
-
-Today is the birthday of former Speaker Sri Langabemanya Karu Jayasuriya. இதனை முன்னிட்ட கொண்டாட்டங்கள், வழமையான ஆடம்பரங்கள் இன்றி, சமய நடவடிக்கைகள் மற்றும் சமூக சேவைகள் மீது மட்டுமே கவனம் செலுத்தி நடத்தப்படுகின்றன.
-
-◼️
-
-[Data](articles/c9ce797c.json)
-
-[Extended Data](ext_articles/c9ce797c.ext.json)
-
----
-
-### Energy Minister holds talks to strengthen energy cooperation with India
-
-*2025-09-29 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113029/energy-minister-holds-talks-to-strengthen-energy-cooperation-with-india) · `en`
-
-Minister of Energy Kumara Jayakody, who is currently on an official visit to India, held discussions with India’s Union Minister of New and Renewable Energy, Shri Pralhad Joshi. The talks focused on enhancing energy cooperation between the two countries, reviewing the progress of ongoing joint projects and exploring future investment opportunities.
-
-Particular emphasis was placed on renewable energy collaboration during the meeting with the Indian Minister of New and Renewable Energy. The discussions included a number of topics including the introduction of competitive procurement mechanisms to ensure minimum pricing for renewable energy in Sri Lanka, establishing a solar panel manufacturing facility in Sri Lanka with Indian assistance and expanding training opportunities for Sri Lankans in the renewable energy sector.
-
-...
-
-[Data](articles/020d4768.json)
-
-[Extended Data](ext_articles/020d4768.ext.json)
 
 ---

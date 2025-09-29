@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 21:07:44**
+As of **2025-09-29 21:21:01**
 
 ## Newspaper Stats
 
-*Scraped **79,604** Articles*
+*Scraped **79,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,667
-adaderanalk | 10,271
+adaderanalk | 10,274
 tamilmirrorlk | 11,915
 virakesarilk | 12,986
 adaderanasinhalalk | 13,783
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,602 (100.0%) of 79,604 articles have been extended.
+79,602 (100.0%) of 79,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,30 @@ Police officers were summoned to control the protesters and continued to continu
 
 ---
 
+### Massive support for hartal in Mannar
+
+*2025-09-29 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113042/massive-support-for-hartal-in-mannar) · `en`
+
+Local residents and business owners have claimed today’s hartal in Mannar was a massive success.
+
+Today marks the 58th day of a protest launched by residents of Mannar, demanding the suspension of a proposed wind power plant project in the area.
+
+As part of the protest, local residents shut down their businesses today and engaged in a hartal.
+
+For nearly two months, Mannar residents have been continuously protesting, demanding an end to both the proposed wind power plant and the excavation of mineral sand around the island and its surrounding areas.
+
+Protesters claim that these construction and excavation activities have led to numerous environmental issues affecting their lives.
+
+All shops in the area were closed, and a hartal campaign was launched with the support of the local business community.
+
+All forms of public transport services were also suspended today. A large protest march began this morning at the Mannar public playground.
+
+...
+
+[Data](articles/1d9946b8.json)
+
+---
+
 ### A tax of a per cent to cinema from Trump
 
 *2025-09-29 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215148) · `si`
@@ -152,6 +176,26 @@ According to technology media, if the duties are imposed by President Donald Tru
 [Data](articles/6aca1304.json)
 
 [Extended Data](ext_articles/6aca1304.ext.json)
+
+---
+
+### Donald Trump to impose 100% tariffs on films made outside US, threatens levy on furniture
+
+*2025-09-29 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113041/donald-trump-to-impose-100-tariffs-on-films-made-outside-us-threatens-levy-on-furniture) · `en`
+
+US President Donald Trump said on Monday (Sep 29) he would impose a 100 per cent tariff on all foreign-made movies, an unprecedented move that threatens to upend Hollywood’s global business model.
+
+The step signals Trump’s willingness to extend protectionist trade policies into cultural industries, raising uncertainty for studios that depend heavily on international box-office revenue and cross-border co-productions.
+
+Trump announced the measure in a post on his Truth Social platform, claiming US movie-making is losing ground to international competition.
+
+“Our movie making business has been stolen from the United States of America, by other Countries, just like stealing candy from a baby,” he wrote.
+
+However, it was not immediately clear what legal authority Trump would use to impose a 100 per cent tariff on foreign-made films.
+
+...
+
+[Data](articles/e931a812.json)
 
 ---
 
@@ -176,6 +220,24 @@ The LTTE also decided to summon the COPE meeting on 24th of this month.
 [Data](articles/0703a720.json)
 
 [Extended Data](ext_articles/0703a720.ext.json)
+
+---
+
+### President Anura Kumara meets Japanese FM Katsunobu Katō in Tokyo
+
+*2025-09-29 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/113040/president-anura-kumara-meets-japanese-fm-katsunobu-kat333-in-tokyo) · `en`
+
+President Anura Kumara Dissanayake, who is currently engaged in an official visit to Japan has met Japanese Finance Minister Katsunobu Katō this afternoon (29) at the Imperial Hotel in Tokyo for bilateral discussions.
+
+The discussions between the two factions focused on strengthening trade, investment and economic cooperation between the two countries, the President’s Media Division said.
+
+The President and the Japanese Finance Minister also reviewed ongoing projects and future initiatives in Sri Lanka under Japanese aid/JICA cooperation during the meeting.
+
+Earlier today, President Anura Kumara Dissanayake also held discussions with the Prime Minister of Japan, Ishiba Shigeru in Tokyo.
+
+◼️
+
+[Data](articles/a5fc29a5.json)
 
 ---
 
@@ -1928,53 +1990,5 @@ The other charge against him was the other accusation against him. He welcomed t
 [Data](articles/4bdcf9f6.json)
 
 [Extended Data](ext_articles/4bdcf9f6.ext.json)
-
----
-
-### Paraicuna released on bail
-
-*2025-09-29 14:38:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනතර-අරචනට-ඇප/101-680418) · `si`
-
-Fort Magistrate Isurra Neththikumara ordered that MP Dr. Ramanathan, who was arrested in two charges including criminal force of a police officer on the duties of a police officer.
-
-The other charge against him was the other accusation against him. He welcomed the guilty of the court. The allegations are to be filed in the other accusation.
-
-◼️
-
-[Data](articles/96469bf9.json)
-
-[Extended Data](ext_articles/96469bf9.ext.json)
-
----
-
-### Proper database has not yet been taken regarding reading of Sri Lankan books
-
-*2025-09-29 14:38:34* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-පත-කයවම-ගන-නස-දතත-සමකෂණයක-තවමත-සදවල-න/26-680417) · `si`
-
-Since 2004, the month of October has been declared as a National Reading Month. Accordingly, the theme of the theme of 2025 is based on the National Reading Month of this year, based on the theme of the year.
-
-The National Reading Month is on October.   Concurrently, in October, school library date and library web have been engaged in. School Library Week is the last week of October every year and Monday is the school library day. Accordingly, the year 2025 will be operated from Monday, October 27 to October 31st. It is to be celebrated in schools through the theme "Let's Read Books". The beginning of the entire society is the beginning of the school. Therefore, the importance of reading the book for schools is a valuable activity to read the importance of the book.
-
-...
-
-[Data](articles/23b69c1c.json)
-
-[Extended Data](ext_articles/23b69c1c.ext.json)
-
----
-
-### Proper database has not yet been taken regarding reading of Sri Lankan books
-
-*2025-09-29 14:38:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/මරට-පත-කයවම-ගන-නස-දතත-සමකෂණයක-තවමත-සදවල-න/2-680417) · `si`
-
-Since 2004, the month of October has been declared as a National Reading Month. Accordingly, the theme of the theme of 2025 is based on the National Reading Month of this year, based on the theme of the year.
-
-The National Reading Month is on October.   Concurrently, in October, school library date and library web have been engaged in. School Library Week is the last week of October every year and Monday is the school library day. Accordingly, the year 2025 will be operated from Monday, October 27 to October 31st. It is to be celebrated in schools through the theme "Let's Read Books". The beginning of the entire society is the beginning of the school. Therefore, the importance of reading the book for schools is a valuable activity to read the importance of the book.
-
-...
-
-[Data](articles/ca8bf62b.json)
-
-[Extended Data](ext_articles/ca8bf62b.ext.json)
 
 ---

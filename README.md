@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 02:07:16**
+As of **2025-09-30 02:37:01**
 
 ## Newspaper Stats
 
-*Scraped **79,659** Articles*
+*Scraped **79,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,742
 islandlk | 4,839
-dailyftlk | 5,592
+dailyftlk | 5,599
 adalk | 7,667
 adaderanalk | 10,280
 tamilmirrorlk | 11,919
@@ -27,11 +27,147 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,653 (100.0%) of 79,659 articles have been extended.
+79,659 (100.0%) of 79,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### US investment outlook flags Sri Lanka’s stalled SOE privatisation, labour laws
+
+*2025-09-30 01:54:38* · [`dailyftlk`](https://www.ft.lk/business/US-investment-outlook-flags-Sri-Lanka-s-stalled-SOE-privatisation-labour-laws/34-782386) · `en`
+
+Sri Lanka’s stalled privatisation of State-owned enterprises, rigid labour laws and restrictions on foreign participation continue to weigh on investment prospects, the US State Department said in its 2025 Investment Climate Statement.
+
+The report noted that 527 State-owned enterprises, including 55 designated as strategic, remain a major burden on public finances.
+
+“The previous Government initiated a program aimed at comprehensive SOE reform, including potential privatisation of several major entities. However, the current Administration suspended these privatisation efforts upon taking office,” the report noted.
+
+“It has instead announced alternative restructuring approaches focused on improving management practices, reducing operational costs, and enhancing efficiency within the existing state ownership structure,” it added.
+
+...
+
+[Data](articles/853de735.json)
+
+---
+
+### Jan.-Aug. 2025 Budget deficit Rs. 411 b; falls 55% YoY
+
+*2025-09-30 01:52:59* · [`dailyftlk`](https://www.ft.lk/business/Jan-Aug-2025-Budget-deficit-Rs-411-b-falls-55-YoY/34-782385) · `en`
+
+Tax revenue up 31% YoY to Rs. 3 t in eight months to end-Aug 2025
+
+Recurrent expenditure grows 11% YoY to Rs. 3.4 t; capital expenditure falls sharply
+
+Outstanding Govt. debt as at end-June 2025 Rs. 28. 7 t; foreign debt Rs. 10.8 t
+
+The Government continues to improve its fiscal performance with the overall Budget deficit for the first eight months of 2025 falling 54.88% from a year ago to Rs. 411 billion, according to the latest data released by the Central Bank of Sri Lanka (CBSL).
+
+The overall Budget deficit in the eight months to the end of August 2024 was Rs. 911 billion.
+
+Tax revenue for the eight months grew 31% from Rs. 2.35 trillion a year ago to Rs. 3.07 trillion, with non-tax revenue growing 8% from Rs. 209 billion to Rs. 226.2 billion.
+
+Grants fell 17.3% to Rs. 6.7 billion, compared to Rs. 8.1 billion a year ago.
+
+...
+
+[Data](articles/f143a658.json)
+
+---
+
+### Ceylon Chamber voices concerns over draft PPP Bill
+
+*2025-09-30 01:51:23* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-voices-concerns-over-draft-PPP-Bill/34-782384) · `en`
+
+Welcomes Govt. initiative but stresses need for investor friendly reforms
+
+Seeks clarification over legal standing to avoid overlaps with existing laws
+
+Calls for safeguarding independence of proposed National PPP Agency; proposes stronger conflict-of-interest provisions
+
+The Ceylon Chamber of Commerce yesterday said that while it commends the Government’s effort to introduce a legislative framework for PPPs through the Draft Public-Private Partnership (PPP) Bill, it noted several concerns that warrant further attention.
+
+These include ensuring the independence of the proposed National Agency for PPPs, strengthening competitive safeguards around unsolicited proposals, enhancing fiscal transparency through clearer reporting requirements, and providing more robust mechanisms for dispute resolution.
+
+“Addressing these issues will be vital to build investor confidence and safeguard the public interest,” the chamber said in a statement.
+
+...
+
+[Data](articles/67aa4e38.json)
+
+---
+
+### SLFFA calls for urgent policy rethink on SVAT
+
+*2025-09-30 01:50:33* · [`dailyftlk`](https://www.ft.lk/business/SLFFA-calls-for-urgent-policy-rethink-on-SVAT/34-782383) · `en`
+
+Refund delays could stretch for 75–90 days, leaving companies with blocked cash flows that previously flowed smoothly under SVAT
+
+VAT-heavy operational expenses such as fuel, utilities, rent, capital purchases, and outsourced haulage now add to financial stress
+
+Says investment and forex inflows could shrink without a policy rethink
+
+The Sri Lanka Logistics and Freight Forwarders Association (SLFFA) yesterday urged the Government to urgently reconsider the recent changes to the Simplified Value Added Tax (SVAT) scheme, warning that the move could have serious implications for the logistics and export sectors.
+
+In a statement, SLFFA highlighted that the withdrawal of SVAT for exporters and related service providers has created additional cash flow burdens on companies already grappling with tight margins, fluctuating global freight rates, and rising operational costs.
+
+...
+
+[Data](articles/a837f345.json)
+
+---
+
+### ICCSL urges stronger taxpayer education, safeguards in new policy paper
+
+*2025-09-30 01:47:49* · [`dailyftlk`](https://www.ft.lk/business/ICCSL-urges-stronger-taxpayer-education-safeguards-in-new-policy-paper/34-782382) · `en`
+
+From left: ICCSL COO Hiranya Samarasinghe, Department of Fiscal Policy Director J.C. Wickrama Arachchi, Director General Dr. Kapila Senanayake, ICCSL Chairman Shanil Fernando, University of Sri Jayewardenepura Faculty of Humanities and Social Sciences Department of Information and Communication Technology Head Prof. B.W.R. Damayanthi, ICCSL Research, Knowledge Mobilisation and Taxation Committee Chairperson Dr. Nadee Dissanayake, and ICCSL Project Coordinator Dahara Wijeratne
+
+Calls for nationwide taxpayer education via digital tools, outreach and workshops
+
+Proposes simplified communication for public and detailed guidance for professionals
+
+Suggests a dedicated Charter Monitoring Unit within Inland Revenue Department
+
+The International Chamber of Commerce Sri Lanka (ICCSL) has urged the Government to adopt reforms to strengthen awareness and compliance under the Taxpayer Charter.
+
+...
+
+[Data](articles/2caac010.json)
+
+---
+
+### CSE begins new week on the up
+
+*2025-09-30 01:19:52* · [`dailyftlk`](https://www.ft.lk/business/CSE-begins-new-week-on-the-up/34-782371) · `en`
+
+The Colombo stock market yesterday opened the week on the up with plantation stocks driving turnover and the bourse extending its bullish run for more than a week.
+
+The benchmark ASPI closed 0.36% higher on yesterday, up 77.31 points to 21,676.20 while the active S&P SL20 closed 0.13% higher, up 7.64 points to 6,119.21.
+
+Turnover was Rs. 4.2 billion on more than 131.6 million shares traded. Foreigners were net sellers yesterday with a net outflow of Rs. 15.6 million, down from a Rs. 155 million outflow on Friday.
+
+First Capital Research said that the Colombo Bourse kicked off the week on a positive note, marked by a wave of bullish sentiment. The ASPI posted a gain of 77 points and closed at 21,676, strengthened by plantation sector counters and conglomerates.
+
+CARS, MELS, JKH, NAMU and WATA were the top positive contributors to the index. Moderate retail participation was chiefly observed on Plantation sector counters, whereas HNW participation was lower during the session.
+
+...
+
+[Data](articles/92912c89.json)
+
+---
+
+### US tariffs: Implications and opportunities for Sri Lanka
+
+*2025-09-30 01:13:56* · [`dailyftlk`](https://www.ft.lk/opinion/US-tariffs-Implications-and-opportunities-for-Sri-Lanka/14-782370) · `en`
+
+The Sri Lanka–USA Business Council of the Ceylon Chamber of Commerce – focusing on strengthening bilateral trade, investment, and business ties between Sri Lanka and the United States, recently hosted a timely webinar on the evolving US tariff regime and its implications for Sri Lankan exporters. The session brought together trade experts and industry leaders to examine how Sri Lanka can navigate risks, leverage short-term opportunities, and prepare for long-term competitiveness.
+
+...
+
+[Data](articles/bb3a0279.json)
+
+---
 
 ### Building global brands at home: AOD enriches Sri Lanka’s creative economy with another entrepreneurial success
 
@@ -186,6 +322,8 @@ The keynote address will be delivered by Prof Sanjay Kathuria. He holds a Doctor
 ...
 
 [Data](articles/19f90c19.json)
+
+[Extended Data](ext_articles/19f90c19.ext.json)
 
 ---
 
@@ -1645,6 +1783,8 @@ A bond maturing on 15.12.2032 closed at 10.45/50 percent, up from 10.43/48 perce
 
 [Data](articles/665b2bb3.json)
 
+[Extended Data](ext_articles/665b2bb3.ext.json)
+
 ---
 
 ### Arrested in a medical student accident
@@ -1870,151 +2010,5 @@ In addition, the suspects arrested in these activities, banned fishing equipment
 [Data](articles/0c0d1bc7.json)
 
 [Extended Data](ext_articles/0c0d1bc7.ext.json)
-
----
-
-### Japan Grants ¥500 Mn to Sri Lanka for High-Tech UAVs
-
-*2025-09-29 16:34:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/japan-grants-%c2%a5500-mn-to-sri-lanka-for-high-tech-uavs) · `en`
-
-COLOMBO (News 1st); Japan and Sri Lanka took a major step in strengthening their strategic partnership with the signing of a ¥500 million grant under Japan’s Official Security Assistance (OSA) framework.
-
-The agreement was formalized in Tokyo by Japanese Ambassador Isomata Akio and Sri Lankan Foreign Minister Vijitha Herath, in the presence of Prime Minister Ishiba Shigeru and President Anura Kumara Dissanayake.
-
-The grant will fund the provision of advanced Unmanned Aerial Vehicles (UAVs) to the Sri Lanka Navy for maritime surveillance and disaster relief operations.
-
-The UAVs, manufactured in Japan, are expected to significantly enhance Sri Lanka’s security capabilities, safeguard vital sea lanes in the Indian Ocean, and strengthen regional stability.
-
-Sri Lanka occupies a critical position along key maritime routes connecting Asia, the Middle East, and Africa.
-
-...
-
-[Data](articles/a20f2329.json)
-
-[Extended Data](ext_articles/a20f2329.ext.json)
-
----
-
-### Showers and showers
-
-*2025-09-29 16:32:44* · [`adalk`](https://www.ada.lk/breaking_news/කුඩයක්-අරන්-යන්න-හෙටත්-තැනින්-තැන-වැසි/11-418793) · `si`
-
-Several spells of rainfall in the Western, Sabaragamuwa and Northwestern provinces have occurred in the Nuwara Eliya, Kandy, Galle and Matara districts.
-
-In Trincomalee, North-Central, Northwestern and Central provinces, in the North, North-Central, North Western and Central provinces, as well as in the North, North-Central, Northwestern and Central provinces.. It will be as a speed of 30-40.
-
-◼️
-
-[Data](articles/b9962214.json)
-
-[Extended Data](ext_articles/b9962214.ext.json)
-
----
-
-### PM Harini tells new recruits to provide efficient public service
-
-*2025-09-29 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113033/pm-harini-tells-new-recruits-to-provide-efficient-public-service) · `en`
-
-The aim of the government is to establish an independent and efficient public service that properly serves the people, Prime Minister Dr. Harini Amarasuriya has stated.
-
-The Prime Minister also invited a group of newly appointed officers to come forward in developing the nation through a dedicated and efficient public service.
-
-The Prime Minister made these remarks while attending the ceremony to award appointments to 1,890 officers who were selected from the open competitive examination and subsequent interviews for recruitment to Grade III of the Sri Lanka Administrative Service.
-
-I wish to remind you that you are not joining a traditional public service. You are not entering the inefficient, politically-influenced public service that has prevailed for years, but rather an independent service that stands on behalf of the people.
-
-...
-
-[Data](articles/3d34d1cc.json)
-
-[Extended Data](ext_articles/3d34d1cc.ext.json)
-
----
-
-### The Tourism Authority's announcement that the facilities for the people are facilitated is improper; Namal Rajapaksa
-
-*2025-09-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226412) · `ta`
-
-The Tourism Authority has announced that it will provide facilities for the people of the country to improve the tourism sector.. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said the government should reclaim the decision.
-
-The rulers are the main policy of imposing all the irregularities in the state administration on the past governments.
-
-We have been told to the government not to criticize the past today.
-
-The government is trying to impose a drug allegation against the Rajapaksas.
-
-But there is no mention of those who have released 2 containers that have been informed by the International Intelligence Unit.
-
-It is also known whether any inquiries have been carried out regarding who released 232 containers. The government blames us to hide its weakness.
-
-The Tourism Authority has announced that the Tourism Authority has announced that it will provide facilities for the benefit of the tourism industry.
-
-...
-
-[Data](articles/2082e3fd.json)
-
-[Extended Data](ext_articles/2082e3fd.ext.json)
-
----
-
-### It is not normal for a private bank to stop all its activities in Sri Lanka - the United People's Power
-
-*2025-09-29 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226417) · `ta`
-
-It is not uncommon for a private bank in the world to stop all its activities in Sri Lanka. This shows a negative course in Sri Lanka's bank structure and economy. United People's Power Parliamentarian Ajith P. Perera said the government should intervene in this regard and take steps to prevent this.
-
-He further stated at a press conference held in Colombo on Sunday (28).
-
-A hidden crisis has been formed in relation to the country's economy. Economists, investors in the country have issued a precautionary impact on foreign companies in foreign companies if they do not repay foreign loans to Sri Lanka in a few years.. We cannot live in a world of fantasy.
-
-The Gotabhaya Rajapakse government did not make the right decisions in a timely manner, causing massive crises and eventually collapsed. This year's 5 -year reign of the year begins with the return of foreign loans. You have to pay about $ 5 billion a year.
-
-...
-
-[Data](articles/7705d931.json)
-
-[Extended Data](ext_articles/7705d931.ext.json)
-
----
-
-### The hunger strike continues for the 5th day in Jaffna demanding international justice
-
-*2025-09-29 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226427) · `ta`
-
-The hunger strike for international justice was held in Jaffna for the fifth day today (29) in the arrangement of the Relatives Association of the North and East.
-
-This struggle is Jaffna. Semmani will be held on the 25th of October until the 1st of October.
-
-The hunger strike has begun to demand justice for issues including human rights violations during the civil war in Sri Lanka and the disappearance of those who have disappeared, rejecting the domestic mechanism, urging the international investigation, and demanding justice for the human burial issue.
-
-The protest began as relatives, activists and civilians of the five districts of the North were participating in the protest, at the beginning of the protest, the protest began with the opening of the protest.
-
-...
-
-[Data](articles/c143aaff.json)
-
-[Extended Data](ext_articles/c143aaff.ext.json)
-
----
-
-### Special Task Force Excavation Action in Batticaloa Land in Liberation Tigers
-
-*2025-09-29 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226424) · `ta`
-
-Special Task Force (STF) was engaged in excavation on Monday (29) in search of the LTTE's weapons and gold in a private land in Puliyadimadu Police Division in the Batticaloa - Vavuniya Police Division.
-
-According to information received by the Kalladi Special Task Force, the LTTE camp has been in the past.
-
-During that time, the Special Task Force (STF) received a court order to excavation and hidden the weapons and gold in the land.
-
-The excavation work was carried out in the presence of the Vavuniya Police Station, Kalladi Special Task Force, Grama Niladhari, Divisional Secretariat Officer and Archaeological Department officials from 9 am to 1 pm.
-
-Meanwhile, the area has been under the control of the LTTE in the past and the LTTE camp has been located at that time.
-
-◼️
-
-[Data](articles/a6854247.json)
-
-[Extended Data](ext_articles/a6854247.ext.json)
 
 ---

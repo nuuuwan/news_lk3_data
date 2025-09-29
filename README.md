@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 04:20:27**
+As of **2025-09-30 04:38:00**
 
 ## Newspaper Stats
 
@@ -27,25 +27,27 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,670 (100.0%) of 79,671 articles have been extended.
+79,671 (100.0%) of 79,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### ஜனாதிபதி- ஜப்பான் நிதி அமைச்சர் சந்திப்பு
+### President-Japanese Finance Minister meets
 
 *2025-09-30 03:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜப்பான்-நிதி-அமைச்சர்-சந்திப்பு/175-365501) · `ta`
 
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் ஜப்பானிய நிதியமைச்சர் கட்டோ கட்சுனோபு ஆகியோருக்கு இடையில் நேற்று பிற்பகல் டோக்கியோவில் இருதரப்புப் பேச்சுவார்த்தை நடைபெற்றது.
+The official visit to the Japanese government was held in Tokyo yesterday afternoon between President Anura Kumara Dissanayake and Japanese Finance Minister Kato Katunobu.
 
-இந்தச் சந்திப்பின்போது, இரு நாடுகளுக்கும் இடையிலான வர்த்தகம், முதலீடு மற்றும் பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது குறித்து கவனம் செலுத்தப்பட்டது.
+During the meeting, focus on improving trade, investment and economic cooperation between the two countries.
 
-அத்துடன், ஜப்பானிய சர்வதேச ஒத்துழைப்பு முகவரத்தின்  ஒத்துழைப்பின் கீழ் தற்போது நடைமுறைப்படுத்தப்பட்டு வரும் மற்றும் எதிர்காலத்தில் எதிர்பார்க்கப்படும் புதிய திட்டங்கள் குறித்தும் விரிவாகக் கலந்துரையாடப்பட்டுள்ளது. (a)
+In addition, the current implementation of the new projects that are currently being implemented under the cooperation of the Japanese International Cooperation Agency have been discussed in detail.. (A)
 
 ◼️
 
 [Data](articles/ab214636.json)
+
+[Extended Data](ext_articles/ab214636.ext.json)
 
 ---
 

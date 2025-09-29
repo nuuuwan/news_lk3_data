@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 21:07:44**
+As of **2025-09-29 21:38:32**
 
 ## Newspaper Stats
 
-*Scraped **79,604** Articles*
+*Scraped **79,611** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 458
+lankadeepalk | 462
 newsfirstlk | 489
 dbsjeyarajcom | 635
 bbccomsinhala | 708
@@ -18,7 +18,7 @@ economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,667
-adaderanalk | 10,271
+adaderanalk | 10,274
 tamilmirrorlk | 11,915
 virakesarilk | 12,986
 adaderanasinhalalk | 13,783
@@ -27,25 +27,61 @@ adaderanasinhalalk | 13,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,602 (100.0%) of 79,604 articles have been extended.
+79,607 (100.0%) of 79,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### රන්දෙණිගල බස් අනතුරක් - 12ක් රෝහලට
+### හරිනි - රොබෝ එක්ක කතා කරයි
+
+*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරන-රබ-එකක-කත-කරය/1-680437) · `si`
+
+ශ්‍රී ලංකාව ඩිජිටල් යුගයක්  කරා ගෙන යාමේ අරමුණ සාක්ෂාත් කර ගැනීම සඳහා අත්‍යවශ්‍ය මූලික පියවර වන්නේ නවීන තාක්ෂණයට අනුකූල වන මානව සම්පතක් නිර්මාණය කිරීම බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය  පැවසුවාය.
+
+ඒ සඳහා නව අධ්‍යාපන ප්‍රතිසංස්කරණ වල වැඩි ඉඩක් වෙන් කර ඇති බවද අග්‍රාමාත්‍යවරිය කීවාය.
+
+ශ්‍රී ලංකාවේ ප්‍රථමවරට පැවැත්වූ  AI තාක්ෂණය පිළිබදව "NATIONAL AI EXPO 2025 " සම්මන්ත්‍රණය හා ප්‍රදර්ශනයෙහි ආරම්භක අවස්ථාවට එක්වෙමින් බත්තරමුල්ල මොනාර්චි  ඉම්පෙරියල් හෝටලයේදී   අග්‍රාමාත්‍යවරිය මේ බව පැවසුවාය.
+
+ඩිජිටල් ආර්ථික අමාත්‍යංශය සහ ශ්‍රී ලංකා ටෙලිකොම් මොබිටෙල් ආයතනය එක්ව සංවිධානය කරන මෙම සම්මන්ත්‍රණය හා ප්‍රදර්ශනය  සැප්තැම්බර් 29 හා 30 දෙදින පුරා බත්තරමුල්ල මොනාර්ච් ඉම්පීරියල් හෝටලයේදී පැවැත්වේ.
+
+...
+
+[Data](articles/e7269f32.json)
+
+---
+
+### ’’මානිගේ තීරුව. NOT OUT 36!’’ කෘතිය එළිදකියි
+
+*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/1-680436) · `si`
+
+ජ්‍යෙෂ්ඨ මාධ්‍යවේදී සුන්දර නිහතමානීද මැල් මහතාගේ "මානිගේ තීරුව. NOT OUT 36!" කෘතිය දොරටවැඩුම බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේ කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනයේ පොත් එළිදක්වන ස්ථානයේදී අද (29) සිදුකෙරිණි.
+
+ග්‍රන්ථය මුල් පිට මානිගේ තීරුවේ පාඨකයකු වන රේගු නිලධාරීන්ගේ සංගමයේ හිටපු සභාපති  විපුල මිනුවම් පිටිය මහතා වෙත පිළිගැන්විය.
+
+එම අවස්ථාවට බද්දේගම දුටුගැමුණු රජමහා විහාරාධිපති වැලිවිටියේ සුමන හිමි, දිලිත් ජයවීර, තිලංග  සුමතිපාල, තිස්ස අත්තනායක ඩළස් අලහපෙරුම,යන දේශපාලඥයින් මෙන්ම  පුවත්පත් කතුවරුන්, මාධ්‍යවේදීන්, සහ පාඨකයින් විශාල ප්‍රමාණයක් මෙම අවස්ථාවට සහභාගී වූහ.
+
+◼️
+
+[Data](articles/2a6fa0e8.json)
+
+---
+
+### Randenigala bus accident to hospital
 
 *2025-09-29 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215151) · `si`
 
-රන්දෙණිගල 36 වන සහ 37 වන කණුව අතර ඇගලුම් කර්මාන්ත ශාලාවකට අයත් පෞද්ගලික බස් රථයක් අනතුරට ලක්ව තිබේ.
+A private bus belonging to a garment factory has been crashed between the 36th and 37th post of Randenigala.
 
-අද (29) රාත්‍රීයේ බස් රථයේ හදිසියේ ඇති වූ කාර්මික දෝෂයක් සමග මෙම අනතුර සිදුව ඇත.
+The accident had occurred with the sudden technical fault on the bus today (29).
 
-බස් රථය මාර්ගයේ තිබු ගල් වැටියක ගැටී අනතුරට ලක්ව ඇති අතර, බසයෙ හි සිටි පුද්ගලයින් 12 දෙනෙකු තුවාල ලබා කැන්දකැටිය රෝහලට ඇතුළත් කර තිබේ.
+The bus was hit by a route route and 12 people in the bus was injured and rushed to the Kandaketiya hospital.
 
 ◼️
 
 [Data](articles/0ea1d5e9.json)
+
+[Extended Data](ext_articles/0ea1d5e9.ext.json)
 
 ---
 
@@ -109,6 +145,22 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 
 ---
 
+### ජනපති - ජපාන මුදල් ඇමති සාකච්ඡා
+
+*2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/1-680435) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
+
+මෙහිදී දෙරට අතර වෙළෙඳ, ආයෝජන සහ ආර්ථික සහයෝගිතාව ඉහළ නංවා ගැනීම පිළිබඳ මෙන්ම, ජපන් ආධාර /JICA සහයෝගීතාව යටතේ දැනට ක්‍රියාත්මක සහ ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව ව්‍යාපෘති පිළිබඳ විශේෂ අවධානය යොමු කෙරිණි.
+
+මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ  ජනාධිපති ප්‍රධාන උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ආර්ථික කටයුතු පිළිබඳ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක දුමින්ද හුලංගමුව, ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් සහභාගී වූහ.
+
+◼️
+
+[Data](articles/a4fd73ab.json)
+
+---
+
 ### Massive protest in Mannar
 
 *2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
@@ -137,6 +189,32 @@ Police officers were summoned to control the protesters and continued to continu
 
 ---
 
+### Massive support for hartal in Mannar
+
+*2025-09-29 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113042/massive-support-for-hartal-in-mannar) · `en`
+
+Local residents and business owners have claimed today’s hartal in Mannar was a massive success.
+
+Today marks the 58th day of a protest launched by residents of Mannar, demanding the suspension of a proposed wind power plant project in the area.
+
+As part of the protest, local residents shut down their businesses today and engaged in a hartal.
+
+For nearly two months, Mannar residents have been continuously protesting, demanding an end to both the proposed wind power plant and the excavation of mineral sand around the island and its surrounding areas.
+
+Protesters claim that these construction and excavation activities have led to numerous environmental issues affecting their lives.
+
+All shops in the area were closed, and a hartal campaign was launched with the support of the local business community.
+
+All forms of public transport services were also suspended today. A large protest march began this morning at the Mannar public playground.
+
+...
+
+[Data](articles/1d9946b8.json)
+
+[Extended Data](ext_articles/1d9946b8.ext.json)
+
+---
+
 ### A tax of a per cent to cinema from Trump
 
 *2025-09-29 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215148) · `si`
@@ -152,6 +230,28 @@ According to technology media, if the duties are imposed by President Donald Tru
 [Data](articles/6aca1304.json)
 
 [Extended Data](ext_articles/6aca1304.ext.json)
+
+---
+
+### Donald Trump to impose 100% tariffs on films made outside US, threatens levy on furniture
+
+*2025-09-29 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113041/donald-trump-to-impose-100-tariffs-on-films-made-outside-us-threatens-levy-on-furniture) · `en`
+
+US President Donald Trump said on Monday (Sep 29) he would impose a 100 per cent tariff on all foreign-made movies, an unprecedented move that threatens to upend Hollywood’s global business model.
+
+The step signals Trump’s willingness to extend protectionist trade policies into cultural industries, raising uncertainty for studios that depend heavily on international box-office revenue and cross-border co-productions.
+
+Trump announced the measure in a post on his Truth Social platform, claiming US movie-making is losing ground to international competition.
+
+“Our movie making business has been stolen from the United States of America, by other Countries, just like stealing candy from a baby,” he wrote.
+
+However, it was not immediately clear what legal authority Trump would use to impose a 100 per cent tariff on foreign-made films.
+
+...
+
+[Data](articles/e931a812.json)
+
+[Extended Data](ext_articles/e931a812.ext.json)
 
 ---
 
@@ -179,25 +279,69 @@ The LTTE also decided to summon the COPE meeting on 24th of this month.
 
 ---
 
-### එක්කෝ චාමර ගන්නවා නැත්නම් මම ගන්නවා
+### කෝප් කමිටුවෙන් විදුලියට රතු එළියක්
+
+*2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කමටවන-වදලයට-රත-එළයක/1-680434) · `si`
+
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ කොටස් බෙදී ඇති ආකාරය අපැහැදිලි බැවින්  ආයතනය ප්‍රතිව්‍යුහගතකරණය කිරීමේදී ඉදිරියේදී බරපතළ  ගැටලු ඇතිවිය හැකි බව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව ( කොප් කමිටුව)  එහි  නිලධාරීන්ට පෙන්වාදී ඇත.
+
+එල්ටීඑල් සමාගමේ කොටස් බෙදී ඇති ආකාරය ඇපැහැදිලි බවත්  ආයතනයන් ප්‍රතිව්‍යුහගත කිරීමේදී මේ තත්වය ගැටළුවක් විය හැකි බවත් කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා පැවැසුවේය
+
+එල්ටීඑල් සමාගමේ කොටස් වෙස්ට් කොස්ට් ආයතනය සහ  ඊසොට්  සමාගම යන ආයතන වලට බෙදී  ඇති  අාකාරය සහ ඒවායේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ගැටලු පවතින බවද ඔහු සඳහන් කළේය.
+
+මෙහිදී කාරක සභාවේ මන්ත්‍රීවරුන්ද පෙන්වා දුන්නේ කොටස් බෙදීම මෙන්ම එහි  ක්‍රියාකාරීත්වය ඉතාම අපැහැදිලි බවයි.
+
+මේ නිසා මේ තත්වය පැහැදිලි කර ගැනීමට නීති  අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් ඉක්මනින්ම කටයුතු කළ යුතු බව  කාරක සභාව නිර්දේශ කළේය.
+
+මේ අනුව එල්.ටී.එල් සමාගම ලබන මස 24 වැනිදා කෝප් කමිටුව හමුවට කැඳවීමටද තීරණය කෙරිණි.
+
+◼️
+
+[Data](articles/591e413f.json)
+
+---
+
+### President Anura Kumara meets Japanese FM Katsunobu Katō in Tokyo
+
+*2025-09-29 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/113040/president-anura-kumara-meets-japanese-fm-katsunobu-kat333-in-tokyo) · `en`
+
+President Anura Kumara Dissanayake, who is currently engaged in an official visit to Japan has met Japanese Finance Minister Katsunobu Katō this afternoon (29) at the Imperial Hotel in Tokyo for bilateral discussions.
+
+The discussions between the two factions focused on strengthening trade, investment and economic cooperation between the two countries, the President’s Media Division said.
+
+The President and the Japanese Finance Minister also reviewed ongoing projects and future initiatives in Sri Lanka under Japanese aid/JICA cooperation during the meeting.
+
+Earlier today, President Anura Kumara Dissanayake also held discussions with the Prime Minister of Japan, Ishiba Shigeru in Tokyo.
+
+◼️
+
+[Data](articles/a5fc29a5.json)
+
+[Extended Data](ext_articles/a5fc29a5.ext.json)
+
+---
+
+### Either picking up the champions
 
 *2025-09-29 18:52:44* · [`adalk`](https://www.ada.lk/breaking_news/එක්කෝ-චාමර-ගන්නවා-නැත්නම්-මම-ගන්නවා/11-418795) · `si`
 
-ආණ්ඩුව එක් වරකදී මන්ත්‍රී චාමර සම්පත් දසනායක අත්අඩංගුවට ගන්නා බවත් එසේ නොමැතිනම් තමන්ව අත්අඩංගුවට
+The government is arrested by MP Chamara Sampath Dasanayake at one time and
 
-ගන්නා බවත් පාර්ලිමේන්තු මන්ත්‍රී අර්චුනා පැවැසීය. අධිකරණයේදී ඇප ලබාගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+MP Archuna said that he would take. Speaking to the media, he commented on the media after obtaining bail in court.
 
-"නාමල් හොරු, ඔක්කොම හොරු  හොරු කියප එක මමත් විශ්වාස කළා.රටේ ජනතාවත් විශ්වාස කළා. අන්තිමට බලනකොට පච ඔක්කොම එළිදරව් වෙනවා. මට අම්මා තාත්තා නෑ. මේ ඇවිත් ඉන්නේ මගේ සහෝදර සහෝදරියෝ. නාමල්ට ඒගරුත්වය කොහොමත් තියෙනවා. නාමල් හොරකම් කළා කියලා කියනවනම් නඩුවක් දාන්න.
+"Namal thieves, all the thieves of thieves believed.. At the end, all the script reveal. I'm not mom dad. This is my brother and sisters. Namal has the same time. Put a case, calling that Namal stolen.
 
-කවුරුත් දන්නවා කවුද පිස්සෝ, කවුද කොස්සෝ, කවුද ඩොක්ටර් කියලා හැමෝම දන්නවා.  කොස්සොන්ට මහින්ද රාජපක්ෂට
+Who knows who is crazy, who's the bull, who knows the doctor?  Kosalom to visit Mahinda Rajapaksa
 
-අත දාන්න බැරි නිසා අපි වගේ හාල්මැස්සෝ ටිකට අත දානවා. එක්කෝ චාමර සම්පත් දසනායක අත්අඩංගුවට ගන්නවා. නැත්නම්
+Due to our hand, as we can't hand the rchessa. Either Charm Resources Dasanayake arrested. Or
 
-දෙකෙන් එකක්. අපි දෙන්නා නැත්නම් ඒ අයට දේශපාලනයක් නෑ. කොච්චර මිනිස්සු කහ ඉරේ වාහන නවත්නවද? අත්අඩංගුවට අරන් අධිකරණයට දානවද?"
+One of the two. Not two politics to them. How do people stop the yellow sun? Arrested for the court? "
 
 ◼️
 
 [Data](articles/6228b8a4.json)
+
+[Extended Data](ext_articles/6228b8a4.ext.json)
 
 ---
 
@@ -1858,123 +2002,5 @@ Ramanathan Archana was arrested when he visited the Fort Police Station on Monda
 [Data](articles/aceb2981.json)
 
 [Extended Data](ext_articles/aceb2981.ext.json)
-
----
-
-### Former Minister Patali Champika Ranawaka's plea
-
-*2025-09-29 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226405) · `ta`
-
-The court has announced the date of hearing the petition of former minister Patali Champika Ranawaka.
-
-The Court of Appeal has announced that the petition filed by former minister Patali Champika Ranawaka will be taken up for hearing on November 24 demanding the cancellation of the allegations filed against him in connection with the 2016 vehicle accident.
-
-The petition was taken up for hearing in the presence of Appeal Court Judge Frank Gunawardena on Monday (29).
-
-The judge considering the request of Attorney -at -Law Amarasiri Panditharatne on behalf of Patali Champika Ranawaka and ordered the relevant petition to be heard on November 24.
-
-During the tenure of former President Gotabhaya Rajapakse, the Attorney General had filed an indictment in the Colombo High Court against former minister Patali Champika Ranawaka in connection with the accident in Rajagiriya on February 28, 2016.
-
-...
-
-[Data](articles/9383431f.json)
-
-[Extended Data](ext_articles/9383431f.ext.json)
-
----
-
-### Here is the order received by the archive
-
-*2025-09-29 14:42:49* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-අර්ච්චුනාට-ලැබුණු-නියෝගය-මෙන්න/11-418791) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා ඇප මත නිදහස් කිරීමට කොටුව මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
-
-Accordingly, the court has ordered the bail on two personal bail of Rs.
-
-◼️
-
-[Data](articles/6f767858.json)
-
-[Extended Data](ext_articles/6f767858.ext.json)
-
----
-
-### MP Archchuna Released on Bail After Arrest
-
-*2025-09-29 14:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/mp-archchuna-released-on-bail-after-arrest) · `en`
-
-COLOMBO (News1st); Jaffna District Member of Parliament Dr. Ramanathan Archchuna was released on two personal bail bonds of one million rupees each, following his arrest earlier in the day in connection with an ongoing investigation into a recent protest incident in Colombo.
-
-The arrest took place when the MP arrived at the Fort Police Station to provide a statement regarding allegations that he had verbally abused a police officer during a satyagraha demonstration held in the Fort area.
-
-◼️
-
-[Data](articles/e1856e59.json)
-
-[Extended Data](ext_articles/e1856e59.ext.json)
-
----
-
-### Paraicuna released on bail
-
-*2025-09-29 14:38:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනතර-අරචනට-ඇප/1-680418) · `si`
-
-Fort Magistrate Isurra Neththikumara ordered that MP Dr. Ramanathan, who was arrested in two charges including criminal force of a police officer on the duties of a police officer.
-
-The other charge against him was the other accusation against him. He welcomed the guilty of the court. The allegations are to be filed in the other accusation.
-
-◼️
-
-[Data](articles/4bdcf9f6.json)
-
-[Extended Data](ext_articles/4bdcf9f6.ext.json)
-
----
-
-### Paraicuna released on bail
-
-*2025-09-29 14:38:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනතර-අරචනට-ඇප/101-680418) · `si`
-
-Fort Magistrate Isurra Neththikumara ordered that MP Dr. Ramanathan, who was arrested in two charges including criminal force of a police officer on the duties of a police officer.
-
-The other charge against him was the other accusation against him. He welcomed the guilty of the court. The allegations are to be filed in the other accusation.
-
-◼️
-
-[Data](articles/96469bf9.json)
-
-[Extended Data](ext_articles/96469bf9.ext.json)
-
----
-
-### Proper database has not yet been taken regarding reading of Sri Lankan books
-
-*2025-09-29 14:38:34* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-පත-කයවම-ගන-නස-දතත-සමකෂණයක-තවමත-සදවල-න/26-680417) · `si`
-
-Since 2004, the month of October has been declared as a National Reading Month. Accordingly, the theme of the theme of 2025 is based on the National Reading Month of this year, based on the theme of the year.
-
-The National Reading Month is on October.   Concurrently, in October, school library date and library web have been engaged in. School Library Week is the last week of October every year and Monday is the school library day. Accordingly, the year 2025 will be operated from Monday, October 27 to October 31st. It is to be celebrated in schools through the theme "Let's Read Books". The beginning of the entire society is the beginning of the school. Therefore, the importance of reading the book for schools is a valuable activity to read the importance of the book.
-
-...
-
-[Data](articles/23b69c1c.json)
-
-[Extended Data](ext_articles/23b69c1c.ext.json)
-
----
-
-### Proper database has not yet been taken regarding reading of Sri Lankan books
-
-*2025-09-29 14:38:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/මරට-පත-කයවම-ගන-නස-දතත-සමකෂණයක-තවමත-සදවල-න/2-680417) · `si`
-
-Since 2004, the month of October has been declared as a National Reading Month. Accordingly, the theme of the theme of 2025 is based on the National Reading Month of this year, based on the theme of the year.
-
-The National Reading Month is on October.   Concurrently, in October, school library date and library web have been engaged in. School Library Week is the last week of October every year and Monday is the school library day. Accordingly, the year 2025 will be operated from Monday, October 27 to October 31st. It is to be celebrated in schools through the theme "Let's Read Books". The beginning of the entire society is the beginning of the school. Therefore, the importance of reading the book for schools is a valuable activity to read the importance of the book.
-
-...
-
-[Data](articles/ca8bf62b.json)
-
-[Extended Data](ext_articles/ca8bf62b.ext.json)
 
 ---

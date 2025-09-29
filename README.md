@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 20:20:07**
+As of **2025-09-29 20:09:58**
 
 ## Newspaper Stats
 
-*Scraped **79,594** Articles*
+*Scraped **79,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,666
-adaderanalk | 10,271
+adaderanalk | 10,270
 tamilmirrorlk | 11,914
 virakesarilk | 12,986
 adaderanasinhalalk | 13,779
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,593 (100.0%) of 79,594 articles have been extended.
+79,592 (100.0%) of 79,593 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,28 +112,6 @@ He fears that talk about this will lead to revenge and that further restrictions
 [Data](articles/888b074e.json)
 
 [Extended Data](ext_articles/888b074e.ext.json)
-
----
-
-### Four arrested over recent Tangalle drug seizure remanded
-
-*2025-09-29 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113039/four-arrested-over-recent-tangalle-drug-seizure-remanded) · `en`
-
-The four suspects arrested in connection with the recent discovery of a haul of heroin and crystal methamphetamine (commonly known as ‘Ice’) in Seenimodara, Tangalle on September 24, have been remanded, Ada Derana reporter said.
-
-The order was issued when the group was produced before the Tangalle Magistrate’s Court today.
-
-Police arrested four persons including two sons of an individual who died after being hospitalised from a house in Seenimodara, Tangalle, on September 22, where a large haul of narcotics was found in three lorries.
-
-According to police, the estimated street value of the drugs found in the three lorries is approximately Rs. 9,888 million.
-
-The seized narcotics included a total of 705.91 kilograms comprising 284.94 kilogram of heroin and 420.976 kilogram of ‘Ice’.
-
-The seizure was made during a special operation conducted based on information received following the suspicious deaths of two individuals found inside the house.
-
-...
-
-[Data](articles/4819e7dd.json)
 
 ---
 
@@ -675,27 +653,19 @@ Moreover, a bomb disposal team was also deployed outside the politician’s hous
 
 ---
 
-### Cash Association released into the Secretary General
+### වරෙන්තු නිකුත් වූ සජබ මහ ලේකම් අධිකරණයට ඉදිරිපත් වෙයි
 
 *2025-09-29 16:41:36* · [`adalk`](https://www.ada.lk/breaking_news/වරෙන්තු-නිකුත්-වූ-සජබ-මහ-ලේකම්-අධිකරණයට-ඉදිරිපත්-වෙයි/11-418794) · `si`
 
-The Government Secretary General of the Nuwara Eliya Magistrate's Court is produced before the Nuwara Eliya Magistrate's Court.
+පසුගිය පළාත් පාලන මැතිවරණයේ වියදම් වාර්තා නිසි ලෙස ඉදිරිපත් නොකිරීමේ චෝදනාව මත වරෙන්තු නිකුත් වූ ස.ජ.බ මහ ලේකම් රංජිත් මද්ධුමබණ්ඩාර නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් වෙයි.
 
-UNP General Secretary Ranjith Madduwa was produced before the Nuwara Eliya Magistrate's Court today (29).
+පසුගිය පළාත් පාලන මැතිවරණයේ නුවරඑළිය දිස්ත්‍රික්කයට අදාළ පක්ෂ කාර්යාලය විසින් මැතිවරණ කොමිෂන් සභාවට ඉදිරිපත් කළ යුතු මැතිවරණ වියදම් වාර්තාව නිසි වේලාවට ඉදිරිපත් නොකිරීම මත ගොනු කරනු ලැබූ නඩුවට අදාළව නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු නිකුත් කර තිබූ සමගි ජන බලවේගය පක්ෂ මහලේකම් රංජිත් මද්දුමණ්ඩාර මහතා අද (29) නීතිඥවරු හරහා නුවරඑළිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් විය.
 
-Harimensional Squadron General Secretary of the Judicial Examination of the Court of Justice after the production of the courts said that he had to appear in a case without proper communication in the Election Commission.
+අධිකරණයට ඉදිරිපත් වීමෙන් අනතුරුව අධිකරණ සංකීර්ණයෙන් පිටතට පැමිණි සමගි ජන බලවේග මහලේකම් රංජිත් මද්ධුම බණ්ඩාර මහතා මාධ්‍යය වෙත අදහස් දැක්වෙමින් කියා සිටියේ මැතිවරණ කොමිෂන් සභාවේ නිසි සන්නිවේදනයක් නොමැතිකමින් කාල වේලාවන් නිකරුනේ ගතකරමින් නඩුවකට පෙනී සිටීමට සිදුවූ බවයි.
 
-"All in each district will be brought to the party headquarters to the head office of the party and direct the Elections Commission Office in the relevant districts in the Nuwara Eliya Districts, the Nuwara Eliya districts,
-
-The case was filed that the report was not properly.
-
-The Elections Commission has told the police from the Elections Commission after the case filed by the case.. Today, we have presented to the warrant that we have a lasting date and offers our innocence and offers our innocence.
-
-◼️
+...
 
 [Data](articles/c9d093a6.json)
-
-[Extended Data](ext_articles/c9d093a6.ext.json)
 
 ---
 
@@ -1966,5 +1936,25 @@ The Zonal Education Director then asked them to explain and asked parents and th
 [Data](articles/8c7ebbc7.json)
 
 [Extended Data](ext_articles/8c7ebbc7.ext.json)
+
+---
+
+### Illegal liquor sales; Sub -Inspector arrested for suspended
+
+*2025-09-29 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226402) · `ta`
+
+A Sub -Inspector of Police suspended for illegal liquor sales has been arrested by Bandaragama police.
+
+According to information received by the Bandaragama police, the suspect's suspected Sub Inspector of Police has been arrested with a motorcycle near a school in Kalutara - Bandaragama area.
+
+Police investigations have revealed that he was suspended as he was on duty at the Borella Police Station as a Sub Inspector of Police.
+
+3750 millilters of illegal liquor has been seized from the suspected sub -inspector.
+
+◼️
+
+[Data](articles/8289a2c5.json)
+
+[Extended Data](ext_articles/8289a2c5.ext.json)
 
 ---

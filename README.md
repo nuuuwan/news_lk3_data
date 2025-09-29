@@ -1,673 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 08:53:54**
+As of **2025-09-29 05:57:43**
 
 ## Newspaper Stats
 
-*Scraped **79,353** Articles*
+*Scraped **79,306** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 412
-newsfirstlk | 463
+newsfirstlk | 460
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
 dailymirrorlk | 4,733
 economynextcom | 4,734
-islandlk | 4,839
-dailyftlk | 5,584
-adalk | 7,644
-adaderanalk | 10,242
-tamilmirrorlk | 11,876
-virakesarilk | 12,933
-adaderanasinhalalk | 13,754
+islandlk | 4,828
+dailyftlk | 5,565
+adalk | 7,642
+adaderanalk | 10,240
+tamilmirrorlk | 11,872
+virakesarilk | 12,932
+adaderanasinhalalk | 13,749
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,347 (100.0%) of 79,353 articles have been extended.
+79,306 (100.0%) of 79,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### President Dissanayake’s Third Day in Japan: Key Meetings and Engagements Ahead
-
-*2025-09-29 08:36:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/president-dissanayake%e2%80%99s-third-day-in-japan-key-meetings-and-engagements-ahead) · `en`
-
-COLOMBO (News 1st) - President Anura Kumara Dissanayake is on the third day of his official visit to Japan today.Yesterday, the President met with members of the Sri Lankan community in Tokyo.During the course of the visit, President Dissanayake is scheduled to meet Emperor Naruhito of Japan.He is also expected to hold bilateral discussions with Japanese Prime Minister Shigeru Ishiba and several senior ministers.In addition, the President will participate in the Sri Lanka Investment Forum in Tokyo, organized jointly by the Sri Lanka and Japan Chambers of Commerce.
-
-◼️
-
-[Data](articles/e303d021.json)
-
----
-
-### India’s Operation Sindoor Referenced by Prime Minister Following Cricket Victory Over Pakistan
-
-*2025-09-29 08:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/india%e2%80%99s-operation-sindoor-referenced-by-prime-minister-following-cricket-victory-over-pakistan) · `en`
-
-Following India’s cricket victory over Pakistan, Prime Minister Narendra Modi referred to Operation Sindoor, describing it as a significant achievement for the nation.In a statement, the Prime Minister highlighted that the victory was one of the positive outcomes and represented a triumph for India. He also extended his best wishes to the Indian cricket team.In yesterday’s thrilling final, India defeated arch-rivals Pakistan by five wickets.The Operation Sindoor refers to India’s military action carried out against Pakistan in response to the recent terrorist attack that took place in Pahalgam.
-
-◼️
-
-[Data](articles/b4c47e59.json)
-
----
-
-### Pack. India refuses to buy a bowl with minister
-
-*2025-09-29 07:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாக்-அமைச்சரிடம்-கிண்ணத்தை-வாங்க-மறுத்த-இந்தியா/44-365450) · `ta`
-
-India, a champion of the Asia Cup, refused to buy the bowl from Pakistan's Home Minister Moshin Naqi.
-
-It is noteworthy that Naqvi is the Chairman of the Pakistan Cricket Board and the Asian Cricket Board.
-
-Kuldeep Yadav, Abhishek Sharma and Tilak Verma have received personal awards from the guests on the stage, as they have received personal awards, and they have not seen them.
-
-The Indian players and the coach were celebrating the bowl on the stage.
-
-◼️
-
-[Data](articles/5a88ec9d.json)
-
-[Extended Data](ext_articles/5a88ec9d.ext.json)
-
----
-
-### India Crowned Asia Cup T20 Champions for the Ninth Time
-
-*2025-09-29 07:44:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/india-crowned-asia-cup-t20-champions-for-the-ninth-time) · `en`
-
-...
-
-[Data](articles/6b8baba5.json)
-
----
-
-### Suspect arrested with 458 bio and heroin
-
-*2025-09-29 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215121) · `si`
-
-A suspect has been arrested by the STF in Kottawa in Kottawa area with various types of biolubarms, T-5om Gacket.
-
-Police found 400 g of heroin, 30 grams of heroin in his possession, 30 garments, 15 insurance certificates, 15 insurance certificates and two mobile phones.
-
-The suspect is a 24 year old resident of Angulana, Moratuwa.
-
-The suspect has been handed over to the Western Provincial Southern Provincial Crimes Division for further investigations.
-
-◼️
-
-[Data](articles/85e59fb4.json)
-
-[Extended Data](ext_articles/85e59fb4.ext.json)
-
----
-
-### It is revealed that the school children treated more inclined from the Western Province
-
-*2025-09-29 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215120) · `si`
-
-The Dangerara Drugs Control Board says that most of the school children in Sri Lanka tend to be narrowed in the Western Province.
-
-The Colombo district is the mainstill, including the Grandpass, Panaduwa, Panadura, Dehiwala, Mount Lavinuwa, Dehiwala.
-
-In addition, some parts of the Kandy district have been identified as a large number of school children.
-
-The Dangered Drugs Control Board stated that Gampaha, Kurunegala, Anuradhapura, Ratnapura and Kalutara districts have been identified as risky.
-
-The influence of friends has been identified as a major point that school children affect drugs.
-
-It is also the low interest in the school children, such as principals such as principals, zonal education offices such as principal, Zonal Education Offices to enforce the school drug prevention policy, especially in the drug policy.
-
-In addition, it is also identified as the neglect of family environment as environmental environments, neglect, the family and drugs, the family and unrest in the area.
-
-...
-
-[Data](articles/74d78944.json)
-
-[Extended Data](ext_articles/74d78944.ext.json)
-
----
-
-### Netanyahu to meet Trump as Israel faces isolation over Gaza war
-
-*2025-09-29 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113010/netanyahu-to-meet-trump-as-israel-faces-isolation-over-gaza-war) · `en`
-
-Facing increasing isolation abroad and mounting pressure at home, Israeli Prime Minister Benjamin Netanyahu will defend his intention to “finish the job” in Gaza when he meets US President Donald Trump on Monday (Sep 29).
-
-The meeting comes days after Trump unveiled a 21-point plan aimed at ending the war in the Palestinian territory during discussions with Arab and Muslim leaders on the sidelines of the UN General Assembly.
-
-On Sunday, Trump hinted at “something special” to come in Middle East talks, adding in a post on his Truth Social platform: “WE WILL GET IT DONE!!!”
-
-On Friday, Trump had told reporters in Washington “I think we have a deal” on Gaza, even as Netanyahu, speaking at the UN, vowed to “finish the job” in Israel’s war against Hamas.
-
-But experts told AFP that Netanyahu appeared to be cornered, facing growing international and domestic calls to end the war.
-
-...
-
-[Data](articles/77677851.json)
-
-[Extended Data](ext_articles/77677851.ext.json)
-
----
-
-### Four persons killed in a chapelled in America
-
-*2025-09-29 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215119) · `si`
-
-Four persons have died in a gunshot wound and the fire in a gunshot wound in Michigan, USA, Michigan.
-
-Foreign media reports that 8 others were injured in the incident.
-
-It is said that the gunman was inaugurated by a car in a car crashed into a car, and then a fire that was deliberately started shooting after the church.
-
-The suspect was 40-year-old Thomas Jacob, a shooting with the police, and the police have also been suspected.
-
-The suspect has been revealed as a veteran of the Marine Corps and is yet to be revealed in whateteteening the attack he made.
-
-In the meantime, the US security forces have been able to strengthen the security of religious places in the United States.
-
-However, the American President Donald Trump is also commented on the attack and the attack was introduced as another target attack on Christian.
-
-◼️
-
-[Data](articles/d8bd7588.json)
-
-[Extended Data](ext_articles/d8bd7588.ext.json)
-
----
-
-### World heart day is today
-
-*2025-09-29 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215118) · `si`
-
-Every year, the heart day will celebrate the heart of hearts on September 29.
-
-He can be treated as a result of the largest group of people in the world, and the world heart day is expected to educate and minimize the possibility of it.
-
-The theme of this time is '' every heart beat important. Don't let anyone die premature to any heart beat '' Go.
-
-Meanwhile, it is sad that it is sad that 80 percent of the deaths due to heart disease caused by heart disease.
-
-He was speaking at a program held at Viharamahadevi Park yesterday (28).
-
-The doctor emphasized that the main objective of the World Heritage Day is to arrange to prevent preventable hearts.
-
-He also points out that he is able to reduce heart disease through a simple and healthy life.
-
-The doctor added that exercise, avoiding good food pattern, abstaining from smoking and avoiding stressful actions and health tests are also important.
-
-◼️
-
-[Data](articles/3de4498d.json)
-
-[Extended Data](ext_articles/3de4498d.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2025-09-29 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113009/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
-
-Several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (29), the Department of Meteorology said.
-
-Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.
-
-Fairly strong winds of about (35-45) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts, the Met. Department added.
-
-◼️
-
-[Data](articles/13cd98f1.json)
-
-[Extended Data](ext_articles/13cd98f1.ext.json)
-
----
-
-### 85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya
-
-*2025-09-29 06:21:01* · [`dailyftlk`](https://www.ft.lk/opinion/85th-birthday-commemoration-of-former-Speaker-Sri-Lankabhimanya-Karu-Jayasuriya/14-782312) · `en`
-
-There are no personal festivities except for religious observances. Instead, the day is devoted entirely to social service activities such as community service, paying tribute to war heroes, and providing facilities to strengthen educational opportunities for future generations. For the past several years, Karu Jayasuriya has celebrated his birthday by awarding Sinhala language proficiency certificates to about 400 Tamil students in Jaffna, following six months of intensive training. He has always made it a point to travel to Jaffna by train for this purpose, deriving great personal satisfaction from these efforts. Similarly, in the Gampaha area, Sinhala students have been awarded Tamil language proficiency certificates.
-
-...
-
-[Data](articles/ee19bf58.json)
-
-[Extended Data](ext_articles/ee19bf58.ext.json)
-
----
-
-### Your right to know: Why journalism and access to information matter more than ever
-
-*2025-09-29 06:18:50* · [`dailyftlk`](https://www.ft.lk/opinion/Your-right-to-know-Why-journalism-and-access-to-information-matter-more-than-ever/14-782311) · `en`
-
-Access to public information is an important resource for journalists, just as
-
-journalists are essential vectors for enabling citizens to access information
-
-Today is both World News Day and the International Day for Universal Access to Information – a good time to remember that if we lose our fundamental universal right to access to information, and if independent journalists lose the ability to report the facts, then our rights and democracies may vanish entirely.
-
-Access to information is a fundamental human right empowering us all to make informed decisions, to participate in democratic processes, and hold our leaders accountable. It’s also critical for survival in a host of situations.
-
-...
-
-[Data](articles/49c4bb19.json)
-
-[Extended Data](ext_articles/49c4bb19.ext.json)
-
----
-
-### New era for island of gems as countdown begins to ‘FACETS Sri Lanka 2026’
-
-*2025-09-29 06:17:02* · [`dailyftlk`](https://www.ft.lk/business/New-era-for-island-of-gems-as-countdown-begins-to-FACETS-Sri-Lanka-2026/34-782310) · `en`
-
-Three months and counting until ‘FACETS Sri Lanka 2026’ opens its doors
-
-Only three months remain until the grand opening of FACETS Sri Lanka 2026 – the 33rd edition of Asia’s premier gem and jewellery exhibition, organised by the Sri Lanka Gem and Jewellery Association (SLJGA) in collaboration with the National Jewellery Authority.
-
-The event will take place from 3 to 5 January 2026 at Cinnamon Life City of Dreams. This landmark edition of the exhibition is set to introduce a futuristic two-floor showcase that celebrates the country’s unparalleled gem legacy and vibrant jewellery sector and reaffirms Sri Lanka’s reputation as the true ‘Island of Gems.’
-
-...
-
-[Data](articles/5303e182.json)
-
-[Extended Data](ext_articles/5303e182.ext.json)
-
----
-
-### ආසියානු කුසලානය ඉන්දියාවට
-
-*2025-09-29 06:16:29* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානය-ඉන්දියාවට/9-418773) · `si`
-
-පාකිස්ථානය කඩුලු හතරකින් පරාජයට පත්කරමින් 2025 ආසියානු කුසලානය තමන් සතු කර ගැනීමට ප්‍රභල ඉන්දීය කණ්ඩායම සමත්විය. ඩුබායිහි පැවැති අවසන් මහ තරගයේ මුලින්ම පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම ලකුණු 146ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ ඉන්දීය කණ්ඩායම පන්දුවාර 19.4කදී කඩුලු 6ක් වැය කරමින් තරගය ජයග්‍රහණය කළේය. තරගවලියේ වීරයා ලෙස ඉන්දියාවේ අභිෂේක් ෂර්මා සම්මාන ලැබූ අතර තරගයේ වීරයා ලෙස ඉන්දියාවේ තිලක් වර්මා සම්මාන ලැබීය.
-
-◼️
-
-[Data](articles/498ad13f.json)
-
----
-
-### Lara De Zoysa launches Ceylon Tea Market in UK
-
-*2025-09-29 06:15:26* · [`dailyftlk`](https://www.ft.lk/business/Lara-De-Zoysa-launches-Ceylon-Tea-Market-in-UK/34-782309) · `en`
-
-Initiative by daughter of late Michael De Zoysa, brings together heritage brands, artisanal producers, tea tourism, learning and social impact under one umbrella
-
-Carrying forward the legacy of her late father, Michael De Zoysa — one of the most respected figures in the Sri Lankan tea industry — Lara De Zoysa has launched Ceylon Tea Market, a pioneering multi-vendor platform dedicated to celebrating, preserving, and promoting the heritage of Pure Ceylon Tea.
-
-Ceylon Tea Market is a UK-based multi-vendor platform founded by Lara De Zoysa. Built on four key pillars—Tea Market, Tea Holidays, Tea Learning, and Ceylon Tea Trust – We Give Back—Ceylon Tea Market connects global consumers with Pure Ceylon Tea, tea tourism, and ethical partnerships. The platform brings together heritage brands, artisanal producers, and experience providers, while supporting social impact initiatives that uplift Sri Lanka’s tea-growing communities.
-
-...
-
-[Data](articles/892a9886.json)
-
-[Extended Data](ext_articles/892a9886.ext.json)
-
----
-
-### The weather today
-
-*2025-09-29 06:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226362) · `ta`
-
-The Department of Meteorology has said that rainfall will occur in Sabaragamuwa and Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-There is a chance of rain or thunderstorms after two o'clock in the afternoon.
-
-Heavy winds can be frequent at speeds of 35 - 45 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
-
-Rainfall is expected in many parts of the sea regions from Chilaw to Colombo and Galle.
-
-Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
-
-From Chilaw to Mannar to Mannar, as well as in the sea regions from Matara to Pottuvil via Hambantota, 50 - 60 km per hour. In these cases, these sea regions are turbulent.
-
-In the sea regions from the Kankesanthurai to Trincomalee, the wind can increase at 50 kilometers per hour.. In these cases, these sea regions are somewhat turbulent.
-
-...
-
-[Data](articles/08c16b1c.json)
-
-[Extended Data](ext_articles/08c16b1c.ext.json)
-
----
-
-### Abans Group Director Dr. Saroshi Dubash honoured with ‘Sri Lanka Woman Leader’ at World Women Leadership Congress & Awards
-
-*2025-09-29 06:13:13* · [`dailyftlk`](https://www.ft.lk/business/Abans-Group-Director-Dr-Saroshi-Dubash-honoured-with-Sri-Lanka-Woman-Leader-at-World-Women-Leadership-Congress-Awards/34-782308) · `en`
-
-Dr. Saroshi Dubash (left) accepting the ‘Sri Lanka Woman Leader’ recognition
-
-Abans Group Director Dr. Saroshi Dubash has been honoured with the title ‘Sri Lanka Woman Leader’ at the World Women Leadership Congress & Awards’ Sri Lanka Woman Leaders event, held at Taj Samudra Colombo on 10 September.
-
-Representing the second-generation leadership of Abans Group, which was founded and nurtured by Abans Pestonjee, Dr. Dubash has worked diligently through the ranks of the Group over the years, earning the respect of her colleagues and peers through her unwavering dedication and principled leadership, managing a number of companies under the Group.
-
-Accordingly, she currently holds the positions of Managing Director at Abans Electricals and Manufacturing PLC, at Abans Logistics, as well as at Crown City Developers, elevating the Group following principles such as honesty, innovation, and sustainable growth.
-
-...
-
-[Data](articles/1e3f3826.json)
-
-[Extended Data](ext_articles/1e3f3826.ext.json)
-
----
-
-### Ruwanthi de Silva joins Eastern Merchants Board
-
-*2025-09-29 06:12:15* · [`dailyftlk`](https://www.ft.lk/business/Ruwanthi-de-Silva-joins-Eastern-Merchants-Board/34-782307) · `en`
-
-Eastern Merchants PLC has appointed Ruwanthi de Silva as an Executive Director to its Board.
-
-de Silva is a strategic HR and business leader with nearly 20 years of cross-industry experience across Sri Lanka and Australia. She combines commercial rigour with people-centred strategy, specialising in workforce planning, HR analytics, and automation of processes.
-
-Having completed her Bachelor of Economics and Master of Commerce degrees at the University of Sydney in Australia, she started her professional career in Australia as a Financial Analyst at Village Roadshow Ltd., in Sydney. Village Roadshow is a global leader in the entertainment industry, operating theme parks, cinemas and film/TV production studios.
-
-...
-
-[Data](articles/d91a818d.json)
-
-[Extended Data](ext_articles/d91a818d.ext.json)
-
----
-
-### Several showers today
-
-*2025-09-29 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215117) · `si`
-
-Several spells of showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The Department said that today's North Western Province will continue.
-
-In the Uva Province and Ampara District. Showers or thundershowers will occur at a few places about 2.00.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (35-45) can cause strong winds.
-
-◼️
-
-[Data](articles/38ea95c2.json)
-
-[Extended Data](ext_articles/38ea95c2.ext.json)
-
----
-
-### Why did Jeevan take the sister?
-
-*2025-09-29 06:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவன்-அக்காவை-அழைத்துச்-சென்றது-ஏன்/76-365447) · `ta`
-
-Former President Mahinda Rajapaksa, CWC general secretary and parliamentarian Jeevan Thondaman, and CWC financialist and former parliamentarian Maruthappandi Rameshwaran met at the Calton residence (28) at Tangalle.
-
-During the meeting, the CWC media unit said that they were also addressing the health of former President Mahinda Rajapaksa.
-
-However, why did Jeevan Thondaman take his sister? Social websites have been questioned.
-
-◼️
-
-[Data](articles/15ebc7a7.json)
-
-[Extended Data](ext_articles/15ebc7a7.ext.json)
-
----
-
-### Bhutan’s Queen Mother commends MTI’s strategy consulting contribution
-
-*2025-09-29 06:05:41* · [`dailyftlk`](https://www.ft.lk/business/Bhutan-s-Queen-Mother-commends-MTI-s-strategy-consulting-contribution/34-782306) · `en`
-
-MTI Consulting  CEO Hilmy Cader, recently met with Tarayana Foundation Founding President Queen Mother of Bhutan Dorji Wangmo Wangchuck, for whom MTI had the privilege of developing the strategic plan.
-
-“Our visit to the Royal Palace in Mothithang was marked by Her Majesty’s gracious hospitality and an enlightening exchange of ideas. The depth of Her Majesty’s wisdom and commitment to uplifting lives through the Foundation left a lasting impression,” said Cader.
-
-MTI developed five strategic initiatives for Tarayana Foundation, which will assist them to continue building a happy and prosperous Bhutan. After conducting the first three stages of MTI’s 8S Model—Scope, Scan and Sights—MTI recommended going ahead with five strategic initiatives that were identified as the key aspects that Tarayana can focus on.
-
-...
-
-[Data](articles/694bd603.json)
-
-[Extended Data](ext_articles/694bd603.ext.json)
-
----
-
-### Cultivating circular futures: Youth as agents of change
-
-*2025-09-29 06:03:40* · [`dailyftlk`](https://www.ft.lk/columns/Cultivating-circular-futures-Youth-as-agents-of-change/4-782305) · `en`
-
-Empowering young people to lead in circular food systems generates ripple effects across communities, policies, and markets
-
-On 29 September, the world marks the International Day of Awareness on Food Loss and Waste, highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
-
-The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
-
-...
-
-[Data](articles/edebe08b.json)
-
-[Extended Data](ext_articles/edebe08b.ext.json)
-
----
-
-### First year of AKD Government: Is it RW in driving seat with a difference?
-
-*2025-09-29 06:00:30* · [`dailyftlk`](https://www.ft.lk/columns/First-year-of-AKD-Government-Is-it-RW-in-driving-seat-with-a-difference/4-782304) · `en`
-
-The Government of Anura Kumara Disanayake or AKD Government, has completed one year by September 2025. Many, except those in the Government, have ventured into analysing its performance during this initial year. From the Government side, a performance report is expected to be presented by AKD himself when he will present his Budget for 2026 in November 2025.
-
-...
-
-[Data](articles/909f0f41.json)
-
-[Extended Data](ext_articles/909f0f41.ext.json)
-
----
-
-### COPE, oversight, and boundaries of power: Necessary caution
-
-*2025-09-29 05:53:08* · [`dailyftlk`](https://www.ft.lk/columns/COPE-oversight-and-boundaries-of-power-Necessary-caution/4-782303) · `en`
-
-Strengthening COPE should mean better research support, stronger audit collaboration, and continuous capacity
-
-As someone who has been privileged to represent all three critical domains of the COPE process — as a Chairman of a State-Owned Enterprise (SOE), a Secretary of a Ministry, and as a Chair of COPE — I feel a strong sense of responsibility to express my concerns about the recent proposal put forward under Standing Order 137 by the current COPE Chair, Dr. Nishantha Samaraweera, MP (NPP).
-
-The motion seeks to amend Standing Order 120, granting COPE the authority to directly refer its findings to law enforcement bodies such as the IGP or the Commission to Investigate Allegations of Bribery or Corruption (CIABOC). While I appreciate the spirit of accountability that underpins the proposal, I must stress — with the full weight of my experience — that such a reform must be approached with great care, constitutional awareness, and institutional intelligence.
-
-...
-
-[Data](articles/6941aae4.json)
-
-[Extended Data](ext_articles/6941aae4.ext.json)
-
----
-
-### China and Sri Lanka pledge to deepen ties
-
-*2025-09-29 05:43:53* · [`dailyftlk`](https://www.ft.lk/news/China-and-Sri-Lanka-pledge-to-deepen-ties/56-782300) · `en`
-
-China celebrates 76th anniversary of founding of People’s Republic of China
-
-Praises President Disanayake’s State visit to China resulted in new strategic guidance for bilateral ties
-
-Describes SL as an important partner in China’s neighbourhood diplomacy
-
-Labour Minister Dr. Anil Jayantha Fernando commends China for being a steadfast partner for Sri Lanka’s emergency aid and debt restructuring support
-
-Highlights China’s support for Sri Lanka’s development and connectivity through BRI
-
-China and Sri Lanka last week reaffirmed their longstanding friendship and pledged to deepen cooperation across multiple sectors at a reception hosted by the Chinese Embassy to mark the 76th anniversary of the founding of the People’s Republic of China.
-
-...
-
-[Data](articles/3669c441.json)
-
-[Extended Data](ext_articles/3669c441.ext.json)
-
----
-
-### India, Sri Lanka hold second meeting of Joint Working Group on renewable energy
-
-*2025-09-29 05:40:46* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-hold-second-meeting-of-Joint-Working-Group-on-renewable-energy/56-782299) · `en`
-
-The Second Meeting of the India-Sri Lanka Joint Working Group (JWG) on renewable energy was held virtually on 23 September 2025. The Indian delegation was led by New and Renewable Energy Ministry Secretary Shri Santosh Kumar Sarangi and the Sri Lankan delegation was led by Energy Ministry Secretary Prof. K.T.M Udayanga Hemapala.
-
-The two sides briefed each other on developments in the field of renewable energy, including solar, wind, and emerging technologies such as green hydrogen. The potential of “One Sun, One World, One Grid” was also highlighted.  Both sides reiterated their commitment to strengthening bilateral energy ties, with a focus on affordable and sustainable energy. The Joint Working Group will continue to serve as a platform to facilitate policy-level discussion, project development and knowledge exchange in the renewable energy sector.
-
-◼️
-
-[Data](articles/ea5175c3.json)
-
-[Extended Data](ext_articles/ea5175c3.ext.json)
-
----
-
-### Reverse Osmosis water plant inaugurated at Hambantota District General Hospital
-
-*2025-09-29 05:39:38* · [`dailyftlk`](https://www.ft.lk/news/Reverse-Osmosis-water-plant-inaugurated-at-Hambantota-District-General-Hospital/56-782298) · `en`
-
-A Reverse Osmosis (RO) water plant was inaugurated in the OPD area of the District General Hospital, Hambantota, during the High Commissioner of India to Sri Lanka Santosh Jha’s recent visit to the Southern Province.
-
-According to the Indian High Commission, Santosh Jha paid a visit to the Southern Province of Sri Lanka on 24 and 25 September, during which the RO water plant was inaugurated.
-
-The plant, donated by the Government of India, is expected to benefit around 1000 people daily, including patients, visitors and hospital staff. The Mayor and Deputy Mayor of Hambantota were present on the occasion.
-
-On Thursday, the High Commissioner visited Sri Vijayarama Purana Viharaya in Ambalangoda, Galle, a temple that houses wooden artefacts of exceptional craftsmanship and ancient artistry. The High Commissioner extended financial assistance for the completion of works at the temple premises to install 80 wooden statues of Lord Buddha.
-
-...
-
-[Data](articles/2fdc15cb.json)
-
-[Extended Data](ext_articles/2fdc15cb.ext.json)
-
----
-
-### Govt. assures welfare of SL workers in Kuwait
-
-*2025-09-29 05:37:14* · [`dailyftlk`](https://www.ft.lk/news/Govt-assures-welfare-of-SL-workers-in-Kuwait/56-782297) · `en`
-
-Says SL Mission in Kuwait working closely with Kuwaiti authorities to resolve cases affecting Sri Lankan women housed at Government Shelter
-
-Notes at any given time, between 40 and 70 Sri Lankans sheltered at facility
-
-Stresses commitment to safeguarding dignity and welfare of SL workers overseas
-
-Foreign Affairs, Foreign Employment and Tourism Acting Minister Arun Hemachandra yesterday said the Government has assured the welfare of Sri Lankan domestic workers in Kuwait by taking urgent measures to address those concerns following reports circulating on social media.
-
-Assuring to take urgent measures to address those concerns over the welfare of Sri Lankan domestic workers in Kuwait, he said the Sri Lankan Embassy in Kuwait, headed by Ambassador Lakshitha Ratnayake, is working closely with Kuwaiti authorities to resolve cases affecting Sri Lankan women housed at the Government Shelter operated by the Public Authority for Manpower.
-
-...
-
-[Data](articles/0d82104d.json)
-
-[Extended Data](ext_articles/0d82104d.ext.json)
-
----
-
-### QR code tea fertiliser subsidy with Rs. 4,000 discount from 1 Oct.
-
-*2025-09-29 05:36:13* · [`dailyftlk`](https://www.ft.lk/news/QR-code-tea-fertiliser-subsidy-with-Rs-4-000-discount-from-1-Oct/56-782296) · `en`
-
-The Government will roll out fertiliser subsidies for small and medium tea growers through a QR code-based system starting 1 October.
-
-Farmers can redeem the subsidy at fertiliser suppliers registered with the National Fertiliser Secretariat, including the State-owned distributor, by presenting the QR code. The scheme offers a discount of Rs. 4,000 on a 50 kg pack and Rs. 2,000 on a 25 kg pack.
-
-The Sri Lanka Tea Board has earmarked Rs. 2 billion for the 2025 subsidy program. The initiative is part of a broader plan to lift annual tea output to 400 million kilograms by 2030.
-
-Support will be channelled mainly to smallholders, who account for about three-quarters of national green leaf production.
-
-The program is jointly administered by the Tea Small Holdings Development Authority and the Tea Board.
-
-◼️
-
-[Data](articles/f7b33d72.json)
-
-[Extended Data](ext_articles/f7b33d72.ext.json)
-
----
-
-### Digital education policy to go before Cabinet by March 2026
-
-*2025-09-29 05:35:53* · [`dailyftlk`](https://www.ft.lk/news/Digital-education-policy-to-go-before-Cabinet-by-March-2026/56-782295) · `en`
-
-A framework for digitalising Sri Lanka’s education system will be submitted to the Cabinet by March 2026, the Digital Task Force on Education Reform said last week.
-
-The update was presented at the Subcommittee on Education under the Ministerial Consultative Committee, chaired by Prime Minister and Education Minister Dr. Harini Amarasuriya, on Tuesday.
-
-Officials outlined six priority areas for digitalisation, including tackling teacher shortages, providing ICT equipment, ensuring continuity of schooling during disruptions, and integrating digital tools into learning.
-
-They said all schools without internet access will be connected by 31 December. Schools currently lacking basic digital resources will be given at least one smart board and a computer or laptop. Data presented showed three schools remain without electricity, 546 without computers or tablets, and 2,088 without smart boards.
-
-...
-
-[Data](articles/dce238b5.json)
-
-[Extended Data](ext_articles/dce238b5.ext.json)
-
----
-
-### Colombo International Book Fair tickets now on PickMe
-
-*2025-09-29 05:34:53* · [`dailyftlk`](https://www.ft.lk/news/Colombo-International-Book-Fair-tickets-now-on-PickMe/56-782294) · `en`
-
-Up to three free tickets for online ticket buyers via PickMe app
-
-Visitors to the Colombo International Book Fair 2025 are now busy securing their entry tickets directly through the PickMe app, a first for the country’s largest literary gathering.
-
-With just a few taps, PickMe’s Events feature lets users buy book fair tickets in-app and check in with a quick QR scan at special counters set up at the Bandaranaike Memorial International Conference Hall (BMICH), offering a seamless gate-pass style entry without having to queue up.
-
-To encourage adoption of the digital check-in experience, PickMe users become eligible for three free tickets anytime during the 10-day fair.
-
-The Book Fair, running from 27 September to 6 October, is one of Colombo’s most jam-packed cultural events. Its location at the BMICH, slightly away from regular public transport routes, often adds to the inconvenience.
-
-...
-
-[Data](articles/431e3a52.json)
-
-[Extended Data](ext_articles/431e3a52.ext.json)
-
----
-
-### Former Western PC member Amal Silva arrested by Walana Anti-Vice Squad
-
-*2025-09-29 05:31:50* · [`dailyftlk`](https://www.ft.lk/news/Former-Western-PC-member-Amal-Silva-arrested-by-Walana-Anti-Vice-Squad/56-782293) · `en`
-
-Former Western Provincial Council (PC) member Amal Silva was arrested yesterday by the Walana Anti-Vice Squad, along with three luxury vehicles worth around Rs. 60 million, which had been allegedly registered using forged documents.
-
-Police said he was arrested during a raid carried out based on intelligence received by the Walana Anti-Vice Squad.
-
-According to reports, the vehicles had been illegally imported into the country and registered with the Department of Motor Traffic under fraudulent registration numbers using forged documentation.
-
-Among the vehicles seized were three SUVs, including a Land Rover and Mitsubishi Jeep.
-
-Preliminary Police investigations have revealed that the registration numbers used belonged to State-owned vehicles, and fake documents were generated to facilitate the illegal registration of these luxury vehicles.
-
-The suspect is scheduled to be produced before the Panadura Magistrate’s Court today (29).
-
-◼️
-
-[Data](articles/9da8ba79.json)
-
-[Extended Data](ext_articles/9da8ba79.ext.json)
-
----
-
-### CPSTL to enforce merit-based hiring and promotions
-
-*2025-09-29 05:31:33* · [`dailyftlk`](https://www.ft.lk/news/CPSTL-to-enforce-merit-based-hiring-and-promotions/56-782292) · `en`
-
-Ceylon Petroleum Storage Terminals Ltd., (CPSTL) last week said future decisions on recruitment, promotions, and transfers will be based solely on merit, free from political or personal influence.
-
-CPSTL Chairman D.J.A.S. De S. Rajakaruna, speaking at a media briefing marking one year of the Government’s tenure, said the company had operated without a clear human resources framework for more than three decades. A new policy has now been introduced to address this gap, he noted.
-
-The Chairman urged the public not to seek jobs or transfers through Ministers or senior officials, stressing that only qualifications and experience would guide decisions.
-
-Rajakaruna added that in restructuring its workforce, the company had to reduce staff numbers due to skills gaps and mismatched roles. The new organisational plan, prepared by a State institution after a comprehensive study, defines positions and appointments according to professional criteria.
-
-...
-
-[Data](articles/b7a4bb77.json)
-
-[Extended Data](ext_articles/b7a4bb77.ext.json)
-
----
 
 ### Sri Lanka budget deficit down 55-pct in August amid tax inflows, moderate capex
 
@@ -893,42 +257,6 @@ Subsequently, the Magistrate was produced before the Batticaloa Magistrate's Cou
 
 ---
 
-### Vijay campaign
-
-*2025-09-29 02:30:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-பிரச்சாரத்தில்-கல்வீச்சு-இடம்பெறவில்லை/175-365446) · `ta`
-
-The TVC in Karur. The ADGP said that the stone range did not happen during the Prasha Rath.. David Sun Devasir argued.
-
-Karur Ad C Yar Alu Kath Dil yesterday, Aad C.. During the up, when Ad C Yar M Dang Kavel says,
-
-During the Parabhu in Velu Samipurath. T.W.. Mr. Kam Puliyoor Rain Dana to come from Karur Mawat Dam Dalava Palayam. Chadha Rana Maga can take the place in 30 minutes. The head of the TWE, who came out of the voice for a while, then Sen.. Thus, he said that he was looking for him to see him.. (A)
-
-◼️
-
-[Data](articles/890f530d.json)
-
-[Extended Data](ext_articles/890f530d.ext.json)
-
----
-
-### Vijay goes back to Karur
-
-*2025-09-29 02:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கரூர்-செல்கின்றார்-விஜய்/175-365445) · `ta`
-
-Vijay, who arrived in Trichy yesterday night in the Karur Velu Samipurath, was in Chennai on a separate plane.
-
-The reason for the sudden congestion of the problem is the cause of the sudden congestion, and the help of the follicles of the half -cups, and he is the first part of the party.
-
-In the meantime, the life of the people of the life of the life of the life of the people, the six -year -old, the Karur to go to Karur, the Cut Sith Quality Bill.. (A)
-
-◼️
-
-[Data](articles/1c0e739d.json)
-
-[Extended Data](ext_articles/1c0e739d.ext.json)
-
----
-
 ### Earthquake in China
 
 *2025-09-29 01:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-நில-அதிர்வு/50-365443) · `ta`
@@ -1026,78 +354,6 @@ Then Tilak Verma and Sanju Samson moved to April Ahmad as Samson fell to Samson.
 ---
 
 ### 2025-09-28 (Sunday)
-
-### SLT-MOBITEL accelerates Sri Lanka’s digital future
-
-*2025-09-28 23:56:00* · [`islandlk`](http://island.lk/slt-mobitel-accelerates-sri-lankas-digital-future/) · `en`
-
-Following a significant financial turnaround in the first half of 2025, SLT-MOBITEL haspositioned itself as a key enabler of Sri Lanka’s digital future. The company’s profit after tax rose to LKR 4.28 billion from a previous loss, driven by operational excellence and disciplined management. This success now empowers SLT-MOBITEL to accelerate national digitalization efforts and invest in next-generation technologies.
-
-Central to these efforts is the digitalization of the public sector. SLT-MOBITEL manages the Lanka Government Network (LGN) and the Lanka Government Cloud (LGC), which provide the essential infrastructure for e-governance, seamless inter-agency connectivity, and the delivery of efficient public services. The company is also set to launch Sri Lanka’s 5G network, which aims to transform industries with ultra-low latency and massive connectivity, supporting smart cities, IoT, and other advanced applications.
-
-...
-
-[Data](articles/11163939.json)
-
-[Extended Data](ext_articles/11163939.ext.json)
-
----
-
-### Ramadia Grand fills luxury void as Moratuwa – Panadura’s first four-star hotel
-
-*2025-09-28 23:56:00* · [`islandlk`](http://island.lk/ramadia-grand-fills-luxury-void-as-moratuwa-panaduras-first-four-star-hotel/) · `en`
-
-The Moratuwa–Panadura region has welcomed its first four-star hotel with the opening of Ramadia Grand, a landmark development by the Rodesha Group aimed at filling a longstanding void in high-end hospitality infrastructure.
-
-The 11-story property features 50 luxury rooms, including five suites, and the area’s only rooftop swimming pool. It also houses the largest pillarless banquet hall in the region, accommodating over 1,500 guests, alongside three additional MICE-ready venues.
-
-Chairman Rohan Fernando emphasised the hotel’s role in attracting long-stay foreign travelers and positioning Moratuwa as a premium destination. “This hotel is more than just a luxury property – it’s a catalyst for regional tourism,” he said.
-
-With curated excursions, lagoon-side yacht dining, and over 160 new jobs created, Ramadia Grand has already drawn strong international interest and forward bookings, signaling a new chapter for the region’s tourism potential.
-
-...
-
-[Data](articles/32fe24be.json)
-
-[Extended Data](ext_articles/32fe24be.ext.json)
-
----
-
-### The road to safety: One man’s eight-year fight against mechanical negligence
-
-*2025-09-28 23:56:00* · [`islandlk`](http://island.lk/the-road-to-safety-one-mans-eight-year-fight-against-mechanical-negligence/) · `en`
-
-Calls for political will needed to stop the silent slaughter
-
-In Sri Lanka, the road is deadlier than three decades of civil war. Nine lives are extinguished daily, a tragedy often silently attributed to mechanical failures that a proper vehicle inspection could prevent. For eight years, Tokyo-based entrepreneur Sajeev Rajaputhra has carried the burden of this truth, tirelessly advocating for a modern Roadworthiness Inspection System (MOT).
-
-Rajaputhra, an automobile expert, saw the crisis not just as a national shame but as a personal call to action. His solution was comprehensive: a high-tech Public-Private Partnership (PPP) leveraging Japanese expertise, automated inspection lanes, blockchain, and AI – a system requiring zero government funds, designed to eliminate the alleged corruption that plagues current emissions checks.
-
-...
-
-[Data](articles/d68a3eaf.json)
-
-[Extended Data](ext_articles/d68a3eaf.ext.json)
-
----
-
-### LCB Finance PLC appoints Prof. Roshan Ajward to its board
-
-*2025-09-28 23:55:00* · [`islandlk`](http://island.lk/lcb-finance-plc-appoints-prof-roshan-ajward-to-its-board/) · `en`
-
-LCB Finance PLC announced the appointment of Professor Roshan Ajward to its Board of Directors, effective September 2025.
-
-Professor Ajward is a Professor in Accounting within the Department of Accounting, Faculty of Management Studies and Commerce at the University of Sri Jayewardenepura (USJ). He brings a wealth of academic and professional expertise to the role, currently serving as a Co-Chair of the University’s Research Council and as the Coordinator for the Master of Professional Accounting (MPAcc) Degree Programme.
-
-His distinguished academic career includes a PhD from Japan’s prestigious Waseda University (2012). He also holds a first-class honours degree in Accountancy, for which he received a Gold Medal, and an MBA where he ranked first in the order of merit. Professionally, Professor Ajward is a Fellow Member of both the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) and the Institute of Certified Management Accountants (CMA).
-
-...
-
-[Data](articles/efa8b2ba.json)
-
-[Extended Data](ext_articles/efa8b2ba.ext.json)
-
----
 
 ### Creating eco-friendly schools and environmentally responsible children a key objective - PM
 
@@ -1308,24 +564,6 @@ Later, former Presidents Mahinda Rajapaksa and Ranil Wickremesinghe engaged in a
 [Data](articles/e879eafe.json)
 
 [Extended Data](ext_articles/e879eafe.ext.json)
-
----
-
-### The bill is not a law aimed at teachers and schools on the vicinity of children
-
-*2025-09-28 20:55:22* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-වදහිංසනයට-පැමිණවීම-පිළිබඳව-පනත-ගුරුවරු-හා-පාසල්-ඉලක්ක-කර-සංශෝධනය-වූ-නීතියක්-නොවෙයි/11-418772) · `si`
-
-The punishment bill is not aimed at school or teachers, and the Prime Minister of Education, Dr. Haraini Amarasuriya said.
-
-The Prime Minister made this observation at a program held at the Ministry of Education yesterday (27) to announce the principals of the National Schools.
-
-"This is not just a matter of schools. This is a physical and mental punishment that gives the children.  Not only school, but you know all children in society like the institutional children, agenuals, and children in society. It takes place, or mental.  A number of serious problems have emerges from adults in society or responsible for those responsible.
-
-...
-
-[Data](articles/a2810fe1.json)
-
-[Extended Data](ext_articles/a2810fe1.ext.json)
 
 ---
 
@@ -1653,68 +891,6 @@ The Handisle was to expand the current center of the Handisa to have the rehabil
 
 ---
 
-### Unawatuna’s Sky Breeze Café wins global award
-
-*2025-09-28 18:36:00* · [`islandlk`](http://island.lk/unawatunas-sky-breeze-cafe-wins-global-award/) · `en`
-
-Sky Breeze, a beachside café in Unawatuna, has been honoured with the title “Best All-Day Scenic Dining Café Experience” at the Global Business Excellence Awards 2025.
-
-The London Business Consultancy, which organised the ceremony held in Colombo, presented the award, recognising the café’s unique semi fine dining experience. Sky Breeze offers a refined menu of familiar and coastal-inspired flavours in a relaxed, Balinese-inspired setting with open spaces and tropical design.
-
-Beyond all-day dining, the café is known for its weekly events, including fine dining nights, live music, and a monthly beach market, solidifying its reputation as a key dining destination on the southern coast.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c88c06c5.json)
-
-[Extended Data](ext_articles/c88c06c5.ext.json)
-
----
-
-### IIHS launches new 1+2 pathway with Australia’s Deakin University
-
-*2025-09-28 18:35:00* · [`islandlk`](http://island.lk/iihs-launches-new-12-pathway-with-australias-deakin-university/) · `en`
-
-The International Institute of Health Sciences (IIHS) has launched a new 1+2 academic pathway in partnership with Deakin University, Australia. This initiative provides Sri Lankan students with a streamlined route to an international degree.
-
-Under this pathway, students complete a one-year Diploma of Health Science at IIHS in Sri Lanka before transferring to Deakin University for the final two years of their bachelor’s degree. This model offers a cost-effective start with local academic support and a seamless transition to global education.
-
-The program grants entry into several internationally recognized Deakin degrees: : Bachelor of Exercise and Sport Science, Bachelor of Nutrition Science and Bachelor of Psychological Science A key benefit for students is eligibility for Post-Study Work Rights in Australia, enabling them to gain valuable international work experience.
-
-...
-
-[Data](articles/22bc1cdc.json)
-
-[Extended Data](ext_articles/22bc1cdc.ext.json)
-
----
-
-### National Air Quality Web App launched, powered by Treinetic
-
-*2025-09-28 18:34:00* · [`islandlk`](http://island.lk/national-air-quality-web-app-launched-powered-by-treinetic/) · `en`
-
-Marking a significant milestone in air quality management in Sri Lanka, the official launch of the National Air Quality Web Application was held on 8th September at the auditorium of the Central Environmental Authority (CEA).
-
-The event was graced by the Minister of Environment, Dr. Dammika Patabendige, and the Deputy Minister of Environment, Anton Jayakody. The initiative has been fully funded by the Vehicle Emission Testing Trust Fund, while the application was developed and powered by Treinetic (Pvt) Ltd, one of Sri Lanka’s leading software product engineering companies.
-
-The occasion was attended by key officials including K. R. Uduwawala, Secretary to the Ministry of Environment; W. D. S. C. Weliwatta, Additional Secretary; Prof. Tilak Hewawasam, Chairman of the CEA and other officials.
-
-Ramadia Grand fills luxury void as Moratuwa – Panadura’s first four-star hotel
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/aa048791.json)
-
-[Extended Data](ext_articles/aa048791.ext.json)
-
----
-
 ### President in Japan hints no new taxes will be introduced in 2026 budget
 
 *2025-09-28 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113005/president-in-japan-hints-no-new-taxes-will-be-introduced-in-2026-budget) · `en`
@@ -2022,5 +1198,851 @@ The trend of the media that leads the world to tension is condemned. Who will un
 [Data](articles/f6c58e33.json)
 
 [Extended Data](ext_articles/f6c58e33.ext.json)
+
+---
+
+### It is the responsibility of the Health and Welfare Center to take care of their health even if the public is not aware of their health - the Minister of Health
+
+*2025-09-28 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226343) · `ta`
+
+The ministry is already planning to establish a thousand primary health centers across the country under the advice and guidance of Health and Media Minister Nalinda Jayatissa as the first phase of the current government's health policy to ensure that the people living in this country can be easily obtained.
+
+These primary health centers, which are installed in a place where they are easily accessed, are labeled "Health and Wellness". This is the first beginning of the best change to change the country's health services.
+
+Under the new government's best plan, "Healthy Sri Lanka", is scheduled to establish a hundred primary health centers this year.
+
+The Ath Oya Health and Welfare Center in Ratnapura District, the second health and well -being of the project, was opened to the public on Saturday afternoon under the patronage of Health and Mass Media Minister Nalinda Jayatissa.
+
+...
+
+[Data](articles/5c486afd.json)
+
+[Extended Data](ext_articles/5c486afd.ext.json)
+
+---
+
+### The government should come to discussions with the people before installing windmills in Mannar; People will continue to fight against the government if they fail to come - VS Sivakaran
+
+*2025-09-28 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226341) · `ta`
+
+போராட்டத்தில் ஈடுபட்ட மக்களுடன் பொலிஸார் காட்டுமிராண்டித்தனமாக நடந்து கொண்டுள்ளனர்.ஒரு ஜனநாயக நாட்டில் உரிமை கேட்டு போராடுவது தவறா? போராட்டத்தின் ஊடாக ஆட்சிக்கு வந்தவர்கள்  என்றால் அது ஜே.வி.பி  என மன்னார் மாவட்ட பொது அமைப்புக்களின் ஒன்றிய தலைவர் வி.எஸ்.சிவகரன் தெரிவித்துள்ளார்.
+
+He was speaking at a media briefing held in Mannar on Sunday (28).
+
+In Mannar, there have been a variety of struggles and demands being put forward in Mannar over the past five years, with ministers in Parliament on the 7th of last month and after a meeting with the President on the 13th of last month, after a month's suspension of the President, then discussion with organizations operating in the district.
+
+Subsequently, letters were submitted to the special committees who visited the visiting special committees. The Secretary of the President has written to the Ministry of Power and the Ministry of Power and Electricity on the 22nd of last month.
+
+...
+
+[Data](articles/6fbf33f4.json)
+
+[Extended Data](ext_articles/6fbf33f4.ext.json)
+
+---
+
+### President's visit to the president is disappointing - Tissa Attanayake
+
+*2025-09-28 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226342) · `ta`
+
+President Anura Kumara Dissanayake has been on his US visit as the foreign trips are useless to the country.. United People's Power Organizer Tissa Attanayake said President Anura Kumara Dissanayake had failed to meet the expectation, despite widely expected that the tax concession would be received by US President Donald Trump.
+
+He further stated at a press conference held in Kandy on Sunday (28).
+
+President Anura Kumara Dissanayake has traveled to about 7 - 8 countries so far. He was in the US last week and is currently in Japan.
+
+What is the benefit of the country by his foreign trips along with a visit to Japan? It was widely expected that President Anura, who had traveled to the US, would hold talks with Trump on the tax on Sri Lanka.
+
+No news has been reported that President Anura Kumara Dissanayake met with Trump as the US visit is currently over.
+
+...
+
+[Data](articles/801f9d5b.json)
+
+[Extended Data](ext_articles/801f9d5b.ext.json)
+
+---
+
+### Opposition parties should now be prepared to bring about regime change in the next presidential election - Ravi Karunanayake
+
+*2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226338) · `ta`
+
+Leadership and symbol. Opposition parties must now be prepared to bring about regime change in the next presidential election. Parliamentarian Ravi Karunanayake said that that would be the aspiration of opposition supporters.
+
+He further stated at a press conference held in Colombo yesterday (27).
+
+The aspiration of the people is that everyone to protect democracy should unite. This is not just defined for verses. So everyone must act with dedication to make this practically possible. All parties have to pay attention to how to travel from it.
+
+Leadership and symbol. Opposition parties must now be prepared to bring about regime change in the next presidential election. The United National Party, the United People's Power is not two different parties. These are the same parties. I am also committed to accomplishing it.
+
+...
+
+[Data](articles/8e238077.json)
+
+[Extended Data](ext_articles/8e238077.ext.json)
+
+---
+
+### Jaffna Wickremesinghe Bharat Flow 2025
+
+*2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226340) · `ta`
+
+Fisheries, Aquaticity and Marine Minister E. Chandrasekaran, Governor of the Northern Province, Na Vedanayagan and the Vice -Chancellor of the Northern Province, inaugurated the event at the 'Jaffna Wiksith Bharat Run' held at the Thiruvalluvar Cultural Hall in Jaffna on Sunday (28) at the Thiruvalluvar Cultural Hall in Jaffna.
+
+The Wiktion Bharat Flow, which held simultaneously in more than 150 places in the global scale, celebrates India's progress journey, promotes service, mindset and stability and connect communities around the world around the world.. The event has revealed India's progress and cultural values.
+
+◼️
+
+[Data](articles/92bac253.json)
+
+[Extended Data](ext_articles/92bac253.ext.json)
+
+---
+
+### Ranil, who met Mahinda at the Calton residence, thanked the cooperation.
+
+*2025-09-28 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226339) · `ta`
+
+Former President Ranil Wickremesinghe visits Kalton's residence in Tangalle and meets former President Mahinda Rajapaksa. The meeting took place on Sunday (28).
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கதிர்காமத்தில் இருந்து கொழும்புக்கு செல்லும் வழியில் இந்தச் சந்திப்பு இடம்பெற்றதாக ஐக்கிய தேசிய கட்சியின் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+During the meeting, former President Ranil Wickremesinghe thanked Mahinda Rajapaksa for his contribution during his prison.
+
+In addition, former President Ranil Wickremesinghe has inquired about the health and well -being of Mahinda Rajapaksa, according to a statement issued by the United National Party.
+
+◼️
+
+[Data](articles/dcc851fd.json)
+
+[Extended Data](ext_articles/dcc851fd.ext.json)
+
+---
+
+### Sri Lankan Airlines Records Passenger and Revenue Surge, Restores Grounded Aircraft Back to Service
+
+*2025-09-28 17:13:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/sri-lankan-airlines-records-passenger-and-revenue-surge-restores-grounded-aircraft-back-to-service) · `en`
+
+COLOMBO (News 1st): SriLankan Airlines has reported a 10% increase in passenger revenue during the first five months of the 2025-2026 financial year.The national carrier also recorded a 22% rise in passenger numbers during the same period. Operational efficiency of the national carrier has improved significantly, reaching 74%, up from 69% in the previous financial year.Meanwhile, two aircraft belonging to the SriLankan Airlines that had been grounded for an extended period due to engine issues, have now returned to service. The national carrier confirmed that another aircraft, scheduled for repairs, is expected to return to service early next year.
+
+◼️
+
+[Data](articles/51aa3c2d.json)
+
+[Extended Data](ext_articles/51aa3c2d.ext.json)
+
+---
+
+### China’s former agriculture minister gets suspended death sentence for bribery
+
+*2025-09-28 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113002/chinas-former-agriculture-minister-gets-suspended-death-sentence-for-bribery) · `en`
+
+Tang Renjian, China’s former minister of agriculture and rural affairs, was sentenced to death with reprieve for bribery at a court in Jilin province on Sunday (Sep 28), according to state news agency Xinhua.
+
+Tang took bribes, including cash and property worth over 268 million yuan (US$37.6 million), in various positions held from 2007 to 2024, Xinhua said.
+
+The Changchun Intermediate People’s Court suspended his death sentence for two years, noting he had confessed to his crimes, it added.
+
+China’s Communist Party (CCP) expelled Tang in November 2024, six months after he was placed under investigation by the anti-graft watchdog and removed from his post.
+
+Tang’s investigation was unusually swift and followed similar investigations into former defence minister Li Shangfu and his predecessor Wei Fenghe.
+
+...
+
+[Data](articles/d6d2012e.json)
+
+[Extended Data](ext_articles/d6d2012e.ext.json)
+
+---
+
+### Of the 72 suspects who have been declared red on drug trafficking, 32 are also known - Minister of Public Security
+
+*2025-09-28 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226336) · `ta`
+
+Steps have been taken to arrest those involved in drug trafficking from abroad in Sri Lanka. Public Security Minister Ananda Wijebala said that the 72 of the 72 suspects who have been made of red have been identified.
+
+He was speaking to the media after meeting with the Mahanayaka Thera of the Malwathu and Asgiriya Faculty on Saturday. As he further stated in this regard,
+
+Steps have been taken to arrest those involved in drug trafficking from abroad in Sri Lanka. Of the 72 suspects who have been made of red, 32 are also identified.
+
+Another 20 people have been arrested abroad and placed under interrogation. They will soon be brought to the country and will be brought before the law. About 30 000 vacancies found in the police and special Task Force. The recruitment process has been initiated. In addition, the promotions are given in accordance with the senior conditions of the police officers.
+
+...
+
+[Data](articles/4b033681.json)
+
+[Extended Data](ext_articles/4b033681.ext.json)
+
+---
+
+### The protest against the windmill exploded!
+
+*2025-09-28 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226337) · `ta`
+
+A peaceful protest was launched today (28) at the Vadamarachchi East, condemning the police attack on civilians and fathers involved in the democratic struggle raised by the people against the Mannar windmill project.
+
+State repression is used against those who are involved in the protests in Mannar protesting against the windmill project that can be affected by the Mannar people.
+
+The demonstration was held at the Vadamarachchi East Building in order to support the struggle of the Mannar people, condemning the attack on the people and the fathers of the Arut.
+
+The struggle was launched at 7:30 am today under the leadership of the father
+
+At this time, the protesters did not destroy, do not destroy Mannar, do not destroy Mannar.
+
+Father Vasanthan Adikal, who commented to the media at this time,
+
+We strongly condemn this as the public of the people of Mannar, condemning the oppression of the state apparatus on the island of Mannar.
+
+...
+
+[Data](articles/681699b3.json)
+
+[Extended Data](ext_articles/681699b3.ext.json)
+
+---
+
+### A 2-year-old son of the deceased during Vijay's rally
+
+*2025-09-28 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215104) · `si`
+
+Foreign media reports, a 2-year-old child is a 2-year-old child among the deaths of the death of Indian actor.
+
+The father of the deceased child is referring to the media not to take their children to these crowded festivals.
+
+The child was brought and brought to the meeting, and he had tried to go to the bus and told the media due to his claim to meet the meeting.
+
+She added that Wijeo is not to blame for the death of the child and that it is wrong to take the child to such a place.
+
+However, 39 people were killed and 10 children, 17 women, 17 men.
+
+Another 46 persons were injured in the incident and 21 of them were seriously in hospital.
+
+It is reported that about 30,000 people have been present at least 30,000 people for the rally of Vijay.
+
+However, the Ministry of Home Affairs has requested the Ministry of Tamil Nadu regarding the incident.
+
+Meanwhile, the DIG in charge of Tamil Nadu has said that Vijayage Party had requested permission to hold the rally to Karur Lighthouse Plants.
+
+...
+
+[Data](articles/442b7da1.json)
+
+[Extended Data](ext_articles/442b7da1.ext.json)
+
+---
+
+### The Struggle of Muthu Nagar farmers who continue for the 12th day; Six days left for the Prime Minister's promise
+
+*2025-09-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226335) · `ta`
+
+The Satyagraha struggle continues before the Trincomalee District Secretariat today.
+
+When the Prime Minister met with the Prime Minister in Colombo last week, the Prime Minister has been on the remaining six days, claiming that he will provide a solution for ten days.
+
+During this time, the farmers who spoke to the media today (28), give us our agricultural land that has been hereditary for the past 53 years.
+
+We expect the Prime Minister to provide a good solution for the Indian companies to rehabilitate the production of solar power supplied for solar power.
+
+◼️
+
+[Data](articles/739260b3.json)
+
+[Extended Data](ext_articles/739260b3.ext.json)
+
+---
+
+### The mindset of the people of the people to oppose everything - Governor Na Vedanayaka
+
+*2025-09-28 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226334) · `ta`
+
+Should change the mood of the people who oppose everything. Using the available opportunities and bargaining we need to get what we need. Governor of the Northern Province, NV Vedanayagan, said that the quality of life of our provinces should be increased.
+
+The silver festival of the Jaffna Trade Industrial Forum was held on Saturday (27) at a private hall in Jaffna.
+
+Our Province contributes to 4 percent of Sri Lanka's total national production. Our province has the resource needed to raise it as much as 10 or. We have not fully used our resources.
+
+Our contribution to national production can be greatly increased through two systems - converting and exports to value -added products.
+
+As the speakers who spoke before me mentioned, most people in our province are making paddy production. We are trying to change it. Many of the adopted irrigation projects before the war have been destroyed.
+
+...
+
+[Data](articles/23c21182.json)
+
+[Extended Data](ext_articles/23c21182.ext.json)
+
+---
+
+### We can be responsible for each of our property; We are not rioting because of the shouts of the opposition - the Minister of Health
+
+*2025-09-28 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226332) · `ta`
+
+The property details of ministers in the National People's Power Government are not searched by the opposition parties. They are the ones who have volunteered to. We can be responsible for each of our property. Health Minister Nalinda Jayatissa said, "We are not rioting for the shouts of the opposition parties."
+
+He further stated that he was speaking to the media after attending an event in Galle - Mabalagama area.
+
+Our property details are not searched by opposition parties. All of them are aware of the submission of the Bribery or Corruption Commission. Thus we are put forward and can be responsible for each property in property details. This is why we have submitted it without any hesitation.
+
+If anyone is in doubt about our assets, we are ready to respond to it.. However, this is a challenge for those who illegally collected property. Is the real challenge for those who are shouting about our assets from the opposition?
+
+...
+
+[Data](articles/b7a80a20.json)
+
+[Extended Data](ext_articles/b7a80a20.ext.json)
+
+---
+
+### Kohagoda Garbage: Action has not been taken on environmental impacts - Systems accuses
+
+*2025-09-28 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226331) · `ta`
+
+Environmental organizations say that the Environmental Organization has not yet appealed to the responsible people to take appropriate action on the Kohagoda garbage that is causing environmental damage to some parts of Kadugastota and Kandy.
+
+Although the Kandy Municipal Council has repeatedly reminded those who have been trusted about the Kohagoda garbage dump, the public accuses the public of failing to control the stench and environmental pollution in the Mahaweli Ganga and the Kandy of Kandy.
+
+As a result of this, some companies say that there is a huge problem in the recent investments in the Katugastot and the Mahaweli Ganga.
+
+Investors say that many development projects, such as the housing scheme launched in the area, and the construction of several environmental hotels, have been abandoned due to the stench.
+
+...
+
+[Data](articles/6be2cb77.json)
+
+[Extended Data](ext_articles/6be2cb77.ext.json)
+
+---
+
+### Karawachchiya Court of Justice arrested with pills in a casa
+
+*2025-09-28 16:55:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදවචචය-අධකරණය-ක-ක-සහකවක-මත-පත-සමග-මටට/1-680364) · `si`
+
+Mihintale police said that the suspects were arrested this evening to interrogation with a workers at the Medawachchiya Magistrate's Court.
+
+Mihintale Police say that the woman is a commercial partner in the Medawachchiya Magistrate's Court.
+
+◼️
+
+[Data](articles/f577c49d.json)
+
+[Extended Data](ext_articles/f577c49d.ext.json)
+
+---
+
+### Karawachchiya Court of Justice arrested with pills in a casa
+
+*2025-09-28 16:55:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදවචචය-අධකරණය-ක-ක-සහකවක-මත-පත-සමග-මටට/101-680364) · `si`
+
+Mihintale police said that the suspects were arrested this evening to interrogation with a workers at the Medawachchiya Magistrate's Court.
+
+Mihintale Police say that the woman is a commercial partner in the Medawachchiya Magistrate's Court.
+
+◼️
+
+[Data](articles/f8383a45.json)
+
+[Extended Data](ext_articles/f8383a45.ext.json)
+
+---
+
+### Another 664 arrested under police special operation
+
+*2025-09-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215102) · `si`
+
+At the same day, 664 persons were arrested by the police opening of the criminal and drug prevention of the country.
+
+Seven persons directly involved in criminal incidents have been arrested, police said.
+
+The police media division states that 28,778 persons were inspected at the operation.
+
+Police can also arrest 254 warrants, 163 open warrants.
+
+Meanwhile, 56 persons have been arrested in connection with drunk and unresrtured driving.
+
+◼️
+
+[Data](articles/9c349f7f.json)
+
+[Extended Data](ext_articles/9c349f7f.ext.json)
+
+---
+
+### Minority? Brotherhood? ; Demonstration rally in Kandy
+
+*2025-09-28 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226330) · `ta`
+
+The words minority and majority are being used when identifying various ethnic groups in Sri Lanka on public platforms.
+
+A peaceful rally was held in Kandy on Saturday evening (27), demanding the usefulness of the brothers, fraternity and fraternal language to be used.
+
+The rally was organized by various organizations such as the National Peace Council, Kandy Sarvadam Organization and Kandy Citizens Organization.. 'Tamil, not Muzrim. The brothers and races were on the basis of 'Hindu, Islam, Brotherhood'.
+
+Ranuka Malliyagoda, Secretary of the Law of Justice and Sabaragamuwa University Senate Member Dr. Herath M. Aryaratne and former Member of Parliament Navaratne Banda were present.
+
+◼️
+
+[Data](articles/7d20c3ae.json)
+
+[Extended Data](ext_articles/7d20c3ae.ext.json)
+
+---
+
+### Global politics of the Kurdis
+
+*2025-09-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226321) · `ta`
+
+The Kurdis have close contacts with the United States and Israel in their foreign policy. Ankara's concern is that the Kurdis autonomous administration may create increased security challenges in Turkey's southern region.
+
+◼️
+
+[Data](articles/e73e7db4.json)
+
+[Extended Data](ext_articles/e73e7db4.ext.json)
+
+---
+
+### New tax changes in Sri Lanka - from October 1 - impact on people, business and country financial
+
+*2025-09-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226324) · `ta`
+
+Sri Lanka's tax history will be an important milestone on October 1, 2025. According to the government's decisions, many important changes are in effect in tax mode. Its aim is to reduce the financial burden, expand revenue and strengthen the financial order in accordance with the IMF recommendations.
+
+◼️
+
+[Data](articles/f629242b.json)
+
+[Extended Data](ext_articles/f629242b.ext.json)
+
+---
+
+### People who have been attacked now go to Tangalle
+
+*2025-09-28 16:41:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගහ-ගතත-අය-දන-තගලලට-බලනන-යනව/1-680363) · `si`
+
+President Anura Kumara Dissanayake said in Japan today to visit Tangalle.
+
+The President said this at a Sri Lankan meeting held in Tokyo.
+
+"What if the law builders break the rules, what does the law do not work? We have proven that to join the law to join one room.
+
+I saw you today go to Tangalle. The President now knows that the anti-affair bill is acting properly.
+
+◼️
+
+[Data](articles/3eb23746.json)
+
+[Extended Data](ext_articles/3eb23746.ext.json)
+
+---
+
+### People who have been attacked now go to Tangalle
+
+*2025-09-28 16:41:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගහ-ගතත-අය-දන-තගලලට-බලනන-යනව/101-680363) · `si`
+
+President Anura Kumara Dissanayake said in Japan today to visit Tangalle.
+
+The President said this at a Sri Lankan meeting held in Tokyo.
+
+"What if the law builders break the rules, what does the law do not work? We have proven that to join the law to join one room.
+
+I saw you today go to Tangalle. The President now knows that the anti-affair bill is acting properly.
+
+◼️
+
+[Data](articles/e95f0161.json)
+
+[Extended Data](ext_articles/e95f0161.ext.json)
+
+---
+
+### “Law on corporal punishment not a legal amendment aimed at teachers”: PM Harini
+
+*2025-09-28 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113001/law-on-corporal-punishment-not-a-legal-amendment-aimed-at-teachers-pm-harini) · `en`
+
+The law on corporal punishment is not a legal amendment aimed at schools or teachers, but a reform made for the protection of children throughout society,” said Prime Minister and Minister of Education, Higher Education and Vocational Training, Dr. Harini Amarasuriya.
+
+She made this statement during a program held yesterday (27) at the Ministry of Education with the participation of principals of national schools.
+
+The Prime Minister further emphasized that this issue extends beyond schools and relates to both physical and psychological punishment of children.
+
+...
+
+[Data](articles/5f602786.json)
+
+[Extended Data](ext_articles/5f602786.ext.json)
+
+---
+
+### 2029 The digital identity card is mandatory to a job
+
+*2025-09-28 16:31:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/2029-ය-ක-රකයවකට-ඩජටල-හඳණමපත-අනවරය-කරය/101-680362) · `si`
+
+It is compulsory that the government is issued to the digital identity card issued in the UK since 2029 as a preventive measure of illegal immigration.
+
+The Prime Minister Keerv Starma has stated that it will be difficult to come into the United Digtain by digital identity card and that it will make a number of special benefits to the people by the Digital ID.
+
+However, the Opposition has said that the Digital ID is not preventive to prevent illegal migrants.
+
+As the Prime Minister announced the digital identity card system, a petition filed against it. The petition states that the government should not force anyone to register to the identity card issued by the government. The petition is also the first step in controlling and observing the government.
+
+If a petition is on the country, it must be debated in Parliament. But it does not apply to policy.
+
+◼️
+
+[Data](articles/95c257d9.json)
+
+[Extended Data](ext_articles/95c257d9.ext.json)
+
+---
+
+### 2029 The digital identity card is mandatory to a job
+
+*2025-09-28 16:31:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/2029-ය-ක-රකයවකට-ඩජටල-හඳණමපත-අනවරය-කරය/1-680362) · `si`
+
+It is compulsory that the government is issued to the digital identity card issued in the UK since 2029 as a preventive measure of illegal immigration.
+
+The Prime Minister Keerv Starma has stated that it will be difficult to come into the United Digtain by digital identity card and that it will make a number of special benefits to the people by the Digital ID.
+
+However, the Opposition has said that the Digital ID is not preventive to prevent illegal migrants.
+
+As the Prime Minister announced the digital identity card system, a petition filed against it. The petition states that the government should not force anyone to register to the identity card issued by the government. The petition is also the first step in controlling and observing the government.
+
+If a petition is on the country, it must be debated in Parliament. But it does not apply to policy.
+
+◼️
+
+[Data](articles/b6d08fe5.json)
+
+[Extended Data](ext_articles/b6d08fe5.ext.json)
+
+---
+
+### World's tallest bridge
+
+*2025-09-28 16:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලව-උසම-පලම/1-680361) · `si`
+
+China Huwajang Grand Canon Bridge opened the world's tallest bridge. The Huwajiang Bridge has built two large mountains for three years is the world's long bridge.
+
+The bridge, which was built in Gu. Gwejo, has built up 625 meters above the flow of the bridge.
+
+Earlier, the world's tallest bridge was won by another bridge in Guva. The record was 565 meters in the forest of the report.
+
+The official opening of the media Huwagang Grand Granid Bridge showed a lonely opening of the bridge, and the way vehicles traveling through the massive structure is partially closed down by clouds.. With the opening of the Huwachi Grand Canan Bridge, the Head of the Provincial Transport Department Shang stated that traffic between the two territory had decreased within two and two minutes.
+
+◼️
+
+[Data](articles/61461294.json)
+
+[Extended Data](ext_articles/61461294.ext.json)
+
+---
+
+### World's tallest bridge
+
+*2025-09-28 16:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලව-උසම-පලම/101-680361) · `si`
+
+China Huwajang Grand Canon Bridge opened the world's tallest bridge. The Huwajiang Bridge has built two large mountains for three years is the world's long bridge.
+
+The bridge, which was built in Gu. Gwejo, has built up 625 meters above the flow of the bridge.
+
+Earlier, the world's tallest bridge was won by another bridge in Guva. The record was 565 meters in the forest of the report.
+
+The official opening of the media Huwagang Grand Granid Bridge showed a lonely opening of the bridge, and the way vehicles traveling through the massive structure is partially closed down by clouds.. With the opening of the Huwachi Grand Canan Bridge, the Head of the Provincial Transport Department Shang stated that traffic between the two territory had decreased within two and two minutes.
+
+◼️
+
+[Data](articles/fc18777d.json)
+
+[Extended Data](ext_articles/fc18777d.ext.json)
+
+---
+
+### The next budget does not pay new taxes
+
+*2025-09-28 16:23:22* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලබන-අයවයන-අලත-බද-ගහනන-න/101-680360) · `si`
+
+President Anura Kumara Dissanayake said in Japan today (28), he said this year's budget is trying to be introduced.
+
+The proceedings of the proceed will also be taken to reduce the percentage of taxes.
+
+President Anura Dissanayake said this at a meeting held in Tokyo with the Sri Lankan community living in Japan.
+
+Some say that some say that the tax burden will be increased.
+
+The President said that the government had to earn income as the economy was small, he said.. The President has also charged the payment of 18 percent of the increase in the economy of all citizens.
+
+President Anura Kumara Dissanayake said that the past budget documents have always taken place in repetition of new tax proposals.
+
+◼️
+
+[Data](articles/181d7d10.json)
+
+[Extended Data](ext_articles/181d7d10.ext.json)
+
+---
+
+### The next budget does not pay new taxes
+
+*2025-09-28 16:23:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලබන-අයවයන-අලත-බද-ගහනන-න/1-680360) · `si`
+
+President Anura Kumara Dissanayake said in Japan today (28), he said this year's budget is trying to be introduced.
+
+The proceedings of the proceed will also be taken to reduce the percentage of taxes.
+
+President Anura Dissanayake said this at a meeting held in Tokyo with the Sri Lankan community living in Japan.
+
+Some say that some say that the tax burden will be increased.
+
+The President said that the government had to earn income as the economy was small, he said.. The President has also charged the payment of 18 percent of the increase in the economy of all citizens.
+
+President Anura Kumara Dissanayake said that the past budget documents have always taken place in repetition of new tax proposals.
+
+◼️
+
+[Data](articles/3244d1ce.json)
+
+[Extended Data](ext_articles/3244d1ce.ext.json)
+
+---
+
+### Bokeko of the Kantore 457 to Messian
+
+*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කනතර-457-ක-ලකක-මතසබයට/101-680359) · `si`
+
+Parliamentary Select Committee on Public Business (COPE) (COPE) has been summoned to parliament on the 2nd government.
+
+This is the first time that the heads of the institute is summoned before a committee of Parliament.
+
+Chairman of the COPE committee, Dr. Nishantha Samaraweera told Lankadeepa to hear the functions of the COPE Committee and its work.
+
+The basic information on the audits and functions of the institutions are obtained.
+
+The Chairman and CEO of each institution will participate in this discussion.
+
+◼️
+
+[Data](articles/c218dff5.json)
+
+[Extended Data](ext_articles/c218dff5.ext.json)
+
+---
+
+### Bokeko of the Kantore 457 to Messian
+
+*2025-09-28 16:15:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කනතර-457-ක-ලකක-මතසබයට/1-680359) · `si`
+
+Parliamentary Select Committee on Public Business (COPE) (COPE) has been summoned to parliament on the 2nd government.
+
+This is the first time that the heads of the institute is summoned before a committee of Parliament.
+
+Chairman of the COPE committee, Dr. Nishantha Samaraweera told Lankadeepa to hear the functions of the COPE Committee and its work.
+
+The basic information on the audits and functions of the institutions are obtained.
+
+The Chairman and CEO of each institution will participate in this discussion.
+
+◼️
+
+[Data](articles/f0897213.json)
+
+[Extended Data](ext_articles/f0897213.ext.json)
+
+---
+
+### Karu Jayasuriya; Leadership beyond the post
+
+*2025-09-28 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226333) · `ta`
+
+Karu Jayasuriya enters his 85th August 2025 September 25. This is not only to honor his long life, but to think deeply about a life that has diligently protected ambitions and institutions.
+
+◼️
+
+[Data](articles/5a33d195.json)
+
+[Extended Data](ext_articles/5a33d195.ext.json)
+
+---
+
+### Social illness between striking and monkeys in Polonnaruwa
+
+*2025-09-28 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215101) · `si`
+
+It has been reported that a social illnesses are spreading between prices and monkeys in Polonnaruwa and Giritale.
+
+The sacred area is at risk of spreading the disease and the wildly nationals asking the people as they are at a risk of the disease.
+
+It is said that even though the disease is in danger of breeding, people have no awareness.
+
+The excessive problem of prick and monkey population is still unresolved problem, which has been a long-standing problem in Polonnaruwa and Giritale.
+
+However, the infection of these infections and the strikes are being carried out these days.
+
+◼️
+
+[Data](articles/42f5eed2.json)
+
+[Extended Data](ext_articles/42f5eed2.ext.json)
+
+---
+
+### The current economic reality of the country
+
+*2025-09-28 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226326) · `ta`
+
+'There are no changes in the percentage of poverty, malnutrition and debts at the social level despite the fact that GDP is expressed as growth'
+
+◼️
+
+[Data](articles/dc5f7ad9.json)
+
+[Extended Data](ext_articles/dc5f7ad9.ext.json)
+
+---
+
+### Call for public disabled in Mannar
+
+*2025-09-28 15:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-பொது-முடக்கத்திற்கு-அழைப்பு/175-365417) · `ta`
+
+The Mannar Citizens Committee Chairman Aruttantha S. Mugas Adikallar has called for all parties to cooperate in the Mannar public paralysis struggle on Monday (29) in protest against the windmill project in Mannar and the police attack on the people.
+
+He was speaking at a media briefing held in Mannar on Sunday (28) for the 57th day.
+
+We invite the public on Monday (29) throughout the Mannar district.
+
+We appeal to our struggle to reinforce our struggle to stop all the public transport, close the trade centers and reach the district.
+
+Those who duty in NGOs must cooperate on Monday (29) duties. The rally will be held from 10 am on Monday (29) at the Mannar Public Playground. The rally will reach the Mannar Bazaar area.
+
+The struggle will be carried out till 1.30 pm.
+
+Therefore, in the struggle for our rights to be carried out in the district, we will take up the fishermen, traders, public transport services, including all parties, including all sides.
+
+◼️
+
+[Data](articles/c507ceee.json)
+
+[Extended Data](ext_articles/c507ceee.ext.json)
+
+---
+
+### Infectious disease spreading among monkeys in Polonnaruwa raises public health concerns
+
+*2025-09-28 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113000/infectious-disease-spreading-among-monkeys-in-polonnaruwa-raises-public-health-concerns) · `en`
+
+A suspected infectious disease is reportedly spreading among monkey and toque macaque populations in Polonnaruwa and Giritale, prompting concern among wildlife officials and local communities.
+
+Officials warn there is a heightened risk of transmission to humans in areas surrounding the sacred city, where large groups of monkeys and toque macaques roam freely.
+
+Therefore, wildlife authorities have urged the general public to be vigilant and take necessary precautions.
+
+While the disease is believed to be potentially zoonotic—capable of being transmitted from animals to humans—public awareness about the threat remains low, increasing the potential for undetected spread, officials have stated.
+
+The overpopulation of monkeys and toque macaques has long been a persistent and unresolved issue in both Polonnaruwa and Giritale, exacerbating the current situation.
+
+...
+
+[Data](articles/d7f037f3.json)
+
+[Extended Data](ext_articles/d7f037f3.ext.json)
+
+---
+
+### 12 Indian fishermen arrested
+
+*2025-09-28 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215100) · `si`
+
+The Sri Lanka Navy, the Department of Coast Guard today (28), has been taken into custody by the Navy with a Indian fishermen with Indian fishing vessel in the local floor.
+
+The Department of Navy and the Coast Guard are conducting constant operations to protect the livelihood of foreign fishing boundaries.
+
+The Indian fishing vessel and its fishermen taken into custody by the Navy were taken to the Jaffna Milokentani Fisheries Office for future legal action.
+
+◼️
+
+[Data](articles/acb76aa5.json)
+
+[Extended Data](ext_articles/acb76aa5.ext.json)
+
+---
+
+### The woman caught in the powder meni
+
+*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கே-சிக்கிய-பெண்/76-365416) · `ta`
+
+A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby carge and has been admitted to Dik Oya Basic Hospital.
+
+The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near the Hatton railway station.
+
+Cargage staff said the train was slowly traveling and the woman was close to the railway line for a long time.
+
+◼️
+
+[Data](articles/3c48430d.json)
+
+[Extended Data](ext_articles/3c48430d.ext.json)
+
+---
+
+### The woman caught in the powder menike
+
+*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொடி-மெனிக்கேயில்-சிக்கிய-பெண்/76-365416) · `ta`
+
+A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby carge and has been admitted to Dik Oya Basic Hospital.
+
+The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near Hatton Railway Station.
+
+Cargage staff said the train was slowly traveling and the woman had been close to the railway line for a long time.
+
+◼️
+
+[Data](articles/ccc9af4e.json)
+
+[Extended Data](ext_articles/ccc9af4e.ext.json)
+
+---
+
+### The woman caught inside the train engine
+
+*2025-09-28 15:44:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-இயந்திரத்திற்குள்-சிக்கிய-பெண்/76-365416) · `ta`
+
+A woman who was traveling in a train from Badulla to Colombo Fort has been rescued by workers at a nearby garage as she was trapped inside its machine and has been admitted to Dik Oya Basic Hospital.
+
+The accident occurred near the railway crossing on the Hatton -Nuwara Eliya main road near Hatton Railway Station.
+
+Garage employees said the train had traveled slowly and the woman had been close to the railway line for a long time.
+
+◼️
+
+[Data](articles/f54c56d5.json)
+
+[Extended Data](ext_articles/f54c56d5.ext.json)
+
+---
+
+### 664 Arrested in Island-Wide Crime Crackdown
+
+*2025-09-28 15:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/664-arrested-in-island-wide-crime-crackdown) · `en`
+
+COLOMBO (News 1st): Another 664 suspects were arrested yesterday as part of the ongoing island-wide crime and drug prevention operation.Police said that under the operation, a total of 28,778 people were tested yesterday. Among those arrested were seven individuals directly linked to crimes, 254 people with day warrants, and 163 with open warrants. Police added that 42 drunk drivers and 14 reckless drivers were also taken into custody yesterday.In total, 3,895 people were arrested for other traffic related offenses.The operation is being conducted nationwide under the directives of the Inspector General of Police.
+
+◼️
+
+[Data](articles/1d88c2c1.json)
+
+[Extended Data](ext_articles/1d88c2c1.ext.json)
+
+---
+
+### 12 Indian Fishermen Arrested in Delft Sea
+
+*2025-09-28 15:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/12-indian-fishermen-arrested-in-delft-sea) · `en`
+
+COLOMBO (News 1st) -  12 Indian fishermen were arrested by the Sri Lanka Navy off the coast of the Delft Sea in Jaffna.The Indian fishermen were taken into custody along with their vessel while they were engaging in fishing activities violating Sri Lanka’s maritime boundaries. The arrested fishermen are scheduled to be handed over to the Directorate of Fisheries in Kankesanthurai.
+
+◼️
+
+[Data](articles/403706a5.json)
+
+[Extended Data](ext_articles/403706a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 20:38:41**
+As of **2025-09-29 21:07:44**
 
 ## Newspaper Stats
 
-*Scraped **79,602** Articles*
+*Scraped **79,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,133 +17,187 @@ dailymirrorlk | 4,733
 economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,666
+adalk | 7,667
 adaderanalk | 10,271
 tamilmirrorlk | 11,915
 virakesarilk | 12,986
-adaderanasinhalalk | 13,782
+adaderanasinhalalk | 13,783
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,594 (100.0%) of 79,602 articles have been extended.
+79,602 (100.0%) of 79,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### ජනපති ජපානයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයන් සමඟ සාකච්ඡාවක
+### රන්දෙණිගල බස් අනතුරක් - 12ක් රෝහලට
 
-*2025-09-29 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215150) · `si`
+*2025-09-29 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215151) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරතව සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (29) පෙරවරුවේ ජපාන විදේශ වෙළෙඳ සංවිධාන (JETRO) මූලස්ථානයේදී ජපානයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සමඟ වට මේස සාකච්ඡාවකට එක් විය.
+රන්දෙණිගල 36 වන සහ 37 වන කණුව අතර ඇගලුම් කර්මාන්ත ශාලාවකට අයත් පෞද්ගලික බස් රථයක් අනතුරට ලක්ව තිබේ.
 
-ජපාන විදේශ වෙළෙඳ සංවිධානයේ (JETRO)  සභාපති  සහ ප්‍රධාන විධායක නිලධාරී ඉෂිගුරො නොරිහිකො (ISHIGURO Norihiko) මහතාගේ සහභාගීත්වයෙන් පැවති මෙම සාකච්ඡාව සඳහා ජපන් ශ්‍රී ලංකා ව්‍යාපාරික සහයෝගිතා කමිටුවේ (JSLBCC) සභාපති සහ ITOCHU සමාගමේ සභාපති  ෆුමිහිකො කොබයාෂි (Fumihiko Kabayashi) මහතා ඇතුළු පිරිසක් එක්ව සිටියහ.
+අද (29) රාත්‍රීයේ බස් රථයේ හදිසියේ ඇති වූ කාර්මික දෝෂයක් සමග මෙම අනතුර සිදුව ඇත.
 
-ශ්‍රී ලංකාවේ පවතින නව ආයෝජන අවස්ථා පිළිබඳ මෙහිදී පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා රට තුළ ආයෝජන හිතකර පරිසරයක් ගොඩනඟමින් වංචා සහ දූෂණය පිටුදැකීමට වත්මන් රජය  ගෙන ඇති පියවරද පැහැදිලි කළේය.
+බස් රථය මාර්ගයේ තිබු ගල් වැටියක ගැටී අනතුරට ලක්ව ඇති අතර, බසයෙ හි සිටි පුද්ගලයින් 12 දෙනෙකු තුවාල ලබා කැන්දකැටිය රෝහලට ඇතුළත් කර තිබේ.
 
-ශ්‍රී ලංකාවේ ප්‍රධාන ආර්ථික හවුල්කරුවකු ලෙස ශ්‍රී ලංකාව සහ ජපානය අතර වෙළෙඳ සහයෝගීතාව තවදුරටත් ඉහළ නංවා ගැනීමේ අවශ්‍යතාව සහ එමගින් අන්‍යෝන්‍ය වශයෙන් හිමිවන ප්‍රතිලාභ පිළිබඳවද ජනාධිපතිවරයා මෙහිදී වැඩිදුරටත් පෙන්වා දුන්නේය.
+◼️
 
-...
-
-[Data](articles/8a2f0fb4.json)
+[Data](articles/0ea1d5e9.json)
 
 ---
 
-### பல்கலைக்கழக ஆசிரியர் சங்க கூட்டமைப்பின் அதிரடி தீர்மானம்
+### President discusses leading businessmen in Japan
+
+*2025-09-29 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215150) · `si`
+
+President Anura Kumara Dissanayake is on an official visit to the Japanese government in the Japanese Foreign Trade Organization (29) at the Japan's leading businessmen.
+
+The discussion was held at the Japanese Sri Lanka Business Co-operation Committee (JSLBC), Chairman of the Japanese Foreign Trade and CEO of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President Fumiko Kabayashi.
+
+President Anura Kumara Dissanayake, pointed out in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
+
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/8a2f0fb4.json)
+
+[Extended Data](ext_articles/8a2f0fb4.ext.json)
+
+---
+
+### Action Resolution of the University Teachers Union Federation
 
 *2025-09-29 20:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஆசிரியர்-சங்க-கூட்டமைப்பின்-அதிரடி-தீர்மானம்/175-365496) · `ta`
 
-பல்கலைக்கழக ஆசிரியர் சங்கங்களின் கூட்டமைப்பு, அடையாளப் பணிப்புறக்கணிப்பில் ஈடுபடத் தீர்மானித்துள்ளதாக சங்கத்தின் செயலாளர், சிரேஷ்ட விரிவுரையாளர் சாருதத்த இளங்கசிங்க தெரிவித்தார்.
+The Secretary of the Association, Senior Lecturer Sarutta Ilangasinghe said that the Federation of University Teachers' Associations has decided to engage in the Identity Task Force.
 
-பல்கலைக்கழக கட்டமைப்பில் உள்ள குறைபாடுகளை நிவர்த்தி செய்ய அரசாங்கம் நடவடிக்கை எடுக்கத் தவறியுள்ளதாகத் தெரிவித்து, நாளை அடையாளப் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக அவர் கூறியுள்ளார்.
+He said the government had failed to take steps to address the shortcomings in the university structure and that he would engage in the Identification Task Force tomorrow.
 
-எனினும், அரச பல்கலைக்கழகங்களில் உள்ள நெருக்கடிகளுக்கு இதுவரையில் தீர்வு காணப்படவில்லை எனக் கூறிய அவர், தற்போது அரச கல்வி வீழ்ச்சியடைந்து கடுமையான நெருக்கடியை எதிர்நோக்கியுள்ளதாகக் குறிப்பிட்டார்.
+However, he said that the crises in state universities have not yet been resolved, and that the state education is now falling and facing a severe crisis.
 
-பேராதனை பல்கலைக்கழகத்திலிருந்து கடந்த ஆண்டில் மாத்திரம் சுமார் 200 பேராசிரியர்கள் வெளியேறியுள்ளதாகவும் பல்கலைக்கழக ஆசிரியர் சங்கங்களின் கூட்டமைப்பின் செயலாளர், சிரேஷ்ட விரிவுரையாளர் சாருதத்த இளங்கசிங்க குறிப்பிட்டுள்ளார். R
+Senior Lecturer, Senior Lecturer, Senior Lecturer, Senior Lecturer, said that about 200 professors had left the University of Peradeniya last year alone. Remble
 
 ◼️
 
 [Data](articles/bd1f1c59.json)
 
+[Extended Data](ext_articles/bd1f1c59.ext.json)
+
 ---
 
-### ජනපති - ජපාන මුදල් ඇමති සාකච්ඡා
+### President - Japanese Finance Minister
 
 *2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/101-680435) · `si`
 
 ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
 
-මෙහිදී දෙරට අතර වෙළෙඳ, ආයෝජන සහ ආර්ථික සහයෝගිතාව ඉහළ නංවා ගැනීම පිළිබඳ මෙන්ම, ජපන් ආධාර /JICA සහයෝගීතාව යටතේ දැනට ක්‍රියාත්මක සහ ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව ව්‍යාපෘති පිළිබඳ විශේෂ අවධානය යොමු කෙරිණි.
+The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
 
-මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ  ජනාධිපති ප්‍රධාන උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ආර්ථික කටයුතු පිළිබඳ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක දුමින්ද හුලංගමුව, ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් සහභාගී වූහ.
+Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
 
 ◼️
 
 [Data](articles/9e602189.json)
 
+[Extended Data](ext_articles/9e602189.ext.json)
+
 ---
 
-### මන්නාරමේ දැවැත්ත විරෝධතාවයක්
+### Massive protest in Mannar
 
 *2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
 
-මන්නාරම දූපත ආශ්‍රිත යෝජිත සුළං විදුලි බලාගාර ඉදිකිරීම නවත්වන්නැයි ඉල්ලා එහි ජනතාව ආරම්භ කළ විරෝධතාවයේ 58 වැනි දිනය අදයි.
+Today is the 58 protests that the people started to stop the construction of the proposals to be stopped at the Mannar Island.
 
-මන්නාරම දූපත ආශ්‍රිත යෝජිත සුළං විදුලි බලාගාර ඉදිකිරීම නවත්වන ලෙසට හා එම දූපත අවට සීමාවේ ඛනිජ වැලි කැණීම නවත්වන්නැයි ඉල්ලා එහි ජනතාව මාස දෙකකට ආසන්න කාලයක් පුරා අඛණ්ඩ විරෝධතාවයේ නිරත වෙයි.
+The people of the Mannar Island is to stop the construction of the LTTE and the excavation of mineral sand of the island for nearly two months.
 
-මෙම ඉදිකිරීම් හා කැණීම් නිසා පාරිසරික ගැටලු රැසකට තමන්ට මුහුණ දීමට සිදුවන බව ඔවුන් පවසයි.
+They say they have to face many environmental problems due to these construction and excavations.
 
 අඛණ්ඩ විරෝධතාවට දින 58ක් පිරෙන අද එම ජනතාව සහ වෙළෙඳ ප්‍රජාව ප්‍රදේශයේ වෙළෙඳසැල් සියල්ල වසා දමා හර්තාල් ව්‍යාපාරයක් ආරම්භ කර තිබුණි.
 
-සියලු පොදු ප්‍රවාහන සේවා ද අද නවත්වා තිබූ අතර දැවැන්ත විරෝධතාවක් අද ආරම්භ කෙරුණේ මන්නාරම පොදු ක්‍රීඩා පිටියෙන්ය.
+All public transport services were also stationed today and a massive protest was commenced with the Mannar Public Playground.
 
-විරෝධතාවට සහාය දක්වා තවත් ප්‍රදේශවලින් ජනතාව අද මන්නාරමට පැමිණි බවයි අප වාර්තාකරුවන් පැවසීය.
+Our correspondents said that the people were taken to Mannar today.
 
-විරෝධතාකරුවන් පා ගමනින් මන්නාරම දිස්ත්‍රික් ලේකම් කාර්යාලය වෙත ගමන් කර සිය විරෝධය  පළක‍ළේය.
+The protesters went to the Mannar District Secretariat and protest against the Mannar District Secretariat.
+
+Police officers were summoned to control the protesters and continued to continue in the protest due to the protests, regardless of the police orders.
 
 ...
 
 [Data](articles/0d41da76.json)
 
+[Extended Data](ext_articles/0d41da76.ext.json)
+
 ---
 
-### ට්‍රම්ප්ගෙන් සිනමාවට සියයට සීයයක බද්දක්
+### A tax of a per cent to cinema from Trump
 
 *2025-09-29 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215148) · `si`
 
-එක්සත් ජනපදයෙන් පිටත නිෂ්පාදනය කළ සියලුම චිත්‍රපට සඳහා 100% ක තීරු බද්දක් පනවන බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා ඇත.
+US President Donald Trump has said that a 100% column for all films produced outside the US.
 
-මෙම තීරුබදු පැනවිය සිදුකරන්නේ කවදා ද හෝ කෙසේද යන්න නිශ්චිතව දක්වා නොමැති බව විදෙස් මාධ්‍ය පවසයි.
+Foreign media states said that these duty was imposed, and how to impose.
 
-ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් මෙම තීරුබදු පැනවිය සිදුකළහොත් එය සේවාවක් සඳහා තීරුබදු පැනවූ පළමු අවස්ථාව වනු ඇති බව විදසේ මාධ්‍ය වැඩිදුරටත් පවසා තිබේ.
+According to technology media, if the duties are imposed by President Donald Trump, it will be the first time that the duties imposed a service.
 
 ◼️
 
 [Data](articles/6aca1304.json)
 
+[Extended Data](ext_articles/6aca1304.ext.json)
+
 ---
 
-### කෝප් කමිටුවෙන් විදුලියට රතු එළියක්
+### Red light to electricity from COPE committee
 
 *2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-කමටවන-වදලයට-රත-එළයක/101-680434) · `si`
 
-ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ කොටස් බෙදී ඇති ආකාරය අපැහැදිලි බැවින්  ආයතනය ප්‍රතිව්‍යුහගතකරණය කිරීමේදී ඉදිරියේදී බරපතළ  ගැටලු ඇතිවිය හැකි බව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව ( කොප් කමිටුව)  එහි  නිලධාරීන්ට පෙන්වාදී ඇත.
+The Parliament Select Committee of the Commonwealth Parliament (Coop Committee) has shown that the company's restructuring can cause serious problems in the future.
 
-එල්ටීඑල් සමාගමේ කොටස් බෙදී ඇති ආකාරය ඇපැහැදිලි බවත්  ආයතනයන් ප්‍රතිව්‍යුහගත කිරීමේදී මේ තත්වය ගැටළුවක් විය හැකි බවත් කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා පැවැසුවේය
+Chairman of the COPE committee, Dr. Nishantha Samaraweera, Chairman of the COPE
 
 එල්ටීඑල් සමාගමේ කොටස් වෙස්ට් කොස්ට් ආයතනය සහ  ඊසොට්  සමාගම යන ආයතන වලට බෙදී  ඇති  අාකාරය සහ ඒවායේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ගැටලු පවතින බවද ඔහු සඳහන් කළේය.
 
-මෙහිදී කාරක සභාවේ මන්ත්‍රීවරුන්ද පෙන්වා දුන්නේ කොටස් බෙදීම මෙන්ම එහි  ක්‍රියාකාරීත්වය ඉතාම අපැහැදිලි බවයි.
+The committee members of the committee also pointed out that the division of partition as well as its functionality is very obscure.
 
-මේ නිසා මේ තත්වය පැහැදිලි කර ගැනීමට නීති  අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් ඉක්මනින්ම කටයුතු කළ යුතු බව  කාරක සභාව නිර්දේශ කළේය.
+As a result, the Lecturer and officials should act quickly to explain this situation.
 
-මේ අනුව එල්.ටී.එල් සමාගම ලබන මස 24 වැනිදා කෝප් කමිටුව හමුවට කැඳවීමටද තීරණය කෙරිණි.
+The LTTE also decided to summon the COPE meeting on 24th of this month.
 
 ◼️
 
 [Data](articles/0703a720.json)
+
+[Extended Data](ext_articles/0703a720.ext.json)
+
+---
+
+### එක්කෝ චාමර ගන්නවා නැත්නම් මම ගන්නවා
+
+*2025-09-29 18:52:44* · [`adalk`](https://www.ada.lk/breaking_news/එක්කෝ-චාමර-ගන්නවා-නැත්නම්-මම-ගන්නවා/11-418795) · `si`
+
+ආණ්ඩුව එක් වරකදී මන්ත්‍රී චාමර සම්පත් දසනායක අත්අඩංගුවට ගන්නා බවත් එසේ නොමැතිනම් තමන්ව අත්අඩංගුවට
+
+ගන්නා බවත් පාර්ලිමේන්තු මන්ත්‍රී අර්චුනා පැවැසීය. අධිකරණයේදී ඇප ලබාගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+
+"නාමල් හොරු, ඔක්කොම හොරු  හොරු කියප එක මමත් විශ්වාස කළා.රටේ ජනතාවත් විශ්වාස කළා. අන්තිමට බලනකොට පච ඔක්කොම එළිදරව් වෙනවා. මට අම්මා තාත්තා නෑ. මේ ඇවිත් ඉන්නේ මගේ සහෝදර සහෝදරියෝ. නාමල්ට ඒගරුත්වය කොහොමත් තියෙනවා. නාමල් හොරකම් කළා කියලා කියනවනම් නඩුවක් දාන්න.
+
+කවුරුත් දන්නවා කවුද පිස්සෝ, කවුද කොස්සෝ, කවුද ඩොක්ටර් කියලා හැමෝම දන්නවා.  කොස්සොන්ට මහින්ද රාජපක්ෂට
+
+අත දාන්න බැරි නිසා අපි වගේ හාල්මැස්සෝ ටිකට අත දානවා. එක්කෝ චාමර සම්පත් දසනායක අත්අඩංගුවට ගන්නවා. නැත්නම්
+
+දෙකෙන් එකක්. අපි දෙන්නා නැත්නම් ඒ අයට දේශපාලනයක් නෑ. කොච්චර මිනිස්සු කහ ඉරේ වාහන නවත්නවද? අත්අඩංගුවට අරන් අධිකරණයට දානවද?"
+
+◼️
+
+[Data](articles/6228b8a4.json)
 
 ---
 
@@ -165,21 +219,25 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 
 ---
 
-### ලංකා - ජපන් නායකයෝ ඒකාබද්ධ මාධ්‍ය හමුවක
+### Lanka-Japan leaders in joint press conference
 
 *2025-09-29 18:34:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ජපන-නයකය-ඒකබදධ-මධය-හමවක/101-680433) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී අද (29) පෙරවරුවේ පැවැත්විණි.
+President Anura Kumara Dissanayake was held at the Prime Minister's Office premises this morning at the Prime Minister's Office premises on an invitation of the Japanese government.
 
-ජපාන අග්‍රාමාත්‍ය කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයා ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබූ අතර, ජනාධිපතිවරයා වෙනුවෙන් ජපාන ස්වයං ආරක්ෂක බලකායේ උත්තමාචාරද පිළිගැන්විණි. එම පෙළපාළිය නිරීක්ෂණය සඳහාද ජනාධිපතිවරයා එක් විය.
+The President was admitted to the Japanese Prime Minister's Office and was welcomed by Japanese Shigru Ishiba (SHIGERU ISHIBA).. The President was also observed.
 
 දෙරටේ නියෝජිත පිරිස හඳුන්වා දීමෙන් අනතුරුව, ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා අතර නිල සාකච්ඡා ආරම්භ කෙරිණි.
 
-ජපානය සහ ශ්‍රී ලංකාව අතර පවතීන දීර්ඝකාලීන සමීප මිත්‍රත්වය තවදුරටත් ශක්තිමත් කර ගනිමින්, දෙරට අතර වෙළෙඳ, ආයෝජන, ආර්ථික, සංවර්ධන ආධාර සහ කලාපීය ආරක්ෂාව ආදී කරුණු ආවරණය කෙරෙන පරිදි විවිධ ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් පුළුල් කර ගැනීම පිළිබඳව එහිදී අවධානය යොමු කෙරිණි.
+The two countries focused on further expansion of cooperation of trade between trade, investment, economic, development aid and regional security between Japan and Sri Lanka.
+
+Signing of exchange leaves on the productivity of the dairy sector productivity of the Dairy Productive Increase in the Protectivity in the Dairy SECORE (DAIRITIVE CECOR) and official Security Assistance Providing Officer.
 
 ...
 
 [Data](articles/7a0da65a.json)
+
+[Extended Data](ext_articles/7a0da65a.ext.json)
 
 ---
 
@@ -469,21 +527,23 @@ The President has also evaluated the continuous contribution and support from th
 
 ---
 
-### ජනපති-ජපන් අගමැති හමු වෙයි
+### President and Japan meet
 
 *2025-09-29 17:26:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-අගමත-හම-වය/101-680427) · `si`
 
-ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) සහ ජනාධිපති අනුර කුමාර දිසානායක මහත්වරුන් අතර හමුව ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී අද (29) සිදු විය.
+Japanese Prime Minister Shigru Ishiba and President Anura Kumara Dissanayake held this meeting today (29) at the Prime Minister's Office.
 
-මෙහිදී පැවති සාකච්ඡාවලදී ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දීර්ඝකාලීන සමීප සබඳතා තවදුරටත් ශක්තිමත් කර ගනිමින් දෙරට අතර වෙළෙඳ, ආයෝජන, ආර්ථික, සංවර්ධන ආධාර සහ කලාපීය ආරක්ෂාව ඇතුළු ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් පුළුල් කර ගැනීම පිළිබඳව අවධානය යොමු කර තිබේ.
+The two countries focus on further expansion of trade between trade, investment, economic, development assistance and regional safety, strengthening the long-term intimacy between Japan and Sri Lanka.
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය විසින් දක්වන ලද සහාය වෙනුවෙන් මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයට කෘතවේදීත්වයද පළ කර ඇත.
+President Anura Kumara Dissanayake has expressed grateful to Japan for the assistance of Japan in the restructuring process.
 
-එමෙන්ම, මෙරට සංවර්ධන ක්‍රියාවලියේදී සමීප මිතුරකු සහ ණය ආධාර මෙන්ම ප්‍රදාන සපයන්නකු වශයෙන් බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ සංවර්ධන ව්‍යාපෘතිය ඇතුළු ව්‍යාපෘති රැසක් සඳහා ජපාන රජයෙන් ලැබෙන අඛණ්ඩ දායකත්වය සහ සහයෝගයද ජනාධිපතිවරයා එහිදී ඇගැයීමට ලක් කර ඇත.
+The President has also evaluated the continuous contribution and support from the Government of Japan as a close friend and a grant supplier in the country's development process.
 
 ◼️
 
 [Data](articles/a061cbe2.json)
+
+[Extended Data](ext_articles/a061cbe2.ext.json)
 
 ---
 
@@ -1916,43 +1976,5 @@ The National Reading Month is on October.   Concurrently, in October, school l
 [Data](articles/ca8bf62b.json)
 
 [Extended Data](ext_articles/ca8bf62b.ext.json)
-
----
-
-### Sri Lanka Drafts First-Ever National Heritage Policy
-
-*2025-09-29 14:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka-drafts-first-ever-national-heritage-policy) · `en`
-
-COLOMBO (News 1st); The Ministry of Cultural Affairs has officially received the draft of Sri Lanka’s first-ever National Heritage Policy.
-
-The draft was compiled by a committee of experts led by Dr. Gamini Wijesuriya, a respected authority in heritage conservation.
-
-The expert committee has proposed a consultative process, where individuals with proven expertise and practical experience in heritage-related fields will be invited to submit recommendations and feedback.
-
-◼️
-
-[Data](articles/23055944.json)
-
-[Extended Data](ext_articles/23055944.ext.json)
-
----
-
-### “Sri Lanka Collapsed Because We Lost Our Ethics” - Cardinal
-
-*2025-09-29 14:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/%e2%80%9csri-lanka-collapsed-because-we-lost-our-ethics%e2%80%9d-cardinal) · `en`
-
-COLOMBO (News 1st); His Eminence Malcolm Cardinal Ranjith, Archbishop of Colombo, delivered a scathing critique of Sri Lanka’s past leadership and societal decline, stating that the country’s collapse was not accidental — but the result of a systemic failure of ethics, accountability, and justice.
-
-Leading with moral skepticism, the Cardinal warned that a society without principles is destined to fall, and that Sri Lanka’s current crisis stems from a long-standing erosion of values across all levels of leadership.
-
-“From the highest ranks to the grassroots,” he said, “a culture of corruption, theft, and selective justice has dragged the nation into ruin.”
-
-He pointed to the absence of policy direction, integrity, and respect for law, noting that despite Sri Lanka’s natural beauty and potential, the country has become one of the most indebted in the world.
-
-...
-
-[Data](articles/1a1af46b.json)
-
-[Extended Data](ext_articles/1a1af46b.ext.json)
 
 ---

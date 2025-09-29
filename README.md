@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 10:10:30**
+As of **2025-09-29 09:56:44**
 
 ## Newspaper Stats
 
-*Scraped **79,374** Articles*
+*Scraped **79,371** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 419
-newsfirstlk | 467
+newsfirstlk | 464
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 798
@@ -27,47 +27,11 @@ adaderanasinhalalk | 13,758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,366 (100.0%) of 79,374 articles have been extended.
+79,366 (100.0%) of 79,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### Thriposha Production Temporarily Halted Due to Shortage of Maize
-
-*2025-09-29 09:45:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/thriposha-production-temporarily-halted-due-to-shortage-of-maize) · `en`
-
-COLOMBO (News 1st) - Thriposha production in Sri Lanka has been temporarily suspended.The Sri Lanka Thriposha Company announced that the suspension was due to the unavailability of maize required for production.Cabinet approval had earlier been granted to import 18,000 metric tons of maize for Thriposha production. However, the Controller General of Imports and Exports has presented amendments to the approval.Chairman of the Sri Lanka Thriposha Limited, Amal Attanayake, stated that until the new Cabinet paper, inclusive of those amendments, is presented to the Cabinet on the 7th and receives approval, the maize importation has been halted.As a result, production of Thriposha has been on hold since the 21st of September.The Chairman further noted that once maize imports resume after the 7th of October, Thriposha production will return to normal. He added that the stocks already produced are currently being distributed across the country.
-
-◼️
-
-[Data](articles/1a7c2b56.json)
-
----
-
-### Rise in Dengue Cases Reported from Nine Districts
-
-*2025-09-29 09:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/rise-in-dengue-cases-reported-from-nine-districts) · `en`
-
-COLOMBO (News 1st) - The National Dengue Control Unit has announced that the number of dengue patients reported from nine districts has increased.Community Medical Specialist Dr. Prashila Samaraweera of the National Dengue Control Unit says that a total of 38,764 dengue patients have been reported from across the country during the recent period.
-
-◼️
-
-[Data](articles/f066e228.json)
-
----
-
-### Municipal Councilor Amal Silva Handed Over to Pinwatte Police
-
-*2025-09-29 09:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/municipal-councilor-amal-silva-handed-over-to-pinwatte-police) · `en`
-
-COLOMBO (News 1st) - The Walana Anti-Corruption Unit says that member of the Dehiwala-Mount Lavinia Municipal Council Amal Silva, who is in custody, has been handed over to the Pinwatte Police for further investigation. Police say that the suspect is scheduled to be produced before court.He was arrested yesterday for possessing three luxury jeeps, valued at over Rs. 60 million, allegedly imported illegally and registered under forged documents.Amal Silva is also a former member of the Western Provincial Council.
-
-◼️
-
-[Data](articles/60e38939.json)
-
----
 
 ### பிறந்து சில நாட்களான பெண் குழந்தை உயிருடன் மீட்பு
 
@@ -2022,5 +1986,71 @@ However, the minimum qualifying criteria should have to be 100,000 metric tons o
 [Data](articles/79c46b95.json)
 
 [Extended Data](ext_articles/79c46b95.ext.json)
+
+---
+
+### Abroad
+
+*2025-09-28 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226346) · `ta`
+
+A baby girl has been rescued for a few days after being born in Oluvil area.
+
+The child has been rescued and taken to the Oluvil Divisional Hospital and is now transferred to the Akkaraipattu Resource Hospital.
+
+The child who was rescued in the Oluvil area, which belongs to the Akkaraipattu Police Division on Sunday (28), has been admitted to the Akkaraipattu Resource Hospital for treatment.
+
+The hospital administration has stated that appropriate measures have been taken to appoint the child in court through the police.
+
+◼️
+
+[Data](articles/b6863045.json)
+
+[Extended Data](ext_articles/b6863045.ext.json)
+
+---
+
+### Sri Lanka becomes a drug manufacturing country
+
+*2025-09-28 18:37:20* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-නිෂ්පාදනය-කරන-රටක්-බවට-ලංකාව-පත්වීම-බරපතල-තත්ත්වයක්/11-418771) · `si`
+
+The Mahanayala Thera The General of Malwatte Sirindala, the General Mananayake, says that the appointment of Sri Lanka is a drug manufacturing country.
+
+He emphasized this when Minister Ananda Wijepala and IGP Priyantha Weerasuriya were bowed down to see Him Eve.
+
+The Thera emphasized that the government has to implement a wide range of program to rescue the younger generation from the drug menace.
+
+The Thera emphasized that even though he rehabilitated rehabilitation of addicts, but the rehabilitation of the addicts should be addressed again.
+
+Minister Ananda Wijepala emphasized that it has been revealed that foreigners come to Sri Lanka and produced the most poisonous drug in the world.
+
+The Handisle was to expand the current center of the Handisa to have the rehabilitation of drug addicts and to prevent drug addicts and the president of the president is working on the next two to three weeks.
+
+...
+
+[Data](articles/2fb4a01e.json)
+
+[Extended Data](ext_articles/2fb4a01e.ext.json)
+
+---
+
+### Unawatuna’s Sky Breeze Café wins global award
+
+*2025-09-28 18:36:00* · [`islandlk`](http://island.lk/unawatunas-sky-breeze-cafe-wins-global-award/) · `en`
+
+Sky Breeze, a beachside café in Unawatuna, has been honoured with the title “Best All-Day Scenic Dining Café Experience” at the Global Business Excellence Awards 2025.
+
+The London Business Consultancy, which organised the ceremony held in Colombo, presented the award, recognising the café’s unique semi fine dining experience. Sky Breeze offers a refined menu of familiar and coastal-inspired flavours in a relaxed, Balinese-inspired setting with open spaces and tropical design.
+
+Beyond all-day dining, the café is known for its weekly events, including fine dining nights, live music, and a monthly beach market, solidifying its reputation as a key dining destination on the southern coast.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/c88c06c5.json)
+
+[Extended Data](ext_articles/c88c06c5.ext.json)
 
 ---

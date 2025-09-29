@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 17:42:30**
+As of **2025-09-29 17:59:12**
 
 ## Newspaper Stats
 
-*Scraped **79,561** Articles*
+*Scraped **79,562** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 450
-newsfirstlk | 486
+newsfirstlk | 487
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -27,11 +27,23 @@ adaderanasinhalalk | 13,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,558 (100.0%) of 79,561 articles have been extended.
+79,561 (100.0%) of 79,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### From Oct 1, Ticketless Travel Will Cost You
+
+*2025-09-29 17:36:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/from-oct-1-ticketless-travel-will-cost-you) · `en`
+
+COLOMBO (News 1st); The Western Province Road Passenger Transport Authority has announced two major regulatory changes effective from October 1: mandatory ticket issuance for all private bus passengers and the resumption of passenger three-wheeler registration.According to Authority officials, all passengers traveling on private buses within the province must obtain a valid ticket. Failure to comply will result in fines for both passengers and conductors.Currently, conductors who fail to issue tickets face a penalty of Rs.750 and mandatory training. From October 1, passengers without tickets will also be fined Rs.100 plus double the fare, with plans to revise penalties further in the future.The Authority also confirmed that registration and licensing of passenger three-wheelers will resume under the 2002 regulations.These rules require all three-wheelers operating in passenger transport to be registered with the Authority and hold valid permits.
+
+◼️
+
+[Data](articles/23008e39.json)
+
+---
 
 ### ‘Mephedrone’ drug discovered for the first time in Sri Lanka - Senior DIG Southern Province
 
@@ -44,6 +56,8 @@ The drug is more dangerous than other narcotic drugs such as ‘Ice’ and detec
 ◼️
 
 [Data](articles/0f180a6b.json)
+
+[Extended Data](ext_articles/0f180a6b.ext.json)
 
 ---
 
@@ -141,6 +155,8 @@ Moreover, a bomb disposal team was also deployed outside the politician’s hous
 
 [Data](articles/b3753969.json)
 
+[Extended Data](ext_articles/b3753969.ext.json)
+
 ---
 
 ### '' Not all pens can do '
@@ -202,6 +218,8 @@ I wish to remind you that you are not joining a traditional public service. You 
 ...
 
 [Data](articles/3d34d1cc.json)
+
+[Extended Data](ext_articles/3d34d1cc.ext.json)
 
 ---
 
@@ -1938,25 +1956,5 @@ The Indian team also denied the Chairman of the Asian Cricket Council and the Ch
 [Data](articles/f311a1c9.json)
 
 [Extended Data](ext_articles/f311a1c9.ext.json)
-
----
-
-### The Minister of Health visited the treatment services at the Ampara Physical and Mental Rehabilitation Center
-
-*2025-09-29 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226393) · `ta`
-
-Minister of Health and Massive Communication Nalinda Jayatissa recently visited hospitals and health centers in the Eastern Province to launch several health development programs in the Eastern Province.
-
-The Minister visited the Physical and Mental Rehabilitation Center to provide patients with the patients of the Ampara Hospital and provide treatment for treatment and rehabilitation services.
-
-The center of this physical and mental rehabilitation provides therapeutic services to children with stroke, accidents, surgery, infections and joints, muscle or neurodegenerative and special needs.
-
-Knowing the treatments and physical resources offered by the Rehabilitation Center, the Minister also examined the physiotherapy division of the Physical and Mental Rehabilitation Center, artificial organs and assistance devices, patient therapy wards and child therapy.
-
-...
-
-[Data](articles/40d0ee0b.json)
-
-[Extended Data](ext_articles/40d0ee0b.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 16:21:12**
+As of **2025-09-29 17:06:21**
 
 ## Newspaper Stats
 
-*Scraped **79,519** Articles*
+*Scraped **79,553** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 440
-newsfirstlk | 484
+lankadeepalk | 449
+newsfirstlk | 486
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 800
@@ -18,20 +18,358 @@ economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,661
-adaderanalk | 10,257
-tamilmirrorlk | 11,903
-virakesarilk | 12,968
-adaderanasinhalalk | 13,772
+adaderanalk | 10,264
+tamilmirrorlk | 11,908
+virakesarilk | 12,978
+adaderanasinhalalk | 13,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,517 (100.0%) of 79,519 articles have been extended.
+79,546 (100.0%) of 79,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### காற்றாலை, பொலிஸாரின் அடாவடிக்கும் எதிராக மன்னார் ஸ்தம்பித்தது
+
+*2025-09-29 16:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றாலை-பொலிஸாரின்-அடாவடிக்கும்-எதிராக-மன்னார்-ஸ்தம்பித்தது/175-365489) · `ta`
+
+மன்னாரில் முன்னெடுக்கப்படவுள்ள காற்றாலை திட்டத்திற்கு எதிராகவும்,மக்கள் மீது பொலிஸார் மேற்கொண்ட தாக்குதல் சம்பவத்தைக் கண்டித்தும் மன்னாரில்  திங்கட்கிழமை (29) அன்று பொது முடக்கல்  போராட்டம் இடம்பெற்ற நிலையில், மாவட்டத்தின் பல பாகங்களில் இருந்தும் பல்லாயிரக்கணக்கான மக்கள்  வருகை தந்து தமது எதிர்ப்பை வெளிப்படுத்தியுள்ளனர்.
+
+மன்னார் பிரஜைகள் குழு மற்றும் போராட்டக்குழு இணைந்து  மன்னார் மாவட்டம் முழுவதும் திங்கட்கிழமை (29) அன்று பொது முடக்கத்திற்கு  அழைப்பு விடுத்திருந்தது.
+
+மன்னார் பஜார் பகுதி உள்ளடங்களாக அனைத்து பகுதிகளிலும் உள்ள வர்த்தக நிலையங்கள் அனைத்தும் மூடப்பட்டிருந்தன.
+
+தனியார் போக்குவரத்து சேவைகள் அனைத்தும் நிறுத்தப்பட்டன.பல்வேறு கிராமங்களில் உள்ள மீனவர்கள் கடற்றொழிலுக்கு செல்லவில்லை.
+
+இந்த நிலையில், காலை 10.30 மணியளவில் மன்னார் பொது விளையாட்டு மைதானத்தில் பல ஆயிரக்கணக்கான மக்கள் ஒன்று கூடினர். பொது விளையாட்டு மைதானத்தில் இருந்து கண்டன பேரணி ஆரம்பமானது.
+
+...
+
+[Data](articles/0a1c0bd7.json)
+
+---
+
+### ’’එක පෑන් පහරින්  ඔක්කොම කරන්න බෑ’’
+
+*2025-09-29 16:40:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/එක-පන-පහරන-ඔකකම-කරනන-බ/101-680425) · `si`
+
+ආර්ථික වශයෙන් පරිහානියට පත්වූ රටක් අදියරෙන් අදියර ගොඩනගමින් ආර්ථික වර්ධනයක් උදාකර ගනු ලබන අවස්ථාවක සියලු අඩුපාඩු එක් පෑන් පහරකින් සම්පුර්ණ කර ගත නොහැකි බව සෞඛ්‍ය ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය  නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+ඉදිරියේ දී සියල්ල යථා තත්වයට පත් කර ගැනීමට කටයුතු කරන බව ද අමාත්‍යවරයා අවධාරණය කළේ ය.
+
+අමාත්‍යවරයා මේ බව කීවේ ජාතික ඖෂධ ප්‍රතිපත්තියේ නිර්මාතෘ මහාචාර්ය සේනක බිබිලේ මහතාගේ 48වන ගුණ සමරුමට සහභාගී වෙමිනි.
+
+සේනක බිබිලේ අනුස්මරණ සංවිධානය විසින් සංවිධානය කරනු ලැබූ  මෙම ගුණ සමරුමේ සමරු දෙසුම පැවැත්වූයේ ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ හිටපු උපකුලපති සම්මානිත මහාචාර්ය නාරද වර්ණසූරිය මහතායි.
+
+මහාචාර්ය සේනක බිබිලේ මහතා 1977 වර්ෂයේ සැප්තැම්බර් 29  දින ගයනාවේ දී අභාවප්‍රාප්ත වූ අතර එම දිනය සමරමින් සෑම වර්ෂයකම සැප්තැම්බර් මස 29  දින අඛණ්ඩව මෙම සැමරුම් උත්සවය පවත්වනු ලබයි.
+
+◼️
+
+[Data](articles/39157975.json)
+
+---
+
+### Japan Grants ¥500 Mn to Sri Lanka for High-Tech UAVs
+
+*2025-09-29 16:34:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/japan-grants-%c2%a5500-mn-to-sri-lanka-for-high-tech-uavs) · `en`
+
+COLOMBO (News 1st); Japan and Sri Lanka took a major step in strengthening their strategic partnership with the signing of a ¥500 million grant under Japan’s Official Security Assistance (OSA) framework.
+
+The agreement was formalized in Tokyo by Japanese Ambassador Isomata Akio and Sri Lankan Foreign Minister Vijitha Herath, in the presence of Prime Minister Ishiba Shigeru and President Anura Kumara Dissanayake.
+
+The grant will fund the provision of advanced Unmanned Aerial Vehicles (UAVs) to the Sri Lanka Navy for maritime surveillance and disaster relief operations.
+
+The UAVs, manufactured in Japan, are expected to significantly enhance Sri Lanka’s security capabilities, safeguard vital sea lanes in the Indian Ocean, and strengthen regional stability.
+
+Sri Lanka occupies a critical position along key maritime routes connecting Asia, the Middle East, and Africa.
+
+...
+
+[Data](articles/a20f2329.json)
+
+[Extended Data](ext_articles/a20f2329.ext.json)
+
+---
+
+### Special Task Force Excavation Action in Batticaloa Land in Liberation Tigers
+
+*2025-09-29 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226424) · `ta`
+
+Special Task Force (STF) was engaged in excavation on Monday (29) in search of the LTTE's weapons and gold in a private land in Puliyadimadu Police Division in the Batticaloa - Vavuniya Police Division.
+
+According to information received by the Kalladi Special Task Force, the LTTE camp has been in the past.
+
+During that time, the Special Task Force (STF) received a court order to excavation and hidden the weapons and gold in the land.
+
+The excavation work was carried out in the presence of the Vavuniya Police Station, Kalladi Special Task Force, Grama Niladhari, Divisional Secretariat Officer and Archaeological Department officials from 9 am to 1 pm.
+
+Meanwhile, the area has been under the control of the LTTE in the past and the LTTE camp has been located at that time.
+
+◼️
+
+[Data](articles/a6854247.json)
+
+[Extended Data](ext_articles/a6854247.ext.json)
+
+---
+
+### The hunger strike continues for the 5th day in Jaffna demanding international justice
+
+*2025-09-29 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226427) · `ta`
+
+The hunger strike for international justice was held in Jaffna for the fifth day today (29) in the arrangement of the Relatives Association of the North and East.
+
+This struggle is Jaffna. Semmani will be held on the 25th of October until the 1st of October.
+
+The hunger strike has begun to demand justice for issues including human rights violations during the civil war in Sri Lanka and the disappearance of those who have disappeared, rejecting the domestic mechanism, urging the international investigation, and demanding justice for the human burial issue.
+
+The protest began as relatives, activists and civilians of the five districts of the North were participating in the protest, at the beginning of the protest, the protest began with the opening of the protest.
+
+...
+
+[Data](articles/c143aaff.json)
+
+[Extended Data](ext_articles/c143aaff.ext.json)
+
+---
+
+### The music and preview of the movie 'Marutham' starring Vidarth's 'Marutham'
+
+*2025-09-29 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226426) · `ta`
+
+The music and preview of the film 'Marutham', which is the hero of the actor who creates a business market for small investment films, was held in Chennai.
+
+Directors Saravana Subbaiah -Badri Venkatesh -Sattu Anbalakan -Thananiyar University Professor Thirumakan -Akiyor participated as the special guests.
+
+Directed by director Gajendran, Vidarth, Rakshana, Arul Das, Maran, Saravanan Subbaiah, 'Daily' Nagaraj and Mathew Varghese have starred.
+
+Arul Somasundaram is a cinematographer for this movie. R. Raghunandan has composed the music.
+
+The film is being prepared for farmers' life on behalf of the producer C.. Produced by Venkatesan.
+
+The film's music and preview launch was held in Chennai on the 10th of October.
+
+Commenting on the film, director Gajendran said, “Though he is a professor at a private university.. We gave us a three -month holiday to direct the film.. They were given the technical work of the film and the opportunity to carry out the university campus.
+
+...
+
+[Data](articles/d3069ee1.json)
+
+[Extended Data](ext_articles/d3069ee1.ext.json)
+
+---
+
+### අපරාධකරුවන් හැත්තෑ දෙදෙනකුට රතු නිවේදන
+
+*2025-09-29 16:19:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපරධකරවන-හතත-දදනකට-රත-නවදන/101-680424) · `si`
+
+විදේශයන්හි ශ්‍රී ලාංකික අපරාධකරුවන් හැත්තෑ දෙදෙනෙකු වෙනුවෙන් ජාත්‍යන්තර පොලිසිය රතු නිවේදන නිකුත් කර ඇතැයි  මහජන ආරක්ෂක අමාත්‍ය ආනන්ද  විජේපාල මහතා පැවසීය.
+
+ශ්‍රී ලාංකික අපරාධකරුවන් තිස් දෙනෙකු විදේශයන්හි සිටින ස්ථාන හඳුනාගෙන ඇතැයි පැවසූ අමාත්‍යවරයා  අපරාධකරුවන් විසිදෙනකු  විදේශයන්හි හිර භාරයේ සිටින බවද ප්‍රකාශ කළේය
+
+එම පිරිස මෙරටට ගෙන්වා ගැනීමට කටයුතු කරගෙන යන බවද හෙතෙම කීවේය.
+
+◼️
+
+[Data](articles/89f15dd4.json)
+
+---
+
+### Red announcements to seventy two criminals
+
+*2025-09-29 16:19:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධකරවන-හතත-දදනකට-රත-නවදන/1-680424) · `si`
+
+According to the Commonwealth Police Ananda Wijepala said that the international police have issued red announcements for seventy-two criminals abroad.
+
+Thirty Sri Lankan criminals have been identified abroad, the minister said that twenty criminals are in prison abroad
+
+He also said that they would be taken to the country.
+
+◼️
+
+[Data](articles/97383e3f.json)
+
+[Extended Data](ext_articles/97383e3f.ext.json)
+
+---
+
+### Excavation in search of tiger gold
+
+*2025-09-29 16:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-தங்கத்தை-தேடி-அகழ்வு/175-365487) · `ta`
+
+Special Task Force (STF) on Monday (29) carried out an excavation work in the Puliyadi cow Gayanguda area of ​​the Vavuniya Police Division in Batticaloa in search of the LTTE's weapons and gold.
+
+According to information received by the Kalladi Special Task Force, the LTTE has been in the face of the land belonging to Kanda Kutti Arumugam in the past.
+
+During that time, the Special Task Force obtained a court order to bury the weapons and gold on the ground and carry out the excavation process through the soil excavation machine.
+
+Vavuniya Police Station Officer Kalladi Special Task Force, Grama Niladhari, Divisional Secretariat Officer and Archaeological Department officials were present.
+
+The excavation work was carried out from 9 am to 1.00 pm. Subsequently, the work was stopped and the Special Task Force left.
+
+At the same time, the area has been under the control of the LTTE in the past and the LTTE camp has been located at the time.
+
+◼️
+
+[Data](articles/cf6276c0.json)
+
+[Extended Data](ext_articles/cf6276c0.ext.json)
+
+---
+
+### Back Voe Saman's wife Orders
+
+*2025-09-29 16:15:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බක-සමනග-බරඳග-දරකථන-තවත-පරකෂ-කරනන-නයග/1-680423) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama today (29) ordered the secret police to investigate the delegation of the organized criminal gang member Bac.
+
+After considering the password of the two mobile phones in the suspect, the CID has issued a request made by the CID to permit statements in the prison.
+
+The order was arrested in accordance with Section 54 of the Suspect's Sleeper, who was arrested in terms of section 54 of the toxic and Dangerous Drugs Act.
+
+◼️
+
+[Data](articles/633f6c02.json)
+
+[Extended Data](ext_articles/633f6c02.ext.json)
+
+---
+
+### බැකෝ සමන්ගේ බිරිඳගේ දුරකථන තවත් පරීක්ෂා කරන්න නියෝග
+
+*2025-09-29 16:15:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බක-සමනග-බරඳග-දරකථන-තවත-පරකෂ-කරනන-නයග/101-680423) · `si`
+
+ප්‍රකට මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සහ අපරාධ කල්ලි සාමාජිකයින් සමඟ සිටියදී  ඉන්දුනීසියාවේදී අත්අඩංගුවට ගෙන  රඳවා ප්‍රශ්න කිරීමෙන් අනතුරුව රක්ෂිත බන්ධනාගාර ගතකළ  සංවිධානාත්මක අපරාධ කල්ලි සාමාජික බැකෝ සමන්ගේ බිරිඳගේ ජංගම දුරකථන දෙක ඔස්සේ තවදුරටත් විමර්ශන කිරීමට කොළඹ ප්‍රධාන  මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා රහස් පොලීසියට අද(29) නියෝග කළේය .
+
+සැකකාරිය සන්තකයේ තිබී අත්අඩංගුවට ගත් ජංගම දුරකථන දෙකෙහි මුර පද සම්බන්ධයෙන් කරුණු විමසා බන්ධනාගාරය තුළදී  ප්‍රකාශ ලබා ගැනීමට අවසර දෙන්නැයි රහස් පොලිසිය මෝෂමක් ඉදිරිපත් කරමින් කළ ඉල්ලීම සලකා බැලීමෙන් පසුව මෙම නියෝගය නිකුත් කළේය.
+
+විෂ වර්ග අබිං සහ අන්තරායක ඖෂධ පාලක පනතේ 54 වගන්තිය ප්‍රකාරව  අත්අඩංගුවට ගෙන අධිකරණ නියෝග පරිදි රක්ෂිත බන්ධනාගාර ගත කළ සැකකාරියගේ ජංගම දුරකථනය දෙකෙහි මුර පද බන්ධනාගාරයට ගොස් ඇයලවා  ඉවත් කරගෙන ඉදිරි විමර්ශන කටයුතු කිරීම සඳහා මෙම අවසරය ඉල්ලා සිටිමෙන් පසුව මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/9888bd3f.json)
+
+---
+
+### පේරාදෙණි වෛද්‍ය සිසුවා අනතුරින් මරුට
+
+*2025-09-29 16:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පරදණ-වදය-සසව-අනතරන-මරට/101-680422) · `si`
+
+කඩුගන්නාව ඌරාපොළ හන්දිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් පේරාදෙණිය විශ්වවිද්‍යාලයේ විද්‍යා පීඨයේ ලබමින් සිටි 24 හැවිරිදි සිසුවකු මියගොස් ඇති බව පොලිසිය කියයි.
+
+එම විශ්ව විද්‍යාල සිසුවා කඩුගන්නාව කොළඹ ප්‍රධාන මාර්ගයේ  යතුරු පැදියකින් විශ්ව විද්‍යාලය වෙත යමින් සිටියදී කොළඹ දිසාවට ධාවනය වූ වාහන ප්‍රවාහනය කරන තට්ටු ලොරියක ගැටීම හේතුවෙන් එම ස්ථානයේදීම සිසුවා මියගොස් ඇති බව පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ අරනායක ප්‍රදේශයේ පදිංචිකරුවකු වූ තිවංක පියතිස්ස (24) නැමැති පේරාදෙණිය විශ්ව විද්‍යාලයේ විද්‍යා පීඨයේ තුන්වෙනි වසරේ සිසුවෙකි.
+
+◼️
+
+[Data](articles/b9f01a58.json)
+
+---
+
+### Peradeniya medical student killed in accident
+
+*2025-09-29 16:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරදණ-වදය-සසව-අනතරන-මරට/1-680422) · `si`
+
+A 24-year-old student was killed in an accident in the Urapola Junction area in Kadugannawa, police said.
+
+The student has died due to a lorry transport vehicle traveling to the University of Kadugannawa main road.
+
+The deceased is Thivanka Piyatissa, a third year student of the Faculty of Science, Peradeniya University, Peradeniya University.
+
+◼️
+
+[Data](articles/eb18e799.json)
+
+[Extended Data](ext_articles/eb18e799.ext.json)
+
+---
+
+### 'Yatisi' film director directed by Sasikumar
+
+*2025-09-29 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226425) · `ta`
+
+Official information has been revealed that director Tarani Rajendran is directing the film 'Ayodhya', 'Garuda', 'Nandan' and 'Tourist Family' and the unnamed film, which has been named as the leading star of Sasikumar's story.
+
+Sasikumar, Seyon, Bhavani Sri, Samudrakani, Shivata, Kishore and many others are starring in the upcoming film directed by director Tharani Rajendran.
+
+The film was made on behalf of JK Film International.. Produced by Kamalakannan.
+
+The shooting of the film is going on bright. In this case, the film crew has released a photo of the character he is accepted by the film's hero Sasikumar's birthday.
+
+Commenting on the film, the director said, “The storyline is set in the backdrop of the British who ruled India.
+
+Sasikumar, the hero of the story, appears as a naval officer. There are also action exnses scenes in the film. ”
+
+Seventy percent of filming has been completed.. The film crew is excited that the film and teaser will be released soon.
+
+◼️
+
+[Data](articles/994c2524.json)
+
+[Extended Data](ext_articles/994c2524.ext.json)
+
+---
+
+### Tokyo Talks: Sri Lanka Secures UAVs, Backs Free Indo-Pacific Vision
+
+*2025-09-29 16:12:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/tokyo-talks-sri-lanka-secures-uavs-backs-free-indo-pacific-vision) · `en`
+
+COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake and Japanese Prime Minister Ishiba Shigeru reaffirmed their commitment to deepening bilateral security and strategic cooperation during high-level talks in Tokyo on Monday. The meeting marked a significant step in advancing defense collaboration and regional stability in the Indo-Pacific.
+
+Both leaders emphasized the importance of enhancing Sri Lanka’s security and deterrence capabilities to safeguard peace in the Indian Ocean Region. In a landmark move, Japan announced the provision of advanced Unmanned Aerial Vehicles (UAVs) to Sri Lanka under its first Official Security Assistance (OSA) initiative. The UAVs will bolster maritime surveillance and disaster relief operations, reinforcing Sri Lanka’s role in maintaining regional security.
+
+...
+
+[Data](articles/65ef94f6.json)
+
+[Extended Data](ext_articles/65ef94f6.ext.json)
+
+---
+
+### University student dies in accident
+
+*2025-09-29 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226423) · `ta`
+
+A university student has died in an accident at Urapola junction on the main road of Kadugannawa - Colombo main road, police said.
+
+The victim was a 24 -year -old student who was educated at the Faculty of Science, Peradeniya University.
+
+இந்த பல்கலைக்கழக மாணவன் பேராதனை பல்கலைக்கழகத்தை நோக்கி மோட்டார் சைக்கிளில் சென்றுக்கொண்டிருக்கும் போது பாரவூர்தியில் மோதி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a71af255.json)
+
+[Extended Data](ext_articles/a71af255.ext.json)
+
+---
+
+### Discussions with India to improve energy cooperation
+
+*2025-09-29 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215140) · `si`
+
+Minister of Energy, Kumara Jayakody, who is traveling in India and Minister of India and Urban Affairs, a meeting with Sriouha Lal Kar and Renewable Energy Minister Sri Phahahar Lal Karr and Renewable Energy Minister Sri Phauhar Lal Karr and Renewable Energy Minister.
+
+There, the development of energy cooperation between the two countries have discussed the progress of the projects in Sri Lanka with India and discussed future investment opportunities.
+
+In particular, many procurement procedures, including the renewable energy factory in Sri Lanka with the Minister of Renewable Energy, has been discussed, and discussing further training programs in the renewable energy industry.
+
+It is also discussed on the steps that can be taken to enhance efficiency in the structural structures of the Energy Factory Structure and the Energy structures.
+
+The Indian Industry Federation was organized by the Indian Industry Federation and the exhibition in New Delhi in India recently.
+
+◼️
+
+[Data](articles/2e16aeea.json)
+
+[Extended Data](ext_articles/2e16aeea.ext.json)
+
+---
 
 ### Sri Lanka and Japan Pledge Stronger Ties In Joint Statement
 
@@ -42,6 +380,72 @@ COLOMBO (News 1st); Sri Lankan President Anura Kumara Dissanayake met Japanese P
 ◼️
 
 [Data](articles/41df1bec.json)
+
+[Extended Data](ext_articles/41df1bec.ext.json)
+
+---
+
+### Ice's couple Killadi: 3 homes stuck
+
+*2025-09-29 16:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஐஸ்-ஜோடி-கிள்ளாடி-தங்கியிருந்த-3-வீடுகளிலும்-சிக்கின/76-365486) · `ta`
+
+Police have searched three houses where the Ice drug -arrested couple was arrested and seized ice drugs and equipment.
+
+The couple were arrested in Nawalapitiya on the 25th of this month.  During the raid carried out by the woman, 52 buckets of ice were seized in her underwear.
+
+They were produced at the Nawalapitiya court. The husband was received by the police for 7 days detention order. The five -month -old wife has been kept in detention until the 15th of this month.
+
+In this case, the 22 -year -old husband took the three houses where they were staying.  Ice drugs and equipment have been recovered from two houses.
+
+Ice buckets and equipment have been recovered as the house in the Udagama - Angellapitiya area on Gampola, Gampola, Gampola, and the house on the Chinghapitiya area on the Gampola, Tholaspagai road
+
+The suspect has made two marriages. The first wife has a 15 -month -old baby.
+
+◼️
+
+[Data](articles/b50a3317.json)
+
+[Extended Data](ext_articles/b50a3317.ext.json)
+
+---
+
+### University lecturers to launch strike tomorrow over several issues
+
+*2025-09-29 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113032/university-lecturers-to-launch-strike-tomorrow-over-several-issues-) · `en`
+
+The Federation of University Teachers’ Associations (FUTA) has announced that university lecturers will engage in strike action tomorrow (30) due to the government’s continued failure to resolve the pressing issues within the university system.
+
+FUTA Secretary, Senior Lecturer Charudaththe Ilangasinghe, made this statement during a media conference held today (29).
+
+He stated that although it has been a year since the current government came into power, there has still been no resolution to the ongoing crises affecting state universities.
+
+Charudaththe Ilangasinghe further emphasized that the public education in the country is currently facing a severe crisis.
+
+Ilangasinghe also highlighted the serious shortage of university lecturers, noting that over 200 lecturers have left the University of Peradeniya alone within the past year.
+
+◼️
+
+[Data](articles/319d93f8.json)
+
+[Extended Data](ext_articles/319d93f8.ext.json)
+
+---
+
+### Moody’s affirms India’s Baa3 rating, maintains stable outlook
+
+*2025-09-29 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113031/moodys-affirms-indias-baa3-rating-maintains-stable-outlook) · `en`
+
+Moody’s Ratings on Monday affirmed the Government of India’s long-term local and foreign-currency issuer ratings and the local-currency senior unsecured rating at Baa3. The ratings agency also affirmed India’s other short-term local-currency rating at P-3. The outlook remains stable.
+
+“The rating affirmation and stable outlook reflect our view that India’s prevailing credit strengths, including its large, fast-growing economy, sound external position and stable domestic financing base for ongoing fiscal deficits, will be sustained,” it said.
+
+These strengths lend resilience to adverse external trends, in particular as high US (Aa1 stable) tariffs and other international policy measures hinder India’s capacity to attract manufacturing investment, it added. India’s credit strengths are balanced by long-standing weaknesses on the fiscal side, which will remain.
+
+...
+
+[Data](articles/18e8449e.json)
+
+[Extended Data](ext_articles/18e8449e.ext.json)
 
 ---
 
@@ -65,6 +469,26 @@ Prime Minister Ishiba praised Sri Lanka’s progress in stabilizing its economy 
 
 ---
 
+### Elephants and human beings emphasize the uncontrollable life in Jaffna
+
+*2025-09-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226419) · `ta`
+
+Elephants and human beings were held in Jaffna on Monday (29) to emphasize the uncontrollable life of the public.
+
+Jaffna organized by the Sri Lanka Wild Elephant Protection Association. The signature operations were carried out on Monday in the city and Tuesday in other parts of the city.
+
+It is reported that the signature collection that has begun nationwide will continue in the Northern Province, under the theme "Do not kill elephants for your greed."
+
+Manoharan Sasikaran, Coordinator of the Northern Province of the Sri Lanka Wild Elephant Protection Association and members from Colombo participated in the event.
+
+◼️
+
+[Data](articles/0da03397.json)
+
+[Extended Data](ext_articles/0da03397.ext.json)
+
+---
+
 ### University lecturers on strike tomorrow
 
 *2025-09-29 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215139) · `si`
@@ -76,6 +500,160 @@ The Federation of the University Teachers' Associations (FUTA) says that the gov
 [Data](articles/02123331.json)
 
 [Extended Data](ext_articles/02123331.ext.json)
+
+---
+
+### Appeals Court sets hearing for petition seeking to invalidate MP Upali Pannilage’s parliamentary seat
+
+*2025-09-29 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113030/appeals-court-sets-hearing-for-petition-seeking-to-invalidate-mp-upali-pannilages-parliamentary-seat) · `en`
+
+The Court of Appeal has scheduled a hearing for February 27, 2026 to consider a petition requesting an order to invalidate the parliamentary seat of Dr. Upali Pannilage.
+
+The petition was filed by Oshala Herath, the Chairman of the ‘Abhinawa Niwahal Peramuna’.
+
+The petition was taken up today (29) before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando.
+
+After reviewing the submissions presented by the legal representatives of both the petitioner and the respondent, the bench ordered that the case be scheduled for February 27, 2026, for further clarification and confirmation of facts.
+
+The petitioner states that Dr. Upali Pannilage was appointed as a National List MP of the National People’s Power (NPP) following the last general election.
+
+However, at the time of his appointment, he was reportedly serving as a Senior Lecturer at the University of Ruhuna, which, according to the petitioner, is a violation of election laws.
+
+...
+
+[Data](articles/a1cb0ffe.json)
+
+[Extended Data](ext_articles/a1cb0ffe.ext.json)
+
+---
+
+### Setting up windmills in Mannar, people gathered against the anarchy of the police! ; Confiscation
+
+*2025-09-29 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226418) · `ta`
+
+The public crippling protest took place today (29) in Mannar, against the wind power plant in Mannar and the police attack on the people.. In order to attend, tens of thousands of people from many parts of the Mannar district have come to their opposition.
+
+The whole of Mannar district was invited to the public free today. The invitation was made by the Mannar Citizens Committee and the Struggle Group.
+
+Accordingly, since this morning, all the trade centers in all areas, including the Mannar Bazaar area, have been closed.
+
+All private transport services stopped. Fishermen in various villages do not go to the sea. Tens of thousands of people gathered at the Mannar Public Playground at around 10.30 am today.
+
+The protest rally began from the district public playground to protest the work of the windmill and the police.
+
+...
+
+[Data](articles/4de1e739.json)
+
+[Extended Data](ext_articles/4de1e739.ext.json)
+
+---
+
+### A life dedicated to the unity of the nation
+
+*2025-09-29 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226409) · `ta`
+
+Today is the birthday of former Speaker Sri Langabemanya Karu Jayasuriya. இதனை முன்னிட்ட கொண்டாட்டங்கள், வழமையான ஆடம்பரங்கள் இன்றி, சமய நடவடிக்கைகள் மற்றும் சமூக சேவைகள் மீது மட்டுமே கவனம் செலுத்தி நடத்தப்படுகின்றன.
+
+◼️
+
+[Data](articles/c9ce797c.json)
+
+[Extended Data](ext_articles/c9ce797c.ext.json)
+
+---
+
+### Japanese Prime Minister - Two major projects in the presence of President Anura
+
+*2025-09-29 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226416) · `ta`
+
+Japanese Ambassador Akio Isomada and Sri Lanka's Foreign Employment and Tourism Minister Vijitha Herath signed the inauguration of the Official Security Assistance Scheme (OSA) Scheme (OSA) program and the project of the dairy farming industry.
+
+Japan's first OSA for Sri Lanka indicates that bilateral cooperation in security has entered a new phase. OSA, which was launched in 2023, is Japan's new subsidy assistance cooperation structure to strengthen the safety and preventive skills of similar -minded countries. OSA helps to be a recipient of armed forces, different from the official development assistance (ODA) for the economic and social development of developing countries.
+
+...
+
+[Data](articles/655f932c.json)
+
+[Extended Data](ext_articles/655f932c.ext.json)
+
+---
+
+### Energy Minister holds talks to strengthen energy cooperation with India
+
+*2025-09-29 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113029/energy-minister-holds-talks-to-strengthen-energy-cooperation-with-india) · `en`
+
+Minister of Energy Kumara Jayakody, who is currently on an official visit to India, held discussions with India’s Union Minister of New and Renewable Energy, Shri Pralhad Joshi. The talks focused on enhancing energy cooperation between the two countries, reviewing the progress of ongoing joint projects and exploring future investment opportunities.
+
+Particular emphasis was placed on renewable energy collaboration during the meeting with the Indian Minister of New and Renewable Energy. The discussions included a number of topics including the introduction of competitive procurement mechanisms to ensure minimum pricing for renewable energy in Sri Lanka, establishing a solar panel manufacturing facility in Sri Lanka with Indian assistance and expanding training opportunities for Sri Lankans in the renewable energy sector.
+
+...
+
+[Data](articles/020d4768.json)
+
+[Extended Data](ext_articles/020d4768.ext.json)
+
+---
+
+### Directors r. V.. Udayakumar - The music of the film 'Final Employment'
+
+*2025-09-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226415) · `ta`
+
+The music launch of the movie 'Final Entry', which played the lead role as the hero of actor Ranjith, was held in Chennai. Directors R. V.. Udayakumar and Empire released the music of the film about the participation of special guests.
+
+Directed by director Venkat Jana, Ranjith, Megalee, Vittal Rao, Kathiravan, Raja, Sadguru and many others have starred in the film 'Final Edema'.
+
+Sunil Lazar has composed the film, which has been recorded by Surya Gandhi. The film is being produced as a psychological thriller.
+
+The film's music launch was held in Chennai on the 10th of October.. Directors RV with the film crew at the event. Udayakumar and Empire participated as special guests.
+
+The film's director Venkat Jana said, “It was reported that a businessman from Tirupur committed suicide with his family four years ago.
+
+I couldn't easily pass after seeing this. About his psychology before suicide.. About tension.. Thinking.
+
+...
+
+[Data](articles/b4f10eef.json)
+
+[Extended Data](ext_articles/b4f10eef.ext.json)
+
+---
+
+### Explosive incident in a dilapidated house in Kilinochchi: two injured
+
+*2025-09-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226407) · `ta`
+
+Two people were injured in an explosion inside a dilapidated house in Kilinochchi.
+
+Two people who went to renovate a dilapidated house were injured when they were doing their job.
+
+Both injured have been admitted to the Kilinochchi Hospital for emergency treatment during the explosion.
+
+◼️
+
+[Data](articles/f0bb3f5e.json)
+
+[Extended Data](ext_articles/f0bb3f5e.ext.json)
+
+---
+
+### Google to provide free access to Gemini AI Plus for Sri Lankan students – Dy Minister
+
+*2025-09-29 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113028/google-to-provide-free-access-to-gemini-ai-plus-for-sri-lankan-students-dy-minister) · `en`
+
+Google will provide Sri Lankan students free access to its Gemini advanced features, along with other benefits, under its student offer, Deputy Minister of Digital Economy, Eranga Weeraratne, announced today (29).
+
+Speaking at the “Future of AI Begins Today” conference this morning (29), the Deputy Minister stated that after months of collaboration between the Digital Economy Ministry and Google, they have managed secure free access to Gemini’s advanced features.
+
+He said, “I am excited to announce the news that I received just this morning. Google has agreed to provide their student offer with Gemini advanced features and other benefits for Sri Lankan students free of cost. This is a game changer.”
+
+The Deputy Minister further explained that this initiative would ensure that every student across the nation would soon gain free access to powerful, world-class AI tools, cloud platforms, and learning resources.
+
+◼️
+
+[Data](articles/5175e23f.json)
+
+[Extended Data](ext_articles/5175e23f.ext.json)
 
 ---
 
@@ -98,24 +676,6 @@ Also, many monkeys and mice affected by Siplis were identified by tests conducte
 [Data](articles/54c78270.json)
 
 [Extended Data](ext_articles/54c78270.ext.json)
-
----
-
-### Explosive incident in a dilapidated house in Kilinochchi: two injured
-
-*2025-09-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226407) · `ta`
-
-Two people were injured in an explosion inside a dilapidated house in Kilinochchi.
-
-Two people who went to renovate a dilapidated house were injured when they were doing their job.
-
-Both injured have been admitted to the Kilinochchi Hospital for emergency treatment during the explosion.
-
-◼️
-
-[Data](articles/f0bb3f5e.json)
-
-[Extended Data](ext_articles/f0bb3f5e.ext.json)
 
 ---
 
@@ -187,6 +747,28 @@ The minister said to the people and an independent public service.
 
 ---
 
+### දේශපාලන ගැති රාජ්‍ය සේවය අවසන්
+
+*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දශපලන-ගත-රජය-සවය-අවසන/101-680419) · `si`
+
+ජනතාවට නිසි පරිදි සේවය සපයන ස්වාධීන හා කාර්යක්ෂම රාජ්‍ය සේවාවක් ඇති කිරීම රජයේ අරමුණ බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය පැවැසුවාය.
+
+ජනතාව වෙනුවෙන් කැපවූ කාර්යක්ෂම රාජ්‍ය සේවයක් තුලින් රට සංවර්ධනය කිරීමේ කාර්යභාරයට එකතු⁣වන ලෙසද අග්‍රාමාත්‍යවරිය ඉල්ලා සිටියාය.
+
+කළමනාකරණ සේවයේ III වන ශේණියට බඳවා ගැනීම සඳහා පැවති විවෘත තරඟ විභාගයෙන් සමත්ව සම්මුඛ පරීක්ෂණයෙන් තෝරාගත් නිලධාරීන් 1890 දෙනකුට පත්වීම් ලබා දීම වෙනුවෙන් අරලියගහ මන්දිරයේ අද (29)  පැවති උත්සවය අමතමින් අග්‍රාමාත්‍යවරිය මේ බව  සඳහන් කළාය.
+
+මෙහිදී අදහස් දැක් වූ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය මෙසේද කීවාය.
+
+"ඔබ ඇතුලත් වෙන්නේ සාම්ප්‍රදායික රාජ්‍ය සේවයක් වෙනුවෙන් නොවන බව මතක් කරන්න කැමතියි.  මෙතෙක් කලක් පැවති අකාර්යක්ෂම හා දේශපාලන ගැති රාජ්‍ය සේවයකට නෙමෙයි ඔබ ඇතුලත් වෙන්නේ.
+
+ජනතාව වෙනුවෙන් පෙනී සිටින, ස්වාධීන රාජ්‍ය සේවයකටයි යනුවෙන් ද අමාත්‍යවරිය කීවාය.
+
+◼️
+
+[Data](articles/af38b336.json)
+
+---
+
 ### Bail for Amal Silva!
 
 *2025-09-29 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226413) · `ta`
@@ -221,7 +803,7 @@ The arrested former Western Provincial Council member Amal Silva was released on
 
 ### Politics won the Asian Cup final…! ; Both countries to take charge of
 
-*2025-09-29 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226410) · `ta`
+*2025-09-29 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226410) · `ta`
 
 The Indian team won the Asian Bowl in Dubai on Sunday in Dubai and won the Asian Cup for the ninth time. However, the fact that the two captains behaved during the prize giving have caused furious and anger among the cricket match enthusiasts.
 
@@ -292,6 +874,24 @@ When the Magistrate was produced before the court, the magistrate ordered him to
 [Data](articles/b5cbda01.json)
 
 [Extended Data](ext_articles/b5cbda01.ext.json)
+
+---
+
+### Two persons seriously injured in an explosion in Kilinochchi
+
+*2025-09-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113027/two-persons-seriously-injured-in-an-explosion-in-kilinochchi) · `en`
+
+Two individuals sustained serious injuries following an explosion in Thattuvankotti, Kilinochchi this morning (29).
+
+The incident occurred when the two individuals, engaged in excavation work at an abandoned house, accidentally triggered a buried bomb that detonated while they were working.
+
+The two injured individuals have been admitted to the Kilinochchi Hospital for emergency treatment.
+
+◼️
+
+[Data](articles/467a5be2.json)
+
+[Extended Data](ext_articles/467a5be2.ext.json)
 
 ---
 
@@ -383,17 +983,33 @@ The other charge against him was the other accusation against him. He welcomed t
 
 ---
 
-### මෙරට  පොත් කියවීම ගැන නිසි  දත්ත   සමික්ෂණයක් තවමත් සිදුවෙලා නෑ
+### මන්ත්‍රී අර්චුනාට ඇප
+
+*2025-09-29 14:38:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනතර-අරචනට-ඇප/101-680418) · `si`
+
+පොලිස් නිලධාරියකුගේ රාජකාරියට සාපරාධී බලහත්කාර පෑම ඇතුළු චෝදනා දෙකක් යටතේ අත්අඩංගුවට ගත් පාර්ලිමේන්තු මන්ත්‍රි වෛද්‍ය රාමනාදන් අර්චුනා රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හරින්නැයි කොටුව මහේස්ත්‍රාත් ඉසුරු නෙත්තිකුමාර මහතා නියෝග කළේය.
+
+අනතුරු සහිත ස්ථානයක මෝටර් රථය නතර කිරීම ඔහුට එරෙහි අනෙක් චෝදනාව විය. එම චෝදානාවට ඔහු අධිකරණයේදී වරද පිළිගත්තේය. අනෙක් චෝදනාවට ඉදියේදී  චෝදනා ගොනු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/96469bf9.json)
+
+---
+
+### Proper database has not yet been taken regarding reading of Sri Lankan books
 
 *2025-09-29 14:38:34* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-පත-කයවම-ගන-නස-දතත-සමකෂණයක-තවමත-සදවල-න/26-680417) · `si`
 
-2004 වසරේ සිට සෑම වර්ෂයකම ඔක්තෝබර් මාසය ජාතික කියවීමේ මාසය ලෙස රජය මගින් ප්‍රකාශයට පත් කර ඇත. ඒ අනුව 2025 වසරට සමගාමීව  “ පුනරුදයක් සඳහා කියවමු" (Let's read for a revival) යන තේමාව පදනම් කර ගනිමින් මෙම වසරේ ජාතික කියවීමේ මාසය තුළ වැඩසටහන් ක්‍රියාත්මක වේ.
+Since 2004, the month of October has been declared as a National Reading Month. Accordingly, the theme of the theme of 2025 is based on the National Reading Month of this year, based on the theme of the year.
 
-එමෙන්ම ජාතික කියවීමේ මාසය ඔක්තෝබර් මාසයට යෙදී තිබේ.   ඊට සමගාමීව ඔක්තෝබර්  මාසයේ දී  පාසල් පුස්තකාල දිනය සහ පුස්තකාල සතිය යෙදී තිබේ. පාසල් පුස්තකාල සතිය යෙදී ඇත්තේ සෑම වසරකම ඔක්තෝබර් මාසයේ අවසාන සතියේ වන අතර එම සතියේ සදුදා දිනය පාසල් පුස්තකාල දිනය ලෙස ජාතික වශයෙන් පිළිගෙන ඇත. ඒ අනුව 2025 වර්ශයේ  ඔක්තෝබර් 27 සදුදා සිට ඔක්තෝම්බර් 31වැනිදා  දක්වා පාසල් පුස්තකාල සතියද ක්‍රියාත්මක වීමට නියමිතය. “ පොත් කියවමු - ලොව ජය ගනිමු “ යන තේමාව ඔස්සේ එය පාසල් තුළ  සැමරීනට නියමිතය. සමස්ථ සමාජයේ ම පොත් කියවීමේ ප්‍රගමනයේ ආරම්භය  ඇතිවන්නේ පාසල තුලිනි. එම නිසා පාසල් දුවා දරුවන් සදහා පොත පත කියවීමේ වැදගත්කම , පුස්තකාල භාවිතයේ වැදගත්කම  පිළිබදව  ඔවුනට අවබෝධයක් ලබා දීමද ඉතාම වටිනා කටයුත්තකි.
+The National Reading Month is on October.   Concurrently, in October, school library date and library web have been engaged in. School Library Week is the last week of October every year and Monday is the school library day. Accordingly, the year 2025 will be operated from Monday, October 27 to October 31st. It is to be celebrated in schools through the theme "Let's Read Books". The beginning of the entire society is the beginning of the school. Therefore, the importance of reading the book for schools is a valuable activity to read the importance of the book.
 
 ...
 
 [Data](articles/23b69c1c.json)
+
+[Extended Data](ext_articles/23b69c1c.ext.json)
 
 ---
 
@@ -448,6 +1064,28 @@ He pointed to the absence of policy direction, integrity, and respect for law, n
 [Data](articles/1a1af46b.json)
 
 [Extended Data](ext_articles/1a1af46b.ext.json)
+
+---
+
+### MP Ramanathan Archchuna granted bail
+
+*2025-09-29 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113026/mp-ramanathan-archchuna-granted-bail) · `en`
+
+Jaffna District Member of Parliament Dr. Ramanathan Archchuna, who was arrested earlier today (29) has been granted bail.
+
+He was released on two surety bails amounting to Rs.1 million each by the Colombo Fort Magistrate, Ada Derana reporter said.
+
+MP Archchuna was arrested this morning when he arrived at the Fort Police Station to record a statement.
+
+During a recent Satyagraha held in Colombo, the MP was seen allegedly arguing with a police officer on duty from the Fort Police.
+
+He was taken into custody this morning in connection with an investigation on charges of obstructing police duty.
+
+◼️
+
+[Data](articles/9908884f.json)
+
+[Extended Data](ext_articles/9908884f.ext.json)
 
 ---
 
@@ -748,6 +1386,22 @@ Two persons who went to excavation work in a dilapidated house continued their w
 [Data](articles/63130853.json)
 
 [Extended Data](ext_articles/63130853.ext.json)
+
+---
+
+### Bomb blast in Kilinochchi: two injured
+
+*2025-09-29 13:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கிளிநொச்சியில்-குண்டு-வெடிப்பு-இருவர்-படுகாயம்/150-365478) · `ta`
+
+A bomb blast took place at 11:30 am this morning at the Kilinochchi Tattuvan Kotte.
+
+Two persons who went to excavation work in a dilapidated house continued their work.
+
+◼️
+
+[Data](articles/6b74a1ed.json)
+
+[Extended Data](ext_articles/6b74a1ed.ext.json)
 
 ---
 
@@ -1302,623 +1956,5 @@ Rameshkumar's sister, Rohit Sharma, reported to the Thiruverumbur police.. The p
 [Data](articles/b1c173d6.json)
 
 [Extended Data](ext_articles/b1c173d6.ext.json)
-
----
-
-### Land decline in the construction work in Mawanella; Another worker's body recovery!
-
-*2025-09-29 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226391) · `ta`
-
-The bodies of two workers who were trapped in the soil were recovered after the soil collapsed at the Mawanella -Manikawa area, police said.
-
-The bodies of two workers were first recovered as the rescue of workers in the soil.
-
-The other worker who was trapped in the soil was also recovered shortly before, police said.
-
-◼️
-
-[Data](articles/bb17531e.json)
-
-[Extended Data](ext_articles/bb17531e.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2025-09-29 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226390) · `ta`
-
-The Central Bank of Sri Lanka (Central Bank) today (29), the US dollar sales price was Rs 306.2965 and the purchase price was Rs 298.7693.
-
-The sales price of a Srealing pound is Rs 412.6875 and the purchase price is Rs 400.0620.
-
-The sales price of the euro is Rs 360.5693 and the purchase price is Rs 348.9920.
-
-Accordingly, the information issued by the Central Bank of India today (29.09.2025) on other foreign currency exchange rates has been issued.
-
-◼️
-
-[Data](articles/9e524a2d.json)
-
-[Extended Data](ext_articles/9e524a2d.ext.json)
-
----
-
-### 15 children escaped from the barrier center
-
-*2025-09-29 12:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பு-மையத்திலிருந்து-15-சிறார்கள்-தப்பினர்/175-365471) · `ta`
-
-15 children have fled from the Magola Children's Prevention Center, which is under the control of the Department of Probation and Children's Protection.
-
-The police said that these children were detained on various crimes and are being investigated in several courts including Mahara, Colombo, Maliganda and Kaduwela.
-
-These children are children from different parts of the Western Province and are aged 16 and 17 years old.. The detention center has 52 children, police said.
-
-The children fled the window and door of the two rooms where the children were detained at around 12 midnight on the 27th and two guards were on duty.
-
-◼️
-
-[Data](articles/5e53f05c.json)
-
-[Extended Data](ext_articles/5e53f05c.ext.json)
-
----
-
-### Sale of rice at a higher price than the control price; Consumer Affairs Authority test at 105 business centers
-
-*2025-09-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226381) · `ta`
-
-Over the past two weeks, the Consumer Affairs Authority (CAA) has tested 105 businesses for selling rice at a higher price than the government -imposed prices.
-
-The Authority has also announced that legal action will be taken against vendors who have sold rice at high prices.
-
-The Consumer Affairs Authority has also urged that strict legal action will be taken against anyone who sells rice more than the fixed price.
-
-If a separate owner is found to be involved in such a crime, the owner can be fined Rs.
-
-At the same time, if a private company is found to be sold at a higher price than the control price, the court is Rs. 5 lakh to Rs.. The Authority said the fine can be imposed up to Rs 50 lakh.
-
-In cases of hidden rice, the court has the power to confiscate the relevant items and impose fines, imprisonment or both.
-
-At the same time, the Consumer Affairs Authority has conducted more than three thousand tests related to rice during this year.
-
-...
-
-[Data](articles/f145d8fd.json)
-
-[Extended Data](ext_articles/f145d8fd.ext.json)
-
----
-
-### The bus that was traveling to Jaffna escaped: 28 people escaped
-
-*2025-09-29 12:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/யாழுக்கு-பயணித்த-பேருந்து-தப்பியது-28-பேரும்-தப்பினர்/76-365470) · `ta`
-
-A private bus traveling from Nuwara Eliya to Jaffna has crashed into a mud area in the Valappanai area, police said.
-
-The accident occurred in the Maha Uva area of ​​the main road of Nuwara Eliya-Valappanai.
-
-The street has a steep collapse, which has caused many accidents in the Maha Uva curve, so the Road Development Authority has set up a safety mud in the steep collapse, causing the bus to crash into the mud and crashed into the mud.
-
-The bus, which was traveling to Nuwara Eliya, loaded 28 people from Jaffna and returned to Jaffna.
-
-Valappanai police said that no one was injured in the accident and the passengers on the accident had gone on an alternative bus from Jaffna.. The bus was severely damaged.
-
-◼️
-
-[Data](articles/b3c70ab0.json)
-
-[Extended Data](ext_articles/b3c70ab0.ext.json)
-
----
-
-### 'Skepticism Is Key to Ethical AI' - Sri Lanka's PM
-
-*2025-09-29 12:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/skepticism-is-key-to-ethical-ai-sri-lanka-s-pm) · `en`
-
-...
-
-[Data](articles/c7f8ab18.json)
-
-[Extended Data](ext_articles/c7f8ab18.ext.json)
-
----
-
-### Recovery as corpses in Mawanella
-
-*2025-09-29 12:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாவனெல்லையில்-மூவரும்-சடலங்களாக-மீட்பு/76-365469) · `ta`
-
-A group of workers who were working on the wall of the wall on Monday (29) in the Mawanella, Aluthnuwara and Manikawa area collapsed.
-
-Rescue operations have been initiated to rescue those who have been trapped under the wreckage. Emergency groups and locals are currently involved in this effort. However, they have been recovered as corpses.
-
-◼️
-
-[Data](articles/f475da24.json)
-
-[Extended Data](ext_articles/f475da24.ext.json)
-
----
-
-### President Anura Kumara to meet Japanese PM Shigeru Ishiba today
-
-*2025-09-29 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113019/president-anura-kumara-to-meet-japanese-pm-shigeru-ishiba-today) · `en`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, is scheduled to meet Japanese Prime Minister Shigeru Ishiba at the Prime Minister’s Office in Tokyo today (29).
-
-The discussions are expected to focus on a wide range of areas, including the economy, investment, development cooperation, and security, the President’s Media Division said.
-
-Joining the President at the talks will be Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Chief Advisor to the President on Digital Economy Dr. Hans Wijeyasuriya, Senior Economic Advisor to the President Duminda Hulangamuwa, along with a delegation of senior officials from the Ministry of Foreign Affairs.
-
-The President is scheduled to conclude his official visit to Japan tomorrow.
-
-◼️
-
-[Data](articles/fe8d21f4.json)
-
-[Extended Data](ext_articles/fe8d21f4.ext.json)
-
----
-
-### Land decline in the construction work in Mawanella; The bodies of two workers are recovered!
-
-*2025-09-29 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226386) · `ta`
-
-The bodies of two workers who were trapped in the soil have been recovered as the soil collapsed at the Mawanella -Manikawa area.
-
-The bodies of two of them have been recovered, while three workers were reportedly trapped in the soil, police said.
-
-Police said the rescue of the other worker trapped in the soil is underway.
-
-◼️
-
-[Data](articles/3a1a8f5e.json)
-
-[Extended Data](ext_articles/3a1a8f5e.ext.json)
-
----
-
-### Mathisha Hewavitharana to head Sri Lanka’s Siyapatha Finance
-
-*2025-09-29 11:55:00* · [`economynextcom`](https://economynext.com/mathisha-hewavitharana-to-head-sri-lankas-siyapatha-finance-242118/) · `en`
-
-ECONOMYNEXT – Mathisha Bhadrika Don Hewavitharana will become chief executive officer of Siyapatha Finance PLC, with effect from October 1, the company said.
-
-Hewavitharana currently serves as the chief strategy officer of Siyapatha Finance, a subsidiary of Sampath Bank.
-
-A brief profile of Hewavitharana, as provided by the finance company, follows:
-
-Mr. Mathisha Hewavitharana possesses over 20 years of extensive experience in the financial services industry, having commenced his professional journey in 2005 at Siyapatha Finance PLC. His career has encompassed a wide array of functional areas, including Marketing, Credit, Branch Operations, Branding and Marketing Communications, Product and Business Development, and Strategic Planning and Execution.
-
-...
-
-[Data](articles/0a8442be.json)
-
-[Extended Data](ext_articles/0a8442be.ext.json)
-
----
-
-### Bodies of all three persons found in Mawanella bund collapse
-
-*2025-09-29 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113018/bodies-of-all-three-persons-found-in-mawanella-bund-collapse) · `en`
-
-The bodies of all three individuals have been recovered after a mound of earth collapsed onto workers at a construction site in Manikkawa, Mawanella.
-
-A group of workers were building a wall in Aluthnuwara, Mawanella, when a mound of earth collapsed onto them this morning (29).
-
-Rescue operations were carried out promptly to extricate the workers safely.
-
-However, according to Ada Derana reporter, the bodies of all three individuals have now been recovered.
-
-◼️
-
-[Data](articles/94b83d82.json)
-
-[Extended Data](ext_articles/94b83d82.ext.json)
-
----
-
-### “Digital Transformation Depends on People” - PM
-
-*2025-09-29 11:53:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/%e2%80%9cdigital-transformation-depends-on-people%e2%80%9d-pm) · `en`
-
-...
-
-[Data](articles/ceeac294.json)
-
-[Extended Data](ext_articles/ceeac294.ext.json)
-
----
-
-### Youth arrested with drugs and weapons
-
-*2025-09-29 11:52:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-மற்றும்-ஆயுதங்களுடன்-இளைஞன்-கைது/175-365468) · `ta`
-
-A 24 -year -old man was arrested on Sunday (28) in the Kottawa area.
-
-According to the police, the suspect was arrested during a raid conducted by the Police Special Forces (STF), which was found to have 75.4 grams of heroin.
-
-Police seized 458 living ammunition, one T-56 Magasin, 30 fake vehicle plates, 15 revenue licenses, 15 insurance documents and two mobile phones.
-
-He has been handed over to the Western Province Southern District Crime Branch and they are conducting further investigations.
-
-◼️
-
-[Data](articles/eed19599.json)
-
-[Extended Data](ext_articles/eed19599.ext.json)
-
----
-
-### President meets Japanese Prime Minister today
-
-*2025-09-29 11:51:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-අද-ජපන-අගමත-හමවය/1-680402) · `si`
-
-President Anura Kumara Dissanayake is scheduled to hold talks at the Japanese Prime Minister's Office today (29) at the Japanese Prime Minister's Office today (29).
-
-The two countries will focus on the fields, investment, investment cooperation and security of the two countries.
-
-Dr. Hans Wijayasuriya of Foreign Affairs and Tourism and Tourism, Dr. Hans Wijayasuriya, Presidential Economic Advisor to the President and the Ministry of External Affairs will participate in these discussions.
-
-◼️
-
-[Data](articles/816a1d30.json)
-
-[Extended Data](ext_articles/816a1d30.ext.json)
-
----
-
-### President meets Japanese Prime Minister today
-
-*2025-09-29 11:51:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-අද-ජපන-අගමත-හමවය/101-680402) · `si`
-
-President Anura Kumara Dissanayake is scheduled to hold talks at the Japanese Prime Minister's Office today (29) at the Japanese Prime Minister's Office today (29).
-
-The two countries will focus on the fields, investment, investment cooperation and security of the two countries.
-
-Dr. Hans Wijayasuriya of Foreign Affairs and Tourism and Tourism, Dr. Hans Wijayasuriya, Presidential Economic Advisor to the President and the Ministry of External Affairs will participate in these discussions.
-
-◼️
-
-[Data](articles/efc88a45.json)
-
-[Extended Data](ext_articles/efc88a45.ext.json)
-
----
-
-### Highs of living standards of every citizen
-
-*2025-09-29 11:50:16* · [`adalk`](https://www.ada.lk/breaking_news/සෑම-පුරවැසියෙකුගේම-ජීවන-තත්ත්වය-උසස්-කරනවා/11-418784) · `si`
-
-The first task of his Japanese visit to the Sri Lanka Day Celebration at the Expo 2025 Exhibition in Osca, Japan, Japan.
-
-The Sri Lanka Day Cultivation of the Sri Lanka Tourism Promotion Bureau and the Sri Lankan Embassy in Japan, the Sri Lankan Day Cultural Embassy, ​​which reflects the Sri Lankan identity, and a large number of foreigners were gathered to watch the Cultural Festival.
-
-Minister Anura Kumara Dissanayake addressing the House, Sri Lanka is now a crucial moment on its economic journey, Sri Lanka is now rebuilding a sustainable and participatory economy. The President said that the benefits of this development were broadly shared and the prosperity of the prosperity of every citizen would be exalted.
-
-The President also said that Sri Lanka has created a global platform for a bright future based on its culture, innovation and human values ​​based on the 2025 Expo.
-
-...
-
-[Data](articles/91cd8b61.json)
-
-[Extended Data](ext_articles/91cd8b61.ext.json)
-
----
-
-### 35 drivers arrested for driving in liquor
-
-*2025-09-29 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226384) · `ta`
-
-About 5,451 people have been arrested during a special roundup held on Sunday (28) across the country, the police media unit said.
-
-பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
-
-During the special raid, 694 persons were arrested in connection with various crimes, 26 on suspicion, 278 persons who had been issued, 173 were issued, 35 drivers, 35 drivers in connection with the payment of liquor, and 16 drivers in connection with the transportation regulations.
-
-◼️
-
-[Data](articles/c87b9fb6.json)
-
-[Extended Data](ext_articles/c87b9fb6.ext.json)
-
----
-
-### Complaint about the salary of NPP MPs
-
-*2025-09-29 11:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-எம்-பிக்களின்-சம்பளம்-குறித்து-முறைப்பாடு/175-365467) · `ta`
-
-Pivithuru JHU leader Udaya Kammanpila today lodged a complaint with the Commission to Investigate Bribery and Corruption, claiming that government MPs would return their monthly salary to political activities.
-
-Speaking to the media after lodging a complaint, Kammanpila said that MPs cannot spend their allowances at their own wishes.
-
-“159 government MPs collectively Rs.. It is more than 30 million and the party's funding for political purposes is to misuse public funds, ”he said.
-
-Kammanpila added that the funds are being used to pay the party -related costs, including telephone bills, fuel and office maintenance, before being used for political activities.
-
-“It is 159 MPs and the president of Rs. Rs.. "It is equivalent to misuse more than 30 million," he added.
-
-◼️
-
-[Data](articles/6e7555f0.json)
-
-[Extended Data](ext_articles/6e7555f0.ext.json)
-
----
-
-### මාවනැල්ලේ දී පස් කන්දකට යට වූ තිදෙනාගේම සිරුරු සොයා ගනී
-
-*2025-09-29 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215129) · `si`
-
-The bodies were recovered from the three, submerged in Mawanella.
-
-There was a mound of five milestone on a group of workers in Mawanella, Aluthnuwara and Menikkawa area.
-
-According to our correspondent, we were able to rescue the bodies of the three of them so far.
-
-◼️
-
-[Data](articles/75a1e7dc.json)
-
-[Extended Data](ext_articles/75a1e7dc.ext.json)
-
----
-
-### Earthslip Claims Two Lives, One Still Missing
-
-*2025-09-29 11:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/earthslip-claims-two-lives-one-still-missing) · `en`
-
-COLOMBO (News 1st); An earthslip struck the Aluthnuwara area of Mawanella early this morning, claiming the lives of two individuals and leaving one more still missing beneath the debris.The incident occurred near a residential site where three workers were engaged in construction activities. Without warning, a large mass of earth collapsed, burying the men under tons of soil.Police and local residents immediately launched a rescue operation, successfully recovering the bodies of two victims.Efforts are ongoing to locate the third individual.
-
-◼️
-
-[Data](articles/55d3c466.json)
-
-[Extended Data](ext_articles/55d3c466.ext.json)
-
----
-
-### Bodies of two persons recovered in Mawanella bund collapse
-
-*2025-09-29 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113017/bodies-of-two-persons-recovered-in-mawanella-bund-collapse) · `en`
-
-The bodies of two individuals have been found after a mound of earth collapsed onto workers at a construction site in Manikkawa, Mawanella.
-
-According to police at least three workers at the site when the incident occurred.
-
-An operation was launched earlier today to extricate the individuals safely.
-
-◼️
-
-[Data](articles/fad1c7ff.json)
-
-[Extended Data](ext_articles/fad1c7ff.ext.json)
-
----
-
-### China's Ex-Agriculture Minister Sentenced To Death, With Two-Year Reprieve
-
-*2025-09-29 11:36:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/china-s-ex-agriculture-minister-sentenced-to-death-with-two-year-reprieve) · `en`
-
-(Xinhua) -- Tang Renjian, former minister of agriculture and rural affairs of China, was on Sunday (28) handed the death penalty with a two-year reprieve for taking massive bribes.
-
-Tang, also a former secretary of the agricultural ministry's leading Party members group, has been deprived of his political rights for life, while all of his personal property will be confiscated and his illegal gains from bribery will be recovered and turned over to the national treasury, according to the verdict issued by the Intermediate People's Court of Changchun in northeast China's Jilin Province.
-
-The court stated that between 2007 and 2024, Tang took undue advantage of his various positions at both central and local levels to assist others in matters such as business operation, project contracting and job adjustment. In exchange, he accepted money and valuables totaling over 268 million yuan (about 38 million U.S. dollars).
-
-...
-
-[Data](articles/0edec88b.json)
-
-[Extended Data](ext_articles/0edec88b.ext.json)
-
----
-
-### President meets Japanese Prime Minister today
-
-*2025-09-29 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215128) · `si`
-
-President Anura Kumara Dissanayake is conducting an official visit to Japan today (29) at the Japanese Prime Minister's Office today (29).
-
-The two countries will focus on the fields, investment, investment cooperation and security of the two countries.
-
-මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ ප්‍රධාන ජනාධිපති උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ජනාධිපති ජ්‍යෙෂ්ඨ ආර්ථික උපදේශක දුමින්ද හුලංගමුව යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීන් පිරිසක් සහභාගී වීමට නියමිතය.
-
-◼️
-
-[Data](articles/b0951e06.json)
-
-[Extended Data](ext_articles/b0951e06.ext.json)
-
----
-
-### Trader arrests with high ice drugs
-
-*2025-09-29 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226380) · `ta`
-
-Kattankudy police said that a famous drug dealer has been arrested in Kattankudi area in Batticaloa.
-
-The suspect was 29 -year -old from Muslim Colony and 51 grams of ice was seized from him.
-
-Kattankudy police said that this is the traumatic ice drug seized in the Eastern Province.
-
-Investigations by the police have revealed that the Ice drug has been brought to Kattankudi from the Muslim Colony area to Kattankudi.
-
-Kattankudy police said the drug seized by the police was worth about Rs 17 lakh.
-
-◼️
-
-[Data](articles/065fb0c4.json)
-
-[Extended Data](ext_articles/065fb0c4.ext.json)
-
----
-
-### 15 boys flee from children's center
-
-*2025-09-29 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226383) · `ta`
-
-Sabugaskanda police said that 15 children have fled the Magola Children's Center headed by the Department of Probation and Child Care Services.
-
-The boys aged 16 and 17 have escaped, police said.
-
-The boys fled the children's center around 12 midnight on the 27th, police said.
-
-Police investigations revealed that the children who escaped were detained at the Children's Center under a court order.
-
-Police investigations have revealed that a case is being filed against these children in the Kandy, Colombo, Malikaganda and Kaduwela courts.
-
-◼️
-
-[Data](articles/37a48803.json)
-
-[Extended Data](ext_articles/37a48803.ext.json)
-
----
-
-### The mudslide collapse at the site of construction work in Mawanella
-
-*2025-09-29 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226377) · `ta`
-
-At least three workers are reportedly trapped in the mudslide collapse at the Mawanella -Manikawa area.
-
-◼️
-
-[Data](articles/5e28a3c3.json)
-
-[Extended Data](ext_articles/5e28a3c3.ext.json)
-
----
-
-### The bodies of the three subscribed to the mountain
-
-*2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-තිදෙනාගේම-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
-
-(Update) 12.35 p.m. The bodies of the three workers who were subjected to the crash of a wall of Mawanella have collapsed on a wall of paniclat.
-
-11.54 A.M. The bodies of two workers who were subjected to a wall of Mawanella and a wall of the land of Menikka have been recovered from the crash.
-
-11.24 A mound has collapsed on a group of workers who were in the Menikka area in the Manikka area. They have begun rescue work. About three workers were serving as the accident occurred.
-
-◼️
-
-[Data](articles/473cf26d.json)
-
-[Extended Data](ext_articles/473cf26d.ext.json)
-
----
-
-### The bodies of two of two flooding on the mound
-
-*2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-දෙදෙනෙකුගේ-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
-
-11.54 A.M. The bodies of two workers who were subjected to a wall of Mawanella and a wall of the land of Menikka have been recovered from the crash.
-
-11.24 A mound has collapsed on a group of workers who were in the Menikka area in the Manikka area. They have begun rescue work. About three workers were serving as the accident occurred.
-
-◼️
-
-[Data](articles/7f0d6043.json)
-
-[Extended Data](ext_articles/7f0d6043.ext.json)
-
----
-
-### Tissani Perera from us to the world of 2025
-
-*2025-09-29 11:26:41* · [`adalk`](https://www.ada.lk/breaking_news/2025-ලෝක-රූ-රැජිනට-ටිෂානි-පෙරේරා-අපෙන්/11-418782) · `si`
-
-Tishani Perera departed from Sri Lanka to attend the 12th World Queen of Thailand.
-
-The tournament is a tournament of the world's leading queen, which will be held in Bangkok from Thailand from 09/30 to 10/130 to 10/18.
-
-Tishani Perera at 01.30 am on SriLankan Airlines on 01.30 am, SriLankan Airlines UL. The flight held on the 402-owned aircraft left for Bangkok, Thailand.
-
-Tishani Perera won the final of the Sri Lankan robbery in Mount Lavinia Hotel on the 9/24 of the last major competition.
-
-Tissani Perera's parents, relatives and national coach for the match of the Queen of the Queen Tissani Perera were also present at the Katunayake Airport. (I J)
-
-◼️
-
-[Data](articles/5f70aa87.json)
-
-[Extended Data](ext_articles/5f70aa87.ext.json)
-
----
-
-### The challenge of getting investors
-
-*2025-09-29 11:24:52* · [`lankadeepalk`](https://www.lankadeepa.lk/monday_meeting/ආයජකයන-ගනව-ගනම-අභයගය/118-680401) · `si`
-
-"These reforms are essential in accordance with world standards of labor laws. Our hope is a legal framework for the protection, productivity of labor rights and improving investment in the Sri Lankan economy. "
-
-Deputy Minister of Labor Mahinda Jayasinghe told the media about a month ago. He further emphasized that the proposed amendments are prepared to reflect the modern economic reality in accordance with the Statutes of the International Labor Organization Statutes.
-
-The JVP / Mass the JVP will tell us a year review of the government's revival of the government, no matter how the one says, he must ask the minds of the mind. If the Deputy Minister of Labor / Company is recommended to amend the JVP / Company, the Good Governance of Minister Malik Samarawickrema, is the pioneer of the Minister of Labor and Specialist in 2017.
-
-...
-
-[Data](articles/6248e01f.json)
-
-[Extended Data](ext_articles/6248e01f.ext.json)
-
----
-
-### The challenge of getting investors
-
-*2025-09-29 11:24:52* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ආයජකයන-ගනව-ගනම-අභයගය/2-680401) · `si`
-
-"These reforms are essential in accordance with world standards of labor laws. Our hope is a legal framework for the protection, productivity of labor rights and improving investment in the Sri Lankan economy. "
-
-Deputy Minister of Labor Mahinda Jayasinghe told the media about a month ago. He further emphasized that the proposed amendments are prepared to reflect the modern economic reality in accordance with the Statutes of the International Labor Organization Statutes.
-
-The JVP / Mass the JVP will tell us a year review of the government's revival of the government, no matter how the one says, he must ask the minds of the mind. If the Deputy Minister of Labor / Company is recommended to amend the JVP / Company, the Good Governance of Minister Malik Samarawickrema, is the pioneer of the Minister of Labor and Specialist in 2017.
-
-...
-
-[Data](articles/a8f16a2f.json)
-
-[Extended Data](ext_articles/a8f16a2f.ext.json)
-
----
-
-### The actress who refused to play Rajinikanth, not two times ...
-
-*2025-09-29 11:24:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ரஜினிகாந்துடன்-நடிக்க-ஒன்றல்ல-இரண்டல்ல-4-முறை-மறுத்த-நடிகை-யார்-தெரியுமா/54-365465) · `ta`
-
-Needless to say about superstar Rajinikanth. Has been working in the film industry for more than 50 years. He has fans all over India. He was a normal bus operator and entered the film world with his interest in acting and is currently in the title of 'superstar'.
-
-In 1975, K.. Rajinikanth, who entered the film industry through Balasandar directed 'Ariparupa Ragas'. At the beginning of the cinema, Rajinikanth often played negative roles.
-
-Later, he started acting as a hero with the film 'Kavikkuil'. Has acted in more than 100 films so far. He has acted in many languages ​​including Tamil, Telugu, Kannada and Hindi.
-
-Rajinikanth's recent movie 'Kuli' directed by Lokesh Kanakaraj has been well received. He is currently working on the film Jailor 2.
-
-Do you know that an actress has rejected him, while many actresses are waiting for the opportunity to play Rajini?. Yes, not one, not two 4 times the actress has rejected. He is no one else, actress Aishwarya Rai,
-
-...
-
-[Data](articles/82538390.json)
-
-[Extended Data](ext_articles/82538390.ext.json)
-
----
-
-### Tajuddin's death: family emphasizes new investigation
-
-*2025-09-29 11:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீனின்-மரணம்-புதிய-விசாரணைக்கு-குடும்பத்தினர்-வலியுறுத்தல்/175-365464) · `ta`
-
-The family of the late Sri Lankan rugby player Wasim Tajuddin has urged the government led by Anura Kumara Dissanayake to investigate his death again.. They have been denied justice for more than 13 years.
-
-Speaking to the media, Tajuddin's uncle recalled that the family was told that Tajuddin had died in a car accident during the incident in May 2012.
-
-“When I went to the scene, he was in the passenger's seat and the vehicle had only had much damage. Surprisingly, someone may have died in such an accident, ”he said.
-
-He added that the initial report at the time had decided that Tajuddin was driving fast and drunkenly, and that he died of breathing of smoke from the accident.
-
-◼️
-
-[Data](articles/d8840ea9.json)
-
-[Extended Data](ext_articles/d8840ea9.ext.json)
 
 ---

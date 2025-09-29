@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 05:20:40**
+As of **2025-09-29 05:57:43**
 
 ## Newspaper Stats
 
-*Scraped **79,305** Articles*
+*Scraped **79,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ newsfirstlk | 460
 dbsjeyarajcom | 635
 bbccomsinhala | 706
 colombotelegraphcom | 798
-economynextcom | 4,733
 dailymirrorlk | 4,733
+economynextcom | 4,734
 islandlk | 4,828
 dailyftlk | 5,565
 adalk | 7,642
@@ -27,57 +27,93 @@ adaderanasinhalalk | 13,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,302 (100.0%) of 79,305 articles have been extended.
+79,306 (100.0%) of 79,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
 
-### தியாக தீபம் திலீபன் நினைவேந்தல் துண்டுப் பிரசுரம் சம்பவத்துக்கும் எமக்கும் தொடர்பில்லை ; எங்கள் மீது கஜேந்திரர் அணி சேறு பூசுகின்றனர் - இராமலிங்கம் சந்திரசேகர்
+### Sri Lanka budget deficit down 55-pct in August amid tax inflows, moderate capex
+
+*2025-09-29 05:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-55-pct-in-august-amid-tax-inflows-moderate-capex-242067/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit fell to 411 billion rupees in August 2025, down 55 percent from a year earlier, amid a 30.7 percent rise in taxes and slower capital expenditure, official data show.
+
+Tax revenues grew to 3,068.5 billion rupees, from 2,348.5 billion rupees and current spending also grew by a double-digit 11.2 percent to 3,381 billion rupees.
+
+Sri Lanka has public sector bloated by unemployed graduates and salaries eat up a large volume of taxes, though nominal wage levels fell after recent currency crises and they now have to be increased. A salary hike was given this year.
+
+Central bank wages have been steeply increased amid criticism as it was responsible for high level of inflation and open market operations, which critics hold out as the height of unaccountability.
+
+Central bank wages are not directly seen in the budget, but is an item that affect non-tax revenues.
+
+...
+
+[Data](articles/66647f71.json)
+
+[Extended Data](ext_articles/66647f71.ext.json)
+
+---
+
+### The sacrificial torch Dileepan is not related to the incident; Gajendra team is muddy on us -Ramalingam Chandrasekhar
 
 *2025-09-29 04:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226361) · `ta`
 
-தியாக தீபம் திலீபனின் நினைவேந்தல் இறுதி நாளில் துண்டுப் பிரசுரங்களை விநியோகித்த சம்பவத்துக்கும் தேசிய மக்கள் சக்திக்கும் எவ்வித தொடர்பும் இல்லை என்று தெரிவித்த அக்கட்சியின் நிறைவேற்றுக் குழு உறுப்பினரும் அமைச்சருமான இராமலிங்கம் சந்திரசேகர், எங்கள் மீது கஜேந்திரர் அணி சேறு பூசுவதாக தெரிவித்தார்.
+Ramalingam Chandrasekhar, a member of the party's executive committee and minister, said the Gajendra team was muddy on us, saying that the sacrificial torch of Dileepan's commemoration on the last day of the pamphlets and the national people's power had nothing to do.
 
-யாழ்ப்பாணத்தில் ஞாயிற்றுக்கிழமை (28) ஊடகங்களுக்கு கருத்துத் தெரிவித்த போதே கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர் இதனை தெரிவித்தார்.
+Fisheries Minister Ramalingam Chandrasekhar made this statement while speaking to the media in Jaffna on Sunday (28).
 
-மேலும் தெரிவிக்கையில்,கடந்த ஒரு வார காலமாக திலீபன் நினைவேந்தல் நடைபெற்றது. அங்கு அனுஷ்டிப்பை செய்ய நாங்கள் சென்றபோது தடுக்கப்பட்டோம். அதன் பிறகு சில தினங்களுக்கு முன்னர் இறுதி நாள் நினைவேந்தல் நடந்து முடிந்தது. அன்று யாரோ ஒருவர் துண்டுப் பிரசுரங்களை விநியோகித்ததாகவும் அவர் மீது தங்கள் வன்முறையை கஜேந்திரர் அணி கையாண்டதாகவும் அதேபோன்று நியாயத்தன்மையை கேட்க சென்ற வேறு சிலரும் பல்வேறு இன்னல்கள் ஏற்பட்டதாகவும் தெரிவிக்கப்பட்டது.
+Dileepan Memorial has been held for the past one week. Was blocked when we went to perform the observance there. After that a few days ago, the last day of memory ended. It was reported that someone had distributed pamphlets on that day and that the Gajendra team had dealt with their violence against him, and some others who had gone to hear justice.
+
+The incident has nothing to do with the national people's power. There is no contribution in this. We don't have that downstream work. As a ruling party, we can take a different way if we want to take up the little ones. We do not do that iconic work.
 
 ...
 
 [Data](articles/cccddba1.json)
 
+[Extended Data](ext_articles/cccddba1.ext.json)
+
 ---
 
-### பாதாள குழுக்கள் – போதைப்பொருள் வலையமைப்பை ஒழிப்பேன் – ஜனாதிபதி
+### Underworld Groups - Eradication of Drug Network - President
 
 *2025-09-29 04:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226360) · `ta`
 
-பாதாள குழுக்கள் மற்றும் போதைப்பொருள் வர்த்தகர்களுக்காக செயற்பட்ட அரச நிர்வாக கட்டமைப்பை முழுமையாக இல்லாதொழிப்பேன். பல உண்மைகள் வெளிவரும் போது அரசியல்வாதிகள் பலர் கலக்கமடைந்துள்ளார்கள் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+I will completely eliminate the state administrative structure of the underworld groups and drug traders. President Anura Kumara Dissanayake said many politicians were disturbed when many facts were revealed.
 
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க ஞாயிற்றுக்கிழமை (28) பிற்பகல் ஜப்பானில் வசிக்கும் இலங்கை சமூகத்தினரை டோக்கியோவில் சந்தித்து உரையாடுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said this while addressing the Sri Lankan community living in Japan on Sunday (28) in Tokyo.
 
-சமூக கட்டமைப்பில் போதைப்பொருள் பாரியதொரு அழிவை ஏற்படுத்தியுள்ளது. இளைஞர் யுவதிகளில் பெரும்பாலானோர் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள். சிறைச்சாலைகளில் உள்ள கைதிகளில் பெரும்பாலானோர் போதைப்பொருள் மற்றும் அதனுடனான குற்றச்சாட்டுக்களுடன் தொடர்புப்பட்டுள்ளார்கள்.
+The drug has caused a massive destruction in the social structure. இளைஞர் யுவதிகளில் பெரும்பாலானோர் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள். Most of the prisoners in prisons are involved in drugs and accusations.
+
+The drug trade and the underworld groups are acting as a black kingdom. Negombo police and Tangalle police have been arrested in connection with the shooting incident within the Pudukkadai court.
+
+Army officers who sold arms to the underworld have now been arrested and the T56 guns have gone out of the military camps.
 
 ...
 
 [Data](articles/6f54e42b.json)
 
+[Extended Data](ext_articles/6f54e42b.ext.json)
+
 ---
 
-### ஐக்கிய தேசியக் கட்சியின் ஆண்டு நிறைவு – ‘நாட்டை ஒன்றிணைக்கும் உறவை தொடர வேண்டும்’ : தவிசாளர் வஜிர அபேவர்த்தன
+### United National Party (UNP)
 
 *2025-09-29 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226359) · `ta`
 
-நாட்டை ஐக்கியப்படுத்தும் நோக்கிலே  ஐக்கிய  தேசிய கட்சியின்  ஆண்டு நிறைவு விழாவை அனைவரையும் ஒன்றிணைத்துக்கொண்டு கொண்டாடினோம்.அந்த தொடர்புகளை நாங்கள் தொடர்ந்து முன்னெடுத்துச்செல்ல வேண்டும் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+The United National Party (UNP) Chairman Vajira Abeywardena said that we should continue to carry out those contacts.
 
-காலியில் அமைந்துள்ள ஐக்கிய தேசிய கட்சி காரியாலயத்தில் ஞாயிற்றுக்கிழமை (28)  இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking at a press conference held at the United National Party office in Galle on Sunday (28).
 
-அரசியல்வாதிகள் மற்றும் பிரபலங்களின் சொத்துகள் மற்றும் பொறுப்புக்கள் தொடர்பில் தேடிப்பார்க்கப்போவதாக  ஊடகங்களில் செய்தி வெளியிடப்பட்டிருந்தது. அதில் எனது பெயரும் தெவிக்கப்பட்டிருந்தது. எனது சொத்து மற்றும் பொறுப்புக்கள் தொடர்பில்  சுமார் 30 வருடங்களுக்கும் அதிக காலம்  சமர்ப்பித்திருக்கிறேன். இந்த சொத்து, மற்றும் பொறுப்புக்களை தேடிப்பார்க்கும் இந்த நடவடிக்கைக்கும் அப்பால் சென்று, தேடிப்பார்க்கும் பொறிமுறை ஒன்றை  ரணில் விக்ரமசிங்க ஜனாதிபதி பதவியில் இருக்கும், அரசாங்கத்தினால் அனுமதிக்கப்பட்ட ஊழல் எதிர்ப்பு சட்டத்தின் ஊடாக சமர்ப்பிக்கப்பட்டிருக்கிறது.
+The media reported that it was going to look into the assets and responsibilities of politicians and celebrities. My name was also in it. I have submitted over 30 years in relation to my property and responsibilities. Ranil Wickremesinghe has been submitted to the presidency of Ranil Wickremesinghe, through the government's sanctioned anti -corruption law.
+
+When some of our political parties showed up to the world as our country was corrupt, Ranil Wickremasinghe allowed the anti -corruption Bill on August 8, 2023, to Parliament on August 8, 2023.. Must remember one of the people in particular. Ranil Vikramasi, who ruled the country for two and a half years, has set up legal plans to curb this corruption within the country.
 
 ...
 
 [Data](articles/978b42ef.json)
+
+[Extended Data](ext_articles/978b42ef.ext.json)
 
 ---
 
@@ -2008,19 +2044,5 @@ COLOMBO (News 1st) -  12 Indian fishermen were arrested by the Sri Lanka Navy o
 [Data](articles/403706a5.json)
 
 [Extended Data](ext_articles/403706a5.ext.json)
-
----
-
-### Anuradhapura Records 10 Leptospirosis Deaths In 2025
-
-*2025-09-28 15:34:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/anuradhapura-records-10-leptospirosis-deaths-in-2025) · `en`
-
-COLOMBO(News 1st) - Ten leptospirosis related deaths have been reported from the Anuradhapura district during the course of this year.Dr. Thejana Somatilaka, Epidemiologist at the Anuradhapura Regional Health Services Office, stated that nearly 300 leptospirosis patients are reported annually from the district.
-
-◼️
-
-[Data](articles/5ab4755c.json)
-
-[Extended Data](ext_articles/5ab4755c.ext.json)
 
 ---

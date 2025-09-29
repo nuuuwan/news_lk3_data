@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 03:54:18**
+As of **2025-09-30 04:20:27**
 
 ## Newspaper Stats
 
-*Scraped **79,670** Articles*
+*Scraped **79,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,839
 dailyftlk | 5,603
 adalk | 7,667
 adaderanalk | 10,280
-tamilmirrorlk | 11,919
+tamilmirrorlk | 11,920
 virakesarilk | 12,998
 adaderanasinhalalk | 13,787
 
@@ -27,11 +27,27 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,670 (100.0%) of 79,670 articles have been extended.
+79,670 (100.0%) of 79,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### ஜனாதிபதி- ஜப்பான் நிதி அமைச்சர் சந்திப்பு
+
+*2025-09-30 03:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜப்பான்-நிதி-அமைச்சர்-சந்திப்பு/175-365501) · `ta`
+
+ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் ஜப்பானிய நிதியமைச்சர் கட்டோ கட்சுனோபு ஆகியோருக்கு இடையில் நேற்று பிற்பகல் டோக்கியோவில் இருதரப்புப் பேச்சுவார்த்தை நடைபெற்றது.
+
+இந்தச் சந்திப்பின்போது, இரு நாடுகளுக்கும் இடையிலான வர்த்தகம், முதலீடு மற்றும் பொருளாதார ஒத்துழைப்பை மேம்படுத்துவது குறித்து கவனம் செலுத்தப்பட்டது.
+
+அத்துடன், ஜப்பானிய சர்வதேச ஒத்துழைப்பு முகவரத்தின்  ஒத்துழைப்பின் கீழ் தற்போது நடைமுறைப்படுத்தப்பட்டு வரும் மற்றும் எதிர்காலத்தில் எதிர்பார்க்கப்படும் புதிய திட்டங்கள் குறித்தும் விரிவாகக் கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/ab214636.json)
+
+---
 
 ### PM calls on new SLAS officers to stand against corruption, irregularities
 
@@ -1994,23 +2010,5 @@ Mannar people are facing two problems. One, the mineral mud is plundered. Wind p
 [Data](articles/86a2ecff.json)
 
 [Extended Data](ext_articles/86a2ecff.ext.json)
-
----
-
-### Karur Stampede: Bomb threat to Vijay’s house after 41 people died; Probe on
-
-*2025-09-29 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113034/karur-stampede-bomb-threat-to-vijays-house-after-41-people-died-probe-on) · `en`
-
-Following a stampede at a Tamilaga Vettri Kazhagam (TVK) event in India’s Karur, actor-turned-politician Vijay’s residence in Chennai received a bomb threat.
-
-This came after 41 people lost their lives in the unfortunate incident. The Chennai Police received the threat via a call, after which security was deployed outside Vijay’s Neelankarai home.
-
-Moreover, a bomb disposal team was also deployed outside the politician’s house, along with sniffer dogs.
-
-...
-
-[Data](articles/b3753969.json)
-
-[Extended Data](ext_articles/b3753969.ext.json)
 
 ---

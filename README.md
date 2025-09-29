@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 11:20:35**
+As of **2025-09-29 11:41:37**
 
 ## Newspaper Stats
 
-*Scraped **79,394** Articles*
+*Scraped **79,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,8 +18,8 @@ economynextcom | 4,734
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,649
-adaderanalk | 10,245
-tamilmirrorlk | 11,884
+adaderanalk | 10,248
+tamilmirrorlk | 11,888
 virakesarilk | 12,933
 adaderanasinhalalk | 13,760
 
@@ -27,11 +27,63 @@ adaderanasinhalalk | 13,760
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,391 (100.0%) of 79,394 articles have been extended.
+79,394 (100.0%) of 79,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### தாஜுதீனின் மரணம்: புதிய விசாரணைக்கு குடும்பத்தினர் வலியுறுத்தல்
+
+*2025-09-29 11:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீனின்-மரணம்-புதிய-விசாரணைக்கு-குடும்பத்தினர்-வலியுறுத்தல்/175-365464) · `ta`
+
+மறைந்த இலங்கை ரக்பி வீரர் வசீம் தாஜுதீனின் குடும்பத்தினர், அனுர குமார திசாநாயக்க தலைமையிலான அரசாங்கத்திடம், அவரது மரணம் குறித்து மீண்டும் விசாரணை நடத்த வேண்டும் என்று வலியுறுத்தியுள்ளனர். 13 ஆண்டுகளுக்கும் மேலாக நீதி மறுக்கப்பட்டுள்ளதாகக் கூறி வருகின்றனர்.
+
+ஊடகங்களுக்குப் பேசிய தாஜுதீனின் மாமா, 2012 மே மாதம் சம்பவம் நடந்தபோது, ​​தாஜுதீன் ஒரு கார் விபத்தில் இறந்துவிட்டதாக குடும்பத்தினருக்குச் சொல்லப்பட்டதை நினைவு கூர்ந்தார்.
+
+“நான் சம்பவ இடத்திற்குச் சென்றபோது, ​​அவர் பயணிகள் இருக்கையில் இருந்தார், மேலும் வாகனம் மிகக் குறைந்த சேதத்தை மட்டுமே சந்தித்திருந்தது. இதுபோன்ற விபத்தில் யாராவது இறந்திருக்கலாம் என்பது ஆச்சரியமாக இருந்தது,” என்று அவர் கூறினார்.
+
+அந்த நேரத்தில் ஆரம்ப அறிக்கை, தாஜுதீன் வேகமாகவும், குடிபோதையிலும் வாகனம் ஓட்டியதாகவும், விபத்தால் ஏற்பட்ட தீயிலிருந்து ஏற்பட்ட புகையை சுவாசித்ததால் இறந்ததாகவும் முடிவு செய்ததாக அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/d8840ea9.json)
+
+---
+
+### மாவனெல்லையில் பாரிய அனர்த்தம்
+
+*2025-09-29 11:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவனெல்லையில்-பாரிய-அனர்த்தம்/175-365462) · `ta`
+
+மாவனெல்ல, அளுத்நுவர, மாணிக்காவ பகுதியில் திங்கட்கிழமை (29) அன்று அதிகாலை சுவர் கட்டும் பணியில் ஈடுபட்டிருந்த தொழிலாளர்கள் குழு மீது மண் மேடு சரிந்து விழுந்தது.
+
+இடிபாடுகளுக்கு அடியில் சிக்கியவர்களை மீட்க மீட்பு நடவடிக்கைகள் தொடங்கப்பட்டுள்ளன. அவசரகால குழுக்கள் மற்றும் உள்ளூர்வாசிகள் தற்போது இந்த முயற்சியில் உதவி வருகின்றனர்.
+
+◼️
+
+[Data](articles/b4b1adc4.json)
+
+---
+
+### மிச்சிகன் தேவாலயத்தில் வாகனத்தில் மோதி துப்பாக்கிச் சூடு:  நால்வர் உயிரிழப்பு
+
+*2025-09-29 10:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மிச்சிகன்-தேவாலயத்தில்-வாகனத்தில்-மோதி-துப்பாக்கிச்-சூடு-நால்வர்-உயிரிழப்பு/50-365461) · `ta`
+
+மிச்சிகன் தேவாலயத்திற்குள் துப்பாக்கிதாரி ஒருவர் வாகனத்தை ஓட்டிச் சென்று, துப்பாக்கிச் சூடு நடத்தி, கட்டிடத்திற்கு தீ வைத்ததில் குறைந்தது நான்கு பேர் கொல்லப்பட்டனர் மற்றும் எட்டு பேர் காயமடைந்துள்ளனர் என்று பொலிஸார் தெரிவித்தனர்.
+
+டெட்ராய்டிலிருந்து வடமேற்கே 60 மைல் (100 கி.மீ) தொலைவில் உள்ள கிராண்ட் பிளாங்கில் உள்ள இயேசு கிறிஸ்துவின் பிந்தைய நாள் புனிதர்களின் தேவாலயத்தில் நூற்றுக்கணக்கான மக்கள் கலந்து கொண்ட ஞாயிற்றுக்கிழமை ஆராதனையின் போது  தாக்குதல், நடந்ததாக அதிகாரிகள் தெரிவித்தனர்.
+
+மிச்சிகனின் பர்ட்டனைச் சேர்ந்த 40 வயதான தாமஸ் ஜேக்கப் சான்ஃபோர்ட் என அடையாளம் காணப்பட்ட சந்தேக நபர், பின்னர் தேவாலய கார் நிறுத்துமிடத்தில் பொலிஸாரால் சுட்டுக் கொல்லப்பட்டார்.
+
+இந்த சம்பவத்தை "குறிவைக்கப்பட்ட வன்முறைச் செயல்" என்று தெரிவித்துள்ள அதிகாரிகள், ஆனால் நோக்கம் தெளிவாகத் தெரியவில்லை என்று கூறுகிறார்கள்.
+
+துப்பாக்கிச் சூட்டுக் காயங்களால் இரண்டு பேர் இறந்ததாக கிராண்ட் பிளாங்க் டவுன்ஷிப் காவல்துறைத் தலைவர் வில்லியம் ரென்யே ஞாயிற்றுக்கிழமை நடந்த செய்தியாளர் சந்திப்பில் தெரிவித்தார்.
+
+...
+
+[Data](articles/1c36da9a.json)
+
+---
 
 ### Civil Security Gets New Role Under Public Security
 
@@ -63,17 +115,19 @@ The police said that they have to rescue them.
 
 ---
 
-### මාවනැල්ලේ පස් කන්දක් කම්කරු පිරිසක් මතට වැටේ
+### A Movawa Eat Money falls on labor
 
 *2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මවනලල-පස-කනදක-කමකර-පරසක-මතට-වට/1-680400) · `si`
 
-මාවනැල්ල, අලුත්නුවර, මාණික්කාව ප්‍රදේශයේ තාප්පයක් බඳිමින් සිටි තිදෙනකු  මතට පස් කන්දක් කඩා වැටී ඇතැයි පොලීසිය කියයි.
+A mound has collapsed on three in Mawanella, Aluthnuwara and Menikkawa area.
 
-මේ වන විට ඔවුන් බේරාගැනීමේ කටයුතු සිදුවන බවද පොලීසිය සඳහන් කළේය.
+The police said that they have to rescue them.
 
 ◼️
 
 [Data](articles/ef270b60.json)
+
+[Extended Data](ext_articles/ef270b60.ext.json)
 
 ---
 
@@ -99,6 +153,28 @@ Accordingly, a complaint has been lodged a complaint with the Bribery Commission
 
 ---
 
+### ரயிலில் மோதி உயிரிழந்த ஆணின் பாகங்கள் மீட்பு
+
+*2025-09-29 10:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-உயிரிழந்த-ஆணின்-பாகங்கள்-மீட்பு/175-365460) · `ta`
+
+தலைமன்னாரில் இருந்து கொழும்பு நோக்கி பயணித்த புகையிரதத்தில் மோதி உடல் அவயவயங்கள் துண்டாடப்பட்ட நிலையில்,  ஞாயிற்றுக்கிழமை (28) அன்று காலை சடலம் ஒன்று மீட்கப்பட்டுள்ளது.
+
+சடலமாக மீட்கப்பட்ட நபர், நீர்கொழும்பைச் சேர்ந்த W.M.A. சரத் அந்தோனி (வயது-60) என தெரியவந்துள்ளது.
+
+தலைமன்னாரில் இருந்து கொழும்பு நோக்கி ஞாயிற்றுக்கிழமை (28) அன்று காலை பயணித்த குறித்த புகையிரதம், சௌத் பார் புகையிரத நிலையத்தில் தரித்து நின்று மீண்டும் பயணிகளை ஏற்றிக்கொண்டு கொழும்பு நோக்கி பயணித்துள்ளது.
+
+சௌத்பார் -தள்ளாடி புகையிரத வீதி, இரட்டை கண் பாலத்திற்கு அருகில் புகையிரதத்தில் மோதி உடல் பாகங்கள் சிதறிய நிலையில் குறித்த சடலம் கண்டு பிடிக்கப்பட்டுள்ளது.
+
+சம்பவ இடத்திற்கு வந்த திடீர் மரண விசாரணை அதிகாரி பி.பிரபா நந்தன் சடலத்தை பார்வையிட்டார்.
+
+இதன் போது அவரது உடமையில் இருந்து மீட்கப்பட்ட தேசிய அடையாள அட்டை,சாரதி அனுமதிப்பத்திரம் ஆகியவற்றை வைத்து குறித்த நபர்  W.M.A. சரத் அந்தோனி (வயது-60) எனவும் நீர்கொழும்பைச் சேர்ந்தவர் என்றும் அடையாளம் காணப்பட்டது .
+
+...
+
+[Data](articles/0e8bbc30.json)
+
+---
+
 ### ரயிலில் மோதி உயிரிழந்த ஆணிண் பாகங்கள் மீட்பு
 
 *2025-09-29 10:40:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதி-உயிரிழந்த-ஆணிண்-பாகங்கள்-மீட்பு/175-365460) · `ta`
@@ -115,23 +191,37 @@ The body recovered by the body of the body of W.M.A from Negombo. Sarath Anthony
 
 ---
 
-### ආරක්ෂිත බැම්ම විශාල  අනතුරක්  වළක්වයි
+### The safe wall prevents a great danger
 
 *2025-09-29 10:35:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආරකෂත-බමම-වශල-අනතරක-වළකවය/101-680399) · `si`
 
-නුවරඑලියේ සිට යාපනය දක්වා ධාවනය වූ පෞද්ගලික බස් රථයක් වලපනේ ප්‍රදේශයෙදි මාර්ගයේ ඉවතට පැන ආරක්ෂිත පස් බැම්මක ගැටී නතර වීමෙන් සිදු විමට ගිය විශාල අනතුරක් වැළකී ගොස් ඇතැයි  වලපනේ පොලිසිය කියයි.
+A private bus traveling from Nuwara Eliya has been removed from the road in Walapane and prevailing a large hatch in the road.
 
-මෙම අනතුර සිදු වී ඇත්තේ නුවරඑලිය වලපනේ ප්‍රධාන මාර්ගයේ වලපනේ මහ ඌව ප්‍රදේශයෙදිය.
+The accident had occurred in the Maha Uva Maha Uva region with the accident in Walapane main road.
 
-අධික බෑවුමක් සහිත එම මාර්ගයේ මහ ඌව වංගුව ප්‍රදේශයේ මීට ප්‍රථම රිය අනතුරු ගණනාවක් සිදු වූ නිසා මාර්ග සංවර්ධන අධිකාරිය මගින් අධික බෑවුම් සහිත ස්ථානයේ පස් වලින් ආරක්ෂිත බැම්මක් ඉදි කිරිම නිසා මාර්ගයෙන් ඉවතට පැන අනතුරට පත් බස් රථය පස් කන්දේ ගැටී නතර වී ඇති බව වලපනේ පොලිසිය පැවසීය.
+According to the Road Development Authority, a large number of road accidents on the Maha Uva bend area along the road, the road was taken off the road due to the construction of a safe bowl from the soil, the Walapane Police said.
 
-යාපනයේ සිට නුවරඑලිය සංචාරයක් සදහා පැමිණි 28 දෙනෙකු එම බස් රථයේ පැමිණ ආපසු යාපනය දක්වා බස් රථය ධාවනය කරවන අවස්ථාවේ බස් රථයේ තිරිංග පද්ධතියේ හදිසියේ ඇතිවූ කාර්මික දෝෂයක් හේතුවෙන් බස් රථය රියදුරුගේ පාලනයෙන් මිදි බස් රථය ඉදිරියට ඇදී ගොස් ආරක්ෂිත පස් බැම්මේ වැදී නතර වි ඇත.
+At the time of a technical prosecution of the bus, the bus was imprisoned due to a technical fault in the bus.
 
-අනතුරින් කිසිවෙතුටත් තුවාල සිදු නී නොමැති බවත්, අනතුරට පත් බස් රථයේ ගමන් ගත් පිරිස යාපනයේ සිට වෙනතු බස් රථයක් ගෙන්වා ගෙන පිටත් විය ගිය බව වලපනේ පොලිසිය කියා සිටියේ.
+Walapane said that the accident had been injured in the accident and had left the bus to bring a bus from Jaffna to the Jaffna police.
 
 ◼️
 
 [Data](articles/5222358d.json)
+
+[Extended Data](ext_articles/5222358d.ext.json)
+
+---
+
+### Ex-Minister Udaya Gammanpila arrives at Bribery Commission
+
+*2025-09-29 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113016/ex-minister-udaya-gammanpila-arrives-at-bribery-commission) · `en`
+
+Former Minister Udaya Gammanpila has arrived at the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) this morning (29), to lodge a complaint.
+
+◼️
+
+[Data](articles/198e2d0f.json)
 
 ---
 
@@ -154,6 +244,20 @@ The move is expected to significantly boost Sri Lanka’s national capacity in A
 [Data](articles/b6c53139.json)
 
 [Extended Data](ext_articles/b6c53139.ext.json)
+
+---
+
+### Workers trapped as earth bund collapses at construction site in Mawanella
+
+*2025-09-29 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113015/workers-trapped-as-earth-bund-collapses-at-construction-site-in-mawanella) · `en`
+
+An earth bund has collapsed at a construction site in Manikkawa, Mawanella, trapping at least three workers on site.
+
+Rescue operations to extricate the individuals safely are currently underway, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/3d157f64.json)
 
 ---
 
@@ -190,6 +294,24 @@ Initially, the Indian team refused to buy the trophy by Moshin Naqvi. But the re
 [Data](articles/586a7030.json)
 
 [Extended Data](ext_articles/586a7030.ext.json)
+
+---
+
+### Shooter kills at least four, wounds eight at Michigan church
+
+*2025-09-29 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113014/shooter-kills-at-least-four-wounds-eight-at-michigan-church) · `en`
+
+A man who crashed his vehicle through the front doors of a Michigan church opened fire with an assault rifle and set the church ablaze, killing at least four people and wounding at least eight others before dying in a shootout with police, officials said.
+
+Police said the perpetrator, identified as Thomas Jacob Sanford, 40, a former U.S. Marine from the nearby town of Burton, deliberately set fire to the Church of Jesus Christ of Latter-day Saints, which was engulfed in flames and billowing smoke.
+
+Two of the shooting victims died and eight others were hospitalized, officials said. Several hours after the shooting, police reported finding at least two more bodies in the charred remains of the church, which had not yet been cleared and may contain other victims.
+
+“There are some that are unaccounted for,” Grand Blanc Township Police Chief William Renye told a press conference.
+
+...
+
+[Data](articles/74111196.json)
 
 ---
 
@@ -577,21 +699,23 @@ Vitth in the North, North-Central, North Western and Central provinces, North, N
 
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2025-09-29 08:31:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680387) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Several spells of showers can be in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya Districts.
 
-වයඹ පළාතේ ද  අද(29) වැසි ස්වල්පයක් ඇති විය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+The North Western Province is also reported today (29).
 
-ඌව පළාතේත් අම්පාර දිස්ත්‍රික්කයේත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+In the Uva Province and Ampara District. Showers or thundershowers will occur at a few places about 2.00.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටි
+Vitth in the North, North-Central, North Western and Central provinces, North, North-Central, North Western and Central provinces
 
 ◼️
 
 [Data](articles/f573d047.json)
+
+[Extended Data](ext_articles/f573d047.ext.json)
 
 ---
 
@@ -1852,167 +1976,5 @@ Pakistan, who was the first to bat, got a good start by Sahibsada Burhan and Bac
 [Data](articles/e3c19453.json)
 
 [Extended Data](ext_articles/e3c19453.ext.json)
-
----
-
-### Bomb threatening Vijay home
-
-*2025-09-28 21:59:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்-வீட்டுக்கு-வெடிகுண்டு-மிரட்டல்/54-365427) · `ta`
-
-Bomb bomb threatening. The mysterious person has bombed the mysterious person in the Vijay's house in Neelangara, Chennai.
-
-In Karur yesterday. இந்த கூட்ட நெரிசலில் சிக்கி 40 பேர் உயிரிழந்த சம்பவம் நாட்டையே உலுக்கியுள்ளது.
-
-A person's inquiry commission was set up under the leadership of retired judge Aruna Jegadeesan to investigate the Karur crowd.
-
-On the one hand, police protection has been put in front of actor Vijay's house.
-
-Police have been placed in security in front of the Neelangara house in Chennai. In this case, the bomb threatening Vijay's house has increased.
-
-◼️
-
-[Data](articles/b1cdd86a.json)
-
-[Extended Data](ext_articles/b1cdd86a.ext.json)
-
----
-
-### Arrested in the manufacture of illegal leakage
-
-*2025-09-28 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226350) · `ta`
-
-Police said that a man involved in illegal leakage production was arrested and others had fled during the raid carried out by Valaichenai police in Batticaloa.
-
-The equipment used for production, including 1817000 milliliters of leakage, has also been seized.
-
-Under the guidance of the police station in charge of the Valaichenai Special Division on Sunday, the 28th, the police officer Lasantha Bandara led by SJAsanka, led by SJAsanka, was seized during the raid on the Vanneri Kalkani forest area.
-
-The suspect is being produced at the Valaichenai Magistrate's Court, including the seized items and the police are conducting further investigations.
-
-It is noteworthy that the police have seized such a surrounding campaign in the Valaichenai Kinnayadi area.
-
-◼️
-
-[Data](articles/fc3acd0c.json)
-
-[Extended Data](ext_articles/fc3acd0c.ext.json)
-
----
-
-### India target 147 runs
-
-*2025-09-28 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215114) · `si`
-
-Pakistan won the batting first in 19.1 overs of the Asian Cup Twenty20 tournament.
-
-Accordingly, India has a target of 147 to be crowned as Asian Champions.
-
-Sappada Farhan and Fauker Saman managed to bring a successful start to the Pakistan team.
-
-However, Farhan had scored 57 runs in 38 balls, he began to collapse in the Pakistani innings.
-
-All the batsmen were burnt in 62 runs.
-
-පාකිස්තානය ඉනිමේ පළමු පන්දුවාර 10 අවසන් වනවිට ලකුණු පුවරුව 87/1ක් ලෙස සටහන් වූ අතර, අවසන් පන්දුවාර 9.1කදී එය සටහන් වූයේ 59/9ක් ලෙසය.
-
-Pakistan bowled out a bowling with bowling helplessly, Tulrayip Yadu took 4 wickets for 30 runs.
-
-◼️
-
-[Data](articles/eb986965.json)
-
-[Extended Data](ext_articles/eb986965.ext.json)
-
----
-
-### The golden coins that have been caught
-
-*2025-09-28 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215113) · `si`
-
-Ada Derana Uk was able to traveled a group of boys to the law where the gold coins were for sale in a treasure.
-
-The people have revealed in the country to several occasions on the deceptive decomposies that the people who have been marketed in treasure hunters.
-
-එවන් පසුබිමක සංවිධානාත්මක කණ්ඩායමක් දිවයිනේ විවිධ ප්‍රදේශ කේන්ද්‍රකර ගනිමින් තවත් එවැනිම ජාවාරමක් සිදුකරන බවට අපට තොරතුරු ලැබුණි.
-
-Accordingly, the hawk was first, saying that we wanted to buy gold with the racket.
-
-It uses a date using a day to meet the racket to meet the racket to meet the racket to meet the racket.
-
-The racketeer called us to various places in the Mihintale later told the Maradakadawala area.
-
-Subsequently, after the police are informed about this, the identity of the area reaches the area after it was nearing a group of officials.
-
-The racketeer was arrested in the Maradankadawala Police Officers immediately.
-
-Inspection was revealed that he was submerged with a manner similar to the gold coins.
-
-...
-
-[Data](articles/7958b6c3.json)
-
-[Extended Data](ext_articles/7958b6c3.ext.json)
-
----
-
-### Body of Indian monk who died in cable car crash repatriated
-
-*2025-09-28 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113007/body-of-indian-monk-who-died-in-cable-car-crash-repatriated) · `en`
-
-The body of an Indian monk, who was among the eight Buddhist monks killed in a cable car crash at a forest monastery in Sri Lanka, was sent back to India on Sunday, officials said today.
-
-Also, the toll in the Wednesday night’s crash has risen to eight with the death of one of the six injured monks, the officials added.
-
-Seven Buddhist monks, including the Indian national, were killed and six others were injured after the cable-operated rail cart came crashing at the Na Uyana Aranya Senasanaya, a renowned Buddhist monastery located in Nikaweratiya.
-
-“The body of the Indian monk has been sent back to his relatives in Maharashtra in India,” the Indian High Commission said.
-
-The body of Dhamma Gavesi, 34, a native of Wardha district, was sent to Mumbai, one of his relatives said in India.
-
-“One of the six monks, who was critically injured and in hospital, passed away last night, increasing the death toll to eight,” Sri Lankan officials said.
-
-...
-
-[Data](articles/86a6fa74.json)
-
-[Extended Data](ext_articles/86a6fa74.ext.json)
-
----
-
-### President Says Equal Application of Law Unites Citizens Across Party Lines
-
-*2025-09-28 21:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/28/president-says-equal-application-of-law-unites-citizens-across-party-lines) · `en`
-
-COLOMBO (News 1st) - President Anura Kumara Dissanayake, speaking during his official visit to Japan, said the fear some people feel when the law is applied equally to all citizens is evident in how they abandon party lines and unite as one. He shared these remarks while meeting with Sri Lankans in Tokyo today. He emphasized that having laws is not enough; their proper implementation is crucial. The President stressed the importance of confronting the damage caused over time and noted that the Anti-Corruption Act is now being enforced fairly, regardless of wealth or status.The President also said that evidence of certain past crimes has been destroyed.
-
-◼️
-
-[Data](articles/68a47be6.json)
-
-[Extended Data](ext_articles/68a47be6.ext.json)
-
----
-
-### President of India Cricket Mithun Guhaz
-
-*2025-09-28 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215112) · `si`
-
-The Mithun Manhas was elected as the new Chairman of the Indian Cricket (BCCI).
-
-The BCCI 94th Annual General Meeting held today (28), he was unanimously elected.
-
-The Manhas is one of the 37th Cricket Chairman of the Former Cricketer and former Delhi's County.
-
-He had scored 27 centuries and 49 centuries and 49 centuries.
-
-In addition to Delhi, the Indian, Chennai Super Kings, Delhi Daredevils, have represented Under-19s.
-
-Former Indian Chairman Roger Bini resigned from his post last August. As a result, Vice President Rajla Shukla worked as acting chairman.
-
-◼️
-
-[Data](articles/9c27eada.json)
-
-[Extended Data](ext_articles/9c27eada.ext.json)
 
 ---

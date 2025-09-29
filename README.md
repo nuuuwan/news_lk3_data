@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 10:21:06**
+As of **2025-09-29 10:38:31**
 
 ## Newspaper Stats
 
-*Scraped **79,374** Articles*
+*Scraped **79,375** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 419
-newsfirstlk | 467
+newsfirstlk | 468
 dbsjeyarajcom | 635
 bbccomsinhala | 707
 colombotelegraphcom | 798
@@ -27,11 +27,23 @@ adaderanasinhalalk | 13,758
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,374 (100.0%) of 79,374 articles have been extended.
+79,374 (100.0%) of 79,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### Kottawa Raid Uncovers 458 Bullets and Heroin
+
+*2025-09-29 10:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/kottawa-raid-uncovers-458-bullets-and-heroin) · `en`
+
+COLOMBO (News 1st); A major breakthrough in narcotics and illegal arms investigations was made in the Rukmale Road area of Kottawa, where police apprehended a 24-year-old suspect in possession of a large cache of illicit items, including heroin and various types of live ammunition.According to police sources, the suspect was found with 75 grams and 400 milligrams of heroin, along with a stockpile of 458 live ammunition rounds, including T-56 bullets.Authorities also recovered 30 counterfeit vehicle license plates, 15 forged revenue licenses, 15 fake insurance certificates, and two mobile phones believed to be used in criminal activities.The suspect, a resident of Angulana, Moratuwa, was taken into custody and has been handed over to the Western Province - South Crimes Investigation Unit for further interrogation and legal proceedings.
+
+◼️
+
+[Data](articles/88f9fec7.json)
+
+---
 
 ### Thriposha Production Temporarily Halted Due to Shortage of Maize
 
@@ -2016,27 +2028,5 @@ However, the minimum qualifying criteria should have to be 100,000 metric tons o
 [Data](articles/19135291.json)
 
 [Extended Data](ext_articles/19135291.ext.json)
-
----
-
-### Currently laid down by coal tender
-
-*2025-09-28 18:53:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගල-අඟර-ටනඩරයන-දෂණයකට-පර-කපල/1-680366) · `si`
-
-The Frontline Socialist Party Education Secretary Pubudu Jayagoda said that the importation of coal imports required to generate coal generating is not eligible for electricity.
-
-He said:
-
-The tender was opened in the coal supply of coal to the electrical generator on September 15. Tripant Chemper, which submitted the minimum bid, was entitled to the company. The tender is emerged, the suspicion of procurement guidelines for the purpose of giving this company.
-
-According to the Ceylon Coal Registration Registration, the minimum qualifying criteria for coal is only 1,000,000 metric tons (1 million), at least 1,000,000 metric tons (1 million) coal pool.
-
-However, the minimum qualifying criteria should have to be 100,000 metric tons of 2025. That company has been registered with 90 percent to 100,000 metric tons from 1 million metric tonnes. This is clearly suspicious.
-
-...
-
-[Data](articles/79c46b95.json)
-
-[Extended Data](ext_articles/79c46b95.ext.json)
 
 ---

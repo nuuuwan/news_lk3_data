@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 20:38:41**
+As of **2025-09-29 20:56:01**
 
 ## Newspaper Stats
 
@@ -85,7 +85,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### මන්නාරමේ දැවැත්ත විරෝධතාවයක්
+### මන්නාරමේ දැවැන්ත විරෝධතාවයක්
 
 *2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
 

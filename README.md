@@ -1,337 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 13:20:16**
+As of **2025-09-29 12:39:11**
 
 ## Newspaper Stats
 
-*Scraped **79,460** Articles*
+*Scraped **79,423** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 430
-newsfirstlk | 478
+lankadeepalk | 427
+newsfirstlk | 475
 dbsjeyarajcom | 635
 bbccomsinhala | 707
-colombotelegraphcom | 799
+colombotelegraphcom | 798
 dailymirrorlk | 4,733
-economynextcom | 4,736
+economynextcom | 4,734
 islandlk | 4,839
 dailyftlk | 5,584
-adalk | 7,657
+adalk | 7,654
 adaderanalk | 10,248
-tamilmirrorlk | 11,897
-virakesarilk | 12,954
-adaderanasinhalalk | 13,763
+tamilmirrorlk | 11,894
+virakesarilk | 12,933
+adaderanasinhalalk | 13,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,429 (100.0%) of 79,460 articles have been extended.
+79,421 (100.0%) of 79,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
-
-### Construction Site Disaster: 3 Dead in Mawanella
-
-*2025-09-29 13:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/construction-site-disaster-3-dead-in-mawanella) · `en`
-
-COLOMBO (News 1st); The death toll from the tragic landslide in the Aluthnuwara area of Mawanella has risen to three, following the recovery of another body buried under the collapsed earth embankment. Police confirmed that one individual remains hospitalized with injuries sustained during the incident.The landslide occurred near a residential construction site, where three workers were engaged in building activities when a mass of earth suddenly gave way, burying them beneath tons of debris. Rescue operations, led by local police and supported by residents, began immediately and have continued under challenging conditions.
-
-◼️
-
-[Data](articles/f50b6802.json)
-
----
-
-### Inactive Police Units Will Be Bypassed in Drug Raids
-
-*2025-09-29 13:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/inactive-police-units-will-be-bypassed-in-drug-raids) · `en`
-
-...
-
-[Data](articles/91837681.json)
-
----
-
-### போதைப்பொருள் பாவனை ; கொழும்பு மாவட்ட பாடசாலை மாணவர்கள் அதிகளவில் பாதிப்பு!
-
-*2025-09-29 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226387) · `ta`
-
-போதைப்பொருள் பாவனைக்கு அடிமையான பாடசாலை மாணவர்களில் கொழும்பு மாவட்ட பாடசாலை மாணவர்களே அதிக எண்ணிக்கையில் பாதிக்கப்பட்டுள்ளதாக தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டுச் சபை (NDDCB) தெரவித்துள்ளது.
-
-குறைந்த வருமானம் கொண்ட சமூகங்களைச் சேர்ந்த பாடசாலை மாணவர்களும்  போதைப்பொருள் பாவனைக்கு அடிமையாகி மிகவும் பாதிப்படைந்துள்ளதாக  தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டுச் சபை (NDDCB) மேலும் தெரவித்துள்ளது.
-
-இதன்படி , கண்டி, கம்பஹா, குருணாகல், அனுராதபுரம், காலி, இரத்தினபுரி மற்றும் களுத்துறை மாவட்டங்களும் போதைப்பொருள் பாவனையால் அதிக ஆபத்துள்ள பகுதிகளாக அடையாளம் காணப்பட்டுள்ளன.
-
-இவ்வாறு போதைப்பொருள் பாவனைக்கு அடிமையான பாடசாலை மாணவர்களுக்கு  சிகிச்சை மற்றும் பராமரிப்பு ஆகியவற்றை உள்ளடக்கிய ஆறு பிரிவுகளைக் கொண்ட ஒரு திட்டத்தை அறிமுகப்படுத்துவதாக தேசிய அபாயகர ஒளடதங்கள் கட்டுப்பாட்டுச் சபை அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/d9f5a4ac.json)
-
----
-
-### වැඩ තහනම් වූ එස් අයි කසිප්පු ජාවරමේ යෙදිලා
-
-*2025-09-29 13:00:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වඩ-තහනම-ව-එස-අය-කසපප-ජවරම-යදල/101-680414) · `si`
-
-යතුරුපැදියක සඟවාගෙන නීති විරෝධී මත්පැන් ජාවාරමේ යෙදුණු වැඩ තහනමට ලක් කළ උප පොලිස් පරීක්ෂකවරයෙකු  අත්අඩංගුවට ගත් බව බණ්ඩාරගම පොලිසිය කියයි.
-
-එම සැකකාර උප පොලිස් පරීක්ෂකවරයා සමඟ නීති විරෝධී මත්පැන් මිලිලිටර් 3750 ක් පොලිස් භාරයට ගෙන ඇත.
-
-බණ්ඩාරගම වීදාගම ප්‍රදේශයේ පදිංචි සැකකාර උප පොලිස් පරීක්ෂකවරයා   නීති විරෝධී මත්පැන් ජාවාරමේ යෙදෙන බවත් ඔහු සිය යතුරුපැදියේ අසුන යට සඟවාගෙන විවිධ ස්ථානවලට ලැබෙන ඉල්ලුම පරිදි ප්‍රවාහනය කරමින් මත්පැන් අලෙවියේ යෙදෙන බවත් බණ්ඩාරගම පොලිසියට ලද තොරතුරකට අනුව බණ්ඩාරගම-  ජාතික පාසල අසලදී මත්පැන් සමඟම අත්අඩංගුවට ගැනීමට හැකිවූ බව පොලිසිය සඳහන් කරයි.
-
-අත්අඩංගුවට ගත් සැකකාර උප පොලිස් පරික්ෂකවරයා බොරැල්ල පොලිසියට අනුයුක්තව සේවය කරමින් සිටියදී මත්පැන් පානය කර රාජකාරි කිරීම සම්බන්ධයෙන් වැඩ තහනමට ලක්වූ නිලධාරියකු බවත් මීට පෙර විවිධ විෂමාචාර ක්‍රියාව හේතුවෙන් අවස්ථා ගණනාවකදී වැඩ තහනමට ලක්ව  ඇතැයිද බවත් පොලිසිය සඳහන් කරයි.
-
-◼️
-
-[Data](articles/490cd890.json)
-
----
-
-### Sri Lanka’s Digital Economy Vision Anchored in People
-
-*2025-09-29 13:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/sri-lanka%e2%80%99s-digital-economy-vision-anchored-in-people) · `en`
-
-...
-
-[Data](articles/8d0e5dd8.json)
-
----
-
-### இலங்கை பொலிஸ் மருத்துவ சேவைகள் பிரிவிலுள்ள வெற்றிடங்களுக்கு 25 பேரை ஆட்சேர்ப்பு செய்ய நடவடிக்கை
-
-*2025-09-29 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226392) · `ta`
-
-இலங்கை பொலிஸ், பொலிஸ் மருத்துவ சேவைப் பிரிவில் உள்ள 25 வெற்றிடங்களை நிரப்ப, பொது மற்றும் தனியார் துறைகளில் உள்ள தகுதிவாய்ந்த மருத்துவ நிபுணர்களிடமிருந்து விண்ணப்பங்களை கோரியுள்ளது.
-
-தகுதிவாய்ந்த மற்றும் ஆர்வமுள்ள விண்ணப்பதாரர்கள் 2025 ஒக்டோபர் 27 ஆம் திகதிக்குள் தங்கள் விண்ணப்பங்களை சமர்ப்பிக்க வேண்டும்.
-
-விண்ணப்பதாரர்கள் மேலும் விசாரணைகளுக்கு 011-2552953 என்ற இலக்கத்தை தொடர்பு கொள்ளுமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.
-
-◼️
-
-[Data](articles/2378c103.json)
-
----
-
-### පාකිස්තානය සිය ත්‍යාග මුදල ඉන්දීය ප්‍රහාරයවලින් අසරණ වූ පවුල් වෙනුවෙන් පරිත්‍යාග කරයි
-
-*2025-09-29 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215130) · `si`
-
-ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ අනුශූරතාව වෙනුවෙන් හිමිවූ තරග ගාස්තුව මැයි 07 වනදා ඉන්දියාව විසින් එල්ල කළ ප්‍රහාරයේ වින්දිතයින්ගේ පවුල් වෙත ලබා දීමට පාකිස්තාන ක්‍රිකට් කණ්ඩායම තීරණය කර තිබේ.
-
-අදාළ ප්‍රහාරයෙන් මියගිය කුඩා ළමුන් ඇතුළු සිවිල් වැසියන් වෙනුවෙන් එම මුදල පිරිනමන බව පාකිස්තාන ක්‍රිකට් ආයතනය නිවේදනය කර ඇත.
-
-මෙවර ආසියානු කුසලාන ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය ඊයේ පැවති අතර එහිදි පාකිස්තාන කණ්ඩායම පරාජයට පත් කළ ඉන්දීය කණ්ඩායමට තරගාවලියේ ශූරතාව හිමි විය.
-
-අවසන් මහා තරගයෙන් පසු පැවති මාධ්‍ය හමුවේදී පාකිස්තාන කණ්ඩායමේ නායක සල්මන් ආගා ප්‍රකාශ කළේ තරගාවලිය තුළ ඉන්දීය කණ්ඩායමේ හැසිරීම ක්‍රිකට් ක්‍රීඩාවට ද අගෞරවයක් බවය.
-
-ඊයේ පැවති අවසන් මහා තරගයෙන් පසු ආසියානු ක්‍රිකට් කවුන්සිලයේ සභාපති මෙන්ම පාකිස්තාන ක්‍රිකට් ආයතනයේ සභාපතිවරයා ද වන මොසින් නක්වි අතින් කුසලානය ලබා ගැනීම ද ඉන්දීය කණ්ඩායම ප්‍රතික්ශේප කර තිබුණි.
-
-◼️
-
-[Data](articles/f311a1c9.json)
-
----
-
-### அம்பாறை உடல், உள மறுவாழ்வு மையத்தில் நடைபெறும் நோயாளர்களுக்கான சிகிச்சை சேவைகளை பார்வையிட்டார் சுகாதார அமைச்சர்
-
-*2025-09-29 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226393) · `ta`
-
-கிழக்கு மாகாணத்தில் பல சுகாதார அபிவிருத்தி திட்டங்களைத் தொடங்கி வைப்பதற்காக சுகாதார மற்றும் வெகுசனஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ சமீபத்தில் கிழக்கு மாகாணத்தில் உள்ள வைத்தியசாலைகள் மற்றும் சுகாதார மையங்களுக்கு விஜயம் மேற்கொண்டார்.
-
-அம்பாறை வைத்தியசாலையின் நோயாளிகள் தங்கியிருந்து சிகிச்சை பெறுவோர் பிரிவு மற்றும் மறுவாழ்வு சேவைகளை வழங்கும் உடல் மற்றும் உள மறுவாழ்வு மையத்தை அமைச்சர் பார்வையிட்டார்.
-
-இந்த உடல் மற்றும் மன மறுவாழ்வு மையமானது பக்கவாதம், விபத்துக்கள், அறுவை சிகிச்சைகள், தொற்றுகள் மற்றும் மூட்டுநோய்கள், தசை அல்லது நரம்பு சம்பந்தமான மற்றும் சிறப்புத்தேவைகள் உள்ள குழந்தைகளுக்கு சிகிச்சை சேவைகளை வழங்குகிறது.
-
-புனர்வாழ்வு மையத்தால் வழங்கப்படும் சிகிச்சைகள் மற்றும் பௌதீக வளங்கள் அறிந்து கொண்ட அமைச்சர் அமைச்சர், உடல் மற்றும் மன மறுவாழ்வு மையத்தின் பிசியோதெரபிபிரிவு, செயற்கை உறுப்புகள் மற்றும் உதவி சாதனங்கள் பிரிவு, நோயாளி சிகிச்சை வார்டுகள் மற்றும் குழந்தை சிகிச்சைவார்டு ஆகியவற்றையும் ஆய்வுசெய்தார்.
-
-...
-
-[Data](articles/40d0ee0b.json)
-
----
-
-### கனவான்களின் விளையாட்டா கிரிக்கெட் ? : ஆசியக் கிண்ண இறுதிப் போட்டியில் வெளிப்பட்டது என்ன ?
-
-*2025-09-29 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226389) · `ta`
-
-டுபாயில் 2025 ஆம் ஆண்டு செப்டம்பர் 28 ஆம் திகதி நடைபெற்ற பரபரப்பான ஆசியக் கிண்ண இருபதுக்கு - 20 இறுதிப் போட்டியில், இந்தியா பாகிஸ்தானை 5 விக்கெட்டுகள் வித்தியாசத்தில் வீழ்த்தி, 41 ஆண்டு கால ஆசியக் கிண்ண வரலாற்றில் 9 ஆவது முறையாகச் சாம்பியன் பட்டத்தை வென்றது. நடப்புத் தொடரில் பாகிஸ்தானை இந்தியா மூன்றாவது முறையாக வீழ்த்தி புதிய வரலாறு படைத்தது. எனினும், ஆட்டத்தின் நிறைவில் இடம்பெற்ற பரிசு வழங்கும் விழாதான் தற்போது கிரிக்கெட் உலகில் பெரும் சர்ச்சையை ஏற்படுத்தியுள்ளது. வெற்றிக் கொண்டாட்டங்கள் அரசியல் சாயம் பூசப்பட்டு, கசப்பான முடிவை எட்டியுள்ளது.
-
-இந்திய அணி வெற்றி பெற்ற பின்னரும், வெற்றியாளர் கிண்ணம் மற்றும் பதக்கங்கள் வழங்கப்படுவது தாமதமானதற்குக் காரணம், பரிசளிப்பு விழாவில் பல்வேறு தலையீடுகள் இருந்ததாக கூறப்படுகின்போதும், விளையாட்டில் ஏன் இவ்வாறு நடந்துகொள்ள வேண்டும் என்ற கேள்வி எழுகின்றது.
-
-...
-
-[Data](articles/bb3dfbec.json)
-
----
-
-### மாணவர்களுக்கு இலவச AI தேடுப்பொறி கருவிகளை வழங்க கூகிள் நிறுவனத்தை நாடும் இலங்கை
-
-*2025-09-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226385) · `ta`
-
-இலங்கை மாணவர்கள் விரைவில் கூகிளின் ஜெமினி மேம்பட்ட தேடுப்பொறி கருவிகள் மற்றும் பிற டிஜிட்டல் வளங்களை இலவசமாகப் பெறுவார்கள் என டிஜிட்டல் பொருளாதார அமைச்சு இன்று திங்கட்கிழமை (29) அறிவித்துள்ளது.
-
-கொழும்பில் நடைபெற்ற 2025க்கான தேசிய AI எக்ஸ்போ கண்காட்சியில் டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் எரங்க வீரரத்ன இந்த திட்டத்தை அறிவித்தார். இது நாட்டின் கல்வித்துறைக்கு "பெரிய மாற்றம் ஒன்றை ஏற்படுத்தும்" என  வலியுறுத்தினார்.
-
-"நமது நாட்டின் AI திறனை வளர்ப்பதில் இது மகத்தான ஒரு மைல் கல்லாகும். இது விளையாட்டு மைதானத்துக்கு ஒத்த உலகளாவிய ரீதியில் சிறந்து விளங்குபவர்களுடன் போட்டியிட எங்கள் மாணவர்களுக்கு வாய்ப்பளிக்கிறது," என அவர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/47f22f00.json)
-
----
-
-### “Don't promote LGBTQ tourism”
-
-*2025-09-29 12:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/LGBTQ-சுற்றுலாவை-ஊக்குவிக்க-வேண்டாம்/175-365474) · `ta`
-
-Colombo Archbishop Cardinal Malcolm Ranjith, who criticized the government's move to allow LGBTQ to improve tourism in Sri Lanka, said such action would destroy the country's culture.
-
-"Sri Lanka's children and youth should not be allowed to be sacrificed by foreigners who come here to fulfill their unacceptable desires. We do not know whether President Anuragumara Dissanayake knows this, but we believe that he will understand the severity of the problem, ”Cardinal Ranjith said in a Sunday worship.
-
-“We should not hurt those born with homosexual attitude. To treat them with compassion. However, those who are not born with such an attitude should not be forced to change, ”he added.
-
-◼️
-
-[Data](articles/7004918c.json)
-
-[Extended Data](ext_articles/7004918c.ext.json)
-
----
-
-### ரசிகர்களின் மனமாளிகையில் அழியாத சித்திரம் "வசந்தமாளிகை”!
-
-*2025-09-29 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226395) · `ta`
-
-இந்திய சினிமா வரலாற்றில் காதலின் சிறப்பை அற்புதமாக காட்டிய, நடிகர் திலகம் சிவாஜி கணேசனின் நடிப்பில் உருவான "வசந்தமாளிகை" திரைக்கு வந்து, இன்றுடன் 53 ஆண்டுகள் பூர்த்தியாகிறது.
-
-29.09.1972 அன்று வெளியான வசந்தமாளிகை, 1971இல் தெலுங்கு சுப்பர் ஸ்டார் அக்கினேனி நாகேஷ்வரராவ் கதாநாயகனாக நடித்து வெற்றி கண்ட "பிரேம் நகர்" திரைப்படத்தின் தமிழ் மாற்றமாகிறது.
-
-பிரமாண்ட தயாரிப்புகளுக்கு பெயர்போன விஜயா சுரேஷ் கம்பைன்ஸ் பெரும் பொருட்செலவில் டி.ராமா நாயுடு தயாரிப்பில் உருவான காதல் காவியமாக வசந்தமாளிகை அமைகிறது.
-
-கௌசல்யா தேவி என்ற தெலுங்குப் பெண் எழுத்தாளரின் கற்பனையில் உருவான ஒரு ஜமீன் காதல் கதையில் அழகாபுரி என்ற ஊரின் ஜமீன்தார் குடும்பத்தில் ஆனந்த் (சிவாஜி கணேசன்) என்ற இளைய ஜமீன்தார் தான் இக்கதையின் நாயகன். தந்தை பெரிய ஜமீன்தார் (எஸ்.வி.ரங்காராவ்) மறைவுக்குப் பின் செவிலித்தாயின் (புஷ்பலதா) அரவணைப்பில் அன்பும் பரிவும் நிறைந்து வளர்க்கப்பட்ட பிள்ளை ஆனந்த். பெற்ற தாயின் பாசம் நாயகனுக்கு கிடைக்கவில்லை.
-
-...
-
-[Data](articles/75e53741.json)
-
----
-
-### The move in that element: the startling information
-
-*2025-09-29 12:22:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-உறுப்பில்-இருந்த-நகக்கீறல்-திடுக்கிடும்-தகவல்/175-365472) · `ta`
-
-K.. Ramesh Kumar (50) has been brutally stabbed and the body of the body has been shocked in Trichy.
-
-In the wake of the murder, there is an inappropriate relationship between the driver and the wife of the culprit.
-
-Veeramuthu (52) and his wife Lakshmi (45) from Ambedkar Nagar have been arrested.
-
-Ramesh Kumar was returning home after completing his work and had a dispute with Veeramuthu couple near his house. Ramesh Kumar had earlier warned Veeramuthu due to inappropriate relationship.
-
-However, when Ramesh Kumar arrived at his house on Thursday night, Kallakkadali fought with Lakshmi and reportedly attacked him.. The furious couple attacked Ramesh Kumar and chased him down to the railway track and died.
-
-Rameshkumar's sister, Rohit Sharma, reported to the Thiruverumbur police.. The police immediately went to the scene and rescued the body and sent it to the Dukkudy Government Hospital.
-
-...
-
-[Data](articles/b1c173d6.json)
-
-[Extended Data](ext_articles/b1c173d6.ext.json)
-
----
-
-### மாவனெல்லையில் கட்டுமானப்பணி நடைபெறும் இடத்தில் மண்மேடு சரிவு ; மற்றுமொரு தொழிலாளரின் சடலம் மீட்பு!
-
-*2025-09-29 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226391) · `ta`
-
-மாவனெல்லை -  மாணிக்கவ பகுதியில் கட்டுமானப்பணி நடைபெறும் இடத்தில் மண்மேடு சரிந்து விழுந்த நிலையில் மண்ணுக்குள் சிக்கியிருந்த தொழிலாளர்கள் இருவரின் சடலங்கள் மீட்கப்பட்டதையடுத்து மற்றுமொரு தொழிலாளரின் சடலம் சற்றுமுன்னர் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இவ்வாறு மண்ணுக்குள் சிக்கிய தொழிலாளர்களை மீட்கும் பணிகள் இடம்பெற்ற நிலையில் தொழிலாளர்கள் இருவரின் சடலங்கள் முதலில் மீட்கப்பட்டன.
-
-இந்நிலையில் மண்ணுக்குள் சிக்கிய மற்றைய தொழிலாளரும் சற்றுமுன்னர் சடலமாக மீட்கப்பட்டதாக பொலிஸார் மேலும் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/bb17531e.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-09-29 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226390) · `ta`
-
-இலங்கை மத்திய வங்கி இன்றைய தினம் திங்கட்கிழமை (29) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 306.2965 ரூபாயாகவும் கொள்வனவு விலை 298.7693 ரூபாயாகவும் பதிவாகியுள்ளது.
-
-அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 412.6875 ரூபாய் மற்றும் கொள்வனவு விலை 400.0620 ரூபாயாகும்.
-
-யூரோ ஒன்றின் விற்பனை விலை 360.5693 ரூபாய் எனவும் கொள்வனவு விலை 348.9920  ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
-
-அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (29.09.2025) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/9e524a2d.json)
-
----
-
-### 15 children escaped from the barrier center
-
-*2025-09-29 12:13:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பு-மையத்திலிருந்து-15-சிறார்கள்-தப்பினர்/175-365471) · `ta`
-
-15 children have fled from the Magola Children's Prevention Center, which is under the control of the Department of Probation and Children's Protection.
-
-The police said that these children were detained on various crimes and are being investigated in several courts including Mahara, Colombo, Maliganda and Kaduwela.
-
-These children are children from different parts of the Western Province and are aged 16 and 17 years old.. The detention center has 52 children, police said.
-
-The children fled the window and door of the two rooms where the children were detained at around 12 midnight on the 27th and two guards were on duty.
-
-◼️
-
-[Data](articles/5e53f05c.json)
-
-[Extended Data](ext_articles/5e53f05c.ext.json)
-
----
-
-### நீதிமன்றில் பணிபுரியும் பெண் போதை மாத்திரைகளுடன் கைது!
-
-*2025-09-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226388) · `ta`
-
-அநுராதபுரத்தில் மதவாச்சி நீதவான் நீதிமன்றத்தில் பணிபுரியும் பெண் ஒருவர் போதை மாத்திரைகளுடன் மிஹிந்தலை பொலிஸாரால் ஞாயிற்றுக்கிழமை (28) மாலை  கைதுசெய்யப்பட்டுள்ளார்.
-
-மிஹிந்தலை பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மெற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபரான பெண் கைதுசெய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/2391ef83.json)
-
----
-
-### கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசி விற்பனை; 105 வர்த்தக நிலையங்களில் நுகர்வோர் விவகார அதிகார சபை சோதனை!
-
-*2025-09-29 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226381) · `ta`
-
-கடந்த இரண்டு வாரங்களில், அரசாங்கத்தால் விதிக்கப்பட்ட கட்டுப்பாட்டு விலையை விட அதிகமான விலைக்கு அரிசியை விற்பனை செய்ததற்காக, 105 வர்த்தக நிலையயங்களை நுகர்வோர் விவகார அதிகாரசபை  சோதனை செய்துள்ளது.
-
-விலை விதிமுறைகளை மீறி, அதிக விலைக்கு அரிசி விற்பனை செய்த விற்பனையாளர்களுக்கு எதிராக சட்ட நடவடிக்கைகள் எடுக்கப்படுவதாகவும் அதிகாரசபை அறிவித்துள்ளது.
-
-நிர்ணயிக்கப்பட்ட விலையை விட அதிகமாக அரிசி விற்பனை செய்யும் எவருக்கெதிராகவும் கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என்றும் நுகர்வோர் விவகார அதிகாரசபை  மேலும் வலியுறுத்தியுள்ளது.
-
-தனி உரிமையாளர் அத்தகைய குற்றத்தில் ஈடுபட்டதாகக் கண்டறியப்பட்டால், உரிமையாளருக்கு ஒரு இலட்சம் முதல் 5 இலட்சம் வரை அபராதம் விதிக்கப்படலாம், அல்லது ஐந்து மாதங்கள் சிறைத்தண்டனை அல்லது இரண்டும் விதிக்கப்படலாம் என தெரிவித்துள்ளது.
-
-அதேநேரம், ஒரு தனியார் நிறுவனம் கட்டுப்பாட்டு விலையை விட அதிகமான விலைக்கு அரிசி விற்பனை செய்ததாகக் கண்டறியப்பட்டால், நீதிமன்றம் 5 இலட்சம் முதல் ரூ. 50 இலட்சம் வரை அபராதம் விதிக்கலாம் எனவும் அதிகாரசபை தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/f145d8fd.json)
-
----
 
 ### The bus that was traveling to Jaffna escaped: 28 people escaped
 
@@ -363,8 +63,6 @@ Valappanai police said that no one was injured in the accident and the passenger
 
 [Data](articles/c7f8ab18.json)
 
-[Extended Data](ext_articles/c7f8ab18.ext.json)
-
 ---
 
 ### Recovery as corpses in Mawanella
@@ -380,42 +78,6 @@ Rescue operations have been initiated to rescue those who have been trapped unde
 [Data](articles/f475da24.json)
 
 [Extended Data](ext_articles/f475da24.ext.json)
-
----
-
-### மாவனெல்லையில் கட்டுமானப்பணி நடைபெறும் இடத்தில் மண்மேடு சரிவு ; தொழிலாளர்கள் இருவரின் சடலங்கள் மீட்பு!
-
-*2025-09-29 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226386) · `ta`
-
-மாவனெல்லை -  மாணிக்கவ பகுதியில் கட்டுமானப்பணி நடைபெறும் இடத்தில் மண்மேடு சரிந்து விழுந்த நிலையில், மண்ணுக்குள் சிக்கியிருந்த தொழிலாளர்கள் இருவரின் சடலங்கள் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மூன்று தொழிலாளர்கள் மண்ணுக்குள் சிக்கியுள்ளதாக தெரிவிக்கப்பட்ட நிலையில் அவர்களில் இருவரின் சடலங்கள் தற்போது மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மண்ணுக்குள் சிக்கிய மற்றைய தொழிலாளரை மீட்கும் பணிகள் இடம்பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/3a1a8f5e.json)
-
----
-
-### Mathisha Hewavitharana to head Sri Lanka’s Siyapatha Finance
-
-*2025-09-29 11:55:00* · [`economynextcom`](https://economynext.com/mathisha-hewavitharana-to-head-sri-lankas-siyapatha-finance-242118/) · `en`
-
-ECONOMYNEXT – Mathisha Bhadrika Don Hewavitharana will become chief executive officer of Siyapatha Finance PLC, with effect from October 1, the company said.
-
-Hewavitharana currently serves as the chief strategy officer of Siyapatha Finance, a subsidiary of Sampath Bank.
-
-A brief profile of Hewavitharana, as provided by the finance company, follows:
-
-Mr. Mathisha Hewavitharana possesses over 20 years of extensive experience in the financial services industry, having commenced his professional journey in 2005 at Siyapatha Finance PLC. His career has encompassed a wide array of functional areas, including Marketing, Credit, Branch Operations, Branding and Marketing Communications, Product and Business Development, and Strategic Planning and Execution.
-
-...
-
-[Data](articles/0a8442be.json)
-
-[Extended Data](ext_articles/0a8442be.ext.json)
 
 ---
 
@@ -466,38 +128,6 @@ Dr. Hans Wijayasuriya of Foreign Affairs and Tourism and Tourism, Dr. Hans Wijay
 [Data](articles/efc88a45.json)
 
 [Extended Data](ext_articles/efc88a45.ext.json)
-
----
-
-### සෑම පුරවැසියෙකුගේම ජීවන තත්ත්වය උසස් කරනවා
-
-*2025-09-29 11:50:16* · [`adalk`](https://www.ada.lk/breaking_news/සෑම-පුරවැසියෙකුගේම-ජීවන-තත්ත්වය-උසස්-කරනවා/11-418784) · `si`
-
-සිය ජපාන සංචාරයේ පළමු කටයුත්ත ලෙස, ජනාධිපතිවරයා ජපානයේ, ඔසාකා නුවර පැවැත්වෙන “එක්ස්පෝ 2025” ප්‍රදර්ශනයේ ශ්‍රී ලංකා දින සැමරුම් උත්සවය සඳහා සහභාගි විය.
-
-ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය සහ ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය එක්ව සංවිධානය කළ ශ්‍රී ලංකා දින උත්සවය, ශ්‍රී ලාංකීය අනන්‍යතාව පිළිඹිබු කරන විවිධ සංස්කෘතිකාංගවලින් විචිත්‍රවත් වූ අතර, මෙම සංස්කෘතික උත්සවය නැරඹීම සඳහා ජපන් ජාතිකයින් මෙන්ම විදේශිකයෝ විශාල පිරිසක් රැස්ව සිටියහ.
-
-මෙම උත්සව සභාව ඇමතූ ජනාධිපති අනුර කුමාර දිසානායක මහතා සඳහන් කළේ ගෝලීය පරිවර්තනයන් සිදු වන මේ අවස්ථාවේ ශ්‍රී ලංකාව පසු වන්නේ සිය ආර්ථික ගමනේ තීරණාත්මක මොහොතක බවත්, අඛණ්ඩ අභියෝගවලට මුහුණ දුන් ශ්‍රී ලංකාව මේ වන විට තිරසාර සහ සහභාගිත්ව ආර්ථිකයක් නැවත ගොඩනඟමින් සිටින බවත්ය. මෙම සංවර්ධනයේ ප්‍රතිලාභ පුළුල්ව බෙදා ගන්නා බවටත්, එම සමෘද්ධිමත්භාවය තුළින් සෑම පුරවැසියෙකුගේම ජීවන තත්ත්වය උසස් කරන බවට සහතික වන බවත් ජනාධිපතිවරයා මෙහිදී පැවසීය.
-
-...
-
-[Data](articles/91cd8b61.json)
-
----
-
-### மதுபோதையில் வாகனங்களை செலுத்திய 35 சாரதிகள் கைது!
-
-*2025-09-29 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226384) · `ta`
-
-நாடளாவிய ரீதியில் நேற்று ஞாயிற்றுக்கிழமை (28) மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது 5,451 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
-
-இந்த விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது, பல்வேறு குற்றச் செயல்கள் தொடர்பில் ஆதாரங்களுடன் 694 பேரும், சந்தேகத்தின் பேரில் 26 பேரும், பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 278 பேரும், திறந்த பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 173 பேரும், மதுபோதையில் வாகனங்களை செலுத்தியமை தொடர்பில் 35 சாரதிகளும், கவனக்குறைவாக வாகனங்களை செலுத்தியமை தொடர்பில் 16 சாரதிகளும், ஏனைய போக்குவரத்து விதிமுறைகளை மீறியமை தொடர்பில் 4229 பேரும் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/c87b9fb6.json)
 
 ---
 
@@ -591,63 +221,9 @@ The two countries will focus on the fields, investment, investment cooperation a
 
 ---
 
-### அதிக கூடிய ஐஸ் போதைப்பொருளுடன் வர்த்தகர் கைது
+### පස් කන්දට යටවූ දෙදෙනෙකුගේ සිරුරු ගොඩ ගනියි
 
-*2025-09-29 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226380) · `ta`
-
-மட்டக்களப்பு, காத்தான்குடி பகுதியில் அதி கூடிய ஐஸ் போதைப்பொருளுடன் பிரபல போதைப்பொருள் வர்த்தகர் கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
-
-சந்தேகநபர்  முஸ்லிம் கொலணியைச் சேர்ந்த 29 வயதுடைய என்பதுடன் அவரிடமிருந்து 51 கிராம் ஐஸ் போதைப்பொருள்  கைப்பற்றப்பட்டுள்ளது.
-
-இதுவே கிழக்கு மாகாணத்தில்  கைப்பற்றப்பட்ட அதிக்கூடிய ஐஸ் போதைப் பொருள் என காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
-
-முஸ்லிம் கொலணி பிரதேசத்திலிருந்து காத்தான்குடிக்கு விற்பனைக்காக குறித்த ஐஸ் போதைப்பொருள் கொண்டுவரப்பட்டமை பொலிஸாரின் விசாரணையிலிருந்து தெரியவந்துள்ளது.
-
-பொலிஸாரால் கைப்பற்றப்பட்ட போதைப்பொருள் சுமார் 17 இலட்சம் பெறுமதியுடையது என காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/065fb0c4.json)
-
----
-
-### சிறுவர் மத்திய நிலையத்தில் இருந்து 15 சிறுவர்கள் தப்பியோட்டம்!
-
-*2025-09-29 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226383) · `ta`
-
-நன்னடத்தை மற்றும் சிறுவர் பராமரிப்புச் சேவைகள் திணைக்களத்தின் தலைமையில் இயங்கி வரும் மாகொல சிறுவர் மத்திய நிலையத்தில் இருந்து 15 சிறுவர்கள் தப்பிச் சென்றுள்ளதாக சபுகஸ்கந்த பொலிஸார் தெரிவித்தனர்.
-
-16 மற்றும் 17 வயதுடைய சிறுவர்களே இவ்வாறு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த சிறுவர்கள் கடந்த 27 ஆம் திகதி நள்ளிரவு 12 மணியளவில் சிறுவர் மத்திய நிலையத்தில் இருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-தப்பிச் சென்ற சிறுவர்கள் நீதிமன்ற உத்தரவின் கீழ் சிறுவர் மத்திய நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்ததாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-இந்த சிறுவர்களுக்கு எதிராக பல்வேறு குற்றச் செயல்கள் தொடர்பில் கண்டி, கொழும்பு, மாளிகாகந்த மற்றும் கடுவலை ஆகிய நீதிமன்றங்களில் வழக்கு தொடரப்பட்டு வருவதாகவும் பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/37a48803.json)
-
----
-
-### மாவனெல்லையில் கட்டுமானப் பணி நடைபெறும் இடத்தில் மண்மேடு சரிவு
-
-*2025-09-29 11:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226377) · `ta`
-
-மாவனெல்லை -  மாணிக்கவ பகுதியில் கட்டுமானப்பணி நடைபெறும் இடத்தில் மண்மேடு இடிந்து விழுந்ததில், குறைந்தது  மூன்று தொழிலாளர்கள் சிக்கியுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-◼️
-
-[Data](articles/5e28a3c3.json)
-
----
-
-### පස් කන්දට යටවූ තිදෙනාගේම සිරුරු ගොඩ ගනියි
-
-*2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-තිදෙනාගේම-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
-
-(UPDATE)  12.35 P.M. මාවනැල්ල, මාණික්කාව ප්‍ර දේශයේ තාප්පයක් බදිමින් සිටි කම්කරුවක් පිරිසක් මතට පස් කන්දක් කඩා වැටීමෙන් සිදුවූ අනතුරින් එම පස්කන්දට යටවී සිටි කම්කරුවන් තිදෙනාගේ සිරුරු මේ වන විට ගොඩගෙන තිබේ.
+*2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-දෙදෙනෙකුගේ-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
 
 11.54 A.M. මාවනැල්ල, මාණික්කාව ප්‍ර දේශයේ තාප්පයක් බදිමින් සිටි කම්කරුවක් පිරිසක් මතට පස් කන්දක් කඩා වැටීමෙන් සිදුවූ අනතුරින් එම පස්කන්දට යටවී සිටි කම්කරුවන් දෙදෙනෙකුගේ සිරුරු මේ වන විට ගොඩගෙන තිබේ.
 
@@ -655,23 +231,7 @@ The two countries will focus on the fields, investment, investment cooperation a
 
 ◼️
 
-[Data](articles/473cf26d.json)
-
----
-
-### The bodies of two of two flooding on the mound
-
-*2025-09-29 11:30:36* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යටවූ-දෙදෙනෙකුගේ-සිරුරු-ගොඩ-ගනියි/11-418783) · `si`
-
-11.54 A.M. The bodies of two workers who were subjected to a wall of Mawanella and a wall of the land of Menikka have been recovered from the crash.
-
-11.24 A mound has collapsed on a group of workers who were in the Menikka area in the Manikka area. They have begun rescue work. About three workers were serving as the accident occurred.
-
-◼️
-
 [Data](articles/7f0d6043.json)
-
-[Extended Data](ext_articles/7f0d6043.ext.json)
 
 ---
 
@@ -712,22 +272,6 @@ The JVP / Mass the JVP will tell us a year review of the government's revival of
 [Data](articles/6248e01f.json)
 
 [Extended Data](ext_articles/6248e01f.ext.json)
-
----
-
-### ආයෝජකයන් ගෙන්වා ගැනීමේ අභියෝගය
-
-*2025-09-29 11:24:52* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ආයජකයන-ගනව-ගනම-අභයගය/2-680401) · `si`
-
-“ලංකාවේ කම්කරු නීති ලෝක ප්‍රමිතීන්ට අනුකූලව, ව්‍යාපාර හිතවාදී ලෙස ක්‍රියාත්මක කිරීමට මේ ප්‍රතිසංස්කරණ අත්‍යවශ්‍යයි. අපේ බලාපොරොත්තුව කම්කරු අයිතීන් සුරකින, ඵලදායිතාව දියුණු කරන සහ ලාංකීය ආර්ථිකයෙහි ආයෝජක විශ්වාසය වැඩි දියුණු කෙරෙන නීති රාමුවක් හැදීමයි.”
-
-කම්කරු නියෝජ්‍ය ඇමැති මහින්ද ජයසිංහ මීට මාසයකට පමණ ඉහතින් මාධ්‍යයට එසේ කියා තිබුණි. ඔහු තවදුරටත් අවධාරණය කර තිබුණේ, යෝජිත සංශෝධන ජාත්‍යන්තර කම්කරු සංවිධානයේ ප්‍රඥප්තිවලට අනුකූලව, නවීන ආර්ථික යථාර්ථය පිළිබිඹු වන සේ සකස් කෙරෙන බවය.
-
-ජවිපෙ/මාලිමා ආණ්ඩුවේ අවුරුද්දක පුනරුද පාලනය අපට කියා දෙන්නේ, කියන්නා කෙසේ කීවත් අසන්නා සිහි බුද්ධියෙන් ඇසිය යුතු යැයි කියා ය. කම්කරු නියෝජ්‍ය ඇමැතිගේ කතා බහ එසේ අසන්නේ නම්, ජවිපෙ/මාලිමා ආණ්ඩුව කම්කරු නීති සංශෝධනයට පත් කර ඇති විශේෂඥ කමිටුව විසින් සංශෝධන නැතිනම් අලු‍ත්ම නීතියක් හැදීමට නිර්දේශ කළත් එය අගමැති වික්‍රමසිංහගේ යහපාලන ආණ්ඩුව 2017 දී මලික් සමරවික්‍රම ඇමැතිවරයාගේ පුරෝගාමීත්වයෙන් US AID ආධාර හා විශේෂඥතා සමග තනි කම්කරු නීතියක් හැදීමට ගත් උත්සාහයම වන්නේ ය.
-
-...
-
-[Data](articles/a8f16a2f.json)
 
 ---
 
@@ -773,42 +317,6 @@ He added that the initial report at the time had decided that Tajuddin was drivi
 
 ---
 
-### திருடிய வேனை விற்பனை செய்து புதிய மோட்டார் சைக்கிளில் காதலியுடன் ஊரை சுற்றிய இளைஞன் கைது!
-
-*2025-09-29 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226382) · `ta`
-
-கண்டி பிரதேசத்தில் உள்ள வாகன விற்பனை நிலையத்தில் இருந்து திருடிய வேனை விற்பனை செய்ததன் மூலம் கிடைத்த பணத்தினை பயன்படுத்தி மோட்டார் சைக்கிளை கொள்வனவு செய்து காதலியுடன் ஊரை சுற்றிய இளைஞன் ஒருவர் கண்டி தலைமையக பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளார்.
-
-கண்டி தலைமையக பொலிஸாருக்கு கிடைத்த முறைப்பாட்டின் பேரில் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபரான இளைஞன் கைதுசெய்யப்பட்டுள்ளார்.
-
-கைதுசெய்யப்பட்டவர் மாத்தளை - மாதிபொல பிரதேசத்தைச் சேர்ந்த 32 வயதுடைய இளைஞன் ஆவார்.
-
-சந்தேக நபரான இளைஞன் செப்டெம்பர் 22 ஆம் திகதி கண்டி பிரதேசத்தில் உள்ள வாகன விற்பனை நிலையம் ஒன்றிலிருந்து வேன் ஒன்றை கொள்வனவு செய்து அதனை மாத்தளை - பல்லேபொல பிரதேசத்தில் உள்ள அடகு கடை ஒன்றில் 15 இலட்சம் ரூபாவுக்கு விற்பனை செய்து அந்த பணத்தில் புதிய மோட்டார் சைக்கிள் ஒன்றை கொள்வனவு செய்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-சந்தேக நபரான இளைஞன் புதிய மோட்டார் சைக்கிளில் தனது காதலியுடன் ஊரை சுற்றிப் பார்த்துக்கொண்டிருக்கும் போது கண்டி பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/38868f6f.json)
-
----
-
-### CSE Mastermind Quiz හත් වැනි අදියරේදී රු.මිලි. 3.5 ඉක්මවූ තෑගි
-
-*2025-09-29 11:11:31* · [`adalk`](https://www.ada.lk/business/CSE-Mastermind-Quiz-හත්-වැනි-අදියරේදී-රු-මිලි--3-5-ඉක්මවූ-තෑගි/7-418781) · `si`
-
-CSE Mastermind Quiz ප්‍රශ්න විචාරාත්මක වැඩසටහනේ 7 වැනි අදියර 2025 ඔක්තෝබර් මස 17දා කොළඹදී පැවැත්වෙන බව කොළඹ කොටස් හුවමාරුව සාඩම්බරයෙන් දැනුම් දෙයි.
-
-ප්‍රාග්ධන වෙළෙඳ පොළ සම්බන්ධයෙන් වූ ශ්‍රී ලංකාවේ වඩාත් ජනාදරයට පත් මෙම වැඩසටහන තුළ රාජ්‍ය හා පෞද්ගලික අංශය නියෝජනය කරන කණ්ඩායම්වලට ජාත්‍යන්තර ව්‍යාපාර, ගෝලීය වෙළෙඳපොළ, ශ්‍රී ලංකා ආර්ථිකය හා ව්‍යාපාර, දේශීය ප්‍රාග්ධන වෙළෙඳපොළ, ක්‍රීඩා හා විනෝදාස්වාද මෙන්ම වර්තමාන වෙළෙඳපොළ කටයුතු ආදී විෂයය ක්ෂේත්‍ර 6ක් යටතේ තරග කිරීමට අවස්ථාව සැලසෙයි.
-
-මෙවර තරගාවලියේදී රු.මිලියන 3.5කට අධික වටිනාකමකින් යුතු ත්‍යාග දිනා ගැනීමට තරගකරුවන්ට අවස්ථාව සැලසෙන අතර, ජයග්‍රාහී කණ්ඩායමට රු.මිලියනයක්ද, දෙවැනි ස්ථානය ලබන කණ්ඩායමට රු. රු.500,000/-ක්ද, තෙවැනි ස්ථානය ලබන කණ්ඩායමට රු.375,000/-ක්ද හිමිවෙයි.
-
-...
-
-[Data](articles/c92d2c8d.json)
-
----
-
 ### Don’t Overlook Sri Lanka — It’s a Paradise Waiting to Be Explored
 
 *2025-09-29 11:09:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/don%e2%80%99t-overlook-sri-lanka-%e2%80%94-it%e2%80%99s-a-paradise-waiting-to-be-explored) · `en`
@@ -831,24 +339,6 @@ Naqvi emphasized that Sri Lanka’s hospitality, cuisine, and diversity of exper
 
 ---
 
-### நெடுந்தீவில் எரிபொருள் நிரப்பு நிலையம் ; ஒக்.4இல் ஒப்பந்தம்! - இளங்குமரன்
-
-*2025-09-29 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226379) · `ta`
-
-நெடுந்தீவில் எரிபொருள் நிரப்பு நிலையம் அமைப்பதற்கான ஒப்பந்தப் பணிகள் எதிர்வரும் ஒக்டோபர் 4ஆம் திகதி நடைபெறவுள்ளதாக நாடாளுமன்ற உறுப்பினர் க. இளங்குமரன் தெரிவித்துள்ளார்.
-
-நெடுந்தீவு பகுதியில் எரிபொருள் நிரப்பு நிலையம் இல்லாத காரணத்தால் அப்பகுதி மக்கள் வேலணைக்குச் சென்றே தமக்கான எரிபொருட்களை பெற்றுக்கொள்கின்றனர்.
-
-நெடுந்தீவில் இருந்து குறிகாட்டுவானுக்கு சுமார் ஒரு மணிநேரம் படகில் கடல் பயணம் மேற்கொண்டு, குறிகாட்டுவானில் இருந்து, வேலணை பகுதிக்கு தரை வழியாக சென்று எரிபொருட்களை கொள்வனவு செய்து, மீண்டும் நெடுந்தீவுக்கு கொண்டுசெல்லவேண்டிய நிலையிலேயே அப்பகுதி மக்கள் காணப்படுகின்றனர்.
-
-இந்நிலையில், நெடுந்தீவில் எரிபொருள் நிரப்பு நிலையம் அமைக்க வேண்டும் என நீண்ட காலமாக அங்கு வாழும் மக்கள் கோரிக்கைகளை முன்வைத்து வந்த நிலையில், தற்போது எரிபொருள் நிரப்பு நிலையம் அமைக்கும் பணிகளுக்கான ஒப்பந்த நடவடிக்கைகள் எதிர்வரும் 4ஆம் திகதி நடைபெறவுள்ளதாக நாடாளுமன்ற உறுப்பினர் இளங்குமரன் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/7d1a3e11.json)
-
----
-
 ### Massive disaster at Mawanella
 
 *2025-09-29 11:00:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவனெல்லையில்-பாரிய-அனர்த்தம்/175-365462) · `ta`
@@ -862,18 +352,6 @@ Rescue operations have been launched to rescue those who have been trapped under
 [Data](articles/b4b1adc4.json)
 
 [Extended Data](ext_articles/b4b1adc4.ext.json)
-
----
-
-### தெற்காசியாவில் சீனாவின் 'புஜியான்' அச்சுறுத்துமா ?
-
-*2025-09-29 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226378) · `ta`
-
-சீனாவின் 'புஜியான்' விமானம் தாங்கிக் கப்பலின் வருகை, இந்தியப் பெருங்கடல் பிராந்தியத்தில் இராணுவ பலம், அரசியல் செல்வாக்கு மற்றும் பாதுகாப்பு வியூகம் ஆகியவற்றில் புதிய அத்தியாயத்தைத் திறக்க உள்ளது. அட்மிரல் திரிபாதி குறிப்பிட்டது போல, இந்த சவால்களை எப்படி எதிர்கொள்வது என்பது பிராந்திய நாடுகளின் கைகளிலேயே உள்ளது.
-
-◼️
-
-[Data](articles/9fef0abf.json)
 
 ---
 
@@ -930,24 +408,6 @@ The police said that they have to rescue them.
 [Data](articles/070b57a6.json)
 
 [Extended Data](ext_articles/070b57a6.ext.json)
-
----
-
-### මාවනැල්ල පස් කන්දට යට වූ තිදෙනාම මරුට
-
-*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මවනලල-පස-කනදට-යට-ව-තදනම-මරට/101-680400) · `si`
-
-මාවනැල්ල මානික්කාවේ ඉඩමක ආරක්ෂක බැම්මක් කප්පද්දි පස් කන්දට යටවූ සේවකයන් තිදෙනාගේ සිරුරු ගොඩ ගත් බව පොලිසිය කියයි.
-
-එම ස්ථානයේ සිවු දෙනකු සේවය කර ඇති අතර එක් අයකු යට නොවී බේරි ඇත. තවත් එක් සේවකයකු පස් කන්දට යටවී ඇති අතර ඔහු බේරාගැනීමට බැකෝ යන්ත්‍ර ආධාරයෙන් කටයුතු කරමින් සිටින බව සහන කණ්ඩායම් පවසයි.
-
-මාවනැල්ල, අලුත්නුවර, මාණික්කාව ප්‍රදේශයේ තාප්පයක් බඳිමින් සිටි තිදෙනකු  මතට පස් කන්දක් කඩා වැටී ඇතැයි පොලීසිය කියයි.
-
-මේ වන විට ඔවුන් බේරාගැනීමේ කටයුතු සිදුවන බවද පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/097893e0.json)
 
 ---
 
@@ -1119,22 +579,6 @@ The move is expected to significantly boost Sri Lanka’s national capacity in A
 
 ---
 
-### பான் ஏசியா வங்கி வாடிக்கையாளர்களுக்கு பிரத்தியேக நன்மைகளை   வழங்க Senok Trade Combine உடன் பங்குடைமை
-
-*2025-09-29 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226374) · `ta`
-
-இலங்கையில் மிகவும் புதுமையான மற்றும் வாடிக்கையாளர்களை மையமாகக் கொண்ட வங்கிகளில் ஒன்றான பான் ஏசியா வங்கி, வாகனங்கள், கட்டுமானம், புதுப்பிக்கத்தக்க எரிசக்தி மற்றும் வர்த்தகம் ஆகிய துறைகளில் வர்த்தக செயற்பாடுகளைக் கொண்ட பன்முகப்படுத்தப்பட்ட கூட்டு நிறுவனமான செனோக் டிரேட் கம்பைன் (பிரைவேட்) லிமிடெட்[Senok Trade Combine (Pvt) Ltd] உடன் கூட்டு சேர்ந்துள்ளது.
-
-இந்த ஒத்துழைப்பானது இலங்கை வர்த்தகங்கள்  மற்றும் நுகர்வோருக்கு அதிக பெறுமதியை  வழங்குவதற்காக, தொழில்துறை தலைமைத்துவத்துடன் நிதி சேவைகளை இணைப்பதில்  ஒரு குறிப்பிடத்தக்க மைல்கல்லை குறிப்பதாகவுள்ளது.
-
-பான் ஏசியா வங்கியானது, இந்த  பங்குடைமை  மூலம், செனோக்கின் விரிவான செயல்பாடுகளை நிறைவு செய்யும் வகையில் அதன் நிதி நிபுணத்துவத்தை விரிவுபடுத்துவதுடன், பல துறைகளில் வளர்ச்சிக்கான புதிய வாய்ப்புகளை உருவாக்கவுள்ளது.
-
-...
-
-[Data](articles/12f0ff12.json)
-
----
-
 ### Workers trapped as earth bund collapses at construction site in Mawanella
 
 *2025-09-29 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113015/workers-trapped-as-earth-bund-collapses-at-construction-site-in-mawanella) · `en`
@@ -1243,24 +687,6 @@ Walapane said that no injuries were injured in the accident and the victim was t
 
 ---
 
-### அமெரிக்காவில் பெருந்துயரம்: தேவாலயத்தில் துப்பாக்கிச் சூடு, தீ வைப்பு - நால்வர் பலி, பலர் காயம்!
-
-*2025-09-29 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226375) · `ta`
-
-அமெரிக்காவின் மிச்சிகன் மாகாணத்தில் உள்ள கிராண்ட் ப்ளாங்க் நகரில், தேவாலயம் ஒன்றில் துப்பாக்கிச் சூடு மற்றும் தீ வைப்புச் சம்பவங்கள் இடம்பெற்றுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன. இந்த சம்பவத்தில் குறைந்தது நான்கு பேர் கொல்லப்பட்டுள்ளதுடன் எட்டு பேர் காயமடைந்துள்ளனர்.
-
-இந்தத் தாக்குதலை நடத்தியதாகச் சந்தேகிக்கப்படும் நபர், 40 வயதான தோமஸ் ஜேக்கப் சான்ஃபோர்ட் என அடையாளம் காணப்பட்டுள்ளார். இவர் அருகிலுள்ள பர்ட்டன் நகரத்தைச் சேர்ந்தவர்.
-
-ஞாயிற்றுக்கிழமை (28) காலை வழிபாட்டின் போது, சந்தேகநபர் தனது வாகனத்தை தேவாலயத்தின் பிரதான கதவில் மோதிவிட்டு வெளியே வந்து, துப்பாக்கியால் சரமாரியாகச் சுடத் தொடங்கினார் என்று கிராண்ட் ப்ளாங்க் நகரின் பொலிஸார் தெரிவித்துள்ளனர்.
-
-தீயணைப்புத் துறையினரின் கூற்றுப்படி, சந்தேகநபர் பெட்ரோல் போன்ற எரிபொருளைப் பயன்படுத்தி தேவாலயத்திற்குத் தீ வைத்ததாகக் கூறப்படுகிறது. தீ விபத்து காரணமாக முழு தேவாலயமும் மொத்தமாகச் சேதமடைந்தது.
-
-...
-
-[Data](articles/b2350a77.json)
-
----
-
 ### Salman Ali Aga
 
 *2025-09-29 10:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பரிசுத்-தொகையைத்-தூக்கி-எறிந்த-சல்மான்-அலி-அகா/44-365457) · `ta`
@@ -1276,32 +702,6 @@ After the match, the frustration of the defeat in the face of Pakistan Captain S
 [Data](articles/d704d910.json)
 
 [Extended Data](ext_articles/d704d910.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-29 10:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242096/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.62/65 to the US dollar on Monday, weaker from 302.50/55 on Friday, while bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2029 was quoted at 9.55/60 percent, up from 9.54/60 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.68/72 percent, up from 9.67/70 percent.
-
-A bond maturing on 15.03.2031 was quoted at 10.00/10 percent.
-
-A bond maturing on 15.12.2032 was quoted at 10.40/50 percent, up from 10.43/48 percent.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.33 percent, or 70.41 points, at 21,669; the S&P SL20 was up 0.34 percent, or 20.64 points, at 6,132.
-
-43,000 million rupees Treasury bills are to be issued through an auction on October 1. (Colombo/Sep29/2025)
-
-◼️
-
-[Data](articles/71000460.json)
-
-[Extended Data](ext_articles/71000460.ext.json)
 
 ---
 
@@ -1440,26 +840,6 @@ COLOMBO (News 1st) - The Walana Anti-Corruption Unit says that member of the Deh
 [Data](articles/60e38939.json)
 
 [Extended Data](ext_articles/60e38939.ext.json)
-
----
-
-### புவலாய் சூறாவளி ; பிலிப்பைன்ஸில் 20 பேர் பலி ; வியட்நாமில் 12 மீனவர்கள் மாயம்
-
-*2025-09-29 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226372) · `ta`
-
-பிலிப்பைன்ஸ் நாட்டில் கடந்த வெள்ளிக்கிழமை முதல் புவலாய் சூறாவளி தாக்குதலால் பல்வேறு நகரங்களும் பாதிக்கப்பட்டுள்ளன. வீடுகள், கட்டிடங்கள் வெள்ள நீரால் சூழப்பட்டு உள்ளன. மரங்கள் முறிந்து விழுந்தன. மின் இணைப்பும் துண்டிக்கப்பட்டது.
-
-இதனால், 23 ஆயிரம் குடும்பங்கள் புலம் பெயர்ந்துள்ளனர். 1,400 நிவாரண முகாம்கள் ஏற்படுத்தப்பட்டு அதில் அவர்கள் தங்க வைக்கப்பட்டுள்ளனர். சூறாவளியால், மத்திய பிலிப்பைன்சில் 20 பேர் வரை உயிரிழந்துள்ளனர்.
-
-இந்நிலையில், வியட்நாம் நோக்கி சூறாவளி  நகர்ந்து உள்ளது. அதன் தாக்கம் கடுமையாக உள்ளது என தெரிவிக்கப்பட்டது.
-
-திங்கட்கிழமை அதிகாலை வடக்கு மத்திய வியட்நாமில் புவாலோய் புயல் கரையைக் கடந்துள்ளது. வீடுகளை சேதப்படுத்தியது மற்றும் மின் கட்டமைப்புகளை சேதப்படுத்தியுள்ளது. சூறாவளி  வெள்ளப்பெருக்கு மழை மற்றும் பாரிய அலை எழுச்சி ஆகியவற்றால்  இரண்டு பேர் உயிரிழந்துள்ளதோடு, 12 மீனவர்கள் காணாமல் போயுள்ளனர்.
-
-இதனால், வியட்நாமின் மத்திய மற்றும் வடக்கு மாகாணங்களில் உள்ள ஆயிரக்கணக்கான மக்கள் பாதுகாப்பான பகுதிகளுக்கு கொண்டு செல்லப்பட்டனர்.
-
-...
-
-[Data](articles/887e8d35.json)
 
 ---
 
@@ -1868,5 +1248,725 @@ The suspect is 24 year old resident of Moratuwa, Angulana, aged 24. The Western 
 [Data](articles/9192036e.json)
 
 [Extended Data](ext_articles/9192036e.ext.json)
+
+---
+
+### Youth nabbed with over 400 live rounds of ammunition and heroin
+
+*2025-09-29 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113011/youth-nabbed-with-over-400-live-rounds-of-ammunition-and-heroin-) · `en`
+
+A 24-year-old has been arrested for the possession of 458 rounds of live ammunition, a T-56 magazine and 75 grams and 400 milligrams of heroin, in Kottawa by the Police Special Task Force (STF).
+
+The police also recovered 30 counterfeit vehicle number plates, 15 revenue licenses, 15 insurance certificates and two mobile phones in his possession.
+
+The suspect is identified as a resident of Angulana, Moratuwa, police said.
+
+The suspect has been handed over to the Western Province Southern Crime Division for further investigations.
+
+◼️
+
+[Data](articles/23db3f9a.json)
+
+[Extended Data](ext_articles/23db3f9a.ext.json)
+
+---
+
+### Pack. India refuses to buy a bowl with minister
+
+*2025-09-29 07:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/பாக்-அமைச்சரிடம்-கிண்ணத்தை-வாங்க-மறுத்த-இந்தியா/44-365450) · `ta`
+
+India, a champion of the Asia Cup, refused to buy the bowl from Pakistan's Home Minister Moshin Naqi.
+
+It is noteworthy that Naqvi is the Chairman of the Pakistan Cricket Board and the Asian Cricket Board.
+
+Kuldeep Yadav, Abhishek Sharma and Tilak Verma have received personal awards from the guests on the stage, as they have received personal awards, and they have not seen them.
+
+The Indian players and the coach were celebrating the bowl on the stage.
+
+◼️
+
+[Data](articles/5a88ec9d.json)
+
+[Extended Data](ext_articles/5a88ec9d.ext.json)
+
+---
+
+### India Crowned Asia Cup T20 Champions for the Ninth Time
+
+*2025-09-29 07:44:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/india-crowned-asia-cup-t20-champions-for-the-ninth-time) · `en`
+
+...
+
+[Data](articles/6b8baba5.json)
+
+[Extended Data](ext_articles/6b8baba5.ext.json)
+
+---
+
+### Suspect arrested with 458 bio and heroin
+
+*2025-09-29 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215121) · `si`
+
+A suspect has been arrested by the STF in Kottawa in Kottawa area with various types of biolubarms, T-5om Gacket.
+
+Police found 400 g of heroin, 30 grams of heroin in his possession, 30 garments, 15 insurance certificates, 15 insurance certificates and two mobile phones.
+
+The suspect is a 24 year old resident of Angulana, Moratuwa.
+
+The suspect has been handed over to the Western Provincial Southern Provincial Crimes Division for further investigations.
+
+◼️
+
+[Data](articles/85e59fb4.json)
+
+[Extended Data](ext_articles/85e59fb4.ext.json)
+
+---
+
+### It is revealed that the school children treated more inclined from the Western Province
+
+*2025-09-29 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215120) · `si`
+
+The Dangerara Drugs Control Board says that most of the school children in Sri Lanka tend to be narrowed in the Western Province.
+
+The Colombo district is the mainstill, including the Grandpass, Panaduwa, Panadura, Dehiwala, Mount Lavinuwa, Dehiwala.
+
+In addition, some parts of the Kandy district have been identified as a large number of school children.
+
+The Dangered Drugs Control Board stated that Gampaha, Kurunegala, Anuradhapura, Ratnapura and Kalutara districts have been identified as risky.
+
+The influence of friends has been identified as a major point that school children affect drugs.
+
+It is also the low interest in the school children, such as principals such as principals, zonal education offices such as principal, Zonal Education Offices to enforce the school drug prevention policy, especially in the drug policy.
+
+In addition, it is also identified as the neglect of family environment as environmental environments, neglect, the family and drugs, the family and unrest in the area.
+
+...
+
+[Data](articles/74d78944.json)
+
+[Extended Data](ext_articles/74d78944.ext.json)
+
+---
+
+### Netanyahu to meet Trump as Israel faces isolation over Gaza war
+
+*2025-09-29 07:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113010/netanyahu-to-meet-trump-as-israel-faces-isolation-over-gaza-war) · `en`
+
+Facing increasing isolation abroad and mounting pressure at home, Israeli Prime Minister Benjamin Netanyahu will defend his intention to “finish the job” in Gaza when he meets US President Donald Trump on Monday (Sep 29).
+
+The meeting comes days after Trump unveiled a 21-point plan aimed at ending the war in the Palestinian territory during discussions with Arab and Muslim leaders on the sidelines of the UN General Assembly.
+
+On Sunday, Trump hinted at “something special” to come in Middle East talks, adding in a post on his Truth Social platform: “WE WILL GET IT DONE!!!”
+
+On Friday, Trump had told reporters in Washington “I think we have a deal” on Gaza, even as Netanyahu, speaking at the UN, vowed to “finish the job” in Israel’s war against Hamas.
+
+But experts told AFP that Netanyahu appeared to be cornered, facing growing international and domestic calls to end the war.
+
+...
+
+[Data](articles/77677851.json)
+
+[Extended Data](ext_articles/77677851.ext.json)
+
+---
+
+### Four persons killed in a chapelled in America
+
+*2025-09-29 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215119) · `si`
+
+Four persons have died in a gunshot wound and the fire in a gunshot wound in Michigan, USA, Michigan.
+
+Foreign media reports that 8 others were injured in the incident.
+
+It is said that the gunman was inaugurated by a car in a car crashed into a car, and then a fire that was deliberately started shooting after the church.
+
+The suspect was 40-year-old Thomas Jacob, a shooting with the police, and the police have also been suspected.
+
+The suspect has been revealed as a veteran of the Marine Corps and is yet to be revealed in whateteteening the attack he made.
+
+In the meantime, the US security forces have been able to strengthen the security of religious places in the United States.
+
+However, the American President Donald Trump is also commented on the attack and the attack was introduced as another target attack on Christian.
+
+◼️
+
+[Data](articles/d8bd7588.json)
+
+[Extended Data](ext_articles/d8bd7588.ext.json)
+
+---
+
+### World heart day is today
+
+*2025-09-29 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215118) · `si`
+
+Every year, the heart day will celebrate the heart of hearts on September 29.
+
+He can be treated as a result of the largest group of people in the world, and the world heart day is expected to educate and minimize the possibility of it.
+
+The theme of this time is '' every heart beat important. Don't let anyone die premature to any heart beat '' Go.
+
+Meanwhile, it is sad that it is sad that 80 percent of the deaths due to heart disease caused by heart disease.
+
+He was speaking at a program held at Viharamahadevi Park yesterday (28).
+
+The doctor emphasized that the main objective of the World Heritage Day is to arrange to prevent preventable hearts.
+
+He also points out that he is able to reduce heart disease through a simple and healthy life.
+
+The doctor added that exercise, avoiding good food pattern, abstaining from smoking and avoiding stressful actions and health tests are also important.
+
+◼️
+
+[Data](articles/3de4498d.json)
+
+[Extended Data](ext_articles/3de4498d.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2025-09-29 06:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113009/several-spells-of-showers-expected-in-parts-of-the-island-) · `en`
+
+Several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (29), the Department of Meteorology said.
+
+Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.
+
+Fairly strong winds of about (35-45) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts, the Met. Department added.
+
+◼️
+
+[Data](articles/13cd98f1.json)
+
+[Extended Data](ext_articles/13cd98f1.ext.json)
+
+---
+
+### 85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya
+
+*2025-09-29 06:21:01* · [`dailyftlk`](https://www.ft.lk/opinion/85th-birthday-commemoration-of-former-Speaker-Sri-Lankabhimanya-Karu-Jayasuriya/14-782312) · `en`
+
+There are no personal festivities except for religious observances. Instead, the day is devoted entirely to social service activities such as community service, paying tribute to war heroes, and providing facilities to strengthen educational opportunities for future generations. For the past several years, Karu Jayasuriya has celebrated his birthday by awarding Sinhala language proficiency certificates to about 400 Tamil students in Jaffna, following six months of intensive training. He has always made it a point to travel to Jaffna by train for this purpose, deriving great personal satisfaction from these efforts. Similarly, in the Gampaha area, Sinhala students have been awarded Tamil language proficiency certificates.
+
+...
+
+[Data](articles/ee19bf58.json)
+
+[Extended Data](ext_articles/ee19bf58.ext.json)
+
+---
+
+### Your right to know: Why journalism and access to information matter more than ever
+
+*2025-09-29 06:18:50* · [`dailyftlk`](https://www.ft.lk/opinion/Your-right-to-know-Why-journalism-and-access-to-information-matter-more-than-ever/14-782311) · `en`
+
+Access to public information is an important resource for journalists, just as
+
+journalists are essential vectors for enabling citizens to access information
+
+Today is both World News Day and the International Day for Universal Access to Information – a good time to remember that if we lose our fundamental universal right to access to information, and if independent journalists lose the ability to report the facts, then our rights and democracies may vanish entirely.
+
+Access to information is a fundamental human right empowering us all to make informed decisions, to participate in democratic processes, and hold our leaders accountable. It’s also critical for survival in a host of situations.
+
+...
+
+[Data](articles/49c4bb19.json)
+
+[Extended Data](ext_articles/49c4bb19.ext.json)
+
+---
+
+### New era for island of gems as countdown begins to ‘FACETS Sri Lanka 2026’
+
+*2025-09-29 06:17:02* · [`dailyftlk`](https://www.ft.lk/business/New-era-for-island-of-gems-as-countdown-begins-to-FACETS-Sri-Lanka-2026/34-782310) · `en`
+
+Three months and counting until ‘FACETS Sri Lanka 2026’ opens its doors
+
+Only three months remain until the grand opening of FACETS Sri Lanka 2026 – the 33rd edition of Asia’s premier gem and jewellery exhibition, organised by the Sri Lanka Gem and Jewellery Association (SLJGA) in collaboration with the National Jewellery Authority.
+
+The event will take place from 3 to 5 January 2026 at Cinnamon Life City of Dreams. This landmark edition of the exhibition is set to introduce a futuristic two-floor showcase that celebrates the country’s unparalleled gem legacy and vibrant jewellery sector and reaffirms Sri Lanka’s reputation as the true ‘Island of Gems.’
+
+...
+
+[Data](articles/5303e182.json)
+
+[Extended Data](ext_articles/5303e182.ext.json)
+
+---
+
+### Asian Trophy to India
+
+*2025-09-29 06:16:29* · [`adalk`](https://www.ada.lk/sports/ආසියානු-කුසලානය-ඉන්දියාවට/9-418773) · `si`
+
+Pakistan defeated the 2025 Asia's Trophy to defeat four wickets. Pakistan scored 146 runs in the final of the final and the final of the final. India won the match at 19.4 overs. The Apolk Sharma of India was awarded as the Hero of the tournament.
+
+◼️
+
+[Data](articles/498ad13f.json)
+
+[Extended Data](ext_articles/498ad13f.ext.json)
+
+---
+
+### Lara De Zoysa launches Ceylon Tea Market in UK
+
+*2025-09-29 06:15:26* · [`dailyftlk`](https://www.ft.lk/business/Lara-De-Zoysa-launches-Ceylon-Tea-Market-in-UK/34-782309) · `en`
+
+Initiative by daughter of late Michael De Zoysa, brings together heritage brands, artisanal producers, tea tourism, learning and social impact under one umbrella
+
+Carrying forward the legacy of her late father, Michael De Zoysa — one of the most respected figures in the Sri Lankan tea industry — Lara De Zoysa has launched Ceylon Tea Market, a pioneering multi-vendor platform dedicated to celebrating, preserving, and promoting the heritage of Pure Ceylon Tea.
+
+Ceylon Tea Market is a UK-based multi-vendor platform founded by Lara De Zoysa. Built on four key pillars—Tea Market, Tea Holidays, Tea Learning, and Ceylon Tea Trust – We Give Back—Ceylon Tea Market connects global consumers with Pure Ceylon Tea, tea tourism, and ethical partnerships. The platform brings together heritage brands, artisanal producers, and experience providers, while supporting social impact initiatives that uplift Sri Lanka’s tea-growing communities.
+
+...
+
+[Data](articles/892a9886.json)
+
+[Extended Data](ext_articles/892a9886.ext.json)
+
+---
+
+### The weather today
+
+*2025-09-29 06:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226362) · `ta`
+
+The Department of Meteorology has said that rainfall will occur in Sabaragamuwa and Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+There is a chance of rain or thunderstorms after two o'clock in the afternoon.
+
+Heavy winds can be frequent at speeds of 35 - 45 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts.
+
+Rainfall is expected in many parts of the sea regions from Chilaw to Colombo and Galle.
+
+Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
+
+From Chilaw to Mannar to Mannar, as well as in the sea regions from Matara to Pottuvil via Hambantota, 50 - 60 km per hour. In these cases, these sea regions are turbulent.
+
+In the sea regions from the Kankesanthurai to Trincomalee, the wind can increase at 50 kilometers per hour.. In these cases, these sea regions are somewhat turbulent.
+
+...
+
+[Data](articles/08c16b1c.json)
+
+[Extended Data](ext_articles/08c16b1c.ext.json)
+
+---
+
+### Abans Group Director Dr. Saroshi Dubash honoured with ‘Sri Lanka Woman Leader’ at World Women Leadership Congress & Awards
+
+*2025-09-29 06:13:13* · [`dailyftlk`](https://www.ft.lk/business/Abans-Group-Director-Dr-Saroshi-Dubash-honoured-with-Sri-Lanka-Woman-Leader-at-World-Women-Leadership-Congress-Awards/34-782308) · `en`
+
+Dr. Saroshi Dubash (left) accepting the ‘Sri Lanka Woman Leader’ recognition
+
+Abans Group Director Dr. Saroshi Dubash has been honoured with the title ‘Sri Lanka Woman Leader’ at the World Women Leadership Congress & Awards’ Sri Lanka Woman Leaders event, held at Taj Samudra Colombo on 10 September.
+
+Representing the second-generation leadership of Abans Group, which was founded and nurtured by Abans Pestonjee, Dr. Dubash has worked diligently through the ranks of the Group over the years, earning the respect of her colleagues and peers through her unwavering dedication and principled leadership, managing a number of companies under the Group.
+
+Accordingly, she currently holds the positions of Managing Director at Abans Electricals and Manufacturing PLC, at Abans Logistics, as well as at Crown City Developers, elevating the Group following principles such as honesty, innovation, and sustainable growth.
+
+...
+
+[Data](articles/1e3f3826.json)
+
+[Extended Data](ext_articles/1e3f3826.ext.json)
+
+---
+
+### Ruwanthi de Silva joins Eastern Merchants Board
+
+*2025-09-29 06:12:15* · [`dailyftlk`](https://www.ft.lk/business/Ruwanthi-de-Silva-joins-Eastern-Merchants-Board/34-782307) · `en`
+
+Eastern Merchants PLC has appointed Ruwanthi de Silva as an Executive Director to its Board.
+
+de Silva is a strategic HR and business leader with nearly 20 years of cross-industry experience across Sri Lanka and Australia. She combines commercial rigour with people-centred strategy, specialising in workforce planning, HR analytics, and automation of processes.
+
+Having completed her Bachelor of Economics and Master of Commerce degrees at the University of Sydney in Australia, she started her professional career in Australia as a Financial Analyst at Village Roadshow Ltd., in Sydney. Village Roadshow is a global leader in the entertainment industry, operating theme parks, cinemas and film/TV production studios.
+
+...
+
+[Data](articles/d91a818d.json)
+
+[Extended Data](ext_articles/d91a818d.ext.json)
+
+---
+
+### Several showers today
+
+*2025-09-29 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215117) · `si`
+
+Several spells of showers may occur in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The Department said that today's North Western Province will continue.
+
+In the Uva Province and Ampara District. Showers or thundershowers will occur at a few places about 2.00.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. (35-45) can cause strong winds.
+
+◼️
+
+[Data](articles/38ea95c2.json)
+
+[Extended Data](ext_articles/38ea95c2.ext.json)
+
+---
+
+### Why did Jeevan take the sister?
+
+*2025-09-29 06:06:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவன்-அக்காவை-அழைத்துச்-சென்றது-ஏன்/76-365447) · `ta`
+
+Former President Mahinda Rajapaksa, CWC general secretary and parliamentarian Jeevan Thondaman, and CWC financialist and former parliamentarian Maruthappandi Rameshwaran met at the Calton residence (28) at Tangalle.
+
+During the meeting, the CWC media unit said that they were also addressing the health of former President Mahinda Rajapaksa.
+
+However, why did Jeevan Thondaman take his sister? Social websites have been questioned.
+
+◼️
+
+[Data](articles/15ebc7a7.json)
+
+[Extended Data](ext_articles/15ebc7a7.ext.json)
+
+---
+
+### Bhutan’s Queen Mother commends MTI’s strategy consulting contribution
+
+*2025-09-29 06:05:41* · [`dailyftlk`](https://www.ft.lk/business/Bhutan-s-Queen-Mother-commends-MTI-s-strategy-consulting-contribution/34-782306) · `en`
+
+MTI Consulting  CEO Hilmy Cader, recently met with Tarayana Foundation Founding President Queen Mother of Bhutan Dorji Wangmo Wangchuck, for whom MTI had the privilege of developing the strategic plan.
+
+“Our visit to the Royal Palace in Mothithang was marked by Her Majesty’s gracious hospitality and an enlightening exchange of ideas. The depth of Her Majesty’s wisdom and commitment to uplifting lives through the Foundation left a lasting impression,” said Cader.
+
+MTI developed five strategic initiatives for Tarayana Foundation, which will assist them to continue building a happy and prosperous Bhutan. After conducting the first three stages of MTI’s 8S Model—Scope, Scan and Sights—MTI recommended going ahead with five strategic initiatives that were identified as the key aspects that Tarayana can focus on.
+
+...
+
+[Data](articles/694bd603.json)
+
+[Extended Data](ext_articles/694bd603.ext.json)
+
+---
+
+### Cultivating circular futures: Youth as agents of change
+
+*2025-09-29 06:03:40* · [`dailyftlk`](https://www.ft.lk/columns/Cultivating-circular-futures-Youth-as-agents-of-change/4-782305) · `en`
+
+Empowering young people to lead in circular food systems generates ripple effects across communities, policies, and markets
+
+On 29 September, the world marks the International Day of Awareness on Food Loss and Waste, highlighting one of humanity’s pressing paradoxes. As the global population nears 8.5 billion by 2030, we still waste 1.3 billion tonnes of food annually – enough to feed three billion people. Sri Lanka is no exception. This crisis calls for urgent action, and increasingly, young people are emerging as catalysts for change.
+
+The traditional “take-make-use-discard” model has proved unsustainable. A shift toward circular approaches – refuse, regenerate, reuse, and redesign – is gaining global momentum. At the heart of this transformation lies a simple truth: when young people embrace circular principles, they can reshape communities and inspire wider system change.
+
+...
+
+[Data](articles/edebe08b.json)
+
+[Extended Data](ext_articles/edebe08b.ext.json)
+
+---
+
+### First year of AKD Government: Is it RW in driving seat with a difference?
+
+*2025-09-29 06:00:30* · [`dailyftlk`](https://www.ft.lk/columns/First-year-of-AKD-Government-Is-it-RW-in-driving-seat-with-a-difference/4-782304) · `en`
+
+The Government of Anura Kumara Disanayake or AKD Government, has completed one year by September 2025. Many, except those in the Government, have ventured into analysing its performance during this initial year. From the Government side, a performance report is expected to be presented by AKD himself when he will present his Budget for 2026 in November 2025.
+
+...
+
+[Data](articles/909f0f41.json)
+
+[Extended Data](ext_articles/909f0f41.ext.json)
+
+---
+
+### COPE, oversight, and boundaries of power: Necessary caution
+
+*2025-09-29 05:53:08* · [`dailyftlk`](https://www.ft.lk/columns/COPE-oversight-and-boundaries-of-power-Necessary-caution/4-782303) · `en`
+
+Strengthening COPE should mean better research support, stronger audit collaboration, and continuous capacity
+
+As someone who has been privileged to represent all three critical domains of the COPE process — as a Chairman of a State-Owned Enterprise (SOE), a Secretary of a Ministry, and as a Chair of COPE — I feel a strong sense of responsibility to express my concerns about the recent proposal put forward under Standing Order 137 by the current COPE Chair, Dr. Nishantha Samaraweera, MP (NPP).
+
+The motion seeks to amend Standing Order 120, granting COPE the authority to directly refer its findings to law enforcement bodies such as the IGP or the Commission to Investigate Allegations of Bribery or Corruption (CIABOC). While I appreciate the spirit of accountability that underpins the proposal, I must stress — with the full weight of my experience — that such a reform must be approached with great care, constitutional awareness, and institutional intelligence.
+
+...
+
+[Data](articles/6941aae4.json)
+
+[Extended Data](ext_articles/6941aae4.ext.json)
+
+---
+
+### China and Sri Lanka pledge to deepen ties
+
+*2025-09-29 05:43:53* · [`dailyftlk`](https://www.ft.lk/news/China-and-Sri-Lanka-pledge-to-deepen-ties/56-782300) · `en`
+
+China celebrates 76th anniversary of founding of People’s Republic of China
+
+Praises President Disanayake’s State visit to China resulted in new strategic guidance for bilateral ties
+
+Describes SL as an important partner in China’s neighbourhood diplomacy
+
+Labour Minister Dr. Anil Jayantha Fernando commends China for being a steadfast partner for Sri Lanka’s emergency aid and debt restructuring support
+
+Highlights China’s support for Sri Lanka’s development and connectivity through BRI
+
+China and Sri Lanka last week reaffirmed their longstanding friendship and pledged to deepen cooperation across multiple sectors at a reception hosted by the Chinese Embassy to mark the 76th anniversary of the founding of the People’s Republic of China.
+
+...
+
+[Data](articles/3669c441.json)
+
+[Extended Data](ext_articles/3669c441.ext.json)
+
+---
+
+### India, Sri Lanka hold second meeting of Joint Working Group on renewable energy
+
+*2025-09-29 05:40:46* · [`dailyftlk`](https://www.ft.lk/news/India-Sri-Lanka-hold-second-meeting-of-Joint-Working-Group-on-renewable-energy/56-782299) · `en`
+
+The Second Meeting of the India-Sri Lanka Joint Working Group (JWG) on renewable energy was held virtually on 23 September 2025. The Indian delegation was led by New and Renewable Energy Ministry Secretary Shri Santosh Kumar Sarangi and the Sri Lankan delegation was led by Energy Ministry Secretary Prof. K.T.M Udayanga Hemapala.
+
+The two sides briefed each other on developments in the field of renewable energy, including solar, wind, and emerging technologies such as green hydrogen. The potential of “One Sun, One World, One Grid” was also highlighted.  Both sides reiterated their commitment to strengthening bilateral energy ties, with a focus on affordable and sustainable energy. The Joint Working Group will continue to serve as a platform to facilitate policy-level discussion, project development and knowledge exchange in the renewable energy sector.
+
+◼️
+
+[Data](articles/ea5175c3.json)
+
+[Extended Data](ext_articles/ea5175c3.ext.json)
+
+---
+
+### Reverse Osmosis water plant inaugurated at Hambantota District General Hospital
+
+*2025-09-29 05:39:38* · [`dailyftlk`](https://www.ft.lk/news/Reverse-Osmosis-water-plant-inaugurated-at-Hambantota-District-General-Hospital/56-782298) · `en`
+
+A Reverse Osmosis (RO) water plant was inaugurated in the OPD area of the District General Hospital, Hambantota, during the High Commissioner of India to Sri Lanka Santosh Jha’s recent visit to the Southern Province.
+
+According to the Indian High Commission, Santosh Jha paid a visit to the Southern Province of Sri Lanka on 24 and 25 September, during which the RO water plant was inaugurated.
+
+The plant, donated by the Government of India, is expected to benefit around 1000 people daily, including patients, visitors and hospital staff. The Mayor and Deputy Mayor of Hambantota were present on the occasion.
+
+On Thursday, the High Commissioner visited Sri Vijayarama Purana Viharaya in Ambalangoda, Galle, a temple that houses wooden artefacts of exceptional craftsmanship and ancient artistry. The High Commissioner extended financial assistance for the completion of works at the temple premises to install 80 wooden statues of Lord Buddha.
+
+...
+
+[Data](articles/2fdc15cb.json)
+
+[Extended Data](ext_articles/2fdc15cb.ext.json)
+
+---
+
+### Govt. assures welfare of SL workers in Kuwait
+
+*2025-09-29 05:37:14* · [`dailyftlk`](https://www.ft.lk/news/Govt-assures-welfare-of-SL-workers-in-Kuwait/56-782297) · `en`
+
+Says SL Mission in Kuwait working closely with Kuwaiti authorities to resolve cases affecting Sri Lankan women housed at Government Shelter
+
+Notes at any given time, between 40 and 70 Sri Lankans sheltered at facility
+
+Stresses commitment to safeguarding dignity and welfare of SL workers overseas
+
+Foreign Affairs, Foreign Employment and Tourism Acting Minister Arun Hemachandra yesterday said the Government has assured the welfare of Sri Lankan domestic workers in Kuwait by taking urgent measures to address those concerns following reports circulating on social media.
+
+Assuring to take urgent measures to address those concerns over the welfare of Sri Lankan domestic workers in Kuwait, he said the Sri Lankan Embassy in Kuwait, headed by Ambassador Lakshitha Ratnayake, is working closely with Kuwaiti authorities to resolve cases affecting Sri Lankan women housed at the Government Shelter operated by the Public Authority for Manpower.
+
+...
+
+[Data](articles/0d82104d.json)
+
+[Extended Data](ext_articles/0d82104d.ext.json)
+
+---
+
+### QR code tea fertiliser subsidy with Rs. 4,000 discount from 1 Oct.
+
+*2025-09-29 05:36:13* · [`dailyftlk`](https://www.ft.lk/news/QR-code-tea-fertiliser-subsidy-with-Rs-4-000-discount-from-1-Oct/56-782296) · `en`
+
+The Government will roll out fertiliser subsidies for small and medium tea growers through a QR code-based system starting 1 October.
+
+Farmers can redeem the subsidy at fertiliser suppliers registered with the National Fertiliser Secretariat, including the State-owned distributor, by presenting the QR code. The scheme offers a discount of Rs. 4,000 on a 50 kg pack and Rs. 2,000 on a 25 kg pack.
+
+The Sri Lanka Tea Board has earmarked Rs. 2 billion for the 2025 subsidy program. The initiative is part of a broader plan to lift annual tea output to 400 million kilograms by 2030.
+
+Support will be channelled mainly to smallholders, who account for about three-quarters of national green leaf production.
+
+The program is jointly administered by the Tea Small Holdings Development Authority and the Tea Board.
+
+◼️
+
+[Data](articles/f7b33d72.json)
+
+[Extended Data](ext_articles/f7b33d72.ext.json)
+
+---
+
+### Digital education policy to go before Cabinet by March 2026
+
+*2025-09-29 05:35:53* · [`dailyftlk`](https://www.ft.lk/news/Digital-education-policy-to-go-before-Cabinet-by-March-2026/56-782295) · `en`
+
+A framework for digitalising Sri Lanka’s education system will be submitted to the Cabinet by March 2026, the Digital Task Force on Education Reform said last week.
+
+The update was presented at the Subcommittee on Education under the Ministerial Consultative Committee, chaired by Prime Minister and Education Minister Dr. Harini Amarasuriya, on Tuesday.
+
+Officials outlined six priority areas for digitalisation, including tackling teacher shortages, providing ICT equipment, ensuring continuity of schooling during disruptions, and integrating digital tools into learning.
+
+They said all schools without internet access will be connected by 31 December. Schools currently lacking basic digital resources will be given at least one smart board and a computer or laptop. Data presented showed three schools remain without electricity, 546 without computers or tablets, and 2,088 without smart boards.
+
+...
+
+[Data](articles/dce238b5.json)
+
+[Extended Data](ext_articles/dce238b5.ext.json)
+
+---
+
+### Colombo International Book Fair tickets now on PickMe
+
+*2025-09-29 05:34:53* · [`dailyftlk`](https://www.ft.lk/news/Colombo-International-Book-Fair-tickets-now-on-PickMe/56-782294) · `en`
+
+Up to three free tickets for online ticket buyers via PickMe app
+
+Visitors to the Colombo International Book Fair 2025 are now busy securing their entry tickets directly through the PickMe app, a first for the country’s largest literary gathering.
+
+With just a few taps, PickMe’s Events feature lets users buy book fair tickets in-app and check in with a quick QR scan at special counters set up at the Bandaranaike Memorial International Conference Hall (BMICH), offering a seamless gate-pass style entry without having to queue up.
+
+To encourage adoption of the digital check-in experience, PickMe users become eligible for three free tickets anytime during the 10-day fair.
+
+The Book Fair, running from 27 September to 6 October, is one of Colombo’s most jam-packed cultural events. Its location at the BMICH, slightly away from regular public transport routes, often adds to the inconvenience.
+
+...
+
+[Data](articles/431e3a52.json)
+
+[Extended Data](ext_articles/431e3a52.ext.json)
+
+---
+
+### Former Western PC member Amal Silva arrested by Walana Anti-Vice Squad
+
+*2025-09-29 05:31:50* · [`dailyftlk`](https://www.ft.lk/news/Former-Western-PC-member-Amal-Silva-arrested-by-Walana-Anti-Vice-Squad/56-782293) · `en`
+
+Former Western Provincial Council (PC) member Amal Silva was arrested yesterday by the Walana Anti-Vice Squad, along with three luxury vehicles worth around Rs. 60 million, which had been allegedly registered using forged documents.
+
+Police said he was arrested during a raid carried out based on intelligence received by the Walana Anti-Vice Squad.
+
+According to reports, the vehicles had been illegally imported into the country and registered with the Department of Motor Traffic under fraudulent registration numbers using forged documentation.
+
+Among the vehicles seized were three SUVs, including a Land Rover and Mitsubishi Jeep.
+
+Preliminary Police investigations have revealed that the registration numbers used belonged to State-owned vehicles, and fake documents were generated to facilitate the illegal registration of these luxury vehicles.
+
+The suspect is scheduled to be produced before the Panadura Magistrate’s Court today (29).
+
+◼️
+
+[Data](articles/9da8ba79.json)
+
+[Extended Data](ext_articles/9da8ba79.ext.json)
+
+---
+
+### CPSTL to enforce merit-based hiring and promotions
+
+*2025-09-29 05:31:33* · [`dailyftlk`](https://www.ft.lk/news/CPSTL-to-enforce-merit-based-hiring-and-promotions/56-782292) · `en`
+
+Ceylon Petroleum Storage Terminals Ltd., (CPSTL) last week said future decisions on recruitment, promotions, and transfers will be based solely on merit, free from political or personal influence.
+
+CPSTL Chairman D.J.A.S. De S. Rajakaruna, speaking at a media briefing marking one year of the Government’s tenure, said the company had operated without a clear human resources framework for more than three decades. A new policy has now been introduced to address this gap, he noted.
+
+The Chairman urged the public not to seek jobs or transfers through Ministers or senior officials, stressing that only qualifications and experience would guide decisions.
+
+Rajakaruna added that in restructuring its workforce, the company had to reduce staff numbers due to skills gaps and mismatched roles. The new organisational plan, prepared by a State institution after a comprehensive study, defines positions and appointments according to professional criteria.
+
+...
+
+[Data](articles/b7a4bb77.json)
+
+[Extended Data](ext_articles/b7a4bb77.ext.json)
+
+---
+
+### Sri Lanka budget deficit down 55-pct in August amid tax inflows, moderate capex
+
+*2025-09-29 05:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-55-pct-in-august-amid-tax-inflows-moderate-capex-242067/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit fell to 411 billion rupees in August 2025, down 55 percent from a year earlier, amid a 30.7 percent rise in taxes and slower capital expenditure, official data showed.
+
+Tax revenues grew to 3,068.5 billion rupees, from 2,348.5 billion rupees, and current spending also grew by a double-digit 11.2 percent to 3,381 billion rupees.
+
+Sri Lanka has a public sector bloated by unemployed graduates, and salaries eat up a large volume of taxes, though nominal wage levels fell after recent currency crises and they now have to be increased. A salary hike was given this year.
+
+Central bank wages have been steeply increased amid criticism as it was responsible for the high level of inflation and open market operations, which critics hold out as the height of unaccountability.
+
+Central bank wages are not directly seen in the budget, but is an item that affects non-tax revenues.
+
+...
+
+[Data](articles/66647f71.json)
+
+[Extended Data](ext_articles/66647f71.ext.json)
+
+---
+
+### The sacrificial torch Dileepan is not related to the incident; Gajendra team is muddy on us -Ramalingam Chandrasekhar
+
+*2025-09-29 04:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226361) · `ta`
+
+Ramalingam Chandrasekhar, a member of the party's executive committee and minister, said the Gajendra team was muddy on us, saying that the sacrificial torch of Dileepan's commemoration on the last day of the pamphlets and the national people's power had nothing to do.
+
+Fisheries Minister Ramalingam Chandrasekhar made this statement while speaking to the media in Jaffna on Sunday (28).
+
+Dileepan Memorial has been held for the past one week. Was blocked when we went to perform the observance there. After that a few days ago, the last day of memory ended. It was reported that someone had distributed pamphlets on that day and that the Gajendra team had dealt with their violence against him, and some others who had gone to hear justice.
+
+The incident has nothing to do with the national people's power. There is no contribution in this. We don't have that downstream work. As a ruling party, we can take a different way if we want to take up the little ones. We do not do that iconic work.
+
+...
+
+[Data](articles/cccddba1.json)
+
+[Extended Data](ext_articles/cccddba1.ext.json)
+
+---
+
+### Underworld Groups - Eradication of Drug Network - President
+
+*2025-09-29 04:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226360) · `ta`
+
+I will completely eliminate the state administrative structure of the underworld groups and drug traders. President Anura Kumara Dissanayake said many politicians were disturbed when many facts were revealed.
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said this while addressing the Sri Lankan community living in Japan on Sunday (28) in Tokyo.
+
+The drug has caused a massive destruction in the social structure. இளைஞர் யுவதிகளில் பெரும்பாலானோர் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள். Most of the prisoners in prisons are involved in drugs and accusations.
+
+The drug trade and the underworld groups are acting as a black kingdom. Negombo police and Tangalle police have been arrested in connection with the shooting incident within the Pudukkadai court.
+
+Army officers who sold arms to the underworld have now been arrested and the T56 guns have gone out of the military camps.
+
+...
+
+[Data](articles/6f54e42b.json)
+
+[Extended Data](ext_articles/6f54e42b.ext.json)
+
+---
+
+### United National Party (UNP)
+
+*2025-09-29 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226359) · `ta`
+
+The United National Party (UNP) Chairman Vajira Abeywardena said that we should continue to carry out those contacts.
+
+He was speaking at a press conference held at the United National Party office in Galle on Sunday (28).
+
+The media reported that it was going to look into the assets and responsibilities of politicians and celebrities. My name was also in it. I have submitted over 30 years in relation to my property and responsibilities. Ranil Wickremesinghe has been submitted to the presidency of Ranil Wickremesinghe, through the government's sanctioned anti -corruption law.
+
+When some of our political parties showed up to the world as our country was corrupt, Ranil Wickremasinghe allowed the anti -corruption Bill on August 8, 2023, to Parliament on August 8, 2023.. Must remember one of the people in particular. Ranil Vikramasi, who ruled the country for two and a half years, has set up legal plans to curb this corruption within the country.
+
+...
+
+[Data](articles/978b42ef.json)
+
+[Extended Data](ext_articles/978b42ef.ext.json)
 
 ---

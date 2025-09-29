@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 01:56:05**
+As of **2025-09-30 02:07:16**
 
 ## Newspaper Stats
 
-*Scraped **79,653** Articles*
+*Scraped **79,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 635
 bbccomsinhala | 709
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
-economynextcom | 4,736
+economynextcom | 4,742
 islandlk | 4,839
 dailyftlk | 5,592
 adalk | 7,667
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,653 (100.0%) of 79,653 articles have been extended.
+79,653 (100.0%) of 79,659 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,6 +166,26 @@ Two sons of Unakuruwe Dusitha, who died after being admitted to the hospital, ha
 [Data](articles/5049941e.json)
 
 [Extended Data](ext_articles/5049941e.ext.json)
+
+---
+
+### Sri Lanka economic summit to focus on export diversification, and growth
+
+*2025-09-29 22:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-summit-to-focus-on-export-diversification-and-growth-242163/) · `en`
+
+ECONOMYNEXT – How Sri Lanka can broaden its export base and deliver sustained growth through diversification will be the focus of day one of the Sri Lanka Economic and Investment Summit 2025, organizer the Ceylon Chamber of Commerce said.
+
+The session will highlight the urgency of moving beyond traditional export sectors as global demand patterns shift and resilience becomes a strategic imperative.
+
+“The discussion will explore untapped opportunities in high-value industries such as cinnamon, seafood, electronics, minerals, and advanced manufacturing.
+
+“It will also examine how Sri Lanka can strengthen its position in non-traditional markets through branding, standards, logistics, and strategic trade partnerships.”
+
+The keynote address will be delivered by Prof Sanjay Kathuria. He holds a Doctorate in Economics from the University of Oxford, and has over 27 years of experience at the World Bank, and a decade at ICRIER in New Delhi.
+
+...
+
+[Data](articles/19f90c19.json)
 
 ---
 
@@ -1605,6 +1625,28 @@ He made these comments deployed in the press conference held with the program to
 
 ---
 
+### Sri Lanka rupee weaker against dollar, bond yields steady
+
+*2025-09-29 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242159/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.55/60 to the US dollar on Monday weaker from 302.50/55 on Friday, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.25/35 percent, up from 8.25/30 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.75/85 percent.
+
+A bond maturing on 15.12.2029 closed at 9.55/60 percent, up from 9.54/60 percent.
+
+A bond maturing on 01.07.2030 closed at 9.68/72 percent, up from 9.67/70 percent.
+
+A bond maturing on 15.12.2032 closed at 10.45/50 percent, up from 10.43/48 percent. (Colombo/Sep29/2025)
+
+◼️
+
+[Data](articles/665b2bb3.json)
+
+---
+
 ### Arrested in a medical student accident
 
 *2025-09-29 16:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மருத்துவ-மாணவன்-விபத்தில்-கைது/76-365490) · `ta`
@@ -1974,49 +2016,5 @@ Meanwhile, the area has been under the control of the LTTE in the past and the L
 [Data](articles/a6854247.json)
 
 [Extended Data](ext_articles/a6854247.ext.json)
-
----
-
-### The music and preview of the movie 'Marutham' starring Vidarth's 'Marutham'
-
-*2025-09-29 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226426) · `ta`
-
-The music and preview of the film 'Marutham', which is the hero of the actor who creates a business market for small investment films, was held in Chennai.
-
-Directors Saravana Subbaiah -Badri Venkatesh -Sattu Anbalakan -Thananiyar University Professor Thirumakan -Akiyor participated as the special guests.
-
-Directed by director Gajendran, Vidarth, Rakshana, Arul Das, Maran, Saravanan Subbaiah, 'Daily' Nagaraj and Mathew Varghese have starred.
-
-Arul Somasundaram is a cinematographer for this movie. R. Raghunandan has composed the music.
-
-The film is being prepared for farmers' life on behalf of the producer C.. Produced by Venkatesan.
-
-The film's music and preview launch was held in Chennai on the 10th of October.
-
-Commenting on the film, director Gajendran said, “Though he is a professor at a private university.. We gave us a three -month holiday to direct the film.. They were given the technical work of the film and the opportunity to carry out the university campus.
-
-...
-
-[Data](articles/d3069ee1.json)
-
-[Extended Data](ext_articles/d3069ee1.ext.json)
-
----
-
-### Red announcements to seventy two criminals
-
-*2025-09-29 16:19:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපරධකරවන-හතත-දදනකට-රත-නවදන/101-680424) · `si`
-
-According to the Commonwealth Police Ananda Wijepala said that the international police have issued red announcements for seventy-two criminals abroad.
-
-Thirty Sri Lankan criminals have been identified abroad, the minister said that twenty criminals are in prison abroad
-
-He also said that they would be taken to the country.
-
-◼️
-
-[Data](articles/89f15dd4.json)
-
-[Extended Data](ext_articles/89f15dd4.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 20:09:58**
+As of **2025-09-29 20:38:41**
 
 ## Newspaper Stats
 
-*Scraped **79,593** Articles*
+*Scraped **79,602** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 454
+lankadeepalk | 458
 newsfirstlk | 489
 dbsjeyarajcom | 635
 bbccomsinhala | 708
@@ -18,20 +18,134 @@ economynextcom | 4,736
 islandlk | 4,839
 dailyftlk | 5,584
 adalk | 7,666
-adaderanalk | 10,270
-tamilmirrorlk | 11,914
+adaderanalk | 10,271
+tamilmirrorlk | 11,915
 virakesarilk | 12,986
-adaderanasinhalalk | 13,779
+adaderanasinhalalk | 13,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,592 (100.0%) of 79,593 articles have been extended.
+79,594 (100.0%) of 79,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-29 (Monday)
+
+### ජනපති ජපානයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයන් සමඟ සාකච්ඡාවක
+
+*2025-09-29 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215150) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරතව සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (29) පෙරවරුවේ ජපාන විදේශ වෙළෙඳ සංවිධාන (JETRO) මූලස්ථානයේදී ජපානයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සමඟ වට මේස සාකච්ඡාවකට එක් විය.
+
+ජපාන විදේශ වෙළෙඳ සංවිධානයේ (JETRO)  සභාපති  සහ ප්‍රධාන විධායක නිලධාරී ඉෂිගුරො නොරිහිකො (ISHIGURO Norihiko) මහතාගේ සහභාගීත්වයෙන් පැවති මෙම සාකච්ඡාව සඳහා ජපන් ශ්‍රී ලංකා ව්‍යාපාරික සහයෝගිතා කමිටුවේ (JSLBCC) සභාපති සහ ITOCHU සමාගමේ සභාපති  ෆුමිහිකො කොබයාෂි (Fumihiko Kabayashi) මහතා ඇතුළු පිරිසක් එක්ව සිටියහ.
+
+ශ්‍රී ලංකාවේ පවතින නව ආයෝජන අවස්ථා පිළිබඳ මෙහිදී පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා රට තුළ ආයෝජන හිතකර පරිසරයක් ගොඩනඟමින් වංචා සහ දූෂණය පිටුදැකීමට වත්මන් රජය  ගෙන ඇති පියවරද පැහැදිලි කළේය.
+
+ශ්‍රී ලංකාවේ ප්‍රධාන ආර්ථික හවුල්කරුවකු ලෙස ශ්‍රී ලංකාව සහ ජපානය අතර වෙළෙඳ සහයෝගීතාව තවදුරටත් ඉහළ නංවා ගැනීමේ අවශ්‍යතාව සහ එමගින් අන්‍යෝන්‍ය වශයෙන් හිමිවන ප්‍රතිලාභ පිළිබඳවද ජනාධිපතිවරයා මෙහිදී වැඩිදුරටත් පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/8a2f0fb4.json)
+
+---
+
+### பல்கலைக்கழக ஆசிரியர் சங்க கூட்டமைப்பின் அதிரடி தீர்மானம்
+
+*2025-09-29 20:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஆசிரியர்-சங்க-கூட்டமைப்பின்-அதிரடி-தீர்மானம்/175-365496) · `ta`
+
+பல்கலைக்கழக ஆசிரியர் சங்கங்களின் கூட்டமைப்பு, அடையாளப் பணிப்புறக்கணிப்பில் ஈடுபடத் தீர்மானித்துள்ளதாக சங்கத்தின் செயலாளர், சிரேஷ்ட விரிவுரையாளர் சாருதத்த இளங்கசிங்க தெரிவித்தார்.
+
+பல்கலைக்கழக கட்டமைப்பில் உள்ள குறைபாடுகளை நிவர்த்தி செய்ய அரசாங்கம் நடவடிக்கை எடுக்கத் தவறியுள்ளதாகத் தெரிவித்து, நாளை அடையாளப் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக அவர் கூறியுள்ளார்.
+
+எனினும், அரச பல்கலைக்கழகங்களில் உள்ள நெருக்கடிகளுக்கு இதுவரையில் தீர்வு காணப்படவில்லை எனக் கூறிய அவர், தற்போது அரச கல்வி வீழ்ச்சியடைந்து கடுமையான நெருக்கடியை எதிர்நோக்கியுள்ளதாகக் குறிப்பிட்டார்.
+
+பேராதனை பல்கலைக்கழகத்திலிருந்து கடந்த ஆண்டில் மாத்திரம் சுமார் 200 பேராசிரியர்கள் வெளியேறியுள்ளதாகவும் பல்கலைக்கழக ஆசிரியர் சங்கங்களின் கூட்டமைப்பின் செயலாளர், சிரேஷ்ட விரிவுரையாளர் சாருதத்த இளங்கசிங்க குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/bd1f1c59.json)
+
+---
+
+### ජනපති - ජපාන මුදල් ඇමති සාකච්ඡා
+
+*2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/101-680435) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
+
+මෙහිදී දෙරට අතර වෙළෙඳ, ආයෝජන සහ ආර්ථික සහයෝගිතාව ඉහළ නංවා ගැනීම පිළිබඳ මෙන්ම, ජපන් ආධාර /JICA සහයෝගීතාව යටතේ දැනට ක්‍රියාත්මක සහ ක්‍රියාත්මක කිරීමට අපේක්ෂිත නව ව්‍යාපෘති පිළිබඳ විශේෂ අවධානය යොමු කෙරිණි.
+
+මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ  ජනාධිපති ප්‍රධාන උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ආර්ථික කටයුතු පිළිබඳ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක දුමින්ද හුලංගමුව, ජපානයේ ශ්‍රී ලංකා තානාපති මහාචාර්ය පිවිතුරු ජනක් කුමාරසිංහ යන මහත්වරු සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක් සහභාගී වූහ.
+
+◼️
+
+[Data](articles/9e602189.json)
+
+---
+
+### මන්නාරමේ දැවැත්ත විරෝධතාවයක්
+
+*2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
+
+මන්නාරම දූපත ආශ්‍රිත යෝජිත සුළං විදුලි බලාගාර ඉදිකිරීම නවත්වන්නැයි ඉල්ලා එහි ජනතාව ආරම්භ කළ විරෝධතාවයේ 58 වැනි දිනය අදයි.
+
+මන්නාරම දූපත ආශ්‍රිත යෝජිත සුළං විදුලි බලාගාර ඉදිකිරීම නවත්වන ලෙසට හා එම දූපත අවට සීමාවේ ඛනිජ වැලි කැණීම නවත්වන්නැයි ඉල්ලා එහි ජනතාව මාස දෙකකට ආසන්න කාලයක් පුරා අඛණ්ඩ විරෝධතාවයේ නිරත වෙයි.
+
+මෙම ඉදිකිරීම් හා කැණීම් නිසා පාරිසරික ගැටලු රැසකට තමන්ට මුහුණ දීමට සිදුවන බව ඔවුන් පවසයි.
+
+අඛණ්ඩ විරෝධතාවට දින 58ක් පිරෙන අද එම ජනතාව සහ වෙළෙඳ ප්‍රජාව ප්‍රදේශයේ වෙළෙඳසැල් සියල්ල වසා දමා හර්තාල් ව්‍යාපාරයක් ආරම්භ කර තිබුණි.
+
+සියලු පොදු ප්‍රවාහන සේවා ද අද නවත්වා තිබූ අතර දැවැන්ත විරෝධතාවක් අද ආරම්භ කෙරුණේ මන්නාරම පොදු ක්‍රීඩා පිටියෙන්ය.
+
+විරෝධතාවට සහාය දක්වා තවත් ප්‍රදේශවලින් ජනතාව අද මන්නාරමට පැමිණි බවයි අප වාර්තාකරුවන් පැවසීය.
+
+විරෝධතාකරුවන් පා ගමනින් මන්නාරම දිස්ත්‍රික් ලේකම් කාර්යාලය වෙත ගමන් කර සිය විරෝධය  පළක‍ළේය.
+
+...
+
+[Data](articles/0d41da76.json)
+
+---
+
+### ට්‍රම්ප්ගෙන් සිනමාවට සියයට සීයයක බද්දක්
+
+*2025-09-29 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215148) · `si`
+
+එක්සත් ජනපදයෙන් පිටත නිෂ්පාදනය කළ සියලුම චිත්‍රපට සඳහා 100% ක තීරු බද්දක් පනවන බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා ඇත.
+
+මෙම තීරුබදු පැනවිය සිදුකරන්නේ කවදා ද හෝ කෙසේද යන්න නිශ්චිතව දක්වා නොමැති බව විදෙස් මාධ්‍ය පවසයි.
+
+ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් මෙම තීරුබදු පැනවිය සිදුකළහොත් එය සේවාවක් සඳහා තීරුබදු පැනවූ පළමු අවස්ථාව වනු ඇති බව විදසේ මාධ්‍ය වැඩිදුරටත් පවසා තිබේ.
+
+◼️
+
+[Data](articles/6aca1304.json)
+
+---
+
+### කෝප් කමිටුවෙන් විදුලියට රතු එළියක්
+
+*2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-කමටවන-වදලයට-රත-එළයක/101-680434) · `si`
+
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ කොටස් බෙදී ඇති ආකාරය අපැහැදිලි බැවින්  ආයතනය ප්‍රතිව්‍යුහගතකරණය කිරීමේදී ඉදිරියේදී බරපතළ  ගැටලු ඇතිවිය හැකි බව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාව ( කොප් කමිටුව)  එහි  නිලධාරීන්ට පෙන්වාදී ඇත.
+
+එල්ටීඑල් සමාගමේ කොටස් බෙදී ඇති ආකාරය ඇපැහැදිලි බවත්  ආයතනයන් ප්‍රතිව්‍යුහගත කිරීමේදී මේ තත්වය ගැටළුවක් විය හැකි බවත් කෝප් කමිටුවේ සභාපති වෛද්‍ය නිශාන්ත සමරවීර මහතා පැවැසුවේය
+
+එල්ටීඑල් සමාගමේ කොටස් වෙස්ට් කොස්ට් ආයතනය සහ  ඊසොට්  සමාගම යන ආයතන වලට බෙදී  ඇති  අාකාරය සහ ඒවායේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ගැටලු පවතින බවද ඔහු සඳහන් කළේය.
+
+මෙහිදී කාරක සභාවේ මන්ත්‍රීවරුන්ද පෙන්වා දුන්නේ කොටස් බෙදීම මෙන්ම එහි  ක්‍රියාකාරීත්වය ඉතාම අපැහැදිලි බවයි.
+
+මේ නිසා මේ තත්වය පැහැදිලි කර ගැනීමට නීති  අධ්‍යක්ෂවරයා ඇතුළු නිලධාරීන් ඉක්මනින්ම කටයුතු කළ යුතු බව  කාරක සභාව නිර්දේශ කළේය.
+
+මේ අනුව එල්.ටී.එල් සමාගම ලබන මස 24 වැනිදා කෝප් කමිටුව හමුවට කැඳවීමටද තීරණය කෙරිණි.
+
+◼️
+
+[Data](articles/0703a720.json)
+
+---
 
 ### Bilateral discussions between President and Japanese Finance Minister
 
@@ -48,6 +162,24 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/0809c314.json)
 
 [Extended Data](ext_articles/0809c314.ext.json)
+
+---
+
+### ලංකා - ජපන් නායකයෝ ඒකාබද්ධ මාධ්‍ය හමුවක
+
+*2025-09-29 18:34:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ජපන-නයකය-ඒකබදධ-මධය-හමවක/101-680433) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී අද (29) පෙරවරුවේ පැවැත්විණි.
+
+ජපාන අග්‍රාමාත්‍ය කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයා ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබූ අතර, ජනාධිපතිවරයා වෙනුවෙන් ජපාන ස්වයං ආරක්ෂක බලකායේ උත්තමාචාරද පිළිගැන්විණි. එම පෙළපාළිය නිරීක්ෂණය සඳහාද ජනාධිපතිවරයා එක් විය.
+
+දෙරටේ නියෝජිත පිරිස හඳුන්වා දීමෙන් අනතුරුව, ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා අතර නිල සාකච්ඡා ආරම්භ කෙරිණි.
+
+ජපානය සහ ශ්‍රී ලංකාව අතර පවතීන දීර්ඝකාලීන සමීප මිත්‍රත්වය තවදුරටත් ශක්තිමත් කර ගනිමින්, දෙරට අතර වෙළෙඳ, ආයෝජන, ආර්ථික, සංවර්ධන ආධාර සහ කලාපීය ආරක්ෂාව ආදී කරුණු ආවරණය කෙරෙන පරිදි විවිධ ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් පුළුල් කර ගැනීම පිළිබඳව එහිදී අවධානය යොමු කෙරිණි.
+
+...
+
+[Data](articles/7a0da65a.json)
 
 ---
 
@@ -112,6 +244,30 @@ He fears that talk about this will lead to revenge and that further restrictions
 [Data](articles/888b074e.json)
 
 [Extended Data](ext_articles/888b074e.ext.json)
+
+---
+
+### Four arrested over recent Tangalle drug seizure remanded
+
+*2025-09-29 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113039/four-arrested-over-recent-tangalle-drug-seizure-remanded) · `en`
+
+The four suspects arrested in connection with the recent discovery of a haul of heroin and crystal methamphetamine (commonly known as ‘Ice’) in Seenimodara, Tangalle on September 24, have been remanded, Ada Derana reporter said.
+
+The order was issued when the group was produced before the Tangalle Magistrate’s Court today.
+
+Police arrested four persons including two sons of an individual who died after being hospitalised from a house in Seenimodara, Tangalle, on September 22, where a large haul of narcotics was found in three lorries.
+
+According to police, the estimated street value of the drugs found in the three lorries is approximately Rs. 9,888 million.
+
+The seized narcotics included a total of 705.91 kilograms comprising 284.94 kilogram of heroin and 420.976 kilogram of ‘Ice’.
+
+The seizure was made during a special operation conducted based on information received following the suspicious deaths of two individuals found inside the house.
+
+...
+
+[Data](articles/4819e7dd.json)
+
+[Extended Data](ext_articles/4819e7dd.ext.json)
 
 ---
 
@@ -310,6 +466,24 @@ The President has also evaluated the continuous contribution and support from th
 [Data](articles/4f5b13c3.json)
 
 [Extended Data](ext_articles/4f5b13c3.ext.json)
+
+---
+
+### ජනපති-ජපන් අගමැති හමු වෙයි
+
+*2025-09-29 17:26:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-අගමත-හම-වය/101-680427) · `si`
+
+ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) සහ ජනාධිපති අනුර කුමාර දිසානායක මහත්වරුන් අතර හමුව ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී අද (29) සිදු විය.
+
+මෙහිදී පැවති සාකච්ඡාවලදී ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දීර්ඝකාලීන සමීප සබඳතා තවදුරටත් ශක්තිමත් කර ගනිමින් දෙරට අතර වෙළෙඳ, ආයෝජන, ආර්ථික, සංවර්ධන ආධාර සහ කලාපීය ආරක්ෂාව ඇතුළු ක්ෂේත්‍රයන්හි සහයෝගීතාව තවදුරටත් පුළුල් කර ගැනීම පිළිබඳව අවධානය යොමු කර තිබේ.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය විසින් දක්වන ලද සහාය වෙනුවෙන් මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයට කෘතවේදීත්වයද පළ කර ඇත.
+
+එමෙන්ම, මෙරට සංවර්ධන ක්‍රියාවලියේදී සමීප මිතුරකු සහ ණය ආධාර මෙන්ම ප්‍රදාන සපයන්නකු වශයෙන් බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ සංවර්ධන ව්‍යාපෘතිය ඇතුළු ව්‍යාපෘති රැසක් සඳහා ජපාන රජයෙන් ලැබෙන අඛණ්ඩ දායකත්වය සහ සහයෝගයද ජනාධිපතිවරයා එහිදී ඇගැයීමට ලක් කර ඇත.
+
+◼️
+
+[Data](articles/a061cbe2.json)
 
 ---
 
@@ -653,19 +827,27 @@ Moreover, a bomb disposal team was also deployed outside the politician’s hous
 
 ---
 
-### වරෙන්තු නිකුත් වූ සජබ මහ ලේකම් අධිකරණයට ඉදිරිපත් වෙයි
+### Cash Association released into the Secretary General
 
 *2025-09-29 16:41:36* · [`adalk`](https://www.ada.lk/breaking_news/වරෙන්තු-නිකුත්-වූ-සජබ-මහ-ලේකම්-අධිකරණයට-ඉදිරිපත්-වෙයි/11-418794) · `si`
 
-පසුගිය පළාත් පාලන මැතිවරණයේ වියදම් වාර්තා නිසි ලෙස ඉදිරිපත් නොකිරීමේ චෝදනාව මත වරෙන්තු නිකුත් වූ ස.ජ.බ මහ ලේකම් රංජිත් මද්ධුමබණ්ඩාර නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් වෙයි.
+The Government Secretary General of the Nuwara Eliya Magistrate's Court is produced before the Nuwara Eliya Magistrate's Court.
 
-පසුගිය පළාත් පාලන මැතිවරණයේ නුවරඑළිය දිස්ත්‍රික්කයට අදාළ පක්ෂ කාර්යාලය විසින් මැතිවරණ කොමිෂන් සභාවට ඉදිරිපත් කළ යුතු මැතිවරණ වියදම් වාර්තාව නිසි වේලාවට ඉදිරිපත් නොකිරීම මත ගොනු කරනු ලැබූ නඩුවට අදාළව නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයෙන් වරෙන්තු නිකුත් කර තිබූ සමගි ජන බලවේගය පක්ෂ මහලේකම් රංජිත් මද්දුමණ්ඩාර මහතා අද (29) නීතිඥවරු හරහා නුවරඑළිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් විය.
+UNP General Secretary Ranjith Madduwa was produced before the Nuwara Eliya Magistrate's Court today (29).
 
-අධිකරණයට ඉදිරිපත් වීමෙන් අනතුරුව අධිකරණ සංකීර්ණයෙන් පිටතට පැමිණි සමගි ජන බලවේග මහලේකම් රංජිත් මද්ධුම බණ්ඩාර මහතා මාධ්‍යය වෙත අදහස් දැක්වෙමින් කියා සිටියේ මැතිවරණ කොමිෂන් සභාවේ නිසි සන්නිවේදනයක් නොමැතිකමින් කාල වේලාවන් නිකරුනේ ගතකරමින් නඩුවකට පෙනී සිටීමට සිදුවූ බවයි.
+Harimensional Squadron General Secretary of the Judicial Examination of the Court of Justice after the production of the courts said that he had to appear in a case without proper communication in the Election Commission.
 
-...
+"All in each district will be brought to the party headquarters to the head office of the party and direct the Elections Commission Office in the relevant districts in the Nuwara Eliya Districts, the Nuwara Eliya districts,
+
+The case was filed that the report was not properly.
+
+The Elections Commission has told the police from the Elections Commission after the case filed by the case.. Today, we have presented to the warrant that we have a lasting date and offers our innocence and offers our innocence.
+
+◼️
 
 [Data](articles/c9d093a6.json)
+
+[Extended Data](ext_articles/c9d093a6.ext.json)
 
 ---
 
@@ -1772,189 +1954,5 @@ He pointed to the absence of policy direction, integrity, and respect for law, n
 [Data](articles/1a1af46b.json)
 
 [Extended Data](ext_articles/1a1af46b.ext.json)
-
----
-
-### MP Ramanathan Archchuna granted bail
-
-*2025-09-29 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113026/mp-ramanathan-archchuna-granted-bail) · `en`
-
-Jaffna District Member of Parliament Dr. Ramanathan Archchuna, who was arrested earlier today (29) has been granted bail.
-
-He was released on two surety bails amounting to Rs.1 million each by the Colombo Fort Magistrate, Ada Derana reporter said.
-
-MP Archchuna was arrested this morning when he arrived at the Fort Police Station to record a statement.
-
-During a recent Satyagraha held in Colombo, the MP was seen allegedly arguing with a police officer on duty from the Fort Police.
-
-He was taken into custody this morning in connection with an investigation on charges of obstructing police duty.
-
-◼️
-
-[Data](articles/9908884f.json)
-
-[Extended Data](ext_articles/9908884f.ext.json)
-
----
-
-### Architida released on bail
-
-*2025-09-29 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215136) · `si`
-
-MP Ramanathan Arachchi has been granted bail to the arrest and produced before the court.
-
-He had been arrested when he visited the Fort Police Station this morning.
-
-The MP had been interrupted during a Sathyagraha in front of the Colombo Fort Railway Station, and the MP had been arrested when the MP arrived at the Fort Police regarding the investigation into the incident.
-
-◼️
-
-[Data](articles/71bced88.json)
-
-[Extended Data](ext_articles/71bced88.ext.json)
-
----
-
-### Archchuna Arrested Over Alleged Abuse of Police
-
-*2025-09-29 14:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/archchuna-arrested-over-alleged-abuse-of-police) · `en`
-
-COLOMBO (News 1st): Jaffna District Member of Parliament Dr. Ramanathan Archchuna was arrested this morning by Fort Police, following allegations of obstructing police duties in Colombo.
-
-According to police sources, the MP was summoned to the Fort Police station to provide a statement regarding an incident that occurred during a satyagraha demonstration, where he allegedly confronted and verbally reprimanded a police officer on duty.
-
-The arrest was made when the MP arrived at the station with regard to the ongoing investigation
-
-◼️
-
-[Data](articles/143b503d.json)
-
-[Extended Data](ext_articles/143b503d.ext.json)
-
----
-
-### Japan meets the Prime Minister of Japan
-
-*2025-09-29 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215135) · `si`
-
-Tokyo Shiri Shire Dissanayake and Japanese Prime Minister Izuba Shiriyro have been found in Japan.
-
-The purpose of both sides, recalls the long-term friendly relations between Japan and Sri Lanka, and the two countries have reaffirmed to further strengthened and expanding cooperation in the fields of deeper and economic cooperation.
-
-The Prime Minister of the Japanese commemorated his journey to restore the Sri Lankan economy by continuing implementation of the International Finance Fund Program and restructuring the Sri Lankan reform effort.
-
-President Anura Kumara Dissanayake thanked the Leader of the Official Borrower and a member of the Official Borrower Committee to end the restructuring process of Sri Lanka and the first official borrower committee of the Official Borrower Committee in March this year.
-
-In 2024, the President expressed his gratitude to the continued support given to 11 loan projects that had been signed before the country.
-
-...
-
-[Data](articles/d7d79bb8.json)
-
-[Extended Data](ext_articles/d7d79bb8.ext.json)
-
----
-
-### Two hospitalized in explosion
-
-*2025-09-29 14:02:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පපරමකන-දනනක-රහල/1-680416) · `si`
-
-Two persons were injured in the explosion in Kilinochchi, police said.
-
-The explosion occurred in the Galinochchi Tatunkola area in Kilinochchi today (29).
-
-A bomb exploded while conducting an excavation work in a dropped house and suspected that the two persons were injured.
-
-The victims have been admitted to the Kilinochchi District hospital and the Kilinochchi police are conducting further investigations.
-
-◼️
-
-[Data](articles/7cbd5d2b.json)
-
-[Extended Data](ext_articles/7cbd5d2b.ext.json)
-
----
-
-### Two hospitalized in explosion
-
-*2025-09-29 14:02:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පපරමකන-දනනක-රහල/101-680416) · `si`
-
-Two persons were injured in the explosion in Kilinochchi, police said.
-
-The explosion occurred in the Galinochchi Tatunkola area in Kilinochchi today (29).
-
-A bomb exploded while conducting an excavation work in a dropped house and suspected that the two persons were injured.
-
-The victims have been admitted to the Kilinochchi District hospital and the Kilinochchi police are conducting further investigations.
-
-◼️
-
-[Data](articles/b9733e61.json)
-
-[Extended Data](ext_articles/b9733e61.ext.json)
-
----
-
-### Sri Lanka and Japan agree to expand security and economic ties
-
-*2025-09-29 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113025/sri-lanka-and-japan-agree-to-expand-security-and-economic-ties) · `en`
-
-President Anura Kumara Dissanayake has met with the Prime Minister of Japan, Ishiba Shigeru in Tokyo today (29), during his official visit to Japan.
-
-The President is currently in Japan on an official three-day visit.
-
-During the meeting, both leaders reaffirmed their intention to further deepen and expand cooperation, including inter alia in the areas of security, economy, investment, and development cooperation, under the framework of the deepened and expanded Comprehensive Partnership established between the two countries, the Ministry of Foreign Affairs said in a statement.
-
-Prime Minister Ishiba commended the trajectory of recovery of the Sri Lankan economy through the steady implementation of the International Monetary Fund program and debt restructuring, and reiterated Japan’s continued support for Sri Lanka’s reform efforts.
-
-...
-
-[Data](articles/94043860.json)
-
-[Extended Data](ext_articles/94043860.ext.json)
-
----
-
-### Demonstration by the public demanding the suspension of the new Chancellor's appointment in Muttur
-
-*2025-09-29 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226398) · `ta`
-
-A public demonstration was held on Monday (29) in front of the Muttur Saddam Vidyalaya.
-
-The alumni, parents and civilians engaged in the protest, demanding the suspension of the new Chancellor's appointment.
-
-The protesters insisted that the former Chancellor had taken the school on the path to progress, which had fallen in educational activities and morals, and that if he continued to serve, it would lead to many more advances.
-
-Immediately after learning of the incident, the Muttur Zonal Education Office and the police arrived at the scene.
-
-The Zonal Education Director asked the parents, alumni and school development team to come to the Zonal Education Office.
-
-The Zonal Education Director then asked them to explain and asked parents and the public to submit these demands by writing.
-
-◼️
-
-[Data](articles/8c7ebbc7.json)
-
-[Extended Data](ext_articles/8c7ebbc7.ext.json)
-
----
-
-### Illegal liquor sales; Sub -Inspector arrested for suspended
-
-*2025-09-29 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226402) · `ta`
-
-A Sub -Inspector of Police suspended for illegal liquor sales has been arrested by Bandaragama police.
-
-According to information received by the Bandaragama police, the suspect's suspected Sub Inspector of Police has been arrested with a motorcycle near a school in Kalutara - Bandaragama area.
-
-Police investigations have revealed that he was suspended as he was on duty at the Borella Police Station as a Sub Inspector of Police.
-
-3750 millilters of illegal liquor has been seized from the suspected sub -inspector.
-
-◼️
-
-[Data](articles/8289a2c5.json)
-
-[Extended Data](ext_articles/8289a2c5.ext.json)
 
 ---

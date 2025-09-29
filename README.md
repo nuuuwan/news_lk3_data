@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-29 15:56:45**
+As of **2025-09-29 15:39:06**
 
 ## Newspaper Stats
 
-*Scraped **79,514** Articles*
+*Scraped **79,510** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 439
+lankadeepalk | 437
 newsfirstlk | 482
 dbsjeyarajcom | 635
 bbccomsinhala | 707
@@ -21,13 +21,13 @@ adalk | 7,660
 adaderanalk | 10,257
 tamilmirrorlk | 11,903
 virakesarilk | 12,968
-adaderanasinhalalk | 13,771
+adaderanasinhalalk | 13,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,501 (100.0%) of 79,514 articles have been extended.
+79,501 (100.0%) of 79,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,50 +82,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/175a1a96.json)
-
----
-
-### අමාත්‍ය උපාලි පන්නිලගේට එරෙහි පෙත්සමක් සලකා බැලීමට දිනයක්
-
-*2025-09-29 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215138) · `si`
-
-අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ මහතාගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සමක් සලකා බැලීම සඳහා ලබන පෙබරවාරි 27 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
-
-අභිනව නිවහල් පෙරමුණේ සභාපති ඔෂල හේරත් මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
-
-එම පෙත්සම අද (29) අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී පෙත්සම්කාර සහ වග උත්තරකාර පාර්ශවයේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ විනිසුරු මඩුල්ල අදාළ පෙත්සම කරුණු තහවුරු කිරීම සඳහා ලබන වසරේ පෙබරවාරි මස 27 වනදා කැඳවන ලෙස නියම කළේය.
-
-පෙත්සම්කරු කියා සිටින්නේ ඉකුත් මහ මැතිවරණයෙන් අනතුරුව ජාතික ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රීවරයකු වශයෙන් ආචාර්ය උපාලි පන්නිලගේ මහතා පත් කෙරුණු බවයි.
-
-මෙම පත්කිරීම සිදුකරන අවස්ථාවේදී උපාලි පන්නිලගේ මහතා රුහුණු විශ්වවිද්‍යාලයේ සමාජ විද්‍යා මහාචාර්යවරයකු වශයෙන් සේවය කරමින් සිටි බවට තොරතුරු ලැබී ඇති බවත් පෙත්සම්කරු කියා සිටි.
-
-...
-
-[Data](articles/3c2e3ab1.json)
-
----
-
-### දේශපාලන ගැති රාජ්‍ය සේවය අවසන්
-
-*2025-09-29 15:12:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දශපලන-ගත-රජය-සවය-අවසන/1-680419) · `si`
-
-ජනතාවට නිසි පරිදි සේවය සපයන ස්වාධීන හා කාර්යක්ෂම රාජ්‍ය සේවාවක් ඇති කිරීම රජයේ අරමුණ බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය පැවැසුවාය.
-
-ජනතාව වෙනුවෙන් කැපවූ කාර්යක්ෂම රාජ්‍ය සේවයක් තුලින් රට සංවර්ධනය කිරීමේ කාර්යභාරයට එකතු⁣වන ලෙසද අග්‍රාමාත්‍යවරිය ඉල්ලා සිටියාය.
-
-කළමනාකරණ සේවයේ III වන ශේණියට බඳවා ගැනීම සඳහා පැවති විවෘත තරඟ විභාගයෙන් සමත්ව සම්මුඛ පරීක්ෂණයෙන් තෝරාගත් නිලධාරීන් 1890 දෙනකුට පත්වීම් ලබා දීම වෙනුවෙන් අරලියගහ මන්දිරයේ අද (29)  පැවති උත්සවය අමතමින් අග්‍රාමාත්‍යවරිය මේ බව  සඳහන් කළාය.
-
-මෙහිදී අදහස් දැක් වූ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය මෙසේද කීවාය.
-
-"ඔබ ඇතුලත් වෙන්නේ සාම්ප්‍රදායික රාජ්‍ය සේවයක් වෙනුවෙන් නොවන බව මතක් කරන්න කැමතියි.  මෙතෙක් කලක් පැවති අකාර්යක්ෂම හා දේශපාලන ගැති රාජ්‍ය සේවයකට නෙමෙයි ඔබ ඇතුලත් වෙන්නේ.
-
-ජනතාව වෙනුවෙන් පෙනී සිටින, ස්වාධීන රාජ්‍ය සේවයකටයි යනුවෙන් ද අමාත්‍යවරිය කීවාය.
-
-◼️
-
-[Data](articles/16ced147.json)
 
 ---
 
@@ -192,24 +148,6 @@ The beauty of the beauty will be held in Bangkok, Thailand from September 30 to 
 [Data](articles/90237897.json)
 
 [Extended Data](ext_articles/90237897.ext.json)
-
----
-
-### හිටපු ඇමති චම්පිකගේ පෙත්සම විභාගයට දින දෙයි
-
-*2025-09-29 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215137) · `si`
-
-2016 වසරේ රාජගිරිය ප්‍රදේශයේදී අපරීක්ෂාකාරී ලෙස රිය පදවා බරපතළ රිය අනතුරක් සිදු කිරීමේ චෝදනාව සම්බන්ධයෙන් තමන්ට එරෙහිව නීතිපතිවරයා විසින් කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන අධි චෝදනා බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය පාඨලී චම්පික රණවක  මහතා විසින් ගොනු කර තිබෙන රිට් පෙත්සම නොවැම්බර් මස 24 වනදා විභාගය සඳහා කැඳවන ලෙස අභියාචනාදීකරණය නියම කළේය.
-
-එම පෙත්සම අද (29) අභියාචනාධිකරණ විනිසුරු ෆ්‍රැන්ක් ගුණවර්ධන මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී පාඨලී චම්පික රණවක මහතා වෙනුවෙන් පෙනී සිටි නීතිඥ අමරසිරි පණ්ඩිතරත්න මහතා කළ ඉල්ලීමක් සලකා බැලූ විනිසුරුවරයා අදාළ පෙත්සම  විභාගය සඳහා නොවැම්බර් මස 24 වන දා කැඳවන ලෙස නියම කළේය.
-
-2016 වසරේ පෙබරවාරි මස 28 වනදා රාජගිරිය ප්‍රදේශයේදී අපරීක්ෂාකාරී ලෙස රිය පදවා අනතුරක් සිදුකිරීම සම්බන්ධයෙන් හිටපු අමාත්‍ය පාඨලී චම්පික රණවක මහතාට එරෙහිව නීතිපතිවරයා විසින් ගෝඨාභය රාජපක්ෂ මහතාගේ පාලන සමයේ කොළඹ මහාධිකරණය හමුවේ අධි චෝදනා ගොනුකර තිබුණි.
-
-...
-
-[Data](articles/47453c26.json)
 
 ---
 
@@ -1447,22 +1385,6 @@ He has been handed over to the Western Province Southern District Crime Branch a
 
 ---
 
-### ජනපති අද ජපාන අගමැති හමුවෙයි
-
-*2025-09-29 11:51:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-අද-ජපන-අගමත-හමවය/1-680402) · `si`
-
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (29) ජපාන අග්‍රාමාත්‍ය කාර්යාලයේදී ජපාන අග්‍රාමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා හමුවී සාකච්ඡා පැවැත්වීමට නියමිතය.
-
-මෙහිදී දෙරටේ ආර්ථිකය, ආයෝජන, සංවර්ධන සහයෝගිතාව සහ ආරක්ෂාව ඇතුළු ක්ෂේත්‍ර පිළිබඳ අවධානය යොමු වනු ඇත.
-
-මෙම සාකච්ඡා සඳහා විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, ඩිජිටල් ආර්ථිකය පිළිබඳ ප්‍රධාන ජනාධිපති උපදේශක ආචාර්ය හාන්ස් විජයසූරිය, ජනාධිපති ජ්‍යෙෂ්ඨ ආර්ථික උපදේශක දුමින්ද හුලංගමුව මහත්වරුන් සහ විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීන් පිරිසක් සහභාගී වීමට නියමිතය.
-
-◼️
-
-[Data](articles/816a1d30.json)
-
----
-
 ### President meets Japanese Prime Minister today
 
 *2025-09-29 11:51:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-අද-ජපන-අගමත-හමවය/101-680402) · `si`
@@ -1916,5 +1838,75 @@ Rescue operations have been launched to rescue those who have been trapped under
 [Data](articles/b4b1adc4.json)
 
 [Extended Data](ext_articles/b4b1adc4.ext.json)
+
+---
+
+### தெற்காசியாவில் சீனாவின் 'புஜியான்' அச்சுறுத்துமா ?
+
+*2025-09-29 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226378) · `ta`
+
+China's 'Fujian' aircraft is to open a new chapter on military strength, political influence and security strategy in the Indian Ocean region. As Admiral Tripathi noted, how to face these challenges is in the hands of regional countries.
+
+◼️
+
+[Data](articles/9fef0abf.json)
+
+[Extended Data](ext_articles/9fef0abf.ext.json)
+
+---
+
+### Michigan Church
+
+*2025-09-29 10:56:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மிச்சிகன்-தேவாலயத்தில்-வாகனத்தில்-மோதி-துப்பாக்கிச்-சூடு-நால்வர்-உயிரிழப்பு/50-365461) · `ta`
+
+At least four people were killed and eight people were injured when a gunman drove a vehicle inside the Michigan church, fired and set fire to the building.
+
+Officials said that the attack took place during Sunday, which was attended by hundreds of people in the church of Jesus Christ on the day of Jesus Christ in the Grand Blang, 60 miles northwest northwest.
+
+The suspect, who was identified as a 40 -year -old Thomas Jacob Sanford from Michigan's Bardon, was later shot dead by police at a church car parking lot.
+
+Officials who have called the incident as a "targeted violent act" but claim that the purpose is not clear.
+
+Grand Blank Township Police Chief William Renye said at a press conference on Sunday that two people died of firing injuries.
+
+He later said that two more people were dead and "some" are missing, but he could not say how many.
+
+Chief Renye said that when the "hundreds of" people entered the place of worship, a gunman drove a vehicle into the building.
+
+...
+
+[Data](articles/1c36da9a.json)
+
+[Extended Data](ext_articles/1c36da9a.ext.json)
+
+---
+
+### Civil Security Gets New Role Under Public Security
+
+*2025-09-29 10:56:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/civil-security-gets-new-role-under-public-security) · `en`
+
+COLOMBO (News 1st); The Civil Security Department is set to be placed under the purview of the Ministry of Public Security, according to Minister Ananda Wijepala.As part of the upcoming plans, a larger number of Civil Security Officers will be deployed to protect agricultural lands and private property from wild elephant intrusions, particularly in vulnerable rural areas.
+
+◼️
+
+[Data](articles/54261df8.json)
+
+[Extended Data](ext_articles/54261df8.ext.json)
+
+---
+
+### A Movawa Eat Money falls on labor
+
+*2025-09-29 10:47:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මවනලල-පස-කනදක-කමකර-පරසක-මතට-වට/101-680400) · `si`
+
+A mound has collapsed on three in Mawanella, Aluthnuwara and Menikkawa area.
+
+The police said that they have to rescue them.
+
+◼️
+
+[Data](articles/070b57a6.json)
+
+[Extended Data](ext_articles/070b57a6.ext.json)
 
 ---

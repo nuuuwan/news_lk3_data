@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 19:38:48**
+As of **2025-09-30 19:55:57**
 
 ## Newspaper Stats
 
-*Scraped **79,966** Articles*
+*Scraped **79,969** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 515
-lankadeepalk | 524
+newsfirstlk | 516
+lankadeepalk | 525
 dbsjeyarajcom | 636
 bbccomsinhala | 713
 colombotelegraphcom | 801
@@ -21,17 +21,51 @@ adalk | 7,696
 adaderanalk | 10,313
 tamilmirrorlk | 11,952
 virakesarilk | 13,048
-adaderanasinhalalk | 13,824
+adaderanasinhalalk | 13,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,962 (100.0%) of 79,966 articles have been extended.
+79,962 (100.0%) of 79,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### කෝටි 15කට අධික කොකේන් සමග පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2025-09-30 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215194) · `si`
+
+කොකේන් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 3ක් සමග පුද්ගලයන් දෙදෙනෙකු වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරක ඒකකය මගින් අද පස්වරුවේ අත්අඩංගුවට ගෙන තිබේ.
+
+වලාන දූෂණ මර්දන ඒකකයේ අධ්‍යක්ෂ පොලිස් අධිකාරී උදය කුමාර මහතා සහ එහි ස්ථානාධිපති ඉන්දික වීරසිංහ මහතාගේ උපදෙස් පරිදි එම සැකකරු පානදුර හිරන ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+ඉන් කිලෝග්‍රෑම් 2ක් නිවසක තිබී සොයාගෙන ඇති අතර අනෙක් කිලෝව සොයාගෙන ඇත්තේ සුඛෝපභෝගී මෝටර් රථයක ප්‍රවාහනය කරමින් සිටියදීයි.
+
+අදාළ මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් කෝටි 15කට අධික බව පොලීසිය පැවසීය.
+
+සැකකරුවන් සතුව තිබී මේවන විට සේවයේ සිටින පොලිස් නිලධාරියෙකුගේ හැඳුනුම්පතක් ද සොයාගෙන තිබේ.
+
+මොවුන් මෙම මත්ද්‍රව්‍ය තරුපන්තියෝ හෝටල්වල ඇති රාත්‍රී සමාජ ශාලාවෙත අලෙවි කරන බවද පොලීසිය සඳහන් කළේය.
+
+මෙම ජාවාරම ඩුබායිහී සිටන පුද්ගලයෙකු විසින් මෙහෙයවා ඇති බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/f81b81a7.json)
+
+---
+
+### Manamperi Wanted Over Rice Truck Heist
+
+*2025-09-30 19:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/manamperi-wanted-over-rice-truck-heist) · `en`
+
+...
+
+[Data](articles/9ac54ee0.json)
+
+---
 
 ### ‘We Are Bears, Not Paper Bears’: Russia’s Strong Message from Colombo
 
@@ -96,6 +130,24 @@ In a media briefing held at the Police Media Division this afternoon, the police
 [Data](articles/6f8fb9e9.json)
 
 [Extended Data](ext_articles/6f8fb9e9.ext.json)
+
+---
+
+### කෝටි 15ක කුඩු සමඟ දෙන්නෙක් මාට්ටු
+
+*2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-15ක-කඩ-සමඟ-දනනක-මටට/1-680511) · `si`
+
+රුපියල් කෝටි පහළොවකට අධික වටිනාකමකින් යුත් කොකේන් මත්ද්‍රව්‍ය තොගයක්, සුඛෝපභෝගී මෝටර්  රථයක් සමග සැකකරුවන් දෙදෙනකු  අත්අඩංගුවට ගැනීමට වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය සමත්ව ඇත.
+
+විදෙස් රටක සිට මහා පරිමාණයෙන් කොකේන් ජාවාරමේ නියුතු බව කියන බඩෝවිට රාජිත නමැති ජාවාරම් කරුගේ ගෝලයකු බව කියන බඩෝවිට පියා නමැති සැකකරු සහ බඩෝවිට ප්‍රදේශයේ පදිංචි  ඔහුගේ ගෝලයකු මෙසේ අත්අඩංගුවට ගෙන තිබේ.
+
+ක්‍රිකට් ක්‍රීඩකයින් භාවිතා කරනු ලබන විශාල බෑග්, ක්‍රිකට් පිති සහ ක්‍රිකට් උපකරණ මෝටර් රථයේ දමාගෙන  මහා පරිමාණයෙන් කොකේන් ජාවාරම් කරන බවට අධ්‍යක්ෂක පොලිස් අධිකාරි උදය කුමාර මහතාට ලද තොරතුරක් මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉන්දික වීරසිංහ මහතාගේ මෙහෙයවීමෙන් පානදුර , හිරණ , ගල්තුඩේ කල වැටලීමෙන් පසු  ප්‍රධාන සැකකරු කොකේන් මත්ද්‍රව්‍ය සමග  අත්අඩංගුවට ගෙන තිබේ.
+
+ප්‍රධාන සැකකරු අත්අඩංගුවට ගැනීමෙන් අනතුරුව මඳ වේලාවකට පසු ඔහුට අයත් මෝටර් රථයකින් කොකෙක් මත්ද්‍රව්‍ය කිලෝවක් පමණ රැගෙන යමින් සිටි දෙවන සැකකරුද අත්අඩංගුවට ගත්බව පොලිසිය සඳහන් කරයි
+
+◼️
+
+[Data](articles/46ea7259.json)
 
 ---
 
@@ -1928,69 +1980,5 @@ Sooriyawewa Police are conducting further investigations. Residents allege that 
 [Data](articles/d2bda012.json)
 
 [Extended Data](ext_articles/d2bda012.ext.json)
-
----
-
-### It's a mistake - Minister Handunnetti
-
-*2025-09-30 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215178) · `si`
-
-Industry and Entrepreneurs Development Minister Sunil Handunnetti says that he is a mistake to express the global glory in Sri Lanka and expressing his mistake to the auction report in Japan.
-
-He said a note along with the Facebook account of his Facebook.
-
-However, the minister states that he is regrettaving his handicrafts in this regard.
-
-"New Vithanakanda Tea (New Vithanaakande Ceylon Black Committee) has joined the world as the highest price of tea sold in Japan 'auction.
-
-Instead of commenting on this, "the word Nobel gift was made by a 'Nobel gift' and regret it.
-
-The social media has emerges in social media regarding the transfusion of me. I also regret this bankruptcy conversation that deliberately raises some opposition. "
-
-◼️
-
-[Data](articles/63d1289a.json)
-
-[Extended Data](ext_articles/63d1289a.ext.json)
-
----
-
-### Sri Lanka coconut auction prices fall 2.9-pct
-
-*2025-09-30 14:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-fall-2-9-pct-242261/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices slid 2.95 percent at the weekly coconut auction, Coconut Development Authority (CDA) data showed.
-
-The average price for 1,000 nuts was 129,732.23 rupees on September 25.
-
-The number of nuts offered declined to 394,279 from 484,329 a week earlier, while nuts sold fell to 350,130 from 424,123.
-
-“The highest or the lowest price for a nut was not declared,” CDA officials told EconomyNext.
-
-Sri Lanka’s coconut production had showed a 25.7 percent increase in volume in July 2025, compared to July 2024, according to the central bank’s Agriculture Sector Data Bulletin for August.
-
-June production had climbed 18 percent to 289.5 million nuts from a year earlier, official data showed.
-
-Sri Lanka rice, coconut production up; fish, tea and rubber down in July: CB
-
-The wholesale price for a large nut was 180-190 rupees, while small nuts were 150-170 a piece on September 25.
-
-...
-
-[Data](articles/e592787c.json)
-
-[Extended Data](ext_articles/e592787c.ext.json)
-
----
-
-### 164 Duped in Kalmunai: CID Cracks Down on Multi-Million Rupee Scam
-
-*2025-09-30 14:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/164-duped-in-kalmunai-cid-cracks-down-on-multi-million-rupee-scam) · `en`
-
-...
-
-[Data](articles/29fdb0c8.json)
-
-[Extended Data](ext_articles/29fdb0c8.ext.json)
 
 ---

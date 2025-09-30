@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 05:20:13**
+As of **2025-09-30 05:57:05**
 
 ## Newspaper Stats
 
-*Scraped **79,671** Articles*
+*Scraped **79,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 709
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,742
-islandlk | 4,839
+islandlk | 4,850
 dailyftlk | 5,603
 adalk | 7,667
 adaderanalk | 10,280
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,671 (100.0%) of 79,671 articles have been extended.
+79,671 (100.0%) of 79,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -374,6 +374,68 @@ Thankfully, all is not lost at the United Nations. In this situation of deadlock
 ---
 
 ### 2025-09-29 (Monday)
+
+### Phoenix Ogilvy and SriLankan Airlines bring home the country’s first APAC Effie Award
+
+*2025-09-29 23:38:00* · [`islandlk`](http://island.lk/phoenix-ogilvy-and-srilankan-airlines-bring-home-the-countrys-first-apac-effie-award/) · `en`
+
+Phoenix Ogilvy Sri Lanka and SriLankan Airlines have made history as the first Sri Lankan advertising agency and brand to win at the coveted APAC Effie’s, held recently in Singapore.
+
+The campaign, Relive the Epic of the Ramayana Trail, was the sole entry shortlisted in the Travel and Tourism category from the entire Asia Pacific region and was awarded a Bronze Effie, highlighting the campaign’s role in revitalizing inbound tourism at a crucial time for the nation’s economy.
+
+...
+
+[Data](articles/5d35930a.json)
+
+---
+
+### Benchmarking digital excellence: Browns IT recognised with ISO 9001:2015
+
+*2025-09-29 23:37:00* · [`islandlk`](http://island.lk/benchmarking-digital-excellence-browns-it-recognised-with-iso-90012015/) · `en`
+
+Brown & Company’s digital arm, Browns IT was recently awarded the ISO 9001:2015 certification by world-leading certification company Bureau Veritas in recognition of its quality-driven commitment to delivering cutting-edge digital solutions. Widely regarded as one of the most globally recognised standards for Quality Management Systems (QMS), the ISO 9001:2015 certification is exclusively awarded to companies that demonstrate consistent quality across their processes, products and services, while aligning with international standards. This milestone is timely as Browns celebrates its 150th anniversary, a century and a half defined by innovation, resilience, and a steadfast commitment to customer-centric service excellence.
+
+...
+
+[Data](articles/a244d06b.json)
+
+---
+
+### Nation Lanka Finance decides against going ahead with private placement of shares but CSE remains robust
+
+*2025-09-29 23:35:00* · [`islandlk`](http://island.lk/nation-lanka-finance-decides-against-going-ahead-with-private-placement-of-shares-but-cse-remains-robust/) · `en`
+
+Nation Lanka Finance said it would not proceed with its planned private placement of shares, which would have helped it to meet working capital requirements.
+
+The company had received regulator approval for the private placement of 30 billion ordinary shares at 10 cents per share.
+
+“NLF PLC wishes to now inform that the Company would not pursue with the said Private Placement of Shares, informed sources said.
+
+Amid those developments the market performance was overall positive as investors were optimistic over the potential in emerging new economic policies.
+
+The All Share Price Index went up by 86.14 points, while the S and P SL20 rose by 3.67 points. Turnover stood at Rs 4.2 billion with five crossings.
+
+...
+
+[Data](articles/17260fa0.json)
+
+---
+
+### CSE Masterminds Quiz offers over Rs. 3.5 million in prizes for its 7th edition
+
+*2025-09-29 23:34:00* · [`islandlk`](http://island.lk/cse-masterminds-quiz-offers-over-rs-3-5-million-in-prizes-for-its-7th-edition/) · `en`
+
+The Colombo Stock Exchange (CSE) announces the seventh edition of the CSE Masterminds Quiz on 17th October 2025 from 3.00 p.m. onwards at the Main Ballroom, Shangri-La Colombo.
+
+Recognized as Sri Lanka’s premier capital market quiz competition, the event will bring together teams from the public and private sector to compete for glory in six subject areas, in international business, global markets, Sri Lankan economy and business, local capital market, sports & entertainment, and current affairs.
+
+This year’s competition will offer prizes worth over Rs. 3.5 million. The champion team will walk away with Rs. 1,000,000/-, while the second and third-placed teams will receive Rs. 500,000/- and Rs. 375,000/-, respectively.
+
+...
+
+[Data](articles/01c5987b.json)
+
+---
 
 ### Budget 2025: Smiles in every rupee
 
@@ -1928,89 +1990,5 @@ The deceased has been identified as Divanga Piyadissa (24), a third -year studen
 [Data](articles/8c24a748.json)
 
 [Extended Data](ext_articles/8c24a748.ext.json)
-
----
-
-### Maithri says poems
-
-*2025-09-29 16:53:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මතර-කව-කයය/101-680426) · `si`
-
-Former President Maithripala Sirisena said that no politician is not good for education
-
-The former President said that it was not the political responsibility of education, it said that it belongs to educational experts.
-
-The ex-President was a special event to sing the poem on the pink flower stall in front of the children.
-
-◼️
-
-[Data](articles/03dd1753.json)
-
-[Extended Data](ext_articles/03dd1753.ext.json)
-
----
-
-### Maithri says poems
-
-*2025-09-29 16:53:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතර-කව-කයය/1-680426) · `si`
-
-Former President Maithripala Sirisena said that no politician is not good for education
-
-The former President said that it was not the political responsibility of education, it said that it belongs to educational experts.
-
-The ex-President was a special event to sing the poem on the pink flower stall in front of the children.
-
-◼️
-
-[Data](articles/73d12946.json)
-
-[Extended Data](ext_articles/73d12946.ext.json)
-
----
-
-### Mannar stabbed against the windmill and police
-
-*2025-09-29 16:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றாலை-பொலிஸாரின்-அடாவடிக்கும்-எதிராக-மன்னார்-ஸ்தம்பித்தது/175-365489) · `ta`
-
-Tens of thousands of people from many parts of the district have expressed their opposition in Mannar on Monday (29) in Mannar, against the windmill project in Mannar and the police attack on the people.
-
-The Mannar Citizens Committee and the Struggle Committee called for a public paralysis on Monday (29) throughout the Mannar district.
-
-All the trade centers in all areas, including the Mannar Bazaar area, were closed.
-
-All private transport services have been halted.
-
-Thousands of people gathered at the Mannar Public Playground at 10.30 am. The protest rally began from the public playground.
-
-The rally began to condemn incidents of the construction of wind towers in Mannar, the excavation of heavy sand in Mannar, and the attack on civilians and the attacks by the police two days ago.
-
-A protest group from Colombo came in support of the protest.
-
-...
-
-[Data](articles/0a1c0bd7.json)
-
-[Extended Data](ext_articles/0a1c0bd7.ext.json)
-
----
-
-### Mannar windmill: The government should abandon its stubbornness and guarantee the rights of the people - Suresh Premachandran
-
-*2025-09-29 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226428) · `ta`
-
-Social activists, ecologists and psychologists have expressed their stubbornness and guarantee the people's rights of the Eelam People's Revolutionary Liberation Front, Suresh Priyamachandran, as the newly built wind power towers in the Mannar island will be affected and the environment will be affected.
-
-He said that any development action should be guaranteed to guarantee the prosperous future of the people and not to threaten their lives.
-
-He said this in a media statement issued by Suresh Premachandran:
-
-Various efforts are being made to strengthen alternative power in Sri Lanka, such as wind power towers and solar power plants.. In particular, the government is encouraging the private sector to build massive windmills due to the sea around the area in the Mannar Island area.
-
-Mannar people are facing two problems. One, the mineral mud is plundered. Wind power towers are set up in areas where people can live.
-
-...
-
-[Data](articles/86a2ecff.json)
-
-[Extended Data](ext_articles/86a2ecff.ext.json)
 
 ---

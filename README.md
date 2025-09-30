@@ -1,481 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 11:41:30**
+As of **2025-09-30 10:09:38**
 
 ## Newspaper Stats
 
-*Scraped **79,757** Articles*
+*Scraped **79,723** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 488
-newsfirstlk | 498
+lankadeepalk | 485
+newsfirstlk | 494
 dbsjeyarajcom | 635
 bbccomsinhala | 710
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,742
 islandlk | 4,850
-dailyftlk | 5,604
-adalk | 7,676
-adaderanalk | 10,293
-tamilmirrorlk | 11,932
+dailyftlk | 5,603
+adalk | 7,669
+adaderanalk | 10,287
+tamilmirrorlk | 11,922
 virakesarilk | 12,998
-adaderanasinhalalk | 13,798
+adaderanasinhalalk | 13,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,748 (100.0%) of 79,757 articles have been extended.
+79,723 (100.0%) of 79,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### ශෂීන්ද්‍ර රාජපක්ෂ තවදුරටත් රිමාන්ඩ්
-
-*2025-09-30 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215167) · `si`
-
-අල්ලස් කොමිසම මඟින් දූෂණ චෝදනාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වන විට රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා තවදුරටත් ඔක්තෝබර් මස 14 වන දා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-◼️
-
-[Data](articles/fce9cd81.json)
-
----
-
-### AI නිසා රැකියා නැති වේද? නව අවස්ථා උදාවේද?
-
-*2025-09-30 11:09:02* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/AI-නස-රකය-නත-වද-නව-අවසථ-උදවද/26-680463) · `si`
-
-2025 ඇස්තමේන්තුව අනුව ලොව පුරා බිලියන 5.3 ප්‍රමාණයක් AI තාක්ෂණය විවිධ අයුරින් භාවිත කර තිබෙනවා. මෙය සතියකට මිලියන සියයක පමණ ප්‍රමාණයක්. කෙසේ වෙතත් ශ්‍රී ලංකාවේ AI තාක්ෂණය වැළඳ ගැනීමේ ප්‍රමාණය තවමත් සියයට දෙකක තරම්වත් නැත.
-
-AI තාක්ෂණය වැළඳ ගැනීම අතින් ශ්‍රී ලාංකිකයන් සිටින්නේ පසුපසින්. මීට ප්‍රධාන හේතු කිහිපයක් වී ඇත. ChatGPT වැනි බොහෝ AI මෙවලම්වලට අප බසෙහි පවතින නුවන්සය (සියුම් භාෂාමය වෙනස්කම්) හදුනා ගැනීමට නොහැකි වීම, සිංහල පුහුණු දත්ත (training data) Reddit වැනි වෙබ් අඩවිවල ඉතා සීමිත වීම, සමහර විකිපීඩියා අන්තර්ගතයේ නිරවද්‍යතාව ප්‍රශ්නාර්ථ වීම, මෙන්ම බොහෝ සිංහල ලේඛන සහ පොත් අන්තර්ජාලයේ නොමිලේ ලබා ගත නොහැකි වීම නිසා AI පද්ධතිවලට සිංහල භාෂාව නිසියාකාරව ඉගෙන ගැනීමට අපහසු වී තිබේ.
-
-කෙසේ වෙතත්, AI තාක්ෂණය නිවැරදිව භාවිතා කරන්නේ නම්, එය ඔබගේ ජීවිතය වෙනස් කළ හැකි බලවත් මෙවලමකි. මෙම ලිපිය හරහා AI තාක්ෂණය ව්‍යාපාර, අධ්‍යාපනය, සහ පෞද්ගලික සංවර්ධනය සඳහා භාවිත කරන ආකාරය පිළිබඳව විස්තරාත්මකව දැනගනිමු.
-
-...
-
-[Data](articles/d838f3fc.json)
-
----
-
-### Bomber
-
-*2025-09-30 11:05:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தட்டுவானில்-வெடிக்காத-வெடிகுண்டு/175-365515) · `ta`
-
-Two people who were involved in a massive accident while trying to take the bombshell
-
-Many explosives were found when the tattuvan pour was observed throughout the area. Steps have been taken to obtain the court order to excavate it.
-
-It is noteworthy that the bombs have been removed in the theme of humanitarian mesh erosion throughout the area.
-
-◼️
-
-[Data](articles/80ffbae0.json)
-
-[Extended Data](ext_articles/80ffbae0.ext.json)
-
----
-
-### Issuance of bus tickets in Western Province mandatory from tomorrow: WPRPTA
-
-*2025-09-30 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113064/issuance-of-bus-tickets-in-western-province-mandatory-from-tomorrow-wprpta) · `en`
-
-The issuance of travel tickets to private bus passengers will be mandatory from tomorrow (Oct. 1), the Road Passenger Authority of the Western Province has announced.
-
-The Authority noted that starting from tomorrow, passengers traveling in buses without a valid ticket will be fined.
-
-Operations Manager of the Authority Jeevinda Keerthirathna emphasized that conductors who fail to issue tickets will also be fined.
-
-Accordingly, Keerthirathna stated that from tomorrow, all passengers traveling on buses operating within the Western Province will be required to keep their travel ticket with them at all times.
-
-Meanwhile, the Chairman of the Western Province Road Passenger Transport Authority, Gamini Jasinghe stated from tomorrow, both the act of the passenger obtaining a ticket and the conductor issuing a ticket will be compulsory.
-
-...
-
-[Data](articles/efc2eb97.json)
-
----
-
-### 2 -hour trip is the bridge that completes in 2 minutes
-
-*2025-09-30 10:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/2-மணி-நேரப்-பயணம்-2-நிமிடத்தில்-நிறைவு-செய்யும்-பாலம்/50-365514) · `ta`
-
-The highest bridge of Ulu Gin is the Chinese Natil Opening Cup Butt. This has reduced the trip to 2 hours to just 2 minutes.
-
-The Bridge in the province of China's Quezo Province was open yesterday. This is the name of Huaji Yang Grand Gun Yan Bridge. The bridge is located at a height of 625 meters from the ground floor.
-
-The bridge is the most beautiful, and the best part of the two mountains. So far, the part of the area has been tied up for 2 hours to cross the area, with the help of the bridge to cross the area in two minutes.
-
-Previously, the world was the world's tallest bridge, which was a 565 -meter -tall bridge from the groundmade to the Ban Ji Yang area.
-
-At the time, this Huaji Yang Grand Gun Yan Bridge was 625 mitter tall and that record was broken.. The bridge is 2,900 meters long and the bridge is built on 3 male men.
-
-...
-
-[Data](articles/dc19cc6a.json)
-
-[Extended Data](ext_articles/dc19cc6a.ext.json)
-
----
-
-### ශෂින්ද්‍ර යළි රිමාන්ඩ්
-
-*2025-09-30 10:48:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ශෂනදර-යළ-රමනඩ/101-680462) · `si`
-
-අරගල කරුවන් විසින් 2022 දී ගිනිබත් කර විනාශයට පත් කළ කිරිඉබ්බන්වැව , මහවැලි අධිකාරියට අයත් ඉඩමේ දේපළ සඳහා රජයේ නිලධාරීන්ට බලපෑම් කර වන්දි ලබාගත්තේ යැයි කියන හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාගේ ශරීරයේ සෝඩියම් සාන්ද්‍රණය වැඩිවී වකුගඩු වලට බලපෑම්වීම සම්බන්ධයෙන් පූර්ණ වෛද්‍ය වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංග එස් බෝදරගම මහතා අද (30) බන්ධනාගාර අධිකාරිවරයාට නියෝග කළේය.
-
-පොදු දේපල පනත යටතේ රක්ෂිත බන්ධනාගාර ගත කර සිටින සැකකරුට ඇප ලබාදීමටට තරම් සුවිශේෂී කරුණක් ඉදිරිපත් වී නොමැති බව ප්‍රකාශ කළ මහේස්ත්‍රාත්වරයා සැකකරු ලබන 14 දින දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
-
-සැකකරුට රෝග ඇත්නම් එය තත්කාලීන විය යුතු බවත්, ඉපදීමට තරම් සුවිශේෂී කරුණක් මෙතෙක් ඉදිරිපත් වී නොමැති බවත් සැබවින්ම ඔහුට පවතින්නේ මොනයම් රෝගයක්ද යන්න පිළිබඳව හා මෙතෙක් බන්ධනාගාර ගතව සිටීමේ දී ලබාගත් ප්‍රතිකාර මොනවාද යන්න පිළිබඳව වාර්තාවක් ඉදිරිපත් කරන ලෙසට නියෝග කළේය.
-
-...
-
-[Data](articles/3e693a31.json)
-
----
-
-### Tickets for passenger buses in the Western Province are micigant from tomorrow
-
-*2025-09-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215166) · `si`
-
-The Western Province Road Passenger Transport Authority says that passengers traveling on buses without a ticket will be a fine from tomorrow (01).
-
-The racing manager of the racing manager, Jewisa, pointed out that the conduct that does not receive tickets also a fine.
-
-Accordingly, the passengers traveling in the Western Province from tomorrow is mandatory, "Gavan too Keerthimetha said.
-
-Meanwhile, the Chairman of the Western Province Western Province
-
-Accordingly, the passenger has been obtaining a ticket from tomorrow and giving a ticket with the conductor ticket, said the Chairman of the Authority Gamini Jasinghe said.
-
-"When a passenger builds, he has made it compulsory to provide the bus number, the end, serial number, pass fee, pass fee, pass fare,. And there is a passenger responsibility before starting their first milestone, he needs to get a ticket. And you have to keep the ticket to their destination.. We have decided to provide tickets from October 1 to October 1.
-
-...
-
-[Data](articles/5a85c66d.json)
-
-[Extended Data](ext_articles/5a85c66d.ext.json)
-
----
-
-### Karur incident: Three arrested for spreading rumor Case on 25 people
-
-*2025-09-30 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-சம்பவம்-வதந்தி-பரப்பிய-3-பேர்-கைது-25-பேர்-மீது-வழக்கு/175-365513) · `ta`
-
-Three persons arrested in Chennai. A case has been registered against 25 website companies. Chennai Police Commissioner Arun has warned that strict legal action will be taken against those who have been posted on the web sites on the issue of public setting.
-
-Karur crowded congestion. This includes fake and pairing video.. The first Vir Sta Lynn Wanne to the planet is that Tom should spread the weed.
-
-In this case, Chennai Police Commissioner Arun yesterday. In this case. While the government is taking appropriate action in the Visa Ranitary Force, some of the web sites are lying in the form of a general public.
-
-According to complaints received by the series, 25 website website registered on social networks in the public outer space.
-
-◼️
-
-[Data](articles/99d5c0bb.json)
-
-[Extended Data](ext_articles/99d5c0bb.ext.json)
-
----
-
-### Wild elephant that damaged the patient's bed into the hospital
-
-*2025-09-30 10:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனைக்குள்-புகுந்து-நோயாளி-படுக்கையை-சேதப்படுத்திய-காட்டு-யானை/175-365512) · `ta`
-
-The wild elephant, which entered the Eeperiya Ayurvedic Hospital complex, broke a window, took out the items that the patients had, and damaged the bed and iron box.
-
-The staff shouted and claimed that the wild elephant was chased away. They further stated that wild elephants often attacked the hospital and damaged the property and feared that it could be at risk.
-
-They accused the authorities of being deaf, despite their repeated demands for the construction of an electrical fence to protect the hospital.
-
-◼️
-
-[Data](articles/6d19db02.json)
-
-[Extended Data](ext_articles/6d19db02.ext.json)
-
----
-
-### Madagascar president dissolves government after ‘Gen Z’ protests
-
-*2025-09-30 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113063/madagascar-president-dissolves-government-after-gen-z-protests) · `en`
-
-Madagascar’s president has said he will dissolve his government, following days of youth-led protests over longstanding water and power cuts.
-
-“We acknowledge and apologise if members of the government have not carried out the tasks assigned to them,” Andry Rajoelina said in a televised national address on Monday.
-
-The so-called Gen-Z protests have seen thousands of predominantly young demonstrators take to the streets in cities across Madagascar since Thursday, under the rallying cry: “We want to live, not survive”.
-
-The UN’s human rights chief condemned the “unnecessary force” used by security forces to quell the unrest, saying that at least 22 people have been killed and 100 others injured.
-
-Madagascar’s foreign ministry has rejected the UN’s figures, alleging the data is “based on rumours or misinformation”.
-
-Protests first started in the capital Antananarivo, but have since spread to eight cities across the country.
-
-...
-
-[Data](articles/78cab844.json)
-
----
-
-### You want us ... Bongo ...
-
-*2025-09-30 10:33:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எங்களுக்கு-நீங்க-வேணாம்-போங்கோ/175-365511) · `ta`
-
-◼️
-
-[Data](articles/acbcdbbf.json)
-
-[Extended Data](ext_articles/acbcdbbf.ext.json)
-
----
-
-### 33kg Hash, Heroin & Pills Seized In Mattakkuliya
-
-*2025-09-30 10:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/33kg-hash-heroin-pills-seized-in-mattakkuliya) · `en`
-
-COLOMBO (News 1st); The Colombo North Division Crime Investigation Unit arrested a suspect in Mattakkuliya’s Sirivardhana Mawatha with a massive stash of drugs, including hashish, heroin, and narcotic pills.Police said the raid uncovered 33 kilograms and 270 grams of hashish, 408 grams of heroin, and 200 narcotic pills, along with pre-packed heroin ready for sale. The suspect, a 38-year-old resident of Samithpura, Mattakkuliya, was taken into custody during the operation.Investigations have revealed that the suspect is closely linked to an organized criminal operating in the area, according to police sources.
-
-◼️
-
-[Data](articles/e1241025.json)
-
-[Extended Data](ext_articles/e1241025.ext.json)
-
----
-
-### Internationally high recognition, national quality infrastructure system
-
-*2025-09-30 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215165) · `si`
-
-Science and Technology Minister Krishantha Abeykya says it will be developed in the future internationally recognized National Quality Infrastructure.
-
-The Minister made this observation at the inauguration of the two-day workshop on the Ministry of Science and Technology, the United Nations Industrial Development Organization and the National Quality Infraction System.
-
-The budget allocation for the development of the National Quality Infrastructure System, which is being implemented under the Ministry of Science and Technology, has been allocated for the development of the National Quality Infrastructure.
-
-This will create a quality mechanism to protect, developing, developing the quality of goods and services in Sri Lanka, including drugs and foods.
-
-The system is aligned on four basic layers of standards, accurate measurements, compliance and certification.
-
-...
-
-[Data](articles/18dac9e4.json)
-
-[Extended Data](ext_articles/18dac9e4.ext.json)
-
----
-
-### The wrong decision of the 15 -year -old student
-
-*2025-09-30 10:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/15-வயது-மாணவனின்-தவறான-முடிவு/76-365510) · `ta`
-
-A 15 -year -old schoolgirl has suffered his life in the Lakkam private garden belonging to the Maskeliya Police Division.
-
-People say the incident may have taken place at 6.30 pm on Monday (29). Investigations into the incident are being carried out by a team headed by the Maskeliya Police Station.
-
-Student Lakkam Tamil Vidyalaya is a student of Grade 10, thus made the wrong decision. The student went to school on Monday morning and returned home at 5.00 pm and reported that the neighbor had seen the student at 6.00 pm.
-
-Her father returned home from home in the morning and returned home at 7 pm and searched his son missing. The father, who had left his home in search of the city, had seen his son in a dark room near the kitchen.
-
-Residents immediately informed the Maskeliya police regarding the incident and a team of Maskeliya Police Station SS Pushpakumara rushed to the spot and started investigations into the incident.
-
-...
-
-[Data](articles/707607a2.json)
-
-[Extended Data](ext_articles/707607a2.ext.json)
-
----
-
-### Shasheendra Rajapaksa further remanded
-
-*2025-09-30 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/113062/shasheendra-rajapaksa-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who faces allegations of offenses under the Public Property Act, has been further remanded until October 14.
-
-The order was issued by the Colombo Chief Magistrate, Asanka S. Bodaragama.
-
-Shasheendra Rajapaksa was further remanded after considering submissions made by officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the legal representatives of the former State Minister, said Ada Derana reporter.
-
-The Magistrate also directed the Superintendent of Prisons to submit a comprehensive report to court on the treatment provided to the suspect at the Prison Hospital and other medical institutions by the next hearing date.
-
-...
-
-[Data](articles/cc642b2e.json)
-
----
-
-### Sri Lankan Crime Trio Busted in Bengaluru Hideout
-
-*2025-09-30 10:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/sri-lankan-crime-trio-busted-in-bengaluru-hideout) · `en`
-
-...
-
-[Data](articles/135afec3.json)
-
-[Extended Data](ext_articles/135afec3.ext.json)
-
----
-
-### Where Ideas Collide, Leaders Emerge : Season 5 of The Debater with AAT Sri Lanka
-
-*2025-09-30 10:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/where-ideas-collide-leaders-emerge-season-5-of-the-debater-with-aat-sri-lanka) · `en`
-
-COLOMBO (News 1st); The spotlight turned to intellect and eloquence as Season 5 of The Debater with AAT Sri Lanka officially launched its television phase at Stein Studios, Ratmalana. This prestigious competition, known for uniting students from across the nation, continues to champion equal opportunity and the power of ideas.
-
-From over 400 schools, 60 institutions have been selected to compete on this televised platform, representing every province and community—urban and rural alike. The Debater remains a beacon for students to sharpen their critical thinking, public speaking, and leadership skills.
-
-The launch event was attended by key figures who underscored the importance of platforms that nurture young minds:
-
-...
-
-[Data](articles/b53d34ea.json)
-
-[Extended Data](ext_articles/b53d34ea.ext.json)
-
----
-
-### Increase in pregnancy
-
-*2025-09-30 09:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயது-குறைந்த-பெண்கள்-கர்ப்பமாவது-அதிகரிப்பு/175-365508) · `ta`
-
-In the Anuradhapura area, the pregnancy of older girls and the proportion of baby mothers is increasing in anxiety, which creates a serious social problem, which causes the authorities to be very worried.
-
-Anuradhapura Police Inspector S.. According to Shyamali, women under the age of age have increased the pregnancy this year compared to the past years.
-
-The committee convened on Sunday (28) at the District Secretariat Auditorium, headed by Additional District Secretary Shamila Wickramarachchi to take up the problems that affect children and women.
-
-The Additional District Secretary pointed out that teachers are still using social media networks and the Internet for school education activities and that children are in danger.
-
-He emphasized the need to provide adequate facilities, including more schools for the education of children with special needs. He pointed out that a malfunction plan was created as specified in the instructions of the circular.
-
-...
-
-[Data](articles/f434b1cd.json)
-
-[Extended Data](ext_articles/f434b1cd.ext.json)
-
----
-
-### Cey of CSE celebrates 40th anniversary cultivation project
-
-*2025-09-30 09:54:49* · [`adalk`](https://www.ada.lk/business/CSE-හි-40-වැනි-සංවසරය-සමරමින්-ගස්-4-000ක-වන-වගා-ව්‍යාපෘතියක්/7-418805) · `si`
-
-The Colombo Stock Exchange (CSE) has signed a Undahamatha Exchange, a profit-intended environmental organization for an unique CSR project to celebrate its 40th anniversary.
-
-Under the theme of "4,000 years celebrate 40 years", the project is to be cultivated for long-term forest conservation and environmental jungle.
-
-The International "Bonarapa Challenge" aimed at re-forestry by the Colombo Stock Exchange, which is aimed at re-forest, contributes to the target of the target of the Colombo Stock Exchange.. The project site is located in the Rajawaka area and is rich in elephants, leopards, natural beekeys, natural beekees and other species of organisms and biodiversity.
-
-...
-
-[Data](articles/e79728c8.json)
-
-[Extended Data](ext_articles/e79728c8.ext.json)
-
----
-
-### Nation Reimagined by Its Youngest Dreamers
-
-*2025-09-30 09:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/nation-reimagined-by-its-youngest-dreamers) · `en`
-
-COLOMBO (News 1st); A new chapter for Sri Lanka is being written—not by politicians, but by its future. On Sunday (28), the voices of children echoed across Viharamahadevi Park, as Sirasa TV, in collaboration with Munchee, hosted a vibrant and visionary celebration titled “Sirasa - Munchee Tikiri Punchi Lokaya” to mark World Children’s Day.
-
-This year’s celebration was unlike any before. It was shaped entirely by the children themselves. Beginning on September 11, Sirasa TV embarked on a nationwide journey, covering all 25 districts, gathering ideas, dreams, and visions from schoolchildren about the kind of future they want to build.
-
-From thousands of submissions, ten standout paintings—each a visual manifesto of hope and progress—were awarded today. These artworks reflected the children’s aspirations for a modern, inclusive, and creative Sri Lanka.
-
-The inaugural ceremony was graced by a distinguished panel of guests, each representing a pillar of Sri Lanka’s development:
-
-...
-
-[Data](articles/0f4f5fb4.json)
-
-[Extended Data](ext_articles/0f4f5fb4.ext.json)
-
----
-
-### President Meeting with Japan's leading traders
-
-*2025-09-30 09:49:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-முன்னணி-வர்த்தகர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-365506) · `ta`
-
-President Anura Kumara Dissanayake, who has made an official visit to the Japanese government, held a discussion with Japan's leading traders at the Foreign Trade Organization (JETRO) headquarters on Monday (29).
-
-The discussion was held with the participation of Ishiguro Norihiko, the Chairman of the Foreign Trade Organization of Japan and the President of the Japanese Trade Cooperation Committee (JSLBCC), and the president of the ITOCHU, Fumihiko Kabayashi.
-
-Speaking about the new investment opportunities in Sri Lanka, President Anura Kumara Dissanayake made clear the current government's steps to create an investment in the country and eradicate fraud and corruption.
-
-The President further pointed out the need to improve trade cooperation between Sri Lanka and Japan as the main economic partner of Sri Lanka and the mutual benefits that can be obtained through it.
-
-...
-
-[Data](articles/e6b16572.json)
-
-[Extended Data](ext_articles/e6b16572.ext.json)
-
----
-
-### Asian bowl
-
-*2025-09-30 09:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆசிய-கிண்ணத்தில்-அறம்-இழந்த-விளையாட்டு-அறம்/62-365505) · `ta`
-
-◼️
-
-[Data](articles/ceae08cd.json)
-
-[Extended Data](ext_articles/ceae08cd.ext.json)
-
----
-
-### Three Sri Lankans arrested in Bangalore
-
-*2025-09-30 09:44:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்-மூவர்-பெங்களூரில்-கைது/175-365504) · `ta`
-
-Three Sri Lankans - Iresh Hasanka, Sukat Samindu and Dileep Harshana, have been arrested by the Bangalore Central Crime Division of India last year.
-
-◼️
-
-[Data](articles/7b5747c0.json)
-
-[Extended Data](ext_articles/7b5747c0.ext.json)
-
----
-
-### Trump and Netanyahu agree with a new peace plan in Gaza
-
-*2025-09-30 09:41:49* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්-සහ-නෙතන්යාහු-ගාසා-තීරයේ-නව-සාම-සැලැස්මකට-එකඟ-වෙයි/11-418803) · `si`
-
-American president Donald Trump and Israeli Prime Minister Benjamin Netanyahu have agreed to a new peace plan for Gaza.
-
-According to the plan, military operations are proposed to be immediately exempted and the bodies of the hostages who believe that 20 are living Israeli hostages and death have been killed within 72 hours.
-
-◼️
-
-[Data](articles/ab1a7cef.json)
-
-[Extended Data](ext_articles/ab1a7cef.ext.json)
-
----
-
-### Gold hits fresh record above $3,800 on US shutdown fears
-
-*2025-09-30 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113061/gold-hits-fresh-record-above-3800-on-us-shutdown-fears) · `en`
-
-Gold edged higher to a fresh record as the prospect of a looming US government shutdown clouded the Federal Reserve’s monetary policy path ahead of next month’s interest-rate decision.
-
-Bullion briefly touched an all-time high of $3,839.52 an ounce on Tuesday. Gold rallied in the previous session as a meeting between top congressional leaders and US President Donald Trump ended without a deal on short-term funding. That’s fanned fears of a shutdown, which could hinder the release of economic reports — depriving investors of crucial data needed to assess the US economy.
-
-Gold has soared more than 45% this year, setting successive peaks on central-bank demand and a resumption of interest-rate cuts by the Fed. Prices are on track to close out a third consecutive quarterly gain, with holdings in bullion-backed exchange-traded funds at the highest since 2022.
-
-...
-
-[Data](articles/732d8fb1.json)
-
----
 
 ### Sri Lanka operates Hakka tissue and Chinese bills
 
@@ -488,50 +44,6 @@ The law is strictly implemented against people who are illegally produced by the
 [Data](articles/c7060bf7.json)
 
 [Extended Data](ext_articles/c7060bf7.ext.json)
-
----
-
-### Two people arrested for possessing Padme's weapons
-
-*2025-09-30 09:28:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-අව-ළඟ-තබගත-දනනක-අලලය/101-680456) · `si`
-
-The Criminal Investigations Department says that two persons have been arrested in possession of Micro VIIA, who belongs to the name of organized crime leader Kehel Badma.
-
-One of the suspects have been arrested for assisting the incident.
-
-The suspect was arrested for the cahel of Indonesia recently, a fire weapon was handed over to a person in Nuravuduwa in Nurama, Kelaniya had been handed over to a person in Nurama.
-
-The suspects were arrested for 24/38 years old and another person was arrested in questioning the incident.
-
-◼️
-
-[Data](articles/94ecf42a.json)
-
-[Extended Data](ext_articles/94ecf42a.ext.json)
-
----
-
-### Katunayake Rs. A business attempted to emit alcohol
-
-*2025-09-30 09:25:58* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-රු--මිලියනයක-මත්පැන්-පිටකිරීමට-තැත්කළ-ව්‍යාපාරියෙක්-අල්ලයි/11-418801) · `si`
-
-A non-air passenger person to enter the Katunayake International Airport, the opening of foreign manufacturers of foreign manufacturers, and the airport bureau of the Airport Bureau, which is not proclaimed by the Green Channel.
-
-He is a 38-year-old Muslim businessman resident of the Vilika, Puttalam. The arrest was made by the Police Narcotics Bureau at 02.40 am while the stock of liquor bottles were driven into the airport.
-
-This person who is not a passenger is last month on a flight on August 17, 2024.
-
-Around two weeks ago, a SLII intelligence officer and officially attached to the safety of the airport was arrested on the airport.
-
-The Police Narcotics Bureau doubts the support of the airports without the airport, past the customs premises under strict security guards.
-
-The man is to be produced before the Negombo Magistrate's Court on the Negombo Magistrate's Court on the man who has been exhaled.
-
-◼️
-
-[Data](articles/b07b91f6.json)
-
-[Extended Data](ext_articles/b07b91f6.ext.json)
 
 ---
 
@@ -570,22 +82,6 @@ Industries and Entrepreneurship Development Minister Sunil Handunnetti, Minister
 [Data](articles/d27168b1.json)
 
 [Extended Data](ext_articles/d27168b1.ext.json)
-
----
-
-### Temporary Driver’s licences now issued from Nugegoda Medical Institute
-
-*2025-09-30 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113060/temporary-drivers-licences-now-issued-from-nugegoda-medical-institute) · `en`
-
-The temporary driver’s licence issued during the renewal process will now be provided by the National Transport Medical Institute in Nugegoda, effective today (30), the Department of Motor Traffic has announced.
-
-The Department stated that if no changes are required to the existing driver’s licence during the renewal process, the temporary licence can be obtained directly from the Transport Medical Institute in Nugegoda.
-
-Furthermore, applicants for temporary licences are no longer required to visit the Werahera Motor Traffic Office, the Department confirmed.
-
-◼️
-
-[Data](articles/b5828213.json)
 
 ---
 
@@ -698,32 +194,6 @@ The COPE Committee on the Parliamentary Committee (COPE) has detected more than 
 [Data](articles/d3a748ab.json)
 
 [Extended Data](ext_articles/d3a748ab.ext.json)
-
----
-
-### Bodies of two males found in separate areas of Colombo
-
-*2025-09-30 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113059/bodies-of-two-males-found-in-separate-areas-of-colombo) · `en`
-
-Bodies of two males have been found in two separate locations in Colombo, according to police.
-
-One body was found in Grandpass, while the other was recovered in Dehiwala.
-
-The first body was located last evening (29) at the Ingurukade Junction, Grandpass. Police stated that the identity of the deceased remains unknown, but it is believed to be a male aged between 35 and 40 years.
-
-The individual was approximately 5 feet 4 inches tall and was wearing black shorts and a black T-shirt, police stated.
-
-The body has been placed at the morgue of the Colombo National Hospital for further examination.
-
-Meanwhile, the second body was found last evening inside a house along Siriwardana Road, Dehiwala.
-
-Investigations revealed that the deceased was a 23-year-old male resident of Dehiwala.
-
-The body has been placed at the morgue of the Kalubowila Hospital for a post-mortem examination.
-
-◼️
-
-[Data](articles/14d8b698.json)
 
 ---
 
@@ -945,28 +415,6 @@ COLOMBO (News 1st)  - The Federation of University Teachers’ Association (FUT
 
 ---
 
-### Three criminals arrested in India
-
-*2025-09-30 07:40:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-අපරාධකරුවන්-තිදෙනෙක්-ඉන්දියාවේදී-අල්ලයි/11-418800) · `si`
-
-The Bangagore Central Criminal Section (CCB) has been arrested by three Sri Lankan people in the Devanahalla apartment.
-
-Vidanagamage Ize Slumba (31), Kotahena (31), Kotahena (46), Dilip Opayan (46), Dilip Owiman (46), Dilip Owiman (46) has been arrested. They were discovered while living in a hired apartment.
-
-The three men entered India from Jaffna to Rameshwaram (Tamil Nadu) to Rameshwaram (Tamil Nadu) and later remained a short time in Chennai and Coyambon.. They have been residents of Ozone Urbana for eight months. None of them had valid documents including passports.
-
-Assistant Police Commissioner (NMC) HK. Special team headed by Mahananda raided their apartment on September 25. The suspect is required for the suspect in the drug trafficking, and the suspect is accused of murders and other crimes.
-
-The details of the matter remain unclear, but officials believe that all three came to India to refrain from her mother country.
-
-...
-
-[Data](articles/c9e7e25c.json)
-
-[Extended Data](ext_articles/c9e7e25c.ext.json)
-
----
-
 ### Another stock of drugs seized in raid in Mattakkuliya
 
 *2025-09-30 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113056/another-stock-of-drugs-seized-in-raid-in-mattakkuliya) · `en`
@@ -984,30 +432,6 @@ Investigations have revealed that the suspect is an associate of an organized cr
 [Data](articles/b1266509.json)
 
 [Extended Data](ext_articles/b1266509.ext.json)
-
----
-
-### The prospect of continuing partnership with Sri Lanka is to continue
-
-*2025-09-30 07:28:25* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-සමඟ-හවුල්කාරිත්වය-තවදුරටත්-වර්ධනය-කර-ගැනීම-අපේක්ෂාවයි/11-418799) · `si`
-
-• Japanese Prime Minister Shaduru Isigu Ishaba
-
-• Speaking with Japan to be devoted to development and stability - President Anura Kumara Dissanayake
-
-The official ceremony of the Government Anura Kumara Dissanayake, who is on an invitation of the Government of Japan, was held at the Prime Minister's Office premises yesterday (29).
-
-The President was admitted to the Japanese Prime Minister's Office, the Japanese Prime Minister Shageeru Ishiba (Self-Security Force) for the President.. The President was also observed.
-
-After the delegation of the two countries, President Anura Kumara Dissanayake and Japanese Prime Minister Shigeryhiba (SHIGERU ISHIBA) commenced official discussions.
-
-The two countries focused on further expansion of cooperation of trade between trade, investment, economic, development aid and regional security between Japan and Sri Lanka.
-
-...
-
-[Data](articles/11d79a16.json)
-
-[Extended Data](ext_articles/11d79a16.ext.json)
 
 ---
 
@@ -1735,24 +1159,6 @@ Traditionally, Budgets are viewed as accounting exercises, designed to raise rev
 
 ---
 
-### Budget 2026: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/96e151f6.json)
-
-[Extended Data](ext_articles/96e151f6.ext.json)
-
----
-
 ### 3 lorries were seized with drugs in Tangalle; Continued explanation for the suspects
 
 *2025-09-29 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226443) · `ta`
@@ -1936,5 +1342,649 @@ He further stated that the present government is the main objective of the prese
 [Data](articles/459ce726.json)
 
 [Extended Data](ext_articles/459ce726.ext.json)
+
+---
+
+### Nandana reply from the bribe
+
+*2025-09-29 21:50:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අලලස-රගගන-නනදනට-පළතරක/101-680441) · `si`
+
+The Director General of Bribery Commission, the Director General of Bribery Commission, the Director General of Bribery Commission, he said he had never been involved in any program of the JVP.
+
+He said that Mr. Nandana Gunatilleke's statement is lacking.
+
+He said that there is any attempt to sabotage the investigations of bribery or corruption.. The Director General expects the Commission to address the matter.
+
+◼️
+
+[Data](articles/15b0d866.json)
+
+[Extended Data](ext_articles/15b0d866.ext.json)
+
+---
+
+### Nandana reply from the bribe
+
+*2025-09-29 21:50:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලස-රගගන-නනදනට-පළතරක/1-680441) · `si`
+
+The Director General of Bribery Commission, the Director General of Bribery Commission, the Director General of Bribery Commission, he said he had never been involved in any program of the JVP.
+
+He said that Mr. Nandana Gunatilleke's statement is lacking.
+
+He said that there is any attempt to sabotage the investigations of bribery or corruption.. The Director General expects the Commission to address the matter.
+
+◼️
+
+[Data](articles/d0d1888b.json)
+
+[Extended Data](ext_articles/d0d1888b.ext.json)
+
+---
+
+### Senthil Thondaman is the guardian of the World Tamil Cultural Movement?
+
+*2025-09-29 21:47:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகத்-தமிழ்ப்-பண்பாட்டு-இயக்கத்தின்-காப்பாளராக-செந்தில்-தொண்டமான்/175-365499) · `ta`
+
+CWC leader Senthil Thondaman has been invited by the World Tamil Cultural Movement to take over as the guardian of the World Tamil Cultural Movement.
+
+In a letter sent to Senthil Thondaman by the World Tamil Cultural Movement,
+
+“In Jaffna, which is the capital of Tamil Cultural. In 1974, the World Tamil Cultural Movement (UP) was created by the documentary Kurumbasiti Kanagaratnam, aimed at integrating Tamils ​​worldwide and working for the development of Tamil language and the development of Tamil language.
+
+With branches in more than ten countries, the Tamil Nadu Tamil Nadu has been carrying out the development of Tamil Tamil development for the past 50 years.
+
+In general, in the development of Tamil language, the Tamil ethnic development and the development of Tamil workers, they are constantly praised and admirable.
+
+...
+
+[Data](articles/641f8402.json)
+
+[Extended Data](ext_articles/641f8402.ext.json)
+
+---
+
+### President to visit Japanese investors
+
+*2025-09-29 21:47:03* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපතගන-ජපන-ආයජකයනට-ඇරයමක/1-680440) · `si`
+
+President Anura Kumara Dissanayake is on a Japanese Foreign Organization at the Jetro, headquarters in Jetro, headquarters.
+
+The discussion was held by the Japanese foreign trade organization (JSLBCC) and the President of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President of the ITOCC.
+
+President Anura Kumara Dissanayake, pointed out on new investment opportunities in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
+
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/2234a31f.json)
+
+[Extended Data](ext_articles/2234a31f.ext.json)
+
+---
+
+### President to visit Japanese investors
+
+*2025-09-29 21:47:03* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපතගන-ජපන-ආයජකයනට-ඇරයමක/101-680440) · `si`
+
+President Anura Kumara Dissanayake is on a Japanese Foreign Organization at the Jetro, headquarters in Jetro, headquarters.
+
+The discussion was held by the Japanese foreign trade organization (JSLBCC) and the President of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President of the ITOCC.
+
+President Anura Kumara Dissanayake, pointed out on new investment opportunities in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
+
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/825acc3a.json)
+
+[Extended Data](ext_articles/825acc3a.ext.json)
+
+---
+
+### IMF - Government Reform Progresses Progress
+
+*2025-09-29 21:44:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අය-එම-එෆ-රජය-පරතසසකරණ-පරගතය-අගයය/1-680439) · `si`
+
+The International Monetary Fund (IMF) is headed by Evan Papgergio at Temple Trees.
+
+The progress of the government's reform program was evaluated, especially the actions taken to strengthen and reduce corruption.
+
+He also paid attention to the steps taken in relation to the importance of tax policy reforms, tax exemptions (TAX Exemptions).
+
+Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
+
+Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
+
+◼️
+
+[Data](articles/3a2cd0fb.json)
+
+[Extended Data](ext_articles/3a2cd0fb.ext.json)
+
+---
+
+### IMF - Government Reform Progresses Progress
+
+*2025-09-29 21:44:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අය-එම-එෆ-රජය-පරතසසකරණ-පරගතය-අගයය/101-680439) · `si`
+
+The International Monetary Fund (IMF) is headed by Evan Papgergio at Temple Trees.
+
+The progress of the government's reform program was evaluated, especially the actions taken to strengthen and reduce corruption.
+
+He also paid attention to the steps taken in relation to the importance of tax policy reforms, tax exemptions (TAX Exemptions).
+
+Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
+
+Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
+
+◼️
+
+[Data](articles/b236be85.json)
+
+[Extended Data](ext_articles/b236be85.ext.json)
+
+---
+
+### Anura met Japanese leaders
+
+*2025-09-29 21:43:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தலைவர்களை-சந்தித்தார்-அநுர/175-365498) · `ta`
+
+The official reception for President Anura Kumara Dissanayake, who was on an official visit to Japan at the invitation of the Japanese government, was held this morning at the Japanese Prime Minister's Office.
+
+Japanese Prime Minister welcomed President Anura, who came to the Prime Minister's Office.
+
+Following the introduction of the two countries' representatives, there have been official talks between President Anura Kumara Dissanayake and Japanese Prime Minister Shikheru Ishiba.. Remble
+
+◼️
+
+[Data](articles/f2643640.json)
+
+[Extended Data](ext_articles/f2643640.ext.json)
+
+---
+
+### 12th month of Anura
+
+*2025-09-29 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226442) · `ta`
+
+President Anura Kumara Dissanayake's regime has completed its first year. This first year is a period of time, such as government efforts, caution, and strategies for normal economic issues.
+
+In this way, it would be appropriate to focus on the economic and economic reach of the President when the President was looking at the first regime of Anuragumara.
+
+This is because the government has been expressed since the first day of the rule of the government, rather than political and economic issues.
+
+Focusing on some vegetables, fruits and groceries, with inflation, GDP growth, tourism, exports, labor money laundering and stockpile.
+
+In that case, first, when looking at inflation, inflation is a common sense of family.  Thus, the 2024 crisis was 2.4 percent in July. When compared to that time, food prices have increased by 0.8 percent. Prices of non -food products have risen by 0.4 percent.
+
+...
+
+[Data](articles/0acf1732.json)
+
+[Extended Data](ext_articles/0acf1732.ext.json)
+
+---
+
+### Prime Minister meets IMF Mission Chief for Sri Lanka
+
+*2025-09-29 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113048/prime-minister-meets-imf-mission-chief-for-sri-lanka) · `en`
+
+The Mission Chief for Sri Lanka of the International Monetary Fund (IMF), Evan Papageorgiou, met with Prime Minister Dr. Harini Amarasuriya at Temple Trees on September 29.
+
+During the meeting, Papageorgiou commended the government’s commitment to the ongoing reform programme, noting in particular the measures to strengthen governance and reduce corruption, the Prime Minister’s Media Division stated.
+
+He has also recognized the importance of tax policy reforms, especially with regard to exemptions and welcomed the allocation of resources in the 2026 national budget for the social protection system.
+
+The Prime Minister stressed that economic progress must align with the needs of the people and emphasized the government’s priority of attracting quality investments. Dr. Amarasuriya also highlighted that while strengthening social protection is vital, empowering economically vulnerable groups is essential to ensure long-term sustainability.
+
+...
+
+[Data](articles/47de2b3e.json)
+
+[Extended Data](ext_articles/47de2b3e.ext.json)
+
+---
+
+### Bus to hospital at Kandy road
+
+*2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/101-680438) · `si`
+
+A private bus traveling along the Randenigala Kandy road was admitted to the Kancatiya Rural Hospital due to a crash in Keerthi Bandarapura areas.
+
+The accident had occurred due to a technical fault with a technical fault while transporting the employees of a garment workers.
+
+◼️
+
+[Data](articles/3724061c.json)
+
+[Extended Data](ext_articles/3724061c.ext.json)
+
+---
+
+### Bus to hospital at Kandy road
+
+*2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/1-680438) · `si`
+
+රන්දෙනිගල මහනුවර මාර්ගයේ ගමන් කරමින් තිබූ පෞද්ගලික බස් රථයක් කීර්ති බණ්ඩාරපුර ප්‍රදේශයේදී අනතුරකට පත්වීම හේතුවෙන් එහි ගමන් කරමින් සිටි මඟින් 12 දෙනකු කැන්කැටිය ග්‍රාමීය රෝහලට ඇතුළත් කොට ඇති බව වලපනේ පොලීසිය කියයි.
+
+The accident had occurred due to a technical fault with a technical fault while transporting the employees of a garment workers.
+
+◼️
+
+[Data](articles/432852b2.json)
+
+[Extended Data](ext_articles/432852b2.ext.json)
+
+---
+
+### Head of IMF Meeting Prime Minister
+
+*2025-09-29 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215152) · `si`
+
+Evan Papagetorg, Head of the International Monetary Fund, met Prime Minister Dr. Welini Amarasuriya at Temple Trees today (29).
+
+The progress of the government's reform program was evaluated, especially the actions taken to strengthen and reduce corruption.
+
+He also paid attention to the steps taken by the importance of tax policy reforms, tax exemptions (TAX EXEEMPTIONS).
+
+Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
+
+Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
+
+The Prime Minister emphasized that economic progress should be in accordance with the needs of the people and that the attractiveness of quality investment is a priority.
+
+The Prime Minister pointed out that the strengthening of social security is essential and that increasing groups are needed to ensure long-term sustainability.
+
+...
+
+[Data](articles/eaf23632.json)
+
+[Extended Data](ext_articles/eaf23632.ext.json)
+
+---
+
+### 12 people injured in bus accident
+
+*2025-09-29 21:21:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-விபத்தில்-12-பேர்-படுகாயம்/175-365497) · `ta`
+
+A bus crashed into the Keertipandarapura area of ​​Badulla - Kandy main road.
+
+Police said 12 people were injured in the accident that carried out a garment industry employees.
+
+◼️
+
+[Data](articles/a7b94371.json)
+
+[Extended Data](ext_articles/a7b94371.ext.json)
+
+---
+
+### President discusses investment opportunities with Japanese business leaders
+
+*2025-09-29 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113046/president-discusses-investment-opportunities-with-japanese-business-leaders) · `en`
+
+President Anura Kumara Dissanayake participated in a roundtable discussion with leading Japanese business leaders today (29) at the headquarters of the Japan External Trade Organization (JETRO).
+
+The discussion was held with the participation of Ishiguro Norihiko, the Chairman and CEO of JETRO, and Fumihiko Kabayashi, the Chairman of the Japan–Sri Lanka Business Cooperation Committee (JSLBCC) and Chairman of ITOCHU Corporation.
+
+During the session, the President had outlined the new investment opportunities available in Sri Lanka and highlighted the measures taken by the government to create an investment-friendly environment while eliminating fraud and corruption.
+
+President Dissanayake has also emphasized the importance of strengthening trade cooperation between Sri Lanka and Japan, one of Sri Lanka’s key economic partners underscoring the mutual benefits that such collaboration would bring to both nations, according to the President’s Media Division.
+
+◼️
+
+[Data](articles/4d38f78d.json)
+
+[Extended Data](ext_articles/4d38f78d.ext.json)
+
+---
+
+### Harini - talks with robot
+
+*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරන-රබ-එකක-කත-කරය/101-680437) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the essential steps to achieve Sri Lanka to achieve Sri Lanka towards a digital era.
+
+The Prime Minister said that more than the new education reforms has been allocated.
+
+The Prime Minister was speaking at the Monarchy Imperial Hotel, Kottaramaya, Battaramaya, the 'National Ai Expo 2025' seminar and the exhibition in Sri Lanka.
+
+The seminar will be held together in collaboration with the Digital Economic Ministry and the Exhibition on September 29 and 30th September 29 and 30.
+
+The National Exhibition is a leading destiny for artificial intelligence, creating artificial intelligence, researnings of artificance, businessmen and companies to introduce the use of artificial, businessmen and companies.
+
+◼️
+
+[Data](articles/7290ee17.json)
+
+[Extended Data](ext_articles/7290ee17.ext.json)
+
+---
+
+### Harini - talks with robot
+
+*2025-09-29 21:12:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරන-රබ-එකක-කත-කරය/1-680437) · `si`
+
+Prime Minister Dr. Harini Amarasuriya said that the essential steps to achieve Sri Lanka to achieve Sri Lanka towards a digital era.
+
+The Prime Minister said that more than the new education reforms has been allocated.
+
+The Prime Minister was speaking at the Monarchy Imperial Hotel, Kottaramaya, Battaramaya, the 'National Ai Expo 2025' seminar and the exhibition in Sri Lanka.
+
+The seminar will be held together in collaboration with the Digital Economic Ministry and the Exhibition on September 29 and 30th September 29 and 30.
+
+The National Exhibition is a leading destiny for artificial intelligence, creating artificial intelligence, researnings of artificance, businessmen and companies to introduce the use of artificial, businessmen and companies.
+
+◼️
+
+[Data](articles/e7269f32.json)
+
+[Extended Data](ext_articles/e7269f32.ext.json)
+
+---
+
+### '' Mani's column. Not out-36! '' Leave the work
+
+*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/1-680436) · `si`
+
+Senior journalist lovely humility mal's "Mani's column. Noot Out 36! "The work was held today (UK) at the BMICH on the Bandaranaike Conference Hall.
+
+The former Chairman of the Customs Officers' Association of Customs Officers of the Massi's column, a reader of Mawi's column, was presented to the former Chairman of the Association of Customs Officers.
+
+A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Atthanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Thilanga Sumathipala and Tissa Attanayake were present at the occasion.
+
+◼️
+
+[Data](articles/2a6fa0e8.json)
+
+[Extended Data](ext_articles/2a6fa0e8.ext.json)
+
+---
+
+### '' Mani's column. Not out-36! '' Leave the work
+
+*2025-09-29 21:07:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/101-680436) · `si`
+
+Senior journalist lovely humility mal's "Mani's column. Noot Out 36! "The work was held today (UK) at the BMICH on the Bandaranaike Conference Hall.
+
+The former Chairman of the Customs Officers' Association of Customs Officers of the Massi's column, a reader of Mawi's column, was presented to the former Chairman of the Association of Customs Officers.
+
+A large number of newspaper authors, Tissa Sumathipala, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Atthanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Tissa Attanayake, Thilanga Sumathipala and Tissa Attanayake were present at the occasion.
+
+◼️
+
+[Data](articles/b79d48ea.json)
+
+[Extended Data](ext_articles/b79d48ea.ext.json)
+
+---
+
+### 12 injured in bus accident in Randenigala
+
+*2025-09-29 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113045/12-injured-in-bus-accident-in-randenigala) · `en`
+
+At least 12 individuals have sustained injuries in an accident reported along the Kandy-Badulla main road in Randenigala this evening (29), police stated.
+
+A private bus belonging to an apparel factory met with an accident between the 36th and 37th mileposts in Randenigala.
+
+The accident occurred due to a sudden mechanical failure of the bus, according to police.
+
+Twelve passengers on the bus sustained injuries and have been admitted to the Kandeketiya District Hospital for treatment.
+
+◼️
+
+[Data](articles/107868b4.json)
+
+[Extended Data](ext_articles/107868b4.ext.json)
+
+---
+
+### Randenigala bus accident to hospital
+
+*2025-09-29 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215151) · `si`
+
+A private bus belonging to a garment factory has been crashed between the 36th and 37th post of Randenigala.
+
+The accident had occurred with the sudden technical fault on the bus today (29).
+
+The bus was hit by a route route and 12 people in the bus was injured and rushed to the Kandaketiya hospital.
+
+◼️
+
+[Data](articles/0ea1d5e9.json)
+
+[Extended Data](ext_articles/0ea1d5e9.ext.json)
+
+---
+
+### Discussion between President and Japan Defense Minister
+
+*2025-09-29 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226441) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said that Japanese Defense Minister TM at the Imperial Hotel in Tokyo on Monday (29). He met DM Nakatani and engaged in discussion.
+
+It was rapidly investigated on further strengthening the current cooperation between Sri Lanka and Japan on long -term friendship, regional security and security matters between the two countries.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and the Sri Lankan delegation were present at the meeting.
+
+◼️
+
+[Data](articles/6512e908.json)
+
+[Extended Data](ext_articles/6512e908.ext.json)
+
+---
+
+### UK plans tougher rules for migrants seeking to stay in country
+
+*2025-09-29 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113044/uk-plans-tougher-rules-for-migrants-seeking-to-stay-in-country) · `en`
+
+Britain’s interior minister on Monday (Sep 29) proposed tough new rules for migrants seeking to settle in the United Kingdom, as the ruling Labour Party bolstered its fight against the hard right at its annual conference.
+
+Migrants looking to remain indefinitely will have to have a job, not claim benefits, and undertake volunteer community work under plans designed to claw back support among voters drawn to the anti-immigrant Reform UK party, whose popularity is soaring.
+
+Confronting Reform, led by firebrand Nigel Farage, is the main theme of Labour’s four-day gathering in Liverpool, northwest England.
+
+Currently, migrants with family in Britain and who have lived there for five years qualify for “indefinite leave to remain” - permanent residence - as do those who have lived legally in the UK for 10 years on any type of visa.
+
+Eligible applicants meeting those thresholds also earn the right to live, work and study in the UK and to apply for benefits and British citizenship.
+
+...
+
+[Data](articles/5568459d.json)
+
+[Extended Data](ext_articles/5568459d.ext.json)
+
+---
+
+### Bilateral talks between President and Japan Finance Minister
+
+*2025-09-29 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226440) · `ta`
+
+The bilateral talks were held at the Imperial Hotel in Tokyo on Monday afternoon between President Anura Kumara Dissanayake and Japanese Finance Minister Kato Kasunobu (29) at the invitation of the Japanese government.
+
+The focus was on the implementation and implementation of the new projects that are currently being implemented and implemented under the Japanese Assistance/JICA cooperation on trade, investment and economic cooperation between the two countries.
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, President's Senior Advisor to Digital Economy Dr. Hans Vijayasuriya, President's Senior Economic Advisor Duminda Hulangamuwa, Sri Lanka Ambassador to Japan
+
+◼️
+
+[Data](articles/2a4b2f6a.json)
+
+[Extended Data](ext_articles/2a4b2f6a.ext.json)
+
+---
+
+### I will be dedicated to Japan to create development and stability - President
+
+*2025-09-29 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226439) · `ta`
+
+The official event to welcome President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, was held on Monday (29) at the Japanese Prime Minister's Office.
+
+Japanese Prime Minister Shigeru Ishiba was welcomed by Japanese Prime Minister's Prime Minister's Office. Subsequently, President Anura Kumara Dissanayake accepted the honor of the Japanese self -defense force and joined the march.
+
+The official meeting between President Anura Kumara Dissanayake and Japanese Prime Minister Shikheru Ishiba began following the introduction of the bilateral representatives.
+
+Following the long -standing close friendship between Japan and Sri Lanka, the focus was on the continued dissemination of various sectors, including business, investment, economic, development assistance and zonal security between the two countries.
+
+...
+
+[Data](articles/ed6e125a.json)
+
+[Extended Data](ext_articles/ed6e125a.ext.json)
+
+---
+
+### President discusses leading businessmen in Japan
+
+*2025-09-29 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215150) · `si`
+
+President Anura Kumara Dissanayake is on an official visit to the Japanese government in the Japanese Foreign Trade Organization (29) at the Japan's leading businessmen.
+
+The discussion was held at the Japanese Sri Lanka Business Co-operation Committee (JSLBC), Chairman of the Japanese Foreign Trade and CEO of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President Fumiko Kabayashi.
+
+President Anura Kumara Dissanayake, pointed out in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
+
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/8a2f0fb4.json)
+
+[Extended Data](ext_articles/8a2f0fb4.ext.json)
+
+---
+
+### Action Resolution of the University Teachers Union Federation
+
+*2025-09-29 20:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஆசிரியர்-சங்க-கூட்டமைப்பின்-அதிரடி-தீர்மானம்/175-365496) · `ta`
+
+The Secretary of the Association, Senior Lecturer Sarutta Ilangasinghe said that the Federation of University Teachers' Associations has decided to engage in the Identity Task Force.
+
+He said the government had failed to take steps to address the shortcomings in the university structure and that he would engage in the Identification Task Force tomorrow.
+
+However, he said that the crises in state universities have not yet been resolved, and that the state education is now falling and facing a severe crisis.
+
+Senior Lecturer, Senior Lecturer, Senior Lecturer, Senior Lecturer, said that about 200 professors had left the University of Peradeniya last year alone. Remble
+
+◼️
+
+[Data](articles/bd1f1c59.json)
+
+[Extended Data](ext_articles/bd1f1c59.ext.json)
+
+---
+
+### President - Japanese Finance Minister
+
+*2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/101-680435) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
+
+The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
+
+Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
+
+◼️
+
+[Data](articles/9e602189.json)
+
+[Extended Data](ext_articles/9e602189.ext.json)
+
+---
+
+### President - Japanese Finance Minister
+
+*2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/1-680435) · `si`
+
+President Anura Kumara Dissanayake and Japanese Finance Minister Kazyou Kazinobu (Kato Katsunobu) on an invitation of the Government of Japan was held at the Imperial Hotel in Tokyo.
+
+The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
+
+Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
+
+◼️
+
+[Data](articles/a4fd73ab.json)
+
+[Extended Data](ext_articles/a4fd73ab.ext.json)
+
+---
+
+### 32 criminals in the country know where
+
+*2025-09-29 19:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රට-ඉන්න-අපරාධකරුවන්-32ක්-සැඟව-සිටින-තැන්-දන්නවා/11-418796) · `si`
+
+General Defense Minister Ananda Wijepala said that the international red warrants had already been identified as a 72 criminal criminals carrying out in the country and have been identified among criminals.
+
+The Minister was speaking at the meeting, the media was visiting Kandy and visiting the general public to the Mahawatwatu Asgiriya Textians.
+
+The Minister emphasized that there are about 30,000 officers and the STF personnel and the STF personnel will be established in December.
+
+He said that the government intervened to eliminate the drug infant and expected to start a national movement to eliminate drugs in the country within the next 2-3 weeks. The Minister stressed that the priestly from the priesthood will participate.
+
+The Minister requested the public to give all information to the police without fear of the police, including drug racues and crimes.
+
+◼️
+
+[Data](articles/bbbd47a1.json)
+
+[Extended Data](ext_articles/bbbd47a1.ext.json)
+
+---
+
+### Defence Ministry to get tough on the use of ‘Hakka Patas’ or ‘Cheena Patas’
+
+*2025-09-29 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113043/defence-ministry-to-get-tough-on-the-use-of-hakka-patas-or-cheena-patas) · `en`
+
+The Ministry of Defence has advised the general public to refrain from using illegal explosives and to assist by reporting any incidents of manufacturing, possessing, or selling the already prohibited “Hakka Patas” or “Cheena Patas” used to produce them, to the nearest police station or wildlife authorities.
+
+The Defence Ministry said it has been reported that an illegal explosive called “Cheena Patas” is being produced in some parts of the island using raw materials and other chemicals issued for the firecracker and fireworks industry.
+
+Information has also been received that another illegal explosive called “Hakka Patas” is being manufactured using “Cheena Patas” and the raw materials used for firecracker and fireworks production, the Ministry added.
+
+These illegal explosives are reportedly used widely to deter wild animals from harming farmlands. However, reports indicate that these explosives have caused severe injuries and deaths to both people and wild animals in the recent past.
+
+...
+
+[Data](articles/1fceb58b.json)
+
+[Extended Data](ext_articles/1fceb58b.ext.json)
+
+---
+
+### Massive protest in Mannar
+
+*2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
+
+Today is the 58 protests that the people started to stop the construction of the proposals to be stopped at the Mannar Island.
+
+The people of the Mannar Island is to stop the construction of the LTTE and the excavation of mineral sand of the island for nearly two months.
+
+They say they have to face many environmental problems due to these construction and excavations.
+
+අඛණ්ඩ විරෝධතාවට දින 58ක් පිරෙන අද එම ජනතාව සහ වෙළෙඳ ප්‍රජාව ප්‍රදේශයේ වෙළෙඳසැල් සියල්ල වසා දමා හර්තාල් ව්‍යාපාරයක් ආරම්භ කර තිබුණි.
+
+All public transport services were also stationed today and a massive protest was commenced with the Mannar Public Playground.
+
+Our correspondents said that the people were taken to Mannar today.
+
+The protesters went to the Mannar District Secretariat and protest against the Mannar District Secretariat.
+
+Police officers were summoned to control the protesters and continued to continue in the protest due to the protests, regardless of the police orders.
+
+...
+
+[Data](articles/0d41da76.json)
+
+[Extended Data](ext_articles/0d41da76.ext.json)
 
 ---

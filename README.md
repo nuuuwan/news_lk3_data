@@ -1,163 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 18:45:52**
+As of **2025-09-30 18:22:17**
 
 ## Newspaper Stats
 
-*Scraped **79,945** Articles*
+*Scraped **79,934** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 513
 lankadeepalk | 518
-dbsjeyarajcom | 636
+dbsjeyarajcom | 635
 bbccomsinhala | 712
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
-economynextcom | 4,756
+economynextcom | 4,752
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,694
 adaderanalk | 10,309
-tamilmirrorlk | 11,950
+tamilmirrorlk | 11,949
 virakesarilk | 13,048
-adaderanasinhalalk | 13,821
+adaderanasinhalalk | 13,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,923 (100.0%) of 79,945 articles have been extended.
+79,923 (100.0%) of 79,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### ජනපති සහ ජයිකා සභාපතිවරයා අතර සාකච්ඡාවක්
-
-*2025-09-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215190) · `si`
-
-ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) පෙරවරුවේ ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපන් ජාත්‍යන්තර සහයෝගිතා ඒජන්සියේ (JICA) සභාපති  ටනාකා අකිහිකෝ  මහතා හමුවී සාකච්ඡාවක නිරත විය.
-
-ජාතික සංවර්ධනයට සැලකිය යුතු දායකත්වයක් ලබා දෙන ජයිකා හරහා සහනදායී යෙන් ණය නැවත  ලබා දීම ආරම්භ කරමින්  ජපානය ශ්‍රී ලංකාවට ලබා දෙන අඛණ්ඩ සහාය පිළිබඳව ජනාධිපතිවරයා මෙහිදී  සිය කෘතඥතාව පළ කළේය.
-
-ශ්‍රී ලංකාවේ තිරසාර ආර්ථික ප්‍රගතියේ ප්‍රධාන සාධක ලෙස පෞද්ගලික අංශය, කාර්මික සහ කෘෂි කර්මාන්තය යන ක්ෂේත්‍ර සංවර්ධනයේ වැදගත්කම ජයිකා සභාපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
-
-කටුනායක, බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ ව්‍යාපෘතිය කඩිනමින් නැවත ආරම්භ කිරීමට කටයුතු කරන බවත්, ශ්‍රී ලංකාවේ සාර්ව ආර්ථික කළමණාකරණය නිරීක්ෂණය කරමින් ශ්‍රී ලංකාව සමඟ පවතින දිගු කාලීන සහයෝගීතාව තවදුරටත් පවත්වා ගෙන යාමට බලාපොරොත්තු වන බවත් ඔහු මෙහිදී ප්‍රකාශ කළේය.
-
-බස්නාහිර පළාතේ අපද්‍රව්‍ය කළමණාකරණ සැලැස්ම ක්‍රියාත්මක කිරීම පිළිබඳවද මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
-
-...
-
-[Data](articles/9ec65847.json)
-
----
-
-### 2025 මාස 09කදී කොටස් වෙළෙඳපොළ 36%කින් ඉහළට
-
-*2025-09-30 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215189) · `si`
-
-කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය අද (30) දිනයේ නැවත වරක් ඉතිහාසයේ ඉහළම අගය නැවත වරක් අලුත් කරමින් ඒකක 21,778.60ක් දක්වා ඉහළ ගියේය.
-
-මේ අනුව 2025 වසරේ මුල් මාස 09 තුළ සියලු කොටස් මිල දර්ශකයට අනුව 36.59%ක වර්ධනයක් අත්පත් කර ගැනීමට කොළඹ කොටස් වෙළෙඳපොළ සමත් වී ඇත.
-
-අද දිනයේ දී S&P SL20 දර්ශකය ඒකක 7.32කින් ඉහළ ගිය අතර ගනුදෙනු අවසානයේ දී එහි අගය ඒකක 6,126.53ක් ලෙසින් සටහන් වුණි.
-
-එහිදී දේශීය මිල දී ගැනීම් රු. බිලියන 6.01ක් හා දේශීය විකිණුම් රු. බිලියන 5.65ක් ලෙසින් සටහන් වූ අතර විදේශීය මිල දී ගැනීම් රු. මිලියන 284ක් හා විදේශීය විකිණුම් රු. මිලියන 646ක් ලෙසින් සටහන් වුණි.
-
-◼️
-
-[Data](articles/82ef247b.json)
-
----
-
-### සදාචාර විරෝධී ක්‍රියාවන් ගැන ත්‍රෛනිකායික මහනායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක්
-
-*2025-09-30 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215188) · `si`
-
-සමාජ පරිහානියට හේතුවන අදූරදර්ශී නීති හඳුන්වාදීම හා සදාචාර විරෝධී සමලිංගික චර්යාවන් ප්‍රවර්ධනය කිරීමට රාජ්‍ය යාන්ත්‍රණය කටයුතු කිරීම සම්බන්ධයෙන් විරෝධය පළ කරමින් ත්‍රෛනිකායික මහානායක හිමිවරුන් විසින් ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත ලිපියක් යොමු කර තිබේ.
-
-එම ලිපිය මගින් උන්වහන්සේලා සඳහන් කර ඇත්තේ රටක සංස්කෘතිය අනන්‍යතාවන්, ඓතිහාසික උරුමය මෙන්ම චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතීන් හා අන්ධානුකරණයන් මත පදනම්ව රාජ්‍ය පාලනයෙහි උත්සාහ දරන්නේ නම් එය රාජ්‍යය අරාජික වීමට මෙන්ම සමස්ත සමාජයම බිඳ වැටීමට හේතු වන්නක්ද වන බවය.
-
-වර්තමාන රජය මගින් දණ්ඩ නීති සංග්‍රහයේ 82 වන වගන්තියට ශාරිරික දඬුවම් කිරීමේ වරද නමින් යෝජිත සංශෝධනය මෙන්ම සංචාරක සංවර්ධන අධිකාරිය මගින් සමලිංගික සේවනය පදනම් කරගත් සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට අනුග්‍රහය ලබා දීම එවන් බරපතළ සාරධර්ම අරාජිකත්වයක් හා සමාජ අර්බුද ගණනාවක් ඇති කිරීමට හේතුවන්නක් බවද උන්වහන්සේලා එම ලිපිය මගින් ජනාධිපතිවරයා වෙත දන්වා තිබේ.
-
-...
-
-[Data](articles/77ca9fa5.json)
-
----
-
-### வடக்கு, கிழக்கில் பாடசாலைகளை புனரமைக்க ஜப்பான் உதவி
-
-*2025-09-30 17:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-பாடசாலைகளை-புனரமைக்க-ஜப்பான்-உதவி/175-365541) · `ta`
-
-வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் முன்னெடுக்க ஜப்பான் உத்தரவாதமளித்துள்ளது.
-
-நிப்பொன் மன்றத்தின் ஸ்தாபக தலைவருக்கும் ஜனாதிபதிக்கும் இடையில் கலந்துரையாடலின் போதே இதற்கு ஒப்புதல் அளிக்கப்பட்டுள்ளது.
-
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் நிப்பொன் மன்றத்தின்  ஸ்தாபக தலைவர் யொஹெய் சசகாவாவை செவ்வாய்க்கிழமை (30) காலை சந்தித்து கலந்துரையாடலில் ஈடுபட்டார்.
-
-ஜப்பானுக்கும் இலங்கைக்கும் இடையிலான நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவது குறித்து விசேட கவனம் செலுத்தப்பட்டது.
-
-இலங்கையில் உள்ள அனைத்து சமூகங்களின் வாழ்வாதாரத்தை மேம்படுத்துவதற்கு யொஹெய் சசகாவா தனது தொடர்ச்சியான ஆதரவை வழங்குவதாக இதன் போது அவர் ஜனாதிபதியிடம் தெரிவித்தார். வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் அவர் முன்வைத்தார்.
-
-...
-
-[Data](articles/3440ec43.json)
-
----
-
-### Sri Lanka reaffirms commitment to UN Committee on Enforced Disappearances
-
-*2025-09-30 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaffirms-commitment-to-un-committee-on-enforced-disappearances-242298/) · `en`
-
-ECONOMYNEXT – Sri Lanka has reiterated its commitment to tackling enforced disappearances and strengthening democratic institutions during the country’s first presentation to the UN Committee on Enforced Disappearances (CED) in Geneva, the island nation’s Foreign Ministry said.
-
-Minister of Justice and National Integration Harshana Nanayakkara, led the Sri Lankan delegation to last week’s 29th Session of the CED.
-
-The Minister underscored that engaging with the Committee on Enforced Disappearances was not merely a reporting obligation, but an opportunity to strengthen national frameworks, uphold accountability and ensure that the rights and dignity of all persons are safeguarded in line with international standards.
-
-The Minister highlighted the work of the Office on Missing Persons (OMP), Office for Reparations (OR) and the Office for National Unity and Reconciliation (ONUR), stressing that these institutions remain central to ongoing efforts to address grievances and restore public trust.
-
-...
-
-[Data](articles/9c6e555f.json)
-
----
-
-### අස්වැසුම දෙවන අදියරට සුදුසුකම් ලැබූවන්ගේ දීමනාව අද බැංකුවලට
-
-*2025-09-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215187) · `si`
-
-අස්වැසුම දෙවන අදියර සඳහා සුදුසු කම් ලැබූ ප්‍රතිලාභින්ගේ ප්‍රථම අස්වැසුම් දීමනාව අද (30) එම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට කටයුතු කරන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
-
-මෙලෙස රු. 1,794,383,750.00ක මුදලක් ප්‍රතිලාභී පවුල් 217,645ක් අතරේ බෙදාහරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුම් වෙත බැර කිරීමට නියමිතය බව මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
-
-◼️
-
-[Data](articles/d65bfc55.json)
-
----
-
-### Sri Lanka 2025 growth kept at 3.9-pct, inflation slashed by ADB to 0.5-pct
-
-*2025-09-30 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-2025-growth-kept-at-3-9-pct-inflation-slashed-by-adb-to-0-5-pct-242296/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2025 growth has been kept at 3.9 percent by the Asian Development Bank, lower than trend indications while inflation has been slashed to just 0.5 percent, according to a regional outlook issued in September.
-
-“Sri Lanka’s growth forecast for 2025 is unchanged, but the 2026 projection is revised down, as the 20 percent US tariff is expected to weaken exports and dampen consumption due to potential job losses,” the ADB report said.
-
-Sri Lanka’s economy grew 4.9 percent in the second quarter of 2025, higher than projected by most agencies, as the central bank missed its inflation target of 5 percent.
-
-RELATED : Sri Lanka GDP grows 4.9-pct in second quarter 2025
-
-The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September, 3.1 percent in September.
-
-...
-
-[Data](articles/881284bc.json)
-
----
 
 ### காணாமற்போனவர்கள் பற்றிய அலுவலகத்திற்கான உறுப்பினர் பதவிக்கான விண்ணப்பம் கோரல்
 
@@ -186,24 +60,6 @@ The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September
 ◼️
 
 [Data](articles/373af0f9.json)
-
----
-
-### බස්නාහිර පළාතේ ත්‍රිරෝද රථ ලියාපදිංචියට වෙබ් අඩවියක්
-
-*2025-09-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215186) · `si`
-
-බස්නාහිර පළාතේ සියලු මගී ප්‍රවාහන ත්‍රිරෝද රථ ලියාපදිංචිය අනිවාර්ය කිරීමත් සමග ඒ සඳහා වෙබ් අඩවියක් හඳුන්වාදීමට බස්නාහිර පළාත් මාර්ගස්ත මගී ප්‍රවාහන අධිකාරිය කටයුතු කර තිබේ.
-
-ඒ අනුව https://wptaxi.net/ යන වෙබ් ලිපිනයට පිවිස ඒ සඳහා ලියාපදිංචි වීමේ පහසුකම මේ වන විට ත්‍රිරෝද රථ රියදුරන්ට හැකියාව ලැබෙනු ඇත.
-
-බස්නාහිර පළාතේ සියලු මගී ප්‍රවාහන ත්‍රිරෝද රථ ලියාපදිංචි කිරීම අනිවාර්ය කර මගී අවසර පත් නිකුත් කිරීම නැවත ආරම්භ කළ බව එම අධිකාරියේ ධාවන කළමනාකරු ජීවින්ද කීර්තිරත්න මහතා සඳහන් කළේය.
-
-සියලුම ත්‍රිරොද රථ ඉහත සඳහන් වෙබ් අඩවියට පිවිස තොරතුරු ඉදිරිපත් කළ හැකි බවත් ඒ අනුව එම මොහොතේම අදාල ත්‍රිරොද රථ මහතුන්ට මේ සඳහා වේලාවක් ලබා දෙන බවත් එම වෙලාව අනුව අදාළ ප්‍රාදේශීය ලේකම් කාර්යාලය වෙත පැමිණ ලියාපදිංචි වීමේ පහසුකම් සලසා දී ඇති බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
-
-◼️
-
-[Data](articles/d9bfaac0.json)
 
 ---
 
@@ -242,28 +98,6 @@ COLOMBO (News 1st); A cache of ten hand grenades was discovered inside a bag nea
 [Data](articles/6c09d6dd.json)
 
 [Extended Data](ext_articles/6c09d6dd.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields broadly steady
-
-*2025-09-30 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-broadly-steady-242275/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 302.55/60 to the US dollar on Tuesday, while bond yields closed slightly up on the mid tenors, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.25/30 percent, down from 8.25/35 percent.
-
-A bond maturing on 15.12.2029 closed at 9.60/62 percent, up from 9.55/60 percent.
-
-A bond maturing on 01.07.2030 closed at 9.73/77 percent, up from 9.68/72 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.45/50 percent.
-
-An auction of 43,000 million rupees Treasury bills will take place on Wednesday. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/f268511f.json)
 
 ---
 
@@ -318,26 +152,6 @@ University students staged a demonstration on Tuesday (30) in front of the Unive
 [Data](articles/054a4426.json)
 
 [Extended Data](ext_articles/054a4426.ext.json)
-
----
-
-### Sri Lanka inflation rise 2.3-pct over 36-months to August 2025, food deflates
-
-*2025-09-30 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rise-2-3-pct-over-36-months-to-august-2025-food-deflates-242288/) · `en`
-
-ECONOMYNEXT – Sri Lankas inflation rose 1.5 percent in the 12-months to August and only 2.3 percent over 36 months, since the central bank’s deflationary policy started to show in the balance of payments, official data shows.
-
-Sri Lanka’s economy grew 4.9 percent in second quarter of 2025, above growth projections by the International Monetary Fund, as the remarkably lower inflation and exchange rate stability.
-
-The central bank has missed its high 5 percent inflation target lifting the customary the burden of inflation from hardworking families allowing annual salary hikes to be real, and making investment and construction costs predictable as it was before the central bank was created.
-
-Sri Lanka’s inflation is also helped by better US monetary policy with commodity prices easing from around the second half of 2022 after the US hiked rates.
-
-Better US policy has helped global inflation. The US has started cutting rates but slowly.
-
-...
-
-[Data](articles/afd5b49a.json)
 
 ---
 
@@ -1980,5 +1794,195 @@ The tournament kicks off with a match between Sri Lanka and India, scheduled to 
 [Data](articles/096f6841.json)
 
 [Extended Data](ext_articles/096f6841.ext.json)
+
+---
+
+### Nainthika who won the Dream Star running up the beginning of the World Cup
+
+*2025-09-30 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215175) · `si`
+
+Nwhanthika Senaratne has the opportunity to sing the National Anthesis of the Women's One-Day World Cup today (30) at the Dream Star Champion Competition.
+
+The 13th unfounded units of the Women's World Cup will commence today (30) under the hostage of Sri Lanka and India.
+
+The World Cup will commence will be held on November 2.
+
+In 4 stadiums in India and the tournament will be operated at one stadium in Sri Lanka.
+
+Every team will face seven matches in the World Cup base.
+
+Sri Lanka will be played in the preliminary round of this year's tournament.
+
+Competition between Sri Lanka and India begins at India in India.
+
+◼️
+
+[Data](articles/000e3c56.json)
+
+[Extended Data](ext_articles/000e3c56.ext.json)
+
+---
+
+### Rajitha's petition declined to do not force Rohitha's MP
+
+*2025-09-30 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215174) · `si`
+
+ඉකුත් මහ මැතිවරණයේදී කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයකු ලෙස හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන මහතා තේරී පත්වීම බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය අද (30) ප්‍රතික්ෂේප කළේය.
+
+The court issued the order after the petition was taken up today.
+
+◼️
+
+[Data](articles/1d44cc32.json)
+
+[Extended Data](ext_articles/1d44cc32.ext.json)
+
+---
+
+### Court order to ban the police
+
+*2025-09-30 13:38:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලසයන-ඉලල-තහනමට-අධකරණයන-දන-නයගය/1-680494) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama did not issue any decades regarding the request made by the Cinnamon Genu Police from the University of Colombo to reach the Colombo University.
+
+He pointed out that the police and the police are in accordance with the provisions of the Police Ordinance and the Criminal Faculty of the Criminal case.
+
+The Cinnamon Estate Police stated that the protesters are due to start this afternoon today.
+
+He further stated that from Reid Mawatha near the University of the University, passengers and car accidents can also prevent a blocking of public affliction.
+
+◼️
+
+[Data](articles/975dc49f.json)
+
+[Extended Data](ext_articles/975dc49f.ext.json)
+
+---
+
+### Court order to ban the police
+
+*2025-09-30 13:38:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පලසයන-ඉලල-තහනමට-අධකරණයන-දන-නයගය/101-680494) · `si`
+
+Colombo Chief Magistrate Asanka S. Bodaragama did not issue any decades regarding the request made by the Cinnamon Genu Police from the University of Colombo to reach the Colombo University.
+
+He pointed out that the police and the police are in accordance with the provisions of the Police Ordinance and the Criminal Faculty of the Criminal case.
+
+The Cinnamon Estate Police stated that the protesters are due to start this afternoon today.
+
+He further stated that from Reid Mawatha near the University of the University, passengers and car accidents can also prevent a blocking of public affliction.
+
+◼️
+
+[Data](articles/ff999ce8.json)
+
+[Extended Data](ext_articles/ff999ce8.ext.json)
+
+---
+
+### SC dismisses FR petition seeking to invalidate Rohitha Abeygunawardena’s MP seat
+
+*2025-09-30 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113072/sc-dismisses-fr-petition-seeking-to-invalidate-rohitha-abeygunawardenas-mp-seat) · `en`
+
+The Supreme Court today (30) dismissed a Fundamental Rights petition filed by former Minister Rajitha Senaratne, which sought a ruling to invalidate the election of former Minister Rohitha Abeygunawardena as a Member of Parliament for the Kalutara District at the last General Election.
+
+The Supreme Court issued the order after considering the submissions presented by both parties, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/ca70e71e.json)
+
+[Extended Data](ext_articles/ca70e71e.ext.json)
+
+---
+
+### SSP Satish Gamage bailed
+
+*2025-09-30 13:36:28* · [`adalk`](https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරි-සතීෂ්-ගමගේට-ඇප/11-418811) · `si`
+
+Senior Superintendent of Superintendent of Cultural Division of the Police Field Force Headquarters, who was remanded over bribery charges, has been bailed.
+
+The case was bailed by the Colombo Magistrate's Court today (30).
+
+◼️
+
+[Data](articles/d654c562.json)
+
+[Extended Data](ext_articles/d654c562.ext.json)
+
+---
+
+### Three killed, another group of kills of school building in Indonesia
+
+*2025-09-30 13:34:39* · [`adalk`](https://www.ada.lk/international/ඉන්දුනීසියාවේ-පාසල්-ගොඩනැගිල්ලක්-කඩා-වැටී-තිදෙනෙක්-මරුට--තවත්-පිරිසක්-සුන්බුන්-අතර/3-418810) · `si`
+
+International media reports that 3 people have been killed in the accident caused by a school building in Indonesia.. International media reports that among the dead were a new student to the school. The students and a group of workers are trapped and the relief teams are being rescued.
+
+◼️
+
+[Data](articles/eba55d03.json)
+
+[Extended Data](ext_articles/eba55d03.ext.json)
+
+---
+
+### Chinese woman convicted in UK after ‘world’s biggest’ bitcoin seizure
+
+*2025-09-30 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113071/chinese-woman-convicted-in-uk-after-worlds-biggest-bitcoin-seizure) · `en`
+
+A Chinese national has been convicted of playing a key role in what is believed to be the single largest cryptocurrency seizure in the world, worth more than £5bn ($6.7bn).
+
+Zhimin Qian, also known as Yadi Zhang, pleaded guilty on Monday at Southwark Crown Court, London of illegally acquiring and possessing the cryptocurrency.
+
+Between 2014 and 2017, she led a large-scale scam in China by cheating more than 128,000 victims and storing the stolen funds in bitcoin assets, the Metropolitan Police said in a statement.
+
+The Met said the 47-year-old’s guilty plea followed a seven-year probe into a global money laundering web.
+
+A total of 61,000 bitcoins were seized from Qian, the Met said.
+
+The police said the probe began in 2018 after they got a tipoff about the transfer of criminal assets.
+
+Qian had been “evading justice” for five years up to her arrest, which required a complex investigation involving multiple jurisdictions, said Detective Sergeant Isabella Grotto, who led the Met’s investigation.
+
+...
+
+[Data](articles/6d0fd408.json)
+
+[Extended Data](ext_articles/6d0fd408.ext.json)
+
+---
+
+### Sri Lanka Courts U.S. Investment in Graphite Mining
+
+*2025-09-30 13:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/sri-lanka-courts-u-s-investment-in-graphite-mining) · `en`
+
+COLOMBO (News 1st); The Embassy of Sri Lanka in Washington D.C. held a preliminary virtual discussion with a Montana State business delegation to explore mutually beneficial partnerships in Sri Lanka’s graphite mining sector.
+
+The meeting was facilitated by the Montana National Guard (MTNG) under the State Partnership Program.
+
+The session featured a presentation by Professor Kusali Gamage, who highlighted Sri Lanka’s globally renowned high-purity vein graphite and its untapped potential. She noted that the sector currently relies on traditional mining methods and exports raw graphite with minimal value addition. Introducing advanced technologies and value-added processing could significantly boost profitability and global competitiveness.
+
+...
+
+[Data](articles/171470dc.json)
+
+[Extended Data](ext_articles/171470dc.ext.json)
+
+---
+
+### Trump visa curbs push US firms to consider shifting more work to India
+
+*2025-09-30 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113070/trump-visa-curbs-push-us-firms-to-consider-shifting-more-work-to-india) · `en`
+
+US President Donald Trump’s H-1B visa crackdown will hasten United States firms’ shift of critical work to India, turbocharging the growth of global capability centres that handle operations from finance to research and development, economists and industry insiders say.
+
+The world’s fifth-largest economy is home to 1,700 global capability centres, or more than half the global tally, having outgrown its tech support origins to become a hub of high-value innovation in areas from design of luxury car dashboards to drug discovery.
+
+Trends such as growing adoption of artificial intelligence (AI) and increasing curbs on visas are pushing US firms to redraw labour strategies, with global capability centres in India emerging as resilient hubs blending global skills with strong domestic leadership.
+
+...
+
+[Data](articles/b74b68e5.json)
+
+[Extended Data](ext_articles/b74b68e5.ext.json)
 
 ---

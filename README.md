@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 20:08:26**
+As of **2025-09-30 20:37:34**
 
 ## Newspaper Stats
 
-*Scraped **79,969** Articles*
+*Scraped **79,972** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 516
-lankadeepalk | 525
+newsfirstlk | 517
+lankadeepalk | 526
 dbsjeyarajcom | 636
 bbccomsinhala | 713
 colombotelegraphcom | 801
@@ -21,39 +21,99 @@ adalk | 7,696
 adaderanalk | 10,313
 tamilmirrorlk | 11,952
 virakesarilk | 13,048
-adaderanasinhalalk | 13,825
+adaderanasinhalalk | 13,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,962 (100.0%) of 79,969 articles have been extended.
+79,970 (100.0%) of 79,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### කෝටි 15කට අධික කොකේන් සමග පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට
+### 'Ran Dhoni' : Suranga Senanayake’s Debut Book Unveils a Family’s Struggle for Justice
+
+*2025-09-30 20:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ran-dhoni-suranga-senanayake%e2%80%99s-debut-book-unveils-a-family%e2%80%99s-struggle-for-justice) · `en`
+
+...
+
+[Data](articles/b8a972d6.json)
+
+[Extended Data](ext_articles/b8a972d6.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 271ක ඉලක්කයක්
+
+*2025-09-30 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215195) · `si`
+
+කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ  ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තරගය මේ වනවිට ඉන්දියාවේ ගුවහාති හිදි පැවැත්වෙයි.
+
+එම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කාන්තා කණ්ඩායම නියමිත පන්දුවාර 47 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 269ක් රැස්කළේය.
+
+තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ නායිකා චමරි අතපත්තුගේ තීරණය වුයේ පළමුව පන්දු රැකීමටය.
+
+ඒ අනුව පළමුව පන්දුවට පහරදීමට පැමිණි ඉන්දිය කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 8ක් ලබාසිටි ස්මෘති මන්දනාව දවාගන්නට ශ්‍රී ලංකා ක්‍රීඩිකාවන් සමත් වුණි.
+
+කෙසේ වෙතත් ඉන්දීය ඉනිම අතරතුර තරගයට වර්ෂාවෙන් බාධා එල්ල වීම නිසා තරගයේ එක් ඉනිමක් පන්දුවාර 47කට සීමාකෙරුණි.
+
+හාර්ලීන් ඩියෝල් ලකුණු 48කට සහ නායිකා හර්මන්ප්‍රීත් කෞර්ගේ ඉනිම ලකුණු 21කට සීමාකරන්නට ඉනෝකා රණවීර සමත් වුණි.
+
+ඉන්දීය බනිම වෙනුවෙන් සුපිරි පිතිහරඹයක නිරතවූ අමන්ජොත් කෞර් ලකුණු 57ක් රැස්කළ අතර දීප්ති ෂර්මා නොදැවී ලකුණු 53 රැස්කිරීමට සමත්විය.
+
+ඒ අනුව තරගය ජයගැනීම සඳහා ඩක්වත් ලුවිස් න්‍යායට අනුව ශ්‍රී ලංකා කාන්තා කණ්ඩායමට හිමිවී ඇති ඉලක්කය 271කි.
+
+◼️
+
+[Data](articles/fd7daa58.json)
+
+---
+
+### කිරි නිෂ්පාදනය වැඩි කරන්න  ජපන්- ලංකා ගිවිසුමක්
+
+*2025-09-30 19:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කර-නෂපදනය-වඩ-කරනන-ජපන-ලක-ගවසමක/101-680521) · `si`
+
+ජපාන  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපන් ජාත්‍යන්තර සහයෝගීතා ඒජන්සියේ (JICA) සභාපති  ටනාකා අකිහිකෝ (Dr. TANAKA Akihiko)  මහතා හමුවී සාකච්ඡාවක නිරත විය.
+
+ජාතික සංවර්ධනයට සැලකිය යුතු දායකත්වයක් ලබා දෙන ජයිකා (JICA)  හරහා සහනදායී යෙන් ණය නැවත  ලබා දීම   ආරම්භ කරමින්  ජපානය ශ්‍රී ලංකාවට ලබා දෙන අඛණ්ඩ සහාය පිළිබඳව ජනාධිපතිවරයා මෙහිදී  සිය කෘතඥතාව පළ කළේය.
+
+ශ්‍රී ලංකාවේ තිරසාර ආර්ථික ප්‍රගතියේ ප්‍රධාන සාධක ලෙස පෞද්ගලික අංශය, කාර්මික සහ කෘෂි කර්මාන්තය යන ක්ෂේත්‍ර සංවර්ධනයේ වැදගත්කම  ජයිකා සභාපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+
+කටුනායක, බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ (BIA) ව්‍යාපෘතිය කඩිනමින් නැවත ආරම්භ කිරීමට කටයුතු කරන බවත්, ශ්‍රී ලංකාවේ සාර්ව ආර්ථික කළමණාකරණය නිරීක්ෂණය කරමින් ශ්‍රී ලංකාව සමඟ පවතින දිගු කාලීන සහයෝගීතාව තව දුරටත් පවත්වා ගෙන යාමට බලාපොරොත්තු වන බවත්  ඔහු ප්‍රකාශ කළේය.
+
+බස්නාහිර පළාතේ අපද්‍රව්‍ය කළමණාකරණ සැලැස්ම ක්‍රියාත්මක කිරීම පිළිබඳවද මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
+
+...
+
+[Data](articles/4eb0a7c5.json)
+
+---
+
+### Two arrested with over 15 million cocaine
 
 *2025-09-30 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215194) · `si`
 
-කොකේන් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 3ක් සමග පුද්ගලයන් දෙදෙනෙකු වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරක ඒකකය මගින් අද පස්වරුවේ අත්අඩංගුවට ගෙන තිබේ.
+Two persons have been arrested by the Walana Central Anti-Corruption Board Unit this afternoon with three kilograms of cocaine.
 
-වලාන දූෂණ මර්දන ඒකකයේ අධ්‍යක්ෂ පොලිස් අධිකාරී උදය කුමාර මහතා සහ එහි ස්ථානාධිපති ඉන්දික වීරසිංහ මහතාගේ උපදෙස් පරිදි එම සැකකරු පානදුර හිරන ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+The suspect has been arrested in the Panadura area on the instructions of the Walana Corruption Contruption Unit and its OIC Indika Indika Indika Weerasinghe.
 
-ඉන් කිලෝග්‍රෑම් 2ක් නිවසක තිබී සොයාගෙන ඇති අතර අනෙක් කිලෝව සොයාගෙන ඇත්තේ සුඛෝපභෝගී මෝටර් රථයක ප්‍රවාහනය කරමින් සිටියදීයි.
+Two of them were found in a house and the other was found in a luxury car.
 
-අදාළ මත්ද්‍රව්‍ය තොගයේ වටිනාකම රුපියල් කෝටි 15කට අධික බව පොලීසිය පැවසීය.
+The total amount of drugs was worth over Rs.
 
-සැකකරුවන් සතුව තිබී මේවන විට සේවයේ සිටින පොලිස් නිලධාරියෙකුගේ හැඳුනුම්පතක් ද සොයාගෙන තිබේ.
+A police officer in the ministry has also been found in the possession of the suspects.
 
 මොවුන් මෙම මත්ද්‍රව්‍ය තරුපන්තියෝ හෝටල්වල ඇති රාත්‍රී සමාජ ශාලාවෙත අලෙවි කරන බවද පොලීසිය සඳහන් කළේය.
 
-මෙම ජාවාරම ඩුබායිහී සිටන පුද්ගලයෙකු විසින් මෙහෙයවා ඇති බව පොලීසිය වැඩිදුරටත් පැවසීය.
+The racket has been led by a person who is in Dubai.
 
 ◼️
 
 [Data](articles/f81b81a7.json)
+
+[Extended Data](ext_articles/f81b81a7.ext.json)
 
 ---
 
@@ -65,6 +125,8 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/9ac54ee0.json)
 
+[Extended Data](ext_articles/9ac54ee0.ext.json)
+
 ---
 
 ### ‘We Are Bears, Not Paper Bears’: Russia’s Strong Message from Colombo
@@ -75,25 +137,29 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/403e7453.json)
 
+[Extended Data](ext_articles/403e7453.ext.json)
+
 ---
 
-### ஸ்ரீமத் ராமாயணத்தில் நடித்த குழந்தை மரணம்
+### Child Death in Srimad Ramayana
 
 *2025-09-30 19:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஸ்ரீமத்-ராமாயணத்தில்-நடித்த-குழந்தை-மரணம்/54-365544) · `ta`
 
-சோனி SAB (சன் டிவியில் தமிழில் டப்பிங் செய்யப்பட்டு ஒளிபரப்பப்பட்ட சீரியல்) இன் 'ஸ்ரீமத் ராமாயண்' தொடரில் சிறுவயது ராமராக நடித்த எட்டு வயது   நடிகர் வீர் சர்மா மற்றும் அவரது 16 வயது சகோதரர் ஷோரியா சர்மா ஆகியோர் மூச்சுத் திணறலால் உயிரிழந்ததாகக் கூறப்படுகிறது.
+Eight -year -old brother Veer Sharma and his 16 -year -old brother Shoria Sharma are said to have died of suffocation in Soni Sab (Son TV dubbed and broadcast in Tamil).
 
-குழந்தை நட்சத்திரமான வீர் ஷர்மா தனது வீட்டில் நேர்ந்த தீ விபத்தில் மூச்சுத் திணறி உயிரிழந்தார். இந்த தீ விபத்தில் வீர் ஷர்மாவின் சகோதரர் செளர்யா ஷர்மாவும் உயிரிழந்தார்.
+Child star Veer Sharma died in a fire at his home. Veer Sharma's brother Sareya Sharma also died in the fire.
 
-ராஜஸ்தான் மாநிலம் கோட்டாவில் உள்ள அடுக்குமாடி குடியிருப்பின் நான்காவது மாடியில் வீர் ஷர்மா தனது குடும்பத்துடன் வசித்து வந்தார்.
+Veer Sharma lived with his family on the fourth floor of the apartment in Kota, Rajasthan.
 
-தனியார் பயிற்சி நிறுவனத்தின் ஆசிரியரான இவரின் தந்தை, சம்பவத்தின்போது பஜனைக்காக கோவிலுக்குச் சென்றுள்ளார். இவரின் தாயார் ரீடா ஷர்மாவும் நடிகை என்பதால், மும்பையில் படப்பிடிப்பில் இருந்துள்ளார்.
+Her father, the teacher of the private training institute, went to the temple for Bhajan during the incident. Her mother, Rita Sharma, is also an actress in Mumbai.
 
-எனினும் மருத்துவமனைக்கு கொண்டு செல்லும் வழியிலேயே அவர்கள் உயிரிழந்துவிட்டதாக மருத்துவமனை நிர்வாகம் தெரிவித்துள்ளது.  R
+However, the hospital administration said they died on the way to the hospital.  R
 
 ◼️
 
 [Data](articles/311301a1.json)
+
+[Extended Data](ext_articles/311301a1.ext.json)
 
 ---
 
@@ -110,6 +176,8 @@ However, in 2015, then-DIG of the Colombo Range, Gamini Mathurata, submitted a r
 ...
 
 [Data](articles/029d846c.json)
+
+[Extended Data](ext_articles/029d846c.ext.json)
 
 ---
 
@@ -133,21 +201,23 @@ In a media briefing held at the Police Media Division this afternoon, the police
 
 ---
 
-### කෝටි 15ක කුඩු සමඟ දෙන්නෙක් මාට්ටු
+### Two two crores of powder arrested
 
 *2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-15ක-කඩ-සමඟ-දනනක-මටට/1-680511) · `si`
 
-රුපියල් කෝටි පහළොවකට අධික වටිනාකමකින් යුත් කොකේන් මත්ද්‍රව්‍ය තොගයක්, සුඛෝපභෝගී මෝටර්  රථයක් සමග සැකකරුවන් දෙදෙනකු  අත්අඩංගුවට ගැනීමට වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය සමත්ව ඇත.
+The Walana Central Anti-Corruption Unit, along with a luxury car, has passed two suspects with a luxury car.
 
-විදෙස් රටක සිට මහා පරිමාණයෙන් කොකේන් ජාවාරමේ නියුතු බව කියන බඩෝවිට රාජිත නමැති ජාවාරම් කරුගේ ගෝලයකු බව කියන බඩෝවිට පියා නමැති සැකකරු සහ බඩෝවිට ප්‍රදේශයේ පදිංචි  ඔහුගේ ගෝලයකු මෙසේ අත්අඩංගුවට ගෙන තිබේ.
+A disciple of the suspect, a large number of cocaine father, is a large-scale of cocaine from a foreign country, has been arrested.
 
-ක්‍රිකට් ක්‍රීඩකයින් භාවිතා කරනු ලබන විශාල බෑග්, ක්‍රිකට් පිති සහ ක්‍රිකට් උපකරණ මෝටර් රථයේ දමාගෙන  මහා පරිමාණයෙන් කොකේන් ජාවාරම් කරන බවට අධ්‍යක්ෂක පොලිස් අධිකාරි උදය කුමාර මහතාට ලද තොරතුරක් මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉන්දික වීරසිංහ මහතාගේ මෙහෙයවීමෙන් පානදුර , හිරණ , ගල්තුඩේ කල වැටලීමෙන් පසු  ප්‍රධාන සැකකරු කොකේන් මත්ද්‍රව්‍ය සමග  අත්අඩංගුවට ගෙන තිබේ.
+The Chief Inspector Indika Weerasinghe has been arrested by the Chief Inspector Indika and Galthadera, the OIC Chief Inspector Indika and Galthadera, which is used by cricketers and cricket equipment.
 
-ප්‍රධාන සැකකරු අත්අඩංගුවට ගැනීමෙන් අනතුරුව මඳ වේලාවකට පසු ඔහුට අයත් මෝටර් රථයකින් කොකෙක් මත්ද්‍රව්‍ය කිලෝවක් පමණ රැගෙන යමින් සිටි දෙවන සැකකරුද අත්අඩංගුවට ගත්බව පොලිසිය සඳහන් කරයි
+Police said that after the arrest of the main suspect, he was arrested in a car with a kilogram of cocock in a car belonging to him.
 
 ◼️
 
 [Data](articles/46ea7259.json)
+
+[Extended Data](ext_articles/46ea7259.ext.json)
 
 ---
 
@@ -1441,17 +1511,19 @@ He was speaking at the Ministry of Advisory Committee on Education, Higher Educa
 
 *2025-09-30 15:22:02* · [`adalk`](https://www.ada.lk/breaking_news/බෞද්ධ-දරුවන්-බහුතරයක්-බුද්ධ-ධර්මය-අසමත්/11-418820) · `si`
 
-සිංහල බෞද්ධ දරුවන් බහුතරයක් මේවන විට බුද්ධ ධර්මය විශය අසමත් බවත් දරුවන් දහම් අධ්‍යාපනයෙන් ඈත් කිරීම පිළිබඳ වැඩිහිටියන් වගකිවයුතු බවත් සංගිලිකනදරාව ශ්‍රී සුමනාරාම විහාරාධිපති පුජ්‍ය ලිඳවැව අමරජෝති හිමියන් පැවසීය.
+The majority of Sinhala Buddhist children is failing to be subject to the subject of Sinhala Buddhism and the adults of Sri Sumanarama Amaragathi Thero.
 
-සංගිලිකනදරාව ශ්‍රී සුමනාරාම විහාරාධිපති පුජ්‍ය ලිඳවැව අමරජෝති හිමියන් සංඛල්පයක් මත ලෝක ළමා දිනය වෙනුවෙන් රැඹෑව ප්‍රාදේශිය ලේකම් කොට්ඨාසයේ සංගිලිකනදරාව ශ්‍රී සුමනාරාම විහාරයේදී අද (30) දහවල් ළමා දින සැමරුම් උත්සවයක් පැවැත්වූ අතර එහිදී අදහස් දක්වමින් උන්වහන්සේ එසේ ප්‍රකාශ කළේය.
+Signillewava in the Colombo Divisional Secretariat Division was held today (30) at the Sri Sumanama Viharaya of Sri Sumanarajothy of Sri Sumanarama Viharaya.
 
-එම සැමරුම් උළලේදී එහිදී ළමයින්ටම වෙන්වූ විවිධ විනෝද ජනක ක්‍රීඩා රැසක් පැවැත්වීමට සංවිධායක මණ්ඩලය කටයුතු කර තිබුණි.
+The organizing panel was conducting a number of various fun games for children at the celebration.
 
-මේ ලෝක ළමා දින සැමරුම් උළෙල වෙනුවෙන් ඇමරිකාවේ පදිංචි ප්‍රේමසිරි කහදූව මහත්මා   වගේම දනංඡය මහත්මා උදවු කළා. ඒ තුළින් දරුවන් 100ට ආසන්න පිරිසකට අපිට මේ ලෝක ළමා දින සැමරුම් උළෙල සිදු කරන්න හැකියාව ලැබිලා තියෙනවා. වර්තමානයේ මේ දිනයත් ළමුන් වෙනුවෙන් නැතිවෙයිදෝ කියන බය අපට තිබෙනවා. ඒ නිසයි භික්ෂුන් විදිහට ඉදිරියට අවිත් අපි මේ කාර්යය කරන්නේ.
+Ambiri Kahanda Kawaduwa helped the World Children's Day celebration. It has enabled us to reach this World Children's Day celebration for nearly 100 children. We have the fear of this day and children. That is why we do this work as bhikkins.
 
 ...
 
 [Data](articles/4765f95e.json)
+
+[Extended Data](ext_articles/4765f95e.ext.json)
 
 ---
 
@@ -1914,71 +1986,5 @@ On the sidelines, President Dissanayake met with JETRO Chairman Norihiko Ishigur
 [Data](articles/13742ea2.json)
 
 [Extended Data](ext_articles/13742ea2.ext.json)
-
----
-
-### Singer Sri Lanka introduced new GJPa Huawei smart accessories and Tabletfis
-
-*2025-09-30 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226490) · `ta`
-
-Sri Lanka PLC, the country's leading electronic vendor, Sri Lanka PLC, has introduced the new GJPA Huawei smart accessories and Tablet through its retail network and comprehensive national distribution media.
-
-This new order features Gjpa Tupiraby Huawei Watch Fit 4, Huawei Band 10, Huawei Freebuds Se2 and Huawei Matepad Se11. All of this is designed to meet the needs of all, from youth to professional experts who respect the novelty and credibility.
-
-Commenting on the introduction, Singer Sri Lanka PLC Group Managing Director Mahesh Wijewardena said:
-
-Through this Huawei line, we offer not only devices but also the tools that make people wise and healthy life. Each product avoids the status quo to choose between beautiful design and advanced technology and selects customers' appearance and operation. ” Said.
-
-...
-
-[Data](articles/5b4fa4ab.json)
-
-[Extended Data](ext_articles/5b4fa4ab.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2025-09-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215179) · `si`
-
-The Sri Lanka team and the Indian team will commence between the Sri Lanka team and the Indian team in India in a short case of the women's cricket.
-
-Accordingly, the captain of the Sri Lankan team decided to the Indian team to bat first.
-
-The World Cup will be held until November 2.
-
-In 4 stadiums in India and the tournament will be operated at one stadium in Sri Lanka.
-
-Every team will face seven matches in the World Cup base.
-
-Sri Lanka will be played in the preliminary round of Sri Lanka at the RuralSascus Stadium in Colombo.
-
-◼️
-
-[Data](articles/57c8d103.json)
-
-[Extended Data](ext_articles/57c8d103.ext.json)
-
----
-
-### Ali, who was on the road to the cultivation, killed in a attack
-
-*2025-09-30 14:32:59* · [`adalk`](https://www.ada.lk/breaking_news/වගා-භූමියට-යමින්-සිටි-පුද්ගලයන්-දෙදෙනෙක්-වන-අලි-ප්‍රහාරයකින්-මරුට/11-418816) · `si`
-
-Two persons were killed and another person was killed in a motorcycle at the Mahavagen Ranmuduwewa road at the Siyyagiyewa Mahammuduwewa road in Surewewa.
-
-The body of the 49-year-old resident of the Mahasenpura and the Police Officers of the Suriyawewa address was residents of the Suriyawewa address.
-
-The police then found the victim of the elephant attack in the investigation.
-
-The deceased was a 60 year old named Wanni Arachchi Kankanam Gunapala.
-
-Sooriyawewa Police are conducting further investigations. Residents allege that the elephants have been blown to these villages everyday and have not been informed of their jungle dealers, and the elephants have not yet responded.
-
-◼️
-
-[Data](articles/d2bda012.json)
-
-[Extended Data](ext_articles/d2bda012.ext.json)
 
 ---

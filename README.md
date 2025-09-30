@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 00:36:45**
+As of **2025-10-01 00:53:27**
 
 ## Newspaper Stats
 
-*Scraped **79,992** Articles*
+*Scraped **79,995** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 518
-lankadeepalk | 528
+lankadeepalk | 531
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,992 (100.0%) of 79,992 articles have been extended.
+79,992 (100.0%) of 79,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,38 @@ The President, who has always expressed his views on the uniqueness of Buddhist 
 
 ---
 
+### ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය ජනපති හමුවෙයි
+
+*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/101-680529) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එරට නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් උදෑසන භෝජන සංග්‍රහයක් ටෝකියෝහි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි. ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය විසින් මෙම උදෑසන භෝජන සංග්‍රහය සංවිධානය කරනු ලැබ තිබිණි.
+
+දෙරටේ පාර්ලිමේන්තු වල සාමාජිකයන් අතර පවතින සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ සමීපව කටයුතු කිරීමට බලාපොරොත්තු වන බව ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගයේ සභාපති යොෂිතාකා ෂින්ඩෝ (Yoshitaka Shindo) සහ මහලේකම් යුකෝ ඔබුචි (Yuko Obuchi) යන මහත්ම මහත්මීහු මෙහිදී ප්‍රකාශ කළහ.
+
+දෙරටේ අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා දේශපාලන, ආර්ථික සහ සංස්කෘතික ක්ෂේත්‍ර ඔස්සේ සහයෝගීතාව ශක්තිමත් කිරීමට කටයුතු කරන බවද ඔවුහු වැඩිදුරටත් පැවසූහ. ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය ජපානයේ හිටපු අග්‍රාමාත්‍ය කෙයිසෝ ඔබුචි (Keizo Obuchi) මහතාගේ මූලිකත්වයෙන් 1982 වසරේ දී ස්ථාපිත කරන ලද්දකි.
+
+◼️
+
+[Data](articles/37e5e238.json)
+
+---
+
+### අපට දැන් හිරේ යනවද?උගන්වනවද? හිතන්න වෙලා
+
+*2025-09-30 22:48:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපට-දන-හර-යනවද-උගනවනවද-හතනන-වල/101-680525) · `si`
+
+ළමයින් හිංසනයට ලක්වීම වැළැක්වීම සඳහා රජය ගෙන ආ පනත් කෙටුම්පත සම්මත වුවහොත් දරුවන්ට උගන්වනවාද? නැතිනම් හිරේ යනවද? කියා ගුරුවරුන්ට හිතන්න වෙන බව ගුරු විදුහල්පති එකමුතුවේ කැඳවුම්කරු උලපනේ සුමංගල හිමියෝ මාධ්‍ය හමුවකදී අද (30) පැවසීය.
+
+මෙම දණ්ඩ නීති සංග්‍රහ සංශෝධනය ක්‍රියාත්මක වුණොත් පාසලකට ශිෂ්‍ය නායක මණ්ඩලයක් වැඩක් නැතැයි ද සුමංගල හිමියෝ කීහ. ගුරු සංගම් වල සහභාගීත්වයෙන් කොළඹදී පැවති මෙම මාධ්‍ය හමුවේදී වැඩිදුරටත් අදහස් දැක්වූ උලපනේ සුමංගල හිමියෝ:-
+
+මේ පනත සම්මත වුණොත් වගේම පාසලකට විනය මණ්ඩලයක් වැඩක් නැහැ.කොටින්ම කියනවා නම් පාසලේ විනය කියන වචනයක් කතා කිරීමත් තහනම් වෙනවා.මේ නිසා රට වනසන, පාසල වනසන මේ පනත වහ හකුලා ගන්නැයි අප රජයෙන් ඉල්ලා සිටිනවා.
+
+...
+
+[Data](articles/25f28a38.json)
+
+---
+
 ### Excessive spending loses the lives of two youths
 
 *2025-09-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215199) · `si`
@@ -130,6 +162,26 @@ Ada Derana stated that the bus driver has been arrested in connection with the a
 [Data](articles/b6e97edf.json)
 
 [Extended Data](ext_articles/b6e97edf.ext.json)
+
+---
+
+### ඉන්ධන වර්ග තුනක මිල පහළට
+
+*2025-09-30 22:36:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනධන-වරග-තනක-මල-පහළට/101-680524) · `si`
+
+ඩීසල් ඇතුළු ඉන්ධන වර්ග තුනක මිල අද (30) මධ්‍යම රාත්‍රීයේ සිට පහළ දැමූ බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව මීට සුළු මොහොතකට පෙර නිවේදනය කළේය.
+
+ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 6 කින්, ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 6 කින් සහ භූමිතෙල් ලීටරයක මිල රුපියල් 5 කින් අඩු කළ බව ද ඛනිජ තෙල් සංස්ථාව පැවසීය.
+
+ඔක්ටේන් 92 පෙට්‍රල් සහ ලංකා සුපිරි ඩීසල් ලීටරයක මිල වෙනස් නොවන බව ද ඛනිජ තෙල් සංස්ථාව පැවසීය.
+
+මෙම මිල සංශෝධනයට අනුව ලංකා සුදු ඩීසල් ලීටරයක නව මිල රුපියල් 277 ක්, ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක නව මිල රුපියල් 335 ක් සහ භූමිතෙල් ලීටරයක නව මිල රුපියල් 185 ක් බවත් එම සංස්ථාව සඳහන් කළේය.
+
+ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 299 ක සහ ලංකා සුපිරි ඩීසල් ලීටරයක මිල රුපියල් 313 ක තවදුරටත් පවතින බව බවද කරන සංස්ථාව වැඩිදුරටත් කීය.
+
+◼️
+
+[Data](articles/6110e696.json)
 
 ---
 
@@ -1944,67 +1996,5 @@ Ambiri Kahanda Kawaduwa helped the World Children's Day celebration. It has enab
 [Data](articles/4765f95e.json)
 
 [Extended Data](ext_articles/4765f95e.ext.json)
-
----
-
-### Colombo inflation climbs to 1.5% in September
-
-*2025-09-30 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113077/colombo-inflation-climbs-to-15-in-september-) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has increased to 1.5% in September 2025, compared to 1.2% in August 2025, according to the latest data released by the Department of Census and Statistics.
-
-The CCPI for all items for the month of September 2025 was 193.7 and it records an increase of 0.4 index points compared to the month of August 2025 for which the index was 193.3.
-
-The Y-on-Y inflation of Food Group increased to 2.9% in September 2025 from 2.0% in August 2025 and the Y-on-Y inflation of Non Food Group decreased to 0.7% in September 2025 from 0.8% in August 2025.
-
-For the month of June 2025, on Y-on-Y basis, the contribution to inflation by food commodities was 0.94%.
-
-◼️
-
-[Data](articles/0aa54961.json)
-
-[Extended Data](ext_articles/0aa54961.ext.json)
-
----
-
-### Bail for Prasanna Ranweera!
-
-*2025-09-30 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226497) · `ta`
-
-The Gampaha High Court today (30) ordered the release of former Minister Prasanna Ranweera on bail.
-
-The order was issued when Prasanna Ranawira was produced before the Gampaha High Court Magistrate today.
-
-Accordingly, the magistrate has ordered the release of Prasanna Ranawira on a cash bail worth Rs 5 lakh and five lakh rupees.
-
-In 2010, the court was granted arrest of Prasanna Ranawira in connection with the selling of a state land in Kiribathgoda area.
-
-However, former minister Prasanna Ranweera has left the area for a long time and has been in hiding for a long time.
-
-Subsequently, former minister Prasanna Ranawira surrendered to the court on May 7 and was released on bail after being kept in custody.
-
-◼️
-
-[Data](articles/08f00a50.json)
-
-[Extended Data](ext_articles/08f00a50.ext.json)
-
----
-
-### Commercial Bank offers 18 -month loan to Apple devices in conjunction with GNEXT Store
-
-*2025-09-30 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226495) · `ta`
-
-Commercial Bank and Authorized Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Devices
-
-The Commercial Bank operates the network of branches and automated machines across the country.
-
-In addition, the bank's full -fledged subsidiaries, CBC Finance LTD and Commercial Insurance Brokers (Pvt) Limited, also offer various financial services through their own branch networks.
-
-◼️
-
-[Data](articles/b45a5a5d.json)
-
-[Extended Data](ext_articles/b45a5a5d.ext.json)
 
 ---

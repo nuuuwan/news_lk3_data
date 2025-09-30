@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 23:40:38**
+As of **2025-09-30 23:57:01**
 
 ## Newspaper Stats
 
-*Scraped **79,987** Articles*
+*Scraped **79,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,851
 dailyftlk | 5,604
 adalk | 7,698
 adaderanalk | 10,316
-tamilmirrorlk | 11,953
+tamilmirrorlk | 11,954
 virakesarilk | 13,048
 adaderanasinhalalk | 13,830
 
@@ -27,11 +27,27 @@ adaderanasinhalalk | 13,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,987 (100.0%) of 79,987 articles have been extended.
+79,987 (100.0%) of 79,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### மகாநாயக்க தேரர்கள் ஜனாதிபதிக்கு அவசர கடிதம்
+
+*2025-09-30 23:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்கள்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-365560) · `ta`
+
+மூன்று பீடங்களை சேர்ந்த மகாநாயக்க தேரர்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு கடிதம் எழுதியுள்ளனர்.
+
+ஒரு நாட்டின் கலாச்சார அடையாளம், வரலாற்று பாரம்பரியம் மற்றும் பாரம்பரிய ஒழுக்கங்கள் புறக்கணிக்கப்பட்டு, குறுகிய தன்னிச்சையான மற்றும் குருட்டுத்தனமான போலித்தனத்தின் அடிப்படையில் அரசை நிர்வகிக்க முயற்சித்தால், அது நாட்டில் அராஜகத்திற்கும் முழு சமூகத்தின் வீழ்ச்சிக்கும் வழிவகுக்கும் என்று தேரர்கள் கடிதத்தில் குறிப்பிட்டுள்ளனர்.
+
+தற்போதைய அரசாங்கத்தால் உடல் ரீதியான தண்டனையை குற்றமாக்குவதற்கு முன்மொழியப்பட்ட தண்டனைச் சட்டத்தின் 82வது பிரிவில் திருத்தம் செய்வதும், ஓரினச்சேர்க்கையை அடிப்படையாகக் கொண்ட சுற்றுலாத் துறையை மேம்படுத்துவதற்கு சுற்றுலா மேம்பாட்டு ஆணைக்குழு ஆதரவளிப்பதும் இத்தகைய கடுமையான ஒழுக்க அராஜகத்திற்கும் பல சமூக நெருக்கடிகளுக்கும் காரணங்களாகும் என்று தேரர்கள் தங்கள் கடிதத்தில் ஜனாதிபதிக்கு தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/8e5d3818.json)
+
+---
 
 ### Excessive spending loses the lives of two youths
 
@@ -1964,25 +1980,5 @@ The social media has emerges in social media regarding the transfusion of me. I 
 [Data](articles/6640ff80.json)
 
 [Extended Data](ext_articles/6640ff80.ext.json)
-
----
-
-### To move Sri Lanka to the digital era, the first step is to make human resource into modern technology; Harini Amarasuriya
-
-*2025-09-30 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226492) · `ta`
-
-Prime Minister Harini Amarasuriya said the government's aim was to increase Sri Lanka's digital economy by 2030 to $ 15 billion, ie 12% of GDP, to increase digital exports to $ 5 billion and create about two lakh skilled digital industrial force.
-
-The Prime Minister made this statement at the Monark Imperial Hotel on Monday (29) while attending the "National AI Expo 2025" conference and exhibition on the first AI technology in Sri Lanka.
-
-The conference and exhibition will be held at the Monark Imperial Hotel, Battaramulla, September 29 and 30, organized by the Digital Economic Ministry and the Sri Lanka Telecom Mobitel.
-
-The "AI" National Exhibition is the primary travel target for artificial intelligence related innovations. The aims of this conference are to use artificial intelligence with modern technology, promote the use of artificial intelligence for the development of various sectors, and introduce AI technology and appropriate tools from school season.
-
-...
-
-[Data](articles/e050f459.json)
-
-[Extended Data](ext_articles/e050f459.ext.json)
 
 ---

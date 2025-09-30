@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 23:07:23**
+As of **2025-09-30 23:20:27**
 
 ## Newspaper Stats
 
@@ -27,27 +27,29 @@ adaderanasinhalalk | 13,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,986 (100.0%) of 79,987 articles have been extended.
+79,987 (100.0%) of 79,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### අධික වේගය තරුණයින් දෙදෙනෙකුට දිවි අහිමිකරයි
+### Excessive spending loses the lives of two youths
 
 *2025-09-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215199) · `si`
 
-හොරොව්පතාන කපුගොල්ලෑව මාර්ගයේ කටුවරගොල්ලෑව ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් තරුණයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Two youths were killed in an accident in Kapugollawa area on the Kapugollewa area in Horowpathana on the Kapugollewa area.
 
-අනුරාධපුර කපුගොල්ලෑව සිට හොරොව්පතාන දෙසට ධාවනය වූ ස්කූටර් වර්ගයේ යතුරු පැදියක් ඊට ප්‍රතිවිරුද්ධ දෙසින්  ධාවනය වු බස් රථයක ගැටී මෙම අනතුර සිදුව තිබුණි.
+The accident had occurred when a transcript motorbike hit by Kapugollawa from Kapugollawa to Kapugollawa to Horowpathana to Horowpathana.
 
-අනතුරෙන් මියගොස් ඇත්තේ හොරොව්පොතාන, කටුවරගොල්ලෑව සහ නෙළුගොල්ලෑව ප්‍රදේශවල පදිංචිව සිටි 20 හැවිරිදි සහ 21 හැවිරිදි තරුණයින් දෙදෙනෙකි.
+The deceased have been identified as 20-year-old and 21 year old youths, a resident of Kirimbollana and Nelugalliwa areas in Horowpothana.
 
-අනතුර සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය
+Ada Derana stated that the bus driver has been arrested in connection with the accident
 
 ◼️
 
 [Data](articles/b6e97edf.json)
+
+[Extended Data](ext_articles/b6e97edf.ext.json)
 
 ---
 

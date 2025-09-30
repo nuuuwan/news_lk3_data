@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 13:40:51**
+As of **2025-09-30 13:57:56**
 
 ## Newspaper Stats
 
-*Scraped **79,810** Articles*
+*Scraped **79,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,56 @@ economynextcom | 4,746
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,680
-adaderanalk | 10,295
+adaderanalk | 10,298
 tamilmirrorlk | 11,937
 virakesarilk | 13,020
-adaderanasinhalalk | 13,803
+adaderanasinhalalk | 13,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,806 (100.0%) of 79,810 articles have been extended.
+79,806 (100.0%) of 79,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### සතීෂ් ගමගේට ඇප
+
+*2025-09-30 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215173) · `si`
+
+අල්ලස් චෝදනා මත රක්ෂිත බන්ධනාගාරගත කර සිටි පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ සංස්කෘතික අංශයේ, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතීෂ් ගමගේ මහතාවට කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ඇප ලබා දී තිබේ.
+
+ගාල්ල සහ ඇඹිලිපිටිය පොලිස් කොට්ඨාශ භාරව ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා වශයෙන් කටයුතු කළ සමයේ වෙනත් පුද්ගලයෙකුගේ නමින් පුද්ගලික බැංකු තුනක ගිණුම් 03 ක් විවෘතකර, එම ගිණුම්වලට සංවිධානාත්මක අපරාධකරුවන් ගෙන්, පොලීසියට සේවා ලබා ගැනීමට පැමිණෙන පුද්ගලයින්ගෙන් හා වෙනත් අපරාධකරුවන්ගෙන් රුපියල් එක් කෝටි හතළිස් ලක්ෂයකට ආසන්න මුදලක් අල්ලස් වශයෙන් ලබා ගැනීම සහ මුදල් විශුද්ධිකරණ චෝදනා යටතේ අල්ලස් කොමිසම විසින් මෙම පුද්ගලයා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+ඒ අනුව අල්ලස් කොමිසමේ නිලධාරීන් හා විත්තියේ නීතිඥවරු විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව අධිකරණය විසින් ඔහුව බන්ධනාගාරගත කර තිබුණි.
+
+◼️
+
+[Data](articles/f7fefbee.json)
+
+---
+
+### Acting Director of Police Cultural Division SSP Sathish Gamage granted bail
+
+*2025-09-30 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/113069/acting-director-of-police-cultural-division-ssp-sathish-gamage-granted-bail-) · `en`
+
+The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been granted bail, Ada Derana reporter said.
+
+The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama, after reviewing the submissions made by officials from the Bribery Commission and the legal representatives of the suspect.
+
+Accordingly, SSP Sathish Gamage has been released on a cash bail of Rs. 100,000 and two surety bails amounting to Rs. 2 million each.
+
+The Magistrate also issued an order banning the suspect from traveling abroad.
+
+The case has been scheduled to be heard once again in January, 2026.
+
+◼️
+
+[Data](articles/490961a8.json)
+
+---
 
 ### The recent government gave the health of Kudamma
 
@@ -50,6 +86,26 @@ It is timely to ensure that the health challenges of the people today and the fu
 [Data](articles/cdb5c668.json)
 
 [Extended Data](ext_articles/cdb5c668.ext.json)
+
+---
+
+### Lecturers’ strike hampers academic activities at major state universities
+
+*2025-09-30 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113068/lecturers-strike-hampers-academic-activities-at-major-state-universities-) · `en`
+
+The one-day strike launched by the Federation of University Teachers’ Associations (FUTA) is currently underway at all state universities across the country.
+
+As a result, lectures and all academic activities at universities have been suspended for the day.
+
+The strike has been launched based on several key concerns, including, the shortage of academic staff due to the brain drain and failure to recruit qualified personnel, salary-related issues, the lack of improvements in university infrastructure and the insufficient allocation of funds for research.
+
+FUTA members stated that despite holding discussions with government authorities on multiple occasions, no satisfactory or effective solutions have been provided thus far.
+
+Due to the strike, academic activities at major state universities — including Colombo, Peradeniya, Ruhuna, Rajarata, and Jaffna — were disrupted.
+
+...
+
+[Data](articles/3facd9ae.json)
 
 ---
 
@@ -200,6 +256,30 @@ COLOMBO (News 1st); Former State Minister Shasheendra Rajapaksa has been remande
 [Data](articles/4c66b616.json)
 
 [Extended Data](ext_articles/4c66b616.ext.json)
+
+---
+
+### ‘Total internet blackout’ in Afghanistan sparks panic
+
+*2025-09-30 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113067/total-internet-blackout-in-afghanistan-sparks-panic) · `en`
+
+The Taliban government in Afghanistan has imposed a nationwide shutdown of telecommunications, weeks after it began severing fibre-optic internet connections.
+
+The country is currently experiencing a “total internet blackout”, internet watchdog Netblocks reports.
+
+International news agencies say they have lost contact with offices in the capital Kabul. Mobile internet and satellite TV has also been severely disrupted across Afghanistan.
+
+The Taliban have yet to give an official reason for the shutdown. Since seizing power in 2021, the Taliban have imposed numerous restrictions in accordance with their interpretation of Islamic Sharia law.
+
+A Taliban official said the telecom shutdown would last until further notice.
+
+Tolo News, a privately owned Afghan news channel, told people to follow its social media pages for updates as it expected disruptions to its television and radio networks.
+
+Flights from Kabul airport have also been disrupted, local media reported.
+
+...
+
+[Data](articles/b06166d9.json)
 
 ---
 
@@ -1862,91 +1942,5 @@ Mr. Mahinda Rajapaksa says:
 [Data](articles/1aca7e5e.json)
 
 [Extended Data](ext_articles/1aca7e5e.ext.json)
-
----
-
-### 47 babies are caged with moms
-
-*2025-09-30 07:49:10* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බබල-47ක-අමමල-සමග-කඩ-වල/1-680444) · `si`
-
-The Prison Headquarters says that 47 children have been remanded in the prison with the women who were imprisoned in connection with the wisdom of this year.
-
-There are 20 boys and 27 female among those children.
-
-1483 women have been imprisoned for 9 months from January 1 (27).
-
-The number of women who were imprisoned in connection with the misery from January 1 to July 31 months were 184 persons.
-
-Meanwhile, about 75 respecting ice drugs, 97 respecting heroin, including 3 people, 8 wedges and other drugs regarding opium.
-
-This information was revealed after a request from the prison headquarters under the Right to Rights Act No. 12 of 2016.
-
-There were 885 women in connection with various flanes last year and 369 women were remanded.
-
-Of them, 138 of the ice drugs were 138 respectively, 199 in charge of heroin, 17 people of marijuana.
-
-655 married women have been imprisoned for various flanes last year, with 278 married women were imprisoned.
-
-...
-
-[Data](articles/0013a457.json)
-
-[Extended Data](ext_articles/0013a457.ext.json)
-
----
-
-### 47 babies are caged with moms
-
-*2025-09-30 07:49:10* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බබල-47ක-අමමල-සමග-කඩ-වල/101-680444) · `si`
-
-The Prison Headquarters says that 47 children have been remanded in the prison with the women who were imprisoned in connection with the wisdom of this year.
-
-එම දරුවන් අතර පිරිමි දරුවෝ 20 දෙනෙක් සහ ගැහැණු දරුවෝ 27 දෙනෙක් සිටිති.
-
-1483 women have been imprisoned for 9 months from January 1 (27).
-
-The number of women who were imprisoned in connection with the misery from January 1 to July 31 months were 184 persons.
-
-Meanwhile, about 75 respecting ice drugs, 97 respecting heroin, including 3 people, 8 wedges and other drugs regarding opium.
-
-This information was revealed after a request from the prison headquarters under the Right to Rights Act No. 12 of 2016.
-
-There were 885 women in connection with various flanes last year and 369 women were remanded.
-
-Of them, 138 of the ice drugs were 138 respectively, 199 in charge of heroin, 17 people of marijuana.
-
-655 married women have been imprisoned for various flanes last year, with 278 married women were imprisoned.
-
-...
-
-[Data](articles/e8f8a123.json)
-
-[Extended Data](ext_articles/e8f8a123.ext.json)
-
----
-
-### Federation of University Teachers’ Association to Launch Nationwide Strike Today
-
-*2025-09-30 07:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/federation-of-university-teachers%e2%80%99-association-to-launch-nationwide-strike-today) · `en`
-
-COLOMBO (News 1st)  - The Federation of University Teachers’ Association (FUTA) has announced that its members will stage a nationwide strike today.Its spokesperson, Senior Lecturer Charudaththa Ilangasinghe, stated that the decision was taken in protest against the shortage of university teachers, salary disparities, and cuts to allowances.He says that all universities across the country are expected to suspend academic activities for the day as part of the trade union action.
-
-◼️
-
-[Data](articles/5b3b4947.json)
-
-[Extended Data](ext_articles/5b3b4947.ext.json)
-
----
-
-### IMF Mission Chief Meets Prime Minister Amarasuriya, Reviews Reform Progress
-
-*2025-09-30 07:44:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/imf-mission-chief-meets-prime-minister-amarasuriya-reviews-reform-progress) · `en`
-
-...
-
-[Data](articles/2ff16daa.json)
-
-[Extended Data](ext_articles/2ff16daa.ext.json)
 
 ---

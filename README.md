@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 13:57:56**
+As of **2025-09-30 14:13:34**
 
 ## Newspaper Stats
 
-*Scraped **79,814** Articles*
+*Scraped **79,825** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 495
+lankadeepalk | 498
 newsfirstlk | 501
 dbsjeyarajcom | 635
 bbccomsinhala | 711
@@ -20,18 +20,192 @@ dailyftlk | 5,604
 adalk | 7,680
 adaderanalk | 10,298
 tamilmirrorlk | 11,937
-virakesarilk | 13,020
-adaderanasinhalalk | 13,804
+virakesarilk | 13,026
+adaderanasinhalalk | 13,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,806 (100.0%) of 79,814 articles have been extended.
+79,806 (100.0%) of 79,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### கம்பளையில் போதைப்பொருளுடன் இளம் தம்பதி கைது ; மேலதிக விசாரணைகளில் பல பொருட்கள் கைப்பற்றல்!
+
+*2025-09-30 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226486) · `ta`
+
+கம்பளைப் பிரதேசத்தில் போதைப்பொருளுடன் கைது செய்யப்பட்ட இளம் தம்பதியினரிடம் மேற்கொண்ட மேலதிக விசாரைணகள் மூலம் அவர்கள் தங்கி இருந்த வீடுகள் எனக் கூறப்படும் மற்றும் மூன்று வீடுகளில் இருந்து மேலும் போதைப் பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+கடந்த 25ம் திகதி மேற்படி தம்பதியினர் நாவலப்பிட்டிய பிரதேசத்தில் போதைப் பொருள் விநியோகத்தில் ஈடுபட்டிருந்த போது கைதாகினர்.
+
+அதனையடுத்து கைதான ஆண்  ஒருவர் 7 நாட்களுக்கு தடுத்து வைத்து விசாரணைகளில் ஈடுபடுத்த பொலிஸார் நீதிமன்ற அனுமதியைப் பெற்றுள்ளதுடன் பெண்னை விளக்கமறியலில் வைக்கும் படி நீதவான் உத்தரவிட்டார்.
+
+இந்நிலையில் பொலிஸார் மேற்கொண்ட மேலதிக விசாரணைகளின் போது அவர்கள் தங்கி இருந்ததாகக் கூறப்படும் மூன்று வீடுகளில் இரண்டு வீடுகளில் இருந்து போதைப்பொருட்கள் மற்றும் அவற்றுடன் தொடர்புடைய சில பொருட்கள்  கைப்பற்றப்பட்டுள்ளன.
+
+...
+
+[Data](articles/2dbb31f8.json)
+
+---
+
+### ලෝක කුසලාන කාන්තා සටනේ සමාරම්භයට එක්වෙන ඩ්‍රීම් ස්ටාර් අනුශූරතාව දිනූ නුවන්ධිකා
+
+*2025-09-30 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215175) · `si`
+
+දෙරණ ඩ්‍රීම් ස්ටාර් ගායන තරගයේ 9වන අදියරේ අනුශූරතාව හිමිකරගත් නුවන්ධිකා සේනාරත්නට අද (30) පැවැත්වෙන කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සමාරම්භක උත්සවයේදී ශ්‍රී ලංකා ජාතික ගීය ගැයීමේ අවස්ථාව හිමිව තිබේ.
+
+කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ 13වැනි දිග හැරුම ශ්‍රී ලංකාවේ සහ ඉන්දියාවේ සම සත්කාරකත්වයෙන් අද (30) ආරම්භ වීමට නියමිතය.
+
+අදින් ඇරඹෙන ලෝක කුසලාන තරගාවලිය නොවැම්බර් මස 2වැනිදා දක්වා පැවැත් වේ.
+
+ඉන්දියාවේ ක්‍රීඩාංගණ 4කදී සහ ශ්‍රී ලංකාවේදී එක් ක්‍රීඩාංගණයකදී තරගාවලියේ තරග ක්‍රියාත්මක වේ.
+
+ලීග් ක්‍රමයට පැවැත්වෙන ලෝක කුසලාන මූලික වටයේදී සෑම කණ්ඩායමක්ම තරග 7කට මුහුණදීමට නියමිතය.
+
+මෙවර තරගාවලියේ මූලික වටයේදී ශ්‍රී ලංකාව සහභාගි වන තරග 7න් 5ක් කොළඹ ආර්.ප්‍රේමදාස ක්‍රීඩාංගණයේදී පැවැත්වෙන අතර තරග දෙකක් ඉන්දියාවේදී පැවැත් වේ.
+
+තරගාවලිය අරඹමින් ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තරගය ඉන්දියාවේ ගුවහාති හීදි අද පස්වරු 3ට ආරම්භ වේ.
+
+◼️
+
+[Data](articles/000e3c56.json)
+
+---
+
+### රෝහිතගේ මන්ත්‍රීකම බල රහිත කරන්නැයි ඉල්ලූ රාජිතගේ පෙත්සම ප්‍රතික්ෂේප වෙයි
+
+*2025-09-30 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215174) · `si`
+
+ඉකුත් මහ මැතිවරණයේදී කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයකු ලෙස හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන මහතා තේරී පත්වීම බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය අද (30) ප්‍රතික්ෂේප කළේය.
+
+පෙත්සම අද කැඳවූ අවස්ථාවේදී දෙපාර්ශවය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව අධිකරණය මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/1d44cc32.json)
+
+---
+
+### පොලිසියෙන් ඉල්ලූ තහනමට අධිකරණයෙන් දුන් නියෝගය
+
+*2025-09-30 13:38:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පලසයන-ඉලල-තහනමට-අධකරණයන-දන-නයගය/101-680494) · `si`
+
+අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බල මණ්ඩලය මේ වන විට කොළඹ විශ්ව විද්‍යාලයේ සිට පා ගමනින් ගොස් විශ්ව විද්‍යාල ප්‍රතිපාදනයක් කොමිෂන් සභාව ඉදිරිපිට සිදු කිරීමට නියමිත උද්ඝෝෂණ ක්‍රියාවලිය වළක්වන්නැයි කුරුඳුවත්ත පොලීසිය කළ ඉල්ලීම  සම්බන්ධයෙන් කොළඹ ප්‍රධාන මහේස්ත්‍රාත්   අසංක එස් බෝදරගම මහතා  කිසිදු නියෝගයක් නිකුත් නොකළේය.
+
+උද්ඝෝෂණය මගින් මහජන පීඩාවක්, නීතිය හා සාමය කඩවීමක් සිදුවන්නේ නම් පොලිස් ආඥා පනත හා අපරාධ නඩුවේ දාන සංග්‍රහ පනතේ විධිවිධාන ප්‍රකාරව  කටයුතු කිරීමේ බලය පොලිසියට ඇති බවත්,එම බලය ක්‍රියාත්මක කිරීමට කිසිදු බාධාවක්  නොමැති බවත් පෙන්වා දුන්නේය.
+
+කුරුදු වත්ත පොලිසිය කරුණු ඉදිරිපත් කරමින් සඳහන් කර සිටියේ මෙම උද්ඝෝෂණ පාගමන අද දහවල් දොළහට ආරම්භ කිරීමට නියමිත බවත් මේ වන විට සාමය කඩවීමක් හෝ වෙනත් කිසිදු අන්තරාවක් සම්බන්ධයෙන් කරුණු වාර්තා වීමක් සිදුව නොමැති බවත්ය.
+
+විශ්ව විද්‍යාලය අසල රීඩ් මාවතේ සිට වොට් පෙදෙස මාවත දක්වා මාර්ගයේ මගීන්ට හා රථ වාහනවලට අවහිරයක් බාධාවක් මහජන පීඩාවක් ඇති විය හැකි බවද පොලිසිය වැඩිදුරටත් කරුණු දක්වමින් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ff999ce8.json)
+
+---
+
+### ’’ මට වැරදුණා’’
+
+*2025-09-30 13:24:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මට-වරදණ/101-680493) · `si`
+
+ජපානයේ  වෙන්දේසියකදී මෙරට තේ කිලෝවක් සඳහා වාර්තාගත මුදලක් නියමවීමට අදාළව නොබෙල් තෑග්ග ලැබුණු බවට කෙරුණු ප්‍රකාශය වැරැද්දකින් සිදුවූවක් බව  කර්මාන්ත අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කරයි.
+
+ගිනස් වාර්තාවක් යන්න වෙනුවට  අතපසුවීමකින් නොබෙල් තෑග්ග ලෙස  තමාගෙන් ප්‍රකාශ වූ බව කී  අමාත්‍යවරයා  එය හිතා මතා  කරන ලද්දක් නොවන බවද    සඳහන් කළේය.හඳුන්නෙත්ති  මහතා මෙසේ පැවසුවේ සමාජ  ජාල ගිණුම ඔස්සේ වීඩියෝවක් නිකුත් කරමිනි.
+
+◼️
+
+[Data](articles/bf2f2263.json)
+
+---
+
+### “ஜென் Z” போராட்டங்கள் ;  அரசாங்கத்தை கலைத்தார் மடகஸ்கார் ஜனாதிபதி
+
+*2025-09-30 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226477) · `ta`
+
+நீண்டகாலமாக நிலவும் தண்ணீர் மற்றும் மின்சாரத் தடைகள் காரணமாக இளைஞர்கள் தலைமையிலான போராட்டங்கள் பல நாட்களாகத் தொடர்வதால், மடகஸ்கார்  ஜனாதிபதி தனது அரசாங்கத்தைக் கலைப்பதாக அறிவித்துள்ளார்.
+
+"அரசாங்க உறுப்பினர்கள் தங்களுக்கு ஒதுக்கப்பட்ட பணிகளைச் செய்யவில்லை என்றால் நாங்கள் ஒப்புக்கொள்கிறோம், மன்னிப்பு கேட்டுக்கொள்கிறோம்," என திங்களன்று தொலைக்காட்சியில் ஒளிபரப்பான தேசிய உரையில் மடகஸ்கார் ஜனாதிபதி ஆண்ட்ரி ராஜோலினாதெரிவித்துள்ளார்.
+
+"நாங்கள் வாழ விரும்புகிறோம், உயிரிழக்க விரும்பவில்லை" என கோசமிட்டு “ஜென் Z” போராட்டங்கள் என்று அழைக்கப்படும் இந்த ஆர்ப்பாட்டத்தில், வியாழக்கிழமை முதல் மடகஸ்கார் முழுவதும் உள்ள நகரங்களில் ஆயிரக்கணக்கான இளம் ஆர்ப்பாட்டக்காரர்கள் வீதிகளில் இறங்கினர்.
+
+அமைதியின்மையை அடக்க பாதுகாப்புப் படையினர் பயன்படுத்தியமையினால் போராட்டக்காரர்கள் 22 பேர் உயிரிழந்துள்ளதோடு,100 பேர் காயமடைந்துள்ளனர்.  இது  தேவை அற்ற செயல் என ஐ.நா.வின் மனித உரிமைகள் ஆணையாளர் கண்டித்துள்ளார்.
+
+...
+
+[Data](articles/4d7e0641.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-09-30 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226485) · `ta`
+
+இலங்கை மத்திய வங்கி இன்றைய தினம் செவ்வாய்க்கிழமை (30) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 306.2994 ரூபாயாகவும் கொள்வனவு விலை 298.7784  ரூபாயாகவும் பதிவாகியுள்ளது.
+
+அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 412.6471 ரூபாய் மற்றும் கொள்வனவு விலை 400.0463 ரூபாயாகும்.
+
+யூரோ ஒன்றின் விற்பனை விலை 360.4419  ரூபாய் எனவும் கொள்வனவு விலை 348.8910 ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
+
+அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (30.09.2025) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/31a0c782.json)
+
+---
+
+### ජනපති ජපාන -ශ්‍රී ලංකා ව්‍යාපාරික සංසදය අමතයි
+
+*2025-09-30 13:15:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-ශර-ලක-වයපරක-සසදය-අමතය/101-680492) · `si`
+
+ශ්‍රී ලංකාවේ නැඟී එන ආර්ථික අවස්ථා සොයා බැලීමට එක්වන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා  ජපාන ව්‍යාපාරික ප්‍රජාවට ඇරැයුම් කළේය.
+
+ජපාන - ශ්‍රී ලංකා ද්විපාර්ශ්වික වෙළෙඳ සහ ආයෝජන සබඳතා තවදුරටත් ශක්තිමත් කරමින් සහ පෞද්ගලික අංශය ඊට දිරි ගන්වමින් රජය කටයුතු කරන බවද ජනාධිපතිවරයා කීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ ජපාන විදේශ වෙළෙඳ සංවිධාන (JETRO) මූලස්ථානයේ පැවති  ජපන්- ශ්‍රී ලංකා ව්‍යාපාරික සංසදය අමතමිනි.
+
+විදේශ වෙළෙඳ සංවිධාන (JETRO) මූලස්ථානයේදී පැවති මෙම හමුවට ජපානයේ  ව්‍යාපාරික ප්‍රජාවේ ජ්‍යෙෂ්ඨ සාමාජිකයෝ 200 කට ආසන්න පිරිසක් එක්ව සිටී අතර ජපාන බාහිර වෙළඳ සංවිධානය (JETRO), ආර්ථික, වෙළඳ හා කර්මාන්ත අමාත්‍යාංශය (METI), සමඟ ජපානයේ ශ්‍රී ලංකා තානාපති කාර්යාලය, ජපන්-ශ්‍රී ලංකා ව්‍යාපාර සහයෝගීතා කමිටුව සහ ශ්‍රී ලංකා ආයෝජන මණ්ඩලය (BOI) එක්ව මෙය සංවිධානය කර තිබුණි.
+
+◼️
+
+[Data](articles/dafc4c50.json)
+
+---
+
+### ஆசிய பசிபிக் டெக்னாலஜி சிஸ்டம்ஸ், கிராஃப்ட் சிலிக்கான் இணைந்து Reimaging Banking – The Core Awakens” எனும் கருபொருளின் கீழ் அடுத்த தலைமுறை வங்கியியை இலங்கையில் அறிமுகம்
+
+*2025-09-30 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226480) · `ta`
+
+இலங்கையின் முன்னணி தகவல் தொழில்நுட்ப தீர்வுகள் வழங்குனரான ஆசிய பசிபிக் டெக்னாலஜி சிஸ்டம்ஸ், உலகளாவிய ரீதியில் 30ற்கும் மேற்பட்ட நாடுகளில் ப்பின்டெக் பவர்ஹவுசினை கொண்டிருக்கும் கிராஃப்ட் சிலிக்கானுடன் பங்காளியாக இணைந்து அடுத்த தலைமுறைக்கான கோர் வங்கி  முறையினை இலங்கை சந்தையில் அறிமுகப்படுத்தியுள்ளது.
+
+இவ் இணைப்பானது, கிராஃப்ட் சிலிக்கானின் உலகளவில் அங்கீகரிக்கப்பட்ட ஃபின்டெக் திறன்களுடன் புதுமையான தொழில்நுட்ப தீர்வுகளை வழங்குவதில் APTS இன் வலுவான உள்நாட்டு நிபுணத்துவத்தை இணைத்து, இலங்கையின் வங்கி மற்றும் நிதித் துறையின் வளர்ந்து வரும் தேவைகளைப் பூர்த்தி செய்ய வடிவமைக்கப்பட்ட விதத்திலான ஒரு சக்திவாய்ந்த தளத்தை உருவாக்குகிறது.
+
+...
+
+[Data](articles/0be15323.json)
+
+---
+
+### வட மாகாண கல்விப் புலத்தில் என்றுமில்லாதவாறு அரசியல் தலையீடுகள் அதிகரிப்பு - இலங்கை ஆசிரியர் சங்கம் குற்றச்சாட்டு
+
+*2025-09-30 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226479) · `ta`
+
+வட மாகாண கல்விப் புலத்தில் என்றும் இல்லாதவாறு அரசியல் தலையீடுகள் அதிகரித்துள்ளன. பதவி நியமனங்களின்போது தேசிய மக்கள் சக்தியின் ஆதரவாளர்களாக செயற்படுபவர்களுக்காக பரிந்துரைக்கும் செயற்றிட்டங்களில் அரசாங்க எம்.பிக்கள் செயற்படுகின்றனர் என இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின் குற்றஞ்சாட்டியுள்ளார்.
+
+தான் வெளியிட்ட அறிக்கையில்  இவ்வாறு குறிப்பிட்டுள்ள  ஜோசப் ஸ்டாலின், அதில்  மேலும் தெரிவித்துள்ளதாவது,
+
+வன்னி மாவட்டத்தில் தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினரின் தலையீடுகள் எல்லை மீறிச் செல்கின்றன.
+
+பாடசாலை நிகழ்வுகளில் அரசியல்வாதிகள் செல்லக்கூடாது என்ற தேசிய மக்கள் சக்தியின் பிரதமரின் கூற்று, வெறும் வாய்ப்பேச்சோடு நின்றுவிட்டது. தம்மை அரசாங்க ஆதரவாளர்களாக காட்டி, அரசாங்க தரப்பு அரசியல்வாதிகளை பாடசாலைகளுக்கு அழைத்து குறுக்கு வழிகளில் வரப்பிரசாதங்களை அனுபவிக்கும் கீழ்நிலைக்கு சில பாடசாலை அதிபர்கள் செல்லும் நிலைக்கு, வட மாகாணத்தின் கல்வியில் அரசியல் தலையீடு அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/9e052cef.json)
+
+---
 
 ### සතීෂ් ගමගේට ඇප
 
@@ -504,6 +678,26 @@ Har Man Preet Kaur, the head of the start of the day, will be playing with the S
 [Data](articles/43c91ecb.json)
 
 [Extended Data](ext_articles/43c91ecb.ext.json)
+
+---
+
+### பெண் கைதிகளுடன் 47 குழந்தைகள் சிறைச்சாலையில் உள்ளனர் - சிறைச்சாலை தலைமையகம்
+
+*2025-09-30 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226473) · `ta`
+
+2025 ஆம் ஆண்டின் இதுவரையான காலப்பகுதிக்குள் பல்வேறு குற்றச்சாட்டுக்கள் தொடர்பில் கைதுசெய்யப்பட்டு நீதிமன்ற உத்தரவின் கீழ் சிறைச்சாலையில் வைக்கப்பட்டுள்ள பெண் கைதிகளுடன் 47 குழந்தைகள் சிறைச்சாலையில் உள்ளதாக சிறைச்சாலை தலைமையகம் தெரிவித்துள்ளது.
+
+20 ஆண் குழந்தைகளும் 27 பெண் குழந்தைகளுமே இவ்வாறு பெண் கைதிகளுடன் சிறைச்சாலையில் உள்ளனர்.
+
+2025 ஆம் ஆண்டின் ஜனவரி மாதம் 01 ஆம் திகதி முதல் செப்டெம்பர் மாதம் 27 ஆம் திகதி வரையான காலப்பகுதிக்குள் 1483 பெண்கள் கைதுசெய்யப்பட்டு நீதிமன்ற உத்தரவின் கீழ் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+2025 ஆம் ஆண்டின் ஜனவரி மாதம் 01 ஆம் திகதி முதல் ஜூலை மாதம் 31 ஆம் திகதி வரையான காலப்பகுதிக்குள் 184 பெண்கள் போதைப்பொருள் குற்றம் தொடர்பில் கைதுசெய்யப்பட்டு நீதிமன்ற உத்தரவின் கீழ் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+அவர்களில் 75 பெண்கள் ஐஸ் போதைப்பொருள் தொடர்பிலும், 97 பெண்கள் ஹெரோயின் போதைப்பொருள் தொடர்பிலும், 8 பெண்கள் கஞ்சா போதைப்பொருள் தொடர்பிலும் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ளதாக சிறைச்சாலை தலைமையகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5aff138f.json)
 
 ---
 
@@ -1728,219 +1922,5 @@ After the end of the project, the Electricity Board should be handed over to the
 [Data](articles/de6c3763.json)
 
 [Extended Data](ext_articles/de6c3763.ext.json)
-
----
-
-### CEB Gill cut off
-
-*2025-09-30 08:28:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලවම-ගලල-සලල-මලල/101-680447) · `si`
-
-The COPE Committee on the Parliamentary Committee (COPE) has detected more than Rs.
-
-The Committee on Public Enterprises Committee on the Sri Lanka Electricity Board, 2022 and 2023 years of the Sri Lanka Electricity Board (COPE) and its Chairman Dr. Nishantha Samaraweera met in Parliament under the Chairman of Parliament.
-
-◼️
-
-[Data](articles/9486ac15.json)
-
-[Extended Data](ext_articles/9486ac15.ext.json)
-
----
-
-### CEB Gill cut off
-
-*2025-09-30 08:28:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලවම-ගලල-සලල-මලල/1-680447) · `si`
-
-The COPE Committee on the Parliamentary Committee (COPE) has detected more than Rs.
-
-මේ පිළිබඳ තොරතුරු අනාවරණය වූයේ ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ 2022 සහ 2023 වර්ෂයන්ට අදාළ විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති  පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගියදා (24) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
-
-◼️
-
-[Data](articles/d3a748ab.json)
-
-[Extended Data](ext_articles/d3a748ab.ext.json)
-
----
-
-### Bodies of two males found in separate areas of Colombo
-
-*2025-09-30 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113059/bodies-of-two-males-found-in-separate-areas-of-colombo) · `en`
-
-Bodies of two males have been found in two separate locations in Colombo, according to police.
-
-One body was found in Grandpass, while the other was recovered in Dehiwala.
-
-The first body was located last evening (29) at the Ingurukade Junction, Grandpass. Police stated that the identity of the deceased remains unknown, but it is believed to be a male aged between 35 and 40 years.
-
-The individual was approximately 5 feet 4 inches tall and was wearing black shorts and a black T-shirt, police stated.
-
-The body has been placed at the morgue of the Colombo National Hospital for further examination.
-
-Meanwhile, the second body was found last evening inside a house along Siriwardana Road, Dehiwala.
-
-Investigations revealed that the deceased was a 23-year-old male resident of Dehiwala.
-
-The body has been placed at the morgue of the Kalubowila Hospital for a post-mortem examination.
-
-◼️
-
-[Data](articles/14d8b698.json)
-
-[Extended Data](ext_articles/14d8b698.ext.json)
-
----
-
-### Weather today
-
-*2025-09-30 08:26:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680446) · `si`
-
-Several spells of showers will occur in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The area can be in the North Western Province.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds can occur 30-40 times.
-
-◼️
-
-[Data](articles/8a42ce8e.json)
-
-[Extended Data](ext_articles/8a42ce8e.ext.json)
-
----
-
-### Weather today
-
-*2025-09-30 08:26:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680446) · `si`
-
-Several spells of showers will occur in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The area can be in the North Western Province.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds can occur 30-40 times.
-
-◼️
-
-[Data](articles/c3747671.json)
-
-[Extended Data](ext_articles/c3747671.ext.json)
-
----
-
-### The reason for the deaths of Vijay is late
-
-*2025-09-30 08:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்-தாமதமாக-வந்ததே-உயிரிழப்புகளுக்கு-காரணம்/175-365503) · `ta`
-
-T.W.. Executives deliberately delayed Vijay's arrival for 4 hours. The first report said that this was due to the death of Karur.
-
-In Karur on the 27th of this month. 41 people were killed in congestion during the leader Vijay campaign meeting. More than 100 people were injured.
-
-Karur city police inspector Manivannan has registered a case in this regard. (A)
-
-◼️
-
-[Data](articles/96e156f8.json)
-
-[Extended Data](ext_articles/96e156f8.ext.json)
-
----
-
-### Two suspected bodies in Colombo - Police are conducting further investigations
-
-*2025-09-30 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215162) · `si`
-
-Police said that the Grandpass police division and the other body found the other body of the Dehiwala Police.
-
-The delegation was found near the Grandpass, the Grandpass, the Grandpass, the Grandpass, the Grandpass, the Grandpass, the Grandpass.
-
-And the person is about 4 feet at least 4 feet, and a black tester and wearing a black testert.
-
-The body has been placed in the morgue of the Colombo National Hospital and the Grandpass Police are conducting further investigations.
-
-The other body has been found at a house in Siriwardena Road, Dehiwala last night.
-
-It has been revealed that the body was a male, a 23 year old resident of Dehiwala.
-
-The body has been placed in the Kalubowila hospital morgue and the Dehiwala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a17c56a6.json)
-
-[Extended Data](ext_articles/a17c56a6.ext.json)
-
----
-
-### Japan begins military grant-aid to Sri Lanka with drones for navy
-
-*2025-09-30 08:02:00* · [`economynextcom`](https://economynext.com/japan-begins-military-grant-aid-to-sri-lanka-with-drones-for-navy-242207/) · `en`
-
-ECONOMYNEXT – Japan has begun military grant aid to Sri Lanka, taking a step beyond its usual support to the Indian Ocean island, through Official Development Assistance (ODA), the Japanese embassy said.
-
-The exchange of notes for the Official Security Assistance (OSA) took place between Akio ISOMATA, Ambassador of Japan to Sri Lanka, and Vijitha Herath, Minister of Foreign Affairs of Sri Lanka in Tokyo in the presence of Prime Minister Shigeru Ishiba and President Anura Dissanayake.
-
-In the first project Japan is giving 500 million yen (about a billion rupees) for two types of  Japanese-made drones for the Sri Lanka Navy to be used for for monitoring, surveillance and disaster relief.
-
-“Japan’s first OSA for Sri Lanka signifies that bilateral cooperation in security has entered a new phase,” the embassy said in a statement.
-
-“Launched in 2023, OSA is a new grant aid cooperation framework of Japan to strengthen the security and deterrence capabilities of like-minded countries.
-
-...
-
-[Data](articles/6fa728cf.json)
-
-[Extended Data](ext_articles/6fa728cf.ext.json)
-
----
-
-### What about Ranil
-
-*2025-09-30 07:52:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රනල-ගන-මහනද-ක-ද/101-680445) · `si`
-
-Former President Mahinda Rajapaksa said, "We are both contemporary in a political culture that can maintain mutual respect," says Mr. Ranil Wickremesinghe.
-
-"Former President Ranil Wickremesinghe met with me at Carlton House in Tangalle. There we two have a very friendly discussion.
-
-In a politics of politics politically with other opinions, both of us are contemporary. I am grateful to Ranil Wickremesinghe's coming. Mr. Maithree Wickremesinghe also recalls with respect, "says Mahinda Rajapaksa.
-
-Mr. Mahinda Rajapaksa says:
-
-◼️
-
-[Data](articles/01fcf266.json)
-
-[Extended Data](ext_articles/01fcf266.ext.json)
-
----
-
-### What about Ranil
-
-*2025-09-30 07:52:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රනල-ගන-මහනද-ක-ද/1-680445) · `si`
-
-Former President Mahinda Rajapaksa said, "We are both contemporary in a political culture that can maintain mutual respect," says Mr. Ranil Wickremesinghe.
-
-"Former President Ranil Wickremesinghe met with me at Carlton House in Tangalle. There we two have a very friendly discussion.
-
-In a politics of politics politically with other opinions, both of us are contemporary. I am grateful to Ranil Wickremesinghe's coming. Mr. Maithree Wickremesinghe also recalls with respect, "says Mahinda Rajapaksa.
-
-Mr. Mahinda Rajapaksa says:
-
-◼️
-
-[Data](articles/1fa55b85.json)
-
-[Extended Data](ext_articles/1fa55b85.ext.json)
-
----
-
-### Women’s Cricket World Cup 2025 Kicks Off Today: Sri Lanka Faces India in Opening Clash
-
-*2025-09-30 07:51:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/women%e2%80%99s-cricket-world-cup-2025-kicks-off-today-sri-lanka-faces-india-in-opening-clash) · `en`
-
-...
-
-[Data](articles/1aca7e5e.json)
-
-[Extended Data](ext_articles/1aca7e5e.ext.json)
 
 ---

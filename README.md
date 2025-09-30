@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 01:56:30**
+As of **2025-10-01 02:07:50**
 
 ## Newspaper Stats
 
-*Scraped **79,996** Articles*
+*Scraped **80,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,604
 adalk | 7,699
 adaderanalk | 10,318
 tamilmirrorlk | 11,954
-virakesarilk | 13,048
+virakesarilk | 13,064
 adaderanasinhalalk | 13,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,996 (100.0%) of 79,996 articles have been extended.
+79,996 (100.0%) of 80,012 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,6 +175,20 @@ Ada Derana stated that the bus driver has been arrested in connection with the a
 
 ---
 
+### SAARC மரபுரிமை மன்றம் 2025 இல் பிரதமர் பங்கேற்பு
+
+*2025-09-30 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226530) · `ta`
+
+பிராந்திய கலை, கலாசாரம், மரபுரிமைத் தளங்கள், அருங்காட்சியகங்கள் மற்றும் ஆவணக் காப்பகங்களை ஊக்குவிப்பதற்காக, இலங்கை அரசாங்கத்தின் ஆதரவுடன் கலாசார மையத்தினால் (SCC) ஏற்பாடு செய்யப்பட்ட SAARC மரபுரிமை மன்றம் 2025 அங்குரார்ப்பணக் கூட்டத்தில் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய செவ்வாய்க்கிழமை (30) (செப்டம்பர் 30) கொழும்பில் உள்ள தேசிய அருங்காட்சியகத்தில் கலந்துகொண்டார். இந்த மன்றம் செப்டம்பர் 30 முதல் அக்டோபர் 02 வரை நடைபெற இருக்கின்றது.
+
+SAARC மரபுரிமை மன்றம் 2025, தொல்லியல், கலாசாரப் பாரம்பரியம் மற்றும் அருங்காட்சியகத் துறைசார் நிபுணர்கள், வல்லுநர்கள் மற்றும் அறிஞர்களை ஒன்றிணைத்து, தெற்காசியாவின் வளமான கலாசார மரபுரிமைகளைப் பாதுகாத்தல் மற்றும் மேம்படுத்துதல் ஆகியவற்றை இலக்காகக் கொண்ட கலந்துரையாடல்களை ஏற்பாடு செய்வதற்கும், அறிவைப் பகிர்ந்து கொள்வதற்கும், புத்தாக்க அணுகுமுறைகளை ஆராய்வதையும் இலக்காகக் கொண்டுள்ளது.
+
+...
+
+[Data](articles/284a911d.json)
+
+---
+
 ### The price of three types of fuel down
 
 *2025-09-30 22:36:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනධන-වරග-තනක-මල-පහළට/101-680524) · `si`
@@ -239,6 +253,24 @@ General Secretary of the All Ceylon Medical Laboratory Science Association, Wasa
 
 ---
 
+### மட்டு. ராமகிருஷ்ண மிஷன் பள்ளியில் முகாமிட்டிருந்த இராணுவ முகாம் அகற்றம் ; கல்வி செயல்பாட்டிற்கு இடமளிக்கப்பட்டுள்ளது
+
+*2025-09-30 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226529) · `ta`
+
+1990 ஆம் ஆண்டு முதல்  மட்டக்களப்பு முறக்கொட்டான்சேனை இராமகிருஷ்ண மிஷன் வித்தியாலயத்தில முகாமிட்டிருந்த இராணுவ முகாமானது 35 வருடங்களின் பின்னர் செவ்வாய்க்கிழமை (30) அகற்றப்பட்டு மாணவர்களின் கற்றல் செயற்பாட்டிற்கு இடமளிக்கப்பட்டுள்ளது.
+
+இது தொடர்பான உத்தியோக பூர்வ நிகழ்வு செவ்வாய்க்கிழமை (30) முறக்கொட்டான்சேனை இராமகிருஷ்ண மிஷன் வித்தியாலய இராணுவ முகாமில் நடைபெற்றது.
+
+இராணுவத்தினரினால் ஏற்பாடு செய்யப்பட்ட குறித்த நிகழ்வில் கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அபிவிருத்தி அமைச்சர் சுனில்ஹந்துனித்தி கலந்து கொண்டார்.
+
+இதன்போது இராமகிருஷ்ணமிஷன் வித்தியாலய வளாகமானது  அமைச்சர் சுனில்ஹந்துனித்தியினால் அரசாங்க அதிபர் ஜே.எஸ்.அருள்ராஜ் முன்னிலையில் கிரான் பிரதேச செயலாளர் கே.சித்திரவேலிடம் உத்தியோக பூர்வமாக கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/02c4aaef.json)
+
+---
+
 ### Australia updates student visa evidence levels: Sri Lanka now among low-risk countries
 
 *2025-09-30 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113090/australia-updates-student-visa-evidence-levels-sri-lanka-now-among-low-risk-countries) · `en`
@@ -260,6 +292,24 @@ All institutions registered under the Commonwealth Register of Institutions and 
 [Data](articles/066bafce.json)
 
 [Extended Data](ext_articles/066bafce.ext.json)
+
+---
+
+### நிப்பொன் மன்றத்தின் ஸ்தாபக தலைவருக்கும் ஜனாதிபதிக்கும் இடையில் கலந்துரையாடல்
+
+*2025-09-30 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226528) · `ta`
+
+ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, செவ்வாய்க்கிழமை (30) காலை டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் நிப்பொன் மன்றத்தின்  ஸ்தாபக தலைவர் யொஹெய் சசகாவாவைச் சந்தித்து கலந்துரையாடலில் ஈடுபட்டார்.
+
+ஜப்பானுக்கும் இலங்கைக்கும் இடையிலான நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவது குறித்து விசேட கவனம் செலுத்தப்பட்டது.
+
+இலங்கையில் உள்ள அனைத்து சமூகங்களின் வாழ்வாதாரத்தை மேம்படுத்துவதற்கு யொஹெய் சசகாவா தனது தொடர்ச்சியான ஆதரவை வழங்குவதாக இதன் போது அவர் ஜனாதிபதியிடம் தெரிவித்தார். வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் அவர் முன்வைத்தார்.
+
+இலங்கை மக்களின் முன்னேற்றம் மற்றும் நல்வாழ்வை மேம்படுத்துவதற்கான முயற்சிகளுக்கும், இலங்கையில் சமூக சேவைக்கான அவரது நீண்டகால அர்ப்பணிப்புக்கும் யொஹெய் சசகாவாவுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது நன்றியைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/3c0b9589.json)
 
 ---
 
@@ -337,6 +387,40 @@ There is no change in the price of petrol Octane 92 and super diesel.
 
 ---
 
+### கொழும்பில் மர்மமான முறையில் இருவர் உயிரிழப்பு
+
+*2025-09-30 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226527) · `ta`
+
+கொழும்பின் இரு வேறு பகுதிகளில் மர்மமான முறையில் உயிரிழந்த இருவரது சடலம்  திங்கட்கிழமை (29) பொலிஸாரால் மீட்கப்பட்டன.
+
+கொழும்பு கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட இங்குருகடே சந்திக்கருகில் உள்ள ஜாடி வாவியிலிருந்து மர்மமான முறையில் உயிரிழந்த அடையாளம் தெரியாத  நபர் ஒருவரது சடலம் பொலிஸாரால் மீட்கப்பட்டது. பிற்பகல் 5.20 மணியளவில் பொலிஸாருக்கு பிரதேசவாசிகள் வழங்கிய தகவலுக்கமைய சம்பவ இடத்திற்கு வருகை தந்திருந்த பொலிஸார் சடலத்தை மீட்டு  விசாரணைகளை முன்னெடுத்திருந்தனர்.  சுமார் 35 தொடக்கம் 40 வயது மதிக்கத்தக்க 5 அடி 4 அங்குலம் உயரமான நபர் ஒருவரே இவ்வாறு  உயிரிழந்துள்ளார்.
+
+அவர் இறுதியாக கருப்பு நிற அறை காட் சட்டையும், கருப்பு நிற மேற்சட்டையும் அணிந்திருந்ததாக விசாரணை அதிகாரிகள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/2f7a9cb8.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் எரிபொருள் விலை குறைப்பு! -  எரிசக்தி அமைச்சு
+
+*2025-09-30 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226525) · `ta`
+
+மாதாந்த எரிபொருள் விலை திருத்தத்தின் படி, சில எரிபொருட்களின் விலைகள் இன்று நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் குறைக்கப்பட்டுள்ளதாக எரிசக்தி அமைச்சு அறிவித்துள்ளது.
+
+இதன்படி, 95 ஒக்டேன் பெட்ரோல் லீட்டருக்கு ரூ.06 குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை ரூ.335 என நிர்ணயிக்கப்பட்டுள்ளது. ஆனால் 92 ஆக்டேன் பெட்ரோல் விலையில் மாற்றமில்லை.
+
+அதேபோல், லங்கா ஆட்டோ டீசல் விலை லிட்டருக்கு ரூ.06 குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை ரூ.277 ஆகும். சூப்பர் டீசல் விலையில் மாற்றமின்றி தொடர்கிறது.
+
+மேலும், மண்ணெண்ணெய் விலை லிட்டருக்கு ரூ.05 குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை  ரூ.180 என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1fcd78ca.json)
+
+---
+
 ### Fuel prices reduced
 
 *2025-09-30 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113089/fuel-prices-reduced) · `en`
@@ -352,6 +436,22 @@ Meanwhile, there will be no change in the prices of Petrol 92 Octane and Super D
 [Data](articles/ecfb6a8c.json)
 
 [Extended Data](ext_articles/ecfb6a8c.ext.json)
+
+---
+
+### மட்டக்குளியில் போதைப்பொருள், போதை மாத்திரையுடன் சந்தேகநபர் ஒருவர் கைது
+
+*2025-09-30 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226526) · `ta`
+
+கொழும்பு மட்டக்குளி பகுதியில் வெவ்வேறு வகையான போதைப்பொருள் மற்றும் போதை மாத்திரைகளுடன் சந்தேகநபர் ஒருவர் மேல் மாகாண வடக்கு குற்ற விசாரணைப் பிரிவால் கைது செய்யப்பட்டுள்ளார்.
+
+மட்டக்குளி பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் மேல் மாகாண  வடக்கு குற்ற விசாரணைப் பிரிவு அதிகாரிகள் இரகசிய தகவலுக்கமைய விசேட சுற்றிவளைப்பு நடவடிக்கை  ஒன்றை முன்னெடுத்து திங்கட்கிழமை (29) பிற்பகல் போதைப்பொருளுடன் சந்தேக நபர் ஒருவரை கைது செய்திருந்தனர். 38 வயதுடைய மட்டக்குளி சமித்புர பகுதியை சேர்ந்த நபர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபரிடமிருந்து ஹேஸ் போதைப்பொருள் 33 கிலோ 270 கிராம், ஹெரோயின் கிராம் 408, போதை மாத்திரைகள் 200 மற்றும் விற்பனைக்காக தயாரிக்கப்பட்ட 7400 ஹெரோயின் துண்டுகளும் அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளது. குறித்த சந்தேகநபர் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களில் ஈடுபடுபவரும் போதைப்பொருள் வர்த்தகருமான நபர் ஒருவருடன் நெருங்கிய தொடர்பை பேணி வந்தவர் என விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/b9ea2464.json)
 
 ---
 
@@ -388,6 +488,34 @@ ECONOMYNEXT – Agents for China’s BYD in Sri Lanka, JKCG Auto said it is offe
 [Data](articles/1088161a.json)
 
 [Extended Data](ext_articles/1088161a.ext.json)
+
+---
+
+### சிரேஷ்ட பொலிஸ் அதிகாரி சதீஷ் கமகேவுக்கு பிணை வெளிநாடு செல்லவும் தடை விதித்தது நீதிமன்றம்
+
+*2025-09-30 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226523) · `ta`
+
+பொலிஸாரின் சேவையை பெறுவதற்கு வருகை தந்திருந்த நபர்களிடமிருந்து சுமார் 1 கோடியே 40 இலட்சம் ரூபா  பணத்தை இலஞ்சமாக பெற்ற  குற்றச்சாட்டில் கைது செய்யப்பட்ட பொலிஸ் விசேட அதிரடிப் படை தலைமையக கலாச்சார பிரிவின் சிரேஷ்ட பொலிஸ் அதிகாரி சதீஷ் கமகே பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+அதற்கமைய சிரேஷ்ட பொலிஸ் அதிகாரி சதீஷ் கமகேவுக்கு தலா 20 இலட்சம் ரூபா பெறுமதியான இரு சரீரப் பிணைகள் மற்றும் ஒரு இலட்சம் ரூபா பெறுமதியான ரொக்க பிணை  விதித்து  சந்தேகநபரை பிணையில் விடுவிக்குமாறு நீதவான் உத்தரவிட்டிருந்தார்.
+
+...
+
+[Data](articles/c40ae778.json)
+
+---
+
+### சாவகச்சேரியில் காருடன் மோட்டார் சைக்கிள் மோதி விபத்து இருவர் படு காயம்!
+
+*2025-09-30 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226522) · `ta`
+
+30ஆம் திகதி செவ்வாய்க்கிழமை மாலை சாவகச்சேரி நுணாவில் வைரவர் கோயில் சந்தியில்,  மோட்டார் சைக்கிளும் காரும் ஒன்றுடன் ஒன்று மோதி விபத்து சம்பவித்துள்ளது. இதன்போது இருவர் காயமடைந்துள்ளனர்.
+
+காயமடைந்த நபர்கள் சிகிச்சைக்காக சாவகச்சேரி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இச் சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/a05866b9.json)
 
 ---
 
@@ -490,6 +618,22 @@ These observations have been made in a joint letter to the President, issued wit
 [Data](articles/f361427c.json)
 
 [Extended Data](ext_articles/f361427c.ext.json)
+
+---
+
+### பல மாவட்டங்களில் கடும் வெப்பம் – வானிலை ஆய்வுத் துறை எச்சரிக்கை
+
+*2025-09-30 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226521) · `ta`
+
+பல மாவட்டங்களில் நிலவும் வெப்பமான வானிலை குறித்து வானிலை ஆய்வுத் துறை ஒரு எச்சரிக்கை விடுத்துள்ளது.
+
+வடமத்திய மற்றும் கிழக்கு மாகாணங்கள் மற்றும் வவுனியா, முல்லைத்தீவு மற்றும் மொனராகலை மாவட்டங்களுக்கு மனித உடலால் உணரப்படும் வெப்பம் கவனம் செலுத்த வேண்டிய அளவில் இருக்கக்கூடும் என்று அந்த எச்சரிக்கை தெரிவிக்கிறது.
+
+அதன்படி, இந்த விஷயத்தில் கவனம் செலுத்தப்பட்டு வருகிறது, மேலும் மனித ஆரோக்கியத்தில் ஏற்படக்கூடிய தாக்கத்தைக் குறைக்க முடியும்.
+
+◼️
+
+[Data](articles/68b97914.json)
 
 ---
 
@@ -681,6 +825,38 @@ The suspects were owned by Russell Smith, the drug dealer in Dubai, Dubai Smith.
 
 ---
 
+### இலஞ்ச ஊழல் ஆணைக்குழுவின்  பணிப்பாளர் நாயகம் பதவி விலக வேண்டும்  - பொதுஜன பெரமுன
+
+*2025-09-30 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226513) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய ஆணைக்குழுவின் பணிப்பாளர் நாயகம் மக்கள் விடுதலை முன்னணியின் சட்ட பிரிவில் உறுப்பினராக பதவி வகித்ததாக அக்கட்சியின் முன்னாள் உறுப்பினர் குற்றஞ்சாட்டியுள்ளார். ஆணைக்குழுவின் சுயாதீனத்தை கருத்திற்கொண்டு பணிப்பாளர் நாயகம் உடன் பதவி விலக வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (30) நடைபெற்ற தொகுதி அமைப்பாளர்களுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சட்டவாட்சியை மேற்கொள்வதாக குறிப்பிட்டுக் கொண்டு அரசாங்கம் எதிர்க்கட்சியினரை இலக்குப்படுத்தியுள்ளது.  பொலிஸ் திணைக்களம் முறையற்றதாக செயற்படுகிறது.மக்கள் விடுதலை முன்னணியின் காரியாலயத்தில் அரசியல் செயற்பாட்டாளராக இருந்த சானி அபேசேகர குற்றப்புலனாய்வு திணைக்களத்தில் பணிப்பாளராக நியமிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/b72424ec.json)
+
+---
+
+### நிலையற்ற கொள்கைகள், அதிகாரத்துவ  மட்டுப்பாடுகளால் அமெரிக்க முதலீடுகளில் பின்னடைவு - அமெரிக்க இராஜாங்க திணைக்கள அறிக்கையில் சுட்டிக்காட்டு
+
+*2025-09-30 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226512) · `ta`
+
+முன்னெதிர்வுகூறமுடியாத அல்லது கணிக்கமுடியாத ஒழுங்கமைப்பு, அதிகாரத்துவ மட்டுப்பாடுகள் மற்றும் தெரிவுசெய்யப்பட்ட சூழ்நிலைகளின்போது மாத்திரம் வெளிப்படைத்தன்மை பேணப்படல் உள்ளிட்ட காரணங்களால் தகவல் தொழில்நுட்பம், வலுசக்தி, விமானப்போக்குவரத்து மற்றும் பாதுகாப்பு உள்ளிட்ட துறைகளில் மிகையான ஆர்வமுள்ள போதிலும், அவற்றில் அமெரிக்க நிறுவனங்களின் பரந்துபட்ட பங்கேற்பு பின்னடைவான நிலையில் இருப்பதாக அமெரிக்க இராஜாங்கத்திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+
+2025 இல் இலங்கையில் முதலீடுகளுக்கான நிலைவரம் குறித்து அமெரிக்க இராஜாங்கத் திணைக்களத்தினால் வெளியிடப்பட்டிருக்கும் விரிவான அறிக்கையிலேயே மேற்கண்டவாறு சுட்டிக்காட்டப்பட்டுள்ளது.
+
+அவ்வறிக்கையில் வாக்குறுதிகள் நிறைந்த, இருப்பினும் கட்டமைப்பு ரீதியான நெருக்கடிகளால் தடைப்பட்டுள்ள இலங்கைப் பொருளாதாரத்தின் முக்கிய கூறுகள் பற்றிய விபரங்கள் உள்வாங்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/9dc04f93.json)
+
+---
+
 ### Detection was revealed that the Thajudin was killed in the car
 
 *2025-09-30 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215192) · `si`
@@ -726,6 +902,24 @@ Accordingly, Rs. 244 billion will be credited to bank accounts of 217,645 famili
 [Data](articles/8f98696b.json)
 
 [Extended Data](ext_articles/8f98696b.ext.json)
+
+---
+
+### மலேசியாவில் உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் மாநாடு ; சிறப்பு பேச்சாளராக இ.தொ.கா தலைவர் செந்தில் தொண்டமான் பங்கேற்பு
+
+*2025-09-30 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226520) · `ta`
+
+மலேசியாவில் கோலாலம்பூரில் நடைபெற்ற உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் மாநாட்டில் சிறப்பு பேச்சாளராக இலங்கை தொழிலாளர் காங்கிரஸ் கட்சியின் தலைவர் செந்தில் தொண்டமான் கலந்துகொண்டார்.
+
+“அம்மா அப்பா தான் ஒரு குழந்தை தனது வாழ்நாளில் முதலில் சொல்ல ஆரம்பிக்கும் வார்த்தை. ஆனால் அந்த வார்த்தைகள் இன்று மாறி மம்மி, டேடி என தமிழர்கள் வீட்டில் எப்போது பிரயோகிக்க ஆரம்பித்தார்களோ, அப்பொழுதே தமிழ் கலாசாரம் சீர்குலைந்து ஆங்கிலேயர்களின் கலாசாரம் தலைதூக்க ஆரம்பித்தது.
+
+பிரித்தானிய காலனித்துவ ஆட்சிக் காலத்தில் கலாசார சீர்குலைவு என்பது மொழியில் ஆரம்பித்து ஒவ்வொரு வீடாக ஆட்கொள்ளத் தொடங்கியது.
+
+ஆங்கிலேயரின் கலாசாரத்தை நாகரிகமாக கருத தொடங்கியதில் இருந்து, ஒவ்வொரு காலப்பகுதிகளிலும் ஒவ்வொரு தமிழ் கலாசார அழிவுகள் தொடர்ந்தும் இடம்பெறத் தொடங்கின. அவ்வாறிருக்கும் நிலையில், உலகத் தமிழ் பண்பாட்டு இயக்கத்தின் பன்னாட்டுத் தலைவர் பா.கு. சண்முகம் அவர்கள் தமிழ் கலாசாரத்தை பாதுகாத்தல், சான்றோர்களை கௌரவித்தல், போன்ற நல்ல வேலைத்திட்டங்களை மலேசியாவில் முன்னுதாரணமாக செய்து வருகிறார்.
+
+...
+
+[Data](articles/5757e740.json)
 
 ---
 
@@ -788,6 +982,20 @@ Accordingly, the Department has requested the public to minimize the impact of h
 [Data](articles/ec9a4ae1.json)
 
 [Extended Data](ext_articles/ec9a4ae1.ext.json)
+
+---
+
+### இந்தியர்கள் இலங்கை கடலில்  சட்டவிரோதமாக மீன்பிடிப்பதை நிறுத்த தேசிய மக்கள் சக்தி அரசாங்கம் அர்த்தமுடைய நடவடிக்கை எடுக்க வேண்டும்
+
+*2025-09-30 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226515) · `ta`
+
+தமிழ்நாடு மாநிலத்தை சேர்ந்த இந்திய மீனவர்கள் இலங்கையின் வடபிராந்திய கடற்பரப்பில் சட்டவிரோதமாக மீன்பிடிப்பது மற்றும் ஈழுவைப்படகுகளைப் பயன்படுத்துவது தொடர்பிலான தற்போதைய பிரச்சினையை இரு வாரங்களுக்கு முன்னர் எழுதிய இந்த கட்டுரையின் முதல் பாகத்தில் விரிவாக விளக்கிக் கூறியிருந்தேன்.
+
+இந்த பிரச்சினையை திசைதிருப்புவதற்காக இந்திய தரப்பினால் கிளப்பப்படுகின்ற கச்சதீவுப் பூச்சாண்டி தொடர்பில் அந்த பாகத்தில் குறிப்பாக கவனம் செலுத்தப்பட்டது.  முன்னதாக வலியுறுத்தக் கூறப்பட்டதைப் போன்று அடிப்படைப் பிரச்சினை இலங்கையின் கடற்பரப்பில் இடம்பெறுகின்ற சட்டவிரோத மீன்பிடியே தவிர, கச்சதீவின் உடைமை பற்றிய விவகாரம் அல்ல. தமிழ்நாட்டு மீனவர்களின் சட்டவிரோத மீன்பிடி தொடர்பாக குறிப்பிட்ட சில முக்கியமான விடயங்களை கட்டுரையின்  இரண்டாவதும் இறுதியுமான இந்த பாகத்தில் விளக்கிக் கூறவிருக்கிறேன்.
+
+...
+
+[Data](articles/ac5a23f0.json)
 
 ---
 
@@ -1049,6 +1257,26 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others partic
 
 ---
 
+### பரஸ்பர மரியாதையுடன் கலாசாரத்தில் சமகாலத்தவர்கள்– மஹிந்த ராஜபக்ஷ
+
+*2025-09-30 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226508) · `ta`
+
+பரஸ்பர மரியாதையை தொடர்ந்து பேணிச்செல்ல முடியுமான  அரசில் கலசாரத்தில் நாங்கள் இருவரும் சமகாலத்தவர்கள் என முன்னாள் ஜனாதிபதி  மஹிந்த ராஜபக்ஷ் தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கடந்த ஞாயிற்றுக்கிழமை  முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ்வை அவரது கால்டன் இல்லத்திற்கு வந்து சந்தித்து சென்றமை தொடர்பில் அவரது முகப்புத்தகத்தில் இவ்வாறு பதிவு செய்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் எனக்குமிடையில் சந்திப்பொன்று தங்கல்லை கால்டன் இல்லத்தில் இடம்பெற்றது. அங்கு  நாங்கள் இருவரும் மிகவும் சினேகபூர்வமான கலந்துரையாடலில் ஈடுபட்டருந்தோம்.
+
+அரசியல் ரீதியில் நாங்கள் இருவரும் வேறு நிலைப்பாட்டை வகித்தபோதும் தேசியப் பொறுப்புகளை நிறைவேற்றும் அதே வேளையில் பரஸ்பர மரியாதையைப் பேணக்கூடிய ஒரு அரசியல் கலாசாரத்தின் சமகாலத்தவர்கள்.
+
+அன்புக்குரிய ரணில் விக்ரமசிங்கவின் வருகை தொடர்பில் நன்றியை தெரிவித்துக்கொள்கிறேன். அதேபோன்று மைத்திரி விக்ரமசிங்கவையும்  மரியாதையுடன் நினைவு கூருகிறேன்.
+
+◼️
+
+[Data](articles/5db4f09d.json)
+
+---
+
 ### Japan's Nippon Foundation Pledges Support for Sri Lanka
 
 *2025-09-30 17:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/japan-s-nippon-foundation-pledges-support-for-sri-lanka) · `en`
@@ -1166,6 +1394,24 @@ Therefore, the new Municipal Commissioner who serves the public is that the city
 [Data](articles/dacc07fe.json)
 
 [Extended Data](ext_articles/dacc07fe.ext.json)
+
+---
+
+### அடுத்த ஆண்டு வரவு செலவு திட்டம்  பாரிய வித்தியாசம் இருக்கப்போவதில்லை ; கடன் சுமையுடன் அமையும் - புபுது ஜயகொட
+
+*2025-09-30 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226505) · `ta`
+
+அரசாங்கத்தின் அடுத்த வருட நிதி ஒதுக்கீட்டு சட்டமூலத்தை பார்க்கும்போது, இதுவரை கால வரவு செலவு திட்டத்துக்கும் அடுத்த வருட வரவு செலவு திட்டத்துக்கும் பாரிய வித்தியாசம் இருக்கப்போவதில்லை.  பாரிய கடன் சுமைகளையுடைய வரவு செலவு திட்டமாக அமையும் என்றே எதிர்பார்க்கிறோம் என முன்னிலை சோசலி கட்சியின் கல்விச் செயலாளர் புபுது ஜயகொட தெரிவித்தார்.
+
+அரசாங்கம் அடுத்த வருடத்துக்கு சமர்ப்பிக்க  இருக்கும் வரவு செலவு திட்டம் தொடர்பில் செவ்வாய்க்கிழமை (30) ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+அரசாங்கத்தின் அடுத்த வருடத்துக்கான நிதி ஒதுக்கீடு சட்டமூலம் வர்த்தமானி படுத்தப்பட்டிருக்கிறது. அதில் பல்வேறு அமைச்சுக்களுக்கு நிதி ஒதுக்கி இருப்பதை பார்க்கும்போது,  இதுவரை காலம் நாங்கள் கண்ட வரவு  செலவு திட்டத்துக்கும் இதற்கும் பெரிய வித்தியாசம் காணக்கூடியதாக இல்லை.
+
+ஆனால் அரசாங்கம் வருமானத்தை ஈட்டிக்கொள்ளும் வழிகளை, அரசாங்கம் வரவு செலவு திட்ட அறிக்கையை சமர்ப்பித்த பின்னரே எங்களுக்கு தெரிந்துகொள்ள முடியுமாகும்.
+
+...
+
+[Data](articles/fe07d13a.json)
 
 ---
 
@@ -1330,6 +1576,22 @@ The case was taken out by the Gampaha High Court today (30).
 [Data](articles/ab77b299.json)
 
 [Extended Data](ext_articles/ab77b299.ext.json)
+
+---
+
+### நடராஜா ரவிராஜ் படுகொலை விவகாரம் : சம்பத் மனம்பேரி சாட்சியாளரே தவிர சந்தேக நபரல்ல - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+
+*2025-09-30 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226501) · `ta`
+
+போதைப்பொருள் விவகாரத்தில் சந்தேக நபராக கைது செய்யப்பட்டுள்ள பொதுஜன பெரமுனவின் முன்னாள் உறுப்பினர் சம்பத் மனம்பேரி நடராஜா ரவிராஜ் படுகொலை விவகாரத்தில் சந்தேக நபரல்ல, அவர் சாட்சியாளர், அவருக்கு எதிராக இந்த விடயத்தில் வழக்குத் தாக்கல் செய்யப்படவில்லை என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+
+எமது கட்சி சார்பில் பல்லயிரக்கணக்கானோர் தேர்தலில் முன்னிலையானார்கள். இவற்றில் குற்றவாளிகளும், சமூக விரோத செயற்பாடுகளில் ஈடுபட்டவர்களும் இருக்க முடியும்.அனைவரின் பின்னணியும் எமக்குத் தெரியாது எனவும் குறிப்பிட்டார்.
+
+கேள்வி ; நாட்டின் பல்வேறு பகுதிகளில் தொகை கணக்கில் அகப்படும் ஐஸ்போதைப்பொருள் உற்பத்திக்கான மூலப்பொருள் தொடர்பில் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் முன்னாள் உறுப்பினர் சம்பத் மனம்பேரி கைது செய்யப்பட்டுள்ளார்.பாதாள குழுக்களுடன் இவர் நேரடியாக தொடர்புக் கொண்டுள்ளமை நீதிமன்ற அறிக்கையிடலுடன் தற்போது வெளிப்படுகிறது.
+
+...
+
+[Data](articles/b56487ec.json)
 
 ---
 
@@ -1704,311 +1966,5 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others partic
 [Data](articles/955ca1eb.json)
 
 [Extended Data](ext_articles/955ca1eb.ext.json)
-
----
-
-### How to get a police permit?
-
-*2025-09-30 16:00:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அனுமதிப்-பத்திரம்-பெறுவது-எப்படி/175-365533) · `ta`
-
-Police permits are issued for domestic and foreign purposes. For domestic purposes, applicants can obtain bonds from local police stations by submitting an application letter with a copy of their National Identity Card, a valid driver's license or a valid passport.. Police stations provide a sample application form to assist applicants.
-
-The government -approved fees for domestic securities are as follows: Securities issued by local police stations Rs.. 500, bonds issued by police officers for home use Rs.. ௩௦௦. If fingerprint verification is required, Rs.. 500 is charged. Tages (Form 172) will be issued after payment.
-
-◼️
-
-[Data](articles/eb8b7da7.json)
-
-[Extended Data](ext_articles/eb8b7da7.ext.json)
-
----
-
-### Debt Restructuring Is Just the Start - Fiscal Discipline Is Key
-
-*2025-09-30 16:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/debt-restructuring-is-just-the-start-fiscal-discipline-is-key) · `en`
-
-...
-
-[Data](articles/e9b0f34a.json)
-
-[Extended Data](ext_articles/e9b0f34a.ext.json)
-
----
-
-### YouTube President Trumps Trump to Trump Domy. 24.5 pays
-
-*2025-09-30 15:59:48* · [`adalk`](https://www.ada.lk/technology/නඩුව-සමතයට-යූ-ටියුබ්-ජනපති-ට්‍රම්ප්ට-ඩො-මි--24-5ක්-ගෙවයි/5-418822) · `si`
-
-Monday, Monday, a court jurisdiction was prompted to pay a court to pay a case against US president Donald Trump to resolve his account after the US Capital Riots in January 2021.
-
-Trump in July 2021, Facebook owner had sued Google and their CEOs in Alfabet, as well as the XAbet's.
-
-Under YouTube Settlement, $ 22 million to the custody of the National Shopping Complex for Trump. The remaining $ 2.5 million, writer Naomi Wolf and other parties relating to the other parties including the US Conservative Association.
-
-◼️
-
-[Data](articles/b6fcf063.json)
-
-[Extended Data](ext_articles/b6fcf063.ext.json)
-
----
-
-### "We are ready if Sri Lanka is a clear statement
-
-*2025-09-30 15:55:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකව-පහදල-පරකශයක-කළත-අප-සදනම/1-680504) · `si`
-
-Mr. Segarayan said that Russia is ready to expand its oil refinery to expand its oil refinery and to support the country's oil energy.
-
-The Russian Ambassador said that he met with the Energy Minister Kumara Jayakody today (01) to resolve several issues in the country.
-
-Sri Lanka's Ambassador Levan Segarayan stated that if Sri Lanka is ready to support Russia due to sanctions, and Russia is ready to support Russia in Russia yesterday (30).
-
-He said that Russia is ready to support Sri Lanka with any necessary aspect.
-
-The Ambassador said that although it was reported that the request was rejected by the BRICS, the request was rejected in Sri Lanka.. He said that other members should consult.
-
-Mr. Segarayan said that the purchase of Russia's oil was very proud.
-
-The Ambassador said that Erofflot for six months after the end of direct flights between Russia and China, russian tourists will be resumed in October.
-
-...
-
-[Data](articles/31a3d820.json)
-
-[Extended Data](ext_articles/31a3d820.ext.json)
-
----
-
-### After 13 years, the suspect who pursued trailing suspect
-
-*2025-09-30 15:54:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpd95wvdlexo) · `si`
-
-After 13 years, the suspect who pursued trailing suspect
-
-Acting Police Media Spokesperson Assistant Superintendent of Police Media Spokesman Assistant Superintendent of Police. 30 Special Detection said.
-
-He said that the day he was killed in the murdered in the murdered in the murdered by the killing of the Tajudeen, he was heading to a Supermarket shop to buy a bottle of water.
-
-When the CCTV footage was inspected on the vehicle, it was reported that there was another person near it.
-
-The Acting Police Media Spokesperson stated that almost 9 years ago, the Criminal Investigations Department (CID) has failed to issue visions to the media about 9 years ago.
-
-However, the wife of the 'Middiyana Kibra' alias Auna, or Aruna Shantanagama's wife has confirmed that the man was killed in the recent past.
-
-"Baco Saman 'has been accused from Indonesia from Indonesia recently on February 18 this year.
-
-...
-
-[Data](articles/b016619b.json)
-
-[Extended Data](ext_articles/b016619b.ext.json)
-
----
-
-### Sathis, Prasanna bail
-
-*2025-09-30 15:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதீஸ்-பிரசன்னவுக்கு-பிணை/175-365532) · `ta`
-
-The Colombo Chief Magistrate's Court on Tuesday (30) ordered the release of SSP Satish Kamage, Deputy Director of the Cultural Division of the Police Department, which is being remanded.  In addition, the court has ordered Satish Kamage to pay foreign travel.
-
-The Gampaha High Court on Tuesday (30) ordered the release of former minister Prasanna Ranweera on bail.  Accordingly, the magistrate has ordered the release of Prasanna Ranavira on a cash bail worth Rs 5 lakh and five lakhs of rupees worth Rs 5 lakh.
-
-◼️
-
-[Data](articles/eb01674e.json)
-
-[Extended Data](ext_articles/eb01674e.ext.json)
-
----
-
-### Prime Minister's decision on Muslim students' clothing
-
-*2025-09-30 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226500) · `ta`
-
-In a letter to the Prime Minister, Nikasa Sharpin, the head of the Woman Corps - Sri Lanka's Corps - Sri Lanka, said in a letter to the Prime Minister Harini Amarasuriya's decision to educate Muslim students in the country with their cultural garment.
-
-At the Advisory Committee meeting of the Ministry of Education, Higher Education and Vocational Training, the resolution was a strong blow to the ethnic thinkers and the goodwill and confidence in the state among Muslim students and mothers.. I would like to thank the Muslim students and women of this country for this resolution.
-
-Despite the laws regarding the dress of Muslim students, we cannot forget that these people have faced various discomforts in the past during exams and educational learning.
-
-In his letter, he said that we can observe that there is a good opinion among the people when they look at some community and the country's benefit.
-
-◼️
-
-[Data](articles/33a543e3.json)
-
-[Extended Data](ext_articles/33a543e3.ext.json)
-
----
-
-### Car bomb kills 10 in Pakistan after militants trigger shootout with troops
-
-*2025-09-30 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113080/car-bomb-kills-10-in-pakistan-after-militants-trigger-shootout-with-troops) · `en`
-
-A powerful car bomb killed 10 people in Pakistan after exploding outside the paramilitary security forces’ headquarters.
-
-Before detonating their vehicle in the southwestern city of Quetta, six attackers who were inside the car stepped outside and engaged troops in an intense shootout, police said.
-
-People living in the area said the blast was so powerful it was heard from miles away.
-
-Dozens were also wounded and taken to hospital after ambulances rushed to the site in front of the Frontier Constabulary.
-
-No group immediately claimed responsibility, though suspicion will fall on separatist groups that often target civilians and security forces in insurgency-plagued Balochistan, where Quetta is the provincial capital.
-
-Provincial health minister Bakhat Kakar said there were fears the number of people killed could rise.
-
-Local television channels and CCTV footage from the site of the explosion shows a car stopping in front of the gate of the paramilitary compound.
-
-...
-
-[Data](articles/1a8f09db.json)
-
-[Extended Data](ext_articles/1a8f09db.ext.json)
-
----
-
-### Appeals court issues directive on vehicles detained by Sri Lanka Customs
-
-*2025-09-30 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113079/appeals-court-issues-directive-on-vehicles-detained-by-sri-lanka-customs) · `en`
-
-The Court of Appeal today (30) ordered Sri Lanka Customs to investigate and report to court by October 10, whether the vehicles currently being detained by Customs can be released on a corporate or personal bond.
-
-This directive was issued during the hearing of approximately 15 writ petitions filed by vehicle importers seeking an order to release vehicles currently held by Sri Lanka Customs.
-
-The petitions were heard before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando.
-
-During the hearing, counsel representing the petitioners submitted that the decision by Sri Lanka Customs to detain the imported vehicles was entirely unlawful.
-
-The counsels further argued that all petitioners strongly opposed a proposal by the Secretary to the Ministry of Finance to release the vehicles upon payment of a 35% surcharge.
-
-...
-
-[Data](articles/8b4128b4.json)
-
-[Extended Data](ext_articles/8b4128b4.ext.json)
-
----
-
-### Japan and Sri Lanka Unite for a Free and Open Indo-Pacific
-
-*2025-09-30 15:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/japan-and-sri-lanka-unite-for-a-free-and-open-indo-pacific) · `en`
-
-COLOMBO (News 1st); Japan and Sri Lanka held talks to deepen cooperation in advancing a Free and Open Indo-Pacific (FOIP) during a high-level bilateral meeting held on September 30 in Tokyo.
-
-The talks brought together Iwaya Takeshi, Japan’s Minister for Foreign Affairs, and Vijitha Herath, Sri Lanka’s Minister of Foreign Affairs, who is accompanying President Anura Kumara Dissanayake as an official guest of Expo 2025 Osaka, Kansai.
-
-Minister Iwaya Takeshi had expressed Japan’s intention to strengthen security cooperation and expand collaboration under the Comprehensive Partnership, building on the long-standing friendship between the two nations.
-
-He highlighted the provision of UAVs for monitoring, surveillance, and disaster relief as the first project under Japan’s Official Security Assistance (OSA) to Sri Lanka.
-
-...
-
-[Data](articles/d6a8b5cd.json)
-
-[Extended Data](ext_articles/d6a8b5cd.ext.json)
-
----
-
-### President's invitation to the Japanese trade community to join the emerging economic opportunities in Sri Lanka
-
-*2025-09-30 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226498) · `ta`
-
-President Anura Kumara Dissanayake has called on the Japanese trade community to further strengthen bilateral trade and investment ties, promote the private sector and to investigate the growing economic opportunities in Sri Lanka.
-
-The President was speaking at the Japanese - Sri Lanka Business Council yesterday (29) at the Headquarters of the Japanese Foreign Trade Organization (JETRO).
-
-The meeting was held at the Japanese Foreign Trade Organization (JETRO) headquarters, and about 200 senior members of the Japanese Business Community participated in the event, Japan's Foreign Trade Organization (JETRO), the Ministry of Economic, Business and Industry (METI), the Sri Lanka Embassy in Japan, the Japanese Trade Cooperation Committee and the Board of Commerce (BOI).
-
-...
-
-[Data](articles/eac1b340.json)
-
-[Extended Data](ext_articles/eac1b340.ext.json)
-
----
-
-### "It is responsible to develop Tamil culture and Tamil language"; Senthil at the Malaysian Conference
-
-*2025-09-30 15:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-கலாச்சாரம்-தமிழ்-மொழியையும்-வளர்க்க-வேண்டியது-பொறுப்பாகும்-மலேசிய-மாநாட்டில்-செந்தில்/175-365531) · `ta`
-
-“Mom and Dad are the word that a child starts to say in his lifetime. But when the words changed today, the Tamil culture of the Tamil culture, the Tamil culture of the Mummy and the Dadi, began to disrupt the culture of the British, said Sri Lanka Workers Congress President Senthil Thondaman.
-
-The Conference of the World Tamil Cultural Movement was held in Kuala Lumpur, Malaysia. CWC leader Senthil Thondaman continues to address the conference as a special speaker at the conference.
-
-During the British colonial rule, cultural disorder began to be started in language and began to fascinate every home.
-
-...
-
-[Data](articles/0ed44c5e.json)
-
-[Extended Data](ext_articles/0ed44c5e.ext.json)
-
----
-
-### Bail for Satish Kamage!
-
-*2025-09-30 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226499) · `ta`
-
-The Colombo Chief Magistrate's Court on Tuesday (30) ordered the release of SSP Satish Kamage, Deputy Director of the Cultural Division of the Cultural Division of the Police Department.
-
-The order was issued when Satish Kamage was produced before the court this morning.
-
-SSP Satish Kamage, Deputy Director of the Cultural Division of the Police Department, has been released on bail as he has been arrested on August 14 by the Bribery and Corruption Commission on several bribes.
-
-◼️
-
-[Data](articles/5a5855a6.json)
-
-[Extended Data](ext_articles/5a5855a6.ext.json)
-
----
-
-### People objected to Nuwara Eliya Municipal Commissioner
-
-*2025-09-30 15:30:44* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය--නාගරික-කොමසාරිස්ට-ජනතාවගේ-විරෝධය/11-418821) · `si`
-
-A group of businesses who have been doing business have for a long time in the city center of the city of Nuwara Eliya have been protesting against the Nuwara Eliya Divisional Secretariat.
-
-The protesters have stated that the pedestrian trade is being carried out on the sidewalks for a period of time in the city center of the city center.
-
-The Urban Commissioner of the Nuwaravawa Municipal Council has no effect that he has been opposed to the current rulers.
-
-We tried to ask the Municipal Commissioner of the Nuwara Eliya Municipal Council regarding this, but it failed.
-
-◼️
-
-[Data](articles/5c3bffb5.json)
-
-[Extended Data](ext_articles/5c3bffb5.ext.json)
-
----
-
-### Prasanna Ranaweera Granted Bail in Land Fraud Case
-
-*2025-09-30 15:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/prasanna-ranaweera-granted-bail-in-land-fraud-case) · `en`
-
-COLOMBO (News 1st); Former State Minister Prasanna Ranaweera, who was in remand custody over allegations of fraudulent land transactions, was released on bail today by the Gampaha High Court.High Court Judge Nayana Senaviratne granted bail under strict conditions, including a cash bail of Rs. 500,000 and five sureties of Rs. 500,000 each. In addition, the court imposed a foreign travel ban and ordered the surrender of his passport.Ranaweera had been remanded in connection with a case involving the sale of state-owned land in Kiribathgoda using forged deeds.
-
-◼️
-
-[Data](articles/152b1959.json)
-
-[Extended Data](ext_articles/152b1959.ext.json)
-
----
-
-### “Expieve the balance of the teacher and the Chancellor's transfers”
-
-*2025-09-30 15:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-அதிபர்-இடமாற்றங்களை-சமநிலைப்படுத்துவதை-துரிதப்படுத்தவும்/175-365530) · `ta`
-
-Harini Amarasuriya, Minister of Education, Higher Education and Labor, said that the balance of teacher and chancellor transfers should be expedited.. Commenting on this, the Prime Minister said that the rejection of the transfers in the education sector has long been a practice, and that it is the only sector in the public service that does not comply with transfers.. The Ministry Advisory Committee also focused on the actions taken against the teachers and principals who failed to comply with such transfers.
-
-He was speaking at the Ministry of Advisory Committee on Education, Higher Education and Labor Affairs under the leadership of Prime Minister (Dr.) Harini Amarasuriya.
-
-...
-
-[Data](articles/cd26a188.json)
-
-[Extended Data](ext_articles/cd26a188.ext.json)
 
 ---

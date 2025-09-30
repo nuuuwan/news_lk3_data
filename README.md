@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 09:56:36**
+As of **2025-09-30 10:09:38**
 
 ## Newspaper Stats
 
@@ -27,21 +27,23 @@ adaderanasinhalalk | 13,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,722 (100.0%) of 79,723 articles have been extended.
+79,723 (100.0%) of 79,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### හක්කා පටස් සහ චීන පටස් සොයා දිවයින පුරා මෙහෙයුම්
+### Sri Lanka operates Hakka tissue and Chinese bills
 
 *2025-09-30 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215164) · `si`
 
-නීතිවිරෝධීව නිෂ්පාදනය කරනු ලබන හක්කා පටස් සහ චීන පටස් භාවිත කරන පුද්ගලයින්ට එරෙහිව නීතිය දැඩිව ක්‍රියාත්මක කරන බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+The law is strictly implemented against people who are illegally produced by the Chinese bulsystems and the Chinese bulses.
 
 ◼️
 
 [Data](articles/c7060bf7.json)
+
+[Extended Data](ext_articles/c7060bf7.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 20:37:34**
+As of **2025-09-30 21:07:28**
 
 ## Newspaper Stats
 
-*Scraped **79,972** Articles*
+*Scraped **79,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,32 @@ economynextcom | 4,756
 islandlk | 4,851
 dailyftlk | 5,604
 adalk | 7,696
-adaderanalk | 10,313
+adaderanalk | 10,316
 tamilmirrorlk | 11,952
 virakesarilk | 13,048
-adaderanasinhalalk | 13,826
+adaderanasinhalalk | 13,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,970 (100.0%) of 79,972 articles have been extended.
+79,975 (100.0%) of 79,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### ඉන්ධන මිල වෙනස් වෙයි
+
+*2025-09-30 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215196) · `si`
+
+අද (30) මධ්‍යම රාත්‍රී 12 සිට බලපැවැත්වෙන පරිදි පහත සඳහන් ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/24a7b210.json)
+
+---
 
 ### 'Ran Dhoni' : Suranga Senanayake’s Debut Book Unveils a Family’s Struggle for Justice
 
@@ -45,49 +57,83 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### ශ්‍රී ලංකාවට ලකුණු 271ක ඉලක්කයක්
+### Sri Lanka a target of 271 runs
 
 *2025-09-30 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215195) · `si`
 
-කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ  ශ්‍රී ලංකාව සහ ඉන්දියාව අතර තරගය මේ වනවිට ඉන්දියාවේ ගුවහාති හිදි පැවැත්වෙයි.
+Sri Lanka and India in the women's World Cup Sri Lanka and India are being held in India.
 
-එම තරගයේ පළමුව පන්දුවට පහරදුන් ඉන්දීය කාන්තා කණ්ඩායම නියමිත පන්දුවාර 47 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 269ක් රැස්කළේය.
+Batting first of the Indian women's group scored 269 runs for the loss of 8 wickets at the end of 47 overs.
 
-තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ නායිකා චමරි අතපත්තුගේ තීරණය වුයේ පළමුව පන්දු රැකීමටය.
+Chamari Atapattu, which won the toss and ganging the coin, was the first to bowl.
 
-ඒ අනුව පළමුව පන්දුවට පහරදීමට පැමිණි ඉන්දිය කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 8ක් ලබාසිටි ස්මෘති මන්දනාව දවාගන්නට ශ්‍රී ලංකා ක්‍රීඩිකාවන් සමත් වුණි.
+Sri Lankan women were able to acquire the first wicket in the Indian team for the first group.
 
-කෙසේ වෙතත් ඉන්දීය ඉනිම අතරතුර තරගයට වර්ෂාවෙන් බාධා එල්ල වීම නිසා තරගයේ එක් ඉනිමක් පන්දුවාර 47කට සීමාකෙරුණි.
+However, due to the race in the Indian innings, however, one innings were restricted to 47 overs.
 
-හාර්ලීන් ඩියෝල් ලකුණු 48කට සහ නායිකා හර්මන්ප්‍රීත් කෞර්ගේ ඉනිම ලකුණු 21කට සීමාකරන්නට ඉනෝකා රණවීර සමත් වුණි.
+Inno Ranaweera passed Harlene Delel in 48 runs and Leader Hermanpio's innings to 21 runs.
 
-ඉන්දීය බනිම වෙනුවෙන් සුපිරි පිතිහරඹයක නිරතවූ අමන්ජොත් කෞර් ලකුණු 57ක් රැස්කළ අතර දීප්ති ෂර්මා නොදැවී ලකුණු 53 රැස්කිරීමට සමත්විය.
+Amanjoth Kori, who was super fooling for India, scored 57 runs while Deepthi Sharma scored 53 not out.
 
-ඒ අනුව තරගය ජයගැනීම සඳහා ඩක්වත් ලුවිස් න්‍යායට අනුව ශ්‍රී ලංකා කාන්තා කණ්ඩායමට හිමිවී ඇති ඉලක්කය 271කි.
+Accordingly, according to the Duck's Lewis theory, the Sri Lankan women's group has won 271.
 
 ◼️
 
 [Data](articles/fd7daa58.json)
 
+[Extended Data](ext_articles/fd7daa58.ext.json)
+
 ---
 
-### කිරි නිෂ්පාදනය වැඩි කරන්න  ජපන්- ලංකා ගිවිසුමක්
+### Two arrested with cocaine worth Rs. 150 million in Panadura
+
+*2025-09-30 19:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/113088/two-arrested-with-cocaine-worth-rs-150-million-in-panadura) · `en`
+
+Two suspects were arrested in the Hirana area of Panadura by the Walana Anti-Vice Squad while in possession of 03 kg of cocaine, valued at around Rs. 150 million, police said.
+
+◼️
+
+[Data](articles/a2dce662.json)
+
+[Extended Data](ext_articles/a2dce662.ext.json)
+
+---
+
+### Increase milk production
 
 *2025-09-30 19:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කර-නෂපදනය-වඩ-කරනන-ජපන-ලක-ගවසමක/101-680521) · `si`
 
-ජපාන  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපන් ජාත්‍යන්තර සහයෝගීතා ඒජන්සියේ (JICA) සභාපති  ටනාකා අකිහිකෝ (Dr. TANAKA Akihiko)  මහතා හමුවී සාකච්ඡාවක නිරත විය.
+President Anura Kumara Dissanayake on a Japanese official visit to the Japanese International Cooperation Aokhako (JICA) at Tokyo. Tanaka Akihiko was found in a discussion.
 
-ජාතික සංවර්ධනයට සැලකිය යුතු දායකත්වයක් ලබා දෙන ජයිකා (JICA)  හරහා සහනදායී යෙන් ණය නැවත  ලබා දීම   ආරම්භ කරමින්  ජපානය ශ්‍රී ලංකාවට ලබා දෙන අඛණ්ඩ සහාය පිළිබඳව ජනාධිපතිවරයා මෙහිදී  සිය කෘතඥතාව පළ කළේය.
+The President expressed his gratitude for the continued assistance to Sri Lanka with the assistance of the Sri Lanka by the JICA, which contributes significant to national development.
 
-ශ්‍රී ලංකාවේ තිරසාර ආර්ථික ප්‍රගතියේ ප්‍රධාන සාධක ලෙස පෞද්ගලික අංශය, කාර්මික සහ කෘෂි කර්මාන්තය යන ක්ෂේත්‍ර සංවර්ධනයේ වැදගත්කම  ජයිකා සභාපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+The SLFP Chairman pointed out the importance of the private sector, industrial and agriculture development as the key to sustainable economic progress in Sri Lanka.
 
-කටුනායක, බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ (BIA) ව්‍යාපෘතිය කඩිනමින් නැවත ආරම්භ කිරීමට කටයුතු කරන බවත්, ශ්‍රී ලංකාවේ සාර්ව ආර්ථික කළමණාකරණය නිරීක්ෂණය කරමින් ශ්‍රී ලංකාව සමඟ පවතින දිගු කාලීන සහයෝගීතාව තව දුරටත් පවත්වා ගෙන යාමට බලාපොරොත්තු වන බවත්  ඔහු ප්‍රකාශ කළේය.
+He said that the Bandaranaike International Airport (BIA) The Bandaranaike International Airport (BIA) will be resumed to be resumed and continuing to maintain long-term cooperation with Sri Lanka by observing the macroeconomic management of Sri Lanka.
 
-බස්නාහිර පළාතේ අපද්‍රව්‍ය කළමණාකරණ සැලැස්ම ක්‍රියාත්මක කිරීම පිළිබඳවද මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
+The discussion was also discussed on the implementation of the waste management plan in the Western Province.
 
 ...
 
 [Data](articles/4eb0a7c5.json)
+
+[Extended Data](ext_articles/4eb0a7c5.ext.json)
+
+---
+
+### Chief Prelates write to President over LGBTQ tourism and corporal punishment ban
+
+*2025-09-30 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113087/chief-prelates-write-to-president-over-lgbtq-tourism-and-corporal-punishment-ban) · `en`
+
+The Chief Prelates of all three Buddhist Chapters emphasized that proposed amendments to the Penal Code introducing an offence for corporal punishment, as well as government initiatives to promote tourism through LGBTQ-related activities, could undermine cultural values and give rise to serious social catastrophes.
+
+These observations have been made in a joint letter to the President, issued with the signatures of the Most Venerable Thibbatuwawe Sri Siddhartha Sumangalabidhana Mahanayake Thero of the Malwatta chapter of Siam Nikaya, Most Venerable Warakagoda Dhammasiddhi Sri Pagghananda Gnanarathanabidhana Mahanayake Thero of the Asgiriya Chapter of the Siam Nikaya, Most Venerable Karagoda Uyangoda Maithree Moorthi Mahanayaka Thero of the Amarapura Maha Nikaya and Most Venerable Makulewe Wimala Mahanayake Thero of the Sri Lanka Ramanna Maha Nikaya.
+
+◼️
+
+[Data](articles/f361427c.json)
+
+[Extended Data](ext_articles/f361427c.ext.json)
 
 ---
 
@@ -178,6 +224,26 @@ However, in 2015, then-DIG of the Colombo Range, Gamini Mathurata, submitted a r
 [Data](articles/029d846c.json)
 
 [Extended Data](ext_articles/029d846c.ext.json)
+
+---
+
+### ‘Kajja’ linked to murder of Wasim Thajudeen?
+
+*2025-09-30 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113086/kajja-linked-to-murder-of-wasim-thajudeen) · `en`
+
+Sri Lanka Police says that it has been confirmed that Anura Vidanagamage, also known as “Kajja”, who was recently shot dead along with his two children in Middeniya, was in the vehicle that had followed slain former Sri Lankan rugby player Wasim Thajudeen’s vehicle moments before the latter was murdered.
+
+Speaking at a press briefing in Colombo today (30), Acting Police Spokesman ASP Minura Senarath stated that this information was uncovered following the interrogation of underworld figure ‘Backhoe Saman’, who was recently arrested in Indonesia and is suspected to have orchestrated the killing of ‘Kajja’, and a statement provided by Kajja’s widow.
+
+On February 18, “Kajja” was shot dead by an unidentified gunman, while his two children, who sustained critical injuries in the attack, succumbed later.
+
+The suspected gunman—who was later arrested along with nine others— had confessed that he carried out the execution on a contract from “Backhoe Saman” due to his own mounting personal debt.
+
+◼️
+
+[Data](articles/76a22002.json)
+
+[Extended Data](ext_articles/76a22002.ext.json)
 
 ---
 
@@ -1906,85 +1972,5 @@ The governance of Sri Lanka made these claims. But the provincial councils have 
 [Data](articles/3e0e2490.json)
 
 [Extended Data](ext_articles/3e0e2490.ext.json)
-
----
-
-### A day-old girl leaves in a bag
-
-*2025-09-30 14:42:48* · [`adalk`](https://www.ada.lk/breaking_news/දිනක්-වයසැති-දැරිවියක්-බෑගයක-දමා-කැසිකිළියක-දමා-යයි/11-418817) · `si`
-
-Azref Nagar 4, a year old girl who had been closed down in a bag of Asrefil 4, who had been closed down in a bag, was placed in a bag.
-
-The child has seen the child has seen a child screaming to the resident of the area.
-
-After telephoned the police to the police, the child was shifted to the Oluvil Regional Hospital, the child was transferred to the Akkaraipattu hospital after being taken to the Oluvil Regional Hospital.
-
-The Akkaraipatuattu is in charge of the hospital staff at the Tigers of the hospital.. Mr. Jaarier said.
-
-The child is a child for three days and the child is healthy.
-
-The Akkaraipattu police are conducting further investigations by Hon
-
-◼️
-
-[Data](articles/2f9a726b.json)
-
-[Extended Data](ext_articles/2f9a726b.ext.json)
-
----
-
-### Former State Minister Prasanna Ranaweera granted bail
-
-*2025-09-30 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113075/former-state-minister-prasanna-ranaweera-granted-bail) · `en`
-
-Former State Minister Prasanna Ranaweera, who was in remand custody over allegations of preparing forged documents to sell state-owned land, has been granted bail by the Gampaha High Court.
-
-The order was issued by Gampaha High Court Judge Nayana Seneviratne, Ada Derana reporter said.
-
-During the hearing today, counsels representing former State Minister Ranaweera made submissions in support of granting him bail. After considering the submissions presented, Judge Nayana Seneviratne decided to release Prasanna Ranaweera and co-accused Sarath Kumara Edirisinghe on strict bail conditions.
-
-Accordingly, each suspect was released on a cash bail of Rs. 500,000 and five surety bails of Rs. 500,000 each.
-
-The suspects have been ordered to appear before the Financial Crimes Investigation Division every Sunday.
-
-Former State Minister Prasanna Ranaweera was initially remanded until May 19 by the Mahara Magistrate’s Court after surrendering to court on May 7.
-
-...
-
-[Data](articles/08969a5e.json)
-
-[Extended Data](ext_articles/08969a5e.ext.json)
-
----
-
-### JETRO Forum: Sri Lanka Unveils Big Opportunities for Japanese Businesses
-
-*2025-09-30 14:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/jetro-forum-sri-lanka-unveils-big-opportunities-for-japanese-businesses) · `en`
-
-COLOMBO (News 1st); President Anura Kumara Dissanayake extended an open invitation to Japan’s business community to explore emerging economic opportunities in Sri Lanka, pledging to strengthen bilateral trade and investment ties while encouraging robust private sector participation.
-
-The President made these remarks at the Japan–Sri Lanka Business Forum,  at the headquarters of the Japan External Trade Organization (JETRO) in Tokyo.
-
-The event drew nearly 200 senior Japanese business leaders and was jointly organized by JETRO, Japan’s Ministry of Economy, Trade and Industry (METI), the Embassy of Sri Lanka in Japan, the Japan–Sri Lanka Business Cooperation Committee, and the Board of Investment of Sri Lanka (BOI).
-
-On the sidelines, President Dissanayake met with JETRO Chairman Norihiko Ishiguro, who pledged to act as a bridge between the two business communities to foster continuous engagement and mutually beneficial partnerships.
-
-◼️
-
-[Data](articles/221f5c59.json)
-
-[Extended Data](ext_articles/221f5c59.ext.json)
-
----
-
-### Au. 18 The Slab fell in a slab and stimulated the nerves of the brain
-
-*2025-09-30 14:40:14* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/අවු---18-ස්ලැබ්--එකකින්-වැටිලා-හානි-වූ-මොළයේ--ස්නායු-නැවත-උත්තේජනය-කරන-ශීරෝධාරා/12-680499) · `si`
-
-◼️
-
-[Data](articles/13742ea2.json)
-
-[Extended Data](ext_articles/13742ea2.ext.json)
 
 ---

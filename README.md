@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 10:09:38**
+As of **2025-09-30 10:21:15**
 
 ## Newspaper Stats
 
-*Scraped **79,723** Articles*
+*Scraped **79,726** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 485
-newsfirstlk | 494
+lankadeepalk | 486
+newsfirstlk | 496
 dbsjeyarajcom | 635
 bbccomsinhala | 710
 colombotelegraphcom | 800
@@ -27,11 +27,45 @@ adaderanasinhalalk | 13,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,723 (100.0%) of 79,723 articles have been extended.
+79,723 (100.0%) of 79,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### Where Ideas Collide, Leaders Emerge : Season 5 of The Debater with AAT Sri Lanka
+
+*2025-09-30 10:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/where-ideas-collide-leaders-emerge-season-5-of-the-debater-with-aat-sri-lanka) · `en`
+
+COLOMBO (News 1st); The spotlight turned to intellect and eloquence as Season 5 of The Debater with AAT Sri Lanka officially launched its television phase at Stein Studios, Ratmalana. This prestigious competition, known for uniting students from across the nation, continues to champion equal opportunity and the power of ideas.
+
+From over 400 schools, 60 institutions have been selected to compete on this televised platform, representing every province and community—urban and rural alike. The Debater remains a beacon for students to sharpen their critical thinking, public speaking, and leadership skills.
+
+The launch event was attended by key figures who underscored the importance of platforms that nurture young minds:
+
+...
+
+[Data](articles/b53d34ea.json)
+
+---
+
+### Nation Reimagined by Its Youngest Dreamers
+
+*2025-09-30 09:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/nation-reimagined-by-its-youngest-dreamers) · `en`
+
+COLOMBO (News 1st); A new chapter for Sri Lanka is being written—not by politicians, but by its future. On Sunday (28), the voices of children echoed across Viharamahadevi Park, as Sirasa TV, in collaboration with Munchee, hosted a vibrant and visionary celebration titled “Sirasa - Munchee Tikiri Punchi Lokaya” to mark World Children’s Day.
+
+This year’s celebration was unlike any before. It was shaped entirely by the children themselves. Beginning on September 11, Sirasa TV embarked on a nationwide journey, covering all 25 districts, gathering ideas, dreams, and visions from schoolchildren about the kind of future they want to build.
+
+From thousands of submissions, ten standout paintings—each a visual manifesto of hope and progress—were awarded today. These artworks reflected the children’s aspirations for a modern, inclusive, and creative Sri Lanka.
+
+The inaugural ceremony was graced by a distinguished panel of guests, each representing a pillar of Sri Lanka’s development:
+
+...
+
+[Data](articles/0f4f5fb4.json)
+
+---
 
 ### Sri Lanka operates Hakka tissue and Chinese bills
 
@@ -44,6 +78,24 @@ The law is strictly implemented against people who are illegally produced by the
 [Data](articles/c7060bf7.json)
 
 [Extended Data](ext_articles/c7060bf7.ext.json)
+
+---
+
+### පද්මේගේ අවි ළඟ තබාගත් දෙන්නෙක් අල්ලයි
+
+*2025-09-30 09:28:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-අව-ළඟ-තබගත-දනනක-අලලය/101-680456) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායක කෙහෙල් බද්දර පද්මේ නමැත්තාට අයත් මයික්‍රෝ වර්ගේ ගිනි අවියක් සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+එක් සැකකරුවකු එම සිද්ධියට ආධාර අනුබලදීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.ඔහු රියදුරෙකු ලෙස කටයුතු කරන අයෙකි.
+
+ඉන්දුනීසියාවේ ජාකාර්තා නුවරදි පසුගියදා අත්අඩංගුවට ගත් කෙහෙල් බද්දට පත්මෙ නැමැත්තා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශයේ ඒකකයේ රඳවාගෙන සිදුකළ ප්‍රශ්න කිරීමේදී අපරාධ සිදුකිරීම සඳහා ලබාදුන් ගිනි අවියක් කැලණිය නාතුඩුව ප්‍රදේශයේ පුද්ගලයකුට භාරදී ඇති බවට අනාවරණය වීමෙන් අනතුරුව එම සැකකරු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+එම සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී එම සිද්ධියට ආධාර අනුබලදීම සම්බන්ධයෙන් ජාඇල වැලිගම් පිටිය ප්‍රදේශයේපදිංචි තවත් පුද්ගලයෙකුද අත්අඩංගුවට ගත් බව පොලිසිය කියයි අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 24/38අතර පසුවන්නන්ය.
+
+◼️
+
+[Data](articles/94ecf42a.json)
 
 ---
 
@@ -1916,75 +1968,5 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/a4fd73ab.json)
 
 [Extended Data](ext_articles/a4fd73ab.ext.json)
-
----
-
-### 32 criminals in the country know where
-
-*2025-09-29 19:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රට-ඉන්න-අපරාධකරුවන්-32ක්-සැඟව-සිටින-තැන්-දන්නවා/11-418796) · `si`
-
-General Defense Minister Ananda Wijepala said that the international red warrants had already been identified as a 72 criminal criminals carrying out in the country and have been identified among criminals.
-
-The Minister was speaking at the meeting, the media was visiting Kandy and visiting the general public to the Mahawatwatu Asgiriya Textians.
-
-The Minister emphasized that there are about 30,000 officers and the STF personnel and the STF personnel will be established in December.
-
-He said that the government intervened to eliminate the drug infant and expected to start a national movement to eliminate drugs in the country within the next 2-3 weeks. The Minister stressed that the priestly from the priesthood will participate.
-
-The Minister requested the public to give all information to the police without fear of the police, including drug racues and crimes.
-
-◼️
-
-[Data](articles/bbbd47a1.json)
-
-[Extended Data](ext_articles/bbbd47a1.ext.json)
-
----
-
-### Defence Ministry to get tough on the use of ‘Hakka Patas’ or ‘Cheena Patas’
-
-*2025-09-29 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113043/defence-ministry-to-get-tough-on-the-use-of-hakka-patas-or-cheena-patas) · `en`
-
-The Ministry of Defence has advised the general public to refrain from using illegal explosives and to assist by reporting any incidents of manufacturing, possessing, or selling the already prohibited “Hakka Patas” or “Cheena Patas” used to produce them, to the nearest police station or wildlife authorities.
-
-The Defence Ministry said it has been reported that an illegal explosive called “Cheena Patas” is being produced in some parts of the island using raw materials and other chemicals issued for the firecracker and fireworks industry.
-
-Information has also been received that another illegal explosive called “Hakka Patas” is being manufactured using “Cheena Patas” and the raw materials used for firecracker and fireworks production, the Ministry added.
-
-These illegal explosives are reportedly used widely to deter wild animals from harming farmlands. However, reports indicate that these explosives have caused severe injuries and deaths to both people and wild animals in the recent past.
-
-...
-
-[Data](articles/1fceb58b.json)
-
-[Extended Data](ext_articles/1fceb58b.ext.json)
-
----
-
-### Massive protest in Mannar
-
-*2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
-
-Today is the 58 protests that the people started to stop the construction of the proposals to be stopped at the Mannar Island.
-
-The people of the Mannar Island is to stop the construction of the LTTE and the excavation of mineral sand of the island for nearly two months.
-
-They say they have to face many environmental problems due to these construction and excavations.
-
-අඛණ්ඩ විරෝධතාවට දින 58ක් පිරෙන අද එම ජනතාව සහ වෙළෙඳ ප්‍රජාව ප්‍රදේශයේ වෙළෙඳසැල් සියල්ල වසා දමා හර්තාල් ව්‍යාපාරයක් ආරම්භ කර තිබුණි.
-
-All public transport services were also stationed today and a massive protest was commenced with the Mannar Public Playground.
-
-Our correspondents said that the people were taken to Mannar today.
-
-The protesters went to the Mannar District Secretariat and protest against the Mannar District Secretariat.
-
-Police officers were summoned to control the protesters and continued to continue in the protest due to the protests, regardless of the police orders.
-
-...
-
-[Data](articles/0d41da76.json)
-
-[Extended Data](ext_articles/0d41da76.ext.json)
 
 ---

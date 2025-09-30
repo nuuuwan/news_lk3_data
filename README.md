@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 01:06:19**
+As of **2025-10-01 01:20:49**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,995 (100.0%) of 79,996 articles have been extended.
+79,996 (100.0%) of 79,996 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1027,23 +1027,25 @@ He further stated that all three-casts can be submitted to the above website and
 
 ---
 
-### උතුර සහ නැගෙනහිර පාසල් 100 ක් නිපොන් පදනහෙමන් ප්‍රතිසංස්කරණය කරයි
+### The North and East will be renovated by Nippon Foundation
 
 *2025-09-30 17:21:08* · [`adalk`](https://www.ada.lk/breaking_news/උතුර-සහ-නැගෙනහිර-පාසල්-100-ක්-නිපොන්-පදනහෙමන්-ප්‍රතිසංස්කරණය-කරයි/11-418825) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) පෙරවරුවේ ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී නිපොන් පදනමේ ආරම්භක සභාපති යොහෙයි සසකාවා (Yohei Sasakawa) මහතා හමුවී සාකච්ඡාවක නිරත විය.
+President Anura Kumara Dissanayake on an invite of the Government of Japan, President Anura Kumara Dissanayake was held at the Imperial Hotel in Tokyo, the founding of the Nihani Sasakawa (Yohei Sasakawa) at Tokyo.
 
-ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දිගු කාලීන මිත්‍රත්වය තව දුරටත් ශක්තිමත් කිරීම පිළිබඳව මෙහිදී විශේෂ අවධානය යොමු විය.
+Special attention was focused on strengthening the long-term friendship between Japan and Sri Lanka.
 
-ශ්‍රී ලංකාව තුළ සියලු ප්‍රජාවන්ගේ ජීවනෝපායන් නඟා සිටුවීම සඳහා අඛණ්ඩව සහයෝගය ලබා දෙන බව යොහෙයි සසකාවා (Yohei Sasakawa) මහතා මෙහිදී ජනාධිපතිවරයා හමුවේ ප්‍රකාශ කළේය. එසේම උතුර සහ නැගෙනහිර පළාත්වල පාසල් 100 ක් ප්‍රතිසංස්කරණය කිරීම සහ නවීකරණය කිරීම සඳහා වන ඉදිරි සැලසුම් ද ඔහු විසින් ඉදිරිපත් කරන ලදී.
+Jahai Sasakawa (Yohei Sasakawa) stated that he will continue to support the livelihood of all communities in Sri Lanka.. He also presented the plans to renovate and modernization of 100 schools in the North and East.
 
-ශ්‍රී ලාංකික ජනතාවගේ සංවර්ධනය සහ යහපැවැත්ම නගා සිටුවීමට දරන උත්සාහය සහ ශ්‍රී ලංකාව තුළ සමාජ සේවය වෙනුවෙන් වන දිගු කාලීන කැපවීම පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී යොහෙයි සසකාවා (Yohei Sasakawa) මහතා වෙත සිය කෘතඥතාව පළ කර සිටියේය.
+President Anura Kumara Dissanayake expressed his gratitude to Johani Sasakawa, a long term commitment to the development and well being in Sri Lanka.
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු පිරිසක් මෙම අවස්ථාවට සහභාගි විය.
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
 
 ◼️
 
 [Data](articles/13517221.json)
+
+[Extended Data](ext_articles/13517221.ext.json)
 
 ---
 

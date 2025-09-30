@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 22:22:09**
+As of **2025-09-30 22:37:25**
 
 ## Newspaper Stats
 
-*Scraped **79,980** Articles*
+*Scraped **79,981** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 518
 lankadeepalk | 526
 dbsjeyarajcom | 636
-bbccomsinhala | 713
+bbccomsinhala | 714
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,757
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,828
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,979 (100.0%) of 79,980 articles have been extended.
+79,979 (100.0%) of 79,981 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -659,7 +659,7 @@ Thus of the Rs. 1,794,383,750.00 will be credited to the beneficiary bank accoun
 
 ---
 
-### Sri Lanka 2025 growth kept at 3.9-pct, inflation slashed by ADB to 0.5-pct
+### Sri Lanka 2025 growth kept at 3.9-pct, inflation slashed to 0.5-pct in ADB forecast
 
 *2025-09-30 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-2025-growth-kept-at-3-9-pct-inflation-slashed-by-adb-to-0-5-pct-242296/) · `en`
 
@@ -1451,6 +1451,26 @@ The Ambassador said that Erofflot for six months after the end of direct flights
 
 ---
 
+### වසර 13කට පසු තාජුඩීන්ගේ මෝටර් රිය පසුපස ලුහුබැඳ ගිය සැකකරු ගැන හෙළිවූ අයුරු
+
+*2025-09-30 15:54:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpd95wvdlexo) · `si`
+
+වසර 13කට පසු තාජුඩීන්ගේ මෝටර් රිය පසුපස ලුහුබැඳ ගිය සැකකරු ගැන හෙළිවූ අයුරු
+
+2012 වසරේදී ඝාතනයට ලක්වූ රගර් ක්‍රීඩක වසීම් තාජුඩීන් ගමන් කළ මෝටර් රථය පසුපසින් ලුහුබැඳ ගිය මෝටර් රථයේ ඉකුත් දා ඝාතනයට ලක් වූ 'මිද්දෙණියේ කජ්ජා' හෙවත් අරුණ ශාන්ත විදානගමගේ ගමන් කර ඇතැයි වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී මිනුර සෙනරත් සැප්. 30 විශේෂ අනාවරණයක් කරමින් පැවසීය.
+
+එහිදී ඔහු ප්‍රකාශ කළේ, වසීම් තාජුඩීන් ඝාතනයට ලක් වූ දිනයේ ඔහු වතුර බෝතලයක් මිල දී ගැනීම සඳහා හැව්ලොක් පිහිටි සුපරි වෙළෙඳසලක් වෙත ගමන් කරන බව ත් ඉන් පිටතට පැමිණ යළි ඔහු තම මෝටර් රථයේ නැග ගමන් කිරීමේදී ඔහු පසුපස තවත් මෝටර් රථයක් ලුහුබැඳ යන බවත් ය.
+
+එම රථය සම්බන්ධයෙන් සීසීටීවී දර්ශන පරීක්ෂා කර බැලීමේදී ආනාවරණය වී ඇත්තේ, ඒ අසල තවත් පුද්ගලයෙකු සිට ඇති බව ය.
+
+ඔහු හඳුනා ගැනීම සඳහා මීට වසර 9කට පමණ පෙර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මාධ්‍ය වෙත දර්ශන නිකුත් කරනු ලැබුව ද එය අසාර්ථක වූ බව වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+...
+
+[Data](articles/b016619b.json)
+
+---
+
 ### Sathis, Prasanna bail
 
 *2025-09-30 15:46:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதீஸ்-பிரசன்னவுக்கு-பிணை/175-365532) · `ta`
@@ -1958,27 +1978,5 @@ While commenting on this achievement, I mistakenly referred to it as a ‘Nobel 
 [Data](articles/4e34ba87.json)
 
 [Extended Data](ext_articles/4e34ba87.ext.json)
-
----
-
-### Sajith Key the story about the locked boss
-
-*2025-09-30 14:49:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ව-කලල-කන-ලකකන-ගන-සජත-ක-කතව/1-680501) · `si`
-
-Opposition Leader Sajith Premadasa said that the ministers were in the opposition and a guaranteed prices to the stalk.
-
-However, after he came to power, he said.
-
-He said that a group of powers would buy and buy paddy today.
-
-Opposition Leader said this in Hingurakgoda
-
-He added that the export-centered agriculture is in the country.
-
-◼️
-
-[Data](articles/30e64794.json)
-
-[Extended Data](ext_articles/30e64794.ext.json)
 
 ---

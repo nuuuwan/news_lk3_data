@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 17:06:15**
+As of **2025-09-30 17:42:26**
 
 ## Newspaper Stats
 
-*Scraped **79,900** Articles*
+*Scraped **79,921** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 510
-lankadeepalk | 515
+newsfirstlk | 511
+lankadeepalk | 518
 dbsjeyarajcom | 635
 bbccomsinhala | 712
 colombotelegraphcom | 801
@@ -17,37 +17,137 @@ dailymirrorlk | 4,733
 economynextcom | 4,746
 islandlk | 4,850
 dailyftlk | 5,604
-adalk | 7,689
+adalk | 7,692
 adaderanalk | 10,309
-tamilmirrorlk | 11,948
-virakesarilk | 13,033
-adaderanasinhalalk | 13,815
+tamilmirrorlk | 11,949
+virakesarilk | 13,045
+adaderanasinhalalk | 13,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,893 (100.0%) of 79,900 articles have been extended.
+79,901 (100.0%) of 79,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### සරසවි සිසු විරෝධයක් නිසා කොළඹ පාරක් අවහිර වෙයි
+### කාන්තා ලෝක කුසලානයේදී ශ්‍රී ලංකා ජාතික ගීය දෙරණ ඩ්‍රීම් ස්ටාර් නුවන්ධිකාගේ හඬින්
+
+*2025-09-30 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215185) · `si`
+
+අද (30) පැවැත්වෙන කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සමාරම්භක උත්සවයේදී ශ්‍රී ලංකා ජාතික ගීය ගැයීමේ අවස්ථාව දෙරණ ඩ්‍රීම් ස්ටාර් ගායන තරගයේ 9වන අදියරේ අනුශූරතාව හිමිකරගත් නුවන්ධිකා සේනාරත්නට හිමිවිය.
+
+නුවන්ධිකා සේනාරත්නට එම අවස්ථාව හිමිවූයේ ප්‍රවීණ ඉන්දීය ගායන ශිල්පිණී ශ්‍රේයා ඝෝෂාල් සමග වීම විශේෂත්වයකි.
+
+ශ්‍රී ලංකා ජාතික ගීය ගායනා කිරීමේ එම අවස්ථාව පහත වීඩියෝවෙන් නරඹන්න
+
+◼️
+
+[Data](articles/68a561df.json)
+
+---
+
+### நுவரெலியாவில் நடைபாதை வியாபாரிகள் ஆணையாளருக்கு எதிராக ஆர்ப்பாட்டம்
+
+*2025-09-30 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226506) · `ta`
+
+நுவரெலியாவில் நடைபாதை வியாபாரிகள் வீதியோரங்களில் பல தலைமுறைகளாக வியாபாரம் செய்கின்றனர் எனினும் தற்போது நுவரெலியா மாநகர சபை மாநகர ஆணையாளரின் நடவடிக்கையானது நடைபாதை வியாபாரிகளின்  வாழ்வாதாரத்தை முற்றிலும் முடக்கும் வகையில், பல்வேறு நடவடிக்கைகளை எடுப்பதாக குற்றஞ்சாட்டப்படுகிறது.
+
+இதற்கு எதிராக செவ்வாய்க்கிழமை (30) நுவரெலியா மாவட்ட செயலகத்திற்கு முன்பாக மாநகர ஆணையாளரின் நடவடிக்கைகளுக்கு எதிராக பதாகைகளை ஏந்தியும் கோஷங்களை எழுப்பியும் தமது ஆதங்கத்தை வெளிப்படுத்தினர்.
+
+...
+
+[Data](articles/dacc07fe.json)
+
+---
+
+### பல்கலை மாணவர்களின் ஆர்ப்பாட்டம் ; கொழும்பில் போக்குவரத்து மட்டுப்பாடு!
+
+*2025-09-30 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226507) · `ta`
+
+கொழும்பு 7இல் அமைந்துள்ள பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்கு முன்பாக பல்கலைக்கழக மாணவர்கள் இன்று செவ்வாய்க்கிழமை (30) ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/054a4426.json)
+
+---
+
+### සම්පත් මනම්පේරිට වරෙන්තු
+
+*2025-09-30 17:00:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමපත-මනමපරට-වරනත/101-680508) · `si`
+
+ද්‍රවිඩ ව්‍යාපාරිකයකු බියගන්වා වසර 16කට පෙර සහල් ලොරියක් කොල්ලකෑමේ සිද්ධියක විත්තිකරුවකු වන පොදු පෙරමුණේ පළාත් පාලන හිටපු අපේක්ෂක සම්පත් මනම්පේරි නැමැත්තා වහාම අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස නියම කළ කොළඹ මහාධිකරණ විනිසුරු රශන්ත ගොඩවෙල මහතා ඒ සඳහා වරෙන්තුවක්ද අද (30) නිකුත් කළේය.
+
+මිද්දෙණිය ප්‍රදේශයේ අයිස් කන්ටේනර් දෙකක් සඟවා තබාගැනීමේ සිද්ධියේ සැකකරුවකු වන සම්පත් මනම්පේරි නැමැත්තාට එරෙහිව කොළඹ මහාධිකරණයේ පවරා ඇති නඩුවට ඔහු ඉදිරිපත් නොවීම නිසා විනිසුරුවරයා එලෙස වරෙන්තු නිකුත් කළේය.
+
+2009 අගෝස්තු 12 වැනිදා හෝ ඊට ආසන්න දිනයක පොලිස් නිලධාරීන් ලෙස පෙනී සිටිමින් නාරහේන්පිට මංසන්ධිය ආසන්නයේදී කොල්ලකෑම පොදු අරමුණ කරගත් නීති විරෝධී රැස්වීමක සාමාජිකයන් වශයෙන් කටයුතු කරමින් සෙල්ලදොරෙයි කොලවෙන්නාදන් නැමති ව්‍යාපාරිකයා බිය ගන්වා රුපියල් ලක්ෂ 10ක් පමණ වටිනා සහල් ලොරියක් හා ඔහු සන්තකයේ තිබුණු මුදල් හා ජංගම දුරකථනය කොලල්ලකෑ බවට චෝදනා 7ක් යටතේ නීතිපතිවරයා විත්තිකරුවන්ට එරෙහිව නඩු පවරා ඇත.
+
+සම්පත් මනම්පේරි සහ නෙරංජන් පෙරේරා නැමැත්තන්ට අමතරව විත්තිකරුවන් සිව්දෙනකුට එරෙහිව නීතීපතිවරයා නඩු පවරා ඇත.
+
+...
+
+[Data](articles/4224c6d4.json)
+
+---
+
+### Colombo student objection blooms bloom in Colombo
 
 *2025-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215184) · `si`
 
-සරසවි සිසු විරෝධයක් හේතුවෙන් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව ඉදිරිපිටින් වාහන ගමනාගමනය සඳහා මාර්ග අවහිරවී තිබේ.
+Roads protest against university student objection is blocked for vehicle traffic in front of the University Grants Commission.
 
 ◼️
 
 [Data](articles/3a016bc8.json)
 
+[Extended Data](ext_articles/3a016bc8.ext.json)
+
+---
+
+### Ex-SLPP Candidate Manamperi Admits Supplying Guns For Kajja’s Murder
+
+*2025-09-30 16:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ex-slpp-candidate-manamperi-admits-supplying-guns-for-kajja%e2%80%99s-murder) · `en`
+
+COLOMBO (News 1st); Former Sri Lanka Podujana Peramuna local government candidate Sampath Manamperi has confessed to providing the firearm used in the brutal killing of Meegasare' Kajja and his two children.
+
+Manamperi further revealed that he leveraged political influence and connections within security agencies to operate as a key distributor in Backhoe Saman’s drug trafficking network, while also facilitating the transportation of firearms.
+
+Former Sri Lanka Podujana Peramuna (SLPP) local government candidate Sampath Manamperi has revealed that he transported firearms used in several murders in the South.
+
+He admitted that he supplied the gun used in the killing of Kajja and his two children.
+
+On the night of February 18, Aruna Widanagamage, also known as Meegasare' Kajja, was shot dead while traveling on a motorcycle with his two children.
+
+The suspects in this triple murder include Backhoe Saman, and Tembili Lahiru who were later arrested in Indonesia,
+
+...
+
+[Data](articles/35dfcbd4.json)
+
+[Extended Data](ext_articles/35dfcbd4.ext.json)
+
+---
+
+### හිටපු රාජ්‍ය ඇමති ප්‍රසන්න රණවීරට ඇප
+
+*2025-09-30 16:39:17* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-ඇමති-ප්‍රසන්න-රණවීරට-ඇප/11-418824) · `si`
+
+රක්ෂිත බන්ධනාගාර ගත කර සිටි හිටපු රාජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර මහතා ඇප මත මුදා හැර තිබේ.
+
+ගම්පහ මහාධිකරණයෙන් හමුවේ අද(30දා) අදාළ නඩුව කැඳවූ අවස්ථාවේදී මෙලෙස ඇප ලබා දී ඇත.
+
+◼️
+
+[Data](articles/ab77b299.json)
+
 ---
 
 ### හිටපු ඇමැති ප්‍රසන්නට ඇප
 
-*2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-ඇමත-පරසනනට-ඇප/1-680507) · `si`
+*2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-ඇමත-පරසනනට-ඇප/101-680507) · `si`
 
 කිරිබත්ගොඩ නගරයේ රජයේ ඉඩමකට කූටලේඛන සැකසීමේ චෝදනාව මත සැකපිට අත්අඩංගුවට ගෙන මාස පහකට අධික කාලයක් රිමාන්ඩ් භාරයේ සිටි හිටපු නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර හා සරත්කුමාර එදිරිසිංහට ලක්ෂ පහක මුදල් හා ලක්ෂ පහ බැගින් වූ ශරීරය ඇප  පහක් මත මුදාහරින්නැයි  ගම්පහ මහාධිකරණය අංක දෙක විනිසුරු නයනා සෙනවිරත්න මහත්මිය අද 30දා නියෝග කළාය.
 
@@ -59,23 +159,81 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/9d0cac8b.json)
+[Data](articles/9bbe3908.json)
 
 ---
 
-### ”7 நிமிடங்களில் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கலாம்”
+### Former minister plea
 
-*2025-09-30 16:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நிமிடங்களில்-ஓட்டுநர்-உரிமத்தைப்-புதுப்பிக்கலாம்/175-365535) · `ta`
+*2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-ඇමත-පරසනනට-ඇප/1-680507) · `si`
 
-நுகேகொடையில் உள்ள தேசிய போக்குவரத்து மருத்துவ நிறுவனத்தால் 08 நிமிடங்களுக்குள் ஓட்டுநர் உரிமங்களைப் புதுப்பிக்கும் பணி மேற்கொள்ளப்படுவதாக போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+The Gampaha High Court today ordered the unleashinated former Deputy Minister Prasanna Ranaweera and Sarathkumara Edirisinghe on the allegation of the Kiribathgoda town.
 
-இலகுரக வாகன உரிமங்களை ஒவ்வொரு 08 வருடங்களுக்கும், கனரக வாகன உரிமங்களை ஒவ்வொரு 04 வருடங்களுக்கும் புதுப்பிக்க வேண்டும் என்று அமைச்சர் ரத்நாயக்க கூறினார்.
+The judge imposed a foreign travel ban, they ordered their passports to be handed over to the court if they had their passports.
 
-"உரிமங்களைப் புதுப்பிக்க விரும்புவோர் நுகேகொடையில் உள்ள தேசிய போக்குவரத்து மருத்துவ நிறுவனத்திற்குச் செல்ல வேண்டியிருந்தது, ஆனால் அந்த நிறுவனத்திடம் கைரேகை முறை இல்லை, அது மோட்டார் போக்குவரத்துத் திணைக்களத்தில் மட்டுமே இருந்தது. இருப்பினும், இப்போது பொதுமக்கள் தங்கள் மருத்துவச் சான்றிதழைப் பெறலாம், கைரேகையைப் பதிவு செய்யலாம், உரிமத்தைப் புதுப்பிக்கத் தேவையான பணம் செலுத்தலாம் மற்றும் தற்காலிக உரிமத்தைப் பெறலாம், இவை அனைத்தும் நுகேகொடையில் உள்ள நிறுவனத்தில் மட்டுமே. இதற்கு 07 நிமிடங்கள் 47 வினாடிகள் மட்டுமே ஆகும், ”என்று அமைச்சர் கூறினார்.
+The Immigration and Emigration ordered the Department of Immigration and the Department of Immigration and the Department of Immigration and the Department of Immigration.
+
+After obtaining bail, the judge also ordered the suspects to report to the Finance Criminal Investigation Department of the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/9d0cac8b.json)
+
+[Extended Data](ext_articles/9d0cac8b.ext.json)
+
+---
+
+### பொலிஸ் நிலையத்திற்கு அருகில் கண்டுபிடிக்கப்பட்ட மர்ம பொதி!
+
+*2025-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226503) · `ta`
+
+கொழும்பில் முகத்துவாரம் பொலிஸ் நிலையத்திற்கு அருகில் உள்ள பகுதியில் வைத்து கைக்குண்டுகள் அடங்கிய பொதி ஒன்று பொலிஸ் குற்றப் புலனாய்வு பிரிவினரால் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+பொலிஸ் குற்றப் புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் பேரில் இந்த பொதி கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸ் குற்றப் புலனாய்வு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/c007081b.json)
+
+---
+
+### ඉහළ දේශපාලනයේ අල්ලස් ඉල්ලීම අඩුවුණත් ආයතනික දූෂණය අඛණ්ඩව
+
+*2025-09-30 16:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-දේශපාලනයේ-අල්ලස්-ඉල්ලීම-අඩුවුණත්-ආයතනික-දූෂණය-අඛණ්ඩව/11-418823) · `si`
+
+වර්තමානයේ ඉහළ මට්ටමේ දේශපාලන අල්ලස් ඉල්ලීම අඩු වී ඇති බව පෙනෙන්නට තිබුණද, වත්මන් රජය යටතේ පවා,  විශේෂයෙන් මුල් බැසගත් නිත්‍ය උනන්දුවක් දක්වන පාර්ශ්වයන් තුළ ආයතනික දූෂණය දිගටම පවතින බව ශ්‍රී ලංකාවේ ආයෝජන වාතාවරණය පිළිබඳ එක්සත් ජනපදය නිකුත් කළ නවතම ප්‍රකාශයක දැක්වෙයි.
+
+මෑතකදී නිකුත් කරන ලද වාර්තාවේ සඳහන් වූයේ, ආවේණික දූෂණය සහ රාජ්‍ය ප්‍රසම්පාදනයේ විනිවිදභාවය නොමැතිකම ඓතිහාසිකව ශ්‍රී ලංකාවට සැලකිය යුතු ආර්ථික පාඩු සිදු කර ඇති බවත්, මෙම සාධක විදේශ සෘජු ආයෝජන වළක්වන බවත්, විශේෂයෙන් විශාල මට්ටමේ යටිතල  පහසුකම් ඉදිකිරීම්වලදී ගෝලීය සමාගම් බොහෝ විට නොපැමිණෙන බවත් එම වාර්තාවේ දැක්වෙයි.
+
+නීතිමය තහනම් කිරීම් තිබියදී නිශ්චිත සමාගම්වලට වාසිදායක ලෙස ටෙන්ඩර් පිරිවිතර සකස් කිරීම වැනි භාවිතයන් තවමත් සුලභ බව වාර්තාවේ දැක්වෙයි. 2023 ජූලි මාසයේදී බලාත්මක කිරීමේ හැකියාවන් වැඩි දියුණු කිරීම අරමුණු කරගත් පුළුල් නීති සම්මත කිරීමෙන්
+
+රජය සිය දූෂණ විරෝධී රාමුව ශක්තිමත් කර තිබෙන බවත් එම වාර්තාවේ දැක්වෙයි.
 
 ...
 
+[Data](articles/b8842a2e.json)
+
+---
+
+### "Renew the driver's license in 7 minutes"
+
+*2025-09-30 16:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நிமிடங்களில்-ஓட்டுநர்-உரிமத்தைப்-புதுப்பிக்கலாம்/175-365535) · `ta`
+
+Transport Minister Bimal Ratnayake said that the National Transport Medical Institute in Nugegoda is working on renewal of driving licenses within 8 minutes.
+
+Minister Ratnayake said that lightweight vehicle licenses should be renewed every 8 years and heavy vehicle licenses every 4 years.
+
+"Those who wish to renew the licenses had to go to the National Transport Medical Institute in Nugegoda, but the company had no fingerprint system. It was only in the Motor Transport Department. However, the public can now obtain their medical certificate, register the fingerprint, pay the money needed to renew the license and obtain a temporary license, all of which are all in the company in Nugegoda.. It takes only 07 minutes 47 seconds, ”the minister said.
+
+Minister Bimal Ratnayake made this observation at the inauguration ceremony of providing temporary driver's licenses at the National Transport Medical Institute in Nugegoda. (
+
+◼️
+
 [Data](articles/6ddb40b4.json)
+
+[Extended Data](ext_articles/6ddb40b4.ext.json)
 
 ---
 
@@ -97,9 +255,9 @@ Also, the non-food annual inflation for September 2025 has been reduced to 0.6% 
 
 ---
 
-### “என்னை  பழிவாங்கலாம்”   மவுனம் கலைத்த விஜய்
+### “என்னை  பழிவாங்கலாம்”   மவுனம் கலைத்த விஜய் (வீடியோ இணைப்பு)
 
-*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்/175-365534) · `ta`
+*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்-வீடியோ-இணைப்பு/175-365534) · `ta`
 
 கரூர் சம்பவம் தொடர்பாக 3 நாட்கள் கழித்து மவுனம் கலைத்துள்ள தவெக தலைவர் விஜய், உயிரிழந்தவர்களுக்கு இரங்கல் தெரிவித்ததோடு, கரூருக்கு நேரில் வருவேன் என்றார். மேலும், இந்தச் சம்பவத்தில் தன்னைப் பழிவாங்க வேண்டுமென்றால், தன்னை என்ன வேண்டுமானாலும் செய்யலாம், தனது கட்சித் தொண்டர்களை ஏதும் செய்ய வேண்டாம் என்று தமிழக முதல்வருக்கு வெளிப்படையாக சவால் விட்டுள்ளார். மேலும், முன்பைவிட வலுவாக அரசியல் பயணம் தொடரும் என்றும் தெரிவித்துள்ளார்.
 
@@ -107,7 +265,25 @@ Also, the non-food annual inflation for September 2025 has been reduced to 0.6% 
 
 ...
 
+[Data](articles/23036ba7.json)
+
+---
+
+### "Let me avenge me"
+
+*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்/175-365534) · `ta`
+
+Three days after the Karur incident, the silence of the silence, Vijay said that he would condole the victims and said that he would come to Karur.. Also, if he wants to avenge himself, he can do whatever he wants, and he has openly challenged the Tamil Nadu Chief Minister not to do anything to do his party volunteers.. He also said that the political journey would continue strongly than ever before.
+
+At the Karur Velusamipuram, 41 people were killed in a congestion at the Tawaka campaign meeting on September 27. 110 people were injured. In this case, Vijay shared a video on his X page at 3 pm today. In it, he said: “Hello everyone. I never met this kind of painful event in my life. There is only pain throughout the mind.
+
+People come to see me on this tour. There's only one reason for that. It is the affection and love they put on me. I owe it so much for that. That is why the idea that no compromise in their safety is deep in my mind.
+
+...
+
 [Data](articles/cf176caa.json)
+
+[Extended Data](ext_articles/cf176caa.ext.json)
 
 ---
 
@@ -136,6 +312,28 @@ The Terrorism Investigation Division (TID) has recovered a bag containing ten ha
 ◼️
 
 [Data](articles/6f3484a8.json)
+
+[Extended Data](ext_articles/6f3484a8.ext.json)
+
+---
+
+### උතුර නැගෙනහිර පාසල් සීයක් අලුත් කරන්න ජපානෙන් උදව්වක්
+
+*2025-09-30 16:07:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උතර-නගනහර-පසල-සයක-අලත-කරනන-ජපනන-උදවවක/101-680506) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  නිපොන් පදනමේ ආරම්භක සභාපති යොහෙයි සසකාවා (Yohei Sasakawa) මහතා හමුවී සාකච්ඡාවක නිරත විය.
+
+ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දිගු කාලීන මිත්‍රත්වය තව දුරටත් ශක්තිමත් කිරීම පිළිබඳව මෙහිදී විශේෂ අවධානය යොමු විය.
+
+ශ්‍රී ලංකාවේ සියලු ප්‍රජාවන්ගේ ජීවනෝපායන් නඟා සිටුවීම සඳහා අඛණ්ඩව සහයෝගය ලබා දෙන බව යොහෙයි සසකාවා (Yohei Sasakawa) මහතා මෙහිදී ජනාධිපතිවරයා හමුවේ ප්‍රකාශ කළේය. එසේම උතුර සහ නැගෙනහිර පළාත්වල පාසල් 100 ක් ප්‍රතිසංස්කරණය කිරීම සහ නවීකරණය කිරීම සඳහා වන ඉදිරි සැලසුම් ද ඔහු විසින් ඉදිරිපත් කරන ලදී.
+
+ශ්‍රී ලාංකික ජනතාවගේ සංවර්ධනය සහ යහපැවැත්ම නගා සිටුවීමට දරන උත්සාහය සහ  ශ්‍රී ලංකාව තුළ සමාජ සේවය වෙනුවෙන් වන දිගු කාලීන කැපවීම පිළිබඳව  ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී  යොහෙයි සසකාවා (Yohei Sasakawa) මහතා වෙත සිය කෘතඥතාව පළ කර සිටියේය.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු පිරිසක් මෙම අවස්ථාවට සහභාගී වූහ.
+
+◼️
+
+[Data](articles/fa0fc06b.json)
 
 ---
 
@@ -277,6 +475,22 @@ The Gampaha High Court on Tuesday (30) ordered the release of former minister Pr
 
 ---
 
+### முஸ்லிம் மாணவிகளின் ஆடை தொடர்பில் பிரதமரின் தீர்மானம் வரவேற்கத்தக்கது - வுமென்ஸ் கோப்ஸ் அமைப்பின் தலைவி நிகாஸா ஷர்பீன்
+
+*2025-09-30 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226500) · `ta`
+
+முஸ்லிம் மாணவிகள் தங்களது கலாச்சார ஆடையுடன் நாட்டின் எப்பாடசாலையிலும் கல்வி கற்க முடியும் என பிரதமர் ஹரிணி அமரசூரிய எடுத்துள்ள தீர்மானம் வரவேற்கத்தக்கது என வுமென்ஸ் கோப்ஸ் – ஸ்ரீ லங்கா Women's Corps - Sri Lanka) அமைப்பின் தலைவி நிகாஸா ஷர்பீன் பிரதமருக்கு அனுப்பி வைத்துள்ள நன்றிசொல்லும் கடிதத்தில் தெரிவித்துள்ளார்.
+
+அண்மையில் கல்வி, உயர்கல்வி மற்றும் தொழிற்பயிற்சி அமைச்சின் ஆலோசனைக் குழுக் கூட்டத்தில் மேற்குறித்த இத்தீர்மானம் எடுக்கப்பட்டதானது இன ரீதியாக சிந்திப்பவர்களுக்கு பலத்த அடியாகும் என்பதோடு முஸ்லிம் மாணவிகள் மற்றும் தாய்மார்கள் மத்தியில் இந்த அரசின் மீதான நன்மதிப்பையும் நம்பிக்கையையும் ஏற்பத்தியுள்ளது. இத் தீர்மானத்திற்காக தங்களுக்கு இந்த நாட்டின் முஸ்லிம் மாணவிகள் மற்றும் பெண்கள் சார்பாக நன்றிகளையும் வாழ்த்துக்களையும் தெரிவித்துக் கொள்கின்றேன்.
+
+முஸ்லிம் மாணவிகளின் ஆடை தொடர்பில் சட்டங்கள் இருந்தாலும் கடந்த காலங்களில் பல்வேறான அசௌகரியங்களை பரீட்சைகளின் போதும் கல்வி கற்றலின் போதும் இம்மாணவிகள் எதிர்நோக்கி வந்தமையை நாம் மறந்துவிட முடியாது.
+
+...
+
+[Data](articles/33a543e3.json)
+
+---
+
 ### Car bomb kills 10 in Pakistan after militants trigger shootout with troops
 
 *2025-09-30 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113080/car-bomb-kills-10-in-pakistan-after-militants-trigger-shootout-with-troops) · `en`
@@ -299,6 +513,8 @@ Local television channels and CCTV footage from the site of the explosion shows 
 
 [Data](articles/1a8f09db.json)
 
+[Extended Data](ext_articles/1a8f09db.ext.json)
+
 ---
 
 ### Appeals court issues directive on vehicles detained by Sri Lanka Customs
@@ -318,6 +534,8 @@ The counsels further argued that all petitioners strongly opposed a proposal by 
 ...
 
 [Data](articles/8b4128b4.json)
+
+[Extended Data](ext_articles/8b4128b4.ext.json)
 
 ---
 
@@ -341,6 +559,22 @@ He highlighted the provision of UAVs for monitoring, surveillance, and disaster 
 
 ---
 
+### இலங்கையில் வளர்ந்து வரும் பொருளாதார வாய்ப்புகளை ஆராய்வதில் இணையுமாறு ஜப்பானிய வர்த்தக சமூகத்திற்கு ஜனாதிபதி அழைப்பு
+
+*2025-09-30 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226498) · `ta`
+
+ஜப்பான்-இலங்கை இருதரப்பு வர்த்தகம் மற்றும் முதலீட்டு உறவுகளை மேலும் வலுப்படுத்துவதோடு, தனியார் துறையை அதற்கு ஊக்குவிப்பதற்கும், இலங்கையில் வளர்ந்து வரும் பொருளாதார வாய்ப்புகளை ஆராய்வதற்கும்,  கைகோர்க்குமாறு ஜனாதிபதி அநுர குமார திசாநாயக்க ஜப்பானிய வர்த்தக  சமூகத்திற்கு அழைப்பு விடுத்தார்.
+
+ஜப்பான் வெளிநாட்டு வர்த்தக அமைப்பு (JETRO) தலைமையகத்தில் நேற்று (29) நடைபெற்ற ஜப்பான் - இலங்கை வர்த்தக மன்றத்தில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+ஜப்பான் வெளிநாட்டு வர்த்தக அமைப்பு (JETRO) தலைமையகத்தில் நடைபெற்ற இந்த சந்திப்பில் ஜப்பான் வர்த்தக சமூகத்தின் சுமார் 200 சிரேஷ்ட உறுப்பினர்கள் கலந்துகொண்டதோடு, ஜப்பான் வெளிநாட்டு வர்த்தக அமைப்பு (JETRO), பொருளாதாரம், வர்த்தகம் மற்றும் தொழில் அமைச்சு (METI), ஜப்பானில் உள்ள இலங்கைத் தூதரகம், ஜப்பான்-இலங்கை வர்த்தக ஒத்துழைப்புக் குழு மற்றும் இலங்கை முதலீட்டுச் சபை (BOI) ஆகியவை இணைந்து இதனை ஏற்பாடு செய்திருந்தன.
+
+...
+
+[Data](articles/eac1b340.json)
+
+---
+
 ### "It is responsible to develop Tamil culture and Tamil language"; Senthil at the Malaysian Conference
 
 *2025-09-30 15:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-கலாச்சாரம்-தமிழ்-மொழியையும்-வளர்க்க-வேண்டியது-பொறுப்பாகும்-மலேசிய-மாநாட்டில்-செந்தில்/175-365531) · `ta`
@@ -356,6 +590,22 @@ During the British colonial rule, cultural disorder began to be started in langu
 [Data](articles/0ed44c5e.json)
 
 [Extended Data](ext_articles/0ed44c5e.ext.json)
+
+---
+
+### சதீஷ் கமகேவுக்கு பிணை!
+
+*2025-09-30 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226499) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள பொலிஸ் திணைக்களத்தின் கலாச்சாரப் பிரிவின் பிரதி பணிப்பாளர் எஸ்.எஸ்.பி சதீஷ் கமகேவை பிணையில் விடுதலை செய்யுமாறு கொழும்பு பிரதான நீதவான் நீதிமன்றம் இன்று செவ்வாய்க்கிழமை (30) உத்தரவிட்டுள்ளது.
+
+சதீஷ் கமகே இன்றைய தினம் காலை நீதிமன்றில் ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+பொலிஸ் திணைக்களத்தின் கலாச்சாரப் பிரிவின் பிரதி பணிப்பாளர் எஸ்.எஸ்.பி சதீஷ் கமகே பல இலஞ்ச குற்றச்சாட்டுக்கள் தொடர்பில் இலஞ்சம் மற்றும் ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் ஆகஸ்ட் மாதம் 14 ஆம் திகதி கைதுசெய்யப்பட்ட நிலையில் நீதிமன்ற உத்தரவின் கீழ் தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டிருந்த நிலையில் தற்போது பிணையில் விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5a5855a6.json)
 
 ---
 
@@ -409,6 +659,44 @@ For the month of June 2025, on Y-on-Y basis, the contribution to inflation by fo
 
 ---
 
+### பிரசன்ன ரணவீரவுக்கு பிணை!
+
+*2025-09-30 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226497) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் பிரசன்ன ரணவீரவை பிணையில் விடுதலை செய்யுமாறு கம்பஹா மேல்நீதிமன்றம் இன்று செவ்வாய்க்கிழமை (30) உத்தரவிட்டுள்ளது.
+
+பிரசன்ன ரணவீர, கம்பஹா மேல்நீதிமன்ற நீதவான் முன்னிலையில் இன்றைய தினம் ஆஜர்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+அதன்படி, பிரசன்ன ரணவீரவை 5 இலட்சம் ரூபா பெறுமதியான ரொக்க பிணை மற்றும் 5 இலட்சம் ரூபா பெறுமதியான ஐந்து சரீர பிணையில் விடுதலை செய்யுமாறு நீதவான் உத்தரவிட்டுள்ளார்.
+
+2010 ஆம் ஆண்டில் போலி ஆவணங்களை தயாரித்து கிரிபத்கொடை பிரதேசத்தில் உள்ள அரச காணி ஒன்றை விற்பனை செய்த சம்பவம் தொடர்பில் பிரசன்ன ரணவீரவை கைது செய்யுமாறு நீதிமன்றினால் பிடியாணை பிறப்பிக்கப்பட்டது.
+
+ஆனால், முன்னாள் அமைச்சர் பிரசன்ன ரணவீர நீதிமன்றில் சரணடையாமல் பிரதேசத்தைவிட்டு தப்பிச் சென்று நீண்ட காலமாக தலைமறைவாக இருந்தார்.
+
+பின்னர், முன்னாள் அமைச்சர் பிரசன்ன ரணவீர கடந்த மே மாதம் 07 ஆம் திகதி நீதிமன்றில் சரணடைந்ததையடுத்து, தொடர்ந்து விளக்கமறியலில் வைக்கப்பட்டிருந்த நிலையில் தற்போது பிணையில் விடுதலை செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/08f00a50.json)
+
+---
+
+### கொமர்ஷல் வங்கி Gnext Store உடன் இணைந்து Apple   சாதனங்களுக்கு 18 மாத கடனை வழங்குகிறது
+
+*2025-09-30 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226495) · `ta`
+
+கொமர்ஷல் வங்கிக்கும் Apple இலத்திரனியல் சாதனங்களின் அங்கீகரிக்கப்பட்ட மீள் விற்பனையாளரான Gnext Storeற்கும், இடையிலான புதிய பங்குடைமையின் மூலம், வாடிக்கையாளர்களின் தொழில்நுட்பக் கனவுகளை நனவாக்கும் வகையில், அண்மையில் அறிமுகப்படுத்தப்பட்ட Apple சாதனங்களை நியாயமான விலைகளில் கொள்வனவு செய்யும் வசதியை வழங்கும் வாய்ப்பு ஏற்படுத்தப்பட்டுள்ளது.
+
+கொமர்ஷல் வங்கியானது நாடு முழுவதும் தந்திரோபாயரீதியாக அமைக்கப்பட்ட  கிளைகள் மற்றும் தானியங்கி இயந்திரங்களின் வலையமைப்பைச் செயற்படுத்திவருகின்றது.
+
+மேலும்,வங்கியின் முழுமையான உரித்துடைய  துணை நிறுவனங்களான CBC Finance Ltd மற்றும் Commercial Insurance Brokers (Pvt) Limited ஆகியவையும் தங்கள் சொந்த கிளை வலையமைப்புகள் மூலம் பல்வேறு நிதிச் சேவைகளை வழங்குகின்றன.
+
+◼️
+
+[Data](articles/b45a5a5d.json)
+
+---
+
 ### Bail for a student who naked the image of the student
 
 *2025-09-30 15:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவின்-படத்தை-நிர்வாணமாக்கிய-மாணவனுக்கு-பிணை/175-365528) · `ta`
@@ -431,6 +719,22 @@ IP Gayani and Sergeant Priyantha, in charge of the Children's and Women's Bureau
 
 ---
 
+### மதுபோதையில் வாகனங்களை செலுத்திய 36 சாரதிகள் கைது!
+
+*2025-09-30 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226496) · `ta`
+
+நாடளாவிய ரீதியில் நேற்று திங்கட்கிழமை (29) மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது 5,238 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
+
+இந்த விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது, பல்வேறு குற்றச் செயல்கள் தொடர்பில் ஆதாரங்களுடன் 678 பேரும், சந்தேகத்தின் பேரில் 14 பேரும், பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 284 பேரும், திறந்த பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 173 பேரும், மதுபோதையில் வாகனங்களை செலுத்தியமை தொடர்பில் 36 சாரதிகளும், கவனக்குறைவாக வாகனங்களை செலுத்தியமை தொடர்பில் 09 சாரதிகளும், ஏனைய போக்குவரத்து விதிமுறைகளை மீறியமை தொடர்பில் 4044 பேரும் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/8d197583.json)
+
+---
+
 ### 'Gift' of'Nobel Gift '
 
 *2025-09-30 15:03:55* · [`adalk`](https://www.ada.lk/breaking_news/‍’නොබෙල්-තෑග්ග’-අත්වැරදීමක්/11-418819) · `si`
@@ -448,6 +752,40 @@ The social media has emerges in social media regarding the transfusion of me. I 
 [Data](articles/6640ff80.json)
 
 [Extended Data](ext_articles/6640ff80.ext.json)
+
+---
+
+### இலங்கையை டிஜிட்டல் யுகத்தை நோக்கி நகர்த்துவதற்கு, அத்தியாவசியமான முதல் படி, மனித வளத்தை நவீன தொழில்நுட்பத் தகைமையுடையவர்களாக மாற்றுவதாகும் ; ஹரிணி அமரசூரிய
+
+*2025-09-30 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226492) · `ta`
+
+2030 ஆம் ஆண்டளவில் இலங்கையின் டிஜிட்டல் பொருளாதாரத்தை அமெரிக்க டொலர் 15 பில்லியனாக, அதாவது மொத்த உள்நாட்டு உற்பத்தியில் 12% ஆக அதிகரிப்பதும், டிஜிட்டல் ஏற்றுமதியை அமெரிக்க டொலர் 5 பில்லியன் வரை உயர்த்துவதோடு, சுமார் இரண்டு இலட்சம் திறன்மிக்க டிஜிட்டல் தொழில் படையை உருவாக்குவதும் அரசாங்கத்தின் நோக்கமாகும் எனப் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+இலங்கையில் முதன்முறையாக நடைபெற்ற AI தொழில்நுட்பம் பற்றிய "NATIONAL AI EXPO 2025" மாநாடு மற்றும் கண்காட்சியின் ஆரம்ப நிகழ்வில் கலந்துகொண்ட போதே, திங்கட்கிழமை (29) பத்தரமுல்லை மொனார்க் இம்பீரியல் ஹோட்டலில் பிரதமர் இதனைத் தெரிவித்தார்.
+
+டிஜிட்டல் பொருளாதார அமைச்சு மற்றும் ஸ்ரீலங்கா டெலிகொம் மொபிடெல் ஆகிய நிறுவனங்கள் இணைந்து ஏற்பாடு செய்த இந்த மாநாடு மற்றும் கண்காட்சி செப்டம்பர் 29 மற்றும் 30 ஆகிய இரண்டு நாட்கள் பத்தரமுல்லை மொனார்க் இம்பீரியல் ஹோட்டலில் நடைபெறுகிறது.
+
+...
+
+[Data](articles/e050f459.json)
+
+---
+
+### ரணிலும், மஹிந்தவும் நம்பர் வன் திருடர்கள் - அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவிப்பு
+
+*2025-09-30 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226491) · `ta`
+
+இனவாதத்தை கிளப்பும் பிசாசுகள் மீண்டெழுந்துள்ளன. அதிகாரத்துக்காக சதி குறித்தும், சூழ்ச்சி பற்றியும் அவை மந்திராலோசனை நடந்துகின்றன. இந்த பிசாசுகளிடமிருந்து நாட்டை பாதுகாக்க மக்கள் ஒன்றுபட வேண்டும் என்று கடற்றொழில், நீரியல் மற்றும் கடல் வளங்கள் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்தார்.
+
+யாழ்ப்பாணம் விசேட பொருளாதார மத்திய நிலையத்தின் மீள் ஆரம்பிப்பு நிகழ்வு மட்டுவிலில் செவ்வாய்க்கிழமை (30) காலை கடற்றொழில், நீரியல் மற்றும் கடல்வளங்கள்  அமைச்சர் இ.சந்திரசேகர் தலைமையில் நடைபெற்றது.
+
+இந்த நிகழ்வில் வர்த்தக, வாணிப, உணவு பாதுகாப்பு மற்றும் கூட்டுறவு அபிவிருத்தி  அமைச்சர் வசந்த சமரசிங்க, வடக்கு மாகாண  ஆளுநர் நா.வேதநாயகன்,    நாடாளுமன்ற உறுப்பினர்களான க.இளங்குமரன், எஸ்.ஸ்ரீபவானந்தராசா, ஜெ.றஜீவன் ஆகியோர் கலந்து கொண்டனர்.
+
+பொருளாதார ரீதியில் இலங்கை வேகமாக முன்னேறி வருகின்றது என தரவுகள் கூறுகின்றன. அதேபோல இலஞ்ச, ஊழல் ஒழிக்கப்பட்டு வருகின்றது.  இனவாதம் மற்றும் மதவாதம் என்பவற்றுக்கும் முடிவு கட்டப்பட்டு வருகின்றது.
+
+...
+
+[Data](articles/81f5a435.json)
 
 ---
 
@@ -590,6 +928,26 @@ He added that the export-centered agriculture is in the country.
 [Data](articles/3144ea5e.json)
 
 [Extended Data](ext_articles/3144ea5e.ext.json)
+
+---
+
+### விமான பயணச்சீட்டுகளை முன்பதிவு செய்ய புதிய இணையவழி முறைமையை அறிமுகப்படுத்தியது ஸ்ரீலங்கன் ஏர்லைன்ஸ்
+
+*2025-09-30 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226494) · `ta`
+
+யூனியன் பே (UnionPay) ஊடாக பணத்தை செலுத்தி விமான பயணச்சீட்டுகளை முன்பதிவு செய்யும் வசதியை ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் அறிமுகப்படுத்தியுள்ளது.
+
+ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனமானது யூனியன் பே இன்டர்நேஷனல் மற்றும் இலங்கை வங்கி (Bank of Ceylon) ஆகியவற்றுடன் இணைந்து இந்த புதிய முறைமையை அறிமுகப்படுத்தியுள்ளது.
+
+யூனியன் பே பணத்தை செலுத்தவும் பணத்தை பரிவர்த்தனை செய்யவும் சீனாவால் அறிமுகப்படுத்தப்பட்ட சர்வதேச அட்டை ஒன்று ஆகும்.
+
+இந்த புதிய முறைமை இணையவழி கட்டண முறைகளை விரிவுபடுத்துவதோடு, சீனப் பயணிகளுக்கு அதிக வசதியை வழங்குகிறது.
+
+பயணிகளின் எண்ணிக்கையை அதிகரிப்பதிலும் யூனியன் பே பயன்பாட்டை மேம்படுத்துவதிலும் ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் அதிக பங்கை வகிக்கிறது என்பதை இது எடுத்துக்காட்டுகிறது.
+
+◼️
+
+[Data](articles/20c81d8d.json)
 
 ---
 
@@ -744,6 +1102,24 @@ Sri Lanka will be played in the preliminary round of Sri Lanka at the RuralSascu
 [Data](articles/57c8d103.json)
 
 [Extended Data](ext_articles/57c8d103.ext.json)
+
+---
+
+### වගා භූමියට යමින් සිටි පුද්ගලයන් දෙදෙනෙක් වන අලි ප්‍රහාරයකින් මරුට
+
+*2025-09-30 14:32:59* · [`adalk`](https://www.ada.lk/breaking_news/වගා-භූමියට-යමින්-සිටි-පුද්ගලයන්-දෙදෙනෙක්-වන-අලි-ප්‍රහාරයකින්-මරුට/11-418816) · `si`
+
+සිය වගාභූමිය වන අලින්ගෙන් රැක ගැනීම සදහා යතුරු පැදියකින් වගාභූමියට යමින් සිටි පුද්ගලයන් දෙදෙනෙකු සූරියවැව  මහගල්වැව පරණ රන්මුදුවැව මාර්ගයේදී 29 රාත්‍රී 08ට පමණ වන අලි ප්‍රහාරයකට ලක්ව එක පුද්ගලයකු මියගොස් තවත් පුද්ගලයකු අතුරුදහන්ව තිබූ අතර ඔහුද වන අලි ප්‍රහාරයෙන් මියගොස් සිටියදී අද (30)පෙරවරුවේ සොයාගත් බව සූරියවැව  පොලිසිය පවසයි.
+
+මෙලෙස වන අලි ප්‍රහාරයට ලක්ව මිය ගොස් සිටි මහසෙන්පුර, සූරියවැව ලිපිනයේ පදිංචි වයස අවුරුදු 49 ක් වන අමරකෝන් කංකානම්ගේ ප්‍රේමරත්න නැමති අයගේ සිරුර වන්ජීවී නිළධාරීන්ගෙ හා  පොලිස් නිළධාරීන්ගෙ සහායෙන් මහත් පරිශ්‍රමයක් දරා එම ස්ථානයෙන් පිටතට ගෙන හදිසි මරණ පරීක්ෂණය පවත්වා සිරුර පශ්චාත් මරණ පරීක්ෂණ කටයුතු සදහා හම්බන්තොට මහ රෝහල වෙතයැවීමට කටයුතු කෙරුණි.
+
+අනතුරුව අතුරුදහන් වූ පුද්ගලයා සොයා  සිදුකල විමර්ශනයේදී ඔහුද වන අලි ප්‍රහාරයෙන් මියගොස් සිටියදී පොලීසිය විසින් සොයාගෙන තිබේ.
+
+එලෙස මියගොස් සිටියේ මහගල්වැව ප්‍රදේශයේම පදිංචි  වන්නි ආරච්චි කංකානම්ගේ ගුණපාල නමැති 60 හැවිරිදි පුද්ගලයෙකි.
+
+...
+
+[Data](articles/d2bda012.json)
 
 ---
 
@@ -1554,415 +1930,5 @@ Accordingly, the court had imprisoned him after the bribery commissions and the 
 [Data](articles/f7fefbee.json)
 
 [Extended Data](ext_articles/f7fefbee.ext.json)
-
----
-
-### Acting Director of Police Cultural Division SSP Sathish Gamage granted bail
-
-*2025-09-30 13:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/113069/acting-director-of-police-cultural-division-ssp-sathish-gamage-granted-bail-) · `en`
-
-The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been granted bail, Ada Derana reporter said.
-
-The order was issued by Colombo Chief Magistrate Asanka S. Bodaragama, after reviewing the submissions made by officials from the Bribery Commission and the legal representatives of the suspect.
-
-Accordingly, SSP Sathish Gamage has been released on a cash bail of Rs. 100,000 and two surety bails amounting to Rs. 2 million each.
-
-The Magistrate also issued an order banning the suspect from traveling abroad.
-
-The case has been scheduled to be heard once again in January, 2026.
-
-◼️
-
-[Data](articles/490961a8.json)
-
-[Extended Data](ext_articles/490961a8.ext.json)
-
----
-
-### The recent government gave the health of Kudamma
-
-*2025-09-30 13:01:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහගය-ආණඩ-ගම-සඛයයට-දනන-කඩමමග-සලකල/1-680491) · `si`
-
-Health and Mass Media Minister Nalinda Jayatissa said that the recent government has not used the attention to strengthening the tertiary and secondary institutions in the country.
-
-The Ministry of Health opened the third "Holeroya Health Celling" at Thalpitiya Family Health Care Clinic Center in Kalutara under the patronage of the "Hoogya Health Centers' centers.
-
-The project was the third center of the project, which is expected to carry out a massive change in health care and is the first center of the Kalutara District and the first center of the Kalutara District has been vested with the public.
-
-It is timely to ensure that the health challenges of the people today and the future of the future is time to build up the primary health care, making it easier for the health care and facilitate the health care and facilitating the health care.
-
-◼️
-
-[Data](articles/07c57503.json)
-
-[Extended Data](ext_articles/07c57503.ext.json)
-
----
-
-### The recent government gave the health of Kudamma
-
-*2025-09-30 13:01:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහගය-ආණඩ-ගම-සඛයයට-දනන-කඩමමග-සලකල/101-680491) · `si`
-
-Health and Mass Media Minister Nalinda Jayatissa said that the recent government has not used the attention to strengthening the tertiary and secondary institutions in the country.
-
-The Ministry of Health opened the third "Holeroya Health Celling" at Thalpitiya Family Health Care Clinic Center in Kalutara under the patronage of the "Hoogya Health Centers' centers.
-
-The project was the third center of the project, which is expected to carry out a massive change in health care and is the first center of the Kalutara District and the first center of the Kalutara District has been vested with the public.
-
-It is timely to ensure that the health challenges of the people today and the future of the future is time to build up the primary health care, making it easier for the health care and facilitate the health care and facilitating the health care.
-
-◼️
-
-[Data](articles/cdb5c668.json)
-
-[Extended Data](ext_articles/cdb5c668.ext.json)
-
----
-
-### Lecturers’ strike hampers academic activities at major state universities
-
-*2025-09-30 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113068/lecturers-strike-hampers-academic-activities-at-major-state-universities-) · `en`
-
-The one-day strike launched by the Federation of University Teachers’ Associations (FUTA) is currently underway at all state universities across the country.
-
-As a result, lectures and all academic activities at universities have been suspended for the day.
-
-The strike has been launched based on several key concerns, including, the shortage of academic staff due to the brain drain and failure to recruit qualified personnel, salary-related issues, the lack of improvements in university infrastructure and the insufficient allocation of funds for research.
-
-FUTA members stated that despite holding discussions with government authorities on multiple occasions, no satisfactory or effective solutions have been provided thus far.
-
-Due to the strike, academic activities at major state universities — including Colombo, Peradeniya, Ruhuna, Rajarata, and Jaffna — were disrupted.
-
-...
-
-[Data](articles/3facd9ae.json)
-
-[Extended Data](ext_articles/3facd9ae.ext.json)
-
----
-
-### Minister Promises Staffing Solutions For Health Sector
-
-*2025-09-30 12:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/minister-promises-staffing-solutions-for-health-sector) · `en`
-
-COLOMBO (News 1st); Health Minister Dr. Nalinda Jayatissa announced that a structured program is already in place to address the shortage of hospital staff across the country. He made this statement while inaugurating a newly built healthcare facility at the Darga Town Regional Hospital, constructed with assistance from the Chinese government.The new three-story complex, built at a cost of Rs. 300 million, falls under the administration of the Kalutara National Institute of Health Sciences.It features a four-bed emergency treatment unit, a 96-bed maternal and pediatric ward, and a fully equipped outpatient department.The opening ceremony was attended by senior officials, including Yan Tang, an advisor from the Chinese Embassy in Sri Lanka.
-
-◼️
-
-[Data](articles/c29db254.json)
-
-[Extended Data](ext_articles/c29db254.ext.json)
-
----
-
-### ශ්‍රමදානයක් අතරතුර රෝගී වූ දරුවන් 40ක් රෝහලට
-
-*2025-09-30 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215172) · `si`
-
-More than 40 students of the National School in Medirigiriya National School have been admitted to the Medirigiriya Base Hospital today (30).
-
-In the morning, these child girls have highlighted the symptoms of taboos, and then they were hospitalized due to the standard of these symptoms.
-
-Others have left the hospital with five children who are residential treatment.
-
-The Principal of the school has launched an investigation into the incident.
-
-◼️
-
-[Data](articles/b996fdcd.json)
-
-[Extended Data](ext_articles/b996fdcd.ext.json)
-
----
-
-### New Gimed of Southern Expressway
-
-*2025-09-30 12:49:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දකෂණ-අධවගයට-අලත-ගමන-හලක/1-680490) · `si`
-
-The government has decided to construct a leisure center in the Udukawa area in Udukawa, Matara.
-
-Ports Ministry of Defense, Professor Kapila K Perera laid the foundation stone yesterday.
-
-The restroom will be constructed near the 119 kilometer post of Matara Godagama and Cocomaduwa, Matara.
-
-There is currently a lounge at the Southern Expressway in the sandy area.
-
-◼️
-
-[Data](articles/026dd22e.json)
-
-[Extended Data](ext_articles/026dd22e.ext.json)
-
----
-
-### New Gimed of Southern Expressway
-
-*2025-09-30 12:49:22* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දකෂණ-අධවගයට-අලත-ගමන-හලක/101-680490) · `si`
-
-The government has decided to construct a leisure center in the Udukawa area in Udukawa, Matara.
-
-Ports Ministry of Defense, Professor Kapila K Perera laid the foundation stone yesterday.
-
-The restroom will be constructed near the 119 kilometer post of Matara Godagama and Cocomaduwa, Matara.
-
-There is currently a lounge at the Southern Expressway in the sandy area.
-
-◼️
-
-[Data](articles/2bc3e126.json)
-
-[Extended Data](ext_articles/2bc3e126.ext.json)
-
----
-
-### Workers' strike is hampered by university activities
-
-*2025-09-30 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215171) · `si`
-
-The University Teachers' Societies Federation (30) is working on all universities, accusing the government has not been solved by the government.
-
-විශ්වවිද්‍යාල ආචාර්යවරුන් රට හැරයාම මෙන්ම ඔවුන් නිසි ලෙස බඳවා නොගැනීමේ පසුබිම තුළ මතුව ඇති ආචාර්යවරුන්ගේ හිඟය, වැටුප් ගැටලුව, විශ්වවිද්‍යාල පද්ධතියේ පහසුකම් වැඩිදියුණු නොවීම, පර්යේෂණ වෙනුවෙන් වන ප්‍රතිපාදන තවදුරටත් පහළ මට්ටමක පැවතීම ඇතුළු කරුණු කිහිපයක් මුල් කරගනිමින් මෙම වැඩවර්ජනය ආරම්භ කර තිබේ.
-
-The Federation of University Teachers' Societies discussed with government authorities in many occasions, but no positive solution has been received so far.
-
-Due to one-day strike, Colombo, Peradeniya, Ruhuna, Rajarata, Jaffna and several state universities have been conducted.
-
-Meanwhile, the lecturers agitated in front of universities to demanding the solution to their problems.
-
-◼️
-
-[Data](articles/09ea9168.json)
-
-[Extended Data](ext_articles/09ea9168.ext.json)
-
----
-
-### President addresses Anura Japanese - Sri Lanka Business Forum
-
-*2025-09-30 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215170) · `si`
-
-President Anura Kumara Dissanayake has invited the business community to join the private sector to further strengthen the Sri Lankan bilateral trade and investment relationships and encouraging the private sector in Sri Lanka.
-
-The President made this observation addressing the Japanese-Sri Lanka Business Forum held at the Japan Foreign Trade Organization yesterday (29).
-
-The Sri Lanka Embassy of Japan, the Japanese Merchant Institute (Metro), was organized by the Japan's Embassy of Japan, the Sri Lanka Institute of Economic, Sri Lanka (Metro), the Japanese Sri Lanka Business Co-operation Cooperation Committee and BOI.
-
-Dr. Hans Wijayasuriya, Chief Consultant on the digital economy, has pointed out to the National Digitization process.
-
-Data centers as a regional center for development of the data centers as a regional center, the opportunities for the growth of areas such as digital translation and artificial intelligence (AI) pointed out.
-
-...
-
-[Data](articles/84c20367.json)
-
-[Extended Data](ext_articles/84c20367.ext.json)
-
----
-
-### University Lecturers Strike Over Pay & Staff Shortage
-
-*2025-09-30 12:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/university-lecturers-strike-over-pay-staff-shortage) · `en`
-
-COLOMBO (News 1st); Sri Lanka’s university system came to a standstill today (30) as the Federation of University Teachers’ Associations (FUTA) launched a one-day islandwide strike, demanding urgent solutions to long-standing grievances.The trade union action, which affects all state universities, was called in protest against severe academic staff shortages, salary disparities, and cuts to allowances. FUTA stated that despite multiple rounds of discussions with authorities, no meaningful solutions have been offered, leaving lecturers with no choice but to escalate their demands.According to the union, the strike is a warning shot, signaling growing frustration within the academic community.
-
-◼️
-
-[Data](articles/057bab45.json)
-
-[Extended Data](ext_articles/057bab45.ext.json)
-
----
-
-### Sri Lanka's property market continues to attract top foreign direct investment
-
-*2025-09-30 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226481) · `ta`
-
-According to the Real Estate Division of the Research Intelligence Unit, foreign investors have once again started to be interested in the property market.. In this context, Mr. Baili Investments of Bailey Investments Lanka Pvt Ltd. We are happy to share a special interview with Triston Wu.
-
-௧. What inspired the vision in the backdrop of one of the largest apartments in Rajagiriya?
-
-Our inspiration comes from finding the right balance of the Bailey Investments Lanka Pvt Limited (BAILI INVESTMENTS LANKA PVT LTD), elegance strength, comfort, technique, and urban energy with peaceful life. Located in the center of Rajagiriya, our submission to a city that mixes uninterrupted with traditional change. The time of Sri Lankan culture is inspired by the elegant rhythm of beauty and modern life, we aim to provide a lifestyle that connects the city's pulse and peace and peace of mind. In a nutshell, our vision is designed by the entire Sri Lanka, especially Rajagiriya.
-
-...
-
-[Data](articles/aabccc14.json)
-
-[Extended Data](ext_articles/aabccc14.ext.json)
-
----
-
-### Today's gold price
-
-*2025-09-30 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226482) · `ta`
-
-The price of gold sold at Chettiar Street, Colombo on Tuesday (30)
-
-◼️
-
-[Data](articles/03868763.json)
-
-[Extended Data](ext_articles/03868763.ext.json)
-
----
-
-### Shasheendra Rajapaksa Sent Back To Remand
-
-*2025-09-30 12:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/shasheendra-rajapaksa-sent-back-to-remand) · `en`
-
-COLOMBO (News 1st); Former State Minister Shasheendra Rajapaksa has been remanded until October 14 by the Colombo Chief Magistrate’s Court. The order was issued by Chief Magistrate Asanga S. Bodaragama after Rajapaksa was produced before court today.Rajapaksa was arrested on August 6 by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on charges of corruption and misuse of public property. The allegations are based on an incident involving a building illegally constructed on land belonging to the Sri Lanka Mahaweli Authority in Sevanagala.According to investigators, the building was destroyed during the May 9, 2022 protests, after which Rajapaksa allegedly pressured officials to approve compensation for the damage. He is accused of unlawfully obtaining Rs. 8.85 million as compensation, despite the property being state-owned.
-
-◼️
-
-[Data](articles/4c66b616.json)
-
-[Extended Data](ext_articles/4c66b616.ext.json)
-
----
-
-### ‘Total internet blackout’ in Afghanistan sparks panic
-
-*2025-09-30 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113067/total-internet-blackout-in-afghanistan-sparks-panic) · `en`
-
-The Taliban government in Afghanistan has imposed a nationwide shutdown of telecommunications, weeks after it began severing fibre-optic internet connections.
-
-The country is currently experiencing a “total internet blackout”, internet watchdog Netblocks reports.
-
-International news agencies say they have lost contact with offices in the capital Kabul. Mobile internet and satellite TV has also been severely disrupted across Afghanistan.
-
-The Taliban have yet to give an official reason for the shutdown. Since seizing power in 2021, the Taliban have imposed numerous restrictions in accordance with their interpretation of Islamic Sharia law.
-
-A Taliban official said the telecom shutdown would last until further notice.
-
-Tolo News, a privately owned Afghan news channel, told people to follow its social media pages for updates as it expected disruptions to its television and radio networks.
-
-Flights from Kabul airport have also been disrupted, local media reported.
-
-...
-
-[Data](articles/b06166d9.json)
-
-[Extended Data](ext_articles/b06166d9.ext.json)
-
----
-
-### Bus accident on A9 Road; Three people are injured!
-
-*2025-09-30 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226478) · `ta`
-
-Three persons were injured in a bus crash in Balukaswewa, Anuradhapura, Mihintale, A9 road, Mihintale police said.
-
-The accident occurred when a private bus traveling from Kadirgama to Jaffna collided with a lorry, police said.
-
-Three people were injured in the accident and were admitted to the Mihintale hospital for treatment, police said.
-
-◼️
-
-[Data](articles/56d7a621.json)
-
-[Extended Data](ext_articles/56d7a621.ext.json)
-
----
-
-### Ticket delivery on Western Province Private buses from tomorrow
-
-*2025-09-30 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226472) · `ta`
-
-The National Transport Commission of Western Province said that the provision of passengers on private buses in the Western Province will be made compulsory from Wednesday (01).
-
-The National Transport Commission Chairman Gamini Jasinghe said that this action has been taken due to improvement of accountability and service standards within the provincial bus network.
-
-It is noteworthy that this new practice is implemented throughout the Western Province and is forced to provide a travel ticket for every fee charged by private bus operators.
-
-◼️
-
-[Data](articles/f66fe33d.json)
-
-[Extended Data](ext_articles/f66fe33d.ext.json)
-
----
-
-### 47 children are jailed with Mother Marks
-
-*2025-09-30 11:58:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்மா-மார்களுடன்-47-குழந்தைகள்-சிறையில்-வாடுகின்றனர்/175-365521) · `ta`
-
-The prison headquarters said that 47 children are in jail with women who have been jailed for various crimes in the last nine months since the beginning of 2025. The children are 20 children and 27 girls.
-
-1,483 women have been jailed in the nine months from 1st January 2025 to September (27). Of these women, 229 are prisoners.
-
-In the seven months from January 1 to July 31, the number of women sentenced to imprisonment was 184 for drug offenses.
-
-Of them, 75 have been imprisoned for ice, 97 are for heroin, 8 for cannabis crime, a woman is an opium crime and 3 for other drugs.
-
-The Prison Headquarters has released this information following a request under the Right to Information Act.
-
-Last year, the number of women imprisoned for various crimes was 885, with 369 of them.
-
-Of these, 138 were jailed for ice, 199 were for heroin, 17 for cannabis crimes and 14 for other drug offenses.
-
-Last year, 655 married women were jailed for various crimes, of which 278 were jailed for drug offenses.
-
-...
-
-[Data](articles/e157c5be.json)
-
-[Extended Data](ext_articles/e157c5be.ext.json)
-
----
-
-### Three injured in bus-lorry accident on A9 road in Mihintale
-
-*2025-09-30 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113066/three-injured-in-bus-lorry-accident-on-a9-road-in-mihintale) · `en`
-
-Three individuals have sustained injuries in a road accident reported along A9 road in the Mihintale-Palugaswewa area.
-
-The incident took place when a lorry collided with the rear of a private bus traveling from Kataragama to Jaffna.
-
-The injured individuals, all passengers on the bus, were admitted to the Mihintale Regional Hospital for treatment.
-
-Further investigations into the accident are being conducted by the Traffic Division of the Mihintale Police.
-
-◼️
-
-[Data](articles/3e03ea48.json)
-
-[Extended Data](ext_articles/3e03ea48.ext.json)
-
----
-
-### Kilinochchi - The invention of bombs in the tattuvan
-
-*2025-09-30 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226476) · `ta`
-
-Bombs were discovered today (30) as they did not explode in Kilinochchi - Tattuvan Koti area.
-
-A search operation was carried out across the area yesterday, with two injured in the hospital.
-
-Bombs have been discovered today. Steps are being taken to obtain the order of the court to remove them.
-
-◼️
-
-[Data](articles/e9d87412.json)
-
-[Extended Data](ext_articles/e9d87412.ext.json)
-
----
-
-### Bus accident on the right; 28 passengers survived
-
-*2025-09-30 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226475) · `ta`
-
-A private bus traveling in the Valappanai area has been hit by a bus when he crashes off the road.
-
-The accident occurred on Monday (29) in the Maha Uva area of ​​the Nuwara Eliya-Valappanai main road.
-
-Valappanai police said that a bus crashed into a mound of mudslides in Walappanai area.
-
-Police believe that the incident may have been caused by a technical failure on the bus.
-
-◼️
-
-[Data](articles/143c35e1.json)
-
-[Extended Data](ext_articles/143c35e1.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 16:54:43**
+As of **2025-09-30 17:06:15**
 
 ## Newspaper Stats
 
-*Scraped **79,893** Articles*
+*Scraped **79,900** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 510
-lankadeepalk | 514
+lankadeepalk | 515
 dbsjeyarajcom | 635
 bbccomsinhala | 712
 colombotelegraphcom | 801
@@ -18,34 +18,96 @@ economynextcom | 4,746
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,689
-adaderanalk | 10,306
-tamilmirrorlk | 11,946
+adaderanalk | 10,309
+tamilmirrorlk | 11,948
 virakesarilk | 13,033
-adaderanasinhalalk | 13,814
+adaderanasinhalalk | 13,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,892 (100.0%) of 79,893 articles have been extended.
+79,893 (100.0%) of 79,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### කොළඹ උද්ධමනය වැඩි වෙයි
+### සරසවි සිසු විරෝධයක් නිසා කොළඹ පාරක් අවහිර වෙයි
+
+*2025-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215184) · `si`
+
+සරසවි සිසු විරෝධයක් හේතුවෙන් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව ඉදිරිපිටින් වාහන ගමනාගමනය සඳහා මාර්ග අවහිරවී තිබේ.
+
+◼️
+
+[Data](articles/3a016bc8.json)
+
+---
+
+### හිටපු ඇමැති ප්‍රසන්නට ඇප
+
+*2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-ඇමත-පරසනනට-ඇප/1-680507) · `si`
+
+කිරිබත්ගොඩ නගරයේ රජයේ ඉඩමකට කූටලේඛන සැකසීමේ චෝදනාව මත සැකපිට අත්අඩංගුවට ගෙන මාස පහකට අධික කාලයක් රිමාන්ඩ් භාරයේ සිටි හිටපු නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න රණවීර හා සරත්කුමාර එදිරිසිංහට ලක්ෂ පහක මුදල් හා ලක්ෂ පහ බැගින් වූ ශරීරය ඇප  පහක් මත මුදාහරින්නැයි  ගම්පහ මහාධිකරණය අංක දෙක විනිසුරු නයනා සෙනවිරත්න මහත්මිය අද 30දා නියෝග කළාය.
+
+විදේශ ගමන් තහනමක් පැනවූ විනිසුරුවරිය ඔවුන්ගේ විදේශ ගමන් බලපත්‍ර තිබේ නම් අධිකරණයට බාර දෙන ලෙසද නියෝග කළාය.
+
+විදේශ ගමන් බලපත්‍ර නොමැති නම් ඒ පිළිබඳව දිවුරුම් ප්‍රකාශයක් මගින් අධිකරණයට කරුණු වාර්තා කරන ලෙසද චූදිතයන්ට  නියෝග කළ විනිසුරුවරිය ඔවුන්ට අලුතින් විදේශ ගමන් බලපත්‍ර නිකුත් නොකරන ලෙසද ආගමන විගමන දෙපාර්තමේන්තුවට දැනුම් දෙන ලෙසද නියෝග කළාය.
+
+ඇප ලබා ගැනීමෙන් අනතුරුව සෑම ඉරිදා දිනකම පෙරවරුවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මුල්‍ය අපරාධ විමර්ශන අංශයට වාර්තා කරන ලෙසද විනිසුරුවරිය සැකකරුවන්ට  නියෝග කළාය.
+
+◼️
+
+[Data](articles/9d0cac8b.json)
+
+---
+
+### ”7 நிமிடங்களில் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கலாம்”
+
+*2025-09-30 16:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நிமிடங்களில்-ஓட்டுநர்-உரிமத்தைப்-புதுப்பிக்கலாம்/175-365535) · `ta`
+
+நுகேகொடையில் உள்ள தேசிய போக்குவரத்து மருத்துவ நிறுவனத்தால் 08 நிமிடங்களுக்குள் ஓட்டுநர் உரிமங்களைப் புதுப்பிக்கும் பணி மேற்கொள்ளப்படுவதாக போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+இலகுரக வாகன உரிமங்களை ஒவ்வொரு 08 வருடங்களுக்கும், கனரக வாகன உரிமங்களை ஒவ்வொரு 04 வருடங்களுக்கும் புதுப்பிக்க வேண்டும் என்று அமைச்சர் ரத்நாயக்க கூறினார்.
+
+"உரிமங்களைப் புதுப்பிக்க விரும்புவோர் நுகேகொடையில் உள்ள தேசிய போக்குவரத்து மருத்துவ நிறுவனத்திற்குச் செல்ல வேண்டியிருந்தது, ஆனால் அந்த நிறுவனத்திடம் கைரேகை முறை இல்லை, அது மோட்டார் போக்குவரத்துத் திணைக்களத்தில் மட்டுமே இருந்தது. இருப்பினும், இப்போது பொதுமக்கள் தங்கள் மருத்துவச் சான்றிதழைப் பெறலாம், கைரேகையைப் பதிவு செய்யலாம், உரிமத்தைப் புதுப்பிக்கத் தேவையான பணம் செலுத்தலாம் மற்றும் தற்காலிக உரிமத்தைப் பெறலாம், இவை அனைத்தும் நுகேகொடையில் உள்ள நிறுவனத்தில் மட்டுமே. இதற்கு 07 நிமிடங்கள் 47 வினாடிகள் மட்டுமே ஆகும், ”என்று அமைச்சர் கூறினார்.
+
+...
+
+[Data](articles/6ddb40b4.json)
+
+---
+
+### Colombo inflation increased
 
 *2025-09-30 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215183) · `si`
 
-කොළඹ පාරිභෝගික මිල දර්ශකයෙහි වාර්ෂික ලක්ෂ්‍යමය වෙනස මගින් මනිනු ලබන මතුපිට උද්ධමනය, 2025 සැප්තැම්බර් මාසයේ දී 1.5%ක් දක්වා වැඩි වී ඇති බව ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+The annual point inflation is increased to 1.5% in September 2025, which increased by the annual point difference in the Colombo Consumer Price Index.
 
-2025  සැප්තැම්බර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය)  2.9% දක්වා වැඩි වී ඇති අතර 2025 අගෝස්තු මාසයේ දී එය වාර්තා වුයේ 2.0%ක් ලෙසයි.
+In September 2025, the annual inflation of food category increased to 2.9% and in August 2025 as 2.0% were reported.
 
-එමෙන්ම,  2025 සැප්තැම්බර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය(ලක්‍ෂ්‍යමය)  0.7% ක් දක්වා අඩු වී ඇති අතර එය 2025 අගෝස්තු මාසයේ දී 0.8% ක් ලෙස වාර්තා විය.
+Also, the non-food annual inflation for September 2025 has been reduced to 0.6% in August 2025.
 
 ◼️
 
 [Data](articles/b312de0a.json)
+
+[Extended Data](ext_articles/b312de0a.ext.json)
+
+---
+
+### “என்னை  பழிவாங்கலாம்”   மவுனம் கலைத்த விஜய்
+
+*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்/175-365534) · `ta`
+
+கரூர் சம்பவம் தொடர்பாக 3 நாட்கள் கழித்து மவுனம் கலைத்துள்ள தவெக தலைவர் விஜய், உயிரிழந்தவர்களுக்கு இரங்கல் தெரிவித்ததோடு, கரூருக்கு நேரில் வருவேன் என்றார். மேலும், இந்தச் சம்பவத்தில் தன்னைப் பழிவாங்க வேண்டுமென்றால், தன்னை என்ன வேண்டுமானாலும் செய்யலாம், தனது கட்சித் தொண்டர்களை ஏதும் செய்ய வேண்டாம் என்று தமிழக முதல்வருக்கு வெளிப்படையாக சவால் விட்டுள்ளார். மேலும், முன்பைவிட வலுவாக அரசியல் பயணம் தொடரும் என்றும் தெரிவித்துள்ளார்.
+
+கரூர் வேலுசாமிபுரத்தில் செப்.27-ம் திகதி நடைபெற்ற தவெக பிரச்சாரக் கூட்டத்தில் நெரிசலில் சிக்கி 41 பேர் உயிரிழந்தனர். 110 பேர் காயமடைந்தனர். இந்நிலையில் இன்று மதியம் 3 மணிக்கு மேல் விஜய் தனது எக்ஸ் பக்கத்தில் ஒரு வீடியோவைப் பகிர்ந்தார். அதில் அவர் கூறியிருப்பதாவது: “அனைவருக்கும் வணக்கம். என் வாழ்க்கையில் இது மாதிரியான வலி மிகுந்த நிகழ்வை நான் சந்தித்ததே இல்லை. மனது முழுவதும் வலி மட்டுமே இருக்கிறது.
+
+...
+
+[Data](articles/cf176caa.json)
 
 ---
 
@@ -62,6 +124,18 @@ Police said these handabiped were found at a search operation conducted on infor
 [Data](articles/92cd03d3.json)
 
 [Extended Data](ext_articles/92cd03d3.ext.json)
+
+---
+
+### Ten hand grenades found in a bag at Modara
+
+*2025-09-30 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113081/ten-hand-grenades-found-in-a-bag-at-modara-) · `en`
+
+The Terrorism Investigation Division (TID) has recovered a bag containing ten hand grenades at Aluthmawatha Road in Modara, police said.
+
+◼️
+
+[Data](articles/6f3484a8.json)
 
 ---
 
@@ -200,6 +274,50 @@ The Gampaha High Court on Tuesday (30) ordered the release of former minister Pr
 [Data](articles/eb01674e.json)
 
 [Extended Data](ext_articles/eb01674e.ext.json)
+
+---
+
+### Car bomb kills 10 in Pakistan after militants trigger shootout with troops
+
+*2025-09-30 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113080/car-bomb-kills-10-in-pakistan-after-militants-trigger-shootout-with-troops) · `en`
+
+A powerful car bomb killed 10 people in Pakistan after exploding outside the paramilitary security forces’ headquarters.
+
+Before detonating their vehicle in the southwestern city of Quetta, six attackers who were inside the car stepped outside and engaged troops in an intense shootout, police said.
+
+People living in the area said the blast was so powerful it was heard from miles away.
+
+Dozens were also wounded and taken to hospital after ambulances rushed to the site in front of the Frontier Constabulary.
+
+No group immediately claimed responsibility, though suspicion will fall on separatist groups that often target civilians and security forces in insurgency-plagued Balochistan, where Quetta is the provincial capital.
+
+Provincial health minister Bakhat Kakar said there were fears the number of people killed could rise.
+
+Local television channels and CCTV footage from the site of the explosion shows a car stopping in front of the gate of the paramilitary compound.
+
+...
+
+[Data](articles/1a8f09db.json)
+
+---
+
+### Appeals court issues directive on vehicles detained by Sri Lanka Customs
+
+*2025-09-30 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113079/appeals-court-issues-directive-on-vehicles-detained-by-sri-lanka-customs) · `en`
+
+The Court of Appeal today (30) ordered Sri Lanka Customs to investigate and report to court by October 10, whether the vehicles currently being detained by Customs can be released on a corporate or personal bond.
+
+This directive was issued during the hearing of approximately 15 writ petitions filed by vehicle importers seeking an order to release vehicles currently held by Sri Lanka Customs.
+
+The petitions were heard before a bench comprising Court of Appeal President Justice Rohantha Abeysuriya and Justice Priyantha Fernando.
+
+During the hearing, counsel representing the petitioners submitted that the decision by Sri Lanka Customs to detain the imported vehicles was entirely unlawful.
+
+The counsels further argued that all petitioners strongly opposed a proposal by the Secretary to the Ministry of Finance to release the vehicles upon payment of a 35% surcharge.
+
+...
+
+[Data](articles/8b4128b4.json)
 
 ---
 
@@ -1846,149 +1964,5 @@ Police believe that the incident may have been caused by a technical failure on 
 [Data](articles/143c35e1.json)
 
 [Extended Data](ext_articles/143c35e1.ext.json)
-
----
-
-### Request to keep Sashindra in a wet room
-
-*2025-09-30 11:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷிந்திரவை-ஈரமான-அறையில்-வைக்க-கோரிக்கை/175-365520) · `ta`
-
-Colombo Chief Magistrate Asanga Sasanga Sasindra Rajapakse, who is alleged to have been accused of compensation for the assets and kidneys of the Kriyippanwewa Mahaweli Authority, which was burned and destroyed by the protesters in 2022. Podarakama ordered the prison superintendent on Tuesday (30).
-
-The magistrate, who said that no exceptional truth has been presented to bail to the suspect under the Public Property Act, has been extended for the next 14 days.
-
-The magistrate ordered that the suspect had any illnesses, and that they had to be present, and that no exceptional truth had been presented, and that he had to submit a report on what kind of illness he had and what treatment he had so far.
-
-The order was issued after considering the request of his lawyer to grant bail to the suspect who had been interrogated for two months.. He said the suspect was suffering from many diseases and that his body was high in sodium concentration, which could severely affect his kidneys.
-
-...
-
-[Data](articles/40067ffd.json)
-
-[Extended Data](ext_articles/40067ffd.ext.json)
-
----
-
-### Sri Lanka’s DFCC Bank lists green bond on India International Exchange
-
-*2025-09-30 11:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-lists-green-bond-on-india-international-exchange-242241/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank green bond has been listed on the India International Exchange (IFSC) Limited, the bank said in a market filing.
-
-“We wish to inform that DFCC Bank’s Green Bond which is listed on the Colombo Stock Exchange (CSE), was listed
-
-on the India International Exchange (IFSC) Limited on 26 September 2025.”
-
-Previous listings were on the Luxembourg Stock Exchange (LuxSE) and National Stock Exchange International Exchange (NSE IX) India.
-
-“DFCC Bank PLC is the first foreign corporate entity to list a bond on the India International Exchange (IFSC) Limited.”
-
-Trading and settlement of the green bond will continue to be through the CSE in rupees.
-
-It will not be traded on the India International Exchange (IFSC) Limited, the bank said. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/4dee33d1.json)
-
-[Extended Data](ext_articles/4dee33d1.ext.json)
-
----
-
-### Coop is angry with a position of electricity
-
-*2025-09-30 11:48:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදලය-තනතරකට-කප-කප-වය/101-680466) · `si`
-
-The COPE committee was displeased with the officials for 11 months of a acting officer of the CPC.
-
-It is regrettable that there is no surrender internal auditor for the Sri Lanka CEB.
-
-The officials have said that interviews will be held in the future to recruit suitability.
-
-◼️
-
-[Data](articles/011808fe.json)
-
-[Extended Data](ext_articles/011808fe.ext.json)
-
----
-
-### Coop is angry with a position of electricity
-
-*2025-09-30 11:48:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදලය-තනතරකට-කප-කප-වය/1-680466) · `si`
-
-The COPE committee was displeased with the officials for 11 months of a acting officer of the CPC.
-
-It is regrettable that there is no surrender internal auditor for the Sri Lanka CEB.
-
-The officials have said that interviews will be held in the future to recruit suitability.
-
-◼️
-
-[Data](articles/14cee77b.json)
-
-[Extended Data](ext_articles/14cee77b.ext.json)
-
----
-
-### ICC Women's World Cup India
-
-*2025-09-30 11:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐசிசி-மகளிர்-உலகக்-கோப்பை-இந்தியா-இலங்கை-இன்று-மோதுகிறது/44-365519) · `ta`
-
-The 13th ICC Ladies One Day Cricket Gate World Cup Series in Guwahat T today (30).
-
-The Women's World Cup series takes place after 12 years. The series, which will be held up to Navam Bur 2, will be attended by 8 teams - As Trali Ya, Ing Kilan, The Ya, New Zealand, South of Brigga, Sri Lanka Guy, Wang Katasam and Pakis.
-
-Moth Tam 28 League Aad Tangs Round Robin Walking. Botts are taking place in the city of Colombo and in Colombo, Sri Lanka. The total prize money of the series is about Rs 123 crore. This time the team may seek to find a solution to the cope for 47 years.
-
-Har Man Preet Kaur, the head of the start of the day, will be playing with the Sri Lankan team today.. The team of the team's bat ting kill Smriti Manna, Bra Diga Rawal, Jemima Road Ricks, Richa Ghosh, Har Lin Deol and Deepti Sharma may be strong.. Panu Weez Chil Aman Joth Kaur, Renuka Singh, Granthi Gowdu, Radha Yadav and Sneha Rana may be crowded with the Sri Lankan team's bat ting line.
-
-◼️
-
-[Data](articles/43c91ecb.json)
-
-[Extended Data](ext_articles/43c91ecb.ext.json)
-
----
-
-### 47 children with female prisoners are in prison - prison headquarters
-
-*2025-09-30 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226473) · `ta`
-
-The prison headquarters said that 47 children are in jail with female prisoners who have been arrested on various allegations within 2025 and placed in a prison under a court order.
-
-20 male children and 27 girls are in prison with female prisoners.
-
-From January 01 to 2025 to 27 September, 1483 women have been arrested and detained under a court order.
-
-From January 1 to July 2025, 184 women have been arrested in connection with drug offenses and detained under a court order.
-
-Of them, 75 women have been detained in prison in prison, about 97 women, 97 women, and 8 women cannabis.
-
-◼️
-
-[Data](articles/5aff138f.json)
-
-[Extended Data](ext_articles/5aff138f.ext.json)
-
----
-
-### Bus - a lorry accident
-
-*2025-09-30 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215169) · `si`
-
-Three persons were injured in an accident in Padugaswewa area on the A9 road.
-
-The accident had occurred when a lorry from Kataragama to Jaffna.
-
-Three persons who were injured in the accident have been admitted to the Mihintale Divisional Hospital.
-
-The Mihintale Police Traffic Division conducts further investigations into the accident.
-
-◼️
-
-[Data](articles/41e570dc.json)
-
-[Extended Data](ext_articles/41e570dc.ext.json)
 
 ---

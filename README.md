@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 21:39:54**
+As of **2025-09-30 21:56:47**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,977 (100.0%) of 79,978 articles have been extended.
+79,978 (100.0%) of 79,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,6 +64,8 @@ ECONOMYNEXT – Agents for China’s BYD in Sri Lanka, JKCG Auto said it is offe
 ...
 
 [Data](articles/1088161a.json)
+
+[Extended Data](ext_articles/1088161a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 04:20:28**
+As of **2025-10-01 04:54:27**
 
 ## Newspaper Stats
 
-*Scraped **80,012** Articles*
+*Scraped **80,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,17 +19,223 @@ islandlk | 4,851
 dailyftlk | 5,604
 adalk | 7,699
 adaderanalk | 10,318
-tamilmirrorlk | 11,954
-virakesarilk | 13,064
+tamilmirrorlk | 11,955
+virakesarilk | 13,074
 adaderanasinhalalk | 13,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,012 (100.0%) of 80,012 articles have been extended.
+80,022 (100.0%) of 80,023 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-10-01 (Wednesday)
+
+### பால் உற்பத்தியை மேம்படுத்தல் தொடர்பில் ஒப்பந்தம்
+
+*2025-10-01 04:24:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-உற்பத்தியை-மேம்படுத்தல்-தொடர்பில்-ஒப்பந்தம்/175-365561) · `ta`
+
+ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் அங்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க நேற்று (30) முற்பகல் டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் ஜப்பான் சர்வதேச ஒத்துழைப்பு முகவர் நிறுவனத்தின் தலைவர் டனாகா அகிஹிகோவை சந்தித்து கலந்துரையாடினார்.
+
+தேசிய அபிவிருத்திக்கு கணிசமான பங்களிப்பை வழங்கும் ஜைகா   ஊடாக சலுகை யென் கடன் மீண்டும் வழங்க ஆரம்பித்து, ஜப்பான் இலங்கைக்கு வழங்கும் தொடர்ச்சியான ஆதரவிற்கு ஜனாதிபதி இங்கு  தமது நன்றியைத் தெரிவித்தார்.
+
+இலங்கையின் நிலைபேறான பொருளாதார முன்னேற்றத்தின் பிரதான காரணியாக தனியார் துறை, தொழிநுட்ப மற்றும் விவசாயத் துறை ஆகிய துறைகளின் அபிவிருத்தியின் முக்கியத்துவத்தை ஜைகா தலைவர் இங்கு சுட்டிக்காட்டினார்.
+
+கட்டுநாயக்க, பண்டாரநாயக்க சர்வதேச விமான நிலைய திட்டத்தை விரைவில் மீண்டும் ஆரம்பிப்பதற்கு நடவடிக்கை எடுப்பதாகவும், இலங்கையின் மெக்ரோ பொருளாதார முகாமைத்துவத்தை கண்காணித்து இலங்கையுடனான நீண்டகால ஒத்துழைப்பை மேலும் பேணுவதற்கு எதிர்பார்ப்பதாகவும் அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/cd3081c2.json)
+
+---
+
+### Rebel Star 'Prabhas's preview release of' The Raja Chap '
+
+*2025-10-01 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226540) · `ta`
+
+The preview of 'The Raja Chap' has been released starring 'Rebel Star'. The preview, which was created by Horror Fantasy, has been visited by more than fourteen million spectators within the short term.
+
+Prabhas, Poman Irani, Sanjay Dutt, Zarina Wahab, Malavika Mohanan, Nithi Agarwal, Rithikumar. Karthik Palani has recorded the film for this movie. Taman has composed the music. The film was co -produced by producer DG Viswa Prasad and Kruthi Prasad on behalf of People's Media Factory Company.
+
+The film, which has been officially announced that Ban will be released as Indian film in Tamil, Telugu, Malayalam, Kannada and Hindi on the 10th of January next year on January 10 next year.. The scenes of this are due to the VF X technology quality ... Having impressed the fans.
+
+◼️
+
+[Data](articles/70db99e8.json)
+
+[Extended Data](ext_articles/70db99e8.ext.json)
+
+---
+
+### Actor Kanna Ravi starring 'Veduwan' web series Preview Release
+
+*2025-10-01 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226539) · `ta`
+
+The preview of the 'Veduwan', which is aired on the original internet series on the G5 Digital site from the 10th of October, has been released.
+
+Actor Kanna Ravi, Sanjeev Venkat, Siravnitha Srikanth, Ramya Ramakrishnan, Rekha Nair and many others have starred in the 'Veduwan' series directed by director Pawan.  The internet series is composed by Vipin Bhaskar on behalf of Rice East for the Tamil digital site.
+
+Commenting on the Internet series, the director said, “Suraj, a film actor, has the opportunity to act in the creation of a police officer's life history.. The story of the film is the unexpected events when he plays the character. ”
+
+◼️
+
+[Data](articles/7fb49df9.json)
+
+[Extended Data](ext_articles/7fb49df9.ext.json)
+
+---
+
+### Torn Therapy
+
+*2025-10-01 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226537) · `ta`
+
+Our younger generation continues to increase the use of electronic devices including mobile phone and laptop. We look at the cell phone, especially when we descend from the normal state of our body until at least 6 hours a day. We are visiting the digital screen in the handset. We also carry out tasks such as running or typing their livelihood laptop. This will eventually affect the bones in your neck area and change your appearance.
+
+Others are making a change in their body language ... Especially pain in the pelvic area. For this they go to the doctor and treat them with pain relief treatment. Doctors say that with such treatment, the Torn Therapy, which is now known as the Torn Therapy, will provide rapid relief to the renovation touch.
+
+Though the neck bone is affected by this Torn Therapy ... Though the cone falls due to old age .... Despite the change in your style due to old age and weight loss .... Relief can be obtained by performing a proper and complete Torn Therapy.
+
+...
+
+[Data](articles/d819fe29.json)
+
+[Extended Data](ext_articles/d819fe29.ext.json)
+
+---
+
+### The music and preview of the movie 'Veera Thamizhachi' starring newcomer Sushmita Suresh
+
+*2025-10-01 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226538) · `ta`
+
+The music and preview launch of the movie 'Veera Thamizhachi' starring the famous Sanjeev, the famous film, was held in Chennai. Directors R.. V.. Udayakumar - Empire - Rajakumaran - Vijay Sri participated as special guests.
+
+Sanjeev Venkat, Ilaya, Sushmita Suresh, Swetha Dorathi, late actor Marimuthu, writer and actor Vela Ramamurthy. Rajan, Mustache Rajendran, Jayam Gopi and many others have played. Sankaralingam Selvakumar has composed the film for the film.. The film was co -produced by producers Sarada Manivannan and Mahi.
+
+The event was held in Chennai. Commenting on the film, director Suresh Bharati said, “The film is an awareness film for women. When are women being sexually harassed? How should they recover from it? What is the solution to this?. Hope the film's peak scene will be different. This film will definitely win. ”
+
+◼️
+
+[Data](articles/970c0987.json)
+
+[Extended Data](ext_articles/970c0987.ext.json)
+
+---
+
+### Aruna Vidhanagamage was in a vehicle that followed him before he died - In response, police media spokesman
+
+*2025-10-01 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226531) · `ta`
+
+Police Media Spokesperson Assistant Superintendent of Police, Meura Senarath, said that the Gajja, a recently assassinated Aruna Vidhanagamage, which was recently assassinated in the Mitteniya area, has been confirmed that the group that came to assassinate Rugby player Wasim Tajuddin has been confirmed.
+
+The murderous crude wife has confirmed that her husband is based on CCTV videos. The Assistant Superintendent of Police said investigations have been intensified based on this issue.
+
+A special journalist held at the police headquarters on Tuesday (30) said this during the meeting.
+
+In the early hours of the morning, the famous rugby player Wasim Tajuddin crashed near the Salika Playground of Narahenpita Park Road, Narahenpitiya.
+
+Investigations were carried out by the Narahenpita Police Station and the Borella Crime Unit.
+
+Subsequently, in 2015, Colombo District Deputy Inspector General of Police Gamini Madurada submitted a report to the then Inspector General of Police Ilangakon.
+
+...
+
+[Data](articles/4663df48.json)
+
+[Extended Data](ext_articles/4663df48.ext.json)
+
+---
+
+### Introduction to a website for registering three -wheeler
+
+*2025-10-01 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226536) · `ta`
+
+Western Province Road Passenger Transport Authority has introduced a new website for all passengers in the Western Province.. Accordingly, three -wheeler owners and drivers can register on the website https://wptaxi.net/.
+
+Jeevinda Keerthiratne, Operating Manager of the Authority, said that the process of issuing passengers permits for three -wheelers has been resumed.
+
+Since this registration process is fully e -mail, three -wheeler owners can submit their details on the website and get the time for the registration. According to this time, facilities have been provided to register at the concerned Divisional Secretariat Offices.
+
+◼️
+
+[Data](articles/feac5340.json)
+
+[Extended Data](ext_articles/feac5340.ext.json)
+
+---
+
+### Former State Minister Prasanna Ranweera bail
+
+*2025-10-01 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226535) · `ta`
+
+The Gampaha High Court has granted bail to former State Minister Prasanna Ranawira, who was arrested and interrogated on charges of producing fake documents and selling state -owned land.
+
+Former State Minister Prasanna Ranweera was arrested and kept in interrogation on charges of making fake documents and selling state -owned land. In this backdrop, the hearing of the bail plea filed by former Minister of State Prasanna Ranweera was taken up for hearing on Tuesday under the leadership of Gampaha High Court Judge Nayana Seneviratne.
+
+Considering the evidence presented at the time, the judge released the suspects, Prasanna Ranawira and Sarath Ethi Sinha, under strict bail conditions.. Accordingly, the suspects were released with five body bail worth Rs 5 lakh each and a cash bail worth Rs.
+
+...
+
+[Data](articles/de820bd0.json)
+
+[Extended Data](ext_articles/de820bd0.ext.json)
+
+---
+
+### Increase in Colombo Primary Inflation; The Department of Access and Statistics
+
+*2025-10-01 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226534) · `ta`
+
+The Department of Consumer Price Index has announced that the primary inflation rate on the basis of Colombo has increased from 1.2 per cent in August 2025 to 1.5 per cent in September 2025.
+
+In a statement issued by the Department of Communication and Statistics on the Consumer Price Code of Colombo for September
+
+Food inflation increased to 2.9 per cent in September 2025 compared to 2.0 per cent in August 2025.. Non -annual inflation declined to 0.7 percent in September. It was reported at 0.8 per cent in August 2025, according to the Department of Census and Statistics.
+
+◼️
+
+[Data](articles/165b49db.json)
+
+[Extended Data](ext_articles/165b49db.ext.json)
+
+---
+
+### Sridharan goes to Geneva; Will participate in side events
+
+*2025-10-01 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226533) · `ta`
+
+Sivagnanam Sridharan, the head of the Sri Lanka Tamil National Alliance (TNA), who arrived in Geneva on Tuesday (30), will attend the 60th session of the United Nations Human Rights Council.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The first draft of the new resolution was released on the 9th of last week, which was released on the 9th of last week by the British -led internet, including Canada, Malavi, Montenegro and North Messidonia, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka.
+
+At the same time, it is expected that the United Nations Human Rights Office will hold meetings with representatives of the British -led internet -headed countries and then discuss the issues of Tamils.
+
+◼️
+
+[Data](articles/487a1c01.json)
+
+[Extended Data](ext_articles/487a1c01.ext.json)
+
+---
+
+### Children's Day Must be obligatory for the year - Sajith Premadasa
+
+*2025-10-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226532) · `ta`
+
+Opposition Leader Sajith Premadasa has said that we will be dedicated to the children and the elderly, not only for a day, but will be dedicated to our duty and responsibility for the year.
+
+He said this in his greeting on the International Children's Day and International Elderly Day.
+
+The phrase 'today's children's day' gives us a good understanding of children and the elderly. The safety of the boys is the well -being of the community. The elderly who inherit the well -being of society are the group that symbolizes the best role models of a country. Protecting, maintaining, maintaining these two groups and fulfilling the responsibilities and duties of the community for them is the responsibility of all who expect the good position of a country.
+
+...
+
+[Data](articles/3e73f427.json)
+
+[Extended Data](ext_articles/3e73f427.ext.json)
+
+---
 
 ### 2025-09-30 (Tuesday)
 
@@ -1816,217 +2022,5 @@ Minister Bimal Ratnayake made this observation at the inauguration ceremony of p
 [Data](articles/6ddb40b4.json)
 
 [Extended Data](ext_articles/6ddb40b4.ext.json)
-
----
-
-### SriLankan Airlines introduces UnionPay for online payments
-
-*2025-09-30 16:29:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-introduces-unionpay-for-online-payments-242277/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines has teamed with UnionPay International and Bank of Ceylon to introduce UnionPay as a payment method, expanding payment options and offering more convenience to the growing number of Chinese travellers, it said.
-
-“By enabling UnionPay card acceptance, we provide a more inclusive and seamless payment experience, making it easier for international travellers to book their flights conveniently,” Dimuthu Tennakoon, Head of Commercial at SriLankan Airlines said.
-
-This adds to the airline’s payment options, which includes Visa, MasterCard, Amex, Diners, Discover, UATP, Alipay and WeChat Pay.
-
-...
-
-[Data](articles/29999b86.json)
-
-[Extended Data](ext_articles/29999b86.ext.json)
-
----
-
-### Colombo inflation increased
-
-*2025-09-30 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215183) · `si`
-
-The annual point inflation is increased to 1.5% in September 2025, which increased by the annual point difference in the Colombo Consumer Price Index.
-
-In September 2025, the annual inflation of food category increased to 2.9% and in August 2025 as 2.0% were reported.
-
-Also, the non-food annual inflation for September 2025 has been reduced to 0.6% in August 2025.
-
-◼️
-
-[Data](articles/b312de0a.json)
-
-[Extended Data](ext_articles/b312de0a.ext.json)
-
----
-
-### Vijay (Video link)
-
-*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்-வீடியோ-இணைப்பு/175-365534) · `ta`
-
-Three days after the Karur incident, the silence of the silence, Vijay said that he would condole the victims and said that he would come to Karur.. Also, if he wants to avenge himself, he can do whatever he wants, and he has openly challenged the Tamil Nadu Chief Minister not to do anything to do his party volunteers.. He also said that the political journey would continue strongly than ever before.
-
-At the Karur Velusamipuram, 41 people were killed in a congestion at the Tawaka campaign meeting on September 27. 110 people were injured. In this case, Vijay shared a video on his X page at 3 pm today. In it, he said: “Hello everyone. I never met this kind of painful event in my life. There is only pain throughout the mind.
-
-People come to see me on this tour. There's only one reason for that. It is the affection and love they put on me. I owe it so much for that. That is why the idea that no compromise in their safety is deep in my mind.
-
-...
-
-[Data](articles/23036ba7.json)
-
-[Extended Data](ext_articles/23036ba7.ext.json)
-
----
-
-### "Let me avenge me"
-
-*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்/175-365534) · `ta`
-
-Three days after the Karur incident, the silence of the silence, Vijay said that he would condole the victims and said that he would come to Karur.. Also, if he wants to avenge himself, he can do whatever he wants, and he has openly challenged the Tamil Nadu Chief Minister not to do anything to do his party volunteers.. He also said that the political journey would continue strongly than ever before.
-
-At the Karur Velusamipuram, 41 people were killed in a congestion at the Tawaka campaign meeting on September 27. 110 people were injured. In this case, Vijay shared a video on his X page at 3 pm today. In it, he said: “Hello everyone. I never met this kind of painful event in my life. There is only pain throughout the mind.
-
-People come to see me on this tour. There's only one reason for that. It is the affection and love they put on me. I owe it so much for that. That is why the idea that no compromise in their safety is deep in my mind.
-
-...
-
-[Data](articles/cf176caa.json)
-
-[Extended Data](ext_articles/cf176caa.ext.json)
-
----
-
-### Moderin meets with 10 grenades
-
-*2025-09-30 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215182) · `si`
-
-10 hand grenades found in Modara New Mawatha, Colombo.
-
-Police said these handabiped were found at a search operation conducted on information received by the Terrorism Investigation Division.
-
-◼️
-
-[Data](articles/92cd03d3.json)
-
-[Extended Data](ext_articles/92cd03d3.ext.json)
-
----
-
-### Ten hand grenades found in a bag at Modara
-
-*2025-09-30 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113081/ten-hand-grenades-found-in-a-bag-at-modara-) · `en`
-
-The Terrorism Investigation Division (TID) has recovered a bag containing ten hand grenades at Aluthmawatha Road in Modara, police said.
-
-◼️
-
-[Data](articles/6f3484a8.json)
-
-[Extended Data](ext_articles/6f3484a8.ext.json)
-
----
-
-### Japanese help new schools in North East
-
-*2025-09-30 16:07:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උතර-නගනහර-පසල-සයක-අලත-කරනන-ජපනන-උදවවක/101-680506) · `si`
-
-President Anura Kumara Dissanayake on an invite of the Government of Japan on an invitation of the Japanese government visited the Nihii Sasakawa (Yohei Sasakawa) at the Imperial Hotel Tokyo.
-
-Special attention was focused on strengthening the long-term friendship between Japan and Sri Lanka.
-
-Jahai Sasakawa (Yohei Sasakawa) stated that he will continue to support the livelihood of all communities in Sri Lanka.. He also presented the plans to renovate and modernization of 100 schools in the North and East.
-
-President Anura Kumara Dissanayake expressed his gratitude to Johani Sasakawa, a long term commitment to the development and well being in Sri Lanka.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
-
-◼️
-
-[Data](articles/fa0fc06b.json)
-
-[Extended Data](ext_articles/fa0fc06b.ext.json)
-
----
-
-### Japanese help new schools in North East
-
-*2025-09-30 16:07:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උතර-නගනහර-පසල-සයක-අලත-කරනන-ජපනන-උදවවක/1-680506) · `si`
-
-President Anura Kumara Dissanayake on an invite of the Government of Japan on an invitation of the Japanese government visited the Nihii Sasakawa (Yohei Sasakawa) at the Imperial Hotel Tokyo.
-
-Special attention was focused on strengthening the long-term friendship between Japan and Sri Lanka.
-
-Jahai Sasakawa (Yohei Sasakawa) stated that he will continue to support the livelihood of all communities in Sri Lanka.. He also presented the plans to renovate and modernization of 100 schools in the North and East.
-
-President Anura Kumara Dissanayake expressed his gratitude to Johani Sasakawa, a long term commitment to the development and well being in Sri Lanka.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
-
-◼️
-
-[Data](articles/fa7a386a.json)
-
-[Extended Data](ext_articles/fa7a386a.ext.json)
-
----
-
-### Prasanna Ranaweera released on bail
-
-*2025-09-30 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215181) · `si`
-
-Former State Minister Prasanna Ranaweera has been granted bail to former government minister Prasanna Ranaweera.
-
-Former State Minister Prasanna Ranaweera, who was accused of preparing and selling false deeds, was re-examined today (30).
-
-Attorneys who appear on behalf of Prasanna Ranaweera were in the High Court in the High Court.
-
-The suspects Gampaha High Court Judge Naya Seneviratne has released Mrs. Naya Seneviratne, Gampaha High Court Judge Prasanna Ranaweera and Sarath Edirisinghe suspects.
-
-According to our terms, the passports of the suspects should be handed over to each of the five lakhs and five bail of the suspects each.
-
-◼️
-
-[Data](articles/ceaab82d.json)
-
-[Extended Data](ext_articles/ceaab82d.ext.json)
-
----
-
-### Sri Lanka offers investments in key sectors during president’s visit
-
-*2025-09-30 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-investments-in-key-sectors-during-presidents-visit-242272/) · `en`
-
-ECONOMYNEXT – Sri Lanka has offered investments to the Japanese business community in many areas including the island nation’s digital transformation, artificial intelligence (AI) manufacturing, information technology, renewable energy and tourism, the President’s Media Division said.
-
-Top officials from the Sri Lanka government made these offers when they met the Japanese business community during the official visit of President Anura Kumara Dissanayake.
-
-President Dissanayake also invited the Japanese business community to join in exploring the emerging economic opportunities in Sri Lanka, while further strengthening bilateral trade and investment relations between Japan and Sri Lanka and encouraging private sector participation.
-
-Addressing the forum, Dr Hans Wijayasuriya, Chief Advisor to the President of Sri Lanka on Digital Economy, outlined the Sri Lankan Government’s strategic priorities for the country’s national digitalisation process.
-
-...
-
-[Data](articles/f870e998.json)
-
-[Extended Data](ext_articles/f870e998.ext.json)
-
----
-
-### A discussion between the President and Nippon Foundation
-
-*2025-09-30 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215180) · `si`
-
-President Anura Kumara Dissanayake on an invite of the Japanese government visited the Nippon Foundation at the Imperial Hotel in Tokyo this morning and met with the founding chairman of Nihani Sasaka.
-
-Special attention was focused on further strengthening the long-term friendship between Japan and Sri Lanka.
-
-Jahai Sasakawa stated that he will continue to support the upliftment of the livelihoods of all communities in Sri Lanka.
-
-He also presented the plans to renovate and modernization of 100 schools in the North and East.
-
-President Anura Kumara Dissanayake expressed his gratitude to Johani Sasaka, the attempt to uplift and well-being in Sri Lanka.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
-
-◼️
-
-[Data](articles/955ca1eb.json)
-
-[Extended Data](ext_articles/955ca1eb.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 12:25:44**
+As of **2025-09-30 12:38:54**
 
 ## Newspaper Stats
 
-*Scraped **79,766** Articles*
+*Scraped **79,772** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 490
+lankadeepalk | 493
 newsfirstlk | 498
 dbsjeyarajcom | 635
 bbccomsinhala | 710
@@ -19,7 +19,7 @@ islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,679
 adaderanalk | 10,293
-tamilmirrorlk | 11,934
+tamilmirrorlk | 11,937
 virakesarilk | 12,998
 adaderanasinhalalk | 13,800
 
@@ -27,11 +27,45 @@ adaderanasinhalalk | 13,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,765 (100.0%) of 79,766 articles have been extended.
+79,766 (100.0%) of 79,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### அம்மா மார்களுடன் 47 குழந்தைகள் சிறையில் வாடுகின்றனர்
+
+*2025-09-30 11:58:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்மா-மார்களுடன்-47-குழந்தைகள்-சிறையில்-வாடுகின்றனர்/175-365521) · `ta`
+
+2025 ஆம் ஆண்டு தொடக்கத்தில் இருந்து கடந்த 9 மாதங்களில் பல்வேறு குற்றங்களுக்காக சிறையில் அடைக்கப்பட்ட பெண்களுடன் 47 குழந்தைகள் சிறையில் இருப்பதாக சிறைச்சாலை தலைமையகம் தெரிவித்துள்ளது.அந்தக் குழந்தைகளில், 20 சிறுவர்களும் 27 சிறுமிகளும் அடங்குவர்.
+
+2025 ஜனவரி 1 ஆம் திகதி முதல் செப்டெம்பர் (27) நாள் வரையிலான 9 மாதங்களில், 1,483 பெண்கள் சிறையில் அடைக்கப்பட்டுள்ளனர்.இந்தப் பெண்களில், 229 பேர் தண்டனை பெற்ற கைதிகளாவர்.
+
+ஜனவரி 1 ஆம் திகதி முதல் ஜூலை 31 ஆம் திகதி வரையிலான 7 மாதங்களில், போதைப்பொருள் குற்றங்களுக்காக சிறைத்தண்டனை விதிக்கப்பட்ட பெண்களின் எண்ணிக்கை 184 ஆகும்.
+
+அவர்களில், 75 பேர் ஐஸ் குற்றத்திற்காகவும், 97 பேர் ஹெரோயினுக்காகவும், 8 பேர் கஞ்சா குற்றத்திற்காகவும், ஒரு பெண் ஓபியம் குற்றத்திற்காகவும், 3 பேர் பிற போதைப்பொருட்களுக்காகவும் சிறையில் அடைக்கப்பட்டுள்ளனர்.
+
+தகவல் அறியும் உரிமைச் சட்டத்தின் கீழ் விடுத்த கோரிக்கையைத் தொடர்ந்து இந்தத் தகவலை சிறைச்சாலை தலைமையகம் வெளியிட்டுள்ளது.
+
+...
+
+[Data](articles/e157c5be.json)
+
+---
+
+### சஷிந்திரவை ஈரமான அறையில் வைக்க கோரிக்கை
+
+*2025-09-30 11:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷிந்திரவை-ஈரமான-அறையில்-வைக்க-கோரிக்கை/175-365520) · `ta`
+
+2022 ஆம் ஆண்டு போராட்டக்காரர்களால் எரிக்கப்பட்டு அழிக்கப்பட்ட கிரியிப்பன்வெவ மகாவலி அதிகாரசபையின் சொத்துக்களுக்கும், சிறுநீரகங்களுக்கும் இழப்பீடு பெறுமாறு அரசாங்க அதிகாரிகளுக்கு அழுத்தம் கொடுத்ததாகக் கூறப்படும் முன்னாள் இராஜாங்க அமைச்சர் சஷிந்திர ராஜபக்ஷவின் உடலில் சோடியம் செறிவு அதிகரித்தது குறித்து முழுமையான மருத்துவ அறிக்கையை நீதிமன்றத்தில் சமர்ப்பிக்குமாறு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம, செவ்வாய்க்கிழமை (30) சிறைச்சாலை கண்காணிப்பாளருக்கு உத்தரவிட்டார்.
+
+பொது சொத்துச் சட்டத்தின் கீழ் விளக்கமறியலில் வைக்கப்பட்டுள்ள சந்தேக நபருக்கு பிணை  வழங்க எந்த விதிவிலக்கான உண்மையும் முன்வைக்கப்படவில்லை என்று கூறிய நீதவான், சந்தேக நபரின் விளக்கமறியல் அடுத்த 14 நாட்களுக்கு நீடிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/40067ffd.json)
+
+---
 
 ### Coop is angry with a position of electricity
 
@@ -48,6 +82,22 @@ The officials have said that interviews will be held in the future to recruit su
 [Data](articles/011808fe.json)
 
 [Extended Data](ext_articles/011808fe.ext.json)
+
+---
+
+### විදුලියේ තනතුරකට  ’’කෝප්’’   කෝප වෙයි
+
+*2025-09-30 11:48:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදලය-තනතරකට-කප-කප-වය/1-680466) · `si`
+
+විදුලි බල මණ්ඩලයේ විගණක ලෙස වැඩබලන නිලධාරිනියක මාස 11ක් තිස්‍සේ රාජකාරී අවරණය කිරීම සම්බන්ධයෙන් කෝප් කමිටුව එහි නිලධාරීන්ට අප්‍රසාදය පළ කළේය.
+
+විශාල මුදල් ප්‍රමාණයක් සංසරණය වන ආයතනයක් ලෙස ‍ශ්‍රී ලංකා විදුලි බල මණ්ඩලය වෙනුවෙන් සථිර අභ්‍යන්තර විගණකවරයෙකු  නොසිටීම කණගාටුවට කරුණක් බව කාරක සභාව පෙන්වා දී ඇත.
+
+මෙහිදී නිලධාරීන්  පවසා ඇත්තේ  මෙම තනතුර සඳහා සුදුස්සකු බඳවාගැනීමට සම්මුඛ පරීක්ෂණ ඉදිරියේදී පවත්වන බවයි.
+
+◼️
+
+[Data](articles/14cee77b.json)
 
 ---
 
@@ -91,6 +141,22 @@ The Mihintale Police Traffic Division conducts further investigations into the a
 
 ---
 
+### கொழும்பு, தெஹிவளையில் 2 ஆண்களின் சடலங்கள் மீட்பு
+
+*2025-09-30 11:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-தெஹிவளையில்-2-ஆண்களின்-சடலங்கள்-மீட்பு/175-365518) · `ta`
+
+கிராண்ட்பாஸ் மற்றும் தெஹிவளையில் நேற்று வெவ்வேறு சம்பவங்களில் இரண்டு ஆண்களின் சடலங்கள் கண்டெடுக்கப்பட்டதை அடுத்து, பொலிஸார் விசாரணைகளைத் தொடங்கியுள்ளனர்.
+
+முதல் உடல் கிராண்ட்பாஸில் உள்ள இங்குருகொடை சந்திக்கு அருகில் கண்டெடுக்கப்பட்டது. உயிரிழந்தவர் இன்னும் அடையாளம் காணப்படவில்லை என்றும், அவர் 35 முதல் 40 வயதுக்குட்பட்டவர் என்றும், சுமார் 5 அடி 4 அங்குல உயரம் கொண்டவர் என்றும், கருப்பு ஷார்ட்ஸ் மற்றும் கருப்பு டி-சர்ட் அணிந்திருந்ததாகவும் பொலிஸார் தெரிவித்தனர். உடல் பரிசோதனைக்காக கொழும்பு தேசிய மருத்துவமனையின் பிணவறைக்கு கொண்டு செல்லப்பட்டது.
+
+மற்றொரு சம்பவத்தில், தெஹிவளை, சிறிவர்தன வீதியில் உள்ள ஒரு வீட்டினுள் 23 வயதுடைய ஒருவர் இறந்து கிடந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c7072d0b.json)
+
+---
+
 ### Another young man who was injured in an accident
 
 *2025-09-30 11:31:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-காயமடைந்த-மற்றுமொரு-இளைஞனும்-உயிரிழப்பு/175-365517) · `ta`
@@ -125,27 +191,29 @@ The Colombo Magistrate's Court has been remanded until the 14th of this month.
 
 ---
 
-### ඉන්දුනීසියාවේ පාසල් ගොඩනැගිල්ලක් කඩා වැටෙයි
+### School building collapses in Indonesia
 
 *2025-09-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215168) · `si`
 
-ඉන්දුනීසියාවේ ජාවා නුවර පිහිටි පාසලක ගොඩනැගිල්ලක් කඩා වැටීමෙන්ම එහි සිටි සිසුන්ගෙන්  සිසුන් තිදෙනෙකු මියගොස් තවත් 38 දෙනෙකු සුන්බුන් අතර සිර වී සිටින බව වාර්තාවේ.
+Three students were killed and 38 were killed and 38 were killed and 38 of the students were killed in a school in Java, Indonesia.
 
-විදෙස් මාධ්‍ය පැවසුවේ තවත් 101 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවය.
+Foreign media said that 101 others were injured and hospitalized.
 
-මියගොස් ඇත්තේ අවුරුදු 13ක් වයසැති පිරිමි ළමයෙකු වන අතර තුවාල ලබා රෝහල් ගත කර ඇති අය අතුරින් වැඩි පිරිසක් බරපතළ තුවාල ලබා ඇති බවත් මරණ ගණන ඉහළ යා හැකි බවත් වාර්තා වේ.
+The deceased has been identified as a 13 year old boy and most of the injuries were seriously injured and the number of deaths could be increased.
 
-සුන්බුන් අතර සිරවී සිටින බවට විශ්වාස කෙරෙන 38 දෙනෙකු සොයා බේරා ගැනීමේ මෙහෙයුම් ක්‍රියාත්මක වේ.
+Operations operate operates in search of 38 people who believe in the wreckage.
 
-මෙලෙස අනතුරට පත් ව ඇත්තේ වයස අවුරුදු 12 ත් 17 ත් අතර වයස්වල පාසලේ සිටි සිසුන් බව විදෙස් මාධ්‍ය පවසයි.
+According to foreign media reports, students of the school aged between the ages of 12 and 17.
 
-ගොඩනැගිල්ල කඩා වැටෙන විට යාඥා කිරීම සඳහා රැස්ව සිටි ඇති බව සඳහන් වේ.
+It is said that when the building collapsed, he was gathered to pray.
 
-කඩා වැටි ඇති දෙමහල් ගොඩනැගිල්ලේ අස්ථායී අත්තිවාරමක් තිබී ඇති බව වාර්තා වේ.
+It is reported that the unstable foundations of a two storied building have been found in a collapse.
 
 ◼️
 
 [Data](articles/641b8284.json)
+
+[Extended Data](ext_articles/641b8284.ext.json)
 
 ---
 
@@ -701,6 +769,24 @@ The suspects were arrested for 24/38 years old and another person was arrested i
 
 ---
 
+### පද්මේගේ අවි ළඟ තබාගත් දෙන්නෙක් අල්ලයි
+
+*2025-09-30 09:28:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදමග-අව-ළඟ-තබගත-දනනක-අලලය/1-680456) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායක කෙහෙල් බද්දර පද්මේ නමැත්තාට අයත් මයික්‍රෝ වර්ගේ ගිනි අවියක් සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් පුද්ගලයන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+එක් සැකකරුවකු එම සිද්ධියට ආධාර අනුබලදීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.ඔහු රියදුරෙකු ලෙස කටයුතු කරන අයෙකි.
+
+ඉන්දුනීසියාවේ ජාකාර්තා නුවරදි පසුගියදා අත්අඩංගුවට ගත් කෙහෙල් බද්දට පත්මෙ නැමැත්තා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශයේ ඒකකයේ රඳවාගෙන සිදුකළ ප්‍රශ්න කිරීමේදී අපරාධ සිදුකිරීම සඳහා ලබාදුන් ගිනි අවියක් කැලණිය නාතුඩුව ප්‍රදේශයේ පුද්ගලයකුට භාරදී ඇති බවට අනාවරණය වීමෙන් අනතුරුව එම සැකකරු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+එම සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී එම සිද්ධියට ආධාර අනුබලදීම සම්බන්ධයෙන් ජාඇල වැලිගම් පිටිය ප්‍රදේශයේපදිංචි තවත් පුද්ගලයෙකුද අත්අඩංගුවට ගත් බව පොලිසිය කියයි අත්අඩංගුවට ගත් සැකකරුවන් වයස අවුරුදු 24/38අතර පසුවන්නන්ය.
+
+◼️
+
+[Data](articles/bfccf225.json)
+
+---
+
 ### Katunayake Rs. A business attempted to emit alcohol
 
 *2025-09-30 09:25:58* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-රු--මිලියනයක-මත්පැන්-පිටකිරීමට-තැත්කළ-ව්‍යාපාරියෙක්-අල්ලයි/11-418801) · `si`
@@ -740,6 +826,24 @@ The Department said that the temporary driving license applicants should not be 
 [Data](articles/8482c199.json)
 
 [Extended Data](ext_articles/8482c199.ext.json)
+
+---
+
+### තලල්ල වෙරළ ජාත්‍යන්තරයට
+
+*2025-09-30 09:05:25* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තලලල-වරළ-ජතයනතරයට/1-680450) · `si`
+
+මාතර දෙවිනුවර දිගු රන්වන් දුඹුරු වැලි සහිත වෙරළ තීරයක් වන තලල්ල වෙරළ තීරය ජාත්‍යන්තර සහතික ලාභී නිල්ධජ වෙරළ තීරයක් බවට පත් කිරීමේ ව්‍යාපෘතිය තලල්ල වෙරළ තීරයේදී ආරම්භ කෙරිණි.
+
+Clean Sri Lanka වැඩසටහන යටතේ සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය මඟින් මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කරනු ලබයි.
+
+අන්තර් ජාතික නිල්ධජ වෙරළ පාරිසරික සහතිකය යනු, ලෝකයේ වෙරළ තීර වල පාරිසරික සංරක්ෂණය, ජල තත්ත්වය, පාරිසරික දැනුවත් වීම, ආරක්ෂාව හා සේවා පිළිබඳ තත්ත්වය මත ලබාදෙන පාරිසරික සහතිකයකි. නිල්ධජ වෙරළ තීරයක් ලෙස මෙම වෙරළ තීරය සංවර්ධනය කරමින් සංචාරක ආකර්ෂණය ඉහළ නංවා, රටේ ආර්ථික වර්ධන ඉලක්ක සාක්ෂාත් කර ගැනීමෙහිලා මෙකී වැඩසටහන සුවිශේෂී දායකත්වයක් සපයනු ඇත.
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති, පරිසර අමාත්‍ය  වෛද්‍ය ධම්මික පටබැඳි, ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රසල් අපොන්සු, මාතර දිස්ත්‍රික් ලේකම් චන්දන තිලකරත්න, සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරියේ සභාපති සමන්ත ගුණසේකර යන මහත්වරු  සහ රාජ්‍ය හා රාජ්‍ය නොවන සංවිධානවල නියෝජිතයෝ ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/791f2466.json)
 
 ---
 
@@ -1836,113 +1940,5 @@ Thankfully, all is not lost at the United Nations. In this situation of deadlock
 [Data](articles/ffa3e8dd.json)
 
 [Extended Data](ext_articles/ffa3e8dd.ext.json)
-
----
-
-### 2025-09-29 (Monday)
-
-### Phoenix Ogilvy and SriLankan Airlines bring home the country’s first APAC Effie Award
-
-*2025-09-29 23:38:00* · [`islandlk`](http://island.lk/phoenix-ogilvy-and-srilankan-airlines-bring-home-the-countrys-first-apac-effie-award/) · `en`
-
-Phoenix Ogilvy Sri Lanka and SriLankan Airlines have made history as the first Sri Lankan advertising agency and brand to win at the coveted APAC Effie’s, held recently in Singapore.
-
-The campaign, Relive the Epic of the Ramayana Trail, was the sole entry shortlisted in the Travel and Tourism category from the entire Asia Pacific region and was awarded a Bronze Effie, highlighting the campaign’s role in revitalizing inbound tourism at a crucial time for the nation’s economy.
-
-...
-
-[Data](articles/5d35930a.json)
-
-[Extended Data](ext_articles/5d35930a.ext.json)
-
----
-
-### Benchmarking digital excellence: Browns IT recognised with ISO 9001:2015
-
-*2025-09-29 23:37:00* · [`islandlk`](http://island.lk/benchmarking-digital-excellence-browns-it-recognised-with-iso-90012015/) · `en`
-
-Brown & Company’s digital arm, Browns IT was recently awarded the ISO 9001:2015 certification by world-leading certification company Bureau Veritas in recognition of its quality-driven commitment to delivering cutting-edge digital solutions. Widely regarded as one of the most globally recognised standards for Quality Management Systems (QMS), the ISO 9001:2015 certification is exclusively awarded to companies that demonstrate consistent quality across their processes, products and services, while aligning with international standards. This milestone is timely as Browns celebrates its 150th anniversary, a century and a half defined by innovation, resilience, and a steadfast commitment to customer-centric service excellence.
-
-...
-
-[Data](articles/a244d06b.json)
-
-[Extended Data](ext_articles/a244d06b.ext.json)
-
----
-
-### Nation Lanka Finance decides against going ahead with private placement of shares but CSE remains robust
-
-*2025-09-29 23:35:00* · [`islandlk`](http://island.lk/nation-lanka-finance-decides-against-going-ahead-with-private-placement-of-shares-but-cse-remains-robust/) · `en`
-
-Nation Lanka Finance said it would not proceed with its planned private placement of shares, which would have helped it to meet working capital requirements.
-
-The company had received regulator approval for the private placement of 30 billion ordinary shares at 10 cents per share.
-
-“NLF PLC wishes to now inform that the Company would not pursue with the said Private Placement of Shares, informed sources said.
-
-Amid those developments the market performance was overall positive as investors were optimistic over the potential in emerging new economic policies.
-
-The All Share Price Index went up by 86.14 points, while the S and P SL20 rose by 3.67 points. Turnover stood at Rs 4.2 billion with five crossings.
-
-...
-
-[Data](articles/17260fa0.json)
-
-[Extended Data](ext_articles/17260fa0.ext.json)
-
----
-
-### CSE Masterminds Quiz offers over Rs. 3.5 million in prizes for its 7th edition
-
-*2025-09-29 23:34:00* · [`islandlk`](http://island.lk/cse-masterminds-quiz-offers-over-rs-3-5-million-in-prizes-for-its-7th-edition/) · `en`
-
-The Colombo Stock Exchange (CSE) announces the seventh edition of the CSE Masterminds Quiz on 17th October 2025 from 3.00 p.m. onwards at the Main Ballroom, Shangri-La Colombo.
-
-Recognized as Sri Lanka’s premier capital market quiz competition, the event will bring together teams from the public and private sector to compete for glory in six subject areas, in international business, global markets, Sri Lankan economy and business, local capital market, sports & entertainment, and current affairs.
-
-This year’s competition will offer prizes worth over Rs. 3.5 million. The champion team will walk away with Rs. 1,000,000/-, while the second and third-placed teams will receive Rs. 500,000/- and Rs. 375,000/-, respectively.
-
-...
-
-[Data](articles/01c5987b.json)
-
-[Extended Data](ext_articles/01c5987b.ext.json)
-
----
-
-### Budget 2025: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2025-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/66618729.json)
-
-[Extended Data](ext_articles/66618729.ext.json)
-
----
-
-### Budget 2026: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/96e151f6.json)
-
-[Extended Data](ext_articles/96e151f6.ext.json)
 
 ---

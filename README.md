@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 17:59:11**
+As of **2025-09-30 18:22:17**
 
 ## Newspaper Stats
 
-*Scraped **79,923** Articles*
+*Scraped **79,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,24 +14,54 @@ dbsjeyarajcom | 635
 bbccomsinhala | 712
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
-economynextcom | 4,746
+economynextcom | 4,752
 islandlk | 4,850
 dailyftlk | 5,604
-adalk | 7,692
+adalk | 7,694
 adaderanalk | 10,309
 tamilmirrorlk | 11,949
-virakesarilk | 13,045
+virakesarilk | 13,048
 adaderanasinhalalk | 13,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,921 (100.0%) of 79,923 articles have been extended.
+79,923 (100.0%) of 79,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### காணாமற்போனவர்கள் பற்றிய அலுவலகத்திற்கான உறுப்பினர் பதவிக்கான விண்ணப்பம் கோரல்
+
+*2025-09-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226511) · `ta`
+
+2016 ஆம் ஆண்டின் 14 ஆம் இலக்க, காணாமற்போன ஆட்கள் பற்றிய அலுவலகம் (தாபித்தலும், நிருவகித்தலும், பணிகளை நிறைவேற்றுதலும்) (திருத்தப்பட்டவாறான) சட்டத்தின் ஏற்பாடுகளின் பிரகாரம் காணாமற்போனவர்கள்  பற்றிய அலுவலகத்தில் 2025 ஒக்டோபர் மாதத்தில் ஏற்படக்கூடியதான உறுப்பினர் பதவிக்கான வெற்றிடமொன்றை நிரப்புவதற்கான விண்ணப்பம் கோரப்பட்டுள்ளது.
+
+நிகழ்வு கண்டறிதல் அல்லது நுண்ணாய்வு, மனிதவுரிமைகள் சட்டம், சர்வதேச மனிதாபிமான சட்டம், மனிதாபிமான பதிலிறுப்பு என்பவற்றின் முன்னனுபவம் கொண்டவர்களிடமிருந்தும் அல்லது, காணாமற்போனவர்கள் பற்றிய அலுவலகத்தின் பணிகளை நிறைவேற்றுவதற்கு இயைபான ஏனைய தகைமைகளை உடையவர்களிடமிருந்தும் விண்ணப்பங்கள் கோரப்படுகின்றன.
+
+...
+
+[Data](articles/1d05a2ef.json)
+
+---
+
+### "புதிதாய் எதுவும் வேண்டாம் பறித்ததை தா" - வவுனியா பல்கலைக்கழகத்தின் முன்பாக ஆர்ப்பாட்டம்
+
+*2025-09-30 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226509) · `ta`
+
+வவுனியா பல்கலைக்கழக ஆசிரியர் சம்மேளனத்தினால் பல்கலைக்கழக வாயிலிற்கு முன்பாக ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டிருந்தது.
+
+பல்கலைக்கழக கட்டமைப்பில் உள்ள குறைபாடுகளை நிவர்த்தி செய்ய அரசாங்கம் நடவடிக்கை எடுக்க தவறியுள்ளதாக தெரிவித்து, நாடளாவிய ரீதியில் அரச பல்கலைக்கழகளக ஆசிரியர் சம்மேளனத்தால் முன்னெடுக்கப்பட்டு வரும் அடையாள பணிபகிஸ்கரிப்புக்கு ஆதரவு தெரிவிக்கும் முகமாக குறித்த ஆர்ப்பாட்டமானது முன்னெடுக்கப்பட்டிருந்தது.
+
+இதன்போது மூளை இழப்பு மூலதன இழப்பு, புதிதாய் எதுவும் வேண்டாம் பறித்ததை தா, தேவையான வெற்றிடங்களை நிரப்பு, உயர் கல்வி இன்றேல் உயர்ச்சி இல்லை போன்ற வாசகங்கள் எழுதிய பதாகையை தாங்கியவாறு ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+◼️
+
+[Data](articles/373af0f9.json)
+
+---
 
 ### Japan's Nippon Foundation Pledges Support for Sri Lanka
 
@@ -53,6 +83,8 @@ He acknowledged the Nippon Foundation’s long-term contributions toward nationa
 
 [Data](articles/dce7386b.json)
 
+[Extended Data](ext_articles/dce7386b.ext.json)
+
 ---
 
 ### Ten Hand Grenades Discovered In Mutuwal
@@ -64,6 +96,8 @@ COLOMBO (News 1st); A cache of ten hand grenades was discovered inside a bag nea
 ◼️
 
 [Data](articles/6c09d6dd.json)
+
+[Extended Data](ext_articles/6c09d6dd.ext.json)
 
 ---
 
@@ -201,6 +235,30 @@ The case was taken out by the Gampaha High Court today (30).
 
 ---
 
+### Sri Lanka stocks close up 0.47-pct after volatile session
+
+*2025-09-30 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-47-pct-after-volatile-session-242271/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) rose 0.47 percent higher on Tuesday ending a volatile session, data on its site showed.
+
+The ASPI climbed 102.30 points to end at 21,778.60; while the S&P SL20 closed 0.12 percent, or 7.32 points higher, at 6,126.53.
+
+Investor interest moved to telecommunication, capital goods and food, beverage and tobacco sector shares.
+
+Top contributors to the ASPI were Diesel & Motor Engineering (up 335.75 rupees at 2,070.75), Bukit Darah (up 74.00 rupees at 1,075.25), Ceylon Cold Stores (up 7.75 rupees at 122.75), Melstacorp (up 2.00 rupees at 171.00) and Watawala Plantations (up 4.00 rupees at 44.40).
+
+Market turnover was 6.2 billion rupees, while the share volume was 154,781,095.
+
+Indian equity markets ended “little changed on Tuesday,” Reuters said, as investors remained cautious ahead of a central bank policy decision.
+
+The Nifty 50 index fell 0.097 percent to 24,611.10, while the BSE Sensex moved 0.12 percent to 80,267.62.
+
+...
+
+[Data](articles/c1bf0423.json)
+
+---
+
 ### Former minister plea
 
 *2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-ඇමත-පරසනනට-ඇප/101-680507) · `si`
@@ -238,6 +296,22 @@ After obtaining bail, the judge also ordered the suspects to report to the Finan
 [Data](articles/9d0cac8b.json)
 
 [Extended Data](ext_articles/9d0cac8b.ext.json)
+
+---
+
+### 76வது இராணுவ ஆண்டு விழாவை முன்னிட்டு கதிர்காமத்தில் இராணுவ கொடிகளுக்கு ஆசிர்வாதம்
+
+*2025-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226504) · `ta`
+
+எதிர்வரும் ஒக்டோபர் மாதம் 10 ஆம் திகதி கொண்டாடப்படவுள்ள இலங்கை இராணுவத்தின் 76வது ஆண்டு விழாவை முன்னிட்டு, இராணுவ தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ அவர்களின் தலைமையில் திங்கட்கிழமை (29) வரலாற்றுச் சிறப்புமிக்க கதிர்காமம் கிரி விகாரை வளாகத்திலும், கதிர்காமம் தேவஸ்தான வளாகத்திலும் விசேட சமய நிகழ்வு இடம்பெற்றது.
+
+இந்நிகழ்வில், இராணுவத்தினர் இராணுவ கொடிகளை ஏந்தியவாறு, அக்கொடிகளுக்கு ஆசிர்வாதம் வேண்டி, ஊர்வலமாக கதிர்காமம் கிரி விகாரை மற்றும் தேவஸ்தான வளாகத்திற்கு வருகை தந்தனர்.
+
+இராணுவத்தின் அனைத்து படையணிகளையும் பிரதிநிதித்துவப்படுத்தி சிரேஷ்ட அதிகாரிகள், அதிகாரிகள் மற்றும் சிப்பாய்கள் இந்த நிகழ்வில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/8ad1ab2f.json)
 
 ---
 
@@ -298,6 +372,22 @@ Minister Bimal Ratnayake made this observation at the inauguration ceremony of p
 [Data](articles/6ddb40b4.json)
 
 [Extended Data](ext_articles/6ddb40b4.ext.json)
+
+---
+
+### SriLankan Airlines introduces UnionPay for online payments
+
+*2025-09-30 16:29:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-introduces-unionpay-for-online-payments-242277/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines has teamed with UnionPay International and Bank of Ceylon to introduce UnionPay as a payment method, expanding payment options and offering more convenience to the growing number of Chinese travellers, it said.
+
+“By enabling UnionPay card acceptance, we provide a more inclusive and seamless payment experience, making it easier for international travellers to book their flights conveniently,” Dimuthu Tennakoon, Head of Commercial at SriLankan Airlines said.
+
+This adds to the airline’s payment options, which includes Visa, MasterCard, Amex, Diners, Discover, UATP, Alipay and WeChat Pay.
+
+...
+
+[Data](articles/29999b86.json)
 
 ---
 
@@ -448,6 +538,24 @@ According to our terms, the passports of the suspects should be handed over to e
 [Data](articles/ceaab82d.json)
 
 [Extended Data](ext_articles/ceaab82d.ext.json)
+
+---
+
+### Sri Lanka offers investments in key sectors during president’s visit
+
+*2025-09-30 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-investments-in-key-sectors-during-presidents-visit-242272/) · `en`
+
+ECONOMYNEXT – Sri Lanka has offered investments to the Japanese business community in many areas including the island nation’s digital transformation, artificial intelligence (AI) manufacturing, information technology, renewable energy and tourism, the President’s Media Division said.
+
+Top officials from the Sri Lanka government made these offers when they met the Japanese business community during the official visit of President Anura Kumara Dissanayake.
+
+President Dissanayake also invited the Japanese business community to join in exploring the emerging economic opportunities in Sri Lanka, while further strengthening bilateral trade and investment relations between Japan and Sri Lanka and encouraging private sector participation.
+
+Addressing the forum, Dr Hans Wijayasuriya, Chief Advisor to the President of Sri Lanka on Digital Economy, outlined the Sri Lankan Government’s strategic priorities for the country’s national digitalisation process.
+
+...
+
+[Data](articles/f870e998.json)
 
 ---
 
@@ -819,6 +927,26 @@ During the special raid, 678 persons with evidence of various crimes, 14 on susp
 
 ---
 
+### Yall. Special Economic Center
+
+*2025-09-30 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226493) · `ta`
+
+The renovation of the Special Economic Center in Jaffna was held on Tuesday morning (30) under the patronage of Minister of Fisheries, Aquatic and Marine Resources Chandrasekhar.
+
+Minister of Commerce, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe, Governor of the Northern Province, Na Vedanayanan, Members of Parliament K. Ilangumaran, S. Sripavanantharasa and J. Rajeevan were also present.
+
+The Economic Center was opened and the wholesalers started the wholesale business.
+
+Chavakachcheri Pradeshiya Sabha Chairman, Jaffna. District Secretary, Secretary to the Ministry of Agriculture of the Northern Province, Divisional Secretaries and Representatives of the Agricultural Federation were present at the event.
+
+◼️
+
+[Data](articles/7cfbec3c.json)
+
+[Extended Data](ext_articles/7cfbec3c.ext.json)
+
+---
+
 ### 'Gift' of'Nobel Gift '
 
 *2025-09-30 15:03:55* · [`adalk`](https://www.ada.lk/breaking_news/‍’නොබෙල්-තෑග්ග’-අත්වැරදීමක්/11-418819) · `si`
@@ -1079,6 +1207,26 @@ The governance of Sri Lanka made these claims. But the provincial councils have 
 
 ---
 
+### දිනක් වයසැති දැරිවියක් බෑගයක දමා කැසිකිළියක දමා යයි
+
+*2025-09-30 14:42:48* · [`adalk`](https://www.ada.lk/breaking_news/දිනක්-වයසැති-දැරිවියක්-බෑගයක-දමා-කැසිකිළියක-දමා-යයි/11-418817) · `si`
+
+අම්පාර දිස්ත්‍රික්කයේ අකක්රපත්තුව පොලිස් බල ප්‍රදේශයේ  අස්රෆ් නගර් ඔලුවිල් 4  වසා දමා ඇති රහුමාන් ජුම්මා පල්ලිය පිටුපස කැසිකිළිය තුළ දිනක පමණ වයස ඇති කුඩා දැරිවියක් බෑගයක දමා එම ස්ථානයේ දමා ගොස් තිබියදි හමුවි තිබේ.
+
+එම ප්‍රදේශයේ  පදිංචි සල්මත් මොහොමදුර රතිෂ් යන අයට දරුවෙකු කෑගහන හඬ ඇසි අතර ඔහු  එම ස්ථානයට පැමිණ  සොයා බැලිමේදි මෙම දරුවා දැක තිබේ.
+
+පසුව අක්කරපත්වූව පොලිසිය වෙත  දුරකථන මාර්ගයෙන් දැනුවත් කිරීමෙන් පසු එම ස්ථානයට පැමිණි අක්කරපත්තුවව පොලිසි ස්ථානයේ නිලධාරින් විසින් මෙම දරුවා ඔලුවිල් ප්‍රාදේශීය රෝහල වෙත රැගෙන යාමෙන් පසු මෙම දරුවා වැඩිදුර ප්‍රතිකාර සඳහා අක්කරපත්තුව    රෝහල වෙත මාරු කර යවා තිබේ.
+
+දැනට දරුවා රෝහල් කාර්ය මණ්ඩලයේ භාරව අක්කරපත්තුව මුලික රෝහලේ ලදරු ප්‍රථිකාර ඒකකයේ සිටින බව අක්කරපත්තුව මුලික රෝහලේ වෛද්‍ය අධිකාරි වෛද්‍ය අයි.එම්. ජාවාහිර් මහතා පැවසිය.
+
+මෙම දරුවා දින තුනක පමන දරුවෙක් වන අතර දරුවා නිරෝගිව සිටින බවද වෛද්‍ය අධිකාරි වෛද්‍ය අයි.එම්.ජාවාහිර් මහතා සදහන් කළේය.
+
+...
+
+[Data](articles/2f9a726b.json)
+
+---
+
 ### Former State Minister Prasanna Ranaweera granted bail
 
 *2025-09-30 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113075/former-state-minister-prasanna-ranaweera-granted-bail) · `en`
@@ -1120,26 +1268,6 @@ On the sidelines, President Dissanayake met with JETRO Chairman Norihiko Ishigur
 [Data](articles/221f5c59.json)
 
 [Extended Data](ext_articles/221f5c59.ext.json)
-
----
-
-### Yall. Special Economic Center
-
-*2025-09-30 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226493) · `ta`
-
-The renovation of the Special Economic Center in Jaffna was held on Tuesday morning (30) under the patronage of Minister of Fisheries, Aquatic and Marine Resources Chandrasekhar.
-
-Minister of Commerce, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe, Governor of the Northern Province, Na Vedanayanan, Members of Parliament K. Ilangumaran, S. Sripavanantharasa and J. Rajeevan were also present.
-
-The Economic Center was opened and the wholesalers started the wholesale business.
-
-Chavakachcheri Pradeshiya Sabha Chairman, Jaffna. District Secretary, Secretary to the Ministry of Agriculture of the Northern Province, Divisional Secretaries and Representatives of the Agricultural Federation were present at the event.
-
-◼️
-
-[Data](articles/7cfbec3c.json)
-
-[Extended Data](ext_articles/7cfbec3c.ext.json)
 
 ---
 
@@ -1242,6 +1370,32 @@ The social media has emerges in social media regarding the transfusion of me. I 
 [Data](articles/63d1289a.json)
 
 [Extended Data](ext_articles/63d1289a.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices fall 2.9-pct
+
+*2025-09-30 14:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-fall-2-9-pct-242261/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices slid 2.95 percent at the weekly coconut auction, Coconut Development Authority (CDA) data showed.
+
+The average price for 1,000 nuts was 129,732.23 rupees on September 25.
+
+The number of nuts offered declined to 394,279 from 484,329 a week earlier, while nuts sold fell to 350,130 from 424,123.
+
+“The highest or the lowest price for a nut was not declared,” CDA officials told EconomyNext.
+
+Sri Lanka’s coconut production had showed a 25.7 percent increase in volume in July 2025, compared to July 2024, according to the central bank’s Agriculture Sector Data Bulletin for August.
+
+June production had climbed 18 percent to 289.5 million nuts from a year earlier, official data showed.
+
+Sri Lanka rice, coconut production up; fish, tea and rubber down in July: CB
+
+The wholesale price for a large nut was 180-190 rupees, while small nuts were 150-170 a piece on September 25.
+
+...
+
+[Data](articles/e592787c.json)
 
 ---
 
@@ -1376,6 +1530,22 @@ When the petition was taken up today, the order was made by considering the cont
 [Data](articles/65edc977.json)
 
 [Extended Data](ext_articles/65edc977.ext.json)
+
+---
+
+### රජය සිදුකරන ප්‍රතිසංස්කරණවල ප්‍රගතිය අගය කරනවා - අයි.එම්.එෆ්.
+
+*2025-09-30 14:08:31* · [`adalk`](https://www.ada.lk/breaking_news/රජය-සිදුකරන-ප්‍රතිසංස්කරණවල-ප්‍රගතිය-අගය-කරනවා---අයි-එම්-එෆ්-/11-418814) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) ශ්‍රී ලංකාව සඳහා වන මෙහෙයුම් මණ්ඩල ප්‍රධානී, Evan Papageorgiou මහතා අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවිය.
+
+එහිදී රජය විසින් ක්‍රියාත්මක කරනු ලබන ප්‍රතිසංස්කරණ වැඩසටහනේ ප්‍රගතිය ඔහුගේ ඇගයීමට ලක් වූ අතර, විශේෂයෙන්ම පාලනය ශක්තිමත් කිරීමට සහ දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව ඔහු ප්‍රශංසා පළ කළේය. බදු ප්‍රතිපත්ති ප්‍රතිසංස්කරණවල වැදගත්කම, බදු නිදහස් කිරීම් (tax exemptions) සම්බන්ධයෙන් ගෙන ඇති පියවර පිළිබඳව ද ඔහු සිය අවධානය යොමු කළේය. එසේම, 2026 ජාතික අයවැයෙන් සමාජ ආරක්ෂණ පද්ධතිය සඳහා සම්පත් වෙන් කිරීම ද පැපජෝර්ජියු මහතාගේ ඇගයුමට ලක් විය.
+
+2026 අයවැයෙන් ජනතාව සවිබල ගැන්වීමට පියවර ගැනීමේ වැදගත්කම මෙහිදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අවධාරණය කළාය.
+
+...
+
+[Data](articles/082dc859.json)
 
 ---
 
@@ -1814,181 +1984,5 @@ Trends such as growing adoption of artificial intelligence (AI) and increasing c
 [Data](articles/b74b68e5.json)
 
 [Extended Data](ext_articles/b74b68e5.ext.json)
-
----
-
-### "I was wrong"
-
-*2025-09-30 13:24:25* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මට-වරදණ/1-680493) · `si`
-
-The statement made by the Nobel Prize for a Kilo of tea in a auction in Japan said,
-
-The Minister said he said that instead of going to a Guinness Record, he said he was not committed to the Nobel gift. He issued a video through the Social Networking account.
-
-◼️
-
-[Data](articles/3dbc1024.json)
-
-[Extended Data](ext_articles/3dbc1024.ext.json)
-
----
-
-### ’’ මට වැරදුණා’’
-
-*2025-09-30 13:24:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මට-වරදණ/101-680493) · `si`
-
-The statement made by the Nobel Prize for a Kilo of tea in a auction in Japan said,
-
-The Minister said he said that instead of going to a Guinness Record, he said he was not committed to the Nobel gift. He issued a video through the Social Networking account.
-
-◼️
-
-[Data](articles/bf2f2263.json)
-
-[Extended Data](ext_articles/bf2f2263.ext.json)
-
----
-
-### “Jen Z” struggles;  Madagaskar President dissolved the government
-
-*2025-09-30 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226477) · `ta`
-
-The Madagascar president has announced that the youth -led protests have continued for several days due to the long -standing water and electricity barriers.
-
-"We agree and apologize if government members do not perform their assigned tasks," Madagaskar President Andrei Rajolinatar said in a national speech on television on Monday.
-
-Thousands of young demonstrators landed in cities across Madagaskar since Thursday, called "Zen Z" protests, saying, "We want to live and do not want to die."
-
-The use of security forces to suppress unrest and 22 protesters died and 100 injured.  The UN Human Rights Commissioner has condemned this as an unnecessary act.
-
-Madagascar's Foreign Ministry has rejected the UN statistics and accused of "based on rumors or false information."
-
-First of all, protests began in the capital Andanarivo. But then Madagaskar has spread to eight cities across the country.
-
-Following reports of violence and robbery, curfew was issued from the evening to the dawn of Antananarivo.
-
-...
-
-[Data](articles/4d7e0641.json)
-
-[Extended Data](ext_articles/4d7e0641.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2025-09-30 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226485) · `ta`
-
-The Central Bank of Sri Lanka (Central Bank) today (30), the US dollar sales price was Rs 306.2994 and the purchase price was Rs 298.7784.
-
-The sales price of a Srealing pound is Rs 412.6471 and the purchase price is Rs 400.0463.
-
-The sales price of the euro is Rs 360.4419 and the purchase price is Rs 348.8910.
-
-Accordingly, the information released by the Central Bank of India today (30.09.2025) on other foreign currency exchange rates has been issued.
-
-◼️
-
-[Data](articles/31a0c782.json)
-
-[Extended Data](ext_articles/31a0c782.ext.json)
-
----
-
-### JR’s Words Inspire Japan-Sri Lanka Talks
-
-*2025-09-30 13:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/jr%e2%80%99s-words-inspire-japan-sri-lanka-talks) · `en`
-
-COLOMBO (News 1st); Quoting the timeless words of the Buddha, once echoed by former Sri Lankan President J.R. Jayewardene at the 1951 San Francisco Peace Conference, Japanese Prime Minister Ishiba hailed Sri Lanka’s role in shaping Japan’s post-war future.
-
-He noted that Jayewardene’s call for compassion—“Hatred ceases not by hatred, but by love”—paved the way for Japan’s reintegration into the global community and laid the foundation for its prosperity today.
-
-Prime Minister Ishiba emphasized that Japan and Sri Lanka, as long-standing friends and democracies in Asia, share fundamental values and a vision for mutual growth.
-
-He expressed his commitment to deepening cooperation under the “Free and Open Indo-Pacific” framework and further strengthening the Comprehensive Partnership between the two nations.
-
-...
-
-[Data](articles/b020ae60.json)
-
-[Extended Data](ext_articles/b020ae60.ext.json)
-
----
-
-### Nobel Prize for Sri Lankan Tea? Ministry of Description
-
-*2025-09-30 13:16:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைத்-தேயிலைக்கு-நோபல்-பரிசு-அமைச்சு-விளக்கம்/175-365523) · `ta`
-
-Speaking of the latest global achievement of Sri Lankan tea, the Ministry of Labor and Entrepreneurship Development has made it clear that the Minister of Nobel Prize was wrongly mentioned.
-
-The Ministry explained that the Minister really referred to Sri Lanka's approval for the most expensive tea sold so far and that it was officially certified as the Guinness World record.
-
-The statement further stated that the Minister's Nobel Peace Prize was a mistake made during his speech.
-
-Sri Lanka recently set a Guinness World Record following the sale of a unique Ceylon Tea Type Achievement Price to bring more international recognition to Sri Lanka's tea industry.
-
-◼️
-
-[Data](articles/81ac24c0.json)
-
-[Extended Data](ext_articles/81ac24c0.ext.json)
-
----
-
-### President calls Japan-Sri Lanka Business Forum
-
-*2025-09-30 13:15:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-ශර-ලක-වයපරක-සසදය-අමතය/1-680492) · `si`
-
-President Anura Kumara Dissanayake was opened to the Japanese business community to join the emerging economic opportunities in Sri Lanka.
-
-The Government said that the government will further strengthen the Sri Lanka bilateral trade and investment relationships and consolidation of bilateral trade and investment relationships.
-
-The President made these comments addressing the Japanese-Sri Lanka Business Forum held at the Japan Foreign Trade Organization (Jetro) headquarters.
-
-The Sri Lanka Embassy of Japan, the Japanese External Trade Organization (Metro), the Japanese Economic Force (Metro), the Japanese External Trade Organization (Metro), the Japanese Economic Force (Metro) was organized by the Japan-Sri Lanka Business Co-operation Cooperation Committee and BOI.
-
-◼️
-
-[Data](articles/26278fff.json)
-
-[Extended Data](ext_articles/26278fff.ext.json)
-
----
-
-### President calls Japan-Sri Lanka Business Forum
-
-*2025-09-30 13:15:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-ශර-ලක-වයපරක-සසදය-අමතය/101-680492) · `si`
-
-President Anura Kumara Dissanayake was opened to the Japanese business community to join the emerging economic opportunities in Sri Lanka.
-
-The Government said that the government will further strengthen the Sri Lanka bilateral trade and investment relationships and consolidation of bilateral trade and investment relationships.
-
-The President made these comments addressing the Japanese-Sri Lanka Business Forum held at the Japan Foreign Trade Organization (Jetro) headquarters.
-
-The Sri Lanka Embassy of Japan, the Japanese External Trade Organization (Metro), the Japanese Economic Force (Metro), the Japanese External Trade Organization (Metro), the Japanese Economic Force (Metro) was organized by the Japan-Sri Lanka Business Co-operation Cooperation Committee and BOI.
-
-◼️
-
-[Data](articles/dafc4c50.json)
-
-[Extended Data](ext_articles/dafc4c50.ext.json)
-
----
-
-### Asia Pacific Technology Systems, Graft Silicon Introduces the Next Generation Bank under the Green Reimaging Banking - The Core Awakens "
-
-*2025-09-30 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226480) · `ta`
-
-The Asia Pacific Technology Systems, Sri Lanka's leading information technology solutions, has introduced the Core Bank system for the next generation in the Sri Lankan market with a graft silicon that has Babytech Power House in more than 30 countries worldwide.
-
-This link combines the strong domestic expert on the APTS in providing innovative technology solutions with the global recognized Fintech capabilities of Craft Silic and creating a powerful platform designed to meet the growing needs of the Banking and Finance Department of Sri Lanka.
-
-This important event was introduced on September 17, 2025 today under the Sankrilal Hotel under Reimaging Banking - The Core Awakens ". The event was a significant milestone on the country's digital dimensional journey, with the leaders, officials and technical inventors of the bank and financial sector.
-
-...
-
-[Data](articles/0be15323.json)
-
-[Extended Data](ext_articles/0be15323.ext.json)
 
 ---

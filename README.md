@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 11:57:30**
+As of **2025-09-30 12:25:44**
 
 ## Newspaper Stats
 
-*Scraped **79,761** Articles*
+*Scraped **79,766** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 488
+lankadeepalk | 490
 newsfirstlk | 498
 dbsjeyarajcom | 635
 bbccomsinhala | 710
@@ -19,47 +19,133 @@ islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,679
 adaderanalk | 10,293
-tamilmirrorlk | 11,933
+tamilmirrorlk | 11,934
 virakesarilk | 12,998
-adaderanasinhalalk | 13,798
+adaderanasinhalalk | 13,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,757 (100.0%) of 79,761 articles have been extended.
+79,765 (100.0%) of 79,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### விபத்தில் காயமடைந்த மற்றுமொரு இளைஞனும் உயிரிழப்பு
+### Coop is angry with a position of electricity
+
+*2025-09-30 11:48:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදලය-තනතරකට-කප-කප-වය/101-680466) · `si`
+
+The COPE committee was displeased with the officials for 11 months of a acting officer of the CPC.
+
+It is regrettable that there is no surrender internal auditor for the Sri Lanka CEB.
+
+The officials have said that interviews will be held in the future to recruit suitability.
+
+◼️
+
+[Data](articles/011808fe.json)
+
+[Extended Data](ext_articles/011808fe.ext.json)
+
+---
+
+### ICC Women's World Cup India
+
+*2025-09-30 11:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐசிசி-மகளிர்-உலகக்-கோப்பை-இந்தியா-இலங்கை-இன்று-மோதுகிறது/44-365519) · `ta`
+
+The 13th ICC Ladies One Day Cricket Gate World Cup Series in Guwahat T today (30).
+
+The Women's World Cup series takes place after 12 years. The series, which will be held up to Navam Bur 2, will be attended by 8 teams - As Trali Ya, Ing Kilan, The Ya, New Zealand, South of Brigga, Sri Lanka Guy, Wang Katasam and Pakis.
+
+Moth Tam 28 League Aad Tangs Round Robin Walking. Botts are taking place in the city of Colombo and in Colombo, Sri Lanka. The total prize money of the series is about Rs 123 crore. This time the team may seek to find a solution to the cope for 47 years.
+
+Har Man Preet Kaur, the head of the start of the day, will be playing with the Sri Lankan team today.. The team of the team's bat ting kill Smriti Manna, Bra Diga Rawal, Jemima Road Ricks, Richa Ghosh, Har Lin Deol and Deepti Sharma may be strong.. Panu Weez Chil Aman Joth Kaur, Renuka Singh, Granthi Gowdu, Radha Yadav and Sneha Rana may be crowded with the Sri Lankan team's bat ting line.
+
+◼️
+
+[Data](articles/43c91ecb.json)
+
+[Extended Data](ext_articles/43c91ecb.ext.json)
+
+---
+
+### Bus - a lorry accident
+
+*2025-09-30 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215169) · `si`
+
+Three persons were injured in an accident in Padugaswewa area on the A9 road.
+
+The accident had occurred when a lorry from Kataragama to Jaffna.
+
+Three persons who were injured in the accident have been admitted to the Mihintale Divisional Hospital.
+
+The Mihintale Police Traffic Division conducts further investigations into the accident.
+
+◼️
+
+[Data](articles/41e570dc.json)
+
+[Extended Data](ext_articles/41e570dc.ext.json)
+
+---
+
+### Another young man who was injured in an accident
 
 *2025-09-30 11:31:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-காயமடைந்த-மற்றுமொரு-இளைஞனும்-உயிரிழப்பு/175-365517) · `ta`
 
-கடந்த வியாழக்கிழமை (25) அன்று புதுக்குடியிருப்பில் இருந்து கொழும்பு சென்ற டொல்பின் வேன் ஒன்று மீண்டும் புதுக்குடியிருப்பு நோக்கி திரும்பிக்கொண்டிருந்த நிலையில் அனுராதபுரம் - தலாவ,  மீரிகம பகுதியில் வைத்து முல்லைத்தீவில் இருந்து குருநாகல் நோக்கி சென்ற லொறி ஒன்றுடன் மோதி விபத்திற்குள்ளானது .
+A lorry crashed into a collision with a lorry from Mullaithivu to Kurunegala in Anuradhapura - Thalawa and Mirigama area as a dolphin van was returning to Pudukkudiyiruppu on Thursday (25).
 
-இதில் முல்லைத்தீவு புதுக்குடியிருப்பு, செம்மலை பகுதிகளை சேர்ந்த (புதுக்குடியிருப்பு தனியார் ஆடைக் தொழிற்சாலை) ஊழியர்கள் 4 பேர் உயிரிழந்திருந்தனர்.
+Four employees of the Mullaitivu Pudukkudiyiruppu and Semmalai (Pudukkudiyiruppu private dress factory) were killed.
 
-அத்துடன் 9ம் வட்டாரம் மல்லிகைத்தீவு - புதுக்குடியிருப்பை சேர்ந்த நடராசா விஸ்னுயன் என்ற 21 வயதுடைய இளைஞன் அனுராதபுரம் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி ஞாயிற்றுக்கிழமை (29) அன்று உயிரிழந்துள்ளார்.
+Natarasa Visnuan, a 21 -year -old youth from Mallikaitivu - Pudukkudiyiruppu, was receiving treatment at the Anuradhapura hospital on Sunday (29).
 
-இவரோடு இந்த விபத்தில் முல்லைத்தீவு மாவட்டத்தினை சேர்ந்த 5 இளைஞர்கள் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது
+Five youths from Mullaitivu district were killed in the accident.
 
 ◼️
 
 [Data](articles/25cb42ab.json)
 
+[Extended Data](ext_articles/25cb42ab.ext.json)
+
 ---
 
-### හිටපු රාජ්‍ය අමාත්‍ය ශෂින්ද්‍රට අද ලැබුණු නියෝගය මෙන්න
+### Former State Minister Shashindra was the order
 
 *2025-09-30 11:23:36* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ශෂින්ද්‍රට-අද-ලැබුණු-නියෝගය-මෙන්න/11-418808) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ශෂින්ද්‍ර රාජපක්ෂ මහතා ලබන 14 වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+The Colombo Magistrate's Court has been remanded until the 14th of this month.
 
 ◼️
 
 [Data](articles/88a03796.json)
+
+[Extended Data](ext_articles/88a03796.ext.json)
+
+---
+
+### ඉන්දුනීසියාවේ පාසල් ගොඩනැගිල්ලක් කඩා වැටෙයි
+
+*2025-09-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215168) · `si`
+
+ඉන්දුනීසියාවේ ජාවා නුවර පිහිටි පාසලක ගොඩනැගිල්ලක් කඩා වැටීමෙන්ම එහි සිටි සිසුන්ගෙන්  සිසුන් තිදෙනෙකු මියගොස් තවත් 38 දෙනෙකු සුන්බුන් අතර සිර වී සිටින බව වාර්තාවේ.
+
+විදෙස් මාධ්‍ය පැවසුවේ තවත් 101 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවය.
+
+මියගොස් ඇත්තේ අවුරුදු 13ක් වයසැති පිරිමි ළමයෙකු වන අතර තුවාල ලබා රෝහල් ගත කර ඇති අය අතුරින් වැඩි පිරිසක් බරපතළ තුවාල ලබා ඇති බවත් මරණ ගණන ඉහළ යා හැකි බවත් වාර්තා වේ.
+
+සුන්බුන් අතර සිරවී සිටින බවට විශ්වාස කෙරෙන 38 දෙනෙකු සොයා බේරා ගැනීමේ මෙහෙයුම් ක්‍රියාත්මක වේ.
+
+මෙලෙස අනතුරට පත් ව ඇත්තේ වයස අවුරුදු 12 ත් 17 ත් අතර වයස්වල පාසලේ සිටි සිසුන් බව විදෙස් මාධ්‍ය පවසයි.
+
+ගොඩනැගිල්ල කඩා වැටෙන විට යාඥා කිරීම සඳහා රැස්ව සිටි ඇති බව සඳහන් වේ.
+
+කඩා වැටි ඇති දෙමහල් ගොඩනැගිල්ලේ අස්ථායී අත්තිවාරමක් තිබී ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/641b8284.json)
 
 ---
 
@@ -181,6 +267,28 @@ The Bribery Commission asked the Bribery Commission to take the end of the trial
 
 ---
 
+### Shashindu further remanded
+
+*2025-09-30 10:48:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ශෂනදර-යළ-රමනඩ/1-680462) · `si`
+
+Colombo Chief Magistrate Asangara S. Bodaragama today ordered the Superintendent of Police to bring the sodium concentration of the ownership of the Mahaweli Authority of the Mahaweli Authority.
+
+The magistrate said that the suspect had not given bail to the public property under the Public Property Act, the suspect was remanded until the 14th.
+
+If the suspect had to be real-time, he ordered to submit a record of any disease and to submit a whatever disease and what treatment.
+
+The suspect has been remanded for two months and the suspect has been bailed to the suspect and considering the suspect, as the kidneys were bailed to the kidneys.
+
+The Bribery Commission asked the Bribery Commission to take the end of the trial, as investigations were conducted under the Public Property Act.
+
+◼️
+
+[Data](articles/9409fac8.json)
+
+[Extended Data](ext_articles/9409fac8.ext.json)
+
+---
+
 ### Tickets for passenger buses in the Western Province are micigant from tomorrow
 
 *2025-09-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215166) · `si`
@@ -279,15 +387,17 @@ Protests first started in the capital Antananarivo, but have since spread to eig
 
 ---
 
-### කාන්තා ක්‍රිකට් ලෝක කුසලානය අදින් ඇරඹේ
+### Women's Cricket World Cup begins today
 
 *2025-09-30 10:31:42* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ක්‍රිකට්-ලෝක-කුසලානය-අදින්-ඇරඹේ/9-418807) · `si`
 
-මෙම තරගාවලියේ පළමු තරගය ලෙස ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දිය කණ්ඩායම තරග වැදීමට නියමිතව ඇත.
+Sri Lanka and India are to contest as the first match of the tournament.
 
 ◼️
 
 [Data](articles/cb9ba10e.json)
+
+[Extended Data](ext_articles/cb9ba10e.ext.json)
 
 ---
 
@@ -421,19 +531,21 @@ He emphasized the need to provide adequate facilities, including more schools fo
 
 ---
 
-### CSE 40 වැනි සංවත්සරය සමරමින් ගස් 4,000ක වන වගා ව්‍යාපෘතියක්
+### Ceying 40th Anniversary Celebrating 4,000 trees
 
 *2025-09-30 09:54:49* · [`adalk`](https://www.ada.lk/business/CSE-40-වැනි-සංවත්සරය-සමරමින්-ගස්-4-000ක-වන-වගා-ව්‍යාපෘතියක්/7-418805) · `si`
 
-සිය 40 වැනි සංවත්සරය සමරනු වස් කොළඹ කොටස් හුවමාරුව (CSE) විසින් සුවිශේෂී CSR ව්‍යාපෘතියක් වෙනුවෙන් ලාභ අරමුණු කර නොගත් පරිසර සංවිධානයක් වන "වැසි වනාන්තර සුරකින්නෝ" සංවිධානය සමඟ අවබෝධතා ගිවිසුමක් අත්සන් කර තිබේ.
+The Colombo Stock Exchange (CSE) has signed a Undahamatha Exchange, a profit-intended environmental organization for an unique CSR project to celebrate its 40th anniversary.
 
-"ගස් 4,000කින් වසර 40 සමරමු" යන තේමාව යටතේ, මෙම ව්‍යාපෘතිය මගින් දිගු කාලීන වනාන්තර සංරක්ෂණය සහ පාරිසරික තිරසරභාවය සඳහා රජවක ප්‍රදේශයේ අක්කර හතරක භූමි ප්‍රමාණයක නැවත වන වගා කිරීමට නියමිතව ඇත.
+Under the theme of "4,000 years celebrate 40 years", the project is to be cultivated for long-term forest conservation and environmental jungle.
 
-මෙම සහයෝගිතාව හරහා කොළඹ කොටස් හුවමාරුව විසින් ශ්‍රී ලංකාවේ විනාශයට පත් වනාන්තර භූමි හෙක්ටයාර් 200,000ක් නැවත වනාන්තරගත කිරීමට අරමුණු කරගත් ජාත්‍යන්තර "බොන් අභියෝගය" ඉලක්කයට සමගාමී වන රෝප (WANAROPA) වැඩසටහනට දායක වේ. ව්‍යාපෘති භූමිය තෙත් සහ අතරමැදි කලාපයන්ට මායිම්ව රජවක ප්‍රදේශයේ පිහිටා ඇති අතර, මෙම ප්‍රදේශය අලි ඇතුන්, දිවියන්, ස්වාභාවික මීමැසි ජනපද සහ අනෙකුත් ජීවීන්ගෙන් සහ ජෛව විවිධත්වයෙන් යුතු විවිධ පරිසර පද්ධතීන්ගෙන් පොහොසත් වේ.
+The International "Bonarapa Challenge" aimed at re-forestry by the Colombo Stock Exchange, which is aimed at re-forest, contributes to the target of the target of the Colombo Stock Exchange.. The project site is located in the Rajawaka area and is rich in elephants, leopards, natural beekeys, natural beekees and other species of organisms and biodiversity.
 
 ...
 
 [Data](articles/31cfb498.json)
+
+[Extended Data](ext_articles/31cfb498.ext.json)
 
 ---
 
@@ -1832,109 +1944,5 @@ Traditionally, Budgets are viewed as accounting exercises, designed to raise rev
 [Data](articles/96e151f6.json)
 
 [Extended Data](ext_articles/96e151f6.ext.json)
-
----
-
-### 3 lorries were seized with drugs in Tangalle; Continued explanation for the suspects
-
-*2025-09-29 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226443) · `ta`
-
-The Tangalle Magistrate's Court has ordered that four suspects arrested in connection with the incident in connection with the incident in the Tangalle Seeni Mottara area.
-
-The order was issued by the magistrate on Monday (29) as the suspects were produced before the trial.
-
-Three lorries were seized with ice and heroin in the Tangalle Seenimodara and Kodellawa area on the 22nd (Monday). The bodies and narcotics of the two were killed. About 705 kg of narcotics were recovered by the police during the raid that day, and a T-56 rifle and 5 rifle rifles were seized.
-
-Two sons of Unakuruwe Dusitha, who died after being admitted to the hospital, have already been arrested after the incident, three registered owners and a lorry driver have been arrested.
-
-...
-
-[Data](articles/5049941e.json)
-
-[Extended Data](ext_articles/5049941e.ext.json)
-
----
-
-### Sri Lanka economic summit to focus on export diversification, and growth
-
-*2025-09-29 22:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-summit-to-focus-on-export-diversification-and-growth-242163/) · `en`
-
-ECONOMYNEXT – How Sri Lanka can broaden its export base and deliver sustained growth through diversification will be the focus of day one of the Sri Lanka Economic and Investment Summit 2025, organizer the Ceylon Chamber of Commerce said.
-
-The session will highlight the urgency of moving beyond traditional export sectors as global demand patterns shift and resilience becomes a strategic imperative.
-
-“The discussion will explore untapped opportunities in high-value industries such as cinnamon, seafood, electronics, minerals, and advanced manufacturing.
-
-“It will also examine how Sri Lanka can strengthen its position in non-traditional markets through branding, standards, logistics, and strategic trade partnerships.”
-
-The keynote address will be delivered by Prof Sanjay Kathuria. He holds a Doctorate in Economics from the University of Oxford, and has over 27 years of experience at the World Bank, and a decade at ICRIER in New Delhi.
-
-...
-
-[Data](articles/19f90c19.json)
-
-[Extended Data](ext_articles/19f90c19.ext.json)
-
----
-
-### Justice delayed and institutional credibility: Lessons from Easter Sunday case
-
-*2025-09-29 22:38:57* · [`dailyftlk`](https://www.ft.lk/columns/Justice-delayed-and-institutional-credibility-Lessons-from-Easter-Sunday-case/4-782350) · `en`
-
-Justice delayed has not only compounded victims’ suffering but has also damaged institutional credibility
-
-To analyse the justice delays and inconsistencies following the 2019 Easter Sunday attacks, and to propose policy measures to strengthen the rule of law, enhance prosecutorial and judicial independence, and restore public trust in Sri Lanka’s criminal justice system.
-
-The Easter Sunday terrorist attacks in April 2019 killed over 260 people and injured hundreds.
-
-Inconsistencies in prosecutorial decisions by the Attorney General’s Department, coupled with judicial delays, have raised questions about political interference, institutional weakness, and erosion of public trust.
-
-This case has become a litmus test for the credibility of Sri Lanka’s criminal justice system.
-
-Justice must be equal, timely, and free from political influence.
-
-Prolonged delays have weakened the principle of equality before the law.
-
-...
-
-[Data](articles/4a75ae76.json)
-
-[Extended Data](ext_articles/4a75ae76.ext.json)
-
----
-
-### Ranil’s resolve to end rule of law
-
-*2025-09-29 22:28:34* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-resolve-to-end-rule-of-law/4-782349) · `en`
-
-“The reactionary is always willing to take a progressive attitude on any issue that is dead” – Theodore Roosevelt
-
-Ranil Wickremesinghe (RW), one of the fallen heroes at the 2024 Presidential Election, has been reported to be planning to organise 1,000 rallies across the country and calling all Opposition leaders, their aficionados and apparatchiks to rally behind him in his war against what he described as a “constitutional dictatorship”. If one understood the logic behind that concoction, one would have gathered that if there is a dictatorship prevailing currently in the country then that dictatorship has been permitted by the constitution.
-
-...
-
-[Data](articles/c61184e5.json)
-
-[Extended Data](ext_articles/c61184e5.ext.json)
-
----
-
-### EA Gets Acquired in a $55 Billion Deal—The Biggest Power-Up in Gaming History
-
-*2025-09-29 22:23:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/29/ea-gets-acquired-in-a-55-billion-deal%e2%80%94the-biggest-power-up-in-gaming-history) · `en`
-
-“Game Over? More like Level Up! EA Just Got Acquired in a $55 Billion Power Play”
-
-COLOMBO (News 1st); Electronic Arts (EA), the powerhouse behind franchises like FIFA, Madden NFL, and Battlefield, is about to hit a new high score.
-
-The gaming giant announced today (29) that it has entered into a definitive agreement to be acquired by an investor consortium led by Saudi Arabia’s Public Investment Fund (PIF), Silver Lake, and Affinity Partners in an all-cash deal valued at a jaw-dropping $55 billion—the largest all-cash sponsor take-private deal in history.
-
-Under the terms of the agreement, the consortium will acquire 100% of EA, with PIF rolling over its existing 9.9% stake. EA shareholders will receive $210 per share in cash, representing a 25% premium over EA’s unaffected share price of $168.32 as of September 25, 2025, and even topping its all-time high of $179.01 from August 14, 2025.
-
-...
-
-[Data](articles/139aefdd.json)
-
-[Extended Data](ext_articles/139aefdd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 04:38:02**
+As of **2025-10-01 04:20:28**
 
 ## Newspaper Stats
 
-*Scraped **80,022** Articles*
+*Scraped **80,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,170 +20,16 @@ dailyftlk | 5,604
 adalk | 7,699
 adaderanalk | 10,318
 tamilmirrorlk | 11,954
-virakesarilk | 13,074
+virakesarilk | 13,064
 adaderanasinhalalk | 13,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,012 (100.0%) of 80,022 articles have been extended.
+80,012 (100.0%) of 80,012 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2025-10-01 (Wednesday)
-
-### ரெபல் ஸ்டார்' பிரபாஸின் 'தி ராஜா சாப்' படத்தின் முன்னோட்டம் வெளியீடு
-
-*2025-10-01 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226540) · `ta`
-
-'ரெபல் ஸ்டார்' பிரபாஸ் நடிப்பில் தயாராகி வரும் :தி ராஜா சாப் ' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. ஹாரர் ஃபேண்டஸியால் உருவான இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் பதினான்கு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
-
-இயக்குநர் மாருதி இயக்கத்தில் உருவாகியுள்ள 'தி ராஜா சாப்' எனும் திரைப்படத்தில் பிரபாஸ், பொமன் இரானி, சஞ்சய் தத், ஜரினா வஹாப் , மாளவிகா மோகனன், நித்தி அகர்வால், ரித்திகுமார்  உள்ளிட்ட பலர் நடித்துள்ளனர். கார்த்திக் பழனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எஸ். தமன் இசையமைத்திருக்கிறார். ஆக்ஷன் வித் ஃபேண்டஸி ஹாரர் ஜேனரிலான இந்த திரைப்படத்தை பீப்பிள் மீடியா ஃபேக்டரி நிறுவனம் சார்பில் தயாரிப்பாளர் டி ஜி விஸ்வ பிரசாத் மற்றும் கிருத்தி பிரசாத் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
-
-...
-
-[Data](articles/70db99e8.json)
-
----
-
-### நடிகர் கண்ணா ரவி நடிக்கும் 'வேடுவன்' இணைய தொடரின் முன்னோட்டம் வெளியீடு
-
-*2025-10-01 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226539) · `ta`
-
-எதிர்வரும் ஒக்டோபர் மாதம் பத்தாம் திகதி முதல் ஜீ 5 டிஜிட்டல் தளத்தில் அசல் இணைய தொடர் வரிசையில் ஒளிபரப்பாகவுள்ள 'வேடுவன்' எனும் இணையத் தொடரின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநர் பவன் இயக்கத்தில் உருவான 'வேடுவன்' எனும் இணையத் தொடரில் நடிகர் கண்ணா ரவி, சஞ்சீவ் வெங்கட், சிரவ்நிதா ஸ்ரீகாந்த் , ரம்யா ராமகிருஷ்ணன், ரேகா நாயர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.  விபின் பாஸ்கர் இசையமைத்திருக்கும் இந்த இணையத் தொடரை ஜீ தமிழ் டிஜிட்டல் தளத்திற்காக ரைஸ் ஈஸ்ட் நிறுவனத்தின் சார்பில் தயாரிப்பாளர் ஸ்ரீநிதி சாகர் தயாரித்திருக்கிறார்.
-
-இணையத் தொடரைப் பற்றி இயக்குநர் பேசுகையில் , ''திரைப்பட நடிகராக இருக்கும் சூரஜ் எனும் நடிகருக்கு காவல்துறை அதிகாரி ஒருவரின் வாழ்க்கை வரலாறை தழுவி தயாராகும் படைப்பில் நடிப்பதற்கான வாய்ப்பு கிடைக்கிறது. அந்த கதாபாத்திரத்தை ஏற்று நடிக்கும் போது அவருக்கு ஏற்படும் எதிர்பாராத சம்பவங்கள் தான் இப்படத்தின் கதை '' என்றார்.
-
-◼️
-
-[Data](articles/7fb49df9.json)
-
----
-
-### தண்டுவட சீரமைப்பு சிகிச்சையாக பிரபலமடைந்து வரும் டார்ன் தெரபி
-
-*2025-10-01 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226537) · `ta`
-
-இன்றைய திகதியில் எம்முடைய இளைய தலைமுறையினர் கைபேசி, மடிக்கணினி உள்ளிட்ட இலத்திரனியல் சாதனங்களின் பாவனையை தொடர்ந்து அதிகரித்துக் கொள்கிறார்கள். நாளாந்தம் குறைந்தபட்சம் 6 மணி தியாலம் வரை எம்முடைய உடலின் இயல்பு நிலையிலிருந்து மீறி குறிப்பாக கழுத்தை குனிந்து கைபேசியை பார்வையிடுகிறோம். கைபேசியில் உள்ள டிஜிற்றல் திரையை பார்வையிடுகிறோம். கழுத்தைக் குனிந்து தங்களின் வாழ்வாதாரமான மடிக்கணினியை இயக்குவது அல்லது அதில் தட்டச்சு செய்வது போன்ற பணிகளையும் மேற்கொள்கிறோம். இதன் காரணமாக நாளடைவில் உங்களுடைய கழுத்துப் பகுதியில் உள்ள எலும்புகள் பாதிக்கப்பட்டு அதன் காரணமாக உங்களுடைய தோற்றத்தில் மாற்றங்கள் ஏற்படுகிறது.
-
-...
-
-[Data](articles/d819fe29.json)
-
----
-
-### புதுமுக நடிகை சுஷ்மிதா சுரேஷ் நடிக்கும் 'வீர தமிழச்சி' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு
-
-*2025-10-01 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226538) · `ta`
-
-சின்னத்திரை பிரபலமான சஞ்சீவ் அழுத்தமான வேடத்தில் நடித்திருக்கும் 'வீர தமிழச்சி' எனும் திரைப்படத்தின் இசை மற்றும் முன்னோட்ட வெளியீட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது. இந்நிகழ்வில் இயக்குநர்கள் ஆர். வி. உதயகுமார் - பேரரசு - ராஜகுமாரன்- விஜய் ஸ்ரீ ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
-
-அறிமுக இயக்குநர் சுரேஷ் பாரதி இயக்கத்தில் உருவாகி வரும்' வீர தமிழச்சி' எனும் திரைப்படத்தில் சஞ்சீவ் வெங்கட், இளயா, சுஷ்மிதா சுரேஷ், ஸ்வேதா டோரத்தி, மறைந்த நடிகர் மாரிமுத்து, எழுத்தாளரும், நடிகருமான வேல ராமமூர்த்தி, கே. ராஜன், மீசை ராஜேந்திரன், ஜெயம் கோபி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சங்கரலிங்கம் செல்வகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜூபின் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை மகிழினி கலைக்கூடம் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் சாரதா மணிவண்ணன் மற்றும் மகிழினி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
-
-...
-
-[Data](articles/970c0987.json)
-
----
-
-### வாசிம் தாஜுதீன் இறப்பதற்கு முன்பு அவரைப் பின்தொடர்ந்த வாகனத்தில் அருண விதானகமகே இருந்துள்ளார் - பதில் பொலிஸ் ஊடகப் பேச்சாளர்
-
-*2025-10-01 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226531) · `ta`
-
-ரக்பி வீரர் வசீம் தாஜுதீனை படுகொலை செய்ய வந்த குழுவில், சமீபத்தில் மித்தெனிய பகுதியில்  படுகொலை செய்யப்பட்ட அருண விதானகமகே எனப்படும் 'கஜ்ஜா'வும் இருந்ததாக உறுதிப்படுத்தப்பட்டுள்ளதாக பதில் பொலிஸ் ஊடகப் பேச்சாளர் உதவிப் பொலிஸ் அத்தியட்சகர் மினுர செனரத் தெரிவித்தார்.
-
-படுகொலை செய்யப்பட்ட கச்சாவின் மனைவி சி.சி.டி.வி காணொளிகளை அடிப்படையாகக் கொண்டு அந்த குழுவில் இருப்பது தனது கணவர் என்பதை உறுதிப்படுத்தியுள்ளார். இந்த விடயத்தை அடிப்படையாகக் கொண்டு விசாரணைகள் தீவிரப்படுத்தப்பட்டுள்ளன எனவும்  உதவி பொலிஸ் அத்தியட்சகர்  குறிப்பிட்டார்.
-
-பொலிஸ் தலைமையகத்தில் செவ்வாய்க்கிழமை (30) நடைபெற்ற விசேட ஊடகவியலாளர் சந்தி;ப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-2012.05.17 ஆம் திகதியன்று அதிகாலை பிரபல ரக்பி  வீரர் வசீம் தாஜூதீன் என்பவர் நாரஹேன்பிட்டிய பார்க் வீதி சாலிக விளையாட்டு மைதானத்துக்கு அருகில் விபத்துக்குள்ளானார்.அவரது மரணம் சந்தேகத்துக்கிடமானது என்பது முதலாவதாக அறிக்கையிடப்பட்டது.
-
-...
-
-[Data](articles/4663df48.json)
-
----
-
-### முச்சக்கரவண்டிகளை பதிவு செய்ய இணையத்தளம் ஒன்று அறிமுகம்
-
-*2025-10-01 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226536) · `ta`
-
-மேல் மாகாணத்தில் உள்ள அனைத்து பயணிகள் முச்சக்கர வண்டிகளின் பதிவு கட்டாயமாக்கப்பட்டுள்ள நிலையில்,இதற்காக மேல் மாகாண வீதி பயணிகள் போக்குவரத்து அதிகாரசபை புதிய இணையத்தளம் ஒன்றை அறிமுகப்படுத்தியுள்ளது. இதன்படி,  முச்சக்கர வண்டி உரிமையாளர்கள் மற்றும் சாரதிகள் https://wptaxi.net/ என்ற இணையத்தளத்தில் பதிவு செய்யலாம்.
-
-முச்சக்கர வண்டிகளுக்கான பயணிகள் அனுமதிப்பத்திரங்கள் வழங்கும் நடவடிக்கைகள் மீண்டும் தொடங்கப்பட்டுள்ளதாக அதிகார சபையின் செயல்பாட்டு   முகாமையாளர் ஜீவிந்த கீர்த்திரத்ன தெரிவித்தார்.
-
-இந்தப் பதிவு செயல்முறை முழுமையாக இணையவழி மூலம் நடைபெறுவதால்,முச்சக்கரவண்டி உரிமையாளர்கள் இணையத்தளத்தில் தங்கள் விபரங்களைச் சமர்ப்பித்து, பதிவுக்கான நேரத்தைப் பெறலாம். இந்த நேரத்திற்கு ஏற்ப, சம்பந்தப்பட்ட பிரதேச செயலக அலுவலகங்களில் பதிவு செய்ய வசதிகள் ஏற்படுத்தப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/feac5340.json)
-
----
-
-### முன்னாள் இராஜாங்க அமைச்சர் பிரசன்ன ரணவீரவுக்கு பிணை
-
-*2025-10-01 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226535) · `ta`
-
-போலி ஆவணங்களைத் தயாரித்து அரசாங்கத்துக்கு சொந்தமான நிலத்தை விற்பனை செய்த குற்றச்சாட்டில்  கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் இராஜாங்க அமைச்சர் பிரசன்ன ரணவீரவுக்கு கம்பஹா மேல் நீதிமன்றம் பிணை வழங்கியுள்ளது.
-
-போலி ஆவணங்களைத் தயாரித்து அரசாங்கத்துக்குச் சொந்தமான நிலத்தை விற்பனை செய்த குற்றச்சாட்டில் முன்னாள் இராஜாங்க அமைச்சர் பிரசன்ன ரணவீர கைதுசெய்யப்பட்டு  விளக்கமறியலில் வைக்கப்பட்டிருந்தார். இந்நிலையில் முன்னாள் இராஜாங்க அமைச்சர் பிரசன்ன ரணவீர தாக்கல் செய்த பிணை மனு மீதான விசாரணை நேற்று  செவ்வாய்க்கிழமை கம்பஹா மேல் நீதிமன்ற நீதிபதி நயனா செனவிரத்னவின் தலைமையில் விசாரணைகளுக்கு எடுத்துக் கொள்ளப்பட்டது.
-
-இதன் போது முன்வைக்கப்பட்ட சாட்சியங்களை  பரிசீலித்த  நீதிபதி சந்தேகநபர்களான பிரசன்ன ரணவீர மற்றும்  சரத் எதிரிசிங்க ஆகியோரை கடுமையான பிணை நிபந்தனைகளின் கீழ் விடுவித்திருந்தார். அதற்கமைய சந்தேகநபர்களுக்கு தலா ஐந்து இலட்சம் ரூபாய் பெறுமதியான ஐந்து சரீரப் பிணைகளிலும் ஐந்து இலட்சம் ரூபா பெறுமதியான ரொக்கப் பிணையும் வித்து  விடுவிக்கப்பட்டனர்.
-
-...
-
-[Data](articles/de820bd0.json)
-
----
-
-### கொழும்பு முதன்மை பணவீக்கம் அதிகரிப்பு; தொகைமதிப்பு  மற்றும் புள்ளிவிபரத் திணைக்களம்
-
-*2025-10-01 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226534) · `ta`
-
-கொழும்பு நுகர்வோர் விலைச் சுட்டெண் அடிப்படையில் அளவிடப்படும் முதன்மை பணவீக்க வீதம், 2025 ஓகஸ்ட்  மாதத்தில் 1.2 சதவீததத்தில் இருந்ததிலிருந்து 2025 செப்டம்பரில் 1.5 சதவீதமாக சற்று அதிகரித்துள்ளது என தொகை  தொகைமதிப்பு  மற்றும் புள்ளிவிவரத் திணைக்களம்  அறிவித்துள்ளது.
-
-செப்டெம்பர் மாதத்துக்குரிய கொழும்பு நுகர்வோர் விலைச்சுட்டெண் தொடர்பில் தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் வெளியிட்டுள்ள அறிக்கையில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
-
-உணவுப் பணவீக்க வீதம் 2025 ஓகஸ்ட்  மாதத்தில் 2.0 சதவீதத்துடன் ஒப்பிடும்போது,2025 செப்டம்பரில் 2.9 சதவீதமாக  உயர்ந்துள்ளது.. செப்டம்பரில் உணவு அல்லாத ஆண்டு பணவீக்கம் 0.7 சதவீதமாக குறைந்துள்ளது. இது 2025 ஓகஸ்ட்  மாதத்தில் 0.8சதவீதமாக  பதிவாகி உள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிவரத் திணைக்களம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/165b49db.json)
-
----
-
-### ஜெனிவா செல்கிறார் சிறிதரன்; பக்க நிகழ்வுகளின் பங்கேற்பார்
-
-*2025-10-01 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226533) · `ta`
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடரின் பக்க நிகழ்வில் கலந்துகொள்வதற்கான செவ்வாய்க்கிழமை (30) ஜெனிவாவை சென்றடைந்த இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்றக்குழுத்தலைவர் சிவஞானம் சிறிதரன், அங்கு வேறு பல முக்கிய சந்திப்புக்களிலும் பங்கேற்கவுள்ளார்.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஜெனிவாவில் ஆரம்பமானது. இக்கூட்டத்தொடரில் புதிதாக நிறைவேற்றும் நோக்கில் பிரிட்டன் தலைமையில் கனடா, மாலாவி, மொன்டெனீக்ரோ மற்றும் வட மெசிடோனியா உள்ளிட்ட இணையனுசரணை நாடுகளால் 'இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்தல்' எனும் தலைப்பில் தயாரிக்கப்பட்ட இலங்கை தொடர்பான புதிய பிரேரணையின் முதலாவது வரைவு கடந்த 9 ஆம் திகதி வெளியிடப்பட்டதுடன், அதில் திருத்தங்கள் உள்வாங்கப்பட்ட முதலாவது மீளாய்வு வரைவு கடந்த வாரம் வெளியிடப்பட்டது.
-
-...
-
-[Data](articles/487a1c01.json)
-
----
-
-### சிறுவர்–முதியோர் தினம் ஆண்டு முழுவதும் கடமையாக இருக்க வேண்டும் – சஜித் பிரேமதாச
-
-*2025-10-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226532) · `ta`
-
-சிறுவர்கள் மற்றும் முதியவர்களுக்காக அர்ப்பணிக்கப்பட்ட நாளை ஒரு நாளுக்கு மட்டும் வரையறுக்காமல், ஆண்டு முழுவதும் நமது கடமை மற்றும் பொறுப்பாக செயல்படுத்த அர்ப்பணிப்போம் என எதிர்க்கட்சித்  தலைவர்  சஜித் பிரேமதாச தெரிவித்துள்ளார்.
-
-சர்வதேச சிறுவர் தினம் மற்றும் சர்வதேச முதியோர் தினத்தை முன்னிட்டு  அவர் விடுத்துள்ள வாழ்த்துச்செய்தியிலேயே இவ்வாறு தெரிவித்துள்ளார்.
-
-'இன்றைய சிறுவர் நாளைய முதியவர்' என்ற சொற்றொடர் சிறுவர்கள் மற்றும் முதியவர்கள் பற்றிய நல்ல புரிதலை நமக்கு வழங்குகிறது. சிறுவர்களின் பாதுகாப்பு என்பது சமூகத்தின் நல்வாழ்வாகும். சமூகத்தின் நல்வாழ்வை எதிர்காலத்திற்கு பரம்பரையாக்கும் முதியவர்கள் என்பவர்கள் ஒரு நாட்டின் முன்னோடி, சிறந்த முன்மாதிரிகளை குறியீடாக்கும் குழுவாகும். இந்த இரு குழுக்களையும் பாதுகாத்தல், பராமரித்தல் மற்றும் அவர்களுக்காக சமூகம் நிறைவேற்ற வேண்டிய பொறுப்புகள் மற்றும் கடமைகளை சரியாக நிறைவேற்றுவது ஒரு நாட்டின் நல்ல நிலையை எதிர்பார்க்கும் அனைவரின் பொறுப்பாகும்.
-
-...
-
-[Data](articles/3e73f427.json)
-
----
 
 ### 2025-09-30 (Tuesday)
 
@@ -1988,5 +1834,199 @@ This adds to the airline’s payment options, which includes Visa, MasterCard, A
 [Data](articles/29999b86.json)
 
 [Extended Data](ext_articles/29999b86.ext.json)
+
+---
+
+### Colombo inflation increased
+
+*2025-09-30 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215183) · `si`
+
+The annual point inflation is increased to 1.5% in September 2025, which increased by the annual point difference in the Colombo Consumer Price Index.
+
+In September 2025, the annual inflation of food category increased to 2.9% and in August 2025 as 2.0% were reported.
+
+Also, the non-food annual inflation for September 2025 has been reduced to 0.6% in August 2025.
+
+◼️
+
+[Data](articles/b312de0a.json)
+
+[Extended Data](ext_articles/b312de0a.ext.json)
+
+---
+
+### Vijay (Video link)
+
+*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்-வீடியோ-இணைப்பு/175-365534) · `ta`
+
+Three days after the Karur incident, the silence of the silence, Vijay said that he would condole the victims and said that he would come to Karur.. Also, if he wants to avenge himself, he can do whatever he wants, and he has openly challenged the Tamil Nadu Chief Minister not to do anything to do his party volunteers.. He also said that the political journey would continue strongly than ever before.
+
+At the Karur Velusamipuram, 41 people were killed in a congestion at the Tawaka campaign meeting on September 27. 110 people were injured. In this case, Vijay shared a video on his X page at 3 pm today. In it, he said: “Hello everyone. I never met this kind of painful event in my life. There is only pain throughout the mind.
+
+People come to see me on this tour. There's only one reason for that. It is the affection and love they put on me. I owe it so much for that. That is why the idea that no compromise in their safety is deep in my mind.
+
+...
+
+[Data](articles/23036ba7.json)
+
+[Extended Data](ext_articles/23036ba7.ext.json)
+
+---
+
+### "Let me avenge me"
+
+*2025-09-30 16:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னை-பழிவாங்கலாம்-மவுனம்-கலைத்த-விஜய்/175-365534) · `ta`
+
+Three days after the Karur incident, the silence of the silence, Vijay said that he would condole the victims and said that he would come to Karur.. Also, if he wants to avenge himself, he can do whatever he wants, and he has openly challenged the Tamil Nadu Chief Minister not to do anything to do his party volunteers.. He also said that the political journey would continue strongly than ever before.
+
+At the Karur Velusamipuram, 41 people were killed in a congestion at the Tawaka campaign meeting on September 27. 110 people were injured. In this case, Vijay shared a video on his X page at 3 pm today. In it, he said: “Hello everyone. I never met this kind of painful event in my life. There is only pain throughout the mind.
+
+People come to see me on this tour. There's only one reason for that. It is the affection and love they put on me. I owe it so much for that. That is why the idea that no compromise in their safety is deep in my mind.
+
+...
+
+[Data](articles/cf176caa.json)
+
+[Extended Data](ext_articles/cf176caa.ext.json)
+
+---
+
+### Moderin meets with 10 grenades
+
+*2025-09-30 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215182) · `si`
+
+10 hand grenades found in Modara New Mawatha, Colombo.
+
+Police said these handabiped were found at a search operation conducted on information received by the Terrorism Investigation Division.
+
+◼️
+
+[Data](articles/92cd03d3.json)
+
+[Extended Data](ext_articles/92cd03d3.ext.json)
+
+---
+
+### Ten hand grenades found in a bag at Modara
+
+*2025-09-30 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113081/ten-hand-grenades-found-in-a-bag-at-modara-) · `en`
+
+The Terrorism Investigation Division (TID) has recovered a bag containing ten hand grenades at Aluthmawatha Road in Modara, police said.
+
+◼️
+
+[Data](articles/6f3484a8.json)
+
+[Extended Data](ext_articles/6f3484a8.ext.json)
+
+---
+
+### Japanese help new schools in North East
+
+*2025-09-30 16:07:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උතර-නගනහර-පසල-සයක-අලත-කරනන-ජපනන-උදවවක/101-680506) · `si`
+
+President Anura Kumara Dissanayake on an invite of the Government of Japan on an invitation of the Japanese government visited the Nihii Sasakawa (Yohei Sasakawa) at the Imperial Hotel Tokyo.
+
+Special attention was focused on strengthening the long-term friendship between Japan and Sri Lanka.
+
+Jahai Sasakawa (Yohei Sasakawa) stated that he will continue to support the livelihood of all communities in Sri Lanka.. He also presented the plans to renovate and modernization of 100 schools in the North and East.
+
+President Anura Kumara Dissanayake expressed his gratitude to Johani Sasakawa, a long term commitment to the development and well being in Sri Lanka.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
+
+◼️
+
+[Data](articles/fa0fc06b.json)
+
+[Extended Data](ext_articles/fa0fc06b.ext.json)
+
+---
+
+### Japanese help new schools in North East
+
+*2025-09-30 16:07:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උතර-නගනහර-පසල-සයක-අලත-කරනන-ජපනන-උදවවක/1-680506) · `si`
+
+President Anura Kumara Dissanayake on an invite of the Government of Japan on an invitation of the Japanese government visited the Nihii Sasakawa (Yohei Sasakawa) at the Imperial Hotel Tokyo.
+
+Special attention was focused on strengthening the long-term friendship between Japan and Sri Lanka.
+
+Jahai Sasakawa (Yohei Sasakawa) stated that he will continue to support the livelihood of all communities in Sri Lanka.. He also presented the plans to renovate and modernization of 100 schools in the North and East.
+
+President Anura Kumara Dissanayake expressed his gratitude to Johani Sasakawa, a long term commitment to the development and well being in Sri Lanka.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
+
+◼️
+
+[Data](articles/fa7a386a.json)
+
+[Extended Data](ext_articles/fa7a386a.ext.json)
+
+---
+
+### Prasanna Ranaweera released on bail
+
+*2025-09-30 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215181) · `si`
+
+Former State Minister Prasanna Ranaweera has been granted bail to former government minister Prasanna Ranaweera.
+
+Former State Minister Prasanna Ranaweera, who was accused of preparing and selling false deeds, was re-examined today (30).
+
+Attorneys who appear on behalf of Prasanna Ranaweera were in the High Court in the High Court.
+
+The suspects Gampaha High Court Judge Naya Seneviratne has released Mrs. Naya Seneviratne, Gampaha High Court Judge Prasanna Ranaweera and Sarath Edirisinghe suspects.
+
+According to our terms, the passports of the suspects should be handed over to each of the five lakhs and five bail of the suspects each.
+
+◼️
+
+[Data](articles/ceaab82d.json)
+
+[Extended Data](ext_articles/ceaab82d.ext.json)
+
+---
+
+### Sri Lanka offers investments in key sectors during president’s visit
+
+*2025-09-30 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-offers-investments-in-key-sectors-during-presidents-visit-242272/) · `en`
+
+ECONOMYNEXT – Sri Lanka has offered investments to the Japanese business community in many areas including the island nation’s digital transformation, artificial intelligence (AI) manufacturing, information technology, renewable energy and tourism, the President’s Media Division said.
+
+Top officials from the Sri Lanka government made these offers when they met the Japanese business community during the official visit of President Anura Kumara Dissanayake.
+
+President Dissanayake also invited the Japanese business community to join in exploring the emerging economic opportunities in Sri Lanka, while further strengthening bilateral trade and investment relations between Japan and Sri Lanka and encouraging private sector participation.
+
+Addressing the forum, Dr Hans Wijayasuriya, Chief Advisor to the President of Sri Lanka on Digital Economy, outlined the Sri Lankan Government’s strategic priorities for the country’s national digitalisation process.
+
+...
+
+[Data](articles/f870e998.json)
+
+[Extended Data](ext_articles/f870e998.ext.json)
+
+---
+
+### A discussion between the President and Nippon Foundation
+
+*2025-09-30 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215180) · `si`
+
+President Anura Kumara Dissanayake on an invite of the Japanese government visited the Nippon Foundation at the Imperial Hotel in Tokyo this morning and met with the founding chairman of Nihani Sasaka.
+
+Special attention was focused on further strengthening the long-term friendship between Japan and Sri Lanka.
+
+Jahai Sasakawa stated that he will continue to support the upliftment of the livelihoods of all communities in Sri Lanka.
+
+He also presented the plans to renovate and modernization of 100 schools in the North and East.
+
+President Anura Kumara Dissanayake expressed his gratitude to Johani Sasaka, the attempt to uplift and well-being in Sri Lanka.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
+
+◼️
+
+[Data](articles/955ca1eb.json)
+
+[Extended Data](ext_articles/955ca1eb.ext.json)
 
 ---

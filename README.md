@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 17:20:40**
+As of **2025-09-30 17:06:15**
 
 ## Newspaper Stats
 
-*Scraped **79,901** Articles*
+*Scraped **79,900** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 511
+newsfirstlk | 510
 lankadeepalk | 515
 dbsjeyarajcom | 635
 bbccomsinhala | 712
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,893 (100.0%) of 79,901 articles have been extended.
+79,893 (100.0%) of 79,900 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,28 +42,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3a016bc8.json)
-
----
-
-### Ex-SLPP Candidate Manamperi Admits Supplying Guns For Kajja’s Murder
-
-*2025-09-30 16:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ex-slpp-candidate-manamperi-admits-supplying-guns-for-kajja%e2%80%99s-murder) · `en`
-
-COLOMBO (News 1st); Former Sri Lanka Podujana Peramuna local government candidate Sampath Manamperi has confessed to providing the firearm used in the brutal killing of Meegasare' Kajja and his two children.
-
-Manamperi further revealed that he leveraged political influence and connections within security agencies to operate as a key distributor in Backhoe Saman’s drug trafficking network, while also facilitating the transportation of firearms.
-
-Former Sri Lanka Podujana Peramuna (SLPP) local government candidate Sampath Manamperi has revealed that he transported firearms used in several murders in the South.
-
-He admitted that he supplied the gun used in the killing of Kajja and his two children.
-
-On the night of February 18, Aruna Widanagamage, also known as Meegasare' Kajja, was shot dead while traveling on a motorcycle with his two children.
-
-The suspects in this triple murder include Backhoe Saman, and Tembili Lahiru who were later arrested in Indonesia,
-
-...
-
-[Data](articles/35dfcbd4.json)
 
 ---
 
@@ -1966,5 +1944,25 @@ Bombs have been discovered today. Steps are being taken to obtain the order of t
 [Data](articles/e9d87412.json)
 
 [Extended Data](ext_articles/e9d87412.ext.json)
+
+---
+
+### Bus accident on the right; 28 passengers survived
+
+*2025-09-30 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226475) · `ta`
+
+A private bus traveling in the Valappanai area has been hit by a bus when he crashes off the road.
+
+The accident occurred on Monday (29) in the Maha Uva area of ​​the Nuwara Eliya-Valappanai main road.
+
+Valappanai police said that a bus crashed into a mound of mudslides in Walappanai area.
+
+Police believe that the incident may have been caused by a technical failure on the bus.
+
+◼️
+
+[Data](articles/143c35e1.json)
+
+[Extended Data](ext_articles/143c35e1.ext.json)
 
 ---

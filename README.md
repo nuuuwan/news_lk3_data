@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 00:36:45**
+As of **2025-10-01 01:06:19**
 
 ## Newspaper Stats
 
-*Scraped **79,992** Articles*
+*Scraped **79,996** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 518
-lankadeepalk | 528
+lankadeepalk | 531
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,757
 islandlk | 4,851
 dailyftlk | 5,604
-adalk | 7,698
+adalk | 7,699
 adaderanalk | 10,318
 tamilmirrorlk | 11,954
 virakesarilk | 13,048
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,992 (100.0%) of 79,992 articles have been extended.
+79,995 (100.0%) of 79,996 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,48 @@ The President, who has always expressed his views on the uniqueness of Buddhist 
 
 ---
 
+### Japan's parliamentary lease meets President
+
+*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/101-680529) · `si`
+
+A breakfast was held on behalf of President Anura Kumara Dissanayake on an invitation on an invitation to the Japanese official in the Imperial Hotel in Tokyo. The banquet was organized by the Japanese League of Japan.
+
+JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to further strengthening the cooperation between members of the two parliament.
+
+They also said that the two countries will strengthen cooperation through political, economic and cultural fields through political, economic and cultural areas.. The Sri Lanka Parliamentary League was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
+
+◼️
+
+[Data](articles/37e5e238.json)
+
+[Extended Data](ext_articles/37e5e238.ext.json)
+
+---
+
+### Are we going to jail now now? Imagine
+
+*2025-09-30 22:48:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපට-දන-හර-යනවද-උගනවනවද-හතනන-වල/101-680525) · `si`
+
+If the government brought the government to prevent children from being violent, do they teach their children? Otherwise in prison? The convener of the Guru Principal is to think that the teachers are to think about at a press conference today (30).
+
+Sumangala Thera said that if the amendment is implemented, a student leadership has no work. Speaking further at the press conference held in Colombo with the participation of the teacher unions, he said:
+
+If you do not share a word of the school if this bill is passed, it is not for prohibition.
+
+If the bill is passed, the Ministry of Education should be informed if a boy gets into school and follow a boy to school.
+
+At a further press conference held in Colombo, the Government Deputy Minister of Labor Mahinda Jayasinghe is the General Secretary of the Ceylon Teachers' Union (LB)
+
+It should not be physical punishment. If there is plenty of methods, do not go to hair. Assign the parents to the parent.
+
+◼️
+
+[Data](articles/25f28a38.json)
+
+[Extended Data](ext_articles/25f28a38.ext.json)
+
+---
+
 ### Excessive spending loses the lives of two youths
 
 *2025-09-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215199) · `si`
@@ -130,6 +172,28 @@ Ada Derana stated that the bus driver has been arrested in connection with the a
 [Data](articles/b6e97edf.json)
 
 [Extended Data](ext_articles/b6e97edf.ext.json)
+
+---
+
+### The price of three types of fuel down
+
+*2025-09-30 22:36:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනධන-වරග-තනක-මල-පහළට/101-680524) · `si`
+
+The Ceylon Petroleum Corporation announced a few moments ago that the price of three fuel including diesel was reduced from midnight today (30).
+
+The price of a liter of Sri Lanka is Rs. 6 per liter of oil, the price of Rs.
+
+The Petroleum Corporation said that the price of a liter of Octane 92 petrol and Lanka super diesel will not change.
+
+According to this price amendment, the new price of a liter of Sri Lanka's white diesel is Rs 277 and the new price of an Octane 95 petrol.
+
+The Corporation also said that the price of a liter of Octane 92 petrol, the price of Rs.
+
+◼️
+
+[Data](articles/6110e696.json)
+
+[Extended Data](ext_articles/6110e696.ext.json)
 
 ---
 
@@ -960,6 +1024,26 @@ He further stated that all three-casts can be submitted to the above website and
 [Data](articles/d9bfaac0.json)
 
 [Extended Data](ext_articles/d9bfaac0.ext.json)
+
+---
+
+### උතුර සහ නැගෙනහිර පාසල් 100 ක් නිපොන් පදනහෙමන් ප්‍රතිසංස්කරණය කරයි
+
+*2025-09-30 17:21:08* · [`adalk`](https://www.ada.lk/breaking_news/උතුර-සහ-නැගෙනහිර-පාසල්-100-ක්-නිපොන්-පදනහෙමන්-ප්‍රතිසංස්කරණය-කරයි/11-418825) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) පෙරවරුවේ ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී නිපොන් පදනමේ ආරම්භක සභාපති යොහෙයි සසකාවා (Yohei Sasakawa) මහතා හමුවී සාකච්ඡාවක නිරත විය.
+
+ජපානය සහ ශ්‍රී ලංකාව අතර පවතින දිගු කාලීන මිත්‍රත්වය තව දුරටත් ශක්තිමත් කිරීම පිළිබඳව මෙහිදී විශේෂ අවධානය යොමු විය.
+
+ශ්‍රී ලංකාව තුළ සියලු ප්‍රජාවන්ගේ ජීවනෝපායන් නඟා සිටුවීම සඳහා අඛණ්ඩව සහයෝගය ලබා දෙන බව යොහෙයි සසකාවා (Yohei Sasakawa) මහතා මෙහිදී ජනාධිපතිවරයා හමුවේ ප්‍රකාශ කළේය. එසේම උතුර සහ නැගෙනහිර පළාත්වල පාසල් 100 ක් ප්‍රතිසංස්කරණය කිරීම සහ නවීකරණය කිරීම සඳහා වන ඉදිරි සැලසුම් ද ඔහු විසින් ඉදිරිපත් කරන ලදී.
+
+ශ්‍රී ලාංකික ජනතාවගේ සංවර්ධනය සහ යහපැවැත්ම නගා සිටුවීමට දරන උත්සාහය සහ ශ්‍රී ලංකාව තුළ සමාජ සේවය වෙනුවෙන් වන දිගු කාලීන කැපවීම පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී යොහෙයි සසකාවා (Yohei Sasakawa) මහතා වෙත සිය කෘතඥතාව පළ කර සිටියේය.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු පිරිසක් මෙම අවස්ථාවට සහභාගි විය.
+
+◼️
+
+[Data](articles/13517221.json)
 
 ---
 
@@ -1924,87 +2008,5 @@ He was speaking at the Ministry of Advisory Committee on Education, Higher Educa
 [Data](articles/cd26a188.json)
 
 [Extended Data](ext_articles/cd26a188.ext.json)
-
----
-
-### බෞද්ධ දරුවන් බහුතරයක් බුද්ධ ධර්මය අසමත්
-
-*2025-09-30 15:22:02* · [`adalk`](https://www.ada.lk/breaking_news/බෞද්ධ-දරුවන්-බහුතරයක්-බුද්ධ-ධර්මය-අසමත්/11-418820) · `si`
-
-The majority of Sinhala Buddhist children is failing to be subject to the subject of Sinhala Buddhism and the adults of Sri Sumanarama Amaragathi Thero.
-
-Signillewava in the Colombo Divisional Secretariat Division was held today (30) at the Sri Sumanama Viharaya of Sri Sumanarajothy of Sri Sumanarama Viharaya.
-
-The organizing panel was conducting a number of various fun games for children at the celebration.
-
-Ambiri Kahanda Kawaduwa helped the World Children's Day celebration. It has enabled us to reach this World Children's Day celebration for nearly 100 children. We have the fear of this day and children. That is why we do this work as bhikkins.
-
-...
-
-[Data](articles/4765f95e.json)
-
-[Extended Data](ext_articles/4765f95e.ext.json)
-
----
-
-### Colombo inflation climbs to 1.5% in September
-
-*2025-09-30 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113077/colombo-inflation-climbs-to-15-in-september-) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has increased to 1.5% in September 2025, compared to 1.2% in August 2025, according to the latest data released by the Department of Census and Statistics.
-
-The CCPI for all items for the month of September 2025 was 193.7 and it records an increase of 0.4 index points compared to the month of August 2025 for which the index was 193.3.
-
-The Y-on-Y inflation of Food Group increased to 2.9% in September 2025 from 2.0% in August 2025 and the Y-on-Y inflation of Non Food Group decreased to 0.7% in September 2025 from 0.8% in August 2025.
-
-For the month of June 2025, on Y-on-Y basis, the contribution to inflation by food commodities was 0.94%.
-
-◼️
-
-[Data](articles/0aa54961.json)
-
-[Extended Data](ext_articles/0aa54961.ext.json)
-
----
-
-### Bail for Prasanna Ranweera!
-
-*2025-09-30 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226497) · `ta`
-
-The Gampaha High Court today (30) ordered the release of former Minister Prasanna Ranweera on bail.
-
-The order was issued when Prasanna Ranawira was produced before the Gampaha High Court Magistrate today.
-
-Accordingly, the magistrate has ordered the release of Prasanna Ranawira on a cash bail worth Rs 5 lakh and five lakh rupees.
-
-In 2010, the court was granted arrest of Prasanna Ranawira in connection with the selling of a state land in Kiribathgoda area.
-
-However, former minister Prasanna Ranweera has left the area for a long time and has been in hiding for a long time.
-
-Subsequently, former minister Prasanna Ranawira surrendered to the court on May 7 and was released on bail after being kept in custody.
-
-◼️
-
-[Data](articles/08f00a50.json)
-
-[Extended Data](ext_articles/08f00a50.ext.json)
-
----
-
-### Commercial Bank offers 18 -month loan to Apple devices in conjunction with GNEXT Store
-
-*2025-09-30 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226495) · `ta`
-
-Commercial Bank and Authorized Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Electronic Devices
-
-The Commercial Bank operates the network of branches and automated machines across the country.
-
-In addition, the bank's full -fledged subsidiaries, CBC Finance LTD and Commercial Insurance Brokers (Pvt) Limited, also offer various financial services through their own branch networks.
-
-◼️
-
-[Data](articles/b45a5a5d.json)
-
-[Extended Data](ext_articles/b45a5a5d.ext.json)
 
 ---

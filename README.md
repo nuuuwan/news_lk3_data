@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 21:07:28**
+As of **2025-09-30 21:20:40**
 
 ## Newspaper Stats
 
-*Scraped **79,976** Articles*
+*Scraped **79,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,756
 islandlk | 4,851
 dailyftlk | 5,604
-adalk | 7,696
+adalk | 7,697
 adaderanalk | 10,316
 tamilmirrorlk | 11,952
 virakesarilk | 13,048
@@ -27,21 +27,23 @@ adaderanasinhalalk | 13,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,975 (100.0%) of 79,976 articles have been extended.
+79,976 (100.0%) of 79,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### ඉන්ධන මිල වෙනස් වෙයි
+### Fuel prices vary
 
 *2025-09-30 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215196) · `si`
 
-අද (30) මධ්‍යම රාත්‍රී 12 සිට බලපැවැත්වෙන පරිදි පහත සඳහන් ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+The following fuel prices have been amended today (30).
 
 ◼️
 
 [Data](articles/24a7b210.json)
+
+[Extended Data](ext_articles/24a7b210.ext.json)
 
 ---
 
@@ -91,6 +93,16 @@ Accordingly, according to the Duck's Lewis theory, the Sri Lankan women's group 
 
 Two suspects were arrested in the Hirana area of Panadura by the Walana Anti-Vice Squad while in possession of 03 kg of cocaine, valued at around Rs. 150 million, police said.
 
+The arrests were made under the instructions of the Director of the Walana Anti-Corruption Unit, SP Udaya Kumara and its Officer-in-Charge, Indika Weerasinghe.
+
+Police recovered 2 kilograms of cocaine from a residence, while the remaining kilogram was found in a luxury car used to transport it.
+
+An identification card belonging to a currently serving police officer was also seized from the suspects, said police.
+
+According to police, the suspects were allegedly distributing these drugs at nightclubs located in luxury hotels.
+
+Investigations further revealed that the drug racket is reportedly being coordinated by an individual based in Dubai.
+
 ◼️
 
 [Data](articles/a2dce662.json)
@@ -129,7 +141,7 @@ The Chief Prelates of all three Buddhist Chapters emphasized that proposed amend
 
 These observations have been made in a joint letter to the President, issued with the signatures of the Most Venerable Thibbatuwawe Sri Siddhartha Sumangalabidhana Mahanayake Thero of the Malwatta chapter of Siam Nikaya, Most Venerable Warakagoda Dhammasiddhi Sri Pagghananda Gnanarathanabidhana Mahanayake Thero of the Asgiriya Chapter of the Siam Nikaya, Most Venerable Karagoda Uyangoda Maithree Moorthi Mahanayaka Thero of the Amarapura Maha Nikaya and Most Venerable Makulewe Wimala Mahanayake Thero of the Sri Lanka Ramanna Maha Nikaya.
 
-◼️
+...
 
 [Data](articles/f361427c.json)
 
@@ -235,11 +247,9 @@ Sri Lanka Police says that it has been confirmed that Anura Vidanagamage, also k
 
 Speaking at a press briefing in Colombo today (30), Acting Police Spokesman ASP Minura Senarath stated that this information was uncovered following the interrogation of underworld figure ‘Backhoe Saman’, who was recently arrested in Indonesia and is suspected to have orchestrated the killing of ‘Kajja’, and a statement provided by Kajja’s widow.
 
-On February 18, “Kajja” was shot dead by an unidentified gunman, while his two children, who sustained critical injuries in the attack, succumbed later.
+During the investigation, the Criminal Investigation Department (CID) showed Kajja’s wife CCTV footage of Thajudeen purchasing a bottle of water from a shop near the Havelock City complex. She identified the person standing behind Thajudeen in the footage as her husband, noting his distinctive posture and long-standing back problems.
 
-The suspected gunman—who was later arrested along with nine others— had confessed that he carried out the execution on a contract from “Backhoe Saman” due to his own mounting personal debt.
-
-◼️
+...
 
 [Data](articles/76a22002.json)
 
@@ -1543,6 +1553,24 @@ SSP Satish Kamage, Deputy Director of the Cultural Division of the Police Depart
 
 ---
 
+### නුවරඑළිය  නාගරික කොමසාරිස්ට ජනතාවගේ විරෝධය
+
+*2025-09-30 15:30:44* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය--නාගරික-කොමසාරිස්ට-ජනතාවගේ-විරෝධය/11-418821) · `si`
+
+නුවරඑලිය නගර මධ්‍යයේ පදික වේදිකාවේ කාලයක් තිස්සේ ව්‍යාපාර කටයුතු කරන ව්‍යාපාරිකයන් පිරිසක් නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයා ඉවත් කරන ලෙස බල කරමින් (30) දහවල් නුවරඑලිය ප්‍රාදේශීය ලේකම් කාර්යාලය ඉදිරිපිට විරෝධතාවයක නිරතවිය.
+
+නුවරඑලිය නගර මධ්‍යයේ පදික වේදිකාවේ කාලයක් තිස්සේ ජීවනෝපාය ලෙස පදික වෙළදාම සිදු කරන බවත්, වත්මන් නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයා පදික වේදිකාවේ ව්‍යාපාර කටයුතු ඉවත් කිරිමට මේ වන විට පියවර ගෙන ඇති බවත්, ඒ සදහා තමන්ට විකල්ප ස්ථානයක් හෝ ලබා දී නොමැති බවයි විරෝධතාවයේ නියෑලී සිටි ව්‍යපාරිකයන් කියා සිටියේ.
+
+නුවරඑලිය මහ නගර සභාවේ සභාපතිවරයා ඇතුලු වත්මන් පාලකයින්ගෙන් පදික වෙළදුම් සිදු කරන තමන්ට කිසිදු බලපෑමක් නොමැති බවත්, නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයා පමනක් එයට විරුද්ධවන බවයි පීඩාවට පත් නුවරඑලිය නගරයේ පදික වෙළෙදුන් කියා සිටියේ.
+
+අප මේ සම්බන්ධයෙන් නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයාගෙන් කරුනු විමසීමට උත්සහ කලද එය ව්‍යර්ථ විය.
+
+◼️
+
+[Data](articles/5c3bffb5.json)
+
+---
+
 ### Prasanna Ranaweera Granted Bail in Land Fraud Case
 
 *2025-09-30 15:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/prasanna-ranaweera-granted-bail-in-land-fraud-case) · `en`
@@ -1956,21 +1984,5 @@ Sri Lanka captain Chamari, who won the coin, decided to bowl first.
 [Data](articles/a7fd93c4.json)
 
 [Extended Data](ext_articles/a7fd93c4.ext.json)
-
----
-
-### Where is the Provincial Council Travel?
-
-*2025-09-30 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පළත-සභ-ගමන-මග-කයබටද/2-680500) · `si`
-
-There is a controversial discussion regarding the implementation of the provincial council institutions and not attending elections. The governance format of Sri Lanka is acquired by three control structures. The provincial structure and the structure of the Provincial Council structure and the local government structure implemented in 1987.
-
-The governance of Sri Lanka made these claims. But the provincial councils have been inactive on the SLC. Separate elections are based on the preparation of Provincial Councils and Local Authorities to elect the legislature of the central government and the provincial councils and local government bodies.
-
-...
-
-[Data](articles/3e0e2490.json)
-
-[Extended Data](ext_articles/3e0e2490.ext.json)
 
 ---

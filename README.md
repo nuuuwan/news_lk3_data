@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 12:25:44**
+As of **2025-09-30 12:55:54**
 
 ## Newspaper Stats
 
-*Scraped **79,766** Articles*
+*Scraped **79,775** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 490
-newsfirstlk | 498
+lankadeepalk | 493
+newsfirstlk | 499
 dbsjeyarajcom | 635
 bbccomsinhala | 710
 colombotelegraphcom | 800
@@ -18,8 +18,8 @@ economynextcom | 4,742
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,679
-adaderanalk | 10,293
-tamilmirrorlk | 11,934
+adaderanalk | 10,295
+tamilmirrorlk | 11,937
 virakesarilk | 12,998
 adaderanasinhalalk | 13,800
 
@@ -27,11 +27,89 @@ adaderanasinhalalk | 13,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,765 (100.0%) of 79,766 articles have been extended.
+79,772 (100.0%) of 79,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### Shasheendra Rajapaksa Sent Back To Remand
+
+*2025-09-30 12:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/shasheendra-rajapaksa-sent-back-to-remand) · `en`
+
+COLOMBO (News 1st); Former State Minister Shasheendra Rajapaksa has been remanded until October 14 by the Colombo Chief Magistrate’s Court. The order was issued by Chief Magistrate Asanga S. Bodaragama after Rajapaksa was produced before court today.Rajapaksa was arrested on August 6 by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on charges of corruption and misuse of public property. The allegations are based on an incident involving a building illegally constructed on land belonging to the Sri Lanka Mahaweli Authority in Sevanagala.According to investigators, the building was destroyed during the May 9, 2022 protests, after which Rajapaksa allegedly pressured officials to approve compensation for the damage. He is accused of unlawfully obtaining Rs. 8.85 million as compensation, despite the property being state-owned.
+
+◼️
+
+[Data](articles/4c66b616.json)
+
+---
+
+### 47 children are jailed with Mother Marks
+
+*2025-09-30 11:58:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்மா-மார்களுடன்-47-குழந்தைகள்-சிறையில்-வாடுகின்றனர்/175-365521) · `ta`
+
+The prison headquarters said that 47 children are in jail with women who have been jailed for various crimes in the last nine months since the beginning of 2025. The children are 20 children and 27 girls.
+
+1,483 women have been jailed in the nine months from 1st January 2025 to September (27). Of these women, 229 are prisoners.
+
+In the seven months from January 1 to July 31, the number of women sentenced to imprisonment was 184 for drug offenses.
+
+Of them, 75 have been imprisoned for ice, 97 are for heroin, 8 for cannabis crime, a woman is an opium crime and 3 for other drugs.
+
+The Prison Headquarters has released this information following a request under the Right to Information Act.
+
+Last year, the number of women imprisoned for various crimes was 885, with 369 of them.
+
+Of these, 138 were jailed for ice, 199 were for heroin, 17 for cannabis crimes and 14 for other drug offenses.
+
+Last year, 655 married women were jailed for various crimes, of which 278 were jailed for drug offenses.
+
+...
+
+[Data](articles/e157c5be.json)
+
+[Extended Data](ext_articles/e157c5be.ext.json)
+
+---
+
+### Three injured in bus-lorry accident on A9 road in Mihintale
+
+*2025-09-30 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113066/three-injured-in-bus-lorry-accident-on-a9-road-in-mihintale) · `en`
+
+Three individuals have sustained injuries in a road accident reported along A9 road in the Mihintale-Palugaswewa area.
+
+The incident took place when a lorry collided with the rear of a private bus traveling from Kataragama to Jaffna.
+
+The injured individuals, all passengers on the bus, were admitted to the Mihintale Regional Hospital for treatment.
+
+Further investigations into the accident are being conducted by the Traffic Division of the Mihintale Police.
+
+◼️
+
+[Data](articles/3e03ea48.json)
+
+---
+
+### Request to keep Sashindra in a wet room
+
+*2025-09-30 11:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷிந்திரவை-ஈரமான-அறையில்-வைக்க-கோரிக்கை/175-365520) · `ta`
+
+Colombo Chief Magistrate Asanga Sasanga Sasindra Rajapakse, who is alleged to have been accused of compensation for the assets and kidneys of the Kriyippanwewa Mahaweli Authority, which was burned and destroyed by the protesters in 2022. Podarakama ordered the prison superintendent on Tuesday (30).
+
+The magistrate, who said that no exceptional truth has been presented to bail to the suspect under the Public Property Act, has been extended for the next 14 days.
+
+The magistrate ordered that the suspect had any illnesses, and that they had to be present, and that no exceptional truth had been presented, and that he had to submit a report on what kind of illness he had and what treatment he had so far.
+
+The order was issued after considering the request of his lawyer to grant bail to the suspect who had been interrogated for two months.. He said the suspect was suffering from many diseases and that his body was high in sodium concentration, which could severely affect his kidneys.
+
+...
+
+[Data](articles/40067ffd.json)
+
+[Extended Data](ext_articles/40067ffd.ext.json)
+
+---
 
 ### Coop is angry with a position of electricity
 
@@ -48,6 +126,24 @@ The officials have said that interviews will be held in the future to recruit su
 [Data](articles/011808fe.json)
 
 [Extended Data](ext_articles/011808fe.ext.json)
+
+---
+
+### Coop is angry with a position of electricity
+
+*2025-09-30 11:48:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදලය-තනතරකට-කප-කප-වය/1-680466) · `si`
+
+The COPE committee was displeased with the officials for 11 months of a acting officer of the CPC.
+
+It is regrettable that there is no surrender internal auditor for the Sri Lanka CEB.
+
+The officials have said that interviews will be held in the future to recruit suitability.
+
+◼️
+
+[Data](articles/14cee77b.json)
+
+[Extended Data](ext_articles/14cee77b.ext.json)
 
 ---
 
@@ -91,6 +187,24 @@ The Mihintale Police Traffic Division conducts further investigations into the a
 
 ---
 
+### 2 men's bodies recovery in Dehiwala, Colombo
+
+*2025-09-30 11:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-தெஹிவளையில்-2-ஆண்களின்-சடலங்கள்-மீட்பு/175-365518) · `ta`
+
+Police have begun investigations after two men's bodies were found in Grandpass and Dehiwala yesterday.
+
+The first body was found near the Grandpass. Police said that the deceased has not yet been identified, he is between the ages of 35 and 40, and is about 5 feet 4 inches tall and wearing a black short t-shirt.. The body was taken to the Colombo National Hospital for examination.
+
+In another incident, a 23 -year -old man was found dead in a house on Siriwardena Road, Dehiwala.
+
+◼️
+
+[Data](articles/c7072d0b.json)
+
+[Extended Data](ext_articles/c7072d0b.ext.json)
+
+---
+
 ### Another young man who was injured in an accident
 
 *2025-09-30 11:31:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-காயமடைந்த-மற்றுமொரு-இளைஞனும்-உயிரிழப்பு/175-365517) · `ta`
@@ -111,6 +225,22 @@ Five youths from Mullaitivu district were killed in the accident.
 
 ---
 
+### Sri Lanka to develop globally recognized National Quality Infrastructure System
+
+*2025-09-30 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/113065/sri-lanka-to-develop-globally-recognized-national-quality-infrastructure-system) · `en`
+
+Sri Lanka will soon develop a national quality infrastructure system that meets high international recognition standards, according to Minister of Science and Technology Dr. Chrishantha Abeysena.
+
+The Minister made this announcement while attending the inaugural session of a two-day workshop on Regulatory Impact Assessment and the Strengthening and Development of National Quality Infrastructure Systems, organized by the Ministry of Science and Technology in collaboration with the United Nations Industrial Development Organization (UNIDO) and with technical support from the European Union (EU).
+
+As part of a program under the Ministry of Science and Technology, budgetary allocations have been set aside for 2025 to support the development of a national quality infrastructure system.
+
+...
+
+[Data](articles/11861dd7.json)
+
+---
+
 ### Former State Minister Shashindra was the order
 
 *2025-09-30 11:23:36* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ශෂින්ද්‍රට-අද-ලැබුණු-නියෝගය-මෙන්න/11-418808) · `si`
@@ -125,27 +255,29 @@ The Colombo Magistrate's Court has been remanded until the 14th of this month.
 
 ---
 
-### ඉන්දුනීසියාවේ පාසල් ගොඩනැගිල්ලක් කඩා වැටෙයි
+### School building collapses in Indonesia
 
 *2025-09-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215168) · `si`
 
-ඉන්දුනීසියාවේ ජාවා නුවර පිහිටි පාසලක ගොඩනැගිල්ලක් කඩා වැටීමෙන්ම එහි සිටි සිසුන්ගෙන්  සිසුන් තිදෙනෙකු මියගොස් තවත් 38 දෙනෙකු සුන්බුන් අතර සිර වී සිටින බව වාර්තාවේ.
+Three students were killed and 38 were killed and 38 were killed and 38 of the students were killed in a school in Java, Indonesia.
 
-විදෙස් මාධ්‍ය පැවසුවේ තවත් 101 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවය.
+Foreign media said that 101 others were injured and hospitalized.
 
-මියගොස් ඇත්තේ අවුරුදු 13ක් වයසැති පිරිමි ළමයෙකු වන අතර තුවාල ලබා රෝහල් ගත කර ඇති අය අතුරින් වැඩි පිරිසක් බරපතළ තුවාල ලබා ඇති බවත් මරණ ගණන ඉහළ යා හැකි බවත් වාර්තා වේ.
+The deceased has been identified as a 13 year old boy and most of the injuries were seriously injured and the number of deaths could be increased.
 
-සුන්බුන් අතර සිරවී සිටින බවට විශ්වාස කෙරෙන 38 දෙනෙකු සොයා බේරා ගැනීමේ මෙහෙයුම් ක්‍රියාත්මක වේ.
+Operations operate operates in search of 38 people who believe in the wreckage.
 
-මෙලෙස අනතුරට පත් ව ඇත්තේ වයස අවුරුදු 12 ත් 17 ත් අතර වයස්වල පාසලේ සිටි සිසුන් බව විදෙස් මාධ්‍ය පවසයි.
+According to foreign media reports, students of the school aged between the ages of 12 and 17.
 
-ගොඩනැගිල්ල කඩා වැටෙන විට යාඥා කිරීම සඳහා රැස්ව සිටි ඇති බව සඳහන් වේ.
+It is said that when the building collapsed, he was gathered to pray.
 
-කඩා වැටි ඇති දෙමහල් ගොඩනැගිල්ලේ අස්ථායී අත්තිවාරමක් තිබී ඇති බව වාර්තා වේ.
+It is reported that the unstable foundations of a two storied building have been found in a collapse.
 
 ◼️
 
 [Data](articles/641b8284.json)
+
+[Extended Data](ext_articles/641b8284.ext.json)
 
 ---
 
@@ -701,6 +833,26 @@ The suspects were arrested for 24/38 years old and another person was arrested i
 
 ---
 
+### Two people arrested for possessing Padme's weapons
+
+*2025-09-30 09:28:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදමග-අව-ළඟ-තබගත-දනනක-අලලය/1-680456) · `si`
+
+The Criminal Investigations Department says that two persons have been arrested in possession of Micro VIIA, who belongs to the name of organized crime leader Kehel Badma.
+
+One of the suspects have been arrested for assisting the incident.
+
+The suspect was arrested for the cahel of Indonesia recently, a fire weapon was handed over to a person in Nuravuduwa in Nurama, Kelaniya had been handed over to a person in Nurama.
+
+The suspects were arrested for 24/38 years old and another person was arrested in questioning the incident.
+
+◼️
+
+[Data](articles/bfccf225.json)
+
+[Extended Data](ext_articles/bfccf225.ext.json)
+
+---
+
 ### Katunayake Rs. A business attempted to emit alcohol
 
 *2025-09-30 09:25:58* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-රු--මිලියනයක-මත්පැන්-පිටකිරීමට-තැත්කළ-ව්‍යාපාරියෙක්-අල්ලයි/11-418801) · `si`
@@ -740,6 +892,26 @@ The Department said that the temporary driving license applicants should not be 
 [Data](articles/8482c199.json)
 
 [Extended Data](ext_articles/8482c199.ext.json)
+
+---
+
+### Talalla coastal international
+
+*2025-09-30 09:05:25* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තලලල-වරළ-ජතයනතරයට/1-680450) · `si`
+
+The project to turn the Talalla coastline, the Talalla coastline, the Talalla coastline, the Talalla coastline, was started at the Talalla coast.
+
+The project is implemented by the Marine Environment Protection Authority under the Clean Sri Lanka program.
+
+Interior National Nilgath Coastal Environment Assurance is an Environmental Protection, Water Status, Environment and Services. The program will contribute to the tourist attraction and achieving the country's economic growth targets as a bluejasher.
+
+Industries and Entrepreneurship Development Minister Sunil Handunnetti, Minister of Environment, Hon
+
+◼️
+
+[Data](articles/791f2466.json)
+
+[Extended Data](ext_articles/791f2466.ext.json)
 
 ---
 
@@ -1786,163 +1958,5 @@ Representatives from HNB and SLIC, including HNB MD/CEO Damith Pallewatte, SME a
 [Data](articles/05cffd23.json)
 
 [Extended Data](ext_articles/05cffd23.ext.json)
-
----
-
-### Lead the Leader of the Opposition
-
-*2025-09-30 00:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவை-எதிர்க்கட்சித்-தலைவராக்குங்கள்/175-365500) · `ta`
-
-Yall. National People's Power Leader Wimal Weerawansa, who has demanded that district parliamentarian Archana Ramanathan be the leader of the opposition, said that there is no need to see which ethnicity is belonging to the public issue of the country.
-
-◼️
-
-[Data](articles/7edb2b5c.json)
-
-[Extended Data](ext_articles/7edb2b5c.ext.json)
-
----
-
-### FCEJ stands in support of the birds, the land and the people of Mannar
-
-*2025-09-30 00:12:15* · [`dailyftlk`](https://www.ft.lk/opinion/FCEJ-stands-in-support-of-the-birds-the-land-and-the-people-of-Mannar/14-782358) · `en`
-
-The wind turbines have affected the globally renowned migratory paths of thousands of birds
-
-Following is a statement by the Feminist Collective for Economic Justice, on the attack on protestors in Mannar over the energy project
-
-The Feminist Collective for Economic Justice, Sri Lanka hears the harrowed cries of the birds, the land and the people of Mannar. One of the darkest days of this Government has come to pass on the night of 26 September 2025, with the brutal attack by hundreds of police officers of peaceful protestors in Mannar.1 Many protestors have ended up in hospital including women and children.
-
-...
-
-[Data](articles/8f923e83.json)
-
-[Extended Data](ext_articles/8f923e83.ext.json)
-
----
-
-### Can Gaza be saved by the UN General Assembly through a 1950 Resolution?
-
-*2025-09-30 00:09:55* · [`dailyftlk`](https://www.ft.lk/columns/Can-Gaza-be-saved-by-the-UN-General-Assembly-through-a-1950-Resolution/4-782357) · `en`
-
-If blocked by a veto-wielding country, the UNGA has the means to bypass the Security Council
-
-An immediate ceasefire in Palestine, which is being bombed every 8-9 minutes according to the UN spokesperson Stephane Dujarric, was deadlocked at the Security Council last week through a veto by the United States of America. A deadlock which blocked a potential halt to the killing of civilians at a scale and intensity that the world has not seen in living memory outside of World War II.
-
-Thankfully, all is not lost at the United Nations. In this situation of deadlock where there is a threat to global peace and security, the UN General Assembly (UNGA) isn’t entirely helpless. If blocked by a veto-wielding country, the UNGA has the means to bypass the Security Council by invoking a 1950 Resolution known as Uniting for Peace, Resolution 377 A(V), which gives the General Assembly the power to recommend a number of mechanisms including the use of force.
-
-...
-
-[Data](articles/ffa3e8dd.json)
-
-[Extended Data](ext_articles/ffa3e8dd.ext.json)
-
----
-
-### 2025-09-29 (Monday)
-
-### Phoenix Ogilvy and SriLankan Airlines bring home the country’s first APAC Effie Award
-
-*2025-09-29 23:38:00* · [`islandlk`](http://island.lk/phoenix-ogilvy-and-srilankan-airlines-bring-home-the-countrys-first-apac-effie-award/) · `en`
-
-Phoenix Ogilvy Sri Lanka and SriLankan Airlines have made history as the first Sri Lankan advertising agency and brand to win at the coveted APAC Effie’s, held recently in Singapore.
-
-The campaign, Relive the Epic of the Ramayana Trail, was the sole entry shortlisted in the Travel and Tourism category from the entire Asia Pacific region and was awarded a Bronze Effie, highlighting the campaign’s role in revitalizing inbound tourism at a crucial time for the nation’s economy.
-
-...
-
-[Data](articles/5d35930a.json)
-
-[Extended Data](ext_articles/5d35930a.ext.json)
-
----
-
-### Benchmarking digital excellence: Browns IT recognised with ISO 9001:2015
-
-*2025-09-29 23:37:00* · [`islandlk`](http://island.lk/benchmarking-digital-excellence-browns-it-recognised-with-iso-90012015/) · `en`
-
-Brown & Company’s digital arm, Browns IT was recently awarded the ISO 9001:2015 certification by world-leading certification company Bureau Veritas in recognition of its quality-driven commitment to delivering cutting-edge digital solutions. Widely regarded as one of the most globally recognised standards for Quality Management Systems (QMS), the ISO 9001:2015 certification is exclusively awarded to companies that demonstrate consistent quality across their processes, products and services, while aligning with international standards. This milestone is timely as Browns celebrates its 150th anniversary, a century and a half defined by innovation, resilience, and a steadfast commitment to customer-centric service excellence.
-
-...
-
-[Data](articles/a244d06b.json)
-
-[Extended Data](ext_articles/a244d06b.ext.json)
-
----
-
-### Nation Lanka Finance decides against going ahead with private placement of shares but CSE remains robust
-
-*2025-09-29 23:35:00* · [`islandlk`](http://island.lk/nation-lanka-finance-decides-against-going-ahead-with-private-placement-of-shares-but-cse-remains-robust/) · `en`
-
-Nation Lanka Finance said it would not proceed with its planned private placement of shares, which would have helped it to meet working capital requirements.
-
-The company had received regulator approval for the private placement of 30 billion ordinary shares at 10 cents per share.
-
-“NLF PLC wishes to now inform that the Company would not pursue with the said Private Placement of Shares, informed sources said.
-
-Amid those developments the market performance was overall positive as investors were optimistic over the potential in emerging new economic policies.
-
-The All Share Price Index went up by 86.14 points, while the S and P SL20 rose by 3.67 points. Turnover stood at Rs 4.2 billion with five crossings.
-
-...
-
-[Data](articles/17260fa0.json)
-
-[Extended Data](ext_articles/17260fa0.ext.json)
-
----
-
-### CSE Masterminds Quiz offers over Rs. 3.5 million in prizes for its 7th edition
-
-*2025-09-29 23:34:00* · [`islandlk`](http://island.lk/cse-masterminds-quiz-offers-over-rs-3-5-million-in-prizes-for-its-7th-edition/) · `en`
-
-The Colombo Stock Exchange (CSE) announces the seventh edition of the CSE Masterminds Quiz on 17th October 2025 from 3.00 p.m. onwards at the Main Ballroom, Shangri-La Colombo.
-
-Recognized as Sri Lanka’s premier capital market quiz competition, the event will bring together teams from the public and private sector to compete for glory in six subject areas, in international business, global markets, Sri Lankan economy and business, local capital market, sports & entertainment, and current affairs.
-
-This year’s competition will offer prizes worth over Rs. 3.5 million. The champion team will walk away with Rs. 1,000,000/-, while the second and third-placed teams will receive Rs. 500,000/- and Rs. 375,000/-, respectively.
-
-...
-
-[Data](articles/01c5987b.json)
-
-[Extended Data](ext_articles/01c5987b.ext.json)
-
----
-
-### Budget 2025: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2025-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/66618729.json)
-
-[Extended Data](ext_articles/66618729.ext.json)
-
----
-
-### Budget 2026: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/96e151f6.json)
-
-[Extended Data](ext_articles/96e151f6.ext.json)
 
 ---

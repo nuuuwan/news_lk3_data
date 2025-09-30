@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 15:38:32**
+As of **2025-09-30 15:56:49**
 
 ## Newspaper Stats
 
-*Scraped **79,861** Articles*
+*Scraped **79,867** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 505
-newsfirstlk | 507
+lankadeepalk | 507
+newsfirstlk | 508
 dbsjeyarajcom | 635
 bbccomsinhala | 711
 colombotelegraphcom | 801
@@ -19,7 +19,7 @@ islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,688
 adaderanalk | 10,303
-tamilmirrorlk | 11,939
+tamilmirrorlk | 11,942
 virakesarilk | 13,033
 adaderanasinhalalk | 13,806
 
@@ -27,11 +27,103 @@ adaderanasinhalalk | 13,806
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,858 (100.0%) of 79,861 articles have been extended.
+79,861 (100.0%) of 79,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### Prasanna Ranaweera Granted Bail in Land Fraud Case
+
+*2025-09-30 15:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/prasanna-ranaweera-granted-bail-in-land-fraud-case) · `en`
+
+COLOMBO (News 1st); Former State Minister Prasanna Ranaweera, who was in remand custody over allegations of fraudulent land transactions, was released on bail today by the Gampaha High Court.High Court Judge Nayana Senaviratne granted bail under strict conditions, including a cash bail of Rs. 500,000 and five sureties of Rs. 500,000 each. In addition, the court imposed a foreign travel ban and ordered the surrender of his passport.Ranaweera had been remanded in connection with a case involving the sale of state-owned land in Kiribathgoda using forged deeds.
+
+◼️
+
+[Data](articles/152b1959.json)
+
+---
+
+### “ஆசிரியர், அதிபர் இடமாற்றங்களை சமநிலைப்படுத்துவதை  துரிதப்படுத்தவும்”
+
+*2025-09-30 15:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-அதிபர்-இடமாற்றங்களை-சமநிலைப்படுத்துவதை-துரிதப்படுத்தவும்/175-365530) · `ta`
+
+ஆசிரியர் மற்றும் அதிபர் இடமாற்றங்களை சமநிலைப்படுத்துவது துரிதப்படுத்தப்பட வேண்டும் என கல்வி, உயர் கல்வி மற்றும் தொழிற் கல்வி கௌரவ அமைச்சரும் பிரதமருமான (கலாநிதி) ஹரிணி அமரசூரிய தெரிவித்தார். இது தொடர்பில் மேலும் கருத்துத் தெரிவித்த   பிரதமர், கல்வித் துறையில் இடமாற்றங்களை நிராகரிப்பது நீண்ட காலமாக நிலவும் நடைமுறையாக உள்ளது என்றும், இது இடமாற்றங்களுக்கு இணங்காத பொதுச் சேவையில் உள்ள ஒரே துறை என்றும் தெரிவித்தார். இத்தகைய இடமாற்றங்களுக்கு இணங்கத் தவறிய ஆசிரியர்கள் மற்றும் அதிபர்கள் குறித்து எடுக்கப்பட்ட நடவடிக்கைகள் தொடர்பிலும் அமைச்சுசார் ஆலோசனைக் குழுவில் கவனம் செலுத்தப்பட்டது.
+
+பிரதமர் (கலாநிதி) ஹரிணி அமரசூரிய தலைமையில் கல்வி, உயர் கல்வி மற்றும் தொழிற் கல்வி அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழுக் கூட்டம் அண்மையில் (26) பாராளுமன்றத்தில் இடம்பெற்ற போதே அவர் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/cd26a188.json)
+
+---
+
+### மாணவின் படத்தை நிர்வாணமாக்கிய மாணவனுக்கு பிணை
+
+*2025-09-30 15:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவின்-படத்தை-நிர்வாணமாக்கிய-மாணவனுக்கு-பிணை/175-365528) · `ta`
+
+பாடசாலை மாணவியின் புகைப்படத்தை நிர்வாணப் படத்துடன் இணைத்து இணையத்தில் பரப்பியதாக 18 வயதுக்குட்பட்ட பாடசாலை மாணவன் ஒருவன் காலி மேலதிக நீதவான் மகேஷிகா விஜேதுங்க முன் ஆஜர்படுத்தப்பட்டு ரூ. 200,000 சரீர பிணையில் விடுவிக்கப்பட்டான்.
+
+அவன் அவனது தந்தையிடம் ஒப்படைக்கப்பட்டான். பாதிக்கப்பட்டவரை துன்புறுத்தவோ அல்லது செல்வாக்கு செலுத்தவோ கூடாது என்று நீதவான் கடுமையாக எச்சரித்தார்.
+
+பாடசாலையின் மாணவியின் தோழி தனது மூத்த சகோதரனுக்கு தனது படம் இணையத்தில் பகிரப்பட்டதாக தெரிவித்தபோது இந்த சம்பவம் வெளிச்சத்துக்கு வந்ததாக பொலிஸார் தெரிவித்தனர். அவரது சகோதரர் உடனடியாக காலி சைபர் குற்றப் புலனாய்வுப் பிரிவில் புகார் அளித்தார்.
+
+விசாரணையின் போது, ​​சந்தேக நபர் கைது செய்யப்பட்டு விசாரிக்கப்பட்டார். சிறுவன் சிறுமியை காதல் ரீதியாக பின்தொடர்ந்ததாகவும், அவள் அவரை நிராகரித்த பிறகு, அவள் முகத்தை ஒரு நிர்வாணப் புகைப்படத்துடன் டிஜிட்டல் முறையில் இணைத்து ஆன்லைனில் பதிவேற்றியதாகவும் பொலிஸார்தெரிவித்தனர்.
+
+...
+
+[Data](articles/8828899a.json)
+
+---
+
+### பாகிஸ்தானில் கார் குண்டுவெடிப்பு: 10 பேர் பலி
+
+*2025-09-30 14:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-கார்-குண்டுவெடிப்பு-10-பேர்-பலி/50-365526) · `ta`
+
+பாகிஸ்தானின் குவெட்டாவில் உள்ள எல்லைப்புற காவல் துறை (FC) தலைமையகத்திற்கு வெளியே செவ்வாய்க்கிழமை ஒரு சக்திவாய்ந்த கார் குண்டு வெடித்தது. இந்த குண்டுவெடிப்பில் 10 பேர் கொல்லப்பட்டனர் மற்றும் 32 க்கும் மேற்பட்டோர் காயமடைந்ததாக அதிகாரிகள் தெரிவித்தனர். பலுசிஸ்தான் சுகாதார அமைச்சர் பக்த் முகமது கக்கர், இறப்பு எண்ணிக்கை மேலும் அதிகரிக்கக்கூடும் என்று எச்சரித்ததாக டான் செய்தி வெளியிட்டுள்ளது. மாடல் டவுன் மற்றும் அண்டை பகுதிகளில் வெடிப்பு சத்தம் கேட்டது, வீடுகள் மற்றும் வணிக கட்டிடங்களின் ஜன்னல் கண்ணாடிகள் உடைந்தன.
+
+...
+
+[Data](articles/a575a745.json)
+
+---
+
+### හිටපු SSP සතිෂ්ට ඇප
+
+*2025-09-30 14:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-SSP-සතෂට-ඇප/101-680503) · `si`
+
+ප්‍රකට සංවිධානත්මක අපරාධ කල්ලි නායකයින් ලබා දුන් රුපියල් කෝටි දෙකකට අධික අල්ලස් මුදල් බැංකු ගිණුම් තුනකට බැර කරවා ගත්තේ යැයි දින 45ක් රක්ෂිත බන්ධනාගාර ගතව සිටි  ගාල්ල සහ ඇඹිලිපිටිය පොලිස් කොට්ඨාසයේ හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා ඇප මත මුදා හැරීමට  කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා  අද නියෝග කළේය.
+
+ගාල්ල සහ ඇඹිලිපිටිය පොලිස් කොට්ඨාසයේ හිටපු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි හා පොලිස් ක්ෂේත්‍ර බලකා මුලස්ථානයේ සංස්කෘතික අංශයේ (පාලන) ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයා ලෙස කටයුතු කළ සතිෂ් රාජන් හියාරේ ගමගේ සැකකරු මෙසේ ඇපමත මුදාහැරිනි.
+
+සැකකරුට රුපියල් ලක්ෂයක මුදල් ඇපයක් සහ ලක්ෂ විස්ස බැගින් වූ ශරීර ඇප දෙකක් නියම කළ මහේස්ත්‍රාත්වරයා විදෙස් ගමන් තහනම් කිරීමටද නියෝග කළේය.
+
+සැකකරු සම්බන්ධයෙන් විමර්ශන බොහොමයක් අවසන් බවට අල්ලස් කොමිසම ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් පසුව මෙම ඇපය නියම කළ අතර විමර්ශන ප්‍රගතිය ජනවාරි 06 දින අධිකරණයට ඉදිරිපත් කරන ලෙස ලෙස අල්ලස් කොමිසමට නියෝග කළේය.
+
+◼️
+
+[Data](articles/a1569623.json)
+
+---
+
+### පොත් වසන්තයේ දවසක්
+
+*2025-09-30 14:57:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පත-වසනතය-දවසක/2-680502) · `si`
+
+ඒ 1985 වසරයි. ශ්‍රී ලංකා පොත් ප්‍රකාශකයන්ගේ සංගමය ආරම්භ වන්නේ එම වසරේය. එහි ආරම්භක සභාපතිවරයා වූයේ ප්‍රවීණ ලේඛක කේ. ජයතිලක මහතාය. සංගමයට මුලින් සිටි පොත් ප්‍රකාශකයන් ගණන 27කි.
+
+පොත් ප්‍රකාශකයන්ගේ සංගමය ප්‍රදර්ශනය ක්‍රියාවලියට අවතීර්ණ වන්නේ 1999 වසරේදීය. ජාතික පොත් ප්‍රදර්ශනය ලෙස නම් කළ එම ප්‍රදර්ශනය දින හතරකට සිමා වී ඇත. එය පවත්වා තිබෙන්නේ ජාතික කලාභවනේදීය. විද්‍යුත් මාධ්‍ය ආගමනයන් සමග පොත්පතින් ඈත් වූ පාඨක ප්‍රජාව යළි පොත පත වෙත ළං කරලීමේ අරමුණින් යුතුව පොත් ප්‍රදර්ශන ක්‍රියාවලියට මූලාරම්භය තබා තිබිණි.
+
+මේ 2025 වසරයි. මෙවර සිරිමාවෝ බණ්ඩාරනායක පරිශ්‍රයේ පැවැත්වන්නේ 26 වැනි ජාත්‍යන්තර පොත් ප්‍රදර්ශනයයි.
+
+මෙවර ප්‍රදර්ශනයේ ආරම්භක දිනය වූ සැප්තැම්බර් 27 උදෑසනින්ම පොත් ප්‍රදර්ශනය වෙත අප ගියේ ජාත්‍යන්තර පොත් ප්‍රදර්ශනයේ අසිරිය දෑසින්ම දැක බලා ගැනීම සඳහාය.
+
+...
+
+[Data](articles/bfa651e1.json)
+
+---
 
 ### Sajith Key the story about the locked boss
 
@@ -55,19 +147,21 @@ He added that the export-centered agriculture is in the country.
 
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2025-09-30 14:47:25* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-418818) · `si`
 
-2025 කාන්තා ලෝක කුසලාන එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය තව සුළු මොහොතකින් ආරම්භ වීමට නියමිතව තිබේ.
+The first match of the 2025 Women's World Cup ODI is scheduled to begin a small moment.
 
-තරගාවලියේ පළමු තරගය ලෙස ශ්‍රී ලංකාව සහ ඉන්දියාව තරගවැදීමටයි කටයුතු යොදා ඇත්තේ.
+Sri Lanka and India will be the first match of the tournament.
 
-මෙම තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකා නායිකා චමරි අතපත්තු පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+Sri Lanka captain Chamari, who won the coin, decided to bowl first.
 
 ◼️
 
 [Data](articles/a7fd93c4.json)
+
+[Extended Data](ext_articles/a7fd93c4.ext.json)
 
 ---
 
@@ -231,13 +325,15 @@ Www.parliament.lk. Applications of the appointment of members are prepared and p
 
 *2025-09-30 14:10:16* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-මන්ත්‍රීකම-අහෝසි-කරන්න-රාජිත-ඉදිරිපත්-කළ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-418815) · `si`
 
-මහ මැතිවරණයේදී කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයකු ලෙස රෝහිත අබේගුණවර්ධන මහතා තේරී පත්වීම බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය අද (30දා) ප්‍රතික්ෂේප කරනු ලැබිණි.
+The Supreme Court today rejected a fundamental rights petition filed by Rajitha Senaratne as a Kalutara District MP at the general election.
 
-පෙත්සම අද කැඳවූ අවස්ථාවේදී දෙපාර්ශවය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් මෙම නියෝගය ලබා දුන්නේය.
+When the petition was taken up today, the order was made by considering the contents by both parties.
 
 ◼️
 
 [Data](articles/65edc977.json)
+
+[Extended Data](ext_articles/65edc977.ext.json)
 
 ---
 
@@ -261,15 +357,21 @@ The school principal has launched an internal investigation into the incident to
 
 ---
 
-### දකුණු අධිවේගයට තවත් විවේක ගැනීමේ මධ්‍යස්ථානයක්
+### Another resting center for South Expressway
 
 *2025-09-30 14:04:01* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයට-තවත්-විවේක-ගැනීමේ-මධ්‍යස්ථානයක්/11-418813) · `si`
 
-කොට්ටාව සිට මත්තල දක්වා දිවෙන දක්‍ෂිණ අධිවේගී මාර්ගයේ ගමනාගමනයේ යෙදෙන රියැදුරන්ට සහ මගී ජනතාවට විවේකය ලබා ගැනීම හා පහසුකම් සපයා ගැනීම වෙනුවෙන් මාතර, උඩුකාව ප්‍රදේශයේ ඉදිකිරීමට නියමිත විවේක ගැනීමේ මධ්‍යස්ථානයේ ඉදිකිරීම් කටයුතු ප්‍රවාහන, මහාමාර්ග, වරාය හා සිවිල් ගුවන් සේවා අමාත්‍යංශයේ ලේකම් මහාචාර්ය කපිල සී. කේ. පෙරේරා මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (29) ආරම්භ කෙරිණ.
+Prof. Kapila C. Prof. Kapila C. Business of the Ministry of Highways, Ports and Civil Aviation. K. Perera commenced yesterday (29).
+
+The resting center is built near the 119th kilometer in the Southern Expressway.. The first phase of the project has been allocated Rs.. Under the second phase, it is planned to increase the capacity of this and upgrade as a fully-fledged service area with all the facilities. The new service center is commenced on the Southern Expressway.. The construction work is to be completed within 3 months.
+
+The restriction centers and conveniences of the 314 km led by the Parliament of Sri Lanka, the Minister of Transport, Ports and Civil Aviation and Leader of the Parliament of Sri Lanka is planned to establish such resting centers in accordance with international standards.
 
 ...
 
 [Data](articles/4b4ce0aa.json)
+
+[Extended Data](ext_articles/4b4ce0aa.ext.json)
 
 ---
 
@@ -1864,115 +1966,5 @@ Protests first started in the capital Antananarivo, but have since spread to eig
 [Data](articles/acbcdbbf.json)
 
 [Extended Data](ext_articles/acbcdbbf.ext.json)
-
----
-
-### Women's Cricket World Cup begins today
-
-*2025-09-30 10:31:42* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ක්‍රිකට්-ලෝක-කුසලානය-අදින්-ඇරඹේ/9-418807) · `si`
-
-Sri Lanka and India are to contest as the first match of the tournament.
-
-◼️
-
-[Data](articles/cb9ba10e.json)
-
-[Extended Data](ext_articles/cb9ba10e.ext.json)
-
----
-
-### 33kg Hash, Heroin & Pills Seized In Mattakkuliya
-
-*2025-09-30 10:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/33kg-hash-heroin-pills-seized-in-mattakkuliya) · `en`
-
-COLOMBO (News 1st); The Colombo North Division Crime Investigation Unit arrested a suspect in Mattakkuliya’s Sirivardhana Mawatha with a massive stash of drugs, including hashish, heroin, and narcotic pills.Police said the raid uncovered 33 kilograms and 270 grams of hashish, 408 grams of heroin, and 200 narcotic pills, along with pre-packed heroin ready for sale. The suspect, a 38-year-old resident of Samithpura, Mattakkuliya, was taken into custody during the operation.Investigations have revealed that the suspect is closely linked to an organized criminal operating in the area, according to police sources.
-
-◼️
-
-[Data](articles/e1241025.json)
-
-[Extended Data](ext_articles/e1241025.ext.json)
-
----
-
-### Sri Lanka's Socio-Economic Data 2025 Statement
-
-*2025-09-30 10:25:10* · [`adalk`](https://www.ada.lk/business/ශ්‍රී-ලංකා-සමාජ-ආර්ථික-දත්ත-2025-ප්‍රකාශනය-නිකුත්-කරයි/7-418806) · `si`
-
-The Central Bank of Sri Lanka, the Sri Lanka Socio-Economic Data - 2025 "has been issued for public publication for public. This is Volume 48 of the series.
-
-Sri Lanka's basic economic indicators, basic economic indicators, basic economic indicators, Sri Lanka's status, social and social infrastructure, foreign trade, economic, industry, industry, financial, financial, financial, financial, financial, financial and bank headings include data. This publication is a useful expression of policymark, researchers, academics, professionals, professionals, professionals, students, students and the public.
-
-The printed copy, Colombo 01, Chathm Street, will be able to purchase from the distribution window of the Central Point building (telephone numbers 011-2444502).
-
-◼️
-
-[Data](articles/1c9fa628.json)
-
-[Extended Data](ext_articles/1c9fa628.ext.json)
-
----
-
-### Internationally high recognition, national quality infrastructure system
-
-*2025-09-30 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215165) · `si`
-
-Science and Technology Minister Krishantha Abeykya says it will be developed in the future internationally recognized National Quality Infrastructure.
-
-The Minister made this observation at the inauguration of the two-day workshop on the Ministry of Science and Technology, the United Nations Industrial Development Organization and the National Quality Infraction System.
-
-The budget allocation for the development of the National Quality Infrastructure System, which is being implemented under the Ministry of Science and Technology, has been allocated for the development of the National Quality Infrastructure.
-
-This will create a quality mechanism to protect, developing, developing the quality of goods and services in Sri Lanka, including drugs and foods.
-
-The system is aligned on four basic layers of standards, accurate measurements, compliance and certification.
-
-...
-
-[Data](articles/18dac9e4.json)
-
-[Extended Data](ext_articles/18dac9e4.ext.json)
-
----
-
-### The wrong decision of the 15 -year -old student
-
-*2025-09-30 10:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/15-வயது-மாணவனின்-தவறான-முடிவு/76-365510) · `ta`
-
-A 15 -year -old schoolgirl has suffered his life in the Lakkam private garden belonging to the Maskeliya Police Division.
-
-People say the incident may have taken place at 6.30 pm on Monday (29). Investigations into the incident are being carried out by a team headed by the Maskeliya Police Station.
-
-Student Lakkam Tamil Vidyalaya is a student of Grade 10, thus made the wrong decision. The student went to school on Monday morning and returned home at 5.00 pm and reported that the neighbor had seen the student at 6.00 pm.
-
-Her father returned home from home in the morning and returned home at 7 pm and searched his son missing. The father, who had left his home in search of the city, had seen his son in a dark room near the kitchen.
-
-Residents immediately informed the Maskeliya police regarding the incident and a team of Maskeliya Police Station SS Pushpakumara rushed to the spot and started investigations into the incident.
-
-...
-
-[Data](articles/707607a2.json)
-
-[Extended Data](ext_articles/707607a2.ext.json)
-
----
-
-### Shasheendra Rajapaksa further remanded
-
-*2025-09-30 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/113062/shasheendra-rajapaksa-further-remanded) · `en`
-
-Former State Minister Shasheendra Rajapaksa, who faces allegations of offenses under the Public Property Act, has been further remanded until October 14.
-
-The order was issued by the Colombo Chief Magistrate, Asanka S. Bodaragama.
-
-Shasheendra Rajapaksa was further remanded after considering submissions made by officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the legal representatives of the former State Minister, said Ada Derana reporter.
-
-The Magistrate also directed the Superintendent of Prisons to submit a comprehensive report to court on the treatment provided to the suspect at the Prison Hospital and other medical institutions by the next hearing date.
-
-...
-
-[Data](articles/cc642b2e.json)
-
-[Extended Data](ext_articles/cc642b2e.ext.json)
 
 ---

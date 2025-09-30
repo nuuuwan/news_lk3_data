@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 04:54:27**
+As of **2025-10-01 05:05:44**
 
 ## Newspaper Stats
 
-*Scraped **80,023** Articles*
+*Scraped **80,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,757
 islandlk | 4,851
-dailyftlk | 5,604
+dailyftlk | 5,611
 adalk | 7,699
 adaderanalk | 10,318
 tamilmirrorlk | 11,955
@@ -27,11 +27,135 @@ adaderanasinhalalk | 13,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,022 (100.0%) of 80,023 articles have been extended.
+80,022 (100.0%) of 80,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Ambewela unveils exclusive premier consumer promotion
+
+*2025-10-01 04:48:28* · [`dailyftlk`](https://www.ft.lk/business/Ambewela-unveils-exclusive-premier-consumer-promotion/34-782420) · `en`
+
+From Sri Lanka’s most premium fresh milk to luxury holiday experiences
+
+Ambewela, has taken its commitment to consumers beyond the breakfast table by introducing an exclusive consumer promotion that blends daily nourishment with extraordinary experiences.
+
+Ambewela, which is regarded as Sri Lanka’s No. 1 fresh milk brand, has long been a benchmark for dairy excellence in Sri Lanka, trusted by generations for its uncompromising commitment to quality, purity, and nutrition.
+
+Established as the most premium fresh milk brand in the country, Ambewela is produced from its very own farms in the lush hills of Nuwara Eliya, where the finest pastures and advanced farming practices ensure milk of unmatched freshness and taste. Every drop of Ambewela milk embodies the brand’s promise of premium quality, safety, and nourishment, making it a staple in Sri Lankan households.
+
+...
+
+[Data](articles/035e9450.json)
+
+---
+
+### SL announces desire to build nuclear power plants at IAEA General Conference
+
+*2025-10-01 04:38:03* · [`dailyftlk`](https://www.ft.lk/news/SL-announces-desire-to-build-nuclear-power-plants-at-IAEA-General-Conference/56-782417) · `en`
+
+Ambassador Lenagala notes SL’s plans to include nuclear power as an energy source in 2025-2044 expansion plan
+
+Says SL tries to meet dual challenges of climate change and energy security
+
+Outlines several key initiatives SL has undertaken to strengthen the country’s nuclear infrastructure
+
+The Government has announced its intention to explore nuclear power as a reliable, low-carbon energy source to diversify its energy mix and strengthen energy security, at the 69th General Conference of the International Atomic Energy Agency (IAEA) held in Vienna from 15 to 19 September.
+
+Permanent Representative of Sri Lanka to the IAEA Ambassador M.R.K. Lenagala informed the IAEA that Sri Lanka has included nuclear power as an energy source within the base case of CEB Least Cost Long-Term Generation and Expansion Plan 2025-2044.
+
+...
+
+[Data](articles/5965a214.json)
+
+---
+
+### Murdered crime figure linked to 2012 Thajudeen case
+
+*2025-10-01 04:36:46* · [`dailyftlk`](https://www.ft.lk/news/Murdered-crime-figure-linked-to-2012-Thajudeen-case/56-782416) · `en`
+
+Police yesterday disclosed that an underworld figure killed in Middeniya earlier this year had been inside a vehicle that pursued rugby player Wasim Thajudeen shortly before his death in 2012.
+
+Acting Police Media Spokesperson Nihal Thalduwa said the man, identified as Anura Vidanagamage, known as “Middeniya Kajja”, was recognised by his widow in relation to the case.
+
+Investigators believe Vidanagamage was among those who followed Thajudeen’s car on the night of his death. Thajudeen, a former national rugby player, was found dead in his vehicle in May 2012. Although initially reported as a car accident, the case was later reclassified as a homicide.
+
+Vidanagamage, alleged to have ties to organised crime, was shot dead in Middeniya earlier this year. Police said his role in the Thajudeen case has now resurfaced during ongoing probes into underworld activity and unresolved high-profile killings.
+
+◼️
+
+[Data](articles/3544a134.json)
+
+---
+
+### AKD meets Nippon Foundation Founder Sasakawa
+
+*2025-10-01 04:36:17* · [`dailyftlk`](https://www.ft.lk/news/AKD-meets-Nippon-Foundation-Founder-Sasakawa/56-782415) · `en`
+
+President Anura Kumara Disanayake, yesterday met with Nippon Foundation Founding Chairman Yohei Sasakawa at the Imperial Hotel in Tokyo.
+
+The discussion focused on further strengthening the long-standing friendship between Japan and Sri Lanka, the President’s Media Division said.
+
+Sasakawa reiterated his commitment to enhancing livelihoods in Sri Lanka and outlined future plans for the renovation and modernisation of 100 schools in the Northern and Eastern Provinces.
+
+President Disanayake conveyed his gratitude to Sasakawa for his dedicated efforts to advance the development and well-being of the Sri Lankan people and for his longstanding commitment to social service in Sri Lanka.
+
+◼️
+
+[Data](articles/59f2c283.json)
+
+---
+
+### Shashindra Rajapaksa further remanded
+
+*2025-10-01 04:35:05* · [`dailyftlk`](https://www.ft.lk/news/Shashindra-Rajapaksa-further-remanded/56-782414) · `en`
+
+The Colombo Magistrate’s Court yesterday ordered to further remand former State Minister Shashindra Rajapaksa, who is currently in custody till 14 October.
+
+The order was made by Colombo Chief Magistrate Asanga S. Bodaragama.
+
+Rajapaksa was arrested over allegations that he used his official position to unlawfully secure compensation for an unauthorised property damaged during the 2022 public uprising. The compensation claim, initially rejected, involved property not legally entitled to such payment.
+
+◼️
+
+[Data](articles/32b427c8.json)
+
+---
+
+### Indo-Lanka Chamber of Commerce  and Industry hosts Annual General Meeting
+
+*2025-10-01 04:33:29* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-hosts-Annual-General-Meeting/34-782413) · `en`
+
+The 17th Annual General Meeting of the Indo Lanka Chamber of Commerce and Industry (ILCCI), affiliated to The Ceylon Chamber of Commerce was held on 26 September, at the Taj Samudra, Colombo.
+
+The proceedings were followed by a fireside chat moderated by ILCCI Immediate Past President Romesh David. The distinguished panel included Indian High Commissioner Santosh Jha, and Brandix Apparel Ltd. Managing Director Hasitha Premaratne.
+
+During the discussion, the High Commissioner emphasised the importance of India and Sri Lanka investing in each other’s economies—not as competitors but as partners in regional growth and expansion. He also discussed Sri Lanka’s role as a transshipment hub and underscored the need to broaden cooperation in the energy sector through joint investments and initiatives.
+
+...
+
+[Data](articles/f3cc172f.json)
+
+---
+
+### American Chamber  of Commerce  in Sri Lanka appoints Sandun Hapugoda as President at 33rd AGM
+
+*2025-10-01 04:32:12* · [`dailyftlk`](https://www.ft.lk/business/American-Chamber-of-Commerce-in-Sri-Lanka-appoints-Sandun-Hapugoda-as-President-at-33rd-AGM/34-782412) · `en`
+
+The American Chamber of Commerce in Sri Lanka (AmCham SL) successfully held its 33rd Annual General Meeting at the ITC Ratnadeepa yesterday, in the presence of its members, special invitees, and media representatives.
+
+The AGM marked a significant milestone as the Chamber reflected on a year of meaningful impact, strategic partnerships, and advocacy in strengthening US–Sri Lanka trade, investment, and bilateral collaboration. Members elected a new Board of Directors to guide AmCham into its next chapter, reaffirming the Chamber’s commitment to fostering economic prosperity and innovation.
+
+Mastercard Sri Lanka and Maldives Country Manager Sandun Hapugoda was elected the new President of AmCham Sri Lanka, while Chevron Lubricants Lanka PLC Managing Director/CEO Bertram Paul was elected the new Vice President.
+
+MAS Holdings Ltd. Director Shirendra Lawrence was appointed the President Emeritus of AmCham SL.
+
+...
+
+[Data](articles/5e9e7468.json)
+
+---
 
 ### பால் உற்பத்தியை மேம்படுத்தல் தொடர்பில் ஒப்பந்தம்
 
@@ -1878,149 +2002,5 @@ The event was attended by nearly 200 senior members of Japan’s business commun
 [Data](articles/5abd235f.json)
 
 [Extended Data](ext_articles/5abd235f.ext.json)
-
----
-
-### Sri Lanka stocks close up 0.47-pct after volatile session
-
-*2025-09-30 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-47-pct-after-volatile-session-242271/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index (ASPI) rose 0.47 percent higher on Tuesday ending a volatile session, data on its site showed.
-
-The ASPI climbed 102.30 points to end at 21,778.60; while the S&P SL20 closed 0.12 percent, or 7.32 points higher, at 6,126.53.
-
-Investor interest moved to telecommunication, capital goods and food, beverage and tobacco sector shares.
-
-Top contributors to the ASPI were Diesel & Motor Engineering (up 335.75 rupees at 2,070.75), Bukit Darah (up 74.00 rupees at 1,075.25), Ceylon Cold Stores (up 7.75 rupees at 122.75), Melstacorp (up 2.00 rupees at 171.00) and Watawala Plantations (up 4.00 rupees at 44.40).
-
-Market turnover was 6.2 billion rupees, while the share volume was 154,781,095.
-
-Indian equity markets ended “little changed on Tuesday,” Reuters said, as investors remained cautious ahead of a central bank policy decision.
-
-The Nifty 50 index fell 0.097 percent to 24,611.10, while the BSE Sensex moved 0.12 percent to 80,267.62.
-
-...
-
-[Data](articles/c1bf0423.json)
-
-[Extended Data](ext_articles/c1bf0423.ext.json)
-
----
-
-### Former minister plea
-
-*2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-ඇමත-පරසනනට-ඇප/101-680507) · `si`
-
-The Gampaha High Court today ordered the unleashinated former Deputy Minister Prasanna Ranaweera and Sarathkumara Edirisinghe on the allegation of the Kiribathgoda town.
-
-The judge imposed a foreign travel ban, they ordered their passports to be handed over to the court if they had their passports.
-
-The Immigration and Emigration ordered the Department of Immigration and the Department of Immigration and the Department of Immigration and the Department of Immigration.
-
-After obtaining bail, the judge also ordered the suspects to report to the Finance Criminal Investigation Department of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/9bbe3908.json)
-
-[Extended Data](ext_articles/9bbe3908.ext.json)
-
----
-
-### Former minister plea
-
-*2025-09-30 16:34:03* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-ඇමත-පරසනනට-ඇප/1-680507) · `si`
-
-The Gampaha High Court today ordered the unleashinated former Deputy Minister Prasanna Ranaweera and Sarathkumara Edirisinghe on the allegation of the Kiribathgoda town.
-
-The judge imposed a foreign travel ban, they ordered their passports to be handed over to the court if they had their passports.
-
-The Immigration and Emigration ordered the Department of Immigration and the Department of Immigration and the Department of Immigration and the Department of Immigration.
-
-After obtaining bail, the judge also ordered the suspects to report to the Finance Criminal Investigation Department of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/9d0cac8b.json)
-
-[Extended Data](ext_articles/9d0cac8b.ext.json)
-
----
-
-### Blessed on military flags in Kadirgamam
-
-*2025-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226504) · `ta`
-
-A special religious event was held on Monday (29) at the Kadirgamam Giri Vikarai Complex and the Kadirgamam Devasthanam Complex on Monday (29) under the patronage of Army Commander Lieutenant General Lasantha Rodrigo to mark the 76th anniversary of the Sri Lankan Army to be celebrated on the 10th of October.
-
-At the event, the military carried military flags and visited the Kadirgamam Giri Vihara and Devasthana premises in a procession to bless them.
-
-Senior officers, officers and soldiers were present at the event, representing all the army's brigades.
-
-◼️
-
-[Data](articles/8ad1ab2f.json)
-
-[Extended Data](ext_articles/8ad1ab2f.ext.json)
-
----
-
-### The mystery package found near the police station!
-
-*2025-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226503) · `ta`
-
-A pack of hand grenades in the area near the Sukkuttaram police station in Colombo has been found by the Police Criminal Investigation Division.
-
-The package was found on information received by the Police Criminal Investigation Division.
-
-Further investigations are being carried out by the Police Criminal Investigation Division.
-
-◼️
-
-[Data](articles/c007081b.json)
-
-[Extended Data](ext_articles/c007081b.ext.json)
-
----
-
-### Although the bribe demand of high politics is reduced, corporate corruption continues
-
-*2025-09-30 16:33:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-දේශපාලනයේ-අල්ලස්-ඉල්ලීම-අඩුවුණත්-ආයතනික-දූෂණය-අඛණ්ඩව/11-418823) · `si`
-
-Although the high-level political bribery has been reduced, the US has been released on the Sri Lanka Investment at the Sri Lanka Policy, even under the present government.
-
-The recently released report states that the endemic pollution and the lack of transparency of state procure is aimed at a prehisper to Sri Lanka, especially global companies in the construction of large-quality infrastructure.
-
-The report states that despite legal banners are still common with the preparation of tender species. By passing the widespread rules aimed at improving enforcement capabilities in July 2023
-
-The report states that the government has strengthened its anti-corruption framework.
-
-The report states that the President is publicly committed to eliminating corruption and improve the transparency of the government.
-
-◼️
-
-[Data](articles/b8842a2e.json)
-
-[Extended Data](ext_articles/b8842a2e.ext.json)
-
----
-
-### "Renew the driver's license in 7 minutes"
-
-*2025-09-30 16:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நிமிடங்களில்-ஓட்டுநர்-உரிமத்தைப்-புதுப்பிக்கலாம்/175-365535) · `ta`
-
-Transport Minister Bimal Ratnayake said that the National Transport Medical Institute in Nugegoda is working on renewal of driving licenses within 8 minutes.
-
-Minister Ratnayake said that lightweight vehicle licenses should be renewed every 8 years and heavy vehicle licenses every 4 years.
-
-"Those who wish to renew the licenses had to go to the National Transport Medical Institute in Nugegoda, but the company had no fingerprint system. It was only in the Motor Transport Department. However, the public can now obtain their medical certificate, register the fingerprint, pay the money needed to renew the license and obtain a temporary license, all of which are all in the company in Nugegoda.. It takes only 07 minutes 47 seconds, ”the minister said.
-
-Minister Bimal Ratnayake made this observation at the inauguration ceremony of providing temporary driver's licenses at the National Transport Medical Institute in Nugegoda. (
-
-◼️
-
-[Data](articles/6ddb40b4.json)
-
-[Extended Data](ext_articles/6ddb40b4.ext.json)
 
 ---

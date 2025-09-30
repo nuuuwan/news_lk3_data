@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 22:37:25**
+As of **2025-09-30 22:55:17**
 
 ## Newspaper Stats
 
-*Scraped **79,981** Articles*
+*Scraped **79,986** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 518
-lankadeepalk | 526
+lankadeepalk | 528
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -17,21 +17,75 @@ dailymirrorlk | 4,733
 economynextcom | 4,757
 islandlk | 4,851
 dailyftlk | 5,604
-adalk | 7,697
+adalk | 7,698
 adaderanalk | 10,316
-tamilmirrorlk | 11,952
+tamilmirrorlk | 11,953
 virakesarilk | 13,048
-adaderanasinhalalk | 13,828
+adaderanasinhalalk | 13,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,979 (100.0%) of 79,981 articles have been extended.
+79,979 (100.0%) of 79,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### බිරිය සැමියාට සිර මැදිරියේදී කුඩ දීලා
+
+*2025-09-30 22:30:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරය-සමයට-සර-මදරයද-කඩ-දල/101-680523) · `si`
+
+කැකිරාව මහේස්ත්‍රාත් අධීකරණ ශාලාවේ සිරමැදිරිය අසළදී බන්ධනාගාර නිලධාරීන් භාරයේ සිටි රැදවියකුට මත් ද්‍රව්‍ය තොගයක් ලබා දුන් එම රැදවියගේ බිරිය අත් අඩංගුවට ගත් බව කැකිරාව පොලිසිය කියයි.
+
+මත්ද්‍රව්‍ය ජාවාරමක් සම්බන්ධයෙන් වූ නඩුවකදී ලත් අධිකරණ නියෝගයක් අනුව බන්ධනාගාර ගත කර සිටින රැඳවියකු කැකිරාව මහේස්ත්‍රාත් අධීකරණය හමුවට අද (30)  ඉදිරිපත් කිරීමට අනුරාධපුර බන්ධනාගාර නිලධාරීන් කටයුතු කර තිබිණි.
+
+ඒ අනුව බන්ධනාගාර නිලධාරීන් විසින් රැගෙන ආ අදාළ රැදවියා ඇතුලු රැදවියන් පිරිසක් අධීකරණ ශාලාව තුළ පිහිටි සිර මැදිරිය වෙත රැගෙන යන අවස්ථාවේ අධිකරණ ශාලාවේ  රැදී සිටි කාන්තාවක විසින් එම රැදවියාට මත්කුඩු අඩංගු පාර්සලය ලබා දී තිබූ බව පොලිසිය කියයි. අදාළ රැදවියා සන්තකයේ තිබි සැකකාර කාන්තාව විසින් ලබා දී තිබූ මත්දව්‍ය අඩංගු පාර්සලය ද සොයා ගැනීමට පොලිසියට හැකිව තිබිණ.
+
+සැකකාර කාන්තාව විසින් රැදවියාට ලබා දි තිබූ එම පාර්සලයේ තිබී හෙරොයින් මත්කුඩු මිලි ග්රෑම් 480ක් හා දුම්කොල ග්රෑම් 300ක් ද සොයා ගැනීමට හැකි වූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/315d54ea.json)
+
+---
+
+### ජාතික රෝහලේ රසායනාගාර කිහිපයක් අක්‍රීයයි - වෛද්‍ය රසායනාගාර විද්‍යාඥ සංගමය
+
+*2025-09-30 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215198) · `si`
+
+රජයේ රෝහල් මගින් සිදුකෙරෙන රසායනාගාර පරීක්ෂණ පෞද්ගලික අංශයට පැවරීමේ න්‍යාය පත්‍රයක සෞඛ්‍ය ක්ෂේත්‍රයේ ඇතැම් නිලධාරීන් කටයුතු කරමින් සිටින බවට සමස්ත ලංකා වෛද්‍ය රසායනාගාර විද්‍යාඥ සංගමය චෝදනා කරයි.
+
+කොළඹදී අද ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් එහි නියෝජිතයින් පැවසුවේ, කොළඹ ජාතික රෝහලේ රසායනාගාර පරීක්ෂණ විශාල ප්‍රමාණයක් මේ වනවිට ඇනහිට ඇති බවය.
+
+ඒ් සම්බන්ධයෙන් අදහස් දැක්නූ සමස්ත ලංකා වෛද්‍ය රසායනාගාර විද්‍යාඥ සංගමයේ ප්‍රධාන ලේකම් වසන්ත ගුණවර්ධන මහතා,
+
+"2024 සැප්තැම්බර් දක්වා කළ ප්‍රතිකාරක ඇනවුම් නිලධාරීන් දැන් කරන්නේ නැහැ. ජාතික රෝහලේ පූර්ණ අක්මා පරීක්ෂණ යම් ප්‍රමාණයකට නැවතිලා. හෘද රෝගීන්ගේ 'Troponin I' පරීක්ෂාව නොකෙරන තැනට පත්වෙලා. 'Troponin I' ජාතික රෝහලේ රු.2000 - පිටත රු.7400ට කරවලා."
+
+◼️
+
+[Data](articles/70d87e87.json)
+
+---
+
+### බඩෝවිට රජිතගේ කොකේන් සමග ගොලයෝ තුනක් මාට්ටු
+
+*2025-09-30 22:11:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඩවට-රජතග-කකන-සමග-ගලය-තනක-මටට/101-680522) · `si`
+
+විදේශගතව සිට මෙරට කොකේන් ජාවාරම මෙහෙයවන බඩෝවිට රජිත නමැත්තාගේ ප්‍රධාන ගෝලයෙකු ඇතුලු දෙදෙනකු සමග  රුපියල් කෝටි පහළොවක්  පමණ වටිනා කොකේන් කිලෝ තුනක් භාරයට ගත් බව වලාන දූෂණ මර්දන ප්‍රහාරක බලකාය පවසයි.
+
+එම බලකායේ අධ්‍යක්ෂක පොලිස් අධිකාරි කේ.ඒ.උදය කුමාර මහතාට ලද තොරතුරකට අනුව පානදුර හිරණ ගල්තුඩ ජයසිරි පෙදෙසේ  නිවසක පරීක්ෂා කිරීමේදී එහි තිබී මෙම කොකේන් තොගය පොලිස් භාරයට ගත් බව කියයි.
+
+ගල්කිස්ස බඩෝවිට 02 අදියරේ පදිංචි අත්තනගොඩ කන්කානම්ගේ මාධව පුබුදු ප්‍රියංකර නොහොත් බඩෝ විට පියා නැමැත්තා ගල්තුඩේ ජයසිරි පෙදෙසේ මෙම නිවසේ ගබඩා කොට ජාවාරම කරගෙන ගොස් ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+සැකකරු අත්අඩංගුවට ගෙන මඳ වේලාවකින් ඔහුට අයත් මෝටර් රථයකින්  " සුරා " නැමැත්තකු එම නිවසට පැමිණ ඇති අතර පසුව එම මෝටර් රථය පරීක්‍ෂා කිරීමේදී එහි තිබී කොකේන් කිලෝ එකක් හමු වූ බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/8d32d08c.json)
+
+---
 
 ### Fuel Prices Revised
 
@@ -64,6 +118,20 @@ COLOMBO (News 1st); According to the Ceylon Petroleum Cooperation, Fuel prices w
 ...
 
 [Data](articles/04cc4b6b.json)
+
+---
+
+### எரிபொருள் விலைகளில் அதிரடி மாற்றம்
+
+*2025-09-30 21:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகளில்-அதிரடி-மாற்றம்/175-365558) · `ta`
+
+இலங்கை பெற்றோலிய கூட்டுத்தாபனம் எரிபொருள் விலைகளில் இன்று நள்ளிரவு (01) முதல் மாற்றம். .
+
+பெற்றோல் ஒக்டேன் 92 மற்றும் சூப்பர் டீசல் விலையில் எந்த மாற்றமும் இல்லை.
+
+◼️
+
+[Data](articles/bce27f1c.json)
 
 ---
 
@@ -1425,6 +1493,22 @@ The government -approved fees for domestic securities are as follows: Securities
 
 ---
 
+### නඩුව සමතයට යූ ටියුබ් ජනපති ට්‍රම්ප්ට ඩො.මි. 24.5ක් ගෙවයි
+
+*2025-09-30 15:59:48* · [`adalk`](https://www.ada.lk/technology/නඩුව-සමතයට-යූ-ටියුබ්-ජනපති-ට්‍රම්ප්ට-ඩො-මි--24-5ක්-ගෙවයි/5-418822) · `si`
+
+2021 ජනවාරි මාසයේ එක්සත් ජනපද කැපිටල් කෝලාහලයෙන් පසු තම ගිණුම අත්හිටුවීම සම්බන්ධයෙන් එක්සත් ජනපද ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමාගමට එරෙහිව ගොනු කළ නඩුවක් සමථයකට පත් කිරීම සඳහා ඇල්ෆබෙට් හිමිකාරීත්වය දරන යූ ටියුබ් සමාගම ඩොලර් මිලියන 24.5 ක් ගෙවීමට එකඟ වී ඇති බව සඳුදා අධිකරණ ගොනු කිරීමකින් පෙන්නුම් කෙරිණි.
+
+ට්‍රම්ප් 2021 ජූලි මාසයේදී ට්විටර්, දැන් X ලෙස හඳුන්වනු ලබන, ෆේස්බුක් හිමිකරු මෙටා මෙන්ම ඇල්ෆාබෙට් හි ගූගල් සහ ඔවුන්ගේ ප්‍රධාන විධායක නිලධාරීන්ට එරෙහිව නඩු පවරා තිබුණි.මෙටා සහ එක්ස් නඩු සමථයකට පත් කිරීම සඳහා ගෙවීමට මෙම වසර මුලදී එකඟ විය.
+
+යූ ටියුබ් බේරුම්කරණය යටතේ, ට්‍රම්ප් වෙනුවෙන් ඩොලර් මිලියන 22 ක් ජාතික සාප්පු සංකීර්ණයේ භාරකාරත්වයට ගෙවීමට නියමිතය. ඉතිරි ඩොලර් මිලියන 2.5, ලේඛිකා නයෝමි වුල්ෆ් සහ ඇමරිකානු කොන්සර්වේටිව් සංගමය ඇතුළු නඩුවට සම්බන්ධ අනෙකුත් පාර්ශවයන්ට ගෙවනු ලැබේ.
+
+◼️
+
+[Data](articles/b6fcf063.json)
+
+---
+
 ### "We are ready if Sri Lanka is a clear statement
 
 *2025-09-30 15:55:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකව-පහදල-පරකශයක-කළත-අප-සදනම/1-680504) · `si`
@@ -1880,103 +1964,5 @@ Three people living in Sri Lanka. If that happens, you can easily go ahead. This
 [Data](articles/81f5a435.json)
 
 [Extended Data](ext_articles/81f5a435.ext.json)
-
----
-
-### Car bomb in Pakistan: 10 killed
-
-*2025-09-30 14:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-கார்-குண்டுவெடிப்பு-10-பேர்-பலி/50-365526) · `ta`
-
-A powerful car bomb exploded on Tuesday outside the Border Police (FC) headquarters in Quetta, Pakistan. Authorities said 10 people were killed and more than 32 injured in the blast. Balochistan Health Minister Bhakt Mohammed Kakar warned that the death toll could increase further. The noise of the explosion in the model town and neighboring areas, the window mirrors of homes and commercial buildings were broken.
-
-Shortly after the blast, the shootings were heard. It caused panic among residents. The injured were taken to Quetta Civil Hospital, where the emergency has been announced. BMC Hospital and Drama Center announced emergency on the orders of Health Minister Kakar and Health Secretary Mujeeb-Ur-Rehman. Doctors, nurses and sub -doctors were deployed throughout these hospitals to help the victims of the blast.
-
-...
-
-[Data](articles/a575a745.json)
-
-[Extended Data](ext_articles/a575a745.ext.json)
-
----
-
-### Former SSP Course released
-
-*2025-09-30 14:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-SSP-සතෂට-ඇප/1-680503) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama today ordered the release of over Rs.
-
-Sath Rajan Hiyare Gamage was released on bail.
-
-The magistrate also ordered the suspect a cash bail of Rs. 100,000 each.
-
-After considering the facts of the suspect, the Bribery Commission had set the procedure and ordered the Bribery Commission to produce investigation progress on January 6.
-
-◼️
-
-[Data](articles/981fa0ee.json)
-
-[Extended Data](ext_articles/981fa0ee.ext.json)
-
----
-
-### Former SSP Course released
-
-*2025-09-30 14:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-SSP-සතෂට-ඇප/101-680503) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama today ordered the release of over Rs.
-
-Sath Rajan Hiyare Gamage was released on bail.
-
-The magistrate also ordered the suspect a cash bail of Rs. 100,000 each.
-
-After considering the facts of the suspect, the Bribery Commission had set the procedure and ordered the Bribery Commission to produce investigation progress on January 6.
-
-◼️
-
-[Data](articles/a1569623.json)
-
-[Extended Data](ext_articles/a1569623.ext.json)
-
----
-
-### A day in spring
-
-*2025-09-30 14:57:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පත-වසනතය-දවසක/2-680502) · `si`
-
-That was the year 1985. The Sri Lanka Book Publishers' Association commences that year. Its founding chairman was Veteran writer K. Jayathilaka. There were 27 books publishers initially involved in the union.
-
-Book Publishers Association Exhibition The Exhibition Process in 1999. The exhibition named the National Book Fair is limited to four days. It was held in the national art. The book Exhibition process was kept in the book Exhibition process with a view to drawing the readers away from the book migrant with electronic media.
-
-This year is 2025. This year's Sirimavo Bandaranaike will be held at the Sirimavo Bandaranaike premises.
-
-We went to the book Exhibition on the morning of September 27 this year's exhibition.
-
-...
-
-[Data](articles/bfa651e1.json)
-
-[Extended Data](ext_articles/bfa651e1.ext.json)
-
----
-
-### Minister Sunil Handunneththi admits mistakenly referring to Guinness Record as Nobel Prize
-
-*2025-09-30 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113076/minister-sunil-handunneththi-admits-mistakenly-referring-to-guinness-record-as-nobel-prize) · `en`
-
-Minister of Industry and Entrepreneurship Development Sunil Handunneththi says that his reference to a ‘Nobel Prize’ instead of a ‘Guinness World Record’ when commenting on a recent tea auction in Japan was a mistake on his part.
-
-In a post shared on his Facebook account, Minister Handunneththi mentioned that the New Vithanakande Ceylon Black Tea was recently recognized by the Guinness World Records as the most expensive tea ever sold, further enhancing the global recognition of Sri Lankan tea.
-
-However, the Minister expressed regret over the slip he made while commenting on the achievement.
-
-“Further elevating the global recognition of Sri Lankan tea, the New Vithanakande Ceylon Black Tea has been included in the Guinness World Records as the highest-priced tea ever sold at an auction held in Japan.
-
-While commenting on this achievement, I mistakenly referred to it as a ‘Nobel Prize’ instead of a ‘Guinness Record’. I regret this error.
-
-...
-
-[Data](articles/4e34ba87.json)
-
-[Extended Data](ext_articles/4e34ba87.ext.json)
 
 ---

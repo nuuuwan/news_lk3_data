@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 21:20:40**
+As of **2025-09-30 21:39:54**
 
 ## Newspaper Stats
 
-*Scraped **79,977** Articles*
+*Scraped **79,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 636
 bbccomsinhala | 713
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
-economynextcom | 4,756
+economynextcom | 4,757
 islandlk | 4,851
 dailyftlk | 5,604
 adalk | 7,697
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,976 (100.0%) of 79,977 articles have been extended.
+79,977 (100.0%) of 79,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,26 @@ The following fuel prices have been amended today (30).
 [Data](articles/24a7b210.json)
 
 [Extended Data](ext_articles/24a7b210.ext.json)
+
+---
+
+### Sri Lanka’s BYD offers hybrids, calls for independent testing of detained EVs
+
+*2025-09-30 20:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-byd-offers-hybrids-calls-for-independent-testing-of-detained-evs-242308/) · `en`
+
+ECONOMYNEXT – Agents for China’s BYD in Sri Lanka, JKCG Auto said it is offering customers Sealion 6 plug in hybrids in place of electric vehicles as a dispute with Customs authorities continue, and called for independent internationally accredited testing to determine motor output.
+
+“…Sri Lanka Customs has appointed a Committee of its own accord,” JKCG said in a statement Tuesday.
+
+“It is our understanding that this Committee is expected to consider some technical matters belatedly raised by Sri Lanka Customs.
+
+“We have consistently maintained, and indicated, our willingness to subject the select vehicle models to testing at an independent, internationally accredited motor laboratory which will help ascertain and clear any concerns regarding the output of the motor capacity of the vehicles.
+
+“This will ensure accuracy, credibility and consistency, and we have already intimated this suggestion to Sri Lanka Customs, during and outside of Court proceedings.”
+
+...
+
+[Data](articles/1088161a.json)
 
 ---
 
@@ -1553,21 +1573,23 @@ SSP Satish Kamage, Deputy Director of the Cultural Division of the Police Depart
 
 ---
 
-### නුවරඑළිය  නාගරික කොමසාරිස්ට ජනතාවගේ විරෝධය
+### People objected to Nuwara Eliya Municipal Commissioner
 
 *2025-09-30 15:30:44* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය--නාගරික-කොමසාරිස්ට-ජනතාවගේ-විරෝධය/11-418821) · `si`
 
-නුවරඑලිය නගර මධ්‍යයේ පදික වේදිකාවේ කාලයක් තිස්සේ ව්‍යාපාර කටයුතු කරන ව්‍යාපාරිකයන් පිරිසක් නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයා ඉවත් කරන ලෙස බල කරමින් (30) දහවල් නුවරඑලිය ප්‍රාදේශීය ලේකම් කාර්යාලය ඉදිරිපිට විරෝධතාවයක නිරතවිය.
+A group of businesses who have been doing business have for a long time in the city center of the city of Nuwara Eliya have been protesting against the Nuwara Eliya Divisional Secretariat.
 
-නුවරඑලිය නගර මධ්‍යයේ පදික වේදිකාවේ කාලයක් තිස්සේ ජීවනෝපාය ලෙස පදික වෙළදාම සිදු කරන බවත්, වත්මන් නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයා පදික වේදිකාවේ ව්‍යාපාර කටයුතු ඉවත් කිරිමට මේ වන විට පියවර ගෙන ඇති බවත්, ඒ සදහා තමන්ට විකල්ප ස්ථානයක් හෝ ලබා දී නොමැති බවයි විරෝධතාවයේ නියෑලී සිටි ව්‍යපාරිකයන් කියා සිටියේ.
+The protesters have stated that the pedestrian trade is being carried out on the sidewalks for a period of time in the city center of the city center.
 
-නුවරඑලිය මහ නගර සභාවේ සභාපතිවරයා ඇතුලු වත්මන් පාලකයින්ගෙන් පදික වෙළදුම් සිදු කරන තමන්ට කිසිදු බලපෑමක් නොමැති බවත්, නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයා පමනක් එයට විරුද්ධවන බවයි පීඩාවට පත් නුවරඑලිය නගරයේ පදික වෙළෙදුන් කියා සිටියේ.
+The Urban Commissioner of the Nuwaravawa Municipal Council has no effect that he has been opposed to the current rulers.
 
-අප මේ සම්බන්ධයෙන් නුවරඑලිය මහ නගරසභාවේ නාගරික කොමසාරිස්වරයාගෙන් කරුනු විමසීමට උත්සහ කලද එය ව්‍යර්ථ විය.
+We tried to ask the Municipal Commissioner of the Nuwara Eliya Municipal Council regarding this, but it failed.
 
 ◼️
 
 [Data](articles/5c3bffb5.json)
+
+[Extended Data](ext_articles/5c3bffb5.ext.json)
 
 ---
 
@@ -1966,23 +1988,5 @@ This illustrates that Sri Lanka Airlines plays a major role in increasing the nu
 [Data](articles/20c81d8d.json)
 
 [Extended Data](ext_articles/20c81d8d.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2025-09-30 14:47:25* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-418818) · `si`
-
-The first match of the 2025 Women's World Cup ODI is scheduled to begin a small moment.
-
-Sri Lanka and India will be the first match of the tournament.
-
-Sri Lanka captain Chamari, who won the coin, decided to bowl first.
-
-◼️
-
-[Data](articles/a7fd93c4.json)
-
-[Extended Data](ext_articles/a7fd93c4.ext.json)
 
 ---

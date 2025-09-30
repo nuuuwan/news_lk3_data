@@ -1,309 +1,109 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 19:22:01**
+As of **2025-09-30 18:45:52**
 
 ## Newspaper Stats
 
-*Scraped **79,962** Articles*
+*Scraped **79,945** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 513
-lankadeepalk | 524
+lankadeepalk | 518
 dbsjeyarajcom | 636
-bbccomsinhala | 713
+bbccomsinhala | 712
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,756
-islandlk | 4,851
+islandlk | 4,850
 dailyftlk | 5,604
-adalk | 7,695
-adaderanalk | 10,313
-tamilmirrorlk | 11,951
+adalk | 7,694
+adaderanalk | 10,309
+tamilmirrorlk | 11,950
 virakesarilk | 13,048
-adaderanasinhalalk | 13,824
+adaderanasinhalalk | 13,821
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,953 (100.0%) of 79,962 articles have been extended.
+79,923 (100.0%) of 79,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### தாஜுதீன் கொலை குறித்து அதிர்ச்சி செய்தி
-
-*2025-09-30 18:57:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீன்-கொலை-குறித்து-அதிர்ச்சி-செய்தி/175-365543) · `ta`
-
-ரக்பி வீரர் வசீம் தாஜுதீன் படுகொலை தொடர்பில் அதிர்ச்சி செய்தி ஒன்று வெளியாகி உள்ளது.
-
-இதன்படி, ரக்பி வீரர் வசீம் தாஜுதீனை படுகொலை செய்ய வந்த குழுவில், சமீபத்தில் மித்தெனிய பகுதியில் தனது இரண்டு குழந்தைகளுடன் படுகொலை செய்யப்பட்ட அருண விதானகமகே எனப்படும் 'கஜ்ஜா'வும் இருந்துள்ளார்.
-
-இந்த தகவலை பதில் பொலிஸ் ஊடகப் பேச்சாளர் உதவிப் பொலிஸ் அத்தியட்சகர் மினுர செனரத் தெரிவித்தார்.
-
-இன்று (30) பிற்பகல் பொலிஸ் ஊடகப் பிரிவில் நடைபெற்ற ஊடக சந்திப்பில், பதில் பொலிஸ் ஊடகப் பேச்சாளர் இவ்வாறு தெரிவித்தார். R
-
-◼️
-
-[Data](articles/6f8fb9e9.json)
-
----
-
-### කෝටි 15ක කුඩු සමඟ දෙන්නෙක් මාට්ටු
-
-*2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-15ක-කඩ-සමඟ-දනනක-මටට/101-680511) · `si`
-
-රුපියල් කෝටි පහළොවකට අධික වටිනාකමකින් යුත් කොකේන් මත්ද්‍රව්‍ය තොගයක්, සුඛෝපභෝගී මෝටර්  රථයක් සමග සැකකරුවන් දෙදෙනකු  අත්අඩංගුවට ගැනීමට වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක ඒකකය සමත්ව ඇත.
-
-විදෙස් රටක සිට මහා පරිමාණයෙන් කොකේන් ජාවාරමේ නියුතු බව කියන බඩෝවිට රාජිත නමැති ජාවාරම් කරුගේ ගෝලයකු බව කියන බඩෝවිට පියා නමැති සැකකරු සහ බඩෝවිට ප්‍රදේශයේ පදිංචි  ඔහුගේ ගෝලයකු මෙසේ අත්අඩංගුවට ගෙන තිබේ.
-
-ක්‍රිකට් ක්‍රීඩකයින් භාවිතා කරනු ලබන විශාල බෑග්, ක්‍රිකට් පිති සහ ක්‍රිකට් උපකරණ මෝටර් රථයේ දමාගෙන  මහා පරිමාණයෙන් කොකේන් ජාවාරම් කරන බවට අධ්‍යක්ෂක පොලිස් අධිකාරි උදය කුමාර මහතාට ලද තොරතුරක් මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉන්දික වීරසිංහ මහතාගේ මෙහෙයවීමෙන් පානදුර , හිරණ , ගල්තුඩේ කල වැටලීමෙන් පසු  ප්‍රධාන සැකකරු කොකේන් මත්ද්‍රව්‍ය සමග  අත්අඩංගුවට ගෙන තිබේ.
-
-ප්‍රධාන සැකකරු අත්අඩංගුවට ගැනීමෙන් අනතුරුව මඳ වේලාවකට පසු ඔහුට අයත් මෝටර් රථයකින් කොකෙක් මත්ද්‍රව්‍ය කිලෝවක් පමණ රැගෙන යමින් සිටි දෙවන සැකකරුද අත්අඩංගුවට ගත්බව පොලිසිය සඳහන් කරයි
-
-◼️
-
-[Data](articles/e95b63bd.json)
-
----
-
-### හෙරොයින් සමග පොලිස් කොස්තාපල්වරයෙක් අත්අඩංගුවට
-
-*2025-09-30 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215193) · `si`
-
-උඩප්පුව පොලීසියට අනුයුක්ත පොලිස් කොස්තාපල්වරයෙකු හෙරොයින් ග්‍රෑම් 400ක් සමග බස්නාහිර උතුර අපරාධ කොට්ඨාසය මගින් අද (30) අත්අඩංගුවට ගෙන තිබේ.
-
-සැකකරු සමග සිටි පෑලියගොඩ පදිංචි තවත් අයෙකුද පොලීසිය අත්අඩංගුවට ගෙන ඇති අතර ඔහු සතුව තිබී ද හෙරොයින් ග්‍රෑම් 110ක් පමණ සොයාගත් බව පොලීසිය පැවසීය.
-
-අදාළ පොලිස් නිලධාරියා කොළඹ අපරාධ කොට්ඨාසයේ වසර 5ක පමණ කාලයක් සේවය කර මෙම වසරේදී උඩප්පුව පොලීසියට ස්ථාන මාරුවක් ලබා ගොස් ඇති බව ද පොලීසිය සඳහන් කළේය.
-
-මෙම මත්ද්‍රව්‍ය ඩුබායිහී සැඟව සිටින රසල් ස්මිත් නම් මත්ද්‍රව්‍ය ජාවාරම්කරුට අයත් ඒවා බව ද පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/325e877b.json)
-
----
-
-### තාජුඩීන් ඝාතනය වූ රථයට පිටුපස රථයේ කජ්ජා සිට ඇතැයි අනාවරණයක්
-
-*2025-09-30 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215192) · `si`
-
-රගර් ක්‍රීඩක වසීම් තාජුඩීන් ඝාතනයට පැමිණි කණ්ඩායම අතර පසුගියදා මිද්දෙණිය ප්‍රදේශයේදී දරුදෙදෙනා සමග ඝාතනය ලක් වු අරුණ විදානගමගේ හෙවත් 'කජ්ජා' සිටි බවට තහවුරු වී ඇතැයි වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී මිනුර සෙනරත් මහතා පවසයි.
-
-අද පස්වරුවේ පොලිස් මාධ්‍ය කොට්ඨාසයේදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් වැඩබලන මාධ්‍ය ප්‍රකාශකවරයා මේ බව ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/c038560d.json)
-
----
-
-### Revenue returns to Accounts tomorrow
-
-*2025-09-30 18:27:18* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අසවසම-පරතලභ-හට-ගණම-වලට/1-680510) · `si`
-
-The Welfare Benefit Board (Welfare Benefits) will be credited to the bank accounts today (30).
-
-Accordingly, Rs. 244 billion will be credited to bank accounts of 217,645 families.
-
-◼️
-
-[Data](articles/6105c40e.json)
-
-[Extended Data](ext_articles/6105c40e.ext.json)
-
----
-
-### අස්වැසුම ප්‍රතිලාභ හෙට ගිණුම් වලට
-
-*2025-09-30 18:27:18* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අසවසම-පරතලභ-හට-ගණම-වලට/101-680510) · `si`
-
-අස්වැසුම දෙවන අදියර සඳහා සුදුසුකම් ලැබූ ප්‍රතිලාභීන්ගේ ප්‍රථම අස්වැසුම දීමනාව අද (30)දින  බැංකු ගිණුම් වෙත බැර කරන බව සුභසාධක ප්‍රතිලාභ මණ්ඩලය කියයි.
-
-මේ අනුව රුපියල් කෝටි  179.44 ක මුදලක් ප්‍රතිලාභී පවුල් 217,645 ක  බැංකු ගිණුම් වෙත බැර කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/8f98696b.json)
-
----
-
-### Modernin meets foreign grenades
-
-*2025-09-30 18:19:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදරන-වදස-ජව-අතබමබ-හමවය/1-680509) · `si`
-
-Modara police say that a large haul of livelihoods have been found near the wall of Modara New Mawatha, Municipal Council.
-
-According to information received by the Terrorist Investigation Division, 10 hand grenades have been completed.
-
-The bombs were two types of bombs and 7 bombs were one of the three bombs in one type.
-
-Police said that the bombs were in the area in a school bag donated by a finance company.
-
-Police suspect that this has been brought to the place.
-
-◼️
-
-[Data](articles/69ea9d49.json)
-
-[Extended Data](ext_articles/69ea9d49.ext.json)
-
----
-
-### මෝදරින් විදෙස් ජීව අත්බෝම්බ හමුවෙයි
-
-*2025-09-30 18:19:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදරන-වදස-ජව-අතබමබ-හමවය/101-680509) · `si`
-
-මෝදර අලුත් මාවත එළිය හවුස් නගර සභා වැඩබිමේ තාප්පය අසල දමා ගොස් තිබූ  විදේශීය රටකට නිෂ්පාදිත ජීව අත් බෝම්බ තොගයක් සොයාගත් බව මෝදර පොලිසිය කියයි.
-
-ත්‍රස්ත විමර්ශන කොට්ඨාසයට ලද තොරතුරකට අනුව අත් බෝම්බ 10 ක් එලෙසසොයාගෙන ඇත.
-
-එම බෝම්බ තොගය අතර වර්ග දෙකකින් යුත් බෝම්බ තිබූ බවත් එක් වර්ගයකින් බෝම්බ 7 ක් තවත් වර්ගයකින් බෝම්බ 3 ක් තිබූ බව පොලිසිය සඳහන් කරයි.
-
-මූල්‍ය සමාගමක් මගින් පරිත්‍යාග කරන ලද පාසල් බෑගයක් තුළ  මෙම බෝම්බ තොගය තිබී ඇතැයි පොලිසිය කියයි.‍ෙඑම ස්ථානයට පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් කැඳවා සිදුකළ පරික්ෂාවේදී සියලුම බෝම්බ වල වටා ඔතා තිබෙන කොළ පැහැයෙන් යුත් මුද්‍රා දිරාපත්ව තිබූ බවත්, එම බෝම්බ තැනින් තැන මලකඩ බැඳී තිබූ බවත් පොලිසිය සඳහන් කරයි.
-
-මෙය කිසියම් පුද්ගලයකු මෙම ස්ථානයට ගෙනත් දමන්නට ඇතැයි පොලිසිය සැක කරයි.
-
-◼️
-
-[Data](articles/824bdecb.json)
-
----
-
-### දිස්ත්‍රික්ක කිහිපයකට කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
-
-*2025-09-30 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215191) · `si`
-
-දිස්ත්‍රික්ක කිහිපයක පවතින උණුසුම් කාලගුණික තත්ත්වය සම්බන්ධයෙන් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
-
-එම නිවේදනයේ සඳහන්ව ඇත්තේ උතුරු මැද, නැගෙනහිර පළාත් සහ වව්නියාව, මුලතිව් සහ මොනරාගල දිස්ත්‍රික්ක සඳහා මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පැවැතිය හැකි බවය.
-
-ඒ අනුව මේ සම්බන්ධව අවධානය යොමු කරමින් මිනිස් ශරීර සෞඛ්‍ය තත්ත්වයට විය හැකි බලපෑම අවම කර ගැනීමට කටයුතු කරන ලෙසත් එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කර තිබේ.
-
-◼️
-
-[Data](articles/ec9a4ae1.json)
-
----
-
-### Discussion between President and Jayawa Chairman
+### ජනපති සහ ජයිකා සභාපතිවරයා අතර සාකච්ඡාවක්
 
 *2025-09-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215190) · `si`
 
-President Anura Kumara Dissanayake on an invitation to the Japanese government invitudes visited the Japanese International Cooperation (JICA) in Tokyo, Tanaka Akuko.
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) පෙරවරුවේ ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපන් ජාත්‍යන්තර සහයෝගිතා ඒජන්සියේ (JICA) සභාපති  ටනාකා අකිහිකෝ  මහතා හමුවී සාකච්ඡාවක නිරත විය.
 
-The President expressed his gratitude for the continued support to Sri Lanka with the support of Sri Lanka with a significant contribution to national development.
+ජාතික සංවර්ධනයට සැලකිය යුතු දායකත්වයක් ලබා දෙන ජයිකා හරහා සහනදායී යෙන් ණය නැවත  ලබා දීම ආරම්භ කරමින්  ජපානය ශ්‍රී ලංකාවට ලබා දෙන අඛණ්ඩ සහාය පිළිබඳව ජනාධිපතිවරයා මෙහිදී  සිය කෘතඥතාව පළ කළේය.
 
-The SLFP Chairman pointed out the importance of the private sector, industrial and agriculture development as the key to sustainable economic progress in Sri Lanka.
+ශ්‍රී ලංකාවේ තිරසාර ආර්ථික ප්‍රගතියේ ප්‍රධාන සාධක ලෙස පෞද්ගලික අංශය, කාර්මික සහ කෘෂි කර්මාන්තය යන ක්ෂේත්‍ර සංවර්ධනයේ වැදගත්කම ජයිකා සභාපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
 
-Katunayake, Bandaranaike International Airport Project will be resumed and will continue to maintain long-term cooperation with Sri Lanka by observing the macroeconomic management of Sri Lanka.
+කටුනායක, බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ ව්‍යාපෘතිය කඩිනමින් නැවත ආරම්භ කිරීමට කටයුතු කරන බවත්, ශ්‍රී ලංකාවේ සාර්ව ආර්ථික කළමණාකරණය නිරීක්ෂණය කරමින් ශ්‍රී ලංකාව සමඟ පවතින දිගු කාලීන සහයෝගීතාව තවදුරටත් පවත්වා ගෙන යාමට බලාපොරොත්තු වන බවත් ඔහු මෙහිදී ප්‍රකාශ කළේය.
 
-The discussion was also discussed on the implementation of the waste management plan in the Western Province.
+බස්නාහිර පළාතේ අපද්‍රව්‍ය කළමණාකරණ සැලැස්ම ක්‍රියාත්මක කිරීම පිළිබඳවද මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
 
 ...
 
 [Data](articles/9ec65847.json)
 
-[Extended Data](ext_articles/9ec65847.ext.json)
-
 ---
 
-### 36% up 36% in 9 months to 2025
+### 2025 මාස 09කදී කොටස් වෙළෙඳපොළ 36%කින් ඉහළට
 
 *2025-09-30 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215189) · `si`
 
-All the Colombo Stock Exchange rose to 21,778.60 units renewed again today (30) again.
+කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය අද (30) දිනයේ නැවත වරක් ඉතිහාසයේ ඉහළම අගය නැවත වරක් අලුත් කරමින් ඒකක 21,778.60ක් දක්වා ඉහළ ගියේය.
 
-According to the first nine months of the year 2025, all stock prices have been able to increase a 36.59% growth in the market.
+මේ අනුව 2025 වසරේ මුල් මාස 09 තුළ සියලු කොටස් මිල දර්ශකයට අනුව 36.59%ක වර්ධනයක් අත්පත් කර ගැනීමට කොළඹ කොටස් වෙළෙඳපොළ සමත් වී ඇත.
 
-The S & PL20 index increased by 7.32 points today and at the end of transactions, the value of transactions was 6,126.53 units.
+අද දිනයේ දී S&P SL20 දර්ශකය ඒකක 7.32කින් ඉහළ ගිය අතර ගනුදෙනු අවසානයේ දී එහි අගය ඒකක 6,126.53ක් ලෙසින් සටහන් වුණි.
 
-There the local purchases are Rs.. 6.01 billion and local sales Rs. බිලියන 5.65ක් ලෙසින් සටහන් වූ අතර විදේශීය මිල දී ගැනීම් රු. 284 million and foreign sales Rs. 646 million.
+එහිදී දේශීය මිල දී ගැනීම් රු. බිලියන 6.01ක් හා දේශීය විකිණුම් රු. බිලියන 5.65ක් ලෙසින් සටහන් වූ අතර විදේශීය මිල දී ගැනීම් රු. මිලියන 284ක් හා විදේශීය විකිණුම් රු. මිලියන 646ක් ලෙසින් සටහන් වුණි.
 
 ◼️
 
 [Data](articles/82ef247b.json)
 
-[Extended Data](ext_articles/82ef247b.ext.json)
-
 ---
 
-### Sri Lanka Tourism responds to reports over LGBTQ+ tourism
-
-*2025-09-30 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113085/sri-lanka-tourism-responds-to-reports-over-lgbtq-tourism) · `en`
-
-Sri Lanka’s Ministry of Tourism today denied that the Government has decided to run a specific tourism promotion campaign targeting LGBTQ+ foreign tourists while emphasizing that any future initiatives will be carefully evaluated within the framework of national tourism priorities and social harmony.
-
-Issuing a special statement, the Ministry of Tourism addressed the recent public discourse surrounding the Sri Lanka Tourism Promotion Bureau’s (SLTPB) communication regarding LGBTQ-themed events.
-
-“We recognize the diversity of our society and affirm that every community—including the LGBTQ community—is a valued and respected part of it.
-
-Sri Lanka has long been a welcoming destination for travelers from all walks of life. Our tourism legacy is built on the warmth of our people, the richness of our culture, and the breathtaking beauty of our landscapes. We remain committed to promoting inclusivity, mutual respect, and hospitality for all visitors, regardless of background.
-
-...
-
-[Data](articles/35bb4ac3.json)
-
-[Extended Data](ext_articles/35bb4ac3.ext.json)
-
----
-
-### Thirtrician Anuradhaayake thera to President
+### සදාචාර විරෝධී ක්‍රියාවන් ගැන ත්‍රෛනිකායික මහනායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක්
 
 *2025-09-30 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215188) · `si`
 
-President Anura Kumara Dissanayake has sent a letter to President Anura Kumara Dissanayake, the introduction of the introduction of the social decline laws and the state mechanism to promote unethical homosexual behavior.
+සමාජ පරිහානියට හේතුවන අදූරදර්ශී නීති හඳුන්වාදීම හා සදාචාර විරෝධී සමලිංගික චර්යාවන් ප්‍රවර්ධනය කිරීමට රාජ්‍ය යාන්ත්‍රණය කටයුතු කිරීම සම්බන්ධයෙන් විරෝධය පළ කරමින් ත්‍රෛනිකායික මහානායක හිමිවරුන් විසින් ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත ලිපියක් යොමු කර තිබේ.
 
-The letter states that if the country tries to go to the Kingdom rule, the state's endemic and blindness, which is triggered by narrow trickles and blindness, regardless of narrow trickles and blindness.
+එම ලිපිය මගින් උන්වහන්සේලා සඳහන් කර ඇත්තේ රටක සංස්කෘතිය අනන්‍යතාවන්, ඓතිහාසික උරුමය මෙන්ම චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතීන් හා අන්ධානුකරණයන් මත පදනම්ව රාජ්‍ය පාලනයෙහි උත්සාහ දරන්නේ නම් එය රාජ්‍යය අරාජික වීමට මෙන්ම සමස්ත සමාජයම බිඳ වැටීමට හේතු වන්නක්ද වන බවය.
 
-The letter, as well as the proposed amendment to pass the guilt of the Penal Code, as well as the proposed ambition towards the promotion of homosexuality industry by the present government, has a number of social problems and social problems.
+වර්තමාන රජය මගින් දණ්ඩ නීති සංග්‍රහයේ 82 වන වගන්තියට ශාරිරික දඬුවම් කිරීමේ වරද නමින් යෝජිත සංශෝධනය මෙන්ම සංචාරක සංවර්ධන අධිකාරිය මගින් සමලිංගික සේවනය පදනම් කරගත් සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට අනුග්‍රහය ලබා දීම එවන් බරපතළ සාරධර්ම අරාජිකත්වයක් හා සමාජ අර්බුද ගණනාවක් ඇති කිරීමට හේතුවන්නක් බවද උන්වහන්සේලා එම ලිපිය මගින් ජනාධිපතිවරයා වෙත දන්වා තිබේ.
 
-The President has informed the President by the President's letter to the President that the President is constantly focused on how the use of Buddhist philosophical develops and its practical.
-
-Trongekey acts of unethical actions
-
-◼️
+...
 
 [Data](articles/77ca9fa5.json)
 
-[Extended Data](ext_articles/77ca9fa5.ext.json)
-
 ---
 
-### මල්ලක තිබී අත්බෝම්බ 10ක් සොයා ගනියි
-
-*2025-09-30 17:48:36* · [`adalk`](https://www.ada.lk/breaking_news/මල්ලක-තිබී-අත්බෝම්බ-10ක්-සොයා-ගනියි/11-418826) · `si`
-
-කොළඹ මෝදර  ප්‍රදේශයේ මල්ලක තිබී අත්බෝම්බ 10ක් සොයාගෙන තිබේ. ත්‍රස්ත විමර්ශන කොට්ඨාසයට ලැබුණු තොරතුරක් මත සිදුකළ සෝදිසියකදී මෙම අත්අබෝම්බ සොයාගෙන තිබේ.
-
-◼️
-
-[Data](articles/a28ac2d9.json)
-
----
-
-### Japan help to rehabilitate schools in the North and East
+### வடக்கு, கிழக்கில் பாடசாலைகளை புனரமைக்க ஜப்பான் உதவி
 
 *2025-09-30 17:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-பாடசாலைகளை-புனரமைக்க-ஜப்பான்-உதவி/175-365541) · `ta`
 
-Japan has guaranteed the rehabilitation and modernization of 100 schools in the Northern and Eastern Provinces.
+வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் முன்னெடுக்க ஜப்பான் உத்தரவாதமளித்துள்ளது.
 
-It was approved during a discussion between the founding chairman of the Nippon forum and the president.
+நிப்பொன் மன்றத்தின் ஸ்தாபக தலைவருக்கும் ஜனாதிபதிக்கும் இடையில் கலந்துரையாடலின் போதே இதற்கு ஒப்புதல் அளிக்கப்பட்டுள்ளது.
 
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, met with Yohai Sasakawa, the founder of the Nippon forum on Tuesday (30) at the Imperial Hotel in Tokyo.
+ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் நிப்பொன் மன்றத்தின்  ஸ்தாபக தலைவர் யொஹெய் சசகாவாவை செவ்வாய்க்கிழமை (30) காலை சந்தித்து கலந்துரையாடலில் ஈடுபட்டார்.
 
-Special attention was paid to strengthening the long -term friendship between Japan and Sri Lanka.
+ஜப்பானுக்கும் இலங்கைக்கும் இடையிலான நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவது குறித்து விசேட கவனம் செலுத்தப்பட்டது.
 
-He told the president that Yohai Sasakawa would give his continued support to improve the livelihood of all communities in Sri Lanka.. வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் அவர் முன்வைத்தார்.
+இலங்கையில் உள்ள அனைத்து சமூகங்களின் வாழ்வாதாரத்தை மேம்படுத்துவதற்கு யொஹெய் சசகாவா தனது தொடர்ச்சியான ஆதரவை வழங்குவதாக இதன் போது அவர் ஜனாதிபதியிடம் தெரிவித்தார். வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் அவர் முன்வைத்தார்.
 
 ...
 
 [Data](articles/3440ec43.json)
-
-[Extended Data](ext_articles/3440ec43.ext.json)
 
 ---
 
@@ -323,23 +123,19 @@ The Minister highlighted the work of the Office on Missing Persons (OMP), Office
 
 [Data](articles/9c6e555f.json)
 
-[Extended Data](ext_articles/9c6e555f.ext.json)
-
 ---
 
-### The allowance of those who qualified qualified
+### අස්වැසුම දෙවන අදියරට සුදුසුකම් ලැබූවන්ගේ දීමනාව අද බැංකුවලට
 
 *2025-09-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215187) · `si`
 
-The beneficiary benefit board says that the beneficiaries of beneficiaries who have been eligible for the second phase of the revenue will be credited today to the bank accounts of these beneficiaries today (30).
+අස්වැසුම දෙවන අදියර සඳහා සුදුසු කම් ලැබූ ප්‍රතිලාභින්ගේ ප්‍රථම අස්වැසුම් දීමනාව අද (30) එම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට කටයුතු කරන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
 
-Thus of the Rs. 1,794,383,750.00 will be credited to the beneficiary bank accounts, distributing a sum of 1,79,383,750.00 from 217,645 families.
+මෙලෙස රු. 1,794,383,750.00ක මුදලක් ප්‍රතිලාභී පවුල් 217,645ක් අතරේ බෙදාහරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුම් වෙත බැර කිරීමට නියමිතය බව මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/d65bfc55.json)
-
-[Extended Data](ext_articles/d65bfc55.ext.json)
 
 ---
 
@@ -361,65 +157,53 @@ The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September
 
 [Data](articles/881284bc.json)
 
-[Extended Data](ext_articles/881284bc.ext.json)
-
 ---
 
-### Application for Member Position for Missing Persons
+### காணாமற்போனவர்கள் பற்றிய அலுவலகத்திற்கான உறுப்பினர் பதவிக்கான விண்ணப்பம் கோரல்
 
 *2025-09-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226511) · `ta`
 
-The Office of the Missing Person (Missing Personnel, Fulfillment and Fulfillment) Act No. 14 of 2016 has been sought to fill a vacuum for a member post at the office of the missing persons in October 2025.
+2016 ஆம் ஆண்டின் 14 ஆம் இலக்க, காணாமற்போன ஆட்கள் பற்றிய அலுவலகம் (தாபித்தலும், நிருவகித்தலும், பணிகளை நிறைவேற்றுதலும்) (திருத்தப்பட்டவாறான) சட்டத்தின் ஏற்பாடுகளின் பிரகாரம் காணாமற்போனவர்கள்  பற்றிய அலுவலகத்தில் 2025 ஒக்டோபர் மாதத்தில் ஏற்படக்கூடியதான உறுப்பினர் பதவிக்கான வெற்றிடமொன்றை நிரப்புவதற்கான விண்ணப்பம் கோரப்பட்டுள்ளது.
 
-Applications are requested from the forefront of the event or the human rights law, the International Humanitarian Law and the Humanitarian Response, or the other qualifications of the office of the missing persons.
+நிகழ்வு கண்டறிதல் அல்லது நுண்ணாய்வு, மனிதவுரிமைகள் சட்டம், சர்வதேச மனிதாபிமான சட்டம், மனிதாபிமான பதிலிறுப்பு என்பவற்றின் முன்னனுபவம் கொண்டவர்களிடமிருந்தும் அல்லது, காணாமற்போனவர்கள் பற்றிய அலுவலகத்தின் பணிகளை நிறைவேற்றுவதற்கு இயைபான ஏனைய தகைமைகளை உடையவர்களிடமிருந்தும் விண்ணப்பங்கள் கோரப்படுகின்றன.
 
-Www.parliament.lk. Applications of the appointment of members should be sent to the Constituent Assembly, the Constituent Assembly, the Constituent Assembly, the Office of the Constitutional Council, the Sri Jayawardenapura Gotte, the office of the Constitutional Council on October 14, 2025.
-
-Or should be sent to the email address of the constitutionalcouncil@parliament.lk. The appointment of a member of the Office of Missing Persons should be referred to as a matter of e -mail or email.
-
-◼️
+...
 
 [Data](articles/1d05a2ef.json)
 
-[Extended Data](ext_articles/1d05a2ef.ext.json)
-
 ---
 
-### "Nothing new
+### "புதிதாய் எதுவும் வேண்டாம் பறித்ததை தா" - வவுனியா பல்கலைக்கழகத்தின் முன்பாக ஆர்ப்பாட்டம்
 
 *2025-09-30 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226509) · `ta`
 
-A demonstration was held in front of the university gate by the Vavuniya University Teachers Federation.
+வவுனியா பல்கலைக்கழக ஆசிரியர் சம்மேளனத்தினால் பல்கலைக்கழக வாயிலிற்கு முன்பாக ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டிருந்தது.
 
-The demonstration was launched in support of the identity work being carried out by the State University Teachers' Federation across the country, saying the government had failed to take action to address the shortcomings in the university structure.
+பல்கலைக்கழக கட்டமைப்பில் உள்ள குறைபாடுகளை நிவர்த்தி செய்ய அரசாங்கம் நடவடிக்கை எடுக்க தவறியுள்ளதாக தெரிவித்து, நாடளாவிய ரீதியில் அரச பல்கலைக்கழகளக ஆசிரியர் சம்மேளனத்தால் முன்னெடுக்கப்பட்டு வரும் அடையாள பணிபகிஸ்கரிப்புக்கு ஆதரவு தெரிவிக்கும் முகமாக குறித்த ஆர்ப்பாட்டமானது முன்னெடுக்கப்பட்டிருந்தது.
 
-At the time, brain loss capital loss, no new, no new vacancies, filling the necessary vacancies, no higher education, and the demonstration.
+இதன்போது மூளை இழப்பு மூலதன இழப்பு, புதிதாய் எதுவும் வேண்டாம் பறித்ததை தா, தேவையான வெற்றிடங்களை நிரப்பு, உயர் கல்வி இன்றேல் உயர்ச்சி இல்லை போன்ற வாசகங்கள் எழுதிய பதாகையை தாங்கியவாறு ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
 
 ◼️
 
 [Data](articles/373af0f9.json)
 
-[Extended Data](ext_articles/373af0f9.ext.json)
-
 ---
 
-### Website for Registration of Three Wheeler Registration in the Western Province
+### බස්නාහිර පළාතේ ත්‍රිරෝද රථ ලියාපදිංචියට වෙබ් අඩවියක්
 
 *2025-09-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215186) · `si`
 
-Western Province Registration Passenger Transport Authority has implemented a website to introduce a website to introduce all passenger transport registrations in the Western Province.
+බස්නාහිර පළාතේ සියලු මගී ප්‍රවාහන ත්‍රිරෝද රථ ලියාපදිංචිය අනිවාර්ය කිරීමත් සමග ඒ සඳහා වෙබ් අඩවියක් හඳුන්වාදීමට බස්නාහිර පළාත් මාර්ගස්ත මගී ප්‍රවාහන අධිකාරිය කටයුතු කර තිබේ.
 
 ඒ අනුව https://wptaxi.net/ යන වෙබ් ලිපිනයට පිවිස ඒ සඳහා ලියාපදිංචි වීමේ පහසුකම මේ වන විට ත්‍රිරෝද රථ රියදුරන්ට හැකියාව ලැබෙනු ඇත.
 
-The Authority's Runner Manager said that the registration of all passenger transport of three wheelers in the Western Province has been reopened.
+බස්නාහිර පළාතේ සියලු මගී ප්‍රවාහන ත්‍රිරෝද රථ ලියාපදිංචි කිරීම අනිවාර්ය කර මගී අවසර පත් නිකුත් කිරීම නැවත ආරම්භ කළ බව එම අධිකාරියේ ධාවන කළමනාකරු ජීවින්ද කීර්තිරත්න මහතා සඳහන් කළේය.
 
-He further stated that all three-casts can be submitted to the above website and will be given to the relevant Divisional Secretariat and provide registration facilities to the relevant Divisional Secretariat at the same time.
+සියලුම ත්‍රිරොද රථ ඉහත සඳහන් වෙබ් අඩවියට පිවිස තොරතුරු ඉදිරිපත් කළ හැකි බවත් ඒ අනුව එම මොහොතේම අදාල ත්‍රිරොද රථ මහතුන්ට මේ සඳහා වේලාවක් ලබා දෙන බවත් එම වෙලාව අනුව අදාළ ප්‍රාදේශීය ලේකම් කාර්යාලය වෙත පැමිණ ලියාපදිංචි වීමේ පහසුකම් සලසා දී ඇති බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
 
 ◼️
 
 [Data](articles/d9bfaac0.json)
-
-[Extended Data](ext_articles/d9bfaac0.ext.json)
 
 ---
 
@@ -461,24 +245,6 @@ COLOMBO (News 1st); A cache of ten hand grenades was discovered inside a bag nea
 
 ---
 
-### Heavy traffic in Colombo due to protest by uni. students
-
-*2025-09-30 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/113084/heavy-traffic-in-colombo-due-to-protest-by-uni-students) · `en`
-
-Ward Place in Colombo 07 has reportedly been blocked for vehicular traffic due to a protest march by university students.
-
-Severe traffic congestion has been reproted in the area and connected roads due to the demonstration staged by the Inter-University Students’ Federation (IUSF).
-
-The protest has been organized against several issues including the alleged suspensions imposed targeting student activists by the administration of the Sri Jayewardenepura University.
-
-◼️
-
-[Data](articles/bfae535c.json)
-
-[Extended Data](ext_articles/bfae535c.ext.json)
-
----
-
 ### Sri Lanka rupee flat against dollar, bond yields broadly steady
 
 *2025-09-30 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-broadly-steady-242275/) · `en`
@@ -498,8 +264,6 @@ An auction of 43,000 million rupees Treasury bills will take place on Wednesday.
 ◼️
 
 [Data](articles/f268511f.json)
-
-[Extended Data](ext_articles/f268511f.ext.json)
 
 ---
 
@@ -575,8 +339,6 @@ Better US policy has helped global inflation. The US has started cutting rates b
 
 [Data](articles/afd5b49a.json)
 
-[Extended Data](ext_articles/afd5b49a.ext.json)
-
 ---
 
 ### Sampath Manampehi Warrants
@@ -602,32 +364,6 @@ Attorney at Law Rahul Jayatilleke, who appeared for the fourth accused, Najan Pe
 [Data](articles/4224c6d4.json)
 
 [Extended Data](ext_articles/4224c6d4.ext.json)
-
----
-
-### Sampath Manampehi Warrants
-
-*2025-09-30 17:00:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමපත-මනමපරට-වරනත/1-680508) · `si`
-
-Colombo High Court Judge Rasanthana Godawela was issued today (30) a warrant to the arrest of rice lorry.
-
-The judge issued such warrants as he did not contest the suspect in the Colombo High Court against the suspect of hiding two ice containers in Middeniya.
-
-The Attorney General has been prosecuted against the defendants under the general objective of the Narahenpita junction on the 12th of August 2009.
-
-Sampath Manamperi and Neranjan Perera have filed a prosecuted against four defendants.
-
-නඩුව කැඳවූ අවස්ථාවේ විත්තිකාර සම්පත් මනම්පේරි නැමැත්තා වෙනුවෙන් පෙනී සිටි නීතිඥ කල්ප පෙරේරා මහතා කරුණු දක්වමින් තම සේවාදායකයා වෙනත් නඩුවකට අදාළව මේ වන විට රිමාන්ඩ් බාරයේ පසුවන හෙයින් අදදින අධිකරණයට පැමිණ නැතැයි දැනුම් දුන්නේය.
-
-Was informed that the imprisoned. Accordingly, the High Court judge ordered the prison as a report on the accused.
-
-Attorney at Law Rahul Jayatilleke, who appeared for the fourth accused, Najan Perera, informed the Matara Magistrate's Court in connection with the sale of ice.
-
-...
-
-[Data](articles/9c13fbdd.json)
-
-[Extended Data](ext_articles/9c13fbdd.ext.json)
 
 ---
 
@@ -669,28 +405,6 @@ The suspects in this triple murder include Backhoe Saman, and Tembili Lahiru who
 
 ---
 
-### Vance says US ‘headed to a shutdown’ after meeting with Democrats
-
-*2025-09-30 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113083/vance-says-us-headed-to-a-shutdown-after-meeting-with-democrats) · `en`
-
-U.S. President Donald Trump and his Democratic opponents appeared to make little progress at a White House meeting aimed at heading off a government shutdown that could disrupt a wide range of services as soon as Wednesday.
-
-Both sides emerged from the meeting saying the other would be at fault if Congress fails to extend government funding beyond a Tuesday midnight deadline (0400 GMT Wednesday).
-
-“I think we’re headed to a shutdown,” Vice President JD Vance said.
-
-Democrats say any agreement to extend that deadline must also preserve expiring health benefits, while Trump’s Republicans insist health and government funding must be dealt with as separate issues.
-
-Senate Democratic Leader Chuck Schumer said the two sides “have very large differences.”
-
-...
-
-[Data](articles/60aac162.json)
-
-[Extended Data](ext_articles/60aac162.ext.json)
-
----
-
 ### Former State Minister Prasanna Ranaweera arrested
 
 *2025-09-30 16:39:17* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-ඇමති-ප්‍රසන්න-රණවීරට-ඇප/11-418824) · `si`
@@ -704,24 +418,6 @@ The case was taken out by the Gampaha High Court today (30).
 [Data](articles/ab77b299.json)
 
 [Extended Data](ext_articles/ab77b299.ext.json)
-
----
-
-### President invites Japanese business community to explore Sri Lanka’s emerging economic opportunities
-
-*2025-09-30 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113082/president-invites-japanese-business-community-to-explore-sri-lankas-emerging-economic-opportunities) · `en`
-
-President Anura Kumara Dissanayake invited the Japanese business community to join in exploring the emerging economic opportunities in Sri Lanka, while further strengthening bilateral trade and investment relations between Japan and Sri Lanka and encouraging private sector participation.
-
-The President made these remarks yesterday (29) while addressing the Japan–Sri Lanka Business Forum held at the headquarters of the Japan External Trade Organization (JETRO), according to the President’s Media Division (PMD).
-
-The event was attended by nearly 200 senior members of Japan’s business community and was jointly organised by JETRO, the Ministry of Economy, Trade and Industry of Japan (METI), the Embassy of Sri Lanka in Japan, the Japan–Sri Lanka Business Cooperation Committee and the Board of Investment of Sri Lanka (BOI).
-
-...
-
-[Data](articles/5abd235f.json)
-
-[Extended Data](ext_articles/5abd235f.ext.json)
 
 ---
 
@@ -746,8 +442,6 @@ The Nifty 50 index fell 0.097 percent to 24,611.10, while the BSE Sensex moved 0
 ...
 
 [Data](articles/c1bf0423.json)
-
-[Extended Data](ext_articles/c1bf0423.ext.json)
 
 ---
 
@@ -791,21 +485,19 @@ After obtaining bail, the judge also ordered the suspects to report to the Finan
 
 ---
 
-### Blessed on military flags in Kadirgamam
+### 76வது இராணுவ ஆண்டு விழாவை முன்னிட்டு கதிர்காமத்தில் இராணுவ கொடிகளுக்கு ஆசிர்வாதம்
 
 *2025-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226504) · `ta`
 
-A special religious event was held on Monday (29) at the Kadirgamam Giri Vikarai Complex and the Kadirgamam Devasthanam Complex on Monday (29) under the patronage of Army Commander Lieutenant General Lasantha Rodrigo to mark the 76th anniversary of the Sri Lankan Army to be celebrated on the 10th of October.
+எதிர்வரும் ஒக்டோபர் மாதம் 10 ஆம் திகதி கொண்டாடப்படவுள்ள இலங்கை இராணுவத்தின் 76வது ஆண்டு விழாவை முன்னிட்டு, இராணுவ தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ அவர்களின் தலைமையில் திங்கட்கிழமை (29) வரலாற்றுச் சிறப்புமிக்க கதிர்காமம் கிரி விகாரை வளாகத்திலும், கதிர்காமம் தேவஸ்தான வளாகத்திலும் விசேட சமய நிகழ்வு இடம்பெற்றது.
 
-At the event, the military carried military flags and visited the Kadirgamam Giri Vihara and Devasthana premises in a procession to bless them.
+இந்நிகழ்வில், இராணுவத்தினர் இராணுவ கொடிகளை ஏந்தியவாறு, அக்கொடிகளுக்கு ஆசிர்வாதம் வேண்டி, ஊர்வலமாக கதிர்காமம் கிரி விகாரை மற்றும் தேவஸ்தான வளாகத்திற்கு வருகை தந்தனர்.
 
-Senior officers, officers and soldiers were present at the event, representing all the army's brigades.
+இராணுவத்தின் அனைத்து படையணிகளையும் பிரதிநிதித்துவப்படுத்தி சிரேஷ்ட அதிகாரிகள், அதிகாரிகள் மற்றும் சிப்பாய்கள் இந்த நிகழ்வில் கலந்துகொண்டனர்.
 
 ◼️
 
 [Data](articles/8ad1ab2f.json)
-
-[Extended Data](ext_articles/8ad1ab2f.ext.json)
 
 ---
 
@@ -882,8 +574,6 @@ This adds to the airline’s payment options, which includes Visa, MasterCard, A
 ...
 
 [Data](articles/29999b86.json)
-
-[Extended Data](ext_articles/29999b86.ext.json)
 
 ---
 
@@ -1052,8 +742,6 @@ Addressing the forum, Dr Hans Wijayasuriya, Chief Advisor to the President of Sr
 ...
 
 [Data](articles/f870e998.json)
-
-[Extended Data](ext_articles/f870e998.ext.json)
 
 ---
 
@@ -1705,27 +1393,23 @@ The governance of Sri Lanka made these claims. But the provincial councils have 
 
 ---
 
-### A day-old girl leaves in a bag
+### දිනක් වයසැති දැරිවියක් බෑගයක දමා කැසිකිළියක දමා යයි
 
 *2025-09-30 14:42:48* · [`adalk`](https://www.ada.lk/breaking_news/දිනක්-වයසැති-දැරිවියක්-බෑගයක-දමා-කැසිකිළියක-දමා-යයි/11-418817) · `si`
 
-Azref Nagar 4, a year old girl who had been closed down in a bag of Asrefil 4, who had been closed down in a bag, was placed in a bag.
+අම්පාර දිස්ත්‍රික්කයේ අකක්රපත්තුව පොලිස් බල ප්‍රදේශයේ  අස්රෆ් නගර් ඔලුවිල් 4  වසා දමා ඇති රහුමාන් ජුම්මා පල්ලිය පිටුපස කැසිකිළිය තුළ දිනක පමණ වයස ඇති කුඩා දැරිවියක් බෑගයක දමා එම ස්ථානයේ දමා ගොස් තිබියදි හමුවි තිබේ.
 
-The child has seen the child has seen a child screaming to the resident of the area.
+එම ප්‍රදේශයේ  පදිංචි සල්මත් මොහොමදුර රතිෂ් යන අයට දරුවෙකු කෑගහන හඬ ඇසි අතර ඔහු  එම ස්ථානයට පැමිණ  සොයා බැලිමේදි මෙම දරුවා දැක තිබේ.
 
-After telephoned the police to the police, the child was shifted to the Oluvil Regional Hospital, the child was transferred to the Akkaraipattu hospital after being taken to the Oluvil Regional Hospital.
+පසුව අක්කරපත්වූව පොලිසිය වෙත  දුරකථන මාර්ගයෙන් දැනුවත් කිරීමෙන් පසු එම ස්ථානයට පැමිණි අක්කරපත්තුවව පොලිසි ස්ථානයේ නිලධාරින් විසින් මෙම දරුවා ඔලුවිල් ප්‍රාදේශීය රෝහල වෙත රැගෙන යාමෙන් පසු මෙම දරුවා වැඩිදුර ප්‍රතිකාර සඳහා අක්කරපත්තුව    රෝහල වෙත මාරු කර යවා තිබේ.
 
-The Akkaraipatuattu is in charge of the hospital staff at the Tigers of the hospital.. Mr. Jaarier said.
+දැනට දරුවා රෝහල් කාර්ය මණ්ඩලයේ භාරව අක්කරපත්තුව මුලික රෝහලේ ලදරු ප්‍රථිකාර ඒකකයේ සිටින බව අක්කරපත්තුව මුලික රෝහලේ වෛද්‍ය අධිකාරි වෛද්‍ය අයි.එම්. ජාවාහිර් මහතා පැවසිය.
 
-The child is a child for three days and the child is healthy.
+මෙම දරුවා දින තුනක පමන දරුවෙක් වන අතර දරුවා නිරෝගිව සිටින බවද වෛද්‍ය අධිකාරි වෛද්‍ය අයි.එම්.ජාවාහිර් මහතා සදහන් කළේය.
 
-The Akkaraipattu police are conducting further investigations by Hon
-
-◼️
+...
 
 [Data](articles/2f9a726b.json)
-
-[Extended Data](ext_articles/2f9a726b.ext.json)
 
 ---
 
@@ -1899,8 +1583,6 @@ The wholesale price for a large nut was 180-190 rupees, while small nuts were 15
 
 [Data](articles/e592787c.json)
 
-[Extended Data](ext_articles/e592787c.ext.json)
-
 ---
 
 ### 164 Duped in Kalmunai: CID Cracks Down on Multi-Million Rupee Scam
@@ -2000,5 +1682,303 @@ The University Grants Commission removed the first deity of the Degree Faculty, 
 [Data](articles/3b34b4cc.json)
 
 [Extended Data](ext_articles/3b34b4cc.ext.json)
+
+---
+
+### Applications for Member Position Applications for Missing Person Office
+
+*2025-09-30 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226489) · `ta`
+
+Applications are requested to fill the vacuum of membership in the Office of Missing Persons (C.A.) at the Office of Missing Persons (Amendment) Act No. 14, 2016, in accordance with the arrangements of the Act.
+
+Applications are requested from those who have the forerunner or other qualifications to accomplish the work of the Office of the Missing Persons.
+
+Www.parliament.lk. Applications of the appointment of members are prepared and properly completed by October 14, 2025, and before the Registration Post Office, the Secretary General, the Constituent Assembly - Office, the Sri Lanka Parliament, the Parliament of Sri Lanka, Sri Jayawardenapura Kotte.. Or should be sent to the email address of the constitutionalcouncil@parliament.lk. The appointment of a member of the Missing Person Office should be referred to as the issue of the left side of the correspondence or the email.
+
+◼️
+
+[Data](articles/cca23adf.json)
+
+[Extended Data](ext_articles/cca23adf.ext.json)
+
+---
+
+### රෝහිතගේ මන්ත්‍රීකම අහෝසි කරන්න රාජිත ඉදිරිපත් කළ පෙත්සම ප්‍රතික්ෂේප කරයි
+
+*2025-09-30 14:10:16* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-මන්ත්‍රීකම-අහෝසි-කරන්න-රාජිත-ඉදිරිපත්-කළ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-418815) · `si`
+
+The Supreme Court today rejected a fundamental rights petition filed by Rajitha Senaratne as a Kalutara District MP at the general election.
+
+When the petition was taken up today, the order was made by considering the contents by both parties.
+
+◼️
+
+[Data](articles/65edc977.json)
+
+[Extended Data](ext_articles/65edc977.ext.json)
+
+---
+
+### රජය සිදුකරන ප්‍රතිසංස්කරණවල ප්‍රගතිය අගය කරනවා - අයි.එම්.එෆ්.
+
+*2025-09-30 14:08:31* · [`adalk`](https://www.ada.lk/breaking_news/රජය-සිදුකරන-ප්‍රතිසංස්කරණවල-ප්‍රගතිය-අගය-කරනවා---අයි-එම්-එෆ්-/11-418814) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) ශ්‍රී ලංකාව සඳහා වන මෙහෙයුම් මණ්ඩල ප්‍රධානී, Evan Papageorgiou මහතා අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවිය.
+
+එහිදී රජය විසින් ක්‍රියාත්මක කරනු ලබන ප්‍රතිසංස්කරණ වැඩසටහනේ ප්‍රගතිය ඔහුගේ ඇගයීමට ලක් වූ අතර, විශේෂයෙන්ම පාලනය ශක්තිමත් කිරීමට සහ දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව ඔහු ප්‍රශංසා පළ කළේය. බදු ප්‍රතිපත්ති ප්‍රතිසංස්කරණවල වැදගත්කම, බදු නිදහස් කිරීම් (tax exemptions) සම්බන්ධයෙන් ගෙන ඇති පියවර පිළිබඳව ද ඔහු සිය අවධානය යොමු කළේය. එසේම, 2026 ජාතික අයවැයෙන් සමාජ ආරක්ෂණ පද්ධතිය සඳහා සම්පත් වෙන් කිරීම ද පැපජෝර්ජියු මහතාගේ ඇගයුමට ලක් විය.
+
+2026 අයවැයෙන් ජනතාව සවිබල ගැන්වීමට පියවර ගැනීමේ වැදගත්කම මෙහිදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අවධාරණය කළාය.
+
+...
+
+[Data](articles/082dc859.json)
+
+---
+
+### Over 40 students hospitalized following sudden illness during ‘Shramadana’
+
+*2025-09-30 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113074/over-40-students-hospitalized-following-sudden-illness-during-shramadana) · `en`
+
+More than 40 students of the Medirigiriya National School were admitted to the Medirigiriya Base Hospital this morning (30) after suddenly falling ill during a Shramadana campaign.
+
+According to hospital sources, the students had taken part in a program to clean the areas surrounding their classrooms earlier in the day, after which many started itching. Several required hospitalizations for medical treatment.
+
+At present, five students continue to receive in-house treatment, while others have been discharged following treatment.
+
+The school principal has launched an internal investigation into the incident to determine the cause of the students’ sudden illness.
+
+◼️
+
+[Data](articles/01cf7501.json)
+
+[Extended Data](ext_articles/01cf7501.ext.json)
+
+---
+
+### Another resting center for South Expressway
+
+*2025-09-30 14:04:01* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයට-තවත්-විවේක-ගැනීමේ-මධ්‍යස්ථානයක්/11-418813) · `si`
+
+Prof. Kapila C. Prof. Kapila C. Business of the Ministry of Highways, Ports and Civil Aviation. K. Perera commenced yesterday (29).
+
+The resting center is built near the 119th kilometer in the Southern Expressway.. The first phase of the project has been allocated Rs.. Under the second phase, it is planned to increase the capacity of this and upgrade as a fully-fledged service area with all the facilities. The new service center is commenced on the Southern Expressway.. The construction work is to be completed within 3 months.
+
+The restriction centers and conveniences of the 314 km led by the Parliament of Sri Lanka, the Minister of Transport, Ports and Civil Aviation and Leader of the Parliament of Sri Lanka is planned to establish such resting centers in accordance with international standards.
+
+...
+
+[Data](articles/4b4ce0aa.json)
+
+[Extended Data](ext_articles/4b4ce0aa.ext.json)
+
+---
+
+### Teachers' Association Struggle in Anura Government - Jaffna University
+
+*2025-09-30 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226483) · `ta`
+
+The Jaffna University Teachers 'Association (Jaffna University Teachers' Association and the Sri Lanka University Teachers 'Association (Jaffna University Teachers' Association (CEB) launched a one -day protest on Tuesday (30).
+
+At 10.15 am, the protest was carried out at 10.15 am to carry out the protests against the entrance of the Jaffna University.
+
+Dr. Wigneswaran, President of the University of the University, said to the media.
+
+We are carrying out this struggle to expedite the solution, as there is delay or pulling in the process of implementing the solutions, as they have agreed and agreed to provide solutions to our issues with the Minister of Education and the President of the Government of today.
+
+University teachers are severely affected by the salary reforms that the government has now brought.
+
+Similarly, the infrastructure of the university has been severely affected by many disasters, including Corona.
+
+...
+
+[Data](articles/5ea9b9c8.json)
+
+[Extended Data](ext_articles/5ea9b9c8.ext.json)
+
+---
+
+### Two arrested with illegal fishing nets in Jaffna
+
+*2025-09-30 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226488) · `ta`
+
+Two suspects have been arrested with prohibited fishing nets ready for sale during a special search operation conducted by the Sri Lanka Navy and the Police Special Task Force in Jaffna on Monday (29).
+
+With the objectives of promoting legal fishing and protecting the livelihood of the fishermen community, the Navy continues to monitor and patrols to prevent illegal fishing.
+
+Accordingly, on September 29, 2025 in Jaffna, the Sri Lankan naval ships Kanjadeva and Velusumana, along with the Jaffna Police Special Task Force (STF), were arrested on September 29, 2025, with 857 banned fishing nets ready for illegal sale.
+
+The suspects, aged 25 and 54, were identified as residents of Kotadi and Chavakachcheri areas in Jaffna.
+
+The suspects and the banned fishing nets have been handed over to the Jaffna Fisheries and Water Resources Department for further legal action.
+
+◼️
+
+[Data](articles/5eedc326.json)
+
+[Extended Data](ext_articles/5eedc326.ext.json)
+
+---
+
+### President invites Sri Lankan emerging economic opportunities
+
+*2025-09-30 13:59:34* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-නැඟී-එන-ආර්ථික-අවස්ථා-සොයා-බැලීමට-එක්වන-ලෙස-ජනපතිගෙන්-ඇරයුම්/11-418812) · `si`
+
+President Anura Kumara Dissanayake invited the Japanese business community to further strengthen the economic opportunities and emerging economic opportunities in Sri Lanka, further strengthening the Sri Lankan bilateral trade and investment relationships.
+
+The President made this observation addressing the Japanese-Sri Lanka Business Forum held at the Japan Foreign Trade Organization yesterday (29).
+
+The Sri Lanka Embassy of Japan, the Japanese External Trade Organization (Metro), the Japanese Economic Force (Metro), the Japanese External Trade Organization (Metro), the Japanese Economic Force (Metro) was organized by the Japan-Sri Lanka Business Co-operation Cooperation Committee and BOI.
+
+...
+
+[Data](articles/d2520050.json)
+
+[Extended Data](ext_articles/d2520050.ext.json)
+
+---
+
+### Woman's body recovered while floating in river at Valaichenai
+
+*2025-09-30 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226487) · `ta`
+
+The body of a woman has been recovered on Tuesday (30) after floating in the Valaichenai River on Pasikuda Road, which belongs to the Valaichenai police division in Batticaloa, Valaichenai police said.
+
+A 48 -year -old woman from Valaichenai area was found dead, police said.
+
+The body is being kept at the Valaichenai Resource Hospital and the Valaichenai police are investigating the cause of the death.
+
+◼️
+
+[Data](articles/e76d55b0.json)
+
+[Extended Data](ext_articles/e76d55b0.ext.json)
+
+---
+
+### Sri Lanka’s Debt Restructuring Nears Completion, But IMF Warns: ‘No Room for Fiscal Slippage’
+
+*2025-09-30 13:56:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/sri-lanka%e2%80%99s-debt-restructuring-nears-completion-but-imf-warns-%e2%80%98no-room-for-fiscal-slippage%e2%80%99) · `en`
+
+COLOMBO (News 1st); Sri Lanka’s sovereign debt restructuring process is almost complete, marking a significant milestone in the country’s economic recovery.
+
+According to an IMF Working Paper titled “Sri Lanka’s Sovereign Debt Restructuring: Lessons from Complex Processes” by Peter Breuer, Sandesh Dhungana, and Mike Li, the restructuring has helped normalize domestic financing conditions and stabilize the economy.
+
+However, the IMF cautions that restructuring alone is not enough to ensure long-term debt sustainability.
+
+The paper stresses the need for continued fiscal discipline, prudent macroeconomic policies, and stronger institutions under and beyond the current Extended Fund Facility (EFF) arrangement.
+
+...
+
+[Data](articles/70e9f676.json)
+
+[Extended Data](ext_articles/70e9f676.ext.json)
+
+---
+
+### Application to OMP office
+
+*2025-09-30 13:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OMP-அலுவலகத்திற்கு-விண்ணப்பம்-கோரல்/175-365524) · `ta`
+
+The Office of Missing Persons (Missing Person, Fulfillment, and Fulfillment of Tasks) (Amendment) The Missing Person Office (GAA) to fill a vacuum in October 2025 in October 2025;
+
+Applications are requested from the forerunner of the orchestra, or other qualities that have the work of the Office of the Missing Persons.
+
+Http: // (www.parliament.lk). Applications of the appointment of members of the Members of the Members of the Constitutional Council, the Constituent Assembly, the Constituent Assembly, the Office of the Constitutional Council, the Office of the Parliament, the Parliament of Sri Lanka, the Sri Jayawardenapura Gotte, on October 14, 2025, or before the Registration Post Office.. Or to be sent to the email address http: //constitutionalcouncil@parliament.lk. The appointment of a member of the Missing Person Office should be referred to as the issue of the left side of the correspondence or the email.
+
+◼️
+
+[Data](articles/f4c84cfc.json)
+
+[Extended Data](ext_articles/f4c84cfc.ext.json)
+
+---
+
+### Rajitha's petition thrown to remove Rohitha
+
+*2025-09-30 13:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රහත-ඉවත-කරනනය-රජතග-පතසම-වස-ව/1-680495) · `si`
+
+Former Minister Rohitha Abeygunawardena, former Minister Rohitha Abeygunawardena, the Supreme Court declined to take the examination filed by former Minister Rohitha Abeygunawardena.
+
+The petition was considered in the face of Chief Justice Prahethi Surasena, Mahinda Samuelina and Priyantha Fernando and Priyantha Fernando.
+
+Former Minister MP Rohitha Abeywardena, who was filed by former Minister Dr. Ranaratne, has been named as respondents.
+
+The petition has been filed by the former Minister to pose the appointment of Rohitha Abeygunawardena in the last parliamentary election.
+
+◼️
+
+[Data](articles/84dbd114.json)
+
+[Extended Data](ext_articles/84dbd114.ext.json)
+
+---
+
+### Rajitha's petition thrown to remove Rohitha
+
+*2025-09-30 13:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රහත-ඉවත-කරනනය-රජතග-පතසම-වස-ව/101-680495) · `si`
+
+Former Minister Rohitha Abeygunawardena, former Minister Rohitha Abeygunawardena, the Supreme Court declined to take the examination filed by former Minister Rohitha Abeygunawardena.
+
+The petition was considered in the face of Chief Justice Prahethi Surasena, Mahinda Samuelina and Priyantha Fernando and Priyantha Fernando.
+
+Former Minister MP Rohitha Abeywardena, who was filed by former Minister Dr. Ranaratne, has been named as respondents.
+
+The petition has been filed by the former Minister to pose the appointment of Rohitha Abeygunawardena in the last parliamentary election.
+
+◼️
+
+[Data](articles/cda4aa89.json)
+
+[Extended Data](ext_articles/cda4aa89.ext.json)
+
+---
+
+### Young couple arrested for drug addiction Seeing many items in further investigations!
+
+*2025-09-30 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226486) · `ta`
+
+Further inquiries into the young couple arrested in the Gampola area have been reported to be housed and more narcotics have been seized from three houses.
+
+On the 25th, the couple were arrested in narcotics in the Nawalapitiya area.
+
+Subsequently, the police have obtained a court permission to detain a man for seven days and investigate the magistrate.
+
+During further investigations by the police, two of the three houses allegedly staying were seized from two houses and some of the related items.
+
+It is reported that the 22 -year -old man is already married. Investigations have revealed that the woman, who has been detained until the 15th of this month, is a teacher and the other wife has a 15 -month -old baby.
+
+Ice drug buckets and equipment have been seized as they checked the house in the Gampola, Tunukayulla road, the house in the Udagama - Angelpitiya area, the house on Gampola and the Tollbagai road.
+
+◼️
+
+[Data](articles/2dbb31f8.json)
+
+[Extended Data](ext_articles/2dbb31f8.ext.json)
+
+---
+
+### Derana Dream Star runner-up Nuwandhika Senarathne to perform national anthem at Women’s World Cup opening ceremony
+
+*2025-09-30 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113073/derana-dream-star-runner-up-nuwandhika-senarathne-to-perform-national-anthem-at-womens-world-cup-opening-ceremony) · `en`
+
+Nuwandhika Senarathne, the first runner-up of Season 9 of the Derana Dream Star singing competition, has been given the honor of singing the Sri Lankan national anthem at the opening ceremony of the 2025 Women’s One Day International (ODI) Cricket World Cup, today (30).
+
+The 13th edition of the Women’s Cricket World Cup, co-hosted by Sri Lanka and India, is scheduled to get underway today.
+
+The tournament will run until November 2 and will feature eight teams competing for the title.
+
+Matches will be held across four venues in India and one venue in Sri Lanka.
+
+The group stage will follow a league format, where each team will play seven matches.
+
+Of Sri Lanka’s seven group-stage matches, five will be held at the R. Premadasa Stadium in Colombo, while two matches will take place in India.
+
+The tournament kicks off with a match between Sri Lanka and India, scheduled to start at 3:00 p.m. today in Guwahati, India.
+
+◼️
+
+[Data](articles/096f6841.json)
+
+[Extended Data](ext_articles/096f6841.ext.json)
 
 ---

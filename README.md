@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 20:20:50**
+As of **2025-09-30 20:08:26**
 
 ## Newspaper Stats
 
-*Scraped **79,970** Articles*
+*Scraped **79,969** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 517
+newsfirstlk | 516
 lankadeepalk | 525
 dbsjeyarajcom | 636
 bbccomsinhala | 713
@@ -27,21 +27,11 @@ adaderanasinhalalk | 13,825
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,962 (100.0%) of 79,970 articles have been extended.
+79,962 (100.0%) of 79,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### 'Ran Dhoni' : Suranga Senanayake’s Debut Book Unveils a Family’s Struggle for Justice
-
-*2025-09-30 20:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ran-dhoni-suranga-senanayake%e2%80%99s-debut-book-unveils-a-family%e2%80%99s-struggle-for-justice) · `en`
-
-...
-
-[Data](articles/b8a972d6.json)
-
----
 
 ### කෝටි 15කට අධික කොකේන් සමග පුද්ගලයන් දෙදෙනෙක් අත්අඩංගුවට
 
@@ -1968,5 +1958,27 @@ Sri Lanka will be played in the preliminary round of Sri Lanka at the RuralSascu
 [Data](articles/57c8d103.json)
 
 [Extended Data](ext_articles/57c8d103.ext.json)
+
+---
+
+### Ali, who was on the road to the cultivation, killed in a attack
+
+*2025-09-30 14:32:59* · [`adalk`](https://www.ada.lk/breaking_news/වගා-භූමියට-යමින්-සිටි-පුද්ගලයන්-දෙදෙනෙක්-වන-අලි-ප්‍රහාරයකින්-මරුට/11-418816) · `si`
+
+Two persons were killed and another person was killed in a motorcycle at the Mahavagen Ranmuduwewa road at the Siyyagiyewa Mahammuduwewa road in Surewewa.
+
+The body of the 49-year-old resident of the Mahasenpura and the Police Officers of the Suriyawewa address was residents of the Suriyawewa address.
+
+The police then found the victim of the elephant attack in the investigation.
+
+The deceased was a 60 year old named Wanni Arachchi Kankanam Gunapala.
+
+Sooriyawewa Police are conducting further investigations. Residents allege that the elephants have been blown to these villages everyday and have not been informed of their jungle dealers, and the elephants have not yet responded.
+
+◼️
+
+[Data](articles/d2bda012.json)
+
+[Extended Data](ext_articles/d2bda012.ext.json)
 
 ---

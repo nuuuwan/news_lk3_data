@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 21:56:47**
+As of **2025-09-30 22:11:08**
 
 ## Newspaper Stats
 
-*Scraped **79,978** Articles*
+*Scraped **79,979** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 517
+newsfirstlk | 518
 lankadeepalk | 526
 dbsjeyarajcom | 636
 bbccomsinhala | 713
@@ -27,11 +27,23 @@ adaderanasinhalalk | 13,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,978 (100.0%) of 79,978 articles have been extended.
+79,978 (100.0%) of 79,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### Fuel Prices Revised
+
+*2025-09-30 21:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/fuel-prices-revised) · `en`
+
+COLOMBO (News 1st); According to the Ceylon Petroleum Cooperation, Fuel prices will be revised with effect from midnight today (30). The price of a liter of auto diesel will be reduced by Rs. 6, the price of a liter of octane 95 petrol by Rs. 6 and the price of a liter of kerosene by Rs. 5. Other fuel prices will not be revised.
+
+◼️
+
+[Data](articles/ff08bca1.json)
+
+---
 
 ### Fuel prices vary
 
@@ -1968,27 +1980,5 @@ He added that the export-centered agriculture is in the country.
 [Data](articles/3144ea5e.json)
 
 [Extended Data](ext_articles/3144ea5e.ext.json)
-
----
-
-### SriLankan Airlines introduces new ecommerce system to booking air ticket
-
-*2025-09-30 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226494) · `ta`
-
-SriLankan Airlines has launched the facility to booking air tickets through UnionPay.
-
-SriLankan Airlines has launched the new system in collaboration with Union Pay International and Bank of Ceylon.
-
-Union Bay is an international card introduced by China to pay money and transaction.
-
-This new system expands e -commerce systems and provides more facilities for Chinese travelers.
-
-This illustrates that Sri Lanka Airlines plays a major role in increasing the number of passengers and promoting Union Pay usage.
-
-◼️
-
-[Data](articles/20c81d8d.json)
-
-[Extended Data](ext_articles/20c81d8d.ext.json)
 
 ---

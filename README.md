@@ -1,25 +1,25 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 10:38:22**
+As of **2025-09-30 10:09:38**
 
 ## Newspaper Stats
 
-*Scraped **79,736** Articles*
+*Scraped **79,723** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 486
-newsfirstlk | 497
+lankadeepalk | 485
+newsfirstlk | 494
 dbsjeyarajcom | 635
 bbccomsinhala | 710
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
 economynextcom | 4,742
 islandlk | 4,850
-dailyftlk | 5,604
-adalk | 7,673
+dailyftlk | 5,603
+adalk | 7,669
 adaderanalk | 10,287
-tamilmirrorlk | 11,926
+tamilmirrorlk | 11,922
 virakesarilk | 12,998
 adaderanasinhalalk | 13,795
 
@@ -27,115 +27,11 @@ adaderanasinhalalk | 13,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,726 (100.0%) of 79,736 articles have been extended.
+79,723 (100.0%) of 79,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### Sri Lankan Crime Trio Busted in Bengaluru Hideout
-
-*2025-09-30 10:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/sri-lankan-crime-trio-busted-in-bengaluru-hideout) · `en`
-
-...
-
-[Data](articles/135afec3.json)
-
----
-
-### Where Ideas Collide, Leaders Emerge : Season 5 of The Debater with AAT Sri Lanka
-
-*2025-09-30 10:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/where-ideas-collide-leaders-emerge-season-5-of-the-debater-with-aat-sri-lanka) · `en`
-
-COLOMBO (News 1st); The spotlight turned to intellect and eloquence as Season 5 of The Debater with AAT Sri Lanka officially launched its television phase at Stein Studios, Ratmalana. This prestigious competition, known for uniting students from across the nation, continues to champion equal opportunity and the power of ideas.
-
-From over 400 schools, 60 institutions have been selected to compete on this televised platform, representing every province and community—urban and rural alike. The Debater remains a beacon for students to sharpen their critical thinking, public speaking, and leadership skills.
-
-The launch event was attended by key figures who underscored the importance of platforms that nurture young minds:
-
-...
-
-[Data](articles/b53d34ea.json)
-
-[Extended Data](ext_articles/b53d34ea.ext.json)
-
----
-
-### வயது குறைந்த பெண்கள் கர்ப்பமாவது அதிகரிப்பு
-
-*2025-09-30 09:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயது-குறைந்த-பெண்கள்-கர்ப்பமாவது-அதிகரிப்பு/175-365508) · `ta`
-
-அனுராதபுரம் பகுதியில் வயதுக்குட்பட்ட பெண் குழந்தைகளின் கர்ப்பமும், குழந்தை தாய்மார்களின் விகிதமும் கவலையளிக்கும் விகிதத்தில் அதிகரித்து வருகிறது, இது ஒரு கடுமையான சமூகப் பிரச்சினையை உருவாக்குகிறது, இது அதிகாரிகளை மிகவும் கவலையடையச் செய்கிறது.
-
-அனுராதபுரம் மாவட்ட குழந்தைகள் மற்றும் பெண்கள் மேம்பாட்டுக் குழுவின் கூட்டத்தில் அனுராதபுரம் காவல்துறையின் காவல் ஆய்வாளர் எஸ். ஷியாமலி கூறுகையில், கடந்த ஆண்டுகளுடன் ஒப்பிடும்போது இந்த ஆண்டு வயதுக்குட்பட்ட பெண்களின் கர்ப்பம் அதிகரித்துள்ளது.
-
-குழந்தைகள் மற்றும் பெண்களைப் பாதிக்கும் பிரச்சினையை எடுத்துக்கொள்வதற்கும் அவற்றைத் தீர்ப்பதற்கான திட்டங்களை பரிசீலிப்பதற்கும் மாவட்டச் செயலக கேட்போர் கூடத்தில் மேலதிக மாவட்டச் செயலாளர் ஷமிலா விக்ரமாராச்சி தலைமையில் ஞாயிற்றுக்கிழமை(28)  இந்தக் குழு கூடியது.
-
-பாடசாலைக் கல்வி நடவடிக்கைகளுக்கு ஆசிரியர்கள் இன்னும் சமூக ஊடக வலையமைப்புகள் மற்றும் இணையத்தைப் பயன்படுத்துவதாகவும், இதனால் குழந்தைகள் இந்த ஆபத்தில் சிக்குவதாகவும் மேலதிக மாவட்டச் செயலாளர் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/f434b1cd.json)
-
----
-
-### Nation Reimagined by Its Youngest Dreamers
-
-*2025-09-30 09:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/nation-reimagined-by-its-youngest-dreamers) · `en`
-
-COLOMBO (News 1st); A new chapter for Sri Lanka is being written—not by politicians, but by its future. On Sunday (28), the voices of children echoed across Viharamahadevi Park, as Sirasa TV, in collaboration with Munchee, hosted a vibrant and visionary celebration titled “Sirasa - Munchee Tikiri Punchi Lokaya” to mark World Children’s Day.
-
-This year’s celebration was unlike any before. It was shaped entirely by the children themselves. Beginning on September 11, Sirasa TV embarked on a nationwide journey, covering all 25 districts, gathering ideas, dreams, and visions from schoolchildren about the kind of future they want to build.
-
-From thousands of submissions, ten standout paintings—each a visual manifesto of hope and progress—were awarded today. These artworks reflected the children’s aspirations for a modern, inclusive, and creative Sri Lanka.
-
-The inaugural ceremony was graced by a distinguished panel of guests, each representing a pillar of Sri Lanka’s development:
-
-...
-
-[Data](articles/0f4f5fb4.json)
-
-[Extended Data](ext_articles/0f4f5fb4.ext.json)
-
----
-
-### ஜப்பானின் முன்னணி வர்த்தகர்களுடன் ஜனாதிபதி சந்திப்பு
-
-*2025-09-30 09:49:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-முன்னணி-வர்த்தகர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-365506) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின்பேரில் அங்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, ஜப்பான் வெளிநாட்டு வர்த்தக அமைப்பின் (JETRO) தலைமையகத்தில் ஜப்பானின் முன்னணி வர்த்தகர்களுடன் வட்டமேசை கலந்துரையாடலில் திங்கட்கிழமை (29)  ஈடுபட்டார்.
-
-ஜப்பான்  வெளிநாட்டு வர்த்தக அமைப்பின் (JETRO) தலைவர் மற்றும்  பிரதம நிறைவேற்று அதிகாரி   இஷிகுரோ நொரிஹிகோவின்  (ISHIGURO Norihiko) பங்கேற்புடன் நடைபெற்ற இந்த கலந்துரையாடலில் ஜப்பான் இலங்கை வர்த்தக ஒத்துழைப்புக் குழுவின் (JSLBCC) தலைவர் மற்றும் ITOCHU இன் தலைவர்  புமிஹிகோ கொபயாஷி (Fumihiko Kabayashi) உள்ளிட்டோர் கலந்து கொண்டனர்.
-
-இலங்கையில் காணப்படும் புதிய முதலீட்டு வாய்ப்புகள் குறித்து இங்கு சுட்டிக்காட்டிய ஜனாதிபதி அநுரகுமார திசாநாயக்க, நாட்டில் முதலீட்டுக்கு ஏற்ற சூழலை உருவாக்கி மோசடி மற்றும் ஊழலை ஒழிப்பதற்கு தற்போதைய அரசாங்கம் எடுத்துள்ள நடவடிக்கைகள் குறித்தும் தெளிவுபடுத்தினார்.
-
-...
-
-[Data](articles/e6b16572.json)
-
----
-
-### ஆசிய கிண்ணத்தில் ’அறம்’ இழந்த ’விளையாட்டு அறம்’
-
-*2025-09-30 09:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆசிய-கிண்ணத்தில்-அறம்-இழந்த-விளையாட்டு-அறம்/62-365505) · `ta`
-
-◼️
-
-[Data](articles/ceae08cd.json)
-
----
-
-### இலங்கையர் மூவர் பெங்களூரில் கைது
-
-*2025-09-30 09:44:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்-மூவர்-பெங்களூரில்-கைது/175-365504) · `ta`
-
-இலங்கையில் பல குற்றச் செயல்களில் ஈடுபட்டு கடந்த ஆண்டு இந்தியாவுக்குள் சட்டவிரோதமாக நுழைந்த இரேஷ் ஹசங்க, சுகத் சமிந்து, திலீப் ஹர்ஷன ஆகிய மூன்று இலங்கையர்களும் இந்தியாவின் பெங்களூர் மத்திய குற்றப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/7b5747c0.json)
-
----
 
 ### Sri Lanka operates Hakka tissue and Chinese bills
 
@@ -148,26 +44,6 @@ The law is strictly implemented against people who are illegally produced by the
 [Data](articles/c7060bf7.json)
 
 [Extended Data](ext_articles/c7060bf7.ext.json)
-
----
-
-### Two people arrested for possessing Padme's weapons
-
-*2025-09-30 09:28:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-අව-ළඟ-තබගත-දනනක-අලලය/101-680456) · `si`
-
-The Criminal Investigations Department says that two persons have been arrested in possession of Micro VIIA, who belongs to the name of organized crime leader Kehel Badma.
-
-One of the suspects have been arrested for assisting the incident.
-
-The suspect was arrested for the cahel of Indonesia recently, a fire weapon was handed over to a person in Nuravuduwa in Nurama, Kelaniya had been handed over to a person in Nurama.
-
-The suspects were arrested for 24/38 years old and another person was arrested in questioning the incident.
-
-◼️
-
-[Data](articles/94ecf42a.json)
-
-[Extended Data](ext_articles/94ecf42a.ext.json)
 
 ---
 
@@ -539,22 +415,6 @@ COLOMBO (News 1st)  - The Federation of University Teachers’ Association (FUT
 
 ---
 
-### ලංකාවේ අපරාධකරුවන් තිදෙනෙක් ඉන්දියාවේදී අල්ලයි
-
-*2025-09-30 07:40:33* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-අපරාධකරුවන්-තිදෙනෙක්-ඉන්දියාවේදී-අල්ලයි/11-418800) · `si`
-
-බැංගගෝර් මධ්‍යම අපරාධ අංශය (CCB) විසින් දේවානහල්ලිහි මහල් නිවාසයක නීතිවිරෝධී ලෙස රැඳී සිටි ශ්‍රී ලාංකික පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇත.ඔවුන් පිළිබඳව කළ විමර්ශනලදී සැකකරුවන් ශ්‍රී ලංකාවේ අපරාධවලට සම්බන්ධ වී මාස ගණනාවක් තිස්සේ ඉන්දියාවේ සැඟවී සිටි බවට පොලිසිය සැක කරයි.
-
-රත්නමාලන පදිංචි විදානගමෙග් ඉරේෂ් හංසක (31), කොටහේන පදිංචි පතිරාන්නගේ සුගත් සමෙන්දු (46), දෙවුන්දර පදිංචි දිලිප් හරිෂාන් (29) යන අය මෙසේ අත්අඩංගුවට නෙ තිබේ. ඔවුන්  කුලියට ගත් මහල් නිවාසයක ජීවත් වෙමින් සිටියදී සොයා ගන්නා ලදී.
-
-මෙම තිදෙනා 2024 දී යාපනයේ සිට රාමේෂ්වරම් (තමිල්නාඩු) දක්වා නීති විරෝධී ලෙස ඉන්දියාවට ඇතුළු වූ බවත්, පසුව ඔවුන් චෙන්නායි සහ කොයිම්බතූර් හි කෙටි කාලයක් රැඳී සිටි බවත්, පසුව බැංගලෝරයට යාමට පෙර. ඔවුන් මාස අටක් ඕසෝන් උර්බාන හි පදිංචිව සිට ඇත. ඔවුන්ගෙන් කිසිවෙකුට විදේශ ගමන් බලපත්‍ර ඇතුළු වලංගු ලියකියවිලි නොතිබුණි.
-
-...
-
-[Data](articles/c9e7e25c.json)
-
----
-
 ### Another stock of drugs seized in raid in Mattakkuliya
 
 *2025-09-30 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113056/another-stock-of-drugs-seized-in-raid-in-mattakkuliya) · `en`
@@ -572,26 +432,6 @@ Investigations have revealed that the suspect is an associate of an organized cr
 [Data](articles/b1266509.json)
 
 [Extended Data](ext_articles/b1266509.ext.json)
-
----
-
-### ලංකාව සමඟ හවුල්කාරිත්වය තවදුරටත් වර්ධනය කර ගැනීම අපේක්ෂාවයි
-
-*2025-09-30 07:28:25* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-සමඟ-හවුල්කාරිත්වය-තවදුරටත්-වර්ධනය-කර-ගැනීම-අපේක්ෂාවයි/11-418799) · `si`
-
-• ශ්‍රී ලංකාව සමඟ හවුල්කාරිත්වය තවදුරටත් වර්ධනය කර ගැනීම අපේක්ෂාවයි - ජපාන අග්‍රාමාත්‍ය ෂිගෙරු ඉෂිබා මහතා
-
-• සංවර්ධනය සහ ස්ථාවරත්වය වෙනුවෙන් ජපානය සමඟ එක්ව කැප වෙනවා - – ජනාධිපති අනුර කුමාර දිසානායක මහතා
-
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ජපාන අග්‍රාමාත්‍ය කාර්යාල පරිශ්‍රයේදී ඊයේ (29දා) පැවැත්විණි.
-
-ජපාන අග්‍රාමාත්‍ය කාර්යාලය වෙත පැමිණි ජනාධිපතිවරයාව ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා විසින් මහත් හරසරින් යුතුව පිළිගනු ලැබූ අතර, ජනාධිපතිවරයා වෙනුවෙන් ජපාන ස්වයං ආරක්ෂක බලකායේ උත්තමාචාරද පිළිගැන්විණි. එම පෙළපාළිය නිරීක්ෂණය සඳහාද ජනාධිපතිවරයා එක් විය.
-
-දෙරටේ නියෝජිත පිරිස හඳුන්වා දීමෙන් අනතුරුව, ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන අග්‍රමාත්‍ය ෂිගෙරු ඉෂිබා (Shigeru ISHIBA) මහතා අතර නිල සාකච්ඡා ආරම්භ කෙරිණි.
-
-...
-
-[Data](articles/11d79a16.json)
 
 ---
 
@@ -1319,22 +1159,6 @@ Traditionally, Budgets are viewed as accounting exercises, designed to raise rev
 
 ---
 
-### Budget 2026: Smiles in every rupee
-
-*2025-09-29 22:50:08* · [`dailyftlk`](https://www.ft.lk/columns/Budget-2026-Smiles-in-every-rupee/4-782351) · `en`
-
-A Budget that focuses on well-being goes beyond numbers and policies; it invests in the potential of every citizen
-
-Every year, the arrival of Sri Lanka’s national Budget brings with it familiar rituals: speeches in Parliament, presentations filled with charts, and days of debate about deficits, spending, and taxation. Economists pore over fiscal strategies, politicians argue about allocations, and ordinary citizens ask the most important question of all: “How will this affect my life?”
-
-Traditionally, Budgets are viewed as accounting exercises, designed to raise revenue, control expenditure, and maintain economic stability. These objectives are crucial, but they often overlook something fundamental: how people actually experience security, opportunity, and dignity in their everyday lives. A nation’s financial plan is not just about balancing books; it is about shaping lives.
-
-...
-
-[Data](articles/96e151f6.json)
-
----
-
 ### 3 lorries were seized with drugs in Tangalle; Continued explanation for the suspects
 
 *2025-09-29 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226443) · `ta`
@@ -1936,5 +1760,231 @@ The bus was hit by a route route and 12 people in the bus was injured and rushed
 [Data](articles/0ea1d5e9.json)
 
 [Extended Data](ext_articles/0ea1d5e9.ext.json)
+
+---
+
+### Discussion between President and Japan Defense Minister
+
+*2025-09-29 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226441) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, said that Japanese Defense Minister TM at the Imperial Hotel in Tokyo on Monday (29). He met DM Nakatani and engaged in discussion.
+
+It was rapidly investigated on further strengthening the current cooperation between Sri Lanka and Japan on long -term friendship, regional security and security matters between the two countries.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and the Sri Lankan delegation were present at the meeting.
+
+◼️
+
+[Data](articles/6512e908.json)
+
+[Extended Data](ext_articles/6512e908.ext.json)
+
+---
+
+### UK plans tougher rules for migrants seeking to stay in country
+
+*2025-09-29 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113044/uk-plans-tougher-rules-for-migrants-seeking-to-stay-in-country) · `en`
+
+Britain’s interior minister on Monday (Sep 29) proposed tough new rules for migrants seeking to settle in the United Kingdom, as the ruling Labour Party bolstered its fight against the hard right at its annual conference.
+
+Migrants looking to remain indefinitely will have to have a job, not claim benefits, and undertake volunteer community work under plans designed to claw back support among voters drawn to the anti-immigrant Reform UK party, whose popularity is soaring.
+
+Confronting Reform, led by firebrand Nigel Farage, is the main theme of Labour’s four-day gathering in Liverpool, northwest England.
+
+Currently, migrants with family in Britain and who have lived there for five years qualify for “indefinite leave to remain” - permanent residence - as do those who have lived legally in the UK for 10 years on any type of visa.
+
+Eligible applicants meeting those thresholds also earn the right to live, work and study in the UK and to apply for benefits and British citizenship.
+
+...
+
+[Data](articles/5568459d.json)
+
+[Extended Data](ext_articles/5568459d.ext.json)
+
+---
+
+### Bilateral talks between President and Japan Finance Minister
+
+*2025-09-29 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226440) · `ta`
+
+The bilateral talks were held at the Imperial Hotel in Tokyo on Monday afternoon between President Anura Kumara Dissanayake and Japanese Finance Minister Kato Kasunobu (29) at the invitation of the Japanese government.
+
+The focus was on the implementation and implementation of the new projects that are currently being implemented and implemented under the Japanese Assistance/JICA cooperation on trade, investment and economic cooperation between the two countries.
+
+Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, President's Senior Advisor to Digital Economy Dr. Hans Vijayasuriya, President's Senior Economic Advisor Duminda Hulangamuwa, Sri Lanka Ambassador to Japan
+
+◼️
+
+[Data](articles/2a4b2f6a.json)
+
+[Extended Data](ext_articles/2a4b2f6a.ext.json)
+
+---
+
+### I will be dedicated to Japan to create development and stability - President
+
+*2025-09-29 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226439) · `ta`
+
+The official event to welcome President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, was held on Monday (29) at the Japanese Prime Minister's Office.
+
+Japanese Prime Minister Shigeru Ishiba was welcomed by Japanese Prime Minister's Prime Minister's Office. Subsequently, President Anura Kumara Dissanayake accepted the honor of the Japanese self -defense force and joined the march.
+
+The official meeting between President Anura Kumara Dissanayake and Japanese Prime Minister Shikheru Ishiba began following the introduction of the bilateral representatives.
+
+Following the long -standing close friendship between Japan and Sri Lanka, the focus was on the continued dissemination of various sectors, including business, investment, economic, development assistance and zonal security between the two countries.
+
+...
+
+[Data](articles/ed6e125a.json)
+
+[Extended Data](ext_articles/ed6e125a.ext.json)
+
+---
+
+### President discusses leading businessmen in Japan
+
+*2025-09-29 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215150) · `si`
+
+President Anura Kumara Dissanayake is on an official visit to the Japanese government in the Japanese Foreign Trade Organization (29) at the Japan's leading businessmen.
+
+The discussion was held at the Japanese Sri Lanka Business Co-operation Committee (JSLBC), Chairman of the Japanese Foreign Trade and CEO of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President Fumiko Kabayashi.
+
+President Anura Kumara Dissanayake, pointed out in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
+
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
+
+[Data](articles/8a2f0fb4.json)
+
+[Extended Data](ext_articles/8a2f0fb4.ext.json)
+
+---
+
+### Action Resolution of the University Teachers Union Federation
+
+*2025-09-29 20:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஆசிரியர்-சங்க-கூட்டமைப்பின்-அதிரடி-தீர்மானம்/175-365496) · `ta`
+
+The Secretary of the Association, Senior Lecturer Sarutta Ilangasinghe said that the Federation of University Teachers' Associations has decided to engage in the Identity Task Force.
+
+He said the government had failed to take steps to address the shortcomings in the university structure and that he would engage in the Identification Task Force tomorrow.
+
+However, he said that the crises in state universities have not yet been resolved, and that the state education is now falling and facing a severe crisis.
+
+Senior Lecturer, Senior Lecturer, Senior Lecturer, Senior Lecturer, said that about 200 professors had left the University of Peradeniya last year alone. Remble
+
+◼️
+
+[Data](articles/bd1f1c59.json)
+
+[Extended Data](ext_articles/bd1f1c59.ext.json)
+
+---
+
+### President - Japanese Finance Minister
+
+*2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/101-680435) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපාන මුදල් අමාත්‍ය කතෝ කසුනොබු (KATO Katsunobu) මහතා අතර ද්වීපාර්ශ්වික සාකච්ඡාවක් අද (29) පස්වරුවේ ටෝකියෝ අගනුවර පිහිටි ඉම්පීරියල් හෝටලයේදී පැවැත්විණි.
+
+The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
+
+Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
+
+◼️
+
+[Data](articles/9e602189.json)
+
+[Extended Data](ext_articles/9e602189.ext.json)
+
+---
+
+### President - Japanese Finance Minister
+
+*2025-09-29 20:06:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-මදල-ඇමත-සකචඡ/1-680435) · `si`
+
+President Anura Kumara Dissanayake and Japanese Finance Minister Kazyou Kazinobu (Kato Katsunobu) on an invitation of the Government of Japan was held at the Imperial Hotel in Tokyo.
+
+The two countries focused on new projects to enhance trade, investment and economic cooperation between Japanese aid / JICA cooperation.
+
+Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, Government Adviser on Duminda Wijesingtuwa, Japan and other senior officials of the Ministry of External Affairs were also present.
+
+◼️
+
+[Data](articles/a4fd73ab.json)
+
+[Extended Data](ext_articles/a4fd73ab.ext.json)
+
+---
+
+### 32 criminals in the country know where
+
+*2025-09-29 19:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රට-ඉන්න-අපරාධකරුවන්-32ක්-සැඟව-සිටින-තැන්-දන්නවා/11-418796) · `si`
+
+General Defense Minister Ananda Wijepala said that the international red warrants had already been identified as a 72 criminal criminals carrying out in the country and have been identified among criminals.
+
+The Minister was speaking at the meeting, the media was visiting Kandy and visiting the general public to the Mahawatwatu Asgiriya Textians.
+
+The Minister emphasized that there are about 30,000 officers and the STF personnel and the STF personnel will be established in December.
+
+He said that the government intervened to eliminate the drug infant and expected to start a national movement to eliminate drugs in the country within the next 2-3 weeks. The Minister stressed that the priestly from the priesthood will participate.
+
+The Minister requested the public to give all information to the police without fear of the police, including drug racues and crimes.
+
+◼️
+
+[Data](articles/bbbd47a1.json)
+
+[Extended Data](ext_articles/bbbd47a1.ext.json)
+
+---
+
+### Defence Ministry to get tough on the use of ‘Hakka Patas’ or ‘Cheena Patas’
+
+*2025-09-29 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113043/defence-ministry-to-get-tough-on-the-use-of-hakka-patas-or-cheena-patas) · `en`
+
+The Ministry of Defence has advised the general public to refrain from using illegal explosives and to assist by reporting any incidents of manufacturing, possessing, or selling the already prohibited “Hakka Patas” or “Cheena Patas” used to produce them, to the nearest police station or wildlife authorities.
+
+The Defence Ministry said it has been reported that an illegal explosive called “Cheena Patas” is being produced in some parts of the island using raw materials and other chemicals issued for the firecracker and fireworks industry.
+
+Information has also been received that another illegal explosive called “Hakka Patas” is being manufactured using “Cheena Patas” and the raw materials used for firecracker and fireworks production, the Ministry added.
+
+These illegal explosives are reportedly used widely to deter wild animals from harming farmlands. However, reports indicate that these explosives have caused severe injuries and deaths to both people and wild animals in the recent past.
+
+...
+
+[Data](articles/1fceb58b.json)
+
+[Extended Data](ext_articles/1fceb58b.ext.json)
+
+---
+
+### Massive protest in Mannar
+
+*2025-09-29 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215149) · `si`
+
+Today is the 58 protests that the people started to stop the construction of the proposals to be stopped at the Mannar Island.
+
+The people of the Mannar Island is to stop the construction of the LTTE and the excavation of mineral sand of the island for nearly two months.
+
+They say they have to face many environmental problems due to these construction and excavations.
+
+අඛණ්ඩ විරෝධතාවට දින 58ක් පිරෙන අද එම ජනතාව සහ වෙළෙඳ ප්‍රජාව ප්‍රදේශයේ වෙළෙඳසැල් සියල්ල වසා දමා හර්තාල් ව්‍යාපාරයක් ආරම්භ කර තිබුණි.
+
+All public transport services were also stationed today and a massive protest was commenced with the Mannar Public Playground.
+
+Our correspondents said that the people were taken to Mannar today.
+
+The protesters went to the Mannar District Secretariat and protest against the Mannar District Secretariat.
+
+Police officers were summoned to control the protesters and continued to continue in the protest due to the protests, regardless of the police orders.
+
+...
+
+[Data](articles/0d41da76.json)
+
+[Extended Data](ext_articles/0d41da76.ext.json)
 
 ---

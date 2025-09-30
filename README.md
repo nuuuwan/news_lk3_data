@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 22:37:25**
+As of **2025-09-30 23:07:23**
 
 ## Newspaper Stats
 
-*Scraped **79,981** Articles*
+*Scraped **79,987** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 518
-lankadeepalk | 526
+lankadeepalk | 528
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -17,21 +17,101 @@ dailymirrorlk | 4,733
 economynextcom | 4,757
 islandlk | 4,851
 dailyftlk | 5,604
-adalk | 7,697
+adalk | 7,698
 adaderanalk | 10,316
-tamilmirrorlk | 11,952
+tamilmirrorlk | 11,953
 virakesarilk | 13,048
-adaderanasinhalalk | 13,828
+adaderanasinhalalk | 13,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,979 (100.0%) of 79,981 articles have been extended.
+79,986 (100.0%) of 79,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### අධික වේගය තරුණයින් දෙදෙනෙකුට දිවි අහිමිකරයි
+
+*2025-09-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215199) · `si`
+
+හොරොව්පතාන කපුගොල්ලෑව මාර්ගයේ කටුවරගොල්ලෑව ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් තරුණයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනුරාධපුර කපුගොල්ලෑව සිට හොරොව්පතාන දෙසට ධාවනය වූ ස්කූටර් වර්ගයේ යතුරු පැදියක් ඊට ප්‍රතිවිරුද්ධ දෙසින්  ධාවනය වු බස් රථයක ගැටී මෙම අනතුර සිදුව තිබුණි.
+
+අනතුරෙන් මියගොස් ඇත්තේ හොරොව්පොතාන, කටුවරගොල්ලෑව සහ නෙළුගොල්ලෑව ප්‍රදේශවල පදිංචිව සිටි 20 හැවිරිදි සහ 21 හැවිරිදි තරුණයින් දෙදෙනෙකි.
+
+අනතුර සම්බන්ධයෙන් බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය
+
+◼️
+
+[Data](articles/b6e97edf.json)
+
+---
+
+### Wife giving his wife to the prison cell
+
+*2025-09-30 22:30:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරය-සමයට-සර-මදරයද-කඩ-දල/101-680523) · `si`
+
+Kekirawa Police say that the Rajawa's wife was arrested for a detaineant person who was in custom from the Kekirawa Magistrate Advertiser.
+
+The Batticaloa Prison officials had taken action to be presented to Kekirawa Magistrate's appointment today (30).
+
+Accordingly, a group of detainees, including the relevant custom from prison officials to the prison personnel to the prison, had given the parcel that had alleged drugs in court hall.. The police had also been able to find the drugs that were provided by the woman in possession of the department.
+
+Police said he was able to find 480 millions of drugs and 300 grams of heroin in the parcel by the suspect.
+
+The police arrested the police were arrested by the police that the parcel containing drugs in the starvation hall.. Police have identified the wife of the detainea, police said.
+
+◼️
+
+[Data](articles/315d54ea.json)
+
+[Extended Data](ext_articles/315d54ea.ext.json)
+
+---
+
+### Several laboratories at National Hospital are inactive - Medical Laboratory Science Association
+
+*2025-09-30 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215198) · `si`
+
+The All Ceylon Medical Laboratory Scientist Association alleges that certain officials in the health sector are working on the agenda of the government's hospitals.
+
+Representatives were held in Colombo today, said the representatives of the Colombo National Hospital have stopped.
+
+General Secretary of the All Ceylon Medical Laboratory Science Association, Wasantha Gunawardena, the General Secretary of the All Ceylon Medical Laboratory Science Association.
+
+"Creating order officers do not now do now. Full liver tests stopped at a certain extent. The cardiologist's 'Troponin i' has become a place not tested. The 'Troponin I' National Hospital Rs.
+
+◼️
+
+[Data](articles/70d87e87.json)
+
+[Extended Data](ext_articles/70d87e87.ext.json)
+
+---
+
+### Three gorets arrested with Rajitha's cocaine
+
+*2025-09-30 22:11:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඩවට-රජතග-කකන-සමග-ගලය-තනක-මටට/101-680522) · `si`
+
+The Walana Corruption Assistance Former Corruption Balaksi Corps states that three million cocaine has been taken into custody with two million cocaines, including a chiefs of Badown Rajitha who operates.
+
+The authority of the Forgtor K.A.Adeva Kumara has been taken into custody by inspection of a house in Galpita Jayasiri Place.
+
+It has been revealed that At Attanagoda Kankanam Prabudu Priyankara alias Attanagoda Kankanam Priyankara, or Asi, has revealed that the father had been stored and trafficked in the house.
+
+The suspect was arrested and a mount term was a "Sura" and later found a kilo of cocaine in the event of the vehicle.
+
+◼️
+
+[Data](articles/8d32d08c.json)
+
+[Extended Data](ext_articles/8d32d08c.ext.json)
+
+---
 
 ### Fuel Prices Revised
 
@@ -47,23 +127,43 @@ COLOMBO (News 1st); According to the Ceylon Petroleum Cooperation, Fuel prices w
 
 ---
 
-### ජනපති හා ජපාන - ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය අතර හමුවක්
+### President and Japan meet between Sri Lankan parliamentary lease
 
 *2025-09-30 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215197) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව එරට නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් උදෑසන භෝජන සංග්‍රහයක්  ටෝකියෝහි ඉම්පීරියල් හෝටලයේදී අද (30) පැවැත්විණි.
+President Anura Kumara Dissanayake was held today (30) at the Imperial Hotel on the Imperial Hotel, Tokyo.
 
-ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු  ලීගය විසින් මෙම උදෑසන භෝජන සංග්‍රහය සංවිධානය කරනු ලැබ තිබිණි.
+The banquet was organized by the Japanese League of Japan.
 
-දෙරටේ පාර්ලිමේන්තුවල සාමාජිකයන් අතර පවතින සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ සමීපව කටයුතු කිරීමට බලාපොරොත්තු වන බව ජපාන - ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගයේ සභාපති යොෂිතාකා ෂින්ඩෝ (Yoshitaka Shindo) සහ මහලේකම් යුකෝ ඔබුචි (Yuko Obuchi) යන මහත්ම මහත්මීහු මෙහිදී ප්‍රකාශ කළහ.
+JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) has stated that President Anura Kumara Shindo (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to strengthening the cooperation between members of the two countries.
 
-දෙරටේ අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා දේශපාලන, ආර්ථික සහ සංස්කෘතික ක්ෂේත්‍ර ඔස්සේ සහයෝගීතාව ශක්තිමත් කිරීමට කටයුතු කරන බවද ඔවුහු වැඩිදුරටත් පැවසූහ.
+They also said that cooperation will be strengthened through political, economic and cultural areas for mutual benefits of both countries.
 
-ජපාන - ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය ජපානයේ හිටපු අග්‍රාමාත්‍ය කෙයිසෝ ඔබුචි (Keizo Obuchi) මහතාගේ මූලිකත්වයෙන් 1982 වසරේ දී ස්ථාපිත කරන ලද්දකි.
+The Japanese - the Parliamentary League of Japan was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
 
-...
+Foreign Affairs and Tourism and Tourism Vijitha Herath, Japan's Ambassador to Japan and Japan and Japanese - Sri Lanka's parliamentary league members were present at the occasion.
+
+◼️
 
 [Data](articles/04cc4b6b.json)
+
+[Extended Data](ext_articles/04cc4b6b.ext.json)
+
+---
+
+### Action change in fuel prices
+
+*2025-09-30 21:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகளில்-அதிரடி-மாற்றம்/175-365558) · `ta`
+
+Ceylon Petroleum Corporation. .
+
+There is no change in the price of petrol Octane 92 and super diesel.
+
+◼️
+
+[Data](articles/bce27f1c.json)
+
+[Extended Data](ext_articles/bce27f1c.ext.json)
 
 ---
 
@@ -1425,6 +1525,24 @@ The government -approved fees for domestic securities are as follows: Securities
 
 ---
 
+### YouTube President Trumps Trump to Trump Domy. 24.5 pays
+
+*2025-09-30 15:59:48* · [`adalk`](https://www.ada.lk/technology/නඩුව-සමතයට-යූ-ටියුබ්-ජනපති-ට්‍රම්ප්ට-ඩො-මි--24-5ක්-ගෙවයි/5-418822) · `si`
+
+Monday, Monday, a court jurisdiction was prompted to pay a court to pay a case against US president Donald Trump to resolve his account after the US Capital Riots in January 2021.
+
+Trump in July 2021, Facebook owner had sued Google and their CEOs in Alfabet, as well as the XAbet's.
+
+Under YouTube Settlement, $ 22 million to the custody of the National Shopping Complex for Trump. The remaining $ 2.5 million, writer Naomi Wolf and other parties relating to the other parties including the US Conservative Association.
+
+◼️
+
+[Data](articles/b6fcf063.json)
+
+[Extended Data](ext_articles/b6fcf063.ext.json)
+
+---
+
 ### "We are ready if Sri Lanka is a clear statement
 
 *2025-09-30 15:55:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකව-පහදල-පරකශයක-කළත-අප-සදනම/1-680504) · `si`
@@ -1451,23 +1569,29 @@ The Ambassador said that Erofflot for six months after the end of direct flights
 
 ---
 
-### වසර 13කට පසු තාජුඩීන්ගේ මෝටර් රිය පසුපස ලුහුබැඳ ගිය සැකකරු ගැන හෙළිවූ අයුරු
+### After 13 years, the suspect who pursued trailing suspect
 
 *2025-09-30 15:54:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpd95wvdlexo) · `si`
 
-වසර 13කට පසු තාජුඩීන්ගේ මෝටර් රිය පසුපස ලුහුබැඳ ගිය සැකකරු ගැන හෙළිවූ අයුරු
+After 13 years, the suspect who pursued trailing suspect
 
-2012 වසරේදී ඝාතනයට ලක්වූ රගර් ක්‍රීඩක වසීම් තාජුඩීන් ගමන් කළ මෝටර් රථය පසුපසින් ලුහුබැඳ ගිය මෝටර් රථයේ ඉකුත් දා ඝාතනයට ලක් වූ 'මිද්දෙණියේ කජ්ජා' හෙවත් අරුණ ශාන්ත විදානගමගේ ගමන් කර ඇතැයි වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී මිනුර සෙනරත් සැප්. 30 විශේෂ අනාවරණයක් කරමින් පැවසීය.
+Acting Police Media Spokesperson Assistant Superintendent of Police Media Spokesman Assistant Superintendent of Police. 30 Special Detection said.
 
-එහිදී ඔහු ප්‍රකාශ කළේ, වසීම් තාජුඩීන් ඝාතනයට ලක් වූ දිනයේ ඔහු වතුර බෝතලයක් මිල දී ගැනීම සඳහා හැව්ලොක් පිහිටි සුපරි වෙළෙඳසලක් වෙත ගමන් කරන බව ත් ඉන් පිටතට පැමිණ යළි ඔහු තම මෝටර් රථයේ නැග ගමන් කිරීමේදී ඔහු පසුපස තවත් මෝටර් රථයක් ලුහුබැඳ යන බවත් ය.
+He said that the day he was killed in the murdered in the murdered in the murdered by the killing of the Tajudeen, he was heading to a Supermarket shop to buy a bottle of water.
 
-එම රථය සම්බන්ධයෙන් සීසීටීවී දර්ශන පරීක්ෂා කර බැලීමේදී ආනාවරණය වී ඇත්තේ, ඒ අසල තවත් පුද්ගලයෙකු සිට ඇති බව ය.
+When the CCTV footage was inspected on the vehicle, it was reported that there was another person near it.
 
-ඔහු හඳුනා ගැනීම සඳහා මීට වසර 9කට පමණ පෙර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් මාධ්‍ය වෙත දර්ශන නිකුත් කරනු ලැබුව ද එය අසාර්ථක වූ බව වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+The Acting Police Media Spokesperson stated that almost 9 years ago, the Criminal Investigations Department (CID) has failed to issue visions to the media about 9 years ago.
+
+However, the wife of the 'Middiyana Kibra' alias Auna, or Aruna Shantanagama's wife has confirmed that the man was killed in the recent past.
+
+"Baco Saman 'has been accused from Indonesia from Indonesia recently on February 18 this year.
 
 ...
 
 [Data](articles/b016619b.json)
+
+[Extended Data](ext_articles/b016619b.ext.json)
 
 ---
 
@@ -1858,125 +1982,5 @@ The "AI" National Exhibition is the primary travel target for artificial intelli
 [Data](articles/e050f459.json)
 
 [Extended Data](ext_articles/e050f459.ext.json)
-
----
-
-### Ranil and Mahinda Number Thieves - Minister Ramalingam Chandrasekhar
-
-*2025-09-30 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226491) · `ta`
-
-Devils are overwhelmed by racism. They take place on the plot and the maneuver for power. Fisheries, Aquatic and Marine Resources Minister Ramalingam Chandrasekhar said people should unite to protect the country from these devils.
-
-The inauguration ceremony of the Jaffna Special Economic Center was held on Tuesday morning (30) under the patronage of Minister of Fisheries, Aquatic and Marine Resources, E. Chandrasekhar.
-
-Minister of Commerce, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe, Governor of the Northern Province, Na Vedanayanan, Members of Parliament K. Ilangumaran, S. Sripavanandarasa and J. Rajeevan were also present.
-
-Data say Sri Lanka is progressing economically. Similarly, bribery and corruption are being eradicated.  Racism and religiousism are also being ended.
-
-Three people living in Sri Lanka. If that happens, you can easily go ahead. This is what our President Comrade emphasizes everywhere.
-
-...
-
-[Data](articles/81f5a435.json)
-
-[Extended Data](ext_articles/81f5a435.ext.json)
-
----
-
-### Car bomb in Pakistan: 10 killed
-
-*2025-09-30 14:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-கார்-குண்டுவெடிப்பு-10-பேர்-பலி/50-365526) · `ta`
-
-A powerful car bomb exploded on Tuesday outside the Border Police (FC) headquarters in Quetta, Pakistan. Authorities said 10 people were killed and more than 32 injured in the blast. Balochistan Health Minister Bhakt Mohammed Kakar warned that the death toll could increase further. The noise of the explosion in the model town and neighboring areas, the window mirrors of homes and commercial buildings were broken.
-
-Shortly after the blast, the shootings were heard. It caused panic among residents. The injured were taken to Quetta Civil Hospital, where the emergency has been announced. BMC Hospital and Drama Center announced emergency on the orders of Health Minister Kakar and Health Secretary Mujeeb-Ur-Rehman. Doctors, nurses and sub -doctors were deployed throughout these hospitals to help the victims of the blast.
-
-...
-
-[Data](articles/a575a745.json)
-
-[Extended Data](ext_articles/a575a745.ext.json)
-
----
-
-### Former SSP Course released
-
-*2025-09-30 14:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-SSP-සතෂට-ඇප/1-680503) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama today ordered the release of over Rs.
-
-Sath Rajan Hiyare Gamage was released on bail.
-
-The magistrate also ordered the suspect a cash bail of Rs. 100,000 each.
-
-After considering the facts of the suspect, the Bribery Commission had set the procedure and ordered the Bribery Commission to produce investigation progress on January 6.
-
-◼️
-
-[Data](articles/981fa0ee.json)
-
-[Extended Data](ext_articles/981fa0ee.ext.json)
-
----
-
-### Former SSP Course released
-
-*2025-09-30 14:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-SSP-සතෂට-ඇප/101-680503) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama today ordered the release of over Rs.
-
-Sath Rajan Hiyare Gamage was released on bail.
-
-The magistrate also ordered the suspect a cash bail of Rs. 100,000 each.
-
-After considering the facts of the suspect, the Bribery Commission had set the procedure and ordered the Bribery Commission to produce investigation progress on January 6.
-
-◼️
-
-[Data](articles/a1569623.json)
-
-[Extended Data](ext_articles/a1569623.ext.json)
-
----
-
-### A day in spring
-
-*2025-09-30 14:57:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පත-වසනතය-දවසක/2-680502) · `si`
-
-That was the year 1985. The Sri Lanka Book Publishers' Association commences that year. Its founding chairman was Veteran writer K. Jayathilaka. There were 27 books publishers initially involved in the union.
-
-Book Publishers Association Exhibition The Exhibition Process in 1999. The exhibition named the National Book Fair is limited to four days. It was held in the national art. The book Exhibition process was kept in the book Exhibition process with a view to drawing the readers away from the book migrant with electronic media.
-
-This year is 2025. This year's Sirimavo Bandaranaike will be held at the Sirimavo Bandaranaike premises.
-
-We went to the book Exhibition on the morning of September 27 this year's exhibition.
-
-...
-
-[Data](articles/bfa651e1.json)
-
-[Extended Data](ext_articles/bfa651e1.ext.json)
-
----
-
-### Minister Sunil Handunneththi admits mistakenly referring to Guinness Record as Nobel Prize
-
-*2025-09-30 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113076/minister-sunil-handunneththi-admits-mistakenly-referring-to-guinness-record-as-nobel-prize) · `en`
-
-Minister of Industry and Entrepreneurship Development Sunil Handunneththi says that his reference to a ‘Nobel Prize’ instead of a ‘Guinness World Record’ when commenting on a recent tea auction in Japan was a mistake on his part.
-
-In a post shared on his Facebook account, Minister Handunneththi mentioned that the New Vithanakande Ceylon Black Tea was recently recognized by the Guinness World Records as the most expensive tea ever sold, further enhancing the global recognition of Sri Lankan tea.
-
-However, the Minister expressed regret over the slip he made while commenting on the achievement.
-
-“Further elevating the global recognition of Sri Lankan tea, the New Vithanakande Ceylon Black Tea has been included in the Guinness World Records as the highest-priced tea ever sold at an auction held in Japan.
-
-While commenting on this achievement, I mistakenly referred to it as a ‘Nobel Prize’ instead of a ‘Guinness Record’. I regret this error.
-
-...
-
-[Data](articles/4e34ba87.json)
-
-[Extended Data](ext_articles/4e34ba87.ext.json)
 
 ---

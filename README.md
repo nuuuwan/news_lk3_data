@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 14:38:56**
+As of **2025-09-30 15:20:39**
 
 ## Newspaper Stats
 
-*Scraped **79,840** Articles*
+*Scraped **79,858** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 502
-newsfirstlk | 506
+lankadeepalk | 505
+newsfirstlk | 507
 dbsjeyarajcom | 635
 bbccomsinhala | 711
 colombotelegraphcom | 801
@@ -18,20 +18,130 @@ economynextcom | 4,746
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,685
-adaderanalk | 10,298
-tamilmirrorlk | 11,937
-virakesarilk | 13,026
+adaderanalk | 10,303
+tamilmirrorlk | 11,939
+virakesarilk | 13,033
 adaderanasinhalalk | 13,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,837 (100.0%) of 79,840 articles have been extended.
+79,857 (100.0%) of 79,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### Sajith Key the story about the locked boss
+
+*2025-09-30 14:49:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ව-කලල-කන-ලකකන-ගන-සජත-ක-කතව/101-680501) · `si`
+
+Opposition Leader Sajith Premadasa said that the ministers were in the opposition and a guaranteed prices to the stalk.
+
+However, after he came to power, he said.
+
+He said that a group of powers would buy and buy paddy today.
+
+Opposition Leader said this in Hingurakgoda
+
+He added that the export-centered agriculture is in the country.
+
+◼️
+
+[Data](articles/3144ea5e.json)
+
+[Extended Data](ext_articles/3144ea5e.ext.json)
+
+---
+
+### Where is the Provincial Council Travel?
+
+*2025-09-30 14:45:55* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පළත-සභ-ගමන-මග-කයබටද/2-680500) · `si`
+
+There is a controversial discussion regarding the implementation of the provincial council institutions and not attending elections. The governance format of Sri Lanka is acquired by three control structures. The provincial structure and the structure of the Provincial Council structure and the local government structure implemented in 1987.
+
+The governance of Sri Lanka made these claims. But the provincial councils have been inactive on the SLC. Separate elections are based on the preparation of Provincial Councils and Local Authorities to elect the legislature of the central government and the provincial councils and local government bodies.
+
+...
+
+[Data](articles/3e0e2490.json)
+
+[Extended Data](ext_articles/3e0e2490.ext.json)
+
+---
+
+### JETRO Forum: Sri Lanka Unveils Big Opportunities for Japanese Businesses
+
+*2025-09-30 14:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/jetro-forum-sri-lanka-unveils-big-opportunities-for-japanese-businesses) · `en`
+
+COLOMBO (News 1st); President Anura Kumara Dissanayake extended an open invitation to Japan’s business community to explore emerging economic opportunities in Sri Lanka, pledging to strengthen bilateral trade and investment ties while encouraging robust private sector participation.
+
+The President made these remarks at the Japan–Sri Lanka Business Forum,  at the headquarters of the Japan External Trade Organization (JETRO) in Tokyo.
+
+The event drew nearly 200 senior Japanese business leaders and was jointly organized by JETRO, Japan’s Ministry of Economy, Trade and Industry (METI), the Embassy of Sri Lanka in Japan, the Japan–Sri Lanka Business Cooperation Committee, and the Board of Investment of Sri Lanka (BOI).
+
+On the sidelines, President Dissanayake met with JETRO Chairman Norihiko Ishiguro, who pledged to act as a bridge between the two business communities to foster continuous engagement and mutually beneficial partnerships.
+
+◼️
+
+[Data](articles/221f5c59.json)
+
+[Extended Data](ext_articles/221f5c59.ext.json)
+
+---
+
+### Yall. Special Economic Center
+
+*2025-09-30 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226493) · `ta`
+
+The renovation of the Special Economic Center in Jaffna was held on Tuesday morning (30) under the patronage of Minister of Fisheries, Aquatic and Marine Resources Chandrasekhar.
+
+Minister of Commerce, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe, Governor of the Northern Province, Na Vedanayanan, Members of Parliament K. Ilangumaran, S. Sripavanantharasa and J. Rajeevan were also present.
+
+The Economic Center was opened and the wholesalers started the wholesale business.
+
+Chavakachcheri Pradeshiya Sabha Chairman, Jaffna. District Secretary, Secretary to the Ministry of Agriculture of the Northern Province, Divisional Secretaries and Representatives of the Agricultural Federation were present at the event.
+
+◼️
+
+[Data](articles/7cfbec3c.json)
+
+[Extended Data](ext_articles/7cfbec3c.ext.json)
+
+---
+
+### Au. 18 The Slab fell in a slab and stimulated the nerves of the brain
+
+*2025-09-30 14:40:14* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/අවු---18-ස්ලැබ්--එකකින්-වැටිලා-හානි-වූ-මොළයේ--ස්නායු-නැවත-උත්තේජනය-කරන-ශීරෝධාරා/12-680499) · `si`
+
+◼️
+
+[Data](articles/13742ea2.json)
+
+[Extended Data](ext_articles/13742ea2.ext.json)
+
+---
+
+### Singer Sri Lanka introduced new GJPa Huawei smart accessories and Tabletfis
+
+*2025-09-30 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226490) · `ta`
+
+Sri Lanka PLC, the country's leading electronic vendor, Sri Lanka PLC, has introduced the new GJPA Huawei smart accessories and Tablet through its retail network and comprehensive national distribution media.
+
+This new order features Gjpa Tupiraby Huawei Watch Fit 4, Huawei Band 10, Huawei Freebuds Se2 and Huawei Matepad Se11. All of this is designed to meet the needs of all, from youth to professional experts who respect the novelty and credibility.
+
+Commenting on the introduction, Singer Sri Lanka PLC Group Managing Director Mahesh Wijewardena said:
+
+Through this Huawei line, we offer not only devices but also the tools that make people wise and healthy life. Each product avoids the status quo to choose between beautiful design and advanced technology and selects customers' appearance and operation. ” Said.
+
+...
+
+[Data](articles/5b4fa4ab.json)
+
+[Extended Data](ext_articles/5b4fa4ab.ext.json)
+
+---
 
 ### 164 Duped in Kalmunai: CID Cracks Down on Multi-Million Rupee Scam
 
@@ -40,6 +150,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/29fdb0c8.json)
+
+[Extended Data](ext_articles/29fdb0c8.ext.json)
 
 ---
 
@@ -59,6 +171,110 @@ The talks focused on strengthening trade, investment and economic cooperation be
 
 [Data](articles/e0fa4b5a.json)
 
+[Extended Data](ext_articles/e0fa4b5a.ext.json)
+
+---
+
+### Eastern University Teachers' Association
+
+*2025-09-30 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226484) · `ta`
+
+The Eastern University Teachers Association has been carrying out the workforce from the 29th of this month condemning the action of the Chairman of the University of Grants Commission.
+
+The Eastern University Teachers' Association (TEEU) University Grants Commission, Chairman of the Commission, Senior Professor Kapila Seneviratne has been launching a boycott of the identity work on 29-09-2025.
+
+The University Grants Commission removed the first deity of the Degree Faculty, showing that there was no recognized workplace by the Department of Management Service.. However, another dean at the University of Eastern University had given permission to continue in office without a recognized workplace.. Moreover, the Department of Management Services has been recognized from 20-06-2025 from 20-06-2025, but the University Grants Commission is still pulling out the appointment of the Appeal for short political purposes.
+
+...
+
+[Data](articles/3b34b4cc.json)
+
+[Extended Data](ext_articles/3b34b4cc.ext.json)
+
+---
+
+### Applications for Member Position Applications for Missing Person Office
+
+*2025-09-30 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226489) · `ta`
+
+Applications are requested to fill the vacuum of membership in the Office of Missing Persons (C.A.) at the Office of Missing Persons (Amendment) Act No. 14, 2016, in accordance with the arrangements of the Act.
+
+Applications are requested from those who have the forerunner or other qualifications to accomplish the work of the Office of the Missing Persons.
+
+Www.parliament.lk. Applications of the appointment of members are prepared and properly completed by October 14, 2025, and before the Registration Post Office, the Secretary General, the Constituent Assembly - Office, the Sri Lanka Parliament, the Parliament of Sri Lanka, Sri Jayawardenapura Kotte.. Or should be sent to the email address of the constitutionalcouncil@parliament.lk. The appointment of a member of the Missing Person Office should be referred to as the issue of the left side of the correspondence or the email.
+
+◼️
+
+[Data](articles/cca23adf.json)
+
+[Extended Data](ext_articles/cca23adf.ext.json)
+
+---
+
+### Over 40 students hospitalized following sudden illness during ‘Shramadana’
+
+*2025-09-30 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113074/over-40-students-hospitalized-following-sudden-illness-during-shramadana) · `en`
+
+More than 40 students of the Medirigiriya National School were admitted to the Medirigiriya Base Hospital this morning (30) after suddenly falling ill during a Shramadana campaign.
+
+According to hospital sources, the students had taken part in a program to clean the areas surrounding their classrooms earlier in the day, after which many started itching. Several required hospitalizations for medical treatment.
+
+At present, five students continue to receive in-house treatment, while others have been discharged following treatment.
+
+The school principal has launched an internal investigation into the incident to determine the cause of the students’ sudden illness.
+
+◼️
+
+[Data](articles/01cf7501.json)
+
+[Extended Data](ext_articles/01cf7501.ext.json)
+
+---
+
+### Teachers' Association Struggle in Anura Government - Jaffna University
+
+*2025-09-30 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226483) · `ta`
+
+The Jaffna University Teachers 'Association (Jaffna University Teachers' Association and the Sri Lanka University Teachers 'Association (Jaffna University Teachers' Association (CEB) launched a one -day protest on Tuesday (30).
+
+At 10.15 am, the protest was carried out at 10.15 am to carry out the protests against the entrance of the Jaffna University.
+
+Dr. Wigneswaran, President of the University of the University, said to the media.
+
+We are carrying out this struggle to expedite the solution, as there is delay or pulling in the process of implementing the solutions, as they have agreed and agreed to provide solutions to our issues with the Minister of Education and the President of the Government of today.
+
+University teachers are severely affected by the salary reforms that the government has now brought.
+
+Similarly, the infrastructure of the university has been severely affected by many disasters, including Corona.
+
+...
+
+[Data](articles/5ea9b9c8.json)
+
+[Extended Data](ext_articles/5ea9b9c8.ext.json)
+
+---
+
+### Two arrested with illegal fishing nets in Jaffna
+
+*2025-09-30 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226488) · `ta`
+
+Two suspects have been arrested with prohibited fishing nets ready for sale during a special search operation conducted by the Sri Lanka Navy and the Police Special Task Force in Jaffna on Monday (29).
+
+With the objectives of promoting legal fishing and protecting the livelihood of the fishermen community, the Navy continues to monitor and patrols to prevent illegal fishing.
+
+Accordingly, on September 29, 2025 in Jaffna, the Sri Lankan naval ships Kanjadeva and Velusumana, along with the Jaffna Police Special Task Force (STF), were arrested on September 29, 2025, with 857 banned fishing nets ready for illegal sale.
+
+The suspects, aged 25 and 54, were identified as residents of Kotadi and Chavakachcheri areas in Jaffna.
+
+The suspects and the banned fishing nets have been handed over to the Jaffna Fisheries and Water Resources Department for further legal action.
+
+◼️
+
+[Data](articles/5eedc326.json)
+
+[Extended Data](ext_articles/5eedc326.ext.json)
+
 ---
 
 ### President invites Sri Lankan emerging economic opportunities
@@ -76,6 +292,24 @@ The Sri Lanka Embassy of Japan, the Japanese External Trade Organization (Metro)
 [Data](articles/d2520050.json)
 
 [Extended Data](ext_articles/d2520050.ext.json)
+
+---
+
+### Woman's body recovered while floating in river at Valaichenai
+
+*2025-09-30 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226487) · `ta`
+
+The body of a woman has been recovered on Tuesday (30) after floating in the Valaichenai River on Pasikuda Road, which belongs to the Valaichenai police division in Batticaloa, Valaichenai police said.
+
+A 48 -year -old woman from Valaichenai area was found dead, police said.
+
+The body is being kept at the Valaichenai Resource Hospital and the Valaichenai police are investigating the cause of the death.
+
+◼️
+
+[Data](articles/e76d55b0.json)
+
+[Extended Data](ext_articles/e76d55b0.ext.json)
 
 ---
 
@@ -99,6 +333,24 @@ The paper stresses the need for continued fiscal discipline, prudent macroeconom
 
 ---
 
+### Application to OMP office
+
+*2025-09-30 13:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OMP-அலுவலகத்திற்கு-விண்ணப்பம்-கோரல்/175-365524) · `ta`
+
+The Office of Missing Persons (Missing Person, Fulfillment, and Fulfillment of Tasks) (Amendment) The Missing Person Office (GAA) to fill a vacuum in October 2025 in October 2025;
+
+Applications are requested from the forerunner of the orchestra, or other qualities that have the work of the Office of the Missing Persons.
+
+Http: // (www.parliament.lk). Applications of the appointment of members of the Members of the Members of the Constitutional Council, the Constituent Assembly, the Constituent Assembly, the Office of the Constitutional Council, the Office of the Parliament, the Parliament of Sri Lanka, the Sri Jayawardenapura Gotte, on October 14, 2025, or before the Registration Post Office.. Or to be sent to the email address http: //constitutionalcouncil@parliament.lk. The appointment of a member of the Missing Person Office should be referred to as the issue of the left side of the correspondence or the email.
+
+◼️
+
+[Data](articles/f4c84cfc.json)
+
+[Extended Data](ext_articles/f4c84cfc.ext.json)
+
+---
+
 ### Rajitha's petition thrown to remove Rohitha
 
 *2025-09-30 13:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රහත-ඉවත-කරනනය-රජතග-පතසම-වස-ව/1-680495) · `si`
@@ -119,21 +371,23 @@ The petition has been filed by the former Minister to pose the appointment of Ro
 
 ---
 
-### රෝහිත ඉවත් කරන්නැයි රාජිතගේ පෙත්සම විසි වේ
+### Rajitha's petition thrown to remove Rohitha
 
 *2025-09-30 13:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රහත-ඉවත-කරනනය-රජතග-පතසම-වස-ව/101-680495) · `si`
 
-පසුගිය මහ මැතිවරණයේදී හිටපු අමාත්‍ය පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා තේරී පත්වීම බල රහිත කරන ලෙස ඉල්ලා හිටපු අමාත්‍ය දොස්තර රාජිත සේනාරත්න මහතා විසින් ගොනු කළ තිබූ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට ගැනීමට ග්‍රෙෂ්ඨාධිකරණය ප්‍රතික්ෂේප කළේය.
+Former Minister Rohitha Abeygunawardena, former Minister Rohitha Abeygunawardena, the Supreme Court declined to take the examination filed by former Minister Rohitha Abeygunawardena.
 
-මෙම පෙත්සම අගවිනිසුරු ප්‍රිති පත්මන් සූරසේන, මහින්ද සමයවර්ධන සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගේ සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ සලකා බැලීණ
+The petition was considered in the face of Chief Justice Prahethi Surasena, Mahinda Samuelina and Priyantha Fernando and Priyantha Fernando.
 
-හිටපු අමාත්‍ය දොස්තර රාජ්‍ය සේනාරත්න මහතා විසින් ගොනුකොට තිබූ මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් හිටපු අමාත්‍ය පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේවර්ධන මහතා ඇතුළු පිරිසන් නම් කරනු ලැබ සිටිති.
+Former Minister MP Rohitha Abeywardena, who was filed by former Minister Dr. Ranaratne, has been named as respondents.
 
-පසුගිය පාර්ලිමේන්තු මැතිවරණයේදී කළුතර දිස්ත්‍රික්කයේ ඡන්ද ගණන් කිරීමේදී විවිධ අන්දමේ අක්‍රමිතා සිදුවී ඇති බවත් ඒ අනුව රෝහිත අබේගුණවර්ධන මහතා පත්වීම නීතියට පටහැනි බවත් සඳහන් කරමින්ම පත්විය බලරහිත කරන ලෙස ඉල්ලා හිටපු අමාත්‍යවරයා විසින් මෙම පෙත්සම ගොනු කරනු ලබා ඇත.
+The petition has been filed by the former Minister to pose the appointment of Rohitha Abeygunawardena in the last parliamentary election.
 
 ◼️
 
 [Data](articles/cda4aa89.json)
+
+[Extended Data](ext_articles/cda4aa89.ext.json)
 
 ---
 
@@ -158,6 +412,32 @@ Ice drug buckets and equipment have been seized as they checked the house in the
 [Data](articles/2dbb31f8.json)
 
 [Extended Data](ext_articles/2dbb31f8.ext.json)
+
+---
+
+### Derana Dream Star runner-up Nuwandhika Senarathne to perform national anthem at Women’s World Cup opening ceremony
+
+*2025-09-30 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113073/derana-dream-star-runner-up-nuwandhika-senarathne-to-perform-national-anthem-at-womens-world-cup-opening-ceremony) · `en`
+
+Nuwandhika Senarathne, the first runner-up of Season 9 of the Derana Dream Star singing competition, has been given the honor of singing the Sri Lankan national anthem at the opening ceremony of the 2025 Women’s One Day International (ODI) Cricket World Cup, today (30).
+
+The 13th edition of the Women’s Cricket World Cup, co-hosted by Sri Lanka and India, is scheduled to get underway today.
+
+The tournament will run until November 2 and will feature eight teams competing for the title.
+
+Matches will be held across four venues in India and one venue in Sri Lanka.
+
+The group stage will follow a league format, where each team will play seven matches.
+
+Of Sri Lanka’s seven group-stage matches, five will be held at the R. Premadasa Stadium in Colombo, while two matches will take place in India.
+
+The tournament kicks off with a match between Sri Lanka and India, scheduled to start at 3:00 p.m. today in Guwahati, India.
+
+◼️
+
+[Data](articles/096f6841.json)
+
+[Extended Data](ext_articles/096f6841.ext.json)
 
 ---
 
@@ -243,6 +523,22 @@ He further stated that from Reid Mawatha near the University of the University, 
 
 ---
 
+### SC dismisses FR petition seeking to invalidate Rohitha Abeygunawardena’s MP seat
+
+*2025-09-30 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113072/sc-dismisses-fr-petition-seeking-to-invalidate-rohitha-abeygunawardenas-mp-seat) · `en`
+
+The Supreme Court today (30) dismissed a Fundamental Rights petition filed by former Minister Rajitha Senaratne, which sought a ruling to invalidate the election of former Minister Rohitha Abeygunawardena as a Member of Parliament for the Kalutara District at the last General Election.
+
+The Supreme Court issued the order after considering the submissions presented by both parties, said Ada Derana reporter.
+
+◼️
+
+[Data](articles/ca70e71e.json)
+
+[Extended Data](ext_articles/ca70e71e.ext.json)
+
+---
+
 ### SSP Satish Gamage bailed
 
 *2025-09-30 13:36:28* · [`adalk`](https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරි-සතීෂ්-ගමගේට-ඇප/11-418811) · `si`
@@ -273,6 +569,32 @@ International media reports that 3 people have been killed in the accident cause
 
 ---
 
+### Chinese woman convicted in UK after ‘world’s biggest’ bitcoin seizure
+
+*2025-09-30 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113071/chinese-woman-convicted-in-uk-after-worlds-biggest-bitcoin-seizure) · `en`
+
+A Chinese national has been convicted of playing a key role in what is believed to be the single largest cryptocurrency seizure in the world, worth more than £5bn ($6.7bn).
+
+Zhimin Qian, also known as Yadi Zhang, pleaded guilty on Monday at Southwark Crown Court, London of illegally acquiring and possessing the cryptocurrency.
+
+Between 2014 and 2017, she led a large-scale scam in China by cheating more than 128,000 victims and storing the stolen funds in bitcoin assets, the Metropolitan Police said in a statement.
+
+The Met said the 47-year-old’s guilty plea followed a seven-year probe into a global money laundering web.
+
+A total of 61,000 bitcoins were seized from Qian, the Met said.
+
+The police said the probe began in 2018 after they got a tipoff about the transfer of criminal assets.
+
+Qian had been “evading justice” for five years up to her arrest, which required a complex investigation involving multiple jurisdictions, said Detective Sergeant Isabella Grotto, who led the Met’s investigation.
+
+...
+
+[Data](articles/6d0fd408.json)
+
+[Extended Data](ext_articles/6d0fd408.ext.json)
+
+---
+
 ### Sri Lanka Courts U.S. Investment in Graphite Mining
 
 *2025-09-30 13:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/sri-lanka-courts-u-s-investment-in-graphite-mining) · `en`
@@ -288,6 +610,22 @@ The session featured a presentation by Professor Kusali Gamage, who highlighted 
 [Data](articles/171470dc.json)
 
 [Extended Data](ext_articles/171470dc.ext.json)
+
+---
+
+### Trump visa curbs push US firms to consider shifting more work to India
+
+*2025-09-30 13:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113070/trump-visa-curbs-push-us-firms-to-consider-shifting-more-work-to-india) · `en`
+
+US President Donald Trump’s H-1B visa crackdown will hasten United States firms’ shift of critical work to India, turbocharging the growth of global capability centres that handle operations from finance to research and development, economists and industry insiders say.
+
+The world’s fifth-largest economy is home to 1,700 global capability centres, or more than half the global tally, having outgrown its tech support origins to become a hub of high-value innovation in areas from design of luxury car dashboards to drug discovery.
+
+Trends such as growing adoption of artificial intelligence (AI) and increasing curbs on visas are pushing US firms to redraw labour strategies, with global capability centres in India emerging as resilient hubs blending global skills with strong domestic leadership.
+
+...
+
+[Data](articles/b74b68e5.json)
 
 ---
 
@@ -386,6 +724,26 @@ He expressed his commitment to deepening cooperation under the “Free and Open 
 [Data](articles/b020ae60.json)
 
 [Extended Data](ext_articles/b020ae60.ext.json)
+
+---
+
+### Nobel Prize for Sri Lankan Tea? Ministry of Description
+
+*2025-09-30 13:16:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைத்-தேயிலைக்கு-நோபல்-பரிசு-அமைச்சு-விளக்கம்/175-365523) · `ta`
+
+Speaking of the latest global achievement of Sri Lankan tea, the Ministry of Labor and Entrepreneurship Development has made it clear that the Minister of Nobel Prize was wrongly mentioned.
+
+The Ministry explained that the Minister really referred to Sri Lanka's approval for the most expensive tea sold so far and that it was officially certified as the Guinness World record.
+
+The statement further stated that the Minister's Nobel Peace Prize was a mistake made during his speech.
+
+Sri Lanka recently set a Guinness World Record following the sale of a unique Ceylon Tea Type Achievement Price to bring more international recognition to Sri Lanka's tea industry.
+
+◼️
+
+[Data](articles/81ac24c0.json)
+
+[Extended Data](ext_articles/81ac24c0.ext.json)
 
 ---
 
@@ -1620,339 +1978,5 @@ The Indian Embassy has asked the authorities to take immediate and strong action
 [Data](articles/135afec3.json)
 
 [Extended Data](ext_articles/135afec3.ext.json)
-
----
-
-### India - China Competition and Sri Lanka's liberal
-
-*2025-09-30 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226463) · `ta`
-
-“Deputy Director of the Chinese Center for South Asian Studies in response to Indian concerns. Huang Yunsong, China's investments are not intended to be aimed at militarizing the region. Stories like 'String of Pearls' misrepresent Chinese investments'
-
-◼️
-
-[Data](articles/ed961b9f.json)
-
-[Extended Data](ext_articles/ed961b9f.ext.json)
-
----
-
-### Where Ideas Collide, Leaders Emerge : Season 5 of The Debater with AAT Sri Lanka
-
-*2025-09-30 10:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/where-ideas-collide-leaders-emerge-season-5-of-the-debater-with-aat-sri-lanka) · `en`
-
-COLOMBO (News 1st); The spotlight turned to intellect and eloquence as Season 5 of The Debater with AAT Sri Lanka officially launched its television phase at Stein Studios, Ratmalana. This prestigious competition, known for uniting students from across the nation, continues to champion equal opportunity and the power of ideas.
-
-From over 400 schools, 60 institutions have been selected to compete on this televised platform, representing every province and community—urban and rural alike. The Debater remains a beacon for students to sharpen their critical thinking, public speaking, and leadership skills.
-
-The launch event was attended by key figures who underscored the importance of platforms that nurture young minds:
-
-...
-
-[Data](articles/b53d34ea.json)
-
-[Extended Data](ext_articles/b53d34ea.ext.json)
-
----
-
-### Arrested with heroin: Two more complicity arrested
-
-*2025-09-30 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226460) · `ta`
-
-A suspect in connection with the stealing of several gold jewelery and goods was arrested by the Kelaniya Divisional Investigation Department officials yesterday (29) with heroin.
-
-The suspect has been arrested during a roundup carried out by officials of the Kelaniya Pradeshiya Sr.
-
-Investigations have revealed that the suspect is a 29 -year -old from Kolonnawa.
-
-The suspect has been arrested by the Wellampitiya police in connection with the theft.
-
-During the investigation into the suspect, two suspects, including a woman who had stolen items, were arrested.
-
-The two suspects are 45 and 44 years old from Kolonnawa and Wellampitiya.
-
-The two suspects have been produced at the Peliyagoda police station for further investigations.
-
-◼️
-
-[Data](articles/c627481b.json)
-
-[Extended Data](ext_articles/c627481b.ext.json)
-
----
-
-### Increase in pregnancy
-
-*2025-09-30 09:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயது-குறைந்த-பெண்கள்-கர்ப்பமாவது-அதிகரிப்பு/175-365508) · `ta`
-
-In the Anuradhapura area, the pregnancy of older girls and the proportion of baby mothers is increasing in anxiety, which creates a serious social problem, which causes the authorities to be very worried.
-
-Anuradhapura Police Inspector S.. According to Shyamali, women under the age of age have increased the pregnancy this year compared to the past years.
-
-The committee convened on Sunday (28) at the District Secretariat Auditorium, headed by Additional District Secretary Shamila Wickramarachchi to take up the problems that affect children and women.
-
-The Additional District Secretary pointed out that teachers are still using social media networks and the Internet for school education activities and that children are in danger.
-
-He emphasized the need to provide adequate facilities, including more schools for the education of children with special needs. He pointed out that a malfunction plan was created as specified in the instructions of the circular.
-
-...
-
-[Data](articles/f434b1cd.json)
-
-[Extended Data](ext_articles/f434b1cd.ext.json)
-
----
-
-### Ceying 40th Anniversary Celebrating 4,000 trees
-
-*2025-09-30 09:54:49* · [`adalk`](https://www.ada.lk/business/CSE-40-වැනි-සංවත්සරය-සමරමින්-ගස්-4-000ක-වන-වගා-ව්‍යාපෘතියක්/7-418805) · `si`
-
-The Colombo Stock Exchange (CSE) has signed a Undahamatha Exchange, a profit-intended environmental organization for an unique CSR project to celebrate its 40th anniversary.
-
-Under the theme of "4,000 years celebrate 40 years", the project is to be cultivated for long-term forest conservation and environmental jungle.
-
-The International "Bonarapa Challenge" aimed at re-forestry by the Colombo Stock Exchange, which is aimed at re-forest, contributes to the target of the target of the Colombo Stock Exchange.. The project site is located in the Rajawaka area and is rich in elephants, leopards, natural beekeys, natural beekees and other species of organisms and biodiversity.
-
-...
-
-[Data](articles/31cfb498.json)
-
-[Extended Data](ext_articles/31cfb498.ext.json)
-
----
-
-### Cey of CSE celebrates 40th anniversary cultivation project
-
-*2025-09-30 09:54:49* · [`adalk`](https://www.ada.lk/business/CSE-හි-40-වැනි-සංවසරය-සමරමින්-ගස්-4-000ක-වන-වගා-ව්‍යාපෘතියක්/7-418805) · `si`
-
-The Colombo Stock Exchange (CSE) has signed a Undahamatha Exchange, a profit-intended environmental organization for an unique CSR project to celebrate its 40th anniversary.
-
-Under the theme of "4,000 years celebrate 40 years", the project is to be cultivated for long-term forest conservation and environmental jungle.
-
-The International "Bonarapa Challenge" aimed at re-forestry by the Colombo Stock Exchange, which is aimed at re-forest, contributes to the target of the target of the Colombo Stock Exchange.. The project site is located in the Rajawaka area and is rich in elephants, leopards, natural beekeys, natural beekees and other species of organisms and biodiversity.
-
-...
-
-[Data](articles/e79728c8.json)
-
-[Extended Data](ext_articles/e79728c8.ext.json)
-
----
-
-### Nation Reimagined by Its Youngest Dreamers
-
-*2025-09-30 09:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/nation-reimagined-by-its-youngest-dreamers) · `en`
-
-COLOMBO (News 1st); A new chapter for Sri Lanka is being written—not by politicians, but by its future. On Sunday (28), the voices of children echoed across Viharamahadevi Park, as Sirasa TV, in collaboration with Munchee, hosted a vibrant and visionary celebration titled “Sirasa - Munchee Tikiri Punchi Lokaya” to mark World Children’s Day.
-
-This year’s celebration was unlike any before. It was shaped entirely by the children themselves. Beginning on September 11, Sirasa TV embarked on a nationwide journey, covering all 25 districts, gathering ideas, dreams, and visions from schoolchildren about the kind of future they want to build.
-
-From thousands of submissions, ten standout paintings—each a visual manifesto of hope and progress—were awarded today. These artworks reflected the children’s aspirations for a modern, inclusive, and creative Sri Lanka.
-
-The inaugural ceremony was graced by a distinguished panel of guests, each representing a pillar of Sri Lanka’s development:
-
-...
-
-[Data](articles/0f4f5fb4.json)
-
-[Extended Data](ext_articles/0f4f5fb4.ext.json)
-
----
-
-### President Discussion with Japan's leading traders
-
-*2025-09-30 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226461) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to the Japanese government, held a discussion with Japan's leading traders at the Foreign Trade Organization (JETRO) headquarters on Monday (29).
-
-The discussion was held with the participation of Ishiguro Norihiko, the Chairman of the Japanese Foreign Trade Organization (JTO), including the Chairman of the Japanese Sri Lanka Trade Cooperation Committee (JSLBCC) and the president of the ITOCHU, Fumihiko Kabayashi.
-
-Speaking about the new investment opportunities in Sri Lanka, President Anura Kumara Dissanayake made clear the current government's steps to create an investment in the country and eradicate fraud and corruption.
-
-The President further pointed out the need to improve trade cooperation between Sri Lanka and Japan as the main economic partner of Sri Lanka and the mutual benefits that can be obtained through it.
-
-...
-
-[Data](articles/38cca465.json)
-
-[Extended Data](ext_articles/38cca465.ext.json)
-
----
-
-### Queen of World Located Katunayake
-
-*2025-09-30 09:51:38* · [`adalk`](https://www.ada.lk/picture_story/ලෝක-විවාහක-රූ-රැජින-කටුනායකට/10-418804) · `si`
-
-The World Judge, which won the 2025 Sri Lankan married queen, was won by the World Judge, which won the first place in 2024, to the Katunayake airport in 2024.
-
-The tournament will be held from 09 09/30 to 10/02. Shego Gaale was 5.05 pm on Dubai from Dubai to 05.05 pm to the Emirates Airport on the Katunayake Airport.
-
-The Sri Lanka Marriage Queen Ishadi Amanda, the National Organizer of the World Marriage, and the tournament of the tournament in the tournament of the tournament in 2024.
-
-◼️
-
-[Data](articles/2741e138.json)
-
-[Extended Data](ext_articles/2741e138.ext.json)
-
----
-
-### President Meeting with Japan's leading traders
-
-*2025-09-30 09:49:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-முன்னணி-வர்த்தகர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-365506) · `ta`
-
-President Anura Kumara Dissanayake, who has made an official visit to the Japanese government, held a discussion with Japan's leading traders at the Foreign Trade Organization (JETRO) headquarters on Monday (29).
-
-The discussion was held with the participation of Ishiguro Norihiko, the Chairman of the Foreign Trade Organization of Japan and the President of the Japanese Trade Cooperation Committee (JSLBCC), and the president of the ITOCHU, Fumihiko Kabayashi.
-
-Speaking about the new investment opportunities in Sri Lanka, President Anura Kumara Dissanayake made clear the current government's steps to create an investment in the country and eradicate fraud and corruption.
-
-The President further pointed out the need to improve trade cooperation between Sri Lanka and Japan as the main economic partner of Sri Lanka and the mutual benefits that can be obtained through it.
-
-...
-
-[Data](articles/e6b16572.json)
-
-[Extended Data](ext_articles/e6b16572.ext.json)
-
----
-
-### Asian bowl
-
-*2025-09-30 09:47:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஆசிய-கிண்ணத்தில்-அறம்-இழந்த-விளையாட்டு-அறம்/62-365505) · `ta`
-
-◼️
-
-[Data](articles/ceae08cd.json)
-
-[Extended Data](ext_articles/ceae08cd.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-30 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242218/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.55/70 to the US dollar on Tuesday, weaker from 302.55/60 on the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/72 percent, up from 9.68/72 percent.
-
-A bond maturing on 01.11.2033 was quoted at 10.70/80 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.77/84 percent.
-
-The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.0000 selling; the British pound was 400.3909 buying, and 411.7527 selling, and the euro was 348.1570 buying, 359.5202 selling.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.18 percent, or 40.05 points, at 21,716; the S&P SL20 was up 0.09 percent, or 5.39 points, at 6,124.
-
-43,000 million rupees Treasury bills are to be issued through an auction on October 1. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/793fc582.json)
-
-[Extended Data](ext_articles/793fc582.ext.json)
-
----
-
-### Three Sri Lankans arrested in Bangalore
-
-*2025-09-30 09:44:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்-மூவர்-பெங்களூரில்-கைது/175-365504) · `ta`
-
-Three Sri Lankans - Iresh Hasanka, Sukat Samindu and Dileep Harshana, have been arrested by the Bangalore Central Crime Division of India last year.
-
-◼️
-
-[Data](articles/7b5747c0.json)
-
-[Extended Data](ext_articles/7b5747c0.ext.json)
-
----
-
-### Trump and Netanyahu agree with a new peace plan in Gaza
-
-*2025-09-30 09:41:49* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්-සහ-නෙතන්යාහු-ගාසා-තීරයේ-නව-සාම-සැලැස්මකට-එකඟ-වෙයි/11-418803) · `si`
-
-American president Donald Trump and Israeli Prime Minister Benjamin Netanyahu have agreed to a new peace plan for Gaza.
-
-According to the plan, military operations are proposed to be immediately exempted and the bodies of the hostages who believe that 20 are living Israeli hostages and death have been killed within 72 hours.
-
-◼️
-
-[Data](articles/ab1a7cef.json)
-
-[Extended Data](ext_articles/ab1a7cef.ext.json)
-
----
-
-### Gold hits fresh record above $3,800 on US shutdown fears
-
-*2025-09-30 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113061/gold-hits-fresh-record-above-3800-on-us-shutdown-fears) · `en`
-
-Gold edged higher to a fresh record as the prospect of a looming US government shutdown clouded the Federal Reserve’s monetary policy path ahead of next month’s interest-rate decision.
-
-Bullion briefly touched an all-time high of $3,839.52 an ounce on Tuesday. Gold rallied in the previous session as a meeting between top congressional leaders and US President Donald Trump ended without a deal on short-term funding. That’s fanned fears of a shutdown, which could hinder the release of economic reports — depriving investors of crucial data needed to assess the US economy.
-
-Gold has soared more than 45% this year, setting successive peaks on central-bank demand and a resumption of interest-rate cuts by the Fed. Prices are on track to close out a third consecutive quarterly gain, with holdings in bullion-backed exchange-traded funds at the highest since 2022.
-
-...
-
-[Data](articles/732d8fb1.json)
-
-[Extended Data](ext_articles/732d8fb1.ext.json)
-
----
-
-### Two persons arrested for drug trafficking in Kalutara
-
-*2025-09-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226459) · `ta`
-
-On September 27, a group of Criminal Investigation Department officials arrested two persons involved in drug trafficking and organized criminal activity.
-
-During a thorough investigation by the police, 12 guns, 02 bullets, 10 grams of heroin, a motorcycle used to transport drugs, 04 motorcycle licenses, 02 vehicle income tax permits and 02 insurance were seized.
-
-Investigations have revealed that the suspects were 24 and 30 years old from the Kalutara area.
-
-◼️
-
-[Data](articles/91569274.json)
-
-[Extended Data](ext_articles/91569274.ext.json)
-
----
-
-### Sri Lanka operates Hakka tissue and Chinese bills
-
-*2025-09-30 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215164) · `si`
-
-The law is strictly implemented against people who are illegally produced by the Chinese bulsystems and the Chinese bulses.
-
-◼️
-
-[Data](articles/c7060bf7.json)
-
-[Extended Data](ext_articles/c7060bf7.ext.json)
-
----
-
-### Rural Roads in Kurunegala Pradeshiya. Blood. 10 kudamma's desired
-
-*2025-09-30 09:30:52* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ග-ඉදිකිරීමේදී-කුරුණෑගල-ප්‍රා--ලේ--10කට-කුඩම්මාගේ-සැලකිළි/11-418802) · `si`
-
-Under the Rural Road Development Program (2024) under the Rural Road Development Program (2024), there were 98 projects, 78 projects were implemented in the Kurunegala area.
-
-The provision of allocations should be designed to be allocated equalities in the area of ​​the district of Kurunegala District.. However, no road development project had not been planned or implemented in the 10 local secretariats in Giribawa, Galgamuwa, Ehewawewa, Mahawa, Mahawa, Mahawa, Ganewatta, Mawathagama, Maspotha and Kuliyapitiya (West).
-
-Under this program, the allocation was allocated to the year (Rs.   The program was launched to develop the village and the city to develop road network systems.
-
-This information is included in the audit report of the performance report issued by the District Secretariat in Kurunegala.
-
-◼️
-
-[Data](articles/85c9cfec.json)
-
-[Extended Data](ext_articles/85c9cfec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 22:11:08**
+As of **2025-09-30 22:22:09**
 
 ## Newspaper Stats
 
-*Scraped **79,979** Articles*
+*Scraped **79,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,13 +21,13 @@ adalk | 7,697
 adaderanalk | 10,316
 tamilmirrorlk | 11,952
 virakesarilk | 13,048
-adaderanasinhalalk | 13,827
+adaderanasinhalalk | 13,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,978 (100.0%) of 79,979 articles have been extended.
+79,979 (100.0%) of 79,980 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,28 @@ COLOMBO (News 1st); According to the Ceylon Petroleum Cooperation, Fuel prices w
 ◼️
 
 [Data](articles/ff08bca1.json)
+
+[Extended Data](ext_articles/ff08bca1.ext.json)
+
+---
+
+### ජනපති හා ජපාන - ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය අතර හමුවක්
+
+*2025-09-30 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215197) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එරට නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් උදෑසන භෝජන සංග්‍රහයක්  ටෝකියෝහි ඉම්පීරියල් හෝටලයේදී අද (30) පැවැත්විණි.
+
+ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු  ලීගය විසින් මෙම උදෑසන භෝජන සංග්‍රහය සංවිධානය කරනු ලැබ තිබිණි.
+
+දෙරටේ පාර්ලිමේන්තුවල සාමාජිකයන් අතර පවතින සහයෝගීතාව තවදුරටත් ශක්තිමත් කිරීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා සමඟ සමීපව කටයුතු කිරීමට බලාපොරොත්තු වන බව ජපාන - ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගයේ සභාපති යොෂිතාකා ෂින්ඩෝ (Yoshitaka Shindo) සහ මහලේකම් යුකෝ ඔබුචි (Yuko Obuchi) යන මහත්ම මහත්මීහු මෙහිදී ප්‍රකාශ කළහ.
+
+දෙරටේ අන්‍යෝන්‍ය ප්‍රතිලාභ සඳහා දේශපාලන, ආර්ථික සහ සංස්කෘතික ක්ෂේත්‍ර ඔස්සේ සහයෝගීතාව ශක්තිමත් කිරීමට කටයුතු කරන බවද ඔවුහු වැඩිදුරටත් පැවසූහ.
+
+ජපාන - ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය ජපානයේ හිටපු අග්‍රාමාත්‍ය කෙයිසෝ ඔබුචි (Keizo Obuchi) මහතාගේ මූලිකත්වයෙන් 1982 වසරේ දී ස්ථාපිත කරන ලද්දකි.
+
+...
+
+[Data](articles/04cc4b6b.json)
 
 ---
 
@@ -1958,27 +1980,5 @@ He added that the export-centered agriculture is in the country.
 [Data](articles/30e64794.json)
 
 [Extended Data](ext_articles/30e64794.ext.json)
-
----
-
-### Sajith Key the story about the locked boss
-
-*2025-09-30 14:49:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ව-කලල-කන-ලකකන-ගන-සජත-ක-කතව/101-680501) · `si`
-
-Opposition Leader Sajith Premadasa said that the ministers were in the opposition and a guaranteed prices to the stalk.
-
-However, after he came to power, he said.
-
-He said that a group of powers would buy and buy paddy today.
-
-Opposition Leader said this in Hingurakgoda
-
-He added that the export-centered agriculture is in the country.
-
-◼️
-
-[Data](articles/3144ea5e.json)
-
-[Extended Data](ext_articles/3144ea5e.ext.json)
 
 ---

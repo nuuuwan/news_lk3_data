@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 09:23:25**
+As of **2025-09-30 09:39:06**
 
 ## Newspaper Stats
 
-*Scraped **79,716** Articles*
+*Scraped **79,722** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 480
+lankadeepalk | 485
 newsfirstlk | 494
 dbsjeyarajcom | 635
 bbccomsinhala | 710
@@ -21,17 +21,51 @@ adalk | 7,669
 adaderanalk | 10,287
 tamilmirrorlk | 11,922
 virakesarilk | 12,998
-adaderanasinhalalk | 13,793
+adaderanasinhalalk | 13,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,713 (100.0%) of 79,716 articles have been extended.
+79,716 (100.0%) of 79,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### තාවකාලික රියදුරු බලපත්‍ර අද සිට නුගේගොඩ ජාතික ප්‍රවාහන වෛද්‍ය ආයතනයෙන්
+
+*2025-09-30 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215163) · `si`
+
+රියදුරු බලපත්‍ර අලුත් කිරීමේදී අද (30) සිට බලපැවැත්වෙන පරිදී නුගේගොඩ ජාතික වෛද්‍ය ප්‍රවාහන ආයතනයෙන් නිකුත් කිරීමට තීරණය කර තිබේ.
+
+ඒ අනුව නියමු ව්‍යාපෘතියක් ලෙස අද සිට මෙ ආරම්භ කරන බවත් රියදුරු බලපත්‍රයේ යම් වෙනස්කමක් සිදු කිරීමට අවශ්‍ය නොවන්නේ නම් තාවකාලික රියදුරු බලපත්‍රය එම ආයතනයෙන් ලබා ගත හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+
+තාවකාලික රියදුරු බලපත්‍ර අයදුම්කරුවන් වේරහැර මෝටර් රථ ප්‍රවාහන කාර්යාලයට පැමිණීම අවශ්‍ය නොවන බවත් එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8482c199.json)
+
+---
+
+### තලල්ල වෙරළ ජාත්‍යන්තරයට
+
+*2025-09-30 09:05:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තලලල-වරළ-ජතයනතරයට/101-680450) · `si`
+
+මාතර දෙවිනුවර දිගු රන්වන් දුඹුරු වැලි සහිත වෙරළ තීරයක් වන තලල්ල වෙරළ තීරය ජාත්‍යන්තර සහතික ලාභී නිල්ධජ වෙරළ තීරයක් බවට පත් කිරීමේ ව්‍යාපෘතිය තලල්ල වෙරළ තීරයේදී ආරම්භ කෙරිණි.
+
+Clean Sri Lanka වැඩසටහන යටතේ සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය මඟින් මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කරනු ලබයි.
+
+අන්තර් ජාතික නිල්ධජ වෙරළ පාරිසරික සහතිකය යනු, ලෝකයේ වෙරළ තීර වල පාරිසරික සංරක්ෂණය, ජල තත්ත්වය, පාරිසරික දැනුවත් වීම, ආරක්ෂාව හා සේවා පිළිබඳ තත්ත්වය මත ලබාදෙන පාරිසරික සහතිකයකි. නිල්ධජ වෙරළ තීරයක් ලෙස මෙම වෙරළ තීරය සංවර්ධනය කරමින් සංචාරක ආකර්ෂණය ඉහළ නංවා, රටේ ආර්ථික වර්ධන ඉලක්ක සාක්ෂාත් කර ගැනීමෙහිලා මෙකී වැඩසටහන සුවිශේෂී දායකත්වයක් සපයනු ඇත.
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති, පරිසර අමාත්‍ය  වෛද්‍ය ධම්මික පටබැඳි, ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රසල් අපොන්සු, මාතර දිස්ත්‍රික් ලේකම් චන්දන තිලකරත්න, සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරියේ සභාපති සමන්ත ගුණසේකර යන මහත්වරු  සහ රාජ්‍ය හා රාජ්‍ය නොවන සංවිධානවල නියෝජිතයෝ ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/d27168b1.json)
+
+---
 
 ### President Dissanayake to Conclude Japan Visit with Key Bilateral Agreements
 
@@ -63,6 +97,36 @@ Foreign, Foreign Employment and Tourism and Tourism Vijitha Herath and the Sri L
 
 ---
 
+### ජනපති- ජපාන ආරක්ෂක ඇමති හමු වෙයි
+
+*2025-09-30 09:01:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-ආරකෂක-ඇමත-හම-වය/101-680449) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපාන ආරක්ෂක අමාත්‍ය ඩී එම් නකටානි (DM Nakatani) මහතා හමුවී සාකච්ඡාවක නිරත විය.
+
+දෙරටේ දීර්ඝ කාලීන මිත්‍රත්වය, කලාපීය ආරක්ෂාව සහ ආරක්ෂක කටයුතු සම්බන්ධව ශ්‍රී ලංකාව සහ ජපානය අතර පවතින සහයෝගීතාව තව දුරටත් ශක්තිමත් කිරීම පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු ශ්‍රී ලංකා නියෝජිත පිරිසද මෙම අවස්ථාවට එක් වූහ.
+
+◼️
+
+[Data](articles/c7ba5c2f.json)
+
+---
+
+### ගල් අඟුරු ව්‍යාපෘතියේ වාහන හයක් අතුරුදන්
+
+*2025-09-30 08:30:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගල-අඟර-වයපතය-වහන-හයක-අතරදන/101-680448) · `si`
+
+පුත්තලම ගල් අඟුරු ව්‍යාපෘතිය වෙනුවෙන්  කෝටි 12 කට වැඩි මුදලක් වැයකර  මිලදීගත් වාහන 6ක්  කොන්ත්‍රාත්කරු මේ වනතුරුද විදුලි බල මණ්ඩලයට බාරදී  නැති බව  වාර්තාවේ.
+
+ව්‍යාපෘතිය අවසන් වීමෙන් අනතුරුව මෙම වාහන ගිවිසුම ප්‍රකාරව විදුලිබල මණ්ඩලයට පවරා දිය යුතු  වුවත්   තවමත් එම වාහන විදුලිබල මණ්ඩලයට පවරාදී  නොමැත.  මෙහිදී පොදු දේපළ අවභාවිත වීමක් සිදුව ඇති හෙයින්  මේ සම්බන්ධයෙන් අවශ්‍ය ඉදිරි පියවර ගන්නා ලෙස කෝප් කාරක සභාව විදුලි බල මණ්ඩලයට නිර්දේශ කර ඇත.
+
+◼️
+
+[Data](articles/0afdda66.json)
+
+---
+
 ### Six vehicles of coal project
 
 *2025-09-30 08:30:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගල-අඟර-වයපතය-වහන-හයක-අතරදන/1-680448) · `si`
@@ -79,6 +143,20 @@ After the end of the project, the Electricity Board should be handed over to the
 
 ---
 
+### ලංවිම ගිල්ල සල්ලි මල්ල
+
+*2025-09-30 08:28:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලවම-ගලල-සලල-මලල/101-680447) · `si`
+
+විදුලි බල මණ්ඩලය2014 වර්ෂයේ සිට 2022 වර්ෂය දක්වා  රුපියල් කෝටි  පනස් නව දහසකට වැඩි  පාඩුවක් ලබා ඇතැයි පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ දී (කෝප් කමිටුව) තොරතුරු අනාවරණය විය
+
+මේ පිළිබඳ තොරතුරු අනාවරණය වූයේ ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ 2022 සහ 2023 වර්ෂයන්ට අදාළ විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති  පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගියදා (24) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/9486ac15.json)
+
+---
+
 ### CEB Gill cut off
 
 *2025-09-30 08:28:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලවම-ගලල-සලල-මලල/1-680447) · `si`
@@ -92,6 +170,22 @@ The COPE Committee on the Parliamentary Committee (COPE) has detected more than 
 [Data](articles/d3a748ab.json)
 
 [Extended Data](ext_articles/d3a748ab.ext.json)
+
+---
+
+### අද කාලගුණය
+
+*2025-09-30 08:26:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680446) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/8a42ce8e.json)
 
 ---
 
@@ -1243,19 +1337,21 @@ He said that there is any attempt to sabotage the investigations of bribery or c
 
 ---
 
-### අල්ලසේ රංගගෙන් නන්දනට පිළිතුරක්
+### Nandana reply from the bribe
 
 *2025-09-29 21:50:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අලලස-රගගන-නනදනට-පළතරක/1-680441) · `si`
 
-තමා ජනතා විමුක්ති පෙරමුණේ කිසිම වැඩ පිළිවෙලකට තමා කිසිම අවස්ථාවක සම්බන්ධ වී නැතැයි අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් රංග දිසානායක මහතා පැවසීය .
+The Director General of Bribery Commission, the Director General of Bribery Commission, the Director General of Bribery Commission, he said he had never been involved in any program of the JVP.
 
-නන්දන ගුණතිලක මහතාගේ ප්‍රකාශය කිසිම පදනමක් නැති එකක් බවද ඔහු ප්‍රකාශ කළේය.
+He said that Mr. Nandana Gunatilleke's statement is lacking.
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් ආරම්භ කරන ලද විමර්ශන කඩාකප්පල් කිරීමේ කිසියම් උත්සාහයක් පවතින බවද  හෙතෙම  සඳහන් කරයි. මේ කාරණය සම්බන්ධයෙන් කොමිසමේ අවධානයට යොමු කිරීමට අධ්‍යක්ෂ ජනරාල්වරයා  බලාපොරොත්තු වෙයි.
+He said that there is any attempt to sabotage the investigations of bribery or corruption.. The Director General expects the Commission to address the matter.
 
 ◼️
 
 [Data](articles/d0d1888b.json)
+
+[Extended Data](ext_articles/d0d1888b.ext.json)
 
 ---
 
@@ -1281,21 +1377,25 @@ In general, in the development of Tamil language, the Tamil ethnic development a
 
 ---
 
-### ජනපතිගෙන් ජපන් ආයෝජකයන්ට ඇරැයුමක්
+### President to visit Japanese investors
 
 *2025-09-29 21:47:03* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපතගන-ජපන-ආයජකයනට-ඇරයමක/1-680440) · `si`
 
-ජපාන නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ජපාන විදේශ වෙළෙඳ සංවිධාන (JETRO) මූලස්ථානයේදී ජපානයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයින් සමඟ වට මේස සාකච්ඡාවකට එක් විය.
+President Anura Kumara Dissanayake is on a Japanese Foreign Organization at the Jetro, headquarters in Jetro, headquarters.
 
-ජපාන විදේශ වෙළඳ සංවිධානයේ (JETRO)  සභාපති  සහ ප්‍රධාන විධායක නිලධාරී ඉෂිගුරො නොරිහිකො (ISHIGURO Norihiko) මහතාගේ සහභාගීත්වයෙන් පැවති මෙම සාකච්ඡාව සඳහා ජපන් ශ්‍රී ලංකා ව්‍යාපාරික සහයෝගිතා කමිටුවේ (JSLBCC) සභාපති සහ ITOCHU සමාගමේ සභාපති  ෆුමිහිකො කොබයාෂි (Fumihiko Kabayashi) මහතා ඇතුළු පිරිසක් එක්ව සිටියහ.
+The discussion was held by the Japanese foreign trade organization (JSLBCC) and the President of the Japanese Sri Lanka Business Co-operation Committee (JSLBCC) and the President of the ITOCC.
 
-ශ්‍රී ලංකාවේ පවතින නව ආයෝජන අවස්ථා පිළිබඳ මෙහිදී පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා රටේ ආයෝජන හිතකර පරිසරයක් ගොඩනඟමින් වංචා සහ දූෂණය පිටුදැකීමට වත්මන් රජය  ගෙන ඇති පියවරද පැහැදිලි කළේය.
+President Anura Kumara Dissanayake, pointed out on new investment opportunities in Sri Lanka, explained the present government to build a favorable environment in the country and to eliminate fraud and corruption.
 
-ශ්‍රී ලංකාවේ ප්‍රධාන ආර්ථික හවුල්කරුවකු ලෙස ශ්‍රී ලංකාව සහ ජපානය අතර වෙළෙඳ සහයෝගීතාව තවදුරටත් ඉහළ නංවා ගැනීමේ අවශ්‍යතාව සහ එමගින් අන්‍යෝන්‍ය වශයෙන් හිමිවන ප්‍රතිලාභ පිළිබඳවද ජනාධිපතිවරයා මෙහිදී වැඩිදුරටත් පෙන්වා දුන්නේය.
+The President also pointed out the need to further enhance trade cooperation between Sri Lanka and Japan as a major economic partner in Sri Lanka and the benefits of it.
 
-...
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Government Adviser on Duminda Wijesuruwa, Duminda Wijesuruwa, Duminda Hulangamuwa and Senior Officials of the Ministry of External Affairs.
+
+◼️
 
 [Data](articles/2234a31f.json)
+
+[Extended Data](ext_articles/2234a31f.ext.json)
 
 ---
 
@@ -1321,23 +1421,25 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath, Gove
 
 ---
 
-### අයි.එම්.එෆ්- රජයේ ප්‍රතිසංස්කරණ ප්‍රගතිය අගයයි
+### IMF - Government Reform Progresses Progress
 
 *2025-09-29 21:44:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අය-එම-එෆ-රජය-පරතසසකරණ-පරගතය-අගයය/1-680439) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහා වන මෙහෙයුම් මණ්ඩල ප්‍රධානී,  Evan Papageorgiou මහතා  අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය අද (29)හමුවිය.
+The International Monetary Fund (IMF) is headed by Evan Papgergio at Temple Trees.
 
-රජය විසින් ක්‍රියාත්මක කරනු ලබන ප්‍රතිසංස්කරණ වැඩසටහනේ ප්‍රගතිය එහිදී  ඔහුගේ ඇගයීමට ලක් වූ අතර, විශේෂයෙන්ම පාලනය ශක්තිමත් කිරීමට සහ දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව  ප්‍රශංසා පළ කළේය.
+The progress of the government's reform program was evaluated, especially the actions taken to strengthen and reduce corruption.
 
-බදු ප්‍රතිපත්ති ප්‍රතිසංස්කරණ වල වැදගත්කම,  බදු නිදහස් කිරීම් (tax exemptions) සම්බන්ධයෙන් ගෙන ඇති පියවර පිළිබඳව ද ඔහු සිය අවධානය යොමු කළේය.
+He also paid attention to the steps taken in relation to the importance of tax policy reforms, tax exemptions (TAX Exemptions).
 
-එසේම, 2026 ජාතික අයවැයෙන් සමාජ ආරක්ෂණ පද්ධතිය සඳහා සම්පත් වෙන් කිරීම ද පැපජෝර්ජියු මහතාගේ ඇගයුමට ලක් විය.
+Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
 
-2026 අයවැයෙන් ජනතාව සවිබල ගැන්වීමට පියවර ගැනීමේ වැදගත්කම මෙහිදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අවධාරණය කළාය.
+Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
 
 ◼️
 
 [Data](articles/3a2cd0fb.json)
+
+[Extended Data](ext_articles/3a2cd0fb.ext.json)
 
 ---
 
@@ -1884,137 +1986,5 @@ All forms of public transport services were also suspended today. A large protes
 [Data](articles/1d9946b8.json)
 
 [Extended Data](ext_articles/1d9946b8.ext.json)
-
----
-
-### A tax of a per cent to cinema from Trump
-
-*2025-09-29 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215148) · `si`
-
-US President Donald Trump has said that a 100% column for all films produced outside the US.
-
-Foreign media states said that these duty was imposed, and how to impose.
-
-According to technology media, if the duties are imposed by President Donald Trump, it will be the first time that the duties imposed a service.
-
-◼️
-
-[Data](articles/6aca1304.json)
-
-[Extended Data](ext_articles/6aca1304.ext.json)
-
----
-
-### Donald Trump to impose 100% tariffs on films made outside US, threatens levy on furniture
-
-*2025-09-29 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113041/donald-trump-to-impose-100-tariffs-on-films-made-outside-us-threatens-levy-on-furniture) · `en`
-
-US President Donald Trump said on Monday (Sep 29) he would impose a 100 per cent tariff on all foreign-made movies, an unprecedented move that threatens to upend Hollywood’s global business model.
-
-The step signals Trump’s willingness to extend protectionist trade policies into cultural industries, raising uncertainty for studios that depend heavily on international box-office revenue and cross-border co-productions.
-
-Trump announced the measure in a post on his Truth Social platform, claiming US movie-making is losing ground to international competition.
-
-“Our movie making business has been stolen from the United States of America, by other Countries, just like stealing candy from a baby,” he wrote.
-
-However, it was not immediately clear what legal authority Trump would use to impose a 100 per cent tariff on foreign-made films.
-
-...
-
-[Data](articles/e931a812.json)
-
-[Extended Data](ext_articles/e931a812.ext.json)
-
----
-
-### Red light to electricity from COPE committee
-
-*2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කප-කමටවන-වදලයට-රත-එළයක/101-680434) · `si`
-
-The Parliament Select Committee of the Commonwealth Parliament (Coop Committee) has shown that the company's restructuring can cause serious problems in the future.
-
-Chairman of the COPE committee, Dr. Nishantha Samaraweera, Chairman of the COPE
-
-එල්ටීඑල් සමාගමේ කොටස් වෙස්ට් කොස්ට් ආයතනය සහ  ඊසොට්  සමාගම යන ආයතන වලට බෙදී  ඇති  අාකාරය සහ ඒවායේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ගැටලු පවතින බවද ඔහු සඳහන් කළේය.
-
-The committee members of the committee also pointed out that the division of partition as well as its functionality is very obscure.
-
-As a result, the Lecturer and officials should act quickly to explain this situation.
-
-The LTTE also decided to summon the COPE meeting on 24th of this month.
-
-◼️
-
-[Data](articles/0703a720.json)
-
-[Extended Data](ext_articles/0703a720.ext.json)
-
----
-
-### Red light to electricity from COPE committee
-
-*2025-09-29 19:15:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කප-කමටවන-වදලයට-රත-එළයක/1-680434) · `si`
-
-The Parliament Select Committee of the Commonwealth Parliament (Coop Committee) has shown that the company's restructuring can cause serious problems in the future.
-
-Chairman of the COPE committee, Dr. Nishantha Samaraweera, Chairman of the COPE
-
-He also said that the LTTE's shares have problems with the controversial and the operational of ECot Company.
-
-The committee members of the committee also pointed out that the division of partition as well as its functionality is very obscure.
-
-As a result, the Lecturer and officials should act quickly to explain this situation.
-
-The LTTE also decided to summon the COPE meeting on 24th of this month.
-
-◼️
-
-[Data](articles/591e413f.json)
-
-[Extended Data](ext_articles/591e413f.ext.json)
-
----
-
-### President Anura Kumara meets Japanese FM Katsunobu Katō in Tokyo
-
-*2025-09-29 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/113040/president-anura-kumara-meets-japanese-fm-katsunobu-kat333-in-tokyo) · `en`
-
-President Anura Kumara Dissanayake, who is currently engaged in an official visit to Japan has met Japanese Finance Minister Katsunobu Katō this afternoon (29) at the Imperial Hotel in Tokyo for bilateral discussions.
-
-The discussions between the two factions focused on strengthening trade, investment and economic cooperation between the two countries, the President’s Media Division said.
-
-The President and the Japanese Finance Minister also reviewed ongoing projects and future initiatives in Sri Lanka under Japanese aid/JICA cooperation during the meeting.
-
-Earlier today, President Anura Kumara Dissanayake also held discussions with the Prime Minister of Japan, Ishiba Shigeru in Tokyo.
-
-◼️
-
-[Data](articles/a5fc29a5.json)
-
-[Extended Data](ext_articles/a5fc29a5.ext.json)
-
----
-
-### Either picking up the champions
-
-*2025-09-29 18:52:44* · [`adalk`](https://www.ada.lk/breaking_news/එක්කෝ-චාමර-ගන්නවා-නැත්නම්-මම-ගන්නවා/11-418795) · `si`
-
-The government is arrested by MP Chamara Sampath Dasanayake at one time and
-
-MP Archuna said that he would take. Speaking to the media, he commented on the media after obtaining bail in court.
-
-"Namal thieves, all the thieves of thieves believed.. At the end, all the script reveal. I'm not mom dad. This is my brother and sisters. Namal has the same time. Put a case, calling that Namal stolen.
-
-Who knows who is crazy, who's the bull, who knows the doctor?  Kosalom to visit Mahinda Rajapaksa
-
-Due to our hand, as we can't hand the rchessa. Either Charm Resources Dasanayake arrested. Or
-
-One of the two. Not two politics to them. How do people stop the yellow sun? Arrested for the court? "
-
-◼️
-
-[Data](articles/6228b8a4.json)
-
-[Extended Data](ext_articles/6228b8a4.ext.json)
 
 ---

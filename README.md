@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 09:39:06**
+As of **2025-09-30 09:56:36**
 
 ## Newspaper Stats
 
-*Scraped **79,722** Articles*
+*Scraped **79,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,49 +21,65 @@ adalk | 7,669
 adaderanalk | 10,287
 tamilmirrorlk | 11,922
 virakesarilk | 12,998
-adaderanasinhalalk | 13,794
+adaderanasinhalalk | 13,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,716 (100.0%) of 79,722 articles have been extended.
+79,722 (100.0%) of 79,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### තාවකාලික රියදුරු බලපත්‍ර අද සිට නුගේගොඩ ජාතික ප්‍රවාහන වෛද්‍ය ආයතනයෙන්
+### හක්කා පටස් සහ චීන පටස් සොයා දිවයින පුරා මෙහෙයුම්
+
+*2025-09-30 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215164) · `si`
+
+නීතිවිරෝධීව නිෂ්පාදනය කරනු ලබන හක්කා පටස් සහ චීන පටස් භාවිත කරන පුද්ගලයින්ට එරෙහිව නීතිය දැඩිව ක්‍රියාත්මක කරන බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+
+◼️
+
+[Data](articles/c7060bf7.json)
+
+---
+
+### Temporary driving license from the National Transport Medical Institute from Nugegoda today
 
 *2025-09-30 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215163) · `si`
 
-රියදුරු බලපත්‍ර අලුත් කිරීමේදී අද (30) සිට බලපැවැත්වෙන පරිදී නුගේගොඩ ජාතික වෛද්‍ය ප්‍රවාහන ආයතනයෙන් නිකුත් කිරීමට තීරණය කර තිබේ.
+It has been decided to issue the driver's licenses from the National Medical Transport Institute to Nugegoda today (30).
 
-ඒ අනුව නියමු ව්‍යාපෘතියක් ලෙස අද සිට මෙ ආරම්භ කරන බවත් රියදුරු බලපත්‍රයේ යම් වෙනස්කමක් සිදු කිරීමට අවශ්‍ය නොවන්නේ නම් තාවකාලික රියදුරු බලපත්‍රය එම ආයතනයෙන් ලබා ගත හැකි බවත් එම දෙපාර්තමේන්තුව පවසයි.
+Accordingly, a pilot project will commence today as a pilot project and is not required to make a different changes to the driving license.
 
-තාවකාලික රියදුරු බලපත්‍ර අයදුම්කරුවන් වේරහැර මෝටර් රථ ප්‍රවාහන කාර්යාලයට පැමිණීම අවශ්‍ය නොවන බවත් එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Department said that the temporary driving license applicants should not be able to attend the Verahera Motor Transport Office.
 
 ◼️
 
 [Data](articles/8482c199.json)
 
+[Extended Data](ext_articles/8482c199.ext.json)
+
 ---
 
-### තලල්ල වෙරළ ජාත්‍යන්තරයට
+### Talalla coastal international
 
 *2025-09-30 09:05:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තලලල-වරළ-ජතයනතරයට/101-680450) · `si`
 
-මාතර දෙවිනුවර දිගු රන්වන් දුඹුරු වැලි සහිත වෙරළ තීරයක් වන තලල්ල වෙරළ තීරය ජාත්‍යන්තර සහතික ලාභී නිල්ධජ වෙරළ තීරයක් බවට පත් කිරීමේ ව්‍යාපෘතිය තලල්ල වෙරළ තීරයේදී ආරම්භ කෙරිණි.
+The project to turn the Talalla coastline, the Talalla coastline, the Talalla coastline, the Talalla coastline, was started at the Talalla coast.
 
-Clean Sri Lanka වැඩසටහන යටතේ සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය මඟින් මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කරනු ලබයි.
+The project is implemented by the Marine Environment Protection Authority under the Clean Sri Lanka program.
 
-අන්තර් ජාතික නිල්ධජ වෙරළ පාරිසරික සහතිකය යනු, ලෝකයේ වෙරළ තීර වල පාරිසරික සංරක්ෂණය, ජල තත්ත්වය, පාරිසරික දැනුවත් වීම, ආරක්ෂාව හා සේවා පිළිබඳ තත්ත්වය මත ලබාදෙන පාරිසරික සහතිකයකි. නිල්ධජ වෙරළ තීරයක් ලෙස මෙම වෙරළ තීරය සංවර්ධනය කරමින් සංචාරක ආකර්ෂණය ඉහළ නංවා, රටේ ආර්ථික වර්ධන ඉලක්ක සාක්ෂාත් කර ගැනීමෙහිලා මෙකී වැඩසටහන සුවිශේෂී දායකත්වයක් සපයනු ඇත.
+Interior National Nilgath Coastal Environment Assurance is an Environmental Protection, Water Status, Environment and Services. The program will contribute to the tourist attraction and achieving the country's economic growth targets as a bluejasher.
 
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති, පරිසර අමාත්‍ය  වෛද්‍ය ධම්මික පටබැඳි, ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රසල් අපොන්සු, මාතර දිස්ත්‍රික් ලේකම් චන්දන තිලකරත්න, සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරියේ සභාපති සමන්ත ගුණසේකර යන මහත්වරු  සහ රාජ්‍ය හා රාජ්‍ය නොවන සංවිධානවල නියෝජිතයෝ ඇතුළු පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+Industries and Entrepreneurship Development Minister Sunil Handunnetti, Minister of Environment, Hon
 
 ◼️
 
 [Data](articles/d27168b1.json)
+
+[Extended Data](ext_articles/d27168b1.ext.json)
 
 ---
 
@@ -97,33 +113,37 @@ Foreign, Foreign Employment and Tourism and Tourism Vijitha Herath and the Sri L
 
 ---
 
-### ජනපති- ජපාන ආරක්ෂක ඇමති හමු වෙයි
+### President met with Japanese defense minister
 
 *2025-09-30 09:01:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-ආරකෂක-ඇමත-හම-වය/101-680449) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව ජපානයේ නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපාන ආරක්ෂක අමාත්‍ය ඩී එම් නකටානි (DM Nakatani) මහතා හමුවී සාකච්ඡාවක නිරත විය.
+President Anura Kumara Dissanayake on an invite of the Government of Japan, according to an invitation of the Government of Japan, was held at the Imperial Hotel, DM Nakatani (DM Nakatani) at the Imperial Hotel Tokyo.
 
-දෙරටේ දීර්ඝ කාලීන මිත්‍රත්වය, කලාපීය ආරක්ෂාව සහ ආරක්ෂක කටයුතු සම්බන්ධව ශ්‍රී ලංකාව සහ ජපානය අතර පවතින සහයෝගීතාව තව දුරටත් ශක්තිමත් කිරීම පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+The two countries discussed further discussions with strengthening collaboration between Sri Lanka and Japan on long-term friendship, regional protection and security.
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා ඇතුළු ශ්‍රී ලංකා නියෝජිත පිරිසද මෙම අවස්ථාවට එක් වූහ.
+Foreign, Foreign Employment and Tourism and Tourism Vijitha Herath and the Sri Lankan delegation were also present.
 
 ◼️
 
 [Data](articles/c7ba5c2f.json)
 
+[Extended Data](ext_articles/c7ba5c2f.ext.json)
+
 ---
 
-### ගල් අඟුරු ව්‍යාපෘතියේ වාහන හයක් අතුරුදන්
+### Six vehicles of coal project
 
 *2025-09-30 08:30:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගල-අඟර-වයපතය-වහන-හයක-අතරදන/101-680448) · `si`
 
-පුත්තලම ගල් අඟුරු ව්‍යාපෘතිය වෙනුවෙන්  කෝටි 12 කට වැඩි මුදලක් වැයකර  මිලදීගත් වාහන 6ක්  කොන්ත්‍රාත්කරු මේ වනතුරුද විදුලි බල මණ්ඩලයට බාරදී  නැති බව  වාර්තාවේ.
+It is reported that the contractor has not handed over six crores for the Puttalam coal project.
 
-ව්‍යාපෘතිය අවසන් වීමෙන් අනතුරුව මෙම වාහන ගිවිසුම ප්‍රකාරව විදුලිබල මණ්ඩලයට පවරා දිය යුතු  වුවත්   තවමත් එම වාහන විදුලිබල මණ්ඩලයට පවරාදී  නොමැත.  මෙහිදී පොදු දේපළ අවභාවිත වීමක් සිදුව ඇති හෙයින්  මේ සම්බන්ධයෙන් අවශ්‍ය ඉදිරි පියවර ගන්නා ලෙස කෝප් කාරක සභාව විදුලි බල මණ්ඩලයට නිර්දේශ කර ඇත.
+After the end of the project, the Electricity Board should be handed over to the Electricity Board (CEB), but the vehicles are not handed over to the Electricity Board.  The COPE Committee has recommended the COPE to take necessary steps to take necessary steps as public property has taken place here.
 
 ◼️
 
 [Data](articles/0afdda66.json)
+
+[Extended Data](ext_articles/0afdda66.ext.json)
 
 ---
 
@@ -143,17 +163,19 @@ After the end of the project, the Electricity Board should be handed over to the
 
 ---
 
-### ලංවිම ගිල්ල සල්ලි මල්ල
+### CEB Gill cut off
 
 *2025-09-30 08:28:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලවම-ගලල-සලල-මලල/101-680447) · `si`
 
-විදුලි බල මණ්ඩලය2014 වර්ෂයේ සිට 2022 වර්ෂය දක්වා  රුපියල් කෝටි  පනස් නව දහසකට වැඩි  පාඩුවක් ලබා ඇතැයි පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ දී (කෝප් කමිටුව) තොරතුරු අනාවරණය විය
+The COPE Committee on the Parliamentary Committee (COPE) has detected more than Rs.
 
-මේ පිළිබඳ තොරතුරු අනාවරණය වූයේ ශ්‍රී ලංකා විදුලිබල මණ්ඩලයේ 2022 සහ 2023 වර්ෂයන්ට අදාළ විගණකාධිපති වාර්තා සහ වර්තමාන කාර්යසාධනය පරීක්ෂා කිරීමට පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප්) එහි සභාපති  පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර මහතාගේ සභාපතිත්වයෙන් පසුගියදා (24) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+The Committee on Public Enterprises Committee on the Sri Lanka Electricity Board, 2022 and 2023 years of the Sri Lanka Electricity Board (COPE) and its Chairman Dr. Nishantha Samaraweera met in Parliament under the Chairman of Parliament.
 
 ◼️
 
 [Data](articles/9486ac15.json)
+
+[Extended Data](ext_articles/9486ac15.ext.json)
 
 ---
 
@@ -173,19 +195,21 @@ The COPE Committee on the Parliamentary Committee (COPE) has detected more than 
 
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2025-09-30 08:26:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680446) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව කියයි.
+Several spells of showers will occur in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
 
-වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකි බව එම දෙපාර්තමේන්තුව පවසයි.
+The area can be in the North Western Province.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds can occur 30-40 times.
 
 ◼️
 
 [Data](articles/8a42ce8e.json)
+
+[Extended Data](ext_articles/8a42ce8e.ext.json)
 
 ---
 
@@ -1960,31 +1984,5 @@ Police officers were summoned to control the protesters and continued to continu
 [Data](articles/0d41da76.json)
 
 [Extended Data](ext_articles/0d41da76.ext.json)
-
----
-
-### Massive support for hartal in Mannar
-
-*2025-09-29 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113042/massive-support-for-hartal-in-mannar) · `en`
-
-Local residents and business owners have claimed today’s hartal in Mannar was a massive success.
-
-Today marks the 58th day of a protest launched by residents of Mannar, demanding the suspension of a proposed wind power plant project in the area.
-
-As part of the protest, local residents shut down their businesses today and engaged in a hartal.
-
-For nearly two months, Mannar residents have been continuously protesting, demanding an end to both the proposed wind power plant and the excavation of mineral sand around the island and its surrounding areas.
-
-Protesters claim that these construction and excavation activities have led to numerous environmental issues affecting their lives.
-
-All shops in the area were closed, and a hartal campaign was launched with the support of the local business community.
-
-All forms of public transport services were also suspended today. A large protest march began this morning at the Mannar public playground.
-
-...
-
-[Data](articles/1d9946b8.json)
-
-[Extended Data](ext_articles/1d9946b8.ext.json)
 
 ---

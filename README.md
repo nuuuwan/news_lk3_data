@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 16:09:55**
+As of **2025-09-30 15:38:32**
 
 ## Newspaper Stats
 
-*Scraped **79,874** Articles*
+*Scraped **79,861** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 507
-newsfirstlk | 508
+lankadeepalk | 505
+newsfirstlk | 507
 dbsjeyarajcom | 635
 bbccomsinhala | 711
 colombotelegraphcom | 801
@@ -18,166 +18,20 @@ economynextcom | 4,746
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,688
-adaderanalk | 10,306
-tamilmirrorlk | 11,942
+adaderanalk | 10,303
+tamilmirrorlk | 11,939
 virakesarilk | 13,033
-adaderanasinhalalk | 13,810
+adaderanasinhalalk | 13,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,867 (100.0%) of 79,874 articles have been extended.
+79,858 (100.0%) of 79,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### Prasanna Ranaweera Granted Bail in Land Fraud Case
-
-*2025-09-30 15:30:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/prasanna-ranaweera-granted-bail-in-land-fraud-case) · `en`
-
-COLOMBO (News 1st); Former State Minister Prasanna Ranaweera, who was in remand custody over allegations of fraudulent land transactions, was released on bail today by the Gampaha High Court.High Court Judge Nayana Senaviratne granted bail under strict conditions, including a cash bail of Rs. 500,000 and five sureties of Rs. 500,000 each. In addition, the court imposed a foreign travel ban and ordered the surrender of his passport.Ranaweera had been remanded in connection with a case involving the sale of state-owned land in Kiribathgoda using forged deeds.
-
-◼️
-
-[Data](articles/152b1959.json)
-
-[Extended Data](ext_articles/152b1959.ext.json)
-
----
-
-### “Expieve the balance of the teacher and the Chancellor's transfers”
-
-*2025-09-30 15:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-அதிபர்-இடமாற்றங்களை-சமநிலைப்படுத்துவதை-துரிதப்படுத்தவும்/175-365530) · `ta`
-
-Harini Amarasuriya, Minister of Education, Higher Education and Labor, said that the balance of teacher and chancellor transfers should be expedited.. Commenting on this, the Prime Minister said that the rejection of the transfers in the education sector has long been a practice, and that it is the only sector in the public service that does not comply with transfers.. The Ministry Advisory Committee also focused on the actions taken against the teachers and principals who failed to comply with such transfers.
-
-He was speaking at the Ministry of Advisory Committee on Education, Higher Education and Labor Affairs under the leadership of Prime Minister (Dr.) Harini Amarasuriya.
-
-...
-
-[Data](articles/cd26a188.json)
-
-[Extended Data](ext_articles/cd26a188.ext.json)
-
----
-
-### Colombo inflation climbs to 1.5% in September
-
-*2025-09-30 15:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113077/colombo-inflation-climbs-to-15-in-september-) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has increased to 1.5% in September 2025, compared to 1.2% in August 2025, according to the latest data released by the Department of Census and Statistics.
-
-The CCPI for all items for the month of September 2025 was 193.7 and it records an increase of 0.4 index points compared to the month of August 2025 for which the index was 193.3.
-
-The Y-on-Y inflation of Food Group increased to 2.9% in September 2025 from 2.0% in August 2025 and the Y-on-Y inflation of Non Food Group decreased to 0.7% in September 2025 from 0.8% in August 2025.
-
-For the month of June 2025, on Y-on-Y basis, the contribution to inflation by food commodities was 0.94%.
-
-◼️
-
-[Data](articles/0aa54961.json)
-
----
-
-### Bail for a student who naked the image of the student
-
-*2025-09-30 15:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவின்-படத்தை-நிர்வாணமாக்கிய-மாணவனுக்கு-பிணை/175-365528) · `ta`
-
-A school student under the age of 18 Maheshika Wijetunga has been produced before the Galle Magistrate Maheshika Wijetunga. 200,000 was released on bail.
-
-He was handed over to his father. The magistrate strongly warned the victim not to hurt or influence.
-
-When the school's student's girlfriend told her elder brother that her picture was shared on the Internet, police said the incident came to light.. His brother immediately lodged a complaint with the Galle Cyber ​​Criminal Investigation Division.
-
-During the hearing, the suspect was arrested and interrogated. The boy was romantically followed by the girl, and after she rejected her, she was uploaded online with a naked photo with a naked photo.
-
-IP Gayani and Sergeant Priyantha, in charge of the Children's and Women's Bureau in Galle, were produced in court.
-
-◼️
-
-[Data](articles/8828899a.json)
-
-[Extended Data](ext_articles/8828899a.ext.json)
-
----
-
-### Car bomb in Pakistan: 10 killed
-
-*2025-09-30 14:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-கார்-குண்டுவெடிப்பு-10-பேர்-பலி/50-365526) · `ta`
-
-A powerful car bomb exploded on Tuesday outside the Border Police (FC) headquarters in Quetta, Pakistan. Authorities said 10 people were killed and more than 32 injured in the blast. Balochistan Health Minister Bhakt Mohammed Kakar warned that the death toll could increase further. The noise of the explosion in the model town and neighboring areas, the window mirrors of homes and commercial buildings were broken.
-
-Shortly after the blast, the shootings were heard. It caused panic among residents. The injured were taken to Quetta Civil Hospital, where the emergency has been announced. BMC Hospital and Drama Center announced emergency on the orders of Health Minister Kakar and Health Secretary Mujeeb-Ur-Rehman. Doctors, nurses and sub -doctors were deployed throughout these hospitals to help the victims of the blast.
-
-...
-
-[Data](articles/a575a745.json)
-
-[Extended Data](ext_articles/a575a745.ext.json)
-
----
-
-### Former SSP Course released
-
-*2025-09-30 14:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-SSP-සතෂට-ඇප/101-680503) · `si`
-
-Colombo Chief Magistrate Asanka S. Bodaragama today ordered the release of over Rs.
-
-Sath Rajan Hiyare Gamage was released on bail.
-
-The magistrate also ordered the suspect a cash bail of Rs. 100,000 each.
-
-After considering the facts of the suspect, the Bribery Commission had set the procedure and ordered the Bribery Commission to produce investigation progress on January 6.
-
-◼️
-
-[Data](articles/a1569623.json)
-
-[Extended Data](ext_articles/a1569623.ext.json)
-
----
-
-### A day in spring
-
-*2025-09-30 14:57:34* · [`lankadeepalk`](https://www.lankadeepa.lk/features/පත-වසනතය-දවසක/2-680502) · `si`
-
-That was the year 1985. The Sri Lanka Book Publishers' Association commences that year. Its founding chairman was Veteran writer K. Jayathilaka. There were 27 books publishers initially involved in the union.
-
-Book Publishers Association Exhibition The Exhibition Process in 1999. The exhibition named the National Book Fair is limited to four days. It was held in the national art. The book Exhibition process was kept in the book Exhibition process with a view to drawing the readers away from the book migrant with electronic media.
-
-This year is 2025. This year's Sirimavo Bandaranaike will be held at the Sirimavo Bandaranaike premises.
-
-We went to the book Exhibition on the morning of September 27 this year's exhibition.
-
-...
-
-[Data](articles/bfa651e1.json)
-
-[Extended Data](ext_articles/bfa651e1.ext.json)
-
----
-
-### Minister Sunil Handunneththi admits mistakenly referring to Guinness Record as Nobel Prize
-
-*2025-09-30 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113076/minister-sunil-handunneththi-admits-mistakenly-referring-to-guinness-record-as-nobel-prize) · `en`
-
-Minister of Industry and Entrepreneurship Development Sunil Handunneththi says that his reference to a ‘Nobel Prize’ instead of a ‘Guinness World Record’ when commenting on a recent tea auction in Japan was a mistake on his part.
-
-In a post shared on his Facebook account, Minister Handunneththi mentioned that the New Vithanakande Ceylon Black Tea was recently recognized by the Guinness World Records as the most expensive tea ever sold, further enhancing the global recognition of Sri Lankan tea.
-
-However, the Minister expressed regret over the slip he made while commenting on the achievement.
-
-“Further elevating the global recognition of Sri Lankan tea, the New Vithanakande Ceylon Black Tea has been included in the Guinness World Records as the highest-priced tea ever sold at an auction held in Japan.
-
-While commenting on this achievement, I mistakenly referred to it as a ‘Nobel Prize’ instead of a ‘Guinness Record’. I regret this error.
-
-...
-
-[Data](articles/4e34ba87.json)
-
----
 
 ### Sajith Key the story about the locked boss
 
@@ -201,21 +55,19 @@ He added that the export-centered agriculture is in the country.
 
 ---
 
-### Sri Lanka to benefit the coin
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
 
 *2025-09-30 14:47:25* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-418818) · `si`
 
-The first match of the 2025 Women's World Cup ODI is scheduled to begin a small moment.
+2025 කාන්තා ලෝක කුසලාන එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය තව සුළු මොහොතකින් ආරම්භ වීමට නියමිතව තිබේ.
 
-Sri Lanka and India will be the first match of the tournament.
+තරගාවලියේ පළමු තරගය ලෙස ශ්‍රී ලංකාව සහ ඉන්දියාව තරගවැදීමටයි කටයුතු යොදා ඇත්තේ.
 
-Sri Lanka captain Chamari, who won the coin, decided to bowl first.
+මෙම තරගයේ කාසියේ වාසිය දිනා ගත් ශ්‍රී ලංකා නායිකා චමරි අතපත්තු පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
 
 ◼️
 
 [Data](articles/a7fd93c4.json)
-
-[Extended Data](ext_articles/a7fd93c4.ext.json)
 
 ---
 
@@ -232,28 +84,6 @@ The governance of Sri Lanka made these claims. But the provincial councils have 
 [Data](articles/3e0e2490.json)
 
 [Extended Data](ext_articles/3e0e2490.ext.json)
-
----
-
-### Former State Minister Prasanna Ranaweera granted bail
-
-*2025-09-30 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113075/former-state-minister-prasanna-ranaweera-granted-bail) · `en`
-
-Former State Minister Prasanna Ranaweera, who was in remand custody over allegations of preparing forged documents to sell state-owned land, has been granted bail by the Gampaha High Court.
-
-The order was issued by Gampaha High Court Judge Nayana Seneviratne, Ada Derana reporter said.
-
-During the hearing today, counsels representing former State Minister Ranaweera made submissions in support of granting him bail. After considering the submissions presented, Judge Nayana Seneviratne decided to release Prasanna Ranaweera and co-accused Sarath Kumara Edirisinghe on strict bail conditions.
-
-Accordingly, each suspect was released on a cash bail of Rs. 500,000 and five surety bails of Rs. 500,000 each.
-
-The suspects have been ordered to appear before the Financial Crimes Investigation Division every Sunday.
-
-Former State Minister Prasanna Ranaweera was initially remanded until May 19 by the Mahara Magistrate’s Court after surrendering to court on May 7.
-
-...
-
-[Data](articles/08969a5e.json)
 
 ---
 
@@ -329,48 +159,6 @@ Through this Huawei line, we offer not only devices but also the tools that make
 
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
-
-*2025-09-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215179) · `si`
-
-කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ 13වැනි දිග හැරුම අරඹමින් ශ්‍රී ලංකා කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර තරග තව සුළු මොහොතකින් ඉන්දියාවේ ගුවහාති හීදි ආරම්භ වීමට නියමිතය.
-
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමේ නායිකාව තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීම සඳහා ඉන්දීය කණ්ඩායමට ආරාධනා කළේය.
-
-අදින් ඇරඹෙන ලෝක කුසලාන තරගාවලිය නොවැම්බර් මස 2වැනිදා දක්වා පැවැත්වෙයි.
-
-ඉන්දියාවේ ක්‍රීඩාංගණ 4කදී සහ ශ්‍රී ලංකාවේදී එක් ක්‍රීඩාංගණයකදී තරගාවලියේ තරග ක්‍රියාත්මක වෙයි.
-
-ලීග් ක්‍රමයට පැවැත්වෙන ලෝක කුසලාන මූලික වටයේදී සෑම කණ්ඩායමක්ම තරග 7කට මුහුණදීමට නියමිතය.
-
-මෙවර තරගාවලියේ මූලික වටයේදී ශ්‍රී ලංකාව සහභාගි වන තරග 7න් 5ක් කොළඹ ආර්.ප්‍රේමදාස ක්‍රීඩාංගණයේදී පැවැත්වෙන අතර තරග දෙකක් ඉන්දියාවේදී පැවැත්වෙයි.
-
-◼️
-
-[Data](articles/57c8d103.json)
-
----
-
-### ඒක අත්වැරදීමක් - ඇමති හඳුන්නෙත්ති
-
-*2025-09-30 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215178) · `si`
-
-ශ්‍රී ලංකාවේ තේවල ගෝලීය කීර්තිය ඉහළ නංවමින් ජපානයේ පැවැති වෙන්දේසිය සම්බන්ධව අදහස් දැක්වීමේදී ගිනස් වාර්තාවක් වෙනුවෙන් නොබෙල් තෑග්ගක් යන වචනය ප්‍රකාශ කිරීම තමා අතින් සිදුවූ අත්වැරැද්දක් බව කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පවසයි.
-
-සිය ෆේස්බුක් ගිණුම ඔස්සේ සටහනක් යොමු කරමින් ඒ මහතා සඳහන් කර ඇත්තේ මෙරට තේවල ගෝලීය කීර්තිය තවත් ඉහළ නංවමින් ජපානයේ පැවැති වෙන්දේසියකදි නිව් විතානකන්ද සිලෝන් කළු තේ සඳහා ලොව මෙතෙක් අලෙවි වූ ඉහළම මිල සහිත තේ ලෙස ගිනස් වාර්තා අතර එක් වූ බවය.
-
-කෙසේ නමුත් ඒ සම්බන්ධව අදහස් දැක්වීමේදි තමා අතින් සිදුවූ අත්වැරදීම සම්බන්ධව තමන් කනගාටු වන බවද අමාත්‍යවරයා සිය සටහනේ සඳහන් කර ඇත.
-
-"ශ්‍රී ලංකාවේ තේවල ගෝලීය කීර්තිය තවත් ඉහළ නංවමින්, ජපානයේ පැවති වෙන්දේසියකදී නිව් විතානකන්ද සිලෝන් කළු තේ (New Vithanakande Ceylon Black Tea) ලොව මෙතෙක් අලෙවි වූ ඉහළම මිල සහිත තේ ලෙස ගිනස් ලෝක වාර්තා අතරට එක් වී ඇත.
-
-මේ සම්බන්ධයෙන් අදහස් පළ කිරීමේදී ‘ගිනස් වාර්තාවක්’ යන්න වෙනුවට ‘නොබෙල් තෑග්ගක් යන වචනය මා අතින් අත්වැරදීමකින් ප්‍රකාශයට පත් වූ අතර ඒ පිළිබඳව කනගාටු වෙමි.
-
-...
-
-[Data](articles/63d1289a.json)
-
----
-
 ### 164 Duped in Kalmunai: CID Cracks Down on Multi-Million Rupee Scam
 
 *2025-09-30 14:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/164-duped-in-kalmunai-cid-cracks-down-on-multi-million-rupee-scam) · `en`
@@ -380,50 +168,6 @@ Through this Huawei line, we offer not only devices but also the tools that make
 [Data](articles/29fdb0c8.json)
 
 [Extended Data](ext_articles/29fdb0c8.ext.json)
-
----
-
-### අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලයේ පුරප්පාඩුවක්
-
-*2025-09-30 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215177) · `si`
-
-අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලයේ (ඕ.එම්.පී) සාමාජික ධුරයේ 2025 ඔක්තෝබර් මාසයේ ඇතිවීමට නියමිත පුරප්පාඩුව පිරවීම සඳහා අයදුම්පත් කැඳවා තිබේ.
-
-2016 අංක 14 දරන අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලය (පිහිටුවීම, පරිපාලනය කිරීම සහ කර්තව්‍ය ඉටු කිරීම) පනතේ (සංශෝධිත පරිදි) විධිවිධාන ප්‍රකාරව මෙම අයදුම්පත් කැඳවීම සිදුකර ඇත.
-
-හෝ අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලයේ (ඕ.එම්.පී) කර්තව්‍ය ඉටු කිරීමට අදාළ වෙනත් සුදුසුකම් සහිත තැනැත්තන්ගෙන් අයදුම්පත් කැඳවනු ලැබේ.
-
-මීට අදාළ අයදුම්පත්‍රය පාර්ලිමේන්තු වෙබ් අඩවියෙහි (http://www.parliament.lk) ‘අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලය සඳහා සාමාජිකයන් පත්කිරීම’ නමැති ක්ෂණික සබැඳි යටතේ පළකර ඇති ආකෘතිය අනුව පිළියෙල කළ යුතු වේ.
-
-යථා පරිදි සම්පූර්ණ කරන ලද අයදුම්පත්‍ර 2025 ඔක්තෝබර් 14 දින හෝ එදිනට පෙර,
-
-යන ලිපිනයට ලියාපදිංචි තැපෑලෙන් හෝ http://constitutionalcouncil@parliament.lk යන විද්‍යුත් ලිපිනයට යොමු කළ යුතුය.
-
-ලියුම් කවරයේ ඉහළ වම් කෙළවරේ හෝ විද්‍යුත් ලිපියෙහි විෂය වශයෙන් ‘අතුරුදහන් වූ තැනැත්තන් පිළිබඳ කාර්යාලය සඳහා සාමාජිකයන් පත්කිරීම’ යනුවෙන් සඳහන් කළ යුතුය.
-
-◼️
-
-[Data](articles/89a975df.json)
-
----
-
-### රේගුව රඳවාගත් වාහන ගැන අධිකරණයෙන් නියමයක්
-
-*2025-09-30 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215176) · `si`
-
-ශ්‍රී ලංකා රේගුව විසින් රඳවාගෙන සිටින වාහන, සමාගම් ඇපකරයක් හෝ පුද්ගලික ඇපකරයක් මත මුදාහැරීමට තිබෙන හැකියාව පිළිබඳව සොයාබලා ලබන 10 වනදා අධිකරණයට දැනුම් දෙන ලෙස අභියාචනාධිකරණය අද (30) ශ්‍රී ලංකා රේගුවට නියම කළේය.
-
-මේ වනවිට ශ්‍රී ලංකා රේගුව විසින් රඳවාගෙන සිටින අදාළ වාහන මුදාහැරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා වාහන ආනයනකරුවන් විසින් ගොනුකර තිබූ රිට් පෙත්සම් 15ක් පමණ අද සලකාබැලූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
-
-මෙම පෙත්සම් අද අභියාචනාධිකරණයේ සභාපති විනිසුරු රොහාන්ත අබේසූරිය සහ ප්‍රියන්ත ප්‍රනාන්දු යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී පෙත්සම්කරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් පොදුවේ අධිකරණය හමුවේ අවධාරණය කළේ, තම සේවාදායකයින් විසින් ආනයනය කළ මෙම වාහන රඳවා ගැනීමට ශ්‍රී ලංකා රේගුව ගෙන තිබෙන තීරණය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවය.
-
-මෙම වාහන සියයට 35ක අධිභාරයකට යටත්ව නිදහස් කිරීම සම්බන්ධයෙන් මුදල් අමාත්‍යාංශ ලේකම්වරයා විසින් ඉදිරිපත් කර ඇති යෝජනාවට පෙත්සම්කරුවන් සියලුදෙනා තරයේ විරුද්ධ වන බවත් එම නීතිඥවරුන් තර්ක කළේය.
-
-...
-
-[Data](articles/dd7c947a.json)
 
 ---
 
@@ -487,15 +231,13 @@ Www.parliament.lk. Applications of the appointment of members are prepared and p
 
 *2025-09-30 14:10:16* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-මන්ත්‍රීකම-අහෝසි-කරන්න-රාජිත-ඉදිරිපත්-කළ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-418815) · `si`
 
-The Supreme Court today rejected a fundamental rights petition filed by Rajitha Senaratne as a Kalutara District MP at the general election.
+මහ මැතිවරණයේදී කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රීවරයකු ලෙස රෝහිත අබේගුණවර්ධන මහතා තේරී පත්වීම බල රහිත කිරීමේ තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා රාජිත සේනාරත්න මහතා විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය අද (30දා) ප්‍රතික්ෂේප කරනු ලැබිණි.
 
-When the petition was taken up today, the order was made by considering the contents by both parties.
+පෙත්සම අද කැඳවූ අවස්ථාවේදී දෙපාර්ශවය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් මෙම නියෝගය ලබා දුන්නේය.
 
 ◼️
 
 [Data](articles/65edc977.json)
-
-[Extended Data](ext_articles/65edc977.ext.json)
 
 ---
 
@@ -519,21 +261,15 @@ The school principal has launched an internal investigation into the incident to
 
 ---
 
-### Another resting center for South Expressway
+### දකුණු අධිවේගයට තවත් විවේක ගැනීමේ මධ්‍යස්ථානයක්
 
 *2025-09-30 14:04:01* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයට-තවත්-විවේක-ගැනීමේ-මධ්‍යස්ථානයක්/11-418813) · `si`
 
-Prof. Kapila C. Prof. Kapila C. Business of the Ministry of Highways, Ports and Civil Aviation. K. Perera commenced yesterday (29).
-
-The resting center is built near the 119th kilometer in the Southern Expressway.. The first phase of the project has been allocated Rs.. Under the second phase, it is planned to increase the capacity of this and upgrade as a fully-fledged service area with all the facilities. The new service center is commenced on the Southern Expressway.. The construction work is to be completed within 3 months.
-
-The restriction centers and conveniences of the 314 km led by the Parliament of Sri Lanka, the Minister of Transport, Ports and Civil Aviation and Leader of the Parliament of Sri Lanka is planned to establish such resting centers in accordance with international standards.
+කොට්ටාව සිට මත්තල දක්වා දිවෙන දක්‍ෂිණ අධිවේගී මාර්ගයේ ගමනාගමනයේ යෙදෙන රියැදුරන්ට සහ මගී ජනතාවට විවේකය ලබා ගැනීම හා පහසුකම් සපයා ගැනීම වෙනුවෙන් මාතර, උඩුකාව ප්‍රදේශයේ ඉදිකිරීමට නියමිත විවේක ගැනීමේ මධ්‍යස්ථානයේ ඉදිකිරීම් කටයුතු ප්‍රවාහන, මහාමාර්ග, වරාය හා සිවිල් ගුවන් සේවා අමාත්‍යංශයේ ලේකම් මහාචාර්ය කපිල සී. කේ. පෙරේරා මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (29) ආරම්භ කෙරිණ.
 
 ...
 
 [Data](articles/4b4ce0aa.json)
-
-[Extended Data](ext_articles/4b4ce0aa.ext.json)
 
 ---
 
@@ -1986,5 +1722,257 @@ At the time, this Huaji Yang Grand Gun Yan Bridge was 625 mitter tall and that r
 [Data](articles/dc19cc6a.json)
 
 [Extended Data](ext_articles/dc19cc6a.ext.json)
+
+---
+
+### Shashindu further remanded
+
+*2025-09-30 10:48:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ශෂනදර-යළ-රමනඩ/101-680462) · `si`
+
+Colombo Chief Magistrate Asangara S. Bodaragama today ordered the Superintendent of Police to bring the sodium concentration of the ownership of the Mahaweli Authority of the Mahaweli Authority.
+
+The magistrate said that the suspect had not given bail to the public property under the Public Property Act, the suspect was remanded until the 14th.
+
+If the suspect had to be real-time, he ordered to submit a record of any disease and to submit a whatever disease and what treatment.
+
+The suspect has been remanded for two months and the suspect has been bailed to the suspect and considering the suspect, as the kidneys were bailed to the kidneys.
+
+The Bribery Commission asked the Bribery Commission to take the end of the trial, as investigations were conducted under the Public Property Act.
+
+◼️
+
+[Data](articles/3e693a31.json)
+
+[Extended Data](ext_articles/3e693a31.ext.json)
+
+---
+
+### Shashindu further remanded
+
+*2025-09-30 10:48:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ශෂනදර-යළ-රමනඩ/1-680462) · `si`
+
+Colombo Chief Magistrate Asangara S. Bodaragama today ordered the Superintendent of Police to bring the sodium concentration of the ownership of the Mahaweli Authority of the Mahaweli Authority.
+
+The magistrate said that the suspect had not given bail to the public property under the Public Property Act, the suspect was remanded until the 14th.
+
+If the suspect had to be real-time, he ordered to submit a record of any disease and to submit a whatever disease and what treatment.
+
+The suspect has been remanded for two months and the suspect has been bailed to the suspect and considering the suspect, as the kidneys were bailed to the kidneys.
+
+The Bribery Commission asked the Bribery Commission to take the end of the trial, as investigations were conducted under the Public Property Act.
+
+◼️
+
+[Data](articles/9409fac8.json)
+
+[Extended Data](ext_articles/9409fac8.ext.json)
+
+---
+
+### Tickets for passenger buses in the Western Province are micigant from tomorrow
+
+*2025-09-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215166) · `si`
+
+The Western Province Road Passenger Transport Authority says that passengers traveling on buses without a ticket will be a fine from tomorrow (01).
+
+The racing manager of the racing manager, Jewisa, pointed out that the conduct that does not receive tickets also a fine.
+
+Accordingly, the passengers traveling in the Western Province from tomorrow is mandatory, "Gavan too Keerthimetha said.
+
+Meanwhile, the Chairman of the Western Province Western Province
+
+Accordingly, the passenger has been obtaining a ticket from tomorrow and giving a ticket with the conductor ticket, said the Chairman of the Authority Gamini Jasinghe said.
+
+"When a passenger builds, he has made it compulsory to provide the bus number, the end, serial number, pass fee, pass fee, pass fare,. And there is a passenger responsibility before starting their first milestone, he needs to get a ticket. And you have to keep the ticket to their destination.. We have decided to provide tickets from October 1 to October 1.
+
+...
+
+[Data](articles/5a85c66d.json)
+
+[Extended Data](ext_articles/5a85c66d.ext.json)
+
+---
+
+### Karur incident: Three arrested for spreading rumor Case on 25 people
+
+*2025-09-30 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரூர்-சம்பவம்-வதந்தி-பரப்பிய-3-பேர்-கைது-25-பேர்-மீது-வழக்கு/175-365513) · `ta`
+
+Three persons arrested in Chennai. A case has been registered against 25 website companies. Chennai Police Commissioner Arun has warned that strict legal action will be taken against those who have been posted on the web sites on the issue of public setting.
+
+Karur crowded congestion. This includes fake and pairing video.. The first Vir Sta Lynn Wanne to the planet is that Tom should spread the weed.
+
+In this case, Chennai Police Commissioner Arun yesterday. In this case. While the government is taking appropriate action in the Visa Ranitary Force, some of the web sites are lying in the form of a general public.
+
+According to complaints received by the series, 25 website website registered on social networks in the public outer space.
+
+◼️
+
+[Data](articles/99d5c0bb.json)
+
+[Extended Data](ext_articles/99d5c0bb.ext.json)
+
+---
+
+### Wild elephant that damaged the patient's bed into the hospital
+
+*2025-09-30 10:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனைக்குள்-புகுந்து-நோயாளி-படுக்கையை-சேதப்படுத்திய-காட்டு-யானை/175-365512) · `ta`
+
+The wild elephant, which entered the Eeperiya Ayurvedic Hospital complex, broke a window, took out the items that the patients had, and damaged the bed and iron box.
+
+The staff shouted and claimed that the wild elephant was chased away. They further stated that wild elephants often attacked the hospital and damaged the property and feared that it could be at risk.
+
+They accused the authorities of being deaf, despite their repeated demands for the construction of an electrical fence to protect the hospital.
+
+◼️
+
+[Data](articles/6d19db02.json)
+
+[Extended Data](ext_articles/6d19db02.ext.json)
+
+---
+
+### Madagascar president dissolves government after ‘Gen Z’ protests
+
+*2025-09-30 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113063/madagascar-president-dissolves-government-after-gen-z-protests) · `en`
+
+Madagascar’s president has said he will dissolve his government, following days of youth-led protests over longstanding water and power cuts.
+
+“We acknowledge and apologise if members of the government have not carried out the tasks assigned to them,” Andry Rajoelina said in a televised national address on Monday.
+
+The so-called Gen-Z protests have seen thousands of predominantly young demonstrators take to the streets in cities across Madagascar since Thursday, under the rallying cry: “We want to live, not survive”.
+
+The UN’s human rights chief condemned the “unnecessary force” used by security forces to quell the unrest, saying that at least 22 people have been killed and 100 others injured.
+
+Madagascar’s foreign ministry has rejected the UN’s figures, alleging the data is “based on rumours or misinformation”.
+
+Protests first started in the capital Antananarivo, but have since spread to eight cities across the country.
+
+...
+
+[Data](articles/78cab844.json)
+
+[Extended Data](ext_articles/78cab844.ext.json)
+
+---
+
+### You want us ... Bongo ...
+
+*2025-09-30 10:33:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எங்களுக்கு-நீங்க-வேணாம்-போங்கோ/175-365511) · `ta`
+
+◼️
+
+[Data](articles/acbcdbbf.json)
+
+[Extended Data](ext_articles/acbcdbbf.ext.json)
+
+---
+
+### Women's Cricket World Cup begins today
+
+*2025-09-30 10:31:42* · [`adalk`](https://www.ada.lk/sports/කාන්තා-ක්‍රිකට්-ලෝක-කුසලානය-අදින්-ඇරඹේ/9-418807) · `si`
+
+Sri Lanka and India are to contest as the first match of the tournament.
+
+◼️
+
+[Data](articles/cb9ba10e.json)
+
+[Extended Data](ext_articles/cb9ba10e.ext.json)
+
+---
+
+### 33kg Hash, Heroin & Pills Seized In Mattakkuliya
+
+*2025-09-30 10:26:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/33kg-hash-heroin-pills-seized-in-mattakkuliya) · `en`
+
+COLOMBO (News 1st); The Colombo North Division Crime Investigation Unit arrested a suspect in Mattakkuliya’s Sirivardhana Mawatha with a massive stash of drugs, including hashish, heroin, and narcotic pills.Police said the raid uncovered 33 kilograms and 270 grams of hashish, 408 grams of heroin, and 200 narcotic pills, along with pre-packed heroin ready for sale. The suspect, a 38-year-old resident of Samithpura, Mattakkuliya, was taken into custody during the operation.Investigations have revealed that the suspect is closely linked to an organized criminal operating in the area, according to police sources.
+
+◼️
+
+[Data](articles/e1241025.json)
+
+[Extended Data](ext_articles/e1241025.ext.json)
+
+---
+
+### Sri Lanka's Socio-Economic Data 2025 Statement
+
+*2025-09-30 10:25:10* · [`adalk`](https://www.ada.lk/business/ශ්‍රී-ලංකා-සමාජ-ආර්ථික-දත්ත-2025-ප්‍රකාශනය-නිකුත්-කරයි/7-418806) · `si`
+
+The Central Bank of Sri Lanka, the Sri Lanka Socio-Economic Data - 2025 "has been issued for public publication for public. This is Volume 48 of the series.
+
+Sri Lanka's basic economic indicators, basic economic indicators, basic economic indicators, Sri Lanka's status, social and social infrastructure, foreign trade, economic, industry, industry, financial, financial, financial, financial, financial, financial and bank headings include data. This publication is a useful expression of policymark, researchers, academics, professionals, professionals, professionals, students, students and the public.
+
+The printed copy, Colombo 01, Chathm Street, will be able to purchase from the distribution window of the Central Point building (telephone numbers 011-2444502).
+
+◼️
+
+[Data](articles/1c9fa628.json)
+
+[Extended Data](ext_articles/1c9fa628.ext.json)
+
+---
+
+### Internationally high recognition, national quality infrastructure system
+
+*2025-09-30 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215165) · `si`
+
+Science and Technology Minister Krishantha Abeykya says it will be developed in the future internationally recognized National Quality Infrastructure.
+
+The Minister made this observation at the inauguration of the two-day workshop on the Ministry of Science and Technology, the United Nations Industrial Development Organization and the National Quality Infraction System.
+
+The budget allocation for the development of the National Quality Infrastructure System, which is being implemented under the Ministry of Science and Technology, has been allocated for the development of the National Quality Infrastructure.
+
+This will create a quality mechanism to protect, developing, developing the quality of goods and services in Sri Lanka, including drugs and foods.
+
+The system is aligned on four basic layers of standards, accurate measurements, compliance and certification.
+
+...
+
+[Data](articles/18dac9e4.json)
+
+[Extended Data](ext_articles/18dac9e4.ext.json)
+
+---
+
+### The wrong decision of the 15 -year -old student
+
+*2025-09-30 10:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/15-வயது-மாணவனின்-தவறான-முடிவு/76-365510) · `ta`
+
+A 15 -year -old schoolgirl has suffered his life in the Lakkam private garden belonging to the Maskeliya Police Division.
+
+People say the incident may have taken place at 6.30 pm on Monday (29). Investigations into the incident are being carried out by a team headed by the Maskeliya Police Station.
+
+Student Lakkam Tamil Vidyalaya is a student of Grade 10, thus made the wrong decision. The student went to school on Monday morning and returned home at 5.00 pm and reported that the neighbor had seen the student at 6.00 pm.
+
+Her father returned home from home in the morning and returned home at 7 pm and searched his son missing. The father, who had left his home in search of the city, had seen his son in a dark room near the kitchen.
+
+Residents immediately informed the Maskeliya police regarding the incident and a team of Maskeliya Police Station SS Pushpakumara rushed to the spot and started investigations into the incident.
+
+...
+
+[Data](articles/707607a2.json)
+
+[Extended Data](ext_articles/707607a2.ext.json)
+
+---
+
+### Shasheendra Rajapaksa further remanded
+
+*2025-09-30 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/113062/shasheendra-rajapaksa-further-remanded) · `en`
+
+Former State Minister Shasheendra Rajapaksa, who faces allegations of offenses under the Public Property Act, has been further remanded until October 14.
+
+The order was issued by the Colombo Chief Magistrate, Asanka S. Bodaragama.
+
+Shasheendra Rajapaksa was further remanded after considering submissions made by officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and the legal representatives of the former State Minister, said Ada Derana reporter.
+
+The Magistrate also directed the Superintendent of Prisons to submit a comprehensive report to court on the treatment provided to the suspect at the Prison Hospital and other medical institutions by the next hearing date.
+
+...
+
+[Data](articles/cc642b2e.json)
+
+[Extended Data](ext_articles/cc642b2e.ext.json)
 
 ---

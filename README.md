@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 05:57:05**
+As of **2025-09-30 07:45:17**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,671 (100.0%) of 79,682 articles have been extended.
+79,682 (100.0%) of 79,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -387,6 +387,8 @@ The campaign, Relive the Epic of the Ramayana Trail, was the sole entry shortlis
 
 [Data](articles/5d35930a.json)
 
+[Extended Data](ext_articles/5d35930a.ext.json)
+
 ---
 
 ### Benchmarking digital excellence: Browns IT recognised with ISO 9001:2015
@@ -398,6 +400,8 @@ Brown & Company’s digital arm, Browns IT was recently awarded the ISO 9001:201
 ...
 
 [Data](articles/a244d06b.json)
+
+[Extended Data](ext_articles/a244d06b.ext.json)
 
 ---
 
@@ -419,6 +423,8 @@ The All Share Price Index went up by 86.14 points, while the S and P SL20 rose b
 
 [Data](articles/17260fa0.json)
 
+[Extended Data](ext_articles/17260fa0.ext.json)
+
 ---
 
 ### CSE Masterminds Quiz offers over Rs. 3.5 million in prizes for its 7th edition
@@ -434,6 +440,8 @@ This year’s competition will offer prizes worth over Rs. 3.5 million. The cham
 ...
 
 [Data](articles/01c5987b.json)
+
+[Extended Data](ext_articles/01c5987b.ext.json)
 
 ---
 

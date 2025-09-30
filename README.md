@@ -1,87 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 13:07:18**
+As of **2025-09-30 12:55:54**
 
 ## Newspaper Stats
 
-*Scraped **79,804** Articles*
+*Scraped **79,775** Articles*
 
 newspaper | n
 --- | ---:
 lankadeepalk | 493
-newsfirstlk | 501
+newsfirstlk | 499
 dbsjeyarajcom | 635
-bbccomsinhala | 711
+bbccomsinhala | 710
 colombotelegraphcom | 800
 dailymirrorlk | 4,733
-economynextcom | 4,746
+economynextcom | 4,742
 islandlk | 4,850
 dailyftlk | 5,604
 adalk | 7,679
 adaderanalk | 10,295
 tamilmirrorlk | 11,937
-virakesarilk | 13,020
+virakesarilk | 12,998
 adaderanasinhalalk | 13,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,772 (100.0%) of 79,804 articles have been extended.
+79,772 (100.0%) of 79,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
-
-### Minister Promises Staffing Solutions For Health Sector
-
-*2025-09-30 12:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/minister-promises-staffing-solutions-for-health-sector) · `en`
-
-COLOMBO (News 1st); Health Minister Dr. Nalinda Jayatissa announced that a structured program is already in place to address the shortage of hospital staff across the country. He made this statement while inaugurating a newly built healthcare facility at the Darga Town Regional Hospital, constructed with assistance from the Chinese government.The new three-story complex, built at a cost of Rs. 300 million, falls under the administration of the Kalutara National Institute of Health Sciences.It features a four-bed emergency treatment unit, a 96-bed maternal and pediatric ward, and a fully equipped outpatient department.The opening ceremony was attended by senior officials, including Yan Tang, an advisor from the Chinese Embassy in Sri Lanka.
-
-◼️
-
-[Data](articles/c29db254.json)
-
----
-
-### University Lecturers Strike Over Pay & Staff Shortage
-
-*2025-09-30 12:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/university-lecturers-strike-over-pay-staff-shortage) · `en`
-
-COLOMBO (News 1st); Sri Lanka’s university system came to a standstill today (30) as the Federation of University Teachers’ Associations (FUTA) launched a one-day islandwide strike, demanding urgent solutions to long-standing grievances.The trade union action, which affects all state universities, was called in protest against severe academic staff shortages, salary disparities, and cuts to allowances. FUTA stated that despite multiple rounds of discussions with authorities, no meaningful solutions have been offered, leaving lecturers with no choice but to escalate their demands.According to the union, the strike is a warning shot, signaling growing frustration within the academic community.
-
-◼️
-
-[Data](articles/057bab45.json)
-
----
-
-### இலங்கையின் சொத்து சந்தைத் துறை தொடர்ந்து உயர்மட்ட அந்நிய நேரடி முதலீட்டை ஈர்க்கிறது
-
-*2025-09-30 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226481) · `ta`
-
-ரிசர்ச் இன்டெலிஜென்ஸ் யூனிட் நிறுவனத்தின் (RIUNIT) ரியல் எஸ்டேட் பிரிவின் கூற்றுப்படி, வெளிநாட்டு முதலீட்டாளர்கள் மீண்டும் இந்நாட்டு சொத்து சந்தையில் ஆர்வம் காட்டத் தொடங்கியுள்ளனர். இந்த சூழலில், பெய்லி இன்வெஸ்ட்மென்ட்ஸ் லங்கா பிரைவேட் லிமிடெட்டின் (Baili Investments Lanka Pvt Ltd) நாட்டுத் தலைவரும் இயக்குநருமான திரு. டிரிஸ்டன் வூவுடன் ஒரு பிரத்யேக நேர்காணலைப் பகிர்ந்து கொள்வதில் நாங்கள் மகிழ்ச்சியடைகிறோம்.
-
-1. ராஜகிரியவில் வரவிருக்கும் மிகப்பெரிய அடுக்குமாடி குடியிருப்பு மேம்பாடுகளில் ஒன்றின் பின்னணியில் உள்ள தொலைநோக்குப் பார்வைக்கு உத்வேகம் அளித்தது எது?
-
-...
-
-[Data](articles/aabccc14.json)
-
----
-
-### இன்றைய தங்க விலை நிலைவரம் !
-
-*2025-09-30 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226482) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (30) கொழும்பு செட்டியார் தெருவில் விற்பனை செய்யப்படும் தங்கத்தின் விலை நிலைவரம் வருமாறு,
-
-◼️
-
-[Data](articles/03868763.json)
-
----
 
 ### Shasheendra Rajapaksa Sent Back To Remand
 
@@ -92,38 +42,6 @@ COLOMBO (News 1st); Former State Minister Shasheendra Rajapaksa has been remande
 ◼️
 
 [Data](articles/4c66b616.json)
-
----
-
-### ஏ9 வீதியில் பஸ் விபத்து ; மூன்று பேர் காயம்!
-
-*2025-09-30 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226478) · `ta`
-
-ஏ9 வீதியில் அநுராதபுரம், மிஹிந்தலை , பலுகஸ்வெவ பிரதேசத்தில் இடம்பெற்ற பஸ் விபத்தில் மூன்று பேர் காயமடைந்துள்ளதாக மிஹிந்தலை பொலிஸார் தெரிவித்தனர்.
-
-கதிர்காமத்திலிருந்து யாழ்ப்பாணம் நோக்கிப் பயணித்த தனியார் பஸ் ஒன்று லொறியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது பஸ்ஸில் பயணித்த மூன்று பேர் காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக மிஹிந்தலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/56d7a621.json)
-
----
-
-### மேல் மாகாண தனியார் பஸ்களில் பயணச் சீட்டு வழங்கல்  நாளை முதல் கட்டாயம்
-
-*2025-09-30 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226472) · `ta`
-
-மேல் மாகாணத்தில் தனியார் பஸ்களில் பயணிப்பவர்களுக்கு பயணச் சீட்டுகளை வழங்குவது புதன்கிழமை (01) முதல் கட்டாயமாக்கப்படும் என மேல் மாகாண வீதி தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது.
-
-மாகாண பஸ் வலையமைப்பிற்குள் பொறுப்புக்கூறல் மற்றும் சேவை தரங்களை மேம்படுத்துதல் காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தேசிய போக்குவரத்து ஆணைக்குழுவின் தலைவர் காமினி ஜாசிங்க தெரிவித்துள்ளார்.
-
-இந்த புதிய நடைமுறையானது மேல் மாகாணம் முழுவதும் அமுல்படுத்தப்படுவதுடன் தனியார் பஸ் நடத்துநர்களால் அறவிடப்படும் ஒவ்வொரு கட்டணத்திற்கும் ஒரு பயணச் சீட்டை வழங்குதல் கட்டாயப்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f66fe33d.json)
 
 ---
 
@@ -173,40 +91,6 @@ Further investigations into the accident are being conducted by the Traffic Divi
 
 ---
 
-### கிளிநொச்சி - தட்டுவான் கொட்டியில் வெடிகுண்டுகள் கண்டுபிடிப்பு
-
-*2025-09-30 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226476) · `ta`
-
-கிளிநொச்சி - தட்டுவான் கொட்டி பகுதியில் வெடிக்காத நிலையில் வெடிகுண்டுகள் இன்று (30) கண்டுபிடிக்கப்பட்டன.
-
-அந்தப் பகுதியில் நேற்றைய தினம் ஒரு வெடிப்புச் சம்பவம் இடம்பெற்று, அதில் படுகாயமடைந்த இருவர் வைத்தியசாலையில் சிகிச்சை பெற்றுவரும் நிலையில், தட்டுவான் கொட்டி பகுதி முழுவதும் தேடுதல் நடவடிக்கை முன்னெடுக்கப்பட்டது.
-
-இதன்போது வெடிக்காத நிலையில் வெடிகுண்டுகள் இன்று கண்டுபிடிக்கப்பட்டுள்ளன. அவற்றை அங்கிருந்து அகற்றுவதற்குரிய நீதிமன்றத்தின் உத்தரவினை பெறுவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றது.
-
-◼️
-
-[Data](articles/e9d87412.json)
-
----
-
-### வலப்பனையில் பஸ் விபத்து ; தெய்வாதீனமாக உயிர் தப்பிய 28 பயணிகள்!
-
-*2025-09-30 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226475) · `ta`
-
-வலப்பனை பகுதியில் பயணித்த தனியார் பஸ் ஒன்று வீதியை விட்டு விலகி விபத்துக்குள்ளானதில் பஸ்ஸுக்கு  பலத்த சேதம் ஏற்பட்டுள்ளது.
-
-நுவரெலியா- வலப்பனை பிரதான வீதியின் மஹ ஊவா பகுதியில் திங்கட்கிழமை (29) இந்த விபத்து இடம் பெற்றுள்ளது.
-
-வலப்பனை பகுதியில் உள்ள மண் மேட்டு ஒன்றில் பஸ் மோதி விபத்துக்குள்ளானதாக வலப்பனை பொலிஸார் தெரிவித்தனர்.
-
-பஸ்ஸில் ஏற்பட்ட  தொழில்நுட்பக் கோளாறு காரணமாகவே இவ்விபத்து ஏற்பட்டிருக்கலாம் எனப் பொலிஸார் கருதுகின்றனர்.
-
-◼️
-
-[Data](articles/143c35e1.json)
-
----
-
 ### Request to keep Sashindra in a wet room
 
 *2025-09-30 11:50:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஷிந்திரவை-ஈரமான-அறையில்-வைக்க-கோரிக்கை/175-365520) · `ta`
@@ -224,30 +108,6 @@ The order was issued after considering the request of his lawyer to grant bail t
 [Data](articles/40067ffd.json)
 
 [Extended Data](ext_articles/40067ffd.ext.json)
-
----
-
-### Sri Lanka’s DFCC Bank lists green bond on India International Exchange
-
-*2025-09-30 11:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-dfcc-bank-lists-green-bond-on-india-international-exchange-242241/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank green bond has been listed on the India International Exchange (IFSC) Limited, the bank said in a market filing.
-
-“We wish to inform that DFCC Bank’s Green Bond which is listed on the Colombo Stock Exchange (CSE), was listed
-
-on the India International Exchange (IFSC) Limited on 26 September 2025.”
-
-Previous listings were on the Luxembourg Stock Exchange (LuxSE) and National Stock Exchange International Exchange (NSE IX) India.
-
-“DFCC Bank PLC is the first foreign corporate entity to list a bond on the India International Exchange (IFSC) Limited.”
-
-Trading and settlement of the green bond will continue to be through the CSE in rupees.
-
-It will not be traded on the India International Exchange (IFSC) Limited, the bank said. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/4dee33d1.json)
 
 ---
 
@@ -345,24 +205,6 @@ In another incident, a 23 -year -old man was found dead in a house on Siriwarden
 
 ---
 
-### Sri Lanka’s president meets JETRO officials
-
-*2025-09-30 11:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-meets-jetro-officials-242232/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president Anura Dissanayakehas has met Ishiguro Norihiko, head of Japan External Trade Organization, and Fumihiko Kabayashi, head of the Japan-Sri Lanka Business Cooperation Committee (JSLBCC) and ITOCHU Corporation at the JETRO headquarters, his media division said.
-
-Dissanayake outlined “the new investment opportunities available in Sri Lanka” and “the measures taken by the government to foster an investment-friendly environment”.
-
-“The President also emphasized the importance of further strengthening trade cooperation between Sri Lanka and Japan, one of Sri Lankaâ€™s key economic partners, underscoring the mutual benefits such collaboration would bring.”
-
-Minister of Foreign Affairs Vijitha Herath, Western Province Governor Hanif Yusoof, Sri Lankan Ambassador to Japan Janak Kumarasinghe, Advisors to the President Hans Wijeyasuriya and Duminda Hulangamuwa, and ministry officials were also present. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/7c32cb0e.json)
-
----
-
 ### Another young man who was injured in an accident
 
 *2025-09-30 11:31:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-காயமடைந்த-மற்றுமொரு-இளைஞனும்-உயிரிழப்பு/175-365517) · `ta`
@@ -413,24 +255,6 @@ The Colombo Magistrate's Court has been remanded until the 14th of this month.
 
 ---
 
-### “கெஹெல்பத்தர பத்மே”வுக்கு சொந்தமான துப்பாக்கியை வைத்திருந்த இருவர் கைது!
-
-*2025-09-30 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226471) · `ta`
-
-தற்போது பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பாதாள உலக கும்பலைச் சேர்ந்த “கெஹெல்பத்தர பத்மே” என்பவருக்குச் சொந்தமான துப்பாக்கியை வைத்திருந்த இரண்டு சந்தேக நபர்கள் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைதுசெய்யப்பட்டுள்ளனர்.
-
-கைதுசெய்யப்பட்டவர்கள் ஜா-எல, வெலிகம்பிட்டிய பிரதேசத்தில் வசிக்கும் 24 முதல் 38 வயதுக்குட்பட்டவர்கள் ஆவர்.
-
-இந்தோனேசியாவில் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் மற்றும் இந்தோனேசியா பொலிஸாரால் 7 நாட்களாக மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது “கெஹெல்பத்தர பத்மே”, “கொமாண்டோ சலிந்த” மற்றும் “பாணந்துறை நிலங்க” உள்ளிட்ட 6 பேர் அடங்கிய பாதாள உலக கும்பல் ஆகஸ்ட் மாதம் 27 ஆம் திகதி கைதுசெய்யப்பட்டது.
-
-இவ்வாறு கைதுசெய்யப்பட்ட  பாதாள உலக கும்பலில் இருந்த “பக்கோ சமனின்” மனைவி ஆகஸ்ட் 29 ஆம் திகதி கட்டுநாயக்க விமான நிலையத்திற்கு அனுப்பி வைக்கப்பட்ட நிலையில் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைதுசெய்யப்பட்டு பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டதையடுத்து தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/3f1d5f09.json)
-
----
-
 ### School building collapses in Indonesia
 
 *2025-09-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215168) · `si`
@@ -454,24 +278,6 @@ It is reported that the unstable foundations of a two storied building have been
 [Data](articles/641b8284.json)
 
 [Extended Data](ext_articles/641b8284.ext.json)
-
----
-
-### மரக்கறிகளின் விலையில் வீழ்ச்சி!
-
-*2025-09-30 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226470) · `ta`
-
-கடந்த சில நாட்களாக மரக்கறிகளின் விலை குறைவடைந்துள்ளதாக தம்புள்ளை பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது.
-
-நாளாந்தம் கிடைக்கும் மரக்கறிகளின் எண்ணிக்கை அதிகரித்ததன் காரணமாக மரக்கறிகளின் விலை குறைவடைந்துள்ளதாக வியாபாரிகள் தெரிவித்துள்ளனர்.
-
-கரட், போஞ்சி, பூசணி, கோவா, தக்காளி, லீக்ஸ், முள்ளங்கி ஆகியவற்றின் விலை குறைவடைந்துள்ளதாக வியாபாரிகள் தெரிவித்துள்ளனர்.
-
-அதன்படி, ஒரு கிலோ பூசணி 60 ரூபாய்க்கு விற்பனை செய்யப்படுவதாக வியாபாரிகள் மேலும் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/a78a1130.json)
 
 ---
 
@@ -509,28 +315,6 @@ Government and private institutions in Sri Lanka have not yet been completely di
 
 ---
 
-### தாலிபான்கள் இணையத்தை துண்டித்ததால் ஆப்கானிஸ்தானில் தொலைத்தொடர்பு முடக்கம்
-
-*2025-09-30 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226469) · `ta`
-
-ஆப்கானிஸ்தானில் தாலிபான் அரசாங்கம், ஃபைபர்-ஆப்டிக் இணைய இணைப்புகளைத் (fibre-optic internet connections) துண்டிக்கத் தொடங்கிய சில வாரங்கள் கழித்து , நாடளவிய ரீதியில் தொலைத்தொடர்புகளை முடக்கியுள்ளது.
-
-ஆப்கானிஸ்தான் தற்போது "முழுமையான இணைய முடக்கத்தை" சந்தித்து வருவதாக, இணைய கண்காணிப்பு அமைப்பான நெட்பிளாக்ஸ் தெரிவித்துள்ளது.
-
-தலைநகர் காபூலில் உள்ள அலுவலகங்களுடனான தொடர்பை சர்வதேச செய்தி நிறுவனங்கள் துண்டித்துள்ளதாகக் கூறுகின்றன.
-
-ஆப்கானிஸ்தான் முழுவதும் கையடக்க தொலைபேசிக்கான இணைய வசதி மற்றும் செயற்கைக்கோள் தொலைக்காட்சியும் கடுமையாக பாதிக்கப்பட்டுள்ளன.
-
-முடக்கத்திற்கான உத்தியோகபூர்வ காரணத்தை தலிபான்கள் இன்னும் தெரிவிக்கவில்லை. 2021 இல் அதிகாரத்தைக் கைப்பற்றியதிலிருந்து, இஸ்லாமிய ஷரியா சட்டத்தின் விளக்கத்தின்படி தாலிபான்கள் ஏராளமான கட்டுப்பாடுகளை விதித்துள்ளனர்.
-
-தொலைத்தொடர்பு முடக்கம் மறு அறிவித்தல் வரும் வரை நீடிக்கும் என தலிபான் அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/d83d5d49.json)
-
----
-
 ### Bomber
 
 *2025-09-30 11:05:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தட்டுவானில்-வெடிக்காத-வெடிகுண்டு/175-365515) · `ta`
@@ -546,42 +330,6 @@ It is noteworthy that the bombs have been removed in the theme of humanitarian m
 [Data](articles/80ffbae0.json)
 
 [Extended Data](ext_articles/80ffbae0.ext.json)
-
----
-
-### அநுராதபுரத்தில் சிறு வயது கர்ப்பிணிகளின் எண்ணிக்கை அதிகரிப்பு!
-
-*2025-09-30 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226468) · `ta`
-
-அநுராதபுரம் மாவட்டத்தில் சிறு வயது கர்ப்பிணிகளின் எண்ணிக்கை அதிகரித்துள்ளதாக அநுராதபுரம் மாவட்ட சிறுவர் மற்றும் மகளிர் அபிவிருத்தி குழு தெரிவித்துள்ளது.
-
-கல்வி நடவடிக்கைகளுக்காக சிறுவயதினர் இணையத்தை பயன்படுத்துவதன் காரணமாக சிறு வயது கர்ப்பம் அதிகரித்துள்ளதாக அக்குழுவின் அதிகாரிகள் தெரிவித்தனர்.
-
-சிறுவர்களிடையில் கையடக்கதொலைபேசி பயன்பாட்டை ஒழுங்குபடுத்துதல், சிறப்புத் தேவைகள் உள்ளவர்களுக்கு கல்வியை மேம்படுத்துதல் மற்றும் சிறுவர் நலத் திட்டங்களை வலுப்படுத்துதல் வேண்டும்.
-
-யுனிசெஃப் (UNICEF) ஐக்கிய நாடுகளின் சிறுவர் நிதியம் மாவட்டங்களிலுள்ள ஐந்து வயதுக்குட்பட்ட சிறுவர்களுக்கான  ஊட்டச்சத்து திட்டத்தைத் ஆரம்பிக்கவுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/c2ea46b6.json)
-
----
-
-### சஷீந்திர ராஜபக்ஷவுக்கு மீண்டும் விளக்கமறியல்!
-
-*2025-09-30 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226466) · `ta`
-
-பொதுச்சொத்து சட்டத்தின் கீழ் குற்றச்சாட்டுகளின் அடிப்படையில் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள  முன்னாள் இராஜாங்க அமைச்சர் சஷீந்திர ராஜபக்ஷவை எதிர்வரும் ஒக்டோபர் மாதம் 14 ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் அசங்க எஸ். போதரகம உத்தரவிட்டுள்ளார்.
-
-சஷீந்திர ராஜபக்ஷ இன்றையதினம் செவ்வாய்க்கிழமை (30) கொழும்பு நீதவான் நீதிமன்றில்  ஆஜர்படுத்தப்பட்டபோது நீதவான் இந்த உத்தரவை பிறப்பித்துள்ளார்.
-
-இலஞ்சம் மற்றும் ஊழல் ஒழிப்பு ஆணைக்குழுவின் அதிகாரிகள் மற்றும் முன்னாள் இராஜாங்க அமைச்சரின் சட்ட பிரதிநிதிகள் சமர்ப்பித்த ஆவணங்களை பரிசீலித்ததன் பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-சிறைச்சாலை வைத்தியசாலை மற்றும் பிற மருத்துவ நிறுவனங்களில் இருந்து சஷீந்திர ராஜபக்ஷ தொடர்பில் வழங்கப்பட்ட சிகிச்சை குறித்த விரிவான அறிக்கையை அடுத்த விசாரணை திகதிக்குள் நீதிமன்றத்தில் சமர்ப்பிக்குமாறு, சிறைச்சாலை கண்காணிப்பாளருக்கு நீதவான் உத்தரவிட்டார்.
-
-...
-
-[Data](articles/44d90bf3.json)
 
 ---
 
@@ -604,26 +352,6 @@ Meanwhile, the Chairman of the Western Province Road Passenger Transport Authori
 [Data](articles/efc2eb97.json)
 
 [Extended Data](ext_articles/efc2eb97.ext.json)
-
----
-
-### விமான நிலையத்தில் வெளிநாட்டு மதுபான போத்தல்களுடன் வர்த்தகர் கைது!
-
-*2025-09-30 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226467) · `ta`
-
-கட்டுநாயக்க விமான நிலையத்தில் வெளிநாட்டு மதுபான போத்தல்களுடன் வர்த்தகர் ஒருவர் விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினரால் இன்று செவ்வாய்க்கிழமை (30) அதிகாலை கைதுசெய்யப்பட்டுள்ளார்.
-
-வர்த்தகர் விமான பயணத்தை மேற்கொள்ளாமல் கட்டுநாயக்க விமான நிலையத்தினுள் உள்ள விற்பனை  நிலையத்திலிருந்து 75 வெளிநாட்டு மதுபான போத்தல்களை கொள்வனவு செய்து பின்னர் விமான நிலையத்தின் "Green Channel" வழியாக விமான நிலையத்தை விட்டு வெளியேற முயன்ற போது பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினரால் கைதுசெய்யப்பட்டுள்ளார்.
-
-கொள்வனவு செய்த வெளிநாட்டு மதுபான போத்தல்களின் பெறுமதி ஒரு மில்லியன் ரூபா ஆகும்.
-
-இந்த வர்த்தகர்  இறுதியாக 2024 ஆம் ஆண்டு ஆகஸ்ட் மாதம் 17 ஆம் திகதி வெளிநாடு சென்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
-
-இது தொடர்பான மேலதிக விசாரணைகளை விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/455814e0.json)
 
 ---
 
@@ -883,36 +611,6 @@ The Magistrate also directed the Superintendent of Prisons to submit a comprehen
 
 ---
 
-### பாடசாலை மாணவர்களை ஏற்றிச் சென்ற வேன் விபத்து ; நால்வர் காயம்!
-
-*2025-09-30 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226464) · `ta`
-
-கொழும்பு - வொக்ஷோல் வீதியில் இடம்பெற்ற விபத்தில்  பாடசாலை மாணவர்கள்  உட்பட நால்வர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பாடசாலை மாணவர்களை ஏற்றிச் சென்ற வேனும் இலங்கை போக்குவரத்துச் சபைக்கு சொந்தமான பஸ்ஸும் ஒன்றுடன் ஒன்று மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/34c4a3c6.json)
-
----
-
-### லண்டனில் மகாத்மா காந்தி சிலை சேதப்படுத்தப்பட்டதற்கு இந்தியா கண்டனம்
-
-*2025-09-30 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226462) · `ta`
-
-லண்டனில் உள்ள டேவிஸ்டாக் சதுக்கத்தில் மகாத்மா காந்தியின் சிலை சேதப்படுத்தப்பட்டதற்கு இந்தியா கடும் கண்டனம் தெரிவித்துள்ளது.
-
-லண்டன் டேவிஸ்டாக் சதுக்கத்தில் காந்தி சிலை உள்ளது. தியான நிலையில் காந்தி இருப்பதை போன்று அமைக்கப்பட்டுள்ளதோடு, ஒரு அடையாளமாகவும் இந்த சிலை போற்றப்படுகிறது. ஆண்டுதோறும் காந்தி ஜெயந்தி இங்கு கொண்டாடப்பட்டு வருவது வழக்கம். இந்நிலையில், இந்த சிலையை மர்ம நபர்கள் சேதப்படுத்தி உள்ளனர். இது குறித்த விவரத்தை அறிந்த இந்திய தூதரகம், இந்த செயல் ஒரு வெட்கக்கேடானது என்று கடும் கண்டத்தை பதிவு செய்துள்ளது.
-
-லண்டனில் உள்ள டேவிஸ்டாக் சதுக்கத்தில் உள்ள காந்தி சிலையை நாசப்படுத்திய வெட்கக்கேடான செயலை மிகவும் வருத்தத்துடன் வன்மையாகக் கண்டிக்கிறோம். வெறும் நாசவேலை மட்டுமல்ல, சர்வதேச அஹிம்சை தினத்திற்கு 3 நாட்களுக்கு முன்பு, அஹிம்சை கருத்து மற்றும் காந்தியின் மரபு மீதான வன்முறைத் தாக்குதல்.
-
-...
-
-[Data](articles/c5d3df13.json)
-
----
-
 ### Sri Lankan Crime Trio Busted in Bengaluru Hideout
 
 *2025-09-30 10:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/sri-lankan-crime-trio-busted-in-bengaluru-hideout) · `en`
@@ -922,18 +620,6 @@ The Magistrate also directed the Superintendent of Prisons to submit a comprehen
 [Data](articles/135afec3.json)
 
 [Extended Data](ext_articles/135afec3.ext.json)
-
----
-
-### இந்தியா – சீனா போட்டி மற்றும் இலங்கையின் தாராளநிலை
-
-*2025-09-30 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226463) · `ta`
-
-'இந்தியக் கவலைகளுக்கு பதிலளிக்கும் வகையில் கருத்துரைத்த தெற்காசிய கற்கைகளுக்கான சீன நிலையத்தின் பிரதிப் பணிப்பாளர் கலாநிதி. ஹுவாங் யுன்சோங்,  சீனாவின் முதலீடுகள் பிராந்தியத்தை இராணுவமயமாக்குவதை நோக்கமாகக் கொண்டவை அல்ல என்று அவர் திட்டவட்டமாக மறுத்தார். 'முத்துக்களின் சரம்'  (String of Pearls)போன்ற கதைகள் சீன முதலீடுகளைத் தவறாகச் சித்தரிக்கின்றன என்றார்'
-
-◼️
-
-[Data](articles/ed961b9f.json)
 
 ---
 
@@ -952,30 +638,6 @@ The launch event was attended by key figures who underscored the importance of p
 [Data](articles/b53d34ea.json)
 
 [Extended Data](ext_articles/b53d34ea.ext.json)
-
----
-
-### திருட்டுச் சம்பவத்துடன் தொடர்புடையவர் ஹெரோயினுடன் கைது: உடந்தையாக இருந்த மேலும் இருவர் கைது
-
-*2025-09-30 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226460) · `ta`
-
-பல தங்க ஆபரணங்கள் மற்றும் பொருட்களை திருடிய சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் ஒருவர் ஹெரோயின் போதைப்பொருளுடன் களனி பிரதேச குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் நேற்று திங்கட்கிழமை(29) கைது செய்யப்பட்டுள்ளார்,
-
-களனி பிரதேச குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் மேற்கொள்ளப்பட்ட சுற்றிவலைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்,
-
-சந்தேக நபர் கொலன்னாவ பகுதியைச் சேர்ந்த 29 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
-
-திருட்டு சம்பவம் தொடர்பில் வெல்லம்பிட்டி பொலிஸாரால் தேடப்படும் சந்தேக நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
-
-சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, திருடப்பட்ட பொருட்களை வைத்திருந்த பெண் உட்பட இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
-
-இரண்டு சந்தேக நபர்களும் கொலன்னாவை மற்றும் வெல்லம்பிட்டி பகுதிகளைச் சேர்ந்த 45 மற்றும் 44 வயதுடையவர்கள் என தெரியவந்துள்ளது.
-
-மேலும் கைது செய்யப்பட்ட இரண்டு சந்தேக நபர்களும் மேலதிக விசாரணைகளுக்காக பேலியகொடை பொலிஸ் நிலையத்தில் ஆஜர்படுத்தப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/c627481b.json)
 
 ---
 
@@ -1057,22 +719,6 @@ The inaugural ceremony was graced by a distinguished panel of guests, each repre
 
 ---
 
-### ஜப்பானின் முன்னணி வர்த்தகர்களுடன் ஜனாதிபதி கலந்துரையாடல்
-
-*2025-09-30 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226461) · `ta`
-
-ஜப்பான் அரசாங்கத்தின் அழைப்பின்பேரில் அங்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க திங்கட்கிழமை (29) ஜப்பான் வெளிநாட்டு வர்த்தக அமைப்பின் (JETRO) தலைமையகத்தில் ஜப்பானின் முன்னணி வர்த்தகர்களுடன் வட்டமேசை கலந்துரையாடலில் ஈடுபட்டார்.
-
-ஜப்பான்  வெளிநாட்டு வர்த்தக அமைப்பின் (JETRO) தலைவர் மற்றும்  பிரதம நிறைவேற்று அதிகாரி   இஷிகுரோ நொரிஹிகோவின்  (ISHIGURO Norihiko) பங்கேற்புடன் நடைபெற்ற இந்த கலந்துரையாடலில் ஜப்பான் இலங்கை வர்த்தக ஒத்துழைப்புக் குழுவின் (JSLBCC) தலைவர் மற்றும் ITOCHU இன் தலைவர்  புமிஹிகோ கொபயாஷி (Fumihiko Kabayashi) உள்ளிட்டோர் கலந்து கொண்டனர்.
-
-இலங்கையில் காணப்படும் புதிய முதலீட்டு வாய்ப்புகள் குறித்து இங்கு சுட்டிக்காட்டிய ஜனாதிபதி அநுரகுமார திசாநாயக்க, நாட்டில் முதலீட்டுக்கு ஏற்ற சூழலை உருவாக்கி மோசடி மற்றும் ஊழலை ஒழிப்பதற்கு தற்போதைய அரசாங்கம் எடுத்துள்ள நடவடிக்கைகள் குறித்தும் தெளிவுபடுத்தினார்.
-
-...
-
-[Data](articles/38cca465.json)
-
----
-
 ### President Meeting with Japan's leading traders
 
 *2025-09-30 09:49:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-முன்னணி-வர்த்தகர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-365506) · `ta`
@@ -1102,32 +748,6 @@ The President further pointed out the need to improve trade cooperation between 
 [Data](articles/ceae08cd.json)
 
 [Extended Data](ext_articles/ceae08cd.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-30 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242218/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.55/70 to the US dollar on Tuesday, weaker from 302.55/60 on the previous day, while bond yields were broadly steady, dealers said.
-
-A bond maturing on 15.12.2029 was quoted flat at 9.55/60 percent.
-
-A bond maturing on 01.07.2030 was quoted at 9.70/72 percent, up from 9.68/72 percent.
-
-A bond maturing on 01.11.2033 was quoted at 10.70/80 percent.
-
-A bond maturing on 15.09.2034 was quoted at 10.77/84 percent.
-
-The telegraphic transfer rates for the American dollar was 299.0000 buying, 306.0000 selling; the British pound was 400.3909 buying, and 411.7527 selling, and the euro was 348.1570 buying, 359.5202 selling.
-
-The Colombo Stocks Exchange was trading in green; The ASPI was up 0.18 percent, or 40.05 points, at 21,716; the S&P SL20 was up 0.09 percent, or 5.39 points, at 6,124.
-
-43,000 million rupees Treasury bills are to be issued through an auction on October 1. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/793fc582.json)
 
 ---
 
@@ -1176,22 +796,6 @@ Gold has soared more than 45% this year, setting successive peaks on central-ban
 [Data](articles/732d8fb1.json)
 
 [Extended Data](ext_articles/732d8fb1.ext.json)
-
----
-
-### களுத்துறையில் போதைப்பொருள் கடத்தலில் ஈடுபட்ட இருவர் கைது
-
-*2025-09-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226459) · `ta`
-
-செப்டம்பர் 27ஆம் திகதி, களுத்துறை பிரிவு குற்றப் புலனாய்வுப் திணைக்கள அதிகாரிகள் குழு, போதைப்பொருள் கடத்தலில் ஈடுபட்ட மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களுடன் தொடர்புடைய இருவரைக் கைது செய்துள்ளது.
-
-இதன்போது, பொலிஸாரினால் நடத்தப்பட்ட முழுமையான விசாரணைகளின் போது, 12 துப்பாக்கிகள், 02 தோட்டாக்கள், 10 கிராம் 25 மில்லிகிராம் ஹெரோயின் போதைப்பொருள்,  போதைப்பொருட்களை கொண்டு செல்லப் பயன்படுத்தப்பட்ட  மோட்டார் சைக்கிள் ஒன்று, 04 மோட்டார் சைக்கிள் உரிமத் தகடுகள், 02 வாகன வருமான வரி அனுமதி பத்திரங்கள் மற்றும் 02 காப்புறுதிகள் அவர்களிடமிருந்து கைப்பற்றப்பட்டுள்ளன.
-
-குறித்த சந்தேக நபர்கள் களுத்துறை பகுதியைச் சேர்ந்த 24 மற்றும் 30 வயதுடையவர்கள் என விசாரணைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/91569274.json)
 
 ---
 
@@ -1270,26 +874,6 @@ The man is to be produced before the Negombo Magistrate's Court on the Negombo M
 [Data](articles/b07b91f6.json)
 
 [Extended Data](ext_articles/b07b91f6.ext.json)
-
----
-
-### பல்கலைக்கழக விரிவுரையாளர்கள் ஒருநாள் அடையாள பணிப்புறக்கணிப்பு!
-
-*2025-09-30 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226458) · `ta`
-
-நாடளாவிய ரீதியில் அரச பல்கலைக்கழக விரிவுரையாளர்கள் இன்று செவ்வாய்க்கிழமை (30) ஒரு நாள் அடையாள பணிப்புறக்கணிப்பை முன்னெடுத்துள்ளனர்.
-
-சம்பள முரண்பாடுகள் ,  விரிவுரையாளர்கள் பற்றாக்குறை மற்றும் பல்கலைக்கழக கட்டமைப்பில் உள்ள குறைபாடுகளை நிவர்த்தி செய்ய அரசாங்கம் நடவடிக்கை எடுக்கத் தவறியமை உள்ளிட்ட பல கோரிக்கைகளை முன்வைத்து பல்கலைக்கழக ஆசிரியர் சங்க சம்மேளனம் பணிப்புறக்கணிப்பை முன்னெடுத்துள்ளனர்.
-
-கொழும்பில் நேற்று திங்கட்கிழமை (29) நடைபெற்ற செய்தியாளர் சந்திப்பில் பங்கேற்ற பல்கலைக்கழக விரிவுரையாளர்கள் சங்கங்களின் கூட்டமைப்பின் செயலாளர், சிலேஷ்ட விரிவுரையாளர் சாருதத்த இளங்கசிங்க தெரிவிக்கையில்,
-
-அரசாங்கம் ஆட்சிக்கு வந்து ஒரு வருடம் கடந்துவிட்டது. ஆனால் அரச பல்கலைக்கழகங்களில் உள்ள நெருக்கடிகளுக்கு இன்னும் தீர்வு காணப்படவில்லை. தற்போது அரச கல்வி வீழ்ச்சியடைந்து கடுமையான நெருக்கடியை எதிர்நோக்கியுள்ளது.
-
-பல்கலைக்கழக பேராசிரியர்களின் பற்றாக்குறை தற்போது கடுமையான நிலையில் காணப்படுகின்றது. பேராதனை பல்கலைக்கழகத்தில் இருந்து கடந்த ஆண்டில் மட்டும் சுமார் 200 பேராசிரியர்கள் வெளியேறியுள்ளனர்.
-
-...
-
-[Data](articles/317f60d5.json)
 
 ---
 
@@ -1414,24 +998,6 @@ Foreign, Foreign Employment and Tourism and Tourism Vijitha Herath and the Sri L
 [Data](articles/c7ba5c2f.json)
 
 [Extended Data](ext_articles/c7ba5c2f.ext.json)
-
----
-
-### காசா அமைதித் திட்டத்திற்கு நெதன்யாகு ஆதரவு – டொனால்ட் ட்ரம்ப் அறிவிப்பு
-
-*2025-09-30 08:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226453) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப், பரந்த அளவிலான காசா அமைதித் திட்டத்திற்கு பெஞ்சமின் நெதன்யாகுவின் ஆதரவைப் பெற்றுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-அதேநேரம், பாலஸ்தீன போராளிகள் அதை ஏற்கத் தவறினால் ஹமாஸூக்கு எதிரான வேலையை முடிப்பேன் என இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாகு எச்சரிக்கை விடுத்துள்ளதாகவும் தெரிவிக்கப்படுகிறது.
-
-போரை முடிவுக்குக் கொண்டுவருவதற்கான 20 அம்ச திட்டத்தின் நிச்சயமற்ற தன்மையை ஏற்படுத்திய வகையில், இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெதன்யாகுவுடன் வெள்ளை மாளிகையில் அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் வெளியிட்ட திட்டம் குறித்து ஹமாஸ் இன்னும் தனது தீர்ப்பை வழங்கவில்லை எனவும் தெரிவிக்கப்படுகிறது.
-
-இந்தத் திட்டம் போர் நிறுத்தம், 72 மணி நேரத்திற்குள் ஹமாஸால் பணயக்கைதிகளை விடுவித்தல், ஹமாஸை நிராயுத பாணியாக்குதல் மற்றும் காசாவிலிருந்து படிப்படியாக இஸ்ரேல் வெளியேறுதல், அதைத் தொடர்ந்து அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் தலைமையிலான போருக்குப் பிந்தைய இடைக்கால அதிகாரம் ஆகியவற்றைக் கோருவதாக அமைந்துள்ளது.
-
-...
-
-[Data](articles/ffdad3b4.json)
 
 ---
 
@@ -1604,26 +1170,6 @@ The body has been placed in the Kalubowila hospital morgue and the Dehiwala Poli
 [Data](articles/a17c56a6.json)
 
 [Extended Data](ext_articles/a17c56a6.ext.json)
-
----
-
-### Japan begins military grant-aid to Sri Lanka with drones for navy
-
-*2025-09-30 08:02:00* · [`economynextcom`](https://economynext.com/japan-begins-military-grant-aid-to-sri-lanka-with-drones-for-navy-242207/) · `en`
-
-ECONOMYNEXT – Japan has begun military grant aid to Sri Lanka, taking a step beyond its usual support to the Indian Ocean island, through Official Development Assistance (ODA), the Japanese embassy said.
-
-The exchange of notes for the Official Security Assistance (OSA) took place between Akio ISOMATA, Ambassador of Japan to Sri Lanka, and Vijitha Herath, Minister of Foreign Affairs of Sri Lanka in Tokyo in the presence of Prime Minister Shigeru Ishiba and President Anura Dissanayake.
-
-In the first project Japan is giving 500 million yen (about a billion rupees) for two types of  Japanese-made drones for the Sri Lanka Navy to be used for for monitoring, surveillance and disaster relief.
-
-“Japan’s first OSA for Sri Lanka signifies that bilateral cooperation in security has entered a new phase,” the embassy said in a statement.
-
-“Launched in 2023, OSA is a new grant aid cooperation framework of Japan to strengthen the security and deterrence capabilities of like-minded countries.
-
-...
-
-[Data](articles/6fa728cf.json)
 
 ---
 
@@ -1871,26 +1417,546 @@ The plinth of the iconic statue, which depicts the Father of the Nation in a sea
 
 ---
 
-### Ceylon Tea: ජපානයේදී සිදුවූයේ කුමක් ද? නොබෙල් ත්‍යාගය පිරිනමන විෂයයන් මොනවා ද?
+### Women's ODI World Cup begins today
 
-*2025-09-30 07:18:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gk44wzn5zo) · `si`
+*2025-09-30 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215160) · `si`
 
-Ceylon Tea: ජපානයේදී සිදුවූයේ කුමක් ද? නොබෙල් ත්‍යාගය පිරිනමන විෂයයන් මොනවා ද?
+The Women's World Cup ODI Series begins today (30).
 
-නොබෙල් ත්‍යාගය යනු ලෝකයේ බොහෝ දෙනෙකුගේ අවධානය හිමි කර ගත් වාර්ෂිකව පිරිනමන ගෞරවණීය අගැයීමකි.
+The inauguration of the tournament will be held at the Guathi Stadium in India and the first match will be held between the Sri Lanka women's group and Indian women's group.
 
-එම ත්‍යාගය පිළිබඳව සෑම වසරකදී ම නොබෙල් ත්‍යාගලාභීන් නිවේදනය කරන අවස්ථාවලදී විශේෂ අවධානයක් යොමු වෙයි.
+The Sri Lankan team participates in seven matches and two matches will be held in India and five matches in Sri Lanka.
 
-මේ දිනවල ශ්‍රී ලංකාවේ සමාජ මාධ්‍ය භාවිත කරන්නන් බොහෝ දෙනෙක් ද, නොබෙල් ත්‍යාගය පිළිබඳව අදහස් පළ කරමින් සිටිති.
+The finals of the Women's World Cup ODI series will be held on November 2.
 
-ඊට හේතුව වී ඇත්තේ, ශ්‍රී ලංකාවේ තේ සඳහා නොබෙල් ත්‍යාගය හිමි වූ බවට කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති කළ ප්‍රකාශයකි.
+◼️
 
-AI තාක්ෂණය පිළිබඳ "NATIONAL AI EXPO 2025" සම්මන්ත්‍රණය හා ප්‍රදර්ශනයෙහි ආරම්භක අවස්ථාවට එක්වෙමින් අමාත්‍ය සුනිල් හඳුන්නෙත්ති මාධ්‍යවේදීන් පිරිසක් හමුවේ ප්‍රකාශ කළේ, ශ්‍රී ලංකාවේ තේ සඳහා නොබෙල් ත්‍යාගය හිමි වූ බව ය.
+[Data](articles/45c3219c.json)
 
-"අපිට නොබෙල් ප්‍රයිස් එක ලැබුණා පහුගිය දවසක ජපානෙ තිබිච්ච එක්සිබිෂන් එකේදි ලංකාවෙ තේ කිලෝ එකක් ඩොලර් 860 ගාණකට ගියා. ඒක ලංකාවෙ මුදලින් 275,000ක් විතර. ඒක මං හිතන්නෙ ගිනස් රිපෝට් එකක්, ගිනස් වාර්තාවක් පිහිටෙව්වා."
+[Extended Data](ext_articles/45c3219c.ext.json)
+
+---
+
+### Three arrested in India
+
+*2025-09-30 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215159) · `si`
+
+Three Sri Lankans involved in crimes have been arrested by the Bangalore Central Crimes Division in India.
+
+The Indian media has been arrested for his arrest that Iresh Hasankale, Sugath Samsung and Dileep Harshana.
+
+The three suspects have been involved in crimes in Sri Lanka and said that last year was illegally entered into India.
+
+◼️
+
+[Data](articles/8ad7bfbb.json)
+
+[Extended Data](ext_articles/8ad7bfbb.ext.json)
+
+---
+
+### Three Sri Lankans involved in crimes arrested in Bengaluru
+
+*2025-09-30 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113054/three-sri-lankans-involved-in-crimes-arrested-in-bengaluru) · `en`
+
+Three Sri Lankans who were allegedly involved in crimes have been arrested by the Central Crime Branch of Bengaluru.
+
+The three Sri Lankans were allegedly staying illegally in an apartment near Devanahalli in Bengaluru, Indian media reports state.
+
+Police suspect they were hiding in the city for several months.
+
+The accused, aged 29, 31 and 41 are residents of Dondra, Ratmalana and Kotahena.
+
+Investigations have revealed the trio entered India illegally from Jaffna to Rameswaram, Tamil Nadu in 2024, after which they briefly stayed in Chennai and Coimbatore before moving to Bengaluru. None of them had valid documents, including passports.
+
+Police said one of the arrested individuals is wanted in a drug peddling case while another is facing charges of murder and other offences in Sri Lanka.
 
 ...
 
-[Data](articles/851bf923.json)
+[Data](articles/ff4c57cf.json)
+
+[Extended Data](ext_articles/ff4c57cf.ext.json)
+
+---
+
+### Govt aims to expand Sri Lanka’s digital economy to USD 15 billion: PM Harini
+
+*2025-09-30 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113053/govt-aims-to-expand-sri-lankas-digital-economy-to-usd-15-billion-pm-harini) · `en`
+
+The foundation for realizing Sri Lanka’s vision of entering the digital era is developing the human resource that is compatible with modern technology and a significant focus was drawn in this regard in the ongoing educational reforms, Prime Minister Dr. Harini Amarasuriya stated.
+
+The Prime Minister made these remarks at the inauguration ceremony of the first National AI Expo 2025, held in Battaramulla.
+
+The conference and exhibition, jointly organized by the Ministry of Digital Economy and Sri Lanka Telecom Mobitel, will be held on September 29 and 30.
+
+The National AI Expo serves as a premier destination for innovations in artificial intelligence, aiming to promote the integration of AI with modern technology, foster collaboration among researchers, entrepreneurs, and companies, and encourage the use of AI across diverse industries. It also seeks to introduce AI technology and tools to students from the school level.
+
+...
+
+[Data](articles/488515af.json)
+
+[Extended Data](ext_articles/488515af.ext.json)
+
+---
+
+### New peace plan to Gaza
+
+*2025-09-30 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215158) · `si`
+
+The US President Donald Trump and the Israeli Prime Minister Benjamin Netanyahu says he has agreed to a new peace plan for Gaza.
+
+They have warned the Hamas agreed to agree with the plan.
+
+The new peace plan has proposed immediate stopping military operations and has proposed to release 20 Israeli hostages within 72 hours.
+
+Foreign media reports that the American White House has made a proposal to Hamas.
+
+◼️
+
+[Data](articles/527c922d.json)
+
+[Extended Data](ext_articles/527c922d.ext.json)
+
+---
+
+### Showers in several areas
+
+*2025-09-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215156) · `si`
+
+Several spells of showers in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The Department of Meteorology announced that there would be a few showers in the North Western Province.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds can occur 30-40 times.
+
+◼️
+
+[Data](articles/517de7ff.json)
+
+[Extended Data](ext_articles/517de7ff.ext.json)
+
+---
+
+### University lecturers to launch strike today over several issues
+
+*2025-09-30 06:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113052/university-lecturers-to-launch-strike-today-over-several-issues) · `en`
+
+The Federation of University Teachers’ Associations (FUTA) has announced that university lecturers will engage in strike action today (30) due to the government’s continued failure to resolve the pressing issues within the university system.
+
+FUTA Secretary Senior Lecturer Charudaththe Ilangasinghe made this statement during a media conference held in Colombo.
+
+He stated that although it has been a year since the current government came into power, there has still been no resolution to the ongoing crises affecting state universities.
+
+Charudaththe Ilangasinghe further emphasized that the public education in the country is currently facing a severe crisis.
+
+Ilangasinghe also highlighted the serious shortage of university lecturers, noting that over 200 lecturers have left the University of Peradeniya alone within the past year.
+
+◼️
+
+[Data](articles/814425d6.json)
+
+[Extended Data](ext_articles/814425d6.ext.json)
+
+---
+
+### Donald Trump and Benjamin Netanyahu agree new Gaza peace plan
+
+*2025-09-30 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113051/donald-trump-and-benjamin-netanyahu-agree-new-gaza-peace-plan) · `en`
+
+US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu say they have agreed a new peace plan for Gaza, warning Hamas to accept it.
+
+The plan proposes an immediate end to military operations, with Hamas releasing 20 living Israeli hostages and the remains of the more than two dozen hostages who are believed to be dead within 72 hours, in exchange for hundreds of detained Gazans.
+
+A Palestinian source familiar with the ceasefire negotiations told the BBC that Hamas officials have been given the White House’s 20-point proposal.
+
+It demands that Hamas will have no role in governing Gaza, and leaves the door open for an eventual Palestinian state.
+
+Speaking at a news conference following talks at the White House, Trump called the plan “a historic day for peace”.
+
+But he said that Netanyahu will have US backing to do what he has to do if Hamas does not agree to the plan.
+
+Netanyahu then said Israel “will finish the job” if Hamas rejects the plan or does not follow through.
+
+...
+
+[Data](articles/9eaff153.json)
+
+[Extended Data](ext_articles/9eaff153.ext.json)
+
+---
+
+### Several spells of showers expected today in parts of the island
+
+*2025-09-30 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113050/several-spells-of-showers-expected-today-in-parts-of-the-island) · `en`
+
+Several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (30), the Department of Meteorology said.
+
+A few showers may occur in the North-western province as well.
+
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western, and Central provinces and in the Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/9e122148.json)
+
+[Extended Data](ext_articles/9e122148.ext.json)
+
+---
+
+### Trump taxes 100 percent for films that do not produce in America
+
+*2025-09-30 05:36:12* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකාවේ-නිෂ්පාදනය-නොකරන-චිත්‍රපට-සඳහා-ට්‍රම්ප්-සියයට-100ක-බදු-පනවයි/3-418797) · `si`
+
+US President Donald Trump said that all films not manufactured in the United States are working to impose 100% tariffs.
+
+He added that this lease is "the long-term and never running."
+
+The latest Tax expression of Trump has come to publish a new duty wave last week.
+
+Trump said in his true social platform: "Our film production has stolen from the United States, other countries, 'candy from an infant'." He said
+
+"For any and all films produced outside the US," 100% duties will be imposed.
+
+◼️
+
+[Data](articles/214a781f.json)
+
+[Extended Data](ext_articles/214a781f.ext.json)
+
+---
+
+### President -Japanese Defense Minister meets
+
+*2025-09-30 04:05:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜப்பான்-பாதுகாப்பு-அமைச்சர்-சந்திப்பு/175-365502) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan, said that Japanese Defense Minister TM at the Imperial Hotel in Tokyo yesterday. He met and discussed the move.
+
+The meeting focused on long -term friendship and regional security between the two countries.
+
+The further strengthening the current cooperation between Sri Lanka and Japan on security issues was rapidly investigated. (A)
+
+◼️
+
+[Data](articles/a93e6999.json)
+
+[Extended Data](ext_articles/a93e6999.ext.json)
+
+---
+
+### President-Japanese Finance Minister meets
+
+*2025-09-30 03:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜப்பான்-நிதி-அமைச்சர்-சந்திப்பு/175-365501) · `ta`
+
+The official visit to the Japanese government was held in Tokyo yesterday afternoon between President Anura Kumara Dissanayake and Japanese Finance Minister Kato Katunobu.
+
+During the meeting, focus on improving trade, investment and economic cooperation between the two countries.
+
+In addition, the current implementation of the new projects that are currently being implemented under the cooperation of the Japanese International Cooperation Agency have been discussed in detail.. (A)
+
+◼️
+
+[Data](articles/ab214636.json)
+
+[Extended Data](ext_articles/ab214636.ext.json)
+
+---
+
+### PM calls on new SLAS officers to stand against corruption, irregularities
+
+*2025-09-30 02:26:47* · [`dailyftlk`](https://www.ft.lk/news/PM-calls-on-new-SLAS-officers-to-stand-against-corruption-irregularities/56-782390) · `en`
+
+Prime Minister Dr. Harini Amarasuriya yesterday called on newly appointed Sri Lanka Administrative Service (SLAS) officers to contribute to building a dedicated and efficient public service free from political interference and malpractice.
+
+Addressing 1,890 newly appointed Grade III SLAS officers, she said the Government’s goal is to establish an independent public service that properly serves the people.
+
+“You are not joining a traditional public service. You are not entering the inefficient, politically-influenced public service that has prevailed for years, but rather an independent service that stands on behalf of the people,” she said at the ceremony held to award appointments to those officers who were selected from the open competitive examination and subsequent interviews for recruitment to Grade III of the SLAS.
+
+...
+
+[Data](articles/d62c7c8f.json)
+
+[Extended Data](ext_articles/d62c7c8f.ext.json)
+
+---
+
+### BASL defends lawyers’ car passes, says Gazette does not apply
+
+*2025-09-30 02:25:28* · [`dailyftlk`](https://www.ft.lk/news/BASL-defends-lawyers-car-passes-says-Gazette-does-not-apply/56-782389) · `en`
+
+The Bar Association of Sri Lanka (BASL) has written to the Inspector General of Police to clarify the position on lawyers’ car passes, following recent public debate on the issue.
+
+In its letter, the Association said that attempts to invalidate or remove the passes on the basis of a Gazette Notification would be unlawful, since the order does not extend to the use of BASL-issued vehicle passes.
+
+The Association argued that the passes, displayed on windscreens, do not contravene the Motor Traffic Act.
+
+The BASL expressed confidence that the existing system of issuing passes would continue unchanged, emphasising their role in day-to-day legal practice and security arrangements.
+
+It noted that the passes allow attorneys-at-law to be identified when entering courts, tribunals and other institutions linked to the administration of justice, and are also used by law enforcement as verification that a vehicle belongs to a lawyer.
+
+...
+
+[Data](articles/72d001de.json)
+
+[Extended Data](ext_articles/72d001de.ext.json)
+
+---
+
+### CA Sri Lanka present Budget 2026 proposals
+
+*2025-09-30 02:22:24* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-present-Budget-2026-proposals/34-782388) · `en`
+
+CA Sri Lanka President Heshana Kuruppu (centre left) presenting the Budget proposals to Treasury Secretary Dr. Harshana Suriyapperuma in the presence of CA Sri Lanka and Finance Ministry officials
+
+The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) yesterday announced that it has formally presented its proposals for the forthcoming National Budget 2026 to the Government.
+
+The proposals presented by CA Sri Lanka addresses several critical pillars of fiscal management, including policy planning and implementation, the establishment of a Tax Ombudsman, enhancing strategic trade policy and broadening the export base.
+
+It also included reforming the tax system to ensure equity and drive growth, reducing cash usage and promoting digital transactions, amendments to the administrative provisions, transformations within the State Sector, and strengthening fiscal discipline through the Public Finance Management Act.
+
+...
+
+[Data](articles/110515b1.json)
+
+[Extended Data](ext_articles/110515b1.ext.json)
+
+---
+
+### ICC Sri Lanka hosts Arbitration and Mediation Conference
+
+*2025-09-30 02:19:30* · [`dailyftlk`](https://www.ft.lk/business/ICC-Sri-Lanka-hosts-Arbitration-and-Mediation-Conference/34-782387) · `en`
+
+The International Chamber of Commerce of Sri Lanka (ICC) inaugurated the Arbitration & Mediation Hearing Centre in South Asia on 10 September in Colombo 3. The Centre was officially declared open by ICC Dispute Resolution Services Singapore Director – Arbitration and ADR, South Asia Tejus Chauhan on the invitation of ICC Sri Lanka and ICC Sri Lanka Arbitration & Mediation Hearing Centre Chairman and Attorney-at-Law Shanil Fernando, marking a historic milestone for the region.
+
+The ICC Sri Lanka Arbitration & Mediation Hearing Centre was established through the ICC Sri Lanka Chapter. The Centre will serve as a hub for commercial arbitration and mediation proceedings under ICC rules, offering businesses a reliable platform to resolve disputes efficiently. Speaking at the opening, Fernando noted that the Centre will also function as an educational platform to promote learning in arbitration and mediation practices.
+
+...
+
+[Data](articles/6ceebfa5.json)
+
+[Extended Data](ext_articles/6ceebfa5.ext.json)
+
+---
+
+### US investment outlook flags Sri Lanka’s stalled SOE privatisation, labour laws
+
+*2025-09-30 01:54:38* · [`dailyftlk`](https://www.ft.lk/business/US-investment-outlook-flags-Sri-Lanka-s-stalled-SOE-privatisation-labour-laws/34-782386) · `en`
+
+Sri Lanka’s stalled privatisation of State-owned enterprises, rigid labour laws and restrictions on foreign participation continue to weigh on investment prospects, the US State Department said in its 2025 Investment Climate Statement.
+
+The report noted that 527 State-owned enterprises, including 55 designated as strategic, remain a major burden on public finances.
+
+“The previous Government initiated a program aimed at comprehensive SOE reform, including potential privatisation of several major entities. However, the current Administration suspended these privatisation efforts upon taking office,” the report noted.
+
+“It has instead announced alternative restructuring approaches focused on improving management practices, reducing operational costs, and enhancing efficiency within the existing state ownership structure,” it added.
+
+...
+
+[Data](articles/853de735.json)
+
+[Extended Data](ext_articles/853de735.ext.json)
+
+---
+
+### Jan.-Aug. 2025 Budget deficit Rs. 411 b; falls 55% YoY
+
+*2025-09-30 01:52:59* · [`dailyftlk`](https://www.ft.lk/business/Jan-Aug-2025-Budget-deficit-Rs-411-b-falls-55-YoY/34-782385) · `en`
+
+Tax revenue up 31% YoY to Rs. 3 t in eight months to end-Aug 2025
+
+Recurrent expenditure grows 11% YoY to Rs. 3.4 t; capital expenditure falls sharply
+
+Outstanding Govt. debt as at end-June 2025 Rs. 28. 7 t; foreign debt Rs. 10.8 t
+
+The Government continues to improve its fiscal performance with the overall Budget deficit for the first eight months of 2025 falling 54.88% from a year ago to Rs. 411 billion, according to the latest data released by the Central Bank of Sri Lanka (CBSL).
+
+The overall Budget deficit in the eight months to the end of August 2024 was Rs. 911 billion.
+
+Tax revenue for the eight months grew 31% from Rs. 2.35 trillion a year ago to Rs. 3.07 trillion, with non-tax revenue growing 8% from Rs. 209 billion to Rs. 226.2 billion.
+
+Grants fell 17.3% to Rs. 6.7 billion, compared to Rs. 8.1 billion a year ago.
+
+...
+
+[Data](articles/f143a658.json)
+
+[Extended Data](ext_articles/f143a658.ext.json)
+
+---
+
+### Ceylon Chamber voices concerns over draft PPP Bill
+
+*2025-09-30 01:51:23* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-voices-concerns-over-draft-PPP-Bill/34-782384) · `en`
+
+Welcomes Govt. initiative but stresses need for investor friendly reforms
+
+Seeks clarification over legal standing to avoid overlaps with existing laws
+
+Calls for safeguarding independence of proposed National PPP Agency; proposes stronger conflict-of-interest provisions
+
+The Ceylon Chamber of Commerce yesterday said that while it commends the Government’s effort to introduce a legislative framework for PPPs through the Draft Public-Private Partnership (PPP) Bill, it noted several concerns that warrant further attention.
+
+These include ensuring the independence of the proposed National Agency for PPPs, strengthening competitive safeguards around unsolicited proposals, enhancing fiscal transparency through clearer reporting requirements, and providing more robust mechanisms for dispute resolution.
+
+“Addressing these issues will be vital to build investor confidence and safeguard the public interest,” the chamber said in a statement.
+
+...
+
+[Data](articles/67aa4e38.json)
+
+[Extended Data](ext_articles/67aa4e38.ext.json)
+
+---
+
+### SLFFA calls for urgent policy rethink on SVAT
+
+*2025-09-30 01:50:33* · [`dailyftlk`](https://www.ft.lk/business/SLFFA-calls-for-urgent-policy-rethink-on-SVAT/34-782383) · `en`
+
+Refund delays could stretch for 75–90 days, leaving companies with blocked cash flows that previously flowed smoothly under SVAT
+
+VAT-heavy operational expenses such as fuel, utilities, rent, capital purchases, and outsourced haulage now add to financial stress
+
+Says investment and forex inflows could shrink without a policy rethink
+
+The Sri Lanka Logistics and Freight Forwarders Association (SLFFA) yesterday urged the Government to urgently reconsider the recent changes to the Simplified Value Added Tax (SVAT) scheme, warning that the move could have serious implications for the logistics and export sectors.
+
+In a statement, SLFFA highlighted that the withdrawal of SVAT for exporters and related service providers has created additional cash flow burdens on companies already grappling with tight margins, fluctuating global freight rates, and rising operational costs.
+
+...
+
+[Data](articles/a837f345.json)
+
+[Extended Data](ext_articles/a837f345.ext.json)
+
+---
+
+### ICCSL urges stronger taxpayer education, safeguards in new policy paper
+
+*2025-09-30 01:47:49* · [`dailyftlk`](https://www.ft.lk/business/ICCSL-urges-stronger-taxpayer-education-safeguards-in-new-policy-paper/34-782382) · `en`
+
+From left: ICCSL COO Hiranya Samarasinghe, Department of Fiscal Policy Director J.C. Wickrama Arachchi, Director General Dr. Kapila Senanayake, ICCSL Chairman Shanil Fernando, University of Sri Jayewardenepura Faculty of Humanities and Social Sciences Department of Information and Communication Technology Head Prof. B.W.R. Damayanthi, ICCSL Research, Knowledge Mobilisation and Taxation Committee Chairperson Dr. Nadee Dissanayake, and ICCSL Project Coordinator Dahara Wijeratne
+
+Calls for nationwide taxpayer education via digital tools, outreach and workshops
+
+Proposes simplified communication for public and detailed guidance for professionals
+
+Suggests a dedicated Charter Monitoring Unit within Inland Revenue Department
+
+The International Chamber of Commerce Sri Lanka (ICCSL) has urged the Government to adopt reforms to strengthen awareness and compliance under the Taxpayer Charter.
+
+...
+
+[Data](articles/2caac010.json)
+
+[Extended Data](ext_articles/2caac010.ext.json)
+
+---
+
+### What is the draft against physical punishments? Are there "serious sensitive things" that affect the benefit of your children?
+
+*2025-09-30 01:34:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3vz69px1ylo) · `si`
+
+What is the draft against physical punishments? Are there "serious sensitive things" that affect the benefit of your children?
+
+On September 24, the second reading of the Penal Code (Amendment) Bill was presented to Parliament on September 24.
+
+It was first presented to Parliament on August 19, 2025.
+
+The Second Reading Debate was a warm flavor and opposition strongly opposed the cases of the revised Bill.
+
+According to Section 308, under 'punishing children about children, the 308th Amendment is to be amended.
+
+Accordingly, 308 Bisharders' custody, the load or security of a person under the age of 18 years -
+
+(A) The way it does not matter as a measure or corrective action, and a manifestation of physical force, which is caused by knowledge or inconvenience caused to a pain or difficulty. Or
+
+(B) No matter how low, any person commits physical punishment to a physical punishment.
+
+...
+
+[Data](articles/963606d6.json)
+
+[Extended Data](ext_articles/963606d6.ext.json)
+
+---
+
+### CSE begins new week on the up
+
+*2025-09-30 01:19:52* · [`dailyftlk`](https://www.ft.lk/business/CSE-begins-new-week-on-the-up/34-782371) · `en`
+
+The Colombo stock market yesterday opened the week on the up with plantation stocks driving turnover and the bourse extending its bullish run for more than a week.
+
+The benchmark ASPI closed 0.36% higher on yesterday, up 77.31 points to 21,676.20 while the active S&P SL20 closed 0.13% higher, up 7.64 points to 6,119.21.
+
+Turnover was Rs. 4.2 billion on more than 131.6 million shares traded. Foreigners were net sellers yesterday with a net outflow of Rs. 15.6 million, down from a Rs. 155 million outflow on Friday.
+
+First Capital Research said that the Colombo Bourse kicked off the week on a positive note, marked by a wave of bullish sentiment. The ASPI posted a gain of 77 points and closed at 21,676, strengthened by plantation sector counters and conglomerates.
+
+CARS, MELS, JKH, NAMU and WATA were the top positive contributors to the index. Moderate retail participation was chiefly observed on Plantation sector counters, whereas HNW participation was lower during the session.
+
+...
+
+[Data](articles/92912c89.json)
+
+[Extended Data](ext_articles/92912c89.ext.json)
+
+---
+
+### US tariffs: Implications and opportunities for Sri Lanka
+
+*2025-09-30 01:13:56* · [`dailyftlk`](https://www.ft.lk/opinion/US-tariffs-Implications-and-opportunities-for-Sri-Lanka/14-782370) · `en`
+
+The Sri Lanka–USA Business Council of the Ceylon Chamber of Commerce – focusing on strengthening bilateral trade, investment, and business ties between Sri Lanka and the United States, recently hosted a timely webinar on the evolving US tariff regime and its implications for Sri Lankan exporters. The session brought together trade experts and industry leaders to examine how Sri Lanka can navigate risks, leverage short-term opportunities, and prepare for long-term competitiveness.
+
+...
+
+[Data](articles/bb3a0279.json)
+
+[Extended Data](ext_articles/bb3a0279.ext.json)
+
+---
+
+### Building global brands at home: AOD enriches Sri Lanka’s creative economy with another entrepreneurial success
+
+*2025-09-30 00:33:58* · [`dailyftlk`](https://www.ft.lk/business/Building-global-brands-at-home-AOD-enriches-Sri-Lanka-s-creative-economy-with-another-entrepreneurial-success/34-782363) · `en`
+
+Creativity is often the defining capital behind profitable ventures. This was most recently seen in the wide global recognition of entrepreneur Nawoda Bandara, taking Sri Lankan fashion international, with the support of AOD.
+
+...
+
+[Data](articles/babf0550.json)
+
+[Extended Data](ext_articles/babf0550.ext.json)
+
+---
+
+### CSLEIS 2025 explores export diversification
+
+*2025-09-30 00:32:18* · [`dailyftlk`](https://www.ft.lk/business/CSLEIS-2025-explores-export-diversification/34-782362) · `en`
+
+The Sri Lanka Economic & Investment Summit 2025, themed “Gateway to Growth: Asia’s Emerging Opportunity”, will be held on 2 and 3 December at the Shangri-La, Colombo. A key sector deep dive on day one will examine how Sri Lanka can broaden its export base and deliver sustained growth through diversification.
+
+The session, “The New Age of Diversified Exports – Delivering on Diversified Export Products and Markets”, will highlight the urgency of moving beyond traditional export sectors as global demand patterns shift and resilience becomes a strategic imperative. The discussion will explore untapped opportunities in high-value industries such as cinnamon, seafood, electronics, minerals, and advanced manufacturing. It will also examine how Sri Lanka can strengthen its position in non-traditional markets through branding, standards, logistics, and strategic trade partnerships.
+
+...
+
+[Data](articles/59cfd3d9.json)
+
+[Extended Data](ext_articles/59cfd3d9.ext.json)
+
+---
+
+### HNB partners Sri Lanka Invention Commission to strengthen Sri Lanka’s innovation ecosystem
+
+*2025-09-30 00:28:09* · [`dailyftlk`](https://www.ft.lk/business/HNB-partners-Sri-Lanka-Invention-Commission-to-strengthen-Sri-Lanka-s-innovation-ecosystem/34-782361) · `en`
+
+Representatives from HNB and SLIC, including HNB MD/CEO Damith Pallewatte, SME and Microfinances EVP Rajive Dissanayake, and Retail Banking SVP/Head Kanchana Karunagama, alongside Sri Lanka Inventors Commission Commissioner Prof. Veranja Karunaratne, joined by other members of HNB and SLIC teams
+
+.HNB PLC, committed to driving innovation in Sri Lanka’s banking sector, has signed a MoU with the Sri Lanka Inventors Commission (SLIC) to support the existing and new inventors under the InnovaBiz EliteLink program. The partnership aims to provide Sri Lankan inventors with comprehensive support including financial assistance, technical guidance, commercialisation opportunities, and capacity-building initiatives.
+
+...
+
+[Data](articles/05cffd23.json)
+
+[Extended Data](ext_articles/05cffd23.ext.json)
 
 ---

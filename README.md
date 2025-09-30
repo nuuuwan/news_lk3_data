@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 19:02:39**
+As of **2025-09-30 18:45:52**
 
 ## Newspaper Stats
 
@@ -27,95 +27,83 @@ adaderanasinhalalk | 13,821
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,944 (100.0%) of 79,945 articles have been extended.
+79,923 (100.0%) of 79,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### Discussion between President and Jayawa Chairman
+### ජනපති සහ ජයිකා සභාපතිවරයා අතර සාකච්ඡාවක්
 
 *2025-09-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215190) · `si`
 
-President Anura Kumara Dissanayake on an invitation to the Japanese government invitudes visited the Japanese International Cooperation (JICA) in Tokyo, Tanaka Akuko.
+ජපාන රජයේ ආරාධනයකට අනුව එහි නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) පෙරවරුවේ ටෝකියෝ හි ඉම්පීරියල් හෝටලයේදී  ජපන් ජාත්‍යන්තර සහයෝගිතා ඒජන්සියේ (JICA) සභාපති  ටනාකා අකිහිකෝ  මහතා හමුවී සාකච්ඡාවක නිරත විය.
 
-The President expressed his gratitude for the continued support to Sri Lanka with the support of Sri Lanka with a significant contribution to national development.
+ජාතික සංවර්ධනයට සැලකිය යුතු දායකත්වයක් ලබා දෙන ජයිකා හරහා සහනදායී යෙන් ණය නැවත  ලබා දීම ආරම්භ කරමින්  ජපානය ශ්‍රී ලංකාවට ලබා දෙන අඛණ්ඩ සහාය පිළිබඳව ජනාධිපතිවරයා මෙහිදී  සිය කෘතඥතාව පළ කළේය.
 
-The SLFP Chairman pointed out the importance of the private sector, industrial and agriculture development as the key to sustainable economic progress in Sri Lanka.
+ශ්‍රී ලංකාවේ තිරසාර ආර්ථික ප්‍රගතියේ ප්‍රධාන සාධක ලෙස පෞද්ගලික අංශය, කාර්මික සහ කෘෂි කර්මාන්තය යන ක්ෂේත්‍ර සංවර්ධනයේ වැදගත්කම ජයිකා සභාපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
 
-Katunayake, Bandaranaike International Airport Project will be resumed and will continue to maintain long-term cooperation with Sri Lanka by observing the macroeconomic management of Sri Lanka.
+කටුනායක, බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ ව්‍යාපෘතිය කඩිනමින් නැවත ආරම්භ කිරීමට කටයුතු කරන බවත්, ශ්‍රී ලංකාවේ සාර්ව ආර්ථික කළමණාකරණය නිරීක්ෂණය කරමින් ශ්‍රී ලංකාව සමඟ පවතින දිගු කාලීන සහයෝගීතාව තවදුරටත් පවත්වා ගෙන යාමට බලාපොරොත්තු වන බවත් ඔහු මෙහිදී ප්‍රකාශ කළේය.
 
-The discussion was also discussed on the implementation of the waste management plan in the Western Province.
+බස්නාහිර පළාතේ අපද්‍රව්‍ය කළමණාකරණ සැලැස්ම ක්‍රියාත්මක කිරීම පිළිබඳවද මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
 
 ...
 
 [Data](articles/9ec65847.json)
 
-[Extended Data](ext_articles/9ec65847.ext.json)
-
 ---
 
-### 36% up 36% in 9 months to 2025
+### 2025 මාස 09කදී කොටස් වෙළෙඳපොළ 36%කින් ඉහළට
 
 *2025-09-30 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215189) · `si`
 
-All the Colombo Stock Exchange rose to 21,778.60 units renewed again today (30) again.
+කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය අද (30) දිනයේ නැවත වරක් ඉතිහාසයේ ඉහළම අගය නැවත වරක් අලුත් කරමින් ඒකක 21,778.60ක් දක්වා ඉහළ ගියේය.
 
-According to the first nine months of the year 2025, all stock prices have been able to increase a 36.59% growth in the market.
+මේ අනුව 2025 වසරේ මුල් මාස 09 තුළ සියලු කොටස් මිල දර්ශකයට අනුව 36.59%ක වර්ධනයක් අත්පත් කර ගැනීමට කොළඹ කොටස් වෙළෙඳපොළ සමත් වී ඇත.
 
-The S & PL20 index increased by 7.32 points today and at the end of transactions, the value of transactions was 6,126.53 units.
+අද දිනයේ දී S&P SL20 දර්ශකය ඒකක 7.32කින් ඉහළ ගිය අතර ගනුදෙනු අවසානයේ දී එහි අගය ඒකක 6,126.53ක් ලෙසින් සටහන් වුණි.
 
-There the local purchases are Rs.. 6.01 billion and local sales Rs. 5.65 billion, and foreign purchases were Rs.. 284 million and foreign sales Rs. 646 million.
+එහිදී දේශීය මිල දී ගැනීම් රු. බිලියන 6.01ක් හා දේශීය විකිණුම් රු. බිලියන 5.65ක් ලෙසින් සටහන් වූ අතර විදේශීය මිල දී ගැනීම් රු. මිලියන 284ක් හා විදේශීය විකිණුම් රු. මිලියන 646ක් ලෙසින් සටහන් වුණි.
 
 ◼️
 
 [Data](articles/82ef247b.json)
 
-[Extended Data](ext_articles/82ef247b.ext.json)
-
 ---
 
-### Thirtrician Anuradhaayake thera to President
+### සදාචාර විරෝධී ක්‍රියාවන් ගැන ත්‍රෛනිකායික මහනායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක්
 
 *2025-09-30 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215188) · `si`
 
-President Anura Kumara Dissanayake has sent a letter to President Anura Kumara Dissanayake, the introduction of the introduction of the social decline laws and the state mechanism to promote unethical homosexual behavior.
+සමාජ පරිහානියට හේතුවන අදූරදර්ශී නීති හඳුන්වාදීම හා සදාචාර විරෝධී සමලිංගික චර්යාවන් ප්‍රවර්ධනය කිරීමට රාජ්‍ය යාන්ත්‍රණය කටයුතු කිරීම සම්බන්ධයෙන් විරෝධය පළ කරමින් ත්‍රෛනිකායික මහානායක හිමිවරුන් විසින් ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත ලිපියක් යොමු කර තිබේ.
 
-The letter states that if the country tries to go to the Kingdom rule, the state's endemic and blindness, which is triggered by narrow trickles and blindness, regardless of narrow trickles and blindness.
+එම ලිපිය මගින් උන්වහන්සේලා සඳහන් කර ඇත්තේ රටක සංස්කෘතිය අනන්‍යතාවන්, ඓතිහාසික උරුමය මෙන්ම චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතීන් හා අන්ධානුකරණයන් මත පදනම්ව රාජ්‍ය පාලනයෙහි උත්සාහ දරන්නේ නම් එය රාජ්‍යය අරාජික වීමට මෙන්ම සමස්ත සමාජයම බිඳ වැටීමට හේතු වන්නක්ද වන බවය.
 
-The letter, as well as the proposed amendment to pass the guilt of the Penal Code, as well as the proposed ambition towards the promotion of homosexuality industry by the present government, has a number of social problems and social problems.
+වර්තමාන රජය මගින් දණ්ඩ නීති සංග්‍රහයේ 82 වන වගන්තියට ශාරිරික දඬුවම් කිරීමේ වරද නමින් යෝජිත සංශෝධනය මෙන්ම සංචාරක සංවර්ධන අධිකාරිය මගින් සමලිංගික සේවනය පදනම් කරගත් සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට අනුග්‍රහය ලබා දීම එවන් බරපතළ සාරධර්ම අරාජිකත්වයක් හා සමාජ අර්බුද ගණනාවක් ඇති කිරීමට හේතුවන්නක් බවද උන්වහන්සේලා එම ලිපිය මගින් ජනාධිපතිවරයා වෙත දන්වා තිබේ.
 
-The President has informed the President by the President's letter to the President that the President is constantly focused on how the use of Buddhist philosophical develops and its practical.
-
-Trongekey acts of unethical actions
-
-◼️
+...
 
 [Data](articles/77ca9fa5.json)
 
-[Extended Data](ext_articles/77ca9fa5.ext.json)
-
 ---
 
-### Japan help to rehabilitate schools in the North and East
+### வடக்கு, கிழக்கில் பாடசாலைகளை புனரமைக்க ஜப்பான் உதவி
 
 *2025-09-30 17:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-பாடசாலைகளை-புனரமைக்க-ஜப்பான்-உதவி/175-365541) · `ta`
 
-Japan has guaranteed the rehabilitation and modernization of 100 schools in the Northern and Eastern Provinces.
+வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் முன்னெடுக்க ஜப்பான் உத்தரவாதமளித்துள்ளது.
 
-It was approved during a discussion between the founding chairman of the Nippon forum and the president.
+நிப்பொன் மன்றத்தின் ஸ்தாபக தலைவருக்கும் ஜனாதிபதிக்கும் இடையில் கலந்துரையாடலின் போதே இதற்கு ஒப்புதல் அளிக்கப்பட்டுள்ளது.
 
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, met with Yohai Sasakawa, the founder of the Nippon forum on Tuesday (30) at the Imperial Hotel in Tokyo.
+ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் நிப்பொன் மன்றத்தின்  ஸ்தாபக தலைவர் யொஹெய் சசகாவாவை செவ்வாய்க்கிழமை (30) காலை சந்தித்து கலந்துரையாடலில் ஈடுபட்டார்.
 
-Special attention was paid to strengthening the long -term friendship between Japan and Sri Lanka.
+ஜப்பானுக்கும் இலங்கைக்கும் இடையிலான நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவது குறித்து விசேட கவனம் செலுத்தப்பட்டது.
 
-He told the president that Yohai Sasakawa would give his continued support to improve the livelihood of all communities in Sri Lanka.. He also put forward future plans for the reconstruction and modernization of 100 schools in the Northern and Eastern Provinces.
+இலங்கையில் உள்ள அனைத்து சமூகங்களின் வாழ்வாதாரத்தை மேம்படுத்துவதற்கு யொஹெய் சசகாவா தனது தொடர்ச்சியான ஆதரவை வழங்குவதாக இதன் போது அவர் ஜனாதிபதியிடம் தெரிவித்தார். வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் அவர் முன்வைத்தார்.
 
 ...
 
 [Data](articles/3440ec43.json)
-
-[Extended Data](ext_articles/3440ec43.ext.json)
 
 ---
 
@@ -135,23 +123,19 @@ The Minister highlighted the work of the Office on Missing Persons (OMP), Office
 
 [Data](articles/9c6e555f.json)
 
-[Extended Data](ext_articles/9c6e555f.ext.json)
-
 ---
 
-### The allowance of those who qualified qualified
+### අස්වැසුම දෙවන අදියරට සුදුසුකම් ලැබූවන්ගේ දීමනාව අද බැංකුවලට
 
 *2025-09-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215187) · `si`
 
-The beneficiary benefit board says that the beneficiaries of beneficiaries who have been eligible for the second phase of the revenue will be credited today to the bank accounts of these beneficiaries today (30).
+අස්වැසුම දෙවන අදියර සඳහා සුදුසු කම් ලැබූ ප්‍රතිලාභින්ගේ ප්‍රථම අස්වැසුම් දීමනාව අද (30) එම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට කටයුතු කරන බව සුබසාධක ප්‍රතිලාභ මණ්ඩලය පවසයි.
 
-Thus of the Rs. 1,794,383,750.00 will be credited to the beneficiary bank accounts, distributing a sum of 1,79,383,750.00 from 217,645 families.
+මෙලෙස රු. 1,794,383,750.00ක මුදලක් ප්‍රතිලාභී පවුල් 217,645ක් අතරේ බෙදාහරිමින් ඔවුන්ගේ අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුම් වෙත බැර කිරීමට නියමිතය බව මණ්ඩලය වැඩිදුරටත් සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/d65bfc55.json)
-
-[Extended Data](ext_articles/d65bfc55.ext.json)
 
 ---
 
@@ -173,65 +157,53 @@ The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September
 
 [Data](articles/881284bc.json)
 
-[Extended Data](ext_articles/881284bc.ext.json)
-
 ---
 
-### Application for Member Position for Missing Persons
+### காணாமற்போனவர்கள் பற்றிய அலுவலகத்திற்கான உறுப்பினர் பதவிக்கான விண்ணப்பம் கோரல்
 
 *2025-09-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226511) · `ta`
 
-The Office of the Missing Person (Missing Personnel, Fulfillment and Fulfillment) Act No. 14 of 2016 has been sought to fill a vacuum for a member post at the office of the missing persons in October 2025.
+2016 ஆம் ஆண்டின் 14 ஆம் இலக்க, காணாமற்போன ஆட்கள் பற்றிய அலுவலகம் (தாபித்தலும், நிருவகித்தலும், பணிகளை நிறைவேற்றுதலும்) (திருத்தப்பட்டவாறான) சட்டத்தின் ஏற்பாடுகளின் பிரகாரம் காணாமற்போனவர்கள்  பற்றிய அலுவலகத்தில் 2025 ஒக்டோபர் மாதத்தில் ஏற்படக்கூடியதான உறுப்பினர் பதவிக்கான வெற்றிடமொன்றை நிரப்புவதற்கான விண்ணப்பம் கோரப்பட்டுள்ளது.
 
-Applications are requested from the forefront of the event or the human rights law, the International Humanitarian Law and the Humanitarian Response, or the other qualifications of the office of the missing persons.
+நிகழ்வு கண்டறிதல் அல்லது நுண்ணாய்வு, மனிதவுரிமைகள் சட்டம், சர்வதேச மனிதாபிமான சட்டம், மனிதாபிமான பதிலிறுப்பு என்பவற்றின் முன்னனுபவம் கொண்டவர்களிடமிருந்தும் அல்லது, காணாமற்போனவர்கள் பற்றிய அலுவலகத்தின் பணிகளை நிறைவேற்றுவதற்கு இயைபான ஏனைய தகைமைகளை உடையவர்களிடமிருந்தும் விண்ணப்பங்கள் கோரப்படுகின்றன.
 
-Www.parliament.lk. Applications of the appointment of members should be sent to the Constituent Assembly, the Constituent Assembly, the Constituent Assembly, the Office of the Constitutional Council, the Sri Jayawardenapura Gotte, the office of the Constitutional Council on October 14, 2025.
-
-Or should be sent to the email address of the constitutionalcouncil@parliament.lk. The appointment of a member of the Office of Missing Persons should be referred to as a matter of e -mail or email.
-
-◼️
+...
 
 [Data](articles/1d05a2ef.json)
 
-[Extended Data](ext_articles/1d05a2ef.ext.json)
-
 ---
 
-### "Nothing new
+### "புதிதாய் எதுவும் வேண்டாம் பறித்ததை தா" - வவுனியா பல்கலைக்கழகத்தின் முன்பாக ஆர்ப்பாட்டம்
 
 *2025-09-30 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226509) · `ta`
 
-A demonstration was held in front of the university gate by the Vavuniya University Teachers Federation.
+வவுனியா பல்கலைக்கழக ஆசிரியர் சம்மேளனத்தினால் பல்கலைக்கழக வாயிலிற்கு முன்பாக ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டிருந்தது.
 
-The demonstration was launched in support of the identity work being carried out by the State University Teachers' Federation across the country, saying the government had failed to take action to address the shortcomings in the university structure.
+பல்கலைக்கழக கட்டமைப்பில் உள்ள குறைபாடுகளை நிவர்த்தி செய்ய அரசாங்கம் நடவடிக்கை எடுக்க தவறியுள்ளதாக தெரிவித்து, நாடளாவிய ரீதியில் அரச பல்கலைக்கழகளக ஆசிரியர் சம்மேளனத்தால் முன்னெடுக்கப்பட்டு வரும் அடையாள பணிபகிஸ்கரிப்புக்கு ஆதரவு தெரிவிக்கும் முகமாக குறித்த ஆர்ப்பாட்டமானது முன்னெடுக்கப்பட்டிருந்தது.
 
-At the time, brain loss capital loss, no new, no new vacancies, filling the necessary vacancies, no higher education, and the demonstration.
+இதன்போது மூளை இழப்பு மூலதன இழப்பு, புதிதாய் எதுவும் வேண்டாம் பறித்ததை தா, தேவையான வெற்றிடங்களை நிரப்பு, உயர் கல்வி இன்றேல் உயர்ச்சி இல்லை போன்ற வாசகங்கள் எழுதிய பதாகையை தாங்கியவாறு ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
 
 ◼️
 
 [Data](articles/373af0f9.json)
 
-[Extended Data](ext_articles/373af0f9.ext.json)
-
 ---
 
-### Website for Registration of Three Wheeler Registration in the Western Province
+### බස්නාහිර පළාතේ ත්‍රිරෝද රථ ලියාපදිංචියට වෙබ් අඩවියක්
 
 *2025-09-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215186) · `si`
 
-Western Province Registration Passenger Transport Authority has implemented a website to introduce a website to introduce all passenger transport registrations in the Western Province.
+බස්නාහිර පළාතේ සියලු මගී ප්‍රවාහන ත්‍රිරෝද රථ ලියාපදිංචිය අනිවාර්ය කිරීමත් සමග ඒ සඳහා වෙබ් අඩවියක් හඳුන්වාදීමට බස්නාහිර පළාත් මාර්ගස්ත මගී ප්‍රවාහන අධිකාරිය කටයුතු කර තිබේ.
 
-Accordingly, the three-wheeler drivers will enable the https://wptaxi.net/ web address and the registration facility to register.
+ඒ අනුව https://wptaxi.net/ යන වෙබ් ලිපිනයට පිවිස ඒ සඳහා ලියාපදිංචි වීමේ පහසුකම මේ වන විට ත්‍රිරෝද රථ රියදුරන්ට හැකියාව ලැබෙනු ඇත.
 
-The Authority's Runner Manager said that the registration of all passenger transport of three wheelers in the Western Province has been reopened.
+බස්නාහිර පළාතේ සියලු මගී ප්‍රවාහන ත්‍රිරෝද රථ ලියාපදිංචි කිරීම අනිවාර්ය කර මගී අවසර පත් නිකුත් කිරීම නැවත ආරම්භ කළ බව එම අධිකාරියේ ධාවන කළමනාකරු ජීවින්ද කීර්තිරත්න මහතා සඳහන් කළේය.
 
-He further stated that all three-casts can be submitted to the above website and will be given to the relevant Divisional Secretariat and provide registration facilities to the relevant Divisional Secretariat at the same time.
+සියලුම ත්‍රිරොද රථ ඉහත සඳහන් වෙබ් අඩවියට පිවිස තොරතුරු ඉදිරිපත් කළ හැකි බවත් ඒ අනුව එම මොහොතේම අදාල ත්‍රිරොද රථ මහතුන්ට මේ සඳහා වේලාවක් ලබා දෙන බවත් එම වෙලාව අනුව අදාළ ප්‍රාදේශීය ලේකම් කාර්යාලය වෙත පැමිණ ලියාපදිංචි වීමේ පහසුකම් සලසා දී ඇති බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
 
 ◼️
 
 [Data](articles/d9bfaac0.json)
-
-[Extended Data](ext_articles/d9bfaac0.ext.json)
 
 ---
 
@@ -292,8 +264,6 @@ An auction of 43,000 million rupees Treasury bills will take place on Wednesday.
 ◼️
 
 [Data](articles/f268511f.json)
-
-[Extended Data](ext_articles/f268511f.ext.json)
 
 ---
 
@@ -368,8 +338,6 @@ Better US policy has helped global inflation. The US has started cutting rates b
 ...
 
 [Data](articles/afd5b49a.json)
-
-[Extended Data](ext_articles/afd5b49a.ext.json)
 
 ---
 
@@ -475,8 +443,6 @@ The Nifty 50 index fell 0.097 percent to 24,611.10, while the BSE Sensex moved 0
 
 [Data](articles/c1bf0423.json)
 
-[Extended Data](ext_articles/c1bf0423.ext.json)
-
 ---
 
 ### Former minister plea
@@ -519,21 +485,19 @@ After obtaining bail, the judge also ordered the suspects to report to the Finan
 
 ---
 
-### Blessed on military flags in Kadirgamam
+### 76வது இராணுவ ஆண்டு விழாவை முன்னிட்டு கதிர்காமத்தில் இராணுவ கொடிகளுக்கு ஆசிர்வாதம்
 
 *2025-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226504) · `ta`
 
-A special religious event was held on Monday (29) at the Kadirgamam Giri Vikarai Complex and the Kadirgamam Devasthanam Complex on Monday (29) under the patronage of Army Commander Lieutenant General Lasantha Rodrigo to mark the 76th anniversary of the Sri Lankan Army to be celebrated on the 10th of October.
+எதிர்வரும் ஒக்டோபர் மாதம் 10 ஆம் திகதி கொண்டாடப்படவுள்ள இலங்கை இராணுவத்தின் 76வது ஆண்டு விழாவை முன்னிட்டு, இராணுவ தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ அவர்களின் தலைமையில் திங்கட்கிழமை (29) வரலாற்றுச் சிறப்புமிக்க கதிர்காமம் கிரி விகாரை வளாகத்திலும், கதிர்காமம் தேவஸ்தான வளாகத்திலும் விசேட சமய நிகழ்வு இடம்பெற்றது.
 
-At the event, the military carried military flags and visited the Kadirgamam Giri Vihara and Devasthana premises in a procession to bless them.
+இந்நிகழ்வில், இராணுவத்தினர் இராணுவ கொடிகளை ஏந்தியவாறு, அக்கொடிகளுக்கு ஆசிர்வாதம் வேண்டி, ஊர்வலமாக கதிர்காமம் கிரி விகாரை மற்றும் தேவஸ்தான வளாகத்திற்கு வருகை தந்தனர்.
 
-Senior officers, officers and soldiers were present at the event, representing all the army's brigades.
+இராணுவத்தின் அனைத்து படையணிகளையும் பிரதிநிதித்துவப்படுத்தி சிரேஷ்ட அதிகாரிகள், அதிகாரிகள் மற்றும் சிப்பாய்கள் இந்த நிகழ்வில் கலந்துகொண்டனர்.
 
 ◼️
 
 [Data](articles/8ad1ab2f.json)
-
-[Extended Data](ext_articles/8ad1ab2f.ext.json)
 
 ---
 
@@ -610,8 +574,6 @@ This adds to the airline’s payment options, which includes Visa, MasterCard, A
 ...
 
 [Data](articles/29999b86.json)
-
-[Extended Data](ext_articles/29999b86.ext.json)
 
 ---
 
@@ -780,8 +742,6 @@ Addressing the forum, Dr Hans Wijayasuriya, Chief Advisor to the President of Sr
 ...
 
 [Data](articles/f870e998.json)
-
-[Extended Data](ext_articles/f870e998.ext.json)
 
 ---
 
@@ -1433,27 +1393,23 @@ The governance of Sri Lanka made these claims. But the provincial councils have 
 
 ---
 
-### A day-old girl leaves in a bag
+### දිනක් වයසැති දැරිවියක් බෑගයක දමා කැසිකිළියක දමා යයි
 
 *2025-09-30 14:42:48* · [`adalk`](https://www.ada.lk/breaking_news/දිනක්-වයසැති-දැරිවියක්-බෑගයක-දමා-කැසිකිළියක-දමා-යයි/11-418817) · `si`
 
-Azref Nagar 4, a year old girl who had been closed down in a bag of Asrefil 4, who had been closed down in a bag, was placed in a bag.
+අම්පාර දිස්ත්‍රික්කයේ අකක්රපත්තුව පොලිස් බල ප්‍රදේශයේ  අස්රෆ් නගර් ඔලුවිල් 4  වසා දමා ඇති රහුමාන් ජුම්මා පල්ලිය පිටුපස කැසිකිළිය තුළ දිනක පමණ වයස ඇති කුඩා දැරිවියක් බෑගයක දමා එම ස්ථානයේ දමා ගොස් තිබියදි හමුවි තිබේ.
 
-The child has seen the child has seen a child screaming to the resident of the area.
+එම ප්‍රදේශයේ  පදිංචි සල්මත් මොහොමදුර රතිෂ් යන අයට දරුවෙකු කෑගහන හඬ ඇසි අතර ඔහු  එම ස්ථානයට පැමිණ  සොයා බැලිමේදි මෙම දරුවා දැක තිබේ.
 
-After telephoned the police to the police, the child was shifted to the Oluvil Regional Hospital, the child was transferred to the Akkaraipattu hospital after being taken to the Oluvil Regional Hospital.
+පසුව අක්කරපත්වූව පොලිසිය වෙත  දුරකථන මාර්ගයෙන් දැනුවත් කිරීමෙන් පසු එම ස්ථානයට පැමිණි අක්කරපත්තුවව පොලිසි ස්ථානයේ නිලධාරින් විසින් මෙම දරුවා ඔලුවිල් ප්‍රාදේශීය රෝහල වෙත රැගෙන යාමෙන් පසු මෙම දරුවා වැඩිදුර ප්‍රතිකාර සඳහා අක්කරපත්තුව    රෝහල වෙත මාරු කර යවා තිබේ.
 
-The Akkaraipatuattu is in charge of the hospital staff at the Tigers of the hospital.. Mr. Jaarier said.
+දැනට දරුවා රෝහල් කාර්ය මණ්ඩලයේ භාරව අක්කරපත්තුව මුලික රෝහලේ ලදරු ප්‍රථිකාර ඒකකයේ සිටින බව අක්කරපත්තුව මුලික රෝහලේ වෛද්‍ය අධිකාරි වෛද්‍ය අයි.එම්. ජාවාහිර් මහතා පැවසිය.
 
-The child is a child for three days and the child is healthy.
+මෙම දරුවා දින තුනක පමන දරුවෙක් වන අතර දරුවා නිරෝගිව සිටින බවද වෛද්‍ය අධිකාරි වෛද්‍ය අයි.එම්.ජාවාහිර් මහතා සදහන් කළේය.
 
-The Akkaraipattu police are conducting further investigations by Hon
-
-◼️
+...
 
 [Data](articles/2f9a726b.json)
-
-[Extended Data](ext_articles/2f9a726b.ext.json)
 
 ---
 
@@ -1627,8 +1583,6 @@ The wholesale price for a large nut was 180-190 rupees, while small nuts were 15
 
 [Data](articles/e592787c.json)
 
-[Extended Data](ext_articles/e592787c.ext.json)
-
 ---
 
 ### 164 Duped in Kalmunai: CID Cracks Down on Multi-Million Rupee Scam
@@ -1765,23 +1719,19 @@ When the petition was taken up today, the order was made by considering the cont
 
 ---
 
-### Progress of the Government's Reforms is appreciated - IMF
+### රජය සිදුකරන ප්‍රතිසංස්කරණවල ප්‍රගතිය අගය කරනවා - අයි.එම්.එෆ්.
 
 *2025-09-30 14:08:31* · [`adalk`](https://www.ada.lk/breaking_news/රජය-සිදුකරන-ප්‍රතිසංස්කරණවල-ප්‍රගතිය-අගය-කරනවා---අයි-එම්-එෆ්-/11-418814) · `si`
 
-The International Monetary Fund (IMF) Head of October for Sri Lanka, EVAN Papageergio met Prime Minister Dr. Welini Amarasuriya at Temple Trees.
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) ශ්‍රී ලංකාව සඳහා වන මෙහෙයුම් මණ්ඩල ප්‍රධානී, Evan Papageorgiou මහතා අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවිය.
 
-The progress of the reform program implemented by the government, he praised, especially the actions taken to strengthen the controls and minimizing corruption and minimizing corruption. He also focused on the steps taken in relation to the importance of tax policy reforms, tax exemptions (TAX Exemptions).. Also, the allocation of resources for the Social Security System of the 2026 was also recognized by Papagorgueu.
+එහිදී රජය විසින් ක්‍රියාත්මක කරනු ලබන ප්‍රතිසංස්කරණ වැඩසටහනේ ප්‍රගතිය ඔහුගේ ඇගයීමට ලක් වූ අතර, විශේෂයෙන්ම පාලනය ශක්තිමත් කිරීමට සහ දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග පිළිබඳව ඔහු ප්‍රශංසා පළ කළේය. බදු ප්‍රතිපත්ති ප්‍රතිසංස්කරණවල වැදගත්කම, බදු නිදහස් කිරීම් (tax exemptions) සම්බන්ධයෙන් ගෙන ඇති පියවර පිළිබඳව ද ඔහු සිය අවධානය යොමු කළේය. එසේම, 2026 ජාතික අයවැයෙන් සමාජ ආරක්ෂණ පද්ධතිය සඳහා සම්පත් වෙන් කිරීම ද පැපජෝර්ජියු මහතාගේ ඇගයුමට ලක් විය.
 
-Prime Minister Dr. Harathin Amarasuriya emphasized the importance of measures to empower the public from the budget of 2026.
-
-The Prime Minister emphasized that economic progress should be in line with the needs of the people and that attract quality investment. The Prime Minister pointed out that the strengthening of social security is essential and that increasing groups are needed to ensure long-term sustainability.
+2026 අයවැයෙන් ජනතාව සවිබල ගැන්වීමට පියවර ගැනීමේ වැදගත්කම මෙහිදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය අවධාරණය කළාය.
 
 ...
 
 [Data](articles/082dc859.json)
-
-[Extended Data](ext_articles/082dc859.ext.json)
 
 ---
 

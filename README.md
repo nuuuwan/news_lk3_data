@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 07:45:17**
+As of **2025-09-30 08:39:17**
 
 ## Newspaper Stats
 
-*Scraped **79,682** Articles*
+*Scraped **79,700** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 468
+lankadeepalk | 471
 newsfirstlk | 490
 dbsjeyarajcom | 635
 bbccomsinhala | 709
@@ -17,21 +17,345 @@ dailymirrorlk | 4,733
 economynextcom | 4,742
 islandlk | 4,850
 dailyftlk | 5,603
-adalk | 7,667
-adaderanalk | 10,280
-tamilmirrorlk | 11,920
+adalk | 7,668
+adaderanalk | 10,287
+tamilmirrorlk | 11,921
 virakesarilk | 12,998
-adaderanasinhalalk | 13,787
+adaderanasinhalalk | 13,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,682 (100.0%) of 79,682 articles have been extended.
+79,692 (100.0%) of 79,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### කොළඹින් සැකකටයුතු මළසිරුරු දෙකක් - පොලිස් පරීක්ෂණ ක්‍රියාත්මකයි
+
+*2025-09-30 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215162) · `si`
+
+පොලීසිය සඳහන් කළේ එක් සිරුරක් ග්‍රෑන්ඩ්පාස් පොලිස් වසමෙන් සහ අනෙක් සිරුර දෙහිවල පොලිස් වසමෙන් හමු වූ බවය.
+
+ඊයේ (29) සවස් කාලයේ ග්‍රෑන්ඩ්පාස්, ඉඟුරුකඩේ හන්දිය අසල ඇති ජාඩි ඇලේ තිබී එක් මළසිරුරක් හමු වී ඇති අතර පොලීසිය පැවසුවේ මරණකරුගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති අතර එම සිරුර වයස අවුරුදු 35 ත් 40 ත් අතර වයසේ පසුවන පිරිමි පුද්ගලයෙකුගේ බවය.
+
+එමෙන්ම එම පුද්ගලයා අඩි 05 අඟල් 04 ක් පමණ වන බවත් කළු පැහැති කොට කලිසමක් හා උඩු කයට කළු පැහැති ටීෂර්ට් එකක් හැඳ සිට ඇත.
+
+මෘත ශරීරය කොළඹ ජාතික රෝහලේ මෘත ශරීරාගරයේ තැන්පත් කර ඇති අතර ග්‍රෑන්ඩ්පාස් පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+අනෙක් සිරුර ඊයේ රාත්‍රියේ දෙහිවල, සිරිවර්ධන පාර ප්‍රදේශයේ නිවසකින් හමු වී ඇත.
+
+එම සිරුරද පිරිමි පුද්ගලයෙකුගේ වන අරත මරණකරු වයස අවුරුදු 23 ක් වූ දෙහිවල ප්‍රදේශයේ පදිංචිකරුවෙකු බව අනාවරණය වී තිබේ.
+
+මෘත ශරීරය පශ්චාත් මරණ පරික්ෂණය සඳහා කළුබෝවිල රෝහලේ මෘත ශරීරාගරයේ තැන්පත් කර ඇති අතර දෙහිවල පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/a17c56a6.json)
+
+---
+
+### What about Ranil
+
+*2025-09-30 07:52:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රනල-ගන-මහනද-ක-ද/101-680445) · `si`
+
+Former President Mahinda Rajapaksa said, "We are both contemporary in a political culture that can maintain mutual respect," says Mr. Ranil Wickremesinghe.
+
+"Former President Ranil Wickremesinghe met with me at Carlton House in Tangalle. There we two have a very friendly discussion.
+
+In a politics of politics politically with other opinions, both of us are contemporary. I am grateful to Ranil Wickremesinghe's coming. Mr. Maithree Wickremesinghe also recalls with respect, "says Mahinda Rajapaksa.
+
+Mr. Mahinda Rajapaksa says:
+
+◼️
+
+[Data](articles/01fcf266.json)
+
+[Extended Data](ext_articles/01fcf266.ext.json)
+
+---
+
+### 47 babies are caged with moms
+
+*2025-09-30 07:49:10* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බබල-47ක-අමමල-සමග-කඩ-වල/1-680444) · `si`
+
+The Prison Headquarters says that 47 children have been remanded in the prison with the women who were imprisoned in connection with the wisdom of this year.
+
+There are 20 boys and 27 female among those children.
+
+1483 women have been imprisoned for 9 months from January 1 (27).
+
+The number of women who were imprisoned in connection with the misery from January 1 to July 31 months were 184 persons.
+
+Meanwhile, about 75 respecting ice drugs, 97 respecting heroin, including 3 people, 8 wedges and other drugs regarding opium.
+
+This information was revealed after a request from the prison headquarters under the Right to Rights Act No. 12 of 2016.
+
+There were 885 women in connection with various flanes last year and 369 women were remanded.
+
+Of them, 138 of the ice drugs were 138 respectively, 199 in charge of heroin, 17 people of marijuana.
+
+655 married women have been imprisoned for various flanes last year, with 278 married women were imprisoned.
+
+...
+
+[Data](articles/0013a457.json)
+
+[Extended Data](ext_articles/0013a457.ext.json)
+
+---
+
+### Another stock of drugs seized in raid in Mattakkuliya
+
+*2025-09-30 07:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113056/another-stock-of-drugs-seized-in-raid-in-mattakkuliya) · `en`
+
+An individual has been arrested by the Colombo North Division Crimes Investigation Unit along with a stock of hashish, heroin and narcotic pills, police stated.
+
+Based on received intelligence, a raid was carried out yesterday (29) by a team of officers along the Siriwardana Road in Mattakkuliya.
+
+During the raid, an individual was arrested with 33 kilograms and 270 grams of hashish, 408 grams of heroin, 200 narcotic pills and 7,400 pieces of heroin (charas) prepared for sale. He was then presented to the Mattakkuliya Police Station.
+
+Investigations have revealed that the suspect is an associate of an organized criminal and drug trafficker in the area.
+
+◼️
+
+[Data](articles/b1266509.json)
+
+---
+
+### Another drug discovered by a raid carried out in Mattakkuliya
+
+*2025-09-30 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215161) · `si`
+
+The Colombo North North Division Criminal Investigation Bureau has been arrested by the Colombo North North Narcotics, Heroin and Drugs.
+
+The Colombo North Divisional Criminal Investigation Bureau has a raid at the Siriwardena Road, the Siriwardena Road, in the Mattakkuliya Police Division yesterday (29).
+
+The suspect was arrested and produced before the Mattakkuliya Police Station with 330 g per drugs, 408 grams of Ash.
+
+The suspect is a 38 year old resident of Mattakkuliya.
+
+Investigations have revealed that the suspect is a close and drug dealer of the suspect in the area.
+
+◼️
+
+[Data](articles/34f58727.json)
+
+[Extended Data](ext_articles/34f58727.ext.json)
+
+---
+
+### Mahatma Gandhi statue vandalised in London, Indian Mission condemns violent act
+
+*2025-09-30 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113055/mahatma-gandhi-statue-vandalised-in-london-indian-mission-condemns-violent-act) · `en`
+
+The High Commission of India has strongly condemned the vandalism of Mahatma Gandhi’s statue at Tavistock Square in London on Monday, just days before the annual Gandhi Jayanti celebrations are scheduled to be held at the site on October 2.
+
+The plinth of the iconic statue, which depicts the Father of the Nation in a seated meditative pose, was discovered daubed with some disturbing graffiti. The Indian mission said it has reported the desecration to the local authorities, even as its officials are at the site to coordinate the restoration of the monument to its original state.
+
+“The High Commission of India in London is deeply saddened and strongly condemns the shameful act of vandalism of the statue of Mahatma Gandhi at Tavistock Square in London,” the Indian High Commission in London said in a statement on social media.
+
+...
+
+[Data](articles/bacbb376.json)
+
+---
+
+### Women's ODI World Cup begins today
+
+*2025-09-30 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215160) · `si`
+
+The Women's World Cup ODI Series begins today (30).
+
+The inauguration of the tournament will be held at the Guathi Stadium in India and the first match will be held between the Sri Lanka women's group and Indian women's group.
+
+The Sri Lankan team participates in seven matches and two matches will be held in India and five matches in Sri Lanka.
+
+The finals of the Women's World Cup ODI series will be held on November 2.
+
+◼️
+
+[Data](articles/45c3219c.json)
+
+[Extended Data](ext_articles/45c3219c.ext.json)
+
+---
+
+### Three arrested in India
+
+*2025-09-30 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215159) · `si`
+
+Three Sri Lankans involved in crimes have been arrested by the Bangalore Central Crimes Division in India.
+
+The Indian media has been arrested for his arrest that Iresh Hasankale, Sugath Samsung and Dileep Harshana.
+
+The three suspects have been involved in crimes in Sri Lanka and said that last year was illegally entered into India.
+
+◼️
+
+[Data](articles/8ad7bfbb.json)
+
+[Extended Data](ext_articles/8ad7bfbb.ext.json)
+
+---
+
+### Three Sri Lankans involved in crimes arrested in Bengaluru
+
+*2025-09-30 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113054/three-sri-lankans-involved-in-crimes-arrested-in-bengaluru) · `en`
+
+Three Sri Lankans who were allegedly involved in crimes have been arrested by the Central Crime Branch of Bengaluru.
+
+The three Sri Lankans were allegedly staying illegally in an apartment near Devanahalli in Bengaluru, Indian media reports state.
+
+Police suspect they were hiding in the city for several months.
+
+The accused, aged 29, 31 and 41 are residents of Dondra, Ratmalana and Kotahena.
+
+Investigations have revealed the trio entered India illegally from Jaffna to Rameswaram, Tamil Nadu in 2024, after which they briefly stayed in Chennai and Coimbatore before moving to Bengaluru. None of them had valid documents, including passports.
+
+Police said one of the arrested individuals is wanted in a drug peddling case while another is facing charges of murder and other offences in Sri Lanka.
+
+...
+
+[Data](articles/ff4c57cf.json)
+
+---
+
+### Govt aims to expand Sri Lanka’s digital economy to USD 15 billion: PM Harini
+
+*2025-09-30 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113053/govt-aims-to-expand-sri-lankas-digital-economy-to-usd-15-billion-pm-harini) · `en`
+
+The foundation for realizing Sri Lanka’s vision of entering the digital era is developing the human resource that is compatible with modern technology and a significant focus was drawn in this regard in the ongoing educational reforms, Prime Minister Dr. Harini Amarasuriya stated.
+
+The Prime Minister made these remarks at the inauguration ceremony of the first National AI Expo 2025, held in Battaramulla.
+
+The conference and exhibition, jointly organized by the Ministry of Digital Economy and Sri Lanka Telecom Mobitel, will be held on September 29 and 30.
+
+The National AI Expo serves as a premier destination for innovations in artificial intelligence, aiming to promote the integration of AI with modern technology, foster collaboration among researchers, entrepreneurs, and companies, and encourage the use of AI across diverse industries. It also seeks to introduce AI technology and tools to students from the school level.
+
+...
+
+[Data](articles/488515af.json)
+
+---
+
+### New peace plan to Gaza
+
+*2025-09-30 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215158) · `si`
+
+The US President Donald Trump and the Israeli Prime Minister Benjamin Netanyahu says he has agreed to a new peace plan for Gaza.
+
+They have warned the Hamas agreed to agree with the plan.
+
+The new peace plan has proposed immediate stopping military operations and has proposed to release 20 Israeli hostages within 72 hours.
+
+Foreign media reports that the American White House has made a proposal to Hamas.
+
+◼️
+
+[Data](articles/527c922d.json)
+
+[Extended Data](ext_articles/527c922d.ext.json)
+
+---
+
+### Showers in several areas
+
+*2025-09-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215156) · `si`
+
+Several spells of showers in the Western and Sabaragamuwa provinces and several showers in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The Department of Meteorology announced that there would be a few showers in the North Western Province.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds can occur 30-40 times.
+
+◼️
+
+[Data](articles/517de7ff.json)
+
+[Extended Data](ext_articles/517de7ff.ext.json)
+
+---
+
+### University lecturers to launch strike today over several issues
+
+*2025-09-30 06:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113052/university-lecturers-to-launch-strike-today-over-several-issues) · `en`
+
+The Federation of University Teachers’ Associations (FUTA) has announced that university lecturers will engage in strike action today (30) due to the government’s continued failure to resolve the pressing issues within the university system.
+
+FUTA Secretary Senior Lecturer Charudaththe Ilangasinghe made this statement during a media conference held in Colombo.
+
+He stated that although it has been a year since the current government came into power, there has still been no resolution to the ongoing crises affecting state universities.
+
+Charudaththe Ilangasinghe further emphasized that the public education in the country is currently facing a severe crisis.
+
+Ilangasinghe also highlighted the serious shortage of university lecturers, noting that over 200 lecturers have left the University of Peradeniya alone within the past year.
+
+◼️
+
+[Data](articles/814425d6.json)
+
+---
+
+### Donald Trump and Benjamin Netanyahu agree new Gaza peace plan
+
+*2025-09-30 05:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113051/donald-trump-and-benjamin-netanyahu-agree-new-gaza-peace-plan) · `en`
+
+US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu say they have agreed a new peace plan for Gaza, warning Hamas to accept it.
+
+The plan proposes an immediate end to military operations, with Hamas releasing 20 living Israeli hostages and the remains of the more than two dozen hostages who are believed to be dead within 72 hours, in exchange for hundreds of detained Gazans.
+
+A Palestinian source familiar with the ceasefire negotiations told the BBC that Hamas officials have been given the White House’s 20-point proposal.
+
+It demands that Hamas will have no role in governing Gaza, and leaves the door open for an eventual Palestinian state.
+
+Speaking at a news conference following talks at the White House, Trump called the plan “a historic day for peace”.
+
+But he said that Netanyahu will have US backing to do what he has to do if Hamas does not agree to the plan.
+
+Netanyahu then said Israel “will finish the job” if Hamas rejects the plan or does not follow through.
+
+...
+
+[Data](articles/9eaff153.json)
+
+---
+
+### Several spells of showers expected today in parts of the island
+
+*2025-09-30 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/113050/several-spells-of-showers-expected-today-in-parts-of-the-island) · `en`
+
+Several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today (30), the Department of Meteorology said.
+
+A few showers may occur in the North-western province as well.
+
+Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western, and Central provinces and in the Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/9e122148.json)
+
+---
+
+### President -Japanese Defense Minister meets
+
+*2025-09-30 04:05:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜப்பான்-பாதுகாப்பு-அமைச்சர்-சந்திப்பு/175-365502) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan, said that Japanese Defense Minister TM at the Imperial Hotel in Tokyo yesterday. He met and discussed the move.
+
+The meeting focused on long -term friendship and regional security between the two countries.
+
+The further strengthening the current cooperation between Sri Lanka and Japan on security issues was rapidly investigated. (A)
+
+◼️
+
+[Data](articles/a93e6999.json)
+
+[Extended Data](ext_articles/a93e6999.ext.json)
+
+---
 
 ### President-Japanese Finance Minister meets
 
@@ -809,6 +1133,22 @@ The accident had occurred due to a technical fault with a technical fault while 
 
 ---
 
+### Bus to hospital at Kandy road
+
+*2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/1-680438) · `si`
+
+රන්දෙනිගල මහනුවර මාර්ගයේ ගමන් කරමින් තිබූ පෞද්ගලික බස් රථයක් කීර්ති බණ්ඩාරපුර ප්‍රදේශයේදී අනතුරකට පත්වීම හේතුවෙන් එහි ගමන් කරමින් සිටි මඟින් 12 දෙනකු කැන්කැටිය ග්‍රාමීය රෝහලට ඇතුළත් කොට ඇති බව වලපනේ පොලීසිය කියයි.
+
+The accident had occurred due to a technical fault with a technical fault while transporting the employees of a garment workers.
+
+◼️
+
+[Data](articles/432852b2.json)
+
+[Extended Data](ext_articles/432852b2.ext.json)
+
+---
+
 ### Head of IMF Meeting Prime Minister
 
 *2025-09-29 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215152) · `si`
@@ -1142,6 +1482,28 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/a4fd73ab.json)
 
 [Extended Data](ext_articles/a4fd73ab.ext.json)
+
+---
+
+### 32 criminals in the country know where
+
+*2025-09-29 19:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රට-ඉන්න-අපරාධකරුවන්-32ක්-සැඟව-සිටින-තැන්-දන්නවා/11-418796) · `si`
+
+General Defense Minister Ananda Wijepala said that the international red warrants had already been identified as a 72 criminal criminals carrying out in the country and have been identified among criminals.
+
+The Minister was speaking at the meeting, the media was visiting Kandy and visiting the general public to the Mahawatwatu Asgiriya Textians.
+
+The Minister emphasized that there are about 30,000 officers and the STF personnel and the STF personnel will be established in December.
+
+He said that the government intervened to eliminate the drug infant and expected to start a national movement to eliminate drugs in the country within the next 2-3 weeks. The Minister stressed that the priestly from the priesthood will participate.
+
+The Minister requested the public to give all information to the police without fear of the police, including drug racues and crimes.
+
+◼️
+
+[Data](articles/bbbd47a1.json)
+
+[Extended Data](ext_articles/bbbd47a1.ext.json)
 
 ---
 
@@ -1650,353 +2012,5 @@ COLOMBO (News 1st); The Western Province Road Passenger Transport Authority has 
 [Data](articles/23008e39.json)
 
 [Extended Data](ext_articles/23008e39.ext.json)
-
----
-
-### Violence against Mannar people
-
-*2025-09-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226435) · `ta`
-
-The oppressive violence against the people fighting for their existence in Mannar is the blatant manifestation of state terrorism that has once again staged on the Tamil people.. Said Srikanta.
-
-He made this statement at a media briefing held at a private guest hotel on Mattin Road, Jaffna.
-
-If the government did not accept the real justice struggle of the people against the Mannar wind power plant, it should have legally arrested the people involved if it was illegal.
-
-But the state has no power to attack them and cause injuries.
-
-In this context, the state -led government is in office for a year, we consider this wild darbar that is an example of the attitude of the government when the democratic struggles against the state are expanding.
-
-And no one who respects the fundamental rights of the people can accept democracy to recognize or recognize this ritual.
-
-...
-
-[Data](articles/c4b0d1b2.json)
-
-[Extended Data](ext_articles/c4b0d1b2.ext.json)
-
----
-
-### President and Japan meet
-
-*2025-09-29 17:26:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-අගමත-හම-වය/1-680427) · `si`
-
-Japanese Prime Minister Shigru Ishiba and President Anura Kumara Dissanayake held this meeting today (29) at the Prime Minister's Office.
-
-The two countries focus on further expansion of trade between trade, investment, economic, development assistance and regional safety, strengthening the long-term intimacy between Japan and Sri Lanka.
-
-President Anura Kumara Dissanayake has expressed grateful to Japan for the assistance of Japan in the restructuring process.
-
-The President has also evaluated the continuous contribution and support from the Government of Japan as a close friend and a grant supplier in the country's development process.
-
-◼️
-
-[Data](articles/4f5b13c3.json)
-
-[Extended Data](ext_articles/4f5b13c3.ext.json)
-
----
-
-### President and Japan meet
-
-*2025-09-29 17:26:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-අගමත-හම-වය/101-680427) · `si`
-
-Japanese Prime Minister Shigru Ishiba and President Anura Kumara Dissanayake held this meeting today (29) at the Prime Minister's Office.
-
-The two countries focus on further expansion of trade between trade, investment, economic, development assistance and regional safety, strengthening the long-term intimacy between Japan and Sri Lanka.
-
-President Anura Kumara Dissanayake has expressed grateful to Japan for the assistance of Japan in the restructuring process.
-
-The President has also evaluated the continuous contribution and support from the Government of Japan as a close friend and a grant supplier in the country's development process.
-
-◼️
-
-[Data](articles/a061cbe2.json)
-
-[Extended Data](ext_articles/a061cbe2.ext.json)
-
----
-
-### ASPI closes at new all-time high today
-
-*2025-09-29 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113036/aspi-closes-at-new-all-time-high-today) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) closed at an all-time high after gaining over 77 points today (29).
-
-Accordingly, the ASPI rose by 77.31 points or 0.36% to close at 21,676.30 points, surpassing the previous high of 21,598.99 points recorded on September 26, 2025.
-
-Meanwhile, the S&P SL20 Index moved up by 7.64 points to close at 6,119.21 points.
-
-◼️
-
-[Data](articles/d720ebc7.json)
-
-[Extended Data](ext_articles/d720ebc7.ext.json)
-
----
-
-### Sri Lanka - India talks on power cooperation
-
-*2025-09-29 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226430) · `ta`
-
-Minister of Power and Energy Kumara Jayakody has met with the Indian renewable power minister and held talks on the cooperation of Sri Lanka -India strength.
-
-The meeting was held in collaboration with the recently organized power conference and exhibition organized by the Indian Industrial Federation in New Delhi.
-
-Minister Kumara Jayakody, who is on an official visit to India, discussed with the new and renewable power minister Prakalath Joshi of the Central Government of India, Prakalat Joshi, to improve the cooperation of energy between the two countries, to review the progress of current joint plans, and to investigate future investment opportunities.
-
-At this meeting with the Indian Minister of Power and Energy, the emphasis was given to renewable power cooperation.. In these discussions, the introduction of competitive purchasing methods has been paid to ensure the minimum price for renewable strength in Sri Lanka.
-
-...
-
-[Data](articles/d38804e8.json)
-
-[Extended Data](ext_articles/d38804e8.ext.json)
-
----
-
-### Monthly Education Assistant - Minister Arun Hemachandra through the President's Fund
-
-*2025-09-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226429) · `ta`
-
-Minister of State for Foreign and Foreign Employment Arun Hemachandra said that we have launched a monthly financial assistance program for the education of the children of diaspora workers through the Presidential Fund.
-
-He said this while commenting on the student scholarship provided by the President's Fund to the education of the children of the diaspora workers.
-
-As part of the political changes that have taken place since the new government came to power, we have launched a program to provide student scholarships to the children of migrant workers through the Presidential Fund.. The President's Fund is one of the people who need. It is not a boon.
-
-We see that it is currently being transformed into people's rights. However, in the past, the presidential fund was abused in various places, including Parliament.
-
-Currently that era is over. At this time, there is a number of benefits to the people, and we see that there are many benefits to the people.
-
-...
-
-[Data](articles/6fb72d8a.json)
-
-[Extended Data](ext_articles/6fb72d8a.ext.json)
-
----
-
-### Sri Lanka found 'Mephedrone' drug for the first time from Sri Lanka
-
-*2025-09-29 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215144) · `si`
-
-The Government Analyst's report has revealed that the substance found from a nation in Moldova arrested on 21st September.
-
-Senior DIG Kathsiri Jayalath said that the drug has been revealed to other drugs such as ice, such as ice.
-
-◼️
-
-[Data](articles/45233bbb.json)
-
-[Extended Data](ext_articles/45233bbb.ext.json)
-
----
-
-### 594,368 million losses to the Ceylon Electricity Board from 2014 to 2022
-
-*2025-09-29 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226434) · `ta`
-
-Besides 2015, from 2014 to 2022, the Ceylon Electricity Board's loss was Rs 594,368 million.
-
-The Committee (COP) Member of Parliament Nishantha Samaraweera, headed by its chairman of the Government of Ceylon, was convened in Parliament on Wednesday (24) to investigate the report of the Auditor General of the Ceylon Electricity Board 2022 and 2023.
-
-The Cobb Committee pointed out that there were many reasons for the loss based on the report of the Auditor General and said that some activities of the council were given to the public when there were employees in the company.. Due to such a series of losses in August 2022, the group pointed out that the electricity tariffs were increased by increasing, causing people to suffer great difficulties.. However, it was revealed that the Electricity Board had made a profit after 2023.
-
-...
-
-[Data](articles/3601b1c0.json)
-
-[Extended Data](ext_articles/3601b1c0.ext.json)
-
----
-
-### Purchase Rans to the Klangan Hospital Outpatient Division
-
-*2025-09-29 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226433) · `ta`
-
-At the Dikoya Klangan Hospital, the Attan Lions Association gifted a sum of rays to the hospital for the outpatient unit and the welfare of those who visit the clinic services.
-
-Attan Lions Club Chairman S. Sappani, Secretary Nallusamy, Lion Prabhakar, Klangan Hospital Development Association Secretary Sankaramanivannan, Treasurer P. Nagendran and Dr. Arulkumaran were also present.
-
-◼️
-
-[Data](articles/73313540.json)
-
-[Extended Data](ext_articles/73313540.ext.json)
-
----
-
-### ‘Mephedrone’ drug discovered for the first time in Sri Lanka - Senior DIG Southern Province
-
-*2025-09-29 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113035/mephedrone-drug-discovered-for-the-first-time-in-sri-lanka-senior-dig-southern-province) · `en`
-
-Sri Lanka has detected the highly dangerous synthetic stimulant drug ‘Mephedrone’ for the first time, the Senior Deputy Inspector General of Police (DIG) of the Southern Province Kithsiri Jayalath stated.
-
-The discovery was made following an examination by the Government Analyst of the substance recovered from a Moldova national arrested in Weligama on 21 September.
-
-Accordingly, the Government Analyst has issued a report confirming the detection of ‘Mephedrone’ drug.
-
-Senior DIG of the Southern Province Kithsiri Jayalath stated that the stimulant drug ‘Mephedrone’ is more dangerous than other narcotic drugs such as crystal methamphetamine (commonly known as ‘Ice’).
-
-◼️
-
-[Data](articles/0f180a6b.json)
-
-[Extended Data](ext_articles/0f180a6b.ext.json)
-
----
-
-### Japanese Prime Minister - Two major projects in the presence of President Anura
-
-*2025-09-29 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226416) · `ta`
-
-Japanese Ambassador Akio Isomada and Sri Lanka's Foreign Employment and Tourism Minister Vijitha Herath signed the inauguration of the Official Security Assistance Scheme (OSA) Scheme (OSA) program and the project of the dairy farming industry.
-
-Japan's first OSA for Sri Lanka indicates that bilateral cooperation in security has entered a new phase. OSA, which was launched in 2023, is Japan's new subsidy assistance cooperation structure to strengthen the safety and preventive skills of similar -minded countries. OSA helps to be a recipient of armed forces, different from the official development assistance (ODA) for the economic and social development of developing countries.
-
-...
-
-[Data](articles/655f932c.json)
-
-[Extended Data](ext_articles/655f932c.ext.json)
-
----
-
-### Navratri Cultural Program at Mayurapathi Sri Bhadrakali Temple
-
-*2025-09-29 17:09:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மயூரபதி-ஸ்ரீ-பத்ரகாளி-கோயிலில்-நவராத்திரி-கலாச்சார-நிகழ்ச்சி/46-365491) · `ta`
-
-The Navratri Cultural Program was held at the Mayurapathy Sri Bhadrakali Temple in Wellawatte with a colorful ceremony.
-
-◼️
-
-[Data](articles/960f4084.json)
-
-[Extended Data](ext_articles/960f4084.ext.json)
-
----
-
-### A report on investigations into the wife of Saman's wife
-
-*2025-09-29 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215142) · `si`
-
-The Criminal Investigation Department (CID) informed the Magistrate's Court today (29), a wife of the wife of Ven Kankik Lakshani.
-
-Colombo Chief Magistrate Asanka S. Bodaragama was summoned through a motion filed by the Criminal Investigation Department today.
-
-The police also informed the police when he was arrested by the court and was arrested in her two mobile phones and wanted to remove it.
-
-The two mobile phones will be sent to the Criminal Investigation Department to carry out the future investigations into the incident.
-
-The CID is investigating whether the suspect has been arrested with the network connected to the network associated with the Narcotics Trafficking in Middeniya recently.
-
-The Chief Magistrate was presented to the Department of Criminal Investigations on the following day a comprehensive report on the suspect.
-
-◼️
-
-[Data](articles/ad837dd9.json)
-
-[Extended Data](ext_articles/ad837dd9.ext.json)
-
----
-
-### The United Arab Emirates Ambassador met the Speaker
-
-*2025-09-29 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226431) · `ta`
-
-Ambassador of Sri Lanka, Khalid Nasser Al -US, met with Jagath Wickremaratne in Parliament on Thursday (25).
-
-Speaker Jagath Wickremaratne pointed out long -term bilateral relations between Sri Lanka and the United Arab Emirates since 1979 and recalled the historical relations between Sri Lanka and the Arab countries.
-
-He added that the Sri Lankan community in the Middle East would contribute significantly to the national economy.
-
-The Speaker pointed out that the United Arab Emirates is the 7th largest export of Sri Lankan products and emphasized the importance of further expansion of trade relations.
-
-Ambassador Khalid Nasser al -American pointed out strategic benefits, including the geographical location of Sri Lanka, skilled human resources, mineral wealth, natural beauty and attraction to tourism.. He emphasized the need to encourage these to attract more investments.
-
-...
-
-[Data](articles/43e83662.json)
-
-[Extended Data](ext_articles/43e83662.ext.json)
-
----
-
-### Monthly scholarship from the President's Fund to children of migrant workers
-
-*2025-09-29 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215141) · `si`
-
-Acting Foreign External Affairs Minister Arung Hemachandra stated that a scholarship has commenced a scholarship program.
-
-He made these comments deployed in the press conference held with the program to provide the public to the public.
-
-"As part of political transformation after the new government, the Presidential Fund has commenced a scholarship for the children of migrant workers through the Presidential Fund. The Presidential Fund is to be the right of the people. It's not a privilege. Now we see it is systematically transformed into the right of the people. But the last season, the Presidential Fund spoke in different places including Parliament. Now that era is over. At the moment of populist regime, we see opportunities for the people have many benefits.
-
-...
-
-[Data](articles/23056d7a.json)
-
-[Extended Data](ext_articles/23056d7a.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-29 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242159/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.55/60 to the US dollar on Monday weaker from 302.50/55 on Friday, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.25/35 percent, up from 8.25/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.75/85 percent.
-
-A bond maturing on 15.12.2029 closed at 9.55/60 percent, up from 9.54/60 percent.
-
-A bond maturing on 01.07.2030 closed at 9.68/72 percent, up from 9.67/70 percent.
-
-A bond maturing on 15.12.2032 closed at 10.45/50 percent, up from 10.43/48 percent. (Colombo/Sep29/2025)
-
-◼️
-
-[Data](articles/665b2bb3.json)
-
-[Extended Data](ext_articles/665b2bb3.ext.json)
-
----
-
-### Arrested in a medical student accident
-
-*2025-09-29 16:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மருத்துவ-மாணவன்-விபத்தில்-கைது/76-365490) · `ta`
-
-A 24 -year -old student of the Peradeniya University's Faculty of Science has died in a vehicle accident at Urapola junction in Kadugannawa, police said.
-
-Police say that a university student who was riding a motorbike to the university on the main road of Kadugannawa-Colombo crashed into a double-tier truck carrying vehicles to Colombo.
-
-The deceased has been identified as Diwanga Piyadissa, 24, a third year student of the Medical Faculty of Peradeniya University.
-
-◼️
-
-[Data](articles/1cd4fe85.json)
-
-[Extended Data](ext_articles/1cd4fe85.ext.json)
-
----
-
-### Medical student killed in accident
-
-*2025-09-29 16:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மருத்துவ-மாணவன்-விபத்தில்-பலி/76-365490) · `ta`
-
-A 24 -year -old student of the Peradeniya University's Faculty of Science has died in a vehicle accident at Urapola junction in Kadugannawa, police said.
-
-Police say that a university student who was riding a motorbike to the university on the main road of Kadugannawa-Colombo crashed into a double-tier truck carrying vehicles to Colombo.
-
-The deceased has been identified as Divanga Piyadissa (24), a third -year student of the Faculty of Medical Faculty of Peradeniya University.
-
-◼️
-
-[Data](articles/8c24a748.json)
-
-[Extended Data](ext_articles/8c24a748.ext.json)
 
 ---

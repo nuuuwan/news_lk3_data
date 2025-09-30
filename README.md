@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 07:45:17**
+As of **2025-09-30 08:16:16**
 
 ## Newspaper Stats
 
-*Scraped **79,682** Articles*
+*Scraped **79,692** Articles*
 
 newspaper | n
 --- | ---:
-lankadeepalk | 468
+lankadeepalk | 471
 newsfirstlk | 490
 dbsjeyarajcom | 635
 bbccomsinhala | 709
@@ -17,21 +17,167 @@ dailymirrorlk | 4,733
 economynextcom | 4,742
 islandlk | 4,850
 dailyftlk | 5,603
-adalk | 7,667
+adalk | 7,668
 adaderanalk | 10,280
-tamilmirrorlk | 11,920
+tamilmirrorlk | 11,921
 virakesarilk | 12,998
-adaderanasinhalalk | 13,787
+adaderanasinhalalk | 13,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,682 (100.0%) of 79,682 articles have been extended.
+79,682 (100.0%) of 79,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
+
+### රනිල් ගැන මහින්ද කී දේ
+
+*2025-09-30 07:52:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රනල-ගන-මහනද-ක-ද/101-680445) · `si`
+
+"අන්‍යෝන්‍ය ගෞරවය පවත්වා ගත හැකි වූ දේශපාලන සංස්කෘතියක අප දෙදෙනාම සමකාලීනයන්" බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා රනිල් වික්‍රමසිංහ මහතා තමා බලන්නට පැමිණීම සම්බන්ධයෙන් අදහස් දක්වමින් පවසයි.
+
+"හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ මා අතර හමුවක් තංගල්ල කාල්ටන් නිවසේදී පැවැත්විණි. එහිදී අපි දෙදෙනා ඉතා සුහද පිළිසඳරක යෙදුණෙමු.
+
+දේශපාලනමය වශයෙන් වෙනත් මතයන් දරද්දීත්, ජාතික වගකීම් ඉටුකරමින් අන්‍යෝන්‍ය ගෞරවය පවත්වා ගත හැකි වූ දේශපාලනය සංස්කෘතියක අප දෙදෙනාම සමකාලීනයන්ය. හිතවත් රනිල් වික්‍රමසිංහ මහතාගේ පැමිණීම සම්බන්ධයෙන් ස්තුතිවන්ත වෙමි. මෛත්‍රී වික්‍රමසිංහ මහත්මියවද ගෞරවයෙන් සිහිපත් කරමි" යනුවෙන් ද මහින්ද රාජපක්ෂ මහතා කියයි.
+
+මහින්ද රාජපක්ෂ මහතා මෙසේ පවසන්නේ ඔහුගේ නිල ෆේස්බුක් ගිණුමේ සටහනක් තබමිනි.
+
+◼️
+
+[Data](articles/01fcf266.json)
+
+---
+
+### බබාලා 47ක් අම්මලා සමග කූඩු වෙලා
+
+*2025-09-30 07:49:10* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බබල-47ක-අමමල-සමග-කඩ-වල/1-680444) · `si`
+
+මෙම වසර මුල සිට ගතවූ මාස 9 ක කාලය තුළ විවිධ වැරැදි සම්බන්ධයෙන් බන්ධනාගාර ගත කළ කාන්තාවන් සමග කුඩා දරුවන් 47 දෙනකු බන්ධනාගාරයේ රැදී සිටින බව බන්ධනාගාර මූලස්ථානය පවසයි.
+
+එම දරුවන් අතර පිරිමි දරුවෝ 20 දෙනෙක් සහ ගැහැණු දරුවෝ 27 දෙනෙක් සිටිති.
+
+ජනවාරි මස 1 වැනිදා සිට ඉකුත් (27) දින දක්වා ගත වූ මාස 9 ට කාන්තාවෝ 1483 ක් බන්ධනාගාර ගත කර සිටිති.
+
+ජනවාරි මස 1 වැනිදා සිට ජූලි මස 31 වැනිදා දක්වා ගතවූ මාස 7 ක කාලය තුළ මත්ද්‍රව්‍ය වැරැදි සම්බන්ධයෙන් සිර දඩුවම් ලද කාන්තාවෝ සංඛ්‍යාව 184 දෙනෙකි.
+
+ඒ අතර අයිස් මත්ද්‍රව්‍ය සම්බන්ධයෙන් 75 ක්, හෙරොයින් සම්බන්ධයෙන් 97 ක්, ගංජා සම්බන්ධයෙන් 8 දෙනෙක්, අබිං සම්බන්ධයෙන් එක් කාන්තවක් සහ වෙනත් මත්ද්‍රව්‍ය සම්බන්ධයෙන් 3 දෙනක් වෙති.
+
+2016 අංක 12 දරණ තොරතුරු දැනගැනීමේ අයිතිවාසිකම් පනත යටතේ බන්ධනාගාර මූලස්ථානයෙන් කළ ඉල්ලීමකින් පසුව මෙම තොරතුරු අනාවරණය විය.
+
+පසුගිය වසරේ විවිධ වැරැදි සම්බන්ධයෙන් සිරගත කර සිටි කාන්තාවන් සංඛ්‍යාව 885 ක් වන අතර ඉන් මත්ද්‍රව්‍ය වැරැදි සම්බන්ධයෙන් කාන්තාවෝ 369 ක් බන්ධනාගාර ගත කරනු ලැබ සිටියහ.
+
+...
+
+[Data](articles/0013a457.json)
+
+---
+
+### මට්ටක්කුලියේ සිදුකළ වැටලීමකින් තවත් මත්ද්‍රව්‍ය තොගයක් සොයාගනී
+
+*2025-09-30 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215161) · `si`
+
+හැෂ් මත්ද්‍රව්‍ය, හෙරොයින් හා මත්පෙති සමඟ සැකකරුවෙකුව කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (29) දහවල් කාලයේ මට්ටක්කුලිය පොලිස් වසමේ සිරිවර්ධන පාර ප්‍රදේශයේදී කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත වැටලීමක් සිදු කර ඇත.
+
+එහිදී ඈෂ් මත්ද්‍රව්‍ය කිලෝ 33 ග්‍රෑම් 270 ක්, හෙරොයින් ග්‍රෑම් 408 ක්, මත්පෙති 200 ක් හා විකිණීම සඳහා සකස් කර තිබූ හෙරොයින් (චරස්) කෑලි 7,400 ක් සමඟ මෙම සැකකරු අත්අඩංගුවට ගෙන මට්ටක්කුලිය පොලිස් ස්ථානය  වෙත ඉදිරිපත් කර තිබේ.
+
+සැකකරු වයස අවුරුදු 38 ක් වන සමිත්පුර, මට්ටක්කුලිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරු ප්‍රදේශයේ සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ සමීපතයෙකු බවට විමර්ශනයේදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/34f58727.json)
+
+---
+
+### කාන්තා එක්දින ලෝක කුසලානය අදින් ඇරඹෙයි
+
+*2025-09-30 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215160) · `si`
+
+කාන්තා ලෝක කුසලාන එක්දින ක්‍රිකට් තරගාවලිය අදින් (30) ආරම්භ වේ.
+
+තරගාවලියේ සමාරම්භක උත්සවය ඉන්දියාවේ ග්වාති ක්‍රීඩාංගණයේ පැවැත්වීමට නියමිත අතර පළමු තරගය ලෙස ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ ඉන්දීය කාන්තා කණ්ඩායම අතර පැවැත් වේ.
+
+පළමු වටයේ දී ශ්‍රී ලංකා කණ්ඩායම තරග 7කට සහභාගී වන අතර ඉන් තරග 2ක් ඉන්දියාවේදීත් තරග 5ක් ශ්‍රී ලංකාවේදීත් පැවැත්වීමට නියමිතය.
+
+කාන්තා ලෝක කුසලාන එක්දින ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය නොවැම්බර් මස 2 වන දින පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/45c3219c.json)
+
+---
+
+### මෙරට අපරාධවලට සම්බන්ධ තිදෙනෙක් ඉන්දියාවේ දී අත්අඩංගුවට
+
+*2025-09-30 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215159) · `si`
+
+මෙරට අපරාධවලට සම්බන්ධ ශ්‍රී ලාංකිකයන් තිදෙනෙකුව ඉන්දියාවේ බැංගලෝර් මධ්‍යම අපරාධ කොට්ඨාශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ඉරේෂ් හසන්ක, සුගත් සමින්දු සහ දිලීප් හර්ෂණ යන අය බව ඉන්දීය මාධ්‍ය වාර්තාකර ඇත.
+
+මෙම සැකකරුවන් තිදෙනා මෙරට අපරාධවලට සම්බන්ධ වී පසුගිය වසරේ දී ඉන්දියාවට නීතිවිරෝධී ලෙස ඇතුළු වී ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/8ad7bfbb.json)
+
+---
+
+### ගාසා තීරයට නව සාම සැලැස්මක්
+
+*2025-09-30 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215158) · `si`
+
+ගාසා තීරය සඳහා නව සාම සැලැස්මකට එකඟ වී ඇති බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සහ ඊශ්‍රයල් අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පවසයි.
+
+අදාළ සැලැස්ම සඳහා එකඟවන ලෙස හමාස් සංවිධානයට අනතුරු අඟවන බව ඔවුන් ප්‍රකාශ කර ඇත.
+
+මෙම නව සාම සැලැස්ම මගින් හමුදා මෙහෙයුම් වහාම නතර කිරීමට යෝජනා කර ඇති අතර පැය 72ක් ඇතුළත ඊශ්‍රායල ප්‍රාණ ඇපකරුවන් 20 දෙනෙකු නිදහස් කිරීමට යෝජනා කර තිබේ.
+
+එමෙන්ම අමෙරිකානු ධවල මන්දිරය විසින් හමාස් සංවිධානයට කරුණු 20ක් ඇතුළත් යෝජනාවක් ඉදිරිපත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/527c922d.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-09-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215156) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, වයඹ පළාතේ වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/517de7ff.json)
+
+---
+
+### ஜனாதிபதி - ஜப்பான் பாதுகாப்பு அமைச்சர் சந்திப்பு
+
+*2025-09-30 04:05:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜப்பான்-பாதுகாப்பு-அமைச்சர்-சந்திப்பு/175-365502) · `ta`
+
+ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, நேற்று டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் ஜப்பான் பாதுகாப்பு அமைச்சர் டி.எம். நகதானியை சந்தித்துக் கலந்துரையாடினார்.
+
+இரு நாடுகளுக்கும் இடையிலான நீண்டகால நட்புறவு மற்றும் பிராந்திய பாதுகாப்பு குறித்து இந்தச் சந்திப்பில் கவனம் செலுத்தப்பட்டது.
+
+பாதுகாப்பு விடயங்களில் இலங்கைக்கும் ஜப்பானுக்கும் இடையிலான தற்போதைய ஒத்துழைப்பை மேலும் வலுப்படுத்துவது குறித்து வெகுவாக ஆராயப்பட்டது. (a)
+
+◼️
+
+[Data](articles/a93e6999.json)
+
+---
 
 ### President-Japanese Finance Minister meets
 
@@ -809,6 +955,20 @@ The accident had occurred due to a technical fault with a technical fault while 
 
 ---
 
+### මහනුවර මාර්ගයේ බස් රථ අනතුරින් 12ක්‌ රෝහලට
+
+*2025-09-29 21:33:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/1-680438) · `si`
+
+රන්දෙනිගල මහනුවර මාර්ගයේ ගමන් කරමින් තිබූ පෞද්ගලික බස් රථයක් කීර්ති බණ්ඩාරපුර ප්‍රදේශයේදී අනතුරකට පත්වීම හේතුවෙන් එහි ගමන් කරමින් සිටි මඟින් 12 දෙනකු කැන්කැටිය ග්‍රාමීය රෝහලට ඇතුළත් කොට ඇති බව වලපනේ පොලීසිය කියයි.
+
+බස් රථය ඇඟලුම් කම්මලක සේවකයන් ප්‍රවාහනය කරමින් සිටියදී ඇති වූ කාර්මික දෝෂයක් හේතුවෙන් මාර්ගයෙන් ඉවතට පැන ගල්වැටියක වැදීමෙන් මෙම අනතුර සිදුවී ඇති බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/432852b2.json)
+
+---
+
 ### Head of IMF Meeting Prime Minister
 
 *2025-09-29 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215152) · `si`
@@ -1142,6 +1302,24 @@ Foreign Affairs and Tourism, Foreign Employment and Traveling Vijitha Hemantha, 
 [Data](articles/a4fd73ab.json)
 
 [Extended Data](ext_articles/a4fd73ab.ext.json)
+
+---
+
+### රට ඉන්න අපරාධකරුවන් 32ක් සැඟව සිටින තැන් දන්නවා
+
+*2025-09-29 19:54:02* · [`adalk`](https://www.ada.lk/breaking_news/රට-ඉන්න-අපරාධකරුවන්-32ක්-සැඟව-සිටින-තැන්-දන්නවා/11-418796) · `si`
+
+මෙරටින් ගොස් විදේශයන්හි රැඳී සිටිමින් අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම් සිදු කරනු ලබන අපරාධකරුවන් 72 කෙනෙකුට ජාත්‍යන්තර රතු වරෙන්තු නිකුත්කොට ඇති බවත් එම අපරාධකරුවන් අතරෙන් අපරාධකරුවන් 32 දෙනෙකු සැඟව සිටින ස්ථාන මේ වන විට හඳුනාගෙන ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා කියයි.
+
+අමාත්‍යවරයා මහනුවරට පැමිණ මල්වතු අස්ගිරි මහා නා හිමිවරුන් බැහැදැකීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් වැඩිදුරටත් අවධාරණය කර සිටියේ මෙරට අපරාධකරුවන් 20  දෙනෙකු විදේශ සිරගෙවල්වල සිරගතව සිටින බවත් ඔවුන්ද ලංකාවට ගෙන්වා ගැනීම සඳහා පොලිස්පතිවරයා අවශ්‍ය පියවර ගනිමින් සිටින බවයි.
+
+පොලිසියටත් විශේෂ කාර්ය බළකායටත්  නිලධාරීන් 30,000 කගේ පමණ පුරප්පාඩු පවතින බවත් එම පුරප්පාඩු පියවීම මේ දෙසැම්බරයේ සිට ආරම්භ කරන බවද අමාත්‍යවරයා අවධාරණය කළේය.
+
+මත්ද්‍රව්‍ය උවදුර මෙරටෙන් තුරන් කිරීම සඳහා රජය මැදිහත්ව ක්‍රියාමාර්ග ගණනාවක් ගෙන ඇති බවත් ඉදිරි සති 2-3 ඇතුළත මෙරටෙන් මත් උවදුර තුරන් කිරීමේ ජාතික ව්‍යාපාරයක් ආරම්භ කිරීමට බලාපොරොත්තු වන බවද පැවසීය. ඒ සඳහා පූජක පාර්ශවයේ සිට සෑම පාර්ශවයක්ම සහභාගි කරවා ගන්නා බවද අමාත්‍යවරයා අවධාරණය කළේය.
+
+...
+
+[Data](articles/bbbd47a1.json)
 
 ---
 
@@ -1808,195 +1986,5 @@ The Cobb Committee pointed out that there were many reasons for the loss based o
 [Data](articles/3601b1c0.json)
 
 [Extended Data](ext_articles/3601b1c0.ext.json)
-
----
-
-### Purchase Rans to the Klangan Hospital Outpatient Division
-
-*2025-09-29 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226433) · `ta`
-
-At the Dikoya Klangan Hospital, the Attan Lions Association gifted a sum of rays to the hospital for the outpatient unit and the welfare of those who visit the clinic services.
-
-Attan Lions Club Chairman S. Sappani, Secretary Nallusamy, Lion Prabhakar, Klangan Hospital Development Association Secretary Sankaramanivannan, Treasurer P. Nagendran and Dr. Arulkumaran were also present.
-
-◼️
-
-[Data](articles/73313540.json)
-
-[Extended Data](ext_articles/73313540.ext.json)
-
----
-
-### ‘Mephedrone’ drug discovered for the first time in Sri Lanka - Senior DIG Southern Province
-
-*2025-09-29 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113035/mephedrone-drug-discovered-for-the-first-time-in-sri-lanka-senior-dig-southern-province) · `en`
-
-Sri Lanka has detected the highly dangerous synthetic stimulant drug ‘Mephedrone’ for the first time, the Senior Deputy Inspector General of Police (DIG) of the Southern Province Kithsiri Jayalath stated.
-
-The discovery was made following an examination by the Government Analyst of the substance recovered from a Moldova national arrested in Weligama on 21 September.
-
-Accordingly, the Government Analyst has issued a report confirming the detection of ‘Mephedrone’ drug.
-
-Senior DIG of the Southern Province Kithsiri Jayalath stated that the stimulant drug ‘Mephedrone’ is more dangerous than other narcotic drugs such as crystal methamphetamine (commonly known as ‘Ice’).
-
-◼️
-
-[Data](articles/0f180a6b.json)
-
-[Extended Data](ext_articles/0f180a6b.ext.json)
-
----
-
-### Japanese Prime Minister - Two major projects in the presence of President Anura
-
-*2025-09-29 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226416) · `ta`
-
-Japanese Ambassador Akio Isomada and Sri Lanka's Foreign Employment and Tourism Minister Vijitha Herath signed the inauguration of the Official Security Assistance Scheme (OSA) Scheme (OSA) program and the project of the dairy farming industry.
-
-Japan's first OSA for Sri Lanka indicates that bilateral cooperation in security has entered a new phase. OSA, which was launched in 2023, is Japan's new subsidy assistance cooperation structure to strengthen the safety and preventive skills of similar -minded countries. OSA helps to be a recipient of armed forces, different from the official development assistance (ODA) for the economic and social development of developing countries.
-
-...
-
-[Data](articles/655f932c.json)
-
-[Extended Data](ext_articles/655f932c.ext.json)
-
----
-
-### Navratri Cultural Program at Mayurapathi Sri Bhadrakali Temple
-
-*2025-09-29 17:09:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மயூரபதி-ஸ்ரீ-பத்ரகாளி-கோயிலில்-நவராத்திரி-கலாச்சார-நிகழ்ச்சி/46-365491) · `ta`
-
-The Navratri Cultural Program was held at the Mayurapathy Sri Bhadrakali Temple in Wellawatte with a colorful ceremony.
-
-◼️
-
-[Data](articles/960f4084.json)
-
-[Extended Data](ext_articles/960f4084.ext.json)
-
----
-
-### A report on investigations into the wife of Saman's wife
-
-*2025-09-29 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215142) · `si`
-
-The Criminal Investigation Department (CID) informed the Magistrate's Court today (29), a wife of the wife of Ven Kankik Lakshani.
-
-Colombo Chief Magistrate Asanka S. Bodaragama was summoned through a motion filed by the Criminal Investigation Department today.
-
-The police also informed the police when he was arrested by the court and was arrested in her two mobile phones and wanted to remove it.
-
-The two mobile phones will be sent to the Criminal Investigation Department to carry out the future investigations into the incident.
-
-The CID is investigating whether the suspect has been arrested with the network connected to the network associated with the Narcotics Trafficking in Middeniya recently.
-
-The Chief Magistrate was presented to the Department of Criminal Investigations on the following day a comprehensive report on the suspect.
-
-◼️
-
-[Data](articles/ad837dd9.json)
-
-[Extended Data](ext_articles/ad837dd9.ext.json)
-
----
-
-### The United Arab Emirates Ambassador met the Speaker
-
-*2025-09-29 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226431) · `ta`
-
-Ambassador of Sri Lanka, Khalid Nasser Al -US, met with Jagath Wickremaratne in Parliament on Thursday (25).
-
-Speaker Jagath Wickremaratne pointed out long -term bilateral relations between Sri Lanka and the United Arab Emirates since 1979 and recalled the historical relations between Sri Lanka and the Arab countries.
-
-He added that the Sri Lankan community in the Middle East would contribute significantly to the national economy.
-
-The Speaker pointed out that the United Arab Emirates is the 7th largest export of Sri Lankan products and emphasized the importance of further expansion of trade relations.
-
-Ambassador Khalid Nasser al -American pointed out strategic benefits, including the geographical location of Sri Lanka, skilled human resources, mineral wealth, natural beauty and attraction to tourism.. He emphasized the need to encourage these to attract more investments.
-
-...
-
-[Data](articles/43e83662.json)
-
-[Extended Data](ext_articles/43e83662.ext.json)
-
----
-
-### Monthly scholarship from the President's Fund to children of migrant workers
-
-*2025-09-29 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215141) · `si`
-
-Acting Foreign External Affairs Minister Arung Hemachandra stated that a scholarship has commenced a scholarship program.
-
-He made these comments deployed in the press conference held with the program to provide the public to the public.
-
-"As part of political transformation after the new government, the Presidential Fund has commenced a scholarship for the children of migrant workers through the Presidential Fund. The Presidential Fund is to be the right of the people. It's not a privilege. Now we see it is systematically transformed into the right of the people. But the last season, the Presidential Fund spoke in different places including Parliament. Now that era is over. At the moment of populist regime, we see opportunities for the people have many benefits.
-
-...
-
-[Data](articles/23056d7a.json)
-
-[Extended Data](ext_articles/23056d7a.ext.json)
-
----
-
-### Sri Lanka rupee weaker against dollar, bond yields steady
-
-*2025-09-29 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-242159/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.55/60 to the US dollar on Monday weaker from 302.50/55 on Friday, while bond yields closed broadly steady, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.25/35 percent, up from 8.25/30 percent.
-
-A bond maturing on 15.09.2027 closed flat at 8.75/85 percent.
-
-A bond maturing on 15.12.2029 closed at 9.55/60 percent, up from 9.54/60 percent.
-
-A bond maturing on 01.07.2030 closed at 9.68/72 percent, up from 9.67/70 percent.
-
-A bond maturing on 15.12.2032 closed at 10.45/50 percent, up from 10.43/48 percent. (Colombo/Sep29/2025)
-
-◼️
-
-[Data](articles/665b2bb3.json)
-
-[Extended Data](ext_articles/665b2bb3.ext.json)
-
----
-
-### Arrested in a medical student accident
-
-*2025-09-29 16:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மருத்துவ-மாணவன்-விபத்தில்-கைது/76-365490) · `ta`
-
-A 24 -year -old student of the Peradeniya University's Faculty of Science has died in a vehicle accident at Urapola junction in Kadugannawa, police said.
-
-Police say that a university student who was riding a motorbike to the university on the main road of Kadugannawa-Colombo crashed into a double-tier truck carrying vehicles to Colombo.
-
-The deceased has been identified as Diwanga Piyadissa, 24, a third year student of the Medical Faculty of Peradeniya University.
-
-◼️
-
-[Data](articles/1cd4fe85.json)
-
-[Extended Data](ext_articles/1cd4fe85.ext.json)
-
----
-
-### Medical student killed in accident
-
-*2025-09-29 16:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மருத்துவ-மாணவன்-விபத்தில்-பலி/76-365490) · `ta`
-
-A 24 -year -old student of the Peradeniya University's Faculty of Science has died in a vehicle accident at Urapola junction in Kadugannawa, police said.
-
-Police say that a university student who was riding a motorbike to the university on the main road of Kadugannawa-Colombo crashed into a double-tier truck carrying vehicles to Colombo.
-
-The deceased has been identified as Divanga Piyadissa (24), a third -year student of the Faculty of Medical Faculty of Peradeniya University.
-
-◼️
-
-[Data](articles/8c24a748.json)
-
-[Extended Data](ext_articles/8c24a748.ext.json)
 
 ---

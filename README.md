@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-09-30 23:57:01**
+As of **2025-10-01 00:11:38**
 
 ## Newspaper Stats
 
-*Scraped **79,988** Articles*
+*Scraped **79,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,34 +18,86 @@ economynextcom | 4,757
 islandlk | 4,851
 dailyftlk | 5,604
 adalk | 7,698
-adaderanalk | 10,316
+adaderanalk | 10,318
 tamilmirrorlk | 11,954
 virakesarilk | 13,048
-adaderanasinhalalk | 13,830
+adaderanasinhalalk | 13,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-79,987 (100.0%) of 79,988 articles have been extended.
+79,988 (100.0%) of 79,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-09-30 (Tuesday)
 
-### மகாநாயக்க தேரர்கள் ஜனாதிபதிக்கு அவசர கடிதம்
+### පළමු ජය ඉන්දීය කාන්තා කණ්ඩායමට‍
 
-*2025-09-30 23:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்கள்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-365560) · `ta`
+*2025-09-30 23:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215202) · `si`
 
-மூன்று பீடங்களை சேர்ந்த மகாநாயக்க தேரர்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு கடிதம் எழுதியுள்ளனர்.
+රටවල් 8ක් එක් කුසලානයක් වෙනුවෙන් තරග වදින කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකා කාන්තා කණ්ඩායමට එරෙහිව පැවැති පළමු තරගය ඩක්වත් ලුවිස් නියායට අනුව ලකුණු 59කින් ජය ගැනීමට ඉන්දීය කණ්ඩායම සමත් විය.
 
-ஒரு நாட்டின் கலாச்சார அடையாளம், வரலாற்று பாரம்பரியம் மற்றும் பாரம்பரிய ஒழுக்கங்கள் புறக்கணிக்கப்பட்டு, குறுகிய தன்னிச்சையான மற்றும் குருட்டுத்தனமான போலித்தனத்தின் அடிப்படையில் அரசை நிர்வகிக்க முயற்சித்தால், அது நாட்டில் அராஜகத்திற்கும் முழு சமூகத்தின் வீழ்ச்சிக்கும் வழிவகுக்கும் என்று தேரர்கள் கடிதத்தில் குறிப்பிட்டுள்ளனர்.
+ලකුණු 271ක ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 45යි පන්දු 4ක් තුළ සියලුදෙනා දැවී රැස් කර ගත්තේ  ලකුණු 211ක් පමණි.
 
-தற்போதைய அரசாங்கத்தால் உடல் ரீதியான தண்டனையை குற்றமாக்குவதற்கு முன்மொழியப்பட்ட தண்டனைச் சட்டத்தின் 82வது பிரிவில் திருத்தம் செய்வதும், ஓரினச்சேர்க்கையை அடிப்படையாகக் கொண்ட சுற்றுலாத் துறையை மேம்படுத்துவதற்கு சுற்றுலா மேம்பாட்டு ஆணைக்குழு ஆதரவளிப்பதும் இத்தகைய கடுமையான ஒழுக்க அராஜகத்திற்கும் பல சமூக நெருக்கடிகளுக்கும் காரணங்களாகும் என்று தேரர்கள் தங்கள் கடிதத்தில் ஜனாதிபதிக்கு தெரிவித்துள்ளனர்.
+ගුවහාති හී පැවැති තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කාන්තා කණ්ඩායමේ නායිකා චමරි අතපත්තුගේ තීරණය වුයේ පළමුව පන්දු රැකීමටය.
+
+ඒ අනුව පළමුව පන්දුවට පහරදීමට පැමිණි ඉන්දිය කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 8ක් ලබාසිටි ස්මිත්‍රි මන්දනාව දවාගන්නට ශ්‍රී ලංකා ක්‍රීඩිකාවන් සමත් වුණි.
+
+හාර්ලීන් ඩියෝල් ලකුණු 48කට සහ නායිකා හර්මන්ප්‍රීත් කෞර්ගේ ඉනිම ලකුණු 21කට සීමාකරන්නට ඉනෝකා රණවීර සමත් වුණි.
+
+විටක ඉන්දිය කණ්ඩායමේ මුල් කඩුලු 4 ලකුණු 120ක් තුල දැවී ගියත් 7වැනි කඩුල්ලට ලකුණු 107ක විශිෂ්ට සබඳතාවක් ගොඩ නගන්නට දීප්ති ශර්මා සහ අමන්ජොත් කෞර් සමත් වුණි.
+
+අමන්ජොත් කෞර් ලකුණු 57ක් සහ දීප්ති ශර්මා ලකුණු 53ක් ලබා ගත්තාය.
 
 ...
 
+[Data](articles/dfe2c6b7.json)
+
+---
+
+### නේපාලයට එරෙහි නින්දාසහගත තරගාවලි පරාජයේ බර කොදෙව්වෝ අඩුකර ගනිති
+
+*2025-09-30 23:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215200) · `si`
+
+නේපාල කණ්ඩායම සහ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම අතර පැවැති අවසන් විස්සයි20 තරගය කඩුලු 10කින් ජය ගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම අද සමත්විය.
+
+කෙසේවෙතත් තරග තුනකින් සමත්විත නේපාල - බටහිර ඉන්දීය කොදෙව් විස්සයි20 තරගාවලිය 2-1ක් ලෙස ජය ගැනීමට නේපාල කණ්ඩායම සමත්විය.
+
+කොදෙව් කණ්ඩායමේ මෙම තරගාවලිය පරාජය සැලකෙන්නේ ICC පූර්ණ සාමාජික රටක් ICC අර්ධ සාමාජික රටක් විසින් පරාජය කළ පළමු අවස්ථාව ලෙසය.
+
+අද තරගයේ කාසියේ වාසිය දිනාගත් බටහිර ඉන්දීය කොදෙව් කණ්ඩායමේ නායකයා පළමුවෙන් පන්දුවට පහරදීම සඳහා නේපාල කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පළමුවෙන් පන්දුවට පහරදුන් නේපාල කණ්ඩායම පන්දුවාර 15යි පන්දු 05ක් අවසායේ සියලුදෙනා දැවී රැස්ගත්තේ ලකුණු 122ක් පමණි.
+
+පන්දු යැවීමේදී බටහිර ඉන්දීය කොදෙව් කණ්ඩාය වෙනුවෙන් Ramon Simmonds කඩුලු 4ක් දවාගත්තේය.
+
+ඒ අනුව මෙම තරගයේ නේපාල කණ්ඩායමෙන් හිමි වු ලකුණු 123ක ඉලක්කය තරගයේ  12(12.2) වන පන්දුවාරයේදී පසුකර යාමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+◼️
+
+[Data](articles/89b4d825.json)
+
+---
+
+### Emergency letter to the President
+
+*2025-09-30 23:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்கள்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-365560) · `ta`
+
+The Mahanayaka Thera of the three faculties has written to President Anura Kumara Dissanayake.
+
+In the letter, the Thera said in the letter that if a country's cultural identity, historical heritage and traditional morals were ignored and tried to manage the state on the basis of short spontaneous and blindness, it would lead to anarchy and the fall of the entire community in the country.
+
+In their letter, Thera has informed the President that the amendment to Article 82 of the Penal Code proposed by the present government and the support of the Tourism Development Commission to promote homosexual tourism.
+
+The President, who has always expressed his views on the uniqueness of Buddhist philosophical values ​​and their practical use of stable social development, is expected to pay necessary steps to prevent these immoral activities.. The children's eyes were donated at the discretion of the family. Remble
+
+◼️
+
 [Data](articles/8e5d3818.json)
+
+[Extended Data](ext_articles/8e5d3818.ext.json)
 
 ---
 
@@ -108,6 +160,28 @@ General Secretary of the All Ceylon Medical Laboratory Science Association, Wasa
 [Data](articles/70d87e87.json)
 
 [Extended Data](ext_articles/70d87e87.ext.json)
+
+---
+
+### Australia updates student visa evidence levels: Sri Lanka now among low-risk countries
+
+*2025-09-30 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113090/australia-updates-student-visa-evidence-levels-sri-lanka-now-among-low-risk-countries) · `en`
+
+The Australian Department of Home Affairs has recently updated evidence levels for student visa applications, as noted via the PRISMS system.
+
+While these levels are not officially published, the department uses them to assess the documentation required for student visa applications under the Simplified Student Visa Framework (SSVF).
+
+Based on information circulated within official education and immigration networks, countries are currently categorized as follows:
+
+Evidence levels are part of Australia’s risk-management approach to international education, reflecting past student visa compliance and other immigration outcomes.
+
+Both education providers and countries of citizenship are assigned evidence levels (Level 1, 2, or 3). The combination of these two factors determines how much documentation a student must provide.
+
+All institutions registered under the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS) are assigned an evidence level:
+
+...
+
+[Data](articles/066bafce.json)
 
 ---
 
@@ -182,6 +256,22 @@ There is no change in the price of petrol Octane 92 and super diesel.
 [Data](articles/bce27f1c.json)
 
 [Extended Data](ext_articles/bce27f1c.ext.json)
+
+---
+
+### Fuel prices reduced
+
+*2025-09-30 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113089/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) has announced a revision of fuel prices effective from midnight today (30).
+
+According to the announcement, the price of Auto Diesel will be reduced by Rs. 6 to Rs. 277 per litre, and Petrol 95 Octane will be reduced by Rs. 6 to Rs. 335 per litre.
+
+Meanwhile, there will be no change in the prices of Petrol 92 Octane and Super Diesel.
+
+◼️
+
+[Data](articles/ecfb6a8c.json)
 
 ---
 
@@ -1900,85 +1990,5 @@ In addition, the bank's full -fledged subsidiaries, CBC Finance LTD and Commerci
 [Data](articles/b45a5a5d.json)
 
 [Extended Data](ext_articles/b45a5a5d.ext.json)
-
----
-
-### Bail for a student who naked the image of the student
-
-*2025-09-30 15:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவின்-படத்தை-நிர்வாணமாக்கிய-மாணவனுக்கு-பிணை/175-365528) · `ta`
-
-A school student under the age of 18 Maheshika Wijetunga has been produced before the Galle Magistrate Maheshika Wijetunga. 200,000 was released on bail.
-
-He was handed over to his father. The magistrate strongly warned the victim not to hurt or influence.
-
-When the school's student's girlfriend told her elder brother that her picture was shared on the Internet, police said the incident came to light.. His brother immediately lodged a complaint with the Galle Cyber ​​Criminal Investigation Division.
-
-During the hearing, the suspect was arrested and interrogated. The boy was romantically followed by the girl, and after she rejected her, she was uploaded online with a naked photo with a naked photo.
-
-IP Gayani and Sergeant Priyantha, in charge of the Children's and Women's Bureau in Galle, were produced in court.
-
-◼️
-
-[Data](articles/8828899a.json)
-
-[Extended Data](ext_articles/8828899a.ext.json)
-
----
-
-### 36 drivers arrested for driving vehicles
-
-*2025-09-30 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226496) · `ta`
-
-A total of 5,238 people have been arrested during a special roundup, which was carried out on Monday (29) across the country, the police media unit said.
-
-Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
-
-During the special raid, 678 persons with evidence of various crimes, 14 on suspicion, 284 persons were issued, 173 people who had been issued an opening order, 36 drivers in connection with the inauguration of liquor, and the police were arrested in connection with the police.
-
-◼️
-
-[Data](articles/8d197583.json)
-
-[Extended Data](ext_articles/8d197583.ext.json)
-
----
-
-### Yall. Special Economic Center
-
-*2025-09-30 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226493) · `ta`
-
-The renovation of the Special Economic Center in Jaffna was held on Tuesday morning (30) under the patronage of Minister of Fisheries, Aquatic and Marine Resources Chandrasekhar.
-
-Minister of Commerce, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe, Governor of the Northern Province, Na Vedanayanan, Members of Parliament K. Ilangumaran, S. Sripavanantharasa and J. Rajeevan were also present.
-
-The Economic Center was opened and the wholesalers started the wholesale business.
-
-Chavakachcheri Pradeshiya Sabha Chairman, Jaffna. District Secretary, Secretary to the Ministry of Agriculture of the Northern Province, Divisional Secretaries and Representatives of the Agricultural Federation were present at the event.
-
-◼️
-
-[Data](articles/7cfbec3c.json)
-
-[Extended Data](ext_articles/7cfbec3c.ext.json)
-
----
-
-### 'Gift' of'Nobel Gift '
-
-*2025-09-30 15:03:55* · [`adalk`](https://www.ada.lk/breaking_news/‍’නොබෙල්-තෑග්ග’-අත්වැරදීමක්/11-418819) · `si`
-
-Minister Sunil Handunnetti says that the Nobel Gift was given to the Guinness of the GCE A Auction in Japan.
-
-"New Vithanakanda Ceylon Black Tea (New Vithanaakande Ceylon Black Committee) has joined the world's highest priced tea in Japan.
-
-Instead of commenting on this, "the word nobel gift was made by a 'Nobel gift' and worried about it.
-
-The social media has emerges in social media regarding the transfusion of me. I am also worried about the transformation of some of the opposition.
-
-◼️
-
-[Data](articles/6640ff80.json)
-
-[Extended Data](ext_articles/6640ff80.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 09:56:59**
+As of **2025-10-01 10:09:29**
 
 ## Newspaper Stats
 
-*Scraped **80,070** Articles*
+*Scraped **80,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,34 +18,108 @@ economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,702
-adaderanalk | 10,321
+adaderanalk | 10,324
 tamilmirrorlk | 11,960
-virakesarilk | 13,075
-adaderanasinhalalk | 13,837
+virakesarilk | 13,081
+adaderanasinhalalk | 13,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,069 (100.0%) of 80,070 articles have been extended.
+80,070 (100.0%) of 80,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### ஜப்பானிய பேரரசரை சந்தித்தார் ஜனாதிபதி
+### ஜப்பான் - இலங்கைப் பாராளுமன்ற லீக் குழு ஜனாதிபதியை சந்தித்தது
+
+*2025-10-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226544) · `ta`
+
+ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் அந்நாட்டிற்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கு செவ்வாய்க்கிழமை (30) டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் காலை விருந்துபசாரம் நடைபெற்றது.
+
+இருநாட்டுப் பாராளுமன்ற உறுப்பினர்களுக்கு இடையிலான ஒத்துழைப்பு மேலும் வலுப்படுத்துவதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் நெருங்கிய தொடர்புகளுடன் செயற்பட எதிர்பார்ப்பதாக ஜப்பான் - இலங்கைப் பாராளுமன்ற லீகின் தலைவர் யொசிதாகா சின்டோ (Yoshitaka Shindo) மற்றும் பொதுச் செயலாளர் யுகோ ஒபுசி (Yuko Obuchi) ஆகியோர் இங்கு தெரிவித்தனர்.
+
+இரு நாடுகளின் பரஸ்பர நலன்களுக்காக அரசியல், பொருளாதாரம் மற்றும் கலாசாரத் துறைகளில் ஒத்துழைப்பை வலுப்படுத்த தாங்கள் செயல்பட்டு வருவதாக அவர்கள் மேலும் தெரிவித்தனர்.
+
+ஜப்பான்-இலங்கை பாராளுமன்ற லீக், முன்னாள் ஜப்பானிய பிரதமர்  கெய்சோ ஒபுசி (Keizo Obuchi)  தலைமையில் 1982 ஆம் ஆண்டு நிறுவப்பட்டது.
+
+...
+
+[Data](articles/5914477e.json)
+
+---
+
+### The President meets the Japanese Emperor
 
 *2025-10-01 09:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிய-பேரரசரை-சந்தித்தார்-ஜனாதிபதி/175-365567) · `ta`
 
-ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க நேற்று (30) பேரரசர் மாளிகையில் ஜப்பானின் பேரரசர் நருஹிதோவை சந்தித்தார்.
+President Anura Kumara Dissanayake, who is on an official visit to Japan, met Japan's emperor Naruhido yesterday (30) at the Emperor's House.
 
-டோக்கியோவில் உள்ள ஜப்பான் பேரரசரின் உத்தியோகபூர்வ இல்லமான பேரரசர் மாளிகைக்கு வருகை தந்த ஜனாதிபதியை, பேரரசர் அமோகமாக வரவேற்றதுடன், சுமூகமான கலந்துரையாடலிலும் ஈடுபட்டதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+The President of the Emperor, the official residence of the Japanese Emperor in Tokyo, welcomed the President who was visiting the Emperor House, and the Emperor was engaged in a smooth discussion.
 
-வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத்தும் இந்த நிகழ்வில் கலந்து கொண்டதாக தெரிவிக்கப்பட்டுள்ளது. R
+Foreign, Foreign Employment and Tourism Minister Vijitha Herath also attended the event.. Remble
 
 ◼️
 
 [Data](articles/13a3d4de.json)
+
+[Extended Data](ext_articles/13a3d4de.ext.json)
+
+---
+
+### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමුවෙයි
+
+*2025-10-01 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215210) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එරට නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමුවී තිබේ.
+
+ජපාන අධිරාජ්‍යයාගේ නිල නිවස වන අධිරාජ්‍ය මන්දිරයේදී නරුහිතෝ අධිරාජ්‍යයා විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගනු ලැබීමෙන් අනතුරුව සුහද පිළිසඳරකද නිරත විය.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද මෙම අවස්ථාවට එක්විය.
+
+◼️
+
+[Data](articles/c6071bd4.json)
+
+---
+
+### උරුමය ඔප්පු දෙන බව පවසා රු කෝටි 10කට ආසන්න මුදලක් වංචා කරලා
+
+*2025-10-01 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215209) · `si`
+
+'උරුමය' වැඩසටහන යටතේ ස්ථිර ඔප්පු ලබා දෙන බවට පොරොන්දු වී රුපියල් කෝටි 10කට ආසන්න මුදලක් වංචා කළ බවට සැකකෙරෙන පුද්ගලයින් දෙදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, වංචාවට සම්බන්ධ යැයි සැක 43 හැවිරිදි බකමූණ ප්‍රදේශයේ පදිංචි කාන්තාවක් පසුගිය 26 වෙනිදා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කර ඇති බවය.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඇය කිරිබත්ගොඩ තාවකාලික ලැගුම්හලක පදිංචිව සිට ඇති බව සඳහන්ය.
+
+එමෙන්ම සිද්ධියට සම්බන්ධ අනෙක් 55 හැවිරිදි සැකකරු මහරගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, ඔහුව පසුගිය 29 වනදා අත්අඩංගුවට ගෙන කල්මුණේ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
+
+සැකකාරිය විසින් කල්මුණේ ප්‍රදේශයේ ව්‍යාපාරිකයින් 164 දෙනෙකුට "උරුමය" වැඩසටහන යටතේ ඔප්පු නොමති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබදෙන බව පවසා තමා නීතීඥවරියක් බව පවසමින් එක් පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ 6 බැගින් ලබාගෙන ඇති බව විමර්ශනවලදී අනාවරණය වී ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/bdd35589.json)
+
+---
+
+### அரசு சுற்றுலாத் துறையை மேம்படுத்த பெரும் பங்களிப்பைச் செய்து வருகிறது -  மத்திய மாகாண ஆளுநர்
+
+*2025-10-01 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226543) · `ta`
+
+உலக சுற்றுலா தினத்திற்கு இணையாக  மத்திய மாகாண சுற்றுலா தின நிகழ்வுகள், மத்திய மாகாண ஆளுநர் பேராசிரியர் எஸ்.பி.எஸ். அபயகோன் தலைமையில்  கண்டியில் இடம்பெற்றது.
+
+மேற்படி வைபவம் கண்டி,  தொடம்வல பாலத்திற்கு அருகில், மகாவலி ஆற்றங்கரையில்  நடைபெற்றது. இந்த நிகழ்ச்சியை சுற்றுலா அமைச்சு, மற்றும் மத்திய மாகாண வர்த்தக, வாணிப திணைக்களம் என்பன இணைந்து ஏற்பாடு செய்திருந்தன.
+
+நீருடன்  தொடர்புடைய பாரம்பரிய நீரியல் விளையாட்டுக்கள் பல ஒழுங்கு படுத்தப்பட்டிருந்தன.  உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகள் பலர் இதில் பங்கெடுத்தனர்.
+
+தற்போதைய அரசாங்கம் சுற்றுலாத் துறையை மேம்படுத்துவதில் பெரும் பங்களிப்பைச் செய்து வருவதாகவும், மத்திய மாகாணத்தில் இதுபோன்ற திட்டங்களைத் தொடங்குவது மகிழ்ச்சியளிக்கும் விஷயம் என்றும் மத்திய மாகாண ஆளுநர் பேராசிரியர் எஸ்.பி.எஸ். அபயகோன் தனது உரையில் இங்கு குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/7f4253ff.json)
 
 ---
 
@@ -58,6 +132,20 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/835f79de.json)
 
 [Extended Data](ext_articles/835f79de.ext.json)
+
+---
+
+### ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிச்சென்ற பஸ் ஒட்டுசுட்டானில் விபத்து
+
+*2025-10-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226542) · `ta`
+
+முல்லைத்தீவு - ஒட்டுசுட்டானிலிருந்து ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிக்கொண்டு வவுனியா நோக்கி பயணித்த பஸ் இன்று புதன்கிழமை (01) அதிகாலை ஒட்டுசுட்டான் சந்தியில் விபத்துக்குள்ளாகியுள்ளது.
+
+ஒட்டுசுட்டான் சந்திப்பகுதியின் நடுவே அமைக்கப்பட்டிருந்த இரும்புக் கம்பத்துடன் மோதியே இந்த விபத்துச் சம்பவம் இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/6c01abdc.json)
 
 ---
 
@@ -88,6 +176,28 @@ Thus, those who work outdoors are advised to wear light clothes, relax in shadow
 [Data](articles/028ccc8b.json)
 
 [Extended Data](ext_articles/028ccc8b.ext.json)
+
+---
+
+### Cigarettes, cosmetics and e-cigarettes worth over Rs. 9.5 mln seized at BIA
+
+*2025-10-01 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113096/cigarettes-cosmetics-and-e-cigarettes-worth-over-rs-95-mln-seized-at-bia) · `en`
+
+A consignment of foreign cigarettes, cosmetics, and e-cigarettes worth over Rs. 9.5 million has been seized by Sri Lanka Customs officials at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The seizure occurred when four Sri Lankan male passengers, aged between 23 and 25, were intercepted upon arrival from Dubai on flights EK 652 and EK 654 on Tuesday (30).
+
+The arrested individuals are identified as residents of Kalmunai, Saindamardu, and Colombo, the statement said.
+
+Authorities confiscated 292 cartons of foreign cigarettes worth Rs. 8.76 million, cosmetics valued at Rs. 450,000, and e-cigarettes amounting to Rs. 300,000.
+
+The Customs officers stated that the estimated street value of the seized cigarettes alone is approximately Rs. 8.7 million.
+
+A penalty of Rs. 750,000 has been imposed on the four arrested passengers, and further investigations are underway.
+
+◼️
+
+[Data](articles/6d5fdd02.json)
 
 ---
 
@@ -147,6 +257,28 @@ The suspect is to be produced before the Hon. Magistrates Magistrate's Court.
 
 ---
 
+### Underworld figure ‘Tinker’ extradited from Dubai
+
+*2025-10-01 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113095/underworld-figure-tinker-extradited-from-dubai-) · `en`
+
+Underworld figure Sridaran Niranjan, also known as ‘Tinker’, who was arrested in Dubai has been brought back to Sri Lanka this morning (01), police confirmed.
+
+The arrested suspect is identified as a 36-year-old resident of Colombo 15, police confirmed.
+
+The police stated that the suspect is recognized as an associate of the notorious criminal leader and drug trafficker Palani Shiran Glorian, alias “Kochchikade Shiran.”
+
+He is also accused of transporting firearms used in a shooting on August 19, 2025, in Gnanarathana Mawatha, Peliyagoda, which left one person dead and another severely injured.
+
+Investigations revealed that the suspect, despite being under a travel ban, left the country on August 19, 2025.
+
+The arrested suspect is scheduled to be produced before the No.05 Magistrate’s Court inside the Aluthkade Courts Complex, police said.
+
+◼️
+
+[Data](articles/8404e107.json)
+
+---
+
 ### Earthquake in Philippines: 26 killed
 
 *2025-10-01 07:59:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸில்-பாரிய-நிலநடுக்கம்-26-பேர்-பலி/50-365564) · `ta`
@@ -174,6 +306,26 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 [Data](articles/c4976f07.json)
 
 [Extended Data](ext_articles/c4976f07.ext.json)
+
+---
+
+### “Let’s build a Sri Lanka where children and elders live with security and dignity” – President
+
+*2025-10-01 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113094/lets-build-a-sri-lanka-where-children-and-elders-live-with-security-and-dignity-president) · `en`
+
+President Anura Kumara Dissanayake says that the government is fully committed to safeguarding the rights and wellbeing of both generations on the World Children’s Day and Elder’s Day and that it will continue to work tirelessly to enhance the welfare of children and elders.
+
+Recognizing children as the nation’s future, he pledges to ensure their physical and mental wellbeing through equal access to education, healthcare, protection, and social support, while giving special attention to children with developmental challenges.
+
+“Their joyful smiles are the hope and strength of our nation,” he said in a message for World Children’s Day and Elder’s Day.
+
+In his message the President also honoured the invaluable contribution of elders and emphasized building a society where both children and elders live with dignity, security, and respect.
+
+“We extend our deepest respect and gratitude to our elders for their invaluable contribution to the progress of our country.”
+
+...
+
+[Data](articles/f1e64752.json)
 
 ---
 
@@ -1800,153 +1952,5 @@ Police said that after the arrest of the main suspect, he was arrested in a car 
 [Data](articles/e95b63bd.json)
 
 [Extended Data](ext_articles/e95b63bd.ext.json)
-
----
-
-### Police Constable arrested with heroin
-
-*2025-09-30 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215193) · `si`
-
-A police constable attached to the Udappuwa Police and the Western Criminal Division has been arrested today with 400 grams of heroin.
-
-Police have arrested another person from Peliyagoda, who was with the suspect and he had found about 110 grams of heroin.
-
-The police officer had been transferred to the Udappuwa Police for about five years in the Colombo Crimes Division.
-
-The suspects were owned by Russell Smith, the drug dealer in Dubai, Dubai Smith.
-
-◼️
-
-[Data](articles/325e877b.json)
-
-[Extended Data](ext_articles/325e877b.ext.json)
-
----
-
-### Director General of the Bribery Commission to resign
-
-*2025-09-30 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226513) · `ta`
-
-The Director General of the Commission on Bribery or Corruption has accused the former member of the Janatha Vimukthi Peramuna (JVP).. The General Secretary of the Sri Lanka Peoples Alliance (PA), Sagara Kariyawasam, said that the Director General should resign with the Independence of the Commission.
-
-He was speaking to the media after a meeting with constituency organizers held at the Sri Lanka PA's office on Tuesday (30).
-
-The government has targeted the opposition, claiming to be a legislature.  Sani Abeysekara, who was a political activist at the office of the People's Liberation Front, has been appointed as the Director of the Criminal Investigation Department.
-
-Ravi Seneviratne, who addressed the election campaign of the Janatha Vimukthi Peramuna (JVP), has been appointed as the Secretary to the Ministry of Public Safety and Parliamentary Affairs.. The police are currently working with political purpose.
-
-...
-
-[Data](articles/b72424ec.json)
-
-[Extended Data](ext_articles/b72424ec.ext.json)
-
----
-
-### President invites Japanese business community to explore Sri Lanka’s emerging economic opportunities
-
-*2025-09-30 18:30:00* · [`islandlk`](http://island.lk/president-invites-japanese-business-community-to-explore-sri-lankas-emerging-economic-opportunities/) · `en`
-
-President Anura Kumara Dissanayake invited the Japanese business community to join in exploring the emerging economic opportunities in Sri Lanka, while further strengthening bilateral trade and investment relations between Japan and Sri Lanka and encouraging private sector participation.
-
-The President made these remarks on Monday (29) while addressing the Japan–Sri Lanka Business Forum held at the headquarters of the Japan External Trade Organization (JETRO).
-
-The event was attended by nearly 200 senior members of Japan’s business community and was jointly organised by JETRO, the Ministry of Economy, Trade and Industry of Japan (METI), the Embassy of Sri Lanka in Japan, the Japan–Sri Lanka Business Cooperation Committee and the Board of Investment of Sri Lanka (BOI).
-
-...
-
-[Data](articles/8adc60bf.json)
-
-[Extended Data](ext_articles/8adc60bf.ext.json)
-
----
-
-### Point out in the US State Department report
-
-*2025-09-30 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226512) · `ta`
-
-The US State Department has pointed out that the widespread participation of American companies is in a state of disrepair, despite the excessive interest in the fields of information technology, power, aircraft and security, due to unprecedented or unpredictable regulation, bureaucratic limits and transparency.
-
-The above mentioned in a comprehensive report issued by the US State Department on the situation for investments in Sri Lanka in 2025.
-
-In this regard, the details of the key elements of the Sri Lankan economy, which are rich in promises, but the structure of structural crises.
-
-It has been reported that the frequently changed policies, improper procurement process, and the delay in the purchase of transactions, and the continuing delay in purchasing of purchases have created a lot of dissatisfaction among investors, and that the confidence in the environment for investment has declined.
-
-...
-
-[Data](articles/9dc04f93.json)
-
-[Extended Data](ext_articles/9dc04f93.ext.json)
-
----
-
-### Detection was revealed that the Thajudin was killed in the car
-
-*2025-09-30 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215192) · `si`
-
-Acting Police Media Spokesperson ASP
-
-අද පස්වරුවේ පොලිස් මාධ්‍ය කොට්ඨාසයේදී ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් වැඩබලන මාධ්‍ය ප්‍රකාශකවරයා මේ බව ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/c038560d.json)
-
-[Extended Data](ext_articles/c038560d.ext.json)
-
----
-
-### Revenue returns to Accounts tomorrow
-
-*2025-09-30 18:27:18* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අසවසම-පරතලභ-හට-ගණම-වලට/1-680510) · `si`
-
-The Welfare Benefit Board (Welfare Benefits) will be credited to the bank accounts today (30).
-
-Accordingly, Rs. 244 billion will be credited to bank accounts of 217,645 families.
-
-◼️
-
-[Data](articles/6105c40e.json)
-
-[Extended Data](ext_articles/6105c40e.ext.json)
-
----
-
-### අස්වැසුම ප්‍රතිලාභ හෙට ගිණුම් වලට
-
-*2025-09-30 18:27:18* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අසවසම-පරතලභ-හට-ගණම-වලට/101-680510) · `si`
-
-The Welfare Benefit Board (Welfare Benefits) will be credited to the bank accounts today (30).
-
-Accordingly, Rs. 244 billion will be credited to bank accounts of 217,645 families.
-
-◼️
-
-[Data](articles/8f98696b.json)
-
-[Extended Data](ext_articles/8f98696b.ext.json)
-
----
-
-### Conference of World Tamil Cultural Movement in Malaysia; CWC leader Senthil Thondaman participates as special speaker
-
-*2025-09-30 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226520) · `ta`
-
-Sri Lanka Workers Congress Party leader Senthil Thondaman participated as a special speaker at the World Tamil Cultural Movement Conference held in Kuala Lumpur, Malaysia.
-
-“Mommy Dad is the word that a child starts to say in his lifetime. But when the words were changed today, the Tamils ​​began to use the house of Mummy and Dadi, and the Tamil culture was disrupted and the culture of the British began.
-
-During the British colonial rule, cultural disorder began in a language and began to fascinate every house.
-
-Since the culture of the English began to be considered civilized, every Tamil cultural destruction continued to take place.. In that case, the International Leader of the World Tamil Cultural Movement. Shanmugam is doing good programs in Malaysia as a precedent for protecting Tamil culture and honoring witnesses.
-
-Senthil Thondaman said that it is the most important responsibility of every Tamil to develop Tamil culture and Tamil language.
-
-◼️
-
-[Data](articles/5757e740.json)
-
-[Extended Data](ext_articles/5757e740.ext.json)
 
 ---

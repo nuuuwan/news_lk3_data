@@ -1,37 +1,55 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 21:22:16**
+As of **2025-10-01 22:11:09**
 
 ## Newspaper Stats
 
-*Scraped **80,333** Articles*
+*Scraped **80,348** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 539
-lankadeepalk | 613
+lankadeepalk | 615
 dbsjeyarajcom | 637
-bbccomsinhala | 715
+bbccomsinhala | 716
 colombotelegraphcom | 802
 dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,724
-adaderanalk | 10,340
+adaderanalk | 10,347
 tamilmirrorlk | 11,986
-virakesarilk | 13,137
+virakesarilk | 13,142
 adaderanasinhalalk | 13,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,332 (100.0%) of 80,333 articles have been extended.
+80,348 (100.0%) of 80,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Professor Mohan Munasinghe meets Governor of New Jersey at the US-India Business Forum in Mumbai
+
+*2025-10-01 21:34:55* · [`lankadeepalk`](https://www.lankadeepa.lk/you_may_also_like/%E0%B6%B8%E0%B7%84%E0%B7%8F%E0%B6%A0%E0%B7%8F%E0%B6%BB%E0%B7%8A%E0%B6%BA-%E0%B6%B8%E0%B7%9C%E0%B7%84%E0%B7%8F%E0%B6%B1%E0%B7%8A-%E0%B6%B8%E0%B7%94%E0%B6%AB%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84-%E0%B6%B8%E0%B7%84%E0%B6%AD%E0%B7%8F-%E0%B6%B8%E0%B7%94%E0%B6%B8%E0%B7%8A%E0%B6%B6%E0%B7%8F%E0%B6%BA%E0%B7%92-%E0%B7%84%E0%B7%92-%E0%B6%B4%E0%B7%90%E0%B7%80%E0%B6%AD%E0%B7%92-%E0%B6%91%E0%B6%9A%E0%B7%8A%E0%B7%83%E0%B6%AD%E0%B7%8A-%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AF-%E0%B6%89%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B7%92%E0%B6%BA%E0%B7%8F%E0%B6%B1%E0%B7%94-%E0%B7%80%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B6%B4%E0%B7%8F%E0%B6%BB%E0%B7%92%E0%B6%9A-%E0%B7%83%E0%B6%B8%E0%B7%94%E0%B7%85%E0%B7%94%E0%B7%80%E0%B7%9A%E0%B6%AF%E0%B7%93-%E0%B6%87%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%9A%E0%B7%8F-%E0%B6%91%E0%B6%9A%E0%B7%8A%E0%B7%83%E0%B6%AD%E0%B7%8A-%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AF%E0%B6%BA%E0%B7%9A-%E0%B6%B1%E0%B7%92%E0%B7%80%E0%B7%8A-%E0%B6%A2%E0%B6%BB%E0%B7%8A%E0%B7%83%E0%B7%92%E0%B7%84%E0%B7%92-%E0%B6%86%E0%B6%AB%E0%B7%8A%E0%B6%A9%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%BB-%E0%B7%86%E0%B7%92%E0%B6%BD%E0%B7%8A-%E0%B6%B8%E0%B6%BB%E0%B7%8A%E0%B7%86%E0%B7%92-%E0%B6%B8%E0%B7%84%E0%B6%AD%E0%B7%8F-%E0%B7%84%E0%B6%B8%E0%B7%94%E0%B7%80%E0%B7%99%E0%B6%BA%E0%B7%92/197-680597) · `si`
+
+From the left: The Governor of the United States - Indian Business Forum on September 24, 2025, New Jersey, Phil Murphy, Prof. Mohan Munasinghe, Prof. Mohan Munasinghe and Sriya Munasinghe.
+
+2007 Nobel Peace Prize (Vice Chairman, IPCC) and 2021 Blue Planetary Prize Mohan Munasinghe. They held their familiar discussions on the stimulating business and trade between the US and South Asia to promote global sustainability and peace. 2028 Governor Murphy is a leading democratic competitor for the US presidential election.
+
+Prof. Munasinghe explained how the business, civil society and the government should act together to develop the Triangle of Business, Civil Society and Government to achieve sustainable development goals (SDG).
+
+...
+
+[Data](articles/2ec8f35a.json)
+
+[Extended Data](ext_articles/2ec8f35a.ext.json)
+
+---
 
 ### The gazette notification that wears seat belts for all vehicles on the expressway
 
@@ -69,6 +87,66 @@ Most of them have been provided with this meal with about 230 students studying 
 
 ---
 
+### 'Love with love - win the world': World Stories Day National Festival - 2025
+
+*2025-10-01 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226627) · `ta`
+
+This year, the Ministry of Girls and Children's Affairs has declared a weekly National Children's Day week.
+
+Its closing ceremony and World Children's Day National Celebration was held on Wednesday (October 01) at the Alari House.
+
+The ceremony was chaired by Prime Minister Harini Amarasuriya.
+
+In the meantime, the World Summit's Day Memorial Stamp and Postal. Kshama Bhoomi, a collection of literary competitions organized by the Department of Probation and Child Care Services, was launched on World Children's Day.
+
+The winners of the "Sithuvili Siththam", organized by the National Child Protection Authority, were honored at today's event.
+
+Special programs based on various activities were carried out for the children who attended the event.
+
+...
+
+[Data](articles/f12dea21.json)
+
+[Extended Data](ext_articles/f12dea21.ext.json)
+
+---
+
+### Gazette issued on mandatory seat belts for all vehicles traveling on expressways
+
+*2025-10-01 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113123/gazette-issued-on-mandatory-seat-belts-for-vehicles-traveling-on-expressways) · `en`
+
+A gazette notification has been issued by the Minister of Transport, Highways, Ports and Civil Aviation making it mandatory for drivers and all passengers of vehicles traveling along expressways to wear seat belts.
+
+According to the gazette notification, the driver of a motor vehicle driven or used on an expressway and every passenger and individual occupying any seat and travelling in the motor vehicle are required to wear an individual safety seat belt while such motor vehicle is being driven or used on the expressway.
+
+Furthermore, the driver of a motor vehicle should not enter into or drive or use a vehicle on an expressway unless such motor vehicle is fitted with individual safety seat belts to be worn by the driver, every passenger and individual occupying a seat.
+
+◼️
+
+[Data](articles/979169f3.json)
+
+[Extended Data](ext_articles/979169f3.ext.json)
+
+---
+
+### Semmami Human Burial Case
+
+*2025-10-01 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226626) · `ta`
+
+Jaffna - Ariyalai, Sindhupathi - Semmani Human Burial case has been set up for the 13th of this month.
+
+The case was taken in the presence of Jaffna Magistrate's Court Judge S. Lenin Kumar.
+
+Due to the lack of a hop for the next excavation work, the magistrate has set the point on the 13th of this month.
+
+◼️
+
+[Data](articles/516120bd.json)
+
+[Extended Data](ext_articles/516120bd.ext.json)
+
+---
+
 ### Namal answers to the Thajayan story
 
 *2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-කතවට-නමලගන-පළතරක/1-680596) · `si`
@@ -87,21 +165,65 @@ Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures t
 
 ---
 
-### කජ්ජාගේ පුත්‍රයාගෙන් ආන්දෝලනාත්මක අනාවරණයක්
+### Namal answers to the Thajayan story
+
+*2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජදන-කතවට-නමලගන-පළතරක/101-680596) · `si`
+
+The Government of Sri Lanka General, Namal Rajapaksa alleges that the government and the Criminal Investigations Department is trying to distract the public opinion for political gain.
+
+He added that the former good governance government and the present government have built various absurd allegations.
+
+Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures to be former officials to the OIC of the Narahenpita OIC of Thajudepitiya.
+
+◼️
+
+[Data](articles/a036c02e.json)
+
+[Extended Data](ext_articles/a036c02e.ext.json)
+
+---
+
+### Controversial discovery from the son of Kjja
 
 *2025-10-01 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215231) · `si`
 
-රගර් ක්‍රීඩක වසීම් තජුඩීන් මියගොස් සිටි රථයට පිටුපසින් ගමන්ගත් සැකකටයුතු රථයක අරුණ විදානගමගේ හෙවත් කජ්ජා සිට ඇතැයි ඔහුගේ බිරිඳ කළ අනාවරණය සම්බන්ධයෙන් කජ්ජාගේ වැඩිමහල් පුත්‍රයා අද (01) සමාජ මාධ්‍ය හා විද්‍යුත් මාධ්‍ය හමුවේ ප්‍රකාශයක් සිදුකළේය.
+The eldest son of Kahja was told today (01) regarding his wife's detection in a suspicious vehicle that the rugby playing was killed.
 
-විමර්ශනයට අදාළ CCTV දර්ශන කජ්ජාගේ සහෝදර සහෝදරියන්ට පෙන්වා එහි සිටින්නේ ඔවුන්ගේ සහෝදරයාදැයි විමසීමට කටයුතු නොකරන්නේ ඇයිදැයි ඔහු පොලීසියෙන් විමසා සිටියි.
+The CCTV siblings of the coja show to the coja's brothers and sisters, he is inquired of why they are not interested in asking their brother.
 
-2012 වසරේ රගර් ක්‍රීඩක වසීම් තජුඩීන් මියගොස් සිටි රථයට පිටුපසින් ගමන්ගත් සැකකටයුතු රථයක ,පසුගියදා මිද්දෙණියේදී ඝාතනයට ලක්වූ අරුණ විදානගමගේ හෙවත් කජ්ජා සිට ඇතැයි ඔහුගේ බිරිඳ අනාවරණ කළ බව වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී මිනුර සෙනරත් මහතා ඊයේ (30) අනාවරණ කළේය.
+Acting Police Media Spokesperson ASP, Hon.
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් අරුණ විදානගමගේ හෙවත් කජ්ජාගේ වැඩිමහල් පුත්‍රයා වන ඉඳුවර විදානගමගේ සිය ෆේස්බුක් ගිණුමේ සටහනක් ද තබා තිබුණි.
+Aruna Vidanagamage, the oldwara Vidanagamage, the oldwara Vidanagamage, is a note of the oldwara Vidanagama's account.
+
+According to police, the police have accepted that his former wife has admitted that the person who was pursued by the car pursuing the car pursuing Tajuvenine.
+
+Why, Aruna Priyantha alias brothers and siblings, are not listening to the cCTV siblings from the brothers and sisters in Kibling? ''
+
+Aruna Vidanagamage son held a press conference this afternoon this afternoon, he also revealed that his mother's account was credited to her mother's account.
+
+◼️
+
+[Data](articles/d018b6bb.json)
+
+[Extended Data](ext_articles/d018b6bb.ext.json)
+
+---
+
+### Actor Vijay’s statewide tour called off days after 41 died in Karur rally stampede
+
+*2025-10-01 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113120/actor-vijays-statewide-tour-called-off-days-after-41-died-in-karur-rally-stampede) · `en`
+
+Actor-politician Vijay’s party, TVK, has suspended his statewide tour for two weeks after a stampede in Tamil Nadu’s Karur claimed 41 lives and triggered massive outrage.
+
+The TVK announced the decision to suspend Vijay’s tour through its official X handle. “In this situation where we are in pain and sorrow over the loss of our loved ones, the public meeting programme of our party leader for the next two weeks is being temporarily postponed. New details regarding these public meetings will be announced later,” a post read.
+
+This was expected as Vijay is yet to meet the families of the 41 victims, although he announced a relief of Rs. 2 million for each family. Yesterday, in a recorded video, Vijay said he would meet the families soon. The stampede has also triggered a sense of fear among the party cadre and the public. The police, too, would look at the venues more closely, and a lot needs to be done by both sides to restore public confidence.
 
 ...
 
-[Data](articles/d018b6bb.json)
+[Data](articles/a9e672ab.json)
+
+[Extended Data](ext_articles/a9e672ab.ext.json)
 
 ---
 
@@ -179,6 +301,26 @@ Free Trade Zone Manufacturers Association, National Commodity Board of Sri Lanka
 
 ---
 
+### “It’s our collective responsibility to ensure safety of all children”: PM Harini
+
+*2025-10-01 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113119/its-our-collective-responsibility-to-ensure-safety-of-all-children-pm-harini) · `en`
+
+It is our collective responsibility to ensure the safety of all children, leave no child behind, regardless of background or circumstance, safeguard their economic, social and mental well-being, Prime Minister Dr. Harini Amarasuriya stated.
+
+The Prime Minister also noted the importance of ensuring a child-friendly environment for the future generation to live freely.
+
+Prime Minister Dr. Amarasuriya made these remarks while addressing the World Elders’ and Children’s Day celebration organized by the Ministry of Women and Child Affairs at Temple Trees today.
+
+The event was held under theme “Nurture with Love - To Lead the World” which has been chosen as this year’s Children’s Day theme.
+
+◼️
+
+[Data](articles/753df725.json)
+
+[Extended Data](ext_articles/753df725.ext.json)
+
+---
+
 ### Director's director is locked up with the Principal of the Principal
 
 *2025-10-01 18:53:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදහලපතට-සථන-මර-ලපය-රගන-ගය-කලප-අධයකෂක-සරකරල/1-680594) · `si`
@@ -240,6 +382,28 @@ When this event was the mother's mother and grandfather were from home. Later, a
 [Data](articles/789edd0e.json)
 
 [Extended Data](ext_articles/789edd0e.ext.json)
+
+---
+
+### 45 students of Bakamuna school hospitalised due to food poisoning
+
+*2025-10-01 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113118/45-students-of-bakamuna-school-hospitalised-due-to-food-poisoning) · `en`
+
+Around 45 students from a Primary School in Bakamuna, Hingurakgoda have been hospitalised due to food poisoning.
+
+It is reported that the incident occurred as a result of a meal provided during a program held at the school today, in view of World Children’s Day.
+
+The children have started showing symptoms only after they returned home following the conclusion of the program. Parents had then taken their children to the Bakamuna Regional Hospital, Ada Derana reporter said.
+
+Some of the children are currently receiving in-house treatment, while others have been treated and discharged.
+
+The school has approximately 230 students in total, and all of them were served the same meal.
+
+◼️
+
+[Data](articles/8765943d.json)
+
+[Extended Data](ext_articles/8765943d.ext.json)
 
 ---
 
@@ -447,6 +611,22 @@ The police say that the accident had been identified as the children of the chil
 
 ---
 
+### Business chambers file petition challenging VAT collection without refund system and abolition of SVAT
+
+*2025-10-01 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113116/business-chambers-file-petition-challenging-vat-collection-without-refund-system-and-abolition-of-svat) · `en`
+
+The Free Trade Zone Manufacturers’ Association (FTZMA), the National Chamber of Commerce of Sri Lanka (NCCSL) and the Sri Lanka Chamber of Small and Medium Industries have filed a writ application before the Court of Appeal challenging the decision by the Inland Revenue Department (IRD) to commence collecting Value Added Tax (VAT) from today (October 1) without first operationalising the legally mandated automated refund mechanism.
+
+The Petitioners—representing exporters, deemed exporters, sub-contractors to exporters, service providers in the export supply chain, SMEs, and the broader business community—state that collecting VAT from export-related businesses without a proper functioning refund system, and without publishing the conditions of the proposed risk-based refund scheme in the Gazette, is unlawful, unreasonable, and a violation of constitutional rights.
+
+...
+
+[Data](articles/43a15abe.json)
+
+[Extended Data](ext_articles/43a15abe.ext.json)
+
+---
+
 ### Theft in a bank money laundering machine - observation!
 
 *2025-10-01 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226622) · `ta`
@@ -520,6 +700,26 @@ Since then, the Kilinochchi court has been working on a safe recovery of bombs.
 [Data](articles/98e7f3bf.json)
 
 [Extended Data](ext_articles/98e7f3bf.ext.json)
+
+---
+
+### Gaza flotilla says Israeli vessels intimidated its boats as it nears blockade
+
+*2025-10-01 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/113115/gaza-flotilla-says-israeli-vessels-intimidated-its-boats-as-it-nears-blockade) · `en`
+
+The international flotilla trying to deliver aid to Gaza said Israeli vessels approached some of its boats and engaged in “dangerous and intimidatory manoeuvres” on Wednesday as it neared the war-stricken strip.
+
+The mission’s organisers said two Israeli “warships” had approached fast and encircled two of the flotilla’s boats, Alma and Sirius. All navigation and communication devices went down in what one organiser on board, Thiago Ávila, described in a press conference as a “cyber attack”.
+
+The Global Sumud Flotilla consists of more than 40 civilian boats carrying about 500 people, among them parliamentarians, lawyers and activists including Swedish climate campaigner Greta Thunberg.
+
+The mission is the latest sea-borne attempt to break Israel’s blockade of the Palestinian enclave to deliver food and medicine. It is currently within 120 nautical miles of Gaza’s coast, inside an area that Israel is policing to stop any boats approaching.
+
+...
+
+[Data](articles/a77af4ad.json)
+
+[Extended Data](ext_articles/a77af4ad.ext.json)
 
 ---
 
@@ -712,6 +912,24 @@ Therefore, the father said in the complaint that I would like to ask the police 
 [Data](articles/949df499.json)
 
 [Extended Data](ext_articles/949df499.ext.json)
+
+---
+
+### Teacher hospitalised after assault by student
+
+*2025-10-01 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/113114/teacher-hospitalised-after-assault-by-student) · `en`
+
+A teacher at a prominent school in Monaragala has been injured and hospitalised following an assault by a student.
+
+The incident occurred this morning (October 1), and it has been reported that the injured teacher is currently receiving inpatient treatment at the Monaragala District General Hospital.
+
+According to reports, the Grade 11 student allegedly assaulted the teacher after being questioned about bringing a mobile phone to school.
+
+◼️
+
+[Data](articles/f31c441f.json)
+
+[Extended Data](ext_articles/f31c441f.ext.json)
 
 ---
 
@@ -1219,7 +1437,7 @@ The fifth Health and Welfare Center in Matale District, the Gold Health Center w
 
 ---
 
-### Revised indictment served on ex-Minister Anura Priyadharshana Yapa, his wife, and six others
+### Revised indictment served on ex-Minister Anura Priyadharshana Yapa, his wife and six others
 
 *2025-10-01 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113112/revised-indictment-served-on-ex-minister-anura-priyadharshana-yapa-his-wife-and-six-others) · `en`
 
@@ -1343,6 +1561,26 @@ In addition, the suspect and foreign cigarettes were handed over to the Coastal 
 
 ---
 
+### The death of Wasim Tajud should not be used for politics - Namal Rajapaksa
+
+*2025-10-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226599) · `ta`
+
+The government should conduct a neutral inquiries without using the death of Wasim Tajud for his politics. The use of this issue to politics is the greatest injustice of his soul and. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said that the police media unit has revealed a new issue for political speech.
+
+He was speaking to the media after a meeting with the constituency organizers held at the Sri Lanka PA's office on Wednesday (01).
+
+The Rajapaksa government and the government of goodwill have made many allegations. Investigations were also carried out. They tried to make specific lies in the election stage.
+
+The last government officials also attempted to arrest the Narahenpitiya Police Station in connection with the death of Wasim Tajud.. Those officials are in the top positions of this government.
+
+...
+
+[Data](articles/e00b1d3f.json)
+
+[Extended Data](ext_articles/e00b1d3f.ext.json)
+
+---
+
 ### Farmers protest in Trincomalee urging land grabbing
 
 *2025-10-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226603) · `ta`
@@ -1376,6 +1614,24 @@ The Sri Lanka Navy has successfully implemented this social care program in acco
 [Data](articles/1697f53b.json)
 
 [Extended Data](ext_articles/1697f53b.ext.json)
+
+---
+
+### Government to avenge plantation workers - United People's Power
+
+*2025-10-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226598) · `ta`
+
+When plantation workers were urged to pay a salary of 1750 rupees, the JVP (JVP) union said that it was not enough and the basic salary of 2000 rupees should be paid.. But today, the government of the United People's Power, Ranjith Mathuma Bandara said that the government was blaming them without paying 1750 rupees as the plantation people supported Sajith Premadasa.
+
+He made this comment while addressing the media after a meeting with members of the United People's Power Pradeshiya Sabha in Nuwara Eliya in Nuwara Eliya district on Tuesday (30).
+
+Plantation people have supported us in all elections. During the last presidential election, the Tamil people of the hill country and the Tamil people of the North and East voted for Sajith Premadasa. When we insisted that plantation workers should be paid a salary of 1750 rupees in the past, the JVP. The union argued that 2000 rupees should be paid.
+
+...
+
+[Data](articles/849abbb4.json)
+
+[Extended Data](ext_articles/849abbb4.ext.json)
 
 ---
 
@@ -1422,6 +1678,30 @@ The police have asked the public to contact the police station 071 - 8591394 or 
 [Data](articles/67fdafac.json)
 
 [Extended Data](ext_articles/67fdafac.ext.json)
+
+---
+
+### The death of rugby player Tajuddin: The copy of another play should not be staged - PA
+
+*2025-10-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226592) · `ta`
+
+The fact that the reality of death is more cruel than death is more cruel than death.
+
+He made this statement during a media briefing held at the Sri Lanka PA's office on Wednesday (01).
+
+The death of rugby player Wasim Tajuddin was seen as the main speech in the 2015 presidential election. When the good government came to power, the investigation into his death accelerated.
+
+It is horrible for the reality of death to make it confidential, so we are in the position that the secret of the death of Rugby player Wasim Tajuddin should be revealed.
+
+A new issue has now been revealed in the wake of a long -standing investigation by the government. Wasim Tajudin's father -in -law was consciously addressing the death of Wasim Tajuddin. Against this backdrop, the media spokesman refers to another new issue to the media.
+
+In response, the media spokesman reveals another new issue to the media.. This issue must be based on investigations beyond the play.
+
+...
+
+[Data](articles/69bfcf64.json)
+
+[Extended Data](ext_articles/69bfcf64.ext.json)
 
 ---
 
@@ -1762,255 +2042,5 @@ The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the pric
 [Data](articles/095c080a.json)
 
 [Extended Data](ext_articles/095c080a.ext.json)
-
----
-
-### Laugfs gas prices do not change
-
-*2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලෆ-ගස-මල-වනස-නව/1-680577) · `si`
-
-LAUG Niroshan J. Dr. Niroshan J. Mr. Peiris said.
-
-The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the price of a 5,100 cylinder, the price of Rs.
-
-◼️
-
-[Data](articles/77d3b651.json)
-
-[Extended Data](ext_articles/77d3b651.ext.json)
-
----
-
-### The fireball struggle in Jaffna
-
-*2025-10-01 15:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-தீப்பந்தப்-போராட்டம்/175-365585) · `ta`
-
-The fireball struggle was launched today (01), the last day of the rotational hunger strike in Jaffna.
-
-The hunger strike launched in the North and East has ended today (01) demanding international justice for the Tamil people.
-
-On the last day, a massive fireball struggle was launched by relatives of the missing persons on the occasion of International Children's Day.
-
-◼️
-
-[Data](articles/53ddd14b.json)
-
-[Extended Data](ext_articles/53ddd14b.ext.json)
-
----
-
-### 15 drivers arrested for driving vehicles
-
-*2025-10-01 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226596) · `ta`
-
-The police media unit said that 15 drivers were arrested in connection with the driving of liquor during a special roundabout carried out on Tuesday (30).
-
-Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
-
-Meanwhile, 785 persons with evidence of various crimes, 16 on suspicion, 274 persons have been issued on suspicion, 274 persons who have been issued, 287 have been issued, 15 drivers in connection with the payment of vehicles and 4055 in violation of the transport regulations.
-
-◼️
-
-[Data](articles/d51d7092.json)
-
-[Extended Data](ext_articles/d51d7092.ext.json)
-
----
-
-### Red warning for illegal buildings in Vadamarachchi
-
-*2025-10-01 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226591) · `ta`
-
-A red notification poster has been pasted for buildings that have been built in some areas in the East of Jaffna - Vadamarachchi.
-
-A red notification poster has been pasted by the Point Pedro Pradeshiya Sabha against the buildings built without the permission of the Pradeshiya Sabha in Vatrayan, Maruthankani and Uduthurai.
-
-In it, "stop the construction work carried out without the permission of the Pradeshiya Sabha. You will undergo legal action by violation. ”
-
-◼️
-
-[Data](articles/6d2ac0fb.json)
-
-[Extended Data](ext_articles/6d2ac0fb.ext.json)
-
----
-
-### Fee to be charged for plastic shopping bags from November?
-
-*2025-10-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113110/fee-to-be-charged-for-plastic-shopping-bags-from-november) · `en`
-
-The Supreme Court has been informed that a gazette notification is expected to be issued by November 1, making it mandatory to charge a fee for plastic shopping bags, so they can no longer be given free of charge by traders.
-
-The announcement by the Minister of Environment and other respondents during the hearing of a fundamental rights petition filed by the Centre for Environmental Justice, which requested a court order to implement a program to reduce the use of polythene due to the environmental damage it causes.
-
-A motion related to the case submitted by the Centre for Environmental Justice was taken up today before a three-judge bench of the Supreme Court comprising Chief Justice Preethi Padman Surasena, Justice Kumudini Wickremasinghe and Justice Sampath Abeykoon.
-
-◼️
-
-[Data](articles/66035117.json)
-
-[Extended Data](ext_articles/66035117.ext.json)
-
----
-
-### Discussion with Northern Province, Jaffna Co -operative Society Representatives
-
-*2025-10-01 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226595) · `ta`
-
-Northern Province, Jaffna. A discussion with District Co -operative Society Representatives. Held at the District Coordinating Office.
-
-Minister Wasantha Samarasinghe explained how to solve the issues and strengthen the cooperative structure and the decisions taken by the government.
-
-Minister Ramalingam Chandrasekhar, Members of Parliament K. Ilangumaran, Sri Bhavanandarajah and Jaffna Municipal Council Member Su Kapilan were also present.
-
-◼️
-
-[Data](articles/e7a9f1eb.json)
-
-[Extended Data](ext_articles/e7a9f1eb.ext.json)
-
----
-
-### Children need a goal in front of technology, but no victim is
-
-*2025-10-01 15:13:40* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-තාක්ෂණය-එක්ක-ඉස්සරහට-යන්ඩ-අවශ්‍යයි--නමුත්-එ්කෙ-ගොදුරක්-වෙන්ඩ-බෑ/11-418849) · `si`
-
-The National Child Protection Authority (NSB) strongly believes that children carrying with technology should not be a victim of technology. It is also said that Internet child abuse can also be seen. They are therefore, steps should be taken to secure children on the Internet to reap the real fruits of the technology.
-
-The Child Protection Authority is also the Welimiliarian reporting of a child abuse and commit to the most sensitive to child abuse.
-
-◼️
-
-[Data](articles/82f0f6a8.json)
-
-[Extended Data](ext_articles/82f0f6a8.ext.json)
-
----
-
-### Welimada tubers to take satures
-
-*2025-10-01 15:13:28* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-අල-සතොසට-ගන්න-යයි/11-418848) · `si`
-
-"Yesterday we discussed, we discussed the Kalapa Junction to the farmer. The Minister of Wasantha Samarasinghe Trade this morning called me and told me that the Seed of Potatoes would buy 600,000 kilos of potatoes.
-
-I said somewhere to find out. One kilo of potatoes at the Elder Keptapotipola is sold at Rs. 160 for 170 rupees. The farmer cannot be kept. 1 kg of potatoes and cost more than that cost more. "Minister Samantha Vidyaratne, Minister of Plantation and Community Infrastructure, Samantha Vidynayake said,
-
-...
-
-[Data](articles/ad4cb8c3.json)
-
-[Extended Data](ext_articles/ad4cb8c3.ext.json)
-
----
-
-### 3 students killed in school building in Indonesia
-
-*2025-10-01 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226594) · `ta`
-
-Three students were killed when an Islamic school, 'Al Khozini', which runs in Sidoarjo, in East Java, Indonesia, collapsed.. The search for 91 students trapped in the wreckage continues to be active.
-
-While the students were praying at the mosque on the basement of a building where the building was underway, the top of the building suddenly collapsed.
-
-99 students were injured and admitted to the hospital. There are fears that the number of casualties is likely to increase as many of them are in serious treatment.
-
-About 91 students are thought to be trapped in the wreckage. According to local authorities, the building is said to have been unable to bear the burden of the building, as additional sites were being built without permission.
-
-Many of the country's police, rescue workers and soldiers are engaged in the search for 91 people. In the hope that students trapped in the wreckage are alive, they are being transported by pipes and drinking water.
-
-...
-
-[Data](articles/7df18b0b.json)
-
-[Extended Data](ext_articles/7df18b0b.ext.json)
-
----
-
-### Information on weapons and ammunition found in Kadirgama!
-
-*2025-10-01 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226588) · `ta`
-
-Kadirgamam police said that the weapons and ammunition found in the area near the Veerakala reservoir in the Yala forest, which belongs to the Kataragamam police division, has been reported.
-
-◼️
-
-[Data](articles/7a028dee.json)
-
-[Extended Data](ext_articles/7a028dee.ext.json)
-
----
-
-### Surilizing Bags Tax to Mary
-
-*2025-10-01 15:04:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සල-සල-බග-භවතය-මනදසය-කරනන-බදදක/101-680576) · `si`
-
-The Ministry of Environment informed the Supreme Court today that the Gazette notification will be issued to recover a sum of November for Cellisili Bags.
-
-The Deputy Solicitor General Dr. Army General of the Environment, Dr. Army Armyarase Perera, appearing on behalf of the Ministry of Environment (Cyllabi had filed a tax on the development of polythene and cile bag.
-
-The petition was considered in the face of a panel of judges, Supreme Court Judge Kumudi Wickramasinghe and Sampath Abeykramasinghe and Sampath Abeykramasena.
-
-The Environmental Justice Center has promised the court that the environment has been identified as a tax on the mitigation of the environment as a result of polythene and cile bags.
-
-According to the Ministry of Environment, the petition filed the PC's mosquito, demanding to take action to minimize the use of polythene, as the Ministry of Environment has been called to take action.
-
-...
-
-[Data](articles/d7721f70.json)
-
-[Extended Data](ext_articles/d7721f70.ext.json)
-
----
-
-### Surilizing Bags Tax to Mary
-
-*2025-10-01 15:04:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සල-සල-බග-භවතය-මනදසය-කරනන-බදදක/1-680576) · `si`
-
-The Ministry of Environment informed the Supreme Court today that the Gazette notification will be issued to recover a sum of November for Cellisili Bags.
-
-The Deputy Solicitor General Dr. Army General of the Environment, Dr. Army Armyarase Perera, appearing on behalf of the Ministry of Environment (Cyllabi had filed a tax on the development of polythene and cile bag.
-
-The petition was considered in the face of a panel of judges, Supreme Court Judge Kumudi Wickramasinghe and Sampath Abeykramasinghe and Sampath Abeykramasena.
-
-The Environmental Justice Center has promised the court that the environment has been identified as a tax on the mitigation of the environment as a result of polythene and cile bags.
-
-According to the Ministry of Environment, the petition filed the PC's mosquito, demanding to take action to minimize the use of polythene, as the Ministry of Environment has been called to take action.
-
-...
-
-[Data](articles/d7c80cd9.json)
-
-[Extended Data](ext_articles/d7c80cd9.ext.json)
-
----
-
-### Health Minister Meets UNFPA Representative
-
-*2025-10-01 15:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/health-minister-meets-unfpa-representative) · `en`
-
-...
-
-[Data](articles/f94b418c.json)
-
-[Extended Data](ext_articles/f94b418c.ext.json)
-
----
-
-### Govt.
-
-*2025-10-01 14:58:08* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-වැව-මැනීමෙන්-ආණ්ඩුව-අඩියක්-පස්සට-ගනියි/11-418847) · `si`
-
-Deputy Minister of Agriculture and Livestock Sampath Karanarathne said that the issuing of the Ridiyagama tank tanks of Ridiyagama tank is being carried out on the issue of promptity on the issue of promotion.
-
-Periya said that the issue of measurement of Ridiyagama tank residence in the Ridiyagalawewa Tank Reserve in a few occasions as a result of the protest of the Ridiyagama tank reserve in several occasions, the people in a discussion was held in a discussion with the people of the area.
-
-The people of the area are not protesting against the tanted reserves, but the present reserve is used to solve this problem using the Ridiyagama Wewa Reserve in the Ridiyagama Wewa.
-
-The people of the area claimed that the tucked tanks were marked and acquired by land was a risk of losing their residence land, Karambagala Mulla.
-
-...
-
-[Data](articles/abbece4b.json)
-
-[Extended Data](ext_articles/abbece4b.ext.json)
 
 ---

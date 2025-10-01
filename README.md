@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 17:20:35**
+As of **2025-10-01 17:42:31**
 
 ## Newspaper Stats
 
-*Scraped **80,253** Articles*
+*Scraped **80,262** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 534
-lankadeepalk | 586
+lankadeepalk | 593
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -21,17 +21,169 @@ adalk | 7,718
 adaderanalk | 10,339
 tamilmirrorlk | 11,978
 virakesarilk | 13,125
-adaderanasinhalalk | 13,852
+adaderanasinhalalk | 13,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,252 (100.0%) of 80,253 articles have been extended.
+80,253 (100.0%) of 80,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### මෝදරින් හමුවූ බෝම්බ 10යේ රස පරීක්ෂක වාර්තා කැඳවයි
+
+*2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/101-680586) · `si`
+
+මෝදර අලුත් මාවත ප්‍රදේශයේ නගර සභා වැඩ බිමක් අසල පාසල් බෑගයක තිබී අත්අඩංගුවට ගත්  අත්බෝම්බ 10 ය නිශ්ක්‍රීය කර   රජයේ රස පරීක්ෂක වාර්තා කැඳවීමට  කොළඹ අතිරේක මහේස්ත්‍රාත් ඕෂද මිගාර මහාරච්චි මහතා මෝදර පොලිසියට අද (01) නියෝග කළේය.
+
+ත්‍රස්ත විමර්ශන කොට්ඨාසයට ලද තොරතුරක් මත විශේෂ පොලිස් කණ්ඩායමක්  මගින් මෙම බෝම්බ තොගය අත් අඩංගුවට ගත් බවට බී වාර්තාවක් ගොනුකරමින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් පසුව මෙම නියෝගය නිකුත් කළේය.
+
+පොලිසියේ වැඩිදුරටත් අධිකරණයට කරුණු දක්වමින් කියා සිටියේ  සැකකරුවන් අනාවරණය කර ගැනීම සඳහා සීසීටිවී දර්ශන ඔස්සේ විමර්ශන සිදු කරන බවය.
+
+ඉදිරිපත් කළ කරුණු සලකා බැලූ අතිරේක මහේස්ත්‍රාත්වරයා බෝම්බ නිස්ක්‍රීය කිරීමට අවසර ලබාදෙමින් රජයේ රසපරීක්ෂක වාර්තාවක් කැඳවීමටද නියෝග කළේය.
+
+විමර්ශන ප්‍රගතිය කඩිනමින් අධිකරණයට ඉදිරිපත් කරන ලෙසටද පොලිසියට නියෝග කළේය.
+
+◼️
+
+[Data](articles/6345456e.json)
+
+---
+
+### ’’ලංකාවට ලෝකයෙන් ඉහළ පිළිගැනීමක්’’
+
+*2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකවට-ලකයන-ඉහළ-පළගනමක/101-680585) · `si`
+
+ලංකාව ගැන ලෝකයේ ඉහළ පිළිගැනීමක් සහ යහපත් ප්‍රතිරූපයක් ගොඩනැගෙමින් පවතින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+බොහෝ රටවල් ලංකාව සමඟ සුහදශීලී ගණුදෙනු සඳහා අවතීරණ වී ඇති බවද අමාත්‍යවරයා කීය.
+
+අමාත්‍යවරයා මේ බව කීවේ දර්ගා නගරය ප්‍රාදේශීය රෝහලේ  ඉදිකරන ලද තෙමහල් නව කායික රෝග වාට්ටු සංකීර්ණය ජනතා අයිතියට පත් කිරීමේ අවස්ථාවට එක් වෙමිනි.
+
+චීන රජයේ ආධාර යටතේ තෝරාගත් රෝහල් 13 ක සෞඛ්‍ය පහසුකම් වැඩිදියුණු කිරීමේ ව්‍යාපෘතිය යටතේ රුපියල් බිලියනයක  වියදමින් මෙය ඉදි කර තිබෙි.
+
+මහල් 03 කින් සමන්විත මෙම ගොඩනැගිලි සංකීර්ණය ඇඳන් 04 කින් යුත් හදිසි ප්‍රතිකාර ඒකකයක්, ඇඳන් 96 කින් සමන්විත ළමා සහ මාතෘ වාට්ටු ද ඇතුළු වාට්ටු 04 කින් ද බාහිර රෝගී අංශය ඇතුළු අංශ ගණනාවකින් ද සමන්විත වන අතර මෙම කායික රෝග වාට්ටු සංකීර්ණයට අවශ්‍ය වෛද්‍ය උපකරණ සහ අනෙකුත් උපකරණ සෞඛ්‍ය අමාත්‍යංශය මගින් ලබා දීමට  නියමිතය.
+
+◼️
+
+[Data](articles/98ac8a1c.json)
+
+---
+
+### තාබුගලට අධිකරණයේ පෙනී සිටින්නැයි නියෝග
+
+*2025-10-01 17:06:32* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තබගලට-අධකරණය-පන-සටනනය-නයග/101-680584) · `si`
+
+රුපියල් මිලියන 194ක බදු මුදලක්  නොගෙවා පැහැර හැරියේ යැයි කියන  අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාබුගල  විත්තිකරුට වැට් බදු වාර්තා ඉදිරිපත් නොකිරීම සම්බන්ධයෙන්  නොවැම්බර් 25 දින අධිකරණයේ  පෙනී සිට කරුණු දක්වන  ලෙසට කොළඹ අතිරේක මහේස්ත්‍රාත්  සජිවිකා ඉයන්දල මහත්මිය සිතාසී නිකුත් කරමින් නියෝග කළාය.
+
+අවුරා ලංකා සමාගම වෙනුවෙන් 2019 තුන්වෙනි කාර්තුව සඳහා ලබා දිය යුතු වැට්  බදු වාර්තා ඉදිරිපත් නොකිරීම සම්බන්ධයෙන් දේශීය ආදායම් කොමසාරිස්වරයා පැවරූ පැමිණිල්ලක් සලකා බැලීමෙන් පසුව මෙම සිතාසිය නිකුත් කළාය.
+
+දෙශීය ආදායම් කොමසාරිස්වරයා වෙනුවෙන් පෙනී සිටි නීතිඥ දිනේෂ් පෙරේරා මහතා කරුණු දක්වමින් කියා සිටියේ විත්තිකරුට අධිකරණයේ පෙනී සිටීමට සිතාසි නිකුත් කර තිබුණද ඔහු  පෙනී සිට නොමැති බවය.
+
+පැමිණිල්ලේ කරුණු සලකා බැලූ අතිරේක මහේස්ත්‍රාත්වරිය තලංගම පොලිසිය ස්ථානාධිපතිවරයා හරහා නැවත සිතාසි නිකුත් කරන ලෙසට නියෝග කළාය.
+
+...
+
+[Data](articles/9b0f612b.json)
+
+---
+
+### කුලී රථ රියදුරෝත් මැතිසබයට
+
+*2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කල-රථ-රයදරත-මතසබයට/101-680583) · `si`
+
+කුලී රථ හිමිකරුවන්ගේ සහ රියදුරන්ගේ ජාතික එකමුතුවේ නියෝජිතයෝ පිරිසක්  ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවට සිය යෝජනා සහ අදහස් ඉදිරිපත් කළහ.
+
+ප්‍රවාහන ක්‍ෂේත්‍රය හා සම්බන්ධ නීතිමය රාමුව ශක්තිමත් කීරීම අරමුණු කර ගනිමින් මෙසේ කරුණු ඉදිරිපත් කර ඇත්තේ එම අනු කාරක සභාව එහි සභාපති  පාර්ලිමේන්තු මන්ත්‍රීනී නීතිඥ ලක්මාලි හේමචන්ද්‍ර මෙනෙවියගේ ප්‍රධානත්වයෙන් පසුගිය 26 වැනිදා පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+
+මෙහිදී අනු කාරක සභාව පෙන්වා දුන්නේ රියදුරා, මගියා යන සියලු පාර්ශ්වයන්ට සාධාරණ ආකාරයෙන් ප්‍රවාහන අංශය සම්බන්ධයෙන් නිර්නායක සකස් විය යුතු බවයි. කුලී රථ කර්මාන්තය  සම්බන්ධයෙන් එම වෘත්තීන්වල නිරතවන පුද්ගලයින්ගේ අදහස් සහ යෝජනා මෙහිදී වැදගත් වන බව අනු කාරක සභාව පෙන්වා දුන්නේය. මේ අනුව පැමිණි නියෝජිතයින් තම අදහස් සහ යෝජනා අනු කාරක සභාවට ඉදිරිපත් කළ අතර ඒවා ලිඛිතව ඉදිරියේදී අනු කාරක සභාවට වඩාත් විස්තරාත්මකව ලබාදීමටද එකඟ විය. මේ අනුව  ප්‍රවාහනය සම්බන්ධ ප්‍රතිපත්ති සකස් කිරීමේදී මෙම යෝජනාද සලකා බලන බව ඇය ප්‍රකාශ කළාය.
+
+◼️
+
+[Data](articles/476f9893.json)
+
+---
+
+### හැට දාහකට අලුතින් රැකියා
+
+*2025-10-01 16:55:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-දහකට-අලතන-රකය/101-680582) · `si`
+
+විවිධ ක්ෂේත්‍ර සඳහා තරුණ තරුණියන්  හැටදාහක් පමණ අලුතින් බඳවා ගැනීමට අපේක්ෂා කරන බව රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය  ආචාර්ය චන්දන අබේරත්න මහතා පැවසීය.
+
+එම ප්‍රමාණය ඉක්මවා හැටදහසක පමණ රැකියා ප්‍රමාණයක් ලබාදීමට රජය තීරණය කර ඇති  බවද ඔහු සඳහන් කළේය.
+
+මේ අතර කළමනාකරණ  සේවා පත්වීම් 1890ක් පසුගියදා  දුන් බව පැවසූ අමාත්‍යවරයා රට  පුරා තරග විභාග පවත්වා එම පත්වීම්  දුන් බවද ප්‍රකාශ කළේය.
+
+තරග විභාගවලින් තොරව හිතවත් කම් මත රැකියා  නොදෙන බව චන්දන අබේරත්න මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/ece538de.json)
+
+---
+
+### මහනුවර ශ්‍රී දළදා මාලිගාවේ දේපළ සම්බන්ධයෙන් පෙත්සමක්
+
+*2025-10-01 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215225) · `si`
+
+මහනුවර ශ්‍රී දළදා මාලිගාවේ වැඩබලන දියවඩන නිලමේ නිලංග දෑල මහතා විසින් එම මාලිගාවට අයත් දේපළ අවභාවිතා කිරීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+සිවිල් බුද්ධි පෙරමුණේ කැඳවුම්කරු සංජය මහවත්ත මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+
+පෙත්සම්කරු කියා සිටින්නේ විහාර හා දේවාල ගම් පනත යටතේ දළදා මාලිගාවට අයත් ප්‍රවේණිගත දේපල පැවරීම, බදුදීම හෝ අන්සතු කිරීම සම්පූර්ණයෙන්ම තහනම් බවය.
+
+එසේ තිබියදී වත්මන් වැඩබලන නිලමේවරයා ඉකුත් කාලයේ දළදා මාලිගාවට අයත් දේපොළ අවභාවිතාවට ලක්කර තිබෙන බවට තොරතුරු ලැබී ඇතැයිද පෙත්සම්කරු සඳහන් කර ඇත.
+
+ඒ අනුව ශ්‍රී දළදා මාලිගාව සතු වත්කම් සහ නිශ්චල දේපළ අන්සතු කිරීම, පැවරීම හෝ විකිණිම වළක්වාලන නියෝගයක් නිකුත් කරන ලෙස පෙත්සම්කරු අධිකරණයෙන්  ඉල්ලා තිබේ.
+
+ඊට අමතරව දළදා මාළිගාව සතු වත්කම් හා දේපළ පිළිබඳ සම්පූර්ණ විගණනයක් සිදු කරන ලෙස නියෝගයක් නිකුත් කරන ලෙසත් දළදා මාලිගාවේ පාලන කටයුතු මෙහෙයවීම සඳහා තාවකාලික භාරකරුවකු පත්කරන ලෙස බෞද්ධ කටයුතු කොමසාරිස් ජනරාල්වරයා වෙත නියෝගයක් නිකුත් කරන ලෙසත් පෙත්සමෙන් වැඩිදුරටත් ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/45807f52.json)
+
+---
+
+### T20 ශ්‍රේණිගත කිරීම්හි පැතුම් තවත් ඉදිරියට
+
+*2025-10-01 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215224) · `si`
+
+ICCය ප්‍රකාශයට පත්කළ නවතම විස්සයි20 පිතිකරුවන් ශ්‍රේණිගතකිරීමේ 5වන ස්ථානය දක්වා ඉදිරියට පැමිණීමට පැතුම් නිස්සංක සමත්ව තිබේ.
+
+ආසියානු කුසලාන තරගාවලියේ ඉන්දියාවට එරෙහිව රැස්කළ විශිෂ්ට ශතකය හේතුවෙන් ඔහු 7වන ස්ථානයේ සිට ස්ථාන 2කින් මෙලෙස ඉදිරියට පැමිණ සිටියි.
+
+එමෙන්ම එම තරගයේ දී සටන්කාමී අර්ධ ශතකයක් රැස්කළ කුසල් ජනිත්ද 11වන ස්ථානයේ සිට 9වන ස්ථානයට ඉදිරියට පැමිණ ඇත.
+
+මේ අතර විස්සයි20 තුන්ඉරියව් ක්‍රීඩකයන් අතර අංක එකට පත්ව සිටි ඉන්දියාවේ හර්දික් පාන්ඩ්‍ය අභිබවා පෙරමුණ අත්පත් කරගැනීමට පාකිස්තානයේ සයිම් අයුබ් සමත්ව තිබේ.
+
+ඔහු ජාත්‍යන්තර විස්සයි20 තුන්ඉරියව් ක්‍රීඩකයන් අතර පෙරමුණට පැමිණ පළමු අවස්ථාව මෙය වේ.
+
+ශ්‍රී ලංකාවේ වනිඳු හසරංගද මෙම කාණ්ඩයේ එක් ස්ථානයක් ඉදිරියට පැමිණ 6වන ස්ථානයට පැමිණ සිටියි.
+
+◼️
+
+[Data](articles/35cdf594.json)
+
+---
+
+### ඇමෙරිකානු ආණ්ඩුව වසා දමයි
+
+*2025-10-01 16:37:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමරකන-ආණඩව-වස-දමය/101-680581) · `si`
+
+වසර හයකට පසු ප්‍රථම වතාවට අද (01) එරට වේලාවෙන් පෙරවරු 12 ට ඇමෙරිකානු ආණ්ඩුව වසා දැමුණේය. මෙම මස සිට ඉන් ඉදිරියට රාජ්‍ය සේවා අඛණ්ඩව පවත්වා ගැනීමට අරමුදල් සැපයීම සඳහා ගෙන ආ අයවැය පනත් කෙටුම්පත සම්මත කිරීම සඳහා ඇමෙරිකානු සෙනෙට් සභාවේ සිටින රිපබ්ලිකන් සහ ඩිමොක්‍රටික් පාක්ෂිකයන් එකඟතාවයකට පැමිණීමට නොහැකි වීම ආණ්ඩුව වසා දැමීමට හේතුව විය.
+
+ඇමෙරිකානු ආණ්ඩුව වසා දැමීමත් සමග සියලු රාජ්‍ය සේවා නොවුණත් ඇතැම් රාජ්‍ය සේවා අද (01) අත්හිටු විණ. අරමුදල වෙන් කිරීමට තිබූ අවසන් කාල සීමාව පසුවීමත් සමග ඇමෙරිකානු ආණ්ඩුව වහාම වසා දැමුණු අතර ඉන් අනතුරුව ඩිමෝක්‍රටික් සහ රිපබ්ලිකන් පාක්ෂිකයන් එකිනෙකා මත වරද පැටවූවේය. අයවැය පනත් කෙටුම්පත ගෙන ආ අවස්ථවේදී වත්මන් වියදම් තවත් සති 7 ක කාලයක් ඉදිරියට ගෙනයා යුතු බවට රිපබ්ලිකන්වරු ඩිමොක්‍රටික් පාක්ෂිකයන්ට බල කර සිටියේය.
+
+රිපබ්ලිකන්වරුට කොංග්‍රසයේ සහ සෙනෙට් සබ්වේ බලය තිබුණත් සෙන්ට් සභාවේ ප්‍රමාණවත් ආසන සංඛ්‍යාවක් රිපබ්ලිකන්වරුන්ට නොමැත. ඒ හේතුවෙන් පනත් කෙටුම්පතක් සෙන්ට් සභාවේ සම්මත කිරීමට රිපබ්ලිකන් සාමාජිකයන්ට ඩිමොක්‍රටික් පාක්ෂිකයන් 60 දෙනකුගේ ඡන්දය අවශ්‍ය වේ.
+
+...
+
+[Data](articles/08a38508.json)
+
+---
 
 ### Two Health Welfare Centers to be provided to the public in Kandy, Matale
 
@@ -112,6 +264,24 @@ The former Added Director of the National Planning Department of the Ministry of
 [Data](articles/3b5155ae.json)
 
 [Extended Data](ext_articles/3b5155ae.ext.json)
+
+---
+
+### මේඛලා සදරේනු සවුත්වේල්ස්හි නීතිඥවරියක ලෙස දිව්රුම් දෙයි
+
+*2025-10-01 16:24:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මඛල-සදරන-සවතවලසහ-නතඥවරයක-ලස-දවරම-දය/101-680580) · `si`
+
+ශ්‍රේෂ්ඨාධිකරණ නීතිඥ අසුරුමුනි ආරච්චිගේ මේඛලා සදරේනු මහත්මිය  ඕස්ට්‍රේලියාවේ  නිව් සවුත්වේල්ස් ශ්‍රේෂ්ඨාධිකරණ නීතිඥවරියක (සොලිසිටර්වරියක) ලෙස නිව් සවුත් වේල්ස් ශ්‍රේෂ්ඨාධිකරණ අග විනිසුරුවරයා ඉදිරියේ පසුගියදා දිව්රුම් දුන්නාය.
+
+කොළඹ මියුසියස්  විද්‍යාලයේ  අධ්‍යාපනය හැදෑරූ මේඛලා සදරේනු ඕස්ට්‍රේලියාවේ ඇඩිලේඩ් නගරයේ කොලනල් ලයිට්  පසලේ අධ්‍යාපනය හදාරා ඇති අතර ලන්ඩන් විශ්ව විද්‍යාලයේ   නීති උපාධිය  සමත් වීමෙන් පසුව   ශ්‍රී ලංකා නීතී විද්‍යාලයට ඇතුලු විය.  නීති විද්‍යාල  විභාග සමත් වීමෙන් අනතුරුව සිය ආධුනික කාලය  නීතිපති දෙපාර්තමේන්තුවේ අතිරේක  සොලිසිටර් ජනරාල් දිල්රුක්ෂි මහත්මිය යටතේ කටයුතු කරමින් නිම කළාය .
+
+අනතුරුව  ඕස්ට්‍රේලියාවේ university of western sydney විශ්ව විද්‍යාලයෙන් නීතිය පිළිබඳ ශාස්ත්‍ර පති විභාගය  සමත්ව සොලිසිටර් වරියක ලෙස දිවුරුම් දුන්නාය.
+
+මේඛලා සදරේනු  මුදල් අමාත්‍යාංශයේ ජාතික ක්‍රම සම්පාදන දෙපාර්තමේන්තුවේ හිටපු අතිරේක අධ්‍යක්‍ෂ ඡනරාල් සේපාලි රූපසිංහ මහත්මියගේ හා නීතිඥ  ඒ.ඒ. තිලකරත්න මහතාගේ දියණිය වේ.
+
+◼️
+
+[Data](articles/693ca501.json)
 
 ---
 
@@ -1127,15 +1297,17 @@ However, this statement from Nandana Gunatilake has not done a bribery or corrup
 
 ---
 
-### ස්ථිර ඔප්පු දෙන බව පවසා රු. කෝටි 10ක් වංචාකළ සැකකරුවෙක් හා සැකකාරියෙක් අල්ලයි
+### A sum of Rs.. A suspect and suspect arrested for defrauding Rs
 
 *2025-10-01 13:56:30* · [`adalk`](https://www.ada.lk/breaking_news/ස්ථිර-ඔප්පු-දෙන-බව-පවසා-රු--කෝටි-10ක්-වංචාකළ-සැකකරුවෙක්-හා-සැකකාරියෙක්-අල්ලයි/11-418842) · `si`
 
-2024 වසරේදී උරුමය වැඩසටහන යටතේ බවට පවසා ඔප්පු නොමැති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබාදෙන බවට පොරොන්දු වී රුපියල් කෝටි 10කට ආසන්න මුදලක් වංචා කර සාවද්‍ය පරිහරණය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ලද පැමිණිල්ලක් අනුව අවුරුදු 43ක සැකකරුවෙක් හා අවුරුදු 55ක සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+According to a complaint lodged with a complaint received by the CID and 55 years suspect, a 43-year-old suspect was arrested in acquisition of fundamental consistence to the Criminal Investigation Department.
 
 ◼️
 
 [Data](articles/dda505b5.json)
+
+[Extended Data](ext_articles/dda505b5.ext.json)
 
 ---
 
@@ -1774,167 +1946,5 @@ In addition, the machine and gear system of motor vehicles purchased under the H
 [Data](articles/e9798c69.json)
 
 [Extended Data](ext_articles/e9798c69.ext.json)
-
----
-
-### Troops of former Minister Anura Priyadarshana Yapa
-
-*2025-10-01 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215217) · `si`
-
-According to the total of Rs.
-
-The revised indications were handed over before the Attorney General, handing over before the Colombo High Court Judge, Udayanatunga.
-
-The complaint was named as another defendant as another defendant in the case under the revised indication, Anura Seneviratne was named as a coordinating secretary of the former minister.
-
-The disaster was set to call on the accusations on the 29th of October to hand over the accusations on the accused.
-
-◼️
-
-[Data](articles/c62048ae.json)
-
-[Extended Data](ext_articles/c62048ae.ext.json)
-
----
-
-### There is no change in bus fares; Commission
-
-*2025-10-01 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226564) · `ta`
-
-The National Transport Commission said that despite the amendments to the fuel prices, no amendment was made in bus fares.
-
-The Ceylon Petroleum Corporation has announced that fuel prices have been reduced from midnight on Tuesday.
-
-Accordingly, the 95 Octane Petrol Later will be reduced by Rs.. But the 92 octane petrol price is not changed.
-
-Similarly, the price of Lanka Auto Diesel will be reduced by Rs.. Super diesel continues unchanged.
-
-◼️
-
-[Data](articles/ed1a16af.json)
-
-[Extended Data](ext_articles/ed1a16af.ext.json)
-
----
-
-### Today's gold price
-
-*2025-10-01 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226565) · `ta`
-
-The price of gold sold at Chettiar Street, Colombo on Wednesday (01) on October
-
-◼️
-
-[Data](articles/1b888ba9.json)
-
-[Extended Data](ext_articles/1b888ba9.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2025-10-01 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226563) · `ta`
-
-Wednesday today (Oc. 1) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை  306.2912 ரூபா ஆகவும் கொள்வனவு விலை 298.7904 ரூபா ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/8f5c56ff.json)
-
-[Extended Data](ext_articles/8f5c56ff.ext.json)
-
----
-
-### The hearing on the case against Keheliya and his family on the 15th!
-
-*2025-10-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226562) · `ta`
-
-The Colombo High Court has ordered that the case filed by the Bribery and Corruption Commission against former Health Minister Keheliya Rambukwella, his wife, three daughters and son -in -law will be taken up for hearing on October 15.
-
-The order was issued when the case was taken up for hearing in the presence of Colombo Additional Magistrate Mohamed Mihal on Wednesday (01).
-
-It is noteworthy that the Bribery and Corruption Commission has filed a petition against former Health Minister Keheliya Rambukwella, his wife, three daughters and son -in -law under the Prevention of Money Laundering Act on charges of illegal assets worth Rs 97 million.
-
-◼️
-
-[Data](articles/2e85b289.json)
-
-[Extended Data](ext_articles/2e85b289.ext.json)
-
----
-
-### If Kehelbadra had not been caught, this would have been for Sri Lanka! - Video
-
-*2025-10-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226560) · `ta`
-
-Sri Lanka has become a fireplace in the next 10 years, while observing the incidents that have been taking place in Sri Lanka over the past few days.. Fear, every citizen may have a must ...
-
-It has been so bad that the underworld gang and the politicians who are affiliated with them have degraded the country.
-
-The fact that, even though some of the noble leaders and politicians who are working for the country, have made money greedy ghosts, have been conspiring to destroy the future generation.
-
-At this time, the underworld gang was arrested, and the current incidents of every Sri Lankan sighs are evidenced by.
-
-But there is no doubt that this government's decisive actions will be disastrous to some politicians and underworld gangs who are corpse.
-
-The government led by President Anura Kumara Dissanayake has been carrying out many action activities in recent years.
-
-...
-
-[Data](articles/62724372.json)
-
-[Extended Data](ext_articles/62724372.ext.json)
-
----
-
-### The political and social turmoil of modern Britain
-
-*2025-10-01 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226561) · `ta`
-
-'According to the 2021 census, the South Asian people in Britain are the second largest ethnic group. This includes Indians, Pakistanis and Bangladeshis, as well as Sinhalese and Nepali.. Despite last week's struggle, heavy border control and asylum policies for refugees, these South Asian communities, which have been living in Britain for many generations, have a direct impact.
-
-◼️
-
-[Data](articles/021ced65.json)
-
-[Extended Data](ext_articles/021ced65.ext.json)
-
----
-
-### President Dissanayake returns after concluding official visit to Japan
-
-*2025-10-01 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113100/president-dissanayake-returns-after-concluding-official-visit-to-japan) · `en`
-
-President Anura Kumara Dissanayake returned to Sri Lanka this morning (01) after successfully completing a three-day official visit to Japan, undertaken at the invitation of the Japanese Government.
-
-The President commenced his visit on September 27 and served as the Chief Guest at the Sri Lanka Day celebrations held at the “Expo 2025” exhibition in Osaka, the President’s Media Division (PMD) said.
-
-During the visit, President Dissanayake engaged in a series of high-level bilateral discussions aimed at further strengthening the longstanding friendship and cooperation between Japan and Sri Lanka, while also expanding trade, investment and economic relations.
-
-...
-
-[Data](articles/22db2c68.json)
-
-[Extended Data](ext_articles/22db2c68.ext.json)
-
----
-
-### Wife arrested for drug addiction to her husband in a court jail
-
-*2025-10-01 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226559) · `ta`
-
-Kekira was arrested by the police on Tuesday (30) by the police who gave drugs to a husband who was detained at a prison at the Magistrate's Court Complex.
-
-A prisoner who was arrested in connection with drug trafficking and detained in a prison under a court order has been taken to the Magistrate's Court yesterday for hearing the case with a few more prisoners.
-
-The prisoner's wife, who was taken to court for drug trafficking, has given a package to her husband as all the prisoners have been detained in the Magistrate's Court.
-
-The prison officials who observed this were seized by the wife's package, and they seized 480 milligrams of heroin and 300 grams of tobacco.
-
-◼️
-
-[Data](articles/ffbcdde9.json)
-
-[Extended Data](ext_articles/ffbcdde9.ext.json)
 
 ---

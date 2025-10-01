@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 11:41:05**
+As of **2025-10-01 11:57:35**
 
 ## Newspaper Stats
 
-*Scraped **80,121** Articles*
+*Scraped **80,129** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 529
-lankadeepalk | 552
+lankadeepalk | 560
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -27,31 +27,55 @@ adaderanasinhalalk | 13,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,114 (100.0%) of 80,121 articles have been extended.
+80,121 (100.0%) of 80,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### 10  கோடி ரூபாய் மோசடி:  இருவர் கைது
+### 10 crore rupees fraud: two arrested
 
 *2025-10-01 11:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-மோசடி-இருவர்-கைது/175-365574) · `ta`
 
-2024 " உறுமய " திட்டத்தின் கீழ் உரிமையற்ற நிலங்களுக்கு நிரந்தர உறுதிகளை வழங்குவதாக வாக்குறுதி அளித்து கிட்டத்தட்ட 100 மில்லியன் ரூபாவை (10 கோடி) மோசடி செய்து தவறாகப் பயன்படுத்தியதாகக் கூறப்படும் ஒரு சந்தேக நபரும் ஒரு பெண்ணும்  குற்றப் புலனாய்வுத் துறையால் கைது செய்யப்பட்டதாக காவல்துறை ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+The police media spokesman's office said that a suspect and a woman who allegedly misused nearly 100 million rupees (10 crores) by defrauding of nearly 100 million rupees (10 crores), which promised to grant permanent stabilizers under the 2024 "Urumaya" scheme.
 
-சந்தேக நபர் பணம் மோசடி செய்யப்பட்ட நபரை சிறிகொத்த தலைமையகத்திற்கும் கொழும்பில் உள்ள ஒரு பிரபலமான ஹோட்டலுக்கும் அழைக்கப்பட்டதாக காவல்துறை தெரிவித்துள்ளது.
+The suspect has been summoned to the headquarters of the suspect and to a famous hotel in Colombo, police said.
 
-கைது செய்யப்பட்ட 43 வயதான சந்தேக நபரான பெண், பக்கமுன பகுதியைச் சேர்ந்தவர் என்றும், கிரிபத்கொட பகுதியில் உள்ள ஒரு விடுதியில் தற்காலிகமாக வசித்து வருகிறார் என்றும், சந்தேக நபர் 55 வயதான மகரகமவைச் சேர்ந்தவர் என்றும் காவல்துறை முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+Preliminary inquiries have revealed that the 43 -year -old suspect was from the Pakamuna area and was temporarily residing in a hotel in the Kiribathgoda area and the suspect was from Maharagama.
 
-...
+Preliminary inquiries have revealed that the police have revealed that they have cheated 164 businessmen in Kalmunai, introducing himself as a lawyer, deceiving the businessmen and received Rs six lakh from one person, claiming to provide permanent strategies to the unmanned land under the Urumaya scheme.
+
+◼️
 
 [Data](articles/93b435d0.json)
+
+[Extended Data](ext_articles/93b435d0.ext.json)
+
+---
+
+### Good news for disabled students
+
+*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආබධත-සසනට-සභ-ආරචයක/1-680546) · `si`
+
+The Prime Minister and Education, Higher Education and Vocational Education Minister Harinini Amarasuriya stated that the balance of transfers should be accelerated.
+
+The Prime Minister said that he further focused on this issue, the rejection of transfers in the field of education is a long time. She said that it was the only section that would not adapt to the transfers of the public service.. The Committee also discussed the steps taken by teachers and principals who were not adapted to such transfers.
+
+The Prime Minister made these comments when he was chaired by the Ministry of Education, Higher Education and Vocational Education in Parliament recently (26).
+
+At this meeting also discussed the policy decisions related to the inclusion of the disabled students to universities. Accordingly, the policy will be implemented based on a quota method for all subjects from the year next year.
+
+◼️
+
+[Data](articles/84548e27.json)
+
+[Extended Data](ext_articles/84548e27.ext.json)
 
 ---
 
 ### ආබාධිත සිසුන්ට සුභ ආරංචියක්
 
-*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආබධත-සසනට-සභ-ආරචයක/1-680546) · `si`
+*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආබධත-සසනට-සභ-ආරචයක/101-680546) · `si`
 
 ගුරු  හා විදුහල්පති මාරුවීම් තුලනය කිරීම කඩිනම් කළ යුතු බව  අග්‍රාමාත්‍ය සහ අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය (ආචාර්ය) හරිනි අමරසූරිය මෙනවිය  ප්‍රකාශ කළාය.
 
@@ -61,7 +85,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/84548e27.json)
+[Data](articles/f3c84246.json)
 
 ---
 
@@ -91,9 +115,27 @@ Defending his brief absence from the debate, he said he had contributed to the m
 
 ---
 
-### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු වෙයි
+### President meets Emperor of Japan
 
 *2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/1-680545) · `si`
+
+President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
+
+The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
+
+Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
+
+◼️
+
+[Data](articles/2b5e0d50.json)
+
+[Extended Data](ext_articles/2b5e0d50.ext.json)
+
+---
+
+### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු වෙයි
+
+*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/101-680545) · `si`
 
 ජපාන රජයේ ආරාධනයකට අනුව එරට  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ටෝකියෝහි පිහිටි අධිරාජ්‍ය  මන්දිරයේදී  ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු විය.
 
@@ -103,7 +145,7 @@ Defending his brief absence from the debate, he said he had contributed to the m
 
 ◼️
 
-[Data](articles/2b5e0d50.json)
+[Data](articles/b430a658.json)
 
 ---
 
@@ -294,6 +336,18 @@ Today, Ada Derana also received a CCTV display of the driver of the van.
 [Data](articles/a092ab36.json)
 
 [Extended Data](ext_articles/a092ab36.ext.json)
+
+---
+
+### ජනපති එයි
+
+*2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-එය/101-680544) · `si`
+
+ජනාධිපති අනුරු කුමාර දිසානායක මහතා ජපන් නිල සංචාරය නිමකරමින් කටුනායක ගුවන් තොටින් අද පෙරවරුවේ දිවයිනට පැමිණියේය.‍ෙඑක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වැනි සැසිවාරයට සහභාගී වීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉකුත් 22 වැනිදා ඇමරිකාව බලා පිටත් විය.
+
+◼️
+
+[Data](articles/5678d135.json)
 
 ---
 
@@ -501,6 +555,22 @@ The weapons found on information received by the Army.
 
 ---
 
+### නීතියට පයින් ගසා කෝටි 668ක්  ණයට බෙදලා
+
+*2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/101-680541) · `si`
+
+ශ්‍රී ලංකා විදුලිබල මණ්ඩලය  අර්ථසාධක අරමුදලේ රීතිවලට පටහැනිව රුපියල් කෝටි හයකට වැඩි  අධ්‍යාපන ණය සහ රුපියල්  කෝටි 662  කට ආසන්න වටිනා දේපල ණය 2024 වර්ෂයේදී  ලබාදී ඇති බව  පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේදී (කෝප් කමිටුව )තොරතුරු අනාවරණය විය.
+
+නියමිත ක්‍රමවේදයෙන් බැහැරව අධ්‍යක්ෂ මණ්ඩලයේද  කම්කරු කොමසාරිස්වරයාගේ සහ දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයාගේද  අනුමතියකින්  තොරව සහ 2003 අර්ථසාධක අරමුදල් රෙගුලාසිවල සංශෝධන ගැසට් නිවේදයකින්  ප්‍රකාශයට පත් නොකර මෙම ණය ලබාදී  තිබූ බව එම කමිටුව පවසයි.
+
+වහාම මේ සම්බන්ධයෙන් සුදුසු ක්‍රියාමාර්ග ගන්නා ලෙස කෝපා කමිටුව නිර්දේශ කර ඇත.
+
+◼️
+
+[Data](articles/07acab98.json)
+
+---
+
 ### The law kicked the law and divided Rs. 668 crores
 
 *2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/1-680541) · `si`
@@ -539,19 +609,23 @@ In it, our government is committed to providing proper nutrition for all childre
 
 ---
 
-### ”இலங்கையை கட்டியெழுப்ப  அனைவரும் கைகோர்ப்போம்” ஜனாதிபதி
+### “Everyone will join hands to build Sri Lanka” President
 
 *2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-கட்டியெழுப்ப-அனைவரும்-கைகோர்ப்போம்-ஜனாதிபதி/175-365568) · `ta`
 
-சிறுவர்கள் மற்றும் முதியவர்களின் நல்வாழ்வுக்காக நாங்கள் தொடர்ந்து செயலாற்றி வருகிறோம் என ஜனாதிபதி அநுர குமார திசாநாயக்க உலக சிறுவர்கள் தினம் மற்றும் உலக முதியோர் தின வாழ்த்து செய்தியில் தெரிவித்துள்ளார்.
+President Anura Kumara Dissanayake said in a congratulatory message that we are continuing to work for the well -being of children and the elderly.
 
-ஒரு நாட்டின் மற்றும் உலகின் எதிர்காலம் சிறுவர்களின் கைகளிலே உள்ளது. அவர்களின் உலகம்  உண்மையான மற்றும் அழுக்கற்ற உலகம் என்பதால் அது  மிகவும் அழகானது. அந்த அழகை அனுபவிக்க அவர்களுக்கு தடையற்ற வாய்ப்பை வழங்குவது ஒரு சமூகத்தின் பொறுப்பாகும்.
+The future of a country and the world is in the hands of the boys. It is so beautiful because their world is real and dirty world. It is the responsibility of a community to give them an uninterrupted opportunity to enjoy that beauty.
 
-உரிமைகளுடன் கடமைகளும் பொறுப்புகளும் வருகின்றன என்பதைப் புரிந்துகொள்ளும் ஒரு அரசாங்கமாக, சிறுவர்களின் உரிமைகளைப் பாதுகாப்பதற்கும் ஊக்குவிப்பதற்கும் நாங்கள் எப்போதும் உறுதிபூண்டுள்ளோம்.  சிறுவர் என்பது யார் என்பதை மிகவும் நடைமுறை மற்றும் விரிவான முறையில் வரையறுப்பதன் மூலம் சிறுவர்களின் உரிமைகளை மேம்படுத்துவதற்குத் தேவையான தலையீடுகளை நாங்கள் செய்து வருகிறோம்.
+As a government that understands that duties and responsibilities are coming up with rights, we are always committed to protecting and encouraging children's rights.  We are making the intervention necessary to improve the rights of children by defining the most practical and comprehensive manner of who is the child.
+
+In it, our government is committed to providing proper nutrition for all children's physical and mental well -being and health services from all kinds of violence against all children, as well as all kinds of violence against children, abuse and discrimination against children.
 
 ...
 
 [Data](articles/6bcfd69e.json)
+
+[Extended Data](ext_articles/6bcfd69e.ext.json)
 
 ---
 
@@ -731,6 +805,40 @@ Tinker, who was arrested, handed over to a group of officers from the Peliyagoda
 
 ---
 
+### ‘ටින්කර්‘ ගුවන්තොටේදී අල්ලයි
+
+*2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ටනකර-ගවනතටද-අලලය/101-680534) · `si`
+
+ඩුබායි හි සැගව සිටි සංවිධානාත්මක අපරාධකරුවෙකු වන ශ්‍රීදරන් නෙරංජන් නොහොත් ටින්කර් නැමැත්තා අද(01 )  ඩුබායි සිට මෙරටට පැමිණෙමින් සිටියදී කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+36 හැවිරිදි ටින්කර් කොළඹ 15 ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර ඔහු සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන පලනි ශිරාන් ග්ලෝරියන් නොහොත් කොච්චිකඩේ ශිරාන් නැමැත්තාගේ ප්‍රධානතම අනුගාමිකයෙකි .
+
+ටින්කර් අද  අලුයම 12.05 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 232 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර එහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොහු 2024.10.16 දින ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මහවත්ත සුසාන භූමිය අසළ දී ත්‍රීරෝද රථයක ගමන් ගත් පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීම සහ පෑලියගොඩ පොලිස් වසමේ 2025.08.19 දින සිදු කළ වෙඩි තැබීමක් සදහා යොදා ගත් ගිනි අවි සැපයීම සිදු කර එදිනම ඩුබායි බලා මෙරටින් පළා ගොස් තිබූ අතර මොහුට එරෙහිව ගුවන් ගමන් තහනමක් ද පනවා තිබුණි .
+
+...
+
+[Data](articles/949566ff.json)
+
+---
+
+### මධ්‍යම පරිසර අධිකාරියත් “ගව්පේ”ට වහ වැටෙයි
+
+*2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/101-680533) · `si`
+
+මධ්‍යම පරිසර අධිකාරිය “ගව්පේ (GovPay) රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව” සමඟ එක්ව කටයුතු කිරීම ආරම්භ කර තිබේ.
+
+ඒ අනුව මධ්‍යම පරිසර අධිකාරිය විසින් සපයනු ලබන විවිධ සේවාවන් සඳහා සියලු ගෙවීම් “GovPay" රාජ්‍ය ඩිජිටල් වේදිකාව” ඔස්සේ ගෙවීමට පහසුකම් සැනසෙනු ඇත.
+
+මධ්‍යම පරිසර අධිකාරිය මගින් සපයනු ලබන සේවාවලට අදාළ ක්ෂේත්‍ර වල පරීක්ෂණ ගාස්තු (Inspection Fees), බලපත්‍ර ගාස්තු (License Fees), ක්‍රියාත්මක කිරීමේ ගාස්තු (Processing Fees), අපනයනය සඳහා බාසල් එකඟතා ලබාදීමේ ගාස්තු (Basel Export Consent Fees), සහතික කිරීමේ ගාස්තු (Certificate Fees), පරිපාලන ගාස්තු (Administration Fees), ලියාපදිංචි ගාස්තු (Registration Fees), වාර්ෂික ගාස්තු (Annual Fees), රසායනාගාර ගාස්තු (Laboratory  Fees), අපද්‍රව්‍ය බැහැර කිරීමේ ගාස්තු (Waste Disposal Fees), ප්‍රසම්පාදන ගාස්තු (Procurement Fees), ජාතික පාරිසරික තොරතුරු මධ්‍යස්ථානයට අදාළ ගාස්තු (NEIC Payments) සහ විභාග ගාස්තු (Exam Fees) යන සේවා වර්ගවලට අයත් සියලු ගාස්තු “GovPay රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව”  ඔස්සේ ගෙවිය හැකි බව මධ්‍යම පරිසර අධිකාරිය කියයි.
+
+...
+
+[Data](articles/bd6a4b95.json)
+
+---
+
 ### Central Environmental Authority also shines to "goejo
 
 *2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/1-680533) · `si`
@@ -783,6 +891,24 @@ Thus, those who work outdoors are advised to wear light clothes, relax in shadow
 
 ---
 
+### කෝටි 10ක් වංචා කළ දෙන්නෙක් අල්ලයි
+
+*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-10ක-වච-කළ-දනනක-අලලය/101-680532) · `si`
+
+2024  "උරුමය"  වැඩසටහන යටතේ බව පවසා ඔප්පු නොමැති ඉඩම් සඳහා ස්ථීර ඔප්පු ලබාදෙන බව පොරොන්දු වී රුපියල් කෝටි 10 කට ආසන්න මුදලක් වංචා කර සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් සැකකරුවකු සහ සැකකාරියක්  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලයය කියයි.
+
+සැකකරු  මෙම මුදල් වංචා කර ඇති සිරිකොත මූලස්ථානයට  සහ කොළඹ ප්‍රසිද්ධ හෝටලයකට කැඳවා බව පොලිසිය සඳහන් කරයි.
+
+අත්අඩංගුවට ගත් 43 හැවිරිදි  සැකකාරිය බකමූණ ප්‍රදේශයේ පදිංචිකාරියක් වන අතර කිරිබත්ගොඩ ප්‍රදේශයේ තාවකාලිකව ලැඟුම්හලක පදිංචිව සිට ඇති අතර සැකකරු 55 හැවිරිදි  මහරගම පදිංචිකරුවෙකි.
+
+සැකකාරිය කල්මුණේ ප්‍රදේශයේ ව්‍යාපාරිකයන් 164 දෙනෙකුට උරුමය වැඩසටහන යටතේ ඔප්පු නොමැති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබා දෙන බවට පවසා තමා නීතිඥවරියක් වශයෙන්ද ඔවුන් වෙත හඳුන්වමින් ව්‍යාපාරිකයන් රවටා එක් පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ හයක මුදලක් ලබාගෙන ඇති බවට සිදු කරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇතැයි පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/16205c94.json)
+
+---
+
 ### Two crores were arrested
 
 *2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-10ක-වච-කළ-දනනක-අලලය/1-680532) · `si`
@@ -820,6 +946,24 @@ Meanwhile, there will be showers at several places in the sea areas off the coas
 [Data](articles/62874de4.json)
 
 [Extended Data](ext_articles/62874de4.ext.json)
+
+---
+
+### අද කාලගණය
+
+*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680531) · `si`
+
+බස්නාහිර ,සබරගමුව පළාත්වල ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල අද (01) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද එම දෙපාර්තමේන්තුව කියයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+මේ අතර කොළඹ සිට ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති විය හැකිය. සුළං නිරිත දෙසින් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40 පමණ බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c64bb266.json)
 
 ---
 
@@ -1864,157 +2008,5 @@ However, petrol octane 92 (Rs. 299) and Lanka Super Diesel prices (313) is uncha
 [Data](articles/8de56917.json)
 
 [Extended Data](ext_articles/8de56917.ext.json)
-
----
-
-### Japan's parliamentary lease meets President
-
-*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/101-680529) · `si`
-
-A breakfast was held on behalf of President Anura Kumara Dissanayake on an invitation on an invitation to the Japanese official in the Imperial Hotel in Tokyo. The banquet was organized by the Japanese League of Japan.
-
-JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to further strengthening the cooperation between members of the two parliament.
-
-They also said that the two countries will strengthen cooperation through political, economic and cultural fields through political, economic and cultural areas.. The Sri Lanka Parliamentary League was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
-
-◼️
-
-[Data](articles/37e5e238.json)
-
-[Extended Data](ext_articles/37e5e238.ext.json)
-
----
-
-### Japan's parliamentary lease meets President
-
-*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/1-680529) · `si`
-
-A breakfast was held on behalf of President Anura Kumara Dissanayake on an invitation on an invitation to the Japanese official in the Imperial Hotel in Tokyo. The banquet was organized by the Japanese League of Japan.
-
-JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to further strengthening the cooperation between members of the two parliament.
-
-They also said that the two countries will strengthen cooperation through political, economic and cultural fields through political, economic and cultural areas.. The Sri Lanka Parliamentary League was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
-
-◼️
-
-[Data](articles/46b79d60.json)
-
-[Extended Data](ext_articles/46b79d60.ext.json)
-
----
-
-### There is a wider conversation to children-adult welfare
-
-*2025-09-30 23:01:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-සබ-සධනයට-පළල-සවදයක-ඕන/101-680528) · `si`
-
-Opposition Leader Sajith Premadasa says the World Children's Day and Adult Day greetings that the Leader of the Opposition should go to a broad discussion on what needs to be done on the Children's Day and the Elderly Day.
-
-The International Children's Day and the International Adult Day will be held at the same day of the year.
-
-'Today's child is an adult tomorrow.' This is that we give us a good understanding of children and falsehood. Children's security is the well-being of society. Adults who give the well-being of society are the civilians marking the precedents of a country. It is the responsibility of those who seek the good existence of a country to take care of protection of both parties and their responsibilities and accountability for them.
-
-We inherited the guidance of four major religious teachings of our society values. We have shown that our responsibility is our responsibility in all these religious guidance as well as the child and adult.
-
-...
-
-[Data](articles/39727751.json)
-
-[Extended Data](ext_articles/39727751.ext.json)
-
----
-
-### There is a wider conversation to children-adult welfare
-
-*2025-09-30 23:01:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-සබ-සධනයට-පළල-සවදයක-ඕන/1-680528) · `si`
-
-Opposition Leader Sajith Premadasa says the World Children's Day and Adult Day greetings that the Leader of the Opposition should go to a broad discussion on what needs to be done on the Children's Day and the Elderly Day.
-
-The International Children's Day and the International Adult Day will be held at the same day of the year.
-
-'Today's child is an adult tomorrow.' This is that we give us a good understanding of children and falsehood. Children's security is the well-being of society. Adults who give the well-being of society are the civilians marking the precedents of a country. It is the responsibility of those who seek the good existence of a country to take care of protection of both parties and their responsibilities and accountability for them.
-
-We inherited the guidance of four major religious teachings of our society values. We have shown that our responsibility is our responsibility in all these religious guidance as well as the child and adult.
-
-...
-
-[Data](articles/efeb842b.json)
-
-[Extended Data](ext_articles/efeb842b.ext.json)
-
----
-
-### A full-child world of children - an honorable society for adults
-
-*2025-09-30 22:55:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවනට-පරණ-ළම-ලවක-වඩහටයනට-ගරවනය-සමජයක/101-680527) · `si`
-
-Prime Minister Dr. Haraini Amarasuriya says that children is maximized to a good life for a perfect childhood and adults to live a good life for the elders.
-
-I am delighted to be greeted by the Prime Minister as a Prime Minister for World Children's Day to celebrate "Love - Lovely - World Children's World. The life of a country is children. Our role is to build a perfect child's world.
-
-The government is entitled to the children as a country with nearly 31% of the population. Understanding the responsibility, our government is committed to giving them the children's childhood, closing to children's safety for children's protection.
-
-The government has already begun the task of perfecting the economic, social and mentally secure and mentally secure and mentally safe and mentally secure and mentally safe and mentally safe and mentally safe and mentally protected.
-
-...
-
-[Data](articles/79b8dbc4.json)
-
-[Extended Data](ext_articles/79b8dbc4.ext.json)
-
----
-
-### A full-child world of children - an honorable society for adults
-
-*2025-09-30 22:55:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවනට-පරණ-ළම-ලවක-වඩහටයනට-ගරවනය-සමජයක/1-680527) · `si`
-
-Prime Minister Dr. Haraini Amarasuriya says that children is maximized to a good life for a perfect childhood and adults to live a good life for the elders.
-
-I am delighted to be greeted by the Prime Minister as a Prime Minister for World Children's Day to celebrate "Love - Lovely - World Children's World. The life of a country is children. Our role is to build a perfect child's world.
-
-The government is entitled to the children as a country with nearly 31% of the population. Understanding the responsibility, our government is committed to giving them the children's childhood, closing to children's safety for children's protection.
-
-The government has already begun the task of perfecting the economic, social and mentally secure and mentally secure and mentally safe and mentally secure and mentally safe and mentally safe and mentally safe and mentally protected.
-
-...
-
-[Data](articles/7ed290fb.json)
-
-[Extended Data](ext_articles/7ed290fb.ext.json)
-
----
-
-### Dedicate child-comment right
-
-*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-අයතය-රකනන-කපවනව/101-680526) · `si`
-
-President Anura Kumara Dissanayake issued a greetings for the World Children's Day and Adult Day.
-
-World Children's Day and Adult Day are today. Child and Adult representation in a country's population. We are fully dedicated to the rights and well-being of these generations, and we continue to work for the well-being of children and adults.
-
-The future of the world as well as the future of the world is the parasion. Extremely beautifully beautiful because their world is a genuine and tiny world. It is the responsibility of a community to have the opportunity to enjoy the beauty. As a government realized that you are creating their duties and responsibilities with rights, we are always committed to secure and establish child rights. Also, we are able to interact with the intervention of promoting child rights, rather than who is the child.
-
-...
-
-[Data](articles/f5be7320.json)
-
-[Extended Data](ext_articles/f5be7320.ext.json)
-
----
-
-### Dedicate child-comment right
-
-*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-අයතය-රකනන-කපවනව/1-680526) · `si`
-
-President Anura Kumara Dissanayake issued a greetings for the World Children's Day and Adult Day.
-
-World Children's Day and Adult Day are today. Child and Adult representation in a country's population. We are fully dedicated to the rights and well-being of these generations, and we continue to work for the well-being of children and adults.
-
-The future of the world as well as the future of the world is the parasion. Extremely beautifully beautiful because their world is a genuine and tiny world. It is the responsibility of a community to have the opportunity to enjoy the beauty. As a government realized that you are creating their duties and responsibilities with rights, we are always committed to secure and establish child rights. Also, we are able to interact with the intervention of promoting child rights, rather than who is the child.
-
-...
-
-[Data](articles/f765f209.json)
-
-[Extended Data](ext_articles/f765f209.ext.json)
 
 ---

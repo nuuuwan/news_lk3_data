@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 06:00:56**
+As of **2025-10-01 06:27:36**
 
 ## Newspaper Stats
 
-*Scraped **80,031** Articles*
+*Scraped **80,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,11 +15,11 @@ bbccomsinhala | 714
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,757
-islandlk | 4,851
+islandlk | 4,861
 dailyftlk | 5,611
-adalk | 7,699
+adalk | 7,700
 adaderanalk | 10,318
-tamilmirrorlk | 11,955
+tamilmirrorlk | 11,956
 virakesarilk | 13,074
 adaderanasinhalalk | 13,832
 
@@ -27,11 +27,31 @@ adaderanasinhalalk | 13,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,031 (100.0%) of 80,031 articles have been extended.
+80,031 (100.0%) of 80,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### ஜோதிட நிலையம் சுற்றிவளைப்பு: இந்தியர்கள் மூவர் கைது
+
+*2025-10-01 04:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோதிட-நிலையம்-சுற்றிவளைப்பு-இந்தியர்கள்-மூவர்-கைது/175-365562) · `ta`
+
+சுற்றுலா வீசா மூலம் இலங்கை வந்த இந்தியர்கள் நடத்திய சட்டவிரோத ஜோதிட நிலையம் யாழ்ப்பாணம், பருத்தித்துறை பொலிஸாரால் நேற்று சுற்றி வளைக்கப்பட்டதுடன், மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+பருத்தித்துறை தும்பளை வீதியில் இந்த சட்டவிரோத ஜோதிட நிலையம் அமைத்து இயங்கி வந்துள்ளது.
+
+இந்த விடயம் தொடர்பாக தும்பளை பிரிதேச கிராம அலுவர் பருத்தித்துறை நகரசபை தவிசாளரின் கவனத்திற்கு கொண்டு சென்றுள்ளார்.
+
+இதனையடுத்து, நேற்று பருத்தித்துறை நகர பிதா நேரில் சென்று அவதானித்து மேற்படி  இந்தியர்களை வெளியேறுமாறு அறிவுறுத்தியுள்ளார்.
+
+ஆனாலும்,  தொடர்ந்தும் ஜோதிட நிலையம் இயங்கி வந்ததை அடுத்து நகரபிதா வின்சன் டீ டக்ளஸ் போல் பருத்தித்துறை பொலிஸாருக்கு தகவல் வழங்கியதை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் இந்தியப் பிரஜைகளன் கடவுச் சீட்டை பரிசோதனை செய்த போது , அவர்கள்  மூவரும் சுற்றுலா வீசாவில் நாட்டிற்குள் வந்துள்ளமை தெரியவத்தது.
+
+◼️
+
+[Data](articles/b079ab23.json)
+
+---
 
 ### Ambewela unveils exclusive premier consumer promotion
 
@@ -379,6 +399,82 @@ The phrase 'today's children's day' gives us a good understanding of children an
 
 ---
 
+### Pine Labs Credit+ platform powers a secure and scalable multi-currency prepaid forex instrument for Bank of Ceylon
+
+*2025-10-01 00:05:00* · [`islandlk`](http://island.lk/pine-labs-credit-platform-powers-a-secure-and-scalable-multi-currency-prepaid-forex-instrument-for-bank-of-ceylon/) · `en`
+
+Global fintech platform, Pine Labs Limited today announced its partnership with Bank of Ceylon in Sri Lanka. This banking-fintech partnership will enable the bank to issue and manage prepaid multi-currency travel cards to its customers. Powered by Pine Labs Limited’s Credit+ platform, the card issuance technology for the bank built on modular architecture will offer an integrated issuing stack for the bank for issuance of these cards at scale and adhere to the security requirements. This card is a physical card which is issued under the Mastercard scheme and allows Bank of Ceylon to cater to an overseas traveler’s foreign exchange requirements.
+
+...
+
+[Data](articles/11c3d1bc.json)
+
+---
+
+### Aitken Spence Travels South Asia’s Best
+
+*2025-10-01 00:04:00* · [`islandlk`](http://island.lk/aitken-spence-travels-south-asias-best/) · `en`
+
+Aitken Spence Travels once again demonstrated its industry leadership by winning South Asia’s Best Inbound Travel Agent and Best Cruise Travel Agent for the third consecutive year at the 9th annual South Asian Travel Awards (SATA), held recently at a glittering gala in Colombo, Sri Lanka.
+
+In addition, SATA honoured the late Chairman, Deshamanya D.H. S. (Harry) Jayawardena, with the prestigious ‘Faces of South Asia’ recognition award for his invaluable contribution to Sri Lanka’s tourism and hospitality industry.
+
+SATA is one of the region’s most prominent platforms celebrating excellence and innovation in tourism, attracting over 500 nominations this year from across Sri Lanka, Maldives, Bangladesh, Bhutan, Nepal, and India. The awards span a wide spectrum of categories, from leading beach resorts to adventure and sports operators, showcasing the diverse strengths of South Asia’s travel sector.
+
+...
+
+[Data](articles/739b7269.json)
+
+---
+
+### Sri Lanka’s PR agency Mark and Comm joins GlobalCom PR network
+
+*2025-10-01 00:03:00* · [`islandlk`](http://island.lk/sri-lankas-pr-agency-mark-and-comm-joins-globalcom-pr-network/) · `en`
+
+Mark and Comm, Sri Lanka’s leading boutique public relations and communications agency, today announced its membership in the prestigious GlobalCom PR Network, joining an association of over 80 independent PR agencies operating across more than 100 countries worldwide.
+
+This strategic affiliation positions Mark and Comm as representative of GlobalCom PR Network in Sri Lanka, delivering enhanced international communications services to its clients while providing GlobalCom PR Network members with direct access to Sri Lanka’s dynamic and rapidly evolving market through Mark and Comm’s decade-plus expertise and deep local insights. Mark and Comm also has non-exclusive affiliations with two of the world’s leading PR agencies with strong presence in the APAC region.
+
+Pine Labs Credit+ platform powers a secure and scalable multi-currency prepaid forex instrument for Bank of Ceylon
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/c096f333.json)
+
+---
+
+### Profit-takings prior to pick-up at share market; indices rise
+
+*2025-10-01 00:02:00* · [`islandlk`](http://island.lk/profit-takings-prior-to-pick-up-at-share-market-indices-rise/) · `en`
+
+CSE activities yesterday started with profit- takings but later began to pick up due to buying interest noted among select firms stemming from the low interest rate regime.
+
+The All Share Price Index rose by 102.3 points while S and P SL20 rose by 8.4 points. Turnover stood at Rs 6.3 billion with seven crossings.
+
+...
+
+[Data](articles/d2e3e821.json)
+
+---
+
+### Sonali Ranasinghe becomes TAASL’s first-ever female President
+
+*2025-10-01 00:00:00* · [`islandlk`](http://island.lk/sonali-ranasinghe-becomes-taasls-first-ever-female-president/) · `en`
+
+At the landmark 50th Annual General Meeting of the Travel Agents Association of Sri Lanka (TAASL), held on 9th September aboard the Genting Dream Cruise, history was made when Sonali Ranasinghe, Chief Operating Officer of Delair Travels of the Delmege Group, was appointed as the first female President of TAASL.
+
+This milestone is a moment of immense pride for the Delmege Group, which is celebrating 175 years of business excellence in 2025. It reflects the Group’s ongoing commitment to investing in talent, empowerment, and professional development, while further strengthening its leadership across diverse industries.
+
+With over 30 years of experience in the travel industry, Sonali brings a wealth of expertise, insight, and leadership to her new role. Her tacit knowledge and proven track record positions her to not only guide TAASL effectively but also to chart a bold course for growth and innovation in the sector.
+
+...
+
+[Data](articles/6383ef47.json)
+
+---
+
 ### 2025-09-30 (Tuesday)
 
 ### First Jayara Jaya to the Indian Women's Team
@@ -458,6 +554,26 @@ The President, who has always expressed his views on the uniqueness of Buddhist 
 [Data](articles/8e5d3818.json)
 
 [Extended Data](ext_articles/8e5d3818.ext.json)
+
+---
+
+### ඉන්ධන වර්ග තුනක මිල පහළට
+
+*2025-09-30 23:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-වර්ග-තුනක-මිල-පහළට/11-418827) · `si`
+
+මිල සූත්‍රයට අනුව අද (30) මධ්‍යම රාත්‍රී ඉන්ධන වර්ග තුනක මිල  සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+
+ඒ අනුව ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 06කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 277කි.
+
+ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 06කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 335ක් වෙයි.
+
+ලංකා භූමිතෙල් මිල ද රුපියල් 05කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 180කි.
+
+කෙසේ වෙතත් පෙට්‍රල්  ඔක්ටේන් 92(රු. 299) සහ ලංකා සුපර් ඩීසල් මිල (313)නොවෙනස්ව පවතින බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/8de56917.json)
 
 ---
 
@@ -1245,6 +1361,22 @@ Ravi Seneviratne, who addressed the election campaign of the Janatha Vimukthi Pe
 
 ---
 
+### President invites Japanese business community to explore Sri Lanka’s emerging economic opportunities
+
+*2025-09-30 18:30:00* · [`islandlk`](http://island.lk/president-invites-japanese-business-community-to-explore-sri-lankas-emerging-economic-opportunities/) · `en`
+
+President Anura Kumara Dissanayake invited the Japanese business community to join in exploring the emerging economic opportunities in Sri Lanka, while further strengthening bilateral trade and investment relations between Japan and Sri Lanka and encouraging private sector participation.
+
+The President made these remarks on Monday (29) while addressing the Japan–Sri Lanka Business Forum held at the headquarters of the Japan External Trade Organization (JETRO).
+
+The event was attended by nearly 200 senior members of Japan’s business community and was jointly organised by JETRO, the Ministry of Economy, Trade and Industry of Japan (METI), the Embassy of Sri Lanka in Japan, the Japan–Sri Lanka Business Cooperation Committee and the Board of Investment of Sri Lanka (BOI).
+
+...
+
+[Data](articles/8adc60bf.json)
+
+---
+
 ### Point out in the US State Department report
 
 *2025-09-30 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226512) · `ta`
@@ -1848,179 +1980,5 @@ University students staged a demonstration on Tuesday (30) in front of the Unive
 [Data](articles/054a4426.json)
 
 [Extended Data](ext_articles/054a4426.ext.json)
-
----
-
-### Sri Lanka inflation rise 2.3-pct over 36-months to August 2025, food deflates
-
-*2025-09-30 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rise-2-3-pct-over-36-months-to-august-2025-food-deflates-242288/) · `en`
-
-ECONOMYNEXT – Sri Lankas inflation rose 1.5 percent in the 12-months to August and only 2.3 percent over 36 months, since the central bank’s deflationary policy started to show in the balance of payments, official data shows.
-
-Sri Lanka’s economy grew 4.9 percent in second quarter of 2025, above growth projections by the International Monetary Fund, as the remarkably lower inflation and exchange rate stability.
-
-The central bank has missed its high 5 percent inflation target lifting the customary the burden of inflation from hardworking families allowing annual salary hikes to be real, and making investment and construction costs predictable as it was before the central bank was created.
-
-Sri Lanka’s inflation is also helped by better US monetary policy with commodity prices easing from around the second half of 2022 after the US hiked rates.
-
-Better US policy has helped global inflation. The US has started cutting rates but slowly.
-
-...
-
-[Data](articles/afd5b49a.json)
-
-[Extended Data](ext_articles/afd5b49a.ext.json)
-
----
-
-### Sampath Manampehi Warrants
-
-*2025-09-30 17:00:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමපත-මනමපරට-වරනත/101-680508) · `si`
-
-Colombo High Court Judge Rasanthana Godawela was issued today (30) a warrant to the arrest of rice lorry.
-
-The judge issued such warrants as he did not contest the suspect in the Colombo High Court against the suspect of hiding two ice containers in Middeniya.
-
-The Attorney General has been prosecuted against the defendants under the general objective of the Narahenpita junction on the 12th of August 2009.
-
-Sampath Manamperi and Neranjan Perera have filed a prosecuted against four defendants.
-
-Attorney-at-Law Kalpariya, who appeared for the Man Sampath Manamperi, appeared for the Man Sampath Manamperi, informed that his client was in connection with the other case.
-
-Was informed that the imprisoned. Accordingly, the High Court judge ordered the prison as a report on the accused.
-
-Attorney at Law Rahul Jayatilleke, who appeared for the fourth accused, Najan Perera, informed the Matara Magistrate's Court in connection with the sale of ice.
-
-...
-
-[Data](articles/4224c6d4.json)
-
-[Extended Data](ext_articles/4224c6d4.ext.json)
-
----
-
-### Sampath Manampehi Warrants
-
-*2025-09-30 17:00:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමපත-මනමපරට-වරනත/1-680508) · `si`
-
-Colombo High Court Judge Rasanthana Godawela was issued today (30) a warrant to the arrest of rice lorry.
-
-The judge issued such warrants as he did not contest the suspect in the Colombo High Court against the suspect of hiding two ice containers in Middeniya.
-
-The Attorney General has been prosecuted against the defendants under the general objective of the Narahenpita junction on the 12th of August 2009.
-
-Sampath Manamperi and Neranjan Perera have filed a prosecuted against four defendants.
-
-නඩුව කැඳවූ අවස්ථාවේ විත්තිකාර සම්පත් මනම්පේරි නැමැත්තා වෙනුවෙන් පෙනී සිටි නීතිඥ කල්ප පෙරේරා මහතා කරුණු දක්වමින් තම සේවාදායකයා වෙනත් නඩුවකට අදාළව මේ වන විට රිමාන්ඩ් බාරයේ පසුවන හෙයින් අදදින අධිකරණයට පැමිණ නැතැයි දැනුම් දුන්නේය.
-
-Was informed that the imprisoned. Accordingly, the High Court judge ordered the prison as a report on the accused.
-
-Attorney at Law Rahul Jayatilleke, who appeared for the fourth accused, Najan Perera, informed the Matara Magistrate's Court in connection with the sale of ice.
-
-...
-
-[Data](articles/9c13fbdd.json)
-
-[Extended Data](ext_articles/9c13fbdd.ext.json)
-
----
-
-### Colombo student objection blooms bloom in Colombo
-
-*2025-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215184) · `si`
-
-Roads protest against university student objection is blocked for vehicle traffic in front of the University Grants Commission.
-
-◼️
-
-[Data](articles/3a016bc8.json)
-
-[Extended Data](ext_articles/3a016bc8.ext.json)
-
----
-
-### Ex-SLPP Candidate Manamperi Admits Supplying Guns For Kajja’s Murder
-
-*2025-09-30 16:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ex-slpp-candidate-manamperi-admits-supplying-guns-for-kajja%e2%80%99s-murder) · `en`
-
-COLOMBO (News 1st); Former Sri Lanka Podujana Peramuna local government candidate Sampath Manamperi has confessed to providing the firearm used in the brutal killing of Meegasare' Kajja and his two children.
-
-Manamperi further revealed that he leveraged political influence and connections within security agencies to operate as a key distributor in Backhoe Saman’s drug trafficking network, while also facilitating the transportation of firearms.
-
-Former Sri Lanka Podujana Peramuna (SLPP) local government candidate Sampath Manamperi has revealed that he transported firearms used in several murders in the South.
-
-He admitted that he supplied the gun used in the killing of Kajja and his two children.
-
-On the night of February 18, Aruna Widanagamage, also known as Meegasare' Kajja, was shot dead while traveling on a motorcycle with his two children.
-
-The suspects in this triple murder include Backhoe Saman, and Tembili Lahiru who were later arrested in Indonesia,
-
-...
-
-[Data](articles/35dfcbd4.json)
-
-[Extended Data](ext_articles/35dfcbd4.ext.json)
-
----
-
-### Vance says US ‘headed to a shutdown’ after meeting with Democrats
-
-*2025-09-30 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113083/vance-says-us-headed-to-a-shutdown-after-meeting-with-democrats) · `en`
-
-U.S. President Donald Trump and his Democratic opponents appeared to make little progress at a White House meeting aimed at heading off a government shutdown that could disrupt a wide range of services as soon as Wednesday.
-
-Both sides emerged from the meeting saying the other would be at fault if Congress fails to extend government funding beyond a Tuesday midnight deadline (0400 GMT Wednesday).
-
-“I think we’re headed to a shutdown,” Vice President JD Vance said.
-
-Democrats say any agreement to extend that deadline must also preserve expiring health benefits, while Trump’s Republicans insist health and government funding must be dealt with as separate issues.
-
-Senate Democratic Leader Chuck Schumer said the two sides “have very large differences.”
-
-...
-
-[Data](articles/60aac162.json)
-
-[Extended Data](ext_articles/60aac162.ext.json)
-
----
-
-### Former State Minister Prasanna Ranaweera arrested
-
-*2025-09-30 16:39:17* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-ඇමති-ප්‍රසන්න-රණවීරට-ඇප/11-418824) · `si`
-
-Former State Minister Prasanna Ranaweera has released on bail.
-
-The case was taken out by the Gampaha High Court today (30).
-
-◼️
-
-[Data](articles/ab77b299.json)
-
-[Extended Data](ext_articles/ab77b299.ext.json)
-
----
-
-### Nataraja Raviraj's assassination: Sampath Manamberi is not a witness - Sri Lanka PA
-
-*2025-09-30 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226501) · `ta`
-
-Sampath Manamperi Natarajah, a former member of the PA, who has been arrested as a suspect in the drug affair, is not a suspect in the murder of the Raviraj, and has not been sued by the witness and the general secretary of the Sri Lanka PA.
-
-Thousands of people appeared in the election on behalf of our party. He said that we do not know the background of all of them.
-
-Question; Sampath Manamberi, a former member of the Sri Lanka Peoples Freedom Alliance (PA), has been arrested on the raw material for the production of the IPO products in various parts of the country.
-
-This person has long been working with the PA.. What do you say about this?
-
-Answer; President Anura Kumara Dissanayake has stated that human beings cannot be taken into the party. We don't know their background.
-
-Question; Will you join the party without examining one's background and give them a nomination?
-
-...
-
-[Data](articles/b56487ec.json)
-
-[Extended Data](ext_articles/b56487ec.ext.json)
 
 ---

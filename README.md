@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 12:39:30**
+As of **2025-10-01 12:24:41**
 
 ## Newspaper Stats
 
-*Scraped **80,133** Articles*
+*Scraped **80,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,707
+adalk | 7,704
 adaderanalk | 10,324
 tamilmirrorlk | 11,967
 virakesarilk | 13,085
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,130 (100.0%) of 80,133 articles have been extended.
+80,130 (100.0%) of 80,130 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,22 +108,6 @@ At this meeting also discussed the policy decisions related to the inclusion of 
 [Data](articles/f3c84246.json)
 
 [Extended Data](ext_articles/f3c84246.ext.json)
-
----
-
-### තේ අපනයනකරුවන්ට VAT බියක් රු.බිලියන 5.7ක අමතර බරක්?
-
-*2025-10-01 11:08:48* · [`adalk`](https://www.ada.lk/business/තේ-අපනයනකරුවන්ට-VAT-බියක්-රු-බිලියන-5-7ක-අමතර-බරක්-/7-418836) · `si`
-
-ලංකාවේ තේ කර්මාන්තය පුරාම වැට් (VAT) බද්ද සම්බන්ධයෙන් දැඩි අවිනිශ්චිතතාවක් හටගෙන තිබේ. 2025 ඔක්තෝබර් 01 දින සිට SVAT (Suspended VAT) ක්‍රමය අහෝසි වීමත් සමඟ ඇතිවන ගැටළු, විශේෂයෙන්ම මුදල් ප්‍රවාහයේ (Cash Flow) අර්බුද සහ තේ මිල පහත වැටීමේ අවදානම හේතුවෙන් සමස්ත තේ සැපයුම් දාමයම දැඩි කනස්සල්ලට පත්ව ඇත.
-
-කොළඹ තේ වෙන්දේසියේදී සතියකට සාමාන්‍යයෙන් තේ කිලෝග්‍රෑම් මිලියන 5ත් 6ත් අතර ප්‍රමාණයක් අලෙවි වේ. පවතින සාමාන්‍ය වෙන්දේසි මිල ගණන් අනුව, තේ අලෙවිය සඳහා පැනවෙන 18%ක වැට් බද්ද මාසිකව රුපියල් බිලියන 4ක් පමණ වේ. ගෝලීය තේ වෙළෙඳපොළේ පවතින දැඩි තරගකාරිත්වය නිසා, බොහෝ තේ අපනයන සමාගම් ක්‍රියාත්මක වන්නේ ඉතා අඩු ලාභ ආන්තිකය මතයි.
-
-මේ නිසා, වැට් බද්ද පැනවීමෙන් ඇතිවන අමතර මුදල් අවශ්‍යතා පියවා ගැනීමට ඔවුන්ට බැංකු ණය වෙත යොමුවීමට සිදුවනු ඇත. මෙම අමතර බැංකු ණය සඳහා ගෙවීමට සිදුවන පොලී පිරිවැය මාසිකව රු.මිලියන 480ක් හෙවත් වසරකට රු.මිලියන 5,760ක් (කෝටි 576ක්) පමණ වෙතැයි ඇස්තමේන්තු කර තිබේ.
-
-...
-
-[Data](articles/fce81745.json)
 
 ---
 
@@ -670,24 +654,6 @@ In it, our government is committed to providing proper nutrition for all childre
 [Data](articles/6bcfd69e.json)
 
 [Extended Data](ext_articles/6bcfd69e.ext.json)
-
----
-
-### ජනපති එයි
-
-*2025-10-01 09:53:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-එයි/11-418833) · `si`
-
-ඇමෙරිකාවේ හා ජපානයේ නිල සංචාරයක නිරත වී සිටි ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය සංචාරය නිමා කර 10/01 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය.
-
-ජපානයේ නිල සංචාරයෙහි නිරත වීමට ප්‍රථම ඇමෙරිකාවේ පැවති 80 වැනි එක්සත් ජාතීන්ගේ මහා මණ්ඩල සැසිවාරය සදහා සහභාගී වීමට ගොස් සිටියේය .
-
-ජනාධිපති සමග විදේශ කටයුතු , විදේශ රැකියා සහ සංචාරක ප්‍රවර්ධන අමාත්‍ය විජිත හේරත් මහතා සහ තවත් උසස් රාජ්‍ය නිලධාරීන් කීප දෙනෙකු මෙම සංචාරය සදහා එක් වී සිටියහ .
-
-ඔවුන් 10/01 දින උදෑසන 09.30 ට තායිලන්තයේ බැංකොක් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 403 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-◼️
-
-[Data](articles/bc44f4b4.json)
 
 ---
 
@@ -2016,5 +1982,51 @@ The target of 271 runs was started with Chamari Perera with Sri Lanka's innings.
 [Data](articles/dfe2c6b7.json)
 
 [Extended Data](ext_articles/dfe2c6b7.ext.json)
+
+---
+
+### The wicked people reduce the burden of the derogatory tournament against Nepal
+
+*2025-09-30 23:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215200) · `si`
+
+West Indies won the final Twenty20 match between the Nepal Group and the West Indies by 10 wickets.
+
+However, the Nepalese team was able to win the West Indies West Indies 20th tournament in three matches.
+
+The tournament of the West Indies is the first time ICC is the first time ICC has been defeated by an ICC partial country.
+
+The West Indies captain won the toss and invited the leader of the Nepal to bat first.
+
+Accordingly, the Nepal scored 122 runs for the loss of 15 overs and five overs.
+
+RAMON SIMMONDS took 4 wickets for the West Indies team.
+
+The West Indies were able to pass the 123 runs in the year 12 (12.2) in the match.
+
+◼️
+
+[Data](articles/89b4d825.json)
+
+[Extended Data](ext_articles/89b4d825.ext.json)
+
+---
+
+### Emergency letter to the President
+
+*2025-09-30 23:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்கள்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-365560) · `ta`
+
+The Mahanayaka Thera of the three faculties has written to President Anura Kumara Dissanayake.
+
+In the letter, the Thera said in the letter that if a country's cultural identity, historical heritage and traditional morals were ignored and tried to manage the state on the basis of short spontaneous and blindness, it would lead to anarchy and the fall of the entire community in the country.
+
+In their letter, Thera has informed the President that the amendment to Article 82 of the Penal Code proposed by the present government and the support of the Tourism Development Commission to promote homosexual tourism.
+
+The President, who has always expressed his views on the uniqueness of Buddhist philosophical values ​​and their practical use of stable social development, is expected to pay necessary steps to prevent these immoral activities.. The children's eyes were donated at the discretion of the family. Remble
+
+◼️
+
+[Data](articles/8e5d3818.json)
+
+[Extended Data](ext_articles/8e5d3818.ext.json)
 
 ---

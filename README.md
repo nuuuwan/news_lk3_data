@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 10:56:00**
+As of **2025-10-01 11:08:33**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,841
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,101 (100.0%) of 80,103 articles have been extended.
+80,103 (100.0%) of 80,103 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Acting on information obtained from the suspect, police also arrested another in
 
 [Data](articles/ce2e75db.json)
 
+[Extended Data](ext_articles/ce2e75db.ext.json)
+
 ---
 
 ### Four Luxury SUVs Seized in Customs Evasion Probe
@@ -72,6 +74,8 @@ Authorities have launched a probe to identify and apprehend those involved in th
 ◼️
 
 [Data](articles/951d8455.json)
+
+[Extended Data](ext_articles/951d8455.ext.json)
 
 ---
 

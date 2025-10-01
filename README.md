@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 16:37:58**
+As of **2025-10-01 17:06:04**
 
 ## Newspaper Stats
 
-*Scraped **80,224** Articles*
+*Scraped **80,253** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 534
-lankadeepalk | 580
+lankadeepalk | 586
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -17,21 +17,147 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,717
-adaderanalk | 10,337
-tamilmirrorlk | 11,975
-virakesarilk | 13,108
+adalk | 7,718
+adaderanalk | 10,339
+tamilmirrorlk | 11,978
+virakesarilk | 13,125
 adaderanasinhalalk | 13,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,224 (100.0%) of 80,224 articles have been extended.
+80,232 (100.0%) of 80,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### கண்டி, மாத்தளையில் பொது மக்களின் பாவனைக்கு  வழங்கப்படவுள்ள இரண்டு சுகாதார நல்வாழ்வு மையங்கள்
+
+*2025-10-01 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226608) · `ta`
+
+நாட்டில் வாழும் மக்கள் கண்ணியமான முறையில் சுகாதார சேவையை எளிதில் பெற்றுக்கொள்ளக்கூடிய வகையில் புதிய அரசாங்கத்தின் சுகாதாரக் கொள்கையின் முதல் கட்டத்தின் கீழ், நாடு முழுவதும் ஆயிரம் ஆரம்ப சுகாதார மையங்களை நிறுவ சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சகம் திட்டமிட்டுள்ளது.
+
+அதன்படி, கண்டி, பொல்கொல்லவத்தை கிராமத்தில் இந்த திட்டத்தின் அடிப்படையில்  நான்காவது சுகாதார மற்றும் நல்வாழ்வு மையமும் மாத்தளை, தங்கந்த கிராமத்தில் ஐந்தாவது சுகாதார மற்றும் நல்வாழ்வு மையமும் வியாழக்கிழமை (2) பிற்பகல் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் தலைமையில் அத்துடன் பல சிறப்பு விருந்தினர்களின் பங்கேற்புடன் பொதுமக்களின் பாவனைக்கு வழங்கப்படவுள்ளன.
+
+அதன்படி, கண்டி மாவட்டத்தில் பொல்கொல்லவத்தை சுகாதார மற்றும் நல்வாழ்வு மையம் பிற்பகல் சுகாதார சேவையுடன் இணைக்கப்படும். இதனால் வடேகடகம தெற்கு, வடேகடகம வடக்கு, குன்னப்பன மற்றும் உட குன்னப்பன வடக்கு கிராம மக்கள் கிட்டத்தட்ட ஏழாயிரம் பேர் பயனடைவார்கள்.
+
+...
+
+[Data](articles/7a9e161e.json)
+
+---
+
+### Soldier
+
+*2025-10-01 16:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உயிரை-மாய்த்த-இராணுவ-வீரர்/76-365589) · `ta`
+
+The incident took place on Tuesday (30) in the Meegahamada area of ​​the Moneragala and Badalgamburai police division.
+
+The deceased is 30 -year -old Pradeep Chaturanga from Badalkumburai, Meegahamada.
+
+It has been revealed that a person has been depressed due to unable to repay the loan as a person frequently issued telephone calls to repay the loan.
+
+He came home on vacation on Friday 26th and was found dead at the military camp where he was working and left home and was found dead in a home garden when he was searched for not going to the camp.
+
+The police officer of the Padalgamburai Chintaka Wickramaratne is conducting investigations into the incident.
+
+◼️
+
+[Data](articles/ebb39989.json)
+
+[Extended Data](ext_articles/ebb39989.ext.json)
+
+---
+
+### Student who hit the teacher on the child's day
+
+*2025-10-01 16:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தினத்தன்று-ஆசிரியரை-தாக்கிய-மாணவன்/76-365588) · `ta`
+
+On the International Children's Day (Wednesday 01), a teacher has been admitted to the hospital in the 11th grade of a school in Moneragala.
+
+On the occasion of Children's Day, a celebration event was organized at the school, and when the student was ready to send the students to the main hall to attend, the teacher observed that the student was carrying the power bank of charging the mobile phones in his pocket and inquired where the mobile phone was.
+
+In the meantime, the student was scolded by the teacher and tried to take the teacher in charge of the education sector.
+
+The teacher later informed the Chancellor of the incident and was admitted to the Moneragala District General Hospital for treatment.
+
+◼️
+
+[Data](articles/b190a293.json)
+
+[Extended Data](ext_articles/b190a293.ext.json)
+
+---
+
+### These sworn in as a lawyer in Samara Wales
+
+*2025-10-01 16:24:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මඛල-සදරන-සවතවලසහ-නතඥවරයක-ලස-දවරම-දය/1-680580) · `si`
+
+The Supreme Court Attorney Assurrumuna Arachchige Arachchi was sworn in before the Chief Justice of New Solicitoria in Australia.
+
+Education, who studied at the Mushaus Vidyalaya, Colombo, is studying the soil of Adelayard, Australia, and the colanet lights of the University of London.  After passing the law school exam, the Additional Solicitor General of the Attorney General's Department was completed by Dilrukshi.
+
+Subsequently, the law was sworn in as a soldier with law from the University of the Western Sydney University in Australia.
+
+The former Added Director of the National Planning Department of the Ministry of Finance Ministry of Finance Ministry of National Planning, Secretary of the National Planning Ministry of Finance. Tilakaratne's daughter is.
+
+◼️
+
+[Data](articles/3b5155ae.json)
+
+[Extended Data](ext_articles/3b5155ae.ext.json)
+
+---
+
+### கொழும்பில் வெளிநாட்டு சிகரட்டுகளுடன் சந்தேக நபர் கைது
+
+*2025-10-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226607) · `ta`
+
+கொழும்பு கடற்கரை வீதி பகுதியில் உள்ள கடை ஒன்றில் விற்பனைக்காக வைக்கப்பட்டிருந்த 1,618 வெளிநாட்டு சிகரட்டுகளுடன் சந்தேக நபர் ஒருவர் இலங்கை கடற்படை மற்றும் பொலிஸாரால் செவ்வாய்க்கிழமை (30) கைது செய்யப்பட்டுள்ளார்.
+
+அதன்படி, மேற்கு கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் கெமுனு பிரிவுக்கு கிடைத்த தகவலின் அடிப்படையில் இலங்கை கடற்படை மற்றும் பொலிஸார் இணைந்து நடத்திய சுற்றிவளைப்பின் போது சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு 14 இல் வசிக்கும் 46 வயதுடையவர் என அடையாளம் காணப்பட்டுள்ளார்.
+
+மேலும், சந்தேக நபரும் வெளிநாட்டு சிகரட்டுக்களும் மேலதிக சட்ட நடவடிக்கைகளுக்காக கரையோர பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டன.
+
+◼️
+
+[Data](articles/6f490288.json)
+
+---
+
+### நில அபகரிப்பை நிறுத்துமாறு வலியுறுத்தி திருகோணமலையில் விவசாயிகள் ஆர்ப்பாட்டம்
+
+*2025-10-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226603) · `ta`
+
+“வான்எல – கிண்ணியா நில அபகரிப்பை நிறுத்து” என்ற தொனிப்பொருளில் வான்எல – கிண்ணியா விவசாய அமைப்புகள் சம்மேளனத்தினால் 11 விவசாய சம்மேளனங்களைச் சேர்ந்த விவசாயிகள் இன்று (01) திருகோணமலை கமநல அபிவிருத்தித் திணைக்களத்தின் முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+தமது விவசாய நிலங்களை தமக்கு வழங்கக் கோரியும், நிறுத்தப்பட்டுள்ள மானியப் பசளையை வழங்குமாறு கோரியும் கிண்ணியா பிரதேச செயலாளர் பிரிவுக்குட்பட்ட 5 விவசாய சம்மேளனங்களைச் சேர்ந்த விவசாயிகளும் கந்தளாய் பிரதேச செயலகத்திற்குட்பட்ட 6 விவசாய சம்மேளனங்களைச் சேர்ந்த விவசாயிகளுமே இந்த ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+இந்த ஆர்ப்பாட்டத்தின் பின்னர் கிழக்கு மாகாண ஆளுநரை சந்தித்து கலந்துரையாடியபோது நிறுத்தப்பட்டுள்ள மானியப் பசளையை வழங்குவதற்கு நடவடிக்கை எடுப்பதாகவும் எதிர்வரும் வெள்ளிக்கிழமை குறித்த காணிப் பிரச்சினை தொடர்பாக நிரந்தர தீர்வினை பெற்றுத்தருவதாகவும் ஆளுநர் உறுதி அளித்ததாக பேச்சுவார்த்தையில் ஈடுபட்டிருந்த விவசாய சம்மேளனங்களின் பிரதிநிதிகள் தெரிவித்தனர்.
+
+...
+
+[Data](articles/eb291707.json)
+
+---
+
+### கடற்படையினால் நிறுவப்பட்ட 02 மீள் நீர் சுத்திகரிப்பு நிலையங்கள் பொதுமக்களுக்காக கையளிக்கப்பட்டன
+
+*2025-10-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226605) · `ta`
+
+கடற்படையின் சமூகப் பணித் திட்டத்தின் கீழ், ஜனாதிபதி செயலகத்தின் நிதி பங்களிப்புடன், கடற்படையின் தொழில்நுட்ப மற்றும் கலைத்துவ பங்களிப்புடன், மாத்தளை மாவட்டத்தின் வில்கமுவ பிரதேச செயலகத்தின் வில்கமுவ பிரதேச சபையிலும், இலங்கையில் உள்ள சீன மக்கள் குடியரசின் தூதரகத்தின் நிதி பங்களிப்புடன், அனுராதபுரம் மாவட்டத்தின் மஹாவிலச்சிய பிரதேச செயலகத்தின் ஓயாமடுவ ஸ்ரீ சம்புத்த மைத்ரி விஹாரையிலும் நிறுவப்பட்ட இரண்டு நீர் சுத்திகரிப்பு நிலையங்கள்செப்டெம்பர் 20 ஆம் திகதி பொதுமக்களுக்காக கையளிக்கப்பட்டன.
+
+மேலும், இந்த 02 நீர் சுத்திகரிப்பு நிலையங்களுடன், கடற்படை 1132 நீர் சுத்திகரிப்பு நிலையங்களை நிறுவியுள்ளது, இவ்வாறு பொதுமக்களுக்குத் கையளிக்கப்பட்ட இரண்டு நீர் சுத்திகரிப்பு நிலையங்களும், வில்கமுவ மற்றும் ஒயாமடுவவில் உள்ள ஸ்ரீ சம்புத்த மைத்ரி விஹாரையைச் சுற்றியுள்ள ஏராளமான மக்களின் சுத்தமான குடிநீர்த் தேவைகளை எளிதில் பூர்த்தி செய்ய முடியும்.
+
+...
+
+[Data](articles/1697f53b.json)
+
+---
 
 ### The verdict of polythene
 
@@ -57,6 +183,56 @@ Deputy Solicitor General Dr. Amavan Perera, who appeared on behalf of the respon
 
 ---
 
+### திருட்டு சம்பவத்துடன் தொடர்புடைய பெண்ணை கைதுசெய்ய பொதுமக்களிடம் உதவி கோரல்!
+
+*2025-10-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226604) · `ta`
+
+திருட்டு சம்பவத்துடன் தொடர்புடைய பெண் ஒருவரை கைதுசெய்வதற்கு இறக்குவானை பொலிஸார் பொதுமக்களிடம் உதவி கோரியுள்ளனர்.
+
+இரத்தினபுரியில் இறக்குவானை பொலிஸ் பிரிவுக்கு உட்பட்ட பெலவத்த வீதி, கொடகவெல பிரதேசத்தில் உள்ள வீடொன்றில் இருந்து  03 இலட்சத்து 64 ஆயிரம் ரூபா பெறுமதியான தங்க நகைகள் மற்றும் பொருட்கள் திருடப்பட்டுள்ளதாக இறக்குவானை பொலிஸ் நிலையத்திற்கு ஆகஸ்ட் 24 ஆம் திகதி முறைப்பாடு ஒன்று கிடைத்துள்ளது.
+
+இந்த வீட்டில் தற்காலிகமக தங்கியிருந்த பெண் ஒருவரே இவ்வாறு திருடியுள்ளதாக என பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+எவ்வாறிருப்பினும் குறித்த பெண் பிரதேசத்தைவிட்டு தப்பிச் சென்று தலைமறைவாக உள்ளதால் பொதுமக்களிடம் உதவி கோரி பொலிஸார், சந்தேக நபரின் புகைப்படத்தை தற்போது வெளியிட்டுள்ளனர்.
+
+இந்த புகைப்படங்களில் உள்ள சந்தேக நபர் தொடர்பில் ஏதேனும் தகவல்கள் கிடைத்தால் இறக்குவானை பொலிஸ் நிலையத்தின் 071 - 8591394 அல்லது 071 - 8593808 என்ற தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொள்ளுமாறு பொலிஸார் பொதுமக்களிடம் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/67fdafac.json)
+
+---
+
+### US government faces brain drain as 154,000 federal workers exit this week
+
+*2025-10-01 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113111/us-government-faces-brain-drain-as-154000-federal-workers-exit-this-week) · `en`
+
+More than 150,000 federal employees will leave the U.S. government payroll this week after accepting buyouts - the largest single-year exodus of civil servants in nearly 80 years, triggering what unions and governance experts warn is a damaging loss of institutional expertise.
+
+The official resignations begin on Tuesday for workers who opted into a deferred exit program that kept them on the payroll through September. The buyouts are a cornerstone of President Donald Trump’s push to shrink the federal workforce, combining financial incentives with threats of dismissal for those who declined the offer.
+
+Many left their agencies months ago, according to the federal government’s HR office, and have effectively been on paid leave.
+
+Don Moynihan, a professor at the Ford School of Public Policy at the University of Michigan, said the biggest impact of this week’s exodus will be the brain drain of so many experienced civil servants, a loss of talent he says will be hard to reverse.
+
+...
+
+[Data](articles/c5367ff1.json)
+
+---
+
+### வருகிறது சிலிசிலி வரி
+
+*2025-10-01 15:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருகிறது-சிலிசிலி-வரி/175-365587) · `ta`
+
+பொலித்தீன் மற்றும் பொலித்தீன் பைகளுக்கு நவம்பர் 1 முதல் கட்டணம் வசூலிக்கும் வகையிலான வர்த்தமானி அறிவிப்பு வெளியிடப்படும் என்று சுற்றுச்சூழல் அமைச்சு, உயர் நீதிமன்றத்தில் புதன்கிழமை (01) அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/75374a92.json)
+
+---
+
 ### Tax for Chillicily Pack
 
 *2025-10-01 15:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிசிலி-பேக்குக்கு-வரி/175-365587) · `ta`
@@ -68,6 +244,78 @@ The Ministry of Environment has announced in the Supreme Court on Wednesday (01)
 [Data](articles/96faea3f.json)
 
 [Extended Data](ext_articles/96faea3f.ext.json)
+
+---
+
+### ஐ. நா. மக்கள் தொகை நிதியத்தின் பொறுப்பதிகாரிக்கும் சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சருக்கிடையில் சந்திப்பு !
+
+*2025-10-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226583) · `ta`
+
+இலங்கை மற்றும் மாலைதீவுக்கான   ஐக்கிய நாடுகளின் மக்கள் தொகை நிதியத்தின் (UNFPA) பொறுப்பதிகாரியான ஃபுன்ட்ஷோ வாங்கியல் ( Phuntsho Wangyel) , சமீபத்தில் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர்  நளிந்த ஜெயதிஸ்ஸவை அமைச்சகத்தில் சந்தித்து, நாட்டின் தற்போதைய சுகாதார சேவை குறித்து கலந்துரையாடினார்.
+
+மேலும்  ஃபுன்ட்ஷோ வாங்கியல் (Phuntsho Wangyel), இலங்கை மற்றும் மாலைதீவுக்கான ஐக்கிய நாடுகளின் மக்கள்தொகை நிதியத்தின் (UNFPA) நாடுகளுக்குரிய பொறுப்பதிகாரியாக செப்டம்பர் 01, 2025 முதல் பணியாற்றுவார் என தெரிவிக்கப்பட்டது.
+
+திட்டமிடல், ஒருங்கிணைப்பு மற்றும் கொள்கை பகுப்பாய்வு ஆகியவற்றில் விரிவான நிபுணத்துவமும் அனுபவமும் கொண்ட  வாங்கே, நாட்டில் சுகாதார சேவை அமைப்பின் கட்டமைப்பின்  தற்போதைய செயல்பாடு மற்றும் எதிர்காலத் திட்டங்கள் மற்றும் எதிர்கொள்ளும் சவால்கள் குறித்து சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர்  நளிந்த ஜெயதிஸ்ஸவுடன் நீண்ட கருத்துப் பரிமாற்ற த்தில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/3efd17ce.json)
+
+---
+
+### இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் பதவி விலக வேண்டும் - பொதுஜன பெரமுன
+
+*2025-10-01 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226558) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய ஆணைக்குழுவின் பணிப்பாளர் நாயகம் மக்கள் விடுதலை முன்னணியின் சட்ட பிரிவில் உறுப்பினராக பதவி வகித்ததாக அக்கட்சியின் முன்னாள் உறுப்பினர் குற்றஞ்சாட்டியுள்ளார்.
+
+ஆணைக்குழுவின் சுயாதீனத்தை கருத்திற்கொண்டு பணிப்பாளர் நாயகம் உடன் பதவி விலக வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் செவ்வாய்க்கிழமை ( செப்டெம்பர் 30) நடைபெற்ற தொகுதி அமைப்பாளர்களுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சட்டவாட்சியை மேற்கொள்வதாக குறிப்பிட்டுக் கொண்டு அரசாங்கம் எதிர்க்கட்சியினரை இலக்குப்படுத்தியுள்ளது. பொலிஸ் திணைக்களம் முறையற்றதாக செயற்படுகிறது.
+
+மக்கள் விடுதலை முன்னணியின் காரியாலயத்தில் அரசியல் செயற்பாட்டாளராக இருந்த சானி அபேசேகர குற்றப்புலனாய்வு திணைக்களத்தில் பணிப்பாளராக நியமிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/1d5fb2b7.json)
+
+---
+
+### சீன அனுசரணையில் தர்கா நகர வைத்தியசாலையில் 3 மாடிகளைக் கொண்ட நோயாளர் பராமரிப்பு வளாகம் திறப்பு !
+
+*2025-10-01 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226553) · `ta`
+
+மருத்துவ உபகரணங்களுக்காக மேலும் ரூ. 50 மில்லியன் வழங்கவும் திட்டமிடப்பட்டுள்ளது. நமது நாடு மற்றைய நாடுகளிடையே நல்ல  அங்கீகாரத்தை  பெற்று வருவதாகவும் அதனால் நட்பு வர்த்தகத்தில் ஈடுபட முடிவு செய்துள்ளதாகவும் சுகாதாரம் மற்றும் வெகுஜன ஊடக அமைச்சர்  நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+சீன அனுசரனையுடன் தெரிவுசெய்யப்பட்ட 13 மருத்துவமனைகளில் சுகாதார வசதிகளை அபிவிருத்தி செய்யும் திட்டத்தின் கீழ், தர்கா நகர பிராந்திய வைத்தியசாலையில் ஒரு பில்லியன் ரூபாய் செலவில் கட்டப்பட்ட மூன்று மாடிகள் கொண்ட நோயாளர்கள் பராமரிப்பு வளாகம் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் தலைமையில் புதன்கிழமை (செப்டெம்பர் 29) திறந்து வைக்கப்பட்டது.
+
+இந்த 03 மாடி கட்டிட தொகுதியில் 04 நோயாளருக்கான படுக்கைகள் கொண்ட அவசர சிகிச்சை பிரிவு, 96 படுக்கைகள் கொண்ட குழந்தைகள் மற்றும் மகப்பேறு வார்டுகள் உட்பட 04 வார்டுகள் மற்றும் வெளிநோயாளர் பிரிவு உட்பட பல துறைகள் உள்ளன. இந்த வார்டு வளாகத்திற்கு தேவையான மருத்துவ உபகரணங்கள் மற்றும் பிற உபகரணங்களை சுகாதார அமைச்சகம் வழங்கவும் திட்டமிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/19fca8ea.json)
+
+---
+
+### Harkey is also a children's day from schools
+
+*2025-10-01 15:36:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පසල-සස-වලයන-ළම-දනයත-හබක/1-680578) · `si`
+
+Three students were injured in a clash between two groups of students in Kantale and one student's status was seriously injured in the World Children's Day Programs.
+
+The three injured students were admitted to the Kantale Base Hospital, the student was transferred to the Batticaloa Teaching Hospital to prevent surgery to prevent the head of the head.
+
+In terms of the 119 emergency number on the incident, the Kantale headquarters was pronounced immediately.. Lakmal Wijeratne and a police team and a team of police commenced investigations into the school.
+
+The criminal laboratory officials came and commenced investigations into the upper floor of the collision building.
+
+◼️
+
+[Data](articles/33b1bbed.json)
+
+[Extended Data](ext_articles/33b1bbed.ext.json)
 
 ---
 
@@ -121,6 +369,22 @@ A 7.0 earthquake in the northwestern Lucon, 15 miles [15 km] in northwestern Luc
 
 ---
 
+### தொழில் சந்தையை இலக்கு வைத்தே அரசாங்கம் தொழிற்கல்வியை ஊக்குவிக்கின்றது - பிரதமர்
+
+*2025-10-01 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226579) · `ta`
+
+மிக வேகமாக அபிவிருத்தி அடைந்து வரும் நவீன உலகின் தொழில் சந்தைக்கு ஏற்றவாறு தொழிற்பயிற்சியைப் பெற்றுக் கொடுப்பதன் முக்கியத்துவத்தை அரசாங்கம் இனங்கண்டுள்ளதாகவும், அதற்கேற்ப தொழில் சந்தையை இலக்கு வைத்து தொழிற்கல்வித் துறையை ஊக்குவித்து வருவதாகவும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் செப்டம்பர் 30 ஆம் திகதி நடைபெற்ற, தேசிய பயிலுநர் கைத்தொழில் பயிற்சி அதிகாரசபையின் (NAITA) மோட்டார் வாகனப் பொறியியல் பயிற்சி நிறுவனம் எனும், ஜப்பான் டெக் கற்கை நெறிகளைப் பூர்த்தி செய்த மாணவர்களுக்கு சான்றிதழ்கள் வழங்கும் விழாவில் கலந்துகொண்டு பிரதமர் இதனைத் தெரிவித்தார்.
+
+இம்முறை இடம்பெற்ற 31ஆவது சான்றிதழ் வழங்கும் விழாவில் பிரதம அதிதியாகக் கலந்துகொண்ட பிரதமர், மோட்டார் வாகனப் பொறியியல் பயிற்சி நிறுவனம் நடத்திய பரீட்சையில் அதிக திறமைகளை வெளிப்படுத்திய மாணவர்களுக்குப் பரிசுகளையும் சான்றிதழ்களையும் வழங்கி வைத்தார்.
+
+...
+
+[Data](articles/e03bbcf0.json)
+
+---
+
 ### Our economy is at a big risk
 
 *2025-10-01 15:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආර්ථිකය-විශාල-අවදානමක-තියෙන්නේ/11-418850) · `si`
@@ -141,6 +405,38 @@ Not going. No one comes back to any political party in society. "
 
 ---
 
+### கடலுக்கு சென்று காணாமல்போன நபரை மூன்றாவது நாளாக தேடும் நடவடிக்கை!
+
+*2025-10-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226590) · `ta`
+
+மூதூரில் இருந்து திங்கட்கிழமை (29) கடலுக்குச் சென்ற இயந்திரப் படகு மீண்டும் கரை திரும்பியபோது விபத்துக்குள்ளானது. இதில் பயணித்த இருவரில் ஒருவர் உயிருடன் மீட்கப்பட்ட நிலையில், மற்றையவர் காணாமல் போயிருந்தார்.
+
+இந்த தேடுதல் நடவடிக்கையில் 50க்கு மேற்பட்ட பொதுமக்களின் இயந்திரப் படகுகளும் சம்பூர் பொலிஸாரும் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/99bba78a.json)
+
+---
+
+### சிறுவர்களின் பாதுகாப்பை உறுதிப்படுத்த அரசாங்கம் முழு அர்ப்பணிப்புடன் செயல்படும் - பிரதமர் ஹரிணி
+
+*2025-10-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226597) · `ta`
+
+சிறுவர்களின் பாதுகாப்பை உறுதிப்படுத்துவதற்கு அரசாங்கம் முழுமையான அர்ப்பணிப்புடன் செயல்படுவதாகவும், சிறுவர் சித்திரவதைக்கு எதிரான சட்டம் என்பது வன்முறைக்கு எதிராகக் கொண்டுவரப்பட்ட சட்டமே தவிர, ஒழுக்கத்திற்கு எதிராகக் கொண்டுவரப்பட்ட சட்டம் அல்ல என்றும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்தார்.
+
+உலக சிறுவர் தினத்தை முன்னிட்டு, மகளிர் மற்றும் சிறுவர் அலுவல்கள் அமைச்சினால் "உலகை வழிநடத்த - அன்பால் எம்மைப் போஷியுங்கள்" எனும் தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்ட சிறுவர் தின விழாவு புதன்கிழமை ( ஒக்டோபர் 01) அலரி மாளிகையில் இடம்பெற்றது.
+
+"நமது நாட்டின் சிறுவர் சனத்தொகையானது எண்ணிக்கை அடிப்படையில் நாட்டின் மக்கள் தொகையில் கிட்டத்தட்ட 31 வீதத்தை பிரதிநிதித்துவப்படுத்துகின்றது. அவர்களுக்காக ஒரு அரசாங்கம் என்ற வகையில் நாம் நிறைவேற்ற வேண்டிய பாரிய பொறுப்பு இருக்கின்றது.
+
+இந்த வருட உலக சிறுவர் தினத்தின் தொனிப்பொருள் "உலகை வழிநடத்த - அன்பால் எம்மைப் போஷியுங்கள்" என்பதாகும். உண்மையிலேயே குழந்தைகளுக்காக நாம் செய்ய வேண்டிய முதன்மையான பணி, அவர்களின் பாதுகாப்பை உறுதிப்படுத்த வேண்டியதே ஆகும்.
+
+...
+
+[Data](articles/de410819.json)
+
+---
+
 ### Laugfs gas prices do not change
 
 *2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලෆ-ගස-මල-වනස-නව/101-680577) · `si`
@@ -154,6 +450,22 @@ The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the pric
 [Data](articles/095c080a.json)
 
 [Extended Data](ext_articles/095c080a.ext.json)
+
+---
+
+### Laugfs gas prices do not change
+
+*2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලෆ-ගස-මල-වනස-නව/1-680577) · `si`
+
+LAUG Niroshan J. Dr. Niroshan J. Mr. Peiris said.
+
+The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the price of a 5,100 cylinder, the price of Rs.
+
+◼️
+
+[Data](articles/77d3b651.json)
+
+[Extended Data](ext_articles/77d3b651.ext.json)
 
 ---
 
@@ -175,6 +487,70 @@ On the last day, a massive fireball struggle was launched by relatives of the mi
 
 ---
 
+### மதுபோதையில் வாகனங்களை செலுத்திய 15 சாரதிகள் கைது!
+
+*2025-10-01 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226596) · `ta`
+
+நாடளாவிய ரீதியில் நேற்று செவ்வாய்க்கிழமை (30) மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது மதுபோதையில் வாகனங்களை செலுத்தியமை தொடர்பில் 15 சாரதிகள் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
+
+இதேவேளை, இந்த விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது, பல்வேறு குற்றச் செயல்கள் தொடர்பில் ஆதாரங்களுடன் 785 பேரும், சந்தேகத்தின் பேரில் 16 பேரும், பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 274 பேரும், திறந்த பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 287 பேரும், கவனக்குறைவாக வாகனங்களை செலுத்தியமை தொடர்பில் 15 சாரதிகளும், ஏனைய போக்குவரத்து விதிமுறைகளை மீறியமை தொடர்பில் 4055 பேரும் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/d51d7092.json)
+
+---
+
+### வடமராட்சியில் சட்டவிரோத கட்டடங்களுக்கு  சிவப்பு எச்சரிக்கை
+
+*2025-10-01 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226591) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி கிழக்கில் சில பிரதேசங்களில் அனுமதியின்றி கட்டப்பட்ட கட்டடங்களுக்கு சிவப்பு அறிவித்தல் சுவரொட்டி ஒட்டப்பட்டுள்ளது.
+
+வத்திராயன், மருதங்கேணி, உடுத்துறை ஆகிய பகுதிகளில் பிரதேச சபையின் அனுமதியின்றி கட்டப்பட்ட கட்டடங்களுக்கு எதிராக பருத்தித்துறை பிரதேச சபையால் சிவப்பு  அறிவித்தல் சுவரொட்டி ஒட்டப்பட்டுள்ளது.
+
+அதில் "பிரதேச சபையின் அனுமதியின்றி தங்களால் மேற்கொள்ளப்படும் கட்டுமான பணிகளை உடன் நிறுத்தவும். மீறினால் சட்ட நடவடிக்கைக்கு உட்படுவீர்கள்" என்று எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6d2ac0fb.json)
+
+---
+
+### Fee to be charged for plastic shopping bags from November?
+
+*2025-10-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113110/fee-to-be-charged-for-plastic-shopping-bags-from-november) · `en`
+
+The Supreme Court has been informed that a gazette notification is expected to be issued by November 1, making it mandatory to charge a fee for plastic shopping bags, so they can no longer be given free of charge by traders.
+
+The announcement by the Minister of Environment and other respondents during the hearing of a fundamental rights petition filed by the Centre for Environmental Justice, which requested a court order to implement a program to reduce the use of polythene due to the environmental damage it causes.
+
+A motion related to the case submitted by the Centre for Environmental Justice was taken up today before a three-judge bench of the Supreme Court comprising Chief Justice Preethi Padman Surasena, Justice Kumudini Wickremasinghe and Justice Sampath Abeykoon.
+
+◼️
+
+[Data](articles/66035117.json)
+
+---
+
+### வடக்கு மாகாணம், யாழ்.மாவட்ட கூட்டுறவு சங்க பிரதிநதிகளுடனான கலந்துரையாடல்
+
+*2025-10-01 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226595) · `ta`
+
+வடக்கு மாகாணம், யாழ். மாவட்ட கூட்டுறவு சங்க பிரதிநதிகளுடனான கலந்துரையாடலொன்று யாழ். மாவட்ட ஒருங்கிணைப்பு அலுவலகத்தில் நடைபெற்றது.
+
+பிரச்சினைகளை தீர்த்துக்கொண்டு கூட்டுறவு கட்டமைப்பை எவ்வாறு வலுப்படுத்துவது, இதற்காக அரசாங்கம் எடுத்துள்ள முடிவுகள் சம்பந்தமாக அமைச்சர் வசந்த சமரசிங்க விளக்கமளித்தார்.
+
+அமைச்சர் இராமலிங்கம் சந்திரசேகர், பாராளுமன்ற உறுப்பினர்களான க.இளங்குமரன், ஸ்ரீ பவானந்தராஜா, யாழ்.மாநகர சபை உறுப்பினர் சு.கபிலன் ஆகியோர் இதில் பங்கேற்றிருந்தனர்.
+
+◼️
+
+[Data](articles/e7a9f1eb.json)
+
+---
+
 ### Children need a goal in front of technology, but no victim is
 
 *2025-10-01 15:13:40* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-තාක්ෂණය-එක්ක-ඉස්සරහට-යන්ඩ-අවශ්‍යයි--නමුත්-එ්කෙ-ගොදුරක්-වෙන්ඩ-බෑ/11-418849) · `si`
@@ -188,6 +564,36 @@ The Child Protection Authority is also the Welimiliarian reporting of a child ab
 [Data](articles/82f0f6a8.json)
 
 [Extended Data](ext_articles/82f0f6a8.ext.json)
+
+---
+
+### இந்தோனேசியாவில் பாடசாலைக் கட்டடம் இடிந்ததில் 3 மாணவர்கள் பலி : 91 பேரைத் தேடும் நடவடிக்கை தீவிரம்!
+
+*2025-10-01 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226594) · `ta`
+
+இந்தோனேசியாவின் கிழக்கு ஜாவா மாகாணத்தில் உள்ள சிடோயர்ஜோ (Sidoarjo) நகரில் இயங்கிவரும் 'அல் கோஜினி' (Al Khoziny) என்ற இஸ்லாமியப் பாடசாலையின் கட்டடம் ஒன்று இடிந்து விழுந்ததில், 3 மாணவர்கள் பலியாகினர். இடிபாடுகளுக்குள் சிக்கியிருக்கும் 91 மாணவர்களைத் தேடும் பணி தொடர்ந்து தீவிரமாக நடைபெற்று வருகிறது.
+
+கட்டடப் பணிகள் நடைபெற்று வந்த ஒரு கட்டடத்தின் கீழ்த்தளத்தில் உள்ள மசூதியில் மாணவர்கள் தொழுகையில் ஈடுபட்டிருந்தபோது, கட்டடத்தின் மேல்தளம் திடீரென இடிந்து விழுந்தது.
+
+99 மாணவர்கள் காயமடைந்த நிலையில், வைத்தியசாலையில் அனுமதிக்கப்பட்டனர். இவர்களில் பலர் தீவிர சிகிச்சை பெறும் நிலையில் உள்ளதால், பலி எண்ணிக்கை அதிகரிக்கக்கூடும் என்ற அச்சம் நிலவுகிறது.
+
+விபத்தில் சிக்கியவர்களில் சுமார் 91 மாணவர்கள் இடிபாடுகளுக்குள் சிக்கியிருப்பதாகக் கருதப்படுகிறது. உள்ளூர் அதிகாரிகளின் கூற்றுப்படி, இந்தக் கட்டடத்திற்கு அனுமதியின்றி கூடுதலாக தளங்கள் கட்டப்பட்டுக் கொண்டிருந்ததால், கீழ் தளத்தின் அத்திபாரம் அதிக பாரத்தைத் தாங்க முடியாமல் இடிந்து விழுந்திருக்கலாம் எனக் கூறப்படுகிறது.
+
+...
+
+[Data](articles/7df18b0b.json)
+
+---
+
+### கதிர்காமத்தில் கண்டுபிடிக்கப்பட்ட ஆயுதங்கள், வெடிபொருட்கள் தொடர்பில் வெளியான தகவல்!
+
+*2025-10-01 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226588) · `ta`
+
+கதிர்காமம் பொலிஸ் பிரிவுக்கு உட்பட்ட யால வனப்பகுதியில் வெஹெரகல நீர்த்தேக்கத்திற்கு அருகில் உள்ள பகுதியில் வைத்து கண்டுபிடிக்கப்பட்ட ஆயுதங்கள் மற்றும் வெடிபொருட்கள் தொடர்பில் தகவல்கள் வெளியாகியுள்ளதாக கதிர்காமம் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7a028dee.json)
 
 ---
 
@@ -213,6 +619,28 @@ According to the Ministry of Environment, the petition filed the PC's mosquito, 
 
 ---
 
+### Surilizing Bags Tax to Mary
+
+*2025-10-01 15:04:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සල-සල-බග-භවතය-මනදසය-කරනන-බදදක/1-680576) · `si`
+
+The Ministry of Environment informed the Supreme Court today that the Gazette notification will be issued to recover a sum of November for Cellisili Bags.
+
+The Deputy Solicitor General Dr. Army General of the Environment, Dr. Army Armyarase Perera, appearing on behalf of the Ministry of Environment (Cyllabi had filed a tax on the development of polythene and cile bag.
+
+The petition was considered in the face of a panel of judges, Supreme Court Judge Kumudi Wickramasinghe and Sampath Abeykramasinghe and Sampath Abeykramasena.
+
+The Environmental Justice Center has promised the court that the environment has been identified as a tax on the mitigation of the environment as a result of polythene and cile bags.
+
+According to the Ministry of Environment, the petition filed the PC's mosquito, demanding to take action to minimize the use of polythene, as the Ministry of Environment has been called to take action.
+
+...
+
+[Data](articles/d7c80cd9.json)
+
+[Extended Data](ext_articles/d7c80cd9.ext.json)
+
+---
+
 ### Health Minister Meets UNFPA Representative
 
 *2025-10-01 15:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/health-minister-meets-unfpa-representative) · `en`
@@ -222,6 +650,20 @@ According to the Ministry of Environment, the petition filed the PC's mosquito, 
 [Data](articles/f94b418c.json)
 
 [Extended Data](ext_articles/f94b418c.ext.json)
+
+---
+
+### முடங்கியது அமெரிக்க அரச நிர்வாகம் : இலட்சக்கணக்கானோர் பாதிப்பு!
+
+*2025-10-01 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226589) · `ta`
+
+அமெரிக்காவில் டொனால்ட் டிரம்ப் தலைமையிலான குடியரசு கட்சி ஆட்சி செய்து வருகிறது. இந்த நிலையில், டிரம்ப் தலைமையிலான அரசாங்கம் பாராளுமன்றத்தில் ஒரு புதிய சட்டமூலத்தை கொண்டு வந்தது. இந்த சட்டமூலத்தில் பழைய திட்டங்களை தவிர்த்து, புதிய திட்டங்களுக்கு நிதி அளிக்க வேண்டும் என்று குறிப்பிடப்பட்டுள்ளது. இந்த சட்டமூலத்திற்கு அமெரிக்க பாராளுமன்றத்தில் எதிர்க்கட்சியாக இருக்கும் ஜனநாயக கட்சி எதிர்ப்பு தெரிவித்துள்ளது.
+
+இந்த சட்டமூலத்தை நிறைவேறுவதற்கு டிரம்ப் தலைமையிலான ஆளும் கட்சிக்கு ஆதரவாக ஜனநாயக கட்சியை சேர்ந்த 8 பேர் வாக்களிக்க வேண்டிய நிலை உள்ளது. ஆனால், இதற்கு ஜனநாயக கட்சி தலைமை சில நிபந்தனைகளை விதித்துள்ளது. இதில், டிரம்பின் சுகாதார திட்டங்கள் தொடர்பான மருத்துவ காப்பீட்டு சலுகைகளை நீட்டிக்க வேண்டும் என்று வலியுறுத்தி உள்ளனர். ஆனால், இதனை டிரம்ப் ஏற்க மறுத்ததன் காரணமாக, அவர் கொண்டு வந்த புதிய சட்டமூலம் நிறைவேறாமல் தடைபட்டுள்ளது.
+
+...
+
+[Data](articles/3e5a4a50.json)
 
 ---
 
@@ -382,6 +824,30 @@ Four of them have been treated in the Outdone Division and five are staying and 
 [Data](articles/af57027c.json)
 
 [Extended Data](ext_articles/af57027c.ext.json)
+
+---
+
+### Shot to police command
+
+*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලස-අණට-අවනත-නවවන-රයට-වඩ/1-680573) · `si`
+
+Nittambuwa Police say that the police were arrested by the police stabbed to shoot at three occasions and stopped a vehicle.
+
+Van was suspiciously visible to the Nittambuwa to Nittambuwa, including six officers in the Gampaha Divisional Center, Gampaha Divisional Police Motorcycle, Gampaha Divisional Secretariat.
+
+Police say that the van has been signaled to stop the van, but the van has been running out.
+
+Officers of the Motorcycle Unit have tried to stop the vehicle on three occasions on the back of the van and the van has been operated towards Wathupitiwala towards Wathupitiwala.
+
+The police say the vehicle has stopped three shots and back on the front of the police officers.
+
+Then the vehicle and the three were arrested by the vehicle and its three of the retail from the left hand side of the views.. They have been excessively dressed and the driver is a Kuru, a rice resident of Lellopitiya.
+
+◼️
+
+[Data](articles/5d9014ad.json)
+
+[Extended Data](ext_articles/5d9014ad.ext.json)
 
 ---
 
@@ -605,6 +1071,18 @@ However, this statement from Nandana Gunatilake has not done a bribery or corrup
 
 ---
 
+### ස්ථිර ඔප්පු දෙන බව පවසා රු. කෝටි 10ක් වංචාකළ සැකකරුවෙක් හා සැකකාරියෙක් අල්ලයි
+
+*2025-10-01 13:56:30* · [`adalk`](https://www.ada.lk/breaking_news/ස්ථිර-ඔප්පු-දෙන-බව-පවසා-රු--කෝටි-10ක්-වංචාකළ-සැකකරුවෙක්-හා-සැකකාරියෙක්-අල්ලයි/11-418842) · `si`
+
+2024 වසරේදී උරුමය වැඩසටහන යටතේ බවට පවසා ඔප්පු නොමැති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබාදෙන බවට පොරොන්දු වී රුපියල් කෝටි 10කට ආසන්න මුදලක් වංචා කර සාවද්‍ය පරිහරණය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ලද පැමිණිල්ලක් අනුව අවුරුදු 43ක සැකකරුවෙක් හා අවුරුදු 55ක සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/dda505b5.json)
+
+---
+
 ### U/The student is addicted to intoxication
 
 *2025-10-01 13:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-மாணவி-போதைக்கு-அடிமை/175-365581) · `ta`
@@ -754,6 +1232,26 @@ Police say that the suspect was interrogated in the organized crime and the drug
 [Data](articles/4765919c.json)
 
 [Extended Data](ext_articles/4765919c.ext.json)
+
+---
+
+### Another arrested with drugs
+
+*2025-10-01 13:43:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-20ක-මත-දරවය-සමඟ-අයක-අතඅඩගවට/1-680568) · `si`
+
+The Colombo North North Division Investigation Bureau says that a person has been arrested with alcohol, alcohol and alcohol worth Rs.
+
+The suspect was in possession of 270 kg of Hash drugs, 408 drugs and 200 slices and 7400 bats.
+
+A group of officers of the Colombo North Division Investigation area raided a house in Siriwardena Siriwardena Siriwardena Road, the suspect had been arrested with drugs.
+
+Police say that the suspect was interrogated in the organized crime and the drug trafficking of the drug operating in the area.. The suspect was a 38 year old man of the Motakkuliya.
+
+◼️
+
+[Data](articles/a3e6d492.json)
+
+[Extended Data](ext_articles/a3e6d492.ext.json)
 
 ---
 
@@ -1382,613 +1880,5 @@ The prison officials who observed this were seized by the wife's package, and th
 [Data](articles/ffbcdde9.json)
 
 [Extended Data](ext_articles/ffbcdde9.ext.json)
-
----
-
-### One billion dollar vehicles have been taken to 08 months
-
-*2025-10-01 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215216) · `si`
-
-With the removal of the boundaries of vehicles for importation of vehicles and January to August 2025, the Central Bank of Sri Lanka (SLTD) has cost Rs 1,007.5 million to import.
-
-This is stated in the August 2025 August 2025 Antiqualified Foreign Division Activity Report.
-
-The highest import expenses made in a single month of this year was recorded in August 2025.
-
-The cost of importing vehicles to Sri Lanka is as follows in 2025.
-
-◼️
-
-[Data](articles/183d3075.json)
-
-[Extended Data](ext_articles/183d3075.ext.json)
-
----
-
-### Passport and Visa Services will continue in US embassies
-
-*2025-10-01 11:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதரகங்களில்-கடவுச்சீட்டு-விசா-சேவைகள்-தொடரும்/175-365576) · `ta`
-
-The US embassy in Colombo has announced that passports and visa services will continue at US embassies in the United States and abroad, despite the delay in allocation.
-
-In a post released today, the embassy said that only emergency safety information would be shared until the entire operations were resumed.
-
-In addition, the report also stated that updates on embassy services and operational status are available at the US Foreign Department's official website [travel.state.gov] (http://travel.state.gov).
-
-◼️
-
-[Data](articles/76bab19e.json)
-
-[Extended Data](ext_articles/76bab19e.ext.json)
-
----
-
-### We will win the child's world with love
-
-*2025-10-01 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226557) · `ta`
-
-Nelson Mandela's claim that the great power education of the 21st century is the great power of the world, and the world of good governance is the boys of today's boys.. The World United Nations in general has defined everyone under the age of 18 as boys. Thus, when the youthful life of the boys who should be amazed in the eyes of all people, we are living in the face of how the future world is questioned and the creation of the children of children and the creation of our future generations.
-
-If everyone around them will be able to make a better offspring in the future, you can certainly make a better offspring in the future if everyone around them will be able to fulfill their own role as the leaders of tomorrow.. Women and Child Affairs Minister Saroja Savitri Bolraj said that the "Children's Day National Week" has been declared on October 01 on the occasion of World Children's Day for 2025 on the occasion of World Children's Day.
-
-...
-
-[Data](articles/c607f363.json)
-
-[Extended Data](ext_articles/c607f363.ext.json)
-
----
-
-### Colombo inflation rises to increase - 2.9 percent of food category
-
-*2025-10-01 11:33:38* · [`adalk`](https://www.ada.lk/business/කොළඹ-උද්ධමනය-ඉහළ-යයි---ආහාර-කාණ්ඩයේ-සියයට-2-9ක්/7-418837) · `si`
-
-The annual point difference in the Colombo Consumer Price Index has increased to 1.2 percent in August to 1.2 percent in August 2025.
-
-On the annual point basis, the food category inflation increased from 2.0 percent to 2.9 percent in August 2025.
-
-Also, the inflation of non-foods have fell to 0.8 percent to 0.7 percent in September in September.
-
-According to the Central Bank of Sri Lanka, the increase in inflation has shown inhibrating targets as expected in September.
-
-◼️
-
-[Data](articles/e9520e17.json)
-
-[Extended Data](ext_articles/e9520e17.ext.json)
-
----
-
-### Powerful earthquake in the Philippines; 53 people die; Over 150 people hurt!
-
-*2025-10-01 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226554) · `ta`
-
-The Philippine Volcanic and Seismology Institute of Volcanology and Seismology said the 6.9 magnitude earthquake struck in the state of Philippines on Tuesday (30).
-
-According to the company's officials, the earthquake struck around 10.00 pm local time.
-
-53 people have been killed and more than 50 injured in the earthquake, according to officials of the company.
-
-◼️
-
-[Data](articles/89075d86.json)
-
-[Extended Data](ext_articles/89075d86.ext.json)
-
----
-
-### For the benefit of the boys and the elderly, we must go to a wider conversation about what we should do - Sajith Premadasa
-
-*2025-10-01 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226555) · `ta`
-
-Opposition Leader Sajith Premadasa has said that it is the responsibility of all the children and the elderly to protect, maintain, and fulfill the responsibilities and duties of the community for them.
-
-He also said that we should go to a wider conversation about what we need to do for their benefit on children's day and the Elderly Day.
-
-Today (Oct. 1) He made this statement in a congratulatory message published by Sajith Premadasa on the occasion of World Children's Day and World Older Day.
-
-International Children's Day is a very meaningful celebration to celebrate the day of the year.
-
-The phrase 'today's children's day' gives us a good understanding of children and the elderly. The safety of children is the well -being of the community.
-
-...
-
-[Data](articles/23ba1b2e.json)
-
-[Extended Data](ext_articles/23ba1b2e.ext.json)
-
----
-
-### The flight carrying 250 children and flight to the sky
-
-*2025-10-01 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215215) · `si`
-
-Sri Lanka Airlines with 250 school children across Sri Lanka have been flying from the Katunayake airport.
-
-The children have been launched today before Derana, attractive and historical sites, enacted by the children of the country.
-
-250 children participated in the aircraft organized to provide a new experience for the country.
-
-Twitna Derana decided to bring a new experience for Sri Lanka's children to enjoy the best of the children.
-
-Accordingly, the 'Trip from the Derana Signal' program was launched in order to see the faning of Sri Lanka to look at Sri Lanka.
-
-The children between the ages of 12 and 15 were selected for this precious opportunity to send a video of no more than 250 words or the topic 2 to 250 words.
-
-Accordingly, the best and creative drawings of the creations sent under the theme "my country that seees in the sky" were selected for a "sky and video program.
-
-The 250 children selected attended the Derana Head Office this morning with the intention of obtaining his life.
-
-...
-
-[Data](articles/b73b1b47.json)
-
-[Extended Data](ext_articles/b73b1b47.ext.json)
-
----
-
-### 10 crore rupees fraud: two arrested
-
-*2025-10-01 11:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-மோசடி-இருவர்-கைது/175-365574) · `ta`
-
-The police media spokesman's office said that a suspect and a woman who allegedly misused nearly 100 million rupees (10 crores) by defrauding of nearly 100 million rupees (10 crores), which promised to grant permanent stabilizers under the 2024 "Urumaya" scheme.
-
-The suspect has been summoned to the headquarters of the suspect and to a famous hotel in Colombo, police said.
-
-Preliminary inquiries have revealed that the 43 -year -old suspect was from the Pakamuna area and was temporarily residing in a hotel in the Kiribathgoda area and the suspect was from Maharagama.
-
-Preliminary inquiries have revealed that the police have revealed that they have cheated 164 businessmen in Kalmunai, introducing himself as a lawyer, deceiving the businessmen and received Rs six lakh from one person, claiming to provide permanent strategies to the unmanned land under the Urumaya scheme.
-
-◼️
-
-[Data](articles/93b435d0.json)
-
-[Extended Data](ext_articles/93b435d0.ext.json)
-
----
-
-### TV Derana celebrates World Children’s Day with first-ever aerial tour for schoolchildren
-
-*2025-10-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113099/tv-derana-celebrates-world-childrens-day-with-first-ever-aerial-tour-for-schoolchildren) · `en`
-
-Marking a historic initiative, TV Derana today commemorated World Children’s Day by organizing a SriLankan Airlines charter flight carrying 250 schoolchildren on an aerial tour around Sri Lanka.
-
-The special flight departed from the Bandaranaike International Airport in Katunayake a short while ago.
-
-The initiative, titled “Ahasin Gamanak,” is a heartwarming collaboration between TV Derana and Signal, a concept developed by IdeaHell to celebrate World Children’s Day.
-
-A total of 250 talented schoolchildren, selected for their creative drawings and essays from across the country, were given this once-in-a-lifetime opportunity to experience the beauty of Sri Lanka from the skies.
-
-◼️
-
-[Data](articles/649b2fb4.json)
-
-[Extended Data](ext_articles/649b2fb4.ext.json)
-
----
-
-### Good news for disabled students
-
-*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආබධත-සසනට-සභ-ආරචයක/1-680546) · `si`
-
-The Prime Minister and Education, Higher Education and Vocational Education Minister Harinini Amarasuriya stated that the balance of transfers should be accelerated.
-
-The Prime Minister said that he further focused on this issue, the rejection of transfers in the field of education is a long time. She said that it was the only section that would not adapt to the transfers of the public service.. The Committee also discussed the steps taken by teachers and principals who were not adapted to such transfers.
-
-The Prime Minister made these comments when he was chaired by the Ministry of Education, Higher Education and Vocational Education in Parliament recently (26).
-
-At this meeting also discussed the policy decisions related to the inclusion of the disabled students to universities. Accordingly, the policy will be implemented based on a quota method for all subjects from the year next year.
-
-◼️
-
-[Data](articles/84548e27.json)
-
-[Extended Data](ext_articles/84548e27.ext.json)
-
----
-
-### Good news for disabled students
-
-*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආබධත-සසනට-සභ-ආරචයක/101-680546) · `si`
-
-The Prime Minister and Education, Higher Education and Vocational Education Minister Harinini Amarasuriya stated that the balance of transfers should be accelerated.
-
-The Prime Minister said that he further focused on this issue, the rejection of transfers in the field of education is a long time. She said that it was the only section that would not adapt to the transfers of the public service.. The Committee also discussed the steps taken by teachers and principals who were not adapted to such transfers.
-
-The Prime Minister made these comments when he was chaired by the Ministry of Education, Higher Education and Vocational Education in Parliament recently (26).
-
-At this meeting also discussed the policy decisions related to the inclusion of the disabled students to universities. Accordingly, the policy will be implemented based on a quota method for all subjects from the year next year.
-
-◼️
-
-[Data](articles/f3c84246.json)
-
-[Extended Data](ext_articles/f3c84246.ext.json)
-
----
-
-### 100 million rupees fraud for allegedly issuing free bonds - two persons arrested
-
-*2025-10-01 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226546) · `ta`
-
-Police said that a man and a woman have been arrested on charges of fraudulently fraudulently fraudulently by about Rs 100 million for allegedly issuing free bonds under the National Scheme.
-
-The Criminal Investigation Department said that the two suspects were arrested for allegedly defrauding 164 business owners in 2024.
-
-The woman from the Pakamuna area was arrested on August 26 and placed in interrogation. Meanwhile, a male from Maharagama was arrested on September 29.
-
-The arrested woman deceived 164 people under the "Urumaya" free bond scheme at Kalmunai, and then acting as a lawyer from each one.. Investigations have revealed that 600,000 money has been defrauded.
-
-It has also been reported that the suspect, the woman, has also deceived about 50 businessmen from Kalmunai to discuss politics and to issue free bonds to the headquarters of Sirikotha and the major hostels in Colombo.
-
-The Criminal Investigation Department is taking legal action to seize the money earned by financial fraud.
-
-◼️
-
-[Data](articles/d85e7290.json)
-
-[Extended Data](ext_articles/d85e7290.ext.json)
-
----
-
-### VAT Exporters Among Rs?
-
-*2025-10-01 11:08:48* · [`adalk`](https://www.ada.lk/business/තේ-අපනයනකරුවන්ට-VAT-බියක්-රු-බිලියන-5-7ක-අමතර-බරක්-/7-418836) · `si`
-
-There is strong uncertainty in Sri Lanka's tea industry with virtue tax. With the abolition of the SVAT (SUSPENDED VAT) from October 01, 2025, the overall tea supply chain has been very worried due to the risk of cash flow crises and tea prices.
-
-Tea is sold between 5 and 6 million kilograms of tea at the Colombo Tea Auction. According to the existing average auction prices, 18% to Rs.. Because of the intensive competition in the global tea market, many tea export companies operate on low cheap margin.
-
-Therefore, they will have to resort to bank loans to cover the additional cash requirements caused by the VAT's imposition. The cost of payments to pay for the additional bank loans is estimated to reach Rs. 480 million or Rs. 5,760 million (576 billion) per year.
-
-...
-
-[Data](articles/fce81745.json)
-
-[Extended Data](ext_articles/fce81745.ext.json)
-
----
-
-### Thailand PM Personally Pilots Plane In Urgent Organ Mission
-
-*2025-10-01 11:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/thailand-pm-personally-pilots-plane-in-urgent-organ-mission) · `en`
-
-COLOMBO (News 1st); Thailand’s Prime Minister Anutin Charnvirakul personally piloted a plane on Tuesday (30) to retrieve life-saving organs from a donor in Loei province, before returning to Parliament for a crucial government policy debate.
-
-The mission was part of Anutin’s long-standing “Wings of the Heart” initiative, which facilitates rapid organ transport for critical transplants.
-
-Responding to an urgent request, Anutin left Parliament and flew two surgeons from Chulalongkorn University to Loei.
-
-The organs—a heart, liver, pancreas, two kidneys, and two eyes—were donated by the family of a 19-year-old man who died following a local brawl.
-
-Anutin met the donor’s parents, calling their decision “a great act of merit-making.”
-
-After the successful retrieval, Anutin immediately flew back to Bangkok.
-
-Defending his brief absence from the debate, he said he had contributed to the morning session and monitored proceedings remotely.
-
-...
-
-[Data](articles/917c7f7a.json)
-
-[Extended Data](ext_articles/917c7f7a.ext.json)
-
----
-
-### When the President met the President of Japan
-
-*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-අධරජයය-හම-ව-අවසථව/1-680545) · `si`
-
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
-
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
-
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
-
-◼️
-
-[Data](articles/0b6d46b1.json)
-
-[Extended Data](ext_articles/0b6d46b1.ext.json)
-
----
-
-### President meets Emperor of Japan
-
-*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/1-680545) · `si`
-
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
-
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
-
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
-
-◼️
-
-[Data](articles/2b5e0d50.json)
-
-[Extended Data](ext_articles/2b5e0d50.ext.json)
-
----
-
-### When the President met the President of Japan
-
-*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-අධරජයය-හම-ව-අවසථව/101-680545) · `si`
-
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
-
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
-
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
-
-◼️
-
-[Data](articles/7a99d2f9.json)
-
-[Extended Data](ext_articles/7a99d2f9.ext.json)
-
----
-
-### President meets Emperor of Japan
-
-*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/101-680545) · `si`
-
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
-
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
-
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
-
-◼️
-
-[Data](articles/b430a658.json)
-
-[Extended Data](ext_articles/b430a658.ext.json)
-
----
-
-### Chinese envoy hails ‘multi-faceted’ bilateral exchanges between Sri Lanka and China
-
-*2025-10-01 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113098/chinese-envoy-hails-multi-faceted-bilateral-exchanges-between-sri-lanka-and-china) · `en`
-
-Chinese Ambassador to Sri Lanka Qi Zhenhong has reaffirmed their enduring friendship with Sri Lanka, highlighting strong bilateral cooperation in development projects, public welfare initiatives, and crisis response.
-
-The two countries have stood together through challenges such as the Covid-19 pandemic, economic crises, kidney disease, and flood relief efforts, Ambassador Qi Zhenhong said.
-
-Ambassador Qi made these remarks in a statement of commemorating the 76th anniversary of the founding of the People’s Republic of China. He noted that earlier this year, President Anura Kumara Dissanayake’s visit to China resulted in significant understandings with President Xi Jinping, including jointly building a China-Sri Lanka community with a shared future and elevating bilateral relations to a new level.
-
-...
-
-[Data](articles/4bf05112.json)
-
-[Extended Data](ext_articles/4bf05112.ext.json)
-
----
-
-### The President has returned to the country
-
-*2025-10-01 10:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-365572) · `ta`
-
-President Anuragumara Dissanayake, who was on an official visit to Japan, arrived at the Katunayake airport this morning after completing his journey.
-
-Prior to visiting Japan, the President attended the 80th United Nations General Assembly session in the United States.
-
-He was accompanied by Foreign, Foreign Employment and Tourism Minister Vijitha Herath and several senior government officials.
-
-The Sri Lankan Airlines flight from Thailand's Bangkok arrived at the Katunayake airport at 9:30 am.
-
-◼️
-
-[Data](articles/a95f8501.json)
-
-[Extended Data](ext_articles/a95f8501.ext.json)
-
----
-
-### Keheliya Dates in case against family
-
-*2025-10-01 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215214) · `si`
-
-Former Minister Keheliya Rambukwella, his wife, three daughters, and the son-in-law, the Colombo High Court was held on October 15.
-
-Keheliya Rambukwella and the defendants appeared before the court when the case was called before Colombo High Court Judge Mohamed Mihal today (01).
-
-Attorney-at-Law Kalinga Indatissa appeared for the defendant Keheliya Rambukwella, Presidential Counsel, said the complaint was not given by the plaintiff.
-
-The President's Counsel said that the Bribery Commission has filed sudden indictments against the defendants but noted that this is not a wrong precedent.
-
-According to the President's Counsel, his client requires 12 documents to cope with the trial.
-
-The Assistant Director General of the Assistant Director General of the Bribery Commission appeared in the courts, said that the defendant would look into the documents asking.
-
-The Assistant Director General said that some of the documents that the defendant are requested will be applied to the investigations.
-
-...
-
-[Data](articles/297e5fba.json)
-
-[Extended Data](ext_articles/297e5fba.ext.json)
-
----
-
-### 16 -year -old girl rage
-
-*2025-10-01 10:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுமி-வன்புணர்வு-பொலிஸ்-முன்னாள்-அதிகாரிக்கு-கடூழிய-சிறை/175-365571) · `ta`
-
-Homagama High Court Judge Nawaratne Marasinghe has sentenced a former Borella police officer accused of sexually abusing a girl under the age of 16.
-
-On September 13, 2009, the chargesheet reported that the accused was involved in severe sexual abuse, using a part of her body to touch the girl's private parts, and thereby committed punishable offense under sections of the Penal Code.
-
-The judge, who issued the verdict, noted that the allegations against the accused had been undoubtedly proved.
-
-State Prosecutor Shiny Weerasuriya, who appeared on behalf of the Attorney General, was a police officer entrusted with the law to uphold the law and brought him to the court's notice that he had severely abused his official position against a child.
-
-The court accepted the police department's behavior in violation of his confidence and that it would severely violate the expected social justice from the law enforcement authorities.
-
-...
-
-[Data](articles/557c5917.json)
-
-[Extended Data](ext_articles/557c5917.ext.json)
-
----
-
-### IDEAHUB Donation Deposits to Teacher Training Colleges
-
-*2025-10-01 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226550) · `ta`
-
-Huawei Sri Lanka's donated to the Ideahub Teacher Training Colleges, which was donated by Huawei Sri Lanka, was held at the Presidential Secretariat on Tuesday (30) at the Presidential Secretariat headed by President Dr. Nandika Sanath Kumanayake.
-
-The IDEAHUB program has been launched by the Technology Unit of Huawei Sri Lanka and the program will continue to be implemented in the future.
-
-President's Senior Additional Secretary Roshan Kamage, Huawei Sri Lanka Chief Managing Officer Zhang Jinze. Paranagama, Deputy Director (Education) N.. L. C. B.. Along with Indika, Huawei Sri Lanka's senior officials, teacher training colleges, and many others participated in the event.
-
-◼️
-
-[Data](articles/3246c6fe.json)
-
-[Extended Data](ext_articles/3246c6fe.ext.json)
-
----
-
-### President Anurakumara returns from Japan
-
-*2025-10-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226551) · `ta`
-
-President Anura Kumara Dissanayake, who was on an official visit to Japan at the invitation of the Japanese government, returned to the country on Wednesday morning.
-
-President Anura Kumara Dissanayake has traveled from Japan to Bangkok, Thailand and then arrived at the Katunayake airport at 09.30 am today.
-
-President Anura Kumara Dissanayake, Foreign Affairs Minister Vijitha Herath and several officials visited the United States last week to attend the 80th General Assembly session of the United Nations in New York City.
-
-President Anura Kumara Dissanayake, Foreign Affairs Minister Vijitha Herath and officials made an official visit to Japan after attending the United Nations General Assembly session.
-
-◼️
-
-[Data](articles/3b71d628.json)
-
-[Extended Data](ext_articles/3b71d628.ext.json)
-
----
-
-### Sisu Rescue in abandoned: Mother and father arrested
-
-*2025-10-01 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவிடப்பட்ட-நிலையில்-சிசு-மீட்பு-தாய்-தந்தை-கைது/175-365569) · `ta`
-
-Akkaraipattu police have arrested the parents of the infant who was rescued.
-
-A few days after birth in Oluvil area in Ampara district, a female infant was rescued last Sunday (28).
-
-The Akkaraipattu police, who were conducting investigations, arrested the father of the child from Oluvil and the mother of Nintavur area on Tuesday.
-
-Police said that both the mother and the father who fell in love with the 17 -year -old and that they were not married.
-
-Also, the woman's father's relatives of the child were opposed to love last Sunday (28).
-
-Initial investigations have revealed that the father of the child, who knew the matter, had gone to the girlfriend's house and got her child.
-
-The child's father then telephoned a relative and found a baby girl abandoned in the Oluvil area. You don't have a baby girl. So he asked if he could raise this child. He has agreed to the relative.
-
-...
-
-[Data](articles/de3868a7.json)
-
-[Extended Data](ext_articles/de3868a7.ext.json)
-
----
-
-### Police Sergeant Nabbed for Drug Distribution
-
-*2025-10-01 10:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-sergeant-nabbed-for-drug-distribution) · `en`
-
-COLOMBO (News 1st); A police sergeant has been arrested for allegedly distributing narcotics on behalf of a Dubai-based drug trafficker known as Russell Smith, police confirmed.
-
-The arrest was made by officers from the Western Province North Crimes Division.
-
-The suspect, currently attached to the Udappuwa Police, was taken into custody with 400 grams of heroin in his possession.
-
-Investigations have revealed that the officer had previously served for nearly five years with the Colombo Crimes Division.
-
-Acting on information obtained from the suspect, police also arrested another individual identified as Chathu, a resident of Peliyagoda, with 110 grams of heroin.
-
-◼️
-
-[Data](articles/ce2e75db.json)
-
-[Extended Data](ext_articles/ce2e75db.ext.json)
-
----
-
-### Four Luxury SUVs Seized in Customs Evasion Probe
-
-*2025-10-01 10:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/four-luxury-suvs-seized-in-customs-evasion-probe) · `en`
-
-COLOMBO (News 1st); Sri Lanka Police have uncovered four SUVs that were illegally imported into the country by concealing information from Customs, according to the Central Crimes Investigations Bureau.
-
-The discovery was made under the supervision of Senior Superintendent of Police Kamal Ariyawansa, Director of the CCIB.
-
-One vehicle was recovered from Kuliyapitiya, another from Melsiripura, while two more were found in Piliyandala and Akmeemana.
-
-Investigations have revealed that the vehicles were registered using details of vehicles imported in 1995, enabling the perpetrators to bypass Customs regulations.
-
-Police further stated that the fraud was carried out with the assistance of several officials from the Department of Motor Traffic.
-
-Authorities have launched a probe to identify and apprehend those involved in the racket.
-
-◼️
-
-[Data](articles/951d8455.json)
-
-[Extended Data](ext_articles/951d8455.ext.json)
-
----
-
-### Two young people die in accident
-
-*2025-10-01 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226545) · `ta`
-
-Two youths were killed in an accident in the Kattuvarakolva area of ​​Horawapothana - Kapukolava road in Anuradhapura.
-
-The accident occurred when a scooter motorcycle traveling from Kapukolavai to Horawapothana collided with a bus traveling in the opposite direction.
-
-The victims of the accident were 20 and 21 -year -olds from Horawapothana, Kattuvarakollawa and Nelugolawa areas.
-
-The bus driver has been arrested in connection with the accident and further investigations into the accident are being carried out by Horawapothana police.
-
-◼️
-
-[Data](articles/9650a14e.json)
-
-[Extended Data](ext_articles/9650a14e.ext.json)
-
----
-
-### Police fell off the police
-
-*2025-10-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215213) · `si`
-
-At the Nittambuwa, pursued a van without orders and shooting the police.
-
-The shooting took place around 1.15 am today (01), three persons who were traveling in the van were later arrested by the police.
-
-A police inspector of the Gampaha Division Police Motorcycle Unit was on duty on the road to Udanda Junction on the road to the road.
-
-A van traveled from Veyangoda to Nittambuwa.
-
-The officers of the Police Motorcycle Unit had trailed the van to the van to stop the van in the signing of the van to stop the van.
-
-Three persons in the van have been arrested in the accident, and they have been excessively drunk.
-
-The driver is a resident of Lellopitiya and the rest of the people are residents of Ratnapura.
-
-The suspects have been brought to the Judicial Medical Officer to check the injured and the suspects are to be produced before the Attanagalla Magistrate's Court.
-
-Today, Ada Derana also received a CCTV display of the driver of the van.
-
-◼️
-
-[Data](articles/a092ab36.json)
-
-[Extended Data](ext_articles/a092ab36.ext.json)
 
 ---

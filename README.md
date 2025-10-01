@@ -1,37 +1,195 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 14:39:05**
+As of **2025-10-01 15:08:11**
 
 ## Newspaper Stats
 
-*Scraped **80,179** Articles*
+*Scraped **80,198** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 532
-lankadeepalk | 564
+newsfirstlk | 533
+lankadeepalk | 573
 dbsjeyarajcom | 637
 bbccomsinhala | 715
-colombotelegraphcom | 801
+colombotelegraphcom | 802
 dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,711
+adalk | 7,712
 adaderanalk | 10,328
-tamilmirrorlk | 11,968
+tamilmirrorlk | 11,973
 virakesarilk | 13,108
-adaderanasinhalalk | 13,848
+adaderanasinhalalk | 13,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,175 (100.0%) of 80,179 articles have been extended.
+80,182 (100.0%) of 80,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### ஒக்டோபர் மாத எரிவாயு விலை குறித்த அறிவிப்பு
+
+*2025-10-01 14:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-மாத-எரிவாயு-விலை-குறித்த-அறிவிப்பு/175-365584) · `ta`
+
+ஒக்டோபர் மாதத்திற்கான எல்பி எரிவாயு விலையில் எந்த மாற்றமும் இருக்காது என்று லிட்ரோ எரிவாயு லங்கா லிமிடெட் தெரிவித்துள்ளது.
+
+இதற்கிடையில், லாஃப்ஸ் எரிவாயு பிஎல்சி, ஒக்டோபர் மாதத்திற்கான அதன் உள்நாட்டு எல்பி எரிவாயு சிலிண்டர்களின் விலையில் எந்த திருத்தமும் இருக்காது என்று அறிவித்துள்ளது.
+
+இந்த முடிவை லாஃப்ஸ் எரிவாயு பிஎல்சி, கிளஸ்டர் தலைமை நிர்வாக அதிகாரி நிரோஷன் ஜே. பீரிஸ் இன்று அறிவித்தார்.
+
+◼️
+
+[Data](articles/a093e48b.json)
+
+---
+
+### වෙහෙරගල ජලාශයෙන් උණ්ඩ මතුවේ
+
+*2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වහරගල-ජලශයන-උණඩ-මතව/1-680575) · `si`
+
+යාල ජාතික වනෝද්‍යානයට අයත් භුමියට පිහිටා ඇති බුත්තල වෙහෙරගල ජලාශයේ සොරොව්වට ආසන්නව වැව් බැම්මෙි තිබී යුද හමුදාව භාවිතයට ගන්නා සංග්‍රාමික උපකරන රැසක් අද පෙරවරුවෙි සොයාගත් බව ගෝනගංආර පොලිසිය පවසයි.
+
+සොයාගත් අවි ආයුධ අතර, ටී 56 ගිනි අවි සදහා යොදන ටී 56 උන්ඩ ඇතුළත් මැගසින් 214ක්,LMG ඩ්‍රම්ස් මැගසින් 38ක්,MPMG 200 ගිණි අවි සදහා යොදන උන්ඩ ඇතුළත් මැගසින් 11ක්,MPMG මැගසීන් 09ක්, ටී 81 ගිණි අවි සදහා යොදන, උන්ඩ ඇතුලත් මැගසින් 06ක් හා ගුවන් යානා නාශක අවි වලට යොදන 12.7 උන්ඩ 100ක් ඇතුළත් ඩ්‍රම්ස් 01ක් වන බව අනාවරණය වී තිබේ.
+
+වෙහෙරගල ජලාශයේ ධීවර කටයුතුවල නියැලෙන ධීවරයකු, මෙම අවි ආයුධ වැවෙි වැව් බැම්මේ රළ පනාව අතර තැනින් තැන විසිරි ඇති අයුරු දැක, මෙි පිලිබදව සෙල්ලකතරගම යුද හමුදා නිළධාරින් දැනුවත් කිරිමෙන් පසු, එම කදවුරේ යුදහමුදා නිළධාරින් හා ගෝනගංආර පොලිසිය එකතුව මෙම ආයුධ තොගය සොයාගෙන තිබෙි.
+
+මෙි වනවිට සොයාගත් අවි ආයුධවලට වඩා වැඩි ප්‍රමාණයක් ජලාශයේ සොරොව්ව ආසන්න වැවෙි පතුලේ ඇති බවට සැකකරන හෙයින් නාවික හමුදාවෙි කිමිදුම්කරුවන් යොදා මෙි පිලිබදව තවදුරටත් සොයා බැලීමට අදහස් කරන බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/b360561b.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිලේ වෙනසක් නැත
+
+*2025-10-01 14:38:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලටර-ගස-මල-වනසක-නත/1-680574) · `si`
+
+ගෑස් මිල සූත්‍රයට අනුව මෙම මාසයේ (ඔක්තෝබර්) ලිට්‍රෝ ගෑස් මිල වෙනස් නොවන බව ලිටෙුා් ගෑස් සමාගම පැවසීය.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල රුපියල් 3,690 ක, කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක මිල රුපියල් 1,482ක සහ කිලෝග්‍රෑම් 2.3ක ගෑස් සිලින්ඩරයක මිල රුපියල් 694ක තව දුරටත් පවතින බව එම සමාගම වැඩිදුරටත් සදහන් ක⁣ළේය.
+
+◼️
+
+[Data](articles/7f7ee24d.json)
+
+---
+
+### Govt Rules Out Sale of State Farms, Pledges Revival
+
+*2025-10-01 14:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/govt-rules-out-sale-of-state-farms-pledges-revival) · `en`
+
+COLOMBO (News 1st); The government will not sell state-owned agricultural resources but will instead focus on proper management and revitalization, Deputy Minister of Agriculture and Livestock Namal Karunaratne said.Speaking at an event, Karunaratne revealed that previous administrations had prepared plans to sell 32 state farms covering 28,802 acres, along with five milk factories and 92 centers.However, he stressed that the current government has completely abandoned those plans.“We will not sell a single asset to any country, nor will we allow anyone else to do so. These resources are part of our national identity. We have already initiated programs to develop and promote them with the participation of the local private sector,” Karunaratne said.The Deputy Minister emphasized that the government’s stance is to manage and modernize these assets to strengthen the agricultural sector and ensure food security.
+
+◼️
+
+[Data](articles/a679a0de.json)
+
+---
+
+### Nine people vulnerable
+
+*2025-10-01 14:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டியதில்-ஒன்பது-பேர்-பாதிப்பு/76-365583) · `ta`
+
+Nine workers have been affected by the wasps in Mussellia, Mousezakkala. Among them include female workers. The incident took place on Wednesday (01) at 12 noon.
+
+While the body was being snatched, the wasp nest in the lower part of the tea plant dissolved and poured. Nine victims are receiving silk treatment at Maskeliya District Hospital.
+
+Four of them have been treated in the Outdone Division and five are staying and are being treated, a medical officer in the district hospital said.
+
+◼️
+
+[Data](articles/af57027c.json)
+
+[Extended Data](ext_articles/af57027c.ext.json)
+
+---
+
+### Shot to police command
+
+*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පලස-අණට-අවනත-නවවන-රයට-වඩ/101-680573) · `si`
+
+Nittambuwa Police say that the police were arrested by the police stabbed to shoot at three occasions and stopped a vehicle.
+
+Van was suspiciously visible to the Nittambuwa to Nittambuwa, including six officers in the Gampaha Divisional Center, Gampaha Divisional Police Motorcycle, Gampaha Divisional Secretariat.
+
+Police say that the van has been signaled to stop the van, but the van has been running out.
+
+Officers of the Motorcycle Unit have tried to stop the vehicle on three occasions on the back of the van and the van has been operated towards Wathupitiwala towards Wathupitiwala.
+
+The police say the vehicle has stopped three shots and back on the front of the police officers.
+
+Then the vehicle and the three were arrested by the vehicle and its three of the retail from the left hand side of the views.. They have been excessively dressed and the driver is a Kuru, a rice resident of Lellopitiya.
+
+◼️
+
+[Data](articles/cbc9eb98.json)
+
+[Extended Data](ext_articles/cbc9eb98.ext.json)
+
+---
+
+### ලංගම - ලංවිම ’’යුනියන්’’ ලොක්කන්ට අවසර පත්‍ර දී කෝටි අටක පාඩුවෙලා
+
+*2025-10-01 14:23:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලගම-ලවම-යනයන-ලකකනට-අවසර-පතර-ද-කට-අටක-පඩවල/1-680572) · `si`
+
+ලංකා ගමනාගමන මණ්ඩලයේ වෘත්තීය සමිති අටක නියෝජිතයන් සඳහා විවෘත නිදහස් ගමන් අවසර පත්‍ර  138ක් නිකුත් කිරීමෙන් රුපියල් කෝටි හතරකට වැඩි පාඩුවක් සිදුව ඇතැයි ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාවක සඳහන්වේ
+
+එසේම හුවමාරු පදනම මත දුම්රිය දෙපාර්තමේන්තුවෙන් ලබා ගත් දුම්රිය නිදහස් ගමන් අවසර පත්  විසි දෙකක් වෘත්තිය සමිති සඳහා ලබාදීමෙන් තවත් කෝටි දෙකකට වැඩි පාඩුවක් සිදුව ඇතැයි ජාතික විගණන කාර්යාලය  පැවසීය
+
+රජය පිළිගත් වෘත්තිය සමිති සම්මේලනයක් වෙනුවෙන් නිලධාරීන් දෙදෙනකු පූර්ණ කාලීනව සම්මේලනයේ  කටයුතු සඳහා නිදහස් කළ හැකි බවත්  එසේ මුදා හරින නිලධාරියෙකුට දිවයිනේ ඕනෑම ස්ථානයකට ගමන් කිරීම සඳහා නිදහස් දුම්රිය බලපත්‍ර සහ ලංකා ගමනාගමන මණ්ඩලයේ නිදහස් ප්‍රවේශ පත්‍ර ලබාදිය යුතු බවත්   පැවසිය. කෙසේ වෙතත්  ඉහත නිදහස් ගමන් බලපත්‍ර නිකුත් කර ඇත්තේ ඒ නීතියට පටහැනිව බවද  එම වාර්තාව ප්‍රකාශ කරයි.
+
+මේ තොරතුරු සඳහන් වන්නේ ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ 2023 වාර්ෂික වාර්තාවට ඇතුළත් කරනු ලැබ ඇති විගණන ලේඛනයේය.
+
+◼️
+
+[Data](articles/7e0239de.json)
+
+---
+
+### One of every six adults suffered from mental illness
+
+*2025-10-01 14:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/සම-වඩහටයන-හය-දනකගන-එක-අයකම-කනම-හ-මනසක-රගබධයකන-පළනවල/26-680571) · `si`
+
+Commenting - Uva Wellassa University, Career Guidance, Psychiatrist, Akila Pharmaceutanda
+
+By 2050 the elderly population is predicted to be 2.1 billion.  The number of adults with mental disorders is also high
+
+Has. Therefore, the elderly day is much to do for the adult day rather than celebrate.
+
+Today, we have many different problems in children. These children face many problems with questions about the problems, behavioral problems, mental, mental problems, and the empathy, which is socially found in our clinics.. We have found an increase in children's mental complications relative to us.
+
+We have the problems of many children as children, children, orphans with children, personality children with high-acting children, children, orphans, personality children, with a variety of genetic temperature.
+
+...
+
+[Data](articles/7fda240d.json)
+
+[Extended Data](ext_articles/7fda240d.ext.json)
+
+---
+
+### Children will have the best?
+
+*2025-10-01 14:06:27* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දරවනට-ලබනන-හදම-දද/2-680570) · `si`
+
+Such literary definitions cannot be limited to definition. The simplest idea of ​​the rights of the United Nations General Assembly on November 20, 1989, "Children under 18 people under 18 people under the age of 18."
+
+Abraham Lincoln, the President once said the child was not a small model of adults. The child's mind is like a white paper. Early it is very clean. Its first note, mother, father and siblings. Russia's leader Lenin said children should give the best thing. Mao Zedong, China, says that the world is the best character in the world.
+
+...
+
+[Data](articles/f1fd9d77.json)
+
+[Extended Data](ext_articles/f1fd9d77.ext.json)
+
+---
 
 ### Cocaine's drug sales of "Badovitta Rajitha" in a rented house; Three arrests!
 
@@ -54,6 +212,92 @@ The arrested trio will be produced before the Panadura Magistrate's Court, the V
 [Data](articles/2c9d50b9.json)
 
 [Extended Data](ext_articles/2c9d50b9.ext.json)
+
+---
+
+### Litro gas prices also an notice
+
+*2025-10-01 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215221) · `si`
+
+The company has informed the Litro Gas Ruin for the month following the monthly gas price revision.
+
+Accordingly, there is no amendment of Litro gas prices regarding this month.
+
+Accordingly, the price of a 12.5kg domestic gas cylinder is Rs.. While 3,690
+
+The price of a 2.3 kilogram gas cylinder is Rs. 694 remain unchanged.
+
+◼️
+
+[Data](articles/c6cfa860.json)
+
+[Extended Data](ext_articles/c6cfa860.ext.json)
+
+---
+
+### Be Bribery Investigation Form
+
+*2025-10-01 13:58:39* · [`lankadeepalk`](https://www.lankadeepa.lk/features/අලලස-දෂණ-වමරශන-වධමතද/2-680569) · `si`
+
+The conversation with the Director General of Bribery or Corruption, the conversation with the Investigation Commission is focused on the attention of many.
+
+The reason for the conversation is to be advertised by a member of the JVP and a presidential candidate Nandana Gunatilleke in the media and social media networks.. Mr. Nandana Gunatilake has said that the UNP was the Secretary to the JVP, Deputy Minister of Public Security Sunil Watagala was the Secretary to the UNP.. Mr. Sunil Watagala said that the statement of Nandana Gunatilake was false, he was identified as the Ranga Gunatilake.
+
+However, this statement from Nandana Gunatilake has not done a bribery or corruption by the Commission or the Government or the Government or the Government. The Ranga Dissanayake has not issued a statement regarding this. Mr. Sunil Watagala made his statement saying that he was unaware whether he would take legal action on this matter.. Nandana Gunatilleke, "Bring me to courts ...
+
+...
+
+[Data](articles/1310020e.json)
+
+[Extended Data](ext_articles/1310020e.ext.json)
+
+---
+
+### U/The student is addicted to intoxication
+
+*2025-10-01 13:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-மாணவி-போதைக்கு-அடிமை/175-365581) · `ta`
+
+Although we have heard more of men being addicted to drug addiction, it has been revealed that women are addicted to heroin and ice into the Mawathagama area.. Padmasiri said.
+
+Investigations conducted by the Mawathagama police have revealed that her boyfriend was addicted to drug addiction and encouraged her to take intoxicated drugs like heroin and ice.. Investigations have also been found that the student is a student of education.
+
+◼️
+
+[Data](articles/535289e1.json)
+
+[Extended Data](ext_articles/535289e1.ext.json)
+
+---
+
+### පාසල් සිසුවෙක් පහරදී ගුරුවරයා රෝහලට
+
+*2025-10-01 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215220) · `si`
+
+මොනරාගල ප්‍රසිද්ධ පාසලක සිසුවෙක් සිදුකළ පහරදීමකින් ගුරුවරුයෙකු සුළු තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+අද (01) උදෑසන මෙම පහරදීම සිදුව ඇති අතර, තුවාල ලැබූ ගුරුවරුයා මේ වනවිට මොනරාගල මුලික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන බව වාර්තා වේ.
+
+11 වසරේ ඉගෙනුම ලබන සිසුවෙකු ජංගම දුරකථනයක් පාසලට රැගෙන ඒම සම්බන්ධයෙන් ප්‍රශ්න කිරීම හේතුවෙන් අදාළ සිසුවා ගුරුවරයාට පහරදී ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/c93df978.json)
+
+---
+
+### ‘ஆசிய கோப்பை வேண்டுமா?’ : இதை செய்யுங்கள் மோசின் நக்வி  அதிரடி
+
+*2025-10-01 13:49:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பை-வேண்டுமா-இதை-செய்யுங்கள்-மோசின்-நக்வி-அதிரடி/44-365580) · `ta`
+
+நடப்பு ஆசிய கோப்பை தொடரில் சாம்பியன் பட்டம் வென்றது இந்திய கிரிக்கெட் அணி. இருப்பினும் இந்திய அணிக்கு ஆசிய கோப்பை வழங்கப்படவில்லை. இந்த சூழலில் இந்திய அணியின் கேப்டன் சூர்யகுமார் யாதவ், கோப்பையை நேரில் வந்து பெற்றுக் கொள்ளலாம் என ஆசிய கிரிக்கெட் கவுன்சில் தலைவர் மோசின் நக்வி சொல்லி உள்ளதாக பாகிஸ்தான் ஊடக நிறுவனம் செய்தி வெளியிட்டுள்ளது.
+
+கடந்த ஞாயிற்றுக்கிழமை அன்று நடைபெற்ற ஆசிய கோப்பை தொடரின் இறுதிப் போட்டியில் பாகிஸ்தானை 5 விக்கெட்டுகளில் வீழ்த்தி வெற்றி பெற்றது இந்திய அணி. தொடர்ந்து இந்திய அணி வெற்றிக் கோப்பையை பாகிஸ்தான் நாட்டு அமைச்சரும், பாகிஸ்தான் கிரிக்கெட் வாரியம் மற்றும் ஆசிய கிரிக்கெட் கவுன்சிலின் தலைவருமான மோசின் நக்வி வசமிருந்து பெற முடியாது என தெரிவித்தது.
+
+‘நான்தான் கோப்பையை வழங்குவேன்’ என மோசின் நக்வி தெரிவித்தார். அதை இந்திய அணி ஏற்க மறுத்தது. இதையடுத்து மோசின் நக்வியின் அறிவுறுத்தலின் படி, அலுவலர் ஒருவர் கோப்பையை கையோடு எடுத்துச் சென்றார். இது சர்ச்சையானது.
+
+...
+
+[Data](articles/720c7bbf.json)
 
 ---
 
@@ -97,6 +341,40 @@ More than 300 rescue workers, police officials and soldiers continue to work thr
 
 ---
 
+### பிலிப்பைன்ஸ் நிலநடுக்கத்தில் 69 பேர் பலி (வீடியோ இணைப்பு)
+
+*2025-10-01 13:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸ்-நிலநடுக்கத்தில்-69-பேர்-பலி-வீடியோ-இணைப்பு/50-365579) · `ta`
+
+மத்திய பிலிப்பைன்ஸ் மாகாணத்தில் செவ்வாய்க்கிழமை (30)  இரவு ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கத்தில்   குறைந்தது 69 பேர் கொல்லப்பட்டனர். நூற்றுக்கும் ​மேற்பட்டோர் காயமடைந்துள்ளனர்.
+
+செவ்வாய்க்கிழமை (30)  இரவு 10 மணியளவில் ஏற்பட்ட 6.9 ரிக்டர் அளவிலான நிலநடுக்கத்தில், கடுமையாக பாதிக்கப்பட்ட போகோ நகரம் மற்றும் செபு மாகாணத்தின் வெளிப்புற கிராமப்புற நகரங்களில் இடிந்து விழுந்த வீடுகள், இரவு விடுதிகள் மற்றும் பிற வணிகங்களில் குறிப்பிடப்படாத எண்ணிக்கையிலான குடியிருப்பாளர்கள் சிக்கிக்கொண்டதாக அதிகாரிகள் தெரிவித்தனர்.
+
+உயிர் பிழைத்தவர்களைக் கண்டுபிடிக்க மீட்புப் பணியாளர்கள் புதன்கிழமை (01) விரைந்து சென்றனர்.  , பேக்ஹோக்கள் மற்றும் மோப்ப நாய்களின் ஆதரவுடன், உயிர் பிழைத்தவர்களை வீடு வீடாகத் தேடும் பணியில் ராணுவத் துருப்புக்கள், காவல்துறை மற்றும் பொதுமக்கள் தன்னார்வலர்கள் ஈடுபடுத்தப்பட்டனர்.
+
+...
+
+[Data](articles/d635f9a0.json)
+
+---
+
+### කෝටි 20ක මත් ද්‍රව්‍ය සමඟ අයෙක් අතඅඩංගුවට
+
+*2025-10-01 13:43:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-20ක-මත-දරවය-සමඟ-අයක-අතඅඩගවට/101-680568) · `si`
+
+රුපියල් කෝටි 20 කට ආසන්න වටිනා හෑෂ් මත්ද්‍රව්‍ය , මත්පෙති සමඟ පුද්ගලයකු අත්අඩංගුවට ගත් බව කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය කියයි.
+
+එම සැකකරු සන්තකයේ තිබී හෑෂ් මත්ද්‍රව්‍ය කිලෝ 33 ගෑම් 270 ක්, හොරයින් මත්කුඩු ගෑම් 408 ක් හා මත් පෙති 200 ක් මෙන්ම චරස් කැබලි 7400 ක් පොලිස් භාරයට ගෙන ඇත.
+
+කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් මට්ටක්කුලිය සිරිවර්ධන පාර ප්‍රදේශයේ නිවසක් වටලා මෙම සැකකරු අත් මත්ද්‍රව්‍ය සමග අත්අඩංගවටන ඇත.
+
+සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී එම ප්‍රදේශයේ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම් කරුගේ ජාලයට අයත් බවට අනාවරණය වූ බව පොලිසිය කියයි. අත්අඩංගුවට ගත් සැකකරු මට්ටක්කුලිය සමිත් පුර ප්‍රදේශයේපදිංචි 38 හැවිරිදි  පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/4765919c.json)
+
+---
+
 ### Sujeewa Senasinghe's hearing on controversial luxury vehicle
 
 *2025-10-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226566) · `ta`
@@ -132,6 +410,22 @@ The Prime Minister also called for leading Austrian nationals to visit Sri Lanka
 [Data](articles/e64e0416.json)
 
 [Extended Data](ext_articles/e64e0416.ext.json)
+
+---
+
+### වෙහෙරගල වැව් බැම්මෙන් සංග්‍රාමික උපකරණ රැසක් හමුවෙයි
+
+*2025-10-01 13:17:55* · [`adalk`](https://www.ada.lk/breaking_news/වෙහෙරගල-වැව්-බැම්මෙන්-සංග්‍රාමික-උපකරණ-රැසක්-හමුවෙයි/11-418839) · `si`
+
+යාල ජාතික වනෝද්‍යානයට අයත් භුමියට පිහිටා ඇති බුත්තල වෙහෙරගල ජලාශයේ සොරොව්වට ආසන්නව වැව් බැම්මෙි තිබී ටී 56 මැගසීන් 74ක්,LMG ඩ්‍රම්ස් 35ක්,MPMG හා GPMG ගිණි අවි සදහා යොදන හිස් පතරොම් ගැබ් විශාල ප්‍රමාණයක් සහ යම් රසායන ද්‍රව්‍යයක් පිරවු පොහොර උර දෙකක් ඇතුලුව යුධ හමුදාව භාවිතයට ගන්නා සංග්‍රාමික උපකරන රැසක් අද ( 01) පෙරවරුවේ සොයාගත් බව ගෝනගංආර පොලිසිය පවසයි.
+
+වෙහෙරගල ජලාශයේ ධීවර කටයුතුවල නියැලෙන ධීවරයකු, මෙම අවි ආයුධ වැවෙි වැව් බැම්මේ රළ පනාව අතර තැනින් තැන විසිරි ඇති අයුරු දැක, මෙි පිලිබදව සෙල්ලකතරගම යුධ හමුදා නිළධාරින් දැනුවත් කිරිමෙන් පසු, එම කදවුරේ යුදහමුදා නිළධාරින් හා ගෝනගංආර පොලිසිය එකතුව මෙම ආයුධ තොගය සොයාගෙන තිබෙි.
+
+පොලිසිය පවසන්නේ මෙි වනවිට සොයාගත් අවි ආයුධ වලට වඩා වැඩි ප්‍රමාණයක් ජලාශයේ සොරොව්ව ආසන්න වැවෙි පතුලේ ඇති බවට සැකකරන හෙයින් නාවික හමුදාවෙි කිමිදුම්කරුවන් යොදා මේ පිලිබදව තවදුරටත් සොයා බැලීමට අදහස් කරන බවයි.
+
+...
+
+[Data](articles/9dd7d311.json)
 
 ---
 
@@ -322,6 +616,22 @@ In a statement issued by Hamas, it said,. Hamas has said that it will take a few
 [Data](articles/b0a81eec.json)
 
 [Extended Data](ext_articles/b0a81eec.ext.json)
+
+---
+
+### ජනගහන අරමුදලෙන් වෛද්‍ය උපකරණ
+
+*2025-10-01 12:36:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනගහන-අරමදලන-වදය-උපකරණ/1-680563) · `si`
+
+එක්සත් ජාතීන්ගේ ජනගහන අරමුදලේ (UNFPA) ශ්‍රී ලංකාවේ සහ මාලදිවයිනේ දේශීය කාර්යාල බාර නිලධාරී  ෆුන්ට්ෂෝ වැන්ග්යෙල් (Phuntsho Wangyel) සහ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහත්වරුන් අතර හමුවක් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ දී සිදු විය.
+
+මෙරට සෞඛ්‍ය සේවා පද්ධතියේ වත්මන් ක්‍රියාකාරීත්වය සහ ඉදිරි සැළසුම් සහ අභියෝගයන් පිළිබඳව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස සහ ෆුන්ට්ෂෝ වැන්ග්යෙල් මහත්වරුන් අතර අදහස් හුවමාරු විය.
+
+එහිදී මෙරට ළමා හා මාතෘ සෞඛ්‍ය ප්‍රවර්ධනය සහාය දැක්වීම මෙන්ම එම සේවා සඳහා අවශ්‍ය වෛද්‍ය උපකරණ ලබාදීම, මෙරට ජාතික සෞඛ්‍ය ප්‍රතිපත්තිය සාර්ථකත්වයට පත් කිරීම උදෙසා දැනුම හා අත්දැකීම් හුවමාරු කර ගැනීම මෙන්ම ලිංගික අධ්‍යාපනය සඳහා වන වැඩපිළිවෙල ශක්තිමත් කිරීම හා දැනුම හුවමාරු කර ගැනීම පිළිබඳව ද  සාකච්ඡා සිදු විය.
+
+◼️
+
+[Data](articles/ec5045da.json)
 
 ---
 
@@ -1648,353 +1958,5 @@ The current government is making a great contribution to the development of the 
 [Data](articles/835f79de.json)
 
 [Extended Data](ext_articles/835f79de.ext.json)
-
----
-
-### Bus accident in Oddusuttan loaded with garment factory workers
-
-*2025-10-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226542) · `ta`
-
-A bus traveling from Mullaitivu - Parasuttan to Vavuniya from Parasuttan to Vavuniya has crashed at the Oddusuttan junction early this morning.
-
-The accident occurred in the middle of the Oddusutan junction.
-
-◼️
-
-[Data](articles/6c01abdc.json)
-
-[Extended Data](ext_articles/6c01abdc.ext.json)
-
----
-
-### Tincker arrested at airport
-
-*2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ටනකර-ගවනතටද-අලලය/1-680534) · `si`
-
-Katunayake Airport Criminal Investigations (CID) officials have been arrested by Sri Lanka, Katunayake, who was hiding in Dubai.
-
-Tinker, a resident of Colombo 15, is a resident of Colombo 15 and is the main follower of an organized criminal and the drug dealer, Palanie Shiran, Kochchikade, Kochchikade.
-
-The tinker this morning at Dubai from Dubai to SriLankan Airlines on Dubai to Katunayake airport and was arrested by a group of criminal investigations.
-
-He had fled the country on the Grandpass police Division of the Grandpass Susanna area on 16.04.2015 and had a flight ban against him.
-
-Tinker, who was arrested, handed over to a group of officers from the Peliyagoda Police Station, which arrived at the Katunayake Airport and is to be produced before the Malconi Paradure No. 05.
-
-◼️
-
-[Data](articles/084dda36.json)
-
-[Extended Data](ext_articles/084dda36.ext.json)
-
----
-
-### Tincker arrested at airport
-
-*2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ටනකර-ගවනතටද-අලලය/101-680534) · `si`
-
-Katunayake Airport Criminal Investigations (CID) officials have been arrested by Sri Lanka, Katunayake, who was hiding in Dubai.
-
-Tinker, a resident of Colombo 15, is a resident of Colombo 15 and is the main follower of an organized criminal and the drug dealer, Palanie Shiran, Kochchikade, Kochchikade.
-
-The tinker this morning at Dubai from Dubai to SriLankan Airlines on Dubai to Katunayake airport and was arrested by a group of criminal investigations.
-
-He had fled the country on the Grandpass police Division of the Grandpass Susanna area on 16.04.2015 and had a flight ban against him.
-
-Tinker, who was arrested, handed over to a group of officers from the Peliyagoda Police Station, which arrived at the Katunayake Airport and is to be produced before the Malconi Paradure No. 05.
-
-◼️
-
-[Data](articles/949566ff.json)
-
-[Extended Data](ext_articles/949566ff.ext.json)
-
----
-
-### Central Environmental Authority also shines to "goejo
-
-*2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/101-680533) · `si`
-
-The Central Environmental Authority has commenced working with the Government Digital Payment Platform.
-
-Accordingly, all payments will be comfortable to pay all payments through the "Government Digital Platform" for various services provided by the Central Environmental Authority.
-
-Inspection Fees (License Fees) for services provided by the Central Environmental Authority (License Fees), Certificate Fees, Administration Fee (Pvtness Fees) Fees, Annual Fees, Laboratory Fees, Procurement Fees (WASTE DISPOSAL FEES) and Exposition Fees for the National Environmental Information Center "GOVPA State Digital Payment Platform" The Central Environmental Authority (CEA) says it is possible to pay it.
-
-"GOVPA The Kingdom Digital Payment Platform allows you to pay these fees on six banks and Fryanc (Fintach applications).
-
-The Environmental Authority says that due to this methodology, the Clients and the Central Environmental Authority will enable the clients and the Central Environmental Authority.
-
-...
-
-[Data](articles/bd6a4b95.json)
-
-[Extended Data](ext_articles/bd6a4b95.ext.json)
-
----
-
-### Central Environmental Authority also shines to "goejo
-
-*2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/1-680533) · `si`
-
-The Central Environmental Authority has commenced working with the Government Digital Payment Platform.
-
-Accordingly, all payments will be comfortable to pay all payments through the "Government Digital Platform" for various services provided by the Central Environmental Authority.
-
-Inspection Fees (License Fees) for services provided by the Central Environmental Authority (License Fees), Certificate Fees, Administration Fee (Pvtness Fees) Fees, Annual Fees, Laboratory Fees, Procurement Fees (WASTE DISPOSAL FEES) and Exposition Fees for the National Environmental Information Center "GOVPA State Digital Payment Platform" The Central Environmental Authority (CEA) says it is possible to pay it.
-
-"GOVPA The Kingdom Digital Payment Platform allows you to pay these fees on six banks and Fryanc (Fintach applications).
-
-The Environmental Authority says that due to this methodology, the Clients and the Central Environmental Authority will enable the clients and the Central Environmental Authority.
-
-...
-
-[Data](articles/fb8cf407.json)
-
-[Extended Data](ext_articles/fb8cf407.ext.json)
-
----
-
-### President Dissanayake Meets Emperor of Japan and JICA Chief
-
-*2025-10-01 09:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/president-dissanayake-meets-emperor-of-japan-and-jica-chief) · `en`
-
-...
-
-[Data](articles/8cb3c17f.json)
-
-[Extended Data](ext_articles/8cb3c17f.ext.json)
-
----
-
-### Warning
-
-*2025-10-01 09:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-365566) · `ta`
-
-The Department of Meteorology has warned that the hottest weather may be in the 8 districts of the country today (01).
-
-The Department of Meteorology has announced that the human body's temperature in the North Central and Eastern Provinces, Vavuniya, Mullaitivu and Moneragala districts may reach a warning level.
-
-Thus, those who work outdoors are advised to wear light clothes, relax in shadow areas and drink adequate water.. Remble
-
-◼️
-
-[Data](articles/028ccc8b.json)
-
-[Extended Data](ext_articles/028ccc8b.ext.json)
-
----
-
-### Two crores were arrested
-
-*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-10ක-වච-කළ-දනනක-අලලය/101-680532) · `si`
-
-The Criminal Investigations Department (CID) has arrested a suspect and a suspect in defense and the suspension of false consistency to defraud the proof of land under the "Heritage Program.
-
-The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
-
-The 43-year-old suspect was a resident of Bakatuna.
-
-The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
-
-◼️
-
-[Data](articles/16205c94.json)
-
-[Extended Data](ext_articles/16205c94.ext.json)
-
----
-
-### Two crores were arrested
-
-*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-10ක-වච-කළ-දනනක-අලලය/1-680532) · `si`
-
-The Criminal Investigations Department (CID) has arrested a suspect and a suspect in defense and the suspension of false consistency to defraud the proof of land under the "Heritage Program.
-
-The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
-
-The 43-year-old suspect was a resident of Bakatuna.
-
-The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
-
-◼️
-
-[Data](articles/d84f1b3e.json)
-
-[Extended Data](ext_articles/d84f1b3e.ext.json)
-
----
-
-### Today's the timeline
-
-*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680531) · `si`
-
-The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
-
-The Department says that there is mainly due to the rest of the island.
-
-From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
-
-◼️
-
-[Data](articles/62874de4.json)
-
-[Extended Data](ext_articles/62874de4.ext.json)
-
----
-
-### Today's the timeline
-
-*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680531) · `si`
-
-The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
-
-The Department says that there is mainly due to the rest of the island.
-
-From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
-
-◼️
-
-[Data](articles/c64bb266.json)
-
-[Extended Data](ext_articles/c64bb266.ext.json)
-
----
-
-### Cigarettes, cosmetics and e-cigarettes worth over Rs. 9.5 mln seized at BIA
-
-*2025-10-01 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113096/cigarettes-cosmetics-and-e-cigarettes-worth-over-rs-95-mln-seized-at-bia) · `en`
-
-A consignment of foreign cigarettes, cosmetics, and e-cigarettes worth over Rs. 9.5 million has been seized by Sri Lanka Customs officials at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The seizure occurred when four Sri Lankan male passengers, aged between 23 and 25, were intercepted upon arrival from Dubai on flights EK 652 and EK 654 on Tuesday (30).
-
-The arrested individuals are identified as residents of Kalmunai, Saindamardu, and Colombo, the statement said.
-
-Authorities confiscated 292 cartons of foreign cigarettes worth Rs. 8.76 million, cosmetics valued at Rs. 450,000, and e-cigarettes amounting to Rs. 300,000.
-
-The Customs officers stated that the estimated street value of the seized cigarettes alone is approximately Rs. 8.7 million.
-
-A penalty of Rs. 750,000 has been imposed on the four arrested passengers, and further investigations are underway.
-
-◼️
-
-[Data](articles/6d5fdd02.json)
-
-[Extended Data](ext_articles/6d5fdd02.ext.json)
-
----
-
-### Sri Lanka brought to Sri Lanka
-
-*2025-10-01 08:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அழைத்து-வரப்பட்டார்-டிங்கர்/175-365565) · `ta`
-
-Police said that Sreedharan Niranjan alias 'Tinker', a member of the organized criminal gang who was arrested in Dubai recently, was brought to Sri Lanka this morning.
-
-◼️
-
-[Data](articles/973e4103.json)
-
-[Extended Data](ext_articles/973e4103.ext.json)
-
----
-
-### Search Operations Continue for Weapons Dumped in Kataragama
-
-*2025-10-01 08:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/search-operations-continue-for-weapons-dumped-in-kataragama) · `en`
-
-COLOMBO (News 1st) - Police say search operations will continue today to recover weapons dumped in the Weheragalla wewa in Kataragama.Acting Police Media Spokesperson ASP Minura Senarath stated that divers will be deployed to carry out the search.According to information provided by an Army Intelligence Officer, 74 empty T-56 magazines, 36 empty LMG magazines, and 5 empty MPMG drums were discovered in the lake yesterday.The recovered items have been handed over to the GonaganAra Police.ASP Senarath added that investigations are underway to determine who was responsible for bringing and dumping the weapons into the lake.
-
-◼️
-
-[Data](articles/92077e13.json)
-
-[Extended Data](ext_articles/92077e13.ext.json)
-
----
-
-### Criminal gang member tiasts bring to the island
-
-*2025-10-01 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215208) · `si`
-
-Sridharan Niranjan alias, who is deported from Dubai, has been brought to the island this morning.
-
-At the Katunayake International Airport, the officials of the CID had handed over to the Peliyagoda Police Station at the Katunayake International Airport this morning.
-
-The suspect is a 36 year old resident of Colombo 15, police said
-
-The suspect has been identified as an organized crime and drug dealer, Palanni Shiran, named Palani Shiran, 'Kochchikade Shiran', police said.
-
-The suspect is the driver of the car, which was shot dead in a three-wheeler near the Grandpass police cemetery, near the Grandpass division.
-
-In addition, a suspect had welcomed the transport of firearms to commit serious injuries at the Peliyagoda Police Division on 19.108.2012.
-
-The suspect is currently undergoing a foreign travel ban against the suspect and the suspect has been abroad.
-
-The suspect is to be produced before the Hon. Magistrates Magistrate's Court.
-
-◼️
-
-[Data](articles/c5a4cf25.json)
-
-[Extended Data](ext_articles/c5a4cf25.ext.json)
-
----
-
-### Underworld figure ‘Tinker’ extradited from Dubai
-
-*2025-10-01 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113095/underworld-figure-tinker-extradited-from-dubai-) · `en`
-
-Underworld figure Sridaran Niranjan, also known as ‘Tinker’, who was arrested in Dubai has been brought back to Sri Lanka this morning (01), police confirmed.
-
-He was extradited to Sri Lanka as a result of a joint operation conducted by the Sri Lanka Police, State Intelligence Service (SIS), and Dubai Police of the United Arab Emirates (UAE).
-
-The arrested suspect is identified as a 36-year-old resident of Colombo 15, police confirmed.
-
-The police stated that the suspect is recognized as an associate of the notorious criminal leader and drug trafficker Palani Shiran Glorian, alias “Kochchikade Shiran.”
-
-He is also accused of transporting firearms used in a shooting on August 19, 2025, in Gnanarathana Mawatha, Peliyagoda, which left one person dead and another severely injured.
-
-Investigations revealed that the suspect, despite being under a travel ban, left the country on August 19, 2025.
-
-...
-
-[Data](articles/8404e107.json)
-
-[Extended Data](ext_articles/8404e107.ext.json)
-
----
-
-### Earthquake in Philippines: 26 killed
-
-*2025-10-01 07:59:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸில்-பாரிய-நிலநடுக்கம்-26-பேர்-பலி/50-365564) · `ta`
-
-26 people have been killed in the earthquake, the country's disaster management officials said.
-
-The earthquake struck on the coast of Sebu at around 10 pm local time yesterday.
-
-◼️
-
-[Data](articles/4f280796.json)
-
-[Extended Data](ext_articles/4f280796.ext.json)
-
----
-
-### President Reaffirms Commitment to Children and Elders on World Children’s Day and Elders’ Day
-
-*2025-10-01 07:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/president-reaffirms-commitment-to-children-and-elders-on-world-children%e2%80%99s-day-and-elders%e2%80%99-day) · `en`
-
-COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the government’s commitment to safeguarding the rights and wellbeing of children and elders across the nation.The President highlighted that children represent the future of both the nation and the world, emphasizing that their innocence and purity must be nurtured. He stressed that it is the government’s responsibility to ensure that all children have equal access to education, guidance, social protection, and protection from abuse, discrimination, and all forms of violence. He underlined that no child of school-going age should be deprived of education due to ethnicity, economic background, or any other factor.The President noted that this year’s budget places special focus on improving healthcare, education, and support services for children with developmental challenges, including autism.
-
-◼️
-
-[Data](articles/c4976f07.json)
-
-[Extended Data](ext_articles/c4976f07.ext.json)
 
 ---

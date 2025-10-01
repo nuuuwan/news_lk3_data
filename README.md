@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 05:05:54**
+As of **2025-10-02 05:20:23**
 
 ## Newspaper Stats
 
-*Scraped **80,366** Articles*
+*Scraped **80,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 539
 lankadeepalk | 615
 dbsjeyarajcom | 637
 bbccomsinhala | 716
-colombotelegraphcom | 802
+colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
@@ -27,11 +27,23 @@ adaderanasinhalalk | 13,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,366 (100.0%) of 80,366 articles have been extended.
+80,366 (100.0%) of 80,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA
+
+*2025-10-01 22:16:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-chief-negotiator-would-be-instrumental-for-npp-in-finalizing-etca/) · `en`
+
+Recent reports have sparked serious concerns about Sri Lanka’s economic future. The country continues to struggle to recover from its lowest point, and prospects for economic stability remain uncertain. As the National People’s Power (NPP) government marks its first year in office, both the U.S. State Department and the Asian Development Bank have issued red alerts about Sri Lanka’s economic outlook.
+
+...
+
+[Data](articles/a171b32a.json)
+
+---
 
 ### Discussion on establishing Sri Lanka Innocition Center
 
@@ -2014,29 +2026,5 @@ The police have asked the public to contact the police station 071 - 8591394 or 
 [Data](articles/67fdafac.json)
 
 [Extended Data](ext_articles/67fdafac.ext.json)
-
----
-
-### The death of rugby player Tajuddin: The copy of another play should not be staged - PA
-
-*2025-10-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226592) · `ta`
-
-The fact that the reality of death is more cruel than death is more cruel than death.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Wednesday (01).
-
-The death of rugby player Wasim Tajuddin was seen as the main speech in the 2015 presidential election. When the good government came to power, the investigation into his death accelerated.
-
-It is horrible for the reality of death to make it confidential, so we are in the position that the secret of the death of Rugby player Wasim Tajuddin should be revealed.
-
-A new issue has now been revealed in the wake of a long -standing investigation by the government. Wasim Tajudin's father -in -law was consciously addressing the death of Wasim Tajuddin. Against this backdrop, the media spokesman refers to another new issue to the media.
-
-In response, the media spokesman reveals another new issue to the media.. This issue must be based on investigations beyond the play.
-
-...
-
-[Data](articles/69bfcf64.json)
-
-[Extended Data](ext_articles/69bfcf64.ext.json)
 
 ---

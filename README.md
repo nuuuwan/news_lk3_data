@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 22:11:09**
+As of **2025-10-01 23:07:24**
 
 ## Newspaper Stats
 
-*Scraped **80,348** Articles*
+*Scraped **80,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,22 +16,66 @@ colombotelegraphcom | 802
 dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
-dailyftlk | 5,615
-adalk | 7,724
-adaderanalk | 10,347
+dailyftlk | 5,616
+adalk | 7,726
+adaderanalk | 10,351
 tamilmirrorlk | 11,986
-virakesarilk | 13,142
-adaderanasinhalalk | 13,860
+virakesarilk | 13,148
+adaderanasinhalalk | 13,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,348 (100.0%) of 80,348 articles have been extended.
+80,361 (100.0%) of 80,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Discussion on establishing Sri Lanka Innocition Center
+
+*2025-10-01 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215235) · `si`
+
+The Australian Royal Melbourne Institute of Technology, University of Australia and the Presidential Secretariat was held at the Presidential Secretariat yesterday (30) at the Presidential Secretariat.
+
+The discussion was organized on coordination of the R & D Commerce National Access (NIRDC).
+
+The establishment of RMIT Sri Lanka Innoctioration Center will provide an opportunity to implement the existing Doctorate (Joint PhD) to implement more effectiveness.
+
+It enables the identification of challenges in Sri Lanka, research and development (R & D national needs) and the results of this process are expected to take the results to the public.
+
+...
+
+[Data](articles/aa785f91.json)
+
+[Extended Data](ext_articles/aa785f91.ext.json)
+
+---
+
+### The first foreigner who obtained the residence visas for investments in Sri Lanka
+
+*2025-10-01 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215234) · `si`
+
+German Dr. Pii Dr. Dr. Pii Dr. Dr. Pii Drazell has been appointed as the first foreigner registered under the provision of the Residence Visa, which is introduced by the Government of Sri Lanka.
+
+Accordingly, the respective Residence Visa permission has been presented to Mr. Community and Parliamentary Affairs Minister Ananda Wijepala today (1).
+
+This has been provided with regard to the individual investor category approved under revised immorality and emigrants posted in the exceptional gazette and emigrant commissioned in the Gazette.
+
+This residence visa is a Sri Lankan permit to facilitate residence for special purposes.
+
+An foreigners for the individual investor category of the Individual Investor category gives a five year residence for foreign currency for foreign currency.
+
+Also, 10 years of residents will be given a 10 year residence for foreign currency.
+
+...
+
+[Data](articles/1eba89d4.json)
+
+[Extended Data](ext_articles/1eba89d4.ext.json)
+
+---
 
 ### Professor Mohan Munasinghe meets Governor of New Jersey at the US-India Business Forum in Mumbai
 
@@ -51,6 +95,50 @@ Prof. Munasinghe explained how the business, civil society and the government sh
 
 ---
 
+### Son of ‘Kajja’ responds to allegations linking his father to Wasim Thajudeen’s case
+
+*2025-10-01 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/113125/son-of-kajja-responds-to-allegations-linking-his-father-to-wasim-thajudeens-case) · `en`
+
+The eldest son of Aruna Vidanagamage, also known as Kajja, who was recently murdered in Middeniya, issued a public statement today (01) through social and electronic media, responding to recent revelations made by his late father’s wife.
+
+According to her statement, ‘Kajja’ was allegedly present in the suspicious vehicle that followed the car in which rugby player Wasim Thajudeen died under mysterious circumstances in 2012.
+
+Speaking to the media, the eldest son of ‘Kajja’ questioned police as to why CCTV footage related to the investigation had not been shown to his father’s siblings to confirm whether the individual in the footage was indeed their brother.
+
+Yesterday (30), Acting Police Media Spokesman Assistant Superintendent of Police (ASP) Minura Senarath revealed that Aruna Vidanagamage, also known as Kajja, had been identified by his wife as one of the individuals in the suspicious vehicle that followed Thajudeen’s car in 2012.
+
+...
+
+[Data](articles/9e0a769e.json)
+
+[Extended Data](ext_articles/9e0a769e.ext.json)
+
+---
+
+### German national Pay Drechsel receives first residence visa under newly introduced visa scheme
+
+*2025-10-01 20:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113124/german-national-pay-drechsel-receives-first-residence-visa-under-newly-introduced-visa-scheme) · `en`
+
+The first residence visa under the newly introduced ‘Single Individual Investor Category’, in accordance with regulations published in the Extraordinary Gazette No. 2360/24 dated November 27, 2023 has been issued to German National Dr. Pay Drechsel today (01).
+
+The regulations were made under Section 52, read with Section 23 of the Immigrants and Emigrants Act.
+
+Accordingly, the residence visa was granted to Dr. Pay Drechsel by the Minister of Public Security and Parliamentary Affairs, Ananda Wijepala.
+
+Under this visa category, foreign nationals are eligible to apply for a residence visa under the following conditions:
+
+A 5-year residence visa for an investment of USD 100,000 (or equivalent in foreign currency), or
+
+A 10-year residence visa for an investment of USD 200,000 (or equivalent in foreign currency).
+
+...
+
+[Data](articles/8882f2b0.json)
+
+[Extended Data](ext_articles/8882f2b0.ext.json)
+
+---
+
 ### The gazette notification that wears seat belts for all vehicles on the expressway
 
 *2025-10-01 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215233) · `si`
@@ -64,6 +152,26 @@ The gazette was issued by Transport, Highways, Ports and Civil Aviation.
 [Data](articles/b8345894.json)
 
 [Extended Data](ext_articles/b8345894.ext.json)
+
+---
+
+### Renewal of a Sun-thero
+
+*2025-10-01 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215232) · `si`
+
+India's webuvuath Sri vows today (1), India's first batsman was the first batsman in the Under-19 Test.
+
+The exclusive milestone has crossed the milestone in the second Test against Sri Vidyalaya, only 14 years in Brisben.
+
+The sun raised 113 runs off 86 balls with eight fours and nine fours in the event.
+
+Among the adultment cricket scored less than 100 balls and the first batsman was the inscription of former New Zealand leader Brendon.
+
+◼️
+
+[Data](articles/df05c579.json)
+
+[Extended Data](ext_articles/df05c579.ext.json)
 
 ---
 
@@ -108,6 +216,24 @@ Special programs based on various activities were carried out for the children w
 [Data](articles/f12dea21.json)
 
 [Extended Data](ext_articles/f12dea21.ext.json)
+
+---
+
+### Gazette issued on mandatory seat belts for all vehicles traveling on expressways
+
+*2025-10-01 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113123/gazette-issued-on-mandatory-seat-belts-for-all-vehicles-traveling-on-expressways) · `en`
+
+A gazette notification has been issued by the Minister of Transport, Highways, Ports and Civil Aviation making it mandatory for drivers and all passengers of vehicles traveling along expressways to wear seat belts.
+
+According to the gazette notification, the driver of a motor vehicle driven or used on an expressway and every passenger and individual occupying any seat and travelling in the motor vehicle are required to wear an individual safety seat belt while such motor vehicle is being driven or used on the expressway.
+
+Furthermore, the driver of a motor vehicle should not enter into or drive or use a vehicle on an expressway unless such motor vehicle is fitted with individual safety seat belts to be worn by the driver, every passenger and individual occupying a seat.
+
+◼️
+
+[Data](articles/68ccdd04.json)
+
+[Extended Data](ext_articles/68ccdd04.ext.json)
 
 ---
 
@@ -180,6 +306,24 @@ Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures t
 [Data](articles/a036c02e.json)
 
 [Extended Data](ext_articles/a036c02e.ext.json)
+
+---
+
+### Fitch affirms Sri Lanka at ‘CCC+’
+
+*2025-10-01 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/113121/fitch-affirms-sri-lanka-at-ccc) · `en`
+
+Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘CCC+’.
+
+Fitch Ratings stated that Sri Lanka’s ‘CCC+’ sovereign rating remains constrained by elevated general government indebtedness and a high interest-revenue ratio despite completion of the sovereign’s debt restructuring in 2024.
+
+Sustained adherence to a path of reforms is facilitating a solid economic recovery, low inflation, a substantial fiscal adjustment, and improvements in the external finance position, it added further.
+
+...
+
+[Data](articles/e8eee9c8.json)
+
+[Extended Data](ext_articles/e8eee9c8.ext.json)
 
 ---
 
@@ -407,6 +551,24 @@ The school has approximately 230 students in total, and all of them were served 
 
 ---
 
+### பல்லின மக்கள் வாழும் எமது நாட்டுக்கு மொழிபெயர்ப்பு சேவை ஊடாக பாரியதொரு பணி இடம்பெறுகிறது - முனீர் முளப்பர்
+
+*2025-10-01 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226620) · `ta`
+
+பல்வேறு மொழி பேசும் மக்கள் வாழும் எமது நாட்டில் மொழிபெயர்ப்பாளர்களின் பணி மகத்தானதாகும்.  நாட்டில் இடம்பெற்ற 30 வருட யுத்தத்துக்கு மொழியும் ஒரு காரணமாகும் என தேசிய ஒருமைப்பாடு பிரதி அமைச்சர் முனீர் முளப்பர் தெரிவித்தார்.
+
+செம்டம்பர் 30 சர்வதேச மொழிபெயர்ப்பு தினத்தை முன்னிட்டு அரச மொழி திணைக்களம் ஏற்பாடு செய்திருந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மொழிபெயர்ப்பாளர்களுக்கு மொழி மூலம் ஒருவரை ஒருவர் புரிந்துகொள்ளும் இயலுமை இருக்கிறது. ஆளும் அரசாங்கத்துக்கும் ஒவ்வொருவருக்கிடையில் புரிந்துணர்வை ஏற்படுத்த வேண்டிய தேவையே இருந்து வருகிறது.
+
+சமாதானம் மற்றும் நல்லிணக்கத்தை கட்டியெழுப்புவது அரசாங்கம் என்றவகையில் அதன் பொறுப்பை உணர்ந்து, பொழிபெயர்ப்பு துறையில் இருந்துவரும் பிரச்சினைகள் தொடர்பில் புரிந்துணர்வுடன் அதற்கு தேவையான தீர்வுகளை பெற்றுக்கொடுக்க கலவனம் செலுத்தி இருக்கிறது.
+
+...
+
+[Data](articles/10bbaab6.json)
+
+---
+
 ### Energy Minister visits India: Advice on bilateral energy cooperation
 
 *2025-10-01 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226621) · `ta`
@@ -426,6 +588,26 @@ Minister IECE visited the exhibition and showcased India's modern technologies a
 [Data](articles/ac229dfb.json)
 
 [Extended Data](ext_articles/ac229dfb.ext.json)
+
+---
+
+### President - Sri Lanka Freedom Party (SLFP)
+
+*2025-10-01 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226619) · `ta`
+
+President Anura Kumara Dissanayake has gone to the United States and betrayed the motherland among the countries of the world. Sri Lanka Freedom Party (SLFP) general secretary Duminda Dissanayake said that the country's glory has increased the market opportunities and has made Sri Lanka a disgrace to the international community.
+
+He further stated this at a press conference held at the Freedom Party headquarters on Wednesday (01) at the Colombo -Dolly Road.
+
+Everyone, including President Anura Kumara Dissanayake, was classified as to why the tax was levied for fuel during the past regime.
+
+But what are they providing relief in fuel prices today? When the President went to Japan and addressed the Sri Lankan citizens, he said the tax would not be increased in the budget this year.. For that, they were angry.
+
+...
+
+[Data](articles/7d6134a1.json)
+
+[Extended Data](ext_articles/7d6134a1.ext.json)
 
 ---
 
@@ -494,6 +676,20 @@ The total number of students of the school is nearly 230, and all of them have b
 [Data](articles/ba885b53.json)
 
 [Extended Data](ext_articles/ba885b53.ext.json)
+
+---
+
+### வலிந்து காணாமலாக்கப்பட்டோரின் குடும்பங்களுக்கு எதிராக கட்டாய தடுப்புக்காவல் மற்றும் ஒடுக்குமுறைகள் - ஐ.நா குழுவின் அறிக்கையாளர்கள் தீவிர கரிசனை
+
+*2025-10-01 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226624) · `ta`
+
+வலிந்து காணாமலாக்கப்படல்களால் பாதிக்கப்பட்டோரின் குடும்பங்களுக்கு எதிரான கட்டாய தடுப்புக்காவல் மற்றும் ஒடுக்குமுறைகள் தொடர்பில் வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐக்கிய நாடுகள் குழுவின் அறிக்கையாளர்கள் தீவிர கரிசனையை வெளிப்படுத்தியுள்ளனர்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடருக்கு சமாந்தரமாக வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் 29 ஆவது கூட்டம் கடந்த வாரம் (22) ஜெனிவாவில் ஆரம்பமானது. இக்கூட்டத்தில் கடந்த 26 - 29 ஆம் திகதி வரை இலங்கை விவகாரம் குறித்து ஆராயப்பட்டது.
+
+...
+
+[Data](articles/794b0d6a.json)
 
 ---
 
@@ -867,7 +1063,7 @@ Considering the proposed facts, the additional Magistrate, the additional Magist
 
 ---
 
-### Sri Lanka Customs revenue exceeds 37 percent in September
+### Sri Lanka Customs exceed revenue target by 37-pct  in September
 
 *2025-10-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-revenue-exceeds-37-percent-in-september-242491/) · `en`
 
@@ -1541,6 +1737,56 @@ The former Added Director of the National Planning Department of the Ministry of
 
 ---
 
+### Physical Punished Prevention amendment to Parliament
+
+*2025-10-01 16:23:10* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ශාරීරික-දැඩුවම්-දීම-වැළැක්වීමේ--සංශෝධනය-පාර්ලිමේන්තුවට/11-418852) · `si`
+
+The Ministry of Women and Child Affairs has said that the amendment of the Penal Code has been presented to Parliament by the Ministry of Women and Child Affairs.
+
+The Ministry will be able to release them to the schools after the end of the proposed amendment.
+
+◼️
+
+[Data](articles/1c5dc9e4.json)
+
+[Extended Data](ext_articles/1c5dc9e4.ext.json)
+
+---
+
+### பெரும்பான்மையுள்ள அரசாங்கத்தின் பதிலளிக்காத நிலையை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சுட்டிக்காட்டு
+
+*2025-10-01 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226606) · `ta`
+
+76 வருட வரலாற்றில் முறைமையில் மாற்றத்தைக் கொண்டு வருவது எவ்வாறு போனாலும், மக்கள் தமது பிரச்சினைகளை இப்போது எதிர்க்கட்சித் தலைவரிடமே முன்வைக்கின்றனர். தற்போதைய அரசாங்கத்திற்கு இலட்சக்கணக்கான வாக்குகளை வழங்கி, பாராளுமன்றத்தில் 225இல் 159 ஆசனங்களை பெற்றுத் தந்து, தெளிவான பெரும்பான்மையை பெற்றுத் தந்த போதிலும், எதிர்க்கட்சித் தலைவரிடம் தமது பிரச்சினைகளைச் சொல்லும் நிலையையே இன்று நாடு அடைந்துள்ளது. பதில்களையும் தீர்வுகளையும் எதிர்பார்த்து தற்போதைய அரசாங்கத்திற்கு பெரும்பான்மை அதிகாரத்தை வழங்கினாலும், மக்கள் எதிர்பார்த்த பதில்களையும் தீர்வுகளையும் இதுவரை வழங்கியபாடில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+அனுராதபுரம் மாவட்டம், கலாவெவ தேர்தல் தொகுதி, கட்டியாவ பிரதேசத்தில் நடைபெற்ற எதிர்க்கட்சித் தலைவரின் நடமாடும் சேவை வேலைத்திட்டம் மற்றும் ஐக்கிய மக்கள் சக்திக்கு புதிய அங்கத்தவர்களை இணைத்துக் கொள்ளும் நிகழ்வு ஆகியவற்றில் கலந்துகொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/78d60e65.json)
+
+---
+
+### Mannar Wind Power Plant: Government is trying to respond through the riot division
+
+*2025-10-01 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226602) · `ta`
+
+Repression is being used by the opposition parties not only to fight for their rights. The government is not important to the people's struggles or the opinions of the environmentalists regarding the Mannar wind power project.. United People's Power MP Mujibur Rahman accused the government of trying to respond through the rioting unit instead of resolving the issue through negotiations.
+
+He further stated at the media conference held at the United People's Power Office in Colombo on Wednesday (1).
+
+A massive demonstration was staged by the public against the wind power plant in Mannar.
+
+Many environmentalists have pointed out that the project will have a huge impact on the environment and birds. But the government ignores the people's struggles or the opinions of the environmentalists without importance. No one can prioritize the governing body to respond to these.
+
+...
+
+[Data](articles/11b392af.json)
+
+[Extended Data](ext_articles/11b392af.ext.json)
+
+---
+
 ### Suspect arrested with foreign cigarettes in Colombo
 
 *2025-10-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226607) · `ta`
@@ -1558,6 +1804,48 @@ In addition, the suspect and foreign cigarettes were handed over to the Coastal 
 [Data](articles/6f490288.json)
 
 [Extended Data](ext_articles/6f490288.ext.json)
+
+---
+
+### False contraceptive allegations are false in the short term - doctor Sahabdin
+
+*2025-10-01 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226600) · `ta`
+
+I and my family have faced the suffering of a Tauheed Muslim doctor for 400 Sinhalese mothers through the Cesarean system.. The allegation made against me for coming to power was false in a short time. Those who accused me of referring to as professors have disappeared today due to karma.
+
+I don't have contraception. The country's birth rate has fallen shortly in the midst of economic impact. The rate of admission of children per grade has declined by millions.. Birth rate is seen as the main component of a country's economic development. Therefore, the government should focus on this issue.
+
+He was speaking at the launch of the 'Run Dhoni' book held on Tuesday (30) at the Bandaranaike Memorial International Conference Hall.
+
+I am a man who has completely ignored communalism with fellow ethnicity and brotherhood in a beautiful small village called Kalawei.. I am firmly in the position that the country can never progress without the abolition of communalism.
+
+...
+
+[Data](articles/7f242397.json)
+
+[Extended Data](ext_articles/7f242397.ext.json)
+
+---
+
+### The promise to the intellectual ministers
+
+*2025-10-01 16:02:00* · [`adalk`](https://www.ada.lk/breaking_news/පරිසර-ඇමති-නඳුන්ට-දුන්-පොරොන්දුව/11-418851) · `si`
+
+Minister of the Ministry of Wildlife is the sections of the Department of Wildlife and the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of Reptiles.
+
+Mihintale Deputy Dilhara, 15-year old, who is undermined to the reigns, is being carried out to the homes, to release the homes and conserves dead animals and conserves dead animals.
+
+The Department of Wildlife has been taken by the Department of Wildlife and Animal specimens after the television program was revealed in connection with the child's ability.
+
+Minister of Environment Dr. Damika Detunge to the residence of the Minister of Environment Dhammika Detuna, Mihintale, Ambaranda, Anuradhapura, has been present at the Vavuniya.
+
+A few weeks ago, the interest in this subject was not able to recover and was not discouraged by the minister to call on the same day as he had gone to Dilhara.
+
+...
+
+[Data](articles/f36f74c1.json)
+
+[Extended Data](ext_articles/f36f74c1.ext.json)
 
 ---
 
@@ -1742,305 +2030,5 @@ But the government ignores the people's struggles or the opinions of the environ
 [Data](articles/c16091d4.json)
 
 [Extended Data](ext_articles/c16091d4.ext.json)
-
----
-
-### Comes with the line of Chillicily
-
-*2025-10-01 15:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருகிறது-சிலிசிலி-வரி/175-365587) · `ta`
-
-The Ministry of Environment has announced in the Supreme Court on Wednesday (01) that the Gazette Notification will be issued for the Polythene and Politein bags from November 1.
-
-◼️
-
-[Data](articles/75374a92.json)
-
-[Extended Data](ext_articles/75374a92.ext.json)
-
----
-
-### Tax for Chillicily Pack
-
-*2025-10-01 15:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிசிலி-பேக்குக்கு-வரி/175-365587) · `ta`
-
-The Ministry of Environment has announced in the Supreme Court on Wednesday (01) that the Gazette Notification will be issued for the Polythene and Politein bags from November 1.
-
-◼️
-
-[Data](articles/96faea3f.json)
-
-[Extended Data](ext_articles/96faea3f.ext.json)
-
----
-
-### Sri Lanka tourist arrivals rise 30.2-pct in September
-
-*2025-10-01 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-rise-30-2-pct-in-september-242365/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals increased 30.2 percent from a year ago to 158,971 in September 2025, data from the island’s tourism promotion office showed.
-
-There were 49,697 visitors from India in September, making up 31.3 percent of total arrivals, followed by the UK with 10,752 which made up 6.8 percent of arrivals.
-
-There were 10,527 visitors (6.6%) from China, 9,344 from Germany (5.9%), and 9,105 from Australia (5.7%).
-
-◼️
-
-[Data](articles/5be08abe.json)
-
-[Extended Data](ext_articles/5be08abe.ext.json)
-
----
-
-### I. Na. Meeting of the Minister of Health and Media in charge of the Population Fund
-
-*2025-10-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226583) · `ta`
-
-Phundsho Wangyel, the United Nations Population Fund (UNFPA) for Sri Lanka and the Maldives, recently met with Health and Mass Media Minister Nalinda Jayadissa at the Ministry and discussed the current health service of the country.
-
-It has been reported that Phundsho Wangyel will serve as the Officer of the United Nations Fund of the United Nations Fund (UNFPA) for Sri Lanka and the Maldives from September 01, 2025.
-
-With extensive expertise and experience in planning, coordination and policy analysis, he was involved in a long -expressed exchange of health and mass media Minister Nalinda Jayadisa on the current functioning and future plans and challenges of the structure of the health service system in the country.
-
-Improving the health of the country and the health of the country, the provision of related medical equipment, the exchanging education and experiences of the country's national health policy, and strengthening the sex education program.
-
-...
-
-[Data](articles/3efd17ce.json)
-
-[Extended Data](ext_articles/3efd17ce.ext.json)
-
----
-
-### Sri Lanka vehicle imports spend $917mn on to Aug 2025, forex inflows $18.9bn
-
-*2025-10-01 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-imports-spend-917mn-on-to-aug-2025-forex-inflows-18-9bn-242483/) · `en`
-
-ECONOMYNEXT – Sri Lanka has spent 198.9 million US dollars on personal vehicles in August 2025, central bank data showed, while commercial vehicles cost another 50.2 million dollars, against current forex earnings of 18.9 billion US dollars.
-
-Up to August Sri Lanka has spent 705 million dollars to import personal vehicles.
-
-Commercial vehicles cost another 212.5 million US dollars, taking the total to 917 million US dollars up to August.
-
-Sri Lanka’s gross foreign exchange earnings up to August was 18.97 billion dollars, compared to vehicle imports of 917 million US dollars.
-
-Investment goods imports rose 21.3 percent to 2,597 million US dollars.
-
-Macro-economists usually cause economic crises by printing money to cut rates.
-
-The printed money then ends up as investment credit and investments goods imports.
-
-In the crisis year of 2021, when cars and most other import were banned, money printed by macro-economists drove investment goods imports to 4.46 billion US dollars.
-
-...
-
-[Data](articles/24b4285e.json)
-
-[Extended Data](ext_articles/24b4285e.ext.json)
-
----
-
-### Director General of the Bribery Commission to resign
-
-*2025-10-01 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226558) · `ta`
-
-The former member of the party has accused the Director General of the Commission on Bribery or Corruption as a member of the JVP.
-
-The General Secretary of the Sri Lanka Peoples Alliance (PA), Sagara Kariyawasam, said that the Director General should resign with the Independence of the Commission.
-
-He was speaking to the media after a meeting with constituency organizers held at the Sri Lanka PA's office on Tuesday (September 30).
-
-The government has targeted the opposition, claiming to be a legislature. The Police Department acts improper.
-
-Sani Abeysekera, a political activist at the office of the People's Liberation Front, has been appointed as the Director of the Criminal Investigation Department.
-
-Ravi Seneviratne, who addressed the election campaign of the Janatha Vimukthi Peramuna (JVP), has been appointed as the Secretary to the Ministry of Public Safety and Parliamentary Affairs.. The police are currently working with political purpose.
-
-...
-
-[Data](articles/1d5fb2b7.json)
-
-[Extended Data](ext_articles/1d5fb2b7.ext.json)
-
----
-
-### Dargah City Hospital in Chinese sponsor
-
-*2025-10-01 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226553) · `ta`
-
-For a further Rs.. It is also planned to offer 50 million. Health and Mass Media Minister Nalinda Jayatissa said that our country is getting good recognition among other countries and that it has decided to engage in allies.
-
-Under the Chinese -sponsored 13 -selected hospital, the three -storey patient maintenance complex built at the Dharga City Regional Hospital at a cost of Rs.
-
-The 03 -storey building has a number of sectors, including 04 wards and outpatient wards, including children and maternity wards with 96 beds, 96 beds.. The Ministry of Health is also planning to provide medical equipment and other equipment required for the ward premises.
-
-After opening the three -storey new ward constituency, the Minister of Health and Media Registered the first patient who came to the Emergency Department of Emergency.. The Minister also visited the new ward constituency.
-
-...
-
-[Data](articles/19fca8ea.json)
-
-[Extended Data](ext_articles/19fca8ea.ext.json)
-
----
-
-### Harkey is also a children's day from schools
-
-*2025-10-01 15:36:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පසල-සස-වලයන-ළම-දනයත-හබක/1-680578) · `si`
-
-Three students were injured in a clash between two groups of students in Kantale and one student's status was seriously injured in the World Children's Day Programs.
-
-The three injured students were admitted to the Kantale Base Hospital, the student was transferred to the Batticaloa Teaching Hospital to prevent surgery to prevent the head of the head.
-
-In terms of the 119 emergency number on the incident, the Kantale headquarters was pronounced immediately.. Lakmal Wijeratne and a police team and a team of police commenced investigations into the school.
-
-The criminal laboratory officials came and commenced investigations into the upper floor of the collision building.
-
-◼️
-
-[Data](articles/33b1bbed.json)
-
-[Extended Data](ext_articles/33b1bbed.ext.json)
-
----
-
-### Harkey is also a children's day from schools
-
-*2025-10-01 15:36:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පසල-සස-වලයන-ළම-දනයත-හබක/101-680578) · `si`
-
-Three students were injured in a clash between two groups of students in Kantale and one student's status was seriously injured in the World Children's Day Programs.
-
-The three injured students were admitted to the Kantale Base Hospital, the student was transferred to the Batticaloa Teaching Hospital to prevent surgery to prevent the head of the head.
-
-In terms of the 119 emergency number on the incident, the Kantale headquarters was pronounced immediately.. Lakmal Wijeratne and a police team and a team of police commenced investigations into the school.
-
-The criminal laboratory officials came and commenced investigations into the upper floor of the collision building.
-
-◼️
-
-[Data](articles/c8085893.json)
-
-[Extended Data](ext_articles/c8085893.ext.json)
-
----
-
-### Up to 69 deaths in Philippine earthquake
-
-*2025-10-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215222) · `si`
-
-The number of deaths due to the Philippines's earthquake has increased to 69.
-
-This took place at around 10 pm near the coast of Cebu in the Central Philippines, and it was recorded at 6.9 of the Richter.
-
-After the earthquake occurred, the city was electrocuted in Sebu, and many buildings were severely damaged.
-
-Roads have been cracked and the bridges and roads have been severely damaged.
-
-The authorities of the country are still being rescued and rescuing persons trapped among the debris.
-
-It is said that there is a population nearly a million population in Sebu, the influence of the earthquake.
-
-The Philippines is a constant victim of earthquakes and natural disasters, and the people of the country have to face the same period.
-
-The end of 2023 earthquakes in the Eastern coast of Mindono in the country's Mindono, a 7.6 earthquake, including a pregnant woman, was killed.
-
-A 7.0 earthquake in the northwestern Lucon, 15 miles [15 km] in northwestern Lucon, had an earthquake.
-
-...
-
-[Data](articles/8c008ef1.json)
-
-[Extended Data](ext_articles/8c008ef1.ext.json)
-
----
-
-### The government promotes vocational education targeting the industry - the Prime Minister
-
-*2025-10-01 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226579) · `ta`
-
-Prime Minister Harini Amarasuriya said that the government has identified the importance of giving vocational training to suit the fast -growing modern world market and is promoting the industrial market targeting the industry.
-
-The Prime Minister made this observation at the Bandaranaike Memorial International Conference Hall on September 30, attending a ceremony to present certificates to the students who completed the Japanese Tech Studies, the National Institute of Industry Training Authority (NAITA), the Motor Vehicle Engineering Institute.
-
-The Prime Minister, who was the chief guest at the 31st Certificate of Certificate this year, presented gifts and certificates to the students who showed more skills in the exam conducted by the Motor Vehicle Engineering Training Institute.
-
-...
-
-[Data](articles/e03bbcf0.json)
-
-[Extended Data](ext_articles/e03bbcf0.ext.json)
-
----
-
-### Our economy is at a big risk
-
-*2025-10-01 15:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආර්ථිකය-විශාල-අවදානමක-තියෙන්නේ/11-418850) · `si`
-
-Dudley Sirisena, a well known, said that the economy is in a major risk and returning to the party in society.. He was addressing a function.
-
-"Even if we fell in sleep, a big matter. Our economy is at a big risk. The truth. I'm this
-
-When you say, another suggestion is charged, there is no problem. Talk the truth I'm just afraid
-
-Not going. No one comes back to any political party in society. "
-
-◼️
-
-[Data](articles/5dfd5ef3.json)
-
-[Extended Data](ext_articles/5dfd5ef3.ext.json)
-
----
-
-### கடலுக்கு சென்று காணாமல்போன நபரை மூன்றாவது நாளாக தேடும் நடவடிக்கை!
-
-*2025-10-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226590) · `ta`
-
-The machine boat that went to the sea from Muttur on Monday (29) crashed when it returned to shore. One of the two passengers was alive and the other was missing.
-
-It is noteworthy that more than 50 civilians and Sampur police were involved in the search operation.
-
-◼️
-
-[Data](articles/99bba78a.json)
-
-[Extended Data](ext_articles/99bba78a.ext.json)
-
----
-
-### The government is fully committed to ensure the safety of children - Prime Minister Harini
-
-*2025-10-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226597) · `ta`
-
-Prime Minister Harini Amarasuriya said that the government is fully committed to ensuring the safety of children and that the law against the torture of child torture is a law that is against violence, not a law against morality.
-
-The Children's Day ceremony organized by the Ministry of Women and Child Affairs was held on Wednesday (October 01) on the theme of "Leading the World - Nutrition - Nourish us".
-
-“Our country's children's population represents about 31 percent of the country's population based. As a government for them, we have a huge responsibility.
-
-The theme of this year's World Children's Day is "to lead the world - give us love". The first task we need to do for children is to ensure their safety.
-
-The protection I mention here is to ensure the safety of all boys in any background and in any situation, and give them the opportunity to live freely in the context of children's environment, economically, socially, and psychologically, without abandoning any child.
-
-...
-
-[Data](articles/de410819.json)
-
-[Extended Data](ext_articles/de410819.ext.json)
-
----
-
-### Laugfs gas prices do not change
-
-*2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලෆ-ගස-මල-වනස-නව/101-680577) · `si`
-
-LAUG Niroshan J. Dr. Niroshan J. Mr. Peiris said.
-
-The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the price of a 5,100 cylinder, the price of Rs.
-
-◼️
-
-[Data](articles/095c080a.json)
-
-[Extended Data](ext_articles/095c080a.ext.json)
 
 ---

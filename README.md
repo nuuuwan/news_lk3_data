@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 21:07:20**
+As of **2025-10-01 20:38:38**
 
 ## Newspaper Stats
 
-*Scraped **80,332** Articles*
+*Scraped **80,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,53 +17,21 @@ dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,724
+adalk | 7,723
 adaderanalk | 10,340
-tamilmirrorlk | 11,986
+tamilmirrorlk | 11,985
 virakesarilk | 13,137
-adaderanasinhalalk | 13,859
+adaderanasinhalalk | 13,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,329 (100.0%) of 80,332 articles have been extended.
+80,329 (100.0%) of 80,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
-
-### අධිවේගී මාර්ගයේ සියලු වාහන සඳහා ආසන පටි පැළඳීම අනිවාර්ය කළ ගැසට් නිවේදනය
-
-*2025-10-01 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215233) · `si`
-
-අධිවේගී මාර්ගයේ ගමන් ගන්නා වාහනවල රියදුරන් සහ සියලුම මගීන් සඳහා ආසන පටි පැළඳීම අනිවාර්ය කිරීමේ විධිවිධාන ඇතුළත් ගැසට් නිවේදනය මේ වනවිට නිකුතර තිබේ.
-
-ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යාංශය විසින් එම ගැසට් පත්‍රය නිකුත්කර ඇත.
-
-◼️
-
-[Data](articles/b8345894.json)
-
----
-
-### பாடசாலை மாணவர்கள் 45 பேர் வைத்தியசாலையில் அனுமதி
-
-*2025-10-01 20:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்கள்-45-பேர்-வைத்தியசாலையில்-அனுமதி/175-365600) · `ta`
-
-பொலன்னறுவை - ஹிங்குரக்கொட, பக்கமுன கல்வி வலையத்திற்கு உட்பட்ட பாடசாலை ஒன்றில் சுமார் 45 மாணவர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-உலக சிறுவர்கள் தினத்தை முன்னிட்டு அந்த பாடசாலையில் வழங்கப்பட்ட உணவு ஒவ்வாமை காரணமாகவே இந்த நிலைமை ஏற்பட்டதாகக் கூறப்படுகிறது.
-
-பாதிக்கப்பட்ட மாணவர்கள் பக்கமுன பிராந்திய வைத்தியசாலையில் தங்கியிருந்து சிகிச்சை பெற்று வருவதுடன் சிலர் சிகிச்சைகளின் பின்னர் வீடு திரும்பியுள்ளனர்.
-
-குறித்த பாடசாலையில் சுமார் 230 மாணவர்கள் கல்வி கற்கும் நிலையில் அவர்களில் பெரும்பாலானவர்களுக்கு இந்த உணவு வழங்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/4bb5c1ad.json)
-
----
 
 ### Namal answers to the Thajayan story
 
@@ -1865,20 +1833,6 @@ The Child Protection Authority is also the Welimiliarian reporting of a child ab
 
 ---
 
-### වැලිමඩ අල සතොසට ගන්න යයි
-
-*2025-10-01 15:13:28* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-අල-සතොසට-ගන්න-යයි/11-418848) · `si`
-
-"ඊයේ අපි රෑ වෙනකම් සාකච්ඡා කලා වැලිමඩ අර්තාපල් ගොවියා‌ට සාධාරණයක් කරන්නේ කොහොමද කියලා. අද උදේ වසන්ත සමරසිංහ වෙළෙද ඇමතිවරයා මට කථා කරලා කිව්වා අර්තාපල් සතොස මගින් වැඩි මිළකට මිළදී ගන්නම් කියලා, අර්තාපල් කිලෝ 60000ක් ගබඩා කරන්න පුළුවන් ගබඩාවක් වැලිමඩ පැත්තෙන්  හොයන්න කියලා මට කිව්වා.
-
-මම කිව්වා කොහෙන් හරි හොයලා දෙන්නම් කියලා. මේ දවස්වල වැඩිමඩ කැප්පෙටිපොල ආර්ථික මධ්‍යස්ථානයේ අර්තාපල් කිලෝ 01ක් විකිනෙන්නේ රුපියල් 160ක් 170 කට වගේ පොඩි මුදලකට. ඒ ගානට අර්ථාපල් විකුණලා  ගොවියා රකින්න බෑ. අර්තාපල් කිලෝ 01ක් පොළොවෙන් ගලවලා ගන්නත් ඊට වඩා වැඩි ගානක්  වියදම් වෙනවා ගොවියාට. " යැයි ජාතික ජන බල වේගයේ වැවිලි සහ ප්‍රජා යටිතල පහසුකම් අමාත්‍ය සමන්ත විද්‍යාරත්න මහතා මහියංගණයේ පැවති ජන හමුවකදී අද 01 දින දහවල් පැවසීය.
-
-...
-
-[Data](articles/ad4cb8c3.json)
-
----
-
 ### 3 students killed in school building in Indonesia
 
 *2025-10-01 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226594) · `ta`
@@ -2006,5 +1960,61 @@ Eight Democratic Party has to vote in support of the Trump -led ruling party to 
 [Data](articles/3e5a4a50.json)
 
 [Extended Data](ext_articles/3e5a4a50.ext.json)
+
+---
+
+### Here is the decision about the litro gas price
+
+*2025-10-01 14:49:47* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අද-ගත්ත-තීරණය-මෙන්න/11-418846) · `si`
+
+No revision of Litro gas prices will be issued on October for October.
+
+Accordingly, the price of a 12.5kg domestic gas cylinder is Rs.. 3,690, a 5kg of gas cylinder is Rs.. 1,482, the price is sold at the same price unchanged.
+
+◼️
+
+[Data](articles/3cc2f8b0.json)
+
+[Extended Data](ext_articles/3cc2f8b0.ext.json)
+
+---
+
+### Sri Lanka sells Rs43bn treasury bills, yields down on short term
+
+*2025-10-01 14:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs43bn-treasury-bills-yields-down-on-short-term-242471/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 43 billion rupees of Treasury bills, with yields down on the 3-month and flat across the 6- and 12-month bills, data from the state debt office showed.
+
+The 3-month yield was down 4 basis points at 7.53 percent, with 8 billion rupees of bills offered and 5 billion sold.
+
+The 6-month yield was unchanged at 7.89 percent, with 25 billion rupees offered and 35.93 billion sold.
+
+The 12-month yield was unchanged at 8.02 percent with 10 billion rupees offered and 2.06 billion rupees bills sold.
+
+The 3-month and 12-month bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/db6dd2d2.json)
+
+[Extended Data](ext_articles/db6dd2d2.ext.json)
+
+---
+
+### Notice of October Gas Price
+
+*2025-10-01 14:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-மாத-எரிவாயு-விலை-குறித்த-அறிவிப்பு/175-365584) · `ta`
+
+Litro Gas Lanka Limited said there would be no change in the price of LP gas for October.
+
+Meanwhile, Lafs gas PLC has announced that there will be no correction at the price of its domestic LP gas cylinders for the month of October.
+
+This decision was made by Lafs Gas PLC, Cluster CEO Niroshan J. Peiris announced today.
+
+◼️
+
+[Data](articles/a093e48b.json)
+
+[Extended Data](ext_articles/a093e48b.ext.json)
 
 ---

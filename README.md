@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 09:38:56**
+As of **2025-10-01 09:56:59**
 
 ## Newspaper Stats
 
-*Scraped **80,069** Articles*
+*Scraped **80,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,702
 adaderanalk | 10,321
-tamilmirrorlk | 11,959
+tamilmirrorlk | 11,960
 virakesarilk | 13,075
 adaderanasinhalalk | 13,837
 
@@ -27,11 +27,27 @@ adaderanasinhalalk | 13,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,065 (100.0%) of 80,069 articles have been extended.
+80,069 (100.0%) of 80,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### ஜப்பானிய பேரரசரை சந்தித்தார் ஜனாதிபதி
+
+*2025-10-01 09:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிய-பேரரசரை-சந்தித்தார்-ஜனாதிபதி/175-365567) · `ta`
+
+ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க நேற்று (30) பேரரசர் மாளிகையில் ஜப்பானின் பேரரசர் நருஹிதோவை சந்தித்தார்.
+
+டோக்கியோவில் உள்ள ஜப்பான் பேரரசரின் உத்தியோகபூர்வ இல்லமான பேரரசர் மாளிகைக்கு வருகை தந்த ஜனாதிபதியை, பேரரசர் அமோகமாக வரவேற்றதுடன், சுமூகமான கலந்துரையாடலிலும் ஈடுபட்டதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத்தும் இந்த நிகழ்வில் கலந்து கொண்டதாக தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/13a3d4de.json)
+
+---
 
 ### CCPI based Headline Inflation Accelerated Towards the Target in September 2025
 
@@ -40,6 +56,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/835f79de.json)
+
+[Extended Data](ext_articles/835f79de.ext.json)
 
 ---
 
@@ -55,31 +73,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### வெப்பநிலை குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+### Warning
 
 *2025-10-01 09:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-365566) · `ta`
 
-நாட்டின் 8 மாவட்டங்களில் இன்றைய தினம் (01) வெப்பமான வானிலை நிலவக்கூடுமென வளிமண்டலவியல் திணைக்களம் எச்சரித்துள்ளது.
+The Department of Meteorology has warned that the hottest weather may be in the 8 districts of the country today (01).
 
-வடமத்திய மற்றும் கிழக்கு மாகாணங்களிலும், வவுனியா, முல்லைத்தீவு மற்றும் மொனராகலை மாவட்டங்களிலும் மனித உடலால் உணரப்படும் வெப்பநிலையானது, எச்சரிக்கை மட்டத்தை எட்டக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology has announced that the human body's temperature in the North Central and Eastern Provinces, Vavuniya, Mullaitivu and Moneragala districts may reach a warning level.
 
-இதனால், வெளிப்புறங்களில் வேலை செய்பவர்கள் இலேசான ஆடைகளை அணியுமாறும், நிழலான பகுதிகளில் ஓய்வெடுத்தல் மற்றும் போதியளவு நீரை அருந்துமாறும் அறிவுறுத்தப்பட்டுள்ளனர். R
+Thus, those who work outdoors are advised to wear light clothes, relax in shadow areas and drink adequate water.. Remble
 
 ◼️
 
 [Data](articles/028ccc8b.json)
 
+[Extended Data](ext_articles/028ccc8b.ext.json)
+
 ---
 
-### இலங்கை அழைத்து வரப்பட்டார் ’டிங்கர்’
+### Sri Lanka brought to Sri Lanka
 
 *2025-10-01 08:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அழைத்து-வரப்பட்டார்-டிங்கர்/175-365565) · `ta`
 
-அண்மயில் டுபாயில் கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான 'டிங்கர்' எனப்படும் ஸ்ரீதரன் நிரஞ்சன் இன்று காலை இலங்கைக்கு அழைத்து வரப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Police said that Sreedharan Niranjan alias 'Tinker', a member of the organized criminal gang who was arrested in Dubai recently, was brought to Sri Lanka this morning.
 
 ◼️
 
 [Data](articles/973e4103.json)
+
+[Extended Data](ext_articles/973e4103.ext.json)
 
 ---
 
@@ -155,19 +177,23 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 
 ---
 
-### රජයට දැඩි අප්‍රසාදය පළ කරමින් මහා නායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක්
+### General Leader Representatives from the Chief Prelate
 
 *2025-10-01 07:36:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-දැඩි-අප්‍රසාදය-පළ-කරමින්-මහා-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/11-418829) · `si`
 
-වර්තමාන රජය මඟින් දණ්ඩ නීති සංග්‍රහයේ 82 වගන්තියට ශාරීරක දඩුවම් කිරීමේ වරද නමින් යෝජිත සංශෝධනය මෙන්ම සංචාරක සංවර්ධන අධිකාරිය මගින් සමලිංගික සේවනය පදනම් කරගත් සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට අනුග්‍රහය ලබාදීම බරපතළ සාරධර්මමය  ආරාධිකත්වයක් හා සමාජ අර්බුද ගණනාවක් ඇති කිරීමට හේතු වන බවත් ඊට දැඩි අප්‍රසාදය පළ කරමින් ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ අත්සනින්යුතුව විශේෂ සංදේශයක්  ජනාධිපතිවරයාට දැනුම් දී තිබේ.
+The amendment to the proposed amendment and social crises of the current government, as well as the proposed amendment to the promotion of homosexuality industry in the Penal Code has been told to the President.
 
-මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බොටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන අමරපුර මහානිකායේ මහානායක අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති ශ්‍රී ලංකා රාමඤ්ඤ මහානිකායේ මහානායක අතිපූජ්‍ය මකුලෑවේ ශ්‍රී විමලාභීධාන යන මානායක හිමිවරුන්ගේ අත්සනින් යුතුව ජනාධිපතිවරයාට යොමු කොට ඇති සංදේශය මෙසේයි.
+Maithri Uyangarana Amaraphi Mahanaanayake, Mahanaanayake, General Visabotheara, Sri Siddhagoda, Sri Lanka Ramanagama, Sri Lanka's Mahanayanika, has been sent to the President of Sri Lanka Ramado Thera, Sri Lanka Ramanara Sri Lanka Ramanagama Mahanaanayake. Memorandum:
 
-රටක සංස්කෘතිය හා අනන්‍යතාවයන් ඓතිහාසික උරුමය මෙන්ම චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතින් හා අන්ධානුකරණයන් මත පදනම්ව රාජ්‍ය පාලනයෙහිලා යමෙක් උත්සාහ දරන්නේ නම් එය රාජ්‍යය ආරාජික වීමට මෙන්ම සමස්ත සමාජය බිඳවැටීමට හේතුවන්නකි.
+If one tries to go to state control, if one tries to be the historical inheritance, as well as the historical inheritance, and the whole society, if one tries to be the historical heritage and blind.
+
+The role of social corporations as well as the Great Sanga expressed our serious displeasure regarding the process of promoting laws and behaviorals.
 
 ...
 
 [Data](articles/156454e3.json)
+
+[Extended Data](ext_articles/156454e3.ext.json)
 
 ---
 
@@ -1922,27 +1948,5 @@ Senthil Thondaman said that it is the most important responsibility of every Tam
 [Data](articles/5757e740.json)
 
 [Extended Data](ext_articles/5757e740.ext.json)
-
----
-
-### Modernin meets foreign grenades
-
-*2025-09-30 18:19:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදරන-වදස-ජව-අතබමබ-හමවය/1-680509) · `si`
-
-Modara police say that a large haul of livelihoods have been found near the wall of Modara New Mawatha, Municipal Council.
-
-According to information received by the Terrorist Investigation Division, 10 hand grenades have been completed.
-
-The bombs were two types of bombs and 7 bombs were one of the three bombs in one type.
-
-Police said that the bombs were in the area in a school bag donated by a finance company.
-
-Police suspect that this has been brought to the place.
-
-◼️
-
-[Data](articles/69ea9d49.json)
-
-[Extended Data](ext_articles/69ea9d49.ext.json)
 
 ---

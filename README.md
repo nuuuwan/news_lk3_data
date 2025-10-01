@@ -1,153 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 07:08:01**
+As of **2025-10-01 06:27:36**
 
 ## Newspaper Stats
 
-*Scraped **80,052** Articles*
+*Scraped **80,043** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 518
-lankadeepalk | 533
+lankadeepalk | 532
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
-economynextcom | 4,758
+economynextcom | 4,757
 islandlk | 4,861
-dailyftlk | 5,615
+dailyftlk | 5,611
 adalk | 7,700
 adaderanalk | 10,318
 tamilmirrorlk | 11,956
 virakesarilk | 13,074
-adaderanasinhalalk | 13,835
+adaderanasinhalalk | 13,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,031 (100.0%) of 80,052 articles have been extended.
+80,031 (100.0%) of 80,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
-
-### පිලිපීනයේ භූ කම්පනයෙන් 26කට දිවි අහිමිවෙයි
-
-*2025-10-01 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215206) · `si`
-
-මධ්‍යම පිලිපීනයට බලපෑ රික්ටර් මාපකයේ 6.9 ක භූමිකම්පනයකින් පුද්ගලයින් 26 දෙනෙකු මියගොස් තිබේ.
-
-විදෙස් වාර්තා සඳහන් කළේ සෙබු නගරයේ වෙරළට ආසන්නයෙන් මෙම භූම්පනය හට ගෙන ඇති බවය.
-
-භූකම්පනයෙන් තවත් පුද්ගලයින් 147 දෙනෙකු තුවාල ලබා ඇති බව වාර්තා වෙයි.
-
-භූමිකම්පනය හේතුවෙන් විදුලිය ඇනහිටීම් සහ ගොඩනැගිලි වලට දැඩි හානි සිදුව ඇති බව සඳහන්ය.
-
-පිලිපීන ගිනිකඳු හා භූ කම්පන විද්‍යා ආයතනය පවසන්නේ භූ කම්පනය හේතුවෙන් සුනාමි අවදානයක් නොමැති බවය.
-
-භූ කම්පනයේ බලපෑම් එල්ල වූ විසායාස් කලාපයේ පිහිටා ඇති සෙබු නගරයේ මිලියනයකට ආසන්න ජනගහනයක් සිටී.
-
-ගොඩනැගිලි සුන්බුන් අතර සිටින පුද්ගලයින් මුදා ගැනීමේ මෙහෙයුම් තවදුරටත් සිදුවෙමින් පවතින අතර මරණ සංඛ්‍යාව ඉහළ තවත් යනු ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/a57a7256.json)
-
----
-
-### ලෝක ළමා හා වැඩිහිටි දිනය අදයි
-
-*2025-10-01 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215205) · `si`
-
-"ආදරෙන් සුරකින්න- අපිට ලොව දිනන්නට" තේමාව යටතේ ලෝක ළමා දිනයත් "පරපුරක් තැනූ පරපුරක් රැකගනිමු" තේමාවෙන් ලෝක වැඩිහිටි දිනයත් අද දිනයේ සමරනු ලැබේ.
-
-දිවයින පුරා පාසල්වල ළමා දිනයට සමගාමීව විවිධ උත්සව සහ ක්‍රියාකාරකම් සංවිධානය කර ඇත.
-
-ළමා දිනය වෙනුවෙන් පසුගිය 25 දා සිට ජාතික ළමා දින සතියක් ක්‍රියාත්මක වූ අතර වැඩිහිටි දිනය වෙනුවෙන් අද (01) සිට 7 දා දක්වා සැමරුම් සතියක් ක්‍රියාත්මකය.
-
-◼️
-
-[Data](articles/ba1aaa4e.json)
-
----
-
-### අද කාලගුණය
-
-*2025-10-01 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215203) · `si`
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (01) දිනයේ වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවය.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
-
-මේ අතර කොළඹ සිට ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති විය හැකියි.
-
-සුළං නිරිත දෙසින් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40 පමණ බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-මාතර සිට හම්බන්තොට හරහා පොතුවිල් දක්වා සහ හලාවත සිට මන්නාරම හරහා කන්කසන්තුරය දක්වා  දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී. 50-55 පමණ දක්වා ඉහළ යා හැකියි.
-
-...
-
-[Data](articles/78d68b88.json)
-
----
-
-### Gotabaya: Untold achievements
-
-*2025-10-01 05:46:07* · [`dailyftlk`](https://www.ft.lk/columns/Gotabaya-Untold-achievements/4-782440) · `en`
-
-Gotabaya Rajapaksa, former President of Sri Lanka, son of D.A. Rajapaksa, was born in June 1949, Palatuwa in Matara district as the fifth of nine siblings. He was brought up in Weeraketiya in Hambantota district. Hailing from a well-known political family, his father a prominent politician, Member of Parliament and the Cabinet Minister of Agriculture and Land in Wijayananda Dahanayake government and Mahinda Rajapaksa his elder brother. He was educated at Ananda College, Colombo and joined the Sri Lankan Army.
-
-...
-
-[Data](articles/130e93a9.json)
-
----
-
-### Lacklustre Government, blessed by the Opposition
-
-*2025-10-01 05:40:27* · [`dailyftlk`](https://www.ft.lk/opinion/Lacklustre-Government-blessed-by-the-Opposition/14-782439) · `en`
-
-“Most ignorance is vincible ignorance. We don’t know because we don’t want to know” – Aldous Huxley (Ends and Means)
-
-During her 107-day presidential election campaign, Kamala Harris (having inherited the Democratic Party candidacy after the precipitous departure of Joe Biden) tried to project herself as the true change agent. That image was blown to smithereens on the talk-show ‘The View’, just a month before the election. Asked what she would have done differently from President Biden in the last four years, she answered: “There’s not a thing that comes to mind.”
-
-...
-
-[Data](articles/6e9408ce.json)
-
----
-
-### Tragedy at Na Uyana monastery, killing seven Buddhist monks is much more than meets the eye
-
-*2025-10-01 05:34:15* · [`dailyftlk`](https://www.ft.lk/opinion/Tragedy-at-Na-Uyana-monastery-killing-seven-Buddhist-monks-is-much-more-than-meets-the-eye/14-782438) · `en`
-
-It is learnt that this facility was constructed almost 20 years ago, using leftover material
-
-The tragedy that occurred at internationally famed Na Uyana monastery, killing seven Buddhist monks on the spot and injuring six other Bikkus is another heartrending news that shocked the entire Sri Lanka within the last one month. From the wide publicity given over the electronic media, it is reported that this unfortunate accident has taken place when the steel cable attached to the cable cart had snapped mid-journey, sending 13 Buddhist monks plummeting down a 300 meters precipice at a rapid speed without any control.
-
-Apparently, this last batch of Bikkus out of three had been returning from a religious observance when the accident struck at about 21:30 hours. The bodies had been flung to a more than 100 meters distance, according to eye-witnesses and rescuers, which gives the impression that the cart has travelled excessive speed after losing control.
-
-...
-
-[Data](articles/d4942ed9.json)
-
----
-
-### Confirmation bias: Silently destroying meritocracy, objectivity and fairness
-
-*2025-10-01 05:28:12* · [`dailyftlk`](https://www.ft.lk/columns/Confirmation-bias-Silently-destroying-meritocracy-objectivity-and-fairness/4-782435) · `en`
-
-The varied public response to recent incidents ranging from the arrest of Ranil Wickremesinghe, former president and prominent politician of Sri Lanka to the assassination of Charlie Kirk, American right-wing political activist, evidence that our assessment of, and response to, events are primarily based on our like or dislike of the individual, or individuals, involved rather than on an objective and unemotional interpretation of the underlying facts. When we base our opinions and conclusions on our likes or dislikes of the individual rather than on the facts, we undermine the principles of fairness, justice, ethics, and integrity that underpin our society.
-
-...
-
-[Data](articles/41ee1adb.json)
-
----
 
 ### ஜோதிட நிலையம் சுற்றிவளைப்பு: இந்தியர்கள் மூவர் கைது
 
@@ -728,22 +612,6 @@ We inherited the guidance of four major religious teachings of our society value
 [Data](articles/39727751.json)
 
 [Extended Data](ext_articles/39727751.ext.json)
-
----
-
-### ළමා -වැඩිහිටි අයිතිය රකින්න කැපවෙනවා
-
-*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-අයතය-රකනන-කපවනව/101-680526) · `si`
-
-ළමා සහ වැඩිහිටි අයිතිවාසිකම් සහ සුබසිද්ධිය වෙනුවෙන් රජය පූර්ණ වශයෙන් කැප වී සිටින බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ලෝක ළමා දිනය සහ වැඩිහිටි දිනය වෙනුවෙන් සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් පවසයි.
-
-ලෝක ළමා දිනය සහ වැඩිහිටි දිනය අදට යෙදී තිබේ. රටක ජනගහනයෙන් ළමා සහ වැඩිහිටි නියෝජනය සැලකිය යුතු ප්‍රමාණයකි. මෙම පරම්පරා දෙකෙහිම අයිතිවාසිකම් සහ සුබසිද්ධිය වෙනුවෙන් පූර්ණ වශයෙන් අප රජය කැප වී සිටින අතර, දරුවන්ගේ මෙන්ම වැඩිහිටියන්ගේ යහපැවැත්ම උදෙසා අඛණ්ඩව ක්‍රියා කරමින් සිටින්නෙමු.
-
-රටක මෙන්ම ලෝකයේ අනාගතය දරා සිටින්නේ ළමා පරපුරය. ඔවුන්ගේ ලෝකය අව්‍යාජ සහ නොකිළිටි ලොවක් වන හෙයින් අතිශය සුන්දරය. ඒ සුන්දරත්වය භුක්ති විඳීමට ඔවුන්ට බාධාවකින් තොර වූ අවස්ථාවක් හිමි කර දීම ප්‍රජාවක් සතු වගකීමකි. අයිතීන් සමඟ යුතුකම් සහ වගකීම්ද නිර්මාණය වන බව අවබෝධ කර ගත් රජයක් ලෙස අපි සෑමවිටම ළමා අයිතිවාසිකම් සුර‍ක්ෂිත කිරීමට සහ තහවුරු කිරීමට කැප වී සිටිමු. එසේම, ළමයා යනු කවුරුන්ද යන්න වඩා ප්‍රායෝගික සහ පරිපූර්ණ ලෙස නිර්වචනය කරමින් ළමා අයිතිවාසිකම් ප්‍රවර්ධනයට අවශ්‍ය මැදිහත් වීම අපි ඉටු කරමින් සිටිමු.
-
-...
-
-[Data](articles/f5be7320.json)
 
 ---
 
@@ -1855,26 +1723,6 @@ The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September
 
 ---
 
-### Sri Lanka 2025 growth kept at 3.9-pct, inflation slashed to 0.5-pct in ADB forecast
-
-*2025-09-30 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-2025-growth-kept-at-3-9-pct-inflation-slashed-to-0-5-pct-in-adb-forecast-242296/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2025 growth has been kept at 3.9 percent by the Asian Development Bank, lower than trend indications while inflation has been slashed to just 0.5 percent, according to a regional outlook issued in September.
-
-“Sri Lanka’s growth forecast for 2025 is unchanged, but the 2026 projection is revised down, as the 20 percent US tariff is expected to weaken exports and dampen consumption due to potential job losses,” the ADB report said.
-
-Sri Lanka’s economy grew 4.9 percent in the second quarter of 2025, higher than projected by most agencies, as the central bank missed its inflation target of 5 percent.
-
-RELATED : Sri Lanka GDP grows 4.9-pct in second quarter 2025
-
-The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September, 3.1 percent in September.
-
-...
-
-[Data](articles/fbb37485.json)
-
----
-
 ### Application for Member Position for Missing Persons
 
 *2025-09-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226511) · `ta`
@@ -1952,5 +1800,185 @@ Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others partic
 [Data](articles/13517221.json)
 
 [Extended Data](ext_articles/13517221.ext.json)
+
+---
+
+### Contemporary people in culture with mutual respect - Mahinda Rajapaksa
+
+*2025-09-30 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226508) · `ta`
+
+Former President Mahinda Rajapaksa has said that we are both contemporary in the Kalakara in the state where we can maintain mutual respect.
+
+Former President Ranil Wickremesinghe has recorded this in his homepage about the visit of former President Mahinda Rajapakse at his Calton residence last Sunday.
+
+A meeting between former President Ranil Wickremesinghe and me was held at the Thangallai Calton residence. There we both engaged in a very good discussion.
+
+While we both have a different position, we are contemporary of a political culture that can maintain mutual respect while fulfilling national responsibilities.
+
+I thank you for the arrival of loved Ranil Wickremesinghe. Similarly, I remember Maithri Vikramasinghe with respect.
+
+◼️
+
+[Data](articles/5db4f09d.json)
+
+[Extended Data](ext_articles/5db4f09d.ext.json)
+
+---
+
+### Japan's Nippon Foundation Pledges Support for Sri Lanka
+
+*2025-09-30 17:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/japan-s-nippon-foundation-pledges-support-for-sri-lanka) · `en`
+
+COLOMBO (News 1st); President Anura Kumara Dissanayake, currently on an official visit to Japan at the invitation of the Japanese government, met with Yohei Sasakawa, the founding chairman of the Nippon Foundation at the Imperial Hotel in Tokyo.
+
+The meeting focused on strengthening the longstanding friendship between Japan and Sri Lanka, with both parties expressing commitment to deepening bilateral cooperation.
+
+Sasakawa reaffirmed the Nippon Foundation’s continued support for uplifting the livelihoods of all communities in Sri Lanka.
+
+He also presented future plans to renovate and modernize 100 schools in the Northern and Eastern provinces, aiming to improve educational infrastructure in post-conflict regions.
+
+President Dissanayake expressed his gratitude for the foundation’s sustained dedication to social service and development in Sri Lanka.
+
+He acknowledged the Nippon Foundation’s long-term contributions toward national progress and social welfare.
+
+◼️
+
+[Data](articles/dce7386b.json)
+
+[Extended Data](ext_articles/dce7386b.ext.json)
+
+---
+
+### Ten Hand Grenades Discovered In Mutuwal
+
+*2025-09-30 17:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ten-hand-grenades-discovered-in-mutuwal) · `en`
+
+COLOMBO (News 1st); A cache of ten hand grenades was discovered inside a bag near a local government construction site on Aluthwatta Road in Mutuwal, according to police sources.The explosives were found by officers from the Police Terrorism Investigation Division (TID). Police stated that the grenades have been handed over to the Mutuwal Police Station for further forensic analysis and security assessment.
+
+◼️
+
+[Data](articles/6c09d6dd.json)
+
+[Extended Data](ext_articles/6c09d6dd.ext.json)
+
+---
+
+### Heavy traffic in Colombo due to protest by uni. students
+
+*2025-09-30 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/113084/heavy-traffic-in-colombo-due-to-protest-by-uni-students) · `en`
+
+Ward Place in Colombo 07 has reportedly been blocked for vehicular traffic due to a protest march by university students.
+
+Severe traffic congestion has been reproted in the area and connected roads due to the demonstration staged by the Inter-University Students’ Federation (IUSF).
+
+The protest has been organized against several issues including the alleged suspensions imposed targeting student activists by the administration of the Sri Jayewardenepura University.
+
+◼️
+
+[Data](articles/bfae535c.json)
+
+[Extended Data](ext_articles/bfae535c.ext.json)
+
+---
+
+### Sri Lanka rupee flat against dollar, bond yields broadly steady
+
+*2025-09-30 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-broadly-steady-242275/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 302.55/60 to the US dollar on Tuesday, while bond yields closed slightly up on the mid tenors, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.25/30 percent, down from 8.25/35 percent.
+
+A bond maturing on 15.12.2029 closed at 9.60/62 percent, up from 9.55/60 percent.
+
+A bond maturing on 01.07.2030 closed at 9.73/77 percent, up from 9.68/72 percent.
+
+A bond maturing on 15.12.2032 closed flat at 10.45/50 percent.
+
+An auction of 43,000 million rupees Treasury bills will take place on Wednesday. (Colombo/Sep30/2025)
+
+◼️
+
+[Data](articles/f268511f.json)
+
+[Extended Data](ext_articles/f268511f.ext.json)
+
+---
+
+### Sri Lanka National Anthera Drena Star Nadhika at Women's World Cup
+
+*2025-09-30 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215185) · `si`
+
+Nainthika Senaratne won the 9th stage of the Derana Dream Star Champion Competition at the inauguration ceremony of the Women's World Cup today (30).
+
+Nwhanthaka Senaratne won the opportunity with the veteran Indian singer grade with Srigal.
+
+Watch the same chance of singing the Sri Lanka National Anthem
+
+◼️
+
+[Data](articles/68a561df.json)
+
+[Extended Data](ext_articles/68a561df.ext.json)
+
+---
+
+### Demonstration against corridor merchants commissioner in Nuwara Eliya
+
+*2025-09-30 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226506) · `ta`
+
+In Nuwara Eliya, sidewalk merchants have been trading on the streets for many generations, but the Nuwara Eliya Municipal Commissioner's move is accused of taking various measures to completely disrupt the livelihood of the sidewalk merchants.
+
+In front of the Nuwara Eliya District Secretariat on Tuesday (30), they expressed their support by carrying banners and chanting slogans against the actions of the Municipal Commissioner.
+
+The protesters said that although various tourism development projects in Nuwara Eliya are being implemented through the current government, the action of the Nuwara Eliya Municipal Council Commissioner is a barrier.
+
+Similarly, the street merchants do not implement the Regulatory Act, creating massive disruption to our business.
+
+Therefore, the new Municipal Commissioner who serves the public is that the city of Nuwara Eliya is moving towards development, as well as the corridor business order law.
+
+...
+
+[Data](articles/dacc07fe.json)
+
+[Extended Data](ext_articles/dacc07fe.ext.json)
+
+---
+
+### Next year's budget is not going to be a huge difference; With debt burden - Pubudu Jayagoda
+
+*2025-09-30 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226505) · `ta`
+
+Seeing the government's next year's Funding Allocation Bill, there is no major difference between the time budget and the next year's budget.  "We expect to be a budget with massive debt burdens," said Pubudu Jayagoda, Education Secretary of the Frontline Social Party.
+
+He said this in a speech to the media on Tuesday (30) on the budget to submit the government to next year.
+
+The government's next year's funding Bill has been gazed. When it comes to various ministries, there is no major difference between the budget we have seen so far.
+
+But we can only know the ways of the government to earn income after the government has submitted a budget report.
+
+At the same time. This is a massive problem if you get a loan. Because when we end this year, we have to keep up with $ 7140 million.
+
+But if it took the first 7 months from last year to this year. We are adding $ 56 million new. In the remaining 5 months, we have to add up to $ 1 billion.
+
+...
+
+[Data](articles/fe07d13a.json)
+
+[Extended Data](ext_articles/fe07d13a.ext.json)
+
+---
+
+### Demonstration of university students; Traffic in Colombo!
+
+*2025-09-30 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226507) · `ta`
+
+University students staged a demonstration on Tuesday (30) in front of the University Grants Commission located in Colombo 7.
+
+◼️
+
+[Data](articles/054a4426.json)
+
+[Extended Data](ext_articles/054a4426.ext.json)
 
 ---

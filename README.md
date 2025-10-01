@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 12:24:41**
+As of **2025-10-01 11:41:05**
 
 ## Newspaper Stats
 
-*Scraped **80,130** Articles*
+*Scraped **80,121** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 529
-lankadeepalk | 560
+lankadeepalk | 552
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -19,7 +19,7 @@ islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,704
 adaderanalk | 10,324
-tamilmirrorlk | 11,967
+tamilmirrorlk | 11,966
 virakesarilk | 13,085
 adaderanasinhalalk | 13,843
 
@@ -27,87 +27,41 @@ adaderanasinhalalk | 13,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,130 (100.0%) of 80,130 articles have been extended.
+80,114 (100.0%) of 80,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### Passport and Visa Services will continue in US embassies
-
-*2025-10-01 11:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதரகங்களில்-கடவுச்சீட்டு-விசா-சேவைகள்-தொடரும்/175-365576) · `ta`
-
-The US embassy in Colombo has announced that passports and visa services will continue at US embassies in the United States and abroad, despite the delay in allocation.
-
-In a post released today, the embassy said that only emergency safety information would be shared until the entire operations were resumed.
-
-In addition, the report also stated that updates on embassy services and operational status are available at the US Foreign Department's official website [travel.state.gov] (http://travel.state.gov).
-
-◼️
-
-[Data](articles/76bab19e.json)
-
-[Extended Data](ext_articles/76bab19e.ext.json)
-
----
-
-### 10 crore rupees fraud: two arrested
+### 10  கோடி ரூபாய் மோசடி:  இருவர் கைது
 
 *2025-10-01 11:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-மோசடி-இருவர்-கைது/175-365574) · `ta`
 
-The police media spokesman's office said that a suspect and a woman who allegedly misused nearly 100 million rupees (10 crores) by defrauding of nearly 100 million rupees (10 crores), which promised to grant permanent stabilizers under the 2024 "Urumaya" scheme.
+2024 " உறுமய " திட்டத்தின் கீழ் உரிமையற்ற நிலங்களுக்கு நிரந்தர உறுதிகளை வழங்குவதாக வாக்குறுதி அளித்து கிட்டத்தட்ட 100 மில்லியன் ரூபாவை (10 கோடி) மோசடி செய்து தவறாகப் பயன்படுத்தியதாகக் கூறப்படும் ஒரு சந்தேக நபரும் ஒரு பெண்ணும்  குற்றப் புலனாய்வுத் துறையால் கைது செய்யப்பட்டதாக காவல்துறை ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
 
-The suspect has been summoned to the headquarters of the suspect and to a famous hotel in Colombo, police said.
+சந்தேக நபர் பணம் மோசடி செய்யப்பட்ட நபரை சிறிகொத்த தலைமையகத்திற்கும் கொழும்பில் உள்ள ஒரு பிரபலமான ஹோட்டலுக்கும் அழைக்கப்பட்டதாக காவல்துறை தெரிவித்துள்ளது.
 
-Preliminary inquiries have revealed that the 43 -year -old suspect was from the Pakamuna area and was temporarily residing in a hotel in the Kiribathgoda area and the suspect was from Maharagama.
+கைது செய்யப்பட்ட 43 வயதான சந்தேக நபரான பெண், பக்கமுன பகுதியைச் சேர்ந்தவர் என்றும், கிரிபத்கொட பகுதியில் உள்ள ஒரு விடுதியில் தற்காலிகமாக வசித்து வருகிறார் என்றும், சந்தேக நபர் 55 வயதான மகரகமவைச் சேர்ந்தவர் என்றும் காவல்துறை முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
 
-Preliminary inquiries have revealed that the police have revealed that they have cheated 164 businessmen in Kalmunai, introducing himself as a lawyer, deceiving the businessmen and received Rs six lakh from one person, claiming to provide permanent strategies to the unmanned land under the Urumaya scheme.
-
-◼️
+...
 
 [Data](articles/93b435d0.json)
 
-[Extended Data](ext_articles/93b435d0.ext.json)
-
 ---
 
-### Good news for disabled students
+### ආබාධිත සිසුන්ට සුභ ආරංචියක්
 
 *2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආබධත-සසනට-සභ-ආරචයක/1-680546) · `si`
 
-The Prime Minister and Education, Higher Education and Vocational Education Minister Harinini Amarasuriya stated that the balance of transfers should be accelerated.
+ගුරු  හා විදුහල්පති මාරුවීම් තුලනය කිරීම කඩිනම් කළ යුතු බව  අග්‍රාමාත්‍ය සහ අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය (ආචාර්ය) හරිනි අමරසූරිය මෙනවිය  ප්‍රකාශ කළාය.
 
-The Prime Minister said that he further focused on this issue, the rejection of transfers in the field of education is a long time. She said that it was the only section that would not adapt to the transfers of the public service.. The Committee also discussed the steps taken by teachers and principals who were not adapted to such transfers.
+මෙම ගැටලුව පිළිබඳව තවදුරටත් අවධානය යොමු කරමින්  අග්‍රාමාත්‍යතුමිය ප්‍රකාශ කළේ අධ්‍යාපන ක්ෂේත්‍රයේ මාරුවීම් ප්‍රතික්ෂේප කිරීම දිගු කලක් තිස්සේ පැවති පුරුද්දක් බවයි. රාජ්‍ය සේවයේ මාරුවීම්වලට අනුගත නොවන එකම අංශය එය බවද  ඇය කීවාය. එවැනි මාරුවීම්වලට අනුගත නොවන ගුරුවරුන් සහ විදුහල්පතිවරුන් සම්බන්ධයෙන්  ගනු ලබන පියවර පිළිබඳව ද කාරක සභාවේදී සාකච්ඡා විය.
 
-The Prime Minister made these comments when he was chaired by the Ministry of Education, Higher Education and Vocational Education in Parliament recently (26).
+අග්‍රාමාත්‍යතුමිය මෙම අදහස් පළ කළේ ඇයගේ  සභාපතිත්වයෙන්  අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයීය  උපදේශක කාරක සභාව පසුගියදා (26) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී ය.
 
-At this meeting also discussed the policy decisions related to the inclusion of the disabled students to universities. Accordingly, the policy will be implemented based on a quota method for all subjects from the year next year.
-
-◼️
+...
 
 [Data](articles/84548e27.json)
-
-[Extended Data](ext_articles/84548e27.ext.json)
-
----
-
-### Good news for disabled students
-
-*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආබධත-සසනට-සභ-ආරචයක/101-680546) · `si`
-
-The Prime Minister and Education, Higher Education and Vocational Education Minister Harinini Amarasuriya stated that the balance of transfers should be accelerated.
-
-The Prime Minister said that he further focused on this issue, the rejection of transfers in the field of education is a long time. She said that it was the only section that would not adapt to the transfers of the public service.. The Committee also discussed the steps taken by teachers and principals who were not adapted to such transfers.
-
-The Prime Minister made these comments when he was chaired by the Ministry of Education, Higher Education and Vocational Education in Parliament recently (26).
-
-At this meeting also discussed the policy decisions related to the inclusion of the disabled students to universities. Accordingly, the policy will be implemented based on a quota method for all subjects from the year next year.
-
-◼️
-
-[Data](articles/f3c84246.json)
-
-[Extended Data](ext_articles/f3c84246.ext.json)
 
 ---
 
@@ -137,39 +91,19 @@ Defending his brief absence from the debate, he said he had contributed to the m
 
 ---
 
-### President meets Emperor of Japan
+### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු වෙයි
 
 *2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/1-680545) · `si`
 
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
+ජපාන රජයේ ආරාධනයකට අනුව එරට  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ටෝකියෝහි පිහිටි අධිරාජ්‍ය  මන්දිරයේදී  ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු විය.
 
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
+ජපාන අධිරාජ්‍යයාගේ නිල නිවස වන අධිරාජ්‍ය  මන්දිරයේදී නරුහිතෝ අධිරාජ්‍යයා විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගනු ලැබීමෙන් අනතුරුව සුහද පිළිසඳරකද නිරත විය.
 
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද මෙම අවස්ථාවට එක් විය.
 
 ◼️
 
 [Data](articles/2b5e0d50.json)
-
-[Extended Data](ext_articles/2b5e0d50.ext.json)
-
----
-
-### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු වෙයි
-
-*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/101-680545) · `si`
-
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
-
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
-
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
-
-◼️
-
-[Data](articles/b430a658.json)
-
-[Extended Data](ext_articles/b430a658.ext.json)
 
 ---
 
@@ -360,20 +294,6 @@ Today, Ada Derana also received a CCTV display of the driver of the van.
 [Data](articles/a092ab36.json)
 
 [Extended Data](ext_articles/a092ab36.ext.json)
-
----
-
-### President arrives
-
-*2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-එය/101-680544) · `si`
-
-President of the President, Kumara Dissanayake arrived in the island this morning, the Katunayake Air Forlar to attend the 80th session of the Nations.
-
-◼️
-
-[Data](articles/5678d135.json)
-
-[Extended Data](ext_articles/5678d135.ext.json)
 
 ---
 
@@ -583,24 +503,6 @@ The weapons found on information received by the Army.
 
 ### The law kicked the law and divided Rs. 668 crores
 
-*2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/101-680541) · `si`
-
-ශ්‍රී ලංකා විදුලිබල මණ්ඩලය  අර්ථසාධක අරමුදලේ රීතිවලට පටහැනිව රුපියල් කෝටි හයකට වැඩි  අධ්‍යාපන ණය සහ රුපියල්  කෝටි 662  කට ආසන්න වටිනා දේපල ණය 2024 වර්ෂයේදී  ලබාදී ඇති බව  පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේදී (කෝප් කමිටුව )තොරතුරු අනාවරණය විය.
-
-The committee says that the loans had been granted without an approval of the Board of Labor and the Commissioner of Labor and the Commissioner General of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Inland Revenue.
-
-The Kopypay Committee has recommended immediate action to take appropriate measures.
-
-◼️
-
-[Data](articles/07acab98.json)
-
-[Extended Data](ext_articles/07acab98.ext.json)
-
----
-
-### The law kicked the law and divided Rs. 668 crores
-
 *2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/1-680541) · `si`
 
 The Select Committee of the Public Enterprises (COPE) has revealed that the Sri Lanka Electricity Board has been given to the Protection Fund.
@@ -637,23 +539,19 @@ In it, our government is committed to providing proper nutrition for all childre
 
 ---
 
-### “Everyone will join hands to build Sri Lanka” President
+### ”இலங்கையை கட்டியெழுப்ப  அனைவரும் கைகோர்ப்போம்” ஜனாதிபதி
 
 *2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-கட்டியெழுப்ப-அனைவரும்-கைகோர்ப்போம்-ஜனாதிபதி/175-365568) · `ta`
 
-President Anura Kumara Dissanayake said in a congratulatory message that we are continuing to work for the well -being of children and the elderly.
+சிறுவர்கள் மற்றும் முதியவர்களின் நல்வாழ்வுக்காக நாங்கள் தொடர்ந்து செயலாற்றி வருகிறோம் என ஜனாதிபதி அநுர குமார திசாநாயக்க உலக சிறுவர்கள் தினம் மற்றும் உலக முதியோர் தின வாழ்த்து செய்தியில் தெரிவித்துள்ளார்.
 
-The future of a country and the world is in the hands of the boys. It is so beautiful because their world is real and dirty world. It is the responsibility of a community to give them an uninterrupted opportunity to enjoy that beauty.
+ஒரு நாட்டின் மற்றும் உலகின் எதிர்காலம் சிறுவர்களின் கைகளிலே உள்ளது. அவர்களின் உலகம்  உண்மையான மற்றும் அழுக்கற்ற உலகம் என்பதால் அது  மிகவும் அழகானது. அந்த அழகை அனுபவிக்க அவர்களுக்கு தடையற்ற வாய்ப்பை வழங்குவது ஒரு சமூகத்தின் பொறுப்பாகும்.
 
-As a government that understands that duties and responsibilities are coming up with rights, we are always committed to protecting and encouraging children's rights.  We are making the intervention necessary to improve the rights of children by defining the most practical and comprehensive manner of who is the child.
-
-In it, our government is committed to providing proper nutrition for all children's physical and mental well -being and health services from all kinds of violence against all children, as well as all kinds of violence against children, abuse and discrimination against children.
+உரிமைகளுடன் கடமைகளும் பொறுப்புகளும் வருகின்றன என்பதைப் புரிந்துகொள்ளும் ஒரு அரசாங்கமாக, சிறுவர்களின் உரிமைகளைப் பாதுகாப்பதற்கும் ஊக்குவிப்பதற்கும் நாங்கள் எப்போதும் உறுதிபூண்டுள்ளோம்.  சிறுவர் என்பது யார் என்பதை மிகவும் நடைமுறை மற்றும் விரிவான முறையில் வரையறுப்பதன் மூலம் சிறுவர்களின் உரிமைகளை மேம்படுத்துவதற்குத் தேவையான தலையீடுகளை நாங்கள் செய்து வருகிறோம்.
 
 ...
 
 [Data](articles/6bcfd69e.json)
-
-[Extended Data](ext_articles/6bcfd69e.ext.json)
 
 ---
 
@@ -833,50 +731,6 @@ Tinker, who was arrested, handed over to a group of officers from the Peliyagoda
 
 ---
 
-### Tincker arrested at airport
-
-*2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ටනකර-ගවනතටද-අලලය/101-680534) · `si`
-
-Katunayake Airport Criminal Investigations (CID) officials have been arrested by Sri Lanka, Katunayake, who was hiding in Dubai.
-
-Tinker, a resident of Colombo 15, is a resident of Colombo 15 and is the main follower of an organized criminal and the drug dealer, Palanie Shiran, Kochchikade, Kochchikade.
-
-The tinker this morning at Dubai from Dubai to SriLankan Airlines on Dubai to Katunayake airport and was arrested by a group of criminal investigations.
-
-He had fled the country on the Grandpass police Division of the Grandpass Susanna area on 16.04.2015 and had a flight ban against him.
-
-Tinker, who was arrested, handed over to a group of officers from the Peliyagoda Police Station, which arrived at the Katunayake Airport and is to be produced before the Malconi Paradure No. 05.
-
-◼️
-
-[Data](articles/949566ff.json)
-
-[Extended Data](ext_articles/949566ff.ext.json)
-
----
-
-### Central Environmental Authority also shines to "goejo
-
-*2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/101-680533) · `si`
-
-The Central Environmental Authority has commenced working with the Government Digital Payment Platform.
-
-Accordingly, all payments will be comfortable to pay all payments through the "Government Digital Platform" for various services provided by the Central Environmental Authority.
-
-Inspection Fees (License Fees) for services provided by the Central Environmental Authority (License Fees), Certificate Fees, Administration Fee (Pvtness Fees) Fees, Annual Fees, Laboratory Fees, Procurement Fees (WASTE DISPOSAL FEES) and Exposition Fees for the National Environmental Information Center "GOVPA State Digital Payment Platform" The Central Environmental Authority (CEA) says it is possible to pay it.
-
-"GOVPA The Kingdom Digital Payment Platform allows you to pay these fees on six banks and Fryanc (Fintach applications).
-
-The Environmental Authority says that due to this methodology, the Clients and the Central Environmental Authority will enable the clients and the Central Environmental Authority.
-
-...
-
-[Data](articles/bd6a4b95.json)
-
-[Extended Data](ext_articles/bd6a4b95.ext.json)
-
----
-
 ### Central Environmental Authority also shines to "goejo
 
 *2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/1-680533) · `si`
@@ -931,26 +785,6 @@ Thus, those who work outdoors are advised to wear light clothes, relax in shadow
 
 ### Two crores were arrested
 
-*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-10ක-වච-කළ-දනනක-අලලය/101-680532) · `si`
-
-2024  "උරුමය"  වැඩසටහන යටතේ බව පවසා ඔප්පු නොමැති ඉඩම් සඳහා ස්ථීර ඔප්පු ලබාදෙන බව පොරොන්දු වී රුපියල් කෝටි 10 කට ආසන්න මුදලක් වංචා කර සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් සැකකරුවකු සහ සැකකාරියක්  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලයය කියයි.
-
-The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
-
-The 43-year-old suspect was a resident of Bakatuna.
-
-The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
-
-◼️
-
-[Data](articles/16205c94.json)
-
-[Extended Data](ext_articles/16205c94.ext.json)
-
----
-
-### Two crores were arrested
-
 *2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-10ක-වච-කළ-දනනක-අලලය/1-680532) · `si`
 
 The Criminal Investigations Department (CID) has arrested a suspect and a suspect in defense and the suspension of false consistency to defraud the proof of land under the "Heritage Program.
@@ -986,26 +820,6 @@ Meanwhile, there will be showers at several places in the sea areas off the coas
 [Data](articles/62874de4.json)
 
 [Extended Data](ext_articles/62874de4.ext.json)
-
----
-
-### Today's the timeline
-
-*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680531) · `si`
-
-The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
-
-The Department says that there is mainly due to the rest of the island.
-
-From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
-
-◼️
-
-[Data](articles/c64bb266.json)
-
-[Extended Data](ext_articles/c64bb266.ext.json)
 
 ---
 
@@ -2028,5 +1842,179 @@ The President, who has always expressed his views on the uniqueness of Buddhist 
 [Data](articles/8e5d3818.json)
 
 [Extended Data](ext_articles/8e5d3818.ext.json)
+
+---
+
+### The price of three types of fuel down
+
+*2025-09-30 23:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-වර්ග-තුනක-මිල-පහළට/11-418827) · `si`
+
+According to the price formula, the Ceylon Petroleum Corporation has taken steps to amend three midnight fuel projects today (30).
+
+Accordingly, the price of a liter of Sri Lanka has been reduced by Rs. 277.
+
+The price of a liter of oil has been reduced by Rs. 335 per liter of petrol.
+
+The prices of the Lanka kerosene has also been reduced by Rs. 50.
+
+However, petrol octane 92 (Rs. 299) and Lanka Super Diesel prices (313) is unchanged, the Ceylon Petroleum Corporation announced.
+
+◼️
+
+[Data](articles/8de56917.json)
+
+[Extended Data](ext_articles/8de56917.ext.json)
+
+---
+
+### Japan's parliamentary lease meets President
+
+*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/101-680529) · `si`
+
+A breakfast was held on behalf of President Anura Kumara Dissanayake on an invitation on an invitation to the Japanese official in the Imperial Hotel in Tokyo. The banquet was organized by the Japanese League of Japan.
+
+JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to further strengthening the cooperation between members of the two parliament.
+
+They also said that the two countries will strengthen cooperation through political, economic and cultural fields through political, economic and cultural areas.. The Sri Lanka Parliamentary League was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
+
+◼️
+
+[Data](articles/37e5e238.json)
+
+[Extended Data](ext_articles/37e5e238.ext.json)
+
+---
+
+### Japan's parliamentary lease meets President
+
+*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/1-680529) · `si`
+
+A breakfast was held on behalf of President Anura Kumara Dissanayake on an invitation on an invitation to the Japanese official in the Imperial Hotel in Tokyo. The banquet was organized by the Japanese League of Japan.
+
+JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to further strengthening the cooperation between members of the two parliament.
+
+They also said that the two countries will strengthen cooperation through political, economic and cultural fields through political, economic and cultural areas.. The Sri Lanka Parliamentary League was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
+
+◼️
+
+[Data](articles/46b79d60.json)
+
+[Extended Data](ext_articles/46b79d60.ext.json)
+
+---
+
+### There is a wider conversation to children-adult welfare
+
+*2025-09-30 23:01:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-සබ-සධනයට-පළල-සවදයක-ඕන/101-680528) · `si`
+
+Opposition Leader Sajith Premadasa says the World Children's Day and Adult Day greetings that the Leader of the Opposition should go to a broad discussion on what needs to be done on the Children's Day and the Elderly Day.
+
+The International Children's Day and the International Adult Day will be held at the same day of the year.
+
+'Today's child is an adult tomorrow.' This is that we give us a good understanding of children and falsehood. Children's security is the well-being of society. Adults who give the well-being of society are the civilians marking the precedents of a country. It is the responsibility of those who seek the good existence of a country to take care of protection of both parties and their responsibilities and accountability for them.
+
+We inherited the guidance of four major religious teachings of our society values. We have shown that our responsibility is our responsibility in all these religious guidance as well as the child and adult.
+
+...
+
+[Data](articles/39727751.json)
+
+[Extended Data](ext_articles/39727751.ext.json)
+
+---
+
+### There is a wider conversation to children-adult welfare
+
+*2025-09-30 23:01:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-සබ-සධනයට-පළල-සවදයක-ඕන/1-680528) · `si`
+
+Opposition Leader Sajith Premadasa says the World Children's Day and Adult Day greetings that the Leader of the Opposition should go to a broad discussion on what needs to be done on the Children's Day and the Elderly Day.
+
+The International Children's Day and the International Adult Day will be held at the same day of the year.
+
+'Today's child is an adult tomorrow.' This is that we give us a good understanding of children and falsehood. Children's security is the well-being of society. Adults who give the well-being of society are the civilians marking the precedents of a country. It is the responsibility of those who seek the good existence of a country to take care of protection of both parties and their responsibilities and accountability for them.
+
+We inherited the guidance of four major religious teachings of our society values. We have shown that our responsibility is our responsibility in all these religious guidance as well as the child and adult.
+
+...
+
+[Data](articles/efeb842b.json)
+
+[Extended Data](ext_articles/efeb842b.ext.json)
+
+---
+
+### A full-child world of children - an honorable society for adults
+
+*2025-09-30 22:55:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවනට-පරණ-ළම-ලවක-වඩහටයනට-ගරවනය-සමජයක/101-680527) · `si`
+
+Prime Minister Dr. Haraini Amarasuriya says that children is maximized to a good life for a perfect childhood and adults to live a good life for the elders.
+
+I am delighted to be greeted by the Prime Minister as a Prime Minister for World Children's Day to celebrate "Love - Lovely - World Children's World. The life of a country is children. Our role is to build a perfect child's world.
+
+The government is entitled to the children as a country with nearly 31% of the population. Understanding the responsibility, our government is committed to giving them the children's childhood, closing to children's safety for children's protection.
+
+The government has already begun the task of perfecting the economic, social and mentally secure and mentally secure and mentally safe and mentally secure and mentally safe and mentally safe and mentally safe and mentally protected.
+
+...
+
+[Data](articles/79b8dbc4.json)
+
+[Extended Data](ext_articles/79b8dbc4.ext.json)
+
+---
+
+### A full-child world of children - an honorable society for adults
+
+*2025-09-30 22:55:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවනට-පරණ-ළම-ලවක-වඩහටයනට-ගරවනය-සමජයක/1-680527) · `si`
+
+Prime Minister Dr. Haraini Amarasuriya says that children is maximized to a good life for a perfect childhood and adults to live a good life for the elders.
+
+I am delighted to be greeted by the Prime Minister as a Prime Minister for World Children's Day to celebrate "Love - Lovely - World Children's World. The life of a country is children. Our role is to build a perfect child's world.
+
+The government is entitled to the children as a country with nearly 31% of the population. Understanding the responsibility, our government is committed to giving them the children's childhood, closing to children's safety for children's protection.
+
+The government has already begun the task of perfecting the economic, social and mentally secure and mentally secure and mentally safe and mentally secure and mentally safe and mentally safe and mentally safe and mentally protected.
+
+...
+
+[Data](articles/7ed290fb.json)
+
+[Extended Data](ext_articles/7ed290fb.ext.json)
+
+---
+
+### Dedicate child-comment right
+
+*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-අයතය-රකනන-කපවනව/101-680526) · `si`
+
+President Anura Kumara Dissanayake issued a greetings for the World Children's Day and Adult Day.
+
+World Children's Day and Adult Day are today. Child and Adult representation in a country's population. We are fully dedicated to the rights and well-being of these generations, and we continue to work for the well-being of children and adults.
+
+The future of the world as well as the future of the world is the parasion. Extremely beautifully beautiful because their world is a genuine and tiny world. It is the responsibility of a community to have the opportunity to enjoy the beauty. As a government realized that you are creating their duties and responsibilities with rights, we are always committed to secure and establish child rights. Also, we are able to interact with the intervention of promoting child rights, rather than who is the child.
+
+...
+
+[Data](articles/f5be7320.json)
+
+[Extended Data](ext_articles/f5be7320.ext.json)
+
+---
+
+### Dedicate child-comment right
+
+*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-අයතය-රකනන-කපවනව/1-680526) · `si`
+
+President Anura Kumara Dissanayake issued a greetings for the World Children's Day and Adult Day.
+
+World Children's Day and Adult Day are today. Child and Adult representation in a country's population. We are fully dedicated to the rights and well-being of these generations, and we continue to work for the well-being of children and adults.
+
+The future of the world as well as the future of the world is the parasion. Extremely beautifully beautiful because their world is a genuine and tiny world. It is the responsibility of a community to have the opportunity to enjoy the beauty. As a government realized that you are creating their duties and responsibilities with rights, we are always committed to secure and establish child rights. Also, we are able to interact with the intervention of promoting child rights, rather than who is the child.
+
+...
+
+[Data](articles/f765f209.json)
+
+[Extended Data](ext_articles/f765f209.ext.json)
 
 ---

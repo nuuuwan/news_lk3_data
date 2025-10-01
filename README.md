@@ -1,55 +1,363 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 06:27:36**
+As of **2025-10-01 09:05:22**
 
 ## Newspaper Stats
 
-*Scraped **80,043** Articles*
+*Scraped **80,063** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 518
-lankadeepalk | 532
+newsfirstlk | 520
+lankadeepalk | 535
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
-economynextcom | 4,757
+economynextcom | 4,758
 islandlk | 4,861
-dailyftlk | 5,611
-adalk | 7,700
-adaderanalk | 10,318
-tamilmirrorlk | 11,956
-virakesarilk | 13,074
-adaderanasinhalalk | 13,832
+dailyftlk | 5,615
+adalk | 7,701
+adaderanalk | 10,321
+tamilmirrorlk | 11,957
+virakesarilk | 13,075
+adaderanasinhalalk | 13,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,031 (100.0%) of 80,043 articles have been extended.
+80,059 (100.0%) of 80,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### ஜோதிட நிலையம் சுற்றிவளைப்பு: இந்தியர்கள் மூவர் கைது
+### Search Operations Continue for Weapons Dumped in Kataragama
+
+*2025-10-01 08:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/search-operations-continue-for-weapons-dumped-in-kataragama) · `en`
+
+COLOMBO (News 1st) - Police say search operations will continue today to recover weapons dumped in the Weheragalla wewa in Kataragama.Acting Police Media Spokesperson ASP Minura Senarath stated that divers will be deployed to carry out the search.According to information provided by an Army Intelligence Officer, 74 empty T-56 magazines, 36 empty LMG magazines, and 5 empty MPMG drums were discovered in the lake yesterday.The recovered items have been handed over to the GonaganAra Police.ASP Senarath added that investigations are underway to determine who was responsible for bringing and dumping the weapons into the lake.
+
+◼️
+
+[Data](articles/92077e13.json)
+
+---
+
+### Earthquake in Philippines: 26 killed
+
+*2025-10-01 07:59:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸில்-பாரிய-நிலநடுக்கம்-26-பேர்-பலி/50-365564) · `ta`
+
+26 people have been killed in the earthquake, the country's disaster management officials said.
+
+The earthquake struck on the coast of Sebu at around 10 pm local time yesterday.
+
+◼️
+
+[Data](articles/4f280796.json)
+
+[Extended Data](ext_articles/4f280796.ext.json)
+
+---
+
+### President Reaffirms Commitment to Children and Elders on World Children’s Day and Elders’ Day
+
+*2025-10-01 07:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/president-reaffirms-commitment-to-children-and-elders-on-world-children%e2%80%99s-day-and-elders%e2%80%99-day) · `en`
+
+COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the government’s commitment to safeguarding the rights and wellbeing of children and elders across the nation.The President highlighted that children represent the future of both the nation and the world, emphasizing that their innocence and purity must be nurtured. He stressed that it is the government’s responsibility to ensure that all children have equal access to education, guidance, social protection, and protection from abuse, discrimination, and all forms of violence. He underlined that no child of school-going age should be deprived of education due to ethnicity, economic background, or any other factor.The President noted that this year’s budget places special focus on improving healthcare, education, and support services for children with developmental challenges, including autism.
+
+◼️
+
+[Data](articles/c4976f07.json)
+
+---
+
+### PM Harini calls for a prosperous nation where children thrive and elders live with dignity
+
+*2025-10-01 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113093/pm-harini-calls-for-a-prosperous-nation-where-children-thrive-and-elders-live-with-dignity) · `en`
+
+Prime Minister Dr. Harini Amarasuriya says that the government is committed to creating a safe, supportive, and child-friendly environment while protecting children from abuse, labour, and stress, and ensuring their growth with dignity and knowledge.
+
+“Children are the lifeline of a nation. It is our responsibility to build a fostering childhood for them,” she said in a message on World Children’s Day, under the theme “Nurture with Love – to lead the World.”
+
+In her message she also highlighted the government’s dedication to safeguarding elders by strengthening their security, wellbeing, and dignity, reaffirming the nation’s responsibility to build a prosperous society for both children and elders.
+
+“I would also remind that our Government is committed to ensuring the protection, mental wellbeing, and health of our senior citizens, while creating a respectful and dignified social environment for them.”
+
+...
+
+[Data](articles/4df66207.json)
+
+[Extended Data](ext_articles/4df66207.ext.json)
+
+---
+
+### The weather today
+
+*2025-10-01 07:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226541) · `ta`
+
+The Department of Meteorology has said that rainfall will occur in Sabaragamuwa and Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Uniform weather may be in the rest of the country. Heavy winds can be frequent at speeds of 30 - 40 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts. ‌ ‌ ‌
+
+Rainfall is expected in some parts of the sea regions from Colombo to Galle to Matara.
+
+Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
+
+From Chilaw to Mannar to Mannar, as well as in the sea regions from Matara to Pottuvil via Hambantota, 50 - 55 km per hour. In these cases, these sea regions are turbulent.
+
+In the sea regions from the Kankesanthurai to Trincomalee, the wind can increase at 50 kilometers per hour.. In these cases, these sea regions are somewhat turbulent.
+
+◼️
+
+[Data](articles/a7aac375.json)
+
+[Extended Data](ext_articles/a7aac375.ext.json)
+
+---
+
+### The government is remarkable for the welfare of children and elders - President
+
+*2025-10-01 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215207) · `si`
+
+President Anura Kumara Dissanayake says that the government is fully committed to the rights and well-being of children and adults.
+
+◼️
+
+[Data](articles/9080c236.json)
+
+[Extended Data](ext_articles/9080c236.ext.json)
+
+---
+
+### KJA says information about death of Tajudeen
+
+*2025-10-01 06:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජඩනග-මරණය-ගන-තරතරක-කජජග-බරය-කයය/101-680530) · `si`
+
+He said that he had revealed that he had been killed in a suspect who had been killed in a suspect, he had been killed in a suspect, the wife of a suspect in a suspect who had been killed in a suspicious vehicle.
+
+He was speaking at a special media briefing held in the Police Media Division in Battaramulla.
+
+The police spokesman said that the wife of the Kibra's wife was voluntarily appeared to the CID.
+
+The body of Rugby Player Tajadin was found in May 2012 in May 2012, which had been burned near the Shashy Stadium, Colombo.
+
+Although the police investigated was an accident in an accident, the rugby player had asked for an independent investigation into the matter.
+
+Accordingly, in the year 2015, the Criminal Investigation Department has submitted a special report to the Colombo Magistrate's Court that the death was revealed that the death was assassinated after investigations.
+
+...
+
+[Data](articles/4052fa64.json)
+
+[Extended Data](ext_articles/4052fa64.ext.json)
+
+---
+
+### Strong earthquake kills 31 people in a central Philippine region hit by deadly storm just days ago
+
+*2025-10-01 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113092/strong-earthquake-kills-31-people-in-a-central-philippine-region-hit-by-deadly-storm-just-days-ago) · `en`
+
+An offshore earthquake of magnitude 6.9 collapsed walls of houses and buildings late Tuesday in a central Philippine province, killing at least 31 people, injuring many others and sending residents scrambling out of homes into darkness as the intense shaking cut off power, officials said.
+
+The epicenter of the earthquake, which was set off by movement in a local fault at a depth of 5 kilometers (3 miles), was about 19 kilometers (12 miles) northeast of Bogo, a coastal city of about 90,000 people in Cebu province where at least 14 residents died, disaster-mitigation officer Rex Ygot told The Associated Press by telephone.
+
+The death toll in Bogo was expected to rise. Workers were trying to transport a backhoe to hasten search and rescue efforts in a cluster of shanties in a mountain village hit by a landslide and boulders, he said.
+
+...
+
+[Data](articles/1060cf5c.json)
+
+[Extended Data](ext_articles/1060cf5c.ext.json)
+
+---
+
+### Philippines' earthquake lost 26
+
+*2025-10-01 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215206) · `si`
+
+26 people were killed in an earthquake in a 6.9-year-old earthquake in the Central Philippines.
+
+The dumplatures were caused by the coast of the city of Cebu.
+
+Another 147 persons were injured in the earthquake.
+
+Earthquakes have caused heavily damaged electricity and buildings.
+
+Philippine volcano and seismicism says that the earthquake has no tsunami.
+
+There is a population of nearly a million population in the Town of Sebu, located in the devaluation region of the earthquake.
+
+The rescue operations between the building debris continues and the number of deaths will be increased.
+
+◼️
+
+[Data](articles/a57a7256.json)
+
+[Extended Data](ext_articles/a57a7256.ext.json)
+
+---
+
+### Few showers expected in parts of the island today
+
+*2025-10-01 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113091/few-showers-expected-in-parts-of-the-island-today) · `en`
+
+A few showers may occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (01), the Department of Meteorology said.
+
+Mainly fair weather will prevail over elsewhere of the island.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/52f82e0e.json)
+
+[Extended Data](ext_articles/52f82e0e.ext.json)
+
+---
+
+### Today is World Children and Elders Day
+
+*2025-10-01 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215205) · `si`
+
+The theme of the theme is celebrated today with the theme of the World Children's Day as the theme "Keep World Children's Day and" World Children's Day. "
+
+Various ceremonies and activities have been organized in parallel to the children's day of schools across the country.
+
+A National Children's Day has been operating a weekly week for the Children's Day from today (01) to the Elderly Day.
+
+◼️
+
+[Data](articles/ba1aaa4e.json)
+
+[Extended Data](ext_articles/ba1aaa4e.ext.json)
+
+---
+
+### From the caferyes of the vehicle trailing the day after the killing of Thajudin
+
+*2025-10-01 06:00:21* · [`adalk`](https://www.ada.lk/breaking_news/තාජුඩීන්-ඝාතනය-වූ-දින-පසුපසින්-ගමන්-කළ-වාහනයේ-කජ්ජා-ඉදලා/11-418828) · `si`
+
+The police said that the police said in a statement that the two children were shot dead in the suspect's caring vehicle to the death of Rugbyhop Thajudeen.
+
+The Criminal Investigation Department has told the Criminal Investigation Department that the person who is going to be suspected to be identified as his master.. The Criminal Investigations Department announces the new witnessing activities of the construction work.
+
+◼️
+
+[Data](articles/1550311e.json)
+
+[Extended Data](ext_articles/1550311e.ext.json)
+
+---
+
+### Weather today
+
+*2025-10-01 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215203) · `si`
+
+The Meteorology Department says that today (01), the Meteorological Department (01) has a few showers in the Western and Sabaragamuwa provinces.
+
+The department states that there is a continuous rainy weather in the other areas of the island.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
+
+Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara.
+
+Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
+
+From Matara to Pottuvil through Matara to Pottuvil and Chilaw to Kankasanthurai. 50-55 can rise.
+
+Winds from the sea areas off the Kankesanthurai to Trincomalee.. Department of Meteorology says that up to 50 can increase.
+
+...
+
+[Data](articles/78d68b88.json)
+
+[Extended Data](ext_articles/78d68b88.ext.json)
+
+---
+
+### Gotabaya: Untold achievements
+
+*2025-10-01 05:46:07* · [`dailyftlk`](https://www.ft.lk/columns/Gotabaya-Untold-achievements/4-782440) · `en`
+
+Gotabaya Rajapaksa, former President of Sri Lanka, son of D.A. Rajapaksa, was born in June 1949, Palatuwa in Matara district as the fifth of nine siblings. He was brought up in Weeraketiya in Hambantota district. Hailing from a well-known political family, his father a prominent politician, Member of Parliament and the Cabinet Minister of Agriculture and Land in Wijayananda Dahanayake government and Mahinda Rajapaksa his elder brother. He was educated at Ananda College, Colombo and joined the Sri Lankan Army.
+
+...
+
+[Data](articles/130e93a9.json)
+
+[Extended Data](ext_articles/130e93a9.ext.json)
+
+---
+
+### Lacklustre Government, blessed by the Opposition
+
+*2025-10-01 05:40:27* · [`dailyftlk`](https://www.ft.lk/opinion/Lacklustre-Government-blessed-by-the-Opposition/14-782439) · `en`
+
+“Most ignorance is vincible ignorance. We don’t know because we don’t want to know” – Aldous Huxley (Ends and Means)
+
+During her 107-day presidential election campaign, Kamala Harris (having inherited the Democratic Party candidacy after the precipitous departure of Joe Biden) tried to project herself as the true change agent. That image was blown to smithereens on the talk-show ‘The View’, just a month before the election. Asked what she would have done differently from President Biden in the last four years, she answered: “There’s not a thing that comes to mind.”
+
+...
+
+[Data](articles/6e9408ce.json)
+
+[Extended Data](ext_articles/6e9408ce.ext.json)
+
+---
+
+### Tragedy at Na Uyana monastery, killing seven Buddhist monks is much more than meets the eye
+
+*2025-10-01 05:34:15* · [`dailyftlk`](https://www.ft.lk/opinion/Tragedy-at-Na-Uyana-monastery-killing-seven-Buddhist-monks-is-much-more-than-meets-the-eye/14-782438) · `en`
+
+It is learnt that this facility was constructed almost 20 years ago, using leftover material
+
+The tragedy that occurred at internationally famed Na Uyana monastery, killing seven Buddhist monks on the spot and injuring six other Bikkus is another heartrending news that shocked the entire Sri Lanka within the last one month. From the wide publicity given over the electronic media, it is reported that this unfortunate accident has taken place when the steel cable attached to the cable cart had snapped mid-journey, sending 13 Buddhist monks plummeting down a 300 meters precipice at a rapid speed without any control.
+
+Apparently, this last batch of Bikkus out of three had been returning from a religious observance when the accident struck at about 21:30 hours. The bodies had been flung to a more than 100 meters distance, according to eye-witnesses and rescuers, which gives the impression that the cart has travelled excessive speed after losing control.
+
+...
+
+[Data](articles/d4942ed9.json)
+
+[Extended Data](ext_articles/d4942ed9.ext.json)
+
+---
+
+### Confirmation bias: Silently destroying meritocracy, objectivity and fairness
+
+*2025-10-01 05:28:12* · [`dailyftlk`](https://www.ft.lk/columns/Confirmation-bias-Silently-destroying-meritocracy-objectivity-and-fairness/4-782435) · `en`
+
+The varied public response to recent incidents ranging from the arrest of Ranil Wickremesinghe, former president and prominent politician of Sri Lanka to the assassination of Charlie Kirk, American right-wing political activist, evidence that our assessment of, and response to, events are primarily based on our like or dislike of the individual, or individuals, involved rather than on an objective and unemotional interpretation of the underlying facts. When we base our opinions and conclusions on our likes or dislikes of the individual rather than on the facts, we undermine the principles of fairness, justice, ethics, and integrity that underpin our society.
+
+...
+
+[Data](articles/41ee1adb.json)
+
+[Extended Data](ext_articles/41ee1adb.ext.json)
+
+---
+
+### Three Indians arrested
 
 *2025-10-01 04:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோதிட-நிலையம்-சுற்றிவளைப்பு-இந்தியர்கள்-மூவர்-கைது/175-365562) · `ta`
 
-சுற்றுலா வீசா மூலம் இலங்கை வந்த இந்தியர்கள் நடத்திய சட்டவிரோத ஜோதிட நிலையம் யாழ்ப்பாணம், பருத்தித்துறை பொலிஸாரால் நேற்று சுற்றி வளைக்கப்பட்டதுடன், மூவர் கைது செய்யப்பட்டுள்ளனர்.
+The illegal astrological station conducted by Indians who came to Sri Lanka with a tourist visa was surrounded by Jaffna and Point Pedro Police yesterday.
 
-பருத்தித்துறை தும்பளை வீதியில் இந்த சட்டவிரோத ஜோதிட நிலையம் அமைத்து இயங்கி வந்துள்ளது.
+The illegal astrological station is located on the Tumbalai road in Point Pedro.
 
-இந்த விடயம் தொடர்பாக தும்பளை பிரிதேச கிராம அலுவர் பருத்தித்துறை நகரசபை தவிசாளரின் கவனத்திற்கு கொண்டு சென்றுள்ளார்.
+The Tumbala Pradeshiya Grama Niladhari has taken the matter to the notice of the Municipal Councilor.
 
-இதனையடுத்து, நேற்று பருத்தித்துறை நகர பிதா நேரில் சென்று அவதானித்து மேற்படி  இந்தியர்களை வெளியேறுமாறு அறிவுறுத்தியுள்ளார்.
+Subsequently, the Father of Point Pedro yesterday went to observe and advised the Indians to leave.
 
-ஆனாலும்,  தொடர்ந்தும் ஜோதிட நிலையம் இயங்கி வந்ததை அடுத்து நகரபிதா வின்சன் டீ டக்ளஸ் போல் பருத்தித்துறை பொலிஸாருக்கு தகவல் வழங்கியதை அடுத்து சம்பவ இடத்திற்கு விரைந்த பொலிஸார் இந்தியப் பிரஜைகளன் கடவுச் சீட்டை பரிசோதனை செய்த போது , அவர்கள்  மூவரும் சுற்றுலா வீசாவில் நாட்டிற்குள் வந்துள்ளமை தெரியவத்தது.
+However, after the continued operating astrological station, the police rushed to the scene after the incident was informed by the City Council, Vinson De Douglas, and the Indian citizens who rushed to the spot, revealed that the trio had arrived in the tourist visa.
 
 ◼️
 
 [Data](articles/b079ab23.json)
+
+[Extended Data](ext_articles/b079ab23.ext.json)
 
 ---
 
@@ -409,6 +717,8 @@ Global fintech platform, Pine Labs Limited today announced its partnership with 
 
 [Data](articles/11c3d1bc.json)
 
+[Extended Data](ext_articles/11c3d1bc.ext.json)
+
 ---
 
 ### Aitken Spence Travels South Asia’s Best
@@ -424,6 +734,8 @@ SATA is one of the region’s most prominent platforms celebrating excellence an
 ...
 
 [Data](articles/739b7269.json)
+
+[Extended Data](ext_articles/739b7269.ext.json)
 
 ---
 
@@ -443,6 +755,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/c096f333.json)
 
+[Extended Data](ext_articles/c096f333.ext.json)
+
 ---
 
 ### Profit-takings prior to pick-up at share market; indices rise
@@ -456,6 +770,8 @@ The All Share Price Index rose by 102.3 points while S and P SL20 rose by 8.4 po
 ...
 
 [Data](articles/d2e3e821.json)
+
+[Extended Data](ext_articles/d2e3e821.ext.json)
 
 ---
 
@@ -472,6 +788,8 @@ With over 30 years of experience in the travel industry, Sonali brings a wealth 
 ...
 
 [Data](articles/6383ef47.json)
+
+[Extended Data](ext_articles/6383ef47.ext.json)
 
 ---
 
@@ -557,23 +875,25 @@ The President, who has always expressed his views on the uniqueness of Buddhist 
 
 ---
 
-### ඉන්ධන වර්ග තුනක මිල පහළට
+### The price of three types of fuel down
 
 *2025-09-30 23:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-වර්ග-තුනක-මිල-පහළට/11-418827) · `si`
 
-මිල සූත්‍රයට අනුව අද (30) මධ්‍යම රාත්‍රී ඉන්ධන වර්ග තුනක මිල  සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+According to the price formula, the Ceylon Petroleum Corporation has taken steps to amend three midnight fuel projects today (30).
 
-ඒ අනුව ලංකා සුදු ඩීසල් ලීටරයක මිල රුපියල් 06කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 277කි.
+Accordingly, the price of a liter of Sri Lanka has been reduced by Rs. 277.
 
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 06කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 335ක් වෙයි.
+The price of a liter of oil has been reduced by Rs. 335 per liter of petrol.
 
-ලංකා භූමිතෙල් මිල ද රුපියල් 05කින් අඩුකර ඇති අතර එහි නව මිල රුපියල් 180කි.
+The prices of the Lanka kerosene has also been reduced by Rs. 50.
 
-කෙසේ වෙතත් පෙට්‍රල්  ඔක්ටේන් 92(රු. 299) සහ ලංකා සුපර් ඩීසල් මිල (313)නොවෙනස්ව පවතින බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කළේය.
+However, petrol octane 92 (Rs. 299) and Lanka Super Diesel prices (313) is unchanged, the Ceylon Petroleum Corporation announced.
 
 ◼️
 
 [Data](articles/8de56917.json)
+
+[Extended Data](ext_articles/8de56917.ext.json)
 
 ---
 
@@ -612,6 +932,44 @@ We inherited the guidance of four major religious teachings of our society value
 [Data](articles/39727751.json)
 
 [Extended Data](ext_articles/39727751.ext.json)
+
+---
+
+### A full-child world of children - an honorable society for adults
+
+*2025-09-30 22:55:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවනට-පරණ-ළම-ලවක-වඩහටයනට-ගරවනය-සමජයක/101-680527) · `si`
+
+Prime Minister Dr. Haraini Amarasuriya says that children is maximized to a good life for a perfect childhood and adults to live a good life for the elders.
+
+I am delighted to be greeted by the Prime Minister as a Prime Minister for World Children's Day to celebrate "Love - Lovely - World Children's World. The life of a country is children. Our role is to build a perfect child's world.
+
+The government is entitled to the children as a country with nearly 31% of the population. Understanding the responsibility, our government is committed to giving them the children's childhood, closing to children's safety for children's protection.
+
+The government has already begun the task of perfecting the economic, social and mentally secure and mentally secure and mentally safe and mentally secure and mentally safe and mentally safe and mentally safe and mentally protected.
+
+...
+
+[Data](articles/79b8dbc4.json)
+
+[Extended Data](ext_articles/79b8dbc4.ext.json)
+
+---
+
+### Dedicate child-comment right
+
+*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-අයතය-රකනන-කපවනව/101-680526) · `si`
+
+President Anura Kumara Dissanayake issued a greetings for the World Children's Day and Adult Day.
+
+World Children's Day and Adult Day are today. Child and Adult representation in a country's population. We are fully dedicated to the rights and well-being of these generations, and we continue to work for the well-being of children and adults.
+
+The future of the world as well as the future of the world is the parasion. Extremely beautifully beautiful because their world is a genuine and tiny world. It is the responsibility of a community to have the opportunity to enjoy the beauty. As a government realized that you are creating their duties and responsibilities with rights, we are always committed to secure and establish child rights. Also, we are able to interact with the intervention of promoting child rights, rather than who is the child.
+
+...
+
+[Data](articles/f5be7320.json)
+
+[Extended Data](ext_articles/f5be7320.ext.json)
 
 ---
 
@@ -1375,6 +1733,8 @@ The event was attended by nearly 200 senior members of Japan’s business commun
 
 [Data](articles/8adc60bf.json)
 
+[Extended Data](ext_articles/8adc60bf.ext.json)
+
 ---
 
 ### Point out in the US State Department report
@@ -1604,381 +1964,5 @@ Sri Lanka has long been a welcoming destination for travelers from all walks of 
 [Data](articles/35bb4ac3.json)
 
 [Extended Data](ext_articles/35bb4ac3.ext.json)
-
----
-
-### Thirtrician Anuradhaayake thera to President
-
-*2025-09-30 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215188) · `si`
-
-President Anura Kumara Dissanayake has sent a letter to President Anura Kumara Dissanayake, the introduction of the introduction of the social decline laws and the state mechanism to promote unethical homosexual behavior.
-
-The letter states that if the country tries to go to the Kingdom rule, the state's endemic and blindness, which is triggered by narrow trickles and blindness, regardless of narrow trickles and blindness.
-
-The letter, as well as the proposed amendment to pass the guilt of the Penal Code, as well as the proposed ambition towards the promotion of homosexuality industry by the present government, has a number of social problems and social problems.
-
-The President has informed the President by the President's letter to the President that the President is constantly focused on how the use of Buddhist philosophical develops and its practical.
-
-Trongekey acts of unethical actions
-
-◼️
-
-[Data](articles/77ca9fa5.json)
-
-[Extended Data](ext_articles/77ca9fa5.ext.json)
-
----
-
-### මල්ලක තිබී අත්බෝම්බ 10ක් සොයා ගනියි
-
-*2025-09-30 17:48:36* · [`adalk`](https://www.ada.lk/breaking_news/මල්ලක-තිබී-අත්බෝම්බ-10ක්-සොයා-ගනියි/11-418826) · `si`
-
-10 hand grenades found in Modara, Colombo. These handabembs found at a search operation conducted on information received by the Terrorist Investigation Division.
-
-◼️
-
-[Data](articles/a28ac2d9.json)
-
-[Extended Data](ext_articles/a28ac2d9.ext.json)
-
----
-
-### Japan help to rehabilitate schools in the North and East
-
-*2025-09-30 17:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-பாடசாலைகளை-புனரமைக்க-ஜப்பான்-உதவி/175-365541) · `ta`
-
-Japan has guaranteed the rehabilitation and modernization of 100 schools in the Northern and Eastern Provinces.
-
-It was approved during a discussion between the founding chairman of the Nippon forum and the president.
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, met with Yohai Sasakawa, the founder of the Nippon forum on Tuesday (30) at the Imperial Hotel in Tokyo.
-
-Special attention was paid to strengthening the long -term friendship between Japan and Sri Lanka.
-
-He told the president that Yohai Sasakawa would give his continued support to improve the livelihood of all communities in Sri Lanka.. வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள 100 பாடசாலைகளின்  புனரமைப்பு மற்றும் நவீனமயமாக்கலுக்கான எதிர்காலத் திட்டங்களையும் அவர் முன்வைத்தார்.
-
-...
-
-[Data](articles/3440ec43.json)
-
-[Extended Data](ext_articles/3440ec43.ext.json)
-
----
-
-### Sri Lanka reaffirms commitment to UN Committee on Enforced Disappearances
-
-*2025-09-30 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaffirms-commitment-to-un-committee-on-enforced-disappearances-242298/) · `en`
-
-ECONOMYNEXT – Sri Lanka has reiterated its commitment to tackling enforced disappearances and strengthening democratic institutions during the country’s first presentation to the UN Committee on Enforced Disappearances (CED) in Geneva, the island nation’s Foreign Ministry said.
-
-Minister of Justice and National Integration Harshana Nanayakkara, led the Sri Lankan delegation to last week’s 29th Session of the CED.
-
-The Minister underscored that engaging with the Committee on Enforced Disappearances was not merely a reporting obligation, but an opportunity to strengthen national frameworks, uphold accountability and ensure that the rights and dignity of all persons are safeguarded in line with international standards.
-
-The Minister highlighted the work of the Office on Missing Persons (OMP), Office for Reparations (OR) and the Office for National Unity and Reconciliation (ONUR), stressing that these institutions remain central to ongoing efforts to address grievances and restore public trust.
-
-...
-
-[Data](articles/9c6e555f.json)
-
-[Extended Data](ext_articles/9c6e555f.ext.json)
-
----
-
-### The allowance of those who qualified qualified
-
-*2025-09-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215187) · `si`
-
-The beneficiary benefit board says that the beneficiaries of beneficiaries who have been eligible for the second phase of the revenue will be credited today to the bank accounts of these beneficiaries today (30).
-
-Thus of the Rs. 1,794,383,750.00 will be credited to the beneficiary bank accounts, distributing a sum of 1,79,383,750.00 from 217,645 families.
-
-◼️
-
-[Data](articles/d65bfc55.json)
-
-[Extended Data](ext_articles/d65bfc55.ext.json)
-
----
-
-### Sri Lanka 2025 growth kept at 3.9-pct, inflation slashed to 0.5-pct in ADB forecast
-
-*2025-09-30 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-2025-growth-kept-at-3-9-pct-inflation-slashed-by-adb-to-0-5-pct-242296/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2025 growth has been kept at 3.9 percent by the Asian Development Bank, lower than trend indications while inflation has been slashed to just 0.5 percent, according to a regional outlook issued in September.
-
-“Sri Lanka’s growth forecast for 2025 is unchanged, but the 2026 projection is revised down, as the 20 percent US tariff is expected to weaken exports and dampen consumption due to potential job losses,” the ADB report said.
-
-Sri Lanka’s economy grew 4.9 percent in the second quarter of 2025, higher than projected by most agencies, as the central bank missed its inflation target of 5 percent.
-
-RELATED : Sri Lanka GDP grows 4.9-pct in second quarter 2025
-
-The ADB slashed its inflation forecast for 2025 to just 0.5 percent in September, 3.1 percent in September.
-
-...
-
-[Data](articles/881284bc.json)
-
-[Extended Data](ext_articles/881284bc.ext.json)
-
----
-
-### Application for Member Position for Missing Persons
-
-*2025-09-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226511) · `ta`
-
-The Office of the Missing Person (Missing Personnel, Fulfillment and Fulfillment) Act No. 14 of 2016 has been sought to fill a vacuum for a member post at the office of the missing persons in October 2025.
-
-Applications are requested from the forefront of the event or the human rights law, the International Humanitarian Law and the Humanitarian Response, or the other qualifications of the office of the missing persons.
-
-Www.parliament.lk. Applications of the appointment of members should be sent to the Constituent Assembly, the Constituent Assembly, the Constituent Assembly, the Office of the Constitutional Council, the Sri Jayawardenapura Gotte, the office of the Constitutional Council on October 14, 2025.
-
-Or should be sent to the email address of the constitutionalcouncil@parliament.lk. The appointment of a member of the Office of Missing Persons should be referred to as a matter of e -mail or email.
-
-◼️
-
-[Data](articles/1d05a2ef.json)
-
-[Extended Data](ext_articles/1d05a2ef.ext.json)
-
----
-
-### "Nothing new
-
-*2025-09-30 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226509) · `ta`
-
-A demonstration was held in front of the university gate by the Vavuniya University Teachers Federation.
-
-The demonstration was launched in support of the identity work being carried out by the State University Teachers' Federation across the country, saying the government had failed to take action to address the shortcomings in the university structure.
-
-At the time, brain loss capital loss, no new, no new vacancies, filling the necessary vacancies, no higher education, and the demonstration.
-
-◼️
-
-[Data](articles/373af0f9.json)
-
-[Extended Data](ext_articles/373af0f9.ext.json)
-
----
-
-### Website for Registration of Three Wheeler Registration in the Western Province
-
-*2025-09-30 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215186) · `si`
-
-Western Province Registration Passenger Transport Authority has implemented a website to introduce a website to introduce all passenger transport registrations in the Western Province.
-
-ඒ අනුව https://wptaxi.net/ යන වෙබ් ලිපිනයට පිවිස ඒ සඳහා ලියාපදිංචි වීමේ පහසුකම මේ වන විට ත්‍රිරෝද රථ රියදුරන්ට හැකියාව ලැබෙනු ඇත.
-
-The Authority's Runner Manager said that the registration of all passenger transport of three wheelers in the Western Province has been reopened.
-
-He further stated that all three-casts can be submitted to the above website and will be given to the relevant Divisional Secretariat and provide registration facilities to the relevant Divisional Secretariat at the same time.
-
-◼️
-
-[Data](articles/d9bfaac0.json)
-
-[Extended Data](ext_articles/d9bfaac0.ext.json)
-
----
-
-### The North and East will be renovated by Nippon Foundation
-
-*2025-09-30 17:21:08* · [`adalk`](https://www.ada.lk/breaking_news/උතුර-සහ-නැගෙනහිර-පාසල්-100-ක්-නිපොන්-පදනහෙමන්-ප්‍රතිසංස්කරණය-කරයි/11-418825) · `si`
-
-President Anura Kumara Dissanayake on an invite of the Government of Japan, President Anura Kumara Dissanayake was held at the Imperial Hotel in Tokyo, the founding of the Nihani Sasakawa (Yohei Sasakawa) at Tokyo.
-
-Special attention was focused on strengthening the long-term friendship between Japan and Sri Lanka.
-
-Jahai Sasakawa (Yohei Sasakawa) stated that he will continue to support the livelihood of all communities in Sri Lanka.. He also presented the plans to renovate and modernization of 100 schools in the North and East.
-
-President Anura Kumara Dissanayake expressed his gratitude to Johani Sasakawa, a long term commitment to the development and well being in Sri Lanka.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and others participated in the event.
-
-◼️
-
-[Data](articles/13517221.json)
-
-[Extended Data](ext_articles/13517221.ext.json)
-
----
-
-### Contemporary people in culture with mutual respect - Mahinda Rajapaksa
-
-*2025-09-30 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226508) · `ta`
-
-Former President Mahinda Rajapaksa has said that we are both contemporary in the Kalakara in the state where we can maintain mutual respect.
-
-Former President Ranil Wickremesinghe has recorded this in his homepage about the visit of former President Mahinda Rajapakse at his Calton residence last Sunday.
-
-A meeting between former President Ranil Wickremesinghe and me was held at the Thangallai Calton residence. There we both engaged in a very good discussion.
-
-While we both have a different position, we are contemporary of a political culture that can maintain mutual respect while fulfilling national responsibilities.
-
-I thank you for the arrival of loved Ranil Wickremesinghe. Similarly, I remember Maithri Vikramasinghe with respect.
-
-◼️
-
-[Data](articles/5db4f09d.json)
-
-[Extended Data](ext_articles/5db4f09d.ext.json)
-
----
-
-### Japan's Nippon Foundation Pledges Support for Sri Lanka
-
-*2025-09-30 17:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/japan-s-nippon-foundation-pledges-support-for-sri-lanka) · `en`
-
-COLOMBO (News 1st); President Anura Kumara Dissanayake, currently on an official visit to Japan at the invitation of the Japanese government, met with Yohei Sasakawa, the founding chairman of the Nippon Foundation at the Imperial Hotel in Tokyo.
-
-The meeting focused on strengthening the longstanding friendship between Japan and Sri Lanka, with both parties expressing commitment to deepening bilateral cooperation.
-
-Sasakawa reaffirmed the Nippon Foundation’s continued support for uplifting the livelihoods of all communities in Sri Lanka.
-
-He also presented future plans to renovate and modernize 100 schools in the Northern and Eastern provinces, aiming to improve educational infrastructure in post-conflict regions.
-
-President Dissanayake expressed his gratitude for the foundation’s sustained dedication to social service and development in Sri Lanka.
-
-He acknowledged the Nippon Foundation’s long-term contributions toward national progress and social welfare.
-
-◼️
-
-[Data](articles/dce7386b.json)
-
-[Extended Data](ext_articles/dce7386b.ext.json)
-
----
-
-### Ten Hand Grenades Discovered In Mutuwal
-
-*2025-09-30 17:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ten-hand-grenades-discovered-in-mutuwal) · `en`
-
-COLOMBO (News 1st); A cache of ten hand grenades was discovered inside a bag near a local government construction site on Aluthwatta Road in Mutuwal, according to police sources.The explosives were found by officers from the Police Terrorism Investigation Division (TID). Police stated that the grenades have been handed over to the Mutuwal Police Station for further forensic analysis and security assessment.
-
-◼️
-
-[Data](articles/6c09d6dd.json)
-
-[Extended Data](ext_articles/6c09d6dd.ext.json)
-
----
-
-### Heavy traffic in Colombo due to protest by uni. students
-
-*2025-09-30 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/113084/heavy-traffic-in-colombo-due-to-protest-by-uni-students) · `en`
-
-Ward Place in Colombo 07 has reportedly been blocked for vehicular traffic due to a protest march by university students.
-
-Severe traffic congestion has been reproted in the area and connected roads due to the demonstration staged by the Inter-University Students’ Federation (IUSF).
-
-The protest has been organized against several issues including the alleged suspensions imposed targeting student activists by the administration of the Sri Jayewardenepura University.
-
-◼️
-
-[Data](articles/bfae535c.json)
-
-[Extended Data](ext_articles/bfae535c.ext.json)
-
----
-
-### Sri Lanka rupee flat against dollar, bond yields broadly steady
-
-*2025-09-30 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-broadly-steady-242275/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 302.55/60 to the US dollar on Tuesday, while bond yields closed slightly up on the mid tenors, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.25/30 percent, down from 8.25/35 percent.
-
-A bond maturing on 15.12.2029 closed at 9.60/62 percent, up from 9.55/60 percent.
-
-A bond maturing on 01.07.2030 closed at 9.73/77 percent, up from 9.68/72 percent.
-
-A bond maturing on 15.12.2032 closed flat at 10.45/50 percent.
-
-An auction of 43,000 million rupees Treasury bills will take place on Wednesday. (Colombo/Sep30/2025)
-
-◼️
-
-[Data](articles/f268511f.json)
-
-[Extended Data](ext_articles/f268511f.ext.json)
-
----
-
-### Sri Lanka National Anthera Drena Star Nadhika at Women's World Cup
-
-*2025-09-30 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215185) · `si`
-
-Nainthika Senaratne won the 9th stage of the Derana Dream Star Champion Competition at the inauguration ceremony of the Women's World Cup today (30).
-
-Nwhanthaka Senaratne won the opportunity with the veteran Indian singer grade with Srigal.
-
-Watch the same chance of singing the Sri Lanka National Anthem
-
-◼️
-
-[Data](articles/68a561df.json)
-
-[Extended Data](ext_articles/68a561df.ext.json)
-
----
-
-### Demonstration against corridor merchants commissioner in Nuwara Eliya
-
-*2025-09-30 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226506) · `ta`
-
-In Nuwara Eliya, sidewalk merchants have been trading on the streets for many generations, but the Nuwara Eliya Municipal Commissioner's move is accused of taking various measures to completely disrupt the livelihood of the sidewalk merchants.
-
-In front of the Nuwara Eliya District Secretariat on Tuesday (30), they expressed their support by carrying banners and chanting slogans against the actions of the Municipal Commissioner.
-
-The protesters said that although various tourism development projects in Nuwara Eliya are being implemented through the current government, the action of the Nuwara Eliya Municipal Council Commissioner is a barrier.
-
-Similarly, the street merchants do not implement the Regulatory Act, creating massive disruption to our business.
-
-Therefore, the new Municipal Commissioner who serves the public is that the city of Nuwara Eliya is moving towards development, as well as the corridor business order law.
-
-...
-
-[Data](articles/dacc07fe.json)
-
-[Extended Data](ext_articles/dacc07fe.ext.json)
-
----
-
-### Next year's budget is not going to be a huge difference; With debt burden - Pubudu Jayagoda
-
-*2025-09-30 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226505) · `ta`
-
-Seeing the government's next year's Funding Allocation Bill, there is no major difference between the time budget and the next year's budget.  "We expect to be a budget with massive debt burdens," said Pubudu Jayagoda, Education Secretary of the Frontline Social Party.
-
-He said this in a speech to the media on Tuesday (30) on the budget to submit the government to next year.
-
-The government's next year's funding Bill has been gazed. When it comes to various ministries, there is no major difference between the budget we have seen so far.
-
-But we can only know the ways of the government to earn income after the government has submitted a budget report.
-
-At the same time. This is a massive problem if you get a loan. Because when we end this year, we have to keep up with $ 7140 million.
-
-But if it took the first 7 months from last year to this year. We are adding $ 56 million new. In the remaining 5 months, we have to add up to $ 1 billion.
-
-...
-
-[Data](articles/fe07d13a.json)
-
-[Extended Data](ext_articles/fe07d13a.ext.json)
-
----
-
-### Demonstration of university students; Traffic in Colombo!
-
-*2025-09-30 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226507) · `ta`
-
-University students staged a demonstration on Tuesday (30) in front of the University Grants Commission located in Colombo 7.
-
-◼️
-
-[Data](articles/054a4426.json)
-
-[Extended Data](ext_articles/054a4426.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 10:09:29**
+As of **2025-10-01 10:56:00**
 
 ## Newspaper Stats
 
-*Scraped **80,081** Articles*
+*Scraped **80,103** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 522
-lankadeepalk | 535
+newsfirstlk | 528
+lankadeepalk | 547
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -17,37 +17,263 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,702
+adalk | 7,703
 adaderanalk | 10,324
-tamilmirrorlk | 11,960
+tamilmirrorlk | 11,961
 virakesarilk | 13,081
-adaderanasinhalalk | 13,839
+adaderanasinhalalk | 13,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,070 (100.0%) of 80,081 articles have been extended.
+80,101 (100.0%) of 80,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### ஜப்பான் - இலங்கைப் பாராளுமன்ற லீக் குழு ஜனாதிபதியை சந்தித்தது
+### Police Sergeant Nabbed for Drug Distribution
 
-*2025-10-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226544) · `ta`
+*2025-10-01 10:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-sergeant-nabbed-for-drug-distribution) · `en`
 
-ஜப்பானிய அரசாங்கத்தின் அழைப்பின் பேரில் அந்நாட்டிற்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கு செவ்வாய்க்கிழமை (30) டோக்கியோவில் உள்ள இம்பீரியல் ஹோட்டலில் காலை விருந்துபசாரம் நடைபெற்றது.
+COLOMBO (News 1st); A police sergeant has been arrested for allegedly distributing narcotics on behalf of a Dubai-based drug trafficker known as Russell Smith, police confirmed.
 
-இருநாட்டுப் பாராளுமன்ற உறுப்பினர்களுக்கு இடையிலான ஒத்துழைப்பு மேலும் வலுப்படுத்துவதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் நெருங்கிய தொடர்புகளுடன் செயற்பட எதிர்பார்ப்பதாக ஜப்பான் - இலங்கைப் பாராளுமன்ற லீகின் தலைவர் யொசிதாகா சின்டோ (Yoshitaka Shindo) மற்றும் பொதுச் செயலாளர் யுகோ ஒபுசி (Yuko Obuchi) ஆகியோர் இங்கு தெரிவித்தனர்.
+The arrest was made by officers from the Western Province North Crimes Division.
 
-இரு நாடுகளின் பரஸ்பர நலன்களுக்காக அரசியல், பொருளாதாரம் மற்றும் கலாசாரத் துறைகளில் ஒத்துழைப்பை வலுப்படுத்த தாங்கள் செயல்பட்டு வருவதாக அவர்கள் மேலும் தெரிவித்தனர்.
+The suspect, currently attached to the Udappuwa Police, was taken into custody with 400 grams of heroin in his possession.
 
-ஜப்பான்-இலங்கை பாராளுமன்ற லீக், முன்னாள் ஜப்பானிய பிரதமர்  கெய்சோ ஒபுசி (Keizo Obuchi)  தலைமையில் 1982 ஆம் ஆண்டு நிறுவப்பட்டது.
+Investigations have revealed that the officer had previously served for nearly five years with the Colombo Crimes Division.
+
+Acting on information obtained from the suspect, police also arrested another individual identified as Chathu, a resident of Peliyagoda, with 110 grams of heroin.
+
+◼️
+
+[Data](articles/ce2e75db.json)
+
+---
+
+### Four Luxury SUVs Seized in Customs Evasion Probe
+
+*2025-10-01 10:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/four-luxury-suvs-seized-in-customs-evasion-probe) · `en`
+
+COLOMBO (News 1st); Sri Lanka Police have uncovered four SUVs that were illegally imported into the country by concealing information from Customs, according to the Central Crimes Investigations Bureau.
+
+The discovery was made under the supervision of Senior Superintendent of Police Kamal Ariyawansa, Director of the CCIB.
+
+One vehicle was recovered from Kuliyapitiya, another from Melsiripura, while two more were found in Piliyandala and Akmeemana.
+
+Investigations have revealed that the vehicles were registered using details of vehicles imported in 1995, enabling the perpetrators to bypass Customs regulations.
+
+Police further stated that the fraud was carried out with the assistance of several officials from the Department of Motor Traffic.
+
+Authorities have launched a probe to identify and apprehend those involved in the racket.
+
+◼️
+
+[Data](articles/951d8455.json)
+
+---
+
+### President arrives
+
+*2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-එය/1-680544) · `si`
+
+President of the President, Kumara Dissanayake arrived in the island this morning, the Katunayake Air Forlar to attend the 80th session of the Nations.
+
+◼️
+
+[Data](articles/ad1c826f.json)
+
+[Extended Data](ext_articles/ad1c826f.ext.json)
+
+---
+
+### Rs. 150 Million Cocaine Bust in Panadura
+
+*2025-10-01 10:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/rs-150-million-cocaine-bust-in-panadura) · `en`
+
+COLOMBO (News 1st); Two suspects were arrested on Tuesday (30) in the Hiran area of Panadura with 3 kilograms of cocaine valued at approximately Rs. 150 million, police said.
+
+The operation was carried out by the Walana Central Anti-Corruption Strike Unit.
+
+Investigations have revealed that the cocaine belongs to a notorious drug trafficker known as “Badowita Piya.”
+
+According to police, the suspect had been operating under the guise of a businessman while using his associates to distribute narcotics.
+
+A motor vehicle allegedly used in the trafficking operation, driven by one of his aides, was also seized during the raid.
+
+◼️
+
+[Data](articles/dec110ea.json)
+
+[Extended Data](ext_articles/dec110ea.ext.json)
+
+---
+
+### Divers Deployed After Weapons Magazines Found In Reservoir
+
+*2025-10-01 10:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/divers-deployed-after-weapons-magazines-found-in-reservoir) · `en`
+
+COLOMBO (News 1st); Sri Lanka Police confirmed that search operations are continuing today (1) at the Veheragalla Reservoir in Kataragama after a cache of empty weapon magazines was discovered yesterday (30).
+
+Acting Police Spokesman, Assistant Superintendent of Police Minur Senarath, said that divers have been deployed to assist in the search.
+
+The operation follows intelligence provided by a Sri Lanka Army intelligence officer.
+
+According to police, the discovery included 74 empty T-56 magazines, 36 empty LMG magazines, and 5 empty MPMG drums. These items were recovered from the reservoir yesterday afternoon and have since been handed over to the Gonaganara Police.
+
+Authorities have launched an investigation to determine who was responsible for dumping the weapons into the reservoir.
+
+◼️
+
+[Data](articles/9b2d9cba.json)
+
+[Extended Data](ext_articles/9b2d9cba.ext.json)
+
+---
+
+### No Bus Fare Reduction Despite Diesel Price Drop
+
+*2025-10-01 10:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/no-bus-fare-reduction-despite-diesel-price-drop) · `en`
+
+COLOMBO (News 1st); The National Transport Commission (NTC) announced that bus fares will not be reduced despite the recent drop in diesel prices.
+
+NTC Chairman P.A. Chandrapala stated that a fare revision requires at least a 4% reduction in diesel prices.
+
+However, the latest price adjustment reflects only a 1.58% decrease, which does not meet the threshold for a fare change.
+
+Diesel prices were reduced by Rs. 6 per litre in both August and September.
+
+Following the latest revision, the current price of a litre of diesel stands at Rs. 277.
+
+◼️
+
+[Data](articles/9cccdae6.json)
+
+[Extended Data](ext_articles/9cccdae6.ext.json)
+
+---
+
+### President arrives in Sri Lanka by completing Japanese visit
+
+*2025-10-01 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215212) · `si`
+
+President Anura Kumara Dissanayake, who was on an official visit to Japan, arrived in the country at Katunayake airport this morning.
+
+President Anura Kumara Dissanayake left the island on September 22 to attend the 80th session of the United Nations General Assembly.
+
+President Anura Kumara Dissanayake later reached on the invitation of the Japanese government on the 27th of September.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs were also present.
+
+They all completed the visit from Bangkok, Thailand from Bangkok, from Bangkok from Bangkok, from Bangkok, from Bangkok, from Bangkok, from Bangkok.
+
+◼️
+
+[Data](articles/520aae4b.json)
+
+[Extended Data](ext_articles/520aae4b.ext.json)
+
+---
+
+### Police Fire at Van Ignoring Orders in Nittambuwa
+
+*2025-10-01 09:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-fire-at-van-ignoring-orders-in-nittambuwa) · `en`
+
+COLOMBO (News 1st); Police officers opened fire on a van that allegedly ignored orders to stop in the Udammita area of Nittambuwa early this morning, authorities confirmed.
+
+According to police, the incident occurred during a special motorcycle patrol conducted by the Gampaha Division.
+
+Officers signaled the van to halt, but the driver reportedly attempted to flee, prompting police to discharge their firearms to bring the vehicle to a stop.
+
+Subsequent investigations revealed that the driver and passengers were heavily intoxicated at the time of the incident.
+
+They are residents of Lellopitiya and Ratnapura, aged 38 and 43.
+
+◼️
+
+[Data](articles/5e35e671.json)
+
+[Extended Data](ext_articles/5e35e671.ext.json)
+
+---
+
+### Two sacks crosses weheragala reservoir
+
+*2025-10-01 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215211) · `si`
+
+There were 74 T56 Magazines in the Veheragala reservoir, including T56 LMG magazine, T81, T81, T81.
+
+It is reported that 2 sacks suspected of ammunition and weapons have been found that weapons were suspected.
+
+The weapons found on information received by the Army.
+
+◼️
+
+[Data](articles/f334ef2c.json)
+
+[Extended Data](ext_articles/f334ef2c.ext.json)
+
+---
+
+### The law kicked the law and divided Rs. 668 crores
+
+*2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/1-680541) · `si`
+
+The Select Committee of the Public Enterprises (COPE) has revealed that the Sri Lanka Electricity Board has been given to the Protection Fund.
+
+The committee says that the loans had been granted without an approval of the Board of Labor and the Commissioner of Labor and the Commissioner General of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Inland Revenue.
+
+The Kopypay Committee has recommended immediate action to take appropriate measures.
+
+◼️
+
+[Data](articles/6c1c6b7d.json)
+
+[Extended Data](ext_articles/6c1c6b7d.ext.json)
+
+---
+
+### Greeting of the president
+
+*2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வாழ்த்துச்-செய்தி/175-365568) · `ta`
+
+President Anura Kumara Dissanayake said in a congratulatory message that we are continuing to work for the well -being of children and the elderly.
+
+The future of a country and the world is in the hands of the boys. It is so beautiful because their world is real and dirty world. It is the responsibility of a community to give them an uninterrupted opportunity to enjoy that beauty.
+
+As a government that understands that duties and responsibilities are coming up with rights, we are always committed to protecting and encouraging children's rights.  We are making the intervention necessary to improve the rights of children by defining the most practical and comprehensive manner of who is the child.
+
+In it, our government is committed to providing proper nutrition for all children's physical and mental well -being and health services from all kinds of violence against all children, as well as all kinds of violence against children, abuse and discrimination against children.
 
 ...
 
+[Data](articles/4410f567.json)
+
+[Extended Data](ext_articles/4410f567.ext.json)
+
+---
+
+### Japan - Sri Lanka's Parliamentary League Committee meets President
+
+*2025-10-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226544) · `ta`
+
+President Anura Kumara Dissanayake, who was on an official visit to the country at the invitation of the Japanese government, held a breakfast at the Imperial Hotel in Tokyo on Tuesday (30).
+
+Yoshitaka Shindo and General Secretary Yuko Obuchi said that Japan -Sri Lanka's League League League League League is expected to work with President Anura Kumara Dissanayake to further strengthen the cooperation between the two foreign parliamentarians.
+
+They further stated that they are working to strengthen cooperation in the fields of political, economics and cultural sectors for mutual interests of the two countries.
+
+The Japan-Sri Lanka Parliament League was founded in 1982 under the leadership of former Japanese Prime Minister Kaizo Obuchi.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Sri Lanka Ambassador to Japan, Prof. Pivithuru Janak Kumarasinghe and members of the Japan-Sri Lanka Parliamentary League and many others were present at the event.
+
+◼️
+
 [Data](articles/5914477e.json)
+
+[Extended Data](ext_articles/5914477e.ext.json)
 
 ---
 
@@ -73,53 +299,63 @@ Foreign, Foreign Employment and Tourism Minister Vijitha Herath also attended th
 
 *2025-10-01 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215210) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව එරට නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමුවී තිබේ.
+President Anura Kumara Dissanayake has found the Nirup of Japan on an invitation to the Japanese government invitation.
 
-ජපාන අධිරාජ්‍යයාගේ නිල නිවස වන අධිරාජ්‍ය මන්දිරයේදී නරුහිතෝ අධිරාජ්‍යයා විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගනු ලැබීමෙන් අනතුරුව සුහද පිළිසඳරකද නිරත විය.
+The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද මෙම අවස්ථාවට එක්විය.
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
 
 ◼️
 
 [Data](articles/c6071bd4.json)
 
+[Extended Data](ext_articles/c6071bd4.ext.json)
+
 ---
 
-### උරුමය ඔප්පු දෙන බව පවසා රු කෝටි 10කට ආසන්න මුදලක් වංචා කරලා
+### Nearly Rs.
 
 *2025-10-01 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215209) · `si`
 
-'උරුමය' වැඩසටහන යටතේ ස්ථිර ඔප්පු ලබා දෙන බවට පොරොන්දු වී රුපියල් කෝටි 10කට ආසන්න මුදලක් වංචා කළ බවට සැකකෙරෙන පුද්ගලයින් දෙදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested by the CID.
 
-පොලීසිය පැවසුවේ, වංචාවට සම්බන්ධ යැයි සැක 43 හැවිරිදි බකමූණ ප්‍රදේශයේ පදිංචි කාන්තාවක් පසුගිය 26 වෙනිදා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කර ඇති බවය.
+The police said that a woman who was residing in Bakamuna has been arrested and remanded after the 43-year-old Bakamuna area.
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඇය කිරිබත්ගොඩ තාවකාලික ලැගුම්හලක පදිංචිව සිට ඇති බව සඳහන්ය.
+She had been living in a temporary lodge in Kiribathgoda.
 
 එමෙන්ම සිද්ධියට සම්බන්ධ අනෙක් 55 හැවිරිදි සැකකරු මහරගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, ඔහුව පසුගිය 29 වනදා අත්අඩංගුවට ගෙන කල්මුණේ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
 
-සැකකාරිය විසින් කල්මුණේ ප්‍රදේශයේ ව්‍යාපාරිකයින් 164 දෙනෙකුට "උරුමය" වැඩසටහන යටතේ ඔප්පු නොමති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබදෙන බව පවසා තමා නීතීඥවරියක් බව පවසමින් එක් පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ 6 බැගින් ලබාගෙන ඇති බව විමර්ශනවලදී අනාවරණය වී ඇති බව සඳහන්ය.
+The suspect had revealed that he had obtained Rs.
 
-...
+Investigations have revealed that 50 businessmen were summoned to the party in Kalmunu area and had obtained their deeds to discuss and deceived political matters in Colombo and discussing political matters.
+
+The Investigation Officers have also been taken to obtain orders from the court to suspend the suspension of Rs.
+
+◼️
 
 [Data](articles/bdd35589.json)
 
+[Extended Data](ext_articles/bdd35589.ext.json)
+
 ---
 
-### அரசு சுற்றுலாத் துறையை மேம்படுத்த பெரும் பங்களிப்பைச் செய்து வருகிறது -  மத்திய மாகாண ஆளுநர்
+### The government is making a huge contribution to improving the tourism industry - the Governor of the Central Province
 
 *2025-10-01 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226543) · `ta`
 
-உலக சுற்றுலா தினத்திற்கு இணையாக  மத்திய மாகாண சுற்றுலா தின நிகழ்வுகள், மத்திய மாகாண ஆளுநர் பேராசிரியர் எஸ்.பி.எஸ். அபயகோன் தலைமையில்  கண்டியில் இடம்பெற்றது.
+Central Provincial Tourism Day Events parallel to World Travel Day, Central Province Governor Professor SBS. The took place in Kandy under the leadership of Abayakon.
 
-மேற்படி வைபவம் கண்டி,  தொடம்வல பாலத்திற்கு அருகில், மகாவலி ஆற்றங்கரையில்  நடைபெற்றது. இந்த நிகழ்ச்சியை சுற்றுலா அமைச்சு, மற்றும் மத்திய மாகாண வர்த்தக, வாணிப திணைக்களம் என்பன இணைந்து ஏற்பாடு செய்திருந்தன.
+The event was held on the banks of the Mahaweli River, near the Thodamwala Bridge, Kandy. The event was organized by the Ministry of Tourism and the Department of Commerce and Commerce.
 
-நீருடன்  தொடர்புடைய பாரம்பரிய நீரியல் விளையாட்டுக்கள் பல ஒழுங்கு படுத்தப்பட்டிருந்தன.  உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகள் பலர் இதில் பங்கெடுத்தனர்.
+Many traditional hydraulic games associated with water were organized.  Many local and foreign tourists participated.
 
-தற்போதைய அரசாங்கம் சுற்றுலாத் துறையை மேம்படுத்துவதில் பெரும் பங்களிப்பைச் செய்து வருவதாகவும், மத்திய மாகாணத்தில் இதுபோன்ற திட்டங்களைத் தொடங்குவது மகிழ்ச்சியளிக்கும் விஷயம் என்றும் மத்திய மாகாண ஆளுநர் பேராசிரியர் எஸ்.பி.எஸ். அபயகோன் தனது உரையில் இங்கு குறிப்பிட்டார்.
+The current government is making a great contribution to the development of the tourism industry and that it is a pleasure to launch such projects in the Central Province, Professor SBS. Abhayakon said in his speech.
 
 ◼️
 
 [Data](articles/7f4253ff.json)
+
+[Extended Data](ext_articles/7f4253ff.ext.json)
 
 ---
 
@@ -135,17 +371,63 @@ Foreign, Foreign Employment and Tourism Minister Vijitha Herath also attended th
 
 ---
 
-### ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிச்சென்ற பஸ் ஒட்டுசுட்டானில் விபத்து
+### Bus accident in Oddusuttan loaded with garment factory workers
 
 *2025-10-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226542) · `ta`
 
-முல்லைத்தீவு - ஒட்டுசுட்டானிலிருந்து ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிக்கொண்டு வவுனியா நோக்கி பயணித்த பஸ் இன்று புதன்கிழமை (01) அதிகாலை ஒட்டுசுட்டான் சந்தியில் விபத்துக்குள்ளாகியுள்ளது.
+A bus traveling from Mullaitivu - Parasuttan to Vavuniya from Parasuttan to Vavuniya has crashed at the Oddusuttan junction early this morning.
 
-ஒட்டுசுட்டான் சந்திப்பகுதியின் நடுவே அமைக்கப்பட்டிருந்த இரும்புக் கம்பத்துடன் மோதியே இந்த விபத்துச் சம்பவம் இடம்பெற்றுள்ளது.
+The accident occurred in the middle of the Oddusutan junction.
 
 ◼️
 
 [Data](articles/6c01abdc.json)
+
+[Extended Data](ext_articles/6c01abdc.ext.json)
+
+---
+
+### Tincker arrested at airport
+
+*2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ටනකර-ගවනතටද-අලලය/1-680534) · `si`
+
+Katunayake Airport Criminal Investigations (CID) officials have been arrested by Sri Lanka, Katunayake, who was hiding in Dubai.
+
+Tinker, a resident of Colombo 15, is a resident of Colombo 15 and is the main follower of an organized criminal and the drug dealer, Palanie Shiran, Kochchikade, Kochchikade.
+
+The tinker this morning at Dubai from Dubai to SriLankan Airlines on Dubai to Katunayake airport and was arrested by a group of criminal investigations.
+
+He had fled the country on the Grandpass police Division of the Grandpass Susanna area on 16.04.2015 and had a flight ban against him.
+
+Tinker, who was arrested, handed over to a group of officers from the Peliyagoda Police Station, which arrived at the Katunayake Airport and is to be produced before the Malconi Paradure No. 05.
+
+◼️
+
+[Data](articles/084dda36.json)
+
+[Extended Data](ext_articles/084dda36.ext.json)
+
+---
+
+### Central Environmental Authority also shines to "goejo
+
+*2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/1-680533) · `si`
+
+The Central Environmental Authority has commenced working with the Government Digital Payment Platform.
+
+Accordingly, all payments will be comfortable to pay all payments through the "Government Digital Platform" for various services provided by the Central Environmental Authority.
+
+Inspection Fees (License Fees) for services provided by the Central Environmental Authority (License Fees), Certificate Fees, Administration Fee (Pvtness Fees) Fees, Annual Fees, Laboratory Fees, Procurement Fees (WASTE DISPOSAL FEES) and Exposition Fees for the National Environmental Information Center "GOVPA State Digital Payment Platform" The Central Environmental Authority (CEA) says it is possible to pay it.
+
+"GOVPA The Kingdom Digital Payment Platform allows you to pay these fees on six banks and Fryanc (Fintach applications).
+
+The Environmental Authority says that due to this methodology, the Clients and the Central Environmental Authority will enable the clients and the Central Environmental Authority.
+
+...
+
+[Data](articles/fb8cf407.json)
+
+[Extended Data](ext_articles/fb8cf407.ext.json)
 
 ---
 
@@ -179,6 +461,46 @@ Thus, those who work outdoors are advised to wear light clothes, relax in shadow
 
 ---
 
+### Two crores were arrested
+
+*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-10ක-වච-කළ-දනනක-අලලය/1-680532) · `si`
+
+The Criminal Investigations Department (CID) has arrested a suspect and a suspect in defense and the suspension of false consistency to defraud the proof of land under the "Heritage Program.
+
+The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
+
+The 43-year-old suspect was a resident of Bakatuna.
+
+The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
+
+◼️
+
+[Data](articles/d84f1b3e.json)
+
+[Extended Data](ext_articles/d84f1b3e.ext.json)
+
+---
+
+### Today's the timeline
+
+*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680531) · `si`
+
+The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
+
+The Department says that there is mainly due to the rest of the island.
+
+From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
+
+Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
+
+◼️
+
+[Data](articles/62874de4.json)
+
+[Extended Data](ext_articles/62874de4.ext.json)
+
+---
+
 ### Cigarettes, cosmetics and e-cigarettes worth over Rs. 9.5 mln seized at BIA
 
 *2025-10-01 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113096/cigarettes-cosmetics-and-e-cigarettes-worth-over-rs-95-mln-seized-at-bia) · `en`
@@ -198,6 +520,8 @@ A penalty of Rs. 750,000 has been imposed on the four arrested passengers, and f
 ◼️
 
 [Data](articles/6d5fdd02.json)
+
+[Extended Data](ext_articles/6d5fdd02.ext.json)
 
 ---
 
@@ -277,6 +601,8 @@ The arrested suspect is scheduled to be produced before the No.05 Magistrate’s
 
 [Data](articles/8404e107.json)
 
+[Extended Data](ext_articles/8404e107.ext.json)
+
 ---
 
 ### Earthquake in Philippines: 26 killed
@@ -309,6 +635,26 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 
 ---
 
+### 26 killed in clashes to the Philippines
+
+*2025-10-01 07:50:23* · [`adalk`](https://www.ada.lk/international/පිලිපීනයට-දරුණු-භූමි-කම්පාවක්-26ක්-මරුට/3-418830) · `si`
+
+At least 26 persons have died due to an earthquake in the central Philippines.
+
+Bogo and other affected cities and municipalities have been published in the estimated of the earthquake.
+
+The earthquake occurred beyond the coast of Zebu in Tuesday at 22:00 pm the city of Zebu, which caused electricity disorders and buildings
+
+The Philippine volcano and seismicism has been canceled the tsunami, and "The influence of minor sea level is largely alienated."
+
+◼️
+
+[Data](articles/f1630bd4.json)
+
+[Extended Data](ext_articles/f1630bd4.ext.json)
+
+---
+
 ### “Let’s build a Sri Lanka where children and elders live with security and dignity” – President
 
 *2025-10-01 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113094/lets-build-a-sri-lanka-where-children-and-elders-live-with-security-and-dignity-president) · `en`
@@ -326,6 +672,8 @@ In his message the President also honoured the invaluable contribution of elders
 ...
 
 [Data](articles/f1e64752.json)
+
+[Extended Data](ext_articles/f1e64752.ext.json)
 
 ---
 
@@ -428,6 +776,30 @@ Accordingly, in the year 2015, the Criminal Investigation Department has submitt
 [Data](articles/4052fa64.json)
 
 [Extended Data](ext_articles/4052fa64.ext.json)
+
+---
+
+### KJA says information about death of Tajudeen
+
+*2025-10-01 06:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජඩනග-මරණය-ගන-තරතරක-කජජග-බරය-කයය/1-680530) · `si`
+
+He said that he had revealed that he had been killed in a suspect who had been killed in a suspect, he had been killed in a suspect, the wife of a suspect in a suspect who had been killed in a suspicious vehicle.
+
+He was speaking at a special media briefing held in the Police Media Division in Battaramulla.
+
+The police spokesman said that the wife of the Kibra's wife was voluntarily appeared to the CID.
+
+The body of Rugby Player Tajadin was found in May 2012 in May 2012, which had been burned near the Shashy Stadium, Colombo.
+
+Although the police investigated was an accident in an accident, the rugby player had asked for an independent investigation into the matter.
+
+Accordingly, in the year 2015, the Criminal Investigation Department has submitted a special report to the Colombo Magistrate's Court that the death was revealed that the death was assassinated after investigations.
+
+...
+
+[Data](articles/e09dcdd0.json)
+
+[Extended Data](ext_articles/e09dcdd0.ext.json)
 
 ---
 
@@ -1191,6 +1563,24 @@ They also said that the two countries will strengthen cooperation through politi
 
 ---
 
+### Japan's parliamentary lease meets President
+
+*2025-09-30 23:04:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජපන-ශර-ලක-පරලමනත-ලගය-ජනපත-හමවය/1-680529) · `si`
+
+A breakfast was held on behalf of President Anura Kumara Dissanayake on an invitation on an invitation to the Japanese official in the Imperial Hotel in Tokyo. The banquet was organized by the Japanese League of Japan.
+
+JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to further strengthening the cooperation between members of the two parliament.
+
+They also said that the two countries will strengthen cooperation through political, economic and cultural fields through political, economic and cultural areas.. The Sri Lanka Parliamentary League was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
+
+◼️
+
+[Data](articles/46b79d60.json)
+
+[Extended Data](ext_articles/46b79d60.ext.json)
+
+---
+
 ### There is a wider conversation to children-adult welfare
 
 *2025-09-30 23:01:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-සබ-සධනයට-පළල-සවදයක-ඕන/101-680528) · `si`
@@ -1208,6 +1598,26 @@ We inherited the guidance of four major religious teachings of our society value
 [Data](articles/39727751.json)
 
 [Extended Data](ext_articles/39727751.ext.json)
+
+---
+
+### There is a wider conversation to children-adult welfare
+
+*2025-09-30 23:01:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-සබ-සධනයට-පළල-සවදයක-ඕන/1-680528) · `si`
+
+Opposition Leader Sajith Premadasa says the World Children's Day and Adult Day greetings that the Leader of the Opposition should go to a broad discussion on what needs to be done on the Children's Day and the Elderly Day.
+
+The International Children's Day and the International Adult Day will be held at the same day of the year.
+
+'Today's child is an adult tomorrow.' This is that we give us a good understanding of children and falsehood. Children's security is the well-being of society. Adults who give the well-being of society are the civilians marking the precedents of a country. It is the responsibility of those who seek the good existence of a country to take care of protection of both parties and their responsibilities and accountability for them.
+
+We inherited the guidance of four major religious teachings of our society values. We have shown that our responsibility is our responsibility in all these religious guidance as well as the child and adult.
+
+...
+
+[Data](articles/efeb842b.json)
+
+[Extended Data](ext_articles/efeb842b.ext.json)
 
 ---
 
@@ -1231,6 +1641,26 @@ The government has already begun the task of perfecting the economic, social and
 
 ---
 
+### A full-child world of children - an honorable society for adults
+
+*2025-09-30 22:55:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවනට-පරණ-ළම-ලවක-වඩහටයනට-ගරවනය-සමජයක/1-680527) · `si`
+
+Prime Minister Dr. Haraini Amarasuriya says that children is maximized to a good life for a perfect childhood and adults to live a good life for the elders.
+
+I am delighted to be greeted by the Prime Minister as a Prime Minister for World Children's Day to celebrate "Love - Lovely - World Children's World. The life of a country is children. Our role is to build a perfect child's world.
+
+The government is entitled to the children as a country with nearly 31% of the population. Understanding the responsibility, our government is committed to giving them the children's childhood, closing to children's safety for children's protection.
+
+The government has already begun the task of perfecting the economic, social and mentally secure and mentally secure and mentally safe and mentally secure and mentally safe and mentally safe and mentally safe and mentally protected.
+
+...
+
+[Data](articles/7ed290fb.json)
+
+[Extended Data](ext_articles/7ed290fb.ext.json)
+
+---
+
 ### Dedicate child-comment right
 
 *2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ළම-වඩහට-අයතය-රකනන-කපවනව/101-680526) · `si`
@@ -1246,6 +1676,48 @@ The future of the world as well as the future of the world is the parasion. Extr
 [Data](articles/f5be7320.json)
 
 [Extended Data](ext_articles/f5be7320.ext.json)
+
+---
+
+### Dedicate child-comment right
+
+*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-අයතය-රකනන-කපවනව/1-680526) · `si`
+
+President Anura Kumara Dissanayake issued a greetings for the World Children's Day and Adult Day.
+
+World Children's Day and Adult Day are today. Child and Adult representation in a country's population. We are fully dedicated to the rights and well-being of these generations, and we continue to work for the well-being of children and adults.
+
+The future of the world as well as the future of the world is the parasion. Extremely beautifully beautiful because their world is a genuine and tiny world. It is the responsibility of a community to have the opportunity to enjoy the beauty. As a government realized that you are creating their duties and responsibilities with rights, we are always committed to secure and establish child rights. Also, we are able to interact with the intervention of promoting child rights, rather than who is the child.
+
+...
+
+[Data](articles/f765f209.json)
+
+[Extended Data](ext_articles/f765f209.ext.json)
+
+---
+
+### Are we going to jail now now? Imagine
+
+*2025-09-30 22:48:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපට-දන-හර-යනවද-උගනවනවද-හතනන-වල/1-680525) · `si`
+
+If the government brought the government to prevent children from being violent, do they teach their children? Otherwise in prison? The convener of the Guru Principal is to think that the teachers are to think about at a press conference today (30).
+
+Sumangala Thera said that if the amendment is implemented, a student leadership has no work. Speaking further at the press conference held in Colombo with the participation of the teacher unions, he said:
+
+If you do not share a word of the school if this bill is passed, it is not for prohibition.
+
+If the bill is passed, the Ministry of Education should be informed if a boy gets into school and follow a boy to school.
+
+At a further press conference held in Colombo, the Government Deputy Minister of Labor Mahinda Jayasinghe is the General Secretary of the Ceylon Teachers' Union (LB)
+
+It should not be physical punishment. If there is plenty of methods, do not go to hair. Assign the parents to the parent.
+
+◼️
+
+[Data](articles/0197e74e.json)
+
+[Extended Data](ext_articles/0197e74e.ext.json)
 
 ---
 
@@ -1536,421 +2008,5 @@ Meanwhile, the body of a mysterious person has been recovered in a house on Siri
 [Data](articles/2f7a9cb8.json)
 
 [Extended Data](ext_articles/2f7a9cb8.ext.json)
-
----
-
-### Fuel prices cut from midnight today! - Ministry of Energy
-
-*2025-09-30 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226525) · `ta`
-
-According to the monthly fuel prices, the Ministry of Energy has announced that the prices of some fuels have been reduced from midnight today.
-
-Accordingly, the 95 octane petrol liter will be reduced by Rs.. But the price of 92 octane petrol is not changed.
-
-Similarly, the price of Lanka Auto Diesel will be reduced by Rs. Super diesel continues unchanged.
-
-In addition, the price of kerosene will be reduced by Rs.
-
-◼️
-
-[Data](articles/1fcd78ca.json)
-
-[Extended Data](ext_articles/1fcd78ca.ext.json)
-
----
-
-### Fuel prices reduced
-
-*2025-09-30 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113089/fuel-prices-reduced) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) has announced a revision of fuel prices effective from midnight today (30).
-
-According to the announcement, the price of Auto Diesel will be reduced by Rs. 6 to Rs. 277 per litre, and Petrol 95 Octane will be reduced by Rs. 6 to Rs. 335 per litre.
-
-Meanwhile, there will be no change in the prices of Petrol 92 Octane and Super Diesel.
-
-◼️
-
-[Data](articles/ecfb6a8c.json)
-
-[Extended Data](ext_articles/ecfb6a8c.ext.json)
-
----
-
-### A suspect arrested in Mattakkuli with drugs and drugs
-
-*2025-09-30 20:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226526) · `ta`
-
-A suspect has been arrested by the Western Province Northern Crime Investigation Division with different drugs and drug pills in Mattakkuli, Colombo.
-
-The Western Province Northern Criminal Investigation Division (STF) officials in the Mattakkuli Police Division have carried out a special roundup on Monday afternoon (29) after the suspect in the afternoon (29).. A man from the 38 -year -old Mattakkuli Samitpura area has been arrested.
-
-Has drugs from the suspect have been seized by the authorities by 33 kg of 270 g, heroin 408, 200 pills and 7400 heroin made for sale for sale.. Investigations revealed that the suspect was involved in a close relationship with a person who is involved in organized crimes and a drug trader.
-
-Meanwhile, the Mattakkuli police are conducting further investigations into the suspect and the seized drug.
-
-◼️
-
-[Data](articles/b9ea2464.json)
-
-[Extended Data](ext_articles/b9ea2464.ext.json)
-
----
-
-### Fuel prices vary
-
-*2025-09-30 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215196) · `si`
-
-The following fuel prices have been amended today (30).
-
-◼️
-
-[Data](articles/24a7b210.json)
-
-[Extended Data](ext_articles/24a7b210.ext.json)
-
----
-
-### Sri Lanka’s BYD offers hybrids, calls for independent testing of detained EVs
-
-*2025-09-30 20:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-byd-offers-hybrids-calls-for-independent-testing-of-detained-evs-242308/) · `en`
-
-ECONOMYNEXT – Agents for China’s BYD in Sri Lanka, JKCG Auto said it is offering customers Sealion 6 plug in hybrids in place of electric vehicles as a dispute with Customs authorities continue, and called for independent internationally accredited testing to determine motor output.
-
-“…Sri Lanka Customs has appointed a Committee of its own accord,” JKCG said in a statement Tuesday.
-
-“It is our understanding that this Committee is expected to consider some technical matters belatedly raised by Sri Lanka Customs.
-
-“We have consistently maintained, and indicated, our willingness to subject the select vehicle models to testing at an independent, internationally accredited motor laboratory which will help ascertain and clear any concerns regarding the output of the motor capacity of the vehicles.
-
-“This will ensure accuracy, credibility and consistency, and we have already intimated this suggestion to Sri Lanka Customs, during and outside of Court proceedings.”
-
-...
-
-[Data](articles/1088161a.json)
-
-[Extended Data](ext_articles/1088161a.ext.json)
-
----
-
-### Senior Police Officer Satish Kamage has been banned from going abroad
-
-*2025-09-30 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226523) · `ta`
-
-Senior Police Officer of the Police Special Task Force Headquarters Cultural Cultural Division, Satish Kamage, has been released on bail from the persons who have been accused of bribing about Rs 1 crore 40 lakhs from persons who have visited the police service.
-
-Accordingly, Senior Police Officer Satish Kamage has been ordered to release the suspect on bail of two body bail of Rs 20 lakh each and a cash bail worth Rs.
-
-The Police Special Task Force Headquarters Cultural Division and the Senior Police Officer in charge of the Galle and Embilipitiya Police Ring during the time of the police officer, who were involved in planned criminal activities and the policemen who had joined the police service, about Rs. Satish Kamage was arrested by officials of the Bribery Commission.
-
-...
-
-[Data](articles/c40ae778.json)
-
-[Extended Data](ext_articles/c40ae778.ext.json)
-
----
-
-### Two people injured in motorcycle collision with car in Chavakachcheri
-
-*2025-09-30 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226522) · `ta`
-
-A motorcycle and a car collided with a car at Vairavar Temple Junction in Chavakachcheri Nuna on Tuesday evening. Two people were injured.
-
-The injured have been admitted to Chavakachcheri Hospital for treatment. The Chavakachcheri police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/a05866b9.json)
-
-[Extended Data](ext_articles/a05866b9.ext.json)
-
----
-
-### 'Ran Dhoni' : Suranga Senanayake’s Debut Book Unveils a Family’s Struggle for Justice
-
-*2025-09-30 20:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/ran-dhoni-suranga-senanayake%e2%80%99s-debut-book-unveils-a-family%e2%80%99s-struggle-for-justice) · `en`
-
-...
-
-[Data](articles/b8a972d6.json)
-
-[Extended Data](ext_articles/b8a972d6.ext.json)
-
----
-
-### Sri Lanka a target of 271 runs
-
-*2025-09-30 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215195) · `si`
-
-Sri Lanka and India in the women's World Cup Sri Lanka and India are being held in India.
-
-Batting first of the Indian women's group scored 269 runs for the loss of 8 wickets at the end of 47 overs.
-
-Chamari Atapattu, which won the toss and ganging the coin, was the first to bowl.
-
-Sri Lankan women were able to acquire the first wicket in the Indian team for the first group.
-
-However, due to the race in the Indian innings, however, one innings were restricted to 47 overs.
-
-Inno Ranaweera passed Harlene Delel in 48 runs and Leader Hermanpio's innings to 21 runs.
-
-Amanjoth Kori, who was super fooling for India, scored 57 runs while Deepthi Sharma scored 53 not out.
-
-Accordingly, according to the Duck's Lewis theory, the Sri Lankan women's group has won 271.
-
-◼️
-
-[Data](articles/fd7daa58.json)
-
-[Extended Data](ext_articles/fd7daa58.ext.json)
-
----
-
-### Two arrested with cocaine worth Rs. 150 million in Panadura
-
-*2025-09-30 19:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/113088/two-arrested-with-cocaine-worth-rs-150-million-in-panadura) · `en`
-
-Two suspects were arrested in the Hirana area of Panadura by the Walana Anti-Vice Squad while in possession of 03 kg of cocaine, valued at around Rs. 150 million, police said.
-
-The arrests were made under the instructions of the Director of the Walana Anti-Corruption Unit, SP Udaya Kumara and its Officer-in-Charge, Indika Weerasinghe.
-
-Police recovered 2 kilograms of cocaine from a residence, while the remaining kilogram was found in a luxury car used to transport it.
-
-An identification card belonging to a currently serving police officer was also seized from the suspects, said police.
-
-According to police, the suspects were allegedly distributing these drugs at nightclubs located in luxury hotels.
-
-Investigations further revealed that the drug racket is reportedly being coordinated by an individual based in Dubai.
-
-◼️
-
-[Data](articles/a2dce662.json)
-
-[Extended Data](ext_articles/a2dce662.ext.json)
-
----
-
-### Increase milk production
-
-*2025-09-30 19:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කර-නෂපදනය-වඩ-කරනන-ජපන-ලක-ගවසමක/101-680521) · `si`
-
-President Anura Kumara Dissanayake on a Japanese official visit to the Japanese International Cooperation Aokhako (JICA) at Tokyo. Tanaka Akihiko was found in a discussion.
-
-The President expressed his gratitude for the continued assistance to Sri Lanka with the assistance of the Sri Lanka by the JICA, which contributes significant to national development.
-
-The SLFP Chairman pointed out the importance of the private sector, industrial and agriculture development as the key to sustainable economic progress in Sri Lanka.
-
-He said that the Bandaranaike International Airport (BIA) The Bandaranaike International Airport (BIA) will be resumed to be resumed and continuing to maintain long-term cooperation with Sri Lanka by observing the macroeconomic management of Sri Lanka.
-
-The discussion was also discussed on the implementation of the waste management plan in the Western Province.
-
-...
-
-[Data](articles/4eb0a7c5.json)
-
-[Extended Data](ext_articles/4eb0a7c5.ext.json)
-
----
-
-### Chief Prelates write to President over LGBTQ tourism and corporal punishment ban
-
-*2025-09-30 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113087/chief-prelates-write-to-president-over-lgbtq-tourism-and-corporal-punishment-ban) · `en`
-
-The Chief Prelates of all three Buddhist Chapters emphasized that proposed amendments to the Penal Code introducing an offence for corporal punishment, as well as government initiatives to promote tourism through LGBTQ-related activities, could undermine cultural values and give rise to serious social catastrophes.
-
-These observations have been made in a joint letter to the President, issued with the signatures of the Most Venerable Thibbatuwawe Sri Siddhartha Sumangalabidhana Mahanayake Thero of the Malwatta chapter of Siam Nikaya, Most Venerable Warakagoda Dhammasiddhi Sri Pagghananda Gnanarathanabidhana Mahanayake Thero of the Asgiriya Chapter of the Siam Nikaya, Most Venerable Karagoda Uyangoda Maithree Moorthi Mahanayaka Thero of the Amarapura Maha Nikaya and Most Venerable Makulewe Wimala Mahanayake Thero of the Sri Lanka Ramanna Maha Nikaya.
-
-...
-
-[Data](articles/f361427c.json)
-
-[Extended Data](ext_articles/f361427c.ext.json)
-
----
-
-### Severe heat in many districts - Meteorological Department Warning
-
-*2025-09-30 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226521) · `ta`
-
-The Meteorological Department has issued a warning on hot weather in many districts.
-
-The warning states that the heat of the human body may have to pay attention to the North Central and Eastern Provinces and Vavuniya, Mullaitivu and Moneragala districts.
-
-Accordingly, focus on the matter is being paid and can reduce the impact on human health.
-
-◼️
-
-[Data](articles/68b97914.json)
-
-[Extended Data](ext_articles/68b97914.ext.json)
-
----
-
-### Two arrested with over 15 million cocaine
-
-*2025-09-30 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215194) · `si`
-
-Two persons have been arrested by the Walana Central Anti-Corruption Board Unit this afternoon with three kilograms of cocaine.
-
-The suspect has been arrested in the Panadura area on the instructions of the Walana Corruption Contruption Unit and its OIC Indika Indika Indika Weerasinghe.
-
-Two of them were found in a house and the other was found in a luxury car.
-
-The total amount of drugs was worth over Rs.
-
-A police officer in the ministry has also been found in the possession of the suspects.
-
-මොවුන් මෙම මත්ද්‍රව්‍ය තරුපන්තියෝ හෝටල්වල ඇති රාත්‍රී සමාජ ශාලාවෙත අලෙවි කරන බවද පොලීසිය සඳහන් කළේය.
-
-The racket has been led by a person who is in Dubai.
-
-◼️
-
-[Data](articles/f81b81a7.json)
-
-[Extended Data](ext_articles/f81b81a7.ext.json)
-
----
-
-### Manamperi Wanted Over Rice Truck Heist
-
-*2025-09-30 19:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/manamperi-wanted-over-rice-truck-heist) · `en`
-
-...
-
-[Data](articles/9ac54ee0.json)
-
-[Extended Data](ext_articles/9ac54ee0.ext.json)
-
----
-
-### ‘We Are Bears, Not Paper Bears’: Russia’s Strong Message from Colombo
-
-*2025-09-30 19:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/%e2%80%98we-are-bears-not-paper-bears%e2%80%99-russia%e2%80%99s-strong-message-from-colombo) · `en`
-
-...
-
-[Data](articles/403e7453.json)
-
-[Extended Data](ext_articles/403e7453.ext.json)
-
----
-
-### Child Death in Srimad Ramayana
-
-*2025-09-30 19:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஸ்ரீமத்-ராமாயணத்தில்-நடித்த-குழந்தை-மரணம்/54-365544) · `ta`
-
-Eight -year -old brother Veer Sharma and his 16 -year -old brother Shoria Sharma are said to have died of suffocation in Soni Sab (Son TV dubbed and broadcast in Tamil).
-
-Child star Veer Sharma died in a fire at his home. Veer Sharma's brother Sareya Sharma also died in the fire.
-
-Veer Sharma lived with his family on the fourth floor of the apartment in Kota, Rajasthan.
-
-Her father, the teacher of the private training institute, went to the temple for Bhajan during the incident. Her mother, Rita Sharma, is also an actress in Mumbai.
-
-However, the hospital administration said they died on the way to the hospital.  R
-
-◼️
-
-[Data](articles/311301a1.json)
-
-[Extended Data](ext_articles/311301a1.ext.json)
-
----
-
-### 13 Years Later: CCTV Suspect in Thajudeen Case Identified as Slain Gang Member
-
-*2025-09-30 19:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/13-years-later-cctv-suspect-in-thajudeen-case-identified-as-slain-gang-member) · `en`
-
-COLOMBO (News 1st); A major breakthrough has emerged in the long-running investigation into the death of national rugby player Wasim Thajudeen, who died under suspicious circumstances on May 17, 2012, near Shalika Grounds in Narahenpita.
-
-Initially classified as a car accident, the case was investigated by the Narahenpita Police and the Borella Crimes Investigation Division. Based on their findings, the death was deemed accidental, and the case was closed.
-
-However, in 2015, then-DIG of the Colombo Range, Gamini Mathurata, submitted a report to then-IGP N.K. Illangakoon, prompting the transfer of the case to the Criminal Investigations Department (CID). A comprehensive investigation followed, revealing that the initial post-mortem had been improperly conducted, raising serious doubts about the cause of death.
-
-...
-
-[Data](articles/029d846c.json)
-
-[Extended Data](ext_articles/029d846c.ext.json)
-
----
-
-### ‘Kajja’ linked to murder of Wasim Thajudeen?
-
-*2025-09-30 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113086/kajja-linked-to-murder-of-wasim-thajudeen) · `en`
-
-Sri Lanka Police says that it has been confirmed that Anura Vidanagamage, also known as “Kajja”, who was recently shot dead along with his two children in Middeniya, was in the vehicle that had followed slain former Sri Lankan rugby player Wasim Thajudeen’s vehicle moments before the latter was murdered.
-
-Speaking at a press briefing in Colombo today (30), Acting Police Spokesman ASP Minura Senarath stated that this information was uncovered following the interrogation of underworld figure ‘Backhoe Saman’, who was recently arrested in Indonesia and is suspected to have orchestrated the killing of ‘Kajja’, and a statement provided by Kajja’s widow.
-
-During the investigation, the Criminal Investigation Department (CID) showed Kajja’s wife CCTV footage of Thajudeen purchasing a bottle of water from a shop near the Havelock City complex. She identified the person standing behind Thajudeen in the footage as her husband, noting his distinctive posture and long-standing back problems.
-
-...
-
-[Data](articles/76a22002.json)
-
-[Extended Data](ext_articles/76a22002.ext.json)
-
----
-
-### Shocking news about Tajuddin's murder
-
-*2025-09-30 18:57:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீன்-கொலை-குறித்து-அதிர்ச்சி-செய்தி/175-365543) · `ta`
-
-A shocking news has been revealed in connection with the assassination of rugby player Wasim Tajuddin.
-
-Accordingly, in the group that came to assassinate Rugby player Wasim Tajuddin, he was also a 'Gajja' alias Aruna Vidhanagamage, who was recently assassinated with two children in Mitteniya.
-
-Responding to this, Police Media Spokesperson Assistant Superintendent of Police, Minura Senarath said.
-
-In a media briefing held at the Police Media Division this afternoon, the police spokesman said this.. Remble
-
-◼️
-
-[Data](articles/6f8fb9e9.json)
-
-[Extended Data](ext_articles/6f8fb9e9.ext.json)
-
----
-
-### Two two crores of powder arrested
-
-*2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-15ක-කඩ-සමඟ-දනනක-මටට/1-680511) · `si`
-
-The Walana Central Anti-Corruption Unit, along with a luxury car, has passed two suspects with a luxury car.
-
-A disciple of the suspect, a large number of cocaine father, is a large-scale of cocaine from a foreign country, has been arrested.
-
-The Chief Inspector Indika Weerasinghe has been arrested by the Chief Inspector Indika and Galthadera, the OIC Chief Inspector Indika and Galthadera, which is used by cricketers and cricket equipment.
-
-Police said that after the arrest of the main suspect, he was arrested in a car with a kilogram of cocock in a car belonging to him.
-
-◼️
-
-[Data](articles/46ea7259.json)
-
-[Extended Data](ext_articles/46ea7259.ext.json)
-
----
-
-### Two two crores of powder arrested
-
-*2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-15ක-කඩ-සමඟ-දනනක-මටට/101-680511) · `si`
-
-The Walana Central Anti-Corruption Unit, along with a luxury car, has passed two suspects with a luxury car.
-
-A disciple of the suspect, a large number of cocaine father, is a large-scale of cocaine from a foreign country, has been arrested.
-
-The Chief Inspector Indika Weerasinghe has been arrested by the Chief Inspector Indika and Galthadera, the OIC Chief Inspector Indika and Galthadera, which is used by cricketers and cricket equipment.
-
-Police said that after the arrest of the main suspect, he was arrested in a car with a kilogram of cocock in a car belonging to him.
-
-◼️
-
-[Data](articles/e95b63bd.json)
-
-[Extended Data](ext_articles/e95b63bd.ext.json)
 
 ---

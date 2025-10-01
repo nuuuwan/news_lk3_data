@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 09:05:22**
+As of **2025-10-01 09:26:23**
 
 ## Newspaper Stats
 
-*Scraped **80,063** Articles*
+*Scraped **80,065** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 520
+newsfirstlk | 521
 lankadeepalk | 535
 dbsjeyarajcom | 636
 bbccomsinhala | 714
@@ -21,17 +21,29 @@ adalk | 7,701
 adaderanalk | 10,321
 tamilmirrorlk | 11,957
 virakesarilk | 13,075
-adaderanasinhalalk | 13,836
+adaderanasinhalalk | 13,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,059 (100.0%) of 80,063 articles have been extended.
+80,065 (100.0%) of 80,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### President Dissanayake Meets Emperor of Japan and JICA Chief
+
+*2025-10-01 09:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/president-dissanayake-meets-emperor-of-japan-and-jica-chief) · `en`
+
+...
+
+[Data](articles/8cb3c17f.json)
+
+[Extended Data](ext_articles/8cb3c17f.ext.json)
+
+---
 
 ### Search Operations Continue for Weapons Dumped in Kataragama
 
@@ -42,6 +54,36 @@ COLOMBO (News 1st) - Police say search operations will continue today to recover
 ◼️
 
 [Data](articles/92077e13.json)
+
+[Extended Data](ext_articles/92077e13.ext.json)
+
+---
+
+### Criminal gang member tiasts bring to the island
+
+*2025-10-01 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215208) · `si`
+
+Sridharan Niranjan alias, who is deported from Dubai, has been brought to the island this morning.
+
+At the Katunayake International Airport, the officials of the CID had handed over to the Peliyagoda Police Station at the Katunayake International Airport this morning.
+
+The suspect is a 36 year old resident of Colombo 15, police said
+
+The suspect has been identified as an organized crime and drug dealer, Palanni Shiran, named Palani Shiran, 'Kochchikade Shiran', police said.
+
+The suspect is the driver of the car, which was shot dead in a three-wheeler near the Grandpass police cemetery, near the Grandpass division.
+
+In addition, a suspect had welcomed the transport of firearms to commit serious injuries at the Peliyagoda Police Division on 19.108.2012.
+
+The suspect is currently undergoing a foreign travel ban against the suspect and the suspect has been abroad.
+
+The suspect is to be produced before the Hon. Magistrates Magistrate's Court.
+
+◼️
+
+[Data](articles/c5a4cf25.json)
+
+[Extended Data](ext_articles/c5a4cf25.ext.json)
 
 ---
 
@@ -70,6 +112,8 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 ◼️
 
 [Data](articles/c4976f07.json)
+
+[Extended Data](ext_articles/c4976f07.ext.json)
 
 ---
 
@@ -1924,45 +1968,5 @@ The discussion was also discussed on the implementation of the waste management 
 [Data](articles/9ec65847.json)
 
 [Extended Data](ext_articles/9ec65847.ext.json)
-
----
-
-### 36% up 36% in 9 months to 2025
-
-*2025-09-30 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215189) · `si`
-
-All the Colombo Stock Exchange rose to 21,778.60 units renewed again today (30) again.
-
-According to the first nine months of the year 2025, all stock prices have been able to increase a 36.59% growth in the market.
-
-The S & PL20 index increased by 7.32 points today and at the end of transactions, the value of transactions was 6,126.53 units.
-
-There the local purchases are Rs.. 6.01 billion and local sales Rs. බිලියන 5.65ක් ලෙසින් සටහන් වූ අතර විදේශීය මිල දී ගැනීම් රු. 284 million and foreign sales Rs. 646 million.
-
-◼️
-
-[Data](articles/82ef247b.json)
-
-[Extended Data](ext_articles/82ef247b.ext.json)
-
----
-
-### Sri Lanka Tourism responds to reports over LGBTQ+ tourism
-
-*2025-09-30 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113085/sri-lanka-tourism-responds-to-reports-over-lgbtq-tourism) · `en`
-
-Sri Lanka’s Ministry of Tourism today denied that the Government has decided to run a specific tourism promotion campaign targeting LGBTQ+ foreign tourists while emphasizing that any future initiatives will be carefully evaluated within the framework of national tourism priorities and social harmony.
-
-Issuing a special statement, the Ministry of Tourism addressed the recent public discourse surrounding the Sri Lanka Tourism Promotion Bureau’s (SLTPB) communication regarding LGBTQ-themed events.
-
-“We recognize the diversity of our society and affirm that every community—including the LGBTQ community—is a valued and respected part of it.
-
-Sri Lanka has long been a welcoming destination for travelers from all walks of life. Our tourism legacy is built on the warmth of our people, the richness of our culture, and the breathtaking beauty of our landscapes. We remain committed to promoting inclusivity, mutual respect, and hospitality for all visitors, regardless of background.
-
-...
-
-[Data](articles/35bb4ac3.json)
-
-[Extended Data](ext_articles/35bb4ac3.ext.json)
 
 ---

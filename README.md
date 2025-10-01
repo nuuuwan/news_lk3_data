@@ -1,37 +1,223 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 18:22:39**
+As of **2025-10-01 18:45:50**
 
 ## Newspaper Stats
 
-*Scraped **80,283** Articles*
+*Scraped **80,313** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 537
-lankadeepalk | 598
+lankadeepalk | 604
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
 dailymirrorlk | 4,733
-economynextcom | 4,758
+economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,720
+adalk | 7,721
 adaderanalk | 10,340
-tamilmirrorlk | 11,978
-virakesarilk | 13,133
-adaderanasinhalalk | 13,856
+tamilmirrorlk | 11,984
+virakesarilk | 13,136
+adaderanasinhalalk | 13,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,273 (100.0%) of 80,283 articles have been extended.
+80,283 (100.0%) of 80,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### எரிசக்தி அமைச்சர் இந்தியாவிற்கு விஜயம் : இருதரப்பு எரிசக்தி ஒத்துழைப்பு குறித்து ஆலோசனை
+
+*2025-10-01 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226621) · `ta`
+
+எரிசக்தி அமைச்சரான பொறியியலாளர் குமார ஜயக்கொடி செப்டம்பர் 23 மற்றும் 24 ஆகிய திகதிகளில் இந்தியாவில் நடைபெற்ற 6வது சர்வதேச எரிசக்தி மாநாடு மற்றும் கண்காட்சியில் (IECE 2025) கலந்துகொண்டார்.
+
+இந்தியத் தொழில் கூட்டமைப்பு (CII), புதிய மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சகம் (MNRE), மற்றும் வெளியுறவுத் துறை அமைச்சகத்தின் புதிய, வளர்ந்து வரும் மற்றும் மூலோபாய தொழில்நுட்பங்கள் பிரிவு (NEST) ஆகியவை இணைந்து புது டெல்லியில் இந்த மாநாட்டை ஏற்பாடு செய்திருந்தன.
+
+மாநாட்டின் கருப்பொருள் “இந்தியாவின் எரிசக்தி மாற்றத்தை செலுத்துதல்: நிகர பூஜ்ஜியத்திற்கான பாதை (Driving India’s Energy Transition: Pathway to Net-Zero)” என்பதாகும்.
+
+‘தடையற்ற மின்சார விநியோகத்திற்காக சூரிய மற்றும் காற்றாலை மின்சாரத்தை அதிகரித்தல்’ (Scaling up Solar and Wind for Round-the-Clock Power Supply) என்ற தலைப்பிலான சிறப்பு அமைச்சர்கள் அமர்வில் எரிசக்தி அமைச்சரான பொறியியலாளர் குமார ஜயக்கொடி உரையாற்றினார்.
+
+...
+
+[Data](articles/ac229dfb.json)
+
+---
+
+### ”சிறிபாலவும் ஞானரத்னமும் தாஜுதீனை கொல்லவில்லை”
+
+*2025-10-01 18:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிபாலவும்-ஞானரத்னமும்-தாஜுதீனை-கொல்லவில்லை/175-365598) · `ta`
+
+வாசிம் தாஜுதீன் கொலை போன்ற குற்றங்களை கிராமத்தில் இருக்கும் சிறிபால அல்லது ஞானரத்னம் செய்யவில்லை, மாறாக நாட்டை ஆண்ட ஆட்சியாளர்களே செய்ததாக அமைச்சர் பிமல் ரத்நாயக்க இன்று தெரிவித்தார்.
+
+விசாரணைகளின்படி குற்றங்களில் ஈடுபட்டவர்கள் அரசியல் ஆர்வலர்களாக இருந்தாலும் இல்லாவிட்டாலும் அவர்களுக்கு எதிராக சட்டம் அமல்படுத்தப்படும் என்று அவர் அனுராதபுரத்தில் ஊடகவியலாளர்களிடம் தெரிவித்தார்.
+
+தாஜுதீன் கொலையில் தொடர்புடையதாகக் கூறப்படும் அரசியல்வாதிகள் மீது நடவடிக்கை எடுக்கப்படுமா என்ற கேள்விக்கு பதிலளித்த அவர், அவர்கள் அரசியல் ஆர்வலர்களாக இருந்தாலும் இல்லாவிட்டாலும் அவர்கள் மீது நடவடிக்கை எடுக்கப்படும் என்றார்.
+
+"இந்த குற்றங்களை கிராமத்தில் ஊரில் இருக்கும் சிறிபால அல்லது ஞானரத்னம் செய்யவில்லை. இந்த குற்றங்களை நாட்டை ஆண்ட ஆட்சியாளர்களே செய்தனர். அவர்கள் குற்றங்களை மூடி மறைத்தனர்.
+
+...
+
+[Data](articles/58caae9f.json)
+
+---
+
+### இலங்கையில் RMIT புத்தாக்க மையம் அமைப்பது தொடர்பில் கலந்துரையாடல்
+
+*2025-10-01 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226623) · `ta`
+
+இலங்கையில் RMIT புத்தாக்க மையமொன்றை (Innovation Hub) நிறுவுவது குறித்து தெளிவுபடுத்துதல் மற்றும் வசதிகளை ஏற்படுத்துதல் ஆகிய நோக்கத்துடன், அவுஸ்திரேலிய Melbourne Institute of Technology (RMIT) பல்கலைக்கழகம் மற்றும் ஜனாதிபதி செயலக பிரதிநிதிகளுக்கு இடையே செவ்வாய்க்கிழமை (30) ஜனாதிபதி அலுவலகத்தில் விசேட கலந்துரையாடல் நடைபெற்றது.
+
+ஆராய்ச்சி மற்றும் அபிவிருத்தி  வணிகமயமாக்கலுக்கான தேசிய அணுகுமுறையின் (NIRDC)  ஒருங்கிணைப்பின் கீழ் இந்தக் கலந்துரையாடல் ஏற்பாடு செய்யப்பட்டது.
+
+RMIT இலங்கை புத்தாக்க மையத்தை நிறுவுவதன் ஊடாக தற்போதுள்ள கூட்டு பட்டப் படிப்புத் திட்டங்களை (Joint PhD) மிகவும் செயற்திறனுடன்  செயல்படுத்த சந்தர்ப்பம் ஏற்படும்.
+
+இதன் ஊடாக  இலங்கையில் எதிர்கொள்ளும் சவால்களை அடையாளம் காணவும், அவற்றுக்கான ஆராய்ச்சி மற்றும் அபிவிருத்தி  (R&D) தீர்வுகளை வழங்கவும், இந்த திட்டங்களை ஆராய்ச்சி கொள்கைகள் மற்றும் தேசிய தேவைகளுடன் இணைக்கவும் எதிர்பார்க்கப்படுகிறது.
+
+அத்தோடு இந்த செயற்பாடுகளின்  ஊடாகக் கிடைக்கும் பலனை மக்களிடையே கொண்டு செல்லவும்  எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/bace47ba.json)
+
+---
+
+### ආහාර විෂ වී පාසලක ළමයි 45ක් රෝහල් ගතකෙරේ
+
+*2025-10-01 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215228) · `si`
+
+හිඟුරක්ගොඩ, බකමූණ අධ්‍යාපන කොට්ඨාසයේ, කෝට්ටපිටිය කනිටු විදුහලේ ළමයි 45කට ආසන්න සංඛ්‍යාවක් ආහාර විෂ වී රෝහල් ගත කර තිබේ.
+
+අදට යෙදී තිබුණු ලෝක ළමා දිනයට සමගමීව එම විද්‍යාලයේ පවත්වා තිබූ වැඩසටහනකදී ලබාදුන් ආහාර වේලක් හේතුවෙන් මෙම තත්ත්වය ඇතිව තිබෙන බව සඳහන්.
+
+අදාළ වැඩසටහන අවසන් වී දරුවන් නිවෙස්කරා ගිය පසු මෙම අසාත්මිකතාව ඇතිව තිබේ.
+
+ඒ සමග එක් එක් දෙමව්පියන් තම දරුවන් බකමූණ ප්‍රාදේශීය රෝහල වෙත රැගෙන පැමිණ ඇත.
+
+ඉන් දරුවන් කිහිප දෙනෙකු නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අතර, ඇතැම් අය ප්‍රතිකාර ලබා නිවෙස් ගොස් තිබේ.
+
+පාසලේ මුලු සිසුන් සංඛ්‍යාව 230කට ආසන්න වන අතර, එම සියල්ලට මෙම ආහාර වේල ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/ba885b53.json)
+
+---
+
+### ”தாஜுதீனின் ஆன்மாவை அவமதிக்க வேண்டாம்”
+
+*2025-10-01 18:19:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீனின்-ஆன்மாவை-அவமதிக்க-வேண்டாம்/175-365597) · `ta`
+
+முன்னாள் ரக்பி வீரர் வாசிம் தாஜுதீனின் மரணம் குறித்து அரசாங்கம் பாரபட்சமற்ற மற்றும் விரிவான விசாரணையை நடத்த வேண்டும் என்றும், அதை அரசியல் மயப்படுத்த முயற்சிக்கக்கூடாது என்றும், இல்லையெனில் அது அவரது மறைந்த ஆன்மாவை அவமதிப்பதாக இருக்கும் என்றும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ கூறினார்.
+
+இந்த ஆண்டின் தொடக்கத்தில் மித்தெனியவில் கொலை செய்யப்பட்ட 'கஜ்ஜா' என்ற ஒழுங்கமைக்கப்பட்ட குற்றப் பிரமுகர், 2012 இல் தாஜுதீன் இறப்பதற்கு முன்பு அவரைப் பின்தொடர்ந்த வாகனத்தில் இருந்ததாக பொலிஸார் சமீபத்தில் வெளிப்படுத்தியதைத் தொடர்ந்து அவரது கருத்துக்கள் வெளியாகியுள்ளன.
+
+ஊடகங்களுக்குப் பேட்டியளித்த பாராளுமன்ற உறுப்பினர் நாமல், தாஜுதீனின் மரணம் குறித்த தற்போதைய கவனத்தை 'ICE வாரம்' மற்றும் 'ரணில் வாரம்' போன்ற அரசியல் ரீதியாக முக்கியத்துவம் வாய்ந்த கடந்த கால நிகழ்வுகளுடன் ஒப்பிட்டுப் பார்த்து, சிலர் அதை தனிப்பட்ட அரசியல் ஆதாயத்திற்காகப் பயன்படுத்துகிறார்கள் என்பதைக் குறிக்கிறது.
+
+இருப்பினும், வழக்கின் அனைத்து தொடர்புடைய விவரங்களும் முழுமையாக ஆராயப்பட வேண்டும் என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/3c051dec.json)
+
+---
+
+### කෝටි 14ක රන් සමඟ දෙන්නෙක් මාට්ටු
+
+*2025-10-01 18:17:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-14ක-රන-සමඟ-දනනක-මටට/101-680591) · `si`
+
+නීතී විරෝධී ලෙසින් ශ්‍රී ලංකාවේ සිට ඉන්දියාවට ඩිංගි යාත්‍රාවකින් ප්‍රවාහනය කරමින් තිබූ කෝටි 14 කට වැඩි වටිනාකමින් යුතු රන් කිලෝ හතරයි ග්‍රෑම් 454 ක්,සැකකරුවන් දෙදෙනෙකු ද සමගින් අද  (1) කල්පිටිය කළපුවේ සින්න අරිච්චල් ප්‍රදේශයේ දී ,කල්පිටිය විජය නාවුක ආයතනයේ මුර සංචාරක යාත්‍රාවක් මගින් අත් අඩංගුවට ගෙන ඇත.
+
+ධීවරයින් ලෙසින් වෙස්වලාගෙන ධීවර දැල් ආම්පන්න සහිත යාත්‍රා කරමින් තිබූ මෙම යාත්‍රාව,නාවුක නිළධාරීන් විසින් පරීක්ෂා කර බැළීමේ දී මෙම රන් තොගය අත් අඩංගුවට ගෙන ඇත.
+
+සැක කරුවන් දෙදෙනා කල්පිටිය ආණවාසල හා ජනසවිපුර පදිංචි වයස අවුරුදු 25 ක් වන තරුණයෝ වෙති.
+
+මෙම රත්‍රං තොගය මුහුදේ දී වෙනත් ඉන්දිය යාත්‍රාවක භාර දීම පිණිස මෙසේ රැගෙන ගොස් ඇතයි කියයි.
+
+◼️
+
+[Data](articles/97169fc2.json)
+
+---
+
+### ලෝක ළමා දිනය දා පුංචි පුතා ළිඳට බිලි
+
+*2025-10-01 18:17:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ළම-දනය-ද-පච-පත-ළඳට-බල/101-680590) · `si`
+
+ලෝක ළමා දිනය සැමරෙමින් තිබූ අද දින වයස අවුරුදු හතරක කුඩා දරුවකු නිවස පිටුපස ළිඳට වැටීමෙන් අවාසනාවන්ත ලෙස මියගොස් ඇතැයි නවගගමුව පොලිසිය පවසයි.
+
+මෙසේ මරණයට පත්වූයේ ඉහළ බෝමිරිය, පදිංචි ව සිටි සේනුක නිල්ශාන් හෙට්ටිආරච්චි (4) නැමති දරුවෙකි.
+
+නීවස පිටුපස ඇති මේ ළිඳ දැලකින් ආවරණය කොට ඇතත් වැඩිහිටි අවධානය මග හැරුනු දරුවා ළිඳට එබී බලන්නට ගොස් ඒ තුලට වැටෙන්නට ඇති බවට පොළිසිය සැක පහල කරයි.
+
+අද දින පෙරපාසලට ගොස් එහි ළමා දින උත්සවයටද සහභාගි වී තෑගි භෝග ලබාගෙන නිවසට පැමිණ සෙල්ලම් කරමින් සිටියදී මෙලෙස අනතුරට ලක්ක මියගොස් ඇතැයිද පොලිසියය පවසයි.
+
+◼️
+
+[Data](articles/5f0ee49f.json)
+
+---
+
+### வங்கி பணவைப்பு இயந்திரத்தில் நூதன முறையில் திருட்டு - அவதானம்!
+
+*2025-10-01 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226622) · `ta`
+
+வங்கியொன்றின் பண வைப்பு இயந்திரத்தில், பெண்ணொருவரின் பணத்தை வங்கிக்கணக்கொன்றுக்கு வைப்பிலிட உதவி செய்வது போல் வந்த இளைஞன், அந்தப் பணத்தை தனது வங்கிக்கணக்கில் வைப்பிலிட்டு, பெண்ணை ஏமாற்றிச் சென்ற சம்பவம் கிளிநொச்சியில் இடம்பெற்றுள்ளது.
+
+கிளிநொச்சி பொன்னகர் கிராமத்தைச் சேர்ந்த பெண் ஒருவர் தனது வீட்டு மின்சார கட்டணத்தை செலுத்துவதற்காக வங்கியொன்றுக்குச் சென்றுள்ளார்.
+
+அங்குள்ள பண வைப்பு இயந்திரத்தில் பணத்தை வைப்பிலிடத் தெரியாத அந்தப் பெண், மின் கட்டணத்தை வைப்புச் செய்வதற்காக அருகில் நின்ற இளைஞர் ஒருவரிடம் உதவி கோரியுள்ளார்.
+
+பணத்தை வைப்பிலிடுவதற்காக அந்த இளைஞனிடம், தனது வீட்டு மின்சார கணக்கு இலக்கத்தையும் ஆறாயிரம் ரூபாய் பணத்தையும் வழங்கியுள்ளார்.
+
+அந்த இளைஞன், அப்பெண்ணுக்கு உதவி செய்வது போல் செயற்பட்டு, அவர் வழங்கிய கணக்கு இலக்கத்துக்கு பணத்தை வைப்புச் செய்வது போல் பாசாங்கு காட்டி, தனது வங்கிக் கணக்கு இலக்கத்திறகு பணத்தை வைப்புச் செய்துள்ளார்.
+
+பின், அருகில் இருந்த குப்பை கூடைக்குள் இருந்து பணம் வைப்புச் செய்த பற்றுச்சீட்டு ஒன்றை பெண்ணிடம் கொடுத்துவிட்டு, அவ்விடத்தை விட்டுச் சென்றுள்ளார்.
+
+...
+
+[Data](articles/7e2e17e8.json)
+
+---
+
+### பேருந்து கட்டணத் திருத்தம் குறித்து நாளை தீர்மானம்
+
+*2025-10-01 18:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-கட்டணத்-திருத்தம்-குறித்து-நாளை-தீர்மானம்/175-365596) · `ta`
+
+சமீபத்திய எரிபொருள் விலை குறைப்பின்படி பேருந்து கட்டணத்தைக் குறைக்க முடியுமா என்பது குறித்து அரசாங்கம் நாளைக்குள் வெளியிடும் என்று போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+தேசிய போக்குவரத்து ஆணைக்குழு (NTC) வழக்கமாக ஒரு குறிப்பிட்ட அளவுகோலின்படி பேருந்து கட்டணங்களைக் குறைப்பதாகவும், அந்த அளவுகோலின்படி பேருந்து கட்டணங்களைக் குறைக்க முடியுமா என்பதை NTC இன்று கணக்கிடும் என்றும் அவர் ஊடகவியலாளர்களிடம் கூறினார்.
+
+"எரிபொருள் விலை குறைப்புக்கு ஏற்ப பேருந்து கட்டணத்தைக் குறைக்க முடியுமா என்பதைப் பார்க்குமாறு நான் NTC-யிடம் தெரிவித்தேன். அவர்கள் இன்று அதைக் கணக்கிட்டு, பேருந்து கட்டணங்களைக் குறைக்க முடியுமா என்பதை நாளைக்குள் தெரிவிப்பார்கள்," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/42c879e8.json)
+
+---
+
+### முகமாலையில் வெடி குண்டுகள் மீட்பு
+
+*2025-10-01 18:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகமாலையில்-வெடி-குண்டுகள்-மீட்பு/175-365595) · `ta`
+
+கிளிநொச்சி பளை பொலிஸ் பிரிவுக்கு உட்பட்ட முகமாலை வடக்கு பகுதியில் புதன்கிழமை (01)  பிற்பகல் 2:30 மணியளவில் வெடிக்காத நிலையில் 31 குண்டுகள் மீட்கப்பட்டுள்ளன
+
+முகமாலை வடக்கு பகுதியில் குடும்பஸ்தர் ஒருவர் தமது வீட்டினை சுத்தம் செய்யும் போது பள்ளம் தோண்டி உள்ளார் அப் பிரதேசத்தில் ஆபத்தான நிலையில் வெடிக்காத குண்டுகள் காணப்பட்டுள்ளன உடனடியாக வீட்டு உரிமையாளர் பளை பொலிஸாருக்கு அறிவித்துள்ளனர்
+
+அதன் பின்னர் கிளிநொச்சி நீதி மன்றத்தின் உத்தரவுடன் பாதுகாப்பான முறையில் வெடி குண்டிகளை மீட்கும் பணி முன்னெடுக்கப்பட்டுள்ளது இச் சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பளை பொலிஸார் மேற்கொண்டு வருகின்றனர் .
+
+◼️
+
+[Data](articles/98e7f3bf.json)
+
+---
 
 ### Police Freeze Properties of Notorious Drug Queenpin
 
@@ -43,6 +229,8 @@ COLOMBO (News 1st); The Illegal Assets Investigation Division has frozen three b
 
 [Data](articles/aafa7933.json)
 
+[Extended Data](ext_articles/aafa7933.ext.json)
+
 ---
 
 ### Underworld Figure ‘Tinker’ Arrested After Dubai Deportation
@@ -53,21 +241,61 @@ COLOMBO (News 1st); The Illegal Assets Investigation Division has frozen three b
 
 [Data](articles/a50d5799.json)
 
+[Extended Data](ext_articles/a50d5799.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ගුවන් හමුදාවට එකතුවීමට කැමති ඔබට අවස්ථාවක්
+### A chance to join the Sri Lanka Air Force
 
 *2025-10-01 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215227) · `si`
 
-ආධුනික ගුවන් භට හා ගුවන් කාන්තා නව බඳවාගැනීම පිළිබඳව ශ්‍රී ලංකා ගුවන් හමුදාව විසින් දැනුම්දීමක් සිදුකර තිබේ.
+The Sri Lanka Air Force has notified the recruitment of amateur airmen and air women.
 
-ඒ අනුව, ශ්‍රී ලංකා ගුවන් හමුදාවට නිත්‍ය/ස්වේච්චා ගුවන් භට ගුවන් කාන්තාවන් බඳවා ගැනීම් සිදුකෙරේ.
+Accordingly, the Sri Lanka Air Force will recruit permanent / sectoral aircraft.
 
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ගුවන් හමුදාව දැනුම් දී ඇත්තේ අයදුම් පත් බාර ගැනීමේ අවසන් දිනය 2025 ඔක්තෝම්බර් මස 15 වන දින දක්වා දීර්ඝ කර ඇති බවය.
+The Sri Lanka Air Force has been informed of announcement, the deadline to accept the applications has been extended until the 15th of October.
 
 ◼️
 
 [Data](articles/ce9e5b8f.json)
+
+[Extended Data](ext_articles/ce9e5b8f.ext.json)
+
+---
+
+### உடலுறவில் மனைவியின் உள்ளாடையை பார்த்து ஷாக் ஆன கணவன்
+
+*2025-10-01 17:48:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடலுறவில்-மனைவியின்-உள்ளாடையை-பார்த்து-ஷாக்-ஆன-கணவன்/175-365594) · `ta`
+
+இடுக்கி மாவட்டத்தில், அச்சுதன் மற்றும் அவரது மனைவி கேசவி தம்பதியினர், டவுனுக்குள் முக்கியமான பகுதிகளில் 10க்கும் மேற்பட்ட சிற்றுண்டி உணவகங்களை நடத்தி, இட்லி-பரோட்டா-துரித உணவுகளால் பணக்காரர்களாக வாழ்ந்து வந்தனர்.
+
+அவர்களின் உணவகங்களுக்கு 'தனி மவுசு' உருவானது. இதனால், அவர்களின் காட்டில் பண மழை தான். ஆனால், "பணம் ஒரு இடத்தில் இல்லாமல் போனாலும் பிரச்சனை, அதிகமாக இருந்தாலும் பிரச்சனை" என்ற ஊர் சொல்லாடல் போல, அச்சுதனின் மனநிலை தடுமாறத் தொடங்கியது.
+
+அந்தத் தடுமாற்றத்தின் பிளம்பாகத் தான், அவரது வீட்டிற்கு அருகில் வாடகைக்கு வந்த கோபாலகிருஷ்ணன் தம்பதி நுழைந்தனர்.கோபாலகிருஷ்ணன், அச்சுதனின் 'நெருங்கிய நண்பர்' என்று அறியப்பட்டவர். அவரது மனைவி மீரா, கேசவியுடன் 'அக்கா-தங்கை' போல பழகினார்.
+
+பள்ளி விடுமுறையில் குழந்தைகளுடன் கேசவி பெற்றோர் வீட்டிற்குச் சென்றபோது, தனிமையில் இருந்த அச்சுதனுக்கு மீரா உணவு சமைத்துக் கொண்டுவந்தார்.
+
+"அக்கா ஊருக்கு போயிருக்காங்க, வருவதுக்கு ஒரு வாரம் ஆகும். அதுவரைக்கும் கடையில் சாப்பிட்டு உடம்பைக் கெடுக்காதீங்க" என்று அவர் கூறியது, அச்சுதனின் மனதில் தவறான எண்ணத்தை ஏற்படுத்தியது.
+
+...
+
+[Data](articles/86710314.json)
+
+---
+
+### Vijayadasamy Pooja at Navalapitiya Municipal Library
+
+*2025-10-01 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226618) · `ta`
+
+The Navaratri Vijayadasamy Pooja was held on Wednesday (01) at the Library Complex organized by the Public Library of Nawalapitiya.
+
+In the event of the event, the Nawalapitiya Municipal Council, Deputy Chairman, Members and Municipal Council staff made good arrangements.
+
+◼️
+
+[Data](articles/c1db163c.json)
+
+[Extended Data](ext_articles/c1db163c.ext.json)
 
 ---
 
@@ -81,45 +309,73 @@ COLOMBO (News 1st); The U.S. Embassy in Colombo & US Ambassador to Sri Lanka Jul
 
 [Data](articles/506de2a0.json)
 
+[Extended Data](ext_articles/506de2a0.ext.json)
+
 ---
 
-### පුටින් දෙසැම්බර් මස ඉන්දියාවට
+### Putin to India in December
 
 *2025-10-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215226) · `si`
 
-රුසියානු ජනාධිපති ව්ලැඩිමීර් පුටින් එළැඹෙන දෙසැම්බර් මස ඉන්දියාවේ සංචාරයක නිරතවීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+Sri Lanka's Vladimir Putin is to visit India in December, Indian media reports.
 
-ඉන්දියාවේ පැවැත්වෙන සමුළුක් සඳහා පුටින් මෙලෙස පැමිණෙන අතර, බොහෝ දුරට එම සංචාරය දෙසැම්බර් 5-6 දිනවල සිදුකරනු ඇති බව සඳහන්.
+According to Putin in India, it is said that the visit is largely done on December 5-6.
 
-පසුගිය අගෝස්තු මාසයේ දී ඉන්දීය ජාතික ආරක්ෂක උපදේශක අජිත් ඩෝවාල් සිදුකළ රුසියානු සංචාරයේ දී පුටින් ඉන්දියාවේ සංචාරයකට එක්වන බව සඳහන් වුවද, කාලසීමාව පිළිබඳ නිල සඳහනක් නොතිබුණි.
+In August, the Indian National Security Advisor was reported to visit India at Russian visit to India, but there was no official reference to the deadline.
 
-කෙසේ නමුත් ඉකුත්දා චීනයේ පැවති ෂැංහයි සහයෝගිතා සංවිධානයේ (SCO) සමුළුවේදී අගමැති මෝදි හා රුසියානු ජනාධිපතිවරයා  හමුවිය.
+However, at Shanghai Cooperation Organization in China, the Prime Minister Modiy and the Russian president meet.
 
-එහිදී නායකයින් දෙදෙනා පුටින්ගේ ලිමොසින් රථයේ ගමන්කර ඇති අතර, පැයක කාලයක් සංවාදයක ද නිරතව තිබේ.
+The two leaders were traveling in Putin's Limousine and was also in a conversation for an hour.
 
-ඉන්දියාව විසින් රුසියාවේ තෙල් මිලදී ගැනීමට විරෝධය පලකරමින් අමෙරිකාව විසින් මේ වනවිට ඉන්දියාවට දඬුවම් තීරු බද්දක් පනවා තිබේ.
+India has protested against India by India, USA is a punishment tax on India.
 
-එවන් පසුබිමක රුසියානු ජනපතිගේ මෙම සංචාරය ඉන්දීය - අමෙරිකා ද්විපාශ්වික සබඳතා තවදුරටත් බලපෑමට ලක්වනු ඇති බව සඳහන්.
+It is said that the visit of Russian President will be influenced by Indian-American bilateral tests.
 
 ◼️
 
 [Data](articles/590a205b.json)
 
+[Extended Data](ext_articles/590a205b.ext.json)
+
 ---
 
-### Vijayadasamy Pooja at Navalapitiya Municipal Library
+### மோதரையில் 10 கைக்குண்டுகள் மீட்பு: நீதவான் அதிரடி உத்தரவு
 
-*2025-10-01 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226618) · `ta`
+*2025-10-01 17:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோதரையில்-10-கைக்குண்டுகள்-மீட்பு-நீதவான்-அதிரடி-உத்தரவு/175-365592) · `ta`
 
-The Navaratri Vijayadasamy Pooja was held on Wednesday (01) at the Library Complex organized by the Public Library of Nawalapitiya.
+மோதரை (முகத்துவாரம்)  அளுத் மாவத்தை பகுதியில் உள்ள நகராட்சி வேலைத்தளத்துக்கு  அருகில்   ஒரு பாடசாலை பையில் இருந்து கைப்பற்றப்பட்ட 10 கைக்குண்டுகளை செயலிழக்கச் செய்து, அரசாங்க பகுப்பாய்வாளரின் அறிக்கையை சமர்ப்பிக்குமாறு கொழும்பு மேலதிக நீதவான் ஓஷத மிகாரா மகாராச்சி மோதரை பொலிஸாருக்கு புதன்கிழமை (01) உத்தரவிட்டார்.
 
-In the event of the event, the Nawalapitiya Municipal Council, Deputy Chairman, Members and Municipal Council staff made good arrangements.
+பயங்கரவாத புலனாய்வுப் பிரிவிற்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் பி அறிக்கை தாக்கல் செய்யப்பட்டதாக சிறப்பு பொலிஸ் குழு முன்வைத்த உண்மைகளை கருத்தில் கொண்டு இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+சந்தேக நபர்களை அடையாளம் காண சிசிடிவி காட்சிகள் மூலம் விசாரணைகள் நடத்தப்பட்டு வருவதாக பொலிஸார் நீதிமன்றத்தில் மேலும் தெரிவித்தனர்.
+
+முன்வைக்கப்பட்ட உண்மைகளை கருத்தில் கொண்டு, குண்டுகளை செயலிழக்கச் செய்ய அனுமதி மேலதிக கூடுதல் நீதவான், அரசாங்க பகுப்பாய்வாளரின் அறிக்கையை பெறுமாறு உத்தரவிட்டார்.
 
 ◼️
 
-[Data](articles/c1db163c.json)
+[Data](articles/3ed79b15.json)
 
-[Extended Data](ext_articles/c1db163c.ext.json)
+---
+
+### Sri Lanka Customs revenue exceeds 37 percent in September
+
+*2025-10-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-revenue-exceeds-37-percent-in-september-242491/) · `en`
+
+ECONOMYNEXT – Revenue collected by Sri Lanka Customs jumped around 37 percent in September compared to the monthly target, the government data showed.
+
+Sri Lanka Customs has set a revenue target of 2,115 billion rupees for this year, 36.2 percent higher than last year’s 1,553 million rupees.
+
+The monthly target for September this year was 185 billion rupees, but the government has achieved 253.2 billion rupees, the official Customs data showed,
+
+The Customs has achieved 1,724 billion in revenue during the first nine months of this year compared to 1,116.1 billion rupees in the same period last year, showing a 54.5 percent growth in the collection.
+
+Customs also exceeded its revenue target by 16 percent in the first nine months of this year, the data showed.
+
+Sri Lanka Customs revenue jump is largely due to stronger enforcement, improved valuation practices, and a rebound in import volumes after years of contraction.
+
+...
+
+[Data](articles/9e419e55.json)
 
 ---
 
@@ -195,6 +451,22 @@ The current situation of the Tehiyakattai Resource Hospital has told the officia
 
 ---
 
+### Sri Lanka rupee stronger against dollar, bond yields up
+
+*2025-10-01 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-up-242506/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.47/53 to the US dollar on Wednesday, from 302.55/60 the previous day, while bond yields closed up, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.30/40 percent, up from 8.25/35 percent.
+
+A bond maturing on 15.12.2032 closed at 10.50/60 percent, up from 10.45/50 percent.. (Colombo/Oct1/2025)
+
+◼️
+
+[Data](articles/85efbe32.json)
+
+---
+
 ### 10 bombs found in Modernan summon 10 bombs
 
 *2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/101-680586) · `si`
@@ -217,23 +489,25 @@ Police ordered the police to submit the investigation into the courts soon.
 
 ---
 
-### මෝදරින් හමුවූ බෝම්බ 10යේ රස පරීක්ෂක වාර්තා කැඳවයි
+### 10 bombs found in Modernan summon 10 bombs
 
 *2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/1-680586) · `si`
 
-මෝදර අලුත් මාවත ප්‍රදේශයේ නගර සභා වැඩ බිමක් අසල පාසල් බෑගයක තිබී අත්අඩංගුවට ගත්  අත්බෝම්බ 10 ය නිශ්ක්‍රීය කර   රජයේ රස පරීක්ෂක වාර්තා කැඳවීමට  කොළඹ අතිරේක මහේස්ත්‍රාත් ඕෂද මිගාර මහාරච්චි මහතා මෝදර පොලිසියට අද (01) නියෝග කළේය.
+Colombo Additional Magistrate Ozha Migara Maharachchi has ordered the Modara Police to see the government's skins have been abusive in the Municipal Council workplace.
 
-ත්‍රස්ත විමර්ශන කොට්ඨාසයට ලද තොරතුරක් මත විශේෂ පොලිස් කණ්ඩායමක්  මගින් මෙම බෝම්බ තොගය අත් අඩංගුවට ගත් බවට බී වාර්තාවක් ගොනුකරමින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් පසුව මෙම නියෝගය නිකුත් කළේය.
+The order was issued after considering the procedures made by a special police team to have received information on information received by the Terrorist Investigation Division.
 
-පොලිසියේ වැඩිදුරටත් අධිකරණයට කරුණු දක්වමින් කියා සිටියේ  සැකකරුවන් අනාවරණය කර ගැනීම සඳහා සීසීටිවී දර්ශන ඔස්සේ විමර්ශන සිදු කරන බවය.
+The police said further court said that investigations are conducted through CCTV footage to detect suspects.
 
-ඉදිරිපත් කළ කරුණු සලකා බැලූ අතිරේක මහේස්ත්‍රාත්වරයා බෝම්බ නිස්ක්‍රීය කිරීමට අවසර ලබාදෙමින් රජයේ රසපරීක්ෂක වාර්තාවක් කැඳවීමටද නියෝග කළේය.
+Considering the submissions, the Additional Magistrate ordered the Government Analysting report to address the bombs.
 
-විමර්ශන ප්‍රගතිය කඩිනමින් අධිකරණයට ඉදිරිපත් කරන ලෙසටද පොලිසියට නියෝග කළේය.
+Police ordered the police to submit the investigation into the courts soon.
 
 ◼️
 
 [Data](articles/a8f2b693.json)
+
+[Extended Data](ext_articles/a8f2b693.ext.json)
 
 ---
 
@@ -275,23 +549,25 @@ The three-storey emergency medical treatment unit is scheduled to be provided wi
 
 ---
 
-### ’’ලංකාවට ලෝකයෙන් ඉහළ පිළිගැනීමක්’’
+### "Highly in Welcome to Sri Lanka
 
 *2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකවට-ලකයන-ඉහළ-පළගනමක/1-680585) · `si`
 
-ලංකාව ගැන ලෝකයේ ඉහළ පිළිගැනීමක් සහ යහපත් ප්‍රතිරූපයක් ගොඩනැගෙමින් පවතින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Health and Mass Media Minister Nalinda Jayatissa said that there is a high number of recognition and a good image of Sri Lanka.
 
-බොහෝ රටවල් ලංකාව සමඟ සුහදශීලී ගණුදෙනු සඳහා අවතීරණ වී ඇති බවද අමාත්‍යවරයා කීය.
+The Minister said that many countries have begun to be friendly transactions with Sri Lanka.
 
-අමාත්‍යවරයා මේ බව කීවේ දර්ගා නගරය ප්‍රාදේශීය රෝහලේ  ඉදිකරන ලද තෙමහල් නව කායික රෝග වාට්ටු සංකීර්ණය ජනතා අයිතියට පත් කිරීමේ අවස්ථාවට එක් වෙමිනි.
+The Minister made this observation at the opening of the new Physical Disease Ward of the New Physical Disease Complex, which was built in Dharga Town.
 
-චීන රජයේ ආධාර යටතේ තෝරාගත් රෝහල් 13 ක සෞඛ්‍ය පහසුකම් වැඩිදියුණු කිරීමේ ව්‍යාපෘතිය යටතේ රුපියල් බිලියනයක  වියදමින් මෙය ඉදි කර තිබෙි.
+It was constructed at a cost of a health facility to improve the 13-selected hospitals under the Chinese government's assistance.
 
-මහල් 03 කින් සමන්විත මෙම ගොඩනැගිලි සංකීර්ණය ඇඳන් 04 කින් යුත් හදිසි ප්‍රතිකාර ඒකකයක්, ඇඳන් 96 කින් සමන්විත ළමා සහ මාතෘ වාට්ටු ද ඇතුළු වාට්ටු 04 කින් ද බාහිර රෝගී අංශය ඇතුළු අංශ ගණනාවකින් ද සමන්විත වන අතර මෙම කායික රෝග වාට්ටු සංකීර්ණයට අවශ්‍ය වෛද්‍ය උපකරණ සහ අනෙකුත් උපකරණ සෞඛ්‍ය අමාත්‍යංශය මගින් ලබා දීමට  නියමිතය.
+The three-storey emergency medical treatment unit is scheduled to be provided with a four-bed-wards, including 96 beds, and the OPD of the OPD.
 
 ◼️
 
 [Data](articles/d287aa97.json)
+
+[Extended Data](ext_articles/d287aa97.ext.json)
 
 ---
 
@@ -315,21 +591,25 @@ Meanwhile, Waranga has passed the advance of Twenty20 gellabors.
 
 ---
 
-### තාබුගලට අධිකරණයේ පෙනී සිටින්නැයි නියෝග
+### Orders to appear in the Tubungala court
 
 *2025-10-01 17:06:32* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තබගලට-අධකරණය-පන-සටනනය-නයග/1-680584) · `si`
 
-රුපියල් මිලියන 194ක බදු මුදලක්  නොගෙවා පැහැර හැරියේ යැයි කියන  අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාබුගල  විත්තිකරුට වැට් බදු වාර්තා ඉදිරිපත් නොකිරීම සම්බන්ධයෙන්  නොවැම්බර් 25 දින අධිකරණයේ  පෙනී සිට කරුණු දක්වන  ලෙසට කොළඹ අතිරේක මහේස්ත්‍රාත්  සජිවිකා ඉයන්දල මහත්මිය සිතාසී නිකුත් කරමින් නියෝග කළාය.
+Sri Lanka's Chairman of Sri Lanka, the Chairman of Sri Lanka has issued a VAT to the court on November 25 regarding the defense of VAT.
 
-අවුරා ලංකා සමාගම වෙනුවෙන් 2019 තුන්වෙනි කාර්තුව සඳහා ලබා දිය යුතු වැට්  බදු වාර්තා ඉදිරිපත් නොකිරීම සම්බන්ධයෙන් දේශීය ආදායම් කොමසාරිස්වරයා පැවරූ පැමිණිල්ලක් සලකා බැලීමෙන් පසුව මෙම සිතාසිය නිකුත් කළාය.
+After considering a complaint with the Commissioner of Inland Revenue, the Commissioner of Inland Revenue issued a complaint with a complaint that the Commissioner of Inland Revenue had to be submitted for the year 2019 for the year 2019.
 
-දෙශීය ආදායම් කොමසාරිස්වරයා වෙනුවෙන් පෙනී සිටි නීතිඥ දිනේෂ් පෙරේරා මහතා කරුණු දක්වමින් කියා සිටියේ විත්තිකරුට අධිකරණයේ පෙනී සිටීමට සිතාසි නිකුත් කර තිබුණද ඔහු  පෙනී සිට නොමැති බවය.
+Attorney-at-Law Dinesh Perera appearing on behalf of the Commissioner of the Department of Revenue Dinesh Perera said that the accused had not been issued to appear in court.
 
-පැමිණිල්ලේ කරුණු සලකා බැලූ අතිරේක මහේස්ත්‍රාත්වරිය තලංගම පොලිසිය ස්ථානාධිපතිවරයා හරහා නැවත සිතාසි නිකුත් කරන ලෙසට නියෝග කළාය.
+The Additional Magistrate was ordered to issue the Talangama Police through the OIC through the OIC.
 
-...
+The Commissioner of Inland Revenue has filed another case against the default of 2022/2023, the Commissioner of Investigation to be called on December 15, Rs. 194 million.
+
+◼️
 
 [Data](articles/3f80d26e.json)
+
+[Extended Data](ext_articles/3f80d26e.ext.json)
 
 ---
 
@@ -355,19 +635,21 @@ The Commissioner of Inland Revenue has filed another case against the default of
 
 ---
 
-### කුලී රථ රියදුරෝත් මැතිසබයට
+### Taxi drivers also to the comment
 
 *2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කල-රථ-රයදරත-මතසබයට/1-680583) · `si`
 
-කුලී රථ හිමිකරුවන්ගේ සහ රියදුරන්ගේ ජාතික එකමුතුවේ නියෝජිතයෝ පිරිසක්  ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවට සිය යෝජනා සහ අදහස් ඉදිරිපත් කළහ.
+Representatives of taxi owners and drivers were supporting the Ministry Advisory Committee on Transport, Highways, Ports and Civil Aviation.
 
-ප්‍රවාහන ක්‍ෂේත්‍රය හා සම්බන්ධ නීතිමය රාමුව ශක්තිමත් කීරීම අරමුණු කර ගනිමින් මෙසේ කරුණු ඉදිරිපත් කර ඇත්තේ එම අනු කාරක සභාව එහි සභාපති  පාර්ලිමේන්තු මන්ත්‍රීනී නීතිඥ ලක්මාලි හේමචන්ද්‍ර මෙනෙවියගේ ප්‍රධානත්වයෙන් පසුගිය 26 වැනිදා පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.
+The subsidiary, aimed at strongest the legal framework associated with the transportation industry, was presented when he met the Chairman of the Parliamentary Lakmali Hemachandra on the 26th.
 
-මෙහිදී අනු කාරක සභාව පෙන්වා දුන්නේ රියදුරා, මගියා යන සියලු පාර්ශ්වයන්ට සාධාරණ ආකාරයෙන් ප්‍රවාහන අංශය සම්බන්ධයෙන් නිර්නායක සකස් විය යුතු බවයි. කුලී රථ කර්මාන්තය  සම්බන්ධයෙන් එම වෘත්තීන්වල නිරතවන පුද්ගලයින්ගේ අදහස් සහ යෝජනා මෙහිදී වැදගත් වන බව අනු කාරක සභාව පෙන්වා දුන්නේය. මේ අනුව පැමිණි නියෝජිතයින් තම අදහස් සහ යෝජනා අනු කාරක සභාවට ඉදිරිපත් කළ අතර ඒවා ලිඛිතව ඉදිරියේදී අනු කාරක සභාවට වඩාත් විස්තරාත්මකව ලබාදීමටද එකඟ විය. මේ අනුව  ප්‍රවාහනය සම්බන්ධ ප්‍රතිපත්ති සකස් කිරීමේදී මෙම යෝජනාද සලකා බලන බව ඇය ප්‍රකාශ කළාය.
+The Sub Committee pointed out that the driver, the passenger should be prepared in criteria for the fair transport sector. The Deputy Committee pointed out that the views and proposals of those professionals are concerned about the taxi industry. Accordingly, the representatives presented their views and suggestions to the respondous and agreed to the Chamber of Committe in writing.. She said that the proposals will be considered when preparation of transport policies.
 
 ◼️
 
 [Data](articles/2997c69f.json)
+
+[Extended Data](ext_articles/2997c69f.ext.json)
 
 ---
 
@@ -428,6 +710,24 @@ Due to the severe drought, the work of plantation workers has also been reduced.
 [Data](articles/7eeeaa04.json)
 
 [Extended Data](ext_articles/7eeeaa04.ext.json)
+
+---
+
+### හැට දාහකට අලුතින් රැකියා
+
+*2025-10-01 16:55:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හට-දහකට-අලතන-රකය/1-680582) · `si`
+
+විවිධ ක්ෂේත්‍ර සඳහා තරුණ තරුණියන්  හැටදාහක් පමණ අලුතින් බඳවා ගැනීමට අපේක්ෂා කරන බව රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය  ආචාර්ය චන්දන අබේරත්න මහතා පැවසීය.
+
+එම ප්‍රමාණය ඉක්මවා හැටදහසක පමණ රැකියා ප්‍රමාණයක් ලබාදීමට රජය තීරණය කර ඇති  බවද ඔහු සඳහන් කළේය.
+
+මේ අතර කළමනාකරණ  සේවා පත්වීම් 1890ක් පසුගියදා  දුන් බව පැවසූ අමාත්‍යවරයා රට  පුරා තරග විභාග පවත්වා එම පත්වීම්  දුන් බවද ප්‍රකාශ කළේය.
+
+තරග විභාගවලින් තොරව හිතවත් කම් මත රැකියා  නොදෙන බව චන්දන අබේරත්න මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/e4d0f2d7.json)
 
 ---
 
@@ -499,6 +799,28 @@ Sri Lanka's fanny Hasaranga is a place in this category and arrives in the 6th p
 
 ---
 
+### Sri Lanka stocks close up 0.33-pct
+
+*2025-10-01 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-33-pct-242482/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s All Share Price Index (ASPI) ended 0.33 percent higher on Wednesday, data on its site showed.
+
+The ASPI climbed 72.70 points to end at 21,851.30; while the S&P SL20 closed 0.20 percent, or 12.26 points higher, at 6,138.79.
+
+Top contributors to the ASPI were Melstacorp (up 2.50 rupees at 173.50), Hemas Holdings (up 0.60 rupees at 33.50), Diesel & Motor Engineering (up 114.00 rupees at 2,184.75), People’s Leasing & Finance (up 1.10 rupees at 27.40) and R I L Property (up 1.70 rupees at 38.20).
+
+Market turnover was 6.5 billion rupees, while the share volume was 225,207,446.
+
+Elsewhere, Indian equity markets ended higher on Wednesday as investor interest improved after the Central Bank eased rules for lending to capital markets and large corporations.
+
+The Nifty 50 index rose 0.92 percent to 24,836.30, while the BSE Sensex moved 0.89 percent up to 80,983.31.
+
+...
+
+[Data](articles/59af12ca.json)
+
+---
+
 ### The US government shuts down
 
 *2025-10-01 16:37:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමරකන-ආණඩව-වස-දමය/101-680581) · `si`
@@ -514,6 +836,22 @@ Republicans do not have enough number of seats in Saint, even though the Republi
 [Data](articles/08a38508.json)
 
 [Extended Data](ext_articles/08a38508.ext.json)
+
+---
+
+### ඇමෙරිකානු ආණ්ඩුව වසා දමයි
+
+*2025-10-01 16:37:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමරකන-ආණඩව-වස-දමය/1-680581) · `si`
+
+වසර හයකට පසු ප්‍රථම වතාවට අද (01) එරට වේලාවෙන් පෙරවරු 12 ට ඇමෙරිකානු ආණ්ඩුව වසා දැමුණේය. මෙම මස සිට ඉන් ඉදිරියට රාජ්‍ය සේවා අඛණ්ඩව පවත්වා ගැනීමට අරමුදල් සැපයීම සඳහා ගෙන ආ අයවැය පනත් කෙටුම්පත සම්මත කිරීම සඳහා ඇමෙරිකානු සෙනෙට් සභාවේ සිටින රිපබ්ලිකන් සහ ඩිමොක්‍රටික් පාක්ෂිකයන් එකඟතාවයකට පැමිණීමට නොහැකි වීම ආණ්ඩුව වසා දැමීමට හේතුව විය.
+
+ඇමෙරිකානු ආණ්ඩුව වසා දැමීමත් සමග සියලු රාජ්‍ය සේවා නොවුණත් ඇතැම් රාජ්‍ය සේවා අද (01) අත්හිටු විණ. අරමුදල වෙන් කිරීමට තිබූ අවසන් කාල සීමාව පසුවීමත් සමග ඇමෙරිකානු ආණ්ඩුව වහාම වසා දැමුණු අතර ඉන් අනතුරුව ඩිමෝක්‍රටික් සහ රිපබ්ලිකන් පාක්ෂිකයන් එකිනෙකා මත වරද පැටවූවේය. අයවැය පනත් කෙටුම්පත ගෙන ආ අවස්ථවේදී වත්මන් වියදම් තවත් සති 7 ක කාලයක් ඉදිරියට ගෙනයා යුතු බවට රිපබ්ලිකන්වරු ඩිමොක්‍රටික් පාක්ෂිකයන්ට බල කර සිටියේය.
+
+රිපබ්ලිකන්වරුට කොංග්‍රසයේ සහ සෙනෙට් සබ්වේ බලය තිබුණත් සෙන්ට් සභාවේ ප්‍රමාණවත් ආසන සංඛ්‍යාවක් රිපබ්ලිකන්වරුන්ට නොමැත. ඒ හේතුවෙන් පනත් කෙටුම්පතක් සෙන්ට් සභාවේ සම්මත කිරීමට රිපබ්ලිකන් සාමාජිකයන්ට ඩිමොක්‍රටික් පාක්ෂිකයන් 60 දෙනකුගේ ඡන්දය අවශ්‍ය වේ.
+
+...
+
+[Data](articles/17001ccd.json)
 
 ---
 
@@ -815,6 +1153,22 @@ The Ministry of Environment has announced in the Supreme Court on Wednesday (01)
 
 ---
 
+### Sri Lanka tourist arrivals rise 30.2-pct in September
+
+*2025-10-01 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-rise-30-2-pct-in-september-242365/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals increased 30.2 percent from a year ago to 158,971 in September 2025, data from the island’s tourism promotion office showed.
+
+There were 49,697 visitors from India in September, making up 31.3 percent of total arrivals, followed by the UK with 10,752 which made up 6.8 percent of arrivals.
+
+There were 10,527 visitors (6.6%) from China, 9,344 from Germany (5.9%), and 9,105 from Australia (5.7%).
+
+◼️
+
+[Data](articles/5be08abe.json)
+
+---
+
 ### I. Na. Meeting of the Minister of Health and Media in charge of the Population Fund
 
 *2025-10-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226583) · `ta`
@@ -832,6 +1186,32 @@ Improving the health of the country and the health of the country, the provision
 [Data](articles/3efd17ce.json)
 
 [Extended Data](ext_articles/3efd17ce.ext.json)
+
+---
+
+### Sri Lanka vehicle imports spend $917mn on to Aug 2025, forex inflows $18.9bn
+
+*2025-10-01 15:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-vehicle-imports-spend-917mn-on-to-aug-2025-forex-inflows-18-9bn-242483/) · `en`
+
+ECONOMYNEXT – Sri Lanka has spent 198.9 million US dollars on personal vehicles in August 2025, central bank data showed, while commercial vehicles cost another 50.2 million dollars, against current forex earnings of 18.9 billion US dollars.
+
+Up to August Sri Lanka has spent 705 million dollars to import personal vehicles.
+
+Commercial vehicles cost another 212.5 million US dollars, taking the total to 917 million US dollars up to August.
+
+Sri Lanka’s gross foreign exchange earnings up to August was 18.97 billion dollars, compared to vehicle imports of 917 million US dollars.
+
+Investment goods imports rose 21.3 percent to 2,597 million US dollars.
+
+Macro-economists usually cause economic crises by printing money to cut rates.
+
+The printed money then ends up as investment credit and investments goods imports.
+
+In the crisis year of 2021, when cars and most other import were banned, money printed by macro-economists drove investment goods imports to 4.46 billion US dollars.
+
+...
+
+[Data](articles/24b4285e.json)
 
 ---
 
@@ -1289,6 +1669,26 @@ Accordingly, the price of a 12.5kg domestic gas cylinder is Rs.. 3,690, a 5kg of
 
 ---
 
+### Sri Lanka sells Rs43bn treasury bills, yields down on short term
+
+*2025-10-01 14:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs43bn-treasury-bills-yields-down-on-short-term-242471/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 43 billion rupees of Treasury bills, with yields down on the 3-month and flat across the 6- and 12-month bills, data from the state debt office showed.
+
+The 3-month yield was down 4 basis points at 7.53 percent, with 8 billion rupees of bills offered and 5 billion sold.
+
+The 6-month yield was unchanged at 7.89 percent, with 25 billion rupees offered and 35.93 billion sold.
+
+The 12-month yield was unchanged at 8.02 percent with 10 billion rupees offered and 2.06 billion rupees bills sold.
+
+The 3-month and 12-month bills are available on tap at the weighted average yield.
+
+◼️
+
+[Data](articles/db6dd2d2.json)
+
+---
+
 ### Notice of October Gas Price
 
 *2025-10-01 14:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-மாத-எரிவாயு-விலை-குறித்த-அறிவிப்பு/175-365584) · `ta`
@@ -1382,6 +1782,20 @@ Accordingly, the price of a 12.5kg domestic gas cylinder of Rs 3,690, Rs.
 [Data](articles/7f7ee24d.json)
 
 [Extended Data](ext_articles/7f7ee24d.ext.json)
+
+---
+
+### ඩොලර් බිලියනයක වාහන ගෙන්වා අවසන්, ඩොලර් බිලියන 1.6ක ණයවර ලිපි විවෘත කරලා
+
+*2025-10-01 14:38:01* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලර්-බිලියනයක-වාහන-ගෙන්වා-අවසන්--ඩොලර්-බිලියන-1-6ක-ණයවර-ලිපි-විවෘත-කරලා/11-418844) · `si`
+
+වාහන ආනයනය විවෘත කිරීමෙන් පසුව මේ වන විට ඩොලර් බිලියනයක වාහන ආනයනය කර අවසන්ව ඇති බවත් විවෘත කර ඇති ණයවර ලිපිවල වටිනාකම ඇමෙරිකානු ඩොලර් බිලියන 1.6 ඉක්මවන බවත් ජනපති අනුර කුමාර දිසානායක මහතා පැවැස‍ීය.
+
+ජපානයේ ලාංකික ප්‍රජාව අමතමින් ඔහු මේ බව පැවැසීය. වාහන ආනයනය සඳහා වෙළ‌ ඳ පොළ විවෘත කළේ ඉතාමත් ප්‍ර වේශමෙන් බවද ඔහු පැවැසීය.මේ වන විට ලංකාවේ පවතින වාහන අවුරුදු 15කටත් වඩා පැරණි බවත් අනතුරු වැඩිවීමටද එය හේතුවෙක් බවත් ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/b8d142e3.json)
 
 ---
 
@@ -1560,395 +1974,5 @@ However, since the case being heard in the Court of Appeal has not yet been conc
 [Data](articles/d700bbdf.json)
 
 [Extended Data](ext_articles/d700bbdf.ext.json)
-
----
-
-### Children will have the best?
-
-*2025-10-01 14:06:27* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දරවනට-ලබනන-හදම-දද/2-680570) · `si`
-
-Such literary definitions cannot be limited to definition. The simplest idea of ​​the rights of the United Nations General Assembly on November 20, 1989, "Children under 18 people under 18 people under the age of 18."
-
-Abraham Lincoln, the President once said the child was not a small model of adults. The child's mind is like a white paper. Early it is very clean. Its first note, mother, father and siblings. Russia's leader Lenin said children should give the best thing. Mao Zedong, China, says that the world is the best character in the world.
-
-...
-
-[Data](articles/f1fd9d77.json)
-
-[Extended Data](ext_articles/f1fd9d77.ext.json)
-
----
-
-### Cocaine's drug sales of "Badovitta Rajitha" in a rented house; Three arrests!
-
-*2025-10-01 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226578) · `ta`
-
-Three suspects have been arrested by the Corruption Prevention Unit on Tuesday (30).
-
-The Corruption Prevention Unit has received information that Kokayi's drug is being sold in a house in Kaldude area.
-
-Subsequently, two suspects have been arrested in a roundup carried out by the Anti -Corruption Unit.
-
-Another man who had arrived in the car was arrested by the Anti -Corruption Unit.
-
-Investigations have revealed that the suspects were getting a house on a rental basis and engaged in cocaine's drug sales.
-
-The arrested trio will be produced before the Panadura Magistrate's Court, the Valana Anti -Corruption Unit said.
-
-◼️
-
-[Data](articles/2c9d50b9.json)
-
-[Extended Data](ext_articles/2c9d50b9.ext.json)
-
----
-
-### Litro Gas prices to remain unchanged in October
-
-*2025-10-01 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113107/litro-gas-prices-to-remain-unchanged-in-october-) · `en`
-
-The prices of Litro Gas domestic cylinder refills will remain unchanged for the month of October 2025, the Litro Gas Company has announced.
-
-Accordingly, the existing prices of LP gas cylinders will continue to apply throughout October.
-
-The prices for domestic LP Gas cylinders in the Colombo District are as follows:
-
-Earlier today, Laugfs Gas PLC announced that the company will not revise domestic LP gas prices for the month of October 2025.
-
-◼️
-
-[Data](articles/4302ee4d.json)
-
-[Extended Data](ext_articles/4302ee4d.ext.json)
-
----
-
-### Announcement on absorbing development officers to the teacher service
-
-*2025-10-01 14:02:03* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-අන්තර්ග්‍රහණය-කිරීම-ගැන-නිවේදනයක්/11-418843) · `si`
-
-2023 මාර්තු මස 25 වන දින පාසල්වල සේවය කරන සංවර්ධන නිලධාරීන් ඇතුළුව රජයේ සේවයේ නියුතු උපාධිධාරී නිලධාරීන් ගුරු සේවයට ඇතුළත් කිරීම සම්බන්ධයෙන් පැවැත්වීමට නියමිත ව තිබු තරග විභාගයට අදාළව ශ්‍රේෂ්ඨාධිකරණයේ විභාග වූ නඩු කටයුතු කිහිපයක් මේ වන විට අවසන්ව ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි. However, as the case of the Court of Appeal has not yet been completed, the decision will be carried out regarding the above examination.
-
-◼️
-
-[Data](articles/323b9f21.json)
-
-[Extended Data](ext_articles/323b9f21.ext.json)
-
----
-
-### Tourist arrivals to Sri Lanka surpass 1.7 million in 2025
-
-*2025-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113106/tourist-arrivals-to-sri-lanka-surpass-17-million-in-2025) · `en`
-
-The number of tourist arrivals to Sri Lanka so far in 2025 has surpassed 1.7 million.
-
-According to latest figures released by the Sri Lanka Tourism Development Authority (SLTDA), as of 28 September 2025, a total of 1,715,196 foreign nationals have arrived in the country.
-
-◼️
-
-[Data](articles/2f368f2d.json)
-
-[Extended Data](ext_articles/2f368f2d.ext.json)
-
----
-
-### Litro gas prices also an notice
-
-*2025-10-01 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215221) · `si`
-
-The company has informed the Litro Gas Ruin for the month following the monthly gas price revision.
-
-Accordingly, there is no amendment of Litro gas prices regarding this month.
-
-Accordingly, the price of a 12.5kg domestic gas cylinder is Rs.. While 3,690
-
-The price of a 2.3 kilogram gas cylinder is Rs. 694 remain unchanged.
-
-◼️
-
-[Data](articles/c6cfa860.json)
-
-[Extended Data](ext_articles/c6cfa860.ext.json)
-
----
-
-### Be Bribery Investigation Form
-
-*2025-10-01 13:58:39* · [`lankadeepalk`](https://www.lankadeepa.lk/features/අලලස-දෂණ-වමරශන-වධමතද/2-680569) · `si`
-
-The conversation with the Director General of Bribery or Corruption, the conversation with the Investigation Commission is focused on the attention of many.
-
-The reason for the conversation is to be advertised by a member of the JVP and a presidential candidate Nandana Gunatilleke in the media and social media networks.. Mr. Nandana Gunatilake has said that the UNP was the Secretary to the JVP, Deputy Minister of Public Security Sunil Watagala was the Secretary to the UNP.. Mr. Sunil Watagala said that the statement of Nandana Gunatilake was false, he was identified as the Ranga Gunatilake.
-
-However, this statement from Nandana Gunatilake has not done a bribery or corruption by the Commission or the Government or the Government or the Government. The Ranga Dissanayake has not issued a statement regarding this. Mr. Sunil Watagala made his statement saying that he was unaware whether he would take legal action on this matter.. Nandana Gunatilleke, "Bring me to courts ...
-
-...
-
-[Data](articles/1310020e.json)
-
-[Extended Data](ext_articles/1310020e.ext.json)
-
----
-
-### A sum of Rs.. A suspect and suspect arrested for defrauding Rs
-
-*2025-10-01 13:56:30* · [`adalk`](https://www.ada.lk/breaking_news/ස්ථිර-ඔප්පු-දෙන-බව-පවසා-රු--කෝටි-10ක්-වංචාකළ-සැකකරුවෙක්-හා-සැකකාරියෙක්-අල්ලයි/11-418842) · `si`
-
-According to a complaint lodged with a complaint received by the CID and 55 years suspect, a 43-year-old suspect was arrested in acquisition of fundamental consistence to the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/dda505b5.json)
-
-[Extended Data](ext_articles/dda505b5.ext.json)
-
----
-
-### U/The student is addicted to intoxication
-
-*2025-10-01 13:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-மாணவி-போதைக்கு-அடிமை/175-365581) · `ta`
-
-Although we have heard more of men being addicted to drug addiction, it has been revealed that women are addicted to heroin and ice into the Mawathagama area.. Padmasiri said.
-
-Investigations conducted by the Mawathagama police have revealed that her boyfriend was addicted to drug addiction and encouraged her to take intoxicated drugs like heroin and ice.. Investigations have also been found that the student is a student of education.
-
-◼️
-
-[Data](articles/535289e1.json)
-
-[Extended Data](ext_articles/535289e1.ext.json)
-
----
-
-### School student assaulted at hospital
-
-*2025-10-01 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215220) · `si`
-
-A teacher has been admitted to hospital with a meeting with a student of a public school in a public school.
-
-The attack took place this morning and the injured teachers are currently receiving treatment at the Moneragala Hospital.
-
-The student had assaulted the teacher due to questioning a mobile phone to school a mobile phone to school.
-
-◼️
-
-[Data](articles/c93df978.json)
-
-[Extended Data](ext_articles/c93df978.ext.json)
-
----
-
-### Do you want Asian Cup?
-
-*2025-10-01 13:49:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பை-வேண்டுமா-இதை-செய்யுங்கள்-மோசின்-நக்வி-அதிரடி/44-365580) · `ta`
-
-Indian Cricket Team won the championship title in the current Asian Cup series. However the Indian team has not been given the Asian Cup. In this context, the Pakistani media company has reported that Suryakumar Yadav, the captain of the Indian team, has said that the Asian Cricket Council chairman Mosin Naqvi has said that the trophy can be obtained.
-
-In the final of the Asian Cup last Sunday, Pakistan beat Pakistan by 5 wickets. Subsequently, the Indian team said that Mosin Naqvi, the Pakistani Cricket Board and the Chairman of the Asian Cricket Council, could not get the victory trophy.
-
-Mosin Naqvi said that I will give the trophy. The Indian team refused to accept it. Subsequently, according to the instructions of Mosin, an officer took the trophy with hand. This is controversial.
-
-...
-
-[Data](articles/720c7bbf.json)
-
-[Extended Data](ext_articles/720c7bbf.ext.json)
-
----
-
-### No Laugfs Gas price revision in October
-
-*2025-10-01 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113105/no-laugfs-gas-price-revision-in-october-) · `en`
-
-LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of October, 2025.
-
-This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
-
-The prices for LAUGFS Gas cylinders in the Colombo District are as follows:
-
-◼️
-
-[Data](articles/24a102f4.json)
-
-[Extended Data](ext_articles/24a102f4.ext.json)
-
----
-
-### Laugfs do not change the price of gas
-
-*2025-10-01 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215219) · `si`
-
-The company has informed LAUGFS gas prices on monthly price revision.
-
-The price of LAUGFS gas is not changed.
-
-Accordingly, the price of a 12.5 kilogram gas cylinder is Rs. 4,100 and the price of a 5 kg gas cylinder is Rs. 1,645.
-
-◼️
-
-[Data](articles/bff49803.json)
-
-[Extended Data](ext_articles/bff49803.ext.json)
-
----
-
-### Indonesia School Collapse: Over 90 Students Still Trapped
-
-*2025-10-01 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/indonesia-school-collapse-over-90-students-still-trapped) · `en`
-
-(DW): Indonesian officials and rescue workers continued their search for survivors on Wednesday, as some 91 students were still beilieved to be trapped under the rubble of a collapsed school building in Java.
-
-The multi-story boarding school collapsed on Monday during an ongoing illegal construction of a third and fourth floor. The structure fell as students were gathered in the hall for afternoon prayers.
-
-Most of those unaccounted for are boys between the age of 12 and 18. Female students were gathered in a different hall for prayers and managed to escape.
-
-More than 300 rescue workers, police officials and soldiers continue to work through the debris. Most rescues typically happen within 24 hours of a disaster with chances of survival decreasing after that.
-
-"Based on student attendance data, 91 people are suspected to be burried under building materials," national Disaster and Mitigation Agency spokesperson Abdul Muhari said late on Tuesday.
-
-...
-
-[Data](articles/0081b9d9.json)
-
-[Extended Data](ext_articles/0081b9d9.ext.json)
-
----
-
-### 69 killed in Philippines earthquake (video connection)
-
-*2025-10-01 13:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸ்-நிலநடுக்கத்தில்-69-பேர்-பலி-வீடியோ-இணைப்பு/50-365579) · `ta`
-
-At least 69 people were killed in a powerful earthquake in Central Philippines on Tuesday night (30). More than one hundred people were injured.
-
-Officials said that the 6.9 -magnitude earthquake, which occurred at around 10 pm on Tuesday (30), was trapped in houses, nightclubs and other businesses in the outer rural cities of Bogo and Sepu province.
-
-Rescue workers rushed on Wednesday (01) to find survivors. Army troops, police and civilians were involved in the search for survivors, with the support of paghos and snake dogs.
-
-Officials said that the center of the earthquake in an underwater fortress in a depth of 5 kilometers (3 miles) was about 19 kilometers (12 miles) in the northeast of the coastal city of Poko, the coastal city of Poko, where about 90,000 people live in the state of Sepu.
-
-Officials said the number of casualties in Bogo was expected to increase. They said that incessant rain and damaged bridges and roads were interrupted in a competition to save lives.
-
-◼️
-
-[Data](articles/d635f9a0.json)
-
-[Extended Data](ext_articles/d635f9a0.ext.json)
-
----
-
-### Another arrested with drugs
-
-*2025-10-01 13:43:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-20ක-මත-දරවය-සමඟ-අයක-අතඅඩගවට/101-680568) · `si`
-
-The Colombo North North Division Investigation Bureau says that a person has been arrested with alcohol, alcohol and alcohol worth Rs.
-
-The suspect was in possession of 270 kg of Hash drugs, 408 drugs and 200 slices and 7400 bats.
-
-A group of officers of the Colombo North Division Investigation area raided a house in Siriwardena Siriwardena Siriwardena Road, the suspect had been arrested with drugs.
-
-Police say that the suspect was interrogated in the organized crime and the drug trafficking of the drug operating in the area.. The suspect was a 38 year old man of the Motakkuliya.
-
-◼️
-
-[Data](articles/4765919c.json)
-
-[Extended Data](ext_articles/4765919c.ext.json)
-
----
-
-### Another arrested with drugs
-
-*2025-10-01 13:43:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-20ක-මත-දරවය-සමඟ-අයක-අතඅඩගවට/1-680568) · `si`
-
-The Colombo North North Division Investigation Bureau says that a person has been arrested with alcohol, alcohol and alcohol worth Rs.
-
-The suspect was in possession of 270 kg of Hash drugs, 408 drugs and 200 slices and 7400 bats.
-
-A group of officers of the Colombo North Division Investigation area raided a house in Siriwardena Siriwardena Siriwardena Road, the suspect had been arrested with drugs.
-
-Police say that the suspect was interrogated in the organized crime and the drug trafficking of the drug operating in the area.. The suspect was a 38 year old man of the Motakkuliya.
-
-◼️
-
-[Data](articles/a3e6d492.json)
-
-[Extended Data](ext_articles/a3e6d492.ext.json)
-
----
-
-### Four persons committee seeking Dehiattakandiya Hospital
-
-*2025-10-01 13:42:25* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිඅත්තකණ්ඩිය-රෝහලේ-ගැටලුව-සොයන්න-සිව්-පුද්ගල-කමිටුවක්/11-418841) · `si`
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa has instructed Health and Mass Media Secretary to Dr. Anil Jasinghe to find out about the condition of the Dehiatakandiya Base Hospital.
-
-Accordingly, the Secretary to the Secretary to the Ministry of Health and Mass Media and the Media Role has taken steps to appoint a four-person committee.
-
-Deputy Director General of Health and Mass Media Association (Investigation) General (Investigation) General (Investigation) General (Primary Health Services) (Primary Health Services). Mr. Sarathchandra Kumaramas is acting and other members of the Ministry (Emergency) II HPP. Jayawickrama, Investigation Officer KMDL. Amaratunga is acting.
-
-The Secretary of the Ministry of Health and Mass Media has informed the above committee to submit a report immediately after the properties of Dehiattakandiya Base Hospital.
-
-◼️
-
-[Data](articles/2216728f.json)
-
-[Extended Data](ext_articles/2216728f.ext.json)
-
----
-
-### USD 1 billion in vehicles imported in 8 months, Aug records highest expenditure
-
-*2025-10-01 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113104/usd-1-billion-in-vehicles-imported-in-8-months-aug-records-highest-expenditure-) · `en`
-
-Following the lifting of restrictions on vehicle imports, the Central Bank of Sri Lanka (CBSL) has reported that the country spent US$1,007.5 million on vehicle imports during the eight-month period from January to August 2025.
-
-This was stated in the External Sector Performance Report for August 2025, released by the CBSL.
-
-The highest monthly expenditure on vehicle imports this year was recorded in August 2025, totaling US$255.7 million.
-
-The monthly expenditure on vehicle imports into the country for 2025 is shown below in millions of US dollars:
-
-◼️
-
-[Data](articles/2c615f44.json)
-
-[Extended Data](ext_articles/2c615f44.ext.json)
-
----
-
-### Mahanama teacher hospitalized due to the attack on a student on World Children's Day
-
-*2025-10-01 13:31:30* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-ළමා-දිනයේදී-ශිෂ්‍යයෙකුගේ-පහරදීමෙන්-මොනරාගල-මහානාමයේ-ගුරුවරයෙක්-රෝහලේ/11-418840) · `si`
-
-Police say that a teacher has been admitted to hospital with a student of the 11th Grade 11 student of the Moneragala Mahanama National School.
-
-The teacher in the Moneragala National School was organized to mark the World Children's Day, while attending the meeting room, one student was asked where the teacher was in the pocket.
-
-At that time, the student had bowed the teacher at the time, while the teacher tried to submit the student to the teacher in charge of the teacher, the student was attacked by the teacher's cheek. After the attack, the student had fled the school.
-
-Later, the teacher has been admitted to the Moneragala district hospital to get the principal and receiving treatment. The teacher, who was injured in the incident, said that he tried to calm the student, but he was assaulted. Moneragala Police are conducting further investigations
-
-◼️
-
-[Data](articles/2516fe26.json)
-
-[Extended Data](ext_articles/2516fe26.ext.json)
-
----
-
-### තාජුදීන් ඝාතනයේ හඬ පට හැංගු ලොක්කන් මේ ආණ්ඩුවෙත් ඉන්නවා
-
-*2025-10-01 13:26:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-ඝතනය-හඬ-පට-හග-ලකකන-ම-ආණඩවත-ඉනනව/1-680567) · `si`
-
-තාජුඩීන්ගේ බී වාර්තාව වැරදියට ලියපු අය පවා  මේ ආණ්ඩුවේ සිටින බව සමගි  ජන බලවේගයේ කොළඹ දිස්ත්‍රික්  පාර්ලිමේන්තු මන්ත්‍රී මුජිබර්  රහුමාන් මහතා පැවසීය
-
-තාජුදීන්ගේ ඝාතනය සිදු වූ දින අරලියගහ මන්දිරය සහ නාරාහෙන්පිට  පොලිසිය අතර කෙරුණු  දුරකථන සංවාද හතළිහකට  අදාල  වාර්තාව දුරකතන සමාගමක   ප්‍රධානීන් හැංගූ බව කී මන්ත්‍රීවරයා එදා  පාලකයන්ට  හිතවත්ව සිටි ඒ දුරකථන සමාගම් ලොක්කන්   දැන් ජනාධිපතිතුමා ළඟත් සිටින බව ප්‍රකාශ කළේය.
-
-පාස්කු  ඉරුදින  ප්‍රහාරයට අදාළව විශ්වාසභංග යෝජනාවක්වත් ගේන්නවත්  මේ ආණ්ඩුව ඉඩ නොදෙන බව රහුමාන් මහතා පැවසීය
-
-◼️
-
-[Data](articles/e224200c.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 13:57:25**
+As of **2025-10-01 13:41:07**
 
 ## Newspaper Stats
 
-*Scraped **80,154** Articles*
+*Scraped **80,151** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 531
 lankadeepalk | 564
 dbsjeyarajcom | 637
-bbccomsinhala | 715
+bbccomsinhala | 714
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,711
+adalk | 7,709
 adaderanalk | 10,328
 tamilmirrorlk | 11,968
 virakesarilk | 13,085
@@ -27,27 +27,25 @@ adaderanasinhalalk | 13,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,151 (100.0%) of 80,154 articles have been extended.
+80,150 (100.0%) of 80,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### Recovery of 10 handbags out of 100
+### 100 இல் 10 கைக்குண்டுகள் மீட்பு
 
 *2025-10-01 13:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-இல்-10-கைக்குண்டுகள்-மீட்பு/175-365578) · `ta`
 
-The Terrorist Investigation Unit, which is investigating the suspects who escaped with 100 handguns, recovered 10 of them in the confrontation yesterday.
+100 கைக்குண்டுகளுடன் தப்பிச் சென்ற சந்தேக நபர்களை விசாரிக்கும் பயங்கரவாத புலனாய்வுப் பிரிவு (TID), நேற்று மோதரையில் அவற்றில் 10ஐ மீட்டது.
 
-Police have arrested three suspects in Kiribathkodai and Chettikulam with T-56 assault rifle and 86 hand grenades.
+கிரிபத்கொடை மற்றும் செட்டிக்குளத்தில் மூன்று சந்தேக நபர்களை பொலிஸார் முன்னதாக T-56 தாக்குதல் துப்பாக்கி மற்றும் 86 கைக்குண்டுகளுடன் கைது செய்தனர்.
 
-Investigations later revealed that several more suspects escaped with about 100 grenades. The rescue operation was made during a series of measures associated with the initial arrests.
+பின்னர் நடத்தப்பட்ட விசாரணைகளில், மேலும் பல சந்தேக நபர்கள் சுமார் 100 கையெறி குண்டுகளுடன் தப்பிச் சென்றது தெரியவந்தது. ஆரம்ப கைதுகளுடன் தொடர்புடைய தொடர் நடவடிக்கைகளின் போது மோதரை மீட்பு நடவடிக்கை செய்யப்பட்டது.
 
 ◼️
 
 [Data](articles/7f18be6a.json)
-
-[Extended Data](ext_articles/7f18be6a.ext.json)
 
 ---
 
@@ -70,20 +68,6 @@ The federal government ran out of money after a Democratic-backed spending bill 
 [Data](articles/39027746.json)
 
 [Extended Data](ext_articles/39027746.ext.json)
-
----
-
-### ටිකට් නීතිය අද සිට
-
-*2025-10-01 12:59:30* · [`adalk`](https://www.ada.lk/breaking_news/ටිකට්-නීතිය-අද-සිට/11-418838) · `si`
-
-බස්නාහිර පළාතේ ධාවනය කරන මගී බස් රථවල මගීන්ට අද (ඔක්තෙම්බර් 01) සිට ප්‍රවේශ පත්‍ර නිකුත් කිරීම බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරි විසින් අනිවාර්ය කර ඇත.
-
-මගීන්ට ප්‍රවේශ පත්‍ර  ලබා නොදෙන කොන්දොස්තරවරුන්ට රුපියල් 750ක දඩයක් නියම කරන අතර, මගියා ටිකට්පත් ලබාගෙන නෙමැති නම් ඔහුට රුපියල් 100ක දඩයක් සහ ගමන් ගාස්තුව මෙන් දෙගුණයක ගාස්තුවක් අය කරන බව ඔවුන් වැඩිදුරටත් සඳහන් කර සිටියි.
-
-◼️
-
-[Data](articles/03e76722.json)
 
 ---
 
@@ -228,24 +212,6 @@ In addition, the report also stated that updates on embassy services and operati
 [Data](articles/76bab19e.json)
 
 [Extended Data](ext_articles/76bab19e.ext.json)
-
----
-
-### කොළඹ උද්ධමනය ඉහළ යයි - ආහාර කාණ්ඩයේ සියයට 2.9ක්
-
-*2025-10-01 11:33:38* · [`adalk`](https://www.ada.lk/business/කොළඹ-උද්ධමනය-ඉහළ-යයි---ආහාර-කාණ්ඩයේ-සියයට-2-9ක්/7-418837) · `si`
-
-කොළඹ පාරිභෝගික මිල දර්ශකයෙහි වාර්ෂික ලක්ෂ්‍යමය වෙනස මගින් මනිනු ලබන මතුපිට උද්ධමනය 2025 අගෝස්තු මාසයේදී වාර්තා වූ සියයට 1.2 සිට සැප්තැම්බර් මාසයේදී සියයට 1.5 දක්වා ඉහළ ගොස් තිබේ.
-
-එහිදී, වාර්ෂික ලක්ෂ්‍යමය පදනම මත, ආහාර කාණ්ඩයෙහි උද්ධමනය 2025 අගෝස්තු මාසයේදී වාර්තා වූ සියයට 2.0 සිට සැප්තැම්බර් මාසයේදී සියයට 2.9 දක්වා ඉහළ ගොස් ඇත.
-
-එසේම, ආහාර නොවන කාණ්ඩයෙහ් උද්ධමනය 2025 අගොස්තු මාසයේ පැවති සියයට 0.8 සිට සැප්තැම්බර් මාසයේදී සියයට 0.7 දක්වා සුළු වශයෙන් පහළ ගොස් තිබේ.
-
-ඒ අනුව සැප්තැම්බර් මාසයේදී උද්ධමනයේ වූ සිදුවූ වෙනස අපේක්ෂා කළ පරිදි උද්ධමන ඉලක්ක කරා යාමේ ප්‍රවණතාවයක් පෙන්නුම් කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
-
-◼️
-
-[Data](articles/e9520e17.json)
 
 ---
 
@@ -1559,32 +1525,6 @@ In his message the President also honoured the invaluable contribution of elders
 
 ---
 
-### වයස අභියෝගයක් කර නොගත් උදේශිකා, ඉනෝකා සහ චමරි
-
-*2025-10-01 07:49:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce80p4610ejo) · `si`
-
-2025 ලෝක කුසලාන කාන්තා ක්‍රිකට් තරගාවලියේ ඉන්දීය කණ්ඩායම සමග ගුවාතිහි පැවති පළමු තරගයෙන් ශ්‍රී ලංකාව ලකුණු 59කින් පරාජයට පත් විය.
-
-තරගයෙන් පරාජය වුව ද, මෙම තරගයේදී ශ්‍රී ලංකා කණ්ඩායමේ ජ්‍යෙෂ්ඨ ක්‍රීඩිකාවන් තිදෙනෙක් කැපී පෙනෙන දස්කම් දැක්වූහ.
-
-ඉනෝකා රණවීර සහ  උදේශිකා ප්‍රබෝධනී පන්දු යවන්නන් ලෙස ඉහළ දක්ෂතා දැක්වූ අතර, නායිකා චමරි අතපත්තු මෙම තරගයේ ශ්‍රී ලංකා පිතිකාරියන් අතර පෙරමුණ ගැනීමට සමත් වූවා ය.
-
-ICC Women's World Cup: පළමු තරගයෙන් ශ්‍රී ලංකාව පරාජය කරමින් ඉන්දියාවට ලකුණු 59ක ජයක්
-
-තරගයේ පළමුවෙන් පන්දුවට පහර දුන් ඉන්දීය කණ්ඩායමේ පළමු කඩුල්ල දවා ගත්තේ වමතින් මද වේග පන්දු යවන ක්‍රීඩිකා උදේශිකා ප්‍රබෝධනී ය.
-
-ඇගේ වයස (සැප්තැම්බර් 30 වන දා) වන විට අවුරුදු 40යි දින 10ක් විය.
-
-ඒ අනුව, උදේශිකා ඊයේ දිනයේදී වාර්තා අතරට එක් වූයේ ලෝක කුසලාන කාන්තා ක්‍රිකට් තරගයකදී කඩුල්ලක් දවා ගත් වයස්ගත ම ක්‍රීඩිකාව ලෙස ය.
-
-1985 සැප්තැම්බර් 20 වන දා දර්ගා නගරයේදී උපත ලද උදේශිකා පදිංචි ප්‍රදේශය වන්නේ කරන්දෙණිය යි.
-
-...
-
-[Data](articles/16e29a47.json)
-
----
-
 ### General Leader Representatives from the Chief Prelate
 
 *2025-10-01 07:36:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-දැඩි-අප්‍රසාදය-පළ-කරමින්-මහා-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/11-418829) · `si`
@@ -2014,5 +1954,65 @@ Rajapaksa was arrested over allegations that he used his official position to un
 [Data](articles/32b427c8.json)
 
 [Extended Data](ext_articles/32b427c8.ext.json)
+
+---
+
+### Indo-Lanka Chamber of Commerce  and Industry hosts Annual General Meeting
+
+*2025-10-01 04:33:29* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-hosts-Annual-General-Meeting/34-782413) · `en`
+
+The 17th Annual General Meeting of the Indo Lanka Chamber of Commerce and Industry (ILCCI), affiliated to The Ceylon Chamber of Commerce was held on 26 September, at the Taj Samudra, Colombo.
+
+The proceedings were followed by a fireside chat moderated by ILCCI Immediate Past President Romesh David. The distinguished panel included Indian High Commissioner Santosh Jha, and Brandix Apparel Ltd. Managing Director Hasitha Premaratne.
+
+During the discussion, the High Commissioner emphasised the importance of India and Sri Lanka investing in each other’s economies—not as competitors but as partners in regional growth and expansion. He also discussed Sri Lanka’s role as a transshipment hub and underscored the need to broaden cooperation in the energy sector through joint investments and initiatives.
+
+...
+
+[Data](articles/f3cc172f.json)
+
+[Extended Data](ext_articles/f3cc172f.ext.json)
+
+---
+
+### American Chamber  of Commerce  in Sri Lanka appoints Sandun Hapugoda as President at 33rd AGM
+
+*2025-10-01 04:32:12* · [`dailyftlk`](https://www.ft.lk/business/American-Chamber-of-Commerce-in-Sri-Lanka-appoints-Sandun-Hapugoda-as-President-at-33rd-AGM/34-782412) · `en`
+
+The American Chamber of Commerce in Sri Lanka (AmCham SL) successfully held its 33rd Annual General Meeting at the ITC Ratnadeepa yesterday, in the presence of its members, special invitees, and media representatives.
+
+The AGM marked a significant milestone as the Chamber reflected on a year of meaningful impact, strategic partnerships, and advocacy in strengthening US–Sri Lanka trade, investment, and bilateral collaboration. Members elected a new Board of Directors to guide AmCham into its next chapter, reaffirming the Chamber’s commitment to fostering economic prosperity and innovation.
+
+Mastercard Sri Lanka and Maldives Country Manager Sandun Hapugoda was elected the new President of AmCham Sri Lanka, while Chevron Lubricants Lanka PLC Managing Director/CEO Bertram Paul was elected the new Vice President.
+
+MAS Holdings Ltd. Director Shirendra Lawrence was appointed the President Emeritus of AmCham SL.
+
+...
+
+[Data](articles/5e9e7468.json)
+
+[Extended Data](ext_articles/5e9e7468.ext.json)
+
+---
+
+### Agreement in connection with the update of milk production
+
+*2025-10-01 04:24:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-உற்பத்தியை-மேம்படுத்தல்-தொடர்பில்-ஒப்பந்தம்/175-365561) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to the Japanese government, met with Danaga Akihiko, president of Japan International Cooperation Agency at the Imperial Hotel in Tokyo yesterday (30).
+
+The President expressed his gratitude here for the continued support of Japan's continued support to Sri Lanka, which has resumed offer yen debt through Ziga, which is a significant contribution to national development.
+
+The Zaqa leader pointed out the importance of the development of the private sector, technology and agriculture sectors as the main factor in Sri Lanka's sustainable economic development.
+
+He said that steps would be taken to re -launch the Katunayake and Bandaranaike International Airport Scheme and that he would expect to maintain the long -term cooperation with Sri Lanka by monitoring Sri Lanka's McCro economic management.
+
+The main agreement was signed on a new milestone of Japan - Sri Lanka Development Cooperation. (A)
+
+◼️
+
+[Data](articles/cd3081c2.json)
+
+[Extended Data](ext_articles/cd3081c2.ext.json)
 
 ---

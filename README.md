@@ -1,37 +1,107 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 14:39:05**
+As of **2025-10-01 14:56:31**
 
 ## Newspaper Stats
 
-*Scraped **80,179** Articles*
+*Scraped **80,192** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 532
-lankadeepalk | 564
+lankadeepalk | 569
 dbsjeyarajcom | 637
 bbccomsinhala | 715
-colombotelegraphcom | 801
+colombotelegraphcom | 802
 dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,711
+adalk | 7,712
 adaderanalk | 10,328
-tamilmirrorlk | 11,968
+tamilmirrorlk | 11,972
 virakesarilk | 13,108
-adaderanasinhalalk | 13,848
+adaderanasinhalalk | 13,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,175 (100.0%) of 80,179 articles have been extended.
+80,175 (100.0%) of 80,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### குளவி கொட்டியதில் ஒன்பது பேர் பாதிப்பு
+
+*2025-10-01 14:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டியதில்-ஒன்பது-பேர்-பாதிப்பு/76-365583) · `ta`
+
+மஸ்கெலியா , மவுஸ்ஸாக்கலை தோட்ட சீட்டன் பிரிவில் குளவி கொட்டியதில் ஒன்பது தொழிலாளர்கள் பாதிக்கப்பட்டுள்ளனர். அவர்களில் பெண் தொழிலாளர்கள் அறுவரும் அடங்குகின்றனர். இந்த சம்பவம், ​புதன்கிழமை (01) நண்பகல் 12 மணியளவில் இடம்பெற்றுள்ளது.
+
+கொழுந்து பறித்துக்கொண்டிருந்த வேளையில், தேயிலைச் செடியின் கீழ் பகுதியில் இருந்த குளவி கூடு கலைந்து, கொட்டியுள்ளது.  பாதிக்கப்பட்ட ஒன்பது பேரும்  மஸ்கெலியா மாவட்ட வைத்திய சாலையில் அனுமதிக்க பட்டு சிகிச்சை பெற்று வருகின்றனர்.
+
+இவர்களில் நால்வர் வெளி நோயாளர் பிரிவில் சிகிச்சை பெற்று வெளியேறி உள்ளனர் என்றும் ஐந்து பேர் தங்கியிருந்து சிகிச்சை பெற்று வருவதாக மாவட்ட வைத்திய சாலையில் உள்ள வைத்திய அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/af57027c.json)
+
+---
+
+### පොලිස් අණට අවනත නොවූ වෑන් රියට වෙඩි
+
+*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පලස-අණට-අවනත-නවවන-රයට-වඩ/101-680573) · `si`
+
+අවස්ථා තුනක දී පොලිස් නියොග නෙතකා නොනවත්වා ධාවනය කළ වැන් රථයක් ලුහුබැද ගිය පොලිසිය වෙඩි තබා නතර කරගැනීමෙන් පසු එහි ගමන්ගත් තිදෙනෙකු අද  අලුයම අත්අඩංගුවට ගෙන ඇතැයි නිට්ටඹුව පොලිසිය කියයි.
+
+නිට්ටඹුව පොලිස් වසමේ ගම්පහ කොට්ඨාශ සංක්‍රාමික පොලිස් යතුරු පැදි ඒකකයේ පොලිස්පරීක්ෂක නලින් මහතා ඇතුලු නිලධරින් වේයන්ගොඩ - නිට්ටඹුව මාර්ගයේ උදම්විට හන්දියේ නිළධාරින් හය දෙනකු සමග මාර්ග බාධක රාජකාරියේ යෙදි සිටියදි සැකකටයුතු ලෙස වේයන්ගොඩ දෙස සිට නිට්ටඹුව දෙසට වෑන් රථයක් ගමන් කර ඇත.
+
+මෙම වෑන් රථය නැවැත්වීමට පොලිස් නිළදාරින්  සංඥා කළද ඇතත් එම වෑන් රථය නොනවත්වා ධාවනය කර ඇතැයි පොලිසිය කියයි.
+
+යතුරු පැදි ඒකකයේ නිළධාරින් වෑන් රථය පිටුපස හබා ගොස් අවස්ථා තුනකදි වාහනය නැවැත්විමට උත්සහ කර ඇති අතර නිට්ටඹුව නගරයේ දි රතු ආලෝක සංඥ වැටි තිබියදි වෑන් රථය වතුපිටිවල දෙසට ධාවනය කර තිබේ .
+
+මෙම හේතුවෙන් පොලිස් නිළධාරින් වෑන් රථයේ ඉදිරිපස දකුණු ටයරයට හා පිටුපස දකුණු ටයරයට වෙඩි ප්‍රහාර තුනක් එල්ල කර වාහනය නවත්වා ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/cbc9eb98.json)
+
+---
+
+### සෑම වැඩිහිටියන් හය දෙනෙක්ගෙන් එක් අයෙක්ම කිනම් හෝ මානසික රෝගාබාධයකින් පෙළෙනවාලු
+
+*2025-10-01 14:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/සම-වඩහටයන-හය-දනකගන-එක-අයකම-කනම-හ-මනසක-රගබධයකන-පළනවල/26-680571) · `si`
+
+අදහස්‍ දැක්වීම - ඌව වෙල්ලස්ස විශ්ව විද්‍යාලයේ, වෘත්තීය මාර්ගෝපදේශක, මනෝ චිකිත්සක, මනෝ උපදේශක, අකිල ඖෂධ බණ්ඩාර
+
+2050 වන විට වැඩිහිටි ජනගහනය බිලියන 2.1 ක් වන බවට පුරෝකථනය කර තිබේ.  මේ සමග මානසික ආබාධයන්ගෙන්  පෙළෙන වැඩිහිටියන් ප්‍රමාණයද ඉහළ යනු
+
+ඇත. එම නිසා වැඩිහිටි දිනය සැමරීමට වඩා වැඩිහිටි දිනය වෙනුවෙන් කලයුතු දේ බොහෝය.
+
+අද වන විට දරුවන් තුළ තිබෙන්නා වූ විවිධාකාර  ගැටලු රාශියක් අපට දක්නට ලැබෙනවා. අපේ සායනයන් වලදී හමුවන දරුවන් තුළ සමාජීය වශයෙන් තිබෙන්නා වූ ප්‍රශ්න, චර්යාත්මක ප්‍රශ්න , මානසික ප්‍රශ්න, තමන්ට දැනෙන්නා වූ සංවේදනයන් පිළිබඳ ප්‍රශ්න ආදී වශයෙන් ගැටලු රාශියකට මේ දරුවන් මුහුණ දෙනවා. වෙනදාට සාපේක්ෂව දරුවන්ගේ මානසික සංකූලතාවයන් වල වැඩි වීමක් මේ වන විට අපට දක්නට ලැබෙනවා.
+
+අධි ක්‍රියාකාරී දරුවන්, ආහාර ගැටලු තිබෙන දරුවන්, කාංසාමය තත්ත්ව තිබෙන දරුවන්, විශාදය තත්ත්වයේ පසුවන දරුවන්, පෞරුෂ ව්‍යාබාධ තත්ත්වයන් තිබෙන දරුවන්, සංවර්ධනාත්මක ගැටලු තිබෙන දරුවන්, විවිධාකාර වූ ජානමය හේතූන් නිසා බුද්ධිමය ව්‍යාබාධයන් තිබෙන දරුවන් යනාදී වශයෙන් බොහෝ දරුවන්ගේ ගැටලු අපට දක්නට ලැබෙනවා.
+
+...
+
+[Data](articles/7fda240d.json)
+
+---
+
+### දරුවන්ට ලැබෙන්නේ හොදම දේද?
+
+*2025-10-01 14:06:27* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දරවනට-ලබනන-හදම-දද/2-680570) · `si`
+
+මෙවන් සාහිත්‍යමය නිර්වචනවලට පාත්‍ර වු ළමයා නිර්වචනයකට සීමා කළ නොහැකිය. 1989 නොවැම්බර් මස 20 වැනි දිනදී එක්සත් ජාතීන්ගේ මහා මණ්ඩලය විසින් අනුමත කරගන්නා ලද ළමා අයිතිවාසිකම් පිළිබද ප්‍රඥප්තියට අනුව ඉතාමත් සරලම අදහස නම් ”‍නීතිය මඟින් අඩු වයසකදී පූර්ණත්වය ලබන්නේ නම් මිස වයස අවුරුදු 18ට අඩු සියලු‍ මනුෂ්‍යයන් ළමුන්ය”‍.යනුවෙනි.
+
+ඒබ්‍රහම් ලින්කන් ජනාධිපතිතුමා වරක් කියා සිටියේ දරුවා යනු වැඩිහිටියන්ගේ කුඩා කරන ලද ආකෘතියක් නොවන බවයි. දරුවාගේ මනස සුදු පැහැති කඩදාසියක් වැනිය. මුල් කාලයේදී එය ඉතා පිරිසුදුය. මෙහි මුල්ම සටහන තබන්නේ මව, පියා සහ සහෝදර සහෝදරියන්ය. රුසියාවේ ‍නායක ලෙනින් කියා සිටියේ දරුවන්ට දිය යුත්තේ හොදම දෙය බවයි. චීනයේ මාවෝ සේතුං කියා සිටින්නේ ලෝකයේ උත්තම චරිතය දරුවා බවය.
+
+...
+
+[Data](articles/f1fd9d77.json)
+
+---
 
 ### Cocaine's drug sales of "Badovitta Rajitha" in a rented house; Three arrests!
 
@@ -54,6 +124,84 @@ The arrested trio will be produced before the Panadura Magistrate's Court, the V
 [Data](articles/2c9d50b9.json)
 
 [Extended Data](ext_articles/2c9d50b9.ext.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල ගැනත් දැනුම්දීමක්
+
+*2025-10-01 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215221) · `si`
+
+මාසික ගෑස් මිල සංශෝධනය අනුව මෙම මාසයට අදාළව ලිට්‍රෝ ගෑස් මිලේ සංශෝධනය සම්බන්ධව එම ආයතනය දැනුම්දී තිබේ.
+
+ඒ අනුව මෙම මාසයට අදාළව ලිට්‍රෝ ගෑස් මිලේ කිසිදු සංශෝධනයක් නොවන බව එම ආයතනය පවසයි.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල රු. 3,690ක් වන අතර
+
+කිලෝග්‍රෑම් 2.3ක ගෑස් සිලින්ඩරයක මිල රු. 694ක් ලෙසත් නොවෙනස්ව පවතී.
+
+◼️
+
+[Data](articles/c6cfa860.json)
+
+---
+
+### අල්ලස් දූෂණ විමර්ශන විධිමත්ද?
+
+*2025-10-01 13:58:39* · [`lankadeepalk`](https://www.lankadeepa.lk/features/අලලස-දෂණ-වමරශන-වධමතද/2-680569) · `si`
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් රංග දිසානායක මහතා පිළිබඳව මේ දිනවල ඇතිව තිබෙන සංවාදය බොහෝ දෙනකුගේ අවධානයට යොමුවී ඇති බව පෙනේ.
+
+එම සංවාදයට හේතු වී ඇත්තේ ජනතා විමුක්ති පෙරමුණේ හිටපු නායකයකු, පාර්ලිමේන්තු මන්ත්‍රීවරයකු සහ ජනාධිපති අපේක්ෂකයකු වන නන්දන ගුණතිලක මහතා විසින් සිදුකරන ලද ප්‍රකාශයක් ජනමාධ්‍යවල සහ සමාජ මාධ්‍ය ජාල ඔස්සේ මේ දිනවල ප්‍රචාරය වීමයි. නන්දන ගුණතිලක මහතා එහිදී ප්‍රකාශ කර ඇත්තේ රංග දිසානායක මහතා ජනතා විමුක්ති පෙරමුණේ නීති කමිටුවේ සාමාජිකයකුව සිටි බවත්, ජාතික ජන බලවේග රජයේ මහජන ආරක්ෂාව පිළිබඳ නියෝජ්‍ය අමාත්‍ය සුනිල් වටගල මහතා එම අවධියේ එකී කමිටුවේ ලේකම්වරයා ලෙස කටයුතු කළ බවත්, ඊට අදාළ අත්සන් ලේඛන තමන් සතුව ඇති බවත්ය. මේ පිළිබඳව සුනිල් වටගල මහතා ප්‍රකාශයක් කරමින් සඳහන් කර ඇත්තේ නන්දන ගුණතිලක මහතාගේ එම ප්‍රකාශය අසත්‍ය බවත්, රංග දිසානායක මහතා ලෙස නන්දන ගුණතිලක මහතා විසින් හඳුනාගෙන ඇත්තේ සමහර විට වෙනත් පුද්ගලයකු විය හැකි බවත්, එම අවධියේ නීති කමිටුවේ අත්සන් ගැනීමක් සිදු නොවූ බවත්ය.
+
+...
+
+[Data](articles/1310020e.json)
+
+---
+
+### உ/த மாணவி போதைக்கு அடிமை
+
+*2025-10-01 13:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உ-த-மாணவி-போதைக்கு-அடிமை/175-365581) · `ta`
+
+ஆண்கள் போதைப் பழக்கத்திற்கு அடிமையாகி இருப்பது குறித்து நாம் அதிகமாகக் கேள்விப்பட்டிருந்தாலும், பெண்கள் ஹெரோய்ன் மற்றும் ஐஸ் போதைக்கு அடிமையாகி இருப்பதும் மாவத்தகம பகுதியில் தெரியவந்துள்ளது என்று மாவத்தகம காவல்துறையின் பொறுப்பதிகாரி தலைமை ஆய்வாளர் ஆர்.எம்.எஸ்.ஏ. பத்மசிறி தெரிவித்தார்.
+
+மாவத்தகம பகுதியில் போதைப் பழக்கத்திற்கு அடிமையான ஒரு பெண்ணிடம் மாவத்தகம காவல்துறையினர் நடத்திய விசாரணையில், அவரது காதலன் போதைப் பழக்கத்திற்கு அடிமையானவர் என்றும், அவர் ஹெரோய்ன் மற்றும் ஐஸ் போன்ற போதைப் பொருட்களை உட்கொள்ள ஊக்குவித்ததாகவும் தெரியவந்தது. அந்த மாணவி கல்விப் பொதுத் தராதர உயர்தரத்தில் பயிலும் மாணவி என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/535289e1.json)
+
+---
+
+### පාසල් සිසුවෙක් පහරදී ගුරුවරයා රෝහලට
+
+*2025-10-01 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215220) · `si`
+
+මොනරාගල ප්‍රසිද්ධ පාසලක සිසුවෙක් සිදුකළ පහරදීමකින් ගුරුවරුයෙකු සුළු තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+අද (01) උදෑසන මෙම පහරදීම සිදුව ඇති අතර, තුවාල ලැබූ ගුරුවරුයා මේ වනවිට මොනරාගල මුලික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන බව වාර්තා වේ.
+
+11 වසරේ ඉගෙනුම ලබන සිසුවෙකු ජංගම දුරකථනයක් පාසලට රැගෙන ඒම සම්බන්ධයෙන් ප්‍රශ්න කිරීම හේතුවෙන් අදාළ සිසුවා ගුරුවරයාට පහරදී ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/c93df978.json)
+
+---
+
+### ‘ஆசிய கோப்பை வேண்டுமா?’ : இதை செய்யுங்கள் மோசின் நக்வி  அதிரடி
+
+*2025-10-01 13:49:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆசிய-கோப்பை-வேண்டுமா-இதை-செய்யுங்கள்-மோசின்-நக்வி-அதிரடி/44-365580) · `ta`
+
+நடப்பு ஆசிய கோப்பை தொடரில் சாம்பியன் பட்டம் வென்றது இந்திய கிரிக்கெட் அணி. இருப்பினும் இந்திய அணிக்கு ஆசிய கோப்பை வழங்கப்படவில்லை. இந்த சூழலில் இந்திய அணியின் கேப்டன் சூர்யகுமார் யாதவ், கோப்பையை நேரில் வந்து பெற்றுக் கொள்ளலாம் என ஆசிய கிரிக்கெட் கவுன்சில் தலைவர் மோசின் நக்வி சொல்லி உள்ளதாக பாகிஸ்தான் ஊடக நிறுவனம் செய்தி வெளியிட்டுள்ளது.
+
+கடந்த ஞாயிற்றுக்கிழமை அன்று நடைபெற்ற ஆசிய கோப்பை தொடரின் இறுதிப் போட்டியில் பாகிஸ்தானை 5 விக்கெட்டுகளில் வீழ்த்தி வெற்றி பெற்றது இந்திய அணி. தொடர்ந்து இந்திய அணி வெற்றிக் கோப்பையை பாகிஸ்தான் நாட்டு அமைச்சரும், பாகிஸ்தான் கிரிக்கெட் வாரியம் மற்றும் ஆசிய கிரிக்கெட் கவுன்சிலின் தலைவருமான மோசின் நக்வி வசமிருந்து பெற முடியாது என தெரிவித்தது.
+
+‘நான்தான் கோப்பையை வழங்குவேன்’ என மோசின் நக்வி தெரிவித்தார். அதை இந்திய அணி ஏற்க மறுத்தது. இதையடுத்து மோசின் நக்வியின் அறிவுறுத்தலின் படி, அலுவலர் ஒருவர் கோப்பையை கையோடு எடுத்துச் சென்றார். இது சர்ச்சையானது.
+
+...
+
+[Data](articles/720c7bbf.json)
 
 ---
 
@@ -97,6 +245,40 @@ More than 300 rescue workers, police officials and soldiers continue to work thr
 
 ---
 
+### பிலிப்பைன்ஸ் நிலநடுக்கத்தில் 69 பேர் பலி (வீடியோ இணைப்பு)
+
+*2025-10-01 13:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸ்-நிலநடுக்கத்தில்-69-பேர்-பலி-வீடியோ-இணைப்பு/50-365579) · `ta`
+
+மத்திய பிலிப்பைன்ஸ் மாகாணத்தில் செவ்வாய்க்கிழமை (30)  இரவு ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கத்தில்   குறைந்தது 69 பேர் கொல்லப்பட்டனர். நூற்றுக்கும் ​மேற்பட்டோர் காயமடைந்துள்ளனர்.
+
+செவ்வாய்க்கிழமை (30)  இரவு 10 மணியளவில் ஏற்பட்ட 6.9 ரிக்டர் அளவிலான நிலநடுக்கத்தில், கடுமையாக பாதிக்கப்பட்ட போகோ நகரம் மற்றும் செபு மாகாணத்தின் வெளிப்புற கிராமப்புற நகரங்களில் இடிந்து விழுந்த வீடுகள், இரவு விடுதிகள் மற்றும் பிற வணிகங்களில் குறிப்பிடப்படாத எண்ணிக்கையிலான குடியிருப்பாளர்கள் சிக்கிக்கொண்டதாக அதிகாரிகள் தெரிவித்தனர்.
+
+உயிர் பிழைத்தவர்களைக் கண்டுபிடிக்க மீட்புப் பணியாளர்கள் புதன்கிழமை (01) விரைந்து சென்றனர்.  , பேக்ஹோக்கள் மற்றும் மோப்ப நாய்களின் ஆதரவுடன், உயிர் பிழைத்தவர்களை வீடு வீடாகத் தேடும் பணியில் ராணுவத் துருப்புக்கள், காவல்துறை மற்றும் பொதுமக்கள் தன்னார்வலர்கள் ஈடுபடுத்தப்பட்டனர்.
+
+...
+
+[Data](articles/d635f9a0.json)
+
+---
+
+### කෝටි 20ක මත් ද්‍රව්‍ය සමඟ අයෙක් අතඅඩංගුවට
+
+*2025-10-01 13:43:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-20ක-මත-දරවය-සමඟ-අයක-අතඅඩගවට/101-680568) · `si`
+
+රුපියල් කෝටි 20 කට ආසන්න වටිනා හෑෂ් මත්ද්‍රව්‍ය , මත්පෙති සමඟ පුද්ගලයකු අත්අඩංගුවට ගත් බව කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය කියයි.
+
+එම සැකකරු සන්තකයේ තිබී හෑෂ් මත්ද්‍රව්‍ය කිලෝ 33 ගෑම් 270 ක්, හොරයින් මත්කුඩු ගෑම් 408 ක් හා මත් පෙති 200 ක් මෙන්ම චරස් කැබලි 7400 ක් පොලිස් භාරයට ගෙන ඇත.
+
+කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් මට්ටක්කුලිය සිරිවර්ධන පාර ප්‍රදේශයේ නිවසක් වටලා මෙම සැකකරු අත් මත්ද්‍රව්‍ය සමග අත්අඩංගවටන ඇත.
+
+සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී එම ප්‍රදේශයේ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම් කරුගේ ජාලයට අයත් බවට අනාවරණය වූ බව පොලිසිය කියයි. අත්අඩංගුවට ගත් සැකකරු මට්ටක්කුලිය සමිත් පුර ප්‍රදේශයේපදිංචි 38 හැවිරිදි  පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/4765919c.json)
+
+---
+
 ### Sujeewa Senasinghe's hearing on controversial luxury vehicle
 
 *2025-10-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226566) · `ta`
@@ -132,6 +314,22 @@ The Prime Minister also called for leading Austrian nationals to visit Sri Lanka
 [Data](articles/e64e0416.json)
 
 [Extended Data](ext_articles/e64e0416.ext.json)
+
+---
+
+### වෙහෙරගල වැව් බැම්මෙන් සංග්‍රාමික උපකරණ රැසක් හමුවෙයි
+
+*2025-10-01 13:17:55* · [`adalk`](https://www.ada.lk/breaking_news/වෙහෙරගල-වැව්-බැම්මෙන්-සංග්‍රාමික-උපකරණ-රැසක්-හමුවෙයි/11-418839) · `si`
+
+යාල ජාතික වනෝද්‍යානයට අයත් භුමියට පිහිටා ඇති බුත්තල වෙහෙරගල ජලාශයේ සොරොව්වට ආසන්නව වැව් බැම්මෙි තිබී ටී 56 මැගසීන් 74ක්,LMG ඩ්‍රම්ස් 35ක්,MPMG හා GPMG ගිණි අවි සදහා යොදන හිස් පතරොම් ගැබ් විශාල ප්‍රමාණයක් සහ යම් රසායන ද්‍රව්‍යයක් පිරවු පොහොර උර දෙකක් ඇතුලුව යුධ හමුදාව භාවිතයට ගන්නා සංග්‍රාමික උපකරන රැසක් අද ( 01) පෙරවරුවේ සොයාගත් බව ගෝනගංආර පොලිසිය පවසයි.
+
+වෙහෙරගල ජලාශයේ ධීවර කටයුතුවල නියැලෙන ධීවරයකු, මෙම අවි ආයුධ වැවෙි වැව් බැම්මේ රළ පනාව අතර තැනින් තැන විසිරි ඇති අයුරු දැක, මෙි පිලිබදව සෙල්ලකතරගම යුධ හමුදා නිළධාරින් දැනුවත් කිරිමෙන් පසු, එම කදවුරේ යුදහමුදා නිළධාරින් හා ගෝනගංආර පොලිසිය එකතුව මෙම ආයුධ තොගය සොයාගෙන තිබෙි.
+
+පොලිසිය පවසන්නේ මෙි වනවිට සොයාගත් අවි ආයුධ වලට වඩා වැඩි ප්‍රමාණයක් ජලාශයේ සොරොව්ව ආසන්න වැවෙි පතුලේ ඇති බවට සැකකරන හෙයින් නාවික හමුදාවෙි කිමිදුම්කරුවන් යොදා මේ පිලිබදව තවදුරටත් සොයා බැලීමට අදහස් කරන බවයි.
+
+...
+
+[Data](articles/9dd7d311.json)
 
 ---
 
@@ -1764,237 +1962,5 @@ The Environmental Authority says that due to this methodology, the Clients and t
 [Data](articles/8cb3c17f.json)
 
 [Extended Data](ext_articles/8cb3c17f.ext.json)
-
----
-
-### Warning
-
-*2025-10-01 09:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-365566) · `ta`
-
-The Department of Meteorology has warned that the hottest weather may be in the 8 districts of the country today (01).
-
-The Department of Meteorology has announced that the human body's temperature in the North Central and Eastern Provinces, Vavuniya, Mullaitivu and Moneragala districts may reach a warning level.
-
-Thus, those who work outdoors are advised to wear light clothes, relax in shadow areas and drink adequate water.. Remble
-
-◼️
-
-[Data](articles/028ccc8b.json)
-
-[Extended Data](ext_articles/028ccc8b.ext.json)
-
----
-
-### Two crores were arrested
-
-*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-10ක-වච-කළ-දනනක-අලලය/101-680532) · `si`
-
-The Criminal Investigations Department (CID) has arrested a suspect and a suspect in defense and the suspension of false consistency to defraud the proof of land under the "Heritage Program.
-
-The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
-
-The 43-year-old suspect was a resident of Bakatuna.
-
-The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
-
-◼️
-
-[Data](articles/16205c94.json)
-
-[Extended Data](ext_articles/16205c94.ext.json)
-
----
-
-### Two crores were arrested
-
-*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-10ක-වච-කළ-දනනක-අලලය/1-680532) · `si`
-
-The Criminal Investigations Department (CID) has arrested a suspect and a suspect in defense and the suspension of false consistency to defraud the proof of land under the "Heritage Program.
-
-The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
-
-The 43-year-old suspect was a resident of Bakatuna.
-
-The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
-
-◼️
-
-[Data](articles/d84f1b3e.json)
-
-[Extended Data](ext_articles/d84f1b3e.ext.json)
-
----
-
-### Today's the timeline
-
-*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680531) · `si`
-
-The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
-
-The Department says that there is mainly due to the rest of the island.
-
-From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
-
-◼️
-
-[Data](articles/62874de4.json)
-
-[Extended Data](ext_articles/62874de4.ext.json)
-
----
-
-### Today's the timeline
-
-*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680531) · `si`
-
-The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
-
-The Department says that there is mainly due to the rest of the island.
-
-From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
-
-◼️
-
-[Data](articles/c64bb266.json)
-
-[Extended Data](ext_articles/c64bb266.ext.json)
-
----
-
-### Cigarettes, cosmetics and e-cigarettes worth over Rs. 9.5 mln seized at BIA
-
-*2025-10-01 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113096/cigarettes-cosmetics-and-e-cigarettes-worth-over-rs-95-mln-seized-at-bia) · `en`
-
-A consignment of foreign cigarettes, cosmetics, and e-cigarettes worth over Rs. 9.5 million has been seized by Sri Lanka Customs officials at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The seizure occurred when four Sri Lankan male passengers, aged between 23 and 25, were intercepted upon arrival from Dubai on flights EK 652 and EK 654 on Tuesday (30).
-
-The arrested individuals are identified as residents of Kalmunai, Saindamardu, and Colombo, the statement said.
-
-Authorities confiscated 292 cartons of foreign cigarettes worth Rs. 8.76 million, cosmetics valued at Rs. 450,000, and e-cigarettes amounting to Rs. 300,000.
-
-The Customs officers stated that the estimated street value of the seized cigarettes alone is approximately Rs. 8.7 million.
-
-A penalty of Rs. 750,000 has been imposed on the four arrested passengers, and further investigations are underway.
-
-◼️
-
-[Data](articles/6d5fdd02.json)
-
-[Extended Data](ext_articles/6d5fdd02.ext.json)
-
----
-
-### Sri Lanka brought to Sri Lanka
-
-*2025-10-01 08:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அழைத்து-வரப்பட்டார்-டிங்கர்/175-365565) · `ta`
-
-Police said that Sreedharan Niranjan alias 'Tinker', a member of the organized criminal gang who was arrested in Dubai recently, was brought to Sri Lanka this morning.
-
-◼️
-
-[Data](articles/973e4103.json)
-
-[Extended Data](ext_articles/973e4103.ext.json)
-
----
-
-### Search Operations Continue for Weapons Dumped in Kataragama
-
-*2025-10-01 08:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/search-operations-continue-for-weapons-dumped-in-kataragama) · `en`
-
-COLOMBO (News 1st) - Police say search operations will continue today to recover weapons dumped in the Weheragalla wewa in Kataragama.Acting Police Media Spokesperson ASP Minura Senarath stated that divers will be deployed to carry out the search.According to information provided by an Army Intelligence Officer, 74 empty T-56 magazines, 36 empty LMG magazines, and 5 empty MPMG drums were discovered in the lake yesterday.The recovered items have been handed over to the GonaganAra Police.ASP Senarath added that investigations are underway to determine who was responsible for bringing and dumping the weapons into the lake.
-
-◼️
-
-[Data](articles/92077e13.json)
-
-[Extended Data](ext_articles/92077e13.ext.json)
-
----
-
-### Criminal gang member tiasts bring to the island
-
-*2025-10-01 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215208) · `si`
-
-Sridharan Niranjan alias, who is deported from Dubai, has been brought to the island this morning.
-
-At the Katunayake International Airport, the officials of the CID had handed over to the Peliyagoda Police Station at the Katunayake International Airport this morning.
-
-The suspect is a 36 year old resident of Colombo 15, police said
-
-The suspect has been identified as an organized crime and drug dealer, Palanni Shiran, named Palani Shiran, 'Kochchikade Shiran', police said.
-
-The suspect is the driver of the car, which was shot dead in a three-wheeler near the Grandpass police cemetery, near the Grandpass division.
-
-In addition, a suspect had welcomed the transport of firearms to commit serious injuries at the Peliyagoda Police Division on 19.108.2012.
-
-The suspect is currently undergoing a foreign travel ban against the suspect and the suspect has been abroad.
-
-The suspect is to be produced before the Hon. Magistrates Magistrate's Court.
-
-◼️
-
-[Data](articles/c5a4cf25.json)
-
-[Extended Data](ext_articles/c5a4cf25.ext.json)
-
----
-
-### Underworld figure ‘Tinker’ extradited from Dubai
-
-*2025-10-01 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113095/underworld-figure-tinker-extradited-from-dubai-) · `en`
-
-Underworld figure Sridaran Niranjan, also known as ‘Tinker’, who was arrested in Dubai has been brought back to Sri Lanka this morning (01), police confirmed.
-
-He was extradited to Sri Lanka as a result of a joint operation conducted by the Sri Lanka Police, State Intelligence Service (SIS), and Dubai Police of the United Arab Emirates (UAE).
-
-The arrested suspect is identified as a 36-year-old resident of Colombo 15, police confirmed.
-
-The police stated that the suspect is recognized as an associate of the notorious criminal leader and drug trafficker Palani Shiran Glorian, alias “Kochchikade Shiran.”
-
-He is also accused of transporting firearms used in a shooting on August 19, 2025, in Gnanarathana Mawatha, Peliyagoda, which left one person dead and another severely injured.
-
-Investigations revealed that the suspect, despite being under a travel ban, left the country on August 19, 2025.
-
-...
-
-[Data](articles/8404e107.json)
-
-[Extended Data](ext_articles/8404e107.ext.json)
-
----
-
-### Earthquake in Philippines: 26 killed
-
-*2025-10-01 07:59:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிலிப்பைன்ஸில்-பாரிய-நிலநடுக்கம்-26-பேர்-பலி/50-365564) · `ta`
-
-26 people have been killed in the earthquake, the country's disaster management officials said.
-
-The earthquake struck on the coast of Sebu at around 10 pm local time yesterday.
-
-◼️
-
-[Data](articles/4f280796.json)
-
-[Extended Data](ext_articles/4f280796.ext.json)
-
----
-
-### President Reaffirms Commitment to Children and Elders on World Children’s Day and Elders’ Day
-
-*2025-10-01 07:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/president-reaffirms-commitment-to-children-and-elders-on-world-children%e2%80%99s-day-and-elders%e2%80%99-day) · `en`
-
-COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the government’s commitment to safeguarding the rights and wellbeing of children and elders across the nation.The President highlighted that children represent the future of both the nation and the world, emphasizing that their innocence and purity must be nurtured. He stressed that it is the government’s responsibility to ensure that all children have equal access to education, guidance, social protection, and protection from abuse, discrimination, and all forms of violence. He underlined that no child of school-going age should be deprived of education due to ethnicity, economic background, or any other factor.The President noted that this year’s budget places special focus on improving healthcare, education, and support services for children with developmental challenges, including autism.
-
-◼️
-
-[Data](articles/c4976f07.json)
-
-[Extended Data](ext_articles/c4976f07.ext.json)
 
 ---

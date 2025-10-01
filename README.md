@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 14:12:11**
+As of **2025-10-01 14:39:05**
 
 ## Newspaper Stats
 
-*Scraped **80,156** Articles*
+*Scraped **80,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,32 +20,58 @@ dailyftlk | 5,615
 adalk | 7,711
 adaderanalk | 10,328
 tamilmirrorlk | 11,968
-virakesarilk | 13,085
+virakesarilk | 13,108
 adaderanasinhalalk | 13,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,154 (100.0%) of 80,156 articles have been extended.
+80,175 (100.0%) of 80,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
+### Cocaine's drug sales of "Badovitta Rajitha" in a rented house; Three arrests!
+
+*2025-10-01 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226578) · `ta`
+
+Three suspects have been arrested by the Corruption Prevention Unit on Tuesday (30).
+
+The Corruption Prevention Unit has received information that Kokayi's drug is being sold in a house in Kaldude area.
+
+Subsequently, two suspects have been arrested in a roundup carried out by the Anti -Corruption Unit.
+
+Another man who had arrived in the car was arrested by the Anti -Corruption Unit.
+
+Investigations have revealed that the suspects were getting a house on a rental basis and engaged in cocaine's drug sales.
+
+The arrested trio will be produced before the Panadura Magistrate's Court, the Valana Anti -Corruption Unit said.
+
+◼️
+
+[Data](articles/2c9d50b9.json)
+
+[Extended Data](ext_articles/2c9d50b9.ext.json)
+
+---
+
+### Laugfs do not change the price of gas
 
 *2025-10-01 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215219) · `si`
 
-මාසික මිල සංශෝධනය අනුව ලාෆ්ස් ගෑස් මිල සම්බන්ධව එම ආයතනය දැනුම් දීමක් සිදුකර තිබේ.
+The company has informed LAUGFS gas prices on monthly price revision.
 
-ඒ අනුව ඔක්තෝම්බර් මාසයට අදාළව ලාෆ්ස් ගෑස් මිලේ කිසිදු වෙනසක් සිදුනොවේ.
+The price of LAUGFS gas is not changed.
 
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 4,100ක් වන අතර කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 1,645කි.
+Accordingly, the price of a 12.5 kilogram gas cylinder is Rs. 4,100 and the price of a 5 kg gas cylinder is Rs. 1,645.
 
 ◼️
 
 [Data](articles/bff49803.json)
+
+[Extended Data](ext_articles/bff49803.ext.json)
 
 ---
 
@@ -67,6 +93,46 @@ More than 300 rescue workers, police officials and soldiers continue to work thr
 
 [Data](articles/0081b9d9.json)
 
+[Extended Data](ext_articles/0081b9d9.ext.json)
+
+---
+
+### Sujeewa Senasinghe's hearing on controversial luxury vehicle
+
+*2025-10-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226566) · `ta`
+
+Fort Magistrate Isuru Netikumara has ordered that a case filed against MP Sujeewa Senasinghe has been taken up for hearing on January 07, 2026, alleging that a V8 luxury vehicle worth Rs 10 crore has been set up illegally equipped with illegal vehicle parts.
+
+The order was issued when the case was called on Wednesday (01).
+
+◼️
+
+[Data](articles/22edde74.json)
+
+[Extended Data](ext_articles/22edde74.ext.json)
+
+---
+
+### Austrian Ambassador to Sri Lanka
+
+*2025-10-01 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226575) · `ta`
+
+Austria's Ambassador to Sri Lanka Katharina Wileser on Tuesday (Sept.. 30) Prime Minister Harini met Amarasuriya at the Alari House.
+
+The Prime Minister praised Wileser's services to carry out the Sri Lankan -Austria relationship, especially on attracting the investment of the Austrian government in the field of stable energy and technology, emphasizing the importance of expanding bilateral cooperation.
+
+Both sides discussed the educational reforms that are currently being implemented in Sri Lanka and explained to the Prime Minister's Ambassador and the fields that improve cooperation with Austria.
+
+The ambassador, who praised the new government's efforts to guide the country to normalize the country, shared information about Austria's education system.
+
+The Prime Minister also called for leading Austrian nationals to visit Sri Lanka to strengthen bilateral cooperation.
+
+...
+
+[Data](articles/e64e0416.json)
+
+[Extended Data](ext_articles/e64e0416.ext.json)
+
 ---
 
 ### Recovery of 10 handbags out of 100
@@ -84,6 +150,26 @@ Investigations later revealed that several more suspects escaped with about 100 
 [Data](articles/7f18be6a.json)
 
 [Extended Data](ext_articles/7f18be6a.ext.json)
+
+---
+
+### Gaza War: Trump - Netanyahu Meeting; US extreme pressure on peace - 8 countries including China and Pakistan welcome
+
+*2025-10-01 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226574) · `ta`
+
+Eight countries, including China and Pakistan, have welcomed the 20 -stipulated plan to end the Gaza Conflict.
+
+More than 65 thousand Palestinians, including women and children, have been killed in the Gaza attack on Israel over the past one and a half years. Attempts to meditate under the leadership of US President Donald Trump have been intensified to end the war.
+
+In this context, Israeli Prime Minister Benjamin Netanyahu traveled to the United States on September 30. The meeting occurred at the time of Israel's intensification of the Gaza War, which caused a stir on the world stage.
+
+This is the 4th time Netanyahu goes to the United States in the current year. Trump, who came to the white palace door, greeted Netanyahu, who came out of the car. During the talks at the White House, it seems that Gaza has been pressed on behalf of Trump to end the Gaza War immediately. Thus, there is an expectation that the Gaza War may be ended soon.
+
+...
+
+[Data](articles/b6c16786.json)
+
+[Extended Data](ext_articles/b6c16786.ext.json)
 
 ---
 
@@ -125,6 +211,44 @@ The conductors who do not give passengers a fine of Rs.
 
 ---
 
+### 400 Iranians illegally settled in the United States
+
+*2025-10-01 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226572) · `ta`
+
+After Donald Trump took office as US President, various action changes are being made in administration. As part of this, the move to return illegal immigrants to their own countries has intensified.
+
+US Immigration Officers are conducting raids on commercial complexes and private companies, arresting those who are staying without proper documents and sent back to their own countries.
+
+As part of the action, about 400 people from Iran were found to stay there without proper documentation.. In a recent raid, 120 people from Iran were arrested. The number of Iranians arrested has exceeded 400.
+
+Hossein Noushabadi, General Director of Parliament and Embassy Affairs of the Iranian Foreign Ministry, said that the US is planning to deport about 400 Iranians.
+
+He said that Iran would arrive in the next two days after the 120 Iranians were brought to Qatar in the first constituency.
+
+...
+
+[Data](articles/72e3e13f.json)
+
+[Extended Data](ext_articles/72e3e13f.ext.json)
+
+---
+
+### கதிர்காமம் வெஹெரகல ஏரியில் வெடிபொருட்கள் கண்டுபிடிப்பு
+
+*2025-10-01 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226571) · `ta`
+
+Kadirgamam police said that ammunition has been found on Tuesday (30) at Veerakala Lake Kadirgamam.
+
+The captured ammunition includes 74 T-56 Magasins, 36 T-56 Lights Machine Gun Magazines, several T-81 clouds and other ammunition, police said.
+
+◼️
+
+[Data](articles/ddd38abc.json)
+
+[Extended Data](ext_articles/ddd38abc.ext.json)
+
+---
+
 ### Bollywood Battles AI: The Bachchans' Legal Crusade
 
 *2025-10-01 12:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/bollywood-battles-ai-the-bachchans-legal-crusade) · `en`
@@ -155,6 +279,52 @@ A handful of Bollywood celebrities have begun asserting their "personality right
 
 ---
 
+### Three Indians arrested for coming to Sri Lanka on a tourist visa
+
+*2025-10-01 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226569) · `ta`
+
+Three persons belonging to the same family who have come to Sri Lanka on a tourist visa from India have been arrested by the Point Pedro Police.
+
+In the Point Pedro area, a family from India was arrested on Tuesday (30) on Tuesday (30), based on confidential information received by the police that a rented house was being set up in a rented house.
+
+Investigations conducted by the three arrested have revealed that the three were husband, wife and child and that they were from Bangalore in India.
+
+Investigations have revealed that the trio had come to Sri Lanka on a tourist visa and stayed at a hostel in the Point Pedro area and recently rented a house in the Thumbala area and turned it into astrology.
+
+◼️
+
+[Data](articles/5fb506a4.json)
+
+[Extended Data](ext_articles/5fb506a4.ext.json)
+
+---
+
+### Netanyahu is angry after negotiations with Trump
+
+*2025-10-01 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226570) · `ta`
+
+As Israeli Prime Minister Netanyahu immediately returned to the country after completing a peace talks with US President Trump, he expressed his expression on the plan to recognize Palestine.
+
+Speaking to reporters at Tel Aviv Airport, reporters questioned whether Palestine would be recognized as an individual.
+
+Responding to this, Netanyahu excitedly said, "I will never recognize Palestine alone."
+
+Netanyahu added that Israel has only allowed US President Trump's Peace Agreement and the 20 -point plan.
+
+When he clarified the position, he said, “Our position is to have a ceasefire. We will never recognize it. ”
+
+In this scenario, Hamas has said that US President Trump's Gaza Peace Plan has been reconsidered.
+
+In a statement issued by Hamas, it said,. Hamas has said that it will take a few days to end the negotiations due to leaders and communications issues, which will only be resolved.
+
+◼️
+
+[Data](articles/b0a81eec.json)
+
+[Extended Data](ext_articles/b0a81eec.ext.json)
+
+---
+
 ### Medical equipment from the population fund
 
 *2025-10-01 12:36:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනගහන-අරමදලන-වදය-උපකරණ/101-680563) · `si`
@@ -170,6 +340,28 @@ The support of children's and maternity health promotion of Sri Lanka and provid
 [Data](articles/f170497b.json)
 
 [Extended Data](ext_articles/f170497b.ext.json)
+
+---
+
+### The country's clothing export revenue is $ 479.14 billion in August
+
+*2025-10-01 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226568) · `ta`
+
+The country's clothing export revenue is US $ 479.14 billion in August, and it fell 1.33% per hundred compared to August last year.
+
+Exports to the United States recorded a small increase of 0.92%, compared to August last year, and exports to the EU and the UK have fallen by 4.83% per hundred and 2.6%.
+
+However, in the first eight months of this year, the export of apparel has shown a significant increase in the forum of the united garment associations.
+
+Accordingly, that revenue is $ 3.39 billion during this period. Compared to last year, it was $ 3.16 billion in the same period, with an increase of 7.48%.
+
+The increase in revenue has increased export revenues for the EU (except Britain) to 14.66%, the value of exports to the United States 2.58% and 9.45% of other markets exports.
+
+◼️
+
+[Data](articles/6e4a2f7b.json)
+
+[Extended Data](ext_articles/6e4a2f7b.ext.json)
 
 ---
 
@@ -193,6 +385,26 @@ However, since the case of the Court of Appeal has not yet been completed, the a
 
 ---
 
+### HNB Finance signing contract with Indra Traders to provide more profitable leasing facilities to customers
+
+*2025-10-01 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226567) · `ta`
+
+Sri Lanka's leading financial firm HNB Finance Plc recently signed an agreement with Indra Traders, the country's popular motor vehicle import company.
+
+Through this agreement, customers across the country of HNB Finance and Indra Traders will get the opportunity to buy motor vehicles from Indra Traders with attractive leasing facilities and many benefits.. The signing event was held on August 15 at the headquarters of HNB Finance PLC.
+
+According to this strategic agreement, HNB Finance will provide attractive interest rate and many benefits to the new motor vehicle or high -quality quality -made motor vehicle from Indra Traders.
+
+In addition, the machine and gear system of motor vehicles purchased under the HNB Finance Leasing Facility will be given three years of full warranty, and a three -year guarantee of unregistered motor vehicles will be guaranteed.
+
+...
+
+[Data](articles/e9798c69.json)
+
+[Extended Data](ext_articles/e9798c69.ext.json)
+
+---
+
 ### Troops of former Minister Anura Priyadarshana Yapa
 
 *2025-10-01 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215217) · `si`
@@ -213,6 +425,110 @@ The disaster was set to call on the accusations on the 29th of October to hand o
 
 ---
 
+### There is no change in bus fares; Commission
+
+*2025-10-01 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226564) · `ta`
+
+The National Transport Commission said that despite the amendments to the fuel prices, no amendment was made in bus fares.
+
+The Ceylon Petroleum Corporation has announced that fuel prices have been reduced from midnight on Tuesday.
+
+Accordingly, the 95 Octane Petrol Later will be reduced by Rs.. But the 92 octane petrol price is not changed.
+
+Similarly, the price of Lanka Auto Diesel will be reduced by Rs.. Super diesel continues unchanged.
+
+◼️
+
+[Data](articles/ed1a16af.json)
+
+[Extended Data](ext_articles/ed1a16af.ext.json)
+
+---
+
+### Today's gold price
+
+*2025-10-01 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226565) · `ta`
+
+The price of gold sold at Chettiar Street, Colombo on Wednesday (01) on October
+
+◼️
+
+[Data](articles/1b888ba9.json)
+
+[Extended Data](ext_articles/1b888ba9.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2025-10-01 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226563) · `ta`
+
+Wednesday today (Oc. 1) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை  306.2912 ரூபா ஆகவும் கொள்வனவு விலை 298.7904 ரூபா ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8f5c56ff.json)
+
+[Extended Data](ext_articles/8f5c56ff.ext.json)
+
+---
+
+### The hearing on the case against Keheliya and his family on the 15th!
+
+*2025-10-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226562) · `ta`
+
+The Colombo High Court has ordered that the case filed by the Bribery and Corruption Commission against former Health Minister Keheliya Rambukwella, his wife, three daughters and son -in -law will be taken up for hearing on October 15.
+
+The order was issued when the case was taken up for hearing in the presence of Colombo Additional Magistrate Mohamed Mihal on Wednesday (01).
+
+It is noteworthy that the Bribery and Corruption Commission has filed a petition against former Health Minister Keheliya Rambukwella, his wife, three daughters and son -in -law under the Prevention of Money Laundering Act on charges of illegal assets worth Rs 97 million.
+
+◼️
+
+[Data](articles/2e85b289.json)
+
+[Extended Data](ext_articles/2e85b289.ext.json)
+
+---
+
+### If Kehelbadra had not been caught, this would have been for Sri Lanka! - Video
+
+*2025-10-01 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226560) · `ta`
+
+Sri Lanka has become a fireplace in the next 10 years, while observing the incidents that have been taking place in Sri Lanka over the past few days.. Fear, every citizen may have a must ...
+
+It has been so bad that the underworld gang and the politicians who are affiliated with them have degraded the country.
+
+The fact that, even though some of the noble leaders and politicians who are working for the country, have made money greedy ghosts, have been conspiring to destroy the future generation.
+
+At this time, the underworld gang was arrested, and the current incidents of every Sri Lankan sighs are evidenced by.
+
+But there is no doubt that this government's decisive actions will be disastrous to some politicians and underworld gangs who are corpse.
+
+The government led by President Anura Kumara Dissanayake has been carrying out many action activities in recent years.
+
+...
+
+[Data](articles/62724372.json)
+
+[Extended Data](ext_articles/62724372.ext.json)
+
+---
+
+### The political and social turmoil of modern Britain
+
+*2025-10-01 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226561) · `ta`
+
+'According to the 2021 census, the South Asian people in Britain are the second largest ethnic group. This includes Indians, Pakistanis and Bangladeshis, as well as Sinhalese and Nepali.. Despite last week's struggle, heavy border control and asylum policies for refugees, these South Asian communities, which have been living in Britain for many generations, have a direct impact.
+
+◼️
+
+[Data](articles/021ced65.json)
+
+[Extended Data](ext_articles/021ced65.ext.json)
+
+---
+
 ### President Dissanayake returns after concluding official visit to Japan
 
 *2025-10-01 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113100/president-dissanayake-returns-after-concluding-official-visit-to-japan) · `en`
@@ -228,6 +544,26 @@ During the visit, President Dissanayake engaged in a series of high-level bilate
 [Data](articles/22db2c68.json)
 
 [Extended Data](ext_articles/22db2c68.ext.json)
+
+---
+
+### Wife arrested for drug addiction to her husband in a court jail
+
+*2025-10-01 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226559) · `ta`
+
+Kekira was arrested by the police on Tuesday (30) by the police who gave drugs to a husband who was detained at a prison at the Magistrate's Court Complex.
+
+A prisoner who was arrested in connection with drug trafficking and detained in a prison under a court order has been taken to the Magistrate's Court yesterday for hearing the case with a few more prisoners.
+
+The prisoner's wife, who was taken to court for drug trafficking, has given a package to her husband as all the prisoners have been detained in the Magistrate's Court.
+
+The prison officials who observed this were seized by the wife's package, and they seized 480 milligrams of heroin and 300 grams of tobacco.
+
+◼️
+
+[Data](articles/ffbcdde9.json)
+
+[Extended Data](ext_articles/ffbcdde9.ext.json)
 
 ---
 
@@ -269,6 +605,22 @@ In addition, the report also stated that updates on embassy services and operati
 
 ---
 
+### We will win the child's world with love
+
+*2025-10-01 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226557) · `ta`
+
+Nelson Mandela's claim that the great power education of the 21st century is the great power of the world, and the world of good governance is the boys of today's boys.. The World United Nations in general has defined everyone under the age of 18 as boys. Thus, when the youthful life of the boys who should be amazed in the eyes of all people, we are living in the face of how the future world is questioned and the creation of the children of children and the creation of our future generations.
+
+If everyone around them will be able to make a better offspring in the future, you can certainly make a better offspring in the future if everyone around them will be able to fulfill their own role as the leaders of tomorrow.. Women and Child Affairs Minister Saroja Savitri Bolraj said that the "Children's Day National Week" has been declared on October 01 on the occasion of World Children's Day for 2025 on the occasion of World Children's Day.
+
+...
+
+[Data](articles/c607f363.json)
+
+[Extended Data](ext_articles/c607f363.ext.json)
+
+---
+
 ### Colombo inflation rises to increase - 2.9 percent of food category
 
 *2025-10-01 11:33:38* · [`adalk`](https://www.ada.lk/business/කොළඹ-උද්ධමනය-ඉහළ-යයි---ආහාර-කාණ්ඩයේ-සියයට-2-9ක්/7-418837) · `si`
@@ -286,6 +638,44 @@ According to the Central Bank of Sri Lanka, the increase in inflation has shown 
 [Data](articles/e9520e17.json)
 
 [Extended Data](ext_articles/e9520e17.ext.json)
+
+---
+
+### Powerful earthquake in the Philippines; 53 people die; Over 150 people hurt!
+
+*2025-10-01 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226554) · `ta`
+
+The Philippine Volcanic and Seismology Institute of Volcanology and Seismology said the 6.9 magnitude earthquake struck in the state of Philippines on Tuesday (30).
+
+According to the company's officials, the earthquake struck around 10.00 pm local time.
+
+53 people have been killed and more than 50 injured in the earthquake, according to officials of the company.
+
+◼️
+
+[Data](articles/89075d86.json)
+
+[Extended Data](ext_articles/89075d86.ext.json)
+
+---
+
+### சிறுவர்கள், முதியவர்களின் நலனுக்காக நாம் செய்யவேண்டியவை பற்றி பரந்த உரையாடலுக்கு செல்ல வேண்டும் - சஜித் பிரேமதாச
+
+*2025-10-01 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226555) · `ta`
+
+சிறுவர்கள், முதியவர்கள் ஆகிய இரு தரப்பினரையும் பாதுகாத்தல், பராமரித்தல், அவர்களுக்காக சமூகம் நிறைவேற்றவேண்டிய பொறுப்புகள் மற்றும் கடமைகளை சரியாக நிறைவேற்றுவது ஒரு நாட்டின் நல்ல நிலையை எதிர்பார்க்கும் அனைவரதும் பொறுப்பாகும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+சிறுவர் தினத்திலும் முதியோர் தினத்திலும் அவர்களின் நலனுக்காக நாம் செய்ய வேண்டியவை பற்றி பரந்த உரையாடலுக்கு செல்ல வேண்டும் என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+இன்றைய தினம் (ஒக். 1) கொண்டாடப்படும் உலக சிறுவர் தினம், உலக முதியோர் தினம் ஆகியவற்றை முன்னிட்டு சஜித் பிரேமதாச வெளியிட்ட வாழ்த்துச் செய்தியிலேயே அவர் இதனைத் தெரிவித்துள்ளார்.
+
+சர்வதேச சிறுவர் தினமும் சர்வதேச முதியோர் தினமும் ஆண்டின் ஒரே நாளில் கொண்டாடப்படுவது மிகவும் அர்த்தமுள்ள கொண்டாட்டமாகும்.
+
+'இன்றைய சிறுவர் நாளைய முதியவர்' என்ற சொற்றொடர் சிறுவர்கள் மற்றும் முதியவர்கள் பற்றிய நல்ல புரிதலை நமக்கு வழங்குகிறது. சிறுவர்களின் பாதுகாப்பு என்பது சமூகத்தின் நல்வாழ்வாகும்.
+
+...
+
+[Data](articles/23ba1b2e.json)
 
 ---
 
@@ -394,6 +784,24 @@ At this meeting also discussed the policy decisions related to the inclusion of 
 [Data](articles/f3c84246.json)
 
 [Extended Data](ext_articles/f3c84246.ext.json)
+
+---
+
+### இலவசப் பத்திரங்களை வழங்குவதாகக் கூறி 100 மில்லியன் ரூபாய் நிதி மோசடி - இருவர் கைது
+
+*2025-10-01 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226546) · `ta`
+
+‘உருமய’ தேசிய திட்டத்தின் கீழ் இலவசப் பத்திரங்களை வழங்குவதாகக் கூறி சுமார் 100 மில்லியன் ரூபாய் நிதி மோசடி செய்த குற்றச்சாட்டில் ஆண் ஒருவரும் பெண் ஒருவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+2024ஆம் ஆண்டில் 164 வணிக உரிமையாளர்களை நிதி மோசடி செய்ததற்காக இந்த சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டுள்ளதாக குற்றப் புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.
+
+பக்கமுன பகுதியை சேர்ந்த குறித்த பெண் ஆகஸ்ட் 26ஆம் திகதி கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டார். அதேவேளை மகரகமவைச் சேர்ந்த ஆண் செப்டம்பர் 29ஆம் திகதி கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட பெண் கல்முனையில் “உருமய” இலவசப் பத்திரத் திட்டத்தின் கீழ் பத்திரங்களை வழங்குவதாக கூறி   164 பேரை ஏமாற்றியும் , பின்னர் ஒரு வழக்கறிஞராக நடித்து ஒவ்வொருவரிடமிருந்தும் ரூ. 600,000 பணத்தை மோசடி செய்துள்ளதாக  விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/d85e7290.json)
 
 ---
 
@@ -581,6 +989,22 @@ The court accepted the police department's behavior in violation of his confiden
 
 ---
 
+### ஆசிரியர் பயிற்சிக் கல்லூரிகளுக்கு Ideahub நன்கொடை வழங்கி வைப்பு
+
+*2025-10-01 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226550) · `ta`
+
+ஸ்மார்ட் அரச சேவை நிலையங்களை ஊக்குவிக்கும் அரசாங்கத்தின் வேலைத்திட்டத்திற்கு இணைந்த வகையில் Huawei Sri Lanka நிறுவனத்தால் நன்கொடையாக வழங்கப்பட்ட Ideahub ஆசிரியர் பயிற்சிக் கல்லூரிகளுக்கு வழங்குதல், ஜனாதிபதி செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க  தலைமையில் ஜனாதிபதி செயலகத்தில் செவ்வாய்க்கிழமை (30) முற்பகல் நடைபெற்றது.
+
+இந்நாட்டின் அரச நிறுவனங்களுக்கு Ideahub வழங்கும் வேலைத்திட்டம் Huawei Sri Lanka நிறுவனத்தின் தொழில்நுட்பப் பிரிவினால் ஆரம்பிக்கப்பட்டுள்ளதுடன், இந்த வேலைத்திட்டம் எதிர்காலத்திலும் தொடர்ந்து நடைமுறைப்படுத்தப்படும் என அந்த நிறுவனம் தெரிவிக்கிறது.
+
+ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ரோஷன் கமகே, Huawei Sri Lanka பிரதம நிர்வேற்று அதிகாரி Zhang Jinze, பிரதான ஆணையாளர் (ஆசிரியர் கல்வி) இரோஷினி கே. பரணகம, பிரதி பணிப்பாளர் (கல்வி) என். எல். சி. பி. இந்திக ஆகியோருடன், Huawei Sri Lanka நிறுவனத்தின் சிரேஷ்ட அதிகாரிகள், ஆசிரியர் பயிற்சிக் கல்லூரிகளின் பீடாதிபதிகள்  உட்பட பலர் இந்நிகழ்வில் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/3246c6fe.json)
+
+---
+
 ### President Anurakumara returns from Japan
 
 *2025-10-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226551) · `ta`
@@ -670,6 +1094,24 @@ Authorities have launched a probe to identify and apprehend those involved in th
 [Data](articles/951d8455.json)
 
 [Extended Data](ext_articles/951d8455.ext.json)
+
+---
+
+### விபத்தில் சிக்கி இரண்டு இளைஞர்கள் உயிரிழப்பு!
+
+*2025-10-01 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226545) · `ta`
+
+அநுராதபுரத்தில் ஹொரவபொத்தனை - கபுகொல்லேவ வீதியின் கட்டுவரகொல்லேவ பகுதியில் இடம்பெற்ற விபத்தில் இரண்டு இளைஞர்கள் உயிரிழந்துள்ளனர்.
+
+கபுகொல்லேவயிலிருந்து ஹொரவபொத்தனை  நோக்கி பயணித்த ஸ்கூட்டர் ரக மோட்டார் சைக்கிள் எதிர் திசையில் பயணித்த பஸ்ஸுடன்  மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் உயிரிழந்தவர்கள் ஹொரவபொத்தனை , கட்டுவரகொல்லேவ மற்றும் நெலுகொல்லேவ பகுதிகளைச் சேர்ந்த 20 மற்றும் 21 வயதுடைய இளைஞர்கள் ஆவர்.
+
+விபத்து தொடர்பாக பஸ் சாரதி கைது செய்யப்பட்டுள்ளதோடு, இந்த விபத்து தொடர்பான மேலதிக விசாரணைகளை ஹொரவபொத்தனை  பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/9650a14e.json)
 
 ---
 
@@ -1554,473 +1996,5 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 [Data](articles/c4976f07.json)
 
 [Extended Data](ext_articles/c4976f07.ext.json)
-
----
-
-### 26 killed in clashes to the Philippines
-
-*2025-10-01 07:50:23* · [`adalk`](https://www.ada.lk/international/පිලිපීනයට-දරුණු-භූමි-කම්පාවක්-26ක්-මරුට/3-418830) · `si`
-
-At least 26 persons have died due to an earthquake in the central Philippines.
-
-Bogo and other affected cities and municipalities have been published in the estimated of the earthquake.
-
-The earthquake occurred beyond the coast of Zebu in Tuesday at 22:00 pm the city of Zebu, which caused electricity disorders and buildings
-
-The Philippine volcano and seismicism has been canceled the tsunami, and "The influence of minor sea level is largely alienated."
-
-◼️
-
-[Data](articles/f1630bd4.json)
-
-[Extended Data](ext_articles/f1630bd4.ext.json)
-
----
-
-### “Let’s build a Sri Lanka where children and elders live with security and dignity” – President
-
-*2025-10-01 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113094/lets-build-a-sri-lanka-where-children-and-elders-live-with-security-and-dignity-president) · `en`
-
-President Anura Kumara Dissanayake says that the government is fully committed to safeguarding the rights and wellbeing of both generations on the World Children’s Day and Elder’s Day and that it will continue to work tirelessly to enhance the welfare of children and elders.
-
-Recognizing children as the nation’s future, he pledges to ensure their physical and mental wellbeing through equal access to education, healthcare, protection, and social support, while giving special attention to children with developmental challenges.
-
-“Their joyful smiles are the hope and strength of our nation,” he said in a message for World Children’s Day and Elder’s Day.
-
-In his message the President also honoured the invaluable contribution of elders and emphasized building a society where both children and elders live with dignity, security, and respect.
-
-“We extend our deepest respect and gratitude to our elders for their invaluable contribution to the progress of our country.”
-
-...
-
-[Data](articles/f1e64752.json)
-
-[Extended Data](ext_articles/f1e64752.ext.json)
-
----
-
-### Age Challenge Nodated Ucali, Inoka and Chamari
-
-*2025-10-01 07:49:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce80p4610ejo) · `si`
-
-Sri Lanka was defeated by 59 runs in the first match of the World Cup Women's Cricket Women's Cricket Tournament.
-
-Despite the defeat of the competition, three senior members of the Sri Lankan team made significantly.
-
-Inoka Ranaweera and Udeshika Thamyasa Atapattu managed to take the lead in the Sri Lankan batsman.
-
-ICC Women's World Cup: India beat Sri Lanka by 59 runs
-
-The first wicket of the Indian team took first wicket in the Indian team left Udeshika Prabodhavi.
-
-She was 40 years old when she was (on 30th September).
-
-Accordingly, Udeshana was among the reports yesterday as the oldest sportswoman who took a wicket in a World Cup women's cricket match.
-
-The area of ​​Udesala resident of Dharga on September 20, 1985 is Karandeniya.
-
-She was educated at Karandeniya, Ganiyan College and Elpitiya, and she was referred to cricket under the guidance of the Galle District Sports Officer who served in the school.
-
-She managed to become a national level of player due to the talents of the speeding ball.
-
-...
-
-[Data](articles/16e29a47.json)
-
-[Extended Data](ext_articles/16e29a47.ext.json)
-
----
-
-### General Leader Representatives from the Chief Prelate
-
-*2025-10-01 07:36:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-දැඩි-අප්‍රසාදය-පළ-කරමින්-මහා-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/11-418829) · `si`
-
-The amendment to the proposed amendment and social crises of the current government, as well as the proposed amendment to the promotion of homosexuality industry in the Penal Code has been told to the President.
-
-Maithri Uyangarana Amaraphi Mahanaanayake, Mahanaanayake, General Visabotheara, Sri Siddhagoda, Sri Lanka Ramanagama, Sri Lanka's Mahanayanika, has been sent to the President of Sri Lanka Ramado Thera, Sri Lanka Ramanara Sri Lanka Ramanagama Mahanaanayake. Memorandum:
-
-If one tries to go to state control, if one tries to be the historical inheritance, as well as the historical inheritance, and the whole society, if one tries to be the historical heritage and blind.
-
-The role of social corporations as well as the Great Sanga expressed our serious displeasure regarding the process of promoting laws and behaviorals.
-
-...
-
-[Data](articles/156454e3.json)
-
-[Extended Data](ext_articles/156454e3.ext.json)
-
----
-
-### PM Harini calls for a prosperous nation where children thrive and elders live with dignity
-
-*2025-10-01 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113093/pm-harini-calls-for-a-prosperous-nation-where-children-thrive-and-elders-live-with-dignity) · `en`
-
-Prime Minister Dr. Harini Amarasuriya says that the government is committed to creating a safe, supportive, and child-friendly environment while protecting children from abuse, labour, and stress, and ensuring their growth with dignity and knowledge.
-
-“Children are the lifeline of a nation. It is our responsibility to build a fostering childhood for them,” she said in a message on World Children’s Day, under the theme “Nurture with Love – to lead the World.”
-
-In her message she also highlighted the government’s dedication to safeguarding elders by strengthening their security, wellbeing, and dignity, reaffirming the nation’s responsibility to build a prosperous society for both children and elders.
-
-“I would also remind that our Government is committed to ensuring the protection, mental wellbeing, and health of our senior citizens, while creating a respectful and dignified social environment for them.”
-
-...
-
-[Data](articles/4df66207.json)
-
-[Extended Data](ext_articles/4df66207.ext.json)
-
----
-
-### The weather today
-
-*2025-10-01 07:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226541) · `ta`
-
-The Department of Meteorology has said that rainfall will occur in Sabaragamuwa and Western Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Uniform weather may be in the rest of the country. Heavy winds can be frequent at speeds of 30 - 40 km / h in the western slopes of the Central Highlands, Northern, North Central, Central and North Western Provinces as well as in Trincomalee and Hambantota districts. ‌ ‌ ‌
-
-Rainfall is expected in some parts of the sea regions from Colombo to Galle to Matara.
-
-Winds from the southwest at 30 - 40 kilometers per hour in the sea regions.
-
-From Chilaw to Mannar to Mannar, as well as in the sea regions from Matara to Pottuvil via Hambantota, 50 - 55 km per hour. In these cases, these sea regions are turbulent.
-
-In the sea regions from the Kankesanthurai to Trincomalee, the wind can increase at 50 kilometers per hour.. In these cases, these sea regions are somewhat turbulent.
-
-◼️
-
-[Data](articles/a7aac375.json)
-
-[Extended Data](ext_articles/a7aac375.ext.json)
-
----
-
-### The government is remarkable for the welfare of children and elders - President
-
-*2025-10-01 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215207) · `si`
-
-President Anura Kumara Dissanayake says that the government is fully committed to the rights and well-being of children and adults.
-
-◼️
-
-[Data](articles/9080c236.json)
-
-[Extended Data](ext_articles/9080c236.ext.json)
-
----
-
-### KJA says information about death of Tajudeen
-
-*2025-10-01 06:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජඩනග-මරණය-ගන-තරතරක-කජජග-බරය-කයය/101-680530) · `si`
-
-He said that he had revealed that he had been killed in a suspect who had been killed in a suspect, he had been killed in a suspect, the wife of a suspect in a suspect who had been killed in a suspicious vehicle.
-
-He was speaking at a special media briefing held in the Police Media Division in Battaramulla.
-
-The police spokesman said that the wife of the Kibra's wife was voluntarily appeared to the CID.
-
-The body of Rugby Player Tajadin was found in May 2012 in May 2012, which had been burned near the Shashy Stadium, Colombo.
-
-Although the police investigated was an accident in an accident, the rugby player had asked for an independent investigation into the matter.
-
-Accordingly, in the year 2015, the Criminal Investigation Department has submitted a special report to the Colombo Magistrate's Court that the death was revealed that the death was assassinated after investigations.
-
-...
-
-[Data](articles/4052fa64.json)
-
-[Extended Data](ext_articles/4052fa64.ext.json)
-
----
-
-### KJA says information about death of Tajudeen
-
-*2025-10-01 06:54:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජඩනග-මරණය-ගන-තරතරක-කජජග-බරය-කයය/1-680530) · `si`
-
-He said that he had revealed that he had been killed in a suspect who had been killed in a suspect, he had been killed in a suspect, the wife of a suspect in a suspect who had been killed in a suspicious vehicle.
-
-He was speaking at a special media briefing held in the Police Media Division in Battaramulla.
-
-The police spokesman said that the wife of the Kibra's wife was voluntarily appeared to the CID.
-
-The body of Rugby Player Tajadin was found in May 2012 in May 2012, which had been burned near the Shashy Stadium, Colombo.
-
-Although the police investigated was an accident in an accident, the rugby player had asked for an independent investigation into the matter.
-
-Accordingly, in the year 2015, the Criminal Investigation Department has submitted a special report to the Colombo Magistrate's Court that the death was revealed that the death was assassinated after investigations.
-
-...
-
-[Data](articles/e09dcdd0.json)
-
-[Extended Data](ext_articles/e09dcdd0.ext.json)
-
----
-
-### Strong earthquake kills 31 people in a central Philippine region hit by deadly storm just days ago
-
-*2025-10-01 06:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113092/strong-earthquake-kills-31-people-in-a-central-philippine-region-hit-by-deadly-storm-just-days-ago) · `en`
-
-An offshore earthquake of magnitude 6.9 collapsed walls of houses and buildings late Tuesday in a central Philippine province, killing at least 31 people, injuring many others and sending residents scrambling out of homes into darkness as the intense shaking cut off power, officials said.
-
-The epicenter of the earthquake, which was set off by movement in a local fault at a depth of 5 kilometers (3 miles), was about 19 kilometers (12 miles) northeast of Bogo, a coastal city of about 90,000 people in Cebu province where at least 14 residents died, disaster-mitigation officer Rex Ygot told The Associated Press by telephone.
-
-The death toll in Bogo was expected to rise. Workers were trying to transport a backhoe to hasten search and rescue efforts in a cluster of shanties in a mountain village hit by a landslide and boulders, he said.
-
-...
-
-[Data](articles/1060cf5c.json)
-
-[Extended Data](ext_articles/1060cf5c.ext.json)
-
----
-
-### Philippines' earthquake lost 26
-
-*2025-10-01 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215206) · `si`
-
-26 people were killed in an earthquake in a 6.9-year-old earthquake in the Central Philippines.
-
-The dumplatures were caused by the coast of the city of Cebu.
-
-Another 147 persons were injured in the earthquake.
-
-Earthquakes have caused heavily damaged electricity and buildings.
-
-Philippine volcano and seismicism says that the earthquake has no tsunami.
-
-There is a population of nearly a million population in the Town of Sebu, located in the devaluation region of the earthquake.
-
-The rescue operations between the building debris continues and the number of deaths will be increased.
-
-◼️
-
-[Data](articles/a57a7256.json)
-
-[Extended Data](ext_articles/a57a7256.ext.json)
-
----
-
-### Few showers expected in parts of the island today
-
-*2025-10-01 06:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113091/few-showers-expected-in-parts-of-the-island-today) · `en`
-
-A few showers may occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts today (01), the Department of Meteorology said.
-
-Mainly fair weather will prevail over elsewhere of the island.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
-
-◼️
-
-[Data](articles/52f82e0e.json)
-
-[Extended Data](ext_articles/52f82e0e.ext.json)
-
----
-
-### Today is World Children and Elders Day
-
-*2025-10-01 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215205) · `si`
-
-The theme of the theme is celebrated today with the theme of the World Children's Day as the theme "Keep World Children's Day and" World Children's Day. "
-
-Various ceremonies and activities have been organized in parallel to the children's day of schools across the country.
-
-A National Children's Day has been operating a weekly week for the Children's Day from today (01) to the Elderly Day.
-
-◼️
-
-[Data](articles/ba1aaa4e.json)
-
-[Extended Data](ext_articles/ba1aaa4e.ext.json)
-
----
-
-### From the caferyes of the vehicle trailing the day after the killing of Thajudin
-
-*2025-10-01 06:00:21* · [`adalk`](https://www.ada.lk/breaking_news/තාජුඩීන්-ඝාතනය-වූ-දින-පසුපසින්-ගමන්-කළ-වාහනයේ-කජ්ජා-ඉදලා/11-418828) · `si`
-
-The police said that the police said in a statement that the two children were shot dead in the suspect's caring vehicle to the death of Rugbyhop Thajudeen.
-
-The Criminal Investigation Department has told the Criminal Investigation Department that the person who is going to be suspected to be identified as his master.. The Criminal Investigations Department announces the new witnessing activities of the construction work.
-
-◼️
-
-[Data](articles/1550311e.json)
-
-[Extended Data](ext_articles/1550311e.ext.json)
-
----
-
-### Weather today
-
-*2025-10-01 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215203) · `si`
-
-The Meteorology Department says that today (01), the Meteorological Department (01) has a few showers in the Western and Sabaragamuwa provinces.
-
-The department states that there is a continuous rainy weather in the other areas of the island.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
-
-Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara.
-
-Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
-
-From Matara to Pottuvil through Matara to Pottuvil and Chilaw to Kankasanthurai. 50-55 can rise.
-
-Winds from the sea areas off the Kankesanthurai to Trincomalee.. Department of Meteorology says that up to 50 can increase.
-
-...
-
-[Data](articles/78d68b88.json)
-
-[Extended Data](ext_articles/78d68b88.ext.json)
-
----
-
-### Gotabaya: Untold achievements
-
-*2025-10-01 05:46:07* · [`dailyftlk`](https://www.ft.lk/columns/Gotabaya-Untold-achievements/4-782440) · `en`
-
-Gotabaya Rajapaksa, former President of Sri Lanka, son of D.A. Rajapaksa, was born in June 1949, Palatuwa in Matara district as the fifth of nine siblings. He was brought up in Weeraketiya in Hambantota district. Hailing from a well-known political family, his father a prominent politician, Member of Parliament and the Cabinet Minister of Agriculture and Land in Wijayananda Dahanayake government and Mahinda Rajapaksa his elder brother. He was educated at Ananda College, Colombo and joined the Sri Lankan Army.
-
-...
-
-[Data](articles/130e93a9.json)
-
-[Extended Data](ext_articles/130e93a9.ext.json)
-
----
-
-### Lacklustre Government, blessed by the Opposition
-
-*2025-10-01 05:40:27* · [`dailyftlk`](https://www.ft.lk/opinion/Lacklustre-Government-blessed-by-the-Opposition/14-782439) · `en`
-
-“Most ignorance is vincible ignorance. We don’t know because we don’t want to know” – Aldous Huxley (Ends and Means)
-
-During her 107-day presidential election campaign, Kamala Harris (having inherited the Democratic Party candidacy after the precipitous departure of Joe Biden) tried to project herself as the true change agent. That image was blown to smithereens on the talk-show ‘The View’, just a month before the election. Asked what she would have done differently from President Biden in the last four years, she answered: “There’s not a thing that comes to mind.”
-
-...
-
-[Data](articles/6e9408ce.json)
-
-[Extended Data](ext_articles/6e9408ce.ext.json)
-
----
-
-### Tragedy at Na Uyana monastery, killing seven Buddhist monks is much more than meets the eye
-
-*2025-10-01 05:34:15* · [`dailyftlk`](https://www.ft.lk/opinion/Tragedy-at-Na-Uyana-monastery-killing-seven-Buddhist-monks-is-much-more-than-meets-the-eye/14-782438) · `en`
-
-It is learnt that this facility was constructed almost 20 years ago, using leftover material
-
-The tragedy that occurred at internationally famed Na Uyana monastery, killing seven Buddhist monks on the spot and injuring six other Bikkus is another heartrending news that shocked the entire Sri Lanka within the last one month. From the wide publicity given over the electronic media, it is reported that this unfortunate accident has taken place when the steel cable attached to the cable cart had snapped mid-journey, sending 13 Buddhist monks plummeting down a 300 meters precipice at a rapid speed without any control.
-
-Apparently, this last batch of Bikkus out of three had been returning from a religious observance when the accident struck at about 21:30 hours. The bodies had been flung to a more than 100 meters distance, according to eye-witnesses and rescuers, which gives the impression that the cart has travelled excessive speed after losing control.
-
-...
-
-[Data](articles/d4942ed9.json)
-
-[Extended Data](ext_articles/d4942ed9.ext.json)
-
----
-
-### Confirmation bias: Silently destroying meritocracy, objectivity and fairness
-
-*2025-10-01 05:28:12* · [`dailyftlk`](https://www.ft.lk/columns/Confirmation-bias-Silently-destroying-meritocracy-objectivity-and-fairness/4-782435) · `en`
-
-The varied public response to recent incidents ranging from the arrest of Ranil Wickremesinghe, former president and prominent politician of Sri Lanka to the assassination of Charlie Kirk, American right-wing political activist, evidence that our assessment of, and response to, events are primarily based on our like or dislike of the individual, or individuals, involved rather than on an objective and unemotional interpretation of the underlying facts. When we base our opinions and conclusions on our likes or dislikes of the individual rather than on the facts, we undermine the principles of fairness, justice, ethics, and integrity that underpin our society.
-
-...
-
-[Data](articles/41ee1adb.json)
-
-[Extended Data](ext_articles/41ee1adb.ext.json)
-
----
-
-### Three Indians arrested
-
-*2025-10-01 04:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோதிட-நிலையம்-சுற்றிவளைப்பு-இந்தியர்கள்-மூவர்-கைது/175-365562) · `ta`
-
-The illegal astrological station conducted by Indians who came to Sri Lanka with a tourist visa was surrounded by Jaffna and Point Pedro Police yesterday.
-
-The illegal astrological station is located on the Tumbalai road in Point Pedro.
-
-The Tumbala Pradeshiya Grama Niladhari has taken the matter to the notice of the Municipal Councilor.
-
-Subsequently, the Father of Point Pedro yesterday went to observe and advised the Indians to leave.
-
-However, after the continued operating astrological station, the police rushed to the scene after the incident was informed by the City Council, Vinson De Douglas, and the Indian citizens who rushed to the spot, revealed that the trio had arrived in the tourist visa.
-
-◼️
-
-[Data](articles/b079ab23.json)
-
-[Extended Data](ext_articles/b079ab23.ext.json)
-
----
-
-### Ambewela unveils exclusive premier consumer promotion
-
-*2025-10-01 04:48:28* · [`dailyftlk`](https://www.ft.lk/business/Ambewela-unveils-exclusive-premier-consumer-promotion/34-782420) · `en`
-
-From Sri Lanka’s most premium fresh milk to luxury holiday experiences
-
-Ambewela, has taken its commitment to consumers beyond the breakfast table by introducing an exclusive consumer promotion that blends daily nourishment with extraordinary experiences.
-
-Ambewela, which is regarded as Sri Lanka’s No. 1 fresh milk brand, has long been a benchmark for dairy excellence in Sri Lanka, trusted by generations for its uncompromising commitment to quality, purity, and nutrition.
-
-Established as the most premium fresh milk brand in the country, Ambewela is produced from its very own farms in the lush hills of Nuwara Eliya, where the finest pastures and advanced farming practices ensure milk of unmatched freshness and taste. Every drop of Ambewela milk embodies the brand’s promise of premium quality, safety, and nourishment, making it a staple in Sri Lankan households.
-
-...
-
-[Data](articles/035e9450.json)
-
-[Extended Data](ext_articles/035e9450.ext.json)
-
----
-
-### SL announces desire to build nuclear power plants at IAEA General Conference
-
-*2025-10-01 04:38:03* · [`dailyftlk`](https://www.ft.lk/news/SL-announces-desire-to-build-nuclear-power-plants-at-IAEA-General-Conference/56-782417) · `en`
-
-Ambassador Lenagala notes SL’s plans to include nuclear power as an energy source in 2025-2044 expansion plan
-
-Says SL tries to meet dual challenges of climate change and energy security
-
-Outlines several key initiatives SL has undertaken to strengthen the country’s nuclear infrastructure
-
-The Government has announced its intention to explore nuclear power as a reliable, low-carbon energy source to diversify its energy mix and strengthen energy security, at the 69th General Conference of the International Atomic Energy Agency (IAEA) held in Vienna from 15 to 19 September.
-
-Permanent Representative of Sri Lanka to the IAEA Ambassador M.R.K. Lenagala informed the IAEA that Sri Lanka has included nuclear power as an energy source within the base case of CEB Least Cost Long-Term Generation and Expansion Plan 2025-2044.
-
-...
-
-[Data](articles/5965a214.json)
-
-[Extended Data](ext_articles/5965a214.ext.json)
-
----
-
-### Murdered crime figure linked to 2012 Thajudeen case
-
-*2025-10-01 04:36:46* · [`dailyftlk`](https://www.ft.lk/news/Murdered-crime-figure-linked-to-2012-Thajudeen-case/56-782416) · `en`
-
-Police yesterday disclosed that an underworld figure killed in Middeniya earlier this year had been inside a vehicle that pursued rugby player Wasim Thajudeen shortly before his death in 2012.
-
-Acting Police Media Spokesperson Nihal Thalduwa said the man, identified as Anura Vidanagamage, known as “Middeniya Kajja”, was recognised by his widow in relation to the case.
-
-Investigators believe Vidanagamage was among those who followed Thajudeen’s car on the night of his death. Thajudeen, a former national rugby player, was found dead in his vehicle in May 2012. Although initially reported as a car accident, the case was later reclassified as a homicide.
-
-Vidanagamage, alleged to have ties to organised crime, was shot dead in Middeniya earlier this year. Police said his role in the Thajudeen case has now resurfaced during ongoing probes into underworld activity and unresolved high-profile killings.
-
-◼️
-
-[Data](articles/3544a134.json)
-
-[Extended Data](ext_articles/3544a134.ext.json)
 
 ---

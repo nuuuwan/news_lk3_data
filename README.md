@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 11:08:33**
+As of **2025-10-01 11:20:24**
 
 ## Newspaper Stats
 
-*Scraped **80,103** Articles*
+*Scraped **80,114** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 528
+newsfirstlk | 529
 lankadeepalk | 547
 dbsjeyarajcom | 636
 bbccomsinhala | 714
@@ -17,21 +17,139 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,703
+adalk | 7,704
 adaderanalk | 10,324
-tamilmirrorlk | 11,961
-virakesarilk | 13,081
-adaderanasinhalalk | 13,841
+tamilmirrorlk | 11,964
+virakesarilk | 13,085
+adaderanasinhalalk | 13,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,103 (100.0%) of 80,103 articles have been extended.
+80,103 (100.0%) of 80,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Thailand PM Personally Pilots Plane In Urgent Organ Mission
+
+*2025-10-01 11:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/thailand-pm-personally-pilots-plane-in-urgent-organ-mission) · `en`
+
+COLOMBO (News 1st); Thailand’s Prime Minister Anutin Charnvirakul personally piloted a plane on Tuesday (30) to retrieve life-saving organs from a donor in Loei province, before returning to Parliament for a crucial government policy debate.
+
+The mission was part of Anutin’s long-standing “Wings of the Heart” initiative, which facilitates rapid organ transport for critical transplants.
+
+Responding to an urgent request, Anutin left Parliament and flew two surgeons from Chulalongkorn University to Loei.
+
+The organs—a heart, liver, pancreas, two kidneys, and two eyes—were donated by the family of a 19-year-old man who died following a local brawl.
+
+Anutin met the donor’s parents, calling their decision “a great act of merit-making.”
+
+After the successful retrieval, Anutin immediately flew back to Bangkok.
+
+Defending his brief absence from the debate, he said he had contributed to the morning session and monitored proceedings remotely.
+
+...
+
+[Data](articles/917c7f7a.json)
+
+---
+
+### நாடு திரும்பினார் ஜனாதிபதி
+
+*2025-10-01 10:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-365572) · `ta`
+
+ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி அனுரகுமார திசாநாயக்க, தனது பயணத்தை முடித்துக்கொண்டு இன்று (10) காலை கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+
+ஜப்பானுக்கு விஜயம் செய்வதற்கு முன்னர், ஜனாதிபதி அமெரிக்காவில் நடைபெற்ற 80வது ஐக்கிய நாடுகள் சபையின் பொதுச் சபை அமர்வில் கலந்து கொண்டார்.
+
+அவருடன் வெளியுறவு, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா ஊக்குவிப்பு அமைச்சர் விஜித ஹேரத் மற்றும் பல மூத்த அரசு அதிகாரிகள் கலந்து கொண்டனர்.
+
+தாய்லாந்தின் பாங்காக்கிலிருந்து இலங்கை ஏர்லைன்ஸ் விமானம் UL-403 மூலம் காலை 9:30 மணிக்கு கட்டுநாயக்க விமான நிலையத்தை தூதுக்குழு வந்தடைந்தது.
+
+◼️
+
+[Data](articles/a95f8501.json)
+
+---
+
+### කෙහෙළිය පවුලට එරෙහි නඩුවට දින දෙයි
+
+*2025-10-01 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215214) · `si`
+
+රුපියල් මිලියන 97කට ආසන්න වටිනාකමකින් යුත් වත්කම් සහ දේපොළ අයථා ලෙස අත්පත් කර ගැනීම සම්බන්ධයෙන් හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ, දියණියන් තුන්දෙනා සහ බෑණාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව වැඩිදුර පූර්ව නඩු විභාග සම්මන්ත්‍රණය සඳහා ඔක්තෝබර් මස 15 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+
+මෙම නඩුව අද (01) කොළඹ මහාධිකරණ විනිසුරු මොහොමඩ් මිහාල් මහතා ඉදිරියේ කැඳවූ අවස්ථාවේදී කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු විත්තිකරුවන් අධිකරණය හමුවේ පෙනී සිටියහ.
+
+මෙහිදී විත්තිකාර කෙහෙළිය රඹුක්වැල්ල මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා අධිකරණය හමුවේ කරුණු දක්වමින් විත්තිය විසින් ඉල්ලා සිටින ලේඛන 12ක් මේ දක්වා පැමිණිල්ල විසින් තමන්ට ලබාදී නොමැති බව කියා සිටියේය.
+
+අල්ලස් කොමිසම විත්තිකරුවන්ට එරෙහිව හදිසියේ අධිචෝදනා පත්‍ර ගොනුකළත් ඊට අදාළ ලේඛන විත්තියට භාරදීමක් නොකරන බව පෙන්වා දුන් ජනාධිපති නීතිඥවරයා මෙය වැරදි පූර්වාදර්ශයක් බවත් සඳහන් කළේය.
+
+...
+
+[Data](articles/297e5fba.json)
+
+---
+
+### 16 வயது சிறுமி வன்புணர்வு: பொலிஸ் முன்னாள் அதிகாரிக்கு கடூழிய சிறை
+
+*2025-10-01 10:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுமி-வன்புணர்வு-பொலிஸ்-முன்னாள்-அதிகாரிக்கு-கடூழிய-சிறை/175-365571) · `ta`
+
+16 வயதுக்குட்பட்ட சிறுமியை பாலியல் ரீதியாக துஷ்பிரயோகம் செய்ததாக குற்றம் சாட்டப்பட்ட முன்னாள் பொரளை காவல்துறை அதிகாரி ஒருவருக்கு ஹோமாகம மேல் நீதிமன்ற நீதிபதி நவரட்ண மாரசிங்க 14 ஆண்டுகள் கடுங்காவல் சிறைத்தண்டனை விதித்தார்.
+
+2009 செப்டம்பர் 13, அன்று, குற்றம் சாட்டப்பட்டவர்  சிறுமியின் அந்தரங்க பாகங்களை பாலியல் ரீதியாகத் தொட தனது உடலின் ஒரு பகுதியைப் பயன்படுத்தி கடுமையான பாலியல் துஷ்பிரயோகத்தில் ஈடுபட்டதாகவும், இதன் மூலம்   தண்டனைச் சட்டத்தின் பிரிவின் கீழ் தண்டனைக்குரிய குற்றத்தைச் செய்ததாகவும் குற்றப்பத்திரிகையில் கூறப்பட்டுள்ளது.
+
+தீர்ப்பை வழங்கிய நீதிபதி, குற்றம் சாட்டப்பட்டவர் மீதான குற்றச்சாட்டுகளை நியாயமான சந்தேகத்திற்கு இடமின்றி நிரூபித்துள்ளதாகக் குறிப்பிட்டார்.
+
+சட்டமா அதிபர் சார்பாக ஆஜரான அரசு வழக்கறிஞர் ஷைனி வீரசூரிய, குற்றம் சாட்டப்பட்டவர், சட்டத்தை நிலைநிறுத்தும் பொறுப்பில் ஒப்படைக்கப்பட்ட ஒரு காவல்துறை அதிகாரியாக இருந்து, ஒரு குழந்தைக்கு எதிராக இதுபோன்ற குற்றத்தைச் செய்ய தனது அதிகாரப்பூர்வ பதவியை கடுமையாக துஷ்பிரயோகம் செய்ததாக நீதிமன்றத்தின் கவனத்துக்கு கொண்டுவந்தார்.
+
+...
+
+[Data](articles/557c5917.json)
+
+---
+
+### ஜப்பானிலிருந்து நாடு திரும்பினார் ஜனாதிபதி அநுரகுமார!
+
+*2025-10-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226551) · `ta`
+
+ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த  ஜனாதிபதி அநுரகுமார திசாநாயக்க இன்று புதன்கிழமை (01) காலை நாடு திரும்பியுள்ளார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க ஜப்பானிலிருந்து தாய்லாந்தின் பேங்கொக் நகரத்திற்கு சென்று பின்னர் அங்கிருந்து இன்று காலை 09.30 மணியளவில் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளார்.
+
+அமெரிக்காவின் நியூயோர்க் நகரத்தில் நடைபெற்ற ஐக்கிய நாடுகள் சபையின் 80 ஆவது பொதுச் சபை அமர்வில் கலந்து கொள்ளுவதற்காக ஜனாதிபதி அநுரகுமார திசாநாயக்க, வெளிநாட்டு அலுவல்கள் அமைச்சர் விஜித ஹேரத் மற்றும் பல அதிகாரிகள் அமெரிக்காவுக்கு கடந்த வாரம் சென்றிருந்தனர்.
+
+ஐக்கிய நாடுகள் சபையின் பொதுச் சபை அமர்வில் கலந்து கொண்டதையடுத்து ஜனாதிபதி அநுரகுமார திசாநாயக்க, வெளிநாட்டு அலுவல்கள் அமைச்சர் விஜித ஹேரத் மற்றும் அதிகாரிகள் ஜப்பானுக்கு ஜப்பானுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3b71d628.json)
+
+---
+
+### கைவிடப்பட்ட  நிலையில்  சிசு  மீட்பு:   தாய், தந்தை கைது
+
+*2025-10-01 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவிடப்பட்ட-நிலையில்-சிசு-மீட்பு-தாய்-தந்தை-கைது/175-365569) · `ta`
+
+கைவிடப்பட்ட நிலையில் மீட்கப்பட்ட  சிசு வின் பெற்றோரை அக்கரைப்பற்று பொலிஸார் கைது செய்துள்ளனர்.
+
+அம்பாறை மாவட்டம் ஒலுவில்   பிரதேசத்தில் பிறந்து சில நாட்களான   பெண் சிசு கடந்த ஞாயிற்றுக்கிழமை(28) மீட்கப்பட்டிருந்தது.
+
+இதன்போது விசாரணைகளை மேற்கொண்டு வந்த அக்கரைப்பற்று பொலிஸார் , ஒலுவில் பிரதேசத்தை சேர்ந்த குழந்தையின் தந்தை  மற்றும்  நிந்தவூரை பிரதேசத்தை சேர்ந்த  தாயை செவ்வாய்க்கிழமை  (30)   கைது செய்தனர்.
+
+அத்துடன் காதலித்து வந்த   தாய் மற்றும் தந்தை ஆகிய இருவரும் 17 வயது உடையவர்கள் எனவும்  அவர்களுக்கு திருமணமாகாத நிலையில்  குறித்த  குழந்தை பிறந்துள்ளதாக  பொலிஸார்  குறிப்பிட்டனர்.
+
+மேலும் குழந்தையின் தந்தையின் உறவினர்கள்   காதலுக்கு எதிர்ப்பு தெரிவித்த நிலையில்  கடந்த ஞாயிற்றுக்கிழமை (28) குறித்த பெண் தனது வீட்டில் சிசுவைப் பிரசவித்துள்ளார்.
+
+இவ்விடயத்தை அறிந்து கொண்ட குழந்தையின் தந்தை, காதலியின் வீடு சென்று தனது குழந்தையை நான் வளர்க்கிறேன் தாருங்கள் என்று பெற்றுக் கொண்டு வந்துள்ளார் என   ஆரம்பக் கட்ட விசாரணையில் இருந்து  தெரிய வந்துள்ளது.
+
+...
+
+[Data](articles/de3868a7.json)
+
+---
 
 ### Police Sergeant Nabbed for Drug Distribution
 
@@ -79,6 +197,30 @@ Authorities have launched a probe to identify and apprehend those involved in th
 
 ---
 
+### අණ නොතැකූ වෑන් රථයට පොලීසියෙන් වෙඩි
+
+*2025-10-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215213) · `si`
+
+නිට්ටඹුවේ දී අණ නොතකා ධාවනය කළ වෑන් රථයක් ලුහුබැඳ ගොස් පොලීසියෙන් වෙඩි තැබීමක් සිදුකර තිබේ.
+
+අද (01) අලුයම 1.15ට පමණ මෙම වෙඩිතැබීම සිදුව ඇති අතර, වෑන් රථයේ ගමන් ගත් තිදෙනෙකු පසුව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+ගම්පහ කොට්ඨාශ පොලිස් යතුරුපැදි ඒකකයේ පොලිස් පරීක්ෂකවරයෙකු ඇතුළු නිලධාරීන් පිරිසක් නිට්ටඹුව - කටුනායක මාර්ගයේ උදම්මිට හංදියේ මාර්ග බාධකයේ රාජකාරියේ යෙදී සිට තිබුණි.
+
+පසුව සැකකටයුතු ලෙස වේයන්ගොඩ දෙස සිට නිට්ටඹුව දෙසට වෑන් රථයක් ගමන් කර තිබේ.
+
+අදාළ වෑන් රථය නැවැත්වීමට පොලිස් නිලධාරීන් විසින් සංඥා කිරීමේ දී වෑන් රථය නොනවත්වා ධාවනය කිරීම හේතුවෙන් පොලිස් යතුරුපැදි ඒකකයේ නිලධාරීන් වෑන් රථය පසුපස හඹා ගොස් නිට්ටඹුව නගරයේ ආලෝක සංඥා වැටී තිබිය දී වෑන් රථයේ ඉදිරිපස හා පිටුපස දකුණු ටයරයට ටී 56 ගිනිඅවියෙන් වෙඩිතැබීමක් සිදුකර තිබුණි.
+
+අනතුරව වෑන් රථයේ සිටි තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර, ඔවුන් අධික ලෙස බීමතින් සිට ඇති බවත් පොලීසිය පැවසීය.
+
+එහි රියදුරු ලෙල්ලොපිටිය පදිංචිකරුවෙකු බවත් සෙසු පිරිස රත්නපුරේ පදිංචිකරුවන් බවත් අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/a092ab36.json)
+
+---
+
 ### President arrives
 
 *2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-එය/1-680544) · `si`
@@ -115,6 +257,24 @@ A motor vehicle allegedly used in the trafficking operation, driven by one of hi
 
 ---
 
+### துபாயில் கைது செய்யப்பட்ட 'டிங்கர்'  இலங்கைக்கு நாடு கடத்தப்பட்டார்!
+
+*2025-10-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226548) · `ta`
+
+துபாயில் கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான 'டிங்கர்' என அழைக்கப்படும் ஸ்ரீதரன் நிரஞ்சன் என்பவர் இன்று புதன்கிழமை (01) இலங்கைக்கு நாடு கடத்தப்பட்டுள்ளார்.
+
+'டிங்கர்' என்பவர் அண்மையில் துபாயில் கைது செய்யப்பட்ட நிலையில் இன்று கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு அழைத்துவரப்பட்டதையடுத்து குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைதுசெய்யப்பட்டு பேலியகொடை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+
+'டிங்கர்' என்பவர் ஒழுங்கமைக்கப்பட்ட குற்றம் மற்றும் போதைப்பொருள் கடத்தல்காரரான “பழனி ஷிரான் க்ளோரியன்“ அல்லது "கொச்சிக்கடை ஷிரான்"  என்பவரின் சகா என அடையாளம் காணப்பட்டுள்ளதாக பொலிஸார்  தெரிவித்தனர்.
+
+கிராண்ட்பாஸ் பொலிஸ் பிரிவில் உள்ள மஹவத்த பொது மயானத்திற்கு அருகில் நிறுத்தப்பட்டிருந்த முச்சக்கர வண்டியில் ஒருவரை சுட்டுக் கொன்ற சம்பவத்துடன் தொடர்புடைய சந்தேக நபர்கள் வந்த காரின் சாரதி   'டிங்கர்' என்பவர் ஆவார்.
+
+...
+
+[Data](articles/d237b148.json)
+
+---
+
 ### Divers Deployed After Weapons Magazines Found In Reservoir
 
 *2025-10-01 10:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/divers-deployed-after-weapons-magazines-found-in-reservoir) · `en`
@@ -134,6 +294,22 @@ Authorities have launched an investigation to determine who was responsible for 
 [Data](articles/9b2d9cba.json)
 
 [Extended Data](ext_articles/9b2d9cba.ext.json)
+
+---
+
+### அமைதியும் நல்லிணக்கமும் செழித்து வளமான நாடு உதயமாகட்டும் ; சஜித் பிரேமதாச
+
+*2025-10-01 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226549) · `ta`
+
+நவராத்திரி வழிபாடுகளை கொண்டாடும் இத்தருணத்தில், எதிர்க்கட்சித் தலைவராக,  மக்களுக்கு அனைத்து வளங்களும் கிட்டும் சிறந்த எதிர்காலத்தின் ஆரம்பம் உதயமாகும் புதிய நாளின் விடியலைக் குறிக்கும் ஒரு புதிய இரவு உதயமாகட்டும் என்பதாகும். இலங்கை இந்து பக்தர்களுக்கு இனிய நவராத்திரி நல்வாழ்த்துக்கள் உரித்தாகட்டும். நாட்டில் ஒறுமைப்பாடு, மதங்களுக்கிடையில் ஒற்றுமை, சகோதரத்துவம், அமைதி மற்றும் நல்லிணக்கம் நிலவ பிரார்த்திக்கின்றேன். நிலவும் எல்லா முரண்பாடுகளும் நீங்கி, வளமான நாடு உருவாக வேண்டும் என்று நான் பிரார்த்திக்கிறேன் என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (30) மாலை இடம்பெற்ற நவராத்திரி கொண்டாட்ட நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+நவராத்திரி விழா பொதுவாக புரட்டாசி மாதத்தில் கன்னி ராசியில் இருக்கும் காலத்தில் கொண்டாடப்படுகிறது. இருளை அகற்றி ஒளியை உதயமாக்கும் இந்து மத மக்களின் உன்னதமான பண்டிகையாக இதை அழைக்கலாம் என்று எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/ea8c4c96.json)
 
 ---
 
@@ -178,6 +354,22 @@ They all completed the visit from Bangkok, Thailand from Bangkok, from Bangkok f
 [Data](articles/520aae4b.json)
 
 [Extended Data](ext_articles/520aae4b.ext.json)
+
+---
+
+### ஜனாதிபதி ஜப்பானின் பேரரசர் நருஹிதோவை சந்தித்தார்
+
+*2025-10-01 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226547) · `ta`
+
+ஜப்பான் அரசாங்கத்தின் அழைப்பின் பேரில் அங்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க செவ்வாய்க்கிழமை (30) பேரரசர் மாளிகையில் ஜப்பானின் பேரரசர் நருஹிதோவை சந்தித்தார்.
+
+டொகியோவில் உள்ள ஜப்பான் பேரரசரின் உத்தியோகபூர்வ இல்லமான பேரரசர் மாளிகைக்கு வருகை தந்த ஜனாதிபதியை, பேரரசர் அமோகமாக வரவேற்றதுடன், சுமூகமான கலந்துரையாடலிலும் ஈடுபட்டார்.
+
+வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத்தும் இந்த நிகழ்வில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/151cec62.json)
 
 ---
 
@@ -256,6 +448,24 @@ In it, our government is committed to providing proper nutrition for all childre
 [Data](articles/4410f567.json)
 
 [Extended Data](ext_articles/4410f567.ext.json)
+
+---
+
+### ඇමෙරිකානු රජය නිල වශයෙන් වසා දැමෙයි
+
+*2025-10-01 09:51:03* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකානු-රජය-නිල-වශයෙන්-වසා-දැමෙයි/3-418832) · `si`
+
+ඇමෙරිකාවේ ෆෙඩරල් රජය නිල වශයෙන් වසා දැමීමට සිදුව තිබේ. ඇරමුදල් සපයා ගැනීමේ පියවරන් සම්මත කර ගැනීමට අපොසොසත් වීම‌ හේතුවෙන් මෙසේ රජය නිල වශයෙන් වසා දැමීමට සිදුව තිබේ. 2019 න් පසුව ඇමෙරිකානු රජයක් නිල වශයෙන් වසා දැමුණ පළමු අවස්ථාව මෙය වෙයි.
+
+අරමුදල් හිඟයට තමන් වග කිව නොයුතු බවට ඇමෙරිකාවේ පක්ෂ දෙකෙහිම නායකයින් පෞද්ගලිකව සහ  ප්‍රසිද්ධියේ දැඩි ලෙස අවධාරණය කරති: රිපබ්ලිකන් පක්ෂය අවධාරනය කරන්නේ ඩිමොක්‍රටික් පක්ෂය  තවත් සති හතක් සඳහා වත්මන් අරමුදල් දීර්ඝ කිරීමට එකඟ විය යුතු බවයි.
+
+සෙනෙට් සභාවේ ඕනෑම අරමුදල් පියවරක් සම්මත කිරීම සඳහා තම ඡන්දය ලබා දීම සඳහා ප්‍රධාන සහන නොමැතිව ඩිමොක්‍රටික් පක්ෂය ප්‍රතික්ෂේප කර තිබේ. වසා දැමීම කොපමණ කාලයක් පැවතිය හැකිද යන්න පිළිබඳ ගැඹුරු අවිනිශ්චිතතාවයකින්  සෙනෙට් සභිකයින්ට පවතී.
+
+සෙනෙට් සභාව  නැවතත් එම අරමුදල් සැලැස්ම මත ඡන්දය ප්‍රකාශ කිරීමට නියමිතව තිබේ. රජය වසා දැමීමෙන් අදහස් වන්නේ ලක්ෂ සංඛ්‍යාත ෆෙඩරල් සේවකයින් නිවාඩු ලබා දෙන අතර,  අත්‍යවශ්‍ය යැයි සැලකෙන අනෙක් අයට දිගටම වැඩට වාර්තා කිරීමට සිදුවනු ඇත.
+
+...
+
+[Data](articles/8801641e.json)
 
 ---
 
@@ -1784,233 +1994,5 @@ These purposes can be achieved by strengthening cooperation, establishing the SA
 [Data](articles/284a911d.json)
 
 [Extended Data](ext_articles/284a911d.ext.json)
-
----
-
-### The price of three types of fuel down
-
-*2025-09-30 22:36:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනධන-වරග-තනක-මල-පහළට/101-680524) · `si`
-
-The Ceylon Petroleum Corporation announced a few moments ago that the price of three fuel including diesel was reduced from midnight today (30).
-
-The price of a liter of Sri Lanka is Rs. 6 per liter of oil, the price of Rs.
-
-The Petroleum Corporation said that the price of a liter of Octane 92 petrol and Lanka super diesel will not change.
-
-According to this price amendment, the new price of a liter of Sri Lanka's white diesel is Rs 277 and the new price of an Octane 95 petrol.
-
-The Corporation also said that the price of a liter of Octane 92 petrol, the price of Rs.
-
-◼️
-
-[Data](articles/6110e696.json)
-
-[Extended Data](ext_articles/6110e696.ext.json)
-
----
-
-### Wife giving his wife to the prison cell
-
-*2025-09-30 22:30:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරය-සමයට-සර-මදරයද-කඩ-දල/101-680523) · `si`
-
-Kekirawa Police say that the Rajawa's wife was arrested for a detaineant person who was in custom from the Kekirawa Magistrate Advertiser.
-
-The Batticaloa Prison officials had taken action to be presented to Kekirawa Magistrate's appointment today (30).
-
-Accordingly, a group of detainees, including the relevant custom from prison officials to the prison personnel to the prison, had given the parcel that had alleged drugs in court hall.. The police had also been able to find the drugs that were provided by the woman in possession of the department.
-
-Police said he was able to find 480 millions of drugs and 300 grams of heroin in the parcel by the suspect.
-
-The police arrested the police were arrested by the police that the parcel containing drugs in the starvation hall.. Police have identified the wife of the detainea, police said.
-
-◼️
-
-[Data](articles/315d54ea.json)
-
-[Extended Data](ext_articles/315d54ea.ext.json)
-
----
-
-### Several laboratories at National Hospital are inactive - Medical Laboratory Science Association
-
-*2025-09-30 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215198) · `si`
-
-The All Ceylon Medical Laboratory Scientist Association alleges that certain officials in the health sector are working on the agenda of the government's hospitals.
-
-Representatives were held in Colombo today, said the representatives of the Colombo National Hospital have stopped.
-
-General Secretary of the All Ceylon Medical Laboratory Science Association, Wasantha Gunawardena, the General Secretary of the All Ceylon Medical Laboratory Science Association.
-
-"Creating order officers do not now do now. Full liver tests stopped at a certain extent. The cardiologist's 'Troponin i' has become a place not tested. The 'Troponin I' National Hospital Rs.
-
-◼️
-
-[Data](articles/70d87e87.json)
-
-[Extended Data](ext_articles/70d87e87.ext.json)
-
----
-
-### Bore. Removal of a military camp camping at Ramakrishna Mission School; Has been accommodated for educational activities
-
-*2025-09-30 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226529) · `ta`
-
-The military camp, which was camping at the Ramakrishna Mission School in Batticaloa since 1990, has been removed on Tuesday (30) after 35 years.
-
-The official event was held on Tuesday (30) at the Ramakrishna Mission Vidyalaya Army Camp.
-
-Minister of Industry and Entrepreneurship Development Sunilhantunithi participated in the event organized by the military.
-
-The Ramakrishnanam Vidyalaya campus was officially handed over to Gran Divisional Secretary K. Sithravel in the presence of Minister Sunilhantunithi.
-
-Eastern Provincial Commander Maj. Gen. Janaka Pallekumura Eastern Provincial Education Director SR Hasanthi and Calcutta Zonal Education Officer R. Anantarupan were also present.
-
-Following the military camp in the building in the 1990s, the school was relocating and operating in a different location.
-
-...
-
-[Data](articles/02c4aaef.json)
-
-[Extended Data](ext_articles/02c4aaef.ext.json)
-
----
-
-### Australia updates student visa evidence levels: Sri Lanka now among low-risk countries
-
-*2025-09-30 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113090/australia-updates-student-visa-evidence-levels-sri-lanka-now-among-low-risk-countries) · `en`
-
-The Australian Department of Home Affairs has recently updated evidence levels for student visa applications, as noted via the PRISMS system.
-
-While these levels are not officially published, the department uses them to assess the documentation required for student visa applications under the Simplified Student Visa Framework (SSVF).
-
-Based on information circulated within official education and immigration networks, countries are currently categorized as follows:
-
-Evidence levels are part of Australia’s risk-management approach to international education, reflecting past student visa compliance and other immigration outcomes.
-
-Both education providers and countries of citizenship are assigned evidence levels (Level 1, 2, or 3). The combination of these two factors determines how much documentation a student must provide.
-
-All institutions registered under the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS) are assigned an evidence level:
-
-...
-
-[Data](articles/066bafce.json)
-
-[Extended Data](ext_articles/066bafce.ext.json)
-
----
-
-### Discussion between the founding chairman and the president of the Nippon forum
-
-*2025-09-30 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226528) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, met with the founding president of the Nippon Forum at the Imperial Hotel in Tokyo on Tuesday morning.
-
-Special attention was paid to strengthening the long -term friendship between Japan and Sri Lanka.
-
-He told the president that Yohai Sasakawa would give his continued support to improve the livelihood of all communities in Sri Lanka.. He also put forward future plans for the reconstruction and modernization of 100 schools in the Northern and Eastern Provinces.
-
-இலங்கை மக்களின் முன்னேற்றம் மற்றும் நல்வாழ்வை மேம்படுத்துவதற்கான முயற்சிகளுக்கும், இலங்கையில் சமூக சேவைக்கான அவரது நீண்டகால அர்ப்பணிப்புக்கும் யொஹெய் சசகாவாவுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது நன்றியைத் தெரிவித்தார்.
-
-Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and many others participated in the meeting.
-
-◼️
-
-[Data](articles/3c0b9589.json)
-
-[Extended Data](ext_articles/3c0b9589.ext.json)
-
----
-
-### Three gorets arrested with Rajitha's cocaine
-
-*2025-09-30 22:11:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඩවට-රජතග-කකන-සමග-ගලය-තනක-මටට/101-680522) · `si`
-
-The Walana Corruption Assistance Former Corruption Balaksi Corps states that three million cocaine has been taken into custody with two million cocaines, including a chiefs of Badown Rajitha who operates.
-
-The authority of the Forgtor K.A.Adeva Kumara has been taken into custody by inspection of a house in Galpita Jayasiri Place.
-
-It has been revealed that At Attanagoda Kankanam Prabudu Priyankara alias Attanagoda Kankanam Priyankara, or Asi, has revealed that the father had been stored and trafficked in the house.
-
-The suspect was arrested and a mount term was a "Sura" and later found a kilo of cocaine in the event of the vehicle.
-
-◼️
-
-[Data](articles/8d32d08c.json)
-
-[Extended Data](ext_articles/8d32d08c.ext.json)
-
----
-
-### Fuel Prices Revised
-
-*2025-09-30 21:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/fuel-prices-revised) · `en`
-
-COLOMBO (News 1st); According to the Ceylon Petroleum Cooperation, Fuel prices will be revised with effect from midnight today (30). The price of a liter of auto diesel will be reduced by Rs. 6, the price of a liter of octane 95 petrol by Rs. 6 and the price of a liter of kerosene by Rs. 5. Other fuel prices will not be revised.
-
-◼️
-
-[Data](articles/ff08bca1.json)
-
-[Extended Data](ext_articles/ff08bca1.ext.json)
-
----
-
-### President and Japan meet between Sri Lankan parliamentary lease
-
-*2025-09-30 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215197) · `si`
-
-President Anura Kumara Dissanayake was held today (30) at the Imperial Hotel on the Imperial Hotel, Tokyo.
-
-The banquet was organized by the Japanese League of Japan.
-
-JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) has stated that President Anura Kumara Shindo (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to strengthening the cooperation between members of the two countries.
-
-They also said that cooperation will be strengthened through political, economic and cultural areas for mutual benefits of both countries.
-
-The Japanese - the Parliamentary League of Japan was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
-
-Foreign Affairs and Tourism and Tourism Vijitha Herath, Japan's Ambassador to Japan and Japan and Japanese - Sri Lanka's parliamentary league members were present at the occasion.
-
-◼️
-
-[Data](articles/04cc4b6b.json)
-
-[Extended Data](ext_articles/04cc4b6b.ext.json)
-
----
-
-### Action change in fuel prices
-
-*2025-09-30 21:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகளில்-அதிரடி-மாற்றம்/175-365558) · `ta`
-
-Ceylon Petroleum Corporation. .
-
-There is no change in the price of petrol Octane 92 and super diesel.
-
-◼️
-
-[Data](articles/bce27f1c.json)
-
-[Extended Data](ext_articles/bce27f1c.ext.json)
-
----
-
-### Two people die mysteriously in Colombo
-
-*2025-09-30 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226527) · `ta`
-
-The body of two men who died mysteriously in two other parts of Colombo was recovered by police on Monday (29).
-
-The body of an unidentified person who died mysteriously from the jar vavi near the Grandpass Police Division of Colombo. According to information provided by the residents to the police at 5.20 pm, the police had recovered the body and carried out investigations.  A person who is about 35 to 40 years of age, 5 feet 4 inches tall, has died.
-
-Investigators say he finally wore a black room gat shirt and a black top.
-
-Meanwhile, the body of a mysterious person has been recovered in a house on Siriwardena Road, Dehiwala Police Division.. A 23 -year -old man from Dehiwala died. In this case, the police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/2f7a9cb8.json)
-
-[Extended Data](ext_articles/2f7a9cb8.ext.json)
 
 ---

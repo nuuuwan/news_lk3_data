@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 09:26:23**
+As of **2025-10-01 09:38:56**
 
 ## Newspaper Stats
 
-*Scraped **80,065** Articles*
+*Scraped **80,069** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 521
+newsfirstlk | 522
 lankadeepalk | 535
 dbsjeyarajcom | 636
 bbccomsinhala | 714
@@ -17,9 +17,9 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,701
+adalk | 7,702
 adaderanalk | 10,321
-tamilmirrorlk | 11,957
+tamilmirrorlk | 11,959
 virakesarilk | 13,075
 adaderanasinhalalk | 13,837
 
@@ -27,11 +27,21 @@ adaderanasinhalalk | 13,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,065 (100.0%) of 80,065 articles have been extended.
+80,065 (100.0%) of 80,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### CCPI based Headline Inflation Accelerated Towards the Target in September 2025
+
+*2025-10-01 09:20:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/ccpi-based-headline-inflation-accelerated-towards-the-target-in-september-2025) · `en`
+
+...
+
+[Data](articles/835f79de.json)
+
+---
 
 ### President Dissanayake Meets Emperor of Japan and JICA Chief
 
@@ -42,6 +52,34 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/8cb3c17f.json)
 
 [Extended Data](ext_articles/8cb3c17f.ext.json)
+
+---
+
+### வெப்பநிலை குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+
+*2025-10-01 09:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-365566) · `ta`
+
+நாட்டின் 8 மாவட்டங்களில் இன்றைய தினம் (01) வெப்பமான வானிலை நிலவக்கூடுமென வளிமண்டலவியல் திணைக்களம் எச்சரித்துள்ளது.
+
+வடமத்திய மற்றும் கிழக்கு மாகாணங்களிலும், வவுனியா, முல்லைத்தீவு மற்றும் மொனராகலை மாவட்டங்களிலும் மனித உடலால் உணரப்படும் வெப்பநிலையானது, எச்சரிக்கை மட்டத்தை எட்டக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இதனால், வெளிப்புறங்களில் வேலை செய்பவர்கள் இலேசான ஆடைகளை அணியுமாறும், நிழலான பகுதிகளில் ஓய்வெடுத்தல் மற்றும் போதியளவு நீரை அருந்துமாறும் அறிவுறுத்தப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/028ccc8b.json)
+
+---
+
+### இலங்கை அழைத்து வரப்பட்டார் ’டிங்கர்’
+
+*2025-10-01 08:33:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அழைத்து-வரப்பட்டார்-டிங்கர்/175-365565) · `ta`
+
+அண்மயில் டுபாயில் கைது செய்யப்பட்ட ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல் உறுப்பினரான 'டிங்கர்' எனப்படும் ஸ்ரீதரன் நிரஞ்சன் இன்று காலை இலங்கைக்கு அழைத்து வரப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/973e4103.json)
 
 ---
 
@@ -114,6 +152,22 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 [Data](articles/c4976f07.json)
 
 [Extended Data](ext_articles/c4976f07.ext.json)
+
+---
+
+### රජයට දැඩි අප්‍රසාදය පළ කරමින් මහා නායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක්
+
+*2025-10-01 07:36:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-දැඩි-අප්‍රසාදය-පළ-කරමින්-මහා-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/11-418829) · `si`
+
+වර්තමාන රජය මඟින් දණ්ඩ නීති සංග්‍රහයේ 82 වගන්තියට ශාරීරක දඩුවම් කිරීමේ වරද නමින් යෝජිත සංශෝධනය මෙන්ම සංචාරක සංවර්ධන අධිකාරිය මගින් සමලිංගික සේවනය පදනම් කරගත් සංචාරක ක්ෂේත්‍රය ප්‍රවර්ධනයට අනුග්‍රහය ලබාදීම බරපතළ සාරධර්මමය  ආරාධිකත්වයක් හා සමාජ අර්බුද ගණනාවක් ඇති කිරීමට හේතු වන බවත් ඊට දැඩි අප්‍රසාදය පළ කරමින් ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ අත්සනින්යුතුව විශේෂ සංදේශයක්  ජනාධිපතිවරයාට දැනුම් දී තිබේ.
+
+මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බොටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන අමරපුර මහානිකායේ මහානායක අතිපූජ්‍ය කරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති ශ්‍රී ලංකා රාමඤ්ඤ මහානිකායේ මහානායක අතිපූජ්‍ය මකුලෑවේ ශ්‍රී විමලාභීධාන යන මානායක හිමිවරුන්ගේ අත්සනින් යුතුව ජනාධිපතිවරයාට යොමු කොට ඇති සංදේශය මෙසේයි.
+
+රටක සංස්කෘතිය හා අනන්‍යතාවයන් ඓතිහාසික උරුමය මෙන්ම චිරාගත සද්චාරිත්‍රයන් නොසලකා පටු අත්තනෝමතින් හා අන්ධානුකරණයන් මත පදනම්ව රාජ්‍ය පාලනයෙහිලා යමෙක් උත්සාහ දරන්නේ නම් එය රාජ්‍යය ආරාජික වීමට මෙන්ම සමස්ත සමාජය බිඳවැටීමට හේතුවන්නකි.
+
+...
+
+[Data](articles/156454e3.json)
 
 ---
 
@@ -1890,83 +1944,5 @@ Police suspect that this has been brought to the place.
 [Data](articles/69ea9d49.json)
 
 [Extended Data](ext_articles/69ea9d49.ext.json)
-
----
-
-### Modernin meets foreign grenades
-
-*2025-09-30 18:19:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදරන-වදස-ජව-අතබමබ-හමවය/101-680509) · `si`
-
-Modara police say that a large haul of livelihoods have been found near the wall of Modara New Mawatha, Municipal Council.
-
-According to information received by the Terrorist Investigation Division, 10 hand grenades have been completed.
-
-The bombs were two types of bombs and 7 bombs were one of the three bombs in one type.
-
-Police said that the bombs were in the area in a school bag donated by a finance company.
-
-Police suspect that this has been brought to the place.
-
-◼️
-
-[Data](articles/824bdecb.json)
-
-[Extended Data](ext_articles/824bdecb.ext.json)
-
----
-
-### An announcement in several districts for several districts
-
-*2025-09-30 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215191) · `si`
-
-The Department of Meteorological Department has issued a warning of the warm weather conditions in several districts.
-
-The announcement depicts the heat that should be focused on the North Central, Eastern Province and Vavuniya, Mullaitivu and Monaragala Districts.
-
-Accordingly, the Department has requested the public to minimize the impact of human health.
-
-◼️
-
-[Data](articles/ec9a4ae1.json)
-
-[Extended Data](ext_articles/ec9a4ae1.ext.json)
-
----
-
-### The National People's Power Government should take meaningful action to stop Indians illegally fishing in the Sri Lankan waters
-
-*2025-09-30 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226515) · `ta`
-
-In the first part of this article, two weeks ago, I explained the current issue of Indian fishermen from the state of Tamil Nadu to illegally fishing and the use of Eelam in the Northern Territory of Sri Lanka.
-
-Particular attention was focused on the Kachchativu bouquet, which is being raised by the Indian side to distract the issue.  As previously emphasized, the basic issue is not an illegal fishing in the waters of Sri Lanka, not the issue of Kachchativu's possession.. I will explain some important issues on the illegal fishing of Tamil Nadu fishermen in the second and final part of the article.
-
-...
-
-[Data](articles/ac5a23f0.json)
-
-[Extended Data](ext_articles/ac5a23f0.ext.json)
-
----
-
-### Discussion between President and Jayawa Chairman
-
-*2025-09-30 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215190) · `si`
-
-President Anura Kumara Dissanayake on an invitation to the Japanese government invitudes visited the Japanese International Cooperation (JICA) in Tokyo, Tanaka Akuko.
-
-The President expressed his gratitude for the continued support to Sri Lanka with the support of Sri Lanka with a significant contribution to national development.
-
-The SLFP Chairman pointed out the importance of the private sector, industrial and agriculture development as the key to sustainable economic progress in Sri Lanka.
-
-Katunayake, Bandaranaike International Airport Project will be resumed and will continue to maintain long-term cooperation with Sri Lanka by observing the macroeconomic management of Sri Lanka.
-
-The discussion was also discussed on the implementation of the waste management plan in the Western Province.
-
-...
-
-[Data](articles/9ec65847.json)
-
-[Extended Data](ext_articles/9ec65847.ext.json)
 
 ---

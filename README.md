@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 10:21:40**
+As of **2025-10-01 10:09:29**
 
 ## Newspaper Stats
 
-*Scraped **80,091** Articles*
+*Scraped **80,081** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 524
-lankadeepalk | 541
+newsfirstlk | 522
+lankadeepalk | 535
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -17,9 +17,9 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,703
+adalk | 7,702
 adaderanalk | 10,324
-tamilmirrorlk | 11,961
+tamilmirrorlk | 11,960
 virakesarilk | 13,081
 adaderanasinhalalk | 13,839
 
@@ -27,83 +27,11 @@ adaderanasinhalalk | 13,839
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,070 (100.0%) of 80,091 articles have been extended.
+80,070 (100.0%) of 80,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
-
-### No Bus Fare Reduction Despite Diesel Price Drop
-
-*2025-10-01 10:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/no-bus-fare-reduction-despite-diesel-price-drop) · `en`
-
-COLOMBO (News 1st); The National Transport Commission (NTC) announced that bus fares will not be reduced despite the recent drop in diesel prices.
-
-NTC Chairman P.A. Chandrapala stated that a fare revision requires at least a 4% reduction in diesel prices.
-
-However, the latest price adjustment reflects only a 1.58% decrease, which does not meet the threshold for a fare change.
-
-Diesel prices were reduced by Rs. 6 per litre in both August and September.
-
-Following the latest revision, the current price of a litre of diesel stands at Rs. 277.
-
-◼️
-
-[Data](articles/9cccdae6.json)
-
----
-
-### Police Fire at Van Ignoring Orders in Nittambuwa
-
-*2025-10-01 09:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-fire-at-van-ignoring-orders-in-nittambuwa) · `en`
-
-COLOMBO (News 1st); Police officers opened fire on a van that allegedly ignored orders to stop in the Udammita area of Nittambuwa early this morning, authorities confirmed.
-
-According to police, the incident occurred during a special motorcycle patrol conducted by the Gampaha Division.
-
-Officers signaled the van to halt, but the driver reportedly attempted to flee, prompting police to discharge their firearms to bring the vehicle to a stop.
-
-Subsequent investigations revealed that the driver and passengers were heavily intoxicated at the time of the incident.
-
-They are residents of Lellopitiya and Ratnapura, aged 38 and 43.
-
-◼️
-
-[Data](articles/5e35e671.json)
-
----
-
-### නීතියට පයින් ගසා කෝටි 668ක්  ණයට බෙදලා
-
-*2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/1-680541) · `si`
-
-ශ්‍රී ලංකා විදුලිබල මණ්ඩලය  අර්ථසාධක අරමුදලේ රීතිවලට පටහැනිව රුපියල් කෝටි හයකට වැඩි  අධ්‍යාපන ණය සහ රුපියල්  කෝටි 662  කට ආසන්න වටිනා දේපල ණය 2024 වර්ෂයේදී  ලබාදී ඇති බව  පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේදී (කෝප් කමිටුව )තොරතුරු අනාවරණය විය.
-
-නියමිත ක්‍රමවේදයෙන් බැහැරව අධ්‍යක්ෂ මණ්ඩලයේද  කම්කරු කොමසාරිස්වරයාගේ සහ දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයාගේද  අනුමතියකින්  තොරව සහ 2003 අර්ථසාධක අරමුදල් රෙගුලාසිවල සංශෝධන ගැසට් නිවේදයකින්  ප්‍රකාශයට පත් නොකර මෙම ණය ලබාදී  තිබූ බව එම කමිටුව පවසයි.
-
-වහාම මේ සම්බන්ධයෙන් සුදුසු ක්‍රියාමාර්ග ගන්නා ලෙස කෝපා කමිටුව නිර්දේශ කර ඇත.
-
-◼️
-
-[Data](articles/6c1c6b7d.json)
-
----
-
-### ஜனாதிபதியின் வாழ்த்துச் செய்தி
-
-*2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வாழ்த்துச்-செய்தி/175-365568) · `ta`
-
-சிறுவர்கள் மற்றும் முதியவர்களின் நல்வாழ்வுக்காக நாங்கள் தொடர்ந்து செயலாற்றி வருகிறோம் என ஜனாதிபதி அநுர குமார திசாநாயக்க உலக சிறுவர்கள் தினம் மற்றும் உலக முதியோர் தின வாழ்த்து செய்தியில் தெரிவித்துள்ளார்.
-
-ஒரு நாட்டின் மற்றும் உலகின் எதிர்காலம் சிறுவர்களின் கைகளிலே உள்ளது. அவர்களின் உலகம்  உண்மையான மற்றும் அழுக்கற்ற உலகம் என்பதால் அது  மிகவும் அழகானது. அந்த அழகை அனுபவிக்க அவர்களுக்கு தடையற்ற வாய்ப்பை வழங்குவது ஒரு சமூகத்தின் பொறுப்பாகும்.
-
-உரிமைகளுடன் கடமைகளும் பொறுப்புகளும் வருகின்றன என்பதைப் புரிந்துகொள்ளும் ஒரு அரசாங்கமாக, சிறுவர்களின் உரிமைகளைப் பாதுகாப்பதற்கும் ஊக்குவிப்பதற்கும் நாங்கள் எப்போதும் உறுதிபூண்டுள்ளோம்.  சிறுவர் என்பது யார் என்பதை மிகவும் நடைமுறை மற்றும் விரிவான முறையில் வரையறுப்பதன் மூலம் சிறுவர்களின் உரிமைகளை மேம்படுத்துவதற்குத் தேவையான தலையீடுகளை நாங்கள் செய்து வருகிறோம்.
-
-...
-
-[Data](articles/4410f567.json)
-
----
 
 ### ஜப்பான் - இலங்கைப் பாராளுமன்ற லீக் குழு ஜனாதிபதியை சந்தித்தது
 
@@ -221,40 +149,6 @@ Foreign, Foreign Employment and Tourism Minister Vijitha Herath also attended th
 
 ---
 
-### ‘ටින්කර්‘ ගුවන්තොටේදී අල්ලයි
-
-*2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ටනකර-ගවනතටද-අලලය/1-680534) · `si`
-
-ඩුබායි හි සැගව සිටි සංවිධානාත්මක අපරාධකරුවෙකු වන ශ්‍රීදරන් නෙරංජන් නොහොත් ටින්කර් නැමැත්තා අද(01 )  ඩුබායි සිට මෙරටට පැමිණෙමින් සිටියදී කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
-
-36 හැවිරිදි ටින්කර් කොළඹ 15 ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර ඔහු සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන පලනි ශිරාන් ග්ලෝරියන් නොහොත් කොච්චිකඩේ ශිරාන් නැමැත්තාගේ ප්‍රධානතම අනුගාමිකයෙකි .
-
-ටින්කර් අද  අලුයම 12.05 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 232 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර එහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
-
-මොහු 2024.10.16 දින ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මහවත්ත සුසාන භූමිය අසළ දී ත්‍රීරෝද රථයක ගමන් ගත් පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීම සහ පෑලියගොඩ පොලිස් වසමේ 2025.08.19 දින සිදු කළ වෙඩි තැබීමක් සදහා යොදා ගත් ගිනි අවි සැපයීම සිදු කර එදිනම ඩුබායි බලා මෙරටින් පළා ගොස් තිබූ අතර මොහුට එරෙහිව ගුවන් ගමන් තහනමක් ද පනවා තිබුණි .
-
-...
-
-[Data](articles/084dda36.json)
-
----
-
-### මධ්‍යම පරිසර අධිකාරියත් “ගව්පේ”ට වහ වැටෙයි
-
-*2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/1-680533) · `si`
-
-මධ්‍යම පරිසර අධිකාරිය “ගව්පේ (GovPay) රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව” සමඟ එක්ව කටයුතු කිරීම ආරම්භ කර තිබේ.
-
-ඒ අනුව මධ්‍යම පරිසර අධිකාරිය විසින් සපයනු ලබන විවිධ සේවාවන් සඳහා සියලු ගෙවීම් “GovPay" රාජ්‍ය ඩිජිටල් වේදිකාව” ඔස්සේ ගෙවීමට පහසුකම් සැනසෙනු ඇත.
-
-මධ්‍යම පරිසර අධිකාරිය මගින් සපයනු ලබන සේවාවලට අදාළ ක්ෂේත්‍ර වල පරීක්ෂණ ගාස්තු (Inspection Fees), බලපත්‍ර ගාස්තු (License Fees), ක්‍රියාත්මක කිරීමේ ගාස්තු (Processing Fees), අපනයනය සඳහා බාසල් එකඟතා ලබාදීමේ ගාස්තු (Basel Export Consent Fees), සහතික කිරීමේ ගාස්තු (Certificate Fees), පරිපාලන ගාස්තු (Administration Fees), ලියාපදිංචි ගාස්තු (Registration Fees), වාර්ෂික ගාස්තු (Annual Fees), රසායනාගාර ගාස්තු (Laboratory  Fees), අපද්‍රව්‍ය බැහැර කිරීමේ ගාස්තු (Waste Disposal Fees), ප්‍රසම්පාදන ගාස්තු (Procurement Fees), ජාතික පාරිසරික තොරතුරු මධ්‍යස්ථානයට අදාළ ගාස්තු (NEIC Payments) සහ විභාග ගාස්තු (Exam Fees) යන සේවා වර්ගවලට අයත් සියලු ගාස්තු “GovPay රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව”  ඔස්සේ ගෙවිය හැකි බව මධ්‍යම පරිසර අධිකාරිය කියයි.
-
-...
-
-[Data](articles/fb8cf407.json)
-
----
-
 ### President Dissanayake Meets Emperor of Japan and JICA Chief
 
 *2025-10-01 09:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/president-dissanayake-meets-emperor-of-japan-and-jica-chief) · `en`
@@ -282,42 +176,6 @@ Thus, those who work outdoors are advised to wear light clothes, relax in shadow
 [Data](articles/028ccc8b.json)
 
 [Extended Data](ext_articles/028ccc8b.ext.json)
-
----
-
-### කෝටි 10ක් වංචා කළ දෙන්නෙක් අල්ලයි
-
-*2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-10ක-වච-කළ-දනනක-අලලය/1-680532) · `si`
-
-2024  "උරුමය"  වැඩසටහන යටතේ බව පවසා ඔප්පු නොමැති ඉඩම් සඳහා ස්ථීර ඔප්පු ලබාදෙන බව පොරොන්දු වී රුපියල් කෝටි 10 කට ආසන්න මුදලක් වංචා කර සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් සැකකරුවකු සහ සැකකාරියක්  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලයය කියයි.
-
-සැකකරු  මෙම මුදල් වංචා කර ඇති සිරිකොත මූලස්ථානයට  සහ කොළඹ ප්‍රසිද්ධ හෝටලයකට කැඳවා බව පොලිසිය සඳහන් කරයි.
-
-අත්අඩංගුවට ගත් 43 හැවිරිදි  සැකකාරිය බකමූණ ප්‍රදේශයේ පදිංචිකාරියක් වන අතර කිරිබත්ගොඩ ප්‍රදේශයේ තාවකාලිකව ලැඟුම්හලක පදිංචිව සිට ඇති අතර සැකකරු 55 හැවිරිදි  මහරගම පදිංචිකරුවෙකි.
-
-සැකකාරිය කල්මුණේ ප්‍රදේශයේ ව්‍යාපාරිකයන් 164 දෙනෙකුට උරුමය වැඩසටහන යටතේ ඔප්පු නොමැති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබා දෙන බවට පවසා තමා නීතිඥවරියක් වශයෙන්ද ඔවුන් වෙත හඳුන්වමින් ව්‍යාපාරිකයන් රවටා එක් පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ හයක මුදලක් ලබාගෙන ඇති බවට සිදු කරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇතැයි පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/d84f1b3e.json)
-
----
-
-### අද කාලගණය
-
-*2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680531) · `si`
-
-බස්නාහිර ,සබරගමුව පළාත්වල ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල අද (01) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද එම දෙපාර්තමේන්තුව කියයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
-
-මේ අතර කොළඹ සිට ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති විය හැකිය. සුළං නිරිත දෙසින් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40 පමණ බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-◼️
-
-[Data](articles/62874de4.json)
 
 ---
 
@@ -448,24 +306,6 @@ COLOMBO (News 1st) - President Anura Kumara Dissanayake has reaffirmed the gover
 [Data](articles/c4976f07.json)
 
 [Extended Data](ext_articles/c4976f07.ext.json)
-
----
-
-### පිලිපීනයට දරුණු භූමි කම්පාවක් 26ක් මරුට
-
-*2025-10-01 07:50:23* · [`adalk`](https://www.ada.lk/international/පිලිපීනයට-දරුණු-භූමි-කම්පාවක්-26ක්-මරුට/3-418830) · `si`
-
-මධ්‍යම පිලිපීනයේ රික්ටර් මාපකයේ 6.9 ක ප්‍රභලත්වයකින් යුත් භූමිකම්පාවක් හේතුවෙන් අවම වශයෙන් පුද්ගලයින් 26 දෙනෙකු මිය ගොස් ඇති බව එරට ආපදා කළමනාකරණ නිලධාරීන් පවසයි
-
-භූමිකම්පාවෙන් සිදු වූ හානිය තක්සේරු කිරීමේදී බෝගෝ නගරය සහ අනෙකුත් බලපෑමට ලක් වූ නගර සහ නගර සභා 'හදිසි තත්වයක්' ප්‍රකාශයට පත් කර ඇත.
-
-අඟහරුවාදා දේශීය වේලාවෙන් රාත්‍රී 22:00 ට පෙර සෙබු නගරයේ වෙරළට ඔබ්බෙන් භූමිකම්පාව ඇති වූ අතර එමඟින් විදුලිය ඇනහිටීම් සහ ගොඩනැගිලි වලට හානි සිදුවිය
-
-පිලිපීන ගිනිකඳු හා භූ කම්පන විද්‍යා ආයතනය සුනාමි උපදේශනය අවලංගු කර ඇති අතර, "සුළු මුහුදු මට්ටමේ කැළඹීම් හේතුවෙන් ඇතිවන ඕනෑම බලපෑමක් බොහෝ දුරට පහව ගොස් ඇත" යනුවෙන් පවසයි.
-
-◼️
-
-[Data](articles/f1630bd4.json)
 
 ---
 
@@ -1409,22 +1249,6 @@ The future of the world as well as the future of the world is the parasion. Extr
 
 ---
 
-### ළමා -වැඩිහිටි අයිතිය රකින්න කැපවෙනවා
-
-*2025-09-30 22:52:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ළම-වඩහට-අයතය-රකනන-කපවනව/1-680526) · `si`
-
-ළමා සහ වැඩිහිටි අයිතිවාසිකම් සහ සුබසිද්ධිය වෙනුවෙන් රජය පූර්ණ වශයෙන් කැප වී සිටින බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ලෝක ළමා දිනය සහ වැඩිහිටි දිනය වෙනුවෙන් සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් පවසයි.
-
-ලෝක ළමා දිනය සහ වැඩිහිටි දිනය අදට යෙදී තිබේ. රටක ජනගහනයෙන් ළමා සහ වැඩිහිටි නියෝජනය සැලකිය යුතු ප්‍රමාණයකි. මෙම පරම්පරා දෙකෙහිම අයිතිවාසිකම් සහ සුබසිද්ධිය වෙනුවෙන් පූර්ණ වශයෙන් අප රජය කැප වී සිටින අතර, දරුවන්ගේ මෙන්ම වැඩිහිටියන්ගේ යහපැවැත්ම උදෙසා අඛණ්ඩව ක්‍රියා කරමින් සිටින්නෙමු.
-
-රටක මෙන්ම ලෝකයේ අනාගතය දරා සිටින්නේ ළමා පරපුරය. ඔවුන්ගේ ලෝකය අව්‍යාජ සහ නොකිළිටි ලොවක් වන හෙයින් අතිශය සුන්දරය. ඒ සුන්දරත්වය භුක්ති විඳීමට ඔවුන්ට බාධාවකින් තොර වූ අවස්ථාවක් හිමි කර දීම ප්‍රජාවක් සතු වගකීමකි. අයිතීන් සමඟ යුතුකම් සහ වගකීම්ද නිර්මාණය වන බව අවබෝධ කර ගත් රජයක් ලෙස අපි සෑමවිටම ළමා අයිතිවාසිකම් සුර‍ක්ෂිත කිරීමට සහ තහවුරු කිරීමට කැප වී සිටිමු. එසේම, ළමයා යනු කවුරුන්ද යන්න වඩා ප්‍රායෝගික සහ පරිපූර්ණ ලෙස නිර්වචනය කරමින් ළමා අයිතිවාසිකම් ප්‍රවර්ධනයට අවශ්‍ය මැදිහත් වීම අපි ඉටු කරමින් සිටිමු.
-
-...
-
-[Data](articles/f765f209.json)
-
----
-
 ### Are we going to jail now now? Imagine
 
 *2025-09-30 22:48:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපට-දන-හර-යනවද-උගනවනවද-හතනන-වල/101-680525) · `si`
@@ -1942,5 +1766,191 @@ These observations have been made in a joint letter to the President, issued wit
 [Data](articles/f361427c.json)
 
 [Extended Data](ext_articles/f361427c.ext.json)
+
+---
+
+### Severe heat in many districts - Meteorological Department Warning
+
+*2025-09-30 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226521) · `ta`
+
+The Meteorological Department has issued a warning on hot weather in many districts.
+
+The warning states that the heat of the human body may have to pay attention to the North Central and Eastern Provinces and Vavuniya, Mullaitivu and Moneragala districts.
+
+Accordingly, focus on the matter is being paid and can reduce the impact on human health.
+
+◼️
+
+[Data](articles/68b97914.json)
+
+[Extended Data](ext_articles/68b97914.ext.json)
+
+---
+
+### Two arrested with over 15 million cocaine
+
+*2025-09-30 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215194) · `si`
+
+Two persons have been arrested by the Walana Central Anti-Corruption Board Unit this afternoon with three kilograms of cocaine.
+
+The suspect has been arrested in the Panadura area on the instructions of the Walana Corruption Contruption Unit and its OIC Indika Indika Indika Weerasinghe.
+
+Two of them were found in a house and the other was found in a luxury car.
+
+The total amount of drugs was worth over Rs.
+
+A police officer in the ministry has also been found in the possession of the suspects.
+
+මොවුන් මෙම මත්ද්‍රව්‍ය තරුපන්තියෝ හෝටල්වල ඇති රාත්‍රී සමාජ ශාලාවෙත අලෙවි කරන බවද පොලීසිය සඳහන් කළේය.
+
+The racket has been led by a person who is in Dubai.
+
+◼️
+
+[Data](articles/f81b81a7.json)
+
+[Extended Data](ext_articles/f81b81a7.ext.json)
+
+---
+
+### Manamperi Wanted Over Rice Truck Heist
+
+*2025-09-30 19:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/manamperi-wanted-over-rice-truck-heist) · `en`
+
+...
+
+[Data](articles/9ac54ee0.json)
+
+[Extended Data](ext_articles/9ac54ee0.ext.json)
+
+---
+
+### ‘We Are Bears, Not Paper Bears’: Russia’s Strong Message from Colombo
+
+*2025-09-30 19:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/%e2%80%98we-are-bears-not-paper-bears%e2%80%99-russia%e2%80%99s-strong-message-from-colombo) · `en`
+
+...
+
+[Data](articles/403e7453.json)
+
+[Extended Data](ext_articles/403e7453.ext.json)
+
+---
+
+### Child Death in Srimad Ramayana
+
+*2025-09-30 19:12:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/ஸ்ரீமத்-ராமாயணத்தில்-நடித்த-குழந்தை-மரணம்/54-365544) · `ta`
+
+Eight -year -old brother Veer Sharma and his 16 -year -old brother Shoria Sharma are said to have died of suffocation in Soni Sab (Son TV dubbed and broadcast in Tamil).
+
+Child star Veer Sharma died in a fire at his home. Veer Sharma's brother Sareya Sharma also died in the fire.
+
+Veer Sharma lived with his family on the fourth floor of the apartment in Kota, Rajasthan.
+
+Her father, the teacher of the private training institute, went to the temple for Bhajan during the incident. Her mother, Rita Sharma, is also an actress in Mumbai.
+
+However, the hospital administration said they died on the way to the hospital.  R
+
+◼️
+
+[Data](articles/311301a1.json)
+
+[Extended Data](ext_articles/311301a1.ext.json)
+
+---
+
+### 13 Years Later: CCTV Suspect in Thajudeen Case Identified as Slain Gang Member
+
+*2025-09-30 19:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/13-years-later-cctv-suspect-in-thajudeen-case-identified-as-slain-gang-member) · `en`
+
+COLOMBO (News 1st); A major breakthrough has emerged in the long-running investigation into the death of national rugby player Wasim Thajudeen, who died under suspicious circumstances on May 17, 2012, near Shalika Grounds in Narahenpita.
+
+Initially classified as a car accident, the case was investigated by the Narahenpita Police and the Borella Crimes Investigation Division. Based on their findings, the death was deemed accidental, and the case was closed.
+
+However, in 2015, then-DIG of the Colombo Range, Gamini Mathurata, submitted a report to then-IGP N.K. Illangakoon, prompting the transfer of the case to the Criminal Investigations Department (CID). A comprehensive investigation followed, revealing that the initial post-mortem had been improperly conducted, raising serious doubts about the cause of death.
+
+...
+
+[Data](articles/029d846c.json)
+
+[Extended Data](ext_articles/029d846c.ext.json)
+
+---
+
+### ‘Kajja’ linked to murder of Wasim Thajudeen?
+
+*2025-09-30 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113086/kajja-linked-to-murder-of-wasim-thajudeen) · `en`
+
+Sri Lanka Police says that it has been confirmed that Anura Vidanagamage, also known as “Kajja”, who was recently shot dead along with his two children in Middeniya, was in the vehicle that had followed slain former Sri Lankan rugby player Wasim Thajudeen’s vehicle moments before the latter was murdered.
+
+Speaking at a press briefing in Colombo today (30), Acting Police Spokesman ASP Minura Senarath stated that this information was uncovered following the interrogation of underworld figure ‘Backhoe Saman’, who was recently arrested in Indonesia and is suspected to have orchestrated the killing of ‘Kajja’, and a statement provided by Kajja’s widow.
+
+During the investigation, the Criminal Investigation Department (CID) showed Kajja’s wife CCTV footage of Thajudeen purchasing a bottle of water from a shop near the Havelock City complex. She identified the person standing behind Thajudeen in the footage as her husband, noting his distinctive posture and long-standing back problems.
+
+...
+
+[Data](articles/76a22002.json)
+
+[Extended Data](ext_articles/76a22002.ext.json)
+
+---
+
+### Shocking news about Tajuddin's murder
+
+*2025-09-30 18:57:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீன்-கொலை-குறித்து-அதிர்ச்சி-செய்தி/175-365543) · `ta`
+
+A shocking news has been revealed in connection with the assassination of rugby player Wasim Tajuddin.
+
+Accordingly, in the group that came to assassinate Rugby player Wasim Tajuddin, he was also a 'Gajja' alias Aruna Vidhanagamage, who was recently assassinated with two children in Mitteniya.
+
+Responding to this, Police Media Spokesperson Assistant Superintendent of Police, Minura Senarath said.
+
+In a media briefing held at the Police Media Division this afternoon, the police spokesman said this.. Remble
+
+◼️
+
+[Data](articles/6f8fb9e9.json)
+
+[Extended Data](ext_articles/6f8fb9e9.ext.json)
+
+---
+
+### Two two crores of powder arrested
+
+*2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-15ක-කඩ-සමඟ-දනනක-මටට/1-680511) · `si`
+
+The Walana Central Anti-Corruption Unit, along with a luxury car, has passed two suspects with a luxury car.
+
+A disciple of the suspect, a large number of cocaine father, is a large-scale of cocaine from a foreign country, has been arrested.
+
+The Chief Inspector Indika Weerasinghe has been arrested by the Chief Inspector Indika and Galthadera, the OIC Chief Inspector Indika and Galthadera, which is used by cricketers and cricket equipment.
+
+Police said that after the arrest of the main suspect, he was arrested in a car with a kilogram of cocock in a car belonging to him.
+
+◼️
+
+[Data](articles/46ea7259.json)
+
+[Extended Data](ext_articles/46ea7259.ext.json)
+
+---
+
+### Two two crores of powder arrested
+
+*2025-09-30 18:55:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-15ක-කඩ-සමඟ-දනනක-මටට/101-680511) · `si`
+
+The Walana Central Anti-Corruption Unit, along with a luxury car, has passed two suspects with a luxury car.
+
+A disciple of the suspect, a large number of cocaine father, is a large-scale of cocaine from a foreign country, has been arrested.
+
+The Chief Inspector Indika Weerasinghe has been arrested by the Chief Inspector Indika and Galthadera, the OIC Chief Inspector Indika and Galthadera, which is used by cricketers and cricket equipment.
+
+Police said that after the arrest of the main suspect, he was arrested in a car with a kilogram of cocock in a car belonging to him.
+
+◼️
+
+[Data](articles/e95b63bd.json)
+
+[Extended Data](ext_articles/e95b63bd.ext.json)
 
 ---

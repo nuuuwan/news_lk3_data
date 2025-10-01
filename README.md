@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 01:06:00**
+As of **2025-10-02 01:20:51**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,365 (100.0%) of 80,366 articles have been extended.
+80,366 (100.0%) of 80,366 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,6 +66,8 @@ The proposed RMIT Sri Lanka Innovation Hub will strengthen the implementation of
 ...
 
 [Data](articles/cc458d26.json)
+
+[Extended Data](ext_articles/cc458d26.ext.json)
 
 ---
 

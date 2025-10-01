@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 19:56:13**
+As of **2025-10-01 20:38:38**
 
 ## Newspaper Stats
 
-*Scraped **80,323** Articles*
+*Scraped **80,329** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 539
-lankadeepalk | 608
+lankadeepalk | 613
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,722
+adalk | 7,723
 adaderanalk | 10,340
 tamilmirrorlk | 11,985
 virakesarilk | 13,137
@@ -27,11 +27,29 @@ adaderanasinhalalk | 13,858
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,323 (100.0%) of 80,323 articles have been extended.
+80,329 (100.0%) of 80,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Namal answers to the Thajayan story
+
+*2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-කතවට-නමලගන-පළතරක/1-680596) · `si`
+
+The Government of Sri Lanka General, Namal Rajapaksa alleges that the government and the Criminal Investigations Department is trying to distract the public opinion for political gain.
+
+He added that the former good governance government and the present government have built various absurd allegations.
+
+Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures to be former officials to the OIC of the Narahenpita OIC of Thajudepitiya.
+
+◼️
+
+[Data](articles/81ff093e.json)
+
+[Extended Data](ext_articles/81ff093e.ext.json)
+
+---
 
 ### Australian Homeland Homeland Radio Radio Radio
 
@@ -52,6 +70,24 @@ It is noteworthy that the 'Homeland' Tamil Broadcasting Service Radio continues 
 [Data](articles/8cf306ae.json)
 
 [Extended Data](ext_articles/8cf306ae.ext.json)
+
+---
+
+### 58 children living on World Children's Day hospitalized
+
+*2025-10-01 18:58:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලක-ළම-දනය-ගත-ආහර-වස-ව-දරව-58ක-රහල-ගත-කරත/1-680595) · `si`
+
+A hospital spokesman said that the teachers of Hingurakgoda Bakatuna Kottapitiya School of Colombo, Hingurakgoda, Vidyalaya in Polonnaruwa have been admitted to the Bakamuna Divisional Hospital due to the teachers of the World Children's Day.
+
+Later, after granting the food to the students, the school had a number of students who went to home and inhabitants.
+
+At the same time, nearly 58 school children have been hospitalized with each parent to bring their children to the Bakamuna Regional Hospital.
+
+◼️
+
+[Data](articles/1f24921e.json)
+
+[Extended Data](ext_articles/1f24921e.ext.json)
 
 ---
 
@@ -86,6 +122,28 @@ Free Trade Zone Manufacturers Association, National Commodity Board of Sri Lanka
 [Data](articles/b853700f.json)
 
 [Extended Data](ext_articles/b853700f.ext.json)
+
+---
+
+### Director's director is locked up with the Principal of the Principal
+
+*2025-10-01 18:53:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදහලපතට-සථන-මර-ලපය-රගන-ගය-කලප-අධයකෂක-සරකරල/1-680594) · `si`
+
+Schedule after conducting the Schedule article after an investigation against the principal held against the Principal of Abboddi National School, ZHN.. Mrs. Dulanjali had taken steps to keep the school's gates of the school and prison.
+
+Several claims to be the school development society of the school and had a teaching of the entrance, supporting it and staying on the school premises.
+
+The Zeagraphent Director of the Agraditional Principal of the Agraditional School of Agraditional School of Agraditional School SK Coomaranayake has taken the transfer letter to the Eastern Provincial Department of Education with immediate effect.
+
+As soon as the incident, a group of committees came to a "voice" against the outside principal.
+
+Senior Superintendent of Police in charge of the Kantale Division. Sanjeewa Bandara deployed several police officers at Headquarters Police and allowed the zonal education director.
+
+◼️
+
+[Data](articles/41b8e923.json)
+
+[Extended Data](ext_articles/41b8e923.ext.json)
 
 ---
 
@@ -260,6 +318,46 @@ The gold consignment has been taken to hand over the Indian vessel in the sea.
 [Data](articles/97169fc2.json)
 
 [Extended Data](ext_articles/97169fc2.ext.json)
+
+---
+
+### කෝටි 14ක රන් සමඟ දෙන්නෙක් මාට්ටු
+
+*2025-10-01 18:17:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-14ක-රන-සමඟ-දනනක-මටට/1-680591) · `si`
+
+The Kalpitiya Naval Travel, Kalpitiya, has been arrested by the Kalpitiya Naval Train in Kalpitiya Lagawwa, Kalpitiya Lagawwa, Kalpitiya Lagoral area.
+
+The stock was seized by naval officers in checking the vessel, which was sailing with fishing nemps as fishermen.
+
+The suspects are the 25 year old youths from Kalpitiya Sasces and the Janasjawipura.
+
+The gold consignment has been taken to hand over the Indian vessel in the sea.
+
+◼️
+
+[Data](articles/9b00c1cd.json)
+
+[Extended Data](ext_articles/9b00c1cd.ext.json)
+
+---
+
+### Little son of the World Children's Day
+
+*2025-10-01 18:17:04* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලක-ළම-දනය-ද-පච-පත-ළඳට-බල/1-680590) · `si`
+
+Navagamuwa Police said that the World Children's Day was celebrated in the back of the house.
+
+The deceased has been identified as a resident of Semaraya, Niliyan Hettiarachchi (4).
+
+Despite this well on the back of the nickest, the involvement of the children of the nests, the busy doubts that the adult child had gone into the well and fell into it.
+
+The police say that the accident had been identified as the children of the children's day to attend the presence of the Children's Day Cricket and acquired gifts.
+
+◼️
+
+[Data](articles/5e6e167d.json)
+
+[Extended Data](ext_articles/5e6e167d.ext.json)
 
 ---
 
@@ -1827,6 +1925,26 @@ According to the Ministry of Environment, the petition filed the PC's mosquito, 
 
 ---
 
+### Govt.
+
+*2025-10-01 14:58:08* · [`adalk`](https://www.ada.lk/breaking_news/රිදියගම-වැව-මැනීමෙන්-ආණ්ඩුව-අඩියක්-පස්සට-ගනියි/11-418847) · `si`
+
+Deputy Minister of Agriculture and Livestock Sampath Karanarathne said that the issuing of the Ridiyagama tank tanks of Ridiyagama tank is being carried out on the issue of promptity on the issue of promotion.
+
+Periya said that the issue of measurement of Ridiyagama tank residence in the Ridiyagalawewa Tank Reserve in a few occasions as a result of the protest of the Ridiyagama tank reserve in several occasions, the people in a discussion was held in a discussion with the people of the area.
+
+The people of the area are not protesting against the tanted reserves, but the present reserve is used to solve this problem using the Ridiyagama Wewa Reserve in the Ridiyagama Wewa.
+
+The people of the area claimed that the tucked tanks were marked and acquired by land was a risk of losing their residence land, Karambagala Mulla.
+
+...
+
+[Data](articles/abbece4b.json)
+
+[Extended Data](ext_articles/abbece4b.ext.json)
+
+---
+
 ### Stagnant US state administration: Hundreds of thousands of people are affected!
 
 *2025-10-01 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226589) · `ta`
@@ -1898,121 +2016,5 @@ This decision was made by Lafs Gas PLC, Cluster CEO Niroshan J. Peiris announced
 [Data](articles/a093e48b.json)
 
 [Extended Data](ext_articles/a093e48b.ext.json)
-
----
-
-### Shots shooting police orders negative vehicle
-
-*2025-10-01 14:44:51* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතැකූ-වාහනයට-වෙඩි/11-418845) · `si`
-
-The Nittambuwa Police say that the police officers who pledged a veteran vehicle in three occasions have been taken into custody.
-
-At the Kurunegala Divisional Secretariat Police, the Gampaha Divisional Secretariat, the Gampaha Divisional Secretariat, the Gampaha Divisional Sacred Police Motorcy Center, has been conducting a van towards the Nittambuwa to Nittambuwa.
-
-Police officers have taken steps to signal the van, but the van has been running incessantly.
-
-The officials of the motorcycle unit have been attempted to stop the vehicle behind the van on three occasions and the van has been driven towards Wathupitiwala in Nittambuwa.. Due to this, the police station at the front of the police and back in the front of the police officers and the right tire of the van, the police station stopped the vehicle
-
-The vehicle and the three were arrested by the vehicle and other vessels to stop the vanage on the left of the road.
-
-...
-
-[Data](articles/cfbeec82.json)
-
-[Extended Data](ext_articles/cfbeec82.ext.json)
-
----
-
-### Bullets emerge from Weheragala reservoir
-
-*2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වහරගල-ජලශයන-උණඩ-මතව/101-680575) · `si`
-
-Gonagankara Police said that the Twanganara Police have found a number of military instruments to use in the Yala National Park.
-
-It has been revealed that the T-56 Magazines used for T-56-bulged magazines, including T-56 magazines, including T-56 major arms, 12 mpmg magazine, including T-56 major arms, 12 mpmg magazine using T-56 magazines.
-
-A fisherman engaged in a fisherman of the Weath Weapons of Weheragala, Army and the Gonagankara Police College of Gonagankara Police were also discovered.
-
-The police say that more than the weapons of the reservoir is suspected to be at the bottom of the reservoir, so the police said.
-
-◼️
-
-[Data](articles/570e537f.json)
-
-[Extended Data](ext_articles/570e537f.ext.json)
-
----
-
-### Bullets emerge from Weheragala reservoir
-
-*2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වහරගල-ජලශයන-උණඩ-මතව/1-680575) · `si`
-
-Gonagankara Police said that the Twanganara Police have found a number of military instruments to use in the Yala National Park.
-
-It has been revealed that the T-56 Magazines used for T-56-bulged magazines, including T-56 magazines, including T-56 major arms, 12 mpmg magazine, including T-56 major arms, 12 mpmg magazine using T-56 magazines.
-
-A fisherman engaged in a fisherman of the Weath Weapons of Weheragala, Army and the Gonagankara Police College of Gonagankara Police were also discovered.
-
-The police say that more than the weapons of the reservoir is suspected to be at the bottom of the reservoir, so the police said.
-
-◼️
-
-[Data](articles/b360561b.json)
-
-[Extended Data](ext_articles/b360561b.ext.json)
-
----
-
-### Cache of firearms and ammunition uncovered from Kataragama Weheragala Reservoir
-
-*2025-10-01 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113109/cache-of-firearms-and-ammunition-uncovered-from-kataragama-weheragala-reservoir) · `en`
-
-A stock of weapons including 74 T-56 magazines, 35 LMG drums, 5 MPMG drum boxes, and several unidentified magazines has been discovered in the Kataragama Weheragala Reservoir.
-
-Additionally, two boxes suspected to contain explosives and two sacks suspected to contain weapons were also reportedly found at the location.
-
-The discovery was made following an investigation based on intelligence received by the military.
-
-The cache of military equipment was observed due to the receding water levels of the Weheragala Reservoir. Since the location where the equipment was found falls under jurisdiction of the Gonaganara Police Division, the items have been handed over to the Gonaganara Police Station for further investigation.
-
-Police stated assistance of Navy divers will be obtained to further inspect the reservoir.
-
-◼️
-
-[Data](articles/784351eb.json)
-
-[Extended Data](ext_articles/784351eb.ext.json)
-
----
-
-### There is no change in Litro Gas Price
-
-*2025-10-01 14:38:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලටර-ගස-මල-වනසක-නත/1-680574) · `si`
-
-According to the gas price formula, Litro Gas Ltd. said the litro gas prices would not change this month.
-
-Accordingly, the price of a 12.5kg domestic gas cylinder of Rs 3,690, Rs.
-
-◼️
-
-[Data](articles/7f7ee24d.json)
-
-[Extended Data](ext_articles/7f7ee24d.ext.json)
-
----
-
-### Opening of $ 1.6 billion credit letters to import $ 1.6 billion
-
-*2025-10-01 14:38:01* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලර්-බිලියනයක-වාහන-ගෙන්වා-අවසන්--ඩොලර්-බිලියන-1-6ක-ණයවර-ලිපි-විවෘත-කරලා/11-418844) · `si`
-
-President Anura Kumara Dissanayake said that the value of $ 1.6 billion has been reached since the opening of the vehicle imports.
-
-He was addressing the Sri Lankan community in Japan. He added that the market was opened in the most precious vehicles for imports of vehicles and that the vehicles in Sri Lanka were older than 15 years.
-
-◼️
-
-[Data](articles/b8d142e3.json)
-
-[Extended Data](ext_articles/b8d142e3.ext.json)
 
 ---

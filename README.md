@@ -1,51 +1,89 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 13:41:07**
+As of **2025-10-01 14:12:11**
 
 ## Newspaper Stats
 
-*Scraped **80,151** Articles*
+*Scraped **80,156** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 531
+newsfirstlk | 532
 lankadeepalk | 564
 dbsjeyarajcom | 637
-bbccomsinhala | 714
+bbccomsinhala | 715
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,709
+adalk | 7,711
 adaderanalk | 10,328
 tamilmirrorlk | 11,968
 virakesarilk | 13,085
-adaderanasinhalalk | 13,847
+adaderanasinhalalk | 13,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,150 (100.0%) of 80,151 articles have been extended.
+80,154 (100.0%) of 80,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### 100 இல் 10 கைக்குண்டுகள் மீட்பு
+### ලාෆ්ස් ගෑස් මිලේ වෙනසක් නෑ
+
+*2025-10-01 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215219) · `si`
+
+මාසික මිල සංශෝධනය අනුව ලාෆ්ස් ගෑස් මිල සම්බන්ධව එම ආයතනය දැනුම් දීමක් සිදුකර තිබේ.
+
+ඒ අනුව ඔක්තෝම්බර් මාසයට අදාළව ලාෆ්ස් ගෑස් මිලේ කිසිදු වෙනසක් සිදුනොවේ.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 4,100ක් වන අතර කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 1,645කි.
+
+◼️
+
+[Data](articles/bff49803.json)
+
+---
+
+### Indonesia School Collapse: Over 90 Students Still Trapped
+
+*2025-10-01 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/indonesia-school-collapse-over-90-students-still-trapped) · `en`
+
+(DW): Indonesian officials and rescue workers continued their search for survivors on Wednesday, as some 91 students were still beilieved to be trapped under the rubble of a collapsed school building in Java.
+
+The multi-story boarding school collapsed on Monday during an ongoing illegal construction of a third and fourth floor. The structure fell as students were gathered in the hall for afternoon prayers.
+
+Most of those unaccounted for are boys between the age of 12 and 18. Female students were gathered in a different hall for prayers and managed to escape.
+
+More than 300 rescue workers, police officials and soldiers continue to work through the debris. Most rescues typically happen within 24 hours of a disaster with chances of survival decreasing after that.
+
+"Based on student attendance data, 91 people are suspected to be burried under building materials," national Disaster and Mitigation Agency spokesperson Abdul Muhari said late on Tuesday.
+
+...
+
+[Data](articles/0081b9d9.json)
+
+---
+
+### Recovery of 10 handbags out of 100
 
 *2025-10-01 13:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-இல்-10-கைக்குண்டுகள்-மீட்பு/175-365578) · `ta`
 
-100 கைக்குண்டுகளுடன் தப்பிச் சென்ற சந்தேக நபர்களை விசாரிக்கும் பயங்கரவாத புலனாய்வுப் பிரிவு (TID), நேற்று மோதரையில் அவற்றில் 10ஐ மீட்டது.
+The Terrorist Investigation Unit, which is investigating the suspects who escaped with 100 handguns, recovered 10 of them in the confrontation yesterday.
 
-கிரிபத்கொடை மற்றும் செட்டிக்குளத்தில் மூன்று சந்தேக நபர்களை பொலிஸார் முன்னதாக T-56 தாக்குதல் துப்பாக்கி மற்றும் 86 கைக்குண்டுகளுடன் கைது செய்தனர்.
+Police have arrested three suspects in Kiribathkodai and Chettikulam with T-56 assault rifle and 86 hand grenades.
 
-பின்னர் நடத்தப்பட்ட விசாரணைகளில், மேலும் பல சந்தேக நபர்கள் சுமார் 100 கையெறி குண்டுகளுடன் தப்பிச் சென்றது தெரியவந்தது. ஆரம்ப கைதுகளுடன் தொடர்புடைய தொடர் நடவடிக்கைகளின் போது மோதரை மீட்பு நடவடிக்கை செய்யப்பட்டது.
+Investigations later revealed that several more suspects escaped with about 100 grenades. The rescue operation was made during a series of measures associated with the initial arrests.
 
 ◼️
 
 [Data](articles/7f18be6a.json)
+
+[Extended Data](ext_articles/7f18be6a.ext.json)
 
 ---
 
@@ -68,6 +106,22 @@ The federal government ran out of money after a Democratic-backed spending bill 
 [Data](articles/39027746.json)
 
 [Extended Data](ext_articles/39027746.ext.json)
+
+---
+
+### Ticket law from today
+
+*2025-10-01 12:59:30* · [`adalk`](https://www.ada.lk/breaking_news/ටිකට්-නීතිය-අද-සිට/11-418838) · `si`
+
+Passengers from passenger buses in the Western Province have been mandatory by the Western Province Road Passenger Transport Superintendent.
+
+The conductors who do not give passengers a fine of Rs.
+
+◼️
+
+[Data](articles/03e76722.json)
+
+[Extended Data](ext_articles/03e76722.ext.json)
 
 ---
 
@@ -212,6 +266,26 @@ In addition, the report also stated that updates on embassy services and operati
 [Data](articles/76bab19e.json)
 
 [Extended Data](ext_articles/76bab19e.ext.json)
+
+---
+
+### Colombo inflation rises to increase - 2.9 percent of food category
+
+*2025-10-01 11:33:38* · [`adalk`](https://www.ada.lk/business/කොළඹ-උද්ධමනය-ඉහළ-යයි---ආහාර-කාණ්ඩයේ-සියයට-2-9ක්/7-418837) · `si`
+
+The annual point difference in the Colombo Consumer Price Index has increased to 1.2 percent in August to 1.2 percent in August 2025.
+
+On the annual point basis, the food category inflation increased from 2.0 percent to 2.9 percent in August 2025.
+
+Also, the inflation of non-foods have fell to 0.8 percent to 0.7 percent in September in September.
+
+According to the Central Bank of Sri Lanka, the increase in inflation has shown inhibrating targets as expected in September.
+
+◼️
+
+[Data](articles/e9520e17.json)
+
+[Extended Data](ext_articles/e9520e17.ext.json)
 
 ---
 
@@ -1525,6 +1599,38 @@ In his message the President also honoured the invaluable contribution of elders
 
 ---
 
+### Age Challenge Nodated Ucali, Inoka and Chamari
+
+*2025-10-01 07:49:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce80p4610ejo) · `si`
+
+Sri Lanka was defeated by 59 runs in the first match of the World Cup Women's Cricket Women's Cricket Tournament.
+
+Despite the defeat of the competition, three senior members of the Sri Lankan team made significantly.
+
+Inoka Ranaweera and Udeshika Thamyasa Atapattu managed to take the lead in the Sri Lankan batsman.
+
+ICC Women's World Cup: India beat Sri Lanka by 59 runs
+
+The first wicket of the Indian team took first wicket in the Indian team left Udeshika Prabodhavi.
+
+She was 40 years old when she was (on 30th September).
+
+Accordingly, Udeshana was among the reports yesterday as the oldest sportswoman who took a wicket in a World Cup women's cricket match.
+
+The area of ​​Udesala resident of Dharga on September 20, 1985 is Karandeniya.
+
+She was educated at Karandeniya, Ganiyan College and Elpitiya, and she was referred to cricket under the guidance of the Galle District Sports Officer who served in the school.
+
+She managed to become a national level of player due to the talents of the speeding ball.
+
+...
+
+[Data](articles/16e29a47.json)
+
+[Extended Data](ext_articles/16e29a47.ext.json)
+
+---
+
 ### General Leader Representatives from the Chief Prelate
 
 *2025-10-01 07:36:03* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-දැඩි-අප්‍රසාදය-පළ-කරමින්-මහා-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/11-418829) · `si`
@@ -1916,103 +2022,5 @@ Vidanagamage, alleged to have ties to organised crime, was shot dead in Middeniy
 [Data](articles/3544a134.json)
 
 [Extended Data](ext_articles/3544a134.ext.json)
-
----
-
-### AKD meets Nippon Foundation Founder Sasakawa
-
-*2025-10-01 04:36:17* · [`dailyftlk`](https://www.ft.lk/news/AKD-meets-Nippon-Foundation-Founder-Sasakawa/56-782415) · `en`
-
-President Anura Kumara Disanayake, yesterday met with Nippon Foundation Founding Chairman Yohei Sasakawa at the Imperial Hotel in Tokyo.
-
-The discussion focused on further strengthening the long-standing friendship between Japan and Sri Lanka, the President’s Media Division said.
-
-Sasakawa reiterated his commitment to enhancing livelihoods in Sri Lanka and outlined future plans for the renovation and modernisation of 100 schools in the Northern and Eastern Provinces.
-
-President Disanayake conveyed his gratitude to Sasakawa for his dedicated efforts to advance the development and well-being of the Sri Lankan people and for his longstanding commitment to social service in Sri Lanka.
-
-◼️
-
-[Data](articles/59f2c283.json)
-
-[Extended Data](ext_articles/59f2c283.ext.json)
-
----
-
-### Shashindra Rajapaksa further remanded
-
-*2025-10-01 04:35:05* · [`dailyftlk`](https://www.ft.lk/news/Shashindra-Rajapaksa-further-remanded/56-782414) · `en`
-
-The Colombo Magistrate’s Court yesterday ordered to further remand former State Minister Shashindra Rajapaksa, who is currently in custody till 14 October.
-
-The order was made by Colombo Chief Magistrate Asanga S. Bodaragama.
-
-Rajapaksa was arrested over allegations that he used his official position to unlawfully secure compensation for an unauthorised property damaged during the 2022 public uprising. The compensation claim, initially rejected, involved property not legally entitled to such payment.
-
-◼️
-
-[Data](articles/32b427c8.json)
-
-[Extended Data](ext_articles/32b427c8.ext.json)
-
----
-
-### Indo-Lanka Chamber of Commerce  and Industry hosts Annual General Meeting
-
-*2025-10-01 04:33:29* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-hosts-Annual-General-Meeting/34-782413) · `en`
-
-The 17th Annual General Meeting of the Indo Lanka Chamber of Commerce and Industry (ILCCI), affiliated to The Ceylon Chamber of Commerce was held on 26 September, at the Taj Samudra, Colombo.
-
-The proceedings were followed by a fireside chat moderated by ILCCI Immediate Past President Romesh David. The distinguished panel included Indian High Commissioner Santosh Jha, and Brandix Apparel Ltd. Managing Director Hasitha Premaratne.
-
-During the discussion, the High Commissioner emphasised the importance of India and Sri Lanka investing in each other’s economies—not as competitors but as partners in regional growth and expansion. He also discussed Sri Lanka’s role as a transshipment hub and underscored the need to broaden cooperation in the energy sector through joint investments and initiatives.
-
-...
-
-[Data](articles/f3cc172f.json)
-
-[Extended Data](ext_articles/f3cc172f.ext.json)
-
----
-
-### American Chamber  of Commerce  in Sri Lanka appoints Sandun Hapugoda as President at 33rd AGM
-
-*2025-10-01 04:32:12* · [`dailyftlk`](https://www.ft.lk/business/American-Chamber-of-Commerce-in-Sri-Lanka-appoints-Sandun-Hapugoda-as-President-at-33rd-AGM/34-782412) · `en`
-
-The American Chamber of Commerce in Sri Lanka (AmCham SL) successfully held its 33rd Annual General Meeting at the ITC Ratnadeepa yesterday, in the presence of its members, special invitees, and media representatives.
-
-The AGM marked a significant milestone as the Chamber reflected on a year of meaningful impact, strategic partnerships, and advocacy in strengthening US–Sri Lanka trade, investment, and bilateral collaboration. Members elected a new Board of Directors to guide AmCham into its next chapter, reaffirming the Chamber’s commitment to fostering economic prosperity and innovation.
-
-Mastercard Sri Lanka and Maldives Country Manager Sandun Hapugoda was elected the new President of AmCham Sri Lanka, while Chevron Lubricants Lanka PLC Managing Director/CEO Bertram Paul was elected the new Vice President.
-
-MAS Holdings Ltd. Director Shirendra Lawrence was appointed the President Emeritus of AmCham SL.
-
-...
-
-[Data](articles/5e9e7468.json)
-
-[Extended Data](ext_articles/5e9e7468.ext.json)
-
----
-
-### Agreement in connection with the update of milk production
-
-*2025-10-01 04:24:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-உற்பத்தியை-மேம்படுத்தல்-தொடர்பில்-ஒப்பந்தம்/175-365561) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to the Japanese government, met with Danaga Akihiko, president of Japan International Cooperation Agency at the Imperial Hotel in Tokyo yesterday (30).
-
-The President expressed his gratitude here for the continued support of Japan's continued support to Sri Lanka, which has resumed offer yen debt through Ziga, which is a significant contribution to national development.
-
-The Zaqa leader pointed out the importance of the development of the private sector, technology and agriculture sectors as the main factor in Sri Lanka's sustainable economic development.
-
-He said that steps would be taken to re -launch the Katunayake and Bandaranaike International Airport Scheme and that he would expect to maintain the long -term cooperation with Sri Lanka by monitoring Sri Lanka's McCro economic management.
-
-The main agreement was signed on a new milestone of Japan - Sri Lanka Development Cooperation. (A)
-
-◼️
-
-[Data](articles/cd3081c2.json)
-
-[Extended Data](ext_articles/cd3081c2.ext.json)
 
 ---

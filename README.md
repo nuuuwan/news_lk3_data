@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 15:56:17**
+As of **2025-10-01 16:37:58**
 
 ## Newspaper Stats
 
-*Scraped **80,211** Articles*
+*Scraped **80,224** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 534
-lankadeepalk | 573
+lankadeepalk | 580
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -17,33 +17,199 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,716
-adaderanalk | 10,336
-tamilmirrorlk | 11,973
+adalk | 7,717
+adaderanalk | 10,337
+tamilmirrorlk | 11,975
 virakesarilk | 13,108
-adaderanasinhalalk | 13,850
+adaderanasinhalalk | 13,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,210 (100.0%) of 80,211 articles have been extended.
+80,224 (100.0%) of 80,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### දරුවන් තාක්ෂණය එක්ක ඉස්සරහට යන්ඩ අවශ්‍යයි  නමුත් එ්කෙ ගොදුරක් වෙන්ඩ බෑ
+### The verdict of polythene
+
+*2025-10-01 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215223) · `si`
+
+The Minister of Environment has informed the Supreme Court today that polythene bags such as shopping bags will not be provided free of charge.
+
+This notification was made when a fundamental rights submitted by the Environmental Justice Center for an order to issue a measurement of a measurement of the use of the use of them as polythene.
+
+A tribult sent by the Crimearian Sampath Wickramasinghe and Sampani Abeykoon regarding this cases were held today.
+
+The monsoon had said that the Minister of Environment had agreed to the Supreme Court on the 19th of 2024 to minimize the use of shopping institutions including supermarkets.
+
+Attorney-at-Law Dr. Ravindranath Dabare, appearing on behalf of the Environmental Justice Center, said in the court.
+
+Deputy Solicitor General Dr. Amavan Perera, who appeared on behalf of the respondents, said that the gazette notification is expected to be charged for shopping bags from November.
+
+...
+
+[Data](articles/3e6d262c.json)
+
+[Extended Data](ext_articles/3e6d262c.ext.json)
+
+---
+
+### Tax for Chillicily Pack
+
+*2025-10-01 15:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிசிலி-பேக்குக்கு-வரி/175-365587) · `ta`
+
+The Ministry of Environment has announced in the Supreme Court on Wednesday (01) that the Gazette Notification will be issued for the Polythene and Politein bags from November 1.
+
+◼️
+
+[Data](articles/96faea3f.json)
+
+[Extended Data](ext_articles/96faea3f.ext.json)
+
+---
+
+### Harkey is also a children's day from schools
+
+*2025-10-01 15:36:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පසල-සස-වලයන-ළම-දනයත-හබක/101-680578) · `si`
+
+Three students were injured in a clash between two groups of students in Kantale and one student's status was seriously injured in the World Children's Day Programs.
+
+The three injured students were admitted to the Kantale Base Hospital, the student was transferred to the Batticaloa Teaching Hospital to prevent surgery to prevent the head of the head.
+
+In terms of the 119 emergency number on the incident, the Kantale headquarters was pronounced immediately.. Lakmal Wijeratne and a police team and a team of police commenced investigations into the school.
+
+The criminal laboratory officials came and commenced investigations into the upper floor of the collision building.
+
+◼️
+
+[Data](articles/c8085893.json)
+
+[Extended Data](ext_articles/c8085893.ext.json)
+
+---
+
+### Up to 69 deaths in Philippine earthquake
+
+*2025-10-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215222) · `si`
+
+The number of deaths due to the Philippines's earthquake has increased to 69.
+
+This took place at around 10 pm near the coast of Cebu in the Central Philippines, and it was recorded at 6.9 of the Richter.
+
+After the earthquake occurred, the city was electrocuted in Sebu, and many buildings were severely damaged.
+
+Roads have been cracked and the bridges and roads have been severely damaged.
+
+The authorities of the country are still being rescued and rescuing persons trapped among the debris.
+
+It is said that there is a population nearly a million population in Sebu, the influence of the earthquake.
+
+The Philippines is a constant victim of earthquakes and natural disasters, and the people of the country have to face the same period.
+
+The end of 2023 earthquakes in the Eastern coast of Mindono in the country's Mindono, a 7.6 earthquake, including a pregnant woman, was killed.
+
+A 7.0 earthquake in the northwestern Lucon, 15 miles [15 km] in northwestern Lucon, had an earthquake.
+
+...
+
+[Data](articles/8c008ef1.json)
+
+[Extended Data](ext_articles/8c008ef1.ext.json)
+
+---
+
+### Our economy is at a big risk
+
+*2025-10-01 15:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආර්ථිකය-විශාල-අවදානමක-තියෙන්නේ/11-418850) · `si`
+
+Dudley Sirisena, a well known, said that the economy is in a major risk and returning to the party in society.. He was addressing a function.
+
+"Even if we fell in sleep, a big matter. Our economy is at a big risk. The truth. I'm this
+
+When you say, another suggestion is charged, there is no problem. Talk the truth I'm just afraid
+
+Not going. No one comes back to any political party in society. "
+
+◼️
+
+[Data](articles/5dfd5ef3.json)
+
+[Extended Data](ext_articles/5dfd5ef3.ext.json)
+
+---
+
+### Laugfs gas prices do not change
+
+*2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලෆ-ගස-මල-වනස-නව/101-680577) · `si`
+
+LAUG Niroshan J. Dr. Niroshan J. Mr. Peiris said.
+
+The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the price of a 5,100 cylinder, the price of Rs.
+
+◼️
+
+[Data](articles/095c080a.json)
+
+[Extended Data](ext_articles/095c080a.ext.json)
+
+---
+
+### The fireball struggle in Jaffna
+
+*2025-10-01 15:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-தீப்பந்தப்-போராட்டம்/175-365585) · `ta`
+
+The fireball struggle was launched today (01), the last day of the rotational hunger strike in Jaffna.
+
+The hunger strike launched in the North and East has ended today (01) demanding international justice for the Tamil people.
+
+On the last day, a massive fireball struggle was launched by relatives of the missing persons on the occasion of International Children's Day.
+
+◼️
+
+[Data](articles/53ddd14b.json)
+
+[Extended Data](ext_articles/53ddd14b.ext.json)
+
+---
+
+### Children need a goal in front of technology, but no victim is
 
 *2025-10-01 15:13:40* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-තාක්ෂණය-එක්ක-ඉස්සරහට-යන්ඩ-අවශ්‍යයි--නමුත්-එ්කෙ-ගොදුරක්-වෙන්ඩ-බෑ/11-418849) · `si`
 
-තාක්ෂණය සමග ඉදිරියට යන ළමුන්  තාක්ෂණයේ ගොදුරක් බවට පත් නොවිය යුතු බව ජාතික ළමා ආරක්ෂක අධිකාරිය තරයේ විශ්වාස කරන බව දන්වා සිටියි. අන්තර්ජාලය මගින් සිදුවන ළමා අපයෝජන වල යම් පමණක වර්ධනයක් ද දැකිය හැකි බවද පෙන්වාදෙයි. එහෙයින්  තාක්ෂණයේ නියම ඵල නෙලා ගැනීමට අන්තර්ජාලය තුළ ළමයින් සුරක්ෂිත කිරීමට කඩිනමින් පියවර ගතයුතු බවත් වැඩිදුරටත් ඔවුන් සදහන් කර සිටියි.
+The National Child Protection Authority (NSB) strongly believes that children carrying with technology should not be a victim of technology. It is also said that Internet child abuse can also be seen. They are therefore, steps should be taken to secure children on the Internet to reap the real fruits of the technology.
 
-එසේම ළමා ආරක්ෂක අධිකාරියට ළමා අපයෝජන සිදුවීමක් අප්‍රමාදීව වාර්ථා කිරීමට සහ ළමා අපයෝජන පිළිබඳව වඩාත් සංවේදීව කටයුතු කිරීමට කැප වන ලෙස සියළු දෙනාගෙන් ඉලලා සිටියි.
+The Child Protection Authority is also the Welimiliarian reporting of a child abuse and commit to the most sensitive to child abuse.
 
 ◼️
 
 [Data](articles/82f0f6a8.json)
+
+[Extended Data](ext_articles/82f0f6a8.ext.json)
+
+---
+
+### Surilizing Bags Tax to Mary
+
+*2025-10-01 15:04:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සල-සල-බග-භවතය-මනදසය-කරනන-බදදක/101-680576) · `si`
+
+The Ministry of Environment informed the Supreme Court today that the Gazette notification will be issued to recover a sum of November for Cellisili Bags.
+
+The Deputy Solicitor General Dr. Army General of the Environment, Dr. Army Armyarase Perera, appearing on behalf of the Ministry of Environment (Cyllabi had filed a tax on the development of polythene and cile bag.
+
+The petition was considered in the face of a panel of judges, Supreme Court Judge Kumudi Wickramasinghe and Sampath Abeykramasinghe and Sampath Abeykramasena.
+
+The Environmental Justice Center has promised the court that the environment has been identified as a tax on the mitigation of the environment as a result of polythene and cile bags.
+
+According to the Ministry of Environment, the petition filed the PC's mosquito, demanding to take action to minimize the use of polythene, as the Ministry of Environment has been called to take action.
+
+...
+
+[Data](articles/d7721f70.json)
+
+[Extended Data](ext_articles/d7721f70.ext.json)
 
 ---
 
@@ -95,6 +261,26 @@ This decision was made by Lafs Gas PLC, Cluster CEO Niroshan J. Peiris announced
 
 ### Bullets emerge from Weheragala reservoir
 
+*2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වහරගල-ජලශයන-උණඩ-මතව/101-680575) · `si`
+
+Gonagankara Police said that the Twanganara Police have found a number of military instruments to use in the Yala National Park.
+
+It has been revealed that the T-56 Magazines used for T-56-bulged magazines, including T-56 magazines, including T-56 major arms, 12 mpmg magazine, including T-56 major arms, 12 mpmg magazine using T-56 magazines.
+
+A fisherman engaged in a fisherman of the Weath Weapons of Weheragala, Army and the Gonagankara Police College of Gonagankara Police were also discovered.
+
+The police say that more than the weapons of the reservoir is suspected to be at the bottom of the reservoir, so the police said.
+
+◼️
+
+[Data](articles/570e537f.json)
+
+[Extended Data](ext_articles/570e537f.ext.json)
+
+---
+
+### Bullets emerge from Weheragala reservoir
+
 *2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වහරගල-ජලශයන-උණඩ-මතව/1-680575) · `si`
 
 Gonagankara Police said that the Twanganara Police have found a number of military instruments to use in the Yala National Park.
@@ -113,6 +299,28 @@ The police say that more than the weapons of the reservoir is suspected to be at
 
 ---
 
+### Cache of firearms and ammunition uncovered from Kataragama Weheragala Reservoir
+
+*2025-10-01 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113109/cache-of-firearms-and-ammunition-uncovered-from-kataragama-weheragala-reservoir) · `en`
+
+A stock of weapons including 74 T-56 magazines, 35 LMG drums, 5 MPMG drum boxes, and several unidentified magazines has been discovered in the Kataragama Weheragala Reservoir.
+
+Additionally, two boxes suspected to contain explosives and two sacks suspected to contain weapons were also reportedly found at the location.
+
+The discovery was made following an investigation based on intelligence received by the military.
+
+The cache of military equipment was observed due to the receding water levels of the Weheragala Reservoir. Since the location where the equipment was found falls under jurisdiction of the Gonaganara Police Division, the items have been handed over to the Gonaganara Police Station for further investigation.
+
+Police stated assistance of Navy divers will be obtained to further inspect the reservoir.
+
+◼️
+
+[Data](articles/784351eb.json)
+
+[Extended Data](ext_articles/784351eb.ext.json)
+
+---
+
 ### There is no change in Litro Gas Price
 
 *2025-10-01 14:38:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලටර-ගස-මල-වනසක-නත/1-680574) · `si`
@@ -126,6 +334,22 @@ Accordingly, the price of a 12.5kg domestic gas cylinder of Rs 3,690, Rs.
 [Data](articles/7f7ee24d.json)
 
 [Extended Data](ext_articles/7f7ee24d.ext.json)
+
+---
+
+### There is no change in Litro Gas Price
+
+*2025-10-01 14:38:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලටර-ගස-මල-වනසක-නත/101-680574) · `si`
+
+According to the gas price formula, Litro Gas Ltd. said the litro gas prices would not change this month.
+
+Accordingly, the price of a 12.5kg domestic gas cylinder of Rs 3,690, Rs.
+
+◼️
+
+[Data](articles/ea465c89.json)
+
+[Extended Data](ext_articles/ea465c89.ext.json)
 
 ---
 
@@ -202,6 +426,26 @@ This information refers to the audit documentation for the Sri Lanka Transport B
 [Data](articles/7e0239de.json)
 
 [Extended Data](ext_articles/7e0239de.ext.json)
+
+---
+
+### SLTB 'Union' bosses lost eight million in permits
+
+*2025-10-01 14:23:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලගම-යනයන-ලකකනට-අවසර-පතර-ද-කට-අටක-පඩවල/1-680572) · `si`
+
+A report issued by the National Audit Office, a loss of Rs.
+
+Also, the National Audit Office had no loss for more than two million rupees from the Railway Department on the basis of exchangedation.
+
+Two officers can be released on a full-time congress of a recognized Trade Union Federation and an officer who is unleashed should be released to travel to anywhere in the island.. However, the report states that the above free passports have been issued against the law.
+
+This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
+
+◼️
+
+[Data](articles/cae9001f.json)
+
+[Extended Data](ext_articles/cae9001f.ext.json)
 
 ---
 
@@ -1431,6 +1675,24 @@ Defending his brief absence from the debate, he said he had contributed to the m
 
 ---
 
+### When the President met the President of Japan
+
+*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපන-අධරජයය-හම-ව-අවසථව/1-680545) · `si`
+
+President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
+
+The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
+
+Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
+
+◼️
+
+[Data](articles/0b6d46b1.json)
+
+[Extended Data](ext_articles/0b6d46b1.ext.json)
+
+---
+
 ### President meets Emperor of Japan
 
 *2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/1-680545) · `si`
@@ -1728,259 +1990,5 @@ Today, Ada Derana also received a CCTV display of the driver of the van.
 [Data](articles/a092ab36.json)
 
 [Extended Data](ext_articles/a092ab36.ext.json)
-
----
-
-### President Dissanayake meets Emperor Naruhito
-
-*2025-10-01 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113097/president-dissanayake-meets-emperor-naruhito-) · `en`
-
-President Anura Kumara Dissanayake, on an official visit to Japan at the invitation of the Japanese government has met Emperor Naruhito at the Imperial Palace on Tuesday (30).
-
-Upon his arrival at the Imperial Palace in Tokyo, the official residence of the Emperor of Japan, President Dissanayake was warmly received by Emperor Naruhito, the President’s Media Division (PMD) said.
-
-According to the statement the two leaders subsequently engaged in a cordial discussion.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath was also present during the meeting.
-
-◼️
-
-[Data](articles/ac078913.json)
-
-[Extended Data](ext_articles/ac078913.ext.json)
-
----
-
-### President arrives
-
-*2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-එය/101-680544) · `si`
-
-President of the President, Kumara Dissanayake arrived in the island this morning, the Katunayake Air Forlar to attend the 80th session of the Nations.
-
-◼️
-
-[Data](articles/5678d135.json)
-
-[Extended Data](ext_articles/5678d135.ext.json)
-
----
-
-### President arrives
-
-*2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-එය/1-680544) · `si`
-
-President of the President, Kumara Dissanayake arrived in the island this morning, the Katunayake Air Forlar to attend the 80th session of the Nations.
-
-◼️
-
-[Data](articles/ad1c826f.json)
-
-[Extended Data](ext_articles/ad1c826f.ext.json)
-
----
-
-### Rs. 150 Million Cocaine Bust in Panadura
-
-*2025-10-01 10:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/rs-150-million-cocaine-bust-in-panadura) · `en`
-
-COLOMBO (News 1st); Two suspects were arrested on Tuesday (30) in the Hiran area of Panadura with 3 kilograms of cocaine valued at approximately Rs. 150 million, police said.
-
-The operation was carried out by the Walana Central Anti-Corruption Strike Unit.
-
-Investigations have revealed that the cocaine belongs to a notorious drug trafficker known as “Badowita Piya.”
-
-According to police, the suspect had been operating under the guise of a businessman while using his associates to distribute narcotics.
-
-A motor vehicle allegedly used in the trafficking operation, driven by one of his aides, was also seized during the raid.
-
-◼️
-
-[Data](articles/dec110ea.json)
-
-[Extended Data](ext_articles/dec110ea.ext.json)
-
----
-
-### 'Tinker' arrested in Dubai
-
-*2025-10-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226548) · `ta`
-
-Sreedharan Niranjan, also known as 'Tinker', a member of the organized criminal gang who was arrested in Dubai, has been deported to Sri Lanka today (01).
-
-'Tinker' was recently arrested in Dubai after being taken to the Katunayake International Airport and was arrested by the Criminal Investigation Department officials and handed over to the Beliyagoda Police Station.
-
-Police said that 'Tinker' has been identified as an organized crime and a drug trafficker, "Palani Shiran Clorian" or "Kochikkadai Shiran".
-
-The driver of the car was the driver of the car that was involved in the shooting of a three -wheeler in the Grandpass police division.
-
-He was also the suspect who was searched for the shooting of a man in the Beliyagoda Police Division on 19.08.2025, who shot and killed one person and hurt another person.
-
-A travel ban has been imposed against 'Tinker' and it has been revealed that he has gone abroad on August 19.
-
-...
-
-[Data](articles/d237b148.json)
-
-[Extended Data](ext_articles/d237b148.ext.json)
-
----
-
-### Divers Deployed After Weapons Magazines Found In Reservoir
-
-*2025-10-01 10:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/divers-deployed-after-weapons-magazines-found-in-reservoir) · `en`
-
-COLOMBO (News 1st); Sri Lanka Police confirmed that search operations are continuing today (1) at the Veheragalla Reservoir in Kataragama after a cache of empty weapon magazines was discovered yesterday (30).
-
-Acting Police Spokesman, Assistant Superintendent of Police Minur Senarath, said that divers have been deployed to assist in the search.
-
-The operation follows intelligence provided by a Sri Lanka Army intelligence officer.
-
-According to police, the discovery included 74 empty T-56 magazines, 36 empty LMG magazines, and 5 empty MPMG drums. These items were recovered from the reservoir yesterday afternoon and have since been handed over to the Gonaganara Police.
-
-Authorities have launched an investigation to determine who was responsible for dumping the weapons into the reservoir.
-
-◼️
-
-[Data](articles/9b2d9cba.json)
-
-[Extended Data](ext_articles/9b2d9cba.ext.json)
-
----
-
-### Let peace and reconciliation prosperous and prosperous; Sajith Premadasa
-
-*2025-10-01 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226549) · `ta`
-
-In this moment of celebrating the Navratri worship, the leader of the Opposition, the beginning of the best future for all the resources is that a new night marks the dawn of the new day.. Happy Navratri to Sri Lankan Hindu devotees. I pray for unity, brotherhood, peace and reconciliation in the country. "I pray that all the prevailing contradictions should be eliminated and the prosperous country," the opposition leader said.
-
-Opposition Leader Sajith Premadasa said this while addressing the Navratri celebration held at the Opposition Leader's Office in Colombo on Tuesday evening.
-
-The Navratri Festival is usually celebrated in the month of Virgo during the month of Pattasi. The Opposition Leader said that this could be called the classic festival of the Hindu people who eliminate the darkness and rise to light.
-
-Nine days or nights are made to the new sisters of Durga Devi, a symbol of strength. This religious tradition is celebrated with colorful dances.
-
-...
-
-[Data](articles/ea8c4c96.json)
-
-[Extended Data](ext_articles/ea8c4c96.ext.json)
-
----
-
-### Land deeds to sacrifice. Spend a million
-
-*2025-10-01 10:05:32* · [`adalk`](https://www.ada.lk/breaking_news/සැමට-හිමි-බිමක්-ඔප්පු-ප්‍රදානෝත්වයට-රු--කෝටියක්-වැය-කරලා/11-418835) · `si`
-
-The Land Reforms Commission has revealed that the Land Reforms Commission has spent Rs.
-
-The depesting presentation of the inheritance deed giving was held in Bogambara, Kandy on March 30, 2024. There were about 2,700 proofs. The audit recommended that the excluding of land should be spent only for the necessary expenses.
-
-The management of the Land Reforms Commission has stated that the approval of the Commission has obtained the approval of Rs.. This event was held under the patronage of former president. This information has been revealed by the Audit Report which has been released to the year 2024 from connection with the Land Reform Commission.
-
-◼️
-
-[Data](articles/78f2628d.json)
-
-[Extended Data](ext_articles/78f2628d.ext.json)
-
----
-
-### No Bus Fare Reduction Despite Diesel Price Drop
-
-*2025-10-01 10:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/no-bus-fare-reduction-despite-diesel-price-drop) · `en`
-
-COLOMBO (News 1st); The National Transport Commission (NTC) announced that bus fares will not be reduced despite the recent drop in diesel prices.
-
-NTC Chairman P.A. Chandrapala stated that a fare revision requires at least a 4% reduction in diesel prices.
-
-However, the latest price adjustment reflects only a 1.58% decrease, which does not meet the threshold for a fare change.
-
-Diesel prices were reduced by Rs. 6 per litre in both August and September.
-
-Following the latest revision, the current price of a litre of diesel stands at Rs. 277.
-
-◼️
-
-[Data](articles/9cccdae6.json)
-
-[Extended Data](ext_articles/9cccdae6.ext.json)
-
----
-
-### Underworld tinker arrested in Dubai
-
-*2025-10-01 09:59:19* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-සාමාජික-ටින්කර්-ඩුබායිහිදී-අත්අඩංගුවට/11-418834) · `si`
-
-Sri Lanka Police, State Intelligence Service and the United Arab Emirates State Dubai Police have many crimes
-
-Sri Lanka's Sri Lankan Nranrogen, or Tinker, has been arrested. The Criminal Troops have arrested the criminal investigation after the suspect was sent to the airport in the airport today.
-
-◼️
-
-[Data](articles/702b39a0.json)
-
-[Extended Data](ext_articles/702b39a0.ext.json)
-
----
-
-### President arrives in Sri Lanka by completing Japanese visit
-
-*2025-10-01 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215212) · `si`
-
-President Anura Kumara Dissanayake, who was on an official visit to Japan, arrived in the country at Katunayake airport this morning.
-
-President Anura Kumara Dissanayake left the island on September 22 to attend the 80th session of the United Nations General Assembly.
-
-President Anura Kumara Dissanayake later reached on the invitation of the Japanese government on the 27th of September.
-
-Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs were also present.
-
-They all completed the visit from Bangkok, Thailand from Bangkok, from Bangkok from Bangkok, from Bangkok, from Bangkok, from Bangkok, from Bangkok.
-
-◼️
-
-[Data](articles/520aae4b.json)
-
-[Extended Data](ext_articles/520aae4b.ext.json)
-
----
-
-### President met Japan's Emperor Naruhido
-
-*2025-10-01 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226547) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit at the invitation of the Japanese government, met with Japan's emperor Naruhido on Tuesday (30) at the Emperor's House.
-
-The Emperor greeted the President who visited the Emperor's Home, the official residence of the Japanese Emperor in Dochio and engaged in a smooth discussion.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath also attended the event.
-
-◼️
-
-[Data](articles/151cec62.json)
-
-[Extended Data](ext_articles/151cec62.ext.json)
-
----
-
-### Police Fire at Van Ignoring Orders in Nittambuwa
-
-*2025-10-01 09:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-fire-at-van-ignoring-orders-in-nittambuwa) · `en`
-
-COLOMBO (News 1st); Police officers opened fire on a van that allegedly ignored orders to stop in the Udammita area of Nittambuwa early this morning, authorities confirmed.
-
-According to police, the incident occurred during a special motorcycle patrol conducted by the Gampaha Division.
-
-Officers signaled the van to halt, but the driver reportedly attempted to flee, prompting police to discharge their firearms to bring the vehicle to a stop.
-
-Subsequent investigations revealed that the driver and passengers were heavily intoxicated at the time of the incident.
-
-They are residents of Lellopitiya and Ratnapura, aged 38 and 43.
-
-◼️
-
-[Data](articles/5e35e671.json)
-
-[Extended Data](ext_articles/5e35e671.ext.json)
 
 ---

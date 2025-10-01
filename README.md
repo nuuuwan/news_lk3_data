@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 22:22:09**
+As of **2025-10-01 22:11:09**
 
 ## Newspaper Stats
 
-*Scraped **80,353** Articles*
+*Scraped **80,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,43 +17,21 @@ dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,725
+adalk | 7,724
 adaderanalk | 10,347
 tamilmirrorlk | 11,986
-virakesarilk | 13,145
-adaderanasinhalalk | 13,861
+virakesarilk | 13,142
+adaderanasinhalalk | 13,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,348 (100.0%) of 80,353 articles have been extended.
+80,348 (100.0%) of 80,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
-
-### ශ්‍රී ලංකාව තුළ ආයෝජන සඳහා එක්වෙමින් වාස වීසා ලබාගත් පළමු විදේශිකයා
-
-*2025-10-01 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215234) · `si`
-
-ශ්‍රී ලංකා රජය විසින් හඳුන්වාදුන් තනි පුද්ගල ආයෝජන කටයුතු සඳහා එක්වන විදේශිකයන්ට වාස වීසා (Residence Visa) ලබාදීමේ ක්‍රමය යටතේ ලියාපදිංචි වූ පළමු විදේශිකයා බවට ජර්මානු ජාතික ආචාර්ය පායි ඩ්‍රෙශල් මහතා පත්ව ඇත.
-
-ඒ අනුව ඊට අදාළ වාස වීසා අවසරය මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා විසින් අද (1) ඩ්‍රෙශල් මහතාට වෙත ප්‍රදානය කළේය.
-
-අංක 2360/24 හා 2023.11.27 දිනැති අතිවිශේෂ ගැසට් පත්‍රයේ පළකර ඇති සංශෝධිත ආගාමික හා විගාමික නියෝග යටතේ අනුමත තනි පුද්ගල ආයෝජක කාණ්ඩයට අදාලව මෙය ලබා දී ඇත.
-
-මෙම වාස වීසා විශේෂ කාර්යයන් සඳහා පදිංචිවීමේ පහසුකම් ලබාගැනීමට ශ්‍රී ලාංකික නොවන අයෙකුට ලබාදෙන අවසර පත්‍රයක්ය.
-
-තනි පුද්ගල ආයෝජක කාණ්ඩයේ වාස වීසා සඳහා විදේශිකයන් අයදුම් කිරීමේදී, අමෙරිකානු ඩොලර් 100 000 හෝ ඊට සමාන විදේශීය මුදලක් සඳහා වසර 05ක වාස වීසාවක් ලබාදේ.
-
-එමෙන්ම අමෙරිකානු ඩොලර් 200 000 හෝ ඊට සමාන විදේශීය මුදලක් සඳහා වසර 10ක වාස වීසාවක් ලබාදීම සිදු කෙරේ.
-
-...
-
-[Data](articles/1eba89d4.json)
-
----
 
 ### Professor Mohan Munasinghe meets Governor of New Jersey at the US-India Business Forum in Mumbai
 
@@ -448,24 +426,6 @@ Minister IECE visited the exhibition and showcased India's modern technologies a
 [Data](articles/ac229dfb.json)
 
 [Extended Data](ext_articles/ac229dfb.ext.json)
-
----
-
-### உலக நாடுகளுக்கு மத்தியில் தாய்நாட்டைக் காட்டிக்கொடுத்துள்ள ஜனாதிபதி -  ஸ்ரீலங்கா சுதந்திர கட்சி விசனம்
-
-*2025-10-01 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226619) · `ta`
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க அமெரிக்கா சென்று உலக நாடுகளுக்கு மத்தியில் தாய்நாட்டைக் காட்டிக் கொடுத்திருக்கின்றார். நாட்டின் பெருமையைக் கூறி சந்தை வாய்ப்புக்களை அதிகரித்துக் கொள்வதை விடுத்து, உள்ளக விவகாரங்களை சர்வதேசத்துக்கு வெளிப்படையாகக் காண்பித்து இலங்கைக்கு அவப்பெயரை ஏற்படுத்தியிருப்பதாக ஸ்ரீலங்கா சுதந்திர கட்சியின் பொதுச் செயலாளர் துமிந்த திஸாநாயக்க தெரிவித்தார்.
-
-கொழும்பு – டாலி வீதியிலுள்ள சுதந்திர கட்சி தலைமயகத்தில் புதன்கிழமை (01) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-கடந்த ஆட்சி காலங்களில் எரிபொருட்களுக்கு எதற்காக இவ்வாறு வரி அறவிடப்படுகிறது என ஜனாதிபதி அநுரகுமார திஸாநாயக்க உள்ளிட்ட அனைவரும் வகுப்பெடுத்துக் கொண்டிருந்தனர்.
-
-ஆனால் இன்று இவர்களால் எரிபொருள் விலையில் என்ன நிவாரணம் வழங்கப்படுகிறது? ஜனாதிபதி அநுர ஜப்பான் சென்று அங்குள்ள இலங்கை பிரஜைகள் மத்தியில் உரையாற்றிய போது, இவ்வாண்டு வரவு – செலவு திட்டத்தில் வரி அதிகரிக்கப்பட மாட்டாது எனக் கூறினார். அதற்கு அவர்கள் கரகோஷமெழுப்பினர்.
-
-...
-
-[Data](articles/7d6134a1.json)
 
 ---
 
@@ -1581,22 +1541,6 @@ The former Added Director of the National Planning Department of the Ministry of
 
 ---
 
-### மன்னார் காற்றாலை மின் உற்பத்தி திட்டம் : கலகமடக்கும் பிரிவின் ஊடாக பதிலளிக்க முயற்சிக்கும் அரசாங்கம் -  முஜிபுர் எம்.பி.
-
-*2025-10-01 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226602) · `ta`
-
-எதிர்க்கட்சிகள் மாத்திரமின்றி தமது உரிமைகளுக்காக போராடும் மக்கள் மீதும் அடக்குமுறை பிரயோகிக்கப்படுகிறது. மன்னார் காற்றாலை மின்னுற்பத்தி திட்டம் தொடர்பில் மக்களால் முன்னெடுக்கப்படும் போராட்டங்களுக்கோ, சூழலியலாளர்களின் கருத்துக்களுக்கோ அரசாங்கம் முக்கியத்துவமளிக்கவில்லை. பேச்சுவார்த்தையூடாக இப்பிரச்சினைக்கு தீர்வு காண்பதற்கு பதிலாக, கலகமடக்கும் பிரிவின் ஊடாக பதிலளிக்க முயற்சிக்கப்படுவதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் அரசாங்கத்தின் மீது குற்றஞ்சுமத்தினார்.
-
-கொழும்பில் உள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில் புதன்கிழமை (1) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இவ்வாறு குற்றஞ்சுமத்திய அவர் மேலும் குறிப்பிடுகையில்,
-
-மன்னாரில் காற்றாலை மின் உற்பத்தித் திட்டத்துக்கு எதிராக பாரிய ஆர்ப்பாட்டம் பொது மக்களால் முன்னெடுக்கப்பட்டது.
-
-...
-
-[Data](articles/11b392af.json)
-
----
-
 ### Suspect arrested with foreign cigarettes in Colombo
 
 *2025-10-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226607) · `ta`
@@ -1614,34 +1558,6 @@ In addition, the suspect and foreign cigarettes were handed over to the Coastal 
 [Data](articles/6f490288.json)
 
 [Extended Data](ext_articles/6f490288.ext.json)
-
----
-
-### பொய்யான கருத்தடை குற்றச்சாட்டு கர்மவினையால் குறுகிய காலத்துக்குள் போலியானது - வைத்தியர் சாபி சஹாப்தீன்
-
-*2025-10-01 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226600) · `ta`
-
-தௌஹீத் முஸ்லிம் வைத்தியர் ஒருவர் 400 சிங்கள தாய்மார்களுக்கு சிசேரியன் முறைமை ஊடாக கருத்தடை செய்ததாக வெளியாகிய செய்தியால் நானும், எனது குடும்பத்தாரும் சொல்லனா துயரங்களை எதிர்கொண்டோம்.பொது இடங்களுக்கு செல்லும் போது 'இவர் தான் அந்த கருத்தடை வைத்தியர் சாபி' என்று என்னை பார்த்து பலரும் சொன்னார்கள். அதிகாரத்துக்கு வருவதற்காக என்மீது முன்வைத்த குற்றச்சாட்டை கர்மவிணை குறுகிய காலத்துக்குள் போலியாக்கியது. பேராசியர்கள் என்று குறிப்பிட்டுக்கொண்டு என்னை குற்றஞ்சாட்டியவர்கள் கர்மவினையால் இன்று காணாமல் போயுள்ளார்கள்.அவர்களின் நிலையை கண்டு கவலையடைகிறேன் என  வைத்தியர் சாபி சஹாப்தீன் தெரிவித்தார்.
-
-...
-
-[Data](articles/7f242397.json)
-
----
-
-### පරිසර ඇමති නඳුන්ට දුන් පොරොන්දුව
-
-*2025-10-01 16:02:00* · [`adalk`](https://www.ada.lk/breaking_news/පරිසර-ඇමති-නඳුන්ට-දුන්-පොරොන්දුව/11-418851) · `si`
-
-අනුරාධපුර මිහින්තලයේ 15 හැවිරිදි සිසුවකු උරගයින් ඇතුළු සතුන් සංරක්ෂණය කරමින් පවත්වාගෙන ගිය පුංචි විද්‍යාගාරයේ සතුන් හා සත්ව නිදර්ශක කොටස් වනජීවී දෙපාර්තමේන්තුව භාරයට ගැනිමෙන් පසු පරිසර අමාත්‍යයතුමන් එම නිවසට ගොස් එම දරුවාට නැවත එම කටයුතු සිදු කිරීමට අවශ්‍යය පහසුකම් සපයන බවට පොරොන්දු විය‍ .
-
-අනුරාධපුර මිහින්තලය අඹතලාගම නඳුන් දිල්හාර නම් 15 හැවිරිදි දරුවා, විවිධ ආබාධයන්ට ලක්ව සිටින උරගයින්ට ප්‍රථිකාර කරමින් සුවපත් කරමින්, නිවෙස් වලට පැමිණෙන විෂ සහිත සර්පයින් නිවැසියන් මරා දැමීම වෙනුවට ආරක්ෂිතව රැගෙන විත් මුදා හැරීමට කටයුතු කිරීම හා මිය ගිය සතුන් සංරක්ෂණය කරමින් පුංචි විද්‍යාගාරයක් පවත්වාගෙන යාමට කටයුතු කර තිබිණි.
-
-මෙම දරුවාගේ හැකියාව සම්බන්ධයෙන් රූපවාහිනී වැඩසටහනේ අනාවරණයෙන් අනතුරුව නිවසේ සිටි සතුන් හා සත්ව නිදර්ශක කොටස් වනජීවී දෙපාර්තමේන්තුව විසින් රැගෙන ගොස් ඇත.
-
-...
-
-[Data](articles/f36f74c1.json)
 
 ---
 
@@ -2034,5 +1950,97 @@ A 7.0 earthquake in the northwestern Lucon, 15 miles [15 km] in northwestern Luc
 [Data](articles/8c008ef1.json)
 
 [Extended Data](ext_articles/8c008ef1.ext.json)
+
+---
+
+### The government promotes vocational education targeting the industry - the Prime Minister
+
+*2025-10-01 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226579) · `ta`
+
+Prime Minister Harini Amarasuriya said that the government has identified the importance of giving vocational training to suit the fast -growing modern world market and is promoting the industrial market targeting the industry.
+
+The Prime Minister made this observation at the Bandaranaike Memorial International Conference Hall on September 30, attending a ceremony to present certificates to the students who completed the Japanese Tech Studies, the National Institute of Industry Training Authority (NAITA), the Motor Vehicle Engineering Institute.
+
+The Prime Minister, who was the chief guest at the 31st Certificate of Certificate this year, presented gifts and certificates to the students who showed more skills in the exam conducted by the Motor Vehicle Engineering Training Institute.
+
+...
+
+[Data](articles/e03bbcf0.json)
+
+[Extended Data](ext_articles/e03bbcf0.ext.json)
+
+---
+
+### Our economy is at a big risk
+
+*2025-10-01 15:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-ආර්ථිකය-විශාල-අවදානමක-තියෙන්නේ/11-418850) · `si`
+
+Dudley Sirisena, a well known, said that the economy is in a major risk and returning to the party in society.. He was addressing a function.
+
+"Even if we fell in sleep, a big matter. Our economy is at a big risk. The truth. I'm this
+
+When you say, another suggestion is charged, there is no problem. Talk the truth I'm just afraid
+
+Not going. No one comes back to any political party in society. "
+
+◼️
+
+[Data](articles/5dfd5ef3.json)
+
+[Extended Data](ext_articles/5dfd5ef3.ext.json)
+
+---
+
+### கடலுக்கு சென்று காணாமல்போன நபரை மூன்றாவது நாளாக தேடும் நடவடிக்கை!
+
+*2025-10-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226590) · `ta`
+
+The machine boat that went to the sea from Muttur on Monday (29) crashed when it returned to shore. One of the two passengers was alive and the other was missing.
+
+It is noteworthy that more than 50 civilians and Sampur police were involved in the search operation.
+
+◼️
+
+[Data](articles/99bba78a.json)
+
+[Extended Data](ext_articles/99bba78a.ext.json)
+
+---
+
+### The government is fully committed to ensure the safety of children - Prime Minister Harini
+
+*2025-10-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226597) · `ta`
+
+Prime Minister Harini Amarasuriya said that the government is fully committed to ensuring the safety of children and that the law against the torture of child torture is a law that is against violence, not a law against morality.
+
+The Children's Day ceremony organized by the Ministry of Women and Child Affairs was held on Wednesday (October 01) on the theme of "Leading the World - Nutrition - Nourish us".
+
+“Our country's children's population represents about 31 percent of the country's population based. As a government for them, we have a huge responsibility.
+
+The theme of this year's World Children's Day is "to lead the world - give us love". The first task we need to do for children is to ensure their safety.
+
+The protection I mention here is to ensure the safety of all boys in any background and in any situation, and give them the opportunity to live freely in the context of children's environment, economically, socially, and psychologically, without abandoning any child.
+
+...
+
+[Data](articles/de410819.json)
+
+[Extended Data](ext_articles/de410819.ext.json)
+
+---
+
+### Laugfs gas prices do not change
+
+*2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලෆ-ගස-මල-වනස-නව/101-680577) · `si`
+
+LAUG Niroshan J. Dr. Niroshan J. Mr. Peiris said.
+
+The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the price of a 5,100 cylinder, the price of Rs.
+
+◼️
+
+[Data](articles/095c080a.json)
+
+[Extended Data](ext_articles/095c080a.ext.json)
 
 ---

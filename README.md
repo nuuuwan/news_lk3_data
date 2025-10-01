@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 23:07:24**
+As of **2025-10-01 23:40:12**
 
 ## Newspaper Stats
 
-*Scraped **80,364** Articles*
+*Scraped **80,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,616
 adalk | 7,726
 adaderanalk | 10,351
 tamilmirrorlk | 11,986
-virakesarilk | 13,148
+virakesarilk | 13,149
 adaderanasinhalalk | 13,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,361 (100.0%) of 80,364 articles have been extended.
+80,364 (100.0%) of 80,365 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -551,21 +551,25 @@ The school has approximately 230 students in total, and all of them were served 
 
 ---
 
-### பல்லின மக்கள் வாழும் எமது நாட்டுக்கு மொழிபெயர்ப்பு சேவை ஊடாக பாரியதொரு பணி இடம்பெறுகிறது - முனீர் முளப்பர்
+### There is a huge task through the translation service to our country where we live - Munir Mulapar
 
 *2025-10-01 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226620) · `ta`
 
-பல்வேறு மொழி பேசும் மக்கள் வாழும் எமது நாட்டில் மொழிபெயர்ப்பாளர்களின் பணி மகத்தானதாகும்.  நாட்டில் இடம்பெற்ற 30 வருட யுத்தத்துக்கு மொழியும் ஒரு காரணமாகும் என தேசிய ஒருமைப்பாடு பிரதி அமைச்சர் முனீர் முளப்பர் தெரிவித்தார்.
+The work of translators in our country of different language -speaking people is enormous.  Deputy Minister of National Integration Munir Mulappar said that the language is also a reason for the 30 -year war in the country.
 
-செம்டம்பர் 30 சர்வதேச மொழிபெயர்ப்பு தினத்தை முன்னிட்டு அரச மொழி திணைக்களம் ஏற்பாடு செய்திருந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+He said this while addressing the event organized by the State Language Department to mark the International Translation Day of September 30.
 
-மொழிபெயர்ப்பாளர்களுக்கு மொழி மூலம் ஒருவரை ஒருவர் புரிந்துகொள்ளும் இயலுமை இருக்கிறது. ஆளும் அரசாங்கத்துக்கும் ஒவ்வொருவருக்கிடையில் புரிந்துணர்வை ஏற்படுத்த வேண்டிய தேவையே இருந்து வருகிறது.
+Translators have the ability to understand each other through language. There is a need to understand the ruling government between each and each.
 
-சமாதானம் மற்றும் நல்லிணக்கத்தை கட்டியெழுப்புவது அரசாங்கம் என்றவகையில் அதன் பொறுப்பை உணர்ந்து, பொழிபெயர்ப்பு துறையில் இருந்துவரும் பிரச்சினைகள் தொடர்பில் புரிந்துணர்வுடன் அதற்கு தேவையான தீர்வுகளை பெற்றுக்கொடுக்க கலவனம் செலுத்தி இருக்கிறது.
+Building peace and reconciliation is the government, as the government is aware of its responsibility and the mixing of solutions to the issues from the field of translation.
+
+Similarly, the government will provide all the necessary facilities to expand the translation service. We need to understand that the best translation books in the world are transported among all the languages ​​of all languages.
 
 ...
 
 [Data](articles/10bbaab6.json)
+
+[Extended Data](ext_articles/10bbaab6.ext.json)
 
 ---
 
@@ -679,17 +683,19 @@ The total number of students of the school is nearly 230, and all of them have b
 
 ---
 
-### வலிந்து காணாமலாக்கப்பட்டோரின் குடும்பங்களுக்கு எதிராக கட்டாய தடுப்புக்காவல் மற்றும் ஒடுக்குமுறைகள் - ஐ.நா குழுவின் அறிக்கையாளர்கள் தீவிர கரிசனை
+### Mandatory detention and oppression against families of the missing persons-UN reporters are serious concern
 
 *2025-10-01 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226624) · `ta`
 
-வலிந்து காணாமலாக்கப்படல்களால் பாதிக்கப்பட்டோரின் குடும்பங்களுக்கு எதிரான கட்டாய தடுப்புக்காவல் மற்றும் ஒடுக்குமுறைகள் தொடர்பில் வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான ஐக்கிய நாடுகள் குழுவின் அறிக்கையாளர்கள் தீவிர கரிசனையை வெளிப்படுத்தியுள்ளனர்.
+Reporters of the United Nations have expressed serious concern for the disappearance of the families of the families of the victims of the disappearances.
 
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடருக்கு சமாந்தரமாக வலிந்து காணாமலாக்கப்படல்கள் தொடர்பான குழுவின் 29 ஆவது கூட்டம் கடந்த வாரம் (22) ஜெனிவாவில் ஆரம்பமானது. இக்கூட்டத்தில் கடந்த 26 - 29 ஆம் திகதி வரை இலங்கை விவகாரம் குறித்து ஆராயப்பட்டது.
+The 29th meeting of the Missing Faculty Committee on the 60th session of the United Nations Human Rights Council commenced in Geneva last week (22). The Sri Lankan affair was examined from the 26th to 29th of this month.
 
 ...
 
 [Data](articles/794b0d6a.json)
+
+[Extended Data](ext_articles/794b0d6a.ext.json)
 
 ---
 
@@ -1152,6 +1158,24 @@ The magistrate ordered the five suspects and each suspect to go on bail worth Rs
 [Data](articles/13466703.json)
 
 [Extended Data](ext_articles/13466703.ext.json)
+
+---
+
+### பேருந்து கட்டணத்தை குறைக்க முடியாது - கெமுனு விஜேரத்ன
+
+*2025-10-01 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226614) · `ta`
+
+டீசலின் விலை 6 ரூபாவினால் குறைக்கப்பட்டுள்ள போதிலும் பேருந்து கட்டணத்தை குறைக்க முடியாது. தனியார் பேரூந்து உரிமையாளர்களை நெருக்கடிக்குள்ளாக்கும் வகையில் தான் அரசாங்கம் தீர்மானங்களை எடுக்கிறது என அகில இலங்கை தனியார் பேருந்து உரிமையாளர் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்தார்.
+
+கொழும்பில் உள்ள அகில இலங்கை தனியார் பேருந்து உரிமையாளர் சங்கத்தின் காரியாலயத்தில் புதன்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது  மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சுதந்திரத்துக்கு பின்னர் ஆட்சியில் இருந்த சகல  அரசாங்கங்களும் தனியார் பேருந்து தொழிற்றுறையை இரண்டாம் பட்சமாக கருதியே செயற்பட்டன.தற்போதைய அரசாங்கமும் தனியார் பேரூந்து தொழிற்றுறையை நெருக்கடிக்குள்ளாக்கும் வகையில் செயற்படுகிறது.
+
+மாதாந்த எரிபொருள் விலைச்சூத்திரத்துக்கு அமைய நேற்று முன்தினம் நள்ளிரவு எரிபொருளின் விலைகள் குறைக்கப்பட்டுள்ளன.இதற்கமைய டீசலின் விலை 6 ரூபாவினால் குறைக்கப்பட்டுள்ளது. கடந்த ஆகஸ்ட் மாதமும் டீசலின் விலை 6 ரூபாவால் குறைக்கப்பட்டது.
+
+...
+
+[Data](articles/2ba37868.json)
 
 ---
 
@@ -1753,17 +1777,19 @@ The Ministry will be able to release them to the schools after the end of the pr
 
 ---
 
-### பெரும்பான்மையுள்ள அரசாங்கத்தின் பதிலளிக்காத நிலையை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சுட்டிக்காட்டு
+### Opposition Leader Sajith Premadasa pointing to the unanswered position of the majority government
 
 *2025-10-01 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226606) · `ta`
 
-76 வருட வரலாற்றில் முறைமையில் மாற்றத்தைக் கொண்டு வருவது எவ்வாறு போனாலும், மக்கள் தமது பிரச்சினைகளை இப்போது எதிர்க்கட்சித் தலைவரிடமே முன்வைக்கின்றனர். தற்போதைய அரசாங்கத்திற்கு இலட்சக்கணக்கான வாக்குகளை வழங்கி, பாராளுமன்றத்தில் 225இல் 159 ஆசனங்களை பெற்றுத் தந்து, தெளிவான பெரும்பான்மையை பெற்றுத் தந்த போதிலும், எதிர்க்கட்சித் தலைவரிடம் தமது பிரச்சினைகளைச் சொல்லும் நிலையையே இன்று நாடு அடைந்துள்ளது. பதில்களையும் தீர்வுகளையும் எதிர்பார்த்து தற்போதைய அரசாங்கத்திற்கு பெரும்பான்மை அதிகாரத்தை வழங்கினாலும், மக்கள் எதிர்பார்த்த பதில்களையும் தீர்வுகளையும் இதுவரை வழங்கியபாடில்லை என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Whatever a change in the 76 -year history, people are now presenting their problems to the opposition leader. Despite giving millions of votes to the current government and winning 159 seats in 225 in Parliament, the country has reached its issues to the opposition leader.. Opposition leader Sajith Premadasa said that although the current government has given a majority power in anticipation of answers and solutions, the people have not yet provided the expected answers and solutions.
 
-அனுராதபுரம் மாவட்டம், கலாவெவ தேர்தல் தொகுதி, கட்டியாவ பிரதேசத்தில் நடைபெற்ற எதிர்க்கட்சித் தலைவரின் நடமாடும் சேவை வேலைத்திட்டம் மற்றும் ஐக்கிய மக்கள் சக்திக்கு புதிய அங்கத்தவர்களை இணைத்துக் கொள்ளும் நிகழ்வு ஆகியவற்றில் கலந்துகொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said this while addressing the event of the Anuradhapura district, the Kalawewa electorate, the Opposition Leader's Mobile Scheme in Kattiyawa and the joining of the new members of the United People's Power.
 
 ...
 
 [Data](articles/78d60e65.json)
+
+[Extended Data](ext_articles/78d60e65.ext.json)
 
 ---
 
@@ -2010,25 +2036,5 @@ Don Moynihan, a professor at the Ford School of Public Policy at the University 
 [Data](articles/c5367ff1.json)
 
 [Extended Data](ext_articles/c5367ff1.ext.json)
-
----
-
-### Mujibur allegation
-
-*2025-10-01 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226586) · `ta`
-
-Repression is being used by the opposition parties not only to fight for their rights. The government is not important to the people's struggles or the opinions of the environmentalists regarding the Mannar wind power project.. United People's Power MP Mujibur Rahman accused the government of trying to respond through the rioting unit instead of resolving the issue through negotiations.
-
-He further stated at the media conference held at the United People's Power Office in Colombo on Wednesday (October 1).
-
-A massive demonstration against the wind power generation project in Mannar. Many environmentalists have pointed out that the project will have a huge impact on the environment and birds.
-
-But the government ignores the people's struggles or the opinions of the environmentalists without importance. No one can prioritize the governing body to respond to these.
-
-...
-
-[Data](articles/c16091d4.json)
-
-[Extended Data](ext_articles/c16091d4.ext.json)
 
 ---

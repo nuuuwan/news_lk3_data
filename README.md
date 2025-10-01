@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 11:08:33**
+As of **2025-10-01 11:41:05**
 
 ## Newspaper Stats
 
-*Scraped **80,103** Articles*
+*Scraped **80,121** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 528
-lankadeepalk | 547
+newsfirstlk | 529
+lankadeepalk | 552
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -17,21 +17,209 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,703
+adalk | 7,704
 adaderanalk | 10,324
-tamilmirrorlk | 11,961
-virakesarilk | 13,081
-adaderanasinhalalk | 13,841
+tamilmirrorlk | 11,966
+virakesarilk | 13,085
+adaderanasinhalalk | 13,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,103 (100.0%) of 80,103 articles have been extended.
+80,114 (100.0%) of 80,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### 10  கோடி ரூபாய் மோசடி:  இருவர் கைது
+
+*2025-10-01 11:16:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கோடி-ரூபாய்-மோசடி-இருவர்-கைது/175-365574) · `ta`
+
+2024 " உறுமய " திட்டத்தின் கீழ் உரிமையற்ற நிலங்களுக்கு நிரந்தர உறுதிகளை வழங்குவதாக வாக்குறுதி அளித்து கிட்டத்தட்ட 100 மில்லியன் ரூபாவை (10 கோடி) மோசடி செய்து தவறாகப் பயன்படுத்தியதாகக் கூறப்படும் ஒரு சந்தேக நபரும் ஒரு பெண்ணும்  குற்றப் புலனாய்வுத் துறையால் கைது செய்யப்பட்டதாக காவல்துறை ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+
+சந்தேக நபர் பணம் மோசடி செய்யப்பட்ட நபரை சிறிகொத்த தலைமையகத்திற்கும் கொழும்பில் உள்ள ஒரு பிரபலமான ஹோட்டலுக்கும் அழைக்கப்பட்டதாக காவல்துறை தெரிவித்துள்ளது.
+
+கைது செய்யப்பட்ட 43 வயதான சந்தேக நபரான பெண், பக்கமுன பகுதியைச் சேர்ந்தவர் என்றும், கிரிபத்கொட பகுதியில் உள்ள ஒரு விடுதியில் தற்காலிகமாக வசித்து வருகிறார் என்றும், சந்தேக நபர் 55 வயதான மகரகமவைச் சேர்ந்தவர் என்றும் காவல்துறை முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/93b435d0.json)
+
+---
+
+### ආබාධිත සිසුන්ට සුභ ආරංචියක්
+
+*2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආබධත-සසනට-සභ-ආරචයක/1-680546) · `si`
+
+ගුරු  හා විදුහල්පති මාරුවීම් තුලනය කිරීම කඩිනම් කළ යුතු බව  අග්‍රාමාත්‍ය සහ අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය (ආචාර්ය) හරිනි අමරසූරිය මෙනවිය  ප්‍රකාශ කළාය.
+
+මෙම ගැටලුව පිළිබඳව තවදුරටත් අවධානය යොමු කරමින්  අග්‍රාමාත්‍යතුමිය ප්‍රකාශ කළේ අධ්‍යාපන ක්ෂේත්‍රයේ මාරුවීම් ප්‍රතික්ෂේප කිරීම දිගු කලක් තිස්සේ පැවති පුරුද්දක් බවයි. රාජ්‍ය සේවයේ මාරුවීම්වලට අනුගත නොවන එකම අංශය එය බවද  ඇය කීවාය. එවැනි මාරුවීම්වලට අනුගත නොවන ගුරුවරුන් සහ විදුහල්පතිවරුන් සම්බන්ධයෙන්  ගනු ලබන පියවර පිළිබඳව ද කාරක සභාවේදී සාකච්ඡා විය.
+
+අග්‍රාමාත්‍යතුමිය මෙම අදහස් පළ කළේ ඇයගේ  සභාපතිත්වයෙන්  අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයීය  උපදේශක කාරක සභාව පසුගියදා (26) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී ය.
+
+...
+
+[Data](articles/84548e27.json)
+
+---
+
+### Thailand PM Personally Pilots Plane In Urgent Organ Mission
+
+*2025-10-01 11:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/thailand-pm-personally-pilots-plane-in-urgent-organ-mission) · `en`
+
+COLOMBO (News 1st); Thailand’s Prime Minister Anutin Charnvirakul personally piloted a plane on Tuesday (30) to retrieve life-saving organs from a donor in Loei province, before returning to Parliament for a crucial government policy debate.
+
+The mission was part of Anutin’s long-standing “Wings of the Heart” initiative, which facilitates rapid organ transport for critical transplants.
+
+Responding to an urgent request, Anutin left Parliament and flew two surgeons from Chulalongkorn University to Loei.
+
+The organs—a heart, liver, pancreas, two kidneys, and two eyes—were donated by the family of a 19-year-old man who died following a local brawl.
+
+Anutin met the donor’s parents, calling their decision “a great act of merit-making.”
+
+After the successful retrieval, Anutin immediately flew back to Bangkok.
+
+Defending his brief absence from the debate, he said he had contributed to the morning session and monitored proceedings remotely.
+
+...
+
+[Data](articles/917c7f7a.json)
+
+[Extended Data](ext_articles/917c7f7a.ext.json)
+
+---
+
+### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු වෙයි
+
+*2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/1-680545) · `si`
+
+ජපාන රජයේ ආරාධනයකට අනුව එරට  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ටෝකියෝහි පිහිටි අධිරාජ්‍ය  මන්දිරයේදී  ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු විය.
+
+ජපාන අධිරාජ්‍යයාගේ නිල නිවස වන අධිරාජ්‍ය  මන්දිරයේදී නරුහිතෝ අධිරාජ්‍යයා විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගනු ලැබීමෙන් අනතුරුව සුහද පිළිසඳරකද නිරත විය.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද මෙම අවස්ථාවට එක් විය.
+
+◼️
+
+[Data](articles/2b5e0d50.json)
+
+---
+
+### The President has returned to the country
+
+*2025-10-01 10:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-365572) · `ta`
+
+President Anuragumara Dissanayake, who was on an official visit to Japan, arrived at the Katunayake airport this morning after completing his journey.
+
+Prior to visiting Japan, the President attended the 80th United Nations General Assembly session in the United States.
+
+He was accompanied by Foreign, Foreign Employment and Tourism Minister Vijitha Herath and several senior government officials.
+
+The Sri Lankan Airlines flight from Thailand's Bangkok arrived at the Katunayake airport at 9:30 am.
+
+◼️
+
+[Data](articles/a95f8501.json)
+
+[Extended Data](ext_articles/a95f8501.ext.json)
+
+---
+
+### Keheliya Dates in case against family
+
+*2025-10-01 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215214) · `si`
+
+Former Minister Keheliya Rambukwella, his wife, three daughters, and the son-in-law, the Colombo High Court was held on October 15.
+
+Keheliya Rambukwella and the defendants appeared before the court when the case was called before Colombo High Court Judge Mohamed Mihal today (01).
+
+Attorney-at-Law Kalinga Indatissa appeared for the defendant Keheliya Rambukwella, Presidential Counsel, said the complaint was not given by the plaintiff.
+
+The President's Counsel said that the Bribery Commission has filed sudden indictments against the defendants but noted that this is not a wrong precedent.
+
+According to the President's Counsel, his client requires 12 documents to cope with the trial.
+
+The Assistant Director General of the Assistant Director General of the Bribery Commission appeared in the courts, said that the defendant would look into the documents asking.
+
+The Assistant Director General said that some of the documents that the defendant are requested will be applied to the investigations.
+
+...
+
+[Data](articles/297e5fba.json)
+
+[Extended Data](ext_articles/297e5fba.ext.json)
+
+---
+
+### 16 -year -old girl rage
+
+*2025-10-01 10:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுமி-வன்புணர்வு-பொலிஸ்-முன்னாள்-அதிகாரிக்கு-கடூழிய-சிறை/175-365571) · `ta`
+
+Homagama High Court Judge Nawaratne Marasinghe has sentenced a former Borella police officer accused of sexually abusing a girl under the age of 16.
+
+On September 13, 2009, the chargesheet reported that the accused was involved in severe sexual abuse, using a part of her body to touch the girl's private parts, and thereby committed punishable offense under sections of the Penal Code.
+
+The judge, who issued the verdict, noted that the allegations against the accused had been undoubtedly proved.
+
+State Prosecutor Shiny Weerasuriya, who appeared on behalf of the Attorney General, was a police officer entrusted with the law to uphold the law and brought him to the court's notice that he had severely abused his official position against a child.
+
+The court accepted the police department's behavior in violation of his confidence and that it would severely violate the expected social justice from the law enforcement authorities.
+
+...
+
+[Data](articles/557c5917.json)
+
+[Extended Data](ext_articles/557c5917.ext.json)
+
+---
+
+### President Anurakumara returns from Japan
+
+*2025-10-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226551) · `ta`
+
+President Anura Kumara Dissanayake, who was on an official visit to Japan at the invitation of the Japanese government, returned to the country on Wednesday morning.
+
+President Anura Kumara Dissanayake has traveled from Japan to Bangkok, Thailand and then arrived at the Katunayake airport at 09.30 am today.
+
+President Anura Kumara Dissanayake, Foreign Affairs Minister Vijitha Herath and several officials visited the United States last week to attend the 80th General Assembly session of the United Nations in New York City.
+
+President Anura Kumara Dissanayake, Foreign Affairs Minister Vijitha Herath and officials made an official visit to Japan after attending the United Nations General Assembly session.
+
+◼️
+
+[Data](articles/3b71d628.json)
+
+[Extended Data](ext_articles/3b71d628.ext.json)
+
+---
+
+### Sisu Rescue in abandoned: Mother and father arrested
+
+*2025-10-01 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவிடப்பட்ட-நிலையில்-சிசு-மீட்பு-தாய்-தந்தை-கைது/175-365569) · `ta`
+
+Akkaraipattu police have arrested the parents of the infant who was rescued.
+
+A few days after birth in Oluvil area in Ampara district, a female infant was rescued last Sunday (28).
+
+The Akkaraipattu police, who were conducting investigations, arrested the father of the child from Oluvil and the mother of Nintavur area on Tuesday.
+
+Police said that both the mother and the father who fell in love with the 17 -year -old and that they were not married.
+
+Also, the woman's father's relatives of the child were opposed to love last Sunday (28).
+
+Initial investigations have revealed that the father of the child, who knew the matter, had gone to the girlfriend's house and got her child.
+
+The child's father then telephoned a relative and found a baby girl abandoned in the Oluvil area. You don't have a baby girl. So he asked if he could raise this child. He has agreed to the relative.
+
+...
+
+[Data](articles/de3868a7.json)
+
+[Extended Data](ext_articles/de3868a7.ext.json)
+
+---
 
 ### Police Sergeant Nabbed for Drug Distribution
 
@@ -79,6 +267,36 @@ Authorities have launched a probe to identify and apprehend those involved in th
 
 ---
 
+### Police fell off the police
+
+*2025-10-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215213) · `si`
+
+At the Nittambuwa, pursued a van without orders and shooting the police.
+
+The shooting took place around 1.15 am today (01), three persons who were traveling in the van were later arrested by the police.
+
+A police inspector of the Gampaha Division Police Motorcycle Unit was on duty on the road to Udanda Junction on the road to the road.
+
+A van traveled from Veyangoda to Nittambuwa.
+
+The officers of the Police Motorcycle Unit had trailed the van to the van to stop the van in the signing of the van to stop the van.
+
+Three persons in the van have been arrested in the accident, and they have been excessively drunk.
+
+The driver is a resident of Lellopitiya and the rest of the people are residents of Ratnapura.
+
+The suspects have been brought to the Judicial Medical Officer to check the injured and the suspects are to be produced before the Attanagalla Magistrate's Court.
+
+Today, Ada Derana also received a CCTV display of the driver of the van.
+
+◼️
+
+[Data](articles/a092ab36.json)
+
+[Extended Data](ext_articles/a092ab36.ext.json)
+
+---
+
 ### President arrives
 
 *2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-එය/1-680544) · `si`
@@ -115,6 +333,30 @@ A motor vehicle allegedly used in the trafficking operation, driven by one of hi
 
 ---
 
+### 'Tinker' arrested in Dubai
+
+*2025-10-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226548) · `ta`
+
+Sreedharan Niranjan, also known as 'Tinker', a member of the organized criminal gang who was arrested in Dubai, has been deported to Sri Lanka today (01).
+
+'Tinker' was recently arrested in Dubai after being taken to the Katunayake International Airport and was arrested by the Criminal Investigation Department officials and handed over to the Beliyagoda Police Station.
+
+Police said that 'Tinker' has been identified as an organized crime and a drug trafficker, "Palani Shiran Clorian" or "Kochikkadai Shiran".
+
+The driver of the car was the driver of the car that was involved in the shooting of a three -wheeler in the Grandpass police division.
+
+He was also the suspect who was searched for the shooting of a man in the Beliyagoda Police Division on 19.08.2025, who shot and killed one person and hurt another person.
+
+A travel ban has been imposed against 'Tinker' and it has been revealed that he has gone abroad on August 19.
+
+...
+
+[Data](articles/d237b148.json)
+
+[Extended Data](ext_articles/d237b148.ext.json)
+
+---
+
 ### Divers Deployed After Weapons Magazines Found In Reservoir
 
 *2025-10-01 10:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/divers-deployed-after-weapons-magazines-found-in-reservoir) · `en`
@@ -134,6 +376,26 @@ Authorities have launched an investigation to determine who was responsible for 
 [Data](articles/9b2d9cba.json)
 
 [Extended Data](ext_articles/9b2d9cba.ext.json)
+
+---
+
+### Let peace and reconciliation prosperous and prosperous; Sajith Premadasa
+
+*2025-10-01 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226549) · `ta`
+
+In this moment of celebrating the Navratri worship, the leader of the Opposition, the beginning of the best future for all the resources is that a new night marks the dawn of the new day.. Happy Navratri to Sri Lankan Hindu devotees. I pray for unity, brotherhood, peace and reconciliation in the country. "I pray that all the prevailing contradictions should be eliminated and the prosperous country," the opposition leader said.
+
+Opposition Leader Sajith Premadasa said this while addressing the Navratri celebration held at the Opposition Leader's Office in Colombo on Tuesday evening.
+
+The Navratri Festival is usually celebrated in the month of Virgo during the month of Pattasi. The Opposition Leader said that this could be called the classic festival of the Hindu people who eliminate the darkness and rise to light.
+
+Nine days or nights are made to the new sisters of Durga Devi, a symbol of strength. This religious tradition is celebrated with colorful dances.
+
+...
+
+[Data](articles/ea8c4c96.json)
+
+[Extended Data](ext_articles/ea8c4c96.ext.json)
 
 ---
 
@@ -178,6 +440,24 @@ They all completed the visit from Bangkok, Thailand from Bangkok, from Bangkok f
 [Data](articles/520aae4b.json)
 
 [Extended Data](ext_articles/520aae4b.ext.json)
+
+---
+
+### President met Japan's Emperor Naruhido
+
+*2025-10-01 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226547) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit at the invitation of the Japanese government, met with Japan's emperor Naruhido on Tuesday (30) at the Emperor's House.
+
+The Emperor greeted the President who visited the Emperor's Home, the official residence of the Japanese Emperor in Dochio and engaged in a smooth discussion.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath also attended the event.
+
+◼️
+
+[Data](articles/151cec62.json)
+
+[Extended Data](ext_articles/151cec62.ext.json)
 
 ---
 
@@ -256,6 +536,44 @@ In it, our government is committed to providing proper nutrition for all childre
 [Data](articles/4410f567.json)
 
 [Extended Data](ext_articles/4410f567.ext.json)
+
+---
+
+### ”இலங்கையை கட்டியெழுப்ப  அனைவரும் கைகோர்ப்போம்” ஜனாதிபதி
+
+*2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-கட்டியெழுப்ப-அனைவரும்-கைகோர்ப்போம்-ஜனாதிபதி/175-365568) · `ta`
+
+சிறுவர்கள் மற்றும் முதியவர்களின் நல்வாழ்வுக்காக நாங்கள் தொடர்ந்து செயலாற்றி வருகிறோம் என ஜனாதிபதி அநுர குமார திசாநாயக்க உலக சிறுவர்கள் தினம் மற்றும் உலக முதியோர் தின வாழ்த்து செய்தியில் தெரிவித்துள்ளார்.
+
+ஒரு நாட்டின் மற்றும் உலகின் எதிர்காலம் சிறுவர்களின் கைகளிலே உள்ளது. அவர்களின் உலகம்  உண்மையான மற்றும் அழுக்கற்ற உலகம் என்பதால் அது  மிகவும் அழகானது. அந்த அழகை அனுபவிக்க அவர்களுக்கு தடையற்ற வாய்ப்பை வழங்குவது ஒரு சமூகத்தின் பொறுப்பாகும்.
+
+உரிமைகளுடன் கடமைகளும் பொறுப்புகளும் வருகின்றன என்பதைப் புரிந்துகொள்ளும் ஒரு அரசாங்கமாக, சிறுவர்களின் உரிமைகளைப் பாதுகாப்பதற்கும் ஊக்குவிப்பதற்கும் நாங்கள் எப்போதும் உறுதிபூண்டுள்ளோம்.  சிறுவர் என்பது யார் என்பதை மிகவும் நடைமுறை மற்றும் விரிவான முறையில் வரையறுப்பதன் மூலம் சிறுவர்களின் உரிமைகளை மேம்படுத்துவதற்குத் தேவையான தலையீடுகளை நாங்கள் செய்து வருகிறோம்.
+
+...
+
+[Data](articles/6bcfd69e.json)
+
+---
+
+### The US government is officially closed
+
+*2025-10-01 09:51:03* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකානු-රජය-නිල-වශයෙන්-වසා-දැමෙයි/3-418832) · `si`
+
+The US Federal Government has officially closed. The government has to be officially closed due to the Awarding of Eleenming. This is the first time a US government has been officially closed after 2019.
+
+The leaders of the United States personally emphasize that they should not be responsible for the shortage of funds: Republican Party insists that the Democratic Party should agree to extend the current funds for another seven weeks.
+
+The Democratic Party has rejected the main relief to vote for his votes to pass any funding step in the Senate. Senators have a deep uncertainty of how long the shutdown can last.
+
+The Senate is to vote again on the funding plan. The closing of the government means leave of lack of thousands of federal workers, and others who are considered essential will continue to report to work.
+
+But most people are not paid until the end of this messy. Others, however, will continue to collect salaries as they do not fund their jobs through the annual discharge of Congress.
+
+◼️
+
+[Data](articles/8801641e.json)
+
+[Extended Data](ext_articles/8801641e.ext.json)
 
 ---
 
@@ -1698,319 +2016,5 @@ The future of the world as well as the future of the world is the parasion. Extr
 [Data](articles/f765f209.json)
 
 [Extended Data](ext_articles/f765f209.ext.json)
-
----
-
-### Are we going to jail now now? Imagine
-
-*2025-09-30 22:48:30* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපට-දන-හර-යනවද-උගනවනවද-හතනන-වල/1-680525) · `si`
-
-If the government brought the government to prevent children from being violent, do they teach their children? Otherwise in prison? The convener of the Guru Principal is to think that the teachers are to think about at a press conference today (30).
-
-Sumangala Thera said that if the amendment is implemented, a student leadership has no work. Speaking further at the press conference held in Colombo with the participation of the teacher unions, he said:
-
-If you do not share a word of the school if this bill is passed, it is not for prohibition.
-
-If the bill is passed, the Ministry of Education should be informed if a boy gets into school and follow a boy to school.
-
-At a further press conference held in Colombo, the Government Deputy Minister of Labor Mahinda Jayasinghe is the General Secretary of the Ceylon Teachers' Union (LB)
-
-It should not be physical punishment. If there is plenty of methods, do not go to hair. Assign the parents to the parent.
-
-◼️
-
-[Data](articles/0197e74e.json)
-
-[Extended Data](ext_articles/0197e74e.ext.json)
-
----
-
-### Are we going to jail now now? Imagine
-
-*2025-09-30 22:48:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපට-දන-හර-යනවද-උගනවනවද-හතනන-වල/101-680525) · `si`
-
-If the government brought the government to prevent children from being violent, do they teach their children? Otherwise in prison? The convener of the Guru Principal is to think that the teachers are to think about at a press conference today (30).
-
-Sumangala Thera said that if the amendment is implemented, a student leadership has no work. Speaking further at the press conference held in Colombo with the participation of the teacher unions, he said:
-
-If you do not share a word of the school if this bill is passed, it is not for prohibition.
-
-If the bill is passed, the Ministry of Education should be informed if a boy gets into school and follow a boy to school.
-
-At a further press conference held in Colombo, the Government Deputy Minister of Labor Mahinda Jayasinghe is the General Secretary of the Ceylon Teachers' Union (LB)
-
-It should not be physical punishment. If there is plenty of methods, do not go to hair. Assign the parents to the parent.
-
-◼️
-
-[Data](articles/25f28a38.json)
-
-[Extended Data](ext_articles/25f28a38.ext.json)
-
----
-
-### Excessive spending loses the lives of two youths
-
-*2025-09-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215199) · `si`
-
-Two youths were killed in an accident in Kapugollawa area on the Kapugollewa area in Horowpathana on the Kapugollewa area.
-
-The accident had occurred when a transcript motorbike hit by Kapugollawa from Kapugollawa to Kapugollawa to Horowpathana to Horowpathana.
-
-The deceased have been identified as 20-year-old and 21 year old youths, a resident of Kirimbollana and Nelugalliwa areas in Horowpothana.
-
-Ada Derana stated that the bus driver has been arrested in connection with the accident
-
-◼️
-
-[Data](articles/b6e97edf.json)
-
-[Extended Data](ext_articles/b6e97edf.ext.json)
-
----
-
-### PM participated in the Saarc Heritage Forum 2025
-
-*2025-09-30 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226530) · `ta`
-
-Prime Minister Dr. Harini Amarasuriya attended the National Municipality in Colombo on Tuesday (30) at the SAARC Heritage Council organized by the Cultural Center (SCC) with the support of the Government of Sri Lanka (SCC) to promote regional art, culture, heritage sites, museums and documentary archives.. The forum will be held from September 30 to October 02.
-
-The SAARC Heritage Forum 2025, arranging, sharing knowledge, sharing knowledge and innovative approaches, aimed at protecting and improving the prosperous cultural heritage of South Asia, to unite experts, experts and scholars and scholars and scholars.
-
-These purposes can be achieved by strengthening cooperation, establishing the SAARC heritage list with its operational principles, and combining key Buddhist historical sites and creating a cultural structure that facilitate the connection to Hindu, Islam, Christianity and other religions.
-
-...
-
-[Data](articles/284a911d.json)
-
-[Extended Data](ext_articles/284a911d.ext.json)
-
----
-
-### The price of three types of fuel down
-
-*2025-09-30 22:36:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනධන-වරග-තනක-මල-පහළට/101-680524) · `si`
-
-The Ceylon Petroleum Corporation announced a few moments ago that the price of three fuel including diesel was reduced from midnight today (30).
-
-The price of a liter of Sri Lanka is Rs. 6 per liter of oil, the price of Rs.
-
-The Petroleum Corporation said that the price of a liter of Octane 92 petrol and Lanka super diesel will not change.
-
-According to this price amendment, the new price of a liter of Sri Lanka's white diesel is Rs 277 and the new price of an Octane 95 petrol.
-
-The Corporation also said that the price of a liter of Octane 92 petrol, the price of Rs.
-
-◼️
-
-[Data](articles/6110e696.json)
-
-[Extended Data](ext_articles/6110e696.ext.json)
-
----
-
-### Wife giving his wife to the prison cell
-
-*2025-09-30 22:30:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරය-සමයට-සර-මදරයද-කඩ-දල/101-680523) · `si`
-
-Kekirawa Police say that the Rajawa's wife was arrested for a detaineant person who was in custom from the Kekirawa Magistrate Advertiser.
-
-The Batticaloa Prison officials had taken action to be presented to Kekirawa Magistrate's appointment today (30).
-
-Accordingly, a group of detainees, including the relevant custom from prison officials to the prison personnel to the prison, had given the parcel that had alleged drugs in court hall.. The police had also been able to find the drugs that were provided by the woman in possession of the department.
-
-Police said he was able to find 480 millions of drugs and 300 grams of heroin in the parcel by the suspect.
-
-The police arrested the police were arrested by the police that the parcel containing drugs in the starvation hall.. Police have identified the wife of the detainea, police said.
-
-◼️
-
-[Data](articles/315d54ea.json)
-
-[Extended Data](ext_articles/315d54ea.ext.json)
-
----
-
-### Several laboratories at National Hospital are inactive - Medical Laboratory Science Association
-
-*2025-09-30 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215198) · `si`
-
-The All Ceylon Medical Laboratory Scientist Association alleges that certain officials in the health sector are working on the agenda of the government's hospitals.
-
-Representatives were held in Colombo today, said the representatives of the Colombo National Hospital have stopped.
-
-General Secretary of the All Ceylon Medical Laboratory Science Association, Wasantha Gunawardena, the General Secretary of the All Ceylon Medical Laboratory Science Association.
-
-"Creating order officers do not now do now. Full liver tests stopped at a certain extent. The cardiologist's 'Troponin i' has become a place not tested. The 'Troponin I' National Hospital Rs.
-
-◼️
-
-[Data](articles/70d87e87.json)
-
-[Extended Data](ext_articles/70d87e87.ext.json)
-
----
-
-### Bore. Removal of a military camp camping at Ramakrishna Mission School; Has been accommodated for educational activities
-
-*2025-09-30 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226529) · `ta`
-
-The military camp, which was camping at the Ramakrishna Mission School in Batticaloa since 1990, has been removed on Tuesday (30) after 35 years.
-
-The official event was held on Tuesday (30) at the Ramakrishna Mission Vidyalaya Army Camp.
-
-Minister of Industry and Entrepreneurship Development Sunilhantunithi participated in the event organized by the military.
-
-The Ramakrishnanam Vidyalaya campus was officially handed over to Gran Divisional Secretary K. Sithravel in the presence of Minister Sunilhantunithi.
-
-Eastern Provincial Commander Maj. Gen. Janaka Pallekumura Eastern Provincial Education Director SR Hasanthi and Calcutta Zonal Education Officer R. Anantarupan were also present.
-
-Following the military camp in the building in the 1990s, the school was relocating and operating in a different location.
-
-...
-
-[Data](articles/02c4aaef.json)
-
-[Extended Data](ext_articles/02c4aaef.ext.json)
-
----
-
-### Australia updates student visa evidence levels: Sri Lanka now among low-risk countries
-
-*2025-09-30 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113090/australia-updates-student-visa-evidence-levels-sri-lanka-now-among-low-risk-countries) · `en`
-
-The Australian Department of Home Affairs has recently updated evidence levels for student visa applications, as noted via the PRISMS system.
-
-While these levels are not officially published, the department uses them to assess the documentation required for student visa applications under the Simplified Student Visa Framework (SSVF).
-
-Based on information circulated within official education and immigration networks, countries are currently categorized as follows:
-
-Evidence levels are part of Australia’s risk-management approach to international education, reflecting past student visa compliance and other immigration outcomes.
-
-Both education providers and countries of citizenship are assigned evidence levels (Level 1, 2, or 3). The combination of these two factors determines how much documentation a student must provide.
-
-All institutions registered under the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS) are assigned an evidence level:
-
-...
-
-[Data](articles/066bafce.json)
-
-[Extended Data](ext_articles/066bafce.ext.json)
-
----
-
-### Discussion between the founding chairman and the president of the Nippon forum
-
-*2025-09-30 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226528) · `ta`
-
-President Anura Kumara Dissanayake, who is on an official visit to Japan at the invitation of the Japanese government, met with the founding president of the Nippon Forum at the Imperial Hotel in Tokyo on Tuesday morning.
-
-Special attention was paid to strengthening the long -term friendship between Japan and Sri Lanka.
-
-He told the president that Yohai Sasakawa would give his continued support to improve the livelihood of all communities in Sri Lanka.. He also put forward future plans for the reconstruction and modernization of 100 schools in the Northern and Eastern Provinces.
-
-இலங்கை மக்களின் முன்னேற்றம் மற்றும் நல்வாழ்வை மேம்படுத்துவதற்கான முயற்சிகளுக்கும், இலங்கையில் சமூக சேவைக்கான அவரது நீண்டகால அர்ப்பணிப்புக்கும் யொஹெய் சசகாவாவுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது நன்றியைத் தெரிவித்தார்.
-
-Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and many others participated in the meeting.
-
-◼️
-
-[Data](articles/3c0b9589.json)
-
-[Extended Data](ext_articles/3c0b9589.ext.json)
-
----
-
-### Three gorets arrested with Rajitha's cocaine
-
-*2025-09-30 22:11:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඩවට-රජතග-කකන-සමග-ගලය-තනක-මටට/101-680522) · `si`
-
-The Walana Corruption Assistance Former Corruption Balaksi Corps states that three million cocaine has been taken into custody with two million cocaines, including a chiefs of Badown Rajitha who operates.
-
-The authority of the Forgtor K.A.Adeva Kumara has been taken into custody by inspection of a house in Galpita Jayasiri Place.
-
-It has been revealed that At Attanagoda Kankanam Prabudu Priyankara alias Attanagoda Kankanam Priyankara, or Asi, has revealed that the father had been stored and trafficked in the house.
-
-The suspect was arrested and a mount term was a "Sura" and later found a kilo of cocaine in the event of the vehicle.
-
-◼️
-
-[Data](articles/8d32d08c.json)
-
-[Extended Data](ext_articles/8d32d08c.ext.json)
-
----
-
-### Fuel Prices Revised
-
-*2025-09-30 21:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/09/30/fuel-prices-revised) · `en`
-
-COLOMBO (News 1st); According to the Ceylon Petroleum Cooperation, Fuel prices will be revised with effect from midnight today (30). The price of a liter of auto diesel will be reduced by Rs. 6, the price of a liter of octane 95 petrol by Rs. 6 and the price of a liter of kerosene by Rs. 5. Other fuel prices will not be revised.
-
-◼️
-
-[Data](articles/ff08bca1.json)
-
-[Extended Data](ext_articles/ff08bca1.ext.json)
-
----
-
-### President and Japan meet between Sri Lankan parliamentary lease
-
-*2025-09-30 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215197) · `si`
-
-President Anura Kumara Dissanayake was held today (30) at the Imperial Hotel on the Imperial Hotel, Tokyo.
-
-The banquet was organized by the Japanese League of Japan.
-
-JICHITAKA Shindo (Yuko OBuchi), General Secretary Yuko OBuchi (Yuko OBUCHI) has stated that President Anura Kumara Shindo (Yuko OBUCHI) and General Secretary Yuko OBuchi are looking forward to strengthening the cooperation between members of the two countries.
-
-They also said that cooperation will be strengthened through political, economic and cultural areas for mutual benefits of both countries.
-
-The Japanese - the Parliamentary League of Japan was established in 1982 under the patronage of former Prime Minister Creato OBuchi.
-
-Foreign Affairs and Tourism and Tourism Vijitha Herath, Japan's Ambassador to Japan and Japan and Japanese - Sri Lanka's parliamentary league members were present at the occasion.
-
-◼️
-
-[Data](articles/04cc4b6b.json)
-
-[Extended Data](ext_articles/04cc4b6b.ext.json)
-
----
-
-### Action change in fuel prices
-
-*2025-09-30 21:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலைகளில்-அதிரடி-மாற்றம்/175-365558) · `ta`
-
-Ceylon Petroleum Corporation. .
-
-There is no change in the price of petrol Octane 92 and super diesel.
-
-◼️
-
-[Data](articles/bce27f1c.json)
-
-[Extended Data](ext_articles/bce27f1c.ext.json)
-
----
-
-### Two people die mysteriously in Colombo
-
-*2025-09-30 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226527) · `ta`
-
-The body of two men who died mysteriously in two other parts of Colombo was recovered by police on Monday (29).
-
-The body of an unidentified person who died mysteriously from the jar vavi near the Grandpass Police Division of Colombo. According to information provided by the residents to the police at 5.20 pm, the police had recovered the body and carried out investigations.  A person who is about 35 to 40 years of age, 5 feet 4 inches tall, has died.
-
-Investigators say he finally wore a black room gat shirt and a black top.
-
-Meanwhile, the body of a mysterious person has been recovered in a house on Siriwardena Road, Dehiwala Police Division.. A 23 -year -old man from Dehiwala died. In this case, the police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/2f7a9cb8.json)
-
-[Extended Data](ext_articles/2f7a9cb8.ext.json)
 
 ---

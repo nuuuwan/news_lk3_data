@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 19:02:58**
+As of **2025-10-01 19:21:48**
 
 ## Newspaper Stats
 
-*Scraped **80,313** Articles*
+*Scraped **80,320** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 537
-lankadeepalk | 604
+newsfirstlk | 539
+lankadeepalk | 608
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,721
+adalk | 7,722
 adaderanalk | 10,340
 tamilmirrorlk | 11,984
 virakesarilk | 13,136
@@ -27,11 +27,65 @@ adaderanasinhalalk | 13,857
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,308 (100.0%) of 80,313 articles have been extended.
+80,317 (100.0%) of 80,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### ලෝක ළමා දිනයේ ගත් ආහාර විස වූ දරුවෝ 58ක් රෝහල් ගත කරති
+
+*2025-10-01 18:58:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ළම-දනය-ගත-ආහර-වස-ව-දරව-58ක-රහල-ගත-කරත/101-680595) · `si`
+
+ලෝක ළමා දිනය නිමිත්තෙන් පොලොන්නරුව හිඟුරක්ගොඩ බකමූණ කෝට්ටපිටිය කනිටු විදුහලේ ගුරුවරුන් එහි සිසුන්නට ලබා දුන් ආහර ලබාගත් සිසුන් 58 දෙනකු අසාත්මික තාවක් හේතුවෙන් බකමූණ ප්‍රාදේශීය රෝහලට ඇතුළත් කළ බව රෝහල් ප්‍රකාශකයෙක් පැවැසීය.
+
+පසුව එම ආහාර වේල දහවල් සිසුන්ට ලබා දීමෙන් අනතුරුව පාසල නිම වී නිවෙස් වෙත ගිය පාසල් සිසුන් පිරිසකට වමනය සහ යම්කිසි බඩේ අසාත්මිකතාවක් ඇතිව තිබේ.
+
+ඒත් සමඟම එක් එක් මව්පියන් තම දරුවන් බකමූණ ප්‍රාදේශීය රෝහල වෙත රැගෙන ඒමත් සමඟ මේ වන විට පාසල් සිසුන් 58 කට ආසන්න පිරිසක් රෝහල් ගත කර ඇත.
+
+◼️
+
+[Data](articles/4d4a7b60.json)
+
+---
+
+### විදුහල්පතිට ස්ථාන මරු ලිපිය රැගෙන ගිය කාලාප අධ්‍යක්ෂිකා සිරකරලා
+
+*2025-10-01 18:53:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදහලපතට-සථන-මර-ලපය-රගන-ගය-කලප-අධයකෂක-සරකරල/101-680594) · `si`
+
+කන්තලේ අග්‍රබෝධී ජාතික පාසලේ විදුහල්පතිට එරෙහිව පැවැත්වූ විමර්ශනයකින් පසුව ස්ථාර මාරු කිරිමේ ලිපිය රැගෙන අද පස්වරුවේ විදුහලට පැමිණි කලාප අධ්‍යාපන අධ්‍යක්ෂිකා එස්.එච්.එන්. දුලාංජලී මහත්මියට විදුහලේ දොරටු වසා පිටතට යෑමට නොදී පැයක පමණ සිරකර තැබීමට කිසියම් පිරිසක් කටයුතු කර තිබුණි.
+
+විදුහලේ පාසල් සංවර්ධන සමිතියේ යැයි කියාගත් කිහිප දෙනකු මෙලෙස දොරටුව වසා ඉබි යතුර දමා තිබූ අතර එයට සහාය දක්වමින් ගුරුවරු පිරිසක්ද විදුහල් භූමියේ රැඳී සිටින අයුරු දක්නට ලැබුණි.
+
+කන්තලේ අග්‍රබෝධි ජාතික පාසලේ තාවකාලික වැඩ බලන විදුහල්පති එස්.කේ.සමරනායක මහතා වහාම ක්‍රියාත්මක වන පරිදි නැගෙනහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව වෙත ස්ථාන මාරුව කිරීමේ ලිපිය රැගෙන පැමිණි කලාප අධ්‍යාපන අධ්‍යක්ෂවරිය පැයකට ආසන්න කාලයක් මේ නිසා සිය නිල රථයට වී සිටීමට සිදු වූවාය.
+
+සිද්ධිය සැලවු විගස මාපිය පිරිසක්ද පැමිණ ප්‍රධාන දොරටුවෙන් පිටත රැදි විදුහල්පතිට එරෙහිව "ස්ථාන මාරුවක් ලැබුණේ නම් යන්නයි" හඬ නගන්නට විය.
+
+...
+
+[Data](articles/d5e4b033.json)
+
+---
+
+### 4 year old baby billions into the well
+
+*2025-10-01 18:51:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අවරද-4ක-දරව-ළඳට-බල/101-680593) · `si`
+
+Navagamuwa Police say that a four-year-old child had died in the ground behind the house today (01)
+
+The deceased has been identified as 404/6, the highest Bomiriya, a resident of Kaduwela. Although the well on the back of the nickey is covered with a net, the involvement of the adult attention must have been suspected to go into the well.
+
+The police say that the accident had been identified as the children of the children's day to attend the presence of the Children's Day Cricket and acquired gifts.
+
+When this event was the mother's mother and grandfather were from home. Later, although the intervention of Navagamuwa Polonnaruwa, the child was taken to Navagamuwa hospital, but the doctors have been identified as the child has died.
+
+◼️
+
+[Data](articles/789edd0e.json)
+
+[Extended Data](ext_articles/789edd0e.ext.json)
+
+---
 
 ### Energy Minister visits India: Advice on bilateral energy cooperation
 
@@ -185,6 +239,18 @@ The police say that the accident had been identified as the children of the chil
 
 ---
 
+### Namal Slams CID Over ‘Politically Driven’ Thajudeen Case
+
+*2025-10-01 18:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/namal-slams-cid-over-%e2%80%98politically-driven%e2%80%99-thajudeen-case) · `en`
+
+...
+
+[Data](articles/e1f8b9ce.json)
+
+[Extended Data](ext_articles/e1f8b9ce.ext.json)
+
+---
+
 ### Theft in a bank money laundering machine - observation!
 
 *2025-10-01 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226622) · `ta`
@@ -226,6 +292,20 @@ He told the media that the NTC would calculate the bus fares according to a cert
 [Data](articles/42c879e8.json)
 
 [Extended Data](ext_articles/42c879e8.ext.json)
+
+---
+
+### Police Recover Over 200 T-56 Magazines From Reservoir
+
+*2025-10-01 18:09:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-recover-over-200-t-56-magazines-from-reservoir) · `en`
+
+COLOMBO (News 1st); Police have recovered another large cache of empty weapon magazines from the Veheragala Reservoir, continuing a major search operation launched yesterday based on military intelligence.According to police, the latest discovery includes:214 empty T-56 magazines38 LMG drum magazines11 MPMG 200-round magazines9 MPMG 100-round magazines6 T-81 magazinesOne 100-round drum for 12.7mm anti-aircraft gunsThe search operation, which began yesterday afternoon with the assistance of divers, was initiated following information provided by an Army Intelligence officer.Police have launched an investigation to identify those responsible for dumping the magazines into the reservoir. The case will be reported to the Wellawaya Magistrate’s Court, according to a statement from the Police Media Division.
+
+◼️
+
+[Data](articles/72a725be.json)
+
+[Extended Data](ext_articles/72a725be.ext.json)
 
 ---
 
@@ -1757,6 +1837,24 @@ This decision was made by Lafs Gas PLC, Cluster CEO Niroshan J. Peiris announced
 
 ---
 
+### පොලිස් අණ නොතැකූ වාහනයට වෙඩි
+
+*2025-10-01 14:44:51* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතැකූ-වාහනයට-වෙඩි/11-418845) · `si`
+
+අවස්ථා තුනක දී පොලිස් නියොග නෙතකා නොනවත්වා ධාවනය කරන ලද  වැන් රථයක් ලුහුබැද ගිය පොලිස් නිළදාරින් විසින් වෙඩි තබා නතර කරගැනීමෙන් පසු එහි ගමන්ගත් තිදෙනෙකු 1 අලුයම අත්අඩංගුවට ගෙන ඇතැයි නිට්ටඹුව පොලිසිය කියයි.
+
+අළුයම  0115 ට පමන නිට්ටඹුව පොලිස් වසමේ  ගම්පහ කොට්ඨාශ සංක්‍රාමික පොලිස් යතුරු පැදි ඒකකයේ පොලිස්පරීක්ෂක.නලින් මහතා ඇතුලු නිලධරින්  වේයන්ගොඩ -  නිට්ටඹුව මාර්ගයේ උදම්විට හංදියේ නිළධාරින් හය දෙනෙකු සමග මාර්ග බාධක රාජකාරියේ යෙදි සිටියදි සැකකටයුතු ලෙස වේයන්ගොඩ දෙස සිට නිට්ටඹුව දෙසට වෑන් රථයක්  ගමන් කර ඇත.
+
+මෙම වෑන් රථය නැවැත්වීමට පොලිස් නිළදාරින් විසින් සංඥා කිරිමට කටයුතු කර ඇතත්එම වෑන් රථය නොනවත්වා ධාවනය කර ඇතැයි පොලිසිය කියයි.
+
+අනතුරට යතුරු පැදි ඒකකයේ නිළධාරින්  වෑන් රථය පිටුපස හබා ගොස් අවස්ථා තුනකදි වාහනය නැවැත්විමට උත්සහ කර ඇති අතර නිට්ටඹුව නගරයේ දි රතු ආලෝක සංඥ වැටි තිබියදි වෑන් රථය වතුපිටිවල දෙසට ධාවනය කර තිබේ . මෙම හේතුවෙන් පොලිස් නිළධාරින්  වෑන් රථයේ ඉදිරිපස දකුණු ටයරයට හා පිටුපස දකුණු ටයරයට ටි 56 අවියෙන් වෙඩි ප්‍රහාර තුනක් එල්ල කර වාහනය නවත්වා ඇතැයි පොලිසිය කියයි
+
+...
+
+[Data](articles/cfbeec82.json)
+
+---
+
 ### Bullets emerge from Weheragala reservoir
 
 *2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වහරගල-ජලශයන-උණඩ-මතව/101-680575) · `si`
@@ -1896,135 +1994,5 @@ Four of them have been treated in the Outdone Division and five are staying and 
 [Data](articles/af57027c.json)
 
 [Extended Data](ext_articles/af57027c.ext.json)
-
----
-
-### Shot to police command
-
-*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලස-අණට-අවනත-නවවන-රයට-වඩ/1-680573) · `si`
-
-Nittambuwa Police say that the police were arrested by the police stabbed to shoot at three occasions and stopped a vehicle.
-
-Van was suspiciously visible to the Nittambuwa to Nittambuwa, including six officers in the Gampaha Divisional Center, Gampaha Divisional Police Motorcycle, Gampaha Divisional Secretariat.
-
-Police say that the van has been signaled to stop the van, but the van has been running out.
-
-Officers of the Motorcycle Unit have tried to stop the vehicle on three occasions on the back of the van and the van has been operated towards Wathupitiwala towards Wathupitiwala.
-
-The police say the vehicle has stopped three shots and back on the front of the police officers.
-
-Then the vehicle and the three were arrested by the vehicle and its three of the retail from the left hand side of the views.. They have been excessively dressed and the driver is a Kuru, a rice resident of Lellopitiya.
-
-◼️
-
-[Data](articles/5d9014ad.json)
-
-[Extended Data](ext_articles/5d9014ad.ext.json)
-
----
-
-### Shot to police command
-
-*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පලස-අණට-අවනත-නවවන-රයට-වඩ/101-680573) · `si`
-
-Nittambuwa Police say that the police were arrested by the police stabbed to shoot at three occasions and stopped a vehicle.
-
-Van was suspiciously visible to the Nittambuwa to Nittambuwa, including six officers in the Gampaha Divisional Center, Gampaha Divisional Police Motorcycle, Gampaha Divisional Secretariat.
-
-Police say that the van has been signaled to stop the van, but the van has been running out.
-
-Officers of the Motorcycle Unit have tried to stop the vehicle on three occasions on the back of the van and the van has been operated towards Wathupitiwala towards Wathupitiwala.
-
-The police say the vehicle has stopped three shots and back on the front of the police officers.
-
-Then the vehicle and the three were arrested by the vehicle and its three of the retail from the left hand side of the views.. They have been excessively dressed and the driver is a Kuru, a rice resident of Lellopitiya.
-
-◼️
-
-[Data](articles/cbc9eb98.json)
-
-[Extended Data](ext_articles/cbc9eb98.ext.json)
-
----
-
-### SLTB - CEB
-
-*2025-10-01 14:23:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලගම-ලවම-යනයන-ලකකනට-අවසර-පතර-ද-කට-අටක-පඩවල/1-680572) · `si`
-
-A report issued by the National Audit Office, a loss of Rs.
-
-Also, the National Audit Office had no loss for more than two million rupees from the Railway Department on the basis of exchangedation.
-
-Two officers can be released on a full-time congress of a recognized Trade Union Federation and an officer who is unleashed should be released to travel to anywhere in the island.. However, the report states that the above free passports have been issued against the law.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-◼️
-
-[Data](articles/7e0239de.json)
-
-[Extended Data](ext_articles/7e0239de.ext.json)
-
----
-
-### SLTB 'Union' bosses lost eight million in permits
-
-*2025-10-01 14:23:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලගම-යනයන-ලකකනට-අවසර-පතර-ද-කට-අටක-පඩවල/1-680572) · `si`
-
-A report issued by the National Audit Office, a loss of Rs.
-
-Also, the National Audit Office had no loss for more than two million rupees from the Railway Department on the basis of exchangedation.
-
-Two officers can be released on a full-time congress of a recognized Trade Union Federation and an officer who is unleashed should be released to travel to anywhere in the island.. However, the report states that the above free passports have been issued against the law.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-◼️
-
-[Data](articles/cae9001f.json)
-
-[Extended Data](ext_articles/cae9001f.ext.json)
-
----
-
-### One of every six adults suffered from mental illness
-
-*2025-10-01 14:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/සම-වඩහටයන-හය-දනකගන-එක-අයකම-කනම-හ-මනසක-රගබධයකන-පළනවල/26-680571) · `si`
-
-Commenting - Uva Wellassa University, Career Guidance, Psychiatrist, Akila Pharmaceutanda
-
-By 2050 the elderly population is predicted to be 2.1 billion.  The number of adults with mental disorders is also high
-
-Has. Therefore, the elderly day is much to do for the adult day rather than celebrate.
-
-Today, we have many different problems in children. These children face many problems with questions about the problems, behavioral problems, mental, mental problems, and the empathy, which is socially found in our clinics.. We have found an increase in children's mental complications relative to us.
-
-We have the problems of many children as children, children, orphans with children, personality children with high-acting children, children, orphans, personality children, with a variety of genetic temperature.
-
-...
-
-[Data](articles/7fda240d.json)
-
-[Extended Data](ext_articles/7fda240d.ext.json)
-
----
-
-### Development officers to be recruited for teaching service – Education Min.
-
-*2025-10-01 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113108/development-officers-to-be-recruited-for-teaching-service-education-min) · `en`
-
-The Ministry of Education, Higher Education and Vocational Training has issued a statement regarding the recruitment of development officers currently assigned to schools to the teaching service.
-
-Accordingly, a communique confirming the move has been issued with the signature of the Secretary to the Ministry, Nalaka Kaluwewa.
-
-The Ministry states that several cases heard before the Supreme Court regarding the competitive examination which was scheduled to be held on March 25, 2023, for the recruitment of graduates to the state service, including development officers working in schools to the teaching service, have now been concluded.
-
-However, since the case being heard in the Court of Appeal has not yet been concluded, the Ministry of Education further states that any further action regarding the competitive examination will be taken only after the verdict is delivered.
-
-◼️
-
-[Data](articles/d700bbdf.json)
-
-[Extended Data](ext_articles/d700bbdf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 11:57:35**
+As of **2025-10-01 12:24:41**
 
 ## Newspaper Stats
 
-*Scraped **80,129** Articles*
+*Scraped **80,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,704
 adaderanalk | 10,324
-tamilmirrorlk | 11,966
+tamilmirrorlk | 11,967
 virakesarilk | 13,085
 adaderanasinhalalk | 13,843
 
@@ -27,11 +27,29 @@ adaderanasinhalalk | 13,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,121 (100.0%) of 80,129 articles have been extended.
+80,130 (100.0%) of 80,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Passport and Visa Services will continue in US embassies
+
+*2025-10-01 11:49:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதரகங்களில்-கடவுச்சீட்டு-விசா-சேவைகள்-தொடரும்/175-365576) · `ta`
+
+The US embassy in Colombo has announced that passports and visa services will continue at US embassies in the United States and abroad, despite the delay in allocation.
+
+In a post released today, the embassy said that only emergency safety information would be shared until the entire operations were resumed.
+
+In addition, the report also stated that updates on embassy services and operational status are available at the US Foreign Department's official website [travel.state.gov] (http://travel.state.gov).
+
+◼️
+
+[Data](articles/76bab19e.json)
+
+[Extended Data](ext_articles/76bab19e.ext.json)
+
+---
 
 ### 10 crore rupees fraud: two arrested
 
@@ -73,19 +91,23 @@ At this meeting also discussed the policy decisions related to the inclusion of 
 
 ---
 
-### ආබාධිත සිසුන්ට සුභ ආරංචියක්
+### Good news for disabled students
 
 *2025-10-01 11:14:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආබධත-සසනට-සභ-ආරචයක/101-680546) · `si`
 
-ගුරු  හා විදුහල්පති මාරුවීම් තුලනය කිරීම කඩිනම් කළ යුතු බව  අග්‍රාමාත්‍ය සහ අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය (ආචාර්ය) හරිනි අමරසූරිය මෙනවිය  ප්‍රකාශ කළාය.
+The Prime Minister and Education, Higher Education and Vocational Education Minister Harinini Amarasuriya stated that the balance of transfers should be accelerated.
 
-මෙම ගැටලුව පිළිබඳව තවදුරටත් අවධානය යොමු කරමින්  අග්‍රාමාත්‍යතුමිය ප්‍රකාශ කළේ අධ්‍යාපන ක්ෂේත්‍රයේ මාරුවීම් ප්‍රතික්ෂේප කිරීම දිගු කලක් තිස්සේ පැවති පුරුද්දක් බවයි. රාජ්‍ය සේවයේ මාරුවීම්වලට අනුගත නොවන එකම අංශය එය බවද  ඇය කීවාය. එවැනි මාරුවීම්වලට අනුගත නොවන ගුරුවරුන් සහ විදුහල්පතිවරුන් සම්බන්ධයෙන්  ගනු ලබන පියවර පිළිබඳව ද කාරක සභාවේදී සාකච්ඡා විය.
+The Prime Minister said that he further focused on this issue, the rejection of transfers in the field of education is a long time. She said that it was the only section that would not adapt to the transfers of the public service.. The Committee also discussed the steps taken by teachers and principals who were not adapted to such transfers.
 
-අග්‍රාමාත්‍යතුමිය මෙම අදහස් පළ කළේ ඇයගේ  සභාපතිත්වයෙන්  අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයීය  උපදේශක කාරක සභාව පසුගියදා (26) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදී ය.
+The Prime Minister made these comments when he was chaired by the Ministry of Education, Higher Education and Vocational Education in Parliament recently (26).
 
-...
+At this meeting also discussed the policy decisions related to the inclusion of the disabled students to universities. Accordingly, the policy will be implemented based on a quota method for all subjects from the year next year.
+
+◼️
 
 [Data](articles/f3c84246.json)
+
+[Extended Data](ext_articles/f3c84246.ext.json)
 
 ---
 
@@ -137,15 +159,17 @@ Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the 
 
 *2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපනය-නරහත-අධරජයය-හම-වය/101-680545) · `si`
 
-ජපාන රජයේ ආරාධනයකට අනුව එරට  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ටෝකියෝහි පිහිටි අධිරාජ්‍ය  මන්දිරයේදී  ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු විය.
+President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
 
-ජපාන අධිරාජ්‍යයාගේ නිල නිවස වන අධිරාජ්‍ය  මන්දිරයේදී නරුහිතෝ අධිරාජ්‍යයා විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගනු ලැබීමෙන් අනතුරුව සුහද පිළිසඳරකද නිරත විය.
+The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද මෙම අවස්ථාවට එක් විය.
+Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
 
 ◼️
 
 [Data](articles/b430a658.json)
+
+[Extended Data](ext_articles/b430a658.ext.json)
 
 ---
 
@@ -339,15 +363,17 @@ Today, Ada Derana also received a CCTV display of the driver of the van.
 
 ---
 
-### ජනපති එයි
+### President arrives
 
 *2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-එය/101-680544) · `si`
 
-ජනාධිපති අනුරු කුමාර දිසානායක මහතා ජපන් නිල සංචාරය නිමකරමින් කටුනායක ගුවන් තොටින් අද පෙරවරුවේ දිවයිනට පැමිණියේය.‍ෙඑක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ 80 වැනි සැසිවාරයට සහභාගී වීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉකුත් 22 වැනිදා ඇමරිකාව බලා පිටත් විය.
+President of the President, Kumara Dissanayake arrived in the island this morning, the Katunayake Air Forlar to attend the 80th session of the Nations.
 
 ◼️
 
 [Data](articles/5678d135.json)
+
+[Extended Data](ext_articles/5678d135.ext.json)
 
 ---
 
@@ -555,19 +581,21 @@ The weapons found on information received by the Army.
 
 ---
 
-### නීතියට පයින් ගසා කෝටි 668ක්  ණයට බෙදලා
+### The law kicked the law and divided Rs. 668 crores
 
 *2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/101-680541) · `si`
 
 ශ්‍රී ලංකා විදුලිබල මණ්ඩලය  අර්ථසාධක අරමුදලේ රීතිවලට පටහැනිව රුපියල් කෝටි හයකට වැඩි  අධ්‍යාපන ණය සහ රුපියල්  කෝටි 662  කට ආසන්න වටිනා දේපල ණය 2024 වර්ෂයේදී  ලබාදී ඇති බව  පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේදී (කෝප් කමිටුව )තොරතුරු අනාවරණය විය.
 
-නියමිත ක්‍රමවේදයෙන් බැහැරව අධ්‍යක්ෂ මණ්ඩලයේද  කම්කරු කොමසාරිස්වරයාගේ සහ දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයාගේද  අනුමතියකින්  තොරව සහ 2003 අර්ථසාධක අරමුදල් රෙගුලාසිවල සංශෝධන ගැසට් නිවේදයකින්  ප්‍රකාශයට පත් නොකර මෙම ණය ලබාදී  තිබූ බව එම කමිටුව පවසයි.
+The committee says that the loans had been granted without an approval of the Board of Labor and the Commissioner of Labor and the Commissioner General of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Inland Revenue.
 
-වහාම මේ සම්බන්ධයෙන් සුදුසු ක්‍රියාමාර්ග ගන්නා ලෙස කෝපා කමිටුව නිර්දේශ කර ඇත.
+The Kopypay Committee has recommended immediate action to take appropriate measures.
 
 ◼️
 
 [Data](articles/07acab98.json)
+
+[Extended Data](ext_articles/07acab98.ext.json)
 
 ---
 
@@ -805,37 +833,47 @@ Tinker, who was arrested, handed over to a group of officers from the Peliyagoda
 
 ---
 
-### ‘ටින්කර්‘ ගුවන්තොටේදී අල්ලයි
+### Tincker arrested at airport
 
 *2025-10-01 09:14:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ටනකර-ගවනතටද-අලලය/101-680534) · `si`
 
-ඩුබායි හි සැගව සිටි සංවිධානාත්මක අපරාධකරුවෙකු වන ශ්‍රීදරන් නෙරංජන් නොහොත් ටින්කර් නැමැත්තා අද(01 )  ඩුබායි සිට මෙරටට පැමිණෙමින් සිටියදී කටුනායක ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Katunayake Airport Criminal Investigations (CID) officials have been arrested by Sri Lanka, Katunayake, who was hiding in Dubai.
 
-36 හැවිරිදි ටින්කර් කොළඹ 15 ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර ඔහු සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන පලනි ශිරාන් ග්ලෝරියන් නොහොත් කොච්චිකඩේ ශිරාන් නැමැත්තාගේ ප්‍රධානතම අනුගාමිකයෙකි .
+Tinker, a resident of Colombo 15, is a resident of Colombo 15 and is the main follower of an organized criminal and the drug dealer, Palanie Shiran, Kochchikade, Kochchikade.
 
-ටින්කර් අද  අලුයම 12.05 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 232 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර එහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+The tinker this morning at Dubai from Dubai to SriLankan Airlines on Dubai to Katunayake airport and was arrested by a group of criminal investigations.
 
-මොහු 2024.10.16 දින ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මහවත්ත සුසාන භූමිය අසළ දී ත්‍රීරෝද රථයක ගමන් ගත් පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීම සහ පෑලියගොඩ පොලිස් වසමේ 2025.08.19 දින සිදු කළ වෙඩි තැබීමක් සදහා යොදා ගත් ගිනි අවි සැපයීම සිදු කර එදිනම ඩුබායි බලා මෙරටින් පළා ගොස් තිබූ අතර මොහුට එරෙහිව ගුවන් ගමන් තහනමක් ද පනවා තිබුණි .
+He had fled the country on the Grandpass police Division of the Grandpass Susanna area on 16.04.2015 and had a flight ban against him.
 
-...
+Tinker, who was arrested, handed over to a group of officers from the Peliyagoda Police Station, which arrived at the Katunayake Airport and is to be produced before the Malconi Paradure No. 05.
+
+◼️
 
 [Data](articles/949566ff.json)
 
+[Extended Data](ext_articles/949566ff.ext.json)
+
 ---
 
-### මධ්‍යම පරිසර අධිකාරියත් “ගව්පේ”ට වහ වැටෙයි
+### Central Environmental Authority also shines to "goejo
 
 *2025-10-01 09:10:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මධයම-පරසර-අධකරයත-ගවපට-වහ-වටය/101-680533) · `si`
 
-මධ්‍යම පරිසර අධිකාරිය “ගව්පේ (GovPay) රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව” සමඟ එක්ව කටයුතු කිරීම ආරම්භ කර තිබේ.
+The Central Environmental Authority has commenced working with the Government Digital Payment Platform.
 
-ඒ අනුව මධ්‍යම පරිසර අධිකාරිය විසින් සපයනු ලබන විවිධ සේවාවන් සඳහා සියලු ගෙවීම් “GovPay" රාජ්‍ය ඩිජිටල් වේදිකාව” ඔස්සේ ගෙවීමට පහසුකම් සැනසෙනු ඇත.
+Accordingly, all payments will be comfortable to pay all payments through the "Government Digital Platform" for various services provided by the Central Environmental Authority.
 
-මධ්‍යම පරිසර අධිකාරිය මගින් සපයනු ලබන සේවාවලට අදාළ ක්ෂේත්‍ර වල පරීක්ෂණ ගාස්තු (Inspection Fees), බලපත්‍ර ගාස්තු (License Fees), ක්‍රියාත්මක කිරීමේ ගාස්තු (Processing Fees), අපනයනය සඳහා බාසල් එකඟතා ලබාදීමේ ගාස්තු (Basel Export Consent Fees), සහතික කිරීමේ ගාස්තු (Certificate Fees), පරිපාලන ගාස්තු (Administration Fees), ලියාපදිංචි ගාස්තු (Registration Fees), වාර්ෂික ගාස්තු (Annual Fees), රසායනාගාර ගාස්තු (Laboratory  Fees), අපද්‍රව්‍ය බැහැර කිරීමේ ගාස්තු (Waste Disposal Fees), ප්‍රසම්පාදන ගාස්තු (Procurement Fees), ජාතික පාරිසරික තොරතුරු මධ්‍යස්ථානයට අදාළ ගාස්තු (NEIC Payments) සහ විභාග ගාස්තු (Exam Fees) යන සේවා වර්ගවලට අයත් සියලු ගාස්තු “GovPay රාජ්‍ය ඩිජිටල් ගෙවීම් වේදිකාව”  ඔස්සේ ගෙවිය හැකි බව මධ්‍යම පරිසර අධිකාරිය කියයි.
+Inspection Fees (License Fees) for services provided by the Central Environmental Authority (License Fees), Certificate Fees, Administration Fee (Pvtness Fees) Fees, Annual Fees, Laboratory Fees, Procurement Fees (WASTE DISPOSAL FEES) and Exposition Fees for the National Environmental Information Center "GOVPA State Digital Payment Platform" The Central Environmental Authority (CEA) says it is possible to pay it.
+
+"GOVPA The Kingdom Digital Payment Platform allows you to pay these fees on six banks and Fryanc (Fintach applications).
+
+The Environmental Authority says that due to this methodology, the Clients and the Central Environmental Authority will enable the clients and the Central Environmental Authority.
 
 ...
 
 [Data](articles/bd6a4b95.json)
+
+[Extended Data](ext_articles/bd6a4b95.ext.json)
 
 ---
 
@@ -891,21 +929,23 @@ Thus, those who work outdoors are advised to wear light clothes, relax in shadow
 
 ---
 
-### කෝටි 10ක් වංචා කළ දෙන්නෙක් අල්ලයි
+### Two crores were arrested
 
 *2025-10-01 08:46:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කට-10ක-වච-කළ-දනනක-අලලය/101-680532) · `si`
 
 2024  "උරුමය"  වැඩසටහන යටතේ බව පවසා ඔප්පු නොමැති ඉඩම් සඳහා ස්ථීර ඔප්පු ලබාදෙන බව පොරොන්දු වී රුපියල් කෝටි 10 කට ආසන්න මුදලක් වංචා කර සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන් සැකකරුවකු සහ සැකකාරියක්  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලයය කියයි.
 
-සැකකරු  මෙම මුදල් වංචා කර ඇති සිරිකොත මූලස්ථානයට  සහ කොළඹ ප්‍රසිද්ධ හෝටලයකට කැඳවා බව පොලිසිය සඳහන් කරයි.
+The suspect is summoned to the Sirikotha headquarters and Colombo famous hotel.
 
-අත්අඩංගුවට ගත් 43 හැවිරිදි  සැකකාරිය බකමූණ ප්‍රදේශයේ පදිංචිකාරියක් වන අතර කිරිබත්ගොඩ ප්‍රදේශයේ තාවකාලිකව ලැඟුම්හලක පදිංචිව සිට ඇති අතර සැකකරු 55 හැවිරිදි  මහරගම පදිංචිකරුවෙකි.
+The 43-year-old suspect was a resident of Bakatuna.
 
-සැකකාරිය කල්මුණේ ප්‍රදේශයේ ව්‍යාපාරිකයන් 164 දෙනෙකුට උරුමය වැඩසටහන යටතේ ඔප්පු නොමැති ඉඩම් සඳහා ස්ථිර ඔප්පු ලබා දෙන බවට පවසා තමා නීතිඥවරියක් වශයෙන්ද ඔවුන් වෙත හඳුන්වමින් ව්‍යාපාරිකයන් රවටා එක් පුද්ගලයෙකුගෙන් රුපියල් ලක්ෂ හයක මුදලක් ලබාගෙන ඇති බවට සිදු කරන ලද මූලික විමර්ශනවලදී අනාවරණය වී ඇතැයි පොලිසිය කියයි.
+The suspect has revealed that 164 businessmen in Kalmunai were given to the inheritance program.
 
 ◼️
 
 [Data](articles/16205c94.json)
+
+[Extended Data](ext_articles/16205c94.ext.json)
 
 ---
 
@@ -949,21 +989,23 @@ Meanwhile, there will be showers at several places in the sea areas off the coas
 
 ---
 
-### අද කාලගණය
+### Today's the timeline
 
 *2025-10-01 08:38:30* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680531) · `si`
 
-බස්නාහිර ,සබරගමුව පළාත්වල ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල අද (01) වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department says that showers in the Western, Sabaragamuwa Provincial, Matara, Kandy, Kandy and Nuwara Eliya districts.
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද එම දෙපාර්තමේන්තුව කියයි.
+The Department says that there is mainly due to the rest of the island.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල උතුරු, උතුරු-මැද, වයඹ සහ මධ්‍යම පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+From the North, North-Central, North Western and Central provinces, in the North, North-Central, North Western and Central provinces.. The Meteorological Department further stated that there are stakes at 30-40 times.
 
-මේ අතර කොළඹ සිට ගාල්ල හරහා මාතර දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල  ස්ථාන ස්වල්පයක වැසි ඇති විය හැකිය. සුළං නිරිත දෙසින් හමා එන අතර සුළඟේ වේගය පැ.කි.මී. 30-40 පමණ බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+Meanwhile, there will be showers at several places in the sea areas off the coast extending from Colombo to Matara. Winds are blowing from southwests and the speed of the wind is running.. The Met Department forecasts about 30-40.
 
 ◼️
 
 [Data](articles/c64bb266.json)
+
+[Extended Data](ext_articles/c64bb266.ext.json)
 
 ---
 
@@ -1986,27 +2028,5 @@ The President, who has always expressed his views on the uniqueness of Buddhist 
 [Data](articles/8e5d3818.json)
 
 [Extended Data](ext_articles/8e5d3818.ext.json)
-
----
-
-### The price of three types of fuel down
-
-*2025-09-30 23:05:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-වර්ග-තුනක-මිල-පහළට/11-418827) · `si`
-
-According to the price formula, the Ceylon Petroleum Corporation has taken steps to amend three midnight fuel projects today (30).
-
-Accordingly, the price of a liter of Sri Lanka has been reduced by Rs. 277.
-
-The price of a liter of oil has been reduced by Rs. 335 per liter of petrol.
-
-The prices of the Lanka kerosene has also been reduced by Rs. 50.
-
-However, petrol octane 92 (Rs. 299) and Lanka Super Diesel prices (313) is unchanged, the Ceylon Petroleum Corporation announced.
-
-◼️
-
-[Data](articles/8de56917.json)
-
-[Extended Data](ext_articles/8de56917.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 16:54:51**
+As of **2025-10-01 16:37:58**
 
 ## Newspaper Stats
 
-*Scraped **80,232** Articles*
+*Scraped **80,224** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 534
-lankadeepalk | 586
+lankadeepalk | 580
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -19,7 +19,7 @@ islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,717
 adaderanalk | 10,337
-tamilmirrorlk | 11,977
+tamilmirrorlk | 11,975
 virakesarilk | 13,108
 adaderanasinhalalk | 13,852
 
@@ -27,67 +27,11 @@ adaderanasinhalalk | 13,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,224 (100.0%) of 80,232 articles have been extended.
+80,224 (100.0%) of 80,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
-
-### உயிரை மாய்த்த   இராணுவ வீரர்
-
-*2025-10-01 16:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உயிரை-மாய்த்த-இராணுவ-வீரர்/76-365589) · `ta`
-
-மொனராகலை, படல்கும்புரை பொலிஸ் பிரிவுக்குட்பட்ட மீகஹமட பகுதியில் இராணுவ வீரர் ஒருவர் தன்னுயிரை மாய்த்துக் கொண்ட சம்பவம் செவ்வாய்க்கிழமை (30) அன்று இடம்பெற்றுள்ளது.
-
-படல்கும்புரை, மீகஹமட பகுதியைச் சேர்ந்த 30 வயதுடைய பிரதீப் சதுரங்க என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-குறித்த நபருக்கு, வாங்கிய கடனை திருப்பிச் செலுத்துமாறு  ஒருவர் அடிக்கடி தொலைபேசி அழைப்புகளை விடுத்த நிலையில் கடனை திருப்பிச் செலுத்த முடியாததால் மன உளைச்சல் ஏற்பட்டு இவ்வாறு உயிரை மாய்த்துக் கொண்டுள்ளதாகத் தெரியவந்துள்ளது.
-
-வெள்ளிக்கிழமை 26 ஆம் திகதி விடுமுறைக்கு வீட்டுக்கு வந்த அவர், தான் வேலை செய்யும் இராணுவ முகாமுக்குச் செல்வதாகக் கூறிவிட்டு, வீட்டில் இருந்து வெளியேறியுள்ளதுடன் முகாமுக்குச் செல்லாததால் அவரை தேடிய போது வீட்டுத்தோட்டத்தில் உள்ள மரமொன்றில் இருந்து உயிரை மாய்த்துக் கொண்ட நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
-
-இந்த சம்பவம் குறித்து படல்கும்புரை பொலிஸ் அதிகாரி சிந்தக விக்ரமரத்ன விசாரணைகளை மேற்கொண்டு வருகிறார்.
-
-◼️
-
-[Data](articles/ebb39989.json)
-
----
-
-### சிறுவர்  தினத்தன்று  ஆசிரியரை தாக்கிய மாணவன்
-
-*2025-10-01 16:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தினத்தன்று-ஆசிரியரை-தாக்கிய-மாணவன்/76-365588) · `ta`
-
-சர்வதேச சிறுவர்  தினத்தன்று (புதன்கிழமை 01) மொனராகலையில் உள்ள பாடசாலையொன்றின் 11ஆம் வகுப்பில் கல்வி கற்கும் மாணவனின் தாக்குதலுக்குள்ளாகிய ஆசிரியர் ஒருவர் வைத்தியசாலையில்  அனுமதிக்கப்பட்டுள்ளார்.
-
-சிறுவர் தினத்தையொட்டி, பாடசாலையில் ஒரு கொண்டாட்ட நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்த நிலையில், அதில் பங்கேற்பதற்காக மாணவர்களைப் பிரதான  மண்டபத்திற்கு அனுப்பத் தயாராகும்போது, குறித்த மாணவன்  தனது பாக்கெட்டில் மொபைல் போன்களை சார்ஜ் செய்யும் பவர் பேங்கை எடுத்துச் செல்வதை அவதானித்த ஆசிரியர்  அதை எடுத்து மொபைல்போன் எங்கே என்று விசாரித்துள்ளார்.
-
-இதன்போது,  மாணவன் ஆசிரியரைத் தகாத வார்த்தைகளால் திட்டியுள்ளதுடன், குறித்த மாணவன் கல்வி கற்கும் பிரிவுக்குப் பொறுப்பான ஆசிரியரிடம் அழைத்துச் செல்ல முயன்றபோது, ​​மாணவன்  ஆசிரியரின் கன்னத்தில் அறைந்து, பாடசாலையை விட்டுத் தப்பியோடியுள்ளார்.
-
-பின்னர் ஆசிரியர் இந்த சம்பவம் குறித்து அதிபருக்குத் தகவல் அளித்த பின்னர், சிகிச்சைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/b190a293.json)
-
----
-
-### මේඛලා සදරේනු සවුත්වේල්ස්හි නීතිඥවරියක ලෙස දිව්රුම් දෙයි
-
-*2025-10-01 16:24:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මඛල-සදරන-සවතවලසහ-නතඥවරයක-ලස-දවරම-දය/1-680580) · `si`
-
-ශ්‍රේෂ්ඨාධිකරණ නීතිඥ අසුරුමුනි ආරච්චිගේ මේඛලා සදරේනු මහත්මිය  ඕස්ට්‍රේලියාවේ  නිව් සවුත්වේල්ස් ශ්‍රේෂ්ඨාධිකරණ නීතිඥවරියක (සොලිසිටර්වරියක) ලෙස නිව් සවුත් වේල්ස් ශ්‍රේෂ්ඨාධිකරණ අග විනිසුරුවරයා ඉදිරියේ පසුගියදා දිව්රුම් දුන්නාය.
-
-කොළඹ මියුසියස්  විද්‍යාලයේ  අධ්‍යාපනය හැදෑරූ මේඛලා සදරේනු ඕස්ට්‍රේලියාවේ ඇඩිලේඩ් නගරයේ කොලනල් ලයිට්  පසලේ අධ්‍යාපනය හදාරා ඇති අතර ලන්ඩන් විශ්ව විද්‍යාලයේ   නීති උපාධිය  සමත් වීමෙන් පසුව   ශ්‍රී ලංකා නීතී විද්‍යාලයට ඇතුලු විය.  නීති විද්‍යාල  විභාග සමත් වීමෙන් අනතුරුව සිය ආධුනික කාලය  නීතිපති දෙපාර්තමේන්තුවේ අතිරේක  සොලිසිටර් ජනරාල් දිල්රුක්ෂි මහත්මිය යටතේ කටයුතු කරමින් නිම කළාය .
-
-අනතුරුව  ඕස්ට්‍රේලියාවේ university of western sydney විශ්ව විද්‍යාලයෙන් නීතිය පිළිබඳ ශාස්ත්‍ර පති විභාගය  සමත්ව සොලිසිටර් වරියක ලෙස දිවුරුම් දුන්නාය.
-
-මේඛලා සදරේනු  මුදල් අමාත්‍යාංශයේ ජාතික ක්‍රම සම්පාදන දෙපාර්තමේන්තුවේ හිටපු අතිරේක අධ්‍යක්‍ෂ ඡනරාල් සේපාලි රූපසිංහ මහත්මියගේ හා නීතිඥ  ඒ.ඒ. තිලකරත්න මහතාගේ දියණිය වේ.
-
-◼️
-
-[Data](articles/3b5155ae.json)
-
----
 
 ### The verdict of polythene
 
@@ -124,24 +68,6 @@ The Ministry of Environment has announced in the Supreme Court on Wednesday (01)
 [Data](articles/96faea3f.json)
 
 [Extended Data](ext_articles/96faea3f.ext.json)
-
----
-
-### පාසල් සිසු වලියෙන් ළමා දිනයත් හබක්
-
-*2025-10-01 15:36:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පසල-සස-වලයන-ළම-දනයත-හබක/1-680578) · `si`
-
-කන්තලේ ජාතික පාසලක සිසුන් දෙපිරිසක් අතර ගැටුමකින් සිසුන් තිදෙනකු තුවාල ලැබූ අතර ඉන් එක් සිසුවෙකුගේ තත්ත්වය බරපතල බැවින් ශල්‍ය කර්මයකට භාජනය කිරීමත් සමග අද (01) එම විද්‍යාලයේ පැවැත්වීමට තිබූ ලෝක ළමා දින වැඩ සටහන්වලට සිසුන් බහුතරයක් සහභාගී නොවී පාසල් පැමිණීමෙන් වැලකී සිටි බව විදුහල් ආරංචි මාර්ග කියයි.
-
-තුවාල ලැබූ සිසුන් තිදෙනා කන්තලේ මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු යකඩ පොලු පහරකින් හිසට බරපතල හානි සිදුවූ සිසුවා ත්‍රිකුණාමලය මහා රෝහලට ඇතුළත් කිරීමෙන් පසු හිසේ සිදුවු අභ්‍යන්තර රුධිර වහනය වැළැක්වීම සඳහා ශල්‍ය කර්මයකට භාජනය කිරීම සදහා සිසුවා කඩිනමින් මඩකලපුව ශික්ෂණ රෝහලට මාරු කර යැවූ බව රෝහල් බලධාරීන් පැවසූහ .
-
-සිද්ධිය සම්බන්ධයෙන් 119 හදිසි දුරකථන අංකයට ලද ඇමතුමක් අනුව වහා ක්‍රියාත්මක වූ කන්තලේ මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක ආර්.ඩබ්.එල්. ලක්මාල් විජේරත්න මහතා ඇතුළු පොලිස් කණ්ඩායමක් විදුහලට ගොස් පරීක්ෂණ ආරම්භ කළහ.
-
-ගැටුම සිදුවූ ගොඩනැගිල්ලේ ඉහළ මහලයේ ලේ පැල්ලම් ගැටුමට භාවිතා කළ දෑ පිළිබඳ අපරාධ පරීක්ෂණාගාර නිලධාරීන් පැමිණ පරීක්ෂණ ආරම්භ කළහ.
-
-◼️
-
-[Data](articles/33b1bbed.json)
 
 ---
 
@@ -231,20 +157,6 @@ The price of a 12.5 cylinder of Laugfs, the price of 4,100 cylinder and the pric
 
 ---
 
-### ලාෆ් ගෑස් මිල වෙනස් නොවේ
-
-*2025-10-01 15:25:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලෆ-ගස-මල-වනස-නව/1-680577) · `si`
-
-ලාෆ් ගෘහස්ථ ගෑස් මිල මෙම මස (ඔක්තෝම්බර්) සංශෝධනය නොවන බව ලාෆ් සමාගමේ අධ්‍යක්ෂ ආචාර්ය නිරෝෂන් ජේ. පීරිස් මහතා පැවසීය.
-
-ලාෆ් කිලෝග්‍රැම් 12.5 සිලින්ඩරයක මිල 4,100  ක සහ කිලෝග්‍රැම් 5 ගැස් ලින්ඩරයක මිල රුපියල් 1,645 ඔක්තෝම්බර් මස තුළ ද පවතින බව ද පීරිස් මහතා වැඩි දුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/77d3b651.json)
-
----
-
 ### The fireball struggle in Jaffna
 
 *2025-10-01 15:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-தீப்பந்தப்-போராட்டம்/175-365585) · `ta`
@@ -298,22 +210,6 @@ According to the Ministry of Environment, the petition filed the PC's mosquito, 
 [Data](articles/d7721f70.json)
 
 [Extended Data](ext_articles/d7721f70.ext.json)
-
----
-
-### සිලි සිලි බෑග් භාවිතය මන්දෝසායි කරන්න බද්දක්
-
-*2025-10-01 15:04:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සල-සල-බග-භවතය-මනදසය-කරනන-බදදක/1-680576) · `si`
-
-සිලිසිලි බෑග් සඳහා නොවැම්බර් පළවැනිදා සිට මුදලක් අයකර ගැනීම සඳහා ගැසට් නිවේදනයක් නිකුත් කරන බව පරිසර අමාත්‍යාංශය ශ්‍රේෂ්ඨාධිකරණයට අද දැනුම් දුන්නේය.
-
-පොලිතීන් සහ සිලීසිලි බෑග් භාවිතය හේතුවෙන් සිදුවන පරිසර දූෂණය අවම කර ගැනීම සඳහා පොලිතීන් සහ සිලීසිලි බෑග් භාවිතයට ජනතාව මන්දෝත්සාහි කිරීම සඳහා බද්දක් පනවන්නැයි ඉල්ලා පරිසර යුක්ති කේන්ද්‍රය ගොනුකර තිබු මූලික ඇතිවාසිකම් පෙත්සමක් කැඳවු අවස්ථාවේදී පරිසර අමාත්‍යාංශය වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් ආචාර්ය අවන්ති පෙරේරා මහත්මිය එසේ දැනුම් දුන්නාය.
-
-අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන” ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන කුමුදුනි වික්‍රමසිංහ සහ සම්පත් අබේකෝන් යන මහත්ම මහත්මීන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම සලකා බැලිණි.
-
-...
-
-[Data](articles/d7c80cd9.json)
 
 ---
 
@@ -486,26 +382,6 @@ Four of them have been treated in the Outdone Division and five are staying and 
 [Data](articles/af57027c.json)
 
 [Extended Data](ext_articles/af57027c.ext.json)
-
----
-
-### පොලිස් අණට අවනත නොවූ වෑන් රියට වෙඩි
-
-*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලස-අණට-අවනත-නවවන-රයට-වඩ/1-680573) · `si`
-
-අවස්ථා තුනක දී පොලිස් නියොග නෙතකා නොනවත්වා ධාවනය කළ වැන් රථයක් ලුහුබැද ගිය පොලිසිය වෙඩි තබා නතර කරගැනීමෙන් පසු එහි ගමන්ගත් තිදෙනෙකු අද  අලුයම අත්අඩංගුවට ගෙන ඇතැයි නිට්ටඹුව පොලිසිය කියයි.
-
-නිට්ටඹුව පොලිස් වසමේ ගම්පහ කොට්ඨාශ සංක්‍රාමික පොලිස් යතුරු පැදි ඒකකයේ පොලිස්පරීක්ෂක නලින් මහතා ඇතුලු නිලධරින් වේයන්ගොඩ - නිට්ටඹුව මාර්ගයේ උදම්විට හන්දියේ නිළධාරින් හය දෙනකු සමග මාර්ග බාධක රාජකාරියේ යෙදි සිටියදි සැකකටයුතු ලෙස වේයන්ගොඩ දෙස සිට නිට්ටඹුව දෙසට වෑන් රථයක් ගමන් කර ඇත.
-
-මෙම වෑන් රථය නැවැත්වීමට පොලිස් නිළදාරින්  සංඥා කළද ඇතත් එම වෑන් රථය නොනවත්වා ධාවනය කර ඇතැයි පොලිසිය කියයි.
-
-යතුරු පැදි ඒකකයේ නිළධාරින් වෑන් රථය පිටුපස හබා ගොස් අවස්ථා තුනකදි වාහනය නැවැත්විමට උත්සහ කර ඇති අතර නිට්ටඹුව නගරයේ දි රතු ආලෝක සංඥ වැටි තිබියදි වෑන් රථය වතුපිටිවල දෙසට ධාවනය කර තිබේ .
-
-මෙම හේතුවෙන් පොලිස් නිළධාරින් වෑන් රථයේ ඉදිරිපස දකුණු ටයරයට හා පිටුපස දකුණු ටයරයට වෙඩි ප්‍රහාර තුනක් එල්ල කර වාහනය නවත්වා ඇතැයි පොලිසිය කියයි.
-
-...
-
-[Data](articles/5d9014ad.json)
 
 ---
 
@@ -878,24 +754,6 @@ Police say that the suspect was interrogated in the organized crime and the drug
 [Data](articles/4765919c.json)
 
 [Extended Data](ext_articles/4765919c.ext.json)
-
----
-
-### කෝටි 20ක මත් ද්‍රව්‍ය සමඟ අයෙක් අතඅඩංගුවට
-
-*2025-10-01 13:43:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කට-20ක-මත-දරවය-සමඟ-අයක-අතඅඩගවට/1-680568) · `si`
-
-රුපියල් කෝටි 20 කට ආසන්න වටිනා හෑෂ් මත්ද්‍රව්‍ය , මත්පෙති සමඟ පුද්ගලයකු අත්අඩංගුවට ගත් බව කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය කියයි.
-
-එම සැකකරු සන්තකයේ තිබී හෑෂ් මත්ද්‍රව්‍ය කිලෝ 33 ගෑම් 270 ක්, හොරයින් මත්කුඩු ගෑම් 408 ක් හා මත් පෙති 200 ක් මෙන්ම චරස් කැබලි 7400 ක් පොලිස් භාරයට ගෙන ඇත.
-
-කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් මට්ටක්කුලිය සිරිවර්ධන පාර ප්‍රදේශයේ නිවසක් වටලා මෙම සැකකරු අත් මත්ද්‍රව්‍ය සමග අත්අඩංගවටන ඇත.
-
-සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී එම ප්‍රදේශයේ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ හා මත්ද්‍රව්‍ය ජාවාරම් කරුගේ ජාලයට අයත් බවට අනාවරණය වූ බව පොලිසිය කියයි. අත්අඩංගුවට ගත් සැකකරු මට්ටක්කුලිය සමිත් පුර ප්‍රදේශයේපදිංචි 38 හැවිරිදි  පුද්ගලයෙකි.
-
-◼️
-
-[Data](articles/a3e6d492.json)
 
 ---
 
@@ -1950,5 +1808,187 @@ The Assistant Director General said that some of the documents that the defendan
 [Data](articles/297e5fba.json)
 
 [Extended Data](ext_articles/297e5fba.ext.json)
+
+---
+
+### 16 -year -old girl rage
+
+*2025-10-01 10:48:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-வயது-சிறுமி-வன்புணர்வு-பொலிஸ்-முன்னாள்-அதிகாரிக்கு-கடூழிய-சிறை/175-365571) · `ta`
+
+Homagama High Court Judge Nawaratne Marasinghe has sentenced a former Borella police officer accused of sexually abusing a girl under the age of 16.
+
+On September 13, 2009, the chargesheet reported that the accused was involved in severe sexual abuse, using a part of her body to touch the girl's private parts, and thereby committed punishable offense under sections of the Penal Code.
+
+The judge, who issued the verdict, noted that the allegations against the accused had been undoubtedly proved.
+
+State Prosecutor Shiny Weerasuriya, who appeared on behalf of the Attorney General, was a police officer entrusted with the law to uphold the law and brought him to the court's notice that he had severely abused his official position against a child.
+
+The court accepted the police department's behavior in violation of his confidence and that it would severely violate the expected social justice from the law enforcement authorities.
+
+...
+
+[Data](articles/557c5917.json)
+
+[Extended Data](ext_articles/557c5917.ext.json)
+
+---
+
+### IDEAHUB Donation Deposits to Teacher Training Colleges
+
+*2025-10-01 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226550) · `ta`
+
+Huawei Sri Lanka's donated to the Ideahub Teacher Training Colleges, which was donated by Huawei Sri Lanka, was held at the Presidential Secretariat on Tuesday (30) at the Presidential Secretariat headed by President Dr. Nandika Sanath Kumanayake.
+
+The IDEAHUB program has been launched by the Technology Unit of Huawei Sri Lanka and the program will continue to be implemented in the future.
+
+President's Senior Additional Secretary Roshan Kamage, Huawei Sri Lanka Chief Managing Officer Zhang Jinze. Paranagama, Deputy Director (Education) N.. L. C. B.. Along with Indika, Huawei Sri Lanka's senior officials, teacher training colleges, and many others participated in the event.
+
+◼️
+
+[Data](articles/3246c6fe.json)
+
+[Extended Data](ext_articles/3246c6fe.ext.json)
+
+---
+
+### President Anurakumara returns from Japan
+
+*2025-10-01 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226551) · `ta`
+
+President Anura Kumara Dissanayake, who was on an official visit to Japan at the invitation of the Japanese government, returned to the country on Wednesday morning.
+
+President Anura Kumara Dissanayake has traveled from Japan to Bangkok, Thailand and then arrived at the Katunayake airport at 09.30 am today.
+
+President Anura Kumara Dissanayake, Foreign Affairs Minister Vijitha Herath and several officials visited the United States last week to attend the 80th General Assembly session of the United Nations in New York City.
+
+President Anura Kumara Dissanayake, Foreign Affairs Minister Vijitha Herath and officials made an official visit to Japan after attending the United Nations General Assembly session.
+
+◼️
+
+[Data](articles/3b71d628.json)
+
+[Extended Data](ext_articles/3b71d628.ext.json)
+
+---
+
+### Sisu Rescue in abandoned: Mother and father arrested
+
+*2025-10-01 10:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவிடப்பட்ட-நிலையில்-சிசு-மீட்பு-தாய்-தந்தை-கைது/175-365569) · `ta`
+
+Akkaraipattu police have arrested the parents of the infant who was rescued.
+
+A few days after birth in Oluvil area in Ampara district, a female infant was rescued last Sunday (28).
+
+The Akkaraipattu police, who were conducting investigations, arrested the father of the child from Oluvil and the mother of Nintavur area on Tuesday.
+
+Police said that both the mother and the father who fell in love with the 17 -year -old and that they were not married.
+
+Also, the woman's father's relatives of the child were opposed to love last Sunday (28).
+
+Initial investigations have revealed that the father of the child, who knew the matter, had gone to the girlfriend's house and got her child.
+
+The child's father then telephoned a relative and found a baby girl abandoned in the Oluvil area. You don't have a baby girl. So he asked if he could raise this child. He has agreed to the relative.
+
+...
+
+[Data](articles/de3868a7.json)
+
+[Extended Data](ext_articles/de3868a7.ext.json)
+
+---
+
+### Police Sergeant Nabbed for Drug Distribution
+
+*2025-10-01 10:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-sergeant-nabbed-for-drug-distribution) · `en`
+
+COLOMBO (News 1st); A police sergeant has been arrested for allegedly distributing narcotics on behalf of a Dubai-based drug trafficker known as Russell Smith, police confirmed.
+
+The arrest was made by officers from the Western Province North Crimes Division.
+
+The suspect, currently attached to the Udappuwa Police, was taken into custody with 400 grams of heroin in his possession.
+
+Investigations have revealed that the officer had previously served for nearly five years with the Colombo Crimes Division.
+
+Acting on information obtained from the suspect, police also arrested another individual identified as Chathu, a resident of Peliyagoda, with 110 grams of heroin.
+
+◼️
+
+[Data](articles/ce2e75db.json)
+
+[Extended Data](ext_articles/ce2e75db.ext.json)
+
+---
+
+### Four Luxury SUVs Seized in Customs Evasion Probe
+
+*2025-10-01 10:27:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/four-luxury-suvs-seized-in-customs-evasion-probe) · `en`
+
+COLOMBO (News 1st); Sri Lanka Police have uncovered four SUVs that were illegally imported into the country by concealing information from Customs, according to the Central Crimes Investigations Bureau.
+
+The discovery was made under the supervision of Senior Superintendent of Police Kamal Ariyawansa, Director of the CCIB.
+
+One vehicle was recovered from Kuliyapitiya, another from Melsiripura, while two more were found in Piliyandala and Akmeemana.
+
+Investigations have revealed that the vehicles were registered using details of vehicles imported in 1995, enabling the perpetrators to bypass Customs regulations.
+
+Police further stated that the fraud was carried out with the assistance of several officials from the Department of Motor Traffic.
+
+Authorities have launched a probe to identify and apprehend those involved in the racket.
+
+◼️
+
+[Data](articles/951d8455.json)
+
+[Extended Data](ext_articles/951d8455.ext.json)
+
+---
+
+### Two young people die in accident
+
+*2025-10-01 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226545) · `ta`
+
+Two youths were killed in an accident in the Kattuvarakolva area of ​​Horawapothana - Kapukolava road in Anuradhapura.
+
+The accident occurred when a scooter motorcycle traveling from Kapukolavai to Horawapothana collided with a bus traveling in the opposite direction.
+
+The victims of the accident were 20 and 21 -year -olds from Horawapothana, Kattuvarakollawa and Nelugolawa areas.
+
+The bus driver has been arrested in connection with the accident and further investigations into the accident are being carried out by Horawapothana police.
+
+◼️
+
+[Data](articles/9650a14e.json)
+
+[Extended Data](ext_articles/9650a14e.ext.json)
+
+---
+
+### Police fell off the police
+
+*2025-10-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215213) · `si`
+
+At the Nittambuwa, pursued a van without orders and shooting the police.
+
+The shooting took place around 1.15 am today (01), three persons who were traveling in the van were later arrested by the police.
+
+A police inspector of the Gampaha Division Police Motorcycle Unit was on duty on the road to Udanda Junction on the road to the road.
+
+A van traveled from Veyangoda to Nittambuwa.
+
+The officers of the Police Motorcycle Unit had trailed the van to the van to stop the van in the signing of the van to stop the van.
+
+Three persons in the van have been arrested in the accident, and they have been excessively drunk.
+
+The driver is a resident of Lellopitiya and the rest of the people are residents of Ratnapura.
+
+The suspects have been brought to the Judicial Medical Officer to check the injured and the suspects are to be produced before the Attanagalla Magistrate's Court.
+
+Today, Ada Derana also received a CCTV display of the driver of the van.
+
+◼️
+
+[Data](articles/a092ab36.json)
+
+[Extended Data](ext_articles/a092ab36.ext.json)
 
 ---

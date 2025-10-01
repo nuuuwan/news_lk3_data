@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 20:38:38**
+As of **2025-10-01 21:22:16**
 
 ## Newspaper Stats
 
-*Scraped **80,329** Articles*
+*Scraped **80,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,57 @@ dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,723
+adalk | 7,724
 adaderanalk | 10,340
-tamilmirrorlk | 11,985
+tamilmirrorlk | 11,986
 virakesarilk | 13,137
-adaderanasinhalalk | 13,858
+adaderanasinhalalk | 13,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,329 (100.0%) of 80,329 articles have been extended.
+80,332 (100.0%) of 80,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### The gazette notification that wears seat belts for all vehicles on the expressway
+
+*2025-10-01 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215233) · `si`
+
+The gazette notification included in the wearing the drivers of vehicles and seatbelt for all passengers on the expressway.
+
+The gazette was issued by Transport, Highways, Ports and Civil Aviation.
+
+◼️
+
+[Data](articles/b8345894.json)
+
+[Extended Data](ext_articles/b8345894.ext.json)
+
+---
+
+### 45 school students admitted to hospital
+
+*2025-10-01 20:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்கள்-45-பேர்-வைத்தியசாலையில்-அனுமதி/175-365600) · `ta`
+
+About 45 students have been admitted to the hospital in the Polonnaruwa - Hingurakoda, Pakamuna Education area.
+
+The situation is said to have been caused by food allergies provided at the school on the occasion of World Children's Day.
+
+The affected students are staying at the regional hospital and are being treated and some have returned home after treatment.
+
+Most of them have been provided with this meal with about 230 students studying in the school.
+
+◼️
+
+[Data](articles/4bb5c1ad.json)
+
+[Extended Data](ext_articles/4bb5c1ad.ext.json)
+
+---
 
 ### Namal answers to the Thajayan story
 
@@ -48,6 +84,24 @@ Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures t
 [Data](articles/81ff093e.json)
 
 [Extended Data](ext_articles/81ff093e.ext.json)
+
+---
+
+### කජ්ජාගේ පුත්‍රයාගෙන් ආන්දෝලනාත්මක අනාවරණයක්
+
+*2025-10-01 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215231) · `si`
+
+රගර් ක්‍රීඩක වසීම් තජුඩීන් මියගොස් සිටි රථයට පිටුපසින් ගමන්ගත් සැකකටයුතු රථයක අරුණ විදානගමගේ හෙවත් කජ්ජා සිට ඇතැයි ඔහුගේ බිරිඳ කළ අනාවරණය සම්බන්ධයෙන් කජ්ජාගේ වැඩිමහල් පුත්‍රයා අද (01) සමාජ මාධ්‍ය හා විද්‍යුත් මාධ්‍ය හමුවේ ප්‍රකාශයක් සිදුකළේය.
+
+විමර්ශනයට අදාළ CCTV දර්ශන කජ්ජාගේ සහෝදර සහෝදරියන්ට පෙන්වා එහි සිටින්නේ ඔවුන්ගේ සහෝදරයාදැයි විමසීමට කටයුතු නොකරන්නේ ඇයිදැයි ඔහු පොලීසියෙන් විමසා සිටියි.
+
+2012 වසරේ රගර් ක්‍රීඩක වසීම් තජුඩීන් මියගොස් සිටි රථයට පිටුපසින් ගමන්ගත් සැකකටයුතු රථයක ,පසුගියදා මිද්දෙණියේදී ඝාතනයට ලක්වූ අරුණ විදානගමගේ හෙවත් කජ්ජා සිට ඇතැයි ඔහුගේ බිරිඳ අනාවරණ කළ බව වැඩබලන පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී මිනුර සෙනරත් මහතා ඊයේ (30) අනාවරණ කළේය.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් අරුණ විදානගමගේ හෙවත් කජ්ජාගේ වැඩිමහල් පුත්‍රයා වන ඉඳුවර විදානගමගේ සිය ෆේස්බුක් ගිණුමේ සටහනක් ද තබා තිබුණි.
+
+...
+
+[Data](articles/d018b6bb.json)
 
 ---
 
@@ -1833,6 +1887,22 @@ The Child Protection Authority is also the Welimiliarian reporting of a child ab
 
 ---
 
+### Welimada tubers to take satures
+
+*2025-10-01 15:13:28* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-අල-සතොසට-ගන්න-යයි/11-418848) · `si`
+
+"Yesterday we discussed, we discussed the Kalapa Junction to the farmer. The Minister of Wasantha Samarasinghe Trade this morning called me and told me that the Seed of Potatoes would buy 600,000 kilos of potatoes.
+
+I said somewhere to find out. One kilo of potatoes at the Elder Keptapotipola is sold at Rs. 160 for 170 rupees. The farmer cannot be kept. 1 kg of potatoes and cost more than that cost more. "Minister Samantha Vidyaratne, Minister of Plantation and Community Infrastructure, Samantha Vidynayake said,
+
+...
+
+[Data](articles/ad4cb8c3.json)
+
+[Extended Data](ext_articles/ad4cb8c3.ext.json)
+
+---
+
 ### 3 students killed in school building in Indonesia
 
 *2025-10-01 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226594) · `ta`
@@ -1942,79 +2012,5 @@ The people of the area claimed that the tucked tanks were marked and acquired by
 [Data](articles/abbece4b.json)
 
 [Extended Data](ext_articles/abbece4b.ext.json)
-
----
-
-### Stagnant US state administration: Hundreds of thousands of people are affected!
-
-*2025-10-01 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226589) · `ta`
-
-The Republican Party led by Donald Trump in the United States. In this case, the Trump -led government brought a new bill in parliament. It has been stated that the new projects should be funded by the new projects, excluding old projects. The Bill has been opposed by the Democratic Party in the US parliament.
-
-Eight Democratic Party has to vote in support of the Trump -led ruling party to pass this bill. However, the Democratic leadership has imposed certain conditions. In this, they have urged the extension of medical insurance offers on Trump's health projects. However, due to Trump's refusal to accept this, the new bill he brought has been blocked.
-
-55 per cent votes in favor of the bill and 45 per cent votes. The bill requires 60 percent of the votes to be passed.
-
-...
-
-[Data](articles/3e5a4a50.json)
-
-[Extended Data](ext_articles/3e5a4a50.ext.json)
-
----
-
-### Here is the decision about the litro gas price
-
-*2025-10-01 14:49:47* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අද-ගත්ත-තීරණය-මෙන්න/11-418846) · `si`
-
-No revision of Litro gas prices will be issued on October for October.
-
-Accordingly, the price of a 12.5kg domestic gas cylinder is Rs.. 3,690, a 5kg of gas cylinder is Rs.. 1,482, the price is sold at the same price unchanged.
-
-◼️
-
-[Data](articles/3cc2f8b0.json)
-
-[Extended Data](ext_articles/3cc2f8b0.ext.json)
-
----
-
-### Sri Lanka sells Rs43bn treasury bills, yields down on short term
-
-*2025-10-01 14:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs43bn-treasury-bills-yields-down-on-short-term-242471/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 43 billion rupees of Treasury bills, with yields down on the 3-month and flat across the 6- and 12-month bills, data from the state debt office showed.
-
-The 3-month yield was down 4 basis points at 7.53 percent, with 8 billion rupees of bills offered and 5 billion sold.
-
-The 6-month yield was unchanged at 7.89 percent, with 25 billion rupees offered and 35.93 billion sold.
-
-The 12-month yield was unchanged at 8.02 percent with 10 billion rupees offered and 2.06 billion rupees bills sold.
-
-The 3-month and 12-month bills are available on tap at the weighted average yield.
-
-◼️
-
-[Data](articles/db6dd2d2.json)
-
-[Extended Data](ext_articles/db6dd2d2.ext.json)
-
----
-
-### Notice of October Gas Price
-
-*2025-10-01 14:45:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-மாத-எரிவாயு-விலை-குறித்த-அறிவிப்பு/175-365584) · `ta`
-
-Litro Gas Lanka Limited said there would be no change in the price of LP gas for October.
-
-Meanwhile, Lafs gas PLC has announced that there will be no correction at the price of its domestic LP gas cylinders for the month of October.
-
-This decision was made by Lafs Gas PLC, Cluster CEO Niroshan J. Peiris announced today.
-
-◼️
-
-[Data](articles/a093e48b.json)
-
-[Extended Data](ext_articles/a093e48b.ext.json)
 
 ---

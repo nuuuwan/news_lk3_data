@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 13:07:29**
+As of **2025-10-01 12:55:52**
 
 ## Newspaper Stats
 
-*Scraped **80,146** Articles*
+*Scraped **80,139** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 529
-lankadeepalk | 564
+lankadeepalk | 561
 dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
@@ -18,7 +18,7 @@ economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,708
-adaderanalk | 10,328
+adaderanalk | 10,324
 tamilmirrorlk | 11,967
 virakesarilk | 13,085
 adaderanasinhalalk | 13,847
@@ -27,37 +27,11 @@ adaderanasinhalalk | 13,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,133 (100.0%) of 80,146 articles have been extended.
+80,133 (100.0%) of 80,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
-
-### පිළිකා රෝගයෙන් පීඩා විඳින  දරුවන්ට  නොමිලේ  සුවය  බෙදන සුව අරණ
-
-*2025-10-01 12:46:16* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/පිළිකා-රෝගයෙන්-පීඩා-විඳින--දරුවන්ට--නොමිලේ--සුවය--බෙදන-සුව-අරණ/12-680566) · `si`
-
-◼️
-
-[Data](articles/55c6bbaa.json)
-
----
-
-### ජනගහන අරමුදලෙන් වෛද්‍ය උපකරණ
-
-*2025-10-01 12:36:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනගහන-අරමදලන-වදය-උපකරණ/101-680563) · `si`
-
-එක්සත් ජාතීන්ගේ ජනගහන අරමුදලේ (UNFPA) ශ්‍රී ලංකාවේ සහ මාලදිවයිනේ දේශීය කාර්යාල බාර නිලධාරී  ෆුන්ට්ෂෝ වැන්ග්යෙල් (Phuntsho Wangyel) සහ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහත්වරුන් අතර හමුවක් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ දී සිදු විය.
-
-මෙරට සෞඛ්‍ය සේවා පද්ධතියේ වත්මන් ක්‍රියාකාරීත්වය සහ ඉදිරි සැළසුම් සහ අභියෝගයන් පිළිබඳව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස සහ ෆුන්ට්ෂෝ වැන්ග්යෙල් මහත්වරුන් අතර අදහස් හුවමාරු විය.
-
-එහිදී මෙරට ළමා හා මාතෘ සෞඛ්‍ය ප්‍රවර්ධනය සහාය දැක්වීම මෙන්ම එම සේවා සඳහා අවශ්‍ය වෛද්‍ය උපකරණ ලබාදීම, මෙරට ජාතික සෞඛ්‍ය ප්‍රතිපත්තිය සාර්ථකත්වයට පත් කිරීම උදෙසා දැනුම හා අත්දැකීම් හුවමාරු කර ගැනීම මෙන්ම ලිංගික අධ්‍යාපනය සඳහා වන වැඩපිළිවෙල ශක්තිමත් කිරීම හා දැනුම හුවමාරු කර ගැනීම පිළිබඳව ද  සාකච්ඡා සිදු විය.
-
-◼️
-
-[Data](articles/f170497b.json)
-
----
 
 ### සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම ගැන නිවේදනයක්
 
@@ -92,22 +66,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c62048ae.json)
-
----
-
-### President Dissanayake returns after concluding official visit to Japan
-
-*2025-10-01 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113100/president-dissanayake-returns-after-concluding-official-visit-to-japan) · `en`
-
-President Anura Kumara Dissanayake returned to Sri Lanka this morning (01) after successfully completing a three-day official visit to Japan, undertaken at the invitation of the Japanese Government.
-
-The President commenced his visit on September 27 and served as the Chief Guest at the Sri Lanka Day celebrations held at the “Expo 2025” exhibition in Osaka, the President’s Media Division (PMD) said.
-
-During the visit, President Dissanayake engaged in a series of high-level bilateral discussions aimed at further strengthening the longstanding friendship and cooperation between Japan and Sri Lanka, while also expanding trade, investment and economic relations.
-
-...
-
-[Data](articles/22db2c68.json)
 
 ---
 
@@ -186,24 +144,6 @@ Preliminary inquiries have revealed that the police have revealed that they have
 [Data](articles/93b435d0.json)
 
 [Extended Data](ext_articles/93b435d0.ext.json)
-
----
-
-### TV Derana celebrates World Children’s Day with first-ever aerial tour for schoolchildren
-
-*2025-10-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113099/tv-derana-celebrates-world-childrens-day-with-first-ever-aerial-tour-for-schoolchildren) · `en`
-
-Marking a historic initiative, TV Derana today commemorated World Children’s Day by organizing a SriLankan Airlines charter flight carrying 250 schoolchildren on an aerial tour around Sri Lanka.
-
-The special flight departed from the Bandaranaike International Airport in Katunayake a short while ago.
-
-The initiative, titled “Ahasin Gamanak,” is a heartwarming collaboration between TV Derana and Signal, a concept developed by IdeaHell to celebrate World Children’s Day.
-
-A total of 250 talented schoolchildren, selected for their creative drawings and essays from across the country, were given this once-in-a-lifetime opportunity to experience the beauty of Sri Lanka from the skies.
-
-◼️
-
-[Data](articles/649b2fb4.json)
 
 ---
 
@@ -340,22 +280,6 @@ Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the 
 [Data](articles/b430a658.json)
 
 [Extended Data](ext_articles/b430a658.ext.json)
-
----
-
-### Chinese envoy hails ‘multi-faceted’ bilateral exchanges between Sri Lanka and China
-
-*2025-10-01 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113098/chinese-envoy-hails-multi-faceted-bilateral-exchanges-between-sri-lanka-and-china) · `en`
-
-Chinese Ambassador to Sri Lanka Qi Zhenhong has reaffirmed their enduring friendship with Sri Lanka, highlighting strong bilateral cooperation in development projects, public welfare initiatives, and crisis response.
-
-The two countries have stood together through challenges such as the Covid-19 pandemic, economic crises, kidney disease, and flood relief efforts, Ambassador Qi Zhenhong said.
-
-Ambassador Qi made these remarks in a statement of commemorating the 76th anniversary of the founding of the People’s Republic of China. He noted that earlier this year, President Anura Kumara Dissanayake’s visit to China resulted in significant understandings with President Xi Jinping, including jointly building a China-Sri Lanka community with a shared future and elevating bilateral relations to a new level.
-
-...
-
-[Data](articles/4bf05112.json)
 
 ---
 
@@ -546,24 +470,6 @@ Today, Ada Derana also received a CCTV display of the driver of the van.
 [Data](articles/a092ab36.json)
 
 [Extended Data](ext_articles/a092ab36.ext.json)
-
----
-
-### President Dissanayake meets Emperor Naruhito
-
-*2025-10-01 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113097/president-dissanayake-meets-emperor-naruhito-) · `en`
-
-President Anura Kumara Dissanayake, on an official visit to Japan at the invitation of the Japanese government has met Emperor Naruhito at the Imperial Palace on Tuesday (30).
-
-Upon his arrival at the Imperial Palace in Tokyo, the official residence of the Emperor of Japan, President Dissanayake was warmly received by Emperor Naruhito, the President’s Media Division (PMD) said.
-
-According to the statement the two leaders subsequently engaged in a cordial discussion.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath was also present during the meeting.
-
-◼️
-
-[Data](articles/ac078913.json)
 
 ---
 
@@ -1333,8 +1239,6 @@ The suspect is to be produced before the Hon. Magistrates Magistrate's Court.
 
 Underworld figure Sridaran Niranjan, also known as ‘Tinker’, who was arrested in Dubai has been brought back to Sri Lanka this morning (01), police confirmed.
 
-He was extradited to Sri Lanka as a result of a joint operation conducted by the Sri Lanka Police, State Intelligence Service (SIS), and Dubai Police of the United Arab Emirates (UAE).
-
 The arrested suspect is identified as a 36-year-old resident of Colombo 15, police confirmed.
 
 The police stated that the suspect is recognized as an associate of the notorious criminal leader and drug trafficker Palani Shiran Glorian, alias “Kochchikade Shiran.”
@@ -1343,7 +1247,9 @@ He is also accused of transporting firearms used in a shooting on August 19, 202
 
 Investigations revealed that the suspect, despite being under a travel ban, left the country on August 19, 2025.
 
-...
+The arrested suspect is scheduled to be produced before the No.05 Magistrate’s Court inside the Aluthkade Courts Complex, police said.
+
+◼️
 
 [Data](articles/8404e107.json)
 
@@ -1984,5 +1890,119 @@ The event was held in Chennai. Commenting on the film, director Suresh Bharati s
 [Data](articles/970c0987.json)
 
 [Extended Data](ext_articles/970c0987.ext.json)
+
+---
+
+### Aruna Vidhanagamage was in a vehicle that followed him before he died - In response, police media spokesman
+
+*2025-10-01 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226531) · `ta`
+
+Police Media Spokesperson Assistant Superintendent of Police, Meura Senarath, said that the Gajja, a recently assassinated Aruna Vidhanagamage, which was recently assassinated in the Mitteniya area, has been confirmed that the group that came to assassinate Rugby player Wasim Tajuddin has been confirmed.
+
+The murderous crude wife has confirmed that her husband is based on CCTV videos. The Assistant Superintendent of Police said investigations have been intensified based on this issue.
+
+A special journalist held at the police headquarters on Tuesday (30) said this during the meeting.
+
+In the early hours of the morning, the famous rugby player Wasim Tajuddin crashed near the Salika Playground of Narahenpita Park Road, Narahenpitiya.
+
+Investigations were carried out by the Narahenpita Police Station and the Borella Crime Unit.
+
+Subsequently, in 2015, Colombo District Deputy Inspector General of Police Gamini Madurada submitted a report to the then Inspector General of Police Ilangakon.
+
+...
+
+[Data](articles/4663df48.json)
+
+[Extended Data](ext_articles/4663df48.ext.json)
+
+---
+
+### Introduction to a website for registering three -wheeler
+
+*2025-10-01 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226536) · `ta`
+
+Western Province Road Passenger Transport Authority has introduced a new website for all passengers in the Western Province.. Accordingly, three -wheeler owners and drivers can register on the website https://wptaxi.net/.
+
+Jeevinda Keerthiratne, Operating Manager of the Authority, said that the process of issuing passengers permits for three -wheelers has been resumed.
+
+Since this registration process is fully e -mail, three -wheeler owners can submit their details on the website and get the time for the registration. According to this time, facilities have been provided to register at the concerned Divisional Secretariat Offices.
+
+◼️
+
+[Data](articles/feac5340.json)
+
+[Extended Data](ext_articles/feac5340.ext.json)
+
+---
+
+### Former State Minister Prasanna Ranweera bail
+
+*2025-10-01 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226535) · `ta`
+
+The Gampaha High Court has granted bail to former State Minister Prasanna Ranawira, who was arrested and interrogated on charges of producing fake documents and selling state -owned land.
+
+Former State Minister Prasanna Ranweera was arrested and kept in interrogation on charges of making fake documents and selling state -owned land. In this backdrop, the hearing of the bail plea filed by former Minister of State Prasanna Ranweera was taken up for hearing on Tuesday under the leadership of Gampaha High Court Judge Nayana Seneviratne.
+
+Considering the evidence presented at the time, the judge released the suspects, Prasanna Ranawira and Sarath Ethi Sinha, under strict bail conditions.. Accordingly, the suspects were released with five body bail worth Rs 5 lakh each and a cash bail worth Rs.
+
+...
+
+[Data](articles/de820bd0.json)
+
+[Extended Data](ext_articles/de820bd0.ext.json)
+
+---
+
+### Increase in Colombo Primary Inflation; The Department of Access and Statistics
+
+*2025-10-01 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226534) · `ta`
+
+The Department of Consumer Price Index has announced that the primary inflation rate on the basis of Colombo has increased from 1.2 per cent in August 2025 to 1.5 per cent in September 2025.
+
+In a statement issued by the Department of Communication and Statistics on the Consumer Price Code of Colombo for September
+
+Food inflation increased to 2.9 per cent in September 2025 compared to 2.0 per cent in August 2025.. Non -annual inflation declined to 0.7 percent in September. It was reported at 0.8 per cent in August 2025, according to the Department of Census and Statistics.
+
+◼️
+
+[Data](articles/165b49db.json)
+
+[Extended Data](ext_articles/165b49db.ext.json)
+
+---
+
+### Sridharan goes to Geneva; Will participate in side events
+
+*2025-10-01 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226533) · `ta`
+
+Sivagnanam Sridharan, the head of the Sri Lanka Tamil National Alliance (TNA), who arrived in Geneva on Tuesday (30), will attend the 60th session of the United Nations Human Rights Council.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The first draft of the new resolution was released on the 9th of last week, which was released on the 9th of last week by the British -led internet, including Canada, Malavi, Montenegro and North Messidonia, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka.
+
+At the same time, it is expected that the United Nations Human Rights Office will hold meetings with representatives of the British -led internet -headed countries and then discuss the issues of Tamils.
+
+◼️
+
+[Data](articles/487a1c01.json)
+
+[Extended Data](ext_articles/487a1c01.ext.json)
+
+---
+
+### Children's Day Must be obligatory for the year - Sajith Premadasa
+
+*2025-10-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226532) · `ta`
+
+Opposition Leader Sajith Premadasa has said that we will be dedicated to the children and the elderly, not only for a day, but will be dedicated to our duty and responsibility for the year.
+
+He said this in his greeting on the International Children's Day and International Elderly Day.
+
+The phrase 'today's children's day' gives us a good understanding of children and the elderly. The safety of the boys is the well -being of the community. The elderly who inherit the well -being of society are the group that symbolizes the best role models of a country. Protecting, maintaining, maintaining these two groups and fulfilling the responsibilities and duties of the community for them is the responsibility of all who expect the good position of a country.
+
+...
+
+[Data](articles/3e73f427.json)
+
+[Extended Data](ext_articles/3e73f427.ext.json)
 
 ---

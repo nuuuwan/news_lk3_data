@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 13:20:27**
+As of **2025-10-01 12:55:52**
 
 ## Newspaper Stats
 
-*Scraped **80,150** Articles*
+*Scraped **80,139** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 531
-lankadeepalk | 564
-dbsjeyarajcom | 637
+newsfirstlk | 529
+lankadeepalk | 561
+dbsjeyarajcom | 636
 bbccomsinhala | 714
 colombotelegraphcom | 801
 dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,709
-adaderanalk | 10,328
+adalk | 7,708
+adaderanalk | 10,324
 tamilmirrorlk | 11,967
 virakesarilk | 13,085
 adaderanasinhalalk | 13,847
@@ -27,153 +27,63 @@ adaderanasinhalalk | 13,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,146 (100.0%) of 80,150 articles have been extended.
+80,133 (100.0%) of 80,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### First US Federal Shutdown in Six Years Begins After Funding Talks Collapse
-
-*2025-10-01 13:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/first-us-federal-shutdown-in-six-years-begins-after-funding-talks-collapse) · `en`
-
-The US federal government has officially shut down for the first time in six years after a deadlocked Congress failed to pass a funding measure to keep the lights on — and no one inside the Capitol knows what will happen next.
-
-Republicans insist Democrats need to simply agree to extend current funding for another seven weeks.
-
-Democrats refuse to do so without major concessions for lending their votes to pass any funding measure in the Senate.
-
-Both Republican and Democratic proposals that would have funded the government past Tuesday failed in the Senate during the eleventh hour, effectively shutting down the government at 12:01 a.m. on Wednesday.
-
-The federal government ran out of money after a Democratic-backed spending bill that would have extended health care subsidies under the Affordable Care Act and reversed cuts to Medicaid failed, as well as the GOP-backed stopgap funding measure that would have funded the government for seven weeks also failed.
-
-...
-
-[Data](articles/39027746.json)
-
----
-
-### Bollywood Battles AI: The Bachchans' Legal Crusade
-
-*2025-10-01 12:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/bollywood-battles-ai-the-bachchans-legal-crusade) · `en`
-
-In India, Bollywood stars are asking judges to protect their voice and persona in the era of artificial intelligence. One famous couple's biggest target is Google's video arm YouTube.
-
-Abhishek Bachchan and his wife Aishwarya Rai Bachchan, known for her iconic Cannes Film Festival red carpet appearances, have asked a judge to remove and prohibit creation of AI videos infringing their intellectual property rights. But in a more far-reaching request, they also want Google ordered to have safeguards to ensure such YouTube videos uploaded anyway do not train other AI platforms, legal papers reviewed by Reuters show.
-
-A handful of Bollywood celebrities have begun asserting their "personality rights" in Indian courts over the last few years, as the country has no explicit protection for those like in many U.S. states.
-
-...
-
-[Data](articles/d375f3c9.json)
-
----
-
-### Free recovery to children who suffer from cancer
-
-*2025-10-01 12:46:16* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/පිළිකා-රෝගයෙන්-පීඩා-විඳින--දරුවන්ට--නොමිලේ--සුවය--බෙදන-සුව-අරණ/12-680566) · `si`
-
-◼️
-
-[Data](articles/55c6bbaa.json)
-
-[Extended Data](ext_articles/55c6bbaa.ext.json)
-
----
-
-### Medical equipment from the population fund
-
-*2025-10-01 12:36:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනගහන-අරමදලන-වදය-උපකරණ/101-680563) · `si`
-
-The United Nations Population Fund (UNFPA) was held in Sri Lanka and the Maldives, the Ministry of Health and Mass Media, Media Minister Dr. Nalinda Jayatissa.
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa and Funtzhow Vanguel were exchanged on the current functioning and planning and challenges of the health service system in Sri Lanka.
-
-The support of children's and maternity health promotion of Sri Lanka and provide medical equipment to the national health policy of the country, and the discussion of the country's national health policy and strengthen the program for sex education.
-
-◼️
-
-[Data](articles/f170497b.json)
-
-[Extended Data](ext_articles/f170497b.ext.json)
-
----
-
-### An announcement on recruiting development officers to the teaching
+### සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම ගැන නිවේදනයක්
 
 *2025-10-01 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215218) · `si`
 
-The Ministry of Education has issued a statement regarding the recruitment of development officers working in schools to the teaching of the school.
+පාසල්වල සේවය කරන සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සම්බන්ධයෙන් අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
 
-The announcement is listed under the signature of the Secretary to the Ministry Nalaka Kabuwewa.
+අමාත්‍යාංශ ලේකම් නාලක කලුවැව අත්සනින් එම නිවේදනය නිතුක් කර ඇත.
 
-The Ministry of Education states that several proceedings of the Supreme Court have been completed in connection with the participation of the Government of the Supreme Court regarding the inclusion of the participants who are working in the teacher service, including the development officers of the schools.
+2023 මාර්තු මස 25 වන දින පාසල්වල සේවය කරන සංවර්ධන නිලධාරීන් ඇතුළුව රජයේ සේවයේ නියුතු උපාධිධාරී නිලධාරීන් ගුරු සේවයට ඇතුළත් කිරීම සම්බන්ධයෙන් පැවැත්වීමට නියමිත ව තිබු තරග විභාගයට අදාළව ශ්‍රේෂ්ඨාධිකරණයේ විභාග වූ නඩු කටයුතු කිහිපයක් මේ වන විට අවසන්ව ඇති බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
 
-However, since the case of the Court of Appeal has not yet been completed, the above examination will be carried out following the above examination.
+එහෙත් අභියාචනාධිකරණයේ විභාග වන නඩු කටයුත්ත මේ වන විටත් අවසන් ව නොමැති හෙයින් එම නඩුවේ ද තීන්දුව ලබා දීමෙන් පසුව ඉහත විභාගය සම්බන්ධයෙන් ඉදිරි කටයුතු සිදුකෙරෙනු ඇතැයි අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
 
 ◼️
 
 [Data](articles/de5e4f02.json)
 
-[Extended Data](ext_articles/de5e4f02.ext.json)
-
 ---
 
-### Troops of former Minister Anura Priyadarshana Yapa
+### හිටපු ඇමති අනුර ප්‍රියදර්ශන යාපා ඇතුළු විත්තිකරුවන්ට එරෙහි නඩුවකට චෝදනා භාරදෙයි
 
 *2025-10-01 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215217) · `si`
 
-According to the total of Rs.
+2014 වසරේ දෙසැම්බර් මස ගංවතුර ආධාර සපයන බව සඳහන් කරමින් අනීතික ලෙස තෙල් නීතිගත සංස්ථාවට අයත් රුපියල් ලක්ෂ 61කට අධික මුදලක් වැය කිරීම තුළින් රජයේ මුදල් සාවද්‍ය පරිහරණය කිරීම ඇතුළු චෝදනා යටතේ හිටපු ඛනිජතල් විෂය භාර අමාත්‍ය අනුර ප්‍රියදර්ශනය යාපා ඔහුගේ බිරිඳ ඇතුළු විත්තිකරුවන් හය දෙනෙකුට එරෙහිව කොළඹ මහාධිකරණය හමුවේ අද (01) සංශෝධිත අධිචෝදනා පත්‍ර භාරදුන්නේය.
 
-The revised indications were handed over before the Attorney General, handing over before the Colombo High Court Judge, Udayanatunga.
+නීතිපතිවරයා විසින් ගොනුකර තිබූ එම සංශෝධිත අධිචෝදනා පත්‍ර කොළඹ මහාධිකරණ විනිසුරු උදේශ් රණතුංග මහතා ඉදිරියේ භාරදීම සිදුවුණි.
 
-The complaint was named as another defendant as another defendant in the case under the revised indication, Anura Seneviratne was named as a coordinating secretary of the former minister.
+සංශෝධිත අධිචෝදනා පත්‍රය යටතේ මෙම නඩුවේ තවත් විත්තිකරුවෙකු ලෙස හිටපු ඇමතිවරයාගේ සම්බන්ධීකරණ ලේකම්වරයෙකු වශයෙන් කටයුතු කළ බව කියන අනුර සෙනෙවිරත්න නමැත්තෙකු නම් කරන බවත් පැමිණිල්ල අධිකරණයට දැනුම් දුන්නේය.
 
-The disaster was set to call on the accusations on the 29th of October to hand over the accusations on the accused.
+එම විත්තිකරුට අදාළ චෝදනා භාරදීම සඳහා මෙම නඩුව යළි ඔක්තෝම්බර් මස 29 වනදා කැඳවන ලෙසත් විසුරුවරයා නියම කළේය.
 
 ◼️
 
 [Data](articles/c62048ae.json)
 
-[Extended Data](ext_articles/c62048ae.ext.json)
-
 ---
 
-### President Dissanayake returns after concluding official visit to Japan
-
-*2025-10-01 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113100/president-dissanayake-returns-after-concluding-official-visit-to-japan) · `en`
-
-President Anura Kumara Dissanayake returned to Sri Lanka this morning (01) after successfully completing a three-day official visit to Japan, undertaken at the invitation of the Japanese Government.
-
-The President commenced his visit on September 27 and served as the Chief Guest at the Sri Lanka Day celebrations held at the “Expo 2025” exhibition in Osaka, the President’s Media Division (PMD) said.
-
-During the visit, President Dissanayake engaged in a series of high-level bilateral discussions aimed at further strengthening the longstanding friendship and cooperation between Japan and Sri Lanka, while also expanding trade, investment and economic relations.
-
-...
-
-[Data](articles/22db2c68.json)
-
-[Extended Data](ext_articles/22db2c68.ext.json)
-
----
-
-### One billion dollar vehicles have been taken to 08 months
+### මාස 08ට ඩොලර් බිලියනයක වාහන ගෙන්නලා
 
 *2025-10-01 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215216) · `si`
 
-With the removal of the boundaries of vehicles for importation of vehicles and January to August 2025, the Central Bank of Sri Lanka (SLTD) has cost Rs 1,007.5 million to import.
+ශ්‍රී ලංකාවට වාහන ආනයනය සඳහා පනවා තිබූ සීමා ඉවත් කිරීමත් සමඟ 2025 වසරේ ජනවාරි සිට අගෝස්තු දක්වා මාස 08ක කාලපරිච්ඡේදය තුළ දී, මෙරටට වාහන ආනයනය සඳහා එක්සත් ජනපද ඩොලර් මිලියන 1,007.5ක වියදමක් දරා ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
 
-This is stated in the August 2025 August 2025 Antiqualified Foreign Division Activity Report.
+ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කරන ලද 2025 අගොස්තු විදේශීය අංශ ක්‍රියාකාරීත්ව වාර්තාවෙහි මේ බව සඳහන් වේ.
 
-The highest import expenses made in a single month of this year was recorded in August 2025.
+මෙහිදී මෙම වසරේ තනි මාසයක් තුළ සිදුකළ වැඩිම වාහන ආනයන වියදම 2025 අගෝස්තු මාසයේ දී වාර්තා වන අතර එය ඩොලර් මිලියන 255.7ක් වේ.
 
-The cost of importing vehicles to Sri Lanka is as follows in 2025.
+2025 වසරේ මේ දක්වා එක් එක් මාසය තුළ දී මෙරටට වාහන ආනයනය සඳහා දරා ඇති වියදම පහතින් දැක්වේ.
 
 ◼️
 
 [Data](articles/183d3075.json)
-
-[Extended Data](ext_articles/183d3075.ext.json)
 
 ---
 
@@ -195,31 +105,25 @@ In addition, the report also stated that updates on embassy services and operati
 
 ---
 
-### The flight carrying 250 children and flight to the sky
+### ළමුන් 250ක් රැගෙන ඉහළ අහසට ගිය ගුවන් ගමන
 
 *2025-10-01 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215215) · `si`
 
-Sri Lanka Airlines with 250 school children across Sri Lanka have been flying from the Katunayake airport.
+ශ්‍රී ලංකාව පුරා විසිරී සිටින පාසල් සිසුන් 250ක් රැගත් ශ්‍රීලන්කන් ගුවන් සේවයට අයත් මෙරට විශාලතම ගුවන් යානය මීට සුළු වේලාවකට පෙර කටුනායක ගුවන්තොටුපොළෙන් ගුවන්ගත වී තිබේ.
 
-The children have been launched today before Derana, attractive and historical sites, enacted by the children of the country.
+අදට යෙදී ඇති ලෝක ළමා දිනයට සමගාමීව දරුවන්ට ‍මෙරට ආකර්ශනීය සහ ඓතිහාසික ස්ථාන ගුවනින් නැරඹීම සඳහා අවස්ථාව සලසා දුන් "දෙරණ සිග්නල් අහසින් ගමනක්" වැඩසටහන අද (01) පෙරවරුවේ සාර්ථකව දියත් කෙරුණි.
 
-250 children participated in the aircraft organized to provide a new experience for the country.
+මෙරට දරුවන්ට නවමු අත්දැකීමක් ලබාදීම වෙනුවෙන් සංවිධාන කෙරුණු එම ගුවන් ගමන සඳහා එක්වූ දරුවන් ගණන 250කි.
 
-Twitna Derana decided to bring a new experience for Sri Lanka's children to enjoy the best of the children.
+දරුවන්ට හොඳම දේ හැමදාමත් ලබාදෙන 'ටීවි දෙරණ' මෙවර ලෝක ළමා දිනයට සමගාමීව ශ්‍රී ලංකාවේ දරුවන්ට නවමු අත්දැකීමක් ගෙනඒමට තීරණය කළේය.
 
-Accordingly, the 'Trip from the Derana Signal' program was launched in order to see the faning of Sri Lanka to look at Sri Lanka.
+ඒ අනුව "දෙරණ සිග්නල් අහසින් ගමනක්" වැඩසටහන ආරම්භ කෙරුණේ ශ්‍රී ලංකාවේ අසිරිය ගුවනින් දැක බලාගැනීමේ අවස්ථාව පළමුවරට දරුවන් පිරිසකට උදාකර දීමේ අරමුණින්.
 
-The children between the ages of 12 and 15 were selected for this precious opportunity to send a video of no more than 250 words or the topic 2 to 250 words.
-
-Accordingly, the best and creative drawings of the creations sent under the theme "my country that seees in the sky" were selected for a "sky and video program.
-
-The 250 children selected attended the Derana Head Office this morning with the intention of obtaining his life.
+මෙම වටිනා අවස්ථාව සඳහා වයස අවුරුදු 12ත් 15ත් අතර දරුවන් තෝරාගැනුණේ "අහසින් දකින මගේ රට" තේමාව යටතේ අඳින ලද චිත්‍රයක් හෝ වචන 250ට නොඅඩු රචනාවක් හෝ මාතෘකාව පිළිබඳ දරුවා කතාකරන වීඩියෝවක් තැපෑලෙන් හෝ WhatsApp හරහා එවන්නැයි දැනුම්දීමෙනි.
 
 ...
 
 [Data](articles/b73b1b47.json)
-
-[Extended Data](ext_articles/b73b1b47.ext.json)
 
 ---
 
@@ -240,26 +144,6 @@ Preliminary inquiries have revealed that the police have revealed that they have
 [Data](articles/93b435d0.json)
 
 [Extended Data](ext_articles/93b435d0.ext.json)
-
----
-
-### TV Derana celebrates World Children’s Day with first-ever aerial tour for schoolchildren
-
-*2025-10-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113099/tv-derana-celebrates-world-childrens-day-with-first-ever-aerial-tour-for-schoolchildren) · `en`
-
-Marking a historic initiative, TV Derana today commemorated World Children’s Day by organizing a SriLankan Airlines charter flight carrying 250 schoolchildren on an aerial tour around Sri Lanka.
-
-The special flight departed from the Bandaranaike International Airport in Katunayake a short while ago.
-
-The initiative, titled “Ahasin Gamanak,” is a heartwarming collaboration between TV Derana and Signal, a concept developed by IdeaHell to celebrate World Children’s Day.
-
-A total of 250 talented schoolchildren, selected for their creative drawings and essays from across the country, were given this once-in-a-lifetime opportunity to experience the beauty of Sri Lanka from the skies.
-
-◼️
-
-[Data](articles/649b2fb4.json)
-
-[Extended Data](ext_articles/649b2fb4.ext.json)
 
 ---
 
@@ -365,21 +249,19 @@ Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the 
 
 ---
 
-### When the President met the President of Japan
+### ජනපති ජපාන අධිරාජ්‍යයා හමු වූ අවස්ථාව
 
 *2025-10-01 11:00:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-ජපන-අධරජයය-හම-ව-අවසථව/101-680545) · `si`
 
-President Anura Kumara Dissanayake met on an official visit to the Japanese government in the imperialist mansion in Tokyo.
+ජපාන රජයේ ආරාධනයකට අනුව එරට  නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා  ටෝකියෝහි පිහිටි අධිරාජ්‍ය  මන්දිරයේදී  ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමු විය.
 
-The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
+ජපාන අධිරාජ්‍යයාගේ නිල නිවස වන අධිරාජ්‍ය  මන්දිරයේදී නරුහිතෝ අධිරාජ්‍යයා විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගනු ලැබීමෙන් අනතුරුව සුහද පිළිසඳරකද නිරත විය.
 
-Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතාද මෙම අවස්ථාවට එක් විය.
 
 ◼️
 
 [Data](articles/7a99d2f9.json)
-
-[Extended Data](ext_articles/7a99d2f9.ext.json)
 
 ---
 
@@ -398,24 +280,6 @@ Foreign, Foreign Employment and Tourism Vijitha Herath were also present at the 
 [Data](articles/b430a658.json)
 
 [Extended Data](ext_articles/b430a658.ext.json)
-
----
-
-### Chinese envoy hails ‘multi-faceted’ bilateral exchanges between Sri Lanka and China
-
-*2025-10-01 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113098/chinese-envoy-hails-multi-faceted-bilateral-exchanges-between-sri-lanka-and-china) · `en`
-
-Chinese Ambassador to Sri Lanka Qi Zhenhong has reaffirmed their enduring friendship with Sri Lanka, highlighting strong bilateral cooperation in development projects, public welfare initiatives, and crisis response.
-
-The two countries have stood together through challenges such as the Covid-19 pandemic, economic crises, kidney disease, and flood relief efforts, Ambassador Qi Zhenhong said.
-
-Ambassador Qi made these remarks in a statement of commemorating the 76th anniversary of the founding of the People’s Republic of China. He noted that earlier this year, President Anura Kumara Dissanayake’s visit to China resulted in significant understandings with President Xi Jinping, including jointly building a China-Sri Lanka community with a shared future and elevating bilateral relations to a new level.
-
-...
-
-[Data](articles/4bf05112.json)
-
-[Extended Data](ext_articles/4bf05112.ext.json)
 
 ---
 
@@ -609,26 +473,6 @@ Today, Ada Derana also received a CCTV display of the driver of the van.
 
 ---
 
-### President Dissanayake meets Emperor Naruhito
-
-*2025-10-01 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113097/president-dissanayake-meets-emperor-naruhito-) · `en`
-
-President Anura Kumara Dissanayake, on an official visit to Japan at the invitation of the Japanese government has met Emperor Naruhito at the Imperial Palace on Tuesday (30).
-
-Upon his arrival at the Imperial Palace in Tokyo, the official residence of the Emperor of Japan, President Dissanayake was warmly received by Emperor Naruhito, the President’s Media Division (PMD) said.
-
-According to the statement the two leaders subsequently engaged in a cordial discussion.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath was also present during the meeting.
-
-◼️
-
-[Data](articles/ac078913.json)
-
-[Extended Data](ext_articles/ac078913.ext.json)
-
----
-
 ### President arrives
 
 *2025-10-01 10:18:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-එය/101-680544) · `si`
@@ -745,20 +589,6 @@ Nine days or nights are made to the new sisters of Durga Devi, a symbol of stren
 
 ---
 
-### සැමට හිමි බිමක් ඔප්පු ප්‍රදානෝත්වයට රු. කෝටියක් වැය කරලා
-
-*2025-10-01 10:05:32* · [`adalk`](https://www.ada.lk/breaking_news/සැමට-හිමි-බිමක්-ඔප්පු-ප්‍රදානෝත්වයට-රු--කෝටියක්-වැය-කරලා/11-418835) · `si`
-
-මහනුවර,බෝගම්බර ක්‍රිඩාංගනයේ  දි පැවති  සැමට හිමි බිමක් ඔප්පු  ප්‍රදානෝත්සවය  සදහා ඉඩම් ප්‍රතිසංස්කරණ කොමිසම් සභාව විසින්  රුපියල් එක්කෝටි,එක්ලක්ෂ,හයදහස්එකසිය පනස්අටක මුදලක් (10,106,158)  වැයකොට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.
-
-උරුමය ඔප්පු ප්‍රදානෝත්සවයට  සමගාමිව  සැමට හිමි බිමක් ඔප්පු  ප්‍රදානෝත්සවය 2024 වර්ෂයේ මාර්තු මස 30 වැනිදින  මහනුවර බෝගම්බර ක්‍රිඩාපිටියේ දි පවත්වා තිබුණි. එහිදි ඔප්පු  2,700ක් පමණ බෙදා දි තිබුණි. ඉඩම් බැහැර කිරිමේ දි අත්‍යවශ්‍ය  වියදම් සදහා පමණක් වියදම් කළ යුතු බවට  විගණනය මගින් නිර්දේශකොට ඇත.
-
-...
-
-[Data](articles/78f2628d.json)
-
----
-
 ### No Bus Fare Reduction Despite Diesel Price Drop
 
 *2025-10-01 10:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/no-bus-fare-reduction-despite-diesel-price-drop) · `en`
@@ -781,19 +611,17 @@ Following the latest revision, the current price of a litre of diesel stands at 
 
 ---
 
-### Underworld tinker arrested in Dubai
+### පාතාල සාමාජික ටින්කර් ඩුබායිහිදී අත්අඩංගුවට
 
 *2025-10-01 09:59:19* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-සාමාජික-ටින්කර්-ඩුබායිහිදී-අත්අඩංගුවට/11-418834) · `si`
 
-Sri Lanka Police, State Intelligence Service and the United Arab Emirates State Dubai Police have many crimes
+ශ්‍රී ලංකා පොලීසිය, රාජ්‍ය බුද්ධි සේවාව හා එක්සත් අරාබි එමීර් රාජ්‍ය ඩුබායි පොලීසිය එක්ව සිදුකළ මෙහෙයුමකදී මෙරට අපරාධ රැසකට
 
-Sri Lanka's Sri Lankan Nranrogen, or Tinker, has been arrested. The Criminal Troops have arrested the criminal investigation after the suspect was sent to the airport in the airport today.
+සම්බන්ධ ශ්‍රී දරන් නෙරන්ජන් නොහොත් ටින්කර් නැමැත්ත් අත්අඩංගුවට ගෙන තිබේ. සැකකරු අද දිනයේදී කටුයානයක ගුවන් තොටුපොළට එවීමෙන් අනතුරුව අපරාධ පරික්ෂණ ‍දොපර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
 
 ◼️
 
 [Data](articles/702b39a0.json)
-
-[Extended Data](ext_articles/702b39a0.ext.json)
 
 ---
 
@@ -1411,8 +1239,6 @@ The suspect is to be produced before the Hon. Magistrates Magistrate's Court.
 
 Underworld figure Sridaran Niranjan, also known as ‘Tinker’, who was arrested in Dubai has been brought back to Sri Lanka this morning (01), police confirmed.
 
-He was extradited to Sri Lanka as a result of a joint operation conducted by the Sri Lanka Police, State Intelligence Service (SIS), and Dubai Police of the United Arab Emirates (UAE).
-
 The arrested suspect is identified as a 36-year-old resident of Colombo 15, police confirmed.
 
 The police stated that the suspect is recognized as an associate of the notorious criminal leader and drug trafficker Palani Shiran Glorian, alias “Kochchikade Shiran.”
@@ -1421,7 +1247,9 @@ He is also accused of transporting firearms used in a shooting on August 19, 202
 
 Investigations revealed that the suspect, despite being under a travel ban, left the country on August 19, 2025.
 
-...
+The arrested suspect is scheduled to be produced before the No.05 Magistrate’s Court inside the Aluthkade Courts Complex, police said.
+
+◼️
 
 [Data](articles/8404e107.json)
 
@@ -2008,5 +1836,173 @@ The film, which has been officially announced that Ban will be released as India
 [Data](articles/70db99e8.json)
 
 [Extended Data](ext_articles/70db99e8.ext.json)
+
+---
+
+### Actor Kanna Ravi starring 'Veduwan' web series Preview Release
+
+*2025-10-01 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226539) · `ta`
+
+The preview of the 'Veduwan', which is aired on the original internet series on the G5 Digital site from the 10th of October, has been released.
+
+Actor Kanna Ravi, Sanjeev Venkat, Siravnitha Srikanth, Ramya Ramakrishnan, Rekha Nair and many others have starred in the 'Veduwan' series directed by director Pawan.  The internet series is composed by Vipin Bhaskar on behalf of Rice East for the Tamil digital site.
+
+Commenting on the Internet series, the director said, “Suraj, a film actor, has the opportunity to act in the creation of a police officer's life history.. The story of the film is the unexpected events when he plays the character. ”
+
+◼️
+
+[Data](articles/7fb49df9.json)
+
+[Extended Data](ext_articles/7fb49df9.ext.json)
+
+---
+
+### Torn Therapy
+
+*2025-10-01 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226537) · `ta`
+
+Our younger generation continues to increase the use of electronic devices including mobile phone and laptop. We look at the cell phone, especially when we descend from the normal state of our body until at least 6 hours a day. We are visiting the digital screen in the handset. We also carry out tasks such as running or typing their livelihood laptop. This will eventually affect the bones in your neck area and change your appearance.
+
+Others are making a change in their body language ... Especially pain in the pelvic area. For this they go to the doctor and treat them with pain relief treatment. Doctors say that with such treatment, the Torn Therapy, which is now known as the Torn Therapy, will provide rapid relief to the renovation touch.
+
+Though the neck bone is affected by this Torn Therapy ... Though the cone falls due to old age .... Despite the change in your style due to old age and weight loss .... Relief can be obtained by performing a proper and complete Torn Therapy.
+
+...
+
+[Data](articles/d819fe29.json)
+
+[Extended Data](ext_articles/d819fe29.ext.json)
+
+---
+
+### The music and preview of the movie 'Veera Thamizhachi' starring newcomer Sushmita Suresh
+
+*2025-10-01 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226538) · `ta`
+
+The music and preview launch of the movie 'Veera Thamizhachi' starring the famous Sanjeev, the famous film, was held in Chennai. Directors R.. V.. Udayakumar - Empire - Rajakumaran - Vijay Sri participated as special guests.
+
+Sanjeev Venkat, Ilaya, Sushmita Suresh, Swetha Dorathi, late actor Marimuthu, writer and actor Vela Ramamurthy. Rajan, Mustache Rajendran, Jayam Gopi and many others have played. Sankaralingam Selvakumar has composed the film for the film.. The film was co -produced by producers Sarada Manivannan and Mahi.
+
+The event was held in Chennai. Commenting on the film, director Suresh Bharati said, “The film is an awareness film for women. When are women being sexually harassed? How should they recover from it? What is the solution to this?. Hope the film's peak scene will be different. This film will definitely win. ”
+
+◼️
+
+[Data](articles/970c0987.json)
+
+[Extended Data](ext_articles/970c0987.ext.json)
+
+---
+
+### Aruna Vidhanagamage was in a vehicle that followed him before he died - In response, police media spokesman
+
+*2025-10-01 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226531) · `ta`
+
+Police Media Spokesperson Assistant Superintendent of Police, Meura Senarath, said that the Gajja, a recently assassinated Aruna Vidhanagamage, which was recently assassinated in the Mitteniya area, has been confirmed that the group that came to assassinate Rugby player Wasim Tajuddin has been confirmed.
+
+The murderous crude wife has confirmed that her husband is based on CCTV videos. The Assistant Superintendent of Police said investigations have been intensified based on this issue.
+
+A special journalist held at the police headquarters on Tuesday (30) said this during the meeting.
+
+In the early hours of the morning, the famous rugby player Wasim Tajuddin crashed near the Salika Playground of Narahenpita Park Road, Narahenpitiya.
+
+Investigations were carried out by the Narahenpita Police Station and the Borella Crime Unit.
+
+Subsequently, in 2015, Colombo District Deputy Inspector General of Police Gamini Madurada submitted a report to the then Inspector General of Police Ilangakon.
+
+...
+
+[Data](articles/4663df48.json)
+
+[Extended Data](ext_articles/4663df48.ext.json)
+
+---
+
+### Introduction to a website for registering three -wheeler
+
+*2025-10-01 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226536) · `ta`
+
+Western Province Road Passenger Transport Authority has introduced a new website for all passengers in the Western Province.. Accordingly, three -wheeler owners and drivers can register on the website https://wptaxi.net/.
+
+Jeevinda Keerthiratne, Operating Manager of the Authority, said that the process of issuing passengers permits for three -wheelers has been resumed.
+
+Since this registration process is fully e -mail, three -wheeler owners can submit their details on the website and get the time for the registration. According to this time, facilities have been provided to register at the concerned Divisional Secretariat Offices.
+
+◼️
+
+[Data](articles/feac5340.json)
+
+[Extended Data](ext_articles/feac5340.ext.json)
+
+---
+
+### Former State Minister Prasanna Ranweera bail
+
+*2025-10-01 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226535) · `ta`
+
+The Gampaha High Court has granted bail to former State Minister Prasanna Ranawira, who was arrested and interrogated on charges of producing fake documents and selling state -owned land.
+
+Former State Minister Prasanna Ranweera was arrested and kept in interrogation on charges of making fake documents and selling state -owned land. In this backdrop, the hearing of the bail plea filed by former Minister of State Prasanna Ranweera was taken up for hearing on Tuesday under the leadership of Gampaha High Court Judge Nayana Seneviratne.
+
+Considering the evidence presented at the time, the judge released the suspects, Prasanna Ranawira and Sarath Ethi Sinha, under strict bail conditions.. Accordingly, the suspects were released with five body bail worth Rs 5 lakh each and a cash bail worth Rs.
+
+...
+
+[Data](articles/de820bd0.json)
+
+[Extended Data](ext_articles/de820bd0.ext.json)
+
+---
+
+### Increase in Colombo Primary Inflation; The Department of Access and Statistics
+
+*2025-10-01 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226534) · `ta`
+
+The Department of Consumer Price Index has announced that the primary inflation rate on the basis of Colombo has increased from 1.2 per cent in August 2025 to 1.5 per cent in September 2025.
+
+In a statement issued by the Department of Communication and Statistics on the Consumer Price Code of Colombo for September
+
+Food inflation increased to 2.9 per cent in September 2025 compared to 2.0 per cent in August 2025.. Non -annual inflation declined to 0.7 percent in September. It was reported at 0.8 per cent in August 2025, according to the Department of Census and Statistics.
+
+◼️
+
+[Data](articles/165b49db.json)
+
+[Extended Data](ext_articles/165b49db.ext.json)
+
+---
+
+### Sridharan goes to Geneva; Will participate in side events
+
+*2025-10-01 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226533) · `ta`
+
+Sivagnanam Sridharan, the head of the Sri Lanka Tamil National Alliance (TNA), who arrived in Geneva on Tuesday (30), will attend the 60th session of the United Nations Human Rights Council.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The first draft of the new resolution was released on the 9th of last week, which was released on the 9th of last week by the British -led internet, including Canada, Malavi, Montenegro and North Messidonia, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka.
+
+At the same time, it is expected that the United Nations Human Rights Office will hold meetings with representatives of the British -led internet -headed countries and then discuss the issues of Tamils.
+
+◼️
+
+[Data](articles/487a1c01.json)
+
+[Extended Data](ext_articles/487a1c01.ext.json)
+
+---
+
+### Children's Day Must be obligatory for the year - Sajith Premadasa
+
+*2025-10-01 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/226532) · `ta`
+
+Opposition Leader Sajith Premadasa has said that we will be dedicated to the children and the elderly, not only for a day, but will be dedicated to our duty and responsibility for the year.
+
+He said this in his greeting on the International Children's Day and International Elderly Day.
+
+The phrase 'today's children's day' gives us a good understanding of children and the elderly. The safety of the boys is the well -being of the community. The elderly who inherit the well -being of society are the group that symbolizes the best role models of a country. Protecting, maintaining, maintaining these two groups and fulfilling the responsibilities and duties of the community for them is the responsibility of all who expect the good position of a country.
+
+...
+
+[Data](articles/3e73f427.json)
+
+[Extended Data](ext_articles/3e73f427.ext.json)
 
 ---

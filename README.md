@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 00:53:04**
+As of **2025-10-02 01:06:00**
 
 ## Newspaper Stats
 
-*Scraped **80,365** Articles*
+*Scraped **80,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,616
 adalk | 7,726
-adaderanalk | 10,351
+adaderanalk | 10,352
 tamilmirrorlk | 11,986
 virakesarilk | 13,149
 adaderanasinhalalk | 13,863
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,365 (100.0%) of 80,365 articles have been extended.
+80,365 (100.0%) of 80,366 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,22 @@ It enables the identification of challenges in Sri Lanka, research and developme
 [Data](articles/aa785f91.json)
 
 [Extended Data](ext_articles/aa785f91.ext.json)
+
+---
+
+### Discussion held on establishing RMIT Sri Lanka Innovation Hub
+
+*2025-10-01 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113126/discussion-held-on-establishing-rmit-sri-lanka-innovation-hub-) · `en`
+
+A special discussion has been held at the Presidential Secretariat between the Royal Melbourne Institute of Technology (RMIT) and officials of the Presidential Secretariat, with the objective of raising awareness and facilitating the establishment of an RMIT Innovation Hub in Sri Lanka.
+
+The discussion was organized in coordination with the National Initiative for Research and Development Commercialization (NIRDC), the President’s Media Division said.
+
+The proposed RMIT Sri Lanka Innovation Hub will strengthen the implementation of existing Joint PhD programmes while creating opportunities to address national challenges through research and development (R&D) solutions aligned with Sri Lanka’s research policies and national priorities. The outcomes of this process are expected to be shared with the wider public, the PMD noted.
+
+...
+
+[Data](articles/cc458d26.json)
 
 ---
 
@@ -2020,25 +2036,5 @@ In response, the media spokesman reveals another new issue to the media.. This i
 [Data](articles/69bfcf64.json)
 
 [Extended Data](ext_articles/69bfcf64.ext.json)
-
----
-
-### US government faces brain drain as 154,000 federal workers exit this week
-
-*2025-10-01 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113111/us-government-faces-brain-drain-as-154000-federal-workers-exit-this-week) · `en`
-
-More than 150,000 federal employees will leave the U.S. government payroll this week after accepting buyouts - the largest single-year exodus of civil servants in nearly 80 years, triggering what unions and governance experts warn is a damaging loss of institutional expertise.
-
-The official resignations begin on Tuesday for workers who opted into a deferred exit program that kept them on the payroll through September. The buyouts are a cornerstone of President Donald Trump’s push to shrink the federal workforce, combining financial incentives with threats of dismissal for those who declined the offer.
-
-Many left their agencies months ago, according to the federal government’s HR office, and have effectively been on paid leave.
-
-Don Moynihan, a professor at the Ford School of Public Policy at the University of Michigan, said the biggest impact of this week’s exodus will be the brain drain of so many experienced civil servants, a loss of talent he says will be hard to reverse.
-
-...
-
-[Data](articles/c5367ff1.json)
-
-[Extended Data](ext_articles/c5367ff1.ext.json)
 
 ---

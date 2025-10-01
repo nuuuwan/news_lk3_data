@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 23:40:12**
+As of **2025-10-01 23:57:25**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,364 (100.0%) of 80,365 articles have been extended.
+80,365 (100.0%) of 80,365 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1161,21 +1161,25 @@ The magistrate ordered the five suspects and each suspect to go on bail worth Rs
 
 ---
 
-### பேருந்து கட்டணத்தை குறைக்க முடியாது - கெமுனு விஜேரத்ன
+### Bus fare cannot be reduced - Gemunu Wijeratne
 
 *2025-10-01 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226614) · `ta`
 
-டீசலின் விலை 6 ரூபாவினால் குறைக்கப்பட்டுள்ள போதிலும் பேருந்து கட்டணத்தை குறைக்க முடியாது. தனியார் பேரூந்து உரிமையாளர்களை நெருக்கடிக்குள்ளாக்கும் வகையில் தான் அரசாங்கம் தீர்மானங்களை எடுக்கிறது என அகில இலங்கை தனியார் பேருந்து உரிமையாளர் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்தார்.
+The price of diesel is reduced by 6 rupees but the bus fare cannot be reduced. Gemunu Wijeratne, president of the All Ceylon Private Bus Owners Association, said that the government is making decisions to make private bus owners in crisis.
 
-கொழும்பில் உள்ள அகில இலங்கை தனியார் பேருந்து உரிமையாளர் சங்கத்தின் காரியாலயத்தில் புதன்கிழமை (01) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது  மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a media briefing held at the All Ceylon Private Bus Owners Association in Colombo on Wednesday (01).
 
-சுதந்திரத்துக்கு பின்னர் ஆட்சியில் இருந்த சகல  அரசாங்கங்களும் தனியார் பேருந்து தொழிற்றுறையை இரண்டாம் பட்சமாக கருதியே செயற்பட்டன.தற்போதைய அரசாங்கமும் தனியார் பேரூந்து தொழிற்றுறையை நெருக்கடிக்குள்ளாக்கும் வகையில் செயற்படுகிறது.
+All governments that have been in power since independence have considered the private bus industry as the second time.
 
-மாதாந்த எரிபொருள் விலைச்சூத்திரத்துக்கு அமைய நேற்று முன்தினம் நள்ளிரவு எரிபொருளின் விலைகள் குறைக்கப்பட்டுள்ளன.இதற்கமைய டீசலின் விலை 6 ரூபாவினால் குறைக்கப்பட்டுள்ளது. கடந்த ஆகஸ்ட் மாதமும் டீசலின் விலை 6 ரூபாவால் குறைக்கப்பட்டது.
+The prices of fuel have been reduced by midnight yesterday, according to the monthly fuel price.. In August, diesel prices were reduced by 6 rupees.
 
-...
+Although the price of diesel has been reduced by 6 rupees, the bus fare cannot be reduced.
+
+◼️
 
 [Data](articles/2ba37868.json)
+
+[Extended Data](ext_articles/2ba37868.ext.json)
 
 ---
 

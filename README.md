@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 19:02:58**
+As of **2025-10-01 19:56:13**
 
 ## Newspaper Stats
 
-*Scraped **80,313** Articles*
+*Scraped **80,323** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 537
-lankadeepalk | 604
+newsfirstlk | 539
+lankadeepalk | 608
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -17,21 +17,119 @@ dailymirrorlk | 4,733
 economynextcom | 4,771
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,721
+adalk | 7,722
 adaderanalk | 10,340
-tamilmirrorlk | 11,984
-virakesarilk | 13,136
-adaderanasinhalalk | 13,857
+tamilmirrorlk | 11,985
+virakesarilk | 13,137
+adaderanasinhalalk | 13,858
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,308 (100.0%) of 80,313 articles have been extended.
+80,323 (100.0%) of 80,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Australian Homeland Homeland Radio Radio Radio
+
+*2025-10-01 19:01:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவில்-230-முன்பள்ளி-மாணவர்களுக்கு-அவுஸ்திரேலிய-தாயகம்-வானொலியின்-அன்பளிப்பு/175-365599) · `ta`
+
+School equipment has been provided under the 'Home' Tamil Broadcast Service Radio 'program, which is broadcast from Australia for a 24 -hour broadcast for selected pre -school students in the Mullaitivu district.
+
+The event was held yesterday (30.09.2025) in Mulliyawala and Vadapalai areas.
+
+Former Karaithuraipattu Pradeshiya Sabha Chairman K. Dawarasa, Pradeshiya Sabha Member Gnana. Judson, social activists e. Dayaparan, P. Sreedharan, Vadapalai and Keppapulavu Grama Niladhari, Stock Exchange, Pre -School Teachers and Parents were among those present.
+
+On the occasion of Children's Day, at the request of Gnan Judsan, a member of the Karaithauraipattu Pradeshiya Sabha and Social activist, the financial assistance provided by the director of 'Homeland' Radio was provided with school equipment to 230 students from 10 pre -schools.
+
+It is noteworthy that the 'Homeland' Tamil Broadcasting Service Radio continues to carry out various social aid programs in the Vanni area.
+
+◼️
+
+[Data](articles/8cf306ae.json)
+
+[Extended Data](ext_articles/8cf306ae.ext.json)
+
+---
+
+### 58 children living on World Children's Day hospitalized
+
+*2025-10-01 18:58:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ළම-දනය-ගත-ආහර-වස-ව-දරව-58ක-රහල-ගත-කරත/101-680595) · `si`
+
+A hospital spokesman said that the teachers of Hingurakgoda Bakatuna Kottapitiya School of Colombo, Hingurakgoda, Vidyalaya in Polonnaruwa have been admitted to the Bakamuna Divisional Hospital due to the teachers of the World Children's Day.
+
+Later, after granting the food to the students, the school had a number of students who went to home and inhabitants.
+
+At the same time, nearly 58 school children have been hospitalized with each parent to bring their children to the Bakamuna Regional Hospital.
+
+◼️
+
+[Data](articles/4d4a7b60.json)
+
+[Extended Data](ext_articles/4d4a7b60.ext.json)
+
+---
+
+### 3 commercial boards in court against the abolition of SVAT
+
+*2025-10-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215230) · `si`
+
+A Rit petition has been filed against the abolition of SVAT (SVAT (Simplified Value Added Tax Tax) Scheme and the abolition of SVAT (Simplified Value Added Tax) System.
+
+Free Trade Zone Manufacturers Association, National Commodity Board of Sri Lanka and the Commercial Heads of Small and Medium Small Industries have been filed in the Court of Appeal.
+
+◼️
+
+[Data](articles/b853700f.json)
+
+[Extended Data](ext_articles/b853700f.ext.json)
+
+---
+
+### Director's director is locked up with the Principal of the Principal
+
+*2025-10-01 18:53:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදහලපතට-සථන-මර-ලපය-රගන-ගය-කලප-අධයකෂක-සරකරල/101-680594) · `si`
+
+Schedule after conducting the Schedule article after an investigation against the principal held against the Principal of Abboddi National School, ZHN.. Mrs. Dulanjali had taken steps to keep the school's gates of the school and prison.
+
+Several claims to be the school development society of the school and had a teaching of the entrance, supporting it and staying on the school premises.
+
+The Zeagraphent Director of the Agraditional Principal of the Agraditional School of Agraditional School of Agraditional School SK Coomaranayake has taken the transfer letter to the Eastern Provincial Department of Education with immediate effect.
+
+As soon as the incident, a group of committees came to a "voice" against the outside principal.
+
+Senior Superintendent of Police in charge of the Kantale Division. Sanjeewa Bandara deployed several police officers at Headquarters Police and allowed the zonal education director.
+
+◼️
+
+[Data](articles/d5e4b033.json)
+
+[Extended Data](ext_articles/d5e4b033.ext.json)
+
+---
+
+### 4 year old baby billions into the well
+
+*2025-10-01 18:51:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අවරද-4ක-දරව-ළඳට-බල/101-680593) · `si`
+
+Navagamuwa Police say that a four-year-old child had died in the ground behind the house today (01)
+
+The deceased has been identified as 404/6, the highest Bomiriya, a resident of Kaduwela. Although the well on the back of the nickey is covered with a net, the involvement of the adult attention must have been suspected to go into the well.
+
+The police say that the accident had been identified as the children of the children's day to attend the presence of the Children's Day Cricket and acquired gifts.
+
+When this event was the mother's mother and grandfather were from home. Later, although the intervention of Navagamuwa Polonnaruwa, the child was taken to Navagamuwa hospital, but the doctors have been identified as the child has died.
+
+◼️
+
+[Data](articles/789edd0e.json)
+
+[Extended Data](ext_articles/789edd0e.ext.json)
+
+---
 
 ### Energy Minister visits India: Advice on bilateral energy cooperation
 
@@ -185,6 +283,18 @@ The police say that the accident had been identified as the children of the chil
 
 ---
 
+### Namal Slams CID Over ‘Politically Driven’ Thajudeen Case
+
+*2025-10-01 18:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/namal-slams-cid-over-%e2%80%98politically-driven%e2%80%99-thajudeen-case) · `en`
+
+...
+
+[Data](articles/e1f8b9ce.json)
+
+[Extended Data](ext_articles/e1f8b9ce.ext.json)
+
+---
+
 ### Theft in a bank money laundering machine - observation!
 
 *2025-10-01 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226622) · `ta`
@@ -226,6 +336,20 @@ He told the media that the NTC would calculate the bus fares according to a cert
 [Data](articles/42c879e8.json)
 
 [Extended Data](ext_articles/42c879e8.ext.json)
+
+---
+
+### Police Recover Over 200 T-56 Magazines From Reservoir
+
+*2025-10-01 18:09:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-recover-over-200-t-56-magazines-from-reservoir) · `en`
+
+COLOMBO (News 1st); Police have recovered another large cache of empty weapon magazines from the Veheragala Reservoir, continuing a major search operation launched yesterday based on military intelligence.According to police, the latest discovery includes:214 empty T-56 magazines38 LMG drum magazines11 MPMG 200-round magazines9 MPMG 100-round magazines6 T-81 magazinesOne 100-round drum for 12.7mm anti-aircraft gunsThe search operation, which began yesterday afternoon with the assistance of divers, was initiated following information provided by an Army Intelligence officer.Police have launched an investigation to identify those responsible for dumping the magazines into the reservoir. The case will be reported to the Wellawaya Magistrate’s Court, according to a statement from the Police Media Division.
+
+◼️
+
+[Data](articles/72a725be.json)
+
+[Extended Data](ext_articles/72a725be.ext.json)
 
 ---
 
@@ -1169,6 +1293,26 @@ Don Moynihan, a professor at the Ford School of Public Policy at the University 
 
 ---
 
+### Mujibur allegation
+
+*2025-10-01 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226586) · `ta`
+
+Repression is being used by the opposition parties not only to fight for their rights. The government is not important to the people's struggles or the opinions of the environmentalists regarding the Mannar wind power project.. United People's Power MP Mujibur Rahman accused the government of trying to respond through the rioting unit instead of resolving the issue through negotiations.
+
+He further stated at the media conference held at the United People's Power Office in Colombo on Wednesday (October 1).
+
+A massive demonstration against the wind power generation project in Mannar. Many environmentalists have pointed out that the project will have a huge impact on the environment and birds.
+
+But the government ignores the people's struggles or the opinions of the environmentalists without importance. No one can prioritize the governing body to respond to these.
+
+...
+
+[Data](articles/c16091d4.json)
+
+[Extended Data](ext_articles/c16091d4.ext.json)
+
+---
+
 ### Comes with the line of Chillicily
 
 *2025-10-01 15:47:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருகிறது-சிலிசிலி-வரி/175-365587) · `ta`
@@ -1757,6 +1901,28 @@ This decision was made by Lafs Gas PLC, Cluster CEO Niroshan J. Peiris announced
 
 ---
 
+### Shots shooting police orders negative vehicle
+
+*2025-10-01 14:44:51* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතැකූ-වාහනයට-වෙඩි/11-418845) · `si`
+
+The Nittambuwa Police say that the police officers who pledged a veteran vehicle in three occasions have been taken into custody.
+
+At the Kurunegala Divisional Secretariat Police, the Gampaha Divisional Secretariat, the Gampaha Divisional Secretariat, the Gampaha Divisional Sacred Police Motorcy Center, has been conducting a van towards the Nittambuwa to Nittambuwa.
+
+Police officers have taken steps to signal the van, but the van has been running incessantly.
+
+The officials of the motorcycle unit have been attempted to stop the vehicle behind the van on three occasions and the van has been driven towards Wathupitiwala in Nittambuwa.. Due to this, the police station at the front of the police and back in the front of the police officers and the right tire of the van, the police station stopped the vehicle
+
+The vehicle and the three were arrested by the vehicle and other vessels to stop the vanage on the left of the road.
+
+...
+
+[Data](articles/cfbeec82.json)
+
+[Extended Data](ext_articles/cfbeec82.ext.json)
+
+---
+
 ### Bullets emerge from Weheragala reservoir
 
 *2025-10-01 14:43:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වහරගල-ජලශයන-උණඩ-මතව/101-680575) · `si`
@@ -1848,183 +2014,5 @@ He was addressing the Sri Lankan community in Japan. He added that the market wa
 [Data](articles/b8d142e3.json)
 
 [Extended Data](ext_articles/b8d142e3.ext.json)
-
----
-
-### There is no change in Litro Gas Price
-
-*2025-10-01 14:38:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලටර-ගස-මල-වනසක-නත/101-680574) · `si`
-
-According to the gas price formula, Litro Gas Ltd. said the litro gas prices would not change this month.
-
-Accordingly, the price of a 12.5kg domestic gas cylinder of Rs 3,690, Rs.
-
-◼️
-
-[Data](articles/ea465c89.json)
-
-[Extended Data](ext_articles/ea465c89.ext.json)
-
----
-
-### Govt Rules Out Sale of State Farms, Pledges Revival
-
-*2025-10-01 14:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/govt-rules-out-sale-of-state-farms-pledges-revival) · `en`
-
-COLOMBO (News 1st); The government will not sell state-owned agricultural resources but will instead focus on proper management and revitalization, Deputy Minister of Agriculture and Livestock Namal Karunaratne said.Speaking at an event, Karunaratne revealed that previous administrations had prepared plans to sell 32 state farms covering 28,802 acres, along with five milk factories and 92 centers.However, he stressed that the current government has completely abandoned those plans.“We will not sell a single asset to any country, nor will we allow anyone else to do so. These resources are part of our national identity. We have already initiated programs to develop and promote them with the participation of the local private sector,” Karunaratne said.The Deputy Minister emphasized that the government’s stance is to manage and modernize these assets to strengthen the agricultural sector and ensure food security.
-
-◼️
-
-[Data](articles/a679a0de.json)
-
-[Extended Data](ext_articles/a679a0de.ext.json)
-
----
-
-### Nine people vulnerable
-
-*2025-10-01 14:36:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டியதில்-ஒன்பது-பேர்-பாதிப்பு/76-365583) · `ta`
-
-Nine workers have been affected by the wasps in Mussellia, Mousezakkala. Among them include female workers. The incident took place on Wednesday (01) at 12 noon.
-
-While the body was being snatched, the wasp nest in the lower part of the tea plant dissolved and poured. Nine victims are receiving silk treatment at Maskeliya District Hospital.
-
-Four of them have been treated in the Outdone Division and five are staying and are being treated, a medical officer in the district hospital said.
-
-◼️
-
-[Data](articles/af57027c.json)
-
-[Extended Data](ext_articles/af57027c.ext.json)
-
----
-
-### Shot to police command
-
-*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලස-අණට-අවනත-නවවන-රයට-වඩ/1-680573) · `si`
-
-Nittambuwa Police say that the police were arrested by the police stabbed to shoot at three occasions and stopped a vehicle.
-
-Van was suspiciously visible to the Nittambuwa to Nittambuwa, including six officers in the Gampaha Divisional Center, Gampaha Divisional Police Motorcycle, Gampaha Divisional Secretariat.
-
-Police say that the van has been signaled to stop the van, but the van has been running out.
-
-Officers of the Motorcycle Unit have tried to stop the vehicle on three occasions on the back of the van and the van has been operated towards Wathupitiwala towards Wathupitiwala.
-
-The police say the vehicle has stopped three shots and back on the front of the police officers.
-
-Then the vehicle and the three were arrested by the vehicle and its three of the retail from the left hand side of the views.. They have been excessively dressed and the driver is a Kuru, a rice resident of Lellopitiya.
-
-◼️
-
-[Data](articles/5d9014ad.json)
-
-[Extended Data](ext_articles/5d9014ad.ext.json)
-
----
-
-### Shot to police command
-
-*2025-10-01 14:34:22* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පලස-අණට-අවනත-නවවන-රයට-වඩ/101-680573) · `si`
-
-Nittambuwa Police say that the police were arrested by the police stabbed to shoot at three occasions and stopped a vehicle.
-
-Van was suspiciously visible to the Nittambuwa to Nittambuwa, including six officers in the Gampaha Divisional Center, Gampaha Divisional Police Motorcycle, Gampaha Divisional Secretariat.
-
-Police say that the van has been signaled to stop the van, but the van has been running out.
-
-Officers of the Motorcycle Unit have tried to stop the vehicle on three occasions on the back of the van and the van has been operated towards Wathupitiwala towards Wathupitiwala.
-
-The police say the vehicle has stopped three shots and back on the front of the police officers.
-
-Then the vehicle and the three were arrested by the vehicle and its three of the retail from the left hand side of the views.. They have been excessively dressed and the driver is a Kuru, a rice resident of Lellopitiya.
-
-◼️
-
-[Data](articles/cbc9eb98.json)
-
-[Extended Data](ext_articles/cbc9eb98.ext.json)
-
----
-
-### SLTB - CEB
-
-*2025-10-01 14:23:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලගම-ලවම-යනයන-ලකකනට-අවසර-පතර-ද-කට-අටක-පඩවල/1-680572) · `si`
-
-A report issued by the National Audit Office, a loss of Rs.
-
-Also, the National Audit Office had no loss for more than two million rupees from the Railway Department on the basis of exchangedation.
-
-Two officers can be released on a full-time congress of a recognized Trade Union Federation and an officer who is unleashed should be released to travel to anywhere in the island.. However, the report states that the above free passports have been issued against the law.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-◼️
-
-[Data](articles/7e0239de.json)
-
-[Extended Data](ext_articles/7e0239de.ext.json)
-
----
-
-### SLTB 'Union' bosses lost eight million in permits
-
-*2025-10-01 14:23:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලගම-යනයන-ලකකනට-අවසර-පතර-ද-කට-අටක-පඩවල/1-680572) · `si`
-
-A report issued by the National Audit Office, a loss of Rs.
-
-Also, the National Audit Office had no loss for more than two million rupees from the Railway Department on the basis of exchangedation.
-
-Two officers can be released on a full-time congress of a recognized Trade Union Federation and an officer who is unleashed should be released to travel to anywhere in the island.. However, the report states that the above free passports have been issued against the law.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-◼️
-
-[Data](articles/cae9001f.json)
-
-[Extended Data](ext_articles/cae9001f.ext.json)
-
----
-
-### One of every six adults suffered from mental illness
-
-*2025-10-01 14:18:09* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/සම-වඩහටයන-හය-දනකගන-එක-අයකම-කනම-හ-මනසක-රගබධයකන-පළනවල/26-680571) · `si`
-
-Commenting - Uva Wellassa University, Career Guidance, Psychiatrist, Akila Pharmaceutanda
-
-By 2050 the elderly population is predicted to be 2.1 billion.  The number of adults with mental disorders is also high
-
-Has. Therefore, the elderly day is much to do for the adult day rather than celebrate.
-
-Today, we have many different problems in children. These children face many problems with questions about the problems, behavioral problems, mental, mental problems, and the empathy, which is socially found in our clinics.. We have found an increase in children's mental complications relative to us.
-
-We have the problems of many children as children, children, orphans with children, personality children with high-acting children, children, orphans, personality children, with a variety of genetic temperature.
-
-...
-
-[Data](articles/7fda240d.json)
-
-[Extended Data](ext_articles/7fda240d.ext.json)
-
----
-
-### Development officers to be recruited for teaching service – Education Min.
-
-*2025-10-01 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113108/development-officers-to-be-recruited-for-teaching-service-education-min) · `en`
-
-The Ministry of Education, Higher Education and Vocational Training has issued a statement regarding the recruitment of development officers currently assigned to schools to the teaching service.
-
-Accordingly, a communique confirming the move has been issued with the signature of the Secretary to the Ministry, Nalaka Kaluwewa.
-
-The Ministry states that several cases heard before the Supreme Court regarding the competitive examination which was scheduled to be held on March 25, 2023, for the recruitment of graduates to the state service, including development officers working in schools to the teaching service, have now been concluded.
-
-However, since the case being heard in the Court of Appeal has not yet been concluded, the Ministry of Education further states that any further action regarding the competitive examination will be taken only after the verdict is delivered.
-
-◼️
-
-[Data](articles/d700bbdf.json)
-
-[Extended Data](ext_articles/d700bbdf.ext.json)
 
 ---
